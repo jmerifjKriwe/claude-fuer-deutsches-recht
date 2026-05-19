@@ -22,10 +22,11 @@ def zip_names(zip_path: Path) -> set[str]:
         fail(f"{zip_path}: invalid ZIP: {exc}")
 
 
-# Cowork-/Marketplace-Upload-Limit. Praxiserprobt liegt die Grenze knapp unter 1 MB;
-# alles darüber wird vom Server abgelehnt („Plugin validation failed“ ohne Detail).
-# Wir setzen daher einen harten Schwellwert von 950 KB.
-MAX_ZIP_BYTES = 950 * 1024
+# Cowork-/Marketplace-Upload-Limit liegt offiziell bei 50 MB. Die frühere
+# Hypothese eines 1-MB-Limits war falsch — der eigentliche Bug war eine
+# Zahl-Komma-Zahl-Sequenz im description-Feld (siehe validate-plugin-structure.mjs).
+# Wir bleiben mit einem komfortablen Sicherheitsabstand bei 10 MB.
+MAX_ZIP_BYTES = 10 * 1024 * 1024
 
 
 def validate_plugin_zip(dist_dir: Path, plugin_name: str) -> None:
@@ -56,6 +57,13 @@ def validate_plugin_zip(dist_dir: Path, plugin_name: str) -> None:
         manifest = json.loads(archive.read(".claude-plugin/plugin.json"))
     if manifest.get("name") != plugin_name:
         fail(f"{zip_path}: manifest name {manifest.get('name')!r} does not match {plugin_name!r}")
+    description = manifest.get("description", "")
+    if len(description) > 300:
+        fail(f"{zip_path}: manifest description has {len(description)} chars; Cowork bevorzugt <= 300")
+    # Letzte Verteidigung gegen den 'Zahl-Komma-Zahl'-Validator-Bug.
+    import re
+    if re.search(r"\d\s*,\s*\d", description):
+        fail(f"{zip_path}: manifest description enthaelt Zahl-Komma-Zahl-Sequenz; nutze 'Rn', 'und' oder '/'")
 
     if plugin_name == "liquiditaetsplanung":
         generator = "skills/liquiditaetsvorschau-3-6-12-monate/werkzeuge/build_liquiditaetsplan.py"
