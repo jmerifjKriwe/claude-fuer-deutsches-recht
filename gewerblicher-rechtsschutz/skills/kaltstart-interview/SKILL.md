@@ -85,7 +85,7 @@ Bestätigung ausgeben:
 > **Einrichtung abgeschlossen.** Ihr Kanzleiprofil wurde unter `[Pfad]` gespeichert. Alle Skills lesen dieses Profil vor dem Start.
 >
 > **Bereit für:**
-> - `/gewerblicher-rechtsschutz:abmahnung` – Abmahnung entwerfen oder triagieren
+> - `/gewerblicher-rechtsschutz:abmahnung-urheberrecht` – Abmahnung entwerfen oder triagieren
 > - `/gewerblicher-rechtsschutz:markenrecherche [Marke]` – Clearance-Prüfung
 > - `/gewerblicher-rechtsschutz:schutzrechts-portfolio` – Schutzrechtsfristen prüfen
 > - Alle anderen Skills

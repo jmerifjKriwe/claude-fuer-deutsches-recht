@@ -31,8 +31,8 @@ mahnschreiben/
 
 ## Ablauf
 
-1. `/prozessrecht:mahnung-aufnahme [titel]` → führt adaptive Sachverhaltsaufnahme durch, schreibt `sachverhalt.md`
-2. `/prozessrecht:mahnung-entwurf [slug]` → prüft Privilegien und Verzichtsrisiken (§ 203 BGB analog; anwaltliche Verschwiegenheit), erstellt `.docx`, schreibt `checkliste.md`, bietet Mandatsanlage an
+1. `/prozessrecht:mahnschreiben-aufnahme [titel]` → führt adaptive Sachverhaltsaufnahme durch, schreibt `sachverhalt.md`
+2. `/prozessrecht:mahnschreiben-entwurf [slug]` → prüft Privilegien und Verzichtsrisiken (§ 203 BGB analog; anwaltliche Verschwiegenheit), erstellt `.docx`, schreibt `checkliste.md`, bietet Mandatsanlage an
 
 ## Verhältnis zu Mandaten
 

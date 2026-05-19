@@ -106,7 +106,7 @@ Format:
 ```markdown
 # Playbook-Aktualisierungsvorschläge
 *Erstellt: [ISO-Zeitstempel] | [N] Vorschläge | Abweichungsdaten bis [jüngstes datum_unterzeichnet im Log]*
-*Zur Prüfung: `/vertragsrecht:vorschlaege-pruefen` aufrufen*
+*Zur Prüfung: `/vertragsrecht:pruefungsvorschlaege` aufrufen*
 
 ---
 
@@ -116,7 +116,7 @@ Format:
 Den Rechtsanwalt über das Ziel in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` benachrichtigen:
 
 > Playbook-Monitor gelaufen — [N] Aktualisierungsvorschlag/Vorschläge zur Prüfung bereit.
-> Führen Sie `/vertragsrecht:vorschlaege-pruefen` aus, wenn Sie einen Moment Zeit haben.
+> Führen Sie `/vertragsrecht:pruefungsvorschlaege` aus, wenn Sie einen Moment Zeit haben.
 > Vorschläge: ~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/playbook-vorschlaege.md
 
 Den Lauf in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/spielbuch-monitor-log.yaml` protokollieren:
@@ -132,7 +132,7 @@ Den Lauf in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/
 
 ### Schritt 5 — Prüfung und Genehmigung (ausgelöst durch Befehl /vorschlaege-pruefen)
 
-Wenn der Rechtsanwalt `/vertragsrecht:vorschlaege-pruefen` aufruft:
+Wenn der Rechtsanwalt `/vertragsrecht:pruefungsvorschlaege` aufruft:
 
 1. `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/playbook-vorschlaege.md` lesen. Existiert die Datei nicht oder ist sie leer: *„Keine ausstehenden Vorschläge. Playbook ist aktuell."* Beenden.
 

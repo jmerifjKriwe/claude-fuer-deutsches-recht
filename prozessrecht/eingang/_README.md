@@ -28,7 +28,7 @@ eingang/
 
 | Art | Befehl | Ergebnisse |
 |---|---|---|
-| Empfangenes Mahnschreiben | `/prozessrecht:mahnung-eingegangen [pfad]` | triage.md + optionaler Antwortentwurf |
+| Empfangenes Mahnschreiben | `/prozessrecht:mahnschreiben-erhalten [pfad]` | triage.md + optionaler Antwortentwurf |
 | Vorlage-/Beweisanordnung erhalten | `/prozessrecht:vorlageanordnung [pfad]` | triage.md + Einwendungs-Memo |
 | Behördliche Anfrage | *zukünftiger Skill* | |
 

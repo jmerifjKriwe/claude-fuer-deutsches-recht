@@ -62,7 +62,7 @@ Ersten Token von `$ARGUMENTE` auswerten:
 3. `mandate/<slug>/mandat.md` anhand der untenstehenden Vorlage schreiben.
 4. `mandate/<slug>/verlauf.md` mit Eintrag „Eröffnet" anlegen.
 5. Leere `mandate/<slug>/notizen.md` erstellen.
-6. **Nicht** automatisch wechseln. Fragen: „Möchten Sie jetzt zu `<slug>` wechseln? (`/gesellschaftsrecht:mandats-workspace wechseln <slug>`)"
+6. **Nicht** automatisch wechseln. Fragen: „Möchten Sie jetzt zu `<slug>` wechseln? (`/gesellschaftsrecht:mandat-arbeitsbereich wechseln <slug>`)"
 
 ### Unterbefehl `liste`
 
@@ -75,7 +75,7 @@ Aktuell aktives Mandat mit `*` markieren. `_archiv/*` unter separater Überschri
 
 ### Unterbefehl `wechseln <slug>`
 
-1. `mandate/<slug>/mandat.md` auf Existenz prüfen. Falls nicht vorhanden: `/gesellschaftsrecht:mandats-workspace neu <slug>` anbieten.
+1. `mandate/<slug>/mandat.md` auf Existenz prüfen. Falls nicht vorhanden: `/gesellschaftsrecht:mandat-arbeitsbereich neu <slug>` anbieten.
 2. `Aktives Mandat:`-Zeile in CLAUDE.md auf Praxisebene auf `Aktives Mandat: <slug>` ändern.
 3. Inhalt von `mandat.md` zusammenfassen, damit der Nutzer bestätigen kann, das richtige Mandat gewählt zu haben.
 
@@ -168,7 +168,7 @@ Wenn er `an` ist: Ein Skill darf Dateien mandatsübergreifend nur dann lesen, we
 - Bei Wiederverwendung eines Slugs aus dem Archiv: Archiv-Version bleibt unter `_archiv/<slug>/` erhalten.
 ## Beispiel
 
-**Szenario M&A Käuferseite:** Sozietät begleitet GmbH-Anteilskauf. Neues Mandat angelegt: Slug `alpha-gmbh-anteilskauf-2026`, Mandatstyp M&A Käuferseite, Transaktionsphase Due-Diligence, erhöhte Vertraulichkeit (Clean-Team). Zwei verbundene Mandate (NDA-Phase und LOI-Phase) verknüpft. Nach Closing: Mandat auf Phase Post-Closing-Integration aktualisiert. Nach Abschluss der Integration: `/gesellschaftsrecht:mandats-workspace schließen alpha-gmbh-anteilskauf-2026` archiviert das Mandat dauerhaft.
+**Szenario M&A Käuferseite:** Sozietät begleitet GmbH-Anteilskauf. Neues Mandat angelegt: Slug `alpha-gmbh-anteilskauf-2026`, Mandatstyp M&A Käuferseite, Transaktionsphase Due-Diligence, erhöhte Vertraulichkeit (Clean-Team). Zwei verbundene Mandate (NDA-Phase und LOI-Phase) verknüpft. Nach Closing: Mandat auf Phase Post-Closing-Integration aktualisiert. Nach Abschluss der Integration: `/gesellschaftsrecht:mandat-arbeitsbereich schließen alpha-gmbh-anteilskauf-2026` archiviert das Mandat dauerhaft.
 
 
 ## Risiken und typische Fehler

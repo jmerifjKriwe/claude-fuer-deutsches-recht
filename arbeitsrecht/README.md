@@ -44,18 +44,18 @@ Die Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-rec
 | `/arbeitsrecht:lohn-arbeitszeit-fragen` | Lohn-/Arbeitszeitfragen: ArbZG, MiLoG, EFZG – standortbezogen |
 | `/arbeitsrecht:arbeitnehmer-status` | Statusfeststellung § 7a SGB IV, Scheinselbständigkeit, AÜG |
 | `/arbeitsrecht:lohnsteuer-sozialversicherung` | Statusfeststellung, Scheinselbständigkeit, Clearingverfahren DRV |
-| `/arbeitsrecht:urlaub-fehlzeiten` | Urlaubsregister und Fehlzeitentracker: BUrlG, EFZG, MuSchG, BEEG |
+| `/arbeitsrecht:fehlzeiten-register` | Urlaubsregister und Fehlzeitentracker: BUrlG, EFZG, MuSchG, BEEG |
 | `/arbeitsrecht:fehlzeit-erfassen` | Neue Fehlzeit / neuen Urlaub im Register anlegen |
-| `/arbeitsrecht:internationaler-einsatz-kickoff [Land]` | Entsendungs-/Expansionsprojekt eröffnen: AÜG, A1, EU-Entsende-RL, AentG |
-| `/arbeitsrecht:internationaler-einsatz-update [Land]` | Offenes Entsendungsprojekt aktualisieren |
+| `/arbeitsrecht:expansion-auftakt [Land]` | Entsendungs-/Expansionsprojekt eröffnen: AÜG, A1, EU-Entsende-RL, AentG |
+| `/arbeitsrecht:expansion-aktualisierung [Land]` | Offenes Entsendungsprojekt aktualisieren |
 | `/arbeitsrecht:untersuchung-eroeffnen` | Interne Untersuchung eröffnen – Intake, Quellenplan, Protokoll anlegen |
-| `/arbeitsrecht:untersuchung-hinzufuegen` | Dokumente / Gesprächsnotizen zu offener Untersuchung hinzufügen |
-| `/arbeitsrecht:untersuchung-abfragen` | Fragen gegen Untersuchungsprotokoll stellen |
-| `/arbeitsrecht:untersuchung-memo` | Privilegiertes Untersuchungs-Memo erstellen oder aktualisieren |
-| `/arbeitsrecht:untersuchung-zusammenfassung` | Zielgruppenspezifische Zusammenfassung (HR, Geschäftsführung, Außenanwalt) |
-| `/arbeitsrecht:personalrichtlinien` | Personalrichtlinien diff und Betriebsvereinbarungsauswirkungen prüfen |
-| `/arbeitsrecht:richtlinienerstellung [Thema]` | BetrVG-konforme Richtlinie entwerfen, BR-Anhörung planen |
-| `/arbeitsrecht:mandatsakte` | Mandatsakte verwalten (multi-mandant): neu, auflisten, wechseln, schließen, keine |
+| `/arbeitsrecht:untersuchung-ergaenzen` | Dokumente / Gesprächsnotizen zu offener Untersuchung hinzufügen |
+| `/arbeitsrecht:untersuchung-abfrage` | Fragen gegen Untersuchungsprotokoll stellen |
+| `/arbeitsrecht:untersuchungs-memo` | Privilegiertes Untersuchungs-Memo erstellen oder aktualisieren |
+| `/arbeitsrecht:untersuchungs-zusammenfassung` | Zielgruppenspezifische Zusammenfassung (HR, Geschäftsführung, Außenanwalt) |
+| `/arbeitsrecht:handbuch-aktualisierung` | Personalrichtlinien diff und Betriebsvereinbarungsauswirkungen prüfen |
+| `/arbeitsrecht:richtlinien-entwurf [Thema]` | BetrVG-konforme Richtlinie entwerfen, BR-Anhörung planen |
+| `/arbeitsrecht:mandat-arbeitsbereich` | Mandatsakte verwalten (multi-mandant): neu, auflisten, wechseln, schließen, keine |
 | `/arbeitsrecht:anpassen` | Kanzlei-/Unternehmensprofil gezielt anpassen |
 
 ## Interaktive Skills vs. geplante Agenten
@@ -101,7 +101,7 @@ Quellenplan § 26 BDSG-konform erstellen.
 
 **Szenario 5 – Entsendung nach Frankreich:**
 ```
-/arbeitsrecht:internationaler-einsatz-kickoff Frankreich
+/arbeitsrecht:expansion-auftakt Frankreich
 Mitarbeiter soll für 18 Monate nach Paris entsendet werden. Bitte A1-
 Bescheinigung, AEntG-Anforderungen und Entsendevertrag-Checkliste.
 ```

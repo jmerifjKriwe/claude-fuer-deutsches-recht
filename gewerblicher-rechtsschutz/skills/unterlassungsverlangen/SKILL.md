@@ -7,8 +7,8 @@ description: "Abmahnung versenden (Sendemodus) oder eine erhaltene Abmahnung tri
 
 Zwei Modi. Einen wählen:
 
-- `/gewerblicher-rechtsschutz:abmahnung --senden` – Abmahnungsentwurf kalibriert auf die Durchsetzungsstrategie der Kanzlei. Genehmigungsgate läuft vor Versand.
-- `/gewerblicher-rechtsschutz:abmahnung --empfangen` – Eingehende Abmahnung triagieren. Erzeugt ein Optionen-Memo mit Empfehlung.
+- `/gewerblicher-rechtsschutz:abmahnung-urheberrecht --senden` – Abmahnungsentwurf kalibriert auf die Durchsetzungsstrategie der Kanzlei. Genehmigungsgate läuft vor Versand.
+- `/gewerblicher-rechtsschutz:abmahnung-urheberrecht --empfangen` – Eingehende Abmahnung triagieren. Erzeugt ein Optionen-Memo mit Empfehlung.
 
 ## Zweck
 

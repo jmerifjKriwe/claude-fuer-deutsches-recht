@@ -30,12 +30,12 @@ Das Erlernte wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertr
 | Befehl | Funktion |
 |---|---|
 | `/vertragsrecht:kaltstart-interview` | Ersteinrichtungs-Interview durchführen oder wiederholen |
-| `/vertragsrecht:pruefen [Datei]` | Vertrag gegen den Vorgehensleitfaden prüfen |
+| `/vertragsrecht:vertragspruefung [Datei]` | Vertrag gegen den Vorgehensleitfaden prüfen |
 | `/vertragsrecht:vertragsverlaengerungs-monitor` | Welche Verträge laufen in 90 Tagen aus und bis wann muss die Kündigung eingehen? |
-| `/vertragsrecht:eskalation` | Eskalationspfad ermitteln und Vorlage formulieren |
+| `/vertragsrecht:eskalations-marker` | Eskalationspfad ermitteln und Vorlage formulieren |
 | `/vertragsrecht:aenderungs-historie [Datei(en)]` | Vertragsänderungen über Basisvertrag und alle Nachträge nachverfolgen |
-| `/vertragsrecht:klausel-vorschlaege` | Ausstehende Aktualisierungen des Vorgehensleitfadens aus dem Monitor-Agenten durcharbeiten |
-| `/vertragsrecht:akte` | Akten verwalten (nur Kanzleinutzung mit mehreren Mandanten) |
+| `/vertragsrecht:pruefungsvorschlaege` | Ausstehende Aktualisierungen des Vorgehensleitfadens aus dem Monitor-Agenten durcharbeiten |
+| `/vertragsrecht:mandat-arbeitsbereich` | Akten verwalten (nur Kanzleinutzung mit mehreren Mandanten) |
 
 ## Skills
 
@@ -87,7 +87,7 @@ Die Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-rec
 ### 2. Vertrag prüfen
 
 ```
-/vertragsrecht:pruefen lieferanten-msa.pdf
+/vertragsrecht:vertragspruefung lieferanten-msa.pdf
 ```
 
 Ausgabe: Abweichungsprotokoll gegen den Vorgehensleitfaden mit konkreten Redline-Formulierungen und namentlich genanntem Genehmiger.

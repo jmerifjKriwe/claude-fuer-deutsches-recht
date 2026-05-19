@@ -242,7 +242,7 @@ Eskalationsstatus: kein Eskalationsbedarf nach Playbook-Prüfung.
 ## Risiken und typische Fehler
 
 - **Fristen-Tracker-Eintragung behaupten ohne Prüfung.** Nur dann schreiben
-  „im Fristen-Tracker eingetragen", wenn `/vertragsrecht:fristen-tracker`
+  „im Fristen-Tracker eingetragen", wenn `/vertragsrecht:vertragsverlaengerungs-monitor`
   tatsächlich für diesen Vertrag ausgeführt wurde. Andernfalls:
   „noch nicht eingetragen — bitte als Handlungspunkt aufnehmen."
 - **Klauseln trunkieren.** Bedingte Klauseln vollständig paraphrasieren —

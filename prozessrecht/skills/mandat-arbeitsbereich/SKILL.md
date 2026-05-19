@@ -45,7 +45,7 @@ Anwälte mit mehreren Mandanten und Verfahren arbeiten parallel an verschiedenen
 
 Lies `CLAUDE.md` → Abschnitt `## Mandatsarbeitsbereiche`. Ist `Aktiviert: ✗`:
 
-> „Mandatsarbeitsbereiche sind deaktiviert — die Kanzlei ist als Einmandat-Kanzlei (z. B. Syndikusrechtsanwalt nach § 46 BRAO) konfiguriert und arbeitet automatisch auf Kanzleiebene. Falls tatsächlich mehrere Mandate geführt werden, bitte `/prozessrecht:erstkonfiguration --neu` ausführen und eine Mehrmandat-Kanzlei auswählen. Andernfalls wird `/mandat-arbeitsbereich` nicht benötigt."
+> „Mandatsarbeitsbereiche sind deaktiviert — die Kanzlei ist als Einmandat-Kanzlei (z. B. Syndikusrechtsanwalt nach § 46 BRAO) konfiguriert und arbeitet automatisch auf Kanzleiebene. Falls tatsächlich mehrere Mandate geführt werden, bitte `/prozessrecht:kaltstart-interview --neu` ausführen und eine Mehrmandat-Kanzlei auswählen. Andernfalls wird `/mandat-arbeitsbereich` nicht benötigt."
 
 ### Schritt 2: Unterbefehl ausführen
 
@@ -63,7 +63,7 @@ Lies `CLAUDE.md` → Abschnitt `## Mandatsarbeitsbereiche`. Ist `Aktiviert: ✗`
 3. `mandate/<slug>/akte.md` nach Vorlage unten schreiben.
 4. `mandate/<slug>/verlauf.md` mit Eröffnungseintrag seeden.
 5. Leere `mandate/<slug>/notizen.md` anlegen.
-6. Nicht automatisch wechseln — fragen: „Soll auf `<slug>` gewechselt werden? (`/prozessrecht:mandatsarbeitsbereich wechseln <slug>`)"
+6. Nicht automatisch wechseln — fragen: „Soll auf `<slug>` gewechselt werden? (`/prozessrecht:mandat-arbeitsbereich wechseln <slug>`)"
 
 #### `liste`
 

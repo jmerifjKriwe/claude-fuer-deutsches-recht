@@ -117,7 +117,7 @@ Berechnete Fristen:
   [Fristname]:  [Datum]  [Norm]
 
 Gespeichert: ~/.../urlaubsregister.yaml
-Nächste Prüfung: /arbeitsrecht:urlaub-fehlzeiten
+Nächste Prüfung: /arbeitsrecht:fehlzeiten-register
 ```
 
 ## Beispiele
