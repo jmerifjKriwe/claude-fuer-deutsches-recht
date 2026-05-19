@@ -129,16 +129,70 @@ function checkMarketplace() {
 }
 
 function checkSkills() {
+  // Offiziell von Claude Code/Cowork akzeptierte Frontmatter-Felder.
+  // Quelle: code.claude.com/docs/en/plugins-reference und anthropics/skills.
+  // Strikt: nur name + description; alles andere wird abgelehnt.
+  const ALLOWED_SKILL_FIELDS = new Set([
+    'name', 'description',
+  ]);
   const skills = walk(root, f => path.basename(f) === 'SKILL.md');
   for (const skill of skills) {
     const fm = parseFrontmatter(skill);
     if (!fm) continue;
     if (!topLevelField(fm, 'name')) errors.push(`${rel(skill)}: missing name`);
     if (!topLevelField(fm, 'description')) errors.push(`${rel(skill)}: missing description`);
-    if (topLevelField(fm, 'triggers')) errors.push(`${rel(skill)}: use when_to_use instead of triggers`);
+    // Verbotene Felder explizit benennen für klare Fehlermeldung.
+    for (const forbidden of ['triggers', 'when_to_use', 'language', 'rechtsgebiet',
+                              'license', 'argument-hint', 'user-invocable',
+                              'related_skills', 'allowed-tools', 'version']) {
+      if (topLevelField(fm, forbidden)) {
+        errors.push(`${rel(skill)}: forbidden frontmatter field '${forbidden}' — merge into description or remove`);
+      }
+    }
+    // Unbekannte Top-Level-Felder erkennen (zusätzliche Sicherung).
+    for (const line of fm.split(/\r?\n/)) {
+      const m = line.match(/^([A-Za-z][\w-]*)\s*:/);
+      if (!m) continue;
+      if (!ALLOWED_SKILL_FIELDS.has(m[1])) {
+        // Nur wenn nicht schon als forbidden gemeldet.
+        const already = errors.some(e => e.includes(`'${m[1]}'`) && e.startsWith(rel(skill)));
+        if (!already) {
+          errors.push(`${rel(skill)}: unknown frontmatter field '${m[1]}' (only allowed: name, description)`);
+        }
+      }
+    }
     const nameMatch = fm.match(/^name\s*:\s*['"]?([^\r\n'"]+)/m);
     if (nameMatch && !/^[a-z0-9-]{1,64}$/.test(nameMatch[1].trim())) {
       errors.push(`${rel(skill)}: invalid skill name ${nameMatch[1].trim()}`);
+    }
+    // description muss einzeilig sein (Cowork-Parser-Bug bei Multi-Line).
+    const descMatch = fm.match(/^description\s*:\s*(.*)$/m);
+    if (descMatch) {
+      const v = descMatch[1].trim();
+      if (v === '|' || v === '>' || v.startsWith('|') || v.startsWith('>')) {
+        errors.push(`${rel(skill)}: description must be single-line (no | or > block style)`);
+      }
+      if (v.length > 1024) {
+        errors.push(`${rel(skill)}: description exceeds 1024 chars (${v.length})`);
+      }
+      if (/[<>]/.test(v)) {
+        errors.push(`${rel(skill)}: description contains forbidden XML-style brackets`);
+      }
+    }
+  }
+}
+
+function checkPluginManifests() {
+  // Strenge Semver-Prüfung für plugin.json: x.y.z ohne Pre-Release-Suffix.
+  const manifests = walk(root, f => f.endsWith(path.join('.claude-plugin', 'plugin.json')));
+  for (const m of manifests) {
+    const data = parseJson(m);
+    if (!data) continue;
+    if (data.version && !/^\d+\.\d+\.\d+$/.test(data.version)) {
+      errors.push(`${rel(m)}: version '${data.version}' must be strict semver x.y.z (no pre-release suffix)`);
+    }
+    if (data.name && !/^[a-z0-9-]+$/.test(data.name)) {
+      errors.push(`${rel(m)}: name '${data.name}' must be kebab-case`);
     }
   }
 }
@@ -187,6 +241,7 @@ function checkSuspiciousCharacters() {
 
 checkMarketplace();
 checkSkills();
+checkPluginManifests();
 checkManagedAgentReferences();
 checkMarkdownLinks();
 checkSuspiciousCharacters();
