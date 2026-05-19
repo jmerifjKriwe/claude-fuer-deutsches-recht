@@ -20,13 +20,16 @@ Wichtige Reihenfolgen, in der Anspruchsgrundlagen geprüft werden:
 
 ## 3. Auslegung
 
-Vier klassische Auslegungsmethoden nach Savigny / Larenz:
-1. **Grammatikalisch** – Wortlaut, Wortsinn nach Sprachgebrauch.
-2. **Systematisch** – Stellung im Gesetz, Verhältnis zu Nachbarnormen.
-3. **Historisch** – Entstehungsgeschichte, Materialien (BT-Drucks.).
-4. **Teleologisch** – Sinn und Zweck (ratio legis).
+In der deutschen Methodenlehre wird traditionell von vier Auslegungskanones gesprochen — die Zuschreibung an Savigny ist allerdings **unscharf** und wissenschaftlich umstritten. Die heute geläufige Vierer-Liste ist erst später so verfestigt worden; Savigny selbst hat seine »Elemente der Auslegung« anders zugeschnitten. Für die Praxis sind die vier Kanones eine **grobe gedankliche Stütze**, kein historisch sauberes Lehrgebäude:
+
+1. **Grammatikalisch** — Wortlaut, Wortsinn nach allgemeinem oder fachlichem Sprachgebrauch. Äußere Grenze der Auslegung; jenseits davon beginnt Rechtsfortbildung.
+2. **Systematisch** — Stellung im Gesetz, Verhältnis zu Nachbarnormen, Gesamtzusammenhang der Rechtsordnung.
+3. **Historisch** — Entstehungsgeschichte, Materialien (BT-Drucks., Ausschussberichte, Stellungnahmen). Geht am nächsten an den **Willen des Gesetzgebers** heran und ist deshalb methodisch vorrangig anzustreben — aber praktisch oft schwierig, weil Materialien lückenhaft, widersprüchlich oder schlicht nicht greifbar sind, und weil man, wie es ein älteres Bonmot fasst, in den Materialien gern »nur seine eigenen Bekannten trifft«: man liest dort die Stimmen, die ohnehin das eigene Ergebnis stützen, und ignoriert die anderen. Genau das ist methodisch unzulässig — die Materialien sind im Ganzen zu würdigen, einschließlich der widerstreitenden Stimmen.
+4. **Teleologisch** — Sinn und Zweck (ratio legis). Mit besonderer Vorsicht zu handhaben (siehe 3a).
 
 Ergänzend: **Verfassungs- und unionsrechtskonforme Auslegung**.
+
+Eine vollständig objektive Auslegung gibt es nicht: jede Anwendung enthält eine Wertentscheidung des Rechtsanwenders. Das ist aber **kein Freibrief für freie Methodenwahl**. Im Gegenteil: Recht entfaltet seine Funktion erst dadurch, dass es **Verhaltenserwartungen stabilisiert** und gleiche Fälle vorhersehbar gleich entschieden werden. Die Methodenlehre dient damit der **Rechtssicherheit** — wir wollen historisch und am Gesetzgeberwillen auslegen, wo immer möglich, aber wir wollen erst recht nicht beliebig sein. Wer sich an die Reihenfolge Wortlaut → System → Historie → Telos hält und Wertentscheidungen offenlegt, kommt zu Ergebnissen, die andere Juristen nachvollziehen und in ähnlichen Fällen reproduzieren können.
 
 > **Wichtige methodische Schranke:** Die Auslegungslehre ist kein Freibrief für Ergebnisorientierung. Zu den Grenzen unbegrenzter Auslegung und der besonderen Gefahr der Generalklauseln siehe Sektion 3a.
 
