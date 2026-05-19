@@ -22,10 +22,23 @@ def zip_names(zip_path: Path) -> set[str]:
         fail(f"{zip_path}: invalid ZIP: {exc}")
 
 
+# Cowork-/Marketplace-Upload-Limit. Praxiserprobt liegt die Grenze knapp unter 1 MB;
+# alles darüber wird vom Server abgelehnt („Plugin validation failed“ ohne Detail).
+# Wir setzen daher einen harten Schwellwert von 950 KB.
+MAX_ZIP_BYTES = 950 * 1024
+
+
 def validate_plugin_zip(dist_dir: Path, plugin_name: str) -> None:
     zip_path = dist_dir / f"{plugin_name}.zip"
     if not zip_path.exists():
         fail(f"{zip_path}: missing plugin ZIP")
+
+    size = zip_path.stat().st_size
+    if size > MAX_ZIP_BYTES:
+        fail(
+            f"{zip_path}: {size} bytes überschreitet Cowork-Uploadgrenze ({MAX_ZIP_BYTES} bytes). "
+            "Große Binärdateien (z. B. PDFs) entfernen und durch Online-Verweise ersetzen."
+        )
 
     names = zip_names(zip_path)
     if ".claude-plugin/plugin.json" not in names:
