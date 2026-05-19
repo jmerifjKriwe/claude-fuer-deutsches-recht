@@ -2,13 +2,13 @@
 
 > Diese Seite richtet sich an alle, die in Claude Desktop / Cowork **keinen GitHub-Pfad eingeben können** und einfach nur die Plugins ausprobieren wollen. Es ist kein bisschen blöd, dort etwas zu suchen — der GitHub-Pfad gehört in ein anderes Dialogfeld, das je nach Version unterschiedlich heißt oder gar nicht angeboten wird.
 >
-> Der schnellste Weg ist: **ZIP herunterladen → hochladen → fertig.** Genau dort, wo auch das Plugin „Legal Flame" landet.
+> Der schnellste Weg ist: **ZIP herunterladen → hochladen → fertig.** Genau dort, wo auch das Plugin „Legal Plugin" landet.
 
 ## Kurzfassung
 
 1. Auf [die Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) gehen.
 2. Pro gewünschtem Rechtsgebiet **eine ZIP-Datei** herunterladen, z. B. `liquiditaetsplanung.zip`.
-3. In Claude Desktop / Cowork auf **Customize → Plugin** klicken (das ist genau die Stelle, an der auch „Legal Flame" installiert wird).
+3. In Claude Desktop / Cowork auf **Customize → Plugin** klicken (das ist genau die Stelle, an der auch „Legal Plugin" installiert wird).
 4. Auf **+** → **Create** → **Upload plugin** klicken und das soeben heruntergeladene ZIP auswählen.
 5. Schritte 2–4 für jedes weitere Rechtsgebiet wiederholen, das gebraucht wird.
 
