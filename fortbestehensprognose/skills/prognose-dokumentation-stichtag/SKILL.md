@@ -166,4 +166,4 @@ Wenn die Prognose vierteljaehrlich aktualisiert wird, alte Prognosen aufheben un
 - `fortbestehensprognose-<datum>.docx` und PDF mit allen Anlagen.
 - Sicherer Archivpfad: `fortbestehensprognose/protokolle/<stichtag>.zip` mit Anlagenkonvolut.
 - Wiedervorlage-Eintrag im Kalender vierteljaehrlich.
-- Bei „negativ" Eskalation an Insolvenzanwalt (Skill `wenn-prognose-negativ-nächste-schritte`).
+- Bei „negativ" Eskalation an Insolvenzanwalt (Skill `wenn-prognose-negativ-naechste-schritte`).

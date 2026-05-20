@@ -21,7 +21,7 @@ Die Aktenzeitung ist die Tagebuchfuehrung pro Mandat. Sie ist Grundlage jeder Ho
   anwalt: RA Mueller
   mandat-az: 2026/0042
   mandant: Mueller GmbH
-  tätigkeit: Klageschrift Endredaktion und Versand über beA
+  taetigkeit: Klageschrift Endredaktion und Versand über beA
   dauer-minuten: 72
   abrechenbarkeit: abrechenbar
   honorarsatz-eur: 320

@@ -19,12 +19,12 @@ stichtag: 2026-05-20  # oder Bilanzstichtag des letzten Jahresabschlusses
 bilanzansatz: hgb  # hgb / ifrs / mischung
 
 aktiva:
-  a-anlagevermögen:
+  a-anlagevermoegen:
     immaterielle: 50000
     sachanlagen: 320000
     finanzanlagen: 0
-  b-umlaufvermögen:
-    vorräte: 180000
+  b-umlaufvermoegen:
+    vorraete: 180000
     forderungen-laul: 120000
     sonstige-forderungen: 15000
     fluessige-mittel: 18000
@@ -34,11 +34,11 @@ aktiva:
 passiva:
   a-eigenkapital:
     gezeichnetes-kapital: 25000
-    kapitalrücklage: 0
-    gewinnrücklagen: 0
+    kapitalruecklage: 0
+    gewinnruecklagen: 0
     bilanzergebnis: -107000  # negativ
     eigenkapital-summe: -82000  # negativ
-  b-rückstellungen:
+  b-rueckstellungen:
     pensionen: 0
     sonstige: 22000
   c-verbindlichkeiten:
@@ -50,8 +50,8 @@ passiva:
   d-rechnungsabgrenzung: 0
   passiva-summe: 708000
 
-bilanzielle-überschuldung: ja  # Aktiva = Passiva aber EK negativ = bilanzielle Überschuldung
-hoehe-bilanzielle-überschuldung: 82000
+bilanzielle-ueberschuldung: ja  # Aktiva = Passiva aber EK negativ = bilanzielle Überschuldung
+hoehe-bilanzielle-ueberschuldung: 82000
 ```
 
 ## Stille Reserven
@@ -91,12 +91,12 @@ summe-stille-lasten: 80000
 Forderungen mit qualifiziertem Rangrücktritt (§ 19 Abs. 2 S. 2 InsO) werden im Überschuldungsstatus **nicht passiviert**.
 
 ```yaml
-qualifizierter-rangrücktritt:
-  - gläubiger: Hauptgesellschafter Karl Mueller
+qualifizierter-rangruecktritt:
+  - glaeubiger: Hauptgesellschafter Karl Mueller
     forderung: Gesellschafterdarlehen vom 15.03.2024
     nennbetrag: 120000
-    rangrücktritt-erklärt-am: 2026-05-22
-    rangrücktritt-form: notarielle Urkunde  # idealtypisch
+    rangruecktritt-erklaert-am: 2026-05-22
+    rangruecktritt-form: notarielle Urkunde  # idealtypisch
     bgh-konform: ja  # siehe Skill gesellschafterdarlehen-rangrücktritt
 ```
 

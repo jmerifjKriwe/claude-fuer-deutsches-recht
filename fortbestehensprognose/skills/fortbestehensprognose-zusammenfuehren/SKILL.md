@@ -43,7 +43,7 @@ Wenn die Annahmen die das Ergebnis tragen ambitioniert oder nicht-belastbar sind
 
 ### Schritt 3 — Liquidität über 12 Monate positiv
 
-Aus Skill `liquidität-12-monate`:
+Aus Skill `liquiditaet-12-monate`:
 
 - **Basis-Szenario** positiv über alle zwölf Monate?
 - **Negativ-Szenario** mit zumutbaren Maßnahmen abdeckbar?
@@ -85,7 +85,7 @@ Drei mögliche Ergebnisse:
 **Folge**: 
 - **Insolvenzrechtliche Überschuldung gegeben** (§ 19 InsO).
 - **Antragspflicht** sechs Wochen nach Eintritt § 15a Abs. 1 S. 2 InsO.
-- **Sofort Insolvenzanwalt** einschalten — Skill `wenn-prognose-negativ-nächste-schritte`.
+- **Sofort Insolvenzanwalt** einschalten — Skill `wenn-prognose-negativ-naechste-schritte`.
 - Prüfung **drohende Zahlungsunfähigkeit** § 18 InsO mit StaRUG-Option (Prognosezeitraum 24 Monate).
 
 ## Stichtag und Dokumentation
@@ -100,12 +100,12 @@ prognose-zusammenfassung:
   prognose-horizont: 2026-06 bis 2027-05
   
   bilanzbild:
-    bilanzielle-überschuldung: ja (Höhe 82000 EUR)
+    bilanzielle-ueberschuldung: ja (Höhe 82000 EUR)
     insolvenzrechtliche-bilanzbasis: positiv (133000 EUR)
-    rangrücktritt: Gesellschafterdarlehen 120000 EUR
+    rangruecktritt: Gesellschafterdarlehen 120000 EUR
     stille-reserven: 175000 EUR
     
-  liquidität:
+  liquiditaet:
     basis-szenario: positiv
     negativ-szenario: positiv knapp (Endbestand Monat 11 bei 8000 EUR)
     stress-szenario: negativ ohne Patronatserklärung positiv mit
@@ -116,7 +116,7 @@ prognose-zusammenfassung:
     ambitioniert: 1 (Kostensenkung Standortschliessung)
     nicht-belastbar: 0
     
-  sanierungsmaßnahmen-erforderlich: ja
+  sanierungsmassnahmen-erforderlich: ja
   konkret-belegt:
     - Patronatserklärung Hauptgesellschafter 200000 EUR (unterzeichnet)
     - Gesellschafterdarlehen 120000 EUR mit Rangrücktritt (notariell)
@@ -127,7 +127,7 @@ prognose-zusammenfassung:
   ergebnis: positiv-mit-maßnahmen
   bewertung-wahrscheinlichkeit: überwiegend (mehr als 50 Prozent)
   
-  pflicht-ueberprüfung: vierteljaehrlich oder bei wesentlicher Änderung
+  pflicht-ueberpruefung: vierteljaehrlich oder bei wesentlicher Änderung
 ```
 
 ## Sonderfall — der konkrete Tag der Erstellung zählt
@@ -141,5 +141,5 @@ prognose-zusammenfassung:
 - `prognose-zusammenfassung.md` mit Stichtag Bewertung Beleg-Status.
 - Weiterleitung an:
   - `sanierungsbausteine-vorschlagen` wenn Maßnahmen erforderlich.
-  - `wenn-prognose-negativ-nächste-schritte` wenn Ergebnis negativ.
+  - `wenn-prognose-negativ-naechste-schritte` wenn Ergebnis negativ.
   - `prognose-dokumentation-stichtag` zur abschliessenden Dokumentation.

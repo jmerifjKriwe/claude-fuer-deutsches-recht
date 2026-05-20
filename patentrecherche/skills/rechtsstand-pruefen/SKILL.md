@@ -59,13 +59,13 @@ Pro Veröffentlichungsnummer das richtige Register öffnen. Bei einer Familienan
 Pro Schutzrecht:
 
 ```yaml
-veröffentlichungsnummer: EP 3 456 789 B1
+veroeffentlichungsnummer: EP 3 456 789 B1
 familie:
   inpadoc_family_id: 12345678
   prioritaeten: [DE 15.03.2018]
 anmeldetag: 14.03.2019
 prioritaetstag: 15.03.2018
-veröffentlichungstag_anmeldung: 18.09.2019
+veroeffentlichungstag_anmeldung: 18.09.2019
 erteilungstag: 12.09.2021
 schutzdauer_ende: 14.03.2039
 status: erteilt, in Kraft

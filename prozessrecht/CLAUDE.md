@@ -98,10 +98,10 @@ praxis_schwerpunkte: []     # z. B. ["ZPO", "ArbGG", "StPO"]
 mandate_gleichzeitig: 0     # typische Anzahl aktiver Mandate
 risikokalibrierung: ""      # z. B. "konservativ", "ausgewogen", "aggressiv"
 seite: ""                   # "Kläger", "Beklagter", "beide"
-außenanwälte: false         # Koordination externer Kanzleien?
-außenanwalt_liste: []       # externe Kanzleien / Korrespondenzanwälte
+aussenanwaelte: false         # Koordination externer Kanzleien?
+aussenanwalt_liste: []       # externe Kanzleien / Korrespondenzanwälte
 haus_stil: ""               # Besonderheiten im Schriftsatzstil
-gericht_hauptsächlich: ""   # z. B. "LG Frankfurt", "ArbG München"
+gericht_hauptsaechlich: ""   # z. B. "LG Frankfurt", "ArbG München"
 berichtsformat: ""          # z. B. "wöchentlich", "nach Bedarf"
 outlook_mcp: false          # Outlook MCP verfügbar?
 kalender_mcp: false         # Kalender MCP verfügbar?

@@ -46,8 +46,8 @@ flug:
   zielflughafen: LIS (Lissabon)
   geplante-abflugzeit: 2026-05-12T08:25:00+02:00
   geplante-ankunftszeit: 2026-05-12T11:00:00+01:00
-  tatsächliche-abflugzeit: null
-  tatsächliche-ankunftszeit: null
+  tatsaechliche-abflugzeit: null
+  tatsaechliche-ankunftszeit: null
   flugklasse: economy
   distanz-km: 2280  # Skill `distanz-und-ausgleich-berechnen`
 
@@ -55,9 +55,9 @@ stoerung:
   art: annullierung  # annullierung / verspätung / nichtbefoerderung / umbuchung / abweichender-flug
   bekanntgabe-am: 2026-05-12T06:30:00+02:00
   bekanntgabe-wie: SMS  # SMS / E-Mail / Schalter-Mitteilung
-  begründung-airline: technischer Defekt
+  begruendung-airline: technischer Defekt
   ersatzangebot: Flug am 13.05.2026 LH 1234
-  ersatz-tatsächlich-genutzt: ja
+  ersatz-tatsaechlich-genutzt: ja
 
 belege:
   - typ: buchungsbestätigung
@@ -87,7 +87,7 @@ belege:
 
 - `fallakte.yaml` mit allen Stammdaten.
 - `belegliste.md` mit Prüfer-Flags für fehlende Belege.
-- `nächste-schritte.md` Empfehlung auf nächsten Skill (`annullierung-oder-verspätung-einordnen`).
+- `nächste-schritte.md` Empfehlung auf nächsten Skill (`annullierung-oder-verspaetung-einordnen`).
 
 ## Mehrere Passagiere
 

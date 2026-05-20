@@ -82,7 +82,7 @@ außergewöhnlichen Umstand?
 
 ## Gegenargumente bei typischen Airline-Standardausreden
 
-Siehe Skill `airline-standardausreden-prüfen` mit detaillierten Standardgegenargumenten.
+Siehe Skill `airline-standardausreden-pruefen` mit detaillierten Standardgegenargumenten.
 
 ## Ausgabe
 

@@ -86,7 +86,7 @@ Welche der folgenden Recherchen kommen in der Kanzlei vor (Mehrfachauswahl):
 
 ### 8. Verschwiegenheit / KI-Vertrag
 
-Frage: Wurde der Einsatz des KI-Dienstleisters berufsrechtlich nach § 39c PAO und § 203 Abs. 4 StGB geprüft? Wenn nein: **vor produktivem Einsatz** Plugin `berufsrecht-ki-vertragsprüfung` durchlaufen.
+Frage: Wurde der Einsatz des KI-Dienstleisters berufsrechtlich nach § 39c PAO und § 203 Abs. 4 StGB geprüft? Wenn nein: **vor produktivem Einsatz** Plugin `berufsrecht-ki-vertragspruefung` durchlaufen.
 
 ### 9. Standard-Output-Sprache
 

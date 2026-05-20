@@ -58,8 +58,8 @@ Bei prüfungspflichtigen Gesellschaften (mittelgrosse oder grosse KapGes nach §
 
 ```yaml
 fall-id: FP-2026-0001
-stichtag-prüfung: 2026-05-20
-auslöser:
+stichtag-pruefung: 2026-05-20
+ausloeser:
   typ: hinweis-steuerberater  # hinweis-steuerberater / hinweis-wp / eigene-feststellung-bilanz / liquiditätsengpass / gesellschafterhinweis / eigene-sorge / externes-ereignis
   datum: 2026-05-15
   hinweisgeber: Steuerberater Mueller, Kanzlei XYZ
@@ -94,4 +94,4 @@ Im Zweifel **vor Ablauf der Frist** Insolvenzanwalt zu Rate ziehen.
 
 - `auslösendes-ereignis.yaml` mit allen Pflichtfeldern.
 - Erste Risikobewertung (gruen / gelb / rot).
-- Empfehlung: bei rot direkt zu `wenn-prognose-negativ-nächste-schritte` und Insolvenzanwalt einschalten — diese Prüfung kann fortgesetzt werden aber nicht ohne anwaltliche Begleitung.
+- Empfehlung: bei rot direkt zu `wenn-prognose-negativ-naechste-schritte` und Insolvenzanwalt einschalten — diese Prüfung kann fortgesetzt werden aber nicht ohne anwaltliche Begleitung.

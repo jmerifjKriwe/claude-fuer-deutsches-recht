@@ -180,7 +180,7 @@ phase: klageerhebung
 norm: § 4 Satz 1 KSchG
 dauer_tage: 21
 fristbeginn: zugang_kündigung
-folge_bei_versäumnis: fiktion_der_wirksamkeit_§7_kschg
+folge_bei_versaeumnis: fiktion_der_wirksamkeit_§7_kschg
 ausnahme: § 5 KSchG nachträgliche Zulassung
 ```
 
@@ -203,7 +203,7 @@ ausnahme: § 5 KSchG nachträgliche Zulassung
 - **Veraltete Rechtsstände.** Spielbücher basieren auf Vergleichsfällen
   von gestern — Pflicht zur Auffrischung gegen aktuelle Rechtsprechung
   bei jedem Einsatz, gestützt durch den
-  `regulierungs-feed-monitor` und den `verlängerungs-monitor`.
+  `regulierungs-feed-monitor` und den `verlaengerungs-monitor`.
 - **§ 203 StGB-Risiko bei Cloud-Verarbeitung.** Wenn die Generierung
   in einer Cloud-Umgebung läuft, sind die Anforderungen aus
   Fischer, StGB, § 203 Rn. 6a einzuhalten (Auftragsverarbeitungsvertrag,

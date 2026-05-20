@@ -59,8 +59,8 @@ Excel kann mehrere Tabellenblaetter nebeneinander. Der 3D-Würfel übernimmt die
 - id: recht
   titel: "Rechtliche Perspektive"
   perspektive: "anwalt"
-  prüfer-rolle: "rechtsanwalt"
-  eigene-spalten-zusätze:
+  pruefer-rolle: "rechtsanwalt"
+  eigene-spalten-zusaetze:
     - id: agb-wirksamkeit
       prompt: "Sind die AGB-Klauseln nach BGB Paragraph 305 ff. wirksam?"
   auslassungen:
@@ -73,7 +73,7 @@ Excel kann mehrere Tabellenblaetter nebeneinander. Der 3D-Würfel übernimmt die
 
 ## Stapelung
 
-Die Arbeitsblätter werden in der Excel-Ausgabe als Tabellenreiter nebeneinander dargestellt. Im PDF-Bericht erscheinen sie als aufeinanderfolgende Abschnitte. In `kreuzblatt-konsistenzprüfung` werden Widersprueche zwischen Arbeitsblättern gefunden (z. B. ein Vertrag der rechtlich gruen aber wirtschaftlich rot ist — das ist legitim und soll markiert werden).
+Die Arbeitsblätter werden in der Excel-Ausgabe als Tabellenreiter nebeneinander dargestellt. Im PDF-Bericht erscheinen sie als aufeinanderfolgende Abschnitte. In `kreuzblatt-konsistenzpruefung` werden Widersprueche zwischen Arbeitsblättern gefunden (z. B. ein Vertrag der rechtlich gruen aber wirtschaftlich rot ist — das ist legitim und soll markiert werden).
 
 ## Ausgabe
 

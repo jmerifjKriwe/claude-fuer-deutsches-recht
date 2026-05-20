@@ -103,7 +103,7 @@ Zeitpunkt Quelle Empfänger angewandte Pruefskills Ergebnis.
 
 Der Skill ist Hub für die anderen Skills des Plugins:
 
-- Eingehender Vertrag → `vertragsprüfung-playbook`
+- Eingehender Vertrag → `vertragspruefung-playbook`
 - Eingehende Mandanten-Korrespondenz mit Mängelanzeige →
   `mieteranfragen-bearbeitung`
 - Grundbuch-PDFs → `grundbuchanalyse`

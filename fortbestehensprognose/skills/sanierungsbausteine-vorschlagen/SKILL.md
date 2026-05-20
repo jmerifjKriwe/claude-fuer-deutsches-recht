@@ -28,7 +28,7 @@ Aus der Zusammenfuehrung (Skill `fortbestehensprognose-zusammenfuehren`) ergibt 
 - **Patron** muss bonitaer sein und sich gegenüber dem Begueneten **direkt** verpflichten.
 - Patronatserklärung **schriftlich** mit **klarem Verzicht auf Insolvenzanforderung** im Insolvenzfall.
 - Mehrwert: Forderung des Patrons gegen sich selbst (im Insolvenzfall) entlastet den Status.
-- Skill `patronatserklärung-extern-hart-erzeugen` mit Mustervorlage.
+- Skill `patronatserklaerung-extern-hart-erzeugen` mit Mustervorlage.
 
 ### Comfortletter (weich)
 
@@ -42,7 +42,7 @@ Aus der Zusammenfuehrung (Skill `fortbestehensprognose-zusammenfuehren`) ergibt 
 - Im Status nicht passiviert (§ 19 Abs. 2 S. 2 InsO).
 - BGH-Anforderungen an die Rangrücktrittsformulierung beachten (BGH II ZR 18/19).
 - Form: **notariell oder mit Schriftform unterzeichnet von beiden Parteien**.
-- Skill `gesellschafterdarlehen-rangrücktritt`.
+- Skill `gesellschafterdarlehen-rangruecktritt`.
 
 ### Forderungsverzicht mit Besserungsschein
 
@@ -55,7 +55,7 @@ Aus der Zusammenfuehrung (Skill `fortbestehensprognose-zusammenfuehren`) ergibt 
 
 - Lieferanten Bank Steuern (Achtung: Steuerstundung § 222 AO) Sozialversicherung (sehr restriktiv).
 - **Schriftlich** und mit **klarem Termin**.
-- Skill `stundungsanfrage-gläubiger`.
+- Skill `stundungsanfrage-glaeubiger`.
 
 ### Kapitalerhöhung
 
@@ -109,11 +109,11 @@ empfehlungen:
         prioritaet: mittel
         umsetzung-bis: 2026-06-30
 
-  ergebnis-nach-maßnahmen:
+  ergebnis-nach-massnahmen:
     bilanzbasis-vorher: positiv 133000 EUR
-    bilanzbasis-nach-maßnahmen: positiv 333000 EUR (zusätzlich Patronage 200000)
-    liquidität-vorher-stress: negativ
-    liquidität-nach-maßnahmen-stress: positiv
+    bilanzbasis-nach-massnahmen: positiv 333000 EUR (zusätzlich Patronage 200000)
+    liquiditaet-vorher-stress: negativ
+    liquiditaet-nach-massnahmen-stress: positiv
     gesamtprognose: positiv mit Maßnahmen
 ```
 
@@ -122,7 +122,7 @@ empfehlungen:
 - **Sofort** (binnen Tagen): Patronatserklärung Rangrücktritt
 - **Innerhalb Wochen** (drei Wochen Frist § 15a InsO bei Zahlungsunfähigkeit beachten): Stundungen Forderungsverzichte
 - **Innerhalb Frist § 15a InsO Sechs Wochen**: alle Maßnahmen verbindlich
-- **Bei Frist-Überschreitung**: keine zusätzliche Maßnahme mehr ausreichend — sofort Insolvenzantrag (Skill `wenn-prognose-negativ-nächste-schritte`).
+- **Bei Frist-Überschreitung**: keine zusätzliche Maßnahme mehr ausreichend — sofort Insolvenzantrag (Skill `wenn-prognose-negativ-naechste-schritte`).
 
 ## Ausgabe
 

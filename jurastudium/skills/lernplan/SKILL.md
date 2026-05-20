@@ -125,10 +125,10 @@ Examensklassiker in jeder Phase (§§ 280 ff., 823 BGB; §§ 242, 263 StGB; Erme
 ```yaml
 plan_typ: erstes_staatsexamen   # oder referendariat / zweites_staatsexamen
 bundesland: NRW
-prüfungstermin: 2026-07-15
+pruefungstermin: 2026-07-15
 erstellt: 2026-05-08
 zuletzt_aktualisiert: 2026-05-08
-wochen_bis_prüfung: 10
+wochen_bis_pruefung: 10
 stunden_pro_woche: 30
 tage_pro_woche: 5
 modus: normal                    # oder cram

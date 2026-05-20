@@ -52,11 +52,11 @@ Erstellt durch: [Patentanwältin / Patentanwalt]
 
 Strukturierte Treffertabelle mit Spalten: Veröff.-Nr., Anmelder, Anmeldetag, Klasse, Titel, Status, Recherchezeichen (X/Y/A/P/E) oder Ampel (rot/gelb/grün), Pinpoint, Link.
 
-Pro besonders relevantem Treffer ein **Dossier** auf einer halben Seite mit Pinpoint und Merkmals-Tabelle (übernommen aus `neuheit-prüfen` / `freedom-to-operate-recherche`).
+Pro besonders relevantem Treffer ein **Dossier** auf einer halben Seite mit Pinpoint und Merkmals-Tabelle (übernommen aus `neuheit-pruefen` / `freedom-to-operate-recherche`).
 
 ### 5. Patentfamilien
 
-Wenn relevante Treffer Familienmitglieder haben: Familientabelle pro Treffer mit Validierungsstaaten und Rechtsstand. Übernommen aus `patentfamilien-analyse` und `rechtsstand-prüfen`.
+Wenn relevante Treffer Familienmitglieder haben: Familientabelle pro Treffer mit Validierungsstaaten und Rechtsstand. Übernommen aus `patentfamilien-analyse` und `rechtsstand-pruefen`.
 
 ### 6. Bewertung
 
@@ -120,11 +120,11 @@ Aus den Vorgänger-Skills:
 - `klassifikation-cpc-ipc` → Klassen
 - `agentische-datenbank-recherche` → Trefferlisten und Suchstrings
 - `stand-der-technik-recherche` → X/Y/A/P/E-Bewertungen
-- `neuheit-prüfen` → Merkmalsanalyse
-- `erfinderische-tätigkeit-prüfen` → PSA-Argumentation
+- `neuheit-pruefen` → Merkmalsanalyse
+- `erfinderische-taetigkeit-pruefen` → PSA-Argumentation
 - `freedom-to-operate-recherche` → Ampelbewertungen
 - `patentfamilien-analyse` → Familientabellen
-- `rechtsstand-prüfen` → Rechtsstandsdaten
+- `rechtsstand-pruefen` → Rechtsstandsdaten
 
 ### Schritt 2: Erzeugt Markdown-Dokument
 

@@ -21,7 +21,7 @@ Pro Eintrag:
   hauptfrist: 2026-04-15
   vorfrist-tage: 5
   vorfrist: 2026-04-10
-  zuständig: RA Mueller
+  zustaendig: RA Mueller
   status: offen
   bemerkung: Widerspruchsbegründung benoetigt Akteneinsicht
 ```

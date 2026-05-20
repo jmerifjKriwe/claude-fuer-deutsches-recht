@@ -24,7 +24,7 @@ annahmen:
       - monat: 2026-07
         wert: 180000
       # ...
-    begründung: |
+    begruendung: |
       Vorjahreswerte plus 3% Wachstum bei stabiler Auftragslage.
       Auftragsbestand zum 20.05.2026 deckt bis September 2026.
     belege:
@@ -104,7 +104,7 @@ annahmen:
   umsatz:
     - bezeichnung: Hauptsegment Produktion
       monatswerte: [195000, 180000, 220000, 240000, 230000, 200000, 190000, 195000, 210000, 220000, 215000, 225000]
-      begründung: Auftragsbestand bis September 2026; Mai-Oktober historisch +10% über Schnitt
+      begruendung: Auftragsbestand bis September 2026; Mai-Oktober historisch +10% über Schnitt
       belege: [auftragsbestand-2026-05-20.xlsx]
       risiko: mittel
 
@@ -112,13 +112,13 @@ annahmen:
     - bezeichnung: Material und Energie
       basismonats-wert: 95000
       jahressteigerung: 3%
-      begründung: Lieferantenverträge bis 06/2027 Indexbindung 3%
+      begruendung: Lieferantenverträge bis 06/2027 Indexbindung 3%
       belege: [lieferantenverträge-übersicht.xlsx]
       risiko: niedrig
     - bezeichnung: Personalkosten
       basismonats-wert: 78000
       jahressteigerung: 4%
-      begründung: Tarifabschluss Metall 04/2026 4% per 01.07.2026
+      begruendung: Tarifabschluss Metall 04/2026 4% per 01.07.2026
       belege: [tarifabschluss-04-2026.pdf]
       risiko: niedrig
 
@@ -127,8 +127,8 @@ annahmen:
     forderungstage-ist: 42
     vorratsreichweite-soll: 60
     vorratsreichweite-ist: 75
-    begründung-abweichung: kundenseits verzoegerte Zahlungen seit Q1 2026
-    maßnahmen: Mahnwesen verschärft
+    begruendung-abweichung: kundenseits verzoegerte Zahlungen seit Q1 2026
+    massnahmen: Mahnwesen verschärft
 
   investitionen:
     - bezeichnung: Ersatzinvestition CNC
@@ -139,10 +139,10 @@ annahmen:
   finanzierung:
     bank-kreditlinie: 150000
     ausnutzung-ist: 92%
-    gesellschafterdarlehen-mit-rangrücktritt: 120000
-    weitere-maßnahmen: keine
+    gesellschafterdarlehen-mit-rangruecktritt: 120000
+    weitere-massnahmen: keine
 
-  sanierungsmaßnahmen:
+  sanierungsmassnahmen:
     - bezeichnung: Standortschliessung Nebenwerk
       effekt-monatlich: 12000
       ab-monat: 2026-08

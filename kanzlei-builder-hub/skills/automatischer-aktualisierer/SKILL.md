@@ -74,11 +74,11 @@ Dann die Vertrauensprüfung durchführen:
 
 ### Schritt 2.5: Erneuter Scan der neuen Version (GlassWorm-Sperre)
 
-Den vollständigen `skills-qualitätsprüfung`-Scan gegen die NEUE Version durchführen, bevor das Update angewendet wird. Ein Skill, der bei v1.0 sauber war, kann ein vergiftetes v1.1 ausliefern — das GlassWorm-Muster (ein vertrauenswürdiger Publisher, ein etablierter Skill, ein kleinerer Versions-Bump, der die Nutzlast trägt). Vertrauen aus der Installationszeit überträgt sich nicht auf Updates.
+Den vollständigen `skills-qualitaetspruefung`-Scan gegen die NEUE Version durchführen, bevor das Update angewendet wird. Ein Skill, der bei v1.0 sauber war, kann ein vergiftetes v1.1 ausliefern — das GlassWorm-Muster (ein vertrauenswürdiger Publisher, ein etablierter Skill, ein kleinerer Versions-Bump, der die Nutzlast trägt). Vertrauen aus der Installationszeit überträgt sich nicht auf Updates.
 
 **Regeln:**
 
-1. **Bei Regression schließen.** Wenn die neue Version Befunde erzeugt, wo die alte keine hatte — in einer beliebigen `skills-qualitätsprüfung`-Kategorie — Update standardmäßig verweigern und erklären warum.
+1. **Bei Regression schließen.** Wenn die neue Version Befunde erzeugt, wo die alte keine hatte — in einer beliebigen `skills-qualitaetspruefung`-Kategorie — Update standardmäßig verweigern und erklären warum.
 2. **Sicherheitsrelevante Diffs erfordern menschliche Genehmigung unabhängig vom Urteil.** Jede Änderung an `auslöser/auslöser.json`, `.mcp.json`, `allowed-tools`/`tools`-Frontmatter, neuer `Bash`/`WebFetch`/`WebSearch`-Zugriff, neue externe URLs, neue Dateischreibpfade außerhalb des Skill-Verzeichnisses oder das `description`-Frontmatter erzwingt einen menschlichen Genehmigungsprompt.
 3. **Leseschutz-Scan-Kontext.** Der Scan liest angreiferkontrollierten Text (die neue SKILL.md). Im Leseschutz-Subagenten mit Read + WebFetch + Glob ausführen (kein Write, kein Bash, kein MCP), wenn verfügbar.
 4. **Update verweigern, wenn Scan jetzt fehlschlägt.** Kein „trotzdem anwenden"-Option. REFUSE-Ausgabe und Stopp.
@@ -135,7 +135,7 @@ Installierter SHA: a1b2c3d → Neuester SHA: e4f5g6h
 - ## Alte NDA-Checkliste
 
 Vertrauensprüfung: ✅ Keine Änderungen an auslöser.json, .mcp.json oder allowed-tools.
-skills-qualitätsprüfung: BEREIT — kein Rückschritt gegenüber v1.0.
+skills-qualitaetspruefung: BEREIT — kein Rückschritt gegenüber v1.0.
 
 Diff anzeigen (ja) oder Update zurückstellen (nein)?
 ```

@@ -50,7 +50,7 @@ Spaltenprompts machen alle Dokumente vergleichbar. Zeilenprompts erlauben genau 
     Zusätzlich: AktG Paragraph 311 / Paragraph 312 (Konzernrecht).
     Marktüblichkeit der Vergütung in der Spalte 'Vergütung' bewerten.
   ueberschreibt-spalten: ["vergütung"]
-  ergänzt-spalten: ["change-of-control"]
+  ergaenzt-spalten: ["change-of-control"]
 ```
 
 ## Ausgabe

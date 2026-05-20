@@ -7,7 +7,7 @@ description: "Offenen Gap-Tracker anzeigen und verwalten. Laden, um zu sehen, we
 
 ## Zweck
 
-Dieser Skill liest und aktualisiert den Gap-Tracker. Er zeigt alle offenen, in Bearbeitung befindlichen und geschlossenen Compliance-Lücken aus dem letzten `lücken-aufzeiger`-Lauf an. Er ermöglicht das Setzen von Eigentümern, das Aktualisieren des Status und das Eskalieren von Gaps mit Fristüberschreitung.
+Dieser Skill liest und aktualisiert den Gap-Tracker. Er zeigt alle offenen, in Bearbeitung befindlichen und geschlossenen Compliance-Lücken aus dem letzten `luecken-aufzeiger`-Lauf an. Er ermöglicht das Setzen von Eigentümern, das Aktualisieren des Status und das Eskalieren von Gaps mit Fristüberschreitung.
 
 ## Eingaben
 
@@ -63,7 +63,7 @@ f) Alle geschlossenen Gaps archivieren
 
 Zitierweise: `../../../references/zitierweise.md`
 
-Dieser Skill liest und schreibt ausschließlich interne Tracking-Daten; keine normspezifische Zitierung erforderlich. Gap-Inhalte enthalten Normverweise aus dem erzeugenden `lücken-aufzeiger`-Lauf.
+Dieser Skill liest und schreibt ausschließlich interne Tracking-Daten; keine normspezifische Zitierung erforderlich. Gap-Inhalte enthalten Normverweise aus dem erzeugenden `luecken-aufzeiger`-Lauf.
 
 ## Ausgabeformat
 
@@ -91,6 +91,6 @@ Offen: 5 | In Bearbeitung: 2 | Geschlossen: 0 | Überfällig: 0
 
 ## Risiken / typische Fehler
 
-- **Veralteter Tracker:** Ohne regelmäßige `lücken-aufzeiger`-Läufe veraltet der Tracker. Hinweis anzeigen, wenn der letzte Lauf > 90 Tage zurückliegt.
+- **Veralteter Tracker:** Ohne regelmäßige `luecken-aufzeiger`-Läufe veraltet der Tracker. Hinweis anzeigen, wenn der letzte Lauf > 90 Tage zurückliegt.
 - **Eigentümer nicht gesetzt:** Gaps ohne Eigentümer werden nicht umgesetzt. Unzugeordnete Gaps explizit markieren.
 - **Fristüberschreitung ohne Eskalation:** Für überfällige Gaps automatisch Eskalationsnotiz-Option hervorheben.

@@ -59,7 +59,7 @@ Strukturiert oder unstrukturiert; das Modell soll robust extrahieren:
 - **Geplante Investitionen/Desinvestitionen**: CapEx, Maschinenverkauf, Sale-and-Lease-back.
 - **Auftragsbestand**: zugesagte Aufträge mit Lieferzeitpunkt, voraussichtlichem Zahlungsziel, Abschlagszahlungen.
 - **Bankauszüge** der letzten 3–6 Monate (für saisonale Muster und Plausibilität).
-- **BWA und SuSa** (siehe Schwester-Skill `bwa-sus-bilanz-prüfung`).
+- **BWA und SuSa** (siehe Schwester-Skill `bwa-sus-bilanz-pruefung`).
 
 Wenn Daten lückenhaft sind: Annahmen explizit dokumentieren, sensitivitätsanalysieren (Best/Base/Worst).
 
@@ -194,7 +194,7 @@ Mindestens zwei BGH-Belege (jüngere zuerst) und zwei Kommentarbelege im Bearbei
 
 ## Übergabe
 
-- Bei 🔴 § 17 InsO sofort an `zahlungsunfähigkeit-prüfung-17-inso` und `antragspflicht-15a-inso` (Plugin `insolvenzrecht`).
+- Bei 🔴 § 17 InsO sofort an `zahlungsunfaehigkeit-pruefung-17-inso` und `antragspflicht-15a-inso` (Plugin `insolvenzrecht`).
 - Bei indizierter insolvenzrechtlicher Überschuldung an `überschuldung-prüfung-19-inso` (Plugin `insolvenzrecht`).
-- Für die wochenaktuelle Kurzfrist-Sicht: Schwester-Skill `liquiditätsvorschau-3wochen` (dieses Plugin).
-- Für die gerichtsfeste Liquiditätsbilanz als Beweismittel: `liquiditätsvorschau-insolvenzrechtlich` (dieses Plugin).
+- Für die wochenaktuelle Kurzfrist-Sicht: Schwester-Skill `liquiditaetsvorschau-3wochen` (dieses Plugin).
+- Für die gerichtsfeste Liquiditätsbilanz als Beweismittel: `liquiditaetsvorschau-insolvenzrechtlich` (dieses Plugin).

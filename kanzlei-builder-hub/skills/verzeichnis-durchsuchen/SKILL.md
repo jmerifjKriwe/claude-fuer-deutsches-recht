@@ -129,7 +129,7 @@ Zuletzt verifiziert: 2024-09-01 ⚠️ Aktualität prüfen (>6 Monate)
 
 - **Aktualitätsdrift:** Ein Skill ohne `last_verified`-Datum kann veraltete Rechtsnormen oder Rechtsprechung enthalten. Bei Skills ohne Aktualitätsangabe besonders sorgfältig prüfen.
 - **Registry-Impersonation:** Eine URL die wie `kanzlei-skills` aussieht, könnte auf ein kompromittiertes Repo zeigen. Immer den vollständigen Repository-Pfad prüfen.
-- **Profilübereinstimmung als Sicherheitsgarantie missverstehen:** Ein als „✅ passend zum Profil" markierter Skill ist noch kein geprüfter Skill — das `skills-qualitätsprüfung` und die Berufsrechtsprüfung folgen erst beim Installieren.
+- **Profilübereinstimmung als Sicherheitsgarantie missverstehen:** Ein als „✅ passend zum Profil" markierter Skill ist noch kein geprüfter Skill — das `skills-qualitaetspruefung` und die Berufsrechtsprüfung folgen erst beim Installieren.
 
 ## Was dieser Skill nicht tut
 

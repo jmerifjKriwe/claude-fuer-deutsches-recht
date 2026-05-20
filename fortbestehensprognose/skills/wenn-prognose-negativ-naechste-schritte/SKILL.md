@@ -74,8 +74,8 @@ Ausnahmen (§ 15b Abs. 1 InsO):
 ## Prüfraster Auswahl Verfahren
 
 ```yaml
-verfahren-prüfraster:
-  zahlungsunfähigkeit-eingetreten:
+verfahren-pruefraster:
+  zahlungsunfaehigkeit-eingetreten:
     frist: drei-Wochen
     optionen:
       - Regelinsolvenzantrag (Selbstantrag)
@@ -90,10 +90,10 @@ verfahren-prüfraster:
       - Regelinsolvenzantrag
       - Eigenverwaltung
       - Schutzschirmverfahren
-    prüfung-staerug: nur wenn drohende Zahlungsunfähigkeit
+    pruefung-staerug: nur wenn drohende Zahlungsunfähigkeit
       separat festgestellt werden kann (Prognose 24 Monate negativ)
     
-  drohende-zahlungsunfähigkeit:
+  drohende-zahlungsunfaehigkeit:
     frist: keine
     optionen:
       - StaRUG-Restrukturierungsrahmen (bevorzugt)

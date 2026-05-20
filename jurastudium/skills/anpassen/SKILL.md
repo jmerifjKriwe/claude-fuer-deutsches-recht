@@ -122,4 +122,4 @@ Auswirkungen:
 - **Falsches Bundesland nach Hochschulwechsel nicht aktualisieren:** Alle Examensprognosen und Lernpläne arbeiten mit dem gespeicherten Bundesland. Bei Wechsel immer sofort `--bundesland` ausführen.
 - **Veraltete Lehrveranstaltungen nicht entfernen:** Beendete Fächer im Profil lassen laufen, führt zu Studienplan-Verzerrungen.
 - **`--reset` versehentlich ausführen:** Das Plugin fragt zur Sicherheit nach. Antwort „nein" bricht ab. Vor dem Reset eigene Gliederungen sichern.
-- **Material nicht hochladen nach neuen Klausurergebnissen:** `examens-prognose` und `gutachten-übung` werden genauer, wenn benotete Klausuren im Profil sind. Nach jeder Prüfungsrückgabe `--material` ausführen.
+- **Material nicht hochladen nach neuen Klausurergebnissen:** `examens-prognose` und `gutachten-uebung` werden genauer, wenn benotete Klausuren im Profil sind. Nach jeder Prüfungsrückgabe `--material` ausführen.

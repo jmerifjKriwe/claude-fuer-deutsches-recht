@@ -35,7 +35,7 @@ Vor der Aufstellung folgende Frage stellen:
 
 > Wie sollen die Daten einfließen — manuell, per Datei-Import (CAMT.053, MT940, CSV-Bankexport, DATEV-OPOS-Export), oder über einen verbundenen Bankzugang (PSD2 / FinTS / vorhandener Connector)?
 
-Detailregeln siehe Schwester-Skill `liquiditätsvorschau-3wochen`, Abschnitt „Bezugsquellen der Eingabedaten" — der Skill selbst baut keinen Open-Banking-Client.
+Detailregeln siehe Schwester-Skill `liquiditaetsvorschau-3wochen`, Abschnitt „Bezugsquellen der Eingabedaten" — der Skill selbst baut keinen Open-Banking-Client.
 
 ## Ablauf
 
@@ -122,7 +122,7 @@ Die Beurteilung erfolgt **allein anhand objektiver Umstände**; auf die innere V
 
 ## Beispiel
 
-Siehe Schwester-Skill `liquiditätsvorschau-3wochen` (Beispielfall Edelholz Manufaktur Berlin GmbH). Für gerichtsfeste Verwendung wird zusätzlich die Buchhaltungsherkunft (SuSa-/OPOS-Stand) protokolliert und die Indizienliste belegt.
+Siehe Schwester-Skill `liquiditaetsvorschau-3wochen` (Beispielfall Edelholz Manufaktur Berlin GmbH). Für gerichtsfeste Verwendung wird zusätzlich die Buchhaltungsherkunft (SuSa-/OPOS-Stand) protokolliert und die Indizienliste belegt.
 
 ## Typische Fehler
 
@@ -138,4 +138,4 @@ Mindestens zwei BGH-Belege (jüngere zuerst) und zwei Kommentarbelege im Bearbei
 
 ## Übergabe
 
-Bei 🔴: `antragspflicht-15a-inso` und `zahlungsunfähigkeit-prüfung-17-inso` (Plugin `insolvenzrecht`). Für mittel- und langfristige Sicht: `liquiditätsvorschau-3-6-12-monate` (dieses Plugin).
+Bei 🔴: `antragspflicht-15a-inso` und `zahlungsunfaehigkeit-pruefung-17-inso` (Plugin `insolvenzrecht`). Für mittel- und langfristige Sicht: `liquiditaetsvorschau-3-6-12-monate` (dieses Plugin).

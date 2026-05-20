@@ -90,7 +90,7 @@ Erst nach Auslieferung der Vorschau anbieten:
 Das Memo enthält bei Zustimmung: Sachverhalt, rechtliche Grundlagen, Liquiditätsbilanz tabellarisch, Quotenberechnung, Subsumtion nach BGH BGHZ 217, 129 Rn. 24 ff. und BGHZ 163, 134 Rn. 12 ff., Indizienwürdigung, Ergebnis, Handlungsempfehlung. Maximal zwei Seiten. Format DOCX oder Markdown nach Nutzerwunsch.
 
 **Schritt 9 — Eskalation**
-Bei 🔴: ausdrücklich auf die Skills `zahlungsunfähigkeit-prüfung-17-inso` und `antragspflicht-15a-inso` aus dem Plugin `insolvenzrecht` hinweisen und — falls Steuerberatermandat — den Hinweis nach § 102 StaRUG textbausteinartig formulieren. Die 3-Wochen-Frist § 15a InsO läuft ab tatsächlichem Eintritt der Zahlungsunfähigkeit, nicht ab Erstellung des Plans.
+Bei 🔴: ausdrücklich auf die Skills `zahlungsunfaehigkeit-pruefung-17-inso` und `antragspflicht-15a-inso` aus dem Plugin `insolvenzrecht` hinweisen und — falls Steuerberatermandat — den Hinweis nach § 102 StaRUG textbausteinartig formulieren. Die 3-Wochen-Frist § 15a InsO läuft ab tatsächlichem Eintritt der Zahlungsunfähigkeit, nicht ab Erstellung des Plans.
 
 ## Rechtlicher Rahmen
 
@@ -144,7 +144,7 @@ Zitierweise: Pinpoint mit Randnummer; Reihenfolge BGH-Datum (jüngere zuerst), k
 - Liquidität Wochenende KW 23: Start 30.500 € − Σ CF (− 61.500 + 14.400 − 21.500 + 9.500 − 17.600) = −46.200 €.
 - Ampel: 🔴 — Quote ≥ 10 % und Liquidität am Freitag KW 23 negativ. Damit Zahlungsunfähigkeit § 17 InsO indiziert ab KW 21 — BGH BGHZ 217, 129 Rn. 24 ff.; BGHZ 163, 134 Rn. 12 ff.
 
-**Handlung**: Übergabe an `antragspflicht-15a-inso` und `zahlungsunfähigkeit-prüfung-17-inso`. Bei Steuerberatermandat Hinweis nach § 102 StaRUG dokumentieren. Die 3-Wochen-Frist § 15a InsO läuft ab tatsächlichem Eintritt.
+**Handlung**: Übergabe an `antragspflicht-15a-inso` und `zahlungsunfaehigkeit-pruefung-17-inso`. Bei Steuerberatermandat Hinweis nach § 102 StaRUG dokumentieren. Die 3-Wochen-Frist § 15a InsO läuft ab tatsächlichem Eintritt.
 
 ## Typische Fehler
 
@@ -164,8 +164,8 @@ Mindestens zwei BGH-Belege (jüngere zuerst) und zwei Kommentarbelege im Bearbei
 
 Bei 🔴 sofort:
 
-- `zahlungsunfähigkeit-prüfung-17-inso` (Plugin `insolvenzrecht`) — formales Prüfgutachten und gerichtsfester Liquiditätsstatus.
+- `zahlungsunfaehigkeit-pruefung-17-inso` (Plugin `insolvenzrecht`) — formales Prüfgutachten und gerichtsfester Liquiditätsstatus.
 - `antragspflicht-15a-inso` (Plugin `insolvenzrecht`) — Fristenlauf, Haftung Geschäftsleiter, § 15b InsO Zahlungsverbote.
-- `liquiditätsvorschau-insolvenzrechtlich` (dieses Plugin) — Liquiditätsbilanz als Beweismittel mit IDW-S-11-Würdigung.
+- `liquiditaetsvorschau-insolvenzrechtlich` (dieses Plugin) — Liquiditätsbilanz als Beweismittel mit IDW-S-11-Würdigung.
 
-Für die mittel- und langfristige Sicht: Schwester-Skill `liquiditätsvorschau-3-6-12-monate` (dieses Plugin).
+Für die mittel- und langfristige Sicht: Schwester-Skill `liquiditaetsvorschau-3-6-12-monate` (dieses Plugin).

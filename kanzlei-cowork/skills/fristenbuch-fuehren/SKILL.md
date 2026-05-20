@@ -23,7 +23,7 @@ Jede Kanzlei muss ein Fristenbuch fuehren — die Versäumung einer Notfrist ist
   hauptfrist: 2026-04-15
   vorfrist-tage: 7
   vorfrist: 2026-04-06
-  zuständig: RA Mueller
+  zustaendig: RA Mueller
   status: offen
   bemerkung: Berufungsbegründung gemäß § 520 ZPO innerhalb von zwei Monaten
 ```

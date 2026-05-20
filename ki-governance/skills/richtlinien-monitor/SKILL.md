@@ -157,7 +157,7 @@ nennen. Ergebnis: RICHTLINIENÄNDERUNG EMPFOHLEN.
   konkreter Modellnamen; keine Zusagen formulieren, die das Team nicht
   einhalten kann.
 - Richtlinie selbst aktualisieren: nur nach menschlicher Prüfung und Freigabe.
-- Eingehende Regelungsänderungen: das ist `regulierungs-lücken-analyse`. Dieser Skill
+- Eingehende Regelungsänderungen: das ist `regulierungs-luecken-analyse`. Dieser Skill
   überwacht nur interne Praxis-Abweichungen.
 
 ## Quellenpflicht

@@ -10,7 +10,7 @@ description: Pflegt den Weihnachtskartenversand der Kanzlei. Verteiler mit Empfa
 ```yaml
 - name: Mueller, Hans
   anrede: foermlich
-  empfänger: Mueller GmbH (zu Hd. Hans Mueller)
+  empfaenger: Mueller GmbH (zu Hd. Hans Mueller)
   anschrift: ...
   e-mail: hmueller@mueller-gmbh.de
   versandweg: digital  # digital / post / beides

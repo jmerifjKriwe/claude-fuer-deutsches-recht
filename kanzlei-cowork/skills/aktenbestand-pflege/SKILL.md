@@ -22,12 +22,12 @@ mandat-az: 2026/0042
 status: laufend
 letztes-ereignis: 2026-05-20 — Versand Berufung
 letzte-pflege: 2026-05-21
-nächstes-ereignis-erwartet: 2026-06-20 (Berufungsbegründungsfrist)
+naechstes-ereignis-erwartet: 2026-06-20 (Berufungsbegründungsfrist)
 ruhend-seit: null
 abgeschlossen-am: null
-abgeschlossen-begründung: null
-archivierung-fällig: null  # bei Abschluss berechnen: + 6 Jahre § 50 BRAO
-vernichtung-fällig: null  # 6 Jahre nach Mandatsende
+abgeschlossen-begruendung: null
+archivierung-faellig: null  # bei Abschluss berechnen: + 6 Jahre § 50 BRAO
+vernichtung-faellig: null  # 6 Jahre nach Mandatsende
 ```
 
 ## Mandatsende

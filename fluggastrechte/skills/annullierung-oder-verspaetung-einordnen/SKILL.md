@@ -85,7 +85,7 @@ Wenn der **erste Flug innerhalb der EU mit derselben Buchung** verspätet ist un
      → Nichtbefoerderung
 
 4. Stehen außergewöhnliche Umstaende entgegen?
-   → Skill `ausnahmen-außergewöhnliche-umstaende-prüfen`
+   → Skill `ausnahmen-aussergewoehnliche-umstaende-pruefen`
 ```
 
 ## Ausgabe
@@ -95,4 +95,4 @@ Wenn der **erste Flug innerhalb der EU mit derselben Buchung** verspätet ist un
   - Begründung mit Verweis auf Norm und EuGH-Rechtsprechung
   - Höhe der voraussichtlichen Ausgleichszahlung (verweist auf Skill `distanz-und-ausgleich-berechnen`)
   - offenen Fragen zur Klaerung mit dem Mandanten
-- Hinweis auf Skill `ausnahmen-außergewöhnliche-umstaende-prüfen` zur Prüfung der Ausnahmen.
+- Hinweis auf Skill `ausnahmen-aussergewoehnliche-umstaende-pruefen` zur Prüfung der Ausnahmen.

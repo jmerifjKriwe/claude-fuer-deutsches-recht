@@ -160,9 +160,9 @@ fragen:
      Benachteiligung nach § 3 AGG vor?']"
   - "[Frage 2 falls zutreffend]"
 
-einträge: []
+eintraege: []
 
-beweislücken: []
+beweisluecken: []
 ```
 
 `investigation-[slug]/quellen-checkliste.yaml`:
@@ -462,7 +462,7 @@ Für jeden relevanten Fund, Anhang an log.yaml:
   zusammenfassung: "[was dieser Eintrag zum Erkenntnisstand beiträgt — 2–5 Sätze]"
   zitat: "[wörtliches Zitat wenn bedeutsam — sonst leer]"
   widerspricht_eintrag: [eintrag_id oder null]
-  bestätigt_eintrag: [eintrag_id oder null]
+  bestaetigt_eintrag: [eintrag_id oder null]
   glaubwuerdigkeitsnotiz: ""
   auswahlkriterium: "[welches Kriterium hat angesprochen — für Dokumente]"
   vertraulich: arbeitsrechtlich-intern
@@ -471,7 +471,7 @@ Für jeden relevanten Fund, Anhang an log.yaml:
 Für Beweislücken:
 
 ```yaml
-- lücke_id: [fortlaufend]
+- luecke_id: [fortlaufend]
   beschreibung: "[welches Dokument/welche Quelle sollte existieren, fehlt aber]"
   identifiziert_aus: "[welcher Protokolleintrag oder Bericht hat darauf hingewiesen]"
   beschaffungsweg: "[wo es zu bekommen wäre]"

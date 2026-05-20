@@ -68,7 +68,7 @@ Tabelle aller Entgegenhaltungen mit Bewertungsspalte:
 ### Schritt 5: Folgen
 
 - **Mindestens eine neuheitsschädliche Entgegenhaltung** → Empfehlung an Patentanwältin: Anspruch umformulieren (Aufnahme weiterer Merkmale aus der Beschreibung, Beschränkung auf Sub-Konfigurationen), oder Anmeldung in dieser Form nicht aufrechterhalten.
-- **Keine neuheitsschädliche Entgegenhaltung** → weiter zu `erfinderische-tätigkeit-prüfen`. Neuheit allein reicht nicht.
+- **Keine neuheitsschädliche Entgegenhaltung** → weiter zu `erfinderische-taetigkeit-pruefen`. Neuheit allein reicht nicht.
 
 ## Hinweise
 

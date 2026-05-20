@@ -38,9 +38,9 @@ Bevor der Reviewlauf startet muss der Dokumentenstapel sauber sein — kein Doku
   sprache: "de"
   seitenzahl: 47
   ocr-konfidenz: 0.97
-  prüfer-flag: null
+  pruefer-flag: null
   zeilenprompt: ""
-  datenraum-lücken: []
+  datenraum-luecken: []
 ```
 
 ## Ausgabe

@@ -41,7 +41,7 @@ territorien: [DE, EP, US, JP, CN, KR, WO]
 zeitfenster: ab Anmeldetag 01.01.2024
 publikationsstatus: [Anmeldung, Erteilung]
 intervall: woechentlich
-nächste_iteration: 27.05.2026
+naechste_iteration: 27.05.2026
 ```
 
 ## Ablauf

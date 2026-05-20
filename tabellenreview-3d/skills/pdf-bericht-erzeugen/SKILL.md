@@ -24,7 +24,7 @@ Mandanten lesen lieber PDF als Excel. Der PDF-Bericht ist die Erzählfassung des
 - Würfel-Ampel mit Begründung in drei Sätzen
 - Top-5-Hotspots (Datenpunkte mit ueberproportional vielen roten Zellen)
 - Top-5-rote-Zeilen (Dokumente die das groesste Risiko tragen)
-- Top-3-Widersprueche aus `kreuzblatt-konsistenzprüfung`
+- Top-3-Widersprueche aus `kreuzblatt-konsistenzpruefung`
 - Anzahl Prüfer-Flags und Status der Abnahme
 
 ### 3. Pro Arbeitsblatt-Perspektive (ein Abschnitt)

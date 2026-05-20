@@ -63,7 +63,7 @@ Pro Familienmitglied:
 
 ### Schritt 4: Rechtsstand markieren
 
-Pro Familienmitglied: ist es noch in Kraft? Wann läuft die Schutzdauer ab (= Anmeldetag + 20 Jahre)? Sind die Jahresgebühren bezahlt? — über `rechtsstand-prüfen`.
+Pro Familienmitglied: ist es noch in Kraft? Wann läuft die Schutzdauer ab (= Anmeldetag + 20 Jahre)? Sind die Jahresgebühren bezahlt? — über `rechtsstand-pruefen`.
 
 ### Schritt 5: Auswertung
 

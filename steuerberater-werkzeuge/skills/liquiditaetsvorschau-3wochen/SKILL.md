@@ -7,7 +7,7 @@ description: "Kurzfristige Drei-Wochen-Liquiditätsvorschau für GmbH/UG zur wö
 
 ## Powerplugin-Hinweis
 
-**Die vollständige, fachlich autarke Version dieses Skills lebt im Plugin Liquiditätsplanung (`liquiditätsplanung`)** (Power-Plugin Liquiditätsvorschau) — mit BGH-Schema Passiva II (BGHZ 217, 129), Volumeneffekt der Quote, titulierten Forderungen mit Nennwert (BGH IX ZR 229/22), objektiver Beurteilung (BGH II ZR 139/23), Excel-Vorlage, optionalem HTML-Padlet oder Markdown-Artefakt und Banking-Wahl. Wenn `liquiditätsplanung` installiert ist, dorthin übergeben.
+**Die vollständige, fachlich autarke Version dieses Skills lebt im Plugin Liquiditätsplanung (`liquiditaetsplanung`)** (Power-Plugin Liquiditätsvorschau) — mit BGH-Schema Passiva II (BGHZ 217, 129), Volumeneffekt der Quote, titulierten Forderungen mit Nennwert (BGH IX ZR 229/22), objektiver Beurteilung (BGH II ZR 139/23), Excel-Vorlage, optionalem HTML-Padlet oder Markdown-Artefakt und Banking-Wahl. Wenn `liquiditaetsplanung` installiert ist, dorthin übergeben.
 
 Wenn nicht installiert, hier nach dem Steuerberater-spezifischen Schema arbeiten und am Ende ausdrücklich die Hinweispflicht nach § 102 StaRUG dokumentieren.
 
@@ -15,7 +15,7 @@ Wenn nicht installiert, hier nach dem Steuerberater-spezifischen Schema arbeiten
 
 Dieser Skill erstellt für eine GmbH/UG/AG eine **kurzfristige Drei-Wochen-Liquiditätsvorschau** — die kleinste sinnvolle Einheit der laufenden Krisenfrüherkennung nach § 1 StaRUG und die direkte Ableitung des BGH-Schemas zur Zahlungsunfähigkeit (§ 17 InsO).
 
-Er ist als **wöchentliche Routine** gedacht: jeden Montag mit aktualisierten Banksalden und Fälligkeitsdaten in fünf bis zehn Minuten durchlaufen, Ampel ablesen, dokumentieren. Für die vollständige rollierende Planung über 13/26/52 Wochen siehe den Schwester-Skill `liquiditätsvorschau-3-6-12-monate` (gleiches Plugin) bzw. das Plugin Liquiditätsplanung (`liquiditätsplanung`).
+Er ist als **wöchentliche Routine** gedacht: jeden Montag mit aktualisierten Banksalden und Fälligkeitsdaten in fünf bis zehn Minuten durchlaufen, Ampel ablesen, dokumentieren. Für die vollständige rollierende Planung über 13/26/52 Wochen siehe den Schwester-Skill `liquiditaetsvorschau-3-6-12-monate` (gleiches Plugin) bzw. das Plugin Liquiditätsplanung (`liquiditaetsplanung`).
 
 Anwendungsfälle:
 
@@ -82,7 +82,7 @@ Wenn Daten fehlen: Annahmen explizit dokumentieren und im Worst Case rechnen.
 **Schritt 5 – Ergebnis und Eskalation**
 - 🟢: Routine dokumentieren, nächste Woche erneut.
 - 🟡: Engpasswoche identifizieren, Maßnahmen (Skontofinanzierung, Stundungsverhandlung, Avalziehung, Forderungsbeschleunigung); Dokumentation in Geschäftsleiter-Protokoll nach § 1 StaRUG.
-- 🔴: **Hinweispflicht § 102 StaRUG** prüfen (bei Mandant). Übergabe an Skill `zahlungsunfähigkeit-prüfung-17-inso` und `antragspflicht-15a-inso` aus Plugin `insolvenzrecht`. Frist § 15a InsO (3 Wochen) läuft ab tatsächlichem Eintritt der Zahlungsunfähigkeit — nicht ab Erstellung des Plans.
+- 🔴: **Hinweispflicht § 102 StaRUG** prüfen (bei Mandant). Übergabe an Skill `zahlungsunfaehigkeit-pruefung-17-inso` und `antragspflicht-15a-inso` aus Plugin `insolvenzrecht`. Frist § 15a InsO (3 Wochen) läuft ab tatsächlichem Eintritt der Zahlungsunfähigkeit — nicht ab Erstellung des Plans.
 
 ## Ausgabeformat
 
@@ -103,7 +103,7 @@ Wenn Daten fehlen: Annahmen explizit dokumentieren und im Worst Case rechnen.
 
 **Ergebnis**: Quote in KW 21 = 50 % (≥ 10 %), Lücke_3W am Ende von KW 23 ≈ 68.300 EUR (≠ 0). Damit **nicht binnen 3 Wochen schließbar** → 🔴 **Zahlungsunfähigkeit § 17 InsO indiziert ab KW 21** (BGH BGHZ 163, 134 Rn. 14).
 
-**Handlung**: Übergabe an `antragspflicht-15a-inso` und `zahlungsunfähigkeit-prüfung-17-inso`. Steuerberater löst Hinweis nach § 102 StaRUG aus (BGH BGHZ 213, 374). Frist § 15a InsO (3 Wochen) läuft ab tatsächlichem Eintritt.
+**Handlung**: Übergabe an `antragspflicht-15a-inso` und `zahlungsunfaehigkeit-pruefung-17-inso`. Steuerberater löst Hinweis nach § 102 StaRUG aus (BGH BGHZ 213, 374). Frist § 15a InsO (3 Wochen) läuft ab tatsächlichem Eintritt.
 
 ## Typische Fehler
 
@@ -121,8 +121,8 @@ Mindestens zwei Belege im BGH-Stil und zwei Kommentarbelege im Bearbeiter-Stil. 
 ## Übergabe
 
 Bei roter Ampel sofort auf das Plugin `insolvenzrecht` umschwenken:
-- `zahlungsunfähigkeit-prüfung-17-inso` — formale Subsumtion und gerichtsfähiger Liquiditätsstatus.
+- `zahlungsunfaehigkeit-pruefung-17-inso` — formale Subsumtion und gerichtsfähiger Liquiditätsstatus.
 - `antragspflicht-15a-inso` — Fristenlauf, Haftung Geschäftsleiter, § 15b InsO Zahlungsverbote.
-- `liquiditätsvorschau-insolvenzrechtlich` — gerichtsfähige Liquiditätsbilanz als Beweismittel.
+- `liquiditaetsvorschau-insolvenzrechtlich` — gerichtsfähige Liquiditätsbilanz als Beweismittel.
 
-Für die mittel- und langfristige Sicht: Schwester-Skill `liquiditätsvorschau-3-6-12-monate` aus diesem Plugin oder gebündelt im Plugin Liquiditätsplanung (`liquiditätsplanung`).
+Für die mittel- und langfristige Sicht: Schwester-Skill `liquiditaetsvorschau-3-6-12-monate` aus diesem Plugin oder gebündelt im Plugin Liquiditätsplanung (`liquiditaetsplanung`).

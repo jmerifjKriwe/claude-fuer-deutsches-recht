@@ -67,7 +67,7 @@ Mit freundlichen Grüßen
 ## Standard-Gegenargumente
 
 Wenn die Airline mit einer typischen Begründung argumentiert siehe Skill
-`airline-standardausreden-prüfen` — dort sind die EuGH-Pinpoints aufgelistet:
+`airline-standardausreden-pruefen` — dort sind die EuGH-Pinpoints aufgelistet:
 
 | Airline-Begründung | Kerngegenargument | Rspr. |
 |---|---|---|

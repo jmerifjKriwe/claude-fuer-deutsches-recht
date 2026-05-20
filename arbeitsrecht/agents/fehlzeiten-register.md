@@ -206,7 +206,7 @@ Nach dem Lauf `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht
   normalarbeitszeit: "[z. B. 40 Std./Woche, 30 Std./Woche — bestimmt Quotierung]"
   genutzte_zeit: [in der Einheit der maßgeblichen Regel]
   anspruch: [in gleicher Einheit — aus Recherche, nicht hartkodiert]
-  zwölf_monats_methode: [Kalenderjahr / rollierend_vorwaerts / rollierend_rueckwaerts / Urlaubsjahr]
+  zwoelf_monats_methode: [Kalenderjahr / rollierend_vorwaerts / rollierend_rueckwaerts / Urlaubsjahr]
   voraussichtliche_rueckkehr: [ISO-Datum]
   anmeldung_erfolgt: [true/false]
   anmeldung_datum: [ISO-Datum]

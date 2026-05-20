@@ -17,7 +17,7 @@ description: Postein- und Postausgangsbuch fuehren. Posteingang erfasst Empfangs
   art: urteil  # urteil / beschluss / verfügung / mandantenbrief / behörden-bescheid / sonstiges
   mandat-az: 2026/0042
   betreff: Klage gg. ABC GmbH
-  zuständigkeit: RA Mueller
+  zustaendigkeit: RA Mueller
   fristfolge: berufungsfrist
   fristtermin: 2026-06-20
   aktion: an-fristenbuch
@@ -43,8 +43,8 @@ Bei Postzustellungen verschiedener Verfahrensordnungen gilt die Drei-Tages-Fikti
 - ausgang-id: PA-2026-09817
   versanddatum: 2026-05-21
   versandweg: bea
-  empfänger: Amtsgericht München
-  empfänger-safe-id: 1234567890ABCDEF
+  empfaenger: Amtsgericht München
+  empfaenger-safe-id: 1234567890ABCDEF
   art: schriftsatz
   mandat-az: 2026/0042
   betreff: Berufung in Sachen Mueller gg. ABC GmbH

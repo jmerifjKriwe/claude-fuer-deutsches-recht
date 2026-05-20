@@ -90,12 +90,12 @@ streitwert: 0
 anspruchsgrundlage: ""
 risiko: "hoch / mittel / gering"
 exposition_max: 0
-verjährung: ""
-außenanwalt: ""
+verjaehrung: ""
+aussenanwalt: ""
 status: "aktiv"
 beweissicherung: false
 angelegt: "TT.MM.JJJJ"
-nächste_frist: "TT.MM.JJJJ"
+naechste_frist: "TT.MM.JJJJ"
 ```
 
 ## Quellen und Zitierweise

@@ -32,13 +32,13 @@ Goldstandard: DAV-Stellungnahme Nr. 32/2025. BRAK-Leitfaden Dezember 2024 wird k
 Pro Skill ein Abschnitt:
 
 - **Erforderlichkeit** (`erforderlichkeit-dokumentieren`)
-- **Verschwiegenheitsklausel** (`verschwiegenheitsklausel-prüfen`)
-- **Strafrechtliche Belehrung** (`strafrechtliche-belehrung-prüfen`)
-- **Subunternehmer-Regelung** (`subunternehmer-regelung-prüfen`)
-- **Strafprozessuale Regelung** (`strafprozessuale-regelung-prüfen`)
-- **TOM und Zertifizierungen** (`tom-und-zertifizierungen-prüfen`)
-- **Cloud Act und Drittstaat** (`cloud-act-und-drittstaat-prüfen`)
-- **AVV-Grenzprüfung Datenschutz** (`avv-grenzprüfung-datenschutz`) — als Schnittstelle
+- **Verschwiegenheitsklausel** (`verschwiegenheitsklausel-pruefen`)
+- **Strafrechtliche Belehrung** (`strafrechtliche-belehrung-pruefen`)
+- **Subunternehmer-Regelung** (`subunternehmer-regelung-pruefen`)
+- **Strafprozessuale Regelung** (`strafprozessuale-regelung-pruefen`)
+- **TOM und Zertifizierungen** (`tom-und-zertifizierungen-pruefen`)
+- **Cloud Act und Drittstaat** (`cloud-act-und-drittstaat-pruefen`)
+- **AVV-Grenzprüfung Datenschutz** (`avv-grenzpruefung-datenschutz`) — als Schnittstelle
 
 Jeder Abschnitt enthält:
 

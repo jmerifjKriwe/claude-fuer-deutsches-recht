@@ -54,7 +54,7 @@ Anwendbares deutsches Recht und ein deutscher Gerichtsstand sind dringend zu emp
 
 ## US-Konstellationen — CLOUD Act
 
-Bei US-Anbietern oder US-Töchtern greift der US-CLOUD Act und kann § 97 StPO faktisch unterlaufen. Hier ist ein separates Professional Secrecy Addendum erforderlich (siehe `cloud-act-und-drittstaat-prüfen`).
+Bei US-Anbietern oder US-Töchtern greift der US-CLOUD Act und kann § 97 StPO faktisch unterlaufen. Hier ist ein separates Professional Secrecy Addendum erforderlich (siehe `cloud-act-und-drittstaat-pruefen`).
 
 ## Typische Lücken
 

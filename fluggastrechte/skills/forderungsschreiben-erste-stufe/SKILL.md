@@ -142,4 +142,4 @@ Mit freundlichen Grüßen
 
 - `forderung-erste-stufe-<datum>.docx` und PDF.
 - Eintrag in Tagesnotizen — Reaktionsfrist ist vorgemerkt für Mahnung.
-- Hinweis: bei Reaktion der Airline auf Fall warten und Skill `airline-standardausreden-prüfen` ausfuehren.
+- Hinweis: bei Reaktion der Airline auf Fall warten und Skill `airline-standardausreden-pruefen` ausfuehren.

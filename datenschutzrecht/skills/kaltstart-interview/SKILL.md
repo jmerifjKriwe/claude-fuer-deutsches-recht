@@ -102,5 +102,5 @@ Deal-Breaker: Sub-AV-Wechsel ohne 4-Wochen-Vorankündigung
 - **Falsche Aufsichtsbehörde:** Niederlassungsprinzip Art. 56 DSGVO und § 19 BDSG – Hauptniederlassung der Organisation, nicht Serverstandort, ist maßgeblich. Bei grenzüberschreitender Verarbeitung ist federführende Behörde zu bestimmen.
 - **DSB-Benennungspflicht übersehen:** Pflicht nach Art. 37 DSGVO besteht ab Kerngeschäft mit Verarbeitungen, die regelmäßige systematische Überwachung erfordern, oder bei Verarbeitung besonderer Kategorien im großen Umfang; §§ 37–39 BDSG ergänzen.
 - **CLAUDE.md ohne Verarbeitungsverzeichnis:** Ohne Systemliste können spätere DSAR-Abfragen keine vollständige Antwort liefern; Nutzer vor Abschluss darauf hinweisen.
-- **AVV-Extraktion zu oberflächlich:** Das Playbook muss konkrete Fallback-Positionen enthalten, sonst gibt `avv-prüfung` immer den generischen Standard aus.
+- **AVV-Extraktion zu oberflächlich:** Das Playbook muss konkrete Fallback-Positionen enthalten, sonst gibt `avv-pruefung` immer den generischen Standard aus.
 - **Integrations-Check:** Nur ✓ bei erfolgreichem Test-Aufruf; konfiguriert ≠ funktioniert.

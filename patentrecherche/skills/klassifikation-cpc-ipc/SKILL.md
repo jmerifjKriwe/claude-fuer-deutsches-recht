@@ -39,7 +39,7 @@ Damit die anschließende Datenbankrecherche zielgenau läuft, müssen die richti
 - Skizzen / Zeichnungen
 - Memo der Patentanwältin
 
-Wenn nur sehr knappes Material vorhanden ist: an `rückfragen-mandant` weiterleiten.
+Wenn nur sehr knappes Material vorhanden ist: an `rueckfragen-mandant` weiterleiten.
 
 ### 2. Schlüsselbegriffe extrahieren
 

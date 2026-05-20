@@ -37,7 +37,7 @@ Worst-of-Worst-Konsolidierung: wenn irgendein Arbeitsblatt rot ist und irgendein
 
 ## Schweregrad-Boden
 
-Wenn ein Skill ein Finding mit einem Schweregrad produziert und ein anderer Skill (z. B. `kreuzblatt-konsistenzprüfung`) ihn ändern will, gilt der vorgelagerte Schweregrad als BODEN — eine rote Zelle kann nicht still nach gelb verschoben werden, nur dokumentiert ueberschrieben.
+Wenn ein Skill ein Finding mit einem Schweregrad produziert und ein anderer Skill (z. B. `kreuzblatt-konsistenzpruefung`) ihn ändern will, gilt der vorgelagerte Schweregrad als BODEN — eine rote Zelle kann nicht still nach gelb verschoben werden, nur dokumentiert ueberschrieben.
 
 ## Ausgabe
 

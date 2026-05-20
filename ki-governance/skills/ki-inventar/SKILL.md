@@ -191,7 +191,7 @@ Drei nächste Schritte anbieten:
 systeme:
   - id: sys-001
     name: "Lebenslauf-Screening-Tool"
-    eigentümer: "HR / Schmidt"
+    eigentuemer: "HR / Schmidt"
     beschreibung: "Filtert eingehende Lebensläufe nach Stellenkriterien"
     status: in_produktion          # geplant | in_entwicklung | in_produktion | ausgemustert
     eu_nexus: true                 # betrieben, angeboten oder betrifft Personen in der EU/EWR
@@ -202,8 +202,8 @@ systeme:
     pflichten_bewertet: false
     pflichten_hinweis: "Zu prüfen als Betreiber eines hochriskanten Systems: menschliche Aufsicht (Art. 14 KI-VO), Eingabedatenqualität, Überwachung, Aufzeichnung, Unterrichtung von Arbeitnehmern, FRIA wenn öffentliche Stelle/Dienst (Art. 27 KI-VO) [gegen aktuellen KI-VO-Text prüfen]"
     art50_transparenz: "Offenlegungspflicht prüfen (Art. 50 KI-VO) [prüfen]"
-    nächste_prüfung: "2026-08-01"
-    pruef_auslöser: "bei wesentlicher Änderung oder jährlich"
+    naechste_pruefung: "2026-08-01"
+    pruef_ausloeser: "bei wesentlicher Änderung oder jährlich"
     erstellt: "2026-05-18"
     aktualisiert: "2026-05-18"
 ```

@@ -192,10 +192,10 @@ Erst nach **schriftlicher** Stundungszusage des Gläubigers darf die Fälligkeit
 
 ```yaml
 stundungen:
-  - gläubiger: Lieferant XYZ GmbH
+  - glaeubiger: Lieferant XYZ GmbH
     offene-forderung: 24000
-    urspruengliche-fälligkeit: 2026-06-15
-    gestundete-fälligkeit: 2026-09-15
+    urspruengliche-faelligkeit: 2026-06-15
+    gestundete-faelligkeit: 2026-09-15
     zusage-vom: 2026-06-05
     zusage-form: E-Mail mit Bestätigung
     bemerkung: Anzahlung 5000 EUR mit Stundungserklärung gezahlt

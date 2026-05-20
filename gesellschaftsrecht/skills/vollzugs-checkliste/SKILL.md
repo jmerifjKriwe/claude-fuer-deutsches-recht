@@ -34,7 +34,7 @@ vollzugsbedingungen:
     punkt: "Kartellrechtliche Freigabe Bundeskartellamt"
     kategorie: "Behördliche Genehmigung"
     verantwortlich: "Käufer-Anwalt"
-    fällig: 2025-06-15
+    faellig: 2025-06-15
     status: "Angemeldet 01.04.2025; Wartefrist läuft (§ 40 Abs. 1 GWB: 1 Monat)"
     blockierend: true
     quelle: "SPA § 7.1(a)"
@@ -43,7 +43,7 @@ vollzugsbedingungen:
     punkt: "Zustimmung Acme GmbH – Change-of-Control § 14 Rahmenvertrag"
     kategorie: "Zustimmung Dritter"
     verantwortlich: "Zielgesellschaft – Frau Schmitt"
-    fällig: 2025-06-20
+    faellig: 2025-06-20
     status: "Anfrage versandt 10.04.2025; keine Antwort"
     blockierend: true
     quelle: "DD-Finding VB-002; Anlage 4.3(a) Nr. 7; Rahmenvertrag § 14"
@@ -53,7 +53,7 @@ vollzugslieferungen:
     punkt: "Handelsregister-Gesellschafterliste (aktuell, § 40 GmbHG)"
     kategorie: "Gesellschaftsrechtlich"
     verantwortlich: "Ziel-Anwalt"
-    fällig: 2025-06-28
+    faellig: 2025-06-28
     status: "Nicht begonnen"
     blockierend: true
     quelle: "SPA § 2.3(b)(iv)"
@@ -62,7 +62,7 @@ vollzugslieferungen:
     punkt: "Freigabe Gesellschafterdarlehen / Sicherheiten (§ 30 GmbHG)"
     kategorie: "Kapital / Darlehen"
     verantwortlich: "Ziel-Anwalt"
-    fällig: 2025-06-25
+    faellig: 2025-06-25
     status: "In Bearbeitung"
     blockierend: true
     quelle: "SPA § 5.3(c)"
@@ -108,9 +108,9 @@ Modus 2 wird ausgelöst, wenn ein vorgelagerter Skill ein Finding mit einer Vorv
 
   # Felder für Zustimmung / Drittmaßnahme
   gegenpartei: "[z. B. Acme GmbH]"
-  bürge: "[z. B. Bürgschaft des Käufer-Mutterunternehmens erforderlich, oder k. A.]"
+  buerge: "[z. B. Bürgschaft des Käufer-Mutterunternehmens erforderlich, oder k. A.]"
   bedingungen: "[substantielle Bedingung der Gegenpartei — z. B. 'Ersatzbürgschaft des Käufer-Mutterunternehmens vor Wirksamkeit der Zustimmung erforderlich']"
-  ankündigungsfrist: "[z. B. 30 Tage vor Vollzug, oder konkretes Datum]"
+  ankuendigungsfrist: "[z. B. 30 Tage vor Vollzug, oder konkretes Datum]"
 
   # Felder für Gesellschafterentscheidung
   genehmigungsgremium: "[Gesellschafter | Vorstand | Aufsichtsrat | Behörde]"

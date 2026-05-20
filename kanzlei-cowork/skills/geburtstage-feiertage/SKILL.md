@@ -23,7 +23,7 @@ description: Pflegt einen Mandanten- und Geschaeftspartner-Geburtstagsverteiler.
   versandweg: e-mail
   e-mail: hmueller@mueller-gmbh.de
   vorlauf-tage: 2
-  letzte-glückwünsche: 2025-08-14
+  letzte-glueckwuensche: 2025-08-14
   widerspruch-eingelegt: false
 ```
 

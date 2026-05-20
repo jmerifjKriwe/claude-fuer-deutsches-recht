@@ -33,7 +33,7 @@ Pro Spalte: Anzahl rot / gelb / gruen über den Stapel. Sortiert absteigend nach
 
 ### Reiter 'Widersprueche'
 
-Aus `kreuzblatt-konsistenzprüfung`. Spalten: Zeile-ID, Spalte, Arbeitsblatt-A-Antwort, Arbeitsblatt-B-Antwort, Konflikt-Klassifikation, empfohlene Aktion.
+Aus `kreuzblatt-konsistenzpruefung`. Spalten: Zeile-ID, Spalte, Arbeitsblatt-A-Antwort, Arbeitsblatt-B-Antwort, Konflikt-Klassifikation, empfohlene Aktion.
 
 ### Reiter 'Prüfer-Flags'
 

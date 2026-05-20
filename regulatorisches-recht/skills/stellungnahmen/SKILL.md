@@ -24,7 +24,7 @@ Falls noch nicht im Kommentar-Tracker eingetragen:
 
 ```yaml
 konsultation:
-  behörde: "[BaFin / EBA / ESMA / BNetzA / EU-Kommission]"
+  behoerde: "[BaFin / EBA / ESMA / BNetzA / EU-Kommission]"
   titel: "[Vollständiger Titel des Konsultationsdokuments]"
   referenz: "[z. B. BaFin-RS 2024/xx | EBA/CP/2024/xx]"
   kommentierungsfrist: "[TT.MM.JJJJ]"
@@ -32,7 +32,7 @@ konsultation:
   einreichungsadresse: "[URL oder E-Mail]"
   status: "offen"
   entscheidung: "[teilnehmen / nicht teilnehmen / offen]"
-  eigentümer: "[Name / Team]"
+  eigentuemer: "[Name / Team]"
 ```
 
 Datei schreiben: `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/comment-tracker.yaml`
@@ -106,7 +106,7 @@ Tracker aktualisieren nach Einreichung:
 ```yaml
 status: "eingereicht"
 einreichungsdatum: "[TT.MM.JJJJ]"
-einreichungsbestätigung: "[Aktenzeichen / Eingangsbestätigung]"
+einreichungsbestaetigung: "[Aktenzeichen / Eingangsbestätigung]"
 ```
 
 ## Quellen und Zitierweise

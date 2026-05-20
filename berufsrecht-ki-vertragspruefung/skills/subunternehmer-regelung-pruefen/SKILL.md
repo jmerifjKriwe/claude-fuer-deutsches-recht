@@ -81,7 +81,7 @@ Der häufige Aufbau "Frontend-Anbieter — Azure-Mietservice für OpenAI-Modelle
 
 - Azure ist Hoster und Subunternehmer
 - OpenAI als Modellanbieter ist ggf. weiterer Subunternehmer
-- US-Konzern-Mutter aller Beteiligten — Cloud Act greift (siehe `cloud-act-und-drittstaat-prüfen`)
+- US-Konzern-Mutter aller Beteiligten — Cloud Act greift (siehe `cloud-act-und-drittstaat-pruefen`)
 - Datenfluss Azure → OpenAI muss explizit beleuchtet werden
 
 ## Output

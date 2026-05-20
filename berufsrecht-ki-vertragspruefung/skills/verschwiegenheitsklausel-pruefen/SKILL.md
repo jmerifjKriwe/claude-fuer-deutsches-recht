@@ -25,7 +25,7 @@ Pro Beruf:
 - Patentanwalt: § 39c Abs. 3 PAO
 - Notar: § 26a Abs. 3 BNotO
 
-In diesem Skill prüfen wir Nr. 1. Die anderen beiden Punkte sind eigene Skills (`erforderlichkeitsschwelle-kenntnis` ist Teil von `verschwiegenheitsklausel-prüfen`; Subunternehmer ist eigener Skill).
+In diesem Skill prüfen wir Nr. 1. Die anderen beiden Punkte sind eigene Skills (`erforderlichkeitsschwelle-kenntnis` ist Teil von `verschwiegenheitsklausel-pruefen`; Subunternehmer ist eigener Skill).
 
 ## Anforderungen an die Verschwiegenheitsklausel
 
@@ -47,7 +47,7 @@ Die Klausel muss alle dem Berufsgeheimnis unterliegenden Tatsachen erfassen, nic
 
 ### Belehrung über strafrechtliche Folgen
 
-Ausdrücklicher Verweis auf §§ 203, 204 StGB. Idealerweise als Anlage der Normtext (siehe `strafrechtliche-belehrung-prüfen`).
+Ausdrücklicher Verweis auf §§ 203, 204 StGB. Idealerweise als Anlage der Normtext (siehe `strafrechtliche-belehrung-pruefen`).
 
 ## Prüfschema
 

@@ -21,7 +21,7 @@ Das Plugin liefert nicht das fertige Mandatsergebnis. Es liefert das Prüfer-Pak
 
 ### 3. Belegkette
 
-- `belegkette.csv` aus `belegkette-rückverfolgung` — Pflichtanhang für Reproduzierbarkeit.
+- `belegkette.csv` aus `belegkette-rueckverfolgung` — Pflichtanhang für Reproduzierbarkeit.
 
 ### 4. Audit
 
@@ -33,7 +33,7 @@ Das Plugin liefert nicht das fertige Mandatsergebnis. Es liefert das Prüfer-Pak
 
 ### 6. Widersprueche
 
-- `widerspruchsbericht.md` aus `kreuzblatt-konsistenzprüfung` — Konflikte zwischen Arbeitsblättern.
+- `widerspruchsbericht.md` aus `kreuzblatt-konsistenzpruefung` — Konflikte zwischen Arbeitsblättern.
 
 ### 7. Ampel-Aggregat
 

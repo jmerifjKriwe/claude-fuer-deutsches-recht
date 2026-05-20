@@ -200,7 +200,7 @@ K8 Vollmachten der Mitreisenden
 ## Anwaltszwang
 
 - **Kein Anwaltszwang** vor dem Amtsgericht (§ 78 ZPO e contrario).
-- Selbstvertretung möglich aber rechtliche Risiken vorhanden — vor Klage Skill `airline-standardausreden-prüfen` nutzen.
+- Selbstvertretung möglich aber rechtliche Risiken vorhanden — vor Klage Skill `airline-standardausreden-pruefen` nutzen.
 
 ## Versandweg
 

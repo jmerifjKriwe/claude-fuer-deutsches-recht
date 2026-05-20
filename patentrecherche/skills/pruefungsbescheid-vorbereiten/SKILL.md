@@ -59,7 +59,7 @@ Beanstandung 4: Art. 123(2) EPUe / Beschreibung Abs. [0034]
 
 #### Bei Art. 54 (Neuheit)
 
-- Wenn Pinpoint der Prüfungsabteilung **richtig**: Anspruch beschränken (Merkmale aus der Beschreibung aufnehmen, die in D1 nicht offenbart sind). Über `neuheit-prüfen` neue Merkmalsanalyse machen.
+- Wenn Pinpoint der Prüfungsabteilung **richtig**: Anspruch beschränken (Merkmale aus der Beschreibung aufnehmen, die in D1 nicht offenbart sind). Über `neuheit-pruefen` neue Merkmalsanalyse machen.
 - Wenn Pinpoint **falsch**: argumentieren, dass das Merkmal in D1 nicht offenbart ist. Beleg über Verweis auf den genauen Wortlaut von D1.
 - **Auswahlerfindung** ggf. argumentieren (T 198/84, T 279/89), wenn der Anspruch einen Sub-Bereich aus einem in D1 offenbarten Bereich auswählt.
 

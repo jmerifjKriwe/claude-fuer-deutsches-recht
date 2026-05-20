@@ -77,12 +77,12 @@ Pro Versand ein Audit-Eintrag:
 versand-id: V-2026-00123
 mandat-az: 2026/0042
 datum: 2026-05-20
-empfänger: Amtsgericht München
+empfaenger: Amtsgericht München
 versandweg: beA
 dokument: klage-2026-0042.pdf
 unterzeichnet-von: RA Mueller
 checks-bestanden:
-  - dokumentidentität: ok
+  - dokumentidentitaet: ok
   - unterschrift: ok-qes
   - adressat: ok-bea-safe-id-bestätigt
   - anlagen: ok-vollständig

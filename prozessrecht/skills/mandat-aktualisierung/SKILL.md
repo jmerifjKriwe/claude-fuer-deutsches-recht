@@ -162,7 +162,7 @@ Der Verlaufseintrag und die Yaml-Diff werden dem Nutzer zur Freigabe vorgelegt:
 Berufungsbegründung fristgerecht beim OLG Frankfurt eingereicht (§ 520 Abs. 2 ZPO). Keine inhaltlichen Änderungen zur bisherigen Positionierung. Nächster Termin: Eingang der Berufungserwiderung der Gegenseite erwartet bis 12.07.2025.
 
 **Geänderte Felder:**
-- nächste_frist: 2025-07-12
+- naechste_frist: 2025-07-12
 - verfahrensstadium: Berufungsbegründung eingereicht → Berufungserwiderung ausstehend
 
 **Wesentlichkeitsprüfung:** keine Änderung

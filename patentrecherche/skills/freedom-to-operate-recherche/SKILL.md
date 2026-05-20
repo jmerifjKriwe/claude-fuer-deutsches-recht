@@ -53,7 +53,7 @@ Für jeden in Kraft befindlichen Treffer:
 1. **Hauptanspruch lesen** — wortlautidentische Auslegung des Schutzbereichs nach § 14 PatG / Art. 69 EPÜ.
 2. **Beschreibung und Zeichnungen** als Auslegungshilfe heranziehen (§ 14 S. 2 PatG / Protokoll zu Art. 69 EPÜ).
 3. **Merkmale des Hauptanspruchs** gegen das Produkt der Mandantin prüfen — wortlautidentische Verletzung? Äquivalente Verletzung (BGH, Schneidmesser)?
-4. **Rechtsstand** prüfen: ist das Patent noch in Kraft, sind Jahresgebühren bezahlt, läuft ein Einspruchs- oder Nichtigkeitsverfahren? → über `rechtsstand-prüfen`.
+4. **Rechtsstand** prüfen: ist das Patent noch in Kraft, sind Jahresgebühren bezahlt, läuft ein Einspruchs- oder Nichtigkeitsverfahren? → über `rechtsstand-pruefen`.
 
 ### Schritt 5: Risiko-Ampel
 

@@ -52,23 +52,23 @@ Gespeichert unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertrags
   unterzeichnungsdatum: 2025-06-15
   erstlaufzeit_ende: 2026-06-15
   aktuelle_laufzeit_ende: 2026-06-15     # rollt nach jeder Verlängerung vor
-  verlängerungsmechanismus: "automatisch jährlich"
-  kündigungsfrist_tage: 90
-  kündigungsform: "schriftlich"          # e-mail / schriftlich / einschreiben / portal / § X Vertrag
+  verlaengerungsmechanismus: "automatisch jährlich"
+  kuendigungsfrist_tage: 90
+  kuendigungsform: "schriftlich"          # e-mail / schriftlich / einschreiben / portal / § X Vertrag
   postlauf_puffer_tage: 3               # 0 für elektronisch; 3 für Einschreiben; 10 für internationalen Post
-  kündigen_bis_kalender: 2026-03-17
-  kündigen_bis_effektiv: 2026-03-17      # ggf. auf letzten Werktag vorgezogen
+  kuendigen_bis_kalender: 2026-03-17
+  kuendigen_bis_effektiv: 2026-03-17      # ggf. auf letzten Werktag vorgezogen
   sende_bis_effektiv: 2026-03-14        # kündigen_bis_effektiv minus postlauf_puffer_tage
   vorzieh_hinweis: ""                    # z. B. „vorgezogen von Sonntag 2026-03-15; Werktags-Definition im Vertrag prüfen"
-  kündigen_bis_provenienz: "[Modellberechnung – gegen Kündigungsklausel prüfen]"
-  preis_bei_verlängerung: "jeweils aktueller Listenpreis (unbegrenzt)"
+  kuendigen_bis_provenienz: "[Modellberechnung – gegen Kündigungsklausel prüfen]"
+  preis_bei_verlaengerung: "jeweils aktueller Listenpreis (unbegrenzt)"
   jahreswert: 48000
   verantwortlich: "max.mustermann@firma.de"
   clm_id: "IC-12345"
   docusign_umschlag: "abc-123"
   status: "aktiv"                        # aktiv | gekündigt | verlängert | versäumt
   notizen: "Preis unbegrenzt – vor Verlängerung Alternativen prüfen: X, Y."
-  bgb_309_9_prüfung: "B2B – § 307 BGB prüfen; nicht direkt anwendbar"
+  bgb_309_9_pruefung: "B2B – § 307 BGB prüfen; nicht direkt anwendbar"
 ```
 
 ## Ausgabeformat

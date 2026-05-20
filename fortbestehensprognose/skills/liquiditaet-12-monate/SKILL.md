@@ -16,9 +16,9 @@ Die Fortbestehensprognose erfordert dass das Unternehmen über den **Prognosehor
 Aus den Annahmen aus `annahmen-sammeln-fortfuehrung` plus Plausibilisierung:
 
 ```yaml
-liquidität:
+liquiditaet:
   startbestand-2026-05-20: 18000
-  kreditlinie-verfügbar: 12000  # Linie 150000 minus 138000 ausgenutzt
+  kreditlinie-verfuegbar: 12000  # Linie 150000 minus 138000 ausgenutzt
   
   monatsdaten:
     - monat: 2026-06
@@ -29,7 +29,7 @@ liquidität:
         summe: 185000
       auszahlungen:
         lieferanten: 130000
-        loehne-gehälter: 78000
+        loehne-gehaelter: 78000
         sozialabgaben: 24000
         steuern: 14000
         bank-tilgung: 8000
@@ -47,7 +47,7 @@ liquidität:
 Bei kritischen Phasen (Monaten mit knapp positivem Saldo oder negativem Endbestand) muss die Wochenplanung herangezogen werden:
 
 - Drei-Wochen-Schwelle § 17 InsO BGHZ 163, 134 — bei Lücke groesser als zehn Prozent über laenger als drei Wochen liegt Zahlungsunfähigkeit vor.
-- Plugin `liquiditätsplanung` enthält die wochenbasierten Vorlagen.
+- Plugin `liquiditaetsplanung` enthält die wochenbasierten Vorlagen.
 
 ### Schicht 3 — Sensitivitaetsszenarien
 
@@ -77,13 +77,13 @@ Bei jedem Szenario die monatlichen Salden über die zwölf Monate.
 - **Negativ-Szenario** Liquidität auch positiv? Wenn nein: dann ist die Prognose **nur** im Basis-Szenario tragfähig. Das ist **nicht** ausreichend für eine positive Fortbestehensprognose.
 - **Stress-Szenario** soll mit den Maßnahmen abgefedert werden können — gegebenenfalls Patronatserklärungen Comfortletter Gesellschafterdarlehen.
 
-## Konsolidierung mit dem Plugin `liquiditätsplanung`
+## Konsolidierung mit dem Plugin `liquiditaetsplanung`
 
-Wenn das Plugin `liquiditätsplanung` installiert ist:
+Wenn das Plugin `liquiditaetsplanung` installiert ist:
 
-- Die detaillierte Wochenplanung erfolgt dort (Skill `liquiditätsvorschau-3-6-12-monate`).
+- Die detaillierte Wochenplanung erfolgt dort (Skill `liquiditaetsvorschau-3-6-12-monate`).
 - Hier importieren wir die Monatsaggregate.
-- Die Drei-Wochen-Schwelle § 17 InsO wird in `liquiditätsplanung` separat geprueft.
+- Die Drei-Wochen-Schwelle § 17 InsO wird in `liquiditaetsplanung` separat geprueft.
 
 Wenn nicht installiert: einfache Tabelle hier; bei Bedarf nachinstallieren.
 

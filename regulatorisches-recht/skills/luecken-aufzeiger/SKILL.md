@@ -63,10 +63,10 @@ gap:
   verlautbarung: "[BaFin RS 09/2017 Novelle 2023, AT 4.3.2]"
   anforderung: "[Beschreibung der neuen Anforderung]"
   bestandsregel: "[Aktuelle interne Regelung oder 'keine']"
-  lücke: "[Was fehlt oder abweicht]"
+  luecke: "[Was fehlt oder abweicht]"
   schweregrad: "[🔴 Blockierend / 🟠 Hoch / 🟡 Mittel / 🟢 Gering]"
   frist: "[TT.MM.JJJJ oder 'keine Frist']"
-  eigentümer: "[PLATZHALTER]"
+  eigentuemer: "[PLATZHALTER]"
   status: "offen"
 ```
 

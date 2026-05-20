@@ -42,7 +42,7 @@ Dieses Plugin liefert eine **Selbstdokumentation** der Fortbestehensprognose nac
 
 ### 4. Ausgangslage
 
-- Was hat den Anlass gegeben für diese Prüfung? (siehe Skill `auslösendes-ereignis-erfassen`)
+- Was hat den Anlass gegeben für diese Prüfung? (siehe Skill `ausloesendes-ereignis-erfassen`)
 - Bilanzielle Überschuldung bereits festgestellt? (Aktiva kleiner als Passiva?)
 - Stille Reserven oder Lasten vorhanden?
 - Aktuelle Liquiditätslage subjektiv: angespannt? ausreichend? bereits überschritten?

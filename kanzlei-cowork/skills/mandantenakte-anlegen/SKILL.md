@@ -55,7 +55,7 @@ _archiv/
 ```yaml
 mandat-az: 2026/0042
 mandat-eroeffnet: 2026-05-20
-zuständiger-anwalt: RA Mueller
+zustaendiger-anwalt: RA Mueller
 sekretariat: Frau Schmidt
 
 mandant:
@@ -83,9 +83,9 @@ mandatsumfang:
 honorar:
   basis: rvg  # rvg / vereinbarung
   stundensatz: 320  # bei Vereinbarung
-  pkh-prüfung: nein
+  pkh-pruefung: nein
 
-konfliktprüfung:
+konfliktpruefung:
   erfolgt-am: 2026-05-20
   ergebnis: kein-konflikt
   geprueft-von: RA Mueller
@@ -133,7 +133,7 @@ In `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-cowork/mandante
   mandate:
     - 2026/0042
   konfliktstatus: kein-konflikt
-  letzte-prüfung: 2026-05-20
+  letzte-pruefung: 2026-05-20
 ```
 
 ## Audit

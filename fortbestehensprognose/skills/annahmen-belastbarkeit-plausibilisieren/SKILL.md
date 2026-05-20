@@ -43,7 +43,7 @@ description: Plausibilisiert die in `annahmen-sammeln-fortfuehrung` gesammelten 
 plausibilisierung:
   - annahme-id: umsatz-hauptsegment
     band: realistisch  # konservativ / realistisch / ambitioniert / nicht-belastbar
-    begründung: |
+    begruendung: |
       Auftragsbestand bis 09/2026 belegt; ab 10/2026 Modellfortschreibung
       auf Basis Vorjahr +3%
     risiko: mittel
@@ -53,7 +53,7 @@ plausibilisierung:
       
   - annahme-id: kostensenkung-standort
     band: ambitioniert
-    begründung: |
+    begruendung: |
       Kündigung Standortmietvertrag erfordert 9-Monats-Kündigungsfrist;
       Schliessung bis 08/2026 nur möglich wenn Mieter Aufhebung akzeptiert.
       Aktuell in Verhandlung — nicht belegt.
@@ -64,7 +64,7 @@ plausibilisierung:
 
   - annahme-id: bankenzusage-erhöhung-kreditlinie
     band: nicht-belastbar
-    begründung: |
+    begruendung: |
       Verhandlung mit Bank laeuft. Bisher keine schriftliche Zusage.
       Bank verweist auf laufendes Rating-Verfahren.
     risiko: hoch
@@ -86,17 +86,17 @@ Eine Fortbestehensprognose ist nicht der Ort für Optimismus. **IDW S 11** und *
 szenarien:
   basisszenario:
     annahmen: alle wie in annahmen.yaml
-    ergebnis-12-monate-liquidität: positiv
+    ergebnis-12-monate-liquiditaet: positiv
     bemerkung: Plan-Szenario
     
   negativ-szenario:
     annahmen: alle ambitioniert-Annahmen reduziert auf konservativ
-    ergebnis-12-monate-liquidität: knapp positiv  # vor Maßnahmen
+    ergebnis-12-monate-liquiditaet: knapp positiv  # vor Maßnahmen
     bemerkung: Risiko-Szenario; bei Eintritt sind Zusatzmaßnahmen erforderlich
     
   stress-szenario:
     annahmen: zusätzlich Wegfall Top-Kunde
-    ergebnis-12-monate-liquidität: negativ
+    ergebnis-12-monate-liquiditaet: negativ
     bemerkung: Reines Stress-Szenario; in der Plausibilisierung
       als unwahrscheinlich eingeschaetzt
 ```
@@ -114,7 +114,7 @@ Wenn der Status stille Reserven enthält (Skill `bilanzieller-status-aufnehmen`)
 ### Comfortletter
 
 - **Weicher Comfortletter** (Best Effort) ist im Status **nicht** zu berücksichtigen.
-- **Harte externe Patronatserklärung** mit Forderungsverzicht im Insolvenzfall ist berücksichtigungsfähig — siehe Skill `patronatserklärung-extern-hart-erzeugen`.
+- **Harte externe Patronatserklärung** mit Forderungsverzicht im Insolvenzfall ist berücksichtigungsfähig — siehe Skill `patronatserklaerung-extern-hart-erzeugen`.
 
 ## Ausgabe
 

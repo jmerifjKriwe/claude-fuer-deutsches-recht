@@ -72,14 +72,14 @@ schuldner:
   anschrift: ""
   hrb: ""
   passivlegitimation_geklaert: true/false
-schuldverhältnis:
+schuldverhaeltnis:
   entstehungsgrund: ""
   vertrag_vorhanden: true/false
   anlage: ""
 forderung:
   art: ""
   hauptbetrag: 0.00
-  fälligkeit: ""
+  faelligkeit: ""
   bisherige_mahnungen: []
   verzugszinsen_p_a: "5% / 9% über Basiszinssatz"
   anwaltskosten: 0.00
@@ -89,7 +89,7 @@ fristen_geplant:
 batna: ""
 risiken: []
 gueteantrag_erforderlich: false
-vertraulichkeit_geprüft: true
+vertraulichkeit_geprueft: true
 ```
 
 ## Risiken / typische Fehler

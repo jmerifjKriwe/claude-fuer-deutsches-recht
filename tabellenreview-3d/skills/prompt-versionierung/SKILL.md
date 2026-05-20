@@ -52,8 +52,8 @@ Semantische Versions-ID pro Prompt: `<spalte-id>@<major>.<minor>.<patch>`
     rot: "Klausel vorhanden + harte Kündigungsfolge ohne Heilung"
     gelb: "Zustimmungsvorbehalt mit unklarer Schwelle"
     gruen: "Keine Klausel oder branchenübliche Schwelle"
-  geändert-am: "2026-05-20"
-  geändert-von: "anwalt-x"
+  geaendert-am: "2026-05-20"
+  geaendert-von: "anwalt-x"
   migrationspfad: "Patch-Änderung — bestehende Zellen behalten gültig."
 ```
 
