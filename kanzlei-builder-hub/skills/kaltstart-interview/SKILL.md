@@ -100,7 +100,7 @@ Profil auf Registry-Skills abbilden:
 | Arbeitsrecht | kanzlei-arbeitsrecht + Fristen-Tracker-Skills |
 | M&A / Gesellschaftsrecht | kanzlei-gesellschaftsrecht + Community-Due-Diligence-Skills |
 | Solo / kleines Team | Alles Leichtgewichtige — Triage-Skills vor vollständigen Review-Skills |
-| Entwickler | Rohe Registries und das skills-qualitaetspruefung-Framework |
+| Entwickler | Rohe Registries und das skills-qualitätsprüfung-Framework |
 
 Für jeden empfohlenen Skill: SKILL.md-Beschreibung anzeigen. Nutzer wählt — nichts ohne Ja installieren.
 
@@ -129,7 +129,7 @@ Kurz: Profil + installierte Liste + Registry-Präferenzen. Gemäß Template in `
 > - **Einen Skill aus einer Registry installieren** — Einen Community-Skill zur Umgebung hinzufügen — lizenz- und positivliste-geprüft vor der Ausführung. Ausprobieren: `/kanzlei-builder-hub:skill-installierer`
 > - **Updates prüfen** — Sehen, welche installierten Skills neuere Versionen in ihrer Quell-Registry haben. Ausprobieren: `/kanzlei-builder-hub:automatischer-aktualisierer`
 > - **Skill-Empfehlungen erhalten** — Basierend auf aktueller Tätigkeit relevante Skills empfehlen. Ausprobieren: `/kanzlei-builder-hub:verwandte-skills-vorschlag`
-> - **Einen Skill gegen das Framework prüfen** — Skills-QA durchführen. Ausprobieren: `/kanzlei-builder-hub:skills-qualitaetspruefung`
+> - **Einen Skill gegen das Framework prüfen** — Skills-QA durchführen. Ausprobieren: `/kanzlei-builder-hub:skills-qualitätsprüfung`
 
 Abschließen mit:
 > Fertig. Ihre Konfiguration liegt unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` — eine Klartextdatei, die Sie direkt lesen und bearbeiten können. Alles kann geändert werden:
@@ -161,7 +161,7 @@ Kanzleiprofil erstellt am 2025-01-15:
 - Rechtsgebiet: Arbeitsrecht, Kündigungsschutz, Betriebsverfassungsrecht
 - Eingesetztes Starter-Paket:
   - kanzlei-arbeitsrecht (installiert)
-  - kuendigungsfristen-tracker (installiert)
+  - kündigungsfristen-tracker (installiert)
 - Beobachtete Registries: kanzlei-skills
 - TOM-Hinweis: Bitte Verfahrensübersicht nach Art. 30 DSGVO aktualisieren.
 ```

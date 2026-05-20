@@ -12,7 +12,7 @@ Strukturierter Abschluss eines Mandats im Portfolio: Ergebnis dokumentieren, Kos
 ## Eingaben
 
 - Mandat-Slug
-- Abschlusstyp: `--urteil`, `--vergleich`, `--klageruecknahme`, `--erledigungserklaerung`, `--einstellung`, `--sonstiges`
+- Abschlusstyp: `--urteil`, `--vergleich`, `--klagerücknahme`, `--erledigungserklärung`, `--einstellung`, `--sonstiges`
 - Ergebnis (kurz): Wer hat gewonnen, was wurde vereinbart, welcher Betrag?
 
 ## Ablauf

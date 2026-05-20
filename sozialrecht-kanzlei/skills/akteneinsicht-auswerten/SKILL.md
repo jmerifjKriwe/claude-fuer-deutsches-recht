@@ -7,11 +7,11 @@ description: Systematische Auswertung der beigezogenen Verwaltungs- oder Gericht
 
 ## Zweck
 
-Aus einer eingegangenen Akte rasch das Entscheidungserhebliche herausziehen. Was sagt die Akte was die Behoerde im Bescheid weggelassen oder anders dargestellt hat?
+Aus einer eingegangenen Akte rasch das Entscheidungserhebliche herausziehen. Was sagt die Akte was die Behörde im Bescheid weggelassen oder anders dargestellt hat?
 
 ## Eingabe
 
-- Vollstaendige Verwaltungsakte (PDF; ggf. gescannt mit OCR).
+- Vollständige Verwaltungsakte (PDF; ggf. gescannt mit OCR).
 - Bisheriges Analyseprotokoll aus `bescheidanalyse`.
 
 ## Ablauf
@@ -24,7 +24,7 @@ Jeder Aktenteil mit:
 - Verfasser / Quelle
 - Typ (Antrag / Bescheid / Gutachten / Vermerk / Stellungnahme / Schreiben Dritter / Beleg)
 - Seitenanzahl
-- Pruefer-Flag falls schlecht lesbar oder geschwaerzt
+- Prüfer-Flag falls schlecht lesbar oder geschwaerzt
 
 ### 2. Chronologische Aktenchronik
 
@@ -33,35 +33,35 @@ Tabelle nach Datum sortiert mit Kurzinhalt — eine Zeile pro Aktenteil.
 ### 3. Inhaltsbewertung pro Aktenteil
 
 Pro Aktenteil eine Klassifizierung:
-- **entscheidend** — traegt das Ergebnis (entweder fuer oder gegen den Mandanten)
+- **entscheidend** — traegt das Ergebnis (entweder für oder gegen den Mandanten)
 - **hilfreich** — stuetzt unsere Argumentation
 - **neutral** — Sachverhaltsdokumentation ohne Wertung
-- **belastend** — stuetzt die Behoerdenentscheidung
-- **luecke** — verweist auf Vorgang der nicht in der Akte ist
+- **belastend** — stuetzt die Behördenentscheidung
+- **lücke** — verweist auf Vorgang der nicht in der Akte ist
 
-### 4. Widerspruchspruefung
+### 4. Widerspruchsprüfung
 
 - **Bescheid vs Aktenstand** — sagt der Bescheid Dinge die in der Akte anders stehen?
-- **Verfahrensvermerke** — wurde die Anhoerung gefuehrt aktenkundig?
-- **Medizinische Gutachten** — sind sie schluessig nachvollziehbar? Wurden Befunde aus Arztbriefen ueberhaupt zur Kenntnis genommen?
-- **Ermittlungsumfang** — hat die Behoerde alles erhoben was sie haette erheben muessen (§ 20 SGB X)?
-- **Datenherkunft** — woher hat die Behoerde Drittauskuenfte und durfte sie diese erheben?
+- **Verfahrensvermerke** — wurde die Anhörung geführt aktenkundig?
+- **Medizinische Gutachten** — sind sie schlüssig nachvollziehbar? Wurden Befunde aus Arztbriefen ueberhaupt zur Kenntnis genommen?
+- **Ermittlungsumfang** — hat die Behörde alles erhoben was sie haette erheben müssen (§ 20 SGB X)?
+- **Datenherkunft** — woher hat die Behörde Drittauskuenfte und durfte sie diese erheben?
 
-### 5. Folge-Pruefkatalog
+### 5. Folge-Prüfkatalog
 
-Fuer den naechsten Schriftsatz:
+Für den nächsten Schriftsatz:
 - Welche Aktenstuecke zitieren wir mit Pinpoint (Seite Absatz)?
-- Welche Aktenstuecke widerlegen die Bescheidbegruendung?
+- Welche Aktenstuecke widerlegen die Bescheidbegründung?
 - Wo brauchen wir eine Stellungnahme des Mandanten?
 - Wo brauchen wir ein eigenes Privatgutachten zur Untermauerung?
-- Welche Beweisantraege koennten wir im Klageverfahren stellen?
+- Welche Beweisanträge könnten wir im Klageverfahren stellen?
 
 ## Ausgabe
 
 - `aktenchronik-<mandat>.md` mit Chronik und Bewertung.
-- `aktenpruefliste-<mandat>.md` mit Pruefer-Flags zur Klaerung mit Mandant.
-- Vorlage `schriftsatzbausteine-<mandat>.md` mit zitierfaehigen Pinpoint-Verweisen aus der Akte fuer den Folgeschriftsatz.
+- `aktenpruefliste-<mandat>.md` mit Prüfer-Flags zur Klaerung mit Mandant.
+- Vorlage `schriftsatzbausteine-<mandat>.md` mit zitierfähigen Pinpoint-Verweisen aus der Akte für den Folgeschriftsatz.
 
 ## Hinweis zur Vertraulichkeit
 
-Verwaltungs- und Sozialakten enthalten besonders sensible Daten (Gesundheit Sozialleistungen Vermoegen). Verarbeitung nur in Tools mit AVV. Mandantenakte unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/sozialrecht-kanzlei/mandate/<az>/` ablegen.
+Verwaltungs- und Sozialakten enthalten besonders sensible Daten (Gesundheit Sozialleistungen Vermögen). Verarbeitung nur in Tools mit AVV. Mandantenakte unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/sozialrecht-kanzlei/mandate/<az>/` ablegen.

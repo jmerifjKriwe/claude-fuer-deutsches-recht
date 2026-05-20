@@ -7,20 +7,20 @@ description: Antrag auf Aussetzung der Vollziehung — zweistufiges Verfahren. Z
 
 ## Hintergrund
 
-Einspruch und Klage gegen Steuerbescheide haben **keine aufschiebende Wirkung** (§ 361 Abs. 1 AO / § 69 Abs. 1 FGO). Die Steuer ist trotz Rechtsmittel zur Faelligkeit zu zahlen. Wer das nicht will: Antrag auf Aussetzung der Vollziehung.
+Einspruch und Klage gegen Steuerbescheide haben **keine aufschiebende Wirkung** (§ 361 Abs. 1 AO / § 69 Abs. 1 FGO). Die Steuer ist trotz Rechtsmittel zur Fälligkeit zu zahlen. Wer das nicht will: Antrag auf Aussetzung der Vollziehung.
 
 ## Zweistufiges Verfahren
 
 ### Stufe 1 — Antrag an das Finanzamt (§ 361 Abs. 2 AO)
 
 - Im laufenden Einspruchsverfahren stellt das FA die Vollziehung aus auf Antrag wenn:
-  - **ernstliche Zweifel** an der Rechtmaessigkeit des Bescheids bestehen, **oder**
-  - die Vollziehung fuer den Steuerpflichtigen eine **unbillige nicht durch ueberwiegende oeffentliche Interessen gebotene Haerte** zur Folge haette.
+  - **ernstliche Zweifel** an der Rechtmäßigkeit des Bescheids bestehen, **oder**
+  - die Vollziehung für den Steuerpflichtigen eine **unbillige nicht durch überwiegende öffentliche Interessen gebotene Haerte** zur Folge haette.
 
 ### Stufe 2 — Antrag an das Finanzgericht (§ 69 Abs. 3 FGO)
 
-- Antrag zulaessig wenn das FA den AdV-Antrag ganz oder teilweise abgelehnt hat **oder** ueber den Antrag nicht in angemessener Frist entschieden hat (§ 69 Abs. 4 FGO).
-- Im Klageverfahren auch erstmals direkt an das FG moeglich.
+- Antrag zulässig wenn das FA den AdV-Antrag ganz oder teilweise abgelehnt hat **oder** über den Antrag nicht in angemessener Frist entschieden hat (§ 69 Abs. 4 FGO).
+- Im Klageverfahren auch erstmals direkt an das FG möglich.
 
 ## Antragsaufbau
 
@@ -34,13 +34,13 @@ Einspruch und Klage gegen Steuerbescheide haben **keine aufschiebende Wirkung** 
 
 Bei Stufe 1 (FA):
 
-"Hiermit beantrage ich Aussetzung der Vollziehung des Bescheids ueber (Steuerart) (Jahr) vom (Datum) Az (...) gemaess § 361 Abs. 2 AO bis zur Bekanntgabe der Einspruchsentscheidung."
+"Hiermit beantrage ich Aussetzung der Vollziehung des Bescheids über (Steuerart) (Jahr) vom (Datum) Az (...) gemäß § 361 Abs. 2 AO bis zur Bekanntgabe der Einspruchsentscheidung."
 
 Bei Stufe 2 (FG):
 
-"Hiermit beantrage ich Aussetzung der Vollziehung des Bescheids ueber (Steuerart) (Jahr) vom (Datum) in Gestalt der Einspruchsentscheidung vom (Datum) gemaess § 69 Abs. 3 FGO bis zum rechtskraeftigen Abschluss des Klageverfahrens. Hilfsweise wird die Aufhebung der Vollziehung beantragt."
+"Hiermit beantrage ich Aussetzung der Vollziehung des Bescheids über (Steuerart) (Jahr) vom (Datum) in Gestalt der Einspruchsentscheidung vom (Datum) gemäß § 69 Abs. 3 FGO bis zum rechtskraeftigen Abschluss des Klageverfahrens. Hilfsweise wird die Aufhebung der Vollziehung beantragt."
 
-### 3. Begruendung
+### 3. Begründung
 
 #### Ernstliche Zweifel
 
@@ -50,9 +50,9 @@ Bei Stufe 2 (FG):
 
 #### Unbillige Haerte
 
-- Vermoegens- und Liquiditaetslage des Steuerpflichtigen.
+- Vermögens- und Liquiditätslage des Steuerpflichtigen.
 - Existenzbedrohung durch sofortige Vollziehung.
-- Belege Kontoauszuege Vermoegensaufstellung.
+- Belege Kontoauszüge Vermögensaufstellung.
 
 #### Eidesstattliche Versicherung
 
@@ -66,7 +66,7 @@ Das FA / FG kann AdV gegen Sicherheitsleistung anordnen (§ 361 Abs. 2 Satz 3 AO
 
 - **Aussetzung** Vollziehung bis Bekanntgabe Einspruchsentscheidung bzw bis Rechtskraft.
 - **Aussetzungszinsen** § 237 AO bei Verlust des Einspruchs / der Klage — derzeit 0,15 % pro Monat (1,8 % pro Jahr).
-- **Aufhebung Vollziehung** bei bereits gezahlter Steuer — Rueckerstattung.
+- **Aufhebung Vollziehung** bei bereits gezahlter Steuer — Rückerstattung.
 
 ## Frist
 
@@ -76,8 +76,8 @@ Keine gesetzliche Antragsfrist. Empfehlung: zusammen mit Einspruch oder Klage ei
 
 - `adv-antrag-<az>-<datum>.docx`.
 - eidesstattliche Versicherung als Anlage.
-- Eintrag im Fristenbuch (FA-Reaktionsfrist beobachten — bei Ueberschreitung Stufe 2 FG).
+- Eintrag im Fristenbuch (FA-Reaktionsfrist beobachten — bei Überschreitung Stufe 2 FG).
 
 ## Versand
 
-Ueber beA. Vor Versand `versand-vor-check` aus `kanzlei-cowork`.
+Über beA. Vor Versand `versand-vor-check` aus `kanzlei-cowork`.

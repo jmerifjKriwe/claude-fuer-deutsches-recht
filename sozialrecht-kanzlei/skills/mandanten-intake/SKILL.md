@@ -25,12 +25,12 @@ Den ersten Kontakt strukturieren — alle Daten erfassen die das Mandat braucht;
 - Renten-Versicherungsnummer
 - Schwerbehindertenstatus (GdB Merkzeichen Ausweisnummer)
 - Pflegegrad (falls vorhanden)
-- Laufende Sozialleistungen mit Hoehe und Bewilligungszeitraum
-- Zustaendige Behoerden mit Aktenzeichen
+- Laufende Sozialleistungen mit Höhe und Bewilligungszeitraum
+- Zuständige Behörden mit Aktenzeichen
 
 ### 3. Aktueller Vorgang
 
-- Worum geht es? (Bescheid Ablehnung Sanktion Rueckforderung Erstantrag)
+- Worum geht es? (Bescheid Ablehnung Sanktion Rückforderung Erstantrag)
 - Datum Bescheid und Zugangsdatum
 - Frist (Widerspruchsfrist Klagefrist)
 - Bisherige Schritte des Mandanten
@@ -38,19 +38,19 @@ Den ersten Kontakt strukturieren — alle Daten erfassen die das Mandat braucht;
 ### 4. Wirtschaftliche Situation
 
 - Einkommen aktuell
-- Vermoegen Schonvermoegen (fuer PKH-Pruefung)
+- Vermögen Schonvermögen (für PKH-Prüfung)
 - Belege aktuell vorhanden? (Bescheid Lohnabrechnungen Mietvertrag Kontoausuege)
 
 ### 5. Vollmachten und Mandatsumfang
 
 - Anwaltsvollmacht Standardumfang
-- Untervollmacht fuer Sozialgericht beA
+- Untervollmacht für Sozialgericht beA
 - Datenschutzhinweis nach Art. 13 DSGVO
 - Honorarvereinbarung / PKH-Antrag separat
 
-## Sofort-Pruefraster
+## Sofort-Prüfraster
 
-- **Frist heute oder in den naechsten drei Tagen?** Sofort eskalieren — Skill `fristenbuch-sozialrecht`.
+- **Frist heute oder in den nächsten drei Tagen?** Sofort eskalieren — Skill `fristenbuch-sozialrecht`.
 - **Eilbeduerfnis** Wohnungsverlust Wegfall existenzsichernder Leistungen? Skill `eilantrag-sozialrecht`.
 - **PKH erforderlich?** Skill `prozesskostenhilfe-antrag`.
 - **Akteneinsicht erforderlich?** Skill `akteneinsicht-anfordern`.
@@ -58,13 +58,13 @@ Den ersten Kontakt strukturieren — alle Daten erfassen die das Mandat braucht;
 ## Akte anlegen
 
 - Aktenstruktur nach Plugin-Konvention: `~/.claude/plugins/config/claude-fuer-deutsches-recht/sozialrecht-kanzlei/mandate/<az>-<name>/`
-- Unterordner: `01_stammdaten`, `02_bescheide`, `03_korrespondenz`, `04_akten`, `05_schriftsaetze`, `06_anlagen`, `07_fristen`, `08_honorar`.
+- Unterordner: `01_stammdaten`, `02_bescheide`, `03_korrespondenz`, `04_akten`, `05_schriftsätze`, `06_anlagen`, `07_fristen`, `08_honorar`.
 
 ## Vollmachts- und Datenschutzdokumente
 
 - **Anwaltsvollmacht** mit konkretem Mandatsumfang (Vorverfahren und Klage; ggf. Untervollmacht).
 - **Datenschutzhinweis** nach Art. 13 DSGVO mit Verweis auf die Verarbeitung von Sozialdaten und Gesundheitsdaten (Art. 9 DSGVO).
-- **Schweigepflichtsentbindung** fuer Behoerden / Aerzte / Drittstellen — separat.
+- **Schweigepflichtsentbindung** für Behörden / Aerzte / Drittstellen — separat.
 
 ## Ausgabe
 
@@ -72,4 +72,4 @@ Den ersten Kontakt strukturieren — alle Daten erfassen die das Mandat braucht;
 - Vollmachtsentwurf zur Unterschrift `01_stammdaten/vollmacht.docx`.
 - Datenschutzhinweis `01_stammdaten/datenschutz.md`.
 - Fristenbuch-Eintrag(e).
-- Empfehlung naechster Skills.
+- Empfehlung nächster Skills.

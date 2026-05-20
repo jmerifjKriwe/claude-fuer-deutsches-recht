@@ -5,60 +5,60 @@ description: Mietersicht — pruefe eine laufende oder bei Vertragsschluss verei
 
 # Mietsenkungsverlangen (Mietpreisbremse, WiStG, Wucher)
 
-## Disclaimer (Schluesselstelle)
+## Disclaimer (Schlüsselstelle)
 
-Mietsenkungsverlangen sind streitanfaellig. Die Mietpreisbremse gilt nur in Gebieten mit Landesverordnung (§ 556d Abs. 2 BGB). Vor Versand der qualifizierten Ruege eine anwaltliche oder mietervereinsseitige Pruefung einholen. Fehlerhafte Ruegen koennen Anspruechen entgegengehalten werden.
+Mietsenkungsverlangen sind streitanfällig. Die Mietpreisbremse gilt nur in Gebieten mit Landesverordnung (§ 556d Abs. 2 BGB). Vor Versand der qualifizierten Ruege eine anwaltliche oder mietervereinsseitige Prüfung einholen. Fehlerhafte Ruegen können Anspruechen entgegengehalten werden.
 
 ## Workflow
 
 ### Schritt 1 — Anwendbarkeit der Mietpreisbremse
 
 - Vertragsschluss **nach dem 1. Juni 2015** (§ 556d BGB ist seit dem 1. Juni 2015 in Kraft).
-- Wohnung liegt in einem Gebiet mit Landesverordnung nach § 556d Abs. 2 BGB — Pruefung anhand `references/mietspiegel-quellen.md`.
-- Verordnung zum Zeitpunkt des Vertragsschlusses gueltig.
+- Wohnung liegt in einem Gebiet mit Landesverordnung nach § 556d Abs. 2 BGB — Prüfung anhand `references/mietspiegel-quellen.md`.
+- Verordnung zum Zeitpunkt des Vertragsschlusses gültig.
 
-### Schritt 2 — Ausnahmen pruefen (§§ 556e und 556f BGB)
+### Schritt 2 — Ausnahmen prüfen (§§ 556e und 556f BGB)
 
-- **Vormiete** wenn hoeher, darf weitergegeben werden (§ 556e Abs. 1 BGB).
+- **Vormiete** wenn höher, darf weitergegeben werden (§ 556e Abs. 1 BGB).
 - **Modernisierung** nach § 556e Abs. 2 BGB.
 - **Neubau** Erstbezug nach dem 1. Oktober 2014 ausgenommen (§ 556f Satz 1 BGB).
 - **Umfassende Modernisierung** nach § 556f Satz 2 BGB ausgenommen.
 
-### Schritt 3 — Zulaessige Miete berechnen
+### Schritt 3 — Zulässige Miete berechnen
 
-- Ortsuebliche Vergleichsmiete nach Mietspiegel ermitteln (Spanne, Einordnung).
-- Zulaessig: ortsuebliche Vergleichsmiete plus **zehn Prozent** (§ 556d Abs. 1 BGB).
-- Differenz zur tatsaechlich gezahlten Miete berechnen.
+- Ortsübliche Vergleichsmiete nach Mietspiegel ermitteln (Spanne, Einordnung).
+- Zulässig: ortsübliche Vergleichsmiete plus **zehn Prozent** (§ 556d Abs. 1 BGB).
+- Differenz zur tatsächlich gezahlten Miete berechnen.
 
 ### Schritt 4 — Qualifizierte Ruege (§ 556g Abs. 2 BGB)
 
 - **Textform** ausreichend.
 - **Tatsachen** angeben, auf denen die Beanstandung beruht (Mietspiegelwerte, Wohnlage, Ausstattung).
-- **Rueckforderung** erst ab Zugang der Ruege (§ 556g Abs. 1 Satz 3 BGB) — auf zu viel gezahlte Miete.
+- **Rückforderung** erst ab Zugang der Ruege (§ 556g Abs. 1 Satz 3 BGB) — auf zu viel gezahlte Miete.
 
 ### Schritt 5 — Auskunftsanspruch (§ 556g Abs. 3 BGB)
 
-- Mieter kann vom Vermieter Auskunft verlangen ueber Tatsachen, die fuer die Ausnahmen nach §§ 556e und 556f BGB massgebend sind.
+- Mieter kann vom Vermieter Auskunft verlangen über Tatsachen, die für die Ausnahmen nach §§ 556e und 556f BGB massgebend sind.
 
-### Schritt 6 — Mietpreisueberhoehung (§ 5 WiStG)
+### Schritt 6 — Mietpreisueberhöhung (§ 5 WiStG)
 
-- **Ueber zwanzig Prozent** ueber ortsueblicher Vergleichsmiete bei **Ausnutzung eines geringen Angebots**.
-- Ordnungswidrigkeit; ueberhoehter Teil ist nicht geschuldet.
+- **Über zwanzig Prozent** über ortsüblicher Vergleichsmiete bei **Ausnutzung eines geringen Angebots**.
+- Ordnungswidrigkeit; ueberhöhter Teil ist nicht geschuldet.
 
 ### Schritt 7 — Wucher (§ 291 StGB)
 
-- **Auffaelliges Missverhaeltnis** Miete zu Leistung **plus** Ausbeutung einer Zwangslage, Unerfahrenheit, Mangel an Urteilsvermoegen oder erheblicher Willensschwaeche.
-- Straftatbestand — Anzeige moeglich.
+- **Auffälliges Missverhältnis** Miete zu Leistung **plus** Ausbeutung einer Zwangslage, Unerfahrenheit, Mangel an Urteilsvermögen oder erheblicher Willensschwaeche.
+- Straftatbestand — Anzeige möglich.
 
 ## Schreiben-Entwurf
 
 Strukturiere die Ruege in Abschnitte:
 
 1. Bezeichnung als qualifizierte Ruege nach § 556g Abs. 2 BGB.
-2. Sachverhalt (Mietvertrag, Mietsache, Datum, Hoehe der Miete).
+2. Sachverhalt (Mietvertrag, Mietsache, Datum, Höhe der Miete).
 3. Gebiet der Mietpreisbremse mit Verordnung (Link).
-4. Berechnung der ortsueblichen Vergleichsmiete mit Mietspiegelauszug.
-5. Berechnung der zulaessigen Miete (plus zehn Prozent).
-6. Beanstandeter Mehrbetrag und Aufforderung zur Senkung sowie Rueckzahlung ab Zugang.
-7. Hilfsweise Hinweise auf § 5 WiStG und § 291 StGB falls einschlaegig.
+4. Berechnung der ortsüblichen Vergleichsmiete mit Mietspiegelauszug.
+5. Berechnung der zulässigen Miete (plus zehn Prozent).
+6. Beanstandeter Mehrbetrag und Aufforderung zur Senkung sowie Rückzahlung ab Zugang.
+7. Hilfsweise Hinweise auf § 5 WiStG und § 291 StGB falls einschlägig.
 8. **Disclaimer am Ende** — kein anwaltliches Schreiben, Empfehlung Rechtsrat einzuholen.

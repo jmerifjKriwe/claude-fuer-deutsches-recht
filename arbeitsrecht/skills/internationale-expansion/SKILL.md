@@ -309,7 +309,7 @@ offene_punkte:
     punkt: "[was zu tun ist]"
     verantwortung: "[Funktion oder Person]"
     status: [offen / in-bearbeitung / erledigt / blockiert]
-    faellig: [ISO-Datum oder null]
+    fällig: [ISO-Datum oder null]
     fragen:
       - "[spezifische Frage aus Schritten 2–4]"
     notizen: ""

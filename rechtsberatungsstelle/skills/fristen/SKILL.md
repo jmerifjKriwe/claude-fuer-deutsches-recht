@@ -9,7 +9,7 @@ description: "Fristenmanagement für die Rechtsberatungsstelle — Fristen eintr
 
 Die gravierendste operative Gefahr einer Rechtsberatungsstelle ist eine versäumte Frist. Studierende betreuen mehrere Mandate gleichzeitig, arbeiten in Teilzeit und wechseln semesterweise. Fristen, die nur im Kopf einzelner Studierender existieren, gehen bei der Semesterübergabe verloren, werden in Prüfungsphasen vergessen oder fallen weg, wenn ein Studierender unerwartet aus der Beratungsstelle ausscheidet.
 
-Diese Skill ist das zentrale Betriebsverzeichnis für Fristen. Der begleitende volljuristische Supervisor trägt die Verantwortung, wenn eine Frist versäumt wird. Die Skill ist auf dieses Haftungsniveau kalibriert: Warnungen greifen früh, überfällige Einträge bleiben in jeder Übersicht sichtbar, und Semesterübergaben (via `/semester-uebergabe`) übertragen das Fristenregister auf die nächste Studierendenkohorte.
+Diese Skill ist das zentrale Betriebsverzeichnis für Fristen. Der begleitende volljuristische Supervisor trägt die Verantwortung, wenn eine Frist versäumt wird. Die Skill ist auf dieses Haftungsniveau kalibriert: Warnungen greifen früh, überfällige Einträge bleiben in jeder Übersicht sichtbar, und Semesterübergaben (via `/semester-übergabe`) übertragen das Fristenregister auf die nächste Studierendenkohorte.
 
 ## Eingaben
 
@@ -62,7 +62,7 @@ Diese Skill ist das zentrale Betriebsverzeichnis für Fristen. Der begleitende v
 6. Duplikatsprüfung: existiert bereits ein Eintrag mit gleicher Fall-ID, gleichem Typ und gleichem Datum? Falls ja, Hinweis vor dem Speichern.
 7. **Plausibilitätsprüfung (Pflicht):** Nach Eingabe des Datums wird das Ergebnis gegen typische Fristbänder für den gewählten Typ geprüft (z. B. Klagefrist VwGO: ca. 1 Monat nach Zustellung; Dreiwochenfrist KSchG: 21 Tage ab Zugang Kündigung; Widerspruchsfrist VwGO: 1 Monat). Liegt das eingetragene Datum außerhalb des typischen Bandes, erfolgt folgende Warnung:
    > „Das eingetragene Datum liegt außerhalb des typischen Bereichs für [Fristtyp] im deutschen Recht ([Rechtsgebiet]). Typische Dauer: ca. [Bandbreite] nach [auslösendem Ereignis]. Ihr Eintrag: [Datum], das sind [N] Tage nach [Ereignis]. Prüfen Sie Ihre Berechnung gegen [zitierte Norm aus dem Fristenband] sowie die maßgebliche Fristberechnungsregel (§ 187 f. BGB / § 222 ZPO / § 57 VwGO). Falls Ihre Berechnung korrekt ist (Sonderregelung, Hemmung, Unterbrechung, Wiedereinsetzung), bestätigen Sie; ich trage die Frist unverändert ein."
-8. Gibt der/die Studierende `[PRÜFEN]` im Datumsfeld ein, wird der Eintrag mit `faellig: [PRÜFEN]` gespeichert; die Plausibilitätsprüfung läuft erst, wenn ein konkretes Datum eingetragen wird.
+8. Gibt der/die Studierende `[PRÜFEN]` im Datumsfeld ein, wird der Eintrag mit `fällig: [PRÜFEN]` gespeichert; die Plausibilitätsprüfung läuft erst, wenn ein konkretes Datum eingetragen wird.
 9. **Die Skill berechnet keine Fristen.** Die Berechnung obliegt dem/der Studierenden und dem Supervisor; die Skill trägt das Ergebnis ein.
 
 ### Modus `--bericht` (Standard) — gesamtübergreifende Übersicht
@@ -161,6 +161,6 @@ Ausgabe: Eintrag `mueller-mietrecht-widerspruch-2026-05` wird gespeichert. Plaus
 
 Jede eingetragene Frist muss eine **Quellnorm** enthalten (Gesetz, Gerichtsurteil, Vertrag, behördlicher Bescheid). Fristen ohne Quellangabe erhalten den Warnstatus `warnung: keine-quelle`. Die Quellnorm ist die Grundlage, gegen die der Supervisor die Berechnung prüft.
 
-Jeder Fristeneintrag, der außerhalb des Plausibilitätsbands liegt und dennoch bestätigt wurde, erhält automatisch den Hinweis: `warnung: ausserhalb-plausibilitaetsband — vom Supervisor zu prüfen`.
+Jeder Fristeneintrag, der außerhalb des Plausibilitätsbands liegt und dennoch bestätigt wurde, erhält automatisch den Hinweis: `warnung: außerhalb-plausibilitätsband — vom Supervisor zu prüfen`.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall. Alle Fristenberechnungen sind vom begleitenden Supervisor zu prüfen und freizugeben.

@@ -59,7 +59,7 @@ Treffer: EP 3 456 789 A1
   Relevanter Pinpoint:
     Anspruch 1, Merkmale a)-d) decken sich mit Anspruch 1 der Mandantenerfindung;
     Absatz [0023]-[0027] (Bezugszeichen 12, 14) beschreibt baugleiches Verfahren.
-  Bewertung: Hauptanspruch der Mandantenerfindung ist gegen diesen Treffer nicht neuheitsfaehig.
+  Bewertung: Hauptanspruch der Mandantenerfindung ist gegen diesen Treffer nicht neuheitsfähig.
   Empfehlung: Anspruchsformulierung anpassen oder Erfindung in Richtung verbleibender Merkmale eingrenzen.
   Link: https://worldwide.espacenet.com/patent/search/family/.../publication/EP3456789A1
 ```

@@ -53,7 +53,7 @@ Pro Familienmitglied:
 
 | Veröff.-Nr. | Anmelder | Anmeldetag | Prio | Status | Klasse | Validierung | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| DE 10 2018 005 432 A1 | Siemens AG | 15.03.2018 | DE 15.03.2018 | zurueckgenommen | H02J 3/14 | — | DPMAregister-Link |
+| DE 10 2018 005 432 A1 | Siemens AG | 15.03.2018 | DE 15.03.2018 | zurückgenommen | H02J 3/14 | — | DPMAregister-Link |
 | EP 3 456 789 A1 | Siemens AG | 14.03.2019 | DE 15.03.2018 | erteilt | H02J 3/14 | DE FR GB | EPO-Register-Link |
 | EP 3 456 789 B1 | Siemens AG | 14.03.2019 | DE 15.03.2018 | erteilt 12.09.2021 | H02J 3/14 | DE FR GB IT NL | EPO-Register-Link |
 | US 10,876,543 B2 | Siemens AG | 15.03.2019 | DE 15.03.2018 | erteilt 05.10.2020 | H02J 3/14 | US | USPTO-Link |
@@ -63,7 +63,7 @@ Pro Familienmitglied:
 
 ### Schritt 4: Rechtsstand markieren
 
-Pro Familienmitglied: ist es noch in Kraft? Wann läuft die Schutzdauer ab (= Anmeldetag + 20 Jahre)? Sind die Jahresgebühren bezahlt? — über `rechtsstand-pruefen`.
+Pro Familienmitglied: ist es noch in Kraft? Wann läuft die Schutzdauer ab (= Anmeldetag + 20 Jahre)? Sind die Jahresgebühren bezahlt? — über `rechtsstand-prüfen`.
 
 ### Schritt 5: Auswertung
 
@@ -86,4 +86,4 @@ Familientabelle als strukturiertes YAML/JSON an `freedom-to-operate-recherche` o
 
 ## Disclaimer
 
-> **Hinweis zur Familienanalyse.** Diese Patentfamilien-Analyse beruht auf INPADOC-Daten und ist eine durch Claude unterstuetzte Vorrecherche. Datenluecken sind insbesondere bei JP- CN- KR- und einzelnen weiteren Aemtern moeglich. Continuation- und Teilanmeldungen koennen anhaengig sein, ohne dass sie schon veroeffentlicht sind. Die Familie kann durch Anmelderwechsel verschoben sein. Die finale Familie- und Rechtsstandsbewertung muss durch direkte Recherche in den nationalen Registern abgesichert werden.
+> **Hinweis zur Familienanalyse.** Diese Patentfamilien-Analyse beruht auf INPADOC-Daten und ist eine durch Claude unterstuetzte Vorrecherche. Datenlücken sind insbesondere bei JP- CN- KR- und einzelnen weiteren Aemtern möglich. Continuation- und Teilanmeldungen können anhängig sein, ohne dass sie schon veröffentlicht sind. Die Familie kann durch Anmelderwechsel verschoben sein. Die finale Familie- und Rechtsstandsbewertung muss durch direkte Recherche in den nationalen Registern abgesichert werden.

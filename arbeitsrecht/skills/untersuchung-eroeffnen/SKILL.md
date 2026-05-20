@@ -124,7 +124,7 @@ Quellencheckliste: investigation-[slug]/quellen-checkliste.yaml
 Dokumentenprotokoll: investigation-[slug]/dokumente-geprueft.yaml
 
 Nächste Schritte:
-  /arbeitsrecht:untersuchung-ergaenzen [slug] — Daten hinzufügen
+  /arbeitsrecht:untersuchung-ergänzen [slug] — Daten hinzufügen
   /arbeitsrecht:untersuchung-abfrage [slug] — Protokoll abfragen
   /arbeitsrecht:untersuchungs-memo [slug] — Vermerk entwerfen
 ```

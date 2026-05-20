@@ -50,7 +50,7 @@ Einige Änderungen haben Folgewirkungen auf andere Skills:
 | Durchsetzungsstrategie von „ausgewogen" auf „offensiv" | unterlassungsverlangen-Skill senkt Schwelle für Abmahnempfehlung |
 | Neuer Genehmiger | alle Genehmigungsgates aktualisiert |
 | Neues Schutzrecht | portfolio-Skill fügt Fristen automatisch hinzu |
-| OSS-Richtlinie verschärft | open-source-pruefung-Skill verwendet neue Whitelist |
+| OSS-Richtlinie verschärft | open-source-prüfung-Skill verwendet neue Whitelist |
 
 Folgewirkungen dem Nutzer mitteilen.
 

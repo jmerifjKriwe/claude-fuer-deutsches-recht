@@ -50,7 +50,7 @@ Den Deaktivierungs-Arbeitsablauf aus dem `skill-verwalter`-Referenz-Skill ausfü
 
 Folgende Umbenennungen vorbereiten:
 - `SKILL.md` → `SKILL.md.disabled` (Claude entdeckt den Skill nicht mehr als aktiven Skill)
-- `ausloeser/ausloeser.json` → `ausloeser/ausloeser.json.disabled` (falls vorhanden — verhindert automatisches Auslösen)
+- `auslöser/auslöser.json` → `auslöser/auslöser.json.disabled` (falls vorhanden — verhindert automatisches Auslösen)
 - Alle Agentendateien `agents/*.md` → `agents/*.md.disabled` (falls vorhanden — stoppt geplante Agenten)
 
 ### Schritt 3: Bestätigen
@@ -60,8 +60,8 @@ Umbenennungsliste anzeigen:
 Zu deaktivierende Dateien (Umbenennung, keine Löschung):
   ~/.claude/skills/[skill-name]/SKILL.md
     → SKILL.md.disabled
-  ~/.claude/skills/[skill-name]/ausloeser/ausloeser.json (falls vorhanden)
-    → ausloeser.json.disabled
+  ~/.claude/skills/[skill-name]/auslöser/auslöser.json (falls vorhanden)
+    → auslöser.json.disabled
 
 Konfiguration bleibt erhalten:
   ~/.claude/plugins/config/.../[skill-name]/ (wird NICHT angefasst)
@@ -92,7 +92,7 @@ Wenn der Nutzer einen Skill nennt, dessen neueste Protokollaktion `deaktivieren`
 
 1. Umbenennung rückgängig machen:
    - `SKILL.md.disabled` → `SKILL.md`
-   - `ausloeser.json.disabled` → `ausloeser.json` (falls vorhanden)
+   - `auslöser.json.disabled` → `auslöser.json` (falls vorhanden)
    - `agents/*.md.disabled` → `agents/*.md` (falls vorhanden)
 2. Umbenennungsliste anzeigen
 3. „Skill reaktivieren? (ja / nein)" — nur bei `ja` fortfahren
@@ -116,25 +116,25 @@ Wenn der Nutzer einen Skill nennt, dessen neueste Protokollaktion `deaktivieren`
 ## Beispiel
 
 ```
-/kanzlei-builder-hub:deaktivieren nda-pruefung
+/kanzlei-builder-hub:deaktivieren nda-prüfung
 
 Zu deaktivierende Dateien (Umbenennung, keine Löschung):
-  ~/.claude/skills/nda-pruefung/SKILL.md
+  ~/.claude/skills/nda-prüfung/SKILL.md
     → SKILL.md.disabled
 
 Konfiguration bleibt erhalten:
-  ~/.claude/plugins/config/.../nda-pruefung/ (wird NICHT angefasst)
+  ~/.claude/plugins/config/.../nda-prüfung/ (wird NICHT angefasst)
 
 Skill deaktivieren? (ja / nein): ja
 
-✅ Deaktiviert. nda-pruefung wird nicht mehr ausgeführt.
-   Reaktivierung: /kanzlei-builder-hub:deaktivieren nda-pruefung erneut ausführen.
-   Vollständige Entfernung: /kanzlei-builder-hub:deinstallieren nda-pruefung
+✅ Deaktiviert. nda-prüfung wird nicht mehr ausgeführt.
+   Reaktivierung: /kanzlei-builder-hub:deaktivieren nda-prüfung erneut ausführen.
+   Vollständige Entfernung: /kanzlei-builder-hub:deinstallieren nda-prüfung
 ```
 
 ## Risiken und typische Fehler
 
-- **Automatische Auslöser übersehen:** Falls ein Skill `ausloeser/ausloeser.json` enthält und diese Datei nicht umbenannt wird, können automatische Auslöser weiterhin feuern. Dieser Skill benennt die Auslöserdatei immer mit um.
+- **Automatische Auslöser übersehen:** Falls ein Skill `auslöser/auslöser.json` enthält und diese Datei nicht umbenannt wird, können automatische Auslöser weiterhin feuern. Dieser Skill benennt die Auslöserdatei immer mit um.
 - **Agentendateien übersehen:** Geplante Agenten in `agents/*.md` müssen ebenfalls deaktiviert werden.
 - **Deaktivierung mit Deinstallation verwechseln:** `deaktivieren` entfernt keine Dateien. Für vollständige Entfernung: `/kanzlei-builder-hub:deinstallieren`.
 

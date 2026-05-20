@@ -150,7 +150,7 @@ Strukturierte Ergebnisliste mit:
 
 Die strukturierte Ergebnisliste geht an den passenden Folge-Skill:
 
-- `neuheit-pruefen` — für Neuheitsbewertung
-- `erfinderische-taetigkeit-pruefen` — für Problem-Solution-Approach
+- `neuheit-prüfen` — für Neuheitsbewertung
+- `erfinderische-tätigkeit-prüfen` — für Problem-Solution-Approach
 - `freedom-to-operate-recherche` — für FTO-Bewertung
 - `recherchebericht-erstellen` — für formalen Output

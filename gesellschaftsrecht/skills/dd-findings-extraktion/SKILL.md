@@ -152,9 +152,9 @@ Findings nach Anforderungskategorie gruppieren. Innerhalb der Kategorie nach Sch
 
 ## Übergaben
 
-- **An ki-werkzeug-uebergabe:** Bei Nutzung von Luminance/Kira gemäß Praxisprofil massenhafte Vertragsextraktion dorthin übergeben.
+- **An ki-werkzeug-übergabe:** Bei Nutzung von Luminance/Kira gemäß Praxisprofil massenhafte Vertragsextraktion dorthin übergeben.
 - **An dealteam-zusammenfassung:** Aggregierte Findings speisen das Deal-Team-Briefing.
-- **An wesentliche-vertraege-anlage:** Vertragsextraktionen speisen die Disclosure Schedule.
+- **An wesentliche-verträge-anlage:** Vertragsextraktionen speisen die Disclosure Schedule.
 - **An vollzugs-checkliste:** Jedes Finding, das eine diskrete Vorvertrags-Handlung impliziert. Nicht auf „Zustimmungen" beschränkt – auch:
   - **Gesellschafter-/Organentscheidung** – Gesellschafterbeschlüsse, AR-Beschlüsse, ggf. § 179a AktG-HV-Beschluss
   - **Behördliche Einreichungen** – BKartA-Anmeldung, BMWK-FDI-Prüfung, BaFin-Anzeige
@@ -184,4 +184,4 @@ Kommentarliteratur:
 
 - Er trifft keine Wesentlichkeitsentscheidung bei Grenzfällen. Er wendet die Schwelle an; ein Mensch entscheidet über den Grenzfall.
 - Er verhandelt keine Garantien. Er erstellt die Findings, die deren Inhalt informieren.
-- Er ersetzt keine KI-Massenprüfung. Für hochvolumige Klauselextraktion an ki-werkzeug-uebergabe übergeben.
+- Er ersetzt keine KI-Massenprüfung. Für hochvolumige Klauselextraktion an ki-werkzeug-übergabe übergeben.

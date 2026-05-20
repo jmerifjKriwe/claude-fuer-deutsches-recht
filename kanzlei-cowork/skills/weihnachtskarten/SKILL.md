@@ -10,7 +10,7 @@ description: Pflegt den Weihnachtskartenversand der Kanzlei. Verteiler mit Empfa
 ```yaml
 - name: Mueller, Hans
   anrede: foermlich
-  empfaenger: Mueller GmbH (zu Hd. Hans Mueller)
+  empfänger: Mueller GmbH (zu Hd. Hans Mueller)
   anschrift: ...
   e-mail: hmueller@mueller-gmbh.de
   versandweg: digital  # digital / post / beides
@@ -22,31 +22,31 @@ description: Pflegt den Weihnachtskartenversand der Kanzlei. Verteiler mit Empfa
 
 ## Texte
 
-### Foermlich-zurueckhaltend (Mandanten gemischter Branchen)
+### Foermlich-zurückhaltend (Mandanten gemischter Branchen)
 
 ```
 Sehr geehrter Herr [Nachname],
 
-zum Ende dieses Jahres moechte ich Ihnen fuer die vertrauensvolle
-Zusammenarbeit danken. Ich wuensche Ihnen ruhige besinnliche Feiertage
-einen guten Uebergang ins neue Jahr und vor allem Gesundheit.
+zum Ende dieses Jahres moechte ich Ihnen für die vertrauensvolle
+Zusammenarbeit danken. Ich wünsche Ihnen ruhige besinnliche Feiertage
+einen guten Übergang ins neue Jahr und vor allem Gesundheit.
 
-Mit freundlichen Gruessen
+Mit freundlichen Grüßen
 
 [Anwalt]
 Kanzlei XYZ
 ```
 
-### Warm (langjaehrige Geschaeftspartner Kollegen)
+### Warm (langjaehrige Geschäftspartner Kollegen)
 
 ```
 Liebe(r) [Vorname],
 
-am Ende eines arbeitsreichen Jahres ein herzliches Dankeschoen fuer die
-gute Zusammenarbeit. Ich wuensche Ihnen besinnliche Festtage einen
-guten Rutsch und ein gesundes glueckliches neues Jahr.
+am Ende eines arbeitsreichen Jahres ein herzliches Dankeschoen für die
+gute Zusammenarbeit. Ich wünsche Ihnen besinnliche Festtage einen
+guten Rutsch und ein gesundes glückliches neues Jahr.
 
-Beste Gruesse
+Beste Grüße
 [Anwalt]
 ```
 
@@ -59,7 +59,7 @@ Individuell formuliert — kein Templating; auf der persoenlichen Beziehung aufb
 ### Postversand
 
 - **Karten** mit handgeschriebener Unterschrift Pflicht.
-- **Druckliste** fuer Adressetiketten oder Briefumschlag-Druck.
+- **Druckliste** für Adressetiketten oder Briefumschlag-Druck.
 - **Frankierung** als Standardbrief oder Postkarte.
 - **Versandzeitraum** zweite Dezemberwoche damit vor Weihnachten ankommt.
 
@@ -68,33 +68,33 @@ Individuell formuliert — kein Templating; auf der persoenlichen Beziehung aufb
 - **E-Mail** mit kurzer persoenlicher Anrede.
 - **Anhang** optional als PDF-Karte (Briefkopf der Kanzlei).
 - **Versandzeitraum** kurz vor Weihnachten (z. B. 22./23. Dezember).
-- **Massenversand vermeiden** — pro Empfaenger einzeln im Bcc nicht zulaessig wegen DSGVO; lieber serienmaessig versenden.
+- **Massenversand vermeiden** — pro Empfänger einzeln im Bcc nicht zulässig wegen DSGVO; lieber serienmaessig versenden.
 
 ### Hybrid
 
-- Engste Mandanten und Partner Postkarte plus zusaetzlich kurze E-Mail.
+- Engste Mandanten und Partner Postkarte plus zusätzlich kurze E-Mail.
 - Sonstige nur digital.
 
-## Druckliste fuer Postversand
+## Druckliste für Postversand
 
 CSV mit Spalten: Name Anschrift Stadt PLZ Land Ansprache.
 
 ## Versandkontrolle
 
 - **Doppelversand** vermeiden (mit `letzte-karte`-Eintrag).
-- **Verstorbene Empfaenger** entfernen.
+- **Verstorbene Empfänger** entfernen.
 - **Mandate beendet im Streit** ggf. entfernen.
 - **Widerspruch** dauerhaft beachten.
 
 ## Datenschutz
 
-- Erlaeuterung im Mandantenintake auf moegliche Weihnachtsgruesse.
-- Widerspruchsrecht jederzeit moeglich (Art. 21 DSGVO).
-- Loeschung auf Widerspruch (Art. 17 DSGVO).
+- Erläuterung im Mandantenintake auf mögliche Weihnachtsgrüße.
+- Widerspruchsrecht jederzeit möglich (Art. 21 DSGVO).
+- Löschung auf Widerspruch (Art. 17 DSGVO).
 
 ## Ausgabe
 
 - Aktualisierter Verteiler.
 - Druckliste (CSV).
 - E-Mail-Entwuerfe zur Freigabe.
-- Audit mit Versanddatum pro Empfaenger.
+- Audit mit Versanddatum pro Empfänger.

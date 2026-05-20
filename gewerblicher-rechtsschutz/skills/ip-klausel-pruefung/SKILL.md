@@ -43,8 +43,8 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ### Kommentare
 
-- Leistner, in: Schricker/Loewenheim, UrhG, 6. Aufl. 2020, § 31 Rn. 1 (Nutzungsrechte, Übertragbarkeit)
-- Spindler, in: Schricker/Loewenheim, UrhG, 6. Aufl. 2020, § 29 Rn. 1 (Nicht-Übertragbarkeit des Urheberrechts)
+- Leistner, in: Schricker/Löwenheim, UrhG, 6. Aufl. 2020, § 31 Rn. 1 (Nutzungsrechte, Übertragbarkeit)
+- Spindler, in: Schricker/Löwenheim, UrhG, 6. Aufl. 2020, § 29 Rn. 1 (Nicht-Übertragbarkeit des Urheberrechts)
 - Melullis, in: Benkard, PatG, 12. Aufl. 2023, § 15 Rn. 1 (Patentübertragung und -lizenz)
 - Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 27 Rn. 1 (Markenübertragung – Doppelautoren-Kommentar)
 - Soppe, in: BeckOK UrhR, 42. Ed. (Stand 01.01.2025), § 31 Rn. 50 (ausschließliches Nutzungsrecht, Übertragung)
@@ -241,5 +241,5 @@ Jede Klauselaussage muss auf eine Norm oder Entscheidung gestützt sein. Pflicht
 
 - **Gesetze:** §§ 29, 31, 31a, 35, 69b UrhG; §§ 15, 22 PatG; § 27 MarkenG; ArbnErfG
 - **Rechtsprechung:** mindestens eine BGH-Entscheidung zur Zweckübertragungslehre oder Nutzungsrechtsreichweite
-- **Kommentar:** Schricker/Loewenheim UrhG oder BeckOK UrhR mit § und Randnummer
+- **Kommentar:** Schricker/Löwenheim UrhG oder BeckOK UrhR mit § und Randnummer
 - Modellannahmen als `[Modellwissen — verifizieren]` kennzeichnen; keine stillen Ergänzungen aus dem Modellwissen ohne Hinweis.

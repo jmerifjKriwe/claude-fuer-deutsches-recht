@@ -151,7 +151,7 @@ playbooks/
 mit 47 Mails aus drei abgeschlossenen Kündigungsschutzverfahren bereit,
 dazu vier Word-Klageschriften und ein Excel-Tracking mit Verfahrensdauern.
 
-**Ausgabe (Auszug aus `kuendigungsschutz-arbeitnehmer.playbook.md`):**
+**Ausgabe (Auszug aus `kündigungsschutz-arbeitnehmer.playbook.md`):**
 
 ```markdown
 ## Phase 2 — Sachverhaltsaufnahme (Tag 1–3 nach Erstkontakt)
@@ -173,14 +173,14 @@ Entscheidungspunkt:
   Mandant über Erfolgsaussichten aufklären.
 ```
 
-**Fristen-Skelett-Auszug (`kuendigungsschutz-arbeitnehmer.fristen.yaml`):**
+**Fristen-Skelett-Auszug (`kündigungsschutz-arbeitnehmer.fristen.yaml`):**
 
 ```yaml
 phase: klageerhebung
 norm: § 4 Satz 1 KSchG
 dauer_tage: 21
-fristbeginn: zugang_kuendigung
-folge_bei_versaeumnis: fiktion_der_wirksamkeit_§7_kschg
+fristbeginn: zugang_kündigung
+folge_bei_versäumnis: fiktion_der_wirksamkeit_§7_kschg
 ausnahme: § 5 KSchG nachträgliche Zulassung
 ```
 
@@ -203,7 +203,7 @@ ausnahme: § 5 KSchG nachträgliche Zulassung
 - **Veraltete Rechtsstände.** Spielbücher basieren auf Vergleichsfällen
   von gestern — Pflicht zur Auffrischung gegen aktuelle Rechtsprechung
   bei jedem Einsatz, gestützt durch den
-  `regulierungs-feed-monitor` und den `verlaengerungs-monitor`.
+  `regulierungs-feed-monitor` und den `verlängerungs-monitor`.
 - **§ 203 StGB-Risiko bei Cloud-Verarbeitung.** Wenn die Generierung
   in einer Cloud-Umgebung läuft, sind die Anforderungen aus
   Fischer, StGB, § 203 Rn. 6a einzuhalten (Auftragsverarbeitungsvertrag,

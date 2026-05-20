@@ -7,7 +7,7 @@ description: "Wuerfelvorlage fuer Vendor- und Lieferanten-Onboarding — 17 Spal
 
 ## Zweck
 
-Beim Onboarding eines neuen Lieferanten (oder beim Bestands-Audit der vorhandenen) sind dieselben 17 Fragen aus 5 Perspektiven zu beantworten. Dieser Wuerfel liefert die Standardstruktur.
+Beim Onboarding eines neuen Lieferanten (oder beim Bestands-Audit der vorhandenen) sind dieselben 17 Fragen aus 5 Perspektiven zu beantworten. Dieser Würfel liefert die Standardstruktur.
 
 ## Spalten (17 Datenpunkte)
 
@@ -26,10 +26,10 @@ Beim Onboarding eines neuen Lieferanten (oder beim Bestands-Audit der vorhandene
 
 ### IT und SLA
 
-8. Verschluesselung in Transit und at Rest
+8. Verschlüsselung in Transit und at Rest
 9. SLA-Reaktionszeit
-10. SLA-Verfuegbarkeit (Prozent / Jahr)
-11. Subunternehmer-Liste vollstaendig
+10. SLA-Verfügbarkeit (Prozent / Jahr)
+11. Subunternehmer-Liste vollständig
 
 ### Exit und Daten
 
@@ -39,7 +39,7 @@ Beim Onboarding eines neuen Lieferanten (oder beim Bestands-Audit der vorhandene
 ### Compliance
 
 14. Sanktionsliste gefiltert (EU US OFAC)
-15. GwG-Pruefung wirtschaftlich Berechtigter
+15. GwG-Prüfung wirtschaftlich Berechtigter
 16. Lieferketten-Risiko nach LkSG (Branchen und Region)
 
 ### Wirtschaft
@@ -51,42 +51,42 @@ Beim Onboarding eines neuen Lieferanten (oder beim Bestands-Audit der vorhandene
 ### Vertrag
 
 - Zusatzspalten: AGB-Wirksamkeit (BGB Paragraph 305 ff.) / Gerichtsstand / Vertragsstrafe
-- Pruefer: Vertragsanwalt
-- Materialitaet rot: Haftungsausschluss fuer Vorsatz / grobe Fahrlaessigkeit
+- Prüfer: Vertragsanwalt
+- Materialität rot: Haftungsausschluss für Vorsatz / grobe Fahrlaessigkeit
 
 ### Datenschutz
 
 - Zusatzspalten: TIA (Transfer Impact Assessment) / Datenschutz-Folgenabschaetzung-Pflicht / Joint-Controller
-- Pruefer: Datenschutzbeauftragter
-- Materialitaet rot: Auftragsverarbeitung ohne AVV; Drittlandtransfer ohne SCC + TIA
+- Prüfer: Datenschutzbeauftragter
+- Materialität rot: Auftragsverarbeitung ohne AVV; Drittlandtransfer ohne SCC + TIA
 
 ### IT-Sicherheit
 
 - Zusatzspalten: ISO-27001-Zertifikat / SOC-2-Bericht / Penetrationstest-Bericht / Vulnerability-Disclosure-Policy
-- Pruefer: CISO / IT-Sicherheit
-- Materialitaet rot: keine ISO-27001 UND keine SOC-2 UND Verarbeitung sensibler Daten
+- Prüfer: CISO / IT-Sicherheit
+- Materialität rot: keine ISO-27001 UND keine SOC-2 UND Verarbeitung sensibler Daten
 
 ### Compliance (GwG / LkSG)
 
 - Zusatzspalten: GwG-Transparenzregister / Sanktionslisten-Treffer / Risiko nach LkSG Paragraph 5 / Beschwerdeverfahren-Anbindung
-- Pruefer: Compliance-Officer
-- Materialitaet rot: Sanktionslisten-Treffer; LkSG-Hochrisiko-Region ohne Pruefkette
+- Prüfer: Compliance-Officer
+- Materialität rot: Sanktionslisten-Treffer; LkSG-Hochrisiko-Region ohne Pruefkette
 
 ### Wirtschaft
 
 - Zusatzspalten: Vendor-Volumen / Lock-in-Risiko / Wechselkosten / Konzentrations-Risiko
-- Pruefer: Einkauf / Risikomanagement
-- Materialitaet rot: Vendor-Lock-in ohne Exit-Daten-Standard UND mehr als 30 Prozent Anteil an kritischer Leistung
+- Prüfer: Einkauf / Risikomanagement
+- Materialität rot: Vendor-Lock-in ohne Exit-Daten-Standard UND mehr als 30 Prozent Anteil an kritischer Leistung
 
 ## Normenrahmen
 
 - **DSGVO** — Artikel 28 (Auftragsverarbeitung) Artikel 35 (DSFA) Artikel 44 ff. (Drittlandtransfer)
 - **BDSG** — Beschaeftigtendatenschutz
 - **GwG** — Paragraph 10 Sorgfaltspflichten Paragraph 20 Transparenzregister
-- **LkSG** — Paragraph 5 Risikoanalyse Paragraph 6 Praeventionsmassnahmen
+- **LkSG** — Paragraph 5 Risikoanalyse Paragraph 6 Praeventionsmaßnahmen
 - **BGB** — Paragraph 305 ff. AGB-Kontrolle
 - **TKG / NIS2** — bei TK-/Cyber-bezogenen Vendoren
 
 ## Ausgabe
 
-Wuerfel-Schema fix und fertig. Direkt einsatzbereit.
+Würfel-Schema fix und fertig. Direkt einsatzbereit.

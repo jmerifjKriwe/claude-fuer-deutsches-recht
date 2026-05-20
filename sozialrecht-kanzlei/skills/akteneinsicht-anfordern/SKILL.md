@@ -9,25 +9,25 @@ description: Erstellt einen Akteneinsichtsantrag nach § 25 SGB X (Verwaltungsve
 
 - **§ 25 SGB X** — Akteneinsicht im Verwaltungsverfahren. Anspruch der Beteiligten in die das Verfahren betreffenden Akten.
 - **§ 120 SGG** — Akteneinsicht im gerichtlichen Verfahren.
-- **Art. 15 DSGVO** — Auskunftsrecht in eigene personenbezogene Daten (ergaenzend).
+- **Art. 15 DSGVO** — Auskunftsrecht in eigene personenbezogene Daten (ergänzend).
 - **§ 83 SGB X** — Auskunft des Sozialleistungstraegers an Betroffene.
 
 ## Antragsschritte
 
 ### Vor dem Bescheid (während Verfahren)
 
-- § 25 SGB X: bei laufendem Verwaltungsverfahren. Akteneinsicht in die das Verfahren betreffenden Akten am Ort der Aktenfuehrung oder ueber Abschriften.
-- Bei medizinischen Gutachten in der Akte: ergaenzender Anspruch aus § 25 SGB X auf vollstaendige Einsicht.
+- § 25 SGB X: bei laufendem Verwaltungsverfahren. Akteneinsicht in die das Verfahren betreffenden Akten am Ort der Aktenfuehrung oder über Abschriften.
+- Bei medizinischen Gutachten in der Akte: ergänzender Anspruch aus § 25 SGB X auf vollständige Einsicht.
 
 ### Nach Widerspruch (im Vorverfahren)
 
-- Pflichtschritt vor Widerspruchsbegruendung. Ohne Akteneinsicht keine fundierte Widerspruchsbegruendung.
-- Vorlage der vollstaendigen Akte mit allen Gutachten Notizen Aktenvermerken Stellungnahmen.
+- Pflichtschritt vor Widerspruchsbegründung. Ohne Akteneinsicht keine fundierte Widerspruchsbegründung.
+- Vorlage der vollständigen Akte mit allen Gutachten Notizen Aktenvermerken Stellungnahmen.
 
 ### Im Klageverfahren
 
 - § 120 SGG: Antrag beim Sozialgericht auf Beiziehung der Verwaltungsakte und Akteneinsicht in die Gerichtsakte.
-- Beiziehung erfolgt regelmaessig von Amts wegen (§ 119 SGG iVm § 103 SGG Untersuchungsgrundsatz).
+- Beiziehung erfolgt regelmäßig von Amts wegen (§ 119 SGG iVm § 103 SGG Untersuchungsgrundsatz).
 
 ## Antragsmuster
 
@@ -39,25 +39,25 @@ gegen ...
 Az ...
 
 beantrage ich namens und im Auftrag des / der Klagepartei
-Akteneinsicht in die vollstaendige Verwaltungsakte gemaess § 25 SGB X
-(bzw. § 120 SGG iVm § 119 SGG) einschliesslich
+Akteneinsicht in die vollständige Verwaltungsakte gemäß § 25 SGB X
+(bzw. § 120 SGG iVm § 119 SGG) einschließlich
 - aller Aktenvermerke
 - saemtlicher medizinischer Gutachten und Stellungnahmen
-- aller Aktenbestandteile zu vorangegangenen Verfahren soweit sie fuer das streitige Verfahren bedeutsam sind.
+- aller Aktenbestandteile zu vorangegangenen Verfahren soweit sie für das streitige Verfahren bedeutsam sind.
 
-Versand der Akte digital ueber beA-Nachricht oder als Kopie an die Kanzleianschrift.
+Versand der Akte digital über beA-Nachricht oder als Kopie an die Kanzleianschrift.
 ```
 
 ## Verweigerung oder Schwaerzung
 
-- **Schutzwuerdige Belange Dritter** (§ 25 Abs. 3 SGB X) — Behoerde kann teilweise Akteneinsicht verweigern. Vertrauliche Behandlung von Drittinteressen.
+- **Schutzwuerdige Belange Dritter** (§ 25 Abs. 3 SGB X) — Behörde kann teilweise Akteneinsicht verweigern. Vertrauliche Behandlung von Drittinteressen.
 - **Geheimnisse von Privatpersonen** (§ 25 Abs. 2 SGB X) — soweit erforderlich Schwaerzung.
-- **Reaktion** bei umfangreicher Schwaerzung: Anforderung einer Begruendung; ggf. Verfahren ueber § 86b SGG bei Eilbeduerftigkeit.
+- **Reaktion** bei umfangreicher Schwaerzung: Anforderung einer Begründung; ggf. Verfahren über § 86b SGG bei Eilbeduerftigkeit.
 
 ## Frist
 
-- Behoerde soll unverzueglich Akteneinsicht gewaehren — keine gesetzliche Frist.
-- Im Klageverfahren: regelmaessig binnen weniger Wochen.
+- Behörde soll unverzueglich Akteneinsicht gewähren — keine gesetzliche Frist.
+- Im Klageverfahren: regelmäßig binnen weniger Wochen.
 
 ## Ausgabe
 

@@ -48,7 +48,7 @@ Aus dem Lernkorpus extrahieren (Zusammenfassung am Schluss dem Nutzer vorlegen):
 Aus den Hausregeln eine **generische Klage-Vorlage** schreiben:
 
 - Format: Markdown (Vorlage in `assets/vorlagen-leer/standardklage.md`) und parallel DOCX (über `office/docx`-Skill). Layout aus dem mitgelieferten Briefkopf, sonst Klotzkette-Default.
-- Platzhalter strikt in geschweiften Doppelklammern: `{{kanzlei.briefkopf}}`, `{{rubrum.klagepartei}}`, `{{rubrum.beklagte}}`, `{{rubrum.bevollmaechtigte}}`, `{{gericht.bezeichnung}}`, `{{gericht.adresse}}`, `{{gericht.bea_safe_id}}`, `{{streitwert.eur}}`, `{{antrag.hauptforderung}}`, `{{antrag.zinsen}}`, `{{antrag.kosten}}`, `{{sachverhalt}}`, `{{rechtliche_wuerdigung}}`, `{{anlagen.liste}}`, `{{ort_datum}}`, `{{unterschrift}}`.
+- Platzhalter strikt in geschweiften Doppelklammern: `{{kanzlei.briefkopf}}`, `{{rubrum.klagepartei}}`, `{{rubrum.beklagte}}`, `{{rubrum.bevollmaechtigte}}`, `{{gericht.bezeichnung}}`, `{{gericht.adresse}}`, `{{gericht.bea_safe_id}}`, `{{streitwert.eur}}`, `{{antrag.hauptforderung}}`, `{{antrag.zinsen}}`, `{{antrag.kosten}}`, `{{sachverhalt}}`, `{{rechtliche_würdigung}}`, `{{anlagen.liste}}`, `{{ort_datum}}`, `{{unterschrift}}`.
 - Standardabschnitte enthalten Hausregel-Bausteine.
 
 **Schritt 5 — Sachverhalt einsammeln**
@@ -91,7 +91,7 @@ Aus den Hausregeln und der Standardvorlage wird ein eigenes Plugin gepackt:
   - `klagewerkstatt-<slug>/.claude-plugin/plugin.json` (Name `klagewerkstatt-<slug>`, Version 0.1.0).
   - `klagewerkstatt-<slug>/skills/klage-erstellen/SKILL.md` (siehe Schwester-Skill `klage-aus-eigenem-skill` als Bauanleitung; im erzeugten Plugin lebt die Skill-Datei eigenständig).
   - `klagewerkstatt-<slug>/assets/vorlage/standardklage.md` und `.docx`.
-  - `klagewerkstatt-<slug>/references/hausregeln.json`, `belegmuster.md`, `anlagenliste.md`, `zustaendigkeit-quellen.md`.
+  - `klagewerkstatt-<slug>/references/hausregeln.json`, `belegmuster.md`, `anlagenliste.md`, `zuständigkeit-quellen.md`.
   - `klagewerkstatt-<slug>/README.md` mit Direkt-Download-Hinweis und Installationsanleitung.
 - ZIP-Dateiname `klagewerkstatt-<slug>.zip`. Datei dem Nutzer zum Download geben mit Installationsanweisung für Claude Code (`Customize Plugins → Install from .zip`).
 
@@ -154,6 +154,6 @@ Mindestens zwei BGH-Belege (jüngere zuerst) und zwei Kommentarbelege im Bearbei
 
 ## Übergabe
 
-- Bei drohender Zahlungsunfähigkeit der Beklagten an Liquiditätsplanung (`liquiditaetsplanung`) zur Schnellprüfung.
+- Bei drohender Zahlungsunfähigkeit der Beklagten an Liquiditätsplanung (`liquiditätsplanung`) zur Schnellprüfung.
 - Bei einstweiligem Rechtsschutz/Mahnverfahren an `prozessrecht` (Plugin) verweisen.
 - Wenn der Nutzer beim nächsten Mal nur den Sachverhalt einreichen will: Schwester-Skill `klage-aus-eigenem-skill` mit dem im Schritt 8 erzeugten Plugin verwenden.

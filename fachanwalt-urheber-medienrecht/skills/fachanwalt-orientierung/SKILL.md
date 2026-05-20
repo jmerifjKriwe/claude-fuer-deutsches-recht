@@ -3,18 +3,18 @@ name: fachanwalt-orientierung
 description: Orientierung im Urheber- und Medienrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. UrhG (Werke Verwertungsrechte Schranken) Verwertungsgesellschaften (GEMA VG Wort VG Bild-Kunst) KUG (Recht am eigenen Bild) Presse- und Persoenlichkeitsrecht §§ 823 1004 BGB iVm Art. 2 1 GG Rundfunk- und Medienstaatsvertrag. EU-Bezug Urheberrechtsrichtlinie 2001/29 DSM-Richtlinie 2019/790.
 ---
 
-# Fachanwalt fuer Urheber- und Medienrecht — Orientierung
+# Fachanwalt für Urheber- und Medienrecht — Orientierung
 
 ## FAO-Voraussetzungen
 
 - Lehrgang 120 Stunden + drei Klausuren.
-- 80 Faelle in den letzten drei Jahren, davon mindestens 40 streitige.
+- 80 Fälle in den letzten drei Jahren, davon mindestens 40 streitige.
 
 ## Wichtige Normen
 
 | Bereich | Norm |
 |---|---|
-| Urheberrecht | UrhG §§ 1 ff. (Schutz Werk) §§ 15 ff. (Verwertungsrechte) §§ 31 ff. (Nutzungsrechte) §§ 44a ff. (Schranken) §§ 51 ff. (Zitat) §§ 87a ff. (Datenbanken) §§ 95a ff. (Technische Schutzmassnahmen) |
+| Urheberrecht | UrhG §§ 1 ff. (Schutz Werk) §§ 15 ff. (Verwertungsrechte) §§ 31 ff. (Nutzungsrechte) §§ 44a ff. (Schranken) §§ 51 ff. (Zitat) §§ 87a ff. (Datenbanken) §§ 95a ff. (Technische Schutzmaßnahmen) |
 | Verwertungsgesellschaften | VGG |
 | Recht am eigenen Bild | §§ 22 23 KUG (KunsturhG) |
 | Persoenlichkeitsrecht | Art. 2 Abs. 1 GG iVm Art. 1 Abs. 1 GG §§ 823 1004 BGB |
@@ -26,32 +26,32 @@ description: Orientierung im Urheber- und Medienrecht — FAO Voraussetzungen No
 ## Typische Mandate
 
 - Urheberrechtsverletzung (Abmahnung Unterlassung Schadensersatz)
-- Verwertungsvertraege Lizenzierung
-- Verlagsvertraege (siehe verlagsredaktion)
+- Verwertungsverträge Lizenzierung
+- Verlagsverträge (siehe verlagsredaktion)
 - Pressefreiheit und Gegendarstellung
-- Recht am eigenen Bild bei Bildveroeffentlichung
-- Persoenlichkeitsrecht und Aeusserungsrecht
+- Recht am eigenen Bild bei Bildveröffentlichung
+- Persoenlichkeitsrecht und Äußerungsrecht
 - Onlineplattformhaftung DSA / NetzDG
 - Rundfunkrecht und Streaming
 
 ## Fristen
 
-- **Urheberrechtliche Anspruchsverjaehrung** drei Jahre (§ 195 BGB).
+- **Urheberrechtliche Anspruchsverjährung** drei Jahre (§ 195 BGB).
 - **Verwirkung** im Einzelfall.
-- **Strafrechtliche Verjaehrung Urheberrecht** §§ 106 ff. UrhG iVm StGB.
+- **Strafrechtliche Verjährung Urheberrecht** §§ 106 ff. UrhG iVm StGB.
 - **Pressrechtliche Gegendarstellung** zwei bis drei Wochen ab Kenntnis (Landespressegesetze).
-- **Eilrechtsschutz** einstweilige Verfuegung — zuegig nach Kenntnis (Verfuegungsgrund Eilbeduerfnis).
+- **Eilrechtsschutz** einstweilige Verfügung — zuegig nach Kenntnis (Verfügungsgrund Eilbeduerfnis).
 
 ## Hauptgerichte
 
-- Landgericht Zivilkammern fuer Urheberrechtssachen (oft konzentriert; § 105 UrhG).
+- Landgericht Zivilkammern für Urheberrechtssachen (oft konzentriert; § 105 UrhG).
 - OLG.
 - BGH I. Zivilsenat (Wettbewerbs- und Urheberrecht).
 - EuGH bei EU-rechtlichen Vorabentscheidungen.
 
 ## Standardliteratur
 
-- Schricker/Loewenheim, UrhG.
+- Schricker/Löwenheim, UrhG.
 - Wandtke/Bullinger, UrhR.
 - Dreier/Schulze, UrhG.
 - Fechner, Medienrecht.
@@ -64,6 +64,6 @@ description: Orientierung im Urheber- und Medienrecht — FAO Voraussetzungen No
 ## Schnittstellen
 
 - **gewerblicher-rechtsschutz** bei Markenrecht.
-- **verlagsredaktion** bei Verlagsvertraegen.
+- **verlagsredaktion** bei Verlagsverträgen.
 - **kanzlei-cowork** Fristen Versand.
 - **fachanwalt-it-recht** bei Onlineplattformen.

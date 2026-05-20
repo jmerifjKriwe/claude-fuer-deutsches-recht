@@ -53,9 +53,9 @@ Die Verständlichkeit von Mandantenkommunikation ist eine Rechtspflicht, keine S
 
 Für einfache Korrespondenz (Terminbestätigung, Unterlagenbitte, Eingangsbestätigung):
 ```
-/mandantenbrief terminbestaetigung
+/mandantenbrief terminbestätigung
 /mandantenbrief unterlagenbitte
-/mandantenbrief eingangsbestaetigung
+/mandantenbrief eingangsbestätigung
 ```
 
 Für inhaltliche Statusmitteilungen:
@@ -86,7 +86,7 @@ Dieser Befehl erstellt ein verständliches Statusschreiben (Zielgruppe: Mandant/
 
 Oder für Routine-Korrespondenz:
 ```
-/mandantenbrief terminbestaetigung
+/mandantenbrief terminbestätigung
 ```
 
 Ergebnis: Eine klare Terminbestätigung mit Ort, Zeit, Mitnahme-Unterlagen und Kontaktdaten — ohne juristische Formulierungen.

@@ -28,7 +28,7 @@ Dieser Skill verwaltet Mandat-Workspaces für Kanzleien mit mehreren Mandanten. 
 Abfragen:
 ```
 1. Mandant (intern: nur Kürzel, kein vollständiger Name in Logs)
-2. Mandat-Bezeichnung / Slug (z. B. bafin-pruefung-2025-mandantA)
+2. Mandat-Bezeichnung / Slug (z. B. bafin-prüfung-2025-mandantA)
 3. Art des Mandats:
    a) Gap-Analyse gegen Regulierungsakt
    b) Konsultationsbeitrag
@@ -73,7 +73,7 @@ Alle Mandate auflisten:
 Aktive Mandate:
 | Slug | Mandant | Art | Behörde | Leitfrist | Status |
 |---|---|---|---|---|---|
-| bafin-pruefung-2025-A | Mandant A | Gap-Analyse | BaFin | 31.12.2025 | aktiv |
+| bafin-prüfung-2025-A | Mandant A | Gap-Analyse | BaFin | 31.12.2025 | aktiv |
 ```
 
 ### Subkommando: `wechseln`
@@ -110,7 +110,7 @@ Relevante Berufsrechtsnormen:
 
 - Bestätigung der Aktion (angelegt / gewechselt / geschlossen)
 - Aktueller Workspace-Status
-- Nächster empfohlener Schritt (z. B. „Mandat aktiv – starten Sie mit `/regulatorisches-recht:luecken-aufzeiger`")
+- Nächster empfohlener Schritt (z. B. „Mandat aktiv – starten Sie mit `/regulatorisches-recht:lücken-aufzeiger`")
 
 ## Beispiel
 
@@ -131,7 +131,7 @@ Mandat angelegt unter:
 
 Aktives Mandat: MaRisk-GAP-2025-MandantA
 
-Nächster Schritt: /regulatorisches-recht:luecken-aufzeiger
+Nächster Schritt: /regulatorisches-recht:lücken-aufzeiger
 ```
 
 ## Risiken / typische Fehler

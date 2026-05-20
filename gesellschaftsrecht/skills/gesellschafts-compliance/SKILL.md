@@ -47,14 +47,14 @@ gesellschaften:
     status: "[aktiv / ruhend / in Auflösung]"
     groessenklasse: "[klein § 267 Abs. 1 HGB / mittelgroß § 267 Abs. 2 / groß § 267 Abs. 3]"
     geschaeftsjahr_ende: "[MM-DD, z. B. 12-31]"
-    abschlusspruefung_pflicht: "[ja / nein / unbekannt]"
+    abschlussprüfung_pflicht: "[ja / nein / unbekannt]"
     gesellschafter_liste_aktuell: "[Datum letzte Einreichung oder null]"
     notizen: ""
 
     pflichten:
       - typ: "[Jahresabschluss § 325 HGB / Gesellschafterliste § 40 GmbHG / Transparenzregister § 20 GwG / Handelsregisteranmeldung / sonstig]"
-        faellig: "[JJJJ-MM-TT]"
-        faelligkeits_grundlage: "[GJ-Ende + 12 Monate / unverzüglich nach Änderung / andere]"
+        fällig: "[JJJJ-MM-TT]"
+        fälligkeits_grundlage: "[GJ-Ende + 12 Monate / unverzüglich nach Änderung / andere]"
         zuletzt_eingereicht: "[Datum oder null]"
         status: "[aktuell / bald_fällig / überfällig / unbekannt]"
         notizen: ""

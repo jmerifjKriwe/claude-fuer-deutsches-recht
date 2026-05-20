@@ -16,7 +16,7 @@ Memo, das wirklich verwertbar ist.
 ## Inputs
 
 - Eingangskorrespondenz (Mieterschreiben Anwaltsschreiben Email)
-- Vorhandene Unterlagen (Vertrag Uebergabeprotokoll Mahnungen
+- Vorhandene Unterlagen (Vertrag Übergabeprotokoll Mahnungen
   Hausverwaltungsberichte)
 - Optional: interne Kommentare aus der Akte
 
@@ -25,15 +25,15 @@ Memo, das wirklich verwertbar ist.
 ### Stufe 1 — Extraktion aus Unterlagen
 
 Aus jedem vorhandenen Dokument werden Datum Akteure Ereignisse und
-behauptete Maengel extrahiert. Ergebnis ist eine erste rohe
+behauptete Mängel extrahiert. Ergebnis ist eine erste rohe
 Zeitleiste.
 
 ### Stufe 2 — Gezielter Fragenkatalog
 
-Der Skill erzeugt einen Fragenkatalog fuer Asset-Management bzw.
-Hausverwaltung. Fragen sind kurz, geschlossen wo moeglich, jeweils
-mit Begruendung warum die Frage relevant ist (zB "Wann erfolgte
-Mangelanzeige formell? Relevant fuer Beginn Minderungsrecht
+Der Skill erzeugt einen Fragenkatalog für Asset-Management bzw.
+Hausverwaltung. Fragen sind kurz, geschlossen wo möglich, jeweils
+mit Begründung warum die Frage relevant ist (zB "Wann erfolgte
+Mangelanzeige formell? Relevant für Beginn Minderungsrecht
 § 536 BGB").
 
 ### Stufe 3 — Zeitleisten-Rekonstruktion
@@ -41,7 +41,7 @@ Mangelanzeige formell? Relevant fuer Beginn Minderungsrecht
 Antworten werden in die Zeitleiste integriert. Konflikte zwischen
 Aussagen werden markiert.
 
-### Stufe 4 — Beweis und Luecken
+### Stufe 4 — Beweis und Lücken
 
 Pro Tatsachenbehauptung wird vermerkt: durch welches Beweismittel
 gesichert (Urkunde Zeuge Augenschein), bloss plausibel oder offen.
@@ -53,7 +53,7 @@ gesichert (Urkunde Zeuge Augenschein), bloss plausibel oder offen.
   - Plausible Annahmen mit Quelle
   - Offene Punkte mit Fragestellung
   - Zeitleiste in Tabellenform
-  - Beweisuebersicht
+  - Beweisübersicht
 - `Fragenkatalog_<Adressat>.docx` — versendungsfertig an
   Asset-Management oder Hausverwaltung
 
@@ -65,24 +65,24 @@ sonst das Vertrauen — und das ist der teuerste Verlust.
 
 ## Typische Fallkonstellationen
 
-- Mietmaengel — wann angezeigt, wann besichtigt, welcher Mietzins,
+- Mietmängel — wann angezeigt, wann besichtigt, welcher Mietzins,
   welche Minderungsquote behauptet
-- Kuendigung — Form, Zugang, Begruendung, Widerspruch nach
+- Kündigung — Form, Zugang, Begründung, Widerspruch nach
   § 574 BGB
 - Eigenbedarf — Bedarfsperson Verwandtschaftsgrad konkrete
   Nutzungsabsicht
 - Betriebskostenabrechnung — Abrechnungszeitraum Zugang § 556
   Abs. 3 BGB Frist Einwendungen
-- Schoenheitsreparaturen Endrenovierung — Vertragsklausel
-  Zeitpunkt der Vertragsbegruendung Renovierungszustand bei
+- Schönheitsreparaturen Endrenovierung — Vertragsklausel
+  Zeitpunkt der Vertragsbegründung Renovierungszustand bei
   Einzug
-- Bauschaeden — Erstanzeige Sachverstaendiger Beweissicherung
+- Bauschäden — Erstanzeige Sachverständiger Beweissicherung
 
 ## Beispielformulierungen
 
-- "Mieterschreiben mit Mietmaengelanzeige liegt vor. Erstelle
+- "Mieterschreiben mit Mietmängelanzeige liegt vor. Erstelle
   Sachverhalts-Memo und Fragenkatalog an Hausverwaltung."
-- "Kuendigungsstreit gegen Mieter Schmitt. Antworten der
+- "Kündigungsstreit gegen Mieter Schmitt. Antworten der
   Hausverwaltung anbei. Konsolidiere zum Memo."
 - "Ich habe nur eine halbe Akte. Welche Fragen muss ich stellen,
   bevor ich rechtlich pruefe?"

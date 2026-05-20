@@ -72,7 +72,7 @@ Manche Fragen sind auf der Oberfläche in Ordnung haben aber eine Wendung. Das M
 | „Können wir KI zu diesem Feature hinzufügen?" | Möglicherweise neuer Nutzungsfall nicht im Register; könnte KI-VO-Anforderungen auslösen – weiterleiten an `/ki-governance:anwendungsfall-triage` | „Was macht die KI – assistierend oder automatisiert? Auf wen wirkt sie?" |
 | „Das Modell entscheidet automatisch" | Automatisierte Entscheidungsfindung ohne menschliche Überprüfung ist in einigen Jurisdiktionen reguliert (Art. 22 DSGVO, KI-VO Art. 14) | „Wer ist betroffen? Gibt es einen Menschen in der Schleife? Wo sind die betroffenen Nutzer?" |
 | „Es ist KI-generierter Inhalt" | Ausgabe-IP und Offenlegungspflichten variieren nach Jurisdiktion und Anbieterbedingungen – vgl. KI-VO Art. 50 (Kennzeichnung), UrhG § 2 (Werkschutz) | „Was ist der Inhaltstyp? Behandeln die Anbieterbedingungen Ausgabe-Eigentümerschaft? Wer ist das Publikum?" |
-| „Wir führen nur ein Fine-Tuning auf unseren Daten durch" | Trainingsdatenrechte, Ausgabe-IP und Anbieterpflichten ändern sich alle – weiterleiten an `/ki-governance:ki-anbieter-pruefung` | „Was ist in den Trainingsdaten? Sind Kunden- oder Mitarbeiterdaten darunter?" |
+| „Wir führen nur ein Fine-Tuning auf unseren Daten durch" | Trainingsdatenrechte, Ausgabe-IP und Anbieterpflichten ändern sich alle – weiterleiten an `/ki-governance:ki-anbieter-prüfung` | „Was ist in den Trainingsdaten? Sind Kunden- oder Mitarbeiterdaten darunter?" |
 | „Können wir diesen Preis durchstreichen?" | § 11 PAngV: Streichpreise erfordern den niedrigsten Preis der letzten 30 Tage als Referenz; kein fiktiver UVP erlaubt | „Was war der tatsächliche Preis in den letzten 30 Tagen?" |
 | „Wir brauchen kein Impressum – wir sind noch klein" | §§ 5, 6 DDG gelten für jeden kommerziellen Online-Dienst unabhängig von Größe; § 16 DDG: Bußgeld bis 50.000 € | „Ist das ein kommerzieller Onlinedienst? Dann Impressumspflicht." |
 
@@ -127,8 +127,8 @@ I ZR 107/21)
 
 ## Wann dieser Skill NICHT verwendet werden sollte
 
-- Die Frage ist tatsächlich komplex (mehrere Fragen, neuer Bereich) → weiterleiten an launch-pruefung oder feature-risikobewertung
-- Die Frage ist „können Sie dieses PRD prüfen" → das ist launch-pruefung, nicht Triage
+- Die Frage ist tatsächlich komplex (mehrere Fragen, neuer Bereich) → weiterleiten an launch-prüfung oder feature-risikobewertung
+- Die Frage ist „können Sie dieses PRD prüfen" → das ist launch-prüfung, nicht Triage
 - Sie sind unsicher → sagen „ich bin unsicher, lassen Sie mich es ordentlich prüfen" – eine falsche schnelle Antwort ist schlimmer als eine langsame richtige
 
 ## Ton

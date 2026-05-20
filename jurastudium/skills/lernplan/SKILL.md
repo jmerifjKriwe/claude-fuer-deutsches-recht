@@ -94,7 +94,7 @@ Wenn ein Repetitorium genutzt wird (Alpmann, Hemmer, Jura Intensiv, Kaiser oder 
 >
 > Beide gleichzeitig zu verfolgen führt in Woche 4 zum Zusammenbruch."
 
-Antwort festhalten in YAML: `repetitorium_modus: ergaenzung | ersatz`
+Antwort festhalten in YAML: `repetitorium_modus: ergänzung | ersatz`
 
 ### Schritt 3: Plan aufbauen
 
@@ -125,15 +125,15 @@ Examensklassiker in jeder Phase (§§ 280 ff., 823 BGB; §§ 242, 263 StGB; Erme
 ```yaml
 plan_typ: erstes_staatsexamen   # oder referendariat / zweites_staatsexamen
 bundesland: NRW
-pruefungstermin: 2026-07-15
+prüfungstermin: 2026-07-15
 erstellt: 2026-05-08
 zuletzt_aktualisiert: 2026-05-08
-wochen_bis_pruefung: 10
+wochen_bis_prüfung: 10
 stunden_pro_woche: 30
 tage_pro_woche: 5
 modus: normal                    # oder cram
 repetitorium: hemmer
-repetitorium_modus: ergaenzung
+repetitorium_modus: ergänzung
 phasen:
   - name: grundlagen
     start: 2026-05-08
@@ -180,7 +180,7 @@ tagesplan:
       - rechtsgebiet: StGB AT
         methode: klausur
         dauer_min: 120
-sitzungs_verlauf: []             # wird von session, karteikarten, drill, gutachten-uebung ergänzt
+sitzungs_verlauf: []             # wird von session, karteikarten, drill, gutachten-übung ergänzt
 ```
 
 ### Schritt 5: Bestätigung

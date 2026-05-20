@@ -3,7 +3,7 @@ name: annullierung-oder-verspaetung-einordnen
 description: Ordnet das Stoerungsereignis rechtlich ein — Annullierung (Art. 5 VO 261/2004) Verspaetung (Art. 6 VO 261/2004 plus EuGH-Sturgeon-Rechtsprechung) Nichtbefoerderung wegen Overbooking (Art. 4 VO 261/2004) oder reine Umbuchung. Behandelt Sonderfaelle Flug am naechsten Tag mit gleicher Flugnummer Anschlussflug ohne Anschluss-Beifoerderung Ersatzflug. Erzeugt Subsumtionsergebnis mit Begruendung Verweis auf Normen und Rechtsprechung.
 ---
 
-# Annullierung Verspaetung oder Nichtbefoerderung einordnen
+# Annullierung Verspätung oder Nichtbefoerderung einordnen
 
 ## Drei Hauptkategorien
 
@@ -15,22 +15,22 @@ Der **geplante Flug findet nicht statt** — die Airline streicht ihn. Indikator
 - Kein Flug mit der konkreten **Flugnummer und Datum** ist abgehoben.
 - Passagiere werden auf einen anderen Flug umgebucht oder bekommen die Erstattung.
 
-**Auch Annullierung** auch wenn der Flug am **naechsten Tag mit gleicher Flugnummer** stattfindet (zwei Indizien fuer dieselbe Wertung):
+**Auch Annullierung** auch wenn der Flug am **nächsten Tag mit gleicher Flugnummer** stattfindet (zwei Indizien für dieselbe Wertung):
 
-- EuGH, Urt. v. 13.10.2011 — C-83/10 (Sousa Rodriguez): wenn ein Flug zu einem anderen Zeitpunkt durchgefuehrt wird und das nicht nur Verzoegerung ist sondern wesentliche Aenderung der urspruenglichen Flugplanung Annullierung. Der Wechsel des Reisedatums ist Indiz fuer Annullierung wenn der Passagier zu nicht akzeptablen Bedingungen umgebucht wird oder eine wesentlich anderes Flugzeugmuster eingesetzt wird oder die Verzoegerung ueblicherweise als Annullierung gewertet wird.
+- EuGH, Urt. v. 13.10.2011 — C-83/10 (Sousa Rodriguez): wenn ein Flug zu einem anderen Zeitpunkt durchgeführt wird und das nicht nur Verzoegerung ist sondern wesentliche Änderung der urspruenglichen Flugplanung Annullierung. Der Wechsel des Reisedatums ist Indiz für Annullierung wenn der Passagier zu nicht akzeptablen Bedingungen umgebucht wird oder eine wesentlich anderes Flugzeugmuster eingesetzt wird oder die Verzoegerung üblicherweise als Annullierung gewertet wird.
 
-### 2. Verspaetung (Art. 6 VO 261/2004 + EuGH Sturgeon)
+### 2. Verspätung (Art. 6 VO 261/2004 + EuGH Sturgeon)
 
 Der **geplante Flug findet statt**, aber:
 
-- **Mehr als zwei Stunden Verspaetung** bei kurzen Strecken oder **mehr als drei Stunden** bei langen Strecken bei Abflug = Betreuungsleistungen Art. 9 VO 261/2004 (Verpflegung Telefon Hotel etc.).
-- **Ab drei Stunden Ankunftsverspaetung am Endziel** = Ausgleichsanspruch wie bei Annullierung **EuGH, Urt. v. 19.11.2009 — C-402/07 und C-432/07 (Sturgeon/Boeck/Lepuschitz)**. Bestaetigt durch **EuGH, Urt. v. 23.10.2012 — C-581/10 und C-629/10 (Nelson Tui)**.
+- **Mehr als zwei Stunden Verspätung** bei kurzen Strecken oder **mehr als drei Stunden** bei langen Strecken bei Abflug = Betreuungsleistungen Art. 9 VO 261/2004 (Verpflegung Telefon Hotel etc.).
+- **Ab drei Stunden Ankunftsverspätung am Endziel** = Ausgleichsanspruch wie bei Annullierung **EuGH, Urt. v. 19.11.2009 — C-402/07 und C-432/07 (Sturgeon/Boeck/Lepuschitz)**. Bestätigt durch **EuGH, Urt. v. 23.10.2012 — C-581/10 und C-629/10 (Nelson Tui)**.
 
-**Wichtig**: Massgeblich ist die **Ankunftsverspaetung am Endziel** — nicht die Abflugverspaetung.
+**Wichtig**: Maßgeblich ist die **Ankunftsverspätung am Endziel** — nicht die Abflugverspätung.
 
 ### 3. Nichtbefoerderung (Art. 4 VO 261/2004)
 
-- Klassisch **Overbooking** — die Airline bucht mehr Plaetze als verfuegbar.
+- Klassisch **Overbooking** — die Airline bucht mehr Plätze als verfügbar.
 - Die Airline verweigert die Befoerderung gegen den Willen des Passagiers.
 - Voraussetzung: rechtzeitiges Erscheinen am Check-in (in der Regel 45 Minuten vor Abflug).
 - Folge: Ausgleichsanspruch wie bei Annullierung + Wahl Erstattung oder anderweitige Befoerderung.
@@ -40,19 +40,19 @@ Der **geplante Flug findet statt**, aber:
 - Sicherheitsbedenken.
 - Fluguntauglichkeit (medizinisch).
 
-## Sonderfaelle
+## Sonderfälle
 
 ### Anschlussflug ohne Anschluss
 
-Wenn der **erste Flug innerhalb der EU mit derselben Buchung** verspaetet ist und der **Anschlussflug verpasst** wird:
+Wenn der **erste Flug innerhalb der EU mit derselben Buchung** verspätet ist und der **Anschlussflug verpasst** wird:
 
-- EuGH, Urt. v. 26.02.2013 — C-11/11 (Folkerts): massgeblich ist die **Ankunftsverspaetung am Endziel der Reise** — nicht am Anschlussflughafen.
-- Anspruch besteht auch wenn der erste Flug innerhalb der drei-Stunden-Schwelle landete, der Anschlussflug aber verpasst wurde und Endziel mit mehr als drei Stunden Verspaetung erreicht wird.
+- EuGH, Urt. v. 26.02.2013 — C-11/11 (Folkerts): maßgeblich ist die **Ankunftsverspätung am Endziel der Reise** — nicht am Anschlussflughafen.
+- Anspruch besteht auch wenn der erste Flug innerhalb der drei-Stunden-Schwelle landete, der Anschlussflug aber verpasst wurde und Endziel mit mehr als drei Stunden Verspätung erreicht wird.
 
-### Ersatzflug am naechsten Tag
+### Ersatzflug am nächsten Tag
 
-- **Annullierung** wenn Ersatzflug eine andere Flugnummer hat oder gravierende Aenderungen aufweist.
-- **Verspaetung** wenn derselbe Flug nur verschoben und die Identitaet bewahrt ist (z. B. gleiches Flugzeug gleiche Crew gleiche Strecke).
+- **Annullierung** wenn Ersatzflug eine andere Flugnummer hat oder gravierende Änderungen aufweist.
+- **Verspätung** wenn derselbe Flug nur verschoben und die Identität bewahrt ist (z. B. gleiches Flugzeug gleiche Crew gleiche Strecke).
 - **EuGH C-83/10 (Sousa Rodriguez)** und folgende — Indizienbeurteilung.
 
 ### Vorverlegung des Flugs
@@ -61,38 +61,38 @@ Wenn der **erste Flug innerhalb der EU mit derselben Buchung** verspaetet ist un
 
 ### Umbuchung auf anderen Flug ohne Zustimmung des Passagiers
 
-- Falls die Airline den Passagier auf einen anderen Flug umbucht (Codeshare anderen Tag andere Stadt): pruefen ob das wesentliche Aenderung ist und damit als Annullierung gewertet wird.
+- Falls die Airline den Passagier auf einen anderen Flug umbucht (Codeshare anderen Tag andere Stadt): prüfen ob das wesentliche Änderung ist und damit als Annullierung gewertet wird.
 
-## Pruefraster
+## Prüfraster
 
 ```
 1. Hat der geplante Flug exakt wie geplant stattgefunden?
-   - Ja → keine Annullierung; Verspaetung pruefen (Schritt 2)
+   - Ja → keine Annullierung; Verspätung prüfen (Schritt 2)
    - Nein → Schritt 3
 
-2. Welche Ankunftsverspaetung am Endziel?
+2. Welche Ankunftsverspätung am Endziel?
    - 0 bis unter 3 Stunden → keinen Ausgleichsanspruch nach VO 261;
-     Betreuungsleistungen Art. 9 ggf. bei Abflugverspaetung
+     Betreuungsleistungen Art. 9 ggf. bei Abflugverspätung
    - 3 Stunden oder mehr → Ausgleichsanspruch wie bei Annullierung
      (EuGH Sturgeon)
 
-3. Wie wurde der Flug geaendert?
+3. Wie wurde der Flug geändert?
    - komplett ausgefallen → Annullierung
-   - durchgefuehrt aber gravierend abweichend (Datum Flugnummer
+   - durchgeführt aber gravierend abweichend (Datum Flugnummer
      Zeitpunkt mehr als drei Stunden) → Annullierung
-   - durchgefuehrt mit geringerer Verspaetung → Verspaetung pruefen
-   - Passagier wurde am Gate abgewiesen trotz gueltigem Ticket
+   - durchgeführt mit geringerer Verspätung → Verspätung prüfen
+   - Passagier wurde am Gate abgewiesen trotz gültigem Ticket
      → Nichtbefoerderung
 
-4. Stehen aussergewoehnliche Umstaende entgegen?
-   → Skill `ausnahmen-aussergewoehnliche-umstaende-pruefen`
+4. Stehen außergewöhnliche Umstaende entgegen?
+   → Skill `ausnahmen-außergewöhnliche-umstaende-prüfen`
 ```
 
 ## Ausgabe
 
 - `einordnung.md` mit:
-  - rechtlicher Kategorie (Annullierung / Verspaetung / Nichtbefoerderung)
-  - Begruendung mit Verweis auf Norm und EuGH-Rechtsprechung
-  - Hoehe der voraussichtlichen Ausgleichszahlung (verweist auf Skill `distanz-und-ausgleich-berechnen`)
+  - rechtlicher Kategorie (Annullierung / Verspätung / Nichtbefoerderung)
+  - Begründung mit Verweis auf Norm und EuGH-Rechtsprechung
+  - Höhe der voraussichtlichen Ausgleichszahlung (verweist auf Skill `distanz-und-ausgleich-berechnen`)
   - offenen Fragen zur Klaerung mit dem Mandanten
-- Hinweis auf Skill `ausnahmen-aussergewoehnliche-umstaende-pruefen` zur Pruefung der Ausnahmen.
+- Hinweis auf Skill `ausnahmen-außergewöhnliche-umstaende-prüfen` zur Prüfung der Ausnahmen.

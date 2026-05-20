@@ -15,21 +15,21 @@ Semantische Versions-ID pro Prompt: `<spalte-id>@<major>.<minor>.<patch>`
 
 ### Patch (`x.y.Z+1`)
 
-- Wortlautfeinheiten ohne Sinnaenderung (Tippfehler / Stilkorrektur / Beispiel ergaenzt)
+- Wortlautfeinheiten ohne Sinnänderung (Tippfehler / Stilkorrektur / Beispiel ergänzt)
 - Vorhandene Zellen NICHT invalidiert
 - Empfehlung: bestehende Zellen behalten
 
 ### Minor (`x.Y+1.0`)
 
-- Antworttyp geaendert (z. B. Freitext zu Ja-Nein)
-- Ampelregel geaendert (Schwelle verschoben)
-- Antwortdimension hinzugefuegt (z. B. zusaetzlich Schwelle in EUR abfragen)
-- Vorhandene Zellen werden auf `nachpruefen` gesetzt
+- Antworttyp geändert (z. B. Freitext zu Ja-Nein)
+- Ampelregel geändert (Schwelle verschoben)
+- Antwortdimension hinzugefügt (z. B. zusätzlich Schwelle in EUR abfragen)
+- Vorhandene Zellen werden auf `nachprüfen` gesetzt
 - Empfehlung: betroffene Spalten erneut laufen lassen (Teil-Rerun)
 
 ### Major (`X+1.0.0`)
 
-- Pruefdimension geaendert (z. B. Spalte 'AGB-Wirksamkeit' splittet zu 'Wirksam' und 'Anwendbares-AGB-Regime')
+- Pruefdimension geändert (z. B. Spalte 'AGB-Wirksamkeit' splittet zu 'Wirksam' und 'Anwendbares-AGB-Regime')
 - Spalte umbenannt oder zusammengelegt
 - Vorhandene Zellen werden invalidiert
 - Empfehlung: betroffene Zellen komplett neu berechnen
@@ -37,8 +37,8 @@ Semantische Versions-ID pro Prompt: `<spalte-id>@<major>.<minor>.<patch>`
 ## Aktivierung und Deaktivierung
 
 - Nur eine Version pro Spalte ist gleichzeitig aktiv (`aktive-prompts.yaml`)
-- Alte Versionen liegen im `prompt-historie.yaml` mit `gueltig-bis`-Datum
-- Wer den aktiven Prompt aendert traegt zwingend den Migrationspfad fuer bestehende Zellen ein
+- Alte Versionen liegen im `prompt-historie.yaml` mit `gültig-bis`-Datum
+- Wer den aktiven Prompt ändert traegt zwingend den Migrationspfad für bestehende Zellen ein
 
 ## Pflichtfelder pro Prompt-Version
 
@@ -46,21 +46,21 @@ Semantische Versions-ID pro Prompt: `<spalte-id>@<major>.<minor>.<patch>`
 - spalte-id: change-of-control
   version: "2.1.0"
   wortlaut: |
-    Enthaelt der Vertrag eine Klausel die bei Kontrollwechsel ...
+    Enthält der Vertrag eine Klausel die bei Kontrollwechsel ...
   antworttyp: zitat-mit-fundstelle-und-schwelle
   ampel-regel:
-    rot: "Klausel vorhanden + harte Kuendigungsfolge ohne Heilung"
+    rot: "Klausel vorhanden + harte Kündigungsfolge ohne Heilung"
     gelb: "Zustimmungsvorbehalt mit unklarer Schwelle"
-    gruen: "Keine Klausel oder branchenuebliche Schwelle"
-  geaendert-am: "2026-05-20"
-  geaendert-von: "anwalt-x"
-  migrationspfad: "Patch-Aenderung — bestehende Zellen behalten gueltig."
+    gruen: "Keine Klausel oder branchenübliche Schwelle"
+  geändert-am: "2026-05-20"
+  geändert-von: "anwalt-x"
+  migrationspfad: "Patch-Änderung — bestehende Zellen behalten gültig."
 ```
 
 ## Integration mit Audit-Trail
 
-Jede Prompt-Aenderung erzeugt einen `prompt.geaendert` Eintrag im `audit-trail-protokoll` mit Versionsnummer und Begruendung.
+Jede Prompt-Änderung erzeugt einen `prompt.geändert` Eintrag im `audit-trail-protokoll` mit Versionsnummer und Begründung.
 
 ## Grenzen
 
-Versionierung verhindert keine schlechten Prompts — sie macht sie nur sichtbar. Der Pruefer entscheidet ob Migration noetig ist.
+Versionierung verhindert keine schlechten Prompts — sie macht sie nur sichtbar. Der Prüfer entscheidet ob Migration noetig ist.

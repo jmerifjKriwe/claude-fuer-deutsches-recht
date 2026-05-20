@@ -153,10 +153,10 @@ Ergebnisse in dieser Form melden:
 - Wo sind die Nutzer – DE-only, DE + EU, global?
 - Welche Märkte treiben unverhältnismäßig viel Risikoabwägung an?
 
-**Risikoappetit:** *(speist `/launch-pruefung` und `/ist-das-ein-problem`)*
+**Risikoappetit:** *(speist `/launch-prüfung` und `/ist-das-ein-problem`)*
 - Auf einer „konservativ / mittel / aggressiv"-Skala, wo steht die Unternehmensleitung bei Produktlaunch-Risiken? Kategoriespezifische Abweichungen?
 
-**Was hält Sie nachts wach?** *(speist `/launch-pruefung`)*
+**Was hält Sie nachts wach?** *(speist `/launch-prüfung`)*
 - Wenn bei einem Produktlaunch etwas schiefläuft, was ist der realistisch schlimmste Fall?
 - Was fragt der GC in jedem Launch-Review?
 
@@ -172,7 +172,7 @@ Vor den strukturierten Fragen: „Haben Sie ein bestehendes Launch-Review-Framew
 - Wissen PMs Sie einzubeziehen, oder erfahren Sie es aus dem Launch-Kalender?
 - Wie viel Vorlaufzeit bekommen Sie normalerweise?
 
-**Was ist Ihr Framework?** *(speist `/launch-pruefung`)*
+**Was ist Ihr Framework?** *(speist `/launch-prüfung`)*
 - Haben Sie Kategorien die Sie bei jedem Launch prüfen? (Werberecht, Datenschutz, AGB, Produktsicherheit, Geistiges Eigentum, Verbraucherrechte, Aufsichtsrecht)
 - Formale Freigabe, oder beratend?
 - Was ist die Ausgabe – ein Memo, ein Ticket-Kommentar, ein Slack-Thread?
@@ -184,7 +184,7 @@ Vor den strukturierten Fragen: „Haben Sie ein bestehendes Launch-Review-Framew
 
 ### Teil 3: Werbeaussagen (1–2 Min)
 
-*(speist `/werbeaussagen-pruefung` – Substanziierungsstandard und vergleichende Werbehaltung)*
+*(speist `/werbeaussagen-prüfung` – Substanziierungsstandard und vergleichende Werbehaltung)*
 
 - Wer prüft Marketing-Copy – Sie, oder eine separate Marketing-Rechts-Funktion?
 - Vergleichende Werbung nach § 6 UWG („schneller als X") – erlaubt, abgeraten, verboten?
@@ -285,7 +285,7 @@ Vor den strukturierten Fragen: „Haben Sie ein bestehendes Launch-Review-Framew
 *Bei jedem Launch geprüfte Kategorien (aus Seed-Docs + Interview):*
 
 1. **[Kategorie]** – [was geprüft wird, was Eskalation auslöst]
-[etc. – ihre Kategorien wenn vorhanden; Sieben-Kategorien-Framework aus `references/launch-pruefung-framework-de.md` anbieten wenn nicht]
+[etc. – ihre Kategorien wenn vorhanden; Sieben-Kategorien-Framework aus `references/launch-prüfung-framework-de.md` anbieten wenn nicht]
 
 ---
 
@@ -361,9 +361,9 @@ Wenn ja, diese maßgeschneiderte Liste zeigen:
 
 > **Hier ist womit ich im Produktrecht gut bin:**
 >
-> - **Rechtlicher Review eines Produktlaunchs** – z. B. „PRD rein, Review-Memo raus gegen Ihr Review-Framework und Ihre Risikokalibrierung." Probieren: `/produktrecht:launch-pruefung`
+> - **Rechtlicher Review eines Produktlaunchs** – z. B. „PRD rein, Review-Memo raus gegen Ihr Review-Framework und Ihre Risikokalibrierung." Probieren: `/produktrecht:launch-prüfung`
 > - **Schnelle Triage einer Slack-Frage** – z. B. „'Hey Legal, kurze Frage' bekommt ein Gleich-Minuten in-Ordnung / braucht-einen-Blick / Stop." Probieren: `/produktrecht:ist-das-ein-problem`
-> - **Werbeaussagen-Prüfung** – z. B. „Copy auf Aussagen prüfen die Substanziierung brauchen, Vergleiche nach § 6 UWG, Superlative, Versprechen die das Produkt nicht halten kann." Probieren: `/produktrecht:werbeaussagen-pruefung`
+> - **Werbeaussagen-Prüfung** – z. B. „Copy auf Aussagen prüfen die Substanziierung brauchen, Vergleiche nach § 6 UWG, Superlative, Versprechen die das Produkt nicht halten kann." Probieren: `/produktrecht:werbeaussagen-prüfung`
 > - **Impressum-Pflicht-Check** – z. B. „Impressum auf Vollständigkeit nach §§ 5, 6 DDG prüfen." Probieren: `/produktrecht:impressum-pflicht`
 > - **Preisangaben-Check** – z. B. „Preisdarstellung auf PAngV-Konformität prüfen, insb. Streichpreise und Grundpreise." Probieren: `/produktrecht:preisangaben`
 

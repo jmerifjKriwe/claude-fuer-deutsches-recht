@@ -139,14 +139,14 @@ C. Begründetheit
 Die Verfassungsbeschwerde ist begründet. [Angegriffener Akt] verletzt den Beschwerdeführer in seinem Grundrecht aus Art. ___ GG.
 
 I. Schutzbereich
-[Aufruf Skill grundrechtspruefung]
+[Aufruf Skill grundrechtsprüfung]
 
 II. Eingriff
 
 III. Verfassungsrechtliche Rechtfertigung
    1. Schranke
    2. Verhältnismäßigkeit
-      [Aufruf Skill verhaeltnismaessigkeit]
+      [Aufruf Skill verhältnismäßigkeit]
    3. Sonstige Schranken-Schranken
 
 IV. Spezifische verfassungsrechtliche Verstöße

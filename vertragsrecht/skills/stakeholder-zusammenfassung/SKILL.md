@@ -17,7 +17,7 @@ eine Person außerhalb der Rechtsabteilung weitergegeben werden soll.
 
 ## Eingaben
 
-- Das fertige Prüfungsmemo (aus `/vertragsrecht:vertragspruefung`)
+- Das fertige Prüfungsmemo (aus `/vertragsrecht:vertragsprüfung`)
 - Optional: Empfänger (Geschäftsführung, Vorstand, Einkauf, Finance, IT)
 - Optional: Kanal (E-Mail, Slack, Jour fixe)
 
@@ -242,7 +242,7 @@ Eskalationsstatus: kein Eskalationsbedarf nach Playbook-Prüfung.
 ## Risiken und typische Fehler
 
 - **Fristen-Tracker-Eintragung behaupten ohne Prüfung.** Nur dann schreiben
-  „im Fristen-Tracker eingetragen", wenn `/vertragsrecht:vertragsverlaengerungs-monitor`
+  „im Fristen-Tracker eingetragen", wenn `/vertragsrecht:vertragsverlängerungs-monitor`
   tatsächlich für diesen Vertrag ausgeführt wurde. Andernfalls:
   „noch nicht eingetragen — bitte als Handlungspunkt aufnehmen."
 - **Klauseln trunkieren.** Bedingte Klauseln vollständig paraphrasieren —

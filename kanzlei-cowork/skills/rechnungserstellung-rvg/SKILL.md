@@ -7,22 +7,22 @@ description: Erstellt Honorarrechnungen nach RVG (Anlage 1 VV RVG Anlage 2 RVG G
 
 ## Rechtsgrundlagen
 
-- **RVG** Rechtsanwaltsverguetungsgesetz — § 10 Berechnung der Verguetung; Anlage 1 (RVG-VV) Verguetungstabelle.
+- **RVG** Rechtsanwaltsvergütungsgesetz — § 10 Berechnung der Vergütung; Anlage 1 (RVG-VV) Vergütungstabelle.
 - **Anlage 2 RVG** Gebuehrentabelle (Streitwert).
-- **Honorarvereinbarung** § 3a RVG — schriftlich Mindestbetraege Beduerftigkeitspruefung.
+- **Honorarvereinbarung** § 3a RVG — schriftlich Mindestbetraege Beduerftigkeitsprüfung.
 
 ## Pflichtangaben § 10 RVG
 
 1. **Rechnungssteller** (Anwalt mit Anschrift Steuernummer USt-IDNr).
-2. **Empfaenger** (Mandant Anschrift).
+2. **Empfänger** (Mandant Anschrift).
 3. **Rechnungsdatum** und **Rechnungsnummer** (laufend einmalig).
 4. **Aktenzeichen** der Kanzlei.
-5. **Gegenstand der Taetigkeit** kurz beschrieben.
-6. **Verguetungstatbestaende** mit RVG-VV-Nummer und Gebuehrensatz.
+5. **Gegenstand der Tätigkeit** kurz beschrieben.
+6. **Vergütungstatbestaende** mit RVG-VV-Nummer und Gebuehrensatz.
 7. **Streitwert / Gegenstandswert** (bei RVG-Abrechnung).
-8. **Stundensaetze und Stundenzahl** (bei Honorarvereinbarung).
+8. **Stundensätze und Stundenzahl** (bei Honorarvereinbarung).
 9. **Auslagen** (Telekommunikationspauschale Nr. 7002 VV RVG; Kopier- und Versandkosten Nr. 7000 7001; Reisekosten Tagegeld Abwesenheitsgeld Nr. 7003 ff.).
-10. **Umsatzsteuer** (regelmaessig 19 %).
+10. **Umsatzsteuer** (regelmäßig 19 %).
 11. **Gesamtbetrag** und Zahlungsweg.
 12. **Belehrung** auf Akteneinsichtsrecht des Mandanten (§ 50 BRAO).
 
@@ -32,7 +32,7 @@ description: Erstellt Honorarrechnungen nach RVG (Anlage 1 VV RVG Anlage 2 RVG G
 
 | Gebuehr | RVG-VV-Nr. | Anlass |
 |---|---|---|
-| Geschaeftsgebuehr | 2300 | Aussergerichtliche Vertretung |
+| Geschäftsgebuehr | 2300 | Außergerichtliche Vertretung |
 | Anrechnung 0,65 | Vorbem. 3 Abs. 4 | Anrechnung auf Verfahrensgebuehr |
 | Verfahrensgebuehr | 3100 | Klage Klageerwiderung 1. Instanz |
 | Terminsgebuehr | 3104 | Gerichtstermin |
@@ -46,15 +46,15 @@ description: Erstellt Honorarrechnungen nach RVG (Anlage 1 VV RVG Anlage 2 RVG G
 
 ### Gebuehrentabelle
 
-Anlage 2 RVG — Tabelle nach Streitwerten. Bei Streitwerterhoehung waehrend Verfahrens Nachforderung moeglich.
+Anlage 2 RVG — Tabelle nach Streitwerten. Bei Streitwerterhöhung waehrend Verfahrens Nachforderung möglich.
 
 ## Honorarvereinbarung (§ 3a RVG)
 
 - **Schriftform** zwingend.
-- **Hoehere Verguetung als RVG** zulaessig wenn Vereinbarung wirksam.
-- **Niedrigere Verguetung** als RVG nicht zulaessig (§ 4 RVG) ausser bei aussergerichtlicher Beratung.
+- **Höhere Vergütung als RVG** zulässig wenn Vereinbarung wirksam.
+- **Niedrigere Vergütung** als RVG nicht zulässig (§ 4 RVG) ausser bei außergerichtlicher Beratung.
 - **Stundensatz** und Schaetzgesamtbetrag empfehlenswert.
-- **Pflicht** zur Information ueber Belegung der Stunden gegenueber Mandant.
+- **Pflicht** zur Information über Belegung der Stunden gegenüber Mandant.
 
 ## Auslagen
 
@@ -79,7 +79,7 @@ Anschrift Steuernummer USt-IDNr
 Rechnung Nr. 2026/00123
 Rechnungsdatum: 20.05.2026
 
-Empfaenger: Mueller GmbH ...
+Empfänger: Mueller GmbH ...
 Aktenzeichen: 2026/0042
 Gegenstand: Zivilrechtliche Vertretung im Verfahren gegen ABC GmbH
 
@@ -97,10 +97,10 @@ Umsatzsteuer 19 %                                       487 EUR
 --------------------------------------------------------------
 Gesamtbetrag brutto                                   3.050 EUR
 
-Zahlungsweg: Ueberweisung auf das Konto IBAN DE...
-Faellig binnen vierzehn Tagen nach Rechnungsdatum.
+Zahlungsweg: Überweisung auf das Konto IBAN DE...
+Fällig binnen vierzehn Tagen nach Rechnungsdatum.
 
-Hinweis nach § 50 BRAO: Sie koennen Akteneinsicht verlangen.
+Hinweis nach § 50 BRAO: Sie können Akteneinsicht verlangen.
 ```
 
 ## Ausgabe

@@ -16,7 +16,7 @@ keine eigenen Klauseln in tragenden Punkten.
 
 - Mustervertrag (.docx) der Kanzlei oder Rechtsabteilung
 - Term Sheet oder Eckpunktepapier (.docx, .md, .pdf, freier Text)
-- Optional: vorhandene Vorgaengervertraege zur Stilreferenz
+- Optional: vorhandene Vorgängerverträge zur Stilreferenz
 - Optional: Anlagenliste (Lageplan, Baubeschreibung, Hausordnung,
   Betriebskostenaufstellung)
 
@@ -25,16 +25,16 @@ keine eigenen Klauseln in tragenden Punkten.
 Jede Klausel im Muster, die NICHT als Platzhalter markiert ist, ist tabu.
 Markierungen die der Skill respektiert:
 
-- `[[...]]` doppelte eckige Klammern fuer freie Eingaben
-- `{{...}}` doppelte geschweifte Klammern fuer typisierte Variablen
-- `__________` Unterstrich-Strecken fuer Daten und Betraege
+- `[[...]]` doppelte eckige Klammern für freie Eingaben
+- `{{...}}` doppelte geschweifte Klammern für typisierte Variablen
+- `__________` Unterstrich-Strecken für Daten und Betraege
 - Gelb hinterlegte Felder im Word-Dokument
 - Kommentare am Rand mit Praefix `KI:`
 
 Findet die KI an einer NICHT-markierten Stelle einen logischen Widerspruch
 zum Term Sheet (zB Term Sheet sagt befristet, Muster ist unbefristet),
-DARF sie die Klausel nicht selbst aendern. Sie protokolliert den Konflikt
-und gibt das Dokument unveraendert zurueck mit Hinweis.
+DARF sie die Klausel nicht selbst ändern. Sie protokolliert den Konflikt
+und gibt das Dokument unverändert zurück mit Hinweis.
 
 ## Methodik
 
@@ -43,28 +43,28 @@ und gibt das Dokument unveraendert zurueck mit Hinweis.
    Sondervereinbarungen
 3. Mapping Term-Sheet-Position auf Musterplatzhalter erstellen
 4. Platzhalter befuellen, Querverweise (§-Verweise, Anlagen) anpassen
-5. Konsistenzpruefung: Daten, Betraege ohne Komma in der Beschreibung,
+5. Konsistenzprüfung: Daten, Betraege ohne Komma in der Beschreibung,
    Parteiennennungen, Pluralformen
-6. Aenderungsprotokoll erzeugen — welche Platzhalter befuellt, welche offen,
+6. Änderungsprotokoll erzeugen — welche Platzhalter befuellt, welche offen,
    welche Konflikte
-7. Roter Block oben im Dokument: was zwingend manuell zu pruefen ist
+7. Roter Block oben im Dokument: was zwingend manuell zu prüfen ist
 
 ## Output
 
 - `Vertrag_<Objekt>_<Datum>.docx` auf Muster-Layout, Platzhalter befuellt
-- `Aenderungsprotokoll.md` mit Tabelle Platzhalter — Wert — Quelle im Term Sheet
-- `Manuelle_Pruefung.md` mit Liste der Punkte die nur ein Jurist
+- `Änderungsprotokoll.md` mit Tabelle Platzhalter — Wert — Quelle im Term Sheet
+- `Manuelle_Prüfung.md` mit Liste der Punkte die nur ein Jurist
   entscheiden kann (zB GenehmigungspflichtigerVerkauf §§ 1365 BGB,
   Vorkaufsrechte §§ 24 ff. BauGB, Denkmalschutz, Erbbauzins-Anpassung)
 
-## Typische manuelle Pruefpunkte bei Immobilienvertraegen
+## Typische manuelle Pruefpunkte bei Immobilienverträgen
 
 - Vorkaufsrechte der Gemeinde §§ 24 ff. BauGB
-- Genehmigung nach § 1365 BGB bei Verfuegung ueber das Vermoegen im Ganzen
+- Genehmigung nach § 1365 BGB bei Verfügung über das Vermögen im Ganzen
 - Grundstuecksverkehrsgenehmigung GrdstVG
 - Sanierungsvermerk § 144 BauGB, Erhaltungssatzung § 172 BauGB
 - Wohnungseigentumsumwandlung § 250 BauGB (Genehmigungspflicht)
-- WEG-Beschluesse als Anlage (Beschlussfaehigkeit, Anfechtungsfristen)
+- WEG-Beschlüsse als Anlage (Beschlussfähigkeit, Anfechtungsfristen)
 - Erbbauzins-Anpassungsklauseln und Heimfallrecht
 - Mietpreisbremse §§ 556d ff. BGB, qualifizierter Mietspiegel
 - Schriftform Gewerbemietvertrag § 550 BGB (Heilung schwierig)
@@ -76,6 +76,6 @@ und gibt das Dokument unveraendert zurueck mit Hinweis.
 - "Erstelle aus Mustervertrag Gewerbemiete und beigefuegtem Term Sheet
   einen Entwurf. Achte auf Schriftform § 550 BGB."
 - "Befuelle den Wohnraummietvertrag-Muster mit den Eckpunkten aus dem
-  Eckpunktepapier. Pruefe ob Mietpreisbremse greift und markiere."
+  Eckpunktepapier. Prüfe ob Mietpreisbremse greift und markiere."
 - "Erstelle WEG-Verwaltervertrag aus Muster, Term Sheet anbei,
   Bestellungsbeschluss als Anlage einfuegen."

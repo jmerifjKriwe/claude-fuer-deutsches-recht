@@ -3,7 +3,7 @@ name: rechtsstand-pruefen
 description: "Prueft Rechtsstand eines Patents oder einer Anmeldung im jeweiligen Amts-Register. DPMAregister fuer DE-Schutzrechte EPO Register fuer EP-Schutzrechte USPTO PAIR PEDS fuer US-Patente nationale Register fuer JP CN KR. Liefert Anmeldetag Veroeffentlichungstag Erteilungstag Schutzdauer-Ende Status (anhaengig erteilt zurueckgenommen zurueckgewiesen erloschen nichtig), Einspruchsverfahren laufend abgeschlossen, Nichtigkeitsverfahren laufend abgeschlossen, Jahresgebuehren bezahlt offen, Validierungsstaaten bei EP-Patenten, SPC fuer Arzneimittel und Pflanzenschutzmittel. Quellen werden mit Datum des Abrufs vermerkt. Disclaimer Rechtsstand kann sich taeglich aendern Stichtag-Datum dokumentieren."
 ---
 
-# rechtsstand-pruefen
+# rechtsstand-prüfen
 
 ## Zweck
 
@@ -59,20 +59,20 @@ Pro Veröffentlichungsnummer das richtige Register öffnen. Bei einer Familienan
 Pro Schutzrecht:
 
 ```yaml
-veroeffentlichungsnummer: EP 3 456 789 B1
+veröffentlichungsnummer: EP 3 456 789 B1
 familie:
   inpadoc_family_id: 12345678
   prioritaeten: [DE 15.03.2018]
 anmeldetag: 14.03.2019
 prioritaetstag: 15.03.2018
-veroeffentlichungstag_anmeldung: 18.09.2019
+veröffentlichungstag_anmeldung: 18.09.2019
 erteilungstag: 12.09.2021
 schutzdauer_ende: 14.03.2039
 status: erteilt, in Kraft
 anmelder_eingetragen: Siemens AG
 einspruch:
   laufend: nein
-  abgeschlossen: 12.06.2022 - Einspruch zurueckgewiesen
+  abgeschlossen: 12.06.2022 - Einspruch zurückgewiesen
 nichtigkeit:
   laufend: nein
 validierung_states: [DE, FR, GB, IT, NL]
@@ -108,4 +108,4 @@ Tabelle mit Spalten: Veröff.-Nr., Status, Schutzdauer-Ende, Jahresgebühren bis
 
 ## Disclaimer
 
-> **Hinweis zum Rechtsstand.** Diese Rechtsstandspruefung beruht auf dem Datum des Abrufs (im Output explizit dokumentiert). Der Rechtsstand kann sich taeglich aendern — Jahresgebuehren, Einspruchsverfahren, Nichtigkeitsverfahren, Anmelderwechsel. Bei zeitkritischen Entscheidungen ist eine aktuelle Direktabfrage im nationalen Register zwingend. Die Daten der Register koennen Verzoegerungen von einigen Tagen bis Wochen aufweisen.
+> **Hinweis zum Rechtsstand.** Diese Rechtsstandsprüfung beruht auf dem Datum des Abrufs (im Output explizit dokumentiert). Der Rechtsstand kann sich taeglich ändern — Jahresgebuehren, Einspruchsverfahren, Nichtigkeitsverfahren, Anmelderwechsel. Bei zeitkritischen Entscheidungen ist eine aktuelle Direktabfrage im nationalen Register zwingend. Die Daten der Register können Verzoegerungen von einigen Tagen bis Wochen aufweisen.

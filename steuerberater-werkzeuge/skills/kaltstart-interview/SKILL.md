@@ -13,7 +13,7 @@ description: "Kaltstart-Interview für das Steuerberater-Werkzeuge-Plugin. Befü
 4. Konfigurationsdatei schreiben (übergeordnete Verzeichnisse bei Bedarf anlegen).
 5. Zusammenfassung anzeigen und nächste Schritte vorschlagen.
 
-## `--integrationen-pruefen`
+## `--integrationen-prüfen`
 
 Prüft die Konnektoren-Verfügbarkeit (DATEV-Schnittstelle, Dokumentenspeicher, Mandanten-Portal, E-Mail). Aktualisiert nur den Abschnitt `## Verfügbare Integrationen`, führt kein neues Interview durch.
 
@@ -77,9 +77,9 @@ Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/s
 
 - Was eingerichtet wurde
 - Welche Skills jetzt sinnvoll als nächstes laufen können:
-  - `/steuerberater-werkzeuge:bwa-sus-bilanz-pruefung` — bei Plausibilisierung der laufenden BWA/SuSa/Bilanz
-  - `/steuerberater-werkzeuge:liquiditaetsvorschau-3-6-12-monate` — für klassische Liquiditätsplanung
-  - `/steuerberater-werkzeuge:liquiditaetsvorschau-3wochen` — bei akutem Liquiditätsengpass / drohender Zahlungsunfähigkeit
+  - `/steuerberater-werkzeuge:bwa-sus-bilanz-prüfung` — bei Plausibilisierung der laufenden BWA/SuSa/Bilanz
+  - `/steuerberater-werkzeuge:liquiditätsvorschau-3-6-12-monate` — für klassische Liquiditätsplanung
+  - `/steuerberater-werkzeuge:liquiditätsvorschau-3wochen` — bei akutem Liquiditätsengpass / drohender Zahlungsunfähigkeit
 - Hinweis auf Mandatsgeheimnis (§ 57 StBerG, § 203 StGB)
 
 ## Rechtlicher Rahmen

@@ -7,17 +7,17 @@ description: Strukturierte Auswertung grosser Mengen Grundbuchdaten — Grundbuc
 
 ## Leitidee
 
-Grundbuchdaten kommen in der Praxis als Stapel von PDF-Auszuegen, oft
-gescannt, mit dazwischengewuerfelten Baulastenverzeichnissen, Flurkarten
+Grundbuchdaten kommen in der Praxis als Stapel von PDF-Auszügen, oft
+gescannt, mit dazwischengewürfelten Baulastenverzeichnissen, Flurkarten
 und Altlastenausweisen. Der Skill normalisiert alles auf eine
 Objekttabelle und ein einheitliches Risikoschema.
 
 ## Inputs
 
-- Grundbuchauszuege (.pdf, gescannt oder digital)
+- Grundbuchauszüge (.pdf, gescannt oder digital)
 - Optional: Baulastenverzeichnis-Ausdrucke
 - Optional: Altlastenkataster-Auskuenfte
-- Optional: Flurkarten und Lagepruefungen
+- Optional: Flurkarten und Lageprüfungen
 - Objektliste als .xlsx oder .csv
 
 ## Methodik
@@ -27,11 +27,11 @@ Objekttabelle und ein einheitliches Risikoschema.
 3. Strukturierte Extraktion:
    - Bestandsverzeichnis: Gemarkung Flur Flurstueck Wirtschaftsart
      Groesse
-   - Abteilung I: Eigentuemerkette mit Erwerbsgrund
+   - Abteilung I: Eigentümerkette mit Erwerbsgrund
    - Abteilung II: Lasten und Beschraenkungen (Dienstbarkeiten
      Reallasten Vorkaufsrechte Nacherbenvermerk Sanierungsvermerk)
-   - Abteilung III: Grundpfandrechte mit Rang Betrag Glaeubiger
-     Loeschungserleichterung Brieftyp
+   - Abteilung III: Grundpfandrechte mit Rang Betrag Gläubiger
+     Löschungserleichterung Brieftyp
 4. Querverweis mit Baulastenverzeichnis (Baulasten existieren NICHT
    im Grundbuch)
 5. Risikobewertung pro Objekt und Aggregation auf Portfolio
@@ -42,34 +42,34 @@ Objekttabelle und ein einheitliches Risikoschema.
 - `Grundbuch_Portfolio.xlsx` — eine Zeile pro Flurstueck, Spalten je
   Risikofeld
 - `Risikomatrix.md` mit Ampel pro Objekt und Aggregat-Statistik
-- `Auffaelligkeiten.md` — Objekte mit ungewoehnlichen Vermerken
+- `Auffälligkeiten.md` — Objekte mit ungewöhnlichen Vermerken
   (Insolvenzvermerk Zwangsversteigerungsvermerk Nacherbenvermerk
   Sanierungsvermerk § 144 BauGB Vorkaufsrecht nach BauGB)
 
 ## Typische Risikofelder
 
-- Briefgrundschuld ohne Loeschungsbewilligung
-- Rangverhaeltnis Abteilung III nicht eindeutig
+- Briefgrundschuld ohne Löschungsbewilligung
+- Rangverhältnis Abteilung III nicht eindeutig
 - Dienstbarkeit zugunsten unbekannter Dritter (Leitungsrechte
   Wegerechte)
 - Vorkaufsrecht der Gemeinde nach §§ 24 ff. BauGB
 - Sanierungsvermerk § 144 BauGB — Genehmigung erforderlich
 - Nacherbenvermerk § 2113 BGB
 - Insolvenz- oder Zwangsversteigerungsvermerk
-- Baulast nicht im Grundbuch aber gegen Eigentuemer wirksam
-- Altlastenverdachtsflaeche und mietminderungsrelevante Schadstoffe
+- Baulast nicht im Grundbuch aber gegen Eigentümer wirksam
+- Altlastenverdachtsfläche und mietminderungsrelevante Schadstoffe
 
 ## Beispielformulierungen
 
-- "Werte alle Grundbuchauszuege aus diesem Ordner aus. Erzeuge
+- "Werte alle Grundbuchauszüge aus diesem Ordner aus. Erzeuge
   Portfoliosicht und markiere Objekte mit Sanierungsvermerk."
-- "Ich habe 87 PDF-Auszuege. Zeig mir Objekte mit offenen
+- "Ich habe 87 PDF-Auszüge. Zeig mir Objekte mit offenen
   Briefgrundschulden und Baulasten."
-- "Pruefe diese 15 Objekte auf Vorkaufsrechte der Gemeinde nach
+- "Prüfe diese 15 Objekte auf Vorkaufsrechte der Gemeinde nach
   Paragraph 24 BauGB."
 
 ## Grenzen
 
-Der Skill ersetzt nicht die Pruefung durch einen Immobilienjuristen.
+Der Skill ersetzt nicht die Prüfung durch einen Immobilienjuristen.
 Er liefert Vorstrukturierung und Risiko-Heatmap, damit der Mensch
 seine Zeit dort einsetzt, wo es wirklich brennt.

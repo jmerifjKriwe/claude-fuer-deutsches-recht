@@ -191,7 +191,7 @@ Prüfen:
 
 - **An KI-Governance:** Wenn der tiefe Einblick durch ein KI-Feature ausgelöst wurde – `/ki-governance:ki-folgenabschaetzung [Feature]` parallel oder sofort danach ausführen. Die Feature-Risikobewertung rahmt die Entscheidung; die KI-Folgenabschätzung dokumentiert das KI-System spezifisch. Sie sind keine Duplikate.
 - **An Datenschutzrecht:** Wenn das Feature neue Datenerhebung oder -verarbeitung beinhaltet, `/datenschutzrecht:dsfa-erstellung [Feature]` ausführen.
-- **An KI-Governance-Lieferantenprüfung:** Wenn das Feature einen neuen KI-Anbieter verwendet, `/ki-governance:ki-anbieter-pruefung [Lieferantenvertrag]` ausführen.
+- **An KI-Governance-Lieferantenprüfung:** Wenn das Feature einen neuen KI-Anbieter verwendet, `/ki-governance:ki-anbieter-prüfung [Lieferantenvertrag]` ausführen.
 
 ## Ausgabeformat
 

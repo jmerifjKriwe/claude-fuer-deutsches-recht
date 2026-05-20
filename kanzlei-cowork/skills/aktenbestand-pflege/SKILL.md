@@ -10,9 +10,9 @@ description: Laufende Pflege des Aktenbestands der Kanzlei — Aktualisierung Ak
 | Status | Bedeutung |
 |---|---|
 | **laufend** | aktive Bearbeitung |
-| **ruhend** | wartet auf Reaktion Gegenseite Behoerde oder Mandant |
+| **ruhend** | wartet auf Reaktion Gegenseite Behörde oder Mandant |
 | **abgeschlossen** | Mandat beendet — Schlussrechnung gestellt |
-| **archiviert** | im Archiv abgelegt — Zugriff nur fuer Aufbewahrung |
+| **archiviert** | im Archiv abgelegt — Zugriff nur für Aufbewahrung |
 | **vernichtet** | nach Ablauf der Aufbewahrungsfrist vernichtet (Audit-Eintrag) |
 
 ## Wartung pro Akte
@@ -22,20 +22,20 @@ mandat-az: 2026/0042
 status: laufend
 letztes-ereignis: 2026-05-20 — Versand Berufung
 letzte-pflege: 2026-05-21
-naechstes-ereignis-erwartet: 2026-06-20 (Berufungsbegruendungsfrist)
+nächstes-ereignis-erwartet: 2026-06-20 (Berufungsbegründungsfrist)
 ruhend-seit: null
 abgeschlossen-am: null
-abgeschlossen-begruendung: null
-archivierung-faellig: null  # bei Abschluss berechnen: + 6 Jahre § 50 BRAO
-vernichtung-faellig: null  # 6 Jahre nach Mandatsende
+abgeschlossen-begründung: null
+archivierung-fällig: null  # bei Abschluss berechnen: + 6 Jahre § 50 BRAO
+vernichtung-fällig: null  # 6 Jahre nach Mandatsende
 ```
 
 ## Mandatsende
 
 Bei Abschluss:
 
-1. **Schlussrechnung** ueber Skill `rechnungserstellung-rvg`.
-2. **Aktenherausgabe** an Mandanten falls gewuenscht (Originalbelege Restmaterial — Akteneinsichtsrecht des Mandanten § 50 Abs. 5 BRAO).
+1. **Schlussrechnung** über Skill `rechnungserstellung-rvg`.
+2. **Aktenherausgabe** an Mandanten falls gewünscht (Originalbelege Restmaterial — Akteneinsichtsrecht des Mandanten § 50 Abs. 5 BRAO).
 3. **Aufbewahrungspflicht** sechs Jahre nach Mandatsende (§ 50 Abs. 1 BRAO).
 4. **Status** auf `abgeschlossen` setzen.
 5. **Archivierungsdatum** und **Vernichtungsdatum** berechnen.
@@ -46,16 +46,16 @@ Pro Akte: Wiedervorlagedatum erfassen — z. B. bei ruhenden Mandaten ein Drei-M
 
 ## Lange ruhende Mandate
 
-Skript prueft alle drei Monate:
+Skript prüft alle drei Monate:
 
 - Welche Mandate sind seit mehr als sechs Monaten in Status `ruhend`?
-- Liste an zustaendigen Anwalt — Klaerung ob Mandat weiter offen ist abgeschlossen werden kann oder vergessen wurde.
+- Liste an zuständigen Anwalt — Klaerung ob Mandat weiter offen ist abgeschlossen werden kann oder vergessen wurde.
 
-## Datenschutz und Loeschung
+## Datenschutz und Löschung
 
 - **Aufbewahrungsfrist** § 50 Abs. 1 BRAO sechs Jahre nach Mandatsende.
 - **Steuerlich** § 147 AO bei Buchhaltungsunterlagen acht oder zehn Jahre.
-- **Nach Ablauf** vernichten — physisch durch Aktenvernichter oder digital durch sicheres Loeschen.
+- **Nach Ablauf** vernichten — physisch durch Aktenvernichter oder digital durch sicheres Löschen.
 - **DSGVO Art. 5 Abs. 1 lit. e** Speicherbegrenzung: Daten nicht laenger als notwendig.
 
 ## Auswertung
@@ -80,7 +80,7 @@ Skript prueft alle drei Monate:
 
 ## Audit-Trail
 
-- Statusaenderungen mit Datum und ausfuehrender Person.
+- Statusänderungen mit Datum und ausführender Person.
 - Archivierung und Vernichtung mit Audit-Eintrag.
 
 ## Ausgabe
@@ -88,4 +88,4 @@ Skript prueft alle drei Monate:
 - Aktualisierter Aktenbestand.
 - Monatlicher und jaehrlicher Report.
 - Liste lang ruhender Mandate zur Klaerung.
-- Wiedervorlagen-Eintraege im Tagesbrief.
+- Wiedervorlagen-Einträge im Tagesbrief.

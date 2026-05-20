@@ -5,92 +5,92 @@ description: Fuehrt alle Bausteine zusammen — bilanzieller Status Annahmen Pla
 
 # Fortbestehensprognose zusammenfuehren
 
-## Massstab
+## Maßstab
 
-§ 19 Abs. 2 InsO seit SanInsFoG 2021: "Die Fortfuehrung des Unternehmens ist nach den Umstaenden ueberwiegend wahrscheinlich" — Prognosezeitraum **zwoelf Monate**.
+§ 19 Abs. 2 InsO seit SanInsFoG 2021: "Die Fortfuehrung des Unternehmens ist nach den Umstaenden überwiegend wahrscheinlich" — Prognosezeitraum **zwölf Monate**.
 
-**Ueberwiegend wahrscheinlich** bedeutet **mehr als 50 Prozent** Wahrscheinlichkeit (klassische BGH-Rspr. zur Vorhersage; bestaetigt durch IDW S 11).
+**Überwiegend wahrscheinlich** bedeutet **mehr als 50 Prozent** Wahrscheinlichkeit (klassische BGH-Rspr. zur Vorhersage; bestätigt durch IDW S 11).
 
 ### Operativ — was bedeutet das?
 
-Die abstrakte Wahrscheinlichkeitsformel ist methodisch durch die **Zahlungsfaehigkeitsprognose** zu fuellen. Die Fortbestehensprognose ist genau dann positiv wenn das Unternehmen ueber den Zwoelf-Monats-Horizont mit ueberwiegender Wahrscheinlichkeit **nicht in die Zahlungsunfaehigkeit nach § 17 InsO geraet**. Das bedeutet konkret:
+Die abstrakte Wahrscheinlichkeitsformel ist methodisch durch die **Zahlungsfähigkeitsprognose** zu fuellen. Die Fortbestehensprognose ist genau dann positiv wenn das Unternehmen über den Zwölf-Monats-Horizont mit überwiegender Wahrscheinlichkeit **nicht in die Zahlungsunfähigkeit nach § 17 InsO gerät**. Das bedeutet konkret:
 
-- In jedem Zeitabschnitt der zwoelf Monate muessen **mindestens 90 Prozent** der dann faelligen Verbindlichkeiten aus den verfuegbaren Mitteln (Liquiditaetsbestand plus Kreditlinie plus rechtzeitig erzielbare Zufluesse) gedeckt werden koennen.
-- **Voruebergehende Unterdeckungen** ueber zehn Prozent duerfen hoechstens **drei Wochen** dauern und muessen mit ueberwiegender Wahrscheinlichkeit binnen dieser Frist wieder geschlossen werden (BGH IX ZR 123/04, BGHZ 163, 134).
+- In jedem Zeitabschnitt der zwölf Monate müssen **mindestens 90 Prozent** der dann fälligen Verbindlichkeiten aus den verfügbaren Mitteln (Liquiditätsbestand plus Kreditlinie plus rechtzeitig erzielbare Zufluesse) gedeckt werden können.
+- **Voruebergehende Unterdeckungen** über zehn Prozent dürfen höchstens **drei Wochen** dauern und müssen mit überwiegender Wahrscheinlichkeit binnen dieser Frist wieder geschlossen werden (BGH IX ZR 123/04, BGHZ 163, 134).
 
-Wenn die Liquiditaetsplanung in jedem Zeitabschnitt diese Schwelle einhaelt — auch im plausibilisierten Negativ-Szenario — ist die Fortbestehensprognose **positiv**. Wenn die Schwelle in einem oder mehreren Zeitabschnitten oder ueber laengere Phasen reisst und auch durch Sanierungsbausteine nicht verbindlich geschlossen werden kann ist die Prognose **negativ**.
+Wenn die Liquiditätsplanung in jedem Zeitabschnitt diese Schwelle einhaelt — auch im plausibilisierten Negativ-Szenario — ist die Fortbestehensprognose **positiv**. Wenn die Schwelle in einem oder mehreren Zeitabschnitten oder über laengere Phasen reisst und auch durch Sanierungsbausteine nicht verbindlich geschlossen werden kann ist die Prognose **negativ**.
 
-Die „mehr als 50 Prozent Wahrscheinlichkeit" der Prognose ist also nicht abstrakt zu vermuten sondern aus dem Liquiditaetsplan und seiner Sensitivitaet abzuleiten: ueber das Basis-Szenario hinaus muss auch das **plausible Negativ-Szenario** die Schwelle einhalten — andernfalls reicht die Wahrscheinlichkeit nicht aus.
+Die „mehr als 50 Prozent Wahrscheinlichkeit" der Prognose ist also nicht abstrakt zu vermuten sondern aus dem Liquiditätsplan und seiner Sensitivitaet abzuleiten: über das Basis-Szenario hinaus muss auch das **plausible Negativ-Szenario** die Schwelle einhalten — andernfalls reicht die Wahrscheinlichkeit nicht aus.
 
-## Pruefablauf
+## Prüfablauf
 
-### Schritt 1 — Bilanzielle Ueberschuldung gegeben?
+### Schritt 1 — Bilanzielle Überschuldung gegeben?
 
 Aus Skill `bilanzieller-status-aufnehmen`:
 
-- Bilanzielle Ueberschuldung gegeben? Wenn nein: § 19 InsO nicht erfuellt — Fortbestehensprognose **nicht erforderlich** (aber haeufig sinnvoll als Krisendokumentation).
+- Bilanzielle Überschuldung gegeben? Wenn nein: § 19 InsO nicht erfüllt — Fortbestehensprognose **nicht erforderlich** (aber häufig sinnvoll als Krisendokumentation).
 - Wenn ja: weiter zu Schritt 2.
 
 ### Schritt 2 — Annahmen plausibilisiert?
 
 Aus Skill `annahmen-belastbarkeit-plausibilisieren`:
 
-- Annahmen ueberwiegend **realistisch** oder **konservativ**?
+- Annahmen überwiegend **realistisch** oder **konservativ**?
 - Maximal eine oder zwei **ambitionierte** Annahmen die nicht tragend sind?
 - **Nicht-belastbare** Annahmen ausgeschlossen?
 
 Wenn die Annahmen die das Ergebnis tragen ambitioniert oder nicht-belastbar sind: Prognose **nicht positiv**.
 
-### Schritt 3 — Liquiditaet ueber 12 Monate positiv
+### Schritt 3 — Liquidität über 12 Monate positiv
 
-Aus Skill `liquiditaet-12-monate`:
+Aus Skill `liquidität-12-monate`:
 
-- **Basis-Szenario** positiv ueber alle zwoelf Monate?
-- **Negativ-Szenario** mit zumutbaren Massnahmen abdeckbar?
-- **Stress-Szenario** zumindest mit zusaetzlichen Massnahmen (Patronatserklaerung Gesellschafterdarlehen) abdeckbar?
+- **Basis-Szenario** positiv über alle zwölf Monate?
+- **Negativ-Szenario** mit zumutbaren Maßnahmen abdeckbar?
+- **Stress-Szenario** zumindest mit zusätzlichen Maßnahmen (Patronatserklärung Gesellschafterdarlehen) abdeckbar?
 
 ### Schritt 4 — Gesamtbewertung
 
-Drei moegliche Ergebnisse:
+Drei mögliche Ergebnisse:
 
 #### A. Prognose positiv
 
-- Bilanzbild trotz Ueberschuldung positiv (stille Reserven Rangruecktritt).
-- Liquiditaet ueber zwoelf Monate positiv im Basis-Szenario und im Negativ-Szenario.
-- Annahmen plausibel und ueberwiegend belegt.
-- Sanierungsmassnahmen falls noch erforderlich umgesetzt oder vertraglich gesichert.
+- Bilanzbild trotz Überschuldung positiv (stille Reserven Rangrücktritt).
+- Liquidität über zwölf Monate positiv im Basis-Szenario und im Negativ-Szenario.
+- Annahmen plausibel und überwiegend belegt.
+- Sanierungsmaßnahmen falls noch erforderlich umgesetzt oder vertraglich gesichert.
 
-**Folge**: Keine insolvenzrechtliche Ueberschuldung nach § 19 Abs. 2 InsO. Antragspflicht entfaellt insoweit. **Aber**: Zahlungsfaehigkeit § 17 InsO und drohende Zahlungsunfaehigkeit § 18 InsO bleiben **eigene** Pruefungspunkte — siehe Plugin `insolvenzrecht`.
+**Folge**: Keine insolvenzrechtliche Überschuldung nach § 19 Abs. 2 InsO. Antragspflicht entfaellt insoweit. **Aber**: Zahlungsfähigkeit § 17 InsO und drohende Zahlungsunfähigkeit § 18 InsO bleiben **eigene** Prüfungspunkte — siehe Plugin `insolvenzrecht`.
 
-#### B. Prognose positiv mit Sanierungsmassnahmen
+#### B. Prognose positiv mit Sanierungsmaßnahmen
 
-- Ohne Massnahmen waere die Prognose negativ.
-- Mit konkreten umsetzbaren Massnahmen ist die Prognose positiv.
+- Ohne Maßnahmen waere die Prognose negativ.
+- Mit konkreten umsetzbaren Maßnahmen ist die Prognose positiv.
 
-**Folge**: Massnahmen muessen tatsaechlich umgesetzt werden. Skill `sanierungsbausteine-vorschlagen` mit konkreten Vorschlaegen.
+**Folge**: Maßnahmen müssen tatsächlich umgesetzt werden. Skill `sanierungsbausteine-vorschlagen` mit konkreten Vorschlägen.
 
-**Wichtig**: Massnahmen muessen **rechtzeitig** umgesetzt und **verbindlich** sein:
+**Wichtig**: Maßnahmen müssen **rechtzeitig** umgesetzt und **verbindlich** sein:
 
-- Patronatserklaerung **schriftlich unterzeichnet** und vom Patron einsehbar.
-- Gesellschafterdarlehen **mit qualifiziertem Rangruecktritt** notariell.
-- Stundungsvereinbarungen **schriftlich** mit Glaeubigern.
+- Patronatserklärung **schriftlich unterzeichnet** und vom Patron einsehbar.
+- Gesellschafterdarlehen **mit qualifiziertem Rangrücktritt** notariell.
+- Stundungsvereinbarungen **schriftlich** mit Gläubigern.
 - Forderungsverzichte **schriftlich** ggf. mit Besserungsschein.
 
 #### C. Prognose negativ
 
-- Liquiditaet ueber zwoelf Monate **nicht sicherstellbar**.
-- Sanierungsmassnahmen reichen nicht.
+- Liquidität über zwölf Monate **nicht sicherstellbar**.
+- Sanierungsmaßnahmen reichen nicht.
 - Keine ausreichende Patronage- / Gesellschafterstuetzung.
 
 **Folge**: 
-- **Insolvenzrechtliche Ueberschuldung gegeben** (§ 19 InsO).
+- **Insolvenzrechtliche Überschuldung gegeben** (§ 19 InsO).
 - **Antragspflicht** sechs Wochen nach Eintritt § 15a Abs. 1 S. 2 InsO.
-- **Sofort Insolvenzanwalt** einschalten — Skill `wenn-prognose-negativ-naechste-schritte`.
-- Pruefung **drohende Zahlungsunfaehigkeit** § 18 InsO mit StaRUG-Option (Prognosezeitraum 24 Monate).
+- **Sofort Insolvenzanwalt** einschalten — Skill `wenn-prognose-negativ-nächste-schritte`.
+- Prüfung **drohende Zahlungsunfähigkeit** § 18 InsO mit StaRUG-Option (Prognosezeitraum 24 Monate).
 
 ## Stichtag und Dokumentation
 
-Die Prognose ist immer auf den **Stichtag des Tages** zu beziehen an dem sie erstellt wird. Das Verhaeltnis Stichtag → 12 Monate ist rollierend.
+Die Prognose ist immer auf den **Stichtag des Tages** zu beziehen an dem sie erstellt wird. Das Verhältnis Stichtag → 12 Monate ist rollierend.
 
 ```yaml
 prognose-zusammenfassung:
@@ -100,15 +100,15 @@ prognose-zusammenfassung:
   prognose-horizont: 2026-06 bis 2027-05
   
   bilanzbild:
-    bilanzielle-ueberschuldung: ja (Hoehe 82000 EUR)
+    bilanzielle-überschuldung: ja (Höhe 82000 EUR)
     insolvenzrechtliche-bilanzbasis: positiv (133000 EUR)
-    rangruecktritt: Gesellschafterdarlehen 120000 EUR
+    rangrücktritt: Gesellschafterdarlehen 120000 EUR
     stille-reserven: 175000 EUR
     
-  liquiditaet:
+  liquidität:
     basis-szenario: positiv
     negativ-szenario: positiv knapp (Endbestand Monat 11 bei 8000 EUR)
-    stress-szenario: negativ ohne Patronatserklaerung positiv mit
+    stress-szenario: negativ ohne Patronatserklärung positiv mit
     
   annahmen-belastbarkeit:
     realistisch: 7
@@ -116,30 +116,30 @@ prognose-zusammenfassung:
     ambitioniert: 1 (Kostensenkung Standortschliessung)
     nicht-belastbar: 0
     
-  sanierungsmassnahmen-erforderlich: ja
+  sanierungsmaßnahmen-erforderlich: ja
   konkret-belegt:
-    - Patronatserklaerung Hauptgesellschafter 200000 EUR (unterzeichnet)
-    - Gesellschafterdarlehen 120000 EUR mit Rangruecktritt (notariell)
+    - Patronatserklärung Hauptgesellschafter 200000 EUR (unterzeichnet)
+    - Gesellschafterdarlehen 120000 EUR mit Rangrücktritt (notariell)
     - Stundungsvereinbarungen Lieferanten (schriftlich von 5 Lieferanten)
   noch-offen:
     - Stundung Bank Tilgung (in Verhandlung — noch nicht schriftlich)
     
-  ergebnis: positiv-mit-massnahmen
-  bewertung-wahrscheinlichkeit: ueberwiegend (mehr als 50 Prozent)
+  ergebnis: positiv-mit-maßnahmen
+  bewertung-wahrscheinlichkeit: überwiegend (mehr als 50 Prozent)
   
-  pflicht-ueberpruefung: vierteljaehrlich oder bei wesentlicher Aenderung
+  pflicht-ueberprüfung: vierteljaehrlich oder bei wesentlicher Änderung
 ```
 
-## Sonderfall — der konkrete Tag der Erstellung zaehlt
+## Sonderfall — der konkrete Tag der Erstellung zählt
 
 - Die Prognose ist **stichtagsbezogen**.
-- Bei einer wesentlichen Aenderung der Annahmen (Wegfall Hauptkunde Verlust Kreditlinie) muss die Prognose **neu erstellt** werden.
-- Bei vierteljaehrlicher Routinepruefung — Dokumentation der laufenden Pruefung als Beweis fuer aktive Pflichterfuellung des Geschaeftsleiters.
+- Bei einer wesentlichen Änderung der Annahmen (Wegfall Hauptkunde Verlust Kreditlinie) muss die Prognose **neu erstellt** werden.
+- Bei vierteljaehrlicher Routineprüfung — Dokumentation der laufenden Prüfung als Beweis für aktive Pflichterfüllung des Geschäftsleiters.
 
 ## Ausgabe
 
 - `prognose-zusammenfassung.md` mit Stichtag Bewertung Beleg-Status.
 - Weiterleitung an:
-  - `sanierungsbausteine-vorschlagen` wenn Massnahmen erforderlich.
-  - `wenn-prognose-negativ-naechste-schritte` wenn Ergebnis negativ.
+  - `sanierungsbausteine-vorschlagen` wenn Maßnahmen erforderlich.
+  - `wenn-prognose-negativ-nächste-schritte` wenn Ergebnis negativ.
   - `prognose-dokumentation-stichtag` zur abschliessenden Dokumentation.

@@ -27,7 +27,7 @@ Vor Beginn der Prüfung ist zu klären, was eigentlich geprüft wird:
 
 ### A. Formelle Verfassungsmäßigkeit
 
-**Skill aufrufen:** `gesetzgebungskompetenz-pruefen` und `formelle-verfassungsmaessigkeit`.
+**Skill aufrufen:** `gesetzgebungskompetenz-prüfen` und `formelle-verfassungsmaessigkeit`.
 
 1. **Zuständigkeit (Gesetzgebungskompetenz)**
    - Art. 70 GG (Grundregel: Länder, soweit GG nicht Bund)
@@ -51,7 +51,7 @@ Vor Beginn der Prüfung ist zu klären, was eigentlich geprüft wird:
 
 ### B. Materielle Verfassungsmäßigkeit
 
-**Skill aufrufen:** `grundrechtspruefung` und `verhaeltnismaessigkeit`.
+**Skill aufrufen:** `grundrechtsprüfung` und `verhältnismäßigkeit`.
 
 Pro betroffenem Grundrecht und pro betroffener Verfassungsnorm separat:
 
@@ -60,7 +60,7 @@ Pro betroffenem Grundrecht und pro betroffener Verfassungsnorm separat:
 3. **Verfassungsrechtliche Rechtfertigung**
    - Schranke (einfacher Gesetzesvorbehalt, qualifizierter Vorbehalt, verfassungsimmanente Schranken bei vorbehaltlosen Grundrechten)
    - Schranken-Schranken (Verhältnismäßigkeit, Wesensgehalt Art. 19 Abs. 2 GG, Zitiergebot Art. 19 Abs. 1 S. 2 GG, allgemeine Geltung Art. 19 Abs. 1 S. 1 GG, Wechselwirkung)
-   - **Verhältnismäßigkeit** (Skill `verhaeltnismaessigkeit`): legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit
+   - **Verhältnismäßigkeit** (Skill `verhältnismäßigkeit`): legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit
 
 4. **Sonstige verfassungsrechtliche Bindungen**
    - Bundesstaatsprinzip Art. 20 Abs. 1 GG

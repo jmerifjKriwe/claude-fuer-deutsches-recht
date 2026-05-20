@@ -7,7 +7,7 @@ description: "Richtlinien-Neufassung – erstellt einen markierten Entwurf einer
 
 ## Zweck
 
-Dieser Skill erstellt einen Erst-Entwurf einer überarbeiteten internen Richtlinie auf Basis einer identifizierten Compliance-Lücke (aus `luecken-aufzeiger` oder `richtlinien-vergleich`). Er erzeugt keinen finalen Text – das Ergebnis ist ein Redline-Entwurf zur internen Prüfung und Freigabe, nicht die direkte Bearbeitung des Quelldokuments.
+Dieser Skill erstellt einen Erst-Entwurf einer überarbeiteten internen Richtlinie auf Basis einer identifizierten Compliance-Lücke (aus `lücken-aufzeiger` oder `richtlinien-vergleich`). Er erzeugt keinen finalen Text – das Ergebnis ist ein Redline-Entwurf zur internen Prüfung und Freigabe, nicht die direkte Bearbeitung des Quelldokuments.
 
 Typische Einsatzfelder:
 - Anpassung von MaRisk-Richtlinien nach BaFin-Novelle
@@ -17,7 +17,7 @@ Typische Einsatzfelder:
 
 ## Eingaben
 
-- **Gap oder Diff:** Ergebnis aus `luecken-aufzeiger` oder `richtlinien-vergleich` (oder manuelle Beschreibung der Lücke)
+- **Gap oder Diff:** Ergebnis aus `lücken-aufzeiger` oder `richtlinien-vergleich` (oder manuelle Beschreibung der Lücke)
 - **Bestandsrichtlinie:** Vollständiger Text (hochgeladen oder eingefügt)
 - **Aufsichtsverlautbarung:** BaFin-Rundschreiben / Leitlinie (für Normzitate)
 - Optional: Richtlinienformat-Vorlage des Unternehmens

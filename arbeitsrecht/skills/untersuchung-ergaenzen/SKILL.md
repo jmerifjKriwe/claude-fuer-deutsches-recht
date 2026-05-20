@@ -123,12 +123,12 @@ Aktualisierung der Quellencheckliste falls zutreffend. Bei
 ## Beispiel
 
 ```
-/arbeitsrecht:untersuchung-ergaenzen Sache-Mueller
+/arbeitsrecht:untersuchung-ergänzen Sache-Mueller
 [Befragungsnotizen aus Gespräch mit Zeugin K. — 12.02.2025]
 ```
 
 ```
-/arbeitsrecht:untersuchung-ergaenzen Sache-Mueller
+/arbeitsrecht:untersuchung-ergänzen Sache-Mueller
 [E-Mail-Export 01.01.2025–31.01.2025 — nach BR-Betriebsvereinbarung freigegeben]
 ```
 

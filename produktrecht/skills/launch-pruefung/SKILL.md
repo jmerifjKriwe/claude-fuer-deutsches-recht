@@ -15,7 +15,7 @@ Die Skill lädt automatisch, wenn der Nutzer eine Markteinführung, eine CE-Prü
 
 - **PRD / Produktbeschreibung** — als Datei, Link oder direkte Eingabe
 - **Technische Unterlagen** — Konstruktionszeichnungen, Stücklisten, Prüfberichte (soweit vorhanden)
-- **Marketingplan** — falls vorhanden; bei substanziellem Marketinginhalt Weiterleitung an `werbeaussagen-pruefung`
+- **Marketingplan** — falls vorhanden; bei substanziellem Marketinginhalt Weiterleitung an `werbeaussagen-prüfung`
 - **Geplantes Markteinführungsdatum** — für die Dringlichkeitskalibrierung
 - **Zielmarkt(e)** — EU-Binnenmarkt, nationale Sonderregelungen, Drittstaaten
 - **Produktkategorie** — Verbraucherprodukt, Maschinenprodukt, Medizinprodukt, Lebensmittel, Kosmetikum usw.
@@ -82,7 +82,7 @@ Für jede der nachfolgenden Kategorien prüfen. Auto-Überspringen nur mit einze
 | 4 | **Datenschutz / DSGVO** | Neue Datenerhebung, neue Zwecke, neue Empfänger? Datenschutz-Folgenabschätzung erforderlich? | Keine personenbezogenen Daten verarbeitet |
 | 5 | **Gewerbliche Schutzrechte / IP** | Drittanbieter-IP, Open-Source-Lizenzen, Designschutz, Patente von Wettbewerbern? | Keine neuen technischen Merkmale, keine Drittsoftware |
 | 6 | **Vertragliche Zusagen und Garantien** | Widerspruch zu bestehenden AGB, SLA, Beschaffenheitsgarantien (§ 443 BGB), Werbeversprachen? | Keine kundenwirksamen Änderungen |
-| 7 | **Marketingaussagen** | Prüfungsbedürftige Werbebehauptungen? Substantiierungspflicht? Bei substanziellem Marketinginhalt → Weiterleitung an `werbeaussagen-pruefung` | Kein Marketingmaterial vorhanden |
+| 7 | **Marketingaussagen** | Prüfungsbedürftige Werbebehauptungen? Substantiierungspflicht? Bei substanziellem Marketinginhalt → Weiterleitung an `werbeaussagen-prüfung` | Kein Marketingmaterial vorhanden |
 | 8 | **Sektor-spezifische Regulierung** | Berührt die Markteinführung einen regulierten Sektor (Medizinprodukte, Lebensmittel, Kosmetika, Spielzeug)? Spezialrecht anwendbar? | Kein geregelter Sektor betroffen |
 
 **Sektor-Overlays.** Falls eine der folgenden Produktgruppen betroffen ist, ergänzend prüfen:
@@ -184,7 +184,7 @@ Prüfvermerk im internen Format gemäß CLAUDE.md. Falls kein Hausformat vorgege
 **Beispielhafte Befunde:**
 - **Kategorie 1 (Produktsicherheit/CE):** CE-Kennzeichnung nach RED RL 2014/53/EU erforderlich; Konformitätsbewertungsverfahren (Selbsterklärung nach Modul A) noch nicht abgeschlossen — **Blocker**.
 - **Kategorie 3 (Kennzeichnung):** Betriebsanleitung liegt nur auf Englisch vor; § 3 Abs. 2 Nr. 4 ProdSG verlangt Unterlagen in der Amtssprache des Bestimmungslands — **Blocker** (Übersetzung DE/AT erforderlich).
-- **Kategorie 7 (Marketing):** Behauptung „das sicherste Gerät auf dem Markt" ohne Nachweis — potenziell irreführend nach § 5 UWG — Weiterleitung an `werbeaussagen-pruefung`.
+- **Kategorie 7 (Marketing):** Behauptung „das sicherste Gerät auf dem Markt" ohne Nachweis — potenziell irreführend nach § 5 UWG — Weiterleitung an `werbeaussagen-prüfung`.
 
 ## Risiken und typische Fehler
 

@@ -98,7 +98,7 @@ Was ist der Konflikt, welche Einträge stehen in Spannung, welche
 dokumentarische Evidenz bezieht sich auf den Widerspruch.
 
 **Deckungsabfrage** („Was fehlt noch?" / „Wo haben wir Lücken?"):
-`quellen-checkliste.yaml` und `beweisluecken` im log.yaml auslesen. Melden:
+`quellen-checkliste.yaml` und `beweislücken` im log.yaml auslesen. Melden:
 - Noch offene Checklistenpunkte
 - Protokollierte Beweislücken
 - Schilderungen, die auf noch nicht erhobene Quellen hinweisen

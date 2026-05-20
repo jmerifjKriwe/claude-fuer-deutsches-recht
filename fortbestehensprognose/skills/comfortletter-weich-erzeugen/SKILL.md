@@ -7,15 +7,15 @@ description: Erzeugt einen Comfortletter — eine weiche Erklaerung des Patrons 
 
 ## Wirkung und Grenze
 
-Der Comfortletter ist eine **moralische Unterstuetzungserklaerung** ohne rechtliche Bindung. Er wirkt im Geschaeftsverkehr (Bank Lieferant Investor) als **Reputations-Signal**.
+Der Comfortletter ist eine **moralische Unterstuetzungserklärung** ohne rechtliche Bindung. Er wirkt im Geschäftsverkehr (Bank Lieferant Investor) als **Reputations-Signal**.
 
 **Wirkung im Status der Gesellschaft**:
 
-- **Keine** Beruecksichtigung als Aktivposten.
+- **Keine** Berücksichtigung als Aktivposten.
 - **Keine** Wirkung auf die Fortbestehensprognose.
-- **Reine** Unterstuetzungsabsichtserklaerung.
+- **Reine** Unterstuetzungsabsichtserklärung.
 
-Wer den Comfortletter mit einer harten externen Patronatserklaerung verwechselt schiebt eine **Selbsttaeuschung** in den Status hinein. Bei spaeterer Insolvenz wird das aufgedeckt; Haftungsrisiko des Geschaeftsleiters § 15b InsO und § 43 GmbHG.
+Wer den Comfortletter mit einer harten externen Patronatserklärung verwechselt schiebt eine **Selbsttaeuschung** in den Status hinein. Bei späterer Insolvenz wird das aufgedeckt; Haftungsrisiko des Geschäftsleiters § 15b InsO und § 43 GmbHG.
 
 ## Wann sinnvoll
 
@@ -25,9 +25,9 @@ Wer den Comfortletter mit einer harten externen Patronatserklaerung verwechselt 
 
 ## Wann NICHT sinnvoll
 
-- Als **alleinige** Massnahme im Status der Gesellschaft.
+- Als **alleinige** Maßnahme im Status der Gesellschaft.
 - Wenn die Fortbestehensprognose ohne den Comfortletter negativ ist.
-- Wenn der Patron tatsaechlich bonitaer ist und eine harte Erklaerung abgeben koennte (dann sollte er auch).
+- Wenn der Patron tatsächlich bonitaer ist und eine harte Erklärung abgeben könnte (dann sollte er auch).
 
 ## Mustervorlage
 
@@ -38,36 +38,36 @@ COMFORTLETTER
 
 [Datum]
 
-An die Geschaeftsfuehrung
+An die Geschäftsführung
 der [Firma der Gesellschaft]
 [Anschrift]
 
-Sehr geehrte(r) [Anrede Geschaeftsfuehrer],
+Sehr geehrte(r) [Anrede Geschäftsführer],
 
 als [Hauptgesellschafter / Mutterunternehmen / Patron] der [Firma der
-Gesellschaft] uebermitteln wir Ihnen hiermit die folgende
-Unterstuetzungsabsichtserklaerung:
+Gesellschaft] übermitteln wir Ihnen hiermit die folgende
+Unterstuetzungsabsichtserklärung:
 
 1. Wir verfolgen mit Interesse die wirtschaftliche Entwicklung der Gesellschaft
 und beobachten ihre Lage.
 
-2. Wir beabsichtigen die Gesellschaft fuer die Erfuellung ihrer wirtschaftlichen
+2. Wir beabsichtigen die Gesellschaft für die Erfüllung ihrer wirtschaftlichen
 und finanziellen Verpflichtungen im Rahmen unseres unternehmerischen
-Beurteilungsspielraums und nach unseren Moeglichkeiten zu unterstuetzen.
+Beurteilungsspielraums und nach unseren Möglichkeiten zu unterstützen.
 
-3. Diese Erklaerung stellt KEINE rechtsverbindliche Garantie und KEINE harte
-Patronatserklaerung dar. Sie begruendet keine einklagbare Verpflichtung uns
-gegenueber der Gesellschaft oder ihren Glaeubigern.
+3. Diese Erklärung stellt KEINE rechtsverbindliche Garantie und KEINE harte
+Patronatserklärung dar. Sie begründet keine einklagbare Verpflichtung uns
+gegenüber der Gesellschaft oder ihren Gläubigern.
 
-4. Diese Erklaerung kann jederzeit ohne Begruendung schriftlich widerrufen
+4. Diese Erklärung kann jederzeit ohne Begründung schriftlich widerrufen
 werden.
 
-[Optionale Ergaenzung — sehr behutsam]:
+[Optionale Ergänzung — sehr behutsam]:
 
-5. Wir werden im Falle einer akuten Liquiditaetsenge unser unternehmerisches
-Urteil dahingehend ausueben moeglichst rechtzeitig Massnahmen zu pruefen.
+5. Wir werden im Falle einer akuten Liquiditätsenge unser unternehmerisches
+Urteil dahingehend ausueben möglichst rechtzeitig Maßnahmen zu prüfen.
 
-Mit freundlichen Gruessen
+Mit freundlichen Grüßen
 
 [Patron]
 [Position]
@@ -75,12 +75,12 @@ Mit freundlichen Gruessen
 
 ## Hinweise
 
-- Comfortletter sollte **klar als solchen** bezeichnet werden — keine missverstaendlichen Formulierungen die als Patronatserklaerung gewertet werden koennten (im Streit wird das anhand des Wortlauts geprueft).
+- Comfortletter sollte **klar als solchen** bezeichnet werden — keine missverstaendlichen Formulierungen die als Patronatserklärung gewertet werden könnten (im Streit wird das anhand des Wortlauts geprueft).
 - **Schriftlich** und unterzeichnet.
-- Im Geschaeftsverkehr klar als unverbindlich kommunizieren.
+- Im Geschäftsverkehr klar als unverbindlich kommunizieren.
 
 ## Ausgabe
 
 - `comfortletter.docx` und PDF.
 - Warnhinweis im Sanierungsbausteine-Tracker dass dieser Comfortletter die Prognose NICHT traegt.
-- Empfehlung: parallel zum Comfortletter eine harte externe Patronatserklaerung mit konkretem Hoechstbetrag (Skill `patronatserklaerung-extern-hart-erzeugen`).
+- Empfehlung: parallel zum Comfortletter eine harte externe Patronatserklärung mit konkretem Höchstbetrag (Skill `patronatserklärung-extern-hart-erzeugen`).

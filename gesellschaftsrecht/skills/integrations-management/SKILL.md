@@ -28,7 +28,7 @@ Dieser Skill ist die Programmmanagement-Ebene für die rechtliche Post-Closing-I
 
 ## Ablauf
 
-Aufruf über Flag: `--init` (Modus 1) | `--vertraege` (Modus 2) | `--bericht` (Modus 3) | `--update` (Modus 4) | `--export` (Modus 5).
+Aufruf über Flag: `--init` (Modus 1) | `--verträge` (Modus 2) | `--bericht` (Modus 3) | `--update` (Modus 4) | `--export` (Modus 5).
 
 ### Modus 1: Initialisierung (`--init`)
 
@@ -46,7 +46,7 @@ Transaktionsunterlagen anfordern (Vollständiger SPA > Deal-Zusammenfassung > ni
 
 **Tag 180:** Verschmelzungsanmeldung §§ 17 ff. UmwG oder Liquidationsanmeldung §§ 65 ff. GmbHG; Garantiefrist-Tracking.
 
-### Modus 2: Vertragsübertragung (`--vertraege`)
+### Modus 2: Vertragsübertragung (`--verträge`)
 
 Vertragsbestand aus Datenraum, hochgeladener Liste oder SPA-Disclosure-Schedule importieren. Übertragungsmechanismus für jeden Vertrag klassifizieren:
 

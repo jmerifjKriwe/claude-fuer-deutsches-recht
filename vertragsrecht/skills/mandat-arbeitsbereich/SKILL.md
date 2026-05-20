@@ -249,7 +249,7 @@ Aufnahme abgeschlossen. Kürzel: `[kürzel]`. Status: aktiv.
 ```
 
 Kürzel sind Kleinbuchstaben mit Bindestrichen. Beispiele:
-`mueller-kaufvertrag-2026`, `meier-agb-pruefung`, `xyz-gmbh-nda`.
+`mueller-kaufvertrag-2026`, `meier-agb-prüfung`, `xyz-gmbh-nda`.
 
 ## Mandatsübergreifender Kontext
 

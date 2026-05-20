@@ -53,7 +53,7 @@ Für jeden in Kraft befindlichen Treffer:
 1. **Hauptanspruch lesen** — wortlautidentische Auslegung des Schutzbereichs nach § 14 PatG / Art. 69 EPÜ.
 2. **Beschreibung und Zeichnungen** als Auslegungshilfe heranziehen (§ 14 S. 2 PatG / Protokoll zu Art. 69 EPÜ).
 3. **Merkmale des Hauptanspruchs** gegen das Produkt der Mandantin prüfen — wortlautidentische Verletzung? Äquivalente Verletzung (BGH, Schneidmesser)?
-4. **Rechtsstand** prüfen: ist das Patent noch in Kraft, sind Jahresgebühren bezahlt, läuft ein Einspruchs- oder Nichtigkeitsverfahren? → über `rechtsstand-pruefen`.
+4. **Rechtsstand** prüfen: ist das Patent noch in Kraft, sind Jahresgebühren bezahlt, läuft ein Einspruchs- oder Nichtigkeitsverfahren? → über `rechtsstand-prüfen`.
 
 ### Schritt 5: Risiko-Ampel
 
@@ -91,4 +91,4 @@ Bei **Rot-** oder **Gelb-Treffern**:
 
 ## Disclaimer
 
-> **Hinweis zur FTO-Recherche.** Diese Freedom-to-Operate-Recherche ist eine durch Claude unterstuetzte Vorrecherche und keine Rechtsberatung. Die Risiko-Ampel ist eine vorlaeufige Einschaetzung — der Schutzbereich nach § 14 PatG / Art. 69 EPUe ist Auslegungsfrage, die nur durch die Patentanwaeltin im konkreten Fall verbindlich beurteilt werden kann. Treffer in nicht durchsuchten Sprachen, ausserhalb der Klassen oder in nicht erfassten Datenbanken bleiben moeglich. Die Recherche muss durch eigene Bewertung und gegebenenfalls durch eine zweite Patentanwaltsbewertung abgesichert werden.
+> **Hinweis zur FTO-Recherche.** Diese Freedom-to-Operate-Recherche ist eine durch Claude unterstuetzte Vorrecherche und keine Rechtsberatung. Die Risiko-Ampel ist eine vorlaeufige Einschätzung — der Schutzbereich nach § 14 PatG / Art. 69 EPUe ist Auslegungsfrage, die nur durch die Patentanwältin im konkreten Fall verbindlich beurteilt werden kann. Treffer in nicht durchsuchten Sprachen, außerhalb der Klassen oder in nicht erfassten Datenbanken bleiben möglich. Die Recherche muss durch eigene Bewertung und gegebenenfalls durch eine zweite Patentanwaltsbewertung abgesichert werden.

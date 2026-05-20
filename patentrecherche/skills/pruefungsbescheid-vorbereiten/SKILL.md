@@ -3,7 +3,7 @@ name: pruefungsbescheid-vorbereiten
 description: "Bereitet Antwort auf Pruefungsbescheid des DPMA nach § 45 PatG oder des EPA nach Art. 94 EPUe systematisch vor. Liest den Bescheid und die zitierten Entgegenhaltungen ein. Strukturiert pro Beanstandung: Beanstandung wortlautgetreu zitiert betroffener Anspruch zitierte Entgegenhaltung mit Pinpoint Argumentationsvorschlag (Neuheit-Argument erfinderische Taetigkeit Argument Anspruchsanpassung). Beruecksichtigt EPA-Schemata Problem-Solution-Approach und EPA-Hinweise auf clarity (Art. 84 EPUe) added subject-matter (Art. 123(2) EPUe) und unity (Art. 82 EPUe). Liefert Entwurf der Eingabe mit Argumentationsstruktur und Anspruchssatz-Vorschlaegen. Disclaimer Eingabe muss durch Patentanwaeltin gegengelesen und verantwortet werden."
 ---
 
-# pruefungsbescheid-vorbereiten
+# prüfungsbescheid-vorbereiten
 
 ## Zweck
 
@@ -42,24 +42,24 @@ Jede Beanstandung als eigene Position erfassen:
 Beanstandung 1: Art. 54 EPUe / Anspruch 1
   D1 = EP 3 456 789 A1, Siemens AG
   Pinpoint: Anspruch 1, Abs. [0023], Fig. 1
-  Argument der Pruefungsabteilung: alle Merkmale von Anspruch 1 sind in D1 offenbart.
+  Argument der Prüfungsabteilung: alle Merkmale von Anspruch 1 sind in D1 offenbart.
   
 Beanstandung 2: Art. 56 EPUe / Anspruch 2
   D1 + D2 (US 2020/0123456)
-  Argument: ausgehend von D1 wuerde der Fachmann mit Anregung aus D2 zur beanspruchten Loesung gelangen.
+  Argument: ausgehend von D1 würde der Fachmann mit Anregung aus D2 zur beanspruchten Lösung gelangen.
   
 Beanstandung 3: Art. 84 EPUe / Anspruch 3
   Argument: Merkmal "im Wesentlichen" ist unklar.
   
 Beanstandung 4: Art. 123(2) EPUe / Beschreibung Abs. [0034]
-  Argument: Aenderung gegenueber urspruenglich eingereichter Fassung unzulaessig erweitert.
+  Argument: Änderung gegenüber urspruenglich eingereichter Fassung unzulässig erweitert.
 ```
 
 ### Schritt 2: Pro Beanstandung Strategie wählen
 
 #### Bei Art. 54 (Neuheit)
 
-- Wenn Pinpoint der Prüfungsabteilung **richtig**: Anspruch beschränken (Merkmale aus der Beschreibung aufnehmen, die in D1 nicht offenbart sind). Über `neuheit-pruefen` neue Merkmalsanalyse machen.
+- Wenn Pinpoint der Prüfungsabteilung **richtig**: Anspruch beschränken (Merkmale aus der Beschreibung aufnehmen, die in D1 nicht offenbart sind). Über `neuheit-prüfen` neue Merkmalsanalyse machen.
 - Wenn Pinpoint **falsch**: argumentieren, dass das Merkmal in D1 nicht offenbart ist. Beleg über Verweis auf den genauen Wortlaut von D1.
 - **Auswahlerfindung** ggf. argumentieren (T 198/84, T 279/89), wenn der Anspruch einen Sub-Bereich aus einem in D1 offenbarten Bereich auswählt.
 
@@ -104,12 +104,12 @@ Aufbau der Eingabe an die Prüfungsabteilung:
 ```
 Sehr geehrte Damen und Herren,
 
-namens und in Vollmacht der Anmelderin nehmen wir zu dem Pruefungsbescheid
+namens und in Vollmacht der Anmelderin nehmen wir zu dem Prüfungsbescheid
 vom [Datum] wie folgt Stellung. Beigefuegt sind neue Anspruchsfassungen
-(Hauptantrag und Hilfsantraege 1-3).
+(Hauptantrag und Hilfsanträge 1-3).
 
 I. Allgemeines
-   [Bezugnahme, Aenderungen im Ueberblick]
+   [Bezugnahme, Änderungen im Überblick]
 
 II. Zu den einzelnen Beanstandungen
 
@@ -119,7 +119,7 @@ II. Zu den einzelnen Beanstandungen
    2. Art. 56 EPUe, Anspruch 1
       Problem-Solution-Approach:
       Closest Prior Art: D1 (EP 3 456 789 A1)
-      Objektive technische Aufgabe: [neu / praezisiert]
+      Objektive technische Aufgabe: [neu / präzisiert]
       Could-Would-Analyse: [Argument]
       Sekundaerindizien: [optional]
 
@@ -127,7 +127,7 @@ II. Zu den einzelnen Beanstandungen
       [Klarstellung, neue Anspruchsfassung]
 
    4. Art. 123(2) EPUe, Beschreibung Abs. [0034]
-      [Aenderung zurueckgenommen / auf urspruenglichen Offenbarungsgehalt zurueckgefuehrt]
+      [Änderung zurückgenommen / auf urspruenglichen Offenbarungsgehalt zurückgeführt]
 
 III. Anspruchsfassungen
    Hauptantrag - Ansprueche 1-15
@@ -137,10 +137,10 @@ III. Anspruchsfassungen
 
 IV. Wir beantragen
    Erteilung des Patents auf Grundlage des Hauptantrags, hilfsweise auf
-   Grundlage des jeweils naechsten Hilfsantrags.
+   Grundlage des jeweils nächsten Hilfsantrags.
 
-Mit freundlichen Gruessen
-[Patentanwaeltin]
+Mit freundlichen Grüßen
+[Patentanwältin]
 ```
 
 ### Schritt 5: Frist-Tracking
@@ -157,4 +157,4 @@ Mit freundlichen Gruessen
 
 ## Disclaimer
 
-> **Hinweis zum Bescheid.** Dieser Entwurf zur Beantwortung des Pruefungsbescheids ist eine durch Claude unterstuetzte Vorarbeit. Die Argumentationsstruktur und die Anspruchsentwuerfe muessen durch die Patentanwaeltin vor Absendung sorgfaeltig gegengelesen werden. Insbesondere die Bewertung der erfinderischen Taetigkeit und die Wahl der Hilfsantragsabstufungen erfordern individuelle Bewertung. Diese Vorbereitung ersetzt nicht die anwaltliche Verantwortung gegenueber Amt und Mandant.
+> **Hinweis zum Bescheid.** Dieser Entwurf zur Beantwortung des Prüfungsbescheids ist eine durch Claude unterstuetzte Vorarbeit. Die Argumentationsstruktur und die Anspruchsentwuerfe müssen durch die Patentanwältin vor Absendung sorgfaeltig gegengelesen werden. Insbesondere die Bewertung der erfinderischen Tätigkeit und die Wahl der Hilfsantragsabstufungen erfordern individuelle Bewertung. Diese Vorbereitung ersetzt nicht die anwaltliche Verantwortung gegenüber Amt und Mandant.

@@ -104,7 +104,7 @@ spalten:
     typ: klassifizieren
     optionen:
       - zustimmungserforderlich
-      - kuendigungsrecht_bei_coc
+      - kündigungsrecht_bei_coc
       - keine_regelung
       - sonstige
     prompt: >
@@ -116,7 +116,7 @@ spalten:
     label: Abtretung
     typ: klassifizieren
     optionen:
-      - frei_uebertragbar
+      - frei_übertragbar
       - zustimmungserforderlich
       - abtretungsverbot_absolut
       - abtretungsverbot_354a_HGB_vorbehalt
@@ -226,7 +226,7 @@ Ein Unteragent pro Dokument, parallel. Jeder Unteragent erhält:
 
 Jeder Unteragent gibt eine strukturierte Zeile zurück: für jede Spalte `{wert, zustand, zitat, fundstelle}`:
 - `wert` — die getypte Antwort (oder null bei `zustand ≠ beantwortet`)
-- `zustand` — `beantwortet | nicht_vorhanden | unklar | pruefung_erforderlich`
+- `zustand` — `beantwortet | nicht_vorhanden | unklar | prüfung_erforderlich`
 - `zitat` — wörtlicher Begleittext (kein Paraphrase, keine Auslassungszeichen zwischen nicht zusammenhängendem Text)
 - `fundstelle` — Abschnittsnummer, Überschrift, Seite
 
@@ -235,7 +235,7 @@ Jeder Unteragent gibt eine strukturierte Zeile zurück: für jede Spalte `{wert,
 - NICHT aus Abschnittsüberschrift plus erwartetem Standardtext zusammensetzen
 - NICHT paraphrasieren und als wörtlich bezeichnen
 - NICHT aus Erinnerung rekonstruieren
-- Bei nicht findbarem exaktem Text: `zustand: pruefung_erforderlich`, `wert: null`, `notizen: "zitat_nicht_verfügbar: <Grund>"`
+- Bei nicht findbarem exaktem Text: `zustand: prüfung_erforderlich`, `wert: null`, `notizen: "zitat_nicht_verfügbar: <Grund>"`
 
 **Zusätzliche Felder bei aktivem Zeilenprompt:**
 - `zeilenprompt_befolgt` — Bool: hat der Unteragent die Zeilen-Sonderanweisung beachtet?
@@ -244,8 +244,8 @@ Jeder Unteragent gibt eine strukturierte Zeile zurück: für jede Spalte `{wert,
 ### Schritt 6 — Normalisierung
 
 Spaltenweise gesamte Tabelle prüfen:
-- `klassifizieren`: Ausreißer prüfen. Bei 195/200 `zustimmungserforderlich` und 5/200 `frei_uebertragbar` → die 5 manuell anschauen.
-- `datum`/`dauer`/`betrag`: Formatkonsistenz. Unplausible Werte (99-jährige Laufzeit, 1-EUR-Haftungsdeckelung) auf `pruefung_erforderlich`.
+- `klassifizieren`: Ausreißer prüfen. Bei 195/200 `zustimmungserforderlich` und 5/200 `frei_übertragbar` → die 5 manuell anschauen.
+- `datum`/`dauer`/`betrag`: Formatkonsistenz. Unplausible Werte (99-jährige Laufzeit, 1-EUR-Haftungsdeckelung) auf `prüfung_erforderlich`.
 - Zitate: Stichprobe (3–5 Zeilen pro Spalte oder 10 %, je größer) — Quelldokument an `fundstelle` wieder öffnen, Zitat zeichengenau vergleichen. Bei Abweichung: ganze Spalte ausweiten.
 
 ### Schritt 7 — Ausgabe
@@ -257,14 +257,14 @@ Spaltenweise gesamte Tabelle prüfen:
 |---|---|---|---|---|---|---|---|
 | Lieferanten-MSA Alpha | rahmenvertrag | Alpha GmbH | 2023-04-01 | zustimmungserforderlich | zustimmungserforderlich | 12 Mio EUR | — |
 | Mietvertrag Berlin | gewerberaummietvertrag | Vermieter XY GbR | 2020-11-15 | keine_regelung | absolut (§ 354a HGB-Vorbehalt) | unbegrenzt | ⚠️ Indexmiete prüfen |
-| Vendor Agreement Beta | internationaler_vertrag | Beta Ltd | 2024-01-12 | kuendigungsrecht_bei_coc | frei_uebertragbar | 5 Mio EUR | ⚠️ englisches Recht |
+| Vendor Agreement Beta | internationaler_vertrag | Beta Ltd | 2024-01-12 | kündigungsrecht_bei_coc | frei_übertragbar | 5 Mio EUR | ⚠️ englisches Recht |
 | Anlage K7 Nachtrag | anlage_nachtrag | (s. K6) | 2024-09-20 | (s. K6) | (s. K6) | (s. K6) | — |
 ```
 
 **Excel** (`.xlsx`) oder **CSV**:
 - Jede Datenspalte mit verdeckter Quellspalte gepaart (Zitat + Fundstelle)
 - Zellkommentare zeigen das Zitat beim Überfahren (Excel)
-- Farbcodierung nach `zustand`: weiß = beantwortet, gelb = unklar/pruefung_erforderlich, grau = nicht_vorhanden
+- Farbcodierung nach `zustand`: weiß = beantwortet, gelb = unklar/prüfung_erforderlich, grau = nicht_vorhanden
 - Zusätzliche Spalte „Zeilenprompt" sichtbar (Dokumenttyp)
 - Spalte „Zeilenprompt-Notiz" für die Notiz aus Schritt 5
 - `Geprüft`-Spalte pro Datenspalte, vom Reviewer abzuhaken
@@ -277,7 +277,7 @@ Arbeitsergebnis-Kopfzeile aus CLAUDE.md voranstellen plus:
 ### Schritt 8 — Zusammenfassung
 
 - Dokumentenanzahl, Spaltenanzahl, abgeschlossene Zeilen
-- Pro Spalte: Anzahl `nicht_vorhanden`, `unklar`, `pruefung_erforderlich`
+- Pro Spalte: Anzahl `nicht_vorhanden`, `unklar`, `prüfung_erforderlich`
 - Pro Zeilenprompt-Typ: wie viele Dokumente fielen darunter
 - Spalten, bei denen die Normalisierung > 10 % der Zeilen flaggte
 - Speicherort der Ausgabedateien
@@ -320,17 +320,17 @@ Strukturierte Tabelle (Markdown sitzungsintern + Excel/CSV als Dateien) + `revie
 |---|---|---|---|---|---|---|
 | Alpha-MSA | rahmenvertrag | Alpha GmbH | zustimmungserforderlich | zustimmungserforderlich | 12 Mio EUR | § 311 AktG geprüft — keine Beherrschungsklausel; CoC eindeutig |
 | Berlin-Miete | gewerberaummietvertrag | Vermieter XY GbR | keine_regelung | absolut (§ 354a HGB-Vorbehalt) | unbegrenzt | Indexmiete § 5(2): Klausel ⚠️ § 557b BGB-konform? prüfen |
-| Beta-Vendor | internationaler_vertrag | Beta Ltd | kuendigungsrecht_bei_coc | frei_uebertragbar | 5 Mio EUR | English law, LCIA-Schiedsverfahren — Zuständigkeitsfrage geklärt |
+| Beta-Vendor | internationaler_vertrag | Beta Ltd | kündigungsrecht_bei_coc | frei_übertragbar | 5 Mio EUR | English law, LCIA-Schiedsverfahren — Zuständigkeitsfrage geklärt |
 | K7-Nachtrag | anlage_nachtrag | (s. K6) | (s. K6) | (s. K6) | (s. K6) | Verweis auf K6 — separat zu lesen |
 | Gamma-SaaS | (eigener) | Gamma GmbH | zustimmungserforderlich | zustimmungserforderlich | 100% Jahresvergütung | Art. 28 IV DSGVO: Sub-AV-Erlaubnis ohne Vorabzustimmung ⚠️ |
 
 ## Risiken und typische Fehler
 
-- **Dokumente überspringen.** Jedes vom Nutzer benannte Dokument bekommt eine Zeile. Nicht lesbares Dokument: Zeile mit `pruefung_erforderlich`.
+- **Dokumente überspringen.** Jedes vom Nutzer benannte Dokument bekommt eine Zeile. Nicht lesbares Dokument: Zeile mit `prüfung_erforderlich`.
 - **Paraphrase als Zitat ausgeben.** Beweiskette = Kernwert. Wörtlichkeitsregel mechanisch.
 - **Zeilenprompt überschreibt Spaltenprompt.** Standard: Zeilenprompt **ergänzt**. Wenn der Spaltenprompt fragt „Was ist die Kündigungsfrist?", darf der Zeilenprompt nicht implizieren „Bei diesem Vertrag schauen wir keine Kündigungsfrist an". Bei Konflikt rückfragen.
 - **Schema nicht probetesten.** Vollständigkeitsdurchlauf mit fehlerhaftem Schema = verworfene Arbeit. Immer 3–5 Dokumente zuerst.
-- **Konfidenzwerte erfinden.** Kein numerischer Konfidenzwert. Stattdessen: `unklar` / `pruefung_erforderlich`-Zustände + verbatim Zitate als Konfidenz-Signal.
+- **Konfidenzwerte erfinden.** Kein numerischer Konfidenzwert. Stattdessen: `unklar` / `prüfung_erforderlich`-Zustände + verbatim Zitate als Konfidenz-Signal.
 - **§ 354a HGB ignorieren.** Abtretungsverbote zwischen Kaufleuten ggf. unwirksam — in Schema-Notizen vermerken.
 - **Zeilenprompt aus Erinnerung statt aus Fakten.** Wenn der Reviewer behauptet „dieser Vertrag ist ein Konzernvertrag" — Faktenlage muss aus dem Dokument belegt sein, nicht aus Vermutung.
 

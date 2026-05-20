@@ -10,37 +10,37 @@ description: Pflegt einen Mandanten- und Geschaeftspartner-Geburtstagsverteiler.
 ### Quellen
 
 - Mandantenstammdaten aus `mandantenakte-anlegen`.
-- Geschaeftspartner (Steuerberater Notar Sachverstaendige Kollegen).
-- Eingangsbedingung: ausdrueckliche oder konkludente Einwilligung des Empfaengers.
+- Geschäftspartner (Steuerberater Notar Sachverständige Kollegen).
+- Eingangsbedingung: ausdrückliche oder konkludente Einwilligung des Empfängers.
 
 ### Datenmodell
 
 ```yaml
 - name: Mueller, Hans
   geburtstag: 1972-08-15
-  funktion: Geschaeftsfuehrer Mueller GmbH (Mandant Aktenkreis 2026/0042)
+  funktion: Geschäftsführer Mueller GmbH (Mandant Aktenkreis 2026/0042)
   ansprache: foermlich  # foermlich / vornamen / locker
   versandweg: e-mail
   e-mail: hmueller@mueller-gmbh.de
   vorlauf-tage: 2
-  letzte-glueckwuensche: 2025-08-14
+  letzte-glückwünsche: 2025-08-14
   widerspruch-eingelegt: false
 ```
 
 ### Datenschutz
 
-- **Art. 6 Abs. 1 lit. f DSGVO** berechtigtes Interesse — Mandantenpflege ist allgemein zulaessig.
+- **Art. 6 Abs. 1 lit. f DSGVO** berechtigtes Interesse — Mandantenpflege ist allgemein zulässig.
 - **Widerspruchsrecht** beachten — auf Widerspruch hin Eintrag deaktivieren.
-- **Information bei Mandatsbeginn** (Datenschutzhinweis § 13 DSGVO) auf moegliche Glueckwunschsendungen.
-- **Verarbeitungsverzeichnis** nach Art. 30 DSGVO ergaenzen.
+- **Information bei Mandatsbeginn** (Datenschutzhinweis § 13 DSGVO) auf mögliche Glückwunschsendungen.
+- **Verarbeitungsverzeichnis** nach Art. 30 DSGVO ergänzen.
 
 ## Tagesbrief-Integration
 
 Im `sekretariats-tagesbrief` morgens Eintrag:
 
 ```
-Heute / in den naechsten Tagen Geburtstag:
-- 22.05.2026 Hans Mueller, Geschaeftsfuehrer Mueller GmbH — Glueckwunsch vorbereiten
+Heute / in den nächsten Tagen Geburtstag:
+- 22.05.2026 Hans Mueller, Geschäftsführer Mueller GmbH — Glückwunsch vorbereiten
 - 24.05.2026 RA Dr. Schulz, Kollege Kanzlei XYZ — kurze Mail
 ```
 
@@ -49,29 +49,29 @@ Heute / in den naechsten Tagen Geburtstag:
 ### Foermlich
 
 ```
-Betreff: Herzliche Glueckwuensche zum Geburtstag
+Betreff: Herzliche Glückwünsche zum Geburtstag
 
 Sehr geehrter Herr [Nachname],
 
-zu Ihrem heutigen Geburtstag uebermittle ich Ihnen meine besten persoenlichen
-Glueckwuensche. Ich wuensche Ihnen vor allem Gesundheit Zufriedenheit und
+zu Ihrem heutigen Geburtstag übermittle ich Ihnen meine besten persoenlichen
+Glückwünsche. Ich wünsche Ihnen vor allem Gesundheit Zufriedenheit und
 Erfolg im neuen Lebensjahr.
 
-Mit freundlichen Gruessen
+Mit freundlichen Grüßen
 [Anwalt]
 ```
 
-### Vertraut (langjaehriger Geschaeftspartner)
+### Vertraut (langjaehriger Geschäftspartner)
 
 ```
 Betreff: Alles Gute zum Geburtstag
 
 Lieber [Vorname],
 
-zu Ihrem heutigen Geburtstag herzliche Glueckwuensche. Vielen Dank fuer die
+zu Ihrem heutigen Geburtstag herzliche Glückwünsche. Vielen Dank für die
 gute und vertrauensvolle Zusammenarbeit im vergangenen Jahr.
 
-Beste Gruesse aus der Kanzlei
+Beste Grüße aus der Kanzlei
 [Anwalt]
 ```
 
@@ -79,7 +79,7 @@ Beste Gruesse aus der Kanzlei
 
 - Erfassung des Gruendungsdatums (Handelsregister) bei juristischen Personen als Mandanten.
 - 10 25 50 75 100 Jahre als Schwellen.
-- Bei runder Jahreszahl: persoenliche Glueckwunschkarte zusaetzlich zur E-Mail.
+- Bei runder Jahreszahl: persoenliche Glückwunschkarte zusätzlich zur E-Mail.
 
 ## Feiertagsversand
 
@@ -88,13 +88,13 @@ Beste Gruesse aus der Kanzlei
 
 ## Sicherheits-Check
 
-- Vor Versand: Empfaenger noch aktiv? Lebt noch? Mandat nicht beendet im Streit?
-- Bei Streit beendeten Mandaten: Eintrag manuell deaktivieren oder loeschen.
+- Vor Versand: Empfänger noch aktiv? Lebt noch? Mandat nicht beendet im Streit?
+- Bei Streit beendeten Mandaten: Eintrag manuell deaktivieren oder löschen.
 
 ## Audit
 
-- Letzte Versendung dokumentiert (vermeidet Doppelversand und ermoeglicht Auswertung).
-- Bei Widerspruch unverzueglich loeschen oder anonymisieren (DSGVO Art. 17).
+- Letzte Versendung dokumentiert (vermeidet Doppelversand und ermöglicht Auswertung).
+- Bei Widerspruch unverzueglich löschen oder anonymisieren (DSGVO Art. 17).
 
 ## Ausgabe
 

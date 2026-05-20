@@ -7,7 +7,7 @@ description: Zentrales Fristenbuch fuer die Kanzlei mit Haupt- und Vorfristen ue
 
 ## Pflicht
 
-Jede Kanzlei muss ein Fristenbuch fuehren — die Versaeumung einer Notfrist ist anwaltliche Pflichtverletzung mit Haftungsrisiko (§ 51 BRAO).
+Jede Kanzlei muss ein Fristenbuch fuehren — die Versäumung einer Notfrist ist anwaltliche Pflichtverletzung mit Haftungsrisiko (§ 51 BRAO).
 
 ## Zentralablage
 
@@ -23,9 +23,9 @@ Jede Kanzlei muss ein Fristenbuch fuehren — die Versaeumung einer Notfrist ist
   hauptfrist: 2026-04-15
   vorfrist-tage: 7
   vorfrist: 2026-04-06
-  zustaendig: RA Mueller
+  zuständig: RA Mueller
   status: offen
-  bemerkung: Berufungsbegruendung gemaess § 520 ZPO innerhalb von zwei Monaten
+  bemerkung: Berufungsbegründung gemäß § 520 ZPO innerhalb von zwei Monaten
 ```
 
 ## Fristarten und Standardfristen
@@ -34,19 +34,19 @@ Jede Kanzlei muss ein Fristenbuch fuehren — die Versaeumung einer Notfrist ist
 
 | Frist | Norm | Dauer |
 |---|---|---|
-| Klageerwiderung | § 276 ZPO | nach gerichtlicher Setzung (regelmaessig zwei Wochen Notfrist plus zwei Wochen weitere Frist) |
+| Klageerwiderung | § 276 ZPO | nach gerichtlicher Setzung (regelmäßig zwei Wochen Notfrist plus zwei Wochen weitere Frist) |
 | Berufung | § 517 ZPO | ein Monat ab Zustellung |
-| Berufungsbegruendung | § 520 ZPO | zwei Monate ab Zustellung |
+| Berufungsbegründung | § 520 ZPO | zwei Monate ab Zustellung |
 | Revision | § 548 ZPO | ein Monat |
-| Revisionsbegruendung | § 551 ZPO | zwei Monate |
+| Revisionsbegründung | § 551 ZPO | zwei Monate |
 | Sofortige Beschwerde | § 569 ZPO | zwei Wochen Notfrist |
-| Einspruch Versaeumnisurteil | § 339 ZPO | zwei Wochen Notfrist |
+| Einspruch Versäumnisurteil | § 339 ZPO | zwei Wochen Notfrist |
 
 ### Arbeitsgericht (ArbGG)
 
 | Frist | Norm | Dauer |
 |---|---|---|
-| Kuendigungsschutzklage | § 4 KSchG | drei Wochen Notfrist |
+| Kündigungsschutzklage | § 4 KSchG | drei Wochen Notfrist |
 | Berufung | § 66 ArbGG | ein Monat |
 
 ### Strafprozess (StPO)
@@ -55,7 +55,7 @@ Jede Kanzlei muss ein Fristenbuch fuehren — die Versaeumung einer Notfrist ist
 |---|---|---|
 | Berufung | § 314 StPO | eine Woche Notfrist |
 | Revision | § 341 StPO | eine Woche Notfrist |
-| Revisionsbegruendung | § 345 StPO | ein Monat |
+| Revisionsbegründung | § 345 StPO | ein Monat |
 | Beschwerde | § 311 StPO | eine Woche |
 
 ### Verwaltungsgericht (VwGO)
@@ -80,8 +80,8 @@ Jede Kanzlei muss ein Fristenbuch fuehren — die Versaeumung einer Notfrist ist
 
 ## Notfrist vs Beobachtungsfrist
 
-- **Notfristen** (Versaeumnis = Verlust): Berufung Revision Kuendigungsschutzklage. Vorfrist sieben Werktage.
-- **Beobachtungsfristen** (z. B. Vorlauf zur Stellungnahme): Vorfrist drei bis fuenf Werktage.
+- **Notfristen** (Versäumnis = Verlust): Berufung Revision Kündigungsschutzklage. Vorfrist sieben Werktage.
+- **Beobachtungsfristen** (z. B. Vorlauf zur Stellungnahme): Vorfrist drei bis fünf Werktage.
 
 ## Drei-Tages-Fiktionen
 
@@ -90,29 +90,29 @@ Jede Kanzlei muss ein Fristenbuch fuehren — die Versaeumung einer Notfrist ist
 - **§ 41 Abs. 2 VwVfG** Verwaltungsakt
 - **§ 37 Abs. 2 SGB X** Sozialleistungsbescheid
 
-Beim Eintragen automatisch beruecksichtigen — bei nachweislich frueherem Zugang Zugang massgeblich.
+Beim Eintragen automatisch berücksichtigen — bei nachweislich frueherem Zugang Zugang maßgeblich.
 
 ## Vorfristen
 
-- **Standard** fuenf Werktage vor Hauptfrist.
+- **Standard** fünf Werktage vor Hauptfrist.
 - **Notfristen** sieben Werktage.
-- **Berufungs-/Revisionsbegruendung** zehn Werktage (zwei-Monats-Fristen).
+- **Berufungs-/Revisionsbegründung** zehn Werktage (zwei-Monats-Fristen).
 
 ## Workflow
 
 1. **Eintragen** sofort bei Posteingang Bescheid Urteil Zustellung.
-2. **Kontrolle** durch Sekretariat **und** zustaendigen Anwalt (Vier-Augen-Prinzip).
+2. **Kontrolle** durch Sekretariat **und** zuständigen Anwalt (Vier-Augen-Prinzip).
 3. **Vorfrist** loest Eintrag im Tagesbrief aus (Skill `sekretariats-tagesbrief`).
 4. **Erledigung** mit Datum und Unterschrift / Initial.
-5. **Audit** bei jeder Aenderung Eintrag in Audit-Trail.
+5. **Audit** bei jeder Änderung Eintrag in Audit-Trail.
 
 ## Ausgabe
 
 - `fristenbuch.yaml` aktualisiert
-- `fristen-uebersicht.md` Tagesbericht naechste sieben und naechste vierzehn Tage
+- `fristen-übersicht.md` Tagesbericht nächste sieben und nächste vierzehn Tage
 - Vorfristen-Erinnerung in `sekretariats-tagesbrief`
-- Audit-Eintrag bei Aenderungen
+- Audit-Eintrag bei Änderungen
 
 ## Haftungshinweis
 
-Das Fristenbuch ist nur so gut wie seine Pflege. Die Letztverantwortung liegt beim Anwalt. Bei Versaeumnis Wiedereinsetzung pruefen (jeweilige Verfahrensordnung).
+Das Fristenbuch ist nur so gut wie seine Pflege. Die Letztverantwortung liegt beim Anwalt. Bei Versäumnis Wiedereinsetzung prüfen (jeweilige Verfahrensordnung).

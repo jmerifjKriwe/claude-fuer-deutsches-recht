@@ -341,7 +341,7 @@ drei Bedingungen vor dem Produktiveinsatz erforderlich."]
 
 **DSFA Art. 35 DSGVO erforderlich?** [Ja – Datenschutzrecht-Plugin ausführen / Nein]
 **FRIA Art. 27 KI-VO als separate Lieferung?** [Ja / Nein]
-**Vendor-AI-Review erforderlich?** [Ja – `/ki-governance:ki-anbieter-pruefung` / Nein]
+**Vendor-AI-Review erforderlich?** [Ja – `/ki-governance:ki-anbieter-prüfung` / Nein]
 
 **Freigabe:** [Name, Datum]
 

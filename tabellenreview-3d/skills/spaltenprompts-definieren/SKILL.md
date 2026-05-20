@@ -7,33 +7,33 @@ description: "Definiert die Spaltenprompts der ersten Wuerfel-Achse — jede Spa
 
 ## Zweck
 
-Die erste Wuerfel-Achse — Spalten — ist die wichtigste. Ein schlechter Spaltenprompt erzeugt schlechte Zellen ueber den gesamten Stapel. Dieser Skill kuratiert Spaltenprompts: aus Bibliothek waehlen, anpassen, neu schreiben.
+Die erste Würfel-Achse — Spalten — ist die wichtigste. Ein schlechter Spaltenprompt erzeugt schlechte Zellen über den gesamten Stapel. Dieser Skill kuratiert Spaltenprompts: aus Bibliothek wählen, anpassen, neu schreiben.
 
 ## Bibliothek (Auszug)
 
 ### M&A-Due-Diligence
 
-- **Change-of-Control:** "Enthaelt der Vertrag eine Klausel die bei Kontrollwechsel beim Vertragspartner Kuendigung Zustimmungspflicht oder Anpassung ausloest? Wenn ja woertliches Zitat mit Fundstelle und Ausloeseschwelle (z. B. mehr als 50 Prozent Anteile / 25 Prozent / Sperrminoritaet)."
-- **Abtretungsverbot:** "Ist die Abtretung von Rechten aus dem Vertrag ausgeschlossen oder zustimmungspflichtig? Wenn ja: nur Anspruch oder Vertragsuebernahme? Woertliches Zitat und Norm-Bezug (BGB Paragraph 399 / HGB Paragraph 354a)."
-- **MAC-Klausel:** "Enthaelt der Vertrag eine Material-Adverse-Change-Klausel? Wenn ja Definition der Wesentlichkeit und Rechtsfolge."
-- **Haftungsbegrenzung:** "Wie ist die Haftung beschraenkt? Pro Schadensfall und pro Vertragsjahr? Aussnahmen (Vorsatz grobe Fahrlaessigkeit Personenschaeden)?"
+- **Change-of-Control:** "Enthält der Vertrag eine Klausel die bei Kontrollwechsel beim Vertragspartner Kündigung Zustimmungspflicht oder Anpassung ausloest? Wenn ja woertliches Zitat mit Fundstelle und Ausloeseschwelle (z. B. mehr als 50 Prozent Anteile / 25 Prozent / Sperrminoritaet)."
+- **Abtretungsverbot:** "Ist die Abtretung von Rechten aus dem Vertrag ausgeschlossen oder zustimmungspflichtig? Wenn ja: nur Anspruch oder Vertragsübernahme? Woertliches Zitat und Norm-Bezug (BGB Paragraph 399 / HGB Paragraph 354a)."
+- **MAC-Klausel:** "Enthält der Vertrag eine Material-Adverse-Change-Klausel? Wenn ja Definition der Wesentlichkeit und Rechtsfolge."
+- **Haftungsbegrenzung:** "Wie ist die Haftung beschraenkt? Pro Schadensfall und pro Vertragsjahr? Aussnahmen (Vorsatz grobe Fahrlaessigkeit Personenschäden)?"
 
 ### Immobilien-Portfolio
 
-- **Abteilung II:** "Welche Lasten und Beschraenkungen sind in Abteilung II eingetragen? Pro Eintrag: Art Beguenstigter Rang und Loeschungserleichterung."
-- **Abteilung III:** "Welche Grundpfandrechte sind in Abteilung III eingetragen? Pro Eintrag: Betrag Glaeubiger Rang Brieftyp und Loeschungsbewilligung vorhanden ja oder nein."
+- **Abteilung II:** "Welche Lasten und Beschraenkungen sind in Abteilung II eingetragen? Pro Eintrag: Art Beguenstigter Rang und Löschungserleichterung."
+- **Abteilung III:** "Welche Grundpfandrechte sind in Abteilung III eingetragen? Pro Eintrag: Betrag Gläubiger Rang Brieftyp und Löschungsbewilligung vorhanden ja oder nein."
 - **Baulast:** "Ist im Baulastenverzeichnis eine Baulast verzeichnet? Inhalt und gegen wen wirksam (Baulasten existieren NICHT im Grundbuch)."
 
 ### Arbeitsvertrag
 
 - **Tarifbindung:** "Wird auf einen Tarifvertrag Bezug genommen? Wenn ja welcher Tarifvertrag in welcher Fassung statisch oder dynamisch?"
-- **Probezeit:** "Wie lange ist die Probezeit? Maximal 6 Monate nach BGB Paragraph 622 Absatz 3 zulaessig."
-- **Befristung:** "Ist der Vertrag befristet? Mit oder ohne Sachgrund? Falls ohne Sachgrund: Hoechstdauer 2 Jahre nach TzBfG Paragraph 14."
+- **Probezeit:** "Wie lange ist die Probezeit? Maximal 6 Monate nach BGB Paragraph 622 Absatz 3 zulässig."
+- **Befristung:** "Ist der Vertrag befristet? Mit oder ohne Sachgrund? Falls ohne Sachgrund: Höchstdauer 2 Jahre nach TzBfG Paragraph 14."
 
 ### Vendor-Onboarding
 
 - **AVV-Pflicht:** "Verarbeitet der Vendor personenbezogene Daten im Auftrag? Wenn ja liegt eine AVV nach DSGVO Artikel 28 vor und ist sie aktuell?"
-- **Exit-Klausel:** "Welche Pflichten treffen den Vendor bei Vertragsende (Datenherausgabe Loeschung Transition-Services)?"
+- **Exit-Klausel:** "Welche Pflichten treffen den Vendor bei Vertragsende (Datenherausgabe Löschung Transition-Services)?"
 
 ## Pflichtfelder pro Spalte
 
@@ -41,13 +41,13 @@ Die erste Wuerfel-Achse — Spalten — ist die wichtigste. Ein schlechter Spalt
 - id: change-of-control
   titel: "Change of Control"
   prompt: |
-    Enthaelt der Vertrag eine Klausel die bei Kontrollwechsel ...
+    Enthält der Vertrag eine Klausel die bei Kontrollwechsel ...
   antworttyp: zitat-mit-fundstelle
   pflichtfeld: true
   ampel-regel:
-    rot: "Klausel vorhanden + harte Kuendigungsfolge ohne Heilung"
+    rot: "Klausel vorhanden + harte Kündigungsfolge ohne Heilung"
     gelb: "Zustimmungsvorbehalt mit unklarer Schwelle"
-    gruen: "Keine Klausel oder branchenueblicher Standard"
+    gruen: "Keine Klausel oder branchenüblicher Standard"
 ```
 
 ## Ausgabe

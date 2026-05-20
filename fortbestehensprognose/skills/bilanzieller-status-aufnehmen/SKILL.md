@@ -7,10 +7,10 @@ description: Nimmt die bilanzielle Ausgangslage auf — Aktiva Passiva Eigenkapi
 
 ## Zweck
 
-Der **bilanzielle** Ueberschuldungsstatus ist die Voraussetzung um in die Pruefung der **insolvenzrechtlichen** Ueberschuldung nach § 19 Abs. 2 InsO einzusteigen. Beide Schritte sind zu trennen:
+Der **bilanzielle** Überschuldungsstatus ist die Voraussetzung um in die Prüfung der **insolvenzrechtlichen** Überschuldung nach § 19 Abs. 2 InsO einzusteigen. Beide Schritte sind zu trennen:
 
-1. **Bilanzieller Ueberschuldungsstatus** (Stichtagsbetrachtung). Aktiva kleiner als Passiva?
-2. **Insolvenzrechtliche Ueberschuldung** (§ 19 InsO). Nur wenn bilanzielle Ueberschuldung vorliegt UND keine positive Fortbestehensprognose.
+1. **Bilanzieller Überschuldungsstatus** (Stichtagsbetrachtung). Aktiva kleiner als Passiva?
+2. **Insolvenzrechtliche Überschuldung** (§ 19 InsO). Nur wenn bilanzielle Überschuldung vorliegt UND keine positive Fortbestehensprognose.
 
 ## Stichtagsbilanz
 
@@ -19,12 +19,12 @@ stichtag: 2026-05-20  # oder Bilanzstichtag des letzten Jahresabschlusses
 bilanzansatz: hgb  # hgb / ifrs / mischung
 
 aktiva:
-  a-anlagevermoegen:
+  a-anlagevermögen:
     immaterielle: 50000
     sachanlagen: 320000
     finanzanlagen: 0
-  b-umlaufvermoegen:
-    vorraete: 180000
+  b-umlaufvermögen:
+    vorräte: 180000
     forderungen-laul: 120000
     sonstige-forderungen: 15000
     fluessige-mittel: 18000
@@ -34,11 +34,11 @@ aktiva:
 passiva:
   a-eigenkapital:
     gezeichnetes-kapital: 25000
-    kapitalruecklage: 0
-    gewinnruecklagen: 0
+    kapitalrücklage: 0
+    gewinnrücklagen: 0
     bilanzergebnis: -107000  # negativ
     eigenkapital-summe: -82000  # negativ
-  b-rueckstellungen:
+  b-rückstellungen:
     pensionen: 0
     sonstige: 22000
   c-verbindlichkeiten:
@@ -50,13 +50,13 @@ passiva:
   d-rechnungsabgrenzung: 0
   passiva-summe: 708000
 
-bilanzielle-ueberschuldung: ja  # Aktiva = Passiva aber EK negativ = bilanzielle Ueberschuldung
-hoehe-bilanzielle-ueberschuldung: 82000
+bilanzielle-überschuldung: ja  # Aktiva = Passiva aber EK negativ = bilanzielle Überschuldung
+hoehe-bilanzielle-überschuldung: 82000
 ```
 
 ## Stille Reserven
 
-Vermoegenswerte deren Buchwert geringer ist als der Verkehrswert. Im Status zu addieren (heben die bilanzielle Ueberschuldung).
+Vermögenswerte deren Buchwert geringer ist als der Verkehrswert. Im Status zu addieren (heben die bilanzielle Überschuldung).
 
 ```yaml
 stille-reserven:
@@ -73,34 +73,34 @@ summe-stille-reserven: 175000
 
 ## Stille Lasten
 
-Verpflichtungen die in der Handelsbilanz nicht oder zu niedrig passiviert sind. Im Status zu addieren (verschaerfen die bilanzielle Ueberschuldung).
+Verpflichtungen die in der Handelsbilanz nicht oder zu niedrig passiviert sind. Im Status zu addieren (verschärfen die bilanzielle Überschuldung).
 
 ```yaml
 stille-lasten:
-  - position: Drohende Inanspruchnahme aus Buergschaft
+  - position: Drohende Inanspruchnahme aus Bürgschaft
     bilanziell: 0
     insolvenzrechtlich: 50000
-  - position: Pensionsrueckstellung Erfuellungsbetrag versus Bilanzwert
+  - position: Pensionsrückstellung Erfüllungsbetrag versus Bilanzwert
     bilanziell: 0
     insolvenzrechtlich: 30000
 summe-stille-lasten: 80000
 ```
 
-## Bereits qualifizierter Rangruecktritt
+## Bereits qualifizierter Rangrücktritt
 
-Forderungen mit qualifiziertem Rangruecktritt (§ 19 Abs. 2 S. 2 InsO) werden im Ueberschuldungsstatus **nicht passiviert**.
+Forderungen mit qualifiziertem Rangrücktritt (§ 19 Abs. 2 S. 2 InsO) werden im Überschuldungsstatus **nicht passiviert**.
 
 ```yaml
-qualifizierter-rangruecktritt:
-  - glaeubiger: Hauptgesellschafter Karl Mueller
+qualifizierter-rangrücktritt:
+  - gläubiger: Hauptgesellschafter Karl Mueller
     forderung: Gesellschafterdarlehen vom 15.03.2024
     nennbetrag: 120000
-    rangruecktritt-erklaert-am: 2026-05-22
-    rangruecktritt-form: notarielle Urkunde  # idealtypisch
-    bgh-konform: ja  # siehe Skill gesellschafterdarlehen-rangruecktritt
+    rangrücktritt-erklärt-am: 2026-05-22
+    rangrücktritt-form: notarielle Urkunde  # idealtypisch
+    bgh-konform: ja  # siehe Skill gesellschafterdarlehen-rangrücktritt
 ```
 
-## Insolvenzrechtlicher Ueberschuldungsstatus
+## Insolvenzrechtlicher Überschuldungsstatus
 
 ```
 Aktiva (Handelsbilanz)          708.000 EUR
@@ -109,27 +109,27 @@ Aktiva (Handelsbilanz)          708.000 EUR
 = Insolvenzrechtliche Aktiva    803.000 EUR
 
 Passiva (Handelsbilanz)         790.000 EUR  (Aktiva minus EK)
-- qualifizierter Rangruecktritt -120.000 EUR
+- qualifizierter Rangrücktritt -120.000 EUR
 = Insolvenzrechtliche Passiva   670.000 EUR
 
 Differenz                       133.000 EUR positiv
 ```
 
-Ergebnis: trotz **bilanzieller Ueberschuldung von 82.000 EUR** ist die **insolvenzrechtliche Bilanzbasis positiv** weil stille Reserven und Rangruecktritt dies neutralisieren. Reine Vermoegensbilanz **ist nicht ausreichend** — die Fortbestehensprognose ist zusaetzlich erforderlich (Skill `annahmen-sammeln-fortfuehrung`).
+Ergebnis: trotz **bilanzieller Überschuldung von 82.000 EUR** ist die **insolvenzrechtliche Bilanzbasis positiv** weil stille Reserven und Rangrücktritt dies neutralisieren. Reine Vermögensbilanz **ist nicht ausreichend** — die Fortbestehensprognose ist zusätzlich erforderlich (Skill `annahmen-sammeln-fortfuehrung`).
 
 ## Wichtige Hinweise
 
-- Bei **Personengesellschaften ohne natuerlich-personige Vollhafter** (z. B. GmbH und Co. KG mit ausschliesslich Komplementaer-GmbH) gilt § 19 InsO entsprechend.
-- Bei **Einzelkaufmann** oder Personengesellschaft mit natuerlich-personiger Vollhafter ist § 19 InsO **nicht anwendbar** — Insolvenzantragspflicht ergibt sich nur aus Zahlungsunfaehigkeit § 17 InsO.
-- Die Erstellung des Status ist **Geschaeftsleiter-Pflicht**. Bei Buchfuehrungsmaengeln (kein aktueller Stand kein Status moeglich) kommt **Bankrott** § 283b StGB in Betracht.
+- Bei **Personengesellschaften ohne natürlich-personige Vollhafter** (z. B. GmbH und Co. KG mit ausschließlich Komplementaer-GmbH) gilt § 19 InsO entsprechend.
+- Bei **Einzelkaufmann** oder Personengesellschaft mit natürlich-personiger Vollhafter ist § 19 InsO **nicht anwendbar** — Insolvenzantragspflicht ergibt sich nur aus Zahlungsunfähigkeit § 17 InsO.
+- Die Erstellung des Status ist **Geschäftsleiter-Pflicht**. Bei Buchfuehrungsmängeln (kein aktueller Stand kein Status möglich) kommt **Bankrott** § 283b StGB in Betracht.
 
 ## Rechtsprechung
 
-- BGH, Urt. v. 13.07.2017 — IX ZR 290/14, NJW 2017, 3373: Insolvenzrechtliche Ueberschuldung Anwendung des § 19 InsO neu (seit MoMiG 2008).
-- BGH, Urt. v. 18.10.2010 — II ZR 151/09, NZG 2010, 1393: Ueberschuldungsprognose.
+- BGH, Urt. v. 13.07.2017 — IX ZR 290/14, NJW 2017, 3373: Insolvenzrechtliche Überschuldung Anwendung des § 19 InsO neu (seit MoMiG 2008).
+- BGH, Urt. v. 18.10.2010 — II ZR 151/09, NZG 2010, 1393: Überschuldungsprognose.
 
 ## Ausgabe
 
-- `bilanzieller-status.yaml` mit Stichtag Bilanzwerten stillen Reserven Lasten Rangruecktritt und insolvenzrechtlicher Bilanzbasis.
+- `bilanzieller-status.yaml` mit Stichtag Bilanzwerten stillen Reserven Lasten Rangrücktritt und insolvenzrechtlicher Bilanzbasis.
 - Erste Ergebnisaussage (insolvenzrechtliche Bilanzbasis positiv / negativ).
 - Empfehlung: bei negativer Bilanzbasis ohne Aussicht auf Fortbestehensprognose **sofort** Insolvenzanwalt — § 15a InsO Sechs-Wochen-Frist beginnt zu laufen.

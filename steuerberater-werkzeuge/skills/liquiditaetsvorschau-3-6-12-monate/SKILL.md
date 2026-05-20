@@ -7,7 +7,7 @@ description: "Erstellt für eine GmbH/UG aus unstrukturierten Eingaben (Rechnung
 
 ## Powerplugin-Hinweis
 
-**Die vollständige, fachlich autarke Version dieses Skills lebt im Plugin Liquiditätsplanung (`liquiditaetsplanung`)** (Power-Plugin Liquiditätsvorschau) — mit BGH-Schema Passiva II (BGHZ 217, 129), Volumeneffekt der Quote, Bugwellenrspr. (BGH II ZR 112/21), 10-%-Schwelle (BGH IX ZR 48/21), titulierten Forderungen mit Nennwert (BGH IX ZR 229/22), objektiver Beurteilung (BGH II ZR 139/23), Excel-Vorlage, optionalem HTML-Padlet oder Markdown-Artefakt, Banking-Wahl und Memo-nur-auf-Anfrage. Wenn `liquiditaetsplanung` installiert ist, dorthin übergeben.
+**Die vollständige, fachlich autarke Version dieses Skills lebt im Plugin Liquiditätsplanung (`liquiditätsplanung`)** (Power-Plugin Liquiditätsvorschau) — mit BGH-Schema Passiva II (BGHZ 217, 129), Volumeneffekt der Quote, Bugwellenrspr. (BGH II ZR 112/21), 10-%-Schwelle (BGH IX ZR 48/21), titulierten Forderungen mit Nennwert (BGH IX ZR 229/22), objektiver Beurteilung (BGH II ZR 139/23), Excel-Vorlage, optionalem HTML-Padlet oder Markdown-Artefakt, Banking-Wahl und Memo-nur-auf-Anfrage. Wenn `liquiditätsplanung` installiert ist, dorthin übergeben.
 
 Wenn nicht installiert, hier nach dem Steuerberater-spezifischen Schema arbeiten und am Ende die Hinweispflicht nach § 102 StaRUG dokumentieren.
 
@@ -27,7 +27,7 @@ Dieser Skill erzeugt aus dem typischerweise vorhandenen, oft unstrukturierten Ma
 
 3. **Fortführungsprognose**: 12-Monats-Auswertung mit den **Kernelementen des IDW S 6** (siehe unten), abgegrenzt von einer reinen handelsbilanziellen Überschuldungsprognose. Liefert ein Ergebnis „positive Fortführungsprognose" / „negative Fortführungsprognose" mit Begründung.
 
-4. **Excel-Export**: Die Tabelle wird über `werkzeuge/build_liquiditaetsplan.py` als `liquiditaetsplan.xlsx` exportiert. Cloud-Bedienung über interaktive Tabelle möglich; Werte mit Excel-Formeln, nicht hartcodiert.
+4. **Excel-Export**: Die Tabelle wird über `werkzeuge/build_liquiditätsplan.py` als `liquiditätsplan.xlsx` exportiert. Cloud-Bedienung über interaktive Tabelle möglich; Werte mit Excel-Formeln, nicht hartcodiert.
 
 Anwendungsfälle: Krisen-GmbH/UG, Mittelstand mit Bugwellen-Liquidität, Vorbereitung Sanierungsgespräch mit Hausbank, Dokumentation Fortbestehensprognose für § 19 InsO, Vorbereitung StaRUG-Restrukturierungsverfahren, regelmäßige wöchentliche Geschäftsführer-Sitzung.
 
@@ -45,7 +45,7 @@ Strukturiert oder unstrukturiert; das Modell soll robust extrahieren:
 - **Geplante Investitionen/Desinvestitionen**: CapEx, Maschinenverkauf, Sale-and-Lease-back.
 - **Auftragsbestand**: zugesagte Aufträge mit Lieferzeitpunkt, voraussichtlichem Zahlungsziel, Abschlagszahlungen.
 - **Bankauszüge** der letzten 3–6 Monate (für saisonale Muster und Plausibilität).
-- **BWA und SuSa** (siehe Schwester-Skill `bwa-sus-bilanz-pruefung`).
+- **BWA und SuSa** (siehe Schwester-Skill `bwa-sus-bilanz-prüfung`).
 
 Wenn Daten lückenhaft sind: Annahmen explizit dokumentieren, sensitivitätsanalysieren (Best/Base/Worst).
 
@@ -123,14 +123,14 @@ Wenn Daten lückenhaft sind: Annahmen explizit dokumentieren, sensitivitätsanal
 - Ergebnis: **Insolvenzfähige Überschuldung** nur, wenn rechnerische Unterdeckung **und** negative Fortführungsprognose.
 
 **Schritt 7 – Excel-Export**
-- Aufruf `python werkzeuge/build_liquiditaetsplan.py --eingabe <mandant>.yaml --ausgabe liquiditaetsplan.xlsx`.
+- Aufruf `python werkzeuge/build_liquiditätsplan.py --eingabe <mandant>.yaml --ausgabe liquiditätsplan.xlsx`.
 - Drei Sheets (13W/26W/52W), Ampel via bedingter Formatierung, Lückenquote in Prozentformat, Formeln (`=SUMME(...)`, `=B5-C5`, kein Hartcoding).
 - Ergänzungssheet `Fortfuehrungsprognose` mit IDW-S-6-Matrix.
 - Ergänzungssheet `Annahmen` (alle Inputs nachvollziehbar).
 
 ## Ausgabeformat
 
-1. **Liquiditätsplan Excel** (`liquiditaetsplan.xlsx`) mit Sheets:
+1. **Liquiditätsplan Excel** (`liquiditätsplan.xlsx`) mit Sheets:
    - `13-Wochen` (Wochenraster, Ampel, 3-Wochen-Test)
    - `26-Wochen`
    - `52-Wochen` (ab Monat 4 monatlich aggregiert)
@@ -173,4 +173,4 @@ Alle Aussagen sind nach `references/zitierweise.md` zu belegen. Mindestens zwei 
 Siehe ergänzend:
 - `references/idw-s6-kernelemente.md` – Strukturmatrix Sanierungskonzept
 - `references/wochenraster-anleitung.md` – Aufbau und Buckets der Wochenplanung
-- `werkzeuge/build_liquiditaetsplan.py` – Excel-Generator (mit Beispiel-YAML)
+- `werkzeuge/build_liquiditätsplan.py` – Excel-Generator (mit Beispiel-YAML)

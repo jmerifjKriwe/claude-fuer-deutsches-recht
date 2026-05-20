@@ -17,26 +17,26 @@ description: Entwirft einen begruendeten Widerspruch gegen einen Sozialleistungs
 
 - Mandant mit Anschrift Geburtsdatum (sozialrechtlich relevant).
 - Anwalt mit Adresse beA-/EGVP-Adresse Aktenzeichen.
-- Empfangsbehoerde mit Adresse.
-- Bezug: Az der Behoerde Bescheid vom (Datum).
+- Empfangsbehörde mit Adresse.
+- Bezug: Az der Behörde Bescheid vom (Datum).
 
 ### 2. Antrag
 
 - "Hiermit lege ich gegen den Bescheid vom (Datum), Az (...), Widerspruch ein und beantrage:
   1. den angefochtenen Bescheid aufzuheben;
-  2. (oder) den Bescheid abzuaendern und mir Leistungen in voller Hoehe zuzuerkennen;
+  2. (oder) den Bescheid abzuändern und mir Leistungen in voller Höhe zuzuerkennen;
   3. hilfsweise Aussetzung der Vollziehung nach § 86a SGG;
-  4. Akteneinsicht in die Verwaltungsakte gemaess § 25 SGB X."
+  4. Akteneinsicht in die Verwaltungsakte gemäß § 25 SGB X."
 
-### 3. Begruendung
+### 3. Begründung
 
 Aus dem Analyseprotokoll uebernehmen:
 
-- Formelle Mangel zuerst (Anhoerung Begruendungs- und Rechtsbehelfsbelehrungsfehler).
+- Formelle Mangel zuerst (Anhörung Begründungs- und Rechtsbehelfsbelehrungsfehler).
 - Materielle Mangel sortiert nach Erfolgsaussicht.
 - Subsumtion zur konkreten Anspruchsgrundlage.
 - Rechtsprechung mit Pinpoint (BSG-Urteile mit Az und Rn).
-- Vorgreiflichkeit von Verfassungs- und Unionsrecht falls einschlaegig.
+- Vorgreiflichkeit von Verfassungs- und Unionsrecht falls einschlägig.
 
 ### 4. Beweis- und Anlagenverzeichnis
 
@@ -46,12 +46,12 @@ Verweis auf den Skill `anlagen-erstellen`. Anlagen W1 W2 W3 mit Inhaltsbeschreib
 
 - **Frist** ein Monat ab Bekanntgabe (§ 84 Abs. 1 SGG).
 - **Bei fehlender Rechtsbehelfsbelehrung** ein Jahr (§ 66 Abs. 2 SGG).
-- **Form** schriftlich oder zur Niederschrift bei der Behoerde.
-- **Versand** ueber beA (RA-Pflicht seit 01.01.2022) oder EGVP. Eingang am Tag der Uebertragung.
+- **Form** schriftlich oder zur Niederschrift bei der Behörde.
+- **Versand** über beA (RA-Pflicht seit 01.01.2022) oder EGVP. Eingang am Tag der Übertragung.
 
 ### 6. Vorfrist im Fristenbuch
 
-Drei Tage vor Fristablauf Vorfrist setzen ueber den Skill `fristenbuch-sozialrecht`.
+Drei Tage vor Fristablauf Vorfrist setzen über den Skill `fristenbuch-sozialrecht`.
 
 ## Ausgabe
 
@@ -61,8 +61,8 @@ Drei Tage vor Fristablauf Vorfrist setzen ueber den Skill `fristenbuch-sozialrec
 
 ## Versand-Check
 
-Vor Versand der Skill `versand-vor-check` aus dem Plugin `kanzlei-cowork`. Prueft PDF Inhalt Signatur Empfaengeradresse und Anlagenvollstaendigkeit.
+Vor Versand der Skill `versand-vor-check` aus dem Plugin `kanzlei-cowork`. Prüft PDF Inhalt Signatur Empfängeradresse und Anlagenvollständigkeit.
 
 ## Hinweis Aussetzung der Vollziehung
 
-Bei Bescheiden ueber Aufhebung Rueckforderung Sanktion: Widerspruch hat keine aufschiebende Wirkung wenn die Behoerde die sofortige Vollziehung angeordnet hat oder das Gesetz sie vorsieht (§ 86a Abs. 2 SGG). Hilfsantrag auf Aussetzung der Vollziehung an die Behoerde — bei Ablehnung Eilantrag § 86b SGG ans Sozialgericht (siehe Skill `eilantrag-sozialrecht`).
+Bei Bescheiden über Aufhebung Rückforderung Sanktion: Widerspruch hat keine aufschiebende Wirkung wenn die Behörde die sofortige Vollziehung angeordnet hat oder das Gesetz sie vorsieht (§ 86a Abs. 2 SGG). Hilfsantrag auf Aussetzung der Vollziehung an die Behörde — bei Ablehnung Eilantrag § 86b SGG ans Sozialgericht (siehe Skill `eilantrag-sozialrecht`).

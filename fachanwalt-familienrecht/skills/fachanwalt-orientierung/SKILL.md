@@ -3,13 +3,13 @@ name: fachanwalt-orientierung
 description: Orientierung im Familienrecht — FAO-Voraussetzungen Fachanwaltsbezeichnung Normen typische Mandate Fristen Standardliteratur. Light-Touch-Plugin fuer schnelle Verortung. Tiefe Bearbeitung erfordert weiterhin Fachanwalts- oder Notarexpertise. Familiengericht nach §§ 23a 23b GVG iVm FamFG Verfahren nach FamFG einschliesslich Scheidungsverbund (§ 137 FamFG) Sorgerecht Umgangsrecht Kindesunterhalt Ehegattenunterhalt Zugewinnausgleich Versorgungsausgleich.
 ---
 
-# Fachanwalt fuer Familienrecht — Orientierung
+# Fachanwalt für Familienrecht — Orientierung
 
 ## FAO-Voraussetzungen (§ 5 Abs. 1 FAO)
 
 - **Theoretischer Lehrgang** 120 Stunden (§ 4 FAO).
 - **Drei Klausuren** zum Familienrecht (§ 4a FAO).
-- **120 Faelle** in den letzten drei Jahren vor Antrag, davon mindestens 60 streitige Faelle (§ 5 FAO).
+- **120 Fälle** in den letzten drei Jahren vor Antrag, davon mindestens 60 streitige Fälle (§ 5 FAO).
 - **Anmeldung** bei der Rechtsanwaltskammer.
 
 ## Wichtige Normen
@@ -28,7 +28,7 @@ description: Orientierung im Familienrecht — FAO-Voraussetzungen Fachanwaltsbe
 - Scheidung im Verbund (Scheidung + Versorgungsausgleich + Folgesachen)
 - Sorgerechtsverfahren bei getrennt lebenden Eltern
 - Umgangsrechtsstreit
-- Kindesunterhalt nach Duesseldorfer Tabelle
+- Kindesunterhalt nach Düsseldorfer Tabelle
 - Ehegattenunterhalt (Trennungs- und nachehelicher Unterhalt)
 - Zugewinnausgleich
 - Ehevertrag und Scheidungsfolgenvereinbarung
@@ -39,7 +39,7 @@ description: Orientierung im Familienrecht — FAO-Voraussetzungen Fachanwaltsbe
 - **Beschwerde** § 63 FamFG — ein Monat.
 - **Sofortige Beschwerde** § 64 FamFG — zwei Wochen.
 - **Wiedereinsetzung** § 17 FamFG.
-- **Versorgungsausgleichs-Antraege** parallel zum Scheidungsverfahren.
+- **Versorgungsausgleichs-Anträge** parallel zum Scheidungsverfahren.
 - **Anfechtungsfristen** Vaterschaft § 1600b BGB — zwei Jahre ab Kenntnis.
 
 ## Hauptgericht
@@ -52,20 +52,20 @@ description: Orientierung im Familienrecht — FAO-Voraussetzungen Fachanwaltsbe
 
 - Wendl/Dose, Das Unterhaltsrecht in der familiengerichtlichen Praxis.
 - Schwab, Familienrecht.
-- MueKoBGB Familienrecht.
+- MüKoBGB Familienrecht.
 - BeckOK BGB Familienrecht.
 - Johannsen/Henrich, Familienrecht.
 
 ## Berufsverband
 
 - Deutscher Anwaltverein DAV Arbeitsgemeinschaft Familienrecht.
-- Deutsche Gesellschaft fuer Familienrecht.
+- Deutsche Gesellschaft für Familienrecht.
 
 ## Schnittstellen zu anderen Plugins
 
-- **kanzlei-cowork** fuer Fristenbuch Timesheet Versand-Vor-Check.
+- **kanzlei-cowork** für Fristenbuch Timesheet Versand-Vor-Check.
 - **methodenlehre-deutsches-recht** und **zitierweise-deutsches-recht** als Hausstandards.
 
 ## Hinweis
 
-Dieses Plugin liefert nur die Orientierung. Tiefe Mandatsbearbeitung erfordert die Expertise des Fachanwalts fuer Familienrecht.
+Dieses Plugin liefert nur die Orientierung. Tiefe Mandatsbearbeitung erfordert die Expertise des Fachanwalts für Familienrecht.

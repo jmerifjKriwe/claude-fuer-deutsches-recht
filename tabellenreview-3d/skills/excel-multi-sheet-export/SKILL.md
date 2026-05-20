@@ -7,7 +7,7 @@ description: "Exportiert den dreidimensionalen Wuerfel in eine einzige Excel-Dat
 
 ## Zweck
 
-Excel ist das Lingua Franca der Mandatsuebergabe. Der 3D-Wuerfel wird in Excel nativ abgebildet: jedes Arbeitsblatt ist ein Tabellenreiter — genau das was die dritte Dimension visuell darstellt.
+Excel ist das Lingua Franca der Mandatsübergabe. Der 3D-Würfel wird in Excel nativ abgebildet: jedes Arbeitsblatt ist ein Tabellenreiter — genau das was die dritte Dimension visuell darstellt.
 
 ## Aufbau der Excel-Datei
 
@@ -18,52 +18,52 @@ Jede Tabelle hat dieselbe Struktur:
 - Spalten: aus `spaltenprompts.yaml` plus Arbeitsblatt-spezifische Zusatzspalten
 - Zellinhalt: Antwort + woertliches Zitat + Fundstelle (Datei-ID + Seite + Absatz)
 - Zell-Hintergrundfarbe: rot / gelb / gruen aus Ampel
-- Zell-Kommentar: Pruefer-Flag (falls gesetzt) und Prompt-Version
+- Zell-Kommentar: Prüfer-Flag (falls gesetzt) und Prompt-Version
 
-### Reiter 'Uebersicht'
+### Reiter 'Übersicht'
 
-- Wuerfel-Gesamtampel oben
+- Würfel-Gesamtampel oben
 - Arbeitsblatt-Ampel pro Reiter
 - Spalten-Hotspots (Top-N)
-- Pruefer-Flag-Anzahl
+- Prüfer-Flag-Anzahl
 
 ### Reiter 'Hotspots'
 
-Pro Spalte: Anzahl rot / gelb / gruen ueber den Stapel. Sortiert absteigend nach Rot-Anteil.
+Pro Spalte: Anzahl rot / gelb / gruen über den Stapel. Sortiert absteigend nach Rot-Anteil.
 
 ### Reiter 'Widersprueche'
 
-Aus `kreuzblatt-konsistenzpruefung`. Spalten: Zeile-ID, Spalte, Arbeitsblatt-A-Antwort, Arbeitsblatt-B-Antwort, Konflikt-Klassifikation, empfohlene Aktion.
+Aus `kreuzblatt-konsistenzprüfung`. Spalten: Zeile-ID, Spalte, Arbeitsblatt-A-Antwort, Arbeitsblatt-B-Antwort, Konflikt-Klassifikation, empfohlene Aktion.
 
-### Reiter 'Pruefer-Flags'
+### Reiter 'Prüfer-Flags'
 
-Liste aller Zellen mit Pruefer-Flag. Spalten: Zeile, Arbeitsblatt, Spalte, Grund (OCR-Konfidenz / Mehrdeutigkeit / Hash-Bruch / Konflikt), Antwortvorschlag, Pruefer-Entscheidung (leer).
+Liste aller Zellen mit Prüfer-Flag. Spalten: Zeile, Arbeitsblatt, Spalte, Grund (OCR-Konfidenz / Mehrdeutigkeit / Hash-Bruch / Konflikt), Antwortvorschlag, Prüfer-Entscheidung (leer).
 
 ### Reiter 'Belegkette'
 
-Tabelle aller Dokumente mit: Datei-ID, Pfad, SHA-256-Hash, Seitenzahl, OCR-Konfidenz. Damit ist jede Fundstelle im Wuerfel rueckverfolgbar auf den exakten Dateistand.
+Tabelle aller Dokumente mit: Datei-ID, Pfad, SHA-256-Hash, Seitenzahl, OCR-Konfidenz. Damit ist jede Fundstelle im Würfel rückverfolgbar auf den exakten Dateistand.
 
 ### Reiter 'Prompt-Versionen'
 
-Spalten-Prompts und Zeilen-Prompts mit jeweiliger Version-ID und Aenderungsdatum (aus `prompt-versionierung`). Damit ist jede Zelle reproduzierbar.
+Spalten-Prompts und Zeilen-Prompts mit jeweiliger Version-ID und Änderungsdatum (aus `prompt-versionierung`). Damit ist jede Zelle reproduzierbar.
 
 ### Reiter 'Audit-Trail'
 
-Reviewlauf-Zeitstempel, verwendete Modell-Version, Laufdauer, Anzahl Zellen, Anzahl Cache-Treffer, Pruefer-Abnahme-Status. Aus `audit-trail-protokoll`.
+Reviewlauf-Zeitstempel, verwendete Modell-Version, Laufdauer, Anzahl Zellen, Anzahl Cache-Treffer, Prüfer-Abnahme-Status. Aus `audit-trail-protokoll`.
 
 ## Technische Hinweise
 
 - Format: `.xlsx`
-- Bedingte Formatierung fuer Ampel-Farben
-- Zell-Kommentare fuer Pruefer-Flags
+- Bedingte Formatierung für Ampel-Farben
+- Zell-Kommentare für Prüfer-Flags
 - Hyperlinks von 'Fundstelle' zur Datei (relativ zum Projektordner)
 - Spalte einfrieren (`Zeile-ID`) und Kopfzeile einfrieren
 
 ## Ausgabe
 
-- `<projekt>-wuerfel.xlsx` mit allen Reitern
-- `<projekt>-wuerfel-anhang.zip` (optional) mit allen referenzierten Quelldokumenten zur autarken Mandantenuebergabe (Achtung: Geheimhaltungs- und DSGVO-Pflichten beachten)
+- `<projekt>-würfel.xlsx` mit allen Reitern
+- `<projekt>-würfel-anhang.zip` (optional) mit allen referenzierten Quelldokumenten zur autarken Mandantenübergabe (Achtung: Geheimhaltungs- und DSGVO-Pflichten beachten)
 
 ## Grenzen
 
-Excel kann grosse Stapel handeln; ab 100.000 Zellen sind PDF und CSV pro Reiter zu erwaegen (siehe Skill `pdf-bericht-erzeugen`).
+Excel kann grosse Stapel handeln; ab 100.000 Zellen sind PDF und CSV pro Reiter zu erwägen (siehe Skill `pdf-bericht-erzeugen`).

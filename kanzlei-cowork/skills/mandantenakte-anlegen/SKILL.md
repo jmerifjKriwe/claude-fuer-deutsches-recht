@@ -5,14 +5,14 @@ description: Legt eine Mandantenakte nach Kanzleikonvention an. Erfasst Stammdat
 
 # Mandantenakte anlegen
 
-## Konfliktpruefung (§ 43a Abs. 4 BRAO)
+## Konfliktprüfung (§ 43a Abs. 4 BRAO)
 
 **Vor jeder Mandatsannahme** Pflichtschritt:
 
-- Pruefung im Mandantenstamm ob Mandat gegen einen bisherigen oder laufenden Mandanten der Kanzlei.
-- Pruefung ob Mandatsannahme gegen § 3 BORA (widerstreitende Interessen) verstoesst.
-- Bei Konflikt: Mandat ablehnen oder schriftliches Einverstaendnis aller Betroffenen.
-- Pruefer-Eintrag mit Datum Initialen.
+- Prüfung im Mandantenstamm ob Mandat gegen einen bisherigen oder laufenden Mandanten der Kanzlei.
+- Prüfung ob Mandatsannahme gegen § 3 BORA (widerstreitende Interessen) verstoesst.
+- Bei Konflikt: Mandat ablehnen oder schriftliches Einverständnis aller Betroffenen.
+- Prüfer-Eintrag mit Datum Initialen.
 
 ## Aktennummernsystem
 
@@ -22,7 +22,7 @@ Empfehlung:
 
 oder
 
-`<RG>-<Jahr>-<Nr>` (z. B. `Z-2026-0042` fuer Zivilrecht).
+`<RG>-<Jahr>-<Nr>` (z. B. `Z-2026-0042` für Zivilrecht).
 
 ## Verzeichnisstruktur
 
@@ -35,10 +35,10 @@ Unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-cowork/manda
   vollmacht-unterschrieben.pdf
   datenschutzhinweis.md
   gwg-identifizierung.pdf
-  konfliktpruefung.md
+  konfliktprüfung.md
   honorarvereinbarung.docx (falls Vereinbarung)
 02_eingaenge/
-03_schriftsaetze/
+03_schriftsätze/
 04_anlagen/
 05_fristen/
 06_honorar/
@@ -55,37 +55,37 @@ _archiv/
 ```yaml
 mandat-az: 2026/0042
 mandat-eroeffnet: 2026-05-20
-zustaendiger-anwalt: RA Mueller
+zuständiger-anwalt: RA Mueller
 sekretariat: Frau Schmidt
 
 mandant:
-  typ: juristische-person  # juristische-person / natuerliche-person / ehepaare-vergleichsweise
+  typ: juristische-person  # juristische-person / natürliche-person / ehepaare-vergleichsweise
   name: Mueller GmbH
   anschrift: ...
   rechtsform: GmbH
-  vertretungsberechtigte: Hans Mueller (Geschaeftsfuehrer)
-  registergericht: HRB ... AG Muenchen
+  vertretungsberechtigte: Hans Mueller (Geschäftsführer)
+  registergericht: HRB ... AG München
   ust-id: DE...
   steuernummer: ...
 
 ansprechpartner:
   name: Hans Mueller
-  funktion: Geschaeftsfuehrer
+  funktion: Geschäftsführer
   telefon: ...
   e-mail: ...
 
 mandatsumfang:
   beschreibung: Verteidigung in Zivilrechtsstreit gegen ABC GmbH (Klage)
   rechtsgebiet: Zivilrecht / Vertragsrecht
-  instanz: 1. Instanz LG Muenchen
+  instanz: 1. Instanz LG München
   streitwert: 35.000 EUR
 
 honorar:
   basis: rvg  # rvg / vereinbarung
   stundensatz: 320  # bei Vereinbarung
-  pkh-pruefung: nein
+  pkh-prüfung: nein
 
-konfliktpruefung:
+konfliktprüfung:
   erfolgt-am: 2026-05-20
   ergebnis: kein-konflikt
   geprueft-von: RA Mueller
@@ -96,9 +96,9 @@ konfliktpruefung:
 Vollmachtstext mit:
 
 - Beauftragung des Rechtsanwalts der Kanzlei.
-- Mandatsumfang konkret bezeichnet (Vorverfahren Klage Vergleich auch ueber Klageweg hinaus).
+- Mandatsumfang konkret bezeichnet (Vorverfahren Klage Vergleich auch über Klageweg hinaus).
 - Untervollmacht und Substituierung.
-- Empfangsvollmacht fuer Zustellungen.
+- Empfangsvollmacht für Zustellungen.
 - beA-Vollmacht.
 - Datum und Unterschrift des Mandanten.
 
@@ -106,21 +106,21 @@ Vollmachtstext mit:
 
 Standardhinweis mit:
 
-- Identitaet des Verantwortlichen (Kanzlei).
-- Zweck der Verarbeitung (Mandatsdurchfuehrung).
+- Identität des Verantwortlichen (Kanzlei).
+- Zweck der Verarbeitung (Mandatsdurchführung).
 - Rechtsgrundlage (Art. 6 Abs. 1 lit. b DSGVO + § 50 BRAO Aktenfuehrung).
-- Empfaenger (Gericht Behoerde Steuerberater Gegenseite — je nach Bedarf).
+- Empfänger (Gericht Behörde Steuerberater Gegenseite — je nach Bedarf).
 - Speicherdauer (mindestens 6 Jahre nach Mandatsende § 50 Abs. 1 BRAO).
-- Betroffenenrechte (Auskunft Berichtigung Loeschung Widerspruch).
+- Betroffenenrechte (Auskunft Berichtigung Löschung Widerspruch).
 
 ## Geldwaesche-Identifizierung (§§ 10 11 GwG)
 
 Bei Mandaten die unter GwG fallen (z. B. Immobilientransaktionen Bargeldgeschaefte ab Schwellenwert):
 
-- Identifizierung der natuerlichen Person mit Lichtbildausweis Kopie.
+- Identifizierung der natürlichen Person mit Lichtbildausweis Kopie.
 - Bei juristischer Person Registerauszug HRB plus wirtschaftlich Berechtigte nach Transparenzregister.
-- Pruefung gegen Sanktionslisten EU und nationale.
-- Pruefer-Eintrag mit Datum Initialen.
+- Prüfung gegen Sanktionslisten EU und nationale.
+- Prüfer-Eintrag mit Datum Initialen.
 
 ## Mandantenstamm-Eintrag
 
@@ -133,17 +133,17 @@ In `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-cowork/mandante
   mandate:
     - 2026/0042
   konfliktstatus: kein-konflikt
-  letzte-pruefung: 2026-05-20
+  letzte-prüfung: 2026-05-20
 ```
 
 ## Audit
 
 - Aktenanlage mit Audit-Eintrag (Datum Anwalt Sekretariat).
-- Aenderungen mit Audit-Trail.
+- Änderungen mit Audit-Trail.
 
 ## Ausgabe
 
-- Vollstaendige Aktenstruktur.
+- Vollständige Aktenstruktur.
 - Mandatsblatt und Pflichtdokumente.
 - Eintrag im Mandantenstamm.
 - Hinweis ans Fristenbuch falls Fristen sofort relevant.

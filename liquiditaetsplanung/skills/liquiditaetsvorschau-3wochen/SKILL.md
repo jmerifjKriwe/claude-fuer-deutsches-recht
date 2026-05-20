@@ -7,7 +7,7 @@ description: "Wochenaktuelle Drei-Wochen-Liquiditätsvorschau nach § 17 InsO. E
 
 ## Zweck
 
-Dieser Skill erstellt für eine GmbH/UG/AG/Einzelunternehmen eine **wochenaktuelle Drei-Wochen-Liquiditätsvorschau** und wendet das BGH-Schema zur Zahlungsunfähigkeit (§ 17 InsO) darauf an. Das Standardergebnis ist eine **Excel-Tabelle nach der hinterlegten Vorlage** (`assets/excel/Liquiditaetsplan-Wochenbasis.xlsx`) auf Wochenbasis (Freitag = Wochenstichtag). Zusätzlich auf Nutzerwunsch ein **interaktives HTML-Padlet** oder ein **Markdown-Artefakt**, das im Verlauf des Gesprächs fortlaufend gepflegt wird. Ein Memo wird **nur auf ausdrückliche Anfrage** erstellt.
+Dieser Skill erstellt für eine GmbH/UG/AG/Einzelunternehmen eine **wochenaktuelle Drei-Wochen-Liquiditätsvorschau** und wendet das BGH-Schema zur Zahlungsunfähigkeit (§ 17 InsO) darauf an. Das Standardergebnis ist eine **Excel-Tabelle nach der hinterlegten Vorlage** (`assets/excel/Liquiditätsplan-Wochenbasis.xlsx`) auf Wochenbasis (Freitag = Wochenstichtag). Zusätzlich auf Nutzerwunsch ein **interaktives HTML-Padlet** oder ein **Markdown-Artefakt**, das im Verlauf des Gesprächs fortlaufend gepflegt wird. Ein Memo wird **nur auf ausdrückliche Anfrage** erstellt.
 
 Anwendungsfälle:
 
@@ -56,7 +56,7 @@ Banking-Frage nach Abschnitt *Bezugsquellen der Eingabedaten* stellen. Erst dana
 **Schritt 3 — Stichtag und Wochenraster**
 - Stichtag = Montag der laufenden KW *t*.
 - Wochenraster: KW *t*, *t+1*, *t+2* mit Freitag als Wochenstichtag. Die Vorschau zeigt für jede Woche: Liquidität Wochenanfang (Montag), Σ Einnahmen, Σ Ausgaben, Cashflow, Liquidität Wochenende (Freitag).
-- Spaltenformat wie in der Vorlage `Liquiditaetsplan-Wochenbasis.xlsx`: Kategorien-Zeilen × KW-Spalten, keine andere Anordnung.
+- Spaltenformat wie in der Vorlage `Liquiditätsplan-Wochenbasis.xlsx`: Kategorien-Zeilen × KW-Spalten, keine andere Anordnung.
 
 **Schritt 4 — BGH-Test § 17 InsO (Liquiditätsbilanz)**
 - Aktiva I = Bank + Kasse + freier zugesagter Kontokorrent (zum Stichtag).
@@ -77,9 +77,9 @@ Banking-Frage nach Abschnitt *Bezugsquellen der Eingabedaten* stellen. Erst dana
 Deckungsgrad = Offene Forderungen gesamt ÷ Liquiditätslücke (absolut). Titulierte Forderungen, bei denen die Vollstreckung läuft, in Höhe des Nennwerts berücksichtigen — BGH, Urt. v. 23.01.2025 – IX ZR 229/22.
 
 **Schritt 7 — Ergebnis ausliefern**
-- **Immer**: Excel-Datei `Liquiditaetsplan-<Firma>-KW<t>.xlsx` aus der Vorlage befüllen. Sheet `Liquiditaetsplan` (Werte und Wochenraster) und Sheet `BGH-Schema` (Erläuterungs-Sheet) unverändert lassen.
-- **Wenn HTML-Padlet gewählt**: zusätzlich `liquiditaets-padlet-<Firma>-KW<t>.html` aus `assets/padlet/liquiditaets-padlet.html` ableiten, in `localStorage` werden die Eingaben gespeichert und die Datei kann offline genutzt werden.
-- **Wenn Markdown-Artefakt gewählt**: `liquiditaets-artefakt-<Firma>-KW<t>.md` auf Basis von `assets/markdown/liquiditaets-artefakt-vorlage.md` ausfüllen.
+- **Immer**: Excel-Datei `Liquiditätsplan-<Firma>-KW<t>.xlsx` aus der Vorlage befüllen. Sheet `Liquiditätsplan` (Werte und Wochenraster) und Sheet `BGH-Schema` (Erläuterungs-Sheet) unverändert lassen.
+- **Wenn HTML-Padlet gewählt**: zusätzlich `liquiditäts-padlet-<Firma>-KW<t>.html` aus `assets/padlet/liquiditäts-padlet.html` ableiten, in `localStorage` werden die Eingaben gespeichert und die Datei kann offline genutzt werden.
+- **Wenn Markdown-Artefakt gewählt**: `liquiditäts-artefakt-<Firma>-KW<t>.md` auf Basis von `assets/markdown/liquiditäts-artefakt-vorlage.md` ausfüllen.
 - Bei jeder Folgemeldung des Nutzers (weitere Belege, Beträge, Korrekturen, neue Indizien) das gewählte Artefakt-Format aktualisieren und die neue Version unter demselben Asset-Namen liefern.
 
 **Schritt 8 — Memo (nur auf Anfrage)**
@@ -90,7 +90,7 @@ Erst nach Auslieferung der Vorschau anbieten:
 Das Memo enthält bei Zustimmung: Sachverhalt, rechtliche Grundlagen, Liquiditätsbilanz tabellarisch, Quotenberechnung, Subsumtion nach BGH BGHZ 217, 129 Rn. 24 ff. und BGHZ 163, 134 Rn. 12 ff., Indizienwürdigung, Ergebnis, Handlungsempfehlung. Maximal zwei Seiten. Format DOCX oder Markdown nach Nutzerwunsch.
 
 **Schritt 9 — Eskalation**
-Bei 🔴: ausdrücklich auf die Skills `zahlungsunfaehigkeit-pruefung-17-inso` und `antragspflicht-15a-inso` aus dem Plugin `insolvenzrecht` hinweisen und — falls Steuerberatermandat — den Hinweis nach § 102 StaRUG textbausteinartig formulieren. Die 3-Wochen-Frist § 15a InsO läuft ab tatsächlichem Eintritt der Zahlungsunfähigkeit, nicht ab Erstellung des Plans.
+Bei 🔴: ausdrücklich auf die Skills `zahlungsunfähigkeit-prüfung-17-inso` und `antragspflicht-15a-inso` aus dem Plugin `insolvenzrecht` hinweisen und — falls Steuerberatermandat — den Hinweis nach § 102 StaRUG textbausteinartig formulieren. Die 3-Wochen-Frist § 15a InsO läuft ab tatsächlichem Eintritt der Zahlungsunfähigkeit, nicht ab Erstellung des Plans.
 
 ## Rechtlicher Rahmen
 
@@ -128,9 +128,9 @@ Zitierweise: Pinpoint mit Randnummer; Reihenfolge BGH-Datum (jüngere zuerst), k
 
 ## Ausgabeformat
 
-1. **Excel** auf Basis der Vorlage `assets/excel/Liquiditaetsplan-Wochenbasis.xlsx`: Wochenraster KW *t*…*t+15* in Spalten (Vorgabe beibehalten), BGH-Block ab Zeile 42 mit Aktiva I/II, Passiva I/II, Lücke abs., Lücke %, Ampel; Block „Offene Forderungen" und Hinweise zur BGH-Rechtsprechung. Datei wird unter dem Namen `Liquiditaetsplan-<Firma>-KW<t>.xlsx` zurückgegeben.
-2. **HTML-Padlet** (auf Wunsch): autarke single-file HTML aus `assets/padlet/liquiditaets-padlet.html`, das im Browser lebt, im `localStorage` speichert und auf JSON exportiert/importiert werden kann. Editierbare Felder rechnen die Ampel live nach BGH-Schema. KW-Header werden aus der eingegebenen KW abgeleitet.
-3. **Markdown-Artefakt** (auf Wunsch): Vorlage `assets/markdown/liquiditaets-artefakt-vorlage.md`, mit Tabellen, Indizienliste und Kurzfazit, das bei jeder Folgemeldung neu geschrieben wird.
+1. **Excel** auf Basis der Vorlage `assets/excel/Liquiditätsplan-Wochenbasis.xlsx`: Wochenraster KW *t*…*t+15* in Spalten (Vorgabe beibehalten), BGH-Block ab Zeile 42 mit Aktiva I/II, Passiva I/II, Lücke abs., Lücke %, Ampel; Block „Offene Forderungen" und Hinweise zur BGH-Rechtsprechung. Datei wird unter dem Namen `Liquiditätsplan-<Firma>-KW<t>.xlsx` zurückgegeben.
+2. **HTML-Padlet** (auf Wunsch): autarke single-file HTML aus `assets/padlet/liquiditäts-padlet.html`, das im Browser lebt, im `localStorage` speichert und auf JSON exportiert/importiert werden kann. Editierbare Felder rechnen die Ampel live nach BGH-Schema. KW-Header werden aus der eingegebenen KW abgeleitet.
+3. **Markdown-Artefakt** (auf Wunsch): Vorlage `assets/markdown/liquiditäts-artefakt-vorlage.md`, mit Tabellen, Indizienliste und Kurzfazit, das bei jeder Folgemeldung neu geschrieben wird.
 4. **Memo** (nur auf Anfrage): Kurz-Gutachten im Gutachtenstil, höchstens zwei Seiten, DOCX oder Markdown nach Wahl.
 
 ## Beispiel
@@ -144,7 +144,7 @@ Zitierweise: Pinpoint mit Randnummer; Reihenfolge BGH-Datum (jüngere zuerst), k
 - Liquidität Wochenende KW 23: Start 30.500 € − Σ CF (− 61.500 + 14.400 − 21.500 + 9.500 − 17.600) = −46.200 €.
 - Ampel: 🔴 — Quote ≥ 10 % und Liquidität am Freitag KW 23 negativ. Damit Zahlungsunfähigkeit § 17 InsO indiziert ab KW 21 — BGH BGHZ 217, 129 Rn. 24 ff.; BGHZ 163, 134 Rn. 12 ff.
 
-**Handlung**: Übergabe an `antragspflicht-15a-inso` und `zahlungsunfaehigkeit-pruefung-17-inso`. Bei Steuerberatermandat Hinweis nach § 102 StaRUG dokumentieren. Die 3-Wochen-Frist § 15a InsO läuft ab tatsächlichem Eintritt.
+**Handlung**: Übergabe an `antragspflicht-15a-inso` und `zahlungsunfähigkeit-prüfung-17-inso`. Bei Steuerberatermandat Hinweis nach § 102 StaRUG dokumentieren. Die 3-Wochen-Frist § 15a InsO läuft ab tatsächlichem Eintritt.
 
 ## Typische Fehler
 
@@ -164,8 +164,8 @@ Mindestens zwei BGH-Belege (jüngere zuerst) und zwei Kommentarbelege im Bearbei
 
 Bei 🔴 sofort:
 
-- `zahlungsunfaehigkeit-pruefung-17-inso` (Plugin `insolvenzrecht`) — formales Prüfgutachten und gerichtsfester Liquiditätsstatus.
+- `zahlungsunfähigkeit-prüfung-17-inso` (Plugin `insolvenzrecht`) — formales Prüfgutachten und gerichtsfester Liquiditätsstatus.
 - `antragspflicht-15a-inso` (Plugin `insolvenzrecht`) — Fristenlauf, Haftung Geschäftsleiter, § 15b InsO Zahlungsverbote.
-- `liquiditaetsvorschau-insolvenzrechtlich` (dieses Plugin) — Liquiditätsbilanz als Beweismittel mit IDW-S-11-Würdigung.
+- `liquiditätsvorschau-insolvenzrechtlich` (dieses Plugin) — Liquiditätsbilanz als Beweismittel mit IDW-S-11-Würdigung.
 
-Für die mittel- und langfristige Sicht: Schwester-Skill `liquiditaetsvorschau-3-6-12-monate` (dieses Plugin).
+Für die mittel- und langfristige Sicht: Schwester-Skill `liquiditätsvorschau-3-6-12-monate` (dieses Plugin).

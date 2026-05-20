@@ -72,14 +72,14 @@ schuldner:
   anschrift: ""
   hrb: ""
   passivlegitimation_geklaert: true/false
-schuldverhaeltnis:
+schuldverhältnis:
   entstehungsgrund: ""
   vertrag_vorhanden: true/false
   anlage: ""
 forderung:
   art: ""
   hauptbetrag: 0.00
-  faelligkeit: ""
+  fälligkeit: ""
   bisherige_mahnungen: []
   verzugszinsen_p_a: "5% / 9% über Basiszinssatz"
   anwaltskosten: 0.00

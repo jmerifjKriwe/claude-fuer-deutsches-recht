@@ -114,7 +114,7 @@ Kanzleiprofil.
 **Beispiele:**
 
 - *Haftungsobergrenze Fallback 12 Monate → 6 Monate:*
-  „`/vertragsrecht:vertragspruefung` kennzeichnet künftig alles über 6 Monate als
+  „`/vertragsrecht:vertragsprüfung` kennzeichnet künftig alles über 6 Monate als
   Abweichung; bereits protokollierte Verhandlungsergebnisse bleiben unverändert."
 - *Neuer Eskalationsansprechpartner:*
   „Jeder Redline-Vorschlag, der Ihre Zeichnungsbefugnis übersteigt, wird
@@ -153,7 +153,7 @@ genau, was sich geändert hat.
 2. Nutzer sagt: „RA Müller ist ausgeschieden, bitte auf RA Meier ändern"
 3. Skill zeigt: Aktuell: `RA Müller (m.mueller@kanzlei.de)` →
    Neu: `RA Meier` (bitte E-Mail-Adresse bestätigen)
-4. Nach Bestätigung: Profil aktualisiert; Hinweis, dass `/vertragsrecht:vertragspruefung`
+4. Nach Bestätigung: Profil aktualisiert; Hinweis, dass `/vertragsrecht:vertragsprüfung`
    und Eskalationsvorschläge künftig RA Meier adressieren.
 
 ## Risiken und typische Fehler

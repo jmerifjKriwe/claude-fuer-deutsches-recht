@@ -34,7 +34,7 @@ vollzugsbedingungen:
     punkt: "Kartellrechtliche Freigabe Bundeskartellamt"
     kategorie: "Behördliche Genehmigung"
     verantwortlich: "Käufer-Anwalt"
-    faellig: 2025-06-15
+    fällig: 2025-06-15
     status: "Angemeldet 01.04.2025; Wartefrist läuft (§ 40 Abs. 1 GWB: 1 Monat)"
     blockierend: true
     quelle: "SPA § 7.1(a)"
@@ -43,7 +43,7 @@ vollzugsbedingungen:
     punkt: "Zustimmung Acme GmbH – Change-of-Control § 14 Rahmenvertrag"
     kategorie: "Zustimmung Dritter"
     verantwortlich: "Zielgesellschaft – Frau Schmitt"
-    faellig: 2025-06-20
+    fällig: 2025-06-20
     status: "Anfrage versandt 10.04.2025; keine Antwort"
     blockierend: true
     quelle: "DD-Finding VB-002; Anlage 4.3(a) Nr. 7; Rahmenvertrag § 14"
@@ -53,7 +53,7 @@ vollzugslieferungen:
     punkt: "Handelsregister-Gesellschafterliste (aktuell, § 40 GmbHG)"
     kategorie: "Gesellschaftsrechtlich"
     verantwortlich: "Ziel-Anwalt"
-    faellig: 2025-06-28
+    fällig: 2025-06-28
     status: "Nicht begonnen"
     blockierend: true
     quelle: "SPA § 2.3(b)(iv)"
@@ -62,7 +62,7 @@ vollzugslieferungen:
     punkt: "Freigabe Gesellschafterdarlehen / Sicherheiten (§ 30 GmbHG)"
     kategorie: "Kapital / Darlehen"
     verantwortlich: "Ziel-Anwalt"
-    faellig: 2025-06-25
+    fällig: 2025-06-25
     status: "In Bearbeitung"
     blockierend: true
     quelle: "SPA § 5.3(c)"
@@ -92,13 +92,13 @@ Jeder Punkt wird zu einem Checklisten-Eintrag mit Quellverweis auf den SPA-Absch
 Modus 2 wird ausgelöst, wenn ein vorgelagerter Skill ein Finding mit einer Vorvertrags-Handlung produziert:
 
 - **dd-findings-extraktion Findings** – jedes Finding, das mit einer Vollzugshandlung markiert ist (Zustimmung, Gesellschafterbeschluss, Organentscheidung, behördliche Einreichung, Freigabe, Ablösung)
-- **wesentliche-vertraege-anlage CoC-/Abtretungspunkte** – während der Anlage-Erstellung aufgedeckte Change-of-Control-Bestimmungen, Abtretungsbeschränkungen
+- **wesentliche-verträge-anlage CoC-/Abtretungspunkte** – während der Anlage-Erstellung aufgedeckte Change-of-Control-Bestimmungen, Abtretungsbeschränkungen
 - **dealteam-zusammenfassung** – aggregiert Findings und deckt manchmal Vollzugspunkte auf, die ein mechanisches Lesen einzelner Extraktions-Memos übersehen würde
 
 Übergabeschema:
 
 ```yaml
-uebergabe:
+übergabe:
   # Pflichtfelder
   punkt: "[Gegenpartei oder Handlung, eine Zeile]"
   kategorie: "[Zustimmung Dritter | Gesellschafter-/Organentscheidung | Behördliche Einreichung | Ablösung/Kündigung | Treuhand/Einbehalt | Vollzugslieferung]"
@@ -108,9 +108,9 @@ uebergabe:
 
   # Felder für Zustimmung / Drittmaßnahme
   gegenpartei: "[z. B. Acme GmbH]"
-  buerge: "[z. B. Bürgschaft des Käufer-Mutterunternehmens erforderlich, oder k. A.]"
+  bürge: "[z. B. Bürgschaft des Käufer-Mutterunternehmens erforderlich, oder k. A.]"
   bedingungen: "[substantielle Bedingung der Gegenpartei — z. B. 'Ersatzbürgschaft des Käufer-Mutterunternehmens vor Wirksamkeit der Zustimmung erforderlich']"
-  ankuendigungsfrist: "[z. B. 30 Tage vor Vollzug, oder konkretes Datum]"
+  ankündigungsfrist: "[z. B. 30 Tage vor Vollzug, oder konkretes Datum]"
 
   # Felder für Gesellschafterentscheidung
   genehmigungsgremium: "[Gesellschafter | Vorstand | Aufsichtsrat | Behörde]"

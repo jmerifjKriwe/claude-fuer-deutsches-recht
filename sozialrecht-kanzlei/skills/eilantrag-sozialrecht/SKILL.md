@@ -5,31 +5,31 @@ description: Eilrechtsschutz nach § 86b SGG — Antrag auf Anordnung der aufsch
 
 # Eilantrag Sozialrecht (§ 86b SGG)
 
-## Anwendungsfaelle
+## Anwendungsfälle
 
 ### § 86b Abs. 1 SGG — Aussetzung / aufschiebende Wirkung
 
-- Widerspruch gegen einen sofort vollziehbaren Bescheid (Aufhebung Rueckforderung Sanktion ohne automatische aufschiebende Wirkung).
+- Widerspruch gegen einen sofort vollziehbaren Bescheid (Aufhebung Rückforderung Sanktion ohne automatische aufschiebende Wirkung).
 - Antrag auf Anordnung der aufschiebenden Wirkung.
 
 ### § 86b Abs. 2 SGG — einstweilige Anordnung
 
-- Verpflichtungs- oder Leistungsbegehren wo das Hauptsacheverfahren zu lange dauern wuerde.
+- Verpflichtungs- oder Leistungsbegehren wo das Hauptsacheverfahren zu lange dauern würde.
 - Regelungs- oder Sicherungsanordnung.
 
-## Pruefraster
+## Prüfraster
 
 ### Anordnungsanspruch
 
 - Materielle Erfolgsaussicht im Hauptsacheverfahren.
-- Bei § 86b Abs. 1: ernstliche Zweifel an der Rechtmaessigkeit des Bescheids.
+- Bei § 86b Abs. 1: ernstliche Zweifel an der Rechtmäßigkeit des Bescheids.
 - Bei § 86b Abs. 2: hoher Grad der Wahrscheinlichkeit eines Anspruchs.
 
 ### Anordnungsgrund
 
 - **Eilbeduerfnis** — wesentliche Nachteile drohen ohne Eilentscheidung.
-- Klassische Faelle: drohender Verlust der Wohnung Verlust der Krankenversicherung existenzielle Notlage Wegfall existenzsichernder Leistungen.
-- Bei existenzsichernden Leistungen (Buergergeld Grundsicherung Asylbewerberleistungen) reduzierte Anforderungen — sog. existenznotsicherndes Eilverfahren (BVerfG-Rspr.).
+- Klassische Fälle: drohender Verlust der Wohnung Verlust der Krankenversicherung existenzielle Notlage Wegfall existenzsichernder Leistungen.
+- Bei existenzsichernden Leistungen (Bürgergeld Grundsicherung Asylbewerberleistungen) reduzierte Anforderungen — sog. existenznotsicherndes Eilverfahren (BVerfG-Rspr.).
 
 ### Glaubhaftmachung
 
@@ -40,7 +40,7 @@ description: Eilrechtsschutz nach § 86b SGG — Antrag auf Anordnung der aufsch
 1. **Rubrum** wie Klage.
 2. **Antrag** auf einstweilige Anordnung oder aufschiebende Wirkung — konkret beziffert.
 3. **Sachverhalt** kurz mit Fokus auf Eilbeduerfnis.
-4. **Anordnungsanspruch** rechtliche Begruendung der Erfolgsaussicht im Hauptverfahren.
+4. **Anordnungsanspruch** rechtliche Begründung der Erfolgsaussicht im Hauptverfahren.
 5. **Anordnungsgrund** Darstellung der wesentlichen Nachteile.
 6. **Glaubhaftmachung** mit eidesstattlicher Versicherung und Belegen.
 7. **Hilfsantrag** auf Hauptsacheverhandlung.
@@ -48,7 +48,7 @@ description: Eilrechtsschutz nach § 86b SGG — Antrag auf Anordnung der aufsch
 ## Frist und Form
 
 - Keine spezifische Antragsfrist — aber: je laenger gewartet wird desto schwerer ist das Eilbeduerfnis glaubhaft zu machen.
-- Form: schriftlich oder zur Niederschrift; bei RA ueber beA.
+- Form: schriftlich oder zur Niederschrift; bei RA über beA.
 
 ## Ausgabe
 
@@ -62,4 +62,4 @@ description: Eilrechtsschutz nach § 86b SGG — Antrag auf Anordnung der aufsch
 
 ## Sonderregel existenzsichernde Leistungen
 
-Bei drohendem Wegfall von Buergergeld oder Asylbewerberleistungen: das BVerfG hat wiederholt entschieden dass das Eilverfahren in diesen Faellen Grundrechtsverwirklichung des Art. 1 Abs. 1 GG iVm Art. 20 Abs. 1 GG dient (Existenzminimum). Die Anforderungen an die Glaubhaftmachung sind reduziert; das SG darf Leistungen vorlaeufig zusprechen wenn ohne sie das Existenzminimum nicht gesichert ist.
+Bei drohendem Wegfall von Bürgergeld oder Asylbewerberleistungen: das BVerfG hat wiederholt entschieden dass das Eilverfahren in diesen Fällen Grundrechtsverwirklichung des Art. 1 Abs. 1 GG iVm Art. 20 Abs. 1 GG dient (Existenzminimum). Die Anforderungen an die Glaubhaftmachung sind reduziert; das SG darf Leistungen vorlaeufig zusprechen wenn ohne sie das Existenzminimum nicht gesichert ist.

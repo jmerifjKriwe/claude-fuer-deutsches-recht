@@ -7,19 +7,19 @@ description: Katalog typischer Standardausreden der Fluggesellschaften mit Gegen
 
 ## Beweislast
 
-**Generell**: Beweislast fuer aussergewoehnliche Umstaende und fuer die Ergreifung aller zumutbaren Massnahmen liegt bei der **Airline** (Art. 5 Abs. 3 VO 261/2004 — Wortlaut „nachweisen kann"). Pauschale Behauptungen ohne Belege reichen nicht.
+**Generell**: Beweislast für außergewöhnliche Umstaende und für die Ergreifung aller zumutbaren Maßnahmen liegt bei der **Airline** (Art. 5 Abs. 3 VO 261/2004 — Wortlaut „nachweisen kann"). Pauschale Behauptungen ohne Belege reichen nicht.
 
 ## Katalog
 
 ### 1. „Technischer Defekt am Flugzeug"
 
-**Airline-Argument**: technischer Defekt sei aussergewoehnlich. Hilft uns nicht.
+**Airline-Argument**: technischer Defekt sei außergewöhnlich. Hilft uns nicht.
 
 **Gegenargument**:
 
-> EuGH, Urt. v. 22.12.2008 — C-549/07 (Wallentin-Hermann): Technische Probleme die im Rahmen der Wartung oder waehrend des regulaeren Betriebs auftreten sind **kein aussergewoehnlicher Umstand**. Sie gehoeren zur normalen Ausuebung der Taetigkeit eines Luftfahrtunternehmens.
+> EuGH, Urt. v. 22.12.2008 — C-549/07 (Wallentin-Hermann): Technische Probleme die im Rahmen der Wartung oder waehrend des regulaeren Betriebs auftreten sind **kein außergewöhnlicher Umstand**. Sie gehören zur normalen Ausübung der Tätigkeit eines Luftfahrtunternehmens.
 > 
-> EuGH C-257/14 (van der Lans 17.09.2015): Auch ein versteckter Fabrikationsfehler oder fruehzeitiger Verschleiss ist regelmaessig kein aussergewoehnlicher Umstand.
+> EuGH C-257/14 (van der Lans 17.09.2015): Auch ein versteckter Fabrikationsfehler oder fruehzeitiger Verschleiss ist regelmäßig kein außergewöhnlicher Umstand.
 
 Nur ausnahmsweise gilt etwas anderes wenn zB ein vom Hersteller bekannt gegebener Fehler kurz vor dem Flug entdeckt wird oder Sabotage durch Dritte vorliegt.
 
@@ -27,79 +27,79 @@ Nur ausnahmsweise gilt etwas anderes wenn zB ein vom Hersteller bekannt gegebene
 
 **Gegenargument**:
 
-> EuGH, Urt. v. 17.04.2018 — C-195/17 ua (Kruesemann): Ein wilder Streik des eigenen Personals — unabhaengig davon ob durch eine offizielle Gewerkschaftsentscheidung gedeckt — ist **kein aussergewoehnlicher Umstand**. Der Streik gehoert zu den Risiken die mit der Personalstruktur einer Airline einhergehen.
+> EuGH, Urt. v. 17.04.2018 — C-195/17 ua (Kruesemann): Ein wilder Streik des eigenen Personals — unabhängig davon ob durch eine offizielle Gewerkschaftsentscheidung gedeckt — ist **kein außergewöhnlicher Umstand**. Der Streik gehört zu den Risiken die mit der Personalstruktur einer Airline einhergehen.
 
 ### 3. „Streik einer Gewerkschaft mit ordentlichem Aufruf"
 
 **Differenziertes Bild**:
 
-> EuGH, Urt. v. 23.03.2021 — C-28/20 (Airhelp / SAS): Streiks die nach den nationalen rechtlichen Voraussetzungen organisiert werden koennen aussergewoehnliche Umstaende sein **wenn** die Airline alle zumutbaren Massnahmen ergriffen hat (Reserveflugzeug Umbuchung andere Airline). Beweislast bei der Airline.
+> EuGH, Urt. v. 23.03.2021 — C-28/20 (Airhelp / SAS): Streiks die nach den nationalen rechtlichen Voraussetzungen organisiert werden können außergewöhnliche Umstaende sein **wenn** die Airline alle zumutbaren Maßnahmen ergriffen hat (Reserveflugzeug Umbuchung andere Airline). Beweislast bei der Airline.
 
-Praktisch: oft im Detail strittig — Airlines berufen sich pauschal; aber zumutbare Massnahmen sind regelmaessig nicht hinreichend dargelegt.
+Praktisch: oft im Detail strittig — Airlines berufen sich pauschal; aber zumutbare Maßnahmen sind regelmäßig nicht hinreichend dargelegt.
 
-### 4. „Crew-Engpass — Crew nicht verfuegbar"
-
-**Gegenargument**:
-
-> Crew-Mangel gehoert zu den **typischen Betriebsrisiken** einer Airline. Reserve-Crews vorzuhalten ist ureigene Aufgabe; eine fehlende Reserve-Crew ist kein aussergewoehnlicher Umstand.
-
-### 5. „Vorheriger Flug verspaetet — Kettenreaktion"
+### 4. „Crew-Engpass — Crew nicht verfügbar"
 
 **Gegenargument**:
 
-> EuGH staendige Rechtsprechung: Verspaetungen die aus einer Kette der gleichen Maschine resultieren sind nur dann aussergewoehnlich wenn der **erste** Vorgang in der Kette selbst aussergewoehnlich war und die spaeteren Verspaetungen sich daraus zwingend ergeben. Wenn der erste Vorflug aus Routine-Gruenden verspaetet war ist die Kette nicht aussergewoehnlich.
+> Crew-Mangel gehört zu den **typischen Betriebsrisiken** einer Airline. Reserve-Crews vorzuhalten ist ureigene Aufgabe; eine fehlende Reserve-Crew ist kein außergewöhnlicher Umstand.
 
-### 6. „Wetterverhaeltnisse"
+### 5. „Vorheriger Flug verspätet — Kettenreaktion"
+
+**Gegenargument**:
+
+> EuGH ständige Rechtsprechung: Verspätungen die aus einer Kette der gleichen Maschine resultieren sind nur dann außergewöhnlich wenn der **erste** Vorgang in der Kette selbst außergewöhnlich war und die späteren Verspätungen sich daraus zwingend ergeben. Wenn der erste Vorflug aus Routine-Gründen verspätet war ist die Kette nicht außergewöhnlich.
+
+### 6. „Wetterverhältnisse"
 
 **Differenziert**:
 
-> Extreme Wetterverhaeltnisse (Vulkanasche Hurrikan Schneesturm in untypischen Gebieten) sind aussergewoehnlich. Normaler Schneefall im Winter in mitteleuropaeischen Regionen ist regelmaessig kein aussergewoehnlicher Umstand — Schneeraeumung und Enteisung gehoeren zum normalen Betrieb.
+> Extreme Wetterverhältnisse (Vulkanasche Hurrikan Schneesturm in untypischen Gebieten) sind außergewöhnlich. Normaler Schneefall im Winter in mitteleuropaeischen Regionen ist regelmäßig kein außergewöhnlicher Umstand — Schneeraeumung und Enteisung gehören zum normalen Betrieb.
 
 ### 7. „Slot-Verschiebung durch die Flugverkehrsleitung"
 
 **Differenziert**:
 
-> Wenn der Slot wegen kapazitaetsbedingter Ueberlastung verschoben wird ist das **regelmaessig kein aussergewoehnlicher Umstand** (Teil normalen Flugbetriebs). Bei Sicherheits- oder Wetterruecksichten kann die Bewertung anders ausfallen.
+> Wenn der Slot wegen kapazitaetsbedingter Ueberlastung verschoben wird ist das **regelmäßig kein außergewöhnlicher Umstand** (Teil normalen Flugbetriebs). Bei Sicherheits- oder Wetterrücksichten kann die Bewertung anders ausfallen.
 
 ### 8. „Vogelschlag"
 
-**Aussergewoehnlich aber**:
+**Außergewöhnlich aber**:
 
-> EuGH, Urt. v. 04.05.2017 — C-315/15 (Pesokova): Vogelschlag ist ein aussergewoehnlicher Umstand.
+> EuGH, Urt. v. 04.05.2017 — C-315/15 (Pesokova): Vogelschlag ist ein außergewöhnlicher Umstand.
 > 
-> ABER: die Airline muss zusaetzlich nachweisen dass alle **zumutbaren Massnahmen** ergriffen wurden — z. B. zuegige technische Pruefung schnellstmoegliche Wiederinbetriebnahme Umbuchung auf anderen Flug.
+> ABER: die Airline muss zusätzlich nachweisen dass alle **zumutbaren Maßnahmen** ergriffen wurden — z. B. zuegige technische Prüfung schnellstmögliche Wiederinbetriebnahme Umbuchung auf anderen Flug.
 
 ### 9. „Sie haben die Stoerung nicht binnen X Tagen gemeldet"
 
 **Gegenargument**:
 
-> Die VO 261/2004 sieht **keine** Anzeigefrist fuer die Geltendmachung des Anspruchs vor. Es gilt allein die **gesetzliche Verjaehrung** drei Jahre nach § 195 BGB iVm § 199 Abs. 1 BGB ab Schluss des Jahres in dem Anspruch entstand und Kenntnis vorlag.
+> Die VO 261/2004 sieht **keine** Anzeigefrist für die Geltendmachung des Anspruchs vor. Es gilt allein die **gesetzliche Verjährung** drei Jahre nach § 195 BGB iVm § 199 Abs. 1 BGB ab Schluss des Jahres in dem Anspruch entstand und Kenntnis vorlag.
 
 ### 10. „Sie haben die Umbuchung / Voucher akzeptiert"
 
 **Gegenargument**:
 
-> Akzeptanz einer Ersatzbefoerderung schliesst den Ausgleichsanspruch nach Art. 7 VO 261/2004 nicht aus. Anspruchsgrundlage Art. 7 ist eigenstaendig und greift parallel zur Erstattung oder Ersatzbefoerderung (Art. 8 VO 261/2004).
+> Akzeptanz einer Ersatzbefoerderung schliesst den Ausgleichsanspruch nach Art. 7 VO 261/2004 nicht aus. Anspruchsgrundlage Art. 7 ist eigenständig und greift parallel zur Erstattung oder Ersatzbefoerderung (Art. 8 VO 261/2004).
 > 
-> Voucher koennen Ausgleichsanspruch nur dann ersetzen wenn der Fluggast **schriftlich und ausdruecklich** auf seinen Ausgleichsanspruch verzichtet hat. Ein blosser Voucher-Erhalt ohne Verzichtserklaerung ist kein Anspruchsverzicht.
+> Voucher können Ausgleichsanspruch nur dann ersetzen wenn der Fluggast **schriftlich und ausdrücklich** auf seinen Ausgleichsanspruch verzichtet hat. Ein blosser Voucher-Erhalt ohne Verzichtserklärung ist kein Anspruchsverzicht.
 
-### 11. „Wir sind nicht zustaendig (Codeshare)"
+### 11. „Wir sind nicht zuständig (Codeshare)"
 
 **Gegenargument**:
 
-> Nach Art. 2 lit. b VO 261/2004 ist Anspruchsgegner das **ausfuehrende Luftfahrtunternehmen** (operating carrier) — nicht das vermarktende. Die ausfuehrende Airline kann sich nicht auf Codeshare-Konstruktionen berufen um ihre Verpflichtung zu vermeiden.
+> Nach Art. 2 lit. b VO 261/2004 ist Anspruchsgegner das **ausführende Luftfahrtunternehmen** (operating carrier) — nicht das vermarktende. Die ausführende Airline kann sich nicht auf Codeshare-Konstruktionen berufen um ihre Verpflichtung zu vermeiden.
 
 ### 12. „Sie haben uns die Daten nicht binnen 24 Stunden gegeben"
 
 **Gegenargument**:
 
-> Die VO 261/2004 enthaelt keine Frist fuer Verbraucher zur Geltendmachung. Auch interne Service-Richtlinien der Airline binden den Verbraucher nicht.
+> Die VO 261/2004 enthält keine Frist für Verbraucher zur Geltendmachung. Auch interne Service-Richtlinien der Airline binden den Verbraucher nicht.
 
 ### 13. „Konzern-Beleg / Mitversorgung"
 
-**Differenziert**: Wenn der Verbraucher kostenfreie Mahlzeit Hotel und Transport tatsaechlich erhalten hat sind die Auslagenanspruechen nach Art. 9 VO 261/2004 erfuellt. Anspruch nach Art. 7 (Ausgleich) bleibt davon **unberuehrt**.
+**Differenziert**: Wenn der Verbraucher kostenfreie Mahlzeit Hotel und Transport tatsächlich erhalten hat sind die Auslagenanspruechen nach Art. 9 VO 261/2004 erfüllt. Anspruch nach Art. 7 (Ausgleich) bleibt davon **unberuehrt**.
 
-### 14. „Sie haben aus Komforterwaegungen das Hotel selbst gebucht"
+### 14. „Sie haben aus Komforterwägungen das Hotel selbst gebucht"
 
 **Gegenargument**:
 
@@ -109,7 +109,7 @@ Praktisch: oft im Detail strittig — Airlines berufen sich pauschal; aber zumut
 
 **Gegenargument**:
 
-> Wer rechtzeitig am Check-in war (in der Regel 45 Minuten vor planmaessigem Abflug oder gemaess Airline-AGB) hat den Anspruch behalten. Beweis durch Boardingpass oder Check-in-Bestaetigung.
+> Wer rechtzeitig am Check-in war (in der Regel 45 Minuten vor planmäßigem Abflug oder gemäß Airline-AGB) hat den Anspruch behalten. Beweis durch Boardingpass oder Check-in-Bestätigung.
 
 ## Versand-Hinweis
 

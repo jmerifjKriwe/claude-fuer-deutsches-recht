@@ -44,7 +44,7 @@ extraktionsprofil:
     frage: "Gibt es eine Change-of-Control-Klausel? Ist Zustimmung erforderlich?"
     rechtsgrundlage: "Kein gesetzliches Zustimmungserfordernis; rein vertragliche Regelung"
     relevanz: "Zustimmungserfordernis vor Vollzug"
-  kuendigungsrecht_abtretung:
+  kündigungsrecht_abtretung:
     frage: "Gibt es ein Kündigungsrecht oder Abtretungsverbot bei Eigentümerwechsel?"
     rechtsgrundlage: "§ 398 BGB (Abtretung), § 613a BGB (Betriebsübergang)"
     relevanz: "Hemmt Vollzug oder Vertragsübertragung"
@@ -60,7 +60,7 @@ extraktionsprofil:
     frage: "Wer ist Eigentümer der erzeugten IP? Enthält der Vertrag eine Abtretung?"
     rechtsgrundlage: "§§ 69b, 43 UrhG (Arbeitnehmererfindung); § 7 ArbNErfG"
     relevanz: "IP-Kette zum Zielunternehmen"
-  kuendigungsfristen:
+  kündigungsfristen:
     frage: "Wie sind ordentliche und außerordentliche Kündigung geregelt?"
     rechtsgrundlage: "§§ 314, 615 BGB; vertraglich oder gesetzlich"
     relevanz: "Risiko vorzeitiger Beendigung nach Vollzug"
@@ -136,7 +136,7 @@ ki_tool_ergebnisse:
   qa_stichprobe_prozent: 10
   dokumente_gesamt: 312
   findings:
-    - dokument: "VDR/02-Vertraege/Acme-MSA-2021.pdf"
+    - dokument: "VDR/02-Verträge/Acme-MSA-2021.pdf"
       kategorie: "Wesentliche Verträge"
       klausel: "change_of_control"
       extrakt: "§ 12 Abs. 3: Bei Kontrollwechsel hat [Vertragspartner] das Recht, fristlos zu kündigen."

@@ -347,14 +347,14 @@ und jeder Zusammenfassung vorangestellt):
 
 ## Prüfungseinstellungen
 
-routing_bestaetigen: true   # Auf false setzen, um Routing-Bestätigung zu überspringen
+routing_bestätigen: true   # Auf false setzen, um Routing-Bestätigung zu überspringen
 
 ---
 
 ## Playbook-Monitor-Einstellungen
 
 muster_schwellenwert: 5
-rueckblick_monate: 12
+rückblick_monate: 12
 ```
 
 ### Schritt 8 — Abschluss

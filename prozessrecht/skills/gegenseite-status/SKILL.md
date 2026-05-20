@@ -44,7 +44,7 @@ Jede Woche dieselbe Statusanfrage an externe Bevollmächtigte für 5–15 Prozes
 
 - `status != geschlossen`
 - `externe_bevollmaechtigte.sozietaet != null` UND `externe_bevollmaechtigte.partner != null`
-- Entweder: letzte Aktualisierung vor mehr als 10 Tagen ODER `naechste_frist` innerhalb von 21 Tagen
+- Entweder: letzte Aktualisierung vor mehr als 10 Tagen ODER `nächste_frist` innerhalb von 21 Tagen
 
 Übersprungen werden: Mandate mit Update in den letzten 10 Tagen (kein erneutes Anschreiben erforderlich) sowie Mandate ohne hinterlegte E-Mail-Adresse des externen Bevollmächtigten (Markdown-Entwurf wird trotzdem erstellt; Outlook-Entwurf nicht).
 
@@ -70,7 +70,7 @@ Kurze Rückmeldung zu [Mandatsbezeichnung] erbeten. Einige Punkte:
 
 1. **Sachstand seit [Datum der letzten Aktualisierung aus verlauf.md]** — Was hat sich bewegt, was ist noch offen? Gab es Schriftsätze, Termine, Korrespondenz oder Telefonate seit unserem letzten Austausch?
 
-2. **Bevorstehende Fristen** — Ich vermerke [naechste_frist aus Protokoll + etwaige Fristen aus akte.md]. Bitte Abdeckungsplan bestätigen und ggf. weitere Termine mitteilen.
+2. **Bevorstehende Fristen** — Ich vermerke [nächste_frist aus Protokoll + etwaige Fristen aus akte.md]. Bitte Abdeckungsplan bestätigen und ggf. weitere Termine mitteilen.
 
 3. **Ausstehende Entscheidungen** — [offene Fragen aus akte.md, die externen Input erfordern; entfällt, falls keine vorhanden — umnummerieren]
 

@@ -7,22 +7,22 @@ description: "Kaltstart-Interview fuer die steuerrechtsanwaltliche Kanzlei. Erfr
 
 ## Ablauf
 
-1. Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-kanzlei/CLAUDE.md` pruefen.
-2. Falls vorhanden ohne Platzhalter: bestaetigen.
+1. Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-kanzlei/CLAUDE.md` prüfen.
+2. Falls vorhanden ohne Platzhalter: bestätigen.
 3. Andernfalls Interview unten durchfuehren und Datei schreiben.
 
 ## Kaltstart-Interview
 
 ### 1. Rolle und Kanzlei
 
-- **Rolle:** Fachanwalt fuer Steuerrecht / RA mit steuerrechtlichem Schwerpunkt / Steueranwalt mit Steuerberater-Bestellung (dann auch Steuererklaerungen) / Syndikus?
-- **Abgrenzung zum Steuerberater des Mandanten** — wer rechnet wer streitet wer hat die Steuererklaerung erstellt?
+- **Rolle:** Fachanwalt für Steuerrecht / RA mit steuerrechtlichem Schwerpunkt / Steueranwalt mit Steuerberater-Bestellung (dann auch Steuererklärungen) / Syndikus?
+- **Abgrenzung zum Steuerberater des Mandanten** — wer rechnet wer streitet wer hat die Steuererklärung erstellt?
 - **Kanzleigroesse** und Sekretariatslast
 
 ### 2. Schwerpunktbereiche
 
 - Einkommensteuer / Lohnsteuer
-- Umsatzsteuer (einschliesslich Vorsteuerstreitigkeiten)
+- Umsatzsteuer (einschließlich Vorsteuerstreitigkeiten)
 - Koerperschaft- und Gewerbesteuer
 - Erbschaft- und Schenkungsteuer
 - Bewertungs- und Grundsteuer
@@ -34,37 +34,37 @@ description: "Kaltstart-Interview fuer die steuerrechtsanwaltliche Kanzlei. Erfr
 - Einspruch gegen Steuerbescheid (§§ 347 ff. AO)
 - Klage zum Finanzgericht (§§ 40 ff. FGO)
 - Antrag auf Aussetzung der Vollziehung (§ 361 AO / § 69 FGO)
-- Aussenpruefung Begleitung (§§ 193 ff. AO)
+- Außenprüfung Begleitung (§§ 193 ff. AO)
 - Selbstanzeige (§ 371 AO)
 - Verbindliche Auskunft (§ 89 Abs. 2 AO)
 - Stundungs- und Erlassantrag (§§ 222 227 AO)
 
-### 4. Zustaendige Gerichte und Aemter
+### 4. Zuständige Gerichte und Aemter
 
 - **Hauptfinanzaemter** mit beA-/EGVP-Postfach
 - **Finanzgericht** des Bundeslandes mit beA-Postfach
-- **BFH Muenchen** (Revisionsinstanz)
+- **BFH München** (Revisionsinstanz)
 
 ### 5. Schnittstellen
 
-- **Steuerberater des Mandanten** — Mandatsabgrenzung Steuererklaerung vs Rechtsstreit
-- **Wirtschaftspruefer** bei Bilanzthemen
+- **Steuerberater des Mandanten** — Mandatsabgrenzung Steuererklärung vs Rechtsstreit
+- **Wirtschaftsprüfer** bei Bilanzthemen
 - **Buchhaltung** des Mandanten
 
 ### 6. Versandwege
 
-- **beA** Pflicht fuer Rechtsanwaelte gegenueber Behoerden und Gerichten (§ 31a BRAO).
-- **ELSTER** bei Steuererklaerungen und Steueranmeldungen (nur wenn Mandant das Plugin gleichzeitig fuer eigene Steuererklaerungen nutzt — eher Steuerberater-Werkzeug).
+- **beA** Pflicht für Rechtsanwälte gegenüber Behörden und Gerichten (§ 31a BRAO).
+- **ELSTER** bei Steuererklärungen und Steueranmeldungen (nur wenn Mandant das Plugin gleichzeitig für eigene Steuererklärungen nutzt — eher Steuerberater-Werkzeug).
 - **EGVP** Finanzgericht.
 
 ### 7. Standort und Eskalation
 
-- **Bundesland** (entscheidet ueber Finanzgerichtszustaendigkeit)
-- **Eskalationspartner** bei strafsteuerrechtlichen Sonderfaellen
+- **Bundesland** (entscheidet über Finanzgerichtszuständigkeit)
+- **Eskalationspartner** bei strafsteuerrechtlichen Sonderfällen
 
 ## Ausgabe
 
-Profil wird geschrieben. Naechste Skills:
+Profil wird geschrieben. Nächste Skills:
 
 - `/steuerrecht-kanzlei:steuerbescheid-analyse` — bei eingegangenem Bescheid
 - `/steuerrecht-kanzlei:einspruch-finanzamt` — bei Bescheid und Einspruchsfrist
@@ -80,4 +80,4 @@ Profil wird geschrieben. Naechste Skills:
 
 ## Hinweise
 
-Steuerrechtliche Beratung fuer Erstellung von Steuererklaerungen ist im Schwerpunkt Tatigkeit des Steuerberaters (StBerG § 3). Anwaltliche Steuerberatung ist zulaessig (§ 3 Nr. 1 StBerG); die Erstellung von Erklaerungen erfolgt aber regelmaessig durch den Steuerberater des Mandanten. Dieses Plugin fokussiert auf den streitbezogenen Teil.
+Steuerrechtliche Beratung für Erstellung von Steuererklärungen ist im Schwerpunkt Tatigkeit des Steuerberaters (StBerG § 3). Anwaltliche Steuerberatung ist zulässig (§ 3 Nr. 1 StBerG); die Erstellung von Erklärungen erfolgt aber regelmäßig durch den Steuerberater des Mandanten. Dieses Plugin fokussiert auf den streitbezogenen Teil.

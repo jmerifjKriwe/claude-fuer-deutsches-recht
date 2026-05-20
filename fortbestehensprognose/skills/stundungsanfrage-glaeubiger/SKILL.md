@@ -3,49 +3,49 @@ name: stundungsanfrage-glaeubiger
 description: Erzeugt Stundungsanfragen an Glaeubiger (Lieferanten Bank Vermieter Steueramt Sozialversicherungstraeger). Erfasst pro Glaeubiger Forderungshoehe Faelligkeit Stundungswunsch (neue Faelligkeit Ratenzahlung Tilgungspause) Begruendung Sicherheitsangebot. Pro Glaeubiger eigenes Schreiben. Hinweis Steuerstundung § 222 AO (restriktiv) und Sozialversicherung (sehr restriktiv § 76 SGB IV). Schriftliche Stundungszusage erforderlich fuer Beruecksichtigung in der Liquiditaetsplanung.
 ---
 
-# Stundungsanfrage Glaeubiger
+# Stundungsanfrage Gläubiger
 
-## Wirkung in der Liquiditaetsplanung
+## Wirkung in der Liquiditätsplanung
 
-Eine Stundung verschiebt die Faelligkeit eines Liquiditaetsabflusses nach hinten oder verteilt ihn in Raten. Wirkung:
+Eine Stundung verschiebt die Fälligkeit eines Liquiditätsabflusses nach hinten oder verteilt ihn in Raten. Wirkung:
 
-- **Verbessert** die Liquiditaet im Stundungszeitraum.
-- **Verschlechtert** die Liquiditaet im Folgezeitraum (es sei denn umgekehrt durch operativ erwirtschaftete Mittel kompensiert).
-- **Nur schriftlich** im Liquiditaetsplan ansetzen.
+- **Verbessert** die Liquidität im Stundungszeitraum.
+- **Verschlechtert** die Liquidität im Folgezeitraum (es sei denn umgekehrt durch operativ erwirtschaftete Mittel kompensiert).
+- **Nur schriftlich** im Liquiditätsplan ansetzen.
 
-Eine muendlich erbetene und nicht schriftlich zugestandene Stundung darf nicht in den Liquiditaetsplan eingebaut werden.
+Eine muendlich erbetene und nicht schriftlich zugestandene Stundung darf nicht in den Liquiditätsplan eingebaut werden.
 
-## Kategorien der Glaeubiger
+## Kategorien der Gläubiger
 
 ### 1. Lieferanten
 
-- Regelmaessig **bilateral verhandelbar**.
+- Regelmäßig **bilateral verhandelbar**.
 - Beziehungs-Vorteil: Lieferanten haben Interesse an Fortfuehrung des Kunden.
 - Empfehlung: schriftliche Stundungsanfrage mit konkretem Verzugsplan und ggf. **Teilzahlung als Goodwill-Geste**.
 
 ### 2. Bank
 
-- Bei bestehenden Darlehen Tilgungspause oder Verlaengerung.
-- Bei Kreditlinie Erhoehung oder Verlaengerung.
-- Bank verlangt regelmaessig **Sanierungskonzept** (IDW S 6) oder zumindest die Fortbestehensprognose.
-- Verhandlung erfordert Bankgespraech — schriftliche Stundungszusage ggf. erst nach Pruefung.
+- Bei bestehenden Darlehen Tilgungspause oder Verlängerung.
+- Bei Kreditlinie Erhöhung oder Verlängerung.
+- Bank verlangt regelmäßig **Sanierungskonzept** (IDW S 6) oder zumindest die Fortbestehensprognose.
+- Verhandlung erfordert Bankgespraech — schriftliche Stundungszusage ggf. erst nach Prüfung.
 
 ### 3. Vermieter
 
-- Verhandlung moeglich. Mietkuendigung gemaess BGB § 543 wegen Zahlungsverzug nicht stundungsfaehig — Verzug muss vermieden werden.
+- Verhandlung möglich. Mietkündigung gemäß BGB § 543 wegen Zahlungsverzug nicht stundungsfähig — Verzug muss vermieden werden.
 - Schriftliche Stundungszusage erforderlich.
 
 ### 4. Steueramt (§ 222 AO)
 
 - **Erhebliche Haerte** muss vorliegen (§ 222 S. 1 AO).
-- Stundung ist **Ermessensentscheidung** der Finanzbehoerde.
+- Stundung ist **Ermessensentscheidung** der Finanzbehörde.
 - Bei drohender Insolvenz oft restriktiv.
 - Sicherheitsleistung verlangt (§ 222 S. 2 AO).
 - Hinweis: Lohnsteuer kann **nicht** gestundet werden (§ 222 S. 3 AO i.V.m. § 41a EStG).
 
 ### 5. Sozialversicherungstraeger (§ 76 Abs. 2 SGB IV)
 
-- **Sehr restriktiv** — nur in Ausnahmefaellen.
+- **Sehr restriktiv** — nur in Ausnahmefällen.
 - Sozialversicherungsbeitraege sind treuhaenderisch und Arbeitnehmer-Anteil.
 - Nichtabfuehrung kann § 266a StGB ausloesen (Vorenthalten Sozialversicherungsbeitraege Arbeitnehmer-Anteil).
 - **Pflicht zur Abfuehrung** der Arbeitnehmer-Beitraege bleibt grundsaetzlich auch bei Stundung — daher Stundung praktisch fast unwirksam.
@@ -66,32 +66,32 @@ Sehr geehrte Damen und Herren,
 
 mit Bezug auf die offenen Rechnungen
 
-  Rechnung Nr. [...] vom [...] in Hoehe von [...] EUR (faellig [...])
-  Rechnung Nr. [...] vom [...] in Hoehe von [...] EUR (faellig [...])
+  Rechnung Nr. [...] vom [...] in Höhe von [...] EUR (fällig [...])
+  Rechnung Nr. [...] vom [...] in Höhe von [...] EUR (fällig [...])
   Gesamt offene Forderung: [...] EUR
 
 bitten wir Sie um Stundung wie folgt:
 
-  - Faelligkeit verschoben auf [neues Datum]
+  - Fälligkeit verschoben auf [neues Datum]
   - alternativ Ratenzahlung in [N] gleichen Monatsraten ab [Datum]
-  - Erste Rate in Hoehe von [...] EUR ueberweisen wir bereits am [...]
+  - Erste Rate in Höhe von [...] EUR überweisen wir bereits am [...]
 
 Hintergrund: Unsere Gesellschaft befindet sich in einer angespannten 
-wirtschaftlichen Phase die wir aktiv durch Massnahmen (Standortoptimierung 
-Patronatserklaerung des Hauptgesellschafters Erhoehung der Kreditlinie) 
-gegensteuern. Eine vollstaendige Fortbestehensprognose nach § 19 Abs. 2 InsO 
-liegt unserer Geschaeftsfuehrung vor; sie weist mit Massnahmen positive 
+wirtschaftlichen Phase die wir aktiv durch Maßnahmen (Standortoptimierung 
+Patronatserklärung des Hauptgesellschafters Erhöhung der Kreditlinie) 
+gegensteuern. Eine vollständige Fortbestehensprognose nach § 19 Abs. 2 InsO 
+liegt unserer Geschäftsführung vor; sie weist mit Maßnahmen positive 
 Wahrscheinlichkeit aus.
 
-Wir versichern Ihnen dass die Lieferung und Zahlung in der Geschaeftsbeziehung 
+Wir versichern Ihnen dass die Lieferung und Zahlung in der Geschäftsbeziehung 
 absolute Prioritaet hat. Unsere Beziehung zu Ihnen ist langfristig und wir 
-sehen unsere Verpflichtung gegenueber Ihnen ausserordentlich.
+sehen unsere Verpflichtung gegenüber Ihnen ausserordentlich.
 
-Eine schriftliche Bestaetigung der Stundung erbitten wir bis zum [Datum].
+Eine schriftliche Bestätigung der Stundung erbitten wir bis zum [Datum].
 
-Mit freundlichen Gruessen
+Mit freundlichen Grüßen
 
-[Geschaeftsfuehrer]
+[Geschäftsführer]
 ```
 
 ## Mustervorlage Bank
@@ -104,36 +104,36 @@ Mit freundlichen Gruessen
 An [Bank]
 [Anschrift]
 
-Betreff: Antrag auf Tilgungspause Darlehen Nr. [...] / Verlaengerung 
+Betreff: Antrag auf Tilgungspause Darlehen Nr. [...] / Verlängerung 
         Kreditlinie
 
 Sehr geehrte Damen und Herren,
 
-mit Verweis auf unsere bestehende Geschaeftsbeziehung beantragen wir:
+mit Verweis auf unsere bestehende Geschäftsbeziehung beantragen wir:
 
-1. Tilgungspause fuer das Darlehen Nr. [...] in Hoehe von [...] EUR fuer einen 
+1. Tilgungspause für das Darlehen Nr. [...] in Höhe von [...] EUR für einen 
 Zeitraum von [...] Monaten (von [...] bis [...]).
 
-2. Verlaengerung der Kreditlinie (Linie [...] EUR) bis zum [...].
+2. Verlängerung der Kreditlinie (Linie [...] EUR) bis zum [...].
 
 Hintergrund: Unsere Gesellschaft befindet sich in einer wirtschaftlich 
-angespannten Phase die wir aktiv durch Massnahmen gegensteuern. Eine 
+angespannten Phase die wir aktiv durch Maßnahmen gegensteuern. Eine 
 Fortbestehensprognose nach § 19 Abs. 2 InsO liegt vor und weist mit unseren 
-laufenden Sanierungsmassnahmen einschliesslich Patronatserklaerung des 
-Hauptgesellschafters in Hoehe von [...] EUR positive Wahrscheinlichkeit auf 
-die Fortfuehrung im Prognosezeitraum von zwoelf Monaten.
+laufenden Sanierungsmaßnahmen einschließlich Patronatserklärung des 
+Hauptgesellschafters in Höhe von [...] EUR positive Wahrscheinlichkeit auf 
+die Fortfuehrung im Prognosezeitraum von zwölf Monaten.
 
-Wir uebersenden Ihnen vorab:
+Wir übersenden Ihnen vorab:
 
   - Fortbestehensprognose mit Stichtag [...]
-  - Patronatserklaerung des Hauptgesellschafters vom [...]
-  - 12-Monats-Liquiditaetsplan einschliesslich Sensitivitaetsszenarien
+  - Patronatserklärung des Hauptgesellschafters vom [...]
+  - 12-Monats-Liquiditätsplan einschließlich Sensitivitaetsszenarien
 
-Fuer ein persoenliches Gespraech sind wir gerne kurzfristig verfuegbar.
+Für ein persoenliches Gespraech sind wir gerne kurzfristig verfügbar.
 
-Mit freundlichen Gruessen
+Mit freundlichen Grüßen
 
-[Geschaeftsfuehrer]
+[Geschäftsführer]
 ```
 
 ## Mustervorlage Steueramt (§ 222 AO)
@@ -148,63 +148,63 @@ An das Finanzamt [...]
 
 Steuernummer: [...]
 
-Betreff: Antrag auf Stundung gemaess § 222 AO
+Betreff: Antrag auf Stundung gemäß § 222 AO
 
 Sehr geehrte Damen und Herren,
 
-namens und im Auftrag der oben genannten Gesellschaft beantragen wir gemaess
+namens und im Auftrag der oben genannten Gesellschaft beantragen wir gemäß
 § 222 AO Stundung der nachstehenden Steuern:
 
-  Koerperschaftsteuer Vorauszahlung Q2/2026, faellig [...]: [...] EUR
-  Solidaritaetszuschlag, faellig [...]: [...] EUR
-  Gewerbesteuer Vorauszahlung Q2/2026, faellig [...]: [...] EUR
+  Koerperschaftsteuer Vorauszahlung Q2/2026, fällig [...]: [...] EUR
+  Solidaritaetszuschlag, fällig [...]: [...] EUR
+  Gewerbesteuer Vorauszahlung Q2/2026, fällig [...]: [...] EUR
 
 bis zum [neues Datum] beziehungsweise alternativ Ratenzahlung in
 [N] Monatsraten ab [...].
 
-Begruendung: Die Erhebung der Steuer in der gesetzten Frist wuerde eine 
-erhebliche Haerte fuer die Steuerpflichtige bedeuten. Ihre wirtschaftliche 
+Begründung: Die Erhebung der Steuer in der gesetzten Frist würde eine 
+erhebliche Haerte für die Steuerpflichtige bedeuten. Ihre wirtschaftliche 
 Lage ist angespannt; eine Fortbestehensprognose mit positiver Wahrscheinlichkeit
 ist erstellt. Die laufenden Verhandlungen mit Patronen und Kreditgebern 
 zeigen positive Entwicklung; mit Vollzug der Sanierungsbausteine ist die 
 fristgerechte Zahlung gesichert.
 
-Ueber Sicherheitsleistung ($ 222 S. 2 AO) sind wir gerne im Gespraech 
-(z. B. Buergschaft des Patrons Sicherungsuebereignung Maschinen).
+Über Sicherheitsleistung ($ 222 S. 2 AO) sind wir gerne im Gespraech 
+(z. B. Bürgschaft des Patrons Sicherungsuebereignung Maschinen).
 
 Auf Verlangen reichen wir Folgendes nach:
 
   - Fortbestehensprognose mit Stichtag [...]
-  - Aktueller Liquiditaetsplan
-  - Patronatserklaerung des Hauptgesellschafters
+  - Aktueller Liquiditätsplan
+  - Patronatserklärung des Hauptgesellschafters
 
-Lohnsteuer und Umsatzsteuer (Treuhand-Steuern) sind hiervon ausdruecklich nicht
-betroffen. Diese werden weiterhin fristgerecht abgefuehrt.
+Lohnsteuer und Umsatzsteuer (Treuhand-Steuern) sind hiervon ausdrücklich nicht
+betroffen. Diese werden weiterhin fristgerecht abgeführt.
 
-Mit freundlichen Gruessen
+Mit freundlichen Grüßen
 
-[Geschaeftsfuehrer]
+[Geschäftsführer]
 ```
 
 ## Schriftliche Stundungszusage
 
-Erst nach **schriftlicher** Stundungszusage des Glaeubigers darf die Faelligkeit im Liquiditaetsplan verschoben werden.
+Erst nach **schriftlicher** Stundungszusage des Gläubigers darf die Fälligkeit im Liquiditätsplan verschoben werden.
 
 ```yaml
 stundungen:
-  - glaeubiger: Lieferant XYZ GmbH
+  - gläubiger: Lieferant XYZ GmbH
     offene-forderung: 24000
-    urspruengliche-faelligkeit: 2026-06-15
-    gestundete-faelligkeit: 2026-09-15
+    urspruengliche-fälligkeit: 2026-06-15
+    gestundete-fälligkeit: 2026-09-15
     zusage-vom: 2026-06-05
-    zusage-form: E-Mail mit Bestaetigung
-    bemerkung: Anzahlung 5000 EUR mit Stundungserklaerung gezahlt
+    zusage-form: E-Mail mit Bestätigung
+    bemerkung: Anzahlung 5000 EUR mit Stundungserklärung gezahlt
 ```
 
 ## Ausgabe
 
-- Pro Glaeubiger eigenes `stundungsanfrage-<glaeubiger>.docx`.
-- Versand per Einschreiben oder ueber Bank-Portal / E-Mail.
-- Wiedervorlage zur Pruefung der Zusage in 14 Tagen.
+- Pro Gläubiger eigenes `stundungsanfrage-<gläubiger>.docx`.
+- Versand per Einschreiben oder über Bank-Portal / E-Mail.
+- Wiedervorlage zur Prüfung der Zusage in 14 Tagen.
 - Tracker mit Status (versendet / zugesagt / abgelehnt / verhandlung).
-- Hinweis: bei Ablehnung Liquiditaetsplan-Update mit weiteren Massnahmen erforderlich.
+- Hinweis: bei Ablehnung Liquiditätsplan-Update mit weiteren Maßnahmen erforderlich.

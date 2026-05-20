@@ -8,7 +8,7 @@ description: Entwirft einen begruendeten Einspruch gegen einen Steuerbescheid na
 ## Eingaben
 
 - Analyseprotokoll aus `steuerbescheid-analyse`.
-- Steuererklaerung des Veranlagungsjahres und Belege.
+- Steuererklärung des Veranlagungsjahres und Belege.
 - Bescheid im Original.
 
 ## Struktur
@@ -18,32 +18,32 @@ description: Entwirft einen begruendeten Einspruch gegen einen Steuerbescheid na
 - Einspruchsfuehrer (Steuerpflichtiger) mit Anschrift und Steuernummer.
 - Vertreter (RA mit beA-Adresse).
 - Empfangsfinanzamt mit Aktenzeichen / Steuernummer.
-- Bezug: Bescheid vom (Datum) ueber (Steuerart) (Veranlagungsjahr).
+- Bezug: Bescheid vom (Datum) über (Steuerart) (Veranlagungsjahr).
 
 ### 2. Antrag
 
-"Hiermit lege ich Einspruch gegen den Bescheid vom (Datum) ueber (Steuerart) (Jahr) ein und beantrage:
+"Hiermit lege ich Einspruch gegen den Bescheid vom (Datum) über (Steuerart) (Jahr) ein und beantrage:
 
 1. den angefochtenen Bescheid aufzuheben;
 2. die Steuer wie folgt festzusetzen: ... EUR;
-3. hilfsweise Aussetzung der Vollziehung gemaess § 361 Abs. 2 AO;
-4. Akteneinsicht in die Steuerakten gemaess § 364 AO im Einspruchsverfahren."
+3. hilfsweise Aussetzung der Vollziehung gemäß § 361 Abs. 2 AO;
+4. Akteneinsicht in die Steuerakten gemäß § 364 AO im Einspruchsverfahren."
 
-### 3. Begruendung
+### 3. Begründung
 
-- Formale Mangel zuerst (Bekanntgabe Begruendung Adressat).
+- Formale Mangel zuerst (Bekanntgabe Begründung Adressat).
 - Materielle Mangel:
-  - Sachverhaltsfehler (Einkuenftezuordnung Werbungskosten Sonderausgaben Aussergewoehnliche Belastungen).
+  - Sachverhaltsfehler (Einkünftezuordnung Werbungskosten Sonderausgaben Außergewöhnliche Belastungen).
   - Rechtsanwendungsfehler.
   - Schaetzung unrealistisch (§ 162 AO).
 - BFH-Rechtsprechung mit Pinpoint.
-- Verweis auf BMF-Schreiben falls einschlaegig.
+- Verweis auf BMF-Schreiben falls einschlägig.
 - Bei Schaetzungsbescheid: bestreitete Schaetzungsgrundlagen plus eigene plausible Berechnung.
 
 ### 4. Belege
 
 - Anlagen mit Sigel E1 E2 E3.
-- Vollstaendige Belegliste (Belegart Datum Inhalt).
+- Vollständige Belegliste (Belegart Datum Inhalt).
 
 ### 5. Form und Frist
 
@@ -56,20 +56,20 @@ description: Entwirft einen begruendeten Einspruch gegen einen Steuerbescheid na
 
 Hilfsantrag im Einspruchsschreiben:
 
-"Hilfsweise wird die Aussetzung der Vollziehung gemaess § 361 Abs. 2 AO beantragt. Es bestehen ernstliche Zweifel an der Rechtmaessigkeit des angefochtenen Bescheids; die Vollziehung wuerde fuer den Steuerpflichtigen eine unbillige nicht durch ueberwiegende oeffentliche Interessen gebotene Haerte zur Folge haben."
+"Hilfsweise wird die Aussetzung der Vollziehung gemäß § 361 Abs. 2 AO beantragt. Es bestehen ernstliche Zweifel an der Rechtmäßigkeit des angefochtenen Bescheids; die Vollziehung würde für den Steuerpflichtigen eine unbillige nicht durch überwiegende öffentliche Interessen gebotene Haerte zur Folge haben."
 
 Bei Ablehnung Antrag durch FA: Antrag an Finanzgericht § 69 Abs. 3 FGO (siehe Skill `aussetzung-vollziehung`).
 
 ### 7. Akteneinsicht
 
-Im Einspruchsverfahren Anspruch nach § 364 AO Steuerakten und Akten der Aussenpruefung.
+Im Einspruchsverfahren Anspruch nach § 364 AO Steuerakten und Akten der Außenprüfung.
 
 ## Verfahrensgang
 
 1. **Einspruch eingelegt** → Finanzamt prueft.
-2. **Hinweis nach § 367 Abs. 2 AO** wenn das FA die Steuer verboesern (Verschlechtern) will → der Einspruch kann zurueckgenommen werden um Verboeserung zu vermeiden.
+2. **Hinweis nach § 367 Abs. 2 AO** wenn das FA die Steuer verboesern (Verschlechtern) will → der Einspruch kann zurückgenommen werden um Verboeserung zu vermeiden.
 3. **Einspruchsentscheidung** mit Rechtsbehelfsbelehrung → bei Ablehnung Klage zum FG (Skill `klage-finanzgericht`).
-4. **Untaetigkeit** des FA: nach sechs Monaten kann Klage erhoben werden (§ 46 FGO).
+4. **Untätigkeit** des FA: nach sechs Monaten kann Klage erhoben werden (§ 46 FGO).
 
 ## Ausgabe
 
@@ -79,4 +79,4 @@ Im Einspruchsverfahren Anspruch nach § 364 AO Steuerakten und Akten der Aussenp
 
 ## Versand
 
-Ueber beA (RA-Pflicht). Vor Versand `versand-vor-check` aus `kanzlei-cowork`.
+Über beA (RA-Pflicht). Vor Versand `versand-vor-check` aus `kanzlei-cowork`.

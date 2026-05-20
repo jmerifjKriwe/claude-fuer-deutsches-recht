@@ -47,7 +47,7 @@ Wenn Rechtsgebiet oder Anzahl fehlen, einmalig fragen:
 ### Schritt 2: Modus bestimmen und Inhaltsquelle laden
 
 - `--karteikarten`: `karteikarten`-Skill laden, N Karten im Drill-Modus, priorisiert nach früheren Fehlern + fälligen Karten
-- `--klausurfrage`: `gutachten-uebung`-Skill laden, N Kurzklausurfragen im Gutachtenstil generieren, Nutzer schreibt Lösung, Feedback pro Frage
+- `--klausurfrage`: `gutachten-übung`-Skill laden, N Kurzklausurfragen im Gutachtenstil generieren, Nutzer schreibt Lösung, Feedback pro Frage
 - `--mündlich` (Standard): `sokratisches-drillen`-Skill laden, N Fragen im sokratischen Frage-Antwort-Format, Pushback nach jeder Antwort
 
 Jurisdiktion/Prüfungsordnung aus Nutzerprofil laden, falls vorhanden (z. B. Examensvorbereitung NRW → JAG NRW-Prüfungsstoff priorisieren).
@@ -86,7 +86,7 @@ Falls kein Lernplan: in `sitzungs_verlauf.yaml` schreiben.
 
 ### Schritt 5: Anschlussempfehlung
 
-> „Auf Basis dieser Sitzung empfiehlt sich als nächster Schritt: [konkrete Empfehlung — z. B. ‚Definitionen § 275 BGB mit karteikarten vertiefen' oder ‚gutachtenstil-uebung: Klausurfall zu § 286 BGB']."
+> „Auf Basis dieser Sitzung empfiehlt sich als nächster Schritt: [konkrete Empfehlung — z. B. ‚Definitionen § 275 BGB mit karteikarten vertiefen' oder ‚gutachtenstil-übung: Klausurfall zu § 286 BGB']."
 
 ## Ausgabeformat
 

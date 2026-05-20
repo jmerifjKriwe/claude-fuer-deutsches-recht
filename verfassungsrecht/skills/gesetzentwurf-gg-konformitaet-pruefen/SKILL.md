@@ -22,7 +22,7 @@ Skill `bverfg-rechtsprechung-recherchieren` zuerst. Jede Aussage benötigt BVerf
 - **Adressatenkreis:** wer wird betroffen?
 - **Bestehende Regelungslage:** was gibt es bereits?
 
-### Schritt 2 — Gesetzgebungskompetenz (Aufruf Skill `gesetzgebungskompetenz-pruefen`)
+### Schritt 2 — Gesetzgebungskompetenz (Aufruf Skill `gesetzgebungskompetenz-prüfen`)
 
 - Materiebestimmung (Schwerpunkt)
 - Art. 70–74 GG durchgehen
@@ -39,13 +39,13 @@ Skill `bverfg-rechtsprechung-recherchieren` zuerst. Jede Aussage benötigt BVerf
 
 ### Schritt 4 — Materielle Verfassungsmäßigkeit pro betroffenes Grundrecht
 
-Für jedes betroffene Grundrecht (Aufruf Skill `grundrechtspruefung`):
+Für jedes betroffene Grundrecht (Aufruf Skill `grundrechtsprüfung`):
 
 - Schutzbereich identifizieren.
 - Eingriff bestimmen — auch mittelbare und faktische Eingriffe einbeziehen.
 - Schranke benennen.
 - **Schranken-Schranken** prüfen:
-  - **Verhältnismäßigkeit** (Aufruf Skill `verhaeltnismaessigkeit`) — vier Stufen.
+  - **Verhältnismäßigkeit** (Aufruf Skill `verhältnismäßigkeit`) — vier Stufen.
   - Wesensgehalt Art. 19 Abs. 2 GG.
   - Zitiergebot.
   - Allgemeinheit Art. 19 Abs. 1 S. 1 GG.

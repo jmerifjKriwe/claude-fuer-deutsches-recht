@@ -3,12 +3,12 @@ name: fachanwalt-orientierung
 description: Orientierung im Informationstechnologierecht — FAO Voraussetzungen Normen typische Mandate Standardliteratur. Vertragsrecht IT (Software-Lizenz SaaS Cloud) DSGVO BDSG TTDSG TKG NIS2-Umsetzungsgesetz DDG (vormals TMG) DSA Digital Services Act DMA Digital Markets Act EU-KI-VO Verordnung 2024/1689. Open-Source-Compliance. Schnittstelle Plugin datenschutzrecht ki-governance vertragsrecht.
 ---
 
-# Fachanwalt fuer Informationstechnologierecht — Orientierung
+# Fachanwalt für Informationstechnologierecht — Orientierung
 
 ## FAO-Voraussetzungen
 
 - Lehrgang 120 Stunden + drei Klausuren.
-- 50 Faelle in den letzten drei Jahren, davon mindestens 25 IT-rechtliche und 15 streitige.
+- 50 Fälle in den letzten drei Jahren, davon mindestens 25 IT-rechtliche und 15 streitige.
 
 ## Wichtige Normen
 
@@ -17,7 +17,7 @@ description: Orientierung im Informationstechnologierecht — FAO Voraussetzunge
 | IT-Vertragsrecht | BGB §§ 305 ff. (AGB) §§ 631 ff. (Werkvertrag bei Softwareentwicklung) §§ 535 ff. (Mietrecht analog bei SaaS-Cloud-Modellen) |
 | Datenschutz | DSGVO BDSG TTDSG |
 | Telekommunikation | TKG |
-| Digitale Dienste | DDG (Digitale-Dienste-Gesetz seit 14.05.2024 ersetzt TMG fuer Plattformbetreiber) |
+| Digitale Dienste | DDG (Digitale-Dienste-Gesetz seit 14.05.2024 ersetzt TMG für Plattformbetreiber) |
 | Cybersicherheit | NIS2-Umsetzungsgesetz BSIG |
 | Plattformregulierung | DSA (EU 2022/2065) DMA (EU 2022/1925) |
 | Kuenstliche Intelligenz | EU-KI-VO (EU 2024/1689) |
@@ -27,7 +27,7 @@ description: Orientierung im Informationstechnologierecht — FAO Voraussetzunge
 
 ## Typische Mandate
 
-- SaaS-Vertraege Cloud-Vertraege Software-Lizenz
+- SaaS-Verträge Cloud-Verträge Software-Lizenz
 - Datenschutz-Audit Datenschutzfolgenabschaetzung (siehe datenschutzrecht)
 - Open-Source-Compliance
 - IT-Sicherheit NIS2-Umsetzung
@@ -40,16 +40,16 @@ description: Orientierung im Informationstechnologierecht — FAO Voraussetzunge
 
 - **Datenpannenmeldung** DSGVO Art. 33 — 72 Stunden.
 - **NIS2-Meldepflicht** binnen 24 Stunden erste Meldung 72 Stunden Update.
-- **Vertragsverjaehrung** regelmaessig drei Jahre (§ 195 BGB).
-- **Open-Source-Lizenzverletzung** Verjaehrung drei Jahre.
+- **Vertragsverjährung** regelmäßig drei Jahre (§ 195 BGB).
+- **Open-Source-Lizenzverletzung** Verjährung drei Jahre.
 
 ## Hauptgerichte
 
-- Landgericht Zivilkammern fuer IT-Sachen.
+- Landgericht Zivilkammern für IT-Sachen.
 - OLG.
 - BGH I. Zivilsenat oder III. Zivilsenat je nach Bezug.
-- Bundeskartellamt / Vergabekammer bei oeffentlichen IT-Auftraegen.
-- BfDI und Landesdatenschutzbehoerden.
+- Bundeskartellamt / Vergabekammer bei öffentlichen IT-Aufträgen.
+- BfDI und Landesdatenschutzbehörden.
 
 ## Standardliteratur
 
@@ -64,8 +64,8 @@ description: Orientierung im Informationstechnologierecht — FAO Voraussetzunge
 
 ## Schnittstellen
 
-- **datenschutzrecht** fuer DSGVO-Pflichten.
-- **ki-governance** fuer KI-VO und AIA.
+- **datenschutzrecht** für DSGVO-Pflichten.
+- **ki-governance** für KI-VO und AIA.
 - **gewerblicher-rechtsschutz** bei Markenrecht IT-Branding.
-- **vertragsrecht** bei SaaS-/Cloud-AGB-Pruefung.
+- **vertragsrecht** bei SaaS-/Cloud-AGB-Prüfung.
 - **kanzlei-cowork** Fristen Versand.

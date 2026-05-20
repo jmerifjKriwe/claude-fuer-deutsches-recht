@@ -3,7 +3,7 @@ name: kuendigungs-pruefung
 description: "Rechtliche Prüfung einer ordentlichen oder außerordentlichen Kündigung – KSchG (allgemeiner und besonderer Kündigungsschutz), § 102 BetrVG (Betriebsratsanhörung), §§ 622 und 626 BGB (Fristen und wichtiger Grund), Sozialauswahl § 1 Abs. 3 KSchG, Sonderkündigungsschutz (MuSchG, BEEG, SGB IX, § 15 KSchG)."
 ---
 
-# /arbeitsrecht:kuendigungs-pruefung
+# /arbeitsrecht:kündigungs-prüfung
 
 ## Zweck
 
@@ -49,7 +49,7 @@ Checkliste:
 - Frist abgewartet? (ordentlich: 1 Woche; außerordentlich: 3 Tage; § 102 Abs. 2 BetrVG)
 - Ordnungsgemäße Bedenken des BR beachtet (keine Vetorechte bei ordentlicher Kündigung, aber Widerspruch nach § 102 Abs. 3 BetrVG gibt Weiterbeschäftigungsanspruch § 102 Abs. 5 BetrVG)
 
-Verweis auf separaten Skill: `/arbeitsrecht:betriebsrat-anhoerung`
+Verweis auf separaten Skill: `/arbeitsrecht:betriebsrat-anhörung`
 
 ### 4. Prüfung des Kündigungsgrunds (§ 1 KSchG)
 

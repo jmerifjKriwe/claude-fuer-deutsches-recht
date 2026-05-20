@@ -7,9 +7,9 @@ description: Akteneinsicht in Steuerakten — Anspruch im Einspruchsverfahren na
 
 ## Rechtsgrundlagen
 
-- **§ 364 AO** Akteneinsicht im Einspruchsverfahren — wesentlicher Aspekt des rechtlichen Gehoers; Behoerde teilt die Tatsachen mit auf die sie ihre Entscheidung stuetzen will.
+- **§ 364 AO** Akteneinsicht im Einspruchsverfahren — wesentlicher Aspekt des rechtlichen Gehoers; Behörde teilt die Tatsachen mit auf die sie ihre Entscheidung stützen will.
 - **§ 78 FGO** Akteneinsicht im Klageverfahren.
-- **Art. 15 DSGVO** Auskunft ueber eigene personenbezogene Daten — ergaenzend.
+- **Art. 15 DSGVO** Auskunft über eigene personenbezogene Daten — ergänzend.
 - **§ 88 AO** Untersuchungsgrundsatz im Verwaltungsverfahren.
 
 ## Antrag
@@ -20,36 +20,36 @@ description: Akteneinsicht in Steuerakten — Anspruch im Einspruchsverfahren na
 An das Finanzamt XYZ
 - Steuernummer ...
 
-In dem Einspruchsverfahren ueber den Bescheid vom (Datum) ueber
+In dem Einspruchsverfahren über den Bescheid vom (Datum) über
 (Steuerart) (Jahr) Az (...)
 
 beantragt der Einspruchsfuehrer
-Akteneinsicht in die vollstaendige Steuerakte gemaess § 364 AO
-einschliesslich
-- Veranlagungsakten der Pruefungsjahre
-- Aussenpruefungs-Berichte und Pruefungs-Notizen
+Akteneinsicht in die vollständige Steuerakte gemäß § 364 AO
+einschließlich
+- Veranlagungsakten der Prüfungsjahre
+- Außenprüfungs-Berichte und Prüfungs-Notizen
 - Aktenvermerke
 - Korrespondenz mit Dritten
-- Daten ueber Kontroll- und Ueberwachungspruefungen
+- Daten über Kontroll- und Überwachungsprüfungen
 
-bevorzugt durch elektronische Uebersendung ueber beA.
+bevorzugt durch elektronische Übersendung über beA.
 ```
 
 ### Im Klageverfahren
 
 Antrag beim Finanzgericht auf Akteneinsicht (§ 78 FGO) zusammen mit der Beiziehung der Verwaltungsakten (§ 71 Abs. 2 FGO).
 
-## Sonderfaelle
+## Sonderfälle
 
 ### Steuergeheimnis Dritter (§ 30 AO)
 
-- Akten enthalten haeufig Daten Dritter (z. B. Zeugenangaben Mitteilungen von Drittstellen).
-- Schwaerzung zulaessig wenn Drittdatenschutz dies erfordert.
-- Bei umfangreicher Schwaerzung: Antrag auf Begruendung; ggf. gerichtliche Pruefung.
+- Akten enthalten häufig Daten Dritter (z. B. Zeugenangaben Mitteilungen von Drittstellen).
+- Schwaerzung zulässig wenn Drittdatenschutz dies erfordert.
+- Bei umfangreicher Schwaerzung: Antrag auf Begründung; ggf. gerichtliche Prüfung.
 
-### Pruefungsanmerkungen und interne Vermerke
+### Prüfungsanmerkungen und interne Vermerke
 
-- Auch interne Pruefer-Notizen sind Aktenbestandteil — Anspruch grundsaetzlich gegeben.
+- Auch interne Prüfer-Notizen sind Aktenbestandteil — Anspruch grundsaetzlich gegeben.
 - Kontrollmitteilungen aus § 93a AO Steuer-Identifikationssystem ggf. relevant.
 
 ### Internationaler Datenaustausch
@@ -64,8 +64,8 @@ Pro Aktenbestandteil:
 - Datum
 - Verfasser
 - Inhaltskurzfassung
-- Entscheidungserheblichkeit (entscheidend / hilfreich / neutral / belastend / luecke)
-- Pinpoint-Verweis fuer zukuenftigen Schriftsatz
+- Entscheidungserheblichkeit (entscheidend / hilfreich / neutral / belastend / lücke)
+- Pinpoint-Verweis für zukuenftigen Schriftsatz
 
 Anschluss an Skill `steuerbescheid-analyse` und Folge-Schriftsatz.
 
@@ -78,7 +78,7 @@ Tabellarisch nach Datum mit:
 
 ## Datenschutz
 
-- Steuerakte enthaelt besonders sensible Daten (Vermoegen Einkommen Familie Konten).
+- Steuerakte enthält besonders sensible Daten (Vermögen Einkommen Familie Konten).
 - Verarbeitung nur in Tools mit AVV.
 - Mandantenakte unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-kanzlei/mandate/<az>/`.
 
@@ -86,4 +86,4 @@ Tabellarisch nach Datum mit:
 
 - Akteneinsichtsantrag `akteneinsichtsantrag-<az>-<datum>.docx`.
 - Aktenchronik nach Eingang `aktenchronik-<az>.md`.
-- Pruefer-Pruefkatalog mit `[prueferflag]`-Eintraegen.
+- Prüfer-Prüfkatalog mit `[prüferflag]`-Einträgen.

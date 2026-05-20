@@ -115,7 +115,7 @@ Abschluss mit Nächste-Schritte-Entscheidungsbaum gemäß Kanzleikonfiguration `
 
 ## Auffälligkeiten
 
-- **Überfällige Fristen:** [Mandate mit vergangener `naechste_frist`]
+- **Überfällige Fristen:** [Mandate mit vergangener `nächste_frist`]
 - **Veraltet (>30 Tage kein Update):** [Liste]
 - **Interessenkonfliktprüfung offen:** [Mandate mit `konfliktstatus: ausstehend` oder `nicht-durchgeführt`]
 - **Interessenkonflikt überbrückt (Override aktiv):** [Mandate mit aktivem Override — dauerhaft markiert bis manuell gelöscht]
@@ -146,7 +146,7 @@ Abschluss mit Nächste-Schritte-Entscheidungsbaum gemäß Kanzleikonfiguration `
 
 ## Auffälligkeitsregeln
 
-1. **Überfällige Frist:** `naechste_frist < heute` und `status != geschlossen`
+1. **Überfällige Frist:** `nächste_frist < heute` und `status != geschlossen`
 2. **Veraltet:** `zuletzt_aktualisiert < heute - 30 Tage` und `status != geschlossen`
 3. **Interessenkonflikt offen:** `konfliktstatus in [ausstehend, nicht-durchgeführt]` und `status != geschlossen`
 4. **Override aktiv:** `konflikt_override.durch != null` (löscht sich nicht automatisch)

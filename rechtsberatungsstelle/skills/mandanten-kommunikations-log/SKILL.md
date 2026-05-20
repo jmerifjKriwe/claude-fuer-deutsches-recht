@@ -19,7 +19,7 @@ description: "Erstellt und pflegt ein strukturiertes Kommunikationslogbuch für 
 
 Lückenlose Dokumentation aller Kontakte in einem Mandat ist aus mehreren Gründen unverzichtbar:
 
-1. **Semesterübergabe:** Nachfolgende Studierende müssen den Stand des Mandats vollständig nachvollziehen können (`/rechtsberatungsstelle:semester-uebergabe`).
+1. **Semesterübergabe:** Nachfolgende Studierende müssen den Stand des Mandats vollständig nachvollziehen können (`/rechtsberatungsstelle:semester-übergabe`).
 2. **Haftungssicherung:** Im Streitfall muss nachgewiesen werden können, wann welche Mitteilung erging (§ 127 BGB analog für Fristwahrung).
 3. **Qualitätssicherung:** Der anleitende Volljurist prüft, ob der Mandant korrekt informiert und keine unzulässige Rechtsberatung erteilt wurde.
 4. **Verschwiegenheit:** Das Logbuch enthält personenbezogene Daten und fällt unter § 43a Abs. 2 BRAO (Anleiter), § 203 StGB (alle Beteiligten), DSGVO Art. 5, 9. Kein Zugang für Dritte ohne Freigabe.
@@ -102,7 +102,7 @@ Lückenlose Dokumentation aller Kontakte in einem Mandat ist aus mehreren Gründ
 
 - Neue Kommunikation dokumentieren → Eingaben abfragen (Datum, Art, Beteiligte, Inhalt, Fristen).
 - Bestehendes Log abrufen → Alle Einträge chronologisch ausgeben; Summary der offenen Fristen und nächsten Schritte.
-- Log für Semesterübergabe exportieren → `/rechtsberatungsstelle:semester-uebergabe` aufrufen.
+- Log für Semesterübergabe exportieren → `/rechtsberatungsstelle:semester-übergabe` aufrufen.
 
 ### Schritt 2: Fristen prüfen
 
@@ -158,5 +158,5 @@ Mandant wünscht Widerspruch. Kopie des Bescheids wird per Post zugesandt. Frist
 
 - **Kein Versanddatum notiert:** Im Nachhinein nicht mehr beweisbar, ob eine Frist gewahrt wurde. Immer Einschreibebeleg aufbewahren und im Log festhalten.
 - **Dolmetscher nicht dokumentiert:** Bei Sprachbarrieren ist der Nachweis, dass der Mandant den Inhalt verstanden hat, entscheidend (Aufklärungspflicht).
-- **Offene Fristen nicht weitergegeben:** Beim Semesterwechsel sind nicht übergebene Fristen das größte Haftungsrisiko. Das Log ist die Grundlage für `/rechtsberatungsstelle:semester-uebergabe`.
+- **Offene Fristen nicht weitergegeben:** Beim Semesterwechsel sind nicht übergebene Fristen das größte Haftungsrisiko. Das Log ist die Grundlage für `/rechtsberatungsstelle:semester-übergabe`.
 - **Personenbezogene Daten unverschlüsselt gespeichert:** DSGVO Art. 9 verlangt erhöhten Schutz für Asylstatus, Gesundheitsdaten. Kein Upload in unkonfigurierte Cloud-Systeme ohne Auftragsverarbeitungsvertrag (Art. 28 DSGVO).

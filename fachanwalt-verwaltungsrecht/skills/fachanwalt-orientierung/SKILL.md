@@ -3,12 +3,12 @@ name: fachanwalt-orientierung
 description: Orientierung im Verwaltungsrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. VwGO Verwaltungsverfahrensgesetz des Bundes und der Laender Polizei- und Ordnungsrecht Bauplanung und Bauordnung Beamtenrecht. Verfahrensarten Anfechtungsklage Verpflichtungsklage Allgemeine Leistungsklage Feststellungsklage Normenkontrolle Eilrechtsschutz § 80 Abs. 5 VwGO einstweilige Anordnung § 123 VwGO.
 ---
 
-# Fachanwalt fuer Verwaltungsrecht — Orientierung
+# Fachanwalt für Verwaltungsrecht — Orientierung
 
 ## FAO-Voraussetzungen
 
 - Lehrgang 120 Stunden + drei Klausuren.
-- 80 Faelle in den letzten drei Jahren, davon mindestens 30 gerichtliche Verfahren.
+- 80 Fälle in den letzten drei Jahren, davon mindestens 30 gerichtliche Verfahren.
 
 ## Wichtige Normen
 
@@ -21,16 +21,16 @@ description: Orientierung im Verwaltungsrecht — FAO Voraussetzungen Normen typ
 | Baurecht | BauGB BauNVO Landesbauordnungen |
 | Beamtenrecht | BeamtStG BBG Landesbeamtengesetze |
 | Versammlungsrecht | VersG / Landesversammlungsgesetze |
-| Datenschutz oeffentlich | BDSG Landesdatenschutzgesetze |
+| Datenschutz öffentlich | BDSG Landesdatenschutzgesetze |
 
 ## Typische Mandate
 
 - Bauantrag Widerspruch und Klage
-- Polizei- und Ordnungsverfuegung
+- Polizei- und Ordnungsverfügung
 - Beamtenrechtliche Streitigkeiten (Beurteilung Versetzung Disziplinarverfahren)
 - Sozialhilfe vs Eingliederung (Abgrenzung zu Sozialrecht)
 - Versammlungsverbot
-- Auslaender- und Asylrechtsstreit (siehe fachanwalt-migrationsrecht)
+- Ausländer- und Asylrechtsstreit (siehe fachanwalt-migrationsrecht)
 - Verwaltungsvollstreckung
 
 ## Fristen
@@ -61,6 +61,6 @@ description: Orientierung im Verwaltungsrecht — FAO Voraussetzungen Normen typ
 
 ## Schnittstellen
 
-- **kanzlei-cowork** fuer Fristen Versand.
-- **fachanwalt-migrationsrecht** bei Auslaenderrecht.
+- **kanzlei-cowork** für Fristen Versand.
+- **fachanwalt-migrationsrecht** bei Ausländerrecht.
 - **sozialrecht-kanzlei** Abgrenzung Sozialgericht vs. Verwaltungsgericht.

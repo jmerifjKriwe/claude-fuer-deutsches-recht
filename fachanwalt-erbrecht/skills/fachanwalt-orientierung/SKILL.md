@@ -3,12 +3,12 @@ name: fachanwalt-orientierung
 description: Orientierung im Erbrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. BGB Erbrecht §§ 1922 ff. (Erbfolge gesetzliche und gewillkuerte Erbfolge Testament Erbvertrag Pflichtteil Vermaechtnis) ErbStG Erbschaftsteuer EU-ErbVO bei grenzueberschreitenden Erbfaellen. Verfahren vor dem Nachlassgericht (FamFG §§ 342 ff.) Erbscheinverfahren Testamentseroeffnung.
 ---
 
-# Fachanwalt fuer Erbrecht — Orientierung
+# Fachanwalt für Erbrecht — Orientierung
 
 ## FAO-Voraussetzungen
 
 - Lehrgang 120 Stunden + drei Klausuren.
-- 80 Faelle in den letzten drei Jahren, davon mindestens 60 erbrechtliche Faelle einschliesslich 20 streitiger Verfahren.
+- 80 Fälle in den letzten drei Jahren, davon mindestens 60 erbrechtliche Fälle einschließlich 20 streitiger Verfahren.
 
 ## Wichtige Normen
 
@@ -27,28 +27,28 @@ description: Orientierung im Erbrecht — FAO Voraussetzungen Normen typische Ma
 - Pflichtteilsstreit (Auskunfts- und Wertfeststellungsklage Stufenklage § 254 ZPO)
 - Erbauseinandersetzung
 - Testamentsanfechtung (§ 2078 BGB)
-- Schenkung und Pflichtteilsergaenzungsanspruch (§ 2325 BGB)
+- Schenkung und Pflichtteilsergänzungsanspruch (§ 2325 BGB)
 - Erbschaftsteuer-Bescheid (siehe steuerrecht-kanzlei)
-- Internationale Erbfaelle und EU-ErbVO
+- Internationale Erbfälle und EU-ErbVO
 
 ## Fristen
 
 - **Erbschaftsannahme oder -ausschlagung** § 1944 BGB — sechs Wochen ab Kenntnis vom Erbfall und Berufungsgrund; bei Auslandsaufenthalt sechs Monate.
 - **Anfechtung Erbschaftsannahme/-ausschlagung** § 1954 BGB — sechs Wochen.
-- **Pflichtteilsanspruch** Verjaehrung drei Jahre ab Kenntnis (§ 2332 BGB iVm § 195 BGB).
+- **Pflichtteilsanspruch** Verjährung drei Jahre ab Kenntnis (§ 2332 BGB iVm § 195 BGB).
 - **Anfechtung Testament** § 2082 BGB — ein Jahr ab Kenntnis.
-- **Schenkungsfrist Pflichtteilsergaenzung** § 2325 BGB — zehn Jahre (mit Abschmelzungsmodell).
+- **Schenkungsfrist Pflichtteilsergänzung** § 2325 BGB — zehn Jahre (mit Abschmelzungsmodell).
 
 ## Hauptgerichte
 
 - Nachlassgericht beim Amtsgericht (§ 342 FamFG).
 - Beschwerdegericht: Landgericht / OLG.
-- BGH IV. Zivilsenat fuer Erbsachen.
+- BGH IV. Zivilsenat für Erbsachen.
 - Finanzgericht bei Erbschaftsteuer.
 
 ## Standardliteratur
 
-- MueKoBGB Erbrecht.
+- MüKoBGB Erbrecht.
 - Staudinger BGB Erbrecht.
 - BeckOK BGB Erbrecht.
 - Burandt/Rojahn, Erbrecht.
@@ -57,7 +57,7 @@ description: Orientierung im Erbrecht — FAO Voraussetzungen Normen typische Ma
 ## Berufsverband
 
 - ARGE Erbrecht DAV.
-- Deutsche Vereinigung fuer Erbrecht und Vermoegensnachfolge DVEV.
+- Deutsche Vereinigung für Erbrecht und Vermögensnachfolge DVEV.
 
 ## Schnittstellen
 

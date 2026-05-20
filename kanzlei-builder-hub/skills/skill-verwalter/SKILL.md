@@ -91,7 +91,7 @@ Die Skill-Zeile aus der installierten Starter-Pack-Tabelle in der Hub-CLAUDE.md 
 #### Schritt 2: Umzubenennende Dateien identifizieren
 
 - `SKILL.md` → `SKILL.md.deaktiviert`
-- `ausloeser/ausloeser.json` → `ausloeser/ausloeser.json.deaktiviert` (falls vorhanden)
+- `auslöser/auslöser.json` → `auslöser/auslöser.json.deaktiviert` (falls vorhanden)
 - Agent-Dateien des Skills → `agents/*.md.deaktiviert` (geplante Agenten damit stoppen)
 
 #### Schritt 3: Bestätigen

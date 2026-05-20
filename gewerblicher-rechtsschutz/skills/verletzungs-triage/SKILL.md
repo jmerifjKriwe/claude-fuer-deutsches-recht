@@ -141,7 +141,7 @@ Zitierweise nach `../references/zitierweise.md`.
 - Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 14 Rn. 345 ff.
 - Wandtke/Bullinger, UrhR, 6. Aufl. 2022, § 97 Rn. 1 ff.
 - Dreier/Schulze, UrhG, 7. Aufl. 2022, § 97 Rn. 10 ff.
-- Schricker/Loewenheim, UrhG, 6. Aufl. 2020, § 97 Rn. 42 ff.
+- Schricker/Löwenheim, UrhG, 6. Aufl. 2020, § 97 Rn. 42 ff.
 
 ## Ausgabeformat
 

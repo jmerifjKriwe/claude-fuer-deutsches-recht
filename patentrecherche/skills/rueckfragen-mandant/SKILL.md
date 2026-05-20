@@ -3,7 +3,7 @@ name: rueckfragen-mandant
 description: "Generiert Rueckfragen an den Mandanten wenn das vorgelegte Material fuer eine sinnvolle Recherche nicht ausreicht oder Abgrenzungsfragen offen sind. Pflichtfragen: Was ist der wesentliche Loesungsbeitrag der Erfindung gegenueber dem Stand der Technik den der Mandant kennt; Welcher Anspruch ist der wichtigste; Welcher Markt und welche Zielstaaten; Gibt es eigene fruehere Veroeffentlichungen Anmeldungen Vortraege Messeauftritte (Eigenstand der Technik); Gibt es Konkurrenten die das Plugin in den Watch nehmen soll; Welcher Recherchezweck. Formuliert die Rueckfragen als Brief oder als Frageliste die in eine Mandantenrueckfrage uebernommen werden kann. Disclaimer keine Rechtsberatung Patentanwaeltin verantwortet die Mandantenkommunikation."
 ---
 
-# rueckfragen-mandant
+# rückfragen-mandant
 
 ## Zweck
 
@@ -91,11 +91,11 @@ Sehr geehrte/r [Anrede Mandant],
 
 zur Vorbereitung der angefragten Patentrecherche bitten wir Sie um folgende
 Klarstellungen. Sie helfen uns, den Rechercheaufwand zielgerichtet zu steuern
-und am Ende ein moeglichst aussagekraeftiges Ergebnis vorzulegen.
+und am Ende ein möglichst aussagekraeftiges Ergebnis vorzulegen.
 
-1. [Frage 1 — Loesungsbeitrag]
+1. [Frage 1 — Lösungsbeitrag]
 2. [Frage 2 — Anspruchsentwurf]
-3. [Frage 3 — eigene fruehere Veroeffentlichungen]
+3. [Frage 3 — eigene fruehere Veröffentlichungen]
 4. [Frage 4 — Zielmarkt / Territorien]
 5. [Frage 5 — Konkurrenten]
 6. [Frage 6 — Recherchezweck]
@@ -105,12 +105,12 @@ und am Ende ein moeglichst aussagekraeftiges Ergebnis vorzulegen.
 10. [Frage 10 — Honorar / Budget]
 
 Bitte richten Sie Ihre Antworten an [Adresse] oder vereinbaren Sie einen Telefon-
-oder Video-Termin mit unserem Sekretariat. Wir empfehlen eine Rueckmeldung bis
-zum [Datum], damit wir den vereinbarten Recherchetermin einhalten koennen.
+oder Video-Termin mit unserem Sekretariat. Wir empfehlen eine Rückmeldung bis
+zum [Datum], damit wir den vereinbarten Recherchetermin einhalten können.
 
-Mit freundlichen Gruessen
+Mit freundlichen Grüßen
 
-[Patentanwaeltin / Patentanwalt]
+[Patentanwältin / Patentanwalt]
 ```
 
 ## Hinweise
@@ -121,4 +121,4 @@ Mit freundlichen Gruessen
 
 ## Disclaimer
 
-> **Hinweis zur Rueckfrage.** Diese Rueckfrageliste ist eine durch Claude unterstuetzte Vorbereitung. Die Mandantenkommunikation verantwortet die Patentanwaeltin / der Patentanwalt — Inhalt, Sprache und Versandweg muessen vor Absendung kanzleiintern geprueft werden. Die Frageliste ersetzt nicht die individuelle Mandatsfuehrung.
+> **Hinweis zur Rückfrage.** Diese Rückfrageliste ist eine durch Claude unterstuetzte Vorbereitung. Die Mandantenkommunikation verantwortet die Patentanwältin / der Patentanwalt — Inhalt, Sprache und Versandweg müssen vor Absendung kanzleiintern geprüft werden. Die Frageliste ersetzt nicht die individuelle Mandatsfuehrung.

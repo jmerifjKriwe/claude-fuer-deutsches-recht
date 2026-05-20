@@ -5,24 +5,24 @@ description: Klageentwurf zum Amtsgericht in Fluggastrechtsangelegenheiten. Sach
 
 # Klage zum Amtsgericht (Fluggastrechte)
 
-## Disclaimer (Schluesselstelle)
+## Disclaimer (Schlüsselstelle)
 
-Eine Klage ist ein Rechtsschriftsatz mit Konsequenzen (Gerichtskosten Streitwert-Risiko Auslagen). Vor Einreichung Beweislage pruefen — auf konkrete Vorhalt-Antworten der Airline reagieren koennen. Bei komplexen Faellen anwaltliche Hilfe einholen — Rechtsschutzversicherung pruefen.
+Eine Klage ist ein Rechtsschriftsatz mit Konsequenzen (Gerichtskosten Streitwert-Risiko Auslagen). Vor Einreichung Beweislage prüfen — auf konkrete Vorhalt-Antworten der Airline reagieren können. Bei komplexen Fällen anwaltliche Hilfe einholen — Rechtsschutzversicherung prüfen.
 
 ## Voraussetzungen
 
 - **Schriftform** des Klageantrags (§ 253 ZPO).
-- **Klagepartei** ist der Anspruchsteller (jeder Passagier eigener Anspruch — Streitgenossenschaft moeglich nach § 60 ZPO).
-- **Beklagte** ausfuehrendes Luftfahrtunternehmen.
-- **Streitwert** Summe der Anspruechen aller Passagiere; bis zehntausend Euro AG-Zustaendigkeit.
+- **Klagepartei** ist der Anspruchsteller (jeder Passagier eigener Anspruch — Streitgenossenschaft möglich nach § 60 ZPO).
+- **Beklagte** ausführendes Luftfahrtunternehmen.
+- **Streitwert** Summe der Anspruechen aller Passagiere; bis zehntausend Euro AG-Zuständigkeit.
 
-## Sachliche Zustaendigkeit
+## Sachliche Zuständigkeit
 
 - **§ 23 Nr. 1 GVG i. d. F. seit 01.01.2026** Amtsgericht bei Streitwerten bis **zehntausend Euro**.
-- Ueber zehntausend Euro Landgericht (§ 71 GVG).
-- Bei Fluggastrechten ueber drei Personen mit 600-EUR-Anspruechen Schwelle erreichbar — pruefen.
+- Über zehntausend Euro Landgericht (§ 71 GVG).
+- Bei Fluggastrechten über drei Personen mit 600-EUR-Anspruechen Schwelle erreichbar — prüfen.
 
-## Oertliche Zustaendigkeit
+## Oertliche Zuständigkeit
 
 **EuGH, Urt. v. 09.07.2009 — C-204/08 (Rehder)**: Wahlrecht des Fluggasts. Klage kann am
 
@@ -33,7 +33,7 @@ erhoben werden. Subsidiaer
 
 - **Sitz / Niederlassung der Airline** in Deutschland (§§ 12 13 17 ZPO).
 
-Bei Pauschalreise mit Reiseveranstalter als Beklagter zusaetzlich der **Wohnsitz des Reiseveranstalters**.
+Bei Pauschalreise mit Reiseveranstalter als Beklagter zusätzlich der **Wohnsitz des Reiseveranstalters**.
 
 ## Klagestruktur
 
@@ -43,8 +43,8 @@ Bei Pauschalreise mit Reiseveranstalter als Beklagter zusaetzlich der **Wohnsitz
 An das Amtsgericht [Ort des Abflughafens / Zielflughafens / Niederlassung]
 
 In Sachen
-  [Hauptklaeger] und weitere Klaeger (siehe Anlage)
-  - vertreten durch [Hauptklaeger] aufgrund Vollmacht
+  [Hauptkläger] und weitere Kläger (siehe Anlage)
+  - vertreten durch [Hauptkläger] aufgrund Vollmacht
   
   gegen
   
@@ -55,17 +55,17 @@ In Sachen
 erhebe ich Klage und beantrage:
 ```
 
-### 2. Antraege
+### 2. Anträge
 
 ```
-1. Die Beklagte wird verurteilt an den Klaeger zu 1 [Name] 
-   [Betrag] EUR nebst Verzugszinsen in Hoehe von 5 Prozentpunkten ueber dem
+1. Die Beklagte wird verurteilt an den Kläger zu 1 [Name] 
+   [Betrag] EUR nebst Verzugszinsen in Höhe von 5 Prozentpunkten über dem
    Basiszinssatz seit [Datum Frist erste Mahnung + 1] zu zahlen.
 
-2. Die Beklagte wird verurteilt an den Klaeger zu 2 [Name] 
+2. Die Beklagte wird verurteilt an den Kläger zu 2 [Name] 
    [Betrag] EUR nebst Zinsen wie zu 1.
 
-3. Die Beklagte wird verurteilt an den Klaeger zu 3 [Name minderjaehrig]
+3. Die Beklagte wird verurteilt an den Kläger zu 3 [Name minderjährig]
    vertreten durch die Erziehungsberechtigten [Name]
    [Betrag] EUR nebst Zinsen wie zu 1.
 
@@ -84,87 +84,87 @@ Streitwert: [Summe der Einzelanspruechen]
 
 ```
 1. Die Klagepartei buchte am [Datum] bei der Beklagten die Beforderung
-   gemaess Buchungscode [PNR] auf dem Flug [Flugnummer] am [Datum] von
+   gemäß Buchungscode [PNR] auf dem Flug [Flugnummer] am [Datum] von
    [Abflughafen] nach [Zielflughafen] in Economy.
-   Beweis: Buchungsbestaetigung, Anlage K1
+   Beweis: Buchungsbestätigung, Anlage K1
 
 2. Die Klagepartei meldete sich am Tag des Flugs rechtzeitig zum
-   Check-in. Sie hatte ein gueltiges Ticket und alle Reisedokumente.
+   Check-in. Sie hatte ein gültiges Ticket und alle Reisedokumente.
    Beweis: Boardingpaesse, Anlage K2
 
 3. Der Flug wurde durch die Beklagte [annulliert / mit X Stunden
-   Verspaetung durchgefuehrt / die Befoerderung wurde verweigert].
+   Verspätung durchgeführt / die Befoerderung wurde verweigert].
    Beweis: Stoerungsmitteilung der Beklagten, Anlage K3
 
 4. [Bei Annullierung mit Ersatzflug:] Die Beklagte bot Ersatzflug
    [Flugnummer] am [Datum] an, mit dem die Klagepartei das Endziel
-   [X] Stunden verspaetet erreichte.
+   [X] Stunden verspätet erreichte.
    Beweis: Ersatz-Boardingpaesse, Anlage K4
 
 5. [Falls Auslagen entstanden:] Aufgrund der Annullierung musste die
-   Klagepartei [Hotel Verpflegung Telefon] in Hoehe von [Y] EUR
+   Klagepartei [Hotel Verpflegung Telefon] in Höhe von [Y] EUR
    aufwenden.
    Beweis: Belege, Anlage K5
 
 6. Mit Schreiben vom [Datum] forderte die Klagepartei die Beklagte
    zur Zahlung auf [Erste Stufe]; mit Schreiben vom [Datum]
    zur Zahlung nochmals [Mahnung].
-   Beweis: Forderungs- und Mahnschreiben mit Einschreiben-Rueckschein,
+   Beweis: Forderungs- und Mahnschreiben mit Einschreiben-Rückschein,
    Anlagen K6 K7
 
 7. Die Beklagte zahlte nicht.
 ```
 
-### 5. Rechtliche Wuerdigung
+### 5. Rechtliche Würdigung
 
 ```
 1. Anspruchsgrundlage: Art. 7 VO (EG) Nr. 261/2004.
 
-2. Anwendungsbereich: Der Flug erfuellt die Voraussetzungen des Art. 3
+2. Anwendungsbereich: Der Flug erfüllt die Voraussetzungen des Art. 3
    Abs. 1 VO 261/2004 (Abflug aus einem EU-Mitgliedstaat).
 
 3. Tatbestand: Der Flug wurde
-   [bei Annullierung] gemaess Art. 5 VO 261/2004 annulliert. Der
+   [bei Annullierung] gemäß Art. 5 VO 261/2004 annulliert. Der
    urspruengliche Flug fand nicht statt; der Ersatzflug am [Datum] erfolgte
-   mit gravierender Aenderung.
+   mit gravierender Änderung.
 
-   [bei Verspaetung] Der Flug erreichte das Endziel mit [X] Stunden
-   Verspaetung gemaess Art. 6 VO 261/2004 iVm EuGH-Rechtsprechung Sturgeon
-   C-402/07 — bei mehr als drei Stunden Verspaetung am Endziel entsteht
+   [bei Verspätung] Der Flug erreichte das Endziel mit [X] Stunden
+   Verspätung gemäß Art. 6 VO 261/2004 iVm EuGH-Rechtsprechung Sturgeon
+   C-402/07 — bei mehr als drei Stunden Verspätung am Endziel entsteht
    ein Ausgleichsanspruch wie bei Annullierung.
 
-   [bei Anschlussflug] Massgeblich ist die Endzielverspaetung gemaess EuGH
+   [bei Anschlussflug] Maßgeblich ist die Endzielverspätung gemäß EuGH
    C-11/11 (Folkerts).
 
 4. Distanz: Die Grosskreisdistanz [Abflug zu Endziel] betraegt [X] km.
    Dies entspricht der Stufe [1/2/3] des Art. 7 VO 261/2004.
 
-5. Hoehe des Anspruchs: [250 / 400 / 600] EUR pro Passagier;
+5. Höhe des Anspruchs: [250 / 400 / 600] EUR pro Passagier;
    bei [3] Passagieren [Gesamtbetrag] EUR.
 
-6. Keine Befreiung wegen aussergewoehnlicher Umstaende (Art. 5 Abs. 3
-   VO 261/2004). Die Beklagte hat sich auf [Begruendung der Airline]
-   berufen. Dies verfaengt aus folgenden Gruenden nicht:
+6. Keine Befreiung wegen außergewöhnlicher Umstaende (Art. 5 Abs. 3
+   VO 261/2004). Die Beklagte hat sich auf [Begründung der Airline]
+   berufen. Dies verfaengt aus folgenden Gründen nicht:
    
    [Bei technischem Defekt:] Technische Defekte sind nach EuGH, Urt. v.
-   22.12.2008 — C-549/07 (Wallentin-Hermann), regelmaessig nicht als
-   aussergewoehnliche Umstaende einzuordnen, weil sie Teil der normalen
-   Ausuebung der Taetigkeit des Luftfahrtunternehmens sind.
+   22.12.2008 — C-549/07 (Wallentin-Hermann), regelmäßig nicht als
+   außergewöhnliche Umstaende einzuordnen, weil sie Teil der normalen
+   Ausübung der Tätigkeit des Luftfahrtunternehmens sind.
    
    [Bei wildem Streik:] EuGH, Urt. v. 17.04.2018 — C-195/17 (Kruesemann),
-   ein wilder Streik des eigenen Personals stellt keinen aussergewoehnlichen
+   ein wilder Streik des eigenen Personals stellt keinen außergewöhnlichen
    Umstand dar.
    
-   Die Beweislast fuer aussergewoehnliche Umstaende und fuer die
-   Ergreifung aller zumutbaren Massnahmen liegt bei der Beklagten.
+   Die Beweislast für außergewöhnliche Umstaende und für die
+   Ergreifung aller zumutbaren Maßnahmen liegt bei der Beklagten.
 
 7. Verzug: Mit Ablauf der mit Schreiben vom [Datum] gesetzten Zahlungsfrist
-   trat Verzug ein (§ 286 Abs. 1 BGB). Verzugszinsen gemaess § 288 Abs. 1
+   trat Verzug ein (§ 286 Abs. 1 BGB). Verzugszinsen gemäß § 288 Abs. 1
    BGB.
 
-8. Sachliche Zustaendigkeit Amtsgericht (§ 23 Nr. 1 GVG bis zehntausend
-   Euro). Oertliche Zustaendigkeit [Abflughafen / Zielflughafen]
-   gemaess EuGH C-204/08 (Rehder).
+8. Sachliche Zuständigkeit Amtsgericht (§ 23 Nr. 1 GVG bis zehntausend
+   Euro). Oertliche Zuständigkeit [Abflughafen / Zielflughafen]
+   gemäß EuGH C-204/08 (Rehder).
 ```
 
 ### 6. Beweisangebote
@@ -173,20 +173,20 @@ Streitwert: [Summe der Einzelanspruechen]
 Beweise:
   Urkundenbeweis durch beigefuegte Anlagen K1 bis K7.
   Parteivernehmung der Klagepartei zum Verlauf vor Ort.
-  Im Bestreitensfall: Auskunft des Flughafens [Name] ueber tatsaechliche
+  Im Bestreitensfall: Auskunft des Flughafens [Name] über tatsächliche
   Abflug- und Ankunftszeiten (Anregung gerichtlicher Beiziehung).
 ```
 
 ### 7. Anlagen
 
 ```
-K1 Buchungsbestaetigung
+K1 Buchungsbestätigung
 K2 Boardingpaesse
 K3 Stoerungsmitteilung der Airline
 K4 Ersatzboardingpaesse (sofern vorhanden)
 K5 Belege zu Auslagen
-K6 Forderungsschreiben vom [Datum] mit Einschreiben-Rueckschein
-K7 Mahnschreiben vom [Datum] mit Einschreiben-Rueckschein
+K6 Forderungsschreiben vom [Datum] mit Einschreiben-Rückschein
+K7 Mahnschreiben vom [Datum] mit Einschreiben-Rückschein
 K8 Vollmachten der Mitreisenden
 ```
 
@@ -194,23 +194,23 @@ K8 Vollmachten der Mitreisenden
 
 ```
 [Ort, Datum]
-[Name (und ggf. Initialen aller Klaeger oder Vollmachtsverweis)]
+[Name (und ggf. Initialen aller Kläger oder Vollmachtsverweis)]
 ```
 
 ## Anwaltszwang
 
 - **Kein Anwaltszwang** vor dem Amtsgericht (§ 78 ZPO e contrario).
-- Selbstvertretung moeglich aber rechtliche Risiken vorhanden — vor Klage Skill `airline-standardausreden-pruefen` nutzen.
+- Selbstvertretung möglich aber rechtliche Risiken vorhanden — vor Klage Skill `airline-standardausreden-prüfen` nutzen.
 
 ## Versandweg
 
 - **Schriftlich** per Post oder zur Niederschrift.
-- **Elektronisch** wenn Mandant beA/EGVP-Zugang hat — fuer Privatpersonen ueblicherweise nicht.
+- **Elektronisch** wenn Mandant beA/EGVP-Zugang hat — für Privatpersonen üblicherweise nicht.
 
 ## Streitgenossenschaft
 
-- **Mehrere Passagiere** koennen als Streitgenossen klagen (§ 60 ZPO).
-- Eine Klageschrift fuer alle — separate Antraege je Klaeger.
+- **Mehrere Passagiere** können als Streitgenossen klagen (§ 60 ZPO).
+- Eine Klageschrift für alle — separate Anträge je Kläger.
 - Vollmacht der Mitreisenden erforderlich (Skill `vollmacht-familienmitglieder`).
 
 ## Ausgabe
@@ -223,4 +223,4 @@ K8 Vollmachten der Mitreisenden
 ## Hinweise
 
 - Vor Klage bei kleineren Anspruechen Schlichtungsstelle Luftverkehr (SOEP) versuchen — kostenfrei und meist erfolgreich.
-- Bei Erfolg keine Verjaehrungshemmung allein durch SOEP-Verfahren — Verjaehrungspruefung beachten (drei Jahre § 195 BGB).
+- Bei Erfolg keine Verjährungshemmung allein durch SOEP-Verfahren — Verjährungsprüfung beachten (drei Jahre § 195 BGB).

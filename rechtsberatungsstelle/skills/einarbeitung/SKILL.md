@@ -90,7 +90,7 @@ Für jeden Befehl: was er tut, was er ausdrücklich nicht tut, was der/die Studi
 Nachbesprechung: Was die Aufnahme erfasst hat, wo der Studierende tiefer hätte bohren sollen, was dem Supervisor zu flaggen ist.
 
 **Übung 2 — Übungsentwurf:**
-> Verwenden Sie Frau Erdems Aufnahme und führen Sie `/entwurf widerspruch-kuendigung` aus. Sie erhalten einen Erstentwurf.
+> Verwenden Sie Frau Erdems Aufnahme und führen Sie `/entwurf widerspruch-kündigung` aus. Sie erhalten einen Erstentwurf.
 >
 > Lesen Sie ihn kritisch. Was ist richtig? Was ist falsch? Was würden Sie vor Vorlage an [Supervisor] ändern?
 
@@ -161,7 +161,7 @@ Teil 2: Befehlsübersicht. Hofer fragt: „Was macht `/memo`?" → Erklärung: G
 
 Teil 3, Übung 1: Fiktiver Fall „Frau Erdem — Heizung defekt seit November". Hofer führt `/mandanten-aufnahme` durch, identifiziert Mietminderung (§ 536 BGB) und Mangel (§ 535 BGB) als Fragen. Nachbesprechung: Hofer hätte nach dem Datum der Mängelanzeige fragen sollen.
 
-Übung 2: `/entwurf widerspruch-kuendigung` — Hofer liest den Entwurf kritisch: „Der Entwurf nennt die Frist als 10.05.2026, aber die Kündigung war am 09.04. zugegangen — ich muss die Dreiwochenfrist für Kündigungsschutz prüfen."
+Übung 2: `/entwurf widerspruch-kündigung` — Hofer liest den Entwurf kritisch: „Der Entwurf nennt die Frist als 10.05.2026, aber die Kündigung war am 09.04. zugegangen — ich muss die Dreiwochenfrist für Kündigungsschutz prüfen."
 
 Übung 3: `/recherche-start "§ 536 BGB Mietminderung Heizungsausfall"` → Fahrplan mit ungeprüften Normen. Hofer wählt § 536c BGB und erklärt: Prüfung über juris mit Aktualitätsdatum.
 

@@ -3,12 +3,12 @@ name: fachanwalt-orientierung
 description: Orientierung im Bank- und Kapitalmarktrecht — FAO Voraussetzungen Normen typische Mandate Standardliteratur. KWG (Kreditwesengesetz) ZAG (Zahlungsdiensteaufsichtsgesetz) WpHG (Wertpapierhandelsgesetz) WpIG (Wertpapierinstitutsgesetz) MiFID-II MAR Marktmissbrauchsverordnung MiCAR Markets in Crypto Assets BGB-Verbraucherkredit §§ 491 ff. Beratungspflichten Aufklaerungspflichten Beratungshaftung.
 ---
 
-# Fachanwalt fuer Bank- und Kapitalmarktrecht — Orientierung
+# Fachanwalt für Bank- und Kapitalmarktrecht — Orientierung
 
 ## FAO-Voraussetzungen
 
 - Lehrgang 120 Stunden + drei Klausuren.
-- 60 Faelle in den letzten drei Jahren, davon mindestens 30 streitige.
+- 60 Fälle in den letzten drei Jahren, davon mindestens 30 streitige.
 
 ## Wichtige Normen
 
@@ -22,35 +22,35 @@ description: Orientierung im Bank- und Kapitalmarktrecht — FAO Voraussetzungen
 | Krypto-Assets | MiCAR (EU 2023/1114) |
 | Verbraucherkredit | §§ 491 ff. BGB CCD-Richtlinie |
 | Anlageberatung | §§ 31 ff. WpHG (Wohlverhalten Anlageberatung-Documentation) |
-| Vermoegensanlage | VermAnlG VermAnlVerkProspV |
-| KAGB | KAGB Investmentvermoegen |
+| Vermögensanlage | VermAnlG VermAnlVerkProspV |
+| KAGB | KAGB Investmentvermögen |
 | Geldwaesche | GwG |
 
 ## Typische Mandate
 
-- Verbraucherkredit (Widerruf nachtraegliche AGB-Pruefung)
+- Verbraucherkredit (Widerruf nachträgliche AGB-Prüfung)
 - Schadensersatz Anlageberatung Beratungspflicht-Verletzung (Bond-Schiff-Anlagen Lehman-Anlagen Cum-Ex)
 - Aufsichtsrechtsverfahren BaFin-Verfahren (Genehmigung Untersagung)
 - Krypto-Asset Compliance MiCAR
 - M&A im Finanzdienstleistungs-Bereich
 - Prospekthaftung
-- Insolvenzanfechtung von Kreditrueckzahlungen
+- Insolvenzanfechtung von Kreditrückzahlungen
 
 ## Fristen
 
-- **BGB-Widerrufsfrist** 14 Tage bei Fernabsatz und Haustuergeschaeft (§§ 312g 355 BGB) — bei fehlender Belehrung verlaengert.
-- **Beratungshaftung Verjaehrung** drei Jahre (§ 195 BGB) ab Kenntnis; Hoechstfrist zehn Jahre (§ 199 BGB).
+- **BGB-Widerrufsfrist** 14 Tage bei Fernabsatz und Haustürgeschaeft (§§ 312g 355 BGB) — bei fehlender Belehrung verlängert.
+- **Beratungshaftung Verjährung** drei Jahre (§ 195 BGB) ab Kenntnis; Höchstfrist zehn Jahre (§ 199 BGB).
 - **WpHG-Pflichten** laufende Aufzeichnung.
 - **Meldepflichten BaFin** unverzueglich bei meldepflichtigen Ereignissen.
 - **MAR Insider-Mitteilung** unverzueglich; Stimmrechtsmitteilungen §§ 33 ff. WpHG vier Handelstage.
 
 ## Hauptgerichte
 
-- Landgericht Zivilkammer fuer Bank- und Kapitalmarktsachen.
+- Landgericht Zivilkammer für Bank- und Kapitalmarktsachen.
 - OLG-Spezialsenate.
 - BGH XI. Zivilsenat (Bankrecht).
 - VG / OVG / BVerwG bei BaFin-Verwaltungsverfahren.
-- BaFin selbst als Aufsichtsbehoerde.
+- BaFin selbst als Aufsichtsbehörde.
 
 ## Standardliteratur
 
@@ -65,7 +65,7 @@ description: Orientierung im Bank- und Kapitalmarktrecht — FAO Voraussetzungen
 
 ## Schnittstellen
 
-- **gesellschaftsrecht** bei M&A und Kapitalmassnahmen.
+- **gesellschaftsrecht** bei M&A und Kapitalmaßnahmen.
 - **regulatorisches-recht** bei BaFin-Aufsicht.
 - **kanzlei-cowork** Fristen Versand.
 - **insolvenzrecht** bei Anfechtung.

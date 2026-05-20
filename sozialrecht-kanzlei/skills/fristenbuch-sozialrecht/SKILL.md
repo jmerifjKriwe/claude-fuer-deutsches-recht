@@ -14,16 +14,16 @@ Pro Eintrag:
 ```yaml
 - mandat-az: SR-2026-0042
   mandant: Mueller, Hans
-  vorgang: Buergergeld-Bescheid 12.03.2026
+  vorgang: Bürgergeld-Bescheid 12.03.2026
   fristart: widerspruchsfrist
   rechtsgrundlage: "§ 84 Abs. 1 SGG"
   fristbeginn: 2026-03-15  # Zugang nach Drei-Tages-Fiktion § 37 SGB X
   hauptfrist: 2026-04-15
   vorfrist-tage: 5
   vorfrist: 2026-04-10
-  zustaendig: RA Mueller
+  zuständig: RA Mueller
   status: offen
-  bemerkung: Widerspruchsbegruendung benoetigt Akteneinsicht
+  bemerkung: Widerspruchsbegründung benoetigt Akteneinsicht
 ```
 
 ## Standardfristen
@@ -34,8 +34,8 @@ Pro Eintrag:
 |---|---|---|
 | Widerspruchsfrist | § 84 Abs. 1 SGG | ein Monat ab Bekanntgabe; ein Jahr bei fehlender Rechtsbehelfsbelehrung § 66 Abs. 2 SGG |
 | Klagefrist nach Widerspruchsbescheid | § 87 Abs. 1 SGG | ein Monat |
-| Untaetigkeitsklage | § 88 SGG | drei Monate Untaetigkeit der Behoerde |
-| Beschwerde gegen Beschluesse des SG | § 173 SGG | ein Monat |
+| Untätigkeitsklage | § 88 SGG | drei Monate Untätigkeit der Behörde |
+| Beschwerde gegen Beschlüsse des SG | § 173 SGG | ein Monat |
 | Berufung gegen Urteile des SG | § 151 SGG | ein Monat |
 | Revisionsfrist | § 164 SGG | ein Monat |
 | Wiedereinsetzung | § 67 SGG | zwei Wochen ab Wegfall des Hindernisses |
@@ -45,38 +45,38 @@ Pro Eintrag:
 | Frist | Norm | Bedeutung |
 |---|---|---|
 | Drei-Tages-Fiktion Zustellung | § 37 Abs. 2 SGB X | Bekanntgabe drei Tage nach Aufgabe zur Post |
-| Genehmigungsfiktion Krankenkasse | § 13 Abs. 3a SGB V | drei Wochen (fuenf Wochen bei MDK) |
+| Genehmigungsfiktion Krankenkasse | § 13 Abs. 3a SGB V | drei Wochen (fünf Wochen bei MDK) |
 | Entscheidungsfrist Reha-Antrag | § 18 SGB IX | zwei Monate |
-| Ueberpruefungsantrag | § 44 SGB X | keine eigentliche Frist aber Wirkung nur fuer Vergangenheit |
+| Ueberprüfungsantrag | § 44 SGB X | keine eigentliche Frist aber Wirkung nur für Vergangenheit |
 
 ## Berechnung Fristbeginn
 
-- **Postzustellung** drei Tage nach Aufgabe (§ 37 Abs. 2 SGB X). Wenn nachweislich frueherer Zugang: Zugang massgeblich.
-- **EGVP / beA** Tag der erfolgreichen Uebertragung.
+- **Postzustellung** drei Tage nach Aufgabe (§ 37 Abs. 2 SGB X). Wenn nachweislich frueherer Zugang: Zugang maßgeblich.
+- **EGVP / beA** Tag der erfolgreichen Übertragung.
 - **Bekanntgabe durch Aushaendigung** Tag der Aushaendigung.
-- **Fristberechnung** § 26 SGB X iVm §§ 187 ff. BGB — Beginn des Folgetages; Ende mit Ablauf des entsprechenden Tages des letzten Monats; bei Wochenende / Feiertag auf naechsten Werktag.
+- **Fristberechnung** § 26 SGB X iVm §§ 187 ff. BGB — Beginn des Folgetages; Ende mit Ablauf des entsprechenden Tages des letzten Monats; bei Wochenende / Feiertag auf nächsten Werktag.
 
 ## Vorfristen
 
-- Standard fuenf Werktage vor Hauptfrist.
+- Standard fünf Werktage vor Hauptfrist.
 - Bei Klagefristen Vorfrist mindestens sieben Tage (Akteneinsicht beA-Versand Anlagenkonvolut).
-- Eskalation bei Vorfrist-Erreichung an zustaendigen Anwalt.
+- Eskalation bei Vorfrist-Erreichung an zuständigen Anwalt.
 
 ## Pflege
 
 - Bei Eingang Bescheid: sofort Eintrag im Fristenbuch.
 - Bei Eingang Widerspruchsbescheid: Eintrag Klagefrist.
-- Bei Untaetigkeit der Behoerde: Eintrag Drei-Monats-Frist Untaetigkeitsklage.
-- Bei Bewilligung mit Aenderungsvorbehalt: ggf. Wiedervorlage.
+- Bei Untätigkeit der Behörde: Eintrag Drei-Monats-Frist Untätigkeitsklage.
+- Bei Bewilligung mit Änderungsvorbehalt: ggf. Wiedervorlage.
 
 ## Ausgabe
 
 - `fristenbuch.yaml` aktualisiert
-- `fristen-uebersicht.md` als Sekretariats-Bericht (Tagesbericht naechste sieben Tage)
+- `fristen-übersicht.md` als Sekretariats-Bericht (Tagesbericht nächste sieben Tage)
 - Bei Vorfristerreichung: Erinnerungs-Eintrag im Sekretariats-Tagesbrief (Plugin `kanzlei-cowork`)
 
 ## Sicherheit
 
-- Niemals Fristen aendern ohne dokumentierte Begruendung.
+- Niemals Fristen ändern ohne dokumentierte Begründung.
 - Audit-Trail in der Aktenchronik.
-- Sekretariat und Anwalt gegenseitig pruefen.
+- Sekretariat und Anwalt gegenseitig prüfen.

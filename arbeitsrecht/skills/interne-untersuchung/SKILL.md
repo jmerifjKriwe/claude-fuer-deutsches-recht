@@ -160,9 +160,9 @@ fragen:
      Benachteiligung nach § 3 AGG vor?']"
   - "[Frage 2 falls zutreffend]"
 
-eintraege: []
+einträge: []
 
-beweisluecken: []
+beweislücken: []
 ```
 
 `investigation-[slug]/quellen-checkliste.yaml`:
@@ -383,7 +383,7 @@ quellen:
 
 ## Modus 2: Daten hinzufügen
 
-Ausgelöst durch `/arbeitsrecht:untersuchung-ergaenzen`.
+Ausgelöst durch `/arbeitsrecht:untersuchung-ergänzen`.
 
 ### Schritt 1 — Sache identifizieren
 
@@ -452,7 +452,7 @@ Für jeden relevanten Fund, Anhang an log.yaml:
 
 ```yaml
 - eintrag_id: [fortlaufend]
-  eintrag_typ: [befragung / dokument / anwaltsnotiz / beweisluecke]
+  eintrag_typ: [befragung / dokument / anwaltsnotiz / beweislücke]
   ereignis_datum: "[Datum des Ereignisses — nicht das Protokolldatum]"
   protokoll_datum: "[ISO-Datetime]"
   quelle: "[Name/Funktion der befragten Person oder Dokumentenbeschreibung]"
@@ -462,7 +462,7 @@ Für jeden relevanten Fund, Anhang an log.yaml:
   zusammenfassung: "[was dieser Eintrag zum Erkenntnisstand beiträgt — 2–5 Sätze]"
   zitat: "[wörtliches Zitat wenn bedeutsam — sonst leer]"
   widerspricht_eintrag: [eintrag_id oder null]
-  bestaetigt_eintrag: [eintrag_id oder null]
+  bestätigt_eintrag: [eintrag_id oder null]
   glaubwuerdigkeitsnotiz: ""
   auswahlkriterium: "[welches Kriterium hat angesprochen — für Dokumente]"
   vertraulich: arbeitsrechtlich-intern
@@ -471,7 +471,7 @@ Für jeden relevanten Fund, Anhang an log.yaml:
 Für Beweislücken:
 
 ```yaml
-- luecke_id: [fortlaufend]
+- lücke_id: [fortlaufend]
   beschreibung: "[welches Dokument/welche Quelle sollte existieren, fehlt aber]"
   identifiziert_aus: "[welcher Protokolleintrag oder Bericht hat darauf hingewiesen]"
   beschaffungsweg: "[wo es zu bekommen wäre]"
@@ -499,7 +499,7 @@ der Konflikt, welche Einträge stehen im Widerspruch, welche dokumentarische
 Evidenz besteht?
 
 **Deckungsabfrage** („Was fehlt noch?" / „Wo haben wir Lücken?"):
-quellen-checkliste.yaml und beweisluecken im log.yaml auslesen. Melden:
+quellen-checkliste.yaml und beweislücken im log.yaml auslesen. Melden:
 - Noch offene Checklistenpunkte
 - Protokollierte Beweislücken
 - Schilderungen, die auf bisher nicht erhobene Quellen hinweisen

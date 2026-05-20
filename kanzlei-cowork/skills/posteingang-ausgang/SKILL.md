@@ -13,11 +13,11 @@ description: Postein- und Postausgangsbuch fuehren. Posteingang erfasst Empfangs
 - eingang-id: PE-2026-04223
   empfangsdatum: 2026-05-20
   eingangsweg: post  # post / bea / egvp / e-mail / fax / persoenlich
-  absender: Amtsgericht Muenchen
-  art: urteil  # urteil / beschluss / verfuegung / mandantenbrief / behoerden-bescheid / sonstiges
+  absender: Amtsgericht München
+  art: urteil  # urteil / beschluss / verfügung / mandantenbrief / behörden-bescheid / sonstiges
   mandat-az: 2026/0042
   betreff: Klage gg. ABC GmbH
-  zustaendigkeit: RA Mueller
+  zuständigkeit: RA Mueller
   fristfolge: berufungsfrist
   fristtermin: 2026-06-20
   aktion: an-fristenbuch
@@ -26,14 +26,14 @@ description: Postein- und Postausgangsbuch fuehren. Posteingang erfasst Empfangs
 
 ### Pflichtschritte
 
-1. **Eingangsdatum** zwingend erfassen — bei Postzustellung das tatsaechliche Empfangsdatum (nicht das Postaufgabedatum).
+1. **Eingangsdatum** zwingend erfassen — bei Postzustellung das tatsächliche Empfangsdatum (nicht das Postaufgabedatum).
 2. **Zuordnung zur Akte** — wenn keine Akte vorhanden Neueinrichtung (Skill `mandantenakte-anlegen`).
-3. **Fristerkennung** — bei Urteilen Beschluessen Bescheiden sofort Frist ins Fristenbuch.
-4. **Anwalt informieren** — Zustaendigen anwaltlich benachrichtigen.
+3. **Fristerkennung** — bei Urteilen Beschlüssen Bescheiden sofort Frist ins Fristenbuch.
+4. **Anwalt informieren** — Zuständigen anwaltlich benachrichtigen.
 
 ### Drei-Tages-Fiktionen
 
-Bei Postzustellungen verschiedener Verfahrensordnungen gilt die Drei-Tages-Fiktion regelmaessig fuer den Fristbeginn. Bei nachweislich frueherem Zugang gilt der tatsaechliche Zugang. Dokumentation des Eingangsdatums daher entscheidend.
+Bei Postzustellungen verschiedener Verfahrensordnungen gilt die Drei-Tages-Fiktion regelmäßig für den Fristbeginn. Bei nachweislich frueherem Zugang gilt der tatsächliche Zugang. Dokumentation des Eingangsdatums daher entscheidend.
 
 ## Postausgang
 
@@ -43,14 +43,14 @@ Bei Postzustellungen verschiedener Verfahrensordnungen gilt die Drei-Tages-Fikti
 - ausgang-id: PA-2026-09817
   versanddatum: 2026-05-21
   versandweg: bea
-  empfaenger: Amtsgericht Muenchen
-  empfaenger-safe-id: 1234567890ABCDEF
+  empfänger: Amtsgericht München
+  empfänger-safe-id: 1234567890ABCDEF
   art: schriftsatz
   mandat-az: 2026/0042
   betreff: Berufung in Sachen Mueller gg. ABC GmbH
   unterzeichnet-von: RA Mueller
   versandnummer: V-2026-00123  # Verweis auf versand-vor-check
-  quittung-pdf: mandate/2026-0042/03_schriftsaetze/2026-05-21-bea-quittung.pdf
+  quittung-pdf: mandate/2026-0042/03_schriftsätze/2026-05-21-bea-quittung.pdf
   zugehoerige-frist: berufungsfrist 20.06.2026
   fristerledigung: ja
 ```
@@ -60,18 +60,18 @@ Bei Postzustellungen verschiedener Verfahrensordnungen gilt die Drei-Tages-Fikti
 1. **Vor Versand** den Skill `versand-vor-check` durchlaufen.
 2. **Versandnummer** aus dem Versand-Vor-Check uebernehmen.
 3. **Quittung** sichern (beA EGVP Einschreiben).
-4. **Fristerledigung** im Fristenbuch markieren (Verweis zurueck).
-5. **Mandant informieren** ueber den Versand falls vereinbart.
+4. **Fristerledigung** im Fristenbuch markieren (Verweis zurück).
+5. **Mandant informieren** über den Versand falls vereinbart.
 
 ## Vier-Augen-Prinzip
 
-Bei Notfristen (Berufung Revision Kuendigungsschutzklage): Posteingang Akte und Postausgang von zwei Personen gegenkontrolliert (Sekretariat + Anwalt).
+Bei Notfristen (Berufung Revision Kündigungsschutzklage): Posteingang Akte und Postausgang von zwei Personen gegenkontrolliert (Sekretariat + Anwalt).
 
 ## Audit-Trail
 
 - Append-only Logbuch `posteingang.jsonl` und `postausgang.jsonl`.
-- Aenderungen nur durch Korrektureintrag (kein Ueberschreiben).
-- Bei Korrektur: Begruendung Datum und ausfuehrende Person.
+- Änderungen nur durch Korrektureintrag (kein Ueberschreiben).
+- Bei Korrektur: Begründung Datum und ausführende Person.
 
 ## Tagesbrief-Integration
 
@@ -81,7 +81,7 @@ Bei Notfristen (Berufung Revision Kuendigungsschutzklage): Posteingang Akte und 
 ## Sichere Ablage
 
 - Pro Mandat unter `mandate/<az>/02_eingaenge/<datum>-<absender>-<art>.pdf`.
-- Postausgang unter `mandate/<az>/03_schriftsaetze/<datum>-<empfaenger>-<art>.pdf` plus Quittung.
+- Postausgang unter `mandate/<az>/03_schriftsätze/<datum>-<empfänger>-<art>.pdf` plus Quittung.
 - Verbindungen zu Fristenbuch und Honorar-Tracker.
 
 ## Datenschutz
@@ -93,5 +93,5 @@ Bei Notfristen (Berufung Revision Kuendigungsschutzklage): Posteingang Akte und 
 ## Ausgabe
 
 - Aktualisierte Logbuecher.
-- Tagesbrief-Eintraege.
+- Tagesbrief-Einträge.
 - Verbindungen zu Akte Fristenbuch und Honorar-Tracker.

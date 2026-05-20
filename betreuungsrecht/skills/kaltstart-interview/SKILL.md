@@ -13,7 +13,7 @@ description: "Kaltstart-Interview für das Betreuungsrecht-Plugin. Befüllt das 
 4. Konfigurationsdatei schreiben (übergeordnete Verzeichnisse bei Bedarf anlegen).
 5. Zusammenfassung anzeigen und nächste Schritte vorschlagen.
 
-## `--integrationen-pruefen`
+## `--integrationen-prüfen`
 
 Prüft die Konnektoren-Verfügbarkeit (Dokumentenspeicher, E-Mail-System für Betreuungsbehörde-Kommunikation, Kalender für Anhörungs-/Berichtstermine). Aktualisiert nur den Abschnitt `## Verfügbare Integrationen`, führt kein neues Interview durch.
 
@@ -70,8 +70,8 @@ Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/b
 
 - Was eingerichtet wurde (Zusammenfassung der Antworten)
 - Welche Skills jetzt sinnvoll als nächstes laufen können:
-  - `/betreuungsrecht:vermoegensverzeichnis-pruefung` — bei Eröffnung einer Betreuung
-  - `/betreuungsrecht:genehmigungspflicht-pruefung` — vor wesentlichen Geschäften
+  - `/betreuungsrecht:vermögensverzeichnis-prüfung` — bei Eröffnung einer Betreuung
+  - `/betreuungsrecht:genehmigungspflicht-prüfung` — vor wesentlichen Geschäften
   - `/betreuungsrecht:jahresbericht-betreuungsgericht` — bei jährlicher Berichtspflicht
 - Hinweis auf das Mandatsgeheimnis (§ 1816 Abs. 1 BGB, § 203 StGB analog für Berufsbetreuer)
 

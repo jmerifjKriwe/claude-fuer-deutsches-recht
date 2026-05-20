@@ -24,7 +24,7 @@ M&A-Teams brauchen je nach Ebene unterschiedliche Informationstiefe: Die Geschä
 Aus dem Mandatsordner lesen:
 - `mandate/[code]/dd-issues-[kategorie].md` (alle Kategorien)
 - `mandate/[code]/vollzugs-checkliste.yaml`
-- `mandate/[code]/wesentliche-vertraege-anlage.md` (falls vorhanden)
+- `mandate/[code]/wesentliche-verträge-anlage.md` (falls vorhanden)
 - `mandate/[code]/deal-kontext.md`
 
 Gesamtbild: Anzahl Findings je Schweregrad; blockierende Vollzugspunkte; kritischer Pfad.

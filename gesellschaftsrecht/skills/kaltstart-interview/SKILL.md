@@ -9,7 +9,7 @@ description: "Ersteinrichtungs-Interview für das gesellschaftsrechtliche Praxis
 
 Gesellschaftsrechtliche Mandate variieren erheblich: Ein GmbH-Syndikusrechtsanwalt (§ 46 BRAO) bei einem Start-up führt M&A-Transaktionen durch, pflegt die Gesellschafterliste und protokolliert Gesellschafterbeschlüsse. Ein Kanzleianwalt bei einem DAX-Konzern verantwortet möglicherweise nur BaFin-Meldepflichten oder die Vorbereitung von Hauptversammlungen. Dieses Interview ermittelt, welche Bereiche für den Nutzer aktiv sind, und baut ausschließlich das relevante Praxisprofil — keine leeren Abschnitte für nicht anwendbare Bereiche.
 
-Beim Aufruf mit `--integrationen-pruefen`: Nur Teil 0 „Was ist verbunden?" neu ausführen und die `## Verfügbare Integrationen`-Tabelle in CLAUDE.md aktualisieren. Integration nur als ✓ ausweisen, wenn ein MCP-Tool-Aufruf tatsächlich erfolgreich war.
+Beim Aufruf mit `--integrationen-prüfen`: Nur Teil 0 „Was ist verbunden?" neu ausführen und die `## Verfügbare Integrationen`-Tabelle in CLAUDE.md aktualisieren. Integration nur als ✓ ausweisen, wenn ein MCP-Tool-Aufruf tatsächlich erfolgreich war.
 
 ## Eingaben
 

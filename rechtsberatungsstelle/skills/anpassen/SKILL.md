@@ -36,7 +36,7 @@ Dieser Skill macht gezielte Änderungen, ohne das gesamte Profil neu aufzurollen
 Änderungen in `CLAUDE.md`:
 - `Semester: [WS 2024/25]` → `[SS 2025]`
 - Liste der aktiven Studierenden aktualisieren.
-- Mandate-Übergabe: Verweis auf `/rechtsberatungsstelle:semester-uebergabe`.
+- Mandate-Übergabe: Verweis auf `/rechtsberatungsstelle:semester-übergabe`.
 
 ### 2. Neuen Fachbereich hinzufügen
 
@@ -107,4 +107,4 @@ Vollständige, aktualisierte `CLAUDE.md` (oder `guides/<name>.md`). Kein `[KI-GE
 
 - **Versehentliches Löschen:** Beim Anpassen einzelner Abschnitte nie den Rest des Profils löschen. Immer vollständige Datei ausgeben, nicht nur den geänderten Abschnitt.
 - **Gesetzesänderungen nicht eingepflegt:** Veraltertes Profil führt dazu, dass der Skill mit überholten Normen arbeitet (z. B. falsche Regelbedarfsstufen, falsche Fristen).
-- **Mandate ohne Übergabe:** Beim Semesterwechsel sicherstellen, dass alle laufenden Mandate über `/rechtsberatungsstelle:semester-uebergabe` übergeben werden, bevor das Profil auf das neue Semester umgestellt wird.
+- **Mandate ohne Übergabe:** Beim Semesterwechsel sicherstellen, dass alle laufenden Mandate über `/rechtsberatungsstelle:semester-übergabe` übergeben werden, bevor das Profil auf das neue Semester umgestellt wird.

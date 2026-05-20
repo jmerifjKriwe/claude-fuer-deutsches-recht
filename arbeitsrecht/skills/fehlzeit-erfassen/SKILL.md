@@ -80,10 +80,10 @@ Register-Eintrag anlegen in `~/.claude/plugins/config/claude-fuer-deutsches-rech
   bundesland: [BL]
   typ: [krankheit|urlaub|mutterschutz|elternzeit|pflegezeit|sonstiges]
   startdatum: [JJJJ-MM-TT]
-  rueckkehr_geplant: [JJJJ-MM-TT | unbekannt]
+  rückkehr_geplant: [JJJJ-MM-TT | unbekannt]
   fristen:
     efzg_erschoepfung: [JJJJ-MM-TT]      # nur bei Krankheit
-    bem_pruefung: [JJJJ-MM-TT]            # nur bei Krankheit ≥ 6 Wochen
+    bem_prüfung: [JJJJ-MM-TT]            # nur bei Krankheit ≥ 6 Wochen
     urlaubsverfall_warnung: [JJJJ-MM-TT]  # nur bei Urlaub
     schutzfrist_ende: [JJJJ-MM-TT]        # MuSchG/BEEG
     ks_schutz_ende: [JJJJ-MM-TT]          # Kündigungsschutz-Ende

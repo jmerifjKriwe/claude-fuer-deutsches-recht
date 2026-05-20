@@ -72,4 +72,4 @@ Verwertung fremder Geheimnisse zu eigenen Zwecken. Konkurrenznorm zu § 203 StGB
 
 ## Anlage Normtext (Vorlage)
 
-Im Skill `klauselvorschlaege` befindet sich ein Mustertext der Anlage Normtext §§ 203, 204 StGB, der direkt in den Vertrag übernommen werden kann.
+Im Skill `klauselvorschläge` befindet sich ein Mustertext der Anlage Normtext §§ 203, 204 StGB, der direkt in den Vertrag übernommen werden kann.

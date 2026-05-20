@@ -87,7 +87,7 @@ möchte eigene Werke schützen; Streit über Höhe der Abmahnkosten und des Scha
    die Deckelung keine Anwendung; der Abmahnende trägt die Beweislast für das
    Nichtvorliegen der Deckelungsvoraussetzungen.
 
-2. Reber, in: Schricker/Loewenheim, UrhR, 6. Aufl. 2020, § 97a Rn. 25 –
+2. Reber, in: Schricker/Löwenheim, UrhR, 6. Aufl. 2020, § 97a Rn. 25 –
    Die modifizierte Unterlassungserklärung des Abgemahnten muss den drohenden
    Wiederholungsgefahrtatbestand vollständig abdecken; eine zu eng gefasste
    Erklärung beseitigt die Wiederholungsgefahr nicht und lässt das Rechtsschutzbedürfnis
@@ -180,7 +180,7 @@ hinweisen, sofern der Anschluss mehreren Personen zugänglich war (BGH, Urt. v.
 **Empfehlung:** Modifizierte Unterlassungserklärung ohne Schuldanerkenntnis abgeben;
 Kosten auf Deckelungsbetrag reduzieren; Schadensersatz verhandeln.
 
-*(Reber, in: Schricker/Loewenheim, UrhR, 6. Aufl. 2020, § 97a Rn. 25.)*
+*(Reber, in: Schricker/Löwenheim, UrhR, 6. Aufl. 2020, § 97a Rn. 25.)*
 
 ## Risiken und typische Fehler
 

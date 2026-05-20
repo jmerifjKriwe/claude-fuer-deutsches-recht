@@ -137,7 +137,7 @@ Enthält es `[PLATZHALTER]`:
 > Führen Sie zuerst `/vertragsrecht:kaltstart-interview` aus — ich
 > benötige Ihr Playbook, bevor ich dagegen prüfen kann.
 
-Lies auch `## Prüfungseinstellungen` → `routing_bestaetigen`. Fehlt das
+Lies auch `## Prüfungseinstellungen` → `routing_bestätigen`. Fehlt das
 Feld: als `true` behandeln.
 
 ### Schritt 2 — Vertrag einlesen
@@ -158,17 +158,17 @@ Das ist das Routing-Signal. Nicht auf Body-Keywords allein verlassen.
 
 | Dokumenttitel enthält | Prüfpfad |
 |---|---|
-| Geheimhaltungsvereinbarung, NDA, Vertraulichkeitsvereinbarung (als Hauptvertrag) | **nda-pruefung** |
-| Dienstleistungsrahmenvertrag, Werkvertrag, Beratungsvertrag, Servicevertrag | **lieferanten-vertrag-pruefung** |
-| SaaS-Vertrag, Softwarelizenz mit Laufzeit, Cloud-Dienste-Vertrag | **saas-vertrag-pruefung** (Overlay auf lieferanten-vertrag-pruefung) |
-| Auftragsverarbeitungsvertrag, AVV (als Anlage oder eigenständig) | Hinweis für **lieferanten-vertrag-pruefung** → Datenschutz-Abschnitt |
-| Service-Level-Vereinbarung, SLA (als Anlage) | Hinweis für **saas-vertrag-pruefung** → SLA-Abschnitt |
+| Geheimhaltungsvereinbarung, NDA, Vertraulichkeitsvereinbarung (als Hauptvertrag) | **nda-prüfung** |
+| Dienstleistungsrahmenvertrag, Werkvertrag, Beratungsvertrag, Servicevertrag | **lieferanten-vertrag-prüfung** |
+| SaaS-Vertrag, Softwarelizenz mit Laufzeit, Cloud-Dienste-Vertrag | **saas-vertrag-prüfung** (Overlay auf lieferanten-vertrag-prüfung) |
+| Auftragsverarbeitungsvertrag, AVV (als Anlage oder eigenständig) | Hinweis für **lieferanten-vertrag-prüfung** → Datenschutz-Abschnitt |
+| Service-Level-Vereinbarung, SLA (als Anlage) | Hinweis für **saas-vertrag-prüfung** → SLA-Abschnitt |
 | Allgemeine Geschäftsbedingungen (AGB) | AGB-Kontrolle nach §§ 305–310 BGB; Routing je nach Hauptvertrag |
 
 Mehrere Prüfpfade möglich. Häufige Kombinationen:
-- Rahmenvertrag + AVV-Anlage → lieferanten-vertrag-pruefung, mit AVV-Hinweis
+- Rahmenvertrag + AVV-Anlage → lieferanten-vertrag-prüfung, mit AVV-Hinweis
 - SaaS-Vertrag + Bestellformular mit automatischer Verlängerung + SLA-Anlage →
-  saas-vertrag-pruefung (deckt alle drei ab)
+  saas-vertrag-prüfung (deckt alle drei ab)
 - AGB + Individualvertrag → AGB-Kontrolle + vertragsspezifische Prüfung
 
 Bei echter Ambiguität nach Titellektüre: die ersten zwei Seiten des Textkörpers
@@ -176,7 +176,7 @@ lesen, dann routen.
 
 ### Schritt 5 — Routing bestätigen (wenn aktiviert)
 
-Falls `routing_bestaetigen: true` im Kanzleiprofil:
+Falls `routing_bestätigen: true` im Kanzleiprofil:
 
 ```
 Ich prüfe dieses Dokument als: [Vertragstyp(en)].
@@ -191,7 +191,7 @@ Ist das korrekt? (ja / nein — oder korrigieren Sie mich)
 
 Auf Bestätigung warten. Bei Korrektur: Anweisung übernehmen und fortfahren.
 
-Falls `routing_bestaetigen: false`: stillschweigend fortfahren. Routing-Entscheidung
+Falls `routing_bestätigen: false`: stillschweigend fortfahren. Routing-Entscheidung
 oben im Prüfungsmemo protokollieren.
 
 ### Schritt 6 — Prüfung durchführen

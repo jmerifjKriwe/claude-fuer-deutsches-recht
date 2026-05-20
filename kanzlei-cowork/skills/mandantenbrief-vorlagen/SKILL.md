@@ -21,9 +21,9 @@ In dem Mandat ... / In Sachen ...
 
 [Sachstand: knapp und chronologisch]
 
-[Empfehlung: konkret und begruendet]
+[Empfehlung: konkret und begründet]
 
-[Naechste Schritte / Frist]
+[Nächste Schritte / Frist]
 
 [Kostenhinweis]
 
@@ -32,27 +32,27 @@ In dem Mandat ... / In Sachen ...
 
 ## Sprachregeln
 
-- **Klar verstaendlich**: kein Juristenjargon ohne Erklaerung in Klammern.
+- **Klar verstaendlich**: kein Juristenjargon ohne Erklärung in Klammern.
 - **Aktiv statt passiv**: "Wir haben Berufung eingelegt" statt "Es wurde Berufung eingelegt".
-- **Konkrete Daten und Fristen**: "bis 15.06.2026" statt "in den naechsten Wochen".
+- **Konkrete Daten und Fristen**: "bis 15.06.2026" statt "in den nächsten Wochen".
 - **Kostenhinweis pflichtig**: Hinweis auf RVG oder Honorarvereinbarung.
 - **Disclaimer bei rechtlich schwierigen Punkten**: Empfehlung wird benannt aber Letztentscheidung beim Mandanten.
 
 ## Vorlagen
 
-### V1 — Mandatseroeffnung
+### V1 — Mandatseröffnung
 
 ```
 Sehr geehrter Herr Mueller,
 
-vielen Dank fuer das uns entgegengebrachte Vertrauen. Wir haben das
+vielen Dank für das uns entgegengebrachte Vertrauen. Wir haben das
 Mandat in der Sache (...) unter dem oben genannten Aktenzeichen
 eroeffnet.
 
 Vereinbarung der Sache nach Ihrer Schilderung:
 - Sachverhalt: ...
 - Ihr Ziel: ...
-- Naechste Schritte aus unserer Sicht: ...
+- Nächste Schritte aus unserer Sicht: ...
 - Voraussichtliche Dauer: ...
 
 Honorar:
@@ -62,16 +62,16 @@ plus Auslagen plus Umsatzsteuer.
 
 Vollmacht:
 Anbei finden Sie unsere Vollmacht zur Unterschrift. Bitte senden Sie
-diese unterzeichnet binnen einer Woche an uns zurueck.
+diese unterzeichnet binnen einer Woche an uns zurück.
 
 Wir melden uns spaetestens am (Datum) bei Ihnen mit dem ersten
 Zwischenbericht.
 
-Mit freundlichen Gruessen
+Mit freundlichen Grüßen
 
 [Anwalt]
 Rechtsanwalt
-Fachanwalt fuer ...
+Fachanwalt für ...
 ```
 
 ### V2 — Zwischenbericht
@@ -82,11 +82,11 @@ Sehr geehrter Herr Mueller,
 in der oben bezeichneten Sache geben wir Ihnen folgenden Zwischenbericht:
 
 Sachstand:
-- (Datum) wir haben (Schritt) durchgefuehrt
-- (Datum) Gegenseite / Behoerde / Gericht hat (Schritt) eingeleitet
+- (Datum) wir haben (Schritt) durchgeführt
+- (Datum) Gegenseite / Behörde / Gericht hat (Schritt) eingeleitet
 - aktueller Stand: ...
 
-Naechste Schritte:
+Nächste Schritte:
 Wir werden (Schritt) bis (Datum) erledigen.
 
 Wenn Sie nichts unternehmen sollten oder wir von Ihnen nichts hoeren
@@ -96,9 +96,9 @@ Kostenstand bisher:
 Aufgewendete Stunden: (Anzahl)
 Voraussichtliche Zwischenrechnung: (Betrag) EUR
 
-Bei Rueckfragen melden Sie sich gerne.
+Bei Rückfragen melden Sie sich gerne.
 
-Mit freundlichen Gruessen
+Mit freundlichen Grüßen
 
 [Anwalt]
 ```
@@ -109,29 +109,29 @@ Mit freundlichen Gruessen
 Sehr geehrter Herr Mueller,
 
 zu Ihrer Anfrage vom (Datum) teile ich Ihnen meine rechtliche
-Einschaetzung mit:
+Einschätzung mit:
 
 Frage:
-[Praezise Frage des Mandanten]
+[Präzise Frage des Mandanten]
 
 Kurzantwort (eine Zeile):
 [Ja / Nein / Differenziert]
 
-Begruendung (vereinfacht):
+Begründung (vereinfacht):
 [Klar und verstaendlich, ohne unnoetigen Jargon. Bei Verwendung
 juristischer Begriffe in Klammern erklaeren]
 
-Naechste Schritte:
+Nächste Schritte:
 [Konkret]
 
 Risiken:
-[Was koennte schiefgehen oder unsicher sein]
+[Was könnte schiefgehen oder unsicher sein]
 
 Kostenhinweis:
 Diese Beratung wird nach RVG / Honorarvereinbarung mit (Betrag) EUR
 zuzueglich Umsatzsteuer berechnet.
 
-Mit freundlichen Gruessen
+Mit freundlichen Grüßen
 
 [Anwalt]
 ```
@@ -150,17 +150,17 @@ Verbleibende offene Punkte:
 [Falls vorhanden]
 
 Schlussrechnung:
-Die Schlussrechnung ueber den noch offenen Honorarbetrag finden Sie als
-Anlage. Bitte ueberweisen Sie den Betrag bis (Datum).
+Die Schlussrechnung über den noch offenen Honorarbetrag finden Sie als
+Anlage. Bitte überweisen Sie den Betrag bis (Datum).
 
 Aktenherausgabe:
-Sollten Sie Original-Belege aus der Akte zurueckhaben wollen teilen Sie
+Sollten Sie Original-Belege aus der Akte zurückhaben wollen teilen Sie
 uns dies bitte mit. Die Akte wird im Uebrigen sechs Jahre lang
 aufbewahrt § 50 BRAO.
 
-Wir bedanken uns fuer das uns entgegengebrachte Vertrauen.
+Wir bedanken uns für das uns entgegengebrachte Vertrauen.
 
-Mit freundlichen Gruessen
+Mit freundlichen Grüßen
 
 [Anwalt]
 ```
@@ -185,7 +185,7 @@ Bitte melden Sie sich bis (Datum) telefonisch oder per E-Mail bei uns.
 Bei Nichterreichen versuchen wir es weiter und werden zur Wahrung der
 Frist (Schritt) unternehmen.
 
-Mit freundlichen Gruessen
+Mit freundlichen Grüßen
 
 [Anwalt]
 ```

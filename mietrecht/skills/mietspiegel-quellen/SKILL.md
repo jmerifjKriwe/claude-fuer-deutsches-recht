@@ -5,25 +5,25 @@ description: Verweist auf die mitgelieferte Referenz references/mietspiegel-quel
 
 # Mietspiegel-Quellen (amtlich)
 
-Dieser Skill ist ein Verweis-Skill. Die vollstaendige Quellensammlung steht in der mitgelieferten Referenz:
+Dieser Skill ist ein Verweis-Skill. Die vollständige Quellensammlung steht in der mitgelieferten Referenz:
 
 - [references/mietspiegel-quellen.md](../../references/mietspiegel-quellen.md)
 
 ## Wann diesen Skill verwenden
 
-- Wenn die ortsuebliche Vergleichsmiete fuer eine konkrete Adresse zu pruefen ist.
-- Wenn die Wohnlagen-Zuordnung (einfach, mittel, gut) anhand des amtlichen Strassenverzeichnisses benoetigt wird.
-- Wenn die Anwendbarkeit der Mietpreisbremse, Kappungsgrenze oder Kuendigungssperrfrist im konkreten Bundesland geklaert werden muss.
+- Wenn die ortsübliche Vergleichsmiete für eine konkrete Adresse zu prüfen ist.
+- Wenn die Wohnlagen-Zuordnung (einfach, mittel, gut) anhand des amtlichen Straßenverzeichnisses benoetigt wird.
+- Wenn die Anwendbarkeit der Mietpreisbremse, Kappungsgrenze oder Kündigungssperrfrist im konkreten Bundesland geklaert werden muss.
 - Wenn die Quellenangabe in einem Schreiben, Klageentwurf oder einer Beratung amtlich belegt werden soll.
 
-## Was die Referenz enthaelt
+## Was die Referenz enthält
 
 1. **Bundesweite Rechtsgrundlagen.** BGB, BetrKV, WoFlV, HeizkostenV, MsV, § 5 WiStG, § 291 StGB.
 2. **16 Bundeslaender.** Rechtslage, landesweite offizielle Quelle, Staedte mit Mietspiegel, Mietenbegrenzungsverordnungen.
 3. **20 groesste Staedte.** Typ (qualifiziert/einfach), Stand, offizielle URL, Online-Abfragetool, PDF, Besonderheiten.
 4. **25 Universitaetsstaedte.** Gleiche Struktur wie Top-Staedte; Schwerpunkt angespannter Wohnungsmarkt.
-5. **Pruefroutine.** Sechs Schritte von Aktualitaetspruefung ueber Wohnlage, Ausstattung, Spanne, Mietpreisbremse, Kappungsgrenze.
+5. **Prüfroutine.** Sechs Schritte von Aktualitätsprüfung über Wohnlage, Ausstattung, Spanne, Mietpreisbremse, Kappungsgrenze.
 
 ## Disclaimer
 
-Diese Referenz ersetzt keine Rechtsberatung. Sie ist ein Werkzeug zur Recherche amtlicher Quellen. Vor jeder Verwendung den Aktualitaetsstand auf der jeweiligen amtlichen Seite pruefen.
+Diese Referenz ersetzt keine Rechtsberatung. Sie ist ein Werkzeug zur Recherche amtlicher Quellen. Vor jeder Verwendung den Aktualitätsstand auf der jeweiligen amtlichen Seite prüfen.

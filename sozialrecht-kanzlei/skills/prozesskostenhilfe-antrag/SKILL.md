@@ -10,46 +10,46 @@ description: Erstellt einen Prozesskostenhilfe-Antrag fuer sozialgerichtliche Ve
 - **§ 73a SGG** Verweis auf ZPO-Regeln.
 - **§ 114 ZPO** PKH-Voraussetzungen.
 - **§ 121 ZPO** Beiordnung eines Rechtsanwalts.
-- **§ 117 ff. ZPO** Verfahren und Erklaerung.
+- **§ 117 ff. ZPO** Verfahren und Erklärung.
 
 ## Voraussetzungen
 
 ### 1. Beduerftigkeit
 
 - Klagepartei kann die Kosten der Prozessfuehrung nicht ganz nicht zum Teil oder nur in Raten aufbringen.
-- Pruefung anhand Einkommen Vermoegen und unterhaltsberechtigter Personen.
-- Sozialleistungsbezug (Buergergeld Grundsicherung) typisch ausreichend fuer volle PKH ohne Raten.
+- Prüfung anhand Einkommen Vermögen und unterhaltsberechtigter Personen.
+- Sozialleistungsbezug (Bürgergeld Grundsicherung) typisch ausreichend für volle PKH ohne Raten.
 
 ### 2. Erfolgsaussicht
 
 - Hinreichende Aussicht auf Erfolg in der Hauptsache (§ 114 Abs. 1 Satz 1 ZPO).
-- Massstab nicht ueberspannt — es reicht die nicht entfernt liegende Moeglichkeit des Erfolgs.
+- Maßstab nicht ueberspannt — es reicht die nicht entfernt liegende Möglichkeit des Erfolgs.
 
 ### 3. Nicht Mutwilligkeit
 
-- Die Rechtsverfolgung muss notwendig erscheinen aus Sicht eines verstaendigen unbeduerftigen Drittens.
+- Die Rechtsverfolgung muss notwendig erscheinen aus Sicht eines verständigen unbeduerftigen Drittens.
 
-## Formular ZP1a — Erklaerung ueber die persoenlichen und wirtschaftlichen Verhaeltnisse
+## Formular ZP1a — Erklärung über die persoenlichen und wirtschaftlichen Verhältnisse
 
 Pflichtfelder:
 
 - Persoenliche Daten
-- Familienverhaeltnisse Unterhaltspflichten
-- Erwerbstaetigkeit Einkommen
+- Familienverhältnisse Unterhaltspflichten
+- Erwerbstätigkeit Einkommen
 - Sonstige Einnahmen (Sozialleistungen Kindergeld Unterhalt Rente)
-- Vermoegen (Konten Bargeld Wertpapiere Lebensversicherung Grundbesitz Fahrzeuge)
+- Vermögen (Konten Bargeld Wertpapiere Lebensversicherung Grundbesitz Fahrzeuge)
 - Belastungen (Schulden Unterhalt Wohnen Versicherung Pflege)
-- Wohnverhaeltnisse mit Miete
+- Wohnverhältnisse mit Miete
 - Unterschrift mit Belehrung Wahrheit / Strafbarkeit § 124 ZPO
 
 ## Pflichtbelege
 
 - Bei Sozialleistungsbezug: aktueller Bewilligungsbescheid.
-- Bei Erwerbstaetigkeit: letzte drei Lohnabrechnungen.
+- Bei Erwerbstätigkeit: letzte drei Lohnabrechnungen.
 - Kontoausuege der letzten drei Monate (alle Konten).
 - Mietvertrag und Nebenkostenabrechnung.
 - Belege Versicherungen und Schulden.
-- Bei Schwerbehinderung: Nachweis (kann Vermoegensfreibetrag erhoehen).
+- Bei Schwerbehinderung: Nachweis (kann Vermögensfreibetrag erhöhen).
 
 ## Antragstexte
 
@@ -59,31 +59,31 @@ An das Sozialgericht XYZ
 
 In der Streitsache ... gegen ...
 
-beantrage ich namens und im Auftrag des Klaegers:
+beantrage ich namens und im Auftrag des Klägers:
 
 1. Bewilligung von Prozesskostenhilfe ohne Ratenzahlung;
-2. Beiordnung des unterzeichnenden Rechtsanwalts gemaess § 121 ZPO.
+2. Beiordnung des unterzeichnenden Rechtsanwalts gemäß § 121 ZPO.
 
-Die Erklaerung ueber die persoenlichen und wirtschaftlichen Verhaeltnisse
+Die Erklärung über die persoenlichen und wirtschaftlichen Verhältnisse
 (Formular ZP1a) nebst Belegen ist beigefuegt.
 
-Erfolgsaussichten: Begruendung siehe Klageschrift vom (Datum) Az (...).
+Erfolgsaussichten: Begründung siehe Klageschrift vom (Datum) Az (...).
 
 Mutwilligkeit liegt nicht vor.
 ```
 
-## Sonderfaelle
+## Sonderfälle
 
-- **Beratungshilfe** § 1 BerHG fuer das Vorverfahren (Widerspruch) — separater Antrag beim Amtsgericht des Wohnorts.
+- **Beratungshilfe** § 1 BerHG für das Vorverfahren (Widerspruch) — separater Antrag beim Amtsgericht des Wohnorts.
 - **Vereinheitlichte PKH** wenn mehrere zusammenhaengende Verfahren — Antrag in jedem Verfahren erforderlich.
 
 ## Ausgabe
 
 - `pkh-antrag-<az>-<datum>.docx`.
 - ZP1a-Formular ausgefuellt zur Unterschrift des Mandanten.
-- Belegliste mit Pruefer-Flag fuer fehlende Belege.
+- Belegliste mit Prüfer-Flag für fehlende Belege.
 - Eintrag im Fristenbuch — PKH-Antrag sollte zeitgleich mit Klage oder Widerspruch eingereicht werden.
 
-## Hinweis Pruefer
+## Hinweis Prüfer
 
 PKH-Bescheid des Gerichts mit Akte aufheben. Bei Ablehnung: Beschwerde § 127 ZPO iVm § 73a SGG (binnen einer Woche).

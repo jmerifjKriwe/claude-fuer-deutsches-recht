@@ -5,67 +5,67 @@ description: Beide Rollen — entwirf eine Klageschrift zum Amtsgericht in einer
 
 # Klageentwurf zum Amtsgericht (Mietsache)
 
-## Disclaimer (Schluesselstelle, mehrfach)
+## Disclaimer (Schlüsselstelle, mehrfach)
 
-Eine Klageschrift ist ein Rechtsschriftsatz mit erheblichen Konsequenzen (Gerichtskosten, Anwaltskosten, Praeklusion verspaeteten Vortrags). Dieser Entwurf ist **kein Ersatz fuer anwaltliche Vertretung**. Vor Einreichung ist eine fachanwaltliche Pruefung dringend empfohlen. In Mietsachen vor dem Amtsgericht besteht zwar **kein Anwaltszwang** (§ 78 ZPO e contrario), die rechtlichen Risiken sind aber dennoch hoch.
+Eine Klageschrift ist ein Rechtsschriftsatz mit erheblichen Konsequenzen (Gerichtskosten, Anwaltskosten, Praeklusion verspäteten Vortrags). Dieser Entwurf ist **kein Ersatz für anwaltliche Vertretung**. Vor Einreichung ist eine fachanwaltliche Prüfung dringend empfohlen. In Mietsachen vor dem Amtsgericht besteht zwar **kein Anwaltszwang** (§ 78 ZPO e contrario), die rechtlichen Risiken sind aber dennoch hoch.
 
 ## Workflow
 
-### Schritt 1 — Sachliche Zustaendigkeit
+### Schritt 1 — Sachliche Zuständigkeit
 
-- **Wohnraummietsachen** — Amtsgericht ist nach § 23 Nr. 2a GVG zustaendig fuer Streitigkeiten aus Mietverhaeltnissen ueber Wohnraum **ohne Ruecksicht auf den Streitwert**.
-- **Geschaeftsraummiete** — allgemeine Streitwertgrenze des § 23 Nr. 1 GVG: AG bis **zehntausend Euro** (Erhoehung von zuvor fuenftausend Euro durch die Justizmodernisierung 2024); darueber LG (§ 71 GVG).
-- Streitwert ist in jedem Fall zu berechnen (fuer Kosten und Berufungssumme).
+- **Wohnraummietsachen** — Amtsgericht ist nach § 23 Nr. 2a GVG zuständig für Streitigkeiten aus Mietverhältnissen über Wohnraum **ohne Rücksicht auf den Streitwert**.
+- **Geschäftsraummiete** — allgemeine Streitwertgrenze des § 23 Nr. 1 GVG: AG bis **zehntausend Euro** (Erhöhung von zuvor fünftausend Euro durch die Justizmodernisierung 2024); darüber LG (§ 71 GVG).
+- Streitwert ist in jedem Fall zu berechnen (für Kosten und Berufungssumme).
 
-### Schritt 2 — Oertliche Zustaendigkeit (§ 29a ZPO)
+### Schritt 2 — Oertliche Zuständigkeit (§ 29a ZPO)
 
-- Ausschliesslich das Gericht des Ortes, an dem sich die **Mietsache befindet** (Belegenheitsort).
-- Keine Abweichung durch Gerichtsstandsvereinbarung moeglich (§ 40 Abs. 2 ZPO).
+- Ausschließlich das Gericht des Ortes, an dem sich die **Mietsache befindet** (Belegenheitsort).
+- Keine Abweichung durch Gerichtsstandsvereinbarung möglich (§ 40 Abs. 2 ZPO).
 
 ### Schritt 3 — Streitwertberechnung
 
 - **Zahlungsklage** Nennbetrag der geforderten Summe.
-- **Klage auf Zustimmung zur Mieterhoehung** Jahresbetrag des Erhoehungsbetrags (§ 41 Abs. 5 GKG).
+- **Klage auf Zustimmung zur Mieterhöhung** Jahresbetrag des Erhöhungsbetrags (§ 41 Abs. 5 GKG).
 - **Klage auf Mietsenkung / Mietpreisbremse** Jahresbetrag der streitigen Differenz (§ 41 Abs. 5 GKG analog).
 - **Raeumungsklage** Jahresnettomiete (§ 41 Abs. 2 GKG).
 - **Klage auf Belegeinsicht** Bruchteil der streitigen Abrechnung (Schaetzung nach § 3 ZPO).
 
-### Schritt 4 — Antraege formulieren
+### Schritt 4 — Anträge formulieren
 
 - Eindeutig, vollstreckbar.
-- Hauptantrag, Hilfsantraege, Kostenantrag, Vorlaeufige-Vollstreckbarkeits-Antrag.
+- Hauptantrag, Hilfsanträge, Kostenantrag, Vorlaeufige-Vollstreckbarkeits-Antrag.
 
 ### Schritt 5 — Sachverhalt
 
 - Parteien, Mietvertrag, Mietsache, streitiger Vorgang chronologisch.
 - Belege als Anlagen (K1, K2, K3 ...).
 
-### Schritt 6 — Rechtliche Wuerdigung
+### Schritt 6 — Rechtliche Würdigung
 
 - Anspruchsgrundlage benennen (§§ BGB, BetrKV, HeizkostenV).
 - Subsumtion knapp.
-- Bei Mietspiegelfaellen: Bezugnahme auf den amtlichen Mietspiegel aus `references/mietspiegel-quellen.md`.
+- Bei Mietspiegelfällen: Bezugnahme auf den amtlichen Mietspiegel aus `references/mietspiegel-quellen.md`.
 
 ### Schritt 7 — Beweisangebote
 
-- Zeugen mit ladungsfaehiger Anschrift.
-- Sachverstaendigengutachten (§ 144 ZPO).
+- Zeugen mit ladungsfähiger Anschrift.
+- Sachverständigengutachten (§ 144 ZPO).
 - Augenschein (§ 371 ZPO).
 - Urkundenbeweis durch beigefuegte Anlagen.
 
 ### Schritt 8 — Anlagen
 
 - Mietvertrag.
-- Streitige Schreiben (Mieterhoehung, Abrechnung, Ruege).
+- Streitige Schreiben (Mieterhöhung, Abrechnung, Ruege).
 - Mietspiegelauszug (falls erforderlich).
 - Lage- und Ausstattungsprotokoll.
 
 ## Gliederungsmuster der Klageschrift
 
 1. Kopf (Gericht, Aktenzeichen, Parteien, Bevollmaechtigte).
-2. Antraege.
-3. Begruendung — Sachverhalt.
-4. Begruendung — Rechtliche Wuerdigung.
+2. Anträge.
+3. Begründung — Sachverhalt.
+4. Begründung — Rechtliche Würdigung.
 5. Beweisangebote.
 6. Kostenantrag.
 7. Antrag auf vorlaeufige Vollstreckbarkeit (§ 708 Nr. 11 ZPO).
@@ -73,4 +73,4 @@ Eine Klageschrift ist ein Rechtsschriftsatz mit erheblichen Konsequenzen (Gerich
 
 ## Vor Einreichung (Disclaimer wiederholt)
 
-Vor Einreichung beim Amtsgericht ist diese Klageschrift durch einen Fachanwalt fuer Mietrecht zu pruefen. Versaeumte Tatsachen, falsche Anspruchsgrundlagen oder formale Fehler koennen zur Klageabweisung und Kostenlast fuehren. Diese Auto-Erstellung ersetzt nicht die anwaltliche Vertretung.
+Vor Einreichung beim Amtsgericht ist diese Klageschrift durch einen Fachanwalt für Mietrecht zu prüfen. Versäumte Tatsachen, falsche Anspruchsgrundlagen oder formale Fehler können zur Klageabweisung und Kostenlast fuehren. Diese Auto-Erstellung ersetzt nicht die anwaltliche Vertretung.

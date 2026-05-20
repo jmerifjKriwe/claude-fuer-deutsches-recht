@@ -3,7 +3,7 @@ name: anlagen-zu-schriftsaetzen
 description: "Zuordnung von Anlagen zu gerichtlichen Schriftsaetzen. Liest den Schriftsatz (Klage/Klageerwiderung/Replik), erkennt vorhandene Beweisstuecke, sortiert nach Schriftsatz-Logik, konvertiert alles nach PDF, benennt nach beA-Konvention und stempelt oben rechts Anlage K1/B1/A1 in Arial 12. Verwenden, wenn der Nutzer sagt 'Anlagen zuordnen', 'Anlagen sortieren', 'Anlagenkonvolut erstellen', 'Anlagen stempeln', 'Anlagen K1 K2 vergeben' oder 'Anlagen pruefen'."
 ---
 
-# Zuordnung von Anlagen zu gerichtlichen Schriftsaetzen
+# Zuordnung von Anlagen zu gerichtlichen Schriftsätzen
 
 ## Zweck
 
@@ -84,7 +84,7 @@ Konvention für die einzelnen Anlagen-Dateien im Ausgabe-Ordner:
 ```
 Anlage_K-03_Vertrag-vom-2024-03-15.pdf
 Anlage_K-07a_Mahnschreiben-erste-Stufe.pdf
-Anlage_B-01_Aufrechnungserklaerung.pdf
+Anlage_B-01_Aufrechnungserklärung.pdf
 ```
 
 Regeln:

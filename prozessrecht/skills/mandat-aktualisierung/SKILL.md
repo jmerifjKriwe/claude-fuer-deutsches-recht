@@ -80,12 +80,12 @@ Nur die durch das Ereignis betroffenen Felder werden abgefragt:
 - `risiko:` — Neubewertung erforderlich?
 - `wesentlichkeit:` — Änderung? (neue Tatsachen können Rückstellungs- oder Offenlegungspflicht auslösen)
 - `streitwert_exposure:` — Anpassen bei neuen Erkenntnissen
-- `naechste_frist:` — Neues kommendes Datum, falls bekannt
+- `nächste_frist:` — Neues kommendes Datum, falls bekannt
 - `externe_bevollmaechtigte:` — Wechsel?
 - `interne_verantwortliche:` — Neu oder ausgeschieden?
 - `beweissicherung:` — Erneuert, erweitert, aufgehoben?
 
-Verfahrensrechtliche Updates berühren in der Regel nur `verfahrensstadium` und `naechste_frist`; ein Vergleichsangebot kann `wesentlichkeit`, `streitwert_exposure` und `status` berühren.
+Verfahrensrechtliche Updates berühren in der Regel nur `verfahrensstadium` und `nächste_frist`; ein Vergleichsangebot kann `wesentlichkeit`, `streitwert_exposure` und `status` berühren.
 
 ### Schritt 4a: Vergleichsannahmeschranke
 
@@ -162,7 +162,7 @@ Der Verlaufseintrag und die Yaml-Diff werden dem Nutzer zur Freigabe vorgelegt:
 Berufungsbegründung fristgerecht beim OLG Frankfurt eingereicht (§ 520 Abs. 2 ZPO). Keine inhaltlichen Änderungen zur bisherigen Positionierung. Nächster Termin: Eingang der Berufungserwiderung der Gegenseite erwartet bis 12.07.2025.
 
 **Geänderte Felder:**
-- naechste_frist: 2025-07-12
+- nächste_frist: 2025-07-12
 - verfahrensstadium: Berufungsbegründung eingereicht → Berufungserwiderung ausstehend
 
 **Wesentlichkeitsprüfung:** keine Änderung

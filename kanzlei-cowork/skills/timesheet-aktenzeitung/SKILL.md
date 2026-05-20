@@ -7,7 +7,7 @@ description: Zeiterfassung pro Mandat (Aktenzeitung) — taegliche Erfassung mit
 
 ## Zweck
 
-Die Aktenzeitung ist die Tagebuchfuehrung pro Mandat. Sie ist Grundlage jeder Honorarrechnung nach Stundensatz und Belegfaehigkeit gegenueber dem Mandanten.
+Die Aktenzeitung ist die Tagebuchfuehrung pro Mandat. Sie ist Grundlage jeder Honorarrechnung nach Stundensatz und Belegfähigkeit gegenüber dem Mandanten.
 
 ## Erfassungseinheit
 
@@ -21,21 +21,21 @@ Die Aktenzeitung ist die Tagebuchfuehrung pro Mandat. Sie ist Grundlage jeder Ho
   anwalt: RA Mueller
   mandat-az: 2026/0042
   mandant: Mueller GmbH
-  taetigkeit: Klageschrift Endredaktion und Versand ueber beA
+  tätigkeit: Klageschrift Endredaktion und Versand über beA
   dauer-minuten: 72
   abrechenbarkeit: abrechenbar
   honorarsatz-eur: 320
-  notiz: Versand-Vor-Check erfolgreich; Eingang vom AG bestaetigt
+  notiz: Versand-Vor-Check erfolgreich; Eingang vom AG bestätigt
   erfasst-am: 2026-05-20T17:42:00
 ```
 
-## Taetigkeitsarten
+## Tätigkeitsarten
 
 - **Mandatsbearbeitung**: Korrespondenz Schriftsatzentwurf Recherche Beratungsgespraech.
 - **Verhandlung**: Schiedsverhandlung Vergleichsgespraech.
-- **Gerichtstermin**: Hauptverhandlung Anhoerung.
+- **Gerichtstermin**: Hauptverhandlung Anhörung.
 - **Reise**: An- und Abreise zu Terminen (Stundensatz idR halb).
-- **Akteneinsicht**: bei Behoerde Gericht VDR.
+- **Akteneinsicht**: bei Behörde Gericht VDR.
 - **Telefon**: Mandant Gegenseite Gericht.
 
 ## Abrechenbarkeit
@@ -43,20 +43,20 @@ Die Aktenzeitung ist die Tagebuchfuehrung pro Mandat. Sie ist Grundlage jeder Ho
 - **abrechenbar** Standardfall.
 - **nicht abrechenbar** Eigenkanzlei interne Fortbildung.
 - **pro bono** unentgeltliche Beratung.
-- **PKH** Pflichtbeiordnung — Verguetung aus PKH-Mitteln nach RVG.
+- **PKH** Pflichtbeiordnung — Vergütung aus PKH-Mitteln nach RVG.
 
 ## Reports
 
 ### Pro Mandat
 
-| Anwalt | Datum | Taetigkeit | Dauer | Abrechenbar | Stundensatz | Betrag |
+| Anwalt | Datum | Tätigkeit | Dauer | Abrechenbar | Stundensatz | Betrag |
 |---|---|---|---|---|---|---|
 | ... | ... | ... | ... | ... | ... | ... |
 | **Summe** | | | | | | EUR |
 
 ### Pro Anwalt pro Monat
 
-Stunden pro Mandat im Monat — Auslastungs-Uebersicht.
+Stunden pro Mandat im Monat — Auslastungs-Übersicht.
 
 ### Pro Zeitraum kanzleiweit
 
@@ -68,16 +68,16 @@ Stunden pro Mandat im Monat — Auslastungs-Uebersicht.
 
 Bei Mandatsende oder Zwischenrechnung:
 
-- Skill `rechnungserstellung-rvg` greift auf die Akteneintraege zu.
+- Skill `rechnungserstellung-rvg` greift auf die Akteneinträge zu.
 - Bei Honorarvereinbarung mit Stundensatz: Summe der abrechenbaren Stunden mal Stundensatz.
-- Bei RVG-Abrechnung: Akteneintraege als Beleg dass die Anwaltstaetigkeit tatsaechlich ausgeuebt wurde (Beweissicherung).
+- Bei RVG-Abrechnung: Akteneinträge als Beleg dass die Anwaltstätigkeit tatsächlich ausgeuebt wurde (Beweissicherung).
 
 ## Best Practice
 
 - **Taeglich** erfassen — nicht im Nachhinein.
-- **Konkret** beschreiben (nicht "Mandatsbearbeitung" sondern "Klageschrift Abschnitt 3 Rechtliche Wuerdigung").
-- **Vollstaendig** erfassen auch nicht-abrechenbare Zeit zur Auslastungsmessung.
-- **Audit-Trail** jede Aenderung dokumentieren (Mandant kann Einsicht verlangen — § 50 BRAO Akteneinsicht des Mandanten).
+- **Konkret** beschreiben (nicht "Mandatsbearbeitung" sondern "Klageschrift Abschnitt 3 Rechtliche Würdigung").
+- **Vollständig** erfassen auch nicht-abrechenbare Zeit zur Auslastungsmessung.
+- **Audit-Trail** jede Änderung dokumentieren (Mandant kann Einsicht verlangen — § 50 BRAO Akteneinsicht des Mandanten).
 
 ## Ausgabe
 

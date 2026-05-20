@@ -7,7 +7,7 @@ description: "Wuerfelvorlage fuer Massenpruefung von Arbeitsvertraegen — 15 Sp
 
 ## Zweck
 
-Wer einen Mittelstaendler erwirbt steht vor 200 Arbeitsvertraegen mit jeweils 12 bis 30 Klauseln. Diese Vorlage macht das pruefbar — in einem Lauf 200 mal 15 mal 3 = 9000 Zellen mit konsolidierter Ampel.
+Wer einen Mittelstaendler erwirbt steht vor 200 Arbeitsverträgen mit jeweils 12 bis 30 Klauseln. Diese Vorlage macht das pruefbar — in einem Lauf 200 mal 15 mal 3 = 9000 Zellen mit konsolidierter Ampel.
 
 ## Spalten (15 Datenpunkte)
 
@@ -15,16 +15,16 @@ Wer einen Mittelstaendler erwirbt steht vor 200 Arbeitsvertraegen mit jeweils 12
 2. **Probezeit** — max 6 Monate (BGB Paragraph 622 Abs 3)
 3. **Befristung** — mit / ohne Sachgrund (TzBfG Paragraph 14 Abs 2 / Paragraph 14 Abs 1)
 4. **Wochenarbeitszeit** — Vollzeit / Teilzeit (Paragraph 8 TzBfG / ArbZG)
-5. **Kuendigungsfrist** — BGB Paragraph 622 / abweichende Vereinbarung
+5. **Kündigungsfrist** — BGB Paragraph 622 / abweichende Vereinbarung
 6. **Tarifbindung** — statisch / dynamisch / Bezugnahmeklausel / Gleichstellungsabrede
 7. **Bruttogehalt** — Festgehalt / Variable / Provisionen
-8. **Sonderzahlungen** — 13. Gehalt / Weihnachtsgeld / Bonus / Rueckzahlungsklauseln
+8. **Sonderzahlungen** — 13. Gehalt / Weihnachtsgeld / Bonus / Rückzahlungsklauseln
 9. **Verschwiegenheitsklausel** — Reichweite / Dauer nach Vertragsende
-10. **Wettbewerbsverbot** — Bindung / Karenzentschaedigung HGB Paragraph 74 ff.
-11. **Karenzentschaedigung** — Hoehe (mind 50 Prozent) / Berechnungsbasis
+10. **Wettbewerbsverbot** — Bindung / Karenzentschädigung HGB Paragraph 74 ff.
+11. **Karenzentschädigung** — Höhe (mind 50 Prozent) / Berechnungsbasis
 12. **Urlaub** — Mindestmass BUrlG Paragraph 3 / vertraglich vereinbart
 13. **Vorbehaltsklauseln** — Versetzungs- / Widerrufs- / Anrechnungsklausel
-14. **Ueberstundenklausel** — Pauschalabgeltung (BAG strenge Pruefung)
+14. **Ueberstundenklausel** — Pauschalabgeltung (BAG strenge Prüfung)
 15. **Verfallklauseln** — Ausschlussfristen (mindestens 3 Monate Bag Rechtsprechung)
 
 ## Arbeitsblatt-Perspektiven (3)
@@ -32,30 +32,30 @@ Wer einen Mittelstaendler erwirbt steht vor 200 Arbeitsvertraegen mit jeweils 12
 ### Arbeitsrecht (Anwaltsperspektive)
 
 - Zusatzspalten: AGB-Wirksamkeit der Klauseln (BGB Paragraph 305 ff.) / Transparenzgebot / Klauselverbote BGB Paragraph 308 / Paragraph 309
-- Pruefer: Arbeitsrechtler
-- Materialitaet rot: unwirksame Ausschlussfrist unter 3 Monaten; Wettbewerbsverbot ohne Karenzentschaedigung; Widerrufsvorbehalt fuer Hauptleistung
+- Prüfer: Arbeitsrechtler
+- Materialität rot: unwirksame Ausschlussfrist unter 3 Monaten; Wettbewerbsverbot ohne Karenzentschädigung; Widerrufsvorbehalt für Hauptleistung
 
 ### DSGVO-Beschaeftigtendatenschutz
 
-- Zusatzspalten: Einwilligungen zu Bild- und Datenverarbeitung / BDSG Paragraph 26 / Loeschpflichten / Mitarbeiterueberwachungsklausel
-- Pruefer: Datenschutzbeauftragter
-- Materialitaet rot: Pauschal-Einwilligung fuer beliebige Datenverarbeitung; verdeckte Ueberwachung im Vertrag
+- Zusatzspalten: Einwilligungen zu Bild- und Datenverarbeitung / BDSG Paragraph 26 / Löschpflichten / Mitarbeiterüberwachungsklausel
+- Prüfer: Datenschutzbeauftragter
+- Materialität rot: Pauschal-Einwilligung für beliebige Datenverarbeitung; verdeckte Überwachung im Vertrag
 
 ### Sozialversicherung
 
 - Zusatzspalten: Sozialversicherungspflicht / Statusfeststellungsverfahren / Geringfuegigkeit (450 / 538 EUR)
-- Pruefer: Lohnbuchhaltung / Sozialversicherungsexperte
-- Materialitaet rot: Scheinselbststaendigkeit-Verdacht; Statusfeststellung steht aus
+- Prüfer: Lohnbuchhaltung / Sozialversicherungsexperte
+- Materialität rot: Scheinselbstständigkeit-Verdacht; Statusfeststellung steht aus
 
-## BAG-Leitsaetze
+## BAG-Leitsätze
 
-- BAG zu AGB-Kontrolle in Arbeitsvertraegen
-- BAG zur Karenzentschaedigung HGB Paragraph 74
+- BAG zu AGB-Kontrolle in Arbeitsverträgen
+- BAG zur Karenzentschädigung HGB Paragraph 74
 - BAG zur Befristung ohne Sachgrund TzBfG Paragraph 14 Abs 2
 
 ## Normenrahmen
 
-- **BGB** — Paragraph 305 ff. (AGB-Kontrolle), Paragraph 622 (Kuendigung)
+- **BGB** — Paragraph 305 ff. (AGB-Kontrolle), Paragraph 622 (Kündigung)
 - **HGB** — Paragraph 74 ff. (Wettbewerbsverbot)
 - **TzBfG** — Befristung Teilzeit
 - **NachwG** — Nachweispflicht der Arbeitsbedingungen
@@ -66,4 +66,4 @@ Wer einen Mittelstaendler erwirbt steht vor 200 Arbeitsvertraegen mit jeweils 12
 
 ## Ausgabe
 
-Wuerfel-Schema fix und fertig. Direkt einsatzbereit.
+Würfel-Schema fix und fertig. Direkt einsatzbereit.

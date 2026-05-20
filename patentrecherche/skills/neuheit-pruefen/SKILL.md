@@ -3,7 +3,7 @@ name: neuheit-pruefen
 description: "Prueft Neuheit nach § 3 PatG und Art. 54 EPUe. Methodisches Schema: ein Anspruch wird in seine Merkmale zerlegt und Merkmal-fuer-Merkmal gegen genau eine Entgegenhaltung verglichen. Neuheitsschaedlich ist nur die vollstaendige Vorwegnahme aller Merkmale in einer einzigen Entgegenhaltung (kein Mosaik). Beruecksichtigt die EPA-Konzepte unmittelbare und eindeutige Offenbarung implizite Offenbarung und unzulaessige Auswahlerfindungen. Erzeugt Merkmalsanalyse-Tabelle pro Entgegenhaltung. Bewertet jedes Merkmal als offenbart nicht offenbart oder implizit offenbart mit Pinpoint. Gibt Gesamtergebnis und Empfehlung an die Patentanwaeltin. Disclaimer keine amtliche Pruefung."
 ---
 
-# neuheit-pruefen
+# neuheit-prüfen
 
 ## Zweck
 
@@ -28,10 +28,10 @@ Aufbau einer Merkmalsanalyse-Tabelle. Der Hauptanspruch wird in **Merkmale** zer
 ```
 Anspruch 1 — Vorrichtung zum Lastmanagement in einem Energieversorgungsnetz:
 M1: ein Energieversorgungsnetz mit mindestens einer Quelle und mindestens einem Verbraucher,
-M2: ein Steuergeraet, das mit der Quelle und dem Verbraucher verbunden ist,
-M3: wobei das Steuergeraet einen Speicher fuer historische Lastdaten umfasst,
-M4: wobei das Steuergeraet eingerichtet ist, anhand eines Prognosemodells einen Soll-Lastpfad zu bestimmen,
-M5: wobei das Steuergeraet eingerichtet ist, bei Abweichung des Ist-Lastpfads vom Soll-Lastpfad einen Eingriff in den Verbraucher auszuloesen,
+M2: ein Steuergerät, das mit der Quelle und dem Verbraucher verbunden ist,
+M3: wobei das Steuergerät einen Speicher für historische Lastdaten umfasst,
+M4: wobei das Steuergerät eingerichtet ist, anhand eines Prognosemodells einen Soll-Lastpfad zu bestimmen,
+M5: wobei das Steuergerät eingerichtet ist, bei Abweichung des Ist-Lastpfads vom Soll-Lastpfad einen Eingriff in den Verbraucher auszuloesen,
 M6: dadurch gekennzeichnet, dass das Prognosemodell ein neuronales Netzwerk mit mindestens drei Schichten umfasst.
 ```
 
@@ -68,7 +68,7 @@ Tabelle aller Entgegenhaltungen mit Bewertungsspalte:
 ### Schritt 5: Folgen
 
 - **Mindestens eine neuheitsschädliche Entgegenhaltung** → Empfehlung an Patentanwältin: Anspruch umformulieren (Aufnahme weiterer Merkmale aus der Beschreibung, Beschränkung auf Sub-Konfigurationen), oder Anmeldung in dieser Form nicht aufrechterhalten.
-- **Keine neuheitsschädliche Entgegenhaltung** → weiter zu `erfinderische-taetigkeit-pruefen`. Neuheit allein reicht nicht.
+- **Keine neuheitsschädliche Entgegenhaltung** → weiter zu `erfinderische-tätigkeit-prüfen`. Neuheit allein reicht nicht.
 
 ## Hinweise
 
@@ -79,4 +79,4 @@ Tabelle aller Entgegenhaltungen mit Bewertungsspalte:
 
 ## Disclaimer
 
-> **Hinweis zur Pruefung.** Diese Neuheitspruefung ist eine durch Claude unterstuetzte Vorpruefung und keine amtliche Pruefung durch DPMA oder EPA. Die Bewertung als „neu" oder „nicht neu" ist eine Einschaetzung anhand der Recherche-Treffer; die amtliche Pruefung kann zu anderen Ergebnissen kommen, weil weitere oder andere Entgegenhaltungen gefunden werden oder die Auslegung des Anspruchs anders ausfaellt.
+> **Hinweis zur Prüfung.** Diese Neuheitsprüfung ist eine durch Claude unterstuetzte Vorprüfung und keine amtliche Prüfung durch DPMA oder EPA. Die Bewertung als „neu" oder „nicht neu" ist eine Einschätzung anhand der Recherche-Treffer; die amtliche Prüfung kann zu anderen Ergebnissen kommen, weil weitere oder andere Entgegenhaltungen gefunden werden oder die Auslegung des Anspruchs anders ausfaellt.

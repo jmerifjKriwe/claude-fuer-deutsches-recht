@@ -7,17 +7,17 @@ description: Strukturierte Projekt- und Ordnerarbeit fuer immobilienrechtliche R
 
 ## Leitidee
 
-Freihaendiges Prompting funktioniert fuer einzelne Aufgaben aber
-nicht fuer dauerhafte Mandate. Eine immobilienrechtliche
+Freihaendiges Prompting funktioniert für einzelne Aufgaben aber
+nicht für dauerhafte Mandate. Eine immobilienrechtliche
 Rechtsabteilung arbeitet projektbezogen — pro Objekt pro
-Transaktion pro Mietverhaeltnis. Der Skill legt Projekt-Skelette
+Transaktion pro Mietverhältnis. Der Skill legt Projekt-Skelette
 an und fixiert die Vorgaben so dass eingehende Dokumente immer
-gegen denselben Massstab geprueft werden.
+gegen denselben Maßstab geprüft werden.
 
 ## Inputs
 
 - Projekt-Bezeichnung (Objekt Aktenzeichen Transaktion)
-- Optional: hauseigenes Playbook Mustervertraege Klauselkatalog
+- Optional: hauseigenes Playbook Musterverträge Klauselkatalog
 - Optional: AVV-Anforderungen der Abteilung
 - Optional: Compliance-Vorgaben (zB Geldwaeschegesetz
   Sanktionslisten)
@@ -32,9 +32,9 @@ gegen denselben Massstab geprueft werden.
     musterklauseln.md
     avv-anforderungen.md
     zitierregeln.md
-  01_Vertraege/
+  01_Verträge/
   02_Korrespondenz/
-  03_Schriftsaetze/
+  03_Schriftsätze/
   04_Recherche/
   05_Mandantenkontakt/
   06_Ablage/
@@ -46,13 +46,13 @@ gegen denselben Massstab geprueft werden.
 - Rechtsgebiet und Schwerpunkte
 - Welche Skills bei welchem Dokumenttyp ausloesen
 - Welches Playbook gilt
-- Welche Mustervertraege als Referenz dienen
+- Welche Musterverträge als Referenz dienen
 - Welche AVV-Anforderungen zwingend sind
 - Welche Zitierregeln gelten
 
-## AVV-Pruefung nach Art. 28 DSGVO
+## AVV-Prüfung nach Art. 28 DSGVO
 
-Eingehende AVV oder AV-Vertraege werden gegen den Mindestkatalog
+Eingehende AVV oder AV-Verträge werden gegen den Mindestkatalog
 nach Art. 28 Abs. 3 DSGVO geprueft:
 
 - Gegenstand und Dauer der Verarbeitung
@@ -66,7 +66,7 @@ nach Art. 28 Abs. 3 DSGVO geprueft:
 - Unterauftragsverarbeiter
 - Unterstuetzung bei Betroffenenrechten Art. 12-22 DSGVO
 - Unterstuetzung bei Meldepflichten Art. 33 und 34 DSGVO
-- Loeschung oder Rueckgabe nach Vertragsende
+- Löschung oder Rückgabe nach Vertragsende
 - Nachweise und Audit-Rechte
 
 Ausgabe: Ampelmatrix mit Hinweis welche Pflichtangabe fehlt oder
@@ -74,37 +74,37 @@ abweicht.
 
 ## Interne Compliance-Vorgaben
 
-Falls in `vorgaben.md` hinterlegt werden zusaetzlich geprueft:
+Falls in `vorgaben.md` hinterlegt werden zusätzlich geprueft:
 
 - Sanktionslisten und Embargo-Vorgaben
 - Geldwaeschegesetz — Kenntnis des wirtschaftlich Berechtigten bei
   Immobilien-Transaktionen § 3 GwG
 - Mindest-Vertragsstrafen bei Geheimhaltungsverletzung
 - Maximal akzeptierte Indexierungs-Schwellen bei
-  Gewerbemietvertraegen
+  Gewerbemietverträgen
 - Schriftform-Mindestanforderungen Gewerbemiete § 550 BGB
 
 ## Auto-Routing
 
 Der Skill ordnet eingehende Dokumente auf Basis von
-Dateiname und Inhalt einem Unterordner zu. Ausloeser-Regeln aus
+Dateiname und Inhalt einem Unterordner zu. Auslöser-Regeln aus
 `vorgaben.md`:
 
-- Vertraege mit Begriffen Mietvertrag Kaufvertrag in
-  `01_Vertraege/`
+- Verträge mit Begriffen Mietvertrag Kaufvertrag in
+  `01_Verträge/`
 - Schreiben Email-Exports in `02_Korrespondenz/`
-- Schriftsaetze mit Begriffen Klage Erwiderung Berufung in
-  `03_Schriftsaetze/`
+- Schriftsätze mit Begriffen Klage Erwiderung Berufung in
+  `03_Schriftsätze/`
 
 Pro eingehendem Dokument wird ein Eintrag in `audit.md` gesetzt:
-Zeitpunkt Quelle Empfaenger angewandte Pruefskills Ergebnis.
+Zeitpunkt Quelle Empfänger angewandte Pruefskills Ergebnis.
 
 ## Integration mit anderen Skills
 
-Der Skill ist Hub fuer die anderen Skills des Plugins:
+Der Skill ist Hub für die anderen Skills des Plugins:
 
-- Eingehender Vertrag → `vertragspruefung-playbook`
-- Eingehende Mandanten-Korrespondenz mit Maengelanzeige →
+- Eingehender Vertrag → `vertragsprüfung-playbook`
+- Eingehende Mandanten-Korrespondenz mit Mängelanzeige →
   `mieteranfragen-bearbeitung`
 - Grundbuch-PDFs → `grundbuchanalyse`
 - Fragmentarische Sachverhalts-Unterlagen →
@@ -121,10 +121,10 @@ und das Ergebnis in den richtigen Unterordner geschrieben.
 
 ## Nachvollziehbarkeit und Audit
 
-Jede Aenderung an `vorgaben.md` ist versioniert. Jede
+Jede Änderung an `vorgaben.md` ist versioniert. Jede
 Skill-Ausfuehrung steht in `audit.md` mit Eingabe-Datei und
-Ergebnis-Datei. Bei Pruefung durch Aufsicht oder Geschaeftsleitung
-ist nachvollziehbar wer wann mit welchen Vorgaben geprueft hat.
+Ergebnis-Datei. Bei Prüfung durch Aufsicht oder Geschäftsleitung
+ist nachvollziehbar wer wann mit welchen Vorgaben geprüft hat.
 
 ## Output beim Setup
 
@@ -135,12 +135,12 @@ ist nachvollziehbar wer wann mit welchen Vorgaben geprueft hat.
 
 ## Beispielformulierungen
 
-- "Lege ein Projekt fuer das Buerogebaeude Friedrichstrasse 100
-  an. Playbook Gewerbemiete Standard. AVV-Pruefung Pflicht."
-- "Pruefe diesen eingehenden AVV nach Art. 28 DSGVO und unsere
+- "Lege ein Projekt für das Buerogebäude Friedrichstrasse 100
+  an. Playbook Gewerbemiete Standard. AVV-Prüfung Pflicht."
+- "Prüfe diesen eingehenden AVV nach Art. 28 DSGVO und unsere
   internen Vorgaben."
 - "Routinge die letzten 30 eingehenden Mails in die richtigen
   Projekt-Ordner."
-- "Erzeuge audit.md fuer den Quartalsbericht — welche Skills
-  wurden im Projekt Erbpacht Tegel zwischen Januar und Maerz
+- "Erzeuge audit.md für den Quartalsbericht — welche Skills
+  wurden im Projekt Erbpacht Tegel zwischen Januar und März
   angewandt?"

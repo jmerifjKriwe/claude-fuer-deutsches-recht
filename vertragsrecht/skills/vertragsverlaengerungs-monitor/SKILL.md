@@ -68,7 +68,7 @@ Gespeichert unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertrags
   docusign_umschlag: "abc-123"
   status: "aktiv"                        # aktiv | gekündigt | verlängert | versäumt
   notizen: "Preis unbegrenzt – vor Verlängerung Alternativen prüfen: X, Y."
-  bgb_309_9_pruefung: "B2B – § 307 BGB prüfen; nicht direkt anwendbar"
+  bgb_309_9_prüfung: "B2B – § 307 BGB prüfen; nicht direkt anwendbar"
 ```
 
 ## Ausgabeformat

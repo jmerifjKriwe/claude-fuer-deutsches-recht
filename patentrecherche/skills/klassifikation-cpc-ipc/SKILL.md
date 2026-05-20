@@ -39,7 +39,7 @@ Damit die anschließende Datenbankrecherche zielgenau läuft, müssen die richti
 - Skizzen / Zeichnungen
 - Memo der Patentanwältin
 
-Wenn nur sehr knappes Material vorhanden ist: an `rueckfragen-mandant` weiterleiten.
+Wenn nur sehr knappes Material vorhanden ist: an `rückfragen-mandant` weiterleiten.
 
 ### 2. Schlüsselbegriffe extrahieren
 
@@ -63,12 +63,12 @@ Zwei Wege parallel:
 Vorschlag formulieren:
 
 ```
-Hauptklasse CPC: H02J 3/00 — Schaltungsanordnungen oder Systeme fuer die Versorgung oder Verteilung elektrischer Energie
+Hauptklasse CPC: H02J 3/00 — Schaltungsanordnungen oder Systeme für die Versorgung oder Verteilung elektrischer Energie
   Entsprechende IPC: H02J 3/00
 Nebenklassen CPC:
   - H02J 3/14 — Anpassung der Leistung an den Verbrauch (Lastmanagement)
   - G06Q 50/06 — Energie-, Wasser- oder Gasversorgung
-  - Y02E 60/00 — Technologies fuer die Reduktion von Treibhausgasen (CPC-only)
+  - Y02E 60/00 — Technologies für die Reduktion von Treibhausgasen (CPC-only)
 ```
 
 Pro Klasse zwei Sätze Begründung, **warum** sie passt — verankert in den Schlüsselbegriffen.

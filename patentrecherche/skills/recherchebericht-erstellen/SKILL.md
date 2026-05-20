@@ -26,7 +26,7 @@ Mandant:        [Mandantenname]
 Aktenzeichen:   [Aktenzeichen]
 Recherchezweck: [Stand der Technik / Neuheit / FTO / Monitoring / Bescheidantwort]
 Stichtag:       [Datum des Berichts]
-Erstellt durch: [Patentanwaeltin / Patentanwalt]
+Erstellt durch: [Patentanwältin / Patentanwalt]
                 [Kanzlei]
 ```
 
@@ -52,11 +52,11 @@ Erstellt durch: [Patentanwaeltin / Patentanwalt]
 
 Strukturierte Treffertabelle mit Spalten: Veröff.-Nr., Anmelder, Anmeldetag, Klasse, Titel, Status, Recherchezeichen (X/Y/A/P/E) oder Ampel (rot/gelb/grün), Pinpoint, Link.
 
-Pro besonders relevantem Treffer ein **Dossier** auf einer halben Seite mit Pinpoint und Merkmals-Tabelle (übernommen aus `neuheit-pruefen` / `freedom-to-operate-recherche`).
+Pro besonders relevantem Treffer ein **Dossier** auf einer halben Seite mit Pinpoint und Merkmals-Tabelle (übernommen aus `neuheit-prüfen` / `freedom-to-operate-recherche`).
 
 ### 5. Patentfamilien
 
-Wenn relevante Treffer Familienmitglieder haben: Familientabelle pro Treffer mit Validierungsstaaten und Rechtsstand. Übernommen aus `patentfamilien-analyse` und `rechtsstand-pruefen`.
+Wenn relevante Treffer Familienmitglieder haben: Familientabelle pro Treffer mit Validierungsstaaten und Rechtsstand. Übernommen aus `patentfamilien-analyse` und `rechtsstand-prüfen`.
 
 ### 6. Bewertung
 
@@ -86,21 +86,21 @@ In drei bis fünf Sätzen — was sollte die Mandantin tun?
 HINWEIS ZUR RECHERCHE
 
 Diese Patentrecherche ist eine durch Claude unterstuetzte Vorrecherche und KEINE
-amtliche Recherche im Sinne einer DPMA- oder EPA-Recherche. Vollstaendigkeit
+amtliche Recherche im Sinne einer DPMA- oder EPA-Recherche. Vollständigkeit
 kann nicht garantiert werden, insbesondere:
 
-- Treffer in nicht durchsuchten Sprachen (JP, CN, KR, RU usw.) koennen verfehlt werden;
-- Geheime aeltere Anmeldungen (§ 3 Abs. 2 PatG / Art. 54 Abs. 3 EPUe) sind erst
-  18 Monate nach Prioritaetstag oeffentlich;
+- Treffer in nicht durchsuchten Sprachen (JP, CN, KR, RU usw.) können verfehlt werden;
+- Geheime ältere Anmeldungen (§ 3 Abs. 2 PatG / Art. 54 Abs. 3 EPUe) sind erst
+  18 Monate nach Prioritaetstag öffentlich;
 - Bezahl-Datenbanken (PatBase, STN, Orbit, Questel u. a.) sind in diese Recherche
-  nicht eingeflossen, sofern nicht ausdruecklich vermerkt;
-- Nicht-Patent-Literatur ist nur ueber Standard-Schnittstellen (Google Scholar,
+  nicht eingeflossen, sofern nicht ausdrücklich vermerkt;
+- Nicht-Patent-Literatur ist nur über Standard-Schnittstellen (Google Scholar,
   Lens.org, arXiv, PubMed) erfasst.
 
 Die finale Bewertung der Patentierbarkeit, der Verletzungsfreiheit und des Rechts-
-stands muss durch eigenstaendige Pruefung der Patentanwaeltin / des Patentanwalts
-abgesichert werden. Dieser Bericht ersetzt nicht die anwaltliche Pruefung und ist
-keine Rechtsberatung gegenueber dem Endmandanten ausserhalb der zustaendigen Kanzlei.
+stands muss durch eigenständige Prüfung der Patentanwältin / des Patentanwalts
+abgesichert werden. Dieser Bericht ersetzt nicht die anwaltliche Prüfung und ist
+keine Rechtsberatung gegenüber dem Endmandanten außerhalb der zuständigen Kanzlei.
 ```
 
 ### 9. Anhang
@@ -120,11 +120,11 @@ Aus den Vorgänger-Skills:
 - `klassifikation-cpc-ipc` → Klassen
 - `agentische-datenbank-recherche` → Trefferlisten und Suchstrings
 - `stand-der-technik-recherche` → X/Y/A/P/E-Bewertungen
-- `neuheit-pruefen` → Merkmalsanalyse
-- `erfinderische-taetigkeit-pruefen` → PSA-Argumentation
+- `neuheit-prüfen` → Merkmalsanalyse
+- `erfinderische-tätigkeit-prüfen` → PSA-Argumentation
 - `freedom-to-operate-recherche` → Ampelbewertungen
 - `patentfamilien-analyse` → Familientabellen
-- `rechtsstand-pruefen` → Rechtsstandsdaten
+- `rechtsstand-prüfen` → Rechtsstandsdaten
 
 ### Schritt 2: Erzeugt Markdown-Dokument
 

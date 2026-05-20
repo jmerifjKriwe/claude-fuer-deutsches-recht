@@ -202,8 +202,8 @@ systeme:
     pflichten_bewertet: false
     pflichten_hinweis: "Zu prüfen als Betreiber eines hochriskanten Systems: menschliche Aufsicht (Art. 14 KI-VO), Eingabedatenqualität, Überwachung, Aufzeichnung, Unterrichtung von Arbeitnehmern, FRIA wenn öffentliche Stelle/Dienst (Art. 27 KI-VO) [gegen aktuellen KI-VO-Text prüfen]"
     art50_transparenz: "Offenlegungspflicht prüfen (Art. 50 KI-VO) [prüfen]"
-    naechste_pruefung: "2026-08-01"
-    pruef_ausloeser: "bei wesentlicher Änderung oder jährlich"
+    nächste_prüfung: "2026-08-01"
+    pruef_auslöser: "bei wesentlicher Änderung oder jährlich"
     erstellt: "2026-05-18"
     aktualisiert: "2026-05-18"
 ```

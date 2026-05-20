@@ -55,7 +55,7 @@ Für jedes Update den vollständigen Diff anzeigen:
 ## Änderungen in SKILL.md
 [Unified Diff]
 
-## Änderungen in ausloeser/ausloeser.json
+## Änderungen in auslöser/auslöser.json
 [Unified Diff — ACHTUNG: Automatische Auslöser können beliebigen Code ausführen]
 
 ## Änderungen in .mcp.json
@@ -66,7 +66,7 @@ Für jedes Update den vollständigen Diff anzeigen:
 ```
 
 Dann die Vertrauensprüfung durchführen:
-- **Hat sich `ausloeser/ausloeser.json` (hooks/hooks.json) geändert?** Automatische Auslöser können beliebige Shell-Befehle auf Ereignisse ausführen. Diff prominent anzeigen und Nutzer bestätigen lassen, dass er versteht, was die neuen Auslöser tun.
+- **Hat sich `auslöser/auslöser.json` (hooks/hooks.json) geändert?** Automatische Auslöser können beliebige Shell-Befehle auf Ereignisse ausführen. Diff prominent anzeigen und Nutzer bestätigen lassen, dass er versteht, was die neuen Auslöser tun.
 - **Hat sich `.mcp.json` geändert?** Neue oder geänderte MCP-Server können auf die Umgebung zugreifen.
 - **Hat sich `allowed-tools` oder `tools` im Frontmatter erweitert?** Neuer Werkzeugzugriff ist eine Berechtigungseskalation.
 - **Gibt es neue Netzwerkaufrufe, Dateischreibvorgänge außerhalb des Skill-Verzeichnisses oder Code-Ausführung in der SKILL.md?** Diese kennzeichnen.
@@ -74,12 +74,12 @@ Dann die Vertrauensprüfung durchführen:
 
 ### Schritt 2.5: Erneuter Scan der neuen Version (GlassWorm-Sperre)
 
-Den vollständigen `skills-qualitaetspruefung`-Scan gegen die NEUE Version durchführen, bevor das Update angewendet wird. Ein Skill, der bei v1.0 sauber war, kann ein vergiftetes v1.1 ausliefern — das GlassWorm-Muster (ein vertrauenswürdiger Publisher, ein etablierter Skill, ein kleinerer Versions-Bump, der die Nutzlast trägt). Vertrauen aus der Installationszeit überträgt sich nicht auf Updates.
+Den vollständigen `skills-qualitätsprüfung`-Scan gegen die NEUE Version durchführen, bevor das Update angewendet wird. Ein Skill, der bei v1.0 sauber war, kann ein vergiftetes v1.1 ausliefern — das GlassWorm-Muster (ein vertrauenswürdiger Publisher, ein etablierter Skill, ein kleinerer Versions-Bump, der die Nutzlast trägt). Vertrauen aus der Installationszeit überträgt sich nicht auf Updates.
 
 **Regeln:**
 
-1. **Bei Regression schließen.** Wenn die neue Version Befunde erzeugt, wo die alte keine hatte — in einer beliebigen `skills-qualitaetspruefung`-Kategorie — Update standardmäßig verweigern und erklären warum.
-2. **Sicherheitsrelevante Diffs erfordern menschliche Genehmigung unabhängig vom Urteil.** Jede Änderung an `ausloeser/ausloeser.json`, `.mcp.json`, `allowed-tools`/`tools`-Frontmatter, neuer `Bash`/`WebFetch`/`WebSearch`-Zugriff, neue externe URLs, neue Dateischreibpfade außerhalb des Skill-Verzeichnisses oder das `description`-Frontmatter erzwingt einen menschlichen Genehmigungsprompt.
+1. **Bei Regression schließen.** Wenn die neue Version Befunde erzeugt, wo die alte keine hatte — in einer beliebigen `skills-qualitätsprüfung`-Kategorie — Update standardmäßig verweigern und erklären warum.
+2. **Sicherheitsrelevante Diffs erfordern menschliche Genehmigung unabhängig vom Urteil.** Jede Änderung an `auslöser/auslöser.json`, `.mcp.json`, `allowed-tools`/`tools`-Frontmatter, neuer `Bash`/`WebFetch`/`WebSearch`-Zugriff, neue externe URLs, neue Dateischreibpfade außerhalb des Skill-Verzeichnisses oder das `description`-Frontmatter erzwingt einen menschlichen Genehmigungsprompt.
 3. **Leseschutz-Scan-Kontext.** Der Scan liest angreiferkontrollierten Text (die neue SKILL.md). Im Leseschutz-Subagenten mit Read + WebFetch + Glob ausführen (kein Write, kein Bash, kein MCP), wenn verfügbar.
 4. **Update verweigern, wenn Scan jetzt fehlschlägt.** Kein „trotzdem anwenden"-Option. REFUSE-Ausgabe und Stopp.
 
@@ -118,7 +118,7 @@ Für jedes Update:
 - Skill-Name und SHA-Übergang
 - Vollständiger Diff aller geänderten Dateien
 - Vertrauensprüfungs-Ergebnisse (Automatische Auslöser, MCP, Werkzeugberechtigungen, Netzwerkaufrufe)
-- skills-qualitaetspruefung-Scan-Ergebnis für neue Version
+- skills-qualitätsprüfung-Scan-Ergebnis für neue Version
 - Genehmigungsprompt: „Anwenden? (ja / nein)"
 
 ## Beispiel
@@ -134,8 +134,8 @@ Installierter SHA: a1b2c3d → Neuester SHA: e4f5g6h
 + 1. Art. 28 DSGVO Auftragsverarbeitung prüfen
 - ## Alte NDA-Checkliste
 
-Vertrauensprüfung: ✅ Keine Änderungen an ausloeser.json, .mcp.json oder allowed-tools.
-skills-qualitaetspruefung: BEREIT — kein Rückschritt gegenüber v1.0.
+Vertrauensprüfung: ✅ Keine Änderungen an auslöser.json, .mcp.json oder allowed-tools.
+skills-qualitätsprüfung: BEREIT — kein Rückschritt gegenüber v1.0.
 
 Diff anzeigen (ja) oder Update zurückstellen (nein)?
 ```

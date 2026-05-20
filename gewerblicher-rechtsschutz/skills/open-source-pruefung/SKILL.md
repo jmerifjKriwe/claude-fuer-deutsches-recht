@@ -45,7 +45,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ### Kommentare
 
-- Spindler, in: Schricker/Loewenheim, UrhG, 6. Aufl. 2020, § 69a Rn. 1 (Softwareschutz allgemein)
+- Spindler, in: Schricker/Löwenheim, UrhG, 6. Aufl. 2020, § 69a Rn. 1 (Softwareschutz allgemein)
 - Scholz, in: BeckOK UrhR, 42. Ed. (Stand 01.01.2025), § 69a Rn. 20 (Lizenzbedingungen von Open-Source-Software)
 - Dreier, in: Dreier/Schulze, UrhG, 7. Aufl. 2022, § 31 Rn. 60 (Nutzungsrechtseinräumung, Copyleft-Mechanismus)
 - Metzger/Jaeger, Open Source Software und deutsches Urheberrecht, GRUR Int. 1999, 839 (847) — Grundlagenaufsatz zur Wirksamkeit der GPL nach deutschem Recht
@@ -242,5 +242,5 @@ Alle Klassifikationen und Pflichtaussagen müssen belegbar sein:
 - **Gesetze:** §§ 31, 69a, 97 UrhG
 - **Rechtsprechung:** mindestens eine Entscheidung zur GPL-Durchsetzbarkeit (LG München I oder BGH Afterlife)
 - **Lizenztext:** direkt aus dem Repository oder SPDX; als `[Lizenztext gelesen — [Quelle]]` kennzeichnen
-- **Kommentar oder Aufsatz:** Schricker/Loewenheim UrhG oder Metzger/Jaeger GRUR Int. 1999 mit Seitenangabe
+- **Kommentar oder Aufsatz:** Schricker/Löwenheim UrhG oder Metzger/Jaeger GRUR Int. 1999 mit Seitenangabe
 - Modellannahmen als `[Modellwissen — verifizieren]` kennzeichnen.

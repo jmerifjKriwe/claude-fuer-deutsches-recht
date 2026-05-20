@@ -75,7 +75,7 @@ Jede dem Staat zurechenbare Beeinträchtigung des grundrechtlich geschützten Ve
 
 Die Schranke darf ihrerseits nicht gegen Verfassungsrecht verstoßen:
 
-1. **Verhältnismäßigkeit** (Skill `verhaeltnismaessigkeit`): legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit.
+1. **Verhältnismäßigkeit** (Skill `verhältnismäßigkeit`): legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit.
 2. **Wesensgehaltsgarantie** (Art. 19 Abs. 2 GG): absoluter Kernbereich darf nicht verletzt werden.
 3. **Zitiergebot** (Art. 19 Abs. 1 S. 2 GG, nur bei einschränkenden Gesetzen mit Wirkungsabsicht auf das Grundrecht).
 4. **Allgemeinheit** (Art. 19 Abs. 1 S. 1 GG).
@@ -140,7 +140,7 @@ Geprüftes Grundrecht: Art. ___ GG
    - Schranke: [einfacher / qualifizierter Vorbehalt / vorbehaltlos]
    - Einschränkungsgesetz: ___
    - Schranken-Schranken:
-     - Verhältnismäßigkeit: [siehe Skill verhaeltnismaessigkeit]
+     - Verhältnismäßigkeit: [siehe Skill verhältnismäßigkeit]
      - Wesensgehalt Art. 19 Abs. 2 GG: ___
      - Zitiergebot Art. 19 Abs. 1 S. 2 GG: ___
      - Wechselwirkung (Lüth): ___

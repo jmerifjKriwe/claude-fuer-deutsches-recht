@@ -21,23 +21,23 @@ Immobilien-Portfolioanalyse. Pro Flurstueck dieselben 16 Fragen, drei Perspektiv
 
 ### Abteilung I (Eigentum)
 
-6. Eigentuemerkette mit Erwerbsgrund
+6. Eigentümerkette mit Erwerbsgrund
 
 ### Abteilung II (Lasten und Beschraenkungen)
 
-7. Abteilung-II-Eintraege (Dienstbarkeit / Reallast / Vorkaufsrecht / Sanierungsvermerk / Nacherbenvermerk / Insolvenzvermerk)
+7. Abteilung-II-Einträge (Dienstbarkeit / Reallast / Vorkaufsrecht / Sanierungsvermerk / Nacherbenvermerk / Insolvenzvermerk)
 
 ### Abteilung III (Grundpfandrechte)
 
-8. Grundpfandrechte mit Betrag Glaeubiger Brieftyp
+8. Grundpfandrechte mit Betrag Gläubiger Brieftyp
 9. Rang
-10. Loeschungserleichterung vorhanden
-11. Offene Briefgrundschuld ohne Loeschungsbewilligung
+10. Löschungserleichterung vorhanden
+11. Offene Briefgrundschuld ohne Löschungsbewilligung
 
 ### Aussergrundbuch
 
 12. Baulasten aus Baulastenverzeichnis (NICHT im Grundbuch)
-13. Altlastenverdachtsflaeche aus Kataster
+13. Altlastenverdachtsfläche aus Kataster
 14. Vorkaufsrecht der Gemeinde BauGB Paragraph 24 ff.
 15. Sanierungsvermerk BauGB Paragraph 144 (Genehmigung erforderlich)
 16. Nacherbenvermerk BGB Paragraph 2113
@@ -47,20 +47,20 @@ Immobilien-Portfolioanalyse. Pro Flurstueck dieselben 16 Fragen, drei Perspektiv
 ### Recht
 
 - Zusatzspalten: WEG-Verwaltung / Mieterausschluss / Sondernutzungsrechte
-- Pruefer: Immobilienanwalt / Notar
-- Materialitaet rot: offene Briefgrundschuld ohne Loeschungsbewilligung; Vorkaufsrecht der Gemeinde; Sanierungsvermerk ohne Genehmigung
+- Prüfer: Immobilienanwalt / Notar
+- Materialität rot: offene Briefgrundschuld ohne Löschungsbewilligung; Vorkaufsrecht der Gemeinde; Sanierungsvermerk ohne Genehmigung
 
 ### Technik
 
 - Zusatzspalten: Bauzustand / Energieausweis / Schadstoffaltlast / Brandschutz
-- Pruefer: Bauingenieur / Sachverstaendiger
-- Materialitaet rot: Altlastenverdacht ohne Beraeumungsplan
+- Prüfer: Bauingenieur / Sachverständiger
+- Materialität rot: Altlastenverdacht ohne Beraeumungsplan
 
 ### Wirtschaft
 
-- Zusatzspalten: Mietzins pro qm / Leerstandsquote / Instandhaltungsrueckstand / Wertgutachten
-- Pruefer: Asset-Manager / Bewerter
-- Materialitaet rot: Mietzins mehr als 25 Prozent unter Marktmiete UND Restlaufzeit unter 12 Monate
+- Zusatzspalten: Mietzins pro qm / Leerstandsquote / Instandhaltungsrückstand / Wertgutachten
+- Prüfer: Asset-Manager / Bewerter
+- Materialität rot: Mietzins mehr als 25 Prozent unter Marktmiete UND Restlaufzeit unter 12 Monate
 
 ## Normenrahmen
 
@@ -69,7 +69,7 @@ Immobilien-Portfolioanalyse. Pro Flurstueck dieselben 16 Fragen, drei Perspektiv
 - **BauGB** — Paragraph 24 ff. (Vorkaufsrecht Gemeinde), Paragraph 144 (Sanierungsvermerk-Genehmigung)
 - **BBodSchG** — Bodenschutz und Altlasten
 - **WEG** — Wohnungseigentumsgesetz
-- **GwG** — Paragraph 20 (Transparenzregister wirtschaftlich Berechtigte bei juristischen Personen als Eigentuemer)
+- **GwG** — Paragraph 20 (Transparenzregister wirtschaftlich Berechtigte bei juristischen Personen als Eigentümer)
 
 ## Hinweise
 
@@ -77,4 +77,4 @@ Baulasten existieren NICHT im Grundbuch. Querverweis mit Baulastenverzeichnis zw
 
 ## Ausgabe
 
-Wuerfel-Schema fix und fertig. Direkt einsatzbereit.
+Würfel-Schema fix und fertig. Direkt einsatzbereit.

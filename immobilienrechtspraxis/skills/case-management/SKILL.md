@@ -15,23 +15,23 @@ beides bei jedem neuen Eingang fort.
 
 ## Inputs
 
-- Aktenbestandteile in beliebiger Form: Vertraege Schriftsaetze
+- Aktenbestandteile in beliebiger Form: Verträge Schriftsätze
   Korrespondenz Gutachten Fotos Hausverwaltungs-Berichte
-- Optional: bestehende Falluebersicht zur Fortschreibung
-- Optional: Recherche-Auftrag fuer aktuelle Rechtsprechung
+- Optional: bestehende Fallübersicht zur Fortschreibung
+- Optional: Recherche-Auftrag für aktuelle Rechtsprechung
 
 ## Output je Fall
 
-- `Fall_<Aktenzeichen>.md` — eine Seite Falluebersicht mit
+- `Fall_<Aktenzeichen>.md` — eine Seite Fallübersicht mit
   - Beteiligte (Mandant Gegenseite Vertreter Gericht)
   - Streitgegenstand und Streitwert
   - Aktueller Verfahrensstand
-  - Naechste Schritte mit Verantwortlichem
+  - Nächste Schritte mit Verantwortlichem
   - Risiko-Ampel
 - `Fristen_<Aktenzeichen>.md` — Tabelle Frist — Datum —
   Rechtsgrundlage — Status
 - `Ereignisse_<Aktenzeichen>.md` — chronologische Tabelle aller
-  Vorgaenge mit Quellenverweis auf Aktenstelle
+  Vorgänge mit Quellenverweis auf Aktenstelle
 - Optional `Rechtsprechung_<Aktenzeichen>.md` — kuratierte
   BGH-Entscheidungen zum Fall mit Pinpoint-Zitat und
   Risiko-Einordnung
@@ -42,22 +42,22 @@ beides bei jedem neuen Eingang fort.
    Urteil Gutachten Foto)
 2. Tatsachen extrahieren mit Quellenangabe in eckigen Klammern
 3. Fristen und Termine berechnen — gesetzliche Fristen aus
-   Vorschrift abgeleitet, gerichtliche aus Verfuegung
+   Vorschrift abgeleitet, gerichtliche aus Verfügung
 4. Risiko-Ampel pro Fall: GRUEN beherrschbar, GELB beobachten,
    ROT Eskalation
-5. Bei Nachlieferung: bestehende Markdown-Dateien werden ergaenzt,
-   neue Eintraege mit `[NEU]` markiert
+5. Bei Nachlieferung: bestehende Markdown-Dateien werden ergänzt,
+   neue Einträge mit `[NEU]` markiert
 6. Auf Wunsch: aktuelle Rechtsprechung recherchieren und mit
-   Pinpoint-Zitierung anhaengen (juengere zuerst Randnummer)
+   Pinpoint-Zitierung anhängen (juengere zuerst Randnummer)
 
 ## Zusammenfassung umfangreicher Dokumente
 
-Der Skill kann lange Schriftsaetze Gutachten und Urteile
+Der Skill kann lange Schriftsätze Gutachten und Urteile
 zusammenfassen. Format pro Dokument:
 
-- Kernaussage in zwei Saetzen
+- Kernaussage in zwei Sätzen
 - Relevante Tatsachen mit Quellenangabe (Randnummer Seite)
-- Rechtliche Wuerdigung in Stichpunkten
+- Rechtliche Würdigung in Stichpunkten
 - Bezug zum eigenen Fall mit Ampel
 
 Bei Urteilen wird die Pinpoint-Zitierung sauber gesetzt — Gericht
@@ -69,8 +69,8 @@ Auf Anfrage sucht der Skill aktuelle Rechtsprechung zum
 Streitgegenstand. Format pro Entscheidung:
 
 - BGH oder OLG mit Datum Aktenzeichen Fundstelle Randnummer
-- Sachverhalts-Kern in zwei Saetzen
-- Rechtssatz wortgetreu mit Anfuehrungszeichen und Randnummer
+- Sachverhalts-Kern in zwei Sätzen
+- Rechtssatz wortgetreu mit Anführungszeichen und Randnummer
 - Bezug zum eigenen Fall — staerkt oder schwaecht die eigene
   Position
 - Ampel ROT GELB GRUEN aus Sicht des Mandanten
@@ -81,18 +81,18 @@ verifizierbarer Fundstelle vorliegen. Bei Unsicherheit Markierung
 
 ## Typische Fristen im Immobilienrecht
 
-- Widerspruch Eigenbedarfskuendigung § 574b BGB — spaetestens zwei
+- Widerspruch Eigenbedarfskündigung § 574b BGB — spaetestens zwei
   Monate vor Beendigung
-- Mieterhoehungsverlangen § 558b BGB — Zustimmungsfrist zwei
+- Mieterhöhungsverlangen § 558b BGB — Zustimmungsfrist zwei
   Monate
-- Schoenheitsreparaturen-Endabrechnung — Abrechnung der
-  Betriebskosten § 556 Abs. 3 BGB binnen zwoelf Monaten
-- Mietkautionsrueckforderung — angemessene Pruefungsfrist nach
+- Schönheitsreparaturen-Endabrechnung — Abrechnung der
+  Betriebskosten § 556 Abs. 3 BGB binnen zwölf Monaten
+- Mietkautionsrückforderung — angemessene Prüfungsfrist nach
   Auszug
 - Anfechtung WEG-Beschluss § 45 WEG — ein Monat ab Beschlussfassung
 - Schriftform Gewerbemietvertrag § 550 BGB bei Nachtraegen
-- Verjaehrung Mietminderung § 548 BGB — sechs Monate nach
-  Rueckgabe der Mietsache
+- Verjährung Mietminderung § 548 BGB — sechs Monate nach
+  Rückgabe der Mietsache
 - Auskunftsverlangen Mietpreisbremse § 556g Abs. 3 BGB
 
 ## Beispielformulierungen

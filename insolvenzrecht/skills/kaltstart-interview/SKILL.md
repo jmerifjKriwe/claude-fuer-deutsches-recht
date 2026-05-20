@@ -13,7 +13,7 @@ description: "Kaltstart-Interview für das Insolvenzrecht-Plugin. Befüllt das P
 4. Konfigurationsdatei schreiben (übergeordnete Verzeichnisse bei Bedarf anlegen).
 5. Zusammenfassung anzeigen und nächste Schritte vorschlagen.
 
-## `--integrationen-pruefen`
+## `--integrationen-prüfen`
 
 Prüft die Konnektoren-Verfügbarkeit (Dokumentenspeicher, Forderungsanmeldung-Portal, Insolvenzbekanntmachungen-RSS, Buchhaltungs-MCP). Aktualisiert nur den Abschnitt `## Verfügbare Integrationen`, führt kein neues Interview durch.
 
@@ -71,11 +71,11 @@ Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/i
 
 - Was eingerichtet wurde
 - Welche Skills jetzt sinnvoll als nächstes laufen können:
-  - `/insolvenzrecht:zahlungsunfaehigkeit-pruefung-17-inso` — bei Liquiditätsengpässen
-  - `/insolvenzrecht:ueberschuldung-pruefung-19-inso` — bei bilanzieller Überschuldung mit Fortbestehensprognose
+  - `/insolvenzrecht:zahlungsunfähigkeit-prüfung-17-inso` — bei Liquiditätsengpässen
+  - `/insolvenzrecht:überschuldung-prüfung-19-inso` — bei bilanzieller Überschuldung mit Fortbestehensprognose
   - `/insolvenzrecht:antragspflicht-15a-inso` — bei drohender 3-Wochen-Frist
-  - `/insolvenzrecht:glaeubigerantrag-pruefung` — bei eingegangenem Gläubigerantrag
-  - `/insolvenzrecht:liquiditaetsvorschau-insolvenzrechtlich` — für 21-Tage-Liquiditätsstatus
+  - `/insolvenzrecht:gläubigerantrag-prüfung` — bei eingegangenem Gläubigerantrag
+  - `/insolvenzrecht:liquiditätsvorschau-insolvenzrechtlich` — für 21-Tage-Liquiditätsstatus
 - Hinweis auf Mandatsgeheimnis (§ 43a Abs. 2 BRAO, § 203 StGB)
 
 ## Rechtlicher Rahmen

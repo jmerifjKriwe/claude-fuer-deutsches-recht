@@ -79,4 +79,4 @@ Das 2023 in Kraft getretene Data Privacy Framework regelt den datenschutzrechtli
 
 ## Output
 
-Tabellarische Bewertung. Bei US-Bezug: Vorlage für Professional Secrecy Addendum aus dem Skill `klauselvorschlaege`.
+Tabellarische Bewertung. Bei US-Bezug: Vorlage für Professional Secrecy Addendum aus dem Skill `klauselvorschläge`.

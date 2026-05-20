@@ -20,7 +20,7 @@ Befehlsargument:
 - `--bericht [--tage N]` — Fristen im Berichtsfenster (Standard: 90 Tage)
 - `--hinzufuegen` — neues Schutzrecht interaktiv erfassen
 - `--aktualisieren` — Amtshandlung, Gebührenzahlung oder Statusänderung erfassen
-- `--pruefung` — umfassende Portfolioprüfung
+- `--prüfung` — umfassende Portfolioprüfung
 - (kein Argument) — entspricht `--bericht`
 
 ## Rechtlicher Rahmen
@@ -65,7 +65,7 @@ Befehlsargument:
 ### Modus 1: Initialisierung (bei leerem Register oder `--neu`)
 
 1. Quelle bestimmen: IP-Verwaltungssystem angebunden (Anaqua, Dennemeyer, Patronas, CPA Global)? Falls ja: Portfolio über Integration beziehen. Falls nein: Tabelle / Export anfordern oder interaktiv durchführen.
-2. Für jedes Schutzrecht Fristen berechnen (Regeln unten). `naechste_fristen` mit den zwei bis drei nächsten Fälligkeiten befüllen.
+2. Für jedes Schutzrecht Fristen berechnen (Regeln unten). `nächste_fristen` mit den zwei bis drei nächsten Fälligkeiten befüllen.
 3. Register schreiben. Zusammenfassung ausgeben:
 
 ```
@@ -166,17 +166,17 @@ Kein `status: eingereicht` ohne ausdrückliches Ja über dieses Gate.
 **Teilmodi:**
 
 - **Manuelle Aktualisierung:** „Wir haben die Verlängerung von TM-DPMA-001 am 3. Juli eingereicht, Nachweis beigefügt." → Entsprechende Frist auf `status: eingereicht`, `eingereichtes_datum` setzen; nächste Frist im Lebenszyklus berechnen.
-- **Statusänderung:** „Bitte TM-EUIPO-004 als aufgegeben markieren." → `status` aktualisieren, `naechste_fristen` leeren, Datum notieren.
+- **Statusänderung:** „Bitte TM-EUIPO-004 als aufgegeben markieren." → `status` aktualisieren, `nächste_fristen` leeren, Datum notieren.
 - **IP-System-Abgleich:** Falls Anaqua / Dennemeyer / CPA Global angebunden: aktuellen Datenstand ziehen, abgleichen. Abweichungen kennzeichnen — System of Record gewinnt.
 
-### Modus 5: Portfolioprüfung (`--pruefung`)
+### Modus 5: Portfolioprüfung (`--prüfung`)
 
 Umfassende Gesundheitsprüfung über die nächsten Monatsfristen hinaus:
 
 **Fristenhygiene**
 - Fristen derzeit in `schonfrist`-Status? (Handlung möglich, aber Zuschlag anfallend.)
 - Erloschenene Schutzrechte, die nicht als aufgegeben / gelöscht markiert sind? Entweder wiederbeleben oder Status aktualisieren.
-- Schutzrechte ohne berechnete `naechste_fristen`? Fehlende Daten oder unbekannte Jurisdiktion.
+- Schutzrechte ohne berechnete `nächste_fristen`? Fehlende Daten oder unbekannte Jurisdiktion.
 
 **Eintragungslücken**
 - Markenanmeldungen älter als 18 Monate noch `angemeldet`? Amtsstatus prüfen — ggf. Beanstandungen zu beantworten.

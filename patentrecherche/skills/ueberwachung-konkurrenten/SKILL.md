@@ -3,7 +3,7 @@ name: ueberwachung-konkurrenten
 description: "Laufende Ueberwachung neuer Patentanmeldungen von Konkurrenten der Mandantin. Definiert Watch-Profile pro Mandant mit Anmelder-Namen (inklusive Konzern-Toechter und ehemaliger Schreibweisen), CPC-IPC-Klassen, Schlagwoerter, Territorien. Laeuft als woechentlicher oder monatlicher Job in Espacenet Smart Search Google Patents oder bei Bezahl-Tools wie PatBase Alert. Liefert Delta-Liste neuer Treffer seit letzter Iteration mit Bewertung relevant oder nicht relevant. Erinnert an Einspruchsfrist Art. 99 EPUe neun Monate ab Erteilungs-Veroeffentlichung. Disclaimer Vollstaendigkeit nicht garantiert insbesondere bei Konzern-Konstruktionen und Tochterfirmen ohne klare Namens-Bindung."
 ---
 
-# ueberwachung-konkurrenten
+# überwachung-konkurrenten
 
 ## Zweck
 
@@ -41,7 +41,7 @@ territorien: [DE, EP, US, JP, CN, KR, WO]
 zeitfenster: ab Anmeldetag 01.01.2024
 publikationsstatus: [Anmeldung, Erteilung]
 intervall: woechentlich
-naechste_iteration: 27.05.2026
+nächste_iteration: 27.05.2026
 ```
 
 ## Ablauf
@@ -107,4 +107,4 @@ Aggregierter Bericht alle drei Monate mit:
 
 ## Disclaimer
 
-> **Hinweis zur Ueberwachung.** Diese laufende Ueberwachung ist eine durch Claude unterstuetzte Vorrecherche. Vollstaendigkeit kann nicht garantiert werden — insbesondere bei Konzern-Konstruktionen mit Tochterfirmen ohne klare Namens-Bindung, bei Strohmann-Anmeldungen und bei Anmeldungen in nicht durchsuchten Klassen oder Sprachen. Einspruchsfristen sind durch die Patentanwaeltin in einer eigenstaendigen Pruefung der Veroeffentlichungsdaten zu verifizieren bevor die Frist als verbindlich eingetragen wird.
+> **Hinweis zur Überwachung.** Diese laufende Überwachung ist eine durch Claude unterstuetzte Vorrecherche. Vollständigkeit kann nicht garantiert werden — insbesondere bei Konzern-Konstruktionen mit Tochterfirmen ohne klare Namens-Bindung, bei Strohmann-Anmeldungen und bei Anmeldungen in nicht durchsuchten Klassen oder Sprachen. Einspruchsfristen sind durch die Patentanwältin in einer eigenständigen Prüfung der Veröffentlichungsdaten zu verifizieren bevor die Frist als verbindlich eingetragen wird.

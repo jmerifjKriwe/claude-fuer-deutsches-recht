@@ -7,26 +7,26 @@ description: "Kaltstart-Interview fuer die sozialrechtliche Kanzlei. Erfragt Sch
 
 ## Ablauf
 
-1. Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/sozialrecht-kanzlei/CLAUDE.md` pruefen.
-2. Falls vorhanden ohne Platzhalter: bestaetigen.
+1. Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/sozialrecht-kanzlei/CLAUDE.md` prüfen.
+2. Falls vorhanden ohne Platzhalter: bestätigen.
 3. Andernfalls Interview unten durchfuehren.
 4. Datei schreiben.
-5. Zusammenfassung anzeigen mit naechsten Skill-Empfehlungen.
+5. Zusammenfassung anzeigen mit nächsten Skill-Empfehlungen.
 
 ## Kaltstart-Interview
 
 ### 1. Rolle und Kanzlei
 
-- **Rolle:** Fachanwalt fuer Sozialrecht / Rechtsanwalt mit sozialrechtlichem Schwerpunkt / Syndikus eines Sozialverbands / Beratungsstelle?
+- **Rolle:** Fachanwalt für Sozialrecht / Rechtsanwalt mit sozialrechtlichem Schwerpunkt / Syndikus eines Sozialverbands / Beratungsstelle?
 - **Kanzleigroesse:** Einzelkanzlei / Sozietaet / mittelstaendisch / Verband
 - **Sekretariat:** ja / nein (entscheidet ob Sekretariats-Workflows aktiv)
 - **Mandantenklientel:** Privatpersonen / Verbaende / Eingliederungstraeger / gemischt
 
 ### 2. Schwerpunktbereiche
 
-- **SGB II** Buergergeld (Regelbedarfe Kosten der Unterkunft Sanktionen): ja / nein
+- **SGB II** Bürgergeld (Regelbedarfe Kosten der Unterkunft Sanktionen): ja / nein
 - **SGB III** Arbeitsfoerderung Arbeitslosengeld I: ja / nein
-- **SGB V** Krankenversicherung (Leistungsantraege Krankengeld): ja / nein
+- **SGB V** Krankenversicherung (Leistungsanträge Krankengeld): ja / nein
 - **SGB VI** Rente: ja / nein
 - **SGB VII** Unfallversicherung BG: ja / nein
 - **SGB VIII** Kinder- und Jugendhilfe (Hilfe zur Erziehung Schulbegleitung): ja / nein
@@ -35,7 +35,7 @@ description: "Kaltstart-Interview fuer die sozialrechtliche Kanzlei. Erfragt Sch
 - **SGB XII** Sozialhilfe (Grundsicherung im Alter Eingliederungshilfe): ja / nein
 - **AsylbLG** Asylbewerberleistungen: ja / nein
 
-### 3. Zustaendige Gerichte
+### 3. Zuständige Gerichte
 
 - **Hauptsozialgericht** mit Adresse und beA-/EGVP-Postfach
 - **LSG** des Bundeslandes
@@ -43,16 +43,16 @@ description: "Kaltstart-Interview fuer die sozialrechtliche Kanzlei. Erfragt Sch
 
 ### 4. Versandwege
 
-- **beA** vorhanden (Pflicht fuer RA seit 01.01.2022)
-- **EGVP** Behoerden- und Gerichtsversand
-- **Post** Restfaelle (Mandanten ohne digitalen Zugang)
+- **beA** vorhanden (Pflicht für RA seit 01.01.2022)
+- **EGVP** Behörden- und Gerichtsversand
+- **Post** Restfälle (Mandanten ohne digitalen Zugang)
 - **ePostfach** Mandanten-eAkte
 
 ### 5. Prozesskostenhilfe
 
 - **PKH-Quote** geschaetzt im Mandantenstamm
-- **Vorlagen** fuer PKH-Antrag und ZP1a vorhanden
-- **Belege** Standardliste fuer Einkommens- und Vermoegensnachweis
+- **Vorlagen** für PKH-Antrag und ZP1a vorhanden
+- **Belege** Standardliste für Einkommens- und Vermögensnachweis
 
 ### 6. Sekretariat und Aktenfuehrung
 
@@ -63,23 +63,23 @@ description: "Kaltstart-Interview fuer die sozialrechtliche Kanzlei. Erfragt Sch
 
 ### 7. Standort und Eskalation
 
-- **Bundesland** (entscheidet ueber LSG und LSG-Praxis)
-- **Eskalationspartner** bei verfahrensrechtlichen Sonderfaellen
+- **Bundesland** (entscheidet über LSG und LSG-Praxis)
+- **Eskalationspartner** bei verfahrensrechtlichen Sonderfällen
 
 ## Ausgabe
 
-Profil wird geschrieben. Naechste sinnvolle Skills:
+Profil wird geschrieben. Nächste sinnvolle Skills:
 
-- `/sozialrecht-kanzlei:mandanten-intake` — fuer neue Mandanten
+- `/sozialrecht-kanzlei:mandanten-intake` — für neue Mandanten
 - `/sozialrecht-kanzlei:bescheidanalyse` — wenn Bescheid auf dem Tisch liegt
 - `/sozialrecht-kanzlei:fristenbuch-sozialrecht` — Fristen-Check
 
 ## Rechtlicher Rahmen
 
 - **SGG** Sozialgerichtsgesetz: § 78 Vorverfahren / § 84 Widerspruchsfrist / § 87 Klagefrist / § 86b Eilrechtsschutz
-- **SGB X** Sozialverwaltungsverfahren: §§ 41 ff. Heilung / § 25 Akteneinsicht / § 44 Ueberpruefung
+- **SGB X** Sozialverwaltungsverfahren: §§ 41 ff. Heilung / § 25 Akteneinsicht / § 44 Ueberprüfung
 - **BRAO** § 31a beA-Pflicht
-- **RVG** + RVG-VV fuer Sozialrechtsverfahren (Sondergebuehren) und PKH
+- **RVG** + RVG-VV für Sozialrechtsverfahren (Sondergebuehren) und PKH
 
 ## Hinweise
 

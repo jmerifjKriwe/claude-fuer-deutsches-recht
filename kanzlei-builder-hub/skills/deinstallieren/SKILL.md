@@ -102,12 +102,12 @@ Aufbewahrungshinweis: [siehe oben, falls Konfiguration vorhanden]
 
 ## Beispiel
 
-**Nutzer:** „Deinstalliere den Skill `miet-kuendigung-analyse`."
+**Nutzer:** „Deinstalliere den Skill `miet-kündigung-analyse`."
 
 **Deinstallations-Skill:**
-1. `installations-protokoll.yaml` gelesen — `miet-kuendigung-analyse` als Community-Skill gefunden, letzter Status `install`.
-2. Installationspfad: `~/.claude/skills/miet-kuendigung-analyse/` (9 Dateien).
-3. Anzeige der 9 Dateien; Konfigurationspfad `~/.claude/plugins/config/kanzlei-builder-hub/miet-kuendigung/` wird beibehalten.
+1. `installations-protokoll.yaml` gelesen — `miet-kündigung-analyse` als Community-Skill gefunden, letzter Status `install`.
+2. Installationspfad: `~/.claude/skills/miet-kündigung-analyse/` (9 Dateien).
+3. Anzeige der 9 Dateien; Konfigurationspfad `~/.claude/plugins/config/kanzlei-builder-hub/miet-kündigung/` wird beibehalten.
 4. „Diese Dateien löschen? (ja / nein)" — Nutzer tippt `ja`.
 5. 9 Dateien gelöscht; Protokolleintrag mit `action: uninstall`, Zeitstempel und optionaler Begründung.
 6. Aufbewahrungshinweis für Konfigurationsdaten ausgegeben.

@@ -5,21 +5,21 @@ description: Strukturierte Datenerhebung fuer die Einordnung in den Mietspiegel 
 
 # Lage und Ausstattung erheben
 
-Dieser Skill leitet eine vollstaendige Datenerhebung an. Ergebnis ist ein strukturiertes Protokoll, das in jeden anderen Skill dieses Plugins einfliesst.
+Dieser Skill leitet eine vollständige Datenerhebung an. Ergebnis ist ein strukturiertes Protokoll, das in jeden anderen Skill dieses Plugins einfliesst.
 
 ## Disclaimer
 
-Diese Erhebung ersetzt keine Rechtsberatung. Sie ist ein Vorbereitungsschritt fuer eine spaetere rechtliche Pruefung. Bei strittigen Punkten amtliche Quellen heranziehen oder Rechtsrat einholen.
+Diese Erhebung ersetzt keine Rechtsberatung. Sie ist ein Vorbereitungsschritt für eine spätere rechtliche Prüfung. Bei strittigen Punkten amtliche Quellen heranziehen oder Rechtsrat einholen.
 
 ## Workflow
 
 ### 1. Adresse und Lage
 
-- Vollstaendige Adresse (Strasse, Hausnummer, PLZ, Ort).
+- Vollständige Adresse (Strasse, Hausnummer, PLZ, Ort).
 - Stadt-/Stadtteil/Quartier.
-- Wohnlagen-Zuordnung nach dem amtlichen Strassenverzeichnis oder Geoportal der Stadt (einfach / mittel / gut). Wenn unklar: Link auf das amtliche Verzeichnis aus references/mietspiegel-quellen.md.
+- Wohnlagen-Zuordnung nach dem amtlichen Straßenverzeichnis oder Geoportal der Stadt (einfach / mittel / gut). Wenn unklar: Link auf das amtliche Verzeichnis aus references/mietspiegel-quellen.md.
 
-### 2. Gebaeude
+### 2. Gebäude
 
 - Baujahr (laut Mietvertrag, Grundbuchauszug oder Bauakte).
 - Letzte umfassende Modernisierung (Jahr, Umfang).
@@ -30,13 +30,13 @@ Diese Erhebung ersetzt keine Rechtsberatung. Sie ist ein Vorbereitungsschritt fu
 
 ### 3. Wohnung
 
-- Wohnflaeche in m² nach Wohnflaechenverordnung (WoFlV).
+- Wohnfläche in m² nach Wohnflächenverordnung (WoFlV).
 - Anzahl Zimmer.
 - Stockwerk.
 - Bodenbelaege je Raum (Parkett, Laminat, Fliesen, Teppich).
 - Fenster (Doppel- oder Dreifachverglasung, Holz/Kunststoff).
 - Balkon / Loggia / Terrasse (Groesse, Ausrichtung).
-- Keller / Abstellraum ausserhalb der Wohnung.
+- Keller / Abstellraum außerhalb der Wohnung.
 
 ### 4. Bad
 
@@ -45,25 +45,25 @@ Diese Erhebung ersetzt keine Rechtsberatung. Sie ist ein Vorbereitungsschritt fu
 - Fenster im Bad.
 - Bodenheizung.
 
-### 5. Kueche
+### 5. Küche
 
-- Einbaukueche mitvermietet ja/nein.
-- Geraete (Herd, Backofen, Kuehlschrank, Geschirrspueler).
+- Einbauküche mitvermietet ja/nein.
+- Geräte (Herd, Backofen, Kuehlschrank, Geschirrspueler).
 
 ### 6. Heizung und Warmwasser
 
 - Heizungsart (Gas, Fernwaerme, Oel, Waermepumpe).
 - Zentral oder Etagenheizung.
-- Warmwasserbereitung (zentral, dezentral, ueber Heizung).
+- Warmwasserbereitung (zentral, dezentral, über Heizung).
 
 ### 7. Mietvertrag
 
 - Vertragsdatum.
 - Aktuelle Nettokaltmiete und Vorauszahlungen.
 - Indexmiete, Staffelmiete oder Festmiete.
-- Schoenheitsreparaturklausel (im Original-Wortlaut zitieren).
-- Schluesselgeld, Kaution.
+- Schönheitsreparaturklausel (im Original-Wortlaut zitieren).
+- Schlüsselgeld, Kaution.
 
 ## Ausgabe
 
-Protokoll als Markdown mit den oben genannten Abschnitten plus Quellenangabe (woher stammt jede Information: Mietvertrag, Augenschein, Energieausweis, Strassenverzeichnis). Dieses Protokoll ist Input fuer alle weiteren Skills.
+Protokoll als Markdown mit den oben genannten Abschnitten plus Quellenangabe (woher stammt jede Information: Mietvertrag, Augenschein, Energieausweis, Straßenverzeichnis). Dieses Protokoll ist Input für alle weiteren Skills.

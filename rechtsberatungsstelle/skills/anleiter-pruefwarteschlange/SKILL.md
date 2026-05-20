@@ -19,7 +19,7 @@ Ob eine formelle Prüf-Ablauf sinnvoll ist, hängt vom Erfahrungsstand der Studi
 
 - **Keine** bei Standardaufruf (zeigt, was wartet)
 - **`--freigeben [id]`** — Eintrag freigeben
-- **`--zurueck [id] "Hinweis"`** — Eintrag mit Kommentar zurückschicken
+- **`--zurück [id] "Hinweis"`** — Eintrag mit Kommentar zurückschicken
 - **`--bearbeiten [id]`** — Eintrag inline bearbeiten, dann freigeben
 
 ## Rechtlicher Rahmen
@@ -70,7 +70,7 @@ Liegt in `references/pruef-warteschlange.yaml`. Jeder Eintrag:
     - regel: "Gerichtliche Einreichung"
       detail: "Klageschrift AG — immer in Warteschlange"
   inhaltspfad: "[Pfad zum Dokument]"
-  status: "ausstehend"  # ausstehend | freigegeben | bearbeitet-freigegeben | zurueckgeschickt
+  status: "ausstehend"  # ausstehend | freigegeben | bearbeitet-freigegeben | zurückgeschickt
 ```
 
 ### Was wartet (Standard-Anzeige)

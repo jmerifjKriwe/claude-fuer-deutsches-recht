@@ -13,19 +13,19 @@ M&A-DD bei einem Vertragsstapel der Zielgesellschaft. Die Standardfragen sind be
 
 1. **Vertragsart** — Rahmenvertrag / Einzelvertrag / NDA / Lizenz / Lieferung / Werk
 2. **Laufzeit und Beginn** — Vertragsdatum + Festlaufzeit / unbefristet
-3. **Kuendigungsfrist** — ordentliche / ausserordentliche / Sondertatbestaende
+3. **Kündigungsfrist** — ordentliche / ausserordentliche / Sondertatbestaende
 4. **Change-of-Control** — Klausel vorhanden / Schwelle / Rechtsfolge (BGH KZR 2/07)
 5. **MAC-Klausel** — Wesentlichkeitsdefinition / Rechtsfolge (BGB Paragraph 313 / 314)
-6. **Abtretungsverbot** — BGB Paragraph 399 / HGB Paragraph 354a / Vertragsuebernahme
+6. **Abtretungsverbot** — BGB Paragraph 399 / HGB Paragraph 354a / Vertragsübernahme
 7. **Haftungsbegrenzung** — pro Fall / pro Jahr / Ausschluss Vorsatz und grobe Fahrlaessigkeit
-8. **Garantien** — beschaffenheitsbezogen / verschuldensunabhaengig / Haftungsausschluss BGB Paragraph 444
-9. **Vertragsstrafe** — Hoehe / Deckelung / Verschuldensanknuepfung
-10. **Service-Level** — Reaktionszeit / Verfuegbarkeit / Wiederherstellungszeit
+8. **Garantien** — beschaffenheitsbezogen / verschuldensunabhängig / Haftungsausschluss BGB Paragraph 444
+9. **Vertragsstrafe** — Höhe / Deckelung / Verschuldensanknuepfung
+10. **Service-Level** — Reaktionszeit / Verfügbarkeit / Wiederherstellungszeit
 11. **Datenschutz-AVV** — DSGVO Artikel 28 / Drittlandtransfer / SCC / TIA
-12. **Geheimhaltung** — Dauer / Carve-Outs / Rueckgabe / Sanktionen
-13. **Verguetung** — Festpreis / Stundensatz / Erfolg / Schwellen
-14. **Preisanpassung** — Indexbindung / Schwellen / Kuendigungsrecht der Gegenseite
-15. **Schriftform** — Aenderungsvorbehalt / Sprengsatz (BGB Paragraph 125 Satz 2)
+12. **Geheimhaltung** — Dauer / Carve-Outs / Rückgabe / Sanktionen
+13. **Vergütung** — Festpreis / Stundensatz / Erfolg / Schwellen
+14. **Preisanpassung** — Indexbindung / Schwellen / Kündigungsrecht der Gegenseite
+15. **Schriftform** — Änderungsvorbehalt / Sprengsatz (BGB Paragraph 125 Satz 2)
 16. **Gerichtsstand** — vereinbarter Gerichtsstand / Kaufmannsklausel (ZPO Paragraph 38)
 17. **Schiedsklausel** — Schiedsgericht / Sitz / Sprache / Verfahrensordnung
 18. **Anwendbares Recht** — Rechtswahl / kollisionsrechtliche Wirkungen
@@ -34,35 +34,35 @@ M&A-DD bei einem Vertragsstapel der Zielgesellschaft. Die Standardfragen sind be
 
 ### Recht (Anwaltsperspektive)
 
-- Zusatzspalten: AGB-Wirksamkeit (BGB Paragraph 305 ff.) / Klauselverbote (BGB Paragraph 308 / Paragraph 309) / Verjaehrungsverkuerzung
-- Pruefer: M&A-Lead-Counsel
-- Materialitaet rot: unwirksame Klausel mit Hauptleistungsbezug
+- Zusatzspalten: AGB-Wirksamkeit (BGB Paragraph 305 ff.) / Klauselverbote (BGB Paragraph 308 / Paragraph 309) / Verjährungsverkürzung
+- Prüfer: M&A-Lead-Counsel
+- Materialität rot: unwirksame Klausel mit Hauptleistungsbezug
 
 ### Steuer (Steuerberater)
 
-- Zusatzspalten: Umsatzsteuer-Behandlung / Reverse-Charge / verdeckte Gewinnausschuettung bei Konzernvertraegen (KStG)
-- Pruefer: Steuerberater
-- Materialitaet rot: USt-Risiko mehr als 100k EUR
+- Zusatzspalten: Umsatzsteuer-Behandlung / Reverse-Charge / verdeckte Gewinnausschuettung bei Konzernverträgen (KStG)
+- Prüfer: Steuerberater
+- Materialität rot: USt-Risiko mehr als 100k EUR
 
 ### Wirtschaft (Buyside)
 
-- Zusatzspalten: Vertragsvolumen pro Jahr / Top-Kunde-Konzentration / Working-Capital-Effekt / Verlaengerungsoption
-- Pruefer: Deal-Lead
-- Materialitaet rot: Vertrag > 10 Prozent Umsatz UND Kuendigungsrecht der Gegenseite < 12 Monate
+- Zusatzspalten: Vertragsvolumen pro Jahr / Top-Kunde-Konzentration / Working-Capital-Effekt / Verlängerungsoption
+- Prüfer: Deal-Lead
+- Materialität rot: Vertrag > 10 Prozent Umsatz UND Kündigungsrecht der Gegenseite < 12 Monate
 
 ### Datenschutz (DSGVO)
 
 - Zusatzspalten: Datenkategorien / Rechtsgrundlage Artikel 6 / Drittlandtransfer / Auftragsverarbeitung / Joint-Controller
-- Pruefer: Datenschutzbeauftragter
-- Materialitaet rot: Auftragsverarbeitung ohne AVV oder Drittlandtransfer ohne SCC
+- Prüfer: Datenschutzbeauftragter
+- Materialität rot: Auftragsverarbeitung ohne AVV oder Drittlandtransfer ohne SCC
 
-## BGH-Leitsaetze (Auswahl)
+## BGH-Leitsätze (Auswahl)
 
-- BGH KZR 2/07 — Kuendigung bei mittelbarem Kontrollwechsel
-- BGH V ZR 30/08 — Due-Diligence-Pflicht des Kaeufers / Kenntnis von Maengeln
-- BGH I ZR 193/15 — Vertragsuebernahme ohne Schuldnerzustimmung
+- BGH KZR 2/07 — Kündigung bei mittelbarem Kontrollwechsel
+- BGH V ZR 30/08 — Due-Diligence-Pflicht des Käufers / Kenntnis von Mängeln
+- BGH I ZR 193/15 — Vertragsübernahme ohne Schuldnerzustimmung
 - BGH IX ZR 31/91 — Abtretungsausschluss
 
 ## Ausgabe
 
-Wuerfel-Schema fix und fertig in `wuerfel-schema.yaml` mit allen drei Achsen. Direkt einsatzbereit fuer `review-durchfuehren`.
+Würfel-Schema fix und fertig in `würfel-schema.yaml` mit allen drei Achsen. Direkt einsatzbereit für `review-durchfuehren`.

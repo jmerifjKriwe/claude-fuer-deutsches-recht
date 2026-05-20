@@ -3,18 +3,18 @@ name: fachanwalt-orientierung
 description: Orientierung im Vergaberecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. EU-Schwellenwertabhaengiges Vergaberecht GWB §§ 97 ff. VgV (Vergabeverordnung) SektVO (Sektorenverordnung) KonzVgV. Unterschwellenrecht UVgO VOB-A. Nachpruefungsverfahren Vergabekammer § 160 ff. GWB OLG-Vergabesenat Beschwerde § 171 GWB. Schnittstelle Plugin fachanwalt-bau-architektenrecht.
 ---
 
-# Fachanwalt fuer Vergaberecht — Orientierung
+# Fachanwalt für Vergaberecht — Orientierung
 
 ## FAO-Voraussetzungen
 
 - Lehrgang 120 Stunden + drei Klausuren.
-- 40 Faelle in den letzten drei Jahren, davon mindestens 20 streitige.
+- 40 Fälle in den letzten drei Jahren, davon mindestens 20 streitige.
 
 ## Wichtige Normen
 
 | Bereich | Norm |
 |---|---|
-| Vergaberecht Oberschwellig | GWB §§ 97 ff. (Vergaberecht) §§ 155 ff. (Nachpruefung) |
+| Vergaberecht Oberschwellig | GWB §§ 97 ff. (Vergaberecht) §§ 155 ff. (Nachprüfung) |
 | Vergabeverordnung | VgV (Liefer- und Dienstleistungen) |
 | Sektoren | SektVO |
 | Konzessionen | KonzVgV |
@@ -28,19 +28,19 @@ description: Orientierung im Vergaberecht — FAO Voraussetzungen Normen typisch
 
 - Vertretung Bieter im Vergabeverfahren
 - Ruege bei der Vergabestelle (§ 160 Abs. 3 GWB)
-- Nachpruefungsantrag bei der Vergabekammer
+- Nachprüfungsantrag bei der Vergabekammer
 - Beschwerde gegen Entscheidung der Vergabekammer beim OLG-Vergabesenat
 - Vertretung Auftraggeber (Vergabestelle) bei Streitigkeiten
-- Korruption und Compliance bei oeffentlichen Auftraegen
+- Korruption und Compliance bei öffentlichen Aufträgen
 - Schadensersatz nach § 181 GWB bei vergaberechtswidriger Vergabe
 
 ## Fristen
 
 - **Ruegefrist** § 160 Abs. 3 GWB:
-  - **erkannte Verstoesse** unverzueglich nach Kenntnis (in der Praxis bis zu zehn Kalendertage).
-  - **erkennbare Verstoesse** vor Ablauf der Angebotsfrist.
-  - **in der Bekanntmachung erkennbare Verstoesse** bis zum Ablauf der Angebotsfrist.
-- **Nachpruefungsantrag** § 160 GWB binnen 15 Kalendertagen nach Mitteilung der Vergabestelle dass der Ruege nicht abgeholfen wird.
+  - **erkannte Verstöße** unverzueglich nach Kenntnis (in der Praxis bis zu zehn Kalendertage).
+  - **erkennbare Verstöße** vor Ablauf der Angebotsfrist.
+  - **in der Bekanntmachung erkennbare Verstöße** bis zum Ablauf der Angebotsfrist.
+- **Nachprüfungsantrag** § 160 GWB binnen 15 Kalendertagen nach Mitteilung der Vergabestelle dass der Ruege nicht abgeholfen wird.
 - **Beschwerde** § 171 GWB binnen zwei Wochen nach Zustellung der Vergabekammer-Entscheidung.
 - **Stillhaltefrist § 134 GWB** zehn Kalendertage (15 bei nicht-elektronischer Information) zwischen Vorinformation und Zuschlag.
 
@@ -65,7 +65,7 @@ description: Orientierung im Vergaberecht — FAO Voraussetzungen Normen typisch
 
 ## Schnittstellen
 
-- **fachanwalt-bau-architektenrecht** bei Bauauftraegen.
+- **fachanwalt-bau-architektenrecht** bei Bauaufträgen.
 - **regulatorisches-recht** bei Beihilferecht.
 - **gesellschaftsrecht** bei Bieterkonsortien.
 - **kanzlei-cowork** Notfristen Versand.

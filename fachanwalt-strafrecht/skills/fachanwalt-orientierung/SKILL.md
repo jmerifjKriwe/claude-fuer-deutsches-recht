@@ -3,13 +3,13 @@ name: fachanwalt-orientierung
 description: Orientierung im Strafrecht — FAO-Voraussetzungen Normen typische Mandate Notfristen Standardliteratur. Light-Touch-Plugin fuer schnelle Verortung. Strafverteidigung im Ermittlungsverfahren (Akteneinsicht § 147 StPO) Hauptverhandlung (§§ 213 ff. StPO) Berufung (§ 314 StPO) Revision (§ 341 StPO) Verfassungsbeschwerde. Aktenaufbereitung im Plugin aktenaufbereiter-strafrecht.
 ---
 
-# Fachanwalt fuer Strafrecht — Orientierung
+# Fachanwalt für Strafrecht — Orientierung
 
 ## FAO-Voraussetzungen
 
 - **Theoretischer Lehrgang** 120 Stunden.
 - **Drei Klausuren** zum Strafrecht.
-- **60 Faelle** in den letzten drei Jahren, davon mindestens 40 Hauptverhandlungen mit eigener Beteiligung.
+- **60 Fälle** in den letzten drei Jahren, davon mindestens 40 Hauptverhandlungen mit eigener Beteiligung.
 - Anmeldung bei der Rechtsanwaltskammer.
 
 ## Wichtige Normen
@@ -28,8 +28,8 @@ description: Orientierung im Strafrecht — FAO-Voraussetzungen Normen typische 
 ## Typische Mandate
 
 - Ermittlungsverfahren Erstvernehmung
-- Untersuchungshaft (§§ 112 ff. StPO Haftpruefungsantrag § 117 StPO Haftbeschwerde § 304 StPO)
-- Hauptverhandlung Strafrichter Schoeffengericht Schwurgericht
+- Untersuchungshaft (§§ 112 ff. StPO Haftprüfungsantrag § 117 StPO Haftbeschwerde § 304 StPO)
+- Hauptverhandlung Strafrichter Schöffengericht Schwurgericht
 - Verteidigung in Wirtschaftsstrafsachen (Wirtschaftsstrafkammer Landgericht)
 - Berufung Revision Verfassungsbeschwerde
 - Strafvollstreckung Bewaehrung Reststrafenaussetzung
@@ -38,14 +38,14 @@ description: Orientierung im Strafrecht — FAO-Voraussetzungen Normen typische 
 
 - **Berufung** § 314 StPO — **eine Woche** Notfrist.
 - **Revision** § 341 StPO — **eine Woche** Notfrist.
-- **Revisionsbegruendung** § 345 StPO — **ein Monat**.
+- **Revisionsbegründung** § 345 StPO — **ein Monat**.
 - **Beschwerde** § 311 StPO — **eine Woche**.
 - **Verfassungsbeschwerde** § 93 BVerfGG — **ein Monat**.
 - **Wiedereinsetzung** § 44 StPO — eine Woche.
 
 ## Hauptgerichte
 
-- **Amtsgericht** Strafrichter (bis ein Jahr) Schoeffengericht (bis vier Jahre).
+- **Amtsgericht** Strafrichter (bis ein Jahr) Schöffengericht (bis vier Jahre).
 - **Landgericht** Grosse Strafkammer Wirtschaftsstrafkammer Schwurgericht.
 - **OLG** Berufungs- und Revisionsinstanz; Anklage erstinstanzlich bei Staatsschutzdelikten.
 - **BGH 1.–5. Strafsenat** Revisionsinstanz.
@@ -54,7 +54,7 @@ description: Orientierung im Strafrecht — FAO-Voraussetzungen Normen typische 
 
 - Fischer, StGB Kommentar.
 - Meyer-Goßner/Schmitt, StPO Kommentar.
-- Schoenke/Schroeder, StGB.
+- Schönke/Schröder, StGB.
 - LK StGB (Leipziger Kommentar).
 - KK StPO (Karlsruher Kommentar).
 - MueKoStPO.
@@ -67,8 +67,8 @@ description: Orientierung im Strafrecht — FAO-Voraussetzungen Normen typische 
 
 ## Schnittstellen
 
-- **aktenaufbereiter-strafrecht** fuer Aktenaufbereitung.
-- **kanzlei-cowork** fuer Fristenbuch und Versand.
+- **aktenaufbereiter-strafrecht** für Aktenaufbereitung.
+- **kanzlei-cowork** für Fristenbuch und Versand.
 
 ## Hinweis
 

@@ -9,26 +9,26 @@ description: "Verlegerischer Redaktionsassistent fuer juristische Verlage und Au
 
 Ein Autor liefert selten ein fertiges Manuskript ab. Er liefert
 Material — Audiotranskripte aus Diktaten Konzeptpapiere
-PowerPoint-Folien Screenshots Videoausschnitte aus Vortraegen
+PowerPoint-Folien Screenshots Videoausschnitte aus Vorträgen
 handschriftliche Notizen Email-Wechsel mit Co-Autoren. Aus diesem
 Material entsteht im traditionellen Verlagshaus durch redaktionelle
 Anschubhilfe ein Rohmanuskript mit dem der Autor weiterarbeiten
 kann. Der Skill leistet genau diese Anschubhilfe und ist zugleich
-ein Editionssystem fuer die naechsten Ueberarbeitungsrunden.
+ein Editionssystem für die nächsten Ueberarbeitungsrunden.
 
 Eigenleistung des Autors und redaktionelle Anschubhilfe werden
 transparent getrennt — der Autor sieht jederzeit was aus seinem
-Material kommt und was die Redaktion ergaenzt hat.
+Material kommt und was die Redaktion ergänzt hat.
 
 ## Inputs
 
 - Audiotranskripte aus Diktat oder Interview
 - Konzeptpapiere und Exposes
 - PowerPoint-Folien als .pptx oder als exportiertes PDF
-- Screenshots aus Vortraegen oder Whiteboards
+- Screenshots aus Vorträgen oder Whiteboards
 - Videoausschnitte mit Transkript oder Untertiteln
 - Handschriftliche Notizen mit OCR
-- Eigene aeltere Texte des Autors zur Stilreferenz
+- Eigene ältere Texte des Autors zur Stilreferenz
 - Beigefuegte Rechtsprechung und Kommentarliteratur
 - Optional: Redaktions-Leitlinien des Verlags (Hauszitierweise
   Spaltenbreite Fussnotenstil Umfangsvorgabe)
@@ -51,8 +51,8 @@ Schritte:
    eckigen Klammern (`[Transkript v. 12.03. min 14:22]`,
    `[PPT Folie 7]`, `[Konzeptpapier S. 3]`)
 5. Rohtext schreiben — verdichtet nicht ueberinterpretierend
-6. Lueckenmarkierung — wo das Material fuer eine Stelle nicht
-   reicht steht `[LUECKE: Autor bitte ergaenzen]` mit Hinweis was
+6. Lückenmarkierung — wo das Material für eine Stelle nicht
+   reicht steht `[LUECKE: Autor bitte ergänzen]` mit Hinweis was
    inhaltlich fehlt
 7. Zitate setzen — Hauszitierweise Pinpoint juengere zuerst
 8. Anhang Quellenverzeichnis aus dem Material und der zitierten
@@ -64,27 +64,27 @@ plain-text-Version.
 
 ### Modus B — Edition
 
-Der Skill ueberarbeitet eine vorhandene Fassung gemaess Auftrag des
+Der Skill ueberarbeitet eine vorhandene Fassung gemäß Auftrag des
 Autors oder Lektors:
 
-- Umgliedern — neue Gliederungsstruktur mit Begruendung
+- Umgliedern — neue Gliederungsstruktur mit Begründung
 - Verdichten — Redundanzen entfernen Argumente straffen
 - Vertiefen — schwach belegte Stellen mit weiterer Literatur und
   Rechtsprechung anreichern (mit Pinpoint-Zitat)
-- Widerspruchspruefung — interne Widersprueche und Bruechen
+- Widerspruchsprüfung — interne Widersprueche und Bruechen
   zwischen Abschnitten markieren
 - Sprachglaettung — Stil an Verlags-Leitlinien anpassen
-- Quellenpruefung — vorhandene Zitate auf Hauszitierweise
-  pruefen Pinpoint-Randnummer ergaenzen falls fehlt
+- Quellenprüfung — vorhandene Zitate auf Hauszitierweise
+  prüfen Pinpoint-Randnummer ergänzen falls fehlt
 
-Pro Aenderung wird im Aenderungsmodus von Word (Tracked Changes)
-gearbeitet falls .docx; bei .md werden Aenderungen mit
-Diff-Markierung dokumentiert. Zusaetzlich entsteht ein
-`Edition_Bericht.md` mit Begruendung der vorgenommenen Eingriffe.
+Pro Änderung wird im Änderungsmodus von Word (Tracked Changes)
+gearbeitet falls .docx; bei .md werden Änderungen mit
+Diff-Markierung dokumentiert. Zusätzlich entsteht ein
+`Edition_Bericht.md` mit Begründung der vorgenommenen Eingriffe.
 
 ## Hauszitierweise
 
-Verbindlich fuer beide Modi. Identisch zu den anderen Klotzkette-
+Verbindlich für beide Modi. Identisch zu den anderen Klotzkette-
 Plugins.
 
 ### Rechtsprechung
@@ -97,14 +97,14 @@ Beispiele:
   Rn. 24
 - BGH Beschluss vom 8. April 2024 — XII ZB 232/23 NJW-RR 2024
   S. 567 Rn. 11
-- OLG Nuernberg Beschluss vom 30. November 2023 — 15 Wx 988/23
+- OLG Nürnberg Beschluss vom 30. November 2023 — 15 Wx 988/23
   NJW-RR 2023 S. 1307
 
 Reihenfolge juengere zuerst. Bei mehreren Belegen Punkt-Trennung.
 
 ### Kommentarliteratur
 
-Vorrangig Grueneberg und Muenchener Kommentar. Format: Bearbeiter
+Vorrangig Grueneberg und Münchener Kommentar. Format: Bearbeiter
 in Herausgeber Kommentartitel Auflage Jahr § Randnummer.
 
 Beispiele:
@@ -112,7 +112,7 @@ Beispiele:
 - Schaefer in MuenchKomm BGB 9. Auflage 2023 § 823 Rn. 412
 - Pohlmann in Wieczorek/Schuetze ZPO 5. Auflage 2024 § 91 Rn. 7
 
-### Aufsaetze
+### Aufsätze
 
 Format: Autor Titel Zeitschrift Jahr Anfangsseite konkrete Seite.
 
@@ -121,7 +121,7 @@ S. 1234 konkret S. 1237.
 
 ### Woertliche Zitate
 
-In Anfuehrungszeichen mit exakter Fundstelle inklusive Randnummer
+In Anführungszeichen mit exakter Fundstelle inklusive Randnummer
 oder Seitenzahl. Auslassungen mit `[...]`. Eigene Hervorhebung mit
 Hinweis `[Hervorhebung der Verfasserin]` oder `[Hervorh. d. Verf.]`.
 
@@ -144,15 +144,15 @@ die anzeigt:
 - `[A]` Autor — wortgetreu oder eng paraphrasiert aus dem Material
 - `[R]` Redaktion — verbindender Text Ueberleitung Strukturhilfe
 - `[Z]` Zitat — extern beigefuegte Rechtsprechung oder Literatur
-- `[L]` Luecke — vom Autor zu ergaenzen
+- `[L]` Lücke — vom Autor zu ergänzen
 
-Der Autor entscheidet was er uebernimmt. Die Trennung verhindert
+Der Autor entscheidet was er übernimmt. Die Trennung verhindert
 dass Redaktionseingriffe stillschweigend zur Autoraussage werden.
 
 ## Typische Aufgaben
 
-- Aufsatz fuer NJW oder ZIP aus Vortragsmanuskript und PPT
-- Buchkapitel fuer Handbuch aus mehreren Diktaten
+- Aufsatz für NJW oder ZIP aus Vortragsmanuskript und PPT
+- Buchkapitel für Handbuch aus mehreren Diktaten
 - Kommentierung eines neuen Paragraphen aus Materialsammlung
 - Festschriftbeitrag aus Notizen und Email-Wechsel
 - Podcast-Verschriftlichung mit juristischer Veredelung
@@ -162,34 +162,34 @@ dass Redaktionseingriffe stillschweigend zur Autoraussage werden.
 
 Modus A:
 - "Hier ist mein Diktat zum Thema Schriftform Gewerbemiete plus
-  PPT vom Vortrag. Mach mir bitte ein Rohmanuskript fuer einen
+  PPT vom Vortrag. Mach mir bitte ein Rohmanuskript für einen
   NJW-Aufsatz von ca. 12 Seiten."
 - "Ich habe drei Konzeptpapiere und vier Screenshots aus
-  Whiteboards. Erstes Rohmanuskript fuer das Buchkapitel
+  Whiteboards. Erstes Rohmanuskript für das Buchkapitel
   Insolvenzanfechtung."
 
 Modus B:
 - "Hier ist die Fassung von letzter Woche. Bitte umgliedern —
   Rechtsprechungs-Teil nach vorne, Methodik-Teil ans Ende.
-  Begruendung im Bericht."
-- "Pruefe alle Zitate auf Hauszitierweise und ergaenze
+  Begründung im Bericht."
+- "Prüfe alle Zitate auf Hauszitierweise und ergänze
   Randnummern wo sie fehlen."
 - "Verdichten auf 80 Prozent des aktuellen Umfangs. Inhalt darf
   nicht verloren gehen."
-- "Widerspruchspruefung — was widerspricht sich zwischen
+- "Widerspruchsprüfung — was widerspricht sich zwischen
   Abschnitt III und V?"
 - "Vertiefe Abschnitt IV mit aktueller BGH-Rechtsprechung zur
   Indexierung. Pinpoint-Zitat juengere zuerst."
 
 ## Urheber- und Verlagsrecht
 
-Verlagsmaterialien koennen urheberrechtlich geschuetzt sein.
-Wortgetreue Uebernahmen aus dem Material des Autors sind durch
+Verlagsmaterialien können urheberrechtlich geschuetzt sein.
+Wortgetreue Übernahmen aus dem Material des Autors sind durch
 den Mandatsvertrag zwischen Autor und Verlag gedeckt. Wortgetreue
-Uebernahmen aus fremder Kommentarliteratur und Rechtsprechung
+Übernahmen aus fremder Kommentarliteratur und Rechtsprechung
 folgen § 51 UrhG (Zitatrecht) — Kennzeichnung und Quellenangabe
 zwingend. Gesetzestexte und Gerichtsentscheidungen geniessen
-gemaess § 5 UrhG keinen urheberrechtlichen Schutz und sind frei
+gemäß § 5 UrhG keinen urheberrechtlichen Schutz und sind frei
 verwendbar.
 
 ## Ausgabe-Dateien
@@ -198,26 +198,26 @@ Modus A:
 - `Rohmanuskript_<Titel>_<Datum>.docx` — Verlagsformat
 - `Rohmanuskript_<Titel>_<Datum>.md` — plain
 - `Materialinventar.md` — was war eingangsseitig dabei
-- `Quellenverzeichnis.md` — Rechtsprechung Kommentare Aufsaetze
+- `Quellenverzeichnis.md` — Rechtsprechung Kommentare Aufsätze
 
 Modus B:
 - `<Titel>_redigiert.docx` — Tracked Changes
-- `Edition_Bericht.md` — Begruendung der Eingriffe
-- `Pruefliste_Zitate.md` — Soll-Ist-Vergleich Hauszitierweise
+- `Edition_Bericht.md` — Begründung der Eingriffe
+- `Prüfliste_Zitate.md` — Soll-Ist-Vergleich Hauszitierweise
 
 ## Berufsrecht und Geheimhaltung
 
-Manuskripte koennen Mandatsbezuege enthalten. Anwaltsgeheimnis
+Manuskripte können Mandatsbezüge enthalten. Anwaltsgeheimnis
 nach § 203 StGB und §§ 43a 43e BRAO sowie DSGVO sind zwingend
 zu beachten. Nur KI-Systeme mit entsprechender vertraglicher
-Zusicherung und tatsaechlicher Gewaehrleistung sind zulaessig.
+Zusicherung und tatsächlicher Gewährleistung sind zulässig.
 
 ## Pragmatismus
 
 Der Skill ersetzt nicht den Autor. Er ersetzt auch nicht die
 Schluss-Redaktion durch einen erfahrenen Lektor. Er erspart aber
 die zaehe Phase zwischen Materialhaufen und erstem zusammenhaengenden
-Text — die Phase in der Autoren erfahrungsgemaess steckenbleiben.
+Text — die Phase in der Autoren erfahrungsgemäß steckenbleiben.
 Aus Materialhaufen wird Rohmanuskript. Aus Rohmanuskript wird
-Manuskript. Aus Manuskript wird Veroeffentlichung. Der Skill
+Manuskript. Aus Manuskript wird Veröffentlichung. Der Skill
 hilft beim ersten Schritt und begleitet den zweiten.

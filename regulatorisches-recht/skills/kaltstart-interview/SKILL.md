@@ -131,7 +131,7 @@ Abschließend melden:
 Einrichtung abgeschlossen. Folgende Skills stehen jetzt zur Verfügung:
 - /regulatorisches-recht:aufsichts-feed-monitor – Feeds jetzt prüfen
 - /regulatorisches-recht:richtlinien-vergleich – Diff gegen Ihre Richtlinienbibliothek
-- /regulatorisches-recht:luecken – Offene Lücken anzeigen
+- /regulatorisches-recht:lücken – Offene Lücken anzeigen
 - /regulatorisches-recht:stellungnahmen – Konsultationsbeiträge verwalten
 - /regulatorisches-recht:richtlinien-neufassung – Richtlinienneufassung
 ```

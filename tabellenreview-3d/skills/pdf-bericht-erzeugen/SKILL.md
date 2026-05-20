@@ -7,36 +7,36 @@ description: "Erstellt einen pruefbaren PDF-Bericht aus dem 3D-Wuerfel. Struktur
 
 ## Zweck
 
-Mandanten lesen lieber PDF als Excel. Der PDF-Bericht ist die Erzaehlfassung des Wuerfels: vom Aggregat ueber die Perspektiven bis in die Belegkette.
+Mandanten lesen lieber PDF als Excel. Der PDF-Bericht ist die Erzählfassung des Würfels: vom Aggregat über die Perspektiven bis in die Belegkette.
 
 ## Struktur
 
 ### 1. Deckblatt
 
 - Projektname und kurzer Anlassbezug (z. B. 'M&A-DD Erwerb der X-GmbH zum Stichtag YYYY-MM-DD')
-- Mandant und anwaltlicher Pruefer
+- Mandant und anwaltlicher Prüfer
 - Anzahl Dokumente Anzahl Datenpunkte Anzahl Arbeitsblatt-Perspektiven
-- Wuerfel-Gesamtampel
-- Pruefer-Abnahme-Status
+- Würfel-Gesamtampel
+- Prüfer-Abnahme-Status
 
 ### 2. Management-Summary (Ein Blatt)
 
-- Wuerfel-Ampel mit Begruendung in drei Saetzen
+- Würfel-Ampel mit Begründung in drei Sätzen
 - Top-5-Hotspots (Datenpunkte mit ueberproportional vielen roten Zellen)
 - Top-5-rote-Zeilen (Dokumente die das groesste Risiko tragen)
-- Top-3-Widersprueche aus `kreuzblatt-konsistenzpruefung`
-- Anzahl Pruefer-Flags und Status der Abnahme
+- Top-3-Widersprueche aus `kreuzblatt-konsistenzprüfung`
+- Anzahl Prüfer-Flags und Status der Abnahme
 
 ### 3. Pro Arbeitsblatt-Perspektive (ein Abschnitt)
 
 - Perspektive (Recht / Steuer / Wirtschaft / Datenschutz / IT / Betrieb / Compliance)
-- Arbeitsblatt-Ampel mit Begruendung
+- Arbeitsblatt-Ampel mit Begründung
 - Top-Findings dieser Perspektive (max 10)
-- Hinweis auf zustaendigen Pruefer (Rechtsanwalt / Steuerberater / DSB usw.)
+- Hinweis auf zuständigen Prüfer (Rechtsanwalt / Steuerberater / DSB usw.)
 
-### 4. Vollstaendige Tabellen (Anhang A)
+### 4. Vollständige Tabellen (Anhang A)
 
-Pro Arbeitsblatt eine Tabelle mit allen Zeilen und Spalten. Ampelfarben als Hintergrund. Zell-Inhalt: Antwort plus Fundstelle plus Pruefer-Flag.
+Pro Arbeitsblatt eine Tabelle mit allen Zeilen und Spalten. Ampelfarben als Hintergrund. Zell-Inhalt: Antwort plus Fundstelle plus Prüfer-Flag.
 
 ### 5. Belegkette (Anhang B)
 
@@ -53,19 +53,19 @@ Alle zitierten Quellen mit:
 - Verwendete Modell-Version und Konfiguration
 - Reviewlauf-Zeitstempel und Laufdauer
 - Cache-Trefferquote
-- Pruefer-Abnahme-Historie
+- Prüfer-Abnahme-Historie
 
 ## Bedingte Formatierung
 
 - Rote Hintergrundfarbe bei roter Ampel
 - Gelbe Hintergrundfarbe bei gelber Ampel
 - Schwacher Gruener-Ton bei gruener Ampel (sonst zu unruhig)
-- Schraffur bei Pruefer-Flag
+- Schraffur bei Prüfer-Flag
 
 ## Sicherheit
 
-- PDF mit eingebetteten Schriften (kein nachtraegliches Ersetzen)
-- Optional: Schreibschutz und Signaturfeld fuer den Pruefer
+- PDF mit eingebetteten Schriften (kein nachträgliches Ersetzen)
+- Optional: Schreibschutz und Signaturfeld für den Prüfer
 - Optional: Wasserzeichen 'VERTRAULICH ARBEITSERGEBNIS' bei unsignierter Fassung
 
 ## Ausgabe
@@ -75,4 +75,4 @@ Alle zitierten Quellen mit:
 
 ## Grenzen
 
-Bei sehr grossen Wuerfeln (mehr als 50.000 Zellen) wird der PDF unhandlich. In diesem Fall: PDF nur fuer Management-Summary und Anhang A pro Arbeitsblatt als separate PDFs. Vollstaendige Daten weiter in Excel.
+Bei sehr grossen Würfeln (mehr als 50.000 Zellen) wird der PDF unhandlich. In diesem Fall: PDF nur für Management-Summary und Anhang A pro Arbeitsblatt als separate PDFs. Vollständige Daten weiter in Excel.

@@ -7,7 +7,7 @@ description: Strukturierte Auswertung eines sozialrechtlichen Bescheids — erfa
 
 ## Zweck
 
-Vor dem Widerspruch steht die Analyse. Dieser Skill liest einen Bescheid systematisch und extrahiert das, was der Anwalt fuer den naechsten Schritt braucht.
+Vor dem Widerspruch steht die Analyse. Dieser Skill liest einen Bescheid systematisch und extrahiert das, was der Anwalt für den nächsten Schritt braucht.
 
 ## Eingaben
 
@@ -15,30 +15,30 @@ Vor dem Widerspruch steht die Analyse. Dieser Skill liest einen Bescheid systema
 - Mandantenangaben aus `mandanten-intake`.
 - Optional: vorangegangene Bescheide derselben Sache.
 
-## Pruefraster
+## Prüfraster
 
-### Formale Pruefung
+### Formale Prüfung
 
-- **Behoerde** zustaendig (sachlich oertlich)?
+- **Behörde** zuständig (sachlich oertlich)?
 - **Adressat** korrekt bezeichnet (Vor- und Nachname; bei Bedarfsgemeinschaft alle Mitglieder)?
 - **Bescheiddatum** und **Zugangsdatum** klar (Zugang nach § 37 SGB X — Drei-Tages-Fiktion bei Post)?
 - **Tenor** eindeutig?
-- **Begruendung** nach § 35 SGB X mit wesentlichen tatsaechlichen und rechtlichen Gruenden vorhanden?
-- **Rechtsbehelfsbelehrung** vollstaendig (Behoerde Frist Form Adressat)?
-- **Anhoerung** nach § 24 SGB X erfolgt bei belastenden Bescheiden?
+- **Begründung** nach § 35 SGB X mit wesentlichen tatsächlichen und rechtlichen Gründen vorhanden?
+- **Rechtsbehelfsbelehrung** vollständig (Behörde Frist Form Adressat)?
+- **Anhörung** nach § 24 SGB X erfolgt bei belastenden Bescheiden?
 - **Unterschrift / Namenswiedergabe** vorhanden (§ 33 SGB X)?
 
-### Materielle Vorpruefung
+### Materielle Vorprüfung
 
 - **Anspruchsgrundlage** korrekt bezeichnet?
-- **Tatbestandsmerkmale** in der Begruendung vollstaendig abgehandelt?
+- **Tatbestandsmerkmale** in der Begründung vollständig abgehandelt?
 - **Ermessen** ausgeuebt wo erforderlich (§ 39 SGB I)?
 - **Mitwirkungsobliegenheiten** § 60 ff. SGB I — wurden sie korrekt eingefordert?
 - **Bestandskraft** vorheriger Bescheide?
 
 ### Besondere Bescheidarten
 
-- **Aufhebung und Erstattung** §§ 45 / 48 / 50 SGB X — Pruefung von Vertrauensschutz Atypik Ermessen.
+- **Aufhebung und Erstattung** §§ 45 / 48 / 50 SGB X — Prüfung von Vertrauensschutz Atypik Ermessen.
 - **Sanktion / Leistungsminderung** § 31 SGB II / § 32 SGB II — Schwere Wiederholung Mitverschulden.
 - **Aufrechnung** § 43 SGB I / § 51 SGB I — Schwellenwerte.
 
@@ -46,12 +46,12 @@ Vor dem Widerspruch steht die Analyse. Dieser Skill liest einen Bescheid systema
 
 Analyseprotokoll mit:
 
-1. Stammdaten Bescheid (Behoerde Az Datum Zugang)
-2. Tenor und Hoehe der Beschwer
+1. Stammdaten Bescheid (Behörde Az Datum Zugang)
+2. Tenor und Höhe der Beschwer
 3. Rechtsbehelfsbelehrung mit Fristberechnung (Widerspruchsfrist ein Monat § 84 SGG)
-4. Formelle Fehler (Anhoerung Begruendung Rechtsbehelfsbelehrung)
+4. Formelle Fehler (Anhörung Begründung Rechtsbehelfsbelehrung)
 5. Materielle Angriffspunkte sortiert nach Erfolgsaussicht
-6. Empfehlung: Widerspruch / Ueberpruefungsantrag § 44 SGB X / Untaetigkeitsklage / nichts
+6. Empfehlung: Widerspruch / Ueberprüfungsantrag § 44 SGB X / Untätigkeitsklage / nichts
 7. Frist im Fristenbuch eintragen — Verweis auf `fristenbuch-sozialrecht`
 
 ## Grenzen

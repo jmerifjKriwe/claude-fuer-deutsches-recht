@@ -7,33 +7,33 @@ description: "Definiert die Zeilenprompts der zweiten Wuerfel-Achse — pro Doku
 
 ## Zweck
 
-Spaltenprompts machen alle Dokumente vergleichbar. Zeilenprompts erlauben genau die Sonderbehandlung dort wo ein Dokument abweicht. Der Wuerfel bleibt strukturiert aber die Genauigkeit pro Dokument steigt.
+Spaltenprompts machen alle Dokumente vergleichbar. Zeilenprompts erlauben genau die Sonderbehandlung dort wo ein Dokument abweicht. Der Würfel bleibt strukturiert aber die Genauigkeit pro Dokument steigt.
 
 ## Typische Zeilenprompt-Muster
 
 ### Konzern- und Gruppenkontext
 
-"Dieser Vertrag laeuft zwischen Mutter- und Tochtergesellschaft im 100-Prozent-Konzern — AktG Paragraph 311 und Paragraph 312 (Konzernrecht und Abhaengigkeitsbericht) zusaetzlich pruefen. Marktueblichkeit der Konditionen ist Pflichtspalte."
+"Dieser Vertrag laeuft zwischen Mutter- und Tochtergesellschaft im 100-Prozent-Konzern — AktG Paragraph 311 und Paragraph 312 (Konzernrecht und Abhängigkeitsbericht) zusätzlich prüfen. Marktüblichkeit der Konditionen ist Pflichtspalte."
 
 ### Fehlende Anlagen
 
-"Anlage 7 (Leistungsbeschreibung) ist im Datenraum nicht enthalten — als Datenraum-Luecke in der Spalte Vollstaendigkeit markieren und im Disclosure-Letter abfragen."
+"Anlage 7 (Leistungsbeschreibung) ist im Datenraum nicht enthalten — als Datenraum-Lücke in der Spalte Vollständigkeit markieren und im Disclosure-Letter abfragen."
 
 ### Sprachfremde Dokumente
 
-"Vertrag in englischer Sprache. Bei Zitat: Originalwortlaut PLUS deutsche Arbeitsuebersetzung in Klammern. Auslegungsmassstab nach BGB Paragraph 133 und Paragraph 157 trotz Englisch."
+"Vertrag in englischer Sprache. Bei Zitat: Originalwortlaut PLUS deutsche Arbeitsuebersetzung in Klammern. Auslegungsmaßstab nach BGB Paragraph 133 und Paragraph 157 trotz Englisch."
 
-### Aelterer Vertrag
+### Älterer Vertrag
 
-"Erstunterzeichnung aelter als 5 Jahre. Pruefen ob Aenderungsvereinbarungen Nachtraege oder muendliche Aenderungen aktenkundig sind. Schriftformklausel beachten BGB Paragraph 125 Satz 2."
+"Erstunterzeichnung älter als 5 Jahre. Prüfen ob Änderungsvereinbarungen Nachtraege oder muendliche Änderungen aktenkundig sind. Schriftformklausel beachten BGB Paragraph 125 Satz 2."
 
 ### Insolvenzbezogene Sonderklausel
 
-"Klausel vorhanden die im Insolvenzfall eine Kuendigung oder Aufrechnung erlaubt. Pruefen ob diese nach InsO Paragraph 119 unwirksam ist (insolvenzabhaengige Loesungsklausel)."
+"Klausel vorhanden die im Insolvenzfall eine Kündigung oder Aufrechnung erlaubt. Prüfen ob diese nach InsO Paragraph 119 unwirksam ist (insolvenzabhängige Lösungsklausel)."
 
 ### Konsumentenrelevanz
 
-"Vertragspartner ist Verbraucher gemaess BGB Paragraph 13. Daher AGB-Kontrolle nach BGB Paragraph 305 ff. strenger; Klauselverbote BGB Paragraph 308 und Paragraph 309 zusaetzlich pruefen."
+"Vertragspartner ist Verbraucher gemäß BGB Paragraph 13. Daher AGB-Kontrolle nach BGB Paragraph 305 ff. strenger; Klauselverbote BGB Paragraph 308 und Paragraph 309 zusätzlich prüfen."
 
 ### Datenraum-Disclosure
 
@@ -47,17 +47,17 @@ Spaltenprompts machen alle Dokumente vergleichbar. Zeilenprompts erlauben genau 
   hash: "sha256:..."
   zeilenprompt: |
     Konzernvertrag (Tochter zur Muttergesellschaft).
-    Zusaetzlich: AktG Paragraph 311 / Paragraph 312 (Konzernrecht).
-    Marktueblichkeit der Verguetung in der Spalte 'Verguetung' bewerten.
-  ueberschreibt-spalten: ["verguetung"]
-  ergaenzt-spalten: ["change-of-control"]
+    Zusätzlich: AktG Paragraph 311 / Paragraph 312 (Konzernrecht).
+    Marktüblichkeit der Vergütung in der Spalte 'Vergütung' bewerten.
+  ueberschreibt-spalten: ["vergütung"]
+  ergänzt-spalten: ["change-of-control"]
 ```
 
 ## Ausgabe
 
 - `zeilenprompts.yaml` mit pro Zeile (Dokument) der jeweiligen Sonderanweisung
-- Konflikt-Pruefung: wenn ein Zeilenprompt einer Pflicht-Spalte widerspricht meldet der Skill den Konflikt zur Pruefer-Entscheidung.
+- Konflikt-Prüfung: wenn ein Zeilenprompt einer Pflicht-Spalte widerspricht meldet der Skill den Konflikt zur Prüfer-Entscheidung.
 
 ## Grenzen
 
-Wenn die meisten Zeilen einen aehnlichen Zeilenprompt brauchen ist das ein Hinweis dass die Spaltenprompts angepasst werden muessen — der Effekt soll in den Spalten landen nicht in 80 Zeilenprompts.
+Wenn die meisten Zeilen einen ähnlichen Zeilenprompt brauchen ist das ein Hinweis dass die Spaltenprompts angepasst werden müssen — der Effekt soll in den Spalten landen nicht in 80 Zeilenprompts.

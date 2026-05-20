@@ -9,12 +9,12 @@ description: Erfasst die Falldaten aus hochgeladenen Tickets Buchungsbestaetigun
 
 Was hochgeladen werden kann:
 
-- **Buchungsbestaetigung** als PDF / E-Mail.
+- **Buchungsbestätigung** als PDF / E-Mail.
 - **E-Ticket** mit IATA-Standard-Konfiguration.
 - **Boardingpass** Foto oder PDF.
 - **Stoerungsbenachrichtigung** von der Airline.
 - **Korrespondenz** mit der Airline (E-Mail-Verlauf).
-- **Pauschalreiseunterlagen** falls Buchung ueber Reiseveranstalter.
+- **Pauschalreiseunterlagen** falls Buchung über Reiseveranstalter.
 
 ## Pflichtfelder
 
@@ -32,7 +32,7 @@ passagiere:
     rolle: ehepartner
   - name: Mueller, Lea
     geburtsdatum: 2010-06-18
-    rolle: minderjaehrig
+    rolle: minderjährig
 
 buchungscode: ABC123  # PNR
 buchung-bei: Lufthansa  # vermarktende Airline
@@ -42,25 +42,25 @@ flug:
   flugnummer: LH 1234  # Code des operating carrier
   operating-carrier: Lufthansa
   marketing-carrier: Lufthansa
-  abflughafen: MUC (Muenchen)
+  abflughafen: MUC (München)
   zielflughafen: LIS (Lissabon)
   geplante-abflugzeit: 2026-05-12T08:25:00+02:00
   geplante-ankunftszeit: 2026-05-12T11:00:00+01:00
-  tatsaechliche-abflugzeit: null
-  tatsaechliche-ankunftszeit: null
+  tatsächliche-abflugzeit: null
+  tatsächliche-ankunftszeit: null
   flugklasse: economy
   distanz-km: 2280  # Skill `distanz-und-ausgleich-berechnen`
 
 stoerung:
-  art: annullierung  # annullierung / verspaetung / nichtbefoerderung / umbuchung / abweichender-flug
+  art: annullierung  # annullierung / verspätung / nichtbefoerderung / umbuchung / abweichender-flug
   bekanntgabe-am: 2026-05-12T06:30:00+02:00
   bekanntgabe-wie: SMS  # SMS / E-Mail / Schalter-Mitteilung
-  begruendung-airline: technischer Defekt
+  begründung-airline: technischer Defekt
   ersatzangebot: Flug am 13.05.2026 LH 1234
-  ersatz-tatsaechlich-genutzt: ja
+  ersatz-tatsächlich-genutzt: ja
 
 belege:
-  - typ: buchungsbestaetigung
+  - typ: buchungsbestätigung
     pfad: belege/2026-05-12/buchung-LH1234.pdf
   - typ: boardingpass
     pfad: belege/2026-05-12/boardingpass-mueller.pdf
@@ -73,22 +73,22 @@ belege:
 ## OCR / PDF-Extraktion
 
 - Bei PDF-Tickets automatische Extraktion von PNR Flugnummer Datum und Flughaefen.
-- Bei Foto-Belegen OCR; bei Konfidenz unter 90 Prozent Pruefer-Flag fuer manuelle Bestaetigung.
+- Bei Foto-Belegen OCR; bei Konfidenz unter 90 Prozent Prüfer-Flag für manuelle Bestätigung.
 - IATA-Codes (LH BA AF AZ) und Flughafen-Codes (FRA MUC CDG MAD) gegen Standardlisten validieren.
 
-## Datenabgleich oeffentliche Quellen
+## Datenabgleich öffentliche Quellen
 
-- **Flugplandaten** geplante Zeiten aus Buchungsbestaetigung — autoritativ.
-- **Ist-Zeiten** koennen Sie aus Boardingpass-Stempel SMS / E-Mail mit Verspaetungs-Hinweis Flughafen-Anzeigetafel-Foto oder Airline-Verspaetungs-API entnehmen.
-- Verbraucher-relevante oeffentliche Datenquellen sind regelmaessig **zahlungspflichtig oder nicht autoritativ** (FlightAware FlightRadar24 etc.); im Streit beweisbedeutsam ist die **Eingangsbestaetigung der Airline** und die offizielle **Verspaetungs-/Annullierungsmeldung** der Airline.
-- Bei strittiger Ist-Zeit: Empfehlung **eigenhaendige Dokumentation am Tag des Ereignisses** (Fotos Anzeigentafel SMS-Eingaenge) als spaeterer Beweis.
+- **Flugplandaten** geplante Zeiten aus Buchungsbestätigung — autoritativ.
+- **Ist-Zeiten** können Sie aus Boardingpass-Stempel SMS / E-Mail mit Verspätungs-Hinweis Flughafen-Anzeigetafel-Foto oder Airline-Verspätungs-API entnehmen.
+- Verbraucher-relevante öffentliche Datenquellen sind regelmäßig **zahlungspflichtig oder nicht autoritativ** (FlightAware FlightRadar24 etc.); im Streit beweisbedeutsam ist die **Eingangsbestätigung der Airline** und die offizielle **Verspätungs-/Annullierungsmeldung** der Airline.
+- Bei strittiger Ist-Zeit: Empfehlung **eigenhaendige Dokumentation am Tag des Ereignisses** (Fotos Anzeigentafel SMS-Eingaenge) als späterer Beweis.
 
 ## Ausgabe
 
 - `fallakte.yaml` mit allen Stammdaten.
-- `belegliste.md` mit Pruefer-Flags fuer fehlende Belege.
-- `naechste-schritte.md` Empfehlung auf naechsten Skill (`annullierung-oder-verspaetung-einordnen`).
+- `belegliste.md` mit Prüfer-Flags für fehlende Belege.
+- `nächste-schritte.md` Empfehlung auf nächsten Skill (`annullierung-oder-verspätung-einordnen`).
 
 ## Mehrere Passagiere
 
-Pro Flug wird **ein** Anspruchsfall mit mehreren Passagieren erfasst. Jeder Passagier hat aber einen **eigenen Ausgleichsanspruch** (Art. 7 VO 261/2004 ist persoenlich). Daher bei der Klage je Passagier eigener Antrag (Streitgenossenschaft moeglich). Vollmacht der Mitreisenden falls einer fuer alle vorgeht — Skill `vollmacht-familienmitglieder`.
+Pro Flug wird **ein** Anspruchsfall mit mehreren Passagieren erfasst. Jeder Passagier hat aber einen **eigenen Ausgleichsanspruch** (Art. 7 VO 261/2004 ist persoenlich). Daher bei der Klage je Passagier eigener Antrag (Streitgenossenschaft möglich). Vollmacht der Mitreisenden falls einer für alle vorgeht — Skill `vollmacht-familienmitglieder`.

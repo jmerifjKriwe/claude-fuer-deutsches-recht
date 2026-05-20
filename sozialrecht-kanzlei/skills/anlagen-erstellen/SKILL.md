@@ -27,7 +27,7 @@ description: Strukturiert Anlagen zu sozialrechtlichen Schriftsaetzen — Konven
 Pro Anlage:
 - **Sigel** (K1 W1 ...)
 - **Kurzbezeichnung** ("Bescheid des Jobcenters vom 12.03.2026")
-- **Quelle** (Mandant Behoerde Drittstelle)
+- **Quelle** (Mandant Behörde Drittstelle)
 - **Datum** des Originaldokuments
 - **Seitenzahl** im Original
 - **Fundstelle im Schriftsatz** (z. B. "Seite 4 Randnummer 12")
@@ -36,7 +36,7 @@ Pro Anlage:
 
 - Original als PDF ablegen.
 - Stempel oben rechts auf erste Seite jeder Anlage: das Sigel (`K1`).
-- Doppelseitige Scans pruefen.
+- Doppelseitige Scans prüfen.
 - Persoenliche Daten Dritter schwaerzen wenn nicht erforderlich (DSGVO Datenminimierung).
 
 ### 3. Anlagenverzeichnis als Vorblatt
@@ -54,17 +54,17 @@ K5   Aerztliches Attest Dr. M. vom 03.02.2026
 K6   Mietvertrag mit Anlagen
 ```
 
-### 4. Vollstaendigkeitspruefung
+### 4. Vollständigkeitsprüfung
 
-- Wird jede Anlage im Schriftsatz zitiert? Andernfalls Anlage streichen oder Schriftsatz ergaenzen.
+- Wird jede Anlage im Schriftsatz zitiert? Andernfalls Anlage streichen oder Schriftsatz ergänzen.
 - Wird jedes Sigel im Schriftsatz auf das richtige Anlagedokument verweisen?
 - Reichen die Anlagen aus um die Behauptungen glaubhaft zu machen / zu beweisen?
 
 ### 5. Anlagenkonvolut zusammenstellen
 
 - Alle Anlagen in Reihenfolge K1 K2 K3 ... in eine PDF-Datei.
-- Lesezeichen pro Anlage fuer schnelle Navigation.
-- Endgueltige Dateibenennung: `klage-anlagen-<az>-<datum>.pdf`.
+- Lesezeichen pro Anlage für schnelle Navigation.
+- Endgültige Dateibenennung: `klage-anlagen-<az>-<datum>.pdf`.
 
 ## Ausgabe
 

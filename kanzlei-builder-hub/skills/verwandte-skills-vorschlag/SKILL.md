@@ -97,9 +97,9 @@ Mit dem Nächste-Schritte-Entscheidungsbaum gemäß `CLAUDE.md` → `## Ausgaben
 ```
 [Nach Vertragsreview mit NDAs]
 
-💡 Die Community hat einen Skill dafür: **nda-pruefung** aus kanzlei-skills —
+💡 Die Community hat einen Skill dafür: **nda-prüfung** aus kanzlei-skills —
 „Prüft Geheimhaltungsvereinbarungen auf typische Risikopunkte nach deutschem Recht."
-/kanzlei-builder-hub:skill-installierer nda-pruefung zum Ansehen.
+/kanzlei-builder-hub:skill-installierer nda-prüfung zum Ansehen.
 ```
 
 ```

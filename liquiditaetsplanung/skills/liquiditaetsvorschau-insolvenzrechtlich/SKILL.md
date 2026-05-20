@@ -7,7 +7,7 @@ description: "Gerichtsfähige Liquiditätsbilanz und Liquiditätsvorschau für d
 
 ## Zweck
 
-Dieser Skill erstellt eine **gerichtsfähig dokumentierte Liquiditätsbilanz** auf einen Stichtag und eine zugehörige **wochenaktuelle Liquiditätsvorschau** über mindestens drei Wochen, regelmäßig bis 13 Wochen, in der für § 17 InsO benötigten Form. Das Standardergebnis ist eine Excel-Tabelle auf Wochenbasis nach hinterlegter Vorlage (`assets/excel/Liquiditaetsplan-Wochenbasis.xlsx`). Auf Nutzerwunsch wird zusätzlich ein interaktives HTML-Padlet oder ein Markdown-Artefakt geliefert; ein Memo wird nur auf ausdrückliche Anfrage erstellt.
+Dieser Skill erstellt eine **gerichtsfähig dokumentierte Liquiditätsbilanz** auf einen Stichtag und eine zugehörige **wochenaktuelle Liquiditätsvorschau** über mindestens drei Wochen, regelmäßig bis 13 Wochen, in der für § 17 InsO benötigten Form. Das Standardergebnis ist eine Excel-Tabelle auf Wochenbasis nach hinterlegter Vorlage (`assets/excel/Liquiditätsplan-Wochenbasis.xlsx`). Auf Nutzerwunsch wird zusätzlich ein interaktives HTML-Padlet oder ein Markdown-Artefakt geliefert; ein Memo wird nur auf ausdrückliche Anfrage erstellt.
 
 Anwendungsfälle:
 
@@ -35,7 +35,7 @@ Vor der Aufstellung folgende Frage stellen:
 
 > Wie sollen die Daten einfließen — manuell, per Datei-Import (CAMT.053, MT940, CSV-Bankexport, DATEV-OPOS-Export), oder über einen verbundenen Bankzugang (PSD2 / FinTS / vorhandener Connector)?
 
-Detailregeln siehe Schwester-Skill `liquiditaetsvorschau-3wochen`, Abschnitt „Bezugsquellen der Eingabedaten" — der Skill selbst baut keinen Open-Banking-Client.
+Detailregeln siehe Schwester-Skill `liquiditätsvorschau-3wochen`, Abschnitt „Bezugsquellen der Eingabedaten" — der Skill selbst baut keinen Open-Banking-Client.
 
 ## Ablauf
 
@@ -115,14 +115,14 @@ Die Beurteilung erfolgt **allein anhand objektiver Umstände**; auf die innere V
 
 ## Ausgabeformat
 
-1. **Excel** auf Basis von `assets/excel/Liquiditaetsplan-Wochenbasis.xlsx` — Wochenraster, BGH-Block, Block „Offene Forderungen", Hinweise zur BGH-Rechtsprechung.
+1. **Excel** auf Basis von `assets/excel/Liquiditätsplan-Wochenbasis.xlsx` — Wochenraster, BGH-Block, Block „Offene Forderungen", Hinweise zur BGH-Rechtsprechung.
 2. **HTML-Padlet** (auf Wunsch).
 3. **Markdown-Artefakt** (auf Wunsch).
 4. **Memo** (nur auf Anfrage) im Gutachtenstil: Sachverhalt, Rechtliche Grundlagen, Liquiditätsbilanz, Subsumtion BGH-Schema, Indizienanalyse, Ergebnis, Quellennachweis.
 
 ## Beispiel
 
-Siehe Schwester-Skill `liquiditaetsvorschau-3wochen` (Beispielfall Edelholz Manufaktur Berlin GmbH). Für gerichtsfeste Verwendung wird zusätzlich die Buchhaltungsherkunft (SuSa-/OPOS-Stand) protokolliert und die Indizienliste belegt.
+Siehe Schwester-Skill `liquiditätsvorschau-3wochen` (Beispielfall Edelholz Manufaktur Berlin GmbH). Für gerichtsfeste Verwendung wird zusätzlich die Buchhaltungsherkunft (SuSa-/OPOS-Stand) protokolliert und die Indizienliste belegt.
 
 ## Typische Fehler
 
@@ -138,4 +138,4 @@ Mindestens zwei BGH-Belege (jüngere zuerst) und zwei Kommentarbelege im Bearbei
 
 ## Übergabe
 
-Bei 🔴: `antragspflicht-15a-inso` und `zahlungsunfaehigkeit-pruefung-17-inso` (Plugin `insolvenzrecht`). Für mittel- und langfristige Sicht: `liquiditaetsvorschau-3-6-12-monate` (dieses Plugin).
+Bei 🔴: `antragspflicht-15a-inso` und `zahlungsunfähigkeit-prüfung-17-inso` (Plugin `insolvenzrecht`). Für mittel- und langfristige Sicht: `liquiditätsvorschau-3-6-12-monate` (dieses Plugin).

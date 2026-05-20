@@ -3,7 +3,7 @@ name: erfinderische-taetigkeit-pruefen
 description: "Prueft erfinderische Taetigkeit nach § 4 PatG und Art. 56 EPUe mit dem Problem-Solution-Approach der EPA-Beschwerdekammern. Drei Stufen: (1) Bestimmung des naechstliegenden Stands der Technik (closest prior art) anhand technischer Naehe Zweckverwandschaft und gemeinsamer Merkmale; (2) Formulierung der objektiven technischen Aufgabe (objective technical problem) als das was die Erfindung loest und der naechstliegende Stand der Technik nicht; (3) Frage nach could-would am Tag der Anmeldung haette der Fachmann ausgehend vom naechstliegenden Stand der Technik mit Erwartung auf Erfolg die beanspruchte Loesung umgesetzt. Beruecksichtigt Sekundaerindizien wie technisches Vorurteil unerwartete Wirkung lange empfundenes Beduerfnis und kommerziellen Erfolg. Disclaimer keine amtliche Pruefung."
 ---
 
-# erfinderische-taetigkeit-pruefen
+# erfinderische-tätigkeit-prüfen
 
 ## Zweck
 
@@ -64,9 +64,9 @@ Tabelle der unterscheidenden Merkmale gegenüber dem Closest-Prior-Art-Dokument.
 | Merkmal | im CPA offenbart? | Unterscheidend? |
 | --- | --- | --- |
 | M1 — Energieversorgungsnetz | ja | nein |
-| M2 — Steuergeraet | ja | nein |
-| M3 — Speicher fuer Lastdaten | ja | nein |
-| M4 — Soll-Lastpfad ueber Prognosemodell | ja (linear) | teilweise |
+| M2 — Steuergerät | ja | nein |
+| M3 — Speicher für Lastdaten | ja | nein |
+| M4 — Soll-Lastpfad über Prognosemodell | ja (linear) | teilweise |
 | M5 — Eingriff bei Abweichung | ja | nein |
 | M6 — Neuronales Netz mit drei Schichten | **nein** | **ja** |
 
@@ -110,4 +110,4 @@ Wenn die Could-Would-Prüfung nahelegend ausfällt, aber dennoch Zweifel bestehe
 
 ## Disclaimer
 
-> **Hinweis zur Pruefung.** Diese Pruefung der erfinderischen Taetigkeit ist eine durch Claude unterstuetzte Vorpruefung und keine amtliche Pruefung durch DPMA oder EPA. Der Problem-Solution-Approach ist methodisch sensibel — die Auswahl des naechstliegenden Stands der Technik kann die Bewertung entscheidend verschieben. Die Pruefung muss durch eigene Bewertung und durch Pruefung der Recherche-Vollstaendigkeit abgesichert werden.
+> **Hinweis zur Prüfung.** Diese Prüfung der erfinderischen Tätigkeit ist eine durch Claude unterstuetzte Vorprüfung und keine amtliche Prüfung durch DPMA oder EPA. Der Problem-Solution-Approach ist methodisch sensibel — die Auswahl des nächstliegenden Stands der Technik kann die Bewertung entscheidend verschieben. Die Prüfung muss durch eigene Bewertung und durch Prüfung der Recherche-Vollständigkeit abgesichert werden.

@@ -108,7 +108,7 @@ Das Modell gibt folgende Dokumente aus:
 - **Abmahnschreiben** (Urteilsstil, vollständiger Briefkopf, Datum, Fristsetzung, Anlage UE)
 - **Entwurf der Unterlassungserklärung** (separate Anlage, unterschriftsreif)
 - **Rechtliches Memo** (Gutachtenstil) mit Prüfung der Erfolgsaussichten
-- Optional: **Schutzschrift** (vgl. Skill einstweilige-verfuegung)
+- Optional: **Schutzschrift** (vgl. Skill einstweilige-verfügung)
 
 ## Beispiel
 

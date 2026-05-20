@@ -7,19 +7,19 @@ description: Antrag auf verbindliche Auskunft nach § 89 Abs. 2 AO. Vor der Verw
 
 ## Anwendungsfall
 
-Vor der Verwirklichung eines noch nicht verwirklichten Sachverhalts (z. B. geplante Umstrukturierung Verschmelzung Spaltung Einbringung Erbschaftsplanung Schenkung Auslandssachverhalt) Klarheit ueber die steuerliche Behandlung schaffen. Die verbindliche Auskunft bindet das Finanzamt (Vertrauensschutz) wenn sich der spaeter verwirklichte Sachverhalt mit dem geschilderten deckt.
+Vor der Verwirklichung eines noch nicht verwirklichten Sachverhalts (z. B. geplante Umstrukturierung Verschmelzung Spaltung Einbringung Erbschaftsplanung Schenkung Auslandssachverhalt) Klarheit über die steuerliche Behandlung schaffen. Die verbindliche Auskunft bindet das Finanzamt (Vertrauensschutz) wenn sich der später verwirklichte Sachverhalt mit dem geschilderten deckt.
 
 ## Voraussetzungen
 
 ### 1. Antragsteller
 
-- Steuerpflichtiger oder Gesellschaft fuer die der Sachverhalt verbindliche Wirkung haben soll.
-- Bei Gesellschaftsgruendungen Gesellschaftermehrheit moeglich.
+- Steuerpflichtiger oder Gesellschaft für die der Sachverhalt verbindliche Wirkung haben soll.
+- Bei Gesellschaftsgruendungen Gesellschaftermehrheit möglich.
 
 ### 2. Noch nicht verwirklichter Sachverhalt
 
 - **Zwingend**: Der Sachverhalt darf zum Antragszeitpunkt noch nicht verwirklicht sein.
-- Bei teilweise verwirklichtem Sachverhalt: nur fuer den noch nicht verwirklichten Teil.
+- Bei teilweise verwirklichtem Sachverhalt: nur für den noch nicht verwirklichten Teil.
 
 ### 3. Erhebliche steuerliche Auswirkungen
 
@@ -27,7 +27,7 @@ Vor der Verwirklichung eines noch nicht verwirklichten Sachverhalts (z. B. gepla
 
 ### 4. Klare Rechtsfrage
 
-- Die zu beantwortende Frage muss praezise formuliert sein — keine pauschale "Was waere wenn"-Frage.
+- Die zu beantwortende Frage muss präzise formuliert sein — keine pauschale "Was waere wenn"-Frage.
 
 ## Aufbau des Antrags
 
@@ -39,27 +39,27 @@ Vor der Verwirklichung eines noch nicht verwirklichten Sachverhalts (z. B. gepla
 
 ### 2. Antragsgegenstand
 
-"Hiermit beantrage ich namens und im Auftrag des Antragstellers verbindliche Auskunft gemaess § 89 Abs. 2 AO ueber die steuerliche Beurteilung des nachstehend geschilderten noch nicht verwirklichten Sachverhalts."
+"Hiermit beantrage ich namens und im Auftrag des Antragstellers verbindliche Auskunft gemäß § 89 Abs. 2 AO über die steuerliche Beurteilung des nachstehend geschilderten noch nicht verwirklichten Sachverhalts."
 
 ### 3. Sachverhaltsdarstellung
 
-- Vollstaendig und nachvollziehbar.
+- Vollständig und nachvollziehbar.
 - Akteure mit allen relevanten Eigenschaften.
 - Zeitliche Abfolge.
-- Wirtschaftliche Hintergruende.
+- Wirtschaftliche Hintergründe.
 - Bestehende Vertragstexte als Anlagen.
 
 ### 4. Rechtsfrage
 
-Praezise Fragen z. B.:
+Präzise Fragen z. B.:
 
 1. Ist der geplante Vorgang als Verschmelzung iSd UmwStG § 11 ff. zu behandeln?
 2. Erfolgt eine steuerneutrale Buchwertfortfuehrung?
-3. Werden Verlustvortraege erhalten?
+3. Werden Verlustvorträge erhalten?
 
 ### 5. Eigene Rechtsauffassung
 
-- Subsumtion unter die einschlaegigen Normen.
+- Subsumtion unter die einschlägigen Normen.
 - BFH-Rechtsprechung mit Pinpoint.
 - BMF-Schreiben.
 - Kommentarliteratur mit Bearbeiter Werk Auflage Jahr Rn.
@@ -67,7 +67,7 @@ Praezise Fragen z. B.:
 ### 6. Anlagen
 
 - Vertragstexte
-- Gesellschaftsvertraege
+- Gesellschaftsverträge
 - Bewertungen
 - Konzeptpapiere
 
@@ -75,20 +75,20 @@ Praezise Fragen z. B.:
 
 - Gebuehr richtet sich nach dem Gegenstandswert (Steuerauswirkung).
 - Mindestgebuehr 300 EUR.
-- Hoechstgebuehr begrenzt (steuerauskunftsgebuehrenverordnung).
+- Höchstgebuehr begrenzt (steuerauskunftsgebuehrenverordnung).
 - Festgesetzt mit Bescheid.
 
 ## Bindungswirkung
 
-- Bindet das FA wenn der spaeter verwirklichte Sachverhalt mit dem Antrag uebereinstimmt.
-- Keine Bindung bei abweichender Verwirklichung oder bei spaeter geaenderter Rechtslage zugunsten des Antragstellers (§ 2 Nr. 4 StAuskV).
-- Bindet die Finanzgerichte **nicht** — der Steuerpflichtige kann ggf. spaeter eine bessere Auffassung gerichtlich durchsetzen.
+- Bindet das FA wenn der später verwirklichte Sachverhalt mit dem Antrag übereinstimmt.
+- Keine Bindung bei abweichender Verwirklichung oder bei später geänderter Rechtslage zugunsten des Antragstellers (§ 2 Nr. 4 StAuskV).
+- Bindet die Finanzgerichte **nicht** — der Steuerpflichtige kann ggf. später eine bessere Auffassung gerichtlich durchsetzen.
 
 ## Verfahren
 
-- Antrag schriftlich oder ueber beA / ELSTER.
+- Antrag schriftlich oder über beA / ELSTER.
 - Antwort kommt als verbindliche Auskunft (Bescheid).
-- Bei Ablehnung oder negativer Auskunft: Einspruch und Klage moeglich (§ 89 Abs. 2 Satz 2 AO iVm AO-Rechtsbehelfsverfahren).
+- Bei Ablehnung oder negativer Auskunft: Einspruch und Klage möglich (§ 89 Abs. 2 Satz 2 AO iVm AO-Rechtsbehelfsverfahren).
 
 ## Ausgabe
 
@@ -98,4 +98,4 @@ Praezise Fragen z. B.:
 
 ## Versand
 
-Ueber beA an Finanzamt — vor Versand `versand-vor-check`.
+Über beA an Finanzamt — vor Versand `versand-vor-check`.

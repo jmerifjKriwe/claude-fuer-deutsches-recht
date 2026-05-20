@@ -7,19 +7,19 @@ description: Abschliessende Selbstdokumentation der Fortbestehensprognose zum ko
 
 ## Zweck
 
-Die Fortbestehensprognose ist Beweisstueck. Bei spaeterer Insolvenz wird genau geprueft ob der Geschaeftsleiter zum Stichtag der Erstellung **objektiv** eine positive Prognose annehmen durfte. Diese Dokumentation muss als Beweis dienen koennen.
+Die Fortbestehensprognose ist Beweisstueck. Bei späterer Insolvenz wird genau geprüft ob der Geschäftsleiter zum Stichtag der Erstellung **objektiv** eine positive Prognose annehmen durfte. Diese Dokumentation muss als Beweis dienen können.
 
 ## Pflichtinhalte
 
-Die Dokumentation enthaelt:
+Die Dokumentation enthält:
 
 1. **Stichtag** und Anlass
-2. **Bilanzieller Status** zum Stichtag mit Aktiva Passiva Eigenkapital Stillen Reserven Stillen Lasten Rangruecktritt
+2. **Bilanzieller Status** zum Stichtag mit Aktiva Passiva Eigenkapital Stillen Reserven Stillen Lasten Rangrücktritt
 3. **Insolvenzrechtliche Bilanzbasis** mit Rechnung
 4. **Annahmen** im Einzelnen mit Belegen und Plausibilisierung
-5. **12-Monats-Liquiditaet** in Szenarien Basis Negativ Stress
+5. **12-Monats-Liquidität** in Szenarien Basis Negativ Stress
 6. **Sanierungsbausteine** mit Status (verbindlich umgesetzt / in Verhandlung / geplant)
-7. **Gesamtergebnis** mit Begruendung
+7. **Gesamtergebnis** mit Begründung
 8. **Wiedervorlage-Termin**
 
 ## Dokumenten-Vorlage
@@ -33,12 +33,12 @@ HRB: [Nummer], AG [Sitz]
 Rechtsform: [GmbH / AG]
 
 Stichtag der Prognose: [Datum]
-Erstellt durch: [Geschaeftsfuehrer Name]
-Prognosehorizont: [Monat plus zwoelf Monate]
+Erstellt durch: [Geschäftsführer Name]
+Prognosehorizont: [Monat plus zwölf Monate]
 
 1. ANLASS
 
-[Aus Skill ausloesendes-ereignis-erfassen — z. B. „Hinweis des Steuerberaters
+[Aus Skill auslösendes-ereignis-erfassen — z. B. „Hinweis des Steuerberaters
 nach § 102 StaRUG vom [Datum] mit dem Hinweis dass die Bilanz 2025 ein
 negatives Eigenkapital von [Betrag] EUR aufweist und eine Fortbestehensprognose
 nach § 19 Abs. 2 InsO erstellt werden soll."]
@@ -46,7 +46,7 @@ nach § 19 Abs. 2 InsO erstellt werden soll."]
 2. BILANZIELLER STATUS
 
 [Aus Skill bilanzieller-status-aufnehmen — als knappe Tabelle mit
-Aktiva-Passiva und ausweisbarer bilanzieller Ueberschuldung.]
+Aktiva-Passiva und ausweisbarer bilanzieller Überschuldung.]
 
 3. STILLE RESERVEN UND LASTEN
 
@@ -54,20 +54,20 @@ Aktiva-Passiva und ausweisbarer bilanzieller Ueberschuldung.]
 
 4. RANGRUECKTRITTE
 
-[Forderungen mit qualifiziertem Rangruecktritt nach § 19 Abs. 2 S. 2 InsO.]
+[Forderungen mit qualifiziertem Rangrücktritt nach § 19 Abs. 2 S. 2 InsO.]
 
 5. INSOLVENZRECHTLICHE BILANZBASIS
 
 [Berechnung Aktiva plus Stille Reserven minus Stille Lasten gegen Passiva
-minus Rangruecktritts-Forderungen.]
+minus Rangrücktritts-Forderungen.]
 
-Ergebnis bilanzielle Pruefung: [positiv / negativ]
-Hoehe: [Betrag] EUR
+Ergebnis bilanzielle Prüfung: [positiv / negativ]
+Höhe: [Betrag] EUR
 
 6. ANNAHMEN FUER DIE FORTFUEHRUNG
 
 [Aus Skill annahmen-sammeln-fortfuehrung. Pro Annahme:
-Bezeichnung — Werte — Begruendung — Beleg — Risiko.]
+Bezeichnung — Werte — Begründung — Beleg — Risiko.]
 
 7. PLAUSIBILISIERUNG DER ANNAHMEN
 
@@ -86,57 +86,57 @@ Stress-Szenario: [...]
 9. SANIERUNGSBAUSTEINE
 
 [Aus Skill sanierungsbausteine-vorschlagen.
-Pro Baustein: Bezeichnung — Hoehe — Umsetzungsstatus — Beleg.]
+Pro Baustein: Bezeichnung — Höhe — Umsetzungsstatus — Beleg.]
 
-  - Patronatserklaerung Hauptgesellschafter 200000 EUR — unterzeichnet
+  - Patronatserklärung Hauptgesellschafter 200000 EUR — unterzeichnet
     am [Datum] — Anlage A1
-  - Gesellschafterdarlehen 120000 EUR mit qualifiziertem Rangruecktritt —
+  - Gesellschafterdarlehen 120000 EUR mit qualifiziertem Rangrücktritt —
     notariell beurkundet am [Datum] — Anlage A2
   - Stundungsvereinbarungen 5 Lieferanten — schriftlich vorhanden am
     [Datum] — Anlagen A3 bis A7
 
 10. GESAMTBEWERTUNG
 
-Massstab: § 19 Abs. 2 InsO — ueberwiegend wahrscheinlich (mehr als 50 Prozent)
-dass das Unternehmen im Prognosezeitraum von zwoelf Monaten zahlungsfaehig
-fortgefuehrt werden kann.
+Maßstab: § 19 Abs. 2 InsO — überwiegend wahrscheinlich (mehr als 50 Prozent)
+dass das Unternehmen im Prognosezeitraum von zwölf Monaten zahlungsfähig
+fortgeführt werden kann.
 
 Ergebnis: [POSITIV / POSITIV MIT MASSNAHMEN / NEGATIV]
 
-Begruendung:
+Begründung:
 
-[Konkrete Begruendung in zwei bis fuenf Saetzen. Bei „positiv mit Massnahmen"
-explizit aufzaehlen welche Massnahmen umgesetzt sein muessen.]
+[Konkrete Begründung in zwei bis fünf Sätzen. Bei „positiv mit Maßnahmen"
+explizit aufzählen welche Maßnahmen umgesetzt sein müssen.]
 
-Folge: [Keine Antragspflicht aus Ueberschuldung / Antragspflicht ausgeloest]
+Folge: [Keine Antragspflicht aus Überschuldung / Antragspflicht ausgeloest]
 
 11. WIEDERVORLAGE
 
 Diese Prognose ist zu aktualisieren:
 
-  - vierteljaehrlich zum [naechster Stichtag]
-  - bei jeder wesentlichen Aenderung der Annahmen
+  - vierteljaehrlich zum [nächster Stichtag]
+  - bei jeder wesentlichen Änderung der Annahmen
   - bei Eintritt eines der negativen Ereignisse aus dem Stress-Szenario
 
 12. ABSCHLIESSENDE ERKLAERUNG DES GESCHAEFTSFUEHRERS
 
-Ich erklaere dass ich die obigen Annahmen sorgfaeltig geprueft und mit den 
-verfuegbaren Informationen abgeglichen habe. Die Annahmen entsprechen meiner 
-objektiven Einschaetzung zum Stichtag. Bei wesentlichen Aenderungen werde ich 
+Ich erklaere dass ich die obigen Annahmen sorgfaeltig geprüft und mit den 
+verfügbaren Informationen abgeglichen habe. Die Annahmen entsprechen meiner 
+objektiven Einschätzung zum Stichtag. Bei wesentlichen Änderungen werde ich 
 diese Prognose unverzueglich aktualisieren.
 
 [Ort], [Datum]
 
 ___________________________
-[Geschaeftsfuehrer]
+[Geschäftsführer]
 
 
 ANLAGEN
 
-  A1 Patronatserklaerung Hauptgesellschafter
-  A2 Gesellschafterdarlehen mit Rangruecktritt notariell
+  A1 Patronatserklärung Hauptgesellschafter
+  A2 Gesellschafterdarlehen mit Rangrücktritt notariell
   A3 bis A7 Stundungsvereinbarungen
-  A8 Liquiditaetsplan 12 Monate (Excel)
+  A8 Liquiditätsplan 12 Monate (Excel)
   A9 Aktueller BWA SuSa
   A10 Hinweisschreiben Steuerberater § 102 StaRUG
   A11 Bilanz 2025 mit Anhang
@@ -144,18 +144,18 @@ ANLAGEN
 
 ## Aufbewahrung
 
-- Original mit allen Anlagen in der Geschaeftsleitungsakte.
+- Original mit allen Anlagen in der Geschäftsleitungsakte.
 - Kopie an Steuerberater und Insolvenzanwalt (falls eingebunden).
 - Aufbewahrung mindestens **zehn Jahre** (Anlehnung an § 257 HGB Buchfuehrungspflicht und ggf. § 147 AO).
 
-## Bei spaeterer Insolvenz
+## Bei späterer Insolvenz
 
-Diese Dokumentation ist Beweis dass der Geschaeftsleiter zum Stichtag eine **objektive** Prognose erstellt hat. Sie schuetzt im Haftungsprozess gegen Vorwuerfe:
+Diese Dokumentation ist Beweis dass der Geschäftsleiter zum Stichtag eine **objektive** Prognose erstellt hat. Sie schuetzt im Haftungsprozess gegen Vorwuerfe:
 
-- **§ 15a Abs. 4 InsO** Insolvenzverschleppung — wenn die Prognose zum Stichtag positiv war kann nicht angenommen werden dass der Geschaeftsleiter den Insolvenzgrund kannte und ignorierte.
+- **§ 15a Abs. 4 InsO** Insolvenzverschleppung — wenn die Prognose zum Stichtag positiv war kann nicht angenommen werden dass der Geschäftsleiter den Insolvenzgrund kannte und ignorierte.
 - **§ 15b InsO** Zahlungsverbot — wenn der Status zum Stichtag nicht-negativ war waren Zahlungen ab diesem Tag nicht zwingend pflichtwidrig.
-- **§ 43 GmbHG** Sorgfaltspflicht — Dokumentation belegt dass der Geschaeftsleiter aktiv und mit Sorgfalt geprueft hat.
-- **§ 826 BGB** sittenwidrige Schaedigung der Glaeubiger — nicht erfuellt wenn objektive Prognose vorlag.
+- **§ 43 GmbHG** Sorgfaltspflicht — Dokumentation belegt dass der Geschäftsleiter aktiv und mit Sorgfalt geprüft hat.
+- **§ 826 BGB** sittenwidrige Schädigung der Gläubiger — nicht erfüllt wenn objektive Prognose vorlag.
 
 ## Bei aktualisierter Prognose
 
@@ -166,4 +166,4 @@ Wenn die Prognose vierteljaehrlich aktualisiert wird, alte Prognosen aufheben un
 - `fortbestehensprognose-<datum>.docx` und PDF mit allen Anlagen.
 - Sicherer Archivpfad: `fortbestehensprognose/protokolle/<stichtag>.zip` mit Anlagenkonvolut.
 - Wiedervorlage-Eintrag im Kalender vierteljaehrlich.
-- Bei „negativ" Eskalation an Insolvenzanwalt (Skill `wenn-prognose-negativ-naechste-schritte`).
+- Bei „negativ" Eskalation an Insolvenzanwalt (Skill `wenn-prognose-negativ-nächste-schritte`).

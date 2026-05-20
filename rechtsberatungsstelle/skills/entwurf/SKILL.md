@@ -15,7 +15,7 @@ Beachte: Rechtliche Beratungsleistungen an Einzelpersonen durch Studierende erfo
 
 ## Eingaben
 
-- **Schriftstücktyp** — z. B. `widerspruch`, `klageschrift-ag`, `mahnschreiben`, `beratungshilfe-antrag`, `pkh-antrag`, `mietrechtliches-kuendigungsschreiben`
+- **Schriftstücktyp** — z. B. `widerspruch`, `klageschrift-ag`, `mahnschreiben`, `beratungshilfe-antrag`, `pkh-antrag`, `mietrechtliches-kündigungsschreiben`
 - **Sachverhaltsnotizen / Aktennotiz** — Fakten des Falls; fehlende Angaben werden markiert, nie erfunden
 - **Rechtsgebiet** — Mietrecht, Arbeitsrecht, Verwaltungsrecht, Verbraucherrecht u. a.
 - **Zuständiges Gericht / Behörde** (falls bekannt) — für Rubrum und Formvorschriften
@@ -134,7 +134,7 @@ Vor Vorlage an [Supervisor]:
 **Szenario:** Mandantin Erdem erhält eine fristlose Kündigung ihres Arbeitsverhältnisses. Kündigung zugestellt am 15.04.2026. Studierender Müller soll einen Entwurf der Kündigungsschutzklage beim Arbeitsgericht Berlin erstellen.
 
 ```
-/entwurf kuendigungsschutzklage-ag
+/entwurf kündigungsschutzklage-ag
 Fall: Erdem-Arbeitsrecht-2026
 Frist: 06.05.2026 (3 Wochen ab 15.04.2026, § 4 KSchG)
 Arbeitgeber: Beispiel GmbH, Musterstraße 1, 10115 Berlin

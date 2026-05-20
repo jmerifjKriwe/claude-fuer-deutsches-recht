@@ -8,9 +8,9 @@ description: Erzeugt aus heterogenen Mandantenunterlagen ein professionelles jur
 ## Leitidee
 
 Strukturierte Sachverhaltsaufbereitung ist das Fundament jeder
-qualifizierten Rechtsberatung. Bevor eine rechtliche Wuerdigung
-moeglich ist, muss der Sachverhalt vollstaendig erfasst, chronologisch
-geordnet und auf Widersprueche geprueft werden. Der Skill leistet
+qualifizierten Rechtsberatung. Bevor eine rechtliche Würdigung
+möglich ist, muss der Sachverhalt vollständig erfasst, chronologisch
+geordnet und auf Widersprueche geprüft werden. Der Skill leistet
 genau diese Vorarbeit und erzwingt durch das Format zugleich
 juristische Disziplin.
 
@@ -18,10 +18,10 @@ Aliasnamen je nach Kanzleikultur: Memorandumsmacher, Memorandumisierer.
 
 ## Inputs
 
-- Mandantenunterlagen in beliebiger Mischform: E-Mails Vertraege
-  Fotos handschriftliche Notizen Chats Kontoauszuege Gutachten
+- Mandantenunterlagen in beliebiger Mischform: E-Mails Verträge
+  Fotos handschriftliche Notizen Chats Kontoauszüge Gutachten
   Aktenvermerke Gespraechsnotizen
-- Optional: vorgegebene Pruefungsrichtung (gerichtete Pruefung)
+- Optional: vorgegebene Prüfungsrichtung (gerichtete Prüfung)
 - Optional: beigefuegte Rechtsprechung und Kommentarliteratur
 - Optional: vorhandenes Memorandum zur Aktualisierung
 
@@ -40,7 +40,7 @@ I. Sachverhalt
 <chronologische Darstellung mit Quellenreferenz in eckigen Klammern>
 
 Noch zu klaeren / Offene Punkte
-- <Widerspruch oder Luecke mit Quellenangabe>
+- <Widerspruch oder Lücke mit Quellenangabe>
 
 II. Fragestellung
 1. <Frage in genau einem Satz>
@@ -56,8 +56,8 @@ IV.1. Zu Frage 1 — <Kurzbezeichnung>
 IV.2. Zu Frage 2 — <Kurzbezeichnung>
 <...>
 
-Hinweis: Dieses Memorandum wurde KI-gestuetzt erstellt und bedarf
-der Pruefung durch den bearbeitenden Rechtsanwalt. Insbesondere
+Hinweis: Dieses Memorandum wurde KI-gestützt erstellt und bedarf
+der Prüfung durch den bearbeitenden Rechtsanwalt. Insbesondere
 alle Zitate sind anhand der Originalquellen zu verifizieren.
 ```
 
@@ -69,7 +69,7 @@ alle Zitate sind anhand der Originalquellen zu verifizieren.
    Format `[Anlage K1 S. 2]` `[E-Mail v. 15.03.2024]`
    `[Telefonat lt. Vermerk v. 20.03.2024]`
 3. Chronologische Sortierung
-4. Widerspruchspruefung — abweichende Datums- oder Sachangaben
+4. Widerspruchsprüfung — abweichende Datums- oder Sachangaben
    werden BEIDE dokumentiert und als klaerungsbeduerftig markiert
 5. Abschnitt "Noch zu klaeren" am Ende des Sachverhalts
 6. Identifikation der Rechtsfragen — entweder nach Vorgabe oder
@@ -77,37 +77,37 @@ alle Zitate sind anhand der Originalquellen zu verifizieren.
 7. Ein-Satz-Fragen formulieren und durchnummerieren
 8. Ein-Satz-Antworten formulieren und entsprechend nummerieren
 9. Rechtliche Ausfuehrungen — pro Frage ein eigener Block mit
-   sauberer Pruefungsstruktur
+   sauberer Prüfungsstruktur
 10. Zitate verifizieren oder mit `[Quelle zu verifizieren]` markieren
 
 ## Ein-Satz-Regel
 
 Fragen und Antworten bestehen aus genau einem Satz. Kein Komma vor
-"und" als Vorwand fuer Mehrfachfragen. Das Format zwingt zur
+"und" als Vorwand für Mehrfachfragen. Das Format zwingt zur
 Fokussierung auf das Wesentliche und verhindert "Prosa-Gutachten".
 
 Schlechte Frage: "Wie ist die Rechtslage?"
-Gute Frage: "Ist die Kuendigung vom fuenfzehnten Maerz wirksam?"
+Gute Frage: "Ist die Kündigung vom fünfzehnten März wirksam?"
 
 ## Quellenreferenzierung
 
 Jede Tatsachenangabe im Sachverhalt MUSS eine Quelle haben. Format:
 
-- `[Anlage K1 S. 2]` fuer Anlagen
-- `[E-Mail v. <Datum>]` fuer Korrespondenz
-- `[Vertrag § 4]` fuer Vertragsklauseln
-- `[Telefonat lt. Vermerk v. <Datum>]` fuer Telefonnotizen
-- `[Foto-Anlage <Bezeichnung>]` fuer Bildunterlagen
-- `[WhatsApp v. <Datum> <Uhrzeit>]` fuer Messenger
+- `[Anlage K1 S. 2]` für Anlagen
+- `[E-Mail v. <Datum>]` für Korrespondenz
+- `[Vertrag § 4]` für Vertragsklauseln
+- `[Telefonat lt. Vermerk v. <Datum>]` für Telefonnotizen
+- `[Foto-Anlage <Bezeichnung>]` für Bildunterlagen
+- `[WhatsApp v. <Datum> <Uhrzeit>]` für Messenger
 
-Wo Quelle fehlt, gehoert der Punkt in "Noch zu klaeren".
+Wo Quelle fehlt, gehört der Punkt in "Noch zu klaeren".
 
 ## Pinpoint-Zitierung Rechtsprechung
 
 Format: Gericht Urteil oder Beschluss vom Datum — Aktenzeichen
 Fundstelle Randnummer.
 
-Beispiel: BGH Urteil vom zwoelften Januar zweitausendzweiundzwanzig
+Beispiel: BGH Urteil vom zwölften Januar zweitausendzweiundzwanzig
 — VIII ZR 42/21 NJW 2022 S. 1234 Rn. 24.
 
 Juengere Entscheidungen stehen zuerst.
@@ -120,7 +120,7 @@ Randnummer.
 Beispiel: Ellenberger in Grueneberg BGB 83. Auflage 2024 § 138
 Rn. 51.
 
-## Pinpoint-Zitierung Aufsaetze
+## Pinpoint-Zitierung Aufsätze
 
 Format: Autor Titel Zeitschrift Jahr Anfangsseite konkrete Seite.
 
@@ -136,17 +136,17 @@ konkret S. 1237.
   Fundstellen ausgeben
 - Eigene Wertungen NICHT als Tatsache darstellen
 - Bei Tatsachen die nicht aus den Unterlagen folgen wird im
-  Sachverhalt eine Luecke markiert nicht ergaenzt
+  Sachverhalt eine Lücke markiert nicht ergänzt
 
-## Pruefungsmodi
+## Prüfungsmodi
 
-### Gerichtete Pruefung
+### Gerichtete Prüfung
 
-User gibt vor: "Pruefe Wirksamkeit der Kuendigung." Der Skill
+User gibt vor: "Prüfe Wirksamkeit der Kündigung." Der Skill
 fokussiert auf diese Frage und nimmt nur sehr offensichtlich
 verwandte Aspekte mit.
 
-### Offene Pruefung mit Piercing-Questions
+### Offene Prüfung mit Piercing-Questions
 
 Der Skill identifiziert selbst die rechtlich relevanten
 Fragestellungen. Piercing-Questions sind durchdringende Fragen die
@@ -157,12 +157,12 @@ Empfehlung des Skills: Erste Sichtung offen, Vertiefung gerichtet.
 
 ## Anti-Risiko-Hinweis
 
-Der Skill verfasst KEINE eigenstaendige Rechtsberatung. Der Output
+Der Skill verfasst KEINE eigenständige Rechtsberatung. Der Output
 ist ein Arbeitsentwurf zur kanzleiinternen Verwendung. Jede
 Sachverhaltsangabe jede Quellenreferenz und jede rechtliche
-Schlussfolgerung bedarf der eigenstaendigen Pruefung am Original.
+Schlussfolgerung bedarf der eigenständigen Prüfung am Original.
 
-Der pauschale Hinweis im Output ist Pflicht und nicht zu loeschen.
+Der pauschale Hinweis im Output ist Pflicht und nicht zu löschen.
 
 ## Output-Datei
 
@@ -173,30 +173,30 @@ Der pauschale Hinweis im Output ist Pflicht und nicht zu loeschen.
 
 ## Fortlaufende Aktualisierung
 
-Bei Nachlieferungen ergaenzt der Skill ein vorhandenes Memorandum.
+Bei Nachlieferungen ergänzt der Skill ein vorhandenes Memorandum.
 Neuzugaenge werden im Sachverhalt mit `[NEU]` markiert. Bisherige
-Tatsachen werden nicht stillschweigend ueberschrieben — Aenderungen
+Tatsachen werden nicht stillschweigend ueberschrieben — Änderungen
 werden in "Noch zu klaeren" sichtbar gemacht.
 
 ## Beispielformulierungen
 
 - "Hier sind alle Mandantenunterlagen zum Fall Mueller gegen ABC
-  GmbH. Erstelle ein Memorandum mit offener Pruefung und
+  GmbH. Erstelle ein Memorandum mit offener Prüfung und
   Piercing-Questions."
-- "Pruefe gerichtet die Wirksamkeit der Kuendigung vom fuenfzehnten
+- "Prüfe gerichtet die Wirksamkeit der Kündigung vom fünfzehnten
   Juni. Memorandum auf Kanzlei-Briefkopf."
 - "Hier ist das bisherige Memorandum und neue Korrespondenz vom
   letzten Monat. Aktualisiere bitte und markiere Neuzugaenge."
-- "Memorandum-Kurzversion fuer einfache Rechtsfrage zum
-  Gewaehrleistungsausschluss."
+- "Memorandum-Kurzversion für einfache Rechtsfrage zum
+  Gewährleistungsausschluss."
 
 ## Variationen
 
-- Kurzversion fuer einfache Einzelfragen
+- Kurzversion für einfache Einzelfragen
 - Ausfuehrliche Version mit Zeitleiste und Beteiligtenliste als
   Anhang
-- Gutachten-Version mit Alternativpruefungen und Risikoanalyse
-- Prozess-Version mit Beweiswuerdigung und Prozessrisikoanalyse
+- Gutachten-Version mit Alternativprüfungen und Risikoanalyse
+- Prozess-Version mit Beweiswürdigung und Prozessrisikoanalyse
 - Due-Diligence-Version mit Risikoklassifizierung
 - Mehrsprachige Unterlagen mit Uebersetzungshinweisen
 
@@ -204,5 +204,5 @@ werden in "Noch zu klaeren" sichtbar gemacht.
 
 Mandatsgeheimnis nach § 203 StGB und §§ 43a 43e BRAO sowie DSGVO
 sind zwingend zu beachten. Nur KI-Systeme mit entsprechender
-vertraglicher Zusicherung und tatsaechlicher Gewaehrleistung sind
-zulaessig. Der Skill weist im Output-Hinweis darauf hin.
+vertraglicher Zusicherung und tatsächlicher Gewährleistung sind
+zulässig. Der Skill weist im Output-Hinweis darauf hin.
