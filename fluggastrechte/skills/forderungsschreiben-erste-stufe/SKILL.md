@@ -143,3 +143,21 @@ Mit freundlichen Grüßen
 - `forderung-erste-stufe-<datum>.docx` und PDF.
 - Eintrag in Tagesnotizen — Reaktionsfrist ist vorgemerkt für Mahnung.
 - Hinweis: bei Reaktion der Airline auf Fall warten und Skill `airline-standardausreden-pruefen` ausführen.
+
+## Anlagen-Übergabe
+
+Unmittelbar nach Erstellung des Schreibens den Skill `fluggastrechte-anlagen-bauen` aufrufen.
+
+Übergabe-Schema:
+
+```yaml
+schriftsatz: forderung-erste-stufe-<datum>.docx
+rohbelege_verzeichnis: <fall>/belege/
+ausgabeverzeichnis: <fall>/anlagen/
+bundle: true   # erzeugt zusätzlich Schriftsatz_mit_Anlagen.pdf
+schriftgrad_stempel: 12
+schrift_stempel: Arial-Bold   # Arial 12 FETT oben rechts
+bezeichnung: "Anlage K"
+```
+
+Der Skill `fluggastrechte-anlagen-bauen` liest die im Schriftsatz erwähnten Anlagen in Reihenfolge der Erwähnung, konvertiert jede Rohdatei zu PDF, stempelt oben rechts in Arial 12 FETT (= Helvetica-Bold 12pt) den Bezeichner „Anlage K 1", „Anlage K 2" usw. und benennt die Ausgabedatei nach demselben Schema (`Anlage_K_1.pdf`). Optional wird ein Sammel-PDF mit Schriftsatz vorne und durchlaufenden Lesezeichen erzeugt.

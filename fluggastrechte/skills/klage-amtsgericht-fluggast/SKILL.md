@@ -216,9 +216,32 @@ K8 Vollmachten der Mitreisenden
 ## Ausgabe
 
 - `klage-fluggast-<datum>.docx` und PDF.
-- Anlagenkonvolut.
+- Anlagenkonvolut (siehe nächste Sektion).
 - Streitwert- und Kostenberechnung.
 - Hinweis zur Gerichtswahl Abflughafen / Zielflughafen / Niederlassungssitz.
+
+## Anlagen-Übergabe
+
+Unmittelbar nach Erstellung der Klageschrift den Skill `fluggastrechte-anlagen-bauen` aufrufen — ohne ordnungsgemäßes Anlagenkonvolut ist die Klage nicht einreichungsfähig.
+
+Übergabe-Schema:
+
+```yaml
+schriftsatz: klage-fluggast-<datum>.docx
+rohbelege_verzeichnis: <fall>/belege/
+ausgabeverzeichnis: <fall>/anlagen/
+bundle: true   # Pflicht — beA verlangt geschlossenes PDF
+schriftgrad_stempel: 12
+schrift_stempel: Arial-Bold
+bezeichnung: "Anlage K"
+```
+
+beA-Konvention:
+
+- Anlagen werden im beA als separate PDFs eingereicht, jeweils mit Stempel oben rechts in Arial 12 FETT.
+- Dateiname ohne Umlaute und ohne Leerzeichen: `Anlage_K_1.pdf`, `Anlage_K_2.pdf`, …
+- Reihenfolge muss der Erwähnung im Schriftsatz entsprechen — der Skill `fluggastrechte-anlagen-bauen` erzwingt dies.
+- Sammel-PDF `Schriftsatz_mit_Anlagen.pdf` zusätzlich erzeugen für eigenes Aktenexemplar.
 
 ## Hinweise
 

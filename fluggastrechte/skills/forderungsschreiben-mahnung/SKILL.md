@@ -95,3 +95,21 @@ Wenn die Airline mit einer typischen Begründung argumentiert siehe Skill
 
 - `mahnung-zweite-stufe-<datum>.docx` und PDF.
 - Eintrag im Tagesplan — Reaktionsfrist gesetzt.
+
+## Anlagen-Übergabe
+
+Unmittelbar nach Erstellung des Schreibens den Skill `fluggastrechte-anlagen-bauen` aufrufen.
+
+Übergabe-Schema:
+
+```yaml
+schriftsatz: mahnung-zweite-stufe-<datum>.docx
+rohbelege_verzeichnis: <fall>/belege/
+ausgabeverzeichnis: <fall>/anlagen/
+bundle: true
+schriftgrad_stempel: 12
+schrift_stempel: Arial-Bold
+bezeichnung: "Anlage K"
+```
+
+Wichtig: Die Mahnung nimmt regelmäßig dieselben Anlagen wie das Erstschreiben in Bezug **plus** das erste Forderungsschreiben selbst und ggf. die Antwort der Airline. Vor Übergabe sicherstellen, dass im Schriftsatz alle benötigten Anlagen mit „Anlage K N" benannt sind — der Skill zieht die Reihenfolge aus dem Text.
