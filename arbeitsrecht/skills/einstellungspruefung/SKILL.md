@@ -88,7 +88,7 @@ Falls Betriebsrat vorhanden: § 99 BetrVG – Zustimmung vor jeder Einstellung (
 
 ## Quellen und Zitierweise
 
-Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-deutsches-recht.md`.
+Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-buergerliches-recht.md`.
 
 Wesentliche Quellen:
 - Müller-Glöge, in: ErfK, 24. Aufl. 2024, § 14 TzBfG (Befristungsrecht umfassend)

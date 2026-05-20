@@ -153,5 +153,5 @@ Ernst, in: MüKoBGB, 9. Aufl. 2022, § 280 Rn. 154; Grüneberg/Grüneberg, BGB, 
 - **Urteilsstil statt Gutachtenstil:** Der Obersatz muss hypothetisch sein. „A hat einen Anspruch" ist Urteilsstil – falsch für Klausuren.
 - **h.M. ohne Beleg:** „nach h.M." allein ist kein Argument. Kommentarstelle oder BGH-Urteil nennen.
 - **Scheinprobleme ignorieren:** Examsklausuren enthalten bewusste Ablenkungen. Offensichtlich vorliegende Tatbestandsmerkmale kurz abarbeiten, nicht übergehen.
-- **Konkurrenzprobleme:** Reihenfolge der Anspruchsgrundlagen (vertraglich vor außervertraglich) beachten – vgl. `../references/methodik-deutsches-recht.md`.
+- **Konkurrenzprobleme:** Reihenfolge der Anspruchsgrundlagen (vertraglich vor außervertraglich) beachten – vgl. `../references/methodik-buergerliches-recht.md`.
 - **Fehlende Fundstellen im Gutachten:** Im 1. StEx ist das Fehlen von Kommentarzitaten ein Bewertungsminus.

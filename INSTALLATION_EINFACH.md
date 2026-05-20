@@ -42,7 +42,7 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 | `tabellenreview-3d.zip`                   | 3D-Tabellenreview-Würfel: Spaltenprompts × Zeilenprompts × Tabellenformeln                                                 |
 | `verlagsredaktion.zip`                    | Redaktioneller Assistent für juristische Publikationen                                                                     |
 | `nda-abgleich.zip`                        | NDA-Review aus Empfängersicht, Markup mit Begründungen                                                                     |
-| `methodenlehre-deutsches-recht.zip`       | Gutachten- vor Urteilsstil, juristische Methodenlehre                                                                      |
+| `methodenlehre-buergerliches-recht.zip`       | Gutachten- vor Urteilsstil, juristische Methodenlehre                                                                      |
 | `zitierweise-deutsches-recht.zip`         | Deutsche Hauszitierweise (Datum + Aktenzeichen, BGHZ-Pinpoint mit Randnummer)                                              |
 
 ### Wirtschaft, Insolvenz, Sanierung

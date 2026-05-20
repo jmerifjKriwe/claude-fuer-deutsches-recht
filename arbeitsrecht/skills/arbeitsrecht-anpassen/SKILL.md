@@ -52,7 +52,7 @@ Die geänderte Konfiguration zurückschreiben und dem Nutzer mitteilen, was geä
 
 ## Quellen und Zitierweise
 
-Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-deutsches-recht.md`.
+Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-buergerliches-recht.md`.
 
 Relevante Normen je nach Änderungsbereich:
 - Neues Bundesland: Landesurlaubsgesetze, LDSG des Landes, ggf. Tarifvertrag mit Landesbezug

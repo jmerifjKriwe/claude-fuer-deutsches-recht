@@ -97,7 +97,7 @@ Wenn der Auftragnehmer nach Weisungen des Auftraggebers in dessen Betrieb eingeg
 
 ## Quellen und Zitierweise
 
-Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-deutsches-recht.md`.
+Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-buergerliches-recht.md`.
 
 Wesentliche Quellen:
 - Wank, in: ErfK, 24. Aufl. 2024, § 611a BGB Rn. 1 ff. (Arbeitnehmerbegriff)

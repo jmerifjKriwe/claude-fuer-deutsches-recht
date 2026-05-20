@@ -148,10 +148,10 @@ Diese Sammlung lässt sich u. a. in Claude Code, Claude Desktop und vergleichbar
 
 > 🧭 **Querschnitts-Plugins zum Mitladen:** Zwei Plugins liefern die methodische Grundlage, die in den anderen Plugins vorausgesetzt wird. Sie gehören in jede Konfiguration mit hinein, weil sie den deutschen Stil tragen:
 >
-> - [`methodenlehre-deutsches-recht`](./methodenlehre-deutsches-recht) — Gutachten- vor Urteilsstil, Anspruchsgrundlagen-Reihenfolge, Auslegung nach Wortlaut/Systematik/Historie/Telos, unionsrechtskonforme Auslegung. Definiert die juristische Denk- und Prüfungsreihenfolge für alle Skills.
+> - [`methodenlehre-buergerliches-recht`](./methodenlehre-buergerliches-recht) — Methodenlehre und Falllösung im deutschen bürgerlichen Recht aus Anwaltsperspektive. Gutachtenstil, Anspruchsgrundlagen-Reihenfolge, Auslegung Wortlaut/Systematik/Historie/Telos ohne starre Rangfolge (pragmatische BGH-Praxis), unions- und verfassungskonforme Auslegung, Rechtsfortbildung als reales Werkzeug. Breaking Change in v3.0: umbenannt von `methodenlehre-deutsches-recht`.
 > - [`zitierweise-deutsches-recht`](./zitierweise-deutsches-recht) — Hauszitierweise mit Pinpoint-Randnummer, Grüneberg/MüKo-Regel, BGH-/Beck-Stil, Typografiestandards. Pflicht-Checkliste vor jeder Ausgabe.
 >
-> Beide Plugins sind in jedem Modus (Claude Code, Cowork, Desktop) einzeln zuschaltbar und greifen quer in alle Rechtsgebiets-Plugins ein. Wer mit dem Marketplace startet, sollte diese beiden zuerst aktivieren — alle anderen Skills referenzieren ihre Regeln (siehe [`references/methodik-deutsches-recht.md`](./references/methodik-deutsches-recht.md) und [`references/zitierweise.md`](./references/zitierweise.md)).
+> Beide Plugins sind in jedem Modus (Claude Code, Cowork, Desktop) einzeln zuschaltbar und greifen quer in alle Rechtsgebiets-Plugins ein. Wer mit dem Marketplace startet, sollte diese beiden zuerst aktivieren — alle anderen Skills referenzieren ihre Regeln (siehe [`references/methodik-buergerliches-recht.md`](./references/methodik-buergerliches-recht.md) und [`references/zitierweise.md`](./references/zitierweise.md)).
 
 > 🧪 **Testakten zum Ausprobieren:** Im Ordner [`testakten/`](./testakten) liegen sechs umfangreiche, fiktive Mandatsakten mit echten PDFs, Excel-Tabellen, Word-Entwürfen und Mandantennotizen — bewusst unstrukturiert benannt wie ein realer Datenraum. Eine Akte pro typischem Anwendungsfall: Fluggastrechte (Familie Bräutigam-Zaytuna), Betreuung (Frau Sauer, 87, Demenz), Sozialrecht (Herr Tannenberg, Rollstuhl-Ablehnung), Fortbestehensprognose (Paragrafix GmbH, Legal-AI-Startup Berlin-Moabit), Kanzlei-Lebenszyklus-Alltag plus die bestehende Insolvenzakte Edelholz Berlin. Jede Akte ist als eigenes ZIP am Release angehängt und wird **nicht** mit den Plugins ausgeliefert. Details und Direkt-Downloads im [Testakten-README](./testakten/README.md).
 
@@ -165,17 +165,24 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`berufsrecht-ki-vertragspruefung`](./berufsrecht-ki-vertragspruefung) | Berufsrechtliche und strafrechtliche Vorprüfung von Verträgen mit privaten Legal-AI-Anbietern. Für Rechtsanwälte, Steuerberater, Wirtschaftsprüfer, Patentanwälte, Notare. §§ 43e BRAO, 62a StBerG, 50a WPO, 39c PAO, 26a BNotO i.V.m. § 203 StGB. Maßstab DAV-Stellungnahme Nr. 32/2025. Gutachten, Rückfragebrief, Klauselvorschläge. |
 | [`betreuungsrecht`](./betreuungsrecht) | Skills für berufliche Betreuer nach BtOG und §§ 1814 ff. BGB (Reform 2023): Jahresbericht ans Betreuungsgericht (§ 1863 BGB), Vermögensverzeichnis und Rechnungslegung (§§ 1835, 1865 BGB), Genehmigungspflicht-Prüfung (§§ 1848 ff., 1831, 1832 BGB). |
 | [`datenschutzrecht`](./datenschutzrecht) | DSGVO, BDSG, TTDSG, Auskunft, Datenpanne, AVV. |
-| [**Übersicht Fachanwaltschaften**](https://klotzkette.github.io/claude-fuer-deutsches-recht/) | Hinweis und Linksammlung: tabellarische Übersicht aller 17 Fachanwalts-Plugins mit Direktlinks ins jeweilige Plugin-Verzeichnis, Skills und Release-Download (GitHub Pages, gehostet aus `uebersicht-fachanwaltschaften/index.html`). |
+| [**Übersicht Fachanwaltschaften**](https://klotzkette.github.io/claude-fuer-deutsches-recht/) | Hinweis und Linksammlung: tabellarische Übersicht aller 24 Fachanwalts-Plugins mit Direktlinks ins jeweilige Plugin-Verzeichnis, Skills und Release-Download (GitHub Pages, gehostet aus `uebersicht-fachanwaltschaften/index.html`). |
 | [`fachanwalt-agrarrecht`](./fachanwalt-agrarrecht) | Light-Touch-Plugin Fachanwalt für Agrarrecht. Höfeordnung, Anerbenrechte, Landpachtrecht (BGB §§ 581 ff.), GrdstVG, EU-GAP-Direktzahlungen, Cross-Compliance, Düngeverordnung, Pflanzenschutz, Tierschutz, Forstrecht. |
+| [`fachanwalt-arbeitsrecht`](./fachanwalt-arbeitsrecht) | Light-Touch-Plugin Fachanwalt für Arbeitsrecht nach FAO § 10. KSchG Kündigungsschutzklage Frist drei Wochen § 4 KSchG, BetrVG Betriebsratsanhörung § 102, TzBfG Befristung, AGG. Schnittstellen zu `arbeitsrecht` und `kanzlei-cowork`. |
 | [`fachanwalt-bank-kapitalmarktrecht`](./fachanwalt-bank-kapitalmarktrecht) | Light-Touch-Plugin Fachanwalt für Bank- und Kapitalmarktrecht. KWG, ZAG, WpHG, WpIG, MiFID II, MAR Marktmissbrauch, MiCAR, Verbraucherkredit, Vermögensanlage, Beratungshaftung. |
 | [`fachanwalt-bau-architektenrecht`](./fachanwalt-bau-architektenrecht) | Light-Touch-Plugin Fachanwalt für Bau- und Architektenrecht. BGB Werkvertragsrecht §§ 650a ff. Bauvertrag, VOB/A, VOB/B, VOB/C, HOAI, Bauordnungsrecht der Länder. |
 | [`fachanwalt-erbrecht`](./fachanwalt-erbrecht) | Light-Touch-Plugin Fachanwalt für Erbrecht. BGB Erbrecht §§ 1922 ff., Pflichtteil, Testament, Erbschein, Erbauseinandersetzung, Erbschaft- und Schenkungsteuer (ErbStG), EU-ErbVO. |
 | [`fachanwalt-familienrecht`](./fachanwalt-familienrecht) | Light-Touch-Plugin Fachanwalt für Familienrecht. Familiengericht, FamFG, Scheidung, Sorgerecht, Umgangsrecht, Unterhalt, Zugewinn, Ehevertrag. |
+| [`fachanwalt-gewerblicher-rechtsschutz`](./fachanwalt-gewerblicher-rechtsschutz) | Light-Touch-Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG, DesignG, UWG, PatG, GebrMG, UrhG-Bezüge. Markenanmeldung DPMA EUIPO, UWG-Abmahnung §§ 8 ff. UWG, Designverletzung, einstweilige Verfügung, lizenzanaloger Schadensersatz. |
+| [`fachanwalt-handels-gesellschaftsrecht`](./fachanwalt-handels-gesellschaftsrecht) | Light-Touch-Plugin Fachanwalt für Handels- und Gesellschaftsrecht nach FAO § 14i. HGB, AktG, GmbHG, PartGG, UmwG. Geschäftsführerhaftung §§ 43 GmbHG, 93 AktG, Gesellschafterstreit Beschlussanfechtung, Handelsvertreterausgleich § 89b HGB, MoPeG-GbR seit 2024. |
+| [`fachanwalt-insolvenz-sanierungsrecht`](./fachanwalt-insolvenz-sanierungsrecht) | Light-Touch-Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO § 14. InsO Eröffnung, Antragspflicht § 15a, Gläubigerantrag § 14 InsO, StaRUG Restrukturierungsplan, Insolvenzanfechtung §§ 129 ff. InsO. Schnittstellen zu `insolvenzrecht` und `steuerrecht-kanzlei`. |
 | [`fachanwalt-internationales-wirtschaftsrecht`](./fachanwalt-internationales-wirtschaftsrecht) | Light-Touch-Plugin Fachanwalt für Internationales Wirtschaftsrecht. CISG, Brüssel Ia, Rom I, Rom II, grenzüberschreitende Vertragspraxis, Schiedsverfahren (ICC, UNCITRAL), Investitionsschutz (ICSID), WTO, EU-Außenhandel, LkSG. |
 | [`fachanwalt-it-recht`](./fachanwalt-it-recht) | Light-Touch-Plugin Fachanwalt für IT-Recht. SaaS-Verträge, Software-Lizenz, DSGVO/BDSG/TTDSG, TKG, NIS2, DDG, Open-Source-Compliance, Plattformhaftung (DSA, DMA), EU-KI-VO. |
 | [`fachanwalt-medizinrecht`](./fachanwalt-medizinrecht) | Light-Touch-Plugin Fachanwalt für Medizinrecht. Arzthaftung §§ 630a ff. BGB, Patientenrechte, Vertragsarztrecht, Berufsrecht Ärzte und Heilberufe, SGB V, MPDG, Apothekenrecht. |
+| [`fachanwalt-miet-wohnungseigentumsrecht`](./fachanwalt-miet-wohnungseigentumsrecht) | Light-Touch-Plugin Fachanwalt für Miet- und Wohnungseigentumsrecht nach FAO § 14e. BGB §§ 535 ff. Wohnraum- und Gewerberaummiete, Mieterhöhung §§ 558 ff., Kündigung §§ 543, 569, 573 BGB, WEG-Beschlussanfechtung § 44 WEG, BetrKV. |
 | [`fachanwalt-migrationsrecht`](./fachanwalt-migrationsrecht) | Light-Touch-Plugin Fachanwalt für Migrationsrecht. AufenthG, AsylG, GFK, Dublin-VO, EU-Verfahrensrichtlinie, Qualifikations-RL, StAG Einbürgerung, Aufenthaltsverfestigung, Familiennachzug. Notfrist § 36 AsylG (eine Woche). |
+| [`fachanwalt-sozialrecht`](./fachanwalt-sozialrecht) | Light-Touch-Plugin Fachanwalt für Sozialrecht nach FAO § 11. SGB I bis XII, Sozialgerichtsbarkeit SGG, Widerspruch § 84 SGG (Monatsfrist), Klage Sozialgericht § 87 SGG, Erwerbsminderungsrente, SGB II Bürgergeld-Bescheid. Schnittstellen zu `sozialrecht-kanzlei`. |
 | [`fachanwalt-sportrecht`](./fachanwalt-sportrecht) | Light-Touch-Plugin Fachanwalt für Sportrecht. Verbandsrecht der Sportverbände (DFB, FIFA, UEFA, IOC, DOSB), CAS-Schiedsverfahren, Spielerverträge, Doping (WADA-Code, NADA), Sponsoring, Persönlichkeitsrechte Sportler, Veranstalterhaftung. |
+| [`fachanwalt-steuerrecht`](./fachanwalt-steuerrecht) | Light-Touch-Plugin Fachanwalt für Steuerrecht nach FAO § 9. AO Einspruch, Stundung, Vollstreckungsaufschub, Außenprüfung Schlussbesprechung, Steuerstrafrecht Selbstanzeige § 371 AO. Schnittstellen zu `steuerrecht-kanzlei` und `kanzlei-cowork`. |
 | [`fachanwalt-strafrecht`](./fachanwalt-strafrecht) | Light-Touch-Plugin Fachanwalt für Strafrecht. StPO, StGB, Nebenstrafrecht. Strafverteidigung, Ermittlungsverfahren, Hauptverhandlung, Berufung, Revision, Verfassungsbeschwerde. Ergänzend zum Plugin `aktenaufbereiter-strafrecht`. |
 | [`fachanwalt-transport-speditionsrecht`](./fachanwalt-transport-speditionsrecht) | Light-Touch-Plugin Fachanwalt für Transport- und Speditionsrecht. HGB §§ 407 ff. Frachtvertrag, §§ 425 ff. Haftung, §§ 453 ff. Speditionsvertrag, CMR, COTIF, Montrealer Übereinkommen, Haager Visby Regeln, ADSp. |
 | [`fachanwalt-urheber-medienrecht`](./fachanwalt-urheber-medienrecht) | Light-Touch-Plugin Fachanwalt für Urheber- und Medienrecht. UrhG, VGG Verwertungsgesellschaften, KUG Recht am eigenen Bild, Presserecht, Persönlichkeitsrecht, Medienstaatsvertrag, InfoSoc-RL, DSM-RL. |
@@ -198,7 +205,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`ki-governance`](./ki-governance) | EU-KI-VO, KI-Inventar, AIA, Vendor Review. |
 | [`liquiditaetsplanung`](./liquiditaetsplanung) | Bündel-Plugin für die rollierende Liquiditätsplanung: 3-Wochen-Test § 17 InsO (BGH BGHZ 163, 134), 13/26/52-Wochen-Forecast mit Ampel, Fortführungsprognose IDW S 6/S 11 und insolvenzrechtliche Liquiditätsbilanz. Verweist auf die Skills in `steuerberater-werkzeuge` und `insolvenzrecht`. |
 | [`memorandums-ersteller`](./memorandums-ersteller) | Wandelt Mandantenunterlagen in ein juristisches Memorandum mit Vier-Teile-Gliederung: Sachverhalt mit Quellenreferenz, Rechtsfrage, rechtliche Würdigung, Ergebnis und Empfehlung. |
-| [`methodenlehre-deutsches-recht`](./methodenlehre-deutsches-recht) | Deutsche juristische Methodenlehre als zuschaltbares Plugin. Gutachten- vor Urteilsstil, Anspruchsgrundlagen-Reihenfolge, Auslegung nach Wortlaut/Systematik/Historie/Telos, unionsrechtskonforme Auslegung. |
+| [`methodenlehre-buergerliches-recht`](./methodenlehre-buergerliches-recht) | Methodenlehre und Falllösung im deutschen bürgerlichen Recht aus Anwaltsperspektive. Gutachtenstil, Anspruchsgrundlagen-Reihenfolge, Auslegung Wortlaut/Systematik/Historie/Telos pragmatisch ohne starre Rangfolge (BGH-Praxis), unions- und verfassungskonforme Auslegung, Rechtsfortbildung. Breaking Change in v3.0 umbenannt. |
 | [`mietrecht`](./mietrecht) | Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitätsstädte. Acht Skills: Datenerhebung, Mieterhöhungs-Widerspruch, Mietsenkungsverlangen, Nebenkostenprüfung, Mieteranfragen, Klageentwurf Amtsgericht. |
 | [`nda-abgleich`](./nda-abgleich) | NDA-Verhandlungshilfe für die empfangende Seite. Modus A: Standard-Destillation aus 1–n NDAs. Modus B: Redlining gegen den eigenen Standard. |
 | [`patentrecherche`](./patentrecherche) | Patentrecherche für Patentanwälte – agentisch in Espacenet, Google Patents, DPMAregister, DEPATISnet, EPO Register, WIPO PATENTSCOPE, USPTO. Stand der Technik, Neuheit (§ 3 PatG, Art. 54 EPÜ), erfinderische Tätigkeit (§ 4 PatG, Art. 56 EPÜ) im Problem-Solution-Approach, Freedom-to-Operate, CPC-/IPC-Klassifikation, INPADOC-Patentfamilie, Recherchebericht. |
@@ -218,7 +225,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 Zusätzlich:
 - [`verwaltete-agentenrezepte`](./verwaltete-agentenrezepte) – wiederverwendbare Vorlagen für Multi-Agent-Arbeitsabläufe (Aufsichts-Monitor, Gerichtskalender-Monitor, Verlängerungs-Monitor, Due-Diligence-Tabelle).
 - [`references/zitierweise.md`](./references/zitierweise.md) – die deutsche Zitierweise (BGH-Stil), an der sich alle Skills orientieren.
-- [`references/methodik-deutsches-recht.md`](./references/methodik-deutsches-recht.md) – Methodenlehre, Anspruchsgrundlagenreihenfolge, Beweislast, Fristen.
+- [`references/methodik-buergerliches-recht.md`](./references/methodik-buergerliches-recht.md) – Methodenlehre, Anspruchsgrundlagenreihenfolge, Beweislast, Fristen.
 
 ## Reifegrade der Plugins
 
@@ -226,7 +233,7 @@ Die Plugins unterscheiden sich darin, wie weit ihre Werkzeugkette über reinen S
 
 | Reifegrad | Bedeutung | Beispiele |
 |---|---|---|
-| **L1 — skilltext-only** | Skill liefert strukturierte Texte (Schreiben, Schriftsätze, Memos, Gutachten-Skizzen). Keine eigenen Werkzeuge. | Großteil der 17 Fachanwalts-Plugins (`fachanwalt-erbrecht`, `fachanwalt-arbeitsrecht`, …), `methodenlehre-deutsches-recht`, `zitierweise-deutsches-recht`, `jurastudium`. |
+| **L1 — skilltext-only** | Skill liefert strukturierte Texte (Schreiben, Schriftsätze, Memos, Gutachten-Skizzen). Keine eigenen Werkzeuge. | Großteil der 24 Fachanwalts-Plugins (`fachanwalt-erbrecht`, `fachanwalt-arbeitsrecht`, …), `methodenlehre-buergerliches-recht`, `zitierweise-deutsches-recht`, `jurastudium`. |
 | **L2 — mit Werkzeugen** | Skill ruft Python- oder XLSX-Werkzeuge im Plugin-Ordner auf, die kalkulieren, Dateien bauen oder Vorlagen generieren. | `liquiditaetsplanung`, `insolvenzrecht`, `steuerberater-werkzeuge` (build_liquiditaetsplan.py); `anlagen-zu-schriftsaetzen` (build_anlagenkonvolut.py); `kanzlei-cowork/rechnungserstellung-rvg` (rvg_gebuehrenrechner.py); `forderungsmanagement-klagewerkstatt` (verzugszins_rechner.py); `aktenaufbereiter-strafrecht` (aktenuebersicht_template.xlsx). |
 | **L3 — mit Tests** | Plugin ist zusätzlich durch einen Smoke-Test in [`tests/smoke-tests.md`](./tests/smoke-tests.md) abgedeckt — Eingang, Kaltstart-Skill, erwarteter Output, Abbruchkriterium. | Aktuell: `liquiditaetsplanung`, `insolvenzrecht`, `fluggastrechte`, `sozialrecht`, `betreuungsrecht`, `berufsrecht-ki-vertragspruefung`, `anlagen-zu-schriftsaetzen`, `forderungsmanagement-klagewerkstatt`, `kanzlei-cowork`. |
 
@@ -352,9 +359,9 @@ Pflicht: Datum + Aktenzeichen + Fundstelle + Randnummer bei Rspr.; Bearbeiter + 
 
 ### Methodenlehre und Zitierweise als zuschaltbare Plugins
 
-Die Inhalte aus [`references/methodik-deutsches-recht.md`](./references/methodik-deutsches-recht.md) und [`references/zitierweise.md`](./references/zitierweise.md) liegen zusätzlich als zwei eigenständige, einzeln aktivierbare Plugins im Marketplace:
+Die Inhalte aus [`references/methodik-buergerliches-recht.md`](./references/methodik-buergerliches-recht.md) und [`references/zitierweise.md`](./references/zitierweise.md) liegen zusätzlich als zwei eigenständige, einzeln aktivierbare Plugins im Marketplace:
 
-- [`methodenlehre-deutsches-recht`](./methodenlehre-deutsches-recht) — Gutachten- vor Urteilsstil, Anspruchsgrundlagen-Reihenfolge, Auslegungskanones mit Vorrang der historischen Methode, Generalklauseln nur als Auffang, Rüthers-Warnung vor unbegrenzter Auslegung.
+- [`methodenlehre-buergerliches-recht`](./methodenlehre-buergerliches-recht) — Gutachtenstil, Anspruchsgrundlagen-Reihenfolge, Auslegungskanones ohne starre Rangfolge (pragmatische BGH-Praxis: Teleologie dominiert), Generalklauseln und Rechtsfortbildung als reale Werkzeuge.
 - [`zitierweise-deutsches-recht`](./zitierweise-deutsches-recht) — Hauszitierweise mit Pinpoint-Randnummer, Palandt/Grüneberg-Regel, Typografiestandards, Pflicht-Checkliste vor jeder Ausgabe.
 
 Beide Plugins enthalten die gleichen Inhalte wie die Referenzdateien, sind aber als Skill ausgeführt: Sobald sie in Cowork aktiviert sind, gilt die Methodik bzw. die Zitierweise als ausdrückliche Pflicht für jede Antwort — unabhängig davon, ob ein Rechtsgebietsplugin geladen ist.
@@ -463,10 +470,10 @@ Einige Plugins verweisen in ihren Skills auf Skills oder Pläne **anderer** Plug
 
 Zwei zentrale Methodik- und Zitierreferenzen liegen **doppelt** im Repo:
 
-- `references/methodik-deutsches-recht.md` und `methodenlehre-deutsches-recht/references/methodik-deutsches-recht.md`
+- `references/methodik-buergerliches-recht.md` und `methodenlehre-buergerliches-recht/references/methodik-buergerliches-recht.md`
 - `references/zitierweise.md` und `zitierweise-deutsches-recht/references/zitierweise.md`
 
-Das ist gewollt: Die Querschnittsplugins `methodenlehre-deutsches-recht` und `zitierweise-deutsches-recht` werden auch einzeln als ZIP ausgeliefert und müssen autark sein. Wer die Repo-Root-Datei ändert, muss den Spiegel im Plugin-Ordner mitziehen, sonst driften die Plugins gegen die anderen Skills, die per relativem Pfad auf die Root-Referenz zeigen. Dafür gibt es ein Hilfsskript:
+Das ist gewollt: Die Querschnittsplugins `methodenlehre-buergerliches-recht` und `zitierweise-deutsches-recht` werden auch einzeln als ZIP ausgeliefert und müssen autark sein. Wer die Repo-Root-Datei ändert, muss den Spiegel im Plugin-Ordner mitziehen, sonst driften die Plugins gegen die anderen Skills, die per relativem Pfad auf die Root-Referenz zeigen. Dafür gibt es ein Hilfsskript:
 
 ```bash
 python3 scripts/sync-references.py

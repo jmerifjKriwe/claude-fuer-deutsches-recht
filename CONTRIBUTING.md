@@ -6,7 +6,7 @@ Beiträge sind willkommen – insbesondere zu neuen Rechtsgebieten, aktuelleren 
 
 - [ ] Sprache deutsch.
 - [ ] Zitierweise nach [`references/zitierweise.md`](./references/zitierweise.md).
-- [ ] Methodik nach [`references/methodik-deutsches-recht.md`](./references/methodik-deutsches-recht.md).
+- [ ] Methodik nach [`references/methodik-buergerliches-recht.md`](./references/methodik-buergerliches-recht.md).
 - [ ] Skill-Frontmatter vollständig (`name`, `description`, `when_to_use`).
 - [ ] Skills sind kanzleitauglich (reproduzierbar, mit Quellenpflicht, mit Fristlogik wo relevant).
 - [ ] Keine Mandantendaten / personenbezogene Daten im Beispiel.
@@ -35,7 +35,7 @@ when_to_use: |
 
 1. Skill-Verzeichnis anlegen.
 2. SKILL.md mit Frontmatter, Ablauf, Beispielen, Quellen.
-3. Auf `references/zitierweise.md` und `references/methodik-deutsches-recht.md` verlinken.
+3. Auf `references/zitierweise.md` und `references/methodik-buergerliches-recht.md` verlinken.
 4. Eintrag in `references/rechtsgebiete-uebersicht.md` ergänzen.
 5. PR mit kurzer Begründung.
 

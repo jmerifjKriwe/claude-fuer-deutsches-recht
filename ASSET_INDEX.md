@@ -57,7 +57,7 @@ Alphabetisch wie in `marketplace.json`. URL-Schema:
 | `ki-governance`                              | EU-KI-VO + DSGVO, KI-Inventar, Vendor-Review                                           |
 | `liquiditaetsplanung`                        | 3-Wochen-Vorschau, 13/26/52-Wochen-Planung, BGH-Schema Passiva II                      |
 | `memorandums-ersteller`                      | Mandantenunterlagen → juristisches Memorandum                                          |
-| `methodenlehre-deutsches-recht`              | Gutachten- vor Urteilsstil                                                             |
+| `methodenlehre-buergerliches-recht`              | Gutachten- vor Urteilsstil                                                             |
 | `mietrecht`                                  | Mietspiegel-Quellen, Mieterhöhung, Eigenbedarf                                         |
 | `nda-abgleich`                               | NDA-Review aus Empfängersicht                                                          |
 | `patentrecherche`                            | Espacenet, Google Patents, DPMAregister                                                |

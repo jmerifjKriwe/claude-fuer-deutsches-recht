@@ -52,7 +52,7 @@ Das Plugin verwendet **ausschließlich** das deutsche Vier-Schritte-Schema. IRAC
 
 ## Anspruchsgrundlagen-Reihenfolge
 
-Die Reihenfolge ist nicht beliebig – vgl. `../references/methodik-deutsches-recht.md`:
+Die Reihenfolge ist nicht beliebig – vgl. `../references/methodik-buergerliches-recht.md`:
 
 1. Vertragliche Ansprüche (§§ 433, 535, 611 ff. BGB; Vertrag mit Schutzwirkung zugunsten Dritter)
 2. Vorvertragliche Ansprüche aus c.i.c. (§§ 311 Abs. 2, 311 Abs. 3, 241 Abs. 2, 280 Abs. 1 BGB)

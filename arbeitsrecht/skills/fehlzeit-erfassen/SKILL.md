@@ -93,7 +93,7 @@ Register-Eintrag anlegen in `~/.claude/plugins/config/claude-fuer-deutsches-rech
 
 ## Quellen und Zitierweise
 
-Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-deutsches-recht.md`.
+Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-buergerliches-recht.md`.
 
 - § 3 EFZG (6-Wochen-Fortzahlung), § 5 EFZG (Nachweispflicht)
 - § 3, 7 BUrlG (Mindesturlaub, Übertragung, Verfall)

@@ -59,7 +59,7 @@ Keine langen Statustabellen – nur Fälle mit Handlungsbedarf, jeweils mit eine
 
 ## Quellen und Zitierweise
 
-Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-deutsches-recht.md`.
+Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-buergerliches-recht.md`.
 
 Wesentliche Quellen:
 - Reinhard, in: ErfK, 24. Aufl. 2024, BUrlG § 7 Rn. 1 ff.

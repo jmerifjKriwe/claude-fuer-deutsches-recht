@@ -87,7 +87,7 @@ Andere Plugin-Descriptions sind 270–300 Zeichen. `liquiditaetsplanung` ist das
 `references/zitierweise.md` existiert in **drei** Versionen:
 - `references/zitierweise.md` (Repo-Root)
 - `zitierweise-deutsches-recht/references/zitierweise.md`
-- (Plus impliziert in `methodenlehre-deutsches-recht/references/methodik-deutsches-recht.md` mit Kreuzverweisen)
+- (Plus impliziert in `methodenlehre-buergerliches-recht/references/methodik-buergerliches-recht.md` mit Kreuzverweisen)
 
 Ohne automatischen Sync-Hook (es gibt `scripts/sync-references.py`, aber kein CI-Pre-Commit) divergieren die Versionen schleichend.
 
@@ -168,7 +168,7 @@ Ein einziges `fachanwaltschaften-orientierung`-Plugin mit 17 Sub-Skills (`fachan
 `kanzlei-cowork`, `mietrecht`, `verfassungsrecht`, `tabellenreview-3d`, `immobilienrechtspraxis` haben mehrere Skills, aber keinen Setup-Skill. Standardvorlage existiert (z. B. aus `sozialrecht-kanzlei`).
 
 ### 11. Plugin-Bundles im Marketplace einführen (Aufwand: 1 h)
-Marketplace-Eintrag pro thematisches Bundle: "Sozialrechtskanzlei-Komplett" = `sozialrecht-kanzlei + kanzlei-cowork + zitierweise-deutsches-recht + methodenlehre-deutsches-recht`. Solo-Installation eines Bundles statt vier einzelner Plugins.
+Marketplace-Eintrag pro thematisches Bundle: "Sozialrechtskanzlei-Komplett" = `sozialrecht-kanzlei + kanzlei-cowork + zitierweise-deutsches-recht + methodenlehre-buergerliches-recht`. Solo-Installation eines Bundles statt vier einzelner Plugins.
 
 ### 12. Mietspiegel-Skill konkret aufwerten (Aufwand: 2 h)
 Statt nur Verweis-Trampolin: konkrete Schritt-für-Schritt-Anleitung "Adresse eingeben → richtigen Mietspiegel finden → Spanne ablesen → ortsuebliche Vergleichsmiete bestimmen". Der Reference-Inhalt liegt schon vor.

@@ -101,7 +101,7 @@ Einschlägige Normen für die Eskalationstabelle:
 - KSchG § 15 (Sonderkündigungsschutz BR-Mitglieder)
 - BDSG § 26 (Beschäftigtendatenschutz)
 
-Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-deutsches-recht.md`.
+Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-buergerliches-recht.md`.
 
 ## Ausgabeformat
 

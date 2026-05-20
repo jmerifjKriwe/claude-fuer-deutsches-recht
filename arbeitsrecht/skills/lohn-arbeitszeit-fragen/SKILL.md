@@ -85,7 +85,7 @@ Frage des Nutzers beantworten:
 
 ## Quellen und Zitierweise
 
-Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-deutsches-recht.md`.
+Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-buergerliches-recht.md`.
 
 Wesentliche Quellen:
 - Baeck/Deutsch/Winzer, in: ErfK, 24. Aufl. 2024, ArbZG § 3 Rn. 1 ff.

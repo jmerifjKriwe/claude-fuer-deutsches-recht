@@ -134,7 +134,7 @@ Für eine vollständige Bearbeitung werden benötigt:
 
 ## Ausgabeformat
 
-**Standardausgabe:** Rechtliches Memo im Gutachtenstil (vgl. references/methodik-deutsches-recht.md Ziff. 6):
+**Standardausgabe:** Rechtliches Memo im Gutachtenstil (vgl. references/methodik-buergerliches-recht.md Ziff. 6):
 1. Sachverhalt
 2. Frage
 3. Ergebnis (1 Satz)

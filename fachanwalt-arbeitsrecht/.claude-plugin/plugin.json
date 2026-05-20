@@ -1,0 +1,22 @@
+{
+  "name": "fachanwalt-arbeitsrecht",
+  "version": "2.2.4",
+  "description": "Light-Touch-Plugin Fachanwalt fuer Arbeitsrecht nach FAO § 10. KSchG Kuendigungsschutzklage Frist drei Wochen § 4 KSchG. BetrVG Betriebsratsanhoerung § 102. TzBfG Befristung. AGG. Schnittstellen arbeitsrecht und kanzlei-cowork.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "arbeitsrecht",
+    "fachanwalt",
+    "kuendigungsschutz",
+    "kschg",
+    "betriebsverfassung",
+    "betrvg",
+    "tzbfg",
+    "befristung",
+    "agg",
+    "fao-paragraf-10"
+  ]
+}

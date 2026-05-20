@@ -62,7 +62,7 @@ Lerneffekte, die mehrere Mandate betreffen, werden in die Kanzlei-CLAUDE.md gesc
 
 ## Quellen und Zitierweise
 
-Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-deutsches-recht.md`.
+Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-buergerliches-recht.md`.
 
 - § 43a Abs. 2 BRAO (Verschwiegenheitspflicht des Rechtsanwalts)
 - § 203 StGB (Verletzung von Privatgeheimnissen)

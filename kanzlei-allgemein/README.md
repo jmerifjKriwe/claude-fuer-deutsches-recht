@@ -179,7 +179,7 @@ Das Plugin funktioniert allein. Für fachliche Ausarbeitung sind je nach Mandat 
 
 - `prozessrecht` für gerichtliche Schriftsätze und Fristenlogik.
 - `kanzlei-cowork` für bestehende Kanzlei-Cowork-Bausteine.
-- `zitierweise-deutsches-recht` und `methodenlehre-deutsches-recht` für juristische Ausgabequalität.
+- `zitierweise-deutsches-recht` und `methodenlehre-buergerliches-recht` für juristische Ausgabequalität.
 - Rechtsgebietsplugins wie `arbeitsrecht`, `vertragsrecht`, `sozialrecht-kanzlei`, `steuerrecht-kanzlei`, `insolvenzrecht`.
 
 ## Lizenz

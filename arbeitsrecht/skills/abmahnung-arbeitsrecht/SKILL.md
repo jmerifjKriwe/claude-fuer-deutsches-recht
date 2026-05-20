@@ -128,7 +128,7 @@ in Betracht ziehen werden.
 
 ## Ausgabeformat
 
-- **Standardausgabe**: Memo im Gutachtenstil mit Wirksamkeitsprüfung (Aufbau vgl. references/methodik-deutsches-recht.md Ziff. 6).
+- **Standardausgabe**: Memo im Gutachtenstil mit Wirksamkeitsprüfung (Aufbau vgl. references/methodik-buergerliches-recht.md Ziff. 6).
 - **Auf Anforderung**: Vollständiges Abmahnungsschreiben (Urteilsstil, direkte Formulierung).
 - **Auf Anforderung**: Widerspruchsschreiben / Gegendarstellung (Arbeitnehmerperspektive).
 - **Auf Anforderung**: Checkliste Wirksamkeitsvoraussetzungen als Tabelle.

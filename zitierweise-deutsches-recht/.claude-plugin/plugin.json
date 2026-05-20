@@ -1,7 +1,7 @@
 {
   "name": "zitierweise-deutsches-recht",
-  "version": "2.2.3",
-  "description": "Deutsche juristische Zitierweise als verbindlicher Standard. Rechtsprechung mit Datum Aktenzeichen Fundstelle Randnummer. Kommentare mit Bearbeiter Auflage Jahr Randnummer. Reihenfolge Rspr vor Lit neueste zuerst. Palandt heißt seit 2022 Grüneberg. Typografieregeln. Checkliste für jedes Zitat.",
+  "version": "3.0.0",
+  "description": "Deutsche juristische Zitierweise v3.0. Rspr. mit Az.-Marker Datum Aktenzeichen Fundstelle Rn. Kommentar mit Bearbeiter Werk Auflage Jahr Rn. Verlag bei Monographien. Diss. Habil. mit Hochschulort. Reihenfolge erst Gerichtshierarchie dann Zeit oder Relevanz. Palandt heißt seit 2022 Grüneberg.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
@@ -12,15 +12,15 @@
     "juristische-zitation",
     "pinpoint-zitierung",
     "bgh-randnummer",
+    "aktenzeichen-marker",
     "grueneberg",
     "palandt",
-    "muenchkomm",
     "muekobgb",
+    "muenchkomm",
     "beckok",
-    "fundstelle",
-    "aktenzeichen",
-    "kommentarzitat",
-    "aufsatzzitat",
+    "verlag",
+    "diss-habil",
+    "gerichtshierarchie",
     "haus-zitierweise",
     "typografie"
   ]

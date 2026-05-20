@@ -112,7 +112,7 @@ Arbeitgeber kann mit der Kündigung eine Abfindung nach § 1a KSchG anbieten (0,
 
 ## Quellen und Zitierweise
 
-Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-deutsches-recht.md`.
+Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-buergerliches-recht.md`.
 
 Wesentliche Quellen:
 - Dörner/Vossen, in: KR, 13. Aufl. 2022, § 1 KSchG Rn. 1 ff. (Sozialauswahl)

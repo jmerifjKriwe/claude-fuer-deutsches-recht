@@ -63,6 +63,14 @@
       }
     },
     {
+      "name": "fachanwalt-arbeitsrecht",
+      "source": "./fachanwalt-arbeitsrecht",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Arbeitsrecht nach FAO § 10. KSchG Kuendigungsschutzklage Frist drei Wochen § 4 KSchG. BetrVG Betriebsratsanhoerung § 102. TzBfG Befristung. AGG. Schnittstellen arbeitsrecht und kanzlei-cowork.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "fachanwalt-bank-kapitalmarktrecht",
       "source": "./fachanwalt-bank-kapitalmarktrecht",
       "description": "Light-Touch-Plugin Fachanwalt fuer Bank- und Kapitalmarktrecht. Orientierung KWG ZAG WpHG WpIG MiFID-II MAR Marktmissbrauch MiCAR Verbraucherkredit Vermoegensanlage Beratungshaftung. Schnittstellen gesellschaftsrecht und regulatorisches-recht.",
@@ -103,6 +111,30 @@
       }
     },
     {
+      "name": "fachanwalt-gewerblicher-rechtsschutz",
+      "source": "./fachanwalt-gewerblicher-rechtsschutz",
+      "description": "Light-Touch-Plugin Fachanwalt fuer gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfuegung Verletzungsklage Lizenzanaloger Schadensersatz.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "fachanwalt-handels-gesellschaftsrecht",
+      "source": "./fachanwalt-handels-gesellschaftsrecht",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Handels- und Gesellschaftsrecht nach FAO § 14i. HGB. AktG. GmbHG. PartGG. UmwG. Geschaeftsfuehrerhaftung §§ 43 GmbHG 93 AktG. Gesellschafterstreit Beschlussanfechtung. Handelsvertreterausgleich § 89b HGB. MoPeG GbR seit 2024. Schnittstellen kanzlei-allgemein.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "fachanwalt-insolvenz-sanierungsrecht",
+      "source": "./fachanwalt-insolvenz-sanierungsrecht",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Insolvenz- und Sanierungsrecht nach FAO § 14. InsO Eroeffnung Antragspflicht § 15a Glaeubigerantrag § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung §§ 129 ff. InsO. Schnittstellen insolvenzrecht und steuerrecht-kanzlei.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "fachanwalt-internationales-wirtschaftsrecht",
       "source": "./fachanwalt-internationales-wirtschaftsrecht",
       "description": "Light-Touch-Plugin Fachanwalt fuer Internationales Wirtschaftsrecht. Orientierung CISG Bruessel Ia Rom I Rom II grenzueberschreitende Vertragspraxis Schiedsverfahren ICC UNCITRAL Investitionsschutz ICSID WTO EU-Aussenhandel LkSG.",
@@ -127,6 +159,14 @@
       }
     },
     {
+      "name": "fachanwalt-miet-wohnungseigentumsrecht",
+      "source": "./fachanwalt-miet-wohnungseigentumsrecht",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Miet- und Wohnungseigentumsrecht nach FAO § 14e. BGB §§ 535 ff. Wohnraummiete und Gewerberaummiete. Mieterhoehung §§ 558 ff. Kuendigung §§ 543 569 573 BGB. WEG-Beschlussanfechtung § 44 WEG. BetrKV. Schnittstellen kanzlei-allgemein.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "fachanwalt-migrationsrecht",
       "source": "./fachanwalt-migrationsrecht",
       "description": "Light-Touch-Plugin Fachanwalt fuer Migrationsrecht. Orientierung AufenthG AsylG GFK Dublin-VO EU-Verfahrensrichtlinie Qualifikations-RL StAG Einbuergerung Aufenthaltsverfestigung Familiennachzug. Notfrist § 36 AsylG (eine Woche).",
@@ -135,9 +175,25 @@
       }
     },
     {
+      "name": "fachanwalt-sozialrecht",
+      "source": "./fachanwalt-sozialrecht",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Sozialrecht nach FAO § 11. SGB I bis XII Sozialgerichtsbarkeit SGG. Widerspruch § 84 SGG Frist ein Monat. Klage Sozialgericht § 87 SGG. Erwerbsminderungsrente. SGB II Buergergeld Bescheid. Schnittstellen sozialrecht-kanzlei und kanzlei-cowork.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "fachanwalt-sportrecht",
       "source": "./fachanwalt-sportrecht",
       "description": "Light-Touch-Plugin Fachanwalt fuer Sportrecht. Orientierung Verbandsrecht der Sportverbaende DFB FIFA UEFA IOC DOSB CAS Schiedsverfahren Spielervertraege Doping WADA-Code NADA Sponsoring Persoenlichkeitsrechte Sportler Veranstalterhaftung.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "fachanwalt-steuerrecht",
+      "source": "./fachanwalt-steuerrecht",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Steuerrecht nach FAO § 9. AO Einspruch Stundung Vollstreckungsaufschub. Aussenpruefung Schlussbesprechung. Steuerstrafrecht Selbstanzeige § 371 AO. Schnittstellen steuerrecht-kanzlei und kanzlei-cowork.",
       "author": {
         "name": "Klotzkette"
       }
@@ -311,9 +367,9 @@
       }
     },
     {
-      "name": "methodenlehre-deutsches-recht",
-      "source": "./methodenlehre-deutsches-recht",
-      "description": "Deutsche juristische Methodenlehre als zuschaltbares Plugin. Gutachten- vor Urteilsstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut System Historie Telos mit Vorrang der historischen Methode. Generalklauseln nur als Auffang. Ruethers-Warnung vor unbegrenzter Auslegung.",
+      "name": "methodenlehre-buergerliches-recht",
+      "source": "./methodenlehre-buergerliches-recht",
+      "description": "Deutsche juristische Methodenlehre und Falllösung fuer das buergerliche Recht aus anwaltlicher Perspektive. Gutachtenstil mit Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut Systematik Historie Telos ohne starre Rangfolge — pragmatische Gewichtung wie in der BGH-Praxis. Generalklauseln und Rechtsfortbildung als reale Werkzeuge. Anwaltliche Strategie statt richterliche Selbstbindung. Breaking Change in v3.0 umbenannt von methodenlehre-deutsches-recht.",
       "author": {
         "name": "Klotzkette"
       }
@@ -433,7 +489,7 @@
     {
       "name": "zitierweise-deutsches-recht",
       "source": "./zitierweise-deutsches-recht",
-      "description": "Deutsche juristische Hauszitierweise als zuschaltbares Plugin. Rspr mit Datum Aktenzeichen Fundstelle Randnummer. Kommentare mit Bearbeiter Auflage Jahr Randnummer. Reihenfolge Rspr vor Lit neueste zuerst. Palandt heisst seit 2022 Grueneberg. Typografieregeln und Pflicht-Checkliste.",
+      "description": "Deutsche juristische Hauszitierweise v3.0. Rspr. mit Az.-Marker Datum Aktenzeichen Fundstelle Rn. Bearbeiter-Kommentar mit in: und Einzelautorenkommentar ohne in:. Verlag bei Monographien. Diss. und Habil. mit Hochschulort. Reihenfolge erst Gerichtshierarchie dann Chronologie oder Relevanz. Palandt heisst seit 2022 Grueneberg.",
       "author": {
         "name": "Klotzkette"
       }

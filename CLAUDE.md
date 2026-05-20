@@ -14,7 +14,7 @@ Dieses Repository enthält Plugins für deutsche Kanzleien. Wenn du in diesem Re
 - **Urteilsstil** für Schriftsätze, Beschlüsse, knappe Vermerke.
 - Anspruchsgrundlagenprüfung in der Reihenfolge: Vertrag – c.i.c. – GoA – dinglich – Delikt – Bereicherung.
 - Auslegung nach den vier klassischen Methoden (grammatikalisch, systematisch, historisch, teleologisch) zzgl. verfassungs- und unionsrechtskonformer Auslegung.
-- Siehe [`references/methodik-deutsches-recht.md`](./references/methodik-deutsches-recht.md).
+- Siehe [`references/methodik-buergerliches-recht.md`](./references/methodik-buergerliches-recht.md).
 
 ## Quellen und Zitierweise
 
