@@ -1,0 +1,107 @@
+---
+name: case-management
+description: KI-gestuetztes Case Management fuer immobilienrechtliche Vorgaenge. Pro Fall werden Akte Korrespondenz Vertraege Schriftsaetze und Fristen strukturiert dokumentiert und fortgeschrieben. Erzeugt Falluebersicht in Markdown plus Fristenkalender plus Ereignistabelle. Bei Eingang neuer Dokumente wird der Fall automatisch fortgeschrieben Aenderungen werden mit NEU markiert. Unterstuetzt Zusammenfassung umfangreicher Dokumente und Bewertung mit Ampel. Integriert Recherche aktueller Rechtsprechung mit Risiko-Einordnung. Geeignet fuer Mietstreitigkeiten Kaufabwicklungen WEG-Verfahren Bauschadensfaelle und Property-Management-Konflikte.
+---
+
+# Case Management Immobilienrecht
+
+## Leitidee
+
+Eine Rechtsabteilung verliert mehr Zeit mit Suchen und
+Status-Reproduktion als mit der eigentlichen rechtlichen Arbeit. Der
+Skill konsolidiert pro Fall den aktuellen Stand auf einer Seite,
+fuehrt einen Fristenkalender und eine Ereignistabelle und schreibt
+beides bei jedem neuen Eingang fort.
+
+## Inputs
+
+- Aktenbestandteile in beliebiger Form: Vertraege Schriftsaetze
+  Korrespondenz Gutachten Fotos Hausverwaltungs-Berichte
+- Optional: bestehende Falluebersicht zur Fortschreibung
+- Optional: Recherche-Auftrag fuer aktuelle Rechtsprechung
+
+## Output je Fall
+
+- `Fall_<Aktenzeichen>.md` — eine Seite Falluebersicht mit
+  - Beteiligte (Mandant Gegenseite Vertreter Gericht)
+  - Streitgegenstand und Streitwert
+  - Aktueller Verfahrensstand
+  - Naechste Schritte mit Verantwortlichem
+  - Risiko-Ampel
+- `Fristen_<Aktenzeichen>.md` — Tabelle Frist — Datum —
+  Rechtsgrundlage — Status
+- `Ereignisse_<Aktenzeichen>.md` — chronologische Tabelle aller
+  Vorgaenge mit Quellenverweis auf Aktenstelle
+- Optional `Rechtsprechung_<Aktenzeichen>.md` — kuratierte
+  BGH-Entscheidungen zum Fall mit Pinpoint-Zitat und
+  Risiko-Einordnung
+
+## Methodik
+
+1. Eingangsdokument klassifizieren (Schreiben Vertrag Schriftsatz
+   Urteil Gutachten Foto)
+2. Tatsachen extrahieren mit Quellenangabe in eckigen Klammern
+3. Fristen und Termine berechnen — gesetzliche Fristen aus
+   Vorschrift abgeleitet, gerichtliche aus Verfuegung
+4. Risiko-Ampel pro Fall: GRUEN beherrschbar, GELB beobachten,
+   ROT Eskalation
+5. Bei Nachlieferung: bestehende Markdown-Dateien werden ergaenzt,
+   neue Eintraege mit `[NEU]` markiert
+6. Auf Wunsch: aktuelle Rechtsprechung recherchieren und mit
+   Pinpoint-Zitierung anhaengen (juengere zuerst Randnummer)
+
+## Zusammenfassung umfangreicher Dokumente
+
+Der Skill kann lange Schriftsaetze Gutachten und Urteile
+zusammenfassen. Format pro Dokument:
+
+- Kernaussage in zwei Saetzen
+- Relevante Tatsachen mit Quellenangabe (Randnummer Seite)
+- Rechtliche Wuerdigung in Stichpunkten
+- Bezug zum eigenen Fall mit Ampel
+
+Bei Urteilen wird die Pinpoint-Zitierung sauber gesetzt — Gericht
+Datum Aktenzeichen Fundstelle Randnummer.
+
+## Rechtsprechungs-Recherche mit Risiko-Einordnung
+
+Auf Anfrage sucht der Skill aktuelle Rechtsprechung zum
+Streitgegenstand. Format pro Entscheidung:
+
+- BGH oder OLG mit Datum Aktenzeichen Fundstelle Randnummer
+- Sachverhalts-Kern in zwei Saetzen
+- Rechtssatz wortgetreu mit Anfuehrungszeichen und Randnummer
+- Bezug zum eigenen Fall — staerkt oder schwaecht die eigene
+  Position
+- Ampel ROT GELB GRUEN aus Sicht des Mandanten
+
+Halluzinations-Regel: nur Entscheidungen die existieren und mit
+verifizierbarer Fundstelle vorliegen. Bei Unsicherheit Markierung
+`[Quelle zu verifizieren]`.
+
+## Typische Fristen im Immobilienrecht
+
+- Widerspruch Eigenbedarfskuendigung § 574b BGB — spaetestens zwei
+  Monate vor Beendigung
+- Mieterhoehungsverlangen § 558b BGB — Zustimmungsfrist zwei
+  Monate
+- Schoenheitsreparaturen-Endabrechnung — Abrechnung der
+  Betriebskosten § 556 Abs. 3 BGB binnen zwoelf Monaten
+- Mietkautionsrueckforderung — angemessene Pruefungsfrist nach
+  Auszug
+- Anfechtung WEG-Beschluss § 45 WEG — ein Monat ab Beschlussfassung
+- Schriftform Gewerbemietvertrag § 550 BGB bei Nachtraegen
+- Verjaehrung Mietminderung § 548 BGB — sechs Monate nach
+  Rueckgabe der Mietsache
+- Auskunftsverlangen Mietpreisbremse § 556g Abs. 3 BGB
+
+## Beispielformulierungen
+
+- "Lege Fall Mueller gegen Hausverwaltung Berlin an. Hier sind
+  alle Unterlagen."
+- "Schreibe Fall ABC GmbH gegen XY fort. Hier ist die neue
+  Klageerwiderung."
+- "Recherchiere aktuelle BGH-Rechtsprechung zu Schimmel und
+  Beweislast. Ordne jede Entscheidung mit Ampel ein."
+- "Fasse das 80-Seiten-Gutachten in einer Seite zusammen mit
+  Bezug zum Fall."

@@ -1,0 +1,81 @@
+---
+name: vertragserstellung-musterbasiert
+description: Erstellt immobilienrechtliche Vertraege strikt auf Basis hausinterner Mustervertraege und Term Sheets. Kernregel ist Klauselschutz — vorgegebene Musterklauseln werden NICHT umformuliert. KI fuellt nur markierte Platzhalter und Variablen, erzeugt projektspezifische Anlagen und protokolliert jede Abweichung vom Muster mit Begruendung. Geeignet fuer Mietvertraege (Wohnraum und Gewerbe), Kaufvertraege ueber Immobilien, Bestellung von Grunddienstbarkeiten, Erbbaurechte, Verwaltervertraege nach WEG und Asset-Management-Vertraege. Ausgabe ist .docx auf Muster-Layout mit Aenderungsprotokoll und Hinweisen wo manuelle Pruefung zwingend ist (zB Genehmigungserfordernisse Vorkaufsrechte oeffentlich-rechtliche Lasten).
+---
+
+# Vertragserstellung musterbasiert
+
+## Leitidee
+
+Vertragserstellung ist NICHT voll an die KI delegierbar. Die KI ist ein
+disziplinierter Schreibtisch, der vorgegebene Klauseln einsetzt, Platzhalter
+befuellt und Querverweise konsistent haelt. Sie ist KEIN Drafter und schreibt
+keine eigenen Klauseln in tragenden Punkten.
+
+## Inputs
+
+- Mustervertrag (.docx) der Kanzlei oder Rechtsabteilung
+- Term Sheet oder Eckpunktepapier (.docx, .md, .pdf, freier Text)
+- Optional: vorhandene Vorgaengervertraege zur Stilreferenz
+- Optional: Anlagenliste (Lageplan, Baubeschreibung, Hausordnung,
+  Betriebskostenaufstellung)
+
+## Klauselschutz — die zentrale Regel
+
+Jede Klausel im Muster, die NICHT als Platzhalter markiert ist, ist tabu.
+Markierungen die der Skill respektiert:
+
+- `[[...]]` doppelte eckige Klammern fuer freie Eingaben
+- `{{...}}` doppelte geschweifte Klammern fuer typisierte Variablen
+- `__________` Unterstrich-Strecken fuer Daten und Betraege
+- Gelb hinterlegte Felder im Word-Dokument
+- Kommentare am Rand mit Praefix `KI:`
+
+Findet die KI an einer NICHT-markierten Stelle einen logischen Widerspruch
+zum Term Sheet (zB Term Sheet sagt befristet, Muster ist unbefristet),
+DARF sie die Klausel nicht selbst aendern. Sie protokolliert den Konflikt
+und gibt das Dokument unveraendert zurueck mit Hinweis.
+
+## Methodik
+
+1. Mustervertrag laden und alle Platzhalter inventarisieren
+2. Term Sheet parsen — Parteien, Objekt, wirtschaftliche Eckpunkte,
+   Sondervereinbarungen
+3. Mapping Term-Sheet-Position auf Musterplatzhalter erstellen
+4. Platzhalter befuellen, Querverweise (§-Verweise, Anlagen) anpassen
+5. Konsistenzpruefung: Daten, Betraege ohne Komma in der Beschreibung,
+   Parteiennennungen, Pluralformen
+6. Aenderungsprotokoll erzeugen — welche Platzhalter befuellt, welche offen,
+   welche Konflikte
+7. Roter Block oben im Dokument: was zwingend manuell zu pruefen ist
+
+## Output
+
+- `Vertrag_<Objekt>_<Datum>.docx` auf Muster-Layout, Platzhalter befuellt
+- `Aenderungsprotokoll.md` mit Tabelle Platzhalter — Wert — Quelle im Term Sheet
+- `Manuelle_Pruefung.md` mit Liste der Punkte die nur ein Jurist
+  entscheiden kann (zB GenehmigungspflichtigerVerkauf §§ 1365 BGB,
+  Vorkaufsrechte §§ 24 ff. BauGB, Denkmalschutz, Erbbauzins-Anpassung)
+
+## Typische manuelle Pruefpunkte bei Immobilienvertraegen
+
+- Vorkaufsrechte der Gemeinde §§ 24 ff. BauGB
+- Genehmigung nach § 1365 BGB bei Verfuegung ueber das Vermoegen im Ganzen
+- Grundstuecksverkehrsgenehmigung GrdstVG
+- Sanierungsvermerk § 144 BauGB, Erhaltungssatzung § 172 BauGB
+- Wohnungseigentumsumwandlung § 250 BauGB (Genehmigungspflicht)
+- WEG-Beschluesse als Anlage (Beschlussfaehigkeit, Anfechtungsfristen)
+- Erbbauzins-Anpassungsklauseln und Heimfallrecht
+- Mietpreisbremse §§ 556d ff. BGB, qualifizierter Mietspiegel
+- Schriftform Gewerbemietvertrag § 550 BGB (Heilung schwierig)
+- Betriebskostenkatalog Verordnung 2003, Umlagevereinbarung
+- Indexmiete §§ 557b BGB versus Staffelmiete § 557a BGB
+
+## Beispielformulierungen
+
+- "Erstelle aus Mustervertrag Gewerbemiete und beigefuegtem Term Sheet
+  einen Entwurf. Achte auf Schriftform § 550 BGB."
+- "Befuelle den Wohnraummietvertrag-Muster mit den Eckpunkten aus dem
+  Eckpunktepapier. Pruefe ob Mietpreisbremse greift und markiere."
+- "Erstelle WEG-Verwaltervertrag aus Muster, Term Sheet anbei,
+  Bestellungsbeschluss als Anlage einfuegen."

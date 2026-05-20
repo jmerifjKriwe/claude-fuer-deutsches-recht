@@ -165,6 +165,22 @@
       "author": {
         "name": "Klotzkette"
       }
+    },
+    {
+      "name": "immobilienrechtspraxis",
+      "source": "./immobilienrechtspraxis",
+      "description": "Werkzeuge fuer immobilienrechtliche Rechtsabteilungen — musterbasierte Vertragserstellung mit Klauselschutz; Vertragspruefung gegen Playbook; Grundbuchanalyse; Sachverhaltsermittlung; Mieteranfragen mit BGH-Verankerung; Case Management; projektbasierte Arbeitsweise mit AVV-Pruefung.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "aktenaufbereiter-strafrecht",
+      "source": "./aktenaufbereiter-strafrecht",
+      "description": "Aktenaufbereiter fuer die Strafverteidigung. Bringt grosse Strafakten in den Griff durch sechs Excel-faehige Uebersichten — Aktenvorblatt; Personenverzeichnis; Tatkomplexe; Beziehungen; Chronologie; Fristen. Fortlaufend ergaenzbar. Erkennt Luecken und Widersprueche. Kein Ersatz fuer Aktenlektuere.",
+      "author": {
+        "name": "Klotzkette"
+      }
     }
   ]
 }
