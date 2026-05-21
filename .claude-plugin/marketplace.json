@@ -359,6 +359,14 @@
       }
     },
     {
+      "name": "insolvenzplan-starug-planwerkstatt",
+      "source": "./insolvenzplan-starug-planwerkstatt",
+      "description": "Freistehende Insolvenzplan- und StaRUG-Planwerkstatt: Sanierungskonzept, integrierte Planung, Vergleichsrechnung, Gruppen, Klassen, darstellender und gestaltender Teil, Anlagen, Abstimmung, Cram-down, Minderheitenschutz, Gericht und Vollzug.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "insolvenzrecht",
       "source": "./insolvenzrecht",
       "description": "Insolvenz- und sanierungsrechtliche Skills: strukturierte Prüfung Zahlungsunfähigkeit (§ 17 InsO) anhand der BGH-Rechtsprechung (BGHZ 163, 134), zweistufige Überschuldungsprüfung (§ 19 InsO) mit Fortbestehensprognose nach IDW S 11, Antragspflicht Geschäftsleiter (§ 15a InsO) und Haftung Insolvenzverschleppung, Gläubigerantrag-Prüfung (§ 14 InsO), rollierende Liquiditätsvorschau 13 Wochen / 24 Monate.",
