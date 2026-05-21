@@ -112,7 +112,7 @@ Profil aktualisiert:
 - Lehrveranstaltungen: VwGO-Klausur (Klausur, Woche 1) hinzugefügt
 
 Auswirkungen:
-- sokratisches-drillen, ag-vorbereitung, gutachten-übung: ab sofort Drill-Modus
+- pruefungsgespraech-ag, ag-vorbereitung, gutachten-übung: ab sofort Drill-Modus
 - examensvorbereitung-fragen: VwGO jetzt in der Fächerliste
 - lernplan: wird beim nächsten Aufruf mit VwGO ergänzt
 ```

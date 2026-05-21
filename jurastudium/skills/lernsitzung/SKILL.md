@@ -48,7 +48,7 @@ Wenn Rechtsgebiet oder Anzahl fehlen, einmalig fragen:
 
 - `--karteikarten`: `karteikarten`-Skill laden, N Karten im Drill-Modus, priorisiert nach früheren Fehlern + fälligen Karten
 - `--klausurfrage`: `gutachten-uebung`-Skill laden, N Kurzklausurfragen im Gutachtenstil generieren, Nutzer schreibt Lösung, Feedback pro Frage
-- `--mündlich` (Standard): `sokratisches-drillen`-Skill laden, N Fragen im sokratischen Frage-Antwort-Format, Pushback nach jeder Antwort
+- `--mündlich` (Standard): `pruefungsgespraech-ag`-Skill laden, N Fragen im sokratischen Frage-Antwort-Format, Pushback nach jeder Antwort
 
 Jurisdiktion/Prüfungsordnung aus Nutzerprofil laden, falls vorhanden (z. B. Examensvorbereitung NRW → JAG NRW-Prüfungsstoff priorisieren).
 

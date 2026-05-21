@@ -1,9 +1,9 @@
 ---
-name: sokratisches-drillen
-description: "Maieutisches Prüfungsgespräch nach AG-Tradition — stellt Fragen, hakt nach, gibt die Antwort erst, wenn der Studierende sie erarbeitet hat. Übt die mündliche Prüfung, das AG-Gespräch und das Klausurdenken. Lädt, wenn der Nutzer „Abfrage\", „mündlich prüfen\", „AG-Gespräch simulieren\", „Fragen-Antwort-Drill\" oder „mündliche Prüfung üben\" sagt."
+name: pruefungsgespraech-ag
+description: "Prüfungsgespräch nach deutscher AG-Tradition — stellt Fragen, hakt nach, gibt die Antwort erst, wenn der Studierende sie erarbeitet hat. Übt die mündliche Prüfung, das AG-Gespräch und das Klausurdenken. Lädt, wenn der Nutzer „Abfrage\", „mündlich prüfen\", „AG-Gespräch simulieren\", „Fragen-Antwort-Drill\" oder „mündliche Prüfung üben\" sagt."
 ---
 
-# Maieutisches Prüfungsgespräch
+# Prüfungsgespräch nach AG-Tradition
 
 ## Zweck
 
@@ -11,7 +11,7 @@ Recht lernt man nicht durch Lesen. Man lernt es, indem man falsch liegt, merkt w
 
 **Diese Skill gibt keine Antworten, bevor der Studierende es versucht hat.** Wer eine Antwort sucht, nutzt eine andere Funktion.
 
-Vorbild ist die deutsche AG-Tradition: Der Seminar- oder Übungsleiter im Arbeitsgemeinschaft-Gespräch fragt nach, lässt nicht locker, korrigiert auf dem Weg — gibt aber nicht die Lösung preis, bevor die Frage gedacht wurde.
+Vorbild ist die deutsche AG-Tradition: Der Seminar- oder Übungsleiter im Arbeitsgemeinschaft-Gespräch fragt nach, lässt nicht locker, korrigiert auf dem Weg — gibt aber nicht die Lösung preis, bevor die Frage gedacht wurde. (Eine deutsche Entsprechung zum englischen „Socratic drilling“ gibt es nicht; die AG ist der heimische Begriff.)
 
 ## Eingaben
 

@@ -145,7 +145,7 @@ sitzungs_verlauf:
 
 - **Ungenaue Definitionen lernen**: Eine Karte mit einer im Wesentlichen richtigen, aber examensuntauglichen Definition ist schlimmer als keine Karte. Definitionen aus Skripten sind oft schärfer als solche aus meinem Wissen — Skripte bevorzugen.
 - **Zu viel auf eine Karte**: Tatbestandsmerkmale sind einzeln zu üben, nicht als Block. Wer „Betrug § 263 StGB: alle Merkmale" auf eine Karte schreibt, hat sechs Karten in eine gepresst.
-- **Karte als Lernersatz**: Karteikarten sind Abruftraining für bereits Verstandenes. Eine Karte, die regelmäßig falsch beantwortet wird, zeigt ein Verständnisproblem — dann ist mündliches Durcharbeiten mit `sokratisches-drillen` angezeigt.
+- **Karte als Lernersatz**: Karteikarten sind Abruftraining für bereits Verstandenes. Eine Karte, die regelmäßig falsch beantwortet wird, zeigt ein Verständnisproblem — dann ist mündliches Durcharbeiten mit `pruefungsgespraech-ag` angezeigt.
 - **Wiederholungstermine ignorieren**: Das Leitner-System funktioniert nur, wenn die Abstände eingehalten werden. Ausgefallene Tage akkumulieren Rückstand.
 - **Keine Normangabe**: Jede Karte muss die einschlägige Norm nennen. Definitionen ohne Norm sind im Examen wertlos.
 
