@@ -1,10 +1,22 @@
-# KI-gestuetzte M&A-Workflows
+# KI-gestützte M&A-Workflows
 
-Die Anforderungen aus dem bereitgestellten Fachtext werden hier nur als abstrahierte Produktanforderungen verwendet, nicht als Quelle und nicht als Zitat.
+Diese Referenz fasst gängige Anwendungsfelder für KI-Unterstützung in der Transaktionspraxis zusammen. Sie ist plugin-internes Strukturwissen und ersetzt keine Mandatsberatung.
 
-- KI kann entlang des ganzen M&A-Prozesses helfen: Origination, Vorbereitung, Datenraum, Due Diligence, Vertrag, Signing/Closing, PMI und Restrukturierung.
-- Due Diligence profitiert von Standardisierung, groesserem Prüfungsumfang, Clusterbildung, Q&A und disziplinübergreifender Anomalieerkennung.
-- Menschliche Plausibilisierung bleibt besonders bei Rechtsfragen, Red Flags, Board Papers, W&I und Versand nach aussen zwingend sichtbar.
-- Vertragsgestaltung muss neue Fragen zu Wissen, Kenntnis, Fair Disclosure, KI-gestuetztem Datenraum und Angaben-ins-Blaue hinein adressieren.
-- Geschäftsleiterentscheidungen brauchen nachvollziehbare Informationsgrundlage; KI-Einsatz, Datenqualität und Review-Tiefe sind zu dokumentieren.
-- W&I-Prozesse brauchen Transparenz, welche DD-Teile KI-gestuetzt, stichprobenartig oder vollständig menschlich validiert wurden.
+## Anwendungsfelder
+
+- **Datenraum und Dokumentenmanagement.** OCR, Indexierung, Auto-Tagging, Versionsverfolgung und Suchunterstützung im virtuellen Datenraum.
+- **Übersetzung und Sprachfassungen.** Konsistente Terminologie über Englisch/Deutsch hinweg, Vorab-Übersetzung von Schriftverkehr.
+- **Standardisierte Dokumentenanalyse.** Extraktion von Vertragsparametern (Laufzeit, Kündigung, Change-of-Control, Limitierungen) bei großen Dokumentenmengen.
+- **Vorbereitung Q&A.** Themen-Clustering eingehender Fragen, Vorschläge für Antwortbausteine, Verweis auf Datenraum-Fundstellen.
+
+## Grenzen und Pflichten
+
+- **Anwaltliche Verantwortung bleibt.** Rechtliche Bewertungen, Red-Flag-Einordnungen und Empfehlungen an die Mandantschaft erfordern menschliche Plausibilisierung.
+- **Berufsgeheimnis und Datenschutz.** Nur über Anbieter mit § 203-Zusatzvereinbarung; siehe Repository-README zum Zwischenanbieter.
+- **Dokumentation.** KI-Einsatz, eingesetztes Modell, geprüfter Dokumentenkreis und Reviewer dokumentieren — z. B. im AI-Use-Disclosure-Log.
+- **Versand nach außen.** Schriftsätze, Memos, Board Papers und Versand an Gegenseite/Mandanten nie ohne anwaltliche Schlussfreigabe.
+
+## Verweise
+
+- `sicherheitsleitplanken.md` – allgemeine Sicherheits- und Compliance-Vorgaben des Plugins
+- `assets/templates/ai-use-disclosure-log.md` – Standardvorlage zur Dokumentation des KI-Einsatzes
