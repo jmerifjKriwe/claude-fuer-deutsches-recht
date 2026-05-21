@@ -47,6 +47,14 @@
       }
     },
     {
+      "name": "corporate-kanzlei",
+      "source": "./corporate-kanzlei",
+      "description": "Corporate/M&A-Plugin (46 Skills) für transaktionsstarke Kanzleien: Deal-Kommandocenter, Datenraum, Due Diligence, Tabellenreview, SPA/APA, Disclosure Schedules, Signing/Closing, W&I, Public M&A, Fusionskontrolle, Investitionskontrolle, Umwandlungsrecht, StaRUG, Insolvenzplan, PMI.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "datenschutzrecht",
       "source": "./datenschutzrecht",
       "description": "DSGVO/BDSG/TTDSG: PIA/DPIA, AVV-Review als Verantwortlicher und Auftragsverarbeiter, Auskunftsersuchen Art. 15 DSGVO, Datenpannenmeldung Art. 33/34, Beschäftigtendatenschutz.",
