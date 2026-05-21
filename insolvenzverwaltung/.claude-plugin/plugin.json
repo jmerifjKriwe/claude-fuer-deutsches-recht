@@ -1,6 +1,6 @@
 {
   "name": "insolvenzverwaltung",
-  "version": "2.14.0",
+  "version": "3.0.0",
   "description": "Freistehendes Insolvenzverwaltungs-Plugin aus Sicht von Insolvenzverwalter, Sachwalter und vorläufiger Verwaltung: Regelverfahren, Eigenverwaltung, Schutzschirm, Anfechtung, § 15b InsO, Masse, Forderungsprüfung, Gutachten, Berichte und Schlussrechnung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

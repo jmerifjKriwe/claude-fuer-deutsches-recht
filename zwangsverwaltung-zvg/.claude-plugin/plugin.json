@@ -1,6 +1,6 @@
 {
   "name": "zwangsverwaltung-zvg",
-  "version": "2.14.0",
+  "version": "3.0.0",
   "description": "Freistehendes ZVG-Zwangsverwaltungs-Plugin aus Sicht des Zwangsverwalters: Bestellung, Beschlagnahme, Besitz, Mietverwaltung, Mieteinzug, Objektkosten, Versicherung, Treuhandkonto, Berichte, Rechnungslegung, Verteilung und Aufhebung.",
   "license": "Apache-2.0 OR MIT",
   "author": {
