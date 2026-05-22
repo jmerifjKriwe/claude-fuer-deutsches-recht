@@ -1,6 +1,6 @@
 # Vorschau: Vollmacht_handschriftlich_Sebastian_Bräutigam
 
-> Markdown-Vorschau der gleichnamigen DOCX-Datei. Massgeblich ist die DOCX-Originaldatei mit Formatierung.
+> Lesbare Markdown-Vorschau der gleichnamigen DOCX-Datei. Massgeblich ist die DOCX-Originaldatei.
 
 Hamburg, 20.05.2026
 
@@ -35,15 +35,15 @@ Meine Frau Yasmin kommt auch noch dazu wenn sie Zeit hat zu unterschreiben.
 
 Die Vollmacht umfasst insbesondere:
 
-- Außergerichtliche Verhandlungen mit Pacific Sky Airways
+  - Außergerichtliche Verhandlungen mit Pacific Sky Airways
 
-- Einreichung von Klagen beim zuständigen Gericht
+  - Einreichung von Klagen beim zuständigen Gericht
 
-- Einleitung von Schlichtungsverfahren (söp)
+  - Einleitung von Schlichtungsverfahren (söp)
 
-- Empfang und Übermittlung von Schriftstücken
+  - Empfang und Übermittlung von Schriftstücken
 
-- Abschluss von Vergleichen (soweit sinnvoll)
+  - Abschluss von Vergleichen (soweit sinnvoll)
 
 
 Der Anwalt darf Untervollmacht erteilen.

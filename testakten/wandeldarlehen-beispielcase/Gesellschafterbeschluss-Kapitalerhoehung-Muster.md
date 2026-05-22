@@ -1,89 +1,105 @@
-# Gesellschafterbeschluss — Kapitalerhöhung aus Wandlung (Muster)
-## Sonnenglas Solartechnologie UG (haftungsbeschränkt)
+# Vorschau: Gesellschafterbeschluss-Kapitalerhoehung-Muster
 
-> Leseversion des Originaldokuments `Gesellschafterbeschluss-Kapitalerhoehung-Muster.docx`  
-> Beurkundungspflichtig gem. § 55 GmbHG i.V.m. § 2 GmbHG
+> Lesbare Markdown-Vorschau der gleichnamigen DOCX-Datei. Massgeblich ist die DOCX-Originaldatei.
 
----
+PROTOKOLL ÜBER DIE GESELLSCHAFTERVERSAMMLUNG
 
-## Gesellschaft
+Sonnenglas Solartechnologie UG (haftungsbeschränkt)
 
-| | |
-|---|---|
-| Firma | Sonnenglas Solartechnologie UG (haftungsbeschränkt) |
-| Sitz | Berlin |
-| Amtsgericht | Charlottenburg, HRB 123456 B |
-| Datum der Versammlung | [Datum eintragen] |
-| Ort der Beurkundung | [Notar / Notariat eintragen] |
+mit Beschlussfassung über Kapitalerhöhung gemäß § 55 GmbHG
 
----
 
-## Anwesende Gesellschafter
+I. Eckdaten der Versammlung
 
-| Gesellschafter | Anteile | Anteil am Stammkapital |
-|---|---|---|
-| Dr. Mira Schoeneck | 40 | 40,00 % |
-| Lina Habersaat | 35 | 35,00 % |
-| Northstar Pre-Seed Partners GmbH & Co. KG | 0 (Wandlungsgläubigerin, nimmt teil) | — |
-| Eigene Anteile der Gesellschaft | 25 | nicht stimmberechtigt (§ 47 Abs. 4 GmbHG) |
+Datum, Uhrzeit: Donnerstag, 4. März 2027, 10:00 Uhr MEZ
 
-**Stimmberechtigte Anteile:** 75 von 100
+Ort: Geschäftsräume der Notarin Dr. Eva Wendthusen, Charlottenstraße 65, 10117 Berlin
 
----
+Notarielle Begleitung: Notarin Dr. Eva Wendthusen, UR-Nr. 0142/2027
 
-## Beschlüsse
+Art der Versammlung: außerordentliche Gesellschafterversammlung, einberufen nach § 9 der Satzung mit Frist von zwei Wochen unter Angabe der Tagesordnung. Auf eine längere Frist haben alle Gesellschafterinnen verzichtet (Anwesenheitsverzicht).
 
-### § 1 — Kapitalerhöhung gegen Sacheinlage (Wandlung Wandeldarlehen Northstar)
 
-1. Erhöhung Stammkapital von **EUR 1.000,00** um **EUR 7,00** auf **EUR 1.007,00**
-2. Ausgabe von **7 neuen Geschäftsanteilen** (Nennbetrag je EUR 1,00), lfd. Nrn. [eintragen]
-3. Übernahme durch **Northstar Pre-Seed Partners GmbH & Co. KG**
-4. Einlage durch **Sacheinlage** (Forderungseinlage):
-   - Wandlungssumme: EUR 275.694
-   - Auf Stammkapital: EUR 7,00
-   - In Kapitalrücklage (§ 272 Abs. 2 Nr. 1 HGB): EUR 275.687
+II. Anwesenheit
 
-### § 2 — Kapitalerhöhung gegen Bareinlage (Seed-Runde)
+(1) Dr. Mira Schoeneck – 600 Geschäftsanteile (60,00 %), in eigener Person
 
-Nach Eintragung der KE I: weiterer Erhöhung von EUR 1.007,00 um EUR 25,00 auf **EUR 1.032,00**  
-25 neue Anteile à EUR 1,00, gegen Bareinlage EUR 1.000.000 (davon EUR 25 Stammkapital, EUR 999.975 Kapitalrücklage).
+(2) Lina Habersaat – 400 Geschäftsanteile (40,00 %), in eigener Person
 
-### § 3 — ESOP-Reserve
+Anwesendes Stammkapital: EUR 1.000 (100,00 %). Die Versammlung ist beschlussfähig.
 
-Schaffung von 3 weiteren Anteilen als ESOP-Reserve; Ausgabe bedarf gesonderten Gesellschafterbeschlusses.
+Als Gast nimmt für den Darlehensgeber Northstar Pre-Seed Partners GmbH & Co. KG Herr Henrik Brendelmann teil.
 
-### § 4 — Satzungsänderung
 
-§ 3 der Satzung (Stammkapital) wird entsprechend neu gefasst: EUR 1.032,00 / EUR 1.035,00 inkl. ESOP, eingeteilt in [Zahl] Geschäftsanteile.
+III. Tagesordnung
 
----
+TOP 1: Bericht der Geschäftsführerin zur Wandlungserklärung der Northstar Pre-Seed Partners vom 22. Februar 2027 und zur geplanten Seed-Runde 2027.
 
-## Abstimmungsergebnis
+TOP 2: Beschlussfassung über Kapitalerhöhung um EUR 66 von EUR 1.000 auf EUR 1.066 durch Ausgabe von 66 neuen Geschäftsanteilen mit einem Nennbetrag von je EUR 1,00.
 
-| | |
-|---|---|
-| Ja-Stimmen | 75 |
-| Nein-Stimmen | 0 |
-| Enthaltungen | 0 |
-| Quorum | 100 % der stimmberechtigten Anteile anwesend |
-| Ergebnis | **Einstimmig angenommen** |
+TOP 3: Zulassung der Northstar Pre-Seed Partners GmbH & Co. KG zur Übernahme der neuen Geschäftsanteile.
 
----
+TOP 4: Bezugsrechtsverzicht der Gesellschafterinnen.
 
-## Beurkundungsvermerk
+TOP 5: Satzungsänderung in § 3 (Stammkapital) entsprechend der Kapitalerhöhung.
 
-Diese Niederschrift bedarf der notariellen Beurkundung gemäß § 55 Abs. 1 GmbHG i.V.m. § 2 Abs. 1 GmbHG. Der Notar wird gebeten, die Beurkundung vorzunehmen und die Handelsregisteranmeldung gemäß § 57 GmbHG zu beglaubigen.
+TOP 6: Beschluss über die Einlage des Differenzbetrages zwischen Wandlungssumme und Nennbetrag in die Kapitalrücklage gemäß § 272 Abs. 2 Nr. 4 HGB.
 
----
+TOP 7: Sonstiges.
 
-## Unterschriften
 
-| Partei | Datum / Ort |
-|---|---|
-| Dr. Mira Schoeneck (Vorsitzende GV / GF) | Berlin, _____________ |
-| Lina Habersaat (Gesellschafterin) | _____________ |
-| Northstar Pre-Seed Partners GmbH & Co. KG (Wandlungsgläubigerin) | _____________ |
+IV. Beschlüsse
 
----
+Zu TOP 2 (Kapitalerhöhung):
 
-*Originaldokument: `Gesellschafterbeschluss-Kapitalerhoehung-Muster.docx` — fiktive Testakte, keine Rechtsberatung*
+Die Gesellschafterversammlung beschließt einstimmig, das Stammkapital der Gesellschaft um EUR 66 (in Worten: sechsundsechzig Euro) von EUR 1.000 (eintausend Euro) auf EUR 1.066 (eintausendsechsundsechzig Euro) zu erhöhen durch Ausgabe von 66 neuen Geschäftsanteilen Nr. 1.001 bis Nr. 1.066 mit einem Nennbetrag von je EUR 1,00.
+
+
+Zu TOP 3 (Zulassung):
+
+Die Gesellschafterversammlung beschließt einstimmig, die Northstar Pre-Seed Partners GmbH & Co. KG zur Übernahme der neuen Geschäftsanteile Nr. 1.001 bis 1.066 zuzulassen. Übernahmeerklärung wird im unmittelbaren Anschluss zu UR-Nr. 0143/2027 notariell beurkundet.
+
+
+Zu TOP 4 (Bezugsrechtsverzicht):
+
+Dr. Mira Schoeneck und Lina Habersaat verzichten hiermit jeweils ausdrücklich auf ihre Bezugsrechte hinsichtlich der zu schaffenden 66 neuen Geschäftsanteile.
+
+
+Zu TOP 5 (Satzungsänderung):
+
+Die Gesellschafterversammlung beschließt einstimmig die Änderung von § 3 Abs. 1 der Satzung wie folgt:
+
+„§ 3 Stammkapital. Das Stammkapital der Gesellschaft beträgt EUR 1.066,00 (eintausendsechsundsechzig Euro). Es ist eingeteilt in 1.066 Geschäftsanteile zu je EUR 1,00."
+
+
+Zu TOP 6 (Kapitalrücklage):
+
+Die Gesellschafterversammlung beschließt einstimmig, dass die Northstar Pre-Seed Partners GmbH & Co. KG den Differenzbetrag zwischen der Wandlungssumme (EUR 261.541,67) und dem Nennbetrag der übernommenen Geschäftsanteile (EUR 66,00), mithin EUR 261.475,67, im Wege der Einlage in die Kapitalrücklage gemäß § 272 Abs. 2 Nr. 4 HGB einbringt. Die hierfür erforderliche Sacheinlage- bzw. Verzichtsvereinbarung wird gesondert beurkundet (vgl. UR-Nr. 0144/2027).
+
+
+Zu TOP 7 (Sonstiges): keine weiteren Beschlüsse.
+
+
+V. Schlussfeststellung
+
+Die Versammlung wird um 11:35 Uhr geschlossen. Die Beschlüsse zu TOP 2, 5 und (soweit beurkundungspflichtig) TOP 6 sind in der notariellen Niederschrift gemäß § 53 Abs. 2 GmbHG bzw. § 15 Abs. 4 GmbHG ausgewiesen.
+
+
+Unterschriften
+
+Berlin, 4. März 2027
+
+
+_______________________________________
+
+Dr. Mira Schoeneck (Versammlungsleitung und Geschäftsführerin)
+
+
+_______________________________________
+
+Lina Habersaat (Schriftführung)
+
+
+_______________________________________
+
+Notarin Dr. Eva Wendthusen (UR-Nr. 0142/2027 i.V.m. 0143 und 0144/2027)

@@ -1,6 +1,6 @@
 # Vorschau: BSAG-TermSheet-Kiosk-Huckelriede - Kopie
 
-> Markdown-Vorschau der gleichnamigen DOCX-Datei. Massgeblich ist die DOCX-Originaldatei mit Formatierung.
+> Lesbare Markdown-Vorschau der gleichnamigen DOCX-Datei. Massgeblich ist die DOCX-Originaldatei.
 
 TERM SHEET
 

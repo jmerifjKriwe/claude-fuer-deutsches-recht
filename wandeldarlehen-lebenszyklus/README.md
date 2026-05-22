@@ -17,7 +17,9 @@ Tipp: Bei DOCX/XLSX rendert GitHub keine lesbare Vorschau. Daher liegt zu jeder 
 | Datei | Inhalt |
 |---|---|
 | [README.md](../testakten/wandeldarlehen-beispielcase/README.md) | Überblick Sonnenglas UG / Northstar Pre-Seed Partners, Parteien, Konditionen |
-| [Wandeldarlehen-Sonnenglas-Northstar-bilingual.md](../testakten/wandeldarlehen-beispielcase/Wandeldarlehen-Sonnenglas-Northstar-bilingual.md) | Markdown-Vorschau des bilingualen Vertrags (DE/EN) |
+| [Term-Sheet-Sonnenglas-Northstar.md](../testakten/wandeldarlehen-beispielcase/Term-Sheet-Sonnenglas-Northstar.md) | Markdown-Vorschau des Term-Sheets vom 15. April 2026 (24 Parameter, unverbindlich) |
+| [Term-Sheet-Sonnenglas-Northstar.docx](../testakten/wandeldarlehen-beispielcase/Term-Sheet-Sonnenglas-Northstar.docx) | Term-Sheet als Vor-Vertrag (Original) |
+| [Wandeldarlehen-Sonnenglas-Northstar-bilingual.md](../testakten/wandeldarlehen-beispielcase/Wandeldarlehen-Sonnenglas-Northstar-bilingual.md) | Markdown-Vorschau des bilingualen Vertrags (DE/EN), 11 Paragraphen |
 | [Wandeldarlehen-Sonnenglas-Northstar-bilingual.docx](../testakten/wandeldarlehen-beispielcase/Wandeldarlehen-Sonnenglas-Northstar-bilingual.docx) | Bilingualer Vertrag DE/EN, zweispaltig (Original) |
 | [Wandeldarlehen-Sonnenglas-Northstar-nur-deutsch.md](../testakten/wandeldarlehen-beispielcase/Wandeldarlehen-Sonnenglas-Northstar-nur-deutsch.md) | Markdown-Vorschau des einsprachigen Vertrags |
 | [Wandeldarlehen-Sonnenglas-Northstar-nur-deutsch.docx](../testakten/wandeldarlehen-beispielcase/Wandeldarlehen-Sonnenglas-Northstar-nur-deutsch.docx) | Einsprachige Vertragsfassung DE (Original) |
@@ -25,7 +27,9 @@ Tipp: Bei DOCX/XLSX rendert GitHub keine lesbare Vorschau. Daher liegt zu jeder 
 | [Cap-Table-Pre-Money.xlsx](../testakten/wandeldarlehen-beispielcase/Cap-Table-Pre-Money.xlsx) | Cap-Table vor Wandlung (Original) |
 | [Cap-Table-Post-Money.md](../testakten/wandeldarlehen-beispielcase/Cap-Table-Post-Money.md) | Markdown-Vorschau Cap-Table nach Wandlung |
 | [Cap-Table-Post-Money.xlsx](../testakten/wandeldarlehen-beispielcase/Cap-Table-Post-Money.xlsx) | Cap-Table nach Seed-Runde und Wandlung (Original) |
-| [Wandlungserklaerung-Muster.md](../testakten/wandeldarlehen-beispielcase/Wandlungserklaerung-Muster.md) | Markdown-Vorschau der Wandlungserklärung |
+| [Wandlungsmitteilung-Sonnenglas-an-Northstar.md](../testakten/wandeldarlehen-beispielcase/Wandlungsmitteilung-Sonnenglas-an-Northstar.md) | Markdown-Vorschau der Wandlungsmitteilung der Gesellschaft an Northstar vom 14. Februar 2027 |
+| [Wandlungsmitteilung-Sonnenglas-an-Northstar.docx](../testakten/wandeldarlehen-beispielcase/Wandlungsmitteilung-Sonnenglas-an-Northstar.docx) | Mitteilung über bevorstehende Seed-Runde und Wandlungspflicht (Original) |
+| [Wandlungserklaerung-Muster.md](../testakten/wandeldarlehen-beispielcase/Wandlungserklaerung-Muster.md) | Markdown-Vorschau der Wandlungserklärung Northstar (22. Februar 2027, 66 neue Anteile zum Cap-Preis) |
 | [Wandlungserklaerung-Muster.docx](../testakten/wandeldarlehen-beispielcase/Wandlungserklaerung-Muster.docx) | Muster-Wandlungserklärung Northstar an Sonnenglas (Original) |
 | [Gesellschafterbeschluss-Kapitalerhoehung-Muster.md](../testakten/wandeldarlehen-beispielcase/Gesellschafterbeschluss-Kapitalerhoehung-Muster.md) | Markdown-Vorschau des Beschlusses |
 | [Gesellschafterbeschluss-Kapitalerhoehung-Muster.docx](../testakten/wandeldarlehen-beispielcase/Gesellschafterbeschluss-Kapitalerhoehung-Muster.docx) | Beschluss über Kapitalerhöhung gegen Sacheinlage (Original) |

@@ -1,6 +1,6 @@
 # Vorschau: 09_Genehmigungsantrag_Wohnungsverkauf_Entwurf
 
-> Markdown-Vorschau der gleichnamigen DOCX-Datei. Massgeblich ist die DOCX-Originaldatei mit Formatierung.
+> Lesbare Markdown-Vorschau der gleichnamigen DOCX-Datei. Massgeblich ist die DOCX-Originaldatei.
 
 Stefan Lichtenberg
 

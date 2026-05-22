@@ -1,6 +1,6 @@
 # Vorschau: 05_Term_Sheet_Series_A_Tranche_2
 
-> Markdown-Vorschau der gleichnamigen DOCX-Datei. Massgeblich ist die DOCX-Originaldatei mit Formatierung.
+> Lesbare Markdown-Vorschau der gleichnamigen DOCX-Datei. Massgeblich ist die DOCX-Originaldatei.
 
 NON-BINDING TERM SHEET
 
@@ -56,25 +56,25 @@ All three milestones must be achieved simultaneously by the Milestone Verificati
 
 (a)  No later than July 10, 2026, the Company shall deliver to Earlybird a written milestone achievement report (Meilenstein-Erfüllungsbericht) certified by the Company's auditor / tax advisor.
 
-(Spätestens bis zum 10. Juli 2026 überreicht die Gesellschaft Earlybird einen schriftlichen Meilenstein-Nachweis, der durch die Steuerberaterin der Gesellschaft bestätigt wird.)
+    (Spätestens bis zum 10. Juli 2026 überreicht die Gesellschaft Earlybird einen schriftlichen Meilenstein-Nachweis, der durch die Steuerberaterin der Gesellschaft bestätigt wird.)
 
 (b)  Earlybird shall have 10 business days to review and accept or dispute the milestone achievement report.
 
-(Earlybird hat 10 Werktage Zeit, den Bericht zu prüfen und entweder anzunehmen oder zu bestreiten.)
+    (Earlybird hat 10 Werktage Zeit, den Bericht zu prüfen und entweder anzunehmen oder zu bestreiten.)
 
 (c)  Upon undisputed achievement, Earlybird shall cause the disbursement of EUR 3,000,000 within 10 business days via wire transfer.
 
-(Bei unbestrittener Erfüllung zahlt Earlybird EUR 3.000.000,00 innerhalb von 10 Werktagen per Überweisung aus.)
+    (Bei unbestrittener Erfüllung zahlt Earlybird EUR 3.000.000,00 innerhalb von 10 Werktagen per Überweisung aus.)
 
 ### 4. ALTERNATIVE SCENARIOS / ALTERNATIVSZENARIEN
 
 4.1  Partial Achievement — If only M-1 and M-3 are met but NRR is between 100% and 110%, the parties agree to negotiate in good faith a reduced tranche disbursement of not less than EUR 1,500,000 and/or a convertible loan structure.
 
-(Teilerfüllung — Falls nur M-1 und M-3 erfüllt, NRR zwischen 100 % und 110 %, verhandeln die Parteien in gutem Glauben über eine Teilauszahlung von mind. 1.500.000,00 EUR und/oder eine Wandeldarlehensstruktur.)
+    (Teilerfüllung — Falls nur M-1 und M-3 erfüllt, NRR zwischen 100 % und 110 %, verhandeln die Parteien in gutem Glauben über eine Teilauszahlung von mind. 1.500.000,00 EUR und/oder eine Wandeldarlehensstruktur.)
 
 4.2  Missed Milestones — If Milestones are not achieved by the Verification Date, the Company and Earlybird shall meet within 15 business days to agree on a revised funding plan. This Term Sheet does not create any obligation on Earlybird to disburse Tranche 2 if Milestones are not achieved.
 
-(Nicht-Erreichung — Falls Meilensteine nicht erfüllt: innerhalb von 15 Werktagen Treffen zur Besprechung eines überarbeiteten Finanzierungsplans. Dieses Term Sheet begründet keine Verpflichtung von Earlybird zur Auszahlung von Tranche 2 bei Nicht-Erreichung.)
+    (Nicht-Erreichung — Falls Meilensteine nicht erfüllt: innerhalb von 15 Werktagen Treffen zur Besprechung eines überarbeiteten Finanzierungsplans. Dieses Term Sheet begründet keine Verpflichtung von Earlybird zur Auszahlung von Tranche 2 bei Nicht-Erreichung.)
 
 ### 5. IMPORTANT NOTICE / WICHTIGER HINWEIS
 

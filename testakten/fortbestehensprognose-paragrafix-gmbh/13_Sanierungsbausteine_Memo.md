@@ -1,6 +1,6 @@
 # Vorschau: 13_Sanierungsbausteine_Memo
 
-> Markdown-Vorschau der gleichnamigen DOCX-Datei. Massgeblich ist die DOCX-Originaldatei mit Formatierung.
+> Lesbare Markdown-Vorschau der gleichnamigen DOCX-Datei. Massgeblich ist die DOCX-Originaldatei.
 
 INTERNES MEMORANDUM — VERTRAULICH
 
@@ -61,7 +61,7 @@ Bei Unterzeichnung des Wandeldarlehens mit verbindlichem Auszahlungsdatum wäre 
 | Kein Hire Junior CS Manager (war für August 2026 geplant) | +70.000,00 EUR Brutto + 22 % = 85.400,00 EUR p.a. | Sofortig | Höhere CS-Last auf bestehendes Team |
 | Verschiebung Werkstudenten-Headcount (1 FTE → 0,5) | +7.200,00 EUR p.a. | Ab Juni 2026 | Gering |
 | Verzicht auf externe Konferenzauftritte H2 2026 | +12.000,00 EUR (Marketing) | Ab sofort | Sichtbarkeitsreduktion minimal |
-| GESAMT KOSTENEINSPARUNG p.a. | ca. +263.200,00 EUR / ca. 21.933,00 EUR/Monat |  |  |
+| GESAMT KOSTENEINSPARUNG p.a. | ca. +263.200,00 EUR / ca. 21.933,00 EUR/Monat |   |   |
 
 #### 2.3  Forderungsmanagement — Jahresvoraus-Zahlungen
 
@@ -74,7 +74,7 @@ Status:  In Vorbereitung — Ansprache von 5 Großkunden mit Jahresvolumen > 36.
 | GK-003 (Großkanzlei, 220 User) | 9.200 EUR/Mo | 110.400 EUR | Jahresvoraus bis 30.06. | 7 % (= 7.728 EUR Rabatt) |
 | GK-004 (Kanzlei-Netzwerk, 120 User) | 5.100 EUR/Mo | 61.200 EUR | Jahresvoraus bis 15.07. | 5 % (= 3.060 EUR Rabatt) |
 | GK-005 (LegalTech-Berater, 45 User) | 1.900 EUR/Mo | 22.800 EUR | Jahresvoraus bis 30.06. | 0 % (loyal, kein Rabatt) |
-| POTENZIAL GESAMT |  | 319.200 EUR | Max. 319.200 EUR Liquiditätszufluss | Max. 17.028 EUR Rabatt-Kosten |
+| POTENZIAL GESAMT |   | 319.200 EUR | Max. 319.200 EUR Liquiditätszufluss | Max. 17.028 EUR Rabatt-Kosten |
 
 
 ### 3. GESAMTBEWERTUNG UND FORTBESTEHENSPROGNOSE

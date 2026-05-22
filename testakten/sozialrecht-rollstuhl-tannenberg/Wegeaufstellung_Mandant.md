@@ -1,6 +1,6 @@
 # Vorschau: Wegeaufstellung_Mandant
 
-> Markdown-Vorschau der gleichnamigen DOCX-Datei. Massgeblich ist die DOCX-Originaldatei mit Formatierung.
+> Lesbare Markdown-Vorschau der gleichnamigen DOCX-Datei. Massgeblich ist die DOCX-Originaldatei.
 
 ## Meine Wege im Alltag – wohin ich noch komme und wo ich stürze
 

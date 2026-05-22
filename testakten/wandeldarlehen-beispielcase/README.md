@@ -1,64 +1,81 @@
-# Testakte: Wandeldarlehen Sonnenglas UG / Northstar Pre-Seed Partners
+# Testakte: Wandeldarlehen-Lebenszyklus (Sonnenglas Solartechnologie UG)
 
-**Fiktiver Beispielfall** zur Demonstration des Plugins `wandeldarlehen-lebenszyklus`.
+> Komplette fiktive Beispielakte fuer das Plugin [`wandeldarlehen-lebenszyklus`](../../wandeldarlehen-lebenszyklus/). Alle Personen, Firmen, Adressen, Kontonummern und Aktenzeichen sind frei erfunden. Die Akte deckt den gesamten Lebenszyklus vom Term-Sheet ueber Auszahlung bis zur Wandlung im Rahmen einer Seed-Runde ab und stellt sowohl deutschsprachige als auch bilinguale (DE/EN) Vertragsmuster bereit.
 
-## Parteien
+## Sachverhalt in einer Minute
 
-| Rolle | Partei |
-|---|---|
-| Gesellschaft | Sonnenglas Solartechnologie UG (haftungsbeschränkt), HRB 123456 B, AG Charlottenburg, Sitz Berlin |
-| Gesellschafterin 1 | Dr. Mira Schoeneck, Berlin (40 Geschäftsanteile, 40 %) |
-| Gesellschafterin 2 | Lina Habersaat, Hamburg (35 Geschäftsanteile, 35 %) |
-| Treasury | Sonnenglas Solartechnologie UG eigene Anteile (25 Geschäftsanteile, 25 %) |
-| Darlehensgeber (Lender) | Northstar Pre-Seed Partners GmbH & Co. KG, Frankfurt am Main |
+Die **Sonnenglas Solartechnologie UG (haftungsbeschraenkt)** (Berlin, HRB 123456 B beim AG Charlottenburg) bietet Photovoltaik-Loesungen fuer Mehrfamilienhaeuser und entwickelt eine eigene Halbleiter-Cell-Architektur. Stammkapital EUR 1.000,00, eingeteilt in 1.000 Geschaeftsanteile zu je EUR 1,00 Nennbetrag. Gesellschafterinnen sind die Gruenderin und Geschaeftsfuehrerin **Dr. Mira Schoeneck** (600 Anteile, 60 %) und die Co-Gruenderin **Lina Habersaat** (400 Anteile, 40 %).
 
-## Stammkapital
+Im April 2026 unterzeichnet die UG mit der **Northstar Pre-Seed Partners GmbH & Co. KG** (Frankfurt am Main, HRA 99999) ein Wandeldarlehen ueber **EUR 250.000** mit 24 Monaten Laufzeit, **6,0 % p.a.** (act/360), Bewertungs-Cap **EUR 4.000.000** Pre-Money und **20 % Discount** auf den naechsten qualifizierten Finanzierungspreis. Die Mitwirkung der Gesellschafterinnen ist im Vertrag mitgeregelt (Stimmpflichten, Beschlussfassung, Anteilskapitalbereitstellung).
 
-EUR 1.000 (eintausend Euro), aufgeteilt in 100 Geschäftsanteile zu je EUR 1,00 Nennwert.
+Im Februar 2027 startet Sonnenglas eine **Seed-Runde** mit dem Lead-Investor **Polaris Climate Ventures SCS** (EUR 1.500.000) und der **Solar Future Holding GmbH** (EUR 500.000) bei einer Pre-Money-Bewertung von EUR 6.500.000. Northstar uebt das Wandlungsrecht aus; der Bewertungs-Cap greift und liefert einen effektiven Preis je Anteil von EUR 4.000 statt EUR 6.500 (Faktor 1,625x). Notarin **Dr. Eva Wendthusen** beurkundet am 4. Maerz 2027 unter UR-Nrn. 0142-0144/2027 die Kapitalerhoehung.
 
-Dr. Schoeneck ist zugleich alleinvertretungsberechtigte Geschäftsführerin.
+## Dateien in dieser Akte
 
-## Konditionen des Wandeldarlehens
+### Vertraege
+
+| Datei | Inhalt | Vorschau |
+| --- | --- | --- |
+| [Wandeldarlehen-Sonnenglas-Northstar-bilingual.docx](Wandeldarlehen-Sonnenglas-Northstar-bilingual.docx) | Vollwertiger bilingualer (DE/EN) Wandeldarlehensvertrag, 11 Paragraphen (§ 0 Praeambel bis § 10 Schlussbestimmungen), nach Mustervorlage und mit allen Daten gefuellt | [.md](Wandeldarlehen-Sonnenglas-Northstar-bilingual.md) |
+| [Wandeldarlehen-Sonnenglas-Northstar-nur-deutsch.docx](Wandeldarlehen-Sonnenglas-Northstar-nur-deutsch.docx) | Gleicher Inhalt, einsprachig deutsch, einspaltig | [.md](Wandeldarlehen-Sonnenglas-Northstar-nur-deutsch.md) |
+| [Term-Sheet-Sonnenglas-Northstar.docx](Term-Sheet-Sonnenglas-Northstar.docx) | Vor-Vertrag: 24 Parameter (Darlehen, Cap, Discount, CPs, Information Rights, MFN, Drag-/Tag-Bezug) vom 15. April 2026 | [.md](Term-Sheet-Sonnenglas-Northstar.md) |
+
+### Wandlung und Notarunterlagen
+
+| Datei | Inhalt | Vorschau |
+| --- | --- | --- |
+| [Wandlungsmitteilung-Sonnenglas-an-Northstar.docx](Wandlungsmitteilung-Sonnenglas-an-Northstar.docx) | Schreiben der UG an Northstar vom 14. Februar 2027 ueber den Start der Seed-Runde und die Wandlungspflicht | [.md](Wandlungsmitteilung-Sonnenglas-an-Northstar.md) |
+| [Wandlungserklaerung-Muster.docx](Wandlungserklaerung-Muster.docx) | Wandlungserklaerung Northstar vom 22. Februar 2027, Wandlungssumme EUR 261.541,67, 66 neue Anteile zum Cap-Preis EUR 4.000,00 | [.md](Wandlungserklaerung-Muster.md) |
+| [Gesellschafterbeschluss-Kapitalerhoehung-Muster.docx](Gesellschafterbeschluss-Kapitalerhoehung-Muster.docx) | Notariell beurkundeter Beschluss vom 4. Maerz 2027 (UR 0142/2027): Kapitalerhoehung von EUR 1.000 auf EUR 1.374 unter Ausschluss des Bezugsrechts | [.md](Gesellschafterbeschluss-Kapitalerhoehung-Muster.md) |
+| [Notar-Paket-Inhaltsverzeichnis.docx](Notar-Paket-Inhaltsverzeichnis.docx) | Checkliste aller 15 Notarunterlagen (Vorabentwuerfe, beigefuegte Anlagen, Handelsregisteranmeldung, Gesellschafterliste) | [.md](Notar-Paket-Inhaltsverzeichnis.md) |
+
+### Cap-Tables
+
+| Datei | Inhalt | Vorschau |
+| --- | --- | --- |
+| [Cap-Table-Pre-Money.xlsx](Cap-Table-Pre-Money.xlsx) | Gesellschafterstruktur vor Auszahlung Wandeldarlehen (Schoeneck 60 % / Habersaat 40 %), 1.000 Anteile gesamt, inkl. pro-forma Wandelannahmen | [.md](Cap-Table-Pre-Money.md) |
+| [Cap-Table-Post-Money.xlsx](Cap-Table-Post-Money.xlsx) | Gesellschafterstruktur nach Wandlung + Seed-Runde (1.374 Anteile gesamt, 5 Gesellschafter), Verwaesserungs-Check | [.md](Cap-Table-Post-Money.md) |
+
+## Eckdaten (Quick Reference)
 
 | Parameter | Wert |
-|---|---|
-| Darlehensbetrag | EUR 250.000 |
-| Laufzeit | 2 Jahre (Feste Laufzeit) |
-| Zinssatz | 5,0 % p.a. (act/360) |
-| Auszahlung | 7 Bankarbeitstage nach Unterzeichnung |
-| Valuation Cap | EUR 4.000.000 Pre-Money |
-| Discount | 20 % auf Rundenpreis |
-| Qualified Financing | Mindest-Pre-Money EUR 4.000.000, Mindest-Investment EUR 500.000 |
-| Maturity-Bewertung | EUR 4.000.000 Pre-Money (Fall-back) |
+| --- | --- |
+| Gesellschaft | Sonnenglas Solartechnologie UG (haftungsbeschraenkt) |
+| Sitz / Register | Berlin / AG Charlottenburg HRB 123456 B |
+| Stammkapital | EUR 1.000,00 (1.000 Geschaeftsanteile zu je EUR 1,00) |
+| Gruenderin / Geschaeftsfuehrerin | Dr. Mira Schoeneck (600 Anteile, 60 %) |
+| Co-Gruenderin | Lina Habersaat (400 Anteile, 40 %) |
+| Konto | Berliner Sparkasse · IBAN DE89 1005 0000 0123 4567 89 · BIC BELADEBEXXX |
+| Investor (Wandeldarlehen) | Northstar Pre-Seed Partners GmbH & Co. KG, Frankfurt am Main, HRA 99999 |
+| Darlehensbetrag | EUR 250.000,00 |
+| Laufzeit | 24 Monate fix |
+| Zinssatz | 6,0 % p.a. (act/360) |
+| Bewertungs-Cap (Pre-Money) | EUR 4.000.000,00 |
+| Discount | 20 % auf Seed-Preis |
+| Term-Sheet | 15. April 2026 |
+| Auszahlung | 7 Bankarbeitstage nach CP-Erfuellung |
+| Wandlungsmitteilung | 14. Februar 2027 |
+| Wandlungserklaerung | 22. Februar 2027 |
+| Wandlungssumme | EUR 261.541,67 (Nominal EUR 250.000 + EUR 11.541,67 Zinsen) |
+| Neue Anteile aus Wandlung | 66 (Cap-Preis EUR 4.000,00 / Anteil) |
+| Seed-Lead | Polaris Climate Ventures SCS, Luxemburg (EUR 1.500.000, 231 Anteile) |
+| Seed-Co | Solar Future Holding GmbH (EUR 500.000, 77 Anteile) |
+| Pre-Money Seed | EUR 6.500.000,00 |
+| Seed-Preis je Anteil | EUR 6.500,00 |
+| Beurkundung | 4. Maerz 2027 · Notarin Dr. Eva Wendthusen · UR 0142-0144/2027 |
 
-## Unternehmenshintergrund
+## Wie diese Akte mit dem Plugin zusammenpasst
 
-Sonnenglas Solartechnologie UG entwickelt intelligente Solarmodul-Steuerungssoftware für Kleinanlagen. Gegründet im Jahr 2024 in Berlin. Das Wandeldarlehen dient der Überbrückungsfinanzierung bis zur geplanten Seed-Runde im Q1 2027 mit einer angestrebten Pre-Money-Bewertung von EUR 5–8 Mio.
+Das Plugin [`wandeldarlehen-lebenszyklus`](../../wandeldarlehen-lebenszyklus/) liefert Skills fuer:
 
-## Szenarien in den Testdokumenten
+1. Term-Sheet-Aufnahme und -Pruefung (passt zu [Term-Sheet-Sonnenglas-Northstar.docx](Term-Sheet-Sonnenglas-Northstar.docx))
+2. Erstellung und Pruefung des Wandeldarlehensvertrages (passt zu beiden Vertrags-DOCX)
+3. Cap-Table-Modellierung Pre-/Post-Money (passt zu den Cap-Table-XLSX)
+4. Wandlungsmechanik mit Cap, Discount, MFN-Klauseln (passt zu den Wandlungsdokumenten)
+5. Notarvorbereitung und Beurkundungs-Workflow (passt zu Notar-Paket-Inhaltsverzeichnis und Gesellschafterbeschluss)
 
-1. **Bilingualer Vertrag** (`Wandeldarlehen-Sonnenglas-Northstar-bilingual.docx`) — vollständiger Vertragstext DE/EN mit allen verbesserten Klauseln (Cap/Discount, MFN, Pro-rata, Liquidationspräferenz 1x, BGH-Verweis Rangrücktritt, DIS-Schiedsklausel).
-
-2. **Einsprachiger Vertrag** (`Wandeldarlehen-Sonnenglas-Northstar-nur-deutsch.docx`) — identischer materieller Inhalt, nur auf Deutsch, einspaltig.
-
-3. **Pre-Money Cap-Table** (`Cap-Table-Pre-Money.xlsx`) — Ausgangslage vor Wandlung.
-
-4. **Post-Money Cap-Table** (`Cap-Table-Post-Money.xlsx`) — nach Seed-Runde EUR 1 Mio bei Pre-Money EUR 6 Mio; Northstar wandelt zu Cap-Preis (EUR 40.000 je Anteil) → 7 neue Anteile.
-
-5. **Wandlungserklärung** (`Wandlungserklaerung-Muster.docx`) — Muster-Wandlungserklärung Northstar an Sonnenglas nach Qualified Financing.
-
-6. **Gesellschafterbeschluss** (`Gesellschafterbeschluss-Kapitalerhoehung-Muster.docx`) — Beschluss über Kapitalerhöhung gegen Sacheinlage (Forderung aus Wandeldarlehen).
-
-7. **Notar-Paket** (`Notar-Paket-Inhaltsverzeichnis.docx`) — Inhaltsverzeichnis aller für den Notar einzureichenden Unterlagen.
-
-## Passendes Plugin
-
-`wandeldarlehen-lebenszyklus` — alle 30 Skills von Phase A (Erstellung) bis Phase D (HR-Anmeldung).
-
-## Einstieg in die Akte
-
-Nutze den Skill `mandat-triage-wandeldarlehen` als Einstieg, dann `bilinguale-vertragserstellung` oder `einsprachige-vertragsfassung-de` für die Vertragserstellung. Für die Wandlungsrechnung: `wandlungspruefung-trigger-qualified-financing` → `wandlungspreis-berechnung` → `cap-table-update-pre-post`.
+Die DOCX-Dateien sind editierbare Muster — die Werte koennen ausgetauscht werden. Die `.md`-Dateien sind nur Vorschauen fuer das GitHub-Web-UI; massgeblich sind die DOCX/XLSX-Originale.
 
 ## Disclaimer
 
-Alle Personen, Firmen, Konten, Beträge und Aktenzeichen sind frei erfunden. Übereinstimmungen mit realen Personen oder Unternehmen wären rein zufällig. Die Akte dient ausschließlich dem Testen des Plugins und ist keine Rechtsberatung.
+Diese Akte ist ein didaktisches Beispiel und ersetzt keine konkrete Rechts-, Steuer- oder Notarberatung. Bewertungs-Cap, Discount, Zinssatz, Lock-up- und Ratchet-Mechaniken muessen im Einzelfall passend gestaltet werden. Vor Verwendung in der Praxis ist die Pruefung durch eine fachkundige Rechtsanwaeltin / einen fachkundigen Rechtsanwalt erforderlich.

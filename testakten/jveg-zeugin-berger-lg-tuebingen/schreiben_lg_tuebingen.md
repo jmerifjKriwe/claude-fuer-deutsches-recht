@@ -1,6 +1,6 @@
 # Vorschau: schreiben_lg_tuebingen
 
-> Markdown-Vorschau der gleichnamigen DOCX-Datei. Massgeblich ist die DOCX-Originaldatei mit Formatierung.
+> Lesbare Markdown-Vorschau der gleichnamigen DOCX-Datei. Massgeblich ist die DOCX-Originaldatei.
 
 - Abschrift -
 
@@ -25,25 +25,25 @@ SPANIEN
 
 
 
-27.01.2026
+	27.01.2026
 
-Seite 1 von 2
-
-
-Aktenzeichen
-
-7 O 118/23
-
-bei Antwort bitte angeben
+	Seite 1 von 2
 
 
-Bearbeiterin
+	Aktenzeichen
 
-Frau Krämer
+	7 O 118/23
 
-Durchwahl
+	bei Antwort bitte angeben
 
-07071/200-1247
+
+	Bearbeiterin
+
+	Frau Krämer
+
+	Durchwahl
+
+	07071/200-1247
 
 
 

@@ -1,6 +1,6 @@
 # Vorschau: KI-Richtlinie-Musterkanzlei-Entwurf
 
-> Markdown-Vorschau der gleichnamigen DOCX-Datei. Massgeblich ist die DOCX-Originaldatei mit Formatierung.
+> Lesbare Markdown-Vorschau der gleichnamigen DOCX-Datei. Massgeblich ist die DOCX-Originaldatei.
 
 ## Richtlinie zur Nutzung von KI-Systemen in [Name der Kanzlei]
 
@@ -205,6 +205,7 @@ Es gibt jedoch eine wichtige Bereichsausnahme, siehe § 5 UrhG: Gesetze, Verordn
 
 Vorsicht ist geboten, wenn man eigentlich urheberrechtsfreie Urteile nicht von einer offiziellen Gerichts-Website entnimmt, sondern aus einer proprietären juristischen Datenbank, da diese gegebenenfalls weitere Bestandteile enthalten, die von dem jeweiligen Datenbankanbieter hinzugefügt wurden und gegebenenfalls doch urheberrechtlichen oder einen anderen immaterialgüterrechtlichen (Leistungsrechts-) Schutz (z.B. nach dem Datenbankherstellerrecht) genießen. Grundsätzlich ist darauf zu achten, dass die veröffentlichten Gerichtsentscheidungen auf die übliche Weise pseudonymisiert wurden (manche sagen auch: anonymisiert, was aber häufig nicht möglich ist, da zumindest das Aktenzeichen bei einer Entscheidung immer genannt wird), um zu vermeiden, dass es bei der Nutzung von Urteilen zur Verarbeitung personenbezogener Daten kommt.
 
+
 6.4 Verstöße gegen das Geschäftsgeheimnisschutzgesetz (GeschGehG)?
 
 
@@ -373,7 +374,7 @@ Im Einzelfall kann aber sehr wohl eine anwaltliche, rechtsberatende Tätigkeit (
 Während manche meinen, dass bei Chatbots aufgrund deren fehlender Absicht, Rechtsdienstleistungen anzubieten, und der mangelnden Zurechenbarkeit der Antworten auf einen Menschen keine solche Tätigkeit vorliegt, sehen andere eine solche Tätigkeit auch bei KI-Systemen gegeben, da deren Funktion letztlich auf menschliches Tun zurückzuführen sei.
 
 
-Es ist derzeit nicht höchstrichterlich geklärt, ob die KI-Systeme überhaupt Rechtsberatung im Sinne des RDG erbringen können. Fraglich ist nicht nur, ob die Nutzer, die nicht Anwälte sind, überhaupt die Erwartung haben, hier eine Rechtsberatungsdienstleistung zu erhalten. Ebenso könnte die Nutzung durch Anwälte noch einmal anders zu behandeln sein, da diese wohl noch weniger davon ausgehen, dass sie von einem Chatbot Rechtsberatung erhalten, sondern eher mit einem modernen Werkzeug juristische Texte in ihrem eigenen Sinne und nach ihrer eigenen Prüfung und Freigabe verfassen wollen. Je nach Nutzer eines KI-Systems kann es also im Hinblick auf § 2 Abs. 1 RDG zu unterschiedlichen Ergebnissen kommen.
+ Es ist derzeit nicht höchstrichterlich geklärt, ob die KI-Systeme überhaupt Rechtsberatung im Sinne des RDG erbringen können. Fraglich ist nicht nur, ob die Nutzer, die nicht Anwälte sind, überhaupt die Erwartung haben, hier eine Rechtsberatungsdienstleistung zu erhalten. Ebenso könnte die Nutzung durch Anwälte noch einmal anders zu behandeln sein, da diese wohl noch weniger davon ausgehen, dass sie von einem Chatbot Rechtsberatung erhalten, sondern eher mit einem modernen Werkzeug juristische Texte in ihrem eigenen Sinne und nach ihrer eigenen Prüfung und Freigabe verfassen wollen. Je nach Nutzer eines KI-Systems kann es also im Hinblick auf § 2 Abs. 1 RDG zu unterschiedlichen Ergebnissen kommen.
 
 
 ### 9. KI-Kompetenz als rechtliche Pflicht (Art. 4 KI-VO)
@@ -572,7 +573,7 @@ Freundlichkeit hilft: Die Chatbots funktionieren besser, wenn man zu ihnen freun
 ANLAGE MUSTERKLAUSELN § 43e BRAO
 
 
-(Beispielhafte Formulierung, anzupassen auf den jeweiligen Dienstleister):
+ (Beispielhafte Formulierung, anzupassen auf den jeweiligen Dienstleister):
 
 Musterklauseln für einen Vertrag nach § 43e BRAO
 

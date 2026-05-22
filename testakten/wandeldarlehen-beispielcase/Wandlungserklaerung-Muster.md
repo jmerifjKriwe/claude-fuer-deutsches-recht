@@ -1,76 +1,104 @@
-# Wandlungserklärung (Muster)
-## Northstar Pre-Seed Partners GmbH & Co. KG → Sonnenglas Solartechnologie UG
+# Vorschau: Wandlungserklaerung-Muster
 
-> Leseversion des Originaldokuments `Wandlungserklaerung-Muster.docx`  
-> gem. § 8 des Wandeldarlehensvertrags vom 01.07.2024
+> Lesbare Markdown-Vorschau der gleichnamigen DOCX-Datei. Massgeblich ist die DOCX-Originaldatei.
 
----
+AUSÜBUNGSERKLÄRUNG WANDLUNGSOPTION
 
-## I. Parteien
+(Wandeldarlehensvertrag vom 22. Mai 2026)
 
-| Rolle | Partei |
-|---|---|
-| Darlehensgeberin | Northstar Pre-Seed Partners GmbH & Co. KG, HRA 99999, AG Frankfurt am Main |
-| Darlehensnehmerin | Sonnenglas Solartechnologie UG (haftungsbeschränkt), HRB 123456 B, AG Charlottenburg |
 
----
+Absender
 
-## II. Erklärung
+Northstar Pre-Seed Partners GmbH & Co. KG
 
-Die Darlehensgeberin erklärt hiermit gegenüber der Darlehensnehmerin die Ausübung des Wandlungsrechts gemäß § 8 des Wandeldarlehensvertrags vom 01.07.2024.
+Venture-Allee 1, 60329 Frankfurt am Main
 
-**Eingetretenes Wandlungsereignis:** § 8 Abs. 1 lit. (a) — Qualified Financing Event, abgeschlossen am 01.07.2026.
+vertreten durch ihre Komplementärin Northstar Management GmbH,
 
-| Parameter | Wert |
-|---|---|
-| Pre-Money-Bewertung | EUR 6.000.000 |
-| Investitionsvolumen | EUR 1.000.000 |
+diese vertreten durch ihren Geschäftsführer Henrik Brendelmann
 
----
+E-Mail: investments@northstar-partners.example
 
-## III. Wandlungsparameter
 
-| Position | Berechnung | Ergebnis |
-|---|---|---|
-| Darlehensbetrag | — | EUR 250.000 |
-| Aufgelaufene Zinsen | 730 Tage × 5 % p.a. × act/360 | EUR 25.694 |
-| **Wandlungssumme gesamt** | | **EUR 275.694** |
-| Wandlungspreis je Anteil | Cap-getriggert: EUR 4.000.000 / 100 Anteile | EUR 40.000 |
-| Neue Geschäftsanteile | 275.694 / 40.000 = 6,89 → aufgerundet | **7 Anteile** |
-| Nennbetrag je neuer Anteil | § 5 Abs. 1 GmbHG | EUR 1,00 |
-| Gesamtnennbetrag neue Anteile | | EUR 7,00 |
+Empfänger
 
-**Wandlungspreisermittlung (MIN-Methode):**
+Sonnenglas Solartechnologie UG (haftungsbeschränkt)
 
-```
-A (Rundenpreis):    EUR 6.000.000 / 100 Anteile = EUR 60.000
-B (Discount-Preis): (1 − 20 %) × EUR 6.000.000 / 100 = EUR 48.000
-C (Cap-Preis):      EUR 4.000.000 / 100 Anteile = EUR 40.000  ← maßgeblich
-```
+Musterstraße 12, 10115 Berlin
 
----
+zu Händen der Geschäftsführerin Dr. Mira Schoeneck
 
-## IV. Aufforderung zur Kapitalerhöhung
+E-Mail: mira.schoeneck@sonnenglas.example
 
-Die Darlehensgeberin fordert die Darlehensnehmerin auf, unverzüglich eine Gesellschafterversammlung einzuberufen und einen Beschluss über die Erhöhung des Stammkapitals um EUR 7,00 zu fassen sowie die notwendigen handelsregisterrechtlichen Maßnahmen einzuleiten.
 
----
+Betreff
 
-## V. Rechtsfolge des Erlöschens
+Ausübung der Wandlungsoption gemäß § 4 des Wandeldarlehensvertrages vom 22. Mai 2026 (Wandlungsereignis: Qualified Financing „Seed-Runde 2027")
 
-Mit Eintragung der Kapitalerhöhung in das Handelsregister erlischt der Rückzahlungsanspruch aus dem Wandeldarlehensvertrag in Höhe der Wandlungssumme (EUR 275.694). Der Darlehensvertrag endet insoweit automatisch.
 
----
+Sehr geehrte Frau Dr. Schoeneck,
 
-## VI. Unterschriften
+unter Bezugnahme auf den zwischen der Sonnenglas Solartechnologie UG (haftungsbeschränkt), Dr. Mira Schoeneck, Lina Habersaat und der Northstar Pre-Seed Partners GmbH & Co. KG geschlossenen Wandeldarlehensvertrag vom 22. Mai 2026 (das „Darlehen") sowie Ihre Wandlungsmitteilung vom 14. Februar 2027 (zugegangen am 15. Februar 2027) üben wir hiermit die uns nach § 4.1 des Darlehens zustehende Wandlungsoption fristgerecht und vollumfänglich aus.
 
-| Partei | Datum / Ort |
-|---|---|
-| Northstar Pre-Seed Partners GmbH & Co. KG (Darlehensgeberin) | Berlin, _____________ |
-| Sonnenglas Solartechnologie UG, vertr. durch Dr. Mira Schoeneck (GF) | Berlin, _____________ |
 
-> Diese Wandlungserklärung ist gem. § 126b BGB in Textform zu übermitteln. Qualifizierte elektronische Signatur empfohlen.
+1. Wandlungssumme
 
----
+Wir wandeln die gesamte zum 14. Februar 2027 offene Darlehensvaluta zuzüglich aufgelaufener Zinsen:
 
-*Originaldokument: `Wandlungserklaerung-Muster.docx` — fiktive Testakte, keine Rechtsberatung*
+Darlehensvaluta:           EUR 250.000,00
+
+Zinsen (06.05.2026 – 14.02.2027, act/360, 6,0 % p. a.):  EUR    11.541,67
+
+Wandlungssumme insgesamt:  EUR 261.541,67
+
+
+2. Wandlungspreis
+
+Auf Basis der mitgeteilten Konditionen der Seed-Runde 2027 (Pre-Money EUR 6.500.000; 1.000 voll verwässerte Geschäftsanteile) ergibt sich:
+
+Rundenpreis A:    EUR 6.500.000 / 1.000 = EUR 6.500,00
+
+Discount-Preis B: 0,80 × EUR 6.500.000 / 1.000 = EUR 5.200,00
+
+Cap-Preis C:      EUR 4.000.000 / 1.000 = EUR 4.000,00
+
+Wandlungspreis = MIN(A; B; C) = EUR 4.000,00 je Geschäftsanteil.
+
+
+3. Neue Geschäftsanteile
+
+Wandlungssumme / Wandlungspreis = EUR 261.541,67 / EUR 4.000,00 = 65,39 Geschäftsanteile.
+
+Aufgerundet auf den nächsten ganzen Nennwert-Euro (§ 5 Abs. 1 GmbHG): 66 neue Geschäftsanteile zu je EUR 1,00 Nennbetrag.
+
+Die anteilige Spitze in Höhe von EUR 2.458,33 verbleibt als Bareinlage in der Kapitalrücklage gemäß § 272 Abs. 2 Nr. 4 HGB.
+
+
+4. Mitwirkungspflichten
+
+Wir bitten Sie, unverzüglich – spätestens jedoch innerhalb von zehn (10) deutschen Bankarbeitstagen nach Zugang dieser Erklärung – eine außerordentliche Gesellschafterversammlung einzuberufen und die nach § 4.9 des Darlehens erforderlichen Beschlüsse zu fassen (Kapitalerhöhung um EUR 66, Zulassung des Darlehensgebers zur Übernahme der neuen Geschäftsanteile, Verzicht der Gesellschafterinnen auf ihre Bezugsrechte).
+
+Wir sind bereit, den Notartermin gemeinsam mit der zeitgleichen Seed-Runde zu legen, um Kosten zu sparen.
+
+
+5. Anlagen
+
+— Anlage 1: Wandlungsmitteilung der Gesellschaft vom 14. Februar 2027
+
+— Anlage 2: Term Sheet Seed-Runde 2027 (auszugsweise)
+
+— Anlage 3: Pro-rata-Berechnung Northstar
+
+
+Mit freundlichen Grüßen
+
+Frankfurt am Main, ____________________
+
+
+_______________________________________
+
+Henrik Brendelmann
+
+Geschäftsführer Northstar Management GmbH
+
+für: Northstar Pre-Seed Partners GmbH & Co. KG
