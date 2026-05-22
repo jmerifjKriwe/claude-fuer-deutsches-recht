@@ -180,6 +180,16 @@ Vollständiger Workflow für die Klage auf Feststellung, dass ein angeblich befr
 | `/arbeitsrecht:entfristung-vergleichsverhandlung-checkliste` | Vergleichsbausteine Entfristungsklage; Beendigungsdatum; Abfindung; Zeugnis |
 | `/arbeitsrecht:entfristung-output-warnschriftsatz-laie` | Vollständige Klageschrift mit Pflicht-Disclaimer für Laien |
 
+
+## Testakten
+
+Für beide Arbeitsrecht-Skill-Bündel gibt es fertige fiktive Mandatsakten zum sofortigen Ausprobieren im Ordner [`testakten/`](../testakten/):
+
+| Testakte | Inhalt | Passt zu |
+|---|---|---|
+| [`testakten/kuendigungsschutzklage-weber-techlogix/`](../testakten/kuendigungsschutzklage-weber-techlogix/) | Markus Weber ./. TechLogix GmbH Berlin: betriebsbedingte Kündigung 30.04.2026, lückenhafte BR-Anhörung, fragwürdige Sozialauswahl (Weber 8 J. BZ + 2 Kinder vs. Grunewald 2 J. BZ), § 4 KSchG-Frist 20.05.2026. | `kueschk-*` |
+| [`testakten/befristungskontrollklage-vogt-stadtwerke/`](../testakten/befristungskontrollklage-vogt-stadtwerke/) | Lena Vogt ./. Stadtwerke Neukölln GmbH: Befristungskontrollklage, Schriftformverstoß § 14 Abs. 4 TzBfG (AV nur per E-Mail + Scan), Vorbeschäftigung 2021 als Graubereich, § 17 TzBfG-Frist 20.03.2026. | `entfristung-*` |
+
 ## Lerneffekt
 
 Ihr Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` ist nicht statisch – es verbessert sich durch Nutzung. Skills weisen Sie hin, wenn eine Ausgabe auf einem Standardwert beruht, der angepasst werden sollte. Sie können die Einrichtung erneut ausführen, die Datei direkt bearbeiten oder einem Skill mitteilen, eine neue Position zu speichern.
