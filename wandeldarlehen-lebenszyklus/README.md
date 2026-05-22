@@ -5,13 +5,13 @@ Vollständiger Workflow-Assistent für den Lebenszyklus eines Wandeldarlehens be
 ## Direkt-Download
 
 ```
-https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/v3.3.0/wandeldarlehen-lebenszyklus.zip
+https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/wandeldarlehen-lebenszyklus.zip
 ```
 
 ## Testakte
 
 ```
-https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/v3.3.0/testakte-wandeldarlehen-beispielcase.zip
+https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-wandeldarlehen-beispielcase.zip
 ```
 
 Enthält: bilinguale und einsprachige Vertragsfassung (Sonnenglas UG / Northstar Pre-Seed Partners), Pre-Money- und Post-Money-Cap-Tables, Wandlungserklärung, Gesellschafterbeschluss, Notar-Paket-Inhaltsverzeichnis.
