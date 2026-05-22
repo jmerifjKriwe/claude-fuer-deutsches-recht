@@ -115,3 +115,86 @@ Verbindlich nach `../../references/zitierweise.md`.
 - **§ 34 BDSG-Ausnahmen ohne Dokumentation:** Ausnahme muss einzelfallbezogen begründet sein; pauschale Verweigerung „wegen Geschäftsgeheimnisse" ist nicht ausreichend.
 - **Datenkopie-Format:** Art. 15 Abs. 3 DSGVO verlangt keine bestimmte Form; ein „strukturiertes, maschinenlesbares Format" ist bei Art. 20 DSGVO (Portabilität) vorgeschrieben, nicht bei Art. 15 Abs. 3 DSGVO – Verwechslung vermeiden.
 - **Verjährung von Schadensersatzansprüchen:** BGH, Urt. v. 12.07.2022 – VI ZR 7/21, NJW 2022, 3071: Art. 82 DSGVO-Schadensersatz setzt einen konkreten Schaden voraus, aber schon Kontrollverlust kann genügen. Fehlerhaft bearbeitete Betroffenenanfragen begründen Haftungsrisiko.
+
+## Ablehnung wegen Rechtsmissbrauch — EuGH C-526/24
+
+### Rechtliche Grundlage
+
+EuGH, Urt. v. 19.03.2026 – C-526/24 (Brillen Rottler); Schlussanträge GA Maciej Szpunar v. 12.09.2025 in C-526/24.
+
+Art. 12 Abs. 5 DSGVO erlaubt die Ablehnung eines Auskunftsantrags als „exzessiv" — auch bei Erstantrag, wenn außergewöhnliche Umstände einen Rechtsmissbrauch belegen. Die Hürde ist hoch; das Auskunftsrecht ist ein fundamentales Recht, Ausnahmen sind eng auszulegen.
+
+### Zweistufiges Prüfschema vor Ablehnung
+
+Beide Stufen müssen kumulativ dokumentiert sein, bevor eine Ablehnung erfolgt:
+
+| Stufe | Inhalt | Dokumentationsanforderung |
+|---|---|---|
+| **Objektives Element** | Umstände, die auf künstliches Herbeiführen der Situation hindeuten | Zeitachse (Datenerhebung → Anfrage), Art der Datenerhebung, Kommunikationsmuster |
+| **Subjektives Element** | Missbräuchliche Absicht, Verfahren zu instrumentalisieren (Ziel: Schadensersatz Art. 82 DSGVO) | Indizien aus Gesamtschau: Formulierungsmuster, sofortige Schadensersatzdrohung, öffentliche Serienaktivität |
+
+**Nicht ausreichend allein:**
+- Frühere Anfragen derselben Person
+- Öffentlich dokumentiertes massenhaftes Vorgehen dieser Person ohne Einzelfallbezug
+- Geltendmachung von Art. 82 DSGVO-Schadensersatz als solche
+
+### Formulierungsbausteine
+
+**Ablehnungsschreiben (Missbrauch dokumentiert):**
+
+> Sehr geehrte·r [Name], Ihren Antrag auf Auskunft gemäß Art. 15 DSGVO vom [DATUM] lehnen wir gemäß Art. 12 Abs. 5 Satz 2 Alt. 2 DSGVO als offenkundig exzessiv ab. Im Einzelnen stützen wir die Ablehnung auf folgende dokumentierte Umstände:
+>
+> 1. [Objektives Element – z.B.: Ihre Anmeldung für unseren Newsletter erfolgte am [DATUM], d.h. [N] Tage vor Eingang Ihres Auskunftsantrags, ohne erkennbares Informationsinteresse.]
+> 2. [Subjektives Element – z.B.: Ihr Schreiben enthält bereits bei Antragstellung die Ankündigung von Schadensersatzforderungen nach Art. 82 DSGVO, was in der Gesamtschau auf eine instrumentalisierende Nutzung des Auskunftsrechts hindeutet.]
+>
+> Gemäß EuGH, Urt. v. 19.03.2026 – C-526/24 (Brillen Rottler) sind beide Elemente kumulativ nachzuweisen; wir sehen diese Voraussetzungen im vorliegenden Einzelfall als erfüllt an.
+>
+> Sie haben das Recht, gegen diese Entscheidung Beschwerde bei [zuständige Aufsichtsbehörde] gemäß Art. 77 DSGVO oder Klage gemäß Art. 79 DSGVO zu erheben.
+
+**Internes Dokumentationsprotokoll (Pflicht vor Ablehnung):**
+
+```
+Datum der Ablehnung: [DATUM]
+Antragsdatum: [DATUM]
+Datum der Datenerhebung: [DATUM]
+Abstand Datenerhebung → Antrag: [N] Tage
+
+Objektives Element (Belege):
+- [Nachweis 1: z.B. Newsletter-Anmeldedaten]
+- [Nachweis 2: z.B. Screenshot/E-Mail]
+
+Subjektives Element (Belege):
+- [Nachweis: z.B. Wortlaut des Antragsschreibens, sofortige Schadensersatzankündigung]
+
+Gesamtwürdigung: [Begründung in eigenen Worten]
+Verantwortlich (DSB-Freigabe): [Name, Datum]
+```
+
+### Schadensersatzrisiko bei unberechtigter Ablehnung
+
+- Eine Ablehnung ohne vollständigen zweistufigen Nachweis ist ein eigenständiger DSGVO-Verstoß.
+- Dieser Verstoß löst einen eigenständigen Schadensersatzanspruch nach Art. 82 DSGVO aus — auch wenn die zugrundeliegende Datenverarbeitung vollständig DSGVO-konform war.
+- Der bloße Verstoß genügt nicht automatisch; die betroffene Person muss einen konkreten materiellen oder immateriellen Schaden darlegen (z.B. Kontrollverlust, Ungewissheit über Datenverarbeitung). Kein verschuldensunabhängiges Haftungsregime.
+- Eigenverschulden der betroffenen Person (wenn ihr eigenes Verhalten die entscheidende Schadensursache ist) schließt den Anspruch aus.
+
+### Konsequenz für die Antwortformulierung
+
+**Empfehlung:** Im Zweifel Auskunft vollständig und fristgerecht erteilen. Ablehnung nur bei lückenlos dokumentiertem zweistufigen Nachweis und nach DSB-Freigabe. Alternativ: Auskunft erteilen und Gebühr nach Art. 12 Abs. 5 Satz 2 Alt. 1 DSGVO erheben (ebenfalls nur bei dokumentiertem Exzess).
+
+**Perspektive betroffene Person:** Anfragen sollen erkennbar dem Zweck der Transparenz dienen. Schadensersatz nach Art. 82 DSGVO ist auch bei reiner Auskunftsverletzung möglich — konkreten Schaden (Kontrollverlust, Ungewissheit) in Klage- oder Beschwerdeschrift substantiiert darlegen.
+
+### Querverweise
+
+- `datenschutzrecht/skills/dsgvo-auskunft/SKILL.md` — Abschnitt „Rechtsmissbrauch" mit vollständigem Prüfschema und Indizien-Checkliste
+
+## Ergänzende Rechtsprechung (Aktualitäten)
+
+### EuGH C-579/21 — Protokolldaten und EuGH C-487/21 — Reichweite der Datenkopie
+
+**EuGH, Urt. v. 22.06.2023 – C-579/21 (Pankki S), NJW 2023, 2545:** Protokolldaten (Zugriffslogs, Server-Protokolle), in denen eine Person identifizierbar ist, sind personenbezogene Daten und unterliegen dem Auskunftsrecht nach Art. 15 DSGVO. Die IT-Sicherheitsfunktion der Protokollierung schließt die Auskunftspflicht nicht aus. Konsequenz: In der Systemabfrage (Schritt 4) sind Protokolldateien und Zugangslogs zwingend einzubeziehen.
+
+**EuGH, Urt. v. 04.05.2023 – C-487/21 (Österreichische Datenschutzbehörde), NJW 2023, 2253:** Art. 15 Abs. 3 DSGVO verlangt eine originalgetreue Reproduktion der personenbezogenen Daten; eine bloße Zusammenfassung oder strukturierte Übersicht genügt nicht, wenn nicht alle Daten vollständig abgebildet sind.
+
+### Quellen / Updates
+
+Stand: 05/2026. Aktualität prüfen bei weiteren EuGH-Entscheidungen zu Art. 15 und Art. 12 DSGVO. Insbesondere Entwicklungen zur Rechtsmissbrauchsrechtsprechung (EuGH C-526/24) und deren nationaler Umsetzung durch Instanzgerichte beobachten.

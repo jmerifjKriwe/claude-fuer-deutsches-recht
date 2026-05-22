@@ -51,6 +51,7 @@ Arbeitsrechtliche Mandate sind fristen-kritisch — die Drei-Wochen-Frist § 4 K
 - Interne Untersuchung läuft mit Anhörung morgen
 - Whistleblower-Vorwürfe öffentlich
 - Streik kurzfristig
+- **DSGVO-Auskunftsersuchen nach Art. 15 DSGVO eingegangen oder angekündigt?** → Monatsfrist Art. 12 Abs. 3 DSGVO läuft; unberechtigte Ablehnung löst Art.-82-Schadensersatz aus
 
 ### Frage 4 — Stand?
 
@@ -116,6 +117,30 @@ Arbeitsrechtliche Mandate sind fristen-kritisch — die Drei-Wochen-Frist § 4 K
 | AGG Diskriminierung | (Skill agg-diskriminierung — perspektivisch) |
 | Befristung | (Skill befristung-tzbfg — perspektivisch) |
 | HinSchG Whistleblower | (Skill hinschg-whistleblower — perspektivisch) |
+| AGG Diskriminierung + DSGVO | `agg-pruefung-bewerber-und-beschaeftigte` |
+
+## DSGVO-Auskunftsersuchen — Parallel-Triage
+
+Bei jedem Kündigungs-, Aufhebungsvertrag- oder AGG-Mandat zusätzlich prüfen:
+
+**Liegt zugleich ein DSGVO-Auskunftsersuchen nach Art. 15 DSGVO vor?**
+
+| Indiz | Bewertung |
+|---|---|
+| Auskunftsersuchen zeitgleich mit Kündigung oder Klage | Typisches Druckmittel; Monatsfrist Art. 12 Abs. 3 DSGVO beachten |
+| Legal-Tech-Vollmacht oder Massenmuster | Erhöhte Chance auf Missbrauchseinwand (EuGH, Urt. v. 19.03.2026 – C-526/24, Brillen Rottler) |
+| Erstmaliger Antrag ohne Legal-Tech-Muster | Hohe Hürde für Missbrauchseinwand; Auskunft erteilen |
+| Antrag nach Beendigung des Arbeitsverhältnisses | Anspruch besteht grundsätzlich (BAG, Urt. v. 17.10.2024 – 8 AZR 215/23) |
+
+**Handlungsanweisung:**
+1. Datum des Eingangs des Auskunftsersuchens dokumentieren.
+2. Monatsfrist Art. 12 Abs. 3 DSGVO in Fristenbuch eintragen.
+3. Prüfen: Liegt objektives + subjektives Element für Missbrauchseinwand vor (EuGH C-526/24)?
+4. Falls Missbrauchseinwand nicht sicher: Auskunft erteilen oder begründet verzögern (max. zwei weitere Monate, Art. 12 Abs. 3 S. 2 DSGVO).
+5. Ausgleichsklausel im Aufhebungsvertrag: DSGVO-Ansprüche und Art.-82-Schadensersatz einbeziehen?
+6. Zuständigkeit: Auskunftsklage gehört vor das Landgericht (§ 44 DSGVO), nicht vor das Arbeitsgericht.
+
+Querverweis: `arbeitsrecht/skills/kuendigungs-pruefung/SKILL.md` (Abschnitt DSGVO-Auskunftsersuchen als Druckmittel) und `arbeitsrecht/skills/aufhebungsvertrag/SKILL.md` (DSGVO-Auskunftsersuchen als Verhandlungshebel).
 
 ## Mandatsannahme
 

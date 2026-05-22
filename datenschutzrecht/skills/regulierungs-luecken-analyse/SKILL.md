@@ -115,3 +115,12 @@ Organisation nutzt AWS US-East als Backup-System. AVV enthält EU-SCC Modul 2. K
 - **Nur horizontale Analyse:** Gap-Analyse sollte nicht nur die neue Anforderung, sondern auch prüfen, ob andere bekannte Anforderungen bereits durch die gefundenen Maßnahmen mitadressiert werden (Synergien).
 - **Maßnahmenplan ohne Verantwortliche:** Maßnahmen ohne Zuordnung versanden. Jede Maßnahme braucht eine Person und ein Datum.
 - **Bußgeld-Kalkulation:** Art. 83 Abs. 4 DSGVO (bis 10 Mio. EUR / 2 % des weltweiten Jahresumsatzes) und Art. 83 Abs. 5 DSGVO (bis 20 Mio. EUR / 4 %) sind Deckel, keine Automatismen. Deutsche Aufsichtsbehörden orientieren sich am DSK-Konzept zur Bußgeldbemessung. `[Modellwissen – aktuellen Beschluss prüfen]`
+
+## Quellen / Updates
+
+Stand: 05/2026. Lückenliste laufend aktualisieren bei neuen EDSA-Leitlinien (edpb.europa.eu), DSK-Beschlüssen (dskonferenz.de) und EuGH-Vorabentscheidungen zu DSGVO-Grundbegriffen.
+
+**Querverweise:**
+- `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — Gap-Analyse bei neuen Angemessenheitsbeschlüssen oder SCC-Änderungen
+- `datenschutzrecht/skills/richtlinien-monitor/SKILL.md` — Interner Praxis-Drift nach regulatorischer Änderung
+- `datenschutzrecht/skills/dsfa-erstellung/SKILL.md` — DSFA-Pflicht bei neuen regulatorischen Anforderungen

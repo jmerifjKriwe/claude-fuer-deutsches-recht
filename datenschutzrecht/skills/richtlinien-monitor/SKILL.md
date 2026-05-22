@@ -120,3 +120,12 @@ Verbindlich nach `../../references/zitierweise.md`.
 - **Cookie-Banner ≠ Datenschutzerklärung:** TTDSG-Einwilligung (§ 25 TTDSG) ist unabhängig von der DSGVO-Rechtsgrundlage; eine korrekte Datenschutzerklärung ersetzt nicht den rechtskonformen Cookie-Banner.
 - **Stillschweigendes Weglassen veralteter Klauseln:** Wenn eine Verarbeitung eingestellt wird, muss die Datenschutzerklärung aktiv aktualisiert werden – das Fehlen einer Praxis ist kein Automatismus für korrekte Erklärung.
 - **Frequenz:** EDSA empfiehlt anlassbezogene Aktualisierung; ein rein jährliches Review ist bei schnell wachsenden Produkten nicht ausreichend.
+
+## Quellen / Updates
+
+Stand: 05/2026. Aktualität prüfen bei Änderungen des TDDDG, neuen EDSA-Leitlinien zu Transparenz und Einwilligung sowie DSK-Orientierungshilfen zu Telemedien.
+
+**Querverweise:**
+- `datenschutzrecht/skills/regulierungs-luecken-analyse/SKILL.md` — Eingehende neue Anforderungen vs. Praxis-Drift
+- `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — Drittlandtransfer-Passagen in Datenschutzerklärungen
+- `datenschutzrecht/skills/anwendungsfall-triage/SKILL.md` — Neue Verarbeitungstätigkeiten identifizieren

@@ -1,0 +1,27 @@
+{
+  "name": "aktenauszug-gerichtsverfahren",
+  "version": "3.3.0",
+  "description": "Strukturierter Aktenauszug fuer deutsche Gerichtsverfahren: Verfahrensidentifikation Einleitungssatz Verfahrenszusammenfassung Sachverhaltschronologie Verfahrensgeschichte tabellarische Gegenueberstellung der Parteivortraege Beweismittel und Rechtsargumente fuer schnelle Einarbeitung in Akten.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "aktenauszug",
+    "gerichtsverfahren",
+    "zivilprozess",
+    "strafprozess",
+    "verwaltungsprozess",
+    "arbeitsrecht",
+    "sozialrecht",
+    "sachverhaltschronologie",
+    "parteivortrag",
+    "beweismittel",
+    "rechtsargumente",
+    "fristen",
+    "verfahrensidentifikation",
+    "neutralitaet",
+    "anwalt"
+  ]
+}

@@ -104,3 +104,11 @@ Deal-Breaker: Sub-AV-Wechsel ohne 4-Wochen-Vorankündigung
 - **CLAUDE.md ohne Verarbeitungsverzeichnis:** Ohne Systemliste können spätere DSAR-Abfragen keine vollständige Antwort liefern; Nutzer vor Abschluss darauf hinweisen.
 - **AVV-Extraktion zu oberflächlich:** Das Playbook muss konkrete Fallback-Positionen enthalten, sonst gibt `avv-pruefung` immer den generischen Standard aus.
 - **Integrations-Check:** Nur ✓ bei erfolgreichem Test-Aufruf; konfiguriert ≠ funktioniert.
+
+## Quellen / Updates
+
+Stand: 05/2026. Bei Änderungen der Aufsichtsbehördenstruktur (Art. 56 DSGVO), BRAO-Novellen oder Änderungen des BDSG Skill aktualisieren.
+
+**Querverweise:**
+- `datenschutzrecht/skills/datenschutzrecht-anpassen/SKILL.md` — Gezielte Anpassung einzelner Profil-Abschnitte ohne Vollinterview
+- `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — Drittlandtransfer-Konfiguration im Praxisprofil

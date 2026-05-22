@@ -178,6 +178,25 @@ Für eine vollständige Bearbeitung werden benötigt:
 
 **Beweislast:** Der Arbeitgeber trägt die Beweislast für das Vorliegen von Kündigungsgründen (§ 1 Abs. 2 Satz 4 KSchG); für die ordnungsgemäße Sozialauswahl trägt er die Darlegungslast nach § 1 Abs. 3 Satz 3 KSchG, soweit der Arbeitnehmer Indizien darlegt (Preis, in: ErfK, 25. Aufl. 2025, § 1 KSchG Rn. 540).
 
+## DSGVO-Auskunft parallel zur KSchG-Klage
+
+**Regelfall in der Praxis:** Arbeitnehmer und ihre Bevollmächtigten stellen häufig zeitgleich mit der KSchG-Klage oder unmittelbar nach Zugang der Kündigung ein Auskunftsersuchen nach Art. 15 DSGVO. Ziel ist der Zugang zu Personalakten, internen Vermerken, Abmahnungsunterlagen oder elektronischer Korrespondenz, die im Kündigungsschutzprozess als Beweismittel dienen oder den Arbeitgeber zu Verhandlungen über eine höhere Abfindung bewegen sollen.
+
+**Missbrauchsmaßstab (EuGH, Urt. v. 19.03.2026 – C-526/24, Brillen Rottler):**
+Ein erstmaliges Auskunftsersuchen kann ausnahmsweise nach Art. 12 Abs. 5 S. 2 DSGVO als „exzessiv“ eingestuft werden, wenn der Arbeitgeber sowohl ein **objektives Element** (z. B. ungewöhnlich kurzer Abstand zwischen Ausspruch der Kündigung und Auskunftsantrag; massenhaftes Legal-Tech-Vorgehen) als auch ein **subjektives Element** (missbräuchliche Absicht — Instrumentalisierung zur Schadensersatzgenerierung nach Art. 82 DSGVO statt Datenschutzschutz) nachweist. Die Hürden sind hoch; das Auskunftsrecht ist Grundrecht (Art. 8 GRCh).
+
+**BAG-Linie zum immateriellen Schaden:**
+- BAG, Urt. v. 20.06.2024 – 8 AZR 91/22: Bloßer Kontrollverlust durch eine Auskunftspflichtverletzung nach Art. 15 DSGVO begründet ohne objektiv erhöhtes Missbrauchsrisiko keinen eigenständigen Schaden nach Art. 82 DSGVO. `[Modellwissen – prüfen]`
+- BAG, Urt. v. 20.02.2025 – 8 AZR 61/24: Der Betroffene muss konkrete nachteilige Auswirkungen der Auskunftspflichtverletzung darlegen. `[Modellwissen – prüfen]`
+
+**Prozessuale Koordination:**
+- Auskunftsklage nach Art. 15 DSGVO ist vor dem **Landgericht** einzuklagen (§ 44 DSGVO); das Arbeitsgericht ist nicht zuständig.
+- Bei parallelem KSchG-Verfahren (Arbeitsgericht) und DSGVO-Auskunftsverfahren (Landgericht) Prozesstaktik koordinieren.
+- Unberechtigte Ablehnung eines legitimen Auskunftsersuchens kann eigenständigen Schadensersatzanspruch nach Art. 82 DSGVO auslösen — auch ohne rechtswidrige Verarbeitung.
+- Frist: Art. 12 Abs. 3 DSGVO — Antwort innerhalb eines Monats ab Eingang des Ersuchens; Verzögerung muss begründet und kommuniziert werden.
+
+Querverweis: `arbeitsrecht/skills/kuendigungs-pruefung/SKILL.md` (Abschnitt DSGVO-Auskunftsersuchen als Druckmittel).
+
 ## Quellenpflicht
 
 Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach **references/zitierweise.md** zu belegen. Insbesondere:

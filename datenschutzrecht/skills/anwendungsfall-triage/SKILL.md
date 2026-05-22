@@ -195,3 +195,12 @@ Beispiel Rechtsprechung:
 
 Beispiel Kommentar:
 `Kühling/Buchner/Bäcker, DSGVO/BDSG, 4. Aufl. 2024, Art. 35 DSGVO Rn. 10`
+
+## Quellen / Updates
+
+Stand: 05/2026. Aktualität prüfen bei Änderungen der DSK-Blacklist/Whitelist (Art. 35 Abs. 4/5 DSGVO), neuen EDSA-Leitlinien zur DSFA sowie KI-VO-Umsetzungsakten.
+
+**Querverweise:**
+- `datenschutzrecht/skills/dsfa-erstellung/SKILL.md` — vollständige DSFA bei positiver Triage
+- `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — bei Drittlandbezug in der Triage
+- `datenschutzrecht/skills/avv-pruefung/SKILL.md` — bei Auftragsverarbeitung als Verarbeitungsbestandteil

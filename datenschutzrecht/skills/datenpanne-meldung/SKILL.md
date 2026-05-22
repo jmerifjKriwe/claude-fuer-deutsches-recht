@@ -116,3 +116,12 @@ EDSA, Guidelines 9/2022 on personal data breach notification under GDPR, angenom
 ## Quellenpflicht
 
 Alle Aussagen in Meldeformularen, Memos und Betroffenenbriefen sind nach `references/zitierweise.md` zu belegen. Mindestens zwei Rechtsprechungsbelege im BGH-Stil und zwei Kommentarbelege im Bearbeiter-Stil. Die EDSA-Guidelines 9/2022 sind als EU-Soft-Law-Quelle stets anzugeben. Wo Rspr. fehlt, ausdrücklich auf Kommentarliteratur und EDSA-Leitlinien verweisen.
+
+## Quellen / Updates
+
+Stand: 05/2026. Aktualität prüfen bei neuen EuGH-Entscheidungen zum Schadensersatz nach Art. 82 DSGVO, EDSA-Updates zu den Guidelines 9/2022 sowie Änderungen der nationalen Meldeportale der Aufsichtsbehörden.
+
+**Querverweise:**
+- `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — bei Datenpannen mit Drittlandbezug (Benachrichtigungspflicht des Importeurs)
+- `datenschutzrecht/skills/dsfa-erstellung/SKILL.md` — Nachträgliche DSFA-Prüfung nach Datenpanne; Vorab-Konsultation Art. 36 DSGVO
+- `datenschutzrecht/skills/avv-pruefung/SKILL.md` — Meldepflicht des Auftragsverarbeiters nach Art. 33 Abs. 2 DSGVO im AVV-Kontext

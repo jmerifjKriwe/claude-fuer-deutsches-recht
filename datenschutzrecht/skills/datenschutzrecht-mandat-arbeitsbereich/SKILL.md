@@ -118,3 +118,11 @@ Verbindlich nach `../../references/zitierweise.md`.
 - **Keine Löschung abgeschlossener Mandate:** Ordner nicht löschen – Aktenaufbewahrungspflicht nach § 50 Abs. 1 BRAO (6 Jahre nach Ablauf des Kalenderjahres, in dem das Mandat endete).
 - **Mandant ist selbst AV:** Wenn der Mandant selbst Auftragsverarbeiter eines Dritten ist, kann das Datenschutzmandat vertikale Sub-AV-Fragen berühren (Art. 28 Abs. 2 Satz 2 DSGVO). In `mandat.md` explizit vermerken.
 - **Aktives Mandat nicht zurückgesetzt:** Nach Mandatswechsel immer prüfen, dass kein unbeabsichtigter Mandatskontext aktiv ist. Standardbefehl `keins` nach Mandatsabschluss empfohlen.
+
+## Quellen / Updates
+
+Stand: 05/2026. Aktualität prüfen bei Änderungen der BRAO (Aktenaufbewahrungspflicht § 50 BRAO), StGB § 203 oder DSGVO-Anforderungen an technische Isolation.
+
+**Querverweise:**
+- `datenschutzrecht/skills/mandantendaten-ki/SKILL.md` — Mandatsisolation bei KI-Diensten
+- `datenschutzrecht/skills/avv-pruefung/SKILL.md` — Mandatsspezifische AVV-Prüfung
