@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg
-description: "Vergleichsverhandlung im Arbeitsgericht-Gueteverfahren § 54 ArbGG. Abfindungsstrategie halbes-Bruttogehalt-Faustformel KSchG. Aufhebungsvertrag versus Vergleich nach Kuendigung. Mediation TT-Eingruppierung Bossing-Faelle. Sperrzeit-Vermeidung BA durch konstruktive Vergleichsformulierung. Strategie Eingangs-Korrespondenz Anwaltsschreiben vor Klage. Workflow Kommunikation Vergleichsvorschlag Niederschrift."
+description: "Vergleichsverhandlung im Arbeitsgericht-Gueteverfahren § 54 ArbGG. Aufloesungsantrag § 9 KSchG mit Abfindungs-Obergrenzen § 10 KSchG. Abfindungsstrategie halbes-Bruttogehalt-Faustformel KSchG. Aufhebungsvertrag versus Vergleich nach Kuendigung. Mediation Bossing-Faelle. Sperrzeit-Vermeidung BA durch konstruktive Vergleichsformulierung. Workflow Anwaltsschreiben Vergleichsvorschlag Niederschrift."
 ---
 
 # Güte-Verhandlung Arbeitsgericht / Abfindungs-Vergleich
@@ -21,8 +21,9 @@ Arbeitsrechtliche Vergleichsverhandlung im Güte-Verfahren § 54 ArbGG (ca. 90 %
 ## Rechtlicher Rahmen
 
 - **§ 54 ArbGG** — Güteverhandlung (Pflicht-Termin)
-- **§ 9, 10 KSchG** — Abfindung bei nicht zumutbar Fortsetzung
-- **§ 1a KSchG** — Abfindungsanspruch bei betriebsbed. Kündigung
+- **§ 9 KSchG** — Auflösung des Arbeitsverhältnisses durch Urteil gegen Abfindung (auf Antrag, wenn Fortsetzung unzumutbar)
+- **§ 10 KSchG** — Abfindungsobergrenzen (Regelfall bis 12 Monatsverdienste; bei langer Betriebszugehörigkeit oder höherem Alter bis 15 bzw. 18 Monatsverdienste)
+- **§ 1a KSchG** — Abfindungsanspruch bei betriebsbed. Kündigung (Hinweis im Kündigungsschreiben)
 - **§ 159 SGB III** — Sperrzeit bei Aufhebungsvertrag (12 Wochen)
 - **DurchführungsAnweisungen BA** zur Faustformel (0,5 Brutto/Beschäft.-Jahr)
 - **§ 1 TVG** — Tarifliche Abfindungsregelungen
@@ -76,7 +77,7 @@ Arbeitsrechtliche Vergleichsverhandlung im Güte-Verfahren § 54 ArbGG (ca. 90 %
 
 ```
 1. Beendigung [Datum]
-2. Abfindung EUR [...] gem. §§ 9, 10 KSchG analog
+2. Abfindung EUR [...] in entsprechender Anwendung der Abfindungsregeln §§ 9 und 10 KSchG
 3. Freistellung Abfindung mit Anrechnung Resturlaub
 4. Zeugnis: mindestens "gut", Schluesselformulierungen [konkret]
 5. Erledigungs-Klausel: saemtliche Anspruche aus Arbeitsverhaeltnis erledigt

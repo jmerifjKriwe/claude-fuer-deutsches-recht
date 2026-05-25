@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-ombudsmann-gdv-schlichtung
-description: "Versicherungs-Ombudsmann VVR e.V. außergerichtliche Schlichtung bis 10.000 EUR. Ombudsmann private Kranken/Pflegeversicherung PKV. BaFin-Verbraucherbeschwerde. EU-ODR-Plattform bei Online-Versicherung. Sachverständigen-Verfahren § 84 VVG. Workflow Beschwerde Schlichtung Klage."
+description: "Versicherungs-Ombudsmann VVR e.V. außergerichtliche Schlichtung bis 10000 EUR. Ombudsmann private Kranken/Pflegeversicherung PKV. BaFin-Verbraucherbeschwerde. VSBG-Verbraucherstreitbeilegung (EU-ODR-Plattform seit 20.7.2025 abgeschaltet). Sachverständigen-Verfahren § 84 VVG. Workflow Beschwerde Schlichtung Klage."
 ---
 
 # Versicherungs-Ombudsmann / GDV-Schlichtung
@@ -26,7 +26,6 @@ Versicherungsrechts-Streit (Leistung, Anpassung, Kündigung) ist häufig im auß
 - **§ 203 VVG** — Beitragsanpassung PKV
 - **§ 14 UKlaG** — Schlichtungs-Pflicht Verbraucher
 - **VSBG** — Verbraucherstreitbeilegungs-Gesetz
-- **EU-VO 524/2013** — ODR-Plattform
 - **Versicherungs-Ombudsmann-Verfahrensordnung 2021** (geändert 2024)
 
 ### Leitentscheidungen
@@ -56,13 +55,7 @@ Versicherungsrechts-Streit (Leistung, Anpassung, Kündigung) ist häufig im auß
 - Kein Einzelfall-Spruch, aber Hinweis-Wirkung
 - Bei systemischen Mängeln effektiv
 
-### Pfad 4 — EU-ODR-Plattform
-
-- Bei Online-Versicherungsabschluss
-- VO 524/2013
-- Plattform: ec.europa.eu/odr
-
-### Pfad 5 — Sachverständigen-Verfahren § 84 VVG
+### Pfad 4 — Sachverständigen-Verfahren § 84 VVG
 
 - Bei Schadenhöhe-Streit (Hausrat, Gebäude, Kfz)
 - Versicherer + Vers.-Nehmer benennen je 1 Sachverständigen
@@ -117,4 +110,4 @@ Versicherungsrechts-Streit (Leistung, Anpassung, Kündigung) ist häufig im auß
 
 ## Quellen und Updates
 
-Stand: 05/2026. Ombudsmann-Verfahrensordnung 2024-Update. PKV-Linie BGH IV ZR 193/20 stabil. EU-ODR-Plattform aktiv.
+Stand: 05/2026. Ombudsmann-Verfahrensordnung 2024-Update. PKV-Linie BGH IV ZR 193/20 stabil. EU-ODR-Plattform abgeschaltet zum 20.7.2025 (VO (EU) 2024/3228 hat VO 524/2013 aufgehoben); VSBG-Schlichtung nationalen Verbraucherschlichtungsstellen bleibt verfügbar.

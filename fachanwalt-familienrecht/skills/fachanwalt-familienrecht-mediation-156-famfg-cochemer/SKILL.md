@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-mediation-156-famfg-cochemer
-description: "Mediation im Familienrecht § 156 FamFG Cochemer-Modell. Trennungs- und Scheidungsfolgenvereinbarung Notar. Mediator Familiengericht Jugendamt. Hochkonflikt-Familien-Mediation. Kommunikations-Strategie bei Kindeswohl Schutz § 1666 BGB. Strategie und Taktik Eingangs-Gespraech Mediations-Auftrag Vergleichs-Beurkundung."
+description: "Mediation im Familienrecht § 156 FamFG Cochemer-Modell. Vermittlungsverfahren § 165 FamFG bei Umgangsverweigerung. Trennungs- und Scheidungsfolgenvereinbarung Notar. Mediator Familiengericht Jugendamt. Hochkonflikt-Familien-Mediation. Kommunikations-Strategie bei Kindeswohl Schutz § 1666 BGB. Strategie Taktik Mediations-Auftrag Vergleichs-Beurkundung."
 ---
 
 # Mediation im Familienrecht — § 156 FamFG / Cochemer Modell
@@ -21,6 +21,7 @@ Familienrecht ist das ADR-intensivste Rechtsgebiet. Mediation ist **gesetzlich v
 ## Rechtlicher Rahmen
 
 - **§ 156 FamFG** — Mediation bei Sorgerechts-/Umgangsstreit (Pflicht zur Beratung)
+- **§ 165 FamFG** — Vermittlungsverfahren bei Umgangsverweigerung (gerichtliches Vermittlungsverfahren, niedrigschwellig, bevor Eilantrag/Ordnungsmittel)
 - **§ 17 SGB VIII** — Jugendamt-Beratung
 - **§ 1684, 1697a BGB** — Umgangs- und Sorgerecht
 - **§ 1565 BGB** — Trennung
@@ -67,6 +68,15 @@ Familienrecht ist das ADR-intensivste Rechtsgebiet. Mediation ist **gesetzlich v
 - Mediation während laufendem Verfahren
 - Gerichtsbestellt
 - Aussetzung Verfahren während Mediation
+
+### Pfad 6 — Vermittlungsverfahren § 165 FamFG (Umgangsverweigerung)
+
+- Anwendung: ein Elternteil verweigert/vereitelt vereinbarten oder gerichtlich geregelten Umgang
+- Antrag an Familiengericht; Termin zur Vermittlung **binnen eines Monats**
+- Persönliches Erscheinen beider Eltern + Jugendamt
+- Niedrigschwellig: keine Ordnungsmittel im Termin, Fokus auf Einvernehmen
+- Bei Scheitern: Übergang zu Ordnungsmittel § 89 FamFG oder Sorgerechts-Änderung § 1671 BGB
+- Vorteil gegenüber Eilantrag: weniger eskalativ, oft schneller zum funktionierenden Umgang
 
 ## Workflow
 
@@ -125,4 +135,4 @@ Familienrecht ist das ADR-intensivste Rechtsgebiet. Mediation ist **gesetzlich v
 
 ## Quellen und Updates
 
-Stand: 05/2026. § 156 FamFG, MediationsG, Cochemer Praxis seit ca. 1992. Bei FamFG-Reform aktualisieren.
+Stand: 05/2026. § 156 FamFG, § 165 FamFG, MediationsG, Cochemer Praxis seit ca. 1992. Bei FamFG-Reform aktualisieren.

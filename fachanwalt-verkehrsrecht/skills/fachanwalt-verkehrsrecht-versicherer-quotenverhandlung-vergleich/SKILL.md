@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich
-description: "Kfz-Versicherer-Verhandlung Unfallregulierung Mitverschuldensquote 254 BGB. Vorgerichtliche Korrespondenz Schmerzensgeld-Tabelle Hacks. AG-Vergleich vor 250 ZPO. Mediation bei Personenschaden mit Schwerstverletzung. Workflow Schadensanzeige Quotenermittlung Vergleichsverhandlung."
+description: "Kfz-Versicherer-Verhandlung Unfallregulierung Mitverschuldensquote § 254 BGB. Vorgerichtliche Korrespondenz Schmerzensgeld-Tabelle Hacks. Gerichtlicher Vergleich § 278 Abs. 6 ZPO. Mediation bei Personenschaden mit Schwerstverletzung. Workflow Schadensanzeige Quotenermittlung Vergleichsverhandlung."
 ---
 
 # Versicherer-Verhandlung / Quotenstreit im Verkehrsrecht
@@ -42,11 +42,12 @@ Verkehrsunfall-Mandate enden zu ca. 80 % in Vergleich mit Kfz-Versicherer. Verha
 - Sachverständigen-Gutachten DEKRA / TÜV
 - Bindend für Versicherer
 
-### Pfad 3 — AG-Vergleich § 250 ZPO
+### Pfad 3 — Gerichtlicher Vergleich § 278 ZPO
 
-- Vor Amts/Landgericht
-- Bei mittlerem Streitwert
-- Erörterungstermin
+- Güteverhandlung § 278 Abs. 2 ZPO als Pflicht-Termin vor Beweisaufnahme
+- Vergleichsabschluss zu Protokoll § 160 Abs. 3 Nr. 1 ZPO oder per Beschluss § 278 Abs. 6 ZPO (schriftlicher Vergleich)
+- Vor Amts-/Landgericht; bei mittlerem Streitwert besonders effizient
+- Erörterungstermin mit Quotenvorschlag Gericht
 
 ### Pfad 4 — Mediation bei Schwerstverletzung
 

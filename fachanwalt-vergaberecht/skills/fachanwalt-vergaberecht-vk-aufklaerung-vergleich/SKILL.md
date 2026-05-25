@@ -18,8 +18,10 @@ Vergabe-Nachprüfungs-Verfahren ist verfahrensrechtlich straff und schnell (5 Wo
 
 ## Rechtlicher Rahmen
 
-- **§ 155 GWB** — Vergabekammer
-- **§ 156 GWB** — Eilrechtsschutz Suspensiveffekt
+- **§ 155 GWB** — Beginn 2. Teil GWB (Vergabe-Nachpruefungsverfahren)
+- **§ 156 GWB** — Vergabekammern (Zustaendigkeit, Besetzung)
+- **§ 169 GWB** — Suspensiveffekt/Zuschlagsverbot waehrend Nachpruefungsverfahren (Aussetzung des Zuschlags)
+- **§ 160 GWB** — Ruegeobliegenheit Bieter
 - **§ 158 GWB** — Entscheidung VK / Vergleich
 - **§ 160 III GWB** — Rüge vor VK-Antrag (Pflicht)
 - **§ 173 GWB** — Sofortige Beschwerde OLG-Vergabesenat
