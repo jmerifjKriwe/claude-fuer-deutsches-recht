@@ -24,10 +24,10 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 | Kennzahl | Wert |
 |---|---|
 | **Plugins** | 98 |
-| **Skills (SKILL.md)** | über 1600 |
-| **Testakten** | 43 |
+| **Skills (SKILL.md)** | über 1700 |
+| **Testakten** | 44 |
 | **Fachanwalts-/-anwältinnen-Profile** | 23 |
-| **Letzter Release** | [v9.0.0](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/v9.0.0) |
+| **Letzter Release** | [latest auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 > 🧪 **Übrigens — es gibt auch sehr schöne Testakten.** Im Verzeichnis [`testakten/`](./testakten) liegen mehrere umfangreiche, fiktive Mandatsakten mit echten PDFs, Excel-Tabellen, Word-Entwürfen und handschriftlichen Notizen — bewusst unstrukturiert benannt wie ein realer Datenraum, damit sich die Plugins an echten Mandaten ausprobieren lassen. Details und Direkt-Downloads im [Testakten-README](./testakten/README.md).
@@ -397,7 +397,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 - Due Diligence läuft über Q&A, Datenraum und anwaltliche Sachverhaltsaufklärung.
 - Kündigungsschutz: Regelfall nach KSchG ab 6 Monate / mehr als 10 Arbeitnehmer.
 
-Aktueller Stand: **97 Plugins, über 1600 Skills, 43 Testakten**. Abgedeckt sind klassische Mandantenpraxis, alle 24 Fachanwaltschaften, Großkanzlei- und Mittelstandsformate sowie Spezialdisziplinen wie Insolvenzverwaltung, Zwangsverwaltung, Zwangsversteigerung, Markenrecht für Luxus-Fashion mit USPTO-Lanham-Act-Modul, betriebliche Altersversorgung in Konzernen mit Düsseldorf-Kyoto-Profil, StaRUG-Krisenfrüherkennung mit Vier-und-zwanzig-Monats-Horizont, Schriftform-/Textform-Workflow-Organisator nach BGH I ZR 202/25 und BGH VIII ZR 159/23, Wandeldarlehen-Lebenszyklus mit Cap-Table-Mechanik sowie generische Mechanik-Prüfer für Subsumtion, Bereicherungs-/Anfechtungsrecht und die KI-VO (Verordnung (EU) 2024/1689).
+Aktueller Stand: **98 Plugins, über 1700 Skills, 44 Testakten**. Abgedeckt sind klassische Mandantenpraxis, alle 24 Fachanwaltschaften, Großkanzlei- und Mittelstandsformate sowie Spezialdisziplinen wie Insolvenzverwaltung, Zwangsverwaltung, Zwangsversteigerung, Markenrecht für Luxus-Fashion mit USPTO-Lanham-Act-Modul, betriebliche Altersversorgung in Konzernen mit Düsseldorf-Kyoto-Profil, StaRUG-Krisenfrüherkennung mit Vier-und-zwanzig-Monats-Horizont, Schriftform-/Textform-Workflow-Organisator nach BGH I ZR 202/25 und BGH VIII ZR 159/23, Wandeldarlehen-Lebenszyklus mit Cap-Table-Mechanik sowie generische Mechanik-Prüfer für Subsumtion, Bereicherungs-/Anfechtungsrecht und die KI-VO (Verordnung (EU) 2024/1689).
 
 ### Materielle Rechtsgebiete
 
