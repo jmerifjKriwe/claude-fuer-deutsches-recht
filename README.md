@@ -19,15 +19,15 @@ Die Skills sind inzwischen deutlich verbessert und in verschiedenen Konstellatio
 
 Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im konkreten Mandat oder Unternehmen – insbesondere nicht zu §§ 203, 204 StGB, § 43e BRAO, § 2 BORA, § 53, § 97, § 160a StPO, DSGVO / BDSG (inkl. Drittlandtransfer), US-Cloud-Act / FISA, der KI-VO (VO (EU) 2024/1689) oder sonstigen berufsrechtlichen, datenschutzrechtlichen und regulatorischen Vorgaben. Ob und wie ihr diese Beispiele produktiv nutzen dürft, müsst ihr **eigenverantwortlich** prüfen und in eure bestehende Governance (Mandatsgeheimnis, AVV, TOMs, KI-Richtlinien, Betriebsvereinbarungen etc.) integrieren.
 
-## Überblick v7.0.0 auf einen Blick
+## Überblick
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 99 |
-| **Skills (SKILL.md)** | über 1500 |
-| **Testakten** | 44 |
-| **Fachanwalts-/-anwältinnen-Profile** | alle 24 |
-| **Letzter Release** | [v7.0.0](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/v7.0.0) |
+| **Plugins** | 97 |
+| **Skills (SKILL.md)** | über 1600 |
+| **Testakten** | 43 |
+| **Fachanwalts-/-anwältinnen-Profile** | 23 |
+| **Letzter Release** | [v8.0.0](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/v8.0.0) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 > 🧪 **Übrigens — es gibt auch sehr schöne Testakten.** Im Verzeichnis [`testakten/`](./testakten) liegen mehrere umfangreiche, fiktive Mandatsakten mit echten PDFs, Excel-Tabellen, Word-Entwürfen und handschriftlichen Notizen — bewusst unstrukturiert benannt wie ein realer Datenraum, damit sich die Plugins an echten Mandaten ausprobieren lassen. Details und Direkt-Downloads im [Testakten-README](./testakten/README.md).
