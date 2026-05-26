@@ -11,6 +11,8 @@ Gewichtungsstruktur: Die Leistungsbeurteilung hat das höchste Gewicht (ca. 50 P
 
 Besondere Gewichtungsregeln: Rote Signale in der Schlussformel können ein ansonsten grünes Zeugnis auf Note 3 absenken, weil Eingeweihte die Schlussformel besonders genau lesen. Rote Signale bei der Verhaltensbeurteilung (insbesondere fehlende Loyalität bei Führungskräften oder falsche Reihenfolge der Personengruppen) können die Gesamtnote um bis zu eine Note nach unten ziehen. Eine fehlende Integritätsaussage bei einem Zeugnis in vertrauensrelevanter Position wird als eigenständiges rotes Signal mit starker Abwertungswirkung behandelt.
 
+Bereichs-Drift-Penalty: Liegt im selben Themenbereich (Fachkenntnisse, Lernbereitschaft, strategisches Denken, Arbeitsweise, Engagement, Innovation, Arbeitsergebnis, Sozialverhalten) eine Notenspreizung von zwei oder mehr Stufen zwischen Höchst- und Niedrigsnote vor, wird die rechnerische Gesamtnote um eine halbe Stufe nach unten korrigiert. Konstant niedrige Noten (durchgehend Note 3) in den weichen Bereichen Innovation, Lernbereitschaft oder Sozialverhalten ziehen zusätzlich eine halbe Stufe Abschlag, weil Drift dort am stärksten ins Gewicht fällt. Der Bereichs-Drift-Detektor liefert die hierfür notwendigen Einzelbefunde, die satzweise Notenmatrix liefert die Datenbasis.
+
 Die Gesamtnote wird als Spanne ausgegeben (z. B. „Note 2 bis Note 3"), weil die Interpretation von Zeugnissen immer eine subjektive Komponente hat. Der Skill gibt zusätzlich an, welche Einzelformulierung den größten positiven und negativen Einfluss auf die Gesamtnote hatte.
 
 ## Geheimcode-Regeln
@@ -22,6 +24,8 @@ Die Gesamtnote wird als Spanne ausgegeben (z. B. „Note 2 bis Note 3"), weil di
 | Schlussformel | ca. 20% | Fehlende Elemente stark abwertend |
 | Rote Auslassung (Integrität/Loyalität) | Gesondert | Kann Gesamtnote um eine Note senken |
 | Widersprechende Signale | Gesondert | Führen zu Unsicherheitsabschlag |
+| Bereichs-Drift zwei Stufen | minus halbe Stufe | Schaufenster-Pattern |
+| Konstante Note 3 in weichen Bereichen | minus halbe Stufe | Lernen, Innovation, Sozialverhalten |
 
 ## Beispiele
 
@@ -34,6 +38,8 @@ Die Gesamtnote wird als Spanne ausgegeben (z. B. „Note 2 bis Note 3"), weil di
 **Beispiel 4 – Widersprüchliches Zeugnis:** Leistung grün, Verhalten rot, Schlussformel grün → Note 2 bis 3 mit Unsicherheitsabschlag wegen Widerspruchs; Skill empfiehlt Verweis auf widerspruechliche-bewertungen.
 
 **Beispiel 5 – Minimalistisches Zeugnis:** Alle Aussagen orange (Note 3), vollständige Schlussformel → Gesamtnote: Note 3. Verbesserungspotenzial in allen Bereichen.
+
+**Beispiel 6 – Schaufenster-Zeugnis:** Spitzensätze grün (Note 1) bei Fachkenntnissen, Arbeitsweise, Arbeitsergebnis; daneben orange Sätze (Note 3) zu Lernbereitschaft, Innovation, Sozialverhalten; Schlussformel grün (Note 1). Rechnerischer Wert vor Penalty: Note 1 bis 2. Drift-Penalty Lernbereitschaft: minus halbe Stufe. Konstante Note 3 in weichen Bereichen: minus halbe Stufe. Gesamtnote: Note 2 bis Note 3, nicht Note 1 wie die Schaufenster-Sätze suggerieren.
 
 ## Ausgabeformat
 

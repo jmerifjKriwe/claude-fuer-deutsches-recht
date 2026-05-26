@@ -13,6 +13,8 @@ Ein zweiter Widerspruchstyp ist die innere Inkonsistenz: Wenn ein Satz über her
 
 Ein dritter Widerspruchstyp ist die Reihenfolge-Anomalie: Ein Zeugnis, das mit einer hervorragenden Leistungsbeurteilung beginnt, dann eine schwache Verhaltensbeurteilung gibt und mit einer warmen Schlussformel endet, hat ein gemischtes Signal, das nicht konsistent ist. Potenzielle Arbeitgeber werden den Verhaltensabschnitt herausgreifen.
 
+Ein vierter Widerspruchstyp ist das Schaufenster-Pattern innerhalb eines einzelnen Themenbereichs: ein Spitzensatz auf Note-1-Niveau und ein benachbarter Satz auf Note-3-Niveau betreffen dasselbe Thema (z. B. Fachkenntnisse plus Lernbereitschaft, oder Arbeitsweise plus Innovation). Dieser Drift wird vom spezialisierten Skill `bereichs-drift-detektor` ausgewertet — er ist subtiler als die hier behandelten Block-Widersprüche, weil er innerhalb desselben Absatzes auftritt und nicht zwischen den großen Teilen des Zeugnisses.
+
 ## Geheimcode-Regeln
 
 | Widerspruchstyp | Signalwirkung | Ampel |
@@ -22,6 +24,7 @@ Ein dritter Widerspruchstyp ist die Reihenfolge-Anomalie: Ein Zeugnis, das mit e
 | Eigeninitiative und „nach Anweisung" im selben Zeugnis | Inkonsistenz | Orange |
 | Sehr warme Schlussformel bei schwacher Leistungsbeurteilung | Verdacht auf Gefälligkeitsformel | Orange |
 | Positive Einzelsätze, negative Gesamtzufriedenheitsformel | Bewusste Irreführung | Rot |
+| Spitzensatz und Durchschnittssatz im selben Themenbereich | Schaufenster-Pattern (siehe bereichs-drift-detektor) | Rot |
 
 ## Beispiele
 

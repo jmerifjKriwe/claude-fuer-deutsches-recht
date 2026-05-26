@@ -1,3 +1,25 @@
+# v12.3.0 — Arbeitszeugnis-Analyse: Schaufenster-Drift-Detektor
+
+Spezialisierter Ausbau des `arbeitszeugnis-analyse` Plugins um die Erkennung des Schaufenster-Patterns: einzelne Saetze auf Note-1-Niveau, daneben Saetze auf Note-3-Niveau zum selben Themenbereich. Wer nur die Spitzensaetze liest, sieht Note 1; wer die Drift erkennt, sieht die korrekte hochgezogene Zwei bis solide Drei.
+
+## Neue Skills (drei)
+
+- **`bereichs-drift-detektor`** — Erkennt Drift innerhalb derselben acht Themenbereiche (Fachkenntnisse, Lernbereitschaft, strategisches Denken, Arbeitsweise, Engagement, Innovation, Arbeitsergebnis, Sozialverhalten). Spreizung zwei Stufen = Rot, eine Stufe = Orange. Drift in weichen Bereichen (Lernen, Innovation, Sozialverhalten) wird gesondert geflaggt.
+- **`satzweise-notenmatrix`** — Bewertet jeden notenrelevanten Satz mit Schulnote von eins bis fuenf. Festes Raster: Steigerungsadverb plus Superlativ = 1, eins davon = 2, Grundaussage = 3, Einschraenkung oder „bemueht" = 4, Distanzformel = 5. Tabellarisches Ausgabeformat mit Themenbereich pro Satz — Datenbasis fuer Drift-Detektor und Gesamtnoten-Aggregation.
+- **`muster-arbeitszeugnis-gemischte-noten`** — Vollstaendiges anonymisiertes Schulungszeugnis mit Schaufenster-Pattern. Zeigt 1er- und 3er-Saetze gemischt, vollstaendige Satz-fuer-Satz-Notenmatrix, Bereichs-Drift-Analyse und gewichtete Gesamtnote mit Drift-Penalty.
+
+## Updates
+
+- **`gesamtnoten-aggregation`**: neue Drift-Penalty-Regel (minus halbe Stufe bei Spreizung zwei Stufen, minus halbe Stufe bei konstanter Note 3 in weichen Bereichen). Neues Beispiel: Schaufenster-Zeugnis.
+- **`widerspruechliche-bewertungen`**: vierter Widerspruchstyp (Schaufenster-Pattern im selben Themenbereich) mit Verweis auf den neuen Drift-Detektor.
+- **`README.md`**: erweiterter Empfehlungs-Workflow um Satzmatrix, Drift-Detektor und Widerspruchsanalyse; Plugin enthaelt jetzt 25 Skills.
+
+## Globaler Versionsbump
+
+Alle 98 Plugins und `marketplace.json` auf v12.3.0.
+
+---
+
 # v12.2.0 — Testakten in Plugin-READMEs sichtbar gemacht
 
 ## README-Sweep
