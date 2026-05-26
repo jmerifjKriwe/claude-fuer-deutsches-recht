@@ -1,3 +1,24 @@
+# v14.0.0 — Frischer Major-Release
+
+Frischer Sammelrelease ueber alle 98 Plugins. Der Versionssprung von 12.x auf 14.0 markiert das Ende des 12er-Inkrement-Zyklus und buendelt den aktuellen Stand der Skill-Familie als einheitliches Major-Release.
+
+## Bug-Hunt Immobilienrechtspraxis
+
+Der Immobilien-Plugin-Schwerpunkt dieses Releases ist eine systematische Bug-Pruefung. Geprueft wurden Frontmatter-Felder, Description-Laengen, verbotene Pattern (Komma in Zahlen), verbotene Frontmatter-Keys, Cross-References, kaputte Markdown-Links und Mischformen aus Umlauten und ASCII-Aequivalenten.
+
+- Inkonsistente Schreibweise `Buerogeb\u00e4ude` (ASCII-Mix mit Umlaut) zu `B\u00fcrogeb\u00e4ude` korrigiert (`projekt-arbeitsweise`).
+- Cross-Reference auf `memorandums-ersteller` validiert (Plugin existiert im Marketplace, Verweis bleibt).
+- Frontmatter aller sieben Skills geprueft: keine verbotenen Felder, keine zu langen Descriptions, keine Komma-Patterns.
+- Plugin-Description und Keywords sauber, keine Aenderung erforderlich.
+
+## Globaler Versionsbump
+
+- Alle 98 `plugin.json` auf 14.0.0.
+- `marketplace.json` auf 14.0.0 (Top-Level und alle Plugin-Eintraege).
+- Validator OK.
+
+---
+
 # v12.6.0 — Aktuelle BAG-Rechtsprechung 2025/2026 (Arbeitsrecht + Fachanwalt)
 
 Drei kuerzlich entschiedene BAG-Urteile, die die Arbeitnehmerseite spuerbar staerken, werden in den Plugins `arbeitsrecht` und `fachanwalt-arbeitsrecht` jeweils als eigenstaendiger Pruefungsskill verankert. Die Skills enthalten Kaltstartfragen, Pruefschema, Schriftsatzbausteine und konkrete Verteidigungslinien.

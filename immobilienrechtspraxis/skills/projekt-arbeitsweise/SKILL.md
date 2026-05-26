@@ -135,7 +135,7 @@ ist nachvollziehbar wer wann mit welchen Vorgaben geprüft hat.
 
 ## Beispielformulierungen
 
-- "Lege ein Projekt für das Buerogebäude Friedrichstraße 100
+- "Lege ein Projekt für das Bürogebäude Friedrichstraße 100
   an. Playbook Gewerbemiete Standard. AVV-Prüfung Pflicht."
 - "Prüfe diesen eingehenden AVV nach Art. 28 DSGVO und unsere
   internen Vorgaben."
