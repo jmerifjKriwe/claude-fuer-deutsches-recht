@@ -61,3 +61,22 @@ Liegt eine pauschale Erledigungsklausel vor, kann die Mandantin den Urlaubsabgel
 ## Anschluss
 
 Verbindung mit `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit` fuer die Aufhebungsvertragsgestaltung und mit `vergleichsverhandlung-strategie` fuer den Prozessvergleich. Bei Klage auf Urlaubsabgeltung nach pauschalem Vergleich ergaenzend `schriftsatzkern-substantiierung` heranziehen.
+
+## Aktuelle Rechtsprechung (Ergaenzung v14.2)
+
+- **EuGH, Urt. v. 06.11.2018 — C-619/16 (Kreuziger) und C-684/16 (Max-Planck)**, NZA 2018, 1474 — Urlaubsanspruch geht bei Beendigung des Arbeitsverhältnisses nicht automatisch unter; Arbeitgeber muss Arbeitnehmer aktiv und nachweisbar auffordern, Urlaub zu nehmen und ihn auf Verfall hinweisen; ohne Hinweis kein Verfall.
+- **BAG, Urt. v. 19.02.2019 — 9 AZR 423/16**, NZA 2019, 493 — Umsetzung der EuGH-Linie: Arbeitgeber trägt Initiativlast; muss Arbeitnehmer konkret und rechtzeitig auffordern und auf Verfalldatum hinweisen; ohne dies kein Verfall nach § 7 Abs. 3 BUrlG.
+- **BAG, Urt. v. 20.12.2022 — 9 AZR 266/20**, NZA 2023, 361 — Verjährung des Urlaubsanspruchs; Regelverjährung §§ 195, 199 BGB gilt auch für gesetzlichen Mindesturlaub, aber erst wenn Arbeitgeber Hinweispflicht erfüllt hat; ohne Hinweis keine Verjährung.
+
+## Paragrafenkette
+
+- §§ 1, 3 BUrlG — Urlaubsanspruch (20 Werktage Mindesturlaub)
+- § 7 Abs. 3 BUrlG — Übertragung und Verfall
+- § 7 Abs. 4 BUrlG — Abgeltungsanspruch bei Beendigung
+- § 13 Abs. 1 BUrlG — Unabdingbarkeit des Mindesturlaubs
+- §§ 195, 199 BGB — Verjährung
+
+## Kommentarliteratur
+
+- ErfK/Gallner, 25. Aufl. 2025, BUrlG § 7 Rn. 1 ff. (Verfall, Übertragung, Hinweispflicht, Abgeltung)
+- HWK/Schinz, 11. Aufl. 2024, BUrlG § 13 Rn. 1 ff. (Unabdingbarkeit, Verzicht, Vergleichsklauseln)

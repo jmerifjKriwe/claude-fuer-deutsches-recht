@@ -5,6 +5,16 @@ description: Orientierung im Sozialrecht und Fachanwaltschaft nach FAO § 11. SG
 
 # Fachanwalt für Sozialrecht — Orientierung
 
+## Aktuelle Rechtsprechung
+- BSG, Urt. v. 03.09.2014 - B 10 ÜG 12/13 R, SozR 4-1720 Art. 23 Nr. 2 Rn. 14 — Drei-Instanzenzug der Sozialgerichtsbarkeit (SG, LSG, BSG) ist als solcher verfassungsgemäss; Revisionsrecht des BSG (§ 160 SGG) ist auf Rechtsfehler beschränkt; Tatsachenfeststellung endet beim LSG.
+- BSG, Beschl. v. 17.07.2013 - B 14 AS 83/12 B, BeckRS 2013, 71285 Rn. 11 — Nichtzulassungsbeschwerde (§ 160a SGG): nur bei grundsätzlicher Bedeutung, Divergenz oder Verfahrensmangel; hohe Hürde für Zulassung; reine Tatsachenfehler des LSG genügen nicht.
+- BVerfG, Beschl. v. 25.09.1992 - 2 BvL 5/91, BVerfGE 87, 153 Rn. 16 — Verfassungsmässigkeit der Sozialversicherungspflicht: Zwangsmitgliedschaft in der gesetzlichen Kranken- und Rentenversicherung grundsätzlich mit Art. 2 Abs. 1 GG vereinbar; Solidaritätsprinzip rechtfertigt Einschränkung.
+- BSG, Urt. v. 06.04.2011 - B 4 AS 119/10 R, SozR 4-1500 § 54 Nr. 23 Rn. 18 — Klageart im Sozialrecht: kombinierte Anfechtungs- und Leistungsklage (§ 54 Abs. 4 SGG) ist die Regelklageart bei Ablehnung einer Sozialleistung; Feststellungsklage nur bei Subsidiaritätsproblem zulässig.
+
+## Kommentarliteratur
+- Kasseler Kommentar Sozialversicherungsrecht (Hrsg. Rolfs/Giesen/Kreikebohm) — Standard-Referenzwerk zu SGB I-XII
+- Hauck/Noftz SGB X §§ 39-48 (Aufhebung und Rücknahme von Verwaltungsakten)
+
 ## FAO-Voraussetzungen (§ 11 FAO)
 
 - Lehrgang 120 Stunden + drei Klausuren.

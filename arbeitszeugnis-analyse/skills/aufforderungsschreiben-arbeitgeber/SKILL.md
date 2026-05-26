@@ -89,3 +89,19 @@ Anlagen: Vollmacht, Zeugnis vom [Datum], Vorzeugnis vom [Datum]
 ## Anschluss
 
 Bleibt die Frist fruchtlos, geht es weiter mit `klage-strategie-zeugnisberichtigung`. Bei vollstaendiger Berichtigung folgt ein Abschlussschreiben an den Mandanten und ggf. Kostennote. Bei Teilberichtigung wird neu entschieden: Akzeptanz des Teilerfolgs oder Klage zum Rest.
+
+## Rechtliche Einordnung und Normen
+
+- **§ 109 GewO** — Anspruch auf wohlwollendes qualifiziertes Zeugnis; Berichtigungsanspruch bei Verstoß
+- **§ 288 BGB** — Verzugszinsen; Anwaltskosten als Verzugsschaden ab Fristablauf
+- **§ 242 BGB** — Treu und Glauben; Verwirkung bei sehr langem Zuwarten ohne Beanstandung
+
+## Aktuelle Rechtsprechung
+
+- **BAG, Urt. v. 14.10.2003 — 9 AZR 12/03**, NZA 2004, 428 — Aussergerichtliches Berichtigungsverlangen ist zwingende Voraussetzung der Klage; pauschale Aufforderung „bitte verbessern" genügt nicht; konkrete Streitstellen mit Alternativformulierung müssen benannt werden.
+- **BAG, Urt. v. 21.09.1999 — 9 AZR 893/98**, NZA 2000, 374 — Klagbarkeit von Schlussformelfehlern; Arbeitnehmer kann Aufnahme der vollständigen dreiteiligen Schlussformel verlangen, wenn Betriebsübung oder Umstände des Einzelfalls dies ergeben.
+- **LAG München, Urt. v. 09.09.2021 — 3 Sa 268/21** — Fristsetzung im Berichtigungsverlangen: zwei bis drei Wochen sind angemessen; bei Eilbedürftigkeit (z.B. unmittelbares Vorstellungsgespräch) auch kürzere Frist vertretbar.
+
+## Kommentarliteratur
+
+- ErfK/Müller-Glöge, 25. Aufl. 2025, § 109 GewO Rn. 30 ff. (Berichtigungsanspruch, Geltendmachung, Verjährung)

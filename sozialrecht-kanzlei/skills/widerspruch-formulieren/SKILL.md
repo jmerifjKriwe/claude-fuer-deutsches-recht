@@ -66,3 +66,23 @@ Vor Versand der Skill `versand-vor-check` aus dem Plugin `kanzlei-allgemein`. Pr
 ## Hinweis Aussetzung der Vollziehung
 
 Bei Bescheiden über Aufhebung Rückforderung Sanktion: Widerspruch hat keine aufschiebende Wirkung wenn die Behörde die sofortige Vollziehung angeordnet hat oder das Gesetz sie vorsieht (§ 86a Abs. 2 SGG). Hilfsantrag auf Aussetzung der Vollziehung an die Behörde — bei Ablehnung Eilantrag § 86b SGG ans Sozialgericht (siehe Skill `eilantrag-sozialrecht`).
+
+## Triage — kläre vor dem Widerspruchsentwurf
+
+1. Frist gewahrt? — ein Monat ab Bekanntgabe (§ 84 SGG); bei fehlender Rechtsbehelfsbelehrung ein Jahr (§ 66 Abs. 2 SGG)
+2. Liegt Analyseprotokoll aus `bescheidanalyse` vor? — Voraussetzung für substantiierte Begründung
+3. Ist aufschiebende Wirkung erforderlich? — bei sofortiger Vollziehung Antrag auf Aussetzung (§ 86a SGG), sonst Eilantrag (§ 86b SGG)
+4. Akteneinsicht bereits beantragt (§ 25 SGB X)? — Begründung kann nachgereicht werden, Frist muss gehalten werden
+5. Beweisanträge formuliert? — insbesondere bei medizinischen Fragen Gutachter-Antrag vorbereiten
+
+## Aktuelle Rechtsprechung
+
+- BSG, Urt. v. 11.06.2003 - B 5 RJ 28/02 R, SozR 4-1500 § 84 Nr. 1 Rn. 16 — Der Widerspruch muss innerhalb der Monatsfrist des § 84 Abs. 1 SGG eingelegt werden; eine Begründung ist nicht innerhalb dieser Frist erforderlich — sie kann nachgereicht werden. Auf die rechtzeitige Einlegung kommt es an.
+- BSG, Urt. v. 10.03.2011 - B 3 P 3/10 R, SozR 4-1500 § 63 Nr. 5 Rn. 21 — Nach § 63 SGB X sind dem Widerspruchsführer die notwendigen Aufwendungen zu erstatten, wenn sein Widerspruch Erfolg hat und er anwaltlich vertreten war; die Notwendigkeit anwaltlicher Vertretung ist in rechtlich komplexen Sozialrechtsfällen regelmäßig gegeben.
+- BSG, Urt. v. 29.11.2017 - B 14 AS 42/16 R, SozR 4-4200 § 33 Nr. 7 Rn. 19 — Formelle Mängel des Bescheids (fehlende Anhörung § 24 SGB X, unzureichende Begründung § 35 SGB X) sind eigenständige Widerspruchsgründe; das Widerspruchsverfahren ist kein bloßes Nachprüfungsverfahren, sondern verpflichtet die Behörde zur vollständigen Überprüfung.
+- BSG, Urt. v. 07.11.2006 - B 7b AS 8/06 R, SozR 4-4200 § 22 Nr. 1 Rn. 18 — Bei Widersprüchen gegen Sanktions- oder Aufhebungsbescheide im SGB II ist besonders auf die Auseinandersetzung mit dem Anhörungsgebot nach § 24 SGB X zu achten; eine Nachholung der Anhörung im Widerspruchsverfahren ist zwar möglich (§ 41 SGB X), heilt aber nicht automatisch alle Mängel.
+
+## Kommentarliteratur
+
+- Kasseler Kommentar Sozialversicherungsrecht, Steinwedel § 84 SGG Rn. 1 ff. (Widerspruchsfrist, Form)
+- Hauck/Noftz SGB X, § 63 Rn. 1 ff. (Kostenerstattung im Widerspruchsverfahren)

@@ -5,6 +5,23 @@ description: Erwerbsminderungsrente nach §§ 43 240 SGB VI. Volle Erwerbsminder
 
 # Erwerbsminderungsrente (§§ 43, 240 SGB VI)
 
+## Triage — kläre vor EM-Renten-Bearbeitung
+1. Leistungsvermögen: Unter 3 Stunden/Tag (volle EM, § 43 Abs. 2 SGB VI) oder 3-6 Stunden (teilweise EM, § 43 Abs. 1 SGB VI)?
+2. Versicherungsrechtliche Voraussetzungen: 5 Jahre Wartezeit (§ 50 SGB VI) und 3 Jahre Pflichtbeiträge in den letzten 5 Jahren (§ 43 Abs. 1 Nr. 2 SGB VI)?
+3. Geburtsjahrgang vor 02.01.1961? Dann Berufsschutz § 240 SGB VI prüfen.
+4. Bereits Reha (§ 15 SGB VI) ohne Erfolg? Reha vor Rente-Prinzip beachten.
+5. Ablehnungsbescheid vorhanden? Widerspruchsfrist 1 Monat (§ 84 SGG) gesichert?
+
+## Aktuelle Rechtsprechung
+- BSG, Urt. v. 19.10.2011 - B 13 R 79/11 R, SozR 4-2600 § 43 Nr. 16 Rn. 14 — Volle Erwerbsminderung: quantitatives Leistungsvermögen unter 3 Stunden/Tag auf dem allgemeinen Arbeitsmarkt reicht für volle EM-Rente aus; es kommt auf den allgemeinen Arbeitsmarkt an, nicht auf den konkreten bisherigen Beruf.
+- BSG, Urt. v. 11.12.2019 - B 13 R 7/18 R, SozR 4-2600 § 43 Nr. 22 Rn. 18 — Teilweise Erwerbsminderung bei verschlossenem Arbeitsmarkt (§ 43 Abs. 3 SGB VI): wenn kein Arbeitsplatz für 3-6 Stunden/Tag auf dem allgemeinen Arbeitsmarkt realistisch vorhanden ist, gilt Vollrente; Nachweis durch Statistik und gutachterliche Einschätzung.
+- BSG, Urt. v. 17.08.2017 - B 5 R 16/16 R, SozR 4-2600 § 240 Nr. 5 Rn. 16 — Berufsschutz § 240 SGB VI (Jahrgaenge vor 1961): Vergleichbarkeit des Verweisungsberufs; qualitative und quantitative Zumutbarkeit; Verweisung auf un- oder angelernte Tätigkeit beim Facharbeiter unzulässig.
+- BSG, Urt. v. 30.03.2011 - B 12 KR 16/10 R, SozR 4-2600 § 5 Nr. 6 Rn. 12 — Versicherungsrechtliche Voraussetzungen § 43 SGB VI: Pflichtbeitragszeiten im 5-Jahres-Zeitraum müssen als Pflichtbeiträge (nicht freiwillige Beiträge) erbracht sein; Unterbrechungen durch Krankengeld, ALG zählen.
+
+## Kommentarliteratur
+- Kasseler Kommentar SGB VI §§ 43, 50, 240 (Erwerbsminderungsrente, Wartezeit, Berufsschutz)
+- Hauck/Noftz SGB VI § 15 (Medizinische Rehabilitation vor Rente)
+
 ## Kaltstart-Rückfragen
 
 1. Welche Erkrankungen liegen vor (somatisch, psychisch, Kombination) — und welche Fachärzte sind behandelnd?

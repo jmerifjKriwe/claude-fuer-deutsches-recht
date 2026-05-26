@@ -23,6 +23,13 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - VAG §§ 26, 234 (Governance-Anforderungen Pensionskassen und Pensionsfonds)
 - MaRisk (Mindestanforderungen an das Risikomanagement — analog anwendbar auf interne Pension Committees)
 - IAS 19.135–145 (Angabepflichten zu Governance und Risikomanagement)
+- BAG 24.09.2019 — 3 AZR 747/17 (Anpassungsentscheidung § 16 BetrAVG: volle gerichtliche Überprüfung der Prognoseentscheidung; AG trägt Darlegungslast für ausreichende Eigenkapitalrendite)
+- BAG 16.06.2020 — 3 AZR 530/19 (Prognoseprinzip bei wirtschaftlicher Leistungsfähigkeit § 16 BetrAVG: Dreijahres-Finanzplan muss konkrete Pläne des Unternehmens abbilden; keine pauschalen Branchenprognosen)
+
+### Kommentarliteratur
+
+- Rolfs/Giesen/Kreikebohm/Udsching, BeckOK ArbeitsR, § 16 BetrAVG Rn. 1 ff. (Anpassungsprüfungspflicht, Prognoseprinzip)
+- Kemper/Kisters-Kölkes/Berenz/Huber, BetrAVG, 9. Aufl. 2023, § 16 Rn. 50 ff. (Eigenkapitalrendite, Ermessen)
 
 ---
 

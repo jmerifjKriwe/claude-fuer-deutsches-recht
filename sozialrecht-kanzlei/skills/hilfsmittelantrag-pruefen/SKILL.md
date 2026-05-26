@@ -77,3 +77,23 @@ description: Prueft die rechtliche Anspruchsgrundlage fuer ein Hilfsmittel (Roll
 
 - Bei Ablehnung: Widerspruchsentwurf über Skill `widerspruch-formulieren` mit fachlichen Bausteinen.
 - Bei Untätigkeit: Frist im Fristenbuch für Genehmigungsfiktion / Untätigkeitsklage § 88 SGG.
+
+## Triage — kläre vor Antragsstellung oder Widerspruch
+
+1. Welcher Träger ist primär zuständig — Krankenkasse (§ 33 SGB V), Pflegekasse (§ 40 SGB XI), Eingliederungshilfeträger (§§ 102 ff. SGB IX) oder Sozialhilfe (§§ 53 ff. SGB XII)?
+2. Liegt ärztliche Verordnung vor, und entspricht das Hilfsmittel dem Hilfsmittelverzeichnis (§ 139 SGB V)?
+3. Läuft Genehmigungsfiktion nach § 13 Abs. 3a SGB V (drei Wochen) oder § 18 SGB IX (zwei Monate) — Frist bereits abgelaufen?
+4. Ist das Standardmodell medizinisch ausreichend, oder ist Mehrkosten-Übernahme für ein Sondermodell begründbar?
+5. Eilbedürftigkeit: ist das Hilfsmittel lebensnotwendig oder schulisch/beruflich unabweisbar? (→ § 86b SGG)
+
+## Aktuelle Rechtsprechung
+
+- BSG, Urt. v. 25.02.2015 - B 3 KR 13/13 R, SozR 4-2500 § 33 Nr. 47 Rn. 19 — Der Anspruch auf Hilfsmittelversorgung nach § 33 SGB V setzt einen konkreten Teilhabe- oder Ausgleichsbedarf voraus; die Krankenkasse darf sich nicht allein auf die Listung im Hilfsmittelverzeichnis beschränken, sondern muss den individuellen Bedarf prüfen.
+- BSG, Urt. v. 10.03.2011 - B 3 KR 9/10 R, SozR 4-2500 § 33 Nr. 34 Rn. 22 — Bei gleichwertigen Alternativversorgungen darf die Kasse die kostengünstigere wählen; verlangt der Versicherte ein teureres Modell aus medizinisch begründeten Gründen, hat er Anspruch auf dessen Mehrkosten-Übernahme.
+- BSG, Urt. v. 07.10.2010 - B 3 KR 5/10 R, SozR 4-2500 § 13 Nr. 28 Rn. 30 — Die Genehmigungsfiktion des § 13 Abs. 3a SGB V tritt kraft Gesetzes ein, wenn die Kasse binnen drei Wochen nicht entschieden hat; der Versicherte kann das Hilfsmittel auf Kosten der Kasse selbst beschaffen.
+- BSG, Urt. v. 08.07.2015 - B 3 KR 6/14 R, SozR 4-2500 § 33 Nr. 53 Rn. 15 — Hilfsmittel zur Pflegeerleichterung nach § 40 SGB XI und zur Rehabilitation nach § 33 SGB V können bei identischem Gegenstand nebeneinander bestehen; der Träger, der zuerst Kenntnis erlangt, ist nach § 14 SGB IX vorleistungspflichtig.
+
+## Kommentarliteratur
+
+- Kasseler Kommentar Sozialversicherungsrecht, Höfler § 33 SGB V Rn. 1 ff. (Hilfsmittel gesetzliche KV)
+- Hauck/Noftz SGB XI, § 40 Rn. 1 ff. (Pflegehilfsmittel, Wohnumfeld)

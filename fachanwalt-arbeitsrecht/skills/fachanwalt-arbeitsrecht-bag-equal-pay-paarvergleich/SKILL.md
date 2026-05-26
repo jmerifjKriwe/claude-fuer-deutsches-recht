@@ -58,3 +58,23 @@ Die Klaegerin hat Anspruch auf Differenzentgelt nach Paragraf 3 Absatz 1 iVm Par
 ## Anschluss
 
 Verbindung mit `fachanwalt-arbeitsrecht-orientierung` zur Mandatsaufnahme. Bei zusaetzlichen AGG-Aspekten ergaenzend pruefen. Im Vergleichsstadium die Skills zur Verhandlungsstrategie heranziehen.
+
+## Aktuelle Rechtsprechung (Ergaenzung v14.2)
+
+- **BAG, Urt. v. 21.01.2021 — 8 AZR 488/19**, NZA 2021, 737 — Auskunftsanspruch nach § 10 EntgTranspG; Arbeitgeber muss innerhalb von drei Monaten Auskunft erteilen; Verspätung löst keine Sanktion aus, aber substantiierter Klageanspruch entsteht nach erfolgloser Geltendmachung.
+- **BAG, Urt. v. 25.02.2021 — 8 AZR 171/20**, NZA 2021, 1197 — Keine Rechtfertigung durch Verhandlungsgeschick; Entgeltdifferenz allein aus Verhandlungsstärke des besser bezahlten Mannes reicht nach § 3 EntgTranspG nicht aus; Arbeitgeber muss objektive, geschlechtsneutrale Kriterien darlegen.
+- **EuGH, Urt. v. 08.05.2019 — C-161/18 (Villar Láiz)**, NZA 2019, 779 — Mittelbare Entgeltdiskriminierung: Regelung, die überwiegend Frauen trifft und nicht durch objektive Faktoren gerechtfertigt ist, verstößt gegen Art. 157 AEUV.
+
+## Paragrafenkette
+
+- Art. 157 AEUV — Gleiches Entgelt für gleiche Arbeit
+- § 3 EntgTranspG — Verbot unmittelbarer Entgeltbenachteiligung
+- § 7 EntgTranspG — Anspruch auf gleiches Entgelt
+- § 10 EntgTranspG — Auskunftsanspruch
+- § 15 AGG — Entschädigung (Frist zwei Monate)
+- § 22 AGG — Beweislastverteilung
+
+## Kommentarliteratur
+
+- ErfK/Schlachter, 25. Aufl. 2025, EntgTranspG § 3 Rn. 1 ff. (Paarvergleich, Beweislast, Auskunft)
+- HWK/Rupp, 11. Aufl. 2024, AGG § 22 Rn. 1 ff. (Vermutung, Widerlegung durch Arbeitgeber)

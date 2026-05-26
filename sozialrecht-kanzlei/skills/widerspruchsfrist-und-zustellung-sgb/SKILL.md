@@ -170,3 +170,23 @@ Im Sozialrecht ist die Wahrung der Widerspruchsfrist absolut entscheidend. Diese
 - BSG Std.Spruch
 - Hauck/Noftz SGB X
 - Krasney/Udsching SGG
+
+## Triage — kläre sofort bei Bescheideingang
+
+1. Datum der Aufgabe zur Post auf dem Bescheid angegeben? — Vier-Tages-Fiktion ab diesem Datum (§ 37 Abs. 2 SGB X n.F., seit 01.01.2025)
+2. Hat Mandant den Brief tatsächlich früher erhalten? — Zugangsdatum belegen lassen (Briefumschlag aufheben)
+3. Rechtsbehelfsbelehrung vollständig und korrekt? — bei Fehlern Jahresfrist nach § 66 Abs. 2 SGG
+4. Liegt Fristablauf am Wochenende oder Feiertag? — Verschiebung auf nächsten Werktag (§ 26 SGB X iVm § 193 BGB analog)
+5. Wurde die Frist bereits versäumt? — Wiedereinsetzung (§ 67 SGG / § 27 SGB X) oder Überprüfungsantrag (§ 44 SGB X) prüfen
+
+## Aktuelle Rechtsprechung
+
+- BSG, Urt. v. 06.05.2010 - B 14 AS 12/09 R, SozR 4-1300 § 37 Nr. 1 Rn. 19 — Die Bekanntgabe-Fiktion des § 37 Abs. 2 SGB X tritt am dritten Tag nach Aufgabe zur Post ein (seit 01.01.2025: vier Tage); Bestreitet der Adressat den Zugang, muss die Behörde die Tatsache der Aufgabe zur Post nachweisen.
+- BSG, Urt. v. 17.07.2014 - B 14 AS 25/13 R, SozR 4-1500 § 67 Nr. 3 Rn. 22 — Wiedereinsetzung in den vorigen Stand setzt ein unverschuldetes Hindernis voraus; Unwissenheit über die Rechtslage ist kein unverschuldetes Hindernis; ärztlich belegte Handlungsunfähigkeit hingegen schon.
+- BSG, Urt. v. 26.05.2011 - B 14 AS 54/10 R, SozR 4-1500 § 84 Nr. 4 Rn. 20 — Eine fehlerhafte Rechtsbehelfsbelehrung (z.B. falsche Fristangabe, falsches Gericht) löst die Jahresfrist des § 66 Abs. 2 SGG aus; eine nachträgliche korrekte Belehrung setzt eine neue Monatsfrist in Gang.
+- BSG, Urt. v. 29.11.2012 - B 14 AS 196/11 R, SozR 4-1300 § 26 Nr. 2 Rn. 15 — Die Fristberechnung nach § 26 SGB X folgt den §§ 187 ff. BGB; bei Fristende an einem Sonnabend, Sonntag oder gesetzlichen Feiertag wird die Frist auf den nächsten Werktag verlängert.
+
+## Kommentarliteratur
+
+- Kasseler Kommentar Sozialversicherungsrecht, Steinwedel § 37 SGB X Rn. 1 ff. (Bekanntgabe-Fiktion, PostModG)
+- Meyer-Ladewig/Keller/Leitherer/Schmidt, SGG, §§ 66-67 Rn. 1 ff. (Fristen, Wiedereinsetzung)

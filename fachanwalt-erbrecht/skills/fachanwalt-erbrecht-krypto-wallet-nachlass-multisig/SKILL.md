@@ -229,7 +229,7 @@ Irreversibilität bei Verweigerung der Signatur-Mitwirkung.
 
 **Streitwert:** Börsenwert der Krypto-Assets zum Todestag
 - Typisch: EUR 10.000–mehrere Millionen je Portfolio
-- Gerichtsgebühren bei EUR 100.000: ca. EUR 2.571 (3,0 Gebühr LG)
+- Gerichtsgebühren bei EUR 100.000: ca. EUR 2.571 (3.0 Gebühr LG)
 - RA-Gebühren: ca. EUR 6.000–8.000 je Partei
 
 **Erbschaftsteuer Berechnung Beispiel:**

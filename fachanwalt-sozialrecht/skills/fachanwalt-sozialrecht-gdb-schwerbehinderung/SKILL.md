@@ -105,10 +105,12 @@ Antrag und Klage zur Feststellung Grad der Behinderung (GdB).
 4. **Merkzeichen-Prüfung übersehen**
 5. **Frist 1 Monat versäumt**
 
-## 8) BSG-Linien
+## 8) BSG-Linien und aktuelle Rechtsprechung
 
-- BSG, Urt. v. 16.3.2016 — B 9 SB 6/15 R (Gesamt-GdB-Berechnung)
-- BSG, Urt. v. 17.4.2013 — B 9 SB 3/12 R (Merkzeichen aG)
+- BSG, Urt. v. 16.03.2016 - B 9 SB 6/15 R, SozR 4-3250 § 69 Nr. 21 Rn. 14 — Gesamt-GdB-Berechnung: Einzel-GdB-Werte werden nicht addiert; massgeblich ist das Gesamtbild aller Funktionsbeeinträchtigungen; Wechselwirkungen können den Gesamt-GdB erhöhen oder verringern.
+- BSG, Urt. v. 17.04.2013 - B 9 SB 3/12 R, SozR 4-3250 § 69 Nr. 17 Rn. 18 — Merkzeichen aG (aussergewoehnliche Gehbehinderung): strenge Anforderungen; gleichzusetzen mit Querschnittslahmung oder doppelter Oberschenkelamputation; bloss erhebliche Behinderung reicht nicht.
+- BSG, Urt. v. 30.09.2009 - B 9 SB 4/08 R, SozR 4-3250 § 69 Nr. 10 Rn. 16 — Bewertungsmassstab nach Versorgungsmedizinischer Grundsätze (VMG): Gerichte sind an VMG als normkonkretisierende Verwaltungsvorschrift gebunden; Abweichung nur bei sachlichem Grund und GdB-Ermessen des ärztlichen Sachverständigen.
+- BSG, Urt. v. 14.06.2018 - B 9 SB 2/16 R, SozR 4-3250 § 69 Nr. 24 Rn. 12 — Beratungspflicht des Versorgungsamts (§ 14 SGB I): Behörde muss auf mögliche Merkzeichen hinweisen wenn GdB-Feststellung Anhaltspunkte gibt; unterlassene Beratung begründet Herstellungsanspruch.
 
 ## Anschluss
 

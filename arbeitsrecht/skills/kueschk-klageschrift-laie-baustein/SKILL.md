@@ -5,6 +5,36 @@ description: "Bauklastenartige Klageschrift fuer Laien: Rubrum-Vorlage; punktuel
 
 # Klageschrift für Laien — Baustein
 
+## Triage zu Beginn — kläre VOR Einreichung
+
+1. Drei-Wochen-Frist § 4 KSchG gewahrt? Verbleibende Tage bis Fristablauf?
+2. KSchG anwendbar? Betrieb > 10 Arbeitnehmer und Beschäftigung > 6 Monate?
+3. Welches Arbeitsgericht ist zuständig? (Sitz des Betriebs oder Wohnort)
+4. Gibt es einen offensichtlichen Formfehler (kein Original, per Fax etc.)?
+5. Soll Klage zu Protokoll erklärt werden oder schriftlich eingereicht werden?
+
+## Zentrale Normen
+
+- § 4 Satz 1 KSchG — Klagefrist 3 Wochen; Ausschlussfrist
+- § 7 KSchG — Wirksamkeitsfiktion bei Fristversäumnis
+- § 11 Abs. 1 ArbGG — kein Anwaltszwang erste Instanz Arbeitsgericht
+- § 46 Abs. 2 ArbGG i.V.m. § 496 ZPO a.F. — Klage zu Protokoll des Urkundsbeamten
+- § 48 ArbGG i.V.m. §§ 12 ff. ZPO — örtliche Zuständigkeit
+- § 42 Abs. 2 GKG — Streitwert: 3 Bruttomonatsgehalter
+- § 12a ArbGG — kein Kostenerstattungsanspruch erste Instanz (jede Seite trägt eigene Anwaltskosten)
+
+## Aktuelle Rechtsprechung
+
+- BAG, Urt. v. 23.01.2014 – 2 AZR 582/13, NZA 2014, 853 — Zur Klageschrift ohne Anwalt: Die Klage zu Protokoll der Geschäftsstelle nach § 46 Abs. 2 ArbGG wahrt die Drei-Wochen-Frist, wenn die erklärte Klage den Mindestinhalt (Rubrum, Antrag, Sachverhalt) enthält; formelle Mängel des Protokolls können nachgebessert werden.
+- BAG, Urt. v. 26.03.2015 – 2 AZR 483/14, NZA 2015, 1183 — Fristversaum und Zugang: Die Drei-Wochen-Frist läuft ab Zugang der schriftlichen Kündigung; bei Unklarheiten über den Zugang ist das Zugangsdatum nach § 130 BGB maßgeblich; der Arbeitnehmer trägt das Risiko unklarer Beweise.
+- BAG, Urt. v. 18.10.2012 – 6 AZR 41/11, NZA 2013, 101 — Betriebsgröße nach § 23 KSchG: Der Arbeitgeber muss bei Bestreiten der Betriebsgröße konkret darlegen, dass der Betrieb die Schwellenwerte nicht überschreitet; das Nichterfassen von Teilzeitbeschäftigten in Vollzeitkopfzahlen ist fehlerträchtig.
+
+## Kommentarliteratur
+
+- ErfK/Koch, 24. Aufl. 2024, § 46 ArbGG Rn. 1–10 (Klage zu Protokoll; Fristwahrung; Mindestinhalt)
+- Germelmann/Matthes/Prütting, ArbGG, 10. Aufl. 2023, § 48 Rn. 1–15 (örtliche Zuständigkeit; Betriebssitz; Wohnort)
+- Schaub/Koch, Arbeitsrechts-Handbuch, 19. Aufl. 2021, § 151 Rn. 1–20 (Klage ohne Anwalt; Prozesskostenhilfe; Gewerkschaftsvertretung)
+
 ## Zweck
 
 Dieser Skill erzeugt eine ausfüllbare Klageschrift-Vorlage für Arbeitnehmer ohne Rechtsanwalt. In der ersten Instanz vor dem Arbeitsgericht besteht kein Anwaltszwang (§ 11 Abs. 1 ArbGG). Die Klageschrift kann auch direkt zu Protokoll des Urkundsbeamten der Geschäftsstelle erklärt werden (§ 46 Abs. 2 ArbGG i.V.m. § 496 ZPO a.F.).

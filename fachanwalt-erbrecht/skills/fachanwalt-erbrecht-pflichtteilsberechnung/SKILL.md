@@ -275,7 +275,7 @@ Wir fordern Sie auf, bis [Datum] zu zahlen.
 **Streitwert Zahlungsstufe:** Bezifferter Pflichtteilsanspruch
 
 **Gerichtsgebühren Beispiel EUR 50.000:**
-- Auskunftsstufe EUR 12.500 → GKG 3,0 Gebühr ca. EUR 618
+- Auskunftsstufe EUR 12.500 → GKG 3.0 Gebühr ca. EUR 618
 - Zahlungsstufe EUR 50.000 → GKG ca. EUR 1.638
 - RA-Gebühren: je Partei ca. EUR 3.500–5.500
 

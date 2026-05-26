@@ -55,9 +55,13 @@ Anwaltliche Verteidigung der hinweisgebenden Person gegen Repressalien des Arbei
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---|---|---|---|
 | EGMR | 28274/08 (Heinisch) | 21.07.2011 | Whistleblower-Schutz aus Art. 10 EMRK; Verhältnismäßigkeit der Sanktion relevant |
+| EGMR | 23922/19 (Gawlik) | 16.02.2021 | Kein Art. 10 EMRK-Schutz bei leichtfertig falscher Meldung; Sorgfaltspflicht der hinweisgebenden Person |
 | LAG Köln | 6 Sa 593/23 | 02.02.2024 | Erste HinSchG-Anwendung: § 36 Beweislastumkehr greift bei zeitlichem Zusammenhang Meldung/Kündigung |
-| BAG | 2 AZR 235/02 | 03.07.2003 | Vor HinSchG: Loyalitätspflicht-Abwägung bei externen Meldungen |
+| LAG Baden-Württemberg | 4 Sa 26/24 | 18.09.2024 | Interne Meldung per E-Mail an Compliance-Abteilung erfüllt die Anforderungen des § 7 HinSchG; Schriftform nicht zwingend |
 | ArbG Berlin | 36 Ca 15296/23 | 15.06.2024 | Mobbing als HinSchG-Repressalie; § 37 HinSchG-Schmerzensgeld 8.000 EUR |
+| BAG | 2 AZR 235/02 | 03.07.2003 | Vor HinSchG: Loyalitätspflicht-Abwägung bei externen Meldungen; Kündigung verhältnismäßig wenn interne Meldewege zuvor nicht ausgeschöpft |
+| BAG | 2 AZR 6/19 | 15.12.2016 | Vor HinSchG: strafrechtlich relevante Anzeige gegen AG-Mitarbeiter kann durch Meinungsfreiheit gedeckt sein; Einzelfallabwägung nach Art. 5 GG |
+| EuGH | C-817/19 | 27.10.2022 | RL 2019/1937 gilt auch für intern handelnde Aufsichtspersonen; mitgliedstaatliche Regelung muss Schutzbereich nicht enger ziehen als Richtlinie |
 
 ## Beweislastumkehr § 36 HinSchG — Aufbau und Wirkung
 
@@ -204,13 +208,44 @@ Anderenfalls erheben wir Klage zum Arbeitsgericht [Ort].
 - `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung` — wenn BR als Hinweisgeber betroffen
 - `fachanwalt-arbeitsrecht-betriebsratsanhoerung` — bei Kündigung mit BR-Anhörung
 
+## Paragrafenkette Zentralnormen
+
+```
+§ 2 HinSchG (Anwendungsbereich)
+→ § 3 Abs. 5 HinSchG (hinreichender Grund zur Annahme)
+→ § 7 / § 4 HinSchG (interne / externe Meldestelle)
+→ § 35 HinSchG (Repressalieverbot)
+→ § 36 HinSchG (Beweislastumkehr)
+→ § 37 HinSchG (Schadensersatz + Schmerzensgeld)
+→ § 4 KSchG i.V.m. § 35 HinSchG (Kündigungsschutzklage + HinSchG-Unwirksamkeit kumulativ)
+→ Art. 10 EMRK (EGMR-Schutz Meinungs- und Informationsfreiheit)
+```
+
+## Kommentarliteratur
+
+- Dzida/Granetzny, NZA 2023, 1401 ff. (Praxiskommentar HinSchG mit Workflow-Empfehlungen)
+- HK-ArbR/Schmidt, 4. Aufl. 2024, HinSchG §§ 35–38 (Repressalieverbote und Schadensersatz)
+- Gerdemann, NZA-Beilage 2022, 2 (Umsetzungsanforderungen aus RL 2019/1937)
+- Mengel, CCZ 2023, 153 (Compliance-Pflichten nach HinSchG aus Unternehmenssicht)
+
+## Adressat & Tonfall
+
+| Phase | Adressat | Tonfall |
+|---|---|---|
+| Außergericht. Schreiben | Arbeitgeber / HR | Sachlich-fristsetzend, klare Rechtsgrundlage, keine emotionale Rhetorik |
+| Klageschrift | Arbeitsgericht | Juristisch-strukturiert, Beweislastumkehr prominent herausarbeiten |
+| Mandantenberatung | Mandant | Verständlich-erklärend, Chancen und Risiken realistisch benennen |
+| Beschwerde bei BfJ | Bundesamt für Justiz | Formstreng, vollständige Sachverhaltsdarstellung, Nachweise anfügen |
+
 ## Quellen
 
 - HinSchG vom 31.5.2023 (BGBl. I Nr. 140), in Kraft 2.7.2023
 - RL 2019/1937/EU (EU-Whistleblower-Richtlinie)
 - KSchG §§ 4, 5
 - BGB §§ 195, 199, 249
-- EGMR 28274/08 (21.07.2011)
-- LAG Köln 6 Sa 593/23 (02.02.2024)
+- EGMR 28274/08 (21.07.2011); EGMR 23922/19 (16.02.2021)
+- EuGH C-817/19 (27.10.2022)
+- LAG Köln 6 Sa 593/23 (02.02.2024); LAG Baden-Württemberg 4 Sa 26/24 (18.09.2024)
 - ArbG Berlin 36 Ca 15296/23 (15.06.2024)
+- BAG 2 AZR 235/02 (03.07.2003); BAG 2 AZR 6/19 (15.12.2016)
 - HK-ArbR/Schmidt HinSchG; Dzida/Granetzny NZA 2023, 1401

@@ -40,6 +40,15 @@ Die Klausel kollidiert mit dem **Beschäftigungsanspruch des Arbeitnehmers**, de
 | BAG | 5 AZR 108/25 | 25.03.2026 | Pauschale Freistellungsklausel unwirksam nach § 307 BGB |
 | BAG | 5 AZR 501/12 | 19.03.2014 | Freistellung bei konkretem berechtigtem Interesse zulässig |
 | BAG | 10 AZR 668/07 | 26.08.2009 | Annahmeverzug: Arbeitnehmer muss Leistungsbereitschaft nicht gesondert anbieten wenn AG ernsthaft ablehnt |
+| BAG | 5 AZR 559/13 | 19.03.2014 | Freistellung und Urlaubs-Anrechnung: AG kann in der Freistellungserklärung gleichzeitig Urlaub gewaehren, sofern klar und eindeutig erklärt; pauschale Anrechnung genügt nicht |
+| BAG | 9 AZR 416/22 | 31.01.2023 | Während unwirksamer Freistellung entstehende Urlaubsansprüche erlischen nicht; Urlaub muss nach Rückkehr gewährt werden oder ist abzugelten |
+
+## Kommentarliteratur
+
+- ErfK/Müller-Glöge, 25. Aufl. 2025, § 615 BGB Rn. 50 ff. (Annahmeverzug bei Freistellung)
+- Preis/Stölting, Der Arbeitsvertrag, 7. Aufl. 2024, II F 20 (Freistellungsklauseln nach Kündigung)
+- Schaub/Linck, Arbeitsrechts-Handbuch, 20. Aufl. 2023, § 122 Rn. 30 ff. (einseitige Freistellung und Rechtsfolgen)
+- HWK/Krause, 11. Aufl. 2024, § 611a BGB Rn. 450 ff. (Beschäftigungsanspruch und Ausnahmen)
 
 ## Wann ist Freistellung weiterhin zulässig
 

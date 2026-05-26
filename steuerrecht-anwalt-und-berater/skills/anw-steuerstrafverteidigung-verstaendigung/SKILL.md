@@ -246,7 +246,7 @@ Mit freundlichen Grüßen
 | Gesonderte Vergütungsvereinbarung | Stundensatz EUR 300–500/h; Verfahrensgebühr Nr. 4112 VV RVG + Zuschläge | Bei Hinterziehung > EUR 100.000 empfohlen |
 | Kosten HV wenn keine Einstellung | Nr. 4118 VV; pro HV-Tag gesondert | HV-Termingebühren |
 | § 153a StPO-Auflage Eigenanteil | EUR 5.000–200.000+ je nach Hinterziehungsbetrag | Wirtschaftliche Verhältnisse des Mandanten einbeziehen |
-| Steuerschaden + Zinsen § 235 AO | Hinterziehungsbetrag × Zinssatz × Hinterziehungsjahre; ca. 1,8 %/Jahr | Vorab genau beziffern |
+| Steuerschaden + Zinsen § 235 AO | Hinterziehungsbetrag × Zinssatz × Hinterziehungsjahre; ca. 1.8 %/Jahr | Vorab genau beziffern |
 
 ## Strategische Empfehlung
 

@@ -5,6 +5,11 @@ description: Systematische Auswertung der beigezogenen Verwaltungs- oder Gericht
 
 # Akteneinsicht auswerten
 
+## Aktuelle Rechtsprechung
+- BSG, Urt. v. 08.09.2022 - B 9 SB 3/21 R, SozR 4-3250 § 69 Nr. 27 Rn. 14 — Sachverständigengutachten in der Verwaltungsakte: Kläger hat Anspruch auf vollständige Einsicht auch in Befundunterlagen die dem Gutachter vorlagen; geschwArzte Teile müssen begründet werden.
+- BSG, Urt. v. 20.07.2011 - B 13 R 44/10 R, SozR 4-2600 § 43 Nr. 17 Rn. 16 — Verwertung von Akteninhalt als Beweismittel (§ 103 SGG): Sozialgericht darf Akteninhalt als Beweismittel verwenden; belastende Aktenstellen müssen dem Kläger mitgeteilt werden bevor das Gericht sie zu seinem Nachteil verwertet.
+- BSG, Beschl. v. 26.04.2016 - B 14 AS 89/15 B, BeckRS 2016, 69724 Rn. 11 — Widerspruch zwischen Akteninhalt und Bescheidbegründung: Abweichung von Aktenvermerken von der im Bescheid genannten Begründung ist Anhaltspunkt für Ermessensfehler oder unrichtige Sachverhaltsermittlung.
+
 ## Zweck
 
 Aus einer eingegangenen Akte rasch das Entscheidungserhebliche herausziehen. Was sagt die Akte was die Behörde im Bescheid weggelassen oder anders dargestellt hat?

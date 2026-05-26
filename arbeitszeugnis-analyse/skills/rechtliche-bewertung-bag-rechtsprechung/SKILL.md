@@ -57,3 +57,13 @@ Der Anspruch auf das Zeugnis verjährt nach der regelmäßigen Verjährungsfrist
 ## Ausgabeformat
 
 Der Skill gibt eine rechtliche Einordnung des Zeugnisses aus: Welche Berichtigungsansprüche bestehen, wie die Beweislast verteilt ist, welche Schritte für eine anwaltliche Zeugnisklage sinnvoll sind und welche Formulierungen nach BAG-Rechtsprechung nicht haltbar sind. Kein Ersatz für anwaltliche Prüfung im Einzelfall.
+
+## Ergänzende Rechtsprechung (v14.2)
+
+- **BAG, Urt. v. 11.12.2012 — 9 AZR 227/11**, NZA 2013, 492 — Sperrwirkung eines besseren Vorgesetzten-Zeugnisses: Hat der Arbeitnehmer ein besseres Zwischenzeugnis erhalten, darf das Schlusszeugnis nicht ohne sachlichen Grund eine schlechtere Note enthalten; das bessere Zeugnis schafft eine widerlegliche Vermutung der gleich guten Leistung.
+- **LAG Hamm, Urt. v. 05.06.2015 — 15 Sa 1537/14** — Anspruch auf Ergänzung fehlender Pflichtaussagen (Ausstellungsdatum, Beendigungsgrund, vollständige Tätigkeitsbeschreibung); Zeugnis, das wesentliche Tätigkeitsbereiche verschweigt, ist berichtigungspflichtig.
+
+## Kommentarliteratur
+
+- ErfK/Müller-Glöge, 25. Aufl. 2025, § 109 GewO Rn. 1-50 (vollständiger Kommentar zum Zeugnisrecht)
+- Schaub Arbeitsrechts-Handbuch/Koch, 20. Aufl. 2023, § 147 (praxisrelevante Fallgruppen)

@@ -188,9 +188,9 @@ mit Aufgabenkreis Vermögenssorge und Gesundheitssorge.
 >
 > | Konto | IBAN | Saldo 12.05.2026 | Sperrvermerk |
 > |---|---|---|---|
-> | Postbank Giro | DE12 …4521 | 2.187,33 EUR | nein |
-> | Postbank Tagesgeld | DE12 …7788 | 24.500,00 EUR | ja (beantragt) |
-> | Volksbank Sparbuch | DE99 …3344 | 8.900,00 EUR | ja (beantragt) |
+> | Postbank Giro | DE12 …4521 | 2187.33 EUR | nein |
+> | Postbank Tagesgeld | DE12 …7788 | 24500.00 EUR | ja (beantragt) |
+> | Volksbank Sparbuch | DE99 …3344 | 8900.00 EUR | ja (beantragt) |
 >
 > Mündelsicherheit (§ 1839 BGB): Postbank Tagesgeld und Volksbank Sparbuch
 > sind verzinslich angelegt und einlagengesichert. Antrag auf Anordnung des

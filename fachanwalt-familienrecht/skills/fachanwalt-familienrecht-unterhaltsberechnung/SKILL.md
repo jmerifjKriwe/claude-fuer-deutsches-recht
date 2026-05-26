@@ -5,6 +5,19 @@ description: "Kindesunterhalt nach Duesseldorfer Tabelle § 1601 ff. BGB. Trennu
 
 # Unterhaltsberechnung
 
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 30.07.2008 - XII ZR 25/06, FamRZ 2008, 1911 Rn. 25 — Halbteilungsgrundsatz beim Ehegattenunterhalt: nach Abzug des Kindesunterhalts und ehepraegendem Abstand wird das verbleibende bereinigte Einkommen haelftig geteilt.
+- BGH, Urt. v. 20.03.2013 - XII ZR 72/11, FamRZ 2013, 853 Rn. 14 — Die Erwerbsobliegenheit des § 1574 BGB richtet sich nach der eheangemessenen Erwerbstaetigkeit; fiktives Einkommen wird angerechnet, wenn die Obliegenheit vorwerfbar verletzt wird.
+- BGH, Beschl. v. 07.02.2018 - XII ZB 338/17, NJW 2018, 1250 Rn. 18 — Beim Betreuungsunterhalt nach § 1570 BGB ist die Dauer der Unterhaltspflicht nach dem Kindesalter und den individuellen Betreuungsverhaeltnissen zu beurteilen; ein starres Ende mit dem 3. Lebensjahr des Kindes gibt es nicht.
+- BGH, Urt. v. 01.06.2011 - XII ZR 45/09, FamRZ 2011, 1217 Rn. 22 — Beim Mangelfall berechnet sich die Verteilung des nicht ausreichenden Einkommens nach den jeweiligen Titeln; minderjahrige Kinder haben nach § 1609 Nr. 1 BGB Rang vor Ehegatten.
+
+## Kommentarliteratur
+
+- Wendl/Dose, Das Unterhaltsrecht in der familiengerichtlichen Praxis, 10. Aufl. (Standardwerk)
+- MuKoBGB/Born, §§ 1601-1615 Rn. 1-80 (Kindesunterhalt, bereinigtes Nettoeinkommen)
+- Düsseldorfer Tabelle (jährlich aktualisiert OLG Düsseldorf, immer aktuelle Fassung heranziehen)
+
 ## Kaltstart-Rückfragen
 
 1. Welche Art von Unterhalt — Kindesunterhalt, Trennungsunterhalt (§ 1361 BGB) oder Nachehelicher Unterhalt (§§ 1569 ff. BGB)?

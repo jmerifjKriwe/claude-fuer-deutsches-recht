@@ -5,6 +5,23 @@ description: Widerspruch gegen Sozialleistungsbescheid nach § 84 SGG. Frist ein
 
 # Widerspruch gegen Sozialleistungsbescheid (§ 84 SGG)
 
+## Triage — kläre zuerst
+1. Widerspruchsfrist 1 Monat (§ 84 SGG) ab Bekanntgabe (Vier-Tage-Fiktion § 37 Abs. 2 SGB X n.F.) — läuft sie noch?
+2. Aufschiebende Wirkung (§ 86a SGG) oder sofortige Vollziehung (SGB II § 39, SGB V § 86a Abs. 2)? Bei Wegfall: Eilantrag § 86b SGG.
+3. Verfahrensmangel (§ 24 SGB X Anhörung, § 35 SGB X Begründung) — führt zur Aufhebung unabhängig von materieller Rechtslage.
+4. Bei bestandskräftigem Bescheid: Überprüfungsantrag § 44 SGB X möglich (4 Jahre rückwirkend)?
+5. Folgeantrag oder Widerspruch? Einige Leistungen müssen neu beantragt werden.
+
+## Aktuelle Rechtsprechung
+- BSG, Urt. v. 27.10.2020 - B 14 AS 31/19 R, SozR 4-4200 § 11 Nr. 91 Rn. 18 — Bekanntgabe-Fiktion § 37 SGB X: Bescheid gilt am dritten Tag nach Aufgabe zur Post als bekanntgegeben (n.F.: vier Tage); Widerspruchsfrist beginnt ab diesem Tag; Behörde trägt Beweislast für rechtzeitige Aufgabe.
+- BSG, Urt. v. 26.09.2019 - B 9 SB 1/18 R, SozR 4-3250 § 2 Nr. 22 Rn. 14 — Fehlende Anhörung (§ 24 SGB X) führt zur Aufhebbarkeit des Bescheids; Heilung im Widerspruchsverfahren möglich (§ 41 Abs. 1 Nr. 3 SGB X), wenn Behörde im Widerspruchsbescheid auf Vortrag eingeht.
+- BSG, Urt. v. 17.08.2017 - B 4 AS 11/17 R, SozR 4-4200 § 22 Nr. 103 Rn. 16 — Überprüfungsantrag § 44 SGB X: Rückwirkung 4 Jahre ab Antragsjahr; unrichtige Anwendung des Rechts reicht; keine Verschuldensfrage des Mandanten.
+- BSG, Urt. v. 29.11.2012 - B 14 AS 6/12 R, SozR 4-4200 § 37 Nr. 5 Rn. 12 — Kostentragung im Widerspruchsverfahren (§ 63 SGB X): Erfolg des Widerspruchs verpflichtet Behörde zur vollen Erstattung notwendiger Aufwendungen; RA-Gebühren (VV RVG Nr. 2400) erfasst.
+
+## Kommentarliteratur
+- Hauck/Noftz SGB X §§ 24, 35, 37, 44 (Verfahrensrechte und Bestandskraft)
+- Kasseler Kommentar SGG §§ 84-87 (Widerspruchs- und Klagefristen)
+
 ## Kaltstart-Rückfragen
 
 1. Welche Behörde hat den Bescheid erlassen (Jobcenter, Deutsche Rentenversicherung, Krankenkasse, Versorgungsamt, Pflegekasse, Sozialamt)?

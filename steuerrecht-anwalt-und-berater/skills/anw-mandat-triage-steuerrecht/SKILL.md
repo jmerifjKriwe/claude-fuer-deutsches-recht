@@ -5,6 +5,19 @@ description: Strukturierte Eingangs-Abfrage fuer steuerrechtliche Mandate (ander
 
 # Mandat-Triage Steuerrecht
 
+## Aktuelle Rechtsprechung (Orientierung)
+
+- BFH, Urt. v. 04.07.2019 - III R 31/17, BStBl II 2020, 71 Rn. 14 — Im Steuerrecht trägt grundsätzlich der Steuerpflichtige die Feststellungslast für steuermindernde Tatsachen; das FA hingegen für steuererhebliche Merkmale.
+- BFH, Urt. v. 13.03.2018 - IX R 22/17, BStBl II 2018, 489 Rn. 11 — Die Einspruchsfrist des § 355 Abs. 1 AO ist eine Ausschlussfrist; bei Fristversäumnis kommt Wiedereinsetzung nach § 110 AO in Betracht, wenn das Versehen nicht von der Partei selbst zu vertreten ist.
+- BFH, Beschl. v. 25.04.2013 - II B 30/12, BFH/NV 2013, 1132 Rn. 7 — Das Sofort-Handeln bei Steuerfahndungsmaßnahmen (Hausdurchsuchung) ist entscheidend: Veränderungen am Aktenmaterial nach Beginn der Durchsuchung können die Strafverfolgung verschlimmern.
+- BFH, Urt. v. 09.05.2017 - VIII R 51/14, BStBl II 2017, 1069 Rn. 16 — Vollständigkeit der Selbstanzeige (§ 371 AO) ist Wirksamkeitsvoraussetzung; sie muss alle unverjährten Steuerverkürzungen umfassen, nicht nur die entdeckten.
+
+## Kommentarliteratur
+
+- Tipke/Lang, Steuerrecht (Übersichtswerk, aktuell) — Einstieg Materielles Steuerrecht
+- Tipke/Kruse, AO/FGO, Vorb. § 347 Rn. 1-20 (Einspruchsverfahren, Verfahrensüberblick)
+- Klein, AO, § 110 Rn. 1-25 (Wiedereinsetzung in den vorigen Stand)
+
 ## Zweck
 
 Steuerrechts-Mandate sind kurzfristig fristgeprägt (Einspruch ein Monat) und sehr unterschiedlich (ESt-Bescheid bis Steuerstrafverfahren). Triage stellt die richtige Spur sicher — ergänzend zum Plugin-Konfigurations-Skill `anw-kaltstart-interview`.

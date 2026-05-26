@@ -113,3 +113,13 @@ Mehrere Codeworte derselben Familie in einem Zeugnis sind ein noch staerkeres Si
 ## Ausgabeformat
 
 Der Skill identifiziert in einem eingegebenen Zeugnis alle erkennbaren Codeworte und gibt sie tabellarisch aus mit den Spalten: Codewort, Cluster, Bedeutung, Ampel, juristische Bewertung (zulaessig nach § 109 GewO oder nicht), Empfehlung (Berichtigungsverlangen, Klage, Akzeptanz). Bei mehreren Codeworten derselben Familie wird die Mehrfacherkennung als verstaerktes Signal markiert. Auslassungssignale werden mit „fehlend" eingetragen.
+
+## Rechtliche Einordnung und Normen
+
+- **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
+- **§ 109 Abs. 2 GewO** — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig
+
+## Aktuelle Rechtsprechung
+
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung: Note schlechter als befriedigend beweist Arbeitgeber; Note besser als befriedigend beweist Arbeitnehmer; diese Verteilung gilt für alle notenrelevanten Bestandteile.
+- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Arbeitgeber muss Formulierungen wählen, die Fortkommen nicht unnötig erschweren; Berichtigungsanspruch bei Verstoß.

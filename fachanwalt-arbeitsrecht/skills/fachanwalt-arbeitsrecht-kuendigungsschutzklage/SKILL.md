@@ -70,6 +70,17 @@ Strukturierte Vorgehensweise bei Mandaten zur Kündigungsschutzklage — von der
 | BAG | 2 AZR 392/21 | 13.07.2022 — Sozialauswahl: Vergleichsgruppe nach objektiver Austauschbarkeit |
 | BAG | 2 AZR 198/21 | 16.12.2021 — Langzeiterkrankung: Dreistufentest; betriebliche Auswirkung muss konkret dargelegt werden |
 | EuGH | C-134/22 | 13.07.2023 — § 17 KSchG Massenentlassung: Konsultationspflicht vor Kündigungsausspruch |
+| BAG | 2 AZR 43/22 | 02.03.2023 — Verhaltensbedingte Kündigung: Abmahnung entbehrlich nur bei schwerster Pflichtverletzung oder irreparablem Vertrauensbruch |
+| BAG | 2 AZR 214/22 | 25.08.2022 — Sozialauswahl: Altersgruppen-Bildung nach § 1 Abs. 3 S. 2 KSchG zulässig zur Erhaltung ausgewogener Altersstruktur |
+| BAG | 2 AZR 63/22 | 13.10.2022 — Personenbedingte Kündigung: negative Gesundheitsprognose muss auf konkreten Tatsachen beruhen; reine Fehlzeiten-Statistik ist Indiz, nicht ausreichend |
+| BAG | 2 AZR 335/21 | 22.09.2022 — Schriftform § 623 BGB: Zugangszeitpunkt bei Einwurf in Briefkasten; Abwesenheit des Empfängers verzögert Zugang nicht bei regel­mäßiger Postleerung |
+
+## Kommentarliteratur
+
+- APS/Dau, Kündigungsrecht, 6. Aufl. 2022, § 1 KSchG Rn. 1–200 (soziale Rechtfertigung, alle drei Kündigungsarten)
+- ErfK/Oetker, 25. Aufl. 2025, § 1 KSchG Rn. 50 ff. und § 4 KSchG Rn. 1 ff. (Klagefrist, Fiktionswirkung)
+- Schaub/Linck, Arbeitsrechts-Handbuch, 20. Aufl. 2023, § 130 Rn. 1 ff. (Kündigungsschutzklage Prozess-Praxis)
+- HWK/Quecke, 11. Aufl. 2024, § 102 BetrVG Rn. 50 ff. (Anhörungsfehler als Kündigungshindernis)
 
 ## Prüfschema Kündigung
 

@@ -5,6 +5,12 @@ description: Prueft Buergergeld-Bescheide nach SGB II — Regelbedarf (§ 20 SGB
 
 # Bürgergeld prüfen (SGB II)
 
+## Aktuelle Rechtsprechung
+- BVerfG, Urt. v. 05.11.2019 - 1 BvL 7/16, BVerfGE 152, 68 Rn. 124 — Sanktionen im SGB II dürfen das menschenwürdige Existenzminimum (Art. 1 Abs. 1 GG, Art. 20 Abs. 1 GG) nicht unterschreiten; Minderung um mehr als 30 % des Regelbedarfs ist grundsätzlich unvereinbar mit dem Grundrecht.
+- BSG, Urt. v. 30.01.2019 - B 14 AS 12/18 R, SozR 4-4200 § 22 Nr. 101 Rn. 18 — Kosten der Unterkunft (§ 22 SGB II): Angemessenheitsgrenze muss durch schlüssiges Konzept der Behörde belegt werden; fehlt dieses, gilt Mietobergrenze nach Wohngeldbericht.
+- BSG, Urt. v. 29.06.2017 - B 14 AS 23/16 R, SozR 4-4200 § 12 Nr. 22 Rn. 16 — Vermögensschonung § 12 SGB II: angemessenes Fahrzeug bis EUR 7500 ist geschützt; höherer Wert führt nicht automatisch zur Verwertungspflicht wenn Verwertung unwirtschaftlich oder Fehlen des Fahrzeugs Arbeit unmöglich macht.
+- BSG, Urt. v. 25.06.2015 - B 14 AS 17/14 R, SozR 4-4200 § 11 Nr. 75 Rn. 14 — Einkommensanrechnung bei Selbständigen (§ 11 SGB II): tatsächlicher Zufluss massgebend, nicht Soll-Gewinn; Betriebsausgaben können abgezogen werden soweit zur Einkommenserzielung notwendig.
+
 ## Aufbau der Prüfung
 
 ### 1. Bedarfsgemeinschaft (§ 7 SGB II)

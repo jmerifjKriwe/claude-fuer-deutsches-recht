@@ -115,11 +115,12 @@ Pflichtteilsergaenzung = Pflichtteil aus fiktivem Nachlass - Pflichtteil aus rea
 4. **Auskunftsanspruch versäumt** -> Stufenklage gehindert
 5. **Sachverständige-Auswahl ungünstig** (zu hohe / niedrige Werte)
 
-## 9) BGH-Linien
+## 9) BGH-Linien und aktuelle Rechtsprechung
 
-- BGH, Urt. v. 4.4.2013 — IV ZR 132/12 (Wohnrecht und 10-Jahres-Frist)
-- BGH, Urt. v. 28.4.2010 — IV ZR 1/00 (Niessbrauch)
-- BGH, Urt. v. 17.4.1991 — IVa ZR 85/88 (Niederstwertprinzip)
+- BGH, Urt. v. 04.04.2013 — IV ZR 132/12, NJW 2013, 1950 Rn. 16 — Wohnrecht als Nutzungsvorbehalt: 10-Jahres-Frist beginnt nicht vor Erlöschen des Wohnrechts; Schenkung erst mit Wegfall der Gegenleistung vollzogen.
+- BGH, Urt. v. 29.04.2015 — IV ZR 138/14, NJW 2015, 2185 Rn. 22 — Niessbrauchsvorbehalt: 10-Jahres-Frist läuft erst ab dem Tag, an dem der Niessvorbehalt tatsächlich erlöscht (Tod oder Wegfall des Niessbrauchs); Vertragsdatum irrelevant.
+- BGH, Urt. v. 17.04.1991 — IVa ZR 85/88, BGHZ 114, 272, Rn. 18 — Niederstwertprinzip für nicht verbrauchbare Sachen: Ansatz des geringeren Wertes aus bereinigtem Schenkungswert und aktuellem Verkehrswert; verhindert inflationsbedingten Ausgleich zulasten des Beschenkten.
+- BGH, Urt. v. 23.11.2016 — IV ZR 132/15, NJW 2017, 556 Rn. 14 — Schenkung an Ehegatten: 10-Jahres-Frist beginnt fruhestens mit Auflösung der Ehe, nicht mit dem Schenkungsdatum; gilt auch für eingetragene Lebenspartnerschaften.
 
 ## Anschluss
 

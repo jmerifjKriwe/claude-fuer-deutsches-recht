@@ -295,7 +295,7 @@ III. Zahlungsstufe:
 
 **Gerichtsgebühren Beispiel EUR 80.000:**
 - Stufe 1 (Auskunft): Streitwert 25 % der Hauptsache = EUR 20.000 → GKG ca. EUR 588
-- Stufe 3 (Zahlung): EUR 80.000 → GKG ca. EUR 1.962 (3,0)
+- Stufe 3 (Zahlung): EUR 80.000 → GKG ca. EUR 1.962 (3.0)
 - RA-Gebühren gesamt je Partei: ca. EUR 5.000–7.000
 
 **SV-Gutachten Immobilie:** EUR 2.000–6.000 (Nachlasskosten § 2314 Abs. 2 BGB)

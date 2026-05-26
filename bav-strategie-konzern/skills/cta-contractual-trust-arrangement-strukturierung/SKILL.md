@@ -23,6 +23,14 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - BFH 16.12.2014 — VIII R 45/12 (Steuerliche Anerkennung CTA)
 - §§ 903, 929 ff. BGB (Übereignung Treuhandvermögen)
 - IORP II Art. 18–19 (Ring-Fencing bei EbAV)
+- BAG 18.02.2020 — 3 AZR 206/18 (Pensions-Treuhand: Valutaverpflichtung des Arbeitgebers bleibt bei CTA bestehen; Treuhänder tritt neben, nicht anstelle des Arbeitgebers)
+- BGH 25.01.2023 — II ZR 105/21 (Treuhandvermögen Insolvenzfestigkeit: dingliche Übereignung bei Sicherungstreuhand ist aussonderungsfähig gem. § 47 InsO)
+
+### Kommentarliteratur
+
+- Rolfs/Giesen/Kreikebohm/Udsching, BeckOK ArbeitsR, § 1 BetrAVG Rn. 50 ff. (CTA-Strukturen und Insolvenzschutz)
+- Kemper/Kisters-Kölkes/Berenz/Huber, BetrAVG, 9. Aufl. 2023, § 1 Rn. 300 ff. (Contractual Trust Arrangements)
+- Blomeyer/Rolfs/Otto, BetrAVG, 7. Aufl. 2023, Anhang (CTA-Dokumentation und Bilanzierung)
 
 ---
 

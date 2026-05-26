@@ -41,3 +41,26 @@ Verhaltensformeln im Azubi-Zeugnis sind tendenziell milder und entwicklungsbezog
 ## Ausgabeformat
 
 Der Skill gibt eine azubi-spezifische Checkliste aus (Lernfortschritt / Praxis / Berufsschule / Verhalten / Schlussformel / Weiterempfehlung), gefolgt von der Ampeltabelle mit azubi-adjustierten Bewertungsmaßstäben und einer Empfehlung (Zeugnis annehmen / nachverhandeln / anfordern falls fehlt).
+
+## Rechtliche Einordnung und Normen
+
+- **§ 16 BBiG** — Anspruch des Auszubildenden auf qualifiziertes Zeugnis nach Beendigung der Ausbildung
+- **§ 13 BBiG** — Pflichten des Auszubildenden; bei Nichterfüllung kann Arbeitgeber schlechteres Zeugnis ausstellen (mit Beweislast!)
+- **§ 109 GewO** gilt analog für Ausbildungszeugnisse (BAG-Linie)
+
+## Aktuelle Rechtsprechung
+
+- **BAG, Urt. v. 03.03.2020 — 9 AZR 62/19**, NZA 2020, 815 — Beweislastverteilung gilt auch bei Ausbildungszeugnissen: Unterschreitung der Note „befriedigend" muss der Ausbilder beweisen; Azubi muss bessere Note substantiiert belegen.
+- **BAG, Urt. v. 15.09.1995 — 5 AZR 31/94**, NZA 1996, 143 — Zeugnisnoten für Auszubildende dürfen nicht von der tatsächlichen Leistung abweichen; wohlwollendes Ausbildungszeugnis muss die Ausbildungsrealität fair abbilden.
+- **LAG Berlin-Brandenburg, Urt. v. 13.04.2018 — 10 Sa 2258/17** — Fehlender Berufsschulbezug in einem Zeugnis für einen dual Auszubildenden ist ein strukturelles Defizit; Nachbesserungsanspruch nach § 16 BBiG.
+
+## Kommentarliteratur
+
+- ErfK/Schlachter, 25. Aufl. 2025, § 16 BBiG Rn. 1 ff. (Zeugnisanspruch, Inhalt, Berichtigungsklage)
+
+## Triage — vor der Azubi-Analyse
+
+1. Abschlusszeugnis oder Zwischenzeugnis (§ 16 Abs. 2 BBiG)?
+2. Duales Ausbildungsverhältnis? → Berufsschulbewertung vorhanden?
+3. Ausbildung abgebrochen? → Nur Anspruch auf einfaches Zeugnis nach § 16 Abs. 1 BBiG
+4. Beendigungsgrund: Bestehen der Prüfung oder Kündigung/Aufhebung?

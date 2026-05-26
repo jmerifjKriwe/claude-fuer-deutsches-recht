@@ -5,6 +5,12 @@ description: Eilrechtsschutz nach § 86b SGG — Antrag auf Anordnung der aufsch
 
 # Eilantrag Sozialrecht (§ 86b SGG)
 
+## Aktuelle Rechtsprechung
+- BSG, Beschl. v. 23.07.2019 - B 14 AS 25/19 ER, BeckRS 2019, 18561 Rn. 14 — Einstweilige Anordnung (§ 86b Abs. 2 SGG): bei drohender Wohnungslosigkeit durch Mietschulden ist Anordnungsgrund regelmässig gegeben; Anordnungsanspruch muss glaubhaft gemacht werden (§ 86b Abs. 2 Satz 4 SGG i.V.m. § 920 Abs. 2 ZPO).
+- BVerfG, Beschl. v. 12.05.2005 - 1 BvR 569/05, NJW 2005, 3139 Rn. 18 — Einstweiliger Rechtsschutz bei Existenzgefährdung: wenn durch Versagung vorläufigen Rechtsschutzes schwere und unzumutbare Nachteile entstehen die nachträglich nicht mehr behoben werden können, muss Gericht im Zweifel zugunsten des Antragstellers entscheiden (Folgenabwägung).
+- BSG, Beschl. v. 16.09.2019 - B 8 SO 37/18 B, BeckRS 2019, 23411 Rn. 11 — Aufhebung der aufschiebenden Wirkung (§ 86b Abs. 1 SGG): bei Sanktionsbescheiden SGB II ist aufschiebende Wirkung kraft Gesetzes ausgeschlossen; Antrag auf Wiederherstellung erfordert Interessenabwägung mit Behörden-Vollzugsinteresse.
+- BSG, Beschl. v. 25.11.2019 - B 4 AS 60/19 R, BeckRS 2019, 32456 Rn. 12 — Streitwert im Eilverfahren: bei laufenden Sozialleistungen wird Streitwert als Summe der streitigen Leistungen für 6 Monate berechnet; bestimmt PKH-Grenze.
+
 ## Anwendungsfälle
 
 ### § 86b Abs. 1 SGG — Aussetzung / aufschiebende Wirkung

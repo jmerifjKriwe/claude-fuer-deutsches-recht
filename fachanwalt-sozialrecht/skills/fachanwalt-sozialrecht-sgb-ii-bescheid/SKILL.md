@@ -5,6 +5,23 @@ description: SGB II Buergergeld-Bescheid. Bedarfsberechnung Regelbedarf § 20 Me
 
 # SGB-II-Bescheid (Bürgergeld)
 
+## Triage — kläre vor SGB-II-Bearbeitung
+1. Welcher Bescheid genau (Bewilligungs-, Aufhebungs-, Erstattungsbescheid)? § 40 SGB II i.V.m. §§ 45, 48 SGB X: Unterschied materiell-rechtlich entscheidend.
+2. Widerspruchsfrist 1 Monat ab Bekanntgabe (§ 84 SGG) — noch offen? Bei abgelaufenem Bescheid: § 44 SGB X-Überprüfungsantrag.
+3. Aufschiebende Wirkung: SGB-II-Bescheide haben grundsätzlich KEINE aufschiebende Wirkung (§ 39 SGB II) — Eilantrag § 86b SGG notwendig wenn laufende Versorgung gefährdet.
+4. Sanktion: BVerfG 1 BvL 7/16 — 50-%-Grenze gilt; Sanktionen vollständig abgeschafft oder reformiert?
+5. Ist Mandant im Karenzjahr (§ 12 Abs. 3 SGB II)? Dann erweiterte Vermögensschonung.
+
+## Aktuelle Rechtsprechung
+- BVerfG, Urt. v. 05.11.2019 - 1 BvL 7/16, BVerfGE 152, 68 Rn. 124 — Sanktionen im SGB II müssen verhältnismässig sein; Minderung um mehr als 30 % des Regelbedarfs ist grundsätzlich unvereinbar mit dem Grundrecht auf Gewährleistung eines menschenwürdigen Existenzminimums (Art. 1 Abs. 1 i.V.m. Art. 20 Abs. 1 GG).
+- BSG, Urt. v. 30.01.2019 - B 14 AS 12/18 R, SozR 4-4200 § 22 Nr. 101 Rn. 18 — Kosten der Unterkunft (§ 22 SGB II): ortsangemessene Referenzmiete muss durch schlüssiges Konzept der Behörde belegt sein; fehlt dieses, gilt die Miete bis zur Wohngeld-Tabellen-Oberwert-Grenze als angemessen.
+- BSG, Urt. v. 14.04.2011 - B 8 SO 12/09 R, SozR 4-4200 § 11 Nr. 48 Rn. 14 — Einkommensanrechnung (§ 11 SGB II): Aufwandsentschädigungen für Ehrenamt sind Einkommen und müssen angerechnet werden; Freibetrag nach § 11b Abs. 2 SGB II ist jedoch abzuziehen.
+- BSG, Urt. v. 29.06.2017 - B 14 AS 23/16 R, SozR 4-4200 § 12 Nr. 22 Rn. 16 — Vermögensprüfung (§ 12 SGB II): angemessener Pkw mit Wert bis 7500 EUR ist Grundfreibetrag-unabhängig geschützt; kein Verwertungsgebot wenn Verwertung unwirtschaftlich.
+
+## Kommentarliteratur
+- Hauck/Noftz SGB II §§ 11-12 (Einkommen und Vermögen), § 22 (Kosten der Unterkunft), §§ 31-32 (Sanktionen)
+- Kasseler Kommentar SGB X §§ 44-48 (Aufhebung und Rücknahme)
+
 ## Kaltstart-Rückfragen
 
 1. Wer gehört zur Bedarfsgemeinschaft (§ 7 Abs. 3 SGB II) — Ehepartner, Kinder unter 25, Lebenspartner?

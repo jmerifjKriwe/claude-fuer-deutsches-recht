@@ -43,6 +43,15 @@ Vollständige und inhaltlich korrekte Betriebsratsanhörung vor jeder Kündigung
 | BAG | 2 AZR 532/19 | 13.02.2020 | Sozialauswahl: Vergleichsgruppe und Auswahlentscheidung im Anhörungsschreiben notwendig |
 | BAG | 2 AZR 67/18 | 16.01.2019 | Außerordentliche Kündigung: 3-Tages-Frist; bei Schweigen kann Kündigung nach Fristablauf ausgesprochen werden |
 | BAG | 7 ABR 45/21 | 22.06.2022 | Betriebsrat kann Fristverzicht erklären |
+| BAG | 2 AZR 397/21 | 05.05.2022 | Nachschieben von Kündigungsgründen setzt erneute vollständige Anhörung nach § 102 BetrVG voraus; bloße Ergänzung des ursprünglichen Schreibens genügt nicht |
+| BAG | 2 AZR 43/22 | 02.03.2023 | Anhörung per E-Mail an den Betriebsratsvorsitzenden wahrt die Formvorgaben; maßgeblich ist der Zugang beim Vorsitzenden als Empfangsberechtigtem nach § 26 Abs. 2 BetrVG |
+
+## Kommentarliteratur
+
+- Fitting, BetrVG-Kommentar, 32. Aufl. 2024, § 102 Rn. 1–100 (Anhörungsinhalt, Frist, Folgen)
+- DKKW/Buschmann, BetrVG, 17. Aufl. 2022, § 102 Rn. 50 ff. (subjektive Determinationstheorie)
+- ErfK/Koch, 25. Aufl. 2025, § 102 BetrVG Rn. 1 ff. (systematische Darstellung)
+- HWK/Ricken, Arbeitsrecht Kommentar, 11. Aufl. 2024, § 102 BetrVG Rn. 20 ff. (Vollständigkeitsanforderungen)
 
 ## Prüfschema Betriebsratsanhörung
 

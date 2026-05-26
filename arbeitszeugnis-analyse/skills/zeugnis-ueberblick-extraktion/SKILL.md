@@ -38,3 +38,13 @@ Die Unterschrift muss von einer zeichnungsberechtigten Person stammen. In der Re
 ## Ausgabeformat
 
 Der Skill gibt eine strukturierte Übersichtstabelle aus mit den Feldern: Arbeitgeber (Name, Rechtsform, Ort), Arbeitnehmer (Name, ggf. Geburtsdatum), Beschäftigungszeitraum (Von–Bis oder „Zwischenzeugnis"), Position/Tätigkeit, Ausstellungsdatum, Unterschriftsberechtigte(r) (Name, Titel), Zeugnisart (einfach/qualifiziert/Zwischen-/Endzeugnis). Unter der Tabelle folgt ein Hinweis auf erkannte Vollständigkeitsmängel.
+
+## Rechtliche Einordnung und Normen
+
+- **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
+- **§ 109 Abs. 2 GewO** — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig
+
+## Aktuelle Rechtsprechung
+
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung: Note schlechter als befriedigend beweist Arbeitgeber; Note besser als befriedigend beweist Arbeitnehmer; diese Verteilung gilt für alle notenrelevanten Bestandteile.
+- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Arbeitgeber muss Formulierungen wählen, die Fortkommen nicht unnötig erschweren; Berichtigungsanspruch bei Verstoß.

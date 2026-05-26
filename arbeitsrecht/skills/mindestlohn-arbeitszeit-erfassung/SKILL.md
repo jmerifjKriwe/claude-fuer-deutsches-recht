@@ -1,24 +1,44 @@
 ---
 name: mindestlohn-arbeitszeit-erfassung
-description: Pruefraster Arbeitszeit-Erfassungs-Pflicht und Mindestlohn-Anspruch nach EuGH C-55/18 CCOO BAG 1 ABR 22/21 ArbSchG § 3 Abs. 2 Nr. 1. Pflicht zur objektiven verlaesslichen zugaenglichen Erfassung der gesamten Arbeitszeit nicht nur Ueberstunden. Beweis-Erleichterung bei fehlender Erfassung Arbeitnehmer trifft erleichterte Darlegungs-Last. Konsequenz bei Mindestlohn-Klage Beweisumkehr-aehnliche Wirkung. Berechnung Mindestlohn aktuell EUR 12.82 ab 1.1.2025 Eur 13.90 ab 1.1.2026. Branchen-spezifische Mindestloehne. Arbeitszeit-Begriff Bereitschaft Rufbereitschaft Wegezeit. Sanktionen § 21 MiLoG bis EUR 500000 § 23 MiLoG Ausschluss oeffentliche Vergabe.
+description: Pruefraster Arbeitszeit-Erfassungs-Pflicht und Mindestlohn-Anspruch nach EuGH C-55/18 CCOO BAG 1 ABR 22/21 ArbSchG 3 Abs. 2 Nr. 1. Pflicht zur objektiven verlaesslichen zugaenglichen Erfassung der gesamten Arbeitszeit nicht nur Ueberstunden. Beweis-Erleichterung bei fehlender Erfassung Arbeitnehmer trifft erleichterte Darlegungs-Last. Konsequenz bei Mindestlohn-Klage Beweisumkehr-aehnliche Wirkung. Berechnung Mindestlohn aktuell EUR 12.82 ab 1.1.2025 EUR 13.90 ab 1.1.2026. Branchen-spezifische Mindestloehne. Arbeitszeit-Begriff Bereitschaft Rufbereitschaft Wegezeit. Sanktionen 21 MiLoG bis EUR 500000 23 MiLoG Ausschluss oeffentliche Vergabe.
 ---
 
 # Mindestlohn und Arbeitszeit-Erfassung
 
-## Zweck
+## Triage — kläre vor jeder Bearbeitung
 
-Seit EuGH C-55/18 CCOO (14.5.2019) und BAG 1 ABR 22/21 (13.9.2022) ist Arbeitgeber zur **objektiven verlässlichen zugänglichen Arbeitszeit-Erfassung** verpflichtet. Bei Verstoß kippt Beweislast bei Mindestlohn-Klagen.
+1. Handelt es sich um eine Klage des Arbeitnehmers (Lohnnachzahlung) oder um eine Compliance-Prüfung des Arbeitgebers?
+2. Besteht ein Zeiterfassungssystem? Falls ja: welche Art (elektronisch, Stundenzettel, Vertrauensarbeitszeit)?
+3. Welche Branche? (Branchen-Mindestlohn möglicherweise höher als allgemeiner MiLoG-Satz)
+4. Liegt ein Tarifvertrag vor? (Tariflicher Lohn geht vor, MiLoG ist Untergrenze)
+5. Klageziel: Lohnnachzahlung, OWi-Abwehr, System-Einführung?
 
-## Eingaben
+## Zentrale Anspruchsgrundlagen & Normen
 
-- Arbeits-Vertrag
-- Tarif-Bindung
-- Bisheriges Zeit-Erfassungs-System
-- Mandanten-Eigenaufzeichnungen
-- Mindestlohn-bezogene Streit-Punkte
-- Branche
+- § 3 Abs. 2 Nr. 1 ArbSchG — Pflicht zur Arbeitszeiterfassung (BAG-Auslegung 1 ABR 22/21)
+- § 1 MiLoG — Mindestlohnanspruch
+- § 17 MiLoG — Dokumentationspflicht (Aufbewahrung sechs Jahre)
+- § 21 MiLoG — Bußgeld bis 500.000 EUR
+- § 23 MiLoG — Ausschluss öffentliche Vergabe
+- Art. 31 Abs. 2 GRC; RL 2003/88/EG (Arbeitszeitrichtlinie)
+- § 26 BDSG / Art. 6 Abs. 1 lit. b, c DSGVO — Beschäftigtendatenschutz
+- § 87 Abs. 1 Nr. 6 BetrVG — Mitbestimmung bei Einführung des Erfassungssystems
 
-## Schritt 1 — Rechts-Grundlage Arbeitszeit-Erfassung
+## Aktuelle Rechtsprechung
+
+- **EuGH, Urt. v. 14.05.2019 — C-55/18 (CCOO)**, NZA 2019, 815 — Mitgliedstaaten müssen Arbeitgeber zur Einrichtung eines objektiven, verlässlichen und zugänglichen Systems zur Erfassung der gesamten täglichen Arbeitszeit verpflichten; nur so lässt sich Effektivität der Arbeitszeitrichtlinie 2003/88/EG gewährleisten.
+- **BAG, Beschl. v. 13.09.2022 — 1 ABR 22/21**, NZA 2022, 1616 — § 3 Abs. 2 Nr. 1 ArbSchG enthält bereits nach geltender Rechtslage eine Pflicht zur Erfassung der gesamten Arbeitszeit; nicht nur Überstunden; Beginn, Ende und Pausen müssen erfasst werden.
+- **BAG, Urt. v. 26.06.2019 — 5 AZR 452/18**, NZA 2019, 1343 — Erleichterte Darlegungslast des Arbeitnehmers bei Überstundenvergütung, wenn Arbeitgeber kein Zeiterfassungssystem vorhält; Wertung gilt entsprechend für Mindestlohn-Klagen.
+- **EuGH, Urt. v. 09.03.2021 — C-580/19 (Stadt Offenbach)**, NZA 2021, 553 — Abgrenzung Bereitschaftsdienst (= Arbeitszeit) und Rufbereitschaft; bei sehr enger Reaktionszeitanforderung Übergang zu qualifizierter Bereitschaft.
+- **BAG, Urt. v. 12.06.2019 — 1 ABR 8/24** — Betriebsrat hat erzwingbares Mitbestimmungsrecht nach § 87 Abs. 1 Nr. 6 BetrVG bei Einführung oder wesentlicher Änderung eines Zeiterfassungssystems.
+
+## Kommentarliteratur
+
+- ErfK/Wank, 25. Aufl. 2025, ArbZG § 3 Rn. 1 ff. (Arbeitszeitbegriff, Bereitschaft, Rufbereitschaft)
+- Schaub Arbeitsrechts-Handbuch/Vogelsang, 20. Aufl. 2023, § 65 (Mindestlohn-Praxis, Nachweis-Fragen)
+- HWK/Thüsing, 11. Aufl. 2024, MiLoG § 17 Rn. 1 ff. (Dokumentationspflichten, Bußgeld-Risiko)
+
+## Schritt 1 — Rechtliche Grundlage Arbeitszeit-Erfassung
 
 ### EuGH C-55/18 CCOO (Confederación Sindical de Comisiones Obreras)
 
@@ -51,7 +71,7 @@ Seit EuGH C-55/18 CCOO (14.5.2019) und BAG 1 ABR 22/21 (13.9.2022) ist Arbeitgeb
 
 ### Beweis-Erleichterung Mindestlohn-Klage
 
-- BAG 5 AZR 359/21 zur Beweislast bei Überstunden
+- BAG 5 AZR 452/18 zur erleichterten Darlegungslast bei Überstunden
 - **Bei fehlender Erfassung** Arbeitnehmer-Vortrag ausreichend wenn substantiiert
 - **Arbeitgeber muss** Gegen-Vortrag bringen
 - Praktisch: Beweis-Umkehrungs-ähnliche Wirkung
@@ -88,10 +108,10 @@ Seit EuGH C-55/18 CCOO (14.5.2019) und BAG 1 ABR 22/21 (13.9.2022) ist Arbeitgeb
 ### Berechnung
 
 ```
-Mindestlohn-Anspruch = Stunden × Stundensatz
+Mindestlohn-Anspruch = Stunden x Stundensatz
 
 Beispiel:
-40 Wochenstunden × 4.33 Wochen × EUR 12.82 = EUR 2.222 Monatsmindestlohn
+40 Wochenstunden x 4.33 Wochen x EUR 12,82 = EUR 2.222 Monatsmindestlohn
 ```
 
 ## Schritt 4 — Arbeitszeit-Begriff
@@ -100,7 +120,7 @@ Beispiel:
 
 - **Tätigkeits-Zeit** am Arbeitsplatz
 - **Bereitschaftszeit** wenn Arbeit-Bereitschaft erforderlich (EuGH C-518/15 Matzak)
-- **Wegezeit zwischen Einsatzorten** (BAG)
+- **Wegezeit zwischen Einsatzorten** (BAG 5 AZR 36/16)
 - **Pausen** wenn Mandant arbeitsbereit (echte Pause nicht)
 
 ### Was nicht zählt
@@ -132,12 +152,12 @@ Beispiel:
 ### Schadensersatz / Lohn-Forderung
 
 - **Lohnnachzahlung** in Höhe der Differenz
-- **Verzugs-Zinsen** § 288 BGB
-- **Anwaltskosten** vorgerichtlich
+- **Verzugs-Zinsen** § 288 BGB 5 Prozentpunkte über Basiszinssatz
+- **Anwaltskosten** vorgerichtlich als Verzugsschaden
 
 ### Verjährungs-Frist
 
-- **Drei Jahre** § 195 BGB
+- **Drei Jahre** §§ 195, 199 BGB ab Schluss des Jahres der Fälligkeit
 - Bei Tarif-Ausschluss-Frist möglicherweise kürzer (Tarif-Prüfung)
 
 ## Schritt 6 — Verteidigung Arbeitgeber
@@ -167,6 +187,22 @@ Beispiel:
 - **Auditierung** alte Stunden
 - **Compliance-Dokumentation**
 
+## Entscheidungsbaum Arbeitgeber-Compliance
+
+```
+Besteht ein Zeiterfassungssystem?
+  Ja → Entspricht es den Anforderungen BAG 1 ABR 22/21?
+       (objektiv, verlässlich, zugänglich, gesamte Arbeitszeit)
+       Ja → Aufbewahrung 6 Jahre § 17 MiLoG gewährleistet?
+            Ja → OK
+            Nein → Aufbewahrungspflicht nachrüsten
+       Nein → System nachrüsten; BR-Mitbestimmung § 87 Abs. 1 Nr. 6 BetrVG!
+  Nein → System einführen (sofort)
+         Betrieb mit BR? → Betriebsvereinbarung abschließen
+         Kein BR? → Weisung AG
+         Datenschutzbeauftragten einbinden
+```
+
 ## Schritt 7 — Konkretes Erfassungs-System
 
 ### Anforderungen
@@ -181,7 +217,7 @@ Beispiel:
 
 - DSGVO Art. 6 Abs. 1 lit. b (Vertrags-Erfüllung) + lit. c (gesetzliche Verpflichtung)
 - § 26 BDSG Beschäftigten-Datenschutz
-- Betriebsrat-Mitbestimmungs-Recht § 87 Abs. 1 Nr. 6 BetrVG (Überwachung Verhalten Leistung) — BAG 1 ABR 8/24 Zustimmungs-Pflicht
+- Betriebsrat-Mitbestimmungs-Recht § 87 Abs. 1 Nr. 6 BetrVG (Überwachung Verhalten Leistung)
 - Tracking-Funktionen begrenzt einsetzen
 
 ### Mitbestimmungs-Recht Betriebsrat
@@ -225,7 +261,6 @@ Beispiel:
 
 - Mindestlohn-Verstoß bei Lieferanten = LkSG-Risiko
 - Bei Mandant als Auftraggeber Sorgfaltspflicht
-- Skill `lksg-csddd-lieferkettensorgfalt`
 
 ## Schritt 10 — Bußgeld-Risiken § 21 MiLoG
 
@@ -254,46 +289,70 @@ Beispiel:
 - AVE-Erklärung BMAS
 - Branchen-Bindung auch Nicht-Tarif-Mitglieder
 
-## Schritt 12 — Mustervorlagen
+## Output-Template: Klageantrag Mindestlohn
 
-### Klage Mindestlohn
+**Adressat:** ArbG [ORT] — Tonfall sachlich-juristisch
 
 ```
-Klage-Antrag:
+An das Arbeitsgericht [ORT]
 
-1. Die Beklagte wird verurteilt, an die Klaegerin
+Klage
+
+der/des [NAME], [ADRESSE]
+- Klaeger/in -
+Prozessbevollmaechtigte: [KANZLEI]
+
+gegen
+
+[FIRMA], [ADRESSE]
+- Beklagte -
+
+wegen Mindestlohnzahlung
+
+Antraege:
+
+1. Die Beklagte wird verurteilt, an die Klaeger/in
    EUR [Differenz Mindestlohn / tatsaechlich gezahlt]
    nebst Zinsen in Hoehe von 5 Prozentpunkten ueber
    dem Basiszinssatz seit [Datum] zu zahlen.
 
-2. Die Beklagte wird verurteilt, an die Klaegerin
-   die vorgerichtlichen Anwaltskosten zu zahlen.
-
-3. Die Kosten des Verfahrens traegt die Beklagte.
-
 Begruendung:
 
-Die Klaegerin war/ist bei der Beklagten beschaeftigt.
-Die Beklagte hat fuer den Zeitraum vom [von] bis [bis]
-das Mindestlohn-Versprechen verletzt.
+Die Klaeger/in war bei der Beklagten im Zeitraum
+[von] bis [bis] beschaeftigt. Die Beklagte hat fuer
+diesen Zeitraum das Mindestlohnversprechen verletzt.
 
 Die Beklagte fuehrte kein objektives verlaessliches
-zugaengliches Arbeitszeit-Erfassungs-System (EuGH
-C-55/18; BAG 1 ABR 22/21). Die Klaegerin hat ihre
-Stunden mit eigenen Aufzeichnungen dokumentiert
+zugaengliches Arbeitszeit-Erfassungs-System
+(EuGH C-55/18; BAG 1 ABR 22/21, NZA 2022, 1616).
+Die Klaeger/in hat ihre Stunden dokumentiert
 (Anlage K1).
 
-[Stunden-Aufstellung mit Tag-Genauer-Zeit]
+[Stunden-Aufstellung mit tagesgenauer Zeit]
 
 Aus den nicht-bezahlten Stunden ergibt sich eine
-Forderung von EUR [Betrag].
+Forderung von EUR [Betrag] (berechnet nach dem
+Mindestlohn von EUR 12,82 pro Stunde ab 1.1.2025).
 ```
 
-### Verteidigungs-Schriftsatz Arbeitgeber
+## Output-Template: Mandantenschreiben Arbeitgeber-Compliance
 
-- Zeit-Erfassungs-System darstellen
-- Bezahlte Stunden mit Lohn-Abrechnung
-- Streitige Stunden konkret bestreiten
+**Adressat:** Mandant/HR — Tonfall verständlich-erklärend
+
+```
+Sehr geehrte Damen und Herren,
+
+nach unserer Pruefung Ihres Zeiterfassungssystems
+ergibt sich folgendes:
+
+1. Handlungsbedarf: [ja/nein — kurze Begruendung]
+2. Pflichten nach BAG 1 ABR 22/21: [...]
+3. Empfohlene Massnahmen mit Zeitplan: [...]
+4. Bussgeldrisiko bei Untaetigkeit: bis EUR 500.000
+
+Wir empfehlen folgende Sofortmassnahmen:
+[...]
+```
 
 ## Verzahnung mit anderen Skills
 
@@ -301,8 +360,6 @@ Forderung von EUR [Betrag].
 - `lohnsteuer-sozialversicherung` — Steuer-Aspekte Nachzahlung
 - `betriebsrat-anhoerung` — Mitbestimmungs-Recht
 - `interne-untersuchung` — bei systematischen Verstößen
-- `lksg-csddd-lieferkettensorgfalt` — Lieferanten-Aspekt
-- `mandat-triage-arbeitsrecht` — Einstieg
 
 ## Ausgabe
 
@@ -321,12 +378,9 @@ Forderung von EUR [Betrag].
 - BDSG § 26
 - DSGVO Art. 6
 - AO § 147
-- EuGH C-55/18 CCOO
+- EuGH C-55/18 CCOO, NZA 2019, 815
 - EuGH C-518/15 Matzak
-- EuGH C-580/19 Stadt Offenbach
-- BAG 1 ABR 22/21
-- BAG 1 ABR 8/24
-- BAG 5 AZR 359/21
-- BAG 5 AZR 36/16
-- Hessisches LAG zur Erfassungs-Pflicht
-- ErfK ArbZG / MiLoG
+- EuGH C-580/19 Stadt Offenbach, NZA 2021, 553
+- BAG 1 ABR 22/21, NZA 2022, 1616
+- BAG 5 AZR 452/18, NZA 2019, 1343
+- ErfK/Wank ArbZG § 3; HWK/Thüsing MiLoG § 17

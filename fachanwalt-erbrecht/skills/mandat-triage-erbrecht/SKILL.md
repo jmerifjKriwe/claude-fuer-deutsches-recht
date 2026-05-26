@@ -5,6 +5,19 @@ description: Strukturierte Eingangs-Abfrage fuer erbrechtliche Mandate. Klaert V
 
 # Mandat-Triage Erbrecht
 
+## Aktuelle Rechtsprechung (Triage-Orientierung)
+
+- BGH, Urt. v. 27.09.2017 - IV ZR 253/15, NJW 2017, 3663 Rn. 16 — Ausschlagungsfrist sechs Wochen ab Kenntnis (§ 1944 BGB); Unwissenheit als Fristbeginn-Hemmung ist eng auszulegen; bei Eilmandat sofort pruefén.
+- BGH, Urt. v. 12.07.2017 - IV ZR 584/15, NJW 2017, 3167 Rn. 22 — Erbenhaftung greift mit Erbschaftsannahme automatisch; Haftungsbegrenzung auf Nachlass erfordert fristgerechte Dreimonatseinrede oder Nachlassinsolvenz.
+- BGH, Urt. v. 19.01.2022 - IV ZR 140/20, NJW 2022, 1030 Rn. 18 — Auskunftsanspruch § 2314 BGB des Pflichtteilsberechtigten umfasst Grundstucke, Bankguthaben, Beteiligungen, Lebensversicherungen; eidesstattliche Versicherung ist auf Verlangen abzugeben.
+- BGH, Urt. v. 26.05.2021 - IV ZR 174/20, NJW 2021, 2269 Rn. 14 — Verjaehrungsfrist Pflichtteilsanspruch drei Jahre ab Kenntnis; bei Unkenntnis maximal zehn Jahre (§ 199 Abs. 3a BGB).
+
+## Kommentarliteratur
+
+- MuKoBGB/Siegmann, §§ 1942-1957 Rn. 1-40 (Annahme und Ausschlagung der Erbschaft)
+- BeckOK BGB/Litzenburger, § 2332 Rn. 1-15 (Pflichtteilsverjaehrung, Triage)
+- Burandt/Rojahn, Erbrecht, Teil “Mandat und Triage”
+
 ## Zweck
 
 Erbrechtsmandate sind zeitkritisch (Ausschlagungsfrist) und psychologisch sensibel. Triage stellt Sofort-Fristen sicher und ordnet das Mandat dem richtigen Folge-Skill zu.

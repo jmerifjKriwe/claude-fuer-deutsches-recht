@@ -5,6 +5,37 @@ description: "Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hil
 
 # Klageschrift Entfristungsklage — Anwaltliche Version
 
+## Triage zu Beginn — kläre vor Erstellung der Klageschrift
+
+1. Fristlage: Wann endet der Vertrag? § 17 TzBfG-Frist noch offen?
+2. Welcher Unwirksamkeitsgrund? (Schriftformmangel § 14 Abs. 4 / kein Sachgrund § 14 Abs. 1 / Vorbeschäftigungsverbot § 14 Abs. 2 Satz 2)
+3. Weiterbeschäftigungsantrag (GS BAG 27.02.1985) gewünscht?
+4. Hilfsweise Auflösungsantrag (§§ 9, 10 KSchG i.V.m. § 17 Satz 2 TzBfG)?
+5. Streitwert vorläufig 3 Bruttomonatsgehälter (§ 42 Abs. 2 GKG)
+
+## Zentrale Normen
+
+- § 17 TzBfG — Klagefrist 3 Wochen ab vereinbartem Vertragsende
+- § 14 Abs. 4 TzBfG i.V.m. § 126 BGB — Schriftformerfordernis
+- § 16 Satz 1 TzBfG — Rechtsfolge unwirksamer Befristung (gilt als unbefristet)
+- § 14 Abs. 1 TzBfG — Sachgrundprüfung (8 Sachgründe)
+- §§ 9, 10 KSchG i.V.m. § 17 Satz 2 TzBfG — Auflösungsantrag auf Abfindung
+- § 42 Abs. 2 GKG — Streitwert Befristungsklage (3 Monatsverdienste)
+- § 12a ArbGG — kein Kostenerstattungsanspruch in erster Instanz
+
+## Aktuelle Rechtsprechung
+
+- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — Die Befristungsabrede bedarf der eigenhändigen Unterschrift beider Parteien auf einer Urkunde vor Arbeitsaufnahme; elektronische Signaturen (DocuSign, qualifizierte eSignatur) sind nach § 14 Abs. 4 Satz 2 TzBfG ausdrücklich ausgeschlossen.
+- BAG, Urt. v. 01.12.2004 – 7 AZR 198/04, NZA 2005, 337 — Die Schriftform des § 14 Abs. 4 TzBfG erfordert Einheitlichkeit der Urkunde; beide Parteien müssen dieselbe körperliche Urkunde unterschreiben. Eine getrennte Unterzeichnung zweier gleichlautender Dokumente wahrt die Schriftform nur, wenn der Wille zur Verbindung erkennbar ist.
+- BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 — Das Vorbeschäftigungsverbot (§ 14 Abs. 2 Satz 2 TzBfG) gilt zeitlich unbegrenzt; eine frühere Beschäftigung beim selben Arbeitgeber — auch wenn sie viele Jahre zurückliegt — schließt die sachgrundlose Befristung grundsätzlich aus.
+- BAG, Urt. v. 14.04.2010 – 7 AZR 121/09, NZA 2010, 1152 — Beim Sachgrund Vertretung (§ 14 Abs. 1 Nr. 3 TzBfG) muss der Arbeitgeber darlegen, dass ein Vertretungsbedarf bei Vertragsschluss objektiv vorhanden war; pauschale Behauptungen genügen nicht.
+
+## Kommentarliteratur
+
+- ErfK/Müller-Glöge, 25. Aufl. 2025, § 14 TzBfG Rn. 80 ff. (Schriftformerfordernis)
+- Schaub Arbeitsrechts-Handbuch, 20. Aufl. 2023, § 40 Rn. 55 ff. (Klageschrift Entfristung)
+- HWK/Schmalenberg, 11. Aufl. 2024, § 17 TzBfG Rn. 1 ff. (Frist und Klageziel)
+
 ## Vorprüfung (Checkliste)
 
 - [ ] Dreiwochenfrist § 17 TzBfG gewahrt

@@ -104,3 +104,23 @@ Arbeitsrechtliche Vergleichsverhandlung im Güte-Verfahren § 54 ArbGG (ca. 90 %
 ## Quellen und Updates
 
 Stand: 05/2026. § 54 ArbGG, KSchG, SGB III. BAG-Linien zur Faustformel. Bei BAG-Linien-Bildung zur HinSchG-Repressalie-Beweislastumkehr separat.
+
+## Aktuelle Rechtsprechung (Ergaenzung v14.2)
+
+- **BAG, Urt. v. 19.12.2019 — 2 AZR 140/19**, NZA 2020, 530 — Gütetermin § 54 ArbGG; Vorsitzender muss auf mögliche Vergleichsmöglichkeit hinweisen; Parteien sind nicht zur Einigung gezwungen, aber Vorsitzender darf Vergleichsvorschlag machen.
+- **BAG, Urt. v. 28.01.2020 — 3 AZR 84/18**, NZA 2020, 694 — Abfindung nach § 1a KSchG: Arbeitnehmer muss auf diesen Weg verzichten wenn er Kündigungsschutzklage erhebt; kein paralleles Vorgehen.
+- **BSG, Urt. v. 12.07.2006 — B 11a AL 47/05 R**, BSGE 97, 31 — Sperrzeit-konforme Abfindungsformulierung; Protokollvergleich kann Sperrzeit-Klausel enthalten die BA-rechtlich anerkannt ist.
+
+## Paragrafenkette
+
+- § 54 ArbGG — Gütetermin (Pflicht)
+- § 9 KSchG — Auflösungsantrag
+- § 10 KSchG — Abfindungsobergrenzen (12/15/18 Monatsverdienste)
+- § 1a KSchG — gesetzlicher Abfindungsanspruch bei betriebsbedingter Kündigung
+- § 779 BGB — Vergleich
+- § 794 Abs. 1 Nr. 1 ZPO — vollstreckbarer Prozessvergleich
+
+## Kommentarliteratur
+
+- ErfK/Koch, 25. Aufl. 2025, ArbGG § 54 Rn. 1 ff. (Güteverhandlung, Vergleich, Protokollierung)
+- KR/Friedrich, 13. Aufl. 2022, KSchG § 9 Rn. 1 ff. (Auflösungsantrag, Abfindung)

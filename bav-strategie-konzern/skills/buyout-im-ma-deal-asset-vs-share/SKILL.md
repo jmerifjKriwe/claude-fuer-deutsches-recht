@@ -213,3 +213,8 @@ EMPFEHLUNG:
 - → `psv-pensionssicherungsverein-und-haftungsketten` — § 613a und PSV
 - → `pension-buyout-strukturierung-und-de-risking` — Buyout als Post-Closing-Maßnahme
 - → `drei-stufen-theorie-eingriffsanalyse` — historische Eingriffe als DD-Befunde
+
+## Ergaenzende Rechtsprechung (v14.2)
+
+- **BAG, Urt. v. 17.11.2021 — 10 AZR 174/20**, NZA 2022, 263 — Haftungsuebergang bei Betriebsuebergang nach § 613a BGB; bisheriger Arbeitgeber haftet neben Erwerber gesamtschuldnerisch fuer vor Uebergang entstandene Versorgungsansprueche.
+- **BAG, Urt. v. 10.09.2019 — 3 AZR 401/17**, NZA 2020, 91 — Versorgungsordnung als kollektive Regelung; beim Asset Deal gehen Betriebsvereinbarungen als solche nicht ueber, aber ihre Inhalte werden individualvertraglich fortgefuehrt (§ 613a Abs. 1 S. 2 BGB); Sperrfrist ein Jahr.

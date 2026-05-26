@@ -15,6 +15,23 @@ Verdachtsmomente, offene Beweise und rechtliche Erstmaßnahmen. Er entscheidet
 nicht selbst über Geschäftsfähigkeit, Einwilligungsvorbehalt, Anfechtung,
 Genehmigung oder Strafbarkeit, sondern bereitet diese Prüfungen sauber vor.
 
+## Triage — kläre vor Kontodaten-Prüfung
+1. Ist Vermögenssorge als Aufgabenkreis im Betreuungsbeschluss enthalten? Ohne diese kein Handlungsrecht.
+2. Besteht Einwilligungsvorbehalt (§ 1825 BGB) oder wurde er beim Gericht angeregt?
+3. Liegt akuter Missbrauchs-Verdacht vor — dann sofort Gericht informieren, ggf. einstweilige Massnahme (§ 300 FamFG)?
+4. Frist für SEPA-Widerruf (8 Wochen für autorisierte Zahlung, 13 Monate für nicht-autorisierte) — bereits abgelaufen?
+5. Strafanzeige (§§ 263, 266 StGB) erwägen wenn konkrete Fremdeinwirkung auf Konto erkennbar.
+
+## Aktuelle Rechtsprechung
+- BGH, Beschl. v. 28.11.2018 - XII ZB 418/18, FamRZ 2019, 290 Rn. 16 — Einwilligungsvorbehalt nach § 1825 BGB setzt konkrete Gefahr erheblicher Selbstschädigung voraus; allgemeine Verwirrtheit genügt nicht; Gericht muss spezifischen Bereich der Gefahr benennen.
+- BGH, Beschl. v. 26.09.2018 - XII ZB 399/18, FamRZ 2019, 108 Rn. 14 — Auskunftsanspruch des Betreuers gegenüber Banken: Betreuer mit Vermögenssorge ist zur Einholung von Kontoinformationen berechtigt; Bank muss Kontoauszüge und Girostatus herausgeben.
+- BGH, Urt. v. 18.01.2018 - III ZR 497/16, NJW 2018, 1079 Rn. 22 — Rückforderung von Zahlungen durch Betreuten ohne Geschäftsfähigkeitseinschränkung: § 138 BGB (Sittenwidrigkeit) bei ausbeuterischen Verträgen gegenüber älteren Menschen anwendbar; branchenunabhängig.
+- OLG Köln, Beschl. v. 04.11.2019 - 16 Wx 220/19, FamRZ 2020, 445 Rn. 12 — Genehmigung von Vermögensanlagen: Betreuungsgericht darf Genehmigung nur erteilen wenn Anlage dem Wohl und den Interessen des Betreuten dient; risikoreiche Anlagen sind ohne konkrete Anhaltspunkte für Einwilligung abzulehnen.
+
+## Kommentarliteratur
+- Jurgeleit BtOG §§ 1821-1865 BGB (Vermögenssorge, Auskunft, Rechnungslegung)
+- MüKo-BGB/Schwab § 1825 Rn. 1 ff. (Einwilligungsvorbehalt)
+
 ## Eingangsdaten
 
 Frage zu Beginn knapp nach:

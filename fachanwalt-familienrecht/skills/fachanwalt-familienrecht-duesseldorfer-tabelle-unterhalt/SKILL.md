@@ -69,7 +69,7 @@ description: "Unterhaltsberechnung nach Duesseldorfer Tabelle aktuell OLG Duesse
 | Abzugsposition | Betrag | Grundlage |
 |---------------|--------|----------|
 | Berufsbedingte Aufwendungen | 5 % des Nettos, max. EUR 150/Monat | Düsseldorfer Tabelle; pauschal |
-| Berufliche Fahrtkosten | EUR 0,30/km × Arbeitstage × Einfachstrecke | Tatsächlich beruflich veranlasst |
+| Berufliche Fahrtkosten | EUR 0.30/km × Arbeitstage × Einfachstrecke | Tatsächlich beruflich veranlasst |
 | Private Krankenversicherung | Tatsächlicher Eigenbeitrag | Soweit nicht überhöht |
 | Altersvorsorge-Beitrag | 4 % des Bruttoeinkommens | Primäre Altersvorsorge; "Sockel-Beitrag" |
 | Ehebedingte Schulden | Tatsächliche Rate | Nur soweit lebensnotwendig (BGH XII ZB 607/16) |
@@ -347,7 +347,7 @@ der Verhältnisse dar.
 
 **Verfahrenswert Unterhalt:** Jahresbetrag des laufenden Unterhalts + Rückstände
 - Beispiel: EUR 1.000 × 12 = EUR 12.000 + EUR 3.000 Rückstand = EUR 15.000 Streitwert
-- Gerichtsgebühren LG: ca. EUR 1.158 (3,0 GKG)
+- Gerichtsgebühren LG: ca. EUR 1158 (3.0 GKG)
 - RA-Gebühren je Partei: ca. EUR 1.500–2.500
 
 **Jugendamtsbeurkundung:** Kostenlos; Vollstreckungstitel ohne Gerichtsverfahren

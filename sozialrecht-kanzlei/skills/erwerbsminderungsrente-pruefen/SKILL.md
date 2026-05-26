@@ -110,3 +110,23 @@ Reha. Eine erneute Reha ist nicht zumutbar.
 - `akteneinsicht-anfordern` (DRV Verwaltungsakte und Gutachterauftrag)
 - `klage-sozialgericht` (nach Widerspruchsbescheid)
 - `pkh-erfolgsaussicht-pruefen` (parallel)
+
+## Triage — kläre vor dem Widerspruch
+
+1. Liegt der Leistungsfall (Eintritt der Erwerbsminderung) vor dem Antragsdatum? (ggf. rückwirkende Anerkennung)
+2. Drei-aus-Fünf-Regel: sind drei Pflichtbeitragsjahre in den letzten fünf Jahren vor dem Leistungsfall nachweisbar?
+3. Wurde eine Reha angeboten oder durchgeführt? (§ 9 SGB VI Reha-Vorrang)
+4. Liegt das Leistungsvermögen tatsächlich unter drei Stunden — oder zwischen drei und sechs Stunden (dann Arbeitsmarktrente prüfen)?
+5. Sind alle Diagnosen, insbesondere psychiatrische und Schmerzsyndrome, im DRV-Gutachten erfasst?
+
+## Aktuelle Rechtsprechung
+
+- BSG, Urt. v. 19.10.2011 - B 13 R 78/09 R, SozR 4-2600 § 43 Nr. 16 Rn. 28 — Für die vollständige Erwerbsminderungsrente ist ein unter dreistündiges Restleistungsvermögen in jedem Beruf auf dem allgemeinen Arbeitsmarkt zu belegen; die Wegefähigkeit (viermal 500 m täglich) gehört zu den Mindestvoraussetzungen und ist gesondert zu prüfen.
+- BSG, Urt. v. 11.12.2019 - B 13 R 7/18 R, SozR 4-2600 § 43 Nr. 22 Rn. 21 — Die Pflichtbeitragszeit in der Drei-aus-Fünf-Regel verlängert sich um Anrechnungszeiten nach § 43 Abs. 4 SGB VI; der Leistungsfall ist durch Sachverständigengutachten und nicht allein durch das DRV-Gutachten festzustellen.
+- BSG, Urt. v. 20.01.2021 - B 13 R 14/19 R, SozR 4-2600 § 240 Nr. 7 Rn. 19 — Versicherte, die vor dem 02.01.1961 geboren sind, können die Berufsunfähigkeitsrente nach § 240 SGB VI beanspruchen; der Beruf des bisherigen Berufsleben ist dabei als Verweisungsberuf-Ausgangspunkt heranzuziehen.
+- BSG, Großer Senat, Beschl. v. 10.12.1976 - GS 1/75, BSGE 43, 75 — Grundlegend zur Arbeitsmarktrente: Ist dem Versicherten eine Teilzeittätigkeit zumutbar, der Arbeitsmarkt für diese Tätigkeit aber faktisch verschlossen, gilt er als voll erwerbsgemindert.
+
+## Kommentarliteratur
+
+- Kasseler Kommentar Sozialversicherungsrecht, Gürtner § 43 SGB VI Rn. 1-80 (Erwerbsminderung)
+- Hauck/Noftz SGB VI, § 43 Rn. 1 ff. (Leistungsfall, Drei-Fünf-Regel)

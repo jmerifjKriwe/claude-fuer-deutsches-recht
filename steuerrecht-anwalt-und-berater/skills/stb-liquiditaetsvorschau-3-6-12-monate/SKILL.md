@@ -53,7 +53,7 @@ Krisenhafte GmbH/UG-Mandanten benötigen eine strukturierte, wöchentlich rollie
 | 1 | Datenaufnahme | BWA, SuSa, Kontoauszüge, Kreditorenliste, Debitorenliste, Dauerverpflichtungen | Datenbasis vollständig |
 | 2 | Eröffnungsbestand Liquidität | Kontostand, ungenutzte Kreditlinie (ziehungsfähig), Tagesgeld | Aktiva I-Basis |
 | 3 | Einzahlungs-Buckets | Kundenforderungen nach Eingangswahrscheinlichkeit; USt-Erstattung; sonstige | Einzahlungsplan |
-| 4 | Auszahlungs-Buckets | Personal (Lohn × 1,28 inkl. AG-SV); USt-Zahlung; KSt/GewSt-Vorauszahlungen; Miete; Leasing; Zins+Tilgung; Lieferanten | Auszahlungsplan |
+| 4 | Auszahlungs-Buckets | Personal (Lohn × 1.28 inkl. AG-SV); USt-Zahlung; KSt/GewSt-Vorauszahlungen; Miete; Leasing; Zins+Tilgung; Lieferanten | Auszahlungsplan |
 | 5 | Wochenraster 13 Wochen | Spalten: KW, Anfangsbestand, Einzahlungen, Auszahlungen, Endbestand, fällige VB Folgewoche, 3-Wochen-Lücke (kumuliert), Quote, Ampel | Primäres Instrument § 17 InsO |
 | 6 | 3-Wochen-Test § 17 InsO | Quote = Lücke_3W / fällige VB ≥ 10 %? Nicht binnen 3 Wochen schließbar? | Ampel Rot/Gelb/Grün |
 | 7 | SV- und Lohnsteuer-Position | SV-Beiträge (AG+AN-Anteil Drittellast); Lohnsteuer § 41a EStG; separate Zeile; nie aufrechnen | Passiva I korrekt |
@@ -110,7 +110,7 @@ Stand: [Datum]
 | Auftragseingang zu optimistisch ansetzen | Sensitivitätsanalyse: Worst-Case-Szenario immer einbeziehen; BGH verlangt realistische Annahmen |
 | USt-Voranmeldung fehlt in Auszahlungen | USt monatlich oder quartalsweise je nach Turnus; Dauerfristverlängerung berücksichtigen |
 | AdV als Passiva I-Entlastung | Falsch: AdV § 361 AO hemmt Vollziehung, lässt Forderung materiell bestehen (§ 17 InsO-Relevant) |
-| Lohnzahlungen ohne AG-SV-Anteil | Drittellast: Lohn × 1,28 für Personal-Gesamtkosten |
+| Lohnzahlungen ohne AG-SV-Anteil | Drittellast: Lohn × 1.28 für Personal-Gesamtkosten |
 | 3-Wochen-Frist ab Erkenntnis (StB-Sicht) | Frist läuft ab Eintritt der Zahlungsunfähigkeit, nicht ab Erstellung der Vorschau |
 
 ## Schriftsatzbausteine

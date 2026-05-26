@@ -22,6 +22,13 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - BetrVG § 99 ff. (Mitbestimmung bei Personalmaßnahmen — Relevanz für historische Sonderzusagen leitende Angestellte)
 - § 6a EStG (Steuerliche Passivierungspflicht für Direktzusagen — auch Altzusagen)
 - Tarifverträge: Altersversorgungstarifvertrag ATV, ATV-K (öffentlicher Dienst); branchenspezifische Tarifverträge (chemische Industrie, Metall, Banken)
+- BAG 16.02.2021 — 3 AZR 98/20 (Altzusagen und Dynamisierungsklausel: gehaltsabhängige Rentenformel der 1980er Jahre; Stattfindestest der Gesamtversorgung bei gesunkener gesetzlicher Rente; Einfrierung nur bei triftigen Gründen)
+- BAG 15.09.2020 — 3 AZR 339/18 (Unverfallbarkeit historische Fristen: Übergangsregelung § 30f BetrAVG gilt auch für Altanwartschaften vor 2001; falsche Anwendung neuer Fristen auf Altzusagen = rechtswidriger Anwartschaftsverfall)
+
+### Kommentarliteratur
+
+- Kemper/Kisters-Kölkes/Berenz/Huber, BetrAVG, 9. Aufl. 2023, § 30f Rn. 1 ff. (historische Unverfallbarkeitsfristen, Übergangsregelungen)
+- Blomeyer/Rolfs/Otto, BetrAVG, 7. Aufl. 2023, § 1 Rn. 100 ff. (Altbestand, betriebliche Übung, mündliche Zusagen)
 
 ---
 

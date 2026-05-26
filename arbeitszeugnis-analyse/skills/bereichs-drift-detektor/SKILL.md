@@ -40,3 +40,19 @@ Besonders heikel sind Drifts in den weichen Bereichen Lernbereitschaft, Innovati
 ## Ausgabeformat
 
 Der Skill gibt aus: pro Themenbereich eine Tabelle mit den enthaltenen Saetzen, der Einzelnote je Satz, dem hoechsten und niedrigsten Wert sowie der Drift-Spreizung. Anschliessend eine Bereichsbilanz mit Drift-Wert, Ampelzuordnung und Hinweis auf besonders heikle Bereiche (Lernbereitschaft, Innovation, Sozialverhalten). Am Ende eine Gesamtdrift-Einschaetzung mit Empfehlung: Akzeptieren, Nachverhandeln einzelner Saetze, Klagepruefung.
+
+## Rechtliche Einordnung und Normen
+
+- **§ 109 Abs. 2 GewO** — Zeugnis muss klar und verständlich sein; widersprüchliche Bewertungen im selben Themenbereich verstoßen gegen Wohlwollensgebot
+- **§ 242 BGB** — Treu und Glauben; innerhalb desselben Zeugnisabschnitts darf der Arbeitgeber nicht gleichzeitig Bestnoten und Mängel bescheinigen
+
+## Aktuelle Rechtsprechung
+
+- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot verbietet Formulierungen, die Fortkommen unnötig erschweren; ein Zeugnis mit systemischen Widersprüchen im Leistungsbereich ist berichtigungspflichtig.
+- **LAG Köln, Urt. v. 22.11.2019 — 7 Sa 523/19** — Drift zwischen Überschrift-Note und Einzelsatz-Note: Wenn die Zufriedenheitsformel Note 1 verspricht, aber einzelne Leistungssätze Note 3-4 signalisieren, überwiegt die schwächere Note für die Gesamtbewertung; Kläger kann auf Kohärenz klagen.
+
+## Triage — vor der Drift-Prüfung
+
+1. Welche Themenblöcke sind im Zeugnis enthalten? (Fachkenntnisse, Motivation, Qualität, Teamverhalten, Führung, Schluss)
+2. Wurde die Zufriedenheitsformel bereits ausgewertet? (Satzweise-Notenmatrix-Skill?)
+3. Ziel der Drift-Analyse: Klageantrag-Vorbereitung oder Mandantenberatung?

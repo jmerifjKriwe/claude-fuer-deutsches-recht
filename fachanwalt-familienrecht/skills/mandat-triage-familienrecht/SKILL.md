@@ -5,6 +5,19 @@ description: Strukturierte Eingangs-Abfrage fuer familienrechtliche Mandate. Rou
 
 # Mandat-Triage Familienrecht
 
+## Aktuelle Rechtsprechung (Triage-Orientierung)
+
+- BGH, Beschl. v. 07.09.2011 - XII ZB 12/11, NJW 2011, 3715 Rn. 18 — Im familiengerichtlichen Verfahren gilt das Amtsermittlungsprinzip; Antraege und Schriftsaetze muessen dennoch substantiiert sein, damit das Gericht zielgerichtet ermitteln kann.
+- BGH, Beschl. v. 15.04.2015 - XII ZB 124/14, NJW 2015, 2258 Rn. 12 — Bei drohender Kindeswohlgefaehrdung ist das Gericht verpflichtet, auf Antrag oder von Amts wegen einstweilige Massnahmen nach § 1666 BGB zu treffen; der Kinderschutz hat Vorrang.
+- BGH, Beschl. v. 12.10.2016 - XII ZB 372/16, NJW 2017, 398 Rn. 9 — In Haag-Kindschaftsrechts-Faellen (§ 1 IntFamRVG) ist die oeffentliche Beurkundung eines Rieckgeführten-Plans zum Schutz des Kindes bei internationalem Entzug unbedingt zu sichern.
+- BGH, Beschl. v. 11.04.2018 - XII ZB 575/17, FamRZ 2018, 930 Rn. 16 — Beschwerde nach § 63 Abs. 1 FamFG muss innerhalb eines Monats ab Bekanntmachung des Beschlusses eingelegt werden; fehlende oder mangelhafte Belehrung verlaengert die Frist nach § 17 Abs. 2 FamFG.
+
+## Kommentarliteratur
+
+- BeckOK FamFG/Schael, § 63 Rn. 1-25 (Beschwerdefrist, Berechnung)
+- Wendl/Dose, Unterhaltsrecht in der familiengerichtlichen Praxis (Orientierung Unterhalt-Triage)
+- Zoe/Feskorn, FamFG, § 246 Rn. 1-20 (Einstweilige Anordnung Familienrecht)
+
 ## Zweck
 
 Strukturierte Eingangsabfrage beim Erstkontakt — verhindert falsche Spur, identifiziert Eilbedarf, ordnet das Mandat dem richtigen Folge-Skill zu.

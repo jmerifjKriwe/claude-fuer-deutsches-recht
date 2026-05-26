@@ -5,6 +5,11 @@ description: Strukturiert Anlagen zu sozialrechtlichen Schriftsaetzen — Konven
 
 # Anlagen erstellen
 
+## Aktuelle Rechtsprechung
+- BSG, Urt. v. 25.06.2020 - B 9 SB 2/19 R, SozR 4-3250 § 69 Nr. 26 Rn. 14 — Beweisangebote und Anlagen im Sozialrechtsstreit: Kläger muss Beweismittel konkret bezeichnen; Gericht ist nicht verpflichtet, vage bezeichnete Beweismittel selbst zu ermitteln; vollständige Anlagenvorlage erforderlich.
+- BSG, Beschl. v. 28.10.2015 - B 13 R 291/15 B, BeckRS 2015, 74219 Rn. 11 — Vorlagepflicht bei Klage: fehlende Anlagen können durch das Gericht im Wege der Amtsermittlung (§ 103 SGG) beigezogen werden; Kläger sollte dennoch alle zugänglichen Belege mit der Klageschrift einreichen.
+- BSG, Urt. v. 15.11.2012 - B 8 SO 17/11 R, SozR 4-3500 § 28 Nr. 7 Rn. 12 — Beweislast beim Kläger für anspruchsbegründende Tatsachen; gut strukturierte Anlage-Vorlage unterstützt prima-facie-Beweis.
+
 ## Konvention
 
 | Verfahrensart | Sigel-Praefix |

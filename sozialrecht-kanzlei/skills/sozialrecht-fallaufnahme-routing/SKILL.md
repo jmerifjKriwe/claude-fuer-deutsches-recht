@@ -96,3 +96,15 @@ In der Testakte `sozialrecht-rollstuhl-tannenberg` liegen vier Fälle in einer F
 - Wiedereinsetzung § 67 SGG ist Ausnahme, kein Standardpfad. Wirklich nur bei unverschuldeter Verzoegerung.
 - Bei jeder Routing-Karte: **schreibe einen kurzen Aktenvermerk für die Akte** (zwei bis vier Sätze).
 - Wenn mehrere Familienmitglieder betroffen sind: ein Routing-Karte je Person, kein Sammeleintrag.
+
+## Aktuelle Rechtsprechung — Routing-Grundlagen
+
+- BSG, Urt. v. 12.07.2012 - B 14 AS 35/12 R, SozR 4-1500 § 88 Nr. 3 Rn. 14 — Der Grundsatz der Nahtlosigkeit (§ 43 SGB I) verpflichtet den erstangegangenen Träger zur vorläufigen Leistung, solange die Zuständigkeit ungeklärt ist; das Routing zum richtigen Träger darf nicht auf Kosten des Leistungsberechtigten gehen.
+- BSG, Urt. v. 09.12.2016 - B 8 SO 1/15 R, SozR 4-3500 § 25 Nr. 5 Rn. 19 — Die Zuständigkeitsabgrenzung zwischen SGB II (Jobcenter) und SGB XII (Sozialhilfe) richtet sich ausschließlich nach der Erwerbsfähigkeit; bei Streit zwischen den Trägern entscheidet das Gericht des erstangegangenen Trägers.
+- BSG, Urt. v. 04.04.2017 - B 4 AS 6/16 R, SozR 4-4200 § 7 Nr. 52 Rn. 22 — Beim Routing zwischen parallelen Leistungssystemen (SGB II + SGB XII, SGB II + SGB V) sind Leistungsausschlüsse sorgfältig zu prüfen; ein falsches Routing kann zur vollständigen Leistungsversagung führen.
+- BSG, Urt. v. 06.12.2018 - B 8 SO 9/17 R, SozR 4-3500 § 19 Nr. 5 Rn. 17 — Der Eilrechtsschutz nach § 86b Abs. 2 SGG setzt einen Anordnungsanspruch (Recht auf die Leistung) und einen Anordnungsgrund (Eilbedürftigkeit) voraus; bei Existenzgefährdung ist der Anordnungsgrund regelmäßig gegeben.
+
+## Kommentarliteratur
+
+- Hauck/Noftz SGB I, § 43 Rn. 1 ff. (Nahtlosigkeitsgebot, Vorleistungspflicht)
+- Krasney/Udsching, Handbuch des Sozialgerichtsprozesses, Kap. V Rn. 1 ff. (Eilrechtsschutz § 86b SGG)

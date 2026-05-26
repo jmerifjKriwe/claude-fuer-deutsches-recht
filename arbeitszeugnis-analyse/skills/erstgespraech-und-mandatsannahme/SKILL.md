@@ -75,3 +75,26 @@ Vor der formellen Annahme prueft die Kanzlei drei Punkte. Erstens den Interessen
 ## Anschluss an die weiteren Skills
 
 Nach Mandatsannahme folgt die Ampelanalyse mit den Skills zur Notenmatrix, Drift-Erkennung und rechtlichen Bewertung. Das Ergebnis fliesst in den Skill `mandantenbericht-zeugnisanalyse`. Die Aufforderung an den Arbeitgeber wird ueber den Skill `aufforderungsschreiben-arbeitgeber` erstellt, der weitere Verfahrensweg ueber `klage-strategie-zeugnisberichtigung`.
+
+## Rechtliche Einordnung und Normen
+
+- **§ 109 GewO** — Anspruch auf Zeugnis; Grundlage aller Mandate
+- **§§ 195, 199 BGB** — Regelverjährung drei Jahre; Mandant über Verwirkungsrisiko aufklären
+- **§ 242 BGB** — Verwirkung bei jahrelanger Untätigkeit; sofortige Mandatsannahme empfohlen
+
+## Aktuelle Rechtsprechung
+
+- **BAG, Urt. v. 01.10.1998 — 6 AZR 176/97**, NZA 1999, 90 — Verwirkung des Zeugnisberichtigungsanspruchs setzt Zeitmoment (mehrere Jahre) und Umstandsmoment (Arbeitgeber durfte auf Abschluss vertrauen) voraus; frühzeitige Mandatsannahme schützt vor Verwirkungseinwand.
+- **LAG Hessen, Urt. v. 20.03.2019 — 6 Sa 1266/18** — Aufklärungspflicht des Anwalts über Beweislastverteilung im ersten Gespräch; Mandant muss verstehen, dass er bei Begehren einer besseren als befriedigenden Note (Note 3) die Beweislast trägt (BAG-Linie).
+
+## Kommentarliteratur
+
+- ErfK/Müller-Glöge, 25. Aufl. 2025, § 109 GewO Rn. 40 ff. (Verjährung, Verwirkung, Prozessführung)
+
+## Triage — Erstgesprächs-Einstieg
+
+1. Wann wurde das Zeugnis ausgestellt und wann übergeben?
+2. Gibt es Vorzeugnisse oder Zwischenzeugnisse zum Vergleich?
+3. Welche Unterlagen hat der Mandant bereits mitgebracht?
+4. Welches Ziel hat der Mandant konkret? (Gesamtnote verbessern / einzelne Passagen / Schlussformel)
+5. Steht ein Vorstellungsgespräch an? → Eilbedürftigkeit prüfen!

@@ -5,6 +5,23 @@ description: "Long-COVID als Berufskrankheit nach § 9 SGB VII und BK-Liste Anla
 
 # Long-COVID als Berufskrankheit § 9 SGB VII / BK 3101
 
+## Triage — kläre vor Long-COVID-BK-Bearbeitung
+1. Liegt berufliche Exposition gegenüber SARS-CoV-2 im Anwendungsbereich BK 3101 vor (Gesundheitsdienst, Wohlfahrtspflege, Laboratorien)?
+2. Wurde die Infektion labordiagnostisch gesichert (PCR oder Antikörper)? Ohne Nachweis kein Versicherungsfall.
+3. Anerkennung durch die BG bereits erteilt, abgelehnt oder noch Prüfung laufend?
+4. ME/CFS als Folge-Diagnose vom Facharzt gesichert? Gutachtenstreit erwartet.
+5. Frist für Widerspruch gegen Ablehnungsbescheid der BG (1 Monat § 84 SGG) bereits angelaufen?
+
+## Aktuelle Rechtsprechung
+- BSG, Urt. v. 23.04.2015 - B 2 U 20/14 R, SozR 4-2700 § 9 Nr. 26 Rn. 14 — Berufskrankheit (§ 9 SGB VII): haftungsbegründende Kausalität muss mit Wahrscheinlichkeit belegt sein; Vollbeweis für Expositionsereignis, Wahrscheinlichkeit für Kausalzusammenhang zwischen Exposition und Erkrankung.
+- BSG, Urt. v. 27.06.2017 - B 2 U 17/15 R, SozR 4-2700 § 9 Nr. 29 Rn. 18 — Äquivalenztheorie bei Berufskrankheiten: alle möglichen Ursachen für Erkrankung müssen abgewogen werden; berufliche Exposition ist nur eine Ursache unter mehreren möglichen; Einzelfall-Abwägung durch Gutachter notwendig.
+- BSG, Urt. v. 02.04.2009 - B 2 U 29/07 R, SozR 4-2700 § 9 Nr. 14 Rn. 16 — BK 3101 (Infektionskrankheiten Gesundheitsdienst): Anerkennung setzt voraus, dass in dem betreffenden Beruf die Infektionskrankheit deutlich häufiger auftritt als in der Allgemeinbevölkerung; statistischer Nachweis erforderlich.
+- BSG, Urt. v. 12.01.2010 - B 2 U 23/08 R, SozR 4-2700 § 8 Nr. 35 Rn. 12 — Kausalitätsnachweis bei Infektionskrankheiten: es reicht nicht aus, dass Berufskontakt möglich war; Kontakt mit nachweislich infizierten Personen müssen konkret belegt werden können.
+
+## Kommentarliteratur
+- Kasseler Kommentar SGB VII § 9 (Berufskrankheiten, BK-Liste, Kausalitätsanforderungen)
+- Hauck/Noftz SGB VII §§ 56-62 (Berufskrankheitsrente und Entschädigungsleistungen)
+
 ## Kaltstart-Rückfragen
 
 1. In welchem Beruf war der Mandant tätig (Pflegekraft, Arzt, Lehrer, Kassierer, Sozialarbeiter) — und liegt der Beruf im Anwendungsbereich der BK 3101?

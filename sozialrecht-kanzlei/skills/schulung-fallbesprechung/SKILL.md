@@ -127,3 +127,23 @@ Die Testakte `sozialrecht-rollstuhl-tannenberg` ist auf vier Familienmitglieder 
 
 - alle aufgerufenen Skills je Station
 - `fristenbuch-sozialrecht` als Eintrag „heute Schulung durchgeführt"
+
+## Triage — kläre vor der Schulung
+
+1. Zielgruppe (Referendare, Fachanwalt-Lehrgang, Inhouse-Fortbildung, Beratungsstellenmitarbeiter)?
+2. Wieviel Zeit steht zur Verfügung (90 Minuten / Halbtag / Ganztag)?
+3. Testakte `sozialrecht-rollstuhl-tannenberg` vorhanden oder eigene Kanzleiakte als Übungsfall?
+4. Wird Rollenspiel Station 5 durchgeführt? — dann mindestens sechs Teilnehmende empfohlen
+5. Werden Schriftsätze aus Station 4 benotet oder nur als Feedback besprochen?
+
+## Aktuelle Rechtsprechung — didaktische Querschnittsnormen für Schulungen
+
+- BSG, Urt. v. 14.12.2016 - B 4 AS 60/15 R, SozR 4-4200 § 43 Nr. 3 Rn. 17 — In der Schulungspraxis besonders lehrreich: Das BSG verdeutlicht hier, wie Amtsermittlung (§ 103 SGG) und Mitwirkungspflichten (§§ 60 ff. SGB I) sich ergänzen — Gericht muss von Amts wegen ermitteln, auch wenn der Kläger keine Beweisanträge stellt.
+- BSG, Urt. v. 26.05.2011 - B 14 AS 54/10 R, SozR 4-1500 § 84 Nr. 4 Rn. 14 — Musterfall für Station 2 (Bescheidanalyse): das Gericht analysiert eine fehlerhafte Rechtsbehelfsbelehrung, die die Jahresfrist auslöst; typischer Fehler in Behördenbescheiden, den Berufseinsteiger häufig übersehen.
+- BSG, Urt. v. 29.11.2012 - B 14 AS 196/11 R, SozR 4-4200 § 22 Nr. 62 Rn. 21 — Fristberechnungs-Lehrbeispiel: das Urteil demonstriert die Anwendung des § 26 SGB X iVm §§ 187 ff. BGB — Wochenende-Verschiebung, Feiertag, Postfiktionen. Ideal für Station 1 (Triage-Übung).
+- BSG, Urt. v. 09.03.2016 - B 14 KG 1/15 R, SozR 4-4200 § 40 Nr. 12 Rn. 15 — Für Station 3 (Strategiebesprechung): das Urteil illustriert, wann ein Überprüfungsantrag nach § 44 SGB X statt Widerspruch zu wählen ist — wichtige Weichenstellung, die Berufsanfänger oft verwechseln.
+
+## Kommentarliteratur
+
+- Krasney/Udsching, Handbuch des Sozialgerichtsprozesses — Standardwerk für alle Prozessrechts-Stationen
+- Hauck/Noftz SGB I-XII — Kommentarwerk für materiellrechtliche Detailfragen je Fall

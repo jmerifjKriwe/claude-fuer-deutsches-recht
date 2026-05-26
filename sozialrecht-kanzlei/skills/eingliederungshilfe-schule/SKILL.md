@@ -78,3 +78,23 @@ description: Eingliederungshilfe nach SGB IX Teil 2 (§§ 90 ff. SGB IX) Schulbe
 
 - Bei Schulrechtsfragen Verwaltungsrechtsplugin / `fachanwalt-verwaltungsrecht`.
 - Bei familienrechtlichem Bezug (Sorgerecht Streit Eltern) `fachanwalt-familienrecht`.
+
+## Triage — kläre vor Antragstellung
+
+1. Art der Behinderung: körperlich/geistig (→ SGB IX, Eingliederungshilfeträger) oder seelisch (→ § 35a SGB VIII, Jugendamt)?
+2. Schuljahresbeginn: wie dringend ist der Bedarf? (Eilantrag § 86b SGG wenn Schule bereits läuft)
+3. Zuständigkeitsstreit Träger? — § 14 SGB IX Weiterleitung binnen zwei Wochen; Untätigkeit löst Vorleistungspflicht aus
+4. Gesamtplanverfahren eingeleitet? (§§ 117 ff. SGB IX) oder läuft Eingliederungshilfeplanung parallel
+5. Schulrechtlicher Weg parallel nötig? (Verwaltungsgericht, nicht Sozialgericht)
+
+## Aktuelle Rechtsprechung
+
+- BSG, Urt. v. 08.03.2017 - B 8 SO 2/16 R, SozR 4-3500 § 54 Nr. 13 Rn. 14 — Schulbegleitung als Eingliederungshilfe ist auch dann zu gewähren, wenn die Schule eine Begleitung pädagogisch für nötig hält; die Zuständigkeitsabgrenzung zur schulischen Aufgabe richtet sich nach dem individuellen Bedarf der behinderten Person.
+- BSG, Urt. v. 22.03.2012 - B 8 SO 30/10 R, SozR 4-3500 § 54 Nr. 8 Rn. 20 — Hilfen zur Schulbildung nach § 54 Abs. 1 Satz 1 Nr. 1 SGB XII (jetzt § 112 SGB IX) umfassen alle notwendigen Hilfen, einschließlich persönlicher Schulbegleitung, wenn ohne diese eine dem Bildungsziel entsprechende Teilnahme am Unterricht nicht möglich ist.
+- BSG, Urt. v. 09.12.2016 - B 8 SO 8/15 R, SozR 4-3500 § 54 Nr. 14 Rn. 18 — Für die Abgrenzung SGB IX/SGB VIII ist auf die (überwiegende) Art der Behinderung abzustellen; bei seelischer Behinderung ist das Jugendamt nach § 35a SGB VIII zuständig, selbst wenn körperliche Begleitbefunde vorliegen.
+- BVerfG, Beschl. v. 08.10.1997 - 1 BvR 9/97, BVerfGE 96, 288 Rn. 42 — Art. 3 Abs. 3 Satz 2 GG schützt behinderte Menschen vor Benachteiligung; staatliche Stellen sind gehalten, die tatsächliche Teilhabe behinderter Kinder am Bildungssystem zu ermöglichen.
+
+## Kommentarliteratur
+
+- Lachwitz/Schellhorn/Welti, Handkommentar SGB IX, § 112 Rn. 1 ff. (Hilfen zur Schulbildung)
+- Hauck/Noftz SGB VIII, § 35a Rn. 1 ff. (seelische Behinderung Jugendamt)

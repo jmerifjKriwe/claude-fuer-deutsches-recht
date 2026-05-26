@@ -219,7 +219,7 @@ Rechtsanwalt/Rechtsanwältin [Name]
 
 ## Streitwert und Kosten
 
-**Verfahrenswert Umgangssachen:** EUR 3.000 (§ 45 Abs. 1 Nr. 2 FamGKG, Regelwert).  
+**Verfahrenswert Umgangssachen:** EUR 3000 (§ 45 Abs. 1 Nr. 2 FamGKG, Regelwert).  
 Erhöhung auf EUR 5.000–8.000 bei komplexen Hochkonfliktfällen möglich (§ 45 Abs. 3 FamGKG, billiges Ermessen).
 
 **Verfahrenswert Sorgerechtssachen:** EUR 4.000 (§ 45 Abs. 1 Nr. 1 FamGKG).
@@ -230,9 +230,9 @@ Erhöhung auf EUR 5.000–8.000 bei komplexen Hochkonfliktfällen möglich (§ 4
 - Vermittlungsverfahren § 165 FamFG durch Jugendamt: Gebührenfrei für Beteiligte.
 
 **Anwaltsgebühren (RVG):**  
-- Verfahrensgebühr 1.3 VV RVG aus EUR 3.000 = ca. EUR 262,60  
-- Terminsgebühr 1.2 VV RVG = ca. EUR 218,00  
-- Einigungsgebühr 1.5 VV RVG bei Abschluss = ca. EUR 262,60  
+- Verfahrensgebühr 1.3 VV RVG aus EUR 3000 = ca. EUR 262.60  
+- Terminsgebühr 1.2 VV RVG = ca. EUR 218.00  
+- Einigungsgebühr 1.5 VV RVG bei Abschluss = ca. EUR 262.60  
 - Zzgl. Auslagen und 19 % MwSt.
 
 **Verfahrensbeistand:** EUR 350 pauschal je Instanz (§ 158 Abs. 7 FamFG) oder nach tatsächlichem Aufwand.

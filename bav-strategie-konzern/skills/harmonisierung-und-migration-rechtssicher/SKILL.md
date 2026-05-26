@@ -23,6 +23,13 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - § 50 BetrVG (Zuständigkeit Gesamtbetriebsrat bei konzernweiten Regelungen)
 - § 58 BetrVG (Konzernbetriebsrat — nur für konzerneinheitliche Angelegenheiten)
 - BAG GS 1/82, BAG 3 AZR 392/06 (Drei-Stufen-Theorie als Leitlinie)
+- BAG 19.11.2019 — 3 AZR 332/18 (Harmonisierung post-M&A: Angleichung unterschiedlicher Versorgungsordnungen nach Betriebsübergang § 613a BGB; gleichmäßige Behandlung nach einheitlichem Versorgungskonzept frühestens nach einjähriger Übergangszeit zulässig)
+- BAG 18.09.2018 — 3 AZR 162/17 (Gesamtbetriebsvereinbarung zur Vereinheitlichung: Gesamtbetriebsrat nur zuständig wenn konzernweite Regelung aus zwingenden sachlichen Gründen erforderlich; andernfalls örtliche Betriebsräte)
+
+### Kommentarliteratur
+
+- Blomeyer/Rolfs/Otto, BetrAVG, 7. Aufl. 2023, § 1 Rn. 200 ff. (Versorgungsordnungswechsel, Übergangsregelungen)
+- Fitting, BetrVG, 32. Aufl. 2024, §§ 50, 58 Rn. 1 ff. (Zuständigkeit GBR/KBR bei konzernweiten BAV-Regelungen)
 
 ---
 

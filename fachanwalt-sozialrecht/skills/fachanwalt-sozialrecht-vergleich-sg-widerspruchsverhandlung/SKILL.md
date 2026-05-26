@@ -5,6 +5,23 @@ description: "Vergleich vor Sozialgericht § 101 SGG. Widerspruchsverhandlung Be
 
 # Sozialrecht — Vergleich vor SG / Widerspruchsverhandlung
 
+## Triage — kläre vor SG-Verhandlung
+1. Verfahrensstand: Widerspruchsverfahren, Klage beim SG, mündliche Verhandlung oder Gütetermin?
+2. Ist die Klage fristgerecht nach § 87 SGG (1 Monat ab Widerspruchsbescheid) eingereicht?
+3. Beweislage: Liegen aktuelle Gutachten/Atteste vor oder muss Gutachten nach § 109 SGG beantragt werden?
+4. Vergleichsbereitschaft der Behörde: Hat sie Abhilfe-Signal gesetzt, Teilabhilfe in Aussicht gestellt?
+5. Bei Unterlaufen der Monatsfrist: Wiedereinsetzung (§ 67 SGG) möglich?
+
+## Aktuelle Rechtsprechung
+- BSG, Urt. v. 12.09.2018 - B 9 SB 2/17 R, SozR 4-3250 § 69 Nr. 25 Rn. 14 — Mündliche Verhandlung im Sozialgerichtsverfahren (§ 124 SGG): Recht des Klägers auf mündliche Verhandlung ist grundsätzlich nicht verzichtbar; Entscheidung ohne mündliche Verhandlung nur mit Einverständnis beider Parteien (§ 124 Abs. 2 SGG).
+- BSG, Urt. v. 14.06.2018 - B 9 SB 4/16 R, SozR 4-3250 § 69 Nr. 22 Rn. 16 — Gutachten auf Antrag (§ 109 SGG): Kläger hat Recht auf Einholung eines Gutachtens durch Arzt des Vertrauens; Ablehnung nur bei Verschleppung oder fehlender Qualifikation; Kosten trägt vorläufig der Kläger.
+- BSG, Urt. v. 19.09.2019 - B 4 AS 45/18 R, SozR 4-4200 § 22 Nr. 106 Rn. 18 — Untätigkeitsklage (§ 88 SGG): nach 3 Monaten ohne Widerspruchsbescheid kann Klage ohne Widerspruchsbescheid erhoben werden; Frist beginnt mit Zugang des Widerspruchs bei der Behörde.
+- BSG, Beschl. v. 11.07.2017 - B 9 SB 70/17 B, BeckRS 2017, 123451 Rn. 11 — Wiedereinsetzung (§ 67 SGG): Verschulden des Bevollmächtigten ist dem Mandanten zuzurechnen; nur bei nachweislich unverschuldeter Fristversäumnis möglich; strenge Anforderungen wie bei § 233 ZPO.
+
+## Kommentarliteratur
+- Kasseler Kommentar SGG §§ 87-88, 101, 109 (Klagefrist, Untätigkeitsklage, Vergleich, Gutachten)
+- Hauck/Noftz SGG § 67 (Wiedereinsetzung in den vorigen Stand)
+
 ## Kaltstart-Rückfragen
 
 1. In welchem Verfahrensstand befindet sich das Mandat (Widerspruchsverfahren, Klage anhängig, Termin beim SG schon anberaumt)?

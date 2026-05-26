@@ -5,6 +5,19 @@ description: "Erbschafts-Mediation bei Erbengemeinschaft Auseinandersetzungsstre
 
 # Mediation / Vergleich bei Erbengemeinschaft
 
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 07.07.2021 - IV ZR 388/19, NJW 2021, 3263 Rn. 18 — Jeder Miterbe kann Auseinandersetzung nach § 2042 BGB verlangen; Auseinandersetzungsklage richtet sich auf Mitwirkung der anderen Miterben, nicht auf Zahlung.
+- BGH, Urt. v. 15.07.2015 - IV ZR 460/14, NJW 2015, 3085 Rn. 14 — Ordnungsgemaeue Verwaltung der Erbengemeinschaft (§ 2038 BGB) wird mit Stimmenmehrheit nach Erbquoten beschlossen; bei Streit kann ein Miterbe das Gericht anrufen.
+- BGH, Urt. v. 30.04.2014 - IV ZR 197/13, NJW 2014, 2126 Rn. 22 — Auseinandersetzungsvertrag muss alle Nachlassgegenstaeende erfassen, um die Erbengemeinschaft vollstaendig aufzuloesen; Teileinigungen lassen die Gemeinschaft im Uebrigen bestehen.
+- OLG Hamm, Beschl. v. 22.02.2018 - 10 W 125/17, NJW-RR 2018, 1160 Rn. 10 — Bei Immobilien-Teilungsversteigerung (§ 180 ZVG) hat jeder Miterbe das Recht, das Grundstuck bei der Versteigerung zu ersteigern; ein Verkauf außerhalb der Versteigerung bedarf der Zustimmung aller Miterben.
+
+## Kommentarliteratur
+
+- MuKoBGB/Ann, §§ 2032-2059 Rn. 1-60 (Erbengemeinschaft, Verwaltung, Auseinandersetzung)
+- BeckOK BGB/Litzenburger, § 2042 Rn. 1-30 (Auseinandersetzungsklage)
+- Burandt/Rojahn, Erbrecht, Teil Erbengemeinschaft und Mediation
+
 ## Zweck
 
 Erbschafts-Streit ist überwiegend Familien-/Beziehungs-Streit; harte Klage zerstört oft die Beziehungen dauerhaft. Mediation und außergerichtliche Vergleichsverhandlungen sind erbrechtsspezifisch zentral — mit Notar-Vermittlung § 363 FamFG, Schiedsgutachten bei Bewertungs-Streit.

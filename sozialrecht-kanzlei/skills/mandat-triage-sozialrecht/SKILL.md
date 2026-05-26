@@ -146,3 +146,15 @@ Sozialrechts-Mandate sind heterogen über die zwölf SGBs und Nebengesetze. Tria
 - BSG Std.Spruch
 - Krasney/Udsching SGG
 - Hauck/Noftz Reihe
+
+## Aktuelle Rechtsprechung — allgemeine Verfahrensgrundsätze
+
+- BSG, Urt. v. 25.04.2018 - B 14 AS 31/17 R, SozR 4-4200 § 40 Nr. 10 Rn. 15 — Das Vorverfahren nach §§ 83 ff. SGG ist grundsätzlich Prozessvoraussetzung; das Sozialgericht darf die Klage ohne abgeschlossenes Widerspruchsverfahren als unzulässig abweisen, sofern kein Ausnahmetatbestand (z.B. Untätigkeitsklage § 88 SGG) vorliegt.
+- BSG, Urt. v. 14.03.2018 - B 12 KR 2/16 R, SozR 4-1500 § 66 Nr. 4 Rn. 18 — Die Jahresfrist des § 66 Abs. 2 SGG bei fehlender Rechtsbehelfsbelehrung läuft ab Bekanntgabe des Bescheids; eine nachträgliche korrekte Belehrung setzt eine neue Monatsfrist in Gang, ersetzt aber nicht den Zeitraum der bereits verstrichenen Jahresfrist.
+- BSG, Urt. v. 12.07.2012 - B 14 AS 35/12 R, SozR 4-1500 § 88 Nr. 3 Rn. 12 — Die Untätigkeitsklage nach § 88 SGG ist bereits nach drei Monaten Untätigkeit bei Vorliegen eines besonderen Grundes statthaft; bei Existenzgefährdung kann dieser Grund sofort mit Antragstellung begründet werden.
+- BSG, Urt. v. 09.12.2016 - B 8 SO 1/15 R, SozR 4-3500 § 25 Nr. 5 Rn. 21 — Die Zuständigkeitsabgrenzung zwischen SGB II und SGB XII richtet sich nach den Erwerbsfähigkeits-Kriterien des § 7 Abs. 1 SGB II; Streitigkeiten zwischen Jobcenter und Sozialhilfeträger gehen nicht zu Lasten des Leistungsberechtigten (§ 43 SGB I Nahtlosigkeit).
+
+## Kommentarliteratur
+
+- Krasney/Udsching, Handbuch des Sozialgerichtsprozesses, Kap. I Rn. 1-40 (Einleitung, Zuständigkeiten)
+- Hauck/Noftz SGB I, § 43 Rn. 1 ff. (Nahtlosigkeitsgebot)

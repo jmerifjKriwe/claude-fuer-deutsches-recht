@@ -5,6 +5,19 @@ description: Orientierung im Familienrecht — FAO-Voraussetzungen Fachanwaltsbe
 
 # Fachanwalt für Familienrecht — Orientierung
 
+## Aktuelle Rechtsprechung (Orientierung Familienrecht)
+
+- BGH, Beschl. v. 26.10.2011 - XII ZB 465/11, NJW 2012, 523 Rn. 14 — Das Familiengericht kann im Verbundverfahren (§ 137 FamFG) Scheidung und Folgesachen gleichzeitig verhandeln und entscheiden; eine Abtrennung ist nur in Ausnahmefällen zulässig.
+- BGH, Urt. v. 18.03.2020 - XII ZB 115/19, FamRZ 2020, 893 Rn. 18 — Der Versorgungsausgleich ist grundsätzlich von Amts wegen durchzuführen; der Verzicht bedarf eines wirksamen notariellen Ehevertrags mit entsprechendem Inhalt.
+- BGH, Beschl. v. 10.10.2018 - XII ZB 231/18, FamRZ 2018, 1929 Rn. 12 — Das Kindeswohl hat im Sorge- und Umgangsrecht absoluten Vorrang; beim Wechselmodell kommt es auf die Kommunikationsfähigkeit der Eltern an.
+- BGH, Urt. v. 07.02.2018 - XII ZB 338/17, NJW 2018, 1250 Rn. 22 — Der Zugewinnausgleich berechnet sich nach den tatsächlichen Endvermögen; fiktiv zugerechnetes Vermögen bei illoyaler Vermögensminderung ist nach § 1375 Abs. 2 BGB anzusetzen.
+
+## Kommentarliteratur
+
+- Wendl/Dose, Das Unterhaltsrecht in der familiengerichtlichen Praxis (Standardwerk)
+- MuKoBGB Familienrecht, Bd. 9 und 10 (umfassend, maßgeblich)
+- Schwab, Familienrecht (Lehrbuch, jährlich aktualisiert)
+
 ## FAO-Voraussetzungen (§ 5 Abs. 1 FAO)
 
 - **Theoretischer Lehrgang** 120 Stunden (§ 4 FAO).

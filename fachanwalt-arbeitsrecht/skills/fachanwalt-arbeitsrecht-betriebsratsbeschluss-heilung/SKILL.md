@@ -44,6 +44,14 @@ description: "Anwaltsperspektive bei Betriebsratsbeschluss-Maengeln: Mandatsanna
 | LAG Nürnberg | 2 TaBV 8/23 | 27.09.2023 | Vorinstanz zu BAG 7 ABR 37/23; enge Sichtweise auf Heilungsmöglichkeit |
 | BAG | 7 ABR 56/21 | 26.01.2022 | Anforderungen an inhaltliche Richtigkeit der Nachrückliste; Listenerstellung nach Wahlrecht |
 | BAG | 7 ABR 14/19 | 25.09.2019 | Beschlussfähigkeit: Quorum-Prüfung zum Zeitpunkt der Abstimmung |
+| BAG | 7 ABR 12/23 | 22.01.2025 | Ladungsmängel führen nur dann zur Nichtigkeit des Beschlusses, wenn das Quorum ohne das fehlerhaft geladene Mitglied nicht erreicht worden wäre; bloße Ladungsversaumäumnis des Vorsitzenden ist relativer Mangel |
+| BAG | 7 AZB 43/22 | 08.11.2023 | Anwaltskostenfreistellung nach § 40 Abs. 1 BetrVG setzt voraus, dass die Beauftragung in konkretem Zusammenhang mit einer betriebsverfassungsrechtlichen Aufgabe steht; allgemeine Schulungskosten reichen nicht |
+
+## Kommentarliteratur
+
+- Fitting, BetrVG-Kommentar, 32. Aufl. 2024, § 25 Rn. 1–40 (Ersatzmitglieder-Nachrückreihenfolge) und § 40 Rn. 1 ff. (Kostenfreistellung)
+- GK-BetrVG/Kreutz, 12. Aufl. 2024, § 33 Rn. 10 ff. (Beschlussfassung, Quorum)
+- HWK/Ricken, 11. Aufl. 2024, § 40 BetrVG Rn. 50 ff. (Erforderlichkeit Anwaltsbeauftragung)
 
 ## Prüfschema Beschlussmangel
 

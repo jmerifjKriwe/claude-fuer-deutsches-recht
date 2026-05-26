@@ -119,3 +119,23 @@ Hinweis an Mandanten, sobald GdB feststeht:
 - `fristenbuch-sozialrecht`
 - `akteneinsicht-anfordern` (Versorgungsamt-Akte mit versorgungsärztlicher Stellungnahme)
 - `anlagen-erstellen` (Befundberichte und Verkehrsprotokoll)
+
+## Triage — kläre vor dem Widerspruch
+
+1. Liegen alle aktuellen Befundberichte vor — insbesondere psychiatrische Diagnosen und Schmerzgutachten?
+2. Sind alle Einzel-GdB-Werte im Bescheid ausgewiesen, oder nur ein Gesamt-GdB ohne Einzelaufschlüsselung?
+3. Welche Merkzeichen wurden beantragt, welche abgelehnt? (G, aG, B, Bl, H, RF, TBl)
+4. Datum des Erstbescheids: läuft die Ein-Monats-Frist (§ 84 SGG) noch?
+5. Hat der Mandant steuerliche Auswirkungen (§ 33b EStG Pauschbetrag) und Schwerbehindertenrechtsstatus bereits genutzt?
+
+## Aktuelle Rechtsprechung
+
+- BSG, Urt. v. 30.09.2009 - B 9 SB 4/08 R, SozR 4-3250 § 69 Nr. 10 Rn. 20 — Die GdB-Bildung nach § 152 SGB IX (früher § 69 SGB IX a.F.) hat nach den Versorgungsmedizinischen Grundsätzen (VersMedV) zu erfolgen; der Gesamtgrad ergibt sich nicht aus der Addition der Einzel-GdBs, sondern aus der Würdigung der Wechselwirkungen zwischen den Funktionsstörungen.
+- BSG, Urt. v. 11.08.2015 - B 9 SB 2/15 R, SozR 4-3250 § 69 Nr. 18 Rn. 17 — Für das Merkzeichen G genügt es nicht, dass der Versicherte kurze Gehstrecken zurücklegen kann; entscheidend ist, ob er zwei Kilometer in bis zu dreißig Minuten ohne erhebliche Beschwerden zurücklegen kann — eine restriktive Auslegung verstößt gegen VersMedV Teil D Nr. 1.
+- BSG, Urt. v. 24.04.2008 - B 9/9a SB 10/06 R, SozR 4-3250 § 69 Nr. 8 Rn. 25 — Bei der Bewertung chronischer Schmerzerkrankungen (z.B. Fibromyalgie, CRPS) sind die Versorgungsmedizinischen Grundsätze anzuwenden; eine Unterschreitung der dort normierten Mindest-GdB-Werte ohne Begründung ist rechtswidrig.
+- BSG, Urt. v. 16.12.2014 - B 9 SB 3/13 R, SozR 4-3250 § 69 Nr. 20 Rn. 19 — Psychische Erkrankungen (Depression, Angststörung, PTBS) sind bei der Gesamt-GdB-Bildung als eigenständige Funktionsstörungen mit einem Einzel-GdB zu erfassen; eine pauschale Nichtberücksichtigung mit dem Hinweis auf fehlende Objektivierbarkeit ist unzulässig.
+
+## Kommentarliteratur
+
+- Kasseler Kommentar Sozialversicherungsrecht, Wehrhahn § 152 SGB IX Rn. 1 ff. (GdB-Feststellung, VersMedV)
+- Hauck/Noftz SGB IX, § 152 Rn. 1 ff. (Schwerbehindertenrecht, Merkzeichen)

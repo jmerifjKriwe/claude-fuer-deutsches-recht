@@ -5,6 +5,33 @@ description: "Schritt-fuer-Schritt Klageschrift Entfristungsklage fuer Laien: Ru
 
 # Klageschrift Entfristungsklage — Laien-Baustein
 
+## Triage zu Beginn — kläre vor dem Ausfüllen der Vorlage
+
+1. Wann endet der Vertrag laut Urkunde? (§ 17 TzBfG-Frist läuft ab diesem Datum)
+2. Welcher Unwirksamkeitsgrund liegt vor? (Schriftformmangel / kein Sachgrund / Vorbeschäftigung)
+3. Hast du eine Kopie des Arbeitsvertrags? (als Anlage K 1 beifügen)
+4. Hast du einen Beleg für die Art der Unterzeichnung? (E-Mail, Screenshot Signier-Portal)
+5. Wie hoch ist dein monatliches Bruttogehalt? (Streitwert = 3 × Monatsgehalt)
+
+## Zentrale Normen
+
+- § 17 TzBfG — Klagefrist 3 Wochen ab vereinbartem Vertragsende (absolute Ausschlussfrist)
+- §§ 14 Abs. 4, 16 TzBfG — Schriftformerfordernis und Rechtsfolge Unwirksamkeit
+- § 14 Abs. 2 Satz 2 TzBfG — Vorbeschäftigungsverbot
+- § 42 Abs. 2 GKG — Streitwert (3 Monatsverdienste)
+- § 11 Abs. 1 ArbGG — kein Anwaltszwang in erster Instanz
+
+## Wichtige Rechtsprechung (für Begründung verwendbar)
+
+- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — Elektronische Unterschrift (DocuSign, E-Mail-Signatur) genügt nicht; § 14 Abs. 4 TzBfG verlangt eigenhändige Unterschrift auf einer Originalurkunde vor Arbeitsaufnahme. Fehlt dies, gilt der Vertrag nach § 16 Satz 1 TzBfG als unbefristet.
+- BAG, Urt. v. 01.12.2004 – 7 AZR 198/04, NZA 2005, 337 — Das Schriftformgebot des § 14 Abs. 4 TzBfG ist konstitutiv; beide Parteien müssen dieselbe Urkunde unterschreiben.
+- BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 — Vorbeschäftigungsverbot gilt zeitlich unbegrenzt; auch eine viele Jahre zurückliegende frühere Tätigkeit beim selben Arbeitgeber sperrt sachgrundlose Befristung.
+
+## Kommentarliteratur (für die Begründung)
+
+- ErfK/Müller-Glöge, 25. Aufl. 2025, § 14 TzBfG Rn. 80 ff. (Schriftformerfordernis)
+- HWK/Schmalenberg, 11. Aufl. 2024, § 17 TzBfG Rn. 1 ff.
+
 ## Zweck
 
 Dieser Skill erzeugt eine ausfüllbare Klageschrift-Vorlage für die Befristungskontrollklage (Entfristungsklage) — für Arbeitnehmer ohne Anwalt.

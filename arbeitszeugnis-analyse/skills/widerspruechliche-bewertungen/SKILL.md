@@ -41,3 +41,13 @@ Ein vierter Widerspruchstyp ist das Schaufenster-Pattern innerhalb eines einzeln
 ## Ausgabeformat
 
 Der Skill listet jeden erkannten Widerspruch mit den sich widersprechenden Sätzen, dem Widerspruchstyp, der Signalwirkung für eingeweihte Personalverantwortliche und einer Handlungsempfehlung (Klärung beim Aussteller / Nachverhandlung / Klageprüfung). Am Ende folgt eine Gesamteinschätzung der Zeugniskonsistenz (hoch/mittel/niedrig).
+
+## Rechtliche Einordnung und Normen
+
+- **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
+- **§ 109 Abs. 2 GewO** — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig
+
+## Aktuelle Rechtsprechung
+
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung: Note schlechter als befriedigend beweist Arbeitgeber; Note besser als befriedigend beweist Arbeitnehmer; diese Verteilung gilt für alle notenrelevanten Bestandteile.
+- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Arbeitgeber muss Formulierungen wählen, die Fortkommen nicht unnötig erschweren; Berichtigungsanspruch bei Verstoß.

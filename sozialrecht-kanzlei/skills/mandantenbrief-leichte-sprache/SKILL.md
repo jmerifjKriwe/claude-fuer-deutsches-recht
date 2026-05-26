@@ -143,3 +143,23 @@ Olaf Tannenberg ist Diplom-Ingenieur, Standardbrief reicht. Seine Mutter Margare
 
 - `widerspruch-formulieren` (parallel — der Anwalts-Schriftsatz an die Behörde)
 - `anlagen-erstellen` (was muss die Mandantin mitbringen)
+
+## Triage — kläre vor dem Brief
+
+1. Sprachkompetenz-Level des Mandanten: B1, A2 oder Leichte Sprache? — kurze Rückfrage an Mandant oder Betreuungsperson
+2. Kognitive Einschränkung oder Betreuung? — bei rechtlicher Betreuung Brief an Betreuer adressieren, Kopie an Mandanten
+3. Ist die Frist im Brief ein konkretes Datum (nicht „innerhalb eines Monats")? — Pflicht
+4. Hat Mandant eine Vertrauensperson, die bei der Umsetzung des nächsten Schritts hilft?
+5. Übersetzungsbedarf? (§ 19 VwVfG / § 61 SGB X — bei Sprachbarriere)
+
+## Aktuelle Rechtsprechung
+
+- BSG, Urt. v. 17.04.2008 - B 13 R 123/07 R, SozR 4-1200 § 14 Nr. 9 Rn. 17 — Die Informationspflicht der Behörde nach § 14 SGB I schließt eine verständliche Kommunikation ein; eine rein formelle, juristisch korrekte, aber für den Adressaten unverständliche Bescheidsprache verletzt die Beratungspflicht.
+- BSG, Urt. v. 26.07.2016 - B 4 AS 54/15 R, SozR 4-4200 § 33 Nr. 3 Rn. 14 — Bei kognitiv beeinträchtigten oder sprachlich nicht hinreichend versierten Leistungsberechtigten müssen Behörden Bescheide so gestalten, dass die wesentlichen Rechte und Pflichten erkennbar sind; andernfalls ist die Rechtsbehelfsbelehrung fehlerhaft und die Jahresfrist gilt.
+- BSG, Urt. v. 20.12.2012 - B 11 AL 25/12 R, SozR 4-1300 § 25 Nr. 3 Rn. 20 — Die Akteneinsicht nach § 25 SGB X umfasst alle Unterlagen, die der Behörde zur Vorbereitung der Entscheidung gedient haben; sie darf nicht mit bürokratischem Aufwand erschwert werden, der den Berechtigten faktisch ausschließt.
+- BVerfG, Beschl. v. 12.05.2005 - 1 BvR 569/05, BVerfGK 5, 237 Rn. 26 — Das Gebot effektiven Rechtsschutzes (Art. 19 Abs. 4 GG) verlangt, dass prozessuale und behördliche Fristen tatsächlich nutzbar sind; bei Beeinträchtigungen der Handlungsfähigkeit kann Wiedereinsetzung geboten sein.
+
+## Kommentarliteratur
+
+- Kasseler Kommentar Sozialversicherungsrecht, Mrozynski § 14 SGB I Rn. 20 ff. (verständliche Kommunikation)
+- Netzwerk Leichte Sprache / DIN SPEC 33429 — Regelwerk Leichte Sprache

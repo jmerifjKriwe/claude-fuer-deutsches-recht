@@ -99,3 +99,13 @@ Auch fehlende Steigerer sind Information. Wenn ein typischer Steigerer („stets
 ## Ausgabeformat
 
 Der Skill kann zweifach eingesetzt werden. Erstens als Nachschlagewerk: Eingabe eines Adverbs liefert Notenwirkung und Kategorie (Maximalsteigerer, Standardsteigerer, Scheinsteigerer, Abschwaecher, Negativsteigerer, Frequenzadverb). Zweitens als Analysator: Eingabe eines vollstaendigen Zeugnistexts liefert eine Tabelle mit allen erkannten Adverbien, ihren Positionen, ihren Notenwirkungen und besonderen Auslassungen. Die Ausgabe ist Eingangsbasis fuer satzweise-notenmatrix und bereichs-drift-detektor.
+
+## Rechtliche Einordnung und Normen
+
+- **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
+- **§ 109 Abs. 2 GewO** — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig
+
+## Aktuelle Rechtsprechung
+
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung: Note schlechter als befriedigend beweist Arbeitgeber; Note besser als befriedigend beweist Arbeitnehmer; diese Verteilung gilt für alle notenrelevanten Bestandteile.
+- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Arbeitgeber muss Formulierungen wählen, die Fortkommen nicht unnötig erschweren; Berichtigungsanspruch bei Verstoß.

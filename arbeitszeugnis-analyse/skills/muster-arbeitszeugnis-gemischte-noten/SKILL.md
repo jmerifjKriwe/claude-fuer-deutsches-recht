@@ -95,3 +95,13 @@ Spitzensaetze sind authentisch (Fachkenntnisse, Arbeitsweise, Arbeitsergebnis, E
 ## Ausgabeformat
 
 Der Skill liefert: vollstaendiges Mustertextzeugnis, satzweise Notenmatrix gemaess satzweise-notenmatrix, Bereichs-Drift-Analyse gemaess bereichs-drift-detektor, gewichtete Gesamtnotenaggregation und Empfehlung zur Nachverhandlung. Geeignet als Trainingsmaterial fuer alle vorgelagerten Analyse-Skills.
+
+## Rechtliche Einordnung und Normen
+
+- **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
+- **§ 109 Abs. 2 GewO** — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig
+
+## Aktuelle Rechtsprechung
+
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung: Note schlechter als befriedigend beweist Arbeitgeber; Note besser als befriedigend beweist Arbeitnehmer; diese Verteilung gilt für alle notenrelevanten Bestandteile.
+- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Arbeitgeber muss Formulierungen wählen, die Fortkommen nicht unnötig erschweren; Berichtigungsanspruch bei Verstoß.

@@ -250,7 +250,7 @@ Ort, Datum                              [Name, Unterschrift Betreuer/in]
 - Arztbriefe: Kardiologie Vivantes Spandau v. 12.09.2025 (Vorhofflimmern,
   Antikoagulation eingeleitet); Allgemeinmedizin Petersen v. 02.03.2026
 - Heimrechnung: Pflegegrad 4, Eigenanteil 2.341 EUR/Monat, Sozialhilfe ergänzt
-- Kontoauszüge: Anfangsbestand 18.342,12 EUR, Endbestand 16.108,77 EUR
+- Kontoauszüge: Anfangsbestand 18342.12 EUR, Endbestand 16108.77 EUR
 - Wunschäußerung Frau K. (Vermerk v. 24.11.2025): „Möchte am Heiligabend
   bei Tochter Susanne in Potsdam sein" — umgesetzt durch Abholfahrt am
   24.12.2025

@@ -95,3 +95,21 @@ Wartet der Arbeitnehmer zwei Jahre, bevor er das Berichtigungsverlangen erhebt, 
 ## Ausgabeformat
 
 Der Skill liefert: eine Bewertung der Klagbarkeit pro Befund aus der Ampelanalyse (Hoch, Mittel, Niedrig), einen Vorschlag fuer das aussergerichtliche Berichtigungsverlangen mit konkreten Ersatzformulierungen, einen ausformulierten Klageantrag fuer die als klagbar identifizierten Punkte, eine Streitwertschaetzung in Abhaengigkeit vom Monatsbruttogehalt und eine Verfahrensempfehlung (sofortige Klage, Berichtigungsverlangen zuerst, kombinierte Klage mit weiteren Anspruechen).
+
+## Rechtliche Einordnung und Normen
+
+- **§ 109 GewO** — Anspruch auf Berichtigung; Grundlage der Klage
+- **§§ 195, 199 BGB** — Verjährung drei Jahre; beginnt mit Schluss des Ausstellungsjahres
+- **§ 242 BGB** — Verwirkung: Zeitmoment (mehrere Jahre) + Umstandsmoment
+
+## Aktuelle Rechtsprechung
+
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung: Bei Note schlechter als befriedigend trägt der Arbeitgeber die Beweislast; Klage auf Aufwertung von Note 4 auf Note 3 hat daher gute Ausgangslage.
+- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot als Anspruchsgrundlage; Formulierungen, die das Fortkommen erschweren, sind berichtigungspflichtig auch ohne Notenstreit.
+- **BAG, Urt. v. 16.09.1997 — 9 AZR 663/96**, NZA 1998, 253 — Streitwert Zeugnisberichtigung entspricht einem Monatsbruttogehalt; gilt auch bei mehreren Streitpunkten, da Anspruch einheitlich ist.
+- **BAG, Urt. v. 09.09.1992 — 5 AZR 509/91** — Verwirkung des Zeugnisanspruchs: Zeitmoment bei drei bis vier Jahren Untätigkeit; Umstandsmoment wenn Arbeitgeber auf Akzeptanz vertrauen durfte.
+
+## Kommentarliteratur
+
+- ErfK/Müller-Glöge, 25. Aufl. 2025, § 109 GewO Rn. 30-50 (Berichtigungsklage, Beweislast, Streitwert, Verjährung)
+- Schaub Arbeitsrechts-Handbuch/Koch, 20. Aufl. 2023, § 147 Rn. 50 ff. (Klageantrag, Formulierungsanforderungen)
