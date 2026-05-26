@@ -16,7 +16,7 @@ Das Plugin richtet sich an Arbeitnehmer, die ihr eigenes Zeugnis verstehen oder 
 
 1. ZIP herunterladen (Link oben).
 2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
-3. Fertig. Alle 28 Skills sind sofort verfügbar.
+3. Fertig. Alle 31 Skills sind sofort verfügbar.
 
 ## Ampelsystem
 
@@ -32,20 +32,23 @@ Rote Signale entstehen durch: das Wort „bemüht", Einschränkungen wie „im W
 
 ## Enthaltene Skills
 
-Die 28 Skills sind alphabetisch geordnet:
+Die 31 Skills sind alphabetisch geordnet:
 
 | Skill | Funktion |
 |---|---|
 | `/arbeitszeugnis-analyse:ampelsystem-tabellenausgabe` | Standardisiertes Ausgabeformat mit Ampeltabelle (Satz / Ampel / Bewertung / Note / Begründung) |
+| `/arbeitszeugnis-analyse:aufforderungsschreiben-arbeitgeber` | Außergerichtliches Berichtigungsverlangen an den Arbeitgeber mit Wortlaut alt/neu pro Streitstelle |
 | `/arbeitszeugnis-analyse:azubi-zeugnis-analyse` | Ausbildungszeugnisse nach BBiG: Lernfortschritt, Berufsschule, Praxis, Verhalten |
 | `/arbeitszeugnis-analyse:bereichs-drift-detektor` | Erkennt das Schaufenster-Pattern: Spitzensatz und Durchschnittssatz im selben Themenbereich |
 | `/arbeitszeugnis-analyse:branchen-spezifische-formulierungen` | Branchenspezifika für Vertrieb, Recht, IT, Pflege und weitere Bereiche |
+| `/arbeitszeugnis-analyse:erstgespraech-und-mandatsannahme` | Mandatsannahme mit Dank für das Zeugnis, Anforderung der noch fehlenden Unterlagen, Erstgespräch-Leitfaden |
 | `/arbeitszeugnis-analyse:geheimcode-katalog` | Zentraler Referenzkatalog aller Standardformulierungen mit Ampelzuordnung |
 | `/arbeitszeugnis-analyse:gesamtnoten-aggregation` | Aggregation der Einzelbewertungen zur gewichteten Gesamtnote |
 | `/arbeitszeugnis-analyse:gruen-flaggen-katalog` | Katalog aller grünen Signale: Superlative, vollständige Formeln, Note 1-2 |
 | `/arbeitszeugnis-analyse:klage-strategie-zeugnisberichtigung` | Vom Befund zur Klage: Berichtigungsverlangen, Klageantrag, Beweislast, Streitwert |
 | `/arbeitszeugnis-analyse:leitende-positionen-zeugnisse` | Führungskräfte-Zeugnisse: Mitarbeiterführung, Strategie, Loyalität |
 | `/arbeitszeugnis-analyse:leistungsbeurteilung-analyse` | Arbeitsqualität, Arbeitsbereitschaft, Belastbarkeit, Eigeninitiative |
+| `/arbeitszeugnis-analyse:mandantenbericht-zeugnisanalyse` | Ergebnisbericht an den Arbeitnehmer mit Gesamtnote, kritischen Stellen, drei Handlungsoptionen, klarer Empfehlung |
 | `/arbeitszeugnis-analyse:muster-arbeitszeugnis-gemischte-noten` | Schulungsmuster mit Schaufenster-Pattern: 1er- und 3er-Sätze gemischt, vollständige Drift-Analyse |
 | `/arbeitszeugnis-analyse:muster-arbeitszeugnis-mit-roten-flaggen` | Schulungsbeispiel mit gemischten Bewertungen und vollständiger Analyse |
 | `/arbeitszeugnis-analyse:muster-arbeitszeugnis-note-1` | Vollständiges Musterzeugnis Note 1 — alle Bausteine grün |
@@ -77,23 +80,27 @@ Bitte analysiere das folgende Arbeitszeugnis und identifiziere alle notenrelevan
 [Zeugnis hier einfügen]
 ```
 
-Für eine vollständige Analyse empfiehlt sich die Reihenfolge:
-1. `zeugnis-ueberblick-extraktion` — Kopfdaten prüfen
-2. `zeugnisart-erkennung` — Zeugnistyp bestimmen
-3. `notenrelevante-saetze-identifizieren` — Sätze kategorisieren
-4. `steigerungsadverbien-katalog` — Adverbien tabellieren und Notenwirkung bestimmen
-5. `satzweise-notenmatrix` — Note eins bis fünf pro Satz mit Themenzuordnung
-6. `zufriedenheitsformel-decodierung` — Kernformel decodieren
-7. `leistungsbeurteilung-analyse` + `verhaltensbeurteilung-analyse` — Detailanalyse
-8. `schlussformel-bewertung` — Schlussformel bewerten
-9. `negationen-und-auslassungen-erkennen` — Auslassungen prüfen
-10. `negative-codeworte-katalog` — Geheimcodes für Alkohol, Krankheit, Diebstahl, Konflikte, Loyalität prüfen
-11. `bereichs-drift-detektor` — Schaufenster-Pattern prüfen
-12. `widerspruechliche-bewertungen` — Block-Widersprüche prüfen
-13. `ampelsystem-tabellenausgabe` — Gesamttabelle
-14. `gesamtnoten-aggregation` — Gesamtnote berechnen, inkl. Drift-Penalty
-15. `verbesserungsvorschlaege-formulieren` — Aufwertungs-Rewrites pro Satz
-16. `rechtliche-bewertung-bag-rechtsprechung` + `klage-strategie-zeugnisberichtigung` — vom Befund zur Klage
+Für den vollständigen Mandatsablauf empfiehlt sich die Reihenfolge:
+1. `erstgespraech-und-mandatsannahme` — Eingangsbestätigung, Unterlagenanforderung, Erstgespräch
+2. `zeugnis-ueberblick-extraktion` — Kopfdaten prüfen
+3. `zeugnisart-erkennung` — Zeugnistyp bestimmen
+4. `notenrelevante-saetze-identifizieren` — Sätze kategorisieren
+5. `steigerungsadverbien-katalog` — Adverbien tabellieren und Notenwirkung bestimmen
+6. `satzweise-notenmatrix` — Note eins bis fünf pro Satz mit Themenzuordnung
+7. `zufriedenheitsformel-decodierung` — Kernformel decodieren
+8. `leistungsbeurteilung-analyse` + `verhaltensbeurteilung-analyse` — Detailanalyse
+9. `schlussformel-bewertung` — Schlussformel bewerten
+10. `negationen-und-auslassungen-erkennen` — Auslassungen prüfen
+11. `negative-codeworte-katalog` — Geheimcodes für Alkohol, Krankheit, Diebstahl, Konflikte, Loyalität prüfen
+12. `bereichs-drift-detektor` — Schaufenster-Pattern prüfen
+13. `widerspruechliche-bewertungen` — Block-Widersprüche prüfen
+14. `ampelsystem-tabellenausgabe` — Gesamttabelle
+15. `gesamtnoten-aggregation` — Gesamtnote berechnen, inkl. Drift-Penalty
+16. `verbesserungsvorschlaege-formulieren` — Aufwertungs-Rewrites pro Satz
+17. `rechtliche-bewertung-bag-rechtsprechung` — rechtliche Einordnung der Befunde
+18. `mandantenbericht-zeugnisanalyse` — Ergebnisbericht an den Mandanten mit drei Handlungsoptionen
+19. `aufforderungsschreiben-arbeitgeber` — außergerichtliches Berichtigungsverlangen
+20. `klage-strategie-zeugnisberichtigung` — bei fruchtlosem Fristablauf zur Klage
 
 ## Rechtsgrundlagen
 

@@ -1,3 +1,21 @@
+# v12.5.0 — Arbeitszeugnis-Analyse: Vollstaendiger Mandatsablauf
+
+Schliesst den Mandatsworkflow im `arbeitszeugnis-analyse` Plugin: vom Erstkontakt mit dem Mandanten ueber den Ergebnisbericht bis zum Aufforderungsschreiben an den Arbeitgeber. Das Plugin deckt damit nicht nur die Analyse des Zeugnistextes ab, sondern den gesamten Anwaltsworkflow von der Mandatsannahme bis zum Berichtigungsverlangen.
+
+## Neue Skills (drei)
+
+- `erstgespraech-und-mandatsannahme` — Eingangsbestaetigung mit Dank fuer das uebersandte Zeugnis, strukturierte Anforderungsliste fuer fehlende Unterlagen (Arbeitsvertrag, Aenderungsvereinbarungen, Vorzeugnisse, Kuendigungsschreiben, Abmahnungen, Fehlzeitenuebersicht, Lohnabrechnungen), Erstgespraech-Leitfaden in fuenf Bloecken (Sachverhalt, Ziel, Vergleichsbereitschaft, rechtliche Erstinformation, Vereinbarung), Pruefliste vor Mandatsannahme.
+- `mandantenbericht-zeugnisanalyse` — Schriftlicher Ergebnisbericht an den Arbeitnehmer in sieben Abschnitten: Gesamtnote, Befund pro Themenbereich, kritische Einzelstellen mit Wortlaut, rechtliche Einordnung, Erfolgsaussichten in drei Stufen, drei Handlungsoptionen (Akzeptanz, Berichtigungsverlangen, Klage) mit Kosten-Nutzen-Abwaegung, klare Empfehlung. Verstaendliche Sprache fuer den juristischen Laien.
+- `aufforderungsschreiben-arbeitgeber` — Aussergerichtliches Berichtigungsverlangen mit acht Bausteinen: Mandatsanzeige, Bezugnahme auf das Zeugnis, Rechtsgrundlage Paragraf 109 GewO, Beanstandungen pro Streitstelle (Wortlaut alt, Wortlaut neu, Begruendung mit BAG-Rechtsprechung und Geheimcode-Hinweis), Schlussformel-Pruefung, kalendermaessige Fristsetzung, Klageandrohung, Kostenfolge. Hoeflich-bestimmter Ton ohne Drohgebaerden. Vollstaendiger Mustertext mit Beispielen.
+
+## Plugin-Metadaten
+
+- 31 Skills (vorher 28), 20-Schritte-Workflow im README.
+- Plugin-Beschreibung neu gefasst, hebt den vollstaendigen Mandatsablauf hervor.
+- Globaler Versionsbump aller 98 Plugins und der marketplace.json auf 12.5.0.
+
+---
+
 # v12.4.0 — Arbeitszeugnis-Analyse: Sprachhebel, Codeworte, Klagestrategie
 
 Vertiefung des `arbeitszeugnis-analyse` Plugins um drei spezialisierte Sprach- und Recht-Skills: feingranularer Steigerungsadverbien-Katalog, vollstaendiger Katalog negativer Codeworte fuer sensible Themen sowie eine durchgaengige Klagestrategie zur Zeugnisberichtigung von der ausserprozessualen Rueckforderung bis zum vollstreckbaren Tenor.
