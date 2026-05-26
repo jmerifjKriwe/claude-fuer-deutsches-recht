@@ -1,3 +1,14 @@
+# v12.1.0 — Validatorhaertung Plugin-Generator + Versionsbump
+
+## Fix (gegenueber v12.0.0)
+- `forderungsmanagement-klagewerkstatt/scripts/plugin_aus_hausregeln.py`: erzeugte hauseigene Mini-Plugins sind jetzt validatorkonform und sofort in Claude Code installierbar.
+  - plugin.json description gekuerzt von 514 auf 218 Zeichen (Marketplace-Limit 300).
+  - Zahl-Komma-Zahl-Sequenzen `12, 13, 29, 29c` und `23, 71` ersetzt durch `12/13/29/29c` und `23 und 71` (Cowork-Validator-Regel).
+  - Frontmatter-Felder `language`, `license`, `when_to_use` aus erzeugter SKILL.md entfernt; Trigger-Phrasen wurden in die description integriert.
+
+## Bump
+- Alle 98 Plugins, marketplace.json und CHANGELOG auf v12.1.0.
+
 # v12.0.1 — Hotfix forderungsmanagement-klagewerkstatt Plugin-Generator
 
 ## Fix
