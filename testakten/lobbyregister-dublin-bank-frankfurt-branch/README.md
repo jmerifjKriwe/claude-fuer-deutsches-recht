@@ -44,10 +44,13 @@ Muss, darf oder soll die Bank im Lobbyregister einmal oder zweimal erscheinen?
 | [22_kalendereinladung_bundestag.ics](22_kalendereinladung_bundestag.ics) | Kalendereinladung fuer Bundestagstermin |
 | [23_datenschutz_personenfreigabe.md](23_datenschutz_personenfreigabe.md) | Freigaben betrauter Personen fuer Registerdaten |
 | [24_kostenstellen_mapping_dublin_frankfurt.md](24_kostenstellen_mapping_dublin_frankfurt.md) | Kostenstellenmapping Dublin/Frankfurt/Berlin |
+| [25_api_abfrageplan_open_data.md](25_api_abfrageplan_open_data.md) | API-Abfrageplan fuer Dublin/Frankfurt-Dublettencheck |
+| [26_api_mock_response_dublin.json](26_api_mock_response_dublin.json) | Fiktive API-Antwort fuer den veroeffentlichten Dublin-Eintrag |
+| [27_registerexport_diff_dublin.md](27_registerexport_diff_dublin.md) | Diff zwischen Freigabeakte und oeffentlichem API/API-Export |
 
 ## Lernziel
 
-Die Akte zwingt das Plugin, `personen-organisationstyp`, `konzern-netzwerk-plattform`, `erstregistrierung-ausfuellen`, `registereintrag-finalcheck`, `registerfuehrende-stelle-kontakt` und `fristen-und-quartalsmonitor` zusammenzuspielen. Entscheidend ist nicht eine voreilige Antwort, sondern eine saubere Registerpraxis: Primaerentwurf, Streitvermerk, RfS-Anfrage und keine Doppelung ohne Klaerung.
+Die Akte zwingt das Plugin, `personen-organisationstyp`, `konzern-netzwerk-plattform`, `erstregistrierung-ausfuellen`, `registereintrag-finalcheck`, `registerfuehrende-stelle-kontakt`, `suche-open-data-monitor` und `fristen-und-quartalsmonitor` zusammenzuspielen. Entscheidend ist nicht eine voreilige Antwort, sondern eine saubere Registerpraxis: Primaerentwurf, Streitvermerk, RfS-Anfrage, API-Dublettencheck und keine Doppelung ohne Klaerung.
 
 ## Disclaimer
 

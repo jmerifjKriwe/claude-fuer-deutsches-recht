@@ -28,14 +28,24 @@ Den Eintrag vor Absendung wie eine Compliance-Akte gegenlesen.
 
 Vor Freigabe muss geprueft werden, ob mehrere Registerentwuerfe dieselbe juristische Person, dieselben betrauten Personen, dieselben Finanzaufwendungen oder dieselben Regelungsvorhaben doppelt abbilden. Bei Doppelungen: einen Streitvermerk erstellen, Primaerentwurf markieren und eine Anfrage an die registerfuehrende Stelle vorbereiten.
 
+## API- und Export-Nachkontrolle
+
+Der Finalcheck hat zwei Zeitpunkte:
+
+1. **Vor Portalabgabe:** Interne Daten mit `assets/templates/registerdaten-json-mapping.md` JSON-nah auf das oeffentliche Schema mappen. Das Mapping ist nur QA, keine Einreichung.
+2. **Nach Veroeffentlichung:** Oeffentlichen Registereintrag per API V2 oder JSON-Download abrufen und mit `assets/templates/registerexport-diff.md` gegen die Freigabeakte pruefen.
+
+Im Nachcheck mindestens pruefen: Registernummer, Version, Gesetzeslage, Aktivstatus, Name/Rechtstraeger, Adresse, Niederlassungen, betraute Personen, VZAE, Taetigkeitsbeschreibung, Interessenbereiche, Regelungsvorhaben, Stellungnahmen, Auftraggeber, Unterauftragnehmer, Finanzaufwendungen, Zuwendungen, Schenkungen, Berichte, Verhaltenskodex, verweigerte Angaben, verspaetete Aktualisierung und Kodexverstoesse.
+
 - LobbyRG: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html
 - Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-fuer-interessenvertreter-863572
 - Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch
 - Leitplanken: ../../references/lobbyregister-leitplanken.md
+- Open Data/API: ../../references/open-data-api-v2.md
 
 ## Output
 
-Finalcheck-Protokoll mit Gruen/Orange/Rot, Korrekturliste, Freigabeempfehlung und Nachkontrolle.
+Finalcheck-Protokoll mit Gruen/Orange/Rot, Korrekturliste, Freigabeempfehlung, API-Nachkontrollplan und Registerexport-Diff.
 
 ## Qualitaetsgate
 
@@ -43,3 +53,4 @@ Finalcheck-Protokoll mit Gruen/Orange/Rot, Korrekturliste, Freigabeempfehlung un
 - Jede Frist bekommt Triggerdatum, Verantwortliche und Wiedervorlage.
 - Jede Portalangabe bekommt Quelle, Freigabe und offenen Pruefpunkt.
 - Unsichere Rechts- oder Tatsachenfragen werden nicht geglaettet, sondern sichtbar markiert.
+- Jede API-Abweichung wird als rechtlich relevant, technisch relevant oder Anzeige-/Schemaeffekt klassifiziert.

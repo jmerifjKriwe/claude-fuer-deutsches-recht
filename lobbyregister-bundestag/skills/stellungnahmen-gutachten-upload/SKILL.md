@@ -21,6 +21,11 @@ Entscheiden, welche Dokumente in den Bereich Inhalte der Interessenvertretung ge
 1. Wurde ein Dokument an Bundestags- oder Regierungsadressaten gegeben?
 2. Ist es grundlegend oder nur Begleitkommunikation?
 3. In welchem Quartal wurde es versandt?
+4. Wie wird nach dem Upload geprueft, dass Dokument, Regelungsvorhaben und Version oeffentlich richtig erscheinen?
+
+## API-Nachweis nach Upload
+
+Nach dem Portal-Upload soll der Skill eine Nachkontrolle anlegen: oeffentlichen Eintrag per API abrufen, `statements`, `regulatoryProjects`, Version, `sourceDate`, Detailseite und PDF sichern und gegen Versanddatum, Empfaengerkreis, Regelungsvorhaben und Schwärzungsvermerk pruefen. Die API prueft nur den veroeffentlichten Datenstand; sie ersetzt den Portal-Upload nicht.
 
 ## Quellenanker
 
@@ -28,10 +33,11 @@ Entscheiden, welche Dokumente in den Bereich Inhalte der Interessenvertretung ge
 - Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-fuer-interessenvertreter-863572
 - Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch
 - Leitplanken: ../../references/lobbyregister-leitplanken.md
+- Open Data/API: ../../references/open-data-api-v2.md
 
 ## Output
 
-Upload-Log mit Dokumenttitel, Regelungsvorhaben, Versanddatum, Quartalsfrist und Schwärzungsbedarf.
+Upload-Log mit Dokumenttitel, Regelungsvorhaben, Versanddatum, Quartalsfrist, Schwärzungsbedarf und API-Nachweis.
 
 ## Qualitaetsgate
 

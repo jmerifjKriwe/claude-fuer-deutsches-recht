@@ -34,7 +34,10 @@ Die Spreebogen Regulatory GmbH betreut zwei Mandanten zum geplanten Wasserstoffb
 | [21_quartalskalender.ics](21_quartalskalender.ics) | Kalenderdaten fuer Quartalsupload und Unterauftragsreview |
 | [22_anlagenverzeichnis.md](22_anlagenverzeichnis.md) | Anlagenverzeichnis der Registerakte |
 | [23_finalcheck_redteam.md](23_finalcheck_redteam.md) | Red-Team-Notiz zu verbleibenden Risiken |
+| [24_api_monitoringplan_h2.md](24_api_monitoringplan_h2.md) | API-Monitoringplan fuer Auftraggeber, Unterauftrag und Wasserstoffvorhaben |
+| [25_api_mock_search_hansah2_spreebogen.json](25_api_mock_search_hansah2_spreebogen.json) | Fiktive API-Suchergebnisliste HansaH2/Spreebogen |
+| [26_registerexport_diff_quartalsupload.md](26_registerexport_diff_quartalsupload.md) | Diff nach Q2-Upload und Korrektur Auftraggebertext |
 
 ## Lernziel
 
-Diese Akte testet, ob das Plugin Auftraggeber, Unterauftragnehmer, Schwellen, Vorhaben, Stellungnahme-Upload und Finanzdaten auseinanderhaelt.
+Diese Akte testet, ob das Plugin Auftraggeber, Unterauftragnehmer, Schwellen, Vorhaben, Stellungnahme-Upload, Finanzdaten und API-Nachkontrolle auseinanderhaelt.

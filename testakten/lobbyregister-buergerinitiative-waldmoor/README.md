@@ -31,7 +31,10 @@ Die Buergerinitiative Waldmoor 2030 wendet sich gegen eine Bundesfernstrassen-Tr
 | [18_presseanfrage_lokalzeitung.txt](18_presseanfrage_lokalzeitung.txt) | Presseanfrage zur Finanzierung |
 | [19_antwortentwurf_presse.md](19_antwortentwurf_presse.md) | Antwortentwurf an die Lokalzeitung |
 | [20_finalcheck_redteam.md](20_finalcheck_redteam.md) | Red-Team-Notiz zur Kampagnenphase |
+| [21_api_monitoring_notiz_waldmoor.md](21_api_monitoring_notiz_waldmoor.md) | API-Monitoringnotiz vor und nach freiwilliger Registrierung |
+| [22_api_mock_search_waldmoor_pre_registration.json](22_api_mock_search_waldmoor_pre_registration.json) | Fiktive API-Suche ohne Treffer vor Registrierung |
+| [23_registerexport_diff_freiwillig.md](23_registerexport_diff_freiwillig.md) | Geplanter Registerexport-Diff fuer freiwillige Registrierung |
 
 ## Lernziel
 
-Die Akte zeigt, dass Petition und lokale Anliegen nicht automatisch Lobbyregisterpflicht bedeuten, dass aber regelmaessige bundespolitische Einflussnahme mit Organisation, Gutachten und Spendenfinanzierung neu bewertet werden muss.
+Die Akte zeigt, dass Petition und lokale Anliegen nicht automatisch Lobbyregisterpflicht bedeuten, dass aber regelmaessige bundespolitische Einflussnahme mit Organisation, Gutachten und Spendenfinanzierung neu bewertet werden muss. Sie testet ausserdem, dass eine leere API-Suche keine Entwarnung fuer die rechtliche Pflichtpruefung ist.

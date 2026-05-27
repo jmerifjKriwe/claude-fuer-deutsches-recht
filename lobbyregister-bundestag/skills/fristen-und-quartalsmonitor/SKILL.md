@@ -21,6 +21,11 @@ Alle laufenden Lobbyregisterfristen in eine Arbeitssteuerung bringen.
 1. Welche Regelungsvorhaben und Dokumente laufen?
 2. Wann enden Quartale und Geschaeftsjahr?
 3. Welche Portalwarnungen oder RfS-Schreiben liegen vor?
+4. Welche API-Nachkontrolle ist nach Quartalsupload oder Jahresupdate faellig?
+
+## API-Wiedervorlagen
+
+Fuer jede Portalfrist soll der Monitor eine zweite Kontrollfrist setzen: Nach Veroeffentlichung API/API-Export abrufen, `sourceDate` und Version sichern, `updateMissing`, Stellungnahmen, Regelungsvorhaben und Finanzdaten gegen die Freigabeakte pruefen. Bleibt die erwartete Aenderung oeffentlich aus, Eskalation an Portalverantwortliche und Dokumentation im Fristenbuch.
 
 ## Quellenanker
 
@@ -28,10 +33,11 @@ Alle laufenden Lobbyregisterfristen in eine Arbeitssteuerung bringen.
 - Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-fuer-interessenvertreter-863572
 - Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch
 - Leitplanken: ../../references/lobbyregister-leitplanken.md
+- Open Data/API: ../../references/open-data-api-v2.md
 
 ## Output
 
-Fristenbuch mit Trigger, Frist, Vorfrist, Verantwortlichem, Status und Eskalationsregel.
+Fristenbuch mit Trigger, Frist, Vorfrist, Verantwortlichem, Status, API-Nachkontrolle und Eskalationsregel.
 
 ## Qualitaetsgate
 

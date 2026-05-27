@@ -21,6 +21,11 @@ Regelungsvorhaben so konkret eintragen, dass der Einflussgegenstand transparent 
 1. Welche rechtliche Regelung soll eingefuehrt, geaendert, beibehalten oder verhindert werden?
 2. Gibt es Referentenentwurf, Drucksache oder bekannte Initiative?
 3. Wann steht die erste Kontaktaufnahme dazu bevor?
+4. Wie soll das Vorhaben spaeter im oeffentlichen JSON/API-Export wiedergefunden werden?
+
+## API-Suchfaehigkeit
+
+Formuliere Regelungsvorhaben so, dass sie sowohl im Portal als auch spaeter in API/API-Export nachvollziehbar sind: sprechender Titel, Bezug zu Gesetz, Verordnung oder politischer Initiative, keine zu breiten Sammelbegriffe, konsistente Schreibweisen. Fuer Monitoring Suchbegriffe, Varianten und erwartete JSON-Felder `regulatoryProjects` und `statements` notieren.
 
 ## Quellenanker
 
@@ -28,10 +33,11 @@ Regelungsvorhaben so konkret eintragen, dass der Einflussgegenstand transparent 
 - Lobbyregister FAQ: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/informationen-fuer-interessenvertreter-863572
 - Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch
 - Leitplanken: ../../references/lobbyregister-leitplanken.md
+- Open Data/API: ../../references/open-data-api-v2.md
 
 ## Output
 
-Regelungsvorhaben-Karte mit Titel, Ziel, Bezug, Dokumentenlinks, Kontaktstart und Updatepflicht.
+Regelungsvorhaben-Karte mit Titel, Ziel, Bezug, Dokumentenlinks, Kontaktstart, Updatepflicht und API-Suchprofil.
 
 ## Qualitaetsgate
 
