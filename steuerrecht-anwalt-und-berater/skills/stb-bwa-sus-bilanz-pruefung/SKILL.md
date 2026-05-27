@@ -1,13 +1,13 @@
 ---
 name: stb-bwa-sus-bilanz-pruefung
-description: "BWA SuSa Summen- und Saldenliste und Bilanzentwurf einer GmbH oder UG auf insolvenzrechtliche Krisensignale pruefen. Anwendungsfall Steuerberater erstellt Jahresabschluss BWA-Review oder Krisenfrueherkennung und muss Hinweispflicht nach § 102 StaRUG beurteilen. Pruefung Zahlungsunfaehigkeit § 17 InsO Ueberschuldung § 19 InsO Fortbestehensprognose Warn- und Hinweispflicht § 102 StaRUG. BGH-Haftungsrechtsprechung IX ZR 285/14 IX ZR 64/12 IX ZR 104/18. Output Krisensignal-Protokoll Ampel-Bewertung ggf. Pflichthinweis Uebergang zu stb-ueberschuldungspruefung-19-inso."
+description: "BWA SuSa Summen- und Saldenliste und Bilanzentwurf einer GmbH oder UG auf insolvenzrechtliche Krisensignale pruefen. Anwendungsfall Steuerberater erstellt Jahresabschluss BWA-Review oder Krisenfrueherkennung und muss Hinweispflicht nach § 102 StaRUG beurteilen. Pruefung Zahlungsunfaehigkeit § 17 InsO Ueberschuldung § 19 InsO Fortbestehensprognose Warn- und Hinweispflicht § 102 StaRUG. BGH-Haftungsrechtsprechung IX ZR 285/14 IX ZR 64/12 IX ZR 56/22. Output Krisensignal-Protokoll Ampel-Bewertung ggf. Pflichthinweis Uebergang zu stb-ueberschuldungspruefung-19-inso."
 ---
 
 # BWA-, SuSa- und Bilanzprüfung mit Insolvenzreife-Check (§§ 17, 19 InsO, § 102 StaRUG)
 
 ## Kernsachverhalt
 
-Der Steuerberater erstellt regelmäßig BWA, SuSa-Auswertungen und Jahresabschlüsse für GmbH/UG-Mandanten. Dabei ist er strukturell der erste externe Berater, der Krisensignale erkennt. Die BGH-Rechtsprechung (IX ZR 285/14, IX ZR 64/12, IX ZR 104/18) und § 102 StaRUG verpflichten ihn, bei offenkundigen Krisensignalen ausdrücklich zu warnen. Unterlässt er dies, haftet er persönlich für Verschleppungsschäden. Dieser Skill führt die Prüfung systematisch durch und generiert ggf. einen Pflichthinweis.
+Der Steuerberater erstellt regelmäßig BWA, SuSa-Auswertungen und Jahresabschlüsse für GmbH/UG-Mandanten. Dabei ist er strukturell der erste externe Berater, der Krisensignale erkennt. Die BGH-Rechtsprechung (IX ZR 285/14, IX ZR 64/12, IX ZR 56/22) und § 102 StaRUG verpflichten ihn, bei offenkundigen Krisensignalen ausdrücklich zu warnen. Unterlässt er dies, haftet er persönlich für Verschleppungsschäden. Dieser Skill führt die Prüfung systematisch durch und generiert ggf. einen Pflichthinweis.
 
 ## Kaltstart-Rückfragen
 
@@ -173,7 +173,7 @@ dringend die unverzügliche Konsultation eines Fachanwalts für
 Insolvenz-/Sanierungsrecht oder Steuerrecht.
 
 Als Ihr Steuerberater leisten wir mit diesem Schreiben den nach
-BGH IX ZR 285/14, IX ZR 64/12, IX ZR 104/18 obliegenden Hinweis.
+BGH IX ZR 285/14, IX ZR 64/12, IX ZR 56/22 obliegenden Hinweis.
 Eine rechtliche Beurteilung der Antragspflicht ist uns nach § 5 RDG
 nicht erlaubt.
 
@@ -232,8 +232,10 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - BGH II ZR 233/18 = NJW 2020, 1809
 - BGH IX ZR 285/14 = NJW 2017, 1611
 - BGH IX ZR 64/12 (drohende Insolvenzreife)
-- BGH IX ZR 104/18 (Substantiierungslast StB)
+- BGH IX ZR 56/22 (BGH 29.06.2023, NJW 2023, 2775 = ZIP 2023, 1740, Drittschutz Hinweis- und Warnpflicht des Beraters bei moeglichem Insolvenzgrund)
 - BGH II ZR 298/11 = BGHZ 195, 42
 - IDW S 6 (Sanierungskonzept) / IDW S 11 (Insolvenzeröffnungsgründe)
 - K. Schmidt/Herchen, InsO § 17 Rn. 5–35
 - Pape/Schaltke, StaRUG § 102 Rn. 8–35
+
+<!-- AUDIT 27.05.2026 | welle 5c | IX ZR 104/18 (familienrechtlich, NJW 2019, 2770 erfunden) ersetzt durch IX ZR 56/22 (BGH 29.06.2023, NJW 2023, 2775 = ZIP 2023, 1740, Drittschutz Hinweis- und Warnpflicht bei moeglichem Insolvenzgrund) -->
