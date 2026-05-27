@@ -1,3 +1,32 @@
+# v15.0.0 — Lobbyregister, Selbstvertreter, Steuerberater-Werkzeuge und Release-Finalisierung
+
+Version 15 buendelt die nachgelieferten Perplexity-/Klar-Ausbauten mit dem neuen `lobbyregister-bundestag` Plugin und setzt den gesamten Marketplace auf einen einheitlichen Major-Stand.
+
+## Neue und stark ausgebaute Inhalte
+
+- **`lobbyregister-bundestag` neu:** 50 gefuehrte Skills fuer Registrierungspflicht, Ausnahmen, Portal-Eingabeplan, Finanzdaten, Regelungsvorhaben, Stellungnahmen/Gutachten, Verhaltenskodex, Aktualisierung, Bussgeldrisiken, RfS-Kommunikation und Revisionsspur.
+- **Open Data/API V2 im Lobbyregister:** eigene Referenz, API-Abfrageplan, JSON-Mapping, Registerexport-Diff und Monitoringplan. Die API wird bewusst als lesende Kontrollschicht gefuehrt; Registrierung und Aktualisierung bleiben Portalhandlungen.
+- **Drei Lobbyregister-Testakten:** Dublin-Bank mit Frankfurter Zweigniederlassung und Doppelregistrierungsproblem, Public-Affairs-Agentur Wasserstoff, Buergerinitiative Waldmoor. Alle drei enthalten API-/Export-Diff-Artefakte.
+- **Selbstvertreter-Plugins:** Amtsgericht und Sozialgericht sind auf `main` integriert und in die Marketplace-/Release-Struktur aufgenommen.
+- **Steuerberater-Werkzeuge:** `steuerrecht-anwalt-und-berater` enthaelt die neuen StB-Skills fuer BWA, SuSa, Lohn, Jahresabschluss, DBA, Mandantenkommunikation und Software-/Portalroutinen.
+- **Audit-Fixes:** Halluzinations- und Aktenzeichen-Reparaturwellen aus den v14.2.x Hotfixes sind mitenthalten.
+
+## Release-Stand
+
+- 100 Plugins
+- 2175 `SKILL.md`
+- 49 Testakten
+- alle `plugin.json` und `.claude-plugin/marketplace.json` auf Version `15.0.0`
+
+## Qualitaetssicherung
+
+- `node scripts/validate-plugin-structure.mjs`
+- `git diff --check`
+- JSON-Parsing der neuen Lobbyregister-Testakten
+- Release-ZIP-Validierung ueber `scripts/validate-release-zips.py` im Build/Workflow
+
+---
+
 # v14.2.0 — Vollumfaenglicher Wissensboost ueber alle 1800+ Skills
 
 Inhaltlicher Tiefenboost ueber alle 97 Plugins und ueber 1800 Skills. Jeder bearbeitete Skill bekommt eine konkrete Triage zum Mandatseinstieg, eine vollstaendige Paragrafenkette mit Wortlaut der zentralen Tatbestandsmerkmale, zwei bis vier aktuelle Leitsatz-Zitate aus BVerfG BGH BAG BFH BSG BVerwG EuGH oder OLG mit Aktenzeichen und Fundstelle, Hinweise auf die zentrale Kommentarliteratur des Rechtsgebiets, einen Schritt-fuer-Schritt-Workflow und ein passendes Output-Template fuer Schriftsatz Bescheid Beschluss oder Mandantenbrief. Strukturelle Bereinigung Plugin sozialrecht-kanzlei vollstaendig nach fachanwalt-sozialrecht uebernommen und alte Light-Touch-Selbstbezeichnung entfernt.
