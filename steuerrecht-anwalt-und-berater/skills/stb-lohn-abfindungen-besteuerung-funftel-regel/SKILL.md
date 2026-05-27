@@ -34,7 +34,7 @@ Abfindungen aus Anlass der Beendigung des Arbeitsverhaeltnisses sind aussergewoe
 
 **SvEV § 1 Abs. 1 Nr. 16** — SV-Behandlung Abfindungen.
 
-### Leitentscheidungen (Aktenzeichen vor Uebernahme in juris/beck-online verifizieren)
+### Leitentscheidungen (Aktenzeichen vor Uebernahme in juris/beck-online pruefen)
 
 - BFH-Linie zur Zusammenballung von Einkuenften: stetige Rechtsprechung seit den 1990er Jahren; gefestigte Praxis im Schmidt-EStG-Kommentar und in Blumich/Renner § 34 EStG nachvollziehbar. Aktenzeichen wie BFH IX R 47/14 nur nach Verifizierung benutzen.
 - BSG-Linie zu echter vs. unechter Abfindung im SV-Recht: vor Uebernahme aktuelle Entscheidungen in juris pruefen.
@@ -84,7 +84,7 @@ Die Fuenftel-Regelung mindert die Steuerprogression — bei vollstaendiger Wirku
 
 - DATEV LODAS: Abfindung mit Lohnart "Sonstige Bezuege ermaessigt" buchen.
 - Achtung Reform: Mit dem Wachstumschancengesetz wurde der Lohnsteuer-Abzug der Fuenftel-Regelung im Lohnsteuer-Verfahren ab 2025 gestrichen (Verifikation 2026 ueber aktuelles BMF-Schreiben zur Lohnsteuer-Ermittlung); seither erfolgt die Fuenftel-Anwendung nur noch in der Veranlagung beim AN. AG sollte AN zur Einkommensteuererklaerung anhalten.
-- LSt-Bescheinigung in Zeile 10 ("Ermaessigt besteuerter Arbeitslohn fuer mehrere Jahre") — gilt fuer die Zuordnung zur Kennzahl; konkretes Feld bei jedem LSt-Update verifizieren.
+- LSt-Bescheinigung in Zeile 10 ("Ermaessigt besteuerter Arbeitslohn fuer mehrere Jahre") — gilt fuer die Zuordnung zur Kennzahl; konkretes Feld bei jedem LSt-Update pruefen (Bescheinigungsmuster BMF).
 
 ## Output
 
@@ -114,6 +114,8 @@ Stand: 05/2026.
 - EStG §§ 19, 24 Nr. 1, 34.
 - SGB IV § 14.
 - SvEV § 1.
-- BFH-Linie zur Zusammenballung der Einkuenfte (stetige Rechtsprechung, vgl. Schmidt/EStG, Blumich/EStG zu § 34 EStG; konkrete Aktenzeichen vor Uebernahme in juris/beck-online verifizieren).
-- BSG-Linie zur SV-Einordnung echter vs. unechter Abfindungen (konkrete Aktenzeichen verifizieren).
+- BFH-Linie zur Zusammenballung der Einkuenfte (stetige Rechtsprechung, vgl. Schmidt/EStG, Blumich/EStG zu § 34 EStG; konkrete Aktenzeichen vor Uebernahme in juris/beck-online pruefen).
+- BSG-Linie zur SV-Einordnung echter vs. unechter Abfindungen (aktuelle Entscheidungen vor Uebernahme in juris pruefen).
 - Wachstumschancengesetz vom 27.03.2024 (BGBl. 2024 I Nr. 108): Streichung der Fuenftel-Regelung im Lohnsteuer-Abzugsverfahren ab dem Veranlagungszeitraum 2025; Anwendung der Fuenftel-Regelung nur noch in der Veranlagung beim AN.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 0 bestaetigt (Fundstelle/Datum), 4 ersetzt (Hinweis auf Pruefung in juris/beck-online neu formuliert) -->

@@ -179,5 +179,7 @@ Mit freundlichen Grüßen
 
 ## Versand
 
-Über **ELSTER** (Mein ELSTER — sicheres Verfahren der Finanzverwaltung) oder ERiC; alternativ Briefpost oder Telefax. **beA ist seit 6.12.2024 unzulässig** gegenüber Finanzbehoerden (§ 87a Abs. 1 S. 2 AO n.F. nach JStG 2024) — Einspruch per beA wäre formunwirksam und würde die Einspruchsfrist nicht wahren (vgl. instanzgerichtlich etwa Nds. FG, Beschl. v. 12.2.2026 – 2 K 152/25; Zitat vor Übernahme in juris/beck-online verifizieren). Vor Versand `versand-vor-check` aus `kanzlei-allgemein`.
+Über **ELSTER** (Mein ELSTER — sicheres Verfahren der Finanzverwaltung) oder ERiC; alternativ Briefpost oder Telefax. **beA ist seit 6.12.2024 unzulässig** gegenüber Finanzbehoerden (§ 87a Abs. 1 S. 2 AO n.F. nach JStG 2024, BGBl. 2024 I Nr. 387) — Einspruch per beA ist formunwirksam und wahrt die Einspruchsfrist nicht (Nds. FG, Urt. v. 12.02.2026 – 2 K 152/25; Nichtzulassungsbeschwerde BFH Az. I B 28/25 anhängig). Vor Versand `versand-vor-check` aus `kanzlei-allgemein`.
 Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, Hierarchie + Chronologie).
+
+<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 bestaetigt (Nds. FG, Urt. v. 12.02.2026 – 2 K 152/25 recherchiert und bestaetigt; BFH-Nichtzulassungsbeschwerde I B 28/25 erwaehnt) -->

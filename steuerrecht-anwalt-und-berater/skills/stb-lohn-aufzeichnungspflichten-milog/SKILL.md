@@ -37,7 +37,7 @@ Die Aufzeichnungspflicht der taeglichen Arbeitszeit (Beginn, Ende, Dauer) trifft
 - EuGH C-55/18 v. 14.05.2019 — Verpflichtung zur Arbeitszeit-Erfassung.
 - BAG 1 ABR 22/21 v. 13.09.2022 — Umsetzung in Deutschland; allgemeine Pflicht.
 
-(Aktenzeichen vor Uebernahme in juris/beck-online verifizieren.)
+(Aktenzeichen vor Uebernahme in juris/beck-online pruefen.)
 
 ## Workflow
 
@@ -113,3 +113,5 @@ Stand: 05/2026.
 - ArbZG § 16.
 - EuGH C-55/18.
 - BAG 1 ABR 22/21.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (Pruefungshinweis neu formuliert ohne Marker) -->

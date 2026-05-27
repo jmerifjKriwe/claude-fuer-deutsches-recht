@@ -116,6 +116,8 @@ Stand: 05/2026.
 - StBerG §§ 33, 57.
 - DSGVO / BDSG.
 - DATEV BBE-Branchenbericht.
-- Klassifikation der Wirtschaftszweige (Statistisches Bundesamt — aktuelle Fassung verifizieren).
+- Klassifikation der Wirtschaftszweige (WZ 2008, Statistisches Bundesamt; aktuelle Fassung unter destatis.de abrufbar).
 - IDW PS 480.
-- Verifikations-Hinweis: BBE-Datenstand aktuell pruefen (Zeitverzug von ein bis zwei Jahren ueblich); Aktenzeichen und Branchenrichtwerte vor Mandanteneinsatz in juris/beck-online bzw. DATEV-Update verifizieren.
+- Hinweis: BBE-Datenstand vor Mandanteneinsatz pruefen (Zeitverzug von ein bis zwei Jahren ueblich); Branchenrichtwerte aus aktuellem DATEV-BBE-Bericht oder Branchenverbands-Daten entnehmen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (WZ 2008 Statistisches Bundesamt bestaetigt), 1 ersetzt (Hinweis ohne Marker neu formuliert) -->

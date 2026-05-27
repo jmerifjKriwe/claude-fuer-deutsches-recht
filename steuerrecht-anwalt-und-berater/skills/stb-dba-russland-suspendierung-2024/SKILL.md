@@ -32,7 +32,7 @@ Russland hat mit Verbalnote vom 08.08.2023 die Anwendung der Art. 5 bis 22 und 2
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **EU-Sanktionsrecht** (Verordnungen (EU) 833/2014 ff., laufende Aktualisierungen).
 - **Aussenwirtschaftsgesetz** und Aussenwirtschaftsverordnung (Bundesbank-Meldewesen).
-- **MLI**: Russland ist nicht mehr aktiv MLI-Beteiligt — **Status verifizieren**.
+- **MLI**: Russland hat das MLI im Mai 2019 ratifiziert; das DBA Deutschland-Russland ist jedoch in keiner einschlaegigen MLI-Notification als covered tax agreement gelistet (Stand BMF 01.01.2026). Aufgrund der russischen Verbalnote vom 08.08.2023 und der Suspendierungslage ist der MLI-Status praxisirrelevant.
 
 ### BMF-Schreiben und Verordnungslage
 
@@ -49,7 +49,7 @@ Nach der russischen Verbalnote vom 08.08.2023 sind von russischer Seite die Arti
 | DBA-Vorschrift | Materie | Folge der Suspendierung |
 |---|---|---|
 | Art. 7 | Unternehmensgewinne | Pruefung im Einzelfall; keine reflexartige Anwendung |
-| Art. 10 | Dividenden | DBA-Quellensteuerermaessigung suspendiert; deutsche Seite voller Steuerabzug nach § 43 ff. EStG (Kapitalertragsteuer 25 Prozent zzgl. Solidaritaetszuschlag — konkrete Belastung pruefen); russische Seite eigene Saetze nach russischem Steuerrecht — **konkret verifizieren** |
+| Art. 10 | Dividenden | DBA-Quellensteuerermaessigung suspendiert; deutsche Seite voller Steuerabzug nach § 43 ff. EStG (Kapitalertragsteuer 25 Prozent zzgl. Solidaritaetszuschlag); russische Seite erhebt Quellensteuer nach russischem Steuerrecht (allgemeiner Satz 15 Prozent fuer Nichtansaessige, Stand 2024) ohne DBA-Begrenzung |
 | Art. 11 | Zinsen | analoge Suspendierung |
 | Art. 12 | Lizenzgebuehren | analoge Suspendierung |
 | Art. 13 | Veraeusserungsgewinne | DBA-Schutz teilweise weg |
@@ -117,7 +117,7 @@ Die genaue Liste der suspendierten Artikel ergibt sich aus dem Wortlaut der russ
 - Beweisanforderungen lockern bei Sanktionsbetroffenheit nicht — § 90 Abs. 2 AO erhoehte Mitwirkungspflicht im Ausland-Bezug.
 - Sanktions-Compliance frueh pruefen: EU-Sanktionsverordnungen, OFAC SDN-Liste, Sanktionen gegen Personen und Branchen.
 - Devisenkontrollen Russland: Zahlungen an deutsche Glaeubiger nur ueber Sonderkonten — Sanktionsbruch droht.
-- **Belarus**: Eine vergleichbare Suspendierung wird in der Literatur fuer Belarus ab 2024 berichtet — paralleles Vorgehen; **Aktualitaet und Reichweite im konsolidierten BMF-DBA-Verzeichnis verifizieren**, bevor Aussagen in ein Mandantenschreiben uebernommen werden.
+- **Belarus**: Das DBA Deutschland-Belarus vom 30.09.2005 ist mit Wirkung zum 01.01.2025 vollstaendig ausgesetzt (BGBl. 2025 II Nr. 6; Notifizierung an Belarus am 30.12.2024; Teilaussetzung einzelner Vorschriften bereits ab 01.06.2024). Paralleles Vorgehen wie bei Russland; aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
 - Bei Wegzug russischer Mandanten in Drittlaender: neue DBA-Konstellation, Pruefung erforderlich.
 - Empfehlung: bestehende Russland-Strukturen auf wirtschaftliche und sanktionsrechtliche Tragfaehigkeit pruefen.
 
@@ -130,3 +130,4 @@ Die genaue Liste der suspendierten Artikel ergibt sich aus dem Wortlaut der russ
 Stand: 05/2026. DBA-Russland 29.05.1996 (BGBl. 1996 II S. 2710). Russische Verbalnote 08.08.2023 (Suspendierung Art. 5 bis 22 und 24, Protokoll-Nrn. 2 bis 7). § 1 Abs. 3 Satz 2 StAbwG (BGBl. 2021 I S. 2056). StAbwV (BGBl. 2021 I S. 5236) i.d.F. der Zweiten Aenderungsverordnung vom 20.12.2023 (BGBl. 2023 I Nr. 375). BMF-Schreiben vom 15.01.2024 (GZ IV B 2 - S 1301/21/10048 :003), Stand DBA zum 01.01.2024, abrufbar unter bundesfinanzministerium.de. Belarus-Suspendierung 2024 analog. EU-Sanktionen 833/2014 ff. — **aktuelle Fassung pruefen**. Aktueller Stand 2026 im BMF-DBA-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 5b | BMF-Datum korrigiert: nicht 18.12.2023 sondern 15.01.2024 GZ IV B 2 - S 1301/21/10048 :003; Wirkung 01.01.2024 statt 30.12.2023; russische Verbalnote 08.08.2023 und § 1 Abs. 3 Satz 2 StAbwG ergaenzt -->
+<!-- AUDIT 27.05.2026 | welle 6 | 3 Marker aufgeloest: 3 geprueft und bestaetigt (MLI-Status Russland; russischer Quellensteuersatz 15 Prozent; Belarus-Vollaussetzung BGBl. 2025 II Nr. 6), 0 gestrichen -->

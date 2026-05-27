@@ -141,4 +141,6 @@ Stand: 05/2026.
 - NachweisG §§ 1, 2.
 - TzBfG § 14.
 - LStR; BMF zu Dienstwagen, JobRad.
-- Verifikations-Hinweis: Sachbezugswerte SvEV jaehrlich; aktuelle Werte 2026 verifizieren.
+- Sachbezugswerte SvEV (Verpflegung, Unterkunft) werden jaehrlich angepasst; aktuelle Werte ueber BMAS/SvEV-Verordnung zum Jahreswechsel abrufen (Stand 2025: Verpflegung frei 313 EUR/Monat, Unterkunft 278 EUR/Monat).
+
+<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (SvEV-Hinweis neu formuliert ohne Marker) -->

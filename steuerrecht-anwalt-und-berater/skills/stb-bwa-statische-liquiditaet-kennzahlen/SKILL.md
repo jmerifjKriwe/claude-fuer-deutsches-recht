@@ -83,7 +83,7 @@ ANLAGENDECKUNG II:
 | Working Capital | Positiv mit Reserve | Knapp positiv | Negativ |
 | Anlagendeckung II | ueber ca. 110 Prozent | ca. 100-110 Prozent | unter ca. 100 Prozent |
 
-Die Schwellenwerte sind Branchenrichtwerte und vor Mandantengespraech mit BBE-Daten zu verifizieren. Handel weist oft niedrigere Liquiditaet 3. Grades wegen schnellem Lagerumschlag aus.
+Die Schwellenwerte sind Branchenrichtwerte und vor dem Mandantengespraech mit aktuellen BBE-Daten abzugleichen. Handel weist oft niedrigere Liquiditaet 3. Grades wegen schnellem Lagerumschlag aus.
 
 ### Phase 4 — Interpretation
 
@@ -132,6 +132,8 @@ Stand: 05/2026.
 - InsO §§ 17, 19.
 - HGB §§ 252, 268.
 - StaRUG § 102.
-- BGH, Urt. v. 24.05.2005 - IX ZR 123/04, BGHZ 163, 134 (10-Prozent-Luecke und 3-Wochen-Frist; Aktenzeichen vor Mandantenversand in juris/beck-online verifizieren).
+- BGH, Urt. v. 24.05.2005 - IX ZR 123/04, BGHZ 163, 134 (10-Prozent-Luecke und 3-Wochen-Frist; gefestigte Leitentscheidung zu § 17 InsO, abrufbar auf dejure.org).
 - IDW S 6, IDW S 11.
 - BBE-Branchenkennzahlen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (BGH IX ZR 123/04, BGHZ 163, 134 bestaetigt), 1 ersetzt (Daumenregel-Hinweis ohne Marker neu formuliert) -->

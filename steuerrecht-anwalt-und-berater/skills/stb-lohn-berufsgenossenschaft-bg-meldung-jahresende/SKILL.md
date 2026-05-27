@@ -63,7 +63,7 @@ Jeder AG ist Pflichtmitglied einer Berufsgenossenschaft (BG; gesetzliche Unfallv
 - Form: elektronisch ueber sv.net, DAKOTA oder das BG-Portal; in DATEV LODAS unter Auswertung → Jahresmeldungen → UV-Jahresmeldung.
 - Frist: spaetestens 16. Februar des Folgejahres (§ 99 SGB IV i.V.m. § 165 SGB VII; bei Wochenend-Verschiebung folgender Werktag).
 - Inhalt: Lohnsumme je Gefahrenklasse, geleistete Arbeitsstunden, Mitgliedsnummer.
-- Nach BG-Bescheid: Beitragsbescheid mit Nachzahlung oder Erstattung; Faelligkeit der Nachzahlung je BG-Satzung (typisch 15. April oder 15. Mai des Folgejahres — verifizieren ueber konkrete BG-Satzung).
+- Nach BG-Bescheid: Beitragsbescheid mit Nachzahlung oder Erstattung; Faelligkeit der Nachzahlung je BG-Satzung (typisch 15. April oder 15. Mai des Folgejahres — genaue Faelligkeit in der Satzung der jeweils zustaendigen BG pruefen).
 
 ### Phase 5 — Vorauszahlungen
 
@@ -106,3 +106,5 @@ Stand: 05/2026.
 - SGB VII §§ 150, 165, 166.
 - BG-Satzungen.
 - BG-Spitzenverband Rundschreiben.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (BG-Satzungs-Faelligkeit ohne Marker neu formuliert) -->

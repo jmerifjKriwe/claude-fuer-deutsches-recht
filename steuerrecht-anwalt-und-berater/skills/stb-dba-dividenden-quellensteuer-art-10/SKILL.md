@@ -35,11 +35,11 @@ Dividenden grenzueberschreitend gezahlt: Quellenstaat behaelt Quellensteuer ein 
 ### Leitentscheidungen und BMF-Schreiben
 - EuGH C-504/16 / C-613/16 (Deister Holding/Juhler) — § 50d Abs. 3 EStG EU-rechtswidrig (alte Fassung).
 - BVerfG-Folgewirkungen, AbzStEntModG-Reform 2021.
-- BFH I R 70/15 zu Schachtelvoraussetzungen — **verifizieren**.
-- BMF-Schreiben zu § 43b EStG / Mutter-Tochter-Richtlinie — **verifizieren**.
-- BMF-Schreiben zu § 50j EStG — **verifizieren**.
+- Aktuelle BFH-Rechtsprechung zu Schachtelvoraussetzungen in juris abrufen.
+- BMF-Schreiben zu § 43b EStG / Mutter-Tochter-Richtlinie — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
+- BMF-Schreiben zu § 50j EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
-## DBA-Hoechstsaetze (Uebersicht — alle **konkret im DBA verifizieren**)
+## DBA-Hoechstsaetze (Uebersicht — alle Saetze und Schwellen konkret im DBA-Text pruefen)
 
 | DBA | Schachtelsatz (typ. 10 oder 25 Prozent Beteiligung) | Streubesitz | Schwelle |
 |---|---|---|---|
@@ -108,4 +108,6 @@ Dividenden grenzueberschreitend gezahlt: Quellenstaat behaelt Quellensteuer ein 
 
 ## Quellen und Updates
 
-Stand: 05/2026. Art. 10 OECD-MA. § 43 ff. EStG, § 43b EStG, § 50c EStG, § 50d Abs. 3 EStG, § 50j EStG, § 8b KStG. MTRL 2011/96/EU. EuGH C-504/16 / C-613/16. AbzStEntModG 2021. **DBA-spezifische Hoechstsaetze und Schwellen sowie aktuelle BMF-Schreiben zu § 50d Abs. 3 EStG vor Uebernahme in juris/beck-online verifizieren.**
+Stand: 05/2026. Art. 10 OECD-MA. § 43 ff. EStG, § 43b EStG, § 50c EStG, § 50d Abs. 3 EStG, § 50j EStG, § 8b KStG. MTRL 2011/96/EU. EuGH C-504/16 / C-613/16 (Deister/Juhler, 20.12.2017). AbzStEntModG 2021 (BGBl. 2021 I S. 1259). DBA-spezifische Hoechstsaetze und Schwellen sowie aktuelle BMF-Schreiben zu § 50d Abs. 3 EStG im BMF-Veroeffentlichungsverzeichnis abrufen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 0 belegt (alle Az nicht belegbar), 5 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->

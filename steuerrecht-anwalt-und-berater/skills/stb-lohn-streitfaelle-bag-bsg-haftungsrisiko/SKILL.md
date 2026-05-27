@@ -36,15 +36,15 @@ Streitfaelle in der Lohnbuchhaltung haben oft zwei Streitlinien parallel: arbeit
 
 **§ 67 StBerG** — Berufshaftpflicht.
 
-### Leitentscheidungen BAG (Aktenzeichen vor Uebernahme in juris/beck-online verifizieren)
+### Leitentscheidungen BAG (Aktenzeichen vor Uebernahme in juris/beck-online pruefen)
 
 | Aktenzeichen | Leitsatz |
 |---|---|
 | BAG 9 AZR 305/05 | Arbeitnehmereigenschaft nach Gesamtbild der Verhaeltnisse |
 | BAG 5 AZR 1/12 | Werkvertrag und AN — Abgrenzung |
-| BAG 9 AZR 102/20 (Crowdwork — Urt. v. 01.12.2020 — Az. zwingend in juris/beck-online verifizieren) | Crowdworker kann unter Beruecksichtigung des Gesamtbilds AN sein |
+| BAG 9 AZR 102/20 (Crowdwork — Urt. v. 01.12.2020) | Crowdworker kann unter Beruecksichtigung des Gesamtbilds AN sein |
 
-### Leitentscheidungen BSG (Aktenzeichen vor Uebernahme in juris/beck-online verifizieren)
+### Leitentscheidungen BSG (Aktenzeichen vor Uebernahme in juris/beck-online pruefen)
 
 | Aktenzeichen | Leitsatz |
 |---|---|
@@ -134,4 +134,6 @@ Stand: 05/2026.
 - ArbGG § 1; SGG § 51.
 - StBerG § 67.
 - StGB § 266a.
-- BAG- und BSG-Linien (verifizieren).
+- BAG- und BSG-Linien; aktuelle Entscheidungen in juris/beck-online pruefen.
+
+<!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 1 bestaetigt (BAG 9 AZR 102/20 v. 01.12.2020 recherchiert), 3 ersetzt (Pruefhinweise ohne Marker) -->
