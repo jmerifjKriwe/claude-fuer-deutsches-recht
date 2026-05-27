@@ -96,19 +96,18 @@ i.S.d. § 823 Abs. 2 BGB ist. Neugläubiger können ihren vollen
 Vertrauensschaden ersetzt verlangen; Altgläubiger sind auf den Quotenschaden
 beschränkt (BGHZ 126, 181, 190 ff.).
 
-**BGH, Urt. v. 19.12.2017 – II ZR 234/18, NZG 2020, 1116 Rn. 17–23:**
-Der II. Zivilsenat konkretisiert die Dreiwochen­frist: Sie beginnt in dem
-Moment, in dem der Geschäftsführer die Zahlungsunfähigkeit kannte oder bei
-pflichtgemäßer Sorgfalt hätte kennen müssen. Bloße Sanierungsverhandlungen
-hemmen den Fristlauf nicht; erforderlich ist ein belastbares Sanierungskonzept
-mit konkreter Erfolgsaussicht (Rn. 20). Der Fristbeginn ist **objektiv** zu
-bestimmen.
+**BGH, Urt. v. 19.12.2017 – II ZR 88/16, BGHZ 217, 129:**
+Der II. Zivilsenat konkretisiert die Feststellung der Zahlungsunfähigkeit
+anhand einer Liquiditätsbilanz. Fällige Verbindlichkeiten sind einzubeziehen;
+der Dreiwochenzeitraum dient nur der Abgrenzung einer vorübergehenden
+Zahlungsstockung. Für den Workflow heißt das: nicht auf eine Schonfrist
+vertrauen, sondern Eintritt und Erkennbarkeit des Insolvenzgrundes sofort
+dokumentieren.
 
-**BGH, Urt. v. 14.05.2012 – II ZR 88/22 [Hinweis: unterschiedl. Az.]:**
-Zu § 64 GmbHG a.F. / § 15b InsO: Zur Erstattungspflicht für verbotene
-Zahlungen nach Insolvenzreife; subjektive Kenntnis des Geschäftsführers ist
-nicht Tatbestandsvoraussetzung — maßgeblich ist objektiver Eintritt der
-Insolvenzreife.
+**BGH, Urt. v. 14.05.2012 – II ZR 130/10:**
+Zur Insolvenzverschleppungshaftung und zum Neugläubigerschaden; für den
+subjektiven Tatbestand genügt die Erkennbarkeit der Insolvenzreife, die im
+Ausgangspunkt vermutet wird.
 
 **BGH, Urt. v. 29.01.2013 – IX ZR 88/11, NJW 2013, 940 Rn. 15–19:**
 Zum Verschulden bei Antragspflichtverletzung: Der Geschäftsführer muss die
@@ -251,7 +250,7 @@ Ein Insolvenzantrag wird erst am 02.06.2026 gestellt.
 Der Fristbeginn ist objektiv. Es genügt, dass der Geschäftsleiter bei
 pflichtgemäßer Sorgfalt — d.h. bei Führung einer ordnungsgemäßen Buchhaltung
 und zeitnäher Aufstellung von Liquiditätsplänen — den Eröffnungsgrund hätte
-erkennen können (BGH II ZR 234/18 Rn. 20). Faktische Unkenntnis infolge
+erkennen können (BGH II ZR 88/16; BGH II ZR 130/10). Faktische Unkenntnis infolge
 mangelhafter interner Kontrolle schützt nicht.
 
 **2. Sanierungsverhandlungen hemmen den Fristlauf nicht automatisch**
@@ -291,8 +290,10 @@ Bei jeder Ausgabe zu diesem Skill sind mindestens folgende Belege anzugeben:
 
 - BGH, Urt. v. 06.06.1994 – II ZR 292/91, BGHZ 126, 181
   (Antragspflicht-Haftung, Schutzgesetz, Vertrauensschaden Neugläubiger)
-- BGH, Urt. v. 19.12.2017 – II ZR 234/18, NZG 2020, 1116 Rn. 17 ff.
-  (Dreiwochen­frist, Fristbeginn)
+- BGH, Urt. v. 19.12.2017 – II ZR 88/16, BGHZ 217, 129
+  (Zahlungsunfähigkeit, Liquiditätsbilanz, Passiva II)
+- BGH, Urt. v. 14.05.2012 – II ZR 130/10
+  (Insolvenzverschleppungshaftung, Erkennbarkeit der Insolvenzreife)
 - BGH, Urt. v. 29.01.2013 – IX ZR 88/11, NJW 2013, 940 Rn. 15 ff.
   (Verschulden, Aufklärungspflicht)
 - BGH, Urt. v. 06.06.2023 – II ZR 88/22, NJW 2023, 3164 Rn. 22 ff.

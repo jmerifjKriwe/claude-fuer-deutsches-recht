@@ -51,15 +51,10 @@ keine konkrete Position zu den schwierigen Entscheidungspunkten.
 - EuGH, Urt. v. 07.12.2023 – C-634/21, NJW 2024, 126 (Schufa-Score):
   Richtlinie muss Art. 22 Abs. 3 DSGVO-Widerspruchsrecht bei automatisierten
   Entscheidungen operationalisieren.
-- EuGH, Urt. v. 04.10.2024 – C-203/22 (Dun & Bradstreet): Offenlegungspflicht
-  bei algorithmischen Entscheidungen in verständlicher Sprache; maßgeblich
-  für den Transparenz-Abschnitt einer Richtlinie.
+- EuGH, Urt. v. 27.02.2025 - C-203/22 (Dun & Bradstreet Austria), NJW 2025, 1471: Art. 15 Abs. 1 lit. h DSGVO verlangt aussagekraeftige Informationen zur involvierten Logik automatisierter Bonitaetsbeurteilungen; Geschaeftsgeheimnisse sind im Einzelfall zu schuetzen.
 - BAG, Urt. v. 13.01.2004 – 9 AZR 603/02, NZA 2004, 784: Mitbestimmungs-
   pflicht bei technischen Überwachungssystemen; gilt auch für KI-basierte
   Mitarbeiterbewertung.
-- BGH, Urt. v. 19.06.2018 – VI ZR 184/17, NJW 2018, 2877: Interne
-  Organisationspflichten bei technischen Systemen; übertragbar auf
-  KI-Governance-Richtlinien.
 
 **Kommentare**
 

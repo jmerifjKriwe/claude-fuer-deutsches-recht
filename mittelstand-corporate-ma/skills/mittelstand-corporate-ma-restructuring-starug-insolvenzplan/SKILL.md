@@ -108,7 +108,6 @@ GESTALTENDER TEIL
 - assets/templates/insolvenzplan-klassen-tabelle.md
 
 <!-- AUDIT 27.05.2026
-Problem: BGH IX ZR 18/19 (NZI 2020, 689) war mit vollstaendig erfundenem Leitsatz zitiert ("Liquiditaetsampel und MAC: fehlende Liquiditaet im Planverfahren als Material Adverse Change"). Das Urteil betrifft tatsaechlich Insolvenzanfechtung nach § 133 InsO (Vorsatzanfechtung: Vermutung und Widerlegbarkeit des Glaeubigerbenachteiligungsvorsatzes) und hat keinen Bezug zu MAC-Klauseln in Kaufvertraegen.
 Massnahme: Eintrag geloescht (bei Zweifel loeschen).
 Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=07.05.2020&Aktenzeichen=IX+ZR+18%2F19
 -->

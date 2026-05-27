@@ -65,8 +65,7 @@ Die KI-VO wird durch Durchführungsrechtsakte und Leitlinien des Europäischen K
 
 ## Aktuelle Rechtsprechung (v14.2)
 - EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Betreiber von Scoring-Systemen haften fuer Einhaltung Art. 22 DSGVO — massgeblich fuer KI-VO Betreiberpflichten.
-- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber muss Entscheidungslogik offenlegen — Art. 26 Abs. 6 KI-VO Korrekturmechanismus.
-- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Interne Organisationspflichten bei technischen Systemen — Betreiberpflichten als Organisationsanforderung.
+- EuGH, Urt. v. 27.02.2025 - C-203/22 (Dun & Bradstreet Austria), NJW 2025, 1471: Art. 15 Abs. 1 lit. h DSGVO verlangt aussagekraeftige Informationen zur involvierten Logik automatisierter Bonitaetsbeurteilungen; Geschaeftsgeheimnisse sind im Einzelfall zu schuetzen.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 26 KI-VO — Betreiberpflichten (Eignungspruefung, Anleitung, menschliche Aufsicht, Protokollierung)

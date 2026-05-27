@@ -175,7 +175,6 @@ Bevor losgelegt wird, klaere:
 - BGH, Beschl. v. 06.07.2017 — IX ZB 105/15, NZI 2017, 807 — Sachwalterauswahl: Gericht kann Sachwalter-Vorschlag des Schuldners uebergehen wenn Unabhaengigkeit nicht gewahrt; frueherer Berater des Schuldners in derselben Sache grundsaetzlich ungeeignet.
 - BGH, Beschl. v. 22.11.2018 — IX ZB 14/18, NZI 2019, 91 — Bescheinigung § 270d InsO: muss konkrete positive Prognose enthalten; allgemeine Formeln genuegen nicht; Sachverstaendiger muss Sanierungskonzept der Bescheinigung zugrunde legen.
 - BGH, Beschl. v. 07.05.2015 — IX ZB 75/14, NZI 2015, 519 — Vollstreckungsschutz § 21 InsO analog im Schutzschirm: automatisch mit Erlass des Schutzschirmbeschlusses; Glaeubiger koennen vor Erlass noch vollstrecken.
-- BGH, Urt. v. 26.04.2018 — IX ZR 238/17, NZI 2018, 584 — Obstruktionsverbot § 245 InsO im Insolvenzplan: Plan kann auch gegen ablehnende Klassen bestaetigt werden wenn kein Glaeubiger schlechter steht als bei Liquidation.
 
 ## Paragrafenkette Schutzschirmverfahren
 

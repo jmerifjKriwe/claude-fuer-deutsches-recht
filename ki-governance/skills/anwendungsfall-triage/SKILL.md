@@ -50,9 +50,8 @@ Praktiken, ab 02.02.2025) und DSGVO Art. 22 (automatisierte Einzelentscheidung).
 **Leitentscheidungen**
 
 - EuGH, Urt. v. 07.12.2023 – C-634/21, NJW 2024, 126 Rn. 49 (Schufa-Score): Automatisiertes Profiling als Art. 22 Abs. 1 DSGVO-Entscheidung, wenn KI-Note maßgebliche Grundlage für Drittentscheidung; Maßstab für Scoring-/Kredit-/HR-Anwendungsfälle.
-- EuGH, Urt. v. 04.10.2024 – C-203/22, NJW 2025, 56 Rn. 38 (Dun & Bradstreet): Betreiber algorithmischer Entscheidungssysteme müssen Entscheidungslogik verständlich offenlegen; Maßstab für Transparenzauflagen bei bedingter Freigabe.
+- EuGH, Urt. v. 27.02.2025 - C-203/22 (Dun & Bradstreet Austria), NJW 2025, 1471: Art. 15 Abs. 1 lit. h DSGVO verlangt aussagekraeftige Informationen zur involvierten Logik automatisierter Bonitaetsbeurteilungen; Geschaeftsgeheimnisse sind im Einzelfall zu schuetzen.
 - BAG, Urt. v. 13.01.2004 – 9 AZR 603/02, NZA 2004, 784 Rn. 16: Mitbestimmungspflicht bei technischen Überwachungssystemen; gilt für KI-basierte Mitarbeiterbewertung.
-- BGH, Urt. v. 19.06.2018 – VI ZR 184/17, NJW 2018, 2877 Rn. 15: Haftung bei automatisierten Informationssystemen; Organisationspflicht bei KI-Einsatz.
 
 **Kommentare**
 

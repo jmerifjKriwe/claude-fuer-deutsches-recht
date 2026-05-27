@@ -67,8 +67,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## Aktuelle Rechtsprechung (v14.2)
 - EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: KI-Scoring-System als automatisierte Einzelentscheidung nach Art. 22 DSGVO — Masstab fuer Hochrisiko-Klassifikation und Betreiberpflichten nach KI-VO.
-- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber muss Entscheidungslogik offenlegen — Art. 13 KI-VO Transparenzpflicht und Art. 26 Abs. 6 Korrekturrecht.
-- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Organisationspflichten bei technischen Systemen — massgeblich fuer KI-VO Betreiberpflichten und interne Governance.
+- EuGH, Urt. v. 27.02.2025 - C-203/22 (Dun & Bradstreet Austria), NJW 2025, 1471: Art. 15 Abs. 1 lit. h DSGVO verlangt aussagekraeftige Informationen zur involvierten Logik automatisierter Bonitaetsbeurteilungen; Geschaeftsgeheimnisse sind im Einzelfall zu schuetzen.
 - EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Drittlandtransfer bei KI-APIs erfordert Schutzgarantien; Art. 28 DSGVO AVV in KI-Lieferkette.
 
 ## Zentrale Normen (Paragrafenkette)

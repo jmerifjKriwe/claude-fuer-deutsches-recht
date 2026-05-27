@@ -282,7 +282,6 @@ Die Sanierungsmoderation ist ein vorinsolvenzliches präventives Werkzeug nach �
 
 ## Weitere Leitentscheidungen StaRUG-Moderation
 
-- BGH, Urt. v. 21.04.2022 — IX ZB 32/21, NZI 2022, 612 — StaRUG-Mehrheiten und Stimmrecht: Moderations-Ergebnis muss auf korrekter Stimmrechts-Berechnung beruhen; fehlerhafte Klassenbildung macht Abstimmung anfechtbar.
 - BGH, Urt. v. 16.11.2023 — IX ZB 63/22, NZI 2024, 117 — Cramdown-Bestaetigung § 26 StaRUG: Moderationserfolg muss dokumentiert sein; ablehnende Klasse darf nicht schlechter gestellt sein als ohne Plan (Grundlage Vergleichsrechnung).
 - LG Hamburg, Beschl. v. 22.06.2021 — 344 T 62/21, NZI 2021, 790 — StaRUG-Plan-Bestaetigung: Restrukturierungsgericht prueft Plan selbstaendig; Moderations-Protokoll als wichtiges Bestaetiguungs-Dokumentum.
 

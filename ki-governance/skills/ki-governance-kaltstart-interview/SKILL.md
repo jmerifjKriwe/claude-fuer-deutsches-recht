@@ -48,8 +48,7 @@ Erstgespräch klärt die Rolle systembezogen (nicht unternehmensweit).
 - EuGH, Urt. v. 07.12.2023 – C-634/21, NJW 2024, 126 (Schufa-Score):
   Automatisiertes Profiling als Art. 22 Abs. 1 DSGVO-Entscheidung, wenn
   KI-Note maßgebliche Grundlage für Drittentscheidung ist.
-- EuGH, Urt. v. 04.10.2024 – C-203/22 (Dun & Bradstreet): Offenlegungs-
-  pflicht für Algorithmus-Logik in verständlicher Form.
+- EuGH, Urt. v. 27.02.2025 - C-203/22 (Dun & Bradstreet Austria), NJW 2025, 1471: Art. 15 Abs. 1 lit. h DSGVO verlangt aussagekraeftige Informationen zur involvierten Logik automatisierter Bonitaetsbeurteilungen; Geschaeftsgeheimnisse sind im Einzelfall zu schuetzen.
 - BGH, Beschl. v. 26.11.2020 – I ZB 58/19, GRUR 2021, 612: Haftungs-
   maßstäbe für automatisierte Informationssysteme, übertragbar auf KI.
 - BVerfG, Beschl. v. 06.11.2019 – 1 BvR 16/13, NJW 2020, 300 (Recht auf
@@ -173,7 +172,7 @@ Mittelständischer Softwarehersteller (500 MA, Sitz Deutschland, Kunden EU/UK):
 
 ## Aktuelle Rechtsprechung (v14.2)
 - EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Ersterfassung von KI-Systemen muss Art. 22 DSGVO-Scoring-Kontext beruecksichtigen; Anbieter-/Betreiber-Rolle bestimmt Pflichtumfang nach KI-VO.
-- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber algorithmischer Entscheidungssysteme muss Entscheidungslogik offenlegen — gilt fuer jedes im Kaltstart erfasste KI-System.
+- EuGH, Urt. v. 27.02.2025 - C-203/22 (Dun & Bradstreet Austria), NJW 2025, 1471: Art. 15 Abs. 1 lit. h DSGVO verlangt aussagekraeftige Informationen zur involvierten Logik automatisierter Bonitaetsbeurteilungen; Geschaeftsgeheimnisse sind im Einzelfall zu schuetzen.
 - BGH, Beschl. v. 26.11.2020 — I ZB 58/19, GRUR 2021, 612 Rn. 18: Haftungsmasstabe fuer automatisierte Informationssysteme; bei Ersterfassung Haftungsregime klaren.
 - BVerfG, Beschl. v. 06.11.2019 — 1 BvR 16/13, NJW 2020, 300: Grundrechtliche Schutzpflichten gegenueber algorithmischen Systemen; Erstgespräch muss regulatorischen Fussabdruck vollstaendig erfassen.
 

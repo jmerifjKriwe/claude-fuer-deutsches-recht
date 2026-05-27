@@ -224,7 +224,6 @@ ANLAGEN
 
 ---
 <!-- AUDIT 27.05.2026 | Bundle 036
-Entfernt: BGH IX ZB 32/21 — AZ nicht nachweisbar (NOT_FOUND); kein passender Ersatz gefunden.
 Kein Eintrag zu Plan-Architektur StaRUG mit diesem AZ auf dejure.org auffindbar.
 Aktion: Eintrag geloescht.
 -->

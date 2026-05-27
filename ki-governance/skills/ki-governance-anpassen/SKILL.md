@@ -117,8 +117,7 @@ Interaktiver Dialog: Karte → Auswahl → aktueller Wert / neuer Wert → Best�
 
 ## Aktuelle Rechtsprechung (v14.2)
 - EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Profilbasierte KI-Entscheidungen fallen unter Art. 22 DSGVO — Anpassung der Risikoeinstellung muss DSGVO-Widerspruchsrecht berucksichtigen.
-- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber algorithmischer Systeme muss Entscheidungslogik verstaendlich offenlegen — Anpassungen der Offenlegungsklauseln im Praxisprofil muss Art. 22 Abs. 3 DSGVO beruecksichtigen.
-- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Interne Organisationspflichten bei technischen Systemen — KI-Governance-Aenderungen muessen konsistent in alle verbundenen Prozesse eingepflegt werden.
+- EuGH, Urt. v. 27.02.2025 - C-203/22 (Dun & Bradstreet Austria), NJW 2025, 1471: Art. 15 Abs. 1 lit. h DSGVO verlangt aussagekraeftige Informationen zur involvierten Logik automatisierter Bonitaetsbeurteilungen; Geschaeftsgeheimnisse sind im Einzelfall zu schuetzen.
 - BVerwG, Urt. v. 04.04.2019 — 2 C 4/18, NVwZ 2019, 1283 Rn. 22: Transparenz algorithmischer Entscheidungen als Pflicht auch im Verwaltungsbereich; Eskalationsmatrix-Aenderungen muessen nachvollziehbar dokumentiert werden.
 
 ## Zentrale Normen (Paragrafenkette)

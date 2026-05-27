@@ -66,7 +66,7 @@ Die Auslegung des Art. 50 Abs. 4 KI-VO durch Datenschutzbehörden, das Europäis
 
 ## Aktuelle Rechtsprechung (v14.2)
 - BGH, Urt. v. 12.07.2018 — I ZR 69/17, GRUR 2018, 1234 Rn. 22: Irreführungsverbot nach UWG bei nicht gekennzeichneten automatisiert erstellten Inhalten.
-- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Offenlegungs- und Transparenzpflicht bei algorithmischen Entscheidungen.
+- EuGH, Urt. v. 27.02.2025 - C-203/22 (Dun & Bradstreet Austria), NJW 2025, 1471: Art. 15 Abs. 1 lit. h DSGVO verlangt aussagekraeftige Informationen zur involvierten Logik automatisierter Bonitaetsbeurteilungen; Geschaeftsgeheimnisse sind im Einzelfall zu schuetzen.
 - BGH, Urt. v. 05.12.2002 — III ZR 251/01, NJW 2003, 826 Rn. 18: Haftung bei mangelhafter Transparenz ueber die Grundlage einer Beratung.
 
 ## Zentrale Normen (Paragrafenkette)

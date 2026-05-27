@@ -92,7 +92,6 @@ Bevor losgelegt wird, klaere:
 - BGH, Urt. v. 24.05.2005 — IX ZR 123/04, BGHZ 163, 134 Rn. 14 ff. — Zahlungsunfaehigkeit § 17 InsO: 10%-Liquiditaetslueeke indiziert ZU wenn keine Beseitigung innerhab von 3 Wochen absehbar; Stundungsvereinbarungen und ernsthaft angebotene Darlehen heilen ZU.
 - BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose § 19 Abs. 2 S. 1 InsO: modifizierter zweistufiger Ueberschuldungsbegriff; erste Stufe Reinvermoegen negativ, zweite Stufe positive Prognose heilt Ueberschuldung; Prognosehorizont mindestens 12 Monate.
 - BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Vorsatzanfechtung § 133 InsO nach SanInsFoG-Reform 01.01.2021: blosse Kenntnis drohender Zahlungsunfaehigkeit kein Beweisanzeichen fuer Benachteiligungsvorsatz mehr; konkrete Bedrohungslage im Zeitpunkt der Rechtshandlung erforderlich.
-- BGH, Urt. v. 26.04.2018 — IX ZR 238/17, NZI 2018, 584 — Insolvenzplan § 245 InsO: Obstruktionsverbot bei Versagen einer Klasse; Best-Interest-Test (kein Glaeubiger darf schlechter stehen als in Liquidation) als Massstab fuer gerichtliche Bestaetigung.
 
 ## Kommentarliteratur (Primaerquellen Insolvenzrecht)
 

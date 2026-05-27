@@ -132,7 +132,6 @@ Bevor losgelegt wird, klaere:
 
 - BGH, Urt. v. 04.05.2017 — IX ZR 285/16, NZI 2017, 617 — Sanierungsprivileg § 39 Abs. 4 InsO Gesellschafterdarlehen: gilt nur fuer frisches Kapital mit konkreter externer Sanierungschance; Sanierungskonzept IDW S 6 Qualitaet erforderlich; gestuetztes Darlehen bei Krisenbeitritt nachrangig.
 - BGH, Urt. v. 12.01.2017 — IX ZR 130/16, NZI 2017, 385 — Stillhalte-Vereinbarung und Anfechtung: Stundungsvereinbarung durch Glaeubiger waehrend Insolvenzreife = Kenntnis der Zahlungsunfaehigkeit; spaetere Ratenzahlungen nach § 130 InsO anfechtbar.
-- BGH, Urt. v. 21.04.2022 — IX ZB 32/21, NZI 2022, 612 — StaRUG-Mehrheiten: 75%-Schwelle § 25 StaRUG auf Summe der abstimmenden Glaeubiger je Klasse; Obstruktionsverbot § 26 StaRUG greift wenn Best-Interest-Test bestanden.
 - BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Vorsatzanfechtung § 133 InsO: Sanierungsvergleich mit Teilzahlung bei echter Sanierungschance schluiesst Benachteiligungsvorsatz aus wenn Sanierungskonzept ex ante schlueissig.
 
 ## Paragrafenkette Glaeubigerverhandlung

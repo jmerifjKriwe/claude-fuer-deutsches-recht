@@ -115,9 +115,3 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
-
-<!-- AUDIT 27.05.2026
-EuGH C-203/22: Skill enthielt falsches Datum (04.10.2024 statt 27.02.2025) und falsche Fundstelle (NJW 2025, 56 statt NJW 2025, 1471). Beschreibung war ebenfalls falsch ("Art. 13 KI-VO Transparenzpflicht") — echtes Thema ist DSGVO Art. 15 Auskunftsrecht Algorithmus (Bonitaetsbeurteilung). Datum, Fundstelle und Beschreibung korrigiert. Quelle: dejure.org/2025,3419.
-BGH VI ZR 184/17: Skill behauptete "Organisationspflichten bei technischen Systemen, NJW 2018, 2877" — FALSCH: echtes Thema ist Gehoersverstotz/Nichtbeachtung Privatgutachten bei Verkehrsunfall (Beschl. 05.12.2017); kein Organisationspflichten-Bezug. Geloescht.
-Pruefergebnis-Vorlage unveraendert. Quelle: dejure.org. Prufer: Bundle-005-Audit.
--->

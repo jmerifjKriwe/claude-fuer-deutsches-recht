@@ -33,7 +33,6 @@ Fuehrt Unternehmenskauf in Krise, vorlaeufliger Insolvenz, StaRUG, Insolvenzplan
 
 - BGH, Urt. v. 24.01.2019 - IX ZR 148/18, NZI 2019, 289 — Insolvenzanfechtung nach § 133 InsO: Vorsatz erfordert Kenntnis des Schuldners von Gaeubigerbenachteiligung; bei Zahlungsunfaehigkeit nahegelegt; Empfaengerkenntnis wird bei Bekanntheit von Zahlungsstockungen vermutet
 - BGH, Urt. v. 22.10.2020 - IX ZR 208/17, NJW 2021, 538 — Sicherungsanfechtung § 135 InsO: stille Gesellschaft mit Haftungsuebernahme ist dem Darlehen gleichgestellt; Anfechtungsfrist ein Jahr
-- BGH, Urt. v. 07.05.2020 - IX ZR 18/19, NZI 2020, 689 — Uebertragende Sanierung: Kaeufer eines insolventen Unternehmens haftet nicht fuer Altverbindlichkeiten, wenn kein Betriebsuebergang nach § 613a BGB vorliegt; dies haengt von Kontinuitaet von Betriebsmitteln und Belegschaft ab
 - BGH, Urt. v. 05.11.2020 - IX ZR 69/19, NZI 2021, 62 — StaRUG-Wertansatz: Neuheitswert von Restrukturierungsplan muss Liquidationswert uebersteigen; Abweichung erfordert Begruendung
 
 ## Kommentarliteratur

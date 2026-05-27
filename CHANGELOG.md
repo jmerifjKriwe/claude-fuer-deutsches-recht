@@ -1,3 +1,30 @@
+# v16.0.0 — Halluzinationsbereinigung, Audit-Hardening und v15-Finalstand
+
+Version 16 baut direkt auf `v15.0.0` auf und nimmt den dortigen Stand mit Lobbyregister-Plugin, Selbstvertreter-Plugins und Steuerberater-Werkzeugen vollständig mit. Der Schwerpunkt dieses Releases ist eine weitere Qualitätsschicht gegen erfundene oder falsch zugeordnete Rechtsprechungsnachweise.
+
+## Korrigiert und gehärtet
+
+- **KI-Governance / KI-VO:** falsche Altzuordnungen zu `EuGH C-203/22` wurden aus KI-VO-/Governance-Kontexten entfernt und auf den tatsächlich passenden DSGVO-Art.-15-Kontext umgestellt.
+- **Insolvenzplan / StaRUG / Insolvenzverwaltung:** unsichere oder nicht verifizierbare BGH-Nachweise wie `VI ZR 184/17`, `IX ZR 238/17`, `IX ZB 32/21` und `IX ZR 18/19` wurden aus produktiven Skills entfernt, soweit keine belastbare Ersatzfundstelle vorlag.
+- **Insolvenzrecht / D&O:** falsche `II ZR 234/18`- und `II ZR 199/19`-Zuordnungen wurden durch passende, überprüfte Leitentscheidungen ersetzt.
+- **Squeeze-out:** der Handels-/Gesellschaftsrecht-Skill verweist nun auf DAT/Altana und Stollwerck statt auf eine falsche Insolvenz-/Haftungszuordnung.
+- **Audit-Dokumentation:** `audit/HALLUZINATIONS_AUDIT_2026-05-27.md` dokumentiert die zusätzliche lokale Reparaturwelle und den Übergang auf `v16.0.0`.
+
+## Release-Stand
+
+- 100 Plugins
+- 2175 `SKILL.md`
+- 49 Testakten
+- alle `plugin.json` und `.claude-plugin/marketplace.json` auf Version `16.0.0`
+
+## Qualitätssicherung
+
+- `node scripts/validate-plugin-structure.mjs`
+- `git diff --check`
+- Rest-Suche nach den bekannten problematischen Aktenzeichen-/Fundstellenmustern außerhalb der Audit-Historie
+
+---
+
 # v15.0.0 — Lobbyregister, Selbstvertreter, Steuerberater-Werkzeuge und Release-Finalisierung
 
 Version 15 buendelt die nachgelieferten Perplexity-/Klar-Ausbauten mit dem neuen `lobbyregister-bundestag` Plugin und setzt den gesamten Marketplace auf einen einheitlichen Major-Stand.

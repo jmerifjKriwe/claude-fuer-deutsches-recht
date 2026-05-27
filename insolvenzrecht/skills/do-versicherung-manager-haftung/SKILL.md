@@ -90,8 +90,8 @@ Bei Insolvenz wird der Geschäftsführer regelmäßig nach §§ 15a 15b InsO in 
 
 ### BGH-Rechtsprechung
 
-- **BGH II ZR 234/18** zur Auslegung § 15b
-- **BGH II ZR 199/19** Geschäftsführer-Haftung Wirksamkeits-Voraussetzungen
+- **BGH IV ZR 217/19**: D&O-Deckung kann Ansprüche aus § 64 GmbHG a.F. / § 15b InsO erfassen
+- **BGH II ZR 88/16**: Zahlungsunfähigkeit ist anhand einer Liquiditätsbilanz zu prüfen; Passiva II sind einzubeziehen
 
 ## Schritt 5 — Deckungs-Ausschlüsse
 
@@ -340,7 +340,7 @@ Mit freundlichen Gruessen
 - GmbHG §§ 43 46
 - BGB § 823 Abs. 2
 - ZPO § 72
-- BGH II ZR 234/18 II ZR 199/19
+- BGH IV ZR 217/19; BGH II ZR 88/16; BGH II ZR 130/10
 - BGH IX ZR 73/14
 - BGH IV. Zivilsenat zu D&O-Auslegungs-Fragen
 - Bruck/Möller VVG

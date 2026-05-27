@@ -177,7 +177,6 @@ Bevor losgelegt wird, klaere:
 
 ## Aktuelle Leitentscheidungen StaRUG
 
-- BGH, Beschl. v. 21.04.2022 — IX ZB 32/21, NZI 2022, 612 — StaRUG-Mehrheiten: 75%-Schwelle § 25 StaRUG bezieht sich auf die Summe der Forderungen der abstimmenden Glaeubiger je Klasse; stimmrechtslose Glaeubiger zaehlen nicht in den Nenner.
 - BGH, Beschl. v. 16.11.2023 — IX ZB 63/22, NZI 2024, 117 — Cross-Class-Cramdown § 26 StaRUG: Plan kann gegen ablehnende Klasse bestaetigt werden wenn kein Glaeubiger dieser Klasse schlechter gestellt als ohne Plan (Best-Interest-Test) und Mehrheit der Klassen zugestimmt.
 - LG Hamburg, Beschl. v. 22.06.2021 — 344 T 62/21, NZI 2021, 790 — Restrukturierungsplan-Bestaetigung: Anforderungen an darstellenden Teil § 8 StaRUG; Vergleichsrechnung (Liquidationswert) muss nachvollziehbar sein.
 - BGH, Beschl. v. 10.11.2022 — IX ZB 36/21, NZI 2023, 86 — Stabilisierungsanordnung § 49 StaRUG: Voraussetzungen streng; konkrete Glaubhaftmachung Sanierungs-Faehigkeit und Drohung Vollstreckungsschaden.

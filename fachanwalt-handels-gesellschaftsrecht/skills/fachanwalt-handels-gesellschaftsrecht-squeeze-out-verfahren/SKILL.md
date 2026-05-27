@@ -75,7 +75,7 @@ Bei AG: Ausschluss Minderheits-Aktionaere durch Hauptaktionaer mit > 95 % der An
 
 - Ertragswert-Methode Standard
 - Multiplikator-Methode subsidiaer
-- Borsenkurs als Untergrenze (BGH II ZR 234/18)
+- Borsenkurs als Untergrenze (BVerfG DAT/Altana; BGH Stollwerck)
 
 ### Prüfer-Bericht
 
@@ -173,7 +173,8 @@ Bei AG: Ausschluss Minderheits-Aktionaere durch Hauptaktionaer mit > 95 % der An
 
 ## 11) BGH-Linien
 
-- BGH, Beschl. v. 24.4.2019 — II ZR 234/18 (Borsenkurs Untergrenze)
+- BVerfG, Beschl. v. 27.04.1999 — 1 BvR 1613/94 (DAT/Altana; Börsenkurs regelmäßig Untergrenze)
+- BGH, Beschl. v. 19.07.2010 — II ZB 18/09 (Stollwerck; dreimonatiger Referenzzeitraum)
 - BGH, Beschl. v. 21.7.2020 — II ZB 7/19 (Prüfer-Unabhängigkeit)
 - BGH, Beschl. v. 12.1.2016 — II ZB 25/14 (Freigabe-Verfahren)
 

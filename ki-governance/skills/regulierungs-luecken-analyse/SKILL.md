@@ -46,7 +46,7 @@ konservative Lesart nennen, bei Materialität externe Beratung empfehlen.
 **Leitentscheidungen**
 
 - EuGH, Urt. v. 07.12.2023 – C-634/21, NJW 2024, 126 Rn. 49 (Schufa-Score): Maßstab für Lückenanalysen zu DSGVO Art. 22 bei Scoring-Systemen; automatisiertes Profiling als Art. 22 Abs. 1-Entscheidung bei maßgeblicher Grundlage für Drittentscheidung.
-- EuGH, Urt. v. 04.10.2024 – C-203/22, NJW 2025, 56 Rn. 38 (Dun & Bradstreet): Verantwortlicher muss Algorithmus-Logik verständlich offenlegen; Maßstab für Transparenzlücken.
+- EuGH, Urt. v. 27.02.2025 - C-203/22 (Dun & Bradstreet Austria), NJW 2025, 1471: Art. 15 Abs. 1 lit. h DSGVO verlangt aussagekraeftige Informationen zur involvierten Logik automatisierter Bonitaetsbeurteilungen; Geschaeftsgeheimnisse sind im Einzelfall zu schuetzen.
 - BGH, Urt. v. 13.01.2015 – VI ZR 204/14, NJW 2015, 1236 Rn. 12: Produkthaftung für fehlerhafte Informationsprodukte; übertragbar auf KI-Haftung unter RL 2024/2853.
 - BVerwG, Urt. v. 04.04.2019 – 2 C 4/18, NVwZ 2019, 1283 Rn. 22: Transparenz algorithmischer Verwaltungsentscheidungen; relevant bei Behörden-KI.
 
@@ -157,7 +157,7 @@ Human-in-the-Loop dokumentieren, bis 01.08.2026.
 
 - **AI Act Art. 5, Art. 6 i.V.m. Anhang III, Art. 9–15, Art. 26/29, Art. 99.**
 - **DSGVO Art. 22** bei automatisierten Entscheidungsverfahren.
-- **EuGH C-634/21 (Schufa-Score)** und **C-203/22 (Dun & Bradstreet)**.
+- EuGH, Urt. v. 27.02.2025 - C-203/22 (Dun & Bradstreet Austria), NJW 2025, 1471: Art. 15 Abs. 1 lit. h DSGVO verlangt aussagekraeftige Informationen zur involvierten Logik automatisierter Bonitaetsbeurteilungen; Geschaeftsgeheimnisse sind im Einzelfall zu schuetzen.
 - **RL 2024/2853/EU** (Produkthaftung) bei Haftungslücken.
 - **DSGVO Art. 35** bei Folgenabschätzungspflicht.
 - **Wendehorst/Grinzinger, in: Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 6 Rn. 5.**

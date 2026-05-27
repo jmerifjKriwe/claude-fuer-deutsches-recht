@@ -80,8 +80,7 @@ Dieser Skill selbst ist Teil des Update-Zyklus: Falls neue EU-Zeitpläne oder In
 
 ## Aktuelle Rechtsprechung (v14.2)
 - EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Richtlinien muessen aktuelle Rechtsprechung widerspiegeln — Scoring-Entscheidung hatte direkte Richtlinienfolgen.
-- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber muss Algorithmus-Logik offenlegen — neue Pflicht erfordert Richtlinien-Update.
-- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Organisationspflichten muessen mit technischer Entwicklung Schritt halten — veraltete Richtlinien erhoehen Haftungsrisiko.
+- EuGH, Urt. v. 27.02.2025 - C-203/22 (Dun & Bradstreet Austria), NJW 2025, 1471: Art. 15 Abs. 1 lit. h DSGVO verlangt aussagekraeftige Informationen zur involvierten Logik automatisierter Bonitaetsbeurteilungen; Geschaeftsgeheimnisse sind im Einzelfall zu schuetzen.
 - BVerfG, Beschl. v. 06.11.2019 — 1 BvR 16/13, NJW 2020, 300: Grundrechtliche Schutzpflichten gegenueber algorithmischen Systemen gelten auch fuer Richtlinien-Aktualitaet.
 
 ## Zentrale Normen (Paragrafenkette)
