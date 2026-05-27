@@ -12,6 +12,7 @@ description: "Ablehnung des Versicherers pruefen nach §§ 1 28 VVG Obliegenheit
 3. Welche Begründung hat der Versicherer für die Ablehnung — Obliegenheitsverletzung (§ 28 VVG), Risikoausschluss, Anzeigepflichtverletzung (§ 19 VVG), fehlender Versicherungsfall, vorsätzliche Herbeiführung (§ 81 VVG)?
 4. Welche Mitteilungs- und Mitwirkungspflichten wurden angeblich verletzt und in welchem Verschuldensgrad?
 5. Liegt der vollständige Vertrag mit allen AVB, Antragsformularen und Schadensanzeigen vor?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Anspruchsgrundlagen
 
@@ -40,6 +41,9 @@ Standardliteratur: Bruck/Möller VVG; Prölss/Martin VVG-Kommentar; Veith/Gräfe
 
 ## Prüfschema Ablehnungsschreiben
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. Anspruchsgrundlage benannt
 2. Tatsachen für Tatbestandsmerkmal richtig dargestellt
 3. AVB-Klausel zitiert mit Quelle (Bedingungswerk Version)
@@ -48,6 +52,20 @@ Standardliteratur: Bruck/Möller VVG; Prölss/Martin VVG-Kommentar; Veith/Gräfe
 6. Belehrung dokumentiert (§ 19 Abs. 5, § 28 Abs. 4 VVG)
 7. Verjährungseinrede formal richtig
 8. Stufung des Verschuldens (Vorsatz, grobe oder einfache Fahrlässigkeit)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Widerspruch gegen Leistungsablehnung | Widerspruchsschreiben nach Pruefschema; Template unten |
+| Variante A — Ablehnung formell begruendet Unterlagen fehlen | Unterlagen nachreichen; kein Widerspruch noetig |
+| Variante B — Ablehnung materiell Rechtsfrage streitig | Widerspruch mit Rechtsgutachten; ggf. Klage vorbereiten |
+| Variante C — Versicherungsombudsmann als guenstigere Alternative | Ombudsmann-Beschwerde statt Widerspruch bei kleinen Betraegen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schreibvorlage Widerspruch gegen Ablehnung
 
@@ -88,6 +106,18 @@ Bis zum [Datum + 4 Wochen]. Andernfalls Klageerhebung. Verzugszinsen
 
 Mit kollegialen Gruessen
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Übergabe
 

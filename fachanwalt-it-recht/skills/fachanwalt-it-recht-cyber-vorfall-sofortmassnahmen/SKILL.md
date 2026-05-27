@@ -15,6 +15,7 @@ description: "Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack. Meldepfl
 6. Liegt eine Erpressungsforderung vor — Betrag, Kryptowährung, Zahlungsfrist, TOR-Kontaktadresse?
 7. Wurden bereits eigene Maßnahmen ergriffen (Abschaltung — problematisch für Forensik; Passwortzurücksetzung)?
 8. Ist Datenschutzbeauftragter involviert — wurde er bereits informiert?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -61,6 +62,19 @@ description: "Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack. Meldepfl
 | Tag 4–7 | Versicherer-Antrag | Cyber-Police; Unterlagen vollständig | AVB Cyber |
 | Woche 2–4 | Forensik-Endbericht | Ursachenanalyse; Schwachstellen; Maßnahmenplan | intern |
 | Monat 1 | NIS2-Abschlussbericht | BSI; vollständige Analyse | § 32 Abs. 3 BSIG n. F. |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Cyber-Vorfall IT-Recht Sofortmassnahmen | Sofortmassnahmen-Checkliste; Template unten |
+| Variante A — Ransomware; kein Backup | Loesegeld-Zahlung vs. Strafbarkeitsrisiko abwaegen; BKA informieren |
+| Variante B — Insider-Threat | Arbeitsrechtliche Massnahmen parallel; HR einbeziehen |
+| Variante C — Supply-Chain-Angriff | Lieferantenvertrag pruefen; Regress gegen Dienstleister |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatzbausteine
 
@@ -160,6 +174,11 @@ Aktenzeichens.
 [Unterschrift]
 ```
 
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 ## Beweislast und Darlegungslast
 
 | Frage | Last | Norm |
@@ -235,6 +254,6 @@ Aktenzeichens.
 ## Aktuelle Rechtsprechung (v14.2)
 
 - EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite/VB), NJW 2024, 685 Rn. 55–79: Unbefugter Datenzugang begründet keinen automatischen Schadensersatz nach Art. 82 DSGVO; aber: die 72-Stunden-Meldepflicht nach Art. 33 DSGVO wird schon durch die bloße Möglichkeit eines Risikos ausgelöst, nicht erst bei realisiertem Schaden.
-- BGH, Urt. v. 06.07.2021 — VI ZR 40/20, NJW 2021, 2726 Rn. 28: DSGVO-Schadensersatz für immateriellen Schaden bei Datenpanne; unzureichende TOMs nach Art. 32 DSGVO begründen Haftung; Cyber-Vorfall-Response muss TOMs dokumentieren.
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
 - OLG Dresden, Urt. v. 30.11.2021 — 4 U 1158/21, NJW 2022, 334 Rn. 22: Schadensersatz bei mangelnden TOMs; Nachweis angemessener TOMs entlastet Verantwortlichen nach Art. 82 Abs. 3 DSGVO — Forensik-Dokumentation ist zentral für Entlastungsbeweis.
 - BGH, Urt. v. 12.10.2022 — I ZR 149/20, GRUR 2023, 145 Rn. 67: Zur Verantwortlichkeit bei Cyberangriffen; Verantwortlicher kann sich bei adäquaten Sicherheitsmaßnahmen (Art. 32 DSGVO) exkulpieren; BSI-IT-Grundschutz als Referenzstandard.

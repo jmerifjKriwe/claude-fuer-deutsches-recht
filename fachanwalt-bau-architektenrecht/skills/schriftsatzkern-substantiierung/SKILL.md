@@ -219,6 +219,20 @@ Kläre vor Beginn:
 3. Welche Beweismittel stehen bereit? (Privatsachverständiger, Gutachten, Fotos, Aufmaß)
 4. Abnahme erfolgt? (Voraussetzung Werklohnfälligkeit und Mängelgewährleistung)
 5. Liegt VOB/B-Vertrag vor? (Rügepflichten und Fristregelungen VOB/B beachten)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Schriftsatz im Baurecht substantiieren | Aufbauschema A-F; Pflicht-Output unten |
+| Variante A — Sachverhalt technisch hochkomplex | Sachverstaendigen-Beweisantrag frueHzeitig ankuendigen |
+| Variante B — VOB/B und BGB-Ansprueche parallel | Anspruchsgrundlagen klar trennen; Hilfsantraege erwaegen |
+| Variante C — schnelles Verfahren gewuenscht | Beschraenkung auf Hauptklagepunkt; Hilfsantraege weglassen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Output-Template Mängelklage (Auszug)
 
@@ -241,3 +255,9 @@ III. Mangelhaftigkeit des Werks — § 633 Abs. 2 BGB
    Beweis: Sachverständigengutachten [NAME] (Anlage K[Y]); Zeugin [NAME] (Adresse) zum
    Beweisthema: Fristsetzung und fruchtloser Ablauf.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+

@@ -16,6 +16,7 @@ Diese Forprüfung ist keine Rechtsberatung, sondern strukturierte Argumentations
 3. Welcher Berufsträger ist betroffen (Rechtsanwalt, Steuerberater, Notar)? Norm-Adapter festlegen.
 4. Handelt es sich um Kanzleiinfrastruktur oder ein Einzelmandats-Tool (§ 26a Abs. 4 BNotO: Sonderfall)?
 5. Sind die parallelen Prüfbereiche (Verschwiegenheit, Belehrung §§ 203/204 StGB, Subunternehmer) bereits separat abgearbeitet?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zweck dieser Skill
 
@@ -84,6 +85,9 @@ AVV vorhanden?
 
 ## Prüfschema
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 | Punkt | Status | Bemerkung |
 |---|---|---|
 | AVV nach Art. 28 DSGVO liegt vor | | |
@@ -103,6 +107,19 @@ AVV vorhanden?
 - Pseudonymisierung wird angepriesen als "berufsrechtlich notwendig" — sie ist es nach DAV S. 11 nicht
 - Trennung von Verschwiegenheit und Datenschutz fehlt
 - Berufsrechtliche Verpflichtung in der AVV "versteckt" — sollte eigenständig erfolgen
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — AVV-Grenzfall pruefen ob AV oder gemeinsame Verantwortlichkeit | Pruefschema unten; Template fuer Ergebnis-Memo |
+| Variante A — AVV eindeutig erforderlich | Direkt zu AVV-Erstellung (skill avv-pruefung) wechseln |
+| Variante B — gemeinsame Verantwortlichkeit wahrscheinlich | Art. 26 DSGVO Vereinbarung statt AVV; Template anpassen |
+| Variante C — kein Auftragsverhaeltnis sondern eigenstaendige Verarbeitung | Keine AVV; separate Datenschutzvereinbarung pruefen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Output-Template — Parallelpruefungs-Vermerk
 
@@ -132,3 +149,9 @@ Empfehlung: [Vertragsnutzung freigegeben / Nachverhandlung / Ablehnung]
 
 Unterschrift: [SACHBEARBEITER]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+

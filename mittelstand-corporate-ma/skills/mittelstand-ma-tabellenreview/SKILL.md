@@ -17,6 +17,7 @@ Im Mittelstands-M&A liegen die Daten häufig in schlechter Qualität vor: Excel-
 4. Gibt es bekannte Problemfelder — Privatentnahmen, nahestehende Personen, Gesellschafter-Darlehen, nicht betriebsnotwendiges Vermögen?
 5. Ist die Transaktion ein Share Deal oder Asset Deal? Welche Positionen sind kaufpreisrelevant?
 6. Soll die BWA mit dem Jahresabschluss abgeglichen werden (typische Abweichungsursachen: Abschreibungen, Rückstellungen, Abgrenzungen)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -41,6 +42,9 @@ Im Mittelstands-M&A liegen die Daten häufig in schlechter Qualität vor: Excel-
 | OLG Frankfurt | 26 U 35/19 | 10.09.2020 | Inkonsistente Daten im Verkaufsprozess: Verkäufer haftet für erkennbar falsche Angaben |
 
 ## Prüfschema / Review-Würfel (Mittelstand-angepasst)
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Status |
 |---|---|---|---|
@@ -78,6 +82,20 @@ Im Mittelstands-M&A liegen die Daten häufig in schlechter Qualität vor: Excel-
 | Korrekte Jahresabschlüsse | §§ 242, 264 HGB | Garantieverletzung; Schadensersatz |
 | Vollständige Deklaration Privatentnahmen | § 4 EStG; SPA | Kaufpreisanpassung; ggf. Steuernachzahlung |
 | Vollständige Kundenliste | Disclosure Schedule im SPA | Garantieverletzung |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Tabellen aus Mittelstand-Unterlagen reviewen | Tabellenreview nach Schema; Pruefbericht unten |
+| Variante A — Excel-Tabellen mit Makros komplex | Makro-Dokumentation separat anfordern; Pruefung ohne Makros |
+| Variante B — Mandant will nur bestimmte KPIs pruefen | KPI-Subset pruefen; nicht alle Tabellenfelder |
+| Variante C — Tabellen aus Due-Diligence-Raum | NDA beachten; Pruefergebnis vertraulich behandeln |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -123,6 +141,18 @@ Q3 (STEUERN): Körperschaftsteuerveranlagung
 Die Körperschaftsteuerveranlagung für [Jahr] liegt nicht vor. Bitte nachreichen.
 Bestehen Steuerrückstände oder laufende Betriebsprüfungen beim Finanzamt [Ort]?
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Streitwert und Kosten
 

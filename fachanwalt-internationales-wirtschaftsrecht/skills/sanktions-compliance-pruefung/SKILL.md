@@ -13,6 +13,7 @@ description: "Sanktions-Compliance: EU-Sanktionen (VO 269/2014 und 833/2014 Russ
 6. Lagen in der Vergangenheit Geschäftsbeziehungen mit gelisteten Personen vor – besteht Selbstanzeige-Bedarf bei BAFA?
 7. Welche internen Compliance-Strukturen bestehen (Screening-Tool, Compliance-Officer, Dokumentationsarchiv)?
 8. Hat eine Bank die Transaktion gesperrt oder Anfragen gestellt – liegt ein konkreter Verdachtsfall vor?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -57,6 +58,20 @@ description: "Sanktions-Compliance: EU-Sanktionen (VO 269/2014 und 833/2014 Russ
 | 8 | US-Secondary-Sanctions: USD-Transaktionen oder US-Nexus vorhanden? | OFAC 50%-Rule | USD-Zahlungen und US-Personen in der Kette vermeiden |
 | 9 | Dokumentation: Screening-Ergebnis pro Transaktion aufzeichnen | AWG § 18, Art. 9 Abs. 2 EU-VO | 10 Jahre Aufbewahrungspflicht |
 | 10 | Bei Treffer: Sofortmaßnahmen, ggf. BAFA-Anfrage, ggf. Selbstanzeige | AWG § 22 | Strafmilderung bei proaktiver Selbstmeldung |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Sanktions-Compliance-Pruefung | Compliance-Gutachten; Template unten |
+| Variante A — Laufendes Geschaeft sanktionsbetroffen | Sofort-Winddown; BAFA-Genehmigung pruefen |
+| Variante B — Counterparty auf Sanktionsliste | Vertragsaushaengung / Force-Majeure-Klausel pruefen |
+| Variante C — US-Sekundaersanktionen relevant | OFAC-Exposure pruefen; US-Anwalt hinzuziehen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatz-Bausteine
 
@@ -134,6 +149,11 @@ Erstellt durch: [Compliance-Officer Name]
 5. Nächste Schritte: [BAFA-Anfrage / Selbstanzeige prüfen / Vertragsauflösung]
 6. Archivierungspflicht: 10 Jahre (§ 18 AWG Verjährung)
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Beweislast
 

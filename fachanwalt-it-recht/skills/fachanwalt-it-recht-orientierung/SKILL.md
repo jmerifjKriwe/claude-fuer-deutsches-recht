@@ -74,7 +74,7 @@ description: "Orientierung im IT-Recht fuer Mandate und Fachanwaltschaft nach FA
 
 - BGH, Urt. v. 25.03.2021 — VII ZR 94/20, NJW 2021, 1954 Rn. 28: AGB-Kontrolle von IT-Verträgen; § 307/309 BGB als zentrale Prüfmaßstäbe für SaaS- und Cloud-Verträge.
 - EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 182: Drittlandsübermittlungen im IT-Bereich; TIA nach Schrems II ist Standard für alle US-Cloud-Dienstleister.
-- BGH, Urt. v. 06.07.2021 — VI ZR 40/20, NJW 2021, 2726 Rn. 28: DSGVO-Schadensersatz bei Datenpanne; IT-Recht und Datenschutzrecht greifen regelmäßig ineinander.
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
 - EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA Holding), NJW 2024, 248 Rn. 55: KI-VO und DSGVO-Parallelpflichten bei automatisierten Entscheidungssystemen — IT-Recht muss KI-VO-Anforderungen ab 2025 ff. integrieren.
 
 ## Triage zu Beginn

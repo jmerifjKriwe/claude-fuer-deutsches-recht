@@ -48,7 +48,7 @@ Die Anforderungen an AVV können sich durch Entscheidungen der Datenschutzbehör
 ## Aktuelle Rechtsprechung (v14.2)
 - EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: AVV i.V.m. SCC genuegt nicht bei unzureichendem Drittland-Schutzniveau; Transferfolgenabschaetzung erforderlich.
 - EuGH, Urt. v. 04.05.2023 — C-300/21 (Oesterreichische Post), NJW 2023, 1985 Rn. 38: Art. 82 DSGVO — Auftragsverarbeiter haftet solidarisch mit Verantwortlichem fuer DSGVO-Schaden.
-- BGH, Urt. v. 06.07.2021 — VI ZR 40/20, NJW 2021, 2726 Rn. 12: DSGVO-Schadensersatz bei Fehlen eines wirksamen AVV; immaterieller Schadensersatz ohne Nachweis konkreten Schadens moeglich.
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
 - OLG Muenchen, Urt. v. 09.11.2021 — 33 U 2023/21, NJW-RR 2022, 85 Rn. 18: Fehlender AVV bei Cloud-Anbieter fuehrt zu Datenschutzverstos§ nach Art. 28 DSGVO — Bussgeldrisiko.
 
 ## Zentrale Normen (Paragrafenkette)

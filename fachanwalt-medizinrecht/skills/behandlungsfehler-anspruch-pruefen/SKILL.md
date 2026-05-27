@@ -15,6 +15,7 @@ description: "Strukturierte Pruefung von Anspruechen wegen Behandlungsfehler nac
 6. Besteht Rechtsschutzversicherung — Deckungsanfrage für Arzthaftungsmandat?
 7. Gibt es GKV — Regress-Interesse der Krankenkasse § 116 SGB X?
 8. Liegt strafrechtlicher Aspekt vor (Körperverletzung § 229 StGB fahrlässig, Tötung § 222 StGB)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -70,6 +71,20 @@ description: "Strukturierte Pruefung von Anspruechen wegen Behandlungsfehler nac
 | 10 | Schaden | §§ 249–253, 843, 844 BGB | Schmerzensgeld, Verdienstausfall, Haushaltsschaden, Rente? |
 | 11 | Mitverschulden | § 254 BGB | Compliance-Verletzung durch Patient? |
 | 12 | Verjährung | §§ 195, 199, 203, 204 BGB | Frist gewahrt? Hemmung? |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Behandlungsfehler Anspruch pruefen | Haftungspruefung und Klage; Template unten |
+| Variante A — Mandant will aussergerichtliche Loesung | Gutachterkommission AEK einschalten; Skill aek-schlichtung |
+| Variante B — Unklare Faktenlage | Sachverstaendigenbeauftragung vor Klage; Kostenrisiko beachten |
+| Variante C — Versicherungsmandat der Gegenseite | Direktverhandlung mit Haftpflichtversicherer pruefen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -162,6 +177,11 @@ Anlagen:
 
 [Unterschrift]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Beweislast und Darlegungslast
 

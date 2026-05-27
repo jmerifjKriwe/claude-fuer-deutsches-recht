@@ -15,6 +15,7 @@ description: "SaaS-Vertragsverhandlung mit Datenschutz Verfuegbarkeit Vendor-Loc
 6. Wie lange Vertragslaufzeit und welche Kündigungsfristen? Automatische Verlängerung?
 7. Gibt es Vendor-Lock-in-Risiken — proprietäres Datenformat, keine API-Export-Möglichkeit?
 8. Welcher Ansprechpartner beim Anbieter für Vertragsverhandlung — Legal, Sales, Procurement?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -62,6 +63,20 @@ description: "SaaS-Vertragsverhandlung mit Datenschutz Verfuegbarkeit Vendor-Loc
 | 10 | Laufzeit / Kündigung | §§ 314 BGB, 309 Nr. 9 BGB | Laufzeit, automatische Verlängerung, ordentliche / außerordentliche Kündigung? |
 | 11 | Preisanpassungsklauseln | § 308 Nr. 4 BGB | Sachlicher Grund? Widerspruchsrecht? |
 | 12 | Backup und Notfallwiederherstellung | Art. 32 DSGVO | RPO/RTO definiert? Backup-Frequenz? |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — SaaS-Vertrag verhandeln | Verhandlungs-Bausteine; Template unten |
+| Variante A — Mandant ist Anbieter statt Nutzer | AGB-Pruefung auf Anbieterseite; andere Klausel-Prioritaeten |
+| Variante B — Kritische Daten im SaaS | DSGVO-Auftragsverarbeitungsvertrag; BSI C5-Testat pruefen |
+| Variante C — Kuendigung laufender SaaS-Vertrag | Exit-Strategie; Datenportabilitaet Art. 20 DSGVO |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -155,6 +170,11 @@ Pflicht-Inhalte AVV Art. 28 Abs. 3 DSGVO — Checkliste
 [X] Nachweispflicht TOMs (Audits, Zertifikate)?
 [X] Loeschung / Rueckgabe bei Vertragsende?
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Beweislast und Darlegungslast
 

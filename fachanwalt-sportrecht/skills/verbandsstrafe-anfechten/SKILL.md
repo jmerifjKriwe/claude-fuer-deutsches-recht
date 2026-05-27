@@ -17,6 +17,7 @@ description: Pruefraster fuer die Anfechtung von Verbandsstrafen im Sport. Spann
 8. Tangiert die Sanktion die Berufsausübung des Mandanten (Art. 12 GG — Berufssportler)?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -68,6 +69,20 @@ description: Pruefraster fuer die Anfechtung von Verbandsstrafen im Sport. Spann
 | 14 | Parallelweg Strafrecht (§ 4 AntiDopG) koordinieren? | AntiDopG |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Verbandsstrafe anfechten | Berufungsschriftsatz; Template unten |
+| Variante A — Eilmassnahme wegen gesperrten Spielers | Einstweilige Massnahme beantragen; Spielfaehigkeit sichern |
+| Variante B — Verband verweigert Akteneinsicht | Akteneinsichtsrecht nach eigenem Verbandsrecht geltend machen |
+| Variante C — Strafe durch mehrere Verfahren | Gesamtstrafbildung analog § 54 StGB beantragen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -182,6 +197,11 @@ des Antragstellers); Anlage VV2 (Bescheid des Verbands).
 Mit freundlichen Grüßen
 [Rechtsanwalt/-anwältin]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

@@ -13,6 +13,7 @@ description: "Anhoerung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastr
 4. Wurde ein Vorverfahren durchgefuehrt oder ist es entbehrlich (§ 68 I 2 VwGO)?
 5. Soll Eilschutz (§ 80 V VwGO oder § 123 VwGO) beantragt werden?
 6. Welche Behoerde ist Bescheidsgegner und vor welchem VG ist Klage zu erheben?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -42,6 +43,9 @@ description: "Anhoerung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastr
 
 ## Schritt-fuer-Schritt-Workflow
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. **Bescheid analysieren:** Art des Verwaltungsakts, Begruendung, Rechtsbehelfsbelehrung, Zustellungsdatum
 2. **Frist berechnen:** Widerspruchsfrist 1 Monat ab Bekanntgabe (§ 70 VwGO); wenn keine Belehrung: 1 Jahr (§ 58 II VwGO)
 3. **Sofortvollzug pruefen:** Verkehrszeichen vollziehbar kraft Gesetzes (§ 80 II Nr. 2 VwGO) — bei konkretem Vollzugsschaden Eilantrag § 80 V VwGO
@@ -69,6 +73,20 @@ Obsiegen/Unterliegen
   Unterliegen ──→ Berufung OVG (§ 124 VwGO) oder Sprungrevision
   Obsiegen ──→ Vollstreckung (§ 172 VwGO) oder Einigung
 ```
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Widerspruch im Verkehrs-Infrastrukturrechts-Verfahren | Widerspruch nach Schema; Template unten |
+| Variante A — Widerspruchsverfahren ausgeschlossen direkte Klage | Klagefrist pruefen; direkt zum Verwaltungsgericht |
+| Variante B — Behoerde zeigt Kooperationsbereitschaft | Informelles Gespraech zuerst; Widerspruch nur bei Ablehnung |
+| Variante C — Mandant will Verfahren verzoegern taktisch | Vollstaendiger Widerspruch mit allen Gruenden; Zeit gewinnen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Output-Template Widerspruch
 
@@ -109,6 +127,18 @@ Wir beantragen, den Bescheid vom [DATUM] aufzuheben.
 Mit freundlichen Gruessen
 [UNTERSCHRIFT]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Harte Leitplanken
 

@@ -12,6 +12,7 @@ description: "Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit
 3. Wurde ein behordliches Audit oder eine Ueberwachung angekuendigt?
 4. Wie gross ist das Unternehmen — Anzahl Anlagen, Produktionsstaetten, Mitarbeiter?
 5. Welche Schulungsthemen sind akut (TEHG, KrWG-Novelle, BImSchG-Aenderung, CSRD)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen und Paragrafenkette
 
@@ -37,6 +38,9 @@ description: "Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit
 - Rehbinder/Schink Grundzuege des Umweltrechts § 8 (Umwelt-Compliance und Inhouse-Management)
 
 ## Schritt-fuer-Schritt-Workflow
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 ### A) Beauftragten-Bestellung pruefen
 
@@ -66,6 +70,20 @@ description: "Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit
 | Emissionsberichte aktuell | JA/NEIN | § 5 TEHG | Letzter Bericht: [DATUM] |
 | Gewaesserschutz-Audit | JA/NEIN | § 64 WHG | Letzter Audit: [DATUM] |
 | Unterweisung Mitarbeiter | JA/NEIN | § 130 OWiG | Protokoll: [DATUM] |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Umwelt-Compliance-Schulungsplan erstellen | Schulungsplan nach Schema; Template unten |
+| Variante A — Schulung nur fuer Fuehrungskraefte nicht alle Mitarbeiter | Fuehrungsebenen-Schulung; vereinfachter Plan |
+| Variante B — Schulung als Reaktion auf Behoerden-Auflage | Auflagerungs-konforme Schulung; Nachweis-Dokumentation betonen |
+| Variante C — Online-Schulung statt Praesenzseminar | Online-Variante des Plans; E-Learning-Formate einbinden |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Output-Template: Schulungsplan Umwelt-Compliance
 
@@ -111,6 +129,18 @@ Trigger: Neue Gesetzgebung (z.B. KrWG-Novelle, TEHG-Aenderung), Bussgeld-Beschei
           Behoerden-Audit-Ankuendigung.
 Verantwortlich: [NAME COMPLIANCE-OFFICER]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Vertiefung: CSRD-Berichtspflicht Umwelt-Compliance
 

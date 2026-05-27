@@ -21,6 +21,7 @@ Das Training großer KI-Modelle (LLMs, Bildgeneratoren, Musikgeneratoren) erford
 8. Ist der Mandant Einzelurheber oder Mitglied einer Verwertungsgesellschaft (VG Wort, GEMA, VG Bild-Kunst)?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -70,6 +71,20 @@ Das Training großer KI-Modelle (LLMs, Bildgeneratoren, Musikgeneratoren) erford
 | 12 | Schadensersatz berechnen: Lizenzanalogie; fehlender Opt-out → kein Anspruch; Opt-out vorhanden → voller Schadensersatz | § 97 Abs. 2 UrhG |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — TDM § 44b UrhG KI-Training Opt-Out | Opt-Out-Erklaerung; Template unten |
+| Variante A — Mandant will KI-Training erlauben | Lizenzvertrag statt Opt-Out; gesonderte Verguetung |
+| Variante B — Bereits laufendes KI-Training | Opt-Out fuer Zukunft; Schadensersatz fuer Vergangenheit pruefen |
+| Variante C — EU-DSA / Digital-Markets-Act beruehrt | Plattform-spezifische Opt-Out-Mechanismen zusaetzlich |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -183,6 +198,11 @@ Wir fordern Sie auf binnen [14 Tagen]:
 ### Baustein 3 – Opt-out-Dokumentation (Nachweis für Rechtsstreit)
 
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 OPT-OUT-DOKUMENTATIONSPROTOKOLL
 
 Rechteinhaber: [Name]

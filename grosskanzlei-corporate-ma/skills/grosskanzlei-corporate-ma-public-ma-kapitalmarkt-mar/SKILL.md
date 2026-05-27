@@ -16,6 +16,7 @@ Begleitet boersennotierte Transaktionen: WpUEG-Unterlagen (Angebotsunterlage, St
 3. Liegt bereits eine Insiderinformation vor — kuerzlich abgeschlossene Vorverhandlungen, Term Sheet, Absichtserklaerung?
 4. Ist Ad-hoc-Meldung bereits ausgeloest worden oder wird sie beabsichtigt — wann? Begründung fuer Aufschub (Art. 17 Abs. 4 MAR)?
 5. Welche weiteren kapitalmarktrechtlichen Pflichten sind zu beachten — Stimmrechtsmitteilungen §§ 33 ff. WpHG, Directors' Dealings Art. 19 MAR?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Rechtsgrundlagen
 
@@ -40,12 +41,29 @@ Begleitet boersennotierte Transaktionen: WpUEG-Unterlagen (Angebotsunterlage, St
 
 ## Schritt-fuer-Schritt-Workflow
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. **Insiderinformations-Check:** existiert eine Insiderinformation? (Art. 7 MAR) — M&A-Verhandlungen sind typischerweise Insiderinformationen ab dem Zeitpunkt konkreter Vereinbarungen
 2. **Ad-hoc-Meldung planen:** Zeitpunkt bestimmen; Aufschub nach Art. 17 Abs. 4 MAR dokumentieren; BaFin-Notifikation bei Aufschub
 3. **Insiderliste fuehren:** alle Personen mit Kenntnis der Insiderinformation (Art. 18 MAR); DSGVO-konforme Aufbewahrung; BaFin-Anfrage vorbereiten
 4. **Stimmrechtsmitteilungen pruefen:** §§ 33 ff. WpHG-Schwellen; bei Schwellenuebergang: Meldepflicht innerhalb von 4 Handelstagen
 5. **WpUEG-Pflichten:** Pflichtangebot ab 30 % Stimmrechte; Angebotsunterlage BaFin-Gestattung; Stellungnahme Vorstand und AR
 6. **Marktgerueicht-Protokoll:** bei Marktgerueicht: sofortige Ad-hoc-Pruefung; ggf. Bestaetigung oder Dementi; Kommunikationsprotokoll
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — MAR-Insiderliste anlegen nach Public M-and-A | Insiderlisten-Eintrag nach Schema; Template unten |
+| Variante A — Keine Ad-hoc-Pflicht Schwellenwert nicht erreicht | Nur interne Dokumentation ohne Veroeffentlichung |
+| Variante B — Insiderliste bereits angelegt Ergaenzung noetig | Ergaenzungseintrag; keine Neuerstellung der Gesamtliste |
+| Variante C — Transaktion platzt Liste wieder schliessen | Schliessungsdokumentation; Loeschfristen nach MAR Art. 18 |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Output-Template: MAR-Insiderlisten-Eintrag (Auszug)
 
@@ -66,6 +84,18 @@ AD-HOC-AUFSCHUB:
   Begruendung Art. 17 Abs. 4 MAR: [BEGRUENDUNG]
   BaFin-Notifikation: [ ] Ausstehend [ ] Erfolgt am [DATUM]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Rote Schwellen
 

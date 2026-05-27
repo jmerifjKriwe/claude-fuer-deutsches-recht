@@ -13,6 +13,7 @@ description: "Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfe
 4. Wer ist Mandant — Betreiber/Investor oder klagender Dritter (Nachbar, Umweltverband)?
 5. Liegt ein Ausgangsbescheid vor oder steht Antrag am Anfang?
 6. Welche Fristen laufen (Widerspruch § 70 VwGO, Klage § 74 VwGO je 1 Monat)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen und Paragrafenkette
 
@@ -42,6 +43,9 @@ description: "Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfe
 - Stoer/Scheidler BImSchG § 6 Rn. 1-50 (Genehmigungsvoraussetzungen)
 
 ## Schritt-fuer-Schritt-Workflow
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 ### A) Betreiber-Perspektive: Genehmigungsantrag
 
@@ -75,6 +79,20 @@ Liegt ein BImSchG-Bescheid vor?
   NEIN → Antragsverfahren laueft → Beteiligungsrechte wahren, Einwendungen erheben
 ```
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Widerspruch oder Klage gegen Drittanfechtung BImSchG | Klage-Schriftsatz nach Schema; Template unten |
+| Variante A — Genehmigung noch nicht bestandskraeftig Einwendung moeglich | Einwendung im Verfahren zuerst; Klage erst nach Abschluss |
+| Variante B — Mandant will nur bestimmte Auflagen anfechten | Teilanfechtung nur der belastenden Nebenbestimmungen |
+| Variante C — Drittanfechtung Nachbar klagt gegen Genehmigung | Beiladungsantrag stellen; Verteidigung der Genehmigung |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Output-Template Widerspruch/Klage Drittanfechtung
 
 **Adressat:** Widerspruchsbehoerde / Verwaltungsgericht — Tonfall: sachlich-juristisch
@@ -106,6 +124,18 @@ Die Genehmigung verletzt drittschuetzende Normen (§ 5 Abs. 1 Nr. 1 BImSchG):
 
 Anlagen: Eigentumsnachweis, Schallgutachten-Gegengutachten, Lageplan
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Fristen und Verfahrenseckpunkte
 

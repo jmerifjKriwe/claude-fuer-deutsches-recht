@@ -21,6 +21,7 @@ Die modifizierte Unterlassungserklärung ist das präzise Instrument zur Beseiti
 8. Ist eine negative Feststellungsklage als Alternative zur Abgabe der Erklärung sinnvoller?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -70,6 +71,20 @@ Die modifizierte Unterlassungserklärung ist das präzise Instrument zur Beseiti
 | 12 | Monitoring nach Abgabe: Mandantschaft über Kerntheorie aufklären; ähnliche Handlungen sind zu vermeiden | BGH I ZR 220/15 |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — MOD-Erklaerung Urheberrecht | MOD-Erklaerung; Template unten |
+| Variante A — Kein Eingriff ins Urheberrecht | Erklaerung entfaellt; nur Begleitschreiben |
+| Variante B — Werbeabsicht streitig | Freie Benutzung § 24 UrhG a.F. / § 23 UrhG n.F. pruefen |
+| Variante C — Open-Source-Lizenz betroffen | GPL/LGPL-Kompatibilitaet pruefen; MOD-Erklaerung anpassen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -207,6 +222,11 @@ des Klägers nachweisbar]
 
 [Ort, Datum, Unterschrift Kanzlei]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

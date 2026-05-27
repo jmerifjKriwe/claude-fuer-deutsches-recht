@@ -13,6 +13,7 @@ description: "Gerichtsstand und Rechtswahl bei internationalen Handelsstreitigke
 6. Handelt es sich um eine deliktische oder außervertragliche Streitigkeit – gilt Rom II VO?
 7. Ist eine der Parteien Verbraucher oder Arbeitnehmer – greifen Sonderschutzmechanismen Art. 17 ff. bzw. Art. 21 ff. Brüssel Ia VO?
 8. Handelt es sich um einen neuen Vertragsentwurf oder einen laufenden Streit – ist präventive Klauselgestaltung oder prozessuale Zuständigkeitsprüfung gefragt?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -66,6 +67,20 @@ description: "Gerichtsstand und Rechtswahl bei internationalen Handelsstreitigke
 | 8 | CISG: anwendbar bei internationalem Warenkauf? Abbedungen? | CISG Art. 1, 6 | CISG gilt automatisch sofern nicht abbedungen |
 | 9 | Vollstreckbarkeit: wo soll vollstreckt werden? EU → Art. 36 ff. Brüssel Ia; Nicht-EU → § 328 ZPO | Art. 36, § 328 ZPO | Vollstreckungsweg bestimmt Klagestrategie |
 | 10 | Neue Klausel: Empfehlungen für Gerichtsstand, Rechtswahl, CISG-Klarstellung, Schiedsklausel formulieren | Art. 25 Brüssel Ia, § 1029 ZPO | Vertragssicherheit für Mandant |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Gerichtsstand und Rechtswahl pruefen/formulieren | Gutachten Bruessel Ia / Rom I; Template unten |
+| Variante A — Kein Vertrag vorhanden | Deliktisches Anknuepfung nach Rom II Art. 4 ff. pruefen |
+| Variante B — Schiedsklausel im Vertrag | Bruessel Ia nicht anwendbar; §§ 1025 ff. ZPO einschlaegig |
+| Variante C — Drittstaaten ohne Bruessel Ia | Hague Judgments Convention / nationales IPR; HAVÜ 2019 |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatz-Bausteine
 
@@ -138,6 +153,11 @@ sowie die Bescheinigung nach Art. 53 Brüssel Ia (Anlage 1).
 
 Wir beantragen: Zwangsvollstreckung aus diesem Titel anzuordnen.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Beweislast
 

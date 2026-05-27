@@ -14,6 +14,7 @@ Form und Inhalt: Paragraf 313 Abs. 2 ZPO. Knapp, nuechtern, objektiv, im Praesen
 2. Sind alle streitigen und unstreitigen Tatsachen aus dem Aktenintake eindeutig getrennt?
 3. Hat das Gericht Hinweisbeschlüsse nach § 139 ZPO erlassen — wurden sie befolgt?
 4. Gibt es Widerklage oder Hilfsanträge — müssen im Tatbestand vollständig erscheinen?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Aktuelle Rechtsprechung
 
@@ -37,6 +38,9 @@ Form und Inhalt: Paragraf 313 Abs. 2 ZPO. Knapp, nuechtern, objektiv, im Praesen
 
 ## Schritt-für-Schritt-Workflow
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. **Einleitungssatz formulieren:** "Die Parteien streiten über [STREITGEGENSTAND] aus [VERTRAGSART/DELIKT]."
 2. **Unstreitige Tatsachen:** Chronologisch — Vertragsschluss, Lieferung, Zahlung etc.
 3. **Streitiges Klägervorbringen:** Eingeleitet mit "Der Kläger behauptet, ..." — nicht als Tatsache darstellen.
@@ -45,11 +49,37 @@ Form und Inhalt: Paragraf 313 Abs. 2 ZPO. Knapp, nuechtern, objektiv, im Praesen
 6. **Beklagtenantrag:** "Die Beklagte beantragt, die Klage abzuweisen."
 7. **Beweisaufnahme:** "Das Gericht hat Beweis erhoben durch Vernehmung der Zeugen [NAMEN]. Wegen der Einzelheiten wird auf das Sitzungsprotokoll vom [DATUM] Bezug genommen."
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Tatbestand fuer Zivilurteil schreiben | Tatbestand nach Schema; Template unten |
+| Variante A — Sachverhalt sehr komplex viele Beteiligte | Komprimierter Tatbestand; Anlage fuer Details verwenden |
+| Variante B — Partien sind einig nur formale Niederlegung noetig | Vereinfachter Tatbestand; nur wesentliche streitige Punkte |
+| Variante C — Tatbestand wird angesteuert auf Revision | Revisionssichere Tatbestandsdarstellung; alle relevanten Tatsachen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Output-Template
 
 **Adressat:** Urteil → Tatbestand — Tonfall: nüchtern-objektiv, Präsens
 
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 ## Tatbestand
 
 Die Parteien streiten über [STREITGEGENSTAND] aus einem [Kauf- / Werk- / Miet-]vertrag

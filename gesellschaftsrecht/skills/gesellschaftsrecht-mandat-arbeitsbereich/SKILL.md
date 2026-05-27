@@ -25,6 +25,7 @@ Vor Anlage eines neuen Mandats-Workspace sind folgende Angaben erforderlich:
 6. **Wesentliche Fakten:** 2–5 Sätze zu Gegenstand, Stakeholdern und dem, was auf dem Spiel steht.
 7. **Mandatsspezifische Abweichungen vom Praxisstandard:** Was weicht von den Kanzlei-Standardvorgaben ab (z.B. abweichende Haftungsdeckelung, Sprachregelung, Rechtsordnung)?
 8. **Verbundene Mandate:** Slug-Verweise auf verwandte Mandate (z.B. NDA-Mandat, das dem SPA-Mandat vorausging)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -60,6 +61,9 @@ Bei M&A-Mandaten (Kauf/Verkauf von Unternehmen) gilt der Rechtsanwalt als Verpfl
 | OLG München | 15 U 3248/19 | NJW-RR 2020, 638 | Schadensersatz wegen Verletzung des Interessenkonfliktverbots; Mandant kann Herausgabe von Vorteilen verlangen |
 
 ## Prüfschema: Mandats-Workspace
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -106,6 +110,20 @@ Bei M&A-Mandaten (Kauf/Verkauf von Unternehmen) gilt der Rechtsanwalt als Verpfl
 | Digitale Trennung nicht ausreichend | Mandatsinhalte sind ohnehin in unterschiedlichen Softwaresystemen gespeichert | Verschwiegenheitspflicht gilt auch für KI-gestütztes Drafting und Kontextverarbeitung; mandatsübergreifender Kontext-Schalter muss bewusst gesetzt werden |
 | Slug-System zu komplex | Einfachere Identifikation reicht | Slug-Eindeutigkeit ist zentral für fehlerfreies Routing; klares Muster (Mandant-Typ-Jahr) verhindert Verwechslungen |
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Gesellschaftsrechtlichen Mandats-Workspace aufbauen | Arbeitsbereich nach Schema; Template unten |
+| Variante A — Mandat nur punktuell Einzelfrage | Verkuerzte Dokumentation; nur relevante Teile des Templates |
+| Variante B — Internationales Gesellschaftsrecht noetig | Common-Law-Kompass Skill parallel einsetzen |
+| Variante C — M-and-A-Transaktion laeuft parallel | M-and-A-Skill parallel; Arbeitsbereich entsprechend erweitern |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Schriftsatzbausteine
 
 ### Baustein 1: Mandatsniederlegungsschreiben bei Interessenkonflikt
@@ -141,6 +159,18 @@ Mit freundlichen Grüßen
 [Kanzlei / Name]
 Rechtsanwalt / Rechtsanwältin
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ### Baustein 2: Mandats-Workspace-Vorlage (mandat.md)
 

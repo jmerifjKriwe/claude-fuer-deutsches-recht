@@ -219,6 +219,21 @@ Kläre vor Beginn:
 3. WEG-Sache: Klagegegner ist Gemeinschaft der Wohnungseigentümer (§ 44 Abs. 2 WEG n.F.)?
 4. Liegt Mängelprotokoll oder Zustandsbeschreibung vor?
 5. Streitwert: bei Räumung Jahresmiete; bei Mietminderung Jahresbetrag der Minderung
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — WEG/Miet Schriftsatz verfassen | Schriftsatz-Template; Template unten |
+| Variante A — Eilverfahren (Raeumung / Verfuegung) | Verkuerzter Schriftsatz; Dringlichkeit begruenden |
+| Variante B — WEG-Verfahren nach § 44 WEG | Besondere WEG-Verfahrensregeln beachten |
+| Variante C — Berufung zum LG | Anpassung auf Berufungsbegruendung statt Klageschrift |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Output-Template Räumungsklage (Auszug)
 
@@ -256,3 +271,8 @@ III. Zahlungsrückstand
 
 Beweis: Kontoauszüge Anlage K4; Zeuge [NAME] zum Beweisthema Nicht-Zahlung.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

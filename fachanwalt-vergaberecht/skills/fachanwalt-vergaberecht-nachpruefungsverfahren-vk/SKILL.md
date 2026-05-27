@@ -22,6 +22,7 @@ Klage gegen Vergabe-Entscheidungen vor Vergabekammer (VK).
 - Bei Bund: Bundeskartellamt (VK Bund)
 - Bei Land: Landeskartellbehoerde
 - Bei Kommune: meist Bezirksregierung VK
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## 2) Antragsfristen § 160 III GWB
 
@@ -133,6 +134,20 @@ Klage gegen Vergabe-Entscheidungen vor Vergabekammer (VK).
 - `fachanwalt-vergaberecht-de-facto-vergabe-klage` — bei De-facto-Vergabe
 - `fachanwalt-vergaberecht-orientierung` — Triage
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Nachpruefungsverfahren VK fuehren | Verfahrensprotokoll; Template unten |
+| Variante A — Auftraggeber bietet Abhilfe | Abhilfezusage formell sichern; NPA zuruecknehmen |
+| Variante B — VK entscheidet zuungunsten | OLG-Sofortbeschwerde § 171 GWB; Suspensiveffekt |
+| Variante C — Aufhebung des Verfahrens durch AG | Rechtmaessigkeit Aufhebung § 63 VgV pruefen; Schadensersatz |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Vertiefung: Output-Template VK-Verfahren
 
 ### Output-Template Antrag Zuschlagssperre § 169 GWB
@@ -158,3 +173,8 @@ waere hier nicht gerechtfertigt, weil:
 
 [Rechtsanwalt/-anwaeltin]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

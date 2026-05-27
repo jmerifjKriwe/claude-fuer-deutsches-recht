@@ -19,6 +19,7 @@ Vollständige und inhaltlich korrekte Betriebsratsanhörung vor jeder Kündigung
 6. **Ist die Zweiwochenfrist bei außerordentlicher Kündigung gefährdet?** — § 626 Abs. 2 BGB: 2 Wochen ab Kenntnis des Grundes für Arbeitgeber; Anhörung lauft innerhalb dieser Frist.
 7. **Wurde die Anhörung bereits dokumentiert?** — Datum der Übergabe / Zusendung an Vorsitzenden des Betriebsrats (§ 26 Abs. 2 BetrVG); Beginn Stellungnahmefrist.
 8. **Hat der Betriebsrat Widerspruch eingelegt?** — Wenn ja: Weiterbeschäftigungsanspruch § 102 Abs. 5 BetrVG bis zur Klärung durch Gericht.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -55,6 +56,9 @@ Vollständige und inhaltlich korrekte Betriebsratsanhörung vor jeder Kündigung
 
 ## Prüfschema Betriebsratsanhörung
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 | Schritt | Prüfpunkt | Norm | Rechtsfolge bei Fehler |
 |---|---|---|---|
 | 1 | Betriebsrat existiert im Betrieb? | § 1 BetrVG | Keine Anhörungspflicht |
@@ -84,6 +88,19 @@ Vollständige und inhaltlich korrekte Betriebsratsanhörung vor jeder Kündigung
 | Sozialauswahl + Vergleichsgruppe | Bei betriebsbedingter Kündigung | Wer im Vergleich, warum Mandant ausgewählt |
 | Abmahnungen (bei verhaltensbedingter) | Ja | Datum, Inhalt, Folge |
 | Krankheitszeiten (bei personenbedingter) | Ja | AU-Tage pro Jahr 2023/2024/2025 |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Anhoerungsruege § 102 BetrVG in Klageschrift | Ruege-Baustein nach Template unten |
+| Variante A — Anhoerungsmangel klar und offensichtlich | Auf starke Unwirksamkeit setzen; Vergleich auf hohem Niveau |
+| Variante B — Anhoerung formell ok aber inhaltlich unvollstaendig | Subjektive Determinationstheorie pruefen; Einzelfall-Argumentation |
+| Variante C — Kein Betriebsrat vorhanden | § 102 BetrVG entfaellt; andere Unwirksamkeitsgruende pruefen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schreibvorlage Anhörungsschreiben
 
@@ -138,6 +155,12 @@ Wir bitten um Stellungnahme binnen [1 Woche / 3 Tage] nach
 
 [Unterschrift Geschäftsführung / HR-Leitung]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Widerspruchsgründe § 102 Abs. 3 BetrVG
 

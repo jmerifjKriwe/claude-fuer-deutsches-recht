@@ -21,6 +21,7 @@ Eine urheberrechtliche Abmahnung ist kein Routineschreiben. Die Fehler der Empf�
 8. Liegt eine „massenhaft" aussehende Abmahnung vor oder ein individualisiertes Schreiben?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -81,6 +82,20 @@ Eine urheberrechtliche Abmahnung ist kein Routineschreiben. Die Fehler der Empf�
 | 12 | Unberechtigte Abmahnung: Gegenanspruch § 97a Abs. 4 UrhG prüfen | § 97a Abs. 4 UrhG |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Abmahnung Urheberrecht pruefen und reagieren | Gegendarstellung / UE; Template unten |
+| Variante A — Abmahnung berechtigt | Modifizierte UE mit Kostenvorbehalt; Vergleich anstreben |
+| Variante B — Abmahnung unberechtigte Schutzrechtsverwarnung | Schadensersatz gegen Abmahner pruefen § 97a Abs. 4 UrhG |
+| Variante C — Massenabmahnung / Abmahnmissbrauch | § 8c UWG Missbrauchseinwand; Beschwerde bei Verband |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -200,6 +215,11 @@ ODER
 [Ort, Datum, Unterschrift]
 ```
 
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 ---
 
 ## Beweislast
@@ -284,7 +304,7 @@ Bevor die Handlungsempfehlung ausgesprochen wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 13.11.2013 — I ZR 143/12 (Konferenz der Tiere — Parodie):** Ein Parodie-Werk muss einerseits die Merkmale des Originals evozieren, andererseits einen merklichen Unterschied zum Original aufweisen; eine blosse Nachahmung ohne eigenen Beitrag ist keine Parodie, die nach § 24 UrhG (a.F.) oder als Meinungsaeusserung geschuetzt waere.
+> **EuGH, Urt. v. 03.09.2014 — C-201/13 (Deckmyn):** Eine Parodie muss einerseits an ein bestehendes Werk erinnern, andererseits ihm gegenueber wahrnehmbare Unterschiede aufweisen und einen Ausdruck von Humor oder Verspottung darstellen; eine blosse Nachahmung ohne eigenen kuenstlerischen Beitrag ist keine Parodie. Die Schranke § 51a UrhG (Parodie, Karikatur, Pastiche) ist im Lichte dieser Leitentscheidung auszulegen.
 
 > **BGH, Urt. v. 29.04.2010 — I ZR 69/08 (Vorschaubilder I):** Wer ein urheberrechtlich geschuetztes Bild im Internet fuer Suchmaschinen zugaenglich macht, erklaert konkludent die Einwilligung in die technische Verarbeitung durch Suchmaschinen; diese Einwilligung gilt aber nicht fuer eine eigenhaendige Weiternutzung des Bildes durch Dritte.
 

@@ -12,6 +12,7 @@ description: "Verschaerfte Bereicherungshaftung nach § 819 BGB bei Boesglaeuigk
 3. Wann wurde die Klage zugestellt (Rechtshängigkeit → § 818 Abs. 4 BGB)?
 4. Welche Nutzungen, Gebrauchsvorteile oder Surrogate sind ab Bösgläubigkeit angefallen?
 5. Ist der Gegenstand nach Bösgläubigkeit zufällig untergegangen (verschärfte Zufallshaftung)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -60,10 +61,26 @@ Ab Zustellung der Klageschrift: dieselben verschärften Regeln, unabhängig von 
 
 ## Prüfschema
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 1. Wann Kenntnis vom Mangel des Rechtsgrundes (§ 819 Abs. 1)?
 2. Gesetz-/Sittenverstoß beim Empfänger (§ 819 Abs. 2)?
 3. Wann Zustellung Klageschrift (Rechtshängigkeit § 818 Abs. 4)?
 4. Nutzungen und Schäden ab diesem Zeitpunkt?
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Bereicherungsschuldner boesglaeubig ab bestimmtem Zeitpunkt | § 819 Abs. 1 Kenntnisnachweis; Template-Pruefung unten |
+| Variante A — Kenntnis schwer nachweisbar | Haeufung von Indizien; Rechtshängigkeits-Zustellzeitpunkt sicherer |
+| Variante B — Gesetzes- oder Sittenverstoß (§ 819 Abs. 2) | Verschaerfung ab Empfang; kein Kenntnisnachweis noetig |
+| Variante C — Gesamtschuldner mit unterschiedlicher Kenntnis | Individuell je Schuldner pruefen; kein Einheitsansatz |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Output-Template
 
@@ -83,5 +100,11 @@ Sachverhalt (kurz): [...]
 **Ergebnis:** Verschärfte Haftung nach § 819 BGB ab [...]. Anspruch in Höhe von [...] EUR.
 
 ---
+
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.

@@ -15,6 +15,7 @@ Vor Beginn der Gruendungsbegleitung klaeren:
 4. **Sacheinlagen?** Wird Stammkapital durch Sacheinlagen aufgebracht? → Sachgruendungsbericht (§ 5 Abs. 4 GmbHG) erforderlich; Zeitaufwand und Werthaltigkeitspruefung einplanen.
 5. **Geschaeftsfuehrer geprueft?** Bestellungshindernisse nach § 6 Abs. 2 GmbHG ausgeschlossen? (insb. Insolvenzstraftaten, Betrug, Untreue)
 6. **Transparenzregister-Pflicht bekannt?** Wirtschaftlich Berechtigte (§ 3 GwG) identifiziert? Eintragungsfrist 2 Wochen nach Gruendung.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zweck
 
@@ -91,6 +92,9 @@ Haftungsbeschränkung, Mindestkapital, Gründungsformalien, Dauer und Kosten.
 
 ## Ablauf
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. **Vorbereitung** – Firmenrecherche beim zuständigen Handelsregister und DPMA
    (Namensähnlichkeit); Gegenstandsformulierung; Bestellungshindernis-Prüfung
    § 6 Abs. 2 GmbHG; ggf. behördliche Genehmigungen vorab einholen.
@@ -124,11 +128,26 @@ Haftungsbeschränkung, Mindestkapital, Gründungsformalien, Dauer und Kosten.
      Fragebogen.
    - Bankverbindung: Geschäftskonto für Stammkapital und laufenden Zahlungsverkehr.
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — GmbH gruenden nach Standardprogramm | Gruendungsprotokoll nach Ablauf; Template unten |
+| Variante A — Gruendung eilt keine Zeit fuer Musterprotokoll | Musterprotokoll-GmbH § 2 Abs. 1a GmbHG als Schnelloption |
+| Variante B — Gesellschafter aus verschiedenen Laendern | Notarielle Gruendung im Inland; Vollmacht aus dem Ausland pruefen |
+| Variante C — Gruender will erst UG dann Hochstufung | UG-Gruendung zuerst; Hochstufung nach Kapitalaufbau |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Ausgabeformat
 
 - **Gruendungs-Checkliste** (Tabelle): Schritt | Norm | Verantwortlich | Frist.
 - **Gesellschaftsvertragsentwurf** (Schriftsatz): Mindestinhalt § 3 GmbHG; optionale Klauseln (Vinkulierung, Wettbewerbsverbot, Nachschusspflicht).
 - **Mandantenmemo** (Gutachtenstil): Kapitalaufbringungsrisiken, Vorgesellschaftshaftung, UG-Vergleich.
+
 
 ## Output-Template
 
@@ -184,6 +203,19 @@ Gesamtschaetzung: ca. [BETRAG EUR]
 Phase: [VORBEREITUNG / BEURKUNDUNG / EINZAHLUNG / ANMELDUNG / ABGESCHLOSSEN]
 Naechster Schritt: [AKTION] — Frist: [DATUM]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
 
 ## Rote Schwellen
 

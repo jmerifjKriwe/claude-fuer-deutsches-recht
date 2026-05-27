@@ -85,6 +85,7 @@ Internationale Geschäfte berühren immer mehrere Rechtsordnungen, Sanktionen, S
 - Übersetzungsbedarf
 - Beglaubigung Apostille
 - Zustellungs-Sprachen
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Routing-Matrix
 
@@ -112,6 +113,20 @@ Internationale Geschäfte berühren immer mehrere Rechtsordnungen, Sanktionen, S
 - **Heute** BAFA-Meldung Schutzschrift wegen drohendem Auslandsverfahren
 - **Diese Woche** Vertragsentwurf Schiedsverfahrens-Einleitung
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Mandat IWR triage und routen | Triage-Protokoll; Template unten |
+| Variante A — Mehrere Rechtsordnungen betroffen | Multi-Jurisdictions-Ansatz; lokale Korrespondenzanwaelte einbeziehen |
+| Variante B — Schnelle Sicherungsmassnahme noetig | Eilzustaendigkeit pruefen; vorher Arrest / einstweilige Verfuegung |
+| Variante C — Mandant will Streit vermeiden | ADR-Pfad pruefen bevor Klage/Schied |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Ausgabe
 
 - `triage-protokoll-iwr.md`
@@ -120,6 +135,11 @@ Internationale Geschäfte berühren immer mehrere Rechtsordnungen, Sanktionen, S
 - Sanktions-Check Liste konsolidiert
 - Mandatsvereinbarung mit Honorar (häufig RVG-überschritten — Honorarvereinbarung)
 - Empfehlung Folge-Skill plus eventuell Auslandskanzlei
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Quellen
 

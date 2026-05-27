@@ -15,6 +15,7 @@ description: "Deckungsklage gegen Versicherer auf Versicherungsleistung nach erf
 6. Sind alle Vertragsunterlagen (Police, AVB-Fassung zum Vertragsschluss, Antragsformular, sämtliche Schriftwechsel) vorhanden?
 7. Droht Verjährung (3 Jahre ab Jahresende der Kenntnis §§ 195, 199 BGB)? Hemmung durch Ombudsstelle § 204 BGB aktiv?
 8. Ist eine Streitverkündung an den Versicherungsmakler/Vermittler erforderlich (bei Beratungsfehlern)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -46,6 +47,9 @@ description: "Deckungsklage gegen Versicherer auf Versicherungsleistung nach erf
 
 ## Prüfschema in Tabellenform
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 | Nr. | Prüfschritt | Norm | Konsequenz |
 |---|---|---|---|
 | 1 | Außergerichtlich endgültige Ablehnung? | § 14 VVG | Klage erst nach endgültiger Ablehnung sinnvoll |
@@ -63,6 +67,20 @@ description: "Deckungsklage gegen Versicherer auf Versicherungsleistung nach erf
 | 13 | Zinsen berechnet? | §§ 280, 286, 288 BGB | Ab Verzugseinritt; 5 % über Basiszinssatz |
 | 14 | Außergerichtliche Anwaltskosten berechnet? | § 249 BGB; RVG | 1,3 Geschäftsgebühr aus Gegenstandswert |
 | 15 | Vergleich vor Klagezustellung möglich? | BGH IV ZR 81/19 | Vergleichsverhandlung hemmt Verjährung § 203 BGB |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Deckungsklage gegen Versicherer | Klageschrift nach Pruefschema; Template unten |
+| Variante A — Versicherer hat nur teilweise abgelehnt | Klage auf Differenzbetrag; Vergleich zu voller Deckung anstreben |
+| Variante B — Verjaehrung droht innerhalb 3 Monaten | Klage sofort; Verhandlung parallel |
+| Variante C — Mandant will keine Eskalation Folgegeschaeft | Mediation oder Ombudsmann-Verfahren zuerst; Klage danach |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -216,6 +234,18 @@ etwaigen Folgeprozess (§ 74 ZPO).
 
 [Kanzlei]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Beweislast und Darlegungslast
 

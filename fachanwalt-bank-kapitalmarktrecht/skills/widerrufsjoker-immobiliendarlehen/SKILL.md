@@ -19,6 +19,7 @@ Bei fehlerhafter Widerrufsbelehrung in Verbraucher-Immobiliendarlehen besteht ei
 6. **Ist ein neues Darlehen zu günstigeren Konditionen bereits verhandelt?** — Widerruf als Paralleltaktik bei Refinanzierung.
 7. **Hat die Bank eine Reaktion auf einen Widerrufsversuch gezeigt?** — Abwehrhaltung der Bank = Klagebedarf; Bank bestätigt Widerruf = Vergleichsverhandlung.
 8. **Besteht eine Verbundgeschäft-Konstellation (Kauf + Darlehen)?** — § 358 BGB: verbundene Verträge; Widerruf des Darlehens erfasst auch den Kaufvertrag.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -42,6 +43,9 @@ Bei fehlerhafter Widerrufsbelehrung in Verbraucher-Immobiliendarlehen besteht ei
 | Ab 21.03.2016 | § 356b BGB | Art. 247 EGBGB Anlage 7 | Nein (max. 1 Jahr + 14 Tage) |
 
 ## Prüfschema Widerrufsbelehrung
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 
 | Prüfpunkt | Fehlerkonstellation | BGH-Entscheidung | Folge |
 |---|---|---|---|
@@ -121,6 +125,19 @@ Nutzungsentschädigung Mandant an Bank:         ./. EUR [5 %pkt. × Valuta × Ze
 Saldo zugunsten Mandant:                       EUR [Netto]
 ```
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Widerrufsjoker Immobiliendarlehen pruefen und geltend machen | Widerruf und Rueckabwicklung nach Template unten |
+| Variante A — Zinsniveau inzwischen hoeher als bei Vertragsschluss | Widerruf wirtschaftlich nachteilig; Abwaegung mit Mandant |
+| Variante B — Bank ist einigungsbereit | Aussergerichtliche Rueckabwicklung suchen; schneller als Klage |
+| Variante C — Darlehen bereits abgeloest | Widerruf von abgeloestem Darlehen pruefen; Verjährung § 355 Abs. 3 S. 1 BGB |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Schriftsatzbaustein — Widerrufserklärung
 
 ```
@@ -173,6 +190,12 @@ Es wird beantragt:
 
 Streitwert: EUR [Nettovorteil des Widerrufs].
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast und Darlegungslast
 

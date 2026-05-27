@@ -21,6 +21,7 @@ Die Frachtführerhaftung ist das Herzstück des Transportrechts. Der entscheiden
 8. Ist ein Unterfrachtführer (Subunternehmer) beteiligt und wer ist Vertragspartner der Mandantschaft?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -86,6 +87,20 @@ Die Frachtführerhaftung ist das Herzstück des Transportrechts. Der entscheiden
 | 14 | Regressmöglichkeiten: Frachtführer gegen Unterfrachtführer | § 437 HGB, CMR Art. 34 ff. |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Frachtfuehrerhaftung pruefen | Haftungsgutachten; Template unten |
+| Variante A — Mehrere Haftungsgrundlagen | CMR + HGB + StVG konkurrierend pruefen |
+| Variante B — Subunternehmer-Haftung | Durchgriff auf Hauptfrachtfuehrer; CMR Art. 34 ff. |
+| Variante C — Versicherungsuebergang | § 67 VVG Regress Versicherer gegen Frachtfuehrer |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -210,6 +225,11 @@ kann keine Rede sein.
 [Ort, Datum]
 [Unterschrift]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

@@ -21,6 +21,7 @@ Das Recht auf Gegendarstellung ist ein Sonderrecht der Pressegesetzgebung: Es er
 8. Ist das Medium bundesweit verbreitet oder regional; wer ist die zuständige Landespressebehörde?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -69,6 +70,20 @@ Das Recht auf Gegendarstellung ist ein Sonderrecht der Pressegesetzgebung: Es er
 | 12 | Verwirkung: Sehr späte Einreichung kann Rechtsmissbrauch begründen wenn Aktualität fehlt | § 242 BGB |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Gegendarstellung Presse einfordern | Gegendarstellungsschreiben; Template unten |
+| Variante A — Falschmeldung bereits geloescht | Erklaerung Loeschung genuegt ggf.; erneute Gegendarstellung ueberdacht |
+| Variante B — Online-Recht statt Presserecht | Art. 17 DSGVO Loeschungsanspruch; Skill Medienrecht |
+| Variante C — Strafanzeige wegen uebler Nachrede | Strafrecht § 186 StGB parallel zur Gegendarstellung |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -169,6 +184,11 @@ Beweis: Anlage K1: beanstandeter Artikel; Anlage K2: Gegendarstellungsschreiben;
 
 [Ort, Datum, Unterschrift]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

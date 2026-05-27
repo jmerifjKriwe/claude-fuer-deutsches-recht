@@ -42,6 +42,9 @@ Außergerichtliche Beschwerde- und Schlichtungsverfahren im Bank-/Kapitalmarktre
 
 ## Workflow
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 ### Phase 1 — Vorgerichtliche Bank-Korrespondenz
 
 - Erstes Anschreiben mit Sachverhalt + Anspruch
@@ -121,6 +124,20 @@ Bevor losgelegt wird, klaere:
 3. Streitwert-Limit der Schlichtungsstelle erreicht? → Spruch bindend bis 10.000 EUR (private Banken).
 4. Laeuft Verjaebrung bald ab? → Hemmungs-Berechnung § 204 BGB; Ombudsmann SOFORT beauftragen.
 5. Parallel BaFin-Beschwerde sinnvoll (aufsichtsrechtlicher Druck)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Schlichtungsantrag beim Ombudsmann stellen | Vollstaendiger Antrag nach Template unten |
+| Variante A — geringe Schadenshoehe (unter 5.000 EUR) | Ombudsmann-Verfahren; guenstigere Alternative zur Klage |
+| Variante B — BaFin-Aufsichtsmassnahme sinnvoller | Beschwerde bei BaFin statt Schlichtung |
+| Variante C — parallele Klage noetig | Schlichtung und Klage koordinieren; Unterbrechungswirkung beachten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ### Output-Template Ombudsmann-Antrag
 **Adressat:** Ombudsmann der Privaten Banken (oder Sparkassen/Volksbanken) — Tonfall: sachlich, verstaendlich
@@ -157,3 +174,8 @@ Anlagen:
 
 [Rechtsanwalt/-anwaeltin fuer [NAME MANDANT]]
 ```
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+

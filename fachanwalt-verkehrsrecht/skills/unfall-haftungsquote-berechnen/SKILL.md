@@ -19,6 +19,7 @@ Konkrete Quotelung der Haftung zwischen Unfallbeteiligten — Grundlage für Sch
 6. Hat der Mandant eigene Mithaftung durch Tempoverstoß, fehlenden Sicherheitsabstand, Anschnallpflichtverletzung oder Alkohol?
 7. Wer ist die gegnerische Haftpflichtversicherung — liegt § 134 GWB analoge Information vor, oder Ablehnung?
 8. Droht Verjährung (3 Jahre ab Schluss des Jahres der Kenntnis, § 195 BGB)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -48,6 +49,9 @@ Konkrete Quotelung der Haftung zwischen Unfallbeteiligten — Grundlage für Sch
 | BGH | VI ZR 76/87 | 30.11.1999 | Nutzungsausfall; Ersatz wenn Nutzungswille und -möglichkeit bestanden |
 
 ## Prüfschema in Tabellenform
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Nr. | Prüfschritt | Norm | Ergebnis / Konsequenz |
 |---|---|---|---|
@@ -125,6 +129,20 @@ davon bereits reguliert                          - EUR ______
 RESTFORDERUNG                                     EUR ______
 ```
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Haftungsquote berechnen nach Verkehrsunfall | Quotenberechnung nach Betriebsgefahren-Schema; Schriftsatz unten |
+| Variante A — Alleinverschulden Gegner eindeutig | 100 Prozent-Anspruch ohne Quotenabzug; vereinfachtes Template |
+| Variante B — Quotenstreit Zeugen und Sachverstaendiger noetig | Beweissicherung zuerst; Klage nach Beweisaufnahme |
+| Variante C — Personenschaden Schmerzensgeld im Fokus | Haftungsquote als Grundlage; dann Schmerzensgeld-Skill separat |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Schriftsatzbausteine
 
 ### Baustein 1 — Aufforderungsschreiben Haftpflichtversicherer
@@ -196,6 +214,18 @@ verletzung für die eingetretenen Verletzungen darzulegen —
 BGH VI ZR 91/79 lässt nur eine Kürzung zu bei nachgewiesener
 Kausalität.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Beweislast und Darlegungslast
 

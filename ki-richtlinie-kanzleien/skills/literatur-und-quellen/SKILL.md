@@ -13,12 +13,29 @@ Rechtsquellen und Softlaw zum KI-Einsatz in der Anwaltschaft sind auf mehreren E
 
 ## Vorgehen
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. **Primärquellen stets prüfen**: Bei allen Normanwendungen auf den aktuellen Gesetzestext verweisen (gesetze-im-internet.de, EUR-Lex).
 2. **BRAK und DAV regelmäßig konsultieren**: Neue Hinweise, Stellungnahmen und Leitfäden werden auf den jeweiligen Websites veröffentlicht.
 3. **Kommentarliteratur nutzen**: Martini/Wendehorst (KI-VO), BeckOK KI-Recht (Lauber-Rönsberg u.a.) sowie KI-Zeitschriften wie KI-Recht und InTeR.
 4. **Judikatur beobachten**: Neue BGH- und OLG-Entscheidungen zum Thema KI in der Anwaltschaft zeitnah in die Richtlinie einarbeiten.
 5. **EU-Instanzen verfolgen**: Leitlinien des EU-KI-Büros (https://digital-strategy.ec.europa.eu/de/policies/ai-office) und FAQ der Europäischen Kommission zur KI-Kompetenz.
 6. **Aktualisierungsliste führen**: Neu erscheinende relevante Quellen in einer offenen Liste erfassen, die beim nächsten Halbjahres-Review ausgewertet wird.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Quellenverzeichnis und Verifizierungsprotokoll erstellen | Quellenverzeichnis nach Schema; Template unten |
+| Variante A — Quellenangaben aus KI unvollstaendig | Luecken als ungepruefte KI-Angaben markieren; Nachpruefung dokumentieren |
+| Variante B — Nur Gerichtsentscheidungen zu zitieren | Rechtsprechungs-Subset; Kommentarliteratur weglassen |
+| Variante C — Quellenangaben auf Englisch | Englischsprachige Zitierweise; Bluebook oder OSCOLA als Standard |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Vorlagentext / Bausteine
 
@@ -56,6 +73,18 @@ Rechtsquellen und Softlaw zum KI-Einsatz in der Anwaltschaft sind auf mehreren E
 - [ ] Neue BGH/OLG-Entscheidungen zu KI in Schriftsätzen
 - [ ] Neue EuGH-Entscheidungen zu DSGVO und KI
 
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
 ## Hinweise zur Aktualisierung
 
 Die Literaturliste ist beim halbjährlichen Richtlinien-Review vollständig zu überprüfen und um neu erschienene relevante Beiträge zu ergänzen. Sobald ein KI-VO-Durchführungsrechtsakt erscheint, ist er sofort in die Primärquellenliste aufzunehmen.
@@ -78,6 +107,7 @@ Die Literaturliste ist beim halbjährlichen Richtlinien-Review vollständig zu �
 3. Werden Kommentare und Monografien aus KI-Ausgaben abgeglichen?
 4. Gibt es eine aktuelle Literatursammlung fuer das relevante Rechtsgebiet?
 5. Sind Mitarbeiter geschult, zwischen Primaer- und Sekundaerquellen zu unterscheiden?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Output-Template — Quellenverzeichnis / Verifizierungsprotokoll
 **Adressat:** Kanzlei intern — Tonfall: dokumentierend

@@ -81,7 +81,7 @@ Mit freundlichen Gruessen
 
 - EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia), NJW 2024, 685 Rn. 55: DSFA-Pflicht nach Art. 35 DSGVO und Risikobewertung sind eigenständige Pflichten; fehlende DSFA begründet Verstoß nach Art. 83 Abs. 4 DSGVO unabhängig vom Schadenseintritt.
 - VG Wiesbaden, Beschl. v. 01.12.2021 — 6 L 738/21.WI, ZD 2022, 178 Rn. 22: DSFA-Pflicht bei KI-gestützten Entscheidungssystemen; neue Technologien nach Art. 35 Abs. 1 DSGVO iVm EDSA-Kriterien lösen regelmäßig DSFA-Pflicht aus — auch wenn kein Hochrisiko-KI-System nach KI-VO vorliegt.
-- BGH, Urt. v. 06.07.2021 — VI ZR 40/20, NJW 2021, 2726 Rn. 28: Mangelhafte Risikoabschätzung bei Verarbeitungen mit hohem Risiko erhöht Haftungsrisiko nach Art. 82 DSGVO erheblich.
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
 - EuGH, Urt. v. 04.05.2023 — C-300/21 (UI/Österreichische Post), NJW 2023, 1985 Rn. 44: Verstoß gegen Art. 35 DSGVO (fehlende DSFA) begründet keinen automatischen Schadensersatz, ist aber eigenständiger Bußgeldtatbestand Art. 83 Abs. 4 DSGVO.
 
 ## Triage zu Beginn

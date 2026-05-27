@@ -61,6 +61,8 @@ Vergabe-Nachprüfungs-Verfahren ist verfahrensrechtlich straff und schnell (5 Wo
 
 ## Workflow
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 ### Phase 1 — Verfahrens-Beobachtung
 
 - Bekanntmachung TED / Bund / Land
@@ -110,6 +112,20 @@ Vergabe-Nachprüfungs-Verfahren ist verfahrensrechtlich straff und schnell (5 Wo
 
 Stand: 05/2026. GWB §§ 155-184. 10-Tage-Rüge-Frist stehende BGH-Linie.
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — VK-Aufklaerung und Vergleich | Vergleichsvorschlag; Template unten |
+| Variante A — Aufklaerung ergibt neue Vergabefehler | Erweiterung NPA; VK informieren |
+| Variante B — Auftraggeber nicht kooperativ | Akteneinsicht § 165 GWB beantragen |
+| Variante C — Vergleich scheitert | VK-Entscheidung abwarten; OLG-Beschwerde vorbereiten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Vertiefung: Output-Template VK-Aufklaerung
 
 ### Triage — Bevor losgelegt wird, klaere:
@@ -118,6 +134,7 @@ Stand: 05/2026. GWB §§ 155-184. 10-Tage-Rüge-Frist stehende BGH-Linie.
 2. Welche Dokumente fordert VK an (Vergabeakte, Wertungsunterlagen, Akteneinblick)?
 3. Ist Akteneinsichtsrecht nach §§ 165, 166 GWB geltend zu machen?
 4. Bietet Auftraggeber Einigung an? → Vergleich im VK-Verfahren moeglich
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ### Output-Template Stellungnahme im VK-Verfahren
 **Adressat:** Vergabekammer [NAME] — Tonfall: sachlich-juristisch
@@ -145,3 +162,8 @@ Stellungnahme zum Aufklaerungsschreiben vom [DATUM]
 
 [Rechtsanwalt/-anwaeltin]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

@@ -12,6 +12,7 @@ description: "Pruefung von Softwaremangelanspruechen nach Kauf-Werk- oder Dienst
 3. Welche konkreten Funktionen fehlen oder funktionieren nicht wie zugesagt? Liegt ein Lasten-/Pflichtenheft vor?
 4. Wurde dem Lieferanten bereits eine Nacherfüllungsfrist gesetzt und welche Reaktion erfolgte?
 5. Ist der Mandant Verbraucher oder Unternehmer? Welche AGB-Klauseln gelten?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Anspruchsgrundlagen
 
@@ -43,6 +44,20 @@ description: "Pruefung von Softwaremangelanspruechen nach Kauf-Werk- oder Dienst
 
 Standardliteratur: Grüneberg BGB §§ 434, 633; Schneider IT-Vertragsrecht; MüKo-BGB / Westermann § 434.
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Software-Mangel geltend machen | Mangelruege; Template unten |
+| Variante A — Mandant will weiter mit Anbieter arbeiten | Nacherfuellung § 439 BGB bevorzugen; Klage als letztes Mittel |
+| Variante B — SLA-Verletzung statt Mangel | Vertragsstrafe pruefen; anderes Skill |
+| Variante C — Open-Source-Komponenten betroffen | Lizenz-Compliance pruefen; Schadensersatz nach allg. Delikt |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Schreibvorlage Mängelrüge mit Fristsetzung
 
 ```
@@ -66,6 +81,11 @@ geltend machen (§§ 437 Nr. 2 und Nr. 3 BGB i.V.m. §§ 323 280 281 BGB).
 
 Mit freundlichen Gruessen
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Übergabe
 

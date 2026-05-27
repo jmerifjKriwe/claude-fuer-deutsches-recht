@@ -19,6 +19,7 @@ Wenn der Versicherer die Leistung ganz oder teilweise ablehnt — systematische 
 6. Bestehen Beweismittel für den Schaden — Polizeibericht, Fotos, Sachverständigengutachten, ärztliche Atteste, Rechnungen?
 7. Hat der Versicherer gemäß § 14 VVG den Schaden nach Abschluss der nötigen Erhebungen fällig gestellt oder verzögert?
 8. Wurde die Ombudsstelle Versicherungen eingeschaltet (hemmt Verjährung § 204 BGB)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -50,6 +51,9 @@ Wenn der Versicherer die Leistung ganz oder teilweise ablehnt — systematische 
 | BGH | IV ZR 31/12 | 30.05.2012 | BU-Gutachten; konkrete Berufsunfähigkeit bezogen auf zuletzt ausgeübte Tätigkeit |
 
 ## Prüfschema in Tabellenform
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Nr. | Prüfschritt | Norm | Ergebnis / Konsequenz |
 |---|---|---|---|
@@ -96,6 +100,20 @@ Wenn der Versicherer die Leistung ganz oder teilweise ablehnt — systematische 
 - Rechtsschutzfall-Definition exakt prüfen: Tatbestand des Versicherungsfalls (Datum entscheidend!).
 - Wartezeiten 3 Monate in vielen Tarifen; Vorvertraglichkeit ausgeschlossen.
 - Deckungszusage einholen vor Klageerhebung.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Deckungsanfrage an Versicherer stellen | Deckungsanfrageschreiben nach Checkliste; Template unten |
+| Variante A — Versicherer hat bereits abgelehnt | Direkt zu Deckungsklage-Skill wechseln |
+| Variante B — Deckung unklar mehrere Policen parallel | Alle Policen pruefend Anfragen koordiniert stellen |
+| Variante C — Mandant will schnelle Zahlung ohne Rechtsstreit | Verhandlungsstrategie vor Fristsetzung; Klage nur als letztes Mittel |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -202,6 +220,18 @@ quotale Kürzung gerechtfertigt.
 Selbst bei Annahme grober Fahrlässigkeit wäre die Kürzung
 auf maximal [X] % begrenzt, da [Schwere und Umstände].
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Beweislast und Darlegungslast
 

@@ -12,6 +12,7 @@ description: "Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen erschuetter
 3. **Zeugnisverweigerungsrecht vorhanden?** — § 52 StPO: Angehoerige; § 53 StPO: Berufsgeheimnisstraeger. Zeuge ueber Recht belehrt?
 4. **Aussage-Konstanz pruefen:** Sind Angaben in der Polizeiaussage identisch mit der HV-Aussage? Abweichungen sind Angriffspunkt.
 5. **Schriftsatzzeugen:** Dokumentarische Beweise (Messprotokolle, Bericht der Polizei) als Ergaenzung zu Zeugenbefragung.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -67,6 +68,20 @@ description: "Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen erschuetter
 - Fehlerspannen und Unsicherheiten thematisieren
 - Eigener Gegensachverstaendiger ankuendigen
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Zeugen-Befragungsstrategie fuer Strafbefehl-Verfahren erstellen | Frageliste nach Schema; Template unten |
+| Variante A — Zeuge ist Belastungszeuge offensichtlich feindlich | Kurze konfrontative Befragung; kein ausfuehrliches Kreuzverhoer |
+| Variante B — Zeuge kennt Mandanten gut Entlastung moeglich | Entlastungszeuge foerdern; ausfuehrliche Befragung zu Gunsten |
+| Variante C — Zeuge verweigert Aussage zu erwarten | Befragungsstrategie fuer Aussageverweigerung vorbereiten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Output-Template Frageliste Zeuge
 
 ```
@@ -82,6 +97,18 @@ Fragen:
 
 Erwartetes Ergebnis: [Entlastung / Erschuetterung / Vorhalt]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Harte Leitplanken
 

@@ -13,12 +13,29 @@ Das anwaltliche Berufsrecht setzt dem Einsatz von KI-Systemen in Kanzleien spezi
 
 ## Vorgehen
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. **Grundsatz der Eigenverantwortung verankern**: Kein KI-Output darf ungeprüft übernommen werden; § 43 BRAO verlangt anwaltliche Endkontrolle.
 2. **Verschwiegenheitspflicht operationalisieren**: Für jeden KI-Dienstleister einen § 43e-BRAO-Vertrag abschließen (vgl. Musterklauseln im Plugin `musterklauseln-it-vertrag`).
 3. **Prüfpflicht für Zitate festschreiben**: Jede von einem KI-System erzeugte Fundstelle ist auf Existenz und inhaltliche Richtigkeit zu überprüfen (BRAK 12/2024, S. 2; DAV 32/2025).
 4. **Halluzinations-Risiko dokumentieren**: Mitarbeitende müssen wissen, dass KI-Systeme Fundstellen erfinden können (OLG Koblenz, NJW 2001, 1364 — zwar Altfall, aber auf KI-Halluzinationen übertragbar; AG Köln, Beschluss 02.07.2025 — 312 F 130/25).
 5. **Berufsrechtsbeauftragten einbinden**: Falls vorhanden, nach § 31 BORA bei Erstellung und Schulung einbeziehen.
 6. **Ausländische Dienstleister gesondert prüfen**: § 43e Abs. 4 BRAO erlaubt EU-Ausland und Drittstaaten, sofern vergleichbares Schutzniveau.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Berufsrechts-Check KI-Einsatz fuer Kanzlei erstellen | Baustein-Set nach Schema; Template unten |
+| Variante A — Kanzlei hat bereits BRAO-Richtlinie | Delta-Update statt Neuerstellung; bestehende Richtlinie ergaenzen |
+| Variante B — Internationales Buero mehrere Rechtsordnungen | Separate Bausteine pro Jurisdiction; gemeinsamer Rahmen |
+| Variante C — Mandant ist selbst Kanzlei Beratung nicht Kanzlei intern | Externe Beratungsperspektive; nicht interne Richtlinie |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Vorlagentext / Bausteine
 
@@ -30,6 +47,18 @@ Die Wahrung des Anwaltsgeheimnisses ist oberstes Gebot (§ 43a Abs. 2 BRAO, § 2
 
 **Baustein Prüfpflicht/Halluzinationen:**
 Alle von KI-Systemen generierten Fundstellen, Zitate und Rechtsangaben sind ausnahmslos auf ihre Existenz und ihren Inhalt hin zu überprüfen. Wer dies unterlässt, handelt pflichtwidrig nach § 43 BRAO und haftet für die Folgen. Ein „Grundvertrauen" wie bei erfahrenen Mitarbeitenden ist bei KI-generierten Arbeitsprodukten nicht angebracht (BRAK-Hinweise 12/2024; DAV-Stellungnahme 32/2025).
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Hinweise zur Aktualisierung
 
@@ -54,6 +83,7 @@ Die BRAK und der DAV aktualisieren ihre Hinweise und Stellungnahmen fortlaufend.
 3. Hat der KI-Anbieter seinen Sitz ausserhalb der EU — droht ein CLOUD Act-Zugriff?
 4. Werden KI-Ausgaben ohne menschliche Pruefung verwendet — Haftungsrisiko nach § 280 BGB?
 5. Ist die KI in der Lage, Mandate anderer Mandanten zu verwechseln — Interessenkonflikt-Risiko?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Output-Template — Berufsrechts-Check KI-Einsatz
 **Adressat:** Kanzlei-Management / Senior-Partner — Tonfall: strukturiert, berufsrechtlich

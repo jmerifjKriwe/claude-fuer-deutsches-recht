@@ -15,6 +15,7 @@ description: "Mandant hat Fuehrerschein entzogen bekommen oder befuerchtet Entzi
 6. Wurden Abstinenz-Belege (Haaranalyse, Urinproben) bereits erhoben? Zeitraum ab wann?
 7. Liegt ein Widerspruch oder eine Anfechtungsklage gegen den Verwaltungsakt der Fahrerlaubnisbehörde vor?
 8. Bei Strafrecht: Ist die Hauptverhandlung bereits terminiert? Verhandlungsstrategie für Sperrfristdauer?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -44,6 +45,9 @@ description: "Mandant hat Fuehrerschein entzogen bekommen oder befuerchtet Entzi
 
 ## Prüfschema in Tabellenform
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 | Nr. | Prüfschritt | Norm | Konsequenz |
 |---|---|---|---|
 | 1 | Strafgerichtliche oder verwaltungsrechtliche Entziehung? | §§ 69, 69a StGB; § 3 StVG | Rechtsmittel unterschiedlich |
@@ -61,6 +65,20 @@ description: "Mandant hat Fuehrerschein entzogen bekommen oder befuerchtet Entzi
 | 13 | Internationale Fahrerlaubnis betroffen? | Übk. Wiener Straßenverkehr | Wirkung in ausländischen Ländern |
 | 14 | Berufliche Konsequenzen — Maßnahmen? | — | Arbeitgeber informieren; ggf. Sonderregelung |
 | 15 | Selbstbehalte und Versicherungsrechte? | VVG; Kfz-Kasko | Entzug durch eigenes Verschulden: Regress-Risiko |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Mandant will gegen Fahrerlaubnisentzug vorgehen | Widerspruch und ggf. einstweiliger Rechtsschutz; Template unten |
+| Variante A — Entzug medizinisch begruendet MPU empfehlenswert | MPU-Vorbereitung statt Widerspruch; Rechtsweg wenn MPU unangemessen |
+| Variante B — Sofortige Wiedererteilung wirtschaftlich zwingend | Eilantrag aufschiebende Wirkung § 80 Abs. 5 VwGO parallel |
+| Variante C — Strafverfahren parallel laufend | Abstimmung Strafverteidiger; Widerspruch ggf. nach Strafverfahren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -195,6 +213,18 @@ II. Begründung
 Mit freundlichen Grüßen
 [Rechtsanwalt]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Beweislast und Darlegungslast
 

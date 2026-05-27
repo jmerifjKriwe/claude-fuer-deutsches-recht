@@ -19,6 +19,7 @@ Nach erfolgloser außergerichtlicher Phase die Klage strukturieren — beziffert
 6. Hat der Versicherer im außergerichtlichen Schriftwechsel Formulierungen verwendet, die Anerkenntniswirkung entfalten könnten (BGH IV ZR 178/04)?
 7. Wurde die Ombudsstelle eingeschaltet — Hemmungswirkung § 204 BGB dokumentiert?
 8. Droht Verjährung (3 Jahre §§ 195, 199 BGB)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -50,6 +51,9 @@ Nach erfolgloser außergerichtlicher Phase die Klage strukturieren — beziffert
 
 ## Prüfschema in Tabellenform
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 | Nr. | Prüfschritt | Norm | Konsequenz |
 |---|---|---|---|
 | 1 | Klageart: Leistungsklage oder Feststellungsklage? | §§ 253, 256 ZPO | BU-Dauerleistung → Feststellungsantrag |
@@ -67,6 +71,20 @@ Nach erfolgloser außergerichtlicher Phase die Klage strukturieren — beziffert
 | 13 | Sachverständige bestellt / vorgesehen? | § 411 ZPO; § 379 ZPO | Bei BU: medizinischer SV; bei Sachschaden: technischer SV |
 | 14 | PKH-Antrag oder Rechtsschutz-Deckung? | § 114 ZPO | Deckungszusage RS-Versicherung vorab |
 | 15 | Vergleich erwogen? | BGH IV ZR 81/19 | Vergleichsangebot vor Klage schriftlich; Verhandlung hemmt Verjährung |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Klage gegen Versicherer strategisch planen | Klagestrategie nach Pruefschema; Template unten |
+| Variante A — Aussichten gut aber Vergleich schneller | Vergleichsverhandlung vor Klageerhebung einleiten |
+| Variante B — Beweislage unsicher Sachverstaendiger noetig | Selbstaendiges Beweisverfahren zuerst; Klage nach Gutachten |
+| Variante C — Mehrere Versicherer beteiligt Abstimmung noetig | Federführungs-Versicherer bestimmen; Klagen koordiniert stellen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -203,6 +221,18 @@ Ratenzahlung in Höhe von EUR [Betrag] monatlich wird angeboten.
 
 [Rechtsanwälte]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Beweislast und Darlegungslast
 

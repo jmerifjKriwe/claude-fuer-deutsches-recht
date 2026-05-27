@@ -34,6 +34,7 @@ description: "Pflegekraft Arzt Lehrer oder Kassierer hat Long-COVID und fragt ob
 8. Liegt Berufsunfähigkeit vor — und wurde ein GdB-Antrag (§ 69 SGB IX) bereits gestellt?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -84,6 +85,20 @@ description: "Pflegekraft Arzt Lehrer oder Kassierer hat Long-COVID und fragt ob
 | 14 | Klage SG bei endgültiger Ablehnung | § 87 SGG |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Long-COVID BK-Anerkennung Berufsgenossenschaft | Widerspruchsschriftsatz BG; Template unten |
+| Variante A — Dienstunfall statt BK (Beamte) | Beamtenrecht statt SGB VII; anderer Anspruchsweg |
+| Variante B — Keine Listenanerkennung als BK | § 9 Abs. 2 SGB VII Wie-BK pruefen; neue Erkenntnisse |
+| Variante C — Privatversicherung daneben | AU-Versicherung und BG-Leistungen nicht ausschliessend |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -189,6 +204,11 @@ Zugleich beantragen wir ein Sachverständigengutachten nach
 Mit freundlichen Grüßen
 [Fachanwalt/-anwältin]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

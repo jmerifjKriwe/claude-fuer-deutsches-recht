@@ -16,8 +16,12 @@ Die Vorsatzanfechtung ist die häufigste und längste Anfechtungs-Art. Mandanten
 - Zeit-Punkt Insolvenz-Ereignis
 - Kenntnisstand Vertragspartner zum Tatzeitpunkt
 - Sanierungs-Bezug der Transaktion
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Schritt 1 — Tatbestand § 133 Abs. 1 InsO
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 ### Voraussetzungen
 
@@ -317,6 +321,20 @@ Schuldner zahlt sofort bei Lieferung.
 - `liquiditaetsvorschau-insolvenzrechtlich` — Zahlungs-Unfähigkeits-Prüfung
 - `konzerninsolvenz-koordination` — Inter-Company-Anfechtung
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Vorsatzanfechtung § 133 InsO pruefen und Anfechtungsschreiben erstellen | Anfechtungsschreiben nach Pruefschema; Template unten |
+| Variante A — Anfechtungsfrist 10 Jahre abgelaufen | Andere Anfechtungsgrundlagen pruefen §§ 129 ff InsO |
+| Variante B — Anfektungsgegner zahlungsunfaehig | Wirtschaftlichkeitspruefung der Anfechtung; ggf. verzichten |
+| Variante C — Glaeubigeranfechtung nach AnfG ausserhalb Insolvenz | AnfG als Alternative wenn Insolvenz noch nicht eroeffnet |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Ausgabe
 
 - `vorsatzanfechtung-{az}.md` mit Sachverhalts-Klassifikation Tatbestands-Prüfung Verteidigungs-Strategie
@@ -325,6 +343,7 @@ Schuldner zahlt sofort bei Lieferung.
 - Vergleichs-Strategie
 - Klage-/Antwort-Schriftsatz
 - Frist im Fristenbuch (Verjährung drei Jahre)
+
 
 ## Quellen
 
@@ -376,6 +395,19 @@ Nach fruchtlosem Ablauf dieser Frist werde ich Klage erheben.
 
 [UNTERSCHRIFT INSOLVENZVERWALTER]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
 
 ## Kommentarliteratur (Ergaenzung)
 

@@ -13,6 +13,7 @@ description: "KI-Governance und Berufsrecht: Rechtliche Rahmenbedingungen fuer d
 4. Muss der Mandant ueber KI-Einsatz informiert werden?
 5. Wer traegt Verantwortung fuer KI-generierte Ergebnisse (Qualitatskontrolle)?
 6. EU-KI-VO (AI Act): In welche Risikoklasse faellt der Anwendungsfall?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -57,6 +58,9 @@ Kanzlei-Anwendungen (Dokumentenanalyse, Rechercheassistenz): meist minimales bis
 
 ## Schritt-fuer-Schritt-Workflow
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 1. **KI-Werkzeug evaluieren** — Anbieter; Rechenzentrum; Daten-Policies; EU-KI-VO-Einordnung
 2. **AVV abschliessen** — mit Anbieter nach Art. 28 DSGVO; Drittland-SCC falls noetig
 3. **Mandanteninformation** — bei Verarbeitung personenbezogener oder mandatsrelevanter Daten informieren
@@ -64,6 +68,19 @@ Kanzlei-Anwendungen (Dokumentenanalyse, Rechercheassistenz): meist minimales bis
 5. **Qualitaetssicherung** — jedes KI-Ergebnis durch Anwalt inhaltlich pruefen; kein blindes Uebernehmen
 6. **Dokumentation** — wann wurde KI eingesetzt; wie wurde Ergebnis geprueft; Akte dokumentiert
 7. **Fehlerprotokoll** — bei KI-Irrtum: korrigieren; Mandant informieren; Verbesserung
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — KI-Tool-Einsatz in Kanzlei dokumentieren | Einsatz-Dokumentation nach Template unten |
+| Variante A — nur Research-Einsatz ohne Mandantendaten | Vereinfachte Dokumentation; DSGVO-Risiko gering |
+| Variante B — Mandantendaten werden verarbeitet | Volle Risikoanalyse; AVV und Mandantenhinweis noetig |
+| Variante C — KI generiert Schriftsaetze | Pruefpflicht des Anwalts hervorheben; Haftungsklausel erwaegen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Output-Template KI-Einsatzdokumentation
 
@@ -91,6 +108,12 @@ MANDANTENINFORMATION:
 
 FAZIT: KI-Ergebnisse wurden angemessen geprueft; Eigenverantwortung des Anwalts gewahrt.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Rote Schwellen
 

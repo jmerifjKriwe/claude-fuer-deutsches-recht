@@ -13,6 +13,7 @@ description: "Unternehmen erhaelt Anhoerung oder Bussgeld-Bescheid wegen Umwelt-
 4. Wurde bereits Akteneinsicht beantragt (§ 49 OWiG)?
 5. Ist der Mandant die juristische oder die natuerliche Person (GF-Haftung §§ 9, 30 OWiG)?
 6. Bestehen Verjaehjrungsfristen (§ 31 OWiG: 3 Jahre bei Bussgeld bis 100.000 EUR)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen und Paragrafenkette
 
@@ -43,6 +44,9 @@ description: "Unternehmen erhaelt Anhoerung oder Bussgeld-Bescheid wegen Umwelt-
 
 ## Schritt-fuer-Schritt-Workflow
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. **Anhoerungsschreiben analysieren**: Vorwurf, Norm, Tatzeit, Beweismittel, gesetzte Frist.
 2. **Akteneinsicht beantragen** (§ 49 OWiG): Vollstaendige Akte — Messberichte, Kontrolle-Protokolle, Zeugenaussagen.
 3. **Schuld pruefen**: Vorsatz / Fahrlassigkeit, Zurechnung auf Mandant, Delegationskette.
@@ -62,6 +66,20 @@ Anhoerungsschreiben erhalten
                NEIN → Einstellungsantrag wegen fehlendem Vorsatz/Fahrlassigkeit
       NEIN → Einspruch (§ 67 OWiG, 2 Wochen ab Bescheid)
 ```
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Einlassung im Umwelt-Bussgeldbescheid-Anhoerungsverfahren | Einlassung nach Schema; Template unten |
+| Variante A — Behoerde will Besprechung vor Bescheid | Vorgespräch annehmen; Einlassung dann muendlich |
+| Variante B — Mandant will Bussgeldbescheid akzeptieren | Keine Einlassung noetig; Bussgeldbescheid abwarten |
+| Variante C — Strafrecht parallel ermittelt | Strafverteidigung-Skill parallel; vorsichtige Einlassung |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Output-Template: Einlassung im Anhoerungsverfahren
 
@@ -96,6 +114,18 @@ Wir beantragen, das Verfahren einzustellen.
 
 Anlagen: Betriebsprotokoll, Wartungsnachweise, Vollmacht
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Vertiefung: Verbandsbussgeld § 30 OWiG
 

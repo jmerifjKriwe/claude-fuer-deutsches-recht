@@ -55,7 +55,7 @@ KI-Training und Text-Data-Mining?
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 19.03.2015 – I ZR 94/13, GRUR 2015, 1201 Rn. 31 – Trojanisches Pferd: Werknutzung ohne Lizenz begruendet Schadensersatz nach Lizenzanalogie; Lizenzgebuerenhoehe nach MFM-Tabellen als Anhaltspunkt.
+- BGH, Urt. v. 22.03.1990 – I ZR 59/88, GRUR 1990, 1008 – Lizenzanalogie: Werknutzung ohne Lizenz begruendet Schadensersatz nach Lizenzanalogie; Lizenzgebuehrenhoehe nach MFM-Tabellen als Anhaltspunkt (st. Rspr.).
 - BGH, Urt. v. 27.07.2017 – I ZR 228/15, GRUR 2017, 1233 Rn. 21 – Loud: Schadensersatz bei Filesharing richtet sich nach tatsaechlichem Schaden; pauschale Lizenz i.H.v. 200-600 EUR pro Song-Titel als Ausgangspunkt.
 - BGH, Urt. v. 17.11.2014 – VI ZR 76/14, NJW 2015, 773 Rn. 22 – Doppelte Lizenzgebuehr: Lizenzanaloger Schadensersatz bei Bilderrechtsverletzungen orientiert sich an den MFM-Empfehlungen; Verdoppelung bei fehlender Urheberbenennung.
 - EuGH, Urt. v. 22.06.2021 – C-682/18, GRUR 2021, 1331 Rn. 55 – YouTube/Cyando: Plattformbetreiber haftet nicht als unmittelbarer Taeter; fahrlaeessige Kenntnis + schnelles Loeschen (notice and take down) als Massstaab; DSA Art. 6 setzt fort.

@@ -13,6 +13,7 @@ description: "Antrag auf Aussetzung der Vollziehung AdV stellen um Steuerzahlung
 4. Droht unmittelbare Vollstreckung (Pfändungsankündigung, Kontopfändung)? → Eilantrag beim FG möglich
 5. Liegt ein Fall unbilliger Härte vor (Existenzbedrohung, Insolvenz bei Zahlung)?
 6. Soll hilfsweise Aufhebung der Vollziehung beantragt werden (bereits gezahlte Steuer zurückfordern)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Hintergrund
 
@@ -54,6 +55,9 @@ Im laufenden Einspruchsverfahren stellt das FA die Vollziehung aus auf Antrag we
 - Gräber/Stapperfend, FGO, § 69 Rn. 1-70 (Aussetzung der Vollziehung durch das FG, umfassend)
 
 ## Schritt-für-Schritt-Workflow
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Einspruch prüfen:** Einspruch eingelegt und Frist gewahrt? Falls nicht → zuerst Einspruch.
 2. **Begründung AdV zusammenstellen:** Ernstliche Zweifel (materielle Angriffspunkte aus Bescheidanalyse) oder unbillige Härte (Liquiditätslage, Existenzgefährdung).
@@ -144,6 +148,20 @@ Beweis: Eidesstattliche Versicherung Anlage Ast 1
 
 Keine gesetzliche Antragsfrist. Empfehlung: zusammen mit Einspruch oder Klage einreichen, spätestens vor Fälligkeit der Steuerschuld.
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Aussetzung der Vollziehung beantragen | Mandantenschreiben nach Schema; Template unten |
+| Variante A — AdV bei Finanzamt erfolglos Finanzgericht noetig | FG-Antrag nach § 69 Abs. 3 FGO als naechster Schritt |
+| Variante B — Mandant will Bescheid akzeptieren nur Rate stunden | Stundungsantrag statt AdV; einfacher Weg |
+| Variante C — Betrag sehr hoch Sicherheitsleistung gefordert | Sicherheitsleistungs-Verhandlung parallel; ggf. Buergschaft |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Output-Template Mandantenschreiben
 
 **Adressat:** Mandant — Tonfall: verständlich-erklärend
@@ -165,6 +183,18 @@ Verfahrensgang.
 
 [KANZLEI], [DATUM]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Ausgabe
 

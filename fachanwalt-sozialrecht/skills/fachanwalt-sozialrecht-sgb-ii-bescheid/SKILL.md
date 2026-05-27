@@ -34,6 +34,7 @@ description: "Mandant erhielt Buergergeld-Bescheid mit zu niedrigem Betrag Sankt
 8. Ist der Mandant im Karenzjahr (§ 12 Abs. 3 SGB II — erste zwölf Monate SGB-II-Bezug, Vermögen nur bei Erheblichkeit)?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -89,6 +90,20 @@ description: "Mandant erhielt Buergergeld-Bescheid mit zu niedrigem Betrag Sankt
 | 15 | Eilantrag § 86b SGG nötig (kein Suspensiveffekt § 39 SGB II)? | § 86b SGG |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — SGB-II-Bescheid pruefen und anfechten | Widerspruch; Template unten |
+| Variante A — Mandant will sofortige Zahlung | Eilantrag § 86b SGG parallel zum Widerspruch |
+| Variante B — Rueckforderungsbescheid | § 45 vs. § 48 SGB X unterscheiden; Vertrauensschutz |
+| Variante C — Sanktionsbescheid | Verfassungswidrigkeit BVerfGE 1 BvL 7/16 pruefen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -218,6 +233,11 @@ Wir beantragen: Aufhebung des Sanktionsbescheids.
 Mit freundlichen Grüßen
 [Fachanwalt/-anwältin]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

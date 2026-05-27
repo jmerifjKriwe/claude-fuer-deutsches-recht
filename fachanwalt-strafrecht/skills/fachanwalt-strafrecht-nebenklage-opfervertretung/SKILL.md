@@ -21,6 +21,7 @@ Die Nebenklage gibt der verletzten Person eine eigenständige Rolle im Strafverf
 8. Wünscht die Mandantschaft Anonymität oder befürchtet sie Repressalien durch Anschluss als Nebenklägerin?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -75,6 +76,20 @@ Die Nebenklage gibt der verletzten Person eine eigenständige Rolle im Strafverf
 | 12 | Rechtsmittelprüfung nach Urteil: Berufung/Revision nach § 400/§ 401 StPO – nur zu Lasten Angeklagter | §§ 400, 401 StPO |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Nebenklage Opfervertretung | Nebenklage-Anschlussschrift; Template unten |
+| Variante A — Opfer will nur Schmerzensgeld | Adhaesionsantrag statt Nebenklage |
+| Variante B — Taeterseitiges Gestaendnis vorhanden | Nebenklage trotzdem sinnvoll fuer Strafhoehe und Entschaedigung |
+| Variante C — Verjaehrungsrisiko | Nebenklagebefugnis fristen-unabhaengig; Verjaahrung des Hauptvorwurfs beachten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -169,6 +184,11 @@ beantrage ich ausdrücklich gerichtliche Entscheidung gemäß
 [Ort, Datum]
 [Unterschrift]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

@@ -13,6 +13,7 @@ description: "Markenanmeldung beim DPMA oder EUIPO vorbereiten und stratgisch ge
 6. Gibt es Registrierungen Dritter, die Widerspruch einlegen könnten (§ 42 MarkenG: 3 Monate ab Veröffentlichung)?
 7. Besteht Prioritätsinteresse aus einer früheren Anmeldung in einem PVÜ-Staat (6-Monats-Frist PVÜ Art. 4)?
 8. Wird die Marke tatsächlich genutzt oder ist Benutzungszwang nach 5 Jahren (§ 25 MarkenG) realistisch einhaltbar?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -51,6 +52,9 @@ description: "Markenanmeldung beim DPMA oder EUIPO vorbereiten und stratgisch ge
 
 ## Prüfschema Markenanmeldung
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
 | 1 | Markenfähiges Zeichen (grafisch darstellbar / darstellbar i. S. UMV 2017/1001)? | § 3 MarkenG | Grundvoraussetzung |
@@ -63,6 +67,19 @@ description: "Markenanmeldung beim DPMA oder EUIPO vorbereiten und stratgisch ge
 | 8 | Priorität aus Voranmeldung nutzbar? | § 34 MarkenG; PVÜ Art. 4 | Prioritätsfrist 6 Monate prüfen |
 | 9 | Schutzumfang (national/EU/international) festlegen | UMV 2017/1001; Madrider Protokoll | Kostenkalkulation je Schutzgebiet |
 | 10 | Benutzungsbereitschaft realistisch? | § 25 MarkenG | Einrede Nichtbenutzung nach 5 Jahren |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Marke beim DPMA oder EUIPO anmelden | Anmeldungs-Vollmuster unten |
+| Variante A — nur DPMA-Schutz gewuenscht | DPMA-Muster allein; EUIPO entfaellt |
+| Variante B — EU-weiter Schutz noetig | EUIPO-Checkliste unten; Parallelschutz pruefen |
+| Variante C — Widerspruch gegen eigene Anmeldung angekuendigt | Widerspruchs-Abwehrstrategie vorbereiten; Kennzeichnungsnachweis sichern |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatz-Bausteine
 
@@ -187,6 +204,12 @@ W 3: Benutzungsnachweise (Kataloge, Rechnungen, Umsatzzahlen)
 
 [Kanzlei, Fachanwalt/Fachanwältin für gewerblichen Rechtsschutz]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 

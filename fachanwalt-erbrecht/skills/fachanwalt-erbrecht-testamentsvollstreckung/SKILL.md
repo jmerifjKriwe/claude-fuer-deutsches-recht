@@ -15,6 +15,7 @@ description: "Testamentsvollstreckung einrichten oder bei Streit ueber Vollstrec
 6. Bestehen Konflikte zwischen Erben, zwischen Erben und TV oder mit Pflichtteilsberechtigten?
 7. Hat der TV das Amt bereits angenommen oder wird Beratung vor der Annahme-Entscheidung begehrt?
 8. Liegt Pflichtverletzung des TV vor — Grundlage Entlassungsantrag § 2227 BGB?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -49,6 +50,9 @@ description: "Testamentsvollstreckung einrichten oder bei Streit ueber Vollstrec
 | OLG München | 31 Wx 209/14 | 21.07.2015 | TV-Vergütung Unternehmensnachlass — erhöhter Prozentsatz bei Unternehmensführung; 1 % bis 3 % Jahresvergütung |
 
 ## Prüfschema — TV-Amtsführung
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 
 | Schritt | Prüfpunkt | Norm | Ergebnis |
 |---------|-----------|------|---------|
@@ -195,6 +199,19 @@ TV haftet für schuldhafte Pflichtverletzung nach §§ 276, 278 BGB (Verschulden
 4. Ggf. Ernennung Ersatz-TV § 2200 BGB
 5. Beschwerde möglich § 58 FamFG
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Testamentsvollstreckung begleiten oder anfechten | TV-Arten und Schriftsatzbausteine unten |
+| Variante A — TV fuehrt Amt pflichtwidrig | Entlassungsantrag § 2227 BGB; Rechnungslegungsklage |
+| Variante B — Erbe will TV loswerden | Wichtiger Grund pruefen; Entlassungsantrag Nachlassgericht |
+| Variante C — TV-Verguetung streitig | Hamburger Tabelle als Massstab; ggf. Abweichung begruenden |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Schriftsatz-Bausteine
 
 ### TV-Annahmeerklärung
@@ -277,6 +294,12 @@ nach § 2200 BGB, hilfsweise die Ernennung durch die
 
 Anlagen: Beweise für Pflichtverletzungen
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 

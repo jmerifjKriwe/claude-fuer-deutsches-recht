@@ -17,6 +17,7 @@ description: "Athlet steht vor NADA-Disziplinarverfahren wegen positivem Dopingt
 8. In welchem Verfahrensstadium ist das Mandat (NADA-Anhörung, DK-Entscheidung, DIS-Schiedsgericht, CAS)?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -68,6 +69,20 @@ description: "Athlet steht vor NADA-Disziplinarverfahren wegen positivem Dopingt
 | 14 | Trainingsberechtigung während Sperre (Art. 10.14 WADA) | Art. 10.14 WADA-Code |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Doping-Verfahren Verteidigung | Einlassung; Template unten |
+| Variante A — NADA-Akzeptanz statt CAS | Strafreduzierungs-Verhandlung mit NADA bevorzugen |
+| Variante B — Kontaminiertes Supplement | Nachweis Sorgfalt; WADA-Contamination-Programme pruefen |
+| Variante C — Vorwurf Blutdoping | Biolog. Repassport-Analyse; Sachverstaendigen-Einbeziehung |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -186,6 +201,11 @@ D. Fehlendem Vorsatz Art. 10.2.2 WADA-Code
 E. Sanktionshöhe unverhältnismäßig
    [Besondere Umstände; Karrierewirkung; internationale Vergleiche]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

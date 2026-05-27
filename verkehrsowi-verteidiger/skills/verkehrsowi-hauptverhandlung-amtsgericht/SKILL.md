@@ -12,6 +12,7 @@ description: "Hauptverhandlung in OWi-Sache am Amtsgericht vorbereiten und fuehr
 3. **Einlassung oder Schweigen?** — § 55 OWiG: Schweigen neutral; Einlassung nur wenn strategisch vorteilhaft.
 4. **Verstaendigungsangebot gemacht?** — Informelle Gespraech mit Staatsanwalt oder Richter vor HV.
 5. **Rechtsbeschwerde vorbereitbar?** — § 79 OWiG: Nur bei Geldbusse > 250 EUR oder Fahrverbot; Revisionsbegrenzt auf Rechtsfehler.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -52,6 +53,9 @@ description: "Hauptverhandlung in OWi-Sache am Amtsgericht vorbereiten und fuehr
 
 ## Ablauf-Schema HV OWi
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 ```
 1. Aufruf der Sache (§ 243 StPO i.V.m. § 71 OWiG)
 2. Feststellung Erscheinen aller Beteiligten
@@ -68,6 +72,20 @@ description: "Hauptverhandlung in OWi-Sache am Amtsgericht vorbereiten und fuehr
 10. Letztes Wort Betroffener
 11. Urteil (Freispruch / Geldbusse / Fahrverbot)
 ```
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — OWi-Hauptverhandlung am Amtsgericht fuehren | Plaedoyer nach Schema; Template unten |
+| Variante A — Mandant will Einspruch zuruecknehmen vor HV | Einspruchsruecknahme statt HV; Bussgeldbescheid wird rechtskraeftig |
+| Variante B — Freispruch unrealistisch Strafmass im Fokus | Strafzumessungs-Plaedoyer; Fahrverpflichtung pruefen |
+| Variante C — Rechtsbeschwerde bereits im Blick | Verteidigungsstrategie HV auf Rechtsbeschwerde ausrichten; Protokollfuehrung beachten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzkern Plaedoyer OWi
 
@@ -87,6 +105,18 @@ Fahrverbot / Herabsetzung der Geldbusse, weil:
 Antrag: Freispruch / Einstellung / Geldbusse von [X] EUR
 ohne Fahrverbot.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Harte Leitplanken
 

@@ -273,7 +273,7 @@ Verbote (Auswahl):
 
 - EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA Holding/Datenschutzbeauftragter Hessen), NJW 2024, 248 Rn. 55–78: Automatisches Scoring (Bonität, Kreditwürdigkeit) durch eine Auskunftei kann eine automatisierte Entscheidung im Sinne von Art. 22 DSGVO darstellen, wenn der Kredit-Score der bestimmende Faktor für die Entscheidung des Dritten (Bank) ist; DSGVO-Compliance muss auch für KI-Scoring-Systeme geprüft werden; Schnittstelle AI Act.
 - EuGH, Urt. v. 04.05.2023 — C-300/21 (UI/Österreichische Post), NJW 2023, 1985 Rn. 44: Verarbeitungen, die auf der SCHUFA-Entscheidungslinie liegen (automatisiert, schwerwiegende Folgen), erfordern auch AI Act-Risikoklassifikation nach Anhang III (Hochrisiko: Kreditbewilligung Nr. 5 lit. b).
-- BGH, Urt. v. 06.07.2021 — VI ZR 40/20, NJW 2021, 2726 Rn. 28: Zur DSGVO-Haftung bei KI-gestützten Verarbeitungen; mangelhafte Risikoabschätzung bei KI-Systemen erhöht Haftungsrisiko nach Art. 82 DSGVO.
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
 - VG Wiesbaden, Beschl. v. 01.12.2021 — 6 L 738/21.WI, ZD 2022, 178 Rn. 22: DSFA-Pflicht nach Art. 35 DSGVO für KI-Entscheidungssysteme; neue KI-Technologien lösen nach EDSA-Leitlinien regelmäßig DSFA-Pflicht aus; parallel dazu FRIA nach Art. 27 KI-VO.
 
 ## Triage zu Beginn

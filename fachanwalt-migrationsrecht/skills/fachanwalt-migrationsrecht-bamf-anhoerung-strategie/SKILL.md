@@ -59,6 +59,8 @@ Im Migrationsrecht gibt es kein klassisches Schiedsverfahren / ADR — Verfahren
 
 ## Workflow
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 ### Phase 1 — Erstgespräch
 
 - Identität klären
@@ -139,6 +141,21 @@ Bevor losgelegt wird, klaere:
 3. Liegt das Anhoerungsprotokoll der Erstanhoerung vor — Konsistenz pruefen?
 4. Welche Sprache des Dolmetschers ist am naechsten zur Muttersprache des Mandanten?
 5. Frist: § 36 AsylG (1 Woche) oder § 74 AsylG (2 Wochen) nach zu erwartendem Bescheid?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — BAMF-Anhoerung Strategie vorbereiten | Stellungnahme nach Anhoerung; Template unten |
+| Variante A — Anhoerung ohne Anwalt stattgefunden | Ruege der Verfahrensverletzung; Wiederholungsanhoerung beantragen |
+| Variante B — Dolmetscher-Problem | Ruege Uebersetzungsfehler; qualifizierter Dolmetscher |
+| Variante C — Subsidiarer Schutz statt Asyl | Art. 15 RL 2011/95 pruefen; niedrigere Anerkennungshuerden |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Output-Template: Stellungnahme nach BAMF-Anhoerung
 
@@ -187,3 +204,8 @@ Abschiebungsverbot] zuzuerkennen.
 [RA-NAME]
 Anlagen: K1 [Beschreibung], K2 [...]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

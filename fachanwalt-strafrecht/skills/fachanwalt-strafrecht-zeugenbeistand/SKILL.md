@@ -21,6 +21,7 @@ Der Zeugenbeistand ist die anwaltliche Begleitperson eines Zeugen – nicht des 
 8. Haben Sie bereits Angaben gegenüber der Polizei gemacht und wenn ja, in welchem Umfang?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -77,6 +78,20 @@ Der Zeugenbeistand ist die anwaltliche Begleitperson eines Zeugen – nicht des 
 | 13 | Nachbereitung: Zeugen-Memo, Prüfung weiterer Schritte (Beschwerde, Strafanzeige bei Druckausübung) | §§ 162, 306 StPO |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Zeugen-Beistand | Zeugenbeistand-Protokoll; Template unten |
+| Variante A — Zeuge wird Beschuldigter | Sofort Aussageverweigerung; Mandatsumwandlung |
+| Variante B — Zeuge im Ausland | Internationale Rechtshilfe; Aussagepflicht pruefen |
+| Variante C — Behoedenzeuge (Beamter) | Aussagegenehmigung Dienststelle; Amtsgeheimnis |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -169,6 +184,11 @@ liegenden Beweise nicht möglich (BGH 1 StR 491/09).
 [Ort, Datum]
 [Unterschrift]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

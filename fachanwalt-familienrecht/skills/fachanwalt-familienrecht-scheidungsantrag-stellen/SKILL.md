@@ -13,6 +13,7 @@ description: "Scheidungsantrag nach §§ 133 ff. FamFG: Trennungsjahr § 1565 Ab
 6. Wie hoch sind die monatlichen Nettoeinkommen beider Ehegatten (relevant für Verfahrenswert und VKH-Prüfung)?
 7. Haben Sie bereits einen Ehevertrag oder Scheidungsfolgenvereinbarung mit Ihrem Ehegatten oder dessen Anwalt ausgehandelt?
 8. Kennen Sie das Datum der Eheschließung und liegt die Heiratsurkunde vor?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -52,6 +53,9 @@ description: "Scheidungsantrag nach §§ 133 ff. FamFG: Trennungsjahr § 1565 Ab
 
 ## Prüfschema Scheidungsantrag
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
 | 1 | Ehe wirksam geschlossen? | §§ 1303 ff. BGB; PStG | Voraussetzung; Nichtehe schließt Scheidung aus |
@@ -66,6 +70,19 @@ description: "Scheidungsantrag nach §§ 133 ff. FamFG: Trennungsjahr § 1565 Ab
 | 8 | Versorgungsausgleich ausschließbar? | § 6 VersAusglG | Nur durch notarielle Vereinbarung oder Gerichtsentscheid |
 | 9 | Anwaltszwang beachtet? | § 114 FamFG | Muss durch Anwalt gestellt werden; Eigenantrag unzulässig |
 | 10 | VKH beantragt wenn nötig? | § 76 FamFG | Gleichzeitig mit Scheidungsantrag möglich |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — einvernehmlicher Scheidungsantrag | Muster einvernehmlich unten; VKH-Antrag beachten |
+| Variante A — einseitiger Antrag nach 3 Jahren Trennung | Muster einseitig unten; Haertefall-Ausnahme nicht noetig |
+| Variante B — Haertefall § 1565 Abs. 2 BGB | Haertefall-Muster unten; hohe Huerden beachten |
+| Variante C — Versorgungsausgleich ist strittig | VA-Ausschluss-Vereinbarung erwaegen; separates VA-Verfahren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatz-Bausteine
 
@@ -225,6 +242,12 @@ Anlage: Erklärung über persönliche und wirtschaftliche Verhältnisse (amtl. V
 [Ort, Datum]
 Rechtsanwalt/Rechtsanwältin [Name]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 

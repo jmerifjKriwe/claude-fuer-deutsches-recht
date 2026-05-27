@@ -17,6 +17,7 @@ Diese acht Fragen sind in der angegebenen Reihenfolge zu klaeren — Fragen 1 bi
 6. **Wirtschaftliche Verhaeltnisse:** Gesellschaftsgroesse (Umsatz, Mitarbeiter, Bilanz)
 7. **Fristen ausserhalb der akuten Eilbeduerftigkeit:** Verjaehrung Geschaeftsfuehrer-Haftung 5 Jahre (§ 43 Abs. 4 GmbHG)
 8. **Interessenkonflikt-Check:** Vertritt die Kanzlei bereits eine andere Partei derselben Transaktion?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -40,6 +41,9 @@ Diese acht Fragen sind in der angegebenen Reihenfolge zu klaeren — Fragen 1 bi
 Gesellschaftsrechts-Mandate sind heterogen — vom Beschluss-Streit bis zum M&A-Closing. Triage stellt die richtige Rechtsform und den richtigen Vorgang sicher.
 
 ## Ablauf — acht Fragen
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 ### Frage 1 — Mandantenrolle?
 
@@ -182,6 +186,20 @@ Gesellschaftsrechts-Mandate sind heterogen — vom Beschluss-Streit bis zum M&A-
 7. **Interessenkonflikt-Check:** Kanzlei-internes System pruefen; bei Zweifeln Mandat ablehnen oder aufteilen (§ 43a Abs. 4 BRAO).
 8. **Ausgabe erzeugen:** Triage-Protokoll + Folge-Skill-Empfehlung.
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Gesellschaftsrechtliches Mandat triagieren | Triage nach acht Fragen-Schema; Output unten |
+| Variante A — Mandant beschreibt Problem unklar Beratung zuerst | Erstberatung und Sachverhaltsaufklaerung vor Triage |
+| Variante B — Mehrere Gesellschaften betroffen | Triage fuer jede Gesellschaft separat durchfuehren |
+| Variante C — Nur Dokumentencheck keine Mandatierung gewuenscht | Kurzgutachten statt Vollmandat |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Output-Template
 
 **Adressat:** Bearbeitender Anwalt / Kanzlei-intern — Tonfall: sachlich-strukturiert, fristen-orientiert
@@ -224,6 +242,18 @@ Interessenkonflikt geprueft: [JA / NEIN — ERGEBNIS]
 1. [AKTION] — Frist: [DATUM]
 2. [AKTION] — Frist: [DATUM]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Rote Schwellen
 

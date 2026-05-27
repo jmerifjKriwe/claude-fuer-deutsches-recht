@@ -17,6 +17,7 @@ description: "Mandant fragt welcher Aufenthaltstitel fuer ihn passt oder hat Abl
 8. Bei humanitärem Aufenthalt: Welche Schutzanerkennung liegt vor (GFK, subsidiär, national § 60 AufenthG)?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -89,6 +90,20 @@ description: "Mandant fragt welcher Aufenthaltstitel fuer ihn passt oder hat Abl
 | 15 | Antrag stellen; Fiktionsbescheinigung beantragen | § 81 Abs. 5 AufenthG |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Aufenthaltstitel-Pruefung | Pruef-Protokoll; Template unten |
+| Variante A — Aufenthalts-Aenderung durch Familienstand | Abgeleitetes Aufenthaltsrecht pruefen; Familiennachzug |
+| Variante B — Niederlassungserlaubnis angestrebt | § 9 AufenthG Voraussetzungen pruefen; Sprachkenntnisse |
+| Variante C — Aufenthaltsrecht durch EU-Freizuegigkeit | FreizuegG/EU statt AufenthG; andere Rechtslage |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -204,6 +219,11 @@ Voraussetzungen sind erfüllt:
 Mit freundlichen Grüßen
 [Rechtsanwalt/-anwältin]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

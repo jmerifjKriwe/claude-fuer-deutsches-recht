@@ -13,6 +13,7 @@ description: "Unternehmen beantragt WHG-Erlaubnis oder hat Altlastenverantwortun
 4. Ist ein Sanierungsplan nach §§ 13, 14 BBodSchG erforderlich?
 5. Bestehen Erstattungsansprueche gegen Mitverantwortliche (§ 24 BBodSchG)?
 6. Besteht Freistellungs- oder Haftungsregelung im Kaufvertrag?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen und Paragrafenkette
 
@@ -42,6 +43,9 @@ description: "Unternehmen beantragt WHG-Erlaubnis oder hat Altlastenverantwortun
 - Czychowski/Reinhardt WHG §§ 8-12, 57 (Kommentar Wasserrecht)
 
 ## Schritt-fuer-Schritt-Workflow
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 ### A) Wasserrecht: Einleitungs-/Entnahme-Erlaubnis
 
@@ -73,6 +77,20 @@ Kontamination festgestellt?
        Unverhältnismaessig? (Kosten > Grundstueckswert) → Anfechtung
        Gesamtschuldner? → Erstattungsklage § 24 BBodSchG
 ```
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Stellungnahme gegen Sanierungsanordnung Wasser-Boden | Stellungnahme nach Schema; Template unten |
+| Variante A — Sanierungsanordnung teilweise berechtigt | Teilaner-kenntnis der Anordnung; Umfang und Kosten verhandeln |
+| Variante B — Kausalitaet unklar mehrere Verursacher | Kausalitaets-Einwand; Miturheberschaft anderer Verursacher pruefen |
+| Variante C — Sanierungskosten wirtschaftlich existenzbedrohend | Verhaeltnismaessigkeitspruefung; Teilsanierung als Kompromiss anbieten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Output-Template: Stellungnahme gegen Sanierungsanordnung
 
@@ -108,6 +126,18 @@ Massnahmen bis [BETRAG] EUR.
 
 Anlagen: Gutachten Grundstueckswert, Historische Nutzungsnachweise, Vollmacht
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Fristen-Ueberblick
 

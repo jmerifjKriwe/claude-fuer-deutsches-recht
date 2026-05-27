@@ -15,6 +15,7 @@ description: "Bieter-Eignungspruefung im Vergabeverfahren pruefen: Bieter wurde 
 6. Wird die Eignungsleihe § 47 VgV in Anspruch genommen — liegt Verfügungserklärung des Dritten vor?
 7. Sind die Eignungskriterien verhältnismäßig zum Auftrag (§ 122 Abs. 4 GWB), oder diskriminierend?
 8. Wird die Auswahlentscheidung bei eingeschränkter Teilnehmerzahl (nichtoffenes Verfahren) beanstandet?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -61,6 +62,20 @@ description: "Bieter-Eignungspruefung im Vergabeverfahren pruefen: Bieter wurde 
 | 13 | Bietergemeinschaft — Eignungsanforderungen erfüllt? | § 44 VgV | Gesamteignung ausreichend; kein Mitglied hat Ausschlussgrund |
 | 14 | Nachforderungsrecht AG ausgeübt? | § 56 Abs. 2 VgV | AG darf fehlende Unterlagen nachfordern; nicht bei inhaltlichen Mängeln |
 | 15 | Rüge vorbereitet? | § 160 Abs. 3 GWB | Frist: bis Angebotsabgabe bei erkennbarem Fehler in Bekanntmachung |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Eignungspruefung VK-Verfahren | Ruegeschriftsatz / NPA; Template unten |
+| Variante A — Eignungsanforderung unverhaaltnismaessig | Ruege § 160 Abs. 3 GWB; alternativ Nachpruefungsantrag |
+| Variante B — Bieter bereits ausgeschlossen | Sofortige Ruege; Stillhaltefrist laeuft |
+| Variante C — Selbstreinigung nach Ausschlussgrund | § 125 GWB Selbstreinigung nachweisen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -176,6 +191,11 @@ Wir fordern Sie auf, die Beigeladene vom Verfahren auszuschließen.
 
 [Rechtsanwälte]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Beweislast und Darlegungslast
 

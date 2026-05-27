@@ -21,6 +21,7 @@ Urheberrechtliche Abmahnungen stellen Mandantinnen und Mandanten vor eine doppel
 8. Liegt der Verletzungszeitpunkt innerhalb der Verjährungsfrist (3 Jahre ab Kenntnis)?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -72,6 +73,20 @@ Urheberrechtliche Abmahnungen stellen Mandantinnen und Mandanten vor eine doppel
 | 12 | Verjährung prüfen: Verletzungsdatum + 3 Jahre; bei Unkenntnis des Verletzers: kenntnisunabhängige Frist 10 Jahre | § 102 UrhG |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Abmahnung Urheberrecht pruefen und reagieren | Gegendarstellung / UE; Template unten |
+| Variante A — Abmahnung berechtigt | Modifizierte UE mit Kostenvorbehalt; Vergleich anstreben |
+| Variante B — Abmahnung unberechtigte Schutzrechtsverwarnung | Schadensersatz gegen Abmahner pruefen § 97a Abs. 4 UrhG |
+| Variante C — Massenabmahnung / Abmahnmissbrauch | § 8c UWG Missbrauchseinwand; Beschwerde bei Verband |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -169,6 +184,11 @@ erstatten. Andernfalls werden wir Klage erheben.
 
 [Ort, Datum, Unterschrift]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

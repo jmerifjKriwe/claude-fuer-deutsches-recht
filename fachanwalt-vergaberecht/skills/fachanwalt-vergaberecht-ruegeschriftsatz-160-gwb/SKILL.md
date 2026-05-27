@@ -93,6 +93,20 @@ Ruege als Pflicht-Vorstufe zum Nachprüfungsverfahren.
 - `ruegeschriftsatz-erstellen` (Power-Tool) — Schriftsatz-Hilfe
 - `fachanwalt-vergaberecht-orientierung` — Triage
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Ruegeschriftsatz § 160 GWB | Ruegeschreiben; Template unten |
+| Variante A — Ruegefrist verstrichen | Praeklusion; NPA trotzdem erwaegen wenn noch Spielraum |
+| Variante B — Verstoss aus Zuschlagsinformation erkennbar | § 160 Abs. 3 Nr. 4 GWB; 15-Tage-Frist ab Info-Schreiben |
+| Variante C — Mehrere Verstossgruende | Alle Ruegen in einem Schreiben; Praeklusion vermeiden |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Vertiefung: Leitsaetze und Output-Template
 
 ### Triage — Bevor losgelegt wird, klaere:
@@ -102,6 +116,7 @@ Ruege als Pflicht-Vorstufe zum Nachprüfungsverfahren.
 3. Welche konkrete Norm verletzt? → Wertung / Eignung / Vergabeunterlage / Zuschlagskriterien
 4. Informationsschreiben § 134 GWB erhalten? → Stillhaltefrist 10 Tage vor Zuschlag
 5. Zuschlag bereits erteilt? → Keine Ruege mehr sinnvoll; Schadensersatz § 181 GWB
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ### Ergaenzende Leitsaetze Ruegeschriftsatz
 
@@ -156,3 +171,8 @@ ruegen wir folgenden Vergabeverstoss:
 Mit freundlichen Gruessen
 [Rechtsanwalt/-anwaeltin, Fachanwalt Vergaberecht]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

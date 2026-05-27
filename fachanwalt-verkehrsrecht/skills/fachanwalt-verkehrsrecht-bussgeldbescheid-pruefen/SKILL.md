@@ -15,6 +15,7 @@ description: "Mandant hat OWi-Bussgeldbescheid erhalten und Anwalt prueft ob Ein
 6. Wurde eine Anhörung gemäß § 55 OWiG vor Bescheiderlass durchgeführt? Anhörungsbogen ausgefüllt?
 7. Bestehen formelle Fehler im Bescheid — fehlerhafte Tatzeit, Tatort, Geschwindigkeit, Rechtsbehelfsbelehrung?
 8. Liegt die Tat bereits nahe der Verjährungsgrenze (3 Monate Basis + Unterbrechungen nach § 33 OWiG)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -43,6 +44,9 @@ description: "Mandant hat OWi-Bussgeldbescheid erhalten und Anwalt prueft ob Ein
 
 ## Prüfschema in Tabellenform
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 | Nr. | Prüfschritt | Norm | Konsequenz |
 |---|---|---|---|
 | 1 | Verjährung geprüft? (3 Monate ab Tatzeit) | § 26 Abs. 3 StVG | Abgelaufen und keine Unterbrechung: Einstellung § 46 OWiG |
@@ -60,6 +64,20 @@ description: "Mandant hat OWi-Bussgeldbescheid erhalten und Anwalt prueft ob Ein
 | 13 | Fahrverbot: Regelfall oder Atypik? | § 25 StVG; § 4 Abs. 4 BKatV | Härtefall: erhöhte Geldbuße statt Fahrverbot |
 | 14 | § 25 Abs. 2a StVG-Aufschub genutzt? | § 25 Abs. 2a StVG | Bis 4 Monate nach Rechtskraft; Ferienzeit wählen |
 | 15 | FAER-Punkte korrekt? Tilgungsfristen? | § 29 StVG | 2,5 Jahre Tilgung bei 1-2 Punkten |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Mandant will Bussgeldbescheid pruefen lassen | Formelle und materielle Pruefung; Schriftsatz unten |
+| Variante A — Bescheid ohne Messfehler Akzeptanz guenstiger | Keine weiteren Massnahmen; Zahlung empfehlen |
+| Variante B — Fahrverbot mit Haertefall Elternzeit Fernpendler | Einspruch nur wegen Fahrverbot; Geldbusse akzeptieren |
+| Variante C — Standardisiertes Messverfahren fehlerhafte Geeichung | Einspruch mit technischer Ruege; Akte anfordern |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -159,6 +177,18 @@ folgende Fehler zu verzeichnen:
    Frage, ob das eingesetzte Gerät am Tattag zuverlässige
    Messergebnisse liefern konnte.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Beweislast und Darlegungslast
 

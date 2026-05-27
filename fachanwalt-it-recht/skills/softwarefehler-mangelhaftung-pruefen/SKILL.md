@@ -15,6 +15,7 @@ description: "Strukturierte Pruefung bei mangelhafter Software mit Vertragstyp-E
 6. Welche Nachbesserungsversuche wurden unternommen — wie viele, in welcher Frist?
 7. Handelt es sich um ein B2C-Vertragsverhältnis (§§ 327 ff. BGB Digitale-Produkte-Regime)?
 8. Liegt Open-Source-Komponente vor — welche Lizenz (GPL, AGPL, MIT, Apache)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -71,6 +72,20 @@ description: "Strukturierte Pruefung bei mangelhafter Software mit Vertragstyp-E
 | 10 | AGB-Kontrolle | §§ 305 ff., 309 BGB | Haftungsfreizeichnung, verkürzte Verjährung, Pauschalschadensersatz wirksam? |
 | 11 | Open-Source-Compliance | GPL, AGPL, MIT | Lizenzbedingungen eingehalten? Copyleft ausgelöst? |
 | 12 | DSGVO-Sicherheitsmangel | Art. 32 DSGVO | Sicherheitslücke = Mangel + DSGVO-Pflicht? |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Software-Mangel geltend machen | Mangelruege; Template unten |
+| Variante A — Mandant will weiter mit Anbieter arbeiten | Nacherfuellung § 439 BGB bevorzugen; Klage als letztes Mittel |
+| Variante B — SLA-Verletzung statt Mangel | Vertragsstrafe pruefen; anderes Skill |
+| Variante C — Open-Source-Komponenten betroffen | Lizenz-Compliance pruefen; Schadensersatz nach allg. Delikt |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -138,6 +153,11 @@ gemaess Kostenvoranschlag (Anlage K4) EUR ____.
 
 [Unterschrift]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Beweislast und Darlegungslast
 

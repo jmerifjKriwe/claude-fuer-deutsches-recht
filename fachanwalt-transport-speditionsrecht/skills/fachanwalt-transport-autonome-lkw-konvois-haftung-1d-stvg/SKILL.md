@@ -21,6 +21,7 @@ Platooning – automatisierte LKW-Konvois mit V2V-Kommunikation (Vehicle-to-Vehi
 8. Welche Schadensarten sind eingetreten: Personenschaden, Sachschaden an Drittfahrzeug, Ladungsschaden des Auftraggebers?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -75,6 +76,20 @@ Platooning – automatisierte LKW-Konvois mit V2V-Kommunikation (Vehicle-to-Vehi
 | 12 | CMR-Regress gegen Hersteller: Frachtführer haftet gegenüber Auftraggeber; Regress gegen Hersteller nach ProdHaftG möglich | CMR Art. 3, §§ 1 ff. ProdHaftG |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Haftung autonome LKW-Konvois pruefen | Haftungsgutachten; Template unten |
+| Variante A — Versicherungsfall klar | Direktklage gegen Versicherer § 115 VVG |
+| Variante B — Herstellerdefekt des Fahrsystems | Produkthaftung § 1 ProdHaftG parallel zur StVG-Haftung |
+| Variante C — Grenzueberschreitender Unfall EU | CMR-Haftung pruefen; auslaendisches Unfallort-Recht |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -185,6 +200,11 @@ an den Frachtführer zu erstatten (§ 1 ProdHaftG Abs. 3;
 
 [Ort, Datum, Unterschrift]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

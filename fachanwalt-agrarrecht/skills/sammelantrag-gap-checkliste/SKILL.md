@@ -19,6 +19,7 @@ Der Sammelantrag (Mehrfachantrag) ist die jährliche Pflicht-Antragstellung für
 6. **Haben Vor-Ort-Kontrollen im Vorjahr stattgefunden?** — Befunde aus Vorjahr beeinflussen Risikoklassifizierung und Sanktionshöhe in laufendem Jahr.
 7. **Gibt es laufende Förderverpflichtungen ELER (Agrarumweltmaßnahmen, Vertragsnaturschutz)?** — Auflagen sind im Sammelantrag zu bestätigen; Abweichungen führen zu Rückzahlungspflichten.
 8. **Wurde die Düngeverordnung vollständig eingehalten?** — GAB 1 (Grundanforderungen Betriebsführung) knüpft an Düngeverordnung; Verstoß = Konditionalitäts-Kürzung.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -46,6 +47,9 @@ Der Sammelantrag (Mehrfachantrag) ist die jährliche Pflicht-Antragstellung für
 | EuGH | C-434/16 | Verhältnis GLÖZ-Verstoß zu Direktzahlungskürzung; Verhältnismäßigkeitsprinzip gilt |
 
 ## Prüfschema Sammelantrag
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 
 | Schritt | Prüfpunkt | Norm | Risiko bei Fehler |
 |---|---|---|---|
@@ -105,6 +109,19 @@ Der Sammelantrag (Mehrfachantrag) ist die jährliche Pflicht-Antragstellung für
 
 **Wichtig:** ÖR und GLÖZ können bei Überschneidung kumuliert werden. Kombination mit ELER-Agrarumweltmaßnahmen nur soweit keine Doppelförderung.
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — GAP-Sammelantrag pruefen und unterstuetzen | Pruefschema GLOEEZ-Standards; Schriftsatzbaustein Widerspruch unten |
+| Variante A — Widerspruch gegen Bescheid noetig | Schriftsatzbaustein unten; Frist 1 Monat ab Bekanntgabe |
+| Variante B — erstmaliger Antrag ohne Vorjahr-Erfahrung | Vollstaendiges Checklistenprogramm; keine Elemente weglassen |
+| Variante C — Sanktionsbescheid nach GLOEEZ-Verstoss | Stufige Argumentation; Verhaeltnismaessigkeit pruefen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Schriftsatzbaustein — Widerspruch gegen Förderbescheid
 
 ```
@@ -146,6 +163,12 @@ Frist: § 68 VwGO — ein Monat ab Bekanntgabe (§ 41 VwVfG).
 
 [Rechtsanwalt/-anwaeltin, Fachanwalt fuer Agrarrecht]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast und Darlegungslast
 

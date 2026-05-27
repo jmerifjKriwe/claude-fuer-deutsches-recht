@@ -13,6 +13,7 @@ description: "Patentnichtigkeitsklage beim BPatG vorbereiten oder Verteidigung d
 4. **Paralleles Verletzungsverfahren?** Bifurkation im DE-System beachten — Verletzung (LG/OLG) und Nichtigkeit (BPatG) sind getrennt.
 5. **EPG-Opt-out:** Ist das EP-Patent aus dem EPG herausgehalten? Wenn nein: EPG/UPC statt BPatG zustaendig.
 6. **FRAND-Fragestellung:** Handelt es sich um ein Standard-essentielles Patent (SEP)? → Sonderpruefung Lizenzierungspflicht.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen und Paragrafenkette
 
@@ -82,6 +83,9 @@ description: "Patentnichtigkeitsklage beim BPatG vorbereiten oder Verteidigung d
 
 ## Schritt-fuer-Schritt-Workflow
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 ```
 Schritt 1: Patentdokumentation beschaffen
   → Vollstaendige Akte DPMA/EPA anfordern
@@ -124,6 +128,19 @@ Schritt 8: Berufung BGH (wenn noetig)
 - Schulte, PatG mit EPUe (Heymanns) — Nichtigkeitsklage und BPatG-Verfahren
 - Mes, PatG / GebrMG (Beck) — Praxiskommentar Verletzung und Nichtigkeit
 - Kraßer/Ann, Patentrecht (Beck) — Lehrbuch Grundlagen
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Patent-Nichtigkeitsklage erheben | Nichtigkeitsklage-Bausteine und Triage unten |
+| Variante A — Einspruchsfrist laeuft noch | Einspruch beim DPMA statt Klage; guenstiger und schneller |
+| Variante B — Verletzungsklage parallel | Nichtigkeits- und Verletzungsklage koordinieren; Aussetzung erwaegen |
+| Variante C — Mandant will nur Lizenz | Lizenzverhandlung als Alternative; Klage als Druckmittel |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Output-Template Klageschrift Nichtigkeit (Auszug)
 
@@ -174,6 +191,12 @@ des Anspruchs 1 in naheliegender Weise aus D1 in Verbindung mit D2.
 D1: [Titel, Veroeffentlichungsdatum]
 D2: [Titel, Veroeffentlichungsdatum]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Strategische Aspekte
 

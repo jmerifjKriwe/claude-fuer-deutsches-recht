@@ -12,6 +12,7 @@ description: "Kanzlei hat hauseigenes Klage-Plugin (klagewerkstatt-kanzlei) inst
 3. Welche sachliche Zuständigkeit liegt vor (AG bis 10.000 EUR / LG darüber, §§ 23, 71 GVG)?
 4. Welche örtliche Zuständigkeit gilt (§§ 12, 13 ZPO allgemein; § 29 ZPO Erfüllungsort; § 29c ZPO Verbraucherverträge)?
 5. Soll zusätzlich ein Kurz-Memo im Gutachtenstil mit Prozessrisiken erstellt werden?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -39,6 +40,9 @@ Dieser Skill ist die Laufzeit-Variante. Er setzt voraus, dass das hauseigene Kla
 
 ## Ablauf
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 **Schritt 1 — Hausvorlage finden**
 
 Prüfen, ob `klagewerkstatt-<slug>` installiert ist. Wenn nicht: auf `klagevorlage-aus-eigenen-mustern` verweisen.
@@ -58,6 +62,20 @@ Vorlage `assets/vorlagen-leer/standardklage.md` befüllen, DOCX über `office/do
 **Schritt 5 — Memo (nur auf Anfrage)**
 
 Kurz-Memo im Gutachtenstil: Anspruchsgrundlagen, Beweislage, Prozessrisiken.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Klageschrift aus eigenem Skill-Output generieren | Klageschrift nach Skill-Output-Schema; Template unten |
+| Variante A — Skill-Output unvollstaendig Luecken vorhanden | Luecken manuell fuellen; dann Template anwenden |
+| Variante B — Mandant will Vereinfachung Mahnverfahren statt Klage | Mahnbescheid § 688 ZPO als kostenguenstigere Alternative |
+| Variante C — Streitwert unter 5000 EUR Amtsgericht zustaendig | Vereinfachtes Verfahren AG; kein Anwaltszwang in Klageerhebung |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Output-Template
 
@@ -95,3 +113,15 @@ Der Beklagte wird verurteilt, an den Kläger [...] EUR nebst Zinsen in Höhe von
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+

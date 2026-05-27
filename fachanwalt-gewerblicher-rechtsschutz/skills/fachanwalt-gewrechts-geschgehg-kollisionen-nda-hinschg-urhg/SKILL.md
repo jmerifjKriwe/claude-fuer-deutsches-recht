@@ -13,6 +13,7 @@ description: "Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG u
 6. Welches Ziel verfolgt die Mandantschaft — einstweilige Verfügung, Schadensersatz, Strafanzeige oder Verteidigung gegen Vorwürfe?
 7. Ist die Information möglicherweise auch urheberrechtlich oder patentrechtlich geschützt (Softwarecode, technische Erfindung)?
 8. Handelt es sich um einen Sachverhalt mit Auslandsbezug (Wirtschaftsspionage, ausländischer Wettbewerber, grenzüberschreitende M&A)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -60,6 +61,9 @@ description: "Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG u
 
 ## Prüfschema Geheimhaltungsmaßnahmen (Drei-Ebenen-Modell)
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 | Ebene | Mindestanforderungen | Dokumentationspflicht |
 |-------|--------------------|-----------------------|
 | Organisatorisch | Need-to-Know-Prinzip; Besucherregelung; Offboarding-Protokoll (Rückgabe Geräte, Sperrung Zugänge am letzten Arbeitstag); Schulungsnachweis | GHS-Policy schriftlich; Schulungsregister |
@@ -101,6 +105,19 @@ description: "Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG u
 | 4 | Öffentliche Offenlegung nur als Ultima Ratio | § 32 HinSchG |
 | 5 | Repressalienverbot; Beweislastumkehr | § 36 HinSchG |
 | 6 | Schadensersatz bei vorsätzlich falscher Meldung | § 38 HinSchG |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — GeschGehG-Kollision mit NDA / HinSchG / UrhG pruefen | Vier-Stufen-Test und Kollisionsfelder unten |
+| Variante A — nur NDA ohne GeschGehG-Schutzmassnamen | NDA-Schutz schwaecher; GeschGehG nicht automatisch anwendbar |
+| Variante B — Whistleblower-Situation nach HinSchG | GeschGehG tritt zurueck; HinSchG-Schutz pruefen |
+| Variante C — Softwarecode als Geschaeftsgeheimnis | Urheberrecht und GeschGehG parallel; Schutzsystem definieren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatz-Bausteine
 
@@ -186,6 +203,12 @@ GeschGehG, soweit gesetzlich zulässig.
 (4) Bei Verletzung dieser Vereinbarung ist eine Vertragsstrafe von EUR [Betrag]
 je Verstoß zu zahlen, unbeschadet weitergehender Schadensersatzansprüche.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 

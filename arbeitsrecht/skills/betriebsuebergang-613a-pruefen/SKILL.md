@@ -13,6 +13,7 @@ Bevor losgelegt wird, kläre:
 3. Besteht ein Betriebsrat (Mitbestimmung § 111 BetrVG)?
 4. Sind Tarifverträge anwendbar, die auf den Erwerber übergehen sollen?
 5. Welche Schlüsselpersonen könnten widersprechen?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Eingaben
 
@@ -136,6 +137,19 @@ Nach EuGH C-13/95 Süzen und Folgerechtsprechung muss eine **wirtschaftliche Ein
 | Widerspruchsfrist abwarten | — | 1 Monat ab Unterrichtung |
 | Betriebsrat-Information § 111 BetrVG | Veräußerer | Rechtzeitig vor Vollzug |
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Arbeitnehmer will Betriebsuebergang anfechten | Widerspruchserklaerung nach § 613a Abs. 6 BGB; Template unten |
+| Variante A — Arbeitnehmer will beim neuen Betriebsinhaber bleiben | Uebergang hinnehmen; nur Konditionen-Pruefung sicherstellen |
+| Variante B — Betriebsuebergang rechtlich zweifelhaft | Feststellungsklage vorbereiten; Uebergang bestreiten |
+| Variante C — Insolvenz des alten Inhabers | § 613a Abs. 1 S. 4 BGB Sonderregelung pruefen; kurzfristige Handlung empfohlen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Output-Template Betriebsübergangsanalyse
 
 **Adressat:** Mandant (Erwerber oder Veräußerer) — Tonfall: sachlich-juristisch
@@ -171,6 +185,12 @@ Handlungsempfehlungen:
   1. ...
   2. ...
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Quellen und Zitierweise
 

@@ -13,12 +13,29 @@ Art. 50 Abs. 4 Unterabs. 2 Satz 1 KI-VO: Betreiber eines KI-Systems, das Text zu
 
 ## Vorgehen
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. **Schriftsätze an Gerichte**: Keine Kennzeichnungspflicht nach KI-VO — nicht öffentlich und anwaltliche redaktionelle Verantwortung durch Unterschrift.
 2. **Kanzlei-Blog und Website-Inhalte**: Wenn KI-generierte Texte ohne inhaltliche menschliche Überarbeitung veröffentlicht werden, ist eine Kennzeichnung geboten. Bei menschlicher Endkontrolle greift die Ausnahme.
 3. **Pressemitteilungen**: Individuelle Kennzeichnung empfehlenswert als Best Practice, auch wenn rechtlich nicht stets geboten.
 4. **Social-Media-Inhalte**: Bei vollständig KI-generierten Posts zu rechtlich relevanten Themen ist Kennzeichnung rechtlich geboten und auch aus Reputationsgründen empfehlenswert.
 5. **Mandanten-Newsletter**: Bei KI-unterstützten Beiträgen mit menschlicher Redaktion: keine zwingende Kennzeichnung nach KI-VO; Transparenz gegenüber Mandanten ist gleichwohl empfehlenswert.
 6. **Interne Best-Practice-Regel festlegen**: Empfohlen wird, KI-Beteiligung grundsätzlich im redaktionellen Prozess intern zu dokumentieren, auch wenn eine externe Kennzeichnung nicht zwingend ist.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Kennzeichnungsbaustein fuer KI-generierte Publikation | Kennzeichnung nach Schema; Template unten |
+| Variante A — Interne Nutzung kein Veroeffentlichungszweck | Keine Pflicht-Kennzeichnung; interne Notiz genuegt |
+| Variante B — Gericht will Herkunft aller Teile wissen | Erweiterte Offenlegung mit Werkzeug-Benennung |
+| Variante C — Gemischtes Dokument KI und Mensch | Hybride Kennzeichnung; nur KI-Teile markieren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Vorlagentext / Bausteine
 
@@ -31,13 +48,24 @@ Anwaltliche Schriftsätze, die unter Nutzung von KI-Assistenzsystemen erstellt w
 **Baustein Interne Dokumentation:**
 Unabhängig von der externen Kennzeichnungspflicht dokumentiert die Kanzlei intern, bei welchen Veröffentlichungen KI-Systeme in welchem Umfang eingesetzt wurden. Diese Dokumentation dient der Qualitätssicherung und der Nachweisbarkeit bei etwaigen späteren Anfragen.
 
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
 ## Hinweise zur Aktualisierung
 
 Die Auslegung des Art. 50 Abs. 4 KI-VO durch Datenschutzbehörden, das Europäische KI-Büro oder Gerichte ist zu beobachten. Ebenso entwickeln Berufsverbände (z.B. Presserats-Äquivalente für juristische Veröffentlichungen) möglicherweise eigene Standards zur Kennzeichnung.
 
 ## Aktuelle Rechtsprechung (v14.2)
 - BGH, Urt. v. 12.07.2018 — I ZR 69/17, GRUR 2018, 1234 Rn. 22: Irreführungsverbot nach UWG bei nicht gekennzeichneten automatisiert erstellten Inhalten.
-- OLG Frankfurt, Urt. v. 25.06.2024 — 14 U 89/23, GRUR-RR 2024, 412 Rn. 18: Kennzeichnungspflicht KI-generierter Inhalte bei Veroeffentlichungen — Fehlen loest UWG und berufsrechtliche Haftung aus.
 - EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Offenlegungs- und Transparenzpflicht bei algorithmischen Entscheidungen.
 - BGH, Urt. v. 05.12.2002 — III ZR 251/01, NJW 2003, 826 Rn. 18: Haftung bei mangelhafter Transparenz ueber die Grundlage einer Beratung.
 
@@ -54,6 +82,7 @@ Die Auslegung des Art. 50 Abs. 4 KI-VO durch Datenschutzbehörden, das Europäis
 3. Besteht ein berufsrechtliches Risiko nach § 43b BRAO bei fehlender Kennzeichnung?
 4. Sind Mandanten oder Gerichte ueber KI-Unterstuetzung zu informieren?
 5. Hat die Kanzlei ein einheitliches Kennzeichnungsschema fuer verschiedene Veroeffentlichungsarten?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Output-Template — Kennzeichnungs-Baustein
 **Adressat:** Kanzlei-Mitarbeiter / Redaktion — Tonfall: klar, praktisch

@@ -15,6 +15,7 @@ description: "Sanktions-Pruefung EU-Russland-Sanktionen VO 833/2014 und VO 269/2
 6. Wurde bisher ein Sanktionslistenabgleich durchgeführt? Gibt es Treffer oder Anhaltspunkte für Treffer?
 7. Wann soll das Geschäft abgeschlossen werden? Bei Dringlichkeit: BAFA-Voranfrage und Gesprächstermin prüfen.
 8. Besteht Cyber-Versicherung oder Directors-&-Officers-Versicherung mit Sanktionsklausel?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -59,6 +60,20 @@ description: "Sanktions-Pruefung EU-Russland-Sanktionen VO 833/2014 und VO 269/2
 | 10 | Vertragliche Sanktionsklausel vorhanden? | Parteiwahl | Fristloses Recht zur Beendigung? |
 | 11 | Mitarbeiter-Prüfung Schlüsselpositionen | AGG, DSGVO | Treffer ohne Diskriminierung? |
 | 12 | Laufende Re-Prüfung dokumentiert | Compliance-Pflicht | Monatlicher Turnus? |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Embargo-Pruefung Russland-Geschaeft | Sanktions-Compliance-Gutachten; Template unten |
+| Variante A — Bestehendes Geschaeft muss abgewickelt werden | Winddown-Beratung; Genehmigungsantrag BAFA pruefen |
+| Variante B — Dual-Use-Produkt betroffen | Ausfuhrgenehmigung pruefen (AWG / EG-Dual-Use-VO); Customs-Compliance einbinden |
+| Variante C — Sanktionsverstoss bereits eingetreten | Voluntary Self-Disclosure; Strafbarkeitsrisiko § 18 AWG einschaetzen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -137,6 +152,11 @@ Entdeckung.
 Mit freundlichen Gruessen
 [Kreditinstitut / Unternehmen]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Beweislast und Darlegungslast
 

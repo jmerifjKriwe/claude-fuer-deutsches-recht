@@ -15,6 +15,7 @@ description: "Kontaminierter Baugrund: Haftung, Sanierungspflicht und Kostenvert
 6. Wurde die Untere Bodenschutzbehörde (UWB) bereits informiert? Besteht behördliche Anordnung nach § 9 BBodSchG?
 7. Wer ist der zivilrechtliche Auftragnehmer — Generalunternehmer, Nachunternehmer, Bauherr in Eigenregie?
 8. Bestehen Versicherungen (Bauherren-Haftpflicht, Umwelthaftpflicht § 1 UmweltHG, Betriebshaftpflicht)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -97,6 +98,9 @@ Pflichten des Bauunternehmers:
 
 ## Prüfschema — Stufenweise Anspruchsprüfung
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 | Schritt | Prüfpunkt | Norm | Rechtsfolge bei Bejahung |
 |---------|-----------|------|--------------------------|
 | 1 | VOB/B wirksam einbezogen? | § 305 BGB | VOB/B-Regelungen anwendbar |
@@ -150,6 +154,19 @@ Pflichten des Bauunternehmers:
 - Ausgleichsanspruch gegen Verursacher § 24 BBodSchG (z.B. frühere Betreiber, Vorbesitzer)
 - Ggf. Klage gegen Verursacher auf Gesamtschuldnerausgleich
 - Steuerliche Behandlung Sanierungskosten prüfen (aktivierungspflichtig oder sofortabzugsfähig)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Bodenkontamination beim Aushub entdeckt | Sofortmassnahmen-Checkliste und Schriftverkehr-Bausteine unten |
+| Variante A — Auftraggeber kannte Kontamination | GewaeHrleistungs-Ausschluss pruefen; § 444 BGB analog |
+| Variante B — Auftragnehmer hat Kontamination verursacht | Haftung nach § 4 BBodSchG; Schadensersatzklage vorbereiten |
+| Variante C — Behoerdenanordnung laeuft | Verwaltungsrechtlicher Weg parallel; Sofortvollzug pruefen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatz-Bausteine
 
@@ -223,6 +240,12 @@ Gesamt brutto: EUR [Summe]
 
 Bauzeitverlängerung: [Anzahl] Werktage ab [Datum]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 

@@ -131,6 +131,20 @@ Klage gegen ohne Ausschreibung erfolgte Auftragsvergabe.
 - `fachanwalt-vergaberecht-nachpruefungsverfahren-vk` — bei VK-Verfahren
 - `fachanwalt-vergaberecht-orientierung` — Triage
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — De-facto-Vergabe Klage § 135 GWB | Feststellungsantrag VK; Template unten |
+| Variante A — Auftrag bereits vollstaendig abgewickelt | § 135 Abs. 2 GWB Antrag moegliche weise verfristet; Schadensersatz § 181 GWB |
+| Variante B — Inhouse-Ausnahme streitig | § 108 GWB Voraussetzungen pruefen; eigentuemlicher Sachverhalt |
+| Variante C — Unterhalb EU-Schwellenwert | Primaerechtsschutz; Haushaltsrecht statt GWB |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Vertiefung: Output-Template de-facto-Vergabe
 
 ### Triage — Bevor losgelegt wird, klaere:
@@ -140,6 +154,7 @@ Klage gegen ohne Ausschreibung erfolgte Auftragsvergabe.
 3. Bestand Auftraggeberpflicht zur Ausschreibung (kein Inhouse, kein In-state)?
 4. Wurde § 135 GWB Feststellungsantrag rechtzeitig gestellt (30 Tage nach Bekanntmachung, max. 6 Monate)?
 5. Alternativ: § 181 GWB Schadensersatz?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ### Output-Template Antrag Feststellung Unwirksamkeit § 135 GWB
 **Adressat:** Vergabekammer — Tonfall: sachlich-juristisch
@@ -164,3 +179,8 @@ des Auftrags im Amtsblatt der EU gestellt. Hilfsweise binnen
 
 [Rechtsanwalt/-anwaeltin]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

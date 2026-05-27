@@ -12,6 +12,7 @@ description: "Kassenarztrecht Vertragsarztzulassung und KV-Streitigkeiten: Anwen
 3. Welcher Bescheid liegt vor (Quartal, Aktenzeichen) und welche Frist läuft (Widerspruch zum Berufungsausschuss § 96 SGB V einen Monat)?
 4. Sind Praxisbesonderheiten oder atypische Patientenstrukturen vorhanden (Behindertenpraxis, Anlaufpraxis, Sondergruppen)?
 5. Welche wirtschaftlichen Auswirkungen drohen — Rückforderung, Honorarkürzung, Zulassungsverlust, Strafverfahren?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Anspruchsgrundlagen und Verfahren
 
@@ -41,6 +42,20 @@ Standardliteratur: Hauck/Noftz SGB V; Krauskopf Soziale Krankenversicherung Pfle
 | Disziplinarverfahren | Verhältnismäßigkeit prüfen, mildere Maßnahme statt Ruhen |
 | Zulassungsentziehung | Verfassungsrechtlicher Verhältnismäßigkeitsmaßstab, Bewährung |
 | Bedarfsplanung | Sonderbedarf, Anstellungsmöglichkeit § 101 SGB V |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Kassenarztrecht-Verfahren | Schriftsatz an Zulaessungsausschuss; Template unten |
+| Variante A — Mandant will Zulassung aufgeben | Zulassungsverzicht vs. Praxisverkauf abwaegen |
+| Variante B — Sonderbedarfszulassung | Bedarfsplanung § 101 SGB V pruefen; GBA-Richtlinie |
+| Variante C — Ausschluss aus Vertragsarztversorgung | Sofortige Wiederzulassung vs. Neuantrag nach Wartezeit |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schreibvorlage Widerspruch beim Berufungsausschuss
 
@@ -95,6 +110,11 @@ Anlagen
 - Verordnungsprofile
 - Vollmacht
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Übergabe
 

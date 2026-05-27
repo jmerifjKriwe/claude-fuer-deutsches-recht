@@ -12,6 +12,7 @@ description: "Corporate-Rechtsprechungsrecherche: Sucht und bewertet Urteile fue
 3. Welcher Zeitraum — nur aktuelle Entscheidungen (ab 2020), oder auch ältere Grundsatzentscheidungen?
 4. Welche Gerichte — BGH, BVerfG, BAG, BFH, OLG, EuGH, oder auch Instanzgerichte?
 5. Sind bereits Aktenzeichen oder Fundstellen bekannt, die verifiziert werden sollen?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Recherchequellen
 
@@ -65,6 +66,19 @@ description: "Corporate-Rechtsprechungsrecherche: Sucht und bewertet Urteile fue
 7. **Nicht-verifizierbare Fundstellen markieren** — als unverified kennzeichnen; nicht in Board Paper oder Schriftsatz verwenden.
 8. **Ergebnisliste übergeben** — im Output-Template unten; an Ziel-Skill routen.
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Rechtsprechung zu Corporate/M&A-Frage recherchieren | Recherche-Workflow und Ausgabeliste nach Template unten |
+| Variante A — Fragestellung sehr spezifisch und aktuell | Direkt in beck-online / juris suchen; Template als Ausgabeformat |
+| Variante B — Grundsatzfrage mit langer Rechtsprechungslinie | Kanoentabelle aufbauen; historische Entwicklung darstellen |
+| Variante C — auslaendisches oder EU-Recht relevant | Parallele Recherche EU-Ebene; EuGH-Urteile gesondert auflisten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Output-Template Rechtsprechungsliste
 
 **Adressat:** Deal-Team intern / Schriftsatzentwurf — Tonfall sachlich-juristisch
@@ -98,6 +112,12 @@ Ergebnisse verwendbar für:
 - `corporate-kanzlei-spa-apa-entwurf` — Gewährleistungsklauseln
 - [weiterer Ziel-Skill]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Rote Schwellen
 

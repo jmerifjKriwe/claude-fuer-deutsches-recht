@@ -11,6 +11,9 @@ Prüft KI-Einsatz im Transaktionsmandat unter Mandatsgeheimnis, Need-to-know, Da
 
 ## Arbeitsmodus
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 - Datenklassen und erlaubte Tools erfassen.
 - Need-to-know, Pseudonymisierung, AVV/TOMs und Verschwiegenheit dokumentieren.
 - Ungeprüfte KI-Outputs und menschliche Validierung trennen.
@@ -35,10 +38,36 @@ Prüft KI-Einsatz im Transaktionsmandat unter Mandatsgeheimnis, Need-to-know, Da
 - Datenraum-, DD- und Vertragsfragen mit Q&A, Disclosure und Reporting verknüpfen.
 - Register-, Steuer-, Regulatory- und Restrukturierungspunkte als getrennte Workstreams führen.
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — KI-Governance-Baustein fuer Kanzlei-Berufsrecht erstellen | Governance-Vorlage nach Schema; Template unten |
+| Variante A — Kleinere Kanzlei keine eigene IT-Abteilung | Vereinfachte Governance ohne technische Detail-Spezifikationen |
+| Variante B — Internationales Buero auslaendisches Recht relevant | Jurisdiktion-spezifische Anpassungen erfordern separate Pruefung |
+| Variante C — Bestehende Richtlinie aktualisieren nicht neu erstellen | Delta-Update statt Neuerstellung; nur geaenderte Stellen anpassen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Vorlagen
 
 - assets/templates/ai-use-disclosure-log.md
 - assets/templates/confidentiality-need-to-know-log.md
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Rechtliche Einbettung und Praxiswissen
 

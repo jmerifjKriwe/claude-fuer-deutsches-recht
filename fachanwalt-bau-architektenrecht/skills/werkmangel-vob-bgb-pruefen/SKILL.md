@@ -15,6 +15,7 @@ description: "Werkmaengel sowohl nach VOB/B als auch nach BGB-Werkvertragsrecht 
 6. Wie hoch sind die Mängelbeseitigungskosten laut Kostenvoranschlag oder SV-Schätzung?
 7. Sind Verjährungsfristen (5 Jahre BGB, 4 Jahre VOB/B) abgelaufen? Besteht Hemmungstatbestand § 203 BGB (Verhandlungen)?
 8. Liegt Mangelfolgeschaden vor (z.B. Schimmel, Wasserschaden, Betriebsunterbrechung)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -51,6 +52,9 @@ description: "Werkmaengel sowohl nach VOB/B als auch nach BGB-Werkvertragsrecht 
 | OLG Hamm | 17 U 119/18 | 15.06.2019 | Gesamtschuldnerausgleich § 426 BGB zwischen Unternehmer und Architekt: Verschuldensverhältnis 70/30 typisch bei Planungsfehler mit mangelhafter Ausführung |
 
 ## Prüfschema — Stufenweise Anspruchsprüfung
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 
 | Schritt | Prüfpunkt | Norm | Ergebnis |
 |---------|-----------|------|---------|
@@ -231,6 +235,19 @@ a.R.d.T. sind Mindeststandard auch im BGB-Werkvertrag (BGH VII ZR 213/01). Relev
 - Abrechnung nach Durchführung (Restforderung oder Rückzahlung)
 - Anwendung auch auf Architektenhaftung (BGH VII ZR 109/13)
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Werkmangel nach VOB/B und BGB stufenweise pruefen | Neunstufiges Pruefschema; Schriftsatzbausteine unten |
+| Variante A — kein VOB/B-Vertrag (reines BGB) | Schritte 1-2 verkuerzen; ab Schritt 3 voll durchpruefen |
+| Variante B — Verjährung laeuft ab | Hemmung durch Verhandlung oder Klage unverzueglich; § 203 BGB |
+| Variante C — Architekt als Gesamtschuldner | Doppelklage AN und Architekt; Gesamtschuldner-Ausgleich beachten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Schriftsatz-Bausteine
 
 ### Mangelrüge mit Fristsetzung
@@ -281,6 +298,12 @@ Die Beklagte ist der Aufforderung nicht nachgekommen.
 Die voraussichtlichen Kosten der Selbstvornahme belaufen sich
 auf EUR [Betrag] netto gemäß Kostenvoranschlag vom [Datum], Anlage [K1].
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Streitwert und Kosten
 

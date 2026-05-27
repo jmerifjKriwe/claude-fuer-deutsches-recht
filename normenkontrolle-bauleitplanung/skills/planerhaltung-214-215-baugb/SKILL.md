@@ -11,6 +11,9 @@ description: "Gemeinde oder Vorhabentraeger prueft ob erkannte Planfehler zur Un
 
 ## Schritt 1 — § 214 Abs. 1 BauGB Verfahrens- und Formfehler
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 ### Abschließende Liste beachtlicher Fehler
 - Verletzung Vorschriften über die Beteiligung (§§ 3 Abs. 2, 4 Abs. 2 BauGB) — nur wenn nach den Umständen offenkundig und Auswirkung
 - Verletzung Vorschriften über die Begründung — nur wenn fehlend in wesentlichen Punkten
@@ -182,6 +185,21 @@ Kläre nach Mandatsübernahme:
 3. Welche Fehler wurden im Aufstellungsverfahren erkannt? (Verfahren/Form/Abwägungsvorgang)
 4. Liegt ein Ergebnisfehler vor? (keine Rüge nötig, immer beachtlich)
 5. Wurde bereits eine § 215-Rüge erstattet? (Inhalt prüfen auf Konkretheit)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Fehler-Ruege nach § 215 BauGB fristwahrend stellen | Ruegeschreiben nach Schema; Template unten |
+| Variante A — Frist nach § 215 Abs. 1 BauGB bereits abgelaufen | Verfahrensfehler-Heilung pruefen; keine Ruege mehr moeglich |
+| Variante B — Fehler nicht ruegefahig weil Materialfehler | § 214 Abs. 1 BauGB Verfahrensfehler vs Materialfehler abgrenzen |
+| Variante C — Plan noch nicht in Kraft getreten Ruege praematuer | Abwarten; Ruege erst nach Bekanntmachung des Plans |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Output-Template § 215 BauGB Rügeschreiben
 
@@ -218,3 +236,15 @@ Akten- und Begründungsmaterial zugänglich wird.
 
 [UNTERSCHRIFT]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+

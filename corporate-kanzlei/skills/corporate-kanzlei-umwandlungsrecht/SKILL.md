@@ -14,6 +14,7 @@ description: "Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel u
 5. Minderheitsgesellschafter: Ausstiegsrecht, Abfindung, Andienungspflicht?
 6. Arbeitnehmer: § 613a BGB analog; Information und Beratung Betriebsrat (§§ 5, 21 UmwG)?
 7. Insolvenzfall: Umwandlung in der Krise nach StaRUG oder InsO?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -63,6 +64,9 @@ description: "Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel u
 
 ## Schritt-fuer-Schritt-Workflow
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 1. **Umwandlungsart und Zielstruktur bestimmen** — Verschmelzung, Spaltung, Formwechsel; Steuerberatung einbeziehen (UmwStG)
 2. **Timeline aufstellen** — Gesamtdauer Verschmelzung: typisch 3-5 Monate (Vertrag → HV → Registereintragung)
 3. **Vertragsentwurf erstellen** — Verschmelzungsvertrag/Spaltungsplan; Notar einbinden
@@ -72,6 +76,19 @@ description: "Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel u
 7. **Anmeldung Handelsregister** — Notarielle Anmeldung; Freigabeverfahren wenn Klage eingereicht
 8. **Steuerneutralitaet sichern** — UmwStG-Antrag auf Buchwertfortfuehrung; Sperrfrist 5 Jahre beachten
 9. **Post-Umwandlung** — Vertragsanpassungen (neue Firma, IBAN, Steuernummer); Gesellschafter- und Glaeubigerschutz
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Verschmelzung nach UmwG vorbereiten | Pruefschema und Verschmelzungsvertrag-Outline nach Template unten |
+| Variante A — Spaltung statt Verschmelzung vorzugsweise | Spaltungsarten vergleichen; Abspaltung oder Ausgliederung waehlen |
+| Variante B — steuerliche Optimierung vorrangig | § 15 UmwStG pruefen; Buchwertfortfuehrung sichern |
+| Variante C — Umwandlung mit Auslandsbezug | Grenzueberschreitende Verschmelzung; SE-Option und UmwRL pruefen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Output-Template Verschmelzungsvertrag Outline
 
@@ -114,6 +131,12 @@ PRAEMBEL
 
 10. SONSTIGES
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Rote Schwellen
 

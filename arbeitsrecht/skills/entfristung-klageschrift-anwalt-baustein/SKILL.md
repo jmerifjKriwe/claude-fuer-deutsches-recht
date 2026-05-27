@@ -12,6 +12,7 @@ description: "Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hil
 3. Weiterbeschäftigungsantrag (GS BAG 27.02.1985) gewünscht?
 4. Hilfsweise Auflösungsantrag (§§ 9, 10 KSchG i.V.m. § 17 Satz 2 TzBfG)?
 5. Streitwert vorläufig 3 Bruttomonatsgehälter (§ 42 Abs. 2 GKG)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -44,6 +45,19 @@ description: "Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hil
 - [ ] Vorbeschäftigungsverbot geprüft (§ 14 Abs. 2 Satz 2 TzBfG)
 - [ ] Mandant über Kostenrisiko belehrt (§ 12a ArbGG)
 - [ ] Vollmacht liegt vor
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Entfristungsklage nach § 17 TzBfG | Klageschrift-Muster unten; Drei-Wochen-Frist beachten |
+| Variante A — Mandant will keine Klage aber Abfindung | Aussergerichtliche Einigung als Alternative vor Klageerhebung |
+| Variante B — Befristung offensichtlich unwirksam | Starkes Druckmittel; Vergleichsverhandlung vor Einreichung erwaegen |
+| Variante C — Kettenbefristung mit mehreren Vertraegen | Gesamte Kette pruefen; ggf. mehrere Klagebaustein-Varianten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Klageschrift-Muster
 
@@ -123,5 +137,11 @@ Die Klage wird innerhalb der Dreiwochenfrist des § 17 Satz 1 TzBfG erhoben. Das
 [ANWALTSUNTERSCHRIFT]
 
 ---
+
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.

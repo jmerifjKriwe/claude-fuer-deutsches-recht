@@ -21,6 +21,7 @@ Ein Bieter nimmt an einem europaweiten Vergabeverfahren teil und stellt entweder
 8. Liegen Beweismittel vor (Vergabeunterlagen, Korrespondenz, Angebots-Vergleichszahlen, Marktpreiserhebungen, Sachverständigengutachten)?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -68,6 +69,9 @@ Ein Bieter nimmt an einem europaweiten Vergabeverfahren teil und stellt entweder
 
 ## Prüfschema: Rügeschriftsatz Vergaberecht
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 | Schritt | Inhalt | Grundlage |
 |---------|--------|-----------|
 | 1 | **Schwellenwertprüfung**: Liegt der Auftragswert oberhalb des einschlägigen EU-Schwellenwerts? Ohne Überschreitung kein GWB-Nachprüfungsverfahren | § 106 GWB |
@@ -87,6 +91,20 @@ Ein Bieter nimmt an einem europaweiten Vergabeverfahren teil und stellt entweder
 | 15 | **Schadensersatz im Blick**: Bei erfolglosem Nachprüfungsverfahren ggf. Schadensersatzanspruch gegen Auftraggeber prüfen | § 179 GWB |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Bieter ruegt Vergaberechtsverstoß fristgerecht | Ruegeschriftsatz nach § 160 Abs. 3 GWB; Template unten |
+| Variante A — Mandant will Auftrag behalten nicht streiten | Informelles Klaerungsgespraech mit Vergabestelle vor formeller Ruege |
+| Variante B — Zuschlag bereits erteilt keine 15-Tage-Frist | Nachpruefungsantrag auf Feststellung Unwirksamkeit § 135 GWB direkt |
+| Variante C — Unterschwellenvergabe kein GWB-Nachpruefungsverfahren | Unterlassungsklage vor Zivilgericht § 1 UWG analog pruefen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -270,6 +288,18 @@ beantragen.
 Mit freundlichen Grüßen
 [Rechtsanwalt]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ---
 

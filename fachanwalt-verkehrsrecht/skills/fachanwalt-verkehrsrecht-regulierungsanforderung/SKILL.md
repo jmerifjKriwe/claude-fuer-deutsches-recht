@@ -15,6 +15,7 @@ description: "Mandant hat Verkehrsunfall und fordert Schadensersatz vom Haftpfli
 6. Hat der Mandant eigene Mithaftung — Tempoverstoß, Sicherheitsabstand, Anschnallpflicht?
 7. Liegt SGB X-Regressi durch Kranken- oder Rentenversicherung, Berufsgenossenschaft vor?
 8. Droht Verjährung (3 Jahre ab Schluss des Jahres der Kenntnis, §§ 195, 199 BGB)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -47,6 +48,9 @@ description: "Mandant hat Verkehrsunfall und fordert Schadensersatz vom Haftpfli
 
 ## Prüfschema in Tabellenform
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 | Nr. | Prüfschritt | Norm | Ergebnis |
 |---|---|---|---|
 | 1 | Haftungsgrundlage (Gefährdung § 7 oder Verschulden § 18/§ 823)? | §§ 7, 18 StVG; § 823 BGB | Gefährdungshaftung kein Verschuldensnachweis nötig |
@@ -64,6 +68,20 @@ description: "Mandant hat Verkehrsunfall und fordert Schadensersatz vom Haftpfli
 | 13 | Verjährung geprüft? | §§ 195, 199 BGB | 3 Jahre ab Jahresende der Kenntnis |
 | 14 | Fristsetzung an Versicherer mit Verzugsankündigung? | §§ 280, 286, 288 BGB | 4-Wochen-Frist üblich |
 | 15 | Klageroute bei Ablehnung vorbereitet? | §§ 23, 71 GVG | AG bis EUR 10000; LG ab EUR 10000 |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Regulierungsanforderung nach Unfall stellen | Regulierungsschreiben an Versicherer nach Checkliste; Template unten |
+| Variante A — Haftungsquote streitig Gegner bestreitet | Haftungsquote-Pruefung zuerst; Schriftsatz erst nach Quotenfixierung |
+| Variante B — Totalschaden Restwert streitig | Gutachten abwarten; Regulierung auf Basis Sachverstaendiger |
+| Variante C — Personenschaden Schmerzensgeld ungeklaert | Erst Heilbehandlung abschliessen dann Schmerzensgeldanspruch beziffern |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -208,6 +226,18 @@ Sachverständigengutachten EUR [X]. Dieser Betrag ist als
 eigenständige Position neben den Reparaturkosten
 erstattungsfähig — BGH VI ZR 35/04.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Beweislast und Darlegungslast
 

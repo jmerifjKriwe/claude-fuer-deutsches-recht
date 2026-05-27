@@ -30,6 +30,19 @@ Kommissionsbeschwerde, nationale Rechtsbehelfe, politischer Druck und Fristen we
 - Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
 - Welches Arbeitsprodukt wird gebraucht und wie eilig ist es?
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Vertragsverletzungsverfahren gegen Mitgliedstaat | Beschwerde an Kommission nach Template unten |
+| Variante A — Mandat erfordert schnellen Erfolg | Direkte nationale Klage effektiver; Kooperationspflichten nutzen |
+| Variante B — Kommission wird keine Klage erheben | Staatshaftungsklage nach Francovich national erwaegen |
+| Variante C — Vorlageverfahren an EuGH schneller | Art. 267 AEUV Vorabentscheidung wenn nationale Gerichte befasst |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Ausgabeformat
 
 - Kurzlage mit Ampel
@@ -55,6 +68,7 @@ Bevor losgelegt wird, klaere:
 2. Welches Umsetzungsdefizit liegt vor — formelle Nichtumsetzung oder materielle Unvereinbarkeit?
 3. Kann der Mandant Beschwerde an die Kommission einlegen (kein Klagerecht fuer Private)?
 4. Alternativ: Staatshaftungsklage vor nationalem Gericht (Francovich) als direkter Rechtsbehelf?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
@@ -110,3 +124,9 @@ Wir bitten die Kommission, ein Vorverfahren nach Art. 258 AEUV zu eroeeffnen.
 [KANZLEI], [ORT], [DATUM]
 [RA-NAME]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+

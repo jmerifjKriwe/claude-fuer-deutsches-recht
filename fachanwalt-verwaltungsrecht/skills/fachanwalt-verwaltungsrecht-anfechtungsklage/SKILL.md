@@ -12,6 +12,7 @@ description: "Anfechtungsklage nach § 42 Abs. 1 VwGO gegen Verwaltungsakt formu
 3. Welches Verwaltungsgericht ist sachlich und örtlich zuständig — § 45 VwGO sachlich, § 52 VwGO örtlich (insbesondere Belegenheitsgrundsatz bei Immobilien, Sitz der Behörde sonst)?
 4. Hat die Klage aufschiebende Wirkung (§ 80 Abs. 1 VwGO) oder ist Eilantrag § 80 Abs. 5 VwGO erforderlich?
 5. Welche Klagebegründung — formelle und materielle Rechtsfehler — und welche Beweismittel liegen vor?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Anspruchsgrundlagen und Verfahren
 
@@ -30,6 +31,20 @@ Standardliteratur: Kopp/Schenke VwGO; Schoch/Schneider VwGO; Eyermann VwGO.
 - Untersuchungsgrundsatz § 86 Abs. 1 VwGO — Gericht erforscht Sachverhalt von Amts wegen, Beteiligte sollen mitwirken.
 - Materielle Beweislast nach Beweislastverteilung im jeweiligen Fachrecht; im Zweifel Behörde für Eingriffsvoraussetzungen, Bürger für anspruchsbegründende Tatsachen bei Verpflichtungsklage.
 - Beweismittel: Urkundsbeweis, Zeugenbeweis, Sachverständigengutachten, Augenschein, Beteiligtenvernehmung.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Anfechtungsklage gegen Verwaltungsakt | Klageschrift nach Pruefschema VwGO; Template unten |
+| Variante A — Widerspruchsverfahren noch offen | Widerspruchsschrift zuerst; Klage nach Widerspruchsbescheid |
+| Variante B — VA rechtswidrig aber Mandant will schnelle Loesung | Vergleich mit Behoerde anstreben; Klage als Druckmittel |
+| Variante C — VA nicht mehr vollziehbar Feststellungsinteresse pruefen | Fortsetzungsfeststellungsklage § 113 Abs. 1 S. 4 VwGO statt Anfechtung |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schreibvorlage Anfechtungsklage
 
@@ -114,6 +129,18 @@ Anlagen
 - Korrespondenz
 - Vollmacht
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Aktuelle Leitentscheidungen Anfechtungsklage
 

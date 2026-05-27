@@ -17,6 +17,7 @@ description: "Off-Label-Use und GKV-Erstattungsstreitigkeiten insbesondere Long-
 8. Wurden Kosten bereits selbst verauslagt? Falls ja: Höhe und Belegnachweis?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -97,6 +98,20 @@ Der Nikolaus-Beschluss des BVerfG (1 BvR 347/98) wurde durch § 2 Abs. 1a SGB V 
 | 14 | Bei Erfolg: Folgeversorgung sichern (Verlängerungsantrag) | Fortlaufender Schutz |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Off-Label-Use GKV-Erstattung pruefen | Widerspruchsschreiben; Template unten |
+| Variante A — Zulassung in anderen EU-Laendern | Art. 3 Abs. 4 AMG-Analogie; Importpraeparat-Genehmigung pruefen |
+| Variante B — Lebensbedrohliche Erkrankung | BVerfGE-Nikolaus-Beschluss (1 BvR 347/98); erweiterter Anspruch |
+| Variante C — Keine klinische Studie verfuegbar | Einzelfallentscheidung GBA; individuelle Heilversuche |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -215,6 +230,11 @@ Anlage A2 (Schweregradskalen), Anlage A3 (Ablehnungsbescheid).
 Mit freundlichen Grüßen
 [Rechtsanwalt/-anwältin]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

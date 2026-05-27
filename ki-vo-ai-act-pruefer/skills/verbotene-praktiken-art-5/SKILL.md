@@ -95,7 +95,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 ## Aktuelle Rechtsprechung (v14.2)
 - EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: KI-Scoring als Art. 22 DSGVO-Entscheidung — bei manipulativer Ausgestaltung fallen Scoring-Systeme auch unter Art. 5 KI-VO.
 - EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Offenlegungspflicht bei algorithmischen Systemen — Umkehrschluss: Verschleierung als subliminale Technik nach Art. 5 Abs. 1 lit. a KI-VO.
-- BGH, Urt. v. 06.07.2021 — VI ZR 40/20, NJW 2021, 2726 Rn. 12: DSGVO-Schadensersatz bei Datenmissbrauch; bei Art. 5-Verstoss bis zu 35 Mio. EUR nach Art. 99 KI-VO.
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
 - EuGH, Urt. v. 11.07.2002 — C-60/00 (Carpenter), NJW 2002, 3545 Rn. 30: Grundrechtsbindung und Verbot manipulativer staatlicher Systeme — Vorgaenger-Masstab fuer Art. 5 Abs. 1 lit. c Social-Scoring-Verbot.
 
 ## Zentrale Normen (Paragrafenkette)

@@ -19,6 +19,7 @@ Beratung von FinTechs und Banken bei der Lizenzierung als Emittent von Asset-Ref
 6. **Gibt es bereits einen Whitepaper-Entwurf?** — Basis des BaFin-Antrags; ESMA-Leitlinien für Inhalt sind zu beachten.
 7. **Plant der Emittent grenzüberschreitend tätig zu sein?** — EU-Pass nach Zulassung; Notifizierung an ESMA-Register erforderlich.
 8. **Sind Staking, Lending oder DeFi-Komponenten vorgesehen?** — Zusätzliche Regulierungsebenen (MiFID, AIFMD, ggf. MiCA Art. 50); gesonderte Einschätzung nötig.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -55,6 +56,9 @@ Beratung von FinTechs und Banken bei der Lizenzierung als Emittent von Asset-Ref
 - **ESMA Q&A** zu MiCA (laufend aktualisiert; wichtigste Auslegungsquelle)
 
 ## Prüfschema Lizenzierung
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 
 | Schritt | Prüfpunkt | Norm | Risiko bei Fehler |
 |---|---|---|---|
@@ -163,6 +167,19 @@ Signifikante ART/EMT (Art. 43):
 | DeFi-Integration ohne Lizenz | Regulierungsgrauzone; Risiko steigt | ESMA-Position zu DeFi 2025 abwarten |
 | Drittstaaten-Sitz | Nicht-MiCA-konform | EU-Tochtergesellschaft gründen |
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — MiCA Art. 16-Zulassung fuer Stablecoin beantragen | Antragsbausteine nach Template unten |
+| Variante A — Emittent bereits BaFin-reguliert (E-Geld-Institut) | Vereinfachter Zulassungsweg Art. 17 MiCA pruefen |
+| Variante B — Token uebersteigt Schwellenwert (signifikant) | Kategorie signifikanter EMT; EBA-Aufsicht beachten |
+| Variante C — Pilot-Emission vor vollstaendiger MiCA-Zulassung | Sandbox-Regimes pruefen; Rechtsrisiko dokumentieren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Schriftsatzbaustein — Widerspruch gegen BaFin-Versagung
 
 ```
@@ -196,6 +213,12 @@ Begründung:
 
 [Rechtsanwalt/-anwaeltin]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Fristen
 

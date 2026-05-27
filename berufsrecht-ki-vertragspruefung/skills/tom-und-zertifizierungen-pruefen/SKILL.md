@@ -86,6 +86,8 @@ DSGVO-spezifisches Konformitätsverfahren nach Art. 40 DS-GVO. Hilfreich, aber k
 
 ## Prüfschema
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 | Punkt | Status | Ampel | Bemerkung |
 |---|---|---|---|
 | "no training"-Klausel | | | |
@@ -115,7 +117,7 @@ Tabellarische Bewertung. Defizite landen im Rückfragebrief mit der Aufforderung
 ## Aktuelle Rechtsprechung
 
 - EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 685 Rn. 55–79: Technische und organisatorische Maßnahmen nach Art. 32 DSGVO müssen tatsächlich wirksam sein; unzureichende TOMs begründen keine automatische Haftung nach Art. 82 DSGVO, aber sie sind ein starkes Indiz für Pflichtverletzung.
-- BGH, Urt. v. 06.07.2021 — VI ZR 40/20, NJW 2021, 2726 Rn. 28: Zur Haftung für unzureichende technische Sicherheitsmaßnahmen bei Datenpannen; der Verantwortliche muss dem Stand der Technik entsprechende TOMs nachweisen können.
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
 - OLG Dresden, Urt. v. 30.11.2021 — 4 U 1158/21, NJW 2022, 334 Rn. 22: Schadensersatzpflicht bei mangelnden TOMs nach Art. 32 DSGVO; Zertifizierungen (ISO 27001) erhöhen Beweislastchancen des Verantwortlichen erheblich.
 - LG München I, Urt. v. 09.12.2021 — 31 O 16606/20, ZD 2022, 115 Rn. 18: Zum Zusammenhang zwischen unzureichenden TOMs und Schadensersatzpflicht nach Art. 82 DSGVO; fehlende Verschlüsselung trotz sensiblen Datenmaterials ist Pflichtverletzung.
 
@@ -137,6 +139,20 @@ Tabellarische Bewertung. Defizite landen im Rückfragebrief mit der Aufforderung
 3. Bei Cloud-Anbieter: BSI C5 Typ 2 Testat vorhanden?
 4. Sind "no training" und Zero-Retention-Regelungen in den TOMs enthalten?
 5. Gibt es ein Audit-Recht der Kanzlei?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — TOM-Abschnitt im Vertrag bewerten | Checkliste Art. 32 DSGVO; Template unten |
+| Variante A — Zertifizierung ISO 27001 vorhanden | Zertifikat pruefen ob aktuell; Scope-Abdeckung beachten |
+| Variante B — keine TOM-Anlage vorhanden | Ergaenzung fordern; Muster-TOM-Anlage als Verhandlungsgrundlage |
+| Variante C — Hochrisiko-Verarbeitung | Erweiterte TOM-Anforderungen; ggf. Pen-Test-Pflicht vereinbaren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Output-Template — TOM-Prüfvermerk
 
@@ -167,3 +183,9 @@ Ergebnis
 Ampel TOM/Zertifizierungen: GRUEN / GELB / ROT
 Luecken: [BESCHREIBUNG]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+

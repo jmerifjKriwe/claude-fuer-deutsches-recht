@@ -11,6 +11,9 @@ Artenschutz ist materieller Pflichtprogramm-Punkt jedes B-Plans, der bauliche Ve
 
 ## Schritt 1 — Zugriffsverbote § 44 BNatSchG
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 ### Drei Verbote
 - **Tötungsverbot** § 44 Abs. 1 Nr. 1 BNatSchG: Verbot, wildlebenden Tieren der besonders geschützten Arten nachzustellen, sie zu fangen, zu verletzen oder zu töten
 - **Störungsverbot** § 44 Abs. 1 Nr. 2 BNatSchG: Verbot, wildlebende Tiere der streng geschützten Arten und der europäischen Vogelarten während der Fortpflanzungs-, Aufzucht-, Mauser-, Überwinterungs- und Wanderungszeiten erheblich zu stören
@@ -197,6 +200,21 @@ Kläre vor Beginn der saP-Prüfung:
 3. Ist die saP älter als 5 Jahre? (Neuerhebung erforderlich)
 4. Welches Bundesland? (Landesrechtliche Ergänzungen zu § 44 BNatSchG beachten)
 5. Gibt es Hinweise auf Vorkommen streng geschützter Arten aus regionalem Artenkataster?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Artenschutzrechtliche Ruege im Planungsverfahren | Artenschutz-Ruegeschriftsatz nach Schema; Template unten |
+| Variante A — Artenschutz klar verletzt Behoerde kooperativ | Informelle Einwendung zuerst; Klage nur bei Ablehnung |
+| Variante B — Saison-Schutz Bruetzeit laeuft noch | Sofortige Einwendung mit Fristsetzung; Vollzugsstopp beantragen |
+| Variante C — Ausnahme nach § 45 BNatSchG moeglich | Ausnahme-Antrag statt Klage; Kompensationsmassnahmen anbieten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Output-Template Artenschutz-Rüge im Schriftsatz
 
@@ -219,3 +237,15 @@ III. Verstoß gegen § 44 Abs. 1 Nr. 3 BNatSchG — Lebensstättenschutz [NAME A
    Ohne diesen Nachweis ist die Ausnahme nach § 45 Abs. 7 BNatSchG nicht erfüllt
    (BVerwG 9 A 14.12 Rn. 119).
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+

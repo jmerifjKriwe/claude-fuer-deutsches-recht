@@ -34,6 +34,7 @@ description: "Versicherter erhielt Ablehnung der Erwerbsminderungsrente oder ist
 8. Sind Hinzuverdienstgrenzen relevant (§ 96a SGB VI — Mandant geringfügig beschäftigt)?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -85,6 +86,20 @@ description: "Versicherter erhielt Ablehnung der Erwerbsminderungsrente oder ist
 | 14 | Widerspruch § 84 SGG (1 Monat), Klage § 87 SGG (1 Monat) | §§ 84, 87 SGG |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Erwerbsminderungsrente Widerspruch | Widerspruchsschriftsatz; Template unten |
+| Variante A — Volle statt teilweise EM-Rente angestrebt | Gutachterliche Stellungnahme zur Leistungsfaehigkeit kleiner als 3h |
+| Variante B — Rentenanpassung statt Neuantrag | § 48 SGB X Wesentliche Aenderung; guenstigerer Weg |
+| Variante C — Berufsunfaehigkeit Privatversicherung parallel | BU-Versicherungs-Leistungsklage koordinieren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -212,6 +227,11 @@ vorläufig.
 Mit freundlichen Grüßen
 [Fachanwalt/-anwältin]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

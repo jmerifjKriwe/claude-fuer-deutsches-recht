@@ -13,12 +13,29 @@ Art. 5 Abs. 2 DSGVO: Rechenschaftspflicht — die Kanzlei muss die Einhaltung de
 
 ## Vorgehen
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. **Verarbeitungsverzeichnis aktualisieren**: Jedes KI-System, das personenbezogene Daten verarbeitet, ist im Verarbeitungsverzeichnis nach Art. 30 DSGVO zu dokumentieren.
 2. **Prüfprotokoll für wichtige Outputs**: Für Schriftsätze, Gutachten und Beratungsunterlagen, die wesentlich unter KI-Mitwirkung entstanden sind, ein standardisiertes Prüfprotokoll anlegen.
 3. **Prompt-Dokumentation**: Bei rechtlich bedeutsamen Vorgängen sollten wesentliche Prompts und die erhaltenen Outputs in der Handakte dokumentiert werden.
 4. **Versionsstand des KI-Systems festhalten**: Welches KI-System (Anbieter, ggf. Modell-Version) wurde zu welchem Zeitpunkt eingesetzt? Relevant, weil KI-Systeme sich ohne Nutzer-Ankündigung ändern können.
 5. **Aufbewahrungsfristen festlegen**: Prüfprotokolle mindestens so lange aufbewahren wie die Handakte (§ 50 Abs. 2 BRAO: 5 Jahre nach Mandatsende). Bei Hochrisiko-Systemen gilt Art. 26 Abs. 6 KI-VO (6 Monate Protokollaufbewahrung).
 6. **Regelmäßige Überprüfung**: Dokumentationsqualität mindestens quartalsweise stichprobenartig prüfen.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — KI-Nutzungsprotokoll fuer Kanzlei erstellen | Protokoll nach Schema; Template unten |
+| Variante A — Nur bestimmte KI-Tools zu protokollieren | Selektive Protokollierung; nicht alle Tools erfassen |
+| Variante B — Retrospektive Dokumentation vergangener Nutzung | Nacherfassung mit Schatzwerten; Vollstaendigkeit vermerken |
+| Variante C — Automatisierte Protokollierung per Tool | Tool-gestuetztes Protokoll; manuelle Felder minimieren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Vorlagentext / Bausteine
 
@@ -33,6 +50,18 @@ Verarbeitungstätigkeit: Unterstützung bei der Erstellung juristischer Texte du
 
 **Baustein Handakten-Dokumentation:**
 Wird in einem Mandat ein KI-System für die Erstellung wesentlicher Dokumente eingesetzt, ist in der Handakte zu vermerken: (1) welches KI-System wann eingesetzt wurde, (2) welche Aufgaben damit erledigt wurden, (3) welche Prüfschritte durchgeführt wurden und (4) wer die abschließende Freigabe erteilt hat.
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Hinweise zur Aktualisierung
 
@@ -57,6 +86,7 @@ Anforderungen an die Dokumentation können sich durch neue DSGVO-Leitlinien des 
 3. Liegt ein Hochrisiko-KI-System vor — ist Protokollierung nach Art. 26 Abs. 1 KI-VO verpflichtend?
 4. Ist der Pruefvorgang (Verifikation der KI-Ausgabe) dokumentiert und datiert?
 5. Ist eine Versionskontrolle fuer das KI-System vorhanden (Modell-Version, Datum)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Output-Template — KI-Nutzungsprotokoll
 **Adressat:** Kanzlei intern (Akte) — Tonfall: kurz, dokumentierend

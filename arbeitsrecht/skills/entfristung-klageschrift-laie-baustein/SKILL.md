@@ -12,6 +12,7 @@ description: "Schritt-fuer-Schritt Klageschrift Entfristungsklage fuer Laien: Ru
 3. Hast du eine Kopie des Arbeitsvertrags? (als Anlage K 1 beifügen)
 4. Hast du einen Beleg für die Art der Unterzeichnung? (E-Mail, Screenshot Signier-Portal)
 5. Wie hoch ist dein monatliches Bruttogehalt? (Streitwert = 3 × Monatsgehalt)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -37,6 +38,19 @@ description: "Schritt-fuer-Schritt Klageschrift Entfristungsklage fuer Laien: Ru
 Dieser Skill erzeugt eine ausfüllbare Klageschrift-Vorlage für die Befristungskontrollklage (Entfristungsklage) — für Arbeitnehmer ohne Anwalt.
 
 **Vor Verwendung:** Prüfe die Dreiwochenfrist nach § 17 TzBfG. Hat dein Vertrag laut Urkunde bereits geendet? Dann läuft die Frist möglicherweise bereits.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Arbeitnehmer ohne Anwalt reicht Entfristungsklage ein | Vorlage unten vollstaendig ausfuellen |
+| Variante A — unsicher ob Befristung unwirksam | Erst anwaltliche Erstberatung einholen; Frist aber sichern |
+| Variante B — Mandant will Geld statt Weiterbeschaeftigung | Klageschrift als Druckmittel; Abfindungsgespraech anstreben |
+| Variante C — Frist laeuft in wenigen Tagen ab | Formular sofort einreichen; Begruendung kann nachgeliefert werden |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Klageschrift-Vorlage
 
@@ -127,3 +141,8 @@ ____________________________
 - **Gericht:** Arbeitsgericht am Betriebsort oder Wohnort.
 - **Einreichung:** Persönlich zu Protokoll der Geschäftsstelle (kein Schreiben nötig) oder schriftlich.
 - **Empfangsbestätigung** vom Gericht verlangen.
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

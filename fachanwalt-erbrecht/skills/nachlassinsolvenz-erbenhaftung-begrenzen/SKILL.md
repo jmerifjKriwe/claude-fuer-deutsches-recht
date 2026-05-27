@@ -15,6 +15,7 @@ description: "Nachlassinsolvenz beantragen oder Erbenhaftung auf den Nachlass be
 6. Bestehen Pflichtteilsansprüche Dritter, die den Nachlass weiter belasten?
 7. Ist der Erbe Ehegatte des Erblassers — besondere Regelung § 1371 Abs. 3 BGB bei Ausschlagung und Zugewinnausgleich?
 8. Gibt es Verbindlichkeiten aus Bürgschaften, laufenden Verträgen oder offener Steuer des Erblassers?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -49,6 +50,9 @@ description: "Nachlassinsolvenz beantragen oder Erbenhaftung auf den Nachlass be
 | OLG Hamm | 15 W 283/14 | 22.01.2015 | Ausschlagungsanfechtung § 1954 BGB — Irrtum über Überschuldung kann Anfechtungsgrund sein wenn Erbe davon nichts wissen konnte |
 
 ## Prüfschema — Haftungsbegrenzungs-Instrumente
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 
 | Schritt | Instrument | Frist | Voraussetzung | Folge |
 |---------|-----------|-------|--------------|-------|
@@ -176,6 +180,19 @@ Schlägt der überlebende Ehegatte die Erbschaft aus:
 - **Kleiner Pflichtteil** nach § 2303 BGB als gesetzlicher Erbteil ohne Zugewinnzuschlag
 - **Wirtschaftlich günstiger** wenn Erbschaft überschuldet, Zugewinn aber erheblich
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Erbenhaftung begrenzen | Instrumente 1-6 sequenziell pruefen; Schriftsatzbausteine unten |
+| Variante A — Uebersch-Uldung des Nachlasses klar | Ausschlagung § 1944 BGB priorisieren; Frist 6 Wochen |
+| Variante B — Nachlasswert unklar | Inventar § 1994 BGB aufnehmen; Haftungsbeschraenkung sichern |
+| Variante C — mehrere Glaeubiger draengen | Nachlassverwaltung oder Nachlassinsolvenz als Gesamtloesung |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Schriftsatz-Bausteine
 
 ### Ausschlagungserklärung
@@ -222,6 +239,12 @@ Saldo: EUR [-Z]
 
 [Unterschrift Erbe]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 

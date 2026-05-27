@@ -17,6 +17,7 @@ Im Mittelstands-M&A sind die Transaktionen häufig vom Gesellschafter-Geschäfts
 4. Welche Deadline ist realistisch — häufig 3–6 Monate im Mittelstand statt 12–18 Monate in Large-Cap?
 5. Gibt es existierende Gesellschafterverträge, Stimmbindungsverträge, Erbverträge oder Testamente, die die Transaktion beeinflussen?
 6. Ist eine externe Finanzierung (Hausbank, KfW, Beteiligungsgesellschaft) vorgesehen?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -43,6 +44,9 @@ Im Mittelstands-M&A sind die Transaktionen häufig vom Gesellschafter-Geschäfts
 | OLG Hamm | 8 U 32/21 | 18.11.2021 | NDA bei Mittelstandstransaktion: Vertraulichkeitspflicht gilt auch ohne ausdrückliche Klausel bei erkennbarem Vertraulichkeitsinteresse |
 
 ## Prüfschema / Anlage-Checkliste (Mittelstand-angepasst)
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Status |
 |---|---|---|---|
@@ -91,6 +95,20 @@ Im Mittelstands-M&A sind die Transaktionen häufig vom Gesellschafter-Geschäfts
 | GwG-Aufbewahrung | 5 Jahre | § 8 GwG |
 | Notarielle Urkunden | 30 Jahre beim Notar | § 51 BNotO |
 | DSGVO-Aufbewahrung | So lange wie nötig; Löschung nach Zweckfortfall | Art. 5 DSGVO |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — M-and-A-Akte fuer Mittelstand anlegen | Aktenanlage nach Checkliste; Dokumentenvorlage unten |
+| Variante A — Sehr kleines Unternehmen KMU einfache Akte | Vereinfachte Akte ohne alle Unterordner |
+| Variante B — Familienunternehmen besondere Vertraulichkeit | Strikte Zugangskontrolle; separate Vertraulichkeits-Akte |
+| Variante C — Mehrere parallele Interessenten parallel-Track | Parallel-Track-Aktenstruktur; Datenraum koordinieren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -159,6 +177,18 @@ DATENLÜCKEN (TODO)
 VERTRAULICHKEITSVERMERK: Alle übermittelten Unterlagen unterliegen dem
 Vertraulichkeitsvertrag vom [Datum] (Anlage [X]).
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Strategische Empfehlung
 

@@ -219,6 +219,21 @@ Vor Versand:
 3. Welche Anspruchsgrundlagen kommen in Betracht — sind Alternativansprueche vollstaendig erfasst?
 4. Existieren konkrete Beweismittel (Urkunden, Zeugen, Sachverstaendige) fuer jedes Tatbestandsmerkmal?
 5. Ist der Antrag tenorierungsfaehig und vollstreckbar formuliert?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — IT-/Datenschutzrecht Schriftsatz verfassen | Schriftsatz-Template; Template unten |
+| Variante A — Datenschutz-Verfahren vor Aufsichtsbehoerde | Beschwerdeschrift an DPA; andere Struktur als Klageschrift |
+| Variante B — Eilverfahren einstweilige Verfuegung | Verkuerzter Schriftsatz; Dringlichkeit begruenden |
+| Variante C — Strafverfahren IT-Bezug | Strafrecht-Skill zusaetzlich einsetzen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Output-Template — Schriftsatz IT-/Datenschutz-/Telemedienrecht
 **Adressat:** Gericht / Behoerde — Tonfall: sachlich-juristisch, praezise
@@ -262,3 +277,8 @@ K2: [BEZEICHNUNG, DATUM]
 [NAME RA/RAin]
 Rechtsanwaeltin / Rechtsanwalt
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

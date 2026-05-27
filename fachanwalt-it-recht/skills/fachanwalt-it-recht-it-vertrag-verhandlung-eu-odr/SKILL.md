@@ -61,6 +61,8 @@ IT-Vertrag-Verhandlung ist Verhandlungs-intensiv: SaaS, Cloud, Lizenz, IT-Projek
 
 ## Workflow
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 ### Phase 1 — Vertragsanalyse
 
 - Schiedsklausel im Vertrag?
@@ -129,6 +131,21 @@ Stand: 05/2026. EU-ODR-VO 524/2013. VSBG. AI Act 2024/1689 Art. 85. DGRI-Schieds
 2. Standard-SaaS-AGB oder verhandelter Individualvertrag?
 3. Welche Klauseln sind kritisch? (SLA-Verfügbarkeit / Haftung / Exit / Datenschutz)
 4. Streitbeilegungsklausel: Schiedsverfahren / Schlichtung / ordentliches Gericht?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — IT-Vertragsverhandlung EU-ODR | Verhandlungsprotokoll; Template unten |
+| Variante A — Mandant will Vergleich vermeiden | Aussergerichtliche Einigung; Mediationsklausel einbauen |
+| Variante B — Geringer Streitwert unter 10000 EUR | Europaeisches ODR-Portal (eur-lex) als Alternative |
+| Variante C — Dauerhafter Konflikt mit Vertragspartner | Vertragsausstieg + Neuausschreibung pruefen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Output-Template — IT-Vertragsverhandlungs-Protokoll
 
@@ -151,3 +168,8 @@ Offene Klauseln:
 Streitbeilegung: ODR-Plattform (B2C) / DGRI-Schlichtung / DIS-Schiedsverfahren
 Nächster Termin: [DATUM]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

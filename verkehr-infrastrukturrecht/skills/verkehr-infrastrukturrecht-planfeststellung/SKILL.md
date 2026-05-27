@@ -12,6 +12,7 @@ description: "Planfeststellung fuer Strassenbau, Schienenstrecken und OEPNV-Infr
 3. **Phase des Verfahrens?** — Linienplanung, Planfeststellung, Genehmigung, Oeffentlichkeitsbeteiligung, Eroerrterungstermin, Entscheidung, Klage?
 4. **Einwendungsfristen?** — § 17a FStrG i.V.m. § 73 VwVfG: 6 Wochen nach Bekanntmachung der Auslegung.
 5. **Ausschlusswirkung nicht vergessen!** — § 73 Abs. 4 Satz 3 VwVfG: nicht fristgerecht erhobene Einwendungen sind ausgeschlossen (Praeklusion).
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -42,6 +43,9 @@ description: "Planfeststellung fuer Strassenbau, Schienenstrecken und OEPNV-Infr
 
 ## Schritt-fuer-Schritt-Workflow
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. **Mandantenrolle klaeren:** Vorhabentraeger, Betroffener, Verband — unterschiedliche Rechte und Pflichten.
 2. **Fristen pruefen:** Auslegungsfrist (§ 73 Abs. 2 VwVfG); Einwendungsfrist 6 Wochen (§ 73 Abs. 4 VwVfG).
 3. **Einwendung formulieren:** Konkrete betroffene Belange (Laerm, Eigentumseingriff, Wertminderung, Artenschutz); ohne Praeklusion riskieren.
@@ -63,6 +67,20 @@ Planfeststellungsbeschluss erlassen?
 └─ Sonstiger Betroffener?
     └─ Klagebefugnis nach § 42 Abs. 2 VwGO; subjektive Rechtsverletzung geltend machen
 ```
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Einwendungsschreiben gegen Planfeststellungsbeschluss | Einwendung nach Schema; Template unten |
+| Variante A — Einwendungsfrist bereits abgelaufen Praeklusion | Nachholung der Einwendung nicht moeglich; andere Rechtsmittel pruefen |
+| Variante B — Mandant ist Traeger oeffentlicher Belange | Einwendung als ToEB; anderes Gewicht und Verfahren |
+| Variante C — Planfeststellung hat UVP-Fehler | UVP-Fehler-Ruege als staerkster Angriffspunkt |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Output-Template Einwendungsschreiben
 
@@ -88,6 +106,18 @@ Wir beantragen: [Planänderung / Auflagen / Entschaedigung].
 
 [NAME] [DATUM]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Harte Leitplanken
 

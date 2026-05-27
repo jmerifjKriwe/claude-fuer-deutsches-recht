@@ -15,6 +15,7 @@ description: "Vermieter will Miete erhoehen oder Mieter prueft Zustimmungspflich
 6. Was ist das Erhöhungsziel in EUR/qm — noch innerhalb Kappungsgrenze und ortsüblicher Vergleichsmiete?
 7. Stimmt der Mieter nicht zu — soll Zustimmungsklage § 558b Abs. 2 BGB erhoben werden?
 8. Staffelmiete § 557a BGB oder Indexmiete § 557b BGB vereinbart — diese schließen § 558 BGB-Erhöhung aus.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -64,6 +65,20 @@ description: "Vermieter will Miete erhoehen oder Mieter prueft Zustimmungspflich
 | 8 | Modernisierung | §§ 555b–559b BGB | Ankündigung; Kosten; 8 % p. a.; Kappung |
 | 9 | Mietpreisbremse | §§ 556d ff. BGB | Neuvermietung in Schutzgebiet? Rüge des Mieters? |
 | 10 | Streitwert Zustimmungsklage | § 41 Abs. 5 GKG | Jahresbetrag der Erhöhung |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Mieterhoeung nach Mietspiegel/Vergleichsmiete | Mieterhoeungsverlangen; Template unten |
+| Variante A — Mieter verweigert Zustimmung | Zustimmungsklage nach 2 Monaten §§ 558 ff. BGB |
+| Variante B — Modernisierungsumlage statt Vergleichsmiete | §§ 559 ff. BGB Ankuendigungsschreiben; andere Berechnung |
+| Variante C — Mietpreisbremse greift | § 556d BGB Hoechstgrenze pruefen; Ortsgruppenzugehoerigkeit klaren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -131,6 +146,11 @@ Monats kündigen.
 
 [Unterschrift]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Beweislast und Darlegungslast
 

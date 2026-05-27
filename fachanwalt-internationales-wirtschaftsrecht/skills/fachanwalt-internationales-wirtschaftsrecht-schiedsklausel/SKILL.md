@@ -15,6 +15,7 @@ description: "Mandant verhandelt internationalen Vertrag und fragt: Sollen wir e
 6. Liegt Verbraucherbeteiligung vor? § 1031 Abs. 5 ZPO — schärfere Formanforderungen zwingend.
 7. Soll Streitschlichtung (Mediation, Conciliation) als vorgeschaltete Pflichtphase vereinbart werden (so genannte Multi-Tier-Klausel)? Begründung: wirkt kostenmindernd, muss präzise formuliert sein um Zuständigkeitsfragen zu vermeiden.
 8. Notwendigkeit von Interim Relief (einstweilige Maßnahmen) — Zuständigkeit des Schiedsgerichts, Notfallschiedsrichter ICC Art. 29, DIS § 23, oder staatliche Gerichte weiterhin offen?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -66,6 +67,20 @@ description: "Mandant verhandelt internationalen Vertrag und fragt: Sollen wir e
 | 10 | Aufhebungsgründe antizipiert | § 1059 ZPO | Ordre public, Formfehler, mangelnde Schiedsfähigkeit? |
 | 11 | Interim Relief | Schiedsordnung / §§ 1041 f. ZPO | Zuständigkeit Notfallschiedsrichter oder staatliches Gericht offen? |
 | 12 | Multi-Tier-Klausel | Parteiwahl | Mediation / Conciliation als Voraussetzung? Präzise Formulierung? |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Schiedsklausel formulieren oder pruefen | Template unten; ICC oder DIS als Institution empfehlen |
+| Variante A — Mandant will staatliche Gerichtsbarkeit | Kein Schiedsverfahren; Gerichtsstandsklausel nach Art. 25 Bruessel Ia |
+| Variante B — Schiedsklausel unklar / pathologisch | Reparatur durch Auslegung oder Neuvereinbarung; Risiko Nichtzustaendigkeit beachten |
+| Variante C — Investitionsstreit | ICSID pruefen; Achmea-Problematik bei Intra-EU-BIT beachten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -168,6 +183,11 @@ Die Dreimonatsfrist des § 1059 Abs. 3 ZPO endet am [Datum].
 
 [Unterschrift]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Beweislast und Darlegungslast
 

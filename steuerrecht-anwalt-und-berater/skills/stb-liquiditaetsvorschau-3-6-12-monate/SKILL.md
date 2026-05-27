@@ -19,6 +19,7 @@ Krisenhafte GmbH/UG-Mandanten benötigen eine strukturierte, wöchentlich rollie
 6. Welcher Auftragsbestand — zugesagte Aufträge mit Zahlungserwartung, Abschläge, Zahlungsziel?
 7. Gibt es Kreditverträge mit Covenants (EK-Quote, Leverage) und wann sind diese zu messen?
 8. Liegt ein Sanierungskonzept IDW S 6 vor oder soll die Vorschau Grundlage dafür sein?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -47,6 +48,9 @@ Krisenhafte GmbH/UG-Mandanten benötigen eine strukturierte, wöchentlich rollie
 | BGH II ZR 139/23 | II ZR 139/23 | 12.03.2024 | Objektive Beurteilung der Zahlungsunfähigkeit; kein subjektives Element erforderlich |
 
 ## Prüfschema Liquiditätsvorschau
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -113,6 +117,20 @@ Stand: [Datum]
 | Lohnzahlungen ohne AG-SV-Anteil | Drittellast: Lohn × 1.28 für Personal-Gesamtkosten |
 | 3-Wochen-Frist ab Erkenntnis (StB-Sicht) | Frist läuft ab Eintritt der Zahlungsunfähigkeit, nicht ab Erstellung der Vorschau |
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Liquiditaetsvorschau fuer 3 bis 12 Monate erstellen | Vorschau nach Schema; Schriftsatz unten |
+| Variante A — Kurzfristige Liquiditaet kritisch Woche noetig | Kurzfrist-Vorschau separat; dann Mittelfrist ergaenzen |
+| Variante B — Saisonales Unternehmen | Saisonalitaets-Hinweise in Vorschau einarbeiten |
+| Variante C — Bankfinanzierung laeuft aus Prolongation noetig | Bankgespraeche-Version der Vorschau; Stresstest anfuegen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Schriftsatzbausteine
 
 ### Baustein 1: Memo an GF — Liquiditätsvorschau-Ergebnis
@@ -177,6 +195,18 @@ FORTFÜHRUNGSPROGNOSE — [Firma] GmbH — [Datum]
    Positiv: keine Überschuldung, auch bei negativem Eigenkapital.
    Negativ: Überschuldungsstatus mit Liquidationswerten erforderlich.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Streitwert und Kosten
 

@@ -19,6 +19,7 @@ Genehmigung von Stallneubau oder Stallerweiterung mit immissionsschutzrechtliche
 6. **Besteht Bürgerinitiative oder Nachbarwiderspruch?** — Im förmlichen Verfahren zwingend Öffentlichkeitsbeteiligung; im vereinfachten Verfahren nicht.
 7. **Ist die Futtergrundlage im eigenen Betrieb vorhanden?** — BGH-Linie: BauGB-Privilegierung nur bei überwiegender Futterbasis auf eigenen Flächen; Massentierhaltung mit Zukauf-Futter oft nicht privilegiert.
 8. **Tierschutzstandards im Neubau geplant?** — TierSchNutztV-Mindestnormen sind seit Planungsbeginn einzuhalten; Nachbesserungen im Verfahren kosten Zeit und Geld.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -73,6 +74,9 @@ Genehmigung von Stallneubau oder Stallerweiterung mit immissionsschutzrechtliche
 **Unterhalb aller Schwellen:** Nur Baugenehmigung nach Landes-Bauordnung; immissionsschutzrechtliche Nebenbestimmungen dennoch möglich.
 
 ## Prüfschema Tierhaltungs-Genehmigung
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 
 | Schritt | Prüfpunkt | Norm | Risiko bei Fehler |
 |---|---|---|---|
@@ -146,6 +150,19 @@ Genehmigung von Stallneubau oder Stallerweiterung mit immissionsschutzrechtliche
 - Klagebefugnis: Beeinträchtigung in eigenen Rechten (Geruch, Lärm, Wasser)
 - Aufschiebende Wirkung § 80 VwGO — Betrieb erst nach Rechtskraft oder Anordnung der sofortigen Vollziehung
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Neuantrag Tierhaltungsgenehmigung BImSchG | Genehmigungsverfahren-Schema unten |
+| Variante A — Erweiterung unter BImSchG-Schwellenwert | Nur Baugenehmigungsverfahren; BImSchV nicht noetig |
+| Variante B — Nachbarn klagen wegen Immissionen | Verwaltungsrechtlichen Schutz und ggf. Anpassungsauflage pruefen |
+| Variante C — Bestandsanlage soll veraendert werden | Aenderungsgenehmigung § 15 BImSchG; Wesentlichkeitsschwelle pruefen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Schriftsatzbaustein — Widerspruch Antragsteller
 
 ```
@@ -182,6 +199,12 @@ den Bescheid aufzuheben und die Genehmigung zu erteilen.
 
 [Rechtsanwalt/-anwaeltin, Fachanwalt fuer Agrarrecht]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast und Darlegungslast
 

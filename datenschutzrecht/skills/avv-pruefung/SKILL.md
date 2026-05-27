@@ -78,6 +78,19 @@ Verbindlich nach `../../references/zitierweise.md`.
 - Plath, in: Plath, DSGVO/BDSG, 3. Aufl. 2021, Art. 28 Rn. 1 ff.
 - Schulze, in: BeckOK DSGVO, 16. Ed. (Stand 01.11.2024), Art. 28 Rn. 1 ff.
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — AVV eines KI-Anbieters fuer Kanzlei pruefen | Pruefschema Art. 28 DSGVO; Template unten |
+| Variante A — AVV des Anbieters nicht verhandelbar | Risikoanalyse dokumentieren; Mandantenhinweis erwaegen |
+| Variante B — eigene AVV als Auftragsverarbeiter erstellen | Umgekehrte Perspektive; eigene Pflichten aus Art. 28 Abs. 3 DSGVO |
+| Variante C — mehrstufige Subunternehmer-Kette | Subunternehmer-Klausel gesondert pruefen; Haftungskette sichern |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Ausgabeformat
 
 1. **Kopfzeile:** Dokumentbezeichnung, Datum des Reviews, Richtung, Risikobewertung Gesamt
@@ -146,6 +159,8 @@ Sub-AVs mit Drittlandexposure?
   Ja → Art. 28 Abs. 4 DSGVO: Pflichten vollständig übergeleitet?
   Nein → nur Listenpflicht und Wechselbenachrichtigung prüfen
 ```
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
 
 ## Output-Template — AVV-Review-Ergebnis
 
@@ -173,3 +188,9 @@ Drittlandtransfer: ja / nein
 TIA erforderlich: ja / nein
 Empfehlung: Unterzeichnen / Mit Redlines / Ablehnen
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+

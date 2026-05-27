@@ -13,12 +13,29 @@ Eine vollständige KI-Nutzungsrichtlinie muss die relevanten Rechtsquellen kohä
 
 ## Vorgehen
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. **Kanzlei-Kontext abfragen**: Ergebnis des Skills `kanzlei-kontext-analyse` als Grundlage nutzen.
 2. **13 Kapitel anlegen**: Alle Kapitel mit Überschrift und Kurzbeschreibung vorstrukturieren.
 3. **Kapitel priorisieren**: Je nach Kanzlei-Profil einzelne Kapitel ausführlicher oder schlanker gestalten (z.B. Drittland-Transfer nur bei internationalen Mandaten relevant).
 4. **Prompting-Anlage anhängen**: Vier-Elemente-Methode als Anhang immer beifügen.
 5. **Platzhalter einbauen**: Für kanzleispezifische Angaben (Name, DSB, Ansprechpartner, Datum) Platzhalter „[...]" verwenden.
 6. **Versionierung einrichten**: Stand-Datum und Versions-Nummer im Dokumentkopf festhalten.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — KI-Nutzungsrichtlinie Skelett fuer Kanzlei erstellen | Skelett nach Schema; Template unten |
+| Variante A — Kanzlei will nur Kernregeln kein langes Dokument | Kurzrichtlinie 2 bis 3 Seiten statt Vollskelett |
+| Variante B — Richtlinie ist Teil groesserer Kanzlei-Policy | Modul-Richtlinie als Teil des Gesamtpolicys |
+| Variante C — Richtlinie nur fuer bestimmten Fachbereich | Fachbereich-spezifisches Skelett; nicht kanzleiweite Geltung |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Vorlagentext / Bausteine
 
@@ -55,6 +72,18 @@ Anlage: Prompting-Leitfaden
 Anlage: Musterklauseln § 43e BRAO
 ```
 
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
 ## Hinweise zur Aktualisierung
 
 Das Skelett ist bei wesentlichen Rechtsänderungen (neue KI-VO-Durchführungsrechtsakte, neue BRAK-Hinweise, neue BAG- oder OLG-Entscheidungen) anzupassen. Der Skill `richtlinien-update-zyklus` legt das Prüfintervall fest.
@@ -78,6 +107,7 @@ Das Skelett ist bei wesentlichen Rechtsänderungen (neue KI-VO-Durchführungsrec
 3. Welche KI-Systeme sollen durch die Richtlinie abgedeckt werden?
 4. Gibt es bereits Teilregelungen — ist das Skelett Ersterfassung oder Konsolidierung?
 5. Wer genehmigt die fertige Richtlinie — Partnerkreis, GF, Betriebsrat?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Output-Template — Richtlinien-Skelett KI-Nutzung
 **Adressat:** Richtlinien-Verantwortlicher — Tonfall: strukturiert, modular

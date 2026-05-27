@@ -13,6 +13,7 @@ description: "Insolvenzanfechtung nach §§ 129 ff. InsO Tatbestaende Bargeschae
 6. Liegt ein Bargeschäft i.S.v. § 142 InsO vor: gleichwertige Gegenleistung, zeitgleich (max. 30 Tage nach BGH)?
 7. Handelte es sich um eine unentgeltliche Leistung (§ 134 InsO) oder um ein Gesellschafterdarlehen (§ 135 InsO)?
 8. Ist die Verjährungsfrist des § 146 InsO (3 Jahre ab Kenntnis des Verwalters, max. 10 Jahre ab Rechtshandlung) bereits abgelaufen?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -47,6 +48,9 @@ description: "Insolvenzanfechtung nach §§ 129 ff. InsO Tatbestaende Bargeschae
 
 ## Prüfschema
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
 | 1 | Rechtshandlung des Schuldners vor Verfahrenseröffnung | § 129 Abs. 1 InsO | Grundvoraussetzung; fehlt → keine Anfechtung |
@@ -60,6 +64,19 @@ description: "Insolvenzanfechtung nach §§ 129 ff. InsO Tatbestaende Bargeschae
 | 4 | Bargeschäft-Ausnahme § 142 InsO prüfen | § 142 InsO | Gleichwertige + zeitgleiche Gegenleistung (max. 30 Tage) → Tatbestände §§ 130–132 scheiden aus |
 | 5 | Verjährung § 146 InsO | § 146 InsO | 3 Jahre ab Kenntnis IV, absolut 10 Jahre; Hemmung bei Klageerhebung |
 | 6 | Rechtsfolge § 143 InsO | § 143 InsO | Rückgewähr Naturalrestitution; Wertersatz bei Unmöglichkeit; Gutglaubensschutz § 143 Abs. 2 InsO |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Insolvenzanfechtung als Verwalter oder Anfechtungsgegner | Anfechtungsschreiben und Verteidigungsschreiben unten |
+| Variante A — Anfechtungsgegner will Bargeschaeft einwenden | § 142 InsO; Unmittelbarkeitskriterium pruefen |
+| Variante B — Vorsatzanfechtung § 133 InsO | Glaeeubigerbenahteiligungs-Vorsatz nachweisen; 10-Jahres-Frist |
+| Variante C — Anfechtungsgegner ist nahestehende Person | § 138 InsO; erleichterte Anfechtung; Beweislastumkehr |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatz-Bausteine
 
@@ -129,6 +146,12 @@ Es wird beantragt:
 
 Streitwert: EUR [Betrag]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 

@@ -15,6 +15,7 @@ description: "Beschlussfassung WEG zur Waermepumpen-Aufstellung gem. § 20 WEG n
 6. Haben Nachbareigentümer bereits Einwände wegen Lärmimmissionen geäußert — Schallgutachten vorhanden?
 7. Sind KfW/BAFA-Förderanträge rechtzeitig vor Auftragsvergabe gestellt?
 8. Werden vermietete Einheiten miterfasst — Modernisierungsankündigung § 555c BGB an Mieter?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -67,6 +68,20 @@ description: "Beschlussfassung WEG zur Waermepumpen-Aufstellung gem. § 20 WEG n
 | 8 | Mietrechtliche Pflichten | §§ 555b–559b BGB | Modernisierungsankündigung an Mieter? |
 | 9 | Beschlussanfechtung | § 44 WEG | Anfechtbarkeit wegen Lärm oder Sondereigentums-Verletzung? |
 | 10 | Energieausweis | §§ 79 ff. GEG | Aktualisierung nach Heizungstausch? |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — WEG/Miet Waermepumpe GEG-Umruest | Beschluss / Zustimmungsklage; Template unten |
+| Variante A — Eigentuemergemeinschaft lehnt ab | Individualrechts-Weg § 13 WEG pruefen; Sondernutzungsrecht |
+| Variante B — Vermieteter Mietbaustein Modernisierung | Modernisierungsmieterhoeung §§ 559 ff. BGB ankuendigen |
+| Variante C — Denkmalschutz blockiert Umbau | Behordliche Genehmigung Denkmalbehoerde; GEG-Ausnahmen pruefen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -131,6 +146,11 @@ Hinweis auf Sonderkündigungsrecht § 555e BGB.
 
 [Unterschrift Vermieter]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Beweislast und Darlegungslast
 

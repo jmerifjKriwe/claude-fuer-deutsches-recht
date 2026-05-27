@@ -67,6 +67,8 @@ Internationale Wirtschaftsstreitigkeiten werden überwiegend schiedsgerichtlich 
 
 ## Workflow
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 ### Phase 1 — Schiedsklausel-Analyse
 
 - Wirksamkeit der Klausel (§ 1031 ZPO)
@@ -120,6 +122,20 @@ Internationale Wirtschaftsstreitigkeiten werden überwiegend schiedsgerichtlich 
 
 Stand: 05/2026. ICC Rules 2021. UNCITRAL Rules 2021. IBA Rules 2020. New Yorker Übereinkommen 1958. Bei ICC-Reform aktualisieren.
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — ICC/UNCITRAL-Schiedsklage einleiten | Statement of Claim; Template unten |
+| Variante A — Mandant will erst Mediation versuchen | ICC ADR Rules Mediation vor Schiedsklage einleiten |
+| Variante B — Vollstreckung im Schiedsstaat schwierig | New Yorker Uebereinkommen-Laender-Check; ggf. Asset-Sicherung vorab |
+| Variante C — Intra-EU-Investitionsstreit | Achmea-Problem beachten; staatliche Gerichte erwaegen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Vertiefung: Leitsaetze und Triage Schiedsverfahren
 
 ### Triage — Bevor losgelegt wird, klaere:
@@ -129,6 +145,7 @@ Stand: 05/2026. ICC Rules 2021. UNCITRAL Rules 2021. IBA Rules 2020. New Yorker 
 3. Wo ist der Schiedssitz? → Bestimmt anwendbares Verfahrensrecht (§§ 1025 ff. ZPO bei Sitz DE)
 4. Welches materielle Recht ist anwendbar?
 5. Vollstreckung wo? → New Yorker Uebereinkommen 1958 Ratifizierungsland?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ### Ergaenzende Leitsaetze Schiedsverfahren
 
@@ -179,3 +196,8 @@ Streitwert:   EUR [BETRAG]
 
 [Anwalt Klaeger]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

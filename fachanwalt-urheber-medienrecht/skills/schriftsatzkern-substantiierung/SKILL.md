@@ -12,6 +12,7 @@ description: "Schriftsatzkern fuer urheber- und medienrechtliche Klagen und Antr
 3. **Zustaendigkeit:** § 105 UrhG (spezialisierte Kammern); LG am Niederlassungsort des Mediums (bei Persoenlichkeitsrecht oft LG Hamburg oder Berlin).
 4. **Fristen:** Verjaehrungs-Check (§§ 195, 199 BGB, § 102 UrhG); bei Gegendarstellung LPG-Frist.
 5. **Beweislage:** Verletzungsnachweis (Screenshot mit Zeitstempel, Wayback Machine), Lizenz-Nachweis, Originalwerk-Nachweis.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen und Paragrafenkette
 
@@ -83,6 +84,20 @@ LPG § 11 BlnPrG / § 10 LPG NRW (Gegendarstellung) → §§ 935, 940 ZPO (Einst
 - Zeugenbeweis: Schoepfungsakt-Zeugen
 - Sachverstaendiger: Werkqualitaet (wenn streitig)
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Urheberrecht Schriftsatz verfassen | Schriftsatz-Template; Template unten |
+| Variante A — Einstweilige Verfuegung Urheberrecht | Verfuegungsantrag; Dringlichkeit begruenden |
+| Variante B — Bereicherungsrechtlicher Anspruch | § 812 BGB nach § 102a UrhG-Verjaehrung |
+| Variante C — EGMR / Menschenrechts-Dimension | Art. 10 EMRK Kunstfreiheit bei Parodie / Satire |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Output-Template Abmahnung Urheberrecht
 
 **Adressat:** Verletzer — Tonfall scharf-fristsetzend
@@ -115,6 +130,11 @@ einstweiligen Verfuegung stellen.
 Anlage K1: Screenshot Verletzung [DATUM]
 Anlage K2: MFM-Honorarempfehlungen
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Pruefkette vor Versand
 

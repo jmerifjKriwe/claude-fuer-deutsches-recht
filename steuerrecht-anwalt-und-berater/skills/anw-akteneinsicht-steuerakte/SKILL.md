@@ -12,6 +12,7 @@ description: "Akteneinsicht in die Steuerakte beantragen und auswerten — Einsp
 3. Gibt es konkrete Hinweise auf Kontrollmitteilungen, Drittauskünfte oder Prüfungsnotizen, die zur Bescheidbegründung beitragen?
 4. Hat das Finanzamt schon Tatsachen bezeichnet auf die es seine Entscheidung stützt (§ 364 Satz 1 AO)?
 5. Ist eine einstweilige Sicherung (AdV) bereits beantragt oder erforderlich — dann Akteneinsicht parallel anfordern.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -88,6 +89,9 @@ In der Streitsache [NAME] ./. Finanzamt [ORT] beantragen wir:
 
 ## Schritt-für-Schritt-Workflow
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. **Aktenlage klären:** Liegt Einspruchsentscheidung vor? → Klageverfahren → § 78 FGO; sonst → § 364 AO.
 2. **Antrag formulieren** (Vorlage oben anpassen, Steuerart, Az, Mandantendaten).
 3. **Versand:** an FA über ELSTER/ERiC oder per Briefpost/Fax (kein beA an FA); an FG über beA (§ 52d FGO).
@@ -141,6 +145,20 @@ Anschluss an Skill `anw-steuerbescheid-analyse` und Folge-Schriftsatz.
 - Verarbeitung nur in Tools mit AVV (Art. 28 DSGVO).
 - Mandantenakte unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-anwalt-und-berater/mandate/<az>/`.
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Akteneinsicht in Steuerakte beantragen | Anschreiben nach Schema; Template unten |
+| Variante A — Akteneinsicht fuer Dritte nicht Steuerpflichtigen | Vollmacht pruefen; Akteneinsicht nur mit Bevollmaechtigten-Nachweis |
+| Variante B — Akteneinsicht im Strafverfahren StPO | Strafprozessuale Akteneinsicht § 147 StPO; anderer Antrag noetig |
+| Variante C — Behoerde verweigert Akteneinsicht | Klage auf Akteneinsicht vor Finanzgericht; Widerspruch zuerst |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Output-Template Anschreiben Mandant
 
 **Adressat:** Mandant — Tonfall: verständlich-erklärend
@@ -161,6 +179,18 @@ und informieren Sie über die Ergebnisse, insbesondere über:
 
 [KANZLEI], [DATUM]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Ausgabe
 

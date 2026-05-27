@@ -227,6 +227,21 @@ Bevor losgelegt wird, klaere:
 3. Liegt ein vollstreckbarer Titel aus dem Ausland vor — Pruefung § 328 ZPO bzw. Art. 45 EuGVVO?
 4. Ist die Klagefrist gewahrt — Verjährung nach CISG Art. 39 (2 Jahre ab Mangel), § 195 BGB, Sonderfristen?
 5. Welche Beweismittel sind verfugbar — Urkunden, Zeugen im Ausland (Hager Beweisaufnahmeubereinkommen)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Schriftsatz internationales Verfahren verfassen | Schriftsatz-Vorlage; Template unten |
+| Variante A — Zweisprachiges Verfahren | Englischsprachige Version parallel vorbereiten |
+| Variante B — Schiedsverfahren statt Gericht | Statement of Claim nach ICC/UNCITRAL Rules; anderes Skill |
+| Variante C — Eilverfahren noetig | Verkuerztes Template; Eilantrag an zustaendiges Gericht |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Output-Template: Klageschrift IWR-Kurzrubrum
 
@@ -281,3 +296,8 @@ VI. BEWEISANGEBOTE
 [KANZLEI], [ORT], [DATUM]
 [RECHTSANWAELTIN/RECHTSANWALT]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

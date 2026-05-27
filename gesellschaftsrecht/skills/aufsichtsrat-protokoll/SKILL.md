@@ -30,6 +30,7 @@ Bevor das Protokoll erstellt wird, sind folgende Punkte zu klären:
 8. **Anlagen?** Welche Dokumente wurden beigefügt oder in der Sitzung verteilt?
 9. **Protokollform?** Vollprotokoll (wortnahe Wiedergabe der Diskussion), Beschlussprotokoll (nur Beschlüsse) oder Hybridform (Hausformat)?
 10. **Unterzeichnung?** Wer unterzeichnet (AR-Vorsitzender allein nach § 107 Abs. 2 S. 3 AktG; GmbH-GV: Versammlungsleiter; Gegenpräsentation / Nichtjurist-Rolle beachten)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -88,6 +89,9 @@ Zusätzlich: Mindestens die Hälfte der Gesamtzahl der Mitglieder muss anwesend 
 
 ## Prüfschema: Sitzungsprotokoll
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
 | 1 | Organidentifikation | Welches Gremium? AG-AR, AG-Vorstand, GmbH-GV, HV, Beirat? | Festlegung des anwendbaren Rechtsrahmens |
@@ -139,6 +143,20 @@ Zusätzlich: Mindestens die Hälfte der Gesamtzahl der Mitglieder muss anwesend 
 | GmbH-Umlaufbeschluss ohne Einvernehmen aller | § 48 Abs. 2 GmbHG lässt schriftliches Verfahren zu | § 48 Abs. 2 GmbHG verlangt ausdrücklich Einvernehmen aller Gesellschafter; ohne dieses unwirksam (BGH II ZR 6/03) |
 | Protokoll erst 3 Monate nach Sitzung erstellt | Gesetz sieht keine Frist vor | Beweiswert des Protokolls leidet erheblich; Erinnerungsprotokoll mit deutlichem Hinweis auf späte Erstellung versehen |
 | Videokonferenz ohne ausdrückliche Satzungsermächtigung | § 108 Abs. 4 AktG erlaubt Videokonferenz des AR | GmbH: GmbHG sieht keine ausdrückliche Regelung vor; gesellschaftsvertragliche Ermächtigung prüfen oder Einvernehmen aller sicherstellen |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Aufsichtsratssitzung protokollieren | Protokoll nach Schema; Template unten |
+| Variante A — Geheimhaltungspflichtige Tagesordnungspunkte | Protokoll in vertraulichen Teil und oeffentlichen Teil aufteilen |
+| Variante B — Beschluesse sind formell angriffen | Beschlussprotokoll mit Abstimmungsergebnis erweiternd festhalten |
+| Variante C — Fernsitzung keine Anwesenheit in Praeenz | Protokollvermerk Fernsitzung mit Zustimmungsnachweis |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -358,6 +376,18 @@ Zu prüfen vor Unterzeichnung / Versand
 [ ] 14. Unterzeichnungsblock korrekt (AR: Vorsitzender allein; GmbH: Versammlungsleiter)?
 [ ] 15. ENTWURF-Vermerk bis Genehmigung in der Folgesitzung vorhanden?
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Streitwert und Kosten
 

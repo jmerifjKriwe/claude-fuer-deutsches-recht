@@ -21,6 +21,7 @@ Die Konstellation ist strafverteidigungspraktisch gefährlich: Gleichzeitig lauf
 8. Haben Sie anwaltliche Vertretung im Insolvenzverfahren getrennt von der strafrechtlichen Vertretung?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -81,6 +82,20 @@ Die Konstellation ist strafverteidigungspraktisch gefährlich: Gleichzeitig lauf
 | 14 | Geschäftsführerhaftung nach § 15b InsO prüfen: Zahlungen nach Eintritt der Insolvenzreife; Haftungsumfang ermitteln | § 15b InsO |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Insolvenzantrag Staatsanwaltschaft abwehren | Stellungnahme; Template unten |
+| Variante A — Mandant stellt selbst Insolvenzantrag | Eigenantrag § 15 InsO; Haftungsminimierung |
+| Variante B — Verfahren einzustellen | § 153a StPO-Angebot annehmen; Busse zahlen |
+| Variante C — Glaeubigerbenachteiligung im Fokus | § 283 StGB-Varianten pruefen; InsO-Anfchtung parallel |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -184,6 +199,11 @@ Dem Antrag liegt ein Sanierungsplan gemäß § 270 Abs. 2 Nr. 3 InsO bei.
 [Ort, Datum]
 [Unterschrift]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

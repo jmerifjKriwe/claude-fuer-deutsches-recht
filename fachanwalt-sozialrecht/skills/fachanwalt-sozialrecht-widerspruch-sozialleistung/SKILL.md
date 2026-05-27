@@ -34,6 +34,7 @@ description: "Mandant hat Sozialleistungsbescheid erhalten und Anwalt formuliert
 8. Hat die Behörde einen Aufhebungs-/Erstattungsbescheid erlassen — auf welche Rechtsgrundlage (§ 45 oder § 48 SGB X)?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -92,6 +93,20 @@ Das Postmodernisierungsgesetz (PostModG) hat die Bekanntgabefiktion von drei auf
 | 14 | Klagefrist § 87 SGG nach Widerspruchsbescheid eintragen | § 87 SGG |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Widerspruch gegen Sozialleistungsbescheid | Widerspruchsschreiben mit Begruendungsankuendigung; Template unten |
+| Variante A — Mandant will sofortige Zahlung (kein langer Widerspruch) | Eilantrag § 86b SGG statt oder neben Widerspruch |
+| Variante B — Bestandskraeftiger Bescheid | § 44 SGB X Ruecknahmeantrag statt Widerspruch |
+| Variante C — Verfahrensmangel (Anhoerung fehlte) | Formeller Widerspruch wegen § 24 SGB X; materiell pruefen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -235,6 +250,11 @@ Wir beantragen:
 Mit freundlichen Grüßen
 [Fachanwalt/-anwältin]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

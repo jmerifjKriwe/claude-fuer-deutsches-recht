@@ -17,6 +17,7 @@ description: "Sportler oder Verein will Entscheidung eines Sportverbands vor dem
 8. Welche finanziellen Mittel stehen für den Kostenvorschuss (ab CHF 1000 Anfangsgebühr, Verfahrenskosten bis CHF 30000+) zur Verfügung?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -63,6 +64,20 @@ description: "Sportler oder Verein will Entscheidung eines Sportverbands vor dem
 | 14 | Anfechtung CAS-Spruch: Schweizer Bundesgericht, 30 Tage, Art. 77 IPRG | Art. 77 IPRG |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — CAS-Berufung vorbereiten | Berufungsschriftsatz; Template unten |
+| Variante A — Mandant will Verfahren vermeiden | Einigung mit Verband vor CAS; Settlement-Option |
+| Variante B — Einstweilige Massnahme noetig | R37 CAS-Code Antrag auf einstweilige Massnahme |
+| Variante C — Grundsatzentscheidung angestrebt | Advisory Opinion CAS als Alternative |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -237,6 +252,11 @@ The Appellant is available for emergency contact:
 [Place, Date]
 [Counsel Signature]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

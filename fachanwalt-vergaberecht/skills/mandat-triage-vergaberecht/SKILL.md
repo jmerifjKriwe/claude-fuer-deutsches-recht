@@ -68,6 +68,7 @@ Vergaberecht ist hochgradig fristen-kritisch — die Stillhaltefrist § 134 GWB 
 - Gewinn-Erwartung Mandant
 - Kostenrisiko bei Verfahren
 - Versicherungs-Deckung
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Routing-Matrix
 
@@ -104,6 +105,20 @@ Bei Stillhaltefrist § 134 GWB läuft:
 - **Heute** Nachprüfungs-Antrag bei VK
 - **Diese Woche** Sofortige Beschwerde OLG bei VK-Beschluss
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Vergaberecht Mandat triage und routen | Triage-Protokoll; Template unten |
+| Variante A — Unterhalb EU-Schwellenwert | Nationales Haushalts-/Vergaberecht; keine VK-Zustaendigkeit |
+| Variante B — Verteidigung Auftraggeber | Andere Beratungsrichtung; VK-Verteidigung |
+| Variante C — Eilsituation Stillhaltefrist | Frist-Prioritaet; Ruege und NPA sofort |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Ausgabe
 
 - `triage-protokoll-vergaberecht.md`
@@ -113,6 +128,11 @@ Bei Stillhaltefrist § 134 GWB läuft:
 - Nachprüfungs-Antrag-Entwurf bei akutem Bedarf
 - Mandatsvereinbarung mit Honorar
 - Empfehlung Folge-Skill
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Quellen
 

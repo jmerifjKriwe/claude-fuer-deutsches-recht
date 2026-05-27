@@ -117,6 +117,20 @@ Bei DSA-Designation und DMA-Gatekeeper-Benennung ist das Unternehmen **Adressat 
 2. Wann wurde der Beschluss bekanntgegeben? Frist 2 Monate nach Art. 263 Abs. 6 AEUV berechnen.
 3. Welche Klagegründe kommen in Betracht? (Formfehler / Schwellenwert-Fehler / Verhältnismäßigkeit / Ermessensmissbrauch)
 4. Ist Eilrechtsschutz nach Art. 278 AEUV erforderlich (Durchsetzungsaufsetzung)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Nichtigkeitsklage gegen DSA/DMA-Beschluss vorbereiten | Grundgeruest-Template unten |
+| Variante A — Klagebefugnis zweifelhaft | Klagebefugnis Art. 263 Abs. 4 AEUV zuerst pruefen; ggf. Vorabentscheidung |
+| Variante B — nur Eilrechtsschutz noetig (keine Hauptsache) | Art. 278-279 AEUV; separater Eilantrag |
+| Variante C — Beschwerde an Kommission effektiver | Informelles Verfahren vor Klageerhebung erwaegen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Output-Template — Nichtigkeitsklage EuG (Grundgerüst)
 
@@ -146,3 +160,9 @@ Antrag:
 1. Beschluss vom [DATUM] für nichtig zu erklären.
 2. Kosten der Beklagten aufzuerlegen.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+

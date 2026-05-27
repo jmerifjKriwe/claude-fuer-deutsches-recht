@@ -26,6 +26,7 @@ Vor der Initialisierung sind folgende Angaben erforderlich:
 7. **Gesellschafterbeschlüsse:** § 179a AktG-Beschluss erforderlich? Sonstige Gesellschafter-/Aufsichtsrats-Zustimmungen?
 8. **MAC-Klausel:** Enthält das SPA eine MAC-Definition (Material Adverse Change / wesentliche nachteilige Veränderung)? Auslösetatbestände?
 9. **Verantwortliche:** Wer ist Deal-Koordinator auf Käufer- und Verkäuferseite? Welche Kanzleien sind beteiligt?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -74,6 +75,9 @@ In deutschen SPA-Formulierungen wird MAC häufig als „wesentliche nachteilige 
 | OLG Düsseldorf | 16 U 105/19 | NZG 2020, 1264 | Change-of-Control-Klausel; Drittpartei-Zustimmungspflicht als blockierende Vollzugsbedingung |
 
 ## Prüfschema: Vollzugscheckliste
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -126,6 +130,20 @@ In deutschen SPA-Formulierungen wird MAC häufig als „wesentliche nachteilige 
 | MAC nicht eingetreten, Verschlechterung liegt im normalen Geschäftsrisiko | Marktweite Verschlechterung ist kein MAC | Deutsches Recht: enge Auslegung; marktweite Risiken kein MAC; unternehmensspezifische Verschlechterungen prüfen (OLG Frankfurt, NZG 2018, 712) |
 | FDI-Prüfung entbehrlich, weil Erwerber EU-Gesellschaft | Europäischer Erwerber; kein Drittstaatsbezug | Prüfen, ob hinter der EU-Gesellschaft ein Drittstaats-Investor steht (wirtschaftlich Berechtigter § 3 GwG); BMWK schaut durch Konstruktionen hindurch |
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Vollzug einer gesellschaftsrechtlichen Transaktion pruefen | Vollzugscheckliste nach Schema; Template unten |
+| Variante A — Transaktion nur teilweise vollzogen Restpflichten | Restpflichtenprotokoll erstellen; Nachvollzug koordinieren |
+| Variante B — Closing bedingungen noch offen Conditions Precedent | CPs separat listen; Vollzug erst nach CPs-Erfuellung |
+| Variante C — Nachlaufende Pflichten Meldefrist Kartellrecht | Post-Closing-Checkliste als Ergaenzung |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Schriftsatzbausteine
 
 ### Baustein 1: VB-Statusbericht für Deal-Team
@@ -135,6 +153,18 @@ In deutschen SPA-Formulierungen wird MAC häufig als „wesentliche nachteilige 
 
 > Dieser Statusbericht leitet sich aus dem SPA, DD-Findings und internen Deal-Unterlagen ab.
 > Verteilung außerhalb des Vertraulichkeitskreises kann den Schutz aufheben.
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Vollzugschecklisten-Status — [Deal-Code] — [Datum]
 

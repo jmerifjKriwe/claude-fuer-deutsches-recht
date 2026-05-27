@@ -152,6 +152,20 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
 - Kanzlei-Allgemein-Plugin `kanzlei-allgemein` fuer Konflikt-, GwG- und PEP-Pruefroutinen.
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Erstgespraech IWR dokumentieren | Mandatsbogen-Protokoll; Template unten |
+| Variante A — Mandant will nur Beratung ohne Mandat | Beratungsvertrag; kein Vollmandatsbogen erforderlich |
+| Variante B — Eilsituation (Sanktionen / Schiedsklage-Frist) | Sofortberatung; Fristsicherung bevor vollstaendiger Mandatsbogen |
+| Variante C — Mehrere Rechtsordnungen betroffen | Multi-Jurisdictions-Hinweis; lokale Korrespondenzanwaelte benennen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Vertiefung: Rechtsprechung und Normen IWR Erstmandat
 
 ### Schluessel-Leitsaetze Erstgespräch IWR
@@ -176,6 +190,7 @@ Bevor losgelegt wird, klaere:
 3. Berühren Sanktionen oder Exportkontrolle das Mandat? → Sofort-Eskalation
 4. CISG anwendbar (internationaler Warenkauf)? → Ausschluss, Anwendung?
 5. GwG-Check: wirtschaftlich Berechtigte bei ausl. Gesellschaft?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ### Output-Template Mandatsbogen IWR
 **Adressat:** Intern — Tonfall: praezise-dokumentarisch
@@ -198,3 +213,8 @@ Sofortfrist:               [DATUM + RECHTSGRUNDLAGE]
 Naechster Schritt:         [MASSNAHME] bis [DATUM]
 =========================================
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

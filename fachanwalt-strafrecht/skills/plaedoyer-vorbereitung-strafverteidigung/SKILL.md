@@ -21,6 +21,7 @@ Das Plädoyer ist der letzte große Auftritt der Verteidigung in der Hauptverhan
 8. Besteht die Möglichkeit einer Verständigung nach § 257c StPO oder ist das Plädoyer ohne Absprache zu halten?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -82,6 +83,20 @@ Das Plädoyer ist der letzte große Auftritt der Verteidigung in der Hauptverhan
 | 14 | Revisions-Rügeliste finalisieren: Verfahrensrügen geordnet nach Schluss der HV; Fristenkontrolle Revisionsbegründung (1 Monat) | § 344 StPO, § 345 StPO |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Plaedoyer Strafverteidigung vorbereiten | Plaedoyerstruktur; Template unten |
+| Variante A — Verstaendigung nach § 257c StPO | Absprachen-Plaedoyer; andere Argumentation |
+| Variante B — Freispruch angestrebt | Beweis-Plaedoyer; jede Anklage-Schwaeche herausarbeiten |
+| Variante C — Strafmass streitig | Strafzumessungs-Plaedoyer; § 46 StGB-Aspekte |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -189,6 +204,11 @@ Empfehlung für Inhalt des letzten Wortes:
 
 Timing: Kurz (1–3 Minuten). Wirkung: Menschlichkeit zeigen.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

@@ -17,6 +17,7 @@ description: "Asylsuchender muss zum BAMF zur Anhoerung und Anwalt bereitet die 
 8. Welche Beweismittel (Fotos, Atteste, Anzeigencopies, Zeugen) können zur Anhörung mitgebracht werden?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -89,6 +90,20 @@ description: "Asylsuchender muss zum BAMF zur Anhoerung und Anwalt bereitet die 
 | 15 | Ergänzungsschreiben BAMF bei vergessenen Aspekten (mit Fristsetzung) | Mitwirkungspflicht |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Asyl-Anhoerung vorbereiten | Anhoerungsprotokoll und Checkliste; Template unten |
+| Variante A — Dublin-III-Uebertragung droht | Suspensivantrag; einstweilige Massnahme VG pruefen |
+| Variante B — Vulnerable Person | Besondere Verfahrensgarantien Art. 24 VerfahrensRL; medizinisches Gutachten |
+| Variante C — Folgeantrag statt Erstantrag | § 71 AsylG neue Umstaende darlegen; Huerden beachten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -203,6 +218,11 @@ aber ich passe auf, dass das Verfahren fair abläuft.
 Mit freundlichen Grüßen
 [Rechtsanwalt/-anwältin]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

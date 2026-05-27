@@ -19,6 +19,7 @@ Vollstaendige Anzeige-, Konsultations- und Sozialplan-Pflichten bei Massenentlas
 6. **Wann sollen die Kuendigungen ausgesprochen werden?** — Entlassungssperre 1 Monat nach Anzeige; ggf. Verlaengerung durch BA bis 2 Monate einplanen.
 7. **Plant AG Sozialplan-Verhandlung oder versucht er es zu vermeiden?** — Bei Verweigerung des Versuchs: Nachteilsausgleich § 113 BetrVG.
 8. **Handelt es sich um einen AN-Mandanten nach Kuendigungserhalt?** — Dann sofort: 3-Wochen-Frist § 4 KSchG sichern; BA-Anfrage ob Anzeige ordnungsgemaess war.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -154,7 +155,10 @@ Anlagen:
 - Jeder entlassene AN hat Anspruch auf Abfindung nach § 113 Abs. 1 i.V.m. § 10 KSchG
 - Hoehe: bis 12 Bruttomonatsgehaelter; bei Alter und Betriebszugehoerigkeit bis 18
 
-## Workflow Arbeitgeber-Strategie
+## Workflow
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+ Arbeitgeber-Strategie
 
 ### Phase 1 — Planung (4-6 Wochen vor erstem Kuendigungsausspruch)
 
@@ -269,6 +273,19 @@ c) Soziale Rechtfertigung fehlt nach § 1 II KSchG.
 - **Nachteilsausgleich § 113 BetrVG**: Streitwert = Abfindungsbetrag
 - **Massenverfahren**: oft gemeinsame Vertretung mehrerer Klaeger moeglich
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Massenentlassung § 17 KSchG anfechten | Vollstaendige Unwirksamkeitspruefung; Klage nach Template unten |
+| Variante A — Anzeige vergessen (klarer Fehler) | Starke Unwirksamkeit; hohe Vergleichsbereitschaft des AG erwartbar |
+| Variante B — Betriebsrat-Konsultation fehlerhaft | § 17 Abs. 2 KSchG iVm EuGH C-134/22; Konsultationspflicht verletzt |
+| Variante C — Mandant will schnell neue Stelle | Schneller Vergleich priorisieren; Klage als Druckmittel |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Output-Template Mandantenschreiben (AN)
 
 **Adressat:** Mandant — Tonfall: verstaendlich-erklaerend
@@ -302,6 +319,12 @@ Anhaltspunkte fuer eine hohe Abfindung sind vorhanden.
 
 [Rechtsanwalt/-anwaeltin, Fachanwalt fuer Arbeitsrecht]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Adressat & Tonfall
 

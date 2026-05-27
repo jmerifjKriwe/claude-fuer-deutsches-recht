@@ -15,6 +15,7 @@ description: "Antrag auf Einbuergerung nach StAG. Anspruchseinbuergerung § 10 S
 6. Soll die bisherige Staatsangehörigkeit beibehalten werden (Mehrstaatigkeit — nach StAG-Reform 27.06.2024 grundsätzlich zulässig § 12 StAG n. F.)?
 7. Liegt besondere Integrationsleistung vor — Ehrenamt, herausragende berufliche Leistungen, die eine Verkürzung auf vier oder drei Jahre ermöglichen?
 8. Ist der Mandant verheiratet mit einer deutschen Staatsangehörigen — dann § 9 StAG (drei Jahre Aufenthalt, zwei Jahre Ehe)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Anspruchsgrundlagen
 
@@ -50,6 +51,20 @@ description: "Antrag auf Einbuergerung nach StAG. Anspruchseinbuergerung § 10 S
 | 8 | Kein Ausweisungsinteresse | § 10 Abs. 1 Nr. 5 StAG | Führungszeugnis; Auskunft Verfassungsschutz |
 | 9 | Mehrstaatigkeit | § 12 StAG n. F. | Grundsätzlich kein Aufgabeerfordernis |
 | 10 | Zuständigkeit | Landesrecht | Einbürgerungsbehörde am Wohnort |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Einbuergerungsantrag | Antragsunterlagen; Template unten |
+| Variante A — Mehrstaatigkeit erwuenscht | § 12 StAG Ausnahme Hinnahme Mehrstaatigkeit pruefen |
+| Variante B — Vorstrafen im Register | § 11 StAG Ausschlussgrund pruefen; Tilgungsfrist |
+| Variante C — Einbuergerung beschleunigt erwaegen | § 10 Abs. 3 StAG besondere Integrationsleistungen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -133,6 +148,11 @@ liegt nicht vor, weil [konkrete Widerlegung].
 
 [Unterschrift]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Beweislast und Darlegungslast
 

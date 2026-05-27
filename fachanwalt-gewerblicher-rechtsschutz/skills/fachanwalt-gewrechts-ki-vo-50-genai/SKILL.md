@@ -13,6 +13,7 @@ description: "KI-generierte Inhalte auf gewerblichen Rechtsschutz pruefen wenn G
 6. Ab wann soll die KI-Nutzung starten — Art. 50 KI-VO gilt ab 2.8.2026?
 7. Liegt bereits ein Abmahnschreiben vor, oder soll präventive Compliance aufgebaut werden?
 8. Werden KI-generierte Inhalte als urheberrechtlich geschützt vermarktet oder beansprucht?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -41,10 +42,10 @@ description: "KI-generierte Inhalte auf gewerblichen Rechtsschutz pruefen wenn G
 | EU-Kommission AI Code of Practice | 2024 | Verhaltenskodex für Anbieter von GPAI-Modellen; Umsetzung Art. 53–55 KI-VO |
 | C2PA-Standard v2.0 (Coalition for Content Provenance and Authenticity) | 2024 | Technischer Standard für Herkunftsnachweis von Mediendateien (Adobe, Microsoft, Sony, Nikon) |
 | BGH-Verfahren zu KI-Output-Urheberrecht | anhängig 2025/2026 | Vorlagefrage EuGH zu § 2 UrhG und generativer KI erwartet |
-| OLG Hamburg 7 W 28/22 | 2022 | Influencer-KI-Bilder: Kennzeichnungspflicht bei nicht erkennbarem Einsatz bejaht (zu § 5a UWG-Vorläufer) |
-| LG Berlin 15 O 261/22 | 2023 | DALL-E-Bild als Produktfoto ohne KI-Hinweis: irreführend i. S. § 5a UWG (kein Realbild) |
-| BGH, Urt. v. 13.11.2013 – I ZR 143/12, GRUR 2014, 595 Rn. 18 – Vertragsstrafenbemessung | 2013 | UWG-Vertragsstrafe bei KI-Kennzeichnungs-Abmahnung: Hoehere Vertragsstrafe bei erheblichem wirtschaftlichem Interesse des Glaeubigers und grosser Reichweite des Verstosses; Einzelfallpruefung nach § 339 BGB |
-| BGH, Urt. v. 19.03.2015 – I ZR 94/13, GRUR 2015, 1201 Rn. 31 – Trojanisches Pferd | 2015 | § 5a UWG: Verschweigen von Produkteigenschaft als Irreführung durch Unterlassen; KI-Herkunft ist wesentliche Produkteigenschaft i.S. des Verbraucherleitbildes |
+| LG Berlin II 20.08.2025 — KI-Stimm-Nachahmung | 2025 | Persönlichkeitsrechtsverletzung durch KI-generierte Stimm-Imitation eines Prominenten ohne Einwilligung; Unterlassung + Schadensersatz; orientierender Einzelfall zur Reichweite §§ 22, 23 KUG bei generativer KI |
+| EuGH 07.12.2023 — C-634/21 (SCHUFA-Scoring) | 2023 | Automatisierter Score-Wert ist „Entscheidung" i. S. v. Art. 22 DSGVO wenn er maßgeblich über Vertragsschluss bestimmt; relevant für KI-gestützte Bewertungssysteme im B2C-Kontext |
+
+> **Hinweis zur Rechtsprechungslage:** Stand 05/2026 existiert keine veröffentlichte deutsche Leitentscheidung speziell zu Art. 50 KI-VO; die Norm gilt erst ab 02.08.2026. Frühere Behauptungen zu OLG Hamburg 7 W 28/22 (Influencer-KI), LG Berlin 15 O 261/22 (DALL-E-Produktfoto), BGH I ZR 143/12 (UWG-Vertragsstrafe) und BGH I ZR 94/13 (Trojanisches Pferd) entsprachen nicht der Aktenlage und wurden entfernt. Für vergleichbare Konstellationen orientierungshalber: § 5a UWG-Linie der allgemeinen Irreführungsrechtsprechung; konkrete Belege im Einzelfall recherchieren.
 
 ## Pflichten nach Output-Typ
 
@@ -58,6 +59,9 @@ description: "KI-generierte Inhalte auf gewerblichen Rechtsschutz pruefen wenn G
 | Politische Werbung | Kennzeichnung + DSA Art. 26 (Werbetransparenz) | Art. 50 Abs. 4 KI-VO; DSA | Keine |
 
 ## Prüfschema Compliance Art. 50 KI-VO
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 
 | Schritt | Prüfpunkt | Norm | Maßnahme |
 |---------|-----------|------|---------|
@@ -117,6 +121,19 @@ Interne Richtlinie:
 - Freigabeprozess für Deep-Fake-Content (Einwilligung reale Person)
 ```
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — KI-VO Art. 50 Compliance fuer GenAI sicherstellen | Drei-Phasen-Workflow; Schriftsatzbausteine unten |
+| Variante A — Mandant ist nur Nutzer kein Anbieter | Reduzierte Pflichten; Art. 50 Abs. 4 GenAI-Kennzeichnung pruefen |
+| Variante B — Hochrisiko-KI zusaetzlich betroffen | Art. 9-16 KI-VO zusaetzlich pruefen; Konformitaetsbewertung noetig |
+| Variante C — DeepFake-Generierung des Mandanten | Besonderes Risiko Art. 50 Abs. 2 und 3; Kennzeichnungspflicht strikt |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Schriftsatz-Bausteine
 
 ### Modifizierte Unterlassungserklärung bei KI-Kennzeichnungs-Abmahnung
@@ -139,6 +156,12 @@ S. 2 KI-VO offensichtlich künstlerischen oder satirischen Zwecken dienen.
 
 [Ort, Datum, Unterschrift]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ### Risikomatrix
 

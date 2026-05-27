@@ -114,6 +114,20 @@ Bei Sperrgrund "illegal content" prüfen, ob tatsächlich Straftatbestand erfül
 2. Plattform VLOP/VLOSE (Art. 33 DSA) → erweiterte Pflichten Art. 20, 21, 22 DSA?
 3. Begründung durch Plattform erhalten (Art. 17 DSA)?
 4. Frist für internes Beschwerdeverfahren noch offen (Art. 20 DSA: 6 Monate ab Maßnahme)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Account-Sperre anfechten (Art. 20-23 DSA) | Stufenweiser Rechtsbehelfs-Fahrplan unten |
+| Variante A — interne Beschwerde ausreichend | Stufe 2 DSA-Beschwerde ohne gerichtlichen Weg |
+| Variante B — Eilsache (Existenzgefaehrdung durch Sperre) | Direkt Eilrechtsschutz; eAVV beim LG Berlin o.ae. |
+| Variante C — Sperre wegen rechtswidriger Nutzerbedingung | DSA-Beschwerdestelle einschalten; Normwidrigkeitspruefung Art. 14 DSA |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Output-Template — Account-Sperre-Mandat
 
@@ -140,3 +154,9 @@ Rechtliche Wuerdigung:
 Antrag: Wiederherstellung des Accounts / Inhalts unverzüglich
 Streitwert: [BETRAG EUR]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+

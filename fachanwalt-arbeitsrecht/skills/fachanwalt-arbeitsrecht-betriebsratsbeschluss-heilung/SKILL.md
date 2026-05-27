@@ -22,6 +22,7 @@ description: "Anwaltsperspektive bei Betriebsratsbeschluss-Maengeln: Mandatsanna
 6. **Wurde die Anwaltsbeauftragung in derselben Sitzung beschlossen?** — Getrennte Beschlüsse über Hauptsache und Mandatierung können unterschiedliche Mängel aufweisen.
 7. **Wann hat der Arbeitgeber den Mangel gerügt?** — Heilung auch noch während des laufenden Verfahrens möglich; Zeitpunkt bestimmt die Verfahrens-Taktik.
 8. **Soll Anwaltskostenfreistellung nach Abschluss des Hauptverfahrens noch geltend gemacht werden?** — Nach BAG 7 ABR 37/23 auch nachträglich möglich.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -54,6 +55,9 @@ description: "Anwaltsperspektive bei Betriebsratsbeschluss-Maengeln: Mandatsanna
 - HWK/Ricken, 11. Aufl. 2024, § 40 BetrVG Rn. 50 ff. (Erforderlichkeit Anwaltsbeauftragung)
 
 ## Prüfschema Beschlussmangel
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge bei Verstoß |
 |---|---|---|---|
@@ -95,6 +99,19 @@ Nach BAG 7 ABR 37/23 auch jetzt noch heilbar:
 - Anwaltsrechnung mit Heilungsbeschluss dem Arbeitgeber vorlegen.
 - Separates Beschlussverfahren auf Freistellung einleiten.
 - Erforderlichkeit der Beauftragung separat begründen (Komplexität, Rechtsfrage, drohende Nachteile).
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Beschlussmangel im BR-Verfahren heilen | Variante A-D Strategische Triage unten; Schriftsatzbausteine |
+| Variante A — Heilung moeglich (Variantenweg B/C) | Heilungsweg bevorzugen; erneuter Beschluss |
+| Variante B — Mangel wirkt auf Kuendigung durch | Unwirksamkeit der Kuendigung ruegen; Template-Baustein nutzen |
+| Variante C — Mandant zahlt Anwaltskosten (Var. D) | Freistellungsantrag; Beschlussverfahren einleiten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatz-Bausteine
 
@@ -168,6 +185,12 @@ Begründung:
 □ Begründung der Erforderlichkeit der Beauftragung
 □ Falls Mangel erkennbar: Heilungssitzung sofort anberaumen
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast und Darlegungslast
 

@@ -19,6 +19,7 @@ Bei einer drohenden oder erfolgten Vergabe-Entscheidung systematisch prüfen, ob
 6. Was ist der genaue materielle Vorwurf — Eignungsfehler, Wertungsfehler, ungewöhnlich niedriges Angebot § 60 VgV, rechtswidrige Aufhebung, unzulässige Direktvergabe?
 7. Hat der Mandant reale Auftragschance — war sein Angebot nach Ablauf aller Prüfungsschritte das wirtschaftlichste? Drohender Schaden § 160 Abs. 2 GWB?
 8. Ist Akteneinsicht § 165 GWB bereits beantragt oder notwendig, um den Vorwurf substanziieren zu können?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -52,6 +53,9 @@ Bei einer drohenden oder erfolgten Vergabe-Entscheidung systematisch prüfen, ob
 
 ## Prüfschema in Tabellenform
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 | Nr. | Prüfschritt | Rechtsgrundlage | Ergebnis / Konsequenz |
 |---|---|---|---|
 | 1 | EU-Schwellenwert überschritten? | § 106 GWB; VO (EU) 2023/1441 | Nein → kein GWB-Weg; Ggf. haushaltsrechtlicher Primärrechtsschutz |
@@ -69,6 +73,20 @@ Bei einer drohenden oder erfolgten Vergabe-Entscheidung systematisch prüfen, ob
 | 13 | Erfolgsaussicht Hauptantrag (Untersagung Zuschlag)? | § 169 GWB | Abwägung: öffentliches Interesse vs. Bieter-Schaden |
 | 14 | Kostenrisiko VK-Verfahren? | § 182 GWB | Unterliegender trägt Verfahrensgebühren 2500–50000 EUR + gegnerische Anwaltskosten |
 | 15 | OLG-Beschwerde vorbereiten? | § 171 GWB | Frist 2 Wochen; aufschiebende Wirkung prüfen |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Bieter prueft Erfolgsaussichten eines Nachpruefungsantrags | Erfolgsaussichten-Memo nach Primaer-Sekundaer-Schema; Template unten |
+| Variante A — Vergabeverstoß klar aber Auftrag strategisch wichtig | Ruege und Verhandlung mit Vergabestelle vor Antragstellung |
+| Variante B — Beweislage duenn nur Indizien fuer Fehler | Akteneinsicht § 163 GWB beantragen bevor Antrag gestellt wird |
+| Variante C — Mandant will schnellen Schadensersatz nicht Auftrag | Schadensersatzklage § 179 GWB als Alternative zum Nachpruefungsantrag |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -154,6 +172,18 @@ offenbart (BVerwG 8 C 17.21). Eine pauschale Erklaerung genuegt nicht.
 Der Antragsgegner haette das Angebot gemaess § 60 Abs. 3 VgV
 ausschliessen muessen.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Beweislast und Darlegungslast
 

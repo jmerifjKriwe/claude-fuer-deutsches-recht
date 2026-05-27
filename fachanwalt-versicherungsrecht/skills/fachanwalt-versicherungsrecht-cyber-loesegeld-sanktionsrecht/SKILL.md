@@ -19,6 +19,7 @@ Spezial-Mandat: Mandant hat Cyber-Versicherung, wurde Opfer eines Ransomware-Ang
 6. Wurde das BSI (bei KRITIS) und das LKA Cybercrime informiert?
 7. Welche Backup-Optionen bestehen — wurde eine Datenwiederherstellung ohne Zahlung versucht?
 8. Liegt das Ablehnungsschreiben des Versicherers vor und auf welche Klausel stützt dieser sich?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -55,6 +56,9 @@ Spezial-Mandat: Mandant hat Cyber-Versicherung, wurde Opfer eines Ransomware-Ang
 
 ## Prüfschema in Tabellenform
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 | Nr. | Prüfschritt | Norm | Konsequenz |
 |---|---|---|---|
 | 1 | Versicherungsfall Ransomware in AVB definiert? | GDV AVB Cyber; Police | Versicherungsfall "IT-Sicherheitsverletzung" umfasst Ransomware |
@@ -72,6 +76,20 @@ Spezial-Mandat: Mandant hat Cyber-Versicherung, wurde Opfer eines Ransomware-Ang
 | 13 | Deckungsklage LG-Sitz des Versicherers? | § 215 VVG; § 71 GVG | LG bei Streitwert ab EUR 10000 |
 | 14 | Parallele Strafverteidigung nötig? | §§ 17, 18 AWG; § 261 StGB | Bei Zahlung an SDN: sofort Strafverteidiger |
 | 15 | Compliance-Dokumentation für Akten? | AWG; OFAC Advisory | Screening-Ergebnis und Entscheidungsweg dokumentieren |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Cyber-Loesegeld-Zahlung und Sanktionsrecht pruefend | Sanktionspruefung + Deckungsanalyse nach Schema; Schriftsatz unten |
+| Variante A — Zahlung bereits erfolgt Genehmigung nachtraeglich | OFAC-Antrag rueckwirkend stellen; Dokumentation sichern |
+| Variante B — Versicherer verweigert Deckung wegen Sanktionsklausel | Deckungsklage parallel; Sanktionsrecht-Verteidigung separat |
+| Variante C — Keine Zahlung geplant Wiederherstellung Vorrang | IT-Forensik und Wiederherstellung statt Loesegeldzahlung |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -194,6 +212,18 @@ Dokumentation für Rückversicherer und BaFin anlegen.
 
 [Rechtsanwälte / Compliance Officer]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Beweislast und Darlegungslast
 

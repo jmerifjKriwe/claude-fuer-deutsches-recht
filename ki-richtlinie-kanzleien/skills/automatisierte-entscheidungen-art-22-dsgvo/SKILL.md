@@ -38,7 +38,7 @@ Mit zunehmender Integration von KI-Systemen in Kanzleimanagement-Software (z.B. 
 ## Aktuelle Rechtsprechung (v14.2)
 - EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Automatisiertes Scoring als Art. 22 Abs. 1 DSGVO-Entscheidung, wenn Score massgebliche Grundlage fuer Drittentscheidung; kein vollautomatischer Beschluss erforderlich.
 - EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber muss Entscheidungslogik verstaendlich offenlegen — Transparenzpflicht nach Art. 22 Abs. 3 DSGVO.
-- BGH, Urt. v. 06.07.2021 — VI ZR 40/20, NJW 2021, 2726 Rn. 12: DSGVO Art. 82 Schadensersatz auch bei immateriellem Schaden durch unzulaessige automatisierte Entscheidung.
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
 - OLG Frankfurt, Urt. v. 14.11.2022 — 17 U 107/22, NJW-RR 2023, 412 Rn. 20: Praeventiver Unterlassungsanspruch bei drohendem Art. 22-Verstoss ohne Human-in-the-Loop.
 
 ## Zentrale Normen (Paragrafenkette)

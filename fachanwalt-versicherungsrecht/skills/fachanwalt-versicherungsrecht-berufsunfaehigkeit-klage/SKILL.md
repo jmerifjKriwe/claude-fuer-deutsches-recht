@@ -54,6 +54,9 @@ Mandate von Versicherungs-Nehmern bei abgelehnter Berufsunfähigkeit (BU).
 
 ## 4) Workflow
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 ### Phase 1 — Beratung Vers.-Nehmer
 
 - Vertragsprüfung (BU-Klausel)
@@ -207,6 +210,21 @@ Ablehnung Versicherer?
 │   └─ Ja → Kausalität zwischen Vorerkrankung und BU?
 └─ Verjährung → Verhandlungen dokumentieren (§ 203 BGB Hemmung)
 ```
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Klage gegen BU-Versicherer wegen Leistungsablehnung | BU-Klageschrift nach Pruefschema; Template unten |
+| Variante A — Erstantrag noch nicht vollstaendig gestellt | Nachbeibringung Unterlagen zuerst; Klage danach |
+| Variante B — Vergleich wirtschaftlich attraktiver als Prozess | Vergleichsverhandlung vor Klageerhebung; Klage als Druckmittel |
+| Variante C — BU nur voruebergehend Reaktivierung moeglich | Teilleistung akzeptieren und beobachten statt Vollklage |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Output-Template — Klageschrift BU-Versicherung (Skizze)
 
@@ -237,3 +255,15 @@ BEGRÜNDUNG
 Beweis: K1 Police + AVB, K2 Tätigkeitsbeschreibung, K3 Privatgutachten,
         K4 Ablehnungsschreiben, K5 Antragsformular, K6 Vollmacht
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+

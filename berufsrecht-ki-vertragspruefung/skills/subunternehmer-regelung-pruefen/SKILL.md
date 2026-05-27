@@ -58,6 +58,9 @@ Auch die Subunternehmer müssen über §§ 203, 204 StGB belehrt werden (Abs. 4 
 
 ## Prüfschema
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 | Punkt | Fundstelle | Ampel | Bemerkung |
 |---|---|---|---|
 | Festlegung Befugnis im Vertrag | | | |
@@ -112,6 +115,20 @@ Tabellarische Bewertung. Lücken fließen in den Rückfragebrief ein (etwa: "Bit
 2. Ist ein Zustimmungsvorbehalt oder Widerspruchsrecht der Kanzlei geregelt?
 3. Verpflichtet der Vertrag den Dienstleister, Subunternehmer in Textform auf §§ 203/204 StGB zu belehren?
 4. Sind Modellanbieter (z.B. OpenAI als API-Lieferant) und Hoster als separate Subunternehmer benannt?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Subunternehmer-Klausel im KI-Vertrag pruefen | Pruefschema Art. 28 Abs. 2 DSGVO; Template unten |
+| Variante A — Subunternehmer-Einsatz untersagt | Verbot klar kommunizieren; Vertragsanpassung empfehlen |
+| Variante B — Genehmigung liegt vor aber Klausel unklar | Klarstellungsformulierung einfordern; Anlage mit Subunternehmer-Liste |
+| Variante C — Subunternehmer ausserhalb EU | Drittlandstransfer-Pruefung zusaetzlich noetig (Art. 46 DSGVO) |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Output-Template — Subunternehmer-Prüfvermerk
 
@@ -140,3 +157,9 @@ Ergebnis
 Ampel Subunternehmer-Regelung: GRUEN / GELB / ROT
 Luecken: [BESCHREIBUNG]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+

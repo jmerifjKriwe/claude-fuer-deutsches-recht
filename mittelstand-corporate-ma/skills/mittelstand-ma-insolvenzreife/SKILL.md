@@ -19,6 +19,7 @@ Im Mittelstand ist die Insolvenzreife-Prüfung besonders heikel, weil der Gesell
 6. Hat der Steuerberater auf Fortführungszweifel hingewiesen (§ 321a HGB analog, Going-Concern)?
 7. Welche M&A-Auswirkungen sind zu prüfen — MAC-Trigger, Closing Condition, Kaufpreisminderung?
 8. Kennt der GF seine persönliche Haftungsexposition aus § 15b InsO?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -48,6 +49,9 @@ Im Mittelstand ist die Insolvenzreife-Prüfung besonders heikel, weil der Gesell
 | BGH | IX ZR 14/21 | 28.04.2022 | § 15b InsO: Haftungsausnahme bei Zahlung mit Zustimmung der Gläubigergesamtheit; sehr eng ausgelegt |
 
 ## Prüfschema (Mittelstand)
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -96,6 +100,20 @@ Im Mittelstand ist die Insolvenzreife-Prüfung besonders heikel, weil der Gesell
 | Antragspflicht — Überschuldung | 6 Wochen | § 15a Abs. 1 InsO | Keine Verlängerung |
 | § 15b-Haftung — Verjährung | 3 Jahre ab Kenntnis | §§ 195, 199 BGB | Direkthaftung GF |
 | StaRUG-Rahmen | Max. 24 Monate | §§ 31, 33 StaRUG | Bei § 17 InsO kein StaRUG-Zugang |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Insolvenzreife fuer Mittelstand pruefen | Insolvenzreife-Pruefung nach Schema; Schriftsatz unten |
+| Variante A — Mittelstand hat noch Gesellschafter-Darlehen | Nachrangigkeit pruefen; Eigen- vs Fremdkapital abgrenzen |
+| Variante B — Sanierungs-LOI mit Investor vorhanden | Fortbestehensprognose mit LOI als Grundlage |
+| Variante C — Betrieb soll kurzfristig eingestellt werden | Kontrolllierte Liquidation statt Insolvenzantrag pruefen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -166,6 +184,18 @@ TODO [Käufer-Anwalt]: MAC-Analyse abschließen bis [Datum]
 TODO [Käufer-GF]: Finanzierungsbereitschaft bei MAC neu bewerten
 TODO [W&I-Broker]: Police-Ausschlüsse klären bis [Datum]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Streitwert und Kosten
 

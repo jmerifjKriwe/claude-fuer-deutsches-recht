@@ -13,6 +13,7 @@ description: "Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren An
 4. Besteht Eilbedarf (vollziehbare Genehmigung, bevorstehende Baumafsnahme)?
 5. Wurden Einwendungen im Genehmigungsverfahren rechtzeitig erhoben (Praeklusions-Risiko)?
 6. UmwRG-Vereinigung — Anerkennungsstatus geprueft?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen und Paragrafenkette
 
@@ -44,6 +45,9 @@ description: "Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren An
 
 ## Schritt-fuer-Schritt-Workflow
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 ### A) Anfechtungsklage (Dritter gegen Genehmigung)
 
 1. **Klagebefugnis pruefen**: § 42 Abs. 2 VwGO — drittschuetzende Norm (§ 5 Abs. 1 Nr. 1 BImSchG, TA-Laerm)?
@@ -73,6 +77,20 @@ Liegt ein belastender VA vor?
            NEIN → Feststellungsklage § 43 VwGO (Rechtsverhaeltnis)
                   Norm angreifbar? → Normenkontrolle § 47 VwGO (OVG)
 ```
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Klage gegen BImSchG-Genehmigung | Klageschrift nach Schema; Template unten |
+| Variante A — Genehmigung auf Antrag von Mandant Verteidigung noetig | Verteidigungsposition als Beigeladener; Klageschrift ist Klaeger-Template |
+| Variante B — Nur bestimmte Auflagen anfechtbar nicht Gesamtgenehmigung | Teilklage; nur Auflagen angreifen |
+| Variante C — Normenkontrolle als staerkerer Angriffspunkt | Normenkontrolle § 47 VwGO pruefen; oft wirkungsvoller als Einzelklage |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Output-Template: Klageschrift Anfechtung BImSchG-Genehmigung
 
@@ -119,6 +137,18 @@ III. Begruendung
 
 Anlagen: Eigentumsnachweise, Schall-Gegengutachten, Lageplan
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Fristen-Ueberblick
 

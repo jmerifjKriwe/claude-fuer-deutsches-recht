@@ -19,6 +19,7 @@ Der Eilantrag nach § 80 Abs. 5 VwGO ist das zentrale Instrument, um den Vollzug
 6. Liegt ein Fall des § 80a VwGO vor (drittbetroffener Nachbar gegen Baugenehmigung)?
 7. Wurde ein Aussetzungsantrag bei der Behörde nach § 80 Abs. 4 VwGO gestellt und abgelehnt?
 8. Welches Gericht ist zuständig — VG, OVG, BVerwG (NABEG/EnLAG)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -52,6 +53,9 @@ Der Eilantrag nach § 80 Abs. 5 VwGO ist das zentrale Instrument, um den Vollzug
 | BVerwG 1 VR 1.18 | 1 VR 1.18 | 15.11.2018 | Abschiebungsanordnung; § 80 Abs. 5 VwGO subsidiär; spezialgesetzlicher Eilrechtsschutz vorrangig |
 
 ## Prüfschema § 80 Abs. 5 VwGO
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -103,6 +107,20 @@ Der Eilantrag nach § 80 Abs. 5 VwGO ist das zentrale Instrument, um den Vollzug
 | "Zu spät gestellt — Eilbedürftigkeit entfallen" | Konkrete Handlungsaufnahme der Behörde als Auslöser benennen; Zeitachse darstellen |
 | "Hauptsache nicht anhängig" | Widerspruch/Klage mit Datum belegen; ggf. parallel einreichen und im Antrag erwähnen |
 | "§ 80a anstatt § 80 Abs. 5" | Konstellation klären: begünstigender VA für Dritten → § 80a; belastender VA für Antragsteller → § 80 Abs. 5 |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Eilantrag nach § 80 Abs. 5 VwGO gegen sofortvollziehbaren VA | Eilantragsschriftsatz nach Pruefschema; Template unten |
+| Variante A — Aussetzung der Vollziehung direkt bei Behoerde realistisch | Antrag bei Behoerde § 80 Abs. 4 VwGO zuerst; Gericht nur bei Ablehnung |
+| Variante B — Mandant akzeptiert VA aber nicht die sofortige Vollziehung | Nur Aussetzungsantrag ohne Widerspruch in der Hauptsache |
+| Variante C — Eilantrag hat geringe Erfolgsaussichten Folgenabwaegung | Folgenabwaegung in den Vordergrund stellen statt summarischer Pruefung |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -290,6 +308,18 @@ weil [neue Tatsache / rechtliche Begründung].
 Wir beantragen, den angefochtenen Beschluss aufzuheben
 und die aufschiebende Wirkung wiederherzustellen.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Streitwert und Kosten
 

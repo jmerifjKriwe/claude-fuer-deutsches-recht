@@ -15,6 +15,7 @@ description: "Nachpruefungsantrag bei der Vergabekammer nach §§ 160 ff. GWB st
 6. Hat der Auftraggeber auf die Rüge reagiert oder nicht? Datum der Reaktion — 15-Tage-Frist § 160 Abs. 3 Nr. 4 GWB läuft ab Rügenablehnungsschreiben.
 7. Ist der Mandant noch im Verfahren oder bereits ausgeschlossen? Drohender Schaden substantiierbar?
 8. Soll Akteneinsicht nach § 165 GWB beantragt werden, um den Vorwurf zu substanziieren?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -64,6 +65,20 @@ description: "Nachpruefungsantrag bei der Vergabekammer nach §§ 160 ff. GWB st
 | 13 | Hinzuziehung Anwalt für notwendig beantragt? | § 182 Abs. 4 GWB | Kostenerstattung nur bei Notwendigkeit |
 | 14 | OLG-Beschwerde vorbereitet (Parallelprüfung)? | § 171 GWB | Frist 2 Wochen; keine Wiedereinsetzung |
 | 15 | Schadensersatz § 181 GWB parallel vorbereiten? | § 181 GWB | Unabhängig vom VK-Verfahren |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Nachpruefungsantrag Vergabekammer stellen | NPA; Template unten |
+| Variante A — Sofortiger Zuschlag befuerchtet | Stillhalteantrag § 169 GWB gleichzeitig |
+| Variante B — Ruege nicht moeglich (Frist verstrichen) | Praeklusion pruefen; OLG-Beschwerdeweg |
+| Variante C — Unterhalb-Schwellenwert-Verfahren | Primaerrechtsschutz; Vergabekammer nicht zustaendig |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -184,6 +199,11 @@ aufschiebende Wirkung bis zur Entscheidung des OLG.
 
 [Rechtsanwälte]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Beweislast und Darlegungslast
 

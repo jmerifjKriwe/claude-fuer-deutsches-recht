@@ -152,6 +152,20 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
 - Kanzlei-Allgemein-Plugin `kanzlei-allgemein` fuer Konflikt-, GwG- und PEP-Pruefroutinen.
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Erstgespraech Vergaberecht dokumentieren | Mandatsbogen-Protokoll; Template unten |
+| Variante A — Stillhaltefrist laeuft schon | Frist-Prioritaet; Vollmandat und Ruege noch heute |
+| Variante B — Auftraggeber-Mandat (kein Bieter) | Vergaberechts-Compliance; andere Beratungsrichtung |
+| Variante C — Unterhalb EU-Schwellenwert | Nationales Vergaberecht; keine VK-Zustaendigkeit |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Vertiefung: Rechtsprechung und Normen Vergaberecht Erstmandat
 
 ### Leitsaetze Erstgespräch und Fristen
@@ -177,6 +191,7 @@ Bevor losgelegt wird, klaere:
 3. Liegt Informationsschreiben § 134 GWB vor? → Stillhaltefrist 10 Tage bis Zuschlag beachten
 4. Welche Vergabeart? → VgV / SektVO / KonzVgV / UVgO / VOB-A
 5. Zuschlag bereits erteilt? → § 135 GWB Feststellung Unwirksamkeit oder § 181 GWB Schadensersatz
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ### Output-Template Mandatsbogen Vergaberecht
 **Adressat:** Intern — Tonfall: praezise, fristorientiert
@@ -199,3 +214,8 @@ Zuschlag erteilt:         JA / NEIN
 Naechster Schritt:        [Ruege / NPA / Klage § 181 GWB]
 =========================================
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

@@ -15,6 +15,7 @@ description: "BAG 25.03.2026 5 AZR 108/25 pauschale Freistellungsklausel nach Ku
 6. **Ist Annahmeverzug bereits eingetreten?** — Ab welchem Datum hat AG die tatsächliche Beschäftigung verweigert?
 7. **Plant die Mandantin eine Wettbewerbs-Tätigkeit?** — Konkurrenzschutz-Vereinbarung im AV? Post-kontraktuelles Wettbewerbsverbot?
 8. **Wurde ein Aufhebungsvertrag angeboten?** — Freistellungsklausel in Aufhebungsvertrag im Einzelfall konkret formulieren.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Kernaussage des Urteils
 
@@ -82,6 +83,19 @@ Pauschale Hinweise auf "branchenüblich", "aus organisatorischen Gründen" oder 
 | Freistellung vorsorglich ohne Grund | Unwirksam nach BAG 5 AZR 108/25; Vergütung weiter zahlen, Annahmeverzug-Risiko tragen |
 | Neue Freistellungsklausel im AV | Klausel mit offenem Tatbestand ("soweit sachlich begründeter Anlass besteht") formulieren; Inhaltskontrolle prüfen |
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — widerrufliche Freistellungsklausel in Klageschrift ruegen | Ruege-Baustein nach Template unten |
+| Variante A — Mandant will trotzdem Freistellung | Freistellungs-Vereinbarung mit klarer Vergaetungspflicht statt ruegen |
+| Variante B — Arbeitgeber hat Klausel nicht aktiviert | Praeventivruegeung in Klageschrift aufnehmen |
+| Variante C — Klausel wurde bereits aktiviert | Lohnfortzahlungsklage unverzueglich erheben |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Schriftsatzbaustein — Beschäftigungsanspruch geltend machen
 
 ```
@@ -130,6 +144,12 @@ verzug. Die Vergütung für den Annahmeverzugszeitraum
 berechnet sich wie folgt: [Monat x Brutto-Monatsgehalt].
 ```
 
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+
 ## Beweislast und Darlegungslast
 
 - **Arbeitgeber**: bei Freistellung muss er die konkreten Tatsachen für die sachliche Rechtfertigung darlegen und beweisen (BAG 5 AZR 501/12).
@@ -137,6 +157,9 @@ berechnet sich wie folgt: [Monat x Brutto-Monatsgehalt].
 - AGB-Inhaltskontrolle prüft das Gericht von Amts wegen; keine Beweislast der Parteien.
 
 ## Prüfschema Freistellung
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge bei Fehler |
 |---|---|---|---|

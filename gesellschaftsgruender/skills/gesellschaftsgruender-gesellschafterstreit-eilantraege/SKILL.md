@@ -21,6 +21,7 @@ Dieser Skill behandelt das vollständige Eilrechtsschutz-Werkzeugset für GmbH-G
 6. **Vorhandene Klauseln:** Gibt es Schiedsklausel (DIS), Schlichtungspflicht vor Klage, Beirat?
 7. **Wirtschaftlicher Schaden:** Wie hoch ist der drohende Schaden durch die angefochtene Maßnahme (für Streitwert und Glaubhaftmachung der Eilbedürftigkeit)?
 8. **Versammlungsleiter-Problem:** Gibt es Streit über die Leitung der Gesellschafterversammlung?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -70,6 +71,9 @@ Verstoß gegen Stimmverbot: Beschluss anfechtbar; ggf. kausal, wenn stimmbefange
 | BGH | II ZR 6/03 | NZG 2008, 103 | § 48 Abs. 2 GmbHG; Umlaufbeschluss nur bei Einvernehmen aller |
 
 ## Prüfschema: Eilrechtsschutz bei Gesellschafterstreit
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -129,6 +133,20 @@ Verstoß gegen Stimmverbot: Beschluss anfechtbar; ggf. kausal, wenn stimmbefange
 | Streit über Beschlussfähigkeit / fehlendes Quorum | Protokoll anfechten; Feststellungsklage | Bis 1 Monat nach Beschluss |
 | Gesellschafter-Ausschluss (Einziehung) | Prüfung: § 34 GmbHG; sachliche Rechtfertigung (BGH BGHZ 164, 107); eV auf Aussetzung | Unverzüglich nach Bekanntgabe des Beschlusses |
 | StaRUG-Plan gegen Golden-Share-Veto | Golden Share greift nicht bei gesetzlicher Insolvenzantragspflicht; Klärung im StaRUG-Verfahren | Sofort bei StaRUG-Antrag |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Eilantrag im Gesellschafterstreit beantragen | Einstweilige Verfuegung nach Pruefschema; Template unten |
+| Variante A — Gesellschafterstreit durch Mediator loesbar | Mediation oder Schiedsverfahren zuerst; Eilantrag nur bei Dringlichkeit |
+| Variante B — Mehrheitsbeschluss wirksam aber schadlich | Anfechtungsklage statt Eilantrag; Eilantrag nur bei unmittelbarem Schaden |
+| Variante C — GmbH droht Insolvenz durch Streit | Insolvenzrecht pruefen; parallele Handlungsoptionen koordinieren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -306,6 +324,18 @@ Beweismittel:
 
 [Kanzlei / Name]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Streitwert und Kosten
 

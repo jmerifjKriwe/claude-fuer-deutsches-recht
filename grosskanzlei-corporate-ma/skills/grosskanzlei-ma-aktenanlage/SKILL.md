@@ -17,6 +17,7 @@ In jeder Corporate/M&A-Transaktion ist die ordnungsgemäße Aktenführung die Gr
 4. Welche Vertraulichkeitsstufe gilt — intern nur, NDA mit Gegenseite, Clean-Room-Protokoll?
 5. Sind Sondersituationen bekannt — mehrere Zielgesellschaften, Fondsvehikel, internationale Beteiligungen, Insolvenzreife?
 6. Welche internen Systeme soll die Akte spiegeln — DMS, virtuelle Datenraum-Plattform (Intralinks, Datasite, Drooms)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -41,6 +42,9 @@ In jeder Corporate/M&A-Transaktion ist die ordnungsgemäße Aktenführung die Gr
 | OLG München | 6 U 4558/19 | 20.01.2020 | NDA-Vertraulichkeit: Informationen aus dem Datenraum sind auch nach Scheitern der Transaktion vertraulich, wenn NDA keine zeitliche Begrenzung enthält |
 
 ## Prüfschema / Anlage-Checkliste
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Status |
 |---|---|---|---|
@@ -93,6 +97,20 @@ In jeder Corporate/M&A-Transaktion ist die ordnungsgemäße Aktenführung die Gr
 | GwG-Aufbewahrung | 5 Jahre nach Ende der Geschäftsbeziehung | § 8 GwG | Personenbezogene Daten: DSGVO-Löschpflicht beachten |
 | Unternehmensrechtliche Aufbewahrung (HGB) | 10 Jahre (Handelsbücher), 6 Jahre (sonstige Unterlagen) | §§ 257, 147 AO | Gilt für das Unternehmen selbst |
 | VDR-Zugangssperrung nach Scheitern | Laut NDA; typisch 12–24 Monate vertraulich | NDA-Klausel | Heruntergeladene Dokumente weiterhin vertraulich |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — M-and-A-Akte anlegen nach Kanzlei-Standard | Aktenanlage nach Checkliste; Dokumentenvorlage unten |
+| Variante A — Paralleles Mandat in mehreren Jurisdiktionen | Jurisdiktionsspezifische Akten-Unterordner anlegen |
+| Variante B — Vertrauliche Sonder-Data-Room-Akte noetig | Data-Room-Protokoll als separate Akte |
+| Variante C — Mandat endet fruehzeitig Abschlussakte noetig | Abschluss-Dokumentation nach Ablage-Protokoll |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine / Arbeitsdokumente
 
@@ -159,6 +177,18 @@ DATENLÜCKEN (TODO für DD-Team)
 DOWNLOAD-LOG
 Dokument [Titel], DR-ID [X], heruntergeladen am [Datum], geprüft von [Name], Status: [geprüft / offen]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Streitwert und Kosten (Regress-Dimension)
 

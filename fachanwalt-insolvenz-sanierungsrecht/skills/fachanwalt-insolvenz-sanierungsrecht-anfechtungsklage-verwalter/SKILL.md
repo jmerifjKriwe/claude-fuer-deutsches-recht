@@ -13,6 +13,7 @@ description: "Anfechtungsklage des Insolvenzverwalters nach §§ 129-137 InsO ge
 6. Hat der Gegner die Forderung nach § 144 InsO wiederaufgelebt – ist er bereit, auf die Insolvenzquote zu verzichten?
 7. Wurde die Anfechtung bereits außergerichtlich durch ein Anfechtungsschreiben eingeleitet oder ist sofortige Klage zu empfehlen?
 8. Ist der Gegner insolvent, so dass eine Vollstreckung zweifelhaft ist?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -67,6 +68,19 @@ description: "Anfechtungsklage des Insolvenzverwalters nach §§ 129-137 InsO ge
 | 2 | Tatbestand prüfen pro Zahlung (Tabelle §§ 130–137); ZU-Datum fixieren; nahestehende Personen § 138 markieren | 3.–6. Monat |
 | 3 | Anfechtungsschreiben an alle Gegner mit 14-Tage-Frist; Reaktion abwarten | 6. Monat |
 | 4 | Klage erheben bei Nichtreaktion oder unzureichender Verteidigung; Verjährung durch Klageerhebung hemmen § 204 BGB i.V.m. § 146 InsO | Vor Ablauf § 146 InsO-Frist |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Insolvenzanfechtungsklage als Verwalter erheben | Vier-Schritte-Workflow und Klageschrift-Baustein unten |
+| Variante A — Bargeschaeft (§ 142 InsO) moeglich | Bargeschaeft-Einwand antizipieren; Verteidigungsschriftsatz vorbereiten |
+| Variante B — Anfechtungsgegner ist Sicherungsglaeuebiger | § 130 InsO mit Kongruenz-Pruefung; besondere Sorgfalt |
+| Variante C — Massearmut droht | Prioritaet der Anfechtungsklage nach Verwertungserwartung setzen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatz-Bausteine
 
@@ -142,6 +156,12 @@ keine besonderen Umstände bekannt.
 V. Antrag
 Die Klage wird abgewiesen. Kosten trägt der Kläger.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 

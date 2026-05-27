@@ -13,6 +13,7 @@ description: "Geschmacksmuster- oder Designverletzung pruefen und Ansprueche dur
 6. Welcher Gestaltungsfreiraum besteht im Marktsegment (§ 38 Abs. 2 S. 2 DesignG) — enge technische Vorgaben oder breite Gestaltungsfreiheit?
 7. Welche Schadenshöhe ist realistisch — Verkaufszahlen Verletzungsprodukt schätzbar?
 8. Liegt Anspruchskonkurrenz vor — ist das Design auch markenrechtlich, urheberrechtlich oder als Lauterkeitsrecht-Nachahmungsschutz (§ 4 Nr. 3 UWG) schützbar?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -49,6 +50,9 @@ description: "Geschmacksmuster- oder Designverletzung pruefen und Ansprueche dur
 
 ## Prüfschema Designverletzung
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
 | 1 | Schutzrecht vorhanden und eingetragen? | § 41 DesignG; Art. 35 GGV | DPMA-/EUIPO-Registerauszug als Anlage |
@@ -60,6 +64,19 @@ description: "Geschmacksmuster- oder Designverletzung pruefen und Ansprueche dur
 | 7 | Kein Rechtfertigungsgrund (Erschöpfung, Privatnutzung, Test)? | §§ 40, 48 DesignG | Ausnahmen eng auslegen |
 | 8 | Verschulden für Schadensersatz? | § 42 Abs. 2 DesignG | Fahrlässigkeit bei Internet-Händler regelmäßig (+) |
 | 9 | Dringlichkeit bei einstweiliger Verfügung? | §§ 935, 940 ZPO | Kenntnis-Datum dokumentieren; Antrag binnen 4 Wochen |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Designverletzung geltend machen | Klageschrift-Antragsskizze und eAVV unten |
+| Variante A — Mandant will erst aussergerichtlich | Abmahnung mit Unterlassungserklaerung; Klage als Backup |
+| Variante B — Online-Plattform als Verletzungsort | Notice-and-Action Art. 16 DSA; schneller Weg |
+| Variante C — Gegenseite bestreitet Schutzbereich des Designs | Nichtigkeitsantrag beim DPMA pruefen; Verteidigung vorbereiten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatz-Bausteine
 
@@ -190,6 +207,12 @@ den Rechteinhabern autorisiert sind.
 
 [Kontaktdaten, Datum, Unterschrift]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 

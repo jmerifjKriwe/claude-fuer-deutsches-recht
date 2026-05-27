@@ -13,12 +13,27 @@ Die sechs Eckpunkte spiegeln die zentralen Rechtspflichten wider: § 43 BRAO (Ge
 
 ## Vorgehen
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. **Eckpunkt 1 – Werkzeugcharakter** herausarbeiten und in die Richtlinie einpassen.
 2. **Eckpunkt 2 – Verschwiegenheit** mit § 43a BRAO und § 203 StGB verankern.
 3. **Eckpunkt 3 – Datenschutz und Geheimnisschutz** mit DSGVO-Artikeln verbinden.
 4. **Eckpunkt 4 – Quellenprüfung** mit OLG Koblenz-Linie und BRAK/DAV verknüpfen.
 5. **Eckpunkt 5 – Keine Privat-Accounts** organisatorisch verankern.
 6. **Eckpunkt 6 – Kennzeichnung** auf Art. 50 Abs. 4 KI-VO abstützen.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Executive Summary KI-Richtlinie erstellen | Summary nach Schema; Template unten |
+| Variante A — Nur fuer Fuehrungsebene kein Technik-Detail | Managementfassung ohne technische Spezifikationen |
+| Variante B — Summary soll Mandanten ueberzeugen nicht intern | Externe Kommunikations-Version; Nutzen betonen |
+| Variante C — Summary fuer Regulierungsbehoerde | Regulierungskonforme Darstellung; Compliance-Sprache |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Vorlagentext / Bausteine
 
@@ -40,6 +55,17 @@ Verwenden Sie für Ihre berufliche Tätigkeit in der Kanzlei nur vorab freigegeb
 **Eckpunkt 6 – Kennzeichnung und Transparenz:**
 Öffentliche KI-generierte Inhalte, die keiner menschlichen Verantwortung oder redaktionellen Kontrolle unterliegen, müssen als solche gekennzeichnet werden (Art. 50 Abs. 4 KI-VO). KI-generierte Inhalte sind stets auf mögliche Verletzungen von Urheber- und Persönlichkeitsrechten zu prüfen.
 
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 ## Hinweise zur Aktualisierung
 
 Die Eckpunkte sind zu überarbeiten, wenn neue BRAK-Hinweise oder DAV-Stellungnahmen veröffentlicht werden oder wenn die KI-VO durch Durchführungsrechtsakte konkretisiert wird. Auch neue Gerichtsentscheidungen zur Haftung bei KI-Nutzung können eine Anpassung erforderlich machen.
@@ -48,7 +74,7 @@ Die Eckpunkte sind zu überarbeiten, wenn neue BRAK-Hinweise oder DAV-Stellungna
 - BGH, Urt. v. 26.09.2019 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 15: Verschwiegenheitspflicht als Kern des Berufsrechts — Executive Summary muss Mandantengeheimnis als oberste Prioritaet klar vermitteln.
 - OLG Koblenz, Urt. v. 16.06.2023 — 6 U 1292/22, NJW-RR 2023, 1105 Rn. 22: Haftungsrisiko bei unkritischer Verwendung von KI-Ausgaben — Executive Summary muss Pruefpflicht als Non-Negotiable klar stellen.
 - EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Kein Privat-Account-Einsatz ohne DSGVO-Sicherheitsnetz — Executive Summary muss das klar kommunizieren.
-- BGH, Urt. v. 06.07.2021 — VI ZR 40/20, NJW 2021, 2726 Rn. 12: DSGVO-Schadensersatz bei versehentlicher Datenweitergabe an nicht freigegebene KI-Systeme.
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
 
 ## Zentrale Normen (Paragrafenkette)
 - § 43a Abs. 2 BRAO — Verschwiegenheit (Kern jedes Executive Summary)
@@ -62,6 +88,7 @@ Die Eckpunkte sind zu überarbeiten, wenn neue BRAK-Hinweise oder DAV-Stellungna
 3. Sind kritische Nutzungsfaelle bekannt — muss das Summary sie explizit adressieren?
 4. Soll das Summary als eigenstaendiges Dokument oder als Richtlinien-Deckblatt verwendet werden?
 5. Wird das Summary zum Compliance-Nachweis gegenueber Mandanten oder Behoerden verwendet?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Output-Template — Executive Summary KI-Nutzungsrichtlinie
 **Adressat:** Kanzlei-Fuehrung / alle Mitarbeiter — Tonfall: klar, begrenzend, essentiell

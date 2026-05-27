@@ -15,6 +15,7 @@ description: "Sofortmassnahmen bei aktivem Cyber-Vorfall Ransomware Datenexfiltr
 6. Wurden bereits Maßnahmen ergriffen — Systeme abgeschaltet (Forensik-Problem!), Passwörter geändert, Backups überprüft?
 7. Liegt eine Erpressungsforderung vor — Betrag, Zahlungsanweisung, Frist?
 8. Ist eine betroffene Begleitperson oder Datenschutzbeauftragter vorhanden?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -53,7 +54,7 @@ description: "Sofortmassnahmen bei aktivem Cyber-Vorfall Ransomware Datenexfiltr
 ### Entscheidungen
 
 - EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia): Art. 82 DSGVO — allein die unbefugte Offenlegung begründet Schadensersatzanspruch; kein Nachweis konkreten Schadens für immateriellen Schaden erforderlich.
-- BGH, Urt. v. 06.07.2021 — VI ZR 40/20: DSGVO-Schadensersatz für immateriellen Schaden.
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
 - OLG Dresden, Urt. v. 30.11.2021 — 4 U 1158/21: Schadensersatzpflicht bei mangelnden TOMs Art. 32 DSGVO.
 - LG München I, Urt. v. 09.12.2021 — 31 O 16606/20: Datenpanne + mangelnde Sicherheit = Schadensersatz.
 
@@ -74,6 +75,19 @@ description: "Sofortmassnahmen bei aktivem Cyber-Vorfall Ransomware Datenexfiltr
 | Tag 4-7 | Strafanzeige | §§ 202a 303b StGB | LKA Cybercrime; Forensik-Bericht beifügen |
 | Tag 4-14 | Versicherer-Antrag | Cyber-Police | Unterlagen; Selbstbehalt; Forensik |
 | Monat 1 | NIS2-Abschlussbericht | § 32 BSIG n. F. | Ursachenanalyse; Maßnahmen |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Cyber-Incident 72h DSGVO-Meldung | Incident-Response-Protokoll; Template unten |
+| Variante A — Kein meldepflichtiger Vorfall | Interne Dokumentation ohne Meldung; Template vereinfacht |
+| Variante B — Kritische Infrastruktur betroffen | BSI-Meldepflicht § 8b BSIG zusaetzlich zur DSGVO-Meldung |
+| Variante C — Strafanzeige erwaegen | § 202a ff. StGB; parallel zu Aufsichtsbehoerde informieren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatzbausteine
 
@@ -150,6 +164,11 @@ Auftragsverarbeiter: [Forensik-Dienstleister]
    gesichert und lueckenlos protokolliert.
 ```
 
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 ## Beweislast und Darlegungslast
 
 | Frage | Last | Norm |
@@ -215,7 +234,7 @@ Auftragsverarbeiter: [Forensik-Dienstleister]
 - NIS2UmsuCG in Kraft seit 06.12.2025; §§ 32, 65 BSIG n. F.
 - StGB §§ 202a–202d, 261, 263a, 269, 303a, 303b
 - EuGH C-340/21 (Natsionalna agentsia)
-- BGH VI ZR 40/20
+
 - BSI IT-Grundschutz-Kompendium
 - BSI-Lageberichte Cybersicherheit
 

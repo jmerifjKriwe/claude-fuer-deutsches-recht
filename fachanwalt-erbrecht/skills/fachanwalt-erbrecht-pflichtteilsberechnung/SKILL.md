@@ -15,6 +15,7 @@ description: "Pflichtteilsanspruch berechnen wenn Erblasser nahe Angehoerige vom
 6. Haben die Erben die Auskunft verweigert, unvollständig erteilt oder die Bewertung blockiert?
 7. Ist Verjährung drohend — Erbfall + 3 Jahre Jahresende § 2332 BGB?
 8. Bestehen Anzeichen für verschleierte Schenkungen (Übertragungen unter Nießbrauch, Schenkungen an Lebensgefährten)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -43,6 +44,9 @@ description: "Pflichtteilsanspruch berechnen wenn Erblasser nahe Angehoerige vom
 | OLG Frankfurt | 20 W 350/14 | 21.08.2015 | Unternehmensbewertung im Pflichtteilsrecht — IDW S1 oder vereinfachtes Ertragswertverfahren |
 
 ## Prüfschema — Stufenweise Durchsetzung
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 
 | Phase | Schritt | Maßnahme | Norm |
 |-------|---------|---------|------|
@@ -131,6 +135,19 @@ Schritt 7: Anrechnung Eigengeschenk § 2327 BGB
 GESAMT-PFLICHTTEILSANSPRUCH:         EUR [F+G-H-I]
 Zinsen § 291 BGB ab Klagezustellung:  Basiszins + 5 %
 ```
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Pflichtteil berechnen und durchsetzen | Stufenklage-Bausteine unten; Auskunft zuerst |
+| Variante A — Erbe zahlt freiwillig wenn Berechnung klar | Aussergerichtliche Geltendmachung zuerst; Klage als Backup |
+| Variante B — Erblasser hat viel verschenkt | Pflichtteilsergaenzung § 2325 BGB pruefen; 10-Jahres-Frist |
+| Variante C — Stufenklage zu aufwaendig | Direktklage auf Zahlung wenn Grundlage klar; Auskunft nachfassen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatz-Bausteine
 
@@ -237,6 +254,12 @@ Schenkungswert EUR [Betrag].
 
 Wir fordern Sie auf, bis [Datum] zu zahlen.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 

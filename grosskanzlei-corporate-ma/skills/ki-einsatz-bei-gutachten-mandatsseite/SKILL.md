@@ -19,6 +19,7 @@ Im Zivilprozess, in Schiedsverfahren und bei behördlichen Gutachten besteht die
 6. Welche Fristen sind zu beachten — insbesondere Befangenheitsfrist (§ 406 Abs. 2 ZPO: 2 Wochen ab Kenntnis)?
 7. Ist Schiedsordnung mit AI-Disclosure-Pflichten vorhanden oder geplant?
 8. Hat der Mandant selbst KI-Werkzeuge in der Mandatsbearbeitung eingesetzt, die im Kontext der Verhandlung relevant sein könnten?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -48,6 +49,9 @@ Im Zivilprozess, in Schiedsverfahren und bei behördlichen Gutachten besteht die
 | LAG Hamm | 18 Sa 1/22 | 12.04.2022 | Privatgutachten: Parteigutachten ohne erkennbare persönliche Eigenleistung des Gutachters trägt geringen Beweiswert |
 
 ## Prüfschema
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -95,6 +99,20 @@ Im Zivilprozess, in Schiedsverfahren und bei behördlichen Gutachten besteht die
 | Gutachten ist inhaltlich korrekt | Methodisch korrekte KI-Ausgabe ändert nichts an der Pflicht zur höchstpersönlichen Verantwortung; Verwertbarkeit bleibt zweifelhaft |
 | Vergütungssperre setzt grobe Pflichtverletzung voraus | § 8a Abs. 2 JVEG: Bei festgestellter Verletzung § 407a ZPO ist Vergütung auf null festzusetzen — kein Ermessen |
 | Privatgutachten als Parteiergebnis wertlos | Parteigutachten trägt geringeren Beweiswert, aber bleibt zulässiges Beweismittel; Gericht kann gemäß § 412 ZPO neues Gutachten anordnen |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — KI-Einsatz bei Gutachtenerstellung auf Mandantsseite | KI-Einsatz nach Schema; Checkliste unten |
+| Variante A — Mandant lehnt KI-Einsatz ab | Manuelle Bearbeitung ohne KI; Dokumentation anpassen |
+| Variante B — Gutachten geht an Gericht KI-Kennzeichnung noetig | Kennzeichnungspflichten-Skill parallel verwenden |
+| Variante C — KI-Output enthalt Halluzinationen | Halluzinations-Handhabung-Skill einschalten; Pruefprotokoll erstellen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -193,6 +211,18 @@ DRAFT — Procedural Order No. [X] — AI Disclosure
 
 [Schiedsgericht, Verfahren, Datum]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Streitwert und Kosten
 

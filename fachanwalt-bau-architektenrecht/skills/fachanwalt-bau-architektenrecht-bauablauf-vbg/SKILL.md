@@ -15,6 +15,7 @@ description: "Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B pruefen und g
 6. Liegt ein Bauablaufplan (SOLL-Bauablauf) mit Balkenplan oder Netzplan vor? Kritischer Pfad bestimmbar?
 7. Wer ist für die Behinderung verantwortlich — Auftraggeber, Architekt, Vorgewerk, Behörde, höhere Gewalt?
 8. Besteht Verschulden des Auftraggebers (§ 6 Abs. 6 VOB/B-Schadensersatz) oder nur Annahmeverzug ohne Verschulden (§ 642 BGB-Entschädigung)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -44,6 +45,9 @@ description: "Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B pruefen und g
 | OLG Düsseldorf | 21 U 101/17 | 08.02.2019 | Beschleunigungsmaßnahmen: AG muss Beschleunigung anordnen und vergüten; AN nicht verpflichtet auf eigene Kosten zu beschleunigen |
 
 ## Prüfschema — Mehrkostenanspruch bei Bauablaufstörung
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 
 | Schritt | Prüfpunkt | Norm | Ergebnis |
 |---------|-----------|------|---------|
@@ -154,6 +158,19 @@ Bauzeitverlängerung: [Anzahl] Werktage
 Angepasster Fertigstellungstermin: [Datum]
 ```
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Bauablaufstoerung und Mehrkostenanspruch geltend machen | Behinderungsanzeige und Mehrkostenforderung nach Bausteinen unten |
+| Variante A — Stoerung durch Auftragnehmer selbst verursacht | Kein Mehrkostensanspruch; defensiv argumentieren |
+| Variante B — Auftraggeber teilweise mitverantwortlich | Mitverschuldens-Quote bestimmen; Vergleich auf halber Strecke |
+| Variante C — laufendes Bauvorhaben mit weiteren Stoerungen | Laufende Dokumentation sichern; Behinderungsanzeige zeitnah stellen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Schriftsatz-Bausteine
 
 ### Behinderungsanzeige § 6 Abs. 1 VOB/B
@@ -234,6 +251,12 @@ Nach Fristablauf werden wir gerichtliche Schritte einleiten.
 
 Anlagen: Kalkulation, Bautagebücher, SOLL/IST-Vergleich
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 

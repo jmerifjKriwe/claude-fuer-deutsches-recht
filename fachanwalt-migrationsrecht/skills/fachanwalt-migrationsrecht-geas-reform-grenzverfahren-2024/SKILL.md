@@ -17,6 +17,7 @@ description: "GEAS-Reform EU-Asyl- und Migrationsmanagementverordnung 2024/1351 
 8. Besteht Haftgefahr oder Unterbringung im Grenz-Aufnahmezentrum aktuell?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -76,6 +77,20 @@ description: "GEAS-Reform EU-Asyl- und Migrationsmanagementverordnung 2024/1351 
 | 15 | Dublin-III parallel: Solidaritätsmechanismus AMVO 2024/1351 beachten | Art. 11 ff. AMVO |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — GEAS-Reform Grenzverfahren 2024 | Strategiepapier; Template unten |
+| Variante A — Inhaftierungsrisiko am Grenzverfahren | Art. 11 VerfahrensVO Inhaftierung; Habeas-Corpus-Antrag |
+| Variante B — Nationalitaet ohne Sicherheitsland-Vermutung | Art. 50 AsylVfVO; individuelle Pruefung beantragen |
+| Variante C — Unbegleiteter Minderjaehriger | Besondere Garantien Art. 24 VerfahrensVO; Vormundschaft |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -192,6 +207,11 @@ Aufenthaltsgestattung nach § 75 AsylG.
 Mit freundlichen Grüßen
 [Rechtsanwalt/-anwältin]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

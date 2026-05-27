@@ -19,6 +19,7 @@ Anwaltliche Verteidigung der hinweisgebenden Person gegen Repressalien des Arbei
 6. **Besteht Kündigungsschutz nach KSchG?** — Wenn ja, läuft die 3-Wochen-Frist § 4 KSchG; HinSchG-Schutz und KSchG-Schutz laufen kumulativ.
 7. **Hat der Arbeitgeber eine interne Meldestelle eingerichtet?** — Pflicht ab 50 Beschäftigten seit 17.12.2023; fehlt sie, verstärkt dies den HinSchG-Schutz.
 8. **Gibt es Mitwisser oder Zeugen der Meldung?** — Beweissicherung sofort: E-Mails, Eingabebescheinigungen, Bestätigungs-E-Mails der Meldestelle.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -82,6 +83,9 @@ Anwaltliche Verteidigung der hinweisgebenden Person gegen Repressalien des Arbei
 
 ## Prüfschema
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 | Schritt | Prüfpunkt | Norm | Bedeutung |
 |---|---|---|---|
 | 1 | Anwendungsbereich: sachlich § 2 HinSchG? | § 2 HinSchG | Ohne Anwendungsbereich kein Schutz |
@@ -135,6 +139,19 @@ Anwaltliche Verteidigung der hinweisgebenden Person gegen Repressalien des Arbei
 | Karriere-Schaden | Gutachterliche Bewertung |
 | Schmerzensgeld (immateriell) | 5.000–50.000 EUR je nach Schwere (Mobbing, Berufsunfähigkeit) |
 | Anwaltskosten | § 249 BGB als Verzugsschaden |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Repressalie gegen Whistleblower abwehren | Dokumentations- und Klageweg nach Template unten |
+| Variante A — Repressalie ist Kuendigung | Mit KSchG-Klage kombinieren; doppelter Schutz |
+| Variante B — Mandant will anonym bleiben | Meldestelle statt Klage; Identitaetsschutz sichern |
+| Variante C — Repressalie ist Degradierung ohne Kuendigung | Restitutionsklage; Schadensersatz § 37 HinSchG |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schreibvorlage — Außergerichtlich
 
@@ -220,6 +237,12 @@ Anderenfalls erheben wir Klage zum Arbeitsgericht [Ort].
 → § 4 KSchG i.V.m. § 35 HinSchG (Kündigungsschutzklage + HinSchG-Unwirksamkeit kumulativ)
 → Art. 10 EMRK (EGMR-Schutz Meinungs- und Informationsfreiheit)
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Kommentarliteratur
 

@@ -17,6 +17,7 @@ Erstellt und strukturiert Kaufvertragsentwuerfe (SPA = Share Purchase Agreement;
 4. Welche wesentlichen DD-Findings muessen als SPA-Risiken adressiert werden — Red Flags, Material Adverse Issues?
 5. Ist W&I-Versicherung vorgesehen — wenn ja: Sell-Side Disclosure Letter, Materiality Scrapes, Synthetic Warranties?
 6. Welche Conditions Precedent sind zu erwaarten — Kartellrecht, FDI, Sondergenehmigungen?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Rechtsgrundlagen
 
@@ -44,6 +45,9 @@ Erstellt und strukturiert Kaufvertragsentwuerfe (SPA = Share Purchase Agreement;
 
 ## Schritt-fuer-Schritt-Workflow
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. **Term Sheet auswearten:** Kernparameter extrahieren — Kaufpreis, Struktur, Garantien, CPs, Rechtsordnung
 2. **DD-Findings in SPA uebertragen:** Material Issues → spezifische Garantieausnahmen oder Freistellungen; Red Flags → MAC-Trigger oder Haftungsausschluss
 3. **Garantiekatalog strukturieren:** Title/Ownership, Business Warranties, Financial Statements, Tax, Employment, IP, Litigation, Environmental; je: Scope, Materiality Threshold, Carve-outs
@@ -59,6 +63,20 @@ Erstellt und strukturiert Kaufvertragsentwuerfe (SPA = Share Purchase Agreement;
 - Asset Deal → § 613a BGB → Betriebsuebergang → Arbeitnehmerinfo zwingend → bei Unterlassung: alle gehen ueber
 - W&I vorgesehen → Sell-Side Disclosure Letter → Materiality Scrape → Synthetic Warranties Kataolog
 - MAC ausgeloest → Pruefen ob bilateraler Einzelrisiko oder Marktentwicklung → Carve-out greift?
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — SPA-Entwurf nach Standardstruktur | SPA-Gliederung nach Schema; Template unten |
+| Variante A — Asset-Deal statt Share-Deal | APA-Gliederung verwenden; steuerliche Unterschiede beachten |
+| Variante B — Internationales M-and-A englisches Recht | Englisches Recht-Template; Governing Law festlegen |
+| Variante C — Nur Term Sheet kein vollstaendiger Entwurf | Term-Sheet-Format statt Vollvertrag |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Output-Template: SPA-Struktur Gliederung (Auszug)
 
@@ -95,6 +113,18 @@ ANLAGEN:
   Anlage 4.2 — Business Warranties
   Anlage 4.5 — Disclosure Letter
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Rote Schwellen
 

@@ -15,6 +15,7 @@ description: "Unterhaltsberechnung nach Duesseldorfer Tabelle und BGB: Mandant w
 6. Weitere Unterhaltspflichten (andere Kinder, Elternunterhalt, weiterer Ehegatte)?
 7. Liegt ein Wechselmodell vor — BGH XII ZB 234/19 Berechnung?
 8. Hat der Unterhaltspflichtige fiktives Einkommen zu berücksichtigen (Obliegenheit zur Erwerbstätigkeit, Schwarzarbeit, verschleiertes Einkommen)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -259,6 +260,19 @@ Falls Verteilmasse < EUR 1.000:
 
 **Kein rückwirkender Effekt:** Abänderung nur ab Rechtshängigkeit des Antrags (§ 238 Abs. 3 FamFG).
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Kindesunterhalt oder nachehelichen Unterhalt berechnen | Berechnungsschema Duesseldorfer Tabelle; Template unten |
+| Variante A — Wechselmodell streitig | BGH XII ZB 234/19 anwenden; Barunterhalt-Reduktion pruefen |
+| Variante B — Einkommensermittlung komplex (Selbststaendiger) | Bereinigtes Netto sorgfaeltig berechnen; ggf. Steuererklaerung anfordern |
+| Variante C — Mandant will ohne Gericht regeln | Aussergerichtliche Einigung; Jugendamt und URK als Weg |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Schriftsatz-Bausteine
 
 ### Unterhaltsverlangen (außergerichtlich)
@@ -314,6 +328,12 @@ Antragsgegners von EUR [alt] auf EUR [neu] verändert
 (+/- [Prozent]). Dies stellt eine wesentliche Änderung
 der Verhältnisse dar.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 

@@ -15,6 +15,7 @@ description: "KI-VO-Konformitaetsbewertung fuer Hochrisiko-KI-Systeme nach Art. 
 6. Soll eine Benannte Stelle (Notified Body) eingeschaltet werden (Pflicht bei Biometrik und Systemen für kritische Infrastruktur)?
 7. Wie ist der Zeitplan bis Markteinführung — wann muss CE-Kennzeichnung vorliegen?
 8. Gibt es bereits eine KI-Folgenabschätzung oder eine Datenschutz-Folgenabschätzung (Art. 35 DSGVO) im Zusammenhang mit dem System?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -88,6 +89,19 @@ description: "KI-VO-Konformitaetsbewertung fuer Hochrisiko-KI-Systeme nach Art. 
 | 13 | EU-Konformitätserklärung | Art. 47 + Anhang V KI-VO | Inhalt vollständig? |
 | 14 | CE-Kennzeichnung | Art. 48 KI-VO | Korrekte Anbringung? |
 | 15 | Registrierung EU-Datenbank | Art. 49 KI-VO | Eintragung erfolgt? |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — KI-VO Hochrisiko-Konformitaetsbewertung | Konformitaetsbewertungs-Protokoll; Template unten |
+| Variante A — Kein Hochrisiko-System | Vereinfachtes Compliance-Register; CE-Kennzeichnung entfaellt |
+| Variante B — Inverkehrbringen durch Drittanbieter | Importeur/Haendler-Pflichten Art. 23 ff. KI-VO pruefen |
+| Variante C — Open-Source-KI | Ausnahmen Art. 2 Abs. 10 KI-VO pruefen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatzbausteine
 
@@ -171,6 +185,11 @@ Anlagen:
 Mit freundlichen Gruessen
 ```
 
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 ## Beweislast und Darlegungslast
 
 | Frage | Last | Norm |
@@ -245,7 +264,7 @@ Mit freundlichen Gruessen
 ## Aktuelle Rechtsprechung (v14.2)
 
 - EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA Holding/Datenschutzbeauftragter Hessen), NJW 2024, 248 Rn. 55–78: Automatisches Scoring kann Art. 22 DSGVO unterliegen; bei KI-Systemen die in Anhang III KI-VO (Nr. 5 lit. b Kreditbewilligung) gelistet sind, bestehen parallele Pflichten nach KI-VO und DSGVO — DSFA (Art. 35 DSGVO) und FRIA (Art. 27 KI-VO) müssen kombiniert werden.
-- BGH, Urt. v. 06.07.2021 — VI ZR 40/20, NJW 2021, 2726 Rn. 28: Zur Haftung bei KI-Systemen mit unzureichendem Risikomanagement; mangelhafte Risikoabschätzung begründet Haftung des Verantwortlichen nach § 280 Abs. 1 BGB iVm Art. 82 DSGVO.
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
 - BVerwG, Urt. v. 25.09.2019 — 8 C 25.18, BVerwGE 166, 308 Rn. 38: Zur Zulässigkeit automatisierter Verwaltungsentscheidungen; Art. 22 DSGVO und Hochrisiko-KI-VO-Anforderungen (menschliche Aufsicht Art. 14) setzen Grenzen.
 - VG Wiesbaden, Beschl. v. 01.12.2021 — 6 L 738/21.WI, ZD 2022, 178 Rn. 22: DSFA-Pflicht für KI-Entscheidungssysteme; parallel gilt ab 02.08.2026 die Konformitätsbewertungspflicht nach Art. 43 KI-VO für Hochrisiko-Systeme.
 

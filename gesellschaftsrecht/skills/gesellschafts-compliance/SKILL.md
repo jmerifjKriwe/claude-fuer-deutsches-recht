@@ -23,6 +23,7 @@ Vor der Tracker-Initialisierung sind folgende Angaben erforderlich:
 6. **Ruhende oder aufzulösende Gesellschaften:** Sind Gesellschaften betrieblich inaktiv? Sollen sie aufgelöst werden (§ 65 GmbHG, §§ 264 ff. AktG)?
 7. **Ausländische Tochtergesellschaften:** Gibt es § 325a HGB-Pflichten für ausländische Tochtergesellschaften?
 8. **Berichtszeitraum:** 30, 60 oder 90 Tage für den Fälligkeitsbericht?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -84,6 +85,9 @@ Gilt für alle AG (keine Größenklassenausnahme). GmbH: Prüfungspflicht ab mit
 
 ## Prüfschema: Compliance-Initialisierung und laufender Betrieb
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
 | 1 | Gesellschaftserfassung | Alle Gesellschaften mit Rechtsform, HR-Nummer, Gründungsdatum, GJ-Ende erfasst? | Vollständige Gesellschaftsliste als Basis des Trackers |
@@ -136,6 +140,20 @@ Gilt für alle AG (keine Größenklassenausnahme). GmbH: Prüfungspflicht ab mit
 | Offenlegung verspätet, aber Ordnungsgeldverfahren noch nicht eingeleitet | Kein Schaden eingetreten | BfJ leitet Verfahren von Amts wegen ein; nachträgliche Einreichung mindert das Ordnungsgeld, hebt es aber nicht auf; unverzügliche Nachreichung + Erklärung einreichen |
 | GJ nicht zum 31.12 — Frist läuft anders | Richtig: 12 Monate nach individuellem GJ-Ende | Tracker muss GJ-Ende je Gesellschaft individuell erfassen; Standardannahme 31.12. kann falsch sein |
 | Prüfungspflicht entfällt, weil Gesellschaft geschrumpft | § 267 Abs. 4 HGB: Größenklassenwechsel erst nach zwei aufeinanderfolgenden Abschlussstichtagen | Prüfungspflicht besteht noch ein weiteres Jahr nach Unterschreiten der Schwellen |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Compliance-Programm initialisierten oder pruefen | Compliance-Schema nach Checkliste; Template unten |
+| Variante A — Kleines Unternehmen kein Budget fuer umfangreiches Programm | Minimalanforderungen-Compliance-Set statt Vollprogramm |
+| Variante B — Branchenspezifische Anforderungen GwG DSGVO | Branchen-spezifisches Compliance-Modul einsetzen |
+| Variante C — Bereits Ermittlungsverfahren laeuft | Compliance-Untersuchung als Verteidigung; Kooperation mit Behoerden |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -217,6 +235,18 @@ das Risiko eines gutgläubigen Erwerbs gemäß § 16 Abs. 3 GmbHG begründet.
 Mit freundlichen Grüßen
 [Kanzlei / Name]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ### Baustein 3: Gesellschafts-Compliance-Tracker YAML (vollständig)
 

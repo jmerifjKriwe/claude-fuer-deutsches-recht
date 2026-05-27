@@ -13,6 +13,7 @@ Dieser Skill stellt abgestufte Vorlagen für Erinnerungen, Mahnungen und Fristse
 2. Handelt es sich um eine anwaltliche Mahnung (mit Verjährungshemmungswirkung) oder um eine interne Erinnerung?
 3. Gibt es vertragliche Fristen, die die gesetzliche Mahnungspflicht modifizieren?
 4. Ist der Schuldner Verbraucher (besonderer Schutz nach §§ 305 ff. BGB) oder Unternehmer?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Aktuelle Rechtsprechung
 - BGH, Urt. v. 25.01.2007 - III ZR 4/06, NJW 2007, 1584 — Mahnung muss so formuliert sein, dass der Schuldner die Ernsthaftigkeit der Forderung erkennt; bloss hoefliche Bitte genuegt nicht fuer Verzug nach § 286 BGB.
@@ -29,6 +30,19 @@ Dieser Skill stellt abgestufte Vorlagen für Erinnerungen, Mahnungen und Fristse
 ## Kommentarliteratur
 - Grüneberg/Grüneberg BGB § 286 Rn. 15-40 (Mahnung: Form, Inhalt, Wirkung)
 - Gaier/Wolf/Goebel, BRAO § 43a Abs. 3 Rn. 60-75 (Sachlichkeitsgebot in Mahnschreiben)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Mahnschreiben hoeflich aber klar formulieren | Dreistufige Mahnformulare nach Template unten |
+| Variante A — erste Erinnerung; Geschaeftsbeziehung erhalten | Stufe 1 (freundlich); kein Druck-Ton |
+| Variante B — hartnaekkiges Nichtreagieren; laufende Frist | Stufe 2 oder 3; klar auf Rechtsfolgen hinweisen |
+| Variante C — Gegenseite anwaltlich vertreten | Foermlichere Ansprache; Sachverhalt komprimierter darstellen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Output-Template: Mahnschreiben (abgestuft)
 
@@ -55,6 +69,12 @@ da trotz meiner Erinnerung vom [DATUM] keine Leistung erfolgt ist, setze ich Ihn
 Nach Ablauf dieser Frist behalte ich mir vor, [RECHTLICHE MASSNAHME] einzuleiten.
 Mit freundlichen Gruessen
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Die drei Mahnstufen
 

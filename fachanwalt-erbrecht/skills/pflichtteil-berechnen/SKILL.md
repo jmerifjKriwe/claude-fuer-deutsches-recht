@@ -15,6 +15,7 @@ description: "Pflichtteilsanspruch und Pflichtteilsergaenzungsanspruch berechnen
 6. Gibt es Vorausempfänge des Pflichtteilsberechtigten mit Anrechnungsbestimmung (§ 2315 BGB)?
 7. Hat der Pflichtteilsberechtigte einen Pflichtteilsverzicht erklärt (§ 2346 BGB)?
 8. Besteht ein Pflichtteilsentzugsgrund nach § 2333 BGB (Straftat gegen Erblasser, Erblasser-nahe Personen)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -49,6 +50,9 @@ description: "Pflichtteilsanspruch und Pflichtteilsergaenzungsanspruch berechnen
 | OLG Frankfurt | 20 W 350/14 | 21.08.2015 | Unternehmensbewertung als Nachlassgegenstand — IDW S1 oder vereinfachtes Ertragswertverfahren |
 
 ## Prüfschema — Stufenweise Pflichtteilsberechnung
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 
 | Schritt | Prüfpunkt | Norm | Ergebnis |
 |---------|-----------|------|---------|
@@ -195,6 +199,19 @@ VI. Anrechnung § 2315 BGB (Vorausempfang):  EUR [minus A]
    Gesamt-Pflichtteilsanspruch:            EUR [Summe]
 ```
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Pflichtteil berechnen | Neunstufiges Schema; Schriftsatzbausteine unten |
+| Variante A — Erbe zahlt freiwillig wenn Betrag klar | Aussergerichtliche Geltendmachung; Klage nur als Backup |
+| Variante B — viele Schenkungen innerhalb von 10 Jahren | Pflichtteilsergaenzung § 2325 BGB Hauptfokus |
+| Variante C — Immobilienwert streitig | Sachverstaendigengutachten einplanen; Stufenklage als Sicherheit |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Schriftsatz-Bausteine
 
 ### Auskunftsanforderung § 2314 BGB
@@ -258,6 +275,12 @@ III. Zahlungsstufe:
    Zinsen in Höhe von 5 Prozentpunkten über dem
    Basiszinssatz seit Klagezustellung zu zahlen.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 

@@ -19,6 +19,7 @@ Der Steuerberater ist in der Mandatsbetreuung der erste externe Berater, der Kri
 6. Ist ein Fachanwalt für Insolvenzrecht bereits eingebunden oder soll der StB dies im Schreiben ausdrücklich empfehlen?
 7. Hat die GmbH ein internes § 102 StaRUG-Krisenfrüherkennungssystem — wenn nein, soll das Warnschreiben auch auf diese Pflicht hinweisen?
 8. Ist das Mandatsverhältnis gefährdet — Reaktion des Mandanten auf bisherige Hinweise?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -47,6 +48,9 @@ Der Steuerberater ist in der Mandatsbetreuung der erste externe Berater, der Kri
 | BGH IX ZR 153/09 | NJW 2011, 218 | 14.10.2010 | StB muss auf Schäden aus GF-Haftung hinweisen |
 
 ## Prüfschema Warnschreiben-Erstellung
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -96,6 +100,20 @@ Der Steuerberater ist in der Mandatsbetreuung der erste externe Berater, der Kri
 | "StB ist für Buchhaltung, nicht für Insolvenzrecht zuständig" | BGH IX ZR 285/14: aus der Buchhaltungsbetreuung folgt Hinweispflicht strukturell; unabhängig vom Vertragsgegenstand |
 | "Mandant wusste von der Krise selbst" | BGH IX ZR 104/18: eigenständige StB-Pflicht; Eigenkenntnis des Mandanten befreit StB nicht |
 | "Hinweis erfolgte zu spät — schon InsO-reif" | Dokumentation wann Erkenntnis eingetreten ist; Warnschreiben-Datum gegen Indizienbeweis stellen |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Warnschreiben bei Krisensignalen erstellen | Warnschreiben nach Schema; Template unten |
+| Variante A — Krisensignale noch schwach praevention moeglich | Fruehwarnung-Schreiben statt Krisenwarnung; milderen Ton waehlen |
+| Variante B — Insolvenzreife bereits eingetreten | Warnschreiben mit Hinweis auf § 15a InsO; Insolvenz-Skill parallel |
+| Variante C — Mandant will kein Warnschreiben Dokumentation intern | Internes Vermerk statt ausgehendem Schreiben; Haftungsschutz trotzdem |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -245,6 +263,18 @@ Teilnehmer: StB [Name], GF [Firma GmbH, Name], ggf. RA [Name]
 Unterschrift StB: _________________
 Datum: ___________________________
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Streitwert und Kosten
 

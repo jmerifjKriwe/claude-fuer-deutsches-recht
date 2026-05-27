@@ -21,6 +21,7 @@ Das Adhäsionsverfahren verbindet Strafprozess und Zivilrecht. Es spart der verl
 8. Welcher Betrag soll konkret geltend gemacht werden, oder soll das Schmerzensgeld dem Ermessen des Gerichts überlassen bleiben?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -75,6 +76,20 @@ Das Adhäsionsverfahren verbindet Strafprozess und Zivilrecht. Es spart der verl
 | 12 | Vollstreckung: Titel nach § 794 ZPO; Gerichtsvollzieher, Forderungspfändung; bei Insolvenz: Tabellenanmeldung | § 794 ZPO |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Adhaesionsverfahren fuehren | Adhaesionsantrag; Template unten |
+| Variante A — Mandant will Strafverfahren trennen | Zivilklage separat; Adhaesion entfaellt |
+| Variante B — Strafgericht verweist Adhaesion | Nachfolge-Zivilklage; Bindungswirkung des Strafurteils |
+| Variante C — Schadenshoehe unklar | Feststellungsklage zuerst; Leistungsklage nach Konkretisierung |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -179,6 +194,11 @@ des Strafprozesses sprengt.
 [Ort, Datum]
 [Unterschrift Verteidigung]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

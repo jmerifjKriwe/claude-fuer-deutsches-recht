@@ -23,6 +23,7 @@ Vor der Rechtsformempfehlung sind folgende Angaben erforderlich:
 6. **Branche / Berufsrecht:** Freier Beruf (Anwalt, Arzt, Steuerberater, Architekt → PartG/PartG mbB)? Gemeinnützige Tätigkeit (→ gGmbH)? Immobiliengeschäfte (→ eGbR vs. GbR durch MoPeG 2024)?
 7. **Geschäftsführer-Sozialversicherung:** Soll der Gründer selbst Geschäftsführer werden? Welche Anteilsquote? (Relevant für SV-Status nach BSG-Linie)
 8. **Holding-Struktur:** Plant ein Gründer, seine Anteile über eine persönliche Holding-GmbH zu halten (steuerlicher Vorteil nach § 8b KStG bei Anteilsveräußerung)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -72,6 +73,9 @@ Wenn ein Gründer seine Anteile über eine Holding-GmbH hält, werden Veräußer
 | OLG München | 31 Wx 420/19 | NZG 2020, 516 | Vorgesellschaft; Haftung der Gesellschafter bis Handelsregistereintragung |
 
 ## Prüfschema: Rechtsformwahl
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -238,6 +242,20 @@ Wenn ein Gründer seine Anteile über eine Holding-GmbH hält, werden Veräußer
 | Immobilienverwaltung mit GbR | eGbR eintragen (§ 707b BGB) | Ohne eGbR-Eintragung keine Grundbucheintragung mehr |
 | Gründer mit Investor-Exit-Plan | Holding-GmbH vor operativer GmbH | § 8b KStG: 95 % Steuerfreiheit auf Veräußerungsgewinn bei Holding |
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Rechtsformwahl fuer Gruender empfehlen | Rechtsformvergleich nach Pruefschema; Empfehlungstemplate unten |
+| Variante A — Mandant will sofort gruenden ohne viel Kapital | UG als kostenguenstige Variante bevor GmbH |
+| Variante B — Auslaendische Gruender internationaler Kontext | SE oder Limited als Alternative; Steuerrecht beachten |
+| Variante C — Nur fuer ein Projekt keine Dauerhaftigkeit | GbR oder GmbH Co KG fuer Zweckgesellschaft |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Schriftsatzbausteine
 
 ### Baustein 1: Statusfeststellungsantrag Gesellschafter-GF (§ 7a SGB IV)
@@ -325,6 +343,18 @@ Die Gründer erstatten gemäß § 5 Abs. 4 GmbHG den folgenden Sachgründungsber
 [Ort, Datum]
 [Gründer / Geschäftsführer]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Streitwert und Kosten
 

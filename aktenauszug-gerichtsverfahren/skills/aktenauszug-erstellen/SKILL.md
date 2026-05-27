@@ -16,6 +16,7 @@ Wer ein Gerichtsverfahren schnell erfassen muss — sei es beim Mandatswechsel, 
 3. Liegen alle wesentlichen Schriftsätze vor oder nur Teilakten?
 4. Gibt es bereits einen Termin, dessen Vorbereitung im Vordergrund steht?
 5. Soll der Aktenauszug intern (anwaltlich) oder zur Übergabe an Mandant dienen?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen (Prozessrecht)
 
@@ -140,6 +141,19 @@ Liegt Akte vor?
 |---|---|---|
 ```
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — strukturierter Aktenauszug fuer Gericht | Vollformat nach den sechs Bausteinen unten |
+| Variante A — nur interne Einarbeitung noetig | Kurzform ohne Verfahrenschronologie; Bausteine 1-3 genuegen |
+| Variante B — Eilsache; Zeit fehlt fuer vollstaendigen Auszug | Einleitungssatz + Sachverhaltschronologie priorisieren; Rest nachliefern |
+| Variante C — Parteivertreter hat bereits Zusammenfassung geliefert | Kritische Pruefung und Ergaenzung statt Neuerstellung |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Output-Template Übergabevermerk (intern)
 
 **Adressat:** Sachbearbeiter / aufnehmender Anwalt — Tonfall: sachlich-juristisch
@@ -156,6 +170,12 @@ Offene Aufgaben: [LISTE]
 
 Besonderheiten: [z.B. Beweissicherungsantrag gestellt, SV noch nicht bestellt]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Qualitätsgrundsätze
 

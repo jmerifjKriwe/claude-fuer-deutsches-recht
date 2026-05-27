@@ -17,6 +17,7 @@ description: "Sportler oder Verein soll Verbands- oder Vereinsstrafe anfechten: 
 8. Hat der Mandant ein Sponsoring- oder Lizenzvertrag, der eine Suspendierungs- oder Kündigungsklausel enthält?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -67,6 +68,20 @@ description: "Sportler oder Verein soll Verbands- oder Vereinsstrafe anfechten: 
 | 14 | Art. 12 GG-Verstoß (Berufsfreiheit) bei Profisportler prüfen? | Art. 12 GG |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Vereinsstrafe anfechten | Widerspruch gegen Vereinsstrafe; Template unten |
+| Variante A — Mandant akzeptiert Schuld | Strafmilderung verhandeln; kooperatives Vorgehen |
+| Variante B — Strafverfahren parallel | Koordination Vereins- und Strafverfahren; keine Selbstbelastung |
+| Variante C — Satzungswidriges Strafverfahren | Formelle Ruege; Nichtigkeitsklage vor ordentlichem Gericht |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -198,6 +213,11 @@ Eidesstattliche Versicherung: Anlage EV-1.
 Mit freundlichen Grüßen
 [Rechtsanwalt/-anwältin]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

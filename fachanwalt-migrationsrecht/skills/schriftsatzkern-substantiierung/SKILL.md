@@ -226,6 +226,21 @@ Bevor losgelegt wird, klaere:
 3. PKH-Antrag — Voraussetzungen darlegen (Beiordnung Anwalt nach §§ 166 VwGO, 114 ZPO)?
 4. Welche Beweismittel: Atteste, Identitaetsdokumente, Familienstandsnachweise?
 5. Besteht Sofort-Eilbeduerftigkeit (Abschiebung angekuendigt, Frist heute)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Migrationsrecht Schriftsatz verfassen | Schriftsatz-Template; Template unten |
+| Variante A — Verwaltungsgericht (Asyl) | Asylklage-spezifische Anforderungen; 3-Wochen-Klagefrist |
+| Variante B — Oberverwaltungsgericht Berufung | Berufungszulassung begruenden; Divergenzruege |
+| Variante C — Eilverfahren Abschiebungsstopp | § 123 VwGO Antrag; Anordnungsanspruch und -grund |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Output-Template: Asylklage VG
 
@@ -276,3 +291,8 @@ IV. BEWEISANGEBOTE
 [KANZLEI], [ORT], [DATUM]
 [RA-NAME]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

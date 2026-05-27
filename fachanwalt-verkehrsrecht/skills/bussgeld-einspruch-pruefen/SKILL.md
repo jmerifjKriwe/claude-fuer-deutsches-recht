@@ -19,6 +19,7 @@ Bußgeldbescheide haben oft Verteidigungspotenzial — Messfehler, Identitätszw
 6. Gibt es Voreintragungen im Fahreignungsregister innerhalb der letzten 12 Monate, die eine Erhöhung des Bußgelds oder das Fahrverbot auslösen?
 7. Wurde der Mandant vor Erlass des Bußgeldbescheids angehört § 55 OWiG? Wurde Anhörungsbogen ausgefüllt und eingesandt?
 8. Bestehen formelle Fehler im Bescheid — falsche Tatzeit, falscher Tatort, falsche Geschwindigkeit, fehlerhafte Rechtsbehelfsbelehrung?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -69,6 +70,9 @@ Bußgeldbescheide haben oft Verteidigungspotenzial — Messfehler, Identitätszw
 
 ## Prüfschema in Tabellenform
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 | Nr. | Prüfschritt | Norm | Konsequenz |
 |---|---|---|---|
 | 1 | Einspruchsfrist gewahrt? (2 Wochen + 4-Tage-Zustellungsfiktion) | § 67 OWiG; PostModG § 4 Abs. 2 VwZG | Bei Versäumnis: Wiedereinsetzung § 52 OWiG prüfen |
@@ -86,6 +90,20 @@ Bußgeldbescheide haben oft Verteidigungspotenzial — Messfehler, Identitätszw
 | 13 | § 25 Abs. 2a StVG-Wahlrecht bekannt? | § 25 Abs. 2a StVG | Aufschub bis 4 Monate nach Rechtskraft wählbar |
 | 14 | Punkte im FAER korrekt — Tilgungsfristen? | § 29 StVG | 2,5 Jahre ab Rechtskraft bei 1-2 Punkten |
 | 15 | Verfahrenseinstellung § 47 OWiG möglich? | § 47 OWiG | Behörde / Gericht kann bei geringem öffentlichen Interesse einstellen |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Mandant will Einspruch gegen Bussgeldbescheid pruefend | Pruefung auf Formfehler + Einspruchsschriftsatz; Template unten |
+| Variante A — Bussgeldbescheid akzeptieren guenstiger als Prozess | Keine weiteren Schritte; Bussgeldbescheid akzeptieren |
+| Variante B — Fahrverbot droht Haertefall moeglich | Haertefall-Argumentation vorbereiten; Absehen vom Fahrverbot beantragen |
+| Variante C — Messverfahren angreifbar Sachverstaendiger sinnvoll | Einspruch + Antrag auf Sachverstaendigen-Gutachten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -216,6 +234,18 @@ Es wird beantragt, vom Fahrverbot abzusehen und stattdessen
 die Geldbuße gemäß § 4 Abs. 4 BKatV auf das Dreifache
 [EUR X] zu erhöhen.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Beweislast und Darlegungslast
 

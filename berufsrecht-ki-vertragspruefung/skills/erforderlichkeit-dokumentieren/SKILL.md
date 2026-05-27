@@ -42,6 +42,7 @@ Bei zwei Konstellationen verlässt der Vorgang den Bereich des nach Abs. 1 Erfor
 - Ist der Zweck mit dem konkret geplanten Einsatz konsistent?
 - Werden Daten erkennbar über den Zweck hinaus verarbeitet (Training, Statistik, Modellverbesserung)?
 - Gibt es Zweckbindungsklauseln im Vertrag?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Output
 
@@ -86,6 +87,19 @@ Bei Dienstleistungen, die unmittelbar einem einzelnen Amtsgeschäft dienen (§ 2
 5. **Alternativen abwägen:** Gibt es EU-Anbieter ohne Drittlandrisiko? Ist der Vorteil des gewählten Anbieters sachlich gerechtfertigt?
 6. **Vermerk schreiben:** Interne Dokumentation für Kanzleiunterlagen (Beweissicherung im berufsrechtlichen Verfahren).
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Erforderlichkeit einer Verarbeitung dokumentieren | Zwei-Stufen-Pruefung nach Art. 5 Abs. 1 lit. c DSGVO; Template unten |
+| Variante A — Verarbeitung klar nicht erforderlich | Stoppen empfehlen; Alternative vorschlagen |
+| Variante B — Grenzfall mit starkem Interesse | Interessenabwaegung vertiefen; ausfuehrlichere Dokumentation |
+| Variante C — besondere Kategorie (Art. 9 DSGVO) | Erhoehter Massstab; gesonderte Rechtsgrundlage noetig |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Output-Template — Compliance-Vermerk Erforderlichkeit
 
 **Adressat:** Kanzlei intern — Tonfall: sachlich-juristisch
@@ -116,3 +130,9 @@ Falls Luecke: Handlungsbedarf [...]
 Erforderlichkeit: GRUEN / GELB / ROT
 Begruendung: [...]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+

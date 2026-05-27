@@ -165,6 +165,21 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 2. Interessenkollision nach § 43a Abs. 4 BRAO prüfen (bereits Gegenseite vertreten?)
 3. Welche Fristen laufen? (72h Art. 33 DSGVO / 24h NIS-2 BSI / Schadensersatzverjährung §§ 195/199 BGB)
 4. GwG-Check: Politisch exponierte Person / Hochrisiko-Land / anonyme Zahlung?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Erstgespraech IT-Recht | Mandatsbogen-Protokoll; Template unten |
+| Variante A — Mandant will nur Beratung ohne Mandat | Beratungsvertrag; kein Mandatsbogen erforderlich |
+| Variante B — Eilsituation (Abmahnung / Datenpanne) | Sofortberatung; Fristen sichern bevor Vollmandat |
+| Variante C — Unternehmens-Compliance-Check | Retainer-Modell statt Einzelmandat erwaegen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Output-Template — Erstgespräch-Protokoll
 
@@ -192,3 +207,8 @@ Honorarvereinbarung: RVG / Stundensatz [BETRAG EUR/h] / Pauschal [BETRAG EUR]
 
 Nächste Schritte: [LISTE]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

@@ -19,6 +19,7 @@ Die Liquiditätsvorschau ist das zentrale Instrument zur Beurteilung der kurzfri
 6. Handelt es sich um eine Krisenprüfung (§§ 17–19 InsO) oder um eine normale Buy/Sell-Side-DD?
 7. Welche Szenarien sollen modelliert werden — Base Case, Downside, No-Funding-Case, Closing Delay?
 8. Wer empfängt die Vorschau — internes Board Paper, externe Banken, Insolvenzgericht, DD-Bericht?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -45,6 +46,9 @@ Die Liquiditätsvorschau ist das zentrale Instrument zur Beurteilung der kurzfri
 | OLG München | 7 U 2345/20 | 14.04.2021 | Cash Pools: Konzerninterne Verrechnungen sind nicht als freie Liquidität anzusetzen, wenn Rückforderungsrecht des Mutterunternehmens besteht |
 
 ## Prüfschema Liquiditätsvorschau
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -90,6 +94,20 @@ Die Liquiditätsvorschau ist das zentrale Instrument zur Beurteilung der kurzfri
 | Cash Pool ist verfügbar | OLG München 7 U 2345/20: Cash Pool-Guthaben nur ansetzen, wenn kein Rückforderungsrecht des Poolführers besteht und Rückzahlung nicht kurzfristig gefordert wird |
 | Forecast zeigt Erholung in 6 Monaten | Für § 17 InsO zählt nur aktuelle Fälligkeit; Erholung in der Zukunft ändert nichts an gegenwärtiger Zahlungsunfähigkeit |
 | Geschäftsführer hatte keinen Überblick | Keine Entlastung: Pflicht zur Liquiditätsüberwachung ist organschaftliche Kermpflicht (BGH II ZR 277/16) |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Liquiditaetsvorschau fuer M-and-A erstellen | Vorschau nach Schema; Schriftsatz unten |
+| Variante A — Kurzfristige Liquiditaet noetig 4 Wochen | Kurzfrist-Liquiditaet als Teilbereich der Vorschau |
+| Variante B — Insolvenzreife droht Vorschau fuer Dokumentation | Insolvenz-Skill parallel; Dokumentation fuer Haftungsschutz |
+| Variante C — Mandant will Vorschau fuer Bankengespraeche | Bankgespraeche-Format mit Zusammenfassung anpassen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -141,6 +159,18 @@ C. KRITISCHE ANNAHMEN
 - Management-Forecast-Umsatz Q2 +15 %: NICHT PLAUSIBEL auf Basis OPOS.
   Korrektur: -8 % angesetzt.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Streitwert und Kosten
 

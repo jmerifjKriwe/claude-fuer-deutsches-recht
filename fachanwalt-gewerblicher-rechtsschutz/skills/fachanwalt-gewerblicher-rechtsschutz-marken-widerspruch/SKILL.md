@@ -13,6 +13,7 @@ description: "Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO einlegen od
 4. **Aeltere Marke benutzungsreif?** Wenn Eintragungs-Datum ueber 5 Jahre: Benutzungsnachweis bereithalten (§ 26 MarkenG).
 5. **Verwechslungsgefahr prima facie?** Zeichenaehnlichkeit + Warenaehnlichkeit grob pruefen.
 6. **Bekanntheit der aelteren Marke** (§ 14 Abs. 2 Nr. 3 MarkenG) als zusaetzlicher Hebel?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen und Paragrafenkette
 
@@ -64,6 +65,9 @@ Reicht der Nachweis nicht?
 
 ## Schritt-fuer-Schritt-Workflow
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 ```
 Schritt 1: Frist sichern
   → 3 Monate ab Markenblatt-Veroeffentlichung (DPMA) oder Amtsblatt (EUIPO)
@@ -103,6 +107,19 @@ Schritt 7: Bei Niederlage — Beschwerde
 - Ingerl/Rohnke, Markengesetz (Beck) — Verwechslungsgefahr und Widerspruchsverfahren
 - Eisenfuehr/Schennen, Unionsmarkenverordnung (Heymanns) — Art. 8, 46 UMV
 - Fezer, Markenrecht (Beck) — Benutzungspflicht und Nichtbenutzungseinwand
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Marken-Widerspruch einlegen oder abwehren | Widerspruche-Bausteine und Nichtigkeitsantrag unten |
+| Variante A — Widerspruch fristgerecht moeglich (3 Monate) | Direkt Widerspruche-Bausteine nutzen; Frist absolut |
+| Variante B — Frist verpasst | Nichtigkeitsantrag DPMA als Alternative |
+| Variante C — EUIPO-Marke betroffen | EUIPO-Widerspruchsformular nutzen; andere Fristen beachten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Output-Template Widerspruchs-Schriftsatz
 
@@ -155,6 +172,12 @@ Anlage W1: [Nachweise Bekanntheit]
 Anlage W2: [Benutzungsnachweise]
 Anlage W3: [Gebuehrenbeleg]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Koexistenz-Vereinbarung (Alternative)
 

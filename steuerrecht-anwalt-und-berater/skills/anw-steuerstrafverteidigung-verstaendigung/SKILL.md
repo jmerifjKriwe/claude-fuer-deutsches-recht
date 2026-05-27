@@ -19,6 +19,7 @@ Der Mandant (Steuerpflichtiger, Geschäftsführer oder steuerlicher Berater) ist
 6. Steuerschaden beziffert und beglichen (Teil-/Vollzahlung)? Ratenplan?
 7. Wurde eine Selbstanzeige nach § 371 AO bereits eingereicht — Sperrwirkung § 371 Abs. 2 AO prüfen?
 8. Vergütungsvereinbarung — RVG oder gesonderte Vereinbarung mit höherem Honorar?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -57,6 +58,9 @@ Der Mandant (Steuerpflichtiger, Geschäftsführer oder steuerlicher Berater) ist
 | BGH 1 StR 191/04 | NJW 2005, 1307 | 12.01.2005 | § 393 Abs. 2 AO; Verwendungsverbot nur für steuerfremde Delikte; Steuerstraftat selbst nicht geschützt |
 
 ## Prüfschema Steuerstrafverteidigung
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -107,6 +111,20 @@ Der Mandant (Steuerpflichtiger, Geschäftsführer oder steuerlicher Berater) ist
 | "Geständnis vor Akteneinsicht erforderlich" | Akteneinsicht erst; dann substanziiertes Teil-Geständnis; Vorab-Geständnis ohne Akte riskant |
 | "Selbstanzeige gesperrt — Verfahren läuft" | Sperrung nur für dieselbe Steuerart und denselben VZ; andere VZ oder Steuerarten noch selbstanzeigefähig |
 | "Schätzung § 162 AO methodisch korrekt" | Schätzungsmethode konkret angreifen; Konkretnachweise für niedrigere tatsächliche Einkünfte vorlegen |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Steuerstrafverteidigung mit Verstaendigungsoption | Verteidigungs-Strategie nach Schema; Schriftsatz unten |
+| Variante A — Mandant will Selbstanzeige als Weg | Selbstanzeige § 371 AO zuerst; Verstaendigung danach |
+| Variante B — Steuerdelikte mit Geldwaesche-Bezug | Geldwaesche-Skill parallel; Gesamtstrategie koordinieren |
+| Variante C — Mandant will auf keinen Fall Verurteilung riskieren | Einstellungs-Strategie § 153a StPO pruefen; Verstaendigung nur alternativ |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -237,6 +255,18 @@ vollständigen Akteneinsicht unter Vorbehalt stehen.
 Mit freundlichen Grüßen
 [RA]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Streitwert und Kosten
 

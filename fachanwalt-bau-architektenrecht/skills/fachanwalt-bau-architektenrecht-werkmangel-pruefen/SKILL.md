@@ -13,6 +13,7 @@ description: "Werkmaengel an Bauwerk nach BGB und VOB/B pruefen: Beschaffenheits
 4. **Mangelerscheinungen**: Beschreibung, Lichtbilder, SV-Gutachten? Kausalität zu Werk des AN?
 5. **Mängelrechte**: Nacherfüllung noch möglich oder Frist abgelaufen? Selbstvornahme, Minderung, Rücktritt, Schadensersatz?
 6. **Verjährung**: Fristlauf seit Abnahme — 5 Jahre BGB / 4 Jahre VOB/B?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -40,6 +41,9 @@ description: "Werkmaengel an Bauwerk nach BGB und VOB/B pruefen: Beschaffenheits
 - BGH, Urt. v. 08.11.2018 — VII ZR 100/16, NJW 2019, 293 Rn. 21: Arglistig verschwiegene Mängel unterliegen nicht der kurzen Verjährung nach § 634a Abs. 1 BGB sondern der 10-Jahres-Frist nach § 634a Abs. 3 Satz 2 BGB.
 
 ## Prüfschema — Mängelrecht (Schritt für Schritt)
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 
 | Schritt | Prüfpunkt | Norm | Ergebnis |
 |---------|-----------|------|---------|
@@ -124,6 +128,19 @@ description: "Werkmaengel an Bauwerk nach BGB und VOB/B pruefen: Beschaffenheits
 | Arglistsverjährung | Kenntnis | 3 Jahre § 199 BGB, max. 10 Jahre § 634a Abs. 3 | Anspruchsverlust |
 | Vorbehalt bekannter Mängel | Abnahme | unverzüglich bei Abnahme | Mängelrechtsverlust § 640 Abs. 3 |
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Werkmangel pruefen und Rechte sichern | Mangelruegeschreiben nach Template unten |
+| Variante A — Nacherfuellung bereits gescheitert | Sekundaerrechte (Minderung/Schadensersatz) geltend machen |
+| Variante B — Selbstvornahme § 637 BGB noetig | Kostenvorschussklage sofort; Fristsetzung sorgfaeltig |
+| Variante C — Architekt ebenfalls verantwortlich | Gesamtschuldnerklage gegen AN und Architekt kombinieren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Schriftsatz-Template Mängelrüge mit Fristsetzung
 
 **Adressat**: Auftragnehmer — Tonfall bestimmt-fristsetzend
@@ -169,6 +186,12 @@ gehemmt (§ 203 BGB, sofern Sie Verhandlungen aufnehmen).
 Mit freundlichen Grüßen
 [KANZLEI]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Kommentarliteratur
 

@@ -14,6 +14,7 @@ Klassisches Problem im B2B-Geschäft: Beide Parteien verweisen auf ihre eigenen 
 2. Handelt es sich um B2B oder B2C — nur B2B kommt AGB-Kollision in Betracht?
 3. Welche konkreten Klauseln kollidieren (Rechtswahlklausel, Gerichtsstand, Haftungsbeschränkung)?
 4. Wie haben die Parteien den Vertrag danach vollzogen — ist ein Vertrag zustande gekommen?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Aktuelle Rechtsprechung
 
@@ -37,17 +38,46 @@ Klassisches Problem im B2B-Geschäft: Beide Parteien verweisen auf ihre eigenen 
 
 ## Schritt-für-Schritt-Workflow
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. **B2B oder B2C feststellen:** B2C → keine AGB-Kollision; B2B → weiter.
 2. **Kollidierende Klauseln identifizieren:** Welche Klauseln widersprechen sich?
 3. **Knock-out anwenden (hM Deutschland):** Kollidierende Klauseln streichen, dispositives Recht einfügen.
 4. **CISG-Besonderheit:** Art. 19 CISG prüfen — hat eine Partei wesentlich abweichend angenommen?
 5. **Ergebnis je Klausel:** Gilt die Klausel, gilt die andere, oder greift dispositives Recht?
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Kollidierende AGB pruefen nach battle-of-forms | Pruefungsergebnis nach Schema; Template unten |
+| Variante A — Letzter Schuss der Gegenseite Guillotine-Klausel | Letzte Erklaerung gegnerische AGB massgeblich; Widerspruch sofort |
+| Variante B — Keine AGB beider Seiten Individualvertrag | Kein AGB-Kollisions-Problem; Individualvertrag direkt pruefend |
+| Variante C — Internationale AGB verschiedene Rechtsordnungen | IPR pruefen; CISG als Aufangrecht beachten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Output-Template
 
 **Adressat:** Entscheidungsgründe — Tonfall: sachlich-juristisch
 
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 ## Kollidierende AGB
 
 Beide Parteien haben auf ihre jeweiligen AGB verwiesen. Die Parteien haben den Vertrag

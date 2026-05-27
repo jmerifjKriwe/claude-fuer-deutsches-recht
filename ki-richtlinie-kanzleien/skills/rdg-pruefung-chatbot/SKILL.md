@@ -38,7 +38,6 @@ Die Rechtsprechung zum RDG im Kontext von KI-Systemen ist noch im Entstehen. Nac
 ## Aktuelle Rechtsprechung (v14.2)
 - BGH, Urt. v. 05.10.2006 — I ZR 7/04, NJW 2007, 2485 Rn. 22: Rechtsdienstleistungsbegriff § 2 RDG — Anwendungsabgrenzung zu erlaubter Informationserteilung; Chatbots beduerfend genauer Pruefung.
 - BGH, Urt. v. 29.07.2009 — I ZR 166/06, NJW 2009, 3238 Rn. 18: RDG-Verstos bei automatisierter Rechtsberatung ohne anwaltliche Aufsicht.
-- OLG Frankfurt, Urt. v. 25.06.2024 — 14 U 89/23, GRUR-RR 2024, 412 Rn. 18: KI-Chatbot mit juristischen Antworten als potenzielle Rechtsdienstleistung nach § 2 RDG — Einzelfallbewertung erforderlich.
 - BVerfG, Beschl. v. 29.10.1997 — 1 BvR 780/87, NJW 1998, 1501 Rn. 30: Anwaltsvorbehalt schuetzt Mandanteninteressen — Einschaetzungsspielraum bei rechtsnahen Informationsdiensten.
 
 ## Zentrale Normen (Paragrafenkette)

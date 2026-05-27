@@ -15,6 +15,7 @@ description: "Strukturierte Beweisstrategie bei Aufklaerungsfehlern § 630e BGB.
 6. Liegt ein Aufklärungsbogen vor — handschriftliche Eintragungen oder nur Standardtext?
 7. War eine Begleitperson beim Gespräch anwesend (möglicher Zeuge)?
 8. Welcher Schaden ist eingetreten — ist er von den verschwiegenen Risiken umfasst?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -52,6 +53,20 @@ description: "Strukturierte Beweisstrategie bei Aufklaerungsfehlern § 630e BGB.
 | 10 | Kausalität Aufklärungsmangel — Schaden | § 630h Abs. 2 BGB analog | Eingetretene Folge von nicht aufgeklärtem Risiko? |
 | 11 | Hypothetische Einwilligung | BGH VI ZR 130/16 | Arzt: Patient hätte auch eingewilligt? Patient: Entscheidungskonflikt? |
 | 12 | Schadensumfang | §§ 249, 253 BGB | Körperverletzung rechtswidrig = alle Schadensfolgen |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Aufklaerungsfehler Beweisstrategie | Beweissicherungs-Protokoll; Template unten |
+| Variante A — Mandant will Vergleich | Gutachterkommission / Schlichtung statt Klage; Skill gutachterkommission |
+| Variante B — Kein Aufklaerungsfehler feststellbar | Behandlungsfehler pruefen; anderes Skill |
+| Variante C — Strafanzeige geplant | Koordination Straf- und Zivilverfahren; Akteneinsicht § 406e StPO |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -138,6 +153,11 @@ II. Aufklaerungsfehler §§ 630e 630h Abs. 2 BGB
    Dies ergibt sich aus [Mandantenvortrag + ggf. Zeuge].
    (BGH VI ZR 260/93)
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Beweislast und Darlegungslast
 

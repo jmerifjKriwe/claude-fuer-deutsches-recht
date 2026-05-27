@@ -15,6 +15,7 @@ description: "Wohnungseigentuemer will Beschluss der Eigentuemerversammlung anfe
 6. Was konkret verletzt ordnungsgemäße Verwaltung § 19 WEG — Ladungsmangel, Quorum, falsche Mehrheit, inhaltliche Unverhältnismäßigkeit?
 7. Soll neben Anfechtung eine Beschlussersetzungsklage erhoben werden (§ 44 Abs. 1 Satz 2 WEG bei Pflicht zur Beschlussfassung)?
 8. Liegt ein wirtschaftliches Interesse des Klägers vor — Streitwert nach § 49 GKG?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -55,6 +56,20 @@ description: "Wohnungseigentuemer will Beschluss der Eigentuemerversammlung anfe
 | 10 | Stimmrechtsmissbrauch | § 25 WEG | Stimmverbot § 25 Abs. 4 WEG? Stimmrechtsmissbrauch? |
 | 11 | Beschlussersetzungsklage | § 44 Abs. 1 Satz 2 WEG | Pflichtige Maßnahme wurde abgelehnt? |
 | 12 | Streitwert | § 49 GKG | Gesamtinteresse; max. Fünffaches Klägerinteresse |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — WEG-Beschlussanfechtung allgemein | Anfechtungsklage; Template unten |
+| Variante A — Umlaufbeschluss | Formerfordernisse § 23 Abs. 3 WEG; schriftliche Zustimmung aller |
+| Variante B — Vollzug des Beschlusses droht | Eilantrag auf Vollzugsstopp; einstweilige Verfuegung |
+| Variante C — Dauerhafter Streit in WEG | Mediation erwaegen; sonst Eskalation durch weitere Anfechtungen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -146,6 +161,11 @@ nichtig festzustellen.
 
 [Unterschrift]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Beweislast und Darlegungslast
 

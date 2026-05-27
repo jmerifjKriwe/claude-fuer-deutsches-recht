@@ -15,6 +15,7 @@ description: "Vermieter will Mietverhaeltnis kuendigen oder Mieter erhaelt Kuend
 6. Wie lange wohnt die Mieterseite — Mietdauer entscheidend für Kündigungsfristen § 573c BGB?
 7. Sind Härtegründe iSv § 574 BGB erkennbar — hohes Alter, schwere Krankheit, fehlender Ersatzwohnraum?
 8. Liegt ein Zeitmietvertrag vor — § 575 BGB Voraussetzungen erfüllt?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -69,6 +70,20 @@ description: "Vermieter will Mietverhaeltnis kuendigen oder Mieter erhaelt Kuend
 | 8 | Kündigungsfristen | § 573c BGB | Zugang rechtzeitig? Frist nach Mietdauer? |
 | 9 | Schonfristzahlung | § 569 Abs. 3 BGB | Bei Räumungsklage: Zwei-Monats-Frist für Nachzahlung? |
 | 10 | Härtegründe | §§ 574 ff. BGB | Widerspruch schriftlich, rechtzeitig? Härteabwägung? |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Mietkuendigung (Eigenbedarf/Zahlungsverzug) | Kuendigungsschreiben; Template unten |
+| Variante A — Mieter widerspricht wegen Haertefall | §§ 574 ff. BGB Sozialklausel; Verlaengerung verhandeln |
+| Variante B — Mieter zahlt nicht mehr | Fristlose Kuendigung § 543 BGB + ordentliche parallel |
+| Variante C — Eigenbedarf nur vorgetaeuscht | Schadensersatz Mieter; Strafanzeige Betrug pruefen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -131,6 +146,11 @@ dadurch nicht berührt (BGH VIII ZR 91/20).
 
 [Unterschrift]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Beweislast und Darlegungslast
 

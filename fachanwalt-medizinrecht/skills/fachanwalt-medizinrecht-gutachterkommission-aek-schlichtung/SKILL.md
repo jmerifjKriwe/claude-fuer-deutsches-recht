@@ -69,6 +69,8 @@ Arzthaftungs-Streit hat einen eigenen ADR-Pfad: **Gutachterkommissionen und Schl
 
 ## Workflow
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 ### Phase 1 — Beweissicherung
 
 - Patientenakten-Anforderung § 630g BGB
@@ -165,6 +167,7 @@ Bevor losgelegt wird, kläre:
 - Grober Fehler evident → Nach Schlichtungsgutachten direkter Vergleich anstreben
 - Ungeklärter Sachverhalt → Schlichtungsverfahren für kostenloses SV-Gutachten nutzen
 - Versicherer verweigert Kooperation → LG-Klage; gerichtliches SV-Gutachten
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Schritt-für-Schritt-Workflow
 
@@ -175,6 +178,20 @@ Bevor losgelegt wird, kläre:
 5. **Schlichtungsgutachten abwarten** — 6–18 Monate; Verhandlungen in der Zwischenzeit hemmen Verjährung (§ 203 BGB).
 6. **Versichererverhandlung nach positivem Gutachten** — Schmerzensgeld nach Tabellen; materielle Schäden aufaddieren.
 7. **Bei negativem Gutachten** — Privatgutachten für LG-Klage; gerichtlicher Sachverständiger als Gegengewicht.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Gutachterkommission / AEK-Schlichtung einleiten | Schlichtungsantrag; Template unten |
+| Variante A — Mandant will direkten Klageweg | Klage ohne vorherige Schlichtung; laengerer Weg aber kein Zwang |
+| Variante B — Schlichtungsstelle abgelehnt | Klage zum LG; Gutachten aus AEK-Verfahren verwertbar |
+| Variante C — Mehrere Schadensereignisse | Konsolidierung oder separate Antraege abwaegen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Output-Template Schlichtungsantrag
 
@@ -204,3 +221,8 @@ Materieller Schaden: EUR ____
 
 Anlagen: Patientenakte, Privatgutachten (falls vorhanden), Vollmacht
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

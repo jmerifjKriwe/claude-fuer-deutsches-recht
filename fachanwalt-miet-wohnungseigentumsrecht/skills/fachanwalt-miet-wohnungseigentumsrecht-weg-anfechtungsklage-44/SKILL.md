@@ -15,6 +15,7 @@ description: "WEG-Anfechtungsklage § 44 WEG Beschluss-Anfechtung Monatsfrist Kl
 6. Liegt Nichtigkeit nahe (Beschlusskompetenz fehlt, zwingendes Recht verletzt) — zeitlich unbegrenzte Feststellungsklage?
 7. Streitwert § 49 GKG — Gesamtinteresse aller Eigentümer geschätzt?
 8. Verwalter — wer vertritt die GdWE; liegt Interessenkonflikt des Verwalters vor?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -57,6 +58,20 @@ description: "WEG-Anfechtungsklage § 44 WEG Beschluss-Anfechtung Monatsfrist Kl
 | 10 | Stimmrecht | § 25 WEG | Kopfprinzip eingehalten? Stimmverbot beachtet? |
 | 11 | Beschlussersetzungsklage | § 44 Abs. 1 Satz 2 WEG | Pflichtmaßnahme abgelehnt? |
 | 12 | Streitwert | § 49 GKG | Gesamtinteresse; Kappung |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — WEG-Beschlussanfechtungsklage § 44 WEG | Klageschrift; Template unten |
+| Variante A — Mandant will Beschluss aufrechterhalten | Verteidigungsstrategie; keine eigene Klage |
+| Variante B — Formfehler statt Inhaltsfehler | Kassation durch Formfehler leichter; Hauptantrag Formfehler |
+| Variante C — Mehrheitseigentuemer blockiert | Minderheitenschutz WEG pruefen; einstweilige Verfuegung |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -138,6 +153,11 @@ II. Begründetheit
 
 [Unterschrift]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Beweislast und Darlegungslast
 

@@ -15,6 +15,7 @@ description: "Nachtragsforderungen des Unternehmers nach § 650b BGB anmelden: M
 6. Wurde Behinderungsanzeige nach § 6 Abs. 1 VOB/B / analog § 642 BGB rechtzeitig gestellt?
 7. Gibt es Kalkulationsunterlagen aus dem Ursprungsangebot für die Kostenbasis nach § 2 Abs. 5 VOB/B?
 8. Besteht Eilbedürftigkeit — drohende Insolvenz Auftraggeber, Fertigstellungstermin überschritten, Subunternehmer unter Zeitdruck?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -46,6 +47,9 @@ description: "Nachtragsforderungen des Unternehmers nach § 650b BGB anmelden: M
 | OLG München | 28 U 2174/20 | 15.09.2021 | 80-Prozent-Abrechnungsrecht § 650c Abs. 3 BGB: Schätzung des AN ist vorläufig; endgültige Abrechnung nach Abnahme |
 
 ## Prüfschema — Nachtragsanspruch im Überblick
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 
 | Schritt | Prüfpunkt | Norm | Folge |
 |---------|-----------|------|-------|
@@ -190,6 +194,19 @@ GESAMTBRUTTO:             EUR [Summe]
 
 **Besonderheit:** § 650d BGB schließt für Baurechtsstreitigkeiten den Verfügungsgrund der Dringlichkeit nicht aus — eigene Tatbestandsvoraussetzungen.
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Nachtragsanspruch nach § 650b BGB oder VOB/B geltend machen | Fuenfstufiges Schema; Bausteine unten |
+| Variante A — Auftraggeber bestreitet Anordnung | 80-Prozent-Abrechnungsrecht § 650c Abs. 3 BGB nutzen |
+| Variante B — Streit ueber Vergaetungshoehe | Kalkulations-Methode OffMat-Vergleich; Gerichtsgutachten antizipieren |
+| Variante C — eilige Bauzeitverlaengerung noetig | Gerichtlicher Eilantrag § 650d BGB; kurzfristig stellen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Schriftsatz-Bausteine
 
 ### Behinderungsanzeige § 6 Abs. 1 VOB/B
@@ -264,6 +281,12 @@ die 80-Prozent-Abrechnung nach § 650c Abs. 3 BGB vor.
 
 [Unterschrift Auftragnehmer]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 

@@ -13,6 +13,7 @@ description: "Anwaltliche Klageschrift Kuendigungsschutzklage: Klageschrift mit 
 4. Formfehler vorhanden? (§ 623 BGB; § 174 BGB; § 102 BetrVG)
 5. Welcher Haupt-Angriffspunkt? (Formfehler / KSchG-Anwendbarkeit / materieller Grund)
 6. Weiterbeschäftigungsantrag stellen? (nur wenn Mandant tatsächlich zurück will)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -52,6 +53,19 @@ Vor Einreichung sicherstellen:
 - [ ] Formfehler geprüft (§§ 623 BGB, 174 BGB, 102 BetrVG)
 - [ ] Mandant über Kostenrisiko belehrt (§ 12a ArbGG: kein Kostenerstattungsanspruch erste Instanz)
 - [ ] Vollmacht vorliegen
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Kuendigungsschutzklage fachgerecht erheben | Klageschrift-Muster unten; Drei-Wochen-Frist absolut einhalten |
+| Variante A — Mandant will Abfindung nicht Weiterbeschaeftigung | Aufloeungsantrag § 9 KSchG einbeziehen; kooperativen Schlussabsatz nutzen |
+| Variante B — starke Unwirksamkeitsgruende (BR-Fehler) | Auf guten Vergleich hinarbeiten statt streitigem Verfahren |
+| Variante C — Betriebsrat nicht beteiligt | Unwirksamkeit fast sicher; Klage als Verhandlungsmasse einsetzen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Klageschrift-Muster (Vollform)
 
@@ -149,5 +163,11 @@ Rechtsanwältin/Rechtsanwalt
 - [ ] K 6: Abmahnungen (bei verhaltensbedingter Kündigung)
 
 ---
+
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.

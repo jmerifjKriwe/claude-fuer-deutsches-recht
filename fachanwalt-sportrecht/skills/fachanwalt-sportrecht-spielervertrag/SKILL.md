@@ -17,6 +17,7 @@ description: "Profi-Spielervertrag als befristeter Arbeitsvertrag pruefen. Sachg
 8. Gilt die Drei-Wochen-Klagefrist § 17 TzBfG für eine Befristungskontrollklage?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -67,6 +68,20 @@ description: "Profi-Spielervertrag als befristeter Arbeitsvertrag pruefen. Sachg
 | 14 | Vertragsfolgen einer Dopingsperre auf Spielervertrag prüfen | Vertragsklauseln; AntiDopG |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Spielervertrag pruefen und verhandeln | Vertragsbewertung; Template unten |
+| Variante A — Vorzeitige Aufhebung | Abloesesumme vs. ausserordentliche Kuendigung abwaegen |
+| Variante B — Vertragsstrafe wegen Vertragsbruch | Vertragsstrafe pruefen; § 343 BGB-Herabsetzung |
+| Variante C — Image-/Sponsorenrechte streitig | IP-Recht-Aspekte; Skill urheber-medienrecht einbeziehen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -184,6 +199,11 @@ Wir beantragen Prozesskostenhilfe.
 Mit freundlichen Grüßen
 [Rechtsanwalt/-anwältin]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

@@ -13,6 +13,7 @@ description: "Holding-Strukturplanung: § 8b KStG Schachtelprivileg (95 % steuer
 6. Gibt es Auslandsbezug (Gesellschafter wohnt im Ausland, geplanter Wegzug — § 6 AStG Wegzugsbesteuerung)?
 7. Sind pflichtteilsrelevante Schenkungen geplant (§ 2325 BGB 10-Jahres-Frist)?
 8. Soll eine Familienstiftung als oberste Ebene eingesetzt werden (Pflichtteils- und Erbschaftsteuervorteile)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -94,6 +95,9 @@ Aufschub; Zinseffekt auf EUR 2.258.000 über 5–10 Jahre
 
 ## Prüfschema Holding-Aufbau
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
 | 1 | Zeitreihenfolge: Holding VOR operativer GmbH? | § 8b KStG; Umwandlungsrecht | Nachträgliche Holding: Einbringungsaufwand und ggf. Sperrfrist |
@@ -104,6 +108,19 @@ Aufschub; Zinseffekt auf EUR 2.258.000 über 5–10 Jahre
 | 6 | Pflichtteilsrelevante Schenkungen? | § 2325 BGB | 10-Jahres-Frist läuft; Nießbrauchsvorbehalt stoppt Frist nicht |
 | 7 | Familienstiftung als oberste Ebene? | §§ 80 ff. BGB; § 58 KStG | Pflichtteils-Schutz; Erbschaftsteuerpflicht Stiftungsgründung beachten |
 | 8 | GmbH-Gründungsaufwand und laufende Pflichten? | GmbHG; HGB | Bilanzierungspflicht; Offenlegung; Jahresabschluss Holding |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Holding-Struktur planen | Struktur-Varianten-Vergleich; Anteilsuebertragungsvertrag unten |
+| Variante A — Exit-Optimierung im Vordergrund | § 8b KStG-Vorteil berechnen; Holding prioritaer empfehlen |
+| Variante B — Haftungsschutz vorrangig | Operative Risiken in Tochter-GmbH halten; Holding schirmt ab |
+| Variante C — Erbschaft / Unternehmensnachfolge | Familienpool-Holding und Niesbrauchsvorbehalt pruefen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatz-Bausteine
 
@@ -180,6 +197,12 @@ Kosten ca.:
 - Steuerberater Strukturberatung: EUR 3.000–15.000 je Komplexität
 - Anwaltshonorar: EUR 5.000–30.000 je Komplexität
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast / Steuerliche Dokumentation
 

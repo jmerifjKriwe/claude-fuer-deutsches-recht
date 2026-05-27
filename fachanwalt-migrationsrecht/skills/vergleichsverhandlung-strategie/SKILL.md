@@ -55,6 +55,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 - Abschluss aktiv herbeifuehren ("Sind wir bei 47.500 dann durch?").
 - Schweige-Pausen aushalten.
 - Nachverhandlungs-Versuche der Gegenseite ("ein letztes Detail noch") freundlich, aber bestimmt zurueckweisen, wenn Substanz steht.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Vergleichsentwurf - Pflichtbestandteile
 
@@ -188,6 +189,20 @@ Bevor losgelegt wird, klaere:
 4. Ist ein Prozessvergleich § 106 VwGO angestrebt (Vollstreckungstitel) oder aussergerichtliche Vereinbarung?
 5. Besteht Bereitschaft der Auslaenderbehoerde zu Gespraechen (Verhalten bisher)?
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Vergleichsverhandlung Migrationsrecht | Verstaendigungsvorschlag; Template unten |
+| Variante A — Behoerde will keinen Vergleich | Klage unvermeidbar; Template nicht einsetzbar |
+| Variante B — Mandant will maximale Rechtssicherheit | Formeller Bescheid statt Vergleich bevorzugen |
+| Variante C — Mehrere Familienmitglieder betroffen | Sammelvergleich oder gebuendelte Einzelverfahren abwaegen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Output-Template: Verstaendigungsvorschlag Migrationsrecht
 
 **Adressat:** Auslaenderbehoerde [ORT]
@@ -235,3 +250,8 @@ Prozessvergleich § 106 VwGO vor.
 [KANZLEI], [ORT], [DATUM]
 [RA-NAME]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

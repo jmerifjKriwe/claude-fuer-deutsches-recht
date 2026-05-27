@@ -13,6 +13,7 @@ description: "Handelsvertreterausgleich § 89b HGB: drei kumulative Voraussetzun
 6. Liegt ein Ausschlussgrund vor — Eigenkündigung ohne wichtigen Grund, Kündigung des Unternehmers aus schuldhaftem Verhalten des Handelsvertreters, Übernahme durch Dritten mit Vereinbarung?
 7. Handelt es sich ggf. um einen Vertragshändler oder Franchisenehmer (analoge Anwendung § 89b HGB)?
 8. Welche Sogwirkung hat die Marke des Unternehmers gehabt — stark oder schwach — relevant für Billigkeitskorrektur?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -80,6 +81,9 @@ Ausgleichsanspruch:                       EUR  60.000 zzgl. 19 % USt
 
 ## Prüfschema § 89b HGB
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
 | 1 | Handelsvertretervertrag i. S. §§ 84 ff. HGB? | § 84 HGB | Analoge Anwendung bei Vertragshändler/Franchisenehmer prüfen |
@@ -91,6 +95,19 @@ Ausgleichsanspruch:                       EUR  60.000 zzgl. 19 % USt
 | 7 | Höchstgrenze § 89b Abs. 2 HGB? | § 89b Abs. 2 HGB | Durchschnitt letzte 5 Jahre; kürzer = Gesamtdurchschnitt |
 | 8 | Ausschlussgründe § 89b Abs. 3 HGB? | § 89b Abs. 3 HGB | Eigenkündigung ohne wichtigen Grund schließt Anspruch aus |
 | 9 | Jahresfrist § 89b Abs. 4 S. 2 HGB eingehalten? | § 89b Abs. 4 HGB | Versäumnis = Anspruchsverlust (materiell-rechtliche Ausschlussfrist) |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Handelsvertreterausgleich § 89b HGB berechnen und fordern | Muenchener Modell-Berechnung; Schriftsatzbausteine unten |
+| Variante A — Ausgleich offensichtlich gering | Aussergerichtliche Geltendmachung; Klage bei Verweigerung |
+| Variante B — Unternehmer behauptet Ausschlussgruende | Ausschlussgruende § 89b Abs. 3 HGB gegenprueefen |
+| Variante C — Verjährung Jahresfrist laeuft ab | Geltendmachung unverzueglich; Frist § 89b Abs. 4 HGB wahren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatz-Bausteine
 
@@ -187,6 +204,12 @@ Schreiben vom [Datum] (Anlage K 6) wahrt die Jahresfrist.
 
 [Kanzlei, Fachanwalt/Fachanwältin für Handels- und Gesellschaftsrecht]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 

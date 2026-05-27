@@ -19,6 +19,7 @@ Das Gesetz über den Stabilisierungs- und Restrukturierungsrahmen für Unternehm
 6. Ist eine Distressed-M&A-Transaktion geplant — Insolvenzplan mit übertragendem Restrukturierungsträger oder Unternehmensverkauf aus der Insolvenz?
 7. Welche Sicherheiten (Grundpfandrechte, Pfandrechte, Sicherungsübereignung) bestehen, und wie wirken sie auf die Klassenbildung?
 8. Welcher Zeitplan ist für den Plan realistisch — Abstimmungstermin, Gerichtsbestätigung, Vollzug?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -49,6 +50,9 @@ Das Gesetz über den Stabilisierungs- und Restrukturierungsrahmen für Unternehm
 | BFH | VII R 15/20 | 07.09.2021 | Steuerverbindlichkeiten im Insolvenzplan: Finanzamt muss plangemäßer Schuldbefreiung zustimmen, wenn Gleichbehandlungsgebot gewahrt ist |
 
 ## Prüfschema
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -99,6 +103,19 @@ Das Gesetz über den Stabilisierungs- und Restrukturierungsrahmen für Unternehm
 | Antragspflicht war schon früher fällig | Nachweis, dass drohende Zahlungsunfähigkeit erst zu einem späteren Zeitpunkt erkennbar war; Dokumentation der Prognosen |
 | StaRUG greift in Eigentumsrechte ein | Art. 14 GG: Eingriff gerechtfertigt, wenn Schlechterstellungsverbot gewahrt und Sanierungsziel legitim |
 | Distressed-M&A-Käufer ist Insolvenzverschlepper | Verkauf aus dem Plan / aus der Eigenverwaltung ist gesetzlich vorgesehen; Anfechtungsrisiko durch korrekte Verfahrensgestaltung minimieren |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — StaRUG-Anzeige oder Insolvenzplan vorbereiten | Schriftsatzbausteine unten nach Baustein 1-3 |
+| Variante A — Schuldner bevorzugt aussergerichtliche Loesung | StaRUG-Anzeige und stiller Restrukturierungsrahmen pruefen |
+| Variante B — Glaeubigerwiderstands hoch | Planbestaetigungsverfahren mit Cram-down § 26 StaRUG erwaegen |
+| Variante C — Insolvenz unvermeidbar | Direkter Weg in regulaere Insolvenz; StaRUG nicht mehr sinnvoll |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatzbausteine
 
@@ -189,6 +206,12 @@ EUR [Betrag].
 Wir beantragen: Die Bestätigung des Plans ist zu versagen; hilfsweise ist dem Gläubiger
 ein Ausgleich in Höhe von EUR [Betrag] gemäß § 64 Abs. 3 StaRUG zuzusprechen.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Streitwert und Kosten
 

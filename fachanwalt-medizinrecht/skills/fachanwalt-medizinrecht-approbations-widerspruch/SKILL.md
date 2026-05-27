@@ -201,6 +201,21 @@ Bevor losgelegt wird, kläre:
 - Strafverfahren noch offen → Strafverteidigung optimieren; Widerrufsverfahren verzögern
 - Suchterkrankung → Therapieprogramm + Gutachten; Ruhen beantragen
 - Bewährung dokumentiert → Wiedererteilungsantrag; Gutachten + Schrittweiser Wiedereinstieg
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Approbations-Widerspruch | Widerspruchsschreiben; Template unten |
+| Variante A — Sofortige Vollziehung angeordnet | Eilantrag VG § 80 Abs. 5 VwGO parallel zum Widerspruch |
+| Variante B — Nachbesserung moeglich | Einstweilige Einigung mit Behoerde statt Formwiderspruch |
+| Variante C — Strafverfahren laufend | Koordination Strafrecht und Berufsrecht; Aussageverweigerung pruefen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Output-Template Eilantrag § 80 Abs. 5 VwGO
 
@@ -230,3 +245,8 @@ Gefaehrdungsrisiko fuer Patienten nachgewiesen.
 
 Anlagen: Widerrufsbescheid, Vollmacht, Therapienachweise
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

@@ -12,6 +12,7 @@ description: "Einstellung im Strafbefehlsverfahren: § 153 StPO (Geringfuegigkei
 3. **Was ist das Ziel?** — Kein BZR-Eintrag (§ 153 optimalst), kein Verfahren (§ 153a mit Geldauflage), oder Freispruch nach vollstaendiger Verteidigung.
 4. **Ist Zustimmung der Staatsanwaltschaft realistisch?** — Informelle Sondierung vor foermlichem Antrag.
 5. **Liegt hinreichender Tatverdacht vor?** — Falls Beweislage duenn: § 170 Abs. 2 StPO beantragen.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -47,12 +48,29 @@ description: "Einstellung im Strafbefehlsverfahren: § 153 StPO (Geringfuegigkei
 
 ## Schritt-fuer-Schritt-Workflow
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. **Sachverhalt qualifizieren:** Delikt-Schwere, Schadenshoehe, Vorleben — passe Antrag an passende Norm an.
 2. **Informelle Sondierung bei Staatsanwaltschaft:** Telefonat oder E-Mail — ist Einstellung grundsaetzlich moeglich?
 3. **Foermlichen Antrag stellen** mit Begründung und Anlage (Einkommensnachweise, Spendenbereitschaft, Schadenswiedergutmachungsnachweis).
 4. **Zustimmungserfordernisse beachten:** § 153 Abs. 1 StPO: StA und Gericht; § 153a StPO: StA und Gericht und Beschuldigter.
 5. **Bei § 153a:** Auflage-Erfuellungsfrist beachten; Zahlungsbeleg und Quittung sichern; Abschlussbestaetigung von Staatsanwaltschaft anfordern.
 6. **Bei Ablehnung:** Wiederholung des Antrags in der Hauptverhandlung moeglich.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Einstellung nach § 153a StPO oder Einstellungsantrag | Einstellungsantrag nach Schema; Template unten |
+| Variante A — Mandant will Freispruch nicht bloss Einstellung | Vollstaendige Verteidigung; Einstellung nur als Hilfsantrag |
+| Variante B — Auflage nach § 153a ZPO zu hoch verhandelbar | Auflagenverhandlung vor Annahme; Reduzierung anstreben |
+| Variante C — Einstellung wuerde Vorstrafeneintrag vermeiden | Einstellung § 153 ohne Auflage anstreben; § 153a als Rueckfall |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Output-Template § 153a-Antrag
 
@@ -79,6 +97,18 @@ bis [DATUM].
 
 Mit freundlichen Gruessen [KANZLEI]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Harte Leitplanken
 

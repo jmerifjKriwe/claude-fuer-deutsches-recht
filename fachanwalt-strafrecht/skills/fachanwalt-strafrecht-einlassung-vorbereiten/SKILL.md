@@ -12,6 +12,7 @@ description: "Schriftliche Einlassung des Beschuldigten vorbereiten oder Schweig
 3. Bestehen Widersprüche zwischen Aktenlage und Mandantenversion? Welche Lücken sind aufklärungsbedürftig?
 4. Gibt es entlastende Beweismittel — Zeugen, Alibis, Standortdaten, Quittungen — die noch nicht bei der Behörde liegen?
 5. Soll die Einlassung schriftlich (klassischer Verteidigerweg) oder mündlich in der Vernehmung erfolgen? Bei welcher Stelle Polizei, StA, Ermittlungsrichter, Hauptverhandlung?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Grundlagen
 
@@ -38,6 +39,20 @@ Standardliteratur: Meyer-Goßner/Schmitt StPO § 136 § 243; Beck'sches Strafver
 | Geständnisreife Sachlage, geringes Strafmaß | Schriftliche Einlassung mit Reue, Schadenswiedergutmachung § 46a StGB |
 | Notwehrlage, Rechtfertigungsgrund | Einlassung essenziell — sonst Notwehr nicht erkennbar |
 | Identitätsfrage Täterschaft | Schweigen, Alibi gesondert vortragen |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Einlassung schriftlich vorbereiten | Einlassungsschreiben; Template unten |
+| Variante A — Mandant schweigt komplett | Keine schriftliche Einlassung; muendliche Einlassung in HV erwaegen |
+| Variante B — Teilgestaendnis strategisch sinnvoll | Absprache nach § 257c StPO pruefen; Strafrabatt |
+| Variante C — Kronzeuge / Verstaendigungsweg | § 46b StGB; Strafmilderung durch Aufklaerungshilfe |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schreibvorlage schriftliche Einlassung
 
@@ -82,6 +97,11 @@ schriftlich ueber den Verteidiger zu stellen.
 
 Mit kollegialen Gruessen
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Übergabe
 

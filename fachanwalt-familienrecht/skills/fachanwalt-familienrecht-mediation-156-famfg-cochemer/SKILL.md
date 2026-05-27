@@ -13,6 +13,7 @@ description: "Familienrechtliche Mediation nach § 156 FamFG und Cochemer Modell
 6. Wie alt sind die betroffenen Kinder, und wurde ein Verfahrensbeistand nach § 158 FamFG bestellt?
 7. Welche finanziellen Rahmenbedingungen gelten — Prozesskostenhilfe, Scheidungskosten bereits beziffert?
 8. Wurden Vereinbarungen bisher mündlich getroffen, und ist die Gegenseite grundsätzlich einigungsbereit?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -71,6 +72,9 @@ description: "Familienrechtliche Mediation nach § 156 FamFG und Cochemer Modell
 
 ## Prüfschema § 156 FamFG
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
 | 1 | Kindschaftssache anhängig? (Sorge, Umgang, Kindesherausgabe) | § 151 FamFG | Anwendungsbereich eröffnet |
@@ -92,6 +96,19 @@ description: "Familienrechtliche Mediation nach § 156 FamFG und Cochemer Modell
 | 4 | Anhörungstermin durchgeführt? | § 165 Abs. 3 FamFG | Beide Eltern persönlich geladen; Ordnungsgeld bei Nichterscheinen |
 | 5 | Einigung im Vermittlungsverfahren? | § 165 Abs. 4 FamFG | Protokollierung als Vergleich |
 | 6 | Kein Erfolg? | § 165 Abs. 5 FamFG | Rückmeldung an Gericht; Ordnungsmittelverfahren nach § 89 FamFG |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Familienrechtliche Mediation oder Cochemer Modell | Schriftsatzbausteine unten; Antraegeauswahl nach Konstellation |
+| Variante A — beide Seiten kooperativ | Direktes Mediationsverfahren ohne Gerichtsantrag |
+| Variante B — eine Seite blockiert | Gerichtlicher Vermittlungsantrag § 165 FamFG als Druckmittel |
+| Variante C — Kindeswohl gefaehrdet | Cochemer Modell nicht ausreichend; Kinderschutzverfahren erwaegen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatz-Bausteine
 
@@ -184,6 +201,12 @@ Interessenvertretung des Kindes erforderlich. Die Qualifikationsanforderungen na
 [Ort, Datum]
 Rechtsanwalt/Rechtsanwältin [Name]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 

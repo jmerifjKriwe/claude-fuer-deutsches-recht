@@ -15,6 +15,7 @@ description: "Abnahme des Bauwerks unter Vorbehalt von Maengeln erklaeren: Maeng
 6. Besteht Streit über Abnahmefähigkeit — verweigert der Besteller Abnahme wegen behaupteter wesentlicher Mängel?
 7. Wie hoch ist der Werklohn, der mit Abnahme fällig wird? Gibt es offene Abschlagsrechnungen?
 8. Soll Einbehalt nach § 641 Abs. 3 BGB (doppelter Mängelbeseitigungsaufwand) ausgeübt werden?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -45,6 +46,9 @@ description: "Abnahme des Bauwerks unter Vorbehalt von Maengeln erklaeren: Maeng
 | OLG Stuttgart | 10 U 58/20 | 18.11.2021 | Teilabnahme § 640 Abs. 1 Satz 2 BGB: eigenständige Wirkungen; Verjährung läuft für Teilwerk separat |
 
 ## Prüfschema — Abnahme und ihre Rechtswirkungen
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 
 | Schritt | Prüfpunkt | Norm | Folge |
 |---------|-----------|------|-------|
@@ -118,6 +122,19 @@ description: "Abnahme des Bauwerks unter Vorbehalt von Maengeln erklaeren: Maeng
 | Gefahrübergang | § 644 BGB | Zufallsschäden (Brand, Sturm) nach Abnahme trägt Auftraggeber |
 | Verlust Mangelansprüche | § 640 Abs. 3 BGB | Für bei Abnahme bekannte Mängel ohne Vorbehalt |
 | Vertragsstrafenrecht | § 341 Abs. 3 BGB | Ohne Vorbehalt bei Abnahme: Verlust Vertragsstrafenrecht |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Abnahme mit Maengelvorbehalten erklaeren | Abnahmeprotokoll-Vorlage und Fristsetzung unten |
+| Variante A — Abnahme soll ganz verweigert werden (wesentliche Maengel) | Abnahme-Verweigerungsschreiben; Template weiter unten nutzen |
+| Variante B — fiktive Abnahme bereits eingetreten | Fiktionswirkung pruefen § 640 Abs. 2 BGB; Vorbehalt nachholen wenn moeglich |
+| Variante C — Auftraggeber will Preis einbehalten | Maengeleinbehalt und Vorbehalts-Erklaerung kombinieren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatz-Bausteine
 
@@ -237,6 +254,12 @@ wesentlichen Mängel möglich.
 
 [Auftraggeber]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 

@@ -15,6 +15,7 @@ Vor der Anmeldungsvorbereitung klaeren:
 4. **Notar beauftragt?** § 12 HGB: oeffentliche Beglaubigung erforderlich; Notar uebermittelt elektronisch (§ 12 Abs. 2 HGB). Ist der Notar bereits beauftragt?
 5. **Mehrfache Aenderungen gleichzeitig?** Mehrere Aenderungen koennen in einer Anmeldung zusammengefasst werden; Voraussetzungen fuer jede Aenderung separat pruefen.
 6. **§ 15 HGB-Risiko waehrend Wartezeit?** Wer vertritt die Gesellschaft bis zur Eintragung des neuen GF? Uebergangsregelungen (Vollmachten) treffen.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zweck
 
@@ -97,6 +98,9 @@ werden kann.
 
 ## Ablauf
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. **Sachverhalt klären** – Welcher Anmeldungsgegenstand liegt vor? Liegt ein
    neuer Geschäftsführer vor (§ 39 GmbHG), eine Prokura-Änderung (§ 53 HGB),
    eine Satzungsänderung (§ 54 GmbHG i. V. m. § 181 GmbHG) oder eine
@@ -129,11 +133,26 @@ werden kann.
    abrufen (www.handelsregister.de); fehlerhafte Eintragungen unverzüglich
    korrigieren (§ 395 FamFG, Berichtigungsantrag).
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Handelsregisteranmeldung vorbereiten und einreichen | Anmeldung nach Checkliste; Template unten |
+| Variante A — Eilbedarf Eintragung innerhalb Woche noetig | Vorlagenversion pruefen; Notarbeschleunigungs-Option |
+| Variante B — Aenderungsanmeldung nicht Erstanmeldung | Aenderungsanmeldung-Subset des Templates verwenden |
+| Variante C — Anmeldung wird vom Registergericht bemueckelt | Beschwerdeverfahren vorbereiten; Ergaenzung der Unterlagen zuerst |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Ausgabeformat
 
 - **Anmeldungsschreiben** (Schriftsatz): Adressat Amtsgericht — Handelsregister; Bezeichnung der Gesellschaft mit HRB-Nummer; Gegenstand der Aenderung; Rechtsgrundlage; Anlage: notariell beglaubigte Unterschriften.
 - **Checkliste Unterlagen** (Tabelle): Dokument | Erfordernis | Erledigt.
 - **Memo negative Publizitaet** (Gutachtenstil): Risiken aus § 15 HGB bei verzoegerter Anmeldung.
+
 
 ## Output-Template
 
@@ -192,6 +211,19 @@ Mit freundlichen Gruessen
 | Aktueller GV / Satzung | [§ 53 GmbHG] | [JA / ENTFAELLT] |
 | Bekanntmachung vorbereitet | § 10 GmbHG | [JA / ENTFAELLT] |
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
 
 ## Rote Schwellen
 

@@ -13,6 +13,7 @@ description: "Anlagenbetreiber prueft Stoerfallrelevanz betreibt Seveso-III-Anla
 4. Wurden die zustaendige Behoerde und die Oeffentlichkeit informiert (§§ 19, 20 BImSchV)?
 5. Besteht eine Anordnung der Behoerde (§ 17 BImSchG) auf Grundlage Sicherheitsmangel?
 6. Ist Bauleitplanung in der Naehe geplant — Sicherheitsabstandsproblem?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen und Paragrafenkette
 
@@ -41,6 +42,9 @@ description: "Anlagenbetreiber prueft Stoerfallrelevanz betreibt Seveso-III-Anla
 - Landmann/Rohmer Umweltrecht 12. BImSchV §§ 16-20 (Sicherheitsbericht, Stoerfall-Anzeige)
 
 ## Schritt-fuer-Schritt-Workflow
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 ### A) Praeventive Compliance-Pruefung
 
@@ -72,6 +76,20 @@ Stoff in Anhang I 12. BImSchV?
          NEIN → Keine Stoerfall-VO-Pflicht; normale BImSchG-Anforderungen
   NEIN → Keine Stoerfall-Relevanz
 ```
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Stellungnahme nach Storfallmeldung erstellen | Stellungnahme nach Schema; Template unten |
+| Variante A — Stoeranfall noch laufend keine Stellungnahme moeglich | Krisenkommunikation zuerst; Stellungnahme nach Abschluss |
+| Variante B — Stoeranfall ohne Schaden nur formale Meldepflicht | Minimale Meldung; Stellungnahme kurzgefasst |
+| Variante C — Behoerde droht Betriebsuntersagung | Dringlichkeit erhoehen; Stellungnahme mit Massnahmenplan |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Output-Template: Stellungnahme nach Stoerfallanzeige
 
@@ -109,6 +127,18 @@ Wir legen bis zum [DATUM] einen vollstaendigen Untersuchungsbericht vor.
 
 Anlagen: Lageplan, Stofffliessschema, Messprotokoll
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Anlagenpflichtenmatrix (Kurzform)
 

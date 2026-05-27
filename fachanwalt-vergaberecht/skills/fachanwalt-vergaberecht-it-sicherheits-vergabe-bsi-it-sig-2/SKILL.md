@@ -19,6 +19,7 @@ Spezial-Mandat: Öffentlicher Auftraggeber (KRITIS oder NIS2-Einrichtung) vergib
 6. Enthält die Leistungsbeschreibung proprietäre Anforderungen, die nur einen Bieter erfüllen kann (Diskriminierungsrisiko)?
 7. Werden Sub-Prozessoren eingesetzt? Liegen Datenverarbeitungsverträge nach Art. 28 DSGVO vor?
 8. Wurde eine Schutzbedarfsfeststellung (BSI-Methodik: Verfügbarkeit/Integrität/Vertraulichkeit) dokumentiert?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -71,6 +72,20 @@ Spezial-Mandat: Öffentlicher Auftraggeber (KRITIS oder NIS2-Einrichtung) vergib
 | 13 | Mindestverfügbarkeit / SLA dokumentiert? | § 8a BSIG; Leistungsbeschreibung | KRITIS: 99.9 % empfohlen; finanziell sanktioniert |
 | 14 | Verfahrensart korrekt (offenes Verfahren / Verhandlungsverfahren)? | § 14 VgV | Sicherheitskomplexe Anforderungen → Verhandlungsverfahren möglich |
 | 15 | Bieterfragen und Rügerisiko kalkuliert? | §§ 160, 169 GWB | Überzogene Anforderungen → VK-Verfahren |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — IT-Sicherheits-Vergabe BSI IT-Sig-2 | Ruege/NPA IT-Sicherheits-Anforderungen; Template unten |
+| Variante A — BSI-Anforderung sachlich falsch | Sachliche Ruege + technische Stellungnahme |
+| Variante B — Auftraggeber besteht auf BSI-Zertifikat | Nachbesserungsmoeglichkeit pruefen; Zertifizierungs-Timeline |
+| Variante C — Auslaendischer Anbieter betroffen | Gleichwertigkeit-Nachweis Art. 25 RL 2014/24/EU |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -179,6 +194,11 @@ Hiermit ruegeon wir unverzueglich folgende Vergabeverstoeße:
 Mit freundlichen Gruessen
 [Kanzlei]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Beweislast und Darlegungslast
 

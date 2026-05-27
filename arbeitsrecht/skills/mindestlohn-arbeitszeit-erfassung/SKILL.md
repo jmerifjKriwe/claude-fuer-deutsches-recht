@@ -12,6 +12,7 @@ description: "Arbeitnehmer klagt auf Mindestlohn oder Ueberstunden und Arbeitgeb
 3. Welche Branche? (Branchen-Mindestlohn möglicherweise höher als allgemeiner MiLoG-Satz)
 4. Liegt ein Tarifvertrag vor? (Tariflicher Lohn geht vor, MiLoG ist Untergrenze)
 5. Klageziel: Lohnnachzahlung, OWi-Abwehr, System-Einführung?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Anspruchsgrundlagen & Normen
 
@@ -289,6 +290,19 @@ Besteht ein Zeiterfassungssystem?
 - AVE-Erklärung BMAS
 - Branchen-Bindung auch Nicht-Tarif-Mitglieder
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Unterlaufen des Mindestlohns aufdecken | Differenzlohanspruch berechnen und geltend machen; Template unten |
+| Variante A — laufendes Arbeitsverhaeltnis | Zunaechst ausserbetriebliche Geltendmachung; Kuendigungsschutz beachten |
+| Variante B — beendetes Arbeitsverhaeltnis | Direkter Klageweg; Verjährung pruefen (3 Jahre § 195 BGB) |
+| Variante C — systematische Verletzung (mehrere AN) | Sammelklage-Vorbereitung; Zoll einschalten erwaegen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Output-Template: Klageantrag Mindestlohn
 
 **Adressat:** ArbG [ORT] — Tonfall sachlich-juristisch
@@ -353,6 +367,12 @@ ergibt sich folgendes:
 Wir empfehlen folgende Sofortmassnahmen:
 [...]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Verzahnung mit anderen Skills
 

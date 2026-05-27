@@ -19,6 +19,7 @@ Mit der Einführung der E-Rechnungspflicht im B2B-Verkehr (§ 14 UStG n.F. ab 01
 6. Welches Rechnungsformat ist erforderlich — Standard-PDF, XRechnung, ZUGFeRD, EDIFACT?
 7. Wurden die Zeiteinträge vollständig und mit ausreichendem Narrative dokumentiert (GoBD-Anforderung)?
 8. Ist die Rechnungsnummer-Vergabe lückenlos und nicht rückdatiert?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -47,6 +48,9 @@ Mit der Einführung der E-Rechnungspflicht im B2B-Verkehr (§ 14 UStG n.F. ab 01
 | BFH | V R 37/18 | 20.10.2021 | E-Rechnung und Vorsteuerabzug: Pflichtangaben nach § 14 UStG müssen vollständig sein; Heilung fehlender Angaben nur unter engen Voraussetzungen |
 
 ## Prüfschema / Billing-Workflow
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Status |
 |---|---|---|---|
@@ -86,6 +90,20 @@ Mit der Einführung der E-Rechnungspflicht im B2B-Verkehr (§ 14 UStG n.F. ab 01
 | Pflicht öffentlicher Auftraggeber | Seit 2020 | Alternativ akzeptiert |
 | B2B-Pflicht ab 2027 | Ja (CEN EN 16931) | Ja (als Profil EXTENDED oder EN 16931) |
 | Validierungstool | KoSIT Validator | Factur-X-Bibliothek |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — E-Rechnung und GoBD-Anforderungen fuer Mittelstand pruefen | GoBD-Checkliste nach Schema; Template unten |
+| Variante A — Kanzlei noch in Umstellungsphase kein Vollbetrieb | Uebergangs-Checkliste; Fristen und Schritte dokumentieren |
+| Variante B — Mandant nutzt Cloud-Buchhaltung | Cloud-spezifische GoBD-Anforderungen pruefen |
+| Variante C — Steuerpruefung laeuft E-Rechnung als Beweismittel | Beweissicherung der E-Rechnungen pruefen; Zugriff sichern |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -152,6 +170,18 @@ RECHNUNGSBETRAG (brutto): EUR [Z + USt]
 ### Baustein 3 — GoBD-Korrekturrechnung (Storno)
 
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 STORNORECHNUNG / KORREKTURRECHNUNG
 Rechnungsnummer: [STORNO-NR]
 Datum: [TT.MM.JJJJ]

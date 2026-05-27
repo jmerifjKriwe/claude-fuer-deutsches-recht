@@ -15,6 +15,7 @@ Der Zusammenfassungsabsatz bietet dem Leser nach dem Einleitungssatz eine kompak
 2. Welcher Sachverhalt ist unstreitig, welcher wird bestritten?
 3. Hat das Gericht bereits Hinweise nach § 139 ZPO erteilt?
 4. Steht ein Termin unmittelbar bevor?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -54,6 +55,19 @@ Der Zusammenfassungsabsatz bietet dem Leser nach dem Einleitungssatz eine kompak
 - Rechtsbegriffe korrekt verwenden
 - Parteienbezeichnung konsistent (z. B. stets „die Klägerin" oder Kurzname)
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Zusammenfassung fuer Akte oder Uebergabe | Vorlage unten nach acht bis zehn Saetzen |
+| Variante A — Adressat ist Laie (Mandant) | Vereinfachte Sprache; keine Paragrafenverweise |
+| Variante B — sehr fruehes Stadium ohne Entscheidung | Vorlaeufige Zusammenfassung mit Offenhalten des Ausgangs |
+| Variante C — Verfahren laueft noch | Zwischenbericht-Format statt abschliessender Zusammenfassung |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Vorlage
 
 ```
@@ -68,6 +82,12 @@ Derzeit befindet sich das Verfahren im Stadium [aktueller Stand].
 Nächste Verfahrenshandlung ist [Termin / Schriftsatzfrist].
 Rechtlich offen ist die Frage [zentrale Rechtsfrage].
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Besonderheiten nach Verfahrensart
 

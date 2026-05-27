@@ -15,6 +15,7 @@ description: "Krypto-Vermoegenswerte und digitale Wallets im Erbfall sichern und
 6. Hat der Exchange Kenntnis vom Erbfall? Wurden Zugangssperrungen vorgenommen?
 7. Wie hoch ist der Anschaffungswert (relevant für § 23 EStG Spekulationsgewinnsteuer)?
 8. Gibt es Hinweise auf Smart-Contract-gebundene Assets (DeFi Liquidity Pools, Staking-Verträge)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -90,6 +91,9 @@ description: "Krypto-Vermoegenswerte und digitale Wallets im Erbfall sichern und
 
 ## Prüfschema — Nachlassbearbeitung Krypto-Assets
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 | Schritt | Prüfpunkt | Norm | Ergebnis |
 |---------|-----------|------|---------|
 | 1 | Gesamtrechtsnachfolge — alle Assets erfasst? | § 1922 BGB | Vollständigkeitsprüfung |
@@ -132,6 +136,19 @@ Veräußerungserlös (Marktpreis bei Verkauf)
 × Einkommensteuersatz (25 % Abgeltungsteuer + Soli)
 = Steuerschuld
 ```
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Krypto-Nachlass aufklaeren und verwerten | Konstellations-Pruefung A-D; Schriftsatzbausteine unten |
+| Variante A — Seed-Phrase unauffindbar | Professioneller Wallet-Recovery-Dienstleister; einstweilige Sicherung |
+| Variante B — Exchange kooperationsunwillig | § 97 InsO-Anfrage-Analogie; ggf. einstweilige Verfuegung |
+| Variante C — Streit zwischen Miterben | Auseinandersetzungsklage; Verwertungsstrategie-Vermerk als Basis |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatz-Bausteine
 
@@ -194,6 +211,12 @@ nach § 1922 BGB (BGH III ZR 183/17).
 Verfügungsgrund: Dringende Gefahr durch drohende technische
 Irreversibilität bei Verweigerung der Signatur-Mitwirkung.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 

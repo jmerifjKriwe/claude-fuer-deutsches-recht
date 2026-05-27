@@ -12,6 +12,7 @@ description: "Vertragsparteien aus verschiedenen Laendern streiten ueber Vertrag
 3. Liegt eine ausdrückliche oder konkludente Rechtswahl vor und welche Form hat sie?
 4. Wo hat der Erbringer der charakteristischen Leistung seinen gewöhnlichen Aufenthalt?
 5. Liegen Eingriffsnormen (Embargo, Sanktionen, Devisenrecht) am Erfüllungsort vor?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -52,6 +53,20 @@ description: "Vertragsparteien aus verschiedenen Laendern streiten ueber Vertrag
 
 Standardliteratur: MüKo-BGB / Martiny Rom I; Rauscher EuZPR/EuIPR; Calliess Rome Regulations.
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Rechtswahl und Gerichtsstand pruefen | Gutachten Rom I / Bruessel Ia; Template unten |
+| Variante A — Mandant will EU-Gericht vermeiden | Schiedsklausel als Alternative; Skill fachanwalt-internationales-wirtschaftsrecht-schiedsklausel |
+| Variante B — Verbraucher oder Arbeitnehmer beteiligt | Schutzgerichtsstand Art. 17-22 Bruessel Ia zwingend beachten |
+| Variante C — Drittstaaten-Sitz einer Partei | Hague Convention / HAVÜ 2019 pruefen statt Bruessel Ia |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Schreibvorlage Stellungnahme zur Rechtswahl
 
 ```
@@ -77,6 +92,11 @@ anwendbaren Recht Stellung:
 
 Mit freundlichen Gruessen
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Übergabe
 

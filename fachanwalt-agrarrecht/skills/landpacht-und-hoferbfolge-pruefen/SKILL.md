@@ -19,6 +19,7 @@ Zwei zentrale Instrumente des Agrarrechts: Landpachtvertrag und Höfeerbfolge. B
 6. **Wurde Hofübergabe zu Lebzeiten beurkundet?** — Altenteil, Wohnrecht, Leibrente, Rückforderungsklauseln auf Angemessenheit und steuerliche Wirkungen prüfen.
 7. **Sind weichende Erben vorhanden?** — Abfindungsanspruch § 12 HöfeO nach Hofeswert (nicht Verkehrswert); Nachabfindung § 13 HöfeO bei Verkauf innerhalb 20 Jahre.
 8. **Besteht Streit über Pachtzins-Anpassung?** — § 593 BGB: wesentliche Änderung der Verhältnisse; aktuelle LWK-Pachtpreisstatistik als Maßstab.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -69,6 +70,9 @@ Zwei zentrale Instrumente des Agrarrechts: Landpachtvertrag und Höfeerbfolge. B
 
 ## Prüfschema Landpachtvertrag
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 | Schritt | Prüfpunkt | Norm | Rechtsfolge bei Fehler |
 |---|---|---|---|
 | 1 | Schriftform bei Laufzeit > 2 Jahre? | § 585a BGB | Gilt als unbestimmte Zeit |
@@ -91,6 +95,19 @@ Zwei zentrale Instrumente des Agrarrechts: Landpachtvertrag und Höfeerbfolge. B
 | 5 | Nachabfindungs-Frist 20 Jahre bekannt? | § 13 HöfeO | Unerwartete Belastung bei Verkauf |
 | 6 | Hofübergabe notariell beurkundet? | § 17 HöfeO | Formunwirksamkeit |
 | 7 | Altenteil steuerlich bewertet? | §§ 12 ErbStG, 13 BewG | Fehlerhafter ErbSt-Bescheid |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Landpachtvertrag und Hoferbfolge gemeinsam pruefen | Beide Pruefschemas unten; Schriftsatzbausteine |
+| Variante A — nur Landpacht ohne Hoferbfolge | Teil 1 Pruefschema; Schriftsatzbaustein § 593 BGB |
+| Variante B — nur Hoferbfolge ohne laufenden Pachtvertrag | Teil 2 HoeFO-Pruefung; Abfindungsberechnung |
+| Variante C — Verpachter und Erblasser dieselbe Person | Verknuepfung Pachtverhaeltnis und Erbrecht beachten; Sonderkuendigungsrecht pruefen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatzbaustein — Anpassungs-Verlangen § 593 BGB
 
@@ -162,6 +179,12 @@ Hinweis: Ertragswert und Vervielfältiger sind mit aktuell
 zertifiziertem Sachverständigen zu ermitteln; länderspezifische
 Wertermittlungsrichtlinien beachten.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast und Darlegungslast
 

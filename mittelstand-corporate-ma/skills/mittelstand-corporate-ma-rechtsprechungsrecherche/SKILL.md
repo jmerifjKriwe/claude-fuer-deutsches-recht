@@ -35,9 +35,35 @@ Sucht Rechtsprechung und amtliche Quellen für Corporate/M&A, Umwandlung, Organp
 - Datenraum-, DD- und Vertragsfragen mit Q&A, Disclosure und Reporting verknüpfen.
 - Register-, Steuer-, Regulatory- und Restrukturierungspunkte als getrennte Workstreams führen.
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Rechtsprechungsrecherche fuer Mittelstand-M-and-A | Rechercheprotokoll nach Schema; Template unten |
+| Variante A — Mandant will nur Kurzzusammenfassung | Kompaktrecherche drei bis fuenf Entscheidungen |
+| Variante B — Branchenspezifisches Recht noetig | Fachspezifische Recherche; allgemeine M-and-A-Rechtsprechung ergaenzen |
+| Variante C — Nur aktuelle Rechtsprechung letzten 2 Jahre | Zeitlich eingeschraenkte Recherche; keine aelteren Leitentscheidungen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Vorlagen
 
 - assets/templates/rechtsprechungsrecherche-deal.md
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Rechtliche Einbettung und Praxiswissen
 

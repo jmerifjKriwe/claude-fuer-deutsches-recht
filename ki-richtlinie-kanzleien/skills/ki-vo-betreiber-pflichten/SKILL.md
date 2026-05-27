@@ -13,11 +13,28 @@ Art. 3 Nr. 4 KI-VO: „Betreiber" — wer ein KI-System in eigener Verantwortung
 
 ## Vorgehen
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. **Betreiber-Status bestätigen**: Kanzlei nutzt fremden KI-Dienst beruflich → Betreiber nach Art. 3 Nr. 4 KI-VO. Einzelner angestellter Anwalt ist kein Betreiber, wenn die Kanzlei den Account bereitstellt.
 2. **Hochrisiko-Prüfung**: Fällt das eingesetzte KI-System unter Anhang III Nr. 8.a (Justizbehörden)? Nein — Anwaltschaft ist keine staatliche Justizbehörde. Prüfen, ob ggf. Anhang III Nr. 4 (Personalwesen) greift.
 3. **KI-Kompetenz sicherstellen**: Art. 4 KI-VO verlangt kontextspezifische Kompetenz des Personals. Schulungsmaßnahmen dokumentieren (vgl. Skill `ki-kompetenz-erwerb-plan`).
 4. **Kennzeichnungspflicht beurteilen**: Werden öffentliche Informationstexte zu Angelegenheiten von öffentlichem Interesse erzeugt? Falls ja: Kennzeichnungspflicht, es sei denn, redaktionelle Verantwortung eines Menschen liegt vor. Anwalt, der Schriftsatz unterschreibt, hat redaktionelle Verantwortung.
 5. **GPAI-Modelle berücksichtigen**: Chatbots wie Systeme der OpenAI-Familie oder vergleichbare Dienste basieren auf KI-Modellen mit allgemeinem Verwendungszweck (GPAI). Für diese gelten gesonderte Transparenzpflichten der Anbieter.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Betreiberpflichten KI-VO checklisten-artig aufbereiten | Checkliste nach Schema; Template unten |
+| Variante A — Kanzlei ist nicht Betreiber nur Nutzer | Nutzer-Pflichten statt Betreiber-Pflichten pruefen |
+| Variante B — Hochrisiko-KI nach Annex III KI-VO betroffen | Erweiterte Pflichten-Checkliste fuer Hochrisiko-Systeme |
+| Variante C — KI-System noch in Entwicklung kein Einsatz | Planungs-Checkliste; Betreiberpflichten ab Inbetriebnahme |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Vorlagentext / Bausteine
 
@@ -29,6 +46,18 @@ Die in der Kanzlei eingesetzten KI-Systeme zur Unterstützung juristischer Arbei
 
 **Baustein Kennzeichnungspflicht:**
 Eine gesetzliche Pflicht zur Kennzeichnung KI-generierter Inhalte in anwaltlichen Schriftsätzen besteht nach Art. 50 Abs. 4 KI-VO nicht, da Schriftsätze nicht an die „Öffentlichkeit über Angelegenheiten von öffentlichem Interesse" gerichtet sind und der Anwalt durch seine Unterschrift die redaktionelle Verantwortung übernimmt. Bei Kanzlei-Blogs, Pressemitteilungen oder öffentlichen Beiträgen ohne individuelle menschliche Endkontrolle ist eine Kennzeichnung hingegen geboten.
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Hinweise zur Aktualisierung
 
@@ -53,6 +82,7 @@ Die KI-VO wird durch Durchführungsrechtsakte und Leitlinien des Europäischen K
 3. Ist eine menschliche Aufsicht nach Art. 26 Abs. 1 lit. b KI-VO sichergestellt?
 4. Werden Protokolle nach Art. 26 Abs. 1 lit. d KI-VO gefuehrt?
 5. Ist eine FRIA nach Art. 27 KI-VO erforderlich (oeffentliche Stelle oder oeffentlich finanzierter Dienst)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Output-Template — Betreiberpflichten-Checkliste KI-VO
 **Adressat:** Compliance / KI-Beauftragter — Tonfall: checklisten-strukturiert

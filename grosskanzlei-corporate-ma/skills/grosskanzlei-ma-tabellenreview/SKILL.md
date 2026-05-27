@@ -19,6 +19,7 @@ Tabellen, Datenräume und Dokumentenmatrizen in M&A-Transaktionen sind fehleranf
 6. Welche bekannten Problempunkte sollen gezielt geprüft werden (z.B. Change-of-Control-Klauseln, auslaufende Lizenzen)?
 7. Wer erhält den Review-Output — intern, Mandant, Gegenseite, Gericht?
 8. Welches Ausgabeformat ist bevorzugt — Markdown, Excel-Export, Word-Bericht?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -43,6 +44,9 @@ Tabellen, Datenräume und Dokumentenmatrizen in M&A-Transaktionen sind fehleranf
 | OLG München | 23 U 3469/21 | 11.01.2023 | Formelbruch im Excel-Finanzmodell: Käufer kann Kaufpreisminderung verlangen, wenn Fehler für Kaufentscheidung kausal war |
 
 ## Prüfschema / Review-Würfel
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Status |
 |---|---|---|---|
@@ -90,6 +94,20 @@ Tabellen, Datenräume und Dokumentenmatrizen in M&A-Transaktionen sind fehleranf
 | Veralteter Jahresabschluss | Mittel | Stichtag prüfen; ggf. Interim Financials anfordern |
 | Währungsfehler | Niedrig | Einheitliche Währung und Wechselkurs-Stichtag definieren |
 | Change-of-Control übersehen | Mittel | Alle Verträge screenen; CoC-Schlüsselbegriffe als Suchfiler |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Tabellen aus M-and-A-Unterlagen reviewen | Tabellenreview nach Schema; Pruefbericht unten |
+| Variante A — Nur bestimmte Tabellenspalten relevant | Selektive Pruefung der relevanten Spalten |
+| Variante B — Tabellen aus Auslandsrecht andere Formate | Formatkonvertierung zuerst; dann Pruefung nach Schema |
+| Variante C — Eilbedarf Tabelle muss sofort freigegeben werden | Kurzcheck ohne Vollpruefung; Vorbehalt in Freigabe vermerken |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -152,6 +170,18 @@ TODO [Finance-Owner]: Segmentumsatz-Überleitung bis [Datum].
 TODO [Commercial-Owner]: Kundenliste um Intercompany-Position ergänzen.
 Eskalation: Bei Nichtbehebung bis [Datum] → Q&A an Verkäufer.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Streitwert und Kosten
 

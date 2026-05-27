@@ -13,6 +13,7 @@ description: "Krypto-Assets in der Insolvenz Massezugehoerigkeit Aussonderung un
 6. Gibt es steuerliche Hintergründe: Spekulationsgewinne/verluste, Jahresfrist § 23 EStG, BMF-Schreiben 22.11.2024?
 7. Wurden Krypto-Transfers in der Krise vorgenommen, die der Anfechtung (§§ 130 ff. InsO) unterliegen könnten?
 8. Soll eine forensische Blockchain-Analyse (Chainalysis, Elliptic) für die Wallet-Rekonstruktion eingesetzt werden?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -41,6 +42,9 @@ description: "Krypto-Assets in der Insolvenz Massezugehoerigkeit Aussonderung un
 
 ## Prüfschema
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
 | 1 | Massezugehörigkeit: Krypto-Assets des Schuldners zur Masse? Immer ja sofern im Eigentum | § 35 InsO | Masse; Verwalter erhält Verfügungsbefugnis § 80 InsO |
@@ -52,6 +56,19 @@ description: "Krypto-Assets in der Insolvenz Massezugehoerigkeit Aussonderung un
 | 7 | Steuerliche Folgen prüfen: Veräußerungsgewinn/-verlust § 23 EStG; Jahresfrist; BMF-Schreiben | § 23 EStG | Masseverbindlichkeit bei steuerpflichtigem Gewinn § 55 Abs. 1 Nr. 1 InsO |
 | 8 | Anfechtungsprüfung: Krypto-Transfers in Anfecht.-Frist | §§ 130 ff. InsO | Rückgewährpflicht § 143 InsO |
 | 9 | Verwertungsstrategie wählen: Börse, OTC, Auktion, Sachausschüttung | § 159 InsO | Optimale Verwertung für Masse; Berichtspflicht Gläubigerausschuss |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Krypto-Assets in Insolvenz verwerten | Auskunfts-/Zwangsverfahren und Verwertungsstrategievermerk unten |
+| Variante A — Schuldner kooperiert freiwillig | Direktuebertragung Wallet; schnellere Verwertung |
+| Variante B — Kurs-Volatilitaet hoch | Verwertungszeitpunkt strategisch waehlen; Absicherung pruefen |
+| Variante C — Multi-Sig mit Drittbeteiligung | Einstweilige Verfuegung-Baustein unten; Dritter muss kooperieren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatz-Bausteine
 
@@ -129,6 +146,12 @@ IV. Steuerliche Folgen:
    Veräußerung innerhalb 1 Jahresfrist → Masseverbindlichkeit (§ 23 EStG, § 55 InsO)
    Steuerberater [Name] einbinden; Vorauszahlung reservieren.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 

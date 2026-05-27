@@ -64,7 +64,7 @@ Leiturteile: BGH, Urt. v. 14.09.2017 – I ZR 261/15, GRUR 2018, 102 Rn. 18 – 
 - [ ] Keine Schranke (§§ 44a ff. UrhG: Zitat, Karikaturl Parodik)?
 - [ ] Nachweis der Verletzung ausreichend (z. B. Hash-Vergleich bei Filesharing)?
 
-Leiturteil: BGH, Urt. v. 27.07.2017 – I ZR 228/15, GRUR 2018, 178 – „Afterlife"; BGH, Urt. v. 19.03.2015 – I ZR 94/13, GRUR 2015, 987 – „Trassenmiete" (Schutzumfang Lichtbilder).
+Leiturteil: BGH, Urt. v. 27.07.2017 – I ZR 228/15, GRUR 2018, 178 – „Afterlife" (Schutzumfang Lichtbilder).
 
 #### Wettbewerbsrecht (§ 8 UWG)
 

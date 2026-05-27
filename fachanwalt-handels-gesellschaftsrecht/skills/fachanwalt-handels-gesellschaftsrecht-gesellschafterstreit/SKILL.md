@@ -13,6 +13,7 @@ description: "Gesellschafterstreit GmbH und AG: Beschlussanfechtungsklage § 246
 6. Wurde bei der AG Widerspruch zur Niederschrift erklärt (§ 245 Nr. 1 AktG)?
 7. Frist beachtet — AG 4 Wochen § 246 Abs. 1 AktG; GmbH i. d. R. 1 Monat?
 8. Liegt ein wichtiger Grund für Ausschluss eines Mitgesellschafters vor (Treuepflichtverletzung, strafrechtliches Verhalten, Zerrüttung)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -48,6 +49,9 @@ description: "Gesellschafterstreit GmbH und AG: Beschlussanfechtungsklage § 246
 
 ## Prüfschema Beschlussanfechtungsklage GmbH
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
 | 1 | Gesellschafterbeschluss gefasst? | §§ 46 ff. GmbHG | Kein positiver Beschluss = positive Beschlussfeststellungsklage |
@@ -69,6 +73,19 @@ description: "Gesellschafterstreit GmbH und AG: Beschlussanfechtungsklage § 246
 | 4 | Abfindung: Verkehrswert oder Buchwert? | § 34 GmbHG; BGH II ZR 24/14 | Buchwertklausel: nur zulässig wenn kein offensichtliches Missverhältnis |
 | 5 | Einziehungsbeschluss in GV mit erforderlicher Mehrheit? | § 34 GmbHG; Satzung | Einstimmigkeit oder qualifizierte Mehrheit je nach Satzung |
 | 6 | Einstweilige Verfügung auf Amtsniederlegung Geschäftsführer? | §§ 935, 940 ZPO | Gefährdungsnachweis |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Gesellschafterstreit und Beschlussanfechtung | Vollstaendige Anfechtungsklage unten; eAVV als Sicherung |
+| Variante A — Mehrheitsgesellschafter missbraucht Stimmrecht | Treuepflichtverletzung geltend machen; § 242 BGB analog |
+| Variante B — schnelle Loesung gewuenscht | Mediation Gesellschafterstreit erwaegen; Klage als Backup |
+| Variante C — Ausschluss von Gesellschafter angestrebt | Ausschlussklage unten; hohe Huerden beachten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatz-Bausteine
 
@@ -193,6 +210,12 @@ einer evident unangemessenen Unterbewertung führen.
 
 [Kanzlei, Fachanwalt/Fachanwältin]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 

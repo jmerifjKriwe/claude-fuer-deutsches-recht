@@ -19,6 +19,7 @@ Im Mittelstand fehlt häufig ein professionelles CFO-Office oder Treasury. Liqui
 6. Handelt es sich um eine normale DD-Situation oder um einen Krisenfall (drohende Zahlungsunfähigkeit)?
 7. Sollen Kaufpreiskomponenten (Locked Box, Net Debt, Working Capital) in die Vorschau eingebaut werden?
 8. Wer empfängt die Vorschau — interne Nutzung, Hausbank, Käufer-DD, Insolvenzgericht?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -45,6 +46,9 @@ Im Mittelstand fehlt häufig ein professionelles CFO-Office oder Treasury. Liqui
 | OLG Düsseldorf | 6 U 68/19 | 10.12.2020 | Mittelstand: Steuerberater haftet, wenn er Insolvenzreife-Warnsignale aus BWA erkennt und Mandanten nicht hinweist |
 
 ## Prüfschema Liquiditätsvorschau (Mittelstand)
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -92,6 +96,20 @@ Im Mittelstand fehlt häufig ein professionelles CFO-Office oder Treasury. Liqui
 | Steuerberater meldet nur rückblickend | Frühwarnung fehlt | Wöchentliche Liquiditätsabstimmung einrichten |
 | Lohnzahlung auf letztem Kontoauszug | 3-Wochen-Frist für Zahlunsunfähigkeit bereits abgelaufen | Lohntermin immer in Woche 1 einplanen |
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Liquiditaetsvorschau fuer Mittelstand erstellen | Vorschau nach Schema; Schriftsatz unten |
+| Variante A — Kurzfristige Engpaesse 4-Wochen-Vorschau | Kurzfrist-Vorschau als Subset; Kreditlinien pruefen |
+| Variante B — Mandant will Banken Vorschau zeigen | Banken-freundliche Darstellung; Stresstest ergaenzen |
+| Variante C — Saisonales Unternehmen Schwankungen normal | Saisonalitaets-Hinweis in Vorschau einbauen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Schriftsatzbausteine
 
 ### Baustein 1 — 3-Wochen-Vorschau Tabelle (Mittelstand)
@@ -137,6 +155,18 @@ bitten wir Sie, uns unverzüglich telefonisch zu kontaktieren.
 
 [Kanzlei, Datum, Unterschrift]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Streitwert und Kosten
 

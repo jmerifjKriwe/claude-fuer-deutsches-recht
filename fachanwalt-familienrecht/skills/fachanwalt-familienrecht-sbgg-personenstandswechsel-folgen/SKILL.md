@@ -15,6 +15,7 @@ description: "Spezial-Mandat Selbstbestimmungsgesetz SBGG in Kraft 1.11.2024 Per
 6. Gibt es Versorgungsanrechte bei berufsständischen Versorgungswerken mit geschlechtsspezifischen Tabellen?
 7. Handelt es sich um einen Minderjährigen (ab 14 — Zustimmung Sorgeberechtigte § 2 SBGG; unter 14 — ausschließlich durch gesetzlichen Vertreter)?
 8. Ist Mandatskonflikt möglich — vertritt Kanzlei auch den anderen Ehegatten?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -48,6 +49,9 @@ description: "Spezial-Mandat Selbstbestimmungsgesetz SBGG in Kraft 1.11.2024 Per
 | OLG Frankfurt | 5 UF 33/25 | 02.05.2025 | Sorgerecht nach Personenstandswechsel — § 11 SBGG schützt bestehende Eltern-Kind-Rechte; Sorgerechtsposition unverändert |
 
 ## Prüfschema — SBGG-Verfahren und Familienrechtsfolgen
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 
 | Schritt | Prüfpunkt | Norm | Ergebnis |
 |---------|-----------|------|---------|
@@ -164,6 +168,19 @@ description: "Spezial-Mandat Selbstbestimmungsgesetz SBGG in Kraft 1.11.2024 Per
 - Bei Sorgerechts-Konflikten: Vermittlungsverfahren § 165 FamFG oder Jugendamt § 17 SGB VIII
 - Bei Scheidungswunsch des anderen Ehegatten: Trennungsjahr § 1565 BGB abwarten (1 Jahr)
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — SBGG-Personenstandswechsel und Familienrechtsfolgen begleiten | Fuenfphasiger Workflow; Schriftsatzbausteine unten |
+| Variante A — nur Personenstandswechsel ohne Familienrechtsfolgen | Phasen 1-4 genuegen; Phase 5 entfaellt |
+| Variante B — Sorgerechtskonflikt nach Wechsel | Phase 5 Schwerpunkt; Vermittlungsverfahren einleiten |
+| Variante C — steuerliche Folgen vorrangig | Steuerberatung parallel einbeziehen; Familienrechtsbaustein koordinieren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Schriftsatz-Bausteine
 
 ### Anmeldung Personenstandswechsel beim Standesamt
@@ -248,6 +265,12 @@ Nach § 11 SBGG hat der Personenstandswechsel keine Auswirkung
 auf die Sorge- und Umgangsrechte. Wir bitten um Anberaumung
 eines Vermittlungstermins innerhalb eines Monats.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 

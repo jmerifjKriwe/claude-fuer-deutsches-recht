@@ -19,6 +19,7 @@ Der Steuerberater erstellt regelmäßig BWA, SuSa-Auswertungen und Jahresabschl�
 6. Existieren Steuer- oder SV-Rückstände — Finanzamt, Krankenkassen, Berufsgenossenschaft?
 7. Wurde bereits eine Fortbestehensprognose oder ein Sanierungskonzept IDW S 6 erstellt?
 8. Ist der Steuerberater mit der Erstellung des Jahresabschlusses beauftragt (§ 102 StaRUG-Auslöser)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -51,6 +52,9 @@ Der Steuerberater erstellt regelmäßig BWA, SuSa-Auswertungen und Jahresabschl�
 | BGH II ZR 298/11 | BGHZ 195, 42 | 09.10.2012 | Insolvenzrechtliche ≠ handelsbilanzielle Überschuldung; Fortführungs-/Liquidationswerte |
 
 ## Prüfschema BWA/SuSa/Bilanz
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -89,6 +93,20 @@ Der Steuerberater erstellt regelmäßig BWA, SuSa-Auswertungen und Jahresabschl�
 | "Gesellschafterdarlehen ist nachrangig" | Qualifizierter Rangrücktritt nach § 39 Abs. 2 InsO prüfen; einfacher Rangrücktritt lässt Verbindlichkeit im Status |
 | "§ 102 StaRUG-Schwelle nicht erreicht — keine offenkundigen Signale" | BGH NJW 2017, 1611: bereits bei erkennbaren Krisensignalen; nicht erst manifeste Insolvenzreife |
 | "StB haftet nicht — er erstellt nur Buchhaltung" | BGH IX ZR 285/14: auch laufende Buchhaltungsbetreuung begründet Hinweispflicht |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — BWA SuSa und Bilanz pruefend | Pruefung nach Schema; Schriftsatz unten |
+| Variante A — Nur BWA vorhanden keine Bilanz | BWA-Teilpruefung; Bilanzanforderung nachfragen |
+| Variante B — Krisensignale erkennbar Warnschreiben noetig | Warnschreiben-Skill parallel einsetzen |
+| Variante C — Pruefung nur zur Jahresabschlusspruefung | Teilpruefung; Jahresabschluss-Fokus setzen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -164,6 +182,18 @@ Bitte bestätigen Sie den Eingang dieses Schreibens binnen sieben Tagen.
 Mit freundlichen Grüßen
 [StB]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Streitwert und Kosten
 

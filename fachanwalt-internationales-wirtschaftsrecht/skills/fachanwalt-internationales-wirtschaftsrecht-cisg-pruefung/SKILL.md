@@ -13,6 +13,7 @@ description: "Deutsches Unternehmen hat Streit mit auslaendischem Handelspartner
 6. Liegt eine wesentliche Vertragsverletzung i.S.v. Art. 25 CISG vor, die Vertragsaufhebung Art. 49 CISG rechtfertigt?
 7. In welcher Höhe ist Schadensersatz entstanden und wurden Minderungsmaßnahmen nach Art. 77 CISG ergriffen?
 8. Lag ein Hindernis außerhalb des Einflussbereichs des Verkäufers vor (force majeure Art. 79 CISG)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -69,6 +70,20 @@ description: "Deutsches Unternehmen hat Streit mit auslaendischem Handelspartner
 | 10 | Rechtsbehelfe wählen: Nachbesserung Art. 46, Minderung Art. 50, SE Art. 74, Aufhebung Art. 49 | Art. 45–52 CISG | Wahl des Rechtsbehelfs nach Interessenlage |
 | 11 | Schadensersatz Art. 74–77: vorhersehbar + Mitigation | Art. 74, 77 CISG | Vorhersehbarkeit bei Vertragsschluss; Minderungspflicht des Geschädigten |
 | 12 | Befreiung Art. 79: Hindernis außerhalb Einflussbereich? | Art. 79 CISG | Reine Preissteigerung kein Hindernis; höhere Gewalt ja |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — CISG-Maengelhaftung geltend machen | CISG-Gutachten + Ruegeschreiben Art. 39 CISG; Template unten |
+| Variante A — Mandant will schnellen Ausgleich | Aussergerichtliche Einigung mit Preisminderung Art. 50 CISG statt Schiedsklage |
+| Variante B — CISG ausgeschlossen im Vertrag | Nationales Recht pruefen (§§ 434 ff. BGB o.ae.); anderes Skill einsetzen |
+| Variante C — Ruegefrist verpasst | Art. 40 CISG-Ausnahme (Arglist) pruefen; sonst Schadensbegrenzung |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatz-Bausteine
 
@@ -156,6 +171,11 @@ vom [Datum] über das Hindernis informiert.
 Die Haftung auf Schadensersatz ist daher ausgeschlossen. Rücktrittsrechte nach
 Art. 49 CISG bleiben unberührt.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Beweislast
 

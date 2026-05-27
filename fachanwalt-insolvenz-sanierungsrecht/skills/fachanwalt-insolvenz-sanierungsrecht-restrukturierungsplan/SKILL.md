@@ -13,6 +13,7 @@ description: "StaRUG-Restrukturierungsplan §§ 4–64 StaRUG: Zugang nur bei dr
 6. Benötigt das Unternehmen sofortige Vollstreckungsschutz durch Stabilisierungsanordnung §§ 49 ff. StaRUG?
 7. Ist Anteilsinhaberschaft (Debt-to-Equity-Swap) als Teil des Plans vorgesehen, und haben Gesellschafter dem zugestimmt?
 8. Wurden externe Sanierungsberater (Restrukturierungsbeauftragter § 73 StaRUG) bereits eingebunden?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -58,6 +59,20 @@ description: "StaRUG-Restrukturierungsplan §§ 4–64 StaRUG: Zugang nur bei dr
 | 8 | Stabilisierungsanordnung bei laufenden Vollstreckungen: Antrag stellen, max. 3 Monate + Verlängerung bis 8 Monate | §§ 49 ff. StaRUG | Sofortiger Vollstreckungsschutz |
 | 9 | Planbestätigung beantragen §§ 60 ff.: Gericht prüft formelle + materielle Voraussetzungen | §§ 60–66 StaRUG | Rechtskräftige Bestätigung = Bindungswirkung für alle Plangläubiger |
 | 10 | Schlechterstellungsverbot § 64: Gläubiger nicht schlechter als in Regelinsolvenz | § 64 StaRUG | Vergleichsrechnung: Liquidationswert vs. Planquote |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Restrukturierungsplan einleiten | StaRUG-Verfahren nach § 29 StaRUG; Template unten |
+| Variante A — Schuldner will aussergerichtliche Einigung | Sanierungs-Moderationsverfahren vor Planverfahren pruefen (§§ 94 ff. StaRUG) |
+| Variante B — Glaeubiger blockieren Plan | Obstruktionsverbot § 26 StaRUG pruefen; Gruppenbildung optimieren |
+| Variante C — Insolvenznaehe kritisch | Insolvenzantrag ggf. vorzuziehen wenn StaRUG-Fristen nicht haltbar |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatz-Bausteine
 
@@ -117,6 +132,11 @@ Regelinsolvenzverfahren bei fiktiver Verwertung der Aktiva.
 IV. Antrag
 Das Gericht möge den Restrukturierungsplan bestätigen.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Beweislast
 

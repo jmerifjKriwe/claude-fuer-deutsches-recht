@@ -13,6 +13,7 @@ description: "UWG-Abmahnung pruefen versenden oder auf Eingang reagieren. § 8 U
 6. Hat die Gegenseite eine Schutzschrift beim Zentralen Schutzschriftenregister hinterlegt?
 7. Besteht UWG-Anspruchskonkurrenz mit Marken- oder Designrecht?
 8. Welcher Streitwert und damit welche Kostenrisiken sind realistisch?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -53,6 +54,9 @@ description: "UWG-Abmahnung pruefen versenden oder auf Eingang reagieren. § 8 U
 
 ## Prüfschema UWG-Abmahnung
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
 | 1 | Geschäftliche Handlung? | § 2 Abs. 1 Nr. 2 UWG | Anwendungsbereich; nicht bei rein privaten Handlungen |
@@ -63,6 +67,19 @@ description: "UWG-Abmahnung pruefen versenden oder auf Eingang reagieren. § 8 U
 | 6 | Unterlassungserklärung abgegeben? Ausreichend strafbewehrt? | §§ 339 BGB; § 12 UWG | Unzureichende UE = Wiederholungsgefahr bleibt; eV-Antrag nötig |
 | 7 | Einstweilige Verfügung nötig? | §§ 935, 940 ZPO; § 12 Abs. 1 UWG | Dringlichkeit; Selbstwiderlegung ab ca. 4 Wochen Untätigkeit |
 | 8 | Verjährung geprüft? | § 11 Abs. 1 UWG | 6 Monate ab Kenntnis; Unterbrechung durch Abmahnung oder eV-Antrag |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — UWG-Abmahnung aussprechen oder empfangen | Abmahnungs-Vollmuster und ggf. eAVV-Antrag unten |
+| Variante A — Abmahnung ist missbraeuchlich (§ 8c UWG) | Widerspruchsbaustein unten; kein UE unterzeichnen |
+| Variante B — Mandant moechte selbst abmahnen | Abmahnungs-Vollmuster unten; Streitwert sorgfaeltig berechnen |
+| Variante C — einstweilige Verfuegung noetig | eAVV-Antrag unten; Dringlichkeit pruefen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatz-Bausteine
 
@@ -182,6 +199,12 @@ und auf Ersatz unserer Abwehrkosten zu erheben.
 
 [Kanzlei, Datum]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 

@@ -14,6 +14,7 @@ description: "Public M&A und Kapitalmarkt: Begleitet Oeffentliche Angebote (Wpue
 5. Insiderhandels-/Ad-hoc-Analyse: Kursrelevante Information vorhanden?
 6. BaFin-Voranmeldung und Angebotsdokument: Timeline?
 7. Fairness Opinion / Unabhaengiger Gutachter fuer Angemessenheits-Pruefung erforderlich?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -81,6 +82,9 @@ Beim Signing des SPA: Pflicht zur sofortigen Ad-hoc-Meldung (kein Aufschub mehr 
 
 ## Schritt-fuer-Schritt-Workflow
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 1. **Strukturanalyse** — Kontrollschwelle, Stimmrechtsanteile; Pflichtangebot-Pflicht abchecken
 2. **Insider-Management** — Insider-Liste anlegen; Kommunikations-Protokoll; Marktmissbrauchs-Risiko
 3. **Angebotsstruktur festlegen** — Gegenleistung (Cash, Aktien, Mix); Angebotspreis; Mindestannahme-Quote
@@ -91,6 +95,19 @@ Beim Signing des SPA: Pflicht zur sofortigen Ad-hoc-Meldung (kein Aufschub mehr 
 8. **Veroeffentlichung und Annahmefrist** — Boersenbekanntmachung; Aktionaer-Information
 9. **Ergebnis-Veroeffentlichung** — Annahmequote; Vollzug; Weitere Annahmefrist
 10. **Squeeze-Out-Analyse** — wenn >90 % (WpUeG) oder >95 % (AktG): Ausschluss-Verfahren einleiten
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — oeffentliches Uebernahmeangebot nach WpUeG | Prozessablauf und Ad-hoc-Meldung nach Template unten |
+| Variante A — Pflichtangebot ausgeloest (30-Prozent-Schwelle) | Mindestpreisberechnung § 31 WpUeG priorisieren |
+| Variante B — feindliche Uebernahme | Abwehrmassnahmen (Poison Pill etc.) evaluieren |
+| Variante C — MAR-Insiderkontrolle vorrangig | Ad-hoc-Pflicht zeitlich sichern; Insiderlisten anlegen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Output-Template Ad-hoc-Meldung (Auszug)
 
@@ -114,6 +131,12 @@ weiterer ueblicher Vollzugsbedingungen. Der Vollzug wird fuer [QUARTAL] erwartet
 [FIRMA]
 [KONTAKT]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Rote Schwellen
 

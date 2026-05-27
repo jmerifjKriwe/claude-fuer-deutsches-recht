@@ -13,6 +13,7 @@ description: "Glaeubiger-Insolvenzantrag nach § 14 InsO mit Glaubhaftmachung Fo
 6. Sollen sofortige Sicherungsmaßnahmen (§ 21 InsO: vorläufiger Insolvenzverwalter, Zustimmungsvorbehalt, ZV-Einstellung) beantragt werden?
 7. Ist das Rechtsschutzbedürfnis gegeben – liegt keine bloße Druckausübung vor?
 8. Sind Verfahrenskosten gedeckt: kann der Mandant ggf. gemäß § 26 Abs. 1 InsO Kostenvorschuss leisten?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -43,6 +44,9 @@ description: "Glaeubiger-Insolvenzantrag nach § 14 InsO mit Glaubhaftmachung Fo
 
 ## Prüfschema
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
 | 1 | Antragsberechtigung: jeder Insolvenzgläubiger; Forderung gegen Schuldner | § 14 Abs. 1 InsO | Fehlt Gläubigerstellung → Antrag unzulässig |
@@ -55,6 +59,19 @@ description: "Glaeubiger-Insolvenzantrag nach § 14 InsO mit Glaubhaftmachung Fo
 | 6 | Sicherungsmaßnahmen § 21 InsO beantragen | § 21 InsO | Sofortschutz: ZV-Einstellung, vorläufiger IV, Zustimmungsvorbehalt |
 | 7 | Massekostenprüfung § 26 InsO | § 26 InsO | Masseunzulänglichkeit → Abweisung; Kostenvorschuss durch Gläubiger möglich |
 | 8 | Eröffnungsbeschluss § 27 InsO | § 27 InsO | Verwalterbestellung, Insolvenzbeschlag § 80 InsO |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Glaeeubigerantrag auf Insolvenzeroffnung stellen | Vollstaendiger Antrag § 14 InsO nach Baustein unten |
+| Variante A — Schuldnerin stellt Gegenantrag | Widerspruchs-Baustein unten; Zahlungsunfaehigkeit belegen |
+| Variante B — Mandant will schnell Geld sehen | Vorlaeufige Insolvenzverwaltung beantragen; Aussondern pruefen |
+| Variante C — laufende Zwangsvollstreckung parallel | Koordination Insolvenzeröffnung und ZV; Moratoriumswirkung § 21 InsO |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatz-Bausteine
 
@@ -141,6 +158,12 @@ Beweis: Anlage S3.
 IV. Antrag auf Zurückweisung
 Das Gericht möge den Eröffnungsantrag zurückweisen.
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 

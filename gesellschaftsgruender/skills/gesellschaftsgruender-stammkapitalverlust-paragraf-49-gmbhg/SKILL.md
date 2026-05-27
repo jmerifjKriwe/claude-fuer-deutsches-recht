@@ -13,6 +13,7 @@ description: "Hälftiger Stammkapitalverlust nach § 49 Abs. 3 GmbHG: Einberufun
 4. Existieren stille Reserven, die bei Ansatz zu Verkehrswerten das Eigenkapital retten?
 5. Können Gesellschafter kurzfristig Kapital nachschießen (Kapitalerhöhung oder Gesellschafterdarlehen)?
 6. Ist bereits ein Berater / Restrukturierungsberater eingeschaltet?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -50,6 +51,9 @@ description: "Hälftiger Stammkapitalverlust nach § 49 Abs. 3 GmbHG: Einberufun
 
 ## Prüfschema § 49 Abs. 3 GmbHG
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 | Schritt | Prüfungspunkt | Ergebnis |
 |---|---|---|
 | 1 | Stammkapital: Nominalhöhe feststellen | [EUR] |
@@ -73,6 +77,20 @@ description: "Hälftiger Stammkapitalverlust nach § 49 Abs. 3 GmbHG: Einberufun
 6. **Restrukturierungsberater einschalten** — bei drohender ZU: StaRUG-Zeitplanung; bei ZU: Insolvenzberater.
 7. **GV-Dokumentation** — Protokoll mit Bericht, Maßnahmenbeschlüssen, Abstimmungsergebnissen sichern.
 8. **Monitoring** — monatliche Liquiditätsprognose; nächste GV/Eskalation bei Verschlechterung.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Einberufung Pflichtversammlung § 49 Abs. 3 GmbHG | Einladungsschreiben nach Pruefschema; Template unten |
+| Variante A — Verlust behebbarer durch Kapitalerhoehung | Kapitalerhoehung vorbereiten; Versammlung als Beschlussgrundlage nutzen |
+| Variante B — Insolvenzreife parallel moegliche Antragspflicht | Insolvenz-Skill parallel pruefen; Antragspflicht § 15a InsO beachten |
+| Variante C — Gesellschafter wollen keine Versammlung Kosten | Umlaufbeschluss statt Praesenzversammlung wenn Satzung erlaubt |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Output-Template Einladung Pflichtversammlung § 49 Abs. 3 GmbHG
 
@@ -115,6 +133,18 @@ Mit freundlichen Grüßen
 [Name Geschäftsführer]
 Geschäftsführer [Firmenname] GmbH
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Rote Schwellen
 

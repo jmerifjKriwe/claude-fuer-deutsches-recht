@@ -12,6 +12,7 @@ description: "Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit und Ho
 3. Ist die Strafe pro Tag, pro Verstoß oder einmalig vereinbart? Existiert eine Höchstgrenze?
 4. Sind beide Vertragsparteien Kaufleute i.S.d. HGB?
 5. Wurde die Strafe bei Annahme der Hauptleistung ausdrücklich vorbehalten (§ 341 Abs. 3 BGB)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Anspruchsgrundlagen
 
@@ -44,6 +45,20 @@ description: "Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit und Ho
 
 Standardliteratur: Grüneberg BGB §§ 339-345; Ulmer/Brandner/Hensen AGB-Recht.
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Vertragsstrafe pruefen und geltend machen | Geltendmachungs-Schreiben; Template unten |
+| Variante A — Vertragsstrafe ueberschiessend | § 343 BGB-Herabsetzung pruefen; Risiko Rueckforderung |
+| Variante B — Mandant will Vertragsstrafe nicht ausloesen | Stillhaltevereinbarung; Vertragsanpassung statt Strafe |
+| Variante C — Wiederholte Pflichtverletzung | Mehrfache Vertragsstrafe oder Kuendigung erwaegen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Schreibvorlage Geltendmachung der Vertragsstrafe
 
 ```
@@ -69,6 +84,11 @@ Abs. 2 BGB.
 
 Mit freundlichen Gruessen
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Übergabe
 

@@ -19,6 +19,7 @@ Kommunikations- und Verhandlungsstrategie für agrarrechtliche Mandate: Landpach
 6. **Haben Dritte (Kinder, Geschwister) Interesse am Hof?** — Hofstreitigkeiten in Erbengemeinschaft erfordern notarielle Auseinandersetzungs-Vereinbarung.
 7. **Laufen parallele Förderverfahren?** — Bei laufenden ELER-Verpflichtungen Streit um Pacht­preis mit Rückforderungsrisiko verknüpft; Koordination nötig.
 8. **Ist ein Herdenschutzstreit (Wolf) parallel anhängig?** — Entschädigungs-Verhandlung mit dem Land läuft über andere Behörden als Pachtrecht.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -77,6 +78,9 @@ Kommunikations- und Verhandlungsstrategie für agrarrechtliche Mandate: Landpach
 
 ## Workflow
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 ### Phase 1 — Sachverhalts-Klärung mit Mandant
 
 - Konflikthistorie (oft jahrelange Beziehung)
@@ -108,6 +112,19 @@ Kommunikations- und Verhandlungsstrategie für agrarrechtliche Mandate: Landpach
 
 - Vergleichs-Vollstreckung über § 794 ZPO
 - Bei Hofübergabe: notarielle Beurkundung des Übergabevertrags
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Landpachtkonflikt verhandeln | Fuenfstufiger Pfad-Ueberblick; Schriftsatzbausteine unten |
+| Variante A — beide Seiten einigungsbereit | Direkter Pfad 1 (Schlichtungsstelle) ohne Gericht |
+| Variante B — Pachtverhaeltnis sehr festgefahren | Gerichtlicher Weg § 23 LwVG vorbereiten |
+| Variante C — Hofuebergabe involviert | Pfad 4 Mediation Hofuebergabe; familienrechtliche Aspekte beachten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatz-Bausteine
 
@@ -166,6 +183,12 @@ Wir bitten um Anberaumung eines Schlichtungstermins.
 
 [Rechtsanwalt/-anwaeltin]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Strategie und Taktik
 

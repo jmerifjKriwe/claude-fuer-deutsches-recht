@@ -79,6 +79,7 @@ IT-Recht ist breit und stark im Wandel (DSGVO NIS-2 AI Act DSA). Triage stellt S
 - Versicherung Cyber Berufshaftpflicht IT
 - Berufshaftpflicht Anwalt für Beratung
 - Streitwert sehr variabel
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Routing-Matrix
 
@@ -121,6 +122,19 @@ Bei aktivem Hacker-Angriff:
 - **Heute** DSGVO-Meldung Domain-Sperre Filesharing-Antwort
 - **Diese Woche** Mangel-Klage Vertragsentwurf
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — IT-Recht Mandat triage und routen | Triage-Protokoll; Template unten |
+| Variante A — Datenschutz-Schwerpunkt | DSGVO-Skills pruefen; DPA als erstes |
+| Variante B — Strafrecht-Beruehrer | § 202a ff. StGB; Strafrecht-Skill einbeziehen |
+| Variante C — Eilsituation Datenpanne | 72h-Frist DSGVO Art. 33; Skill cyber-incident-response |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Ausgabe
 
 - `triage-protokoll-it-recht.md`
@@ -129,6 +143,11 @@ Bei aktivem Hacker-Angriff:
 - Mandatsvereinbarung mit Honorar
 - Bei Cyber-Incident: Sofort-Checkliste als Anhang
 - Empfehlung Folge-Skill
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Quellen
 
@@ -146,7 +165,7 @@ Bei aktivem Hacker-Angriff:
 - BGH, Urt. v. 28.10.2014 — VI ZR 135/13, NJW 2015, 404 Rn. 18: Anwaltshaftung bei Mandatsuebernahme ohne Konflikt-Check — Interessenkonflikt bereits bei Beratung desselben Sachverhalts auf Gegenseite entsteht.
 - EuGH, Urt. v. 07.03.2024 — C-604/22 (IAB Europe), NJW 2024, 1205 Rn. 48: Consent-Management-Betreiber als gemeinsam Verantwortlicher i.S.d. Art. 26 DSGVO; relevant fuer Mandatspruefung IT-Dienstleister.
 - BGH, Urt. v. 26.01.2017 — VII ZR 198/15, NJW 2017, 1534 Rn. 22: Eilbeduerftigkeit im IT-Projektstreit — einstweilige Verfuegung bei drohender Projektunterbrechung zulaessig; RA-Sofortmandat gerechtfertigt.
-- BGH, Urt. v. 06.07.2021 — VI ZR 40/20, NJW 2021, 2726 Rn. 12: DSGVO-Schadensersatz bei immateriellem Schaden bereits bei festgestelltem Datenschutzversto§ — Mandatseinleitung bei Datenpanne zwingend.
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
 
 ## Zentrale Normen (Paragrafenkette)
 - § 43a BRAO — Anwaltliche Grundpflichten: Interessenkonflikt-Verbot

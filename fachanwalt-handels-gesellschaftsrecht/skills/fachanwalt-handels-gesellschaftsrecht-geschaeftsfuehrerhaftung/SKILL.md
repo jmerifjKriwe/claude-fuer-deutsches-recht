@@ -13,6 +13,7 @@ description: "Geschäftsführerhaftung § 43 GmbHG und Vorstandshaftung § 93 Ak
 6. Wie ist der Verjährungsstand — 5 Jahre § 43 Abs. 4 GmbHG; börsennotierte AG 10 Jahre § 93 Abs. 6 AktG?
 7. Wurde ein Gesellschafterbeschluss zur Geltendmachung nach § 46 Nr. 8 GmbHG gefasst?
 8. Besteht Strafbarkeit — Untreue § 266 StGB, Vorenthalten Sozialversicherung § 266a StGB?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -50,6 +51,9 @@ description: "Geschäftsführerhaftung § 43 GmbHG und Vorstandshaftung § 93 Ak
 | OLG Düsseldorf | I-6 U 44/20 | 09.12.2021 | D&O-Deckung: Versicherungsfall ist Anspruchserhebung (Claims-made-Prinzip); Anzeige unverzüglich |
 
 ## Prüfschema Geschäftsführerhaftung
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
@@ -99,6 +103,19 @@ Haftungslage:
 - Priorität der SV-Beiträge: § 55 InsO (Masseforderung) greift nicht
   für Vergangenheitsansprüche; GF haftet persönlich
 ```
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — GF-Haftung pruefen und Klage vorbereiten | Pruefschema; Schriftsatzbausteine unten |
+| Variante A — Innenhaftung GmbH gegen GF | Klage-Baustein Innenhaftung unten; Entlastungsbeschluss pruefen |
+| Variante B — Aussenhaeftung Glaeubiger gegen GF | § 64 GmbHG analog; unmittelbare Klage des Glaeeubigers |
+| Variante C — Steuerhaftung § 69 AO | Finanzbehorde parallel; privatrechtliche Klage koordinieren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schriftsatz-Bausteine
 
@@ -186,6 +203,12 @@ Die Gesellschafterversammlung beschließt mit [Stimmen für/gegen]:
 
 [Unterschriften Gesellschafter]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Beweislast
 

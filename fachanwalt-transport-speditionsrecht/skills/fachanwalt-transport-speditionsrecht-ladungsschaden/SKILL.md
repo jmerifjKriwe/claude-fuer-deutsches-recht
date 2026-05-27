@@ -21,6 +21,7 @@ Ein Ladungsschaden im innerdeutschen Strassenfrachtverkehr betrifft täglich Tau
 8. Wurde bereits eine schriftliche Reklamation an den Frachtführer gesandt und wann?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -79,6 +80,20 @@ Ein Ladungsschaden im innerdeutschen Strassenfrachtverkehr betrifft täglich Tau
 | 14 | Regressansprüche § 437 HGB: gegen Unterfrachtführer; wer hat die Sendung tatsächlich befördert? | § 437 HGB |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Ladungsschaden Frachtrecht pruefen | Schadensanzeige; Template unten |
+| Variante A — Verdeckter Schaden (erst nach Oeffnung) | Ruegefristen HGB § 438 / CMR Art. 30 beachten; sieben Tage |
+| Variante B — Gesamtladung beschaedigt | Totalverlust-Berechnung; Zeitwert oder Wiederbeschaffungswert |
+| Variante C — Zollverschluss beschaedigt | Zollrechtliche Haftung parallel zur Frachtrechtshaftung |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -213,6 +228,11 @@ Der Beklagte wird verurteilt, EUR [X] nebst Zinsen zu zahlen.
 
 [Ort, Datum, Unterschrift]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

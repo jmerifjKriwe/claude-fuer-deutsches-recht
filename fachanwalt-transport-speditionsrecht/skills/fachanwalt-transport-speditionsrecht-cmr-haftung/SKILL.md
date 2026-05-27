@@ -21,6 +21,7 @@ Die CMR ist das international zwingende Einheitsrecht für den grenzüberschreit
 8. Ist ein Unterfrachtführer eingeschaltet und an welcher Teilstrecke ist der Schaden entstanden?
 
 ---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -79,6 +80,20 @@ Die CMR ist das international zwingende Einheitsrecht für den grenzüberschreit
 | 14 | Aufeinanderfolgende Frachtführer Art. 34–40: Gesamtschuldnerhaftung; Regressansprüche | CMR Art. 37 |
 
 ---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — CMR-Haftung pruefen und geltend machen | CMR-Schreiben; Template unten |
+| Variante A — Haftungshoechstbetrag bereits erreicht | Qualifiziertes Verschulden CMR Art. 29 pruefen; unbegrenzte Haftung |
+| Variante B — Mehrere Frachtfuehrer (Durchfrachtvertrag) | Regressweg CMR Art. 34 ff. bestimmen |
+| Variante C — Schaden nach Uebergabe an Empfaenger | Ablieferungszeitpunkt CMR Art. 17; Ruegefristen beachten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -199,6 +214,11 @@ Direktklage gegen Hauptfrachtführer [A] (CMR Art. 3 /
 Art. 34); [A] muss Regress gegen [C] nehmen (Art. 37 CMR).
 Hilfsweise Klage auch gegen [C].
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ---
 

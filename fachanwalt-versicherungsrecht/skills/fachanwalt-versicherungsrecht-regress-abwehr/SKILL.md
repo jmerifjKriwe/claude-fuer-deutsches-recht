@@ -19,6 +19,7 @@ Ein Schädiger oder dessen Haftpflichtversicherer wird nach einem Schadensereign
 6. Liegt eine bereits abgelaufene Verjährungsfrist vor? Wann erlangte der Regressnehmer Kenntnis vom Schadensereignis und vom Schädiger?
 7. Existiert ein Sozialleistungsvermerk im Schadenersatzprozess — wurde der Sozialversicherungsträger vom Geschädigten benachrichtigt?
 8. Sind mehrere Regressnehmer vorhanden (z.B. Krankenkasse + Rentenversicherung + Berufsgenossenschaft) und wurde eine koordinierte Verteidigungsstrategie besprochen?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -54,6 +55,9 @@ Ein Schädiger oder dessen Haftpflichtversicherer wird nach einem Schadensereign
 | BGH VI ZR 286/00 | VI ZR 286/00 | 19.02.2002 | Sozialleistungsvermerk: Pflicht des Geschädigten zur Benachrichtigung des Trägers; andernfalls Erlöschen des übergegangenen Anspruchs |
 
 ## Prüfschema Regress-Abwehr
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -109,6 +113,20 @@ Ein Schädiger oder dessen Haftpflichtversicherer wird nach einem Schadensereign
 | "Grobe Fahrlässigkeit reicht für § 110 SGB VII" | Hohe Anforderungen BSG B 2 U 3/17 R: subjektive Komponente der groben Fahrlässigkeit muss positiv festgestellt werden |
 | "Hemmung durch Korrespondenz" | Nur echte Verhandlungen hemmen; reine Sachverhaltsaufklärung oder bloße Forderungsübermittlung sind keine Verhandlungen i.S.d. § 203 BGB |
 | "Vorteilsausgleichung ist ausgeschlossen" | Vorteilsausgleichung greift nur bei Vorteilen die kausal durch das Schadensereignis entstanden sind und nicht unzumutbar sind |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Regress des Versicherers abwehren | Regress-Abwehrschreiben nach Pruefschema; Template unten |
+| Variante A — Regressforderung teilweise berechtigt | Teilanerkenntnis verhandeln; Gesamtbetrag minimieren |
+| Variante B — Verjaehrung des Regressanspruchs eingetreten | Verjaehrungseinrede erheben; kein inhaltliches Eingehen noetig |
+| Variante C — Regress gegen Arbeitnehmer Arbeitgeber haftet | Arbeitgeberhaftung pruefen; Regress auf Arbeitgeber abwaelzen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -254,6 +272,18 @@ Das Angebot gilt bis zum [Frist] und erlischt danach ersatzlos.
 Mit freundlichen kollegialen Grüßen
 [Kanzlei]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Streitwert und Kosten
 

@@ -19,6 +19,7 @@ Der Steueranwalt ist typischerweise der erste Berater, der erkennt, dass seine M
 6. Aktuelle Liquiditätslage: Kann die Gesellschaft die fälligen Verbindlichkeiten in den nächsten drei Wochen bedienen?
 7. Existieren Sanierungskonzept, Rangrücktrittserklärungen, Gesellschafterdarlehen, Patronate?
 8. Wurde durch Steuerberater oder Sanierungsberater bereits eine § 19 InsO-Prüfung durchgeführt?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
@@ -61,6 +62,9 @@ Der Steueranwalt ist typischerweise der erste Berater, der erkennt, dass seine M
 | BGH IX ZR 207/18 | IX ZR 207/18 | 14.05.2020 | Anfechtung von Steuerzahlungen § 130 Abs. 1 InsO bei Kenntnis der Zahlungsunfähigkeit |
 
 ## Prüfschema Insolvenzreife
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -111,6 +115,20 @@ Der Steueranwalt ist typischerweise der erste Berater, der erkennt, dass seine M
 | "Zahlungsunfähigkeit liegt nicht vor — wir zahlen die meisten Rechnungen noch" | BGH IX ZR 123/04: einzelne gewichtige Forderung (SV) reicht für Zahlungseinstellung; nicht 100 % Zahlungseinstellung nötig |
 | "Fortbestehensprognose ist positiv laut internem Plan" | BGH II ZR 233/18: tragfähiges Unternehmenskonzept mit integrierter Planung erforderlich; rein intern erstellte Planung ohne IDW S 6-Struktur genügt gerichtlich nicht |
 | "Es gibt noch Stille Reserven" | Stille Reserven sind im Überschuldungsstatus zu berücksichtigen, aber konkret zu belegen; bloße Behauptung genügt nicht |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Insolvenzreife pruefend im steuerrechtlichen Kontext | Insolvenzreife-Pruefung nach Schema; Schriftsatz unten |
+| Variante A — Steuerschulden dominieren Insolvenzgrund | Stundungsantrag FA parallel; Insolvenzantrag vermeiden wenn moeglich |
+| Variante B — Insolvenzreife durch Betriebspruefungs-Nachforderung | Rechtsmittel gegen Steuerbescheid parallel; Insolvenz aufschieben |
+| Variante C — Steuerpflichtiger will Betrieb aufgeben | Geordnete Abwicklung statt Insolvenz; Steuerpflichten beachten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Schriftsatzbausteine
 
@@ -258,6 +276,18 @@ Gegenstand: Erörterung der Insolvenzreife-Prüfung und Belehrung
 Unterschrift RA: ___________________
 Datum: ___________________________
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Streitwert und Kosten
 
