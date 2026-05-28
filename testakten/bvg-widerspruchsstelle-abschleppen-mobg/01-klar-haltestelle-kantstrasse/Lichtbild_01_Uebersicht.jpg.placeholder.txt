@@ -1,0 +1,17 @@
+PLACEHOLDER -- Lichtbild 01 Uebersicht
+========================================
+
+Dieses Dokument ersetzt in der Testakte die Originaldatei:
+  Dateiname (Original): Lichtbild_01_Uebersicht.jpg
+  Aufnahme:             Verkehrsleiter Krenz, BVG-Diensthandy
+  Datum/Zeit:           02.05.2026, 14:12 Uhr
+
+Beschreibung des Originalfotos:
+-------------------------------
+Uebersichtsaufnahme der Bushaltestelle Kantstrasse / Leibnizstrasse aus
+Richtung Westen. Im Vordergrund das Haltestellenkap mit dem schwarzen
+VW Golf B-OL 4711, vollstaendig im Haltebereich abgestellt. Im
+Hintergrund das BVG-Wartehaeuschen mit Liniennummern M49 und X34.
+Links im Bild sichtbar: Verkehrszeichen 224 (Bushaltestelle) sowie
+Zeichen 286 mit Zusatzschild "Bus" (eingeschraenktes Haltverbot, nur Bus).
+Strassenoberflaeche trocken, Wetter sonnig.
