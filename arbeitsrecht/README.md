@@ -189,8 +189,8 @@ Vollständiger Workflow für die Klage auf Feststellung, dass ein angeblich befr
 | `/arbeitsrecht:entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung` | § 14 Abs. 2 TzBfG; Vorbeschäftigungsverbot; BVerfG 2018; Karenzzeit |
 | `/arbeitsrecht:entfristung-sachgrundlos-14-abs-2a-neugruendung` | Neugründungsprivileg vier Jahre § 14 Abs. 2a TzBfG |
 | `/arbeitsrecht:entfristung-sachgrundlos-14-abs-3-aelter-52` | § 14 Abs. 3 TzBfG; Befristung ab 52; Vorarbeitslosigkeit |
-| `/arbeitsrecht:entfristung-schriftform-14-abs-4-erkennen` | KERNSKILL: Schriftform § 14 Abs. 4 TzBfG; eigenhändige Unterschrift; KEINE elektronische Form |
-| `/arbeitsrecht:entfristung-elektronische-signatur-vorsicht` | DocuSign, Adobe Sign als Erkennungsmerkmale; Signaturtypen; Rechtslage |
+| `/arbeitsrecht:entfristung-schriftform-14-abs-4-erkennen` | KERNSKILL: Schriftform § 14 Abs. 4 TzBfG; Papieroriginal oder echte QES; Scan/einfache Signatur genügt nicht |
+| `/arbeitsrecht:entfristung-elektronische-signatur-vorsicht` | DocuSign, Adobe Sign, Zertifikate, QES-Abgrenzung und Formrisiko |
 | `/arbeitsrecht:entfristung-rechtsfolge-16-tzbfg-unbefristet` | § 16 Satz 1 TzBfG Vertrag gilt als unbefristet; früheste Kündigung § 16 Satz 2 |
 | `/arbeitsrecht:entfristung-klageschrift-laie-baustein` | Schritt-für-Schritt Klageschrift Entfristungsklage für Laien |
 | `/arbeitsrecht:entfristung-klageschrift-anwalt-baustein` | Anwaltliche Klageschrift mit Hilfsanträgen und Weiterbeschäftigungsantrag |

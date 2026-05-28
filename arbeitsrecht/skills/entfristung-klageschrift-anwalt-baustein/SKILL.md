@@ -26,7 +26,7 @@ description: "Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hil
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — Die Befristungsabrede bedarf der eigenhändigen Unterschrift beider Parteien auf einer Urkunde vor Arbeitsaufnahme; elektronische Signaturen (DocuSign, qualifizierte eSignatur) sind nach § 14 Abs. 4 Satz 2 TzBfG ausdrücklich ausgeschlossen.
+- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — Die Befristungsabrede bedarf vor Arbeitsaufnahme formwirksamer Unterzeichnung; Scan, E-Mail oder einfache Portalsignatur genügen nicht. Bei digitaler Unterzeichnung QES nach § 126a BGB gesondert prüfen.
 - BAG, Urt. v. 01.12.2004 – 7 AZR 198/04, NZA 2005, 337 — Die Schriftform des § 14 Abs. 4 TzBfG erfordert Einheitlichkeit der Urkunde; beide Parteien müssen dieselbe körperliche Urkunde unterschreiben. Eine getrennte Unterzeichnung zweier gleichlautender Dokumente wahrt die Schriftform nur, wenn der Wille zur Verbindung erkennbar ist.
 - BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 — Das Vorbeschäftigungsverbot (§ 14 Abs. 2 Satz 2 TzBfG) gilt zeitlich unbegrenzt; eine frühere Beschäftigung beim selben Arbeitgeber — auch wenn sie viele Jahre zurückliegt — schließt die sachgrundlose Befristung grundsätzlich aus.
 - BAG, Urt. v. 14.04.2010 – 7 AZR 121/09, NZA 2010, 1152 — Beim Sachgrund Vertretung (§ 14 Abs. 1 Nr. 3 TzBfG) muss der Arbeitgeber darlegen, dass ein Vertretungsbedarf bei Vertragsschluss objektiv vorhanden war; pauschale Behauptungen genügen nicht.
@@ -110,7 +110,7 @@ Der Kläger ist seit dem [DATUM] bei der Beklagten beschäftigt (Anlage K 1). Da
 
 **I. Schriftformmangel (§ 14 Abs. 4 TzBfG)**
 
-Die Befristungsabrede genügt nicht der nach § 14 Abs. 4 TzBfG i.V.m. § 126 Abs. 1 BGB erforderlichen Schriftform. Beide Parteien müssen die Befristungsabrede eigenhändig auf einer Urkunde unterschreiben (BAG, Urt. v. 01.12.2004 – 7 AZR 198/04, NZA 2005, 337 Rn. 18 ff.). Vorliegend wurde der Vertrag [SACHVERHALT — z.B. über die Plattform DocuSign unterzeichnet / per E-Mail ausgetauscht]. Eine eigenhändig unterzeichnete Originalurkunde existiert nicht. Die elektronische Form ist nach § 14 Abs. 4 Satz 2 TzBfG ausdrücklich ausgeschlossen.
+Die Befristungsabrede genügt nicht der nach § 14 Abs. 4 TzBfG erforderlichen Schriftform. Bei Papierunterzeichnung müssen beide Parteien die Befristungsabrede eigenhändig auf einer Urkunde oder auf jeweils für die andere Partei bestimmten gleichlautenden Ausfertigungen unterschreiben (BAG, Urt. v. 01.12.2004 – 7 AZR 198/04, NZA 2005, 337 Rn. 18 ff.). Vorliegend wurde der Vertrag [SACHVERHALT — z.B. per E-Mail mit eingescannten Unterschriften ausgetauscht / über ein Portal nur einfach signiert]. Eine eigenhändig unterzeichnete Originalurkunde und eine qualifizierte elektronische Signatur nach § 126a BGB liegen nicht vor.
 
 **Rechtsfolge:** Gemäß § 16 Satz 1 TzBfG gilt der Arbeitsvertrag als auf unbestimmte Zeit geschlossen.
 

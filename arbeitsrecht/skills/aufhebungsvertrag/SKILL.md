@@ -26,7 +26,7 @@ Dieser Skill dient der Prüfung und dem Entwurf eines Aufhebungsvertrags (auch: 
 
 ### Kernvorschriften
 
-- § 623 BGB: Schriftform für Aufhebungsvertrag (§ 126 BGB: eigenhändige Unterschrift beider Parteien auf derselben Urkunde; elektronische Form nach § 126a BGB nur bei beiderseitigem Einverständnis, qualifizierte elektronische Signatur)
+- § 623 BGB: Schriftform für Aufhebungsvertrag (§ 126 BGB: eigenhändige Unterschrift; elektronische Form ist ausgeschlossen)
 - § 119 Abs. 1 BGB: Anfechtung wegen Irrtums
 - § 123 BGB: Anfechtung wegen arglistiger Täuschung oder widerrechtlicher Drohung
 - § 142 Abs. 1 BGB: Nichtigkeit bei erfolgreicher Anfechtung ex tunc
@@ -69,7 +69,7 @@ Dieser Skill dient der Prüfung und dem Entwurf eines Aufhebungsvertrags (auch: 
 
 ### Schritt 2 – Schriftform und Vertragsabschluss (§ 623 BGB)
 
-- Schriftform zwingend (§ 623 BGB); elektronische Form nach § 126a BGB nur mit QES und beiderseitigem Einverständnis.
+- Schriftform zwingend (§ 623 BGB); elektronische Form ist ausgeschlossen, also auch QES/beA/Signaturportal nicht verwenden.
 - **Eigenhändige Unterschrift** beider Parteien auf **derselben Urkunde** (§ 126 Abs. 2 BGB); Briefwechsel/E-Mail-Kette genügt nicht.
 - Vertretung: Vollmacht des Unterzeichners des Arbeitgebers prüfen (Prokura, Generalvollmacht, Einzelvollmacht).
 - **Überlegungsfrist**: Angemessene Zeit einräumen (BAG, Urt. v. 24.02.2022 – 6 AZR 333/21, NZA 2022, 711 Rn. 19); Überrumpelung vermeiden.

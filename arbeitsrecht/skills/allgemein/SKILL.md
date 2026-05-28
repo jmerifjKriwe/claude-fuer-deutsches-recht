@@ -36,7 +36,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 - **Erkannt:** [Materialart, Absender/Aktenzeichen falls sichtbar]
 - **Frist zuerst:** [konkretes Datum/Risiko oder `keine Frist erkennbar`]
 - **Einordnung:** [Rechtsgebiet/Normengruppe/Arbeitsmodus]
-- **Primärer Pfad:** `skill-name` — [warum dieser Skill hilft]
+- **Primärer Pfad:** konkreter Arbeitsrecht-Skill, z.B. `kueschk-frist-und-zugang-pruefen` — [warum dieser Skill hilft]
 - **Alternativen:** `...`, `...`
 - **Nächster Schritt:** [direkte Bearbeitung oder genau eine konkrete Rückfrage]
 
@@ -117,7 +117,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `betriebsrat-ladung-und-ersatzmitglieder-pruefen` | Prüfung der ordnungsgemäßen Ladung und Besetzung einer Betriebsratssitzung nach § 29 Abs. 2 BetrVG und § 25 Abs. 2 BetrVG. Wer war geladen, wer war verhindert, wer ist nachgerückt, hat das richtige Ersatzmitglied… |
 | `betriebsuebergang-613a-pruefen` | Unternehmen wird verkauft oder Betrieb geht auf neuen Inhaber über und Arbeitnehmer fragen nach Rechten oder Kündigungsschutz. Prüfraster Identitätswahrung wirtschaftliche Einheit EuGH-Suezen-Kriterien § 613a BGB.… |
 | `einstellungspruefung` | Prüfung von Arbeitsvertrag und Befristung bei Neueinstellungen: TzBfG (Sachgrund, Vorbeschaeftigungsverbot), AGG (diskriminierungsfreie Ausschreibung), AUeG (Abgrenzung Arbeitnehmerüberlassung), Nachweisgesetz sowie… |
-| `entfristung-elektronische-signatur-vorsicht` | Elektronische Signaturen und Befristungsabreden: qualifizierte elektronische Signatur genuegt NICHT für § 14 Abs. 4 TzBfG i.V.m. § 126 BGB; DocuSign Adobe Sign HelloSign als Erkennungsmerkmale; Unterscheidung einfache… |
+| `entfristung-elektronische-signatur-vorsicht` | Elektronische Signaturen und Befristungsabreden: Scan/einfache Signatur genügen nicht; echte QES nach § 126a BGB kann genügen. Prüft DocuSign, Adobe Sign, Zertifikate, Timing und Zugang.… |
 | `entfristung-grundwarnung-drei-wochen-frist` | Grundwarnung Entfristungsklage: § 17 TzBfG drei Wochen ab vereinbartem Vertragsende; absolute Ausschlussfrist; § 17 Satz 2 TzBfG i.V.m. § 7 KSchG Fiktion Wirksamkeit der Befristung bei Fristversaeumnis;… |
 | `entfristung-guetetermin-und-kammertermin-sprechzettel` | Sprechzettel für Guetetermin und Kammertermin in der Entfristungsklage: Antragsstellung; Kernargumente Schriftformmangel und Sachgrundmangel; Vergleichsstrategie; Vorbereitung Zeugenvernehmung; Verhandlungsposition;… |
 | `entfristung-klageschrift-anwalt-baustein` | Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hilfsanträgen; Weiterbeschaeftigungsantrag; strukturierte Begründung nach § 14 Abs. 4 TzBfG und Sachgrundprüfung; Beweisangebote im BAG-Zitierstil. |
@@ -129,7 +129,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung` | Sachgrundlose Befristung nach § 14 Abs. 2 TzBfG: zwei Jahre Gesamtdauer; dreimal verlaengerbar; Vorbeschaeftigungsverbot; BVerfG-Entscheidung 2018; BAG-Folgerechtsprechung; Karenzzeit-Diskussion; Rechtsfolge § 16 TzBfG. |
 | `entfristung-sachgrundlos-14-abs-2a-neugruendung` | Sachgrundlose Befristung bei Unternehmensneugründung nach § 14 Abs. 2a TzBfG: vier Jahre Gesamtdauer; Neugründungsprivileg; Voraussetzungen der Neugründung; Abgrenzung zu blossen Unternehmensumstrukturierungen. |
 | `entfristung-sachgrundlos-14-abs-3-aelter-52` | Sachgrundlose Befristung für aeltere Arbeitnehmer nach § 14 Abs. 3 TzBfG: Befristung ab 52 Jahren; Voraussetzung Vorarbeitslosigkeit oder Massnahme aktiver Arbeitsmarktpolitik; EuGH-Entscheidung zur Vereinbarkeit mit… |
-| `entfristung-schriftform-14-abs-4-erkennen` | KERNSKILL: Schriftform nach § 14 Abs. 4 TzBfG für Befristungsabreden; eigenthaendige Unterschrift nach § 126 BGB erforderlich; KEINE elektronische Form bei Befristungsabrede; Rechtsfolge § 16 Satz 1 TzBfG Vertrag gilt… |
+| `entfristung-schriftform-14-abs-4-erkennen` | KERNSKILL: Schriftform nach § 14 Abs. 4 TzBfG für Befristungsabreden; Papieroriginal oder echte QES; Scan/einfache Signatur genügt nicht; Rechtsfolge § 16 Satz 1 TzBfG Vertrag gilt… |
 | `entfristung-triage-was-will-user` | Einstieg Entfristungsklage-Workflow: Erkennung ob Nutzer Befristungskontrollklage oder Entfristungsklage anstrebt; Abgrenzung zu Kündigungsschutzklage; Überblick Prüfprogramm TzBfG; Weiterleitung zu passenden… |
 | `entfristung-vergleichsverhandlung-checkliste` | Typische Vergleichsbausteine in der Entfristungsklage: Entfristungsbestätigung oder Beendigungsdatum mit Abfindung; Weiterbeschaeftigung oder Aufhebung; Zeugnis; Freistellung; Urlaubsabgeltung; Klageerledigung;… |
 | `expansion-aktualisierung` | Aktualisiert den Status eines laufenden Expansionsprojekts — ermittelt, welche Punkte nun freigegeben sind, kennzeichnet überfällige Positionen und benennt die nächsten Prioritäten. Lädt, wenn seit der letzten Sitzung… |
@@ -268,7 +268,7 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 - `entfristung-triage-was-will-user` — Einstieg: Befristungskontrollklage oder Entfristungsklage?
 - `entfristung-laie-oder-anwalt-frage` — Statusabfrage Anwalt oder Laie fuer Entfristungsklage.
 - `entfristung-schriftform-14-abs-4-erkennen` — KERNSKILL: Schriftformmangel nach § 14 Abs. 4 TzBfG als Unwirksamkeitsgrund.
-- `entfristung-elektronische-signatur-vorsicht` — qES genuegt nicht fuer Befristungsabrede; Rechtsfolge Unbefristetheit.
+- `entfristung-elektronische-signatur-vorsicht` — Scan/einfache Signatur von echter QES trennen; Rechtsfolge bei Formmangel Unbefristetheit.
 - `entfristung-grundwarnung-drei-wochen-frist` — § 17 TzBfG absolute Ausschlussfrist drei Wochen.
 - `entfristung-sachgrund-pruefen-14-abs-1` — Acht Sachgruende nach § 14 Abs. 1 TzBfG pruefen.
 - `entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung` — Sachgrundlose Befristung und Vorbeschaeftigungsverbot.
@@ -327,7 +327,7 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 ## Worauf besonders achten
 
 - **Drei-Wochen-Fristen sind absolute Ausschlussfristen**: § 4 KSchG und § 17 TzBfG dulden keine Versaeumnisse; nachtraegliche Klagezulassung nach § 5 KSchG nur bei unverschuldeter Fristversaeumung.
-- **Schriftformzwang bei Kuendigung und Befristung**: § 623 BGB (Kuendigung/Aufhebungsvertrag) und § 14 Abs. 4 TzBfG (Befristungsabrede) verlangen Papier-Schriftform; qES genuegt fuer Befristungsabrede nicht.
+- **Formzwang bei Kuendigung, Aufhebung und Befristung**: § 623 BGB (Kuendigung/Aufhebungsvertrag) schliesst elektronische Form aus; § 14 Abs. 4 TzBfG verlangt Schriftform, die bei echter QES nach § 126a BGB ersetzt werden kann. Scan/einfache Signatur genügt nicht.
 - **Betriebsratsanhoerung vor der Kuendigung**: Eine inhaltlich unvollstaendige Anhoerung macht die Kuendigung unwirksam; BAG-Anforderungen an Mitteilung von Kuendigungsgrund und Sozialdaten.
 - **Equal Pay Paarvergleich (BAG 23.10.2025)**: Ein einziger besser bezahlter maennlicher Kollege bei gleicher Arbeit begründet bereits die Vermutung des § 22 AGG; Median-Argumente sind nicht mehr ausreichend.
 - **Sperrzeit-Risiko beim Aufhebungsvertrag**: Ohne ausdruecklichen wichtigen Grund im Sinne von § 159 SGB III droht eine 12-woechige Sperrzeit; Abfindungs-Faustformel (0.25 bis 0.5 Bruttogehalt pro Jahr) als Schutz.
@@ -336,7 +336,7 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 
 - Klagefrist § 4 KSchG als Drei-Wochen-Bitte missverstanden: Die Frist laeuft ab Zugang der Kuendigung, nicht ab Erhalt eines Briefes, und ist strikt.
 - Betriebsratsanhoerung nach Ausspruch der Kuendigung nachgeholt: Die Anhoerung muss vor der Kuendigung abgeschlossen sein; nachtraegliche Heilung ist ausgeschlossen.
-- Aufhebungsvertrag ohne Schriftformkontrolle: § 623 BGB verlangt Papier-Schriftform; muendlich oder per E-Mail geschlossene Aufhebungsvertraege sind nichtig.
+- Aufhebungsvertrag ohne Schriftformkontrolle: § 623 BGB verlangt Schriftform und schliesst elektronische Form aus; muendlich, per E-Mail oder per QES geschlossene Aufhebungsvertraege sind nichtig.
 - AGG-Fristen versaeumt: Entschaedigungsanspruch nach § 15 Abs. 4 AGG verfaellt in zwei Monaten ab Benachteiligung; Frist wird selten beachtet.
 - Massenentlassungsanzeige nach der Kuendigung gestellt: EuGH Junk C-188/03 verlangt die Anzeige vor Ausspruch der Kuendigung; Verstoss macht alle Kuendigungen unwirksam.
 

@@ -1,27 +1,27 @@
 ---
 name: entfristung-elektronische-signatur-vorsicht
-description: "Elektronische Signaturen und Befristungsabreden: qualifizierte elektronische Signatur genuegt NICHT für § 14 Abs. 4 TzBfG i.V.m. § 126 BGB; DocuSign Adobe Sign HelloSign als Erkennungsmerkmale; Unterscheidung einfache fortgeschrittene qualifizierte elektronische Signatur; Rechtsfolge § 16 Satz 1 TzBfG unbefristeter Vertrag."
+description: "Elektronische Signaturen und Befristungsabreden: einfache Signatur, Scan und fortgeschrittene Signatur genuegen nicht; echte qualifizierte elektronische Signatur nach § 126a BGB kann die Schriftform ersetzen. Prüft DocuSign Adobe Sign HelloSign Zertifikate, beide Parteien, Timing, Zugang und Rechtsfolge § 16 Satz 1 TzBfG."
 ---
 
 # Vorsicht: Elektronische Signaturen bei Befristungsabreden
 
 ## Zweck
 
-In der Praxis werden Arbeitsverträge immer häufiger digital unterzeichnet. Dieser Skill erklärt, warum das für die Befristungsabrede problematisch ist — und wie man erkennt, ob ein Vertrag elektronisch unterzeichnet wurde.
+In der Praxis werden Arbeitsverträge immer häufiger digital unterzeichnet. Dieser Skill trennt sauber zwischen Scan/einfacher Signatur, fortgeschrittener elektronischer Signatur und echter qualifizierter elektronischer Signatur (QES). Gerade bei Befristungen ist diese Unterscheidung prozessentscheidend.
 
 ## Zentrale Normen
 
 - **§ 14 Abs. 4 TzBfG** — Schriftformerfordernis für Befristungsabreden
-- **§ 126 BGB** — gesetzliche Schriftform: eigenhändige Unterschrift auf Urkunde
-- **§ 126a BGB** — elektronische Form (qualifizierte elektronische Signatur); für Befristungsabreden ausdrücklich ausgeschlossen
+- **§ 126 BGB** — gesetzliche Schriftform; § 126 Abs. 3 BGB erlaubt Ersatz durch elektronische Form, wenn das Gesetz nichts anderes bestimmt
+- **§ 126a BGB** — elektronische Form durch qualifizierte elektronische Signatur
 - **§ 16 S. 1 TzBfG** — Rechtsfolge unwirksamer Befristung: Vertrag gilt als unbefristet
 - **§ 17 TzBfG** — Klagefrist 3 Wochen ab vereinbartem Vertragsende (absolute Ausschlussfrist!)
 
 ## Das Problem
 
-§ 14 Abs. 4 TzBfG verlangt für Befristungsabreden die gesetzliche Schriftform nach § 126 BGB — also eigenhändige Unterschrift. Die elektronische Form (§ 126a BGB — qualifizierte elektronische Signatur) ist für Befristungsabreden ausdrücklich ausgeschlossen.
+§ 14 Abs. 4 TzBfG verlangt für Befristungsabreden Schriftform. Ein Scan, eine eingefügte Bildunterschrift, ein Klick im Portal oder eine fortgeschrittene elektronische Signatur ersetzt diese Form nicht.
 
-**Das bedeutet:** Selbst wenn ein Arbeitsvertrag mit einer qualifizierten elektronischen Signatur unterzeichnet wurde, ist die darin enthaltene Befristungsklausel **unwirksam**. Rechtsfolge: § 16 Satz 1 TzBfG — der Vertrag gilt als unbefristet.
+**Das bedeutet:** Eine echte QES nach § 126a BGB kann die gesetzliche Schriftform grundsätzlich ersetzen. Sie muss aber wirklich qualifiziert sein, von beiden Parteien in der richtigen Form angebracht werden und rechtzeitig vor Vertragsbeginn zugehen. Wenn nur ein Scan oder eine einfache/fortgeschrittene Signatur vorliegt, ist die Befristungsabrede regelmäßig formunwirksam; Rechtsfolge: § 16 Satz 1 TzBfG — der Vertrag gilt als unbefristet.
 
 ## Rechtsprechung und Dogmatik
 
@@ -60,23 +60,24 @@ In der Praxis werden Arbeitsverträge immer häufiger digital unterzeichnet. Die
 |---|---|---|
 | Einfache (eingescannte Unterschrift, Klick) | Niedrig | Nein |
 | Fortgeschrittene (kryptographisch, ohne Zertifikat) | Mittel | Nein |
-| Qualifizierte (mit qualifiziertem Zertifikat, z.B. eID) | Hoch | Nein (ausdrücklich ausgeschlossen) |
+| Qualifizierte (mit qualifiziertem Zertifikat, z.B. eID) | Hoch | Ja, wenn beide Erklärungen § 126a BGB erfüllen und rechtzeitig zugehen |
 | Eigenhändige Unterschrift auf Papier | Höchste (gesetzliche Schriftform) | Ja |
 
 ## Prüfschritte im Entfristungsworkflow
 
 1. Wie wurde der Arbeitsvertrag übermittelt? (E-Mail, Portal, Papier)
 2. Liegt eine Originalurkunde mit Tintensignatur vor?
-3. Haben beide Parteien dasselbe Dokument unterschrieben?
-4. War der Vertrag vor Arbeitsaufnahme unterschrieben?
-5. Gibt es Verlängerungsabreden? — Auch diese müssen schriftlich sein.
-6. Drohende 3-Wochen-Frist § 17 TzBfG: Wann endet der Vertrag laut Urkunde?
+3. Falls digital: liegt ein QES-Zertifikat beider Parteien vor oder nur eine einfache/fortgeschrittene Signatur?
+4. Haben beide Parteien dasselbe Dokument oder jeweils die für die andere Seite bestimmte Ausfertigung wirksam unterzeichnet?
+5. War der Vertrag vor Arbeitsaufnahme unterzeichnet und zugegangen?
+6. Gibt es Verlängerungsabreden? — Auch diese müssen formwirksam sein.
+7. Drohende 3-Wochen-Frist § 17 TzBfG: Wann endet der Vertrag laut Urkunde?
 
 ## Fazit
 
-Auch ein professionell digital unterzeichneter Vertrag über DocuSign, Adobe Sign oder ähnliche Plattformen erfüllt die Schriftform für Befristungsabreden nicht. Die Befristungsabrede ist unwirksam. Der Vertrag gilt als unbefristet (§ 16 S. 1 TzBfG).
+Ein professionell aussehender Signaturvorgang genügt nicht automatisch. Entscheidend ist, ob wirklich eine QES nach § 126a BGB vorliegt. Ohne QES oder Papieroriginal ist die Befristungsabrede regelmäßig unwirksam; mit echter QES ist sie nicht allein wegen der elektronischen Form angreifbar.
 
-**Praxishinweis:** Diese Rechtslage ist in der Praxis noch nicht allgemein bekannt. Viele Arbeitgeber schließen Verträge über digitale Plattformen ab, ohne sich der rechtlichen Konsequenzen für Befristungsabreden bewusst zu sein. Das ist eine häufig unterschätzte Grundlage für Entfristungsklagen.
+**Praxishinweis:** Viele Arbeitgeber nutzen Portale, deren Standard-Signatur nur einfach oder fortgeschritten ist. Nicht der Markenname der Plattform entscheidet, sondern das konkrete Zertifikat, die Signaturstufe, die Identifizierung und der rechtzeitige Zugang.
 
 ## Kommentarliteratur
 

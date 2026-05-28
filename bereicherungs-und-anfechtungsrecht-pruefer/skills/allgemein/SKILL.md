@@ -1,13 +1,13 @@
 ---
 name: allgemein
-description: "Einstieg, Schnelltriage und Workflow-Routing im Bereicherungs Und Anfechtungsrecht Prüfer-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage."
+description: "Einstieg, Schnelltriage und Workflow-Routing im Bereicherungs- und Anfechtungsrecht-Prüfer. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage."
 ---
 
 # Bereicherungs- und Anfechtungsrecht-Prüfer — Allgemein
 
 ## Schnellstart-Workflow
 
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Bereicherungs Und Anfechtungsrecht Prüfer**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
+Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Bereicherungs- und Anfechtungsrecht-Prüfer**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
 
 **Plugin-Fokus:** Mechanisches Durchprüfen von Bereicherungsrecht §§ 812 ff. BGB, AnfG und Insolvenzanfechtung §§ 129-147 InsO. Mit KI-Screening von Schuldnerakten, § 135 Gesellschafterdarlehen, Bargeschäft § 142 und Verteidigung des Anfechtungsgegners. Keine Rechtsberatung.
 
@@ -36,7 +36,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 - **Erkannt:** [Materialart, Absender/Aktenzeichen falls sichtbar]
 - **Frist zuerst:** [konkretes Datum/Risiko oder `keine Frist erkennbar`]
 - **Einordnung:** [Rechtsgebiet/Normengruppe/Arbeitsmodus]
-- **Primärer Pfad:** `skill-name` — [warum dieser Skill hilft]
+- **Primärer Pfad:** konkreter Skill aus diesem Plugin, z.B. `weichenstellung-bereicherung-oder-anfechtung` — [warum dieser Skill hilft]
 - **Alternativen:** `...`, `...`
 - **Nächster Schritt:** [direkte Bearbeitung oder genau eine konkrete Rückfrage]
 
@@ -106,7 +106,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `anfg-fristen-und-anfechtungszeitraum` | Anfechtungsfristen im außerinsolvenzlichen Anfechtungsrecht bestimmen: zehn Jahre Vorsatzanfechtung, vier Jahre unentgeltliche Leistung. Normen: §§ 3 4 AnfG, §§ 195 199 BGB. Prüfraster: Fristbeginn, Fristberechnung,… |
 | `anfg-grundtatbestand-und-anfechtungsberechtigte` | Grundvoraussetzungen der außerinsolvenzlichen Gläubigeranfechtung klären: vollstreckbarer Titel, fällige Forderung, Gläubigerbenachteiligung. Normen: §§ 1 2 AnfG, §§ 195 199 BGB. Prüfraster: Anfechtungsberechtigung,… |
 | `anfg-mittelbare-benachteiligung-und-kongruenz` | Kongruente und inkongruente Deckung sowie mittelbare Gläubigerbenachteiligung im AnfG-Kontext analysieren. Normen: §§ 1 3 4 AnfG. Prüfraster: unmittelbar vs. mittelbar begünstigende Rechtshandlung, Kongruenz,… |
-| `anfg-rechtsfolge-rückgewähr-11` | Rechtsfolge bei erfolgreicher AnfG-Anfechtung bestimmen: Duldungspflicht des Anfechtungsgegners und Wertersatz nach § 11 AnfG. Normen: § 11 AnfG, §§ 819 ff. BGB analog. Prüfraster: Duldung vs. Wertersatz,… |
+| `anfg-rechtsfolge-rueckgewaehr-11` | Rechtsfolge bei erfolgreicher AnfG-Anfechtung bestimmen: Duldungspflicht des Anfechtungsgegners und Wertersatz nach § 11 AnfG. Normen: § 11 AnfG, §§ 819 ff. BGB analog. Prüfraster: Duldung vs. Wertersatz,… |
 | `anfg-unentgeltliche-leistung-4` | Anfechtung unentgeltlicher Leistungen außerhalb der Insolvenz prüfen: Schenkungsanfechtung in den letzten vier Jahren nach § 4 AnfG. Normen: § 4 AnfG. Prüfraster: Unentgeltlichkeitsbegriff, gemischte Schenkungen,… |
 | `anfg-vorsatzanfechtung-3-i` | Vorsatzanfechtung außerhalb der Insolvenz geltend machen: Benachteiligungsvorsatz und Kenntnis des Anfechtungsgegners nach § 3 Abs. 1 AnfG. Normen: § 3 Abs. 1 AnfG. Prüfraster: Benachteiligungsvorsatz-Indizien,… |
 | `ausschluss-814-bgb-kenntnis-der-nichtschuld` | Bereicherungsanspruch scheitert an § 814 BGB wegen positiver Kenntnis des Leistenden von der Nichtschuld. Normen: § 814 BGB. Prüfraster: positive Kenntnis vs. bloss Zweifel, Zeitpunkt der Kenntnis, Abgrenzung zu… |
@@ -117,11 +117,11 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `falsche-wiese-warnung-bereicherung-anfechtung` | Typische Falschverortungen erkennen: Vertrag statt Bereicherung, Bereicherung statt Anfechtung, AnfG statt InsO. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Abgrenzungsmatrix, häufige systematische… |
 | `inso-bargeschaeft-142` | Bargeschäft nach § 142 InsO prüfen: unmittelbarer gleichwertiger Leistungsaustausch, Geschäftsverkehrsübung, Arbeitsentgelt-Drei-Monats-Regel, Verhältnis zu §§ 130-132 und Vorsatzanfechtung § 133 mit erkannter… |
 | `inso-gesellschafterdarlehen-135` | Gesellschafterdarlehen und gleichgestellte Forderungen nach § 135 InsO prüfen: Sicherheiten zehn Jahre, Befriedigung ein Jahr, Drittdarlehen mit Gesellschaftersicherheit, Gebrauchsüberlassung, Sanierungsprivileg und… |
-| `inso-grundtatbestand-129-gläubigerbenachteiligung` | Grundvoraussetzungen der Insolvenzanfechtung nach § 129 InsO klären: Rechtshandlung, objektive Gläubigerbenachteiligung, Kausalität. Normen: § 129 InsO. Prüfraster: Rechtshandlungsbegriff, unmittelbare vs. mittelbare… |
+| `inso-grundtatbestand-129-glaeubigerbenachteiligung` | Grundvoraussetzungen der Insolvenzanfechtung nach § 129 InsO klären: Rechtshandlung, objektive Gläubigerbenachteiligung, Kausalität. Normen: § 129 InsO. Prüfraster: Rechtshandlungsbegriff, unmittelbare vs. mittelbare… |
 | `inso-inkongruente-deckung-131` | Inkongruente Deckungsanfechtung nach § 131 InsO prüfen: Sicherung oder Befriedigung, die der Gläubiger nicht, nicht in der Art oder nicht zu der Zeit beanspruchen konnte. Fristen letzter Monat, zweiter oder dritter… |
 | `inso-ki-anfechtungsansprueche-schuldnerakten` | KI-gestütztes Screening von Schuldnerakten auf mögliche Insolvenzanfechtungsansprüche nach §§ 129-147 InsO. Prüft Zahlungsdaten, Kontoauszüge, OPOS, Verträge, Sicherheiten, Gesellschafterdarlehen und Kommunikation;… |
 | `inso-kongruente-deckung-130` | Kongruente Deckungsanfechtung nach § 130 InsO prüfen: geschuldete Sicherung oder Befriedigung, Drei-Monats-Zeitraum vor Insolvenzantrag oder Handlung nach Antrag, Zahlungsunfähigkeit, Kenntnis oder zwingende… |
-| `inso-rechtsfolge-rückgewähr-143-bis-147` | Rechtsfolgen der Insolvenzanfechtung nach §§ 143-147 InsO bestimmen: Rückgewähr zur Masse, Geldschuld und Zinsen, Entreicherung bei unentgeltlicher Leistung, Gegenleistung § 144, Rechtsnachfolger § 145, Verjährung §… |
+| `inso-rechtsfolge-rueckgewaehr-143-bis-147` | Rechtsfolgen der Insolvenzanfechtung nach §§ 143-147 InsO bestimmen: Rückgewähr zur Masse, Geldschuld und Zinsen, Entreicherung bei unentgeltlicher Leistung, Gegenleistung § 144, Rechtsnachfolger § 145, Verjährung §… |
 | `inso-unentgeltliche-leistung-134` | Anfechtung unentgeltlicher Leistungen in der Insolvenz nach § 134 InsO prüfen: vier Jahre vor Insolvenzantrag. Normen: § 134 InsO. Prüfraster: Unentgeltlichkeitsbegriff, Ausnahmen Anstandsschenkungen, nahestehende… |
 | `inso-unmittelbar-nachteilige-rechtshandlungen-132` | Anfechtung unmittelbar nachteiliger Rechtshandlungen nach § 132 InsO prüfen: Benachteiligung in den letzten drei Monaten. Normen: §§ 132 129 InsO. Prüfraster: unmittelbare Nachteiligkeit, Kausalität, Drei-Monats-Frist,… |
 | `inso-verteidigung-anfechtungsgegner` | Verteidigung des Anfechtungsgegners gegen Insolvenzanfechtung nach §§ 129-147 InsO strukturieren. Prüft fehlende Rechtshandlung oder Gläubigerbenachteiligung, Fristen, Kenntnis, § 133-Vermutungen, Bargeschäft § 142,… |
@@ -136,13 +136,13 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `output-anfechtungsanzeige-insolvenzverwalter` | Anschreiben des Insolvenzverwalters an den Anfechtungsgegner erstellen: Rückgewähr nach §§ 129 ff. und § 143 InsO, Tatbestand transaktionsscharf benennen, § 142- und § 144-Hinweise, Zinsen nur bei Verzug oder § 291… |
 | `output-anfechtungsklage-anfg` | Klageschrift für AnfG-Anfechtungsklage des Vollstreckungsgläubigers aufbauen: Rubrum, Duldungsantrag, Begründungsstruktur. Normen: §§ 2 11 13 AnfG. Prüfraster: Antragsformulierung, Begründungsaufbau… |
 | `output-klageschrift-bereicherungsklage` | Klageschrift aus Bereicherungsrecht §§ 812 ff. BGB aufbauen: Klageantrag auf Zahlung oder Herausgabe, ODUE-Schema. Normen: §§ 812 818 BGB, §§ 253 313 ZPO. Prüfraster: Obersatz, Definition, Untersatz, Ergebnis,… |
-| `output-warnhinweis-und-prüfungsdokument` | Pflicht-Header und Warnblock für alle Prüfungsdokumente generieren: kein Rechtsrat, nur mechanische Prüfung. Normen: BRAO § 3. Prüfraster: Warnhinweis, Haftungsausschluss, Hinweis auf unvollständige Sachverhalte.… |
-| `parallel-und-konkurrenz-prüfung` | Bereicherungsrecht und Anfechtungsrecht gleichzeitig prüfen: Anspruchskonkurrenzen und gegenseitige Beeinflussung aller drei Regelungskreise. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Parallelität,… |
+| `output-warnhinweis-und-pruefungsdokument` | Pflicht-Header und Warnblock für alle Prüfungsdokumente generieren: kein Rechtsrat, nur mechanische Prüfung. Normen: BRAO § 3. Prüfraster: Warnhinweis, Haftungsausschluss, Hinweis auf unvollständige Sachverhalte.… |
+| `parallel-und-konkurrenz-pruefung` | Bereicherungsrecht und Anfechtungsrecht gleichzeitig prüfen: Anspruchskonkurrenzen und gegenseitige Beeinflussung aller drei Regelungskreise. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Parallelität,… |
 | `triage-vermoegensverschiebung-erfassen` | Erster Schritt: Vermögenverschiebung strukturiert erfassen für Bereicherungs- und Anfechtungsrecht. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Wer hat was an wen geleistet, Zeitpunkt, Belegsicherung,… |
 | `umfang-der-herausgabe-818-bgb-und-entreicherung` | Umfang der Bereicherungshaftung und Entreicherungseinrede nach § 818 BGB bestimmen. Normen: §§ 818 819 BGB. Prüfraster: Erlangtes, Surrogate, Nutzungen, Wertersatz, Entreicherungseinrede, Bösgläubigkeit. Output:… |
-| `verfügung-eines-nichtberechtigten-816-bgb` | Bereicherungsanspruch des Berechtigten nach § 816 BGB gegen verfügenden Nichtberechtigten prüfen. Normen: § 816 BGB. Prüfraster: wirksame Verfügung durch Gutglaubenserwerb oder Genehmigung, entgeltlich vs.… |
+| `verfuegung-eines-nichtberechtigten-816-bgb` | Bereicherungsanspruch des Berechtigten nach § 816 BGB gegen verfügenden Nichtberechtigten prüfen. Normen: § 816 BGB. Prüfraster: wirksame Verfügung durch Gutglaubenserwerb oder Genehmigung, entgeltlich vs.… |
 | `verjaehrung-bereicherung-anfechtung-fristen` | Verjährung und Anfechtungsfristen trennen: § 195 und § 199 BGB für Bereicherung, § 15 AnfG, § 146 InsO mit Verweis auf regelmäßige BGB-Verjährung. Prüft Fristbeginn, Kenntnis, grob fahrlässige Unkenntnis, Hemmung,… |
-| `verschärfte-haftung-819-bgb-bei-bösgläubigkeit` | Verschärfte Bereicherungshaftung nach § 819 BGB bei Bösgläubigkeit oder Rechtshängigkeit prüfen. Normen: §§ 819 818 Abs. 4 BGB. Prüfraster: Kenntnis des Mangels, Zeitpunkt, Umfang verschärfte Haftung,… |
+| `verschaerfte-haftung-819-bgb-bei-bosglaeubigkeit` | Verschärfte Bereicherungshaftung nach § 819 BGB bei Bösgläubigkeit oder Rechtshängigkeit prüfen. Normen: §§ 819 818 Abs. 4 BGB. Prüfraster: Kenntnis des Mangels, Zeitpunkt, Umfang verschärfte Haftung,… |
 | `weichenstellung-bereicherung-oder-anfechtung` | Triage-Entscheidung: welcher Regelungskreis ist einschlägig - Bereicherungsrecht, außerinsolvenzliche Anfechtung oder Insolvenzanfechtung. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Rechtsgrundmangel,… |
 
 ## Worum geht es?
@@ -195,7 +195,7 @@ Die Weichenstellung zwischen den drei Regelungskreisen ist die häufigste Fehler
 - `triage-vermoegensverschiebung-erfassen` — Erster Schritt zur strukturierten Erfassung der Vermögensverschiebung für alle drei Regelungskreise.
 - `weichenstellung-bereicherung-oder-anfechtung` — Triage-Entscheidung: welcher Regelungskreis ist einschlägig.
 - `falsche-wiese-warnung-bereicherung-anfechtung` — Erkennt typische Falschverortungen und leitet zum richtigen Regelungskreis weiter.
-- `parallel-und-konkurrenz-prüfung` — Prüft alle drei Regelungskreise gleichzeitig auf Anspruchskonkurrenzen.
+- `parallel-und-konkurrenz-pruefung` — Prüft alle drei Regelungskreise gleichzeitig auf Anspruchskonkurrenzen.
 
 **Bereicherungsrecht — Grundtatbestände**
 
@@ -207,14 +207,14 @@ Die Weichenstellung zwischen den drei Regelungskreisen ist die häufigste Fehler
 **Bereicherungsrecht — Spezialtatbestände**
 
 - `condictio-indebiti-813-bgb` — Rückforderung trotz Erfüllung einer einredebehafteten Verbindlichkeit.
-- `verfügung-eines-nichtberechtigten-816-bgb` — Anspruch des Berechtigten nach § 816 BGB.
+- `verfuegung-eines-nichtberechtigten-816-bgb` — Anspruch des Berechtigten nach § 816 BGB.
 - `bereicherung-eines-dritten-822-bgb` — Bereicherungsanspruch gegen Dritten bei unentgeltlicher Weitergabe.
 - `mehrpersonenverhaeltnisse-direkt-und-durchgriffskondiktion` — Bereicherungsausgleich in Drei- und Mehrpersonenverhältnissen.
 
 **Bereicherungsrecht — Umfang und Ausschlüsse**
 
 - `umfang-der-herausgabe-818-bgb-und-entreicherung` — Umfang der Bereicherungshaftung und Entreicherungseinrede.
-- `verschärfte-haftung-819-bgb-bei-bösgläubigkeit` — Verschärfte Haftung bei Bösgläubigkeit oder Rechtshängigkeit.
+- `verschaerfte-haftung-819-bgb-bei-bosglaeubigkeit` — Verschärfte Haftung bei Bösgläubigkeit oder Rechtshängigkeit.
 - `ausschluss-814-bgb-kenntnis-der-nichtschuld` — Ausschluss bei Kenntnis der Nichtschuld.
 - `ausschluss-817-bgb-gesetzes-und-sittenverstoss` — Ausschluss bei eigenem Gesetzes- oder Sittenverstoß.
 
@@ -229,14 +229,14 @@ Die Weichenstellung zwischen den drei Regelungskreisen ist die häufigste Fehler
 - `anfg-vorsatzanfechtung-3-i` — Vorsatzanfechtung nach § 3 Abs. 1 AnfG mit Zehn-Jahres-Frist.
 - `anfg-unentgeltliche-leistung-4` — Anfechtung unentgeltlicher Leistungen nach § 4 AnfG.
 - `anfg-mittelbare-benachteiligung-und-kongruenz` — Kongruenz und mittelbare Gläubigerbenachteiligung im AnfG.
-- `anfg-rechtsfolge-rückgewähr-11` — Duldungspflicht und Wertersatz nach § 11 AnfG.
+- `anfg-rechtsfolge-rueckgewaehr-11` — Duldungspflicht und Wertersatz nach § 11 AnfG.
 - `anfg-fristen-und-anfechtungszeitraum` — Anfechtungsfristen im AnfG: zehn Jahre Vorsatz, vier Jahre unentgeltlich.
 - `anfg-einreden-und-verteidigung-anfechtungsgegner` — Verteidigung des Anfechtungsgegners gegen AnfG-Klage.
 - `anfg-anfechtungsklage-prozessuales` — Prozessuales zur AnfG-Anfechtungsklage.
 
 **Insolvenzanfechtung (§§ 129 ff. InsO)**
 
-- `inso-grundtatbestand-129-gläubigerbenachteiligung` — Grundtatbestand Insolvenzanfechtung: Rechtshandlung und Gläubigerbenachteiligung.
+- `inso-grundtatbestand-129-glaeubigerbenachteiligung` — Grundtatbestand Insolvenzanfechtung: Rechtshandlung und Gläubigerbenachteiligung.
 - `inso-kongruente-deckung-130` — Kongruente Deckungsanfechtung nach § 130 InsO.
 - `inso-inkongruente-deckung-131` — Inkongruente Deckungsanfechtung nach § 131 InsO.
 - `inso-unmittelbar-nachteilige-rechtshandlungen-132` — Anfechtung unmittelbar nachteiliger Rechtshandlungen nach § 132 InsO.
@@ -244,7 +244,7 @@ Die Weichenstellung zwischen den drei Regelungskreisen ist die häufigste Fehler
 - `inso-unentgeltliche-leistung-134` — Anfechtung unentgeltlicher Leistungen nach § 134 InsO.
 - `inso-gesellschafterdarlehen-135` — Gesellschafterdarlehen, gleichgestellte Forderungen, Drittdarlehen mit Gesellschaftersicherheit.
 - `inso-bargeschaeft-142` — Bargeschäft nach § 142 InsO ohne starre 30-Tage-Regel.
-- `inso-rechtsfolge-rückgewähr-143-bis-147` — Rechtsfolgen der Insolvenzanfechtung nach §§ 143 bis 147 InsO.
+- `inso-rechtsfolge-rueckgewaehr-143-bis-147` — Rechtsfolgen der Insolvenzanfechtung nach §§ 143 bis 147 InsO.
 - `inso-ki-anfechtungsansprueche-schuldnerakten` — KI-gestütztes Screening von Schuldnerakten auf mögliche Anfechtungsansprüche mit Beleg- und Human-Review-Matrix.
 - `inso-verteidigung-anfechtungsgegner` — Verteidigung gegen Insolvenzanfechtung aus Sicht des Anfechtungsgegners.
 
@@ -257,7 +257,7 @@ Die Weichenstellung zwischen den drei Regelungskreisen ist die häufigste Fehler
 - `output-klageschrift-bereicherungsklage` — Klageschrift aus Bereicherungsrecht §§ 812 ff. BGB aufbauen.
 - `output-anfechtungsanzeige-insolvenzverwalter` — Anschreiben des Insolvenzverwalters an Anfechtungsgegner erstellen.
 - `output-anfechtungsklage-anfg` — Klageschrift für AnfG-Anfechtungsklage des Vollstreckungsgläubigers.
-- `output-warnhinweis-und-prüfungsdokument` — Pflicht-Header und Warnblock für alle Prüfungsdokumente.
+- `output-warnhinweis-und-pruefungsdokument` — Pflicht-Header und Warnblock für alle Prüfungsdokumente.
 
 **Mandatssteuerung**
 

@@ -25,7 +25,7 @@ description: "Sprechzettel für Guetetermin und Kammertermin in der Entfristungs
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — Fehlt die eigenhändige Unterschrift auf einer Vertragsurkunde vor Arbeitsaufnahme, ist die Befristungsabrede formunwirksam; die elektronische Form ist ausdrücklich ausgeschlossen (§ 14 Abs. 4 Satz 2 TzBfG); die Rechtsfolge ist automatisch die unbegrenzte Laufzeit nach § 16 Satz 1 TzBfG.
+- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — Fehlt vor Arbeitsaufnahme eine formwirksame Unterzeichnung der Befristungsabrede, ist sie formunwirksam; Scan, E-Mail oder einfache Portalsignatur genügen nicht. Rechtsfolge ist die unbegrenzte Laufzeit nach § 16 Satz 1 TzBfG.
 - BAG, Urt. v. 01.12.2004 – 7 AZR 198/04, NZA 2005, 337 — Das Schriftformgebot des § 14 Abs. 4 TzBfG ist eine konstitutive Wirksamkeitsvoraussetzung der Befristungsabrede; beide Parteien müssen dieselbe Urkunde unterzeichnen (Einheitlichkeit der Urkunde).
 - BAG, Urt. v. 14.04.2010 – 7 AZR 121/09, NZA 2010, 1152 — Beim Sachgrund Vertretung (§ 14 Abs. 1 Nr. 3 TzBfG) muss der Arbeitgeber im Verfahren konkret darlegen, dass ein Vertretungsbedarf bei Vertragsschluss objektiv vorlag; Pauschalbehauptungen genügen nicht.
 - BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 — Die Klagefrist des § 17 TzBfG ist eine materielle Ausschlussfrist; ihre Versäumnis führt zur Fiktion der Wirksamkeit der Befristung unabhängig davon, wie schwerwiegend der Formfehler ist.
@@ -73,7 +73,7 @@ description: "Sprechzettel für Guetetermin und Kammertermin in der Entfristungs
 ## Kernargumente — Schriftformmangel (§ 14 Abs. 4 TzBfG)
 
 1. **Norm:** § 14 Abs. 4 TzBfG: Schriftform ist konstitutive Wirksamkeitsvoraussetzung der Befristungsabrede
-2. **Inhalt:** § 126 BGB: Eigenhändige Unterschrift auf Urkunde — elektronische Form ausdrücklich ausgeschlossen (§ 14 Abs. 4 Satz 2 TzBfG)
+2. **Inhalt:** § 126 BGB: eigenhändige Unterschrift auf Urkunde; elektronische Form nur bei echter QES nach § 126a BGB
 3. **Einheitlichkeit:** Beide Parteien müssen dieselbe Urkunde unterzeichnen (BAG 7 AZR 198/04)
 4. **Zeitpunkt:** Unterschrift muss **vor** Arbeitsaufnahme erfolgt sein (BAG 7 AZR 1048/06)
 5. **Rechtsfolge:** § 16 Satz 1 TzBfG: Vertrag gilt als auf unbestimmte Zeit geschlossen — automatisch, ohne gerichtliche Gestaltung
