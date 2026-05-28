@@ -42,7 +42,7 @@ zwischen
 
   [Vor- und Nachname Gläubiger]
   [Anschrift]
-  - im Folgenden „der Gläubiger" -
+  - im Folgenden "der Gläubiger" -
 
 und
 
@@ -50,7 +50,7 @@ und
   vertreten durch [Geschäftsführer]
   [Anschrift]
   HRB [...] AG [...]
-  - im Folgenden „die Schuldnerin" -
+  - im Folgenden "die Schuldnerin" -
 
 1. Praeambel
 
@@ -133,7 +133,7 @@ Bei Sanierungsverzicht ist auf Gläubigergleichbehandlung zu achten. Wenn nur ei
 
 ### Besserungsschein-Trigger genau definieren
 
-Der Trigger für das Wiederaufleben muss objektiv und nachprüfbar sein. Klauseln wie „wenn es uns wieder besser geht" sind ungeeignet.
+Der Trigger für das Wiederaufleben muss objektiv und nachprüfbar sein. Klauseln wie "wenn es uns wieder besser geht" sind ungeeignet.
 
 ## Ausgabe
 

@@ -306,11 +306,11 @@ III. Zahlungsstufe:
 
 | Gegenargument Erbe | Reaktion |
 |-------------------|---------|
-| „Schenkung älter als 10 Jahre" | Ehegattenschenkung-Sonderregel § 2325 Abs. 3 BGB; Nießbrauch-Vorbehalt (BGH IV ZR 138/14); genaue Fristberechnung |
-| „Pflichtteilsverzicht liegt vor" | Prüfen ob notarielle Form § 2346 BGB gewahrt; Anfechtung wegen Irrtum/Täuschung § 2351 BGB |
-| „Pflichtteilsentzug angeordnet" | Enge Auslegung § 2333 BGB; Beweislast beim Erben (BGH IV ZR 211/00) |
-| „Vorausempfang anzurechnen" | Anrechnungsbestimmung schriftlich vereinbart? § 2315 BGB; nur bei ausdrücklicher Anrechnung |
-| „Nachlasswert überhöht bewertet" | Eigene SV-Bewertung; Niederstwertprinzip bei nicht verbrauchbaren Sachen |
+| "Schenkung älter als 10 Jahre" | Ehegattenschenkung-Sonderregel § 2325 Abs. 3 BGB; Nießbrauch-Vorbehalt (BGH IV ZR 138/14); genaue Fristberechnung |
+| "Pflichtteilsverzicht liegt vor" | Prüfen ob notarielle Form § 2346 BGB gewahrt; Anfechtung wegen Irrtum/Täuschung § 2351 BGB |
+| "Pflichtteilsentzug angeordnet" | Enge Auslegung § 2333 BGB; Beweislast beim Erben (BGH IV ZR 211/00) |
+| "Vorausempfang anzurechnen" | Anrechnungsbestimmung schriftlich vereinbart? § 2315 BGB; nur bei ausdrücklicher Anrechnung |
+| "Nachlasswert überhöht bewertet" | Eigene SV-Bewertung; Niederstwertprinzip bei nicht verbrauchbaren Sachen |
 
 ## Streitwert und Kosten
 

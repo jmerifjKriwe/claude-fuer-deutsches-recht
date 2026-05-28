@@ -45,15 +45,15 @@ Der Schluss einer E-Mail bleibt im Gedächtnis. Ein aggressiver Abschluss hinter
 
 ## Kategorien kooperativer Abschlussformulierungen
 
-**Rückmeldebitte:** „Ich freue mich auf Ihre Rückmeldung." — „Ich bitte um Ihre Rückmeldung bis TT.MM.JJJJ." — „Ich stehe Ihnen für Rückfragen jederzeit zur Verfügung."
+**Rückmeldebitte:** "Ich freue mich auf Ihre Rückmeldung." — "Ich bitte um Ihre Rückmeldung bis TT.MM.JJJJ." — "Ich stehe Ihnen für Rückfragen jederzeit zur Verfügung."
 
-**Gesprächsangebot:** „Für ein klärendes Gespräch stehe ich gerne zur Verfügung." — „Sollten Sie Fragen haben, sprechen Sie mich bitte an." — „Gerne erläutere ich meinen Standpunkt in einem persönlichen Gespräch."
+**Gesprächsangebot:** "Für ein klärendes Gespräch stehe ich gerne zur Verfügung." — "Sollten Sie Fragen haben, sprechen Sie mich bitte an." — "Gerne erläutere ich meinen Standpunkt in einem persönlichen Gespräch."
 
-**Einvernehmliche Lösung:** „Im Sinne einer einvernehmlichen Regelung..." — „Ich bin zuversichtlich, dass wir gemeinsam eine Lösung finden." — „Es ist mir daran gelegen, diese Angelegenheit im gegenseitigen Einvernehmen zu klären."
+**Einvernehmliche Lösung:** "Im Sinne einer einvernehmlichen Regelung..." — "Ich bin zuversichtlich, dass wir gemeinsam eine Lösung finden." — "Es ist mir daran gelegen, diese Angelegenheit im gegenseitigen Einvernehmen zu klären."
 
-**Dank:** „Ich danke Ihnen im Voraus für Ihre Bemühungen." — „Ich danke Ihnen für Ihre Aufmerksamkeit." — „Herzlichen Dank für Ihre rasche Rückmeldung."
+**Dank:** "Ich danke Ihnen im Voraus für Ihre Bemühungen." — "Ich danke Ihnen für Ihre Aufmerksamkeit." — "Herzlichen Dank für Ihre rasche Rückmeldung."
 
-**Zuversicht und Ausblick:** „Ich bin überzeugt, dass wir die offenen Fragen klären können." — „Ich sehe der weiteren Zusammenarbeit mit Interesse entgegen." — „Ich hoffe auf eine rasche und einvernehmliche Lösung."
+**Zuversicht und Ausblick:** "Ich bin überzeugt, dass wir die offenen Fragen klären können." — "Ich sehe der weiteren Zusammenarbeit mit Interesse entgegen." — "Ich hoffe auf eine rasche und einvernehmliche Lösung."
 
 ## Abstufung nach Kontext
 
@@ -65,14 +65,14 @@ In streitigen Situationen mit hohem Konfliktpotenzial: sachlicher Ausblick ohne 
 
 ## Beispiele Vorher/Nachher
 
-**Vorher:** „Ich erwarte Ihre Antwort." (abrupt, fordernd)
-**Nachher:** „Ich freue mich auf Ihre Rückmeldung und stehe für Rückfragen jederzeit zur Verfügung."
+**Vorher:** "Ich erwarte Ihre Antwort." (abrupt, fordernd)
+**Nachher:** "Ich freue mich auf Ihre Rückmeldung und stehe für Rückfragen jederzeit zur Verfügung."
 
 **Vorher:** (kein Abschluss, direkt Unterschrift)
-**Nachher:** „Im Sinne einer konstruktiven Klärung danke ich Ihnen für Ihre Aufmerksamkeit und freue mich auf Ihre Rückmeldung."
+**Nachher:** "Im Sinne einer konstruktiven Klärung danke ich Ihnen für Ihre Aufmerksamkeit und freue mich auf Ihre Rückmeldung."
 
-**Vorher:** „Das ist mein letztes Wort in dieser Sache."
-**Nachher:** „Ich hoffe, dass die vorstehenden Ausführungen zur Klärung beitragen. Für eine Rückmeldung bin ich jederzeit offen."
+**Vorher:** "Das ist mein letztes Wort in dieser Sache."
+**Nachher:** "Ich hoffe, dass die vorstehenden Ausführungen zur Klärung beitragen. Für eine Rückmeldung bin ich jederzeit offen."
 
 ## Ausgabeformat
 

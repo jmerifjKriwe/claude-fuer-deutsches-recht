@@ -9,7 +9,7 @@ Jede Vorlage gibt an, aus welcher Quelle die Basislinie stammt. Das Tabellenblat
 ## Verwendungshinweis
 
 1. Wählen Sie die Vorlage, die dem geltend gemachten Anspruch entspricht.
-2. Mit dem Benutzer klären: „Fügt die einschlägige Rechtsprechung oder das Gesetz Tatbestandsmerkmale hinzu, streicht welche oder formuliert sie anders?"
+2. Mit dem Benutzer klären: "Fügt die einschlägige Rechtsprechung oder das Gesetz Tatbestandsmerkmale hinzu, streicht welche oder formuliert sie anders?"
 3. Falls ja, Liste vor der Zuordnung anpassen.
 4. Auf dem Tabellenblatt `_elemente` festhalten: verwendete Vorlage, konsultierte Rechtsprechung oder Gesetz, etwaige spezifische Modifikationen.
 
@@ -310,7 +310,7 @@ Ein Anspruch, der nicht in dieser Bibliothek enthalten ist — Tatbestandsmerkma
 
 ### Patentverletzung (§§ 139, 140 PatG)
 
-**Tatbestandsmerkmale (Basislinie — §§ 9, 139 PatG; BGH GRUR 2012, 803 [„Tintenpatrone II"] Rn. 14):**
+**Tatbestandsmerkmale (Basislinie — §§ 9, 139 PatG; BGH GRUR 2012, 803 ["Tintenpatrone II"] Rn. 14):**
 1. Gültiges Patent (erteiltes und nicht für nichtig erklärtes Patent, §§ 1 ff. PatG)
 2. Benutzung der patentierten Erfindung ohne Zustimmung des Patentinhabers (§ 9 PatG: Herstellung, Anbieten, Inverkehrbringen, Gebrauch, Einführen oder Besitzen zu diesen Zwecken)
 3. Kausalität und Schaden (oder Lizenzanalogie)
@@ -319,7 +319,7 @@ Ein Anspruch, der nicht in dieser Bibliothek enthalten ist — Tatbestandsmerkma
 
 ### Markenverletzung (§§ 14, 15 MarkenG)
 
-**Tatbestandsmerkmale (Basislinie — § 14 MarkenG; BGH GRUR 2013, 1051 [„Kaffeekapsel"] Rn. 20):**
+**Tatbestandsmerkmale (Basislinie — § 14 MarkenG; BGH GRUR 2013, 1051 ["Kaffeekapsel"] Rn. 20):**
 1. Inhaber einer eingetragenen Marke oder bekannten Marke (§§ 4, 14 Abs. 2 MarkenG)
 2. Benutzung eines identischen oder ähnlichen Zeichens im geschäftlichen Verkehr (§ 14 Abs. 2 MarkenG)
 3. Verwechslungsgefahr (§ 14 Abs. 2 Nr. 2 MarkenG) oder Ausnutzung/Beeinträchtigung des Rufs einer bekannten Marke (§ 14 Abs. 2 Nr. 3 MarkenG)
@@ -366,7 +366,7 @@ Einreden haben eigene Tatbestandsmerkmale, die grundsätzlich von der Partei, di
 2. Vertrauenstatbestand (Umstandsmoment: Schuldner durfte annehmen, der Gläubiger werde den Anspruch nicht mehr geltend machen)
 3. Vertrauen des Schuldners in den Fortbestand dieser Lage
 
-### Arglistige Einrede (§ 242 BGB, „tu quoque")
+### Arglistige Einrede (§ 242 BGB, "tu quoque")
 
 **Tatbestandsmerkmale (Basislinie — § 242 BGB; BGH NJW 2014, 1233 Rn. 11):**
 1. Eigenes pflichtwidriges Verhalten des Klägers
@@ -403,7 +403,7 @@ Einreden haben eigene Tatbestandsmerkmale, die grundsätzlich von der Partei, di
 2. Kausalität des Mitverschuldens für den Schaden
 3. Quotelung nach Verursachungsbeiträgen
 
-*Hinweis: In Deutschland gibt es kein System des „pure contributory negligence" als vollständiger Ausschlussgrund; § 254 BGB führt immer zu einer Schadensquotelung, ggf. bis auf null.*
+*Hinweis: In Deutschland gibt es kein System des "pure contributory negligence" als vollständiger Ausschlussgrund; § 254 BGB führt immer zu einer Schadensquotelung, ggf. bis auf null.*
 
 ### Übernahme des Risikos (§ 254 BGB analog; § 31 StVG)
 

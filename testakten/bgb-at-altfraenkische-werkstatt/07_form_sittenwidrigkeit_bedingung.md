@@ -10,7 +10,7 @@ Kunigunde sagt, der Zettel sei nur Smalltalk gewesen. Adelheid meint, das sei ei
 
 ## Formfrage
 
-Im Chat sprach Hildebrand davon, die Presse könne „notfalls mit Grundstücksschuppen“ gekauft werden. Tatsächlich geht es aber nur um die bewegliche Maschine; der Schuppen steht auf fremdem Gelände und wird nicht verkauft.
+Im Chat sprach Hildebrand davon, die Presse könne "notfalls mit Grundstücksschuppen" gekauft werden. Tatsächlich geht es aber nur um die bewegliche Maschine; der Schuppen steht auf fremdem Gelände und wird nicht verkauft.
 
 ## Sittenwidrigkeitsvorwurf
 

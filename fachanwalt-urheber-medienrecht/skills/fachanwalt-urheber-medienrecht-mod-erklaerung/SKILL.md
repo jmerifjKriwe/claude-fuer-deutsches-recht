@@ -47,7 +47,7 @@ Die modifizierte Unterlassungserklärung ist das präzise Instrument zur Beseiti
 | BGH I ZR 89/12 | BGH, 04.07.2013 | Wiederholungsgefahr wird durch erste Verletzung unwiderleglich vermutet; nur strafbewehrte Erklärung beseitigt sie |
 | BGH I ZR 73/14 | BGH, 17.09.2015 | Hamburger Brauch: Vertragsstrafe vom Gläubiger nach billigem Ermessen, im Streitfall gerichtlich überprüfbar nach § 315 BGB |
 | BGH I ZR 220/15 | BGH, 26.01.2017 | Kerntheorie: Unterlassungsverpflichtung erfasst kerngleiche Verletzungshandlungen; präzise Formulierung schränkt Reichweite ein |
-| OLG Hamburg 5 U 10/18 | OLG Hamburg, 2018 | Globalisierungsklausel in Unterlassungserklärung zu weit: „jegliche urheberrechtliche Nutzung" begründet unverhältnismäßig breite Verpflichtung |
+| OLG Hamburg 5 U 10/18 | OLG Hamburg, 2018 | Globalisierungsklausel in Unterlassungserklärung zu weit: "jegliche urheberrechtliche Nutzung" begründet unverhältnismäßig breite Verpflichtung |
 | BGH I ZR 25/19 | BGH, 07.11.2019 | Negative Feststellungsklage § 256 ZPO nach Abmahnung: zulässig und zugelassen; schafft günstigen Gerichtsstand für den Abgemahnten |
 | BGH I ZR 59/21 | BGH, 14.10.2021 | Modifizierte Unterlassungserklärung beseitigt Wiederholungsgefahr auch wenn Abmahner sie nicht annimmt – Erklärung muss Ernsthaftigkeit belegen |
 
@@ -258,11 +258,11 @@ des Klägers nachweisbar]
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „Modifizierte UE wird nicht akzeptiert; nur unser Formular" | BGH I ZR 59/21: modifizierte Erklärung beseitigt Wiederholungsgefahr auch ohne Annahme durch Abmahner, wenn sie ernsthaft ist; Abmahner hat kein Recht auf genau die eigene Formulierung |
-| „Hamburger Brauch reicht nicht; wir brauchen feste EUR 10.000" | § 315 BGB: Gläubiger kann Betrag nach billigem Ermessen bestimmen; Gericht kontrolliert; feste überhöhte Beträge können nach § 307 BGB unwirksam sein |
-| „Erklärung ist zu eng gefasst; Kerntheorie gilt breiter" | BGH I ZR 220/15: Kerntheorie kann durch präzise Formulierung begrenzt werden; Streit über Reichweite im Einzelfall |
-| „Negative Feststellungsklage am Wohnsitz des Abgemahnten nicht zulässig" | BGH I ZR 25/19: negative Feststellungsklage nach Abmahnung ist am Wohnsitz des Abgemahnten zulässig; Gerichtsstand von Abmahner nicht aufgezwungen |
-| „Keine Anerkennung von Kosten ist treuwidrig" | § 97a Abs. 3 UrhG: Kostenerstattung begrenzt; Bestreiten ist kein Treuwidrigkeitsvorwurf sondern Rechtsverfolgung |
+| "Modifizierte UE wird nicht akzeptiert; nur unser Formular" | BGH I ZR 59/21: modifizierte Erklärung beseitigt Wiederholungsgefahr auch ohne Annahme durch Abmahner, wenn sie ernsthaft ist; Abmahner hat kein Recht auf genau die eigene Formulierung |
+| "Hamburger Brauch reicht nicht; wir brauchen feste EUR 10.000" | § 315 BGB: Gläubiger kann Betrag nach billigem Ermessen bestimmen; Gericht kontrolliert; feste überhöhte Beträge können nach § 307 BGB unwirksam sein |
+| "Erklärung ist zu eng gefasst; Kerntheorie gilt breiter" | BGH I ZR 220/15: Kerntheorie kann durch präzise Formulierung begrenzt werden; Streit über Reichweite im Einzelfall |
+| "Negative Feststellungsklage am Wohnsitz des Abgemahnten nicht zulässig" | BGH I ZR 25/19: negative Feststellungsklage nach Abmahnung ist am Wohnsitz des Abgemahnten zulässig; Gerichtsstand von Abmahner nicht aufgezwungen |
+| "Keine Anerkennung von Kosten ist treuwidrig" | § 97a Abs. 3 UrhG: Kostenerstattung begrenzt; Bestreiten ist kein Treuwidrigkeitsvorwurf sondern Rechtsverfolgung |
 
 ---
 

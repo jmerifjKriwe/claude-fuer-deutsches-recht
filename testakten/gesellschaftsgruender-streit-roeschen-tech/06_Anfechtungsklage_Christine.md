@@ -78,7 +78,7 @@ Die formelle Mehrheit von 75 % wurde damit erreicht.
 - Verwaesserung von 15 % auf 11,76 % (= 21,6 % relativ)
 - Stimmrechts-Verlust unter wesentliche Schwellen
 - Bewertungs-Verlust in mittleren Exit-Szenarien (siehe Cap Table Anlage K3)
-- Wirtschaftlich besser gestellt waeren die Gruender und Stahlauge — Verwaesserung war fuer sie strategisch waehrend Christine als „Lasttier" der Streckung diente
+- Wirtschaftlich besser gestellt waeren die Gruender und Stahlauge — Verwaesserung war fuer sie strategisch waehrend Christine als "Lasttier" der Streckung diente
 
 ---
 
@@ -92,7 +92,7 @@ Paragraf 55 IV GmbHG verlangt fuer den Bezugsrechtsausschluss eine **sachliche R
 
 Die BGH-Linie zum Bezugsrechtsausschluss beginnt mit der Kali+Salz-Entscheidung (BGH, Urt. v. 13.03.1978 - II ZR 142/76, BGHZ 71, 40):
 
-> „Der Bezugsrechtsausschluss ist nur zulaessig, wenn er
+> "Der Bezugsrechtsausschluss ist nur zulaessig, wenn er
 > (a) durch einen sachlichen Grund gerechtfertigt ist,
 > (b) zur Erreichung des Zwecks geeignet,
 > (c) erforderlich, und
@@ -101,7 +101,7 @@ Die BGH-Linie zum Bezugsrechtsausschluss beginnt mit der Kali+Salz-Entscheidung 
 Im vorliegenden Fall fehlt es bereits am **sachlichen Grund**:
 
 - **Pi Mu Holding GmbH** ist nach den oeffentlich zugaenglichen Registerdaten und eigenen Angaben ein Finanzinvestor, kein strategischer Investor.
-- Die behaupteten „industriellen Synergien" sind nicht substantiiert.
+- Die behaupteten "industriellen Synergien" sind nicht substantiiert.
 - Die Behauptung, Pi Mu Holding bringe **Markt-Zugang Industrie**, ist nicht belegt.
 
 Auch die **Erforderlichkeit** fehlt:

@@ -32,7 +32,7 @@ Dieser Skill hilft dabei, fachliche Kritik oder Zweifel an der Kompetenz eines A
 
 ## Der Unterschied: Sachkritik vs. Personenabwertung
 
-Sachkritik bezieht sich auf ein konkretes Handeln, Dokument oder Ergebnis. Sie ist nachprüfbar, begründet und verhältnismäßig. Personenabwertung bezieht sich auf die Person selbst — ihre Intelligenz, Ausbildung, Persönlichkeit — und ist nicht nachprüfbar. Die Grenze: „Dieser Schriftsatz enthält keinen Verweis auf § 278 BGB" ist Sachkritik. „Sie kennen § 278 BGB offenbar nicht" ist Personenabwertung.
+Sachkritik bezieht sich auf ein konkretes Handeln, Dokument oder Ergebnis. Sie ist nachprüfbar, begründet und verhältnismäßig. Personenabwertung bezieht sich auf die Person selbst — ihre Intelligenz, Ausbildung, Persönlichkeit — und ist nicht nachprüfbar. Die Grenze: "Dieser Schriftsatz enthält keinen Verweis auf § 278 BGB" ist Sachkritik. "Sie kennen § 278 BGB offenbar nicht" ist Personenabwertung.
 
 ## Technik: Vom Vorwurf zum Sachverhalt
 
@@ -40,7 +40,7 @@ Statt die Person als inkompetent zu bezeichnen, wird das konkrete Ergebnis bewer
 
 ## Technik: Rechtsprechungsverweis statt Urteil
 
-Die wirksamste Form respektvoller Fachkritik ist der Verweis auf einschlägige Normen oder Rechtsprechung: Nicht „Sie liegen falsch", sondern „Nach dem Urteil des BGH vom TT.MM.JJJJ (Az. XY) ist davon auszugehen, dass..." — dieser Verweis zeigt die Abweichung auf, ohne die Person anzugreifen.
+Die wirksamste Form respektvoller Fachkritik ist der Verweis auf einschlägige Normen oder Rechtsprechung: Nicht "Sie liegen falsch", sondern "Nach dem Urteil des BGH vom TT.MM.JJJJ (Az. XY) ist davon auszugehen, dass..." — dieser Verweis zeigt die Abweichung auf, ohne die Person anzugreifen.
 
 ## Berufsrechtlicher Hintergrund
 
@@ -50,12 +50,12 @@ Die wirksamste Form respektvoller Fachkritik ist der Verweis auf einschlägige N
 
 | Kompetenzangriff | Respektvolle Sachkritik |
 |---|---|
-| „Sie haben keine Ahnung" | „Die fachliche Einordnung erscheint mir abweichend von Rechtsprechung XY" |
-| „Das ist dilettantisch" | „Die Ausführung entspricht nicht dem üblichen Standard in dieser Frage" |
-| „Ihr Gutachten ist wertlos" | „Das Gutachten enthält keine Auseinandersetzung mit dem einschlägigen BGH-Urteil XY" |
-| „Ihr Anwalt ist überfordert" | „Die gewählte Strategie erscheint mir in Anbetracht von XY nicht optimal" |
-| „Das haben Sie falsch berechnet" | „In der Berechnung ergibt sich nach meiner Prüfung ein abweichender Wert" |
-| „Sie verstehen das Gesetz nicht" | „Die Norm des § XY wird in der Fachliteratur überwiegend anders ausgelegt" |
+| "Sie haben keine Ahnung" | "Die fachliche Einordnung erscheint mir abweichend von Rechtsprechung XY" |
+| "Das ist dilettantisch" | "Die Ausführung entspricht nicht dem üblichen Standard in dieser Frage" |
+| "Ihr Gutachten ist wertlos" | "Das Gutachten enthält keine Auseinandersetzung mit dem einschlägigen BGH-Urteil XY" |
+| "Ihr Anwalt ist überfordert" | "Die gewählte Strategie erscheint mir in Anbetracht von XY nicht optimal" |
+| "Das haben Sie falsch berechnet" | "In der Berechnung ergibt sich nach meiner Prüfung ein abweichender Wert" |
+| "Sie verstehen das Gesetz nicht" | "Die Norm des § XY wird in der Fachliteratur überwiegend anders ausgelegt" |
 
 ## Ausgabeformat
 

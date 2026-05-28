@@ -15,7 +15,7 @@ Eine Marktabgrenzung kann auf Einzelargumenten robust erscheinen, aber in sich w
 
 Ein global definierter Sachmarkt (z.B. Flugzeugantriebe) muss mit einem räumlichen Markt konsistent sein, der die globale Wettbewerbssituation widerspiegelt.
 
-Inkonsistenz-Beispiel: Sachmarkt „europäischer Markt für Onlinewerbung" + räumlicher Markt „Deutschland" → Widerspruch, wenn der Sachmarkt europäisch abgegrenzt, der räumliche Markt aber national.
+Inkonsistenz-Beispiel: Sachmarkt "europäischer Markt für Onlinewerbung" + räumlicher Markt "Deutschland" → Widerspruch, wenn der Sachmarkt europäisch abgegrenzt, der räumliche Markt aber national.
 
 ### 2. Konsistenz mit tatsächlichem Marktverhalten
 
@@ -46,7 +46,7 @@ Risiko: Selektives Zitieren von Präzedenzfällen, die zufällig die gewünschte
 ### 5. Zirkelschluss-Prüfung
 
 Klassischer Zirkelschluss:
-> „Das Unternehmen hat eine marktbeherrschende Stellung, weil sein Marktanteil hoch ist. Sein Marktanteil ist hoch, weil der Markt eng definiert wird. Der Markt wird eng definiert, weil das Unternehmen besondere Fähigkeiten hat, die andere nicht nachahmen können."
+> "Das Unternehmen hat eine marktbeherrschende Stellung, weil sein Marktanteil hoch ist. Sein Marktanteil ist hoch, weil der Markt eng definiert wird. Der Markt wird eng definiert, weil das Unternehmen besondere Fähigkeiten hat, die andere nicht nachahmen können."
 
 Nachweis: Die Marktdefinition folgt dem gewünschten Ergebnis, nicht der Evidenz.
 

@@ -7,9 +7,9 @@ description: "Analyse von Arbeitszeugnissen für Führungskräfte und leitende A
 
 Zeugnisse für Führungskräfte und leitende Angestellte unterliegen erhöhten inhaltlichen Erwartungen. Zu den allgemeinen Bausteinen (Leistung, Verhalten, Schlussformel) treten positionsspezifische Erwartungsbausteine: Mitarbeiterführung und -entwicklung, strategische Verantwortung, wirtschaftliche Verantwortung (Budget, P&L), Repräsentation nach außen und Unternehmensloyalität auf Führungsebene. Das Fehlen eines solchen Bausteins ist vor allem dann ein starkes rotes Signal, wenn die Führungsverantwortung unstreitig war und im Aufgabenblock selbst genannt wird.
 
-Die Mitarbeiterführungsaussage ist das wichtigste Merkmal des Führungskräfte-Zeugnisses. Formeln wie „führte ihre Mitarbeiter stets motivierend und mit großem Erfolg" (Grün) bis zu „pflegte einen kooperativen Führungsstil" (Orange) bis zum Fehlen jeglicher Führungsaussage (Rot) decken die Bandbreite ab. Besonders abwertend ist das Fehlen einer Aussage zur Führungsleistung kombiniert mit einer allgemeinen Kollegen-Verhaltensaussage — es suggeriert, dass die Führungsaufgabe gar nicht ausgeübt wurde.
+Die Mitarbeiterführungsaussage ist das wichtigste Merkmal des Führungskräfte-Zeugnisses. Formeln wie "führte ihre Mitarbeiter stets motivierend und mit großem Erfolg" (Grün) bis zu "pflegte einen kooperativen Führungsstil" (Orange) bis zum Fehlen jeglicher Führungsaussage (Rot) decken die Bandbreite ab. Besonders abwertend ist das Fehlen einer Aussage zur Führungsleistung kombiniert mit einer allgemeinen Kollegen-Verhaltensaussage — es suggeriert, dass die Führungsaufgabe gar nicht ausgeübt wurde.
 
-Strategische Verantwortung wird durch Formulierungen wie „war maßgeblich an der strategischen Ausrichtung beteiligt", „verantwortete die langfristige Planung des Bereichs" oder „trug wesentlich zur Unternehmensstrategie bei" ausgedrückt. Fehlt eine solche Aussage bei einem leitenden Angestellten, kann das darauf hinweisen, dass strategische Verantwortung tatsächlich nicht übernommen wurde — oder dass der Aussteller dies bewusst verschweigt.
+Strategische Verantwortung wird durch Formulierungen wie "war maßgeblich an der strategischen Ausrichtung beteiligt", "verantwortete die langfristige Planung des Bereichs" oder "trug wesentlich zur Unternehmensstrategie bei" ausgedrückt. Fehlt eine solche Aussage bei einem leitenden Angestellten, kann das darauf hinweisen, dass strategische Verantwortung tatsächlich nicht übernommen wurde — oder dass der Aussteller dies bewusst verschweigt.
 
 Für Mitglieder der Geschäftsführung oder des Vorstands sind zusätzliche Bausteine relevant: Aufsichtsratskontakte, Eigentümerbeziehungen, Investorenrepräsentation und Unternehmenskultur-Prägung. Das Zeugnis eines Geschäftsführers ohne Aussage zu seiner Wirkung auf das Unternehmen als Ganzes ist unvollständig.
 
@@ -22,13 +22,13 @@ Für Mitglieder der Geschäftsführung oder des Vorstands sind zusätzliche Baus
 | Budget-/P&L-Verantwortung | Keine wirtschaftliche Führungsrolle | Orange |
 | Repräsentation nach außen | Keine externe Wirkung | Orange |
 | Loyalitätsaussage (leitend) | Loyalitätsprobleme | Rot |
-| „hat Vertrauen des Vorstands genossen" | Fehlen bei GF = Rot | Rot |
+| "hat Vertrauen des Vorstands genossen" | Fehlen bei GF = Rot | Rot |
 
 ## Beispiele
 
-**Beispiel 1 – Grüne Führungsaussage (Note 1):** „Frau Dr. Hoffmann führte ihre über 80 Mitarbeiter mit klarem Ziel, hoher Empathie und nachhaltigem Erfolg. Unter ihrer Leitung verzeichnete der Bereich eine Steigerung der Mitarbeiterzufriedenheit und eine signifikante Verbesserung der Ergebnisse."
+**Beispiel 1 – Grüne Führungsaussage (Note 1):** "Frau Dr. Hoffmann führte ihre über 80 Mitarbeiter mit klarem Ziel, hoher Empathie und nachhaltigem Erfolg. Unter ihrer Leitung verzeichnete der Bereich eine Steigerung der Mitarbeiterzufriedenheit und eine signifikante Verbesserung der Ergebnisse."
 
-**Beispiel 2 – Orange Führungsaussage (Note 3):** „Herr Vogel pflegte einen kooperativen Führungsstil und wurde von seinen Mitarbeitern geschätzt." — Passiv, kein Erfolgsnachweis, Note 3.
+**Beispiel 2 – Orange Führungsaussage (Note 3):** "Herr Vogel pflegte einen kooperativen Führungsstil und wurde von seinen Mitarbeitern geschätzt." — Passiv, kein Erfolgsnachweis, Note 3.
 
 **Beispiel 3 – Fehlende Führungsaussage (Rot):** Zeugnis eines Abteilungsleiters mit 15 direkt unterstellten Mitarbeitern ohne eine einzige Aussage zur Mitarbeiterführung → starkes rotes Signal.
 

@@ -27,7 +27,7 @@
 | Gesellschafterdarlehen ohne qualifizierten Rangrücktritt | Im Überschuldungsstatus zu passivieren | § 39 Abs. 2 InsO |
 | Anhängige Prozesse mit Schadens-Risiko > EK | Stille Last → Überschuldungsstatus | K. Schmidt/Herchen, § 19 InsO Rn. 60 |
 
-## C. § 102 StaRUG – Trigger-Liste „offenkundige Anhaltspunkte"
+## C. § 102 StaRUG – Trigger-Liste "offenkundige Anhaltspunkte"
 
 Die Hinweispflicht ist regelmäßig ausgelöst, wenn **mindestens eines** der folgenden Merkmale erkennbar ist (Pape/Schaltke, § 102 StaRUG Rn. 19 ff.):
 

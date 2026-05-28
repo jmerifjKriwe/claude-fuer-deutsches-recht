@@ -135,7 +135,7 @@ Verbindlich: `../references/zitierweise.md`.
 
 ## Ausgabeformat
 
-Interaktiver Dialog, dann automatisches Schreiben von `mandat.md`, `verlauf.md` (erster Eintrag: „Mandat aufgenommen, TT.MM.JJJJ") und Append in `_log.yaml`.
+Interaktiver Dialog, dann automatisches Schreiben von `mandat.md`, `verlauf.md` (erster Eintrag: "Mandat aufgenommen, TT.MM.JJJJ") und Append in `_log.yaml`.
 
 ## Risiken / typische Fehler
 

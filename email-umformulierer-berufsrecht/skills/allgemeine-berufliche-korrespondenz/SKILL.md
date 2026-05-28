@@ -51,7 +51,7 @@ Mit freundlichen Gruessen
 
 ## Grundsätze der deutschen Geschäftskorrespondenz
 
-Gute Geschäftskorrespondenz ist klar, höflich und ergebnisorientiert. Sie vermeidet Bandwurmsätze, aber auch unangemessene Kürze. Sie benennt konkret, was gewünscht wird oder was mitgeteilt werden soll. Sie wahrt die gebotene Distanz (formelles „Sie"), ohne kalt zu wirken. Sie schließt mit einem klaren Ausblick: Was passiert als nächstes? Bis wann? Von wem?
+Gute Geschäftskorrespondenz ist klar, höflich und ergebnisorientiert. Sie vermeidet Bandwurmsätze, aber auch unangemessene Kürze. Sie benennt konkret, was gewünscht wird oder was mitgeteilt werden soll. Sie wahrt die gebotene Distanz (formelles "Sie"), ohne kalt zu wirken. Sie schließt mit einem klaren Ausblick: Was passiert als nächstes? Bis wann? Von wem?
 
 ## Stilhierarchie in der Geschäftskorrespondenz
 
@@ -59,7 +59,7 @@ Sehr förmlich: Schreiben an unbekannte Institutionen, erstes Kontaktschreiben. 
 
 ## Häufige Probleme in Geschäftskorrespondenz
 
-Zu lange Einleitung: Der Kern des Schreibens erscheint erst im letzten Abschnitt. Korrekt: Kernanliegen im ersten Satz. Fehlende Struktur: Verschiedene Themen ohne Absätze oder Zwischenüberschriften. Korrekt: Ein Thema pro Absatz. Zu viele Entschuldigungen: „Ich bitte vielmals um Entschuldigung, wenn ich nerve, aber..." Korrekt: Direkte, höfliche Formulierung. Passiv-Überladung: Schreiben wirken unverbindlich und schwer verständlich. Korrekt: Ausgewogenes Verhältnis von Aktiv und Passiv.
+Zu lange Einleitung: Der Kern des Schreibens erscheint erst im letzten Abschnitt. Korrekt: Kernanliegen im ersten Satz. Fehlende Struktur: Verschiedene Themen ohne Absätze oder Zwischenüberschriften. Korrekt: Ein Thema pro Absatz. Zu viele Entschuldigungen: "Ich bitte vielmals um Entschuldigung, wenn ich nerve, aber..." Korrekt: Direkte, höfliche Formulierung. Passiv-Überladung: Schreiben wirken unverbindlich und schwer verständlich. Korrekt: Ausgewogenes Verhältnis von Aktiv und Passiv.
 
 ## Mandanten-Korrespondenz
 
@@ -71,14 +71,14 @@ Für allgemeine Korrespondenz ohne Berufsrechtsbezug gelten keine spezifischen b
 
 ## Beispiele Vorher/Nachher
 
-**Vorher:** „Sie müssen das bis Montag erledigen."
-**Nachher:** „Ich bitte Sie, die Unterlagen bis Montag, den TT.MM.JJJJ, zu übersenden."
+**Vorher:** "Sie müssen das bis Montag erledigen."
+**Nachher:** "Ich bitte Sie, die Unterlagen bis Montag, den TT.MM.JJJJ, zu übersenden."
 
-**Vorher:** „Das haben Sie total falsch verstanden."
-**Nachher:** „Ich möchte meinen Standpunkt gerne präzisieren, da es zu einem Missverständnis gekommen zu sein scheint."
+**Vorher:** "Das haben Sie total falsch verstanden."
+**Nachher:** "Ich möchte meinen Standpunkt gerne präzisieren, da es zu einem Missverständnis gekommen zu sein scheint."
 
-**Vorher:** „Warum antwortet hier niemand??"
-**Nachher:** „Bislang habe ich auf meine E-Mail vom TT.MM.JJJJ keine Rückmeldung erhalten und bitte höflich um Nachricht."
+**Vorher:** "Warum antwortet hier niemand??"
+**Nachher:** "Bislang habe ich auf meine E-Mail vom TT.MM.JJJJ keine Rückmeldung erhalten und bitte höflich um Nachricht."
 
 ## Ausgabeformat
 

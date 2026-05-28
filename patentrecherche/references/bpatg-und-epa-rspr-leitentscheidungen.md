@@ -19,8 +19,8 @@
 
 ### 1.3 Erfinderische Tätigkeit / erfinderischer Schritt
 
-- BGH, Urt. v. 30.04.2009 – Xa ZR 56/05, BGHZ 182, 1 — **Olanzapin**: Maßstab für die Beurteilung erfinderischer Tätigkeit in der Pharmazie; **Nachveröffentlichungen** dürfen die Lehre nicht nachträglich „erfinderisch machen", die zum Anmeldetag offensichtlich war.
-- BGH, Urt. v. 04.02.2010 – Xa ZR 36/08, GRUR 2010, 607 — **Maschinenfundament**: Fachmannbegriff und Differenzierung zwischen „Anregung" und „Hinweis".
+- BGH, Urt. v. 30.04.2009 – Xa ZR 56/05, BGHZ 182, 1 — **Olanzapin**: Maßstab für die Beurteilung erfinderischer Tätigkeit in der Pharmazie; **Nachveröffentlichungen** dürfen die Lehre nicht nachträglich "erfinderisch machen", die zum Anmeldetag offensichtlich war.
+- BGH, Urt. v. 04.02.2010 – Xa ZR 36/08, GRUR 2010, 607 — **Maschinenfundament**: Fachmannbegriff und Differenzierung zwischen "Anregung" und "Hinweis".
 - BGH, Urt. v. 16.12.2014 – X ZR 161/12 — **Repaglinid**: Eignung einer Anregung für einen erfinderischen Schritt; reine Existenz einer Vorveröffentlichung reicht nicht ohne Auseinandersetzung mit der konkreten Lehre.
 - BGH, Urt. v. 30.01.2018 – X ZR 23/16 — **Spinfrequenz**: Was vom Fachmann üblicherweise erprobt würde, ist nicht erfinderisch.
 
@@ -73,11 +73,11 @@
 
 ### 4.3 Erweiterung gegenüber der ursprünglichen Offenbarung (Art. 123(2) EPÜ)
 
-- **T 201/83**, **T 514/88**: „Gold standard" — Änderung nur zulässig, wenn der Fachmann das Ergebnis der ursprünglichen Anmeldung unmittelbar und eindeutig entnehmen kann.
+- **T 201/83**, **T 514/88**: "Gold standard" — Änderung nur zulässig, wenn der Fachmann das Ergebnis der ursprünglichen Anmeldung unmittelbar und eindeutig entnehmen kann.
 
 ### 4.4 Software / computer-implementiert (Art. 52 EPÜ)
 
-- **T 1173/97** (IBM): Computerprogramm „als solches" ist ausgeschlossen, aber Programm mit „weiterem technischen Effekt" patentierbar.
+- **T 1173/97** (IBM): Computerprogramm "als solches" ist ausgeschlossen, aber Programm mit "weiterem technischen Effekt" patentierbar.
 - **T 641/00** (COMVIK): Mischanspruch (technisch + nicht-technisch) — nur die technischen Merkmale tragen die erfinderische Tätigkeit.
 
 ## 5. Wie diese Entscheidungen praktisch in der Argumentation eingesetzt werden

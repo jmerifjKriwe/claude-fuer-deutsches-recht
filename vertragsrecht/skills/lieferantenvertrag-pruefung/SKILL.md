@@ -7,7 +7,7 @@ description: "Prüfung eines eingehenden Lieferanten- oder Dienstleistervertrags
 
 ## Zweck
 
-Einen Lieferanten- oder Dienstleistervertrag gegen das tatsächlich verwendete Playbook der Rechtsabteilung prüfen (in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md`), jede abweichende Klausel identifizieren und dem Juristen mitteilen, was zu tun ist – mit konkreten Redline-Formulierungen, keinen vagen „Überarbeitung erwägen"-Empfehlungen. Maßgeblich: §§ 611, 631 BGB (Dienst-/Werkvertrag), §§ 434 ff. BGB (Kauf), §§ 305–310 BGB (AGB-Recht), LkSG, ggf. CISG.
+Einen Lieferanten- oder Dienstleistervertrag gegen das tatsächlich verwendete Playbook der Rechtsabteilung prüfen (in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md`), jede abweichende Klausel identifizieren und dem Juristen mitteilen, was zu tun ist – mit konkreten Redline-Formulierungen, keinen vagen "Überarbeitung erwägen"-Empfehlungen. Maßgeblich: §§ 611, 631 BGB (Dienst-/Werkvertrag), §§ 434 ff. BGB (Kauf), §§ 305–310 BGB (AGB-Recht), LkSG, ggf. CISG.
 
 ## Eingaben
 
@@ -30,12 +30,12 @@ Falls Akten-Arbeitsbereiche aktiviert, aktive Akte prüfen und Ausgaben dort spe
 >
 > **Zwei Optionen:**
 > - `/vertragsrecht:vertragsrecht-kaltstart-interview` ausführen (ca. 10 Minuten), dann Prüfung auf Ihr eigenes Playbook zugeschnitten.
-> - „Provisorisch" sagen – dann Prüfung gegen generische Standardpositionen (deutsches Recht, mittlere Risikobereitschaft, Juristenrolle), alle Ausgaben mit `[PROVISORISCH – Praxisprofil für individuell zugeschnittene Ausgabe konfigurieren]` gekennzeichnet.
+> - "Provisorisch" sagen – dann Prüfung gegen generische Standardpositionen (deutsches Recht, mittlere Risikobereitschaft, Juristenrolle), alle Ausgaben mit `[PROVISORISCH – Praxisprofil für individuell zugeschnittene Ausgabe konfigurieren]` gekennzeichnet.
 
 **Welche Seite?**
 - Lieferant/Auftragnehmer liefert Waren/Leistungen → Käufer-/Auftraggeber-Seite
 - Das Unternehmen verkauft Waren/Leistungen → Verkäufer-/Auftragnehmer-Seite
-- Reseller, JV, Umsatzbeteiligung? → Fragen: „Auf welcher Seite steht [Unternehmen]?"
+- Reseller, JV, Umsatzbeteiligung? → Fragen: "Auf welcher Seite steht [Unternehmen]?"
 
 Zutreffenden Playbook-Abschnitt lesen. **Das K.-o.-Kriterium zuerst prüfen.** Falls vorhanden: am Anfang des Vermerks kennzeichnen und Detailprüfung einstellen – kein Sinn, 30 Minuten an Haftungsdeckeln zu arbeiten, wenn ein Vertragspartner IP-Rechte an unseren Produkten erhalten soll.
 
@@ -48,7 +48,7 @@ Den Vertrag einmal schnell lesen:
 | Vertragstyp | Werkvertrag (§ 631 BGB) / Dienstvertrag (§ 611 BGB) / Kaufvertrag (§ 433 BGB) / gemischt |
 | Wer sind wir? | Auftraggeber / Auftragnehmer (Plugin geht von Auftraggeber aus – kennzeichnen falls abweichend) |
 | Vertragspartner | Name; Groß-Konzern (verhandelt kaum) oder KMU (verhandelt)? |
-| Jahreswert (ACV) | Betrag oder „nicht angegeben" → fragen |
+| Jahreswert (ACV) | Betrag oder "nicht angegeben" → fragen |
 | Laufzeit | Dauer, Verlängerungsmechanismus |
 | AVV | beigefügt / referenziert / fehlt |
 | Auftragsformular | separat / integriert |
@@ -70,7 +70,7 @@ Haftungsklauseln haben vier Dimensionen:
 
 **c) Ausnahmen vom Deckel:** Vorsatz, grobe Fahrlässigkeit, Verletzung von Leben/Körper/Gesundheit, Kardinalpflichten, Datenpannen, produkthaftungsrechtliche Ansprüche.
 
-**d) Bemessungsgrundlage:** „im letzten Jahr gezahlte Vergütung" vs. „nach Vertrag insgesamt zu zahlende Vergütung" – prüfen.
+**d) Bemessungsgrundlage:** "im letzten Jahr gezahlte Vergütung" vs. "nach Vertrag insgesamt zu zahlende Vergütung" – prüfen.
 
 ### Schritt 4: Gewährleistung (§§ 433 ff., 631 ff. BGB)
 
@@ -132,7 +132,7 @@ Kommentare: Rühl/Frank, LkSG, 2022; Grabosch, LkSG, 2021.
 - Überraschende Klauseln: § 305c BGB
 - Transparenzgebot: § 307 Abs. 1 S. 2 BGB
 - Klauselverbote §§ 308, 309 BGB; im B2B als Indiz-Wirkung
-- Kollidierende AGB („battle of forms"): §§ 154, 155 BGB; Konsenstheorie vs. Restgültigkeitslösung
+- Kollidierende AGB ("battle of forms"): §§ 154, 155 BGB; Konsenstheorie vs. Restgültigkeitslösung
 
 ## Abweichungsklassifikation
 
@@ -174,7 +174,7 @@ VERTRAULICH – ANWALTLICHES ARBEITSERGEBNIS (§ 43a II BRAO)
 
 ### 🔴 Blockierend
 **[Klauseltitel]** – § [X.X]
-> „[Zitat]"
+> "[Zitat]"
 **Rechtliches Risiko:** 🔴 | **Geschäftliche Reibung:** [Stufe]
 Warum problematisch: [konkretes Risiko; Norm + BGH-Rspr.]
 Empfohlener Redline: `[Streichung/Ersatz mit konkreter Formulierung]`

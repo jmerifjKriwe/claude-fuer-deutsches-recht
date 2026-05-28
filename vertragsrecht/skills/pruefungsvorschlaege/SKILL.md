@@ -1,6 +1,6 @@
 ---
 name: pruefungsvorschlaege
-description: "Prüft und genehmigt (oder lehnt ab) ausstehende Playbook-Aktualisierungsvorschläge des Playbook-Monitor-Agenten und überträgt genehmigte Änderungen in das Kanzleiprofil. Lädt, wenn der Monitor Vorschläge gemeldet hat, wenn der Nutzer „Playbook-Vorschläge prüfen\", „welche Playbook-Updates sind ausstehend\" oder „Abweichungsvorschläge durchgehen\" sagt."
+description: "Prüft und genehmigt (oder lehnt ab) ausstehende Playbook-Aktualisierungsvorschläge des Playbook-Monitor-Agenten und überträgt genehmigte Änderungen in das Kanzleiprofil. Lädt, wenn der Monitor Vorschläge gemeldet hat, wenn der Nutzer "Playbook-Vorschläge prüfen\", "welche Playbook-Updates sind ausstehend\" oder "Abweichungsvorschläge durchgehen\" sagt."
 ---
 
 # Playbook-Vorschläge prüfen und genehmigen
@@ -35,7 +35,7 @@ muss an den gesetzlichen Grenzen gemessen werden:
 - § 305c BGB — Überraschende und mehrdeutige Klauseln; eine Klausel, die
   nach Entstehung und Inhalt so ungewöhnlich ist, dass der Vertragspartner
   nicht mit ihr rechnet, wird nicht Vertragsbestandteil — auch ein Playbook,
-  das solche Klauseln als „Standard" führt, erzeugt keine belastbaren Positionen
+  das solche Klauseln als "Standard" führt, erzeugt keine belastbaren Positionen
 - § 307 Abs. 1 S. 2 BGB — Transparenzgebot; das Playbook muss die eigene
   Position klar und verständlich formulieren, um sie in Verhandlungen
   durchzusetzen und AGB-rechtliche Kontrolle zu bestehen
@@ -141,7 +141,7 @@ Quelle: Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 309 Nr. 7 Rn. 15
 Entscheidung protokollieren. Kanzleiprofil unverändert lassen.
 
 Bei **Ablehnen**: In Abweichungslog eintragen, mit Begründung des Anwalts
-(falls angegeben) oder mit dem Vermerk „Abgelehnt ohne Begründung".
+(falls angegeben) oder mit dem Vermerk "Abgelehnt ohne Begründung".
 
 Bei **Zurückstellen**: Vorschlag für die nächste Runde erhalten.
 
@@ -195,13 +195,13 @@ Quelle:
   (Zulässige Verjährungszeiträume in AGB)
 ```
 
-Anwalt wählt „Übernehmen" → Diff angezeigt → Kanzleiprofil aktualisiert.
+Anwalt wählt "Übernehmen" → Diff angezeigt → Kanzleiprofil aktualisiert.
 
 ## Risiken und typische Fehler
 
 - **Vorschlag ohne Quellenbeleg akzeptieren.** Jeder Vorschlag zur Änderung
   einer Klauselposition muss mit BGH-Rechtsprechung oder Kommentarbeleg
-  unterlegt sein. Vorschläge ohne Beleg nicht als „Übernehmen"-fähig markieren.
+  unterlegt sein. Vorschläge ohne Beleg nicht als "Übernehmen"-fähig markieren.
 - **Diff nicht anzeigen.** Ohne Anzeige des exakten Diffs kann der Anwalt
   nicht beurteilen, ob die Änderung korrekt ist. Niemals direkt schreiben
   ohne Bestätigung.
@@ -217,7 +217,7 @@ Anwalt wählt „Übernehmen" → Diff angezeigt → Kanzleiprofil aktualisiert.
 Jeder Vorschlag in der Ausgabe muss enthalten:
 - Den betroffenen Paragraphen (z. B. § 309 Nr. 7 BGB, § 438 BGB)
 - Mindestens eine BGH-Entscheidung zur Klauselgrenze in korrekter Zitierweise
-- Mindestens einen Kommentarbeleg im Bearbeiterstil „Bearbeiter, in: Werk"
+- Mindestens einen Kommentarbeleg im Bearbeiterstil "Bearbeiter, in: Werk"
   (z. B. Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 307 Rn. 45)
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

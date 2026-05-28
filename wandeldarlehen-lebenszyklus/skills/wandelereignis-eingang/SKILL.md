@@ -46,7 +46,7 @@ e) Empfänger: An die Gesellschaft adressiert?
 Enthält die Erklärung den Wandlungsbetrag (Darlehen + Zinsen), das Wandlungsereignis und den Stichtag? Falls nicht vollständig: Rückfrage an Lender.
 
 ### 4. Eingangsbestätigung senden
-Bestätigung an Lender: „Ihre Wandlungserklärung vom [Datum] ist bei uns am [Datum] eingegangen und wird geprüft." Kein Anerkenntnis inhaltlicher Berechtigung.
+Bestätigung an Lender: "Ihre Wandlungserklärung vom [Datum] ist bei uns am [Datum] eingegangen und wird geprüft." Kein Anerkenntnis inhaltlicher Berechtigung.
 
 ### 5. Interne Weiterleitung
 Weitergabe an zuständige Stellen: Gesellschaft (Geschäftsführerin), Gesellschafterinnen (Mitwirkungspflicht § 5 aktivieren), Steuerberater, Buchhaltung. Fristenkalender aktualisieren.

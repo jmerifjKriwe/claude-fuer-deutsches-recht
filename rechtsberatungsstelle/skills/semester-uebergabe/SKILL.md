@@ -18,14 +18,14 @@ Ohne diese Übergabe verlässt das Fallwissen die Beratungsstelle mit den Studie
 - **Semester** (Standard: laufendes Semester)
 - **Einzelner Fall** (optional: `--fall=[fall-id]`) für Einzelfall-Übergabe (z. B. bei vorzeitigem Ausscheiden)
 - **Aktive Fallliste** — wenn die Klinik kein zentrales Fallregister führt, muss diese als Eingabe übergeben werden; die Skill erfindet keine Fälle
-- **Zuordnung:** Wer geht, wer kommt — falls bekannt; sonst „TBD — Supervisor weist zu"
+- **Zuordnung:** Wer geht, wer kommt — falls bekannt; sonst "TBD — Supervisor weist zu"
 
 ## Rechtlicher Rahmen
 
 ### Kernvorschriften
 
 - **§ 43a Abs. 2 BRAO** — Verschwiegenheitspflicht des Rechtsanwalts; gilt sinngemäß für Studierende der Beratungsstelle. Die Übergabenotiz enthält nur Informationen, die für die Fallfortführung unbedingt notwendig sind.
-- **§ 203 Abs. 1, Abs. 3 StGB** — Verletzung von Privatgeheimnissen: Die Weitergabe von Mandantendaten an nicht-befugte Dritte ist strafbar. Studierende als „berufsmäßig tätige Gehilfen" i. S. d. § 203 Abs. 3 S. 2 StGB.
+- **§ 203 Abs. 1, Abs. 3 StGB** — Verletzung von Privatgeheimnissen: Die Weitergabe von Mandantendaten an nicht-befugte Dritte ist strafbar. Studierende als "berufsmäßig tätige Gehilfen" i. S. d. § 203 Abs. 3 S. 2 StGB.
 - **§ 6 Abs. 2 RDG** — Aufsichtspflicht: Fallübergaben sind ein Aufgabenbereich, der der Supervisorenkontrolle bedarf; der begleitende Rechtsanwalt/die begleitende Rechtsanwältin zeichnet die Übergabe ab.
 - **§ 50 BRAO** — Aufbewahrungspflicht für Handakten: Der Supervisor hat Unterlagen nach Mandatsende mindestens 5 Jahre aufzubewahren; die Übergabenotizen sind Teil der Handakte im Rechtssinne.
 - **DSGVO Art. 5 Abs. 1 lit. f** (Integrität und Vertraulichkeit), **Art. 32 DSGVO** — Technische und organisatorische Maßnahmen für die Datensicherheit; sichere Übertragungswege für Übergabenotizen.
@@ -50,7 +50,7 @@ Ohne diese Übergabe verlässt das Fallwissen die Beratungsstelle mit den Studie
 
 - Alle aktiven Fälle erfassen (aus Fallregister + `deadlines.yaml` Fall-IDs + Kommunikationslogs)
 - Für jeden Fall: Wer ist der aktuelle/die aktuelle Bearbeiter/-in? Bleibt diese Person oder scheidet sie aus?
-- Zuordnung: Ausscheidende/-r → Nachfolger/-in (falls bekannt; sonst „TBD — Supervisor weist zu")
+- Zuordnung: Ausscheidende/-r → Nachfolger/-in (falls bekannt; sonst "TBD — Supervisor weist zu")
 
 Falls kein zentrales Fallregister existiert: Eingabe einer Fallliste erforderlich. Nicht raten.
 
@@ -64,7 +64,7 @@ Für jeden Fall:
 **Fall-ID:** [fall-id]
 **Rechtsgebiet:** [Gebiet]
 **Ausscheidende/-r Studierende/-r:** [Name]
-**Nachfolger/-in:** [Name oder „TBD"]
+**Nachfolger/-in:** [Name oder "TBD"]
 **Begleitender Supervisor:** [Name]
 **Mandant:** [Name oder Mandanten-ID — kein Klarname in unsicheren Systemen]
 
@@ -82,7 +82,7 @@ auf Behördenantwort), dies benennen.]
 
 | Fällig | Typ | Beschreibung | Hinweise |
 |---|---|---|---|
-| [Datum] | [Typ] | [Einzeiler] | [bei Dringlichkeit: „DRINGEND — fällig innerhalb von [N] Tagen nach Semesterbeginn"] |
+| [Datum] | [Typ] | [Einzeiler] | [bei Dringlichkeit: "DRINGEND — fällig innerhalb von [N] Tagen nach Semesterbeginn"] |
 
 ## Was getan wurde
 
@@ -91,9 +91,9 @@ auf Behördenantwort), dies benennen.]
 
 ## Was noch offen ist
 
-- [Ausstehende Entscheidungen: z. B. „Mandantin hat noch nicht über das Vergleichsangebot entschieden"]
-- [Recherche-Lücken: z. B. „§ 556g BGB Mietpreisbremse — Ausnahmen noch nicht abschließend geprüft"]
-- [Offene Kommunikation: z. B. „Antwort der Behörde auf Widerspruch ausstehend"]
+- [Ausstehende Entscheidungen: z. B. "Mandantin hat noch nicht über das Vergleichsangebot entschieden"]
+- [Recherche-Lücken: z. B. "§ 556g BGB Mietpreisbremse — Ausnahmen noch nicht abschließend geprüft"]
+- [Offene Kommunikation: z. B. "Antwort der Behörde auf Widerspruch ausstehend"]
 
 ## Mandantenbeziehung
 
@@ -111,19 +111,19 @@ auf Behördenantwort), dies benennen.]
 
 *Aus dem Kommunikationslog. Dreizeilige Zusammenfassung hier; Nachfolger/-in liest den vollständigen Log.*
 
-[Kurze Zusammenfassung des jüngsten Kommunikationsmusters — z. B. „3 Telefonate seit Erstberatung, alle auf Russisch, Mandantin bevorzugt abends. Letzter Kontakt: 15.04.2026, Adresse für Schriftstück bestätigt."]
+[Kurze Zusammenfassung des jüngsten Kommunikationsmusters — z. B. "3 Telefonate seit Erstberatung, alle auf Russisch, Mandantin bevorzugt abends. Letzter Kontakt: 15.04.2026, Adresse für Schriftstück bestätigt."]
 
 ## Hinweise des Supervisors an Nachfolger/-in
 
-*Vom Supervisor vor Weiterleitung der Übergabenotiz ergänzt. Kann enthalten: „Dieser Fall hat eine sensible Familiensituation — Akte vor dem ersten Kontakt genau lesen"; „Mandant hat gebeten, alle Post an Postfach, nicht Hausadresse"; „Es gibt noch eine offene Scoping-Frage — erste Woche mit mir besprechen."*
+*Vom Supervisor vor Weiterleitung der Übergabenotiz ergänzt. Kann enthalten: "Dieser Fall hat eine sensible Familiensituation — Akte vor dem ersten Kontakt genau lesen"; "Mandant hat gebeten, alle Post an Postfach, nicht Hausadresse"; "Es gibt noch eine offene Scoping-Frage — erste Woche mit mir besprechen."*
 
-[Hinweise, oder „keine"]
+[Hinweise, oder "keine"]
 
 ## Erste-Woche-Prioritäten für Nachfolger/-in
 
-1. [Konkret — z. B. „Mandantin innerhalb von 48 Stunden nach Fallübernahme anrufen. Sich vorstellen, Fallübernahme bestätigen."]
-2. [Fristenbezogen — z. B. „Widerspruchsfrist endet am [Datum]. Entwurf des abgehenden Studierenden prüfen, überarbeiten, einreichen."]
-3. [Wissenslücke — z. B. „Gutachten des abgehenden Studierenden zur Mietpreisbremse lesen, bevor am [Datum] die Verhandlung stattfindet."]
+1. [Konkret — z. B. "Mandantin innerhalb von 48 Stunden nach Fallübernahme anrufen. Sich vorstellen, Fallübernahme bestätigen."]
+2. [Fristenbezogen — z. B. "Widerspruchsfrist endet am [Datum]. Entwurf des abgehenden Studierenden prüfen, überarbeiten, einreichen."]
+3. [Wissenslücke — z. B. "Gutachten des abgehenden Studierenden zur Mietpreisbremse lesen, bevor am [Datum] die Verhandlung stattfindet."]
 
 ---
 
@@ -154,7 +154,7 @@ Nach allen fallbezogenen Notizen, `handoffs/[semester]/_zusammenfassung.md` erst
 
 ## Nicht zugewiesen
 
-[Fälle, für die „TBD" als Nachfolger/-in eingetragen ist — Supervisor weist vor Semesterstart zu]
+[Fälle, für die "TBD" als Nachfolger/-in eingetragen ist — Supervisor weist vor Semesterstart zu]
 
 ## Fristen innerhalb von 30 Tagen nach Semesterbeginn
 
@@ -164,7 +164,7 @@ Nach allen fallbezogenen Notizen, `handoffs/[semester]/_zusammenfassung.md` erst
 
 - [Falls in diesem Semester besondere Leistungsprobleme bei Studierenden aufgefallen sind — für engere Begleitung im Folgesemester notieren]
 - [Falls ausscheidende Studierende bereit sind, für den Nachfolger/die Nachfolgerin zur Verfügung zu stehen — z. B. Absolvent/-in, der/die die Übergabe begleiten möchte]
-- [Muster über Fälle hinweg — z. B. „Drei von sechs Fällen haben Fristen in den ersten 14 Tagen des neuen Semesters; ggf. Onboarding-Übungen auf diese Rechtsgebiete fokussieren"]
+- [Muster über Fälle hinweg — z. B. "Drei von sechs Fällen haben Fristen in den ersten 14 Tagen des neuen Semesters; ggf. Onboarding-Übungen auf diese Rechtsgebiete fokussieren"]
 ```
 
 ### Schritt 4: Supervisoren-Prüfung
@@ -172,7 +172,7 @@ Nach allen fallbezogenen Notizen, `handoffs/[semester]/_zusammenfassung.md` erst
 Das Schließen oder Übergeben eines Falls ist eine folgenschwere Handlung. Das Gate ist das Supervisionsmodell der Beratungsstelle (§ 6 Abs. 2 RDG). Fallabschluss-Notizen werden immer vom Supervisor abgezeichnet, bevor der Fall im Übergabedokument als geschlossen markiert wird — unabhängig vom gewählten Supervisionsmodell.
 
 - **Formelle Prüfwarteschlange:** Jede Übergabenotiz geht in die Warteschlange, bevor sie an den/die Nachfolger/-in weitergeleitet wird.
-- **Konfigurierbare Flags:** Notizen erhalten „VOR WEITERLEITUNG MIT [SUPERVISOR] PRÜFEN"; Supervisor prüft informell.
+- **Konfigurierbare Flags:** Notizen erhalten "VOR WEITERLEITUNG MIT [SUPERVISOR] PRÜFEN"; Supervisor prüft informell.
 - **Leichtere Begleitung:** Standard-KI-Label; Supervisor prüft über bestehende Betreuungsstruktur. Fallabschlüsse gehen dennoch vor Markierung als geschlossen an den Supervisor.
 
 ### Schritt 5: Übergabe vollziehen
@@ -187,14 +187,14 @@ Per-Fall-Übergabenotiz (Markdown) plus Kohortenübersicht, beide nach dem Schem
 
 **Szenario:** Studierende Müller beendet das Semester und gibt Fall `erdem-mietrecht-2026` an nachfolgende Studierende Schulze weiter. Frist: Widerspruch gegen Mieterhöhung am 08.06.2026.
 
-Übergabenotiz enthält: aktueller Stand (Widerspruchsentwurf fertig, wartet auf Supervisoren-Freigabe), Fristtabelle (08.06.2026 — DRINGEND), Was getan wurde (Erstberatung 15.03.2026, Entwurf 01.04.2026), Hinweis Supervisor: „Mandantin spricht nur Türkisch — Schulze soll Dolmetscher organisieren."
+Übergabenotiz enthält: aktueller Stand (Widerspruchsentwurf fertig, wartet auf Supervisoren-Freigabe), Fristtabelle (08.06.2026 — DRINGEND), Was getan wurde (Erstberatung 15.03.2026, Entwurf 01.04.2026), Hinweis Supervisor: "Mandantin spricht nur Türkisch — Schulze soll Dolmetscher organisieren."
 
 ## Risiken und typische Fehler
 
 - **Übergabe ohne Mandatsgeheimniswahrung:** E-Mail-Versand von Übergabenotizen über private Konten oder Chat-Dienste verstößt gegen § 203 StGB und DSGVO Art. 5. Nur bestellungsführende, gesicherte Systeme.
 - **Fristenübergabe vergessen:** Die gefährlichste Lücke. Alle aktiven Fristen müssen in der Notiz erscheinen; Nachfolger/-in muss sie in `/fristen` als eigene Fristen neu eintragen.
-- **Übergabe ohne Supervisoren-Abzeichnung:** § 6 Abs. 2 RDG verlangt effektive Aufsicht. Auch „formlose" Übergaben sind dem Supervisor zu melden.
-- **Zu dünne Übergabenotiz:** „Fall läuft gut" ist keine Übergabe. Die Notiz muss so vollständig sein, dass jemand ohne Vorkenntnisse den Fall übernehmen kann.
+- **Übergabe ohne Supervisoren-Abzeichnung:** § 6 Abs. 2 RDG verlangt effektive Aufsicht. Auch "formlose" Übergaben sind dem Supervisor zu melden.
+- **Zu dünne Übergabenotiz:** "Fall läuft gut" ist keine Übergabe. Die Notiz muss so vollständig sein, dass jemand ohne Vorkenntnisse den Fall übernehmen kann.
 - **Mandantenkontakt während der Übergabephase nicht gesichert:** Zwischen Ausscheiden der alten und Übernahme durch neue Studierende muss der Supervisor Ansprechbarkeit für den Mandanten sicherstellen.
 
 ## Quellenpflicht

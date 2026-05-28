@@ -20,7 +20,7 @@ Das Betriebliche Eingliederungs-Management (BEM) ist Pflicht bei mehr als 6 Woch
 
 ## 2) Pflicht des Arbeitgebers § 167 II SGB IX
 
-> „Sind Beschaeftigte innerhalb eines Jahres laenger als sechs Wochen ununterbrochen oder wiederholt arbeitsunfähig, klärt der Arbeitgeber mit der zuständigen Interessenvertretung im Sinne des § 176, bei schwerbehinderten Menschen außerdem mit der Schwerbehindertenvertretung, mit Zustimmung und Beteiligung der betroffenen Person die Möglichkeiten, wie die Arbeitsunfähigkeit möglichst überwunden werden und mit welchen Leistungen oder Hilfen erneuter Arbeitsunfähigkeit vorgebeugt und der Arbeitsplatz erhalten werden kann (betriebliches Eingliederungsmanagement)."
+> "Sind Beschaeftigte innerhalb eines Jahres laenger als sechs Wochen ununterbrochen oder wiederholt arbeitsunfähig, klärt der Arbeitgeber mit der zuständigen Interessenvertretung im Sinne des § 176, bei schwerbehinderten Menschen außerdem mit der Schwerbehindertenvertretung, mit Zustimmung und Beteiligung der betroffenen Person die Möglichkeiten, wie die Arbeitsunfähigkeit möglichst überwunden werden und mit welchen Leistungen oder Hilfen erneuter Arbeitsunfähigkeit vorgebeugt und der Arbeitsplatz erhalten werden kann (betriebliches Eingliederungsmanagement)."
 
 ## 3) Wirksamkeit der personenbedingten Kündigung
 
@@ -74,7 +74,7 @@ Ohne BEM = Kündigungsschutzklage **gewinnbar** in 80-90 % der Fälle.
 ### Schritt 2 — Beweisaufnahme
 
 - AG muss darlegen **konkret**, warum BEM aussichtslos war
-- BAG-Linie: nicht ausreichend „BEM hätte nichts gebracht"
+- BAG-Linie: nicht ausreichend "BEM hätte nichts gebracht"
 
 ### Schritt 3 — Verhandlungs-Position
 

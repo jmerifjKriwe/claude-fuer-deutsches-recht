@@ -30,7 +30,7 @@ Pfändung des laufenden Arbeitseinkommens. Bauteil mit den meisten Stolpersteine
 ## Workflow
 
 1. **Drei-Säulen-Prüfung**.
-2. **Arbeitgeber als Drittschuldner** bezeichnen – nicht „die Firma X", sondern die juristische Person.
+2. **Arbeitgeber als Drittschuldner** bezeichnen – nicht "die Firma X", sondern die juristische Person.
 3. **Forderung** definieren: laufendes Arbeitseinkommen, einschließlich künftiger Erhöhungen, einschließlich Sonderzuwendungen soweit pfändbar.
 4. **Berechnung pfändbarer Betrag** mit `werkzeuge/pfaendungsrechner.py` (Tabelle 1.7.2025): Nettoeinkommen → unterhaltsberechtigte Personen → Pfändbarkeitsstufe.
 5. **Privilegierte Unterhaltsforderung** § 850d ZPO: deutlich niedrigerer Freibetrag, vom Vollstreckungsgericht festzusetzen.

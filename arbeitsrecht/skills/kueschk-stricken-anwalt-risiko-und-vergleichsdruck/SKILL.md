@@ -38,7 +38,7 @@ Kein neuer Job, keine Unzumutbarkeit? → Prozess führen, § 102 Abs. 5 BetrVG 
 
 **Das Szenario:**
 
-Du hast Kündigungsschutzklage erhoben. Das Verfahren zieht sich hin — sechs Monate, ein Jahr, manchmal länger. In dieser Zeit findest du einen neuen Job und beginnst dort zu arbeiten. Du denkst: „Gut, der Prozess läuft noch, aber ich habe meinen Lebensunterhalt gesichert."
+Du hast Kündigungsschutzklage erhoben. Das Verfahren zieht sich hin — sechs Monate, ein Jahr, manchmal länger. In dieser Zeit findest du einen neuen Job und beginnst dort zu arbeiten. Du denkst: "Gut, der Prozess läuft noch, aber ich habe meinen Lebensunterhalt gesichert."
 
 Dann passiert folgendes: Der Arbeitgeberanwalt gibt auf — er erklärt, dass die Kündigung unwirksam war. Das Arbeitsgericht stellt fest: **Das Arbeitsverhältnis besteht fort.**
 

@@ -64,7 +64,7 @@ Dieser Skill macht gezielte Änderungen, ohne das gesamte Profil neu aufzurollen
 ### 2. Neuen Fachbereich hinzufügen
 
 Fachbereich in `CLAUDE.md` unter `Fachbereiche` ergänzen. Dann sofort:
-> „Soll für den neuen Bereich auch ein Leitfaden erstellt werden? → `/rechtsberatungsstelle:leitfaden-erstellen [fachbereich]`"
+> "Soll für den neuen Bereich auch ein Leitfaden erstellt werden? → `/rechtsberatungsstelle:leitfaden-erstellen [fachbereich]`"
 
 ### 3. Prüfungsgates ändern
 
@@ -88,7 +88,7 @@ Jobcenter, Ausländerbehörde, BAMF-Außenstelle, Gericht, Dolmetscherdienste �
 
 ### 6. Pädagogikhaltung ändern
 
-Für ein bestimmtes Semester oder einen bestimmten Studierenden die Default-Haltung anpassen. Z. B.: „Für dieses Semester soll der Skill primär im Modus ‚Anleiten' arbeiten, da alle Studierenden im ersten Klinik-Semester sind."
+Für ein bestimmtes Semester oder einen bestimmten Studierenden die Default-Haltung anpassen. Z. B.: "Für dieses Semester soll der Skill primär im Modus 'Anleiten' arbeiten, da alle Studierenden im ersten Klinik-Semester sind."
 
 ## Ablauf
 

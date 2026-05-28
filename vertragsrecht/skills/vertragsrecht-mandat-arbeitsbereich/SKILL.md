@@ -122,15 +122,15 @@ Bestätigung einholen.
    - **Vertraulichkeitsstufe** (Standard / erhöht / Clean-Team)
    - **Schlüsselfakten** (2–5 Sätze: Gegenstand, Beteiligte, Besonderheiten
      gegenüber Standardplaybook)
-   - **Mandatsspezifische Abweichungen vom Playbook** (z. B. „Mandant besteht
+   - **Mandatsspezifische Abweichungen vom Playbook** (z. B. "Mandant besteht
      auf 24 Monate Haftungsdeckel statt 12; kooperativer Ton, da strategische
      Partnerschaft")
    - **Verwandte Mandate** (Kürzel verbundener Mandate)
 3. `mandate/<kuerzel>/mandat.md` nach Vorlage unten schreiben.
-4. `mandate/<kuerzel>/verlauf.md` mit einem „Eröffnet"-Eintrag anlegen.
+4. `mandate/<kuerzel>/verlauf.md` mit einem "Eröffnet"-Eintrag anlegen.
 5. Leere `mandate/<kuerzel>/notizen.md` erstellen.
 6. **Nicht** automatisch zum neuen Mandat wechseln. Fragen:
-   „Möchten Sie jetzt zu `<kuerzel>` wechseln?"
+   "Möchten Sie jetzt zu `<kuerzel>` wechseln?"
 
 ### Unterbefehl-Logik: `liste`
 
@@ -141,7 +141,7 @@ Tabelle ausgeben:
 |---|---|---|---|---|---|
 
 Aktives Mandat mit `*` markieren. Archivierte Mandate unter
-„Archivierte Mandate" separat aufführen.
+"Archivierte Mandate" separat aufführen.
 
 ### Unterbefehl-Logik: `wechseln <kuerzel>`
 
@@ -199,10 +199,10 @@ Besonderheiten gegenüber dem Standard-Playbook.]
 
 *Jede Abweichung vom kanzleiweiten Playbook, die nur dieses Mandat betrifft.*
 
-- [z. B. „Haftungsobergrenze: Mandant besteht auf 24 Monate, nicht
+- [z. B. "Haftungsobergrenze: Mandant besteht auf 24 Monate, nicht
   Kanzleistandard 12."]
-- [z. B. „Ton: beziehungserhaltend — Gegenpartei ist strategischer Partner."]
-- [z. B. „Gerichtsstand: muss München sein."]
+- [z. B. "Ton: beziehungserhaltend — Gegenpartei ist strategischer Partner."]
+- [z. B. "Gerichtsstand: muss München sein."]
 
 ## Verwandte Mandate
 
@@ -226,7 +226,7 @@ Append-only Ereignisprotokoll. Aktuellster Eintrag oben.
 ## [JJJJ-MM-TT] — Mandat eröffnet
 
 Aufnahme abgeschlossen. Kürzel: `[kürzel]`. Status: aktiv.
-[Anfangskontext — z. B. „Eröffnet auf eingehenden MSA-Entwurf von
+[Anfangskontext — z. B. "Eröffnet auf eingehenden MSA-Entwurf von
 [Gegenpartei]."]
 ```
 
@@ -275,7 +275,7 @@ Kurzaufnahme ergibt:
   datenschutzkritische Komponenten
 
 Slug `mueller-it-vertrag-2026` angelegt mit Abweichung:
-„Gewährleistung: kein Verjährungsverkürzung für Datenschutz-Komponenten."
+"Gewährleistung: kein Verjährungsverkürzung für Datenschutz-Komponenten."
 
 ## Risiken und typische Fehler
 

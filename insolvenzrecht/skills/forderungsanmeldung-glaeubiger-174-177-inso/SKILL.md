@@ -361,4 +361,4 @@ Hinweis: Keine Rechtsberatung. Mechanische Strukturhilfe für Forderungsanmeldun
 <!-- AUDIT 27.05.2026 -->
 ## Audit-Hinweis (27.05.2026)
 
-- **BGH IX ZR 188/15 (14.07.2016) entfernt.** Echtes Thema laut dejure.org: Insolvenzanfechtung § 133 InsO / Glaeubigerbenaechteiligunsvorsatz / Zahlungseinstellung (NZI 2016, 837). Die Eintragung behauptete „Feststellungsklage § 180 InsO: Klagefrist ab Bestreiten“ — falsches Thema (WRONG_TOPIC). Kein geeigneter Ersatz mit verifiziertem Aktenzeichen und Thema gefunden; Eintrag geloescht.
+- **BGH IX ZR 188/15 (14.07.2016) entfernt.** Echtes Thema laut dejure.org: Insolvenzanfechtung § 133 InsO / Glaeubigerbenaechteiligunsvorsatz / Zahlungseinstellung (NZI 2016, 837). Die Eintragung behauptete "Feststellungsklage § 180 InsO: Klagefrist ab Bestreiten" — falsches Thema (WRONG_TOPIC). Kein geeigneter Ersatz mit verifiziertem Aktenzeichen und Thema gefunden; Eintrag geloescht.

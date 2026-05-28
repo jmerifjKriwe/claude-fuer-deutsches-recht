@@ -268,11 +268,11 @@ Saldo: EUR [-Z]
 
 | Gegenargument Gläubiger | Reaktion |
 |------------------------|---------|
-| „Erbe hat Erbschaft konkludent angenommen" | Prüfung ob Inbesitznahme, Schuldenbegleichung etc. erfolgt ist; ggf. Anfechtung § 1954 BGB |
-| „Frist § 1944 BGB abgelaufen" | Anfechtung der Annahme § 1954 BGB wenn Irrtum über Überschuldung (§ 1954 BGB; BGH IV ZB 39/14, 10.06.2015) |
-| „Dürftigkeits-Einrede nicht rechtzeitig erhoben" | § 1990 BGB-Einrede kann noch im Prozess erhoben werden solange keine Befriedigung erfolgt |
-| „Nachlassinsolvenz zu spät" | § 1980 BGB: Ersatz-Haftung des Erben für Verzögerungsschaden; Minderung durch frühestmögliche Antragstellung |
-| „Nachlassverwaltung nicht beantragt" | Noch möglich solange kein Insolvenzverfahren eröffnet |
+| "Erbe hat Erbschaft konkludent angenommen" | Prüfung ob Inbesitznahme, Schuldenbegleichung etc. erfolgt ist; ggf. Anfechtung § 1954 BGB |
+| "Frist § 1944 BGB abgelaufen" | Anfechtung der Annahme § 1954 BGB wenn Irrtum über Überschuldung (§ 1954 BGB; BGH IV ZB 39/14, 10.06.2015) |
+| "Dürftigkeits-Einrede nicht rechtzeitig erhoben" | § 1990 BGB-Einrede kann noch im Prozess erhoben werden solange keine Befriedigung erfolgt |
+| "Nachlassinsolvenz zu spät" | § 1980 BGB: Ersatz-Haftung des Erben für Verzögerungsschaden; Minderung durch frühestmögliche Antragstellung |
+| "Nachlassverwaltung nicht beantragt" | Noch möglich solange kein Insolvenzverfahren eröffnet |
 
 ## Streitwert und Kosten
 

@@ -34,7 +34,7 @@ Dieser Skill erinnert an die berufsrechtliche Pflicht zum Interessenkonflikt-Che
 
 ### § 43a Abs. 4 BRAO — Verbot der Vertretung widerstreitender Interessen
 
-> „Der Rechtsanwalt darf nicht tätig werden, wenn er eine andere Partei in derselben Rechtssache im widerstreitenden Interesse bereits beraten oder vertreten hat oder mit ihr in Sozietät verbunden ist."
+> "Der Rechtsanwalt darf nicht tätig werden, wenn er eine andere Partei in derselben Rechtssache im widerstreitenden Interesse bereits beraten oder vertreten hat oder mit ihr in Sozietät verbunden ist."
 
 ### § 3 BORA — Verbot der Vertretung widerstreitender Interessen (Konkretisierung)
 
@@ -82,12 +82,12 @@ Das Sekretariat muss vor Terminvergabe — oder spätestens beim Erstgespräch �
 ## Skript für das Sekretariat: Was beim Erstanruf zu fragen ist
 
 ```
-„Um sicherzustellen, dass wir Ihnen helfen dürfen, benötige ich noch
+"Um sicherzustellen, dass wir Ihnen helfen dürfen, benötige ich noch
 kurz einige Angaben. Wen haben Sie als Gegenseite — also: gegen wen
 oder gegen welches Unternehmen geht es in Ihrem Fall?"
 
 Falls die anfragende Person zögert:
-„Das ist für uns nur intern wichtig, um zu prüfen, ob wir Sie in
+"Das ist für uns nur intern wichtig, um zu prüfen, ob wir Sie in
 diesem Fall vertreten dürfen. Ich leite nichts an die Gegenseite weiter."
 ```
 

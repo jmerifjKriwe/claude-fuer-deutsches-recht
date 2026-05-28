@@ -33,7 +33,7 @@ Im Kündigungsschutzprozess gibt es zwei unterschiedliche Feststellungsanträge,
 
 Der punktuelle Antrag bezieht sich **nur auf die konkrete angegriffene Kündigung**:
 
-> „Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung der Beklagten vom [DATUM], zugegangen am [DATUM], nicht aufgelöst worden ist."
+> "Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung der Beklagten vom [DATUM], zugegangen am [DATUM], nicht aufgelöst worden ist."
 
 **Merkmale:**
 - Bezieht sich auf eine spezifische Kündigung zu einem bestimmten Datum
@@ -47,7 +47,7 @@ Der punktuelle Antrag bezieht sich **nur auf die konkrete angegriffene Kündigun
 
 Der allgemeine Antrag erfasst **alle Beendigungsgründe**:
 
-> „Es wird festgestellt, dass das Arbeitsverhältnis der Parteien auch nicht durch andere Beendigungsgründe aufgelöst worden ist, sondern über den [DATUM] hinaus zu unveränderten Bedingungen fortbesteht."
+> "Es wird festgestellt, dass das Arbeitsverhältnis der Parteien auch nicht durch andere Beendigungsgründe aufgelöst worden ist, sondern über den [DATUM] hinaus zu unveränderten Bedingungen fortbesteht."
 
 **Merkmale:**
 - Erfasst sämtliche möglichen Beendigungsgründe, auch solche, die erst während des Prozesses entstehen
@@ -66,10 +66,10 @@ Fehlt der allgemeine Feststellungsantrag, kann der Arbeitgeber durch eine weiter
 ## Formulierungsbeispiele
 
 **Antrag 1 (punktuell):**
-„Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung der Beklagten vom 15. Januar 2025, zugegangen am 15. Januar 2025, nicht aufgelöst worden ist."
+"Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung der Beklagten vom 15. Januar 2025, zugegangen am 15. Januar 2025, nicht aufgelöst worden ist."
 
 **Antrag 2 (allgemein):**
-„Es wird festgestellt, dass das Arbeitsverhältnis der Parteien auch nicht durch andere Beendigungsgründe aufgelöst worden ist und über den 31. März 2025 hinaus zu unveränderten Bedingungen fortbesteht."
+"Es wird festgestellt, dass das Arbeitsverhältnis der Parteien auch nicht durch andere Beendigungsgründe aufgelöst worden ist und über den 31. März 2025 hinaus zu unveränderten Bedingungen fortbesteht."
 
 ---
 

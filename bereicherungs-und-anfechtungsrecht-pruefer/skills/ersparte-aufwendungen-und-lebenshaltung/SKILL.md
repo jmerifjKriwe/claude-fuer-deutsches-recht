@@ -48,7 +48,7 @@ Die Kernfrage lautet: Hätte der Empfänger sein eigenes Vermögen ohne die Bere
 
 ## Typische Fehler
 
-- „Geld ist weg“ als Ergebnis genügen lassen.
+- "Geld ist weg" als Ergebnis genügen lassen.
 - Surrogate und Ersparnisse übersehen.
 - Zinsen, Nutzungen und Wertersatz doppelt zählen.
 

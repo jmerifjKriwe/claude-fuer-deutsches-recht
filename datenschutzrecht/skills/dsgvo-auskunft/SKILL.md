@@ -34,7 +34,7 @@ Das Modell benötigt folgende Informationen:
 
 ### Leitentscheidungen
 
-1. EuGH, Urt. v. 04.05.2023 – C-487/21 (Österreichische Datenschutzbehörde), NJW 2023, 2253 Rn. 32–45: Der Begriff „Kopie" in Art. 15 Abs. 3 DSGVO meint keine bloße Zusammenfassung, sondern eine originalgetreue Reproduktion der personenbezogenen Daten. Der Kontext der Daten muss erkennbar sein; eine strukturierte Zusammenstellung genügt nur, wenn alle Daten enthalten sind.
+1. EuGH, Urt. v. 04.05.2023 – C-487/21 (Österreichische Datenschutzbehörde), NJW 2023, 2253 Rn. 32–45: Der Begriff "Kopie" in Art. 15 Abs. 3 DSGVO meint keine bloße Zusammenfassung, sondern eine originalgetreue Reproduktion der personenbezogenen Daten. Der Kontext der Daten muss erkennbar sein; eine strukturierte Zusammenstellung genügt nur, wenn alle Daten enthalten sind.
 
 2. BGH, Urt. v. 15.06.2021 – VI ZR 576/19, NJW 2021, 2726 Rn. 18–24: Der Auskunftsanspruch aus Art. 15 DSGVO ist grundsätzlich nicht auf besondere Kategorien von Daten beschränkt. Der Verantwortliche muss alle verarbeiteten personenbezogenen Daten benennen; eine pauschale Verweisung auf Datenspeichersysteme genügt nicht. Das Gericht stellt klar, dass der Anspruch auch gegenüber Versicherern bezüglich Vorgangsdaten aus Schadensregulierung besteht.
 
@@ -98,7 +98,7 @@ Das Modell benötigt folgende Informationen:
 - **Unvollständige Datenermittlung**: Fehlende Protokolldateien, Backup-Daten oder Cloud-Systeme begründen Pflichtverletzung; Beweislast beim Verantwortlichen (Art. 5 Abs. 2 DSGVO).
 - **Datenkopie unterschätzt**: Bloße Kategorienauflistung ohne tatsächliche Datenkopie verletzt Art. 15 Abs. 3 DSGVO (EuGH C-487/21).
 - **Identifizierung übertrieben**: Unverhältnismäßige Ausweispflicht abwehren; Art. 12 Abs. 6 DSGVO erlaubt zusätzliche Informationen nur bei begründetem Zweifel.
-- **§ 34 BDSG-Ausnahme zu weit**: Ausnahmen sind restriktiv auszulegen; pauschale Berufung auf „unverhältnismäßigen Aufwand" ohne konkrete Begründung genügt nicht.
+- **§ 34 BDSG-Ausnahme zu weit**: Ausnahmen sind restriktiv auszulegen; pauschale Berufung auf "unverhältnismäßigen Aufwand" ohne konkrete Begründung genügt nicht.
 - **Berufsrecht**: Bei anwaltlicher Beratung des Verantwortlichen: Keine unzulässige Auskunftsverzögerung; § 43a Abs. 2 BRAO (Gewissenhaftigkeit) gebietet korrekte Beratung zur Frist.
 - **Mehrfachanträge**: Erst bei offenkundig exzessivem Verhalten darf Gebühr erhoben werden (Art. 12 Abs. 5 DSGVO); Dokumentationspflicht der Exzessivität.
 
@@ -114,7 +114,7 @@ EuGH, Urt. v. 19.03.2026 – C-526/24 (Brillen Rottler), Vorabentscheidung auf V
 
 ### Grundsatz
 
-Auch ein erstmaliger Auskunftsantrag kann „exzessiv" i.S.d. Art. 12 Abs. 5 DSGVO und damit rechtsmissbräuchlich sein — nicht nur bei einer Vielzahl von Anfragen (quantitativ), sondern auch qualitativ. Da das Auskunftsrecht ein fundamentales Recht ist, sind die Ausnahmen nach Art. 12 Abs. 5 DSGVO eng auszulegen; Rechtsmissbrauch setzt außergewöhnliche Umstände voraus. Die Beweislast für das Vorliegen von Rechtsmissbrauch liegt beim Verantwortlichen.
+Auch ein erstmaliger Auskunftsantrag kann "exzessiv" i.S.d. Art. 12 Abs. 5 DSGVO und damit rechtsmissbräuchlich sein — nicht nur bei einer Vielzahl von Anfragen (quantitativ), sondern auch qualitativ. Da das Auskunftsrecht ein fundamentales Recht ist, sind die Ausnahmen nach Art. 12 Abs. 5 DSGVO eng auszulegen; Rechtsmissbrauch setzt außergewöhnliche Umstände voraus. Die Beweislast für das Vorliegen von Rechtsmissbrauch liegt beim Verantwortlichen.
 
 ### Zweistufiges Prüfschema (objektives + subjektives Element)
 
@@ -154,7 +154,7 @@ Vorzugsweise vollständige, fristgerechte Auskunft erteilen. Ablehnung nur als u
 
 ### Querverweise
 
-- `datenschutzrecht/skills/dsgvo-auskunft-antwort/SKILL.md` — Abschnitt „Ablehnung wegen Rechtsmissbrauch" mit Formulierungsbausteinen
+- `datenschutzrecht/skills/dsgvo-auskunft-antwort/SKILL.md` — Abschnitt "Ablehnung wegen Rechtsmissbrauch" mit Formulierungsbausteinen
 
 ## Ergänzende Rechtsprechung (Aktualitäten)
 

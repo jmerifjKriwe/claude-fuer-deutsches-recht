@@ -76,7 +76,7 @@ Kurze Rückmeldung zu [Mandatsbezeichnung] erbeten. Einige Punkte:
 
 4. **Budget** — [monatlich / quartalsweise / auf Anfrage gemäß Kanzleikonfiguration]. Wo stehen wir gegenüber [Budgetrahmen aus akte.md]? Gibt es Abweichungen?
 
-[Falls wesentlich und relevant: 5. Konkrete Bitte — z. B. „Bitte Entwurf des Schriftsatzes vor [Datum] übersenden" — aus offenen Punkten in akte.md.]
+[Falls wesentlich und relevant: 5. Konkrete Bitte — z. B. "Bitte Entwurf des Schriftsatzes vor [Datum] übersenden" — aus offenen Punkten in akte.md.]
 
 [Grußformel — Name, Funktion, Kontakt. Aus Kanzleikonfiguration.]
 ```
@@ -106,7 +106,7 @@ Datei: `gegenseite-status/[JJJJ-MM-TT]/[slug].md`
 **Von:** [Unterzeichner Name/E-Mail aus Kanzleikonfiguration]
 **Betreff:** [Betreffzeile]
 
-> Der Arbeitsergebnis-Kopf oben gilt für diesen internen Vermerk. Der ausgehende E-Mail-Text unten geht an externe Bevollmächtigte in einem Mandatsverhältnis, das selbst durch Verschwiegenheit (§ 43a Abs. 2 BRAO) geschützt ist — Vertraulichkeitskennzeichnung gemäß Kanzleikonfiguration auf der versendeten E-Mail anbringen (typisch: „Vertraulich — Anwaltskorrespondenz / Mandatsgeheimnis").
+> Der Arbeitsergebnis-Kopf oben gilt für diesen internen Vermerk. Der ausgehende E-Mail-Text unten geht an externe Bevollmächtigte in einem Mandatsverhältnis, das selbst durch Verschwiegenheit (§ 43a Abs. 2 BRAO) geschützt ist — Vertraulichkeitskennzeichnung gemäß Kanzleikonfiguration auf der versendeten E-Mail anbringen (typisch: "Vertraulich — Anwaltskorrespondenz / Mandatsgeheimnis").
 
 ---
 
@@ -117,7 +117,7 @@ Datei: `gegenseite-status/[JJJJ-MM-TT]/[slug].md`
 
 Falls die Outlook-MCP-Integration authentifiziert ist:
 
-- Je Mandat wird ein Entwurf im Outlook-Postfach (Ordner „Entwürfe") angelegt mit `an`, `von`, `betreff` und `text`
+- Je Mandat wird ein Entwurf im Outlook-Postfach (Ordner "Entwürfe") angelegt mit `an`, `von`, `betreff` und `text`
 - Der Entwurf liegt montags zur Prüfung bereit
 - Falls die MCP-Integration nicht verfügbar oder fehlerhaft ist: Rückfall auf Markdown und Hinweis an den Nutzer
 

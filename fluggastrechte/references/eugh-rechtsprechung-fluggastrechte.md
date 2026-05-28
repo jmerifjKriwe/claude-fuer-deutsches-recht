@@ -150,4 +150,4 @@ Die Liste umfasst Stand Mai 2026. Bei jeder Verwendung in Schriftverkehr oder Kl
 - [curia.europa.eu](https://curia.europa.eu) — amtliche Datenbank des EuGH.
 - [eur-lex.europa.eu](https://eur-lex.europa.eu) — Volltext aller EU-Rechtsakte und Urteile.
 
-Vor Einreichung Klageschrift: kurze Recherche aktueller Entscheidungen aus den letzten zwei Jahren zum konkreten Stichwort (z. B. „Streik 2024" oder „Vorverlegung 2025"). Eine neue Entscheidung kann ein Argument tragen oder kippen.
+Vor Einreichung Klageschrift: kurze Recherche aktueller Entscheidungen aus den letzten zwei Jahren zum konkreten Stichwort (z. B. "Streik 2024" oder "Vorverlegung 2025"). Eine neue Entscheidung kann ein Argument tragen oder kippen.

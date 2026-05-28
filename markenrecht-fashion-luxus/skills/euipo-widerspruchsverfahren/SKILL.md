@@ -70,14 +70,14 @@ Verwechslungsgefahr-Prüfung nach ständiger EUIPO/EuGH-Formel:
 
 ## Falltypische Konstellationen
 
-### Konstellation 1: Widerspruch gegen „KLOTZ-KETTEN" Anmeldung
-Brezelmann Discount KG meldet „KLOTZ-KETTEN" für Klasse 25 beim EUIPO an. Widerspruch von klôtzzkètté auf Basis EUTM-Eintragung. Zeichenähnlichkeit: klanglich sehr hoch (Gesamteindruck ähnlich), visuell: trotz Sonderzeichen im Widerspruchszeichen Ähnlichkeit gegeben. Warenidentität Klasse 25. Prognose: Widerspruch erfolgreich.
+### Konstellation 1: Widerspruch gegen "KLOTZ-KETTEN" Anmeldung
+Brezelmann Discount KG meldet "KLOTZ-KETTEN" für Klasse 25 beim EUIPO an. Widerspruch von klôtzzkètté auf Basis EUTM-Eintragung. Zeichenähnlichkeit: klanglich sehr hoch (Gesamteindruck ähnlich), visuell: trotz Sonderzeichen im Widerspruchszeichen Ähnlichkeit gegeben. Warenidentität Klasse 25. Prognose: Widerspruch erfolgreich.
 
 ### Konstellation 2: Verteidigung gegen Widerspruch von Mailänder Haus
-Ein älteres Mailänder Luxushaus „Klothé SRL" erhebt Widerspruch gegen klôtzzkètté-EUTM. Strategie: Benutzungsnachweis-Einrede (Art. 47 III UMV) — Klothé muss echte Benutzung für die letzten 5 Jahre belegen. Falls keine Benutzung: Widerspruch scheitert mangels Benutzungsnachweises.
+Ein älteres Mailänder Luxushaus "Klothé SRL" erhebt Widerspruch gegen klôtzzkètté-EUTM. Strategie: Benutzungsnachweis-Einrede (Art. 47 III UMV) — Klothé muss echte Benutzung für die letzten 5 Jahre belegen. Falls keine Benutzung: Widerspruch scheitert mangels Benutzungsnachweises.
 
 ### Konstellation 3: Art. 8 V — Bekanntheitsschutz für klôtzzkètté
-klôtzzkètté legt Widerspruch gegen Anmeldung „KLOTZ-KT" für Klasse 9 (Technologie) ein — warenunähnliche Klasse. Grundlage: Art. 8 V UMV (Bekanntheitsschutz). Voraussetzung: klôtzzkètté ist im Luxussegment in DE/FR/IT bekannt. Nachweis durch Meinungsumfrage und Pressebelege.
+klôtzzkètté legt Widerspruch gegen Anmeldung "KLOTZ-KT" für Klasse 9 (Technologie) ein — warenunähnliche Klasse. Grundlage: Art. 8 V UMV (Bekanntheitsschutz). Voraussetzung: klôtzzkètté ist im Luxussegment in DE/FR/IT bekannt. Nachweis durch Meinungsumfrage und Pressebelege.
 
 ## Belege & Kommentare
 

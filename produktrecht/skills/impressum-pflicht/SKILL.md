@@ -33,13 +33,13 @@ Das Modell benötigt:
 
 ### Leitentscheidungen
 
-1. BGH, Urt. v. 20.07.2006 – I ZR 228/03, GRUR 2007, 159 Rn. 17–22 – „Anbieterkennzeichnung": Das Impressum muss „leicht erkennbar, unmittelbar erreichbar und ständig verfügbar" sein (§ 5 Abs. 1 TMG, jetzt § 5 DDG). Eine Erreichbarkeit über maximal zwei Klicks vom Startseiten-Link „Impressum" genügt; tiefere Verschachtelung oder unklare Bezeichnung (z.B. „Kontakt") genügt nicht.
+1. BGH, Urt. v. 20.07.2006 – I ZR 228/03, GRUR 2007, 159 Rn. 17–22 – "Anbieterkennzeichnung": Das Impressum muss "leicht erkennbar, unmittelbar erreichbar und ständig verfügbar" sein (§ 5 Abs. 1 TMG, jetzt § 5 DDG). Eine Erreichbarkeit über maximal zwei Klicks vom Startseiten-Link "Impressum" genügt; tiefere Verschachtelung oder unklare Bezeichnung (z.B. "Kontakt") genügt nicht.
 
-2. OLG Hamm, Urt. v. 13.07.2010 – I-4 U 38/10, MMR 2011, 55 Rn. 15–25: Fehlende Telefonnummer im Impressum stellt einen abmahnfähigen Wettbewerbsverstoß dar, wenn kein anderes „schnelles elektronisches Kommunikationsmittel" angegeben ist, das eine unmittelbare Kontaktaufnahme ermöglicht. Die bloße E-Mail-Adresse genügt nicht, wenn keine rechtzeitige Reaktion sichergestellt ist.
+2. OLG Hamm, Urt. v. 13.07.2010 – I-4 U 38/10, MMR 2011, 55 Rn. 15–25: Fehlende Telefonnummer im Impressum stellt einen abmahnfähigen Wettbewerbsverstoß dar, wenn kein anderes "schnelles elektronisches Kommunikationsmittel" angegeben ist, das eine unmittelbare Kontaktaufnahme ermöglicht. Die bloße E-Mail-Adresse genügt nicht, wenn keine rechtzeitige Reaktion sichergestellt ist.
 
 ### Kommentarliteratur
 
-1. Schirmbacher, in: Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl. 2019, § 5 TMG Rn. 25–80 (historisch; § 5 TMG durch § 5 DDG zum 14.5.2024 ersetzt): Ausführlich zu den Pflichtangaben im Einzelnen; zur Auslegung von „geschäftsmäßig" (weiter Anwendungsbereich: auch Blogs mit Werbebannern, Influencer-Profile); zu Social-Media-Profilen als eigenständige Telemedien. Aktuell: BeckOK Informations- und Medienrecht (Stand 2025) zu § 5 DDG.
+1. Schirmbacher, in: Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl. 2019, § 5 TMG Rn. 25–80 (historisch; § 5 TMG durch § 5 DDG zum 14.5.2024 ersetzt): Ausführlich zu den Pflichtangaben im Einzelnen; zur Auslegung von "geschäftsmäßig" (weiter Anwendungsbereich: auch Blogs mit Werbebannern, Influencer-Profile); zu Social-Media-Profilen als eigenständige Telemedien. Aktuell: BeckOK Informations- und Medienrecht (Stand 2025) zu § 5 DDG.
 
 2. Ott, in: BeckOK Informations- und Medienrecht, 44. Ed. (Stand 01.02.2025), § 5 DDG Rn. 10–55: Zur Umsetzung des DDG (Ablösung des TMG ab 14.05.2024); Kontinuität der Rspr. zu § 5 TMG; zur v.i.S.d.P.-Pflicht nach § 18 MStV für Social-Media-Kanäle mit redaktionellem Inhalt.
 
@@ -66,7 +66,7 @@ Das Modell benötigt:
 - Angabe: vollständiger Name, vollständige Anschrift im Impressum.
 
 **Schritt 4 – Platzierung und Zugänglichkeit**
-- Beschriftung: „Impressum" oder „Anbieterkennzeichnung" (nicht „Kontakt" o.Ä.) – BGH GRUR 2007, 159.
+- Beschriftung: "Impressum" oder "Anbieterkennzeichnung" (nicht "Kontakt" o.Ä.) – BGH GRUR 2007, 159.
 - Erreichbarkeit: maximal zwei Klicks von jeder Seite aus.
 - Ständige Verfügbarkeit: kein Login erforderlich, keine Paywall.
 - Bei Social-Media-Profilen: Impressum im Profilbereich (Bio/Info) oder direkt verlinkt.
@@ -117,7 +117,7 @@ Das Modell benötigt:
 - **Postfach statt Anschrift**: Ladungsfähige Anschrift erforderlich; Postfach oder c/o-Adresse genügt nicht (Ott, BeckOK Informations- und Medienrecht, § 5 DDG Rn. 22).
 - **Nur E-Mail ohne Telefon**: OLG Hamm (I-4 U 38/10) verlangt schnelles elektronisches Kommunikationsmittel; E-Mail mit Reaktionszeit > 24 h kann unzureichend sein.
 - **Social Media vergessen**: Instagram-, LinkedIn-, TikTok-Profile sind eigenständige Telemedien; kein gesondertes Impressum erforderlich, wenn eines eindeutig verlinkt ist.
-- **TMG-Altlinks**: Nach DDG-Inkrafttreten (14.05.2024) sind Verweise auf „§ 5 TMG" veraltet; aktuell § 5 DDG angeben.
+- **TMG-Altlinks**: Nach DDG-Inkrafttreten (14.05.2024) sind Verweise auf "§ 5 TMG" veraltet; aktuell § 5 DDG angeben.
 - **v.i.S.d.P. durch juristische Person**: Unzulässig nach § 18 Abs. 2 Satz 2 MStV; muss natürliche Person sein.
 - **Abmahnmissbrauch-Schranke**: Seit UWG-Reform 2021 begrenzt § 8c UWG missbräuchliche Abmahnungen; qualifizierte Einrichtungen und Mitbewerber mit echtem Wettbewerbsverhältnis bleiben abmahnberechtigt.
 

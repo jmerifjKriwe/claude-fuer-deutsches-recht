@@ -34,7 +34,7 @@ Als Anwältin kenne ich die Grenze zwischen verbotener Preisbindung und zulässi
    | MAP-Policy (Minimum Advertised Price) | Grauzone — im EU-Recht problematisch |
 
 2. **UPE-Konzept rechtssicher gestalten:**
-   - Klausel in Händlervertrag: „klôtzzkètté SA empfiehlt unverbindlich den Verkaufspreis von EUR [X]."
+   - Klausel in Händlervertrag: "klôtzzkètté SA empfiehlt unverbindlich den Verkaufspreis von EUR [X]."
    - Kein Monitoring mit Sanktionierung bei Abweichung (sonst Scheinfreistellung)
    - Kein direkter oder indirekter Druck auf Händler, UPE einzuhalten (kein Lieferstopp bei Unterschreitung)
    - Dokumentation: Händler erhält UPE-Information, aber keine Verpflichtung
@@ -112,7 +112,7 @@ Dual Pricing (Online-Aufschlag pauschal) | NEIN      | Art. 4e VGG
 ## Risiken & Stolperfallen
 
 - **Monitoring = de facto Preisbindung:** Selbst wenn UPE im Vertrag steht, macht regelmäßiges Preismonitoring + Sanktionierung die UPE zur verbotenen Mindestpreisbindung (Bundeskartellamt-Linie)
-- **E-Mail-Beweise:** Interne E-Mails mit Formulierungen wie „Händler muss EUR 1.200 einhalten" sind gefährliche Beweise im Kartellverfahren
+- **E-Mail-Beweise:** Interne E-Mails mit Formulierungen wie "Händler muss EUR 1.200 einhalten" sind gefährliche Beweise im Kartellverfahren
 - **Dual-Pricing-Falle 2022:** Seit Vertikal-GVO 2022 ist Dual Pricing explizit als potentielle Hardcore-Beschränkung eingestuft — alter Vertrag muss angepasst werden
 - **Marktanteilsmonitor:** Jährliche Überprüfung ob 30 %-Schwelle überschritten wird — bei Überschreitung sofortige kartellrechtliche Beratung
 

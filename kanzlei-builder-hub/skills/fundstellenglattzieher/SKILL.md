@@ -66,7 +66,7 @@ Für jeden Treffer wird gegen folgenden Prüfkatalog kontrolliert:
 
 #### 2.1 Rechtsprechung
 
-- [ ] Gericht in üblicher Abkürzung (kein „Bundesgerichtshof")?
+- [ ] Gericht in üblicher Abkürzung (kein "Bundesgerichtshof")?
 - [ ] Entscheidungsform abgekürzt (`Urt.` / `Beschl.` / `Vfg.`)?
 - [ ] Datum vorhanden mit `v. TT.MM.JJJJ`?
 - [ ] Aktenzeichen vollständig (Senatszeichen + lfd. Nr. + Jahr)?
@@ -76,10 +76,10 @@ Für jeden Treffer wird gegen folgenden Prüfkatalog kontrolliert:
       Seitenzahl-Doppelung)?
 - [ ] Keine pauschale `Rn. X ff.`, sondern Punkt-Randnummer oder
       konkrete Spanne `Rn. 14–21`?
-- [ ] Kein „S." bei Zeitschriftenangabe (gem. Abschnitt 11.1)?
+- [ ] Kein "S." bei Zeitschriftenangabe (gem. Abschnitt 11.1)?
 - [ ] Kein Punkt am Ende des Zeitschriftenkürzels, wenn unzulässig?
 - [ ] Kurzbezeichnung — falls etabliert — mit Gedankenstrich
-      angefügt (`– „L'Oreal SA"`)?
+      angefügt (`– "L'Oreal SA"`)?
 
 #### 2.2 Kommentare
 
@@ -88,7 +88,7 @@ Für jeden Treffer wird gegen folgenden Prüfkatalog kontrolliert:
 - [ ] Auflage **vor** Jahr (`9. Aufl. 2024`)?
 - [ ] Bei Loseblatt/BeckOK: `Ed.` statt `Aufl.` und Stand mit
       `(Stand TT.MM.JJJJ)`?
-- [ ] Norm konkret (`§ 535 BGB Rn. 119`) — nicht „§ 535 BGB ff."?
+- [ ] Norm konkret (`§ 535 BGB Rn. 119`) — nicht "§ 535 BGB ff."?
 - [ ] Kein Publikationsort (Ausnahme Dissertationen)?
 
 #### 2.3 Aufsätze
@@ -121,7 +121,7 @@ Für jeden Treffer wird gegen folgenden Prüfkatalog kontrolliert:
 
 #### 2.6 Floskeln und Abkürzungen
 
-- [ ] Reine „vgl."-Zusätze vor punktgenauen Belegen entfernt?
+- [ ] Reine "vgl."-Zusätze vor punktgenauen Belegen entfernt?
 - [ ] Verwendete Abkürzungen sind in der Whitelist (Abschnitt 13)?
 - [ ] Inkonsistente Schreibweisen vereinheitlicht
       (`i.V.m.` ↔ `iVm` — durchgehend `iVm`)?
@@ -192,7 +192,7 @@ Drei Artefakte:
 
 ## Offene Punkte
 
-- `[FUNDSTELLE PRÜFEN]` Zeile 42 – „BGH Rn. 12" ohne Datum/Aktenzeichen.
+- `[FUNDSTELLE PRÜFEN]` Zeile 42 – "BGH Rn. 12" ohne Datum/Aktenzeichen.
 - `[FUNDSTELLE PRÜFEN]` Zeile 78 – Kommentarwerk ohne Auflage.
 ````
 
@@ -229,7 +229,7 @@ Der korrigierte Volltext folgt im Anschluss.
 
 ## Risiken und typische Fehler
 
-**1. Fundstellen werden nicht „erfunden"**
+**1. Fundstellen werden nicht "erfunden"**
 Der Skill ergänzt nur, was im Originaltext **belegt oder eindeutig
 ableitbar** ist. Fehlt das Aktenzeichen, wird `[FUNDSTELLE PRÜFEN]`
 gesetzt — der Skill recherchiert nicht selbständig nach, weil die

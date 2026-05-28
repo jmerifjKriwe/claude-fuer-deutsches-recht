@@ -90,7 +90,7 @@ Alternativ als Markdown-Tabelle:
 ## Berechnungshinweise
 
 - Fristbeginn immer anhand des tatsächlichen Zustellungsdatums aus der Akte ermitteln
-- Wenn Zustellungsdatum nicht bekannt: ausdrücklich als „Zustellungsdatum unbekannt — Frist nicht berechenbar" kennzeichnen
+- Wenn Zustellungsdatum nicht bekannt: ausdrücklich als "Zustellungsdatum unbekannt — Frist nicht berechenbar" kennzeichnen
 - Wochenenden und gesetzliche Feiertage nach § 222 ZPO i.V.m. §§ 187-188 BGB berücksichtigen
 - Bei Monatsfristen: Fristende = gleicher Tag des Folgemonats (§ 188 Abs. 2 BGB)
 
@@ -99,7 +99,7 @@ Alternativ als Markdown-Tabelle:
 - [ ] Alle gesetzlichen Fristen aus der Akte erfasst?
 - [ ] Fristenbox am Anfang des Aktenauszugs?
 - [ ] Berechnungsgrundlage (Zustellungsdatum) angegeben?
-- [ ] Fehlende Zustellungsdaten als „unbekannt" markiert?
+- [ ] Fehlende Zustellungsdaten als "unbekannt" markiert?
 - [ ] Fristen in der Verfahrenschronologie markiert?
 - [ ] Wochenende/Feiertag bei Fristende berücksichtigt (§ 222 ZPO)?
 

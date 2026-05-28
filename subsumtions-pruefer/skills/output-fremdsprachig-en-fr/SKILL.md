@@ -64,7 +64,7 @@ Das System verwendet anerkannte Übersetzungen für deutsche und EU-Rechtsbegrif
 
 ## Struktur der fremdsprachigen Ausgabe
 
-Die fremdsprachige Ausgabe folgt derselben Struktur wie die deutsche Ausgabe (Vier-Schritt-Schema, Beweisübersicht, Ergebnis), aber in der gewählten Sprache. Rechtsbegriffe werden beim ersten Auftreten in eckigen Klammern mit dem deutschen Originalterm versehen: „legal basis [Anspruchsgrundlage]".
+Die fremdsprachige Ausgabe folgt derselben Struktur wie die deutsche Ausgabe (Vier-Schritt-Schema, Beweisübersicht, Ergebnis), aber in der gewählten Sprache. Rechtsbegriffe werden beim ersten Auftreten in eckigen Klammern mit dem deutschen Originalterm versehen: "legal basis [Anspruchsgrundlage]".
 
 ## Sprachauswahl
 

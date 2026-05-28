@@ -12,7 +12,7 @@ Die Positionsmarke ist in Art. 3 I lit. f der Durchführungsverordnung (EU) 2018
 ## Rechtsrahmen
 
 - **Art. 3 I lit. f DurchfVO (EU) 2018/626 zur UMV:** Positionsmarke als anerkannte Markenart
-- **§ 3 I MarkenG:** Positionsmarke unter „andere Aufmachungen" markenfähig
+- **§ 3 I MarkenG:** Positionsmarke unter "andere Aufmachungen" markenfähig
 - **EuGH C-163/16 (Christian Louboutin / Van Haren):** Roter Sohlenstreifen an High Heels ist Positionsmarke, nicht reine Formmarke — Formausschluss § 3 II MarkenG greift nicht, wenn Farbe (nicht Form) den Schutz begründet. WICHTIG: Nach Vorabentscheidung durch EuGH schließlich LG Hamburg Eintragung bestätigt
 - **Adidas AG Drei-Streifen-Marke:** EUIPO und BGH zur Unterscheidungskraft paralleler Streifen; BGH I ZB 2/15 (Drei-Streifen-Marke Adidas) — Verkehrsdurchsetzung nach intensiver Benutzung
 - **Bottega Veneta Intrecciato:** EUIPO R 2592/2011-4 — Webmuster-Positionsmarke für Lederhandtaschen, Verkehrsdurchsetzung nachgewiesen
@@ -50,7 +50,7 @@ Die Positionsmarke ist in Art. 3 I lit. f der Durchführungsverordnung (EU) 2018
 Ein 3 mm breiter goldener Streifen aus Goldfolie, genau 15 mm vom Handgelenk-Rand, auf der Innenseite aller Lederhandschuhe. Analyse: Position klar definiert, Goldstreifen nicht branchenüblich an Handschuh-Innenseite → Unterscheidungskraft möglicherweise inhärent. Strategie: Anmeldung als Positionsmarke mit detaillierter Beschreibung und gestrichelter Handschuh-Zeichnung; Verkehrsdurchsetzungsnachweis als Backup vorbereiten.
 
 ### Konstellation 2: Intrecciato-Webmuster der K°° Handtaschen
-Das charakteristische Flechtmuster der „Sac Maillé"-Kollektion. Analogie zu Bottega Veneta: Nach 8 Jahren Marktpräsenz und EUR 15 Mio. Marketingaufwand: Verkehrsdurchsetzungsantrag beim EUIPO mit Meinungsumfrage in DE/FR/IT/ES.
+Das charakteristische Flechtmuster der "Sac Maillé"-Kollektion. Analogie zu Bottega Veneta: Nach 8 Jahren Marktpräsenz und EUR 15 Mio. Marketingaufwand: Verkehrsdurchsetzungsantrag beim EUIPO mit Meinungsumfrage in DE/FR/IT/ES.
 
 ### Konstellation 3: Adidas-Analogie — Schutz paralleler Nähte
 Zwei parallele Kontrastnähte an der Schulterpartie aller klôtzzkètté-Jacken. Problem: Adidas-Rechtsprechung zeigt, dass einfache Streifen schwer schutzfähig sind. Empfehlung: Mustermarke (ggf. als Bildmarke eingetragen) kombiniert mit Positionsmarke; Verkehrsdurchsetzung zentraler Angriffspunkt.

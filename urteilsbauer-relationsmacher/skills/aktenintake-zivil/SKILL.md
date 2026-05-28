@@ -131,7 +131,7 @@ Am Ende des Aktenintakes liegt vor:
 1. **Anlagen nicht abgeglichen.** Bezugnahmen im Schriftsatz auf Anlagen, die fehlen oder anders nummeriert sind. Klassischer Stolperstein.
 2. **Bezugnahmen überlesen.** Späterer Schriftsatz nimmt auf einen früheren Bezug — der dann inhaltlich übersehen wird.
 3. **Erledigungserklärungen übersehen.** Teilrelative Erledigung in einem Schriftsatz versteckt — führt zu Mehrarbeit beim Tenor.
-4. **Hilfsanträge nicht erkannt.** „Hilfsweise" wird leicht überlesen, führt zu unvollständigem Tenor.
+4. **Hilfsanträge nicht erkannt.** "Hilfsweise" wird leicht überlesen, führt zu unvollständigem Tenor.
 5. **Mahnverfahrens-Stand übersehen.** Bei Eingang nach Widerspruch ist der Mahnantrag inhaltlich die Klagschrift (Paragraf 696 ZPO).
 6. **Zustellnachweis falsch interpretiert.** Bei beA-Zustellung ist die Empfangsbestätigung des Empfängers massgeblich.
 7. **Vergleichsvorschlaege als Schriftsätze gewertet.** Vergleichsvorschlag Paragraf 278 VI ZPO ist Gerichts-Aktivität, nicht Parteivortrag.

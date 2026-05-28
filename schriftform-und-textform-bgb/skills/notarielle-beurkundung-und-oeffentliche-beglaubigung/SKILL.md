@@ -118,7 +118,7 @@ zunächst einen Notartermin.
 
 ## Fallstricke
 
-- **Vorvertrag Grundstückskauf**: Auch ein Vorvertrag zum Grundstückskauf bedarf notarieller Beurkundung (BGH-Dauerrechtsprechung). Ein „Letter of Intent" ohne Notar ist bei Grundstücken unverbindlich.
+- **Vorvertrag Grundstückskauf**: Auch ein Vorvertrag zum Grundstückskauf bedarf notarieller Beurkundung (BGH-Dauerrechtsprechung). Ein "Letter of Intent" ohne Notar ist bei Grundstücken unverbindlich.
 - **GmbH-Gründung digital**: Die vereinfachte GmbH-Gründung per Musterprotokoll ist online ohne physische Präsenz möglich (§ 2 Abs. 3 GmbHG), aber dies ist eine gesetzliche Ausnahme, keine allgemeine Regel.
 - **Formwahrung Vollmacht für Grundstücksgeschäft**: Die Vollmacht zur Beurkundung eines Grundstückskaufs muss ebenfalls notariell beurkundet oder beglaubigt sein.
 - **Video-Beurkundung Schranken**: Nicht alle Notariate bieten Videobeurkundung an; Eheverträge und Testamente bleiben Präsenzgeschäft.

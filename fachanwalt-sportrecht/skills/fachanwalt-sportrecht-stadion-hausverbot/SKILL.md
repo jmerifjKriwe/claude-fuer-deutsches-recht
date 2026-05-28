@@ -20,7 +20,7 @@ Verteidigung von Fans gegen Stadion-Hausverbot.
 ### Bundesweites Stadion-Verbot
 
 - DFL-Richtlinien
-- Datei „Gewalttaeter Sport" beim BKA
+- Datei "Gewalttaeter Sport" beim BKA
 - Eintragung 1-5 Jahre
 
 ## 2) Voraussetzungen
@@ -58,7 +58,7 @@ Verteidigung von Fans gegen Stadion-Hausverbot.
 
 ### Schritt 3 — Löschungs-Antrag
 
-- BKA „Gewalttaeter Sport" Löschungs-Antrag
+- BKA "Gewalttaeter Sport" Löschungs-Antrag
 - DSGVO Art. 17 Löschungs-Anspruch
 - BGH VI ZR 1213/22 zu DSGVO-Schadensersatz
 

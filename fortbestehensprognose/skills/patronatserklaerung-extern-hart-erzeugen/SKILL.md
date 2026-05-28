@@ -32,7 +32,7 @@ zwischen
 
   [Vor- und Nachname Patron]
   [Anschrift]
-  - im Folgenden „der Patron" -
+  - im Folgenden "der Patron" -
 
 und
 
@@ -41,7 +41,7 @@ und
   [Name]
   [Anschrift]
   Handelsregister AG [...] HRB [...]
-  - im Folgenden „die Gesellschaft" -
+  - im Folgenden "die Gesellschaft" -
 
 1. Praeambel
 
@@ -135,7 +135,7 @@ Die Patronatszahlung an die Gesellschaft ist beim Patron regelmäßig **nicht ab
 
 ### Comfortletter NICHT ausreichend
 
-Eine **weiche** Patronatserklärung (Comfortletter, „Best Effort"-Erklärung) genügt **nicht** für die Berücksichtigung im Status. Sie wirkt nur reputationell.
+Eine **weiche** Patronatserklärung (Comfortletter, "Best Effort"-Erklärung) genügt **nicht** für die Berücksichtigung im Status. Sie wirkt nur reputationell.
 
 ## Ausgabe
 

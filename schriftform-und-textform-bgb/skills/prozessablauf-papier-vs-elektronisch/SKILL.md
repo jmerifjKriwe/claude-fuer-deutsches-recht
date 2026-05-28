@@ -205,7 +205,7 @@ Empfangsquittung
 Hiermit bestätige ich, [Name Empfänger], heute am [Datum] um [Uhrzeit] Uhr
 von [Name Überbringer] folgendes Dokument erhalten zu haben:
 
-[Bezeichnung des Dokuments, z. B. „Kündigung des Mietverhältnisses vom [Datum]"]
+[Bezeichnung des Dokuments, z. B. "Kündigung des Mietverhältnisses vom [Datum]"]
 
 [Unterschrift Empfänger]               [Unterschrift Überbringer]
 [Datum]

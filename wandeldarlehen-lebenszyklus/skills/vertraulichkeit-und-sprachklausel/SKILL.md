@@ -48,13 +48,13 @@ Deutsche Fassung allein verbindlich. Im Widerspruchsfall: DE geht vor EN. Englis
 
 ### 3. Gerichtsstand oder Schiedsklausel auswählen
 Option A – Staatliches Gericht: Ausschließlicher Gerichtsstand Berlin (oder Gesellschaftssitz).
-Option B – DIS-Schiedsklausel: „Alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag werden nach der Deutschen Institution für Schiedsgerichtsbarkeit e.V. (DIS) Schiedsordnung in ihrer jeweils gültigen Fassung endgültig entschieden. Schiedsort ist Frankfurt am Main. Schiedssprache ist Deutsch. Das Schiedsgericht besteht aus einem Schiedsrichter."
+Option B – DIS-Schiedsklausel: "Alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag werden nach der Deutschen Institution für Schiedsgerichtsbarkeit e.V. (DIS) Schiedsordnung in ihrer jeweils gültigen Fassung endgültig entschieden. Schiedsort ist Frankfurt am Main. Schiedssprache ist Deutsch. Das Schiedsgericht besteht aus einem Schiedsrichter."
 
 ### 4. Salvatorische Klausel (§ 139 BGB vollständig abbedingen)
-„Es ist ausdrücklicher Wille der Parteien, dass diese salvatorische Klausel nicht lediglich eine Umkehr der Beweislast bewirkt, sondern § 139 BGB insgesamt abbedungen wird."
+"Es ist ausdrücklicher Wille der Parteien, dass diese salvatorische Klausel nicht lediglich eine Umkehr der Beweislast bewirkt, sondern § 139 BGB insgesamt abbedungen wird."
 
 ### 5. Textformerfordernis für Änderungen
-„Änderungen und Ergänzungen bedürfen der Textform (§ 126b BGB); das gilt auch für die Änderung dieses Textformerfordernisses. Strengere gesetzliche Formerfordernisse bleiben unberührt."
+"Änderungen und Ergänzungen bedürfen der Textform (§ 126b BGB); das gilt auch für die Änderung dieses Textformerfordernisses. Strengere gesetzliche Formerfordernisse bleiben unberührt."
 
 ### 6. Abtretungsreglung
 Abtretung an Dritte nur mit vorheriger schriftlicher Zustimmung. Ausnahme: Verbundene Unternehmen und vom Lender verwaltete Fonds ohne Zustimmung.

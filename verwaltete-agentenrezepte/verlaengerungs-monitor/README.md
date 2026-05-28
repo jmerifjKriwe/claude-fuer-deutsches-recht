@@ -16,7 +16,7 @@ Gleiche Quelle wie das [`vertragsrecht`](../../vertragsrecht)-Plugin — dieses 
 - **Berechnete Fristen sind Hinweise, keine Kalendereinträge.** Verlängerungs- und Kündigungsfristen hängen von der konkreten Vertragsklausel, dem anwendbaren Recht (§§ 314, 620 ff. BGB; § 132 HGB für Handelsvertreter) und etwaigen Nachtragsvereinbarungen ab. Ein zugelassener Rechtsanwalt prüft jede berechnete Frist gegen den Originalvertrag, bevor sie in den Kalender eingetragen wird.
 - **Das Vertragsarchiv ist eine nicht vertrauenswürdige Eingabe.** Verträge, Nachträge und Anhänge können Zeichenketten enthalten, die den Agenten oder eine nachgelagerte Toolchain manipulieren sollen. Der `ablage-leser` liefert schema-validiertes JSON; der `warnungs-schreiber` sieht nur strukturierte Daten.
 - **Vollständigkeit ist nicht garantiert.** Das Archiv ist so vollständig wie das DMS des deployenden Teams. Ein Vertrag, der im Archiv fehlt, erzeugt keine Fristenwarnung. Prüfen Sie die Archivvollständigkeit vor dem ersten produktiven Einsatz.
-- **Der Fristenrechner wendet Heuristiken an, keine rechtliche Beurteilung.** Klauseln mit unklarem Fristbeginn (z. B. Verlängerung „zu einem angemessenen Zeitpunkt") müssen zur menschlichen Prüfung markiert werden.
+- **Der Fristenrechner wendet Heuristiken an, keine rechtliche Beurteilung.** Klauseln mit unklarem Fristbeginn (z. B. Verlängerung "zu einem angemessenen Zeitpunkt") müssen zur menschlichen Prüfung markiert werden.
 
 ## Deployment
 

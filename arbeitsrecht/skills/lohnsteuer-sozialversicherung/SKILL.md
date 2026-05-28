@@ -13,7 +13,7 @@ Dieser Skill dient der Beurteilung des sozialversicherungsrechtlichen Beschäfti
 
 1. **Vertragsgestaltung**: Freier-Mitarbeiter-Vertrag, Dienstvertrag, Werkvertrag – Vertragsurkunde
 2. **Tatsächliche Durchführung**: Wie ist die Zusammenarbeit in der Praxis ausgestaltet? (Weisungen, Arbeitszeit, Ort, Eingliederung)
-3. **Auftraggeberstruktur**: Wie viele Auftraggeber hat der „Selbständige"? Umsatzverteilung?
+3. **Auftraggeberstruktur**: Wie viele Auftraggeber hat der "Selbständige"? Umsatzverteilung?
 4. **Unternehmerisches Risiko**: Eigene Betriebsmittel, eigene Arbeitnehmer, Haftungsrisiko des Auftragnehmers?
 5. **Bisherige steuerliche und SV-Behandlung**: Wie wurden Beiträge bisher abgeführt?
 6. **Zeitraum**: Seit wann besteht die Zusammenarbeit? (Nachzahlungszeitraum!)
@@ -122,7 +122,7 @@ Dieser Skill dient der Beurteilung des sozialversicherungsrechtlichen Beschäfti
 
 ## Beispiel
 
-**Sachverhalt:** Unternehmen U-GmbH beschäftigt seit 3 Jahren Herr F als „freien IT-Berater" auf Honorarbasis (Monatshonorar 7.500 €). F arbeitet ausschließlich für U-GmbH, nutzt U-GmbHs IT-Infrastruktur, ist in den Projektmanagementprozess eingebunden und erhält Weisungen vom Projektleiter der U-GmbH. Ein eigenes Büro oder eigene Arbeitnehmer hat F nicht.
+**Sachverhalt:** Unternehmen U-GmbH beschäftigt seit 3 Jahren Herr F als "freien IT-Berater" auf Honorarbasis (Monatshonorar 7.500 €). F arbeitet ausschließlich für U-GmbH, nutzt U-GmbHs IT-Infrastruktur, ist in den Projektmanagementprozess eingebunden und erhält Weisungen vom Projektleiter der U-GmbH. Ein eigenes Büro oder eigene Arbeitnehmer hat F nicht.
 
 **Ergebnis:** Erhebliche Indizien sprechen für abhängige Beschäftigung, Scheinselbständigkeit liegt nahe.
 
@@ -140,7 +140,7 @@ Dieser Skill dient der Beurteilung des sozialversicherungsrechtlichen Beschäfti
 | Fehler | Konsequenz | Abhilfe |
 |---|---|---|
 | Kein Statusfeststellungsverfahren trotz Zweifeln | Rückwirkende Nachzahlung; § 266a StGB | Proaktiv § 7a SGB IV beantragen |
-| Vertrag „Freier Mitarbeiter" ohne tatsächliche Umsetzung | Scheinselbständigkeit; Nachzahlungspflicht § 28e SGB IV | Vertragsgestaltung und tatsächliche Durchführung abstimmen |
+| Vertrag "Freier Mitarbeiter" ohne tatsächliche Umsetzung | Scheinselbständigkeit; Nachzahlungspflicht § 28e SGB IV | Vertragsgestaltung und tatsächliche Durchführung abstimmen |
 | Vorsätzliches Nichtabführen | § 266a StGB, Freiheitsstrafe bis 5 Jahre | Sofortige Klärung und Nachentrichten |
 | Vergessen: KSVG-Abgabepflicht | Nachzahlung KSVG-Abgabe | Künstler/Publizisten gesondert prüfen |
 | Falsche Steuererklärung des Auftragnehmers | § 370 AO; Nachzahlung; Berichtigungspflicht | Steuerberater einschalten |

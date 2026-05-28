@@ -136,7 +136,7 @@ Disclaimer **dreimal** im Bericht (Deckblatt-Vermerk, Methodik, eigener Abschnit
 
 ### Schritt 4: Output-Format
 
-Markdown-Datei `recherchebericht_<aktenzeichen>_<datum>.md` im Arbeitsverzeichnis. Patentanwältin kann sie in Word oder PDF konvertieren — die Konvertierung erfolgt durch externes Werkzeug (z. B. Pandoc, MS Word „Aus Markdown öffnen").
+Markdown-Datei `recherchebericht_<aktenzeichen>_<datum>.md` im Arbeitsverzeichnis. Patentanwältin kann sie in Word oder PDF konvertieren — die Konvertierung erfolgt durch externes Werkzeug (z. B. Pandoc, MS Word "Aus Markdown öffnen").
 
 ## Hinweise
 

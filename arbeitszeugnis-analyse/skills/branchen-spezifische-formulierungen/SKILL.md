@@ -7,11 +7,11 @@ description: "Decodiert branchenspezifische Formulierungen im Arbeitszeugnis zur
 
 Während die allgemeinen Formeln des Geheimcodes branchenübergreifend gelten, gibt es zusätzliche branchenspezifische Formulierungen, die nur in bestimmten Berufskontexten auftauchen — und deren Fehlen nur in diesen Kontexten als Signal zu werten ist. Ein Zeugnis eines Vertriebsmitarbeiters ohne Aussage zur Zielerreichung ist verdächtig; bei einem Buchhalter wäre die gleiche Auslassung neutral.
 
-Im Vertrieb sind Schlüsselaussagen: Zielerreichung („hat seine Umsatzziele stets erreicht/übertroffen"), Neukundengewinnung, Kundenbindung und Verhandlungsstärke. Fehlen diese Angaben, deutet das auf unterdurchschnittliche Vertriebsleistung hin. „Konnte seine Ziele trotz schwieriger Marktlage erreichen" ist orange — es klingt nach Entschuldigung.
+Im Vertrieb sind Schlüsselaussagen: Zielerreichung ("hat seine Umsatzziele stets erreicht/übertroffen"), Neukundengewinnung, Kundenbindung und Verhandlungsstärke. Fehlen diese Angaben, deutet das auf unterdurchschnittliche Vertriebsleistung hin. "Konnte seine Ziele trotz schwieriger Marktlage erreichen" ist orange — es klingt nach Entschuldigung.
 
 Im Rechtsbereich (Kanzlei, Rechtsabteilung) sind typische Aussagen: Mandatsführung (Qualität, Eigenverantwortung), Schriftsatzqualität, Gerichtsvertretung, Mandantenbeziehung und Teamarbeit in der Kanzlei. Fehlt ein Verweis auf die Qualität der Mandatsführung in einem Anwalts-Zeugnis, ist das ein rotes Signal.
 
-Im IT-Bereich sind Schlüsselbegriffe: Projektverantwortung, technische Expertise (benannte Systeme und Technologien), Termintreue bei Softwareprojekten, Umgang mit Anforderungsänderungen und Teamarbeit in agilen Strukturen. „Hat Projekte termingerecht abgeschlossen" ist grün; „hat an Projekten mitgewirkt" ist orange.
+Im IT-Bereich sind Schlüsselbegriffe: Projektverantwortung, technische Expertise (benannte Systeme und Technologien), Termintreue bei Softwareprojekten, Umgang mit Anforderungsänderungen und Teamarbeit in agilen Strukturen. "Hat Projekte termingerecht abgeschlossen" ist grün; "hat an Projekten mitgewirkt" ist orange.
 
 Im Pflegebereich (Krankenhaus, Pflegeeinrichtung) sind zentrale Aussagen: Patientenkontakt (Empathie, Zugewandtheit), Zuverlässigkeit bei Medikamentengabe, Teamarbeit mit Ärzten und Pflegekollegen, sowie Belastbarkeit in Schichten. Fehlt in einem Pflege-Zeugnis jede Aussage zu Patientenkontakt, ist das ein rotes Signal.
 
@@ -28,13 +28,13 @@ Im Pflegebereich (Krankenhaus, Pflegeeinrichtung) sind zentrale Aussagen: Patien
 
 ## Beispiele
 
-**Beispiel 1 – Vertrieb (Grün):** „Herr Kurz übertraf seine Vertriebsziele im Beobachtungszeitraum durchgehend und war maßgeblich an der Neukundengewinnung beteiligt."
+**Beispiel 1 – Vertrieb (Grün):** "Herr Kurz übertraf seine Vertriebsziele im Beobachtungszeitraum durchgehend und war maßgeblich an der Neukundengewinnung beteiligt."
 
-**Beispiel 2 – IT (Orange):** „Frau Kramer hat an mehreren Softwareprojekten mitgewirkt und dabei ihre technischen Fähigkeiten eingesetzt." — Passiv, keine Erfolgsaussagen, keine Verantwortungsaussage.
+**Beispiel 2 – IT (Orange):** "Frau Kramer hat an mehreren Softwareprojekten mitgewirkt und dabei ihre technischen Fähigkeiten eingesetzt." — Passiv, keine Erfolgsaussagen, keine Verantwortungsaussage.
 
 **Beispiel 3 – Pflege (Rot durch Auslassung):** Zeugnis einer Stationsschwester ohne jede Aussage zu Patientenversorgung oder Empathie → klassisches rotes Signal im Pflegebereich.
 
-**Beispiel 4 – Recht (Grün):** „Frau Dr. Bauer führte ihre Mandate stets eigenverantwortlich und erzielte für unsere Mandanten regelmäßig hervorragende Ergebnisse. Ihre Schriftsätze waren stets von höchster Qualität."
+**Beispiel 4 – Recht (Grün):** "Frau Dr. Bauer führte ihre Mandate stets eigenverantwortlich und erzielte für unsere Mandanten regelmäßig hervorragende Ergebnisse. Ihre Schriftsätze waren stets von höchster Qualität."
 
 **Beispiel 5 – Finanzwesen (Rot durch Schweigen):** Buchhalter-Zeugnis ohne ein einziges Wort zu Sorgfalt, Genauigkeit oder Vertrauenswürdigkeit → klassisches Warnsignal bei finanzrelevanten Positionen.
 

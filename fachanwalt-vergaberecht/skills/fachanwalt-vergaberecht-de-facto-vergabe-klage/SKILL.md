@@ -19,7 +19,7 @@ Klage gegen ohne Ausschreibung erfolgte Auftragsvergabe.
 - Verlängerung Bestandsauftrag über 50 %
 - Wesentliche Änderung ohne Neuvergabe
 - Inhouse-Vergabe ohne Voraussetzungen
-- „Notvergabe" ohne tatsächliche Eilbedürftigkeit
+- "Notvergabe" ohne tatsächliche Eilbedürftigkeit
 
 ## 2) Unwirksamkeits-Klage § 135 GWB
 

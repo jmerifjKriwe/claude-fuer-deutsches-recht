@@ -44,7 +44,7 @@ Auch bei Unterschreitung der Schwellen kann die Kommission Gatekeeper-Status des
 ### DMA-Designierung als Marktindiz
 
 Eine Gatekeeper-Designierung für einen Kernplattformdienst stützt (aber ersetzt nicht) die kartellrechtliche Marktdefinition für diesen Dienst:
-- Designierung von Google als Gatekeeper für „allgemeine Online-Suchdienste" → Bestätigt kartellrechtliche Marktdefinition für Art. 102 AEUV-Zwecke.
+- Designierung von Google als Gatekeeper für "allgemeine Online-Suchdienste" → Bestätigt kartellrechtliche Marktdefinition für Art. 102 AEUV-Zwecke.
 - Vorsicht: DMA-Marktdefinition und kartellrechtliche Marktdefinition sind nicht deckungsgleich.
 
 ### Verhältnis zu Art. 102 AEUV
@@ -53,7 +53,7 @@ DMA und Art. 102 AEUV bestehen nebeneinander (kein Vorrang, Art. 1 Abs. 6 DMA). 
 
 ### § 19a GWB — Deutsches Pendant
 
-Das BKartA kann Unternehmen mit „überragender marktübergreifender Bedeutung" besondere Verhaltenspflichten auferlegen. Bisherige Designierungen: Alphabet/Google (2021/2023); Meta Platforms (2022); Amazon (2022); Apple (2023); Microsoft (2023).
+Das BKartA kann Unternehmen mit "überragender marktübergreifender Bedeutung" besondere Verhaltenspflichten auferlegen. Bisherige Designierungen: Alphabet/Google (2021/2023); Meta Platforms (2022); Amazon (2022); Apple (2023); Microsoft (2023).
 
 ## Leitentscheidungen DMA und Gatekeeper
 

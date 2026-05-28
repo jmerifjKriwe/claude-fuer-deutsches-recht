@@ -36,7 +36,7 @@ Als Anwältin entwerfe ich selektive Vertriebsverträge, die Coty-konform sind, 
    - Geheimhaltung von Einkaufspreisen (MFN-Klausel — vgl. Skill `agb-haendlervertrag-luxus`)
 
 2. **Plattformverbot formulieren:**
-   - Klausel: „Händler darf Vertragsware nicht über Online-Marktplätze Dritter (insbesondere Donauzon, [weitere]) anbieten, es sei denn, klôtzzkètté SA stimmt vorher schriftlich zu."
+   - Klausel: "Händler darf Vertragsware nicht über Online-Marktplätze Dritter (insbesondere Donauzon, [weitere]) anbieten, es sei denn, klôtzzkètté SA stimmt vorher schriftlich zu."
    - Begründung: Marktplätze entsprechen nicht den Qualitätsstandards des Selektivvertriebssystems; fehlende Kontrolle über Markenpräsentation
    - Coty-Linie: Luxusimage-Argument genügt; kein generelles Internet-Verbot (eigener Online-Shop des Händlers erlaubt)
 

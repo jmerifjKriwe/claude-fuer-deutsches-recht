@@ -4,8 +4,8 @@
 
 ## 1. Gutachtenstil vs. Urteilsstil
 
-- **Gutachtenstil** („Es könnte … Dazu müsste …"): in Memos, internen Vermerken, Mandantenkommunikation mit Begründungsanspruch.
-- **Urteilsstil** („Der Anspruch ist begründet, weil …"): in Schriftsätzen, Beschlüssen, Mandantenkurzantworten, wenn das Ergebnis vorab steht.
+- **Gutachtenstil** ("Es könnte … Dazu müsste …"): in Memos, internen Vermerken, Mandantenkommunikation mit Begründungsanspruch.
+- **Urteilsstil** ("Der Anspruch ist begründet, weil …"): in Schriftsätzen, Beschlüssen, Mandantenkurzantworten, wenn das Ergebnis vorab steht.
 - Standardmodus ist der Gutachtenstil, sofern nicht ausdrücklich Urteilsstil verlangt.
 
 ## 2. Anspruchsgrundlagen-Reihenfolge
@@ -20,15 +20,15 @@ Standardreihenfolge im Gutachten und in der anwaltlichen Vorprüfung:
 6. **Gefährdungshaftung — verschuldensunabhängig** (§ 7 StVG; § 1 ProdHaftG; § 1 HaftpflG; § 33 LuftVG; § 25 AtG; § 89 Abs. 2 WHG; § 84 AMG; § 32 GenTG; § 1 UmweltHG; § 833 S. 1 BGB Tierhalter)
 7. **Bereicherungsansprüche** (§§ 812 ff. BGB)
 
-**Hinweis zur Terminologie:** Die früher verbreiteten Sammelbegriffe „vertragsähnlich" und „quasivertraglich" werden vermieden — sie sind in der Lehre uneinheitlich besetzt (mal wird c.i.c. als „vertragsähnlich", mal als „quasivertraglich" geführt, mal werden beide synonym verwendet) und tragen prüfungspraktisch nichts bei. Sauberer ist die direkte Benennung: c.i.c. ist vorvertragliches Schuldverhältnis (§ 311 Abs. 2 BGB), GoA ist gesetzliches Schuldverhältnis aus berechtigter Fremdgeschäftsführung. Die Gefährdungshaftung ist **eigenständige** verschuldensunabhängige Haftungsspur und **kein** Unterfall des § 823 BGB; sie wird gern übersehen.
+**Hinweis zur Terminologie:** Die früher verbreiteten Sammelbegriffe "vertragsähnlich" und "quasivertraglich" werden vermieden — sie sind in der Lehre uneinheitlich besetzt (mal wird c.i.c. als "vertragsähnlich", mal als "quasivertraglich" geführt, mal werden beide synonym verwendet) und tragen prüfungspraktisch nichts bei. Sauberer ist die direkte Benennung: c.i.c. ist vorvertragliches Schuldverhältnis (§ 311 Abs. 2 BGB), GoA ist gesetzliches Schuldverhältnis aus berechtigter Fremdgeschäftsführung. Die Gefährdungshaftung ist **eigenständige** verschuldensunabhängige Haftungsspur und **kein** Unterfall des § 823 BGB; sie wird gern übersehen.
 
 ## 3. Auslegung — die Kanones in der Praxis
 
-In der deutschen Methodenlehre wird traditionell von vier Auslegungskanones gesprochen — die Zuschreibung an Savigny ist allerdings **unscharf** und wissenschaftlich umstritten. Die heute geläufige Vierer-Liste ist erst später so verfestigt worden; Savigny selbst hat seine „Elemente der Auslegung" anders zugeschnitten. Für die Praxis sind die vier Kanones eine **grobe gedankliche Stütze**, kein historisch sauberes Lehrgebäude — und schon gar keine starre Reihenfolge.
+In der deutschen Methodenlehre wird traditionell von vier Auslegungskanones gesprochen — die Zuschreibung an Savigny ist allerdings **unscharf** und wissenschaftlich umstritten. Die heute geläufige Vierer-Liste ist erst später so verfestigt worden; Savigny selbst hat seine "Elemente der Auslegung" anders zugeschnitten. Für die Praxis sind die vier Kanones eine **grobe gedankliche Stütze**, kein historisch sauberes Lehrgebäude — und schon gar keine starre Reihenfolge.
 
 1. **Grammatikalisch** — Wortlaut, Wortsinn nach allgemeinem oder fachlichem Sprachgebrauch. **Äußere Grenze** der Auslegung; jenseits davon beginnt Rechtsfortbildung.
 2. **Systematisch** — Stellung im Gesetz, Verhältnis zu Nachbarnormen, Gesamtzusammenhang der Rechtsordnung.
-3. **Historisch** — Entstehungsgeschichte, Materialien (BT-Drucks., Ausschussberichte, Stellungnahmen). Bei jüngeren Reformgesetzen oft sehr tragfähig; bei älteren Normen häufig lückenhaft, widersprüchlich oder nicht greifbar. Achtung: In Materialien „trifft man gern nur seine eigenen Bekannten" — man liest die Stimmen, die ohnehin das eigene Ergebnis stützen, und ignoriert die anderen. Die Materialien sind im Ganzen zu würdigen, einschließlich widerstreitender Stimmen.
+3. **Historisch** — Entstehungsgeschichte, Materialien (BT-Drucks., Ausschussberichte, Stellungnahmen). Bei jüngeren Reformgesetzen oft sehr tragfähig; bei älteren Normen häufig lückenhaft, widersprüchlich oder nicht greifbar. Achtung: In Materialien "trifft man gern nur seine eigenen Bekannten" — man liest die Stimmen, die ohnehin das eigene Ergebnis stützen, und ignoriert die anderen. Die Materialien sind im Ganzen zu würdigen, einschließlich widerstreitender Stimmen.
 4. **Teleologisch** — Sinn und Zweck (ratio legis). In der gerichtlichen Praxis das **dominierende** Auslegungsargument: BGH und BVerfG argumentieren ganz überwiegend teleologisch, weil sich damit gerechte Einzelfallergebnisse begründen lassen.
 
 **Ergänzend (Querschnittskanones):**
@@ -50,21 +50,21 @@ Wissenschaftliche Methodenlehre debattiert eine Rangfolge der Kanones (insbesond
 
 In der Praxis kursieren griffige Auslegungs-Faustregeln, die wie methodische Vorgaben klingen, in Wirklichkeit aber **eine Begründung ersetzen, wo eigentlich noch begründet werden müsste**. Die bekannteste:
 
-> „Ausnahmen sind eng auszulegen."
+> "Ausnahmen sind eng auszulegen."
 
 Diese Faustregel ist als Methodenregel **weitgehend sinnfrei**:
 
-1. **Was Regel und was Ausnahme ist, steht selten fest.** Die Einordnung „Regel/Ausnahme" ist selbst schon eine Auslegungsentscheidung, die zu begründen wäre — nicht ein Eingangsdatum.
-2. **„Eng" ist kein methodisches Maß.** Wie eng ist eng? Wer das nicht beantwortet, hat keine Methode, sondern eine Stimmung.
+1. **Was Regel und was Ausnahme ist, steht selten fest.** Die Einordnung "Regel/Ausnahme" ist selbst schon eine Auslegungsentscheidung, die zu begründen wäre — nicht ein Eingangsdatum.
+2. **"Eng" ist kein methodisches Maß.** Wie eng ist eng? Wer das nicht beantwortet, hat keine Methode, sondern eine Stimmung.
 3. **Der Satz wird typischerweise eingesetzt, um ein Ergebnis zu untermauern, das man ohnehin haben will.** Wer den Anwendungsbereich verkleinern will, deklariert die Norm zur Ausnahme.
 
-Ähnliches gilt für „im Zweifel für den Schuldner" (außerhalb gesetzlich geregelter Fälle), „AGB-Klauseln sind kundenfreundlich auszulegen" (pauschal), „Strafgesetze sind eng auszulegen" (jenseits Art. 103 Abs. 2 GG / § 1 StGB). Diese Sätze haben einen wahren Kern, sind aber **gedankliche Abkürzungen**. Für Skills in diesem Repository gilt: solche Topoi dürfen genannt werden, aber **nie als tragende Begründung**.
+Ähnliches gilt für "im Zweifel für den Schuldner" (außerhalb gesetzlich geregelter Fälle), "AGB-Klauseln sind kundenfreundlich auszulegen" (pauschal), "Strafgesetze sind eng auszulegen" (jenseits Art. 103 Abs. 2 GG / § 1 StGB). Diese Sätze haben einen wahren Kern, sind aber **gedankliche Abkürzungen**. Für Skills in diesem Repository gilt: solche Topoi dürfen genannt werden, aber **nie als tragende Begründung**.
 
 ### Generalklauseln als Auffangtatbestand
 
 Vor jedem Argument aus § 138 BGB (gute Sitten), § 242 BGB (Treu und Glauben) oder § 826 BGB (sittenwidrige Schädigung) ist zu prüfen, ob speziellere Normen einschlägig sind. Wer eine Generalklausel als ersten Belegtyp anführt, muss erklären, warum die spezielle Norm nicht greift.
 
-Die Konkretisierung einer Generalklausel ist an Grundrechten, Verfassungsprinzipien und Unionsrecht zu messen — nicht an gefühlten „Wertvorstellungen der Gemeinschaft". § 242 BGB ist in der Praxis der wichtigste „Reparaturparagraph" des BGB und wird in Rechtsprechung ständig zur Korrektur unbilliger Einzelfallergebnisse herangezogen (Verwirkung, unzulässige Rechtsausübung, Anpassung der Geschäftsgrundlage als Vorläufer des § 313 BGB) — dieses Werkzeug ist methodisch heikel, aber **praktisch zentral**. Wer es nutzt, sollte die Wertentscheidung offen darlegen und an Grundrechten messen.
+Die Konkretisierung einer Generalklausel ist an Grundrechten, Verfassungsprinzipien und Unionsrecht zu messen — nicht an gefühlten "Wertvorstellungen der Gemeinschaft". § 242 BGB ist in der Praxis der wichtigste "Reparaturparagraph" des BGB und wird in Rechtsprechung ständig zur Korrektur unbilliger Einzelfallergebnisse herangezogen (Verwirkung, unzulässige Rechtsausübung, Anpassung der Geschäftsgrundlage als Vorläufer des § 313 BGB) — dieses Werkzeug ist methodisch heikel, aber **praktisch zentral**. Wer es nutzt, sollte die Wertentscheidung offen darlegen und an Grundrechten messen.
 
 ### Funktion der Methodenlehre: Rechtssicherheit und Vorhersehbarkeit
 
@@ -80,7 +80,7 @@ Begriffe des Unionsrechts werden grundsätzlich **autonom** ausgelegt — unabh�
 
 Konsequenzen:
 
-1. **Keine reflexhafte Übertragung nationaler Begriffe.** Auch wenn eine unionsrechtliche Norm in deutscher Sprache dieselben Wörter benutzt wie eine BGB-Norm, sind die Begriffe nicht automatisch deckungsgleich. „Schaden" in Art. 82 DSGVO ist nicht der Schadensbegriff der §§ 249 ff. BGB.
+1. **Keine reflexhafte Übertragung nationaler Begriffe.** Auch wenn eine unionsrechtliche Norm in deutscher Sprache dieselben Wörter benutzt wie eine BGB-Norm, sind die Begriffe nicht automatisch deckungsgleich. "Schaden" in Art. 82 DSGVO ist nicht der Schadensbegriff der §§ 249 ff. BGB.
 2. **EuGH als letztverbindliche Instanz.** Vorabentscheidungsverfahren nach Art. 267 AEUV; bei letztinstanzlichen Gerichten Vorlagepflicht, soweit nicht *acte clair* oder *acte éclairé* (CILFIT-Doktrin, EuGH 283/81).
 3. **Sprachfassungen-Vergleich.** Alle EU-Amtssprachen sind gleichermaßen verbindlich. Bei zweifelhaftem Wortlaut sind mehrere Fassungen vergleichend heranzuziehen.
 
@@ -202,7 +202,7 @@ Wer einen rein dogmatischen Methodenstandpunkt einnehmen und gegen herrschende R
 - Habe ich bei zweifelhaftem Wortlaut Sprachfassungen verglichen — oder zumindest erkannt, dass dies in Betracht kommt?
 - Bei letztinstanzlichen Verfahren: Wäre ein Vorabentscheidungsverfahren nach Art. 267 AEUV geboten?
 - Habe ich Verjährung, prozessuale Fristen und Beweislast geprüft?
-- Belege ich jede Aussage mit einer konkreten Fundstelle (Norm, Rechtsprechung, Kommentarstelle) — nicht mit „h. M."?
+- Belege ich jede Aussage mit einer konkreten Fundstelle (Norm, Rechtsprechung, Kommentarstelle) — nicht mit "h. M."?
 
 ## 15. Literaturhinweise
 

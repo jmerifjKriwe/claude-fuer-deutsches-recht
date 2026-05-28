@@ -39,7 +39,7 @@ Das Ampelsystem klassifiziert jeden notenrelevanten Satz in drei Kategorien:
 | **Orange** | Schwache positive Formulierung, Note 3, oft durch fehlende Steigerungsadverbien oder Einschränkungen | Note 3 |
 | **Rot** | Kodierte Negativaussage, entspricht Note 4 oder Note 5, oft scheinbar positiv formuliert | Note 4-5 |
 
-Rote Signale entstehen durch: das Wort „bemüht", Einschränkungen wie „im Wesentlichen", fehlende positionsnahe Erwartungsbausteine wie Integritäts- oder Führungsverhalten, falsche Reihenfolge bei Personengruppen in der Verhaltensbeurteilung oder eine auffällig kühle Schlussformel. Bei der Schlussformel ist strikt zu trennen: starke Signalwirkung im Bewerbungsverkehr, aber kein automatischer einklagbarer Anspruch auf Dank, Bedauern und Wünsche.
+Rote Signale entstehen durch: das Wort "bemüht", Einschränkungen wie "im Wesentlichen", fehlende positionsnahe Erwartungsbausteine wie Integritäts- oder Führungsverhalten, falsche Reihenfolge bei Personengruppen in der Verhaltensbeurteilung oder eine auffällig kühle Schlussformel. Bei der Schlussformel ist strikt zu trennen: starke Signalwirkung im Bewerbungsverkehr, aber kein automatischer einklagbarer Anspruch auf Dank, Bedauern und Wünsche.
 
 ## Enthaltene Skills
 
@@ -68,7 +68,7 @@ Die 32 Skills sind alphabetisch geordnet:
 | `/arbeitszeugnis-analyse:notenrelevante-saetze-identifizieren` | Trennung notenrelevanter Sätze von neutralen Aufgabenbeschreibungen |
 | `/arbeitszeugnis-analyse:orange-flaggen-katalog` | Schwache positive Formulierungen, Note 3, fehlende Steigerungen |
 | `/arbeitszeugnis-analyse:rechtliche-bewertung-bag-rechtsprechung` | § 109 GewO, BAG-Rechtsprechung, Beweislast, Zeugnisklage |
-| `/arbeitszeugnis-analyse:rote-flaggen-katalog` | Klassische Warnsignale: „bemüht", „im Großen und Ganzen", Note 4-5 |
+| `/arbeitszeugnis-analyse:rote-flaggen-katalog` | Klassische Warnsignale: "bemüht", "im Großen und Ganzen", Note 4-5 |
 | `/arbeitszeugnis-analyse:satzweise-notenmatrix` | Satz-für-Satz-Notenzuweisung von eins bis fünf mit Themenbereich — Datenbasis für Drift |
 | `/arbeitszeugnis-analyse:schlussformel-bewertung` | Bedauern, Dank, Zukunftswünsche — Signalwirkung, Ton und rechtliche Durchsetzbarkeit getrennt |
 | `/arbeitszeugnis-analyse:steigerungsadverbien-katalog` | Vollständige Referenzliste der Steigerer mit Notenwirkung — echte, scheinbare und negative Adverbien |
@@ -118,7 +118,7 @@ Für den vollständigen Mandatsablauf empfiehlt sich die Reihenfolge:
 - **§ 109 GewO** — Zeugnisanspruch: Anspruch auf einfaches oder qualifiziertes Zeugnis, Wahrheitspflicht, Wohlwollensgebot
 - **§ 16 BBiG** — Zeugnisanspruch für Auszubildende
 - **BAG, Urt. v. 12. August 2008 – 9 AZR 632/07** — Anspruch auf wohlwollendes Zeugnis, das das berufliche Fortkommen nicht unnötig erschwert
-- **BAG, Urt. v. 18. November 2014 – 9 AZR 584/13** — Beweislastverteilung: Arbeitnehmer muss Tatsachen für eine bessere als „befriedigende" Schlussbeurteilung vortragen und beweisen
+- **BAG, Urt. v. 18. November 2014 – 9 AZR 584/13** — Beweislastverteilung: Arbeitnehmer muss Tatsachen für eine bessere als "befriedigende" Schlussbeurteilung vortragen und beweisen
 - **BAG, Urt. v. 11. Dezember 2012 – 9 AZR 227/11** — Dank, Bedauern und Zukunftswünsche gehören nicht zum gesetzlichen Mindestinhalt des Arbeitszeugnisses; Schlussformeln bleiben gleichwohl ein wichtiges Praxissignal
 - **BAG, Urt. v. 15. November 2011 – 9 AZR 386/10** — Keine schematische Geheimcode-Unterstellung; maßgeblich sind objektiver Empfängerhorizont und Gesamtzusammenhang
 - **BAG, Urt. v. 14. Oktober 2003 – 9 AZR 12/03** — Zeugnisberichtigung: Kein Anspruch auf bestimmte Formulierung, aber Anspruch auf wahre und wohlwollende Formulierung

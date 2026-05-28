@@ -7,7 +7,7 @@ description: "Karteikarten für Jurastudium und Examensvorbereitung erstellen: A
 
 ## Zweck
 
-Definitionen, Tatbestandsmerkmale und Normstrukturen für das Staatsexamen müssen exakt und abrufbar sein — nicht „ungefähr bekannt". Diese Skill erzeugt Karteikarten aus eigenen Materialien (Skripten, Lernblättern, Definitionen-Sammlungen) oder aus eigenen Notizen, übt sie im Leitner-System und zeigt, welche Wissenslücken bestehen.
+Definitionen, Tatbestandsmerkmale und Normstrukturen für das Staatsexamen müssen exakt und abrufbar sein — nicht "ungefähr bekannt". Diese Skill erzeugt Karteikarten aus eigenen Materialien (Skripten, Lernblättern, Definitionen-Sammlungen) oder aus eigenen Notizen, übt sie im Leitner-System und zeigt, welche Wissenslücken bestehen.
 
 Nicht diese Skill: Anki selbst ersetzen. Wer Anki bereits nutzt, sollte es behalten. Diese Skill ist für den Direkteinstieg im Chat — ohne Programmwechsel.
 
@@ -15,7 +15,7 @@ Modi: `--erstellen` | `--üben` (Standard) | `--durchsehen` | `--statistik` | `-
 
 ## Eingaben
 
-- **Rechtsgebiet oder Thema** (z. B. „BGB AT Willenserklärung", „§ 242 StGB", „Allgemeines Verwaltungsrecht Ermessen")
+- **Rechtsgebiet oder Thema** (z. B. "BGB AT Willenserklärung", "§ 242 StGB", "Allgemeines Verwaltungsrecht Ermessen")
 - **Quelle** (Skript, Lernblatt, eigene Notizen — optional, aber für genaue Karten erforderlich)
 - **Kartenanzahl** (Standard: 10–20 pro Einheit)
 - **Prüfungsziel** (Erstes Staatsexamen, Zweites Staatsexamen, Klausur, Hausarbeit)
@@ -75,7 +75,7 @@ Die Karteikarten folgen der kanonischen Definitionsliteratur des deutschen Recht
 
 **Kartenregeln:**
 1. Ein Begriff, ein Tatbestandsmerkmal = eine Karte. Nie mehrere Definitionen auf einer Karte.
-2. Die Forderseite stellt eine Frage, kein Stichwort. Nicht „Vorsatz" — sondern „Was ist Vorsatz im Sinne des § 15 StGB?"
+2. Die Forderseite stellt eine Frage, kein Stichwort. Nicht "Vorsatz" — sondern "Was ist Vorsatz im Sinne des § 15 StGB?"
 3. Die Rückseite enthält die Definition in Examensqualität — so wie sie in der Klausur gefordert wird.
 4. Paragraphenangabe immer mit §-Zeichen: `§ 242 StGB`, `§ 812 Abs. 1 S. 1 Alt. 1 BGB`.
 5. Karten aus eigenen Quellen sind zuverlässig. Karten aus meinem Wissen ohne Quelle erhalten `[PRÜFEN: Definition bestätigen]`.
@@ -99,7 +99,7 @@ Quelle: Wessels/Hettinger/Engländer, Strafrecht BT 1, 46. Aufl. 2023, Rn. 401
 
 **Drill-Ablauf je Karte:**
 1. Frage zeigen. Auf Antwort warten.
-2. Nutzer antwortet (oder: „weiß nicht" / „überspringen")
+2. Nutzer antwortet (oder: "weiß nicht" / "überspringen")
 3. Antwort und Norm zeigen
 4. Selbsteinschätzung: `gewusst` / `teilweise` / `nicht gewusst` / `weiß nicht`
 5. Bucket und Wiederholungstermin aktualisieren:
@@ -138,13 +138,13 @@ sitzungs_verlauf:
 > Norm: §§ 116 ff. BGB; Ellenberger, in: Grüneberg, BGB, 84. Aufl. 2025, Vor § 116 Rn. 1.
 
 > F: Was ist der Unterschied zwischen Anfechtung nach § 119 und § 123 BGB?
-> A: § 119 BGB: Irrtum über Inhalt oder Erklärungsinhalt (ohne Verschulden des Anfechtungsgegners); § 123 BGB: arglistige Täuschung oder widerrechtliche Drohung (Verschulden des Täuschenden erforderlich). Ausschlussfrist: § 119 „unverzüglich", § 123 Abs. 1 i.V.m. § 124 BGB ein Jahr.
+> A: § 119 BGB: Irrtum über Inhalt oder Erklärungsinhalt (ohne Verschulden des Anfechtungsgegners); § 123 BGB: arglistige Täuschung oder widerrechtliche Drohung (Verschulden des Täuschenden erforderlich). Ausschlussfrist: § 119 "unverzüglich", § 123 Abs. 1 i.V.m. § 124 BGB ein Jahr.
 > Norm: §§ 119, 123, 124 BGB.
 
 ## Risiken und typische Fehler
 
 - **Ungenaue Definitionen lernen**: Eine Karte mit einer im Wesentlichen richtigen, aber examensuntauglichen Definition ist schlimmer als keine Karte. Definitionen aus Skripten sind oft schärfer als solche aus meinem Wissen — Skripte bevorzugen.
-- **Zu viel auf eine Karte**: Tatbestandsmerkmale sind einzeln zu üben, nicht als Block. Wer „Betrug § 263 StGB: alle Merkmale" auf eine Karte schreibt, hat sechs Karten in eine gepresst.
+- **Zu viel auf eine Karte**: Tatbestandsmerkmale sind einzeln zu üben, nicht als Block. Wer "Betrug § 263 StGB: alle Merkmale" auf eine Karte schreibt, hat sechs Karten in eine gepresst.
 - **Karte als Lernersatz**: Karteikarten sind Abruftraining für bereits Verstandenes. Eine Karte, die regelmäßig falsch beantwortet wird, zeigt ein Verständnisproblem — dann ist mündliches Durcharbeiten mit `pruefungsgespraech-ag` angezeigt.
 - **Wiederholungstermine ignorieren**: Das Leitner-System funktioniert nur, wenn die Abstände eingehalten werden. Ausgefallene Tage akkumulieren Rückstand.
 - **Keine Normangabe**: Jede Karte muss die einschlägige Norm nennen. Definitionen ohne Norm sind im Examen wertlos.

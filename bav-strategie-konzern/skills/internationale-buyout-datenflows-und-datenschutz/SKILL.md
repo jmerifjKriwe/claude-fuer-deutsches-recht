@@ -112,10 +112,10 @@ AUFTRAGSVERARBEITUNGSVERTRAG (AV-VERTRAG)
 gem. Art. 28 DSGVO
 
 zwischen
-[Konzern Muster AG] (nachfolgend „Verantwortlicher")
+[Konzern Muster AG] (nachfolgend "Verantwortlicher")
 
 und
-[Versicherungsgesellschaft / Buyout-Partner] (nachfolgend „Auftragsverarbeiter")
+[Versicherungsgesellschaft / Buyout-Partner] (nachfolgend "Auftragsverarbeiter")
 
 § 1 Gegenstand und Zweck
 Der Auftragsverarbeiter verarbeitet personenbezogene Daten der Versorgungs-

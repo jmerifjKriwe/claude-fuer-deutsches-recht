@@ -31,7 +31,7 @@ vollständig auf elektronischem Wege erfolgte:
 
 ### 1. Gesetzliche Grundlage
 
-§ 14 Abs. 4 TzBfG bestimmt: *„Die Befristung des Arbeitsvertrages bedarf zu ihrer
+§ 14 Abs. 4 TzBfG bestimmt: *"Die Befristung des Arbeitsvertrages bedarf zu ihrer
 Wirksamkeit der Schriftform."*
 
 Die Schriftform richtet sich nach § 126 BGB. § 126 Abs. 1 BGB verlangt, dass die Urkunde

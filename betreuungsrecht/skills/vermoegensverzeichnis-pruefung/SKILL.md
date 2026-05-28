@@ -114,7 +114,7 @@ BGB auslösen; Zinsausfallschäden sind ersatzfähig.
    Beträge, die nicht binnen 12 Monaten für laufende Ausgaben benötigt
    werden, sind verzinslich anzulegen. Tagesgeld bei
    einlagengesichertem Institut genügt. Bei Sperrvermerk-Anordnung:
-   Konto in „Mündelkonto mit Sperrvermerk" umwandeln.
+   Konto in "Mündelkonto mit Sperrvermerk" umwandeln.
 
 4. **Sperrvermerk einrichten**
    Antrag beim Betreuungsgericht; nach Genehmigung Sperrvermerk-Vereinbarung

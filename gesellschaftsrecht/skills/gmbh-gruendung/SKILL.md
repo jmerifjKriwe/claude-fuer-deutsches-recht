@@ -35,7 +35,7 @@ Haftungsbeschränkung, Mindestkapital, Gründungsformalien, Dauer und Kosten.
 1. **Gesellschafterkreis** – Namen, Adressen, Nationalität, Geschäftsfähigkeit;
    bei Minderjährigen: familiengerichtliche Genehmigung.
 2. **Firma** – Unterscheidungskraft (§ 18 HGB), Irreführungsverbot (§ 18 Abs. 2
-   HGB), Namenszusatz „GmbH" (§ 4 GmbHG) oder „UG (haftungsbeschränkt)" (§ 5a
+   HGB), Namenszusatz "GmbH" (§ 4 GmbHG) oder "UG (haftungsbeschränkt)" (§ 5a
    Abs. 1 GmbHG).
 3. **Stammkapital** – Mindestens 25.000 € bei GmbH (§ 5 Abs. 1 GmbHG); bei UG
    mindestens 1 € (§ 5a Abs. 1 GmbHG).
@@ -69,7 +69,7 @@ Haftungsbeschränkung, Mindestkapital, Gründungsformalien, Dauer und Kosten.
 ### Leitentscheidungen
 
 1. BGH, Urt. v. 27.09.1999 – II ZR 371/98, BGHZ 142, 315 Rn. 14 –
-   „ARGE Weißes Ross": Grundsätze zur Haftung in der Vorgesellschaft;
+   "ARGE Weißes Ross": Grundsätze zur Haftung in der Vorgesellschaft;
    Handeln im Namen der noch nicht eingetragenen GmbH begründet persönliche
    Haftung der Handelnden nach § 11 Abs. 2 GmbHG, es sei denn, die Gesellschaft
    wird eingetragen und die Verbindlichkeit übernommen.

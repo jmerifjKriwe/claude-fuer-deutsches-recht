@@ -112,7 +112,7 @@ Bevor Du Deine Hausarbeit abgibst — eine letzte, sorgfältige Selbst-Kontrolle
 ### Schritt 2.5 — Sprache
 
 - Konsistente Personen-Bezeichnung?
-- Klare Subsumtions-Sprache („Hier hat...")?
+- Klare Subsumtions-Sprache ("Hier hat...")?
 - Keine Tipp- und Rechtschreib-Fehler?
 - Trennungen vermieden bei wichtigen Begriffen?
 
@@ -211,25 +211,25 @@ Beantworte Dir **mündlich** (oder schriftlich für Dich) folgende Fragen, **ohn
 
 ## Bei Erkenntnis nach Endcheck
 
-### „Mir fehlt eine wesentliche Anspruchs-Grundlage"
+### "Mir fehlt eine wesentliche Anspruchs-Grundlage"
 
 - Berechne, wie viel Zeit noch bleibt
 - Bei hinreichend Zeit: nachträglich einarbeiten
 - Bei knapper Zeit: ggf. als Hilfsweise-Erwähnung in Schluss
 
-### „Ich habe einen Streit nicht erkannt"
+### "Ich habe einen Streit nicht erkannt"
 
 - Recherche kurz
 - Bei wichtigem Streit: kurze Ergänzung
 - Bei nebensächlichem Streit: ggf. weglassen
 
-### „Mein Stil ist inkonsistent"
+### "Mein Stil ist inkonsistent"
 
 - Suche nach Stellen mit Indikativ statt Konjunktiv (im Obersatz)
-- Suche nach „natürlich" / „selbstverständlich" / „offensichtlich"
+- Suche nach "natürlich" / "selbstverständlich" / "offensichtlich"
 - Überarbeite
 
-### „Zitate fehlen"
+### "Zitate fehlen"
 
 - Markiere alle Stellen ohne Beleg
 - Recherchiere die Quellen nach
@@ -245,7 +245,7 @@ Bevor Du die Hausarbeit abgibst, halte einen Moment inne:
 - Habe ich mein Bestes gegeben?
 - Habe ich gelernt?
 
-Wenn Du diese Fragen mit „ja" beantworten kannst — gib die Hausarbeit ab.
+Wenn Du diese Fragen mit "ja" beantworten kannst — gib die Hausarbeit ab.
 
 Wenn nicht — überarbeite noch eine Stunde.
 

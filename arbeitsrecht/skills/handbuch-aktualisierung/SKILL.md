@@ -1,6 +1,6 @@
 ---
 name: handbuch-aktualisierung
-description: "Prüft eine geplante Änderung des Personalhandbuchs auf Folgewirkungen — andere betroffene Regelungen, standortspezifische Besonderheiten nach Tarifvertrag oder Betriebsvereinbarung, Mitbestimmungsrechte des Betriebsrats und die Frage, ob ein bestehendes Leistungsversprechen beschnitten wird. Lädt, wenn jemand sagt „Handbuch aktualisieren\", „neue Regelung einpflegen\" oder „Richtlinie ändern\"."
+description: "Prüft eine geplante Änderung des Personalhandbuchs auf Folgewirkungen — andere betroffene Regelungen, standortspezifische Besonderheiten nach Tarifvertrag oder Betriebsvereinbarung, Mitbestimmungsrechte des Betriebsrats und die Frage, ob ein bestehendes Leistungsversprechen beschnitten wird. Lädt, wenn jemand sagt "Handbuch aktualisieren\", "neue Regelung einpflegen\" oder "Richtlinie ändern\"."
 ---
 
 # Personalhandbuch-Aktualisierung (Arbeitsrecht)
@@ -90,7 +90,7 @@ Zeige den Vergleich:
 Durchsuche das Personalhandbuch nach Bezügen auf den geänderten Abschnitt:
 
 - Andere Regelungen, die auf diesen Abschnitt verweisen
-  („zur Urlaubsabgeltung siehe Abschnitt …")
+  ("zur Urlaubsabgeltung siehe Abschnitt …")
 - Definierte Begriffe, die dieser Abschnitt verwendet oder definiert
 - Standort- oder tarifvertragliche Sonderregelungen, die diesen Abschnitt
   modifizieren
@@ -130,7 +130,7 @@ erfordern. Nicht blockieren — kennzeichnen.
 
 **Schritt 7 — Nachweispflicht**
 
-Prüfe, ob die geänderte Regelung eine „wesentliche Arbeitsbedingung" i. S. d.
+Prüfe, ob die geänderte Regelung eine "wesentliche Arbeitsbedingung" i. S. d.
 § 2 Abs. 1 NachwG darstellt. Falls ja: Informationspflicht gegenüber den
 betroffenen Arbeitnehmern spätestens am Tag nach Wirksamwerden.
 
@@ -149,7 +149,7 @@ betroffenen Arbeitnehmern spätestens am Tag nach Wirksamwerden.
 
 ### Mitbestimmung
 [Falls § 87 BetrVG betroffen: Tatbestand und erforderliches Vorgehen]
-[Falls nicht betroffen: „Kein erzwingbares Mitbestimmungsrecht betroffen"]
+[Falls nicht betroffen: "Kein erzwingbares Mitbestimmungsrecht betroffen"]
 
 ### Standortspezifische Auswirkungen
 | Standort | Bestehende Betriebsvereinbarung | Nach Änderung | Maßnahme |

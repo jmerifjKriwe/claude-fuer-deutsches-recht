@@ -28,7 +28,7 @@ Die persönliche Haftung des Geschäftsführers ist kein theoretisches Konstrukt
 
 ### 1. Sorgfaltsmaßstab — Der ordentliche und gewissenhafte Geschäftsleiter
 
-§ 43 Abs. 1 GmbHG verpflichtet jeden Geschäftsführer, die „Sorgfalt eines ordentlichen Geschäftsmannes" anzuwenden. § 93 Abs. 1 AktG formuliert für den Vorstand den Standard des „ordentlichen und gewissenhaften Geschäftsleiters". Beide Standards sind in der Krise verschärft: Je größer die Gefährdungslage, desto enger der Handlungsspielraum und desto strenger die Anforderungen an Dokumentation und Begründung.
+§ 43 Abs. 1 GmbHG verpflichtet jeden Geschäftsführer, die "Sorgfalt eines ordentlichen Geschäftsmannes" anzuwenden. § 93 Abs. 1 AktG formuliert für den Vorstand den Standard des "ordentlichen und gewissenhaften Geschäftsleiters". Beide Standards sind in der Krise verschärft: Je größer die Gefährdungslage, desto enger der Handlungsspielraum und desto strenger die Anforderungen an Dokumentation und Begründung.
 
 ### 2. Business Judgment Rule in der Krise
 

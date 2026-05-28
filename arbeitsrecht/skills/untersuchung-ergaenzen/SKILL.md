@@ -104,7 +104,7 @@ Relevante Funde:
 **Schritt 5 — Quellencheckliste aktualisieren**
 
 Wenn die hinzugefügten Daten einen Checklistenpunkt abdecken: Anwalt fragen,
-ob der Punkt als „erledigt" oder „in Bearbeitung" markiert werden soll.
+ob der Punkt als "erledigt" oder "in Bearbeitung" markiert werden soll.
 Nicht automatisch als erledigt markieren — der Anwalt entscheidet, wann eine
 Quelle ausreichend abgedeckt ist.
 

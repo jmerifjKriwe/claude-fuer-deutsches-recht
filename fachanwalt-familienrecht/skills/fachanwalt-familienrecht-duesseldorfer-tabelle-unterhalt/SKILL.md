@@ -357,11 +357,11 @@ der Verhältnisse dar.
 
 | Gegenargument | Reaktion |
 |--------------|---------|
-| „Einkommen niedriger als behauptet" | Auskunftsklage § 1605 BGB; Lohnsteuerbescheinigung; Steuerbescheid |
-| „Kein fiktives Einkommen" | BGH XII ZR 42/17: Erwerbsobliegenheit ab Kindesalter 3 Jahre; Vollzeitstelle zumutbar |
-| „Schuldentilgung macht Unterhalt unmöglich" | BGH XII ZB 607/16: Nur lebensnotwendige Schulden abzugsfähig |
-| „Düsseldorfer Tabelle veraltet" | Tabelle jährlich angepasst; bei Mandatsbeginn aktuelle Version prüfen |
-| „Wechselmodell — kein Unterhalt nötig" | BGH XII ZB 234/19: Beim Wechselmodell Ausgleich trotzdem notwendig wenn Einkommensunterschied vorhanden |
+| "Einkommen niedriger als behauptet" | Auskunftsklage § 1605 BGB; Lohnsteuerbescheinigung; Steuerbescheid |
+| "Kein fiktives Einkommen" | BGH XII ZR 42/17: Erwerbsobliegenheit ab Kindesalter 3 Jahre; Vollzeitstelle zumutbar |
+| "Schuldentilgung macht Unterhalt unmöglich" | BGH XII ZB 607/16: Nur lebensnotwendige Schulden abzugsfähig |
+| "Düsseldorfer Tabelle veraltet" | Tabelle jährlich angepasst; bei Mandatsbeginn aktuelle Version prüfen |
+| "Wechselmodell — kein Unterhalt nötig" | BGH XII ZB 234/19: Beim Wechselmodell Ausgleich trotzdem notwendig wenn Einkommensunterschied vorhanden |
 
 ## Streitwert und Kosten
 

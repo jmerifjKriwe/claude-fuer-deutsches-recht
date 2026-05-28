@@ -271,12 +271,12 @@ Bauzeitverlängerung: [Anzahl] Werktage ab [Datum]
 
 | Gegenargument Bauherr/Behörde | Reaktion |
 |-------------------------------|---------|
-| „Unternehmer hat Baugrundrisiko übernommen" | BGH VII ZR 205/07 (BGHZ 182, 158): Mehrkosten wegen abweichender Bodenbeschaffenheit können nicht allgemein auf Baugrundrisiko-Erwägung gestützt werden; Anspruch setzt Bautenwurf-Änderung durch AG voraus (§ 2 Nr. 5 VOB/B) |
-| „Behinderungsanzeige zu spät" | Offenkundigkeit der Behinderung entbindet von Anzeigepflicht (§ 6 Abs. 1 Satz 2 VOB/B); zudem Anzeige binnen 48 h beweisbar |
-| „Mehrkosten überhöht" | Detaillierte Kalkulation nach VOB/B § 2 Abs. 5; § 287 ZPO-Schätzung durch Gericht zulässig wenn Grundlage vorhanden |
-| „Eigentümer nicht sanierungspflichtig wegen Verhältnismäßigkeit" | BVerwG 7 C 4/00: Eigentümer sanierungspflichtig bis zur Grenze der Unverhältnismäßigkeit (Bodenwert vs. Sanierungskosten); Ausnahme nur bei grobem Missverhältnis |
-| „Unternehmer ist Verursacher" | Trennung: vorbestehende Altlast vs. durch Unternehmer neu verursachte Kontamination; Sachverständigenbeweis |
-| „c.i.c. ausgeschlossen wegen AGB-Haftungsausschluss" | § 309 Nr. 7 BGB — grob fahrlässige Pflichtverletzung nicht ausschließbar |
+| "Unternehmer hat Baugrundrisiko übernommen" | BGH VII ZR 205/07 (BGHZ 182, 158): Mehrkosten wegen abweichender Bodenbeschaffenheit können nicht allgemein auf Baugrundrisiko-Erwägung gestützt werden; Anspruch setzt Bautenwurf-Änderung durch AG voraus (§ 2 Nr. 5 VOB/B) |
+| "Behinderungsanzeige zu spät" | Offenkundigkeit der Behinderung entbindet von Anzeigepflicht (§ 6 Abs. 1 Satz 2 VOB/B); zudem Anzeige binnen 48 h beweisbar |
+| "Mehrkosten überhöht" | Detaillierte Kalkulation nach VOB/B § 2 Abs. 5; § 287 ZPO-Schätzung durch Gericht zulässig wenn Grundlage vorhanden |
+| "Eigentümer nicht sanierungspflichtig wegen Verhältnismäßigkeit" | BVerwG 7 C 4/00: Eigentümer sanierungspflichtig bis zur Grenze der Unverhältnismäßigkeit (Bodenwert vs. Sanierungskosten); Ausnahme nur bei grobem Missverhältnis |
+| "Unternehmer ist Verursacher" | Trennung: vorbestehende Altlast vs. durch Unternehmer neu verursachte Kontamination; Sachverständigenbeweis |
+| "c.i.c. ausgeschlossen wegen AGB-Haftungsausschluss" | § 309 Nr. 7 BGB — grob fahrlässige Pflichtverletzung nicht ausschließbar |
 
 ## Streitwert und Kosten
 

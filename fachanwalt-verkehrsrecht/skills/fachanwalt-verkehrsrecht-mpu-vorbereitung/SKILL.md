@@ -7,7 +7,7 @@ description: "Mandant muss MPU ablegen und fragt wie er sich vorbereiten soll. M
 
 ## Zweck
 
-Beratung zur Medizinisch-Psychologischen Untersuchung (MPU) — „Idiotentest" — vor Wiedererteilung Fahrerlaubnis.
+Beratung zur Medizinisch-Psychologischen Untersuchung (MPU) — "Idiotentest" — vor Wiedererteilung Fahrerlaubnis.
 
 ## 1) Anlaesse für MPU-Anordnung
 

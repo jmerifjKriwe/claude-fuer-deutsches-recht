@@ -80,9 +80,9 @@ Ergänzend kann ein zweiter Satz den prozessualen Stand knapp abbilden:
 ## Regeln
 
 - Maximal zwei Sätze
-- Keine Wertung (nicht: „zu Unrecht"; „unbegründet")
+- Keine Wertung (nicht: "zu Unrecht"; "unbegründet")
 - Keine Erfolgsprognose
-- Parteinamen vollständig benennen (kein „Kl." oder „Bekl." im Einleitungssatz)
+- Parteinamen vollständig benennen (kein "Kl." oder "Bekl." im Einleitungssatz)
 - Normen mit vollständiger Bezeichnung (nicht nur Paragraphennummer)
 
 ## Qualitätscheck

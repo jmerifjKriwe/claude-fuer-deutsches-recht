@@ -305,8 +305,8 @@ BESCHLUSS: Kapitalerhöhung und Umfirmierung
 (1) Das Stammkapital der Gesellschaft wird von [X] EUR auf 25.000 EUR durch Einzahlung
 aus Rücklagen und Barmitteln erhöht.
 
-(2) Die Firma der Gesellschaft wird von „[Name] UG (haftungsbeschränkt)" in
-„[Name] GmbH" geändert.
+(2) Die Firma der Gesellschaft wird von "[Name] UG (haftungsbeschränkt)" in
+"[Name] GmbH" geändert.
 
 (3) § 5 der Satzung wird entsprechend angepasst.
 
@@ -327,7 +327,7 @@ Gesellschaft: [Firma] GmbH in Gründung
 Die Gründer erstatten gemäß § 5 Abs. 4 GmbHG den folgenden Sachgründungsbericht:
 
 1. Die Gesellschafterin [Name] bringt folgende Sacheinlage ein:
-   [Beschreibung der Sacheinlage, z.B. „Warenzeichen DE [Nr.] laut DPMA-Eintragung
+   [Beschreibung der Sacheinlage, z.B. "Warenzeichen DE [Nr.] laut DPMA-Eintragung
    (Anlage 1)"]
 
 2. Der Wert der Sacheinlage beläuft sich auf mindestens [X] EUR, wie aus dem

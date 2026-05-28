@@ -12,7 +12,7 @@ Im Öffentlichen Recht ist das Drei-Stufen-Schema (Statthaftigkeit – Zulässig
 ## Schritt 1 — Drei-Stufen-Schema
 
 ```
-A. Zulässigkeit (oder „Zulässigkeit der Klage")
+A. Zulässigkeit (oder "Zulässigkeit der Klage")
    I. Verwaltungsrechtsweg § 40 VwGO
    II. Statthafte Klageart
    III. Klagebefugnis
@@ -83,7 +83,7 @@ B. Begründetheit
 
 Möglichkeit, dass der Kläger in eigenen Rechten verletzt ist.
 
-### „Möglichkeits-Theorie"
+### "Möglichkeits-Theorie"
 
 - Kläger muss substantiiert behaupten, in eigenen Rechten verletzt zu sein
 - Bei Bestätigung Möglichkeit ist Klagebefugnis gegeben

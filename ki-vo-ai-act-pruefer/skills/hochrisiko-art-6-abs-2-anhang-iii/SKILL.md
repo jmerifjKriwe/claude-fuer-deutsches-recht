@@ -165,7 +165,7 @@ Prüffragen:
 
 ### Fallgruppe A — Hochrisiko ausdrücklich intendiert
 
-Beispiel: Anbieter bewirbt “KI für Bewerberranking” oder “KI für richterliche Entscheidungsunterstützung”.
+Beispiel: Anbieter bewirbt "KI für Bewerberranking" oder "KI für richterliche Entscheidungsunterstützung".
 
 Ergebnis: Anhang-III-Prüfung regelmäßig positiv; Art. 6 Abs. 3 nur gesondert und eng prüfen.
 

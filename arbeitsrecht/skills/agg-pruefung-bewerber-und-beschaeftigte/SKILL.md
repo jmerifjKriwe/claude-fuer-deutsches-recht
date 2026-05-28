@@ -126,7 +126,7 @@ Arbeitgeber muss beweisen (Vollbeweis), dass kein Verstoß gegen das Benachteili
 - Schriftliche Geltendmachung beim Arbeitgeber genügt (kein Klageerhebungserfordernis, aber Vorsicht: AGB-Ausschlussfristen können kürzer sein)
 - Fristbeginn: Zugang der Absage bzw. Bekanntwerden der benachteiligenden Maßnahme
 - Fristversäumung: Anspruchsverlust (Ausschlussfrist, keine Verjährung)
-- Wichtig: „zwei Monate" bedeutet zwei Monate — nicht „2,0 Monate" und nicht „60 Tage" pauschal (§ 188 BGB Abs. 2 BGB: Fristende an dem Tag des zweiten Monats, der durch Zahl dem Fristbeginn entspricht)
+- Wichtig: "zwei Monate" bedeutet zwei Monate — nicht "2,0 Monate" und nicht "60 Tage" pauschal (§ 188 BGB Abs. 2 BGB: Fristende an dem Tag des zweiten Monats, der durch Zahl dem Fristbeginn entspricht)
 
 ### 6. Präventive Arbeitgeberpflichten (§ 12 AGG)
 

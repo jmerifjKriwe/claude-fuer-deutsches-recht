@@ -7,7 +7,7 @@ description: "Inkasso- und Rechtsdienstleistungserlaubnis nach RDG prüfen wenn 
 
 ## Zweck
 
-Dieser Skill begleitet die rechtskonforme Durchführung von Inkassodienstleistungen durch registrierte Inkassounternehmen (§ 10 Abs. 1 Nr. 1 RDG) und Rechtsanwälte (§ 43d BRAO). Er deckt Registrierungsvoraussetzungen, erlaubten Tätigkeitsumfang, Hinweispflichten gegenüber Schuldnern, Vergütungsfragen (§ 4 RDGEG) und die datenschutzkonforme Verarbeitung von Schuldnerdaten (Art. 6 Abs. 1 lit. f DSGVO) ab. Relevanz insb. für Legal-Tech-Geschäftsmodelle nach dem „LexFox"-Urteil des BGH. Anwendungsfälle: Mietpreisbremse-Durchsetzung durch Inkassounternehmen, Consumer-Inkasso-Modelle, Forderungsinkasso im B2C-Bereich, anwaltliches Inkasso.
+Dieser Skill begleitet die rechtskonforme Durchführung von Inkassodienstleistungen durch registrierte Inkassounternehmen (§ 10 Abs. 1 Nr. 1 RDG) und Rechtsanwälte (§ 43d BRAO). Er deckt Registrierungsvoraussetzungen, erlaubten Tätigkeitsumfang, Hinweispflichten gegenüber Schuldnern, Vergütungsfragen (§ 4 RDGEG) und die datenschutzkonforme Verarbeitung von Schuldnerdaten (Art. 6 Abs. 1 lit. f DSGVO) ab. Relevanz insb. für Legal-Tech-Geschäftsmodelle nach dem "LexFox"-Urteil des BGH. Anwendungsfälle: Mietpreisbremse-Durchsetzung durch Inkassounternehmen, Consumer-Inkasso-Modelle, Forderungsinkasso im B2C-Bereich, anwaltliches Inkasso.
 
 ## Eingaben
 
@@ -36,7 +36,7 @@ Das Modell benötigt:
 
 ### Leitentscheidungen
 
-1. BGH, Urt. v. 27.11.2019 – VIII ZR 285/18, NJW 2020, 208 Rn. 30–75 – „LexFox": Registriertes Inkassounternehmen darf Mieter bei Durchsetzung von Ansprüchen aus der Mietpreisbremse vertreten (§ 556d BGB). Entgeltliches Consumer-Legal-Tech-Inkasso-Modell (Erfolgsprovision) verstößt nicht per se gegen RDG oder UWG. Maßgeblich: Tätigkeit muss auf die wirtschaftliche Durchsetzung einer Forderung gerichtet sein, nicht auf umfassende Rechtsberatung.
+1. BGH, Urt. v. 27.11.2019 – VIII ZR 285/18, NJW 2020, 208 Rn. 30–75 – "LexFox": Registriertes Inkassounternehmen darf Mieter bei Durchsetzung von Ansprüchen aus der Mietpreisbremse vertreten (§ 556d BGB). Entgeltliches Consumer-Legal-Tech-Inkasso-Modell (Erfolgsprovision) verstößt nicht per se gegen RDG oder UWG. Maßgeblich: Tätigkeit muss auf die wirtschaftliche Durchsetzung einer Forderung gerichtet sein, nicht auf umfassende Rechtsberatung.
 
 2. BGH, Urt. v. 13.06.2022 – VIa ZR 418/21, NJW 2022, 2701 Rn. 18–40: Zur Reichweite des Inkassobegriffs und den Grenzen der erlaubten Inkassotätigkeit; registrierte Inkassounternehmen dürfen keine umfassende Rechtsberatung betreiben, die über die Forderungseinziehung hinausgeht; Abgrenzung zur unerlaubten Rechtsdienstleistung (§ 3 RDG); Zulässigkeit von Abtretungsmodellen bestätigt.
 

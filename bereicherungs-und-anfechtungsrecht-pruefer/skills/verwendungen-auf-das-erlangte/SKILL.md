@@ -48,7 +48,7 @@ Verwendungen mindern den Herausgabeanspruch nicht automatisch. Sie können Gegen
 
 ## Typische Fehler
 
-- „Geld ist weg“ als Ergebnis genügen lassen.
+- "Geld ist weg" als Ergebnis genügen lassen.
 - Surrogate und Ersparnisse übersehen.
 - Zinsen, Nutzungen und Wertersatz doppelt zählen.
 

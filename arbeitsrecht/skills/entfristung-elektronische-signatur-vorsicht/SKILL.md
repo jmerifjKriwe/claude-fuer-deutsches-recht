@@ -35,9 +35,9 @@ In der Praxis werden Arbeitsverträge immer häufiger digital unterzeichnet. Die
 **Typische Merkmale eines digital unterzeichneten Vertrags:**
 
 1. **Plattform-Hinweise im Dokument:**
-   - „This document was signed via DocuSign"
-   - „Powered by Adobe Acrobat Sign"
-   - „Signiert mit HelloSign / Dropbox Sign"
+   - "This document was signed via DocuSign"
+   - "Powered by Adobe Acrobat Sign"
+   - "Signiert mit HelloSign / Dropbox Sign"
    - Signatur-ID oder Zertifikat am Ende des Dokuments
 
 2. **Unterschrift-Optik:**
@@ -46,9 +46,9 @@ In der Praxis werden Arbeitsverträge immer häufiger digital unterzeichnet. Die
    - Farbige Signatur-Felder (DocuSign-typisch: blaue Kästchen)
 
 3. **Empfang:**
-   - Vertrag per E-Mail erhalten und „online unterschrieben"
+   - Vertrag per E-Mail erhalten und "online unterschrieben"
    - Per Link in Browser-Portal unterzeichnet
-   - E-Mail mit „Dokument ist unterschrieben"-Zertifikat erhalten
+   - E-Mail mit "Dokument ist unterschrieben"-Zertifikat erhalten
 
 4. **Kein physisches Original:**
    - Nie eine Originalurkunde mit echter Tinte erhalten

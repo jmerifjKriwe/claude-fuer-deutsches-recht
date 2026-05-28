@@ -52,7 +52,7 @@ Die CMR ist das international zwingende Einheitsrecht für den grenzüberschreit
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
 | BGH I ZR 100/19 | BGH, 30.01.2020 | Art. 29 CMR: Mangelnde Schnittstellenkontrolle im Umschlaglager genügt für qualifiziertes Verschulden; Frachtführer kann sich nicht exkulpieren wenn keine Systemdokumentation existiert |
-| BGH I ZR 88/04 | BGH, 13.10.2005 | Art. 29 CMR: fehlendes Kontrollsystem beim Güterumschlag = Leichtfertigkeit; BGH-Definition des „gleichstehenden Verschuldens" |
+| BGH I ZR 88/04 | BGH, 13.10.2005 | Art. 29 CMR: fehlendes Kontrollsystem beim Güterumschlag = Leichtfertigkeit; BGH-Definition des "gleichstehenden Verschuldens" |
 | BGH I ZR 76/13 | BGH, 22.05.2014 | Art. 30 CMR: Reklamation durch Frachtbrief-Vorbehalt ist ausreichend; keine separate schriftliche Reklamation notwendig bei erkennbarem Schaden |
 | BGH I ZR 239/14 | BGH, 04.02.2016 | Art. 17 Abs. 4 CMR: Privilegierung setzt voraus, dass Frachtführer tatsächlich Schutzmaßnahmen zur Minimierung des typischen Risikos ergriffen hat |
 | BGH I ZR 153/19 | BGH, 12.11.2020 | Art. 31 CMR: Gerichtsstandswahl ist nach Klageerhebung bindend; rügeloser Rügeverzicht möglich |
@@ -251,11 +251,11 @@ Hilfsweise Klage auch gegen [C].
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „CMR ist nicht anwendbar; rein innerdeutscher Vertrag" | CMR gilt kraft Gesetzes wenn Abgangs- und Zielort in verschiedenen CMR-Staaten; vertragliche Ausschlussklausel ist nach Art. 41 CMR unwirksam |
-| „Höchstbetrag Art. 23 CMR schützt uns vollständig" | Nicht bei qualifiziertem Verschulden Art. 29 CMR; BGH-Linie seit BGH I ZR 88/04 bejaht Leichtfertigkeit bei systemischen Organisationsmängeln |
-| „Reklamationsfrist versäumt; Anspruch erloschen" | CMR Art. 30 enthält keine materiell-rechtliche Ausschlussfrist; fehlende Reklamation begründet nur Beweisvermutung zugunsten Frachtführer, kein Anspruchsuntergang |
-| „Unterfrachtführer haftet, nicht wir" | CMR Art. 3: Frachtführer haftet für alle eingesetzten Personen wie für eigenes Handeln; kein Durchgriff auf Unterfrachtführer durch Auftraggeber erforderlich |
-| „Schaden entstand durch Ware selbst (Eigenmangel)" | Art. 17 Abs. 4 lit. d CMR: Frachtführer muss beweisen, dass typische Schadensgefahr des Gutes ursächlich war; bei gemischter Kausalität anteilige Haftung |
+| "CMR ist nicht anwendbar; rein innerdeutscher Vertrag" | CMR gilt kraft Gesetzes wenn Abgangs- und Zielort in verschiedenen CMR-Staaten; vertragliche Ausschlussklausel ist nach Art. 41 CMR unwirksam |
+| "Höchstbetrag Art. 23 CMR schützt uns vollständig" | Nicht bei qualifiziertem Verschulden Art. 29 CMR; BGH-Linie seit BGH I ZR 88/04 bejaht Leichtfertigkeit bei systemischen Organisationsmängeln |
+| "Reklamationsfrist versäumt; Anspruch erloschen" | CMR Art. 30 enthält keine materiell-rechtliche Ausschlussfrist; fehlende Reklamation begründet nur Beweisvermutung zugunsten Frachtführer, kein Anspruchsuntergang |
+| "Unterfrachtführer haftet, nicht wir" | CMR Art. 3: Frachtführer haftet für alle eingesetzten Personen wie für eigenes Handeln; kein Durchgriff auf Unterfrachtführer durch Auftraggeber erforderlich |
+| "Schaden entstand durch Ware selbst (Eigenmangel)" | Art. 17 Abs. 4 lit. d CMR: Frachtführer muss beweisen, dass typische Schadensgefahr des Gutes ursächlich war; bei gemischter Kausalität anteilige Haftung |
 
 ---
 

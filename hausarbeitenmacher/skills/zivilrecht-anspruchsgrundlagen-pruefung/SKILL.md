@@ -266,7 +266,7 @@ Im Zivilrecht ist die Reihenfolge der Anspruchsgrundlagen entscheidend. Wer durc
 ## Schritt 9 — Praktische Tipps für Anspruchsgrundlagen-Prüfung
 
 1. **Beginne immer mit dem Vertrag** — auch wenn er später ungültig wird, prüfe ihn zuerst
-2. **Vergiss keine Anspruchs-Grundlage** — vor allem nicht die „kleineren" wie § 826 BGB oder § 311 II BGB
+2. **Vergiss keine Anspruchs-Grundlage** — vor allem nicht die "kleineren" wie § 826 BGB oder § 311 II BGB
 3. **Konkurrenzen erkennen** — am Ende kurz darstellen, welche Ansprüche nebeneinander stehen
 4. **Bei Mehrheit von Klägern oder Beklagten** — jede Beziehung einzeln prüfen
 5. **Bei Mängel-Anspruch** — Schema § 437 BGB explizit aufgreifen

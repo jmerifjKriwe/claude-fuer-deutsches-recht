@@ -15,19 +15,19 @@ Das Zeugnis zeigt Drift in fuenf von acht Themenbereichen und endet mit einer ho
 
 | Satz im Muster | Themenbereich | Note | Befund |
 |---|---|---|---|
-| „verfuegt auch in Randbereichen ueber aeusserst profundes Fachwissen" | Fachkenntnisse | 1 | Steigerer plus Maximalbereich |
-| „nahm regelmaessig erfolgreich an Weiterbildungsseminaren teil" | Lernbereitschaft | 3 | Kein Steigerungsadverb |
-| „ausgepraegt strategisches Denkvermoegen, stets in kuerzester Zeit optimale Loesungen" | Strategisches Denken | 1 | „stets" plus Superlativ |
-| „zeigte sich bei neuen Aufgabenbereichen flexibel und aufgeschlossen" | Flexibilitaet | 3 | „zeigte" ohne Steigerung |
-| „besonders hohe Arbeitsmoral, stets aeusserst motiviert, beharrlich zu verfolgen" | Engagement | 1 | Drei Steigerer |
-| „zeigte eine hohe Lernbereitschaft" | Lernbereitschaft | 3 | „hohe" ohne Adverb |
-| „jederzeit vollkommen selbststaendig, aeusserst sorgfaeltig, planvoll durchdacht" | Arbeitsweise | 1 | Drei Steigerer |
-| „fand gute neue Ideen und innovative Ansaetze" | Innovation | 3 | „gute" statt „hervorragende" |
-| „Arbeitsergebnisse lagen stets sehr weit ueber unseren Anforderungen" | Arbeitsergebnis | 1 | Maximalvergleich |
-| „war in der Lage, Konflikte erfolgreich zu bewaeltigen" | Sozialverhalten | 3 | „war in der Lage" |
-| „vollsten Zufriedenheit erfuellt und teilweise sogar uebertroffen" | Gesamtbeurteilung | 1 | Maximalformel |
-| „geschaetzter Ansprechpartner, persoenliches Verhalten war einwandfrei" | Sozialverhalten | 3 | „einwandfrei" ohne „stets" |
-| „stets ausgezeichnete Mitarbeit" plus volles Bedauern und voller Dank | Schlussformel | 1 | Vollstaendig auf Spitze |
+| "verfuegt auch in Randbereichen ueber aeusserst profundes Fachwissen" | Fachkenntnisse | 1 | Steigerer plus Maximalbereich |
+| "nahm regelmaessig erfolgreich an Weiterbildungsseminaren teil" | Lernbereitschaft | 3 | Kein Steigerungsadverb |
+| "ausgepraegt strategisches Denkvermoegen, stets in kuerzester Zeit optimale Loesungen" | Strategisches Denken | 1 | "stets" plus Superlativ |
+| "zeigte sich bei neuen Aufgabenbereichen flexibel und aufgeschlossen" | Flexibilitaet | 3 | "zeigte" ohne Steigerung |
+| "besonders hohe Arbeitsmoral, stets aeusserst motiviert, beharrlich zu verfolgen" | Engagement | 1 | Drei Steigerer |
+| "zeigte eine hohe Lernbereitschaft" | Lernbereitschaft | 3 | "hohe" ohne Adverb |
+| "jederzeit vollkommen selbststaendig, aeusserst sorgfaeltig, planvoll durchdacht" | Arbeitsweise | 1 | Drei Steigerer |
+| "fand gute neue Ideen und innovative Ansaetze" | Innovation | 3 | "gute" statt "hervorragende" |
+| "Arbeitsergebnisse lagen stets sehr weit ueber unseren Anforderungen" | Arbeitsergebnis | 1 | Maximalvergleich |
+| "war in der Lage, Konflikte erfolgreich zu bewaeltigen" | Sozialverhalten | 3 | "war in der Lage" |
+| "vollsten Zufriedenheit erfuellt und teilweise sogar uebertroffen" | Gesamtbeurteilung | 1 | Maximalformel |
+| "geschaetzter Ansprechpartner, persoenliches Verhalten war einwandfrei" | Sozialverhalten | 3 | "einwandfrei" ohne "stets" |
+| "stets ausgezeichnete Mitarbeit" plus volles Bedauern und voller Dank | Schlussformel | 1 | Vollstaendig auf Spitze |
 
 ## Beispiele
 

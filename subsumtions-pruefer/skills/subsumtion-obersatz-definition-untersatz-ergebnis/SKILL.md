@@ -27,17 +27,17 @@ Dieses Vier-Schritt-Schema ist die Grundmethode juristischer Fallbearbeitung. De
 
 ### Schritt 1 — Obersatz
 
-**Struktur:** „[Person A] könnte gegen [Person B] einen Anspruch auf [Rechtsfolge] aus [§ Norm] haben."
+**Struktur:** "[Person A] könnte gegen [Person B] einen Anspruch auf [Rechtsfolge] aus [§ Norm] haben."
 
-**Beispiel:** „K könnte gegen V einen Anspruch auf Schadensersatz in Höhe von EUR 5.000 aus § 280 Abs. 1 BGB haben."
+**Beispiel:** "K könnte gegen V einen Anspruch auf Schadensersatz in Höhe von EUR 5.000 aus § 280 Abs. 1 BGB haben."
 
 ### Schritt 2 — Definition
 
 Das TBM wird aus der herrschenden Meinung und/oder der Rechtsprechung definiert.
 
-**Struktur:** „[TBM] liegt vor, wenn [Definition aus h.M./Rspr.]."
+**Struktur:** "[TBM] liegt vor, wenn [Definition aus h.M./Rspr.]."
 
-**Beispiel:** „Eine Pflichtverletzung liegt vor, wenn der Schuldner eine ihm obliegende Pflicht aus dem Schuldverhältnis nicht, nicht rechtzeitig oder nicht wie geschuldet erfüllt (§ 241 Abs. 1 BGB; BGH ständige Rechtsprechung)."
+**Beispiel:** "Eine Pflichtverletzung liegt vor, wenn der Schuldner eine ihm obliegende Pflicht aus dem Schuldverhältnis nicht, nicht rechtzeitig oder nicht wie geschuldet erfüllt (§ 241 Abs. 1 BGB; BGH ständige Rechtsprechung)."
 
 Das System gibt die Quelle der Definition an (Gesetz, BGH, EuGH, h.M.). Wenn die Definition unsicher ist, wird dies ausdrücklich markiert.
 
@@ -45,18 +45,18 @@ Das System gibt die Quelle der Definition an (Gesetz, BGH, EuGH, h.M.). Wenn die
 
 Der Sachverhalt wird unter die Definition subsumiert.
 
-**Struktur:** „Hier [hat A / liegt vor / fehlt es an]: [konkrete Sachverhaltsangabe des Nutzers]."
+**Struktur:** "Hier [hat A / liegt vor / fehlt es an]: [konkrete Sachverhaltsangabe des Nutzers]."
 
-**Beispiel:** „Hier hat V die Lieferpflicht aus § 433 Abs. 1 BGB nicht erfüllt, indem er die Ware trotz Fälligkeit am 01.03.2025 nicht geliefert hat (Nutzerangabe: keine Lieferung erfolgt)."
+**Beispiel:** "Hier hat V die Lieferpflicht aus § 433 Abs. 1 BGB nicht erfüllt, indem er die Ware trotz Fälligkeit am 01.03.2025 nicht geliefert hat (Nutzerangabe: keine Lieferung erfolgt)."
 
-**Kennzeichnung von Lücken:** Fehlt eine Tatsachenangabe, markiert das System das TBM als „offen" und listet auf, welche Beweise erforderlich sind.
+**Kennzeichnung von Lücken:** Fehlt eine Tatsachenangabe, markiert das System das TBM als "offen" und listet auf, welche Beweise erforderlich sind.
 
 ### Schritt 4 — Ergebnis
 
 Das System schließt mit einem Ergebnis für das jeweilige TBM:
-- „TBM [Name] ist erfüllt."
-- „TBM [Name] ist nicht erfüllt, weil [Grund]."
-- „TBM [Name] ist fraglich; Ergebnis hängt von weiteren Tatsachen / Beweisen / Auslegung ab."
+- "TBM [Name] ist erfüllt."
+- "TBM [Name] ist nicht erfüllt, weil [Grund]."
+- "TBM [Name] ist fraglich; Ergebnis hängt von weiteren Tatsachen / Beweisen / Auslegung ab."
 
 ## Gesamtergebnis
 

@@ -42,7 +42,7 @@ Skills in den beobachteten Registries finden. Suchen, Vorschau anzeigen, entsche
 
 ### Schritt 1: Kanzleiprofil laden
 
-Beobachtete Registries aus dem Config-Pfad lesen. Wenn keine Registries konfiguriert sind, hinweisen: „Keine beobachteten Registries konfiguriert. Führen Sie `/kanzlei-builder-hub:kanzlei-builder-hub-kaltstart-interview` aus oder geben Sie eine Registry-URL an."
+Beobachtete Registries aus dem Config-Pfad lesen. Wenn keine Registries konfiguriert sind, hinweisen: "Keine beobachteten Registries konfiguriert. Führen Sie `/kanzlei-builder-hub:kanzlei-builder-hub-kaltstart-interview` aus oder geben Sie eine Registry-URL an."
 
 Praxisprofil lesen (Rechtsgebiet, Kanzleityp) um Suchergebnisse zu gewichten und unpassende Skills als solche zu kennzeichnen.
 
@@ -64,13 +64,13 @@ Zusätzlich: nach Kategorie browsen, falls die Registry so organisiert ist.
 **Profil-Filterung:** Suchergebnisse nach Kanzleiprofil gewichten:
 - Skills, die genau zum Rechtsgebiet passen: zuerst anzeigen
 - Skills aus dem Rechtsgebiet des Nutzers: mit ✅ markieren
-- Skills aus anderen Rechtsgebieten: anzeigen, aber als „ggf. nicht relevant für Ihr Profil" kennzeichnen
-- Bereits installierte Skills: als „bereits installiert" markieren und nicht doppelt vorschlagen
+- Skills aus anderen Rechtsgebieten: anzeigen, aber als "ggf. nicht relevant für Ihr Profil" kennzeichnen
+- Bereits installierte Skills: als "bereits installiert" markieren und nicht doppelt vorschlagen
 
 ### Schritt 4: Treffer präsentieren
 
 ```markdown
-## Suche: „[Suchbegriff]"
+## Suche: "[Suchbegriff]"
 
 **[N] Skills in [M] Registries gefunden:**
 
@@ -87,7 +87,7 @@ Zusätzlich: nach Kategorie browsen, falls die Registry so organisiert ist.
 
 ### Schritt 5: Vorschau
 
-Auf „Vollständige SKILL.md anzeigen": Die gesamte Datei abrufen und anzeigen. Nutzer liest sie, bevor er sich zur Installation entscheidet. Keine Überraschungen.
+Auf "Vollständige SKILL.md anzeigen": Die gesamte Datei abrufen und anzeigen. Nutzer liest sie, bevor er sich zur Installation entscheidet. Keine Überraschungen.
 
 ### Schritt 6: Registry hinzufügen
 
@@ -98,7 +98,7 @@ Wenn der Nutzer eine URL zu einer Registry hat, die nicht in der Watchlist ist:
 3. Zur Watchlist hinzufügen: `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` → beobachtete Registries — nur nach Bestätigung
 
 **Sicherheitshinweis beim Hinzufügen einer Registry:**
-> „Eine neue Registry hinzuzufügen bedeutet, dass deren Skills für die Installation verfügbar werden. Prüfen Sie, wer die Registry betreibt und welche Skills sie enthält, bevor Sie sie als vertrauenswürdig einstufen. Für Kanzleibetrieb mit Mandantendaten sollten nur Registries vertrauenswürdiger Quellen hinzugefügt werden."
+> "Eine neue Registry hinzuzufügen bedeutet, dass deren Skills für die Installation verfügbar werden. Prüfen Sie, wer die Registry betreibt und welche Skills sie enthält, bevor Sie sie als vertrauenswürdig einstufen. Für Kanzleibetrieb mit Mandantendaten sollten nur Registries vertrauenswürdiger Quellen hinzugefügt werden."
 
 Wenn der Positivliste-Modus `restrictive` ist: darauf hinweisen, dass die neue Registry auch in `positivliste.yaml` unter `registries` eingetragen werden muss, bevor der Installer Skills daraus installiert.
 
@@ -119,14 +119,14 @@ Strukturierte Trefferliste mit:
 - Skill-Name, Registry-Herkunft, Rechtsgebiet-Tag
 - Kurzbeschreibung (aus Frontmatter)
 - Aktualitätsdatum (falls angegeben)
-- Links: „Vollständige SKILL.md anzeigen" / „Installieren"
+- Links: "Vollständige SKILL.md anzeigen" / "Installieren"
 - Kennzeichnung bereits installierter Skills
-- Am Ende: „[N] weitere Skills nicht angezeigt. Filter anpassen?"
+- Am Ende: "[N] weitere Skills nicht angezeigt. Filter anpassen?"
 
 ## Beispiel
 
 ```
-## Suche: „NDA"
+## Suche: "NDA"
 
 3 Skills in 2 Registries gefunden:
 
@@ -152,7 +152,7 @@ Zuletzt verifiziert: 2024-09-01 ⚠️ Aktualität prüfen (>6 Monate)
 
 - **Aktualitätsdrift:** Ein Skill ohne `last_verified`-Datum kann veraltete Rechtsnormen oder Rechtsprechung enthalten. Bei Skills ohne Aktualitätsangabe besonders sorgfältig prüfen.
 - **Registry-Impersonation:** Eine URL die wie `kanzlei-skills` aussieht, könnte auf ein kompromittiertes Repo zeigen. Immer den vollständigen Repository-Pfad prüfen.
-- **Profilübereinstimmung als Sicherheitsgarantie missverstehen:** Ein als „✅ passend zum Profil" markierter Skill ist noch kein geprüfter Skill — das `skills-qualitaetspruefung` und die Berufsrechtsprüfung folgen erst beim Installieren.
+- **Profilübereinstimmung als Sicherheitsgarantie missverstehen:** Ein als "✅ passend zum Profil" markierter Skill ist noch kein geprüfter Skill — das `skills-qualitaetspruefung` und die Berufsrechtsprüfung folgen erst beim Installieren.
 
 ## Was dieser Skill nicht tut
 

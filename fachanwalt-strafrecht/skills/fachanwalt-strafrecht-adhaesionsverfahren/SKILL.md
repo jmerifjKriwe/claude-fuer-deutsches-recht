@@ -50,7 +50,7 @@ Das Adhäsionsverfahren verbindet Strafprozess und Zivilrecht. Es spart der verl
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
 | BGH 2 StR 120/20 | BGH, 11.11.2020 | Absehen von Entscheidung im Adhäsionsverfahren (§ 406 Abs. 1 S. 3 StPO) erfordert konkrete Darlegung, warum Entscheidung das Strafverfahren wesentlich verzögern würde |
-| BGH 4 StR 393/17 | BGH, 07.12.2017 | Adhäsionsvergleich nach § 405 StPO ist tauglicher Vollstreckungstitel nach § 794 Abs. 1 Nr. 1 ZPO auch wenn Angeklagter nach Protokoll nur „Vergleich schlossen" |
+| BGH 4 StR 393/17 | BGH, 07.12.2017 | Adhäsionsvergleich nach § 405 StPO ist tauglicher Vollstreckungstitel nach § 794 Abs. 1 Nr. 1 ZPO auch wenn Angeklagter nach Protokoll nur "Vergleich schlossen" |
 | BGH 2 StR 304/15 | BGH, 18.11.2015 | Schmerzensgeldhoehe im Adhäsionsverfahren: Strafgericht ist an Zivilrechtsprechung nicht gebunden; Tendenz zu niedrigeren Beträgen |
 | OLG Köln 2 Ws 440/18 | OLG Köln, 2018 | Berufung im Adhäsionsverfahren (§ 406a StPO): auf den Adhäsionsausspruch beschränkte Berufung ist zulässig |
 | BGH 1 StR 587/14 | BGH, 07.05.2015 | § 46a StGB setzt auf Seiten des Täters ernsthafte Bemühung um Ausgleich voraus; reine Zahlung genügt nicht immer |
@@ -230,11 +230,11 @@ des Strafprozesses sprengt.
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „Adhäsion verzögert das Strafverfahren" | § 406 Abs. 1 S. 3 StPO erlaubt Absehen nur wenn wesentliche Verzögerung nachgewiesen; BGH 2 StR 120/20: bloße Komplexität reicht nicht |
-| „Schmerzensgeldtabellen gelten nicht im Strafgericht" | Strafgerichte orientieren sich an Zivilrechtsprechung; BGH 2 StR 304/15: keine Bindung, aber vergleichbare Maßstäbe sind sachgerecht |
-| „Vergleich nach § 405 StPO ist kein rechtssicherer Titel" | BGH 4 StR 393/17 bestätigt Vollstreckbarkeit nach § 794 Abs. 1 Nr. 1 ZPO; Protokollierung entscheidend |
-| „Forderungsübergang nach § 116 SGB X schließt Adhäsion aus" | Nur soweit Anspruch übergegangen ist; Eigenbeteiligung (Schmerzensgeld soweit nicht gedeckt) verbleibt bei der Verletzten |
-| „Angeklagte/r ist insolvent; Adhäsion sinnlos" | § 302 InsO schließt Restschuldbefreiung bei vorsätzlichen unerlaubten Handlungen aus; Titel hat langfristigen Wert |
+| "Adhäsion verzögert das Strafverfahren" | § 406 Abs. 1 S. 3 StPO erlaubt Absehen nur wenn wesentliche Verzögerung nachgewiesen; BGH 2 StR 120/20: bloße Komplexität reicht nicht |
+| "Schmerzensgeldtabellen gelten nicht im Strafgericht" | Strafgerichte orientieren sich an Zivilrechtsprechung; BGH 2 StR 304/15: keine Bindung, aber vergleichbare Maßstäbe sind sachgerecht |
+| "Vergleich nach § 405 StPO ist kein rechtssicherer Titel" | BGH 4 StR 393/17 bestätigt Vollstreckbarkeit nach § 794 Abs. 1 Nr. 1 ZPO; Protokollierung entscheidend |
+| "Forderungsübergang nach § 116 SGB X schließt Adhäsion aus" | Nur soweit Anspruch übergegangen ist; Eigenbeteiligung (Schmerzensgeld soweit nicht gedeckt) verbleibt bei der Verletzten |
+| "Angeklagte/r ist insolvent; Adhäsion sinnlos" | § 302 InsO schließt Restschuldbefreiung bei vorsätzlichen unerlaubten Handlungen aus; Titel hat langfristigen Wert |
 
 ---
 

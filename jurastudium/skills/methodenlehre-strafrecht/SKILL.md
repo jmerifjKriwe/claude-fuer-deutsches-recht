@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-strafrecht
-description: "Übt die strafrechtliche Methodenlehre — dreistufiger Verbrechensaufbau (Tatbestand, Rechtswidrigkeit, Schuld), Trennung objektiver/subjektiver Tatbestand, Konkurrenzlehre (Tateinheit § 52, Tatmehrheit § 53, Gesetzeskonkurrenz), Analogieverbot Art. 103 II GG, Auslegung im Lichte des Bestimmtheitsgebots. Lädt, wenn der Nutzer „Strafrecht-Aufbau\", „Verbrechensaufbau prüfen\", „Konkurrenzen Strafrecht\", „Analogieverbot\" oder „Vorsatz subsumieren\" sagt."
+description: "Übt die strafrechtliche Methodenlehre — dreistufiger Verbrechensaufbau (Tatbestand, Rechtswidrigkeit, Schuld), Trennung objektiver/subjektiver Tatbestand, Konkurrenzlehre (Tateinheit § 52, Tatmehrheit § 53, Gesetzeskonkurrenz), Analogieverbot Art. 103 II GG, Auslegung im Lichte des Bestimmtheitsgebots. Lädt, wenn der Nutzer "Strafrecht-Aufbau\", "Verbrechensaufbau prüfen\", "Konkurrenzen Strafrecht\", "Analogieverbot\" oder "Vorsatz subsumieren\" sagt."
 ---
 
 # Methodenlehre — Strafrecht
@@ -60,7 +60,7 @@ Jede Strafrechtsprüfung folgt diesem Schema. Kein Tatbestand wird ohne dieses G
 
 ## Trennung objektiver / subjektiver Tatbestand
 
-Der häufigste Aufbaufehler in Anfängerklausuren: Vorsatz wird beim objektiven Tatbestand mitgeprüft („Da A wusste, dass …"). **Falsch.** Vorsatz ist ein Tatbestandsmerkmal des **subjektiven** Tatbestands und gehört dorthin — vollständig.
+Der häufigste Aufbaufehler in Anfängerklausuren: Vorsatz wird beim objektiven Tatbestand mitgeprüft ("Da A wusste, dass …"). **Falsch.** Vorsatz ist ein Tatbestandsmerkmal des **subjektiven** Tatbestands und gehört dorthin — vollständig.
 
 Subsumtions-Reihenfolge im Vorsatz:
 1. Vorsatz im Hinblick auf jedes objektive Tatbestandsmerkmal einzeln.
@@ -77,11 +77,11 @@ Analoger Schluss zulasten des Täters ist **verboten**. Das gilt für:
 
 **Erlaubt**: Analogie **zugunsten** des Täters (z. B. Erweiterung von Rechtfertigungsgründen, Entschuldigungsgründen).
 
-Wer in der Klausur einen Tatbestand „erweitert", weil das Verhalten „eigentlich auch strafwürdig" sei, ist methodisch raus.
+Wer in der Klausur einen Tatbestand "erweitert", weil das Verhalten "eigentlich auch strafwürdig" sei, ist methodisch raus.
 
 ## Bestimmtheitsgebot
 
-Der Tatbestand muss so bestimmt sein, dass der Bürger vorhersehen kann, was strafbar ist (lex certa). Bei unbestimmten Begriffen („Verwerflichkeit", „Sittenwidrigkeit"): verfassungskonforme Auslegung, die das Bestimmtheitsgebot wahrt.
+Der Tatbestand muss so bestimmt sein, dass der Bürger vorhersehen kann, was strafbar ist (lex certa). Bei unbestimmten Begriffen ("Verwerflichkeit", "Sittenwidrigkeit"): verfassungskonforme Auslegung, die das Bestimmtheitsgebot wahrt.
 
 ## Konkurrenzlehre
 
@@ -102,7 +102,7 @@ Die Konkurrenzen sind der zweite große Methodenkomplex im Strafrecht.
 
 ### Gesetzeskonkurrenz (Scheinkonkurrenz)
 - **Spezialität**: lex specialis derogat legi generali (§ 211 StGB verdrängt § 212 StGB).
-- **Subsidiarität**: ausdrücklich (z. B. § 246 I StGB „wenn die Tat nicht in anderen Vorschriften …") oder konkludent.
+- **Subsidiarität**: ausdrücklich (z. B. § 246 I StGB "wenn die Tat nicht in anderen Vorschriften …") oder konkludent.
 - **Konsumtion**: typische Begleittat geht im Hauptdelikt auf (Sachbeschädigung beim Diebstahl).
 
 ## Auslegung im Strafrecht
@@ -115,7 +115,7 @@ Die Konkurrenzen sind der zweite große Methodenkomplex im Strafrecht.
 ## Drill-Modus
 
 1. Studierender bekommt einen Sachverhalt.
-2. Skill fragt: „Welche Tatbestände kommen in Betracht — und in welcher Reihenfolge prüfst du?"
+2. Skill fragt: "Welche Tatbestände kommen in Betracht — und in welcher Reihenfolge prüfst du?"
 3. Pro Tatbestand: Aufbau strikt dreistufig durchgehen. Skill markiert jeden Aufbaufehler.
 4. Konkurrenzen werden **zum Schluss** geprüft, nicht zwischendrin.
 5. Skill prüft Trennung objektiv/subjektiv besonders streng.

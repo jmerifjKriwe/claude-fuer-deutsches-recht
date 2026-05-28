@@ -7,7 +7,7 @@ description: "Online-Markenverletzungen auf Plattformen unterbinden: Notice-and-
 
 Donauzon Marketplace GmbH ist das digitale Schaulaufen der Counterfeiting-Szene: Drittanbieter auf Donauzon verkaufen täglich Dutzende gefälschte klôtzzkètté-Produkte. Die Plattform wächst, die Fälschungen häufen sich, und die Comtesse Beatrice de Klotzzkettie ist zu Recht besorgt.
 
-Seit dem Digital Services Act (DSA), gültig seit Februar 2024, haben wir deutlich schärfere Instrumente. Donauzon ist als „Mittler" nach Art. 2 lit. f DSA und als „Online-Plattform" nach Art. 2 lit. h DSA in der Pflicht.
+Seit dem Digital Services Act (DSA), gültig seit Februar 2024, haben wir deutlich schärfere Instrumente. Donauzon ist als "Mittler" nach Art. 2 lit. f DSA und als "Online-Plattform" nach Art. 2 lit. h DSA in der Pflicht.
 
 ## Rechtsrahmen
 
@@ -29,7 +29,7 @@ Seit dem Digital Services Act (DSA), gültig seit Februar 2024, haben wir deutli
 ### Schritt 1: Monitoring und Beweissicherung
 
 1. **Überwachung Donauzon:**
-   - Regelmäßige Suchanfragen nach „klôtzzkètté", „klotzzkette", „K°°" etc.
+   - Regelmäßige Suchanfragen nach "klôtzzkètté", "klotzzkette", "K°°" etc.
    - Screenshot mit URL, Datum, Anbieter-ID, Preis (Beweis)
    - Testkauf-Dokumentation: Kaufbeleg, Lieferdaten, Warenprüfung
 
@@ -46,7 +46,7 @@ Seit dem Digital Services Act (DSA), gültig seit Februar 2024, haben wir deutli
    - Bei Trusted-Flagger-Status (klôtzzkètté als etablierte IP-Inhaberin): beschleunigte Bearbeitung
 
 4. **Reaktionsfrist Donauzon:**
-   - „Unverzüglich" bei offensichtlich illegalen Inhalten (DSA Art. 16 VI)
+   - "Unverzüglich" bei offensichtlich illegalen Inhalten (DSA Art. 16 VI)
    - 7 Werktage bei nicht-offensichtlichen Fällen
    - Bestätigung des Eingangs und der Entscheidung (Art. 17 DSA: Begründungspflicht bei Abweichung von Meldung)
 
@@ -64,7 +64,7 @@ Seit dem Digital Services Act (DSA), gültig seit Februar 2024, haben wir deutli
 
 7. **Proaktive Prüfpflichten:**
    - Nach BGH mySpace: Einmalige konsequente Kontrolle nach Hinweis; Filter für bekannte Verletzungszeichen
-   - Antrag: Donauzon soll „klotzzkette" und „klôtzzkètté" aus Produkttiteln herausfiltern und zugehörige Anbieter verifizieren
+   - Antrag: Donauzon soll "klotzzkette" und "klôtzzkètté" aus Produkttiteln herausfiltern und zugehörige Anbieter verifizieren
 
 ## Falltypische Konstellationen
 
@@ -72,10 +72,10 @@ Seit dem Digital Services Act (DSA), gültig seit Februar 2024, haben wir deutli
 Drei Donauzon-Händler (CN/HK-Adressen) verkaufen täglich je 20-50 gefälschte klôtzzkètté-Handtaschen. DSA-Notice: Alle drei URLs gemeldet. Donauzon reagiert nach 10 Tagen nicht. Eilantrag LG Hamburg: Sperrverfügung gegen die drei Angebote + Beauskunftung der Händlerdaten nach § 19 MarkenG.
 
 ### Konstellation 2: Donauzon empfiehlt gefälschte Produkte durch Algorithmus
-Donauzon-Empfehlungs-Algorithmus schiebt Fälschungen bei der Suche „klôtzzkètté günstig" nach oben. DSA Art. 27 (Recommender System Transparenz): Klage auf Unterlassung der algorithmischen Bevorzugung.
+Donauzon-Empfehlungs-Algorithmus schiebt Fälschungen bei der Suche "klôtzzkètté günstig" nach oben. DSA Art. 27 (Recommender System Transparenz): Klage auf Unterlassung der algorithmischen Bevorzugung.
 
-### Konstellation 3: Anbieter „Style4All GmbH" nutzt Marke als Keyword
-Donauzon-Händler „Style4All GmbH" (Duisburg) verkauft Eigenware und bewirbt diese mit Keyword „klôtzzkètté" in der Produktbeschreibung ohne Markenverletzung bei der Ware selbst. Abmahnung an Style4All direkt; DSA-Notice gegen das Keyword in der Produktbeschreibung.
+### Konstellation 3: Anbieter "Style4All GmbH" nutzt Marke als Keyword
+Donauzon-Händler "Style4All GmbH" (Duisburg) verkauft Eigenware und bewirbt diese mit Keyword "klôtzzkètté" in der Produktbeschreibung ohne Markenverletzung bei der Ware selbst. Abmahnung an Style4All direkt; DSA-Notice gegen das Keyword in der Produktbeschreibung.
 
 ## Belege & Kommentare
 

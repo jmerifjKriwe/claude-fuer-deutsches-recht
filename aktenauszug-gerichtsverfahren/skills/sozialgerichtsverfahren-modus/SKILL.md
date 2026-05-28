@@ -91,7 +91,7 @@ Das Sozialgericht ermittelt den Sachverhalt von Amts wegen. Beweisangebote der P
 
 ## Besonderheiten im Aktenauszug
 
-- Parteibezeichnungen: „Kläger/in" und „Beklagter" (Leistungsträger / Behörde)
+- Parteibezeichnungen: "Kläger/in" und "Beklagter" (Leistungsträger / Behörde)
 - Streitgegenstand ist häufig ein Bescheid über Leistungsgewährung oder -versagung
 - Leistungsart und Leistungszeitraum im Verfahrensidentifikationsblock aufführen
 - Gutachten (ärztliche / berufskundliche) als eigene Kategorie in Beweismittel-Tabelle

@@ -220,11 +220,11 @@ erstatten. Andernfalls werden wir Klage erheben.
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „Die Verletzung ist bewiesen durch Screenshot" | Screenshot allein beweist nicht, dass Mandant gehandelt hat; Passivlegitimation ist eigenständig zu prüfen |
-| „§ 97a Abs. 3 UrhG gilt nur bei Privatpersonen" | LG Berlin 15 O 472/21: auch Betreiber kleiner Websites ohne kommerzielle Absicht sind Verbraucher; maßgeblich: keine gewerbliche Tätigkeit im Kontext des Verstoßes |
-| „MFM-Tarife sind verbindlich" | BGH I ZR 187/17: MFM-Tarife sind nur Ausgangspunkt; Gesamtumstände (Alter des Fotos, Verbreitung, Bekanntheit) können zu Reduzierung führen |
-| „Verletzeraufschlag von 100 % ist üblich" | BGH I ZR 73/17: Aufschlag nur gerechtfertigt wenn Rechteinhaber nachweislich Lizenzen angeboten hat und deren Verweigerung einen konkreten Nachteil darstellt |
-| „Unberechtigte Abmahnung hat keine Konsequenzen" | § 97a Abs. 4 UrhG: Abgemahnter kann Rechtsanwaltskosten der Zurückweisung erstattet verlangen |
+| "Die Verletzung ist bewiesen durch Screenshot" | Screenshot allein beweist nicht, dass Mandant gehandelt hat; Passivlegitimation ist eigenständig zu prüfen |
+| "§ 97a Abs. 3 UrhG gilt nur bei Privatpersonen" | LG Berlin 15 O 472/21: auch Betreiber kleiner Websites ohne kommerzielle Absicht sind Verbraucher; maßgeblich: keine gewerbliche Tätigkeit im Kontext des Verstoßes |
+| "MFM-Tarife sind verbindlich" | BGH I ZR 187/17: MFM-Tarife sind nur Ausgangspunkt; Gesamtumstände (Alter des Fotos, Verbreitung, Bekanntheit) können zu Reduzierung führen |
+| "Verletzeraufschlag von 100 % ist üblich" | BGH I ZR 73/17: Aufschlag nur gerechtfertigt wenn Rechteinhaber nachweislich Lizenzen angeboten hat und deren Verweigerung einen konkreten Nachteil darstellt |
+| "Unberechtigte Abmahnung hat keine Konsequenzen" | § 97a Abs. 4 UrhG: Abgemahnter kann Rechtsanwaltskosten der Zurückweisung erstattet verlangen |
 
 ---
 
@@ -279,7 +279,7 @@ Bevor die Abmahnung bewertet und eine Reaktion empfohlen wird, klaere:
 
 > **BGH, Urt. v. 30.03.2017 — I ZR 124/16 (Loud):** Die EUR 1.000-Kostendeckelung des § 97a III UrhG gilt nur fuer erstmalige Abmahnungen von Privatpersonen bei einfachen Verletzungshandlungen; bei Wiederholungsverletzer oder gewerblichem Handeln entfaellt die Deckelung, und der Streitwert kann auf EUR 10.000 und mehr angehoben werden.
 
-> **BGH, Urt. v. 06.12.2017 — I ZR 186/16 (Konferenz der Tiere):** Wer als Abmahnender die Unterlassungserklaerung des Verletzers nicht annimmt, obwohl sie die geltend gemachte Verletzungsform vollstaendig abdeckt, kann seinem Kostenerstattungsanspruch verlustig gehen; eine „modifizierte Unterlassungserklaerung" beseitigt die Wiederholungsgefahr nur, wenn sie die abgemahnte Handlung klar abdeckt.
+> **BGH, Urt. v. 06.12.2017 — I ZR 186/16 (Konferenz der Tiere):** Wer als Abmahnender die Unterlassungserklaerung des Verletzers nicht annimmt, obwohl sie die geltend gemachte Verletzungsform vollstaendig abdeckt, kann seinem Kostenerstattungsanspruch verlustig gehen; eine "modifizierte Unterlassungserklaerung" beseitigt die Wiederholungsgefahr nur, wenn sie die abgemahnte Handlung klar abdeckt.
 
 ---
 

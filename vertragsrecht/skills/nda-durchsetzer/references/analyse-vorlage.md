@@ -20,7 +20,7 @@
 | Hausvorlage | Vorlage Nr. X, Datum |
 | Erstellt am | TT.MM.JJJJ |
 | Bearbeiter (in) | Name, Berufsbezeichnung |
-| Anwaltlicher Vorbehalt | „Endkontrolle durch verantwortliche Rechtsanwältin / verantwortlichen Rechtsanwalt vor Versand zwingend." |
+| Anwaltlicher Vorbehalt | "Endkontrolle durch verantwortliche Rechtsanwältin / verantwortlichen Rechtsanwalt vor Versand zwingend." |
 
 ---
 
@@ -30,7 +30,7 @@
 
 **Inhalte (Pflicht):**
 
-1. **Gesamtbewertung** — eine Zeile: „Das NDA ist in der vorliegenden
+1. **Gesamtbewertung** — eine Zeile: "Das NDA ist in der vorliegenden
    Fassung [annahmefähig nach Redline / nur nach grundlegender
    Überarbeitung tragbar / als Verhandlungsgrundlage ungeeignet]."
 2. **Drei bis fünf kritischste Abweichungen** vom Hausstandard, jeweils
@@ -70,7 +70,7 @@
 | Salvatorische | zurückhaltend | pauschal | nachteilig |
 | Weitere Klauseln | – | 60-monatige Abwerbeverbots-Klausel | unüblich |
 
-**Pflichtangabe:** fehlende Regelungen ausdrücklich mit „nicht geregelt"
+**Pflichtangabe:** fehlende Regelungen ausdrücklich mit "nicht geregelt"
 kennzeichnen — nicht weglassen.
 
 ---
@@ -120,7 +120,7 @@ Prüflings, nicht der Hausvorlage.
 
 **Pflichtumfang:** mindestens die zehn Mindeststandards aus
 `references/mindeststandards.md` abgearbeitet — auch wenn alle vorhanden
-sind, ausdrücklich „vollständig vorhanden" vermerken.
+sind, ausdrücklich "vollständig vorhanden" vermerken.
 
 ---
 
@@ -132,7 +132,7 @@ sind, ausdrücklich „vollständig vorhanden" vermerken.
 |---|---|
 | **Klausel im Prüfling** | § X / Ziffer Y, Überschrift |
 | **Inhalt** | wörtlich oder verkürzt |
-| **Pendant in der Hausvorlage** | „kein Pendant" oder Verweis |
+| **Pendant in der Hausvorlage** | "kein Pendant" oder Verweis |
 | **Versteckte Risiken** | z. B. faktisches Abwerbeverbot, faktische Wettbewerbsbeschränkung, faktische Exklusivität |
 | **Wechselwirkung mit anderen Klauseln** | z. B. Beweislastumkehr + sehr weite Definition + sehr lange Dauer = unkontrollierbares Haftungsrisiko |
 | **Empfehlung** | Streichung / Modifikation / Bedingung knüpfen / akzeptabel mit Begründung |
@@ -202,15 +202,15 @@ Pflichtinhalte am Ende der Analyse:
 - Rechtsprechung: mindestens zwei BGH-Belege mit Pinpoint nach
   Standard-Zitierweise (siehe `references/zitierweise.md`).
 - Kommentarliteratur: mindestens zwei Belege nach Schema
-  „Bearbeiter, in: Werk, Aufl. Jahr, § X Rn. Y" (siehe
+  "Bearbeiter, in: Werk, Aufl. Jahr, § X Rn. Y" (siehe
   `references/zitierweise.md`).
-- Aufsätze: nach Schema „Verfasser, NJW 2019, 2540 (2543 f.)" (ohne
-  Heftnummer, ohne „S.").
+- Aufsätze: nach Schema "Verfasser, NJW 2019, 2540 (2543 f.)" (ohne
+  Heftnummer, ohne "S.").
 
 **Palandt-Hinweis:** Wenn im Prüfling oder in Bestandsdokumenten
-„Palandt" zitiert wird, im Analyse-Dokument den Hinweis aufnehmen:
+"Palandt" zitiert wird, im Analyse-Dokument den Hinweis aufnehmen:
 
-> Der BGB-Kommentar „Palandt" heißt seit der 81. Aufl. 2022
+> Der BGB-Kommentar "Palandt" heißt seit der 81. Aufl. 2022
 > **Grüneberg**. Sofern im Bestand auf eine konkrete Palandt-Altauflage
 > Bezug genommen werden soll, ist die Auflage (z. B. 80. Aufl. 2021)
 > ausdrücklich zu kennzeichnen.

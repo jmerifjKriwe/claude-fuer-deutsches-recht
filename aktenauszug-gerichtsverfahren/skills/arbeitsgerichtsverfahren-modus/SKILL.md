@@ -60,7 +60,7 @@ Für bürgerliche Rechtsstreitigkeiten zwischen Arbeitnehmern und Arbeitgebern.
 
 Für kollektivrechtliche Streitigkeiten (Betriebsverfassung, Mitbestimmung).
 
-Beteiligte: Arbeitgeber / Betriebsrat / Gewerkschaft. Keine Parteien im zivilprozessualen Sinne — im Aktenauszug „Antragsteller" und „Antragsgegner" verwenden.
+Beteiligte: Arbeitgeber / Betriebsrat / Gewerkschaft. Keine Parteien im zivilprozessualen Sinne — im Aktenauszug "Antragsteller" und "Antragsgegner" verwenden.
 
 ## Kritische Fristen (ArbGG / KSchG)
 

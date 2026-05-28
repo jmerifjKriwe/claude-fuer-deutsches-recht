@@ -1,6 +1,6 @@
 ---
 name: loesungsschemata
-description: "Stellt klassische Lösungsschemata für die deutsche Juristenklausur bereit — Anspruchsprüfung, Verbrechensaufbau, Grundrechtsprüfung, Verhältnismäßigkeit, Klageart-Bestimmung, EBV, Bereicherung, GoA, c.i.c., culpa-Strukturen. Mit ehrlichem Disclaimer: Schemata sind dogmatisch nicht zwingend, können aber das Verständnis tragen. Lädt, wenn der Nutzer „Schema BGB\", „Schema StGB\", „Anspruchsprüfung Aufbau\", „Verbrechensaufbau\", „Grundrechtsschema\" oder „brauche ich Schemata\" sagt."
+description: "Stellt klassische Lösungsschemata für die deutsche Juristenklausur bereit — Anspruchsprüfung, Verbrechensaufbau, Grundrechtsprüfung, Verhältnismäßigkeit, Klageart-Bestimmung, EBV, Bereicherung, GoA, c.i.c., culpa-Strukturen. Mit ehrlichem Disclaimer: Schemata sind dogmatisch nicht zwingend, können aber das Verständnis tragen. Lädt, wenn der Nutzer "Schema BGB\", "Schema StGB\", "Anspruchsprüfung Aufbau\", "Verbrechensaufbau\", "Grundrechtsschema\" oder "brauche ich Schemata\" sagt."
 ---
 
 # Lösungsschemata
@@ -34,7 +34,7 @@ description: "Stellt klassische Lösungsschemata für die deutsche Juristenklaus
 
 Die ehrliche Lage:
 - Die ausgezeichneten Studierenden brauchen keine Schemata. Sie haben die innere Struktur verstanden und arbeiten direkt aus dem Gesetz.
-- Für viele andere — auch sehr ordentliche Studierende — sind Schemata ein **Verständniskatalysator**. Wer mit einem Schema im Kopf einsteigt, fragt sich beim Lesen des Sachverhalts: „An welchem Punkt bin ich jetzt im Schema?" Das gibt Halt und Reihenfolge.
+- Für viele andere — auch sehr ordentliche Studierende — sind Schemata ein **Verständniskatalysator**. Wer mit einem Schema im Kopf einsteigt, fragt sich beim Lesen des Sachverhalts: "An welchem Punkt bin ich jetzt im Schema?" Das gibt Halt und Reihenfolge.
 - Wer die innere Begründung kennt und das Schema dann als Stütze nutzt, ist gut bedient. Wer Schemata abspult, **ohne** zu verstehen warum, schreibt mediokere Klausuren.
 - **Whatever works**: Wenn ein Schema dir hilft, die nächste Klausur zu schreiben — nimm es. Wenn du es nicht brauchst — auch gut.
 
@@ -42,8 +42,8 @@ Diese Skill stellt Schemata bereit, weil das Verbieten nichts bringt. Wir kommen
 
 ## Eingaben
 
-- **Rechtsgebiet** und **Thema** (z. B. „§ 823 I BGB Schema", „§ 32 StGB Notwehr", „Art. 8 GG Versammlungsfreiheit")
-- Optional: **Erklärungstiefe** („nur das Schema" / „mit Erläuterung warum")
+- **Rechtsgebiet** und **Thema** (z. B. "§ 823 I BGB Schema", "§ 32 StGB Notwehr", "Art. 8 GG Versammlungsfreiheit")
+- Optional: **Erklärungstiefe** ("nur das Schema" / "mit Erläuterung warum")
 
 ## Zivilrechtliche Schemata
 
@@ -78,9 +78,9 @@ Diese Skill stellt Schemata bereit, weil das Verbieten nichts bringt. Wir kommen
 **Warum so**: Drei Ebenen — Tatbestand (1–3), Rechtswidrigkeit (4), Verschulden (5) — wie im Strafrecht, dann Schaden als Rechtsfolge.
 
 ### § 812 I 1 Fall 1 BGB — Leistungskondiktion
-1. „Etwas erlangt" — Vermögensvorteil.
-2. „Durch Leistung" eines anderen — bewusste, zweckgerichtete Mehrung fremden Vermögens.
-3. „Ohne rechtlichen Grund" — kein wirksamer Behaltensgrund.
+1. "Etwas erlangt" — Vermögensvorteil.
+2. "Durch Leistung" eines anderen — bewusste, zweckgerichtete Mehrung fremden Vermögens.
+3. "Ohne rechtlichen Grund" — kein wirksamer Behaltensgrund.
 
 ### § 985 BGB — Herausgabe
 1. Anspruchsteller ist **Eigentümer**.
@@ -140,7 +140,7 @@ Sperrwirkung: §§ 987 ff. BGB regeln die Folgen abschließend, daneben kein § 
 2. **Zulässigkeit**:
    - Verwaltungsrechtsweg (§ 40 VwGO).
    - Statthaftigkeit (richtige Klageart).
-   - Klagebefugnis (§ 42 II VwGO, „möglicherweise verletzt").
+   - Klagebefugnis (§ 42 II VwGO, "möglicherweise verletzt").
    - Vorverfahren (§ 68 VwGO).
    - Klagefrist (§ 74 VwGO).
    - Form (§ 81 VwGO).
@@ -159,8 +159,8 @@ Sperrwirkung: §§ 987 ff. BGB regeln die Folgen abschließend, daneben kein § 
 
 Die Skill stellt das Schema bereit, **erklärt aber jeden Schritt** mit der dogmatischen Begründung. Beispiel:
 
-> Frage: „Warum prüft man bei § 985 BGB drei Voraussetzungen?"
-> Antwort der Skill: „Weil die Norm den Anspruch des **Eigentümers** gegen den **Besitzer** auf Herausgabe regelt, **wenn** der Besitzer kein Recht zum Besitz hat. Die drei Schritte sind keine Konvention, sondern direkt der Wortlaut."
+> Frage: "Warum prüft man bei § 985 BGB drei Voraussetzungen?"
+> Antwort der Skill: "Weil die Norm den Anspruch des **Eigentümers** gegen den **Besitzer** auf Herausgabe regelt, **wenn** der Besitzer kein Recht zum Besitz hat. Die drei Schritte sind keine Konvention, sondern direkt der Wortlaut."
 
 Im Drill-Modus stellt die Skill Schritt-für-Schritt-Fragen, die der Studierende erst aus dem Gesetz beantwortet, dann mit dem Schema abgleicht.
 

@@ -148,7 +148,7 @@ Bei AG: Ausschluss Minderheits-Aktionaere durch Hauptaktionaer mit > 95 % der An
 ### Risikomanagement
 
 - Freigabe-Antrag bei Anfechtungsklage
-- Vergleichs-Bereitschaft bei „Beruhms-Kläger"-Konstellation
+- Vergleichs-Bereitschaft bei "Beruhms-Kläger"-Konstellation
 
 ## 9) Minderheits-Aktionaers-Strategie
 

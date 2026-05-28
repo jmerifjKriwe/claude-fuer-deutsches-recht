@@ -46,31 +46,31 @@ Typ A — Kompetenzabsprachen: Formulierungen, die dem Adressaten fachliche Fäh
 
 | Trigger | Typ | Neutrale Ersatzformulierung |
 |---|---|---|
-| „Sie haben versagt" | A | „Es bestehen Abweichungen vom vereinbarten Ziel" |
-| „lächerlich" | D | „nicht nachvollziehbar" |
-| „unfähig" | A | „fachlich abweichend von Maßstab X" |
-| „unverschämt" | B | „in der vorliegenden Form nicht akzeptabel" |
-| „das ist eine Zumutung" | E | „das entspricht nicht den vereinbarten Standards" |
-| „Sie ignorieren mich" | C | „eine Rückmeldung steht noch aus" |
-| „schicken Sie das endlich" | C | „ich darf um baldige Übersendung bitten" |
-| „das können Sie sich nicht erlauben" | C | „ich weise darauf hin, dass diese Vorgehensweise rechtlich bedenklich erscheint" |
-| „Frechheit" | E | „nicht mit meinen berechtigten Erwartungen vereinbar" |
-| „Sie lügen" | B | „die Darstellung weicht von den mir vorliegenden Unterlagen ab" |
-| „katastrophal" | D | „erheblich verbesserungsbedürftig" |
-| „ich bin fassungslos" | E | „ich nehme diesen Vorgang mit großer Aufmerksamkeit zur Kenntnis" |
-| „kompletter Unsinn" | D | „rechtlich nicht haltbar" oder „sachlich nicht zutreffend" |
-| „typisch" | D | „in einer Reihe ähnlicher Vorgänge" |
-| „das werde ich nicht akzeptieren" | C | „ich sehe mich nicht in der Lage, diese Position zu teilen" |
-| „mein unfähiger Kollege" | A | „Herr Rechtsanwalt X" oder „der Kollege" |
-| „Sie haben keine Ahnung" | A | „die fachliche Einordnung erscheint mir abweichend" |
-| „das ist Ihr Problem" | D | „die Klärung liegt in Ihrem Verantwortungsbereich" |
-| „sofort" (als Forderung) | C | „bis zum TT.MM.JJJJ" |
-| „dringend!!!" | E | „mit der Bitte um vorrangige Bearbeitung" |
-| „niemand glaubt Ihnen" | B | „diese Darstellung ist nicht belegt" |
-| „das haben Sie großartig hingekriegt" (ironisch) | E | „das Ergebnis weicht von den Erwartungen ab" |
-| „Ihre sogenannte Expertise" | A | „Ihre fachliche Einschätzung" |
-| „zum wiederholten Mal" (anklagend) | D | „wie bereits mit Schreiben vom TT.MM.JJJJ mitgeteilt" |
-| „ich verlange" | C | „ich bitte um" / „ich darf Sie auffordern" |
+| "Sie haben versagt" | A | "Es bestehen Abweichungen vom vereinbarten Ziel" |
+| "lächerlich" | D | "nicht nachvollziehbar" |
+| "unfähig" | A | "fachlich abweichend von Maßstab X" |
+| "unverschämt" | B | "in der vorliegenden Form nicht akzeptabel" |
+| "das ist eine Zumutung" | E | "das entspricht nicht den vereinbarten Standards" |
+| "Sie ignorieren mich" | C | "eine Rückmeldung steht noch aus" |
+| "schicken Sie das endlich" | C | "ich darf um baldige Übersendung bitten" |
+| "das können Sie sich nicht erlauben" | C | "ich weise darauf hin, dass diese Vorgehensweise rechtlich bedenklich erscheint" |
+| "Frechheit" | E | "nicht mit meinen berechtigten Erwartungen vereinbar" |
+| "Sie lügen" | B | "die Darstellung weicht von den mir vorliegenden Unterlagen ab" |
+| "katastrophal" | D | "erheblich verbesserungsbedürftig" |
+| "ich bin fassungslos" | E | "ich nehme diesen Vorgang mit großer Aufmerksamkeit zur Kenntnis" |
+| "kompletter Unsinn" | D | "rechtlich nicht haltbar" oder "sachlich nicht zutreffend" |
+| "typisch" | D | "in einer Reihe ähnlicher Vorgänge" |
+| "das werde ich nicht akzeptieren" | C | "ich sehe mich nicht in der Lage, diese Position zu teilen" |
+| "mein unfähiger Kollege" | A | "Herr Rechtsanwalt X" oder "der Kollege" |
+| "Sie haben keine Ahnung" | A | "die fachliche Einordnung erscheint mir abweichend" |
+| "das ist Ihr Problem" | D | "die Klärung liegt in Ihrem Verantwortungsbereich" |
+| "sofort" (als Forderung) | C | "bis zum TT.MM.JJJJ" |
+| "dringend!!!" | E | "mit der Bitte um vorrangige Bearbeitung" |
+| "niemand glaubt Ihnen" | B | "diese Darstellung ist nicht belegt" |
+| "das haben Sie großartig hingekriegt" (ironisch) | E | "das Ergebnis weicht von den Erwartungen ab" |
+| "Ihre sogenannte Expertise" | A | "Ihre fachliche Einschätzung" |
+| "zum wiederholten Mal" (anklagend) | D | "wie bereits mit Schreiben vom TT.MM.JJJJ mitgeteilt" |
+| "ich verlange" | C | "ich bitte um" / "ich darf Sie auffordern" |
 
 ## Ausgabeformat
 

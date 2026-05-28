@@ -49,7 +49,7 @@ Bei Wertfragen keine Scheingenauigkeit: Bewertungsbandbreite, Methode und Belege
 
 ## Typische Fehler
 
-- „Geld ist weg“ als Ergebnis genügen lassen.
+- "Geld ist weg" als Ergebnis genügen lassen.
 - Surrogate und Ersparnisse übersehen.
 - Zinsen, Nutzungen und Wertersatz doppelt zählen.
 

@@ -96,11 +96,11 @@ Für Pensionsrisiken bieten spezialisierte Versicherer W&I-Deckungen an. Üblich
 § [X] BETRIEBLICHE ALTERSVERSORGUNG
 
 § [X].1 Definitionen
-„Pensionsverpflichtungen" bezeichnet alle Ansprüche der gegenwärtigen und
+"Pensionsverpflichtungen" bezeichnet alle Ansprüche der gegenwärtigen und
 ehemaligen Arbeitnehmer der Zielgesellschaft auf betriebliche Altersversorgung,
 gleich welcher Rechtsgrundlage, in der zum Stichtag bestehenden Ausprägung.
 
-„Pensionsrückstellungen" bezeichnet die nach HGB und IAS 19 bilanzierten
+"Pensionsrückstellungen" bezeichnet die nach HGB und IAS 19 bilanzierten
 Rückstellungen für Pensionsverpflichtungen der Zielgesellschaft per Stichtag.
 
 § [X].2 Garantien des Verkäufers zur BAV

@@ -36,10 +36,10 @@ Der Gutachtenstil ist die juristische Schreibweise schlechthin. Wer ihn nicht be
 
 ### Vier-Schritte-Aufbau
 
-1. **Obersatz** (oder Eingangssatz): hypothetisch — „könnte", „dürfte", „in Betracht kommen", „wäre"
-2. **Definition** der Tatbestandsmerkmale: „... ist ..."
-3. **Subsumtion**: Hier-Hat-Da-Konstruktion — „Hier hat A ... Damit liegt ... vor"
-4. **Ergebnis** (Konkretes Zwischenergebnis): „Folglich ...", „Also ..."
+1. **Obersatz** (oder Eingangssatz): hypothetisch — "könnte", "dürfte", "in Betracht kommen", "wäre"
+2. **Definition** der Tatbestandsmerkmale: "... ist ..."
+3. **Subsumtion**: Hier-Hat-Da-Konstruktion — "Hier hat A ... Damit liegt ... vor"
+4. **Ergebnis** (Konkretes Zwischenergebnis): "Folglich ...", "Also ..."
 
 ### Beispiel — Kaufvertrag-Prüfung
 
@@ -71,7 +71,7 @@ Folglich liegt ein wirksamer Kaufvertrag zwischen A und B vor.
 ### Aufbau
 
 - **Indikativ**, direkt
-- Kein hypothetisches „könnte"
+- Kein hypothetisches "könnte"
 - Ergebnis am Anfang, Begründung danach
 - Knappe Begründung
 
@@ -111,73 +111,73 @@ B schuldet daher den Kaufpreis.
 
 #### Eingangs-Wendungen
 
-- „A könnte einen Anspruch gegen B haben"
-- „In Betracht kommt §..."
-- „Möglicherweise hat A..."
-- „Es ist zu prüfen, ob..."
+- "A könnte einen Anspruch gegen B haben"
+- "In Betracht kommt §..."
+- "Möglicherweise hat A..."
+- "Es ist zu prüfen, ob..."
 
 #### Subsumtions-Wendungen
 
-- „Hier hat ..."
-- „Im vorliegenden Fall ..."
-- „Vorliegend ..."
-- „A hat im Sinne des § ... gehandelt"
+- "Hier hat ..."
+- "Im vorliegenden Fall ..."
+- "Vorliegend ..."
+- "A hat im Sinne des § ... gehandelt"
 
 #### Ergebnis-Wendungen
 
-- „Folglich ..."
-- „Damit ..."
-- „Also ..."
-- „Mithin ..."
-- „Demnach ..."
-- „Somit ..."
+- "Folglich ..."
+- "Damit ..."
+- "Also ..."
+- "Mithin ..."
+- "Demnach ..."
+- "Somit ..."
 
 #### Übergangs-Wendungen
 
-- „Es bleibt zu prüfen ..."
-- „Weiter müsste ..."
-- „Schließlich ..."
-- „Im Übrigen ..."
+- "Es bleibt zu prüfen ..."
+- "Weiter müsste ..."
+- "Schließlich ..."
+- "Im Übrigen ..."
 
 ### Verbotene Wendungen (im Gutachten)
 
-- „Natürlich ..." (ist nicht juristisch begründet)
-- „Selbstverständlich ..." (subjektiv)
-- „Offensichtlich ..." (ohne Beleg)
-- „Klar ist ..." (subjektiv)
-- „Wie jedermann weiß ..." (juristisch unhaltbar)
+- "Natürlich ..." (ist nicht juristisch begründet)
+- "Selbstverständlich ..." (subjektiv)
+- "Offensichtlich ..." (ohne Beleg)
+- "Klar ist ..." (subjektiv)
+- "Wie jedermann weiß ..." (juristisch unhaltbar)
 
 ## Schritt 5 — Häufige Fehler im Gutachtenstil
 
 ### Fehler 1: Sprung-Subsumtion
 
-❌ „Hier liegt ein Kaufvertrag vor."
+❌ "Hier liegt ein Kaufvertrag vor."
 
-✅ „Hier hat A dem B am 12.03. ein Angebot gemacht. B hat es am 13.03. angenommen. Damit liegen zwei übereinstimmende Willenserklärungen im Sinne der §§ 145 ff. BGB vor. Folglich ist ein Kaufvertrag zustande gekommen."
+✅ "Hier hat A dem B am 12.03. ein Angebot gemacht. B hat es am 13.03. angenommen. Damit liegen zwei übereinstimmende Willenserklärungen im Sinne der §§ 145 ff. BGB vor. Folglich ist ein Kaufvertrag zustande gekommen."
 
 ### Fehler 2: Ergebnis-Vorausnahme im Obersatz
 
-❌ „A hat einen Anspruch gegen B aus § 433 Abs. 2 BGB."
+❌ "A hat einen Anspruch gegen B aus § 433 Abs. 2 BGB."
 
-✅ „A könnte einen Anspruch gegen B aus § 433 Abs. 2 BGB haben."
+✅ "A könnte einen Anspruch gegen B aus § 433 Abs. 2 BGB haben."
 
 (Vor der Prüfung steht das Ergebnis noch nicht fest.)
 
 ### Fehler 3: Definitions-Mangel
 
-❌ „Eine willenseinheitliche Erklärung liegt vor."
+❌ "Eine willenseinheitliche Erklärung liegt vor."
 
-✅ „Eine Willenserklärung ist [Definition aus Lehrbuch / Norm]. Hier hat A eine solche abgegeben, weil ..."
+✅ "Eine Willenserklärung ist [Definition aus Lehrbuch / Norm]. Hier hat A eine solche abgegeben, weil ..."
 
 ### Fehler 4: Subsumtion ohne Bezug zum Sachverhalt
 
-❌ „Eine Willenserklärung kann ausdrücklich oder konkludent erfolgen."
+❌ "Eine Willenserklärung kann ausdrücklich oder konkludent erfolgen."
 
-✅ „Eine Willenserklärung kann ausdrücklich oder konkludent erfolgen. Hier hat A am 12.03. mündlich gegenüber B erklärt: ‚Ich verkaufe Dir das Fahrrad für 200 Euro.' Damit liegt eine ausdrückliche Willenserklärung vor."
+✅ "Eine Willenserklärung kann ausdrücklich oder konkludent erfolgen. Hier hat A am 12.03. mündlich gegenüber B erklärt: 'Ich verkaufe Dir das Fahrrad für 200 Euro.' Damit liegt eine ausdrückliche Willenserklärung vor."
 
 ### Fehler 5: Ergebnis-Verschachtelung
 
-❌ „Da ein Vertrag vorliegt, ist auch der Kaufpreis-Anspruch gegeben, denn..."
+❌ "Da ein Vertrag vorliegt, ist auch der Kaufpreis-Anspruch gegeben, denn..."
 
 ✅ Zwischen-Ergebnis ziehen, dann neuen Obersatz für die nächste Voraussetzung.
 
@@ -191,7 +191,7 @@ Wenn ein Punkt streitig oder zentral ist: vollständige Vier-Schritte-Subsumtion
 
 Wenn ein Punkt klar und unstreitig ist: ein Satz reicht.
 
-> „A ist eine natürliche Person im Sinne des § 1 BGB."
+> "A ist eine natürliche Person im Sinne des § 1 BGB."
 
 Bei klaren Tatbestandsmerkmalen darf man auch kürzen.
 
@@ -199,7 +199,7 @@ Bei klaren Tatbestandsmerkmalen darf man auch kürzen.
 
 Wenn ein Punkt am Ergebnis nicht entscheidet, aber im Aufbau geprüft werden muss:
 
-> „Auch wenn die Voraussetzung vorliegt, würde die Prüfung an einem anderen Punkt scheitern; daher kann offenbleiben, ob ..."
+> "Auch wenn die Voraussetzung vorliegt, würde die Prüfung an einem anderen Punkt scheitern; daher kann offenbleiben, ob ..."
 
 ## Schritt 7 — Längen-Verteilung
 
@@ -219,7 +219,7 @@ Bei einer 20-Seiten-Hausarbeit:
 
 Lies Deinen Text laut. Wenn er
 
-- „natürlich", „offensichtlich", „klar" enthält → überarbeiten
+- "natürlich", "offensichtlich", "klar" enthält → überarbeiten
 - ohne Bezug zum Sachverhalt subsumiert → konkretisieren
 - am Obersatz schon das Ergebnis verrät → hypothetisieren
 - Definition fehlt → ergänzen

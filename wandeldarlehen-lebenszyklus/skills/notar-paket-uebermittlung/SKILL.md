@@ -47,7 +47,7 @@ Dieser Skill stellt das vollständige Paket für den Notar zusammen, der die Kap
 Nach Kapitalerhöhung neue Liste mit: fortlaufender Nummer, Name, Geburtsdatum, Wohnanschrift, Anteilszahl, Nennwert, Datum Erwerb. Alle Gesellschafterinnen plus neuer Lender. Unterschrift: Notar (§ 40 Abs. 2 GmbHG nach Kapitalerhöhung bei Notar-Mitwirkung) oder Geschäftsführerin.
 
 ### 3. Anmeldungstext § 57 GmbHG
-„Die Geschäftsführerin der Sonnenglas Solartechnologie UG (haftungsbeschränkt) meldet zur Eintragung in das Handelsregister an: Die Kapitalerhöhung vom [Datum] in Höhe von EUR [Betrag] durch Ausgabe von [Anzahl] neuen Geschäftsanteilen mit einem Nennbetrag von je EUR 1,00 gegen Sacheinlage ist vollzogen. Der neue Gesellschafter hat die Sacheinlage vollständig erbracht." Notarielle Beglaubigung der Anmeldung.
+"Die Geschäftsführerin der Sonnenglas Solartechnologie UG (haftungsbeschränkt) meldet zur Eintragung in das Handelsregister an: Die Kapitalerhöhung vom [Datum] in Höhe von EUR [Betrag] durch Ausgabe von [Anzahl] neuen Geschäftsanteilen mit einem Nennbetrag von je EUR 1,00 gegen Sacheinlage ist vollzogen. Der neue Gesellschafter hat die Sacheinlage vollständig erbracht." Notarielle Beglaubigung der Anmeldung.
 
 ### 4. Notar-Briefing
 E-Mail an Notar mit: Kurzdarstellung des Vorgangs, Anlagen (Beschluss, Sacheinlagebericht, neue Gesellschafterliste), gewünschtes Datum der Einreichung, Kontakt für Rückfragen.

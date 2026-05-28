@@ -47,7 +47,7 @@ Konnte im Gütetermin keine Einigung erzielt werden, folgt der **Kammertermin** 
 
 ## Ablauf des Kammertermins
 
-1. Aufruf der Sache — Parteien melden sich: „Kläger/Klägerin erschienen"
+1. Aufruf der Sache — Parteien melden sich: "Kläger/Klägerin erschienen"
 2. Antragstellung: Richter fragt nach Anträgen
 3. Mündliche Verhandlung — Sachvortrag beider Seiten
 4. Ggf. Beweisaufnahme (Zeugen, Urkunden)
@@ -60,20 +60,20 @@ Konnte im Gütetermin keine Einigung erzielt werden, folgt der **Kammertermin** 
 
 **Wenn der Richter nach Anträgen fragt:**
 
-*„Ich halte meine Klageanträge vollumfänglich aufrecht. Ich beantrage festzustellen, dass das Arbeitsverhältnis der Parteien durch die Kündigung der Beklagten vom [DATUM], zugegangen am [DATUM], nicht aufgelöst worden ist. Ich beantrage weiter festzustellen, dass das Arbeitsverhältnis über den [DATUM] hinaus fortbesteht."*
+*"Ich halte meine Klageanträge vollumfänglich aufrecht. Ich beantrage festzustellen, dass das Arbeitsverhältnis der Parteien durch die Kündigung der Beklagten vom [DATUM], zugegangen am [DATUM], nicht aufgelöst worden ist. Ich beantrage weiter festzustellen, dass das Arbeitsverhältnis über den [DATUM] hinaus fortbesteht."*
 
 Falls Weiterbeschäftigung beantragt:
-*„Ich beantrage außerdem, die Beklagte zu verurteilen, mich bis zur rechtskräftigen Entscheidung als [BERUFSBEZEICHNUNG] weiterzubeschäftigen."*
+*"Ich beantrage außerdem, die Beklagte zu verurteilen, mich bis zur rechtskräftigen Entscheidung als [BERUFSBEZEICHNUNG] weiterzubeschäftigen."*
 
 ---
 
 ## Reaktionsmuster bei typischen Situationen
 
 **Arbeitgeber trägt Neues vor, das du noch nicht kennst:**
-*„Ich bitte um Schriftsatzfrist zur Erwiderung auf diesen neuen Vortrag."*
+*"Ich bitte um Schriftsatzfrist zur Erwiderung auf diesen neuen Vortrag."*
 
 **Zeuge des Arbeitgebers macht falsche Aussagen:**
-Ruhig bleiben. Nach der Vernehmung durch den Richter kommt dein Fragerecht: *„Darf ich eine Frage stellen?"* — Dann konkrete, präzise Fragen stellen.
+Ruhig bleiben. Nach der Vernehmung durch den Richter kommt dein Fragerecht: *"Darf ich eine Frage stellen?"* — Dann konkrete, präzise Fragen stellen.
 
 **Richter macht Vergleichsvorschlag:**
 Nicht sofort ablehnen. Bedenkzeit erbitten. Vergleich auf alle Punkte prüfen (Skill `kueschk-vergleichsverhandlung-checkliste`).

@@ -120,7 +120,7 @@ Gesprächsorientiertes Q&A (ein Themenblock je Nachricht, nicht alle Fragen auf 
 
 - **Zu early termination:** Wenn das Interview abgebrochen wird, verbleiben Platzhalter im Profil; alle anderen Skills stoppen dann und fordern ein erneutes Interview.
 - **Kein Portfolio geteilt:** Ohne Schutzrechtsverzeichnis kann der Portfolio-Skill keine Fristen berechnen; Nutzer auf manuelle Eingabe hinweisen.
-- **Durchsetzungsstrategie zu vage:** „Ausgewogen" ohne spezifizierte Auslöser führt zu inkonsistenter Genehmigungsmatrix; nachfragen, bis Auslöser konkret sind.
+- **Durchsetzungsstrategie zu vage:** "Ausgewogen" ohne spezifizierte Auslöser führt zu inkonsistenter Genehmigungsmatrix; nachfragen, bis Auslöser konkret sind.
 - **Integrationsstatus nicht verifiziert:** Das Plugin prüft nicht ob eine Datenbank tatsächlich erreichbar ist; Nutzer darauf hinweisen, dass `--check-integrations` dies jederzeit prüfen kann.
 - **Vertraulichkeit:** Das Kanzleiprofil enthält mandantenbezogene Strukturinformationen; nicht in Klartext über ungesicherte Kanäle übertragen (§ 43a Abs. 2 BRAO, § 203 StGB).
 

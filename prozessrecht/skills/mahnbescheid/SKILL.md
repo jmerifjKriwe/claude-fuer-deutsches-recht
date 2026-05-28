@@ -61,7 +61,7 @@ Das Modell benötigt:
   die Verjährung nicht.
 - BGH, Urt. v. 17.07.2013 – I ZR 64/13, NJW 2014, 297 Rn. 9 ff.: Zur Individualisierungs-
   anforderung im Mahnverfahren; der Entstehungsgrund muss so bezeichnet sein, dass der
-  Antragsgegner die Forderung zuordnen kann; Verweis auf „Lieferscheine" ohne Nummer
+  Antragsgegner die Forderung zuordnen kann; Verweis auf "Lieferscheine" ohne Nummer
   unzureichend.
 <!-- AUDIT 27.05.2026: VIII ZR 253/01 (NOT_FOUND bei dejure.org) geloescht; VII ZB 48/10 (NOT_FOUND bei dejure.org) geloescht. -->
 
@@ -119,7 +119,7 @@ blieb erfolglos.
 Das Mahnverfahren ist statthaft (§ 688 Abs. 1 ZPO): Die Forderung ist auf Zahlung einer
 bestimmten Geldsumme gerichtet; keine aufschiebende Bedingung; V hat Wohnsitz in Deutschland.
 
-*Individualisierung (§ 690 Abs. 1 Nr. 3 ZPO)*: Als Entstehungsgrund ist einzutragen: „Werklohn
+*Individualisierung (§ 690 Abs. 1 Nr. 3 ZPO)*: Als Entstehungsgrund ist einzutragen: "Werklohn
 aus Malerarbeiten, Rechnung Nr. 2024-112 vom 15.11.2024, fällig 01.12.2024" (BGH, Urt. v.
 17.07.2013 – I ZR 64/13, NJW 2014, 297 Rn. 9). Zinsen: 9 % über Basiszinssatz ab 02.12.2024
 (§ 288 Abs. 2 BGB, da V Unternehmer).

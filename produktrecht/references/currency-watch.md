@@ -2,7 +2,7 @@
 
 **Zuletzt geprüft: 2026-05-10.**
 
-> **Veraltungswarnung.** Liegt das Prüfdatum oben mehr als 90 Tage zurück, gilt diese Datei als veraltet. Behandeln Sie jeden Eintrag nur noch als Recherche-Checkliste, nicht als verlässliche Aussage über geltende Rechtslage. Wenn das Plugin diese Datei einliest, prüft es zunächst das Datum. Bei Veraltung gilt: „Der Aktualitätswächter wurde zuletzt am [Datum] — vor [N] Monaten — geprüft. Ich verwende ihn als Suchleitfaden, nicht als Rechtsquelle." Sobald ein Eintrag aktualisiert wird, ist auch das Prüfdatum oben zu erneuern.
+> **Veraltungswarnung.** Liegt das Prüfdatum oben mehr als 90 Tage zurück, gilt diese Datei als veraltet. Behandeln Sie jeden Eintrag nur noch als Recherche-Checkliste, nicht als verlässliche Aussage über geltende Rechtslage. Wenn das Plugin diese Datei einliest, prüft es zunächst das Datum. Bei Veraltung gilt: "Der Aktualitätswächter wurde zuletzt am [Datum] — vor [N] Monaten — geprüft. Ich verwende ihn als Suchleitfaden, nicht als Rechtsquelle." Sobald ein Eintrag aktualisiert wird, ist auch das Prüfdatum oben zu erneuern.
 
 Das Produktsicherheits- und Produkthaftungsrecht wandelt sich insbesondere durch EU-Rechtsakte erheblich. Vor jeder Aussage zu einer Pflicht, einem Schwellenwert oder einer Frist ist eine Verifikation erforderlich. Dies sind die Bereiche mit dem höchsten Änderungsrisiko seit dem Trainings-Datenstand:
 
@@ -57,6 +57,6 @@ Für aktuelle BGH-Entscheidungen prüfen Sie [BGH Rechtsprechungsdatenbank](http
 
 ## Verwendungshinweis
 
-Wenn das Plugin eine Produktsicherheitspflicht, eine Haftungsregelung oder eine Meldefrist zitiert, ist anzumerken: „Das Produktrecht ist durch EU-Reformen erheblich im Wandel — dieser Stand kann sich seit dem Trainings-Datenstand verändert haben. Verifizieren Sie bei [BAuA](https://www.baua.de) und auf [EUR-Lex](https://eur-lex.europa.eu). Siehe `references/currency-watch.md`."
+Wenn das Plugin eine Produktsicherheitspflicht, eine Haftungsregelung oder eine Meldefrist zitiert, ist anzumerken: "Das Produktrecht ist durch EU-Reformen erheblich im Wandel — dieser Stand kann sich seit dem Trainings-Datenstand verändert haben. Verifizieren Sie bei [BAuA](https://www.baua.de) und auf [EUR-Lex](https://eur-lex.europa.eu). Siehe `references/currency-watch.md`."
 
 **Diese Datei veraltet.** Stand: Mai 2026. Aktualisieren Sie sie, sobald Sie Abweichungen bemerken.

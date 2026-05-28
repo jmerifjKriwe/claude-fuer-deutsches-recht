@@ -26,7 +26,7 @@ Renten-Antrag bei Personen mit Arbeitsleben in mehreren EU-Staaten.
 ### Rente bei Erreichen Renten-Alter
 
 - Pro Staat eigene Rente
-- Berechnung „pro rata temporis"
+- Berechnung "pro rata temporis"
 
 ## 3) Antrag
 

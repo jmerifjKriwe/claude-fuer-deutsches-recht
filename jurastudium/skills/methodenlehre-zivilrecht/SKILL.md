@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-zivilrecht
-description: "Übt die zivilrechtliche Methodenlehre für Studierende — Anspruchsgrundlagen-Schema, AGL-Reihenfolge (vertraglich, vertragsähnlich, dinglich, deliktisch, bereicherungsrechtlich), Konkurrenzen, Auslegung von Willenserklärungen (§§ 133/157 BGB), Auslegung von AGB (§ 305 ff. BGB), Verkehrssitte. Lädt, wenn der Nutzer „AGL-Reihenfolge\", „Anspruchsprüfung\", „Willenserklärung auslegen\", „AGB auslegen\" oder „Konkurrenzen Zivilrecht\" sagt."
+description: "Übt die zivilrechtliche Methodenlehre für Studierende — Anspruchsgrundlagen-Schema, AGL-Reihenfolge (vertraglich, vertragsähnlich, dinglich, deliktisch, bereicherungsrechtlich), Konkurrenzen, Auslegung von Willenserklärungen (§§ 133/157 BGB), Auslegung von AGB (§ 305 ff. BGB), Verkehrssitte. Lädt, wenn der Nutzer "AGL-Reihenfolge\", "Anspruchsprüfung\", "Willenserklärung auslegen\", "AGB auslegen\" oder "Konkurrenzen Zivilrecht\" sagt."
 ---
 
 # Methodenlehre — Zivilrecht
@@ -66,8 +66,8 @@ Eine zivilrechtliche Klausur ohne saubere AGL-Reihenfolge ist verloren. Die kano
 
 Die wichtigste Methodenfrage des BGB AT.
 
-- **§ 133 BGB**: „der wirkliche Wille zu erforschen" — subjektiv.
-- **§ 157 BGB**: „nach Treu und Glauben mit Rücksicht auf die Verkehrssitte" — objektiv.
+- **§ 133 BGB**: "der wirkliche Wille zu erforschen" — subjektiv.
+- **§ 157 BGB**: "nach Treu und Glauben mit Rücksicht auf die Verkehrssitte" — objektiv.
 - **Empfängerhorizont**: Maßgeblich ist, wie der **objektive Empfänger** in der Lage des konkreten Erklärungsempfängers die Erklärung verstehen durfte und musste.
 - Ausnahmen: **falsa demonstratio non nocet** (übereinstimmender innerer Wille schlägt Wortlaut); **interne Auslegung** zwischen Anwesenden ohne objektiven Empfängerhorizont in Sonderkonstellationen.
 
@@ -95,8 +95,8 @@ Prüfungsschritte:
 ## Methodenfehler — typische Klausurfallen
 
 - **AGL springen** (von § 433 zu § 823 ohne Begründung). Pushback: Was hat dich überzeugt, dass § 433 nicht weiterhilft?
-- **„Es liegt ein Vertrag vor"** ohne §§ 145, 147 BGB zu prüfen.
-- **Auslegung übersehen**: Der Fall verlangt nach § 133 BGB; stattdessen wird subsumiert, was der Erklärende „eigentlich gemeint" haben muss — ohne Methode.
+- **"Es liegt ein Vertrag vor"** ohne §§ 145, 147 BGB zu prüfen.
+- **Auslegung übersehen**: Der Fall verlangt nach § 133 BGB; stattdessen wird subsumiert, was der Erklärende "eigentlich gemeint" haben muss — ohne Methode.
 - **AGB-Kontrolle in falscher Reihenfolge**: § 305 II (Einbeziehung) vor § 305c I (überraschende Klausel) vor §§ 307 ff. (Inhaltskontrolle).
 - **falsa demonstratio** wird zu früh angenommen: Voraussetzung ist tatsächlich **übereinstimmender** innerer Wille beider Seiten.
 
@@ -104,7 +104,7 @@ Prüfungsschritte:
 
 1. Skill nennt Fall.
 2. Studierender entwirft AGL-Reihenfolge.
-3. Skill korrigiert ohne Vorgabe: „Warum prüfst du Bereicherung vor Delikt — woraus folgt das?"
+3. Skill korrigiert ohne Vorgabe: "Warum prüfst du Bereicherung vor Delikt — woraus folgt das?"
 4. Pro AGL prüft Studierender. Skill greift bei Subsumtionssprüngen, Auslegungsfehlern, Konkurrenzfehlern ein.
 
 ## Querverweise

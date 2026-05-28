@@ -185,7 +185,7 @@ Praxisprofil wurde gespeichert. Zusammenfassung:
 ## Risiken / typische Fehler
 
 - **Unvollständige Behördenliste:** Wird `BNetzA` vergessen und das Unternehmen betreibt eine regulierte Energieinfrastruktur, laufen alle Diff-Analysen ins Leere. Explizit nach Nebenaktivitäten fragen.
-- **Falsche Rollenauswahl:** Wenn ein Nicht-Jurist das Plugin als „Rechtsanwalt" konfiguriert, fehlt der Hinweis auf erforderliche Anwaltsprüfung. Bei Zweifeln zum nicht-juristischen Modus default.
+- **Falsche Rollenauswahl:** Wenn ein Nicht-Jurist das Plugin als "Rechtsanwalt" konfiguriert, fehlt der Hinweis auf erforderliche Anwaltsprüfung. Bei Zweifeln zum nicht-juristischen Modus default.
 - **Materialitätsschwelle zu niedrig gesetzt:** Führt zu Alert-Flut; jeder Feed-Eintrag wird als wesentlich markiert. Lieber hoch einsetzen und nach 2 Wochen nachjustieren.
 - **Keine Richtlinienbibliothek verbunden:** Policy-Diff und Gap-Analyse laufen gegen eingefügten Inhalt; qualitativ deutlich schlechter als gegen indizierte Dokumente.
 ## Aktuelle Rechtsprechung & Leitsätze

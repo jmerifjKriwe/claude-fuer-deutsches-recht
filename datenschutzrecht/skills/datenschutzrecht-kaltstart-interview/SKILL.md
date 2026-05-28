@@ -78,7 +78,7 @@ Verbindlich nach `../../references/zitierweise.md`.
 Abschlusszusammenfassung als strukturierte Auflistung der geschriebenen Konfiguration:
 - Welche Werte aus Interview übernommen
 - Welche aus Ausgangsdokumenten extrahiert
-- Welche als Fallback-Standard gesetzt (Kennzeichnung: „Standard – bitte anpassen")
+- Welche als Fallback-Standard gesetzt (Kennzeichnung: "Standard – bitte anpassen")
 - Offene Punkte, die noch ausgefüllt werden müssen
 - Erste empfohlene Folgeaktion (z.B. `anwendungsfall-triage` für aktuelle Verarbeitungstätigkeit)
 

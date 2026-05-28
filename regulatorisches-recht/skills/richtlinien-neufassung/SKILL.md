@@ -134,7 +134,7 @@ Kommentarliteratur für Entwurfsbegründung:
 
 ## Beispiel
 
-**Eingabe:** „Bitte die IKS-Richtlinie für GAP-2025-001 (MaRisk AT 4.3.2 – Datenhaltung) neu fassen. Richtlinie hochgeladen."
+**Eingabe:** "Bitte die IKS-Richtlinie für GAP-2025-001 (MaRisk AT 4.3.2 – Datenhaltung) neu fassen. Richtlinie hochgeladen."
 
 **Ausgabe (Auszug):**
 

@@ -233,12 +233,12 @@ Rechtsanwalt/Rechtsanwältin [Name]
 
 | Gegenargument | Herkunft | Reaktion |
 |--------------|---------|----------|
-| „Mediation ist freiwillig — ich verweigere die Teilnahme" | Titelschuldner | Gerichtliche Anordnung nach § 156 FamFG möglich; Kostentragung bei Verweigerung; Ordnungsmittel nach § 89 FamFG als nächste Stufe |
-| „Das Kind will keinen Umgang" | Umgangsverhindernder Elternteil | Kindeswille ist altersabhängig zu gewichten (BGH XII ZB 601/15); Verfahrensbeistand klärt auf; PAS-Problematik ansprechen |
-| „Häusliche Gewalt schließt Mediation aus" | Antragsgegner/in | Prüfung nach § 1666 BGB; bei konkreter Gefährdung Ausschluss der ADR; bis zur Klärung Schutzanordnung GewSchG |
-| „Cochemer Modell ist nicht gesetzlich verankert" | Gegenanwalt | § 156 FamFG iVm kommunalen Netzwerkvereinbarungen; praktizierende Gerichte in fast allen Bundesländern; keine Gesetzesbindung nötig |
-| „Mediationsergebnis ist nicht vollstreckbar" | Mandant/in | Protokollierung nach § 127a BGB schafft Vollstreckungstitel; alternativ gerichtlicher Beschluss nach § 86 FamFG |
-| „Verfahrensbeistand ist parteiisch für Mutter/Vater" | Elternteil | § 158 FamFG: Auftrag allein dem Kindeswohl; Qualifikation nach § 158a FamFG; Beschwerde bei nachgewiesener Einseitigkeit |
+| "Mediation ist freiwillig — ich verweigere die Teilnahme" | Titelschuldner | Gerichtliche Anordnung nach § 156 FamFG möglich; Kostentragung bei Verweigerung; Ordnungsmittel nach § 89 FamFG als nächste Stufe |
+| "Das Kind will keinen Umgang" | Umgangsverhindernder Elternteil | Kindeswille ist altersabhängig zu gewichten (BGH XII ZB 601/15); Verfahrensbeistand klärt auf; PAS-Problematik ansprechen |
+| "Häusliche Gewalt schließt Mediation aus" | Antragsgegner/in | Prüfung nach § 1666 BGB; bei konkreter Gefährdung Ausschluss der ADR; bis zur Klärung Schutzanordnung GewSchG |
+| "Cochemer Modell ist nicht gesetzlich verankert" | Gegenanwalt | § 156 FamFG iVm kommunalen Netzwerkvereinbarungen; praktizierende Gerichte in fast allen Bundesländern; keine Gesetzesbindung nötig |
+| "Mediationsergebnis ist nicht vollstreckbar" | Mandant/in | Protokollierung nach § 127a BGB schafft Vollstreckungstitel; alternativ gerichtlicher Beschluss nach § 86 FamFG |
+| "Verfahrensbeistand ist parteiisch für Mutter/Vater" | Elternteil | § 158 FamFG: Auftrag allein dem Kindeswohl; Qualifikation nach § 158a FamFG; Beschwerde bei nachgewiesener Einseitigkeit |
 
 ## Streitwert und Kosten
 

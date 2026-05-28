@@ -7,7 +7,7 @@ description: "Anbieter von Hochrisiko-KI fragt: Welche Anforderungen gelten für
 
 ## Zweck
 
-Art. 10 KI-VO stellt spezifische Anforderungen an die Daten, mit denen Hochrisiko-KI-Systeme trainiert, validiert und getestet werden. „Garbage in, garbage out" ist keine Entschuldigung — mangelhafte Datenqualität begründet einen Pflichtverstoß.
+Art. 10 KI-VO stellt spezifische Anforderungen an die Daten, mit denen Hochrisiko-KI-Systeme trainiert, validiert und getestet werden. "Garbage in, garbage out" ist keine Entschuldigung — mangelhafte Datenqualität begründet einen Pflichtverstoß.
 
 ## Pflichten im Überblick (Art. 10 Abs. 2 KI-VO)
 

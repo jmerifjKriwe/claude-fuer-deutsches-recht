@@ -88,7 +88,7 @@ Zeichne ein **Beziehungs-Diagramm**:
 
 ### Hilfsfrage
 
-> „Wenn ich diese Tatsache weglasse — ändert sich dann das rechtliche Ergebnis?"
+> "Wenn ich diese Tatsache weglasse — ändert sich dann das rechtliche Ergebnis?"
 
 Wenn **nein**: vermutlich unwesentlich.
 Wenn **ja oder eventuell**: wesentlich.
@@ -99,17 +99,17 @@ Der Bearbeitungs-Vermerk steht typisch am Ende des Sachverhalts. Lies ihn besond
 
 ### Standard-Formulierungen
 
-- **„Beurteilen Sie die Rechtslage"**: vollständiges Gutachten, alle Ansprüche prüfen
-- **„Prüfen Sie die Ansprüche des A gegen B"**: nur diese Richtung, nicht umgekehrt
-- **„Bestehen Schadensersatz-Ansprüche?"**: nur Schadensersatz, nicht Erfüllung etc.
-- **„Wie ist die Rechtslage in einem Schriftsatz an das Gericht zu vertreten?"**: parteiischer Standpunkt
-- **„Hilfsweise / Hilfsgutachten"**: Wenn der Haupt-Ergebnis-Pfad zu einem bestimmten Ergebnis kommt, ist hilfsweise auch das andere Ergebnis zu prüfen
+- **"Beurteilen Sie die Rechtslage"**: vollständiges Gutachten, alle Ansprüche prüfen
+- **"Prüfen Sie die Ansprüche des A gegen B"**: nur diese Richtung, nicht umgekehrt
+- **"Bestehen Schadensersatz-Ansprüche?"**: nur Schadensersatz, nicht Erfüllung etc.
+- **"Wie ist die Rechtslage in einem Schriftsatz an das Gericht zu vertreten?"**: parteiischer Standpunkt
+- **"Hilfsweise / Hilfsgutachten"**: Wenn der Haupt-Ergebnis-Pfad zu einem bestimmten Ergebnis kommt, ist hilfsweise auch das andere Ergebnis zu prüfen
 
 ### Frage-Vermerke
 
-- **„§ XYZ ist nicht zu prüfen"**: aussparen
-- **„Die örtliche Zuständigkeit ist nicht zu prüfen"**: nicht subsumieren
-- **„Gehen Sie davon aus, dass..."**: als feststehend annehmen
+- **"§ XYZ ist nicht zu prüfen"**: aussparen
+- **"Die örtliche Zuständigkeit ist nicht zu prüfen"**: nicht subsumieren
+- **"Gehen Sie davon aus, dass..."**: als feststehend annehmen
 
 ## Schritt 4 — Zeitstrahl erstellen
 
@@ -158,7 +158,7 @@ Bevor Du anfängst zu schreiben:
 2. **Bearbeitungs-Vermerk übersehen** — Stoff falsch abgegrenzt
 3. **Personen-Buchstaben verwechseln** — Verwirrung beim Schreiben
 4. **Datum übersehen** — Verjährungs-, Verzugs-, Fristen-Fragen falsch
-5. **„Hilfsweise"-Hinweis übersehen** — wesentlicher Teil der Aufgabe nicht geprüft
+5. **"Hilfsweise"-Hinweis übersehen** — wesentlicher Teil der Aufgabe nicht geprüft
 
 ## Übergang zu
 

@@ -11,7 +11,7 @@ Ein Dokumentensatz im Prozess hat drei Arten von Einträgen: zweifelsfrei gesch�
 
 **Dies ist eine Erstprüfung. Der Anwalt prüft jeden markierten Eintrag. Keine Ausnahmen.**
 
-Hinweis: Ein direktes Pendant zum US-amerikanischen „privilege log" gibt es im deutschen Recht nicht. Dieser Skill deckt die deutschen Rechtsinstitute ab, die vergleichbare Schutzfunktionen erfüllen: Vorlagepflicht nach § 142 ZPO, Beschlagnahmeschutz nach § 97 StPO, Zeugnisverweigerungsrecht nach § 53 StPO und die anwaltliche Verschwiegenheitspflicht nach § 43a Abs. 2 BRAO, § 203 StGB.
+Hinweis: Ein direktes Pendant zum US-amerikanischen "privilege log" gibt es im deutschen Recht nicht. Dieser Skill deckt die deutschen Rechtsinstitute ab, die vergleichbare Schutzfunktionen erfüllen: Vorlagepflicht nach § 142 ZPO, Beschlagnahmeschutz nach § 97 StPO, Zeugnisverweigerungsrecht nach § 53 StPO und die anwaltliche Verschwiegenheitspflicht nach § 43a Abs. 2 BRAO, § 203 StGB.
 
 ## Eingaben
 
@@ -165,7 +165,7 @@ Ohne ausdrückliche Bestätigung wird die Liste nicht als vorlagebereits behande
 
 ## Risiken und typische Fehler
 
-- **Syndikusanwalt-Grenzfälle:** Die Schutzwürdigkeit von Korrespondenz des Syndikusrechtsanwalts hängt von seiner konkreten Funktion im Einzelfall ab (§ 46 Abs. 3 BRAO) — nie pauschal als „sicher geschützt" klassifizieren.
+- **Syndikusanwalt-Grenzfälle:** Die Schutzwürdigkeit von Korrespondenz des Syndikusrechtsanwalts hängt von seiner konkreten Funktion im Einzelfall ab (§ 46 Abs. 3 BRAO) — nie pauschal als "sicher geschützt" klassifizieren.
 - **EU-Kartellverfahren:** Im EU-Kartellverfahren und bei BKartA-Ermittlungen ist Korrespondenz mit Syndikusanwälten nicht geschützt (EuGH Akzo Nobel, C-550/07 P).
 - **Wirkung der Weitergabe:** Wird ein eigentlich geschütztes Dokument im Verfahren vorgelegt (auch versehentlich), kann der Schutz vollständig entfallen — Rückruf ist möglich, aber keineswegs sicher.
 - **Beschreibungstiefe:** Zu vage Beschreibungen können dazu führen, dass das Gericht eine In-Camera-Vorlage zur eigenen Prüfung anordnet.

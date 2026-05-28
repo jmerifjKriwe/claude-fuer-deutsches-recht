@@ -56,7 +56,7 @@ Stand: Mai 2026. Quellen vorrangig bundesverfassungsgericht.de (SharedDocs/Entsc
 - **Az.**: 1 BvR 1476/91, 1 BvR 1980/91, 1 BvR 102/92, 1 BvR 221/92
 - **Datum**: 10.10.1995
 - **URL**: [servat.unibe.ch](https://www.servat.unibe.ch/dfr/bv093266.html)
-- **Kernsatz**: Die pauschale Äußerung „Soldaten sind Mörder" richtet sich nicht gegen individuell bestimmte Personen, sondern ist als kollektive Meinungsäußerung durch Art. 5 Abs. 1 GG geschützt; Gerichte müssen mehrdeutige Äußerungen in ihrer günstigsten Deutung prüfen, bevor sie eine Strafbarkeit bejahen.
+- **Kernsatz**: Die pauschale Äußerung "Soldaten sind Mörder" richtet sich nicht gegen individuell bestimmte Personen, sondern ist als kollektive Meinungsäußerung durch Art. 5 Abs. 1 GG geschützt; Gerichte müssen mehrdeutige Äußerungen in ihrer günstigsten Deutung prüfen, bevor sie eine Strafbarkeit bejahen.
 - **Anwendung**: Auslegungsmethode für mehrdeutige Meinungsäußerungen; Schutz kollektiver Urteile; Subsidiarität der günstigsten Auslegung.
 
 ### Stolpe (BVerfGE 114, 339)
@@ -209,7 +209,7 @@ Stand: Mai 2026. Quellen vorrangig bundesverfassungsgericht.de (SharedDocs/Entsc
 - **Az.**: 2 BvL 43/92 u. a.
 - **Datum**: 09.03.1994
 - **URL**: [servat.unibe.ch](https://www.servat.unibe.ch/dfr/bv090145.html)
-- **Kernsatz**: Das strafbewehrte Verbot des Umgangs mit Cannabisprodukten ist mit dem Grundgesetz vereinbar; kein „Recht auf Rausch" als Kernbereich privater Lebensgestaltung; bei geringen Mengen zum Eigenkonsum gebietet das Übermaßverbot jedoch die Möglichkeit des Absehens von Strafverfolgung (§ 31a BtMG).
+- **Kernsatz**: Das strafbewehrte Verbot des Umgangs mit Cannabisprodukten ist mit dem Grundgesetz vereinbar; kein "Recht auf Rausch" als Kernbereich privater Lebensgestaltung; bei geringen Mengen zum Eigenkonsum gebietet das Übermaßverbot jedoch die Möglichkeit des Absehens von Strafverfolgung (§ 31a BtMG).
 - **Anwendung**: Verhältnismäßigkeit beim strafbewehrten Drogenverbot; legislativer Beurteilungsspielraum bei Risikoprognosen; Einstellungsgebot bei Geringfügigkeit.
 
 ### Großer Lauschangriff (BVerfGE 109, 279)
@@ -241,14 +241,14 @@ Stand: Mai 2026. Quellen vorrangig bundesverfassungsgericht.de (SharedDocs/Entsc
 - **Az.**: 2 BvR 2134/92, 2 BvR 2159/92
 - **Datum**: 12.10.1993
 - **URL**: [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/EN/1993/10/rs19931012_2bvr213492en.html)
-- **Kernsatz**: Der Vertrag über die Europäische Union ist mit dem Grundgesetz vereinbar; die EU ist ein Staatenverbund demokratisch legitimierter Mitgliedstaaten; das BVerfG übt nach dem Solange-Vorbehalt weiterhin Kontrolle über „ausbrechende Rechtsakte" (ultra vires) und Grundrechtsstandards aus.
+- **Kernsatz**: Der Vertrag über die Europäische Union ist mit dem Grundgesetz vereinbar; die EU ist ein Staatenverbund demokratisch legitimierter Mitgliedstaaten; das BVerfG übt nach dem Solange-Vorbehalt weiterhin Kontrolle über "ausbrechende Rechtsakte" (ultra vires) und Grundrechtsstandards aus.
 - **Anwendung**: Demokratieprinzip als Grenze der europäischen Integration; Identitätskontrolle; ultra-vires-Vorbehalt.
 
 ### Lissabon (BVerfGE 123, 267)
 - **Az.**: 2 BvE 2/08 u. a.
 - **Datum**: 30.06.2009
 - **URL**: [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2009/06/es20090630_2bve000208.html)
-- **Kernsatz**: Der Vertrag von Lissabon ist mit dem Grundgesetz vereinbar; das Begleitgesetz verstößt aber insoweit gegen Art. 38 Abs. 1 i. V. m. Art. 23 Abs. 1 GG, als Beteiligungsrechte des Bundestages und des Bundesrates nicht hinreichend ausgestaltet wurden; bestimmte Politikbereiche bilden eine „Integrationsgrenze" (Ewigkeitsgarantie).
+- **Kernsatz**: Der Vertrag von Lissabon ist mit dem Grundgesetz vereinbar; das Begleitgesetz verstößt aber insoweit gegen Art. 38 Abs. 1 i. V. m. Art. 23 Abs. 1 GG, als Beteiligungsrechte des Bundestages und des Bundesrates nicht hinreichend ausgestaltet wurden; bestimmte Politikbereiche bilden eine "Integrationsgrenze" (Ewigkeitsgarantie).
 - **Anwendung**: Integrationsverantwortung des Bundestages; Verfassungsidentität nach Art. 23 i. V. m. Art. 79 Abs. 3 GG als Grenze der Übertragung von Hoheitsrechten.
 
 ### ESM / Europäischer Stabilitätsmechanismus (BVerfGE 132, 195)
@@ -283,7 +283,7 @@ Stand: Mai 2026. Quellen vorrangig bundesverfassungsgericht.de (SharedDocs/Entsc
 - **Az.**: 2 BvB 1/19
 - **Datum**: 23.01.2024
 - **URL**: [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2024/bvg24-009.html)
-- **Kernsatz**: Die Partei „Die Heimat" (vormals NPD) wird für sechs Jahre von der staatlichen Parteienfinanzierung ausgeschlossen; sie überschreitet die Schwelle vom Ablehnen zur aktiven Bekämpfung der freiheitlichen demokratischen Grundordnung; Art. 21 Abs. 3 GG ermöglicht diesen Finanzierungsausschluss auch unterhalb der Parteiverbotsvoraussetzungen.
+- **Kernsatz**: Die Partei "Die Heimat" (vormals NPD) wird für sechs Jahre von der staatlichen Parteienfinanzierung ausgeschlossen; sie überschreitet die Schwelle vom Ablehnen zur aktiven Bekämpfung der freiheitlichen demokratischen Grundordnung; Art. 21 Abs. 3 GG ermöglicht diesen Finanzierungsausschluss auch unterhalb der Parteiverbotsvoraussetzungen.
 - **Anwendung**: Art. 21 Abs. 3 GG als neues Instrument (Finanzierungsausschluss); Abgrenzung zum Parteiverbot nach Art. 21 Abs. 2 GG.
 
 ---
@@ -351,7 +351,7 @@ Stand: Mai 2026. Quellen vorrangig bundesverfassungsgericht.de (SharedDocs/Entsc
 - **Az.**: 2 BvL 52/71
 - **Datum**: 29.05.1974
 - **URL**: [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/EN/1974/ls19740529_2bvl005271en.html)
-- **Kernsatz**: „Solange" das Gemeinschaftsrecht keinen dem GG vergleichbaren Grundrechtskatalog aufweist, behält das BVerfG sich vor, an europäischen Rechtsakten einen eigenen Grundrechtsmaßstab anzulegen; Integrationsermächtigung ist keine Blankovollmacht.
+- **Kernsatz**: "Solange" das Gemeinschaftsrecht keinen dem GG vergleichbaren Grundrechtskatalog aufweist, behält das BVerfG sich vor, an europäischen Rechtsakten einen eigenen Grundrechtsmaßstab anzulegen; Integrationsermächtigung ist keine Blankovollmacht.
 - **Anwendung**: Ausgangspunkt des Solange-Vorbehalts; Grundrechtsschutz gegenüber europäischem Recht; Verhältnis BVerfG–EuGH.
 
 ---

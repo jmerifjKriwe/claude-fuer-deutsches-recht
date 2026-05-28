@@ -47,7 +47,7 @@ Für eine vollständige Bearbeitung werden benötigt:
   BAG, Urt. v. 29.01.2015 – 2 AZR 164/14, NZA 2015, 426 Rn. 11 ff.: Vergleichbar im Sinne von § 1 Abs. 3 KSchG sind nur Arbeitnehmer, die gegeneinander ausgetauscht werden können, ohne dass es einer Einarbeitung oder Umschulung von mehr als kurzer Dauer bedarf.
 
 - **Außerordentliche Kündigung / wichtiger Grund:**
-  BAG, Urt. v. 10.06.2010 – 2 AZR 541/09, NZA 2010, 1227 Rn. 16 ff. – „Emmely": Die außerordentliche Kündigung ist ultima ratio; es ist eine umfassende Interessenabwägung vorzunehmen, bei der auch langjährige Betriebszugehörigkeit und Verdienst zu berücksichtigen sind.
+  BAG, Urt. v. 10.06.2010 – 2 AZR 541/09, NZA 2010, 1227 Rn. 16 ff. – "Emmely": Die außerordentliche Kündigung ist ultima ratio; es ist eine umfassende Interessenabwägung vorzunehmen, bei der auch langjährige Betriebszugehörigkeit und Verdienst zu berücksichtigen sind.
 
 - **Kündigungserklärung / Zugang:**
   BAG, Urt. v. 26.03.2015 – 2 AZR 483/14, NZA 2015, 1183 Rn. 24: Der Zugang einer Kündigung unter Abwesenden setzt voraus, dass das Schreiben in den Machtbereich des Empfängers gelangt und er unter gewöhnlichen Umständen Kenntnis nehmen kann.
@@ -183,7 +183,7 @@ Für eine vollständige Bearbeitung werden benötigt:
 **Regelfall in der Praxis:** Arbeitnehmer und ihre Bevollmächtigten stellen häufig zeitgleich mit der KSchG-Klage oder unmittelbar nach Zugang der Kündigung ein Auskunftsersuchen nach Art. 15 DSGVO. Ziel ist der Zugang zu Personalakten, internen Vermerken, Abmahnungsunterlagen oder elektronischer Korrespondenz, die im Kündigungsschutzprozess als Beweismittel dienen oder den Arbeitgeber zu Verhandlungen über eine höhere Abfindung bewegen sollen.
 
 **Missbrauchsmaßstab (EuGH, Urt. v. 19.03.2026 – C-526/24, Brillen Rottler):**
-Ein erstmaliges Auskunftsersuchen kann ausnahmsweise nach Art. 12 Abs. 5 S. 2 DSGVO als „exzessiv“ eingestuft werden, wenn der Arbeitgeber sowohl ein **objektives Element** (z. B. ungewöhnlich kurzer Abstand zwischen Ausspruch der Kündigung und Auskunftsantrag; massenhaftes Legal-Tech-Vorgehen) als auch ein **subjektives Element** (missbräuchliche Absicht — Instrumentalisierung zur Schadensersatzgenerierung nach Art. 82 DSGVO statt Datenschutzschutz) nachweist. Die Hürden sind hoch; das Auskunftsrecht ist Grundrecht (Art. 8 GRCh).
+Ein erstmaliges Auskunftsersuchen kann ausnahmsweise nach Art. 12 Abs. 5 S. 2 DSGVO als "exzessiv" eingestuft werden, wenn der Arbeitgeber sowohl ein **objektives Element** (z. B. ungewöhnlich kurzer Abstand zwischen Ausspruch der Kündigung und Auskunftsantrag; massenhaftes Legal-Tech-Vorgehen) als auch ein **subjektives Element** (missbräuchliche Absicht — Instrumentalisierung zur Schadensersatzgenerierung nach Art. 82 DSGVO statt Datenschutzschutz) nachweist. Die Hürden sind hoch; das Auskunftsrecht ist Grundrecht (Art. 8 GRCh).
 
 **BAG-Linie zum immateriellen Schaden:**
 - BAG, Urt. v. 20.06.2024 – 8 AZR 91/22: Bloßer Kontrollverlust durch eine Auskunftspflichtverletzung nach Art. 15 DSGVO begründet ohne objektiv erhöhtes Missbrauchsrisiko keinen eigenständigen Schaden nach Art. 82 DSGVO. `[Modellwissen – prüfen]`
@@ -205,4 +205,4 @@ Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach
 - Kommentarbelege mit Bearbeiter, Werk, Auflage, Jahr, §, Rn.
 - Bei umstrittenen Fragen (z. B. Vergleichbarkeitsbegriff, Interessenabwägung) h. M. und Gegenauffassung getrennt zitieren.
 - Halluzinationsrisiko: Alle Aktenzeichen und Fundstellen vor Einreichung gegenzuprüfen.
-- Keine reine „vgl."-Floskel ohne nachvollziehbaren Verweis.
+- Keine reine "vgl."-Floskel ohne nachvollziehbaren Verweis.

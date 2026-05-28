@@ -59,11 +59,11 @@ Alle Nutzerangaben werden wortwörtlich wiedergegeben. Keine Ergänzungen durch 
 
 ### Abschnitt 2 — Normwahl (mit Warnhinweis)
 
-> **Normwahl-Warnung:** Die nachfolgende Prüfung bezieht sich ausschließlich auf die vom Nutzer genannte Norm. Das System hat keine unabhängige Prüfung vorgenommen, ob diese Norm die einschlägige, vollständige oder richtige Grundlage ist. Die „falsche-Wiese-Warnung" (Skill `falsche-wiese-warnung`) empfiehlt, die Normwahl vorab zu validieren.
+> **Normwahl-Warnung:** Die nachfolgende Prüfung bezieht sich ausschließlich auf die vom Nutzer genannte Norm. Das System hat keine unabhängige Prüfung vorgenommen, ob diese Norm die einschlägige, vollständige oder richtige Grundlage ist. Die "falsche-Wiese-Warnung" (Skill `falsche-wiese-warnung`) empfiehlt, die Normwahl vorab zu validieren.
 
 ### Abschnitt 3 — Tatbestandsmerkmale (je TBM mit Warnhinweis)
 
-Bei jedem Tatbestandsmerkmal, das mit „fraglich" oder „offen" endet:
+Bei jedem Tatbestandsmerkmal, das mit "fraglich" oder "offen" endet:
 
 > **TBM-Warnhinweis:** Dieses Tatbestandsmerkmal konnte nicht abschließend beurteilt werden. Das Gesamtergebnis ist entsprechend unsicher.
 

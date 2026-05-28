@@ -13,8 +13,8 @@ Diese Auflage konsolidiert elf Korrekturpunkte gegenüber v2.x:
 5. **Materialien** mit explizitem Schema: Herausgeber, Titel, Datum oder Stand, Fundstelle, Pinpoint, ggf. URL.
 6. **Reihenfolge mehrerer Rspr.-Belege** — erst Gerichtshierarchie (BVerfG → EuGH/EGMR → BGH/BAG/BSG/BFH/BVerwG → OLG/LAG/LSG/FG/OVG → LG/ArbG/SG/VG → AG), dann innerhalb derselben Ebene chronologisch absteigend.
 7. **Relevanzsortierung** als ausdrückliche Alternative zur Chronologie — dokumentintern konsistent.
-8. **Aufsätze** haben dauerhaften Wert. Sie tragen Dogmatik, Theorie, Rechtsphilosophie, soziale Gerechtigkeit und Gleichbehandlung — nicht „nur" aktuelle oder rechtsökonomische Fragen.
-9. **„h. M." und „Mindermeinung"** sind pragmatische Sprechweisen, keine wissenschaftlichen Wertungskategorien. Keine Stigmatisierung abweichender Auffassungen.
+8. **Aufsätze** haben dauerhaften Wert. Sie tragen Dogmatik, Theorie, Rechtsphilosophie, soziale Gerechtigkeit und Gleichbehandlung — nicht "nur" aktuelle oder rechtsökonomische Fragen.
+9. **"h. M." und "Mindermeinung"** sind pragmatische Sprechweisen, keine wissenschaftlichen Wertungskategorien. Keine Stigmatisierung abweichender Auffassungen.
 10. **Typografie** unterscheidet pragmatische Repository-Konvention von wissenschaftlicher Notation. Beides ist legitim, dokumentintern konsistent.
 11. **Verlag** bei Monographien und Festschriften.
 
@@ -32,7 +32,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
 3. Fertig. Skills sind sofort verfügbar.
 
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus „Code → Download ZIP" verwenden.
+> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 
 ## Enthaltene Skills
 

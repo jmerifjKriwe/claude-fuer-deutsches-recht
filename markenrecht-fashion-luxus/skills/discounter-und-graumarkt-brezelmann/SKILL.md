@@ -5,7 +5,7 @@ description: "Erschoepfungsdoktrin und Graumarkt-Kontrolle im Luxussegment: Mark
 
 # Erschöpfung, Graumarkt und Brezelmann-Strategie
 
-Brezelmann Discount KG (Bad Mergentheim) hat klôtzzkètté-Produkte über graue Kanäle bezogen und vertreibt sie nun im „Angebots-Regal" neben Haushaltsreinigern. Die Comtesse Beatrice de Klotzzkettie hat mich angerufen: „Das ist unerträglich für das Image." Die juristische Frage: Kann die Erschöpfung des Markenrechts hier durchbrochen werden?
+Brezelmann Discount KG (Bad Mergentheim) hat klôtzzkètté-Produkte über graue Kanäle bezogen und vertreibt sie nun im "Angebots-Regal" neben Haushaltsreinigern. Die Comtesse Beatrice de Klotzzkettie hat mich angerufen: "Das ist unerträglich für das Image." Die juristische Frage: Kann die Erschöpfung des Markenrechts hier durchbrochen werden?
 
 Erschöpfung ist das schwierigste Kapitel im Luxusmarkenrecht — aber es gibt legitime Angriffspunkte.
 
@@ -13,7 +13,7 @@ Erschöpfung ist das schwierigste Kapitel im Luxusmarkenrecht — aber es gibt l
 
 - **§ 24 MarkenG:** Erschöpfung im deutschen Recht — Markeninhaber kann Weitervertrieb nicht untersagen, wenn Ware mit Zustimmung in EWR in Verkehr gebracht wurde
 - **Art. 15 UMV:** Erschöpfung der Unionsmarke (inhaltsgleich)
-- **§ 24 II MarkenG / Art. 15 II UMV:** Erschöpfungsausnahme: „Berechtigte Gründe" des Inhabers — insbesondere Zustandsveränderungen oder Rufschädigung
+- **§ 24 II MarkenG / Art. 15 II UMV:** Erschöpfungsausnahme: "Berechtigte Gründe" des Inhabers — insbesondere Zustandsveränderungen oder Rufschädigung
 - **EuGH C-59/08 (Copad / Christian Dior):** Erschöpfung tritt nicht ein, wenn Lizenznehmer unter Verstoß gegen selektive Vertriebsklausel (Qualitätskriterien, Discounter-Verbot) verkauft hat; Dior konnte dem Weitervertrieb durch Copad widersprechen
 - **EuGH C-337/95 (Parfums Christian Dior / Evora):** Händler darf zum Weiterverkauf von Originalware werben; aber: Rufschädigende Darstellung rechtfertigt Unterlassungsanspruch (§ 24 II)
 - **EuGH C-349/95 (Loendersloot / Ballantine):** Umkennzeichnung von Parallelimporten — zulässig, wenn notwendig und kein Originalzustand beeinträchtigt
@@ -27,7 +27,7 @@ Erschöpfung ist das schwierigste Kapitel im Luxusmarkenrecht — aber es gibt l
    - Wenn JA: Grundsatz Erschöpfung — Weitervertrieb nicht verbietbar
    - Wenn NEIN: Keine Erschöpfung (z.B. Ware aus China-Markt ohne EU-Zulassung) → § 14 II MarkenG anwendbar
 
-2. **Erschöpfungsausnahme § 24 II MarkenG — „Berechtigte Gründe":**
+2. **Erschöpfungsausnahme § 24 II MarkenG — "Berechtigte Gründe":**
 
    **A — Rufschädigende Präsentation (§ 24 II Alt. 2):**
    - Brezelmann stellt klôtzzkètté-Handtasche zwischen Reinigungsmitteln und Schnäppchenware aus
@@ -46,13 +46,13 @@ Erschöpfung ist das schwierigste Kapitel im Luxusmarkenrecht — aber es gibt l
 3. **Graumarkt-Strategie — Präventiv:**
    - Serialisierung/Serialnummern auf allen Produkten
    - Track-and-Trace-System (QR-Code/NFC-Chip)
-   - Händlervertragsklausel: „Weiterverkauf ausschließlich an Endverbraucher; kein Verkauf an Großisten oder Händler außerhalb des Selektivvertriebs"
+   - Händlervertragsklausel: "Weiterverkauf ausschließlich an Endverbraucher; kein Verkauf an Großisten oder Händler außerhalb des Selektivvertriebs"
    - Menge pro Händler limitieren (verhindert Aufkauf für Graumarkt-Weitervertrieb)
 
 ## Falltypische Konstellationen
 
 ### Konstellation 1: Brezelmann im Sonderangebots-Regal
-Brezelmann kauft bei einem unauthorized Großhändler aus Osteuropa 200 klôtzzkètté-Schals (EWR-Ware, original). Stellt diese im Sonderangebots-Regal zwischen Reinigungsmitteln aus, Preisschild „79 Euro". Antrag auf Unterlassung gem. § 24 II MarkenG: Rufschädigende Darstellung + Irreführung (Preis suggeriert Ware sei minderwertig/Second-Hand).
+Brezelmann kauft bei einem unauthorized Großhändler aus Osteuropa 200 klôtzzkètté-Schals (EWR-Ware, original). Stellt diese im Sonderangebots-Regal zwischen Reinigungsmitteln aus, Preisschild "79 Euro". Antrag auf Unterlassung gem. § 24 II MarkenG: Rufschädigende Darstellung + Irreführung (Preis suggeriert Ware sei minderwertig/Second-Hand).
 
 ### Konstellation 2: Parallelimport aus Schweiz
 Importeur bringt klôtzzkètté-Parfum aus der Schweiz (nicht EWR) nach Deutschland. Keine EWR-Erschöpfung! § 14 II MarkenG greift: klôtzzkètté kann Einfuhr untersagen (Art. 15 I UMV: nur EWR-Erschöpfung, keine internationale Erschöpfung).

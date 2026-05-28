@@ -1,4 +1,4 @@
-# Testakte: Zwangsverwaltung Büro- und Geschäftshaus „Friedrichshöfe"
+# Testakte: Zwangsverwaltung Büro- und Geschäftshaus "Friedrichshöfe"
 
 ## ⬇️ Direkt-Download
 
@@ -16,7 +16,7 @@ Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus de
 | | |
 |---|---|
 | Aktenzeichen | AG Mitte von Berlin, 36 L 412/24 |
-| Objekt | Büro- und Geschäftshaus „Friedrichshöfe", Friedrichstraße 143–145, 10117 Berlin-Mitte |
+| Objekt | Büro- und Geschäftshaus "Friedrichshöfe", Friedrichstraße 143–145, 10117 Berlin-Mitte |
 | Gläubigerin | Alpenländische Hypotheken- und Handelsbank AG, Wien |
 | Schuldnerin | Kronprinz Friedrich Immobilien GmbH & Co. KG |
 | Zwangsverwalterin | RA Yara Solveig Lindqvist-Bähr, Berlin |

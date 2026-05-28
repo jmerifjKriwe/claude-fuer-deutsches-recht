@@ -25,7 +25,7 @@ Jede Rückfrage muss diese Punkte abdecken:
 
 > Was ist Ihrer Einschätzung nach der **wesentliche Lösungsbeitrag** Ihrer Erfindung gegenüber dem Ihnen bekannten Stand der Technik?
 
-Damit erschließt sich der Recherche-Fokus. Wenn der Mandant „alles ist neu" sagt: nachhaken — was ist das **eine** zentrale Merkmal, ohne das die Erfindung nicht funktioniert.
+Damit erschließt sich der Recherche-Fokus. Wenn der Mandant "alles ist neu" sagt: nachhaken — was ist das **eine** zentrale Merkmal, ohne das die Erfindung nicht funktioniert.
 
 ### 2. Anspruchsentwurf
 
@@ -35,7 +35,7 @@ Damit erschließt sich der Recherche-Fokus. Wenn der Mandant „alles ist neu" s
 
 > Gibt es **eigene frühere Veröffentlichungen, Anmeldungen, Vorträge, Messeauftritte, Datenblätter, Produktbroschüren** zu dieser Erfindung oder zu eng verwandten Lösungen? Wenn ja: Datum, Ort, Inhalt.
 
-Hintergrund: § 3 PatG kennt keine „eigene" Ausnahme. Eigene frühere Veröffentlichungen sind voll neuheitsschädlich. Sechs-Monats-Frist nach § 3 Abs. 5 PatG nur bei offensichtlichem Missbrauch oder amtlich anerkannter Ausstellung — eng auszulegen.
+Hintergrund: § 3 PatG kennt keine "eigene" Ausnahme. Eigene frühere Veröffentlichungen sind voll neuheitsschädlich. Sechs-Monats-Frist nach § 3 Abs. 5 PatG nur bei offensichtlichem Missbrauch oder amtlich anerkannter Ausstellung — eng auszulegen.
 
 ### 4. Zielmarkt / Territorien
 
@@ -77,7 +77,7 @@ Stichpunkte mit jeweils einer Frage und Platz für die Antwort des Mandanten.
 
 ### Variante B: Brief an den Mandanten
 
-Brief mit Anrede, kurzer Einleitung („wir bereiten die Recherche vor und benötigen folgende Klarstellungen"), Frageblock, Rückantwort-Bitte mit Frist, Schlussformel.
+Brief mit Anrede, kurzer Einleitung ("wir bereiten die Recherche vor und benötigen folgende Klarstellungen"), Frageblock, Rückantwort-Bitte mit Frist, Schlussformel.
 
 Vorlage:
 

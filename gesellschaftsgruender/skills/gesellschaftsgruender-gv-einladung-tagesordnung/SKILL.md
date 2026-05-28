@@ -31,7 +31,7 @@ Klaere vor Erstellung der Einladung:
 
 - **BGH, Urt. v. 11.02.2008 – II ZR 187/06, NJW 2008, 1680** — Beschluesse der GmbH koennen analog § 241 Nr. 1 AktG nichtig sein, wenn die Einberufung nicht an alle Gesellschafter ergangen ist; fehlende Einladung eines Gesellschafters fuehrt grundsaetzlich zur Nichtigkeit der gefassten Beschluesse.
 - **BGH, Urt. v. 07.06.1993 – II ZR 81/92, BGHZ 123, 15** — Eine zu kurze Einberufungsfrist (weniger als 1 Woche) fuehrt zur Anfechtbarkeit der Beschluesse; Heilung nach § 51 III GmbHG setzt Einverstaendnis aller Gesellschafter voraus.
-- **OLG Muenchen, Beschl. v. 29.03.2022 – 34 Wx 76/22, GmbHR 2022, 764** — Die Tagesordnung muss so konkret formuliert sein, dass die Gesellschafter den Gegenstand des Beschlusses erkennen koennen; ein Tagesordnungspunkt „Personalfragen" als Grundlage fuer eine Abberufungs-Abstimmung ist nicht ausreichend.
+- **OLG Muenchen, Beschl. v. 29.03.2022 – 34 Wx 76/22, GmbHR 2022, 764** — Die Tagesordnung muss so konkret formuliert sein, dass die Gesellschafter den Gegenstand des Beschlusses erkennen koennen; ein Tagesordnungspunkt "Personalfragen" als Grundlage fuer eine Abberufungs-Abstimmung ist nicht ausreichend.
 - **BGH, Urt. v. 24.11.2008 – II ZR 116/08, NZG 2009, 183** — Heilung einer fehlerhaften Einberufung durch Vollversammlung (§ 51 III GmbHG) erfordert, dass sich alle Gesellschafter in der Versammlung mit der Beschlussfassung einverstanden erklaeren; Schweigen eines Gesellschafters genuegt nicht.
 
 ## Kommentarliteratur

@@ -30,7 +30,7 @@ Wenn mehrere Entgegenhaltungen in Frage kommen: zur Plausibilitätskontrolle den
 
 ### Stufe 2: Objektive technische Aufgabe
 
-Differenz zwischen Anspruch und nächstliegendem Stand der Technik bilden — die **unterscheidenden Merkmale**. Aus diesen unterscheidenden Merkmalen wird die **technische Wirkung** abgeleitet und als „**objektive technische Aufgabe**" formuliert:
+Differenz zwischen Anspruch und nächstliegendem Stand der Technik bilden — die **unterscheidenden Merkmale**. Aus diesen unterscheidenden Merkmalen wird die **technische Wirkung** abgeleitet und als "**objektive technische Aufgabe**" formuliert:
 
 > Wie kann der nächstliegende Stand der Technik so weiterentwickelt werden, dass [technische Wirkung]?
 
@@ -45,7 +45,7 @@ Nicht: **könnte** (could). Sondern: **würde** (would). Der Fachmann muss eine 
 Die Frage hat zwei Teilaspekte:
 
 1. **Steht es im Stand der Technik?** Gibt es eine andere Entgegenhaltung, die das fehlende Merkmal lehrt?
-2. **Hätte der Fachmann zugegriffen?** Gibt es eine Anregung („pointer", „teaching", „suggestion") in der Entgegenhaltung oder im allgemeinen Fachwissen, die den Fachmann von Entgegenhaltung A zu Entgegenhaltung B führt?
+2. **Hätte der Fachmann zugegriffen?** Gibt es eine Anregung ("pointer", "teaching", "suggestion") in der Entgegenhaltung oder im allgemeinen Fachwissen, die den Fachmann von Entgegenhaltung A zu Entgegenhaltung B führt?
 
 ## Ablauf
 
@@ -72,7 +72,7 @@ Tabelle der unterscheidenden Merkmale gegenüber dem Closest-Prior-Art-Dokument.
 
 ### 4. Technische Wirkung der unterscheidenden Merkmale
 
-„Was bringt M6?" — z. B.: bessere Vorhersagegenauigkeit bei nicht-linearen Lastprofilen, robuster gegenüber Lastspitzen, Stabilität ohne manuelle Parameter-Tuning.
+"Was bringt M6?" — z. B.: bessere Vorhersagegenauigkeit bei nicht-linearen Lastprofilen, robuster gegenüber Lastspitzen, Stabilität ohne manuelle Parameter-Tuning.
 
 ### 5. Objektive technische Aufgabe formulieren
 
@@ -102,10 +102,10 @@ Wenn die Could-Would-Prüfung nahelegend ausfällt, aber dennoch Zweifel bestehe
 
 ## Hinweise
 
-- **EPA-Standardphrase:** „Could-would-approach." Im DPMA-/BPatG-Verfahren weniger formelhaft, aber inhaltlich gleich.
+- **EPA-Standardphrase:** "Could-would-approach." Im DPMA-/BPatG-Verfahren weniger formelhaft, aber inhaltlich gleich.
 - **Mehrfach-PSA.** Wenn mehrere CPA-Kandidaten denkbar: PSA für jeden, schwächste Position für die Mandantin maßgeblich.
 - **Mosaike** sind hier — anders als bei der Neuheit — **zulässig**, aber nur, wenn der Fachmann eine Verbindung gezogen hätte (Pointer aus CPA, allgemeines Fachwissen).
-- **Hindsight-Verbot.** Die Argumentation darf nicht auf die Mandanten-Anmeldung zurückblicken („wenn man weiß, wie es geht, ist es immer leicht").
+- **Hindsight-Verbot.** Die Argumentation darf nicht auf die Mandanten-Anmeldung zurückblicken ("wenn man weiß, wie es geht, ist es immer leicht").
 - **Fachmann ist Konstrukt** — die für das technische Gebiet zuständige Fachperson mit durchschnittlichen Kenntnissen und Zugang zum gesamten Stand der Technik. Bei interdisziplinären Erfindungen: **Fachteam** (T 32/81).
 
 ## Disclaimer

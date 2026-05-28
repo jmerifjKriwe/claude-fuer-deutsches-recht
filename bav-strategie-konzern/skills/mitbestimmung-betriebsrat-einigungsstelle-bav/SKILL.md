@@ -48,7 +48,7 @@ Mitbestimmungspflichtig ist die Aufstellung allgemeiner Beurteilungsgrundsätze 
 - Individualzusagen (§ 17 Abs. 1 S. 2 BetrAVG — leitende Angestellte)
 
 #### § 87 Abs. 1 Nr. 10 BetrVG — BAV-spezifisch
-Nr. 10 erfasst ausdrücklich „Fragen der betrieblichen Altersversorgung". Hierunter fallen:
+Nr. 10 erfasst ausdrücklich "Fragen der betrieblichen Altersversorgung". Hierunter fallen:
 - Änderungen der Versorgungsordnung
 - Wechsel des Durchführungswegs
 - Einführung/Abänderung von Entgeltumwandlungssystemen

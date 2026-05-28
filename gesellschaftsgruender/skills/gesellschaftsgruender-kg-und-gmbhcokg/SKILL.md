@@ -23,7 +23,7 @@ Klaere vor Empfehlung KG oder GmbH & Co. KG:
 - **§ 170 HGB** — Kommanditist: keine gesetzliche Vertretungsmacht
 - **§ 171 I HGB** — Hafteinlage: Begrenzung der Kommanditisten-Aussenhaftung
 - **§ 172 IV HGB** — Riickgewaehr einlagegelebter Betrage; Wiederaufleben Haftung
-- **§ 19 II HGB** — Pflicht-Namenszusatz „GmbH & Co. KG"
+- **§ 19 II HGB** — Pflicht-Namenszusatz "GmbH & Co. KG"
 - **§ 15 EStG** — Mitunternehmerschaft; Personengesellschaftsbesteuerung
 - **§ 15a EStG** — Verlustverrechnung Kommanditist bis zur Hoehe der Hafteinlage
 
@@ -97,7 +97,7 @@ Komplementaerin. Ihre Geschaeftsfuehrer sind
 ## Rote Schwellen
 
 - Reihenfolge nicht beachtet: KG ohne bestehende Komplementaer-GmbH scheitert beim HR
-- Firma ohne „GmbH & Co. KG"-Zusatz: irrefuehrend (§ 18 II HGB; Paragraf 19 II HGB)
+- Firma ohne "GmbH & Co. KG"-Zusatz: irrefuehrend (§ 18 II HGB; Paragraf 19 II HGB)
 - Hafteinlage-Rueckgewaehr: Wiederaufleben der Aussenhaftung (§ 172 IV HGB; BGH NJW 2000, 1197)
 - Sonderbetriebsvermoegen uebersehen: unerwartete Steuerpflicht fuer Kommanditisten
 

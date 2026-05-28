@@ -131,7 +131,7 @@ A. Strafbarkeit T wegen Diebstahl gemäß § 242 StGB
 ### Warum diese Reihenfolge?
 
 - **Vertraglich** vor **gesetzlich**: Vertrags-Anspruch ist regelmäßig spezieller
-- **Vorvertraglich** vor **dinglich**: c.i.c. wird oft als „neben-vertraglich" gerechnet
+- **Vorvertraglich** vor **dinglich**: c.i.c. wird oft als "neben-vertraglich" gerechnet
 - **Vor Bereicherung**: weil bei Vorliegen eines Vertrags Bereicherung typisch ausgeschlossen ist (Bestandsschutz Leistungs-Anspruch)
 
 ## Schritt 4 — Tiefe der Gliederung
@@ -195,7 +195,7 @@ C. Gegenanspruch B gegen A auf Lieferung mangelfreier Sache aus § 437 Nr. 1 BGB
 Wenn dieselbe Voraussetzung in zwei Anspruchs-Grundlagen geprüft wird:
 
 ✅ Beim ersten Mal vollständig prüfen.
-✅ Beim zweiten Mal verweisen: „Auf die Ausführungen unter A. I. wird verwiesen."
+✅ Beim zweiten Mal verweisen: "Auf die Ausführungen unter A. I. wird verwiesen."
 
 ### Problem 2: Tief-Verschachtelung
 

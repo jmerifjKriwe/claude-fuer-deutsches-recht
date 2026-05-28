@@ -29,7 +29,7 @@ Die DSGVO verpflichtet Verantwortliche nach Art. 5 Abs. 2 DSGVO zur Rechenschaft
 - In welchen Rechtsgebieten ist die Kanzlei schwerpunktmäßig tätig?
 - Werden Mandate mit besonders sensiblen personenbezogenen Daten bearbeitet (z.B. Strafrecht, Familienrecht, Gesundheitsrecht)?
 - Gibt es internationale Mandate, bei denen Daten in Drittstaaten übermittelt werden könnten?
-- Welche KI-Dienste oder Chatbots werden bereits genutzt (ggf. auch informell/„Schatten-KI")?
+- Welche KI-Dienste oder Chatbots werden bereits genutzt (ggf. auch informell/"Schatten-KI")?
 - Existiert ein Datenschutzbeauftragter? Ist dieser intern oder extern bestellt?
 - Existiert ein Berufsrechtsbeauftragter nach § 31 BORA?
 - Welche bestehenden IT-Sicherheitsrichtlinien oder Compliance-Dokumente gibt es?

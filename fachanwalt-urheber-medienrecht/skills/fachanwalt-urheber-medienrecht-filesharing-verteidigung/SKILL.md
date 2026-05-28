@@ -49,7 +49,7 @@ Verteidigung Verbraucher bei Filesharing-Abmahnung.
 
 - Bei Verbraucher und einfach gelagerter Verletzung: **Gegenstandswert 1.000 EUR** für Anwaltsgebuehren-Berechnung
 - Maximale Erstattung der Abmahnung: ca. 124 EUR Anwaltsgebuehren
-- BGH-Linie zu „einfach gelagert"
+- BGH-Linie zu "einfach gelagert"
 
 ## 5) Schadensersatz
 

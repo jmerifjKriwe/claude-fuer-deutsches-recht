@@ -78,7 +78,7 @@ Prüfen:
 
 - Sind alle Zahlen mathematisch konsistent (Hauptsumme = Summe der Teilbetraege)?
 - Sind Prozentsätze konsistent (z.B. Mwst. + Brutto = Netto + Mwst.)?
-- Sind alle Fristen kalendermaessig korrekt (z.B. „14 Tage ab Rechnungsdatum" konsistent mit „Fälligkeit 14 Tage nach Rechnung")?
+- Sind alle Fristen kalendermaessig korrekt (z.B. "14 Tage ab Rechnungsdatum" konsistent mit "Fälligkeit 14 Tage nach Rechnung")?
 - Sind die Fristen rechtswirksam (Verbraucher: Mindestlaufzeiten? Widerrufsrecht?)?
 - Stimmt das Schluss-Datum mit der Vertragsdauer?
 
@@ -90,7 +90,7 @@ Prüfen gegen typische AGB-Fallen und Klauselverbote:
 
 | Typ | Norm | Beispiel-Fall |
 |---|---|---|
-| Verzugszinsen über Basis + 9 % bei B2C | Paragraf 288 IV BGB | „12 % Verzugszinsen" -> Verstoß |
+| Verzugszinsen über Basis + 9 % bei B2C | Paragraf 288 IV BGB | "12 % Verzugszinsen" -> Verstoß |
 | Schadensersatzbeschraenkung auf Eigenleistung | Paragraf 309 Nr. 7a, b BGB | Ausschluss für Personenschäden -> nichtig |
 | Schiedsgerichtsklausel ohne Klarheit | Paragraf 1031 ZPO | Verbraucher ohne Sondervereinbarung -> nichtig |
 | Lange Bindungsfrist bei Verbrauchern | Paragraf 309 Nr. 9 BGB | Verlängerung > 1 Jahr automatisch -> Risiko |
@@ -113,7 +113,7 @@ Prüfen:
 
 Prüfen:
 
-- Ist die Vertragsart vom Mandanten freigegeben (z.B. „Generalvollmacht" benoetigt Sonderfreigabe)?
+- Ist die Vertragsart vom Mandanten freigegeben (z.B. "Generalvollmacht" benoetigt Sonderfreigabe)?
 - Ist die Vertretungsbefugnis dokumentiert?
 - Bei Höhen-Schwellen (z.B. Streitwert > 100.000 EUR): Gesellschafterbeschluss?
 - Bei sensiblen Klauseln (z.B. Wettbewerbsverbot, Geheimhaltung mit Vertragsstrafe): explizite Freigabe?

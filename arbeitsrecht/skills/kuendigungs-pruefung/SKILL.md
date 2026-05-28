@@ -76,7 +76,7 @@ Prüfschema:
 
 **B – Verhaltensbedingte Kündigung:**
 
-1. **Abmahnung vorausgegangen?** Grundsätzlich erforderlich außer bei schwerwiegenden Pflichtverletzungen (BAG, Urt. v. 10.06.2010 – 2 AZR 541/09, NZA 2010, 1227: „Emmely-Entscheidung" zur Interessenabwägung `[Modellwissen – prüfen]`)
+1. **Abmahnung vorausgegangen?** Grundsätzlich erforderlich außer bei schwerwiegenden Pflichtverletzungen (BAG, Urt. v. 10.06.2010 – 2 AZR 541/09, NZA 2010, 1227: "Emmely-Entscheidung" zur Interessenabwägung `[Modellwissen – prüfen]`)
 2. Abmahnung hinreichend bestimmt? (BAG, Urt. v. 19.11.2015 – 2 AZR 217/15, NZA 2016, 540: konkrete Schilderung, klare Verhaltenserwartung, Sanktionsandrohung `[Modellwissen – prüfen]`)
 3. **Interessenabwägung:** Schwere der Pflichtverletzung vs. Dauer der Beschäftigung, Sozialauswahl, Wiederholungsgefahr
 
@@ -142,7 +142,7 @@ Wesentliche Quellen:
 - Dörner/Vossen, in: KR, 13. Aufl. 2022, § 1 KSchG Rn. 1 ff. (Sozialauswahl)
 - Becker/Wolff, in: APS, 6. Aufl. 2021, § 1 KSchG Rn. 500 ff. (betriebsbedingte Kündigung)
 - Preis, in: ErfK, 24. Aufl. 2024, § 626 BGB Rn. 1 ff. (außerordentliche Kündigung)
-- BAG, Urt. v. 10.06.2010 – 2 AZR 541/09, NZA 2010, 1227 (Verhältnismäßigkeit, „Emmely")
+- BAG, Urt. v. 10.06.2010 – 2 AZR 541/09, NZA 2010, 1227 (Verhältnismäßigkeit, "Emmely")
 - BAG, Urt. v. 07.07.2011 – 2 AZR 476/10, NZA 2012, 150 (Leistungsträgerherausnahme)
 - BAG, Urt. v. 22.11.2012 – 2 AZR 371/11, NZA 2013, 437 (Massenentlassung)
 - BAG, Urt. v. 12.07.2007 – 2 AZR 716/06, NZA 2008, 173 (BEM)

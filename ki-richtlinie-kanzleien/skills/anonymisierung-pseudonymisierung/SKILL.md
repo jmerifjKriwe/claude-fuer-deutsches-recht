@@ -14,7 +14,7 @@ Erwägungsgrund 26 DSGVO: Anonymisierte Daten fallen nicht unter die DSGVO — a
 ## Vorgehen
 
 1. **Stufe 1 — Identifikation sensibler Informationen**: Vor dem Upload jedes Dokuments systematisch prüfen, welche Informationen Personenbezug aufweisen (Namen, Adressen, Geburtsdaten, Aktenzeichen, Kontonummern, Gesundheitsdaten etc.).
-2. **Stufe 2 — Schwärzung/Ersetzen durch Platzhalter**: Namen durch generische Bezeichnungen ersetzen (Mandant → „M1", Gegner → „G1", Zeuge → „Z1"), Adressen schwärzen, Aktenzeichen durch fiktive ersetzen.
+2. **Stufe 2 — Schwärzung/Ersetzen durch Platzhalter**: Namen durch generische Bezeichnungen ersetzen (Mandant → "M1", Gegner → "G1", Zeuge → "Z1"), Adressen schwärzen, Aktenzeichen durch fiktive ersetzen.
 3. **Stufe 3 — Konsistenz sicherstellen**: Bei Mehrfachverwendung desselben Dokuments oder mehrerer zusammenhängender Dokumente dieselben Platzhalter konsistent verwenden, damit der Kontext erhalten bleibt.
 4. **Stufe 4 — Re-Identifikationsrisiko prüfen**: Nach der Anonymisierung kritisch prüfen: Kann aus dem verbleibenden Kontext (Branche, Ort, besondere Umstände) dennoch auf die Person geschlossen werden? Falls ja, weitreichendere Schwärzungen vornehmen.
 5. **Stufe 5 — Dokumentation**: Anonymisierungsprozess in der Akte dokumentieren; wer hat anonymisiert, wann, nach welchem Schema?
@@ -27,12 +27,12 @@ Vor der Eingabe mandatsbezogener Informationen in KI-Systeme sind alle personenb
 
 **Baustein Platzhalter-Schema:**
 Beim Ersetzen personenbezogener Daten durch Platzhalter wird folgendes Schema verwendet:
-- Mandantinnen und Mandanten: „[Mandant-1]", „[Mandant-2]" etc.
-- Gegner: „[Gegner-1]", „[Gegner-2]" etc.
-- Zeuginnen und Zeugen: „[Zeuge-1]", „[Zeuge-2]" etc.
-- Unternehmen: „[Unternehmen-A]", „[Unternehmen-B]" etc.
-- Aktenzeichen: „[Az-1]", „[Az-2]" etc.
-- Adressen: „[Adresse-1]" etc.
+- Mandantinnen und Mandanten: "[Mandant-1]", "[Mandant-2]" etc.
+- Gegner: "[Gegner-1]", "[Gegner-2]" etc.
+- Zeuginnen und Zeugen: "[Zeuge-1]", "[Zeuge-2]" etc.
+- Unternehmen: "[Unternehmen-A]", "[Unternehmen-B]" etc.
+- Aktenzeichen: "[Az-1]", "[Az-2]" etc.
+- Adressen: "[Adresse-1]" etc.
 
 **Baustein Re-Identifikationscheck:**
 Nach abgeschlossener Anonymisierung ist das Dokument von einer zweiten Person auf verbliebene Re-Identifikationsrisiken zu überprüfen (Vier-Augen-Prinzip). Besonders kritisch zu prüfen sind seltene Kombinationen von Merkmalen (z.B. spezifische Branche + bestimmter Regionalmarkt + besonderes Schadensgeschehen), die auch ohne Namen zur Identifizierung führen können.

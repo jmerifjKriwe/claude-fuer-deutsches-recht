@@ -98,10 +98,10 @@ Der BGH hat in diesem Urteil drei Leitsätze aufgestellt:
 | **b)** | Ein qES-Dokument entspricht der Schriftform des § 568 Abs. 1 BGB, wenn die Signaturanforderungen (eIDAS, § 126a BGB) erfüllt sind |
 | **c)** | **Der Ausdruck eines qES-Dokuments mit Transfervermerk nach § 298 Abs. 3 ZPO bewirkt den formgerechten Zugang beim Erklärungsgegner nicht** — der Empfänger kann die Signatur am Ausdruck nicht prüfen |
 
-### Das „Aufpasspflicht"-Argument des Mieters
+### Das "Aufpasspflicht"-Argument des Mieters
 
 Eberhart-Wolframshausen argumentierte in seiner eigenhändigen Klageerwiderung — ohne Anwalt:
-*„Das ELEKTRONISCHE Dokument muss beim Empfänger ankommen. Nicht ein Ausdruck."*
+*"Das ELEKTRONISCHE Dokument muss beim Empfänger ankommen. Nicht ein Ausdruck."*
 Er verwies auf § 130 BGB: Zugang muss in der Form erfolgen, die die Formvorschrift voraussetzt.
 Der BGH bestätigte dieses Argument 2024 als Leitsatz c).
 

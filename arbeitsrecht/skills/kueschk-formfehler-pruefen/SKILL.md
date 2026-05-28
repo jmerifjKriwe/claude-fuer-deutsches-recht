@@ -26,7 +26,7 @@ description: "Formfehler-Prüfung bei Kündigungen: Schriftform § 623 BGB; Voll
 ## Aktuelle Rechtsprechung
 
 - BAG, Urt. v. 14.04.2011 – 6 AZR 727/09, NZA 2011, 806 — Kündigung per Telefax verstößt gegen § 623 BGB; ein Telefax enthält zwar eine Kopie der Unterschrift, aber nicht die eigenhändig unterzeichnete Originalurkunde; die Nichtigkeit nach § 125 BGB ist nicht heilbar.
-- BAG, Urt. v. 14.11.2013 – 6 AZR 688/12, NZA 2014, 196 — Vollmachtsrüge nach § 174 BGB: Die Zurückweisung muss unverzüglich nach Zugang der Kündigung erfolgen; „unverzüglich" bedeutet ohne schuldhaftes Zögern (§ 121 Abs. 1 BGB); mehr als eine Woche ohne besonderes Hindernis ist regelmäßig nicht mehr unverzüglich.
+- BAG, Urt. v. 14.11.2013 – 6 AZR 688/12, NZA 2014, 196 — Vollmachtsrüge nach § 174 BGB: Die Zurückweisung muss unverzüglich nach Zugang der Kündigung erfolgen; "unverzüglich" bedeutet ohne schuldhaftes Zögern (§ 121 Abs. 1 BGB); mehr als eine Woche ohne besonderes Hindernis ist regelmäßig nicht mehr unverzüglich.
 - BAG, Urt. v. 22.09.2016 – 2 AZR 700/15, NZA 2017, 175 — Betriebsratsanhörung nach § 102 BetrVG: Unvollständige Mitteilung der Sozialdaten des Arbeitnehmers oder des Kündigungsgrunds macht die Anhörung fehlerhaft; die Kündigung ist dann nach § 102 Abs. 1 Satz 3 BetrVG unwirksam, auch wenn der Arbeitgeber den BR informiert hat.
 - BAG, Urt. v. 13.06.2019 – 6 AZR 459/18, NZA 2019, 1270 — Massenentlassungsanzeige nach § 17 KSchG: Die Anzeige muss vor Zugang der Kündigung bei der Agentur für Arbeit eingegangen sein; eine nach Ausspruch der Kündigung eingegangene Anzeige heilt den Fehler nicht; alle betroffenen Kündigungen sind unwirksam.
 

@@ -27,7 +27,7 @@ Der vollstreckbare Tabellenauszug ist ein eigener Titel (§ 201 Abs. 2 Satz 1 In
 
 ## Workflow
 
-1. **Tabellenauszug prüfen**: Ist die Forderung mit dem Vermerk „festgestellt" eingetragen, nicht „bestritten"? Bestreitet der Insolvenzverwalter, aber nicht der Schuldner – Titel gegen Schuldner trotzdem entstanden.
+1. **Tabellenauszug prüfen**: Ist die Forderung mit dem Vermerk "festgestellt" eingetragen, nicht "bestritten"? Bestreitet der Insolvenzverwalter, aber nicht der Schuldner – Titel gegen Schuldner trotzdem entstanden.
 2. **Verfahrensstand**: Verfahren aufgehoben/eingestellt? Vollstreckung erst danach zulässig (§ 89 InsO greift bis dahin).
 3. **Restschuldbefreiung**:
    - **Nicht erteilt** (versagt oder Verfahren nach IK-Plan): freie Vollstreckung.
@@ -42,7 +42,7 @@ Der vollstreckbare Tabellenauszug ist ein eigener Titel (§ 201 Abs. 2 Satz 1 In
 
 § 302 InsO listet die nicht erfassten Forderungen:
 
-1. Deliktische Forderungen aus vorsätzlich unerlaubter Handlung – **Eintragung mit Vermerk „aus vorsätzlich begangener unerlaubter Handlung"** ist Voraussetzung.
+1. Deliktische Forderungen aus vorsätzlich unerlaubter Handlung – **Eintragung mit Vermerk "aus vorsätzlich begangener unerlaubter Handlung"** ist Voraussetzung.
 2. Geldstrafen, Geldbußen, Ordnungs- und Zwangsgelder.
 3. Hinterzogene Steuern, sofern Verurteilung.
 4. Pflichtwidrige Unterhaltsforderungen.

@@ -242,11 +242,11 @@ Irreversibilität bei Verweigerung der Signatur-Mitwirkung.
 
 | Gegenargument Exchange / Miterbe | Reaktion |
 |----------------------------------|---------|
-| „Konto ist höchstpersönlich, nicht vererblich" | BGH III ZR 183/17: digitale Vermögenswerte vererben sich nach § 1922 BGB; AGB-Klauseln die Vererblichkeit ausschließen sind unwirksam |
-| „Keine Legitimation ohne Erbschein" | Erbschein bei unstreitigem Testament nicht erforderlich; öffentliches Testament + Eröffnungsprotokoll reicht |
-| „Assets sind wertlos wegen verlorenem Schlüssel" | Erbschaftsteuerrechtliche Korrektur durch Nachweis faktischer Unzugänglichkeit; ggf. § 12 Abs. 4 BewG |
-| „Staking-Erträge nicht steuerbar" | BMF 22.11.2024: Staking = steuerbare Einkunft § 22 Nr. 3 EStG |
-| „Jahresfrist beginnt neu mit Erbfall" | BFH IX R 3/22: Frist läuft ab Erblasser-Erwerb weiter; Erbe tritt in steuerliche Kontinuität |
+| "Konto ist höchstpersönlich, nicht vererblich" | BGH III ZR 183/17: digitale Vermögenswerte vererben sich nach § 1922 BGB; AGB-Klauseln die Vererblichkeit ausschließen sind unwirksam |
+| "Keine Legitimation ohne Erbschein" | Erbschein bei unstreitigem Testament nicht erforderlich; öffentliches Testament + Eröffnungsprotokoll reicht |
+| "Assets sind wertlos wegen verlorenem Schlüssel" | Erbschaftsteuerrechtliche Korrektur durch Nachweis faktischer Unzugänglichkeit; ggf. § 12 Abs. 4 BewG |
+| "Staking-Erträge nicht steuerbar" | BMF 22.11.2024: Staking = steuerbare Einkunft § 22 Nr. 3 EStG |
+| "Jahresfrist beginnt neu mit Erbfall" | BFH IX R 3/22: Frist läuft ab Erblasser-Erwerb weiter; Erbe tritt in steuerliche Kontinuität |
 
 ## Streitwert und Kosten
 

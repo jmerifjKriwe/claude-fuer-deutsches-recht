@@ -25,10 +25,10 @@ Mandanten verstehen Bescheide nicht — und nicht selten auch Anwaltspost nicht.
 ## Pflichtelemente jedes Briefs
 
 1. **Anrede persönlich** (Frau / Herr, keine Floskeln)
-2. **Tenor in einem Satz** („Die Krankenkasse hat Ihren Antrag abgelehnt.")
+2. **Tenor in einem Satz** ("Die Krankenkasse hat Ihren Antrag abgelehnt.")
 3. **Begründung in maximal drei Sätzen**
-4. **Konkrete Frist als Datum** (nicht „innerhalb eines Monats", sondern „bis Mittwoch, dem 15. Juli 2026")
-5. **Konkrete nächste Handlung** („Bitte unterschreiben Sie das beigelegte Formular und bringen es bis [Datum] in unser Buero.")
+4. **Konkrete Frist als Datum** (nicht "innerhalb eines Monats", sondern "bis Mittwoch, dem 15. Juli 2026")
+5. **Konkrete nächste Handlung** ("Bitte unterschreiben Sie das beigelegte Formular und bringen es bis [Datum] in unser Buero.")
 6. **Telefonzeit der Anwaltskanzlei**
 7. **Hinweis auf Eilbedarf falls vorhanden**
 
@@ -148,7 +148,7 @@ Olaf Tannenberg ist Diplom-Ingenieur, Standardbrief reicht. Seine Mutter Margare
 
 1. Sprachkompetenz-Level des Mandanten: B1, A2 oder Leichte Sprache? — kurze Rückfrage an Mandant oder Betreuungsperson
 2. Kognitive Einschränkung oder Betreuung? — bei rechtlicher Betreuung Brief an Betreuer adressieren, Kopie an Mandanten
-3. Ist die Frist im Brief ein konkretes Datum (nicht „innerhalb eines Monats")? — Pflicht
+3. Ist die Frist im Brief ein konkretes Datum (nicht "innerhalb eines Monats")? — Pflicht
 4. Hat Mandant eine Vertrauensperson, die bei der Umsetzung des nächsten Schritts hilft?
 5. Übersetzungsbedarf? (§ 19 VwVfG / § 61 SGB X — bei Sprachbarriere)
 

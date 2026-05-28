@@ -236,11 +236,11 @@ Dem Antrag liegt ein Sanierungsplan gemäß § 270 Abs. 2 Nr. 3 InsO bei.
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „Schweigerecht gilt auch im Insolvenzverfahren" | Nein; § 97 InsO normiert ausdrücklich Mitwirkungspflicht; Schweigerecht aus § 136 StPO gilt nur im Strafverfahren |
-| „§ 97 Abs. 1 S. 3 InsO schützt vollständig vor Strafverfolgung" | Nein; Verwertungsverbot gilt nur für erzwungene Auskünfte, nicht für freiwillig gemachte Angaben (BGH IX ZB 37/12) |
-| „Insolvenz stoppt den Vermögensarrest automatisch" | Grundsätzlich ja (§ 111i StPO), aber Einziehungsanspruch des Staates bleibt bestehen; er wird zum Insolvenzgläubiger |
-| „Restschuldbefreiung befreit auch von Steuerschulden" | Nein; § 302 Nr. 1 InsO schließt vorsätzlich begangene unerlaubte Handlungen aus; Steuerhinterziehung ist § 370 AO = unerlaubte Handlung |
-| „Eigenverwaltung schadet den Gläubigern" | § 270 InsO sieht vor, dass Eigenverwaltung angeordnet wird wenn kein Nachteil für Gläubiger; Beweislast liegt beim Widersprechenden |
+| "Schweigerecht gilt auch im Insolvenzverfahren" | Nein; § 97 InsO normiert ausdrücklich Mitwirkungspflicht; Schweigerecht aus § 136 StPO gilt nur im Strafverfahren |
+| "§ 97 Abs. 1 S. 3 InsO schützt vollständig vor Strafverfolgung" | Nein; Verwertungsverbot gilt nur für erzwungene Auskünfte, nicht für freiwillig gemachte Angaben (BGH IX ZB 37/12) |
+| "Insolvenz stoppt den Vermögensarrest automatisch" | Grundsätzlich ja (§ 111i StPO), aber Einziehungsanspruch des Staates bleibt bestehen; er wird zum Insolvenzgläubiger |
+| "Restschuldbefreiung befreit auch von Steuerschulden" | Nein; § 302 Nr. 1 InsO schließt vorsätzlich begangene unerlaubte Handlungen aus; Steuerhinterziehung ist § 370 AO = unerlaubte Handlung |
+| "Eigenverwaltung schadet den Gläubigern" | § 270 InsO sieht vor, dass Eigenverwaltung angeordnet wird wenn kein Nachteil für Gläubiger; Beweislast liegt beim Widersprechenden |
 
 ---
 

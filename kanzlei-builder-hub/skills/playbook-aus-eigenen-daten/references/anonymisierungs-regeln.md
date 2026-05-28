@@ -21,15 +21,15 @@
 |---|---|
 | Datumsangaben | Pseudonymisierung relativ (`T0`, `T0+14`, `T0+30`) — absolute Daten nur, wenn rechtlich erforderlich (Fristbezug). |
 | Beträge | Auf nächsten 100/1.000-Schritt runden bei < 100.000 €, 10.000-Schritt darüber. |
-| Standorte | Stadt → Bundesland-Aggregat („Mandantin in NRW") außer wo Gerichtsstand entscheidend. |
-| Branchen | Auf Branchen-Cluster reduzieren (z. B. „Maschinenbau-Zulieferer" statt konkreter Firma). |
+| Standorte | Stadt → Bundesland-Aggregat ("Mandantin in NRW") außer wo Gerichtsstand entscheidend. |
+| Branchen | Auf Branchen-Cluster reduzieren (z. B. "Maschinenbau-Zulieferer" statt konkreter Firma). |
 | Mitarbeiterzahlen | Auf KSchG-relevante Schwellen reduzieren (`> 10`, `> 20`, `> 500`). |
 
 ## Stufe 3 — Inhaltliche Schutzfilter
 
 - **Geschäftsgeheimnisse** (i. S. v. § 2 Nr. 1 GeschGehG): jede explizite
-  Kennzeichnung als „vertraulich", „strictly confidential",
-  „Geschäftsgeheimnis" → automatischer Ausschluss der Passage aus dem
+  Kennzeichnung als "vertraulich", "strictly confidential",
+  "Geschäftsgeheimnis" → automatischer Ausschluss der Passage aus dem
   Spielbuch.
 - **Strafverfahren**: Verfahrensstand, Schuldfeststellungen,
   Persönlichkeitsdaten Beschuldigter werden vollständig entfernt

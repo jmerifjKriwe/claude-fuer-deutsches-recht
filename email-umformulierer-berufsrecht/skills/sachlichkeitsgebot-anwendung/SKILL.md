@@ -17,7 +17,7 @@ Erlaubte Kritik ist sachbezogen, bezieht sich auf nachprüfbare Tatsachen oder k
 
 ## Tatsachenbehauptungen vs. Werturteile
 
-Tatsachenbehauptungen sind einer Wahrheitsprüfung zugänglich und müssen wahr sein oder zumindest auf ausreichenden tatsächlichen Anhaltspunkten beruhen. Werturteile sind Meinungsäußerungen, die verfassungsrechtlich durch Art. 5 Abs. 1 GG geschützt sind — aber auch Werturteile können in Schmähkritik umschlagen. Die Aussage „Ihr Schriftsatz enthält keine Auseinandersetzung mit § 284 BGB" ist eine prüfbare Tatsachenbehauptung. Die Aussage „Ihr Schriftsatz ist eine Frechheit" ist ein Werturteil, das keine sachliche Auseinandersetzung enthält.
+Tatsachenbehauptungen sind einer Wahrheitsprüfung zugänglich und müssen wahr sein oder zumindest auf ausreichenden tatsächlichen Anhaltspunkten beruhen. Werturteile sind Meinungsäußerungen, die verfassungsrechtlich durch Art. 5 Abs. 1 GG geschützt sind — aber auch Werturteile können in Schmähkritik umschlagen. Die Aussage "Ihr Schriftsatz enthält keine Auseinandersetzung mit § 284 BGB" ist eine prüfbare Tatsachenbehauptung. Die Aussage "Ihr Schriftsatz ist eine Frechheit" ist ein Werturteil, das keine sachliche Auseinandersetzung enthält.
 
 ## BVerfG-Rechtsprechung
 
@@ -29,14 +29,14 @@ Das Bundesverfassungsgericht hat in der Entscheidung 1 BvR 2477/08 bestätigt, d
 
 ## Beispiele Vorher/Nachher
 
-**Vorher:** „Das Gericht hat offensichtlich nicht einmal die Klageschrift gelesen."
-**Nachher:** Werturteil mit sachlichem Bezug zulässig, wenn begründet. Besser: „Die Urteilsbegründung geht auf den Vortrag unter Ziffer 3 der Klageschrift nicht ein."
+**Vorher:** "Das Gericht hat offensichtlich nicht einmal die Klageschrift gelesen."
+**Nachher:** Werturteil mit sachlichem Bezug zulässig, wenn begründet. Besser: "Die Urteilsbegründung geht auf den Vortrag unter Ziffer 3 der Klageschrift nicht ein."
 
-**Vorher:** „Die Gegenpartei handelt rechtsmissbräuchlich und verwerflich."
-**Nachher:** Tatsachenbehauptung; Rechtsmissbrauch muss konkret belegt werden. Konform: „Es bestehen Anhaltspunkte für rechtsmissbräuchliches Verhalten, insbesondere aufgrund von X."
+**Vorher:** "Die Gegenpartei handelt rechtsmissbräuchlich und verwerflich."
+**Nachher:** Tatsachenbehauptung; Rechtsmissbrauch muss konkret belegt werden. Konform: "Es bestehen Anhaltspunkte für rechtsmissbräuchliches Verhalten, insbesondere aufgrund von X."
 
-**Vorher:** „Ich erwarte von einem Richter, dass er das Gesetz kennt."
-**Nachher:** Herabsetzend. Konform: „Ich bitte das Gericht, die Ausführungen zu § 284 BGB in der Berufungsbegründung zu berücksichtigen."
+**Vorher:** "Ich erwarte von einem Richter, dass er das Gesetz kennt."
+**Nachher:** Herabsetzend. Konform: "Ich bitte das Gericht, die Ausführungen zu § 284 BGB in der Berufungsbegründung zu berücksichtigen."
 
 ## Ausgabeformat
 

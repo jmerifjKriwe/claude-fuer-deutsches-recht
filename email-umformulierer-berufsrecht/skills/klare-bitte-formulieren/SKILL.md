@@ -32,19 +32,19 @@ Dieser Skill wandelt fordernde, vorwurfsvolle oder unklare Handlungsaufforderung
 
 ## Anatomie einer guten Bitte
 
-Eine wirksame Bitte enthält folgende Elemente: (1) klare Beschreibung des Gewünschten (Was soll getan werden?), (2) Frist oder Zeitrahmen (Bis wann?), (3) Adressat oder Zuständigkeit (Von wem?), (4) ggf. Begründung (Warum?), (5) optionaler Ausblick auf Folgeschritte. Beispiel: „Ich darf Sie bitten, mir die Originalrechnung vom TT.MM.JJJJ bis TT.MM.JJJJ zu übersenden, da ich diese für die Einreichung bei Gericht benötige."
+Eine wirksame Bitte enthält folgende Elemente: (1) klare Beschreibung des Gewünschten (Was soll getan werden?), (2) Frist oder Zeitrahmen (Bis wann?), (3) Adressat oder Zuständigkeit (Von wem?), (4) ggf. Begründung (Warum?), (5) optionaler Ausblick auf Folgeschritte. Beispiel: "Ich darf Sie bitten, mir die Originalrechnung vom TT.MM.JJJJ bis TT.MM.JJJJ zu übersenden, da ich diese für die Einreichung bei Gericht benötige."
 
 ## Höflichkeitshierarchie
 
-Höflich: „Ich bitte Sie, X bis TT.MM.JJJJ zu übermitteln." Sehr höflich: „Ich darf Sie höflich bitten, mir X bis TT.MM.JJJJ zu übersenden." Förmlich: „Ich erlaube mir, Sie aufzufordern, X bis TT.MM.JJJJ vorzulegen." Distanziert-förmlich: „Ich fordere Sie hiermit auf, X bis TT.MM.JJJJ zu übermitteln." Die Wahl der Stufe hängt vom Kontext, der Dringlichkeit und der Vorgeschichte ab.
+Höflich: "Ich bitte Sie, X bis TT.MM.JJJJ zu übermitteln." Sehr höflich: "Ich darf Sie höflich bitten, mir X bis TT.MM.JJJJ zu übersenden." Förmlich: "Ich erlaube mir, Sie aufzufordern, X bis TT.MM.JJJJ vorzulegen." Distanziert-förmlich: "Ich fordere Sie hiermit auf, X bis TT.MM.JJJJ zu übermitteln." Die Wahl der Stufe hängt vom Kontext, der Dringlichkeit und der Vorgeschichte ab.
 
 ## Typische Umformulierungen
 
-Statt „Schicken Sie das endlich!" → „Ich bitte um Übersendung bis TT.MM.JJJJ." Statt „Warum machen Sie das nicht?" → „Ich bitte um eine Rückmeldung, ob und bis wann X erledigt werden kann." Statt „Das muss sofort passieren!" → „Ich bitte um vorrangige Bearbeitung bis TT.MM.JJJJ." Statt „Wo bleibt meine Antwort?" → „Auf meine Anfrage vom TT.MM.JJJJ habe ich noch keine Rückmeldung erhalten; ich bitte um Nachricht." Statt „Sie MÜSSEN mir das erklären." → „Ich bitte um Erläuterung des Sachverhalts."
+Statt "Schicken Sie das endlich!" → "Ich bitte um Übersendung bis TT.MM.JJJJ." Statt "Warum machen Sie das nicht?" → "Ich bitte um eine Rückmeldung, ob und bis wann X erledigt werden kann." Statt "Das muss sofort passieren!" → "Ich bitte um vorrangige Bearbeitung bis TT.MM.JJJJ." Statt "Wo bleibt meine Antwort?" → "Auf meine Anfrage vom TT.MM.JJJJ habe ich noch keine Rückmeldung erhalten; ich bitte um Nachricht." Statt "Sie MÜSSEN mir das erklären." → "Ich bitte um Erläuterung des Sachverhalts."
 
 ## Fristen wirksam setzen
 
-Eine Frist ist nur wirksam, wenn sie eindeutig (TT.MM.JJJJ, nicht „bald"), realistisch und nachvollziehbar begründet ist. Fristen, die zu knapp bemessen sind, riskieren, als schikanös wahrgenommen zu werden und die Kooperationsbereitschaft zu untergraben.
+Eine Frist ist nur wirksam, wenn sie eindeutig (TT.MM.JJJJ, nicht "bald"), realistisch und nachvollziehbar begründet ist. Fristen, die zu knapp bemessen sind, riskieren, als schikanös wahrgenommen zu werden und die Kooperationsbereitschaft zu untergraben.
 
 ## Berufsrechtlicher Hintergrund
 
@@ -52,14 +52,14 @@ Eine Frist ist nur wirksam, wenn sie eindeutig (TT.MM.JJJJ, nicht „bald"), rea
 
 ## Beispiele Vorher/Nachher
 
-**Vorher:** „Schicken Sie mir SOFORT die Unterlagen!!!"
-**Nachher:** „Ich bitte Sie, mir die Unterlagen bis TT.MM.JJJJ zu übersenden."
+**Vorher:** "Schicken Sie mir SOFORT die Unterlagen!!!"
+**Nachher:** "Ich bitte Sie, mir die Unterlagen bis TT.MM.JJJJ zu übersenden."
 
-**Vorher:** „Ich verlange eine Antwort noch heute."
-**Nachher:** „Ich bitte um Ihre Rückmeldung bis zum heutigen Tag, spätestens jedoch bis TT.MM.JJJJ."
+**Vorher:** "Ich verlange eine Antwort noch heute."
+**Nachher:** "Ich bitte um Ihre Rückmeldung bis zum heutigen Tag, spätestens jedoch bis TT.MM.JJJJ."
 
-**Vorher:** „Das ist Ihre Pflicht, das zu tun!"
-**Nachher:** „Nach meiner Auffassung obliegt Ihnen die Erfüllung der vereinbarten Pflicht X; ich darf Sie um entsprechende Ausführung bis TT.MM.JJJJ bitten."
+**Vorher:** "Das ist Ihre Pflicht, das zu tun!"
+**Nachher:** "Nach meiner Auffassung obliegt Ihnen die Erfüllung der vereinbarten Pflicht X; ich darf Sie um entsprechende Ausführung bis TT.MM.JJJJ bitten."
 
 ## Ausgabeformat
 

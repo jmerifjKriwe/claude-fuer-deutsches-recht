@@ -9,7 +9,7 @@ description: "Unterstützt beim Verfassen und Prüfen von UWG-Abmahnungen nach �
 
 Dieser Skill unterstützt Rechtsanwält:innen bei der Ausarbeitung einer wettbewerbsrechtlichen
 Abmahnung nach § 13 UWG, der Formulierung einer modifizierten Unterlassungserklärung (sog.
-„Hamburger Brauch") und der Erstellung einer Schutzschrift gegen eine drohende einstweilige
+"Hamburger Brauch") und der Erstellung einer Schutzschrift gegen eine drohende einstweilige
 Verfügung. Anwendungsfelder sind Verstöße gegen §§ 3 ff. UWG (irreführende Werbung,
 vergleichende Werbung, aggressive Geschäftspraktiken), Verletzungen von Kennzeichenrechten im
 lauterkeitsrechtlichen Kontext sowie Verstöße gegen § 5a UWG (Informationspflichten).
@@ -44,17 +44,17 @@ Das Modell benötigt folgende Informationen:
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 17.07.2008 – I ZR 219/05, GRUR 2008, 996 – „Clone-CD": Anforderungen an die
+- BGH, Urt. v. 17.07.2008 – I ZR 219/05, GRUR 2008, 996 – "Clone-CD": Anforderungen an die
   Wiederholungsgefahr und die Beseitigungswirkung einer Unterlassungserklärung; eine
   eingeschränkt abgegebene UE beseitigt die Wiederholungsgefahr nur für den konkret bezeichneten
   Verletzungsfall.
-- BGH, Urt. v. 11.06.2015 – I ZR 7/14, GRUR 2016, 526 – „Fressnapf": Zur Auslegung der
+- BGH, Urt. v. 11.06.2015 – I ZR 7/14, GRUR 2016, 526 – "Fressnapf": Zur Auslegung der
   Reichweite einer strafbewehrten Unterlassungserklärung; der Gläubiger muss konkret
   beschreiben, welche zukünftigen Handlungen erfasst sein sollen.
-- BGH, Urt. v. 26.01.2017 – I ZR 217/15, GRUR 2017, 918 Rn. 12 – „Vollständigkeit der
+- BGH, Urt. v. 26.01.2017 – I ZR 217/15, GRUR 2017, 918 Rn. 12 – "Vollständigkeit der
   Abmahnung": Die Abmahnung muss die beanstandete Verletzungshandlung so klar bezeichnen, dass
   der Abgemahnte die Berechtigung prüfen kann; andernfalls ist die Abmahnung unbeachtlich.
-- BGH, Urt. v. 04.03.2021 – I ZR 60/20, GRUR 2021, 752 Rn. 18 – „Bestellbestätigung I": Zur
+- BGH, Urt. v. 04.03.2021 – I ZR 60/20, GRUR 2021, 752 Rn. 18 – "Bestellbestätigung I": Zur
   Dringlichkeitsvermutung im einstweiligen Verfügungsverfahren; selbst nach UWG-Reform 2021
   gilt die Dringlichkeitsfrist von 1 Monat ab Kenntnis als maßgeblich.
 
@@ -89,7 +89,7 @@ Das Modell benötigt folgende Informationen:
    - Aufforderung zur Abgabe einer strafbewehrten Unterlassungserklärung
 5. **Entwurf der modifizierten Unterlassungserklärung** (Hamburger Brauch):
    - Benennung der konkreten Verletzungshandlung
-   - Vertragsstrafe nach Wahl des Gläubigers oder „angemessene Strafe", Mindestbetrag EUR 5.001
+   - Vertragsstrafe nach Wahl des Gläubigers oder "angemessene Strafe", Mindestbetrag EUR 5.001
    - Korrektivklausel (Gericht kann Strafe auf EUR 2.500 reduzieren § 342 BGB analog)
    - Reichweite: kerngleiche Verletzungshandlungen einschließen
 6. **Prüfung einer Schutzschrift** (§ 945a ZPO): Wenn Gegenabmahnung droht oder Antrag auf
@@ -112,18 +112,18 @@ Das Modell gibt folgende Dokumente aus:
 
 ## Beispiel
 
-**Sachverhalt**: Die Musterprint GmbH bewirbt ihre Druckprodukte online mit „Testersieger Stiftung
+**Sachverhalt**: Die Musterprint GmbH bewirbt ihre Druckprodukte online mit "Testersieger Stiftung
 Warentest 2023". Das Testergebnis stammt tatsächlich aus 2018 und ist nicht auf das aktuelle
 Produkt übertragbar. Der Mandant, die Quickprint AG, ist Mitbewerber im selben Marktsegment.
 
 **Prüfung (Gutachtenstil)**:
 
-*§ 5 Abs. 1 S. 2 Nr. 1 UWG – Irreführung über die Beschaffenheit*: Die Angabe „Testersieger
+*§ 5 Abs. 1 S. 2 Nr. 1 UWG – Irreführung über die Beschaffenheit*: Die Angabe "Testersieger
 Stiftung Warentest 2023" ist eine Angabe über wesentliche Merkmale des Produkts (Qualität,
 Prüfungsdatum). Sie ist unwahr, da das Testergebnis aus 2018 stammt. Die angesprochenen
 Verkehrskreise verstehen die Jahreszahl als Beleg eines aktuellen Tests; eine irreführende
 Wirkung ist nach dem Erfahrungssatz des BGH zu bejahen (BGH, Urt. v. 11.06.2015 – I ZR 7/14,
-GRUR 2016, 526 Rn. 14 – „Fressnapf"). Die Wiederholungsgefahr folgt aus dem fortgesetzten
+GRUR 2016, 526 Rn. 14 – "Fressnapf"). Die Wiederholungsgefahr folgt aus dem fortgesetzten
 Einsatz der Werbung.
 
 *Aktivlegitimation (§ 8 Abs. 3 Nr. 1 UWG)*: Die Quickprint AG steht mit der Musterprint GmbH
@@ -157,5 +157,5 @@ Jede juristische Aussage in Abmahnschreiben, Memos und Schriftsätzen ist nach
 `references/zitierweise.md` zu belegen. Rechtsprechungszitate im BGH-Stil (Gericht, Datum,
 Az., Fundstelle, Rn., ggf. Kurzbezeichnung). Kommentarzitate mit Bearbeiter, Werk, Auflage,
 § und Rn. Bei umstrittenen Fragen (z. B. Reichweite der Kerngleichheit, Höhe der Vertragsstrafe)
-h. M. und Mindermeinung getrennt darstellen. Keine pauschalen „vgl."-Verweise ohne konkrete
+h. M. und Mindermeinung getrennt darstellen. Keine pauschalen "vgl."-Verweise ohne konkrete
 Seitenangabe.

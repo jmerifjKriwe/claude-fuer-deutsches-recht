@@ -1,6 +1,6 @@
 ---
 name: schriftliche-beschlussfassung
-description: "Entwirft Beschlüsse im schriftlichen Verfahren (§ 48 Abs. 2 GmbHG) oder Umlaufbeschlüsse im Hausstil mit Präzedenzsuche im Beschlussarchiv. Bei der AG: Hinweis, dass HV-Beschlüsse Präsenz oder virtuelle HV (§ 118a AktG) erfordern und notariell beurkundet werden (§ 130 AktG); Umlaufverfahren bei AG nur für Aufsichtsrat (§ 108 Abs. 4 AktG) und Vorstand (§ 77 AktG). Behandelt Stimmverbote (§ 47 Abs. 4 GmbHG), Mehrheitserfordernisse und Unterzeichner-Tracking. Lädt bei „Umlaufbeschluss\", „schriftlicher Beschluss\", „Gesellschafterbeschluss\" oder Beschreibung einer zustimmungspflichtigen Maßnahme ohne Versammlung."
+description: "Entwirft Beschlüsse im schriftlichen Verfahren (§ 48 Abs. 2 GmbHG) oder Umlaufbeschlüsse im Hausstil mit Präzedenzsuche im Beschlussarchiv. Bei der AG: Hinweis, dass HV-Beschlüsse Präsenz oder virtuelle HV (§ 118a AktG) erfordern und notariell beurkundet werden (§ 130 AktG); Umlaufverfahren bei AG nur für Aufsichtsrat (§ 108 Abs. 4 AktG) und Vorstand (§ 77 AktG). Behandelt Stimmverbote (§ 47 Abs. 4 GmbHG), Mehrheitserfordernisse und Unterzeichner-Tracking. Lädt bei "Umlaufbeschluss\", "schriftlicher Beschluss\", "Gesellschafterbeschluss\" oder Beschreibung einer zustimmungspflichtigen Maßnahme ohne Versammlung."
 ---
 
 # Beschluss im schriftlichen Verfahren / Umlaufbeschluss
@@ -46,7 +46,7 @@ BGH, Urt. v. 11.02.2008 – II ZR 187/06, NZG 2008, 381 Rn. 12 (§ 48 Abs. 2 Gmb
 
 ### Sicherheits-Stopp: Wesentliche Maßnahme + Sofortunterzeichnung
 
-Bei Maßnahmen aus der Überprüfungsliste (M&A, Kapitalmaßnahme, Satzungsänderung, Auflösung) und gleichzeitigem Sofortunterzeichnungssignal („heute DocuSign", „vor Closing"):
+Bei Maßnahmen aus der Überprüfungsliste (M&A, Kapitalmaßnahme, Satzungsänderung, Auflösung) und gleichzeitigem Sofortunterzeichnungssignal ("heute DocuSign", "vor Closing"):
 
 > ⛔ **Wesentliche Maßnahme + Sofortunterzeichnung — nur Entwurf zur Prüfung.** Ich erstelle den Entwurf, aber nicht in unterschriftsreifer Form ohne anwaltliche Prüfung. Bitte einen der zwei Wege wählen: (1) externer Anwalt prüft zuerst, oder (2) bestätigen, dass externer Anwalt das Vorgehen bereits freigegeben hat.
 
@@ -121,7 +121,7 @@ Formhinweise: Präzise formulieren (keine Vagen Formulierungen); bevollmächtigt
 1. **Beschlussentwurf** — vollständig, zur Prüfung und Zirkulation bereit.
 2. **Unterzeichner-Checkliste** mit Stimmverbot-Flag, Mehrheitserfordernis, Notarerfordernis.
 3. **Prüf-Checkliste** (Präzision der Formulierung, Anlagen, Gesellschaftsvertrag, § 47 Abs. 4, Handelsregister).
-4. **Entwurfs-Hinweis** (vor Unterzeichnung zu entfernen): „Dies ist ein Entwurf zur anwaltlichen Prüfung. Die Unterzeichnung begründet rechtswirksame Gesellschafterbeschlüsse — ein zugelassener Rechtsanwalt prüft, bevor der Beschluss zirkuliert wird."
+4. **Entwurfs-Hinweis** (vor Unterzeichnung zu entfernen): "Dies ist ein Entwurf zur anwaltlichen Prüfung. Die Unterzeichnung begründet rechtswirksame Gesellschafterbeschlüsse — ein zugelassener Rechtsanwalt prüft, bevor der Beschluss zirkuliert wird."
 
 ## Ausgabeformat
 

@@ -7,7 +7,7 @@ description: "Standortbezogene Lohn- und Arbeitszeitfragen – ArbZG (Höchstarb
 
 ## Zweck
 
-„Es kommt darauf an" ist wahr, aber keine nützliche Antwort. Dieser Skill liefert standortspezifische Antworten mit der maßgeblichen Norm, zitiert und mit Kennzeichnung von Grenzfällen.
+"Es kommt darauf an" ist wahr, aber keine nützliche Antwort. Dieser Skill liefert standortspezifische Antworten mit der maßgeblichen Norm, zitiert und mit Kennzeichnung von Grenzfällen.
 
 ## Eingaben
 
@@ -71,7 +71,7 @@ EuGH, Urt. v. 14.05.2019 – C-55/18 (CCOO), NZA 2019, 683: Mitgliedstaaten müs
 
 ### 5. Überstunden
 
-- Gesetzlich: keine Pflicht zur Überstundenvergütung, wenn Arbeitsvertrag oder Tarifvertrag Überstunden als „mit dem Gehalt abgegolten" regelt. AGB-Kontrolle beachten: zu weitgehende Klauseln (ohne Stundenbegrenzung) sind unwirksam; BAG, Urt. v. 22.02.2012 – 5 AZR 765/10, NZA 2012, 861 `[Modellwissen – prüfen]`.
+- Gesetzlich: keine Pflicht zur Überstundenvergütung, wenn Arbeitsvertrag oder Tarifvertrag Überstunden als "mit dem Gehalt abgegolten" regelt. AGB-Kontrolle beachten: zu weitgehende Klauseln (ohne Stundenbegrenzung) sind unwirksam; BAG, Urt. v. 22.02.2012 – 5 AZR 765/10, NZA 2012, 861 `[Modellwissen – prüfen]`.
 - Freizeitausgleich vor Auszahlung bevorzugen, um Lohnnebenkostenbelastung zu reduzieren.
 - Überstunden-Dokumentationspflicht (aus BAG-Rspr. seit CCOO-Entscheidung EuGH): `[Modellwissen – prüfen]`.
 
@@ -115,7 +115,7 @@ Grenzfall-Flags: [ggf. [prüfen]]
 
 ## Beispiele
 
-**Frage:** Muss ich Überstunden bezahlen, wenn der Arbeitsvertrag sagt „Überstunden sind mit dem Gehalt abgegolten"?
+**Frage:** Muss ich Überstunden bezahlen, wenn der Arbeitsvertrag sagt "Überstunden sind mit dem Gehalt abgegolten"?
 
 **Antwort:** Eine solche Klausel ist nur wirksam, wenn die Anzahl der abgegoltenen Überstunden klar begrenzt ist und der Stundensatz über dem Mindestlohn bleibt. Unbegrenzte Pauschalabgeltungsklauseln sind nach § 307 Abs. 1 BGB unwirksam (BAG, Urt. v. 22.02.2012 – 5 AZR 765/10, NZA 2012, 861 `[Modellwissen – prüfen]`). Im Zweifel: Einzelfallprüfung.
 

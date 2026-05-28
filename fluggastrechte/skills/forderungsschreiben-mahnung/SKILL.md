@@ -24,7 +24,7 @@ geantwortet]. Die hierin gestellten Forderungen sind weiterhin offen.
 
 Zu Ihrer ablehnenden Begründung [bei Ablehnung]:
 
-  „[Zitat Airline-Begründung]"
+  "[Zitat Airline-Begründung]"
 
 Diese Begründung verfaengt nicht. Bei [technischer Defekt / Streik der
 eigenen Mitarbeiter / Crew-Engpass / sonstige Standardausrede] handelt es
@@ -71,14 +71,14 @@ Wenn die Airline mit einer typischen Begründung argumentiert siehe Skill
 
 | Airline-Begründung | Kerngegenargument | Rspr. |
 |---|---|---|
-| „technischer Defekt" | nicht außergewöhnlich solange im Routinebetrieb | EuGH C-549/07 (Wallentin-Hermann) |
-| „wilder Streik unserer Mitarbeiter" | nicht außergewöhnlich | EuGH C-195/17 (Kruesemann) |
-| „Crew-Engpass" | nicht außergewöhnlich | st. Rspr. — Teil normalen Betriebs |
-| „verdeckter Konstruktionsfehler" | nicht außergewöhnlich | EuGH C-257/14 (van der Lans) |
-| „Sie haben uns nicht innerhalb von 30 Tagen informiert" | VO 261/2004 sieht keine solche Frist vor | Verjährung drei Jahre § 195 BGB |
-| „Sie haben Umbuchung akzeptiert" | Akzeptanz schließt Ausgleichsanspruch nicht aus | EuGH ständig |
-| „Sie haben Voucher erhalten" | wenn nicht ausdrücklich als Ausgleichszahlung gewidmet — kein Ausschluss | st. Rspr. |
-| „Vorflug aus Vortag verspätet" | regelmäßig nicht außergewöhnlich (Kette aus Routine-Folge) | st. Rspr. EuGH |
+| "technischer Defekt" | nicht außergewöhnlich solange im Routinebetrieb | EuGH C-549/07 (Wallentin-Hermann) |
+| "wilder Streik unserer Mitarbeiter" | nicht außergewöhnlich | EuGH C-195/17 (Kruesemann) |
+| "Crew-Engpass" | nicht außergewöhnlich | st. Rspr. — Teil normalen Betriebs |
+| "verdeckter Konstruktionsfehler" | nicht außergewöhnlich | EuGH C-257/14 (van der Lans) |
+| "Sie haben uns nicht innerhalb von 30 Tagen informiert" | VO 261/2004 sieht keine solche Frist vor | Verjährung drei Jahre § 195 BGB |
+| "Sie haben Umbuchung akzeptiert" | Akzeptanz schließt Ausgleichsanspruch nicht aus | EuGH ständig |
+| "Sie haben Voucher erhalten" | wenn nicht ausdrücklich als Ausgleichszahlung gewidmet — kein Ausschluss | st. Rspr. |
+| "Vorflug aus Vortag verspätet" | regelmäßig nicht außergewöhnlich (Kette aus Routine-Folge) | st. Rspr. EuGH |
 
 ## Versand
 
@@ -112,7 +112,7 @@ schrift_stempel: Arial-Bold
 bezeichnung: "Anlage K"
 ```
 
-Wichtig: Die Mahnung nimmt regelmäßig dieselben Anlagen wie das Erstschreiben in Bezug **plus** das erste Forderungsschreiben selbst und ggf. die Antwort der Airline. Vor Übergabe sicherstellen, dass im Schriftsatz alle benötigten Anlagen mit „Anlage K N" benannt sind — der Skill zieht die Reihenfolge aus dem Text.
+Wichtig: Die Mahnung nimmt regelmäßig dieselben Anlagen wie das Erstschreiben in Bezug **plus** das erste Forderungsschreiben selbst und ggf. die Antwort der Airline. Vor Übergabe sicherstellen, dass im Schriftsatz alle benötigten Anlagen mit "Anlage K N" benannt sind — der Skill zieht die Reihenfolge aus dem Text.
 
 ## Zentrale Anspruchsgrundlagen & Normen
 

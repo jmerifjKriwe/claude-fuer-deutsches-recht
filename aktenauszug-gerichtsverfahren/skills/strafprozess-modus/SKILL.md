@@ -100,7 +100,7 @@ Gesondert darzustellen:
 
 ## Besonderheiten im Aktenauszug
 
-- Parteibezeichnungen: „Angeklagter", „Staatsanwaltschaft", „Nebenkläger"
+- Parteibezeichnungen: "Angeklagter", "Staatsanwaltschaft", "Nebenkläger"
 - Keine Schuldvermutung im Aktenauszug
 - Freispruch und Verurteilung neutral darstellen
 - Bei laufender Untersuchungshaft: Haftverlängerungsbeschlüsse und Haftdauer hervorheben

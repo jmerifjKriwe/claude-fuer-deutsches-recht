@@ -17,7 +17,7 @@ description: "Anschreiben des Insolvenzverwalters an den Anfechtungsgegner erste
 
 ## Schreibregel
 
-Das Schreiben muss bestimmt sein. Pauschale Formulierungen wie „wir fechten alle Zahlungen an“ vermeiden. Jede angefochtene Handlung gehört in eine eigene Tabellenzeile.
+Das Schreiben muss bestimmt sein. Pauschale Formulierungen wie "wir fechten alle Zahlungen an" vermeiden. Jede angefochtene Handlung gehört in eine eigene Tabellenzeile.
 
 ## Musterschreiben
 

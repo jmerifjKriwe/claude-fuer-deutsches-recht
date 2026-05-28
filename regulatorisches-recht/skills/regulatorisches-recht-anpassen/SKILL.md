@@ -81,7 +81,7 @@ Keine normativen Anforderungen an das Praxisprofil selbst. Inhaltliche Anforderu
 
 ## Beispiel
 
-**Eingabe:** „Bitte die BNetzA als weitere beobachtete Behörde hinzufügen. Feed: https://www.bundesnetzagentur.de/DE/Presse/RSS/rss_node.html"
+**Eingabe:** "Bitte die BNetzA als weitere beobachtete Behörde hinzufügen. Feed: https://www.bundesnetzagentur.de/DE/Presse/RSS/rss_node.html"
 
 **Ausgabe:**
 

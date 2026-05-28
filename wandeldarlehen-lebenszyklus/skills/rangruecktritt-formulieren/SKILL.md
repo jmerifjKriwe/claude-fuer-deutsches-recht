@@ -49,7 +49,7 @@ Ausdrückliche Klarstellung, dass es sich um einen qualifizierten Rangrücktritt
 Rangrücktritt als echter Vertrag zugunsten Dritter (§ 328 BGB) zugunsten aller Gläubiger i.S.d. §§ 38 / 39 Abs. 1 InsO. Aufhebung nur mit vorheriger schriftlicher Zustimmung der Gesellschaft und nur soweit keine Insolvenzreife entsteht.
 
 ### 5. § 15b InsO-Schutzklausel
-Gesellschaft und Geschäftsführerinnen sind nicht zur Rückzahlung verpflichtet, soweit dies persönliche Haftung nach § 15b InsO auslösen würde. Bei verbotswidriger Rückzahlung: Rückgewährpflicht auf erstes Anfordern. Hintergrund: § 15b InsO wurde durch das SanInsFoG (Inkrafttreten 1.1.2021) eingefügt und löste § 64 GmbHG a.F. (Massesicherungspflicht) ab; die GF-Haftung für „verbotswidrige Zahlungen nach Insolvenzreife" knüpft seit der Reform allein an die InsO an. Klausel daher zwingend, sonst GF-persönliches Risiko.
+Gesellschaft und Geschäftsführerinnen sind nicht zur Rückzahlung verpflichtet, soweit dies persönliche Haftung nach § 15b InsO auslösen würde. Bei verbotswidriger Rückzahlung: Rückgewährpflicht auf erstes Anfordern. Hintergrund: § 15b InsO wurde durch das SanInsFoG (Inkrafttreten 1.1.2021) eingefügt und löste § 64 GmbHG a.F. (Massesicherungspflicht) ab; die GF-Haftung für "verbotswidrige Zahlungen nach Insolvenzreife" knüpft seit der Reform allein an die InsO an. Klausel daher zwingend, sonst GF-persönliches Risiko.
 
 ### 6. GIRA-Bestätigungstext vorbereiten
 Für den Wirtschaftsprüfer: kurze Bestätigungserklärung, dass qualifizierter Rangrücktritt vorliegt und Nachrangforderungen im Überschuldungsstatus nicht zu berücksichtigen sind (§ 19 Abs. 2 Satz 2 InsO; IDW S 11 Rn. 23 ff.).

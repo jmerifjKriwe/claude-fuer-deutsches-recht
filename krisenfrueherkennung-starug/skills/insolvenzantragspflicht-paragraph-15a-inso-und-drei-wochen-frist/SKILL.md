@@ -63,7 +63,7 @@ Achtung: Drei Wochen = 21 Tage, nicht drei Kalenderwochen mit flexiblem Ende.
 
 **Verlängerung der Frist:** Die Drei-Wochen-Frist kann nur dann länger dauern, wenn innerhalb der Frist ernsthafte und aussichtsreiche Sanierungsverhandlungen geführt werden. Dies ist eng auszulegen — Gerichte prüfen ex post sehr genau, ob die Sanierungsbemühungen tatsächlich aussichtsreich waren.
 
-**Maximale Gesamtfrist:** Auch bei laufenden Sanierungsverhandlungen gibt es keine unbegrenzte Verlängerung. Die absolute Höchstgrenze liegt bei drei Monaten (§ 15a Abs. 1 S. 2 InsO n.F.: „ohne schuldhaftes Zögern, spätestens aber drei Wochen").
+**Maximale Gesamtfrist:** Auch bei laufenden Sanierungsverhandlungen gibt es keine unbegrenzte Verlängerung. Die absolute Höchstgrenze liegt bei drei Monaten (§ 15a Abs. 1 S. 2 InsO n.F.: "ohne schuldhaftes Zögern, spätestens aber drei Wochen").
 
 ### 3. Strafrechtliche Sanktion — § 15a Abs. 4 InsO
 
@@ -84,13 +84,13 @@ Parallel zur Antragspflicht gilt das Zahlungsverbot des § 15b InsO: Nach Eintri
 
 Unzulässige Zahlungen nach Insolvenzreife begründen Schadensersatzansprüche des späteren Insolvenzverwalters gegen den Geschäftsführer persönlich. Die Beweislast liegt beim Geschäftsführer (§ 93 Abs. 2 S. 2 AktG analog für GmbH-GF).
 
-### 5. Der „Quasi-Notgeschäftsführer"
+### 5. Der "Quasi-Notgeschäftsführer"
 
 In der Praxis entsteht nach Eintritt der Insolvenzreife und Ausscheiden des regulären GF die Situation, dass kein neuer GF bestellt wird. In diesem Fall:
 
 - Gesellschafter sind subsidiär antragspflichtig (§ 15a Abs. 3 InsO)
 - Faktische Geschäftsführer (wer tatsächlich die Geschäfte führt) sind ebenfalls antragspflichtig
-- Ein „kommissarischer" GF, der die Geschäfte fortführt ohne formal bestellt zu sein, haftet wie ein regulärer GF
+- Ein "kommissarischer" GF, der die Geschäfte fortführt ohne formal bestellt zu sein, haftet wie ein regulärer GF
 
 ---
 
@@ -180,7 +180,7 @@ NACH ANTRAGSTELLUNG:
 
 ## Fallstricke
 
-1. **Fristbeginn falsch berechnet** — die Frist beginnt mit der Kenntnis, nicht mit dem Eintritt des Insolvenzgrundes. Wer „es schon länger wusste", hat möglicherweise die Frist bereits verpasst.
+1. **Fristbeginn falsch berechnet** — die Frist beginnt mit der Kenntnis, nicht mit dem Eintritt des Insolvenzgrundes. Wer "es schon länger wusste", hat möglicherweise die Frist bereits verpasst.
 
 2. **Sanierungsverhandlungen als Fristaufschub** — nur echte, aussichtsreiche Verhandlungen verlängern die Frist. Gespräche ohne konkretes Ergebnis schützen nicht.
 

@@ -50,7 +50,7 @@ Strukturierte Auswertung und Triage eingehender Mahnschreiben, Abmahnungen, Ford
    - Art des Schreibens (Mahnung, Abmahnung, Klagedrohung, Aufforderung zur Unterlassung, C&D-Äquivalent)
    - Geldforderung (Betrag, Währung, Fälligkeitsdatum)
    - Anspruchsgrundlage (soweit angegeben)
-   - Gesetzte Frist (Datum extrahieren; wenn „2 Wochen ab Zugang" oder ähnlich: Frist anhand des Schreibdatums + Postlaufzeit schätzen)
+   - Gesetzte Frist (Datum extrahieren; wenn "2 Wochen ab Zugang" oder ähnlich: Frist anhand des Schreibdatums + Postlaufzeit schätzen)
 
 2. **Portfolio-Abgleich:** Prüfen, ob zu Absender / Sachverhalt bereits ein Mandat in `mandate/_log.yaml` existiert. Wenn ja: Verknüpfung herstellen und History-Update vorschlagen.
 
@@ -86,7 +86,7 @@ Strukturierte Auswertung und Triage eingehender Mahnschreiben, Abmahnungen, Ford
 Verbindlich: `../references/zitierweise.md`.
 
 - BGH, Urt. v. 17.07.2008 – I ZR 75/06, NJW 2008, 3711 Rn. 16 (Formvoraussetzungen der Mahnung).
-- BGH, Urt. v. 01.06.2006 – I ZR 167/03, GRUR 2007, 164 Rn. 12 – „Telefax-Flatrate" (Anforderungen an Abmahnung im Wettbewerbsrecht).
+- BGH, Urt. v. 01.06.2006 – I ZR 167/03, GRUR 2007, 164 Rn. 12 – "Telefax-Flatrate" (Anforderungen an Abmahnung im Wettbewerbsrecht).
 - Köhler, in: Köhler/Bornkamm/Feddersen, UWG, 43. Aufl. 2025, § 8c Rn. 5 ff. (missbräuchliche Abmahnung).
 - BGH, Urt. v. 25.10.2012 – I ZR 112/11, NJW 2013, 775 Rn. 19 (Verjährungshemmung durch Verhandlungen, § 203 BGB).
 - Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 945a Rn. 1 ff. (Schutzschrift, Hinterlegung im ZSSR).

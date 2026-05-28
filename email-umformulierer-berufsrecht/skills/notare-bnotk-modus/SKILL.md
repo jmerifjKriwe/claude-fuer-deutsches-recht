@@ -13,7 +13,7 @@ Dieser Skill spezialisiert den Umformulierungsprozess auf die besonderen Anforde
 
 ## Anredeformeln für Notare
 
-Notarspezifische Anreden: „Sehr geehrte Frau Notarin Muster", „Sehr geehrter Herr Notar Dr. Muster", „Sehr geehrtes Notariat Muster". In Urkunden und Niederschriften wird keine persönliche Anrede verwendet; diese sind in Amtssprache zu verfassen. Bei Schreiben an Beteiligte gilt die allgemeine Förmlichkeitshierarchie; die Amtsfunktion des Notars als Absender erhöht aber die Erwartung an die Stilhöhe.
+Notarspezifische Anreden: "Sehr geehrte Frau Notarin Muster", "Sehr geehrter Herr Notar Dr. Muster", "Sehr geehrtes Notariat Muster". In Urkunden und Niederschriften wird keine persönliche Anrede verwendet; diese sind in Amtssprache zu verfassen. Bei Schreiben an Beteiligte gilt die allgemeine Förmlichkeitshierarchie; die Amtsfunktion des Notars als Absender erhöht aber die Erwartung an die Stilhöhe.
 
 ## Besonderheiten notarieller Korrespondenz
 
@@ -29,14 +29,14 @@ Einschlägige Normen: § 14 BNotO (Berufspflichten), § 15 BNotO (Amtsverweigeru
 
 ## Beispiele Vorher/Nachher
 
-**Vorher:** „Sie müssen das Dokument bis Freitag unterschreiben, sonst wird es schwierig."
-**Nachher:** „Ich weise darauf hin, dass die Beurkundung nach dem Terminplan bis TT.MM.JJJJ vorgesehen ist. Falls eine andere Terminierung erforderlich ist, bitte ich um frühzeitige Rückmeldung."
+**Vorher:** "Sie müssen das Dokument bis Freitag unterschreiben, sonst wird es schwierig."
+**Nachher:** "Ich weise darauf hin, dass die Beurkundung nach dem Terminplan bis TT.MM.JJJJ vorgesehen ist. Falls eine andere Terminierung erforderlich ist, bitte ich um frühzeitige Rückmeldung."
 
-**Vorher:** „Ihr Vertragspartner verhält sich nicht kooperativ."
-**Nachher:** „Im Rahmen der Vorbereitung der Beurkundung sind noch offene Punkte zu klären, zu denen ich die Stellungnahmen aller Beteiligten erbitte."
+**Vorher:** "Ihr Vertragspartner verhält sich nicht kooperativ."
+**Nachher:** "Im Rahmen der Vorbereitung der Beurkundung sind noch offene Punkte zu klären, zu denen ich die Stellungnahmen aller Beteiligten erbitte."
 
-**Vorher:** „Das ist offensichtlich unsinnig, was die andere Seite verlangt."
-**Nachher:** „Der vorgebrachte Wunsch der Beteiligten zu Ziffer X weist rechtliche Besonderheiten auf, über die ich gerne vorab belehre."
+**Vorher:** "Das ist offensichtlich unsinnig, was die andere Seite verlangt."
+**Nachher:** "Der vorgebrachte Wunsch der Beteiligten zu Ziffer X weist rechtliche Besonderheiten auf, über die ich gerne vorab belehre."
 
 ## Ausgabeformat
 

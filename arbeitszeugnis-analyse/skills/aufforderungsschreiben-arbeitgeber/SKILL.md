@@ -37,7 +37,7 @@ Prüfung der Schlussformel mit Dankesformel und Bedauern. Hier zurückhaltend fo
 
 ### Baustein 6 Fristsetzung
 
-Konkrete kalendermaessige Frist mit Datum (kein „binnen zwei Wochen"). Empfohlen sind zwei bis drei Wochen ab Zugang. Bei Eilbeduerftigkeit (anstehendes Vorstellungsgespraech) kuerzere Frist mit Begruendung. Hinweis auf Verzug bei fruchtlosem Fristablauf.
+Konkrete kalendermaessige Frist mit Datum (kein "binnen zwei Wochen"). Empfohlen sind zwei bis drei Wochen ab Zugang. Bei Eilbeduerftigkeit (anstehendes Vorstellungsgespraech) kuerzere Frist mit Begruendung. Hinweis auf Verzug bei fruchtlosem Fristablauf.
 
 ### Baustein 7 Klageandrohung
 
@@ -57,11 +57,11 @@ Unsere Mandantin hat von Ihnen am [Datum] das beigefuegte qualifizierte Zeugnis 
 
 Wir beanstanden im Einzelnen:
 
-**Punkt 1 Arbeitsweise.** Sie haben formuliert: „Sie bemuehte sich, die ihr uebertragenen Aufgaben zu unserer Zufriedenheit zu erledigen." Diese Formulierung beschreibt nach gefestigter Rechtsprechung des BAG (etwa BAG vom 14. Oktober 2003, Az. 9 AZR 12/03) eine schlechtere als ausreichende Leistung. Sie steht in Widerspruch zu der von Ihnen gleichzeitig formulierten Gesamtzufriedenheit „stets zur vollen Zufriedenheit" in der Schlussformel. Wir bitten um folgende Formulierung: „Sie erledigte die ihr uebertragenen Aufgaben stets zu unserer vollen Zufriedenheit."
+**Punkt 1 Arbeitsweise.** Sie haben formuliert: "Sie bemuehte sich, die ihr uebertragenen Aufgaben zu unserer Zufriedenheit zu erledigen." Diese Formulierung beschreibt nach gefestigter Rechtsprechung des BAG (etwa BAG vom 14. Oktober 2003, Az. 9 AZR 12/03) eine schlechtere als ausreichende Leistung. Sie steht in Widerspruch zu der von Ihnen gleichzeitig formulierten Gesamtzufriedenheit "stets zur vollen Zufriedenheit" in der Schlussformel. Wir bitten um folgende Formulierung: "Sie erledigte die ihr uebertragenen Aufgaben stets zu unserer vollen Zufriedenheit."
 
-**Punkt 2 Schlussformel.** Die Schlussformel enthält keine Dankesformel und kein Bedauern über das Ausscheiden. Uns ist bewusst, dass Dank, Bedauern und Zukunftswünsche nach der Rechtsprechung des Bundesarbeitsgerichts nicht ohne Weiteres zum gesetzlichen Mindestinhalt gehören. Im vorliegenden Gesamtbild wirkt die knappe Schlussformel jedoch deutlich distanzierend und steht nicht im Einklang mit den übrigen positiven Leistungsbewertungen. Wir bitten deshalb um folgende einvernehmliche Neufassung: „Wir bedauern das Ausscheiden von Frau [Name], danken ihr für die geleistete Arbeit und wünschen ihr für ihren weiteren beruflichen und persönlichen Lebensweg alles Gute."
+**Punkt 2 Schlussformel.** Die Schlussformel enthält keine Dankesformel und kein Bedauern über das Ausscheiden. Uns ist bewusst, dass Dank, Bedauern und Zukunftswünsche nach der Rechtsprechung des Bundesarbeitsgerichts nicht ohne Weiteres zum gesetzlichen Mindestinhalt gehören. Im vorliegenden Gesamtbild wirkt die knappe Schlussformel jedoch deutlich distanzierend und steht nicht im Einklang mit den übrigen positiven Leistungsbewertungen. Wir bitten deshalb um folgende einvernehmliche Neufassung: "Wir bedauern das Ausscheiden von Frau [Name], danken ihr für die geleistete Arbeit und wünschen ihr für ihren weiteren beruflichen und persönlichen Lebensweg alles Gute."
 
-**Punkt 3 Vorgesetztenbeurteilung.** Trotz unstreitiger Fuehrungsverantwortung enthaelt das Zeugnis keine Aussage zur Vorgesetztenbeurteilung. Diese Auslassung wird im Bewerbungsverkehr als verdecktes Negativsignal gelesen. Wir bitten um Ergaenzung: „Als Vorgesetzte wurde sie von ihren Mitarbeiterinnen und Mitarbeitern stets uneingeschraenkt anerkannt."
+**Punkt 3 Vorgesetztenbeurteilung.** Trotz unstreitiger Fuehrungsverantwortung enthaelt das Zeugnis keine Aussage zur Vorgesetztenbeurteilung. Diese Auslassung wird im Bewerbungsverkehr als verdecktes Negativsignal gelesen. Wir bitten um Ergaenzung: "Als Vorgesetzte wurde sie von ihren Mitarbeiterinnen und Mitarbeitern stets uneingeschraenkt anerkannt."
 
 [Weitere Punkte analog.]
 
@@ -80,7 +80,7 @@ Anlagen: Vollmacht, Zeugnis vom [Datum], Vorzeugnis vom [Datum]
 | Regel | Hinweis |
 | --- | --- |
 | Hoeflich, bestimmt, sachlich | Keine Drohgebaerden, kein Empoerungston |
-| Konkrete Wortlaute, nicht „bitte verbessern" | Pro Streitstelle alter und neuer Wortlaut in Anfuehrungszeichen |
+| Konkrete Wortlaute, nicht "bitte verbessern" | Pro Streitstelle alter und neuer Wortlaut in Anfuehrungszeichen |
 | Belege fuer Geheimcodes | BAG-Rechtsprechung, Standardliteratur, kein Verweis auf interne Notenmatrix |
 | Frist kalendermaessig | Konkretes Datum, keine Zeitspanne ohne Anker |
 | Klageandrohung nur am Ende | Einmal, knapp, ohne Wiederholung |

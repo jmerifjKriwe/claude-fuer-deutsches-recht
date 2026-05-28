@@ -236,12 +236,12 @@ Schreiben vom [Datum] (Anlage K 6) wahrt die Jahresfrist.
 
 | Gegenargument | Herkunft | Reaktion |
 |--------------|---------|----------|
-| „Eigenkündigung des HV — § 89b Abs. 3 Nr. 1 HGB" | Unternehmer | Nachweis wichtiger Grund (unzumutbares Verhalten des Unternehmers); oder Alter/Krankheit des HV |
-| „Keine Neukunden geworben — nur Bestandspflege" | Unternehmer | Provisionsabrechnungen detailliert aufschlüsseln; Anteil Neukunden- vs. Bestandsprovisionen |
-| „Starke Marken-Sogwirkung reduziert Billigkeit auf null" | Unternehmer | EuGH Semen C-348/07: Provisionsverluste dürfen nicht unter die Mindestgrenze gedrückt werden |
-| „Jahresfrist versäumt" | Unternehmer | Fristenwahrung durch anwaltliches Schreiben belegen; Datum des Poststempels |
-| „Kein Handelsvertreter sondern Arbeitnehmer" | Unternehmer | Selbständigkeit nach § 84 HGB: kein Weisungsrecht des Unternehmers über Arbeitszeit und -ort; Beweise für unternehmerische Freiheit |
-| „Vertragshändler hat keinen § 89b HGB-Anspruch" | Unternehmer | BGH VIII ZR 249/08: Analoge Anwendung bei Eingliederung in Absatzorganisation + Kundenstammübertragungspflicht |
+| "Eigenkündigung des HV — § 89b Abs. 3 Nr. 1 HGB" | Unternehmer | Nachweis wichtiger Grund (unzumutbares Verhalten des Unternehmers); oder Alter/Krankheit des HV |
+| "Keine Neukunden geworben — nur Bestandspflege" | Unternehmer | Provisionsabrechnungen detailliert aufschlüsseln; Anteil Neukunden- vs. Bestandsprovisionen |
+| "Starke Marken-Sogwirkung reduziert Billigkeit auf null" | Unternehmer | EuGH Semen C-348/07: Provisionsverluste dürfen nicht unter die Mindestgrenze gedrückt werden |
+| "Jahresfrist versäumt" | Unternehmer | Fristenwahrung durch anwaltliches Schreiben belegen; Datum des Poststempels |
+| "Kein Handelsvertreter sondern Arbeitnehmer" | Unternehmer | Selbständigkeit nach § 84 HGB: kein Weisungsrecht des Unternehmers über Arbeitszeit und -ort; Beweise für unternehmerische Freiheit |
+| "Vertragshändler hat keinen § 89b HGB-Anspruch" | Unternehmer | BGH VIII ZR 249/08: Analoge Anwendung bei Eingliederung in Absatzorganisation + Kundenstammübertragungspflicht |
 
 ## Streitwert und Kosten
 

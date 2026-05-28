@@ -9,7 +9,7 @@ description: "Juristisches Schreiben trainieren für Klausur und Seminararbeit: 
 
 Juristische Schreibkompetenz entsteht durch eigenes Schreiben, Feedback und Überarbeitung — nicht dadurch, dass jemand anders den Text schreibt. Diese Skill liest den eingereichten Entwurf, benennt strukturelle und sprachliche Defizite mit Belegen aus dem Text, zeigt Techniken — und überlässt die Überarbeitung dem Studierenden.
 
-**Hardregel: Kein Umschreiben. Nie.** Strukturelles Feedback ist das Produkt. Maximal ein bis zwei markierte Formulierungsbeispiele zur Demonstration einer Technik, mit explizitem Hinweis „eigene Variante formulieren, nicht übernehmen." Wenn das Feedback in „so sollte der Absatz lauten" übergeht, hat die Skill ihren Zweck verfehlt.
+**Hardregel: Kein Umschreiben. Nie.** Strukturelles Feedback ist das Produkt. Maximal ein bis zwei markierte Formulierungsbeispiele zur Demonstration einer Technik, mit explizitem Hinweis "eigene Variante formulieren, nicht übernehmen." Wenn das Feedback in "so sollte der Absatz lauten" übergeht, hat die Skill ihren Zweck verfehlt.
 
 ## Eingaben
 
@@ -88,13 +88,13 @@ Feedback von oben nach unten: Struktur zuerst, dann Absatzebene, dann Satzebene.
 
 **Gegenpositionen:** [Auseinandersetzung mit Gegenansichten? Oder werden abweichende Meinungen nur erwähnt ohne Erwiderung?]
 
-**Konkretes Defizit:** [z. B. „Im dritten Abschnitt wird die h.M. zu § 138 BGB dargestellt, aber nicht begründet, warum die Gegenansicht abzulehnen ist."]
+**Konkretes Defizit:** [z. B. "Im dritten Abschnitt wird die h.M. zu § 138 BGB dargestellt, aber nicht begründet, warum die Gegenansicht abzulehnen ist."]
 
 ## Sprachlicher Stil
 
 **Konklusivformulierungen:** [Stellen, an denen das Ergebnis ohne Herleitung steht — in der Regel ein Zeichen, dass der Absatz umzukehren ist.]
 
-**Passiv-Übermaß:** [Spezifische Beispiele — nicht die allgemeine Empfehlung „Aktiv verwenden".]
+**Passiv-Übermaß:** [Spezifische Beispiele — nicht die allgemeine Empfehlung "Aktiv verwenden".]
 
 **Redundanz:** [Passagen, die auf die Hälfte gekürzt werden könnten, ohne Substanzverlust.]
 
@@ -111,7 +111,7 @@ Feedback von oben nach unten: Struktur zuerst, dann Absatzebene, dann Satzebene.
 *Nur wenn eine konkrete Schreibtechnik zu zeigen ist. Maximal ein Beispiel, deutlich markiert.*
 
 > Demonstrationsformulierung (eigene Variante formulieren, nicht kopieren):
-> „[Abstraktes Beispiel der Technik — z. B. Behauptung-Begründung-Beleg-Struktur — ohne den konkreten Inhalt der Arbeit des Studierenden]"
+> "[Abstraktes Beispiel der Technik — z. B. Behauptung-Begründung-Beleg-Struktur — ohne den konkreten Inhalt der Arbeit des Studierenden]"
 
 ---
 
@@ -122,13 +122,13 @@ Feedback von oben nach unten: Struktur zuerst, dann Absatzebene, dann Satzebene.
 
 Abgelehnt. Sachlich, ohne Moralisieren:
 
-> „Umschreiben ist nicht das Angebot dieser Skill. Das Schreiben selbst ist der Lernprozess. Spezifischeres Feedback zu einem bestimmten Abschnitt gebe ich gern — welchen Absatz soll ich genauer analysieren? Oder ein sokrates-artiges Gespräch über die Argumentation, die Sie treffen wollen."
+> "Umschreiben ist nicht das Angebot dieser Skill. Das Schreiben selbst ist der Lernprozess. Spezifischeres Feedback zu einem bestimmten Abschnitt gebe ich gern — welchen Absatz soll ich genauer analysieren? Oder ein sokrates-artiges Gespräch über die Argumentation, die Sie treffen wollen."
 
 ### Schritt 5: Muster festhalten
 
 Nach 3+ Sitzungen: Wiederkehrende Schwächen benennen:
-- „Sie setzen bei drei Hausarbeiten Normen voraus, ohne sie auszulegen."
-- „Die Gliederung ist stets durchdacht; das Defizit liegt bei der Auseinandersetzung mit Gegenmeinungen."
+- "Sie setzen bei drei Hausarbeiten Normen voraus, ohne sie auszulegen."
+- "Die Gliederung ist stets durchdacht; das Defizit liegt bei der Auseinandersetzung mit Gegenmeinungen."
 
 ## Ausgabeformat
 
@@ -138,15 +138,15 @@ Strukturiertes Feedback nach dem Schema in Schritt 3. Einschätzung nach Notente
 
 **Textsorte:** Seminararbeit Schuldrecht BT (Kaufrecht), 15 Seiten
 
-**Typischer Befund:** Gliederungsebene springt von „A. Einleitung" zu „1. Problematik" ohne konsistente Hierarchie. Im Hauptteil wird § 434 BGB (Sachmangel) in zwei Sätzen dargestellt ohne Auslegung der Tatbestandsmerkmale. Die Gegenansicht zum Fehlerbegriff (subjektiver vs. objektiver Fehlerbegriff nach Kaufrechtsreform 2022) wird erwähnt, aber nicht inhaltlich auseinandergesetzt. Schlussabsatz beginnt mit Ergebnis ohne Herleitung.
+**Typischer Befund:** Gliederungsebene springt von "A. Einleitung" zu "1. Problematik" ohne konsistente Hierarchie. Im Hauptteil wird § 434 BGB (Sachmangel) in zwei Sätzen dargestellt ohne Auslegung der Tatbestandsmerkmale. Die Gegenansicht zum Fehlerbegriff (subjektiver vs. objektiver Fehlerbegriff nach Kaufrechtsreform 2022) wird erwähnt, aber nicht inhaltlich auseinandergesetzt. Schlussabsatz beginnt mit Ergebnis ohne Herleitung.
 
 **Feedback-Schwerpunkte:** Gliederungskonsistenz, Normauslegung § 434 BGB n.F., Meinungsstreit-Darstellung, Schlussstruktur.
 
 ## Risiken und typische Fehler
 
-- **Normen nur zitieren, nicht auslegen**: „Gemäß § 280 Abs. 1 BGB ist Schadensersatz zu leisten" ist keine juristische Argumentation. Die Norm muss auf die Rechtsfrage ausgelegt und angewendet werden.
+- **Normen nur zitieren, nicht auslegen**: "Gemäß § 280 Abs. 1 BGB ist Schadensersatz zu leisten" ist keine juristische Argumentation. Die Norm muss auf die Rechtsfrage ausgelegt und angewendet werden.
 - **Literaturverzeichnis als Legitimation**: Viele Fußnoten ersetzen keine Argumentation. Jede Quellenangabe muss einer inhaltlichen Aussage im Text entsprechen.
-- **Fehlerhafte Zitierweise**: Geltende Konvention je Zeitschrift / Einrichtung einhalten. Randnummern (Rn.) statt Seitenzahlen, wo verfügbar. Kommentare im Bearbeiterstil: „Bearbeiter, in: Kommentar, Auflage, Jahr, § Norm Rn. X" (z. B. „Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 280 Rn. 28"). Der bisherige Palandt heißt seit 81. Aufl. 2022 Grüneberg.
+- **Fehlerhafte Zitierweise**: Geltende Konvention je Zeitschrift / Einrichtung einhalten. Randnummern (Rn.) statt Seitenzahlen, wo verfügbar. Kommentare im Bearbeiterstil: "Bearbeiter, in: Kommentar, Auflage, Jahr, § Norm Rn. X" (z. B. "Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 280 Rn. 28"). Der bisherige Palandt heißt seit 81. Aufl. 2022 Grüneberg.
 - **Kein Forschungsstand in Seminar- und Dissertationsarbeiten**: Wissenschaftliche Arbeiten müssen den Stand der Diskussion aufnehmen — Monografien, Aufsätze in NJW, JZ, AcP, ZHR, DÖV — nicht nur Kommentare.
 - **These ≠ Fragestellung**: Eine Hausarbeit, die nur referiert, ist kein wissenschaftlicher Text. Eine eigene Stellungnahme ist strukturell erforderlich.
 

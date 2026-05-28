@@ -42,7 +42,7 @@ Das Arbeitsverhältnis zum alten Arbeitgeber gilt als **aufgelöst mit Ablauf de
 Die Erklärung nach § 12 KSchG muss dem alten Arbeitgeber innerhalb der Wochenfrist zugehen. Empfehlung:
 - Schriftlich (§ 130 BGB)
 - Per Einschreiben oder persönliche Übergabe mit Empfangsbestätigung
-- Formulierung: „Ich erkläre hiermit gemäß § 12 KSchG, dass ich das Arbeitsverhältnis mit Ihnen nicht fortsetzen werde, da ich ein neues Arbeitsverhältnis aufgenommen habe."
+- Formulierung: "Ich erkläre hiermit gemäß § 12 KSchG, dass ich das Arbeitsverhältnis mit Ihnen nicht fortsetzen werde, da ich ein neues Arbeitsverhältnis aufgenommen habe."
 
 ## Triage zu Beginn — kläre vor Anwendung von § 12 KSchG
 

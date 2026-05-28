@@ -30,7 +30,7 @@ description: "Student prüft Strafbarkeit in der Hausarbeit: Drei-Stufen-Schema 
 
 ## Zweck
 
-Das Drei-Stufen-Schema ist das Standard-Schema jeder strafrechtlichen Prüfung. Es führt von der Frage „Ist die Handlung tatbestandsmäßig?" über „Ist sie rechtswidrig?" zu „Ist sie schuldhaft?".
+Das Drei-Stufen-Schema ist das Standard-Schema jeder strafrechtlichen Prüfung. Es führt von der Frage "Ist die Handlung tatbestandsmäßig?" über "Ist sie rechtswidrig?" zu "Ist sie schuldhaft?".
 
 ## Schritt 1 — Aufbau
 
@@ -196,7 +196,7 @@ Tatbestandsmäßigkeit indiziert Rechtswidrigkeit. Geprüft wird, ob Rechtfertig
 
 - **Spezialität**: ein Tatbestand schlägt anderen
 - **Subsidiarität**: ein Tatbestand subsidiär zu anderem
-- **Konsumtion**: schwerer Tatbestand „umfasst" leichteren
+- **Konsumtion**: schwerer Tatbestand "umfasst" leichteren
 
 ## Schritt 7 — Konkrete Beispiele
 

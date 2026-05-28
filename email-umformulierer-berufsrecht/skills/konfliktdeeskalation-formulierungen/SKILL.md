@@ -36,23 +36,23 @@ Deeskalierende Kommunikation folgt vier Grundprinzipien: (1) Verständnis zeigen
 
 ## Bausteine für Verständnis ohne Zustimmung
 
-„Es ist mir ein Anliegen, Ihren Standpunkt vollständig zu verstehen." — „Ich nehme Ihre Schilderung zur Kenntnis und möchte gerne dazu Stellung nehmen." — „Ich verstehe, dass diese Situation für Sie belastend ist." — „Ich kann nachvollziehen, dass Sie mit dem bisherigen Verlauf nicht zufrieden sind." — „Ihre Perspektive ist mir wichtig, auch wenn ich in der Sache anderer Auffassung bin."
+"Es ist mir ein Anliegen, Ihren Standpunkt vollständig zu verstehen." — "Ich nehme Ihre Schilderung zur Kenntnis und möchte gerne dazu Stellung nehmen." — "Ich verstehe, dass diese Situation für Sie belastend ist." — "Ich kann nachvollziehen, dass Sie mit dem bisherigen Verlauf nicht zufrieden sind." — "Ihre Perspektive ist mir wichtig, auch wenn ich in der Sache anderer Auffassung bin."
 
 ## Bausteine für sachliche Klärung
 
-„Im Sinne einer sachlichen Klärung schlage ich vor..." — „Ich bitte darum, die Angelegenheit auf der Sachebene zu erörtern." — „Zur Vermeidung von Missverständnissen möchte ich folgendes klarstellen..." — „Es wäre hilfreich, wenn wir uns auf die wesentlichen Punkte konzentrieren könnten." — „Ich bin gerne bereit, die Situation gemeinsam zu klären."
+"Im Sinne einer sachlichen Klärung schlage ich vor..." — "Ich bitte darum, die Angelegenheit auf der Sachebene zu erörtern." — "Zur Vermeidung von Missverständnissen möchte ich folgendes klarstellen..." — "Es wäre hilfreich, wenn wir uns auf die wesentlichen Punkte konzentrieren könnten." — "Ich bin gerne bereit, die Situation gemeinsam zu klären."
 
 ## Bausteine für konstruktiven Ausblick
 
-„Ich freue mich auf eine gemeinsame Lösung." — „Ich schlage vor, dass wir..." — „Im Sinne einer einvernehmlichen Regelung..." — „Ich stehe für ein klärendes Gespräch jederzeit zur Verfügung." — „Eine Lösung, die für alle Seiten akzeptabel ist, erscheint mir erreichbar."
+"Ich freue mich auf eine gemeinsame Lösung." — "Ich schlage vor, dass wir..." — "Im Sinne einer einvernehmlichen Regelung..." — "Ich stehe für ein klärendes Gespräch jederzeit zur Verfügung." — "Eine Lösung, die für alle Seiten akzeptabel ist, erscheint mir erreichbar."
 
 ## Bausteine für Missverständnis-Auflösung
 
-„Es scheint hier zu einem Missverständnis gekommen zu sein, das ich gerne aufklären möchte." — „Vielleicht habe ich mich in meinem letzten Schreiben nicht klar genug ausgedrückt." — „Ich möchte meinen Standpunkt noch einmal präzisieren." — „Es tut mir leid, wenn meine Formulierung zu Irritationen geführt hat."
+"Es scheint hier zu einem Missverständnis gekommen zu sein, das ich gerne aufklären möchte." — "Vielleicht habe ich mich in meinem letzten Schreiben nicht klar genug ausgedrückt." — "Ich möchte meinen Standpunkt noch einmal präzisieren." — "Es tut mir leid, wenn meine Formulierung zu Irritationen geführt hat."
 
 ## Bausteine für Entschärfung von Drohgebärden
 
-„Ich hoffe, wir können die Angelegenheit ohne förmliche Maßnahmen regeln." — „Selbstverständlich stehen Ihnen alle rechtlichen Wege offen; gleichzeitig lade ich Sie ein, zunächst..." — „Ich bin zuversichtlich, dass eine Einigung im gemeinsamen Interesse beider Seiten liegt."
+"Ich hoffe, wir können die Angelegenheit ohne förmliche Maßnahmen regeln." — "Selbstverständlich stehen Ihnen alle rechtlichen Wege offen; gleichzeitig lade ich Sie ein, zunächst..." — "Ich bin zuversichtlich, dass eine Einigung im gemeinsamen Interesse beider Seiten liegt."
 
 ## Berufsrechtlicher Hintergrund
 

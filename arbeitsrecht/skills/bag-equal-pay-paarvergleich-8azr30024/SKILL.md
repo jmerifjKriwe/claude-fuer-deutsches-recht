@@ -34,10 +34,10 @@ Die Klägerin verweist auf den konkret benannten männlichen Vergleichskollegen 
 
 | Einwand | Reaktion |
 | --- | --- |
-| „Der Kollege verhandelte besser." | Verhandlungsgeschick ist nach BAG keine objektive Rechtfertigung mehr |
-| „Branchenüblicher Median liegt höher." | Medianwerte rechtfertigen keine konkrete Differenz im Paarvergleich |
-| „Der Kollege hatte Berufserfahrung mehr." | Konkrete Bezifferung erforderlich: Wie viele Jahre, welche Wertigkeit |
-| „Ich kann nicht offenlegen, was andere verdienen." | Paragraf 10 EntgTranspG und prozessuale Offenlegungspflicht nach Paragraf 138 ZPO |
+| "Der Kollege verhandelte besser." | Verhandlungsgeschick ist nach BAG keine objektive Rechtfertigung mehr |
+| "Branchenüblicher Median liegt höher." | Medianwerte rechtfertigen keine konkrete Differenz im Paarvergleich |
+| "Der Kollege hatte Berufserfahrung mehr." | Konkrete Bezifferung erforderlich: Wie viele Jahre, welche Wertigkeit |
+| "Ich kann nicht offenlegen, was andere verdienen." | Paragraf 10 EntgTranspG und prozessuale Offenlegungspflicht nach Paragraf 138 ZPO |
 
 ## Rechtsfolgen
 

@@ -48,7 +48,7 @@ Hinweis: Die Gutachtenmethode entspricht dem deutschen juristischen Standard. Ku
 
 Aus den Fallnotizen: Welche rechtlichen Fragen stellt dieser Fall?
 
-Jede Frage als Obersatz formulieren. Nicht „Mietrecht" — sondern: „Kann die Mandantin die Miete mindern, weil die Heizung seit November defekt ist, und wenn ja, in welcher Höhe?"
+Jede Frage als Obersatz formulieren. Nicht "Mietrecht" — sondern: "Kann die Mandantin die Miete mindern, weil die Heizung seit November defekt ist, und wenn ja, in welcher Höhe?"
 
 Wenn mehrere Fragen vorliegen, bekommt jede ihren eigenen Prüfungsblock.
 
@@ -78,7 +78,7 @@ Falls der Skill einen allgemeinen Normrahmen mit hoher Sicherheit kennt, kann di
 **Subsumtion:** Hier steht die Analyse des Studierenden. Gerüst strukturieren, nicht ausfüllen:
 
 > `[STUDENTISCHE ANALYSE: Norm auf Sachverhalt anwenden. Relevante Tatsachen:
-> - Heizung seit November defekt — seit wann ist dies ein „erheblicher" Mangel?
+> - Heizung seit November defekt — seit wann ist dies ein "erheblicher" Mangel?
 > - Wann und wie hat die Mandantin den Vermieter informiert (§ 536c BGB)?
 > - Ist ein Minderungsausschluss nach § 536b BGB möglich?
 > - Wie hoch ist der Minderungsprozentsatz (Rspr. zu Heizungsausfall prüfen)?]`
@@ -182,7 +182,7 @@ sie systematisch abarbeiten kann — und /recherche-start für jede starten kann
 
 **Szenario:** Mandant Koch, Mieter einer 3-Zimmer-Wohnung. Heizung defekt seit 01.11.2025. Vermieter nach mündlicher Anzeige vom 05.11.2025 untätig. Mandant zahlt weiter volle Miete 1.200 €/Monat.
 
-Obersatz: „Hat Herr Koch einen Anspruch auf Mietminderung nach § 536 Abs. 1 BGB und wenn ja, in welcher Höhe?"
+Obersatz: "Hat Herr Koch einen Anspruch auf Mietminderung nach § 536 Abs. 1 BGB und wenn ja, in welcher Höhe?"
 
 Normblock enthält: `[RECHERCHE ERFORDERLICH: § 536 BGB, § 536c BGB (Anzeigepflicht), Rspr. zu Heizungsausfall als erheblicher Mangel — AG/LG München, AG Hamburg; Höhe des Minderungsprozentsatzes]`. Subsumtionsblock enthält: `[STUDENTISCHE ANALYSE: Anzeigepflicht am 05.11.2025 erfüllt? Schriftform? Wie viele Monate betroffen?]`. Ergebnisblock offen.
 
@@ -196,7 +196,7 @@ Normblock enthält: `[RECHERCHE ERFORDERLICH: § 536 BGB, § 536c BGB (Anzeigepf
 
 ## Quellenpflicht
 
-Jeder im Gerüst vorgeschlagene Normrahmen oder Entscheidungshinweis ist mit der Herkunft zu kennzeichnen: `[juris]`, `[beck-online]`, `[dejure]` für datenbankgestützte Belege; `[Modellwissen — verifizieren]` für aus dem Modell stammende Hinweise. Hinweise mit „verifizieren" tragen ein höheres Fehlerrisiko und sind zuerst zu prüfen. Tags nicht entfernen — sie sind das schnellste Signal für den Supervisor, welche Stellen besonderer Aufmerksamkeit bedürfen.
+Jeder im Gerüst vorgeschlagene Normrahmen oder Entscheidungshinweis ist mit der Herkunft zu kennzeichnen: `[juris]`, `[beck-online]`, `[dejure]` für datenbankgestützte Belege; `[Modellwissen — verifizieren]` für aus dem Modell stammende Hinweise. Hinweise mit "verifizieren" tragen ein höheres Fehlerrisiko und sind zuerst zu prüfen. Tags nicht entfernen — sie sind das schnellste Signal für den Supervisor, welche Stellen besonderer Aufmerksamkeit bedürfen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 

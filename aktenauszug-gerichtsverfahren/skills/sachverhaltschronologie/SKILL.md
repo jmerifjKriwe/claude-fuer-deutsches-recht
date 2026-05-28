@@ -84,8 +84,8 @@ Die Sachverhaltschronologie listet alle wesentlichen außerprozessualen Ereignis
 
 ## Umgang mit unklaren Daten
 
-- Ungenaues Datum: „ca. [Monat JJJJ]" oder „zwischen [Datum] und [Datum]"
-- Datum nicht bekannt: „[Zeitraum unbekannt, nach Aktenlage ca. ...]"
+- Ungenaues Datum: "ca. [Monat JJJJ]" oder "zwischen [Datum] und [Datum]"
+- Datum nicht bekannt: "[Zeitraum unbekannt, nach Aktenlage ca. ...]"
 - Widersprüchliche Daten in den Schriftsätzen: beide Versionen nennen und Partei angeben
 
 ## Qualitätscheck

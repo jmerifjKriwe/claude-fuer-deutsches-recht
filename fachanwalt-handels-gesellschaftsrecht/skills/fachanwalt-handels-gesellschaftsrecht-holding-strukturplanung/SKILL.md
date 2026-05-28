@@ -130,12 +130,12 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ANTEILSÜBERTRAGUNGSVERTRAG
 
 Parteien:
-Übertragender: [Name/GmbH], [Anschrift] (nachfolgend „Übertragender")
-Erwerber: [Holding-GmbH], vertreten durch Geschäftsführer [Name] (nachfolgend „Holding")
+Übertragender: [Name/GmbH], [Anschrift] (nachfolgend "Übertragender")
+Erwerber: [Holding-GmbH], vertreten durch Geschäftsführer [Name] (nachfolgend "Holding")
 
 § 1 Übertragungsgegenstand
 Der Übertragende ist Inhaber eines Geschäftsanteils von EUR [Betrag] (nominal)
-an der [Operative GmbH], [Sitz], HRB [Nr.] (nachfolgend „Gesellschaft").
+an der [Operative GmbH], [Sitz], HRB [Nr.] (nachfolgend "Gesellschaft").
 Der Übertragende überträgt diesen Geschäftsanteil auf die Holding.
 
 § 2 Kaufpreis / Einbringungswert
@@ -174,7 +174,7 @@ Schritt 2: Notartermin
 [ ] Gesellschaftsvertrag (Satzung) vorbereiten:
     - Firma: [Name] Holding GmbH
     - Stammkapital: mind. EUR 25.000 (§ 5 GmbHG)
-    - Gesellschafterzweck: „Erwerb, Verwaltung und Veräußerung von
+    - Gesellschafterzweck: "Erwerb, Verwaltung und Veräußerung von
       Unternehmensbeteiligungen"
     - Geschäftsführer(-in) benennen
     - Stammeinlagen aufteilen
@@ -228,12 +228,12 @@ Kosten ca.:
 
 | Gegenargument | Herkunft | Reaktion |
 |--------------|---------|----------|
-| „§ 8b KStG Beteiligung < 10 %" | Finanzamt | Stichtag = Beginn des Wirtschaftsjahres; unterjährigen Erwerb so planen, dass Jahresbeginn überschritten |
-| „Gewerbliche Beimengung schadet § 9 Nr. 1 S. 2 GewStG" | Finanzamt | Nebentätigkeiten aus Immobilien-GmbH ausgliedern; reine Verwaltungsgesellschaft sicherstellen |
-| „Wegzugsbesteuerung bei Wohnsitzwechsel" | Steuerberater/Mandant | § 6 AStG Ratenzahlung bei EU/EWR-Wohnsitz; Rückkehroption innerhalb 7 Jahre |
-| „Holding nach operativer GmbH gegründet — Umwandlung nötig" | Mandant | §§ 20, 21 UmwStG: Einbringung zu Buchwerten möglich; Sperrfrist 7 Jahre beachten |
-| „Pflichtteils-Schutz durch Stiftung fraglich" | Erbe | Stiftung muss seit > 10 Jahren bestehen für vollständigen Schutz; BGH-Linie beachten |
-| „Doppelbesteuerung Holding → Privat" | Mandant | Holding thesauriert; Ausschüttung strategisch planen; Vermögensaufbau in Holding günstiger als Direkteinnahme |
+| "§ 8b KStG Beteiligung < 10 %" | Finanzamt | Stichtag = Beginn des Wirtschaftsjahres; unterjährigen Erwerb so planen, dass Jahresbeginn überschritten |
+| "Gewerbliche Beimengung schadet § 9 Nr. 1 S. 2 GewStG" | Finanzamt | Nebentätigkeiten aus Immobilien-GmbH ausgliedern; reine Verwaltungsgesellschaft sicherstellen |
+| "Wegzugsbesteuerung bei Wohnsitzwechsel" | Steuerberater/Mandant | § 6 AStG Ratenzahlung bei EU/EWR-Wohnsitz; Rückkehroption innerhalb 7 Jahre |
+| "Holding nach operativer GmbH gegründet — Umwandlung nötig" | Mandant | §§ 20, 21 UmwStG: Einbringung zu Buchwerten möglich; Sperrfrist 7 Jahre beachten |
+| "Pflichtteils-Schutz durch Stiftung fraglich" | Erbe | Stiftung muss seit > 10 Jahren bestehen für vollständigen Schutz; BGH-Linie beachten |
+| "Doppelbesteuerung Holding → Privat" | Mandant | Holding thesauriert; Ausschüttung strategisch planen; Vermögensaufbau in Holding günstiger als Direkteinnahme |
 
 ## Streitwert und Kosten
 

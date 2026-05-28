@@ -42,7 +42,7 @@ Einsatzbereiche:
 ## Eingaben
 
 1. **Sachverhalt** – als Text eingefügt, Pfad oder mündlich formuliert
-2. **Aufgabenstellung** – „Prüfe alle Ansprüche" / „Ist die Klage begründet?" / „Prüfe die Strafbarkeit von A"
+2. **Aufgabenstellung** – "Prüfe alle Ansprüche" / "Ist die Klage begründet?" / "Prüfe die Strafbarkeit von A"
 3. **Rechtsgebiet** (optional, wird aus Sachverhalt abgeleitet)
 4. **Lernprofil** aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md` → Lernstil (Drill / Erklärung), Semester, Schwächebereiche
 
@@ -52,15 +52,15 @@ Das Plugin verwendet **ausschließlich** das deutsche Vier-Schritte-Schema. IRAC
 
 ```
 1. OBERSATZ
-   Formulierung: „[Person] könnte gegen [Person] einen Anspruch auf
+   Formulierung: "[Person] könnte gegen [Person] einen Anspruch auf
    [Rechtsfolge] gemäß § X BGB/StGB/VwGO haben."
-   Pflicht: hypothetisch, nicht assertorisch. „A hat …" ist Urteilsstil → falsch
+   Pflicht: hypothetisch, nicht assertorisch. "A hat …" ist Urteilsstil → falsch
    für Klausuren.
 
 2. DEFINITION
    Abstrakte Tatbestandsmerkmale der Norm (wörtlich oder paraphrasiert).
    Pflicht: Kommentarzitat oder Lehrbuchbeleg einfügen.
-   Beispiel: „Besitz i. S. d. § 854 BGB ist die tatsächliche Sachherrschaft,
+   Beispiel: "Besitz i. S. d. § 854 BGB ist die tatsächliche Sachherrschaft,
    Grüneberg/Herrler, BGB, 84. Aufl. 2025, § 854 Rn. 1."
 
 3. SUBSUMTION
@@ -69,7 +69,7 @@ Das Plugin verwendet **ausschließlich** das deutsche Vier-Schritte-Schema. IRAC
    de Übernahme. Streitstände auflösen (h.M. mit Beleg, Gegenauffassung benennen).
 
 4. ERGEBNIS
-   Kurze, eindeutige Aussage: „Damit hat A gegen B einen Anspruch auf X
+   Kurze, eindeutige Aussage: "Damit hat A gegen B einen Anspruch auf X
    gemäß § Y BGB. / Der Anspruch besteht nicht."
 ```
 
@@ -85,7 +85,7 @@ Die Reihenfolge ist nicht beliebig – vgl. `../references/methodik-buergerliche
 6. Gefährdungshaftung, verschuldensunabhängig (§ 7 StVG; § 1 ProdHaftG; § 1 HaftpflG; § 33 LuftVG; § 25 AtG; § 89 II WHG; § 84 AMG; § 32 GenTG; § 1 UmweltHG; § 833 S. 1 BGB)
 7. Bereicherungsansprüche (§§ 812 ff. BGB)
 
-Die Sammelbegriffe »vertragsähnlich« und »quasivertraglich« werden bewusst vermieden — sie sind in der Lehre uneinheitlich besetzt. Die Gefährdungshaftung ist eigenständige verschuldensunabhängige Haftungsspur, **kein** Unterfall des § 823 BGB; in Klausuren gern übersehen.
+Die Sammelbegriffe "vertragsähnlich" und "quasivertraglich" werden bewusst vermieden — sie sind in der Lehre uneinheitlich besetzt. Die Gefährdungshaftung ist eigenständige verschuldensunabhängige Haftungsspur, **kein** Unterfall des § 823 BGB; in Klausuren gern übersehen.
 
 Strafrecht: Täterschaft vor Teilnahme, vollendetes Delikt vor Versuch, schwerer vor minder schwerer Fall.
 
@@ -108,7 +108,7 @@ Das Plugin gibt:
 - **Leere Slots** für Obersatz, Definition, Subsumtion, Ergebnis
 - Hinweise auf relevante Streitstände (mit Kommentarstellen, ohne die Lösung vorwegzunehmen)
 
-Im **Drill-Modus**: Fragen statt Hinweise. „Was ist der erste Anspruch, den du prüfst?"
+Im **Drill-Modus**: Fragen statt Hinweise. "Was ist der erste Anspruch, den du prüfst?"
 
 ### Schritt 3: Begleitendes Feedback
 
@@ -125,7 +125,7 @@ Das Plugin **schreibt den Abschnitt nicht um**. Es zeigt genau, was fehlt oder u
 Alle genannten Kommentare und Urteile werden auf Formatkonformität mit `../references/zitierweise.md` geprüft.
 
 Beispiel-Korrektur:
-> „Du hast zitiert: `MüKo § 280 Rn. 154`. Korrekte Form: `Ernst, in: MüKoBGB, 9. Aufl. 2022, § 280 Rn. 154.` – Bearbeiter vor Kommentartitel."
+> "Du hast zitiert: `MüKo § 280 Rn. 154`. Korrekte Form: `Ernst, in: MüKoBGB, 9. Aufl. 2022, § 280 Rn. 154.` – Bearbeiter vor Kommentartitel."
 
 ## Quellen und Zitierweise
 
@@ -213,8 +213,8 @@ Grüneberg/Weidenkaff, BGB, 84. Aufl. 2025, § 434 Rn. 1; Ernst, in: MüKoBGB, 9
 
 ## Risiken / typische Fehler
 
-- **Assertorischer Obersatz:** „A hat einen Anspruch auf …" ist Urteilsstil und in Klausuren ein Aufbaufehler.
-- **Subsumtion als Behauptung:** „Das Tatbestandsmerkmal liegt vor." ohne Sachverhaltsbezug ist keine Subsumtion.
+- **Assertorischer Obersatz:** "A hat einen Anspruch auf …" ist Urteilsstil und in Klausuren ein Aufbaufehler.
+- **Subsumtion als Behauptung:** "Das Tatbestandsmerkmal liegt vor." ohne Sachverhaltsbezug ist keine Subsumtion.
 - **Streitstand übergehen:** Leitentscheidungen und Kommentarstreitstände sind im 1. StEx Bewertungsbestandteil.
 - **Konkurrenzfragen nicht lösen:** Wenn § 823 Abs. 1 BGB und §§ 437, 280 BGB nebeneinander bestehen, dies kurz konstatieren (kumulative Anspruchskonkurrenz).
 - **Zu lange Obersätze:** Der Obersatz soll die Rechtsfolge benennen, nicht die gesamte Prüfung vorwegnehmen.

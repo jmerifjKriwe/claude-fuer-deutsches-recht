@@ -12,7 +12,7 @@ Banken und Investoren stützen die Vollstreckung in Immobilien fast immer auf ei
 ## Startet bei
 
 - Notarielle Urkunde mit Grundschuld vorhanden
-- Unterwerfung des Eigentümers/Schuldners „in sein gesamtes Vermögen" und/oder „in den jeweiligen Grundbesitz"
+- Unterwerfung des Eigentümers/Schuldners "in sein gesamtes Vermögen" und/oder "in den jeweiligen Grundbesitz"
 - Sicherungsabrede (Zweckerklärung) liegt vor
 - Forderung fällig (gekündigt, Zahlungsverzug)
 
@@ -30,7 +30,7 @@ Banken und Investoren stützen die Vollstreckung in Immobilien fast immer auf ei
 ## Workflow
 
 1. **Drei-Säulen-Prüfung speziell**:
-   - **Titel**: notarielle Urkunde mit Unterwerfung – wurde sie als „Vollstreckungstitel" ausgestellt (in der Regel formularmäßig „der Eigentümer unterwirft sich ...").
+   - **Titel**: notarielle Urkunde mit Unterwerfung – wurde sie als "Vollstreckungstitel" ausgestellt (in der Regel formularmäßig "der Eigentümer unterwirft sich ...").
    - **Klausel** § 795 i.V.m. § 724 ZPO durch den Notar oder beim Amtsgericht. Bei Forderungsabtretung Klauselumschreibung § 727 ZPO – zwingend (BGH 30.3.2010 – XI ZR 200/09).
    - **Zustellung** der vollstreckbaren Ausfertigung an den Schuldner; bei dinglicher Vollstreckung an den Eigentümer (auch Dritter) nach § 800 Abs. 2 ZPO.
 2. **Kündigung Grundschuld § 1193 BGB**: sechs Monate Kündigungsfrist, abdingbar nur eingeschränkt (AGB-Kontrolle gem. § 307 BGB). Kündigungsschreiben zustellen.

@@ -11,7 +11,7 @@ Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus de
 
 ## Übersicht
 
-Diese Testakte enthält einen **generischen Muster-Entwurf einer KI-Nutzungsrichtlinie** für die fiktive Anwaltskanzlei „Mustermann & Musterfrau Rechtsanwälte PartG mbB". Das Dokument dient ausschließlich als Vorlage und Demonstrationsmaterial für das Plugin `ki-richtlinie-kanzleien`.
+Diese Testakte enthält einen **generischen Muster-Entwurf einer KI-Nutzungsrichtlinie** für die fiktive Anwaltskanzlei "Mustermann & Musterfrau Rechtsanwälte PartG mbB". Das Dokument dient ausschließlich als Vorlage und Demonstrationsmaterial für das Plugin `ki-richtlinie-kanzleien`.
 
 ## Zweck
 

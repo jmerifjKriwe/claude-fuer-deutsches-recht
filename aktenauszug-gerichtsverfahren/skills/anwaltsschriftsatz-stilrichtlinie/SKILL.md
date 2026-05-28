@@ -35,17 +35,17 @@ Diese Stilrichtlinie legt verbindliche Regeln für Sprache, Gliederung und Forma
 - **Sachlich und präzise:** Jeder Satz transportiert eine Information. Füllphrasen vermeiden.
 - **Juristisch korrekt:** Rechtsbegriffe werden in ihrer gesetzlichen oder gefestigten dogmatischen Bedeutung verwendet.
 - **Neutral:** Keine Wertungen, keine Erfolgsprognosen (→ Skill `neutralitaetspruefung`).
-- **Aktiv bevorzugen:** „Die Klägerin macht geltend" — nicht „Es wird geltend gemacht".
+- **Aktiv bevorzugen:** "Die Klägerin macht geltend" — nicht "Es wird geltend gemacht".
 
 ### Verbotene Begriffe
 
-Keine Begriffe aus dem Bereich kommerzieller Textverarbeitungssoftware oder Assistenzsysteme. Keine Formulierungen wie „basierend auf meiner Analyse" oder „nach meiner Einschätzung". Keine Ich-Form.
+Keine Begriffe aus dem Bereich kommerzieller Textverarbeitungssoftware oder Assistenzsysteme. Keine Formulierungen wie "basierend auf meiner Analyse" oder "nach meiner Einschätzung". Keine Ich-Form.
 
 ### Parteibezeichnungen
 
 - Konsistente Verwendung im gesamten Aktenauszug
 - Zulässig: vollständiger Name, Kurzname, Parteibezeichnung (die Klägerin)
-- Nicht mischen: nicht „Klägerin" in einem Abschnitt und „Frau Müller" im nächsten
+- Nicht mischen: nicht "Klägerin" in einem Abschnitt und "Frau Müller" im nächsten
 - Abkürzungen (Kl., Bekl.) nur in Tabellen, nicht in Fließtext
 
 ### Normen und Paragraphen

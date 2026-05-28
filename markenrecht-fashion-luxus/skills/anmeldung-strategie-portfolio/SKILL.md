@@ -25,7 +25,7 @@ Das Portfolio von klôtzzkètté umfasst Wortmarken, Bild- und Wort-Bild-Marken,
    - EU-Unionsmarke (UM) für einheitlichen EU-Schutz via EUIPO
    - Internationale Registrierung via Madrid-Protokoll für Drittstaaten (CH, UK, US, JP, CN, AE)
 3. **Klassenstrategie für Mode-Luxus:**
-   - Klasse 3: Parfums, Kosmetika, Pflegeprodukte (klôtzzkètté Parfum „Abîme Dorée")
+   - Klasse 3: Parfums, Kosmetika, Pflegeprodukte (klôtzzkètté Parfum "Abîme Dorée")
    - Klasse 14: Schmuck, Uhren, Edelmetalle (klôtzzkètté Bijou)
    - Klasse 18: Leder, Reiseartikel, Handtaschen (klôtzzkètté Sac)
    - Klasse 25: Bekleidung, Schuhwerk, Kopfbedeckungen (Kernklasse)
@@ -44,17 +44,17 @@ Das Portfolio von klôtzzkètté umfasst Wortmarken, Bild- und Wort-Bild-Marken,
 
 ## Falltypische Konstellationen
 
-### Konstellation 1: Erstanmeldung „klôtzzkètté" als Wortmarke
+### Konstellation 1: Erstanmeldung "klôtzzkètté" als Wortmarke
 klôtzzkètté SA plant die Markteinführung in DE/EU. Strategie: Gleichzeitige DPMA-Anmeldung (Klassen 14/18/25/35) und EUIPO-Anmeldung mit 6-Monats-Priorität. Sonderzeichen ô/è im Markenwort sind zulässig (Art. 26 I lit. b UMV), erfordern aber eine phonetische Entsprechung in der Beschreibung.
 
 ### Konstellation 2: Erweiterung nach Asien
 Nach 3 Jahren Markterfolg plant die Comtesse Expansion nach CN/JP/KR. Lösung: Madrid-Protokoll-Anmeldung auf Basis der bestehenden EUIPO-Registrierung. WIPO-Gebühren variieren je Bestimmungsland (CN-Zuschlag besonders hoch für Klasse 25).
 
-### Konstellation 3: Neue Produktlinie „klôtzzkètté Maison"
+### Konstellation 3: Neue Produktlinie "klôtzzkètté Maison"
 Haushaltstextilien (Klasse 24), Möbel (Klasse 20), Innenausstattung (Klasse 42 Designdienstleistungen). Eigenständige Unter-Marke oder Erweiterung der bestehenden Registrierungen? Bei über 5 Jahren Benutzungsnachweis in Klasse 25 können neue Klassen via DPMA-Einzel-Anmeldung hinzugefügt werden (keine Zusammenlegung möglich — neue Aktenzeichen).
 
 ### Konstellation 4: Reaktive Verteidigung gegen Brezelmann Discount
-Brezelmann Discount KG (Bad Mergentheim) hat „KLÖTZ-KETTE" in Klasse 25 beim DPMA angemeldet. Prioritätslücke! Sofortiger Widerspruch §§ 42 ff. MarkenG — vgl. Skill `dpma-widerspruch-und-loeschung`.
+Brezelmann Discount KG (Bad Mergentheim) hat "KLÖTZ-KETTE" in Klasse 25 beim DPMA angemeldet. Prioritätslücke! Sofortiger Widerspruch §§ 42 ff. MarkenG — vgl. Skill `dpma-widerspruch-und-loeschung`.
 
 ## Belege & Kommentare
 

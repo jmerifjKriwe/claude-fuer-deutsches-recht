@@ -47,7 +47,7 @@ Ein Prozessportfolio bleibt nur dann nützlich, wenn es aktuell ist. Dieser Skil
 
 Vor dem Einpflegen eines Eintrags wird geprüft, ob das Mandat in `_log.yaml` enthalten ist. Fehlt es:
 
-> „Das Mandat [Bezeichnung] ist nicht im Mandatsprotokoll erfasst. Bitte zunächst `/prozessrecht:mandat-aufnahme` ausführen, damit die Interessenkonfliktprüfung erfolgt und die Mandatsakte angelegt wird."
+> "Das Mandat [Bezeichnung] ist nicht im Mandatsprotokoll erfasst. Bitte zunächst `/prozessrecht:mandat-aufnahme` ausführen, damit die Interessenkonfliktprüfung erfolgt und die Mandatsakte angelegt wird."
 
 ### Schritt 1: Ereignistyp
 
@@ -103,12 +103,12 @@ Bei bestimmten Ereignistypen ist eine Wesentlichkeitsprüfung obligatorisch — 
 
 | Ereignistyp | Hinweistext |
 |---|---|
-| Sachlich (neue Tatsachen, relevantes Dokument, Entscheidung zur Sache) | „Dieses Ereignis ist sachlicher Natur. Ändert es die Wesentlichkeitseinstufung? Aktuell: [X]. Optionen: rückgestellt / offengelegt / beobachtet / keine. Änderung?" |
-| Strategie (Positionswechsel, Vergleichsangebot gemacht oder erhalten) | „Vergleichsaktivität kann eine Wesentlichkeitsumstufung auslösen. Aktuell: [X]. Wenn das Angebot die Exposure verschiebt oder den Streit von 'bestritten' auf 'wahrscheinlich und schätzbar' bewegt, bitte umklassifizieren." |
-| Risikoneubewertung | „Risiko hat sich verändert. Die Wesentlichkeit sollte folgen. Aktuell: [X]. Umklassifizieren?" |
-| Behördliche Maßnahme | „Behördenhandeln (Durchsuchung, Vorladung, Ordnungsverfügung) löst regelmäßig eine Offenlegungsanalyse aus. Aktuell: [X]. Änderung?" |
+| Sachlich (neue Tatsachen, relevantes Dokument, Entscheidung zur Sache) | "Dieses Ereignis ist sachlicher Natur. Ändert es die Wesentlichkeitseinstufung? Aktuell: [X]. Optionen: rückgestellt / offengelegt / beobachtet / keine. Änderung?" |
+| Strategie (Positionswechsel, Vergleichsangebot gemacht oder erhalten) | "Vergleichsaktivität kann eine Wesentlichkeitsumstufung auslösen. Aktuell: [X]. Wenn das Angebot die Exposure verschiebt oder den Streit von 'bestritten' auf 'wahrscheinlich und schätzbar' bewegt, bitte umklassifizieren." |
+| Risikoneubewertung | "Risiko hat sich verändert. Die Wesentlichkeit sollte folgen. Aktuell: [X]. Umklassifizieren?" |
+| Behördliche Maßnahme | "Behördenhandeln (Durchsuchung, Vorladung, Ordnungsverfügung) löst regelmäßig eine Offenlegungsanalyse aus. Aktuell: [X]. Änderung?" |
 
-„Keine Änderung" muss explizit bestätigt werden. Im Verlaufseintrag wird festgehalten:
+"Keine Änderung" muss explizit bestätigt werden. Im Verlaufseintrag wird festgehalten:
 
 ```markdown
 **Wesentlichkeitsprüfung:** [keine Änderung / geändert von X nach Y]
@@ -137,7 +137,7 @@ Jüngster Eintrag oben, direkt unter dem `---` nach dem Header:
 **Verweisung Dokument:** [Pfad, falls angegeben]
 ```
 
-Falls keine Felder geändert wurden, entfällt der Block „Geänderte Felder".
+Falls keine Felder geändert wurden, entfällt der Block "Geänderte Felder".
 
 ### Protokolldatei `_log.yaml`
 
@@ -148,7 +148,7 @@ Falls keine Felder geändert wurden, entfällt der Block „Geänderte Felder".
 
 Der Verlaufseintrag und die Yaml-Diff werden dem Nutzer zur Freigabe vorgelegt:
 
-> „Das ist, was ich eintragen und aktualisieren werde. Soll ich das festschreiben?"
+> "Das ist, was ich eintragen und aktualisieren werde. Soll ich das festschreiben?"
 
 ## Beispiel
 

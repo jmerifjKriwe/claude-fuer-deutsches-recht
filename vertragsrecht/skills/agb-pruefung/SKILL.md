@@ -44,7 +44,7 @@ Das Modell benötigt:
 ### Leitentscheidungen
 
 - BGH, Urt. v. 14.05.2014 – VIII ZR 114/13, NJW 2014, 2708 Rn. 19 ff.: Zur Einbeziehung
-  von AGB im Onlinehandel; der bloße Verweis auf „unsere AGB" genügt, wenn die Klauseln vor
+  von AGB im Onlinehandel; der bloße Verweis auf "unsere AGB" genügt, wenn die Klauseln vor
   Vertragsschluss klar zugänglich sind; kein Erfordernis, dass der Verbraucher die AGB
   tatsächlich liest.
 - BGH, Urt. v. 18.07.2012 – VIII ZR 337/11, NJW 2013, 291 Rn. 22 f.: Transparenzgebot
@@ -104,7 +104,7 @@ Das Modell benötigt:
 
 ## Beispiel
 
-**Sachverhalt**: Eine Online-Plattform (B2C) verwendet folgende Klausel: „Änderungen an den
+**Sachverhalt**: Eine Online-Plattform (B2C) verwendet folgende Klausel: "Änderungen an den
 AGB werden dem Kunden per E-Mail mitgeteilt. Widerspricht der Kunde nicht binnen 6 Wochen,
 gilt seine Zustimmung als erteilt."
 
@@ -142,5 +142,5 @@ Verbraucher nicht erkennen kann, welche konkreten Änderungen gelten sollen.
 Jede AGB-Bewertung ist nach `references/zitierweise.md` zu belegen. Für jede als unwirksam
 eingestufte Klausel ist die einschlägige BGH-Entscheidung oder die herrschende Kommentarmeinung
 zu zitieren (Bearbeiter, Werk, Aufl., §, Rn.). Bei abweichender Instanzrechtsprechung ist auf
-den Streitstand hinzuweisen. „Die Klausel ist unwirksam" ohne Beleg ist kein ausreichendes
+den Streitstand hinzuweisen. "Die Klausel ist unwirksam" ohne Beleg ist kein ausreichendes
 Ergebnis.

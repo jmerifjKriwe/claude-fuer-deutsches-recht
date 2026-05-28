@@ -1,4 +1,4 @@
-# Schulungsakte „Roeschen Tech GmbH" — Gesellschaftsgründung mit B-Shares und Streit-Eskalation
+# Schulungsakte "Roeschen Tech GmbH" — Gesellschaftsgründung mit B-Shares und Streit-Eskalation
 
 ## ⬇️ Direkt-Download
 

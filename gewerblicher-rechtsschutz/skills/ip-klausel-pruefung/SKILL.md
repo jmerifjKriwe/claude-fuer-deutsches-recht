@@ -69,7 +69,7 @@ Bei Unklarheit über die IP-Position (Kooperationsvertrag, beidseitige Rechteein
 Bei Arbeitsverträgen, Dienstverträgen und Werkverträgen, wo der Mandant IP des Vertragspartners erwerben soll, zunächst folgende Punkte prüfen:
 
 **A — Urheber- und Leistungsschutzrechte:**
-- § 29 UrhG: Urheberrecht ist nicht übertragbar. Möglich ist nur die Einräumung von Nutzungsrechten (§§ 31 ff. UrhG). Eine Klausel, die „das Urheberrecht überträgt", ist rechtlich ungenau und erreicht das Ziel nicht.
+- § 29 UrhG: Urheberrecht ist nicht übertragbar. Möglich ist nur die Einräumung von Nutzungsrechten (§§ 31 ff. UrhG). Eine Klausel, die "das Urheberrecht überträgt", ist rechtlich ungenau und erreicht das Ziel nicht.
 - § 31 Abs. 1 UrhG: Unterschied zwischen einfachem (nicht ausschließlichem) und ausschließlichem Nutzungsrecht — ausschließliches Nutzungsrecht erlaubt Klage auf eigenem Namen, einfaches nicht.
 - § 31 Abs. 5 UrhG (Zweckübertragungslehre): Im Zweifel werden nur für den Vertragszweck unbedingt erforderliche Rechte eingeräumt. Umfang muss explizit definiert sein.
 - Urheberpersönlichkeitsrechte (§§ 12–14 UrhG) sind unveräußerlich; lediglich Verzichtserklärungen oder Nichtausübungsabreden (im Rahmen des § 138 BGB) möglich.
@@ -79,7 +79,7 @@ Bei Arbeitsverträgen, Dienstverträgen und Werkverträgen, wo der Mandant IP de
 - Bei freien Mitarbeitern: Ausdrückliche schriftliche Abtretung (§ 15 PatG) erforderlich. Zukunftsbezogene Abtretungsklauseln (noch nicht entstandene Patente) sind zulässig.
 
 **C — Klauselsprache prüfen:**
-- Aktuelle Einräumung: „räumt hiermit ein" ist stärker als „verpflichtet sich einzuräumen" (Leistungspflicht vs. dingliche Wirkung)
+- Aktuelle Einräumung: "räumt hiermit ein" ist stärker als "verpflichtet sich einzuräumen" (Leistungspflicht vs. dingliche Wirkung)
 - Umfang: Alle für die Leistung relevanten Nutzungsarten einschließlich unbekannter Nutzungsarten (§ 31a UrhG) — explizit regeln, wenn gewollt
 - Unterlizenzen: Klausel für die Berechtigung zur Unterlizenzierung (§ 35 UrhG) prüfen
 - Vorbestehende IP: Welche Rechte des Auftragnehmers sind explizit ausgenommen?
@@ -103,7 +103,7 @@ Für jede IP-relevante Klausel einen Prüfblock erstellen:
 **Warum es darauf ankommt:** [ein bis zwei Sätze — was schief geht, wenn die Klausel so bleibt]
 
 **Änderungsvorschlag (soweit erforderlich):**
-> „[konkrete Ersatzformulierung]"
+> "[konkrete Ersatzformulierung]"
 
 **Entscheidungsvorbehalt:** [Bei subjektiven Zuordnungsfragen: anwaltliche Prüfung empfehlen, Argumente pro/contra aufzeigen]
 ```
@@ -134,7 +134,7 @@ Zu prüfende Klauseltypen:
 
 IP-Klauseln scheitern als System. Prüfen:
 
-- **Passt die Lizenzgewährung zum Umfang des lizenzierten Rechts?** (Lizenz zur „Nutzung" ist enger als Lizenz zur „Nutzung, Bearbeitung und Erstellung abgeleiteter Werke".)
+- **Passt die Lizenzgewährung zum Umfang des lizenzierten Rechts?** (Lizenz zur "Nutzung" ist enger als Lizenz zur "Nutzung, Bearbeitung und Erstellung abgeleiteter Werke".)
 - **Decken die Gewährleistungen ab, was die Lizenz umfasst?** (Gewährleistung nur für Patente bei einer Lizenz, die auch Urheberrecht und Geschäftsgeheimnisse umfasst, hinterlässt Lücken.)
 - **Deckt die Freistellung was die Gewährleistung verspricht?** (Gewährleistung ohne Freistellung ist ein Versprechen ohne Rechtsbehelf.)
 - **Zieht Kündigung die Lizenz zurück?** (Oder überlebt eine bezahlte Lizenz die Kündigung? Beides vertretbar — Frage ist, ob es der Absicht entspricht.)
@@ -209,13 +209,13 @@ Vermerk mit Arbeitsergebnis-Kopfzeile, Gesamtbewertung, Rechteübertragungsprüf
 
 ## Beispiel
 
-**Eingabe:** Werkvertrag mit einem freien Softwareentwickler, der „alle Urheberrechte an den Arbeitsergebnissen überträgt".
+**Eingabe:** Werkvertrag mit einem freien Softwareentwickler, der "alle Urheberrechte an den Arbeitsergebnissen überträgt".
 
 **Befund (Auszug):**
 
 > ### Abschnitt 5.1: Rechteübertragungsklausel
 >
-> **Was sie sagt:** „Der Auftragnehmer überträgt alle Urheberrechte an den Arbeitsergebnissen auf den Auftraggeber."
+> **Was sie sagt:** "Der Auftragnehmer überträgt alle Urheberrechte an den Arbeitsergebnissen auf den Auftraggeber."
 >
 > **Marktstandard:** Einräumung ausschließlicher Nutzungsrechte in allen bekannten und unbekannten Nutzungsarten.
 >
@@ -224,12 +224,12 @@ Vermerk mit Arbeitsergebnis-Kopfzeile, Gesamtbewertung, Rechteübertragungsprüf
 > **Warum es darauf ankommt:** Urheberrecht ist nach § 29 UrhG nicht übertragbar. Die Klausel erreicht das angestrebte Ziel nicht. In einer Due-Diligence-Prüfung wird dies auffallen.
 >
 > **Änderungsvorschlag:**
-> „Der Auftragnehmer räumt dem Auftraggeber hiermit das ausschließliche, räumlich, zeitlich und inhaltlich unbeschränkte Nutzungsrecht an allen im Rahmen dieses Vertrags erstellten Arbeitsergebnissen ein, einschließlich des Rechts zur Bearbeitung und Weiterübertragung sowie zur Einräumung von Unterlizenzen."
+> "Der Auftragnehmer räumt dem Auftraggeber hiermit das ausschließliche, räumlich, zeitlich und inhaltlich unbeschränkte Nutzungsrecht an allen im Rahmen dieses Vertrags erstellten Arbeitsergebnissen ein, einschließlich des Rechts zur Bearbeitung und Weiterübertragung sowie zur Einräumung von Unterlizenzen."
 
 ## Risiken und typische Fehler
 
-- **§ 29 UrhG übersehen:** „Übertragung des Urheberrechts" ist deutschrechtlich unwirksam — nur Nutzungsrechtseinräumung möglich.
-- **Zweckübertragungslehre nicht beachtet:** Zu eng gefasste Klauseln schränken spätere Nutzungsarten ein (z. B. keine Streaming-Rechte wenn nur „Vervielfältigung" lizenziert).
+- **§ 29 UrhG übersehen:** "Übertragung des Urheberrechts" ist deutschrechtlich unwirksam — nur Nutzungsrechtseinräumung möglich.
+- **Zweckübertragungslehre nicht beachtet:** Zu eng gefasste Klauseln schränken spätere Nutzungsarten ein (z. B. keine Streaming-Rechte wenn nur "Vervielfältigung" lizenziert).
 - **Urheberpersönlichkeitsrechte ignorieren:** Nichtausübungsabrede vergessen → Risiko späterer Unterlassungsansprüche des Urhebers bei Entstellungen.
 - **KI-generierte Werke:** Unklar ob urheberrechtsschutzfähig; Abtretungsklausel ohne KI-Offenbarungspflicht ist Blindflug.
 - **Arbeitnehmererfindungen:** Ohne formelle Inanspruchnahme nach § 6 ArbnErfG bleiben Patentrechte beim Erfinder — trotz Vertragsklausel.
@@ -246,7 +246,7 @@ Jede Klauselaussage muss auf eine Norm oder Entscheidung gestützt sein. Pflicht
 ## Triage-Fragen vor IP-Klausel-Pruefung
 
 Bevor die Klauselanalyse beginnt, klaere:
-1. Handelt es sich um eine Nutzungsrechtseinraeumung (§ 31 UrhG) oder eine unzulaessige „Uebertragung des Urheberrechts" (§ 29 UrhG)?
+1. Handelt es sich um eine Nutzungsrechtseinraeumung (§ 31 UrhG) oder eine unzulaessige "Uebertragung des Urheberrechts" (§ 29 UrhG)?
 2. Sind kuenftige Nutzungsarten von der Einraeumung erfasst (§ 31a UrhG — Schriftformerfordernis, Widerrufsrecht)?
 3. Besteht eine Arbeitnehmererfindungs-Komponente (§ 69b UrhG Software, ArbnErfG) die separate Regelung erfordert?
 4. Ist die Zweckuebertragungslehre (§ 31 V UrhG) bei zu engen Klauseln zu beachten?

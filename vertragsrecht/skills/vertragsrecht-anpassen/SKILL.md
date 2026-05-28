@@ -1,6 +1,6 @@
 ---
 name: vertragsrecht-anpassen
-description: "Geführte Anpassung des Kanzleiprofils im Vertragsrecht — ändert einzelne Einstellungen ohne erneutes Erstgespräch. Lädt, wenn der Nutzer „Profil anpassen\", „Playbook ändern\", „Eskalation aktualisieren\", „Klauselposition ändern\" oder „konfigurieren\" sagt."
+description: "Geführte Anpassung des Kanzleiprofils im Vertragsrecht — ändert einzelne Einstellungen ohne erneutes Erstgespräch. Lädt, wenn der Nutzer "Profil anpassen\", "Playbook ändern\", "Eskalation aktualisieren\", "Klauselposition ändern\" oder "konfigurieren\" sagt."
 ---
 
 # Kanzleiprofil anpassen
@@ -18,9 +18,9 @@ möchte — nicht für die Ersteinrichtung (dafür: `/vertragsrecht:vertragsrech
 
 ## Eingaben
 
-- Die gewünschte Änderung in eigenen Worten: „Ändere meine Haftungsobergrenze
-  auf 6 Monate", „Neuer Eskalationsansprechpartner für Verträge über 500.000 €",
-  „Risikobereitschaft auf konservativ setzen"
+- Die gewünschte Änderung in eigenen Worten: "Ändere meine Haftungsobergrenze
+  auf 6 Monate", "Neuer Eskalationsansprechpartner für Verträge über 500.000 €",
+  "Risikobereitschaft auf konservativ setzen"
 - Optional: Abschnittsnamen aus dem Kanzleiprofil (Playbook, Eskalation,
   Kanzleistil, Integrationen etc.)
 
@@ -112,16 +112,16 @@ Kanzleiprofil.
 **Beispiele:**
 
 - *Haftungsobergrenze Fallback 12 Monate → 6 Monate:*
-  „`/vertragsrecht:vertragsprüfung` kennzeichnet künftig alles über 6 Monate als
+  "`/vertragsrecht:vertragsprüfung` kennzeichnet künftig alles über 6 Monate als
   Abweichung; bereits protokollierte Verhandlungsergebnisse bleiben unverändert."
 - *Neuer Eskalationsansprechpartner:*
-  „Jeder Redline-Vorschlag, der Ihre Zeichnungsbefugnis übersteigt, wird
+  "Jeder Redline-Vorschlag, der Ihre Zeichnungsbefugnis übersteigt, wird
   künftig an diesen Ansprechpartner gerichtet."
 - *Risikobereitschaft ausgewogen → konservativ:*
-  „Ich kennzeichne Klauseln, die zuvor als akzeptabel galten, künftig früher
+  "Ich kennzeichne Klauseln, die zuvor als akzeptabel galten, künftig früher
   als Abweichung und verschiebe den Eskalationsschwellenwert nach unten."
 - *Spürbarkeit einer Abweichung ändern:*
-  „Soll jede Verlängerung der Verjährungsfrist über 2 Jahre als GELB
+  "Soll jede Verlängerung der Verjährungsfrist über 2 Jahre als GELB
   (verhandelbar) oder als ROT (Eskalation) markiert werden?"
 
 ### Schritt 5 — Gemeinsames Profil (mandantenübergreifend)
@@ -147,8 +147,8 @@ genau, was sich geändert hat.
 
 **Szenario:** Der zuständige Partner als Eskalationspunkt hat gewechselt.
 
-1. Profil zeigt aktuell: „Eskalation an RA Müller, E-Mail"
-2. Nutzer sagt: „RA Müller ist ausgeschieden, bitte auf RA Meier ändern"
+1. Profil zeigt aktuell: "Eskalation an RA Müller, E-Mail"
+2. Nutzer sagt: "RA Müller ist ausgeschieden, bitte auf RA Meier ändern"
 3. Skill zeigt: Aktuell: `RA Müller (m.mueller@kanzlei.de)` →
    Neu: `RA Meier` (bitte E-Mail-Adresse bestätigen)
 4. Nach Bestätigung: Profil aktualisiert; Hinweis, dass `/vertragsrecht:vertragsprüfung`
@@ -162,7 +162,7 @@ genau, was sich geändert hat.
   Fahrlässigkeit in AGB), darauf hinweisen und Eintragung verweigern oder
   mit Warnung versehen.
 - **Interne Widersprüche im Profil flaggen.** Wenn Risikobereitschaft auf
-  „konservativ" steht, aber jede Eskalation der GC-Genehmigung bedarf, ist
+  "konservativ" steht, aber jede Eskalation der GC-Genehmigung bedarf, ist
   das ein Widerspruch — ansprechen, welche Einstellung gelten soll.
 - **Leitplanken-Abbau erklären.** Wenn der Nutzer eine Schutzmarkierung
   deaktivieren will (z. B. `[Prüfen]`-Hinweis auf Klauseln, Quellenangaben

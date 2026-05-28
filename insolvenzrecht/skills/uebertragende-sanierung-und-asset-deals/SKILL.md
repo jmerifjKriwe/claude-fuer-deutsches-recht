@@ -402,4 +402,4 @@ USt Asset-Deal: EUR [BETRAG] (Masseverbindlichkeit)
 <!-- AUDIT 27.05.2026 -->
 ## Audit-Hinweis (27.05.2026)
 
-- **BGH IX ZR 170/09 (04.11.2010) entfernt.** Echtes Thema laut dejure.org: Steuerberaterhaftung / Verjaehrungsbeginn bei Schadenersatz wegen versaeumten Rechtsbehelfs (Datum korrekt: 21.10.2010, nicht 04.11.2010; Fundstellen WM 2010, 2284 u.a.). Die Eintragung behauptete „Steuerpflicht Asset-Deal im Insolvenzverfahren“ — falsches Thema und falsches Datum (WRONG_TOPIC). Kein geeigneter Ersatz mit verifiziertem Aktenzeichen und Thema gefunden; Eintrag geloescht.
+- **BGH IX ZR 170/09 (04.11.2010) entfernt.** Echtes Thema laut dejure.org: Steuerberaterhaftung / Verjaehrungsbeginn bei Schadenersatz wegen versaeumten Rechtsbehelfs (Datum korrekt: 21.10.2010, nicht 04.11.2010; Fundstellen WM 2010, 2284 u.a.). Die Eintragung behauptete "Steuerpflicht Asset-Deal im Insolvenzverfahren" — falsches Thema und falsches Datum (WRONG_TOPIC). Kein geeigneter Ersatz mit verifiziertem Aktenzeichen und Thema gefunden; Eintrag geloescht.

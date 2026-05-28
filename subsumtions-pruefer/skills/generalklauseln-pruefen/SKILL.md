@@ -87,7 +87,7 @@ Das System gibt:
 - Name der Generalklausel
 - Einschlägige Fallgruppe (soweit erkennbar)
 - Indizien pro und contra
-- Ausdrücklichen Hinweis: „Das Ergebnis dieser Prüfung ist eine Indiziensammlung, keine rechtliche Bewertung."
+- Ausdrücklichen Hinweis: "Das Ergebnis dieser Prüfung ist eine Indiziensammlung, keine rechtliche Bewertung."
 
 ---
 

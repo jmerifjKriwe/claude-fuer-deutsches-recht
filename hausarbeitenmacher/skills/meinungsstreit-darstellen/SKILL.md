@@ -49,38 +49,38 @@ Wenn der Streit nicht ergebnis-relevant ist (z.B. beide Meinungen kommen zum gle
 
 ### Streit-Eröffnung
 
-- „Streitig ist, ob ..."
-- „Hier stellt sich die Frage, ob ..."
-- „In Rechtsprechung und Literatur wird diskutiert, ob ..."
+- "Streitig ist, ob ..."
+- "Hier stellt sich die Frage, ob ..."
+- "In Rechtsprechung und Literatur wird diskutiert, ob ..."
 
 ### Position-Darstellung
 
-- „Nach **herrschender Meinung** [Nachweis] ..."
-- „Eine **Mindermeinung** [Nachweis] vertritt dagegen ..."
-- „**Die Rechtsprechung** [Nachweis] sieht das ähnlich/anders, indem sie ..."
-- „**In der Literatur** [Nachweis] wird ergänzend dargestellt, dass ..."
+- "Nach **herrschender Meinung** [Nachweis] ..."
+- "Eine **Mindermeinung** [Nachweis] vertritt dagegen ..."
+- "**Die Rechtsprechung** [Nachweis] sieht das ähnlich/anders, indem sie ..."
+- "**In der Literatur** [Nachweis] wird ergänzend dargestellt, dass ..."
 
 ### Argumente einleiten
 
-- „Für diese Auffassung spricht ..."
-- „Argumentativ trägt diese Position ..."
-- „Hierfür spricht der Wortlaut / die Systematik / die Genese / das Telos ..."
+- "Für diese Auffassung spricht ..."
+- "Argumentativ trägt diese Position ..."
+- "Hierfür spricht der Wortlaut / die Systematik / die Genese / das Telos ..."
 
 ### Stellungnahme einleiten
 
-- „Im Ergebnis überzeugt die herrschende Meinung, weil ..."
-- „Die Argumente der Mindermeinung sind beachtlich, doch ..."
-- „Für die hier vertretene Auffassung spricht entscheidend ..."
+- "Im Ergebnis überzeugt die herrschende Meinung, weil ..."
+- "Die Argumente der Mindermeinung sind beachtlich, doch ..."
+- "Für die hier vertretene Auffassung spricht entscheidend ..."
 
 ### Argumente abwägen
 
-- „Die Mindermeinung hat den Vorzug, dass ... Allerdings ..."
-- „Die herrschende Meinung kann sich auf ... berufen. Dem ist jedoch ..."
+- "Die Mindermeinung hat den Vorzug, dass ... Allerdings ..."
+- "Die herrschende Meinung kann sich auf ... berufen. Dem ist jedoch ..."
 
 ## Schritt 4 — Konkretes Beispiel — § 826 BGB-Sittenwidrigkeit
 
 ```
-Streitig ist, ob das Verhalten des B als „sittenwidrig"
+Streitig ist, ob das Verhalten des B als "sittenwidrig"
 im Sinne des § 826 BGB einzustufen ist. Konkret stellt
 sich die Frage, ob die wirtschaftliche Verfolgung
 eigener Interessen, die für den Schädiger ungewöhnlich
@@ -88,13 +88,13 @@ hart ausfallen, als sittenwidrig zu qualifizieren ist.
 
 **Nach herrschender Meinung** [Nachweis: Sprau, in:
 Palandt/Grüneberg, 84. Aufl. 2025, § 826 BGB Rn. 4;
-BGH NJW 2024 Seite 1245 Rn. 24] ist „Sittenwidrigkeit" eng
+BGH NJW 2024 Seite 1245 Rn. 24] ist "Sittenwidrigkeit" eng
 auszulegen. Erforderlich ist ein besonders verwerfliches
 Verhalten, das gegen das Anstandsgefühl aller billig
 und gerecht Denkenden verstößt.
 
 Argumente:
-- Der Wortlaut „sittenwidrig" verlangt qualifizierten Unwert.
+- Der Wortlaut "sittenwidrig" verlangt qualifizierten Unwert.
 - Systematisch ist § 826 BGB als Auffang-Norm konzipiert,
   die nicht das Normalmaß rechtswidriger Schädigung erfasst.
 - Telos: Schutz vor besonders verwerflicher Schädigung.
@@ -109,13 +109,13 @@ Argumente:
 - Der Schutz-Zweck des § 826 BGB könne nur
   durch erweiterte Auslegung erreicht werden.
 - Die Praxis kennt zahlreiche Fall-Gruppen, in denen
-  schon „kaufmännische" Härte als sittenwidrig
+  schon "kaufmännische" Härte als sittenwidrig
   bewertet wurde.
 
 **Stellungnahme**:
 
 Die wohl herrschende Meinung überzeugt im Ergebnis.
-Der Wortlaut „sittenwidrig" verlangt qualifizierte
+Der Wortlaut "sittenwidrig" verlangt qualifizierte
 Verwerflichkeit. Eine Erweiterung würde § 826 BGB
 zur generellen Korrektur deliktischer Konflikte machen
 und damit den Charakter des § 823 II BGB / § 280 I BGB
@@ -147,7 +147,7 @@ vor.
 
 ### Fehler 1: Streit ohne Praxis-Bezug
 
-❌ „In der Literatur ist umstritten, ob ..."
+❌ "In der Literatur ist umstritten, ob ..."
 
 ✅ Streit mit konkretem Sachverhalt-Bezug subsumieren.
 
@@ -159,19 +159,19 @@ vor.
 
 ### Fehler 3: Keine eigene Stellungnahme
 
-❌ „Die h.M. sagt X, die Mindermeinung sagt Y. Im Ergebnis ist X richtig."
+❌ "Die h.M. sagt X, die Mindermeinung sagt Y. Im Ergebnis ist X richtig."
 
 ✅ Begründete eigene Stellungnahme — warum X überzeugt.
 
 ### Fehler 4: Eigene Stellungnahme ohne Argument
 
-❌ „Im Ergebnis überzeugt die Mindermeinung."
+❌ "Im Ergebnis überzeugt die Mindermeinung."
 
-✅ „Im Ergebnis überzeugt die Mindermeinung, weil [Argument 1, Argument 2, Argument 3]."
+✅ "Im Ergebnis überzeugt die Mindermeinung, weil [Argument 1, Argument 2, Argument 3]."
 
 ### Fehler 5: Schwacher Beleg
 
-❌ „Die h.M. sagt X (vgl. BGH)."
+❌ "Die h.M. sagt X (vgl. BGH)."
 
 ✅ Volle Fundstelle mit Randnummer.
 
@@ -186,7 +186,7 @@ vor.
 ### Sicher: Folge der h.M.
 
 - Bei klar überlegener herrschender Meinung folge ihr
-- Begründe trotzdem (nicht: „weil h.M.")
+- Begründe trotzdem (nicht: "weil h.M.")
 
 ### Mutig: Folge der Mindermeinung
 
@@ -198,16 +198,16 @@ vor.
 
 - Bei erstmaligen oder neuartigen Konstellationen
 - Mit besonderer Begründungs-Sorgfalt
-- Nicht „erfinden", sondern auf bestehende Argumente zurückgreifen
+- Nicht "erfinden", sondern auf bestehende Argumente zurückgreifen
 
 ## Schritt 8 — Tipps für die Praxis
 
 ### Hilfsfrage beim Lesen
 
-- „Was sind die Schlüssel-Argumente jeder Position?"
-- „Welche ist faktisch konsistenter?"
-- „Welche ist juristisch konsistenter?"
-- „Welche führt zu sachgerechteren Ergebnissen?"
+- "Was sind die Schlüssel-Argumente jeder Position?"
+- "Welche ist faktisch konsistenter?"
+- "Welche ist juristisch konsistenter?"
+- "Welche führt zu sachgerechteren Ergebnissen?"
 
 ### Methoden-Brücke
 

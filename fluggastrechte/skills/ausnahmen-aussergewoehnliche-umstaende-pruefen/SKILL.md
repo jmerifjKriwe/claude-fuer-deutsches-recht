@@ -9,7 +9,7 @@ description: "Prüft die Einrede außergewoehnliche Umstaende nach Art. 5 Abs. 3
 
 Art. 5 Abs. 3 VO 261/2004: Ein ausführendes Luftfahrtunternehmen ist nicht verpflichtet Ausgleichszahlungen zu leisten wenn es nachweisen kann dass die Annullierung **auf außergewöhnliche Umstände zurückgeht** die sich auch dann nicht hätten vermeiden lassen wenn alle zumutbaren Maßnahmen ergriffen worden waeren.
 
-**Beweislast** liegt bei der Airline (Wortlaut „nachweisen kann"). Pauschale Behauptung reicht nicht.
+**Beweislast** liegt bei der Airline (Wortlaut "nachweisen kann"). Pauschale Behauptung reicht nicht.
 
 ## Zwei-Stufen-Prüfung
 
@@ -63,7 +63,7 @@ Frage 1: Welche Begründung hat die Airline angegeben?
   - Pauschale Begründung ohne Detail → Beweislast nicht erfüllt → Anspruch erhalten
 
 Frage 2: Faellt der angegebene Sachverhalt in den Katalog
-„regelmäßig außergewöhnlich"?
+"regelmäßig außergewöhnlich"?
   - Nein → Anspruch erhalten; ggf. Sachverhalt kategorisieren als
     technischen Defekt
   - Ja → Stufe 2

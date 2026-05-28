@@ -36,7 +36,7 @@ In mündlicher Kommunikation kann Ironie durch Tonfall und Körpersprache erkann
 
 ## Erkennungsmerkmale von Ironie in Texten
 
-Typische Erkennungszeichen: übertriebenes Lob für offensichtlich negatives Verhalten, Anführungszeichen um Wörter, die in Wirklichkeit das Gegenteil meinen, Formulierungen wie „natürlich", „selbstverständlich", „wie erwartet" in negativem Kontext, betonte Höflichkeit als Kontrapunkt zu einem offensichtlichen Misstand.
+Typische Erkennungszeichen: übertriebenes Lob für offensichtlich negatives Verhalten, Anführungszeichen um Wörter, die in Wirklichkeit das Gegenteil meinen, Formulierungen wie "natürlich", "selbstverständlich", "wie erwartet" in negativem Kontext, betonte Höflichkeit als Kontrapunkt zu einem offensichtlichen Misstand.
 
 ## Erkennungsmerkmale von Sarkasmus
 
@@ -48,24 +48,24 @@ Schritt 1: Ironische/sarkastische Formulierung identifizieren. Schritt 2: Den ta
 
 ## Berufsrechtlicher Hintergrund
 
-§ 43a Abs. 3 BRAO (Sachlichkeitsgebot) untersagt herabsetzende Äußerungen. Sarkastische Formulierungen können als Herabsetzung im berufsrechtlichen Sinne qualifiziert werden, selbst wenn ihr Urheber sie als „nur ironisch" einschätzt. Bei Schriftsätzen hat der BGH klargestellt, dass auch als Ironie gedachte Formulierungen berufsrechtlich angemessen und der Würde des Verfahrens entsprechend sein müssen.
+§ 43a Abs. 3 BRAO (Sachlichkeitsgebot) untersagt herabsetzende Äußerungen. Sarkastische Formulierungen können als Herabsetzung im berufsrechtlichen Sinne qualifiziert werden, selbst wenn ihr Urheber sie als "nur ironisch" einschätzt. Bei Schriftsätzen hat der BGH klargestellt, dass auch als Ironie gedachte Formulierungen berufsrechtlich angemessen und der Würde des Verfahrens entsprechend sein müssen.
 
 ## Beispiele Vorher/Nachher
 
-**Vorher:** „Das haben Sie ja wirklich großartig hingekriegt."
-**Nachher:** „Das Ergebnis entspricht nicht den vereinbarten Anforderungen."
+**Vorher:** "Das haben Sie ja wirklich großartig hingekriegt."
+**Nachher:** "Das Ergebnis entspricht nicht den vereinbarten Anforderungen."
 
-**Vorher:** „Ich bin sicher, dass Sie sich dabei sehr viel gedacht haben."
-**Nachher:** „Die Entscheidungsgrundlage dieser Vorgehensweise erschließt sich mir nicht; ich bitte um Erläuterung."
+**Vorher:** "Ich bin sicher, dass Sie sich dabei sehr viel gedacht haben."
+**Nachher:** "Die Entscheidungsgrundlage dieser Vorgehensweise erschließt sich mir nicht; ich bitte um Erläuterung."
 
-**Vorher:** „Natürlich hat das Finanzamt wieder einmal alles richtig gemacht."
-**Nachher:** „Der Bescheid erscheint mir rechtlich angreifbar."
+**Vorher:** "Natürlich hat das Finanzamt wieder einmal alles richtig gemacht."
+**Nachher:** "Der Bescheid erscheint mir rechtlich angreifbar."
 
-**Vorher:** „Vielen Dank für Ihre wie immer so hilfreiche Rückmeldung." (bei ausbleibender Antwort)
-**Nachher:** „Ich habe bislang keine Rückmeldung erhalten."
+**Vorher:** "Vielen Dank für Ihre wie immer so hilfreiche Rückmeldung." (bei ausbleibender Antwort)
+**Nachher:** "Ich habe bislang keine Rückmeldung erhalten."
 
-**Vorher:** „Ihr ,Experte' hat offenbar eine eigene Meinung zum Gesetz."
-**Nachher:** „Die fachliche Einschätzung Ihres Beraters weicht von der geltenden Rechtsprechung ab."
+**Vorher:** "Ihr ,Experte' hat offenbar eine eigene Meinung zum Gesetz."
+**Nachher:** "Die fachliche Einschätzung Ihres Beraters weicht von der geltenden Rechtsprechung ab."
 
 ## Ausgabeformat
 

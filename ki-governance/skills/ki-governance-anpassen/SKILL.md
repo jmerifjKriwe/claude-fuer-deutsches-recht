@@ -1,6 +1,6 @@
 ---
 name: ki-governance-anpassen
-description: "Geführte Anpassung Ihres KI-Governance-Praxisprofils – eine Einstellung ändern, ohne das vollständige Kaltstart-Interview neu zu starten. Risikoeinstellung, Eskalationskontakte, Use-Case-Register-Einträge, Vendor-KI-Positionen, KI-Richtlinien-Commitments, Folgenabschätzungs-Hausformat oder Mandats-Workspace-Pfade anpassen. Verwenden, wenn der Nutzer sagt „ändere mein [Ding]\", „Profil aktualisieren\", „Konfiguration bearbeiten\", „Playbook anpassen\" oder „anpassen\"."
+description: "Geführte Anpassung Ihres KI-Governance-Praxisprofils – eine Einstellung ändern, ohne das vollständige Kaltstart-Interview neu zu starten. Risikoeinstellung, Eskalationskontakte, Use-Case-Register-Einträge, Vendor-KI-Positionen, KI-Richtlinien-Commitments, Folgenabschätzungs-Hausformat oder Mandats-Workspace-Pfade anpassen. Verwenden, wenn der Nutzer sagt "ändere mein [Ding]\", "Profil aktualisieren\", "Konfiguration bearbeiten\", "Playbook anpassen\" oder "anpassen\"."
 ---
 
 # /anpassen
@@ -59,13 +59,13 @@ ohne YAML manuell zu bearbeiten.
    Auswirkungen erklären, bestätigen, in Konfiguration schreiben.
 
    Beispiele für nachgelagerte Erklärungen:
-   - *Risikoeinstellung mittig → konservativ:* „Ich werde mehr Anwendungsfälle als bedingt
+   - *Risikoeinstellung mittig → konservativ:* "Ich werde mehr Anwendungsfälle als bedingt
      statt genehmigt markieren, mehr Folge-Prüfungen zur Folgenabschätzung einleiten und
      konservativere Vendor-KI-Redlines empfehlen."
-   - *Eskalationskontakt hinzufügen:* „Jeder Skill, der Eskalationen weiterleitet
+   - *Eskalationskontakt hinzufügen:* "Jeder Skill, der Eskalationen weiterleitet
      (`/anwendungsfall-triage`, `/ki-anbieter-prüfung`, `/regulierungs-lücken-analyse`), wird diesen Kontakt
      nun auf den relevanten Risikostufen einschließen."
-   - *Neuer Use-Case-Register-Eintrag:* „`/anwendungsfall-triage` gleicht beim nächsten Lauf
+   - *Neuer Use-Case-Register-Eintrag:* "`/anwendungsfall-triage` gleicht beim nächsten Lauf
      gegen diesen Eintrag ab. Bestehende Folgenabschätzungen werden nicht neu geschrieben –
      führen Sie sie neu aus, wenn Sie die neue Position darin gespiegelt sehen möchten."
 
@@ -97,16 +97,16 @@ Interaktiver Dialog: Karte → Auswahl → aktueller Wert / neuer Wert → Best�
 
 ## Risiken / typische Fehler
 
-- **Abschnitt nicht löschen.** Falls der Nutzer etwas „entfernen" möchte, auf
+- **Abschnitt nicht löschen.** Falls der Nutzer etwas "entfernen" möchte, auf
   `[Nicht konfiguriert]` setzen und erklären, was das für das Plugin-Verhalten bedeutet.
-  („Das Entfernen Ihrer Eskalationskette bedeutet, dass `/anwendungsfall-triage` eskalationswürdige
+  ("Das Entfernen Ihrer Eskalationskette bedeutet, dass `/anwendungsfall-triage` eskalationswürdige
   Punkte markiert, aber nicht an eine bestimmte Person weiterleitet.")
 - **Interne Inkonsistenz markieren.** Falls die Änderung das Profil inkonsistent machen würde
-  (z. B. Risikoeinstellung progressiv + Eskalation „alles geht an den GC"; oder „KI-VO im
-  Anwendungsbereich" + „keine Systeme für EU markiert"), Spannung aufzeigen und fragen,
+  (z. B. Risikoeinstellung progressiv + Eskalation "alles geht an den GC"; oder "KI-VO im
+  Anwendungsbereich" + "keine Systeme für EU markiert"), Spannung aufzeigen und fragen,
   welche Seite der Nutzer möchte.
 - **Leitplanken-Degradation markieren.** Falls der Nutzer eine Leitplanke deaktivieren
-  möchte („`[prüfen]`-Flag nicht mehr hinzufügen", „Zitats-Warnung weglassen"), erklären,
+  möchte ("`[prüfen]`-Flag nicht mehr hinzufügen", "Zitats-Warnung weglassen"), erklären,
   wovor die Leitplanke schützt, und die Trade-offs bestätigen. Strukturelle Leitplanken:
   - `[prüfen]`-Markierungs-Mechanismus (zeigt dem Nutzer, wann juristisches Urteil
     erforderlich ist) – tragend, nicht entfernen.

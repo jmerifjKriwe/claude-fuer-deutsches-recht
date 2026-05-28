@@ -1,6 +1,6 @@
 ---
 name: richtlinien-monitor
-description: "Überwacht die interne KI-Richtlinie auf Abweichungen von der gelebten Praxis — wöchentlicher Abgleich gespeicherter Folgenabschätzungen, Triage-Ergebnisse und Anbieterprüfungen, oder direkte Prüfung einer geplanten neuen KI-Praxis. Lädt, wenn der Nutzer „Richtlinien-Sweep\", „KI-Richtlinie prüfen\", „deckt unsere Richtlinie das ab\", „wir wollen X einführen — brauchen wir eine Richtlinienänderung\" oder „Policy-Monitor starten\" sagt."
+description: "Überwacht die interne KI-Richtlinie auf Abweichungen von der gelebten Praxis — wöchentlicher Abgleich gespeicherter Folgenabschätzungen, Triage-Ergebnisse und Anbieterprüfungen, oder direkte Prüfung einer geplanten neuen KI-Praxis. Lädt, wenn der Nutzer "Richtlinien-Sweep\", "KI-Richtlinie prüfen\", "deckt unsere Richtlinie das ab\", "wir wollen X einführen — brauchen wir eine Richtlinienänderung\" oder "Policy-Monitor starten\" sagt."
 ---
 
 # KI-Richtlinien-Monitor
@@ -14,7 +14,7 @@ nicht aufgegriffen hat.
 
 Zwei Modi: (1) **Sweep-Modus** — wöchentlicher Abgleich des Ausgabeordners
 auf Policy-Drift; (2) **Direktanfrage-Modus** — direkte Antwort auf
-„Wir wollen X einführen — was bedeutet das für unsere KI-Richtlinie?"
+"Wir wollen X einführen — was bedeutet das für unsere KI-Richtlinie?"
 
 Ausgabe ist immer: Hier ist die Lücke — ERFORDERLICH (Richtlinie wider-
 spricht Praxis) oder EMPFOHLEN (Richtlinie schweigt) — plus Formulierungsvorschlag.
@@ -75,7 +75,7 @@ Beschreibung einer Praxis → Direktanfrage-Modus.
 1. `CLAUDE.md` laden: `## KI-Richtlinien-Verpflichtungen`, `## KI-Anwendungsfall-
    Register`, `## Ausgaben` (Ordner-Pfad, Richtlinienstandort, letztes Sweep-Datum).
 2. Ausgabedateien seit letztem Sweep scannen. Bei keinen neuen Dateien:
-   „Keine neuen Ausgaben seit [Datum]. Nächster Sweep: [Datum]."
+   "Keine neuen Ausgaben seit [Datum]. Nächster Sweep: [Datum]."
 3. Aus jeder Ausgabe extrahieren: freigegebener Anwendungsfall, Einsatzmodus
    (assistiv/automatisiert), Auflagen, betroffene Parteien, Anbieter-Datennutzung.
 4. Kennzeichnen: neue Anwendungsfälle ohne Richtlinienabdeckung; automatisierte
@@ -113,9 +113,9 @@ Gefundene Lücken: [N] ERFORDERLICH | [N] EMPFOHLEN
 ## ERFORDERLICHE Änderungen
 ### [Lücke]
 Quelle: [Datei] | Was geschieht: [Beschreibung]
-Aktuelle Richtlinie: [Zitat oder „Keine Abdeckung"]
+Aktuelle Richtlinie: [Zitat oder "Keine Abdeckung"]
 Lücke: [was fehlt]
-Formulierungsvorschlag: „[Richtlinientext]" — ergänzen in [Abschnitt]
+Formulierungsvorschlag: "[Richtlinientext]" — ergänzen in [Abschnitt]
 
 ## EMPFOHLENE Änderungen [gleiche Struktur]
 
@@ -135,10 +135,10 @@ Ergebnis: [RICHTLINIENÄNDERUNG ERFORDERLICH / EMPFOHLEN / KEINE ÄNDERUNG]
 
 ## Beispiel
 
-**Direktanfrage:** „Wir wollen KI-gestützte Zusammenfassungen von
+**Direktanfrage:** "Wir wollen KI-gestützte Zusammenfassungen von
 Kundenbeschwerden einführen. Ein Mitarbeiter überprüft sie vor Weiterleitung."
 
-**Ausgabe:** Register-Eintrag „Kundenseitige KI-Assistenz" → bedingt →
+**Ausgabe:** Register-Eintrag "Kundenseitige KI-Assistenz" → bedingt →
 Offenlegung erforderlich. Richtlinie schweigt zur KI-gestützten Beschwerde-
 bearbeitung. EMPFOHLENE Ergänzung: Abschnitt zu assistierter Kunden-
 kommunikation. DSGVO Art. 13/14: Datenschutzinformation muss KI-Einsatz
@@ -148,7 +148,7 @@ nennen. Ergebnis: RICHTLINIENÄNDERUNG EMPFOHLEN.
 
 - Sweep-Datum vor Bestätigung aktualisieren: unterdrückt beim nächsten Lauf
   die Aufmerksamkeit für dieselben Lücken.
-- Zu vage Formulierungsvorschläge: „KI-gestützt" bevorzugen statt
+- Zu vage Formulierungsvorschläge: "KI-gestützt" bevorzugen statt
   konkreter Modellnamen; keine Zusagen formulieren, die das Team nicht
   einhalten kann.
 - Richtlinie selbst aktualisieren: nur nach menschlicher Prüfung und Freigabe.

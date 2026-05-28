@@ -1,6 +1,6 @@
 ---
 name: vertragsrecht-kaltstart-interview
-description: "Führt das Erstgespräch zur Mandatsaufnahme im Vertragsrecht durch und schreibt das Kanzlei- bzw. Mandatsprofil. Lädt beim ersten Einsatz des Plugins, wenn die Konfigurationsdatei noch Platzhalter enthält oder wenn der Nutzer „Plugin einrichten\", „Profil erstellen\", „Erstgespräch starten\" oder „Vertragsmandat aufnehmen\" sagt."
+description: "Führt das Erstgespräch zur Mandatsaufnahme im Vertragsrecht durch und schreibt das Kanzlei- bzw. Mandatsprofil. Lädt beim ersten Einsatz des Plugins, wenn die Konfigurationsdatei noch Platzhalter enthält oder wenn der Nutzer "Plugin einrichten\", "Profil erstellen\", "Erstgespräch starten\" oder "Vertragsmandat aufnehmen\" sagt."
 ---
 
 # Erstgespräch Vertragsrecht — Mandatsaufnahme
@@ -12,7 +12,7 @@ der Kanzlei oder Rechtsabteilung zu erfassen und in ein lebendes Kanzleiprofil
 zu schreiben. Jede andere Skill des Plugins liest dieses Profil, bevor sie
 tätig wird. Ohne ausgefülltes Profil arbeiten alle anderen Skills mit
 Standardwerten — das Erstgespräch ist der Hebel, der die Ausgaben von
-„generisch" auf „so wie Ihre Kanzlei arbeitet" verschiebt.
+"generisch" auf "so wie Ihre Kanzlei arbeitet" verschiebt.
 
 Lädt beim ersten Einsatz des Plugins oder wenn `--redo` übergeben wird.
 
@@ -361,9 +361,9 @@ rueckblick_monate: 12
 
 Zeigen Sie eine Zusammenfassung und bieten Sie an:
 
-- **Ersten Vertragstest:** „Möchten Sie einen Vertrag einreichen, um zu
+- **Ersten Vertragstest:** "Möchten Sie einen Vertrag einreichen, um zu
   sehen, wie das Playbook funktioniert?"
-- **Hinweis auf Änderbarkeit:** „Das Profil ist eine Textdatei — direkt
+- **Hinweis auf Änderbarkeit:** "Das Profil ist eine Textdatei — direkt
   bearbeitbar. Einzelne Positionen ändern: `/vertragsrecht:vertragsrecht-anpassen`."
 
 ---
@@ -400,7 +400,7 @@ Das Profil würde enthalten:
   verbietet Haftungsausschluss für Verletzung von Leben, Körper, Gesundheit —
   das ist kein verhandelbares Playbook-Element, sondern zwingendes Recht.
 - **Eskalationsmatrix mit Lücken lassen.** Jede Lücke führt zu Standard-Eskalation
-  — besser explizit als „nicht konfiguriert" markieren.
+  — besser explizit als "nicht konfiguriert" markieren.
 - **Erstgespräch bei jeder Sitzung neu starten.** Das Profil einmal schreiben,
   danach nur mit `--redo` neu befragen.
 
@@ -411,7 +411,7 @@ Jede Vertragsanalyse und jedes Playbook-Ergebnis muss Nachweise führen aus:
 - Gesetzestexten (BGB, UWG, HGB, DSGVO/BDSG) mit konkretem Paragraphen
 - BGH-Rechtsprechung in korrekter Zitierweise
   (z. B. BGH, Urt. v. 25.10.2016 – VI ZR 516/15, NJW 2017, 1104)
-- Kommentarliteratur im Bearbeiterstil „Bearbeiter, in: Werk"
+- Kommentarliteratur im Bearbeiterstil "Bearbeiter, in: Werk"
   (z. B. Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 307 Rn. 5)
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

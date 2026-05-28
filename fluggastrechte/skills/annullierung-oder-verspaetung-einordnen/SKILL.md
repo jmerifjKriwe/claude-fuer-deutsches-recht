@@ -11,7 +11,7 @@ description: "Ordnet das Stoerungsereignis rechtlich ein — Annullierung (Art. 
 
 Der **geplante Flug findet nicht statt** — die Airline streicht ihn. Indikatoren:
 
-- Mitteilung der Airline „Flug annulliert / cancelled".
+- Mitteilung der Airline "Flug annulliert / cancelled".
 - Kein Flug mit der konkreten **Flugnummer und Datum** ist abgehoben.
 - Passagiere werden auf einen anderen Flug umgebucht oder bekommen die Erstattung.
 

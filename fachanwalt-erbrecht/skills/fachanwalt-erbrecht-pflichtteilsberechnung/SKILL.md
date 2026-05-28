@@ -285,11 +285,11 @@ Wir fordern Sie auf, bis [Datum] zu zahlen.
 
 | Gegenargument Erbe | Reaktion |
 |-------------------|---------|
-| „Schenkung älter als zehn Jahre" | Ehegattenschenkung unbegrenzt; Nießbrauchsvorbehalt verlängert Frist (BGH IV ZR 138/14) |
-| „Gemischte Schenkung hat Marktwert gehabt" | BGH IV ZR 178/14: nur unentgeltlicher Anteil anzurechnen; Differenz Kaufpreis/Verkehrswert |
-| „Nachlass wertlos, kein Pflichtteil" | Ergänzungsanspruch gegen Beschenkte § 2329 BGB; Nachlasswert ≠ Ergänzungsbasis |
-| „Verjährung eingetreten" | BGH IV ZR 232/12: einheitlicher Anspruch; Kenntnis prüfen; bei nachträglicher Kenntnis neue Verjährung nur für neue Ansprüche |
-| „Privatverzeichnis reicht" | § 2314 Abs. 1 Satz 3 BGB: auf Verlangen notarielles Verzeichnis; kein Ermessen |
+| "Schenkung älter als zehn Jahre" | Ehegattenschenkung unbegrenzt; Nießbrauchsvorbehalt verlängert Frist (BGH IV ZR 138/14) |
+| "Gemischte Schenkung hat Marktwert gehabt" | BGH IV ZR 178/14: nur unentgeltlicher Anteil anzurechnen; Differenz Kaufpreis/Verkehrswert |
+| "Nachlass wertlos, kein Pflichtteil" | Ergänzungsanspruch gegen Beschenkte § 2329 BGB; Nachlasswert ≠ Ergänzungsbasis |
+| "Verjährung eingetreten" | BGH IV ZR 232/12: einheitlicher Anspruch; Kenntnis prüfen; bei nachträglicher Kenntnis neue Verjährung nur für neue Ansprüche |
+| "Privatverzeichnis reicht" | § 2314 Abs. 1 Satz 3 BGB: auf Verlangen notarielles Verzeichnis; kein Ermessen |
 
 ## Streitwert und Kosten
 

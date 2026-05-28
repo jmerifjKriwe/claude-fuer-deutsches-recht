@@ -8,7 +8,7 @@
 
 | Typ | Erkennungsmerkmal | Verwendung |
 | --- | --- | --- |
-| **plugin** | `<plugin-name>.zip` | Über „Customize Plugins -> Install from .zip“ in Claude Code/Cowork hochladen. |
+| **plugin** | `<plugin-name>.zip` | Über "Customize Plugins -> Install from .zip" in Claude Code/Cowork hochladen. |
 | **fallakte** | `testakte-<aktenname>.zip` | **Kein Plugin.** Mandatsunterlagen für Testzwecke. In den Chat ziehen, nicht zum Plugin-Upload geben. |
 | **manifest** | `marketplace.json` | **Kein Plugin.** Marketplace-Manifest für `/plugin marketplace add` und zur manuellen Inspektion. |
 

@@ -132,7 +132,7 @@ Phase D — Gesellschafterbeschluss und Notar
 
 **Einstiegs-Prompt:**
 
-> „Ich möchte ein Wandeldarlehen aufsetzen — was brauchst du von mir?"
+> "Ich möchte ein Wandeldarlehen aufsetzen — was brauchst du von mir?"
 
 Das Plugin startet mit `mandat-triage-wandeldarlehen` und führt durch:
 1. Rechtsform und Parteien klären

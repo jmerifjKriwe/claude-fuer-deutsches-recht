@@ -102,7 +102,7 @@ IP-PORTFOLIO-FRISTENBERICHT — [Datum]
 ⏰ FÄLLIG INNERHALB [N] TAGE ([N])
   [ID] / [Behörde] / [Typ] / [Bezeichnung]
     [Handlung] — fällig [Datum]
-    Grundlage: [z. B. „10. Jahrestag der Anmeldung, § 47 Abs. 1 MarkenG"]
+    Grundlage: [z. B. "10. Jahrestag der Anmeldung, § 47 Abs. 1 MarkenG"]
     [Anwalt: Kanzlei / Aktenzeichen — falls vorhanden]
 
 🟡 BEVORSTEHEND (über 30 Tage, innerhalb [N] Tage)
@@ -122,7 +122,7 @@ ZUSAMMENFASSUNG
   Letzte Portfolioprüfung: [Datum]
 ```
 
-Schlusssatz: *„Aus Portfolio-Register berechnet. Jede Frist vor Handlung gegen DPMA DPMAdirektplus, EUIPO eSearch, WIPO Madrid Monitor oder das jeweilige Behördenregister verifizieren."*
+Schlusssatz: *"Aus Portfolio-Register berechnet. Jede Frist vor Handlung gegen DPMA DPMAdirektplus, EUIPO eSearch, WIPO Madrid Monitor oder das jeweilige Behördenregister verifizieren."*
 
 ### Modus 3: Hinzufügen (`--hinzufuegen`)
 
@@ -154,9 +154,9 @@ Unter `eigene_regeln:` speichern; auf zukünftige Schutzrechte dieser Jurisdikti
 
 ### Modus 4: Aktualisieren (`--aktualisieren`)
 
-**Entscheidungs-Gate vor Statusänderung:** Bevor eine Amtshandlung oder Gebührenzahlung als „eingereicht" erfasst wird — falls der Nutzer kein Rechtsanwalt ist:
+**Entscheidungs-Gate vor Statusänderung:** Bevor eine Amtshandlung oder Gebührenzahlung als "eingereicht" erfasst wird — falls der Nutzer kein Rechtsanwalt ist:
 
-> Das Erfassen einer Marken­verlängerung, Jahresgebühr oder Gebrauchsmuster­verlängerung als „eingereicht" hat Konsequenzen. Wenn die Erfassung falsch ist — versäumtes Fristdatum, falsche Gebührenhöhe, fehlender Nachweis — verschiebt sich die Frist nicht und das Schutzrecht kann erlöschen. Haben Sie die Handlung mit dem zuständigen Patentanwalt oder Korrespondenzanwalt bestätigt (oder über DPMA DPMAdirektplus / EUIPO / WIPO überprüft)? Wenn ja: weiter. Wenn nein:
+> Das Erfassen einer Marken­verlängerung, Jahresgebühr oder Gebrauchsmuster­verlängerung als "eingereicht" hat Konsequenzen. Wenn die Erfassung falsch ist — versäumtes Fristdatum, falsche Gebührenhöhe, fehlender Nachweis — verschiebt sich die Frist nicht und das Schutzrecht kann erlöschen. Haben Sie die Handlung mit dem zuständigen Patentanwalt oder Korrespondenzanwalt bestätigt (oder über DPMA DPMAdirektplus / EUIPO / WIPO überprüft)? Wenn ja: weiter. Wenn nein:
 >
 > - Noch nicht als eingereicht erfassen.
 > - Folgendes zum Anwalt/Korrespondenzanwalt: Schutzrechts-ID, Behörde, Fristtyp, was das IP-Verwaltungssystem zeigt, was Ihrer Überzeugung nach eingereicht wurde und wann, und die Quelle dieser Überzeugung.
@@ -165,8 +165,8 @@ Kein `status: eingereicht` ohne ausdrückliches Ja über dieses Gate.
 
 **Teilmodi:**
 
-- **Manuelle Aktualisierung:** „Wir haben die Verlängerung von TM-DPMA-001 am 3. Juli eingereicht, Nachweis beigefügt." → Entsprechende Frist auf `status: eingereicht`, `eingereichtes_datum` setzen; nächste Frist im Lebenszyklus berechnen.
-- **Statusänderung:** „Bitte TM-EUIPO-004 als aufgegeben markieren." → `status` aktualisieren, `nächste_fristen` leeren, Datum notieren.
+- **Manuelle Aktualisierung:** "Wir haben die Verlängerung von TM-DPMA-001 am 3. Juli eingereicht, Nachweis beigefügt." → Entsprechende Frist auf `status: eingereicht`, `eingereichtes_datum` setzen; nächste Frist im Lebenszyklus berechnen.
+- **Statusänderung:** "Bitte TM-EUIPO-004 als aufgegeben markieren." → `status` aktualisieren, `nächste_fristen` leeren, Datum notieren.
 - **IP-System-Abgleich:** Falls Anaqua / Dennemeyer / CPA Global angebunden: aktuellen Datenstand ziehen, abgleichen. Abweichungen kennzeichnen — System of Record gewinnt.
 
 ### Modus 5: Portfolioprüfung (`--prüfung`)

@@ -30,16 +30,16 @@ Dieser Skill extrahiert aus hochgeladenen Transaktionsdokumenten (Term Sheet, SP
 Term Sheet: Enthält Rahmenbedingungen (Pre-Money, Anteilsklassen, Liquidationspräferenz, Anti-Dilution, ESOP, Board-Rechte). SPA: Enthält Kaufpreis (als Post-Money oder implizit), Warranties, CP-Liste. IRA/SHA: Enthält Informationsrechte, Vetorechte, Drag-Along/Tag-Along.
 
 ### 2. Pre-Money-Bewertung extrahieren
-Suche nach „pre-money valuation", „Pre-Money-Bewertung", „company valuation before investment". Umrechnung falls nur Post-Money angegeben: Pre-Money = Post-Money − Investitionsvolumen.
+Suche nach "pre-money valuation", "Pre-Money-Bewertung", "company valuation before investment". Umrechnung falls nur Post-Money angegeben: Pre-Money = Post-Money − Investitionsvolumen.
 
 ### 3. Investitionsvolumen extrahieren
-„Investment amount", „aggregate investment", „total subscription amount". Achtung: Aufteilen nach Investorengruppen falls mehrere.
+"Investment amount", "aggregate investment", "total subscription amount". Achtung: Aufteilen nach Investorengruppen falls mehrere.
 
 ### 4. Anteilsklassen extrahieren
 Bestehende und neue Anteilsklassen (Ordinary Shares, Preferred Shares A, B). Wandlungsrechte, Liquidationspräferenzen je Klasse, Dividendenpräferenzen. Einfluss auf vollverwässerte Anteile.
 
 ### 5. ESOP-Pool extrahieren
-„Employee Option Pool", „Management Option Programme". Größe in Anteilen oder Prozent. Vor- oder nach-Kapitalerhöhung? (Beeinflusst vollverwässerte Basis für Wandlungspreis).
+"Employee Option Pool", "Management Option Programme". Größe in Anteilen oder Prozent. Vor- oder nach-Kapitalerhöhung? (Beeinflusst vollverwässerte Basis für Wandlungspreis).
 
 ### 6. Strukturierten Extrakt ausgeben
 Tabelle mit allen extrahierten Werten, Quellenangabe (Dokument, Seite, Klausel), offene Fragen markiert. Übergabe an `wandlungspreis-berechnung`.

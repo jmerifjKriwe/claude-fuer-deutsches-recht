@@ -9,7 +9,7 @@ Der urheberrechtliche Status von KI-generierten Inhalten und die Frage, welche T
 
 ## Rechtlicher Hintergrund
 
-§ 2 Abs. 2 UrhG: Urheberrechtlicher Schutz nur für „persönliche geistige Schöpfungen" — rein maschinell erzeugter Output von KI-Systemen genießt in der Regel keinen urheberrechtlichen Schutz. § 5 UrhG: Amtliche Werke (Gesetze, Verordnungen, gerichtliche Entscheidungen) sind gemeinfrei und dürfen ohne Einschränkung genutzt werden. §§ 44a ff. UrhG: Urheberrechtsschranken (Privatkopie, wissenschaftliche Nutzung, Text- und Data-Mining nach § 44b UrhG). § 87a UrhG: Datenbankherstellerschutz für proprietäre Rechtsdatenbanken wie juris oder beck-online. § 31 UrhG: Nutzungsrechtsübertragung — maßgeblich für Lizenzbedingungen der Datenbankanbieter.
+§ 2 Abs. 2 UrhG: Urheberrechtlicher Schutz nur für "persönliche geistige Schöpfungen" — rein maschinell erzeugter Output von KI-Systemen genießt in der Regel keinen urheberrechtlichen Schutz. § 5 UrhG: Amtliche Werke (Gesetze, Verordnungen, gerichtliche Entscheidungen) sind gemeinfrei und dürfen ohne Einschränkung genutzt werden. §§ 44a ff. UrhG: Urheberrechtsschranken (Privatkopie, wissenschaftliche Nutzung, Text- und Data-Mining nach § 44b UrhG). § 87a UrhG: Datenbankherstellerschutz für proprietäre Rechtsdatenbanken wie juris oder beck-online. § 31 UrhG: Nutzungsrechtsübertragung — maßgeblich für Lizenzbedingungen der Datenbankanbieter.
 
 ## Vorgehen
 

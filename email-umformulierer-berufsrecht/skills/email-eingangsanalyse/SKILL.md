@@ -48,13 +48,13 @@ Die wichtigsten emotionalen Trigger sind: Großschreibung ganzer Wörter oder S�
 
 ## Beispiele Vorher/Nachher
 
-**Vorher:** „SIE HABEN MIR NICHT GEANTWORTET!!! Das ist eine Frechheit!!!"
+**Vorher:** "SIE HABEN MIR NICHT GEANTWORTET!!! Das ist eine Frechheit!!!"
 **Nachher (Analyse):** Konfliktgrad hoch. Trigger: Großbuchstaben, Mehrfach-Ausrufezeichen, Vorwurf fehlender Reaktion. Kern: Bitte um Rückmeldung auf ein früheres Schreiben.
 
-**Vorher:** „Ich erwarte sofort eine Erklärung, sonst schalte ich meinen Anwalt ein."
+**Vorher:** "Ich erwarte sofort eine Erklärung, sonst schalte ich meinen Anwalt ein."
 **Nachher (Analyse):** Konfliktgrad mittel. Trigger: Drohgebärde, Ultimatum. Kern: Bitte um Stellungnahme zu einem bestimmten Sachverhalt.
 
-**Vorher:** „Ihre Kollegin hat mir versprochen, dass das erledigt wird. Offenbar sind dort alle unfähig."
+**Vorher:** "Ihre Kollegin hat mir versprochen, dass das erledigt wird. Offenbar sind dort alle unfähig."
 **Nachher (Analyse):** Konfliktgrad mittel-hoch. Trigger: Pauschalurteil, Kompetenzabsprache. Kern: Unerfüllte Zusage eines Mitarbeiters; Klärungsbedarf.
 
 ## Ausgabeformat

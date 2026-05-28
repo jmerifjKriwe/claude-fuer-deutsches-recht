@@ -24,7 +24,7 @@ Arbeitsrecht ist standort- und betriebsgebunden. Die richtige Antwort in einem t
 1. `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` prüfen.
    - `--check-integrations`: Nur den Integrationsabschnitt neu ermitteln, Interview überspringen.
    - `--redo`: Vollständiges Interview neu ausführen, auch wenn Konfiguration vorhanden.
-   - Kein Flag: Falls Konfiguration vorhanden und vollständig (keine `[PLATZHALTER]`), melden: „Plugin bereits eingerichtet. Änderung mit `--redo` oder gezielt mit `/arbeitsrecht:arbeitsrecht-anpassen`."
+   - Kein Flag: Falls Konfiguration vorhanden und vollständig (keine `[PLATZHALTER]`), melden: "Plugin bereits eingerichtet. Änderung mit `--redo` oder gezielt mit `/arbeitsrecht:arbeitsrecht-anpassen`."
    - Falls Konfiguration aus altem Cache-Pfad vorhanden: Dorthin migrieren und mitteilen.
 
 2. **Teil 0 – Was ist verbunden?**

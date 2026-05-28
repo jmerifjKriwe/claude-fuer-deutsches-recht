@@ -31,19 +31,19 @@ Dieser Skill vermittelt konkrete Techniken zur Entschärfung persönlicher Angri
 
 ## Technik 1: Vom Vorwurf zur Beobachtung
 
-Ein Vorwurf bewertet und verletzt: „Sie haben X getan." Eine Beobachtung beschreibt neutral: „X ist eingetreten." Statt: „Sie haben meine E-Mail ignoriert." → „Auf meine E-Mail vom TT.MM.JJJJ ist bisher keine Antwort eingegangen." Diese Technik ist die wirksamste Einzelmaßnahme zur Entschärfung.
+Ein Vorwurf bewertet und verletzt: "Sie haben X getan." Eine Beobachtung beschreibt neutral: "X ist eingetreten." Statt: "Sie haben meine E-Mail ignoriert." → "Auf meine E-Mail vom TT.MM.JJJJ ist bisher keine Antwort eingegangen." Diese Technik ist die wirksamste Einzelmaßnahme zur Entschärfung.
 
 ## Technik 2: Vom Urteil zur Frage
 
-Urteile provozieren Widerstand; Fragen öffnen Kommunikation. Statt: „Das ist falsch." → „Worauf stützen Sie diese Einschätzung?" Statt: „Das macht keinen Sinn." → „Könnten Sie das näher erläutern?" Statt: „Sie verstehen das offensichtlich nicht." → „Ich würde gerne sichergehen, dass wir dasselbe meinen."
+Urteile provozieren Widerstand; Fragen öffnen Kommunikation. Statt: "Das ist falsch." → "Worauf stützen Sie diese Einschätzung?" Statt: "Das macht keinen Sinn." → "Könnten Sie das näher erläutern?" Statt: "Sie verstehen das offensichtlich nicht." → "Ich würde gerne sichergehen, dass wir dasselbe meinen."
 
 ## Technik 3: Vom Angriff zur Ich-Botschaft
 
-Ich-Botschaften beschreiben die eigene Perspektive ohne Angriff auf den anderen. Statt: „Sie haben mich enttäuscht." → „Ich hatte eine andere Erwartung und möchte das klären." Statt: „Sie handeln unverantwortlich." → „Ich sehe die Situation anders und bitte um Gelegenheit zur Erläuterung."
+Ich-Botschaften beschreiben die eigene Perspektive ohne Angriff auf den anderen. Statt: "Sie haben mich enttäuscht." → "Ich hatte eine andere Erwartung und möchte das klären." Statt: "Sie handeln unverantwortlich." → "Ich sehe die Situation anders und bitte um Gelegenheit zur Erläuterung."
 
 ## Technik 4: Distanzierung und Sachverhaltsbezug
 
-Den persönlichen Angriff durch Sachverhaltsbezug ersetzen: Statt „Sie" als handelnde Person tritt das Dokument, die Frist oder die Vereinbarung in den Vordergrund. Statt: „Sie haben die Frist verpasst." → „Die Frist vom TT.MM.JJJJ ist verstrichen."
+Den persönlichen Angriff durch Sachverhaltsbezug ersetzen: Statt "Sie" als handelnde Person tritt das Dokument, die Frist oder die Vereinbarung in den Vordergrund. Statt: "Sie haben die Frist verpasst." → "Die Frist vom TT.MM.JJJJ ist verstrichen."
 
 ## Berufsrechtlicher Hintergrund
 
@@ -53,13 +53,13 @@ Den persönlichen Angriff durch Sachverhaltsbezug ersetzen: Statt „Sie" als ha
 
 | Angriff | Entschärft |
 |---|---|
-| „Sie lügen mich an" | „Ihre Darstellung weicht von meinen Unterlagen ab" |
-| „Das ist Ihre Schuld" | „Die Ursache liegt im Bereich von X" |
-| „Sie handeln skrupellos" | „Die Vorgehensweise erscheint mir rechtlich problematisch" |
-| „Sie sind unzuverlässig" | „Die vereinbarten Fristen wurden bislang nicht eingehalten" |
-| „Das können Sie nicht" | „Ich bezweifle, ob dafür die rechtliche Grundlage besteht" |
-| „Sie machen alles falsch" | „Es bestehen Korrekturbedarf in mehreren Punkten" |
-| „Sie kümmern sich nicht" | „Das Anliegen scheint bislang keine vorrangige Bearbeitung erhalten zu haben" |
+| "Sie lügen mich an" | "Ihre Darstellung weicht von meinen Unterlagen ab" |
+| "Das ist Ihre Schuld" | "Die Ursache liegt im Bereich von X" |
+| "Sie handeln skrupellos" | "Die Vorgehensweise erscheint mir rechtlich problematisch" |
+| "Sie sind unzuverlässig" | "Die vereinbarten Fristen wurden bislang nicht eingehalten" |
+| "Das können Sie nicht" | "Ich bezweifle, ob dafür die rechtliche Grundlage besteht" |
+| "Sie machen alles falsch" | "Es bestehen Korrekturbedarf in mehreren Punkten" |
+| "Sie kümmern sich nicht" | "Das Anliegen scheint bislang keine vorrangige Bearbeitung erhalten zu haben" |
 
 ## Ausgabeformat
 

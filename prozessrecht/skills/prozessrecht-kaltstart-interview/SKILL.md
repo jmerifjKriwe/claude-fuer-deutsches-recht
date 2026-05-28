@@ -47,9 +47,9 @@ Keine Voreingaben erforderlich. Das Interview fragt alle benötigten Felder inte
 ### Schritt 1: Kanzlei- und Rollentyp
 
 Fragen:
-- „In welcher Rolle verwenden Sie das Plugin?" → Optionen: (a) Rechtsanwalt / Sozietät, (b) Syndikusrechtsanwalt / Rechtsabteilung, (c) Referendar / Berufseinsteiger, (d) Richter / wissenschaftlicher Mitarbeiter
-- „Wie viele aktive Mandate bearbeiten Sie typischerweise gleichzeitig?"
-- „Arbeiten Sie mit externen Korrespondenzanwälten oder außenstehenden Kanzleien?"
+- "In welcher Rolle verwenden Sie das Plugin?" → Optionen: (a) Rechtsanwalt / Sozietät, (b) Syndikusrechtsanwalt / Rechtsabteilung, (c) Referendar / Berufseinsteiger, (d) Richter / wissenschaftlicher Mitarbeiter
+- "Wie viele aktive Mandate bearbeiten Sie typischerweise gleichzeitig?"
+- "Arbeiten Sie mit externen Korrespondenzanwälten oder außenstehenden Kanzleien?"
 
 ### Schritt 2: Praxisschwerpunkte
 
@@ -69,20 +69,20 @@ Mehrfachauswahl:
 
 ### Schritt 3: Risikobereitschaft und Strategie
 
-- „Wie würden Sie Ihre Risikostrategie beschreiben?" → (a) konservativ (Prozesse vermeiden, Vergleiche bevorzugen), (b) ausgewogen, (c) aggressiv (Ansprüche vollständig verfolgen)
-- „Führen Sie überwiegend als Kläger oder Beklagter?" → (a) Kläger, (b) Beklagter, (c) beide gleich häufig
-- „Was ist Ihr primäres Gericht?" (freitextlich, z. B. „LG Frankfurt a. M.", „ArbG München")
+- "Wie würden Sie Ihre Risikostrategie beschreiben?" → (a) konservativ (Prozesse vermeiden, Vergleiche bevorzugen), (b) ausgewogen, (c) aggressiv (Ansprüche vollständig verfolgen)
+- "Führen Sie überwiegend als Kläger oder Beklagter?" → (a) Kläger, (b) Beklagter, (c) beide gleich häufig
+- "Was ist Ihr primäres Gericht?" (freitextlich, z. B. "LG Frankfurt a. M.", "ArbG München")
 
 ### Schritt 4: Kanzleistil
 
-- „Bevorzugen Sie Gutachtenstil oder Urteilsstil in internen Memos?" → (a) immer Gutachtenstil, (b) intern Gutachten, extern Urteils, (c) situationsabhängig
-- „Haben Sie besondere Formatierungsvorgaben?" (z. B. Seitennummerierung, Randnummern, Briefkopf-Muster)
-- „Bevorzugen Sie Rangnummern in Schriftsätzen?"
+- "Bevorzugen Sie Gutachtenstil oder Urteilsstil in internen Memos?" → (a) immer Gutachtenstil, (b) intern Gutachten, extern Urteils, (c) situationsabhängig
+- "Haben Sie besondere Formatierungsvorgaben?" (z. B. Seitennummerierung, Randnummern, Briefkopf-Muster)
+- "Bevorzugen Sie Rangnummern in Schriftsätzen?"
 
 ### Schritt 5: Vergütung und Kosten
 
-- „Wie rechnen Sie überwiegend ab?" → (a) gesetzliche Gebühren nach RVG, (b) Stunden- / Zeithonorar (§ 3a RVG), (c) Pauschalhonorar, (d) Erfolgshonorar (§ 4a RVG)
-- „Benötigen Sie automatische Streitwert- und Kostenberechnungen?"
+- "Wie rechnen Sie überwiegend ab?" → (a) gesetzliche Gebühren nach RVG, (b) Stunden- / Zeithonorar (§ 3a RVG), (c) Pauschalhonorar, (d) Erfolgshonorar (§ 4a RVG)
+- "Benötigen Sie automatische Streitwert- und Kostenberechnungen?"
 
 ### Schritt 6: Integrations-Check
 
@@ -91,7 +91,7 @@ Das Plugin prüft:
 - **Kalender MCP** – für automatische Fristenerinnerungen
 - **GitHub MCP** – für Versions­control der Mandatsdaten
 
-Ausgabe: „[Integration] – verfügbar / nicht verfügbar. Fallback: [Markdown-Datei]."
+Ausgabe: "[Integration] – verfügbar / nicht verfügbar. Fallback: [Markdown-Datei]."
 
 ### Schritt 7: CLAUDE.md schreiben
 
@@ -109,7 +109,7 @@ Das Plugin schreibt alle erfassten Werte in die YAML-Felder von CLAUDE.md (Absch
 1. **Interaktiver Dialog** (sequenzielle Fragen)
 2. **Zusammenfassung** am Ende: Tabellarische Übersicht aller erfassten Werte
 3. **CLAUDE.md-Update:** Automatisch, sofern bestätigt
-4. **Bestätigungs-Anzeige:** „Praxisprofil gespeichert. Sie können jetzt alle Skills verwenden."
+4. **Bestätigungs-Anzeige:** "Praxisprofil gespeichert. Sie können jetzt alle Skills verwenden."
 
 ## Risiken / typische Fehler
 

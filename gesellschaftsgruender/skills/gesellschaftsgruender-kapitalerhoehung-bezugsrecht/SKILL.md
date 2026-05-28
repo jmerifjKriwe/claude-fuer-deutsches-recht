@@ -126,7 +126,7 @@ TOP X — Kapitalerhoehung um 10.000 EUR mit
 Bezugsrechtsausschluss
 
 Beschluss-Vorlage:
-„Die Gesellschafterversammlung beschliesst,
+"Die Gesellschafterversammlung beschliesst,
 
 a) das Stammkapital der Gesellschaft um 10.000 EUR
    auf 35.000 EUR durch Ausgabe von 10.000 neuen

@@ -32,8 +32,8 @@ description: "Begründeten Einspruch gegen Steuerbescheid nach §§ 347 ff. AO f
 
 - **Einspruch:** § 347 Abs. 1 Nr. 1 AO — Einspruch ist statthaft gegen Verwaltungsakte in Abgabenangelegenheiten.
 - **Frist:** § 355 Abs. 1 AO — ein Monat ab Bekanntgabe. Bekanntgabe bei Postzustellung nach § 122 Abs. 2 Nr. 1 AO **am vierten Tag** nach Aufgabe zur Post (seit 01.01.2025 durch Postrechtsmodernisierungsgesetz PostModG; vorher dritter Tag); fällt der Vier-Tage-Tag auf Samstag, Sonntag oder Feiertag, verschiebt er sich auf den nächsten Werktag.
-- **Form:** § 357 Abs. 1 AO — schriftlich, elektronisch nach § 87a AO oder zur Niederschrift; ausdrückliche Bezeichnung als „Einspruch" nicht erforderlich, wohl aber Erkennbarkeit (BFH, Urt. v. 20.11.2008 – Az. III R 66/07, BFH/NV 2009, 884).
-- **AdV:** § 361 Abs. 2 S. 2 AO — auf Antrag, wenn ernstliche Zweifel an der Rechtmäßigkeit bestehen oder die Vollziehung eine unbillige Härte zur Folge hätte. Definition „ernstliche Zweifel" siehe BFH, Beschl. v. 10.02.1967 – Az. III B 9/66, BStBl. III 1967, 182 (st. Rspr.).
+- **Form:** § 357 Abs. 1 AO — schriftlich, elektronisch nach § 87a AO oder zur Niederschrift; ausdrückliche Bezeichnung als "Einspruch" nicht erforderlich, wohl aber Erkennbarkeit (BFH, Urt. v. 20.11.2008 – Az. III R 66/07, BFH/NV 2009, 884).
+- **AdV:** § 361 Abs. 2 S. 2 AO — auf Antrag, wenn ernstliche Zweifel an der Rechtmäßigkeit bestehen oder die Vollziehung eine unbillige Härte zur Folge hätte. Definition "ernstliche Zweifel" siehe BFH, Beschl. v. 10.02.1967 – Az. III B 9/66, BStBl. III 1967, 182 (st. Rspr.).
 - **Verböserungsverbot — nicht absolut:** § 367 Abs. 2 S. 2 AO; bei beabsichtigter Verböserung Hinweis und Gelegenheit zur Rücknahme.
 - **Bei fehlender Rechtsbehelfsbelehrung** ein Jahr (§ 356 AO).
 

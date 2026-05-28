@@ -133,7 +133,7 @@ Kommentarliteratur:
 
 ## Beispiel
 
-**Eingabe:** „Bitte die MaRisk-Novelle 2023 gegen unsere Risikomanagement-Richtlinien prüfen. Richtlinien sind im Ordner /compliance/richtlinien/ hinterlegt."
+**Eingabe:** "Bitte die MaRisk-Novelle 2023 gegen unsere Risikomanagement-Richtlinien prüfen. Richtlinien sind im Ordner /compliance/richtlinien/ hinterlegt."
 
 **Ausgabe (Auszug):**
 

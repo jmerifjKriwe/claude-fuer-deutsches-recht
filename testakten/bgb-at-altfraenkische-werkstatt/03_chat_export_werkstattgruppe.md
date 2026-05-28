@@ -1,12 +1,12 @@
 # Chat-Export Werkstattgruppe
 
-**09.04.2026, 21:22 - Kunigunde:** Ich habe auf AltWerk die kleine Prägepresse geklickt. Erstmal nur Eingangsbestätigung, die Plattform schreibt wieder „nach Prüfung“.
+**09.04.2026, 21:22 - Kunigunde:** Ich habe auf AltWerk die kleine Prägepresse geklickt. Erstmal nur Eingangsbestätigung, die Plattform schreibt wieder "nach Prüfung".
 
 **10.04.2026, 07:46 - Hildebrand:** Wenn die bronzegeführt ist, sofort nehmen. Für die Hochzeitskarten von Stift Falkenau brauchen wir genau so eine.
 
 **12.04.2026, 19:02 - Kunigunde:** Verkäuferin sagt Lieferung +190 und Antwort bis Montagabend. Ich fahre Montag nach Irmenstadt, Netz im Zug ist immer ein Trauerspiel.
 
-**13.04.2026, 22:51 - Kunigunde:** Mail ist geschrieben. Handy zeigt komisch „wird gesendet“.
+**13.04.2026, 22:51 - Kunigunde:** Mail ist geschrieben. Handy zeigt komisch "wird gesendet".
 
 **14.04.2026, 08:11 - Kunigunde:** Jetzt ging sie raus. Hoffe Montagabend reicht nicht bis Mitternacht?
 

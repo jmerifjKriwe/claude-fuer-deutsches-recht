@@ -60,17 +60,17 @@ Das Plugin analysiert den vorliegenden Fall / das Thema und:
 
 Das Plugin nimmt die Rolle des AG-Leiters ein und **bohrt dich**:
 
-> „Du bist A und behauptest einen Anspruch auf Rückzahlung. Welche Anspruchsgrundlage prüfst du zuerst, und warum nicht § 812 BGB?"
+> "Du bist A und behauptest einen Anspruch auf Rückzahlung. Welche Anspruchsgrundlage prüfst du zuerst, und warum nicht § 812 BGB?"
 
 Es gibt nicht die Antwort. Es wartet auf deine Antwort und hakt nach.
 
 Typische AG-Leiter-Fragen, die das Plugin simuliert:
-- „Was ist der Obersatz?"
-- „Wie definierst du [Tatbestandsmerkmal]?"
-- „Was sagt der Grüneberg dazu?"
-- „Was ist die Mindermeinung, und warum folgt die h.M. nicht ihr?"
-- „Kannst du den Unterschied zwischen § 280 Abs. 1 und § 280 Abs. 3 BGB erklären?"
-- „Was ändert sich, wenn [Sachverhaltsmodifikation]?"
+- "Was ist der Obersatz?"
+- "Wie definierst du [Tatbestandsmerkmal]?"
+- "Was sagt der Grüneberg dazu?"
+- "Was ist die Mindermeinung, und warum folgt die h.M. nicht ihr?"
+- "Kannst du den Unterschied zwischen § 280 Abs. 1 und § 280 Abs. 3 BGB erklären?"
+- "Was ändert sich, wenn [Sachverhaltsmodifikation]?"
 
 Im **Drill-Modus**: Das Plugin stellt die Fragen, ohne Hinweise zu geben.
 Im **Erklärungs-Modus**: Das Plugin gibt nach der Frage einen Kontext-Hinweis.
@@ -78,9 +78,9 @@ Im **Erklärungs-Modus**: Das Plugin gibt nach der Frage einen Kontext-Hinweis.
 ### Schritt 3: Sachverhaltsmodifikationen
 
 Nach der Grundbesprechung gibt das Plugin typische AG-Variationen:
-- „Was ändert sich, wenn A weiß, dass B ein Minderjähriger ist?"
-- „Wie wäre es, wenn A die Frist nicht gesetzt hätte?"
-- „Gilt das auch, wenn es sich um Dienst- statt Kaufvertrag handelt?"
+- "Was ändert sich, wenn A weiß, dass B ein Minderjähriger ist?"
+- "Wie wäre es, wenn A die Frist nicht gesetzt hätte?"
+- "Gilt das auch, wenn es sich um Dienst- statt Kaufvertrag handelt?"
 
 ### Schritt 4: Zusammenfassung
 
@@ -94,9 +94,9 @@ Nach der Simulationssitzung:
 → `../references/zitierweise.md`
 
 In der AG wird das **mündliche Zitieren** erwartet – kein vollständiges Literaturverzeichnis, aber:
-- Kommentar benennen: „Im Grüneberg, § 280 Rn. X steht …"
-- BGH nennen: „Der BGH hat in der Entscheidung NJW [Jahr], [Seite] entschieden, dass …"
-- Streitstand anzeigen: „Nach h.M. – so der Grüneberg und der MüKo – gilt X. Die Gegenauffassung bei Brox/Walker argumentiert …"
+- Kommentar benennen: "Im Grüneberg, § 280 Rn. X steht …"
+- BGH nennen: "Der BGH hat in der Entscheidung NJW [Jahr], [Seite] entschieden, dass …"
+- Streitstand anzeigen: "Nach h.M. – so der Grüneberg und der MüKo – gilt X. Die Gegenauffassung bei Brox/Walker argumentiert …"
 
 **Häufig nachgefragte Quellen in AGs:**
 - Grüneberg, BGB (Studienstandard, fast immer vorhanden)
@@ -133,11 +133,11 @@ In der AG wird das **mündliche Zitieren** erwartet – kein vollständiges Lite
 
 ```
 [AG-Leiter-Modus]
-Frage: „[Konkrete Frage im AG-Stil]"
+Frage: "[Konkrete Frage im AG-Stil]"
 
 [Nutzerantwort]
 
-Nachbohren: „[Präzisierungsfrage oder Sachverhaltsmodifikation]"
+Nachbohren: "[Präzisierungsfrage oder Sachverhaltsmodifikation]"
 ```
 
 ## Beispiel
@@ -149,23 +149,23 @@ Nachbohren: „[Präzisierungsfrage oder Sachverhaltsmodifikation]"
 Schwerpunktnormen: §§ 433, 434, 437, 439, 280, 281 BGB
 
 Die 5 wahrscheinlichsten AG-Fragen:
-1. „Was ist der Obersatz für den Schadensersatzanspruch?" → §§ 437 Nr. 3, 280 Abs. 1, 3, 281 BGB; Grüneberg/Weidenkaff, § 437 Rn. 1
-2. „Wann liegt ein Sachmangel vor?" → § 434 Abs. 1 BGB; Grüneberg/Weidenkaff, § 434 Rn. 5
-3. „War die Fristsetzung wirksam?" → § 281 Abs. 1 S. 1 BGB; Frist muss angemessen sein
-4. „Was ändert sich, wenn der Mangel erst nach 6 Monaten auftritt?" → Beweislastumkehr § 477 BGB; BGH, NJW 2021, 1006
-5. „Wie verhält sich § 280 Abs. 1 BGB zu §§ 280 Abs. 3, 281 BGB?" → Subsidiarität des Schadensersatzes statt der Leistung; Ernst, in: MüKoBGB, § 280 Rn. 60
+1. "Was ist der Obersatz für den Schadensersatzanspruch?" → §§ 437 Nr. 3, 280 Abs. 1, 3, 281 BGB; Grüneberg/Weidenkaff, § 437 Rn. 1
+2. "Wann liegt ein Sachmangel vor?" → § 434 Abs. 1 BGB; Grüneberg/Weidenkaff, § 434 Rn. 5
+3. "War die Fristsetzung wirksam?" → § 281 Abs. 1 S. 1 BGB; Frist muss angemessen sein
+4. "Was ändert sich, wenn der Mangel erst nach 6 Monaten auftritt?" → Beweislastumkehr § 477 BGB; BGH, NJW 2021, 1006
+5. "Wie verhält sich § 280 Abs. 1 BGB zu §§ 280 Abs. 3, 281 BGB?" → Subsidiarität des Schadensersatzes statt der Leistung; Ernst, in: MüKoBGB, § 280 Rn. 60
 
 **Simulierte AG-Frage:**
-„Wir sind bei dem Schadensersatzanspruch. Du sagst, § 437 Nr. 3 BGB. Gut. Aber was ist mit dem Vertretenmüssen? Hat B das zu beweisen, oder A?"
+"Wir sind bei dem Schadensersatzanspruch. Du sagst, § 437 Nr. 3 BGB. Gut. Aber was ist mit dem Vertretenmüssen? Hat B das zu beweisen, oder A?"
 
 *[Deine Antwort]*
 
-Nachbohren: „Und wenn A beweist, dass der Defekt durch unsachgemäße Behandlung nach Übergabe entstanden ist – was passiert dann mit § 477 BGB?"
+Nachbohren: "Und wenn A beweist, dass der Defekt durch unsachgemäße Behandlung nach Übergabe entstanden ist – was passiert dann mit § 477 BGB?"
 
 ## Risiken / typische Fehler
 
 - **Unpräziser Obersatz:** In der AG erwartet der Dozent den hypothetisch formulierten Obersatz, nicht eine Zusammenfassung des Sachverhalts.
 - **Streitstände nicht kennen:** AG-Leiter bohren gezielt auf bekannte Diskussionspunkte. § 434 BGB n. F. (2022) hat den Mangelbegriff verändert – vor jeder AG auf aktuelle Gesetzeslage prüfen.
 - **Sachverhaltsmodifikationen nicht antizipieren:** Fast jede AG endet mit Modifikationsfragen. Diese üben und im Lernprofil protokollieren.
-- **Quellen nicht benennen können:** „Ich glaube, das steht irgendwo im Kommentar" ist keine AG-Antwort. Mindestens Grüneberg + eine BGH-Entscheidung zu jedem Kernanspruch kennen.
+- **Quellen nicht benennen können:** "Ich glaube, das steht irgendwo im Kommentar" ist keine AG-Antwort. Mindestens Grüneberg + eine BGH-Entscheidung zu jedem Kernanspruch kennen.
 - **Defensives Schweigen:** Lieber eine strukturierte Antwort auf falschem Fundament als gar keine Antwort – der AG-Leiter kann nur korrigieren, was er hört.

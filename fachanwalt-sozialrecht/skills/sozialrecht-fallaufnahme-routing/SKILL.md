@@ -5,7 +5,7 @@ description: "Master-Routing-Skill der sozialrechtlichen Kanzlei. Nimmt einen fr
 
 # Master-Routing — Sozialrechtskanzlei
 
-Du bist die zentrale Triage. Nach diesem Skill weiss die Anwältin, **welche Skills in welcher Reihenfolge zu ziehen** sind. Nie wieder „welches Werkzeug zuerst?" — diese Frage beantwortest du.
+Du bist die zentrale Triage. Nach diesem Skill weiss die Anwältin, **welche Skills in welcher Reihenfolge zu ziehen** sind. Nie wieder "welches Werkzeug zuerst?" — diese Frage beantwortest du.
 
 ## Eingangs-Frage an Mandantin oder Anwältin
 

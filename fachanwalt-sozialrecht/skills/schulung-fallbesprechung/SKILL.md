@@ -29,7 +29,7 @@ Du fuehrst eine Schulung. Dieser Skill macht aus jedem Realfall oder einer Testa
 - Frist wird mit Bescheid-Datum verwechselt statt mit Zugang
 - Eilbedarf wird unterschaetzt (Hilfsmittel als Standardfall)
 
-**Diskussionsfrage:** „Was waere die schlechteste Entscheidung in dieser Stunde?"
+**Diskussionsfrage:** "Was waere die schlechteste Entscheidung in dieser Stunde?"
 
 **Musterlösung:** Routing-Karte ausfuellen.
 
@@ -100,15 +100,15 @@ Du fuehrst eine Schulung. Dieser Skill macht aus jedem Realfall oder einer Testa
 
 ### Eisbrecher zum Start
 
-„Wenn ein Bescheid in Ihrer Kanzlei eingeht — was tun Sie in den ersten 60 Sekunden? Drei Worte." (Sammlung an Flipchart — Frist, Zugang, Mandant, Rechtsgebiet …)
+"Wenn ein Bescheid in Ihrer Kanzlei eingeht — was tun Sie in den ersten 60 Sekunden? Drei Worte." (Sammlung an Flipchart — Frist, Zugang, Mandant, Rechtsgebiet …)
 
 ### Auflocker
 
-„Welcher Skill aus dem Plugin würden Sie noch erfinden?"
+"Welcher Skill aus dem Plugin würden Sie noch erfinden?"
 
 ### Abschlussfrage
 
-„Was nehmen Sie morgen Vormittag in Ihre Kanzlei mit?"
+"Was nehmen Sie morgen Vormittag in Ihre Kanzlei mit?"
 
 ## Bewertungsraster für Trainer
 
@@ -126,7 +126,7 @@ Die Testakte `sozialrecht-rollstuhl-tannenberg` ist auf vier Familienmitglieder 
 ## Anschluss-Skills
 
 - alle aufgerufenen Skills je Station
-- `fristenbuch-sozialrecht` als Eintrag „heute Schulung durchgeführt"
+- `fristenbuch-sozialrecht` als Eintrag "heute Schulung durchgeführt"
 
 ## Triage — kläre vor der Schulung
 

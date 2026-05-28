@@ -77,8 +77,8 @@ Strukturierte Erfassung von DD-Befunden, Bewertung und Auswirkung auf Kaufvertra
 
 ### Vorsicht bei Knowledge-Qualifiers
 
-- „To the seller's knowledge" — limitiert Garantie
-- „Material" qualifier — Schwellen-Frage
+- "To the seller's knowledge" — limitiert Garantie
+- "Material" qualifier — Schwellen-Frage
 
 ## 6) Workflow
 

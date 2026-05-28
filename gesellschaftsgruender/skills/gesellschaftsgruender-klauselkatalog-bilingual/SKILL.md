@@ -62,7 +62,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 **DE:**
 > § X Sprache
 >
-> Diese Urkunde ist in deutscher und englischer Sprache abgefasst. Bei Widersprüchen oder Auslegungszweifeln geht der deutsche Text vor. Soweit eine notarielle Beurkundung nach § 2 GmbHG erforderlich ist, ist allein die deutsche Fassung Beurkundungsgrundlage; die englische Fassung dient lediglich als „Convenience Translation".
+> Diese Urkunde ist in deutscher und englischer Sprache abgefasst. Bei Widersprüchen oder Auslegungszweifeln geht der deutsche Text vor. Soweit eine notarielle Beurkundung nach § 2 GmbHG erforderlich ist, ist allein die deutsche Fassung Beurkundungsgrundlage; die englische Fassung dient lediglich als "Convenience Translation".
 
 **EN:**
 > § X Language
@@ -108,7 +108,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 **DE:**
 > § X Golden Share — Sondervetorecht in Restrukturierungs- und Insolvenz-Konstellationen
 >
-> (1) Die Inhaberin des Geschäftsanteils der Klasse „Golden Share", [Name], geboren am [Datum], wohnhaft [Anschrift], hat zusätzlich zu den allgemeinen Stimmrechten ein Sondervetorecht. Folgende Maßnahmen der Geschäftsführung sowie folgende Beschlüsse der Gesellschafterversammlung bedürfen ihrer ausdrücklichen Zustimmung:
+> (1) Die Inhaberin des Geschäftsanteils der Klasse "Golden Share", [Name], geboren am [Datum], wohnhaft [Anschrift], hat zusätzlich zu den allgemeinen Stimmrechten ein Sondervetorecht. Folgende Maßnahmen der Geschäftsführung sowie folgende Beschlüsse der Gesellschafterversammlung bedürfen ihrer ausdrücklichen Zustimmung:
 >
 > a) Stellung eines Antrags auf Bestätigung eines Restrukturierungsplans nach § 60 StaRUG,
 > b) Inanspruchnahme einer Stabilisierungsanordnung nach §§ 49 ff. StaRUG,
@@ -126,7 +126,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 **EN:**
 > § X Golden Share — Special Veto Right in Restructuring and Insolvency Scenarios
 >
-> (1) The holder of the Share of class „Golden Share", [Name], born on [date], residing at [address], shall have a Special Veto Right in addition to general voting rights. The following management measures and the following shareholders' resolutions shall require her express consent: [a-f as above in English].
+> (1) The holder of the Share of class "Golden Share", [Name], born on [date], residing at [address], shall have a Special Veto Right in addition to general voting rights. The following management measures and the following shareholders' resolutions shall require her express consent: [a-f as above in English].
 >
 > (2) Clarification regarding the Insolvency Filing Obligation: To the extent that the Management is legally obligated to file for insolvency pursuant to § 15a InsO, the Special Veto Right under paragraph (1) lit. a) shall not apply. The filing obligation of the Managing Directors shall remain unaffected and cannot be overridden by any corporate veto right.
 >
@@ -171,7 +171,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 **DE:**
 > § X Mitziehverpflichtung (Drag-Along)
 >
-> (1) Stimmen Gesellschafter, die zusammen mindestens 75 % der Geschäftsanteile halten („Drag-Along-Initiatoren"), einem Verkauf sämtlicher Geschäftsanteile an einen Dritten zu, können sie die übrigen Gesellschafter verpflichten, ihre Anteile zu denselben Bedingungen mitzuveräußern.
+> (1) Stimmen Gesellschafter, die zusammen mindestens 75 % der Geschäftsanteile halten ("Drag-Along-Initiatoren"), einem Verkauf sämtlicher Geschäftsanteile an einen Dritten zu, können sie die übrigen Gesellschafter verpflichten, ihre Anteile zu denselben Bedingungen mitzuveräußern.
 >
 > (2) Die Drag-Along-Verpflichtung gilt nur, wenn: a) der Verkaufspreis pro Anteil für alle Anteilsklassen gleich ist und unter Berücksichtigung von Liquidation Preferences fair berechnet wird; b) der Drag-Erwerber ein unabhängiger Dritter (kein verbundenes Unternehmen eines Initiators) ist; c) keine der Gegenleistungen disproportional zugunsten einzelner Initiatoren ist.
 >
@@ -221,7 +221,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 **DE:**
 > § X Liquidationsvorrang (Liquidation Preference)
 >
-> (1) Bei Auflösung der Gesellschaft oder bei einem Liquidations-Ereignis (Trade Sale, Asset Sale, IPO, Verschmelzung, vollständige Abtretung sämtlicher Geschäftsanteile) erhalten die Inhaber der Class-B-Geschäftsanteile ihre tatsächlich an die Gesellschaft geleistete Einlage einschließlich Aufgeld (zusammen „Investmentbetrag") als bevorrechtigte Auszahlung vor den übrigen Gesellschaftern (1x non-participating Liquidation Preference).
+> (1) Bei Auflösung der Gesellschaft oder bei einem Liquidations-Ereignis (Trade Sale, Asset Sale, IPO, Verschmelzung, vollständige Abtretung sämtlicher Geschäftsanteile) erhalten die Inhaber der Class-B-Geschäftsanteile ihre tatsächlich an die Gesellschaft geleistete Einlage einschließlich Aufgeld (zusammen "Investmentbetrag") als bevorrechtigte Auszahlung vor den übrigen Gesellschaftern (1x non-participating Liquidation Preference).
 >
 > (2) Nach Bedienung der Liquidation Preference wird der verbleibende Betrag anteilig auf alle Geschäftsanteile (Class Common, Class B) nach deren Anteilshöhe verteilt.
 >
@@ -230,7 +230,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 **EN:**
 > § X Liquidation Preference
 >
-> (1) In case of dissolution or a Liquidation Event (Trade Sale, Asset Sale, IPO, merger, complete assignment of all shares), the holders of Class B shares shall receive their actual contribution including share premium (the „Investment Amount") as a preferred payment before the other Shareholders (1x non-participating Liquidation Preference).
+> (1) In case of dissolution or a Liquidation Event (Trade Sale, Asset Sale, IPO, merger, complete assignment of all shares), the holders of Class B shares shall receive their actual contribution including share premium (the "Investment Amount") as a preferred payment before the other Shareholders (1x non-participating Liquidation Preference).
 >
 > (2) After payment of the Liquidation Preference, the remaining amount shall be distributed pro rata among all shares.
 >
@@ -243,7 +243,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 **DE:**
 > § X Verwässerungsschutz (Anti-Dilution)
 >
-> (1) Bei einer künftigen Kapitalerhöhung, bei welcher der Ausgabepreis je neuem Geschäftsanteil unter dem Ausgabepreis je Class-B-Anteil (von [X] EUR) liegt („Down Round"), werden den Inhabern der Class-B-Anteile zusätzliche Geschäftsanteile nach der Weighted-Average-Broad-Based-Methode kostenfrei zugeteilt. Die Berechnungsformel lautet:
+> (1) Bei einer künftigen Kapitalerhöhung, bei welcher der Ausgabepreis je neuem Geschäftsanteil unter dem Ausgabepreis je Class-B-Anteil (von [X] EUR) liegt ("Down Round"), werden den Inhabern der Class-B-Anteile zusätzliche Geschäftsanteile nach der Weighted-Average-Broad-Based-Methode kostenfrei zugeteilt. Die Berechnungsformel lautet:
 >
 > CP2 = CP1 × (A + B) / (A + C)
 >
@@ -321,7 +321,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 **DE:**
 > § X Nachvertragliches Wettbewerbsverbot
 >
-> (1) Der Geschäftsführer verpflichtet sich, für einen Zeitraum von 12 Monaten nach Beendigung des Anstellungsvertrags weder selbständig noch unselbständig in der Branche „[konkrete Branche]" innerhalb des Gebiets [konkretes Gebiet] tätig zu sein.
+> (1) Der Geschäftsführer verpflichtet sich, für einen Zeitraum von 12 Monaten nach Beendigung des Anstellungsvertrags weder selbständig noch unselbständig in der Branche "[konkrete Branche]" innerhalb des Gebiets [konkretes Gebiet] tätig zu sein.
 >
 > (2) Die Gesellschaft zahlt eine Karenzentschädigung in Höhe von 50 % der zuletzt bezogenen vertragsgemäßen Bezüge. Anderweitiges Erwerbseinkommen ist gemäß § 74c HGB anzurechnen.
 >
@@ -332,7 +332,7 @@ Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deuts
 **EN:**
 > § X Post-Contractual Non-Compete
 >
-> (1) The Managing Director undertakes not to be active, either self-employed or as an employee, in the industry „[specific industry]" within the territory [specific territory] for 12 months after termination of the service agreement.
+> (1) The Managing Director undertakes not to be active, either self-employed or as an employee, in the industry "[specific industry]" within the territory [specific territory] for 12 months after termination of the service agreement.
 >
 > (2) For the duration of the non-compete, the Company shall pay compensation of 50 % of the most recently received contractual remuneration. Other employment income shall be credited pursuant to § 74c HGB.
 >

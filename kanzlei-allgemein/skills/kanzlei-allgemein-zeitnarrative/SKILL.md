@@ -54,10 +54,10 @@ Dieser Skill macht aus Arbeitsschritten abrechenbare oder interne Zeitnarrative.
 
 Gut:
 
-- „Prüfung beA-Eingang und Fristnotierung; Entwurf Rückfrage an Mandant.“
-- „Analyse Klageerwiderung und Strukturierung der Gegenargumente.“
-- „Telefonat mit Mandant zur Sachverhaltsergänzung und Abstimmung der nächsten Schritte.“
-- „Entwurf und Überarbeitung Schriftsatzantwort einschließlich Anlagenabgleich.“
+- "Prüfung beA-Eingang und Fristnotierung; Entwurf Rückfrage an Mandant."
+- "Analyse Klageerwiderung und Strukturierung der Gegenargumente."
+- "Telefonat mit Mandant zur Sachverhaltsergänzung und Abstimmung der nächsten Schritte."
+- "Entwurf und Überarbeitung Schriftsatzantwort einschließlich Anlagenabgleich."
 
 Nicht gut:
 

@@ -7,7 +7,7 @@ description: "Recherche Stand der Technik vor eigener Patentanmeldung. Identifiz
 
 ## Zweck
 
-Vor einer eigenen Patentanmeldung der Mandantin (oder zur Beratung der Mandantin „lohnt sich die Anmeldung?") wird der Stand der Technik recherchiert. Dieses Skill nutzt die Treffer aus `agentische-datenbank-recherche` und ordnet sie methodisch ein.
+Vor einer eigenen Patentanmeldung der Mandantin (oder zur Beratung der Mandantin "lohnt sich die Anmeldung?") wird der Stand der Technik recherchiert. Dieses Skill nutzt die Treffer aus `agentische-datenbank-recherche` und ordnet sie methodisch ein.
 
 ## Rechtsrahmen
 
@@ -87,7 +87,7 @@ Empfehlung an die Patentanwältin:
 
 - **Volltextsuche in allen Sprachen** ist nicht möglich. Klar kommunizieren.
 - **Geheime ältere Anmeldungen** (Art. 54(3) EPÜ-Anmeldungen, die noch nicht publiziert sind) sind beim Recherche-Tag **nicht** erfassbar. Erst nach Ablauf der 18-Monats-Geheimhaltungsfrist.
-- **Selbst-Beschwerde:** Frühere Anmeldungen der Mandantin selbst können neuheitsschädlich sein — § 3 PatG kennt keine „eigene" Ausnahme. **Mandant ausdrücklich fragen**, ob es frühere Anmeldungen oder Veröffentlichungen gibt.
+- **Selbst-Beschwerde:** Frühere Anmeldungen der Mandantin selbst können neuheitsschädlich sein — § 3 PatG kennt keine "eigene" Ausnahme. **Mandant ausdrücklich fragen**, ob es frühere Anmeldungen oder Veröffentlichungen gibt.
 - **Vorträge / Messen** der Mandantin in den letzten 18 Monaten erfragen — nicht selten erfolgt dort eine offenkundige Vorbenutzung.
 
 ## Disclaimer

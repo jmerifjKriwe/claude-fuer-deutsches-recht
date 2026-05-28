@@ -124,7 +124,7 @@ Checkliste für die Prüfung:
 
 **Anhörungsschreiben (Auszug):**
 
-> „Betreff: Anhörung nach § 102 BetrVG – Beabsichtigte ordentliche betriebsbedingte Kündigung von Herrn D
+> "Betreff: Anhörung nach § 102 BetrVG – Beabsichtigte ordentliche betriebsbedingte Kündigung von Herrn D
 >
 > Wir beabsichtigen, das Arbeitsverhältnis mit Herrn D, geb. [Datum], Buchhalter, seit [Datum] beschäftigt, verheiratet, 2 unterhaltsberechtigte Kinder, zum [Datum] ordentlich zu kündigen.
 >

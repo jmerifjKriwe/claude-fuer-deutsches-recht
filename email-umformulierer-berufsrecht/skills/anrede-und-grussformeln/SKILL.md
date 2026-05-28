@@ -45,19 +45,19 @@ Dieser Skill regelt die korrekte Wahl von Anrede und Schlussformel in berufliche
 
 ## Hierarchie der Anreden
 
-Die förmlichste Anrede „Sehr geehrte Damen und Herren" wird verwendet, wenn der Name des Empfängers nicht bekannt ist oder wenn ein offizielles Schreiben an eine Institution gerichtet wird. „Sehr geehrte Frau Dr. Muster" ist die Standardform für namentlich bekannte Einzelpersonen mit Doktortitel; akademische Grade (Dr., Prof. Dr.) werden grundsätzlich ausgeschrieben.
+Die förmlichste Anrede "Sehr geehrte Damen und Herren" wird verwendet, wenn der Name des Empfängers nicht bekannt ist oder wenn ein offizielles Schreiben an eine Institution gerichtet wird. "Sehr geehrte Frau Dr. Muster" ist die Standardform für namentlich bekannte Einzelpersonen mit Doktortitel; akademische Grade (Dr., Prof. Dr.) werden grundsätzlich ausgeschrieben.
 
-Für Kollegen gilt: „Sehr geehrter Herr Kollege" oder „Sehr geehrte Frau Kollegin" im förmlichen kollegialen Kontext; „Werter Herr Rechtsanwalt Muster" als höflichere, etwas altmodischere Variante. „Lieber Herr Muster" oder „Liebe Frau Muster" ist nur bei langjährig bekannten Kollegen mit persönlichem Kontakt angemessen und sollte in streitigen Sachverhalten vermieden werden.
+Für Kollegen gilt: "Sehr geehrter Herr Kollege" oder "Sehr geehrte Frau Kollegin" im förmlichen kollegialen Kontext; "Werter Herr Rechtsanwalt Muster" als höflichere, etwas altmodischere Variante. "Lieber Herr Muster" oder "Liebe Frau Muster" ist nur bei langjährig bekannten Kollegen mit persönlichem Kontakt angemessen und sollte in streitigen Sachverhalten vermieden werden.
 
 ## Besondere Adressaten
 
-Für Richter gilt: „Sehr geehrter Herr Vorsitzender Richter am Oberlandesgericht" (volle Amtsbezeichnung im ersten Schreiben) oder vereinfacht „Sehr geehrter Herr Dr. Muster". In Schriftsätzen entfällt die persönliche Anrede; im persönlichen Begleitschreiben an Kammern ist „Sehr geehrte Damen und Herren" korrekt.
+Für Richter gilt: "Sehr geehrter Herr Vorsitzender Richter am Oberlandesgericht" (volle Amtsbezeichnung im ersten Schreiben) oder vereinfacht "Sehr geehrter Herr Dr. Muster". In Schriftsätzen entfällt die persönliche Anrede; im persönlichen Begleitschreiben an Kammern ist "Sehr geehrte Damen und Herren" korrekt.
 
-Für Staatsanwälte gilt: „Sehr geehrte Frau Staatsanwältin" oder vollständig „Sehr geehrte Frau Staatsanwältin beim Landgericht München I, Frau Dr. Muster". Behörden erhalten generell „Sehr geehrte Damen und Herren" mit Angabe des Sachgebiets.
+Für Staatsanwälte gilt: "Sehr geehrte Frau Staatsanwältin" oder vollständig "Sehr geehrte Frau Staatsanwältin beim Landgericht München I, Frau Dr. Muster". Behörden erhalten generell "Sehr geehrte Damen und Herren" mit Angabe des Sachgebiets.
 
 ## Schlussformeln
 
-Die Wahl der Schlussformel spiegelt die Intensität der Förmlichkeit wider. „Mit freundlichen Grüßen" ist die Standardformel für allgemeine Geschäftskorrespondenz. „Mit kollegialen Grüßen" signalisiert Verbundenheit unter Angehörigen desselben Berufs und eignet sich für unkomplizierte Kollegen-Schreiben. „Mit vorzüglicher Hochachtung" ist die förmlichste Variante und wird für Schreiben an übergeordnete Instanzen, Gerichte oder besonders formelle Anlässe verwendet. „Hochachtungsvoll" gilt als veraltet und sollte vermieden werden.
+Die Wahl der Schlussformel spiegelt die Intensität der Förmlichkeit wider. "Mit freundlichen Grüßen" ist die Standardformel für allgemeine Geschäftskorrespondenz. "Mit kollegialen Grüßen" signalisiert Verbundenheit unter Angehörigen desselben Berufs und eignet sich für unkomplizierte Kollegen-Schreiben. "Mit vorzüglicher Hochachtung" ist die förmlichste Variante und wird für Schreiben an übergeordnete Instanzen, Gerichte oder besonders formelle Anlässe verwendet. "Hochachtungsvoll" gilt als veraltet und sollte vermieden werden.
 
 ## Berufsrechtlicher Hintergrund
 
@@ -65,14 +65,14 @@ Die Wahl der Schlussformel spiegelt die Intensität der Förmlichkeit wider. „
 
 ## Beispiele Vorher/Nachher
 
-**Vorher:** „Hallo Herr Muster,"
-**Nachher:** „Sehr geehrter Herr Rechtsanwalt Muster,"
+**Vorher:** "Hallo Herr Muster,"
+**Nachher:** "Sehr geehrter Herr Rechtsanwalt Muster,"
 
-**Vorher:** „Sehr geehrter Herr Dr. Dr. Müller Maier," (falsche Titelkombination)
-**Nachher:** „Sehr geehrter Herr Prof. Dr. Müller-Maier," (korrekte Titelhäufung nach akademischem Rang)
+**Vorher:** "Sehr geehrter Herr Dr. Dr. Müller Maier," (falsche Titelkombination)
+**Nachher:** "Sehr geehrter Herr Prof. Dr. Müller-Maier," (korrekte Titelhäufung nach akademischem Rang)
 
 **Vorher:** (kein Abschlusssatz, nur Unterschrift)
-**Nachher:** „Mit freundlichen Grüßen" / „Mit kollegialen Grüßen"
+**Nachher:** "Mit freundlichen Grüßen" / "Mit kollegialen Grüßen"
 
 ## Ausgabeformat
 

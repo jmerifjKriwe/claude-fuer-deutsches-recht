@@ -112,8 +112,8 @@ Verbindlich nach `../../references/zitierweise.md`.
 - **Fristversäumnis:** Art. 12 Abs. 4 DSGVO – Untätigkeit gilt als Ablehnung, eröffnet Klagerecht Art. 79 DSGVO und Beschwerde Art. 77 DSGVO. Fristmitteilung bei Verlängerung ist eigenständige Pflicht.
 - **Unvollständige Systemabfrage:** Art. 5 Abs. 2 DSGVO (Rechenschaftspflicht) verpflichtet zu nachweisbarer vollständiger Prüfung. Backup-Systeme und Archive werden häufig vergessen.
 - **Übermäßige Identitätshürde:** Passverlangen ohne Anlass verletzt Art. 12 Abs. 6 DSGVO; EDSA warnt vor übermäßiger Identifizierung als faktischem Abwehrmittel.
-- **§ 34 BDSG-Ausnahmen ohne Dokumentation:** Ausnahme muss einzelfallbezogen begründet sein; pauschale Verweigerung „wegen Geschäftsgeheimnisse" ist nicht ausreichend.
-- **Datenkopie-Format:** Art. 15 Abs. 3 DSGVO verlangt keine bestimmte Form; ein „strukturiertes, maschinenlesbares Format" ist bei Art. 20 DSGVO (Portabilität) vorgeschrieben, nicht bei Art. 15 Abs. 3 DSGVO – Verwechslung vermeiden.
+- **§ 34 BDSG-Ausnahmen ohne Dokumentation:** Ausnahme muss einzelfallbezogen begründet sein; pauschale Verweigerung "wegen Geschäftsgeheimnisse" ist nicht ausreichend.
+- **Datenkopie-Format:** Art. 15 Abs. 3 DSGVO verlangt keine bestimmte Form; ein "strukturiertes, maschinenlesbares Format" ist bei Art. 20 DSGVO (Portabilität) vorgeschrieben, nicht bei Art. 15 Abs. 3 DSGVO – Verwechslung vermeiden.
 - **Schadensersatz Art. 82 DSGVO:** BGH, Beschl. v. 26.09.2023 – VI ZR 97/22, ZIP 2023, 2472: Vorlage an den EuGH zu den Anforderungen an den immateriellen Schaden nach Art. 82 Abs. 1 DSGVO; bloßer Datenschutzverstoß ohne nachgewiesenen Schaden genügt nicht. Fehlerhaft bearbeitete Betroffenenanfragen begründen Haftungsrisiko.
 
 ## Ablehnung wegen Rechtsmissbrauch — EuGH C-526/24
@@ -122,7 +122,7 @@ Verbindlich nach `../../references/zitierweise.md`.
 
 EuGH, Urt. v. 19.03.2026 – C-526/24 (Brillen Rottler); Schlussanträge GA Maciej Szpunar v. 12.09.2025 in C-526/24.
 
-Art. 12 Abs. 5 DSGVO erlaubt die Ablehnung eines Auskunftsantrags als „exzessiv" — auch bei Erstantrag, wenn außergewöhnliche Umstände einen Rechtsmissbrauch belegen. Die Hürde ist hoch; das Auskunftsrecht ist ein fundamentales Recht, Ausnahmen sind eng auszulegen.
+Art. 12 Abs. 5 DSGVO erlaubt die Ablehnung eines Auskunftsantrags als "exzessiv" — auch bei Erstantrag, wenn außergewöhnliche Umstände einen Rechtsmissbrauch belegen. Die Hürde ist hoch; das Auskunftsrecht ist ein fundamentales Recht, Ausnahmen sind eng auszulegen.
 
 ### Zweistufiges Prüfschema vor Ablehnung
 
@@ -185,7 +185,7 @@ Verantwortlich (DSB-Freigabe): [Name, Datum]
 
 ### Querverweise
 
-- `datenschutzrecht/skills/dsgvo-auskunft/SKILL.md` — Abschnitt „Rechtsmissbrauch" mit vollständigem Prüfschema und Indizien-Checkliste
+- `datenschutzrecht/skills/dsgvo-auskunft/SKILL.md` — Abschnitt "Rechtsmissbrauch" mit vollständigem Prüfschema und Indizien-Checkliste
 
 ## Ergänzende Rechtsprechung (Aktualitäten)
 

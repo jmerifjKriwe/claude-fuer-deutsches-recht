@@ -38,7 +38,7 @@ Prognosehorizont: [Monat plus zwölf Monate]
 
 1. ANLASS
 
-[Aus Skill ausloesendes-ereignis-erfassen — z. B. „Hinweis des Steuerberaters
+[Aus Skill ausloesendes-ereignis-erfassen — z. B. "Hinweis des Steuerberaters
 nach § 102 StaRUG vom [Datum] mit dem Hinweis dass die Bilanz 2025 ein
 negatives Eigenkapital von [Betrag] EUR aufweist und eine Fortbestehensprognose
 nach § 19 Abs. 2 InsO erstellt werden soll."]
@@ -105,7 +105,7 @@ Ergebnis: [POSITIV / POSITIV MIT MASSNAHMEN / NEGATIV]
 
 Begründung:
 
-[Konkrete Begründung in zwei bis fünf Sätzen. Bei „positiv mit Maßnahmen"
+[Konkrete Begründung in zwei bis fünf Sätzen. Bei "positiv mit Maßnahmen"
 explizit aufzählen welche Maßnahmen umgesetzt sein müssen.]
 
 Folge: [Keine Antragspflicht aus Überschuldung / Antragspflicht ausgeloest]
@@ -166,7 +166,7 @@ Wenn die Prognose vierteljaehrlich aktualisiert wird, alte Prognosen aufheben un
 - `fortbestehensprognose-<datum>.docx` und PDF mit allen Anlagen.
 - Sicherer Archivpfad: `fortbestehensprognose/protokolle/<stichtag>.zip` mit Anlagenkonvolut.
 - Wiedervorlage-Eintrag im Kalender vierteljaehrlich.
-- Bei „negativ" Eskalation an Insolvenzanwalt (Skill `wenn-prognose-negativ-naechste-schritte`).
+- Bei "negativ" Eskalation an Insolvenzanwalt (Skill `wenn-prognose-negativ-naechste-schritte`).
 
 
 ## Aktuelle Leitentscheidungen — Dokumentation der Prognose

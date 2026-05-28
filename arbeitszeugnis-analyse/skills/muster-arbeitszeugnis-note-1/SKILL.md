@@ -7,7 +7,7 @@ description: "Vollständiges Musterarbeitszeugnis Note 1 als Referenzdokument f�
 
 Dieses Musterzeugnis zeigt alle Bausteine eines deutschen Arbeitszeugnisses in der bestmöglichen Formulierungsvariante. Es dient als Referenz für die Bewertung realer Zeugnisse und als Vorlage für Verbesserungsvorschläge. Alle Namen und Daten sind fiktiv; die Formulierungen sind dem etablierten Geheimcode der Zeugnissprache entnommen.
 
-Das Musterzeugnis ist in Note-1-Qualität verfasst: alle Leistungsaussagen mit „stets zur vollsten Zufriedenheit", alle Verhaltensaussagen mit „stets einwandfrei", warme Schlussformel, korrekte Reihenfolge der Personengruppen und keine Auslassungen bei relevanten Bausteinen.
+Das Musterzeugnis ist in Note-1-Qualität verfasst: alle Leistungsaussagen mit "stets zur vollsten Zufriedenheit", alle Verhaltensaussagen mit "stets einwandfrei", warme Schlussformel, korrekte Reihenfolge der Personengruppen und keine Auslassungen bei relevanten Bausteinen.
 
 ## Geheimcode-Regeln
 
@@ -15,10 +15,10 @@ Alle in diesem Muster verwendeten Formulierungen sind grün kodiert:
 
 | Satz | Ampel | Note |
 |---|---|---|
-| „stets zur vollsten Zufriedenheit" | Grün | Note 1 |
-| „hervorragende Fachkenntnisse" | Grün | Note 1 |
-| „außerordentliches Engagement" | Grün | Note 1 |
-| „stets einwandfrei" (Verhalten) | Grün | Note 1 |
+| "stets zur vollsten Zufriedenheit" | Grün | Note 1 |
+| "hervorragende Fachkenntnisse" | Grün | Note 1 |
+| "außerordentliches Engagement" | Grün | Note 1 |
+| "stets einwandfrei" (Verhalten) | Grün | Note 1 |
 | Warme Schlussformel mit Bedauern | Grün | Starkes Praxissignal |
 
 ## Beispiele

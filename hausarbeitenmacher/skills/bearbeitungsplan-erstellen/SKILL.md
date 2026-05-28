@@ -121,7 +121,7 @@ Annahme: 30-Seiten Anfänger-Übung Zivilrecht, 8 Wochen Bearbeitungszeit.
 
 **Bevor Du anfängst**, formuliere klar:
 
-- **Was möchte ich aus dieser Hausarbeit lernen?** (z.B. „Subsumtion an §§ 433 und 434 BGB, AGB-Prüfung, Bereicherungsrecht")
+- **Was möchte ich aus dieser Hausarbeit lernen?** (z.B. "Subsumtion an §§ 433 und 434 BGB, AGB-Prüfung, Bereicherungsrecht")
 - **Welche Fertigkeiten möchte ich verbessern?** (Gutachten-Stil, Methoden-Argumentation, Literatur-Recherche)
 - **Welches sind die fünf wichtigsten Lehrmeinungen, die ich verstehen möchte?**
 
@@ -152,7 +152,7 @@ Diese Ziele helfen, fokussiert zu bleiben.
 
 - **Tages-Ziele**: Pro Arbeitstag konkretes Pensum festlegen
 - **Pomodoro-Methode**: 25 min Arbeit + 5 min Pause
-- **„Eat the frog"**: Schwierigste Aufgabe zuerst
+- **"Eat the frog"**: Schwierigste Aufgabe zuerst
 - **Schreibsessions im Pflicht-Modus**: 2-3 Stunden ohne Handy
 - **Bibliothek statt zu Hause**: Wenn zu Hause zu viele Ablenkungen
 
@@ -176,7 +176,7 @@ Wenn Du **zwei Wochen vor Abgabe** noch nicht fertig bist:
 
 ## Häufige Anfänger-Fehler
 
-1. **„Ich fange in zwei Wochen an"** — und am Ende fehlt Zeit
+1. **"Ich fange in zwei Wochen an"** — und am Ende fehlt Zeit
 2. **Tiefen-Recherche zu lange** — und Rohfassung wird gehetzt
 3. **Rohfassung perfekt schreiben** — und keine Korrektur-Zeit
 4. **Zitierweise erst am Ende** — und nichts mehr zurückverfolgbar

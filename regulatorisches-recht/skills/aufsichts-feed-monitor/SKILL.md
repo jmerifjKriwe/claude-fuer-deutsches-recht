@@ -65,7 +65,7 @@ IT-Sicherheit, Datenschutz, KI-Regulierung (EU-KI-VO), ESG/CSRD.
 ### Schritt 0: Lückenprüfung
 
 Watchlist und Quellkonfiguration gegen den internen Quellkatalog prüfen. Besteht eine
-offensichtliche Lücke (z. B. „BaFin" in der Watchlist, aber weder Bundesanzeiger noch
+offensichtliche Lücke (z. B. "BaFin" in der Watchlist, aber weder Bundesanzeiger noch
 BaFin-Journal konfiguriert), einmalig hinweisen — nicht wiederholen, wenn die Lücke
 bekannt und akzeptiert ist.
 
@@ -105,14 +105,14 @@ kennzeichnen; Materialitätsstufe absenken bis zur Primärquellenbestätigung.
 | Leitlinien / Merkblätter | Prüfenswert |
 | Pressemitteilungen / Statements | Zur Kenntnis / überspringen |
 
-Referentenentwürfe und Konsultationen nie als „immer wesentlich" einstufen — noch keine
-Compliance-Pflicht. Im Eintrag explizit vermerken: „Vorstufe. Kommentierungsfrist
+Referentenentwürfe und Konsultationen nie als "immer wesentlich" einstufen — noch keine
+Compliance-Pflicht. Im Eintrag explizit vermerken: "Vorstufe. Kommentierungsfrist
 [Datum]. Noch keine Compliance-Lücke."
 
 ### Schritt 3: Anreicherung
 
-Für jeden Eintrag oberhalb „Zur Kenntnis": einzeilige Zusammenfassung + Relevanzhinweis
-+ Link + Inkrafttreten bzw. Kommentierungsfrist. „Zur Kenntnis"-Einträge: nur Anzahl.
+Für jeden Eintrag oberhalb "Zur Kenntnis": einzeilige Zusammenfassung + Relevanzhinweis
++ Link + Inkrafttreten bzw. Kommentierungsfrist. "Zur Kenntnis"-Einträge: nur Anzahl.
 
 ## Ausgabeformat
 
@@ -146,10 +146,10 @@ anhängen statt überschreiben.
 
 ## Beispiel
 
-**Watchlist:** „BaFin — Zahlungsdienste", „EU — KI-Verordnung". Letzter Lauf: 01.07.2024.
+**Watchlist:** "BaFin — Zahlungsdienste", "EU — KI-Verordnung". Letzter Lauf: 01.07.2024.
 
-BaFin-RSS liefert Merkblatt zu § 25b KWG-Auslagerungen → „Prüfenswert" (Leitlinie).
-EUR-Lex liefert delegierte Verordnung zur KI-VO → „Immer wesentlich" (EU-Rechtsakt).
+BaFin-RSS liefert Merkblatt zu § 25b KWG-Auslagerungen → "Prüfenswert" (Leitlinie).
+EUR-Lex liefert delegierte Verordnung zur KI-VO → "Immer wesentlich" (EU-Rechtsakt).
 
 ```
 ### Immer wesentlich

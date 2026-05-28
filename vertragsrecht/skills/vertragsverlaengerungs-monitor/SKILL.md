@@ -1,6 +1,6 @@
 ---
 name: vertragsverlaengerungs-monitor
-description: "Zeigt Verträge mit ablaufenden Kündigungsfristen an und warnt rechtzeitig, bevor Verlängerungs-/Kündigungsfenster schließen. Relevant insbesondere bei § 309 Nr. 9 BGB (automatische Verlängerung). Laden, wenn der Nutzer fragt „welche Verträge laufen aus\", „wann muss ich kündigen\", „habe ich eine Frist verpasst\", oder bei geplanter Aktualisierung des Registers."
+description: "Zeigt Verträge mit ablaufenden Kündigungsfristen an und warnt rechtzeitig, bevor Verlängerungs-/Kündigungsfenster schließen. Relevant insbesondere bei § 309 Nr. 9 BGB (automatische Verlängerung). Laden, wenn der Nutzer fragt "welche Verträge laufen aus\", "wann muss ich kündigen\", "habe ich eine Frist verpasst\", oder bei geplanter Aktualisierung des Registers."
 ---
 
 # Verlängerungstracker
@@ -88,7 +88,7 @@ Gespeichert unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertrags
   kuendigen_bis_kalender: 2026-03-17
   kuendigen_bis_effektiv: 2026-03-17      # ggf. auf letzten Werktag vorgezogen
   sende_bis_effektiv: 2026-03-14        # kündigen_bis_effektiv minus postlauf_puffer_tage
-  vorzieh_hinweis: ""                    # z. B. „vorgezogen von Sonntag 2026-03-15; Werktags-Definition im Vertrag prüfen"
+  vorzieh_hinweis: ""                    # z. B. "vorgezogen von Sonntag 2026-03-15; Werktags-Definition im Vertrag prüfen"
   kuendigen_bis_provenienz: "[Modellberechnung – gegen Kündigungsklausel prüfen]"
   preis_bei_verlaengerung: "jeweils aktueller Listenpreis (unbegrenzt)"
   jahreswert: 48000
@@ -172,5 +172,5 @@ Kommentare:
 
 - **Postlauf nicht eingerechnet:** Eine Kündigung, die am letzten Fristtag abgeschickt wird, aber per Einschreiben zugestellt werden muss, kommt zu spät.
 - **§ 309 Nr. 9 BGB-Unwirksamkeit nicht geprüft:** Wenn der Vertrag B2C ist und die Verlängerungsklausel gegen § 309 Nr. 9 BGB verstößt, kann die Verlängerung unwirksam sein – aber man muss es wissen.
-- **Bundesland-Feiertage:** Feiertage variieren zwischen Bundesländern; pauschal „Montag bis Freitag" reicht nicht.
+- **Bundesland-Feiertage:** Feiertage variieren zwischen Bundesländern; pauschal "Montag bis Freitag" reicht nicht.
 - **Register-Lücken:** Verträge, die vor Plugin-Einrichtung unterzeichnet wurden, sind nicht im Register – einmaliger Erst-Import erforderlich.

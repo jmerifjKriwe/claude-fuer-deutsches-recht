@@ -81,7 +81,7 @@ Dieser Skill ist die Einstiegs-Orientierung fuer **alle Anwaeltinnen und Anwaelt
 
 ## Anhang — FAO-Voraussetzungen (§ 9 FAO)
 
-Nur relevant fuer den Erwerb des Fachanwaltstitels „Fachanwalt fuer Steuerrecht":
+Nur relevant fuer den Erwerb des Fachanwaltstitels "Fachanwalt fuer Steuerrecht":
 
 - Lehrgang 120 Stunden + drei Klausuren.
 - 50 Faelle in den letzten drei Jahren aus dem Steuerrecht, davon Bezug zu mindestens drei der in § 9 Nr. 1 bis 3 FAO genannten Bereiche und zu allen drei Bereichen in der Falldokumentation; mindestens fuenf rechtsfoermliche Verfahren vor Finanzgerichten oder vergleichbare Verfahren.

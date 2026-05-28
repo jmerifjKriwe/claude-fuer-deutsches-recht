@@ -1,6 +1,6 @@
 ---
 name: ki-governance-mandat-arbeitsbereich
-description: "Mandats-Arbeitsbereiche verwalten – neu, liste, wechseln, schließen oder keines (Praxisebene). Datei- Verwaltungslogik, um den Kontext eines Mandanten oder Auftrags von jedem anderen zu trennen. Verwenden, wenn mandatsübergreifend gearbeitet wird, wenn der Nutzer sagt „neues Mandat\", „Mandat wechseln\", „Mandate auflisten\", „Mandat schließen\" oder wenn ein inhaltlicher Skill wissen muss, in welchem Mandat er arbeitet."
+description: "Mandats-Arbeitsbereiche verwalten – neu, liste, wechseln, schließen oder keines (Praxisebene). Datei- Verwaltungslogik, um den Kontext eines Mandanten oder Auftrags von jedem anderen zu trennen. Verwenden, wenn mandatsübergreifend gearbeitet wird, wenn der Nutzer sagt "neues Mandat\", "Mandat wechseln\", "Mandate auflisten\", "Mandat schließen\" oder wenn ein inhaltlicher Skill wissen muss, in welchem Mandat er arbeitet."
 ---
 
 # /mandat-arbeitsbereich
@@ -82,14 +82,14 @@ Slugs sind kleingeschrieben mit Bindestrichen. Beispiele: `mueller-ki-review-202
      Vorsicht in mandatsübergreifenden Einstellungen)
    - **Kernfakten** (2–5 Sätze: Worum geht es in diesem Mandat, wer sind die Stakeholder,
      was steht auf dem Spiel)
-   - **Mandatsspezifische Abweichungen vom Playbook** (z. B. „Mandant verlangt 24-monatigen
-     Haftungshöchstbetrag statt 12", „Gegenseite ist strategischer Partner – beziehungserhaltender
-     Ton", „§ 203 StGB: besondere Schutzmechanismen erforderlich")
+   - **Mandatsspezifische Abweichungen vom Playbook** (z. B. "Mandant verlangt 24-monatigen
+     Haftungshöchstbetrag statt 12", "Gegenseite ist strategischer Partner – beziehungserhaltender
+     Ton", "§ 203 StGB: besondere Schutzmechanismen erforderlich")
    - **Verbundene Mandate** (Slugs anderer zusammenhängender Mandate)
 3. `mandate/<slug>/mandat.md` mit der nachstehenden Vorlage schreiben.
-4. `mandate/<slug>/verlauf.md` mit einem einzigen „Eröffnet"-Eintrag initialisieren.
+4. `mandate/<slug>/verlauf.md` mit einem einzigen "Eröffnet"-Eintrag initialisieren.
 5. Leere `mandate/<slug>/notizen.md` anlegen.
-6. **Nicht** automatisch auf das neue Mandat wechseln. Fragen: „Möchten Sie jetzt zu
+6. **Nicht** automatisch auf das neue Mandat wechseln. Fragen: "Möchten Sie jetzt zu
    `<slug>` wechseln? (`/ki-governance:ki-governance-mandat-arbeitsbereich switch <slug>`)"
 
 ### `list`
@@ -99,7 +99,7 @@ Slugs sind kleingeschrieben mit Bindestrichen. Beispiele: `mueller-ki-review-202
 | Slug | Mandant | Mandatstyp | Status | Eröffnet | Aktiv |
 |---|---|---|---|---|---|
 
-Aktives Mandat mit `*` markieren. `_archiv/*` unter separater „Archiviert"-Überschrift,
+Aktives Mandat mit `*` markieren. `_archiv/*` unter separater "Archiviert"-Überschrift,
 falls vorhanden.
 
 ### `switch <slug>`
@@ -113,7 +113,7 @@ falls vorhanden.
 ### `close <slug>`
 
 1. Bestätigen, dass `mandate/<slug>/` existiert.
-2. „Geschlossen"-Eintrag mit heutigem Datum an `mandate/<slug>/verlauf.md` anhängen.
+2. "Geschlossen"-Eintrag mit heutigem Datum an `mandate/<slug>/verlauf.md` anhängen.
 3. `mandate/<slug>/` → `mandate/_archiv/<slug>/` verschieben.
 4. Falls das geschlossene Mandat das aktive war, `Aktives Mandat:` auf
    `keines – nur Praxiskontext` setzen.
@@ -155,10 +155,10 @@ Standard-Playbook unterscheidet.]
 
 *Jede Abweichung vom praxisweiten Playbook, die nur für dieses Mandat gilt.*
 
-- [z. B. „Haftungshöchstbetrag: Mandant verlangt 24 Monate, nicht Hausstandard 12."]
-- [z. B. „Ton: beziehungserhaltend – Gegenseite ist strategischer Partner."]
-- [z. B. „Rechtswahl: muss deutsches Recht sein."]
-- [z. B. „§ 203 StGB: nur On-Premise-Verarbeitung, kein Drittanbieter-KI-System ohne AVV."]
+- [z. B. "Haftungshöchstbetrag: Mandant verlangt 24 Monate, nicht Hausstandard 12."]
+- [z. B. "Ton: beziehungserhaltend – Gegenseite ist strategischer Partner."]
+- [z. B. "Rechtswahl: muss deutsches Recht sein."]
+- [z. B. "§ 203 StGB: nur On-Premise-Verarbeitung, kein Drittanbieter-KI-System ohne AVV."]
 
 ## Verbundene Mandate
 
@@ -182,7 +182,7 @@ Nur-Anhänge-Ereignisprotokoll. Neuestes oben.
 ## [JJJJ-MM-TT] – Mandat eröffnet
 
 Aufnahme abgeschlossen. Slug: `[slug]`. Status: aktiv.
-[Anfangskontext über mandat.md hinaus – z. B. „Eröffnet als Reaktion auf eingehenden
+[Anfangskontext über mandat.md hinaus – z. B. "Eröffnet als Reaktion auf eingehenden
 Vendor-KI-Vertrag von [Gegenseite]."]
 ```
 
@@ -193,7 +193,7 @@ in Mandat A **niemals** Dateien in `mandate/B/`. Das ist die Vertraulichkeitsgar
 die Anforderungen aus § 43a Abs. 2 BRAO und § 203 StGB.
 
 Bei `an` darf ein Skill Dateien mandatsübergreifend nur lesen, wenn der Nutzer explizit
-darum bittet (z. B. „Vergleichen Sie unsere Haftungshöchstbetragsposition über die letzten
+darum bittet (z. B. "Vergleichen Sie unsere Haftungshöchstbetragsposition über die letzten
 fünf Vendor-Mandate"). Auch bei `an` ist der Standard, nur das aktive Mandat zu laden.
 
 ## Quellen und Zitierweise

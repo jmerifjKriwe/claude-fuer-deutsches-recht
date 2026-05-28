@@ -29,7 +29,7 @@ Klaere vor Erstellung und Pruefung des Protokolls:
 
 - **BGH, Urt. v. 11.02.2008 – II ZR 187/06, NJW 2008, 1680** — Fehlende Einladung eines Gesellschafters zur GV fuehrt zur Nichtigkeit der gefassten Beschluesse; analoge Anwendung des § 241 Nr. 1 AktG; keine Heilung durch nachtraegliche Genehmigung einzelner Gesellschafter.
 - **BGH, Urt. v. 24.11.2008 – II ZR 116/08, NZG 2009, 183** — Heilung einer fehlerhaften Einberufung durch Vollversammlung (§ 51 III GmbHG) setzt ausdrueckliches Einverstaendnis aller Gesellschafter voraus; Schweigen genuegt nicht.
-- **OLG Muenchen, Beschl. v. 29.03.2022 – 34 Wx 76/22, GmbHR 2022, 764** — Die Tagesordnung muss so konkret formuliert sein, dass die Gesellschafter den Gegenstand des Beschlusses erkennen koennen; pauschale Punkte wie „Personalfragen" genuegen fuer Abberufungsbeschluesse nicht.
+- **OLG Muenchen, Beschl. v. 29.03.2022 – 34 Wx 76/22, GmbHR 2022, 764** — Die Tagesordnung muss so konkret formuliert sein, dass die Gesellschafter den Gegenstand des Beschlusses erkennen koennen; pauschale Punkte wie "Personalfragen" genuegen fuer Abberufungsbeschluesse nicht.
 - **BGH, Urt. v. 20.01.1986 – II ZR 73/85, BGHZ 97, 28** — Gesellschafter, der ein Stimmverbot nach § 47 IV GmbHG hat, darf an der Abstimmung nicht teilnehmen; abgegebene Stimme ist nicht zu zaehlen; bei Zweifel entscheidet das Gericht auf Anfechtungsklage.
 
 ## Kommentarliteratur

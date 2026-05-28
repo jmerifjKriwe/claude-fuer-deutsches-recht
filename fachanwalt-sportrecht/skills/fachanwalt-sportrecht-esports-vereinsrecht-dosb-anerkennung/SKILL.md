@@ -7,7 +7,7 @@ description: "eSports-Organisator oder Verein fragt ob DOSB-Anerkennung möglich
 
 ## Zweck
 
-Spezial-Mandat: Mandant möchte eSports-Verein gründen oder einen eSports-Bereich in einen bestehenden Sportverein integrieren. Zwei zentrale Rechtsfragen: (1) Ist eSports „Sport" i.S.d. § 52 AO (gemeinnützig)? — aktuell strittig. (2) DOSB / LSB-Anerkennung als Spitzenverband: nicht erfolgt.
+Spezial-Mandat: Mandant möchte eSports-Verein gründen oder einen eSports-Bereich in einen bestehenden Sportverein integrieren. Zwei zentrale Rechtsfragen: (1) Ist eSports "Sport" i.S.d. § 52 AO (gemeinnützig)? — aktuell strittig. (2) DOSB / LSB-Anerkennung als Spitzenverband: nicht erfolgt.
 
 ## Eingaben
 

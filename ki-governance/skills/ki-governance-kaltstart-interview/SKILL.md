@@ -112,7 +112,7 @@ systeme sehr großer Plattformen); Sektoren (BaFin MaRisk, MDR/IVDR);
 
 Szenarien für Betreiber: Bewerbungs-Screening (Hochrisiko nach Art. 6 Abs. 2 i. V. m. Anhang III Nr. 4 lit. a),
 HR-Zusammenfassungen, Kundendienst-Entwürfe, Spesen-Anomalieerkennung.
-Rote-Linien-Frage: „Was wäre automatisch Nein?" Verbotene Praktiken
+Rote-Linien-Frage: "Was wäre automatisch Nein?" Verbotene Praktiken
 nach Art. 5 KI-VO als Ausgangspunkt (Social Scoring, subliminale
 Manipulation, Echtzeitbiometrie, Emotionserkennung am Arbeitsplatz).
 
@@ -152,7 +152,7 @@ Mittelständischer Softwarehersteller (500 MA, Sitz Deutschland, Kunden EU/UK):
 
 ## Risiken und typische Fehler
 
-- Builder/Betreiber-Frage nicht überspringen; bei „beides" die Seite mit
+- Builder/Betreiber-Frage nicht überspringen; bei "beides" die Seite mit
   größerer Governance-Last zuerst bearbeiten.
 - Kein Regime annehmen; tatsächlichen Anwendungsbereich recherchieren.
 - Anwendungsfall-Register nie aus generischen Positionen befüllen; bei

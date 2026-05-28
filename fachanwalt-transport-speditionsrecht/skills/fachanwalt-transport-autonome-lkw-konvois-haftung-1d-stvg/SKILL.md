@@ -236,11 +236,11 @@ an den Frachtführer zu erstatten (§ 1 ProdHaftG Abs. 3;
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „Frachtführer haftet nicht wegen autonomen Systems" | CMR Art. 17 ist verschuldensunabhängige Obhutshaftung; autonomer Modus ändert Haftungsgrundlage nicht; Frachtführer muss Haftungsausschluss Art. 17 Abs. 2 CMR beweisen |
-| „§ 7 StVG greift nicht weil autonomes Fahrzeug kein klassisches Kfz" | § 1d StVG ändert nichts an der Halterhaftung nach § 7 StVG; Halter haftet nach § 7 bei jedem Betrieb des Fahrzeugs |
-| „Black-Box-Daten sind nicht zugänglich" | § 1g StVG: Pflicht zur Datenspeicherung; § 1h StVG: Auskunftspflicht gegenüber Behörden; gerichtlicher Herausgabeanspruch bei drohender Vernichtung möglich (§ 809 BGB) |
-| „Software ist kein Produkt nach ProdHaftG" | § 2 ProdHaftG: Software ist Produkt; EuGH-Rechtsprechung bestätigt dies für eingebettete Software (C-36/23 anhängig) |
-| „Fahrer hätte eingreifen müssen" | Bei Level 3/4: Fahrer ist nur zur Übernahme verpflichtet wenn System Übergabe anfordert; ohne Anforderung keine Eingreifpflicht |
+| "Frachtführer haftet nicht wegen autonomen Systems" | CMR Art. 17 ist verschuldensunabhängige Obhutshaftung; autonomer Modus ändert Haftungsgrundlage nicht; Frachtführer muss Haftungsausschluss Art. 17 Abs. 2 CMR beweisen |
+| "§ 7 StVG greift nicht weil autonomes Fahrzeug kein klassisches Kfz" | § 1d StVG ändert nichts an der Halterhaftung nach § 7 StVG; Halter haftet nach § 7 bei jedem Betrieb des Fahrzeugs |
+| "Black-Box-Daten sind nicht zugänglich" | § 1g StVG: Pflicht zur Datenspeicherung; § 1h StVG: Auskunftspflicht gegenüber Behörden; gerichtlicher Herausgabeanspruch bei drohender Vernichtung möglich (§ 809 BGB) |
+| "Software ist kein Produkt nach ProdHaftG" | § 2 ProdHaftG: Software ist Produkt; EuGH-Rechtsprechung bestätigt dies für eingebettete Software (C-36/23 anhängig) |
+| "Fahrer hätte eingreifen müssen" | Bei Level 3/4: Fahrer ist nur zur Übernahme verpflichtet wenn System Übergabe anfordert; ohne Anforderung keine Eingreifpflicht |
 
 ---
 

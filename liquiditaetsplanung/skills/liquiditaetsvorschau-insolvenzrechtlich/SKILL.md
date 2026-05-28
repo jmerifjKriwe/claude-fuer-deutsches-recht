@@ -35,7 +35,7 @@ Vor der Aufstellung folgende Frage stellen:
 
 > Wie sollen die Daten einfließen — manuell, per Datei-Import (CAMT.053, MT940, CSV-Bankexport, DATEV-OPOS-Export), oder über einen verbundenen Bankzugang (PSD2 / FinTS / vorhandener Connector)?
 
-Detailregeln siehe Schwester-Skill `liquiditaetsvorschau-3wochen`, Abschnitt „Bezugsquellen der Eingabedaten" — der Skill selbst baut keinen Open-Banking-Client.
+Detailregeln siehe Schwester-Skill `liquiditaetsvorschau-3wochen`, Abschnitt "Bezugsquellen der Eingabedaten" — der Skill selbst baut keinen Open-Banking-Client.
 
 ## Ablauf
 
@@ -58,7 +58,7 @@ Liquiditätslücke (absolut) = Σ Fällig − Σ Liquide
 Liquiditätsquote          = Liquiditätslücke ÷ Σ Fällig
 ```
 
-Die Bezugsgröße der Quote ist Σ(P I + P II) — BGH, Urt. v. 19.12.2017 – II ZR 88/16, BGHZ 217, 129 Rn. 25 ff. („Volumeneffekt").
+Die Bezugsgröße der Quote ist Σ(P I + P II) — BGH, Urt. v. 19.12.2017 – II ZR 88/16, BGHZ 217, 129 Rn. 25 ff. ("Volumeneffekt").
 
 **Schritt 4 — Subsumtion nach BGH-Schema**
 
@@ -115,7 +115,7 @@ Die Beurteilung erfolgt **allein anhand objektiver Umstände**; auf die innere V
 
 ## Ausgabeformat
 
-1. **Excel** auf Basis von `assets/excel/Liquiditaetsplan-Wochenbasis.xlsx` — Wochenraster, BGH-Block, Block „Offene Forderungen", Hinweise zur BGH-Rechtsprechung.
+1. **Excel** auf Basis von `assets/excel/Liquiditaetsplan-Wochenbasis.xlsx` — Wochenraster, BGH-Block, Block "Offene Forderungen", Hinweise zur BGH-Rechtsprechung.
 2. **HTML-Padlet** (auf Wunsch).
 3. **Markdown-Artefakt** (auf Wunsch).
 4. **Memo** (nur auf Anfrage) im Gutachtenstil: Sachverhalt, Rechtliche Grundlagen, Liquiditätsbilanz, Subsumtion BGH-Schema, Indizienanalyse, Ergebnis, Quellennachweis.

@@ -48,7 +48,7 @@ Anwälte mit mehreren Mandanten und Verfahren arbeiten parallel an verschiedenen
 
 Lies `CLAUDE.md` → Abschnitt `## Mandatsarbeitsbereiche`. Ist `Aktiviert: ✗`:
 
-> „Mandatsarbeitsbereiche sind deaktiviert — die Kanzlei ist als Einmandat-Kanzlei (z. B. Syndikusrechtsanwalt nach § 46 BRAO) konfiguriert und arbeitet automatisch auf Kanzleiebene. Falls tatsächlich mehrere Mandate geführt werden, bitte `/prozessrecht:prozessrecht-kaltstart-interview --neu` ausführen und eine Mehrmandat-Kanzlei auswählen. Andernfalls wird `/mandat-arbeitsbereich` nicht benötigt."
+> "Mandatsarbeitsbereiche sind deaktiviert — die Kanzlei ist als Einmandat-Kanzlei (z. B. Syndikusrechtsanwalt nach § 46 BRAO) konfiguriert und arbeitet automatisch auf Kanzleiebene. Falls tatsächlich mehrere Mandate geführt werden, bitte `/prozessrecht:prozessrecht-kaltstart-interview --neu` ausführen und eine Mehrmandat-Kanzlei auswählen. Andernfalls wird `/mandat-arbeitsbereich` nicht benötigt."
 
 ### Schritt 2: Unterbefehl ausführen
 
@@ -61,12 +61,12 @@ Lies `CLAUDE.md` → Abschnitt `## Mandatsarbeitsbereiche`. Ist `Aktiviert: ✗`
    - **Mandatstyp**: Zivilstreitigkeit | Arbeitsrechtssache | Verwaltungsverfahren | Strafverteidigung | Steuerrechtsstreit (FGO) | Sozialrechtsstreit (SGG) | IP-Streit | sonstiges
    - **Vertraulichkeitsstufe**: Standard | erhöht | Clean-Team
    - **Sachverhalt** (2–5 Sätze: Gegenstand, Beteiligte, Streitwert/Risiko, Besonderheiten)
-   - **Mandatsspezifische Abweichungen vom Kanzleistandard** (z. B. „Mandant verlangt wöchentliche Statusberichte", „Gegenseite ist Geschäftspartner — deeskalierender Ton")
+   - **Mandatsspezifische Abweichungen vom Kanzleistandard** (z. B. "Mandant verlangt wöchentliche Statusberichte", "Gegenseite ist Geschäftspartner — deeskalierender Ton")
    - **Verwandte Mandate** (Slugs verbundener Sachen)
 3. `mandate/<slug>/akte.md` nach Vorlage unten schreiben.
 4. `mandate/<slug>/verlauf.md` mit Eröffnungseintrag seeden.
 5. Leere `mandate/<slug>/notizen.md` anlegen.
-6. Nicht automatisch wechseln — fragen: „Soll auf `<slug>` gewechselt werden? (`/prozessrecht:prozessrecht-mandat-arbeitsbereich wechseln <slug>`)"
+6. Nicht automatisch wechseln — fragen: "Soll auf `<slug>` gewechselt werden? (`/prozessrecht:prozessrecht-mandat-arbeitsbereich wechseln <slug>`)"
 
 #### `liste`
 
@@ -75,7 +75,7 @@ Lies `CLAUDE.md` → Abschnitt `## Mandatsarbeitsbereiche`. Ist `Aktiviert: ✗`
 | Slug | Mandant | Mandatstyp | Status | Eröffnet | Aktiv |
 |---|---|---|---|---|---|
 
-Aktives Mandat mit `*` markieren. Archivierte Mandate unter separater Überschrift „Archiviert".
+Aktives Mandat mit `*` markieren. Archivierte Mandate unter separater Überschrift "Archiviert".
 
 #### `wechseln <slug>`
 
@@ -86,7 +86,7 @@ Aktives Mandat mit `*` markieren. Archivierte Mandate unter separater Überschri
 #### `schließen <slug>`
 
 1. Bestätigen, dass `mandate/<slug>/` existiert.
-2. Eintrag „Mandat abgeschlossen" in `mandate/<slug>/verlauf.md` mit heutigem Datum anhängen.
+2. Eintrag "Mandat abgeschlossen" in `mandate/<slug>/verlauf.md` mit heutigem Datum anhängen.
 3. `mandate/<slug>/` nach `mandate/_archiviert/<slug>/` verschieben (nicht löschen — § 50 Abs. 2 BRAO).
 4. War das geschlossene Mandat das aktive, `Aktives Mandat:` auf `keins — nur Kanzleiebene` setzen.
 
@@ -153,9 +153,9 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 *Abweichungen vom Kanzleistandard, die nur für dieses Mandat gelten.*
 
-- [z. B. „Prozesskostenfondlimit: Mandant besteht auf max. 50.000 EUR, nicht Standard 100.000 EUR."]
-- [z. B. „Ton: deeskalierend — Gegenseite ist Geschäftspartner."]
-- [z. B. „Gerichtsstand: Hamburg; abweichend vom Standardsitz München."]
+- [z. B. "Prozesskostenfondlimit: Mandant besteht auf max. 50.000 EUR, nicht Standard 100.000 EUR."]
+- [z. B. "Ton: deeskalierend — Gegenseite ist Geschäftspartner."]
+- [z. B. "Gerichtsstand: Hamburg; abweichend vom Standardsitz München."]
 
 ## Verwandte Mandate
 
@@ -178,16 +178,16 @@ Chronologisches Ereignisprotokoll. Jüngster Eintrag oben.
 ## [JJJJ-MM-TT] — Mandat eröffnet
 
 Aufnahme abgeschlossen. Slug: `[slug]`. Status: aktiv.
-[Weiterer Anfangskontext — z. B. „Eröffnet nach Zustellung Klageschrift durch [Gegenseite] am [Datum]."]
+[Weiterer Anfangskontext — z. B. "Eröffnet nach Zustellung Klageschrift durch [Gegenseite] am [Datum]."]
 ```
 
 ## Beispiel
 
-**Anfrage:** „Neues Mandat anlegen: Berufungsverfahren Müller GmbH gegen Bauer AG, OLG München, Streitwert 250.000 EUR."
+**Anfrage:** "Neues Mandat anlegen: Berufungsverfahren Müller GmbH gegen Bauer AG, OLG München, Streitwert 250.000 EUR."
 
 **Unterbefehl:** `neu muellerGmbH-bauer-berufung-2025`
 
-**Ergebnis:** `akte.md` wird angelegt mit Mandatstyp „Zivilstreitigkeit", Vertraulichkeit „standard", Sachverhalt aus den Angaben. `verlauf.md` mit Eröffnungseintrag vom heutigen Tag geseeded. Frage: „Auf `muellerGmbH-bauer-berufung-2025` wechseln?"
+**Ergebnis:** `akte.md` wird angelegt mit Mandatstyp "Zivilstreitigkeit", Vertraulichkeit "standard", Sachverhalt aus den Angaben. `verlauf.md` mit Eröffnungseintrag vom heutigen Tag geseeded. Frage: "Auf `muellerGmbH-bauer-berufung-2025` wechseln?"
 
 ## Risiken und typische Fehler
 

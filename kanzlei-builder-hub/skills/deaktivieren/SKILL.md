@@ -43,7 +43,7 @@ Den Deaktivierungs-Arbeitsablauf aus dem `skill-verwalter`-Referenz-Skill ausfü
 
 1. `installations-protokoll.yaml` lesen. Neuesten Eintrag für den genannten Skill suchen.
 2. **Wenn nicht gefunden oder letzte Aktion ist `deinstallieren`:** Mitteilen und stoppen.
-3. **Wenn letzte Aktion ist `deaktivieren`:** „Dieser Skill ist bereits deaktiviert. Reaktivieren? (ja / nein)" — bei ja Reaktivierungs-Arbeitsablauf ausführen.
+3. **Wenn letzte Aktion ist `deaktivieren`:** "Dieser Skill ist bereits deaktiviert. Reaktivieren? (ja / nein)" — bei ja Reaktivierungs-Arbeitsablauf ausführen.
 4. **Wenn letzte Aktion ist `install` oder `enable`:** Weiter zu Schritt 2.
 
 ### Schritt 2: Dateien identifizieren
@@ -95,7 +95,7 @@ Wenn der Nutzer einen Skill nennt, dessen neueste Protokollaktion `deaktivieren`
    - `ausloeser.json.disabled` → `ausloeser.json` (falls vorhanden)
    - `agents/*.md.disabled` → `agents/*.md` (falls vorhanden)
 2. Umbenennungsliste anzeigen
-3. „Skill reaktivieren? (ja / nein)" — nur bei `ja` fortfahren
+3. "Skill reaktivieren? (ja / nein)" — nur bei `ja` fortfahren
 4. Protokolleintrag mit `action: enable` anhängen
 
 ## Sicherheitsregeln
@@ -111,7 +111,7 @@ Wenn der Nutzer einen Skill nennt, dessen neueste Protokollaktion `deaktivieren`
 - Liste der umzubenennenden Dateien
 - Bestätigungsprompt
 - Bestätigung der Deaktivierung mit Protokollpfad
-- Kurzhinweis zur Reaktivierung: „Zur Reaktivierung: `/kanzlei-builder-hub:deaktivieren [skillname]` erneut ausführen."
+- Kurzhinweis zur Reaktivierung: "Zur Reaktivierung: `/kanzlei-builder-hub:deaktivieren [skillname]` erneut ausführen."
 
 ## Beispiel
 

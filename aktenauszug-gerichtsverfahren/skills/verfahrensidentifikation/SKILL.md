@@ -103,7 +103,7 @@ Für jede Partei:
 
 ## Hinweise
 
-- Fehlende Felder werden als „nicht aus Akte ersichtlich" gekennzeichnet, nicht geschätzt.
+- Fehlende Felder werden als "nicht aus Akte ersichtlich" gekennzeichnet, nicht geschätzt.
 - Bei mehreren Klägern oder Beklagten wird jede Person separat aufgeführt.
 - Streithelfer werden gesondert unter der Hauptparteitabelle gelistet.
 - Keine Bewertung der Parteibezeichnung (z. B. ob Kläger wirklich klagebefugt ist).

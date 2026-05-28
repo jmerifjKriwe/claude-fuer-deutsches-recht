@@ -156,7 +156,7 @@ Vorinsolvenzliches Sanierungs-Instrument bei drohender Zahlungsunfähigkeit. Kei
 - StaRUG seit 1.1.2021
 - Bisherige Verfahren-Anzahl: ~50 pro Jahr (gering, da hohe Eintrittsschwellen)
 - Beratungs-Markt: spezielle StaRUG-Kanzleien
-- Kombination mit M&A: „Distressed M&A" via StaRUG
+- Kombination mit M&A: "Distressed M&A" via StaRUG
 
 ## Anschluss
 

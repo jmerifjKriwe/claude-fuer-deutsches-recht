@@ -102,7 +102,7 @@ Nicht enthalten:
 - Anwaltliche Arbeitseindrücke und mentale Bewertungen
 - Protokoll-Eintrags-IDs oder Dokumentenverweise
 
-Kopfzeile: „Vertraulich — Nur HR — Keine Weitergabe"
+Kopfzeile: "Vertraulich — Nur HR — Keine Weitergabe"
 
 **§ 102 BetrVG-Hinweis:** Diese Zusammenfassung wird oft als Grundlage
 der BR-Anhörung verwendet. Sachverhaltsdarstellung muss vollständig und
@@ -118,7 +118,7 @@ Inhalt:
   (nur grob — keine Detailrechtsanalyse)
 - Ergriffene und geplante Maßnahmen
 
-Kopfzeile: „Vertraulich — Interne Untersuchung — Geschäftsleitung"
+Kopfzeile: "Vertraulich — Interne Untersuchung — Geschäftsleitung"
 
 **§§ 93, 116 AktG / § 43 GmbHG-Hinweis:** Die Zusammenfassung muss den
 Informationsgehalt haben, der für eine ordnungsgemäße und haftungsbefreiende
@@ -134,7 +134,7 @@ Inhalt:
 - Dokumente mit erhöhter Prozessrelevanz
 - Eintrags-IDs und Quellendokumentation
 
-Kopfzeile: „Vertraulich — Interne Untersuchung"
+Kopfzeile: "Vertraulich — Interne Untersuchung"
 
 **HinSchG-Schutzpflicht (bei Hinweisgebersachen):**
 In allen Zielgruppen-Zusammenfassungen: Identität der hinweisgebenden

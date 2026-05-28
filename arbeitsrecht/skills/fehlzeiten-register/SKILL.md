@@ -18,7 +18,7 @@ Dieser Skill überprüft alle offenen Abwesenheiten mit gesetzlichen Fristen und
 
 ### 1. Datenquelle ermitteln
 
-Falls HRIS verbunden: Abwesenheitsdaten abrufen. Falls nicht: `urlaubsregister.yaml` lesen. Falls beides fehlt: „Kein Urlaubsregister gefunden. Bitte HRIS verknüpfen oder Abwesenheiten über `/arbeitsrecht:fehlzeit-erfassen` eintragen."
+Falls HRIS verbunden: Abwesenheitsdaten abrufen. Falls nicht: `urlaubsregister.yaml` lesen. Falls beides fehlt: "Kein Urlaubsregister gefunden. Bitte HRIS verknüpfen oder Abwesenheiten über `/arbeitsrecht:fehlzeit-erfassen` eintragen."
 
 ### 2. Fristen-Check für jede offene Abwesenheit
 

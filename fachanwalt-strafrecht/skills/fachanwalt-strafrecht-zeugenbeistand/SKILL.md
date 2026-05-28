@@ -219,11 +219,11 @@ liegenden Beweise nicht möglich (BGH 1 StR 491/09).
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „Die Zeugin muss aussagen, § 48 StPO gilt uneingeschränkt" | § 48 StPO begründet Pflicht, enthält aber keine Aussagepflicht bei Verweigerungsrechten; §§ 52, 53, 55 StPO gehen als lex specialis vor |
-| „§ 55 StPO greift nur bei konkreter Anklage der Zeugin" | Nein; § 55 StPO greift bereits bei objektiver Verfolgungsgefahr, also wenn aufgrund der Antwort ein Anfangsverdacht entstehen könnte (BGH NJW 2006, 1529) |
-| „Zeugenbeistand darf nicht sprechen" | § 68b Abs. 1 S. 2 StPO erlaubt Beanstandungen; bei Beiordnung auch Erklärungen; BGH hat Erklärungsrecht bestätigt |
-| „Akteneinsicht steht dem Zeugenbeistand nicht zu" | BGH 1 StR 491/09: Analogie zu § 406e StPO anerkannt; auch § 475 StPO als Rechtsgrundlage möglich |
-| „Adressanonymisierung ist unverhältnismäßig" | § 68 Abs. 3 StPO erfordert nur drohende Gefahr, nicht bereits eingetretene Schädigung; pauschal aber unzureichend |
+| "Die Zeugin muss aussagen, § 48 StPO gilt uneingeschränkt" | § 48 StPO begründet Pflicht, enthält aber keine Aussagepflicht bei Verweigerungsrechten; §§ 52, 53, 55 StPO gehen als lex specialis vor |
+| "§ 55 StPO greift nur bei konkreter Anklage der Zeugin" | Nein; § 55 StPO greift bereits bei objektiver Verfolgungsgefahr, also wenn aufgrund der Antwort ein Anfangsverdacht entstehen könnte (BGH NJW 2006, 1529) |
+| "Zeugenbeistand darf nicht sprechen" | § 68b Abs. 1 S. 2 StPO erlaubt Beanstandungen; bei Beiordnung auch Erklärungen; BGH hat Erklärungsrecht bestätigt |
+| "Akteneinsicht steht dem Zeugenbeistand nicht zu" | BGH 1 StR 491/09: Analogie zu § 406e StPO anerkannt; auch § 475 StPO als Rechtsgrundlage möglich |
+| "Adressanonymisierung ist unverhältnismäßig" | § 68 Abs. 3 StPO erfordert nur drohende Gefahr, nicht bereits eingetretene Schädigung; pauschal aber unzureichend |
 
 ---
 

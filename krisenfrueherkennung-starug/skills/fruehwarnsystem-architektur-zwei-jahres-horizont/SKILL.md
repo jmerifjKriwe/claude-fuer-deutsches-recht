@@ -187,7 +187,7 @@ Die Geschäftsführung beschließt:
 
 1. **Frühwarnsystem auf Papier ist kein Frühwarnsystem** — im Haftungsfall wird geprüft, ob das System tatsächlich gelebt wurde. Fehlende Reports, keine Protokolle, keine Eskalationen: Indizienbeweis für Pflichtverletzung.
 
-2. **Schwellenwerte zu weit gefasst** schützen nicht. Wer „ROT erst ab Zahlungsunfähigkeit" definiert, hat kein Frühwarnsystem, sondern ein Brandmeldesystem nach dem Brand.
+2. **Schwellenwerte zu weit gefasst** schützen nicht. Wer "ROT erst ab Zahlungsunfähigkeit" definiert, hat kein Frühwarnsystem, sondern ein Brandmeldesystem nach dem Brand.
 
 3. **Keine Integration in Planungsprozess** — das Frühwarnsystem muss mit der operativen Planung verbunden sein. Eigenständige Silo-Lösung ohne Rückkopplung erfüllt IDW PS 340 n.F. nicht.
 

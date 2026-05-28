@@ -303,10 +303,10 @@ Vollstreckungstitel muss enthalten:
 
 | Gegenargument | Reaktion |
 |--------------|---------|
-| „Kind will keinen Umgang" | Kindeswille ab 14 erhebliches Gewicht; bei Jüngeren: Hintergründe prüfen (PAS?); Verfahrensbeistand § 158 FamFG |
-| „Umgang gefährdet das Kind" | Substanziierter Vortrag mit Belegen notwendig; pauschale Behauptungen reichen nicht (OLG Frankfurt 4 UF 12/21) |
-| „Wechselmodell funktioniert nicht" | BGH XII ZB 601/15: Wechselmodell anordnungsfähig wenn im Kindesinteresse; Kooperation nicht absolute Voraussetzung |
-| „Vollstreckung sei zu hart" | § 89 FamFG: Kindesrecht auf Umgang ist vollstreckungsfähig; Ordnungsmittel verhältnismäßig bei wiederholter Verweigerung |
+| "Kind will keinen Umgang" | Kindeswille ab 14 erhebliches Gewicht; bei Jüngeren: Hintergründe prüfen (PAS?); Verfahrensbeistand § 158 FamFG |
+| "Umgang gefährdet das Kind" | Substanziierter Vortrag mit Belegen notwendig; pauschale Behauptungen reichen nicht (OLG Frankfurt 4 UF 12/21) |
+| "Wechselmodell funktioniert nicht" | BGH XII ZB 601/15: Wechselmodell anordnungsfähig wenn im Kindesinteresse; Kooperation nicht absolute Voraussetzung |
+| "Vollstreckung sei zu hart" | § 89 FamFG: Kindesrecht auf Umgang ist vollstreckungsfähig; Ordnungsmittel verhältnismäßig bei wiederholter Verweigerung |
 
 ## Streitwert und Kosten
 

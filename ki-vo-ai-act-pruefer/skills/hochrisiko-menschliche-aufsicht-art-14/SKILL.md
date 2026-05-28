@@ -24,7 +24,7 @@ Aufsichtspersonen müssen in der Lage sein, die Fähigkeiten und Grenzen des Sys
 
 **Prüffragen:**
 - Liefert das System ausreichende Erklärungen oder Konfidenzwerte zu seinen Ausgaben?
-- Können Aufsichtspersonen die Ausgaben sinnvoll bewerten, ohne das System zu „blind" zu vertrauen?
+- Können Aufsichtspersonen die Ausgaben sinnvoll bewerten, ohne das System zu "blind" zu vertrauen?
 
 ## Pflicht 3 — Schutz vor Over-Reliance / Automation Bias (Art. 14 Abs. 4 lit. b KI-VO)
 

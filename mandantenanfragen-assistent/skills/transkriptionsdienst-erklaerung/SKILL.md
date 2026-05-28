@@ -33,7 +33,7 @@ Dieser Skill formuliert den vollständigen Abschnitt in der Erstantwort-Mail, in
 
 Aktivierung wenn einer der folgenden Auslöser erkannt wird:
 
-- Explizit: „Ich kann nicht schreiben", „Ich schreibe lieber nicht", „Ich würde lieber anrufen und erzählen", „kann mich nicht gut schriftlich ausdrücken", „bin nicht so gut mit dem Computer"
+- Explizit: "Ich kann nicht schreiben", "Ich schreibe lieber nicht", "Ich würde lieber anrufen und erzählen", "kann mich nicht gut schriftlich ausdrücken", "bin nicht so gut mit dem Computer"
 - Implizit: Kurze, fragmentarische Anfrage ohne Sachverhalts-Details trotz offensichtlich komplexem Anliegen
 - Manuell: Die Sekretariatsmitarbeiterin aktiviert den Modus explizit
 
@@ -42,7 +42,7 @@ Aktivierung wenn einer der folgenden Auslöser erkannt wird:
 Der Ablauf, der in der Mail erklärt wird:
 
 1. **Anruf:** Die anfragende Person ruft unter der Transkriptions-Telefonnummer an.
-2. **Einwilligungsabfrage:** Zu Beginn des Anrufs wird eine automatisierte Ansage abgespielt, die auf die Verarbeitung der Sprachdaten hinweist. Die anrufende Person muss ihr Einverständnis durch Drücken einer Taste oder durch ein klares mündliches „Ja" bestätigen.
+2. **Einwilligungsabfrage:** Zu Beginn des Anrufs wird eine automatisierte Ansage abgespielt, die auf die Verarbeitung der Sprachdaten hinweist. Die anrufende Person muss ihr Einverständnis durch Drücken einer Taste oder durch ein klares mündliches "Ja" bestätigen.
 3. **Wichtig:** Ohne Einverständnis-Bestätigung wird die Aufnahme nicht gestartet. Der Anruf endet, oder die Person wird an das Sekretariat weitergeleitet.
 4. **Schilderung:** Nach bestätigtem Einverständnis schildert die Person ihr Anliegen mündlich.
 5. **Automatische Verschriftung:** Die Sprachaufnahme wird durch einen automatisierten Transkriptionsservice verschriftlicht.
@@ -86,7 +86,7 @@ In diesem Stadium besteht noch kein Anwalts-Mandatsverhältnis. Das bedeutet:
 
 ### Keine Zusagen zur Mandatsannahme
 
-Die Formulierung des Transkriptionsservice-Abschnitts enthält keine Zusagen, dass die Kanzlei das Mandat annehmen wird. Zulässig: „Wir melden uns auf Basis des Transkripts bei Ihnen." Nicht zulässig: „Wir werden Ihren Fall übernehmen."
+Die Formulierung des Transkriptionsservice-Abschnitts enthält keine Zusagen, dass die Kanzlei das Mandat annehmen wird. Zulässig: "Wir melden uns auf Basis des Transkripts bei Ihnen." Nicht zulässig: "Wir werden Ihren Fall übernehmen."
 
 ### Technisch neutrale Sprache
 

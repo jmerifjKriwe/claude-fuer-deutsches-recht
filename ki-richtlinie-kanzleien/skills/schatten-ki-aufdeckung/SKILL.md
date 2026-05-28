@@ -5,7 +5,7 @@ description: "Schatten-KI in Kanzleien erkennen und konstruktiv umgehen: Anwendu
 
 # Schatten-KI Aufdeckung
 
-„Schatten-KI" bezeichnet die heimliche oder geduldete Nutzung nicht autorisierter KI-Systeme und Chatbots durch Mitarbeitende im Kanzleibetrieb — oft mit privaten Accounts und ohne Wissen der Kanzleiführung. Diese Praxis gefährdet Datenschutz, Anwaltsgeheimnis und Compliance erheblich. Dieser Skill beschreibt Methoden zur Erkennung und zum konstruktiven Umgang mit Schatten-KI.
+"Schatten-KI" bezeichnet die heimliche oder geduldete Nutzung nicht autorisierter KI-Systeme und Chatbots durch Mitarbeitende im Kanzleibetrieb — oft mit privaten Accounts und ohne Wissen der Kanzleiführung. Diese Praxis gefährdet Datenschutz, Anwaltsgeheimnis und Compliance erheblich. Dieser Skill beschreibt Methoden zur Erkennung und zum konstruktiven Umgang mit Schatten-KI.
 
 ## Rechtlicher Hintergrund
 

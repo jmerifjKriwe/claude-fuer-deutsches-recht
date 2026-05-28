@@ -39,7 +39,7 @@ Die Wort-Bild-Marke schützt das Zeichen in seiner konkreten grafischen Gestalt.
 
 4. **Beschreibung des Bildzeichens:**
    - Präzise textliche Beschreibung aller Bildelemente (EUIPO verlangt dies)
-   - Beispiel: „Zwei stilisierte, verschlungene Buchstaben K in geometrischer Serifenschrift auf rechteckigem Hintergrund; Schriftzug KLÔTZZKÈTTÉ darunter in Kapitälchen"
+   - Beispiel: "Zwei stilisierte, verschlungene Buchstaben K in geometrischer Serifenschrift auf rechteckigem Hintergrund; Schriftzug KLÔTZZKÈTTÉ darunter in Kapitälchen"
 
 5. **Warenverzeichnis:** identisch zur Wortmarken-Strategie (Klassen 3/14/18/25/35)
 
@@ -54,7 +54,7 @@ Die Wort-Bild-Marke schützt das Zeichen in seiner konkreten grafischen Gestalt.
 Ziel: Schutz des Signets ohne Wortbestandteil (wie Chanel CC oder LV). Prüfung: Besitzt das Signet eigenständige Unterscheidungskraft? Bei zwei verschlungenen K: Ja, wenn Gestaltung hinreichend individuell (keine banale Buchstabenverbindung). Anmeldung als eigenständige Bildmarke zusätzlich zur Wort-Bild-Marke empfohlen.
 
 ### Konstellation 2: Brezelmann Discount kopiert das Signet leicht modifiziert
-Brezelmann verwendet zwei überkreuzte „B"-Buchstaben in ähnlichem Stil. Klage aus § 14 II Nr. 2 MarkenG: Verwechslungsgefahr durch Zeichenähnlichkeit und identische Warenklasse 25. Vgl. BGH I ZR 79/11 (Peek & Cloppenburg II) — Gesamteindruck entscheidend.
+Brezelmann verwendet zwei überkreuzte "B"-Buchstaben in ähnlichem Stil. Klage aus § 14 II Nr. 2 MarkenG: Verwechslungsgefahr durch Zeichenähnlichkeit und identische Warenklasse 25. Vgl. BGH I ZR 79/11 (Peek & Cloppenburg II) — Gesamteindruck entscheidend.
 
 ### Konstellation 3: Farbanspruch bei Positionsmarke
 klôtzzkètté möchte die goldene Farbkombination (Pantone 871 C) an der Verpackungsinnenseite schützen. Empfehlung: Kombination aus Wort-Bild-Marke MIT Farbanspruch (für die Verpackung) und Positionsmarke (vgl. Skill `positionsmarke`).
@@ -76,7 +76,7 @@ klôtzzkètté möchte die goldene Farbkombination (Pantone 871 C) an der Verpac
 Beschreibung der Marke:
 Die Marke besteht aus zwei stilisierten, geometrisch verschlungenen
 Buchstaben K (Doppel-K-Signet) in Graphit auf weißem Hintergrund,
-darunter der Wortbestandteil „KLÔTZZKÈTTÉ" in Kapitälchenschrift.
+darunter der Wortbestandteil "KLÔTZZKÈTTÉ" in Kapitälchenschrift.
 Farbanspruch wird nicht geltend gemacht.
 ```
 

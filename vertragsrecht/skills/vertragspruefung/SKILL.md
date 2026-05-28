@@ -1,6 +1,6 @@
 ---
 name: vertragspruefung
-description: "Prüft einen Vertrag gegen das Kanzlei-Playbook nach deutschem Recht. Identifiziert Vertragsstruktur anhand der Titelseite, ordnet das Dokument dem richtigen Prüfpfad zu (Lieferantenvertrag, NDA, AGB-Klauselkontrolle, Dienstleistungsvertrag) und erstellt ein strukturiertes Rechtsprüfungsmemo. Lädt, wenn der Nutzer „Vertrag prüfen\", „AGB prüfen\", „NDA prüfen\", „Klauselkontrolle\" oder einen Vertrag zur Analyse einreicht."
+description: "Prüft einen Vertrag gegen das Kanzlei-Playbook nach deutschem Recht. Identifiziert Vertragsstruktur anhand der Titelseite, ordnet das Dokument dem richtigen Prüfpfad zu (Lieferantenvertrag, NDA, AGB-Klauselkontrolle, Dienstleistungsvertrag) und erstellt ein strukturiertes Rechtsprüfungsmemo. Lädt, wenn der Nutzer "Vertrag prüfen\", "AGB prüfen\", "NDA prüfen\", "Klauselkontrolle\" oder einen Vertrag zur Analyse einreicht."
 ---
 
 # Vertragsanalyse und Klauselkontrolle
@@ -148,8 +148,8 @@ Falls kein Vertrag vorliegt: danach fragen.
 ### Schritt 3 — Dokumentstruktur erkennen (Titel zuerst)
 
 Vor dem Lesen des Textkörpers extrahieren:
-- Haupttitel (z. B. „Dienstleistungsrahmenvertrag", „Geheimhaltungsvereinbarung")
-- Alle Anlage-, Anhang-, Nachtragstitel (z. B. „Anlage 1 — AVV", „Anhang B —
+- Haupttitel (z. B. "Dienstleistungsrahmenvertrag", "Geheimhaltungsvereinbarung")
+- Alle Anlage-, Anhang-, Nachtragstitel (z. B. "Anlage 1 — AVV", "Anhang B —
   Service-Level-Vereinbarung")
 
 Das ist das Routing-Signal. Nicht auf Body-Keywords allein verlassen.
@@ -246,7 +246,7 @@ dass sie für einen redlich und verständig denkenden Kaufmann inakzeptabel wär
 
 **Freistellung / Freistellungsklauseln (§ 257 BGB):**
 - Einseitig zulasten einer Partei?
-- Ausgelöst durch „jeglichen Verstoß" — das macht die Haftungsbegrenzung
+- Ausgelöst durch "jeglichen Verstoß" — das macht die Haftungsbegrenzung
   faktisch wirkungslos?
 - Verfahren: Benachrichtigung, Verteidigungsrecht, Vergleichszustimmung?
 
@@ -304,12 +304,12 @@ und Eskalationsanfrage formulieren.
 
 ### [Klausel-Überschrift] — [GRÜN / GELB / ROT]
 
-**Vertragstext:** „[vollständiger Klauseltext]"
+**Vertragstext:** "[vollständiger Klauseltext]"
 
 **Bewertung:** [Begründung mit §§ und BGH-Belegen]
 
 **Gegenentwurf:**
-„[vorgeschlagene Formulierung]"
+"[vorgeschlagene Formulierung]"
 
 *Begründung: [z. B. BGH, Urt. v. 25.10.2016 – VI ZR 516/15, NJW 2017, 1104;
 Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 307 Rn. 45]*
@@ -324,7 +324,7 @@ Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 307 Rn. 45]*
 ## Beispiel
 
 **Szenario:** IT-Dienstleistungsrahmenvertrag, Verwender-Seite, eingereicht
-durch Lieferanten. Klausel: „Haftung des Auftragnehmers ist ausgeschlossen,
+durch Lieferanten. Klausel: "Haftung des Auftragnehmers ist ausgeschlossen,
 soweit keine grobe Fahrlässigkeit oder kein Vorsatz vorliegt."
 
 **Prüfung:**
@@ -334,7 +334,7 @@ soweit keine grobe Fahrlässigkeit oder kein Vorsatz vorliegt."
   Ausschluss für leichte Fahrlässigkeit auch Kardinalpflichten erfasst
   (BGH BGHZ 174, 1 Rn. 15 ff.: Kardinalpflichten dürfen nicht durch AGB
   freigezeichnet werden)
-- Gegenentwurf: „Die Haftung für die Verletzung von Kardinalpflichten
+- Gegenentwurf: "Die Haftung für die Verletzung von Kardinalpflichten
   bleibt in Höhe des vertragstypischen, vorhersehbaren Schadens bestehen."
 
 ## Risiken und typische Fehler
@@ -359,7 +359,7 @@ soweit keine grobe Fahrlässigkeit oder kein Vorsatz vorliegt."
 Jede Klauselbewertung muss belegen:
 - Den einschlägigen Paragraphen (§ 305c, § 307, § 309 Nr. 7 BGB etc.)
 - Mindestens eine BGH-Entscheidung in korrekter Zitierweise
-- Mindestens einen Kommentarbeleg im Bearbeiterstil „Bearbeiter, in: Werk"
+- Mindestens einen Kommentarbeleg im Bearbeiterstil "Bearbeiter, in: Werk"
   (z. B. Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 307 Rn. 45;
   Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 309 Rn. 90)
 

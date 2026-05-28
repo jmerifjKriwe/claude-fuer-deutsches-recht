@@ -63,7 +63,7 @@ Für Product Configuration Trade Dress immer erforderlich:
 - Eingetragenes Trade Dress: stärker als unregistriertes (presumption of validity, constructive notice)
 - Anmeldung via TEAS als 3D-Marke (Three-Dimensional Mark) oder Design Mark
 - Specimen: Foto des Produkts oder Verpackung in tatsächlichem Commerce-Kontext
-- Statement: „The mark consists of [detailed description of trade dress elements]"
+- Statement: "The mark consists of [detailed description of trade dress elements]"
 
 ### Schritt 5: Infringement Claim
 
@@ -74,7 +74,7 @@ Für Product Configuration Trade Dress immer erforderlich:
 ## Falltypische Konstellationen
 
 ### Konstellation 1: Flakon-Trade-Dress K°° pour Femme vs. US-Copycat
-US-Discount-Brand „K-OTS" kopiert das Flakon-Design. Kategorie: Product Configuration → Secondary Meaning erforderlich. Beweispaket: (1) 3 Jahre US-Boutique-Exklusivität, (2) USD 6 Mio. US-Werbeetat, (3) 47 Vogue-Features, (4) Consumer Survey: 68 % assoziieren den Flakon mit klôtzzkètté. Infringement-Klage SDNY (Southern District of New York — bevorzugte Jurisdiktion für Fashion Trade Dress).
+US-Discount-Brand "K-OTS" kopiert das Flakon-Design. Kategorie: Product Configuration → Secondary Meaning erforderlich. Beweispaket: (1) 3 Jahre US-Boutique-Exklusivität, (2) USD 6 Mio. US-Werbeetat, (3) 47 Vogue-Features, (4) Consumer Survey: 68 % assoziieren den Flakon mit klôtzzkètté. Infringement-Klage SDNY (Southern District of New York — bevorzugte Jurisdiktion für Fashion Trade Dress).
 
 ### Konstellation 2: Boutique-Interieur als Trade Dress
 Das charakteristische elfenbeinfarbene und graphit-graue Raumkonzept aller klôtzzkètté-Boutiquen. Kategorie: Product Packaging analog (Ambient/Service Trade Dress). Two Pesos-Standard anwendbar? Argument: Boutique-Ambiente als inherently distinctive because arbitrary. Survey zur Verbraucherwahrnehmung.

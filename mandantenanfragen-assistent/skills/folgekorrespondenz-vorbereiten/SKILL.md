@@ -40,20 +40,20 @@ Eingangskanal:     E-Mail
 --- KONTAKT ---
 Name:              [NACHNAME, VORNAME] | [Titel falls vorhanden]
 E-Mail:            [ABSENDER-ADRESSE]
-Telefon:           [TELEFONNUMMER oder „nicht genannt"]
-Postanschrift:     [ADRESSE oder „nicht genannt"]
+Telefon:           [TELEFONNUMMER oder "nicht genannt"]
+Postanschrift:     [ADRESSE oder "nicht genannt"]
 Sprache:           [DE / EN / FR / IT / Sonstiges]
 
 --- ANLIEGEN ---
 Rechtsgebiet:      [Ersteinschätzung: z. B. Arbeitsrecht / Mietrecht / Strafrecht]
 Stichwörter:       [Kommagetrennte Liste — max. 5 Begriffe]
-Beteiligte:        [Gegner / Behörde / weitere Parteien oder „nicht genannt"]
+Beteiligte:        [Gegner / Behörde / weitere Parteien oder "nicht genannt"]
 Sachverhalt-Kurzfassung:
   [2-4 Sätze aus dem Parsing — wortwörtlich oder eng paraphrasiert]
 
 --- DRINGLICHKEIT ---
 Stufe:             [HOCH / MITTEL / NIEDRIG / UNBEKANNT]
-Begründung:        [Frist, Termin, Eile-Signal oder „kein Hinweis"]
+Begründung:        [Frist, Termin, Eile-Signal oder "kein Hinweis"]
 Massnahme:         [Sofortiger Anwaltsrückruf erforderlich / Normale Bearbeitung / Abwarten]
 
 --- STATUS ---
@@ -73,11 +73,11 @@ Transkription:     [AKTIV / NICHT AKTIV]
 ### Eingangsdatum und -kanal
 
 - Automatisch befüllt mit dem aktuellen Zeitstempel (ISO 8601: `YYYY-MM-DD HH:MM`)
-- Eingangskanal: E-Mail, Telefon, Kontaktformular, Post — für E-Mail-basierte Anfragen stets „E-Mail"
+- Eingangskanal: E-Mail, Telefon, Kontaktformular, Post — für E-Mail-basierte Anfragen stets "E-Mail"
 
 ### Kontakt-Felder
 
-Aus dem Parsing-Skill (`anfrage-eingang-parser`) übernommen. Fehlende Felder werden mit „nicht genannt" markiert und für manuelle Ergänzung hervorgehoben.
+Aus dem Parsing-Skill (`anfrage-eingang-parser`) übernommen. Fehlende Felder werden mit "nicht genannt" markiert und für manuelle Ergänzung hervorgehoben.
 
 ### Rechtsgebiet-Ersteinschätzung
 
@@ -116,7 +116,7 @@ Standardmäßig: `AUSSTEHEND`. Die Sekretariatsmitarbeitende trägt nach Durchf�
 Dieser Skill gibt einen Text-basierten Skeleton aus, der in alle gängigen Systeme eingefügt werden kann:
 
 - **RA-MICRO:** Als neue Akte anlegen; Felder manuell übertragen; Aktenzeichen generieren.
-- **Advoware:** Neues Mandat anlegen; Kontaktdaten übertragen; Status auf „Erstanfrage" setzen.
+- **Advoware:** Neues Mandat anlegen; Kontaktdaten übertragen; Status auf "Erstanfrage" setzen.
 - **DATEV Anwalt:** Neues Verfahren anlegen; Mandantenakte erstellen.
 - **Eigenentwicklung / Excel:** Tabellenzeile; CSV-Import möglich.
 

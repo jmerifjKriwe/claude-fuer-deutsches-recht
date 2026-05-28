@@ -36,10 +36,10 @@ Dieser Skill ist der Einstieg in den Entfristungs-Workflow. Er klärt, ob das Zi
 ## Typische Einstiegssituation
 
 Der Nutzer sagt zum Beispiel:
-- „Mein befristeter Vertrag läuft am [DATUM] aus, ich glaube er war gar nicht wirksam befristet"
-- „Mein Arbeitsvertrag wurde per E-Mail unterschrieben, gilt die Befristung überhaupt?"
-- „Ich arbeite schon seit drei Jahren auf Basis aufeinanderfolgender befristeter Verträge"
-- „Mein Arbeitgeber hat mir einen neuen Vertrag gegeben ohne dass ich unterschrieben habe"
+- "Mein befristeter Vertrag läuft am [DATUM] aus, ich glaube er war gar nicht wirksam befristet"
+- "Mein Arbeitsvertrag wurde per E-Mail unterschrieben, gilt die Befristung überhaupt?"
+- "Ich arbeite schon seit drei Jahren auf Basis aufeinanderfolgender befristeter Verträge"
+- "Mein Arbeitgeber hat mir einen neuen Vertrag gegeben ohne dass ich unterschrieben habe"
 
 ## Erkennungsmerkmale Entfristungsklage
 

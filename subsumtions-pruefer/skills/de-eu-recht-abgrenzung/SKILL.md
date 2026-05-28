@@ -39,7 +39,7 @@ Der Anwendungsvorrang des Unionsrechts (EuGH, Rs. 6/64 — Costa/ENEL; Rs. 106/7
 
 Bei Richtlinien, die noch umzusetzen sind oder deren Umsetzungsfrist abgelaufen ist:
 - Nationales Recht ist so weit wie möglich im Licht der Richtlinie auszulegen (EuGH, Rs. C-106/89 — Marleasing).
-- Grenze: Contra-legem-Auslegung ist unzulässig; das nationale Gericht kann nationale Normen nicht gegen ihren eindeutigen Wortlaut „umdeuten".
+- Grenze: Contra-legem-Auslegung ist unzulässig; das nationale Gericht kann nationale Normen nicht gegen ihren eindeutigen Wortlaut "umdeuten".
 
 ### Schritt 5 — Vorabentscheidungsersuchen Art. 267 AEUV
 

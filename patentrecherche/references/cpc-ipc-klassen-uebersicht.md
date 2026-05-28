@@ -197,7 +197,7 @@ Beispiel: `H04L 9/00` = Sektion H (Elektrotechnik), Klasse 04 (Nachrichtentechni
 
 ## CPC-IPC-Differenz
 
-Beispiel: `Y02E 60/00` (CPC) — „Technologies for the reduction of GHG emissions, related to the energy sector". In IPC nicht vorhanden, weil Y eine reine CPC-Querschnitts-Sektion ist. Wer in einer IPC-only-Datenbank sucht, würde die Treffer in H02J (Stromversorgung) und H02S (Photovoltaik) suchen müssen — größere Streuung, mehr Lärm, mehr Klassen.
+Beispiel: `Y02E 60/00` (CPC) — "Technologies for the reduction of GHG emissions, related to the energy sector". In IPC nicht vorhanden, weil Y eine reine CPC-Querschnitts-Sektion ist. Wer in einer IPC-only-Datenbank sucht, würde die Treffer in H02J (Stromversorgung) und H02S (Photovoltaik) suchen müssen — größere Streuung, mehr Lärm, mehr Klassen.
 
 ## Quellen
 

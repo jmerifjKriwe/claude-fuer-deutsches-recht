@@ -49,7 +49,7 @@ Das Modell benötigt:
 
 ### Leitentscheidungen
 
-- EuGH, Urt. v. 03.09.2009 – C-489/07, NJW 2009, 3015 – „Messner": Der Verbraucher hat einen
+- EuGH, Urt. v. 03.09.2009 – C-489/07, NJW 2009, 3015 – "Messner": Der Verbraucher hat einen
   Wertersatzanspruch des Unternehmers für die Benutzung der Ware vor Ausübung des Widerrufs nur
   dann zu leisten, wenn er die Ware über das zur Prüfung notwendige Maß hinaus benutzt hat; eine
   pauschale Nutzungsentschädigung ist mit dem Widerrufsrecht unvereinbar.
@@ -97,7 +97,7 @@ Das Modell benötigt:
    binnen 14 Tagen zurückgewähren. Verbraucher muss Ware binnen 14 Tagen zurücksenden.
    Kosten der Rücksendung trägt Unternehmer, sofern er darüber informiert hat (§ 357 Abs. 6 BGB).
 7. **Wertersatz** (§ 357 Abs. 7 BGB): Unternehmer kann Wertersatz verlangen bei Verschlechterung
-   durch bestimmungswidrige Nutzung (nicht: normaler Prüfgebrauch, vgl. EuGH – „Messner").
+   durch bestimmungswidrige Nutzung (nicht: normaler Prüfgebrauch, vgl. EuGH – "Messner").
 8. **Auskunft zu Kosten**: Ggf. Hinweis auf Schadensersatzpflicht bei schuldhafter Verletzung
    der Rückgabepflicht.
 
@@ -137,7 +137,7 @@ VIII ZR 55/15, NJW 2017, 878 Rn. 27).
   Zahlungsverzug, Verzugszinsen, Schadensersatz.
 - **Wertersatz nach § 357 Abs. 7 BGB**: Zu hohe Forderung → Verbraucher schuldet nur
   Verschlechterung über normalen Prüfgebrauch hinaus; pauschale Nutzungsentschädigung
-  unionsrechtswidrig (EuGH – „Messner").
+  unionsrechtswidrig (EuGH – "Messner").
 - **Verwirkung**: BGH lässt Verwirkung des Widerrufsrechts zu (BGH, Urt. v. 26.04.2022 –
   XI ZR 285/21, NJW 2022, 2098); Prüfung im Einzelfall (Zeit- + Umstandsmoment).
 - **Berufsrecht**: Mandantendaten (Bestell- und Zahlungsdaten) unterliegen § 43a Abs. 2 BRAO,

@@ -57,7 +57,7 @@ Vor der Orientierung: Falls das Arbeitsverzeichnis sich innerhalb eines Projekts
 ### Kanzleiprofil prüfen
 
 Prüfen ob `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-profil.md` existiert:
-- **Existiert:** Lesen. Einzeilige Bestätigung anzeigen: „Sie sind [Name], [Kanzleityp], [Rechtsgebiete]. Richtig? (Oder sagen Sie 'aktualisieren' um das geteilte Profil zu ändern.)" Bei Bestätigung Kanzlei-Fragen überspringen.
+- **Existiert:** Lesen. Einzeilige Bestätigung anzeigen: "Sie sind [Name], [Kanzleityp], [Rechtsgebiete]. Richtig? (Oder sagen Sie 'aktualisieren' um das geteilte Profil zu ändern.)" Bei Bestätigung Kanzlei-Fragen überspringen.
 - **Existiert nicht:** Kanzlei-Fragen stellen und in geteiltes Profil schreiben.
 
 ### Einstiegstext anzeigen
@@ -129,9 +129,9 @@ Für jeden empfohlenen Skill: SKILL.md-Beschreibung anzeigen. Nutzer wählt — 
 
 ### Deployment-Kontext für Positivliste
 
-> „Wie werden Sie die installierten Skills einsetzen — nur für sich selbst, geteilt in der Kanzlei oder eingebettet in ein Produkt oder eine Dienstleistung, die Sie an Mandanten liefern? (Persönlich / Kanzlei-intern / Produkteinbettung.) Dies beeinflusst die Lizenz-Standardwerte der Positivliste."
+> "Wie werden Sie die installierten Skills einsetzen — nur für sich selbst, geteilt in der Kanzlei oder eingebettet in ein Produkt oder eine Dienstleistung, die Sie an Mandanten liefern? (Persönlich / Kanzlei-intern / Produkteinbettung.) Dies beeinflusst die Lizenz-Standardwerte der Positivliste."
 
-Für **Kanzlei-intern** zusätzlich fragen: „Liegt eine Auftragsverarbeitungsvereinbarung (Art. 28 DSGVO) mit dem Anbieter der genutzten KI-Infrastruktur vor?"
+Für **Kanzlei-intern** zusätzlich fragen: "Liegt eine Auftragsverarbeitungsvereinbarung (Art. 28 DSGVO) mit dem Anbieter der genutzten KI-Infrastruktur vor?"
 
 ### Positivliste schreiben
 

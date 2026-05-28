@@ -19,7 +19,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
 3. Plugin erscheint in der Plugin-Liste; alle 21 Skills sind sofort verfügbar.
 4. Für Updates: neues ZIP herunterladen und Plugin ersetzen.
-5. Hinweis: Das Plugin-ZIP muss direkt `.claude-plugin/plugin.json`, `skills/` und `references/` im ZIP-Root enthalten — nicht das komplette Repository-ZIP aus „Code → Download ZIP" verwenden.
+5. Hinweis: Das Plugin-ZIP muss direkt `.claude-plugin/plugin.json`, `skills/` und `references/` im ZIP-Root enthalten — nicht das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 
 ## Überblick
 

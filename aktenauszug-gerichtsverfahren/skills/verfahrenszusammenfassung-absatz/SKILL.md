@@ -50,10 +50,10 @@ Der Zusammenfassungsabsatz bietet dem Leser nach dem Einleitungssatz eine kompak
 
 - Präsens oder Perfekt — kein Futur für Vergangenes
 - Keine direkten Zitate aus Schriftsätzen (paraphrasieren)
-- Keine Wertung: nicht „zu Recht", „unbegründet", „offensichtlich"
-- Keine Erfolgsprognose: nicht „wird Erfolg haben", „dürfte scheitern"
+- Keine Wertung: nicht "zu Recht", "unbegründet", "offensichtlich"
+- Keine Erfolgsprognose: nicht "wird Erfolg haben", "dürfte scheitern"
 - Rechtsbegriffe korrekt verwenden
-- Parteienbezeichnung konsistent (z. B. stets „die Klägerin" oder Kurzname)
+- Parteienbezeichnung konsistent (z. B. stets "die Klägerin" oder Kurzname)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 

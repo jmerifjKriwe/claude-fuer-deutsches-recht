@@ -16,7 +16,7 @@ description: "Erbrechtsmandat schnell einordnen und Sofortmassnahmen bestimmen. 
 
 - MuKoBGB/Siegmann, §§ 1942-1957 Rn. 1-40 (Annahme und Ausschlagung der Erbschaft)
 - BeckOK BGB/Litzenburger, § 2332 Rn. 1-15 (Pflichtteilsverjaehrung, Triage)
-- Burandt/Rojahn, Erbrecht, Teil “Mandat und Triage”
+- Burandt/Rojahn, Erbrecht, Teil "Mandat und Triage"
 
 ## Zweck
 

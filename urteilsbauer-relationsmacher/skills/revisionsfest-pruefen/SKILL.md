@@ -7,7 +7,7 @@ description: "Prüfung gegen Aufhebung in der Revision: absolute Revisionsgründ
 
 ## Zweck
 
-Bei LG- und OLG-Endurteilen, gegen die Revision möglich ist (Paragraf 542 ZPO), muss das Urteil so geschrieben sein, dass es einer Prüfung durch den BGH standhaelt. „Revisionsfest" ist das Urteil, wenn es weder einen absoluten Revisionsgrund (Paragraf 547 ZPO) noch eine Verletzung von materiellem oder Verfahrensrecht im Sinne der Paragrafen 545, 546 ZPO erkennen laesst, das die Aufhebung tragen koennte.
+Bei LG- und OLG-Endurteilen, gegen die Revision möglich ist (Paragraf 542 ZPO), muss das Urteil so geschrieben sein, dass es einer Prüfung durch den BGH standhaelt. "Revisionsfest" ist das Urteil, wenn es weder einen absoluten Revisionsgrund (Paragraf 547 ZPO) noch eine Verletzung von materiellem oder Verfahrensrecht im Sinne der Paragrafen 545, 546 ZPO erkennen laesst, das die Aufhebung tragen koennte.
 
 Dieser Skill liefert die Selbstprüfung **vor** Verkündung — nicht erst, wenn die Revisionsbegründung schon vorliegt.
 
@@ -51,7 +51,7 @@ Die Beweiswürdigung muss erkennen lassen:
 - **wie** das Gericht zur Überzeugung gelangt ist
 - **warum** Gegenbeweise nicht durchgreifen
 
-BGH NJW-RR 2020, 939 Rn. 14: „Die Beweiswürdigung muss sich mit allen wesentlichen Umständen auseinandersetzen, die der Würdigung des Gerichts entgegenstehen koennten."
+BGH NJW-RR 2020, 939 Rn. 14: "Die Beweiswürdigung muss sich mit allen wesentlichen Umständen auseinandersetzen, die der Würdigung des Gerichts entgegenstehen koennten."
 
 ## 3) Materielles Recht — Paragraf 546 ZPO
 
@@ -80,8 +80,8 @@ Der BGH ist an die festgestellten Tatsachen gebunden, soweit nicht
 ### Vermeiden
 
 - **Lücken im Tatbestand.** Was nicht festgestellt ist, kann der BGH nicht annehmen.
-- **Widerspruch Tatbestand <-> Gründe.** Wenn der Tatbestand „A war anwesend" sagt, kann die Beweiswürdigung nicht „A war nicht anwesend" feststellen.
-- **Pauschale Tatsachen.** „Der Kläger wurde haeufig provoziert" ist keine Tatsachenfeststellung, sondern eine Wertung.
+- **Widerspruch Tatbestand <-> Gründe.** Wenn der Tatbestand "A war anwesend" sagt, kann die Beweiswürdigung nicht "A war nicht anwesend" feststellen.
+- **Pauschale Tatsachen.** "Der Kläger wurde haeufig provoziert" ist keine Tatsachenfeststellung, sondern eine Wertung.
 
 ## 5) Revisionszulassung — Paragraf 543 ZPO
 

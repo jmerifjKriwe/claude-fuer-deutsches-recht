@@ -22,7 +22,7 @@ Erst mit Beendigung des Arbeitsverhaeltnisses entsteht der Anspruch auf Urlaubsa
 
 ## Konsequenz fuer Vergleiche und Aufhebungsvertraege
 
-Die Entscheidung trifft jeden Aufhebungsvertrag und jeden Prozessvergleich. Eine pauschale Erledigungsklausel vom Typ „mit Erfuellung dieses Vergleichs sind saemtliche Anspruechte aus dem Arbeitsverhaeltnis abgegolten" ist hinsichtlich des gesetzlichen Mindesturlaubs unwirksam, soweit der Vergleich noch im bestehenden Arbeitsverhaeltnis geschlossen wird.
+Die Entscheidung trifft jeden Aufhebungsvertrag und jeden Prozessvergleich. Eine pauschale Erledigungsklausel vom Typ "mit Erfuellung dieses Vergleichs sind saemtliche Anspruechte aus dem Arbeitsverhaeltnis abgegolten" ist hinsichtlich des gesetzlichen Mindesturlaubs unwirksam, soweit der Vergleich noch im bestehenden Arbeitsverhaeltnis geschlossen wird.
 
 Die saubere Vergleichsformulierung trennt drei Schichten:
 1. **Gesetzlicher Mindesturlaub** — Paragraf 3 BUrlG, unabdingbar nach Paragraf 13 Absatz 1 BUrlG.
@@ -50,9 +50,9 @@ Die Parteien sind sich darueber einig, dass das Arbeitsverhaeltnis zum [Datum] e
 
 | Formulierung | Problem |
 | --- | --- |
-| „Saemtliche Urlaubsansprueche sind abgegolten." | Pauschal, erfasst Mindesturlaub im laufenden Arbeitsverhaeltnis unwirksam |
-| „Die Klaegerin verzichtet auf restlichen Urlaub." | Verzicht im laufenden Verhaeltnis unwirksam |
-| „Urlaubsabgeltung ist mit der Abfindung abgegolten." | Keine konkrete Bezifferung, keine Trennung |
+| "Saemtliche Urlaubsansprueche sind abgegolten." | Pauschal, erfasst Mindesturlaub im laufenden Arbeitsverhaeltnis unwirksam |
+| "Die Klaegerin verzichtet auf restlichen Urlaub." | Verzicht im laufenden Verhaeltnis unwirksam |
+| "Urlaubsabgeltung ist mit der Abfindung abgegolten." | Keine konkrete Bezifferung, keine Trennung |
 
 ## Nachforderungsmoeglichkeit
 

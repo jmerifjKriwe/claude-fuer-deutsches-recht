@@ -5,7 +5,7 @@ description: "Bias und Diskriminierung in KI-Outputs für Kanzleien prüfen: Anw
 
 # Bias und Diskriminierung Prüfung
 
-KI-Systeme werden auf Basis großer Textmengen trainiert, die Verzerrungen und gesellschaftliche Vorurteile enthalten können. Diese „Bias" können sich in den Outputs der KI-Systeme widerspiegeln und zu Diskriminierungen führen — besonders kritisch bei Personalentscheidungen, aber auch bei der Mandantenberatung zu diskriminierungsrechtlichen Fragen. Kanzleien müssen ihre Mitarbeitenden befähigen, Bias zu erkennen und zu korrigieren.
+KI-Systeme werden auf Basis großer Textmengen trainiert, die Verzerrungen und gesellschaftliche Vorurteile enthalten können. Diese "Bias" können sich in den Outputs der KI-Systeme widerspiegeln und zu Diskriminierungen führen — besonders kritisch bei Personalentscheidungen, aber auch bei der Mandantenberatung zu diskriminierungsrechtlichen Fragen. Kanzleien müssen ihre Mitarbeitenden befähigen, Bias zu erkennen und zu korrigieren.
 
 ## Rechtlicher Hintergrund
 

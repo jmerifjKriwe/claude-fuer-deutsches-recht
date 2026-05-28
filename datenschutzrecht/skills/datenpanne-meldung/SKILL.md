@@ -26,7 +26,7 @@ Das Modell benötigt:
 
 ### Primärnormen
 
-- **Art. 4 Nr. 12 DSGVO**: Definition „Verletzung des Schutzes personenbezogener Daten" – Vernichtung, Verlust, Veränderung, unbefugte Offenlegung oder Zugang zu personenbezogenen Daten.
+- **Art. 4 Nr. 12 DSGVO**: Definition "Verletzung des Schutzes personenbezogener Daten" – Vernichtung, Verlust, Veränderung, unbefugte Offenlegung oder Zugang zu personenbezogenen Daten.
 - **Art. 33 Abs. 1 DSGVO**: Meldepflicht des Verantwortlichen an zuständige Aufsichtsbehörde; Frist: 72 Stunden nach Kenntniserlangung; bei verspäteter Meldung: Begründungspflicht.
 - **Art. 33 Abs. 3 DSGVO**: Inhalt der Meldung: Beschreibung des Vorfalls, Kategorien und Anzahl Betroffener, Datenkategorien und -mengen, Kontaktdaten DPO, wahrscheinliche Folgen, ergriffene/geplante Maßnahmen.
 - **Art. 33 Abs. 4 DSGVO**: Nachlieferung von Informationen in Stufen zulässig, wenn nicht alle Informationen sofort verfügbar.
@@ -42,7 +42,7 @@ Das Modell benötigt:
 
 ### Kommentarliteratur
 
-1. Reif, in: Gola/Heckmann, DSGVO/BDSG, 3. Aufl. 2022, Art. 33 DSGVO Rn. 14–40: Ausführlich zur Schwellenwertprüfung „voraussichtlich kein Risiko für Rechte und Freiheiten" (Art. 33 Abs. 1 a.E. DSGVO); Abgrenzung meldepflichtiger von nicht meldepflichtiger Verletzung anhand der EDSA-Fallgruppen; zur Kenntniserlangung durch Auftragsverarbeiter.
+1. Reif, in: Gola/Heckmann, DSGVO/BDSG, 3. Aufl. 2022, Art. 33 DSGVO Rn. 14–40: Ausführlich zur Schwellenwertprüfung "voraussichtlich kein Risiko für Rechte und Freiheiten" (Art. 33 Abs. 1 a.E. DSGVO); Abgrenzung meldepflichtiger von nicht meldepflichtiger Verletzung anhand der EDSA-Fallgruppen; zur Kenntniserlangung durch Auftragsverarbeiter.
 
 2. Bergt, in: Kühling/Buchner, DSGVO/BDSG, 4. Aufl. 2024, Art. 33 DSGVO Rn. 22–55: Zu gestufter Meldung, Nachreichung von Informationen, Inhalt der Meldung im Einzelnen und zur Frage, wann die 72-Stunden-Frist zu laufen beginnt (Kenntniserlangung des verantwortlichen Organs vs. beliebiger Mitarbeiter).
 
@@ -97,9 +97,9 @@ EDSA, Guidelines 9/2022 on personal data breach notification under GDPR, angenom
 
 *Fristbeginn*: Kenntniserlangung durch U am 10.03.2025 um 09:00 Uhr. Die 72-Stunden-Frist nach Art. 33 Abs. 1 DSGVO läuft bis zum 13.03.2025 um 09:00 Uhr.
 
-*Meldepflicht*: Eine Datenschutzverletzung i.S.d. Art. 4 Nr. 12 DSGVO (unbefugte Offenlegung) liegt vor. Angesichts von 4.000 Betroffenen und personenbezogenen Daten der Bestellhistorie besteht ein Risiko für Rechte und Freiheiten; die Ausnahme „kein Risiko" greift nicht. Meldung an LfDI ist spätestens bis 13.03.2025 erforderlich (Art. 33 Abs. 1 DSGVO; EDSA Guidelines 9/2022, Beispiel 9).
+*Meldepflicht*: Eine Datenschutzverletzung i.S.d. Art. 4 Nr. 12 DSGVO (unbefugte Offenlegung) liegt vor. Angesichts von 4.000 Betroffenen und personenbezogenen Daten der Bestellhistorie besteht ein Risiko für Rechte und Freiheiten; die Ausnahme "kein Risiko" greift nicht. Meldung an LfDI ist spätestens bis 13.03.2025 erforderlich (Art. 33 Abs. 1 DSGVO; EDSA Guidelines 9/2022, Beispiel 9).
 
-*Benachrichtigungspflicht*: Ob ein hohes Risiko i.S.d. Art. 34 Abs. 1 DSGVO vorliegt, hängt davon ab, ob Dritte die Daten gezielt ausgenutzt haben (z.B. Phishing). Bei bloßem Zugriff ohne Nachweis der Datennutzung ist die Schwelle zum „hohen Risiko" nach EDSA Guidelines 9/2022 noch nicht zwingend erreicht; Einzelfallbewertung erforderlich.
+*Benachrichtigungspflicht*: Ob ein hohes Risiko i.S.d. Art. 34 Abs. 1 DSGVO vorliegt, hängt davon ab, ob Dritte die Daten gezielt ausgenutzt haben (z.B. Phishing). Bei bloßem Zugriff ohne Nachweis der Datennutzung ist die Schwelle zum "hohen Risiko" nach EDSA Guidelines 9/2022 noch nicht zwingend erreicht; Einzelfallbewertung erforderlich.
 
 *Dokumentation*: Unabhängig vom Ergebnis ist der Vorfall im internen Register nach Art. 33 Abs. 5 DSGVO zu dokumentieren.
 

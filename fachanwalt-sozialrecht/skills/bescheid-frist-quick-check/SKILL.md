@@ -52,7 +52,7 @@ Schritt 4 — Falls Rechtsbehelfsbelehrung fehlt oder fehlerhaft: Frist ist ein 
 |---|---|---|
 | GRUEN | mehr als 14 | normale Bearbeitung, Akteneinsicht parallel |
 | GELB | 4 bis 14 | Vorrang Widerspruch heute oder morgen, Begründung nachreichen § 84 Abs. 1 SGG |
-| ROT | weniger als 4 | sofort Widerspruchsschreiben „dem Grunde nach" — Begründung folgt |
+| ROT | weniger als 4 | sofort Widerspruchsschreiben "dem Grunde nach" — Begründung folgt |
 | VERSTRICHEN | minus | Wiedereinsetzung § 67 SGG prüfen, ggf. § 44 SGB X |
 | EILBEDARF | egal | parallel `eilantrag-sozialrecht` |
 

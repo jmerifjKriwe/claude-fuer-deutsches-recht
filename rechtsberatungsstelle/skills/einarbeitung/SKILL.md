@@ -1,6 +1,6 @@
 ---
 name: einarbeitung
-description: "Semestereinarbeitung für neue studentische Berater — Einführung in die Beratungsstellenstruktur, RDG-Grundlagen, Toolwalkthrough und Übungsaufgaben vor dem ersten echten Mandat. Liest das vom Supervisor hinterlegte Handbuch und vermittelt es interaktiv. Lädt, wenn ein neuer studentischer Berater „Einarbeitung starten\", „ich bin neu in der Klinik\", „Einführung\" sagt oder zu Semesterbeginn gestartet wird; `--karte` für die einseitige Referenzkarte."
+description: "Semestereinarbeitung für neue studentische Berater — Einführung in die Beratungsstellenstruktur, RDG-Grundlagen, Toolwalkthrough und Übungsaufgaben vor dem ersten echten Mandat. Liest das vom Supervisor hinterlegte Handbuch und vermittelt es interaktiv. Lädt, wenn ein neuer studentischer Berater "Einarbeitung starten\", "ich bin neu in der Klinik\", "Einführung\" sagt oder zu Semesterbeginn gestartet wird; `--karte` für die einseitige Referenzkarte."
 ---
 
 # Einarbeitung: Semestereinarbeitung
@@ -17,7 +17,7 @@ Diese Skill ist der geführte Walkthrough. Sie liest, was der Supervisor beim Ka
 
 Keine aktiven Eingaben — die Skill liest die Klinik-Konfiguration (CLAUDE.md) und das hinterlegte Handbuch.
 
-Falls die Konfigurationsdatei fehlt oder noch Platzhalter enthält: „Die Beratungsstelle ist noch nicht eingerichtet. Bitten Sie [Supervisor] zuerst `/kalt-start-interview` auszuführen."
+Falls die Konfigurationsdatei fehlt oder noch Platzhalter enthält: "Die Beratungsstelle ist noch nicht eingerichtet. Bitten Sie [Supervisor] zuerst `/kalt-start-interview` auszuführen."
 
 ## Rechtlicher Rahmen
 
@@ -61,9 +61,9 @@ Aus der Klinik-Konfiguration und dem hinterlegten Handbuch. Interaktiv abarbeite
 - **Mandanten** — Wer kommt? Welche besonderen Umstände gibt es (Sprache, Vulnerable Gruppen, unbegleitete Minderjährige)?
 - **Zuständiges Gericht / Behörden** — Welche Gerichte und Behörden sind für die Klinik regelmäßig relevant? Lokale Besonderheiten?
 - **Mandatsverwaltung** — Wie werden Mandate geführt, wo liegen Akten, was ist ein gut dokumentierter Fall?
-- **Supervision** — Wie läuft die Prüfung ab (entsprechend dem Supervisionsmodell). Konkret: „Bevor etwas zum Mandanten oder an ein Gericht geht, [kommt es in die Prüfwarteschlange / sprechen Sie mit Frau/Herrn X / etc.]"
+- **Supervision** — Wie läuft die Prüfung ab (entsprechend dem Supervisionsmodell). Konkret: "Bevor etwas zum Mandanten oder an ein Gericht geht, [kommt es in die Prüfwarteschlange / sprechen Sie mit Frau/Herrn X / etc.]"
 
-Kein Monolog — Verständnis überprüfen: „Wenn ein Mandant mit einem Räumungsbegehren und gleichzeitig einem Aufenthaltsrechtsproblem kommt — was tun Sie?" (Antwort: Beide Fragen in der Aktennotiz festhalten; das Aufenthaltsrechtsproblem ggf. an spezialisierte Flüchtlingsberatung weiterleiten oder dem Supervisor flaggen, je nach Tätigkeitsbereich der Klinik.)
+Kein Monolog — Verständnis überprüfen: "Wenn ein Mandant mit einem Räumungsbegehren und gleichzeitig einem Aufenthaltsrechtsproblem kommt — was tun Sie?" (Antwort: Beide Fragen in der Aktennotiz festhalten; das Aufenthaltsrechtsproblem ggf. an spezialisierte Flüchtlingsberatung weiterleiten oder dem Supervisor flaggen, je nach Tätigkeitsbereich der Klinik.)
 
 ### Teil 2: Die Befehle (5 Min)
 
@@ -83,7 +83,7 @@ Für jeden Befehl: was er tut, was er ausdrücklich nicht tut, was der/die Studi
 **Ohne Risiko. Fiktiver Mandant. Echte Tools.**
 
 **Übung 1 — Übungsaufnahme:**
-> Hier ist ein fiktives Szenario: [Rechtsgebiet-angepasste Aufgabe — z. B. für eine Mietrechtsklinik: „Frau Erdem hat letzte Woche eine fristlose Kündigung erhalten. Sie ist mit zwei Monatsmieten im Rückstand, nachdem sie ihren Job verloren hat. Die Heizung ist seit November defekt. Sie hat zwei Kinder."]
+> Hier ist ein fiktives Szenario: [Rechtsgebiet-angepasste Aufgabe — z. B. für eine Mietrechtsklinik: "Frau Erdem hat letzte Woche eine fristlose Kündigung erhalten. Sie ist mit zwei Monatsmieten im Rückstand, nachdem sie ihren Job verloren hat. Die Heizung ist seit November defekt. Sie hat zwei Kinder."]
 >
 > Führen Sie `/mandanten-aufnahme` aus und sprechen Sie mit mir wie mit Frau Erdem. Ich antworte wie Frau Erdem. Schauen Sie am Ende auf die erzeugte Fallzusammenfassung: Welche Rechtsfragen wurden erkannt? Wurde die Mängeleinrede (§ 536 BGB) als mögliche Verteidigung erkannt?
 
@@ -111,7 +111,7 @@ Die entscheidenden Gewohnheiten:
 - **Jede Quelle verifizieren**, bevor sie in ein Schriftstück fließt. `/recherche-start` gibt Hinweise, keine Belege.
 - **Rechtsgebiet-spezifische Details prüfen.** Die Konfiguration kennt Ihr Bundesland; lokale Besonderheiten ändern sich — aktuell gültige Regeln gegenprüfen.
 - **UNSICHER-Flags ernst nehmen.** Ein `[UNSICHER: ...]`-Flag ist ein Rechercheauftrag oder ein Thema für den Supervisor, kein zu löschender Fehler.
-- **Mandatsgeheimnis immer.** Keine Fallinformationen außerhalb der Beratungsstelle weitergeben, auch nicht zum „Erklären" — § 203 StGB.
+- **Mandatsgeheimnis immer.** Keine Fallinformationen außerhalb der Beratungsstelle weitergeben, auch nicht zum "Erklären" — § 203 StGB.
 - **[Supervisionshinweis entsprechend dem Klinik-Modell]** — was wird geprüft, bevor es die Klinik verlässt, und wie.
 
 ### Abschluss
@@ -157,11 +157,11 @@ Die Einarbeitung läuft interaktiv — keine einmalige Ausgabe, sondern ein gef�
 
 Teil 1: Klinik-Konfiguration wird gelesen; Hofer erfährt, dass die Klinik Mietrecht und Verbraucherrecht abdeckt, nicht aber Strafrecht (Verweisung an Rechtsberatungsstelle der Strafrechts-Vertiefung). Supervisorin: Rechtsanwältin Dr. Weber.
 
-Teil 2: Befehlsübersicht. Hofer fragt: „Was macht `/memo`?" → Erklärung: Gutachten-Gerüst nach Gutachtenmethode, kein fertiges Gutachten.
+Teil 2: Befehlsübersicht. Hofer fragt: "Was macht `/memo`?" → Erklärung: Gutachten-Gerüst nach Gutachtenmethode, kein fertiges Gutachten.
 
-Teil 3, Übung 1: Fiktiver Fall „Frau Erdem — Heizung defekt seit November". Hofer führt `/mandanten-aufnahme` durch, identifiziert Mietminderung (§ 536 BGB) und Mangel (§ 535 BGB) als Fragen. Nachbesprechung: Hofer hätte nach dem Datum der Mängelanzeige fragen sollen.
+Teil 3, Übung 1: Fiktiver Fall "Frau Erdem — Heizung defekt seit November". Hofer führt `/mandanten-aufnahme` durch, identifiziert Mietminderung (§ 536 BGB) und Mangel (§ 535 BGB) als Fragen. Nachbesprechung: Hofer hätte nach dem Datum der Mängelanzeige fragen sollen.
 
-Übung 2: `/entwurf widerspruch-kündigung` — Hofer liest den Entwurf kritisch: „Der Entwurf nennt die Frist als 10.05.2026, aber die Kündigung war am 09.04. zugegangen — ich muss die Dreiwochenfrist für Kündigungsschutz prüfen."
+Übung 2: `/entwurf widerspruch-kündigung` — Hofer liest den Entwurf kritisch: "Der Entwurf nennt die Frist als 10.05.2026, aber die Kündigung war am 09.04. zugegangen — ich muss die Dreiwochenfrist für Kündigungsschutz prüfen."
 
 Übung 3: `/recherche-start "§ 536 BGB Mietminderung Heizungsausfall"` → Fahrplan mit ungeprüften Normen. Hofer wählt § 536c BGB und erklärt: Prüfung über juris mit Aktualitätsdatum.
 

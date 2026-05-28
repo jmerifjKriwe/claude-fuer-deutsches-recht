@@ -175,7 +175,7 @@ KLAGEERWIDERUNG
 I. PRIVILEG § 427 ABS. 1 NR. 2 HGB (fehlende Verpackung)
 
 Die Sendung war bei Übernahme unzureichend verpackt.
-Dies ergibt sich aus: [Frachtbrief-Vermerk „Verpackung mangel-
+Dies ergibt sich aus: [Frachtbrief-Vermerk "Verpackung mangel-
 haft" vom Fahrer eingetragen, Anlage B1; Fotos Anlage B2].
 
 Der Frachtführer hat die Unzulänglichkeit bei Übernahme
@@ -265,11 +265,11 @@ Der Beklagte wird verurteilt, EUR [X] nebst Zinsen zu zahlen.
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „Wir haften maximal 8.33 SZR/kg; mehr ist vertraglich ausgeschlossen" | § 449 HGB: Unterschreitung des gesetzlichen Höchstbetrags nicht wirksam; § 435 HGB-Haftung gilt zwingend bei qualifiziertem Verschulden und kann nicht abbedungen werden |
-| „Frachtbrief-Vorbehalt fehlt; Anspruch erloschen" | § 438 HGB begründet nur Beweisvermutung zugunsten Frachtführer, keinen materiellen Anspruchsverlust; Schaden kann trotzdem bewiesen werden |
-| „Schaden entstand durch unzureichende Verpackung" | § 427 HGB Abs. 1 Nr. 2: Frachtführer muss beweisen, dass Verpackungsmangel erkennbar war und er Vorbehalt eingetragen hat; stille Übernahme schließt diesen Einwand aus |
-| „ADSp schränken Haftung auf 5 SZR/kg ein" | BGH I ZR 176/14: AGB-Haftungsbegrenzungen sind nur wirksam soweit § 449 HGB eingehalten; § 435 HGB ist zwingend und nicht durch ADSp abdingbar |
-| „Verjährung ist eingetreten" | § 439 Abs. 3 HGB: Hemmung durch schriftliche Reklamation; OLG München 23 U 1432/19: telefonische Ablehnung stoppt Hemmung nicht |
+| "Wir haften maximal 8.33 SZR/kg; mehr ist vertraglich ausgeschlossen" | § 449 HGB: Unterschreitung des gesetzlichen Höchstbetrags nicht wirksam; § 435 HGB-Haftung gilt zwingend bei qualifiziertem Verschulden und kann nicht abbedungen werden |
+| "Frachtbrief-Vorbehalt fehlt; Anspruch erloschen" | § 438 HGB begründet nur Beweisvermutung zugunsten Frachtführer, keinen materiellen Anspruchsverlust; Schaden kann trotzdem bewiesen werden |
+| "Schaden entstand durch unzureichende Verpackung" | § 427 HGB Abs. 1 Nr. 2: Frachtführer muss beweisen, dass Verpackungsmangel erkennbar war und er Vorbehalt eingetragen hat; stille Übernahme schließt diesen Einwand aus |
+| "ADSp schränken Haftung auf 5 SZR/kg ein" | BGH I ZR 176/14: AGB-Haftungsbegrenzungen sind nur wirksam soweit § 449 HGB eingehalten; § 435 HGB ist zwingend und nicht durch ADSp abdingbar |
+| "Verjährung ist eingetreten" | § 439 Abs. 3 HGB: Hemmung durch schriftliche Reklamation; OLG München 23 U 1432/19: telefonische Ablehnung stoppt Hemmung nicht |
 
 ---
 

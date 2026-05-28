@@ -26,11 +26,11 @@ Skill `bverfg-rechtsprechung-recherchieren` zuerst. Pinpoint pro tragender Aussa
 **Frage:** Verfolgt der Eingriff einen verfassungsrechtlich nicht missbilligten Zweck?
 
 - Bei einfachem Gesetzesvorbehalt: jeder Zweck, der das Grundgesetz nicht verbietet.
-- Bei qualifiziertem Vorbehalt: nur Zwecke, die der qualifizierte Vorbehalt erlaubt (z. B. „Schutz der Jugend" und „Schutz der persönlichen Ehre" bei Art. 5 Abs. 2 GG).
+- Bei qualifiziertem Vorbehalt: nur Zwecke, die der qualifizierte Vorbehalt erlaubt (z. B. "Schutz der Jugend" und "Schutz der persönlichen Ehre" bei Art. 5 Abs. 2 GG).
 - Bei vorbehaltlosem Grundrecht: nur **kollidierendes Verfassungsrecht** (verfassungsimmanente Schranken).
 - **Wichtig:** Nicht der subjektive, sondern der **objektive** Zweck der Norm zählt.
 
-**Häufige Fehler:** Zweck als bloße Wiederholung des Eingriffs („Verbot von X zum Zweck, X zu verbieten") — das ist kein legitimer Zweck.
+**Häufige Fehler:** Zweck als bloße Wiederholung des Eingriffs ("Verbot von X zum Zweck, X zu verbieten") — das ist kein legitimer Zweck.
 
 ### Stufe 2 — Geeignetheit
 

@@ -1,6 +1,6 @@
 ---
 name: regulierungs-luecken-analyse
-description: "Gleicht eine neue KI-Regulierung oder Behördenleitlinie mit der aktuellen Governance-Position ab — identifiziert Lücken, Prioritäten und einen Maßnahmenplan mit Verantwortlichen und Fristen. Lädt, wenn der Nutzer „Lückenanalyse AI Act\", „gilt der AI Act für uns\", „Compliance-Prüfung KI\", „neue KI-Verordnung prüfen\" oder Regelungstext eingibt."
+description: "Gleicht eine neue KI-Regulierung oder Behördenleitlinie mit der aktuellen Governance-Position ab — identifiziert Lücken, Prioritäten und einen Maßnahmenplan mit Verantwortlichen und Fristen. Lädt, wenn der Nutzer "Lückenanalyse AI Act\", "gilt der AI Act für uns\", "Compliance-Prüfung KI\", "neue KI-Verordnung prüfen\" oder Regelungstext eingibt."
 ---
 
 # KI-Regulierungs-Lückenanalyse
@@ -70,7 +70,7 @@ Sektor-Ausnahmen, Anbieter-/Betreiber-Unterscheidung (Art. 3 KI-VO).
 Wann? Inkrafttreten; Durchsetzungsdatum; Phase-in-Fristen.
 Was ist tatsächlich neu? Delta zum Status quo ermitteln, nicht Volltext
 wiedergeben.
-→ Bei eindeutiger Nichtanwendbarkeit: „Nicht anwendbar. Begründung: [Grund].
+→ Bei eindeutiger Nichtanwendbarkeit: "Nicht anwendbar. Begründung: [Grund].
 Kein Handlungsbedarf."
 
 **Schritt 2 — Anforderungen extrahieren**
@@ -126,7 +126,7 @@ Anwendungsdatum: [Datum] | Betrifft uns als: [Anbieter/Betreiber/beides]
 ## Ausgabeformat
 
 Datiertes Markdown-Dokument; Maßnahmenplan-Tabelle wird zum Tracker.
-Auch bei „keine Lücken" dokumentieren — nützlicher Compliance-Nachweis.
+Auch bei "keine Lücken" dokumentieren — nützlicher Compliance-Nachweis.
 
 **Quellen-Tagging:**
 - `[gesichert]` — stabile Normen (z. B. DSGVO Art. 22, VO (EU) 2024/1689).
@@ -135,7 +135,7 @@ Auch bei „keine Lücken" dokumentieren — nützlicher Compliance-Nachweis.
 
 ## Beispiel
 
-**Anfrage:** „Gilt der AI Act für unsere interne Bewerbungs-Screening-KI?"
+**Anfrage:** "Gilt der AI Act für unsere interne Bewerbungs-Screening-KI?"
 
 **Ablauf:** Betreiberrolle; Hochrisiko nach Art. 6 Abs. 2 i. V. m. Anhang III Nr. 4 lit. a KI-VO, wenn das System zweckbestimmt für Auswahl, Filterung oder Bewertung von Bewerbungen eingesetzt wird. Betreiber-Pflichten aus Art. 26 KI-VO und ggf. Grundrechte-Folgenabschätzung nach Art. 27 KI-VO; bei eigener Anbieterrolle zusätzlich Anbieterpflichten, insbesondere Risikomanagement nach Art. 9 KI-VO. Maßnahme: Rollen sauber trennen, Human-in-the-Loop dokumentieren, Betriebsrat einbeziehen und Umsetzungsfrist im Maßnahmenplan führen.
 

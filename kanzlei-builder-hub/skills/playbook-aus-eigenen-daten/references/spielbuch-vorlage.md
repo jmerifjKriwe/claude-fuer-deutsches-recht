@@ -56,7 +56,7 @@ geltungsbereich: deutsches Recht
 
 ### Gericht (Schriftsätze)
 - Aufbau: Rubrum → Antrag → Sachverhalt → Rechtliche Würdigung → Beweisangebote
-- Zitierweise: BGH/BAG-Pinpoint (Rn. X, nicht „Rn. X ff."), Kommentarbelege Bearbeiter/Werk/Aufl./Rn.
+- Zitierweise: BGH/BAG-Pinpoint (Rn. X, nicht "Rn. X ff."), Kommentarbelege Bearbeiter/Werk/Aufl./Rn.
 
 ### Behörden
 - Anrede: {{stil}}

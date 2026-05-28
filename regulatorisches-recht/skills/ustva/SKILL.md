@@ -60,7 +60,7 @@ Das Modell benötigt:
 - Samstag/Sonntag/Feiertag: nächster Werktag (§ 108 Abs. 3 AO).
 
 **Schritt 3 – Dauerfristverlängerung beantragen/sichern (§ 46 UStDV)**
-- Antrag über ELSTER (Formular „Antrag auf Dauerfristverlängerung/Anmeldung der Sondervorauszahlung").
+- Antrag über ELSTER (Formular "Antrag auf Dauerfristverlängerung/Anmeldung der Sondervorauszahlung").
 - Monatszahler: Sondervorauszahlung bis 10. Februar des Jahres entrichten (1/11 der Vorjahres-Zahllast).
 - Quartalszahler: Antrag genügt, keine Sondervorauszahlung erforderlich.
 - Sondervorauszahlung wird in der Dezember-UStVA/Jahreserklärung angerechnet.

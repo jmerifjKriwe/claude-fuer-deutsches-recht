@@ -65,19 +65,19 @@ Automation ist ein starkes Warnsignal, aber kein alleiniger Test. Entscheidend i
 
 ## Typische Fehlannahmen
 
-**“Es lernt nicht im Betrieb, also keine KI.”**
+**"Es lernt nicht im Betrieb, also keine KI."**
 Falsch. Adaptivität nach Deployment ist optional; ein eingefrorenes trainiertes Modell kann KI-System sein.
 
-**“Der Mensch entscheidet am Ende, also keine KI.”**
+**"Der Mensch entscheidet am Ende, also keine KI."**
 Falsch. Menschliche Freigabe beseitigt die KI-Eigenschaft nicht, wenn die inhaltliche Ausgabe inferenzbasiert generiert wird.
 
-**“Es ist nur eine API.”**
+**"Es ist nur eine API."**
 Die API kann KI-System oder Bestandteil eines KI-Systems sein. Für den Betreiber zählt der konkrete Einsatz.
 
-**“Es ist nur ein Chatbot.”**
+**"Es ist nur ein Chatbot."**
 Ein skriptbasierter FAQ-Bot kann konventionell sein. Ein LLM-basierter Chatbot ist regelmäßig KI-System; Hochrisiko hängt aber erst vom Zweck ab.
 
-**“Es ist nur Statistik.”**
+**"Es ist nur Statistik."**
 Deskriptive Statistik bleibt häufig draußen. Prognose, Klassifikation, Ranking oder individuelle Bewertung sprechen deutlich für KI.
 
 ## Ergebnislogik

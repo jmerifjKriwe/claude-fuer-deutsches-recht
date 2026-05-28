@@ -1,6 +1,6 @@
 ---
 name: ki-inventar
-description: "KI-System-Inventar nach EU-KI-VO (VO 2024/1689) – erfasst je KI-System Rolle (Anbieter, Betreiber, Einführer, Händler, Bevollmächtigter, Produkthersteller) und Risikoklasse (verboten, hochrisiko, begrenzt, minimal, Allzweck-KI, systemisch). Rolle und Klasse werden je System bewertet, nicht je Unternehmen. Verwenden, wenn der Nutzer sagt „KI-Inventar\", „KI-System hinzufügen\", „welche Systeme haben wir\", „KI-System klassifizieren\", „KI-VO-Register\" oder „KI-System-Verzeichnis\"."
+description: "KI-System-Inventar nach EU-KI-VO (VO 2024/1689) – erfasst je KI-System Rolle (Anbieter, Betreiber, Einführer, Händler, Bevollmächtigter, Produkthersteller) und Risikoklasse (verboten, hochrisiko, begrenzt, minimal, Allzweck-KI, systemisch). Rolle und Klasse werden je System bewertet, nicht je Unternehmen. Verwenden, wenn der Nutzer sagt "KI-Inventar\", "KI-System hinzufügen\", "welche Systeme haben wir\", "KI-System klassifizieren\", "KI-VO-Register\" oder "KI-System-Verzeichnis\"."
 ---
 
 # /ki-inventar
@@ -40,7 +40,7 @@ die eigentliche Obligationenanalyse erfolgt im Gespräch, nicht aus einer fest c
    - `show <id>` → vollständigen Datensatz anzeigen
 
 4. **Nach `list` Dashboard anbieten:**
-   „Dashboard gewünscht? Filterbar nach Status / Klasse / EU-Nexus / Eigentümer. Auf Wunsch."
+   "Dashboard gewünscht? Filterbar nach Status / Klasse / EU-Nexus / Eigentümer. Auf Wunsch."
 
 5. **Jede Aktion mit Anschlusshinweis abschließen:**
    > Erfasst. Wenn Sie die Pflichten für dieses System durcharbeiten möchten, fragen Sie
@@ -57,7 +57,7 @@ Kompakte Tabelle:
 | sys-001 | Lebenslauf-Screening | HR / Schmidt | in_produktion | ja | Betreiber | hochrisiko | 2026-08-01 |
 | sys-002 | E-Mail-Drafting-Assistent | IT / Meier | in_produktion | nein | Betreiber | begrenzt | 2026-12-01 |
 
-Unter der Tabelle: Zählung nach Klasse und: „N Systeme zur Prüfung innerhalb von 30 Tagen."
+Unter der Tabelle: Zählung nach Klasse und: "N Systeme zur Prüfung innerhalb von 30 Tagen."
 Außerdem: Bußgeldrahmen kurz einblenden: Art. 99 Abs. 3 KI-VO – bis 35 Mio. EUR oder 7 %
 des weltweiten Jahresumsatzes bei schwerwiegenden Verstößen; den Pinpoint im Quellenlog auf EUR-Lex vermerken.
 
@@ -65,7 +65,7 @@ des weltweiten Jahresumsatzes bei schwerwiegenden Verstößen; den Pinpoint im Q
 
 Felder einzeln abfragen (oder Einfügen akzeptieren). Pflichtfelder: `name`, `eigentümer`,
 `beschreibung`, `status`, `eu_nexus`. Rest kann zurückgestellt werden – explizit darauf
-hinweisen: „Sie können die Klassifizierung mit `/ki-governance:ki-inventar classify <id>`
+hinweisen: "Sie können die Klassifizierung mit `/ki-governance:ki-inventar classify <id>`
 nachholen."
 
 1. **Name.** Kurzbezeichnung des Systems.
@@ -179,11 +179,11 @@ Anhang-Eintrags; Quelle und Prüfdatum im Durchlauf-Protokoll festhalten.
 ### Schritt 3: Empfehlungen
 
 Drei nächste Schritte anbieten:
-1. „Möchten Sie, dass ich die Pflichten für dieses System durcharbeite? Ich mache das im
+1. "Möchten Sie, dass ich die Pflichten für dieses System durcharbeite? Ich mache das im
    Gespräch – keine Tabelle."
-2. „Möchten Sie `/ki-governance:ki-folgenabschaetzung` starten, um eine vollständige
+2. "Möchten Sie `/ki-governance:ki-folgenabschaetzung` starten, um eine vollständige
    KI-Folgenabschätzung zu erstellen?"
-3. „Möchten Sie ein nächstes Prüfdatum setzen? Ich füge es dem Inventar hinzu."
+3. "Möchten Sie ein nächstes Prüfdatum setzen? Ich füge es dem Inventar hinzu."
 
 ## Datensatzformat
 
@@ -239,12 +239,12 @@ Verbindliche Zitierweise gemäß `../references/zitierweise.md`.
 > Sie lizenzieren das System von VendorX und setzen es intern für HR ein. Sie bestimmen den
 > Verwendungszweck und tragen die operative Verantwortung → **Betreiber** nach Art. 3 Nr. 4
 > KI-VO.
-> Rollenbasis: „Lizenziertes System von VendorX, interner Betrieb durch HR-Team."
+> Rollenbasis: "Lizenziertes System von VendorX, interner Betrieb durch HR-Team."
 >
 > **Schritt 2: Risikoklasse**
 > Kein Treffer in Art. 5 (kein Verbot erkennbar).
 > Anhang III Nr. 4 lit. a: KI-Systeme für Einstellung, Auswahl, Beförderung → **hochrisiko**
-> Klassenbasis: „Anhang III Nr. 4 lit. a KI-VO – Einstellungsauswahl."
+> Klassenbasis: "Anhang III Nr. 4 lit. a KI-VO – Einstellungsauswahl."
 >
 > **Empfehlungen:**
 > 1. Pflichten als Betreiber eines hochriskanten Systems durcharbeiten? (Art. 26, 14 KI-VO)

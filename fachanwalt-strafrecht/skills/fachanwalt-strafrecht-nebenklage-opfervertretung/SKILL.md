@@ -221,11 +221,11 @@ beantrage ich ausdrücklich gerichtliche Entscheidung gemäß
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „Nebenklage ist unnötig; StA verfolgt schon" | Nebenklage gibt eigene Verfahrensrechte: Fragerecht, Beweisantragsrecht, Schlussplädoyer, Rechtsmittel – StA hat andere Interessenlage |
-| „Anschluss ist zu spät" | § 396 Abs. 1 StPO lässt Anschluss bis Beginn der Schlussvorträge zu; keine Ausschlussfrist davor |
-| „Beiordnung nach § 397a StPO abgelehnt weil kein Katalogdelikt" | Beschluss anfechten; hilfsweise Antrag nach § 397a Abs. 2 StPO mit PKH-Bewilligung |
-| „Akteneinsicht gefährdet Persönlichkeitsrechte des Beschuldigten" | § 406e Abs. 2 StPO: Versagung nur bei überwiegenden schutzwürdigen Interessen; Katalogtatbegehung begründet regelmäßig Vorrang der Verletzten |
-| „Nebenklage kann das Strafmaß nicht beeinflussen" | Unrichtig; § 400 Abs. 1 StPO erlaubt Anfechtung, wenn ein schwerer wiegender Schuldspruch erstrebt wird; Strafzumessungsargumente im Plädoyer möglich |
+| "Nebenklage ist unnötig; StA verfolgt schon" | Nebenklage gibt eigene Verfahrensrechte: Fragerecht, Beweisantragsrecht, Schlussplädoyer, Rechtsmittel – StA hat andere Interessenlage |
+| "Anschluss ist zu spät" | § 396 Abs. 1 StPO lässt Anschluss bis Beginn der Schlussvorträge zu; keine Ausschlussfrist davor |
+| "Beiordnung nach § 397a StPO abgelehnt weil kein Katalogdelikt" | Beschluss anfechten; hilfsweise Antrag nach § 397a Abs. 2 StPO mit PKH-Bewilligung |
+| "Akteneinsicht gefährdet Persönlichkeitsrechte des Beschuldigten" | § 406e Abs. 2 StPO: Versagung nur bei überwiegenden schutzwürdigen Interessen; Katalogtatbegehung begründet regelmäßig Vorrang der Verletzten |
+| "Nebenklage kann das Strafmaß nicht beeinflussen" | Unrichtig; § 400 Abs. 1 StPO erlaubt Anfechtung, wenn ein schwerer wiegender Schuldspruch erstrebt wird; Strafzumessungsargumente im Plädoyer möglich |
 
 ---
 

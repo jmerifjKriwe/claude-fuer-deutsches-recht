@@ -5,7 +5,7 @@ description: "Dreidimensionale Marke (Formmarke) für Flacons und Schuhformen an
 
 # Dreidimensionale Marken (3D-Formmarken)
 
-Die Form eines Produkts als Marke zu schützen ist eine der anspruchsvollsten Disziplinen. Für klôtzzkètté SA steht die Absicherung des charakteristischen Parfumflakons „K°° pour Femme" (zylindrisch, Goldfaden-Spiralprägung auf Mattglas, asymmetrischer Verschluss) sowie der charakteristischen Schutzform der Damen-Slingback-Kollektion auf dem Prüfstand.
+Die Form eines Produkts als Marke zu schützen ist eine der anspruchsvollsten Disziplinen. Für klôtzzkètté SA steht die Absicherung des charakteristischen Parfumflakons "K°° pour Femme" (zylindrisch, Goldfaden-Spiralprägung auf Mattglas, asymmetrischer Verschluss) sowie der charakteristischen Schutzform der Damen-Slingback-Kollektion auf dem Prüfstand.
 
 Die Hürden sind hoch: Das Zeichen darf weder ausschließlich durch die Natur der Ware bedingt sein, noch ausschließlich eine technische Funktion erfüllen, noch dem Produkt einen wesentlichen Wert verleihen.
 
@@ -53,14 +53,14 @@ Die Hürden sind hoch: Das Zeichen darf weder ausschließlich durch die Natur de
 
 ## Falltypische Konstellationen
 
-### Konstellation 1: Parfumflakon „K°° pour Femme" als 3D-Marke
+### Konstellation 1: Parfumflakon "K°° pour Femme" als 3D-Marke
 Zylindrischer Flakon, asymmetrischer Goldverschluss, spiralförmige Mikrogravur. § 3 II-Check: Nr. 1 (Nein — Grundform überschritten), Nr. 2 (Nein — Goldgravur rein ästhetisch), Nr. 3 (Teilrisiko — aber Flacon ist nicht der Hauptwert eines EUR 280 Parfums). Unterscheidungskraft: Spiralprägung ist branchenunüblich → Prognose: eintragungsfähig, ggf. nach Verkehrsdurchsetzungsnachweis.
 
 ### Konstellation 2: Slingback-Schuh-Form
 klôtzzkètté will die charakteristische Schuhsilhouette (geschwungener Blockabsatz, spitzer Zehenbereich, besondere Riemchenführung) schützen. Problem: Nach EuGH Louboutin ist die Grenze zwischen Form- und Positionsmarke fließend. Empfehlung: Positionsmarke für das charakteristische Riemchen-Design (vgl. Skill `positionsmarke`) + separate 3D-Marke für den Absatz als Ganzes.
 
 ### Konstellation 3: Brezelmann-Kopierflakon
-Brezelmann Discount KG vertreibt Imitatparfum „KLOTZ NACHT" in einem Flakon, der dem K°°-Flakon zum Verwechseln ähnlich sieht. Verletzungsklage nach § 14 II MarkenG, § 4 Nr. 3 UWG; Eilantrag auf Unterlassung.
+Brezelmann Discount KG vertreibt Imitatparfum "KLOTZ NACHT" in einem Flakon, der dem K°°-Flakon zum Verwechseln ähnlich sieht. Verletzungsklage nach § 14 II MarkenG, § 4 Nr. 3 UWG; Eilantrag auf Unterlassung.
 
 ## Belege & Kommentare
 

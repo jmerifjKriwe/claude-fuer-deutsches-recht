@@ -23,8 +23,8 @@ description: "Sachgrundprüfung Befristung nach § 14 Abs. 1 TzBfG: acht Sachgr�
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 14.04.2010 – 7 AZR 121/09, NZA 2010, 1152 — Beim Sachgrund Vertretung (§ 14 Abs. 1 Nr. 3 TzBfG) muss der Arbeitgeber im Prozess konkret darlegen, welcher konkrete Arbeitnehmer vertreten wird und warum dessen Rückkehr erwartet werden konnte; pauschale Behauptungen einer „Urlaubsvertretung" reichen nicht.
-- BAG, Urt. v. 18.07.2012 – 7 AZR 443/09, NZA 2013, 161 — Dauerhafter Beschäftigungsbedarf auf einer Stelle widerlegt den Sachgrund „vorübergehender Bedarf" (§ 14 Abs. 1 Nr. 1 TzBfG); der Arbeitgeber muss darlegen, dass bei Vertragsschluss eine konkrete Prognose eines nur vorübergehenden Bedarfs bestand.
+- BAG, Urt. v. 14.04.2010 – 7 AZR 121/09, NZA 2010, 1152 — Beim Sachgrund Vertretung (§ 14 Abs. 1 Nr. 3 TzBfG) muss der Arbeitgeber im Prozess konkret darlegen, welcher konkrete Arbeitnehmer vertreten wird und warum dessen Rückkehr erwartet werden konnte; pauschale Behauptungen einer "Urlaubsvertretung" reichen nicht.
+- BAG, Urt. v. 18.07.2012 – 7 AZR 443/09, NZA 2013, 161 — Dauerhafter Beschäftigungsbedarf auf einer Stelle widerlegt den Sachgrund "vorübergehender Bedarf" (§ 14 Abs. 1 Nr. 1 TzBfG); der Arbeitgeber muss darlegen, dass bei Vertragsschluss eine konkrete Prognose eines nur vorübergehenden Bedarfs bestand.
 - BAG, Urt. v. 02.06.2010 – 7 AZR 136/09, NZA 2010, 1248 — Der Sachgrund Erprobung (§ 14 Abs. 1 Nr. 5 TzBfG) trägt nur eine einmalige Erstbefristung von in der Regel maximal 6 Monaten; bei mehrjähriger vorheriger Tätigkeit entfällt der Erprobungszweck.
 - BAG, Urt. v. 04.12.2013 – 7 AZR 468/12, NZA 2014, 564 — Kettenbefristungen können auch bei Vorliegen von Sachgründen missbräuchlich sein; das Gericht prüft bei einer Vielzahl aufeinanderfolgender Befristungen eine institutionelle Rechtsmissbräuchlichkeit.
 

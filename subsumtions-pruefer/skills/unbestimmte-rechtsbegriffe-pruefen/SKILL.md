@@ -19,13 +19,13 @@ Unbestimmte Rechtsbegriffe sind Tatbestandsmerkmale, deren Inhalt nicht aus dem 
 
 ## Aktuelle Rechtsprechung zur Auslegung unbestimmter Rechtsbegriffe
 
-- BGH, Urt. v. 26.01.2021 - II ZR 391/18, NJW 2021, 1089 — „Wichtiger Grund" für außerordentliche Kündigung (§ 626 BGB) setzt voraus, dass dem Kündigenden unter Berücksichtigung aller Umstände und unter Abwägung der beiderseitigen Interessen das Festhalten am Vertrag nicht mehr zumutbar ist; allgemeine Formel ohne Einzelfallabwägung ist unzureichend.
+- BGH, Urt. v. 26.01.2021 - II ZR 391/18, NJW 2021, 1089 — "Wichtiger Grund" für außerordentliche Kündigung (§ 626 BGB) setzt voraus, dass dem Kündigenden unter Berücksichtigung aller Umstände und unter Abwägung der beiderseitigen Interessen das Festhalten am Vertrag nicht mehr zumutbar ist; allgemeine Formel ohne Einzelfallabwägung ist unzureichend.
 - BVerwG, Urt. v. 28.03.2019 - 4 C 12.17, NVwZ 2019, 1073 — Bei Beurteilungsspielraum einer Behörde beschränkt sich die gerichtliche Kontrolle auf Rechtsfehler (Verfahrensmangel, Überschreitung der Spielraumgrenzen, sachfremde Erwägungen); die eigene Sachbewertung des Gerichts tritt zurück.
-- BGH, Urt. v. 07.05.2020 - III ZR 307/17, NJW 2020, 2471 — „Angemessen" in § 307 BGB (AGB-Recht) ist durch Vergleich mit dem dispositiven Recht zu bestimmen; eine Klausel, die vom gesetzlichen Leitbild einseitig abweicht, ist regelmäßig unangemessen, sofern kein Ausgleich an anderer Stelle besteht.
+- BGH, Urt. v. 07.05.2020 - III ZR 307/17, NJW 2020, 2471 — "Angemessen" in § 307 BGB (AGB-Recht) ist durch Vergleich mit dem dispositiven Recht zu bestimmen; eine Klausel, die vom gesetzlichen Leitbild einseitig abweicht, ist regelmäßig unangemessen, sofern kein Ausgleich an anderer Stelle besteht.
 
 ## Wichtige unbestimmte Rechtsbegriffe
 
-### „Wesentlich" / „erheblich"
+### "Wesentlich" / "erheblich"
 
 **Kontext:** § 323 Abs. 5 S. 2 BGB (nicht unerhebliche Pflichtverletzung beim Rücktritt); § 536 BGB (erheblicher Mangel); § 17 Abs. 2 Nr. 1 KSchG.
 
@@ -33,7 +33,7 @@ Unbestimmte Rechtsbegriffe sind Tatbestandsmerkmale, deren Inhalt nicht aus dem 
 
 **Indizien:** Umfang der Abweichung, wirtschaftliche Bedeutung, Behebbarkeit.
 
-### „Zumutbar"
+### "Zumutbar"
 
 **Kontext:** § 275 Abs. 3 BGB (persönliche Leistungshindernis); § 626 BGB (wichtiger Grund); § 3 AGG; § 5 Abs. 2 ArbSchG.
 
@@ -48,13 +48,13 @@ Welche Interessen stehen auf dem Spiel?
    → Verhältnismäßigkeit im engeren Sinne
 ```
 
-### „Geeignet"
+### "Geeignet"
 
 **Kontext:** Verhältnismäßigkeitsprüfung (erstes Mittel); § 1 KSchG.
 
 **Auslegungsmaßstab:** Kausalität im weiteren Sinne — Maßnahme muss den Zweck zumindest fördern können.
 
-### „Angemessen"
+### "Angemessen"
 
 **Kontext:** Verhältnismäßigkeit i.e.S.; § 307 BGB (AGB); § 20 Abs. 1 GWB; Art. 6 Abs. 1 lit. f DSGVO.
 
@@ -62,13 +62,13 @@ Welche Interessen stehen auf dem Spiel?
 
 **Indizien bei AGB:** Abweichung vom dispositiven Recht; keine Kompensation; fehlende Transparenz.
 
-### „Erforderlich"
+### "Erforderlich"
 
 **Kontext:** Verhältnismäßigkeit (Stufe 2); Art. 5 Abs. 1 lit. c DSGVO (Datensparsamkeit).
 
 **Auslegungsmaßstab:** Gibt es ein gleich geeignetes Mittel mit geringerem Eingriff? Vergleich mit realen Alternativen.
 
-### „Wichtiger Grund"
+### "Wichtiger Grund"
 
 **Kontext:** § 626 BGB (außerordentliche Kündigung); § 543 BGB (Miete); § 314 BGB (Dauerschuldverhältnisse).
 

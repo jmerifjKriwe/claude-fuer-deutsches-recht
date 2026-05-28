@@ -35,7 +35,7 @@ C. Verfassungs-rechtliche Rechtfertigung
 
 - **Deutsche Grundrechte** (Art. 8, Art. 9, Art. 11, Art. 12, Art. 16): nur deutsche Staatsangehörige
 - **Jedermanns-Rechte** (Art. 1-7, Art. 10, Art. 13, Art. 14): alle natürlichen Personen
-- **Juristische Personen** Art. 19 III GG, soweit „wesensmäßig"
+- **Juristische Personen** Art. 19 III GG, soweit "wesensmäßig"
 
 ### Sachlicher Schutzbereich
 
@@ -83,13 +83,13 @@ C. Verfassungs-rechtliche Rechtfertigung
 
 #### Einfacher Gesetzes-Vorbehalt
 
-- „durch Gesetz", „durch und aufgrund eines Gesetzes"
+- "durch Gesetz", "durch und aufgrund eines Gesetzes"
 - Z.B. Art. 8 II GG (Versammlung außer im Freien), Art. 11 II GG (Freizügigkeit)
 
 #### Qualifizierter Gesetzes-Vorbehalt
 
 - Mit Zusatz-Bedingung
-- Z.B. Art. 11 II GG („zur Bekämpfung der Seuchen, ..."), Art. 12 I 2 GG („durch Gesetz oder aufgrund eines Gesetzes")
+- Z.B. Art. 11 II GG ("zur Bekämpfung der Seuchen, ..."), Art. 12 I 2 GG ("durch Gesetz oder aufgrund eines Gesetzes")
 
 ### Eingriffs-Befugnis
 
@@ -124,7 +124,7 @@ Welches Gesetz erlaubt den Eingriff?
 
 - Auffangs-Grundrecht
 - Sehr weiter Schutzbereich
-- Schranke: „Rechte anderer", „verfassungsmäßige Ordnung", „Sittengesetz"
+- Schranke: "Rechte anderer", "verfassungsmäßige Ordnung", "Sittengesetz"
 
 ### Art. 2 I iVm Art. 1 I GG — Allgemeines Persönlichkeitsrecht (APR)
 
@@ -154,7 +154,7 @@ Welches Gesetz erlaubt den Eingriff?
 
 - Eheschutz Art. 6 I GG
 - Elternrecht Art. 6 II GG
-- Sehr weiter Schutzbereich für „Familie"
+- Sehr weiter Schutzbereich für "Familie"
 
 ### Art. 8 GG — Versammlungs-Freiheit
 

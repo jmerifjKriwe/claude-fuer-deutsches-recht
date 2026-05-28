@@ -95,7 +95,7 @@ NZA 2011, 345).
 ## Modus 1: Neue Untersuchung eröffnen
 
 Ausgelöst durch `/arbeitsrecht:untersuchung-eroeffnen` oder
-„Untersuchung eröffnen" / „Untersuchung einleiten wegen".
+"Untersuchung eröffnen" / "Untersuchung einleiten wegen".
 
 ### Schritt 1 — Sachverhaltserfassung
 
@@ -182,7 +182,7 @@ dokumente: []
 ### Schritt 3 — Quellencheckliste
 
 Erstelle die passende Checkliste je nach Untersuchungsart und lege sie dem
-Anwalt vor: „Passt diese Checkliste zu Ihrer Sache? Bitte melden Sie, welche
+Anwalt vor: "Passt diese Checkliste zu Ihrer Sache? Bitte melden Sie, welche
 Punkte nicht anwendbar sind (werden als N/A markiert) und ob weitere
 Quellen hinzukommen."
 
@@ -416,9 +416,9 @@ relevanter Fund.
    relevanten Tatzeitraum
 3. Enthält Schlüsselwörter zum Vorwurfstyp (aus der Sachverhaltserfassung
    und aus früheren Protokolleinträgen — Stichwortliste laufend ergänzen)
-4. Enthält explizite oder implizite Selbstbelastungen (z. B. „das hätte ich
-   nicht tun sollen", „ich weiß, wie das aussieht", „schreib das nicht auf",
-   „lösch das")
+4. Enthält explizite oder implizite Selbstbelastungen (z. B. "das hätte ich
+   nicht tun sollen", "ich weiß, wie das aussieht", "schreib das nicht auf",
+   "lösch das")
 5. Enthält Aussagen, die einem bereits protokollierten Zeugenbericht
    widersprechen — Widerspruch und den betroffenen Protokolleintrag benennen
 6. Enthält sprach- oder inhaltlich sensibles Material: diskriminierende
@@ -487,24 +487,24 @@ Ausgelöst durch `/arbeitsrecht:untersuchung-abfrage`.
 
 Gesamtes Protokoll lesen vor der Antwort. Antworttypen:
 
-**Sachverhaltsabfrage** („Was hat [Person] zu [Thema] gesagt?"):
+**Sachverhaltsabfrage** ("Was hat [Person] zu [Thema] gesagt?"):
 Aus den Protokolleinträgen antworten, Eintrags-IDs zitieren. Falls das
-Protokoll nichts enthält: „Zu [Thema] liegen in diesem Untersuchungsprotokoll
+Protokoll nichts enthält: "Zu [Thema] liegen in diesem Untersuchungsprotokoll
 ([N] Einträge gesichtet) keine Erkenntnisse vor. Dies sollte ggf. als
 Beweislücke erfasst werden."
 
-**Widerspruchsabfrage** („Wo widersprechen sich die Schilderungen?"):
+**Widerspruchsabfrage** ("Wo widersprechen sich die Schilderungen?"):
 Alle widerspricht_eintrag-Verknüpfungen zeigen. Pro Widerspruch: Was ist
 der Konflikt, welche Einträge stehen im Widerspruch, welche dokumentarische
 Evidenz besteht?
 
-**Deckungsabfrage** („Was fehlt noch?" / „Wo haben wir Lücken?"):
+**Deckungsabfrage** ("Was fehlt noch?" / "Wo haben wir Lücken?"):
 quellen-checkliste.yaml und beweislücken im log.yaml auslesen. Melden:
 - Noch offene Checklistenpunkte
 - Protokollierte Beweislücken
 - Schilderungen, die auf bisher nicht erhobene Quellen hinweisen
 
-**Stärkeabfrage** („Was ist die stärkste Evidenz zu jeder Frage?"):
+**Stärkeabfrage** ("Was ist die stärkste Evidenz zu jeder Frage?"):
 Für jede Untersuchungsfrage: höchstbewertete Protokolleinträge, dokumentarische
 Bestätigungen und ungelöste Widersprüche — frageweise strukturiert.
 
@@ -651,7 +651,7 @@ Format: Datum | Zusammenfassung | Quelle (Eintrags-ID)]
 Memo und Protokoll lesen. Seit dem letzten Entwurf hinzugekommene Einträge
 identifizieren.
 
-Änderungen melden, dann fragen: „Soll das gesamte Memo überarbeitet werden
+Änderungen melden, dann fragen: "Soll das gesamte Memo überarbeitet werden
 oder nur die betroffenen Abschnitte?"
 
 Änderungen einarbeiten. Geänderte Abschnitte mit `[AKTUALISIERT: Datum]`
@@ -672,7 +672,7 @@ soll sie unterstützen?
 - Empfohlene Maßnahme
 - Nicht enthalten: Glaubwürdigkeitsmethodik, Rechtsrisikoanalyse,
   anwaltliche Eindrücke
-- Kopfzeile: „Vertraulich — Nur für HR — Keine Weitergabe"
+- Kopfzeile: "Vertraulich — Nur für HR — Keine Weitergabe"
 - Keine Eintrags-IDs oder Dokumentenverweise
 
 **Geschäftsführung / Aufsichtsrat** (für Governance-Entscheidung):
@@ -680,7 +680,7 @@ soll sie unterstützen?
 - Wesentliche Ergebnisse
 - Unternehmensrelevanz / Expositionseinschätzung (nur grob — keine Detailrechtsanalyse)
 - Ergriffene und geplante Maßnahmen
-- Kopfzeile: „Vertraulich — Interne Untersuchung"
+- Kopfzeile: "Vertraulich — Interne Untersuchung"
 
 **Externe Bevollmächtigte** (für Prozessvorbereitung oder vertiefende Prüfung):
 - Vollständiger Kontext einschließlich Rechtsrisikoanalyse

@@ -50,15 +50,15 @@ Kenntnis der typischen Arbeitgeberstrategien hilft dem Arbeitnehmer und seinem A
 
 ## Strategie 2: Pauschalbestreitung der Klagebegründung
 
-**Taktik:** Arbeitgeberanwalt bestreitet pauschal alle Behauptungen des Arbeitnehmers — „Wird bestritten."
+**Taktik:** Arbeitgeberanwalt bestreitet pauschal alle Behauptungen des Arbeitnehmers — "Wird bestritten."
 
 **Was das bedeutet:** Pauschalbestreiten ist unbeachtlich, wenn der Arbeitnehmer zuvor substantiiert vorgetragen hat (§ 138 Abs. 2 ZPO). Es erhöht aber den Druck auf den Arbeitnehmer, jeden Vortrag mit Beweisen zu unterlegen.
 
-**Vorbereitung:** Konkrete Tatsachenbehauptungen mit Beweisangeboten verbinden. Nicht nur „es gab keine Sozialauswahl" — sondern konkret: Kollegin K (Sozialdaten: Alter X, Betriebszugehörigkeit Y, keine Unterhaltspflichten) hätte statt mir entlassen werden müssen.
+**Vorbereitung:** Konkrete Tatsachenbehauptungen mit Beweisangeboten verbinden. Nicht nur "es gab keine Sozialauswahl" — sondern konkret: Kollegin K (Sozialdaten: Alter X, Betriebszugehörigkeit Y, keine Unterhaltspflichten) hätte statt mir entlassen werden müssen.
 
 ## Strategie 3: Die Stricken-Anwalt-Hinhaltetaktik
 
-**Was ist ein „Stricken-Anwalt"?**
+**Was ist ein "Stricken-Anwalt"?**
 
 Ein umgangssprachlicher Begriff für eine bestimmte Prozessstrategie: Der Arbeitgeberanwalt zieht das Verfahren bewusst in die Länge — er stellt Anträge auf Schriftsatzfristen, beantragt Vertagungen, reicht verspätet Unterlagen ein. Ziel: Der Arbeitnehmer wird müde, verliert die finanzielle Ausdauer oder findet zwischenzeitlich einen neuen Job.
 
@@ -71,7 +71,7 @@ Ein umgangssprachlicher Begriff für eine bestimmte Prozessstrategie: Der Arbeit
 
 ## Strategie 4: Vergleichsdruck aufbauen
 
-**Taktik:** Im Gütetermin oder Kammertermin bietet der Arbeitgeberanwalt eine Abfindung an — aber unter Zeitdruck. „Nehmen Sie jetzt oder nie."
+**Taktik:** Im Gütetermin oder Kammertermin bietet der Arbeitgeberanwalt eine Abfindung an — aber unter Zeitdruck. "Nehmen Sie jetzt oder nie."
 
 **Gegenmaßnahme:** Keine Entscheidung unter Druck. Um Bedenkzeit bitten. Vergleich schriftlich festhalten. Alle Punkte prüfen (Beendigungsdatum, Freistellung, Zeugnisnote, Urlaubsabgeltung).
 

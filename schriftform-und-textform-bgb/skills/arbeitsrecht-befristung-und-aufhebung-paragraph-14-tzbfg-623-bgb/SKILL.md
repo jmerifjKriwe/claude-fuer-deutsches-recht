@@ -34,7 +34,7 @@ Das BAG (Bundesarbeitsgericht) verlangt für die Wirksamkeit einer Befristungsab
 
 ### Keine qES-Ausnahme im TzBfG
 
-Das TzBfG enthält keine Öffnungsklausel für elektronische Form. Der Verweis des § 14 Abs. 4 TzBfG auf „Schriftform" ist als Verweis auf § 126 BGB zu verstehen — und damit grundsätzlich auch für § 126 Abs. 3 BGB offen. Aber: Das BAG hat die qES-Frage bei Befristungsabreden noch nicht höchstrichterlich entschieden. Praxis: Papier bevorzugen.
+Das TzBfG enthält keine Öffnungsklausel für elektronische Form. Der Verweis des § 14 Abs. 4 TzBfG auf "Schriftform" ist als Verweis auf § 126 BGB zu verstehen — und damit grundsätzlich auch für § 126 Abs. 3 BGB offen. Aber: Das BAG hat die qES-Frage bei Befristungsabreden noch nicht höchstrichterlich entschieden. Praxis: Papier bevorzugen.
 
 ## Workflow
 
@@ -140,7 +140,7 @@ Ein qualifiziertes Arbeitszeugnis wird Ihnen rechtzeitig zugestellt.
 ## Fallstricke
 
 - **Arbeit vor Vertragsunterzeichnung**: Häufigster Fehler — Arbeitnehmer beginnt Montag, unterschreibt Vertrag Dienstag. Folge: Befristung unwirksam, Arbeitsvertrag unbefristet.
-- **Mündliche Aufhebung**: „Wir trennen uns im Guten" ohne schriftliche Vereinbarung — Arbeitsverhältnis besteht fort. Arbeitgeber muss Lohn weiterzahlen.
+- **Mündliche Aufhebung**: "Wir trennen uns im Guten" ohne schriftliche Vereinbarung — Arbeitsverhältnis besteht fort. Arbeitgeber muss Lohn weiterzahlen.
 - **Direkte elektronische Arbeitgeberkündigung**: Wegen § 623 BGB nicht auf qES, E-Mail, beA-Nachricht oder Signaturplattform stützen. Papier mit Originalunterschrift bleibt Standard.
 - **Schriftsatzkündigung im Arbeitsgericht**: § 46h ArbGG kann die Form fingieren, wenn die gesetzlichen Voraussetzungen vorliegen. Das ersetzt nicht die Prüfung von Klarerkennbarkeit, Zustellung, Vertretung und § 174 BGB.
 - **§ 174 BGB**: Wenn HR-Manager kündigt ohne vorgelegte Originalvollmacht, kann Arbeitnehmer unverzüglich zurückweisen. Personalleiter-Vollmacht im Original immer beifügen.

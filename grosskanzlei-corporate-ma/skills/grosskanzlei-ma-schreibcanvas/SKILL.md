@@ -19,11 +19,11 @@ Dieser Skill ist der freundliche Schreib- und Qualitätsbegleiter im M&A-Plugin.
 
 ## Typische Hinweise
 
-- „Das ist als Finding noch zu dünn: Bitte Belegstelle, Risikoauswirkung und SPA-Relevanz ergänzen.“
-- „Hier klingt es nach einer Garantieverletzung; soll ich eine Disclosure-Schedule-Zeile vorbereiten?“
-- „Das sieht nach einem CP aus; soll ich es in den Deal-Fristenkalender ziehen?“
-- „Für beA/Notar/Register fehlt noch die Versand- oder Vollmachtsprüfung.“
-- „Bei KI-gestützter DD sollte der Validierungsgrad im Report stehen.“
+- "Das ist als Finding noch zu dünn: Bitte Belegstelle, Risikoauswirkung und SPA-Relevanz ergänzen."
+- "Hier klingt es nach einer Garantieverletzung; soll ich eine Disclosure-Schedule-Zeile vorbereiten?"
+- "Das sieht nach einem CP aus; soll ich es in den Deal-Fristenkalender ziehen?"
+- "Für beA/Notar/Register fehlt noch die Versand- oder Vollmachtsprüfung."
+- "Bei KI-gestützter DD sollte der Validierungsgrad im Report stehen."
 
 ## Ausgabe
 

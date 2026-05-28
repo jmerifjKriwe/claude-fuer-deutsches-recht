@@ -56,7 +56,7 @@ Beispiele:
 - Termin- oder Fristenhinweis ohne Bewertung des Anspruchs
 
 Nicht ausreichend:
-- “nur Vorprüfung”, wenn die Vorprüfung praktisch über Weiterleitung, Ablehnung oder Ranking entscheidet
+- "nur Vorprüfung", wenn die Vorprüfung praktisch über Weiterleitung, Ablehnung oder Ranking entscheidet
 - automatische Priorisierung von Personenfällen mit realer Entscheidungswirkung
 
 ### 2. Verbesserung einer bereits abgeschlossenen menschlichen Tätigkeit
@@ -102,7 +102,7 @@ Nicht ausreichend:
 Bei ChatGPT-ähnlichen oder GPAI-basierten Tools:
 
 - Reine Textentwürfe, Zusammenfassungen oder Übersetzungen können unter die Rückausnahme fallen, wenn sie keine individuelle Bewertung steuern.
-- Prompt-Vorlagen wie “bewerte die Eignung”, “ranke Bewerber”, “prognostiziere Prozessrisiko für Richter”, “entscheide Leistungsanspruch” sprechen gegen die Rückausnahme.
+- Prompt-Vorlagen wie "bewerte die Eignung", "ranke Bewerber", "prognostiziere Prozessrisiko für Richter", "entscheide Leistungsanspruch" sprechen gegen die Rückausnahme.
 - Wenn die Fachabteilung das Tool faktisch für Bewertungen nutzt, reicht eine schöne Richtlinie allein nicht. Prüfe Nutzung, Logs, Schulung, Freigabe und Kontrollen.
 
 ## Dokumentationspflicht nach Art. 6 Abs. 4

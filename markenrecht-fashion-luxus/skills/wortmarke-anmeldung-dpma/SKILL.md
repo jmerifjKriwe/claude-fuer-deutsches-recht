@@ -29,7 +29,7 @@ Die Wortmarke ist das Fundament: Sie schützt das Wort unabhängig von Schriftar
 1. **Zeichenwahl und Vorabrecherche:**
    - DPMA-Markenrecherche (Datenbank DPMAregister)
    - EUIPO eSearch plus (für EU-Kontext)
-   - Phonetische Äquivalente prüfen (klôtzzkètté — ausgesprochen „klotz-ket-té")
+   - Phonetische Äquivalente prüfen (klôtzzkètté — ausgesprochen "klotz-ket-té")
    - Lexika und Warenlexika prüfen: Ist das Zeichen im Deutschen, Englischen, Französischen, Italienischen oder Spanischen beschreibend?
 
 2. **Anmeldeformular (DPMA):**
@@ -65,14 +65,14 @@ Die Wortmarke ist das Fundament: Sie schützt das Wort unabhängig von Schriftar
 
 ## Falltypische Konstellationen
 
-### Konstellation 1: „klôtzzkètté" — Unterscheidungskraft?
-Das DPMA beanstandet: Der Begriff „Klotz-Kette" beschreibe im Deutschen einen Gegenstand (Schmuckkette aus Klötzen) und sei für Klasse 14 nicht unterscheidungskräftig. Gegenargumentation: Das Zeichen ist bewusst fremdartig geschrieben (Zirkumflex, Grave-Akzent), evoziert ein italo-französisches Luxuslabel und ist gerade kein deutsches Allerweltwort. Vgl. EuGH C-383/99 P (Baby-Dry): Ungewöhnliche Kombination kann Unterscheidungskraft begründen. Zusätzlich: Nachweis von 3 Jahren Marktpräsenz, Presseberichte, Haute-Couture-Showroom-Daten.
+### Konstellation 1: "klôtzzkètté" — Unterscheidungskraft?
+Das DPMA beanstandet: Der Begriff "Klotz-Kette" beschreibe im Deutschen einen Gegenstand (Schmuckkette aus Klötzen) und sei für Klasse 14 nicht unterscheidungskräftig. Gegenargumentation: Das Zeichen ist bewusst fremdartig geschrieben (Zirkumflex, Grave-Akzent), evoziert ein italo-französisches Luxuslabel und ist gerade kein deutsches Allerweltwort. Vgl. EuGH C-383/99 P (Baby-Dry): Ungewöhnliche Kombination kann Unterscheidungskraft begründen. Zusätzlich: Nachweis von 3 Jahren Marktpräsenz, Presseberichte, Haute-Couture-Showroom-Daten.
 
-### Konstellation 2: „ATELIER DE LUXE" — fehlende Unterscheidungskraft
-klôtzzkètté möchte den Slogan „ATELIER DE LUXE" als Wortmarke schützen. Prognose: Klare Zurückweisung nach § 8 II Nr. 2 und Nr. 3 MarkenG — beschreibt unmittelbar das Tätigkeitsfeld. Empfehlung: Als Slogan-Marke gestalten (vgl. Skill `slogan-marke`) oder auf Bildmarke ausweichen.
+### Konstellation 2: "ATELIER DE LUXE" — fehlende Unterscheidungskraft
+klôtzzkètté möchte den Slogan "ATELIER DE LUXE" als Wortmarke schützen. Prognose: Klare Zurückweisung nach § 8 II Nr. 2 und Nr. 3 MarkenG — beschreibt unmittelbar das Tätigkeitsfeld. Empfehlung: Als Slogan-Marke gestalten (vgl. Skill `slogan-marke`) oder auf Bildmarke ausweichen.
 
-### Konstellation 3: „KLOTZ" allein — Kurzmarke
-Kurzmarken sind nach BGH I ZB 48/07 (POST II) schwer zu schützen, wenn sie beschreibend wirken können. „KLOTZ" ist für Klasse 25 nicht selbst beschreibend — aber phonetisch nah an „KLOTZE" (Schuhwerk). Verteidigungslinie: Fantasy-Element, kein erkennbarer Sachbezug zu Bekleidung oder Schmuck.
+### Konstellation 3: "KLOTZ" allein — Kurzmarke
+Kurzmarken sind nach BGH I ZB 48/07 (POST II) schwer zu schützen, wenn sie beschreibend wirken können. "KLOTZ" ist für Klasse 25 nicht selbst beschreibend — aber phonetisch nah an "KLOTZE" (Schuhwerk). Verteidigungslinie: Fantasy-Element, kein erkennbarer Sachbezug zu Bekleidung oder Schmuck.
 
 ## Belege & Kommentare
 
@@ -84,7 +84,7 @@ Kurzmarken sind nach BGH I ZB 48/07 (POST II) schwer zu schützen, wenn sie besc
 - BGH, Beschl. v. 15.01.2009 — I ZB 30/06 (STREETBALL) — sportbeschreibend
 - EuGH, Urt. v. 20.09.2001 — C-383/99 P (Baby-Dry) — Unterscheidungskraft Kombination
 - EuGH, Urt. v. 12.02.2004 — C-363/99 (Postkantoor) — Beschreibendheit Wortverbindungen
-- EuGH, Urt. v. 12.02.2004 — C-265/00 (Campina Melkunie / Biomild) — „bio" beschreibend
+- EuGH, Urt. v. 12.02.2004 — C-265/00 (Campina Melkunie / Biomild) — "bio" beschreibend
 
 ## Templates
 
@@ -118,7 +118,7 @@ RA'in [Name], Partnerin
 ```
 
 ### Warenverzeichnis-Einschränkung (Kompromissformel)
-Statt „Bekleidungsstücke" → „Bekleidungsstücke, nämlich Oberbekleidung der Luxus- und Haute-Couture-Kategorie" (nur wenn strategisch sinnvoll — Benutzungsgefahr bei zu engen Verzeichnissen beachten).
+Statt "Bekleidungsstücke" → "Bekleidungsstücke, nämlich Oberbekleidung der Luxus- und Haute-Couture-Kategorie" (nur wenn strategisch sinnvoll — Benutzungsgefahr bei zu engen Verzeichnissen beachten).
 
 ## Verweise auf andere Skills
 

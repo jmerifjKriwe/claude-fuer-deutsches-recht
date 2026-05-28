@@ -259,11 +259,11 @@ direkt wenn § 44b Abs. 1 UrhG nicht greift).
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „§ 44b UrhG erlaubt TDM ohne Einschränkung" | § 44b Abs. 3 UrhG: maschinenlesbares Opt-out schließt die Ausnahme aus; OLG Köln 6 U 156/23 bestätigt Wirksamkeit von Robots.txt |
-| „KI-Training ist wissenschaftliche Forschung; § 60d UrhG" | LG Hamburg 310 O 227/23: kommerzielle KI-Anbieter sind keine Forschungseinrichtungen i.S.d. § 60d UrhG |
-| „Robots.txt ist kein gesetzlicher Standard" | § 44b Abs. 3 UrhG verlangt maschinenlesbares Format, nennt aber keinen Standard; OLG Köln 6 U 156/23 akzeptiert Robots.txt; HTML-Meta-Tag ebenfalls anerkannt |
-| „Opt-out gilt erst ab Setzen; Training war vorher" | LG Hamburg 310 O 99/24: Opt-out wirkt nicht rückwirkend; aber: § 44b Abs. 1 UrhG greift nur bei rechtmäßigem Zugang; wenn Nutzungsbedingungen TDM untersagten → direkte Verletzung ohne Opt-out |
-| „Wir sind in den USA und US-Recht gilt" | EU-Niederlassung oder Auftragsverarbeiter in EU begründet EU-Gerichtsstand; zudem: EU-Nutzer sind betroffen → Marktortprinzip |
+| "§ 44b UrhG erlaubt TDM ohne Einschränkung" | § 44b Abs. 3 UrhG: maschinenlesbares Opt-out schließt die Ausnahme aus; OLG Köln 6 U 156/23 bestätigt Wirksamkeit von Robots.txt |
+| "KI-Training ist wissenschaftliche Forschung; § 60d UrhG" | LG Hamburg 310 O 227/23: kommerzielle KI-Anbieter sind keine Forschungseinrichtungen i.S.d. § 60d UrhG |
+| "Robots.txt ist kein gesetzlicher Standard" | § 44b Abs. 3 UrhG verlangt maschinenlesbares Format, nennt aber keinen Standard; OLG Köln 6 U 156/23 akzeptiert Robots.txt; HTML-Meta-Tag ebenfalls anerkannt |
+| "Opt-out gilt erst ab Setzen; Training war vorher" | LG Hamburg 310 O 99/24: Opt-out wirkt nicht rückwirkend; aber: § 44b Abs. 1 UrhG greift nur bei rechtmäßigem Zugang; wenn Nutzungsbedingungen TDM untersagten → direkte Verletzung ohne Opt-out |
+| "Wir sind in den USA und US-Recht gilt" | EU-Niederlassung oder Auftragsverarbeiter in EU begründet EU-Gerichtsstand; zudem: EU-Nutzer sind betroffen → Marktortprinzip |
 
 ---
 

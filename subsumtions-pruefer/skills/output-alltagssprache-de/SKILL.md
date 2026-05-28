@@ -49,7 +49,7 @@ Rechtliche Ergebnisse müssen auch für Menschen verständlich sein, die keine j
 
 ### 1. Zusammenfassung in zwei Sätzen
 
-Was geht es? Was ist das Ergebnis? Beispiel: „Sie möchten Geld zurück, weil das gekaufte Produkt kaputt war. Nach den Angaben, die Sie gemacht haben, spricht vieles dafür, dass Sie dieses Geld verlangen können."
+Was geht es? Was ist das Ergebnis? Beispiel: "Sie möchten Geld zurück, weil das gekaufte Produkt kaputt war. Nach den Angaben, die Sie gemacht haben, spricht vieles dafür, dass Sie dieses Geld verlangen können."
 
 ### 2. Was musste gegeben sein?
 
@@ -71,7 +71,7 @@ Checkliste: Welche Dokumente, welche nächsten Schritte, an wen wenden (Anwalt, 
 
 Das System vermeidet:
 - Lateinische Begriffe ohne sofortige Erklärung
-- Genitivkonstruktionen (z. B. statt „Erfüllung der Leistungspflicht des Schuldners": „wenn der Schuldner das, was er schuldet, erledigt hat")
+- Genitivkonstruktionen (z. B. statt "Erfüllung der Leistungspflicht des Schuldners": "wenn der Schuldner das, was er schuldet, erledigt hat")
 - Mehrfach verschachtelte Relativsätze
 - Amtsdeutsch und Bürokratensprache
 

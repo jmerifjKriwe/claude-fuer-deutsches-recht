@@ -28,7 +28,7 @@ Alle wesentlichen Vertragsbestandteile müssen von der Schriftform erfasst sein.
 
 ### Auflockerungsrechtsprechung
 
-Der BGH hat die strenge Schriftformrechtsprechung durch die „Auflockerungsrechtsprechung" gemildert: Ergänzungen und Änderungen des Mietvertrags durch nachträgliche konkludente Vereinbarungen berühren nicht stets die Schriftform des Hauptvertrags, wenn sie von untergeordneter Bedeutung sind.
+Der BGH hat die strenge Schriftformrechtsprechung durch die "Auflockerungsrechtsprechung" gemildert: Ergänzungen und Änderungen des Mietvertrags durch nachträgliche konkludente Vereinbarungen berühren nicht stets die Schriftform des Hauptvertrags, wenn sie von untergeordneter Bedeutung sind.
 
 **BGH XII ZR 13/13 — Qualifizierte Schriftformklausel**: Eine qualifizierte Schriftformklausel, die bestimmt, dass auch mündliche Nebenabreden und Änderungen der Schriftform bedürfen, und auch Vertragsänderungen per E-Mail ausschließt, ist im gewerblichen Mietrecht zulässig und sinnvoll.
 
@@ -103,11 +103,11 @@ Nachtrag Nr. [X] zum Mietvertrag vom [Datum] über [Adresse]
 
 zwischen
 
-[Vermieter-Name, Adresse]                — nachfolgend „Vermieter" —
+[Vermieter-Name, Adresse]                — nachfolgend "Vermieter" —
 
 und
 
-[Mieter-Name, Adresse]                   — nachfolgend „Mieter" —
+[Mieter-Name, Adresse]                   — nachfolgend "Mieter" —
 
 Die Parteien vereinbaren folgende Änderung des oben genannten Mietvertrages:
 

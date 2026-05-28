@@ -75,7 +75,7 @@ Pro Klasse zwei Sätze Begründung, **warum** sie passt — verankert in den Sch
 
 ### 5. Verifikation
 
-- Auf den Espacenet-Klassen-Definitionsseiten die **Anmerkungen** lesen (Hinweise „nicht hier, sondern dort").
+- Auf den Espacenet-Klassen-Definitionsseiten die **Anmerkungen** lesen (Hinweise "nicht hier, sondern dort").
 - Eine Stichprobe (3–5 bekannte Patente der Mandantin) klassifizieren lassen und prüfen, ob die Klassen aus Schritt 4 dort tatsächlich angebracht sind.
 
 ### 6. Übergabe

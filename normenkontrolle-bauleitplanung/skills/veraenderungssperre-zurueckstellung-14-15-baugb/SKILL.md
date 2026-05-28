@@ -165,7 +165,7 @@ c) **Befürchten** dass das Vorhaben die Plan-Entwicklung gefährdet
 ### Argumentation gegen Bau-Genehmigung
 
 - Gemeinde hat trotz drohender Plan-Widrigkeit nicht zurückgestellt
-- Bauherr profitiert vom „dem ersten kommt das Recht"
+- Bauherr profitiert vom "dem ersten kommt das Recht"
 - Bei plangleichem Vorhaben Indiz für Gefälligkeitsplanung
 
 ## Schritt 8 — Stadtplanungs-Sicht

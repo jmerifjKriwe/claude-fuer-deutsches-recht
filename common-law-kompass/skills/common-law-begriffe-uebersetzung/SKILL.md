@@ -7,7 +7,7 @@ description: "Deutscher Anwalt uebersetzt Vertrags- oder Rechtsbegriffe ins Engl
 
 ## Zweck
 
-Der Skill baut mandatsbezogene Glossare mit Do/Don’t-Spalte und Formulierungen für deutsches Recht in englischer Sprache.
+Der Skill baut mandatsbezogene Glossare mit Do/Don't-Spalte und Formulierungen für deutsches Recht in englischer Sprache.
 
 ## Wann verwenden
 

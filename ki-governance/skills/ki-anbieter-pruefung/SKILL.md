@@ -1,6 +1,6 @@
 ---
 name: ki-anbieter-pruefung
-description: "Prüft KI-Anbieterverträge gegen die unternehmenseigenen Governance- Positionen; kennzeichnet Training auf Daten, Haftung, Modelländerungen und KI-Richtlinien-Konsistenz. Unterscheidet Anbieter/Betreiber-Rolle nach Art. 3 KI-VO; prüft Vertragspflichten nach Art. 25 KI-VO. Lädt, wenn der Nutzer „KI-Vertrag prüfen\", „Anbietervertrag KI\", „AI Act Art. 25 Vertragspflichten\" oder „KI-AGB prüfen\" sagt."
+description: "Prüft KI-Anbieterverträge gegen die unternehmenseigenen Governance- Positionen; kennzeichnet Training auf Daten, Haftung, Modelländerungen und KI-Richtlinien-Konsistenz. Unterscheidet Anbieter/Betreiber-Rolle nach Art. 3 KI-VO; prüft Vertragspflichten nach Art. 25 KI-VO. Lädt, wenn der Nutzer "KI-Vertrag prüfen\", "Anbietervertrag KI\", "AI Act Art. 25 Vertragspflichten\" oder "KI-AGB prüfen\" sagt."
 ---
 
 # KI-Anbieterprüfung
@@ -120,7 +120,7 @@ Schweregrad (gegen CLAUDE.md-Positionen):
 
 **Weitergabetest** bei gestapelten Anbietern: Vertrag auf Flow-Down-Klauseln
 prüfen. Bei fehlender Weitergabe: konkrete Redline produzieren:
-> „Ergänzen in § [X]: Anbieter stellt sicher, dass Unterauftragnehmer
+> "Ergänzen in § [X]: Anbieter stellt sicher, dass Unterauftragnehmer
 > Pflichten zu [Datennutzung/Training/Vertraulichkeit] eingehen, die nicht
 > weniger schützend sind als diese Vereinbarung."
 
@@ -167,7 +167,7 @@ abfragen; 1-seitigen Kurzüberblick generieren.
 
 ## Beispiel
 
-**Anfrage:** „OpenAI Enterprise für interne Rechtsrecherche prüfen."
+**Anfrage:** "OpenAI Enterprise für interne Rechtsrecherche prüfen."
 **Vorgehen:** Stack: OpenAI ist Modell- und SaaS-Ebene in einem.
 Training: OpenAI Enterprise sieht kein Training auf Eingaben vor —
 bestätigen; GeschGehG prüfen. Haftung: AGB-Ausschluss → § 307 BGB prüfen.

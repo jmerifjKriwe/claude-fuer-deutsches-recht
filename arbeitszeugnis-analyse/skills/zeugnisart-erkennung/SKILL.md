@@ -7,7 +7,7 @@ description: "Unterscheidet qualifiziertes Endzeugnis einfaches Zeugnis Zwischen
 
 Die Art des Zeugnisses bestimmt grundlegend, welche Formulierungen erwartet werden, welche Aussagen fehlen dürfen und wie Auslassungen zu interpretieren sind. Ein einfaches Zeugnis enthält per Definition keine Leistungsbeurteilung — das Fehlen dieser Passage ist kein negatives Signal. Ein qualifiziertes Zeugnis hingegen muss Leistung und Verhalten beurteilen; fehlt eine dieser Komponenten, ist das auffällig.
 
-Das Zwischenzeugnis wird ausgestellt, während das Arbeitsverhältnis noch besteht — etwa bei Vorgesetztenwechsel, Versetzung, Elternzeit oder auf ausdrücklichen Wunsch. Es enthält kein Enddatum und keine Schlussformel mit Verabschiedung. Die Formulierungen sind typischerweise im Präsens oder im Perfekt gehalten. Fehlt bei einem Zwischenzeugnis die Zukunftswunschformel, ist das kein Fehler; einige Zeugnisersteller fügen gleichwohl Formulierungen wie „Wir wünschen ihr weiterhin viel Erfolg" ein.
+Das Zwischenzeugnis wird ausgestellt, während das Arbeitsverhältnis noch besteht — etwa bei Vorgesetztenwechsel, Versetzung, Elternzeit oder auf ausdrücklichen Wunsch. Es enthält kein Enddatum und keine Schlussformel mit Verabschiedung. Die Formulierungen sind typischerweise im Präsens oder im Perfekt gehalten. Fehlt bei einem Zwischenzeugnis die Zukunftswunschformel, ist das kein Fehler; einige Zeugnisersteller fügen gleichwohl Formulierungen wie "Wir wünschen ihr weiterhin viel Erfolg" ein.
 
 Das Ausbildungszeugnis beurteilt Auszubildende nach BBiG (§ 16 BBiG). Es enthält besondere Abschnitte zu Lernfortschritten, Verhalten im Ausbildungsbetrieb und in der Berufsschule sowie zur praktischen Ausbildungsleistung. Der Bewertungsrahmen ist eigenständig und nicht mit dem von Arbeitnehmer-Zeugnissen identisch.
 
@@ -25,9 +25,9 @@ Führungskräfte-Zeugnisse (leitende Angestellte) haben zusätzliche Erwartungen
 
 ## Beispiele
 
-**Beispiel 1 – Korrekte Zeugnisart-Erkennung:** „Wir stellen dieses Zeugnis auf eigenen Wunsch aus" + kein Enddatum → Zwischenzeugnis auf Wunsch des Arbeitnehmers.
+**Beispiel 1 – Korrekte Zeugnisart-Erkennung:** "Wir stellen dieses Zeugnis auf eigenen Wunsch aus" + kein Enddatum → Zwischenzeugnis auf Wunsch des Arbeitnehmers.
 
-**Beispiel 2 – Einfaches Zeugnis korrekt interpretiert:** Zeugnis ohne jede Leistungsbeurteilung und ohne Verhaltensabschnitt, aber mit explizitem Hinweis „einfaches Zeugnis" oder keine Bewertungsformulierungen — nicht als Abwertung zu lesen.
+**Beispiel 2 – Einfaches Zeugnis korrekt interpretiert:** Zeugnis ohne jede Leistungsbeurteilung und ohne Verhaltensabschnitt, aber mit explizitem Hinweis "einfaches Zeugnis" oder keine Bewertungsformulierungen — nicht als Abwertung zu lesen.
 
 **Beispiel 3 – Fehlendes Verhalten bei Endzeugnis (Orange):** Qualifiziertes Zeugnis mit Leistungsbeurteilung, aber ohne Verhaltensabschnitt gegenüber Kollegen/Kunden — Auslassung ist auffällig.
 
@@ -35,7 +35,7 @@ Führungskräfte-Zeugnisse (leitende Angestellte) haben zusätzliche Erwartungen
 
 ## Ausgabeformat
 
-Der Skill gibt zunächst die erkannte Zeugnisart aus (mit Begründung) und listet dann die erwarteten Bausteine mit dem Status „vorhanden / fehlend / unerwartet". Auf dieser Basis justiert er den Interpretationsrahmen für alle nachgelagerten Analyse-Skills.
+Der Skill gibt zunächst die erkannte Zeugnisart aus (mit Begründung) und listet dann die erwarteten Bausteine mit dem Status "vorhanden / fehlend / unerwartet". Auf dieser Basis justiert er den Interpretationsrahmen für alle nachgelagerten Analyse-Skills.
 
 ## Rechtliche Einordnung und Normen
 

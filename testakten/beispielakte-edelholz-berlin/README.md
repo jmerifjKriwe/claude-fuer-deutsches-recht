@@ -37,7 +37,7 @@ Die Gesellschaft fertigt hochwertige Einbau- und Maßmöbel für Privatkunden (6
 Hotels und Boutiquen (30 %) sowie öffentliche Auftraggeber (10 %). Maschinenpark
 2018–2020 modernisiert (CNC-Bearbeitungszentrum SCM Accord 50, Plattenaufteilsäge
 Holzma HPP 380, Furnierpresse). Seit Energiepreisspitze 2022/23 chronische
-Working-Capital-Belastung, „Bugwelle" alter Lieferantenrechnungen ca. 64 TEUR.
+Working-Capital-Belastung, "Bugwelle" alter Lieferantenrechnungen ca. 64 TEUR.
 Sozialversicherungsbeiträge der letzten zwei Monate offen. CNC-Antriebsmotor
 defekt (Reparaturangebot 28 TEUR). Großauftrag Hotel Lützowufer LZF-2025-08
 über 145 TEUR in Fertigung, Lieferung KW 28 geplant.

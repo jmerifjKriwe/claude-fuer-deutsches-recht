@@ -66,14 +66,14 @@ Die Parteivortrag-Tabelle stellt streitige Sachverhaltsangaben der Kläger- und 
 
 ## Unstreitige Punkte
 
-Unstreitige Sachverhaltselemente werden unterhalb der Tabelle als Block „Unstreitiger Sachverhalt" aufgeführt. Sie fließen nicht in die Streitpunkt-Tabelle ein.
+Unstreitige Sachverhaltselemente werden unterhalb der Tabelle als Block "Unstreitiger Sachverhalt" aufgeführt. Sie fließen nicht in die Streitpunkt-Tabelle ein.
 
 ## Hinweise
 
 - Pro Zeile genau ein Streitpunkt — nicht mehrere Punkte in einer Zelle
 - Vortrag neutral wiedergeben (paraphrasieren, nicht werten)
 - Fundstelle in Schriftsatz oder Anlage angeben
-- Wenn eine Partei zu einem Punkt schweigt: „Kein Vortrag" in die entsprechende Zelle
+- Wenn eine Partei zu einem Punkt schweigt: "Kein Vortrag" in die entsprechende Zelle
 - Keine Prognose welcher Vortrag zutrifft
 
 ## Qualitätscheck

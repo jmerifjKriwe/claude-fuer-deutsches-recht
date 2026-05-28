@@ -76,7 +76,7 @@ Das System unterscheidet:
 
 ### Schritt 5 — Hinweis auf Wissensgrenze
 
-Das System gibt in jedem Fall den Hinweis: „Diese Angaben zur Normfassung entsprechen dem Wissensstand des Systems. Für Änderungen danach ist gesetze-im-internet.de oder eur-lex.europa.eu zu prüfen."
+Das System gibt in jedem Fall den Hinweis: "Diese Angaben zur Normfassung entsprechen dem Wissensstand des Systems. Für Änderungen danach ist gesetze-im-internet.de oder eur-lex.europa.eu zu prüfen."
 
 ## Kommentarliteratur
 

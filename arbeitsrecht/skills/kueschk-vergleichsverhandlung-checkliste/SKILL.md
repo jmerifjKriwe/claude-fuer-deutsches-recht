@@ -70,10 +70,10 @@ Step 6: Widerrufsvorbehalt prüfen (sofern möglich, zwei Wochen Widerrufsfrist 
 
 ### 5. Zeugnis
 
-- Welche **Note** wird im Zeugnis erteilt? (Mindest: „zur vollen Zufriedenheit" = befriedigend)
+- Welche **Note** wird im Zeugnis erteilt? (Mindest: "zur vollen Zufriedenheit" = befriedigend)
 - BAG: Der Arbeitnehmer hat keinen Anspruch auf eine bestimmte Note über befriedigend (BAG, Urt. v. 18.11.2014 – 9 AZR 584/13) — aber im Vergleich kann eine bestimmte Note vereinbart werden.
 - Zeugnis **ohne qualifizierte Aussage** über Führung und Leistung ist ein Schlechzeugnis.
-- Formulierung prüfen: Keine geheimen negativen Formulierungen (z.B. „bemühte sich stets" statt „erledigte stets").
+- Formulierung prüfen: Keine geheimen negativen Formulierungen (z.B. "bemühte sich stets" statt "erledigte stets").
 - Ausstellungsdatum: Beendigungsdatum oder anderes Datum?
 - Wer unterschreibt das Zeugnis?
 
@@ -97,7 +97,7 @@ Step 6: Widerrufsvorbehalt prüfen (sofern möglich, zwei Wochen Widerrufsfrist 
 ### 9. Geheimhaltungsklausel
 
 - Manche Arbeitgeber verlangen Geheimhaltung über Vergleichsinhalt.
-- Übliche Formulierung: „Die Parteien verpflichten sich, über den Inhalt dieses Vergleichs Stillschweigen zu wahren."
+- Übliche Formulierung: "Die Parteien verpflichten sich, über den Inhalt dieses Vergleichs Stillschweigen zu wahren."
 - Hinweis: Geheimhaltungsklauseln sind in Vergleichen zulässig, schränken aber die freie Kommunikation ein.
 
 ## Muster-Vergleich (Kurzform)
@@ -107,7 +107,7 @@ Die Parteien schließen zur Erledigung des Rechtsstreits folgenden Vergleich:
 1. Das Arbeitsverhältnis der Parteien endet auf Veranlassung der Beklagten mit Ablauf des [DATUM].
 2. Die Beklagte zahlt an den Kläger eine Abfindung nach §§ 9, 10 KSchG in Höhe von [BETRAG] EUR brutto.
 3. Der Kläger ist ab sofort unwiderruflich von der Arbeitspflicht freigestellt; offener Urlaub wird auf die Freistellung angerechnet.
-4. Die Beklagte erteilt dem Kläger ein qualifiziertes Zeugnis mit der Gesamtnote „gut" bis zum [DATUM].
+4. Die Beklagte erteilt dem Kläger ein qualifiziertes Zeugnis mit der Gesamtnote "gut" bis zum [DATUM].
 5. Damit sind alle wechselseitigen Ansprüche aus dem Arbeitsverhältnis und seiner Beendigung erledigt.
 
 ---

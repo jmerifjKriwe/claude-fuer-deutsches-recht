@@ -27,7 +27,7 @@ Beachte: Mandantendaten unterliegen § 43a Abs. 2 BRAO, § 203 StGB. Mandatsisol
 2. Verzeichnis anlegen: `~/.claude/plugins/config/claude-fuer-deutsches-recht/datenschutzrecht/mandate/[mandat-id]/`
 3. Leere `mandat.md` mit Pflichtfeldern anlegen (s. Struktur unten).
 4. Aktives Mandat in Praxisprofil auf neue ID setzen.
-5. Bestätigung ausgeben: „Mandat [ID] angelegt. Alle folgenden Skill-Aufrufe arbeiten in diesem Mandatskontext."
+5. Bestätigung ausgeben: "Mandat [ID] angelegt. Alle folgenden Skill-Aufrufe arbeiten in diesem Mandatskontext."
 
 ### `liste` – Mandatsübersicht
 
@@ -44,8 +44,8 @@ Alle Verzeichnisse unter `mandate/` auflisten:
 
 ### `schließe [Mandat-ID]` – Mandat abschließen
 
-1. Status in `mandat.md` auf „abgeschlossen" und Abschlussdatum setzen.
-2. Aktives Mandat zurücksetzen (auf „keins").
+1. Status in `mandat.md` auf "abgeschlossen" und Abschlussdatum setzen.
+2. Aktives Mandat zurücksetzen (auf "keins").
 3. Ausgabedateien des Mandats sind weiter zugänglich, werden aber nicht mehr von Skills aktiv gelesen.
 
 ### `keins` – Kanzlei-Kontext (kein aktives Mandat)
@@ -72,7 +72,7 @@ Skills arbeiten im kanzlei-weiten Praxisprofil ohne mandatsspezifischen Kontext.
 
 ## Ansprechpartner
 - **Mandant:** [Name, E-Mail]
-- **DSB Mandant:** [Name oder „nicht bestellt"]
+- **DSB Mandant:** [Name oder "nicht bestellt"]
 - **Kanzlei intern:** [zuständige·r Anwalt/Anwältin]
 
 ## Abweichungen vom Kanzlei-Praxisprofil
@@ -86,7 +86,7 @@ Skills arbeiten im kanzlei-weiten Praxisprofil ohne mandatsspezifischen Kontext.
 - [System 2]
 
 ## Verarbeitungsverzeichnis
-[Pfad oder „noch nicht bereitgestellt"]
+[Pfad oder "noch nicht bereitgestellt"]
 
 ## Ausgaben dieses Mandats
 [Ordnerpfad oder Auflistung erstellter Dokumente]

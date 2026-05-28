@@ -9,7 +9,7 @@ Datum/Uhrzeit der Konversation: 14.03.2026, Nachrichten ab 22:12 MEZ
 
 [22:12] Béatrice (Comtesse):
 "Annabella !!! Ich sehe gerade auf Instagram: Brezelmann Discount hat einen POST
-gemacht mit Foto vom K-Royal Parfum „jetzt auch online bei Donauzon". 15.000 Likes.
+gemacht mit Foto vom K-Royal Parfum "jetzt auch online bei Donauzon". 15.000 Likes.
 SIEBZEHNMALTAUSEND LIKES. Das ist VERBOTEN!!!"
 
 [22:14] Béatrice:

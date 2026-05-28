@@ -70,7 +70,7 @@ Dann die Vertrauensprüfung durchführen:
 - **Hat sich `.mcp.json` geändert?** Neue oder geänderte MCP-Server können auf die Umgebung zugreifen.
 - **Hat sich `allowed-tools` oder `tools` im Frontmatter erweitert?** Neuer Werkzeugzugriff ist eine Berechtigungseskalation.
 - **Gibt es neue Netzwerkaufrufe, Dateischreibvorgänge außerhalb des Skill-Verzeichnisses oder Code-Ausführung in der SKILL.md?** Diese kennzeichnen.
-- **Hat sich die `description` des Skills oder sein angegebener Zweck geändert?** Ein Skill, der behauptete, „NDAs zu prüfen", und jetzt behauptet, „Verträge zu senden", hat sich umprogrammiert.
+- **Hat sich die `description` des Skills oder sein angegebener Zweck geändert?** Ein Skill, der behauptete, "NDAs zu prüfen", und jetzt behauptet, "Verträge zu senden", hat sich umprogrammiert.
 
 ### Schritt 2.5: Erneuter Scan der neuen Version (GlassWorm-Sperre)
 
@@ -81,7 +81,7 @@ Den vollständigen `skills-qualitaetspruefung`-Scan gegen die NEUE Version durch
 1. **Bei Regression schließen.** Wenn die neue Version Befunde erzeugt, wo die alte keine hatte — in einer beliebigen `skills-qualitaetspruefung`-Kategorie — Update standardmäßig verweigern und erklären warum.
 2. **Sicherheitsrelevante Diffs erfordern menschliche Genehmigung unabhängig vom Urteil.** Jede Änderung an `ausloeser/ausloeser.json`, `.mcp.json`, `allowed-tools`/`tools`-Frontmatter, neuer `Bash`/`WebFetch`/`WebSearch`-Zugriff, neue externe URLs, neue Dateischreibpfade außerhalb des Skill-Verzeichnisses oder das `description`-Frontmatter erzwingt einen menschlichen Genehmigungsprompt.
 3. **Leseschutz-Scan-Kontext.** Der Scan liest angreiferkontrollierten Text (die neue SKILL.md). Im Leseschutz-Subagenten mit Read + WebFetch + Glob ausführen (kein Write, kein Bash, kein MCP), wenn verfügbar.
-4. **Update verweigern, wenn Scan jetzt fehlschlägt.** Kein „trotzdem anwenden"-Option. REFUSE-Ausgabe und Stopp.
+4. **Update verweigern, wenn Scan jetzt fehlschlägt.** Kein "trotzdem anwenden"-Option. REFUSE-Ausgabe und Stopp.
 
 ### Schritt 2.6: Aktualitätsbedingte Neu-Verifikation
 
@@ -91,7 +91,7 @@ Für jeden installierten Skill aus dem Installationsprotokoll `last_verified`, `
 
 **Wenn aktives Fenster abgelaufen ist UND es keinen neueren Commit gibt:**
 
-> „Dieser Skill wurde seit [Datum] nicht aktualisiert und sein Referenzmaterial wurde zuletzt am [Datum] verifiziert — das Aktualitätsfenster von [N Monaten] ist überschritten. Optionen:
+> "Dieser Skill wurde seit [Datum] nicht aktualisiert und sein Referenzmaterial wurde zuletzt am [Datum] verifiziert — das Aktualitätsfenster von [N Monaten] ist überschritten. Optionen:
 > (a) [verified_against-URLs] selbst prüfen,
 > (b) beim Registry-Maintainer melden,
 > (c) Skill bis zur erneuten Verifikation deaktivieren."
@@ -102,11 +102,11 @@ Immer bei Update neu verifizieren, nicht still anwenden. Ein neuer Commit beweis
 
 ### Schritt 3: Gemäß Einstellung verarbeiten
 
-**Benachrichtigen (Standard):** Vollständigen Diff und Vertrauensprüfung anzeigen. „Update verfügbar. Den obigen Diff prüfen. Anwenden? [ja/nein]"
+**Benachrichtigen (Standard):** Vollständigen Diff und Vertrauensprüfung anzeigen. "Update verfügbar. Den obigen Diff prüfen. Anwenden? [ja/nein]"
 
 **Manuell:** Nur auflisten, was Updates hat. Nutzer führt `/kanzlei-builder-hub:automatischer-aktualisierer --apply [skill]` aus, wenn bereit.
 
-Es gibt keinen „automatischen" Modus. Updates für Code in der Kanzleiumgebung erfordern immer, dass ein Mensch den Diff liest.
+Es gibt keinen "automatischen" Modus. Updates für Code in der Kanzleiumgebung erfordern immer, dass ein Mensch den Diff liest.
 
 ### Schritt 4: Anwenden (nach expliziter Genehmigung)
 
@@ -119,7 +119,7 @@ Für jedes Update:
 - Vollständiger Diff aller geänderten Dateien
 - Vertrauensprüfungs-Ergebnisse (Automatische Auslöser, MCP, Werkzeugberechtigungen, Netzwerkaufrufe)
 - skills-qualitätsprüfung-Scan-Ergebnis für neue Version
-- Genehmigungsprompt: „Anwenden? (ja / nein)"
+- Genehmigungsprompt: "Anwenden? (ja / nein)"
 
 ## Beispiel
 

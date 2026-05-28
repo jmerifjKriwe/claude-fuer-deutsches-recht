@@ -27,7 +27,7 @@ Die Vertragsunterzeichnung verlief vollständig elektronisch: Personalreferentin
 versandte den Arbeitsvertrag am 14. Februar 2024 per E-Mail als PDF-Anhang. Vogt druckte das
 Dokument zu Hause aus, unterzeichnete es handschriftlich, scannte es ein und sandte das
 Scan-PDF am 16. Februar 2024 per E-Mail zurück. Ein beidseitig original unterschriebenes
-Papierdokument existiert nicht. Schönfeld hatte Vogt zugesagt, sie erhalte „am ersten Tag ein
+Papierdokument existiert nicht. Schönfeld hatte Vogt zugesagt, sie erhalte "am ersten Tag ein
 Originalexemplar"; tatsächlich lag am 01. März 2024 im Einführungsordner kein solches Exemplar.
 Dieses Vorgehen begründet einen Schriftformverstoß nach § 14 Abs. 4 TzBfG i.V.m. § 126 BGB,
 mit der Folge, dass die Befristungsabrede nichtig ist und das Arbeitsverhältnis gemäß § 16

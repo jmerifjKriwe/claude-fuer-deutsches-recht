@@ -20,7 +20,7 @@ Eine vollständige KI-Nutzungsrichtlinie muss die relevanten Rechtsquellen kohä
 2. **13 Kapitel anlegen**: Alle Kapitel mit Überschrift und Kurzbeschreibung vorstrukturieren.
 3. **Kapitel priorisieren**: Je nach Kanzlei-Profil einzelne Kapitel ausführlicher oder schlanker gestalten (z.B. Drittland-Transfer nur bei internationalen Mandaten relevant).
 4. **Prompting-Anlage anhängen**: Vier-Elemente-Methode als Anhang immer beifügen.
-5. **Platzhalter einbauen**: Für kanzleispezifische Angaben (Name, DSB, Ansprechpartner, Datum) Platzhalter „[...]" verwenden.
+5. **Platzhalter einbauen**: Für kanzleispezifische Angaben (Name, DSB, Ansprechpartner, Datum) Platzhalter "[...]" verwenden.
 6. **Versionierung einrichten**: Stand-Datum und Versions-Nummer im Dokumentkopf festhalten.
 
 ## Strategische Optionen (vor dem Template entscheiden)

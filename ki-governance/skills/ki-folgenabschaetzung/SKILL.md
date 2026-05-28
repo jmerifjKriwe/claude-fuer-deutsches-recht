@@ -1,6 +1,6 @@
 ---
 name: ki-folgenabschaetzung
-description: "KI-Folgenabschätzung (FRIA nach Art. 27 KI-VO + DSFA nach Art. 35 DSGVO) erstellen – strukturierte Aufnahme, Risikoanalyse, Regulierungsklassifizierung nach KI-VO und DSGVO, Richtlinien-Konsistenzprüfung und Empfehlung mit Bedingungen. Verwendet das Hausformat aus der Seed-Folgenabschätzung in der Praxisprofil-CLAUDE.md. Verwenden, wenn der Nutzer sagt „Folgenabschätzung für\", „diesen KI-Anwendungsfall bewerten\", „FRIA erstellen\", „KI-Folgenabschätzung generieren\", „wir müssen dieses KI-System dokumentieren\", „KI-Risikoprüfung für X\" oder nach einem bedingten Triage-Ergebnis."
+description: "KI-Folgenabschätzung (FRIA nach Art. 27 KI-VO + DSFA nach Art. 35 DSGVO) erstellen – strukturierte Aufnahme, Risikoanalyse, Regulierungsklassifizierung nach KI-VO und DSGVO, Richtlinien-Konsistenzprüfung und Empfehlung mit Bedingungen. Verwendet das Hausformat aus der Seed-Folgenabschätzung in der Praxisprofil-CLAUDE.md. Verwenden, wenn der Nutzer sagt "Folgenabschätzung für\", "diesen KI-Anwendungsfall bewerten\", "FRIA erstellen\", "KI-Folgenabschätzung generieren\", "wir müssen dieses KI-System dokumentieren\", "KI-Risikoprüfung für X\" oder nach einem bedingten Triage-Ergebnis."
 ---
 
 # /ki-folgenabschätzung – KI-Folgenabschätzung
@@ -70,7 +70,7 @@ welche Abschnitte welchem Instrument zugehören.
 ## Mandate-Kontext
 
 Mandate-Workspaces-Einstellung aus CLAUDE.md prüfen. Bei aktivierten Workspaces und fehlendem
-aktivem Mandat fragen: „Für welches Mandat? Oder Praxisebene?" Ausgaben in den Mandatsordner
+aktivem Mandat fragen: "Für welches Mandat? Oder Praxisebene?" Ausgaben in den Mandatsordner
 schreiben.
 
 ---
@@ -89,7 +89,7 @@ Auslöserkriterien aus CLAUDE.md prüfen.
 - Ist das System nach Art. 6 KI-VO i.V.m. Anhang III als hochriskant eingestuft?
 
 Wenn nichts zutrifft und der Hausauslöser nicht greift:
-> „Eine vollständige Folgenabschätzung scheint nicht erforderlich. Hier ein Absatz für die
+> "Eine vollständige Folgenabschätzung scheint nicht erforderlich. Hier ein Absatz für die
 > Akte, der erklärt warum – für den Fall, dass jemand fragt."
 
 ---
@@ -147,7 +147,7 @@ Vor dem Schreiben Antworten auf folgende Fragen einholen. Gesprächig – kein F
 - Löst die KI-Ausgabe automatisch eine Aktion aus, oder entscheidet ein Mensch?
   (Automatisierte Entscheidungsfindung Art. 22 DSGVO prüfen)
 - Falls menschliche Prüfung: Wie oft ändert der Mensch tatsächlich die Ausgabe der KI?
-  (Wenn „selten" – der Mensch prüft nicht wirklich; er stempelt ab.)
+  (Wenn "selten" – der Mensch prüft nicht wirklich; er stempelt ab.)
 - Gibt es ein Widerspruchs- oder Korrekturverfahren für betroffene Personen? (Art. 22 Abs. 3
   DSGVO; Art. 26 Abs. 6 KI-VO)
 - Wer ist für die Ausgaben des KI-Systems verantwortlich – gibt es einen benannten Eigentümer?
@@ -226,7 +226,7 @@ Seed-Struktur aus CLAUDE.md verwenden. Falls keine erfasst, diese Grundstruktur:
 
 ## Zusammenfassung
 
-[Zwei Sätze: Was tut diese KI und ist der Einsatz vertretbar? Z. B. „Dieses System nutzt
+[Zwei Sätze: Was tut diese KI und ist der Einsatz vertretbar? Z. B. "Dieses System nutzt
 ein Drittanbieter-KI-System, um Erstentwürfe für Kundensupport-Antworten vor menschlicher Prüfung
 zu erstellen. Die Verarbeitung ist mit der KI-Richtlinie des Unternehmens vereinbar;
 drei Bedingungen vor dem Produktiveinsatz erforderlich."]
@@ -256,7 +256,7 @@ drei Bedingungen vor dem Produktiveinsatz erforderlich."]
 
 ## 3. Dateneingaben (DSGVO-relevant)
 
-**Datenkategorien:** [Konkrete Felder, nicht „Nutzerdaten"]
+**Datenkategorien:** [Konkrete Felder, nicht "Nutzerdaten"]
 **Personenbezogene Daten:** [Ja – [von wem] / Nein]
 **Daten verlassen Perimeter?** [Ja – an [Anbieter] / Nein]
 **Auftragsverarbeitung Art. 28 DSGVO:** [Vereinbarung vorhanden / Erforderlich / Entfällt]
@@ -326,7 +326,7 @@ drei Bedingungen vor dem Produktiveinsatz erforderlich."]
 
 | # | Risiko | Eintrittswahrscheinlichkeit | Auswirkung | Mitigation | Status | Eigentümer |
 |---|---|---|---|---|---|---|
-| 1 | [Konkretes Risiko, das an diesem Design haftet – nicht generisch „KI-Halluzination"] | N/M/H | N/M/H | [Konkrete Maßnahme] | Erledigt / Geplant / Lücke | [Name] |
+| 1 | [Konkretes Risiko, das an diesem Design haftet – nicht generisch "KI-Halluzination"] | N/M/H | N/M/H | [Konkrete Maßnahme] | Erledigt / Geplant / Lücke | [Name] |
 
 **Restrisiko nach Mitigationen:** [Bewertung]
 
@@ -371,7 +371,7 @@ Bei vereinfachtem Track: Abschnitte 1–3 und Abschnitt 9 sind Pflicht; Abschnit
 
 ## Beispiel
 
-**Anfrage:** „Wir wollen einen Chatbot für die Erstberatung von Mandanten einsetzen — was müssen wir prüfen?"
+**Anfrage:** "Wir wollen einen Chatbot für die Erstberatung von Mandanten einsetzen — was müssen wir prüfen?"
 
 **Ablauf:**
 - Risikotrack: Vollständig (erhöhte Governance-Stufe; Drittanbieter-KI-System; Mandantendaten).

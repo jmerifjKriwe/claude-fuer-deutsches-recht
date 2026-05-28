@@ -193,7 +193,7 @@ FINANZIERUNG
 
 4. **Investitionsplanungen ohne Finanzierungsquelle** — CAPEX-Pläne, die nicht mit konkreter Finanzierungsstruktur unterlegt sind, sind Wunschlisten, keine valide Planung.
 
-5. **Steuerlast unterschätzen** — effektiver Steuersatz (Körperschaftsteuer + Solidaritätszuschlag + Gewerbesteuer) beträgt ca. 30 %; diese Position fehlt in vielen „schnellen" Plan-GuVs.
+5. **Steuerlast unterschätzen** — effektiver Steuersatz (Körperschaftsteuer + Solidaritätszuschlag + Gewerbesteuer) beträgt ca. 30 %; diese Position fehlt in vielen "schnellen" Plan-GuVs.
 
 ---
 

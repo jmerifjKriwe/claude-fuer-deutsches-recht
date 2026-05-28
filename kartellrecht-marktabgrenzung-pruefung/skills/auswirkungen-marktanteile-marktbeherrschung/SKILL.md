@@ -59,7 +59,7 @@ HHI (weite Alternative): [Wert]
 
 ### 5. Schaltereffekte
 
-Identifizierung der „kritischen Grenze": Bei welchem Marktanteil kippt das rechtliche Ergebnis?
+Identifizierung der "kritischen Grenze": Bei welchem Marktanteil kippt das rechtliche Ergebnis?
 
 ```
 Kritische Grenze: [40% / 50% / GVO-Schwelle / andere]

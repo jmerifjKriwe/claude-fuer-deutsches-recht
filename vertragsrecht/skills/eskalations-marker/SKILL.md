@@ -1,6 +1,6 @@
 ---
 name: eskalations-marker
-description: "Ordnet ein Vertragsproblem dem richtigen Genehmiger per Eskalationsmatrix aus dem Praxisprofil zu und erstellt die Genehmigungsanfrage. Laden, wenn der Nutzer fragt „wer muss das genehmigen\", „eskalieren\", „braucht das GC-Freigabe\", „Genehmigung einholen\" oder ein anderer Skill ein Problem identifiziert, das die Kompetenz des Prüfers übersteigt."
+description: "Ordnet ein Vertragsproblem dem richtigen Genehmiger per Eskalationsmatrix aus dem Praxisprofil zu und erstellt die Genehmigungsanfrage. Laden, wenn der Nutzer fragt "wer muss das genehmigen\", "eskalieren\", "braucht das GC-Freigabe\", "Genehmigung einholen\" oder ein anderer Skill ein Problem identifiziert, das die Kompetenz des Prüfers übersteigt."
 ---
 
 # Eskalationsregeln
@@ -37,7 +37,7 @@ description: "Ordnet ein Vertragsproblem dem richtigen Genehmiger per Eskalation
 
 ## Zweck
 
-Jede Rechtsabteilung hat eine Eskalationsmatrix – geschrieben oder ungeschrieben. Dieser Skill liest die geschriebene (in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md`), ordnet ein Vertragsproblem darin ein, nennt den Genehmiger beim Namen und entwirft die Anfrage – damit der Jurist nicht abends schnell eine „hast du kurz?"-E-Mail schreibt.
+Jede Rechtsabteilung hat eine Eskalationsmatrix – geschrieben oder ungeschrieben. Dieser Skill liest die geschriebene (in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md`), ordnet ein Vertragsproblem darin ein, nennt den Genehmiger beim Namen und entwirft die Anfrage – damit der Jurist nicht abends schnell eine "hast du kurz?"-E-Mail schreibt.
 
 ## Eingaben
 
@@ -70,7 +70,7 @@ Dinge nicht eskalieren, die eigentlich in Ordnung sind. Wenn der Begriff innerha
 
 ### Schritt 3: Genehmiger bestimmen
 
-Zutreffende Matrixzeile auswählen. Konkrete Person oder Rolle nennen – keine abstrakte „Führungsebene".
+Zutreffende Matrixzeile auswählen. Konkrete Person oder Rolle nennen – keine abstrakte "Führungsebene".
 
 ### Schritt 4: Anfrage entwerfen
 
@@ -88,7 +88,7 @@ ich bitte um Genehmigung zu folgendem Vertragspunkt:
 **Klausel / Problem:** [§ X – Kurzbezeichnung]
 
 **Was der Vertrag sagt:**
-> „[wörtliches Zitat der betroffenen Klausel]"
+> "[wörtliches Zitat der betroffenen Klausel]"
 
 **Was unser Playbook sagt:**
 [Standard-Position aus CLAUDE.md] / [Fallback-Position aus CLAUDE.md]
@@ -98,12 +98,12 @@ ich bitte um Genehmigung zu folgendem Vertragspunkt:
 
 **Risiko bei Akzeptanz ohne Änderung:**
 🔴/🟠/🟡 [Rechtliches Risiko] | 🔴/🟠/🟡 [Geschäftliche Reibung]
-[Konkrete Folge: z. B. „Unbegrenzte Haftung für Datenpannen; typischer Schaden bei mittelgroßem Verstoß XXX EUR"]
+[Konkrete Folge: z. B. "Unbegrenzte Haftung für Datenpannen; typischer Schaden bei mittelgroßem Verstoß XXX EUR"]
 
 **Optionen:**
 
 1. **Akzeptieren** – [Bedingung oder unkonditioniert]
-   Konsequenz: [was das bedeutet, z. B. „unbegrenzte Haftung bleibt bestehen; kein Deckungsschutz D&O"]
+   Konsequenz: [was das bedeutet, z. B. "unbegrenzte Haftung bleibt bestehen; kein Deckungsschutz D&O"]
 
 2. **Verhandeln** – Redline: [konkrete Formulierung]
    Verhandlungsspielraum: [einschätzen, ob Markt-Standard / Gegenseite wird wahrscheinlich...]

@@ -56,7 +56,7 @@ Das System geht jedes TBM der Reihe nach durch und fragt:
 3. **Beleg vorhanden?** Der Nutzer kann angeben:
    - (A) Beleg liegt vor (Dokument, Foto, Screenshot) → Hochladen oder Benennen
    - (B) Zeuge bekannt → Name und Erreichbarkeit notieren
-   - (C) Tatsache behaupte ich; Beleg beschaffe ich später → Markierung „offen"
+   - (C) Tatsache behaupte ich; Beleg beschaffe ich später → Markierung "offen"
    - (D) Keine Tatsache vorhanden für dieses TBM → TBM als nicht erfüllt markieren
 4. **Sekundäre Darlegungslast:** Liegt ein Fall vor, in dem der Gegner näherliegende Informationen hat? → Verweis auf BGH-Rechtsprechung zur sekundären Darlegungslast
 5. **Beweiswert-Hinweis:** Das System gibt einen groben Hinweis auf den typischen Beweiswert des genannten Beweismittels (z.B. öffentliche Urkunde: voller Beweis § 415 ZPO; Privaturkunde: § 416 ZPO begrenzt).
@@ -115,7 +115,7 @@ Am Ende der Beweiserfassung erstellt das System eine tabellarische Übersicht:
 | [TBM 1] | [Nutzerangabe] | [Typ] | Kläger/Beklagter | vorhanden / offen / fehlt |
 | [TBM 2] | … | … | … | … |
 
-„Offen" markierte TBM werden als Risikopositionen der Klage / des Antrags ausgewiesen.
+"Offen" markierte TBM werden als Risikopositionen der Klage / des Antrags ausgewiesen.
 
 ## Output-Template Beweisliste (Mandantenbrief-Auszug)
 

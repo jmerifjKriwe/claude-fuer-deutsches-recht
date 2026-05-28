@@ -13,7 +13,7 @@ Das Vorabentscheidungsverfahren nach Art. 267 AEUV ermöglicht nationalen Gerich
 
 ### 1. Vorlagebefugnis (Art. 267 Abs. 2 AEUV)
 
-Berechtigt zur Vorlage ist jedes „Gericht eines Mitgliedstaats". Der Begriff ist unionsrechtlich autonom auszulegen; er setzt voraus:
+Berechtigt zur Vorlage ist jedes "Gericht eines Mitgliedstaats". Der Begriff ist unionsrechtlich autonom auszulegen; er setzt voraus:
 - Gesetzliche Grundlage des Spruchkörpers
 - Ständiger Charakter
 - Obligatorische Gerichtsbarkeit
@@ -57,7 +57,7 @@ Das System unterstützt bei der Formulierung der Vorlagefrage:
 - Kein Verweis auf nationales Recht
 - Entscheidungserheblichkeit erkennbar
 
-Beispiel: „Ist Art. 6 Abs. 1 Buchst. f der Verordnung 2016/679 dahin auszulegen, dass die Verarbeitung personenbezogener Daten zur Direktwerbung als berechtigtes Interesse des Verantwortlichen anzusehen ist, wenn der Betroffene nachweislich Widerspruch eingelegt hat?"
+Beispiel: "Ist Art. 6 Abs. 1 Buchst. f der Verordnung 2016/679 dahin auszulegen, dass die Verarbeitung personenbezogener Daten zur Direktwerbung als berechtigtes Interesse des Verantwortlichen anzusehen ist, wenn der Betroffene nachweislich Widerspruch eingelegt hat?"
 
 ## Verfahrensablauf
 

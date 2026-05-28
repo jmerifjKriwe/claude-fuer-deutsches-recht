@@ -76,7 +76,7 @@ Monatliche Prüfung durch den Berater anhand der BWA:
 - [ ] Hat der Mandant Lieferantenrechnungen > 60 Tage offen?
 - [ ] Wurde die Bank über Covenant-Unterschreitungen informiert?
 
-Wenn mehr als zwei dieser Fragen mit „ja" beantwortet werden: Warnpflicht ist ausgelöst.
+Wenn mehr als zwei dieser Fragen mit "ja" beantwortet werden: Warnpflicht ist ausgelöst.
 
 ### Schritt 2: Warnung aussprechen und dokumentieren
 
@@ -183,7 +183,7 @@ Unterschrift Geschäftsführer
 
 1. **Mündliche Warnung ohne Protokoll ist wertlos** — im Haftungsprozess muss der Berater beweisen, wann er gewarnt hat. Ohne Schriftlichkeit kein Beweis.
 
-2. **„Vertrauliche" Warnung in der BWA-Erläuterung reicht nicht** — die Warnung muss explizit, unmissverständlich und dem Mandanten formal zugegangen sein.
+2. **"Vertrauliche" Warnung in der BWA-Erläuterung reicht nicht** — die Warnung muss explizit, unmissverständlich und dem Mandanten formal zugegangen sein.
 
 3. **Mandatsniederlegung ohne Warnung schützt nicht** — wer das Mandat niederlegt, ohne vorher zu warnen, haftet für den während der Mandatszeit entstandenen Schaden.
 
@@ -191,7 +191,7 @@ Unterschrift Geschäftsführer
 
 5. **Die Warnung muss an den richtigen Empfänger gehen** — bei der GmbH ist das die Geschäftsführung, nicht nur den Buchhalter. Bei der AG: der Vorstand.
 
-6. **Zeitdruck beachten** — zwischen Erkenntnis und Warnung darf keine unangemessene Zeit verstreichen. „Unverzüglich" bedeutet in der Praxis: innerhalb einer Woche nach Erkenntnis.
+6. **Zeitdruck beachten** — zwischen Erkenntnis und Warnung darf keine unangemessene Zeit verstreichen. "Unverzüglich" bedeutet in der Praxis: innerhalb einer Woche nach Erkenntnis.
 
 ---
 

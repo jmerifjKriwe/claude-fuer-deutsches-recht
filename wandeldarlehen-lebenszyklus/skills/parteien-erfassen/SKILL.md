@@ -56,19 +56,19 @@ Strukturierte Textblöcke für den Vertragskopf: Gesellschaft, Gesellschafterin 
     Geschäftsanschrift: Musterstraße 12, 10115 Berlin
     eingetragen im Handelsregister des Amtsgerichts Charlottenburg unter HRB 123456 B,
     vertreten durch ihre alleinvertretungsberechtigte Geschäftsführerin Dr. Mira Schoeneck,
-    – nachstehend die „Gesellschaft" –
+    – nachstehend die "Gesellschaft" –
 
 (2) Dr. Mira Schoeneck, geboren [Datum], Musterstraße 12, 10115 Berlin
-    – nachstehend die „Gesellschafterin 1" –
+    – nachstehend die "Gesellschafterin 1" –
 
 (3) Lina Habersaat, geboren [Datum], Beispielweg 5, 20095 Hamburg
-    – nachstehend die „Gesellschafterin 2" –
+    – nachstehend die "Gesellschafterin 2" –
 
 (4) Northstar Pre-Seed Partners GmbH & Co. KG
     Geschäftsanschrift: Venture-Allee 1, 60329 Frankfurt am Main
     eingetragen im Handelsregister des Amtsgerichts Frankfurt am Main unter HRA 99999,
     vertreten durch ihre Komplementärin Northstar Management GmbH, diese vertreten durch [●]
-    – nachstehend der „Darlehensgeber" –
+    – nachstehend der "Darlehensgeber" –
 ```
 
 ## Risiken und Red Flags

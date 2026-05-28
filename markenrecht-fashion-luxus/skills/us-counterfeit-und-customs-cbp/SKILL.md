@@ -19,8 +19,8 @@ Das US-System kombiniert zivile und strafrechtliche Instrumente zu einem der sch
   - Actual Damages (nachgewiesener Schaden klôtzzkètté)
   - Treble Damages: bis 3x bei willful infringement
   - Statutory Damages bei Counterfeiting: USD 1.000-200.000 je Mark/Goods-Kombination; USD 2.000.000 bei willful counterfeiting
-  - Attorney Fees in „exceptional cases" (§ 1117(a))
-- **Octane Fitness, LLC v. ICON Health & Fitness, Inc., 572 U.S. 545 (2014):** Standard für „exceptional case" (ursprünglich Patentrecht, übertragen auf Markenrecht durch 4th Cir.) — niedrigerer Standard als früher; subjective bad faith oder objectively weak position genügt
+  - Attorney Fees in "exceptional cases" (§ 1117(a))
+- **Octane Fitness, LLC v. ICON Health & Fitness, Inc., 572 U.S. 545 (2014):** Standard für "exceptional case" (ursprünglich Patentrecht, übertragen auf Markenrecht durch 4th Cir.) — niedrigerer Standard als früher; subjective bad faith oder objectively weak position genügt
 - **19 C.F.R. § 133 (CBP Recordation):** US Customs and Border Protection-Anmeldung; ermöglicht Grenzbeschlagnahme an US-Grenzübergängen
 - **19 U.S.C. § 1526:** CBP-Importverbote für Fälschungsware
 

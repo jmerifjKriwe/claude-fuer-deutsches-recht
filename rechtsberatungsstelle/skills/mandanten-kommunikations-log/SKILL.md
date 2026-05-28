@@ -36,7 +36,7 @@ Lückenlose Dokumentation aller Kontakte in einem Mandat ist aus mehreren Gründ
 
 ## Eingaben
 
-- Aktenzeichen oder anonyme Mandantenkennung (z. B. „M-2024-17")
+- Aktenzeichen oder anonyme Mandantenkennung (z. B. "M-2024-17")
 - Datum und Uhrzeit des Kontakts
 - Art des Kontakts: persönlich | telefonisch | schriftlich (Brief/E-Mail/Fax) | durch Dritte (Dolmetscher)
 - Beteiligte: Studierender, Anleiter, Mandant, Behörde/Gericht, Dolmetscher
@@ -94,7 +94,7 @@ Lückenlose Dokumentation aller Kontakte in einem Mandat ist aus mehreren Gründ
 ### Mandantenbrief / Schriftsatz
 - Versanddatum und -weg (Brief mit Einschreiben / Fax mit Sendebericht / E-Mail mit Lesebestätigung) notieren.
 - Anlagen auflisten.
-- Freigabe durch Anleiter vor Versand? → Status „Freigabe erteilt von [Name/Kürzel] am [Datum]".
+- Freigabe durch Anleiter vor Versand? → Status "Freigabe erteilt von [Name/Kürzel] am [Datum]".
 
 ## Ablauf
 

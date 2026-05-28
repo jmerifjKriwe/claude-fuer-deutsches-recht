@@ -67,14 +67,14 @@ Sehr geehrte/r [Mandant/-in],
 
 ich möchte Sie über den aktuellen Stand Ihres Falls informieren.
 
-**Was passiert ist:** [Klares Deutsch. „Wir haben Ihren Widerspruch am [Datum]
-beim Amt eingereicht" — nicht „Der fristwahrende Schriftsatz wurde übermittelt."]
+**Was passiert ist:** [Klares Deutsch. "Wir haben Ihren Widerspruch am [Datum]
+beim Amt eingereicht" — nicht "Der fristwahrende Schriftsatz wurde übermittelt."]
 
-**Was als nächstes passiert:** [Was und wann. „Das Amt hat jetzt 3 Monate Zeit,
+**Was als nächstes passiert:** [Was und wann. "Das Amt hat jetzt 3 Monate Zeit,
 über Ihren Widerspruch zu entscheiden. Wir erwarten bis spätestens [Datum]
 eine Antwort. Falls nichts kommt, melden wir uns."]
 
-**Was Sie tun müssen:** [Konkret und klar. Oder: „Im Moment müssen Sie nichts
+**Was Sie tun müssen:** [Konkret und klar. Oder: "Im Moment müssen Sie nichts
 tun. Wir melden uns, sobald wir etwas von Ihnen brauchen."]
 
 **So erreichen Sie uns:** [Telefon, Sprechzeiten, Name des Studierenden]
@@ -189,17 +189,17 @@ Strukturierter Markdown-Text nach dem jeweiligen Zielgruppen-Modus oben. Interne
 
 **Szenario:** Mandantin Erdem, Widerspruch gegen Nebenkostennachforderung. Widerspruch eingereicht 01.04.2026. Bestätigung vom Vermieter erwartet.
 
-- `/status mandant` → „Wir haben Ihren Widerspruch gegen die Nebenkostenabrechnung am 01.04.2026 beim Vermieter eingereicht. Der Vermieter hat jetzt zwei Monate Zeit zu antworten. Sie müssen bis dahin nichts tun."
+- `/status mandant` → "Wir haben Ihren Widerspruch gegen die Nebenkostenabrechnung am 01.04.2026 beim Vermieter eingereicht. Der Vermieter hat jetzt zwei Monate Zeit zu antworten. Sie müssen bis dahin nichts tun."
 - `/status intern` → Verfahrensstand: Widerspruch eingereicht; Frist Vermieter-Antwort ca. 01.06.2026; Supervisoren-Input: Soll Klage vorbereitet werden, falls keine Antwort kommt?
 - `/status gericht` → (noch nicht relevant, da kein Gerichtsverfahren)
 
 ## Risiken und typische Fehler
 
-- **Mandantenbrief mit Fachjargon:** Formulierungen wie „Der Schuldner ist mit der Leistung in Verzug" sind für Mandanten unverständlich. Konkrete, einfache Sprache verwenden.
+- **Mandantenbrief mit Fachjargon:** Formulierungen wie "Der Schuldner ist mit der Leistung in Verzug" sind für Mandanten unverständlich. Konkrete, einfache Sprache verwenden.
 - **Strategische Hinweise an Mandanten ohne Supervisorengespräch:** Schlechte Nachrichten (z. B. geringer Erfolgsaussichten) oder strategische Optionen gehören in das Supervisorengespräch, nicht in einen Statusbrief.
 - **Gerichtlicher Statusbericht ohne Supervisoren-Freigabe:** Verstoß gegen § 6 Abs. 2 RDG. Jedes nach außen gehende Schriftstück wird vom Supervisor freigegeben.
 - **Falsche Datumsangaben:** Fristen- und Terminangaben im Mandantenbrief müssen mit `deadlines.yaml` abgeglichen werden.
-- **Studentische Einschätzung im internen Bericht KI-generiert:** Der Abschnitt „Einschätzung des Studierenden" ist persönliches Denken. Die KI kann ihn strukturieren; schreiben muss ihn der Studierende selbst.
+- **Studentische Einschätzung im internen Bericht KI-generiert:** Der Abschnitt "Einschätzung des Studierenden" ist persönliches Denken. Die KI kann ihn strukturieren; schreiben muss ihn der Studierende selbst.
 
 ## Quellenpflicht
 

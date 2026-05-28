@@ -53,7 +53,7 @@ Bei jeder neuen Beratung **erst prüfen**, ob die Verkündung erfolgt ist und ob
 
 - BT-Drs. 21/4815 (PDF auf dserver.bundestag.de)
 - Bundestag Textarchiv 12/2026
-- BRAK-Newsletter Ausgabe 8/2026 vom 1.5.2026 („Zwangsvollstreckung künftig mit weniger Medienbrüchen")
+- BRAK-Newsletter Ausgabe 8/2026 vom 1.5.2026 ("Zwangsvollstreckung künftig mit weniger Medienbrüchen")
 - DGVB-Beitrag zum elektronischen Rechtsverkehr in der Vollstreckung
 
 ## Rechtsgrundlagen

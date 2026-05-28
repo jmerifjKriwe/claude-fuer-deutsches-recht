@@ -75,7 +75,7 @@ MANDATSGEHEIMNIS – § 43a Abs. 2 BRAO
 ──────────────────────────────────────
 ERGEBNIS
 ──────────────────────────────────────
-[Kurzbeschreibung: z. B. „Vergleich: Beklagter zahlt EUR 25.000; gegenseitige Erledigung aller Ansprüche. Protokolliert am TT.MM.JJJJ vor LG Frankfurt a. M., Az. 2-08 O 123/23."]
+[Kurzbeschreibung: z. B. "Vergleich: Beklagter zahlt EUR 25.000; gegenseitige Erledigung aller Ansprüche. Protokolliert am TT.MM.JJJJ vor LG Frankfurt a. M., Az. 2-08 O 123/23."]
 
 ──────────────────────────────────────
 ENDEXPOSITION

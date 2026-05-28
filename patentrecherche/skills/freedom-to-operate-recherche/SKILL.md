@@ -42,7 +42,7 @@ Wie bei `klassifikation-cpc-ipc`: Produkt in technische Merkmale zerlegen. Pro M
 
 Über `agentische-datenbank-recherche`, aber mit folgenden zusätzlichen Filtern:
 
-- **Status:** „granted" / „in force" / „erteilt, nicht erloschen". Anmeldungen können relevant sein (zukünftige Erteilung), werden aber gesondert markiert.
+- **Status:** "granted" / "in force" / "erteilt, nicht erloschen". Anmeldungen können relevant sein (zukünftige Erteilung), werden aber gesondert markiert.
 - **Territorium:** Treffer für jeden Ziel-Staat einzeln prüfen. Ein US-Patent blockiert nicht den DE-Markt. EP-Patente nur in den Validierungsstaaten — also nach Validierung in DE, FR, GB usw. einzeln prüfen.
 - **Schutzdauer:** Anmeldetag plus 20 Jahre (§ 16 PatG). Treffer mit Anmeldetag > 20 Jahre sind irrelevant (außer Schutzzertifikat nach SPC für Arzneimittel oder Pflanzenschutzmittel, dann +5 Jahre).
 

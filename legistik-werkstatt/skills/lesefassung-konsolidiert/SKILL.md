@@ -9,11 +9,11 @@ description: "Konsolidierte Lesefassung des geaenderten Stammgesetzes nach Inkra
 
 ## Zweck
 
-Die Lesefassung zeigt das Stammgesetz in der nach Inkrafttreten gültigen Form — **ohne** Änderungsmarkierung, **mit** allen Änderungen eingearbeitet. Adressaten (Bürger, Unternehmen) und Vollzugsbehörden brauchen diese Fassung, um zu sehen, „wie es ab Tag X heisst", ohne den Änderungs-Diff lesen zu müssen.
+Die Lesefassung zeigt das Stammgesetz in der nach Inkrafttreten gültigen Form — **ohne** Änderungsmarkierung, **mit** allen Änderungen eingearbeitet. Adressaten (Bürger, Unternehmen) und Vollzugsbehörden brauchen diese Fassung, um zu sehen, "wie es ab Tag X heisst", ohne den Änderungs-Diff lesen zu müssen.
 
 Komplementär zu:
 - **Synopse**: zeigt alt vs. neu in zwei Spalten
-- **Änderungsanordnung**: zeigt die Änderung als Befehl („Paragraf 3 Absatz 2 wird wie folgt geändert: ...")
+- **Änderungsanordnung**: zeigt die Änderung als Befehl ("Paragraf 3 Absatz 2 wird wie folgt geändert: ...")
 - **Lesefassung**: zeigt das fertige neue Gesetz
 
 ## 1) Inhalte pro Datei
@@ -64,7 +64,7 @@ Bis zum [Datum] gilt die vorherige Fassung (siehe Aenderungsanordnung vom ...).
 
 ### Stand und Datum
 
-Das Datum des **Inkrafttretens** ist massgeblich. Bei stufenweisem Inkrafttreten mehrere Lesefassungen erstellen (z.B. „Lesefassung Stand 01.01.2026" und „Lesefassung Stand 01.07.2026").
+Das Datum des **Inkrafttretens** ist massgeblich. Bei stufenweisem Inkrafttreten mehrere Lesefassungen erstellen (z.B. "Lesefassung Stand 01.01.2026" und "Lesefassung Stand 01.07.2026").
 
 ## 3) Prüfliste vor Freigabe
 
@@ -78,7 +78,7 @@ Das Datum des **Inkrafttretens** ist massgeblich. Bei stufenweisem Inkrafttreten
 ### Konsistenz
 
 - [ ] Numerierung konsistent (keine doppelten Paragrafen, keine Lücken)
-- [ ] Verweise innerhalb des Gesetzes aktualisiert (z.B. „Paragraf 3 Absatz 4" stimmt jetzt, nachdem Absatz 3 weggefallen ist)
+- [ ] Verweise innerhalb des Gesetzes aktualisiert (z.B. "Paragraf 3 Absatz 4" stimmt jetzt, nachdem Absatz 3 weggefallen ist)
 - [ ] Verweise auf externe Normen aktualisiert (z.B. wenn EuGVVO geändert wurde, deren Verweise aktualisieren)
 - [ ] Begriffsdefinitionen konsistent (wenn `Verbraucher` neu definiert ist, überall der neue Begriff)
 
@@ -98,7 +98,7 @@ Das Datum des **Inkrafttretens** ist massgeblich. Bei stufenweisem Inkrafttreten
 ## 4) Typische Fehler
 
 1. **Inkrafttretens-Verschachtelung übersehen.** Wenn das Änderungsgesetz mehrere Inkrafttretens-Daten hat (typisch bei Übergangsregelungen), braucht es mehrere Lesefassungen.
-2. **Verweise nicht nachgezogen.** Wenn Paragraf 3 Absatz 3 entfaellt, muss in Paragraf 7 der Verweis auf „Paragraf 3 Absatz 3" angepasst werden.
+2. **Verweise nicht nachgezogen.** Wenn Paragraf 3 Absatz 3 entfaellt, muss in Paragraf 7 der Verweis auf "Paragraf 3 Absatz 3" angepasst werden.
 3. **Anlagen vergessen.** Bei BGBl-Veröffentlichung sind Anlagen oft separat — leicht zu übersehen.
 4. **Standard-Header fehlt.** Adressaten müssen erkennen koennen, **welcher** Stand vorliegt.
 5. **DOCX mit Track Changes ausgegeben.** Lesefassung ist per Definition ohne Änderungsmarkierung — Word-Datei vor Export bereinigen.

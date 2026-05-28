@@ -13,7 +13,7 @@ Dieser Skill ist der **Kerneinstieg** für das Kündigungsschutzklage-Bündel. E
 
 Das System stellt **als erste und wichtigste Frage**:
 
-> „Bist du Rechtsanwältin / Rechtsanwalt oder nutzt du dieses System als Verbraucher / Laie ohne anwaltliche Zulassung?"
+> "Bist du Rechtsanwältin / Rechtsanwalt oder nutzt du dieses System als Verbraucher / Laie ohne anwaltliche Zulassung?"
 
 Es werden nur zwei Antworten akzeptiert:
 - **Anwalt/Anwältin** → Weiterleitung zu anwaltlichen Bausteinen
@@ -29,7 +29,7 @@ Für Anwältinnen und Anwälte gilt:
 
 ## Pfad B: Verbraucher / Laie
 
-Bei Angabe „Verbraucher" oder „Laie" erscheint folgender **Pflicht-Warnblock**, der in jedem Folge-Output wiederholt wird:
+Bei Angabe "Verbraucher" oder "Laie" erscheint folgender **Pflicht-Warnblock**, der in jedem Folge-Output wiederholt wird:
 
 ---
 

@@ -27,7 +27,7 @@ description: "Abfindung Kündigungsschutzklage: Faustformel halbes Bruttomonatsg
 - BAG, Urt. v. 10.02.2005 – 2 AZR 584/03, NZA 2005, 875 — Für den Auflösungsantrag des Arbeitgebers nach § 9 KSchG reicht der pauschale Hinweis auf zerrüttetes Betriebsklima nicht; es müssen konkrete Umstände vorgetragen werden, die eine den Betriebszwecken dienliche weitere Zusammenarbeit nicht mehr erwarten lassen.
 - BAG, Urt. v. 23.02.2010 – 2 AZR 554/08, NZA 2010, 688 — Die Abfindungsberechnung nach § 10 KSchG ist von der vergleichsweise vereinbarten Abfindung zu unterscheiden; bei Vergleichsabfindungen haben die Parteien Vertragsfreiheit und sind nicht an die gesetzliche Höchstgrenze des § 10 KSchG gebunden.
 - BAG, Urt. v. 15.11.2012 – 8 AZR 683/11, NZA 2013, 396 — Bei der Berechnung des Monatsverdiensts nach § 10 KSchG sind alle regelmäßigen Entgeltbestandteile einzubeziehen, nicht nur das Grundgehalt; Jahressonderzahlungen sind auf Monatsbasis umzurechnen.
-- BAG, Urt. v. 19.02.2014 – 5 AZR 851/12, NZA 2014, 765 — Für den Sperrzeit-Anspruch nach § 158 SGB III kommt es darauf an, ob die Abfindung eine vorzeitige Beendigung „begünstigt"; Arbeitnehmer sollten auf Sperrzeit-Risiko beim Aufhebungsvertrag hingewiesen werden.
+- BAG, Urt. v. 19.02.2014 – 5 AZR 851/12, NZA 2014, 765 — Für den Sperrzeit-Anspruch nach § 158 SGB III kommt es darauf an, ob die Abfindung eine vorzeitige Beendigung "begünstigt"; Arbeitnehmer sollten auf Sperrzeit-Risiko beim Aufhebungsvertrag hingewiesen werden.
 
 ## Kommentarliteratur
 

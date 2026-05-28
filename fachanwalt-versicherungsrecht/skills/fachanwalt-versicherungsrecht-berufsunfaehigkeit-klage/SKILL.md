@@ -27,7 +27,7 @@ Mandate von Versicherungs-Nehmern bei abgelehnter Berufsunfähigkeit (BU).
 
 ### Standard
 
-- „Wenn Versicherter zumutbare andere Tätigkeit ausueben kann, ist nicht BU"
+- "Wenn Versicherter zumutbare andere Tätigkeit ausueben kann, ist nicht BU"
 - Verweisung auf vergleichbare Berufe
 
 ### Änderung 1989

@@ -34,16 +34,16 @@ GESAMTURTEIL: [HOCH / MITTEL / GERING]
 ZENTRALE SCHWACHSTELLEN:
 
 1. [Schwachstelle — konkret und scharf formuliert, z.B.:
-   „SSNIP-Test-Ergebnis beruht auf veralteten Daten aus 2019 und
+   "SSNIP-Test-Ergebnis beruht auf veralteten Daten aus 2019 und
    wurde nicht auf Cellophane-Fallacy-Risiko geprüft."]
 
 2. [Schwachstelle — z.B.:
-   „Angebotsseitige Substitution durch Anbieter Z wird behauptet,
+   "Angebotsseitige Substitution durch Anbieter Z wird behauptet,
    aber der Umstellungszeitraum von 18 Monaten überschreitet
    den EU-Standard von 12 Monaten."]
 
 3. [Schwachstelle — z.B.:
-   „Interne Marktberichte des Unternehmens aus 2022 bezeichnen
+   "Interne Marktberichte des Unternehmens aus 2022 bezeichnen
    Produkt X als 'direkten Konkurrenten', der in der vorgelegten
    Abgrenzung aber ausgeschlossen wird."]
 

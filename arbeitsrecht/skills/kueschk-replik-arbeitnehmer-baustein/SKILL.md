@@ -94,7 +94,7 @@ Step 6: Schriftsatz fristgerecht einreichen
 
 ## Substantiierungstiefe — Was wird erwartet?
 
-Das Gericht erwartet **konkretes, substantiiertes Bestreiten**. Pauschal „Wird bestritten" genügt nicht, wenn der Arbeitgeber seinerseits substantiiert vorgetragen hat. Der Arbeitnehmer muss dann die konkrete Tatsache benennen, die er bestreitet, und wenn möglich Gegenbeweis anbieten.
+Das Gericht erwartet **konkretes, substantiiertes Bestreiten**. Pauschal "Wird bestritten" genügt nicht, wenn der Arbeitgeber seinerseits substantiiert vorgetragen hat. Der Arbeitnehmer muss dann die konkrete Tatsache benennen, die er bestreitet, und wenn möglich Gegenbeweis anbieten.
 
 ---
 

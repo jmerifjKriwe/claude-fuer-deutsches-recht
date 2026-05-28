@@ -47,10 +47,10 @@ Achten Sie strikt auf die anwaltliche Verschwiegenheitspflicht (§ 43a BRAO, § 
 Personenbezogene Daten, Mandatsgeheimnisse und Geschäftsgeheimnisse dürfen nur in Ausnahmefällen und nach Möglichkeit anonymisiert in KI-Systeme eingegeben werden. Dokumente, Akten und Informationen müssen vor einem Upload anonymisiert werden. Im Zweifel ist der Upload zu unterlassen.
 
 **Eckpunkt 4 – Quellenprüfung und Risikobewusstsein:**
-Auch wenn der Output der KI-Systeme plausibel klingt: Die Ergebnisse sind kritisch zu hinterfragen. Zitate und Quellen müssen zwingend nachrecherchiert werden. Ein „Grundvertrauen" wie bei menschlichen Mitarbeitenden ist nicht angebracht (BRAK-Hinweise 12/2024; DAV 32/2025).
+Auch wenn der Output der KI-Systeme plausibel klingt: Die Ergebnisse sind kritisch zu hinterfragen. Zitate und Quellen müssen zwingend nachrecherchiert werden. Ein "Grundvertrauen" wie bei menschlichen Mitarbeitenden ist nicht angebracht (BRAK-Hinweise 12/2024; DAV 32/2025).
 
 **Eckpunkt 5 – Keine Privat-Accounts:**
-Verwenden Sie für Ihre berufliche Tätigkeit in der Kanzlei nur vorab freigegebene Kanzlei-Accounts, nicht Ihre privaten Accounts, um dem Compliance-Risiko der „Schatten-KI" entgegenzuwirken.
+Verwenden Sie für Ihre berufliche Tätigkeit in der Kanzlei nur vorab freigegebene Kanzlei-Accounts, nicht Ihre privaten Accounts, um dem Compliance-Risiko der "Schatten-KI" entgegenzuwirken.
 
 **Eckpunkt 6 – Kennzeichnung und Transparenz:**
 Öffentliche KI-generierte Inhalte, die keiner menschlichen Verantwortung oder redaktionellen Kontrolle unterliegen, müssen als solche gekennzeichnet werden (Art. 50 Abs. 4 KI-VO). KI-generierte Inhalte sind stets auf mögliche Verletzungen von Urheber- und Persönlichkeitsrechten zu prüfen.

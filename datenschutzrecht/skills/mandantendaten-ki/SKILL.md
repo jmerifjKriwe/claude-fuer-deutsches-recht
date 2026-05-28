@@ -30,7 +30,7 @@ Das Modell benötigt:
 - **§ 203 Abs. 4 StGB**: Mitwirkende Personen machen sich selbst strafbar, wenn sie das Geheimnis unbefugt offenbaren.
 - **§ 43a Abs. 2 BRAO**: Verschwiegenheitspflicht des Rechtsanwalts gegenüber Mandanten; umfasst alle Informationen aus dem Mandatsverhältnis; gilt auch gegenüber Dritten, die in Kanzleiprozesse eingebunden werden.
 - **Art. 28 DSGVO**: Auftragsverarbeitung; Pflicht zum schriftlichen Auftragsverarbeitungsvertrag (AVV); Mindestinhalt nach Art. 28 Abs. 3 DSGVO; Unterauftragnehmer genehmigungspflichtig (Art. 28 Abs. 2 DSGVO).
-- **Art. 44 ff. DSGVO**: Internationale Datentransfers; Standardvertragsklauseln (SCCs) als primäres Instrument für Drittländer; Transfer Impact Assessment (TIA) bei Hochrisikoländern nach EuGH „Schrems II".
+- **Art. 44 ff. DSGVO**: Internationale Datentransfers; Standardvertragsklauseln (SCCs) als primäres Instrument für Drittländer; Transfer Impact Assessment (TIA) bei Hochrisikoländern nach EuGH "Schrems II".
 - **§ 2 Abs. 1 BORA**: Konkretisierung der Verschwiegenheitspflicht; Kanzlei-IT-Systeme müssen angemessene Sicherheit gewährleisten.
 
 ### Leitentscheidungen
@@ -48,7 +48,7 @@ Das Modell benötigt:
 ## Ablauf
 
 **Schritt 1 – Berufsrechtliche Zulässigkeitsprüfung (§ 203 StGB)**
-- Ist der Dienstleister eine „mitwirkende Person" i.S.d. § 203 Abs. 3 Satz 2 StGB?
+- Ist der Dienstleister eine "mitwirkende Person" i.S.d. § 203 Abs. 3 Satz 2 StGB?
 - Schriftliche Geheimhaltungsvereinbarung vorhanden (Pflicht)?
 - Zugang auf das Erforderliche beschränkt (Need-to-know-Prinzip)?
 - KI-Training mit Mandantendaten: Kategorisch unzulässig ohne informierte Einwilligung aller Mandanten; keine Ausnahme nach § 203 Abs. 3 StGB.
@@ -89,11 +89,11 @@ Das Modell benötigt:
 
 ## Beispiel
 
-**Sachverhalt**: Rechtsanwalt R möchte einen US-amerikanischen KI-Dienst (Serverstandort: Virginia, USA) für die Analyse von Vertragsunterlagen aus einem laufenden M&A-Mandat nutzen. Der Anbieter schließt in seinen AGB „Training mit Nutzerdaten nicht aus".
+**Sachverhalt**: Rechtsanwalt R möchte einen US-amerikanischen KI-Dienst (Serverstandort: Virginia, USA) für die Analyse von Vertragsunterlagen aus einem laufenden M&A-Mandat nutzen. Der Anbieter schließt in seinen AGB "Training mit Nutzerdaten nicht aus".
 
 **Gutachtenstil**:
 
-*§ 203 StGB*: Der Einsatz des US-KI-Dienstes setzt voraus, dass der Anbieter als „mitwirkende Person" i.S.d. § 203 Abs. 3 Satz 2 StGB qualifiziert wird und eine schriftliche Geheimhaltungsvereinbarung vorliegt. Die AGB-Klausel zum KI-Training macht den Dienst für die Verarbeitung von Mandantendaten unzulässig, da ein unkontrollierter Einsatz des Geheimnisses außerhalb des Mandatszwecks stattfinden würde; Strafbarkeit nach § 203 Abs. 1 Nr. 3 StGB droht (Träger, MüKoStGB, 4. Aufl. 2023, § 203 Rn. 95).
+*§ 203 StGB*: Der Einsatz des US-KI-Dienstes setzt voraus, dass der Anbieter als "mitwirkende Person" i.S.d. § 203 Abs. 3 Satz 2 StGB qualifiziert wird und eine schriftliche Geheimhaltungsvereinbarung vorliegt. Die AGB-Klausel zum KI-Training macht den Dienst für die Verarbeitung von Mandantendaten unzulässig, da ein unkontrollierter Einsatz des Geheimnisses außerhalb des Mandatszwecks stattfinden würde; Strafbarkeit nach § 203 Abs. 1 Nr. 3 StGB droht (Träger, MüKoStGB, 4. Aufl. 2023, § 203 Rn. 95).
 
 *§ 43a Abs. 2 BRAO*: Ohne informierte Einwilligung des Mandanten und ohne vertragliche Sicherstellung der Nicht-Trainingsnutzung liegt eine berufsrechtliche Pflichtverletzung vor (Henssler, in: Henssler/Prütting, BRAO, 6. Aufl. 2024, § 43a Rn. 68).
 

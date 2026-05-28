@@ -29,7 +29,7 @@ Ungeschriebene Merkmale sind Voraussetzungen, die nicht im Gesetzeswortlaut steh
 
 - **Nebenpflichten § 241 Abs. 2 BGB:** Rücksicht- und Schutzpflichten; judikativ für jede Vertragsbeziehung entwickelt.
 - **Culpa in contrahendo §§ 280 Abs. 1 / 311 Abs. 2 BGB:** Heute kodifiziert, aber Inhalt weiterhin richterrechtlich geprägt.
-- **Wegfall der Geschäftsgrundlage § 313 BGB:** Voraussetzung der „schwerwiegenden Veränderung" ist judikativ ausgefüllt.
+- **Wegfall der Geschäftsgrundlage § 313 BGB:** Voraussetzung der "schwerwiegenden Veränderung" ist judikativ ausgefüllt.
 
 ### Strafrecht
 

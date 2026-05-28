@@ -59,7 +59,7 @@ Prüfung, welches EU-Gericht international zustaendig ist (VO (EU) 1215/2012, Br
 
 - Art. 18 II: Nur am Wohnsitz des Verbrauchers
 
-### „Targeting Test" Art. 17 I c)
+### "Targeting Test" Art. 17 I c)
 
 - Unternehmer richtet Aktivitäten gezielt auf Mitgliedstaat des Verbrauchers
 - Website in Sprache, Waehrung, Versand-Adresse
@@ -82,7 +82,7 @@ Prüfung, welches EU-Gericht international zustaendig ist (VO (EU) 1215/2012, Br
 
 - BGH, Beschl. v. 15.6.2021 — II ZB 35/20: zulaessig
 - EuGH C-537/23 v. 27.2.2025: weitere Anforderungen
-- „A klagt nur in DE, B kann in DE oder am Sitz von A klagen"
+- "A klagt nur in DE, B kann in DE oder am Sitz von A klagen"
 
 ## 7) Ausschließliche Zuständigkeit Art. 24
 

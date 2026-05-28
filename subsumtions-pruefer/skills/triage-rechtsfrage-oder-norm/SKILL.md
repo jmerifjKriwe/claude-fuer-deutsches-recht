@@ -39,7 +39,7 @@ Das System stellt folgende Eingangsfragen:
 
 1. Was haben Sie konkret? Bitte wählen Sie:
    - (A) Konkreter Lebenssachverhalt (Ereignis, Streit, Vertrag, Handlung, Bescheid)
-   - (B) Abstrakte Rechtsfrage (z.B. „Darf mein Arbeitgeber …?")
+   - (B) Abstrakte Rechtsfrage (z.B. "Darf mein Arbeitgeber …?")
    - (C) Ich weiß bereits, welche Norm ich prüfen will
    - (D) Beides: Sachverhalt und Norm
    - (E) Ich weiß es nicht genau — bitte führe mich

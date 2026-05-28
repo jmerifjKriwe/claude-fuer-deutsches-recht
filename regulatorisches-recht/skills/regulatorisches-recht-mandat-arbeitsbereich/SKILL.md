@@ -7,7 +7,7 @@ description: "Regulatorisches Mandat strukturieren und Arbeitsbereich abgrenzen.
 
 ## Zweck
 
-Dieser Skill verwaltet Mandat-Workspaces für Kanzleien mit mehreren Mandanten. Im regulatorischen Recht ist ein „Mandat" typischerweise:
+Dieser Skill verwaltet Mandat-Workspaces für Kanzleien mit mehreren Mandanten. Im regulatorischen Recht ist ein "Mandat" typischerweise:
 - Ein bestimmter Regulierungsakt, zu dem ein Mandant beraten wird (z. B. MaRisk-Novelle-Implementierung)
 - Ein offenes Konsultationsverfahren, für das eine Stellungnahme erstellt wird
 - Eine BaFin-Prüfung oder eine DORA-GAP-Analyse für einen bestimmten Mandanten
@@ -110,7 +110,7 @@ Relevante Berufsrechtsnormen:
 
 - Bestätigung der Aktion (angelegt / gewechselt / geschlossen)
 - Aktueller Workspace-Status
-- Nächster empfohlener Schritt (z. B. „Mandat aktiv – starten Sie mit `/regulatorisches-recht:lücken-aufzeiger`")
+- Nächster empfohlener Schritt (z. B. "Mandat aktiv – starten Sie mit `/regulatorisches-recht:lücken-aufzeiger`")
 
 ## Beispiel
 

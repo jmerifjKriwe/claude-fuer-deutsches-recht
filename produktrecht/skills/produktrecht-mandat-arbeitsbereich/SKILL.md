@@ -51,7 +51,7 @@ Kommentarliteratur nur mit konkretem Datenbankzugriff und geprüftem Pinpoint ve
 
 `CLAUDE.md` der Kanzlei lesen und `## Mandats-Workspaces` prüfen.
 
-- Wenn `Aktiviert: ✗` → dem Nutzer mitteilen: „Mandats-Workspaces sind deaktiviert — Sie sind als In-house-Praxis mit einem einzigen Mandanten konfiguriert; das Plugin arbeitet automatisch auf Basis des Kanzleikontexts. Wenn Sie tatsächlich mandantenübergreifend tätig sind, führen Sie `/produktrecht:produktrecht-kaltstart-interview --redo` durch und wählen eine externe Kanzlei-Einstellung. Andernfalls benötigen Sie `/mandat-workspace` nicht."
+- Wenn `Aktiviert: ✗` → dem Nutzer mitteilen: "Mandats-Workspaces sind deaktiviert — Sie sind als In-house-Praxis mit einem einzigen Mandanten konfiguriert; das Plugin arbeitet automatisch auf Basis des Kanzleikontexts. Wenn Sie tatsächlich mandantenübergreifend tätig sind, führen Sie `/produktrecht:produktrecht-kaltstart-interview --redo` durch und wählen eine externe Kanzlei-Einstellung. Andernfalls benötigen Sie `/mandat-workspace` nicht."
 - Wenn `Aktiviert: ✓` → weiter mit dem angegebenen Unterbefehl.
 
 ### Schritt 1: Unterbefehl erkennen und ausführen
@@ -72,12 +72,12 @@ Auf das erste Argument (Unterbefehl) reagieren:
    - **Mandatstyp** (aus dem Kanzleiprofil; für Produktrecht: Produkt-Launch | Feature-Review | Marketingaussagen-Prüfung | Risikoanalyse | Produktbereich dauerhaft | Sonstiges)
    - **Vertraulichkeitsstufe** (standard | erhöht | Clean-Team — erhöhte Stufe erfordert besondere Vorsicht bei mandatsübergreifenden Einstellungen)
    - **Kernsachverhalt** (2–5 Sätze: Worum geht es? Wer sind die Beteiligten? Was steht auf dem Spiel?)
-   - **Mandatsspezifische Abweichungen** vom Standardprozess (z. B. „Mandant besteht auf 24 Monaten Haftungsbeschränkung statt 12", „Ton: partnerschaftlich — Gegenseite ist strategischer Partner")
+   - **Mandatsspezifische Abweichungen** vom Standardprozess (z. B. "Mandant besteht auf 24 Monaten Haftungsbeschränkung statt 12", "Ton: partnerschaftlich — Gegenseite ist strategischer Partner")
    - **Zusammenhängende Mandate** (Slugs verbundener Vorgänge)
 3. `mandate/<slug>/mandat.md` mit der unten beschriebenen Vorlage anlegen.
-4. `mandate/<slug>/verlauf.md` mit einem „Eröffnet"-Eintrag anlegen.
+4. `mandate/<slug>/verlauf.md` mit einem "Eröffnet"-Eintrag anlegen.
 5. Leere `mandate/<slug>/notizen.md` anlegen.
-6. **Nicht automatisch wechseln.** Fragen: „Möchten Sie jetzt zu `<slug>` wechseln? (`/produktrecht:produktrecht-mandat-arbeitsbereich wechsel <slug>`)"
+6. **Nicht automatisch wechseln.** Fragen: "Möchten Sie jetzt zu `<slug>` wechseln? (`/produktrecht:produktrecht-mandat-arbeitsbereich wechsel <slug>`)"
 
 ### Schritt 3: Liste ausgeben (nur bei `liste`)
 
@@ -86,7 +86,7 @@ Alle `mandate/*/mandat.md` einlesen. Kurze Titelzeile und Statusfelder extrahier
 | Slug | Mandant | Mandatstyp | Status | Eröffnet | Aktiv |
 |---|---|---|---|---|---|
 
-Aktives Mandat mit `*` markieren. Archivierte Mandate unter einer separaten Überschrift „Archiviert" aufführen.
+Aktives Mandat mit `*` markieren. Archivierte Mandate unter einer separaten Überschrift "Archiviert" aufführen.
 
 ### Schritt 4: Mandat wechseln (nur bei `wechsel`)
 
@@ -97,7 +97,7 @@ Aktives Mandat mit `*` markieren. Archivierte Mandate unter einer separaten Übe
 ### Schritt 5: Mandat schließen (nur bei `schließen`)
 
 1. Prüfen, ob `mandate/<slug>/` existiert.
-2. Einen „Geschlossen"-Eintrag mit dem heutigen Datum an `mandate/<slug>/verlauf.md` anhängen.
+2. Einen "Geschlossen"-Eintrag mit dem heutigen Datum an `mandate/<slug>/verlauf.md` anhängen.
 3. `mandate/<slug>/` nach `mandate/_archiviert/<slug>/` verschieben (§ 50 BRAO: Aufbewahrungspflicht beachten — nie löschen).
 4. Wenn das geschlossene Mandat das aktive Mandat war: `Aktives Mandat:` auf `keine — nur Kanzleikontext` setzen.
 
@@ -145,9 +145,9 @@ Aktives Mandat mit `*` markieren. Archivierte Mandate unter einer separaten Übe
 
 *Jede Abweichung vom kanzleiweiten Standard, die nur für dieses Mandat gilt.*
 
-- [z. B. „Haftungsbeschränkung: Mandant besteht auf 24 Monaten statt Kanzleistandard 12 Monate."]
-- [z. B. „Ton: partnerschaftlich — Gegenseite ist strategischer Partner."]
-- [z. B. „Rechtsstand: österreichisches Recht statt deutschem."]
+- [z. B. "Haftungsbeschränkung: Mandant besteht auf 24 Monaten statt Kanzleistandard 12 Monate."]
+- [z. B. "Ton: partnerschaftlich — Gegenseite ist strategischer Partner."]
+- [z. B. "Rechtsstand: österreichisches Recht statt deutschem."]
 
 ## Zusammenhängende Mandate
 
@@ -170,7 +170,7 @@ Anhängendes Ereignisprotokoll. Neuestes oben.
 ## [JJJJ-MM-TT] — Mandat eröffnet
 
 Aufnahme abgeschlossen. Slug: `[slug]`. Status: aktiv.
-[Anfangskontext, der über mandat.md hinausgeht — z. B. „Eröffnet auf Basis des eingehenden PRD-Entwurfs von [Gegenseite]."]
+[Anfangskontext, der über mandat.md hinausgeht — z. B. "Eröffnet auf Basis des eingehenden PRD-Entwurfs von [Gegenseite]."]
 ```
 
 ## Beispiel

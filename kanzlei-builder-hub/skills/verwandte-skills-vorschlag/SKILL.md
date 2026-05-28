@@ -69,9 +69,9 @@ Basierend auf der Aufgabenbeschreibung passende Skills in den Registries suchen:
 ### Schritt 3: Ausgabe
 
 **Bei starker Übereinstimmung:**
-> 💡 Die Community hat einen Skill dafür: **[Name]** aus [Registry] — „[Beschreibung]". `/kanzlei-builder-hub:skill-installierer [name]` zum Ausprobieren.
+> 💡 Die Community hat einen Skill dafür: **[Name]** aus [Registry] — "[Beschreibung]". `/kanzlei-builder-hub:skill-installierer [name]` zum Ausprobieren.
 
-**Bei keiner starken Übereinstimmung:** Keine Ausgabe. Nicht ankündigen „Ich habe nichts gefunden."
+**Bei keiner starken Übereinstimmung:** Keine Ausgabe. Nicht ankündigen "Ich habe nichts gefunden."
 
 ### Schritt 4: Häufigkeitsbegrenzung
 
@@ -87,7 +87,7 @@ Gemäß `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hu
 ### Kanzlei-spezifische Hinweise im Surfacing
 
 Wenn ein vorgeschlagener Skill Mandantendaten verarbeiten könnte, folgenden Hinweis ergänzen:
-> „Vor der Installation: Prüfen Sie, ob dieser Skill Mandantendaten verarbeitet. Falls ja, ist eine Auftragsverarbeitung nach Art. 28 DSGVO sowie eine TOM-Prüfung nach Art. 32 DSGVO erforderlich."
+> "Vor der Installation: Prüfen Sie, ob dieser Skill Mandantendaten verarbeitet. Falls ja, ist eine Auftragsverarbeitung nach Art. 28 DSGVO sowie eine TOM-Prüfung nach Art. 32 DSGVO erforderlich."
 
 ## Quellen und Zitierweise
 
@@ -102,7 +102,7 @@ Keine direkten Rechtsnormen in diesem Skill. Bei Empfehlungen datenschutzrelevan
 Maximal ein kurzer einzeiliger Hinweis nach einer Aufgabe. Nie mehr als zwei Skills gleichzeitig empfehlen — wenn mehrere passen, den am besten passenden auswählen.
 
 Format:
-> 💡 Die Community hat einen Skill dafür: **[Name]** aus [Registry] — „[Kurzbeschreibung in einem Satz]". `/kanzlei-builder-hub:skill-installierer [name]` zum Ansehen.
+> 💡 Die Community hat einen Skill dafür: **[Name]** aus [Registry] — "[Kurzbeschreibung in einem Satz]". `/kanzlei-builder-hub:skill-installierer [name]` zum Ansehen.
 
 ## Entscheidungsbaum am Ende
 
@@ -121,7 +121,7 @@ Mit dem Nächste-Schritte-Entscheidungsbaum gemäß `CLAUDE.md` → `## Ausgaben
 [Nach Vertragsreview mit NDAs]
 
 💡 Die Community hat einen Skill dafür: **nda-prüfung** aus kanzlei-skills —
-„Prüft Geheimhaltungsvereinbarungen auf typische Risikopunkte nach deutschem Recht."
+"Prüft Geheimhaltungsvereinbarungen auf typische Risikopunkte nach deutschem Recht."
 /kanzlei-builder-hub:skill-installierer nda-prüfung zum Ansehen.
 ```
 
@@ -129,7 +129,7 @@ Mit dem Nächste-Schritte-Entscheidungsbaum gemäß `CLAUDE.md` → `## Ausgaben
 [Nach DSGVO-Aufgabe]
 
 💡 Die Community hat einen Skill dafür: **avv-generator** aus kanzlei-datenschutz-skills —
-„Generiert Auftragsverarbeitungsverträge nach Art. 28 DSGVO."
+"Generiert Auftragsverarbeitungsverträge nach Art. 28 DSGVO."
 /kanzlei-builder-hub:skill-installierer avv-generator zum Ansehen.
 
 Hinweis: Vor der Installation — dieser Skill verarbeitet Mandantendaten. TOM-Prüfung nach

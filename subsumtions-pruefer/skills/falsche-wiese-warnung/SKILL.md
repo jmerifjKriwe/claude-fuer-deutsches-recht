@@ -15,7 +15,7 @@ description: "Warnt vor typischen Falschverortungen im Recht: Vertrag statt Deli
 
 ## Zweck
 
-„Auf der falschen Wiese grasen" ist ein klassisches Problem der Rechtsanwendung: Man prüft eine Norm sorgfältig und korrekt — aber die falsche Norm. Dieser Skill kann auf typische Muster hinweisen und Nutzereingaben einer Plausibilitätskontrolle unterziehen.
+"Auf der falschen Wiese grasen" ist ein klassisches Problem der Rechtsanwendung: Man prüft eine Norm sorgfältig und korrekt — aber die falsche Norm. Dieser Skill kann auf typische Muster hinweisen und Nutzereingaben einer Plausibilitätskontrolle unterziehen.
 
 Dieser Skill wird automatisch oder auf Anforderung aktiviert, wenn der Sachverhalt oder die gewählte Norm Anzeichen einer Fehlverortung enthält.
 
@@ -42,7 +42,7 @@ Dieser Skill wird automatisch oder auf Anforderung aktiviert, wenn der Sachverha
 
 **Indizien für Fehlverortung:** Keine Willenserklärungen beschrieben; kein Vertragsschluss erwähnt; Handlung ist einseitig schädigend ohne Vertragsbezug.
 
-**Hinweis des Systems:** „Ihr Sachverhalt enthält keinen erkennbaren Vertragsschluss. Bitte prüfen Sie, ob eine deliktische Anspruchsgrundlage (§ 823 Abs. 1 oder Abs. 2 BGB, § 826 BGB) primär einschlägig ist."
+**Hinweis des Systems:** "Ihr Sachverhalt enthält keinen erkennbaren Vertragsschluss. Bitte prüfen Sie, ob eine deliktische Anspruchsgrundlage (§ 823 Abs. 1 oder Abs. 2 BGB, § 826 BGB) primär einschlägig ist."
 
 ### 2. Verwaltungsakt statt Realakt
 
@@ -61,13 +61,13 @@ Hat das staatliche Handeln Regelungscharakter (§ 35 VwVfG)?
 
 **Muster:** Nutzer prüft § 303 StGB (Sachbeschädigung), obwohl es sich um eine Ordnungswidrigkeit nach OWiG handeln könnte.
 
-**Hinweis des Systems:** „Prüfen Sie zunächst, ob der Sachverhalt eine Ordnungswidrigkeit nach dem OWiG oder einem Nebengesetz erfüllt. Tateinheit: § 21 OWiG — Strafrecht geht OWiG vor."
+**Hinweis des Systems:** "Prüfen Sie zunächst, ob der Sachverhalt eine Ordnungswidrigkeit nach dem OWiG oder einem Nebengesetz erfüllt. Tateinheit: § 21 OWiG — Strafrecht geht OWiG vor."
 
 ### 4. Unionsrecht statt nationales Recht (oder umgekehrt)
 
 **Muster:** Nutzer prüft nationales Datenschutzgesetz (BDSG), obwohl die DSGVO als EU-Verordnung unmittelbar gilt.
 
-**Hinweis des Systems:** „Bitte prüfen Sie, ob Unionsrecht (Verordnung mit unmittelbarer Geltung oder richtlinienkonforme Auslegung) vorgeht. Der Anwendungsvorrang des Unionsrechts verdrängt entgegenstehendes nationales Recht (EuGH, Rs. Costa/ENEL; EuGH C-507/17)."
+**Hinweis des Systems:** "Bitte prüfen Sie, ob Unionsrecht (Verordnung mit unmittelbarer Geltung oder richtlinienkonforme Auslegung) vorgeht. Der Anwendungsvorrang des Unionsrechts verdrängt entgegenstehendes nationales Recht (EuGH, Rs. Costa/ENEL; EuGH C-507/17)."
 
 ### 5. Weitere typische Muster
 

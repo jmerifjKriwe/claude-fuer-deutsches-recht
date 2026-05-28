@@ -262,11 +262,11 @@ kann keine Rede sein.
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „Schaden entstand nicht bei uns, sondern beim Unterfrachtführer" | CMR Art. 3: Frachtführer haftet für alle eingesetzten Personen wie für eigenes Handeln; Regress gegen Unterfrachtführer CMR Art. 37 |
-| „ADSp schränkt unsere Haftung auf 8.33 SZR/kg ein" | § 449 HGB: ADSp-Haftungsbeschränkungen gelten nicht bei qualifiziertem Verschulden; § 435 HGB geht vor |
-| „Eigene Versicherung hat gezahlt; kein Schaden mehr" | § 86 VVG: Versicherung tritt in Ansprüche ein; Direktanspruch gegen Frachtführer bleibt bestehen |
-| „Ware war für Transportart ungeeignet" | Frachtführer muss Ungeeignetheit vor Übernahme rügen und Beförderung ablehnen; stillschweigende Übernahme schließt Einwand aus (BGH I ZR 239/14) |
-| „Wir haben keine Leichtfertigkeit begangen" | BGH I ZR 95/05: fehlender Scan bei Eingangskontrolle genügt; Frachtführer muss sein Kontrollsystem vollständig darlegen |
+| "Schaden entstand nicht bei uns, sondern beim Unterfrachtführer" | CMR Art. 3: Frachtführer haftet für alle eingesetzten Personen wie für eigenes Handeln; Regress gegen Unterfrachtführer CMR Art. 37 |
+| "ADSp schränkt unsere Haftung auf 8.33 SZR/kg ein" | § 449 HGB: ADSp-Haftungsbeschränkungen gelten nicht bei qualifiziertem Verschulden; § 435 HGB geht vor |
+| "Eigene Versicherung hat gezahlt; kein Schaden mehr" | § 86 VVG: Versicherung tritt in Ansprüche ein; Direktanspruch gegen Frachtführer bleibt bestehen |
+| "Ware war für Transportart ungeeignet" | Frachtführer muss Ungeeignetheit vor Übernahme rügen und Beförderung ablehnen; stillschweigende Übernahme schließt Einwand aus (BGH I ZR 239/14) |
+| "Wir haben keine Leichtfertigkeit begangen" | BGH I ZR 95/05: fehlender Scan bei Eingangskontrolle genügt; Frachtführer muss sein Kontrollsystem vollständig darlegen |
 
 ---
 

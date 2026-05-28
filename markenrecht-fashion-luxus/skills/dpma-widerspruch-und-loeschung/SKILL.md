@@ -67,14 +67,14 @@ Das DPMA-Widerspruchsverfahren ist günstiger als ein EUIPO-Widerspruch, aber ni
 
 ## Falltypische Konstellationen
 
-### Konstellation 1: Brezelmann DPMA-Anmeldung „KLÖTZE-KETTÉ"
+### Konstellation 1: Brezelmann DPMA-Anmeldung "KLÖTZE-KETTÉ"
 Brezelmann Discount KG meldet in Klasse 25 an. Widerspruch von klôtzzkètté auf Basis DPMA-Wortmarke-Eintragung. Zeichenähnlichkeit: klanglich nahezu identisch (Klötze-Ketté / klôtzzkètté). Warenidentität Klasse 25. Prognose: Widerspruch erfolgreich.
 
 ### Konstellation 2: Gegnermarke 7 Jahre ohne Benutzung
-Ältere DPMA-Marke „KLOTZ" in Klasse 14 wird gegen klôtzzkètté-Neuanmeldung ins Feld geführt. Recherche: Kein Produkt des Inhabers am Markt seit 8 Jahren. Strategie: Gleichzeitig Widerspruchsabwehr (keine Kollision) und Löschungsantrag § 49 MarkenG gegen die Gegnermarke.
+Ältere DPMA-Marke "KLOTZ" in Klasse 14 wird gegen klôtzzkètté-Neuanmeldung ins Feld geführt. Recherche: Kein Produkt des Inhabers am Markt seit 8 Jahren. Strategie: Gleichzeitig Widerspruchsabwehr (keine Kollision) und Löschungsantrag § 49 MarkenG gegen die Gegnermarke.
 
 ### Konstellation 3: Bösgläubige Vorratsanmeldung durch Händler
-Ein ehemaliger Vertragshändler meldet „klotzkette" in Klasse 35 beim DPMA an — kurz nachdem die Geschäftsbeziehung gekündigt wurde. Nichtigkeitsantrag gem. § 50 II Nr. 4 MarkenG i.V.m. § 8 II Nr. 14 MarkenG (bösgläubige Anmeldung). Beweislage: Kündigungsschreiben, Zeitpunkt der Anmeldung, fehlende eigene Nutzungsabsicht.
+Ein ehemaliger Vertragshändler meldet "klotzkette" in Klasse 35 beim DPMA an — kurz nachdem die Geschäftsbeziehung gekündigt wurde. Nichtigkeitsantrag gem. § 50 II Nr. 4 MarkenG i.V.m. § 8 II Nr. 14 MarkenG (bösgläubige Anmeldung). Beweislage: Kündigungsschreiben, Zeitpunkt der Anmeldung, fehlende eigene Nutzungsabsicht.
 
 ## Belege & Kommentare
 
@@ -93,7 +93,7 @@ An das Deutsche Patent- und Markenamt
 Dienststelle Jena / Münchener Markenstelle
 80297 München
 
-Widerspruch gegen Eintragung Aktenzeichen [...] (Marke „[...]")
+Widerspruch gegen Eintragung Aktenzeichen [...] (Marke "[...]")
 
 Widersprechende: klôtzzkètté SA, Paris — vertreten durch RA'in [Name]
 Ältere Marke(n): DPMA-Reg.-Nr. [...] (Wortmarke klôtzzkètté, Kl. 25)

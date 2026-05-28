@@ -11,7 +11,7 @@ Das Bundesarbeitsgericht stellt mit der Entscheidung vom 3. Juni 2025 (Az. 9 AZR
 
 ## Bedeutung für die Praxis
 
-Die Entscheidung trifft die Praxis bei jedem Aufhebungsvertrag und jedem Prozessvergleich. Pauschale Ausgleichs-, Erledigungs- und Abgeltungsklauseln vom Typ „mit Erfüllung dieses Vergleichs sind sämtliche Ansprüche aus dem Arbeitsverhältnis abgegolten" sind hinsichtlich des gesetzlichen Mindesturlaubs unwirksam. Der Arbeitnehmer kann den Urlaubsabgeltungsanspruch nach Paragraf 7 Absatz 4 BUrlG auch nach Vergleichsabschluss noch geltend machen.
+Die Entscheidung trifft die Praxis bei jedem Aufhebungsvertrag und jedem Prozessvergleich. Pauschale Ausgleichs-, Erledigungs- und Abgeltungsklauseln vom Typ "mit Erfüllung dieses Vergleichs sind sämtliche Ansprüche aus dem Arbeitsverhältnis abgegolten" sind hinsichtlich des gesetzlichen Mindesturlaubs unwirksam. Der Arbeitnehmer kann den Urlaubsabgeltungsanspruch nach Paragraf 7 Absatz 4 BUrlG auch nach Vergleichsabschluss noch geltend machen.
 
 Die saubere Vergleichsformulierung trennt drei Schichten: gesetzlichen Mindesturlaub (Paragraf 3 BUrlG, unabdingbar nach Paragraf 13 Absatz 1 BUrlG), vertraglichen Mehrurlaub (frei verhandelbar), und bereits entstandene Urlaubsabgeltung (nach Beendigung des Arbeitsverhältnisses dispositiv).
 
@@ -35,9 +35,9 @@ Die Parteien sind sich darüber einig, dass das Arbeitsverhältnis zum [Datum] e
 
 | Formulierung | Problem |
 | --- | --- |
-| „Mit Erfüllung dieses Vergleichs sind alle Urlaubsansprüche abgegolten." | Pauschal, erfasst gesetzlichen Mindesturlaub unwirksam |
-| „Der Kläger verzichtet auf sämtliche restlichen Urlaubsansprüche." | Verzicht im bestehenden Arbeitsverhältnis unwirksam |
-| „Etwaige Urlaubsabgeltungsansprüche sind mit der Abfindung abgegolten." | Trennung Mindesturlaub und Mehrurlaub fehlt, Abgeltung muss konkret beziffert sein |
+| "Mit Erfüllung dieses Vergleichs sind alle Urlaubsansprüche abgegolten." | Pauschal, erfasst gesetzlichen Mindesturlaub unwirksam |
+| "Der Kläger verzichtet auf sämtliche restlichen Urlaubsansprüche." | Verzicht im bestehenden Arbeitsverhältnis unwirksam |
+| "Etwaige Urlaubsabgeltungsansprüche sind mit der Abfindung abgegolten." | Trennung Mindesturlaub und Mehrurlaub fehlt, Abgeltung muss konkret beziffert sein |
 
 ## Rechtsfolgen
 

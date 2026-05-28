@@ -46,7 +46,7 @@ Wohn- oder Gewerberäume vom Schuldner herausverlangen. Hier kollidieren Eigentu
 
 - Seit 2013 ausdrücklich gesetzlich geregelt.
 - Gläubiger ist Vermieter mit Pfandrecht § 562 BGB.
-- Auftrag explizit beschränkt: „nur Herausgabe der Räume, keine Wegschaffung der Sachen".
+- Auftrag explizit beschränkt: "nur Herausgabe der Räume, keine Wegschaffung der Sachen".
 - Reduziert Kosten erheblich; trotzdem GV-Auftrag erforderlich.
 - Verwertung des Pfandgutes über pfandweisen Verkauf, Versteigerung oder freihändig.
 

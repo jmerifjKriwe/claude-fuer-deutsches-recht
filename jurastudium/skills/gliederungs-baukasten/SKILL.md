@@ -67,11 +67,11 @@ Das Gerüst entsteht aus dem einschlägigen Pflichtstoffkatalog und dem Inhaltsv
 
 **Wenn der Studierende Quellen einfügt** (Skript-Abschnitt, Notizen, Kommentarauszug): Regel und Definition aus dem bereitgestellten Text extrahieren und in das Gerüst integrieren. Das ist kein Schreiben für den Studierenden, sondern Formatierung des Bereitgestellten.
 
-**Wenn der Studierende keine Quelle liefert**: Gerüst mit Platzhalter belassen + Maieut-Fragen stellen (z. B. „Was hat der Professor zu § 119 BGB gesagt?", „Welche Fallgruppe nennt das Skript hier?"). Falls der Studierende ausdrücklich eine vorläufige Ausfüllung wünscht, kann ein Lehrbuch-Mehrheitsmeinung eingetragen werden — jede solche Angabe erhält `[PRÜFEN: gegen Skript / Kommentar abgleichen]`.
+**Wenn der Studierende keine Quelle liefert**: Gerüst mit Platzhalter belassen + Maieut-Fragen stellen (z. B. "Was hat der Professor zu § 119 BGB gesagt?", "Welche Fallgruppe nennt das Skript hier?"). Falls der Studierende ausdrücklich eine vorläufige Ausfüllung wünscht, kann ein Lehrbuch-Mehrheitsmeinung eingetragen werden — jede solche Angabe erhält `[PRÜFEN: gegen Skript / Kommentar abgleichen]`.
 
 **Regelwiderspruch in eigenen Materialien**: Wenn die vom Studierenden genannte Regel dem widerspricht, was in einer früher hochgeladenen Quelle steht:
 
-> „Das weicht von Ihrer Notiz bei [Abschnitt/Quelle] ab — dort steht: [wörtliches Zitat]. Welche Fassung ist die zutreffende?"
+> "Das weicht von Ihrer Notiz bei [Abschnitt/Quelle] ab — dort steht: [wörtliches Zitat]. Welche Fassung ist die zutreffende?"
 
 Das ist kein Einwurf aus eigenem Wissen, sondern Konfrontation mit eigenen Materialien.
 
@@ -86,7 +86,7 @@ Das ist kein Einwurf aus eigenem Wissen, sondern Konfrontation mit eigenen Mater
 
 ### Schritt 5: Drill-Modus (optional)
 
-Nach Fertigstellung eines Abschnitts: „Gliederung schließen. Frage: [konkreter Sachverhalt aus dem bearbeiteten Abschnitt]." Testen, ob der Aufbau den Kopf erreicht hat oder nur das Dokument.
+Nach Fertigstellung eines Abschnitts: "Gliederung schließen. Frage: [konkreter Sachverhalt aus dem bearbeiteten Abschnitt]." Testen, ob der Aufbau den Kopf erreicht hat oder nur das Dokument.
 
 ## Ausgabeformat
 
@@ -124,7 +124,7 @@ Anspruch aus § 280 Abs. 1 BGB?
 
 ## Beispiel
 
-**Auftrag:** „Gliederung für BGB Schuldrecht AT aufbauen, Schwerpunkt Leistungsstörungsrecht."
+**Auftrag:** "Gliederung für BGB Schuldrecht AT aufbauen, Schwerpunkt Leistungsstörungsrecht."
 
 **Ergebnis (Gerüst, erste Ebene):**
 ```
@@ -142,7 +142,7 @@ C. Besondere Leistungspflichten (§ 241 Abs. 2 BGB)
 D. Rücktritt (§§ 323 ff. BGB) [LÜCKE]
 ```
 
-**Sokrates-Frage danach:** „Schließen Sie die Gliederung. — Was sind die Voraussetzungen des Schuldnerverzugs nach § 286 BGB? Bitte alle vier."
+**Sokrates-Frage danach:** "Schließen Sie die Gliederung. — Was sind die Voraussetzungen des Schuldnerverzugs nach § 286 BGB? Bitte alle vier."
 
 ## Risiken und typische Fehler
 

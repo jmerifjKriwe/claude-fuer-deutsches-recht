@@ -1,6 +1,6 @@
 ---
 name: aenderungs-historie
-description: "Verfolgt, wie sich ein Vertrag über Basisvertrag und alle Nachträge hinweg verändert hat – entweder als Gesamtüberblick aller Änderungen oder als Klausel-Rückverfolgung für eine bestimmte Bestimmung. Laden, wenn der Nutzer fragt „was hat sich in diesem Vertrag geändert\", „zeig mir die Nachtragshistorie\", „wo steht die aktuelle [Klausel]\" oder mehrere Vertragsversionen hochlädt."
+description: "Verfolgt, wie sich ein Vertrag über Basisvertrag und alle Nachträge hinweg verändert hat – entweder als Gesamtüberblick aller Änderungen oder als Klausel-Rückverfolgung für eine bestimmte Bestimmung. Laden, wenn der Nutzer fragt "was hat sich in diesem Vertrag geändert\", "zeig mir die Nachtragshistorie\", "wo steht die aktuelle [Klausel]\" oder mehrere Vertragsversionen hochlädt."
 ---
 
 # Nachtragsverwaltung
@@ -46,7 +46,7 @@ Verträge sammeln über die Zeit Nachträge an. Spätestens beim dritten Nachtra
 
 ## Akten-Kontext
 
-Falls Akten-Arbeitsbereiche aktiviert sind (Kanzleibetrieb), die aktive Akte prüfen. Wenn keine aktive Akte vorhanden: „Für welche Akte ist das? `/vertragsrecht:vertragsrecht-mandat-arbeitsbereich wechsel <kürzel>` ausführen oder `praxisebene` angeben." Ausgaben in den Akten-Ordner schreiben. Nie eine andere Akte lesen, solange der aktenübergreifende Kontext nicht eingeschaltet ist.
+Falls Akten-Arbeitsbereiche aktiviert sind (Kanzleibetrieb), die aktive Akte prüfen. Wenn keine aktive Akte vorhanden: "Für welche Akte ist das? `/vertragsrecht:vertragsrecht-mandat-arbeitsbereich wechsel <kürzel>` ausführen oder `praxisebene` angeben." Ausgaben in den Akten-Ordner schreiben. Nie eine andere Akte lesen, solange der aktenübergreifende Kontext nicht eingeschaltet ist.
 
 ## Ablauf
 
@@ -54,7 +54,7 @@ Falls Akten-Arbeitsbereiche aktiviert sind (Kanzleibetrieb), die aktive Akte pr�
 
 Dokumente aus folgenden Quellen akzeptieren:
 
-**Direkter Upload:** Nutzer stellt Dateien direkt bereit. In den meisten Fällen ergibt sich die Reihenfolge aus Dokumenttiteln (z. B. „Nachtrag Nr. 1", „Zweiter Nachtrag", „Nachtrag A") oder Daten im Dateinamen oder Dokumentkopf.
+**Direkter Upload:** Nutzer stellt Dateien direkt bereit. In den meisten Fällen ergibt sich die Reihenfolge aus Dokumenttiteln (z. B. "Nachtrag Nr. 1", "Zweiter Nachtrag", "Nachtrag A") oder Daten im Dateinamen oder Dokumentkopf.
 
 **Reihenfolge nur fragen, wenn:**
 - Dateinamen keinen Hinweis auf Reihenfolge geben
@@ -62,7 +62,7 @@ Dokumente aus folgenden Quellen akzeptieren:
 - Zwei Dokumente offenbar dieselbe Nachtragsfassung sind
 
 Wenn Reihenfolge erschlossen wurde statt bestätigt:
-> „Reihenfolge aus Dokumenttiteln erschlossen – bei [spezifischem Dokument] war ich weniger sicher. Bitte bestätigen, falls dies Ihre Prüfung betrifft."
+> "Reihenfolge aus Dokumenttiteln erschlossen – bei [spezifischem Dokument] war ich weniger sicher. Bitte bestätigen, falls dies Ihre Prüfung betrifft."
 
 **Ordnungsregeln:**
 - Immer chronologische Reihenfolge festlegen, bevor Inhalt gelesen wird.
@@ -75,23 +75,23 @@ Wenn Reihenfolge erschlossen wurde statt bestätigt:
 Anhand der Anfrage bestimmen, welcher Modus zu nutzen ist. Nur bei echter Mehrdeutigkeit fragen.
 
 **Modus 1 – Gesamtübersicht** (keine bestimmte Klausel genannt)
-Auslöse-Formulierungen: „was hat sich geändert", „Nachtragshistorie", „Änderungen im Zeitverlauf", „Nachträge zusammenfassen", „wie sieht der Vertrag jetzt aus"
+Auslöse-Formulierungen: "was hat sich geändert", "Nachtragshistorie", "Änderungen im Zeitverlauf", "Nachträge zusammenfassen", "wie sieht der Vertrag jetzt aus"
 
 **Modus 2 – Klausel-Rückverfolgung** (bestimmte Klausel oder Thema genannt)
-Auslöse-Formulierungen: „wo steht die [Klausel]", „aktuelle [Bestimmung]", „wie hat sich [Begriff] geändert", „finde die Haftungsklausel", „was steht jetzt zu [Thema]"
+Auslöse-Formulierungen: "wo steht die [Klausel]", "aktuelle [Bestimmung]", "wie hat sich [Begriff] geändert", "finde die Haftungsklausel", "was steht jetzt zu [Thema]"
 
 Häufige Klausel-Zuordnungen:
-- „Haftung" / „Haftungsbegrenzung" → Haftungsbeschränkungsklausel
-- „Freistellung" / „Indemnity" → Freistellungsklausel
-- „Kündigung" → Laufzeit und Kündigung
-- „Daten" / „Datenschutz" / „AVV" → Datenschutzbestimmungen
-- „IP" / „geistiges Eigentum" / „Nutzungsrechte" → IP-Bestimmungen
-- „Preis" / „Vergütung" / „Zahlung" → Vergütungsregelungen
-- „Verlängerung" / „Laufzeit" → Verlängerungsmechanismus
-- „Vertragsstrafe" → § 339 BGB-Klausel
+- "Haftung" / "Haftungsbegrenzung" → Haftungsbeschränkungsklausel
+- "Freistellung" / "Indemnity" → Freistellungsklausel
+- "Kündigung" → Laufzeit und Kündigung
+- "Daten" / "Datenschutz" / "AVV" → Datenschutzbestimmungen
+- "IP" / "geistiges Eigentum" / "Nutzungsrechte" → IP-Bestimmungen
+- "Preis" / "Vergütung" / "Zahlung" → Vergütungsregelungen
+- "Verlängerung" / "Laufzeit" → Verlängerungsmechanismus
+- "Vertragsstrafe" → § 339 BGB-Klausel
 
 Bei echter Mehrdeutigkeit eine Frage stellen:
-> „Gesamtübersicht aller Änderungen, oder eine bestimmte Klausel verfolgen – z. B. Haftung, Kündigung oder Vergütung?"
+> "Gesamtübersicht aller Änderungen, oder eine bestimmte Klausel verfolgen – z. B. Haftung, Kündigung oder Vergütung?"
 
 ### Schritt 3: Lesen und indexieren
 
@@ -109,10 +109,10 @@ Einen internen Arbeitsindex aufbauen, bevor eine Ausgabe erstellt wird. Intern n
 
 Jeder Befund muss einen Inline-Abschnittsverweis enthalten, damit der Leser die Quelle prüfen kann, ohne zu suchen:
 
-  „Ordentliche Kündigung (§ 12 Abs. 3): Neu eingefügt. Auftraggeber kann mit 3 Monaten Frist kündigen, keine Vergütungsnachzahlung nach Ablauf der Erstlaufzeit."
+  "Ordentliche Kündigung (§ 12 Abs. 3): Neu eingefügt. Auftraggeber kann mit 3 Monaten Frist kündigen, keine Vergütungsnachzahlung nach Ablauf der Erstlaufzeit."
 
 Falls eine Bestimmung mehrere Abschnitte überspannt oder die Abschnittsnummer über Nachträge geändert wurde, alle Verweise zitieren:
-  „Haftungsbegrenzung (§ 9 Abs. 1 Basisvertrag; § 9 Abs. 1 neu gefasst in Nachtrag 3)"
+  "Haftungsbegrenzung (§ 9 Abs. 1 Basisvertrag; § 9 Abs. 1 neu gefasst in Nachtrag 3)"
 
 ### Ausgabeformat
 
@@ -168,7 +168,7 @@ Nur änderungen zeigen. Nachträge, in denen die Bestimmung unberührt blieb, vo
 ---
 
 ### Ursprung – Basisvertrag [Datum], §[X.X]
-> „[wörtliches Zitat]"
+> "[wörtliches Zitat]"
 
 *Klartext:* [ein Satz]
 
@@ -177,10 +177,10 @@ Nur änderungen zeigen. Nachträge, in denen die Bestimmung unberührt blieb, vo
 ### Nachtrag [N] – [Datum], §[X.X]
 
 **Vorher:**
-> „[wörtliches Zitat der vorherigen Fassung]"
+> "[wörtliches Zitat der vorherigen Fassung]"
 
 **Jetzt:**
-> „[wörtliches Zitat der Ersatzformulierung]"
+> "[wörtliches Zitat der Ersatzformulierung]"
 
 *Was sich geändert hat:* [ein Satz – praktische Auswirkung auf die Parteien]
 
@@ -193,7 +193,7 @@ Nur änderungen zeigen. Nachträge, in denen die Bestimmung unberührt blieb, vo
 ## Aktuell geltende Formulierung
 
 **§[X.X] – [Quelle, Datum]**
-> „[wörtliches Zitat]"
+> "[wörtliches Zitat]"
 
 *Klartext:* [ein Satz]
 
@@ -204,7 +204,7 @@ Nur änderungen zeigen. Nachträge, in denen die Bestimmung unberührt blieb, vo
 ```
 
 Falls die Bestimmung nach dem Basisvertrag nie geändert wurde:
-> „Diese Bestimmung wurde durch keinen Nachtrag geändert. Die ursprüngliche Formulierung gilt. §[X.X], Basisvertrag, [Datum]."
+> "Diese Bestimmung wurde durch keinen Nachtrag geändert. Die ursprüngliche Formulierung gilt. §[X.X], Basisvertrag, [Datum]."
 
 ## Ausgabeformat
 
@@ -226,16 +226,16 @@ Kommentare:
 
 ## Beispiel
 
-**Anfrage:** „Nachtrag 2 zum Softwarepflegevertrag mit Acme GmbH – was hat sich bei der Haftungsklausel geändert?"
+**Anfrage:** "Nachtrag 2 zum Softwarepflegevertrag mit Acme GmbH – was hat sich bei der Haftungsklausel geändert?"
 
 **Klausel-Rückverfolgung – Haftungsbegrenzung (§ 8)**
 
 *Basisvertrag, 01.03.2021, § 8 Abs. 1:*
-> „Die Haftung des Auftragnehmers ist der Höhe nach auf die im letzten Vertragsjahr gezahlte Jahresvergütung begrenzt."
+> "Die Haftung des Auftragnehmers ist der Höhe nach auf die im letzten Vertragsjahr gezahlte Jahresvergütung begrenzt."
 
 *Nachtrag 1, 15.11.2022, § 8 Abs. 1 (neu gefasst):*
 Vorher: s. o. | Jetzt:
-> „Die Haftung des Auftragnehmers ist auf das Zweifache der im letzten Vertragsjahr gezahlten Jahresvergütung begrenzt. Hiervon ausgenommen ist die Haftung für Vorsatz und grobe Fahrlässigkeit sowie für Schäden aus der Verletzung von Leben, Körper oder Gesundheit."
+> "Die Haftung des Auftragnehmers ist auf das Zweifache der im letzten Vertragsjahr gezahlten Jahresvergütung begrenzt. Hiervon ausgenommen ist die Haftung für Vorsatz und grobe Fahrlässigkeit sowie für Schäden aus der Verletzung von Leben, Körper oder Gesundheit."
 
 *Was sich geändert hat:* Haftungsdeckel wurde von einfacher auf doppelte Jahresvergütung angehoben; Kardinalpflichten-/Verletzung von Leben/Körper/Gesundheit-Ausnahmen normkonform (§ 309 Nr. 7 BGB) ergänzt. `[Trainingswissen – prüfen]`
 

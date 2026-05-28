@@ -5,11 +5,11 @@ description: "RDG-Prüfung ob KI-Chatbot unerlaubte Rechtsdienstleistung erbring
 
 # RDG-Prüfung Chatbot
 
-Die Frage, ob ein KI-Chatbot „Rechtsdienstleistungen" im Sinne des Rechtsdienstleistungsgesetzes (RDG) erbringt, ist für Kanzleien in mehrfacher Hinsicht relevant: für die eigene Nutzung durch anwaltliche und nicht-anwaltliche Mitarbeitende sowie für die Beratung von Mandanten, die KI-gestützte Rechtsservices anbieten oder nutzen.
+Die Frage, ob ein KI-Chatbot "Rechtsdienstleistungen" im Sinne des Rechtsdienstleistungsgesetzes (RDG) erbringt, ist für Kanzleien in mehrfacher Hinsicht relevant: für die eigene Nutzung durch anwaltliche und nicht-anwaltliche Mitarbeitende sowie für die Beratung von Mandanten, die KI-gestützte Rechtsservices anbieten oder nutzen.
 
 ## Rechtlicher Hintergrund
 
-§ 2 Abs. 1 RDG: Rechtsdienstleistung ist „jede Tätigkeit in konkreten fremden Angelegenheiten, sobald sie eine rechtliche Prüfung des Einzelfalls erfordert." § 3 RDG: Erlaubnispflicht für Rechtsdienstleistungen. BGH, Urteil vom 9. September 2021 — I ZR 113/20 (smartlaw): Der BGH hat entschieden, dass der Online-Dokumentengenerator smartlaw Rechtsdienstleistungen erbringt, die dem anwaltlichen Beratungsmonopol unterliegen. Diese Entscheidung ist auf KI-gestützte Rechtsservices übertragbar, wenn diese eine einzelfallbezogene rechtliche Prüfung vornehmen. § 5 RDG: Erlaubte Rechtsdienstleistungen als Nebenleistung.
+§ 2 Abs. 1 RDG: Rechtsdienstleistung ist "jede Tätigkeit in konkreten fremden Angelegenheiten, sobald sie eine rechtliche Prüfung des Einzelfalls erfordert." § 3 RDG: Erlaubnispflicht für Rechtsdienstleistungen. BGH, Urteil vom 9. September 2021 — I ZR 113/20 (smartlaw): Der BGH hat entschieden, dass der Online-Dokumentengenerator smartlaw Rechtsdienstleistungen erbringt, die dem anwaltlichen Beratungsmonopol unterliegen. Diese Entscheidung ist auf KI-gestützte Rechtsservices übertragbar, wenn diese eine einzelfallbezogene rechtliche Prüfung vornehmen. § 5 RDG: Erlaubte Rechtsdienstleistungen als Nebenleistung.
 
 ## Vorgehen
 

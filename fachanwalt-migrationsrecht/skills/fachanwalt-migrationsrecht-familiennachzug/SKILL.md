@@ -11,7 +11,7 @@ Visum / Aufenthaltstitel für Familienangehörige eines in Deutschland lebenden 
 
 ## 1) Eingangs-Abfrage
 
-1. Wer ist der „Stamm-Inhaber" — Deutscher, EU-Bürger, Drittstaater?
+1. Wer ist der "Stamm-Inhaber" — Deutscher, EU-Bürger, Drittstaater?
 2. Welche Familienangehörige (Ehegatte, Kinder, Eltern)?
 3. Aufenthaltstitel des Stamm-Inhabers?
 4. Wohnraum / Einkommen Stamm-Inhaber?

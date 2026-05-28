@@ -33,7 +33,7 @@ Pfändung und Überweisung einer Forderung des Schuldners gegen sein Kreditinsti
 3. **Antrag bauen** an das Vollstreckungsgericht am Wohnsitz des Schuldners (§ 828 Abs. 2 ZPO). Pflichtangaben:
    - Gläubiger, Schuldner, Drittschuldner-Bank
    - Forderungsaufstellung (Hauptforderung, Zinsen, Kosten, Verzugskosten)
-   - genaue Bezeichnung der gepfändeten Forderung („gesamtes Guthaben sowie alle künftigen Eingänge auf jedem Konto, das der Schuldner bei der Drittschuldnerin unterhält")
+   - genaue Bezeichnung der gepfändeten Forderung ("gesamtes Guthaben sowie alle künftigen Eingänge auf jedem Konto, das der Schuldner bei der Drittschuldnerin unterhält")
    - Auskunftsersuchen § 840 ZPO
 4. **Formular** verwenden – Pflichtformular der ZVFV. Ab 1.10.2026 neue Muster (vereinheitlicht, XML-Anhang).
 5. **Einreichen** beim Vollstreckungsgericht: derzeit Papier oder elektronisch über beA/eBO. Ab 1.10.2026 XML-Antrag nach § 829 Abs. 5 ZPO n.F. möglich (PDF + maschinenlesbare XML, XML führend).

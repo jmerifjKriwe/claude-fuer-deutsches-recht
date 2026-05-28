@@ -1,6 +1,6 @@
 ---
 name: wesentliche-vertraege-anlage
-description: "Erstellt das Verzeichnis wesentlicher Verträge (Material Contracts Schedule) aus Due-Diligence-Erkenntnissen auf Grundlage der SPA-Definition und des Anhangformats. Berücksichtigt Change-of-Control-Klauseln (BGH-Rspr.), Vendor-Disclosure-Logik und Konsistenz mit anderen Gewährleistungsanhängen. Lädt bei „Vertragsanhang erstellen\", „Disclosure Schedule\", „wesentliche Verträge\", „Anhang 3.X\" oder beim Entwurf von Offenlegungsanhängen im M&A-Kontext."
+description: "Erstellt das Verzeichnis wesentlicher Verträge (Material Contracts Schedule) aus Due-Diligence-Erkenntnissen auf Grundlage der SPA-Definition und des Anhangformats. Berücksichtigt Change-of-Control-Klauseln (BGH-Rspr.), Vendor-Disclosure-Logik und Konsistenz mit anderen Gewährleistungsanhängen. Lädt bei "Vertragsanhang erstellen\", "Disclosure Schedule\", "wesentliche Verträge\", "Anhang 3.X\" oder beim Entwurf von Offenlegungsanhängen im M&A-Kontext."
 ---
 
 # Material-Vertragsverzeichnis (Disclosure Schedule)
@@ -18,11 +18,11 @@ Vor der Anhangs-Erstellung klaeren:
 
 ## Zweck
 
-Der Unternehmenskaufvertrag (SPA/Anteilskaufvertrag) enthält eine Gewährleistung: „Anhang [X] listet alle wesentlichen Verträge der Gesellschaft." Dieser Skill erstellt diesen Anhang aus den Due-Diligence-Erkenntnissen — welche Verträge sind wesentlich im Sinne der SPA-Definition, in dem Format, das der SPA vorschreibt.
+Der Unternehmenskaufvertrag (SPA/Anteilskaufvertrag) enthält eine Gewährleistung: "Anhang [X] listet alle wesentlichen Verträge der Gesellschaft." Dieser Skill erstellt diesen Anhang aus den Due-Diligence-Erkenntnissen — welche Verträge sind wesentlich im Sinne der SPA-Definition, in dem Format, das der SPA vorschreibt.
 
 ## Eingaben
 
-- Unternehmenskaufvertrag (SPA) oder Entwurf davon — für die Definition „wesentlicher Vertrag" und das Anhangformat
+- Unternehmenskaufvertrag (SPA) oder Entwurf davon — für die Definition "wesentlicher Vertrag" und das Anhangformat
 - Due-Diligence-Erkenntnisse aus dem Vertragsreview (vertragsebene Daten)
 - Praxisprofil (CLAUDE.md) → Wesentlichkeitsschwellen (können von der SPA-Definition abweichen — SPA-Definition hat Vorrang)
 - Optional: Bestehende Anhänge im SPA als Formatvorlage
@@ -45,7 +45,7 @@ Bayer, in: Lutter/Hommelhoff, GmbHG, 21. Aufl. 2023, § 15 Rn. 5; Westermann, in
 
 ### Schritt 1: SPA-Definition ermitteln
 
-Die Definition „wesentlicher Vertrag" aus dem SPA extrahieren — die SPA-Definition ist maßgeblich, nicht der eigene Schwellenwert aus CLAUDE.md. Bei Abweichungen: SPA-Definition verwenden und die Differenz flaggen.
+Die Definition "wesentlicher Vertrag" aus dem SPA extrahieren — die SPA-Definition ist maßgeblich, nicht der eigene Schwellenwert aus CLAUDE.md. Bei Abweichungen: SPA-Definition verwenden und die Differenz flaggen.
 
 Transaktionsstruktur beachten (Share Deal / Asset Deal / Verschmelzung): Bei einem Asset Deal nach §§ 433 ff. BGB sind Zustimmungserfordernisse bei Vertragsübergang nach § 415 BGB anders zu behandeln als beim Share Deal, wo die Gesellschaft mit ihren Verträgen übergeht. Regulierte Branchen (Energieversorgung, Finanzdienstleistungen, Gesundheitswesen, öffentliche Aufträge) können zusätzliche behördliche Zustimmungspflichten begründen — diese sind gesondert zu recherchieren und mit Norm zu belegen.
 
@@ -74,7 +74,7 @@ Für jeden geprüften Vertrag:
 - Vertrag liegt knapp unterhalb des Schwellenwerts, ist aber geschäftlich bedeutsam
 - Vertrag erfüllt ein Prüfkriterium, wird aber ohnehin beendet
 - Mündliche Vereinbarungen oder Side Letters, deren Zuordnung zweifelhaft ist
-- Lieferantenverträge mit Exklusivitätsklauseln, die nicht ausdrücklich als „wesentlich" eingestuft wurden
+- Lieferantenverträge mit Exklusivitätsklauseln, die nicht ausdrücklich als "wesentlich" eingestuft wurden
 
 ### Schritt 3: Anhangdaten zusammenstellen
 

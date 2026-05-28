@@ -68,7 +68,7 @@ Jede dem Staat zurechenbare Beeinträchtigung des grundrechtlich geschützten Ve
 **Klassifikation:**
 
 - **Einfacher Gesetzesvorbehalt** — z. B. Art. 2 Abs. 2 S. 3 GG, Art. 11 Abs. 2 GG (für bestimmte Fälle), Art. 12 Abs. 1 S. 2 GG.
-- **Qualifizierter Gesetzesvorbehalt** — Schranke nur unter bestimmten zusätzlichen Voraussetzungen. Z. B. Art. 5 Abs. 2 GG („allgemeine Gesetze", Schutz der Jugend, Recht der persönlichen Ehre); Art. 8 Abs. 2 GG (Versammlungen unter freiem Himmel); Art. 13 GG (Eingriffsstaffel).
+- **Qualifizierter Gesetzesvorbehalt** — Schranke nur unter bestimmten zusätzlichen Voraussetzungen. Z. B. Art. 5 Abs. 2 GG ("allgemeine Gesetze", Schutz der Jugend, Recht der persönlichen Ehre); Art. 8 Abs. 2 GG (Versammlungen unter freiem Himmel); Art. 13 GG (Eingriffsstaffel).
 - **Vorbehaltlos gewährtes Grundrecht** — z. B. Art. 4, Art. 5 Abs. 3 GG, Glaubensfreiheit, Kunst- und Wissenschaftsfreiheit. Eingriff nur durch **verfassungsimmanente Schranken** rechtfertigbar (kollidierendes Verfassungsrecht, insbesondere Grundrechte Dritter und Verfassungsgüter mit Verfassungsrang).
 
 #### 3b. Schranken-Schranken
@@ -79,7 +79,7 @@ Die Schranke darf ihrerseits nicht gegen Verfassungsrecht verstoßen:
 2. **Wesensgehaltsgarantie** (Art. 19 Abs. 2 GG): absoluter Kernbereich darf nicht verletzt werden.
 3. **Zitiergebot** (Art. 19 Abs. 1 S. 2 GG, nur bei einschränkenden Gesetzen mit Wirkungsabsicht auf das Grundrecht).
 4. **Allgemeinheit** (Art. 19 Abs. 1 S. 1 GG).
-5. **Wechselwirkungslehre** (Lüth BVerfGE 7, 198): bei „allgemeinen Gesetzen" i.S.d. Art. 5 Abs. 2 GG müssen die schrankenziehenden Normen ihrerseits im Licht des eingeschränkten Grundrechts ausgelegt werden („Wechselwirkung").
+5. **Wechselwirkungslehre** (Lüth BVerfGE 7, 198): bei "allgemeinen Gesetzen" i.S.d. Art. 5 Abs. 2 GG müssen die schrankenziehenden Normen ihrerseits im Licht des eingeschränkten Grundrechts ausgelegt werden ("Wechselwirkung").
 6. **Spezifische Vorgaben des qualifizierten Vorbehalts** (z. B. Allgemeinheit des Gesetzes bei Art. 5 Abs. 2 GG).
 7. **Bestimmtheitsgebot, Wesentlichkeit** (siehe Skill `formelle-verfassungsmaessigkeit`).
 

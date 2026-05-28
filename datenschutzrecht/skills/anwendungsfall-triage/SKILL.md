@@ -131,9 +131,9 @@ Begründung: [1–3 Sätze]
 | Eintrag Verarbeitungsverzeichnis (Art. 30) | DSB | ☐ |
 
 **Rechtsgrundlage (Art. 6 DSGVO):** [lit. a Einwilligung / lit. b Vertrag /
-lit. c rechtliche Verpflichtung / lit. f berechtigte Interessen — oder „unklar"]
+lit. c rechtliche Verpflichtung / lit. f berechtigte Interessen — oder "unklar"]
 
-Nach Klassifikation immer anbieten: „Soll ich jetzt direkt mit der DSFA beginnen?"
+Nach Klassifikation immer anbieten: "Soll ich jetzt direkt mit der DSFA beginnen?"
 
 *Bei STOPP:*  
 Konflikt benennen. Optionen: (A) Vorhaben umgestalten, (B) Richtlinie aktualisieren
@@ -173,12 +173,12 @@ DSB-Konsultation und Verarbeitungsverzeichnis-Eintrag (Art. 30) zwingend.
 
 ## Risiken und typische Fehler
 
-- **„Anonymisiert" = FREIGABE:** Pseudonymisierte Daten bleiben personenbezogen
+- **"Anonymisiert" = FREIGABE:** Pseudonymisierte Daten bleiben personenbezogen
   (Art. 4 Nr. 1 DSGVO). Re-Identifikationsrisiko konkret prüfen.
-- **„Wir machen das ähnlich":** Bestehende, nie geprüfte Verarbeitungen legitimieren
+- **"Wir machen das ähnlich":** Bestehende, nie geprüfte Verarbeitungen legitimieren
   keine neue. Bei anderem Umfang/Zweck/Kategorie: neu triagen.
-- **„Nur ein Pilot":** Pilot mit echten Personendaten unterliegt denselben Anforderungen.
-- **„Der Anbieter regelt Datenschutz":** AVV nach Art. 28 zwingend; Triage bleibt beim
+- **"Nur ein Pilot":** Pilot mit echten Personendaten unterliegt denselben Anforderungen.
+- **"Der Anbieter regelt Datenschutz":** AVV nach Art. 28 zwingend; Triage bleibt beim
   Verantwortlichen (Art. 4 Nr. 7 DSGVO).
 - **Inferred Data übersehen:** Score, Risikoklasse, Präferenz = personenbezogenes Datum.
 

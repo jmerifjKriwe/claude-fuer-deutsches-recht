@@ -28,7 +28,7 @@ Falls Akten-Arbeitsbereiche aktiviert, aktive Akte prüfen. Falls keine aktive A
 **Welche Seite?** Vor der Playbook-Anwendung ermitteln:
 - Gegenpartei ist SaaS-Anbieter, der die Plattform verkauft → Käuferseite
 - Das Unternehmen ist SaaS-Anbieter, Gegenpartei ist Kunde → Verkäuferseite
-- Reseller/White-Label? → Fragen: „Auf welcher Seite steht [Unternehmen] – Anbieter oder Kunde?"
+- Reseller/White-Label? → Fragen: "Auf welcher Seite steht [Unternehmen] – Anbieter oder Kunde?"
 
 Aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` den zutreffenden Playbook-Abschnitt lesen. Falls nicht konfiguriert: Setup-Befehl nennen.
 
@@ -70,7 +70,7 @@ Prüfen und mit CLAUDE.md vergleichen:
 |---|---|
 | Jährliche Erhöhungsklausel | fester %, VPI, unbegrenzt |
 | Überverbrauch-Preise | Veröffentlichte Preisliste / Prämienrate / undefiniert |
-| Umfang „Vergütung" | nur Abonnement / „Zusatzleistungen" weit definiert |
+| Umfang "Vergütung" | nur Abonnement / "Zusatzleistungen" weit definiert |
 
 **AGB-Hinweis (§ 307 BGB):** Einseitige Preiserhöhungsklauseln ohne sachgerechten Grund oder ohne ausreichende Ankündigung sind gegenüber Verbrauchern regelmäßig unwirksam. Im B2B ist die Schwelle höher, aber § 307 BGB gilt. BGH, Urt. v. 15.11.2006 – VIII ZR 3/06, NJW 2007, 1054 – Preisanpassungsklausel. `[Trainingswissen – prüfen]`
 
@@ -80,13 +80,13 @@ Wenn (nicht falls) das Unternehmen den Anbieter wechselt: Können die Daten mitg
 
 | Element | Inhalt |
 |---|---|
-| Exportformat | offen/standardisiert / proprietär-dokumentiert / „wirtschaftlich zumutbar" |
+| Exportformat | offen/standardisiert / proprietär-dokumentiert / "wirtschaftlich zumutbar" |
 | Export-Verfügbarkeit | Selbstbedienung jederzeit / auf Anfrage / nur bei Kündigung |
 | Zugang nach Vertragsende | Tage nach Kündigung |
 | Exportkosten | kostenlos / T&M / je GB oder Datensatz |
 | Löschbestätigung | auf Anfrage / keine / Anbieter behält Derivate |
 
-**DSGVO-Hinweis (Art. 20 DSGVO):** Datenportabilität ist für personenbezogene Daten ein Betroffenenrecht. Der AVV sollte Löschpflichten und Rückgabe nach Vertragsende regeln (Art. 28 Abs. 3 lit. g DSGVO). Anbieterbehalt „anonymisierter" Derivate: Playbook-Position aus CLAUDE.md prüfen.
+**DSGVO-Hinweis (Art. 20 DSGVO):** Datenportabilität ist für personenbezogene Daten ein Betroffenenrecht. Der AVV sollte Löschpflichten und Rückgabe nach Vertragsende regeln (Art. 28 Abs. 3 lit. g DSGVO). Anbieterbehalt "anonymisierter" Derivate: Playbook-Position aus CLAUDE.md prüfen.
 
 #### 3.4 Verfügbarkeit und SLA
 
@@ -94,7 +94,7 @@ Nur relevant, wenn das Unternehmen vom Dienst abhängt. Bei Nice-to-have-Tools �
 
 | Element | Inhalt |
 |---|---|
-| Verfügbarkeitszusage | Prozentsatz / „wirtschaftlich zumutbare Bemühung" |
+| Verfügbarkeitszusage | Prozentsatz / "wirtschaftlich zumutbare Bemühung" |
 | Messzeitraum | monatlich / quartalsweise / jährlich |
 | Abhilfe | Service-Credits (Berechnung, Deckelung, ausschließliche Abhilfe?) |
 | Wartungsfenster | definierter Zeitraum / Voranmeldung / unbegrenzt |

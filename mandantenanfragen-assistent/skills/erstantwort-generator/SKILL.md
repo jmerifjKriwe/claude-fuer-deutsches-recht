@@ -106,11 +106,11 @@ Mit freundlichen Grüßen
 
 ### Dank-Formulierung
 
-Standard: „vielen Dank für Ihre Anfrage, die uns heute zugegangen ist."
+Standard: "vielen Dank für Ihre Anfrage, die uns heute zugegangen ist."
 
 Varianten:
-- Bei dringlicher Anfrage: „vielen Dank für Ihre Anfrage. Wir haben Ihr Anliegen als dringend zur Kenntnis genommen."
-- Bei Empfehlung: „vielen Dank für Ihre Anfrage, die uns durch [Quelle, soweit genannt] zugegangen ist."
+- Bei dringlicher Anfrage: "vielen Dank für Ihre Anfrage. Wir haben Ihr Anliegen als dringend zur Kenntnis genommen."
+- Bei Empfehlung: "vielen Dank für Ihre Anfrage, die uns durch [Quelle, soweit genannt] zugegangen ist."
 
 ### Dringlichkeits-Hinweis (nur bei HOCH)
 
@@ -130,7 +130,7 @@ Pflichtbestandteil. Enthält:
 ### Bitte um Sachverhaltszusammenfassung
 
 Formular-Fragen (s. oben). Alternativ freie Formulierung:
-„Bitte schildern Sie uns Ihr Anliegen in einigen Sätzen — Datum des Ereignisses, beteiligte Parteien, bestehende Fristen und Ihr Ziel."
+"Bitte schildern Sie uns Ihr Anliegen in einigen Sätzen — Datum des Ereignisses, beteiligte Parteien, bestehende Fristen und Ihr Ziel."
 
 ### Transkriptionsservice-Hinweis
 
@@ -142,18 +142,18 @@ Enthält: Telefonnummer des Transkriptionsservices, kurze Ablauferklärung, DSGV
 
 ### Mandatsverhältnis-Disclaimer
 
-Kurzform in der Mail: „Bitte beachten Sie, dass diese Eingangsbestätigung kein Mandatsverhältnis begründet und keine Rechtsberatung darstellt."
+Kurzform in der Mail: "Bitte beachten Sie, dass diese Eingangsbestätigung kein Mandatsverhältnis begründet und keine Rechtsberatung darstellt."
 
 Langform in der Fußzeile: aus Skill `mandatsverhaeltnis-hinweis`.
 
 ### Schlussformel
 
-Standard: „Mit freundlichen Grüßen"
+Standard: "Mit freundlichen Grüßen"
 
 Varianten bei Sprache:
-- Englisch: „Yours sincerely," / „Kind regards,"
-- Französisch: „Veuillez agréer l'expression de mes salutations distinguées,"
-- Italienisch: „Distinti saluti,"
+- Englisch: "Yours sincerely," / "Kind regards,"
+- Französisch: "Veuillez agréer l'expression de mes salutations distinguées,"
+- Italienisch: "Distinti saluti,"
 
 ## Ausgabe
 

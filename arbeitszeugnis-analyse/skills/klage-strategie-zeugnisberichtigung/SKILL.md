@@ -7,11 +7,11 @@ description: "Strategie und Antragsformulierungen für die Zeugnisberichtigungsk
 
 Wer in der Ampelanalyse rote oder orange Signale erkennt, steht vor der Frage, was tun. Dieser Skill fuehrt vom Befund zur konkreten Klagestrategie. Er deckt den vollen Weg ab: aussergerichtliches Berichtigungsverlangen, Klageantrag, Beweislastverteilung, Streitwertberechnung und Verfahrensoekonomie.
 
-Erste Stufe ist regelmäßig das außergerichtliche Berichtigungsverlangen. Der Arbeitgeber sollte die Chance haben, das Zeugnis selbst zu korrigieren. Das Verlangen sollte schriftlich erfolgen, die konkret beanstandeten Sätze benennen und die gewünschte Formulierung vorschlagen. Eine pauschale Aufforderung „bitte verbessern" hilft weder in der Verhandlung noch im späteren Prozess.
+Erste Stufe ist regelmäßig das außergerichtliche Berichtigungsverlangen. Der Arbeitgeber sollte die Chance haben, das Zeugnis selbst zu korrigieren. Das Verlangen sollte schriftlich erfolgen, die konkret beanstandeten Sätze benennen und die gewünschte Formulierung vorschlagen. Eine pauschale Aufforderung "bitte verbessern" hilft weder in der Verhandlung noch im späteren Prozess.
 
 Zweite Stufe ist die Klagepruefung. Nicht jedes orange Signal ist klagbar. Die Beweislast nach BAG-Rechtsprechung ist klar verteilt: Bei Streit um eine Note schlechter als befriedigend traegt der Arbeitgeber die Beweislast fuer die schlechte Bewertung. Bei Streit um eine Note besser als befriedigend traegt der Arbeitnehmer die Beweislast fuer die bessere Leistung. Wer also aus einer Drei eine Eins machen will, muss substantiieren — wer aus einer Vier eine Drei machen will, muss nur die Vier bestreiten und Wohlwollensgebot ruegen.
 
-Dritte Stufe ist der Klageantrag. Er sollte konkret formuliert werden: nicht nur „der Beklagte wird verurteilt, das Zeugnis zu berichtigen", sondern mit Wortlautvorschlag fuer die beanstandeten Saetze. Das Gericht entscheidet sonst nach billigem Ermessen, was selten der Wunschformulierung entspricht.
+Dritte Stufe ist der Klageantrag. Er sollte konkret formuliert werden: nicht nur "der Beklagte wird verurteilt, das Zeugnis zu berichtigen", sondern mit Wortlautvorschlag fuer die beanstandeten Saetze. Das Gericht entscheidet sonst nach billigem Ermessen, was selten der Wunschformulierung entspricht.
 
 Der Streitwert einer Zeugnisberichtigungsklage liegt nach gefestigter Rechtsprechung bei einem Monatsbruttogehalt. Auch das Bruchteilsverhaeltnis bei mehreren Streitpunkten folgt diesem Wert. Bei einer reinen Schlussformel-Korrektur kann der Streitwert auf ein Drittel oder ein Halbes Monatsgehalt reduziert sein.
 
@@ -23,7 +23,7 @@ Die Verjaehrung folgt der regelmaessigen Verjaehrungsfrist nach §§ 195, 199 BG
 
 | Befund | Klagbarkeit | Erfolgsaussicht |
 |---|---|---|
-| „bemueht" als Leistungsformel | Klagbar | Hoch |
+| "bemueht" als Leistungsformel | Klagbar | Hoch |
 | Falsche Reihenfolge im Sozialverhalten | Klagbar | Hoch |
 | Unvollständige Schlussformel | Meist Verhandlungspunkt, Klage nur mit Zusatzkontext | Niedrig bis Mittel |
 | Negatives Codewort aus dem Codeworte-Katalog | Klagbar | Hoch |
@@ -60,11 +60,11 @@ Sehr geehrte Damen und Herren,
 
 das mir unter dem aktuellen Datum erteilte Arbeitszeugnis habe ich erhalten. Mit folgenden Formulierungen bin ich nicht einverstanden und bitte um Berichtigung mit den jeweils vorgeschlagenen Wortlauten:
 
-Statt „war stets bemueht, die ihm uebertragenen Aufgaben zur vollen Zufriedenheit zu erledigen": „erledigte die ihm uebertragenen Aufgaben stets zu unserer vollen Zufriedenheit".
+Statt "war stets bemueht, die ihm uebertragenen Aufgaben zur vollen Zufriedenheit zu erledigen": "erledigte die ihm uebertragenen Aufgaben stets zu unserer vollen Zufriedenheit".
 
-Statt „sein Verhalten gegenueber Kollegen und Vorgesetzten war korrekt": „sein Verhalten gegenueber Vorgesetzten, Kollegen und Kunden war stets einwandfrei".
+Statt "sein Verhalten gegenueber Kollegen und Vorgesetzten war korrekt": "sein Verhalten gegenueber Vorgesetzten, Kollegen und Kunden war stets einwandfrei".
 
-Als Vergleichsvorschlag zur knappen Schlussformel: „Wir bedauern sein Ausscheiden, danken ihm für die geleistete Arbeit und wünschen ihm für seinen weiteren beruflichen und privaten Lebensweg alles Gute und weiterhin viel Erfolg". Nur als Klageantrag verwenden, wenn der Einzelfall dafür tragfähige Umstände bietet.
+Als Vergleichsvorschlag zur knappen Schlussformel: "Wir bedauern sein Ausscheiden, danken ihm für die geleistete Arbeit und wünschen ihm für seinen weiteren beruflichen und privaten Lebensweg alles Gute und weiterhin viel Erfolg". Nur als Klageantrag verwenden, wenn der Einzelfall dafür tragfähige Umstände bietet.
 
 Ich bitte um Uebersendung des berichtigten Zeugnisses innerhalb von zwei Wochen ab Zugang dieses Schreibens.
 
@@ -74,11 +74,11 @@ Mit freundlichen Gruessen
 
 Der Beklagte wird verurteilt, der Klaegerin ein qualifiziertes Arbeitszeugnis zu erteilen, das auf dem Briefkopf der Beklagten ausgestellt wird, vom Tag des Beendigungsdatums datiert und vom dazu Befugten unterschrieben ist und folgenden Inhalt aufweist:
 
-Erstens, in der Leistungsbeurteilung statt „war stets bemueht" die Formulierung „erledigte die ihr uebertragenen Aufgaben stets zu unserer vollen Zufriedenheit".
+Erstens, in der Leistungsbeurteilung statt "war stets bemueht" die Formulierung "erledigte die ihr uebertragenen Aufgaben stets zu unserer vollen Zufriedenheit".
 
-Zweitens, in der Verhaltensbeurteilung statt „Kollegen und Vorgesetzten" die Reihenfolge „Vorgesetzten, Kollegen und Kunden" mit dem Steigerer „stets" und dem Praedikat „einwandfrei".
+Zweitens, in der Verhaltensbeurteilung statt "Kollegen und Vorgesetzten" die Reihenfolge "Vorgesetzten, Kollegen und Kunden" mit dem Steigerer "stets" und dem Praedikat "einwandfrei".
 
-Drittens, soweit der Schlussformelpunkt nach dem Einzelfall klagegeeignet ist, die Aufnahme der konkreten Vergleichs- oder Anspruchsformulierung im Wortlaut: „Wir bedauern ihr Ausscheiden, danken ihr für die geleistete Arbeit und wünschen ihr für ihren weiteren beruflichen und privaten Lebensweg alles Gute und weiterhin viel Erfolg". Vor Aufnahme in den Antrag gesondert prüfen: BAG 9 AZR 227/11.
+Drittens, soweit der Schlussformelpunkt nach dem Einzelfall klagegeeignet ist, die Aufnahme der konkreten Vergleichs- oder Anspruchsformulierung im Wortlaut: "Wir bedauern ihr Ausscheiden, danken ihr für die geleistete Arbeit und wünschen ihr für ihren weiteren beruflichen und privaten Lebensweg alles Gute und weiterhin viel Erfolg". Vor Aufnahme in den Antrag gesondert prüfen: BAG 9 AZR 227/11.
 
 ### Beispiel 3 – Streitwert-Begruendung
 

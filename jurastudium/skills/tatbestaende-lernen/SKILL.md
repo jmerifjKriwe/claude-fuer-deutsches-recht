@@ -30,7 +30,7 @@ description: "Tatbestaende lernen für Jurastudium und Examensvorbereitung: Anwe
 
 ## Zweck
 
-Die Subsumtion (siehe `subsumtionslehre`) ist nur möglich, wenn die Tatbestandsmerkmale abrufbar sind. Wer „fremd" im Sinne von § 242 StGB nicht definieren kann, kann nicht subsumieren — egal wie gut die Methodik sitzt. Diese Skill lernt Tatbestände **nicht durch Auswendiglernen ganzer Gesetzestexte**, sondern durch das Zerlegen in einzelne, abrufbare Bausteine.
+Die Subsumtion (siehe `subsumtionslehre`) ist nur möglich, wenn die Tatbestandsmerkmale abrufbar sind. Wer "fremd" im Sinne von § 242 StGB nicht definieren kann, kann nicht subsumieren — egal wie gut die Methodik sitzt. Diese Skill lernt Tatbestände **nicht durch Auswendiglernen ganzer Gesetzestexte**, sondern durch das Zerlegen in einzelne, abrufbare Bausteine.
 
 ## Eingaben
 
@@ -42,35 +42,35 @@ Die Subsumtion (siehe `subsumtionslehre`) ist nur möglich, wenn die Tatbestands
 
 ### Schritt 1 — Norm zerlegen
 Jedes Tatbestandsmerkmal isolieren. Beispiel § 433 I 1 BGB:
-- **„Durch den Kaufvertrag"** — gegenseitiger schuldrechtlicher Vertrag (Angebot, Annahme).
-- **„wird der Verkäufer einer Sache verpflichtet"** — Sache § 90 BGB, Verkäuferpflicht.
-- **„dem Käufer die Sache zu übergeben"** — Besitzverschaffung § 854 BGB.
-- **„und das Eigentum an der Sache zu verschaffen"** — Verfügungsgeschäft §§ 929 ff. BGB, Trennungsprinzip.
+- **"Durch den Kaufvertrag"** — gegenseitiger schuldrechtlicher Vertrag (Angebot, Annahme).
+- **"wird der Verkäufer einer Sache verpflichtet"** — Sache § 90 BGB, Verkäuferpflicht.
+- **"dem Käufer die Sache zu übergeben"** — Besitzverschaffung § 854 BGB.
+- **"und das Eigentum an der Sache zu verschaffen"** — Verfügungsgeschäft §§ 929 ff. BGB, Trennungsprinzip.
 
 Sechs Merkmale, sechs Lernziele.
 
 ### Schritt 2 — Definition pro Merkmal
 Jedes Merkmal bekommt eine **abrufbare Definition** — kurz, im eigenen Wortlaut, mit zwei bis drei Markern.
 
-Beispiel „fremd" (§ 242 StGB):
+Beispiel "fremd" (§ 242 StGB):
 > Fremd ist eine Sache, wenn sie weder im **Alleineigentum** des Täters steht noch **herrenlos** ist. Maßgeblich ist die zivilrechtliche **Eigentumslage** im Tatzeitpunkt.
 
 Marker: Alleineigentum / herrenlos / zivilrechtlich / Tatzeitpunkt — vier Anker, abprüfbar.
 
 ### Schritt 3 — Streitstand verankern
-Streitstände werden **am Tatbestandsmerkmal**, nicht „irgendwo daneben" gelernt. Beispiel: Theorienstreit zur „Sache" als „Tier" (§ 90a BGB) gehört zu § 433 I als Streit um den Sachbegriff im Kaufrecht (Ergebnis: Tiere können Gegenstand eines Kaufvertrags sein, § 90a S. 3 BGB).
+Streitstände werden **am Tatbestandsmerkmal**, nicht "irgendwo daneben" gelernt. Beispiel: Theorienstreit zur "Sache" als "Tier" (§ 90a BGB) gehört zu § 433 I als Streit um den Sachbegriff im Kaufrecht (Ergebnis: Tiere können Gegenstand eines Kaufvertrags sein, § 90a S. 3 BGB).
 
 Aufbau einer Streit-Karteikarte:
 - **Frage**: Welche Auffassungen vertreten BGH, Lehre Mindermeinung beim Merkmal X?
-- **Antwort**: Eine Position pro Bullet, jeweils mit Argument („+") und Gegenargument („−").
+- **Antwort**: Eine Position pro Bullet, jeweils mit Argument ("+") und Gegenargument ("−").
 
 ### Schritt 4 — Hilfsgerüst Schemata
 Schemata sind erlaubt — als Lernhilfsmittel, **nicht** als Klausurprodukt. Siehe `loesungsschemata` für die ehrliche Einordnung.
 
 ### Schritt 5 — Drill
-- Skill fragt: „Wie definierst du `fremd`?"
+- Skill fragt: "Wie definierst du `fremd`?"
 - Studierender antwortet.
-- Skill prüft Vollständigkeit: vier Anker erwartet, drei genannt — „Was fehlt: zivilrechtlich oder Tatzeitpunkt?"
+- Skill prüft Vollständigkeit: vier Anker erwartet, drei genannt — "Was fehlt: zivilrechtlich oder Tatzeitpunkt?"
 - Korrektur, Wiederholung, in Karteikarte einfügen.
 
 ## Tatbestandsgruppen — was sich lohnt
@@ -95,7 +95,7 @@ Schemata sind erlaubt — als Lernhilfsmittel, **nicht** als Klausurprodukt. Sie
 ## Karteikartenintegration
 
 Diese Skill arbeitet eng mit `karteikarten`:
-- Pro Tatbestand → 1 Karte „Norm und Tatbestandsmerkmale" + pro Merkmal 1 Karte „Definition".
+- Pro Tatbestand → 1 Karte "Norm und Tatbestandsmerkmale" + pro Merkmal 1 Karte "Definition".
 - Pro Streitstand → 1 Karte mit Argumenten und Gegenargumenten.
 - Frequenz: Vor der Klausur 14 Tage täglich, dann SM-2-Algorithmus.
 

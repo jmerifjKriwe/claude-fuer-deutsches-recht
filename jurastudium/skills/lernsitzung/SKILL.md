@@ -11,10 +11,10 @@ Eine strukturierte Lerneinheit mit einer festen Anzahl an Fragen — Karteikarte
 
 ## Eingaben
 
-- **Rechtsgebiet** (z. B. „Schuldrecht AT", „§§ 242, 243 StGB", „Verwaltungsrecht Ermessen")
+- **Rechtsgebiet** (z. B. "Schuldrecht AT", "§§ 242, 243 StGB", "Verwaltungsrecht Ermessen")
 - **Anzahl der Fragen** (N)
 - **Modus** (`--karteikarten` | `--klausurfrage` | `--mündlich`, Standard: Nachfrage)
-- Optional: **Schwerpunkt** (z. B. „Schwerpunkt: Kausalität", „nur Definitionen")
+- Optional: **Schwerpunkt** (z. B. "Schwerpunkt: Kausalität", "nur Definitionen")
 
 ## Rechtlicher Rahmen
 
@@ -42,7 +42,7 @@ Gutachtenstil-Klausurfragen:
 
 Wenn Rechtsgebiet oder Anzahl fehlen, einmalig fragen:
 
-> „Welches Rechtsgebiet, und wie viele Fragen? (z. B. ‚Schuldrecht AT, 10 Fragen' oder ‚StGB BT Eigentumsdelikte 5 — Gutachtenstil')"
+> "Welches Rechtsgebiet, und wie viele Fragen? (z. B. 'Schuldrecht AT, 10 Fragen' oder 'StGB BT Eigentumsdelikte 5 — Gutachtenstil')"
 
 ### Schritt 2: Modus bestimmen und Inhaltsquelle laden
 
@@ -56,7 +56,7 @@ Jurisdiktion/Prüfungsordnung aus Nutzerprofil laden, falls vorhanden (z. B. Exa
 
 Nie mehrere Fragen auf einmal. Erst Antwort abwarten, dann nächste Frage.
 
-Nach jeder Frage: kurze Rückmeldung (richtig / teilweise / falsch + Korrektur). Falsche Antworten mit Normangabe erläutern — nie nur „falsch".
+Nach jeder Frage: kurze Rückmeldung (richtig / teilweise / falsch + Korrektur). Falsche Antworten mit Normangabe erläutern — nie nur "falsch".
 
 ### Schritt 4: Sitzungsabschluss
 
@@ -86,7 +86,7 @@ Falls kein Lernplan: in `sitzungs_verlauf.yaml` schreiben.
 
 ### Schritt 5: Anschlussempfehlung
 
-> „Auf Basis dieser Sitzung empfiehlt sich als nächster Schritt: [konkrete Empfehlung — z. B. ‚Definitionen § 275 BGB mit karteikarten vertiefen' oder ‚gutachtenstil-übung: Klausurfall zu § 286 BGB']."
+> "Auf Basis dieser Sitzung empfiehlt sich als nächster Schritt: [konkrete Empfehlung — z. B. 'Definitionen § 275 BGB mit karteikarten vertiefen' oder 'gutachtenstil-übung: Klausurfall zu § 286 BGB']."
 
 ## Ausgabeformat
 
@@ -97,7 +97,7 @@ Falls kein Lernplan: in `sitzungs_verlauf.yaml` schreiben.
 
 ## Beispiel
 
-**Eingabe:** „10 Fragen Strafrecht BT Eigentumsdelikte, Modus mündlich"
+**Eingabe:** "10 Fragen Strafrecht BT Eigentumsdelikte, Modus mündlich"
 
 **Verlauf (Auszug):**
 
@@ -105,13 +105,13 @@ Falls kein Lernplan: in `sitzungs_verlauf.yaml` schreiben.
 
 Nutzer antwortet. Skill prüft: Ist § 242 Abs. 1 StGB (Diebstahl) benannt? Obersatz vorhanden? Fremdheit der Sache, Wegnahme, Zueignungsabsicht als Prüfungspunkte erwähnt?
 
-Pushback falls unvollständig: „Sie haben § 242 StGB benannt — gut. Was ist Wegnahme? Definition, bitte."
+Pushback falls unvollständig: "Sie haben § 242 StGB benannt — gut. Was ist Wegnahme? Definition, bitte."
 
 **Sitzungsabschluss:** 7/10 richtig. Schwache Themen: Abgrenzung § 242/246 StGB (Diebstahl/Unterschlagung), Gewahrsamsbruch-Definition. Empfehlung: Karteikarten § 242–248c StGB + eine Klausurfrage zur Abgrenzung.
 
 ## Risiken und typische Fehler
 
-- **Rechtsgebiet zu weit gewählt**: „BGB" als Rechtsgebiet für eine 10-Fragen-Einheit ist sinnlos breit. Auf Unterthemen eingrenzen (z. B. „BGB AT Stellvertretung §§ 164 ff.").
+- **Rechtsgebiet zu weit gewählt**: "BGB" als Rechtsgebiet für eine 10-Fragen-Einheit ist sinnlos breit. Auf Unterthemen eingrenzen (z. B. "BGB AT Stellvertretung §§ 164 ff.").
 - **Modus nicht zur Lernphase passend**: Karteikarten sind für Definitionen-Memorierung. Gutachtenstil-Klausurfragen für Strukturtraining. Mündlich für Verständnis-Tiefe. Den richtigen Modus zur richtigen Lernphase wählen.
 - **Sitzungsergebnisse nicht verwerten**: Der Wert der Sitzungshistorie liegt darin, dass schwache Themen bei der nächsten Sitzung priorisiert werden. Sitzungen ohne Auswertung sind verlorenes Feedback.
 - **Lernplan-Abweichungen ignorieren**: Wenn die Sitzungshistorie zeigt, dass ein Thema in drei Sitzungen hintereinander schlecht abgeschnitten hat, muss es im Lernplan hochgestuft werden — nicht nur in der nächsten Sitzung wiederholt.

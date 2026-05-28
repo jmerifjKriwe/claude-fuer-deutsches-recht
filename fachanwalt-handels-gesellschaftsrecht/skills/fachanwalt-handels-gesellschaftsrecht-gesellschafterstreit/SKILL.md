@@ -105,7 +105,7 @@ wegen Anfechtung Gesellschafterbeschluss vom [Datum]
 Anträge:
 
 1. Der Beschluss der Gesellschafterversammlung der Beklagten vom [Datum]
-   zu Tagesordnungspunkt [Nr.] — Wortlaut: „[...]" — wird für nichtig erklärt.
+   zu Tagesordnungspunkt [Nr.] — Wortlaut: "[...]" — wird für nichtig erklärt.
 
 2. Hilfsweise: Es wird festgestellt, dass der Beschluss nichtig ist.
 
@@ -244,12 +244,12 @@ einer evident unangemessenen Unterbewertung führen.
 
 | Gegenargument | Herkunft | Reaktion |
 |--------------|---------|----------|
-| „Anfechtungsfrist versäumt" | Beklagte | Fristbeginn exakt dokumentieren; bei AG: Bekanntmachung maßgeblich |
-| „Verfahrensmangel war kausal irrelevant" | Beklagte | BGH: Kausalität nur bei offensichtlicher Unerheblichkeit entfallen; Zweifel gehen zu Lasten der Gesellschaft |
-| „Stimmverbot nicht anwendbar — Beschluss betrifft Gesellschaft, nicht Person" | Beklagte | § 47 Abs. 4 GmbHG: weite Auslegung BGH II ZR 73/11; mittelbare Betroffenheit reicht |
-| „Buchwertabfindung wirksam vereinbart" | Beklagte | BGH II ZR 24/14: Unverhältnismäßigkeit prüfen; nur bei maximal moderatem Abschlag zulässig |
-| „Hinauskündigungsklausel wirksam" | Beklagte | BGH II ZR 343/16: sachlicher Grund erforderlich; bloßes Mehrheitswille reicht nicht |
-| „Kein wichtiger Grund für Ausschluss" | Beklagter (Ausschlossener) | Schwere der Pflichtverletzung + Zumutbarkeit des Verbleibs darlegen; mehrere Vorfälle kumulativ |
+| "Anfechtungsfrist versäumt" | Beklagte | Fristbeginn exakt dokumentieren; bei AG: Bekanntmachung maßgeblich |
+| "Verfahrensmangel war kausal irrelevant" | Beklagte | BGH: Kausalität nur bei offensichtlicher Unerheblichkeit entfallen; Zweifel gehen zu Lasten der Gesellschaft |
+| "Stimmverbot nicht anwendbar — Beschluss betrifft Gesellschaft, nicht Person" | Beklagte | § 47 Abs. 4 GmbHG: weite Auslegung BGH II ZR 73/11; mittelbare Betroffenheit reicht |
+| "Buchwertabfindung wirksam vereinbart" | Beklagte | BGH II ZR 24/14: Unverhältnismäßigkeit prüfen; nur bei maximal moderatem Abschlag zulässig |
+| "Hinauskündigungsklausel wirksam" | Beklagte | BGH II ZR 343/16: sachlicher Grund erforderlich; bloßes Mehrheitswille reicht nicht |
+| "Kein wichtiger Grund für Ausschluss" | Beklagter (Ausschlossener) | Schwere der Pflichtverletzung + Zumutbarkeit des Verbleibs darlegen; mehrere Vorfälle kumulativ |
 
 ## Streitwert und Kosten
 

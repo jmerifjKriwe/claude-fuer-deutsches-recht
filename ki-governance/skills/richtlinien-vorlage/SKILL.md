@@ -1,6 +1,6 @@
 ---
 name: richtlinien-vorlage
-description: "Entwirft eine interne KI-Nutzungsrichtlinie auf Basis veröffentlichter Musterrichtlinien und des Praxisprofils — Recherche- und Synthese-Tool, dessen Ausgabe ein Entwurf für die anwaltliche Prüfung und Freigabe ist, keine fertige Richtlinie. Lädt, wenn der Nutzer „KI-Richtlinie entwerfen\", „wir brauchen eine KI-Richtlinie\", „AI-Act-konforme Richtlinie\" oder Ähnliches sagt."
+description: "Entwirft eine interne KI-Nutzungsrichtlinie auf Basis veröffentlichter Musterrichtlinien und des Praxisprofils — Recherche- und Synthese-Tool, dessen Ausgabe ein Entwurf für die anwaltliche Prüfung und Freigabe ist, keine fertige Richtlinie. Lädt, wenn der Nutzer "KI-Richtlinie entwerfen\", "wir brauchen eine KI-Richtlinie\", "AI-Act-konforme Richtlinie\" oder Ähnliches sagt."
 ---
 
 # KI-Richtlinien-Starter
@@ -146,7 +146,7 @@ Zustimmung erfordern `[prüfen — § 87 BetrVG; anwaltliche Prüfung empfohlen]
 - Schwierige Entscheidungen vorwegnehmen: das ist ein `[prüfen]`, keine
   empfohlene Position.
 - § 87 BetrVG vergessen: bei Unternehmen mit Betriebsrat immer prüfen.
-- Scope-Gespräch überspringen: „einfach alles" ist die Hauptfehlerquelle.
+- Scope-Gespräch überspringen: "einfach alles" ist die Hauptfehlerquelle.
 
 ## Quellenpflicht
 

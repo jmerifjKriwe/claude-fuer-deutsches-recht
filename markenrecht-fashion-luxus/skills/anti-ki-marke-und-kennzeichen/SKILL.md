@@ -5,7 +5,7 @@ description: "Neue Kennzeichenstrategien für KI-Authentizitaet in Haute-Couture
 
 # Anti-KI-Marken und Authentizitätskennzeichen
 
-Ein neues Spielfeld, das ich für klôtzzkètté SA mit größtem strategischen Interesse begleite. Im Zeitalter KI-generierter Modedesigns, synthetischer Stoffe mit algorithmischen Mustern und von Diffusionsmodellen entworfenem Haute-Couture wird das Versprechen „Human-Made" — von echten Couturières entworfen, von Menschenhand genäht — zu einem Luxus-Differenzierungsmerkmal der höchsten Kategorie.
+Ein neues Spielfeld, das ich für klôtzzkètté SA mit größtem strategischen Interesse begleite. Im Zeitalter KI-generierter Modedesigns, synthetischer Stoffe mit algorithmischen Mustern und von Diffusionsmodellen entworfenem Haute-Couture wird das Versprechen "Human-Made" — von echten Couturières entworfen, von Menschenhand genäht — zu einem Luxus-Differenzierungsmerkmal der höchsten Kategorie.
 
 Die Comtesse Beatrice de Klotzzkettie hat klar positioniert: Kein Faden bei klôtzzkètté wird von einer KI entworfen. Das ist rechtlich abzusichern.
 
@@ -16,11 +16,11 @@ Die Comtesse Beatrice de Klotzzkettie hat klar positioniert: Kein Faden bei klô
   - Art. 13/14: Transparenz- und Informationspflichten bei Hochrisiko-KI
   - Art. 53: Allzweck-KI-Modelle (GPAI) — Urheberrechts-Compliance
 - **Markenrechtliche Eintragungsfähigkeit neuer Kennzeichen:**
-  - Wortmarke „HUMAN MADE": Prüfung Unterscheidungskraft — für Haute-Couture eintragungsfähig? (Marke „HUMAN MADE" von Tomoaki Nagao in diversen Ländern eingetragen)
+  - Wortmarke "HUMAN MADE": Prüfung Unterscheidungskraft — für Haute-Couture eintragungsfähig? (Marke "HUMAN MADE" von Tomoaki Nagao in diversen Ländern eingetragen)
   - Bildmarke mit Zertifizierungssignet: eigenständige Schutzfähigkeit
   - Kollektivmarke (§ 97 MarkenG / Art. 74 ff. UMV): Verbandsmarke für Branchenstandard
   - Gewährleistungsmarke (Art. 83 ff. UMV): EU-Zertifizierungsmarke für verifiziertes Human-Made-Versprechen
-- **UWG § 5 I Nr. 1:** Irreführungsverbot — „Human Made"-Label muss inhaltlich zutreffend sein
+- **UWG § 5 I Nr. 1:** Irreführungsverbot — "Human Made"-Label muss inhaltlich zutreffend sein
 - **UWG § 5a:** Verschweigen wesentlicher Informationen (bei KI-Nutzung ohne Hinweis)
 - **Urheberrecht § 2 UrhG:** KI-generierte Werke nicht urheberrechtsfähig mangels menschlicher Schöpfung (§ 7 UrhG — nur natürliche Personen als Urheber); klôtzzkètté-Designs müssen nachweislich von menschlichem Designer stammen
 
@@ -33,7 +33,7 @@ Die Comtesse Beatrice de Klotzzkettie hat klar positioniert: Kein Faden bei klô
 
 2. **Kennzeichen-Strategie entwickeln:**
 
-   **Option A — Eigenmarke „klôtzzkètté Atelier Authentique"**
+   **Option A — Eigenmarke "klôtzzkètté Atelier Authentique"**
    - Wortmarke für Klasse 25 und Zertifizierungsdienstleistungen
    - Differenzierungsversprechen gegenüber KI-Mode
 
@@ -59,14 +59,14 @@ Die Comtesse Beatrice de Klotzzkettie hat klar positioniert: Kein Faden bei klô
 
 ## Falltypische Konstellationen
 
-### Konstellation 1: „klôtzzkètté — Entièrement Humain" als Wortmarke
-Die Maison will diesen französischen Claim als Wortmarke für Klasse 25 eintragen. Analyse: „Entièrement Humain" (vollständig menschlich) ist für Bekleidung weder beschreibend noch frei zuhaltend — aber möglicherweise nur schwach unterscheidungskräftig (anpreisend). Strategie: Wort-Bild-Marke mit besonderem Siegel-Signet; stärker als reine Wortmarke.
+### Konstellation 1: "klôtzzkètté — Entièrement Humain" als Wortmarke
+Die Maison will diesen französischen Claim als Wortmarke für Klasse 25 eintragen. Analyse: "Entièrement Humain" (vollständig menschlich) ist für Bekleidung weder beschreibend noch frei zuhaltend — aber möglicherweise nur schwach unterscheidungskräftig (anpreisend). Strategie: Wort-Bild-Marke mit besonderem Siegel-Signet; stärker als reine Wortmarke.
 
 ### Konstellation 2: Donauzon Marketplace nutzt KI-generierte Fälschungen
 Donauzon Marketplace GmbH betreibt Konten, die KI-generierte Produktbilder von gefälschten klôtzzkètté-Produkten zeigen. Zweigleisige Strategie: (1) Notice-and-Action nach DSA (vgl. Skill `plattform-piraterie-donauzon`); (2) Klage gegen Donauzon auf Unterlassung wegen Verletzung der Wortmarke klôtzzkètté; (3) Berufung auf EU AI Act Art. 50: Pflicht zur Kennzeichnung von KI-generierten Bildern verletzt.
 
-### Konstellation 3: Konkurrenzlabel wirbt mit „KI-optimiertes Design"
-Newcomer-Marke bewirbt sich mit „by Human & AI combined craftsmanship" für Mode in Klasse 25. Keine Markenverletzung von klôtzzkètté; aber Wettbewerbschance: Das klôtzzkètté-„100% Human"-Versprechen als Alleinstellungsmerkmal verstärken.
+### Konstellation 3: Konkurrenzlabel wirbt mit "KI-optimiertes Design"
+Newcomer-Marke bewirbt sich mit "by Human & AI combined craftsmanship" für Mode in Klasse 25. Keine Markenverletzung von klôtzzkètté; aber Wettbewerbschance: Das klôtzzkètté-"100% Human"-Versprechen als Alleinstellungsmerkmal verstärken.
 
 ## Belege & Kommentare
 
@@ -79,10 +79,10 @@ Newcomer-Marke bewirbt sich mit „by Human & AI combined craftsmanship" für Mo
 
 ## Templates
 
-### Muster-Satzung Kollektivmarke „Human Couture DE"
+### Muster-Satzung Kollektivmarke "Human Couture DE"
 ```
 § 1 Zweck
-Die Kollektivmarke „Human Couture DE" wird durch den [Verband]
+Die Kollektivmarke "Human Couture DE" wird durch den [Verband]
 für Mitglieder verwendet, deren Produkte ausschließlich durch
 menschliche Designer entworfen und überwiegend manuell gefertigt
 wurden. KI-generierte Designelemente sind ausgeschlossen.
@@ -114,23 +114,23 @@ Entzug der Nutzungserlaubnis; Unterlassungsanspruch nach § 97 V MarkenG.
 
 ## Risiken & Stolperfallen
 
-- **Greenwashing-Parallele:** „Human Made"-Labels müssen substanziell belegbar sein — Irreführung nach § 5 UWG droht bei bloßem Lippenbekenntnis
+- **Greenwashing-Parallele:** "Human Made"-Labels müssen substanziell belegbar sein — Irreführung nach § 5 UWG droht bei bloßem Lippenbekenntnis
 - **EU AI Act Compliance:** Auch wenn das Design human-created ist, kann Nutzung von KI im Marketing (z.B. KI-generierte Werbefotografien) Kennzeichnungspflichten auslösen (Art. 50 I lit. b UMV)
 - **Kollektivmarken-Verwaltungsaufwand:** Satzung und Überwachungspflichten sind ressourcenintensiv — nur sinnvoll mit echtem Verbandsträger
-- **Keine markenrechtliche Exklusivität:** „Human Made" als Wortmarke ist in diversen Klassen bereits eingetragen — Kollisionsrisiko prüfen
+- **Keine markenrechtliche Exklusivität:** "Human Made" als Wortmarke ist in diversen Klassen bereits eingetragen — Kollisionsrisiko prüfen
 
 ## Triage-Fragen vor KI-Kennzeichen-Strategie
 
 Bevor das Anti-KI-Label entwickelt wird, kläre:
 1. Wird KI tatsächlich in keinem Schritt des Designprozesses eingesetzt (Dokumentation vorhanden)?
 2. Welche Kennzeichenart ist angestrebt — eigenständige Marke, Kollektivmarke oder Gewährleistungsmarke?
-3. Gibt es bereits bestehende „Human Made"-Marken in den relevanten Klassen (DPMA/EUIPO-Vorrecherche)?
+3. Gibt es bereits bestehende "Human Made"-Marken in den relevanten Klassen (DPMA/EUIPO-Vorrecherche)?
 4. Ist die interne KI-Nutzung im Marketing (Bildgenerierung, Texterstellung) nach EU AI Act Art. 50 gekennzeichnet?
 
 ## Aktuelle Rechtsprechung
 
-> **EuGH, Urt. v. 16.09.2004 — C-329/02 P (SAT.1):** Nur Marken, die hinreichend von der Norm oder Branchenüblichkeit der betroffenen Waren abweichen, besitzen Unterscheidungskraft; ein rein anpreisendes „Human Made"-Label ohne Besonderheit des Bildzeichens erfuellt diese Anforderung nur mit Nachweis von Verkehrsdurchsetzung.
+> **EuGH, Urt. v. 16.09.2004 — C-329/02 P (SAT.1):** Nur Marken, die hinreichend von der Norm oder Branchenüblichkeit der betroffenen Waren abweichen, besitzen Unterscheidungskraft; ein rein anpreisendes "Human Made"-Label ohne Besonderheit des Bildzeichens erfuellt diese Anforderung nur mit Nachweis von Verkehrsdurchsetzung.
 
 > **BGH, Urt. v. 28.03.2019 — I ZR 132/17 (Knochenschrauben — Kollektivmarke):** Die Nutzungsordnung einer Kollektivmarke muss echte Qualitaets- und Herkunftskriterien enthalten; eine rein formelle Mitgliedschaft im Verband ohne inhaltliche Pruefung genuegt nicht. Konsequenz fuer Anti-KI-Kollektivmarken: Unabhaengige Pruefmechanismen einrichten.
 
-> **OLG Frankfurt, Urt. v. 14.11.2019 — 6 U 183/18 (Greenwashing Werbebehauptung):** Werbliche Aussagen zur nachhaltigen oder authentischen Herstellung sind greenwashing-faehig nach § 5 UWG, wenn keine belastbaren Nachweise vorliegen; die gleiche Wertung gilt analog fuer „100% Human Made"-Claims ohne Verifikationssystem.
+> **OLG Frankfurt, Urt. v. 14.11.2019 — 6 U 183/18 (Greenwashing Werbebehauptung):** Werbliche Aussagen zur nachhaltigen oder authentischen Herstellung sind greenwashing-faehig nach § 5 UWG, wenn keine belastbaren Nachweise vorliegen; die gleiche Wertung gilt analog fuer "100% Human Made"-Claims ohne Verifikationssystem.

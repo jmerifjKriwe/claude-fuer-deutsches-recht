@@ -103,9 +103,9 @@ Bei Fahrzeugen über 3,5 t zulässiger Gesamtmasse:
 - Bezeichnung als Widerspruchsbescheid.
 - Anrede und Bezugnahme auf Widerspruch des Adressaten vom Datum.
 - Tenor:
-  - **Zurückweisung:** „Der Widerspruch wird zurückgewiesen. Die Kosten des Widerspruchsverfahrens trägt der Widerspruchsführer. Eine Gebühr für das Widerspruchsverfahren wird nicht erhoben."
-  - **Teilabhilfe:** „Der Gebührenbescheid vom Datum wird in Höhe von Betrag aufgehoben. Im Übrigen wird der Widerspruch zurückgewiesen. Kosten Verhältnis."
-  - **Vollabhilfe:** „Der Gebührenbescheid vom Datum wird aufgehoben. Die Berliner Verkehrsbetriebe tragen die notwendigen Aufwendungen des Widerspruchsführers. Eine Kostenfestsetzung erfolgt auf Antrag."
+  - **Zurückweisung:** "Der Widerspruch wird zurückgewiesen. Die Kosten des Widerspruchsverfahrens trägt der Widerspruchsführer. Eine Gebühr für das Widerspruchsverfahren wird nicht erhoben."
+  - **Teilabhilfe:** "Der Gebührenbescheid vom Datum wird in Höhe von Betrag aufgehoben. Im Übrigen wird der Widerspruch zurückgewiesen. Kosten Verhältnis."
+  - **Vollabhilfe:** "Der Gebührenbescheid vom Datum wird aufgehoben. Die Berliner Verkehrsbetriebe tragen die notwendigen Aufwendungen des Widerspruchsführers. Eine Kostenfestsetzung erfolgt auf Antrag."
 
 ### Sachverhalt
 
@@ -188,10 +188,10 @@ Eine vollständige Schulungsakte mit sechs Fallvarianten und allen Ausgangsdokum
 ## Hinweise zur praktischen Bescheidung
 
 - **Tonalität** — Verwaltungsdeutsch, nüchtern, keine Belehrung des Bürgers. Bei Sondersituationen (Notstand, Trauerfall, Krankenhausnotfall) sachlich anerkennen, auch wenn die Entscheidung im Ergebnis zurückweisend ist.
-- **Substantiierung** — Jeden Einwand des Widerspruchsführers ausdrücklich aufgreifen und mit einem Satz erwidern. Pauschale Floskeln („nicht substantiiert") sind anfechtungsgerichtsfest nur, wenn die Begründung tatsächlich pauschal war.
+- **Substantiierung** — Jeden Einwand des Widerspruchsführers ausdrücklich aufgreifen und mit einem Satz erwidern. Pauschale Floskeln ("nicht substantiiert") sind anfechtungsgerichtsfest nur, wenn die Begründung tatsächlich pauschal war.
 - **Beweiswürdigung** — Lichtbilder mit Zeitstempel sind das stärkste Beweismittel; Aussagen des Verkehrsleiters sind protokollarisch zu untermauern; Einlassungen des Halters sind ernst zu nehmen, aber daran zu messen, was die Akte hergibt.
 - **Verhältnismäßigkeit als Stellschraube** — Wenn ein vollständiges Absehen rechtlich nicht tragfähig ist, kann eine Reduzierung von vollzogener auf begonnene Umsetzung oder von begonnener auf vermiedene Umsetzung in atypischen Fällen angemessen sein.
-- **Kostendeckungsprinzip** — Die Höhe der Gebühr ist durch die Rechtsverordnung gebunden; eine Reduzierung „nach Billigkeit" außerhalb der Verordnung ist nur über die Aufhebung des Bescheids und ein Absehen von der Festsetzung möglich, nicht durch freie Festsetzung eines geringeren Betrags.
+- **Kostendeckungsprinzip** — Die Höhe der Gebühr ist durch die Rechtsverordnung gebunden; eine Reduzierung "nach Billigkeit" außerhalb der Verordnung ist nur über die Aufhebung des Bescheids und ein Absehen von der Festsetzung möglich, nicht durch freie Festsetzung eines geringeren Betrags.
 
 ## Quellen
 

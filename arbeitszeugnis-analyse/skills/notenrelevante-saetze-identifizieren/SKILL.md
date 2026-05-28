@@ -11,7 +11,7 @@ Die vier Hauptkategorien sind: (1) Aufgabenbeschreibung (neutral, deskriptiv), (
 
 Ein besonderer Grenzfall ist die verkürzte Aufgabenbeschreibung: Wenn ein Zeugnis die Aufgaben sehr kurz beschreibt und damit signalisiert, dass der Arbeitnehmer nur geringe Verantwortung hatte — obwohl seine tatsächliche Stellung höher war — kann das ein implizites Abwertungssignal sein. Ebenso ist eine übertrieben lange Aufgabenbeschreibung bei gleichzeitig knapper Leistungsbeurteilung ein Hinweis darauf, dass der Aussteller das Positive bewusst minimiert.
 
-Besondere Aufmerksamkeit verdienen Sätze, die scheinbar deskriptiv sind, aber Bewertungen einschließen. „Er war stets bereit, Überstunden zu leisten" klingt nach Beschreibung, ist aber eine Leistungsaussage über Einsatzbereitschaft. „Sie bearbeitete sämtliche Aufgaben eigenverantwortlich" beschreibt Arbeitsweise und ist eine verdeckte Leistungsbeurteilung.
+Besondere Aufmerksamkeit verdienen Sätze, die scheinbar deskriptiv sind, aber Bewertungen einschließen. "Er war stets bereit, Überstunden zu leisten" klingt nach Beschreibung, ist aber eine Leistungsaussage über Einsatzbereitschaft. "Sie bearbeitete sämtliche Aufgaben eigenverantwortlich" beschreibt Arbeitsweise und ist eine verdeckte Leistungsbeurteilung.
 
 ## Geheimcode-Regeln
 
@@ -26,13 +26,13 @@ Besondere Aufmerksamkeit verdienen Sätze, die scheinbar deskriptiv sind, aber B
 
 ## Beispiele
 
-**Beispiel 1 – Rein deskriptiv (nicht notenrelevant):** „Frau Weber war in unserem Haus als Projektmanagerin tätig und verantwortete die Koordination externer Dienstleister." — Keine Qualitätsaussage.
+**Beispiel 1 – Rein deskriptiv (nicht notenrelevant):** "Frau Weber war in unserem Haus als Projektmanagerin tätig und verantwortete die Koordination externer Dienstleister." — Keine Qualitätsaussage.
 
-**Beispiel 2 – Leistungsbeurteilung (notenrelevant):** „Sie erledigte alle ihr übertragenen Aufgaben stets zu unserer vollsten Zufriedenheit." — Kernbeurteilungssatz, Note 1, Grün.
+**Beispiel 2 – Leistungsbeurteilung (notenrelevant):** "Sie erledigte alle ihr übertragenen Aufgaben stets zu unserer vollsten Zufriedenheit." — Kernbeurteilungssatz, Note 1, Grün.
 
-**Beispiel 3 – Verhaltensbeurteilung (notenrelevant):** „Ihr Verhalten gegenüber Vorgesetzten und Kollegen war einwandfrei." — Reihenfolge und Qualifikationswort bestimmen Ampelfarbe.
+**Beispiel 3 – Verhaltensbeurteilung (notenrelevant):** "Ihr Verhalten gegenüber Vorgesetzten und Kollegen war einwandfrei." — Reihenfolge und Qualifikationswort bestimmen Ampelfarbe.
 
-**Beispiel 4 – Implizite Bewertung (notenrelevant):** „Herr Schmidt war stets bemüht, seine Aufgaben pünktlich abzuliefern." — Scheinbar positiv, tatsächlich rotes Signal durch „bemüht".
+**Beispiel 4 – Implizite Bewertung (notenrelevant):** "Herr Schmidt war stets bemüht, seine Aufgaben pünktlich abzuliefern." — Scheinbar positiv, tatsächlich rotes Signal durch "bemüht".
 
 **Beispiel 5 – Schlussformel (signalrelevant):** Fehlen des Bedauerns über das Ausscheiden — mögliches Distanzsignal trotz positiver Leistungsformulierungen; rechtlich nicht automatisch einklagbar.
 

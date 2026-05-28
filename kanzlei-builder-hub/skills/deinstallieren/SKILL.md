@@ -70,7 +70,7 @@ Vollständige Ablauf-Schritte gemäß `skill-verwalter`:
 1. Verifizierung der Community-Installation aus `installations-protokoll.yaml`
 2. Auflösung der Installationsdateien und Konfigurationspfade
 3. Anzeige aller zu löschenden Pfade + Konfigurationspfade, die beibehalten werden
-4. Bestätigungsprompt: „Diese Dateien löschen? (ja / nein)"
+4. Bestätigungsprompt: "Diese Dateien löschen? (ja / nein)"
 5. Löschen nach `ja`
 6. Protokolleintrag + CLAUDE.md-Aktualisierung
 
@@ -102,13 +102,13 @@ Aufbewahrungshinweis: [siehe oben, falls Konfiguration vorhanden]
 
 ## Beispiel
 
-**Nutzer:** „Deinstalliere den Skill `miet-kündigung-analyse`."
+**Nutzer:** "Deinstalliere den Skill `miet-kündigung-analyse`."
 
 **Deinstallations-Skill:**
 1. `installations-protokoll.yaml` gelesen — `miet-kündigung-analyse` als Community-Skill gefunden, letzter Status `install`.
 2. Installationspfad: `~/.claude/skills/miet-kündigung-analyse/` (9 Dateien).
 3. Anzeige der 9 Dateien; Konfigurationspfad `~/.claude/plugins/config/kanzlei-builder-hub/miet-kündigung/` wird beibehalten.
-4. „Diese Dateien löschen? (ja / nein)" — Nutzer tippt `ja`.
+4. "Diese Dateien löschen? (ja / nein)" — Nutzer tippt `ja`.
 5. 9 Dateien gelöscht; Protokolleintrag mit `action: uninstall`, Zeitstempel und optionaler Begründung.
 6. Aufbewahrungshinweis für Konfigurationsdaten ausgegeben.
 

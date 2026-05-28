@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsrecht-anpassen
-description: "Geführte Anpassung des gesellschaftsrechtlichen Praxisprofils — einzelne Einstellung ändern, ohne das vollständige Ersteinrichtungs-Interview neu durchzuführen. Risikoprofil, Eskalationskontakte, aktive Module (M&A / Governance / Kapitalmarkt / Gesellschaftsverwaltung), Wesentlichkeitsschwellen, Beschlussformat oder Mandatsworkspace-Pfade anpassen. Lädt, wenn der Nutzer „Profil ändern\", „Konfiguration aktualisieren\", „Einstellung anpassen\" oder vergleichbare Formulierungen verwendet."
+description: "Geführte Anpassung des gesellschaftsrechtlichen Praxisprofils — einzelne Einstellung ändern, ohne das vollständige Ersteinrichtungs-Interview neu durchzuführen. Risikoprofil, Eskalationskontakte, aktive Module (M&A / Governance / Kapitalmarkt / Gesellschaftsverwaltung), Wesentlichkeitsschwellen, Beschlussformat oder Mandatsworkspace-Pfade anpassen. Lädt, wenn der Nutzer "Profil ändern\", "Konfiguration aktualisieren\", "Einstellung anpassen\" oder vergleichbare Formulierungen verwendet."
 ---
 
 # Praxisprofil anpassen
@@ -68,9 +68,9 @@ Liste der konfigurierbaren Bereiche mit aktuellen Werten:
 Aktuellen Wert zeigen, neuen Wert abfragen, Downstream-Auswirkungen erläutern, bestätigen, in die Konfiguration schreiben.
 
 Beispiele:
-- *Wesentlichkeitsschwelle 250.000 EUR → 500.000 EUR:* „`/Due-Diligence-Extraktion` und `/Material-Vertragsverzeichnis` verwenden künftig 500.000 EUR als Grenzwert. Bestehende Findings bleiben unverändert; bei rückwirkender Anwendung bitte neu ausführen."
-- *Kapitalmarkt-Modul aktivieren:* „Beim nächsten Aufruf eines kapitalmarktrechtlichen Skills werden Sie nach Berichterstattungskalender und BaFin-Pflichten gefragt."
-- *KI-Massenreview-Vertrauen „jede Zeile prüfen" → „10 % Stichprobe":* „`/KI-Tool-Übergabe` prüft künftig eine 10 %-Stichprobe statt jeder Extraktion."
+- *Wesentlichkeitsschwelle 250.000 EUR → 500.000 EUR:* "`/Due-Diligence-Extraktion` und `/Material-Vertragsverzeichnis` verwenden künftig 500.000 EUR als Grenzwert. Bestehende Findings bleiben unverändert; bei rückwirkender Anwendung bitte neu ausführen."
+- *Kapitalmarkt-Modul aktivieren:* "Beim nächsten Aufruf eines kapitalmarktrechtlichen Skills werden Sie nach Berichterstattungskalender und BaFin-Pflichten gefragt."
+- *KI-Massenreview-Vertrauen "jede Zeile prüfen" → "10 % Stichprobe":* "`/KI-Tool-Übergabe` prüft künftig eine 10 %-Stichprobe statt jeder Extraktion."
 
 ### Schritt 5: Änderungen an Unternehmensprofil
 
@@ -128,12 +128,12 @@ Weitere Anpassungen: `/gesellschaftsrecht:gesellschaftsrecht-anpassen` erneut au
 
 **Szenario:** Wesentlichkeitsschwelle für Vertragsreview von 100.000 EUR auf 250.000 EUR erhöhen.
 
-Ausgabe: „Wesentlichkeitsschwelle geändert: 100.000 EUR → 250.000 EUR. `/Due-Diligence-Extraktion` und `/Material-Vertragsverzeichnis` wenden den neuen Wert an. Bestehende Findings bleiben unverändert."
+Ausgabe: "Wesentlichkeitsschwelle geändert: 100.000 EUR → 250.000 EUR. `/Due-Diligence-Extraktion` und `/Material-Vertragsverzeichnis` wenden den neuen Wert an. Bestehende Findings bleiben unverändert."
 
 ## Risiken und typische Fehler
 
-- **Abschnitte löschen.** Wenn der Nutzer etwas „entfernen" möchte, Wert auf `[Nicht konfiguriert]` setzen und Auswirkung erläutern.
-- **Interne Inkonsistenz ignorieren.** Wenn die Änderung das Profil inkonsistent macht (z.B. Kapitalmarkt-Modul deaktiviert + „BaFin-Kontakt" in Eskalationsmatrix; oder konservatives Risikoprofil + sehr hohe Schwellenwerte), Spannung flaggen.
+- **Abschnitte löschen.** Wenn der Nutzer etwas "entfernen" möchte, Wert auf `[Nicht konfiguriert]` setzen und Auswirkung erläutern.
+- **Interne Inkonsistenz ignorieren.** Wenn die Änderung das Profil inkonsistent macht (z.B. Kapitalmarkt-Modul deaktiviert + "BaFin-Kontakt" in Eskalationsmatrix; oder konservatives Risikoprofil + sehr hohe Schwellenwerte), Spannung flaggen.
 - **Schutzfunktionen degradieren.** Das `[überprüfen]`-Flag, Quellenangaben auf abgerufenen Dokumenten und `[verifizieren]`-Tags auf zitierten Entscheidungen sind inhaltlich tragende Elemente — Trade-off vor Entfernung erläutern.
 - **Mehrere Änderungen gleichzeitig.** Eine Änderung pro Durchlauf, kein Re-Interview.
 

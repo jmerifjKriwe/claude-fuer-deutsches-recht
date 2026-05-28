@@ -66,7 +66,7 @@ oder Logo schützen; DPMA erteilt Beanstandung; Wettbewerber widerspricht.
 ### Leitentscheidungen
 
 1. BGH, Urt. v. 02.03.2017 – I ZR 30/16, GRUR 2017, 914 Rn. 16 –
-   „Medicon-Apotheke/MediCo Apotheke": Zum Freihaltebedürfnis (§ 8 Abs. 2 Nr. 2 MarkenG):
+   "Medicon-Apotheke/MediCo Apotheke": Zum Freihaltebedürfnis (§ 8 Abs. 2 Nr. 2 MarkenG):
    Beschreibende Angaben, die zur Bezeichnung von Merkmalen der angemeldeten
    Waren oder Dienstleistungen dienen können, sind auch dann von der Eintragung
    ausgeschlossen, wenn die Beschreibung mittelbar oder nur in einer möglichen
@@ -75,7 +75,7 @@ oder Logo schützen; DPMA erteilt Beanstandung; Wettbewerber widerspricht.
    versteht.
 
 2. BGH, Beschl. v. 10.11.2016 – I ZB 86/15, GRUR 2017, 412 Rn. 22 –
-   „Langenscheidt-Gelb": Zur Schutzfähigkeit abstrakter Farbmarken; einzelne
+   "Langenscheidt-Gelb": Zur Schutzfähigkeit abstrakter Farbmarken; einzelne
    Farbe ohne geografische Kontur kann Unterscheidungskraft haben, wenn sie durch
    langjährige Benutzung Verkehrsdurchsetzung erlangt hat; strenger Maßstab
    wegen Freihaltebedürfnis (§ 8 Abs. 2 Nr. 1 und 2 MarkenG).
@@ -141,16 +141,16 @@ oder Logo schützen; DPMA erteilt Beanstandung; Wettbewerber widerspricht.
 
 ## Beispiel
 
-*Sachverhalt:* Mandantin möchte die Wortmarke „FRISCHKLAR" für Mineralwasser
+*Sachverhalt:* Mandantin möchte die Wortmarke "FRISCHKLAR" für Mineralwasser
 (Klasse 32) und Vertrieb von Getränken (Klasse 35) beim DPMA anmelden.
 
 *Hindernisanalyse (Gutachtenstil):*
 
-Fraglich ist, ob der Begriff „FRISCHKLAR" die erforderliche Unterscheidungskraft
+Fraglich ist, ob der Begriff "FRISCHKLAR" die erforderliche Unterscheidungskraft
 besitzt (§ 8 Abs. 2 Nr. 1 MarkenG) und nicht beschreibend ist (§ 8 Abs. 2
 Nr. 2 MarkenG).
 
-„FRISCH" und „KLAR" sind für Mineralwasser beschreibende Merkmale (Frische,
+"FRISCH" und "KLAR" sind für Mineralwasser beschreibende Merkmale (Frische,
 Klarheit). Die Kombination könnte als Gesamtbegriff dennoch hinreichende
 Unterscheidungskraft haben, wenn sie nicht lexikalisch nachweisbar ist und vom
 Verkehr als Fantasiebezeichnung verstanden wird (vgl. BGH, Urt. v. 02.03.2017

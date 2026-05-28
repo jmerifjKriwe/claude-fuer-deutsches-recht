@@ -23,7 +23,7 @@ Befehlsargument:
 - `--senden` + Kontext oder Pfad zur Meldungsunterlage
 - `--reagieren` + Pfad zur oder eingefügte eingegangene Meldung
 - `--gegenvorstellung` + Kontext
-- (kein Argument) → fragen: „Sollen wir eine Meldung senden, auf eine eingegangene reagieren oder eine Gegenvorstellung formulieren?"
+- (kein Argument) → fragen: "Sollen wir eine Meldung senden, auf eine eingegangene reagieren oder eine Gegenvorstellung formulieren?"
 
 ## Rechtlicher Rahmen
 
@@ -300,7 +300,7 @@ Bei DSA-Plattformen: Beschwerdemechanismus nach Art. 20 DSA nutzen; ggf. außerg
 - `--reagieren`: Triagierungsvermerk mit Arbeitsergebnis-Kopfzeile; privilegiert und vertraulich.
 - `--gegenvorstellung`: Gegenvorstellungsentwurf (Klartext). Im Chat zur Überprüfung zeigen.
 
-Abschlusssatz (in-Chat-Vorschau): *„Dies ist ein Entwurf zur anwaltlichen Prüfung, kein versandfertiges Schreiben. Ein Rechtsanwalt prüft, bearbeitet und übernimmt fachliche Verantwortung vor dem Versand."*
+Abschlusssatz (in-Chat-Vorschau): *"Dies ist ein Entwurf zur anwaltlichen Prüfung, kein versandfertiges Schreiben. Ein Rechtsanwalt prüft, bearbeitet und übernimmt fachliche Verantwortung vor dem Versand."*
 
 ## Beispiel
 
@@ -314,7 +314,7 @@ Abschlusssatz (in-Chat-Vorschau): *„Dies ist ein Entwurf zur anwaltlichen Prü
 > Sehr geehrte Damen und Herren,
 >
 > ich bin Rechtsinhaber / bevollmächtigte Vertreterin für folgendes urheberrechtlich geschütztes Werk:
-> Fotografie „[Bildtitel]", aufgenommen am [Datum], Urheber [Name] (§ 7 UrhG).
+> Fotografie "[Bildtitel]", aufgenommen am [Datum], Urheber [Name] (§ 7 UrhG).
 >
 > Dieses Werk wird auf Ihrer Plattform ohne Genehmigung genutzt unter:
 > [URL]

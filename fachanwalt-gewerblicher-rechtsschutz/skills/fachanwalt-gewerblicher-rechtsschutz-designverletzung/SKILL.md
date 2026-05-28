@@ -40,7 +40,7 @@ description: "Geschmacksmuster- oder Designverletzung prüfen und Ansprüche dur
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BGH | I ZR 23/10 | 28.09.2011 | Kinderwagen I: Maßstab „informierter Benutzer" beim Gesamteindrucksvergleich; kein Durchschnittskunde |
+| BGH | I ZR 23/10 | 28.09.2011 | Kinderwagen I: Maßstab "informierter Benutzer" beim Gesamteindrucksvergleich; kein Durchschnittskunde |
 | BGH | I ZR 211/08 | 24.03.2011 | Schreibgeräte: Schutzumfang Geschmacksmuster abhängig vom Grad der Eigenart |
 | EuGH | C-281/10 | 20.10.2011 | PepsiCo/Grupo Promer: Informierter Benutzer nimmt Designs nacheinander wahr; kein direkter Vergleich nötig |
 | OLG Düsseldorf | I-20 U 261/20 | 17.03.2022 | Designverletzung im Online-Handel: Produktbild auf Amazon-Plattform als öffentliches Anbieten i. S. § 38 DesignG |
@@ -240,12 +240,12 @@ den Rechteinhabern autorisiert sind.
 
 | Gegenargument | Herkunft | Reaktion |
 |--------------|---------|----------|
-| „Design fehlt Eigenart" | Beklagte | Sachverständigengutachten einholen; Designvergleich mit Stand der Technik aufbereiten; hohe Hürde für Nichtigkeitsgegenklage |
-| „Kein gleicher Gesamteindruck" | Beklagte | BGH Kinderwagen I (I ZR 23/10): Gesamteindruck, nicht Detailvergleich; prägende Merkmale herausarbeiten |
-| „Vorveröffentlichung durch Klägerin beseitigt Neuheit" | Beklagte | Neuheitsschonfrist § 5 DesignG (12 Monate) bei Eigenoffenbarung; Datum der Erstveröffentlichung prüfen |
-| „Erschöpfung § 48 DesignG" | Beklagte | War Erstinverkehrbringen durch Rechteinhaber autorisiert? Nachweis der Lieferkette |
-| „Antrag nicht dringlich — zu lange gewartet" | Beklagte | Genaues Kenntnis-Datum dokumentieren; subjektive Dringlichkeit (ab tatsächlicher Kenntnis, nicht Erkennbarkeitszeitpunkt) |
-| „Verletzungsmuster ist anderes Produkt" | Beklagte | Detaillierter Vergleich Gestaltungsmerkmale; ggf. Gerichtstermin mit Originals und Mustern |
+| "Design fehlt Eigenart" | Beklagte | Sachverständigengutachten einholen; Designvergleich mit Stand der Technik aufbereiten; hohe Hürde für Nichtigkeitsgegenklage |
+| "Kein gleicher Gesamteindruck" | Beklagte | BGH Kinderwagen I (I ZR 23/10): Gesamteindruck, nicht Detailvergleich; prägende Merkmale herausarbeiten |
+| "Vorveröffentlichung durch Klägerin beseitigt Neuheit" | Beklagte | Neuheitsschonfrist § 5 DesignG (12 Monate) bei Eigenoffenbarung; Datum der Erstveröffentlichung prüfen |
+| "Erschöpfung § 48 DesignG" | Beklagte | War Erstinverkehrbringen durch Rechteinhaber autorisiert? Nachweis der Lieferkette |
+| "Antrag nicht dringlich — zu lange gewartet" | Beklagte | Genaues Kenntnis-Datum dokumentieren; subjektive Dringlichkeit (ab tatsächlicher Kenntnis, nicht Erkennbarkeitszeitpunkt) |
+| "Verletzungsmuster ist anderes Produkt" | Beklagte | Detaillierter Vergleich Gestaltungsmerkmale; ggf. Gerichtstermin mit Originals und Mustern |
 
 ## Streitwert und Kosten
 

@@ -33,7 +33,7 @@ zwischen
 
   [Vor- und Nachname Gesellschafter]
   [Anschrift]
-  - im Folgenden „der Gläubiger" -
+  - im Folgenden "der Gläubiger" -
 
 und
 
@@ -41,7 +41,7 @@ und
   vertreten durch [Geschäftsführer]
   [Anschrift]
   HRB [...] AG [...]
-  - im Folgenden „die Schuldnerin" -
+  - im Folgenden "die Schuldnerin" -
 
 1. Praeambel
 

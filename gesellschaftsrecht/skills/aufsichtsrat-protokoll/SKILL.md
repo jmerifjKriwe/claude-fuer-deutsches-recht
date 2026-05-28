@@ -1,6 +1,6 @@
 ---
 name: aufsichtsrat-protokoll
-description: "Erstellt Protokolle von Vorstandssitzungen (AG), Aufsichtsratssitzungen (AG, § 107 AktG) und Gesellschafterversammlungen (GmbH, § 48 GmbHG) im Hausformat. Erkennt bevorstehende Organsitzungen aus dem Kalender, fragt nach Tagesordnung und Materialien und erstellt einen vollständigen Entwurf. Trigger: „Protokoll\", „Vorstandssitzung\", „Aufsichtsratssitzung\", „Gesellschafterversammlung\", „Protokollentwurf\", „Sitzungsprotokoll\"."
+description: "Erstellt Protokolle von Vorstandssitzungen (AG), Aufsichtsratssitzungen (AG, § 107 AktG) und Gesellschafterversammlungen (GmbH, § 48 GmbHG) im Hausformat. Erkennt bevorstehende Organsitzungen aus dem Kalender, fragt nach Tagesordnung und Materialien und erstellt einen vollständigen Entwurf. Trigger: "Protokoll\", "Vorstandssitzung\", "Aufsichtsratssitzung\", "Gesellschafterversammlung\", "Protokollentwurf\", "Sitzungsprotokoll\"."
 ---
 
 # Vorstands- und Aufsichtsratsprotokoll (AG: § 107 AktG; GmbH: § 48 GmbHG)
@@ -37,17 +37,17 @@ Bevor das Protokoll erstellt wird, sind folgende Punkte zu klären:
 ### Normtexte mit Auszügen
 
 **§ 107 Abs. 2 AktG — Niederschriftspflicht Aufsichtsrat**
-> „Über jede Sitzung des Aufsichtsrats ist eine Niederschrift anzufertigen, die Ort und Tag der Sitzung, die Teilnehmer, die Gegenstände der Tagesordnung, den wesentlichen Inhalt der Verhandlungen und die Beschlüsse des Aufsichtsrats enthält. [...] Die Niederschrift ist vom Vorsitzenden zu unterzeichnen."
+> "Über jede Sitzung des Aufsichtsrats ist eine Niederschrift anzufertigen, die Ort und Tag der Sitzung, die Teilnehmer, die Gegenstände der Tagesordnung, den wesentlichen Inhalt der Verhandlungen und die Beschlüsse des Aufsichtsrats enthält. [...] Die Niederschrift ist vom Vorsitzenden zu unterzeichnen."
 
-Inhaltspflichten: Ort, Tag, Teilnehmer, Gegenstände der Tagesordnung, wesentlicher Inhalt der Verhandlungen, Beschlüsse, Abstimmungsergebnisse. Die Formulierung „wesentlicher Inhalt der Verhandlungen" ist streitig (s. Hüffer/Koch § 107 Rn. 11): Herrschende Meinung: keine wortgetreue Wiedergabe erforderlich, aber die tragenden Erwägungen müssen erkennbar sein.
+Inhaltspflichten: Ort, Tag, Teilnehmer, Gegenstände der Tagesordnung, wesentlicher Inhalt der Verhandlungen, Beschlüsse, Abstimmungsergebnisse. Die Formulierung "wesentlicher Inhalt der Verhandlungen" ist streitig (s. Hüffer/Koch § 107 Rn. 11): Herrschende Meinung: keine wortgetreue Wiedergabe erforderlich, aber die tragenden Erwägungen müssen erkennbar sein.
 
 **§ 48 GmbHG — Gesellschafterversammlung**
-> „Die Beschlüsse der Gesellschafter werden in Versammlungen gefasst. [...] Die Gesellschafterversammlung wird durch die Geschäftsführer berufen."
+> "Die Beschlüsse der Gesellschafter werden in Versammlungen gefasst. [...] Die Gesellschafterversammlung wird durch die Geschäftsführer berufen."
 
 Protokollpflicht: § 48 GmbHG enthält keine gesetzliche Protokollpflicht. Sie ergibt sich aus dem Gesellschaftsvertrag (übliche Klausel) oder aus Beweiszwecken. Bei § 48 Abs. 2 GmbHG (schriftliches Abstimmungsverfahren) empfiehlt sich ein schriftliches Protokoll, das die Einvernehmlichkeit aller Gesellschafter dokumentiert.
 
 **§ 130 AktG — Beurkundung der Hauptversammlungsbeschlüsse**
-> „(1) Jeder Beschluß der Hauptversammlung ist durch eine über die Verhandlung notariell aufgenommene Niederschrift zu beurkunden."
+> "(1) Jeder Beschluß der Hauptversammlung ist durch eine über die Verhandlung notariell aufgenommene Niederschrift zu beurkunden."
 
 Gilt für börsennotierte AG. Für nicht börsennotierte AG reicht nach § 130 Abs. 4 AktG eine vom Vorsitzenden und vom Hauptaktionär unterzeichnete Niederschrift.
 
@@ -61,15 +61,15 @@ Gilt für börsennotierte AG. Für nicht börsennotierte AG reicht nach § 130 A
 | § 246 Abs. 1 AktG | Anfechtungsfrist | 1 Monat ab Beschlussfassung |
 
 **§ 47 Abs. 4 GmbHG — Stimmverbot GmbH**
-> „Ein Gesellschafter, welcher durch die Beschlußfassung entlastet oder von einer Verbindlichkeit befreit werden soll, hat hierbei kein Stimmrecht und darf ein solches auch nicht für andere ausüben."
+> "Ein Gesellschafter, welcher durch die Beschlußfassung entlastet oder von einer Verbindlichkeit befreit werden soll, hat hierbei kein Stimmrecht und darf ein solches auch nicht für andere ausüben."
 
 Das Stimmverbot gilt auch für Beschlüsse über die Einleitung von Rechtsstreitigkeiten gegen den betreffenden Gesellschafter. Verstoß führt zur Anfechtbarkeit des Beschlusses.
 
 **§ 136 AktG — Stimmverbotsregelungen bei der AG**
-> „(1) Niemand kann für sich oder für einen anderen das Stimmrecht ausüben, wenn darüber Beschluß gefaßt wird, ob er zu entlasten oder von einer Verbindlichkeit zu befreien ist oder ob die Gesellschaft gegen ihn einen Anspruch geltend machen soll."
+> "(1) Niemand kann für sich oder für einen anderen das Stimmrecht ausüben, wenn darüber Beschluß gefaßt wird, ob er zu entlasten oder von einer Verbindlichkeit zu befreien ist oder ob die Gesellschaft gegen ihn einen Anspruch geltend machen soll."
 
 **§ 108 Abs. 2 AktG — Beschlussfähigkeit des Aufsichtsrats**
-> „Der Aufsichtsrat ist beschlußfähig, wenn mindestens drei Mitglieder an der Beschlußfassung teilnehmen."
+> "Der Aufsichtsrat ist beschlußfähig, wenn mindestens drei Mitglieder an der Beschlußfassung teilnehmen."
 
 Zusätzlich: Mindestens die Hälfte der Gesamtzahl der Mitglieder muss anwesend sein (§ 108 Abs. 2 S. 1 AktG).
 
@@ -415,7 +415,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 ### Schritt 1: Sitzung identifizieren
 
 **Kalendererkennung** (wenn Kalender-Connector autorisiert): Suche nach bevorstehenden Ereignissen mit:
-- „Vorstandssitzung", „Aufsichtsratssitzung", „AR-Sitzung", „Gesellschafterversammlung", „GV", „Hauptversammlung", „HV", „Beiratssitzung"
+- "Vorstandssitzung", "Aufsichtsratssitzung", "AR-Sitzung", "Gesellschafterversammlung", "GV", "Hauptversammlung", "HV", "Beiratssitzung"
 - Zeitfenster: 30 Tage voraus; bei Nichtfund 14 Tage rückwärts (Protokolle häufig nachträglich erstellt).
 
 Falls kein Connector: direkt fragen — welches Organ, welches Datum, welcher Typ?

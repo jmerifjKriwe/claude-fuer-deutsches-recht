@@ -139,7 +139,7 @@ in Betracht ziehen werden.
 
 **Abmahnungsentwurf (Auszug):**
 
-> „Wir rügen folgendes Verhalten: Am 03.03.2025 haben Sie Ihre Arbeitsleistung nicht wie vertraglich geschuldet um 08:00 Uhr, sondern erst um 08:45 Uhr aufgenommen, ohne uns vorher über die Verspätung zu informieren. Sie haben dadurch gegen Ihre arbeitsvertragliche Pflicht zur pünktlichen Erbringung der Arbeitsleistung verstoßen. Wir fordern Sie auf, Ihre Arbeit künftig pünktlich um 08:00 Uhr aufzunehmen und uns bei absehbaren Verspätungen rechtzeitig zu informieren. Wir weisen Sie ausdrücklich darauf hin, dass wir im Wiederholungsfall arbeitsrechtliche Konsequenzen bis hin zur Kündigung des Arbeitsverhältnisses in Betracht ziehen werden."
+> "Wir rügen folgendes Verhalten: Am 03.03.2025 haben Sie Ihre Arbeitsleistung nicht wie vertraglich geschuldet um 08:00 Uhr, sondern erst um 08:45 Uhr aufgenommen, ohne uns vorher über die Verspätung zu informieren. Sie haben dadurch gegen Ihre arbeitsvertragliche Pflicht zur pünktlichen Erbringung der Arbeitsleistung verstoßen. Wir fordern Sie auf, Ihre Arbeit künftig pünktlich um 08:00 Uhr aufzunehmen und uns bei absehbaren Verspätungen rechtzeitig zu informieren. Wir weisen Sie ausdrücklich darauf hin, dass wir im Wiederholungsfall arbeitsrechtliche Konsequenzen bis hin zur Kündigung des Arbeitsverhältnisses in Betracht ziehen werden."
 
 **Rechtliche Bewertung:** Das Schreiben genügt den Anforderungen an eine wirksame Abmahnung: Es bezeichnet das Verhalten konkret (Datum, Uhrzeit, Art des Verstoßes), rügt die Pflichtverletzung, fordert zur Verhaltensänderung auf und enthält die gebotene Kündigungswarnung (BAG, Urt. v. 19.04.2007 – 2 AZR 180/06, NZA 2007, 1227 Rn. 17).
 

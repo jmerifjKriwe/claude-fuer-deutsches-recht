@@ -13,7 +13,7 @@ Eine Hausarbeit ohne saubere Zitierweise ist eine wackelige Hausarbeit. Jede jur
 
 ### Pflicht-Beleg
 
-Jede juristische Aussage, die nicht trivial ist (nicht: „A hat eine Willenserklärung abgegeben"), braucht einen Beleg:
+Jede juristische Aussage, die nicht trivial ist (nicht: "A hat eine Willenserklärung abgegeben"), braucht einen Beleg:
 
 - Eine Definition
 - Eine Methodenwahl
@@ -106,7 +106,7 @@ Grüneberg, in: Palandt/Grüneberg, BGB, 84. Auflage, 2025, § 280 BGB Rn. 12.
 Schmidt, in: BeckOK BGB, Stand 1.7.2025, § 305 BGB Rn. 18.
 ```
 
-Bei BeckOK: „Stand" (Aktualisierungs-Datum) statt Auflage.
+Bei BeckOK: "Stand" (Aktualisierungs-Datum) statt Auflage.
 
 ### Staudinger
 
@@ -140,7 +140,7 @@ Müller/Schmidt in JuS 2024 Seite 567 mit Folgeseite 570.
 In der ersten Erwähnung lang:
 
 ```
-Müller, „Die Drittwirkung des Allgemeinen Persönlichkeitsrechts im Mietrecht" in JZ 2024 Seite 765.
+Müller, "Die Drittwirkung des Allgemeinen Persönlichkeitsrechts im Mietrecht" in JZ 2024 Seite 765.
 ```
 
 Bei wiederholter Erwähnung kurz:
@@ -208,7 +208,7 @@ www.bvl.bund.de/FAQs (abgerufen am 12.07.2025).
 - **Blog-Beiträge / Webseiten**: nur ausnahmsweise, mit Vorsicht
 
 ```
-Häberle, Verfassungsblog 22.04.2024, „Klimaklage vor dem BVerfG",
+Häberle, Verfassungsblog 22.04.2024, "Klimaklage vor dem BVerfG",
 www.verfassungsblog.de/klimaschluss-folgen (abgerufen am 14.07.2024).
 ```
 
@@ -235,29 +235,29 @@ Reihenfolge:
 
 ### Fehler 1: Fehlende Fundstelle
 
-❌ „BGH NJW 2024" — keine Anfangsseite
+❌ "BGH NJW 2024" — keine Anfangsseite
 
-✅ „BGH in NJW 2024 Seite 1245" — Anfangsseite präzise
+✅ "BGH in NJW 2024 Seite 1245" — Anfangsseite präzise
 
 ### Fehler 2: Fehlende konkrete Stelle
 
-❌ „BGH NJW 2024 ohne Seitenangabe"
+❌ "BGH NJW 2024 ohne Seitenangabe"
 
-✅ „BGH NJW 2024 Seite 1245 mit Folgeseite 1248" oder „... Seite 1245 Rn. 24"
+✅ "BGH NJW 2024 Seite 1245 mit Folgeseite 1248" oder "... Seite 1245 Rn. 24"
 
 ### Fehler 3: Falscher Bearbeiter-Name
 
-❌ „Palandt § 433 BGB" — kein Bearbeiter
+❌ "Palandt § 433 BGB" — kein Bearbeiter
 
-✅ „Grüneberg, in: Palandt/Grüneberg, § 433 BGB Rn. 12"
+✅ "Grüneberg, in: Palandt/Grüneberg, § 433 BGB Rn. 12"
 
-(Der „Palandt"-Kommentar heißt seit 2022 „Palandt/Grüneberg"; Bearbeiter-Name angeben.)
+(Der "Palandt"-Kommentar heißt seit 2022 "Palandt/Grüneberg"; Bearbeiter-Name angeben.)
 
 ### Fehler 4: Fehlende Auflage
 
-❌ „MüKo BGB § 433" — keine Auflage
+❌ "MüKo BGB § 433" — keine Auflage
 
-✅ „Säcker, in: MüKo BGB, 9. Aufl. 2025, § 433 BGB Rn. 24"
+✅ "Säcker, in: MüKo BGB, 9. Aufl. 2025, § 433 BGB Rn. 24"
 
 ### Fehler 5: Veraltete Quellen
 
@@ -307,7 +307,7 @@ Grüneberg, Christian: in: Palandt, Bürgerliches Gesetzbuch,
 Medicus, Dieter / Lorenz, Stephan: Schuldrecht II Besonderer Teil,
    19. Auflage, München 2024 (zitiert: Medicus/Lorenz, Schuldrecht II, § ... Rn. ...).
 
-Müller, Hans: „Die Drittwirkung des Allgemeinen Persönlichkeitsrechts",
+Müller, Hans: "Die Drittwirkung des Allgemeinen Persönlichkeitsrechts",
    in: JZ 2024, S. 765 ff. (zitiert: Müller, JZ 2024, ...).
 
 Säcker, Franz Jürgen: in: Münchener Kommentar zum BGB, 9. Auflage,

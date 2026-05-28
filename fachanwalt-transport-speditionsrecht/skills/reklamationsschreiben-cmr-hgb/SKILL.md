@@ -246,11 +246,11 @@ Differenz zu regulärer Haftung: EUR 65.583
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „Frachtbrief-Vorbehalt nicht ausreichend formuliert" | Rechtsprechung ist großzügig: allgemeiner Vorbehalt bei Annahme reicht (OLG Hamburg 6 U 201/18); nur völliges Schweigen schadet |
-| „Schaden entstand nicht während Transport" | Frachtbrief ohne Beanstandungen seitens Frachtführer bei Übernahme begründet Vermutung ordnungsgemäßer Übergabe; Frachtführer muss gegenteiligen Beweis führen |
-| „Haftungshöchstbetrag gilt; voller Warenwert nicht ersatzfähig" | Art. 29 CMR prüfen: Organisationsverschulden (kein Scan, keine Kontrolle) kann qualifiziertes Verschulden begründen (BGH I ZR 100/19) |
-| „Reklamationsfrist verpasst; Anspruch erloschen" | § 438 HGB / Art. 30 CMR begründen nur Beweiserleichterung zugunsten des Frachtführers, kein materieller Anspruchsverlust; Anspruch bleibt bestehen, aber schwerer zu beweisen |
-| „Cargo-Versicherung hat bereits gezahlt; kein Schaden mehr" | Subrogation nach § 86 VVG; Versicherung tritt in Anspruch des Versicherungsnehmers ein; eigene Regulierung des Frachtführers gegenüber Versicherer möglich |
+| "Frachtbrief-Vorbehalt nicht ausreichend formuliert" | Rechtsprechung ist großzügig: allgemeiner Vorbehalt bei Annahme reicht (OLG Hamburg 6 U 201/18); nur völliges Schweigen schadet |
+| "Schaden entstand nicht während Transport" | Frachtbrief ohne Beanstandungen seitens Frachtführer bei Übernahme begründet Vermutung ordnungsgemäßer Übergabe; Frachtführer muss gegenteiligen Beweis führen |
+| "Haftungshöchstbetrag gilt; voller Warenwert nicht ersatzfähig" | Art. 29 CMR prüfen: Organisationsverschulden (kein Scan, keine Kontrolle) kann qualifiziertes Verschulden begründen (BGH I ZR 100/19) |
+| "Reklamationsfrist verpasst; Anspruch erloschen" | § 438 HGB / Art. 30 CMR begründen nur Beweiserleichterung zugunsten des Frachtführers, kein materieller Anspruchsverlust; Anspruch bleibt bestehen, aber schwerer zu beweisen |
+| "Cargo-Versicherung hat bereits gezahlt; kein Schaden mehr" | Subrogation nach § 86 VVG; Versicherung tritt in Anspruch des Versicherungsnehmers ein; eigene Regulierung des Frachtführers gegenüber Versicherer möglich |
 
 ---
 

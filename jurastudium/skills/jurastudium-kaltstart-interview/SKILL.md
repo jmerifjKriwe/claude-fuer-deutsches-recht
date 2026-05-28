@@ -105,20 +105,20 @@ Das Plugin nimmt entgegen:
 ### Schritt 6: JAG-spezifischer Check
 
 Das Plugin prüft das Bundesland und fragt ggf.:
-- „Nach der JAG [Bundesland] sind folgende Fächer im 1. StEx Pflicht: [Liste]. Stimmt das mit deiner Planung überein?"
-- „Hat dein JPA bekannte Schwerpunktsetzungen (z. B. NRW: Sachenrecht häufig; Bayern: Grundbuchrecht)? Falls du alte Klausuren hast, können wir das ableiten."
+- "Nach der JAG [Bundesland] sind folgende Fächer im 1. StEx Pflicht: [Liste]. Stimmt das mit deiner Planung überein?"
+- "Hat dein JPA bekannte Schwerpunktsetzungen (z. B. NRW: Sachenrecht häufig; Bayern: Grundbuchrecht)? Falls du alte Klausuren hast, können wir das ableiten."
 
 ### Schritt 7: Gutachtenstil-Kurzcheck (optional)
 
 Das Plugin stellt einen kurzen Einstiegsfall und prüft, ob der Gutachtenstil sitzt:
-> „Formuliere den Obersatz für einen Schadensersatzanspruch wegen einer verspäteten Lieferung."
+> "Formuliere den Obersatz für einen Schadensersatzanspruch wegen einer verspäteten Lieferung."
 
 Antwort wird bewertet (hypothetisch / assertorisch, Normbezug vorhanden?).
 
 ### Schritt 8: Profilschreiben
 
 Das Plugin schreibt alle Angaben in `~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md` und meldet:
-> „Lernprofil angelegt. Du kannst jetzt alle Skills nutzen. Ich empfehle als nächsten Schritt: `/jurastudium:lernplan` für eine erste Lernplanung."
+> "Lernprofil angelegt. Du kannst jetzt alle Skills nutzen. Ich empfehle als nächsten Schritt: `/jurastudium:lernplan` für eine erste Lernplanung."
 
 ## Quellen und Zitierweise
 

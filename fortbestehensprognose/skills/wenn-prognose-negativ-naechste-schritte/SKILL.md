@@ -148,7 +148,7 @@ Wenn nicht klar ist ob die Prognose negativ ist (Grenzfall): **lieber Anwalt ein
 
 - `eskalation-an-insolvenzanwalt-<datum>.docx` als Mitteilung.
 - Termin im Kalender innerhalb 24 Stunden.
-- Status-Eintrag im Sanierungsbausteine-Tracker: „Prüfung negativ — Eskalation eingeleitet".
+- Status-Eintrag im Sanierungsbausteine-Tracker: "Prüfung negativ — Eskalation eingeleitet".
 - Ende dieses Plugin-Workflows; Fortführung im Plugin `insolvenzrecht` durch Insolvenzanwalt.
 
 

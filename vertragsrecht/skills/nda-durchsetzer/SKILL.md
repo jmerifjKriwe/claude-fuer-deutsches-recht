@@ -1,6 +1,6 @@
 ---
 name: nda-durchsetzer
-description: "Überarbeitet ein NDA der Gegenseite **konservativ im Änderungsmodus**, ohne Struktur, Nummerierung, Reihenfolge oder Look-&-Feel zu verändern, und erstellt parallel eine strukturierte Analyse (Executive Summary, struktureller Vergleich, Klausel-für-Klausel-Vergleich mit Risikoampel GÜNSTIG/NEUTRAL/NACHTEILIG/ROTE LINIE, fehlende Regelungen, Klauselentwürfe, priorisierte Änderungsliste). Lädt, wenn Schlagwörter wie „NDA durchsetzen\", „NDA Redline\", „NDA Gegenseite überarbeiten\", „Geheimhaltungsvereinbarung Änderungsmodus\", „Mindeststandard NDA\" oder „NDA-Verhandlung\" auftreten."
+description: "Überarbeitet ein NDA der Gegenseite **konservativ im Änderungsmodus**, ohne Struktur, Nummerierung, Reihenfolge oder Look-&-Feel zu verändern, und erstellt parallel eine strukturierte Analyse (Executive Summary, struktureller Vergleich, Klausel-für-Klausel-Vergleich mit Risikoampel GÜNSTIG/NEUTRAL/NACHTEILIG/ROTE LINIE, fehlende Regelungen, Klauselentwürfe, priorisierte Änderungsliste). Lädt, wenn Schlagwörter wie "NDA durchsetzen\", "NDA Redline\", "NDA Gegenseite überarbeiten\", "Geheimhaltungsvereinbarung Änderungsmodus\", "Mindeststandard NDA\" oder "NDA-Verhandlung\" auftreten."
 ---
 
 # NDA-Durchsetzer — Redline der Gegenseite im Änderungsmodus + strukturierte Analyse
@@ -90,7 +90,7 @@ Detaillierte Soll-Klauseln und rote Linien siehe
 2. **Strukturschutz** — keine Klausel löschen, keine Klauseln umstellen, keine neue Nummerierung. Änderungen nur durch:
    - Einfügung einzelner Wörter (z. B. `mindestens`, `auch mündlich`, `unwiderruflich`, `verschuldensunabhängig`)
    - Einfügung kurzer Halbsätze (z. B. `einschließlich verbundener Unternehmen i. S. d. § 15 AktG`)
-   - Streichung einzelner kritischer Wörter (z. B. „**ausschließlich** schriftlich gekennzeichnete" → „schriftlich gekennzeichnete")
+   - Streichung einzelner kritischer Wörter (z. B. "**ausschließlich** schriftlich gekennzeichnete" → "schriftlich gekennzeichnete")
    - Ersetzung problematischer Begriffe durch minimale sprachliche Anpassung
 3. **Neue Absätze nur, wenn zwingend** — und dann möglichst als Unterabsatz innerhalb der nächstgelegenen bestehenden Klausel (z. B. `(neu) Im Übrigen gilt …`).
 4. **Mindeststandards integrieren** — gegen den Katalog (Abschnitt oben + `references/mindeststandards.md`) jede Klausel matchen und nur fehlende Bestandteile minimal ergänzen.
@@ -125,10 +125,10 @@ Drei Artefakte:
 ### Beispiel Redline-Snippet
 
 > Originalklausel (Prüfling):
-> *§ 1 Vertrauliche Informationen. Vertraulich sind alle Informationen, die vom Discloser als „vertraulich" gekennzeichnet werden.*
+> *§ 1 Vertrauliche Informationen. Vertraulich sind alle Informationen, die vom Discloser als "vertraulich" gekennzeichnet werden.*
 >
 > Redline (im Änderungsmodus):
-> *§ 1 Vertrauliche Informationen. Vertraulich sind alle Informationen, die vom Discloser **erkennbar oder** als „vertraulich" gekennzeichnet **übermittelt** werden**, einschließlich mündlich, visuell oder in sonstiger Form offengelegter Informationen, sofern ihre Vertraulichkeit nach der Art der Information oder den Umständen der Offenlegung erkennbar ist**.*
+> *§ 1 Vertrauliche Informationen. Vertraulich sind alle Informationen, die vom Discloser **erkennbar oder** als "vertraulich" gekennzeichnet **übermittelt** werden**, einschließlich mündlich, visuell oder in sonstiger Form offengelegter Informationen, sofern ihre Vertraulichkeit nach der Art der Information oder den Umständen der Offenlegung erkennbar ist**.*
 
 ### Beispiel Klausel-Vergleichseintrag
 
@@ -138,8 +138,8 @@ Drei Artefakte:
 | Prüfling-Klausel | § 1 Vertrauliche Informationen |
 | Inhaltlicher Vergleich | Prüfling: nur schriftlich gekennzeichnete Informationen. Referenz: alle erkennbar vertraulichen Informationen, auch mündlich/visuell. |
 | Risikoampel | `[NACHTEILIG]` |
-| Begründung | Schutzlücke bei mündlich offengelegten Geschäftsgeheimnissen; widerspricht § 2 Nr. 1 lit. b GeschGehG („angemessene Geheimhaltungsmaßnahmen" verlangt umfassenden Schutz). |
-| Redline-Vorschlag | Einfügung von „erkennbar oder" sowie Halbsatz „einschließlich mündlich, visuell oder in sonstiger Form offengelegter Informationen" |
+| Begründung | Schutzlücke bei mündlich offengelegten Geschäftsgeheimnissen; widerspricht § 2 Nr. 1 lit. b GeschGehG ("angemessene Geheimhaltungsmaßnahmen" verlangt umfassenden Schutz). |
+| Redline-Vorschlag | Einfügung von "erkennbar oder" sowie Halbsatz "einschließlich mündlich, visuell oder in sonstiger Form offengelegter Informationen" |
 | Verhandlungsargument | Marktstandard nach GeschGehG-Inkrafttreten 2019; auch im Eigeninteresse der Gegenseite, da sie bei eigener Offenlegung gleichermaßen geschützt ist (bilateral). |
 
 ## Beispiel-Ablauf
@@ -157,7 +157,7 @@ Drei Artefakte:
 ## Risiken und typische Fehler
 
 **1. Über-Redaktion**
-Verlockung, das Dokument sprachlich zu glätten. Verboten. Jede stilistische Änderung ohne materielle Notwendigkeit verletzt das Grundprinzip „Gegenseite erkennt ihr Dokument wieder" und torpediert die Verhandlung.
+Verlockung, das Dokument sprachlich zu glätten. Verboten. Jede stilistische Änderung ohne materielle Notwendigkeit verletzt das Grundprinzip "Gegenseite erkennt ihr Dokument wieder" und torpediert die Verhandlung.
 
 **2. Neue Klauseln**
 Neue eigenständige Paragraphen wirken auf die Gegenseite wie ein Re-Draft und reduzieren die Annahmewahrscheinlichkeit. Erst nach Ausschöpfung aller Möglichkeiten der punktuellen Ergänzung; dann als Unterabsatz innerhalb bestehender Klauseln.
@@ -166,13 +166,13 @@ Neue eigenständige Paragraphen wirken auf die Gegenseite wie ein Re-Draft und r
 Ergänzungen, die die eigene Seite einseitig begünstigen (z. B. drastische Vertragsstrafe, weitgehende Beweislastumkehr), unterliegen bei Einseitig-Stellung wiederum § 305 ff. BGB — und können vor Gericht für unwirksam erklärt werden. Lieber moderat formulieren als überspitzt einfügen.
 
 **4. Vertragsstrafe ohne Höhenbegrenzung**
-„Vertragsstrafe in vom Anbieter zu bestimmender Höhe" ist unwirksam. Höhe konkret oder bestimmbar formulieren (z. B. `25.000 EUR pro Einzelverstoß, maximal 250.000 EUR insgesamt`). § 343 BGB / § 348 HGB beachten.
+"Vertragsstrafe in vom Anbieter zu bestimmender Höhe" ist unwirksam. Höhe konkret oder bestimmbar formulieren (z. B. `25.000 EUR pro Einzelverstoß, maximal 250.000 EUR insgesamt`). § 343 BGB / § 348 HGB beachten.
 
-**5. „Vormals Palandt" nicht in der Analyse zitieren**
+**5. "Vormals Palandt" nicht in der Analyse zitieren**
 Aktueller BGB-Kommentar heißt **Grüneberg** (84. Aufl. 2025). Palandt-Zitate nur, wenn historische Altauflage tatsächlich gemeint und kenntlich gemacht. Siehe `references/zitierweise.md` Abschnitt 10a.
 
 **6. Gerichtsstand und Schiedsklausel verwechselt**
-Häufig bietet die Gegenseite Schiedsverfahren in Genf, London oder Singapur an — „neutraler Schiedsort" klingt fair, ist aber faktisch eine massive Kostenfalle für die kleinere Partei. Im Zweifel deutscher staatlicher Gerichtsstand vorziehen.
+Häufig bietet die Gegenseite Schiedsverfahren in Genf, London oder Singapur an — "neutraler Schiedsort" klingt fair, ist aber faktisch eine massive Kostenfalle für die kleinere Partei. Im Zweifel deutscher staatlicher Gerichtsstand vorziehen.
 
 **7. Anwendbares Recht vergessen**
 Wird in B2B-NDAs überraschend oft übersehen. Ohne Rechtswahlklausel gilt Art. 4 Rom-I-VO — bei grenzüberschreitenden NDAs unklar. Immer ausdrücklich `Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts.`

@@ -44,7 +44,7 @@ Das US-Markenrecht unterscheidet sich in fundamentalen Punkten vom europäischen
 - Nur Pre-approved Goods/Services aus ID Manual
 - Keine Änderungen ohne Aufpreis
 - Beschleunigt: weniger Office Actions bei sauberer ID-Beschreibung
-- Empfehlung für klôtzzkètté in Klasse 25: „Clothing, namely, dresses, skirts, blouses, jackets, coats; footwear; headwear"
+- Empfehlung für klôtzzkètté in Klasse 25: "Clothing, namely, dresses, skirts, blouses, jackets, coats; footwear; headwear"
 
 **TEAS Standard (USD 350/Klasse):**
 - Eigene Warenbeschreibungen möglich
@@ -85,7 +85,7 @@ Das US-Markenrecht unterscheidet sich in fundamentalen Punkten vom europäischen
 klôtzzkètté Inc. plant US-Markteintritt in 18 Monaten. Jetzt: ITU-Anmeldung über TEAS Plus, Klasse 25. Serial Number als Prioritätsdatum gesichert. Nach Markteintritt: SOU mit Specimen (Fifth Avenue Store, Hangtag-Foto). Kosten: USD 250 + USD 150 SOU-Gebühr.
 
 ### Konstellation 2: Office Action § 2(d) — Confusion with older mark
-Examining Attorney zitiert ältere US-Marke „KLOTZKE" in Klasse 25. Koordination mit Eleanor Quintero für Response: DuPont Factors-Analyse (vgl. Skill `uspto-office-actions-und-tess-tsdr`). Response-Frist: 3 Monate.
+Examining Attorney zitiert ältere US-Marke "KLOTZKE" in Klasse 25. Koordination mit Eleanor Quintero für Response: DuPont Factors-Analyse (vgl. Skill `uspto-office-actions-und-tess-tsdr`). Response-Frist: 3 Monate.
 
 ### Konstellation 3: Section 66(a)-Anmeldung via Madrid
 klôtzzkètté nutzt bestehende EUIPO-Registrierung als Basis für Madrid-Protokoll-Designation USA (Section 66(a)). Verfahren beim USPTO läuft parallel zur Regular Application; aber: Section 66(a) hat strengere SOU-Anforderungen. Koordination mit Whitman Brennan Forsythe LLP.
@@ -137,7 +137,7 @@ for clothing, key cases, and cardholders
 
 ## Risiken & Stolperfallen
 
-- **Surname-Problem:** „Klotz" könnte vom Examining Attorney als primär als Nachname wahrgenommen werden (§ 2(e)(4)) — Nachweis: primär Phantasie-Begriff, nicht Nachname
+- **Surname-Problem:** "Klotz" könnte vom Examining Attorney als primär als Nachname wahrgenommen werden (§ 2(e)(4)) — Nachweis: primär Phantasie-Begriff, nicht Nachname
 - **Specimen-Anforderungen:** Reine Werbeanzeige reicht nicht; Marke muss als Source Identifier auf der Ware erkennbar sein
 - **ITU-Verlängerungsfristen:** Maximal 3 Jahre ab Notice of Allowance; danach verfällt die Anmeldung ohne Benutzungsnachweis
 - **Standard Character vs. Special Form:** Special-Form-Marke mit Sonderzeichen (ô/è) — Transliteration in Standard Characters zusätzlich anmelden für breiteren Schutz
@@ -156,4 +156,4 @@ Bevor die TEAS-Anmeldung eingereicht wird, klaere:
 
 > **Qualitex Co. v. Jacobson Products Co., 514 U.S. 159 (1995):** Farben koennen als Marken eingetragen werden, wenn sie durch Benutzung Secondary Meaning erworben haben; der Supreme Court bestatigte, dass Lanham Act keine kategorischen Ausschluesse fuer nicht-traditionelle Markenarten kennt.
 
-> **In re Nett Designs Inc., 236 F.3d 1339 (Fed. Cir. 2001):** Ein Zeichen ist „merely descriptive" nach § 2(e)(1) Lanham Act, wenn es eine Eigenschaft oder Qualitaet der Waren unmittelbar beschreibt; bei Phantasiewoertern im Luxusbereich ist die Beschreibungsschranke in der Regel kein Hindernis, solange keine offensichtliche laudatory Bedeutung vorliegt.
+> **In re Nett Designs Inc., 236 F.3d 1339 (Fed. Cir. 2001):** Ein Zeichen ist "merely descriptive" nach § 2(e)(1) Lanham Act, wenn es eine Eigenschaft oder Qualitaet der Waren unmittelbar beschreibt; bei Phantasiewoertern im Luxusbereich ist die Beschreibungsschranke in der Regel kein Hindernis, solange keine offensichtliche laudatory Bedeutung vorliegt.

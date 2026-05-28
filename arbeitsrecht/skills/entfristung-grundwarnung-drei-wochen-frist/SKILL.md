@@ -45,7 +45,7 @@ Die Frist beginnt mit dem **vereinbarten** Ende des Arbeitsvertrags (laut Vertra
 
 **Fristbeginn-Entscheidungsbaum:**
 ```
-Vertrag sagt: „befristet bis 31.03.2025"
+Vertrag sagt: "befristet bis 31.03.2025"
 → Fristbeginn: 01.04.2025 (§ 187 Abs. 1 BGB — Anfangstag zählt nicht)
 → Fristende: 22.04.2025 um 24:00 Uhr (3 × 7 Tage = 21 Tage, §§ 188 Abs. 2, 187 Abs. 1 BGB)
 → Fällt 22.04.2025 auf Samstag/Sonntag/Feiertag: nächster Werktag (§ 193 BGB)

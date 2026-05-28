@@ -62,7 +62,7 @@ BGH NJW 2010, 2199: Schadensbetrag des Mangels > 10 % der noch ausstehenden Verg
 ### Fiktion § 640 II 2 BGB
 
 - Ohne Reaktion AG nach Aufforderung in **angemessener Frist** -> Abnahme fingiert
-- „Angemessen" typisch 12 Werktage (BGH NJW 2017, 3590)
+- "Angemessen" typisch 12 Werktage (BGH NJW 2017, 3590)
 
 ### Bei VOB/B
 

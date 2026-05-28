@@ -47,7 +47,7 @@ Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**
 
 ### Fehler 2: Sprung-Subsumtion
 
-**Symptom**: „Hier liegt ein Kaufvertrag vor." — ohne Definition, ohne Subsumtion.
+**Symptom**: "Hier liegt ein Kaufvertrag vor." — ohne Definition, ohne Subsumtion.
 
 **Korrektur**:
 - Vier Schritte: Obersatz – Definition – Subsumtion – Ergebnis.
@@ -55,15 +55,15 @@ Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**
 
 ### Fehler 3: Ergebnis-Vorausnahme im Obersatz
 
-**Symptom**: „A hat einen Anspruch gegen B." — vor der Prüfung.
+**Symptom**: "A hat einen Anspruch gegen B." — vor der Prüfung.
 
 **Korrektur**:
-- Hypothetisch beginnen: „A könnte einen Anspruch gegen B haben."
+- Hypothetisch beginnen: "A könnte einen Anspruch gegen B haben."
 - Erst nach Prüfung das Ergebnis ziehen.
 
 ### Fehler 4: Definitions-Mangel
 
-**Symptom**: „Eine Willenserklärung liegt vor." — ohne juristische Definition.
+**Symptom**: "Eine Willenserklärung liegt vor." — ohne juristische Definition.
 
 **Korrektur**:
 - Jedes Tatbestandsmerkmal mit Definition aus Kommentar / Lehrbuch / Norm.
@@ -71,10 +71,10 @@ Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**
 
 ### Fehler 5: Subsumtion ohne Sachverhalts-Bezug
 
-**Symptom**: „Eine Willenserklärung kann ausdrücklich oder konkludent erfolgen."
+**Symptom**: "Eine Willenserklärung kann ausdrücklich oder konkludent erfolgen."
 
 **Korrektur**:
-- Nach der allgemeinen Erläuterung **konkret** subsumieren: „Hier hat A am 12.03. gesagt: ..."
+- Nach der allgemeinen Erläuterung **konkret** subsumieren: "Hier hat A am 12.03. gesagt: ..."
 
 ---
 
@@ -82,18 +82,18 @@ Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**
 
 ### Fehler 6: Wertende Wendungen ohne Beleg
 
-**Symptom**: „Natürlich ist das so." — „Selbstverständlich ..."
+**Symptom**: "Natürlich ist das so." — "Selbstverständlich ..."
 
 **Korrektur**:
-- Streiche „natürlich", „selbstverständlich", „klar".
+- Streiche "natürlich", "selbstverständlich", "klar".
 - Stattdessen: juristisch begründen.
 
 ### Fehler 7: Umgangssprache
 
-**Symptom**: „Der Typ hat dem A das Auto abgezogen."
+**Symptom**: "Der Typ hat dem A das Auto abgezogen."
 
 **Korrektur**:
-- Juristische Sprache: „T hat dem A das Fahrzeug unter Bruch fremden Gewahrsams entzogen."
+- Juristische Sprache: "T hat dem A das Fahrzeug unter Bruch fremden Gewahrsams entzogen."
 
 ### Fehler 8: Lange Sätze
 
@@ -108,12 +108,12 @@ Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**
 **Symptom**: Du schreibst aus Sicht eines Anwalts statt eines Gutachters.
 
 **Korrektur**:
-- In der Hausarbeit ist die Rolle „neutraler Gutachter", außer der Bearbeitungs-Vermerk verlangt anderes.
+- In der Hausarbeit ist die Rolle "neutraler Gutachter", außer der Bearbeitungs-Vermerk verlangt anderes.
 - Bei Schriftsatz-Aufgabe: Parteilich, aber sachlich.
 
 ### Fehler 10: Indikativ statt Konjunktiv im Obersatz
 
-**Symptom**: „A hat einen Anspruch" statt „A könnte einen Anspruch haben".
+**Symptom**: "A hat einen Anspruch" statt "A könnte einen Anspruch haben".
 
 **Korrektur**:
 - Vor der Prüfung Konjunktiv.
@@ -125,14 +125,14 @@ Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**
 
 ### Fehler 11: Fehlende Fundstelle
 
-**Symptom**: „BGH NJW 2024" ohne Anfangsseite.
+**Symptom**: "BGH NJW 2024" ohne Anfangsseite.
 
 **Korrektur**:
 - Volle Fundstelle: Gericht, Datum, Aktenzeichen, Zeitschrift Jahrgang Anfangs-Seite konkrete Stelle / Randnummer.
 
 ### Fehler 12: Unbelegte Behauptungen
 
-**Symptom**: „Die h.M. sagt..." ohne Quelle.
+**Symptom**: "Die h.M. sagt..." ohne Quelle.
 
 **Korrektur**:
 - Bei jeder juristischen Aussage: Quelle in der Fußnote.
@@ -142,14 +142,14 @@ Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**
 **Symptom**: BGH zitieren, aber nur aus einem Kommentar entnommen.
 
 **Korrektur**:
-- Original lesen, oder kennzeichnen: „Zitiert nach Müller in NJW 2024 Seite 765."
+- Original lesen, oder kennzeichnen: "Zitiert nach Müller in NJW 2024 Seite 765."
 
 ### Fehler 14: Lehrbuch-Plagiat
 
 **Symptom**: Du übernimmst Formulierungen wörtlich ohne Anführungszeichen.
 
 **Korrektur**:
-- Eigene Formulierung **mit Beleg**: „So Müller in JZ 2024 Seite 765."
+- Eigene Formulierung **mit Beleg**: "So Müller in JZ 2024 Seite 765."
 - Bei wörtlicher Wiedergabe: Anführungszeichen + Fundstelle.
 
 ---
@@ -174,14 +174,14 @@ Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**
 
 ### Fehler 17: Fehlender Sachverhalts-Bezug in Überschriften
 
-**Symptom**: „Strafbarkeit T" — ohne Konkretion.
+**Symptom**: "Strafbarkeit T" — ohne Konkretion.
 
 **Korrektur**:
-- „Strafbarkeit T wegen Diebstahls gemäß § 242 StGB"
+- "Strafbarkeit T wegen Diebstahls gemäß § 242 StGB"
 
 ### Fehler 18: Inkonsistente Personen-Buchstaben
 
-**Symptom**: Mal „A", mal „der Kläger", mal „Müller".
+**Symptom**: Mal "A", mal "der Kläger", mal "Müller".
 
 **Korrektur**:
 - Einmal vergeben (z.B. K für Kläger, B für Beklagter), durchgehend verwenden.
@@ -192,7 +192,7 @@ Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**
 
 ### Fehler 19: Sachverhalts-Tatsachen ignoriert
 
-**Symptom**: Im Sachverhalt steht „A war zur Tatzeit volltrunken", in der Subsumtion nicht erwähnt.
+**Symptom**: Im Sachverhalt steht "A war zur Tatzeit volltrunken", in der Subsumtion nicht erwähnt.
 
 **Korrektur**:
 - Jede Sachverhalts-Tatsache ist relevant, soweit nicht bewiesen ist, dass sie unwesentlich ist.
@@ -203,7 +203,7 @@ Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**
 **Symptom**: Bei mehrdeutigem Sachverhalt nur eine Lesart geprüft.
 
 **Korrektur**:
-- Wenn der Sachverhalt mehrdeutig ist: Beide Lesarten prüfen oder „hilfsweise" anführen.
+- Wenn der Sachverhalt mehrdeutig ist: Beide Lesarten prüfen oder "hilfsweise" anführen.
 
 ---
 

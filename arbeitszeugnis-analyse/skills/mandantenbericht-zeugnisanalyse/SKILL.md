@@ -33,7 +33,7 @@ Erklärung des Anspruchs nach § 109 GewO, der Beweislastverteilung und der eins
 
 ### Abschnitt 5 Erfolgsaussichten
 
-Realistische Einschätzung pro Streitpunkt. Drei Stufen: gut belegbar, vertretbar, schwierig. Beispiele: „bemüht" im Leistungsteil ist regelmäßig gut angreifbar. Eine schwache Schlussformel ohne Dankesformel ist eher verhandelbar und nur mit Zusatzkontext klagegeeignet, weil das BAG keinen allgemeinen Anspruch auf Dank, Bedauern und Wünsche annimmt. Eine reine Wortwahl-Änderung ohne Notenrelevanz ist schwierig.
+Realistische Einschätzung pro Streitpunkt. Drei Stufen: gut belegbar, vertretbar, schwierig. Beispiele: "bemüht" im Leistungsteil ist regelmäßig gut angreifbar. Eine schwache Schlussformel ohne Dankesformel ist eher verhandelbar und nur mit Zusatzkontext klagegeeignet, weil das BAG keinen allgemeinen Anspruch auf Dank, Bedauern und Wünsche annimmt. Eine reine Wortwahl-Änderung ohne Notenrelevanz ist schwierig.
 
 ### Abschnitt 6 Drei Handlungsoptionen
 
@@ -60,9 +60,9 @@ Gesamtbewertung: Note befriedigend bis ausreichend (zwischen drei und vier auf d
 Kritisch sind insbesondere folgende Stellen:
 
 - Schlussformel ohne Bedauern und ohne Dankesformel (Signalpunkt, rechtlich gesondert zu prüfen)
-- Wendung „bemuehte sich" im Bereich Arbeitsweise
+- Wendung "bemuehte sich" im Bereich Arbeitsweise
 - Auslassung der Aussage zur Vorgesetztenbeurteilung trotz Fuehrungsverantwortung
-- Steigerungsadverb „im Grossen und Ganzen" in der Gesamtzufriedenheit
+- Steigerungsadverb "im Grossen und Ganzen" in der Gesamtzufriedenheit
 
 Diese Befunde sind nach der staendigen Rechtsprechung des Bundesarbeitsgerichts berichtigungspflichtig. Der Anspruch ergibt sich aus Paragraf 109 GewO.
 

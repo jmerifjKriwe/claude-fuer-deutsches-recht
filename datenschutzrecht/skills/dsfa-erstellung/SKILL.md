@@ -94,7 +94,7 @@ Verbindlich nach `../../references/zitierweise.md`.
 - Art. 36 DSGVO (Vorab-Konsultation Aufsichtsbehörde)
 - Art. 5 Abs. 1 lit. b, c, e DSGVO (Zweckbindung, Datenminimierung, Speicherbegrenzung)
 - § 67 BDSG (Blacklist/Whitelist BfDI)
-- EDSA-Leitlinien 09/2022 zur DSFA und Bestimmung von „voraussichtlich hohem Risiko"
+- EDSA-Leitlinien 09/2022 zur DSFA und Bestimmung von "voraussichtlich hohem Risiko"
 - Artikel-29-Datenschutzgruppe, WP 248 rev.01 (DSFA-Methodik, heute EDSA-Referenz)
 - Nguyen, in: Kühling/Buchner, DSGVO/BDSG, 4. Aufl. 2024, Art. 35 Rn. 1 ff.
 - Martini, in: Paal/Pauly, DSGVO/BDSG, 3. Aufl. 2021, Art. 35 Rn. 1 ff.

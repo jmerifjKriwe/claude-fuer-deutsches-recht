@@ -32,7 +32,7 @@ Diese Hauszitierweise ist eine pragmatische Repository-Konvention. Sie ist inner
 
 Der Marker `Az.` steht direkt vor dem Aktenzeichen und ist Pflichtbestandteil.
 
-- BVerfG, Beschl. v. 06.11.2019 – Az. 1 BvR 16/13, BVerfGE 152, 152 Rn. 78 – „Recht auf Vergessen I".
+- BVerfG, Beschl. v. 06.11.2019 – Az. 1 BvR 16/13, BVerfGE 152, 152 Rn. 78 – "Recht auf Vergessen I".
 - BAG, Urt. v. 16.12.2021 – Az. 2 AZR 235/21, NZA 2022, 487 Rn. 32.
 - EuGH, Urt. v. 04.07.2023 – Az. C-252/21 (Meta Platforms), NJW 2023, 2997 Rn. 113.
 
@@ -79,9 +79,9 @@ Wo kein Pinpoint vergeben ist, ist das Datum verpflichtend; eine Ziff./Abschnitt
 
 ## Palandt-Regel (Pflichtnachfrage)
 
-**Es gibt kein aktuelles BGB-Kommentarwerk mit dem Namen „Palandt" mehr.** Der vormalige Palandt erscheint seit der **81. Auflage 2022** unter dem Titel **Grüneberg, BGB**.
+**Es gibt kein aktuelles BGB-Kommentarwerk mit dem Namen "Palandt" mehr.** Der vormalige Palandt erscheint seit der **81. Auflage 2022** unter dem Titel **Grüneberg, BGB**.
 
-1. Taucht „Palandt" als aktuelle Quelle auf → **zwingend nachfragen**, ob Altauflage (≤ 80. Aufl. 2021) gemeint ist.
+1. Taucht "Palandt" als aktuelle Quelle auf → **zwingend nachfragen**, ob Altauflage (≤ 80. Aufl. 2021) gemeint ist.
 2. Im Zweifel auf Grüneberg umstellen (aktuelle Auflage 84. Aufl. 2025).
 3. Historische Bezüge auf den Palandt nur, wenn sie als solche kenntlich sind und die Altauflage für die zitierte Aussage tatsächlich einschlägig ist.
 
@@ -113,7 +113,7 @@ Die folgenden Regeln gelten als **pragmatische Repository-Konvention**. Wissensc
 - Zeitschriftenkürzel **ohne Punkt** (NJW, ZUM, MMR, GRUR, NZA, ZIP), Ausnahme bei amtlich gesetztem Punkt (BStBl.).
 - **Vierstelliges Erscheinungsjahr** (`2020`, nie `'20`).
 - Bei Vollfundstellen in Klammern entfällt der Aufsatztitel; bei Vollzitierung im Literaturverzeichnis steht der Titel.
-- **Kein „S."** bei Zeitschriften.
+- **Kein "S."** bei Zeitschriften.
 - Anfangsseite vor Zitatseite, Zitatseite in runden Klammern ohne Komma.
 - Kein floskelhaftes `vgl.` vor einer punktgenauen Fundstelle.
 
@@ -132,15 +132,15 @@ In Deutschland besteht keine Präjudizienbindung; das BVerfG bindet nach § 31 B
 
 - **Rechtsprechung** ist gewichtig, aber argumentativ angreifbar.
 - **Kommentarliteratur** hat in der deutschen Praxis hohes Gewicht.
-- **Aufsätze** haben dauerhaften Wert. Sie tragen Dogmatik, Theorie, Rechtsphilosophie und Grundrechtsfragen wie soziale Gerechtigkeit und Gleichbehandlung — nicht „nur" aktuelle oder rechtsökonomische Fragen. Klassische Aufsätze prägen die Dogmatik über Jahrzehnte.
-- **„h. M.", „h. L.", „st. Rspr."** sind pragmatische Sprechweisen, keine wissenschaftlichen Wertungskategorien. Wer sich auf eine h. M. beruft, schuldet konkrete Belege; ein bloßes „h. M." ist kein Argument.
-- **„Mindermeinung" ist keine herabsetzende Kategorie.** Eine Auffassung wird nicht dadurch falsch, dass sie zahlenmäßig weniger Stimmen hat. Viele Mindermeinungen sind später h. M. geworden. Wer eine abweichende Auffassung zitiert, benennt sie als das, was sie ist (z. B. `aA`), und gewichtet sie inhaltlich — nicht stigmatisierend.
+- **Aufsätze** haben dauerhaften Wert. Sie tragen Dogmatik, Theorie, Rechtsphilosophie und Grundrechtsfragen wie soziale Gerechtigkeit und Gleichbehandlung — nicht "nur" aktuelle oder rechtsökonomische Fragen. Klassische Aufsätze prägen die Dogmatik über Jahrzehnte.
+- **"h. M.", "h. L.", "st. Rspr."** sind pragmatische Sprechweisen, keine wissenschaftlichen Wertungskategorien. Wer sich auf eine h. M. beruft, schuldet konkrete Belege; ein bloßes "h. M." ist kein Argument.
+- **"Mindermeinung" ist keine herabsetzende Kategorie.** Eine Auffassung wird nicht dadurch falsch, dass sie zahlenmäßig weniger Stimmen hat. Viele Mindermeinungen sind später h. M. geworden. Wer eine abweichende Auffassung zitiert, benennt sie als das, was sie ist (z. B. `aA`), und gewichtet sie inhaltlich — nicht stigmatisierend.
 
 ## Checkliste für jedes Zitat (vor Ausgabe abprüfen)
 
 - [ ] Gericht in üblicher Abkürzung?
 - [ ] Entscheidungsform (Urt./Beschl.) angegeben?
-- [ ] Datum vorhanden („v. TT.MM.JJJJ")?
+- [ ] Datum vorhanden ("v. TT.MM.JJJJ")?
 - [ ] `Az.` als Marker vor dem Aktenzeichen?
 - [ ] Aktenzeichen vollständig?
 - [ ] Fundstelle vorhanden (amtl. Sammlung + Zeitschrift)?
@@ -152,7 +152,7 @@ In Deutschland besteht keine Präjudizienbindung; das BVerfG bindet nach § 31 B
 - [ ] Bei Diss./Habil.: Marker `Diss.`/`Habil.` + Hochschulort gesetzt?
 - [ ] Bei Materialien: Herausgeber, Datum, Pinpoint, ggf. URL?
 - [ ] Reihenfolge eingehalten — Rspr. erst Hierarchie, dann chronologisch oder relevanzsortiert (konsistent)?
-- [ ] Bei umstrittener Frage: Auffassungen getrennt zitiert, ohne Stigmatisierung als „Mindermeinung"?
+- [ ] Bei umstrittener Frage: Auffassungen getrennt zitiert, ohne Stigmatisierung als "Mindermeinung"?
 - [ ] Keine `vgl.`-Floskeln ohne nachvollziehbaren Verweis?
 
 ## Vertiefung

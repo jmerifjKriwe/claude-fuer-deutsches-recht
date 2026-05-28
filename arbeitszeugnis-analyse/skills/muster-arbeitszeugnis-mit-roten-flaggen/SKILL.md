@@ -7,16 +7,16 @@ description: "Anonymisiertes Beispielzeugnis mit roten orangen und gruenen Bewer
 
 Dieses anonymisierte Musterzeugnis zeigt ein real vorkommendes Mischbild: ein Zeugnis, das auf den ersten Blick positiv erscheint, aber bei näherer Analyse mehrere rote und orange Signale enthält. Es dient ausschließlich als Schulungsmaterial zur Übung der Geheimcode-Erkennung. Alle Namen und Daten sind fiktiv.
 
-Dieses Zeugnis entspricht in der Gesamtbewertung der Note 3 bis 4. Die Signale verteilen sich: Leistungsbeurteilung enthält das klassische „bemüht"-Signal (Rot), die Verhaltensbeurteilung hat eine falsche Reihenfolge (Orange) und eine fragwürdige Formulierung (Orange), und die Schlussformel ist kühl — das Bedauern fehlt (Signal Orange bis Rot, rechtlich gesondert zu prüfen).
+Dieses Zeugnis entspricht in der Gesamtbewertung der Note 3 bis 4. Die Signale verteilen sich: Leistungsbeurteilung enthält das klassische "bemüht"-Signal (Rot), die Verhaltensbeurteilung hat eine falsche Reihenfolge (Orange) und eine fragwürdige Formulierung (Orange), und die Schlussformel ist kühl — das Bedauern fehlt (Signal Orange bis Rot, rechtlich gesondert zu prüfen).
 
 ## Geheimcode-Regeln
 
 | Satz | Signal | Ampel | Note |
 |---|---|---|---|
-| „zur vollen Zufriedenheit" ohne „stets" | Fehlende Steigerung | Orange | Note 3 |
-| „war stets bemüht" | Klassisches Note-4-Signal | Rot | Note 4 |
-| „Kollegen und Vorgesetzte" (Reihenfolge) | Falsche Reihenfolge | Orange | Note 3 |
-| „direkte Kommunikationsweise" | Euphemismus für schwieriges Verhalten | Rot | Note 4-5 |
+| "zur vollen Zufriedenheit" ohne "stets" | Fehlende Steigerung | Orange | Note 3 |
+| "war stets bemüht" | Klassisches Note-4-Signal | Rot | Note 4 |
+| "Kollegen und Vorgesetzte" (Reihenfolge) | Falsche Reihenfolge | Orange | Note 3 |
+| "direkte Kommunikationsweise" | Euphemismus für schwieriges Verhalten | Rot | Note 4-5 |
 | Schlussformel ohne Bedauern | Kühles Distanzsignal | Orange-Rot | Kontextsignal |
 
 ## Beispiele
@@ -38,12 +38,12 @@ Herr Beispiel war im Außendienst tätig und betreute einen definierten Kundenkr
 **Leistungsbeurteilung:**
 Herr Beispiel verfügt über ausreichende Fachkenntnisse für seinen Aufgabenbereich. Er war stets bemüht, die ihm übertragenen Aufgaben zur vollen Zufriedenheit zu erledigen, und zeigte dabei durchgehend guten Willen. Seine Arbeitsweise war im Wesentlichen strukturiert.
 
-*(Analyse: „bemüht" = Rot/Note 4; „zur vollen Zufriedenheit" ohne „stets" = Orange/Note 3; „im Wesentlichen" = Rot/Note 4; Gesamttendenz Leistung: Note 4)*
+*(Analyse: "bemüht" = Rot/Note 4; "zur vollen Zufriedenheit" ohne "stets" = Orange/Note 3; "im Wesentlichen" = Rot/Note 4; Gesamttendenz Leistung: Note 4)*
 
 **Verhaltensbeurteilung:**
 Gegenüber Kollegen und Vorgesetzten verhielt sich Herr Beispiel korrekt. Er zeichnete sich durch eine direkte Kommunikationsweise aus.
 
-*(Analyse: Reihenfolge falsch — Kollegen vor Vorgesetzten = Orange; „korrekt" statt „einwandfrei" = Orange/Note 3; „direkte Kommunikationsweise" = Rot/Note 4-5; Kein Wort zu Kunden trotz Kundenjob = Rot)*
+*(Analyse: Reihenfolge falsch — Kollegen vor Vorgesetzten = Orange; "korrekt" statt "einwandfrei" = Orange/Note 3; "direkte Kommunikationsweise" = Rot/Note 4-5; Kein Wort zu Kunden trotz Kundenjob = Rot)*
 
 **Schlussformel:**
 Wir danken Herrn Beispiel für seine Mitarbeit und wünschen ihm für die Zukunft alles Gute.

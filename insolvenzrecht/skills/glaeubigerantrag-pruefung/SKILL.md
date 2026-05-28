@@ -38,7 +38,7 @@ Gläubigerantrags fest:
 Befriedigung: Wurde der Gläubiger in den letzten sechs Monaten vor Antragstellung
 befriedigt, bleibt seine Antragsbefugnis gleichwohl bestehen, wenn die Befriedigung
 als Insolvenzanfechtung nach §§ 129 ff. InsO angreifbar wäre. Dies verhindert den
-„Taktikzahlungseinwand" des Schuldners, der kurz vor Verfahrenseröffnung
+"Taktikzahlungseinwand" des Schuldners, der kurz vor Verfahrenseröffnung
 Teilzahlungen leistet, um den antragstellenden Gläubiger zu beseitigen, ohne die
 Insolvenzlage zu beheben.
 
@@ -141,7 +141,7 @@ Aufbau eines Indizienpakets für Zahlungsunfähigkeit (§ 17 InsO):
 | Indiz | Beweismittel |
 |---|---|
 | Fruchtlose Pfändungsversuche | Pfändungsprotokoll des GV (nicht älter als 3 Monate) |
-| Lastschriftrückgaben | Kontoauszüge des Gläubigers (Stichwort „nicht eingelöst") |
+| Lastschriftrückgaben | Kontoauszüge des Gläubigers (Stichwort "nicht eingelöst") |
 | Wechselproteste | Notarprotokoll |
 | SV-Rückstand ≥ 3 Monate | Kontoauszug Krankenkasse, Rückstandsbescheinigung |
 | Lohnsteuerrückstände | ELSTER-Mahnbescheide, Rückstandsmitteilung FA |
@@ -290,7 +290,7 @@ Eröffnungsgrund § 17 InsO durch Indizienkombination glaubhaft gemacht
    antragsbegründende Forderung kurzfristig, um den Antrag zu Fall zu bringen,
    ist diese Zahlung nach § 133 Abs. 1 InsO (Vorsatzanfechtung) oder § 131 InsO
    (inkongruente Deckung) anfechtbar, wenn innerhalb der Anfechtungsfristen
-   Insolvenz eröffnet wird. Der Schuldner „kauft" sich damit nur Zeit, ohne die
+   Insolvenz eröffnet wird. Der Schuldner "kauft" sich damit nur Zeit, ohne die
    Insolvenzlage zu beseitigen.
 
 6. **Eigeninteresse vs. Gemeininteresse**: Der Gläubigerantrag dient nicht nur

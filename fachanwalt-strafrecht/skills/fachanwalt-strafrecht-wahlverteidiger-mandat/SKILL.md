@@ -104,7 +104,7 @@ Beratung Beschuldigter bei Wahl Strafverteidiger und Mandats-Beginn.
 ## 5) Standard-Fehler des Beschuldigten
 
 1. **Aussage vor anwaltlicher Beratung** -> oft unwiderruflich
-2. **„Ich erklaere das mal eben" bei Polizei** — taktisch fatal
+2. **"Ich erklaere das mal eben" bei Polizei** — taktisch fatal
 3. **Eigene Anrufe / Briefe** an Anzeigenerstatter
 4. **Mitwirkung in WhatsApp-Gruppen** des Falls
 5. **Pflichtverteidigung statt Wahl** bei komplexen Fällen

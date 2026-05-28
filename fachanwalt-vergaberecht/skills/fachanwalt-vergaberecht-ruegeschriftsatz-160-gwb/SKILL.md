@@ -77,7 +77,7 @@ Ruege als Pflicht-Vorstufe zum Nachprüfungsverfahren.
 
 ## 5) Typische Fehler
 
-1. **Frist „unverzueglich" verpasst**
+1. **Frist "unverzueglich" verpasst**
 2. **Mangel zu pauschal** benannt
 3. **Ruege an falsche Stelle** (z.B. Vergabe-Sachbearbeiter statt Vergabestelle-Vorstand)
 4. **Beweismittel fehlen**
@@ -85,7 +85,7 @@ Ruege als Pflicht-Vorstufe zum Nachprüfungsverfahren.
 ## 6) BGH-/OLG-Linien
 
 - BGH, Beschl. v. 26.10.2020 — XIII ZB 26/19 (Präklusion)
-- OLG Duesseldorf-Linie zur „unverzueglich"-Auslegung
+- OLG Duesseldorf-Linie zur "unverzueglich"-Auslegung
 
 ## Anschluss
 

@@ -7,7 +7,7 @@ description: "Erbschaftsausschlagung erlaeutern und Erklärung formulieren wenn 
 
 ## Zweck
 
-Beratung bei Frage „Erbe annehmen oder ausschlagen" — Frist, Form, Strategien.
+Beratung bei Frage "Erbe annehmen oder ausschlagen" — Frist, Form, Strategien.
 
 ## 1) Eingangs-Abfrage
 

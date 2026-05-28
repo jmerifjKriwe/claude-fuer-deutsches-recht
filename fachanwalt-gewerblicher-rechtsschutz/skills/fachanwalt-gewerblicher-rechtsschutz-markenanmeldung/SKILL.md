@@ -110,7 +110,7 @@ Markenform:
 
 Waren- und Dienstleistungsverzeichnis (Nizza-Klassifikation, 12. Edition):
 
-Klasse [Nr.]: [Konkrete Aufzählung der Waren, z. B. „Bekleidungsstücke,
+Klasse [Nr.]: [Konkrete Aufzählung der Waren, z. B. "Bekleidungsstücke,
 nämlich T-Shirts, Hemden und Hosen; Schuhwaren; Kopfbedeckungen"]
 Klasse [Nr.]: [Konkrete Aufzählung der Dienstleistungen]
 
@@ -143,7 +143,7 @@ Mit freundlichen Grüßen
 ```
 EUIPO Unionsmarken-Anmeldung — Checkliste
 
-Portal: https://euipo.europa.eu/eSearch/ → „eFiling"
+Portal: https://euipo.europa.eu/eSearch/ → "eFiling"
 
 Pflichtangaben:
 - Markenform (gemäß UMV 2017/1001 Art. 4)
@@ -236,12 +236,12 @@ W 3: Benutzungsnachweise (Kataloge, Rechnungen, Umsatzzahlen)
 
 | Gegenargument | Herkunft | Reaktion |
 |--------------|---------|----------|
-| „Marke ist beschreibend — § 8 Abs. 2 Nr. 2 MarkenG" | DPMA / Widersprechende | Verkehrsdurchsetzung § 8 Abs. 3 MarkenG nachweisen; alternativ: Fantasy-Element hinzufügen und Neuanmeldung |
-| „Fehlende Unterscheidungskraft" | DPMA | Benutzungsnachweis vor Anmeldung (Verkehrsgeltung); Beschwerde BPatG § 66 MarkenG |
-| „Verwechslungsgefahr mit älterer Marke" | Widerspruch | Klanglich/schriftbildlich/begrifflich differenzieren; geringe Ähnlichkeit der Waren beantragen; ältere Marke auf Benutzungszwang prüfen (§ 25 MarkenG) |
-| „Ältere Marke nicht benutzt" | Markeninhaber gegen Angreifer | Einrede Nichtbenutzung § 25 MarkenG nach 5 Jahren; Benutzungsnachweise anfordern |
-| „Waren-/Dienstleistungsverzeichnis zu breit" | Dritter / EuGH C-371/18 (Sky) | Limitation des Verzeichnisses nach § 39 MarkenG; Teilzurücknahme möglich |
-| „Internationale Registrierung abgelaufen" | Markeninhaber | Verlängerung beim WIPO Central Attack nicht rechtzeitig; abhängige Marke verlischt ohne Basismarke |
+| "Marke ist beschreibend — § 8 Abs. 2 Nr. 2 MarkenG" | DPMA / Widersprechende | Verkehrsdurchsetzung § 8 Abs. 3 MarkenG nachweisen; alternativ: Fantasy-Element hinzufügen und Neuanmeldung |
+| "Fehlende Unterscheidungskraft" | DPMA | Benutzungsnachweis vor Anmeldung (Verkehrsgeltung); Beschwerde BPatG § 66 MarkenG |
+| "Verwechslungsgefahr mit älterer Marke" | Widerspruch | Klanglich/schriftbildlich/begrifflich differenzieren; geringe Ähnlichkeit der Waren beantragen; ältere Marke auf Benutzungszwang prüfen (§ 25 MarkenG) |
+| "Ältere Marke nicht benutzt" | Markeninhaber gegen Angreifer | Einrede Nichtbenutzung § 25 MarkenG nach 5 Jahren; Benutzungsnachweise anfordern |
+| "Waren-/Dienstleistungsverzeichnis zu breit" | Dritter / EuGH C-371/18 (Sky) | Limitation des Verzeichnisses nach § 39 MarkenG; Teilzurücknahme möglich |
+| "Internationale Registrierung abgelaufen" | Markeninhaber | Verlängerung beim WIPO Central Attack nicht rechtzeitig; abhängige Marke verlischt ohne Basismarke |
 
 ## Streitwert und Kosten
 

@@ -71,7 +71,7 @@ Ich begleite klôtzzkètté von der Konzeption über e-Filing bis zur Eintragung
 Parallele Anmeldung zu DPMA-Basismarke mit Prioritätsanspruch (Tag +30 nach DPMA-Anmeldung). Sprache: Englisch (1. Sprache) / Deutsch (2. Sprache). Klassen 3/14/18/25/35. Anmeldungsgebühr: EUR 850 + 50 + 150 + 150 + 150 = EUR 1.350.
 
 ### Konstellation 2: Widerspruch durch älteren Rechteinhaber
-Nach Veröffentlichung legt Mailänder Modehaus „Klothé SRL" Widerspruch wegen Verwechslungsgefahr ein (EUIPO-Widerspruchsverfahren Art. 46 ff. UMV). → Übergabe an Skill `euipo-widerspruchsverfahren`.
+Nach Veröffentlichung legt Mailänder Modehaus "Klothé SRL" Widerspruch wegen Verwechslungsgefahr ein (EUIPO-Widerspruchsverfahren Art. 46 ff. UMV). → Übergabe an Skill `euipo-widerspruchsverfahren`.
 
 ### Konstellation 3: Priorität auf DPMA-Anmeldung vergessen
 Frist für Prioritätsanspruch (6 Monate nach DPMA-Anmeldung) um 3 Tage versäumt. Konsequenz: Kein Prioritätsdatum, Anmeldedatum der EUTM ist maßgeblich. In der Zwischenzeit eingegangene Widersprüche werden auf Basis des EUTM-Anmeldedatums beurteilt.

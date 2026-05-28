@@ -7,7 +7,7 @@ description: "Behoerde oder Gegenseite argumentiert fehlende Markteintrittsbarri
 
 ## Abgrenzung zur Marktdefinition
 
-Potenzieller Wettbewerb ist nicht Teil der Marktdefinition, sondern der anschließenden Wettbewerbsanalyse. Er diszipliniert Marktbeherrschung, wenn der Markteintritt hinreichend wahrscheinlich, zeitnah und wirksam ist (sog. „timely, likely, sufficient" — TLS-Kriterien).
+Potenzieller Wettbewerb ist nicht Teil der Marktdefinition, sondern der anschließenden Wettbewerbsanalyse. Er diszipliniert Marktbeherrschung, wenn der Markteintritt hinreichend wahrscheinlich, zeitnah und wirksam ist (sog. "timely, likely, sufficient" — TLS-Kriterien).
 
 Zeitrahmen: Fusionskontrolle üblicherweise 2 Jahre; Missbrauchsverfahren kontextabhängig.
 

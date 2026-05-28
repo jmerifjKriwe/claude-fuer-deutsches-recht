@@ -32,7 +32,7 @@ Anbieter (provider) ist eine natürliche oder juristische Person, Behörde, Einr
 - Ja → starkes Indiz für Anbieter-Rolle; weiter zu Schritt 3
 - Nein (Sie stellen das System dem Auftraggeber bereit, der es unter eigenem Namen vermarktet) → Sie sind möglicherweise nur Auftragsentwickler ohne Anbieter-Status; der Auftraggeber ist Anbieter
 
-**Variante „in Betrieb nehmen":** Auch wer ein KI-System nicht vermarktet, sondern selbst in eigenen Prozessen erstmals einsetzt (Inbetriebnahme), gilt als Anbieter — z.B. ein Unternehmen, das ein intern entwickeltes System für die eigene Personalentscheidung nutzt.
+**Variante "in Betrieb nehmen":** Auch wer ein KI-System nicht vermarktet, sondern selbst in eigenen Prozessen erstmals einsetzt (Inbetriebnahme), gilt als Anbieter — z.B. ein Unternehmen, das ein intern entwickeltes System für die eigene Personalentscheidung nutzt.
 
 **Prüffragen:**
 - Erscheint Ihr Unternehmensname auf der Produktseite, in der Gebrauchsanweisung oder im Vertrag als Anbieter des KI-Systems?

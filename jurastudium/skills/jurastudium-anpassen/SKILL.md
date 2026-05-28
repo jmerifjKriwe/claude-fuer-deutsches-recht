@@ -73,7 +73,7 @@ Gilt sofort für alle nachfolgenden Skills in dieser Sitzung und wird in `CLAUDE
 ### `--bundesland`
 
 Fragt nach neuem Bundesland und JAG, prüft Konsistenz:
-> „Nach dem Wechsel von NRW nach Bayern unterscheiden sich die Prüfungsfächer im 1. StEx. Ich aktualisiere das Profil. Bitte bestätige: [neue Fächerliste nach JAG Bayern]."
+> "Nach dem Wechsel von NRW nach Bayern unterscheiden sich die Prüfungsfächer im 1. StEx. Ich aktualisiere das Profil. Bitte bestätige: [neue Fächerliste nach JAG Bayern]."
 
 ### `--fach`
 
@@ -96,7 +96,7 @@ Aktualisiert Prüfungsziel, Prüfungstermin und Repetitorium.
 ### `--reset`
 
 Sicherheitsabfrage:
-> „Du löschst das gesamte Lernprofil. Diese Aktion ist nicht rückgängig zu machen. Danach musst du kaltstart-interview erneut durchlaufen. Fortfahren? (ja / nein)"
+> "Du löschst das gesamte Lernprofil. Diese Aktion ist nicht rückgängig zu machen. Danach musst du kaltstart-interview erneut durchlaufen. Fortfahren? (ja / nein)"
 
 ## Quellen und Zitierweise
 
@@ -125,7 +125,7 @@ Gespeichert in: ~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium
 
 ## Beispiel
 
-**Anfrage:** „Ich habe jetzt auch VwGO als Pflichtfach und möchte auf Drill-Modus wechseln."
+**Anfrage:** "Ich habe jetzt auch VwGO als Pflichtfach und möchte auf Drill-Modus wechseln."
 
 **Ausgabe:**
 
@@ -144,5 +144,5 @@ Auswirkungen:
 
 - **Falsches Bundesland nach Hochschulwechsel nicht aktualisieren:** Alle Examensprognosen und Lernpläne arbeiten mit dem gespeicherten Bundesland. Bei Wechsel immer sofort `--bundesland` ausführen.
 - **Veraltete Lehrveranstaltungen nicht entfernen:** Beendete Fächer im Profil lassen laufen, führt zu Studienplan-Verzerrungen.
-- **`--reset` versehentlich ausführen:** Das Plugin fragt zur Sicherheit nach. Antwort „nein" bricht ab. Vor dem Reset eigene Gliederungen sichern.
+- **`--reset` versehentlich ausführen:** Das Plugin fragt zur Sicherheit nach. Antwort "nein" bricht ab. Vor dem Reset eigene Gliederungen sichern.
 - **Material nicht hochladen nach neuen Klausurergebnissen:** `examens-prognose` und `gutachten-uebung` werden genauer, wenn benotete Klausuren im Profil sind. Nach jeder Prüfungsrückgabe `--material` ausführen.

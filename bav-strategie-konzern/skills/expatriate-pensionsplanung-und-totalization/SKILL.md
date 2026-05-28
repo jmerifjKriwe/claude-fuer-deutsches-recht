@@ -46,7 +46,7 @@ Kyoto-Büro: Yuki Yamamoto-Brennecke (DE-JP-Totalization)
 
 **Lokaler Transfer (Local Hire im Gastland):**
 - Gastland-Recht gilt vollständig
-- Risiko: „Stranded Pension" — Anwartschaften in mehreren Ländern, keine koordinierte Gesamtrente
+- Risiko: "Stranded Pension" — Anwartschaften in mehreren Ländern, keine koordinierte Gesamtrente
 
 ### Schritt 2: Sozialversicherungsabkommen und Totalization
 

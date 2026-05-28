@@ -44,7 +44,7 @@ Das Modell benötigt:
 ### Normen
 
 - **§§ 704–707 ZPO** – Vollstreckungstitel und allgemeine Voraussetzungen (Titel, Klausel,
-  Zustellung = „drei Säulen")
+  Zustellung = "drei Säulen")
 - **§ 724 ZPO** – vollstreckbare Ausfertigung (Klausel); § 725 ZPO – Klauselerteilung durch
   Urkundsbeamten; § 732 ZPO – Erinnerung gegen Klauselerteilung
 - **§ 750 ZPO** – Zustellungserfordernis vor Beginn der Vollstreckung

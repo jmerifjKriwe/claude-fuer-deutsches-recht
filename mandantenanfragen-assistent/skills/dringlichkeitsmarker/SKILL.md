@@ -43,57 +43,57 @@ Dieser Skill erkennt Eile- und Fristen-Signale in der Eingangsanfrage und setzt 
 
 ### Gerichtstermine und Verhandlungen
 
-- „Hauptverhandlung nächste Woche" / „Termin beim Amtsgericht am [Datum]"
-- „einstweilige Verfügung wurde zugestellt"
-- „Versäumnisurteil droht" / „ich war nicht bei der Verhandlung"
-- „Berufungsfrist läuft ab"
-- „Einspruchsfrist gegen den Strafbefehl"
+- "Hauptverhandlung nächste Woche" / "Termin beim Amtsgericht am [Datum]"
+- "einstweilige Verfügung wurde zugestellt"
+- "Versäumnisurteil droht" / "ich war nicht bei der Verhandlung"
+- "Berufungsfrist läuft ab"
+- "Einspruchsfrist gegen den Strafbefehl"
 
 ### Vertragsfristen
 
-- „Kündigungsfrist läuft" / „Kündigung zum [Datum]"
-- „Vertragsfrist endet diese Woche"
-- „Widerspruchsfrist" / „Einspruchsfrist"
-- „Rückgabefrist" / „Mängelrüge muss raus"
+- "Kündigungsfrist läuft" / "Kündigung zum [Datum]"
+- "Vertragsfrist endet diese Woche"
+- "Widerspruchsfrist" / "Einspruchsfrist"
+- "Rückgabefrist" / "Mängelrüge muss raus"
 
 ### Vollstreckung und Insolvenz
 
-- „Zwangsvollstreckung eingeleitet" / „Gerichtsvollzieher war da"
-- „Pfändung meines Kontos"
-- „Insolvenzantrag wurde gestellt"
-- „Pfändungs- und Überweisungsbeschluss erhalten"
+- "Zwangsvollstreckung eingeleitet" / "Gerichtsvollzieher war da"
+- "Pfändung meines Kontos"
+- "Insolvenzantrag wurde gestellt"
+- "Pfändungs- und Überweisungsbeschluss erhalten"
 
 ### Strafrechtliche Ereignisse
 
-- „bin vorgestern verhaftet worden" / „sitze in Untersuchungshaft"
-- „Haftprüfungstermin" / „Haftbefehl"
-- „Polizei hat mich heute befragt"
-- „Vorladung als Beschuldigter erhalten"
+- "bin vorgestern verhaftet worden" / "sitze in Untersuchungshaft"
+- "Haftprüfungstermin" / "Haftbefehl"
+- "Polizei hat mich heute befragt"
+- "Vorladung als Beschuldigter erhalten"
 
 ### Behördliche Fristsetzungen
 
-- „Behörde hat mir Frist bis [Datum] gesetzt"
-- „Bescheid mit Rechtsmittelfrist erhalten"
-- „Widerspruchsfrist gegen Bescheid läuft"
-- „Abschiebungsandrohung" / „Ausreisefrist"
+- "Behörde hat mir Frist bis [Datum] gesetzt"
+- "Bescheid mit Rechtsmittelfrist erhalten"
+- "Widerspruchsfrist gegen Bescheid läuft"
+- "Abschiebungsandrohung" / "Ausreisefrist"
 
 ## Eile-Signale: Zeitwörter und Adverbien (HOCH oder MITTEL)
 
 | Signal | Stufe |
 |---|---|
-| „sofort", „dringend", „heute noch", „jetzt" | HOCH |
-| „diese Woche", „nächste Woche", „bis Freitag" | HOCH |
-| „bald", „in Kürze", „demnächst" | MITTEL |
-| „in den nächsten Wochen", „nächsten Monat" | MITTEL |
-| „irgendwann", „wenn Sie Zeit haben" | NIEDRIG |
+| "sofort", "dringend", "heute noch", "jetzt" | HOCH |
+| "diese Woche", "nächste Woche", "bis Freitag" | HOCH |
+| "bald", "in Kürze", "demnächst" | MITTEL |
+| "in den nächsten Wochen", "nächsten Monat" | MITTEL |
+| "irgendwann", "wenn Sie Zeit haben" | NIEDRIG |
 
 ## Haftungsfall-Signale (immer HOCH)
 
-- „Ich werde verklagt" / „mir wurde eine Klage angekündigt"
-- „Abmahnung erhalten"
-- „Schadensersatzforderung" über einem relevanten Betrag
-- „Vertragsstrafe droht"
-- „mein Unternehmen ist in Gefahr"
+- "Ich werde verklagt" / "mir wurde eine Klage angekündigt"
+- "Abmahnung erhalten"
+- "Schadensersatzforderung" über einem relevanten Betrag
+- "Vertragsstrafe droht"
+- "mein Unternehmen ist in Gefahr"
 
 ## Ausgabeformat
 
@@ -101,8 +101,8 @@ Dieser Skill erkennt Eile- und Fristen-Signale in der Eingangsanfrage und setzt 
 DRINGLICHKEIT
 =============
 Stufe:        [HOCH / MITTEL / NIEDRIG / UNBEKANNT]
-Frist/Termin: [Datum und Art oder „nicht erkannt"]
-Signal:       [Zitat des Eile-Signals aus der Anfrage oder „keins"]
+Frist/Termin: [Datum und Art oder "nicht erkannt"]
+Signal:       [Zitat des Eile-Signals aus der Anfrage oder "keins"]
 Begründung:   [Kurze Erklärung der Bewertung]
 
 MASSNAHMEN:

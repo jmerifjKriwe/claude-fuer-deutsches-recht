@@ -43,7 +43,7 @@ description: "Rechtsfolge unwirksamer Befristung nach § 16 Satz 1 TzBfG: Vertra
 - Das Arbeitsverhältnis besteht über das vereinbarte Ende hinaus fort
 - Der Arbeitnehmer hat Anspruch auf Weiterbeschäftigung
 - Das AV kann nur durch wirksame Kündigung oder Aufhebungsvertrag beendet werden
-- Der Arbeitgeber schuldet das vereinbarte Entgelt auch nach dem „vereinbarten Ende"
+- Der Arbeitgeber schuldet das vereinbarte Entgelt auch nach dem "vereinbarten Ende"
 - Nur die Befristungsklausel wird ersetzt — der restliche Vertrag bleibt wirksam
 
 ### Schritt 2: Kündigungsschutz nach § 16 Satz 2 TzBfG
@@ -87,7 +87,7 @@ Befristung unwirksam (§ 16 Satz 1 TzBfG):
 
 Der Feststellungsantrag lautet:
 
-> „Es wird festgestellt, dass das Arbeitsverhältnis der Parteien nicht durch Befristung zum [VEREINBARTES ENDE] beendet worden ist, sondern über diesen Zeitpunkt hinaus als unbefristetes Arbeitsverhältnis fortbesteht."
+> "Es wird festgestellt, dass das Arbeitsverhältnis der Parteien nicht durch Befristung zum [VEREINBARTES ENDE] beendet worden ist, sondern über diesen Zeitpunkt hinaus als unbefristetes Arbeitsverhältnis fortbesteht."
 
 ---
 

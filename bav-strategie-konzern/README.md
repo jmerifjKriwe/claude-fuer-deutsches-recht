@@ -29,7 +29,7 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 ## Testakte
 
-- MEISSNER RHEINWERK AG „Projekt RHEINGOLD 2030“ (Konzern-bAV-Harmonisierung): [testakten/bav-strategie-konzern-meissner-rheinwerk-ag/](../testakten/bav-strategie-konzern-meissner-rheinwerk-ag/) -> [testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip)
+- MEISSNER RHEINWERK AG "Projekt RHEINGOLD 2030" (Konzern-bAV-Harmonisierung): [testakten/bav-strategie-konzern-meissner-rheinwerk-ag/](../testakten/bav-strategie-konzern-meissner-rheinwerk-ag/) -> [testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip)
 
 ---
 

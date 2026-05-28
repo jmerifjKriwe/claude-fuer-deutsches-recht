@@ -36,14 +36,14 @@ Eine gute Hausarbeit lebt von guten Quellen. Wer nicht weiß, wo er sucht, finde
 - **Kommentare**: MüKo, Palandt/Grüneberg, Beck-OK, Wolf/Sauer
 - **Aufsätze**: NJW, NJOZ, MDR
 - **Rechtsprechung**: BGH, BVerfG, OLGs etc.
-- **Such-Strategie**: Norm in der erweiterten Suche; Filter auf „Kommentare" oder „Rechtsprechung"
+- **Such-Strategie**: Norm in der erweiterten Suche; Filter auf "Kommentare" oder "Rechtsprechung"
 
 #### juris
 
 - **Umfassendste Rechtsprechungs-Datenbank** in Deutschland
 - **Verlinkte Anwendung**: jede Norm-Anwendung verlinkt auf Entscheidungen
 - **Bibliographie**: Aufsätze zu jeder Norm
-- **Such-Strategie**: Suche nach „BGH" + „§ 280" + „letzte 2 Jahre"
+- **Such-Strategie**: Suche nach "BGH" + "§ 280" + "letzte 2 Jahre"
 
 #### dejure.org (kostenlos)
 
@@ -124,29 +124,29 @@ Eine gute Hausarbeit lebt von guten Quellen. Wer nicht weiß, wo er sucht, finde
 ### Beispiel 1: BGB § 433
 
 ```
-1. juris-Suche: „§ 433 BGB" + Datum-Filter „letzte 24 Monate"
+1. juris-Suche: "§ 433 BGB" + Datum-Filter "letzte 24 Monate"
    → aktuelle BGH-Entscheidungen
-2. Beck-Online: „§ 433 BGB" + Filter „Kommentar"
+2. Beck-Online: "§ 433 BGB" + Filter "Kommentar"
    → MüKo, BeckOK, Palandt-Bearbeiter
 3. dejure.org: Norm anklicken, Verweise auf Rechtsprechung
-4. JuS-Archiv: „Kaufvertrag" + „Pflichtverletzung"
+4. JuS-Archiv: "Kaufvertrag" + "Pflichtverletzung"
    → Studenten-orientierte Aufsätze
 ```
 
 ### Beispiel 2: Strafrecht § 263 StGB (Betrug)
 
 ```
-1. juris-Suche: „§ 263 StGB" + Filter „Senate 1-4 BGH"
+1. juris-Suche: "§ 263 StGB" + Filter "Senate 1-4 BGH"
    → BGH-Strafsachen
 2. BeckOK StGB / Schönke/Schröder
-3. JuS-Archiv: „Vermögensschaden" + „Konkretisierung"
+3. JuS-Archiv: "Vermögensschaden" + "Konkretisierung"
 4. Bei Streit: Wessels/Hettinger Strafrecht BT
 ```
 
 ### Beispiel 3: VwGO § 47 (Normenkontrolle)
 
 ```
-1. juris-Suche: „§ 47 VwGO" + BVerwG
+1. juris-Suche: "§ 47 VwGO" + BVerwG
 2. Kopp/Schenke VwGO (Beck-Online)
 3. BeckOK VwGO
 4. Verfassungsblog für aktuelle Diskussionen
@@ -196,7 +196,7 @@ Wenn Du keine Online-Quelle für eine Aussage hast: **lies das Buch in der Bibli
 
 - Übernahme von Gedanken **ohne Beleg**
 - Übernahme von Formulierungen **wörtlich** ohne Anführungszeichen
-- „Sekundär-Zitate" — Du zitierst BGH zwar, aber hast den Volltext nicht gelesen, sondern abgeschrieben aus einem Kommentar
+- "Sekundär-Zitate" — Du zitierst BGH zwar, aber hast den Volltext nicht gelesen, sondern abgeschrieben aus einem Kommentar
 
 ### Was ist erlaubt?
 
@@ -206,7 +206,7 @@ Wenn Du keine Online-Quelle für eine Aussage hast: **lies das Buch in der Bibli
 
 ### Beste Praxis
 
-Lese die **Originalquelle** und zitiere sie. Wenn das nicht geht, mache klar: „Zitiert nach Müller in JZ 2024 Seite 765 (Sekundär-Zitat)".
+Lese die **Originalquelle** und zitiere sie. Wenn das nicht geht, mache klar: "Zitiert nach Müller in JZ 2024 Seite 765 (Sekundär-Zitat)".
 
 ## Schritt 8 — Aktualität prüfen
 

@@ -72,7 +72,7 @@ Beanstandung 4: Art. 123(2) EPUe / Beschreibung Abs. [0034]
 
 #### Bei Art. 84 (Klarheit)
 
-- **Unklare Begriffe** definieren oder ersetzen (z. B. „im Wesentlichen" → konkrete Toleranz „±5 %").
+- **Unklare Begriffe** definieren oder ersetzen (z. B. "im Wesentlichen" → konkrete Toleranz "±5 %").
 - **Stütze in der Beschreibung** zeigen — auf Stellen der Beschreibung verweisen.
 
 #### Bei Art. 123(2) (Added Subject-Matter)
@@ -150,7 +150,7 @@ Mit freundlichen Grüßen
 
 ## Hinweise
 
-- **EPA-typische Argumente:** „No pointer in D1 to D2", „D1 teaches away from the claimed solution", „unexpected technical effect".
+- **EPA-typische Argumente:** "No pointer in D1 to D2", "D1 teaches away from the claimed solution", "unexpected technical effect".
 - **Hilfsanträge** sollten so formuliert sein, dass sie inhaltlich noch sinnvoll bleiben — keine Überengung, die das Patent wirtschaftlich wertlos macht.
 - **Auxiliary Requests** sind im EPA-Verfahren Standard. Im DPMA-Verfahren formal nicht zwingend, aber inhaltlich übernehmbar.
 - **Bei Anhörung** (§ 47 PatG / Art. 116 EPÜ): die Eingabe ist die schriftliche Grundlage. Hilfsanträge müssen vorab eingereicht werden.

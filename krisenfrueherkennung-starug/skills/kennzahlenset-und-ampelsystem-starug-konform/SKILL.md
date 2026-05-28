@@ -24,10 +24,10 @@ Ein Ampelsystem ohne kalibrierte Schwellenwerte ist eine Farbenspielerei ohne St
 
 ### 1. Warum quantitative Schwellen unverzichtbar sind
 
-Qualitative Urteile wie „die Liquidität ist angespannt" genügen nicht. § 1 StaRUG verlangt rechtzeitiges Erkennen und Handeln — das setzt messbare Auslöser voraus. Ohne definierte Schwellen:
+Qualitative Urteile wie "die Liquidität ist angespannt" genügen nicht. § 1 StaRUG verlangt rechtzeitiges Erkennen und Handeln — das setzt messbare Auslöser voraus. Ohne definierte Schwellen:
 
 - Keine objektive Eskalationspflicht auslösbar
-- Keine Beweissicherung für „rechtzeitig erkannt"
+- Keine Beweissicherung für "rechtzeitig erkannt"
 - Kein Nachweis gegenüber Insolvenzverwalter oder Gericht
 
 ### 2. Das KPI-Set — Sieben Kern-Indikatoren

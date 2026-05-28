@@ -313,12 +313,12 @@ die 80-Prozent-Abrechnung nach § 650c Abs. 3 BGB vor.
 
 | Gegenargument Auftraggeber | Reaktion |
 |---------------------------|---------|
-| „Leistung war bereits im Vertrag enthalten" | LV-Analyse: Positionsbeschreibung, Leistungsverzeichnis — Abgrenzung zu tatsächlicher Mehrleistung |
-| „Preis überhöht, Marktpreise niedriger" | § 650c BGB: Selbstkosten maßgeblich, nicht Marktpreise; bei VOB/B: Kalkulationsgrundlage Ursprungsangebot (BGH VII ZR 340/13) |
-| „Keine schriftliche Anordnung, nur mündlich" | Baubesprechungsprotokoll, E-Mail-Bestätigung als Beweis; bei VOB/B § 1 Abs. 4: auch konkludente Anordnung |
-| „80-Prozent-Abrechnung zu früh" | § 650c Abs. 3 BGB: 30 Tage Verhandlung oder Ablehnung genügt; keine weiteren Fristen |
-| „Behinderungsanzeige fehlte" | Offenkundigkeit der Behinderung entbindet von Anzeigepflicht; Dokumentation durch Bautagebuch |
-| „Bauzeitverlängerung nicht nachgewiesen" | BGH VII ZR 11/08: Konkrete Bauablaufanalyse; kritischer Pfad; SV-Gutachten |
+| "Leistung war bereits im Vertrag enthalten" | LV-Analyse: Positionsbeschreibung, Leistungsverzeichnis — Abgrenzung zu tatsächlicher Mehrleistung |
+| "Preis überhöht, Marktpreise niedriger" | § 650c BGB: Selbstkosten maßgeblich, nicht Marktpreise; bei VOB/B: Kalkulationsgrundlage Ursprungsangebot (BGH VII ZR 340/13) |
+| "Keine schriftliche Anordnung, nur mündlich" | Baubesprechungsprotokoll, E-Mail-Bestätigung als Beweis; bei VOB/B § 1 Abs. 4: auch konkludente Anordnung |
+| "80-Prozent-Abrechnung zu früh" | § 650c Abs. 3 BGB: 30 Tage Verhandlung oder Ablehnung genügt; keine weiteren Fristen |
+| "Behinderungsanzeige fehlte" | Offenkundigkeit der Behinderung entbindet von Anzeigepflicht; Dokumentation durch Bautagebuch |
+| "Bauzeitverlängerung nicht nachgewiesen" | BGH VII ZR 11/08: Konkrete Bauablaufanalyse; kritischer Pfad; SV-Gutachten |
 
 ## Streitwert und Kosten
 

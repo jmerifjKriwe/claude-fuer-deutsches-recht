@@ -41,8 +41,8 @@ Prüfung, ob das UN-Kaufrecht (CISG) auf grenzüberschreitenden Warenkauf anwend
 
 - **Eindeutiger** Vertraglicher Ausschluss
 - Verweis auf nationales Recht reicht nicht (BGH NJW 2009, 2306)
-- „Es gilt deutsches Recht" -> CISG bleibt (Teil deutschen Rechts)
-- Korrekt: „Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts (CISG)"
+- "Es gilt deutsches Recht" -> CISG bleibt (Teil deutschen Rechts)
+- Korrekt: "Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts (CISG)"
 
 ### Strategie
 
@@ -107,7 +107,7 @@ Prüfung, ob das UN-Kaufrecht (CISG) auf grenzüberschreitenden Warenkauf anwend
 
 ## 8) Typische Fehler
 
-1. **„Deutsches Recht" als CISG-Ausschluss missverstanden**
+1. **"Deutsches Recht" als CISG-Ausschluss missverstanden**
 2. **Ruegefrist verpasst** -> Verlust der Mängelrechte
 3. **Untersuchungs-Pflicht missachtet** -> Verlust
 4. **Bei Werk-Lieferung CISG faelschlich angewendet** (Art. 3)

@@ -102,7 +102,7 @@ wir zeigen die Vertretung der [Mandantin] an (Vollmacht Anlage 1).
 I. Sachverhalt
 Die Mandantin und Ihr Unternehmen sind Mitbewerber i. S. § 2 Abs. 1 Nr. 4 UWG
 im Bereich [Branche]. Sie haben am [Datum] auf der Website [URL] / in [Medium]
-folgende Aussage veröffentlicht: „[wörtliches Zitat]" (Anlage 2, Screenshot /
+folgende Aussage veröffentlicht: "[wörtliches Zitat]" (Anlage 2, Screenshot /
 Kopie).
 
 II. Rechtliche Würdigung
@@ -232,12 +232,12 @@ und auf Ersatz unserer Abwehrkosten zu erheben.
 
 | Gegenargument | Herkunft | Reaktion |
 |--------------|---------|----------|
-| „Ich bin kein Mitbewerber — keine Aktivlegitimation" | Abgemahnter | Konkretes Wettbewerbsverhältnis darlegen: gleiche Waren/Dienstleistungen, überschneidender Kundenkreis (BGH I ZR 197/05) |
-| „Abmahnung ist missbräuchlich (§ 8c UWG)" | Abgemahnter | Gegenprüfung der Indizien; bei klaren Verstößen: Klage trotzdem zulässig und kostenpflichtig für Schuldner |
-| „Verstoß ist bagatellmäßig" | Abgemahnter | § 3 Abs. 1 UWG: „spürbar" Erfordernis; bei Schwarze-Liste-Verstößen keine Spürbarkeitserfordernis |
-| „Werbung ist Meinung, keine Tatsachenbehauptung" | Abgemahnter | Meinungsäußerung nur bei wertenden Aussagen ohne Tatsachenkern; gemischte Aussagen nach BGH-Kriterien aufteilen |
-| „Verjährung abgelaufen" | Abgemahnter | Kenntnisdatum exakt dokumentieren; Verjährungsunterbrechung durch Abmahnung prüfen (Meinungsstreit) |
-| „Unterlassungserklärung ist zu weit gefasst" | Abgemahnter | Modifizierte Unterlassungserklärung anbieten; Schutz vor Vertragsstrafe-Inflation durch enge Formulierung |
+| "Ich bin kein Mitbewerber — keine Aktivlegitimation" | Abgemahnter | Konkretes Wettbewerbsverhältnis darlegen: gleiche Waren/Dienstleistungen, überschneidender Kundenkreis (BGH I ZR 197/05) |
+| "Abmahnung ist missbräuchlich (§ 8c UWG)" | Abgemahnter | Gegenprüfung der Indizien; bei klaren Verstößen: Klage trotzdem zulässig und kostenpflichtig für Schuldner |
+| "Verstoß ist bagatellmäßig" | Abgemahnter | § 3 Abs. 1 UWG: "spürbar" Erfordernis; bei Schwarze-Liste-Verstößen keine Spürbarkeitserfordernis |
+| "Werbung ist Meinung, keine Tatsachenbehauptung" | Abgemahnter | Meinungsäußerung nur bei wertenden Aussagen ohne Tatsachenkern; gemischte Aussagen nach BGH-Kriterien aufteilen |
+| "Verjährung abgelaufen" | Abgemahnter | Kenntnisdatum exakt dokumentieren; Verjährungsunterbrechung durch Abmahnung prüfen (Meinungsstreit) |
+| "Unterlassungserklärung ist zu weit gefasst" | Abgemahnter | Modifizierte Unterlassungserklärung anbieten; Schutz vor Vertragsstrafe-Inflation durch enge Formulierung |
 
 ## Streitwert und Kosten
 

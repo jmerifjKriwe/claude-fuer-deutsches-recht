@@ -32,7 +32,7 @@ Dieser Skill erzeugt aus der bilingualen Fassung eine rein deutsche Vertragsfass
 Aus der bilingualen Tabelle wird exakt der deutsche Text extrahiert. Keine Umformulierungen, keine Kürzungen, keine Ergänzungen.
 
 ### 2. Formatierung mit Heading-Stilen
-- Heading 1: Vertragsüberschrift (z. B. „Wandeldarlehensvertrag")
+- Heading 1: Vertragsüberschrift (z. B. "Wandeldarlehensvertrag")
 - Heading 2: Paragrafenüberschriften (§ 0 Präambel, § 1 Darlehensgewährung, …)
 - Heading 3: Unterabschnitte
 - Normal: Vertragstext

@@ -294,11 +294,11 @@ eines Vermittlungstermins innerhalb eines Monats.
 
 | Gegenargument Behörde / Ehegatte | Reaktion |
 |----------------------------------|---------|
-| „SBGG verletzt Art. 3 GG — Benachteiligung anderer" | BVerfG 1 BvR 1297/24: SBGG verfassungskonform |
-| „Ehe muss wegen Geschlechtswechsel aufgelöst werden" | AG Lichtenberg 234 III 99/24: Ehe bleibt bestehen; keine automatische Auflösung |
-| „Sorgerecht ändert sich durch Wechsel" | § 11 SBGG + OLG Frankfurt 5 UF 33/25: Eltern-Status unverändert |
-| „Offenbarungsverbot verhindert Behördentransparenz" | § 6 SBGG gilt nur für unbefugte Offenbarung; Behörden mit Sachgrund dürfen zugreifen |
-| „Minderjähriger muss Gutachten beibringen" | SBGG: kein Gutachten erforderlich; Zustimmung Sorgeberechtigte genügt |
+| "SBGG verletzt Art. 3 GG — Benachteiligung anderer" | BVerfG 1 BvR 1297/24: SBGG verfassungskonform |
+| "Ehe muss wegen Geschlechtswechsel aufgelöst werden" | AG Lichtenberg 234 III 99/24: Ehe bleibt bestehen; keine automatische Auflösung |
+| "Sorgerecht ändert sich durch Wechsel" | § 11 SBGG + OLG Frankfurt 5 UF 33/25: Eltern-Status unverändert |
+| "Offenbarungsverbot verhindert Behördentransparenz" | § 6 SBGG gilt nur für unbefugte Offenbarung; Behörden mit Sachgrund dürfen zugreifen |
+| "Minderjähriger muss Gutachten beibringen" | SBGG: kein Gutachten erforderlich; Zustimmung Sorgeberechtigte genügt |
 
 ## Streitwert und Kosten
 

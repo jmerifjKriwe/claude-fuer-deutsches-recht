@@ -32,15 +32,15 @@ Dieser Skill transformiert subjektiv gefärbte, vorwurfsvolle oder emotionale Sa
 
 ## Grundprinzipien der neutralen Darstellung
 
-Die wichtigsten Werkzeuge sind: Passivkonstruktionen (nicht „Sie haben versäumt" sondern „die Frist ist verstrichen"), Datumsbezüge statt unbestimmter Zeitangaben (nicht „seit Wochen" sondern „seit dem TT.MM.JJJJ"), unpersönliche Pronomen (nicht „Sie ignorieren" sondern „eine Rückmeldung steht noch aus"), Distanzierungsformeln (nicht „Sie behaupten" sondern „nach Ihrer Darstellung" oder „ausweislich Ihres Schreibens") sowie Trennung von Sachverhalt und Wertung.
+Die wichtigsten Werkzeuge sind: Passivkonstruktionen (nicht "Sie haben versäumt" sondern "die Frist ist verstrichen"), Datumsbezüge statt unbestimmter Zeitangaben (nicht "seit Wochen" sondern "seit dem TT.MM.JJJJ"), unpersönliche Pronomen (nicht "Sie ignorieren" sondern "eine Rückmeldung steht noch aus"), Distanzierungsformeln (nicht "Sie behaupten" sondern "nach Ihrer Darstellung" oder "ausweislich Ihres Schreibens") sowie Trennung von Sachverhalt und Wertung.
 
 ## Passiv vs. Aktiv
 
-Die Entscheidung zwischen Passiv und Aktiv hat im juristischen Kontext erhebliche Bedeutung. Passivkonstruktionen entlasten den Text von Schuldzuweisungen: „Eine Frist wurde bislang nicht gewährt" statt „Sie haben keine Frist gesetzt". Aktiv ist angebracht, wenn die handelnde Person bewusst benannt werden soll: „Mit Schreiben vom TT.MM.JJJJ hat die Gegenseite mitgeteilt...". Aktivkonstruktionen mit klarem Subjektbezug auf Dokumente oder Daten (nicht auf Personen) sind besonders effektiv.
+Die Entscheidung zwischen Passiv und Aktiv hat im juristischen Kontext erhebliche Bedeutung. Passivkonstruktionen entlasten den Text von Schuldzuweisungen: "Eine Frist wurde bislang nicht gewährt" statt "Sie haben keine Frist gesetzt". Aktiv ist angebracht, wenn die handelnde Person bewusst benannt werden soll: "Mit Schreiben vom TT.MM.JJJJ hat die Gegenseite mitgeteilt...". Aktivkonstruktionen mit klarem Subjektbezug auf Dokumente oder Daten (nicht auf Personen) sind besonders effektiv.
 
 ## Distanzierungsformeln
 
-Für die Wiedergabe fremder Darstellungen ohne eigene Wertung gelten folgende Formeln: „nach Ihrer Darstellung", „ausweislich Ihrer E-Mail vom TT.MM.JJJJ", „wie Sie mitteilen", „soweit ich Ihrem Schreiben entnehme", „nach dem mir vorliegenden Sachstand". Diese Formeln signalisieren, dass der Schreiber die Aussage zitiert, ohne sie zu bestätigen oder abzulehnen.
+Für die Wiedergabe fremder Darstellungen ohne eigene Wertung gelten folgende Formeln: "nach Ihrer Darstellung", "ausweislich Ihrer E-Mail vom TT.MM.JJJJ", "wie Sie mitteilen", "soweit ich Ihrem Schreiben entnehme", "nach dem mir vorliegenden Sachstand". Diese Formeln signalisieren, dass der Schreiber die Aussage zitiert, ohne sie zu bestätigen oder abzulehnen.
 
 ## Berufsrechtlicher Hintergrund
 
@@ -48,17 +48,17 @@ Für die Wiedergabe fremder Darstellungen ohne eigene Wertung gelten folgende Fo
 
 ## Beispiele Vorher/Nachher
 
-**Vorher:** „Sie ignorieren mich seit Wochen."
-**Nachher:** „Eine Rückmeldung auf das Schreiben vom TT.MM.JJJJ steht bislang aus."
+**Vorher:** "Sie ignorieren mich seit Wochen."
+**Nachher:** "Eine Rückmeldung auf das Schreiben vom TT.MM.JJJJ steht bislang aus."
 
-**Vorher:** „Sie haben einfach die Frist verstreichen lassen, ohne mich zu informieren."
-**Nachher:** „Die Frist vom TT.MM.JJJJ ist verstrichen. Eine vorherige Mitteilung ist nicht erfolgt."
+**Vorher:** "Sie haben einfach die Frist verstreichen lassen, ohne mich zu informieren."
+**Nachher:** "Die Frist vom TT.MM.JJJJ ist verstrichen. Eine vorherige Mitteilung ist nicht erfolgt."
 
-**Vorher:** „Ihre Mandantin behauptet frech, sie habe nie zugestimmt."
-**Nachher:** „Nach der Darstellung Ihrer Mandantin liegt eine Zustimmung nicht vor."
+**Vorher:** "Ihre Mandantin behauptet frech, sie habe nie zugestimmt."
+**Nachher:** "Nach der Darstellung Ihrer Mandantin liegt eine Zustimmung nicht vor."
 
-**Vorher:** „Anscheinend ist Ihnen die Vertragstreue nicht wichtig."
-**Nachher:** „Die vereinbarte Leistung ist bis zum TT.MM.JJJJ nicht erbracht worden."
+**Vorher:** "Anscheinend ist Ihnen die Vertragstreue nicht wichtig."
+**Nachher:** "Die vereinbarte Leistung ist bis zum TT.MM.JJJJ nicht erbracht worden."
 
 ## Ausgabeformat
 

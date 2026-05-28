@@ -64,9 +64,9 @@ Um die Tabelle übersichtlich zu halten, können folgende Kürzel verwendet werd
 
 | Vorher | Nachher | Begründung | Berufsrechts-Bezug |
 |---|---|---|---|
-| „SIE HABEN VERSAGT" | „Es bestehen Abweichungen von der vereinbarten Leistung" | Großbuchstaben und Kompetenzabsprache entfernt | BRAO-43a, BORA-25 |
-| „Schicken Sie das endlich!" | „Ich bitte um Übersendung bis TT.MM.JJJJ" | Forderung in Bitte umgewandelt, Frist ergänzt | GK |
-| „Das ist lächerlich" | „Diese Einschätzung erscheint mir nicht nachvollziehbar" | Abwertendes Adjektiv entfernt | BRAO-43a |
+| "SIE HABEN VERSAGT" | "Es bestehen Abweichungen von der vereinbarten Leistung" | Großbuchstaben und Kompetenzabsprache entfernt | BRAO-43a, BORA-25 |
+| "Schicken Sie das endlich!" | "Ich bitte um Übersendung bis TT.MM.JJJJ" | Forderung in Bitte umgewandelt, Frist ergänzt | GK |
+| "Das ist lächerlich" | "Diese Einschätzung erscheint mir nicht nachvollziehbar" | Abwertendes Adjektiv entfernt | BRAO-43a |
 
 **Überarbeitete E-Mail:**
 [Vollständiger überarbeiteter Text]

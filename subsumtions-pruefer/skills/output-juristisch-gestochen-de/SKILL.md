@@ -40,9 +40,9 @@ wegen [Gegenstand]
 ### 2. Antrag (Tenor)
 
 Der Antrag formuliert präzise und vollstreckungsfähig, was begehrt wird:
-- Zahlungsanspruch: „Der Beklagte wird verurteilt, an den Kläger EUR [Betrag] nebst Zinsen in Höhe von [X] Prozent über dem jeweiligen Basiszinssatz seit dem [Datum] zu zahlen."
-- Unterlassungsanspruch: „Dem Beklagten wird bei Meidung eines vom Gericht festzusetzenden Ordnungsgeldes bis zu EUR 250000, ersatzweise Ordnungshaft, verboten, [Handlung] zu [tun/unterlassen]."
-- Feststellungsantrag: „Es wird festgestellt, dass [Rechtsverhältnis]."
+- Zahlungsanspruch: "Der Beklagte wird verurteilt, an den Kläger EUR [Betrag] nebst Zinsen in Höhe von [X] Prozent über dem jeweiligen Basiszinssatz seit dem [Datum] zu zahlen."
+- Unterlassungsanspruch: "Dem Beklagten wird bei Meidung eines vom Gericht festzusetzenden Ordnungsgeldes bis zu EUR 250000, ersatzweise Ordnungshaft, verboten, [Handlung] zu [tun/unterlassen]."
+- Feststellungsantrag: "Es wird festgestellt, dass [Rechtsverhältnis]."
 
 ### 3. Begründung
 
@@ -52,7 +52,7 @@ Die Begründung folgt dem Vier-Schritt-Schema:
 - Einwendungen des Gegners antizipiert und entkräftet
 - Beweisangebote direkt nach den bestrittenen Tatsachenbehauptungen
 
-**Format Beweisangebote:** Unmittelbar nach dem Sachverhalt in Klammern: „(Beweis: [Zeuge Name]; [Anlage K1])"
+**Format Beweisangebote:** Unmittelbar nach dem Sachverhalt in Klammern: "(Beweis: [Zeuge Name]; [Anlage K1])"
 
 ### 4. Beweismittel-Verzeichnis
 
@@ -68,9 +68,9 @@ EuGH: EuGH, Urteil vom [Datum], Rs. C-[Nr.], ECLI:EU:C:[Jahr]:[Nr.] — [Kurzbez
 
 - Präteritum bei Sachverhaltsschilderung; Präsens bei rechtlicher Wertung
 - Keine Umgangssprache; keine Abkürzungen ohne einmalige Ausschreibung
-- Paragrafenzeichen mit Leerzeichen: „§ 823 Abs. 1 BGB"
-- Beträge: „EUR 5000" (kein Tausenderkomma)
-- Prozentangaben: „5 Prozent" oder „5 %"
+- Paragrafenzeichen mit Leerzeichen: "§ 823 Abs. 1 BGB"
+- Beträge: "EUR 5000" (kein Tausenderkomma)
+- Prozentangaben: "5 Prozent" oder "5 %"
 - Nummerierung der Gliederungsebenen: I., 1., a), aa)
 
 ## Warnblock (Pflicht im Ausgabedokument)

@@ -288,11 +288,11 @@ wesentlichen Mängel möglich.
 
 | Gegenargument | Reaktion |
 |--------------|---------|
-| „Abnahme nie erklärt — keine Abnahme erfolgt" | Konkludente Abnahme prüfen — Ingebrauchnahme, Restzahlung, Nutzungsdauer (BGH VII ZR 117/97) |
-| „Vorbehalt § 640 Abs. 3 nicht erklärt, Mängel trotzdem" | Arglistig verschwiegene Mängel behalten Anspruchsgrundlage unabhängig von Vorbehalt (BGH VII ZR 225/03) |
-| „Abnahme-Verweigerung wegen Kleinmängeln" | § 640 Abs. 1 Satz 2 BGB: Verweigerung nur bei wesentlichen Mängeln zulässig; Kleinmängel berechtigen nicht (BGH VII ZR 37/16) |
-| „Vertragsstrafenvorbehalt vergessen" | § 341 Abs. 3 BGB ist Ausschlussregel — kein Wiedereinsetzungsrecht; Schaden als Schadensersatz nach §§ 280, 286 BGB geltend machen |
-| „Einbehalt überhöht" | § 641 Abs. 3 BGB: Einbehalt auf doppelten Mängelbeseitigungsaufwand begrenzt; Unverhältnismäßigkeit als Einwand |
+| "Abnahme nie erklärt — keine Abnahme erfolgt" | Konkludente Abnahme prüfen — Ingebrauchnahme, Restzahlung, Nutzungsdauer (BGH VII ZR 117/97) |
+| "Vorbehalt § 640 Abs. 3 nicht erklärt, Mängel trotzdem" | Arglistig verschwiegene Mängel behalten Anspruchsgrundlage unabhängig von Vorbehalt (BGH VII ZR 225/03) |
+| "Abnahme-Verweigerung wegen Kleinmängeln" | § 640 Abs. 1 Satz 2 BGB: Verweigerung nur bei wesentlichen Mängeln zulässig; Kleinmängel berechtigen nicht (BGH VII ZR 37/16) |
+| "Vertragsstrafenvorbehalt vergessen" | § 341 Abs. 3 BGB ist Ausschlussregel — kein Wiedereinsetzungsrecht; Schaden als Schadensersatz nach §§ 280, 286 BGB geltend machen |
+| "Einbehalt überhöht" | § 641 Abs. 3 BGB: Einbehalt auf doppelten Mängelbeseitigungsaufwand begrenzt; Unverhältnismäßigkeit als Einwand |
 
 ## Streitwert und Kosten
 

@@ -72,19 +72,19 @@ Hausarbeiten haben oft Schwerpunkte mit Neben-Aspekten:
 
 ### Bei Unklarheit, ob Zivilrecht oder ÖR
 
-> „Steht eine Behörde / der Staat auf einer Seite?"
+> "Steht eine Behörde / der Staat auf einer Seite?"
 
 - **Ja**: ÖR (Anfechtungsklage, Verpflichtungsklage, Eilantrag)
 - **Nein, beide Seiten Privat**: Zivilrecht
 
-> „Wird ein Verwaltungsakt erlassen oder abgewehrt?"
+> "Wird ein Verwaltungsakt erlassen oder abgewehrt?"
 
 - **Ja**: ÖR
 - **Nein**: Zivilrecht / Strafrecht
 
 ### Bei Unklarheit, ob Strafrecht oder Zivilrecht
 
-> „Geht es darum, dass jemand bestraft werden soll?"
+> "Geht es darum, dass jemand bestraft werden soll?"
 
 - **Ja**: Strafrecht
 - **Nein, Schadensersatz?**: Zivilrecht
@@ -92,11 +92,11 @@ Hausarbeiten haben oft Schwerpunkte mit Neben-Aspekten:
 
 ### Bei Mehrebenen-Konstellation
 
-> „Welches ist das Schwerpunkt-Problem im Sachverhalt?"
+> "Welches ist das Schwerpunkt-Problem im Sachverhalt?"
 
 - Schwerpunkt ist meist im Bearbeitungs-Vermerk erkennbar
-- Bei „Beurteilen Sie die strafrechtliche Verantwortlichkeit" → klares Strafrecht
-- Bei „Welche Klagemöglichkeit besteht?" mit Behörden-Beteiligung → ÖR
+- Bei "Beurteilen Sie die strafrechtliche Verantwortlichkeit" → klares Strafrecht
+- Bei "Welche Klagemöglichkeit besteht?" mit Behörden-Beteiligung → ÖR
 
 ## Schritt 4 — Reihenfolge bei Mix
 
@@ -133,8 +133,8 @@ B. Strafrechtliche Verantwortlichkeit
 
 ### Indikatoren im Bearbeitungs-Vermerk
 
-- Genaue Wort-Wahl: „Ansprüche" → Zivilrecht; „Klage" → ÖR; „Strafbarkeit" → Strafrecht
-- „Im Schriftsatz an das Gericht XYZ" → Gerichtsname verrät Fachgebiet (Verwaltungsgericht → ÖR; Strafgericht → StR; Zivilgericht → Zivilrecht)
+- Genaue Wort-Wahl: "Ansprüche" → Zivilrecht; "Klage" → ÖR; "Strafbarkeit" → Strafrecht
+- "Im Schriftsatz an das Gericht XYZ" → Gerichtsname verrät Fachgebiet (Verwaltungsgericht → ÖR; Strafgericht → StR; Zivilgericht → Zivilrecht)
 
 ## Schritt 6 — Bei Unsicherheit
 

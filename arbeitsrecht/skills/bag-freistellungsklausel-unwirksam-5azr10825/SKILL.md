@@ -33,7 +33,7 @@ Der Mandant verweist auf den Beschäftigungsanspruch nach der Rechtsprechung des
 
 ## Argumentationslinie für den Arbeitgeber
 
-Soll eine Freistellung trotz fehlender Klausel durchgesetzt werden, sind die schutzwürdigen Interessen konkret darzulegen: konkrete Geheimhaltungsbedenken (Zugang zu Kunden, Preisen, Produktentwicklung), konkrete Konkurrenzsorge (geplanter Wechsel zum Wettbewerber, Kundenmitnahme), konkreter Vertrauensverlust (Pflichtenverstoß, der die Kündigung trägt), erhebliche Störung des Betriebsfriedens. Pauschale Hinweise auf „branchenüblich" oder „üblicherweise" genügen nicht.
+Soll eine Freistellung trotz fehlender Klausel durchgesetzt werden, sind die schutzwürdigen Interessen konkret darzulegen: konkrete Geheimhaltungsbedenken (Zugang zu Kunden, Preisen, Produktentwicklung), konkrete Konkurrenzsorge (geplanter Wechsel zum Wettbewerber, Kundenmitnahme), konkreter Vertrauensverlust (Pflichtenverstoß, der die Kündigung trägt), erhebliche Störung des Betriebsfriedens. Pauschale Hinweise auf "branchenüblich" oder "üblicherweise" genügen nicht.
 
 ## Strategische Konsequenzen
 

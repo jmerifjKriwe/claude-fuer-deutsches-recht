@@ -48,7 +48,7 @@ In der Praxis wird die Registersperre durch Antrag beim zuständigen Amtsgericht
 BGH-Linie: §§ 243, 246 AktG gelten analog für GmbH-Gesellschafterbeschlüsse (BGH, Urt. v. 17.02.1997 – II ZR 41/96, BGHZ 134, 364 — Gelatine).
 
 **§ 47 Abs. 4 GmbHG — Stimmverbot**
-> „Ein Gesellschafter, welcher durch die Beschlußfassung entlastet oder von einer Verbindlichkeit befreit werden soll, hat hierbei kein Stimmrecht und darf ein solches auch nicht für andere ausüben."
+> "Ein Gesellschafter, welcher durch die Beschlußfassung entlastet oder von einer Verbindlichkeit befreit werden soll, hat hierbei kein Stimmrecht und darf ein solches auch nicht für andere ausüben."
 
 Verstoß gegen Stimmverbot: Beschluss anfechtbar; ggf. kausal, wenn stimmbefangene Stimme das Ergebnis beeinflusst hat.
 
@@ -196,7 +196,7 @@ klage ist beigefügt als Anlage K 1 / wird gleichzeitig eingereicht).
 gerechtfertigt. Nach der Kali+Salz-Doktrin (BGH, Urt. v. 13.03.1978 – II ZR 142/76,
 BGHZ 71, 40) muss der Bezugsrechtsausschluss durch ein im Interesse der Gesellschaft
 liegendes, sachliches Ziel gerechtfertigt sein und der Verhältnismäßigkeit entsprechen.
-Die pauschale Behauptung eines „strategischen Mehrwerts" genügt diesen Anforderungen
+Die pauschale Behauptung eines "strategischen Mehrwerts" genügt diesen Anforderungen
 nicht.
 
 3. Der Antragsteller hält [X] % der Geschäftsanteile. Durch die Kapitalerhöhung würde

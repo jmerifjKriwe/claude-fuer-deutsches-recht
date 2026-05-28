@@ -35,7 +35,7 @@ Beide Markenarten wurden durch die UMV-Reform 2017/1001 erheblich vereinfacht: G
 
 3. **Beschreibung der Hörmarke:**
    - Pflichtfeld beim EUIPO: textliche Beschreibung des Klangs
-   - Beispiel: „Fünf absteigende Harfentöne in e-Moll: e4 – d4 – c4 – h3 – a3, Achtelnotenwerte, Tempo 60 bpm"
+   - Beispiel: "Fünf absteigende Harfentöne in e-Moll: e4 – d4 – c4 – h3 – a3, Achtelnotenwerte, Tempo 60 bpm"
    - Beim DPMA: Beschreibung optional, aber empfehlenswert
 
 4. **Unterscheidungskraft prüfen:**
@@ -116,7 +116,7 @@ Bevor die Hörmarke eingereicht wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **EuGH, Urt. v. 27.11.2003 — C-283/01 (Shield Mark):** Hörmarken sind grundsätzlich markenfähig; eine Tonfolge in Notenschrift kann eine klare und eindeutige Darstellung sein, wenn Taktart, Tonhoehe und Notenwerte angegeben sind; blosse Onomatopoesie (z.B. „Kikeriki") genuegt nicht als praezise Darstellung.
+> **EuGH, Urt. v. 27.11.2003 — C-283/01 (Shield Mark):** Hörmarken sind grundsätzlich markenfähig; eine Tonfolge in Notenschrift kann eine klare und eindeutige Darstellung sein, wenn Taktart, Tonhoehe und Notenwerte angegeben sind; blosse Onomatopoesie (z.B. "Kikeriki") genuegt nicht als praezise Darstellung.
 
 > **BGH, Beschl. v. 08.05.2008 — I ZB 52/05 (Markenform — Hörmarke):** Eine Hörmarke muss in der hinterlegten Form eindeutig mit der tatsaechlich verwendeten klingenden Form identisch sein; bereits geringe Abweichungen in Tempo oder Instrumentierung koennen die Identitaet in Frage stellen.
 

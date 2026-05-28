@@ -96,12 +96,12 @@ GEGENDARSTELLUNG gemäß § [N] [LPG des Bundeslandes]
 In der Ausgabe vom [Datum] von [Medienname], Seite [N],
 unter der Überschrift [Titel], wird Folgendes behauptet:
 
-„[Wörtliches Zitat der beanstandeten Tatsachenbehauptung]"
+"[Wörtliches Zitat der beanstandeten Tatsachenbehauptung]"
 
 Dazu erkläre ich:
 
 [Knapp formulierte, sachliche, gegenläufige Tatsachen-
-aussage: z.B. „Ich war am [Datum] nicht Anwesender bei
+aussage: z.B. "Ich war am [Datum] nicht Anwesender bei
 dem in Rede stehenden Treffen. Ich befand mich nachweislich
 in [Ort]. Fotos und Dokumente belegen meinen Aufenthaltsort."]
 
@@ -130,7 +130,7 @@ an.
 
 In Ihrer Ausgabe/Ihrem Online-Beitrag vom [Datum] (Anlage K1:
 Screenshot/Zeitungsseite) wird über unseren Mandanten behauptet:
-„[Zitat der falschen Tatsachenbehauptung]"
+"[Zitat der falschen Tatsachenbehauptung]"
 
 Diese Behauptung ist unrichtig. Wir übersenden beigefügt die
 Gegendarstellung unseres Mandanten nach § [N] LPG [Bundesland]
@@ -220,11 +220,11 @@ Beweis: Anlage K1: beanstandeter Artikel; Anlage K2: Gegendarstellungsschreiben;
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „Das ist unsere Meinung/Wertung, kein Tatsachenvorwurf" | BVerfGE 61, 1: Mischformen sind nach Gesamtkontext zu beurteilen; faktischer Gehalt einer Aussage begründet Gegendarstellungspflicht auch wenn als Meinung formuliert |
-| „Die Gegendarstellung ist zu lang" | LPG-Grundsatz: Gegendarstellung soll nicht länger als der beanstandete Beitrag sein; kürzerer Artikel = kürzere Gegendarstellung zulässig |
-| „Der Beitrag enthält weitere Informationen die wir kommentieren dürfen" | Gegendarstellungsveröffentlichung ohne Kommentar; Anmerkung erst in separater Ausgabe/nachfolgendem Abschnitt zulässig |
-| „Online-Artikel gilt nicht als Periodikum" | MStV § 20: journalistisch-redaktionelle Telemedienangebote unterliegen Gegendarstellungspflicht; BGH VI ZR 31/19 bestätigt Pflicht für Online-Medien |
-| „Frist überschritten; kein Gegendarstellungsanspruch mehr" | Fristversäumnis schließt nur LPG-Gegendarstellungsanspruch aus; Unterlassungs- und Schadensersatzansprüche §§ 823, 1004 BGB bleiben bestehen |
+| "Das ist unsere Meinung/Wertung, kein Tatsachenvorwurf" | BVerfGE 61, 1: Mischformen sind nach Gesamtkontext zu beurteilen; faktischer Gehalt einer Aussage begründet Gegendarstellungspflicht auch wenn als Meinung formuliert |
+| "Die Gegendarstellung ist zu lang" | LPG-Grundsatz: Gegendarstellung soll nicht länger als der beanstandete Beitrag sein; kürzerer Artikel = kürzere Gegendarstellung zulässig |
+| "Der Beitrag enthält weitere Informationen die wir kommentieren dürfen" | Gegendarstellungsveröffentlichung ohne Kommentar; Anmerkung erst in separater Ausgabe/nachfolgendem Abschnitt zulässig |
+| "Online-Artikel gilt nicht als Periodikum" | MStV § 20: journalistisch-redaktionelle Telemedienangebote unterliegen Gegendarstellungspflicht; BGH VI ZR 31/19 bestätigt Pflicht für Online-Medien |
+| "Frist überschritten; kein Gegendarstellungsanspruch mehr" | Fristversäumnis schließt nur LPG-Gegendarstellungsanspruch aus; Unterlassungs- und Schadensersatzansprüche §§ 823, 1004 BGB bleiben bestehen |
 
 ---
 

@@ -54,7 +54,7 @@ Frist: unverzüglich nach Eintragung der Gesellschaft im Handelsregister und unv
 |---|---|---|---|
 | BSG | B 12 R 25/18 R | NJW 2020, 1015 | Echte Sperrminorität in Satzung → SV-Freiheit |
 | BSG | B 12 KR 13/14 R | NZA 2016, 444 | SHA-Stimmbindung begründet keine SV-Freiheit |
-| BSG | B 12 KR 13/17 R | NJW 2018, 2717 | Aufgabe der „Kopf-und-Seele"-Rechtsprechung |
+| BSG | B 12 KR 13/17 R | NJW 2018, 2717 | Aufgabe der "Kopf-und-Seele"-Rechtsprechung |
 | BGH | II ZR 142/76 | BGHZ 71, 40 | Bezugsrechtsausschluss; sachliche Rechtfertigung |
 | BGH | II ZR 193/10 | NJW 2012, 2945 | Stimmverbot § 47 Abs. 4 GmbHG |
 

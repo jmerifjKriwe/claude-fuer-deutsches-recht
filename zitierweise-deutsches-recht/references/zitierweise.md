@@ -4,7 +4,7 @@
 >
 > **Pragmatik ≠ Wissenschaft.** Diese Hauszitierweise ist eine **pragmatische Konvention** für Schriftsätze, Memos und Mandantenkommunikation. Sie orientiert sich an der in NJW/ZUM/MMR verbreiteten Praxis. Sie ist **kein** wissenschaftlicher Standard im Sinne einer Dissertation oder Habilitation; dort gelten regelmäßig strengere und ausführlichere Konventionen (volle Erstzitierung, Titel im Beleg, ausführliche Verlagsangabe, ausgeschriebene Vornamen etc.). Wissenschaftliche Alternativen sind innerhalb wissenschaftlicher Texte zulässig — dann aber konsistent.
 >
-> Was hier als „verbindlich" gekennzeichnet ist, ist innerhalb dieses Repositories verbindlich, nicht in der Welt. Abweichungen sind kein Charakterfehler, sondern müssen begründet und konsistent durchgehalten werden.
+> Was hier als "verbindlich" gekennzeichnet ist, ist innerhalb dieses Repositories verbindlich, nicht in der Welt. Abweichungen sind kein Charakterfehler, sondern müssen begründet und konsistent durchgehalten werden.
 
 ## 1. Grundprinzipien
 
@@ -19,13 +19,13 @@
 **Schema:**
 `<Gericht> <Entscheidungsform> v. <Datum> – Az. <Aktenzeichen>, <Fundstelle> Rn. <Randnummer> – <Kurzbezeichnung>`
 
-`Az.` (Aktenzeichen) steht direkt vor dem Aktenzeichen. Es ist Pflichtbestandteil; entfallen darf es nur, wenn das Aktenzeichen anders eindeutig als solches markiert ist (etwa in einer Tabellenspalte „Aktenzeichen").
+`Az.` (Aktenzeichen) steht direkt vor dem Aktenzeichen. Es ist Pflichtbestandteil; entfallen darf es nur, wenn das Aktenzeichen anders eindeutig als solches markiert ist (etwa in einer Tabellenspalte "Aktenzeichen").
 
 ### Beispiele
 
 - BGH, Urt. v. 13.07.2022 – Az. VIII ZR 317/21, NJW 2022, 2754 Rn. 21.
-- BGH, Beschl. v. 10.05.2023 – Az. VII ZR 144/22, NJW-RR 2023, 988 Rn. 14 – „Bauträgervergütung".
-- BVerfG, Beschl. v. 06.11.2019 – Az. 1 BvR 16/13, BVerfGE 152, 152 Rn. 78 – „Recht auf Vergessen I".
+- BGH, Beschl. v. 10.05.2023 – Az. VII ZR 144/22, NJW-RR 2023, 988 Rn. 14 – "Bauträgervergütung".
+- BVerfG, Beschl. v. 06.11.2019 – Az. 1 BvR 16/13, BVerfGE 152, 152 Rn. 78 – "Recht auf Vergessen I".
 - BAG, Urt. v. 16.12.2021 – Az. 2 AZR 235/21, NZA 2022, 487 Rn. 32.
 - BFH, Urt. v. 22.02.2023 – Az. I R 27/20, BStBl. II 2023, 832.
 - BVerwG, Urt. v. 09.06.2022 – Az. 8 C 13.21, BVerwGE 175, 372 Rn. 19.
@@ -39,13 +39,13 @@
 | Bestandteil | Form | Beispiel |
 | --- | --- | --- |
 | Gericht | übliche Abkürzung | BGH, BVerfG, BVerwG, BAG, BSG, BFH, OLG, LG, AG, ArbG, LAG, SG, LSG, FG, VG, OVG, VGH |
-| Entscheidungsform | Urt., Beschl., Vfg., Hinweisbeschl., Vorlagebeschl. | „Urt." (Urteil), „Beschl." (Beschluss) |
+| Entscheidungsform | Urt., Beschl., Vfg., Hinweisbeschl., Vorlagebeschl. | "Urt." (Urteil), "Beschl." (Beschluss) |
 | Datum | TT.MM.JJJJ mit `v.` | v. 13.07.2022 |
 | Marker `Az.` | wörtlich, vor dem Aktenzeichen | Az. VIII ZR 317/21 |
 | Aktenzeichen | Senatszeichen + lfd. Nr. + Jahr | VIII ZR 317/21 |
 | Erste Fundstelle | amtliche Sammlung, sonst führende Zeitschrift | BGHZ 232, 1; NJW 2022, 2754 |
 | Randnummer | `Rn.` nach Fundstelle | Rn. 21 |
-| Kurzbezeichnung | falls etabliert | – „Bolzplatz" |
+| Kurzbezeichnung | falls etabliert | – "Bolzplatz" |
 
 ### Gebräuchliche Zeitschriften-Abkürzungen
 
@@ -112,8 +112,8 @@ Bei Werken, bei denen der Bearbeiter zugleich Verfasser des gesamten Kommentars 
 
 | Bestandteil | Beispiel |
 | --- | --- |
-| Bearbeiter / Verfasser | „Grüneberg" · „Ernst" · „Preis" · „Fischer" |
-| `in:` + Werktitel (nur Bearbeiter-Kommentar) | „in: MüKoBGB" |
+| Bearbeiter / Verfasser | "Grüneberg" · "Ernst" · "Preis" · "Fischer" |
+| `in:` + Werktitel (nur Bearbeiter-Kommentar) | "in: MüKoBGB" |
 | Auflage | `9. Aufl.` (bei Loseblatt/BeckOK: `70. Ed.`) |
 | Stand bei Loseblatt/Online | `(Stand 01.02.2025)` |
 | Jahr | `2022` |
@@ -180,7 +180,7 @@ Die folgende Tabelle ist eine Sammlung der gebräuchlichsten Werke und untersche
 | Kopp/Ramsauer | Kopp/Ramsauer, VwVfG |
 | Kopp/Schenke | Kopp/Schenke, VwGO |
 
-Diese Einteilung ist nicht in Stein gemeißelt; einzelne Werke (etwa Grüneberg) sind im juristischen Sprachgebrauch trotz formaler Bezeichnung als „Kommentar" eindeutig **Kurz- bzw. Handkommentare**, nicht Großkommentare. Wer das anders einordnet, soll das tun – im Repository wird Grüneberg nicht als Großkommentar bezeichnet.
+Diese Einteilung ist nicht in Stein gemeißelt; einzelne Werke (etwa Grüneberg) sind im juristischen Sprachgebrauch trotz formaler Bezeichnung als "Kommentar" eindeutig **Kurz- bzw. Handkommentare**, nicht Großkommentare. Wer das anders einordnet, soll das tun – im Repository wird Grüneberg nicht als Großkommentar bezeichnet.
 
 ## 5. Aufsätze (Beiträge in Fachzeitschriften)
 
@@ -278,24 +278,24 @@ In Deutschland besteht keine Präjudizienbindung; das BVerfG bindet nach § 31 B
 
 1. **Rechtsprechung** ist gewichtig, aber argumentativ angreifbar – insbesondere bei Instanzgerichten oder älteren BGH-Entscheidungen, deren tragende Erwägungen überholt sein können.
 2. **Kommentarliteratur** hat in der deutschen Praxis hohes Gewicht. Bei Fehlen einschlägiger Rechtsprechung, bei umstrittenen Fragen oder zur Auslegung neuer Normen sind Kommentare oft die maßgebliche Quelle.
-3. **Aufsätze** haben einen eigenständigen und dauerhaften Wert. Sie sind tragend bei aktuellen Streitfragen, bei Reformen und Gesetzesnovellen, bei EU-rechtlichen Einflüssen, bei dogmatischen Grundfragen sowie bei Themen mit ausgeprägter theoretischer, rechtsphilosophischer oder grundrechtsdogmatischer Dimension (etwa soziale Gerechtigkeit, Gleichbehandlung, Verteilung, Verfahrensgerechtigkeit). Sie sind nicht „nur" für aktuelle oder rechtsökonomische Fragen wichtig; viele klassische Aufsätze tragen die Dogmatik über Jahrzehnte. Aufsätze sind auch dann wertvoll, wenn sie eine Position außerhalb des kommentargestützten Mainstreams entwickeln.
-4. **„Herrschende Meinung" (h. M.), „herrschende Lehre" (h. L.) und „ständige Rechtsprechung" (st. Rspr.)** sind **pragmatische Sprechweisen** der Praxis. Sie sind keine wissenschaftlichen Wertungskategorien. Wer sich auf eine h. M. beruft, schuldet konkrete Belege; ein bloßes „h. M." ohne Nachweis ist kein Argument. Eine h. M. ist nicht „richtig", nur weil sie h. M. ist – sie ist breit getragen, mehr nicht.
-5. **„Mindermeinung" ist keine herabsetzende Kategorie.** Eine Auffassung wird nicht dadurch falsch oder unwissenschaftlich, dass sie zahlenmäßig weniger Stimmen hat. Viele Mindermeinungen sind später zur h. M. geworden oder bleiben dauerhaft die methodisch sauberere Lösung. Wer eine abweichende Auffassung zitiert, sollte sie als das benennen, was sie ist (z. B. „andere Auffassung", `aA`), und sie inhaltlich gewichten – nicht stigmatisierend. Auch eine Einzelposition, die nur von einem Autor vertreten wird, ist nicht automatisch unrichtig; sie ist begründungsbedürftig wie jede andere Auffassung auch.
+3. **Aufsätze** haben einen eigenständigen und dauerhaften Wert. Sie sind tragend bei aktuellen Streitfragen, bei Reformen und Gesetzesnovellen, bei EU-rechtlichen Einflüssen, bei dogmatischen Grundfragen sowie bei Themen mit ausgeprägter theoretischer, rechtsphilosophischer oder grundrechtsdogmatischer Dimension (etwa soziale Gerechtigkeit, Gleichbehandlung, Verteilung, Verfahrensgerechtigkeit). Sie sind nicht "nur" für aktuelle oder rechtsökonomische Fragen wichtig; viele klassische Aufsätze tragen die Dogmatik über Jahrzehnte. Aufsätze sind auch dann wertvoll, wenn sie eine Position außerhalb des kommentargestützten Mainstreams entwickeln.
+4. **"Herrschende Meinung" (h. M.), "herrschende Lehre" (h. L.) und "ständige Rechtsprechung" (st. Rspr.)** sind **pragmatische Sprechweisen** der Praxis. Sie sind keine wissenschaftlichen Wertungskategorien. Wer sich auf eine h. M. beruft, schuldet konkrete Belege; ein bloßes "h. M." ohne Nachweis ist kein Argument. Eine h. M. ist nicht "richtig", nur weil sie h. M. ist – sie ist breit getragen, mehr nicht.
+5. **"Mindermeinung" ist keine herabsetzende Kategorie.** Eine Auffassung wird nicht dadurch falsch oder unwissenschaftlich, dass sie zahlenmäßig weniger Stimmen hat. Viele Mindermeinungen sind später zur h. M. geworden oder bleiben dauerhaft die methodisch sauberere Lösung. Wer eine abweichende Auffassung zitiert, sollte sie als das benennen, was sie ist (z. B. "andere Auffassung", `aA`), und sie inhaltlich gewichten – nicht stigmatisierend. Auch eine Einzelposition, die nur von einem Autor vertreten wird, ist nicht automatisch unrichtig; sie ist begründungsbedürftig wie jede andere Auffassung auch.
 
 **Regel für jeden Skill, jedes Memo, jede E-Mail in diesem Repository:**
 
-> Jede juristische Aussage wird belegt. Bei umstrittenen Fragen werden die verschiedenen Auffassungen und – sofern vorhanden – Rechtsprechung **getrennt** zitiert. Bei Fehlen einschlägiger Rechtsprechung ist dies ausdrücklich kenntlich zu machen („soweit ersichtlich noch nicht entschieden"; „Rechtsprechung liegt hierzu noch nicht vor, vgl. aber …").
+> Jede juristische Aussage wird belegt. Bei umstrittenen Fragen werden die verschiedenen Auffassungen und – sofern vorhanden – Rechtsprechung **getrennt** zitiert. Bei Fehlen einschlägiger Rechtsprechung ist dies ausdrücklich kenntlich zu machen ("soweit ersichtlich noch nicht entschieden"; "Rechtsprechung liegt hierzu noch nicht vor, vgl. aber …").
 
 ## 10a. Palandt heisst seit 2022 Grüneberg — Pflicht-Nachfrage bei Palandt-Treffern
 
-**Es gibt kein aktuelles BGB-Kommentarwerk mit dem Namen „Palandt" mehr.** Der vormalige Palandt erscheint seit der **81. Auflage 2022** unter dem Titel **Grüneberg, BGB** (Beck-Verlag). Eine Zitierung als „Palandt" ist daher ab Auflage 81 sachlich falsch und ab Auflage 84 (2025) erst recht.
+**Es gibt kein aktuelles BGB-Kommentarwerk mit dem Namen "Palandt" mehr.** Der vormalige Palandt erscheint seit der **81. Auflage 2022** unter dem Titel **Grüneberg, BGB** (Beck-Verlag). Eine Zitierung als "Palandt" ist daher ab Auflage 81 sachlich falsch und ab Auflage 84 (2025) erst recht.
 
 **Regel:**
 
-1. Taucht in einem zu prüfenden Text irgendwo „Palandt" als aktuelle Quelle auf, ist **zwingend nachzufragen**, ob tatsächlich eine **Altauflage (≤ 80. Aufl. 2021)** gemeint ist.
+1. Taucht in einem zu prüfenden Text irgendwo "Palandt" als aktuelle Quelle auf, ist **zwingend nachzufragen**, ob tatsächlich eine **Altauflage (≤ 80. Aufl. 2021)** gemeint ist.
 2. **Im Zweifel** wird auf **Grüneberg** umgestellt (aktuelle Auflage, derzeit `84. Aufl. 2025`).
 3. Historische Bezüge auf den Palandt sind nur zulässig, wenn sie als solche kenntlich gemacht sind (`Palandt/Heinrichs, BGB, 67. Aufl. 2008, § 242 Rn. 38`) und die Altauflage für die zitierte Aussage tatsächlich einschlägig ist.
-4. Formulierungen wie „vormals Palandt" im Fließtext sind nur für **erklärende Hinweise** gestattet, nicht als laufende Zitierform.
+4. Formulierungen wie "vormals Palandt" im Fließtext sind nur für **erklärende Hinweise** gestattet, nicht als laufende Zitierform.
 
 **Korrekt:**
 
@@ -322,7 +322,7 @@ Die folgenden Regeln folgen einer in der deutschen Schriftsatz- und Aufsatzpraxi
 - **Reihenfolge Zeitschrift + Jahr** – Bei Zeitschriften, die mit Jahrgang/Erscheinungsjahr zitiert werden, folgt das Erscheinungsjahr nach der Bezeichnung: `ZUM 2020`, `NJW 2022`.
 - **Heftnummer entfällt** – Bei Zeitschriften mit fortlaufender Seitenzählung (NJW, ZUM, MMR, GRUR, NZA, ZIP usw.) wird die Heftnummer nicht angegeben.
 - **Aufsatztitel im Belegapparat entfällt (pragmatisch)** – Bei vollständigen Fundstellenangaben in Klammern innerhalb eines Schriftsatzes oder Belegapparats genügt `<Autor> <Zeitschrift> <Jahr>, <Anfangsseite> (<Zitatseite>)`. Diese Verkürzung ist eine **Repository-Konvention für Pragmatik**; in wissenschaftlichen Texten und Literaturverzeichnissen wird der vollständige Titel angegeben.
-- **Kein „S." bei Zeitschriften** – Die Angabe „S." für Seite entfällt bei Zeitschriften.
+- **Kein "S." bei Zeitschriften** – Die Angabe "S." für Seite entfällt bei Zeitschriften.
 - **Anfangsseite vor Zitatseite** – Die Seite, auf der der Beitrag beginnt, folgt dem Erscheinungsjahr, durch Komma abgesetzt; die konkrete Zitatseite folgt **ohne Komma in runden Klammern**. [Pragmatische Repository-Konvention.]
 
 **Beispiele:**
@@ -379,7 +379,7 @@ Bei Gesetzen, die im allgemeinen juristischen Sprachgebrauch durchgängig abgek�
 
 Alle anderen, nicht im allgemeinen Sprachgebrauch verkürzten Gesetze werden im Fließtext **beim ersten Zitieren ausgeschrieben** und mit der Abkürzung in Klammerzusatz versehen, danach genügt die Abkürzung.
 
-**Beispiel:** „… nach dem Gesetz gegen den unlauteren Wettbewerb (UWG); …" – ab da fortlaufend `UWG`.
+**Beispiel:** "… nach dem Gesetz gegen den unlauteren Wettbewerb (UWG); …" – ab da fortlaufend `UWG`.
 
 ## 13. Gebräuchliche juristische Abkürzungen
 
@@ -435,7 +435,7 @@ Vor dem Abgeben eines Memos / Dokuments / Schriftsatzes prüfen:
 
 - [ ] Gericht in üblicher Abkürzung?
 - [ ] Entscheidungsform (Urt./Beschl.) angegeben?
-- [ ] Datum vorhanden („v. TT.MM.JJJJ")?
+- [ ] Datum vorhanden ("v. TT.MM.JJJJ")?
 - [ ] `Az.` als Marker vor dem Aktenzeichen?
 - [ ] Aktenzeichen vollständig?
 - [ ] Fundstelle vorhanden (amtl. Sammlung + Zeitschrift)?
@@ -447,5 +447,5 @@ Vor dem Abgeben eines Memos / Dokuments / Schriftsatzes prüfen:
 - [ ] Bei Diss./Habil.: Marker `Diss.` bzw. `Habil.` + Hochschulort gesetzt?
 - [ ] Bei Materialien: Herausgeber, Datum, Pinpoint, ggf. URL?
 - [ ] Reihenfolge eingehalten — bei Rspr. erst Gerichtshierarchie, dann chronologisch oder relevanzbasiert (dokumentintern konsistent)?
-- [ ] Bei umstrittener Frage: Auffassungen erkennbar getrennt zitiert, ohne Stigmatisierung als „Mindermeinung"?
+- [ ] Bei umstrittener Frage: Auffassungen erkennbar getrennt zitiert, ohne Stigmatisierung als "Mindermeinung"?
 - [ ] Keine reinen `vgl.`-Floskeln ohne nachvollziehbaren Verweis?

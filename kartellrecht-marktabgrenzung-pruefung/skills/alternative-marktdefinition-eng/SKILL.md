@@ -32,9 +32,9 @@ Kriterien für den Ausschluss:
 ### Schritt 3: Juristische Begründung
 
 Referenz auf Rechtsprechung, die engere Definitionen stützt:
-- EuGH Rs. 27/76 — *United Brands*: Bananen, nicht „frische Früchte".
-- EuGH Rs. 85/76 — *Hoffmann-La Roche*: Einzelne Vitamingruppen, nicht „Vitamine".
-- EuGH Rs. C-176/19 P — *Servier*: Einzelner Wirkstoff, nicht „Antihypertensiva".
+- EuGH Rs. 27/76 — *United Brands*: Bananen, nicht "frische Früchte".
+- EuGH Rs. 85/76 — *Hoffmann-La Roche*: Einzelne Vitamingruppen, nicht "Vitamine".
+- EuGH Rs. C-176/19 P — *Servier*: Einzelner Wirkstoff, nicht "Antihypertensiva".
 
 ### Schritt 4: Ökonomische Begründung
 
@@ -72,4 +72,4 @@ Bewertung der Vertretbarkeit der engeren Definition:
 
 ## Standardformulierung für Schriftsatz
 
-> „Selbst wenn man — entgegen der hier vertretenen Auffassung — den Markt enger definiert und [Produkt X] ausklammert, weil [Begründung], ergibt sich ein Marktanteil des Antragstellers von [Y%], was [Ergebnis] zur Folge hat."
+> "Selbst wenn man — entgegen der hier vertretenen Auffassung — den Markt enger definiert und [Produkt X] ausklammert, weil [Begründung], ergibt sich ein Marktanteil des Antragstellers von [Y%], was [Ergebnis] zur Folge hat."

@@ -2,7 +2,7 @@
 
 > Diese Seite richtet sich an alle, die in Claude Desktop / Cowork **keinen GitHub-Pfad eingeben können** und einfach nur die Plugins ausprobieren wollen. Es ist kein bisschen blöd, dort etwas zu suchen — der GitHub-Pfad gehört in ein anderes Dialogfeld, das je nach Version unterschiedlich heißt oder gar nicht angeboten wird.
 >
-> Der schnellste Weg ist: **ZIP herunterladen → hochladen → fertig.** Genau dort, wo auch das Plugin „Legal Plugin" landet.
+> Der schnellste Weg ist: **ZIP herunterladen → hochladen → fertig.** Genau dort, wo auch das Plugin "Legal Plugin" landet.
 
 ## Kurzfassung
 
@@ -10,8 +10,8 @@
 
 1. Auf [die Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) gehen.
 2. Pro gewünschtem Rechtsgebiet **eine ZIP-Datei** herunterladen, z. B. `liquiditaetsplanung.zip`.
-3. In Claude Desktop / Cowork auf **Customize → Skills** klicken und zum Abschnitt **Persönliche Plugins / Personal plugins** scrollen — genau die Stelle, an der auch „Legal Plugin" installiert wird.
-4. Auf das **+** neben „Persönliche Plugins" klicken und im Dialog das soeben heruntergeladene ZIP auswählen (alternativ: erst auf **Create**, dann **Upload plugin**).
+3. In Claude Desktop / Cowork auf **Customize → Skills** klicken und zum Abschnitt **Persönliche Plugins / Personal plugins** scrollen — genau die Stelle, an der auch "Legal Plugin" installiert wird.
+4. Auf das **+** neben "Persönliche Plugins" klicken und im Dialog das soeben heruntergeladene ZIP auswählen (alternativ: erst auf **Create**, dann **Upload plugin**).
 5. Schritte 2–4 für jedes weitere Rechtsgebiet wiederholen, das gebraucht wird.
 
 Das war's. In der Plugin-Liste erscheint das Plugin direkt, kann aktiviert werden, und der Skill ist beim nächsten Chat verfügbar.
@@ -144,7 +144,7 @@ Wer einen konkreten Fall durchspielen will, lädt sich zusätzlich eine **Testak
 
 Eine Testakte wird **nicht über den Plugin-Upload** geladen, sondern direkt im Chat als Mandatsunterlage abgelegt (per Drag-and-drop oder als Anhang).
 
-## Hilfe, kein „+" da
+## Hilfe, kein "+" da
 
 Je nach Claude-Desktop- / Cowork-Version sieht der Plugin-Dialog leicht anders aus. Die typischen Stellen, an denen der Upload-Knopf sitzt:
 
@@ -169,7 +169,7 @@ Falls das ebenfalls kein Dialogfeld findet, ist die Cowork-Version zu alt für M
 
 Nach der Installation in eine neue Konversation gehen und schreiben:
 
-> „Bitte mache eine 3-Wochen-Liquiditätsvorschau für eine kleine GmbH."
+> "Bitte mache eine 3-Wochen-Liquiditätsvorschau für eine kleine GmbH."
 
 Wenn Claude jetzt nach Sachverhalt, Bankstand, offenen Forderungen und Daueraufträgen fragt und am Ende eine Excel-Tabelle vorschlägt, ist die Installation gelungen.
 

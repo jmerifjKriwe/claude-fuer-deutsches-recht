@@ -26,7 +26,7 @@ Krisenfrüherkennung ist keine betriebswirtschaftliche Kür, sondern gesetzliche
 
 ### 1. Normadressaten nach Rechtsform
 
-§ 1 StaRUG richtet sich an „die Mitglieder des zur Geschäftsführung berufenen Organs einer juristischen Person" sowie an Personen, die bei einer Gesellschaft ohne Rechtspersönlichkeit die Vertretung ausüben. Im Einzelnen:
+§ 1 StaRUG richtet sich an "die Mitglieder des zur Geschäftsführung berufenen Organs einer juristischen Person" sowie an Personen, die bei einer Gesellschaft ohne Rechtspersönlichkeit die Vertretung ausüben. Im Einzelnen:
 
 | Rechtsform | Normadressaten |
 |---|---|
@@ -47,13 +47,13 @@ Einzelkaufleute und Personengesellschaften ohne Haftungsbeschränkung sind vom W
 2. **Rechtzeitige Ergreifung** geeigneter Gegenmaßnahmen bei erkannten bestandsgefährdenden Entwicklungen
 3. **Unterrichtung** der Gesellschafter bzw. des Aufsichtsrats bei erkannter bestandsgefährdender Entwicklung
 
-„Bestandsgefährdend" im Sinne des § 1 StaRUG ist weiter zu verstehen als der Insolvenzbegriff — es geht nicht erst um die drohende Zahlungsunfähigkeit, sondern um jede Entwicklung, die den Fortbestand des Unternehmens gefährden kann.
+"Bestandsgefährdend" im Sinne des § 1 StaRUG ist weiter zu verstehen als der Insolvenzbegriff — es geht nicht erst um die drohende Zahlungsunfähigkeit, sondern um jede Entwicklung, die den Fortbestand des Unternehmens gefährden kann.
 
 ### 3. Der 24-Monats-Planungshorizont als gesetzlicher Standard
 
 Der 24-Monats-Horizont ergibt sich systematisch aus dem Zusammenspiel mehrerer Normen:
 
-- **§ 18 InsO** definiert drohende Zahlungsunfähigkeit als Unfähigkeit, die „voraussichtlich" fälligen Verbindlichkeiten zu erfüllen — der BGH (IX ZR 285/14) und die h.M. legen den Prognosezeitraum mit 24 Monaten aus.
+- **§ 18 InsO** definiert drohende Zahlungsunfähigkeit als Unfähigkeit, die "voraussichtlich" fälligen Verbindlichkeiten zu erfüllen — der BGH (IX ZR 285/14) und die h.M. legen den Prognosezeitraum mit 24 Monaten aus.
 - **§ 29 Abs. 2 StaRUG** setzt für die Antragsstellung auf Eröffnung des Restrukturierungsverfahrens voraus, dass drohende Zahlungsunfähigkeit noch nicht eingetreten ist — der Zugang zum StaRUG-Verfahren erfordert also zwingend eine belastbare 24-Monats-Sicht.
 - **IDW S 11** und **IDW S 6** verankern den 24-Monats-Horizont in der Praxis der Sanierungsberatung.
 
@@ -142,7 +142,7 @@ Unterschriften: _________________ / _________________
 
 ## Fallstricke
 
-1. **„Wir machen das immer schon so"** ist kein Nachweis für § 1 StaRUG-Compliance — gefordert ist eine formale, dokumentierte Struktur, keine informelle Routine.
+1. **"Wir machen das immer schon so"** ist kein Nachweis für § 1 StaRUG-Compliance — gefordert ist eine formale, dokumentierte Struktur, keine informelle Routine.
 
 2. **Der 24-Monats-Horizont gilt für die Liquiditätsplanung, nicht nur für die GuV** — eine reine Ergebnisplanung ohne Cashflow-Modell erfüllt die Pflicht nicht.
 

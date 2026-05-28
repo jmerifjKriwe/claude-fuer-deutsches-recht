@@ -33,8 +33,8 @@ Mandantenansprachen.
 
 Pflichtangabe der Nutzerin / des Nutzers:
 
-- **Mandatstyp** (z. B. „Kündigungsschutzklage Arbeitnehmer", „NDA-Review
-  Inbound", „Mietkündigung Vermieter", „GmbH-Gründung").
+- **Mandatstyp** (z. B. "Kündigungsschutzklage Arbeitnehmer", "NDA-Review
+  Inbound", "Mietkündigung Vermieter", "GmbH-Gründung").
 - **Erwarteter Wiederverwendungs-Kontext** (Mandantenkommunikation vs.
   interne Bearbeitung vs. Schriftsatzentwurf).
 - **Vertraulichkeitsstufe** der Eingaben (anonymisiert vs. echte

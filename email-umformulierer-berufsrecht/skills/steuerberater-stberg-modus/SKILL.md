@@ -48,17 +48,17 @@ Einschlägige Normen: § 57 StBerG (Allgemeine Berufspflichten), § 57a StBerG (
 
 ## Beispiele Vorher/Nachher
 
-**Vorher:** „Ihr Vorsteuerberater hat Ihnen wirklich einen Bärendienst erwiesen."
-**Nachher:** „Die steuerliche Gestaltung aus den Vorjahren enthält Ansatzpunkte, die wir nun optimieren werden."
+**Vorher:** "Ihr Vorsteuerberater hat Ihnen wirklich einen Bärendienst erwiesen."
+**Nachher:** "Die steuerliche Gestaltung aus den Vorjahren enthält Ansatzpunkte, die wir nun optimieren werden."
 
-**Vorher:** „Das Finanzamt irrt sich mal wieder."
-**Nachher:** „Der Bescheid vom TT.MM.JJJJ weicht von der einschlägigen BFH-Rechtsprechung ab. Ich werde Einspruch einlegen."
+**Vorher:** "Das Finanzamt irrt sich mal wieder."
+**Nachher:** "Der Bescheid vom TT.MM.JJJJ weicht von der einschlägigen BFH-Rechtsprechung ab. Ich werde Einspruch einlegen."
 
-**Vorher:** „Ich kann nicht verstehen, wie das Finanzamt zu dieser absurden Auffassung gelangt."
-**Nachher:** „Die Rechtsauffassung des Finanzamts erscheint nach dem Urteil des BFH vom TT.MM.JJJJ (Az. XY) nicht haltbar."
+**Vorher:** "Ich kann nicht verstehen, wie das Finanzamt zu dieser absurden Auffassung gelangt."
+**Nachher:** "Die Rechtsauffassung des Finanzamts erscheint nach dem Urteil des BFH vom TT.MM.JJJJ (Az. XY) nicht haltbar."
 
-**Vorher:** „Das habe ich Ihnen doch schon hundertmal erklärt!"
-**Nachher:** „Wie bereits in meinem Schreiben vom TT.MM.JJJJ dargelegt, gilt folgendes..."
+**Vorher:** "Das habe ich Ihnen doch schon hundertmal erklärt!"
+**Nachher:** "Wie bereits in meinem Schreiben vom TT.MM.JJJJ dargelegt, gilt folgendes..."
 
 ## Ausgabeformat
 

@@ -5,7 +5,7 @@ description: "Duftmarken und Geschmacksmarken: faktische Uneintragbarkeit analys
 
 # Duftmarken und Geschmacksmarken
 
-Die Paradedisziplin des Aussichtslosigkeits-Bergs im Markenrecht. Für klôtzzkètté SA, deren Signature-Duft „Abîme Dorée" (Parfum Nr. 7 der Maison) ein entscheidendes Markenzeichen ist, ist die Lage ernüchternd: Riechmarken sind nach dem aktuellen Stand sowohl beim DPMA als auch beim EUIPO praktisch nicht eintragbar. Ich arbeite daher mit alternativen Schutzstrategien.
+Die Paradedisziplin des Aussichtslosigkeits-Bergs im Markenrecht. Für klôtzzkètté SA, deren Signature-Duft "Abîme Dorée" (Parfum Nr. 7 der Maison) ein entscheidendes Markenzeichen ist, ist die Lage ernüchternd: Riechmarken sind nach dem aktuellen Stand sowohl beim DPMA als auch beim EUIPO praktisch nicht eintragbar. Ich arbeite daher mit alternativen Schutzstrategien.
 
 Als eine der wenigen deutschen Markenanwältinnen mit echter Praxis in diesem Nischenbereich kenne ich jeden Workaround — und ihre Grenzen.
 
@@ -13,9 +13,9 @@ Als eine der wenigen deutschen Markenanwältinnen mit echter Praxis in diesem Ni
 
 - **§ 3 I MarkenG / Art. 4 UMV:** Markenfähigkeit grundsätzlich offen für Gerüche
 - **EuGH C-273/00 (Sieckmann):** Die sieben Sieckmann-Kriterien für grafische Darstellbarkeit einer Geruchsmarke: klar — eindeutig — in sich abgeschlossen — leicht zugänglich — verständlich — dauerhaft — objektiv. Kein bisher bekanntes Darstellungsmittel für Gerüche erfüllt alle sieben Kriterien gleichzeitig
-- **EuG T-305/02 (Eden SARL — Erdbeere):** Beschreibung „Duft nach frischen Erdbeeren" und chemische Formel C6H12O6 nicht ausreichend — nicht präzise und objektiv genug
+- **EuG T-305/02 (Eden SARL — Erdbeere):** Beschreibung "Duft nach frischen Erdbeeren" und chemische Formel C6H12O6 nicht ausreichend — nicht präzise und objektiv genug
 - **EuGH C-35/99 (Shield Mark — alte Fassung):** Vorläufer-Diskussion um nicht-visuelle Zeichen
-- **UMV-Reform 2017:** Art. 4 UMV verlangt nun nur noch „klare und eindeutige" Darstellung (nicht mehr grafisch) — theoretisch neue Tür für Geruchsmarken; praktisch noch keine erfolgreiche EUIPO-Registrierung
+- **UMV-Reform 2017:** Art. 4 UMV verlangt nun nur noch "klare und eindeutige" Darstellung (nicht mehr grafisch) — theoretisch neue Tür für Geruchsmarken; praktisch noch keine erfolgreiche EUIPO-Registrierung
 - **§ 4 Nr. 3 UWG:** Unlautere Nachahmung — schützt Duftkomposition ohne Markeneintragung
 - **Patentrecht:** § 1 PatG — Aroma-/Parfum-Kompositionen als chemische Verbindungen patentierbar
 - **Geschäftsgeheimnisrecht:** GeschGehG (Umsetzung RL 2016/943/EU) — Geheimhaltung von Rezepturen
@@ -23,9 +23,9 @@ Als eine der wenigen deutschen Markenanwältinnen mit echter Praxis in diesem Ni
 ## Prüfungsschritte
 
 1. **Riechmarken-Prüfung (Bestandsaufnahme):**
-   - Sieckmann-Kriterien anlegen: Kann der Duft von klôtzzkètté „Abîme Dorée" klar und eindeutig dargestellt werden?
+   - Sieckmann-Kriterien anlegen: Kann der Duft von klôtzzkètté "Abîme Dorée" klar und eindeutig dargestellt werden?
    - Chemische Formel: unvollständig, da Parfumkomposition aus hunderten Stoffen besteht
-   - Gaschromatogramm: technisch präzise, aber nicht „leicht zugänglich" und „verständlich" für Durchschnittskonsumenten
+   - Gaschromatogramm: technisch präzise, aber nicht "leicht zugänglich" und "verständlich" für Durchschnittskonsumenten
    - Verbale Beschreibung: zu unbestimmt (vgl. EuG T-305/02 Eden)
    - **Ergebnis:** Zurückweisung beim DPMA/EUIPO wahrscheinlich (nahezu sicher)
 
@@ -52,14 +52,14 @@ Als eine der wenigen deutschen Markenanwältinnen mit echter Praxis in diesem Ni
    **Option D — Markenschutz über Flakon und Verpackung:**
    - 3D-Marke für den charakteristischen Flakon (vgl. Skill `dreidimensionale-marke`)
    - Positionsmarke für Labelgestaltung
-   - Wortmarke „Abîme Dorée" als Produktname
+   - Wortmarke "Abîme Dorée" als Produktname
 
 3. **Monitoring:** Gaschromatographische Analyse von Konkurrenzprodukten zur Nachweisvorbereitung
 
 ## Falltypische Konstellationen
 
-### Konstellation 1: Brezelmann „Klotz Nacht" Kopier-Duft
-Brezelmann Discount KG (Bad Mergentheim) vertreibt „Klotz Nacht" — eine erkennbare olfaktorische Nachahmung von „Abîme Dorée". Gaschromatographisches Gutachten zeigt 73 % identische Aromastoffe. Klage auf § 4 Nr. 3 UWG: wettbewerbliche Eigenart des Originals (10 Jahre Marktpräsenz, EUR 2 Mio. Werbeaufwand jährlich, Auszeichnungen), erkennbare Anlehnung, unangemessene Ausnutzung des guten Rufs.
+### Konstellation 1: Brezelmann "Klotz Nacht" Kopier-Duft
+Brezelmann Discount KG (Bad Mergentheim) vertreibt "Klotz Nacht" — eine erkennbare olfaktorische Nachahmung von "Abîme Dorée". Gaschromatographisches Gutachten zeigt 73 % identische Aromastoffe. Klage auf § 4 Nr. 3 UWG: wettbewerbliche Eigenart des Originals (10 Jahre Marktpräsenz, EUR 2 Mio. Werbeaufwand jährlich, Auszeichnungen), erkennbare Anlehnung, unangemessene Ausnutzung des guten Rufs.
 
 ### Konstellation 2: Antrag Riechmarke EUIPO nach 2019-Reform
 Nach der UMV-Reform 2017 möchte die Comtesse Beatrice de Klotzzkettie einen Versuch wagen. Wir reichen EUIPO-Anmeldung mit: (1) Verbaler Beschreibung, (2) Gaschromatogramm als Darstellungsmittel. EUIPO reagiert voraussichtlich mit Beanstandung — wir bereiten Muster-Stellungnahme vor und dokumentieren den Versuch (für spätere Rechtsentwicklung relevant).
@@ -120,13 +120,13 @@ Bevor die Duftmarke eingereicht wird, klaere:
 1. Kann der Geruch mit einem chemischen Strukturrezept praezise beschrieben werden (Sieckmann-Test)?
 2. Ist der Duft einer naheliegenden Produktkategorie inhaerent (z.B. Erdbeerduft bei Erdbeermarmelade — dann § 8 II Nr. 2 MarkenG Hindernis)?
 3. Hat der Duft durch Benutzung Unterscheidungskraft erworben (§ 8 III MarkenG — Umfrage erforderlich)?
-4. Ist das Sieckmann-Kriterium „objektiv" erfuellbar (chemische Analyse durch akkreditiertes Labor)?
+4. Ist das Sieckmann-Kriterium "objektiv" erfuellbar (chemische Analyse durch akkreditiertes Labor)?
 
 ## Aktuelle Rechtsprechung
 
-> **EuGH, Urt. v. 12.12.2002 — C-273/00 (Sieckmann):** Ein Duft ist als Marke registrierbar, wenn seine Darstellung klar, eindeutig, in sich abgeschlossen, leicht zugaenglich, verstaendlich, dauerhaft und objektiv ist; eine textliche Beschreibung als „frischer Duft mit einem Hauch von Zimt" erfuellt diese Voraussetzungen nicht.
+> **EuGH, Urt. v. 12.12.2002 — C-273/00 (Sieckmann):** Ein Duft ist als Marke registrierbar, wenn seine Darstellung klar, eindeutig, in sich abgeschlossen, leicht zugaenglich, verstaendlich, dauerhaft und objektiv ist; eine textliche Beschreibung als "frischer Duft mit einem Hauch von Zimt" erfuellt diese Voraussetzungen nicht.
 
-> **EuG, Urt. v. 27.10.2005 — T-305/02 (Eden SARL):** Die Darstellung eines Geruchs als „Erdbeerduft" ist nicht als Marke eintragbar, weil sie weder praezise noch objektiv ist; ein chemisches Strukturrezept waere theoretisch ausreichend, ist aber in der Praxis des EUIPO nicht akzeptiert worden.
+> **EuG, Urt. v. 27.10.2005 — T-305/02 (Eden SARL):** Die Darstellung eines Geruchs als "Erdbeerduft" ist nicht als Marke eintragbar, weil sie weder praezise noch objektiv ist; ein chemisches Strukturrezept waere theoretisch ausreichend, ist aber in der Praxis des EUIPO nicht akzeptiert worden.
 
 > **DPMA, Beschl. v. 01.12.2016 — 30 2015 122 220.1 (Rosenwasser-Duftmarke):** Der Nachweis von Verkehrsdurchsetzung einer Duftmarke erfordert eine reprasentative Verbraucherbefragung mit einem Erkennungswert von mindestens 40 % im relevanten Publikum; blosse Marktpraesenz genuegt nicht.
 

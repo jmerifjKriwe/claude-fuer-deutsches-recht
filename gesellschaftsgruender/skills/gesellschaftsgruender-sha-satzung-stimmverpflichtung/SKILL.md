@@ -13,7 +13,7 @@ Die **Gesellschaftervereinbarung (Shareholder Agreement, SHA)** und die **Satzun
 
 ### Was ist gemeint
 
-- SHA legt fest: „Bei Änderung des Geschäftsmodells sind alle Gesellschafter verpflichtet, ihrer Zustimmung zu verweigern, es sei denn 75 % der Common-Inhaber zuzustimmen."
+- SHA legt fest: "Bei Änderung des Geschäftsmodells sind alle Gesellschafter verpflichtet, ihrer Zustimmung zu verweigern, es sei denn 75 % der Common-Inhaber zuzustimmen."
 - In der Gesellschafterversammlung: Gesellschafter X stimmt **für** die AEnderung — entgegen der SHA-Pflicht.
 - **Rechtsfolgen**: gesellschaftsrechtlich ist die Stimme wirksam; im Innenverhältnis schuldet Gesellschafter X Schadensersatz oder Vertragsstrafe.
 
@@ -117,7 +117,7 @@ und dabei den ausscheidenden Anteilsinhaber zu ersetzen.
 ### Bei Verweigerung
 
 - Anteilsübertragung ohne Joinder kann durch Vinkulierungs-Klausel (Paragraf 15 V GmbHG) verhindert werden
-- Satzung sollte vorsehen: „Anteilsübertragung nur mit Zustimmung der Gesellschafterversammlung; Zustimmung wird **nur** erteilt, wenn der Erwerber dem aktuell geltenden SHA beitritt."
+- Satzung sollte vorsehen: "Anteilsübertragung nur mit Zustimmung der Gesellschafterversammlung; Zustimmung wird **nur** erteilt, wenn der Erwerber dem aktuell geltenden SHA beitritt."
 
 ## 6) Streit über Stimmverpflichtungen
 
@@ -155,7 +155,7 @@ und dabei den ausscheidenden Anteilsinhaber zu ersetzen.
 ### Sondervetorechte als Stimmverpflichtungs-Spiegel
 
 - Wenn Class A Sondervetorechte hat (Satzung)
-- Im SHA wird die Ausübung des Vetorechts an objektive Kriterien gebunden („Veto nur bei wesentlicher Verwässerung")
+- Im SHA wird die Ausübung des Vetorechts an objektive Kriterien gebunden ("Veto nur bei wesentlicher Verwässerung")
 - Bindet die Class-A-Inhaber im Innenverhältnis
 
 ## 9) Praktische Empfehlung

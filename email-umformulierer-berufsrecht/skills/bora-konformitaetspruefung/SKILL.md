@@ -53,13 +53,13 @@ Maßgebliche Normen: § 2 BORA (Verschwiegenheit), § 6 BORA (Werbung), § 12 BO
 
 ## Beispiele Vorher/Nachher
 
-**Vorher:** „Ich schreibe Ihnen direkt, weil Ihr Anwalt offenbar keine Zeit hat."
+**Vorher:** "Ich schreibe Ihnen direkt, weil Ihr Anwalt offenbar keine Zeit hat."
 **Nachher (Prüfergebnis):** Verstoß gegen § 12 BORA (Direktkontaktverbot bei anwaltlicher Vertretung). Lösung: Schreiben an den Kollegen richten.
 
-**Vorher:** „Ihr Kollege hat mir gesagt, dass er unsicher ist."
-**Nachher (Prüfergebnis):** Möglicher Verstoß gegen § 25 BORA; Wiedergabe einer Äußerung des Kollegen ohne dessen Einwilligung. Formulierung: „Es wurde mündlich erörtert, ob..."
+**Vorher:** "Ihr Kollege hat mir gesagt, dass er unsicher ist."
+**Nachher (Prüfergebnis):** Möglicher Verstoß gegen § 25 BORA; Wiedergabe einer Äußerung des Kollegen ohne dessen Einwilligung. Formulierung: "Es wurde mündlich erörtert, ob..."
 
-**Vorher:** „Wir sind bekannt für unsere Erfolge vor dem BGH."
+**Vorher:** "Wir sind bekannt für unsere Erfolge vor dem BGH."
 **Nachher (Prüfergebnis):** Werberechtlich bedenklich nach § 6 BORA, sofern nicht durch öffentliche Informationen (Urteilslisten) belegt. Empfehlung: Konkrete, nachprüfbare Angabe.
 
 ## Ausgabeformat

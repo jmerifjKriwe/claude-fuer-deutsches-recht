@@ -13,13 +13,13 @@ dem Erhalt des internen Stundenberichts (Stand 08.04.2026: EUR 2,38 Mio.
 netto Stunden, ca. EUR 430.000 über Plan Q1).
 
 Sinngemäßer Inhalt der Nachricht (nicht wörtlich):
-  „Adalbert – hab gerade den Stundenbericht gesehen. 2,38 Mio. – das ist
+  "Adalbert – hab gerade den Stundenbericht gesehen. 2,38 Mio. – das ist
    mehr als wir hatten. Markwart fragt schon nach. Kannst du mir morgen
    früh kurz erklären was in Q1 so viel war? Kyoto nehme ich an?
    PSVaG-Sache auch. Ruf mich an wenn du kannst. – Henrick"
 
 Antwort Sompeh-Ostermann (Folgetag, 09.04.2026, 07:55):
-  „Henrick – ja, Kyoto + 3 Extra-Schriftsätze LAG. Erkläre alles im
+  "Henrick – ja, Kyoto + 3 Extra-Schriftsätze LAG. Erkläre alles im
    Call Donnerstag. Kein Grund zur Sorge, Budget hält. – AdSO"
 
 HINWEIS ZUM DATENSCHUTZ:

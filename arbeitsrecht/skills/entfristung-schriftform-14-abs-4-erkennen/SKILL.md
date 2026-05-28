@@ -89,7 +89,7 @@ Dies ist der wichtigste Skill im Entfristungs-Bündel. § 14 Abs. 4 TzBfG legt f
 ## Wann liegt ein Schriftformmangel vor?
 
 **Häufige Szenarien:**
-- Arbeitsvertrag wurde per E-Mail zugesandt und per E-Mail „unterschrieben" (eingescannte Unterschrift im PDF)
+- Arbeitsvertrag wurde per E-Mail zugesandt und per E-Mail "unterschrieben" (eingescannte Unterschrift im PDF)
 - Vertragsunterzeichnung über ein Online-Portal (z.B. Workday, DocuSign) ohne qualifizierte elektronische Signatur
 - Nur der Arbeitgeber hat unterschrieben, der Arbeitnehmer nicht (oder umgekehrt)
 - Die Befristungsklausel wurde per E-Mail vereinbart, der Grundvertrag ist zwar schriftlich, aber die Verlängerungsvereinbarung nicht

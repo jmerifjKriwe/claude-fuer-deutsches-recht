@@ -19,7 +19,7 @@ Dieser Skill erzeugt aus dem typischerweise vorhandenen, oft unstrukturierten Ma
    - **Gelb (Zahlungsstockung)**: Lücke < 10 % oder Lücke ≥ 10 %, aber innerhalb von 3 Wochen schließbar.
    - **Rot (Zahlungsunfähigkeit § 17 InsO)**: Lücke ≥ 10 % und nicht innerhalb von 3 Wochen schließbar (st. Rspr. BGH BGHZ 163, 134 Rn. 12 ff.).
 
-3. **Fortführungsprognose**: 12-Monats-Auswertung mit den **Kernelementen des IDW S 6** (siehe unten), abgegrenzt von einer reinen handelsbilanziellen Überschuldungsprognose. Liefert ein Ergebnis „positive Fortführungsprognose" / „negative Fortführungsprognose" mit Begründung.
+3. **Fortführungsprognose**: 12-Monats-Auswertung mit den **Kernelementen des IDW S 6** (siehe unten), abgegrenzt von einer reinen handelsbilanziellen Überschuldungsprognose. Liefert ein Ergebnis "positive Fortführungsprognose" / "negative Fortführungsprognose" mit Begründung.
 
 4. **Excel-Export**: Die Tabelle wird über `werkzeuge/build_liquiditaetsplan.py` als `liquiditaetsplan.xlsx` exportiert. Cloud-Bedienung über interaktive Tabelle möglich; Werte mit Excel-Formeln, nicht hartcodiert. Das Skript läuft mit reiner Python-Standardbibliothek — kein `pip install` nötig. PyYAML wird automatisch erkannt, sonst kommt ein eingebauter Mini-YAML-Parser zum Einsatz.
 
@@ -144,7 +144,7 @@ Format-Wahl (Abschnitt *Format- und Padlet-Wahl*) und Banking-Wahl (Abschnitt *B
 - Ergebnis: **Insolvenzfähige Überschuldung** nur, wenn rechnerische Unterdeckung **und** negative Fortführungsprognose.
 
 **Schritt 7 – Ergebnis ausliefern**
-- **Immer**: Excel-Datei `Liquiditaetsplan-<Firma>-KW<t>.xlsx` auf Basis von `assets/excel/Liquiditaetsplan-Wochenbasis.xlsx` befüllen. Vorgegebenes Layout (Kategorien-Zeilen × KW-Spalten) **nicht verändern**. BGH-Block ab Zeile 42 (Aktiva I/II, Passiva I/II, Lücke abs., Lücke %, Ampel) und Block „Offene Forderungen“ behalten. Formeln verwenden, nicht hartcodieren.
+- **Immer**: Excel-Datei `Liquiditaetsplan-<Firma>-KW<t>.xlsx` auf Basis von `assets/excel/Liquiditaetsplan-Wochenbasis.xlsx` befüllen. Vorgegebenes Layout (Kategorien-Zeilen × KW-Spalten) **nicht verändern**. BGH-Block ab Zeile 42 (Aktiva I/II, Passiva I/II, Lücke abs., Lücke %, Ampel) und Block "Offene Forderungen" behalten. Formeln verwenden, nicht hartcodieren.
 - **Wenn HTML-Padlet gewählt**: zusätzlich `liquiditaets-padlet-<Firma>-KW<t>.html` aus `assets/padlet/liquiditaets-padlet.html` ableiten (single-file, autark, localStorage, JSON-Export/Import, Live-Ampel nach BGH-Schema).
 - **Wenn Markdown-Artefakt gewählt**: `liquiditaets-artefakt-<Firma>-KW<t>.md` auf Basis von `assets/markdown/liquiditaets-artefakt-vorlage.md` ausfüllen.
 - Bei jeder Folgemeldung des Nutzers das gewählte Artefakt aktualisieren und die neue Version unter demselben Asset-Namen liefern.
@@ -158,7 +158,7 @@ Bei Zustimmung: Sachverhalt, Liquiditätsbilanz tabellarisch, Quotenberechnung n
 
 ## Ausgabeformat
 
-1. **Excel** (immer) auf Basis von `assets/excel/Liquiditaetsplan-Wochenbasis.xlsx`. KW-Spalten × Kategorien-Zeilen wie in der Vorlage; BGH-Block (Aktiva I/II, Passiva I/II, Lücke abs., %, Ampel) ab Zeile 42; Block „Offene Forderungen“; Hinweise zur BGH-Rspr. Sheet `Liquiditätsplan` (Werte) und Sheet `BGH-Schema` (Erläuterung). Wochenstichtag = Freitag.
+1. **Excel** (immer) auf Basis von `assets/excel/Liquiditaetsplan-Wochenbasis.xlsx`. KW-Spalten × Kategorien-Zeilen wie in der Vorlage; BGH-Block (Aktiva I/II, Passiva I/II, Lücke abs., %, Ampel) ab Zeile 42; Block "Offene Forderungen"; Hinweise zur BGH-Rspr. Sheet `Liquiditätsplan` (Werte) und Sheet `BGH-Schema` (Erläuterung). Wochenstichtag = Freitag.
 2. **HTML-Padlet** (auf Wunsch): autarke single-file HTML aus `assets/padlet/liquiditaets-padlet.html`, live rechnend, localStorage-Speicher, JSON-Export/-Import.
 3. **Markdown-Artefakt** (auf Wunsch): `assets/markdown/liquiditaets-artefakt-vorlage.md` als Vorlage; bei jeder Folgemeldung neu geschrieben.
 4. **Memo** (nur auf Anfrage): Kurz-Gutachten im Gutachtenstil, höchstens zwei Seiten, DOCX oder Markdown nach Wahl.
@@ -183,14 +183,14 @@ Bei Zustimmung: Sachverhalt, Liquiditätsbilanz tabellarisch, Quotenberechnung n
 - **Stundungen als Liquidität werten**: Stundungen verschieben die Fälligkeit, sind aber Indiz für Zahlungsunfähigkeit (BGH NJW 2007, 78 Rn. 18) – nicht beruhigen lassen.
 - **Kreditlinien unkritisch ansetzen**: Nur **zugesagte und ziehungsfähige** Linien zählen; gekündigte oder ausgeschöpfte Linien nicht.
 - **Großaufträge ohne Zahlungseingangsrisiko ansetzen**: Realistische Annahmen mit Ausfall- und Skonto-Quoten; immer Sensitivität (Worst Case).
-- **Fortführungsprognose ohne IDW-S-6-Struktur**: Eine nicht strukturierte „Prognose" trägt vor Gericht nicht; BGH NJW 2020, 1809 verlangt tragfähiges Konzept.
+- **Fortführungsprognose ohne IDW-S-6-Struktur**: Eine nicht strukturierte "Prognose" trägt vor Gericht nicht; BGH NJW 2020, 1809 verlangt tragfähiges Konzept.
 - **USt- und LSt-Rückstände kleinreden**: Diese sind starke Insolvenzindizien und führen oft zur Anzeige durch Finanzamt/Krankenkasse (§ 15a Abs. 4 InsO).
 - **Personalkosten unterschätzen**: Lohn + AG-Anteil SV + KK-Beiträge = ca. 1,28× Bruttolohn; monatliche Drittellast SV-Beiträge.
 - **SanInsKG-Stand übersehen**: Prognosehorizont § 19 InsO wurde temporär verkürzt; aktuelle Fassung am Bewertungsstichtag prüfen.
 
 ## Quellenpflicht
 
-Mindestens zwei BGH-Belege (jüngere zuerst) und zwei Kommentarbelege im Bearbeiterstil. Berufsständische Verlautbarungen (IDW S 6, IDW S 11) als Hintergrund, nicht als „Rechtsprechung“ kennzeichnen. Die PDFs unter `references/rechtsprechung/` sind die maßgeblichen Quellen, ergänzt um BGHZ 163, 134; NJW 2007, 78; NJW 2020, 1809; BGHZ 195, 42.
+Mindestens zwei BGH-Belege (jüngere zuerst) und zwei Kommentarbelege im Bearbeiterstil. Berufsständische Verlautbarungen (IDW S 6, IDW S 11) als Hintergrund, nicht als "Rechtsprechung" kennzeichnen. Die PDFs unter `references/rechtsprechung/` sind die maßgeblichen Quellen, ergänzt um BGHZ 163, 134; NJW 2007, 78; NJW 2020, 1809; BGHZ 195, 42.
 
 ## Übergabe
 

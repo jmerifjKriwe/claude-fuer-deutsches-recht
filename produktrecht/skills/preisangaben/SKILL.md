@@ -16,7 +16,7 @@ Das Modell benötigt:
 - **Art des Angebots**: Online-Shop, stationärer Handel, Werbeanzeige (Online/Print/Social Media)?
 - **Produkt**: Lebensmittel, Kosmetik, Drogerieartikel, Elektronik, Textilien?
 - **Preisstruktur**: Endpreis inkl. MwSt., Grundpreis (Menge/Gewicht), Versandkosten?
-- **Preisreduktion**: Liegt eine Preissenkung vor? Wie wird sie kommuniziert (Streichpreis, Prozentangabe „-30 %", „Sale")?
+- **Preisreduktion**: Liegt eine Preissenkung vor? Wie wird sie kommuniziert (Streichpreis, Prozentangabe "-30 %", "Sale")?
 - **Referenzpreis**: Was ist der Referenzpreis für die Streichpreisangabe? Seit wann galt er?
 - **30-Tage-Preishistorie**: Was war der niedrigste Preis in den letzten 30 Tagen vor der Preisreduzierung?
 - **Zielgruppe**: Ausschließlich Verbraucher (B2C) oder auch Unternehmer (B2B)?
@@ -34,9 +34,9 @@ Das Modell benötigt:
 
 ### Leitentscheidungen
 
-1. EuGH, Urt. v. 26.09.2024 – C-330/23 (Aldi Süd/Verbraucherzentrale), NJW 2024, 3561 Rn. 42–68: Der Begriff „niedrigster Preis" in Art. 6a Preisangaben-RL (§ 11 PAngV) umfasst ausnahmslos den tatsächlich geforderten Gesamtpreis der letzten 30 Tage; es kommt nicht auf einen „regulären" oder „üblichen" Preis an. Sonderaktionspreise innerhalb des 30-Tage-Zeitraums (z.B. Einführungspreise) müssen als Referenz verwendet werden, wenn sie den Niedrigstpreis darstellen.
+1. EuGH, Urt. v. 26.09.2024 – C-330/23 (Aldi Süd/Verbraucherzentrale), NJW 2024, 3561 Rn. 42–68: Der Begriff "niedrigster Preis" in Art. 6a Preisangaben-RL (§ 11 PAngV) umfasst ausnahmslos den tatsächlich geforderten Gesamtpreis der letzten 30 Tage; es kommt nicht auf einen "regulären" oder "üblichen" Preis an. Sonderaktionspreise innerhalb des 30-Tage-Zeitraums (z.B. Einführungspreise) müssen als Referenz verwendet werden, wenn sie den Niedrigstpreis darstellen.
 
-2. BGH, Urt. v. 10.11.2022 – I ZR 16/22, GRUR 2023, 162 Rn. 22–35 – „Streichpreis Online": Vor Umsetzung der Omnibus-RL war die Verwendung eines Streichpreises, der nicht dem tatsächlich geforderten Preis entspricht, als irreführende Werbung nach §§ 5, 5a UWG abmahnfähig. Diese Wertung gilt fort; § 11 PAngV konkretisiert nunmehr den zulässigen Referenzpreis verbindlich.
+2. BGH, Urt. v. 10.11.2022 – I ZR 16/22, GRUR 2023, 162 Rn. 22–35 – "Streichpreis Online": Vor Umsetzung der Omnibus-RL war die Verwendung eines Streichpreises, der nicht dem tatsächlich geforderten Preis entspricht, als irreführende Werbung nach §§ 5, 5a UWG abmahnfähig. Diese Wertung gilt fort; § 11 PAngV konkretisiert nunmehr den zulässigen Referenzpreis verbindlich.
 
 ### Kommentarliteratur
 
@@ -49,7 +49,7 @@ Das Modell benötigt:
 **Schritt 1 – Pflicht zur Gesamtpreisangabe prüfen (§ 3 PAngV)**
 - Richtet sich das Angebot an Verbraucher (§ 13 BGB)?
 - Gesamtpreis inkl. MwSt. und sämtlicher Pflichtabgaben angeben.
-- Keine „ab"-Preise, wenn kein Produkt tatsächlich zu diesem Preis verfügbar ist.
+- Keine "ab"-Preise, wenn kein Produkt tatsächlich zu diesem Preis verfügbar ist.
 
 **Schritt 2 – Grundpreispflicht prüfen (§ 4 PAngV)**
 - Produkt nach Gewicht/Volumen/Länge/Fläche? → Grundpreis pro kg/l/m/m² angeben.
@@ -62,7 +62,7 @@ Das Modell benötigt:
 - Keine Aufdeckung zusätzlicher Kosten erst im Checkout-Prozess (irreführend nach § 5a UWG).
 
 **Schritt 4 – Streichpreisangabe und 30-Tage-Regel (§ 11 PAngV)**
-- Liegt eine Preisermäßigung vor (Streichpreis, „-30 %", „Sale", „Angebot")?
+- Liegt eine Preisermäßigung vor (Streichpreis, "-30 %", "Sale", "Angebot")?
 - Ermittlung des Niedrigstpreises der letzten 30 Tage: niedrigster Gesamtpreis (inkl. aller vorherigen Aktionspreise) im 30-Tage-Fenster vor Beginn der aktuellen Preisreduzierung.
 - Dieser Niedrigstpreis = einzig zulässiger Referenzpreis für die Streichpreisdarstellung.
 - Bei rollierenden Aktionen (Preis sinkt schrittweise): Niedrigstpreis entsprechend aktualisieren.
@@ -100,7 +100,7 @@ Das Modell benötigt:
 
 ## Beispiel
 
-**Sachverhalt**: Online-Händler H bewirbt Olivenöl (1 l) mit „UVP 12,99 € jetzt 8,99 €". Der niedrigste Preis der letzten 30 Tage vor der Aktion war 9,49 € (kurze Aktionswoche). H gibt als Streichpreis 12,99 € an.
+**Sachverhalt**: Online-Händler H bewirbt Olivenöl (1 l) mit "UVP 12,99 € jetzt 8,99 €". Der niedrigste Preis der letzten 30 Tage vor der Aktion war 9,49 € (kurze Aktionswoche). H gibt als Streichpreis 12,99 € an.
 
 **Gutachtenstil**:
 
@@ -108,7 +108,7 @@ Das Modell benötigt:
 
 *Grundpreis (§ 4 PAngV)*: Olivenöl ist ein Lebensmittel nach Volumen; Grundpreis pro Liter = 8,99 €/l muss neben dem Gesamtpreis angegeben werden. Fehlt im Sachverhalt; Verstoß gegen § 4 PAngV.
 
-*Streichpreis (§ 11 PAngV)*: Der Referenzpreis muss der niedrigste Gesamtpreis der letzten 30 Tage vor der Preisreduzierung sein. Der niedrigste Preis war 9,49 € (nicht 12,99 € UVP). Die Angabe „12,99 €" als Streichpreis ist unzulässig; zulässig wäre nur „zuvor 9,49 €" (EuGH, Urt. v. 26.09.2024 – C-330/23 Rn. 55). Die UVP des Herstellers darf daneben genannt werden, ersetzt aber nicht die Pflichtangabe nach § 11 PAngV.
+*Streichpreis (§ 11 PAngV)*: Der Referenzpreis muss der niedrigste Gesamtpreis der letzten 30 Tage vor der Preisreduzierung sein. Der niedrigste Preis war 9,49 € (nicht 12,99 € UVP). Die Angabe "12,99 €" als Streichpreis ist unzulässig; zulässig wäre nur "zuvor 9,49 €" (EuGH, Urt. v. 26.09.2024 – C-330/23 Rn. 55). Die UVP des Herstellers darf daneben genannt werden, ersetzt aber nicht die Pflichtangabe nach § 11 PAngV.
 
 *Rechtsfolge*: Verstoß gegen § 11 PAngV begründet Abmahnrisiko nach § 3a UWG (Sosnitza, in: Ohly/Sosnitza, UWG, 8. Aufl. 2023, PAngV Vorbem. Rn. 18); Bußgeld nach § 19 PAngV bis 25.000 EUR.
 

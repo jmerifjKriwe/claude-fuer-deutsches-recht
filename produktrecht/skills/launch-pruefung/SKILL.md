@@ -64,7 +64,7 @@ Vor der Checkliste in klarer Sprache beantworten:
 - Neue Materialien, neue Nutzungsszenarien, neue Zielmärkte, neue Vertriebswege?
 - Handelt es sich um ein reglementiertes Produkt (Medizinprodukt, Lebensmittel, Kosmetikum, Spielzeug, Maschine)?
 
-**KI-Komponente — vor dem Rahmenwerk-Durchlauf prüfen.** Enthält das Produkt eine KI-Funktionalität — Drittanbieter-Modell, intern trainiertes Modell, automatisierte Klassifikation, generative Inhalte, Empfehlungen, Prognosen — auch wenn das PRD den Begriff „KI" nicht verwendet? Wörter wie „intelligent", „automatisiert", „personalisiert", „generiert", „vorgeschlagen" sind Hinweise. Sofern KI-Komponente erkannt → explizit kennzeichnen und ergänzend zum Rahmenwerk-Durchlauf nach dem KI-Rechtsrahmen (KI-VO (EU) 2024/1689) prüfen.
+**KI-Komponente — vor dem Rahmenwerk-Durchlauf prüfen.** Enthält das Produkt eine KI-Funktionalität — Drittanbieter-Modell, intern trainiertes Modell, automatisierte Klassifikation, generative Inhalte, Empfehlungen, Prognosen — auch wenn das PRD den Begriff "KI" nicht verwendet? Wörter wie "intelligent", "automatisiert", "personalisiert", "generiert", "vorgeschlagen" sind Hinweise. Sofern KI-Komponente erkannt → explizit kennzeichnen und ergänzend zum Rahmenwerk-Durchlauf nach dem KI-Rechtsrahmen (KI-VO (EU) 2024/1689) prüfen.
 
 ### Schritt 3: Prüfrahmenwerk durcharbeiten
 
@@ -108,10 +108,10 @@ Für jede der nachfolgenden Kategorien prüfen. Auto-Überspringen nur mit einze
 ### Schritt 4: Schweregrad kalibrieren
 
 Jeden Befund gegen die Kalibrierungstabelle in der CLAUDE.md abgleichen:
-- Entspricht einem „typischerweise FYI"-Muster → vermerken, nicht blockieren
-- Entspricht „erfordert Maßnahme" → Maßnahme und Zeitrahmen konkret benennen
-- Entspricht „blockiert" → prominent kennzeichnen, eskalieren
-- **Neuartig** (nicht in der Tabelle) → explizit vermelden: „Dieser Befund entspricht keinem Muster in der Kalibrierung — menschliche Entscheidung erforderlich"
+- Entspricht einem "typischerweise FYI"-Muster → vermerken, nicht blockieren
+- Entspricht "erfordert Maßnahme" → Maßnahme und Zeitrahmen konkret benennen
+- Entspricht "blockiert" → prominent kennzeichnen, eskalieren
+- **Neuartig** (nicht in der Tabelle) → explizit vermelden: "Dieser Befund entspricht keinem Muster in der Kalibrierung — menschliche Entscheidung erforderlich"
 
 ### Schritt 5: Prüfvermerk zusammenstellen
 
@@ -180,7 +180,7 @@ Prüfvermerk im internen Format gemäß CLAUDE.md. Falls kein Hausformat vorgege
 **Beispielhafte Befunde:**
 - **Kategorie 1 (Produktsicherheit/CE):** CE-Kennzeichnung nach RED RL 2014/53/EU erforderlich; Konformitätsbewertungsverfahren (Selbsterklärung nach Modul A) noch nicht abgeschlossen — **Blocker**.
 - **Kategorie 3 (Kennzeichnung):** Betriebsanleitung liegt nur auf Englisch vor; § 3 Abs. 2 Nr. 4 ProdSG verlangt Unterlagen in der Amtssprache des Bestimmungslands — **Blocker** (Übersetzung DE/AT erforderlich).
-- **Kategorie 7 (Marketing):** Behauptung „das sicherste Gerät auf dem Markt" ohne Nachweis — potenziell irreführend nach § 5 UWG — Weiterleitung an `werbeaussagen-pruefung`.
+- **Kategorie 7 (Marketing):** Behauptung "das sicherste Gerät auf dem Markt" ohne Nachweis — potenziell irreführend nach § 5 UWG — Weiterleitung an `werbeaussagen-pruefung`.
 
 ## Risiken und typische Fehler
 

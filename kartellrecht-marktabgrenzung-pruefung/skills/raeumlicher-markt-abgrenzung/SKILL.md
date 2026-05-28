@@ -11,7 +11,7 @@ Der räumlich relevante Markt umfasst das Gebiet, in dem die betreffenden Untern
 
 Rechtsquellen:
 - EU-Bekanntmachung zur Marktdefinition 2024, Rn. 65 ff.
-- § 18 Abs. 1 GWB: „sachlich und räumlich relevanter Markt".
+- § 18 Abs. 1 GWB: "sachlich und räumlich relevanter Markt".
 - FKVO 139/2004: Für die Fusionskontrolle relevant als Grundlage für Marktanteilsberechnung.
 
 ## Prüfungsschritte

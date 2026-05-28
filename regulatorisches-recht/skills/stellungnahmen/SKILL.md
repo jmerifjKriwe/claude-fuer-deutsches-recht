@@ -148,7 +148,7 @@ Kommentarliteratur:
 
 ## Beispiel
 
-**Eingabe:** „BaFin hat einen Konsultationsentwurf zur MaRisk-Novelle veröffentlicht. Frist: 30.06.2025. Bitte analysieren und Stellungnahme vorbereiten."
+**Eingabe:** "BaFin hat einen Konsultationsentwurf zur MaRisk-Novelle veröffentlicht. Frist: 30.06.2025. Bitte analysieren und Stellungnahme vorbereiten."
 
 **Ausgabe (Auszug):**
 

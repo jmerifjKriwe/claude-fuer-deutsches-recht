@@ -3,7 +3,7 @@
 Diese Referenz listet die häufigsten Fehlbilder und ihre normierte
 Zielform. Sie dient dem Skill als Spickzettel und Selbstkontrolle.
 
-## 1. Zeitschriften — Heftnummer und „S." raus
+## 1. Zeitschriften — Heftnummer und "S." raus
 
 | Erkennen | Korrektur | Belegstelle |
 |---|---|---|
@@ -115,7 +115,7 @@ Schreibvariante, ob als `Palandt`, `Palandt/Bearbeiter` oder
 Der Marker wird **nicht** durch automatische Umbenennung in Grüneberg
 ersetzt, sondern als Rückfragepunkt ins Korrekturprotokoll übernommen:
 
-> Rückfrage: Im Text wird „Palandt" zitiert. Der BGB-Kommentar heißt
+> Rückfrage: Im Text wird "Palandt" zitiert. Der BGB-Kommentar heißt
 > seit der 81. Aufl. 2022 **Grüneberg**. Ist (a) eine konkrete
 > **Palandt-Altauflage ≤ 80. Aufl. 2021** gemeint (dann bitte Auflage
 > und Bearbeiter angeben), oder (b) ein **aktueller Beleg**, der dann

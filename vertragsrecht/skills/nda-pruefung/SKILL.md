@@ -7,7 +7,7 @@ description: "Schnelle Triage von eingehenden NDA-/Geheimhaltungsvereinbarungen 
 
 ## Zweck
 
-Eingehende Geheimhaltungsvereinbarungen (NDA, GHV, Verschwiegenheitserklärung) schnell einordnen: GRÜN bedeutet „zur Unterzeichnung weiterleiten"; GELB bedeutet „ein bis zwei konkrete Punkte brauchen Anwaltblick"; ROT bedeutet „vor Verhandlung Rechtsbeistand einschalten". Maßgebliche Rechtsbasis: §§ 17 ff. GeschGehG (Schutz von Geschäftsgeheimnissen), § 241 Abs. 2 BGB (Schutzpflichten), § 307 BGB (AGB-Kontrolle), GmbHG/AktG-Verschwiegenheitspflichten.
+Eingehende Geheimhaltungsvereinbarungen (NDA, GHV, Verschwiegenheitserklärung) schnell einordnen: GRÜN bedeutet "zur Unterzeichnung weiterleiten"; GELB bedeutet "ein bis zwei konkrete Punkte brauchen Anwaltblick"; ROT bedeutet "vor Verhandlung Rechtsbeistand einschalten". Maßgebliche Rechtsbasis: §§ 17 ff. GeschGehG (Schutz von Geschäftsgeheimnissen), § 241 Abs. 2 BGB (Schutzpflichten), § 307 BGB (AGB-Kontrolle), GmbHG/AktG-Verschwiegenheitspflichten.
 
 ## Eingaben
 
@@ -101,14 +101,14 @@ GELB – Kennzeichnung für [Genehmiger]
 
 ### Kurzübersicht
 
-- [Eine-Zeile-Handlungsempfehlung, z. B. „Wettbewerbsverbot in § 6 streichen oder zeitlich/räumlich eingrenzen"]
+- [Eine-Zeile-Handlungsempfehlung, z. B. "Wettbewerbsverbot in § 6 streichen oder zeitlich/räumlich eingrenzen"]
 - [Weitere Empfehlung]
 
 ### Gekennzeichnete Punkte
 
 **1. [Problem]** – § [X]
    Was: [eine Zeile]
-   Warum gekennzeichnet: [eine Zeile – welche Playbook-Position betroffen, oder „Playbook schweigt dazu"]
+   Warum gekennzeichnet: [eine Zeile – welche Playbook-Position betroffen, oder "Playbook schweigt dazu"]
    **Rechtliches Risiko:** [🔴/🟠/🟡/🟢] | **Geschäftliche Reibung:** [🔴/🟠/🟡/🟢]
    Wahrscheinliche Lösung: [akzeptieren / bestimmten Punkt verhandeln / kontextabhängig]
 
@@ -125,7 +125,7 @@ GELB – Kennzeichnung für [Genehmiger]
 
 #### ROT – stopp, zuerst Rechtsrat einholen
 
-Die NDA trifft eine „Nie-akzeptieren"-Position des Playbooks, oder die Vertragsstruktur widerspricht dem Standardansatz des Teams.
+Die NDA trifft eine "Nie-akzeptieren"-Position des Playbooks, oder die Vertragsstruktur widerspricht dem Standardansatz des Teams.
 
 **Ausgabe (ROT):**
 
@@ -138,12 +138,12 @@ ROT – nicht weiterleiten; zuerst Rechtsrat einholen
 
 ### Kurzübersicht
 
-- [Eine-Zeile-Handlungsempfehlung, z. B. „§ 4 – zur Rechtsabteilung weiterleiten"]
+- [Eine-Zeile-Handlungsempfehlung, z. B. "§ 4 – zur Rechtsabteilung weiterleiten"]
 
 ### Kritische Punkte
 
 **1. [Problem]** – § [X]
-   > „[genaues Zitat]"
+   > "[genaues Zitat]"
    Warum problematisch: [konkretes Risiko; betroffene Playbook-Position zitieren]
    **Rechtliches Risiko:** [🔴/🟠/🟡/🟢] | **Geschäftliche Reibung:** [🔴/🟠/🟡/🟢]
    Empfohlene Reaktion: [eigenes Muster verwenden | konkrete Formulierung verhandeln | Abstand nehmen]
@@ -164,7 +164,7 @@ Ist die NDA gegenseitig oder einseitig? Position aus CLAUDE.md anwenden.
 
 Antworten + CLAUDE.md-Position verwenden, um GRÜN/GELB/ROT zu bestimmen.
 
-### Definition „Geschäftsgeheimnisse" (§ 2 Nr. 1 GeschGehG)
+### Definition "Geschäftsgeheimnisse" (§ 2 Nr. 1 GeschGehG)
 
 Umfang prüfen: markierungspflichtig vs. alles Offenbarte; Anforderungen an Markierung; Bestätigungsfenster für mündliche Offenbarungen. Position aus CLAUDE.md anwenden.
 
@@ -209,9 +209,9 @@ Falls Vertragsstrafe vereinbart: Höhe auf Angemessenheit prüfen (§ 307 BGB, �
 
 ## Ausgaberegeln
 
-**Sauber-NDA-Regel:** Wenn die NDA alle Punkte ohne Beanstandungen besteht, soll die Kurzübersicht nur lauten: „Keine Beanstandungen. Weiterleitung zur Unterzeichnung im Standardprozess." Keinen langen Bericht für eine saubere NDA erstellen.
+**Sauber-NDA-Regel:** Wenn die NDA alle Punkte ohne Beanstandungen besteht, soll die Kurzübersicht nur lauten: "Keine Beanstandungen. Weiterleitung zur Unterzeichnung im Standardprozess." Keinen langen Bericht für eine saubere NDA erstellen.
 
-**Abschluss-Handlung:** `closing_action` aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` → `## NDA-Triage-Einstellungen` lesen und wortgetreu am Ende jeder Ausgabe anhängen. Falls nicht konfiguriert: „NDA im Standardgenehmigungsverfahren weiterleiten."
+**Abschluss-Handlung:** `closing_action` aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` → `## NDA-Triage-Einstellungen` lesen und wortgetreu am Ende jeder Ausgabe anhängen. Falls nicht konfiguriert: "NDA im Standardgenehmigungsverfahren weiterleiten."
 
 ## Quellen und Zitierweise
 

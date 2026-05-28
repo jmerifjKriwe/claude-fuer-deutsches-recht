@@ -5,7 +5,7 @@ description: "Zweistufige Fortbestehensprognose nach IDW S 11 erstellen: Unterne
 
 # Fortbestehensprognose — Zweistufiges Modell nach IDW S 11
 
-Die Fortbestehensprognose ist der Schlüssel zwischen bilanzieller Überschuldung und Insolvenzantragspflicht. § 19 Abs. 2 InsO lässt bei positiver Fortführungsprognose Fortführungswerte in der Überschuldungsbilanz zu — was den Unterschied zwischen „noch sanierbar" und „Antragspflicht ausgelöst" machen kann. IDW S 11 formalisiert diesen Prüfungsprozess zweistufig. Wer die Fortbestehensprognose nicht aktuell und dokumentiert hält, riskiert die persönliche Haftung — auch wenn das Unternehmen de facto noch fortgeführt werden könnte.
+Die Fortbestehensprognose ist der Schlüssel zwischen bilanzieller Überschuldung und Insolvenzantragspflicht. § 19 Abs. 2 InsO lässt bei positiver Fortführungsprognose Fortführungswerte in der Überschuldungsbilanz zu — was den Unterschied zwischen "noch sanierbar" und "Antragspflicht ausgelöst" machen kann. IDW S 11 formalisiert diesen Prüfungsprozess zweistufig. Wer die Fortbestehensprognose nicht aktuell und dokumentiert hält, riskiert die persönliche Haftung — auch wenn das Unternehmen de facto noch fortgeführt werden könnte.
 
 ---
 

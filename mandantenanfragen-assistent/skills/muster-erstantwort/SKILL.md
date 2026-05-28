@@ -98,11 +98,11 @@ Sehr geehrte[r] [VORNAME] [NACHNAME],
 
 vielen Dank für Ihre Anfrage, die uns heute zugegangen ist.
 
-[Identischer Textblock wie Variante 1 ab „Bitte beachten Sie ..."]
+[Identischer Textblock wie Variante 1 ab "Bitte beachten Sie ..."]
 ```
 
 Falls Nachname nicht ermittelbar:
-Anrede: „Sehr geehrte anfragende Person,"
+Anrede: "Sehr geehrte anfragende Person,"
 
 ---
 
@@ -133,7 +133,7 @@ automatisch verschriftlicht und uns vertraulich übermittelt:
 
 Ablauf des Anrufs:
   1. Automatische Ansage mit Datenschutzhinweis
-  2. Bestätigung Ihres Einverständnisses (Tastendruck oder „Ja")
+  2. Bestätigung Ihres Einverständnisses (Tastendruck oder "Ja")
      — Ohne Bestätigung keine Aufnahme.
   3. Freie Schilderung Ihres Anliegens
   4. Automatische Verschriftung und vertrauliche Weiterleitung an uns

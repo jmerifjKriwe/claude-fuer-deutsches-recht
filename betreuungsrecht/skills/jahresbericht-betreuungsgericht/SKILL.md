@@ -83,7 +83,7 @@ Anfangs- und Jahresbericht darzustellen.
 
 ### § 1815 BGB — Aufgabenkreise
 
-Aufgabenkreise sind nicht pauschal („alle Angelegenheiten"), sondern
+Aufgabenkreise sind nicht pauschal ("alle Angelegenheiten"), sondern
 einzeln zu bestimmen. Übliche Aufgabenkreise:
 
 - Vermögenssorge
@@ -107,7 +107,7 @@ Stundensätze nach Vergütungstabelle).
 Der Bericht des Betreuers ist Grundlage der gerichtlichen Aufsicht (§ 1862
 BGB n.F.) und muss inhaltlich so substantiiert sein, dass das Gericht die
 ordnungsgemäße Führung der Betreuung beurteilen kann. Pauschale Angaben
-(z. B. „Frau X geht es gut") genügen nicht (Rn. 12).
+(z. B. "Frau X geht es gut") genügen nicht (Rn. 12).
 
 **BGH, Beschl. v. 15.06.2022 – XII ZB 85/22, FamRZ 2022, 1391 Rn. 12 ff.:**
 Zur Auslegung des § 1901 BGB a.F. (jetzt § 1821 BGB n.F.): Der Wille der
@@ -251,7 +251,7 @@ Ort, Datum                              [Name, Unterschrift Betreuer/in]
   Antikoagulation eingeleitet); Allgemeinmedizin Petersen v. 02.03.2026
 - Heimrechnung: Pflegegrad 4, Eigenanteil 2.341 EUR/Monat, Sozialhilfe ergänzt
 - Kontoauszüge: Anfangsbestand 18342.12 EUR, Endbestand 16108.77 EUR
-- Wunschäußerung Frau K. (Vermerk v. 24.11.2025): „Möchte am Heiligabend
+- Wunschäußerung Frau K. (Vermerk v. 24.11.2025): "Möchte am Heiligabend
   bei Tochter Susanne in Potsdam sein" — umgesetzt durch Abholfahrt am
   24.12.2025
 
@@ -278,7 +278,7 @@ Ort, Datum                              [Name, Unterschrift Betreuer/in]
 ## Risiken und typische Fehler
 
 **1. Pauschale Formulierungen**
-„Frau K. geht es gut, keine Besonderheiten" genügt nicht. Der Bericht muss
+"Frau K. geht es gut, keine Besonderheiten" genügt nicht. Der Bericht muss
 substantiiert die persönlichen Verhältnisse darstellen, sodass das Gericht
 seine Aufsichtspflicht nach § 1862 BGB ausüben kann (BGH XII ZB 120/14
 Rn. 12).
@@ -292,7 +292,7 @@ Dauer und Inhalt zu dokumentieren.
 **3. Wünsche nicht eigenständig ermittelt**
 Der Bericht muss erkennen lassen, wie der Betreuer die Wünsche der
 betreuten Person ermittelt hat (Gespräch, Anhörung, Patientenverfügung).
-Die bloße Aussage „Die Betreute hat keine Wünsche geäußert" ist
+Die bloße Aussage "Die Betreute hat keine Wünsche geäußert" ist
 unzureichend, wenn nicht erkennbar ist, ob der Betreuer aktiv gefragt hat
 (§ 1821 Abs. 2, 3 BGB; BGH XII ZB 85/22 Rn. 12).
 
@@ -321,7 +321,7 @@ zur Aufhebung, Erweiterung oder Einschränkung besteht. Dieser Abschnitt
 darf nie fehlen; er bewirkt die Verhältnismäßigkeitskontrolle nach
 § 1814 Abs. 3 BGB.
 
-**8. Aufgabenkreis „Postangelegenheiten" / „Postkontrolle"**
+**8. Aufgabenkreis "Postangelegenheiten" / "Postkontrolle"**
 Wegen Eingriff in Art. 10 GG nur bei gesondertem gerichtlichen Beschluss
 (§ 1815 Abs. 2 Nr. 3 BGB). Im Bericht ist Notwendigkeit fortlaufend zu
 begründen.

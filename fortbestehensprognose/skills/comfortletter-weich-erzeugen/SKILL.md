@@ -21,7 +21,7 @@ Wer den Comfortletter mit einer harten externen Patronatserklärung verwechselt 
 
 - **Bank-Signal**: Die Bank verlangt eine schriftliche Unterstützungsabsicht des Mutterunternehmens — nicht als Sicherheit aber als Indikator.
 - **Lieferanten-Signal**: Beim Verhandeln mit Lieferanten kann der Comfortletter Vertrauen schaffen.
-- **Investor-Signal**: Bei Verhandlungen mit potenziellen Investoren als „Soft Backing".
+- **Investor-Signal**: Bei Verhandlungen mit potenziellen Investoren als "Soft Backing".
 
 ## Wann NICHT sinnvoll
 

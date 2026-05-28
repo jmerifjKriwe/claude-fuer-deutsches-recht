@@ -57,7 +57,7 @@ Alle Zeugnisse enthalten:
 
 ## Technisches
 
-- Format der Zeugnisse: PDF, A4, deutsche Typographie mit Anführungszeichen „...", Halbgeviertstrich und korrekt gesetzten Umlauten
+- Format der Zeugnisse: PDF, A4, deutsche Typographie mit Anführungszeichen "...", Halbgeviertstrich und korrekt gesetzten Umlauten
 - Keine Blindtexte, keine leeren Lücken und keine Musterlösung im Aktenbestand
 - Personen, Firmen, Adressen und Personalnummern sind frei erfunden; Übereinstimmungen mit realen Personen oder Unternehmen sind nicht beabsichtigt
 - Die Zeugnisse sind als Trainings- und Testmaterial gedacht und ersetzen keine rechtliche Beratung

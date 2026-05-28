@@ -44,7 +44,7 @@ BGH, Urt. v. 18.04.2024 — IX ZR 129/22: Ein nicht näher belegter Liquiditäts
 
 ## § 133 als Human-Review-Norm
 
-§ 133 InsO enthält innere Tatsachen und Gesamtwürdigung. Die KI darf hier eine Indizienmatrix bauen, aber nicht ohne fachliche Prüfung „Vorsatz bewiesen“ schreiben.
+§ 133 InsO enthält innere Tatsachen und Gesamtwürdigung. Die KI darf hier eine Indizienmatrix bauen, aber nicht ohne fachliche Prüfung "Vorsatz bewiesen" schreiben.
 
 | Indiz | Belastet | Entlastet |
 |---|---|---|

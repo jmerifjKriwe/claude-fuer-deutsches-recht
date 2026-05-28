@@ -101,7 +101,7 @@ Organisation nutzt AWS US-East als Backup-System. AVV enthält EU-SCC Modul 2. K
 - EDSA-Empfehlungen 01/2020, Schritt 3: Rechtslage im Empfängerland bewerten.
 - EDSA-Empfehlungen 01/2020, Schritt 4: Auf Lücken in Schutzäquivalenz prüfen.
 - EDSA-Empfehlungen 01/2020, Schritte 5–6: Ergänzende Maßnahmen / Zurückhalten der Übermittlung.
-- **Gap:** TIA fehlt vollständig. SCC ohne TIA schützt zwar formal, aber EuGH, Urt. v. 16.07.2020 – C-311/18, NJW 2020, 2945 Rn. 134: „Die Übermittlung auf der Grundlage von Standarddatenschutzklauseln ist nur dann zulässig, wenn der Schutz des angemessenen Schutzniveaus durch die Klauseln plus ergänzende Maßnahmen im Empfängerland gewährleistet ist."
+- **Gap:** TIA fehlt vollständig. SCC ohne TIA schützt zwar formal, aber EuGH, Urt. v. 16.07.2020 – C-311/18, NJW 2020, 2945 Rn. 134: "Die Übermittlung auf der Grundlage von Standarddatenschutzklauseln ist nur dann zulässig, wenn der Schutz des angemessenen Schutzniveaus durch die Klauseln plus ergänzende Maßnahmen im Empfängerland gewährleistet ist."
 
 **Maßnahme (Priorität 🟠):**
 1. TIA für AWS US-East nach EDSA-Empfehlungen 01/2020 erstellen (2 Wochen, DSB + IT-Sicherheit).

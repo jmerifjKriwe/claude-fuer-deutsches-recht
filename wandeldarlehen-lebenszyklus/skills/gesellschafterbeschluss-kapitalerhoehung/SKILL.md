@@ -38,10 +38,10 @@ Dieser Skill erstellt den notariell beurkundungspflichtigen Gesellschafterbeschl
 Notarielle Beurkundung (§ 53 Abs. 2 GmbHG) zwingend. Beschlussinhalt: (a) Kapitalerhöhung, (b) Ausschluss Bezugsrecht, (c) Zulassung Lender, (d) Satzungsänderung. Gleichzeitig: Übernahmeerklärung des Lenders (§ 55 Abs. 2 GmbHG) – auch notariell.
 
 ### 2. Beschlusstext ausarbeiten
-„Die Gesellschafterinnen beschließen mit der erforderlichen Mehrheit von drei Vierteln der abgegebenen Stimmen die Erhöhung des Stammkapitals der Gesellschaft von EUR [alt] um EUR [Erhöhungsbetrag] auf EUR [neu] durch Ausgabe von [Anzahl] neuen Geschäftsanteilen mit einem Nennbetrag von je EUR 1,00 gegen Einbringung der Forderung aus dem Wandeldarlehensvertrag vom [Datum] in Höhe von EUR [Wandlungssumme] als Sacheinlage."
+"Die Gesellschafterinnen beschließen mit der erforderlichen Mehrheit von drei Vierteln der abgegebenen Stimmen die Erhöhung des Stammkapitals der Gesellschaft von EUR [alt] um EUR [Erhöhungsbetrag] auf EUR [neu] durch Ausgabe von [Anzahl] neuen Geschäftsanteilen mit einem Nennbetrag von je EUR 1,00 gegen Einbringung der Forderung aus dem Wandeldarlehensvertrag vom [Datum] in Höhe von EUR [Wandlungssumme] als Sacheinlage."
 
 ### 3. Bezugsrechtsverzicht formulieren
-„Die Altgesellschafterinnen verzichten hiermit auf ihr Bezugsrecht an den neuen Geschäftsanteilen und stimmen der Zulassung von [Lender] zur Übernahme der neuen Geschäftsanteile zu."
+"Die Altgesellschafterinnen verzichten hiermit auf ihr Bezugsrecht an den neuen Geschäftsanteilen und stimmen der Zulassung von [Lender] zur Übernahme der neuen Geschäftsanteile zu."
 
 ### 4. Übernahmeerklärung Lender (§ 55 Abs. 2 GmbHG)
 Lender erklärt notariell die Übernahme der neuen Geschäftsanteile gegen Einbringung der Forderung. Gleichzeitig: Abtretung der Forderung an die Gesellschaft (Konfusion) oder Verzicht (§ 4.8 WDV).

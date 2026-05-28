@@ -11,7 +11,7 @@ Sanierungs-Vehikel: Schuldner behaelt Verfügungsbefugnis, Sachwalter überwacht
 
 ## 1) Eingangs-Abfrage
 
-1. Liquiditäts-Lage: Zahlungsunfähigkeit oder „drohend" § 18 InsO?
+1. Liquiditäts-Lage: Zahlungsunfähigkeit oder "drohend" § 18 InsO?
 2. Überschuldung § 19 InsO?
 3. Sanierungs-Aussicht (positive Fortbestehensprognose)?
 4. Anzahl Mitarbeiter / Gläubiger?
@@ -78,7 +78,7 @@ Sanierungs-Vehikel: Schuldner behaelt Verfügungsbefugnis, Sachwalter überwacht
 
 - Sanierungs-Gutachten
 - Liquiditäts-Plan 13-Wochen
-- Bescheinigung Prüfer „Sanierung nicht offenbar aussichtslos"
+- Bescheinigung Prüfer "Sanierung nicht offenbar aussichtslos"
 - Sachwalter-Vorschlag
 - Antrag-Entwurf
 

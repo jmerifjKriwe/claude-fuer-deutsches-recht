@@ -9,11 +9,11 @@ Das Recht auf ein Arbeitszeugnis ist in § 109 GewO verankert. Der Arbeitnehmer 
 
 Die zentrale Spannung liegt zwischen dem Wahrheitsgebot (§ 109 Abs. 2 Satz 2 GewO) und dem Wohlwollensgebot (das sich aus dem Anspruch auf ein förderliches Zeugnis ergibt). Das BAG hat in seiner Entscheidung vom 12. August 2008 (9 AZR 632/07) klargestellt, dass der Arbeitgeber verpflichtet ist, ein wohlwollendes Zeugnis auszustellen, das dem Arbeitnehmer das berufliche Fortkommen nicht unnötig erschwert. Gleichwohl darf das Zeugnis nicht nachweislich falsch sein.
 
-Die Beweislastverteilung ist einer der wichtigsten Aspekte für die anwaltliche Praxis: Begehrt der Arbeitnehmer eine bessere Schlussbeurteilung als „befriedigend" (Note 3), muss er die Tatsachen vortragen und beweisen, die diese bessere Bewertung rechtfertigen (BAG 18.11.2014 - 9 AZR 584/13). Umgekehrt muss der Arbeitgeber eine unterdurchschnittliche Beurteilung belastbar erklären und mit Tatsachen unterlegen.
+Die Beweislastverteilung ist einer der wichtigsten Aspekte für die anwaltliche Praxis: Begehrt der Arbeitnehmer eine bessere Schlussbeurteilung als "befriedigend" (Note 3), muss er die Tatsachen vortragen und beweisen, die diese bessere Bewertung rechtfertigen (BAG 18.11.2014 - 9 AZR 584/13). Umgekehrt muss der Arbeitgeber eine unterdurchschnittliche Beurteilung belastbar erklären und mit Tatsachen unterlegen.
 
 Der Anspruch auf Berichtigung eines inhaltlich falschen oder unvollständigen Zeugnisses ergibt sich aus § 109 GewO in Verbindung mit dem allgemeinen Unterlassungsanspruch. Die Klage auf Berichtigung ist vor dem Arbeitsgericht zu erheben und unterliegt keiner kurzen Ausschlussfrist — wohl aber einer Verwirkung, wenn das Zeugnis jahrelang ohne Beanstandung hingenommen wurde.
 
-Die höchstrichterliche Rechtsprechung zur durchschnittlichen Beurteilung ist verfestigt: das BAG hat die Beweislastverteilung bei der Note „befriedigend“ mehrfach bestätigt und bekräftigt, dass empirische Erhebungen über tatsächlich erteilte Zeugnisnoten den Maßstab nicht verschieben. Auch wenn statistisch betrachtet die Mehrheit der Zeugnisse heute mit Note 2 oder besser ausgestellt wird, bleibt die Beweislast fixiert auf den Streitpunkt „unter“ oder „über“ Note 3. Die Tatsachen der Leistungserbringung trägt jeweils die Partei, die die abweichende Note begehrt.
+Die höchstrichterliche Rechtsprechung zur durchschnittlichen Beurteilung ist verfestigt: das BAG hat die Beweislastverteilung bei der Note "befriedigend" mehrfach bestätigt und bekräftigt, dass empirische Erhebungen über tatsächlich erteilte Zeugnisnoten den Maßstab nicht verschieben. Auch wenn statistisch betrachtet die Mehrheit der Zeugnisse heute mit Note 2 oder besser ausgestellt wird, bleibt die Beweislast fixiert auf den Streitpunkt "unter" oder "über" Note 3. Die Tatsachen der Leistungserbringung trägt jeweils die Partei, die die abweichende Note begehrt.
 
 Zur Schlussformel ist sauber zu trennen: Dank, Bedauern und Zukunftswünsche sind im Bewerbungsverkehr starke Signale, gehören nach BAG 11.12.2012 - 9 AZR 227/11 aber nicht zum gesetzlichen Mindestinhalt. Das Fehlen einer warmen Schlussformel ist deshalb regelmäßig ein Verhandlungsargument, nicht automatisch ein sicherer Klagepunkt. Bei Codeworten und Geheimsprache gilt zusätzlich: Nicht jede unglückliche Wendung ist ein Geheimcode; maßgeblich sind objektiver Empfängerhorizont und Gesamtzusammenhang.
 
@@ -38,17 +38,17 @@ Der Anspruch auf das Zeugnis verjährt nach der regelmäßigen Verjährungsfrist
 
 ## Beispiele
 
-**Beispiel 1 – Anspruch auf Berichtigung:** Ein Zeugnis enthält „bemüht" (Note 4). Der Arbeitnehmer hat nachweislich gute Beurteilungen in Mitarbeitergesprächen erhalten. Die Berichtigung kann verlangt werden; der Arbeitgeber muss die Schlechterbeurteilung beweisen.
+**Beispiel 1 – Anspruch auf Berichtigung:** Ein Zeugnis enthält "bemüht" (Note 4). Der Arbeitnehmer hat nachweislich gute Beurteilungen in Mitarbeitergesprächen erhalten. Die Berichtigung kann verlangt werden; der Arbeitgeber muss die Schlechterbeurteilung beweisen.
 
-**Beispiel 2 – Beweislast beim Arbeitnehmer:** Der Arbeitnehmer begehrt die Note „sehr gut" (Note 1 bis 2). Er muss konkrete Leistungsnachweise erbringen, die eine Übererfüllung der Anforderungen belegen — allgemeine Zufriedenheitsbekundungen reichen nicht.
+**Beispiel 2 – Beweislast beim Arbeitnehmer:** Der Arbeitnehmer begehrt die Note "sehr gut" (Note 1 bis 2). Er muss konkrete Leistungsnachweise erbringen, die eine Übererfüllung der Anforderungen belegen — allgemeine Zufriedenheitsbekundungen reichen nicht.
 
 **Beispiel 3 – Verwirkung:** Ein Arbeitnehmer nimmt ein Zeugnis mit Note 4 entgegen und beanstandet es erst vier Jahre später. Das Gericht kann Verwirkung des Berichtigungsanspruchs annehmen, wenn ein Vertrauenstatbestand entstanden ist.
 
-**Beispiel 4 – Schlussformel als Signal, nicht Automatismus:** Ein Zeugnis enthält „Wir wünschen ihm alles Gute" ohne Bedauern und ohne Dank. Der Arbeitnehmer war nachweislich beliebt und leistungsstark. Das ist ein Distanzsignal und ein guter Verhandlungspunkt. Als Klagepunkt ist es nur tragfähig, wenn zusätzliche Umstände hinzukommen, etwa ein Vergleichstext, ein bindendes Zwischenzeugnis, eine betriebliche Übung oder ein widersprüchliches Gesamtbild.
+**Beispiel 4 – Schlussformel als Signal, nicht Automatismus:** Ein Zeugnis enthält "Wir wünschen ihm alles Gute" ohne Bedauern und ohne Dank. Der Arbeitnehmer war nachweislich beliebt und leistungsstark. Das ist ein Distanzsignal und ein guter Verhandlungspunkt. Als Klagepunkt ist es nur tragfähig, wenn zusätzliche Umstände hinzukommen, etwa ein Vergleichstext, ein bindendes Zwischenzeugnis, eine betriebliche Übung oder ein widersprüchliches Gesamtbild.
 
 **Beispiel 5 – Auskunftspflicht des Arbeitgebers:** In manchen Fällen kann der Arbeitnehmer verlangen, dass der Arbeitgeber erklärt, warum bestimmte Formulierungen gewählt wurden. Das setzt voraus, dass der Arbeitnehmer eine plausible Berichtigung konkret benannt hat.
 
-**Beispiel 6 – Codewort als Klarheitsproblem:** Ein Zeugnis enthält bei einem Buchhalter ohne Kassentätigkeit die isolierte Aussage „war ehrlich und korrekt“. Die Aussage kann wahr sein, kann aber nach Stellung im Zeugnis und Branchenkontext einen Verdacht wecken. Der Angriff sollte nicht behaupten, jedes Wort „ehrlich“ sei verboten, sondern begründen, warum gerade diese Platzierung im Gesamtzusammenhang eine verdeckte negative Aussage erzeugt.
+**Beispiel 6 – Codewort als Klarheitsproblem:** Ein Zeugnis enthält bei einem Buchhalter ohne Kassentätigkeit die isolierte Aussage "war ehrlich und korrekt". Die Aussage kann wahr sein, kann aber nach Stellung im Zeugnis und Branchenkontext einen Verdacht wecken. Der Angriff sollte nicht behaupten, jedes Wort "ehrlich" sei verboten, sondern begründen, warum gerade diese Platzierung im Gesamtzusammenhang eine verdeckte negative Aussage erzeugt.
 
 **Beispiel 7 – Drift-Berichtigung:** Ein Zeugnis enthält im Fachbereich eine Maximalformulierung und im Bereich Lernbereitschaft einen Standardsatz. Der Arbeitnehmer kann die Aufwertung der schwachen Sätze verlangen, soweit er die entsprechenden Leistungen substantiiert. Eine uneinheitliche Bewertung ohne Tatsachengrund wird als Widerspruch im Gesamtbild geführt, nicht als bloßes Rechenproblem.
 
@@ -63,7 +63,7 @@ Der Skill gibt eine rechtliche Einordnung des Zeugnisses aus: Welche Berichtigun
 - **BAG, Urt. v. 16.10.2007 — 9 AZR 248/07** — Bindungswirkung des Zwischenzeugnisses: Hat der Arbeitgeber ein Zwischenzeugnis erteilt, ist er beim späteren Endzeugnis grundsätzlich an dessen Inhalt gebunden; Abweichungen sind nur zulässig, wenn nachträgliche Leistungen oder Umstände eine abweichende Beurteilung rechtfertigen; der Arbeitgeber trägt hierfür die Darlegungs- und Beweislast.
 - **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07** — Genügt ein erteiltes Zeugnis den gesetzlichen Anforderungen nicht, macht der Arbeitnehmer mit Berichtigung oder Ergänzung weiterhin die Erfüllung seines Zeugnisanspruchs geltend.
 - **BAG, Urt. v. 11.12.2012 — 9 AZR 227/11** — Dank, Bedauern und Zukunftswünsche sind keine gesetzlichen Mindestbestandteile; Schlussformel-Streit nur mit Einzelfallkontext führen.
-- **BAG, Urt. v. 15.11.2011 — 9 AZR 386/10** — Die Formulierung „kennen gelernt“ ist nicht schon abstrakt ein unzulässiger Geheimcode; entscheidend sind objektiver Empfängerhorizont und Gesamtzusammenhang.
+- **BAG, Urt. v. 15.11.2011 — 9 AZR 386/10** — Die Formulierung "kennen gelernt" ist nicht schon abstrakt ein unzulässiger Geheimcode; entscheidend sind objektiver Empfängerhorizont und Gesamtzusammenhang.
 - **BAG, Urt. v. 27.04.2021 — 9 AZR 262/20** — Ein qualifiziertes Arbeitszeugnis verlangt eine individuelle verbale Beurteilung; eine tabellarische Schulnotenform ersetzt die Zeugnisbeurteilung regelmäßig nicht.
 
 ## Kommentarliteratur

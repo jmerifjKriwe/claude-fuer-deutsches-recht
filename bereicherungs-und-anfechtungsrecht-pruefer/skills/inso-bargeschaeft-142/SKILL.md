@@ -32,7 +32,7 @@ Eine starre 30-Tage-Grenze ist zu grob. Der Zusammenhang wird nach Leistungstyp,
 3. Unmittelbarkeit prüfen: Zeitabstand und Geschäftsverkehrsübung.
 4. Bei Arbeitsentgelt: Drei-Monats-Regel anwenden.
 5. Bei § 133 InsO: zusätzlich erkannte Unlauterkeit prüfen.
-6. Ergebnis nicht als „anfechtungsfest“ ausgeben, wenn § 133-Indizien und Unlauterkeit offen sind.
+6. Ergebnis nicht als "anfechtungsfest" ausgeben, wenn § 133-Indizien und Unlauterkeit offen sind.
 
 ## Typische Fehler
 

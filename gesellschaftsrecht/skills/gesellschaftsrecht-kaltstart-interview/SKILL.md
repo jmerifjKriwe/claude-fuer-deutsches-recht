@@ -19,7 +19,7 @@ Vor dem Kaltstart-Interview klaeren:
 
 Gesellschaftsrechtliche Mandate variieren erheblich: Ein GmbH-Syndikusrechtsanwalt (§ 46 BRAO) bei einem Start-up führt M&A-Transaktionen durch, pflegt die Gesellschafterliste und protokolliert Gesellschafterbeschlüsse. Ein Kanzleianwalt bei einem DAX-Konzern verantwortet möglicherweise nur BaFin-Meldepflichten oder die Vorbereitung von Hauptversammlungen. Dieses Interview ermittelt, welche Bereiche für den Nutzer aktiv sind, und baut ausschließlich das relevante Praxisprofil — keine leeren Abschnitte für nicht anwendbare Bereiche.
 
-Beim Aufruf mit `--integrationen-prüfen`: Nur Teil 0 „Was ist verbunden?" neu ausführen und die `## Verfügbare Integrationen`-Tabelle in CLAUDE.md aktualisieren. Integration nur als ✓ ausweisen, wenn ein MCP-Tool-Aufruf tatsächlich erfolgreich war.
+Beim Aufruf mit `--integrationen-prüfen`: Nur Teil 0 "Was ist verbunden?" neu ausführen und die `## Verfügbare Integrationen`-Tabelle in CLAUDE.md aktualisieren. Integration nur als ✓ ausweisen, wenn ein MCP-Tool-Aufruf tatsächlich erfolgreich war.
 
 ## Eingaben
 
@@ -200,15 +200,15 @@ Vollstaendige Neueinrichtung per `/gesellschaftsrecht:gesellschaftsrecht-kaltsta
 
 **Szenario:** Syndikusrechtsanwalt einer GmbH mit 200 Mitarbeitern, aktive Module M&A und Governance.
 
-Nach dem Interview: Praxisprofil enthält Wesentlichkeitsschwelle 100.000 EUR für Vertragsreview, Hausstil „BESCHLOSSEN:" für schriftliche Gesellschafterbeschlüsse nach § 48 Abs. 2 GmbHG, Eskalation zu externem M&A-Berater ab Transaktionsvolumen > 5 Mio. EUR. Kapitalmarkt- und Gesellschaftsverwaltungsmodul: nicht aktiviert.
+Nach dem Interview: Praxisprofil enthält Wesentlichkeitsschwelle 100.000 EUR für Vertragsreview, Hausstil "BESCHLOSSEN:" für schriftliche Gesellschafterbeschlüsse nach § 48 Abs. 2 GmbHG, Eskalation zu externem M&A-Berater ab Transaktionsvolumen > 5 Mio. EUR. Kapitalmarkt- und Gesellschaftsverwaltungsmodul: nicht aktiviert.
 
 ## Risiken und typische Fehler
 
 - **Alle Module als aktiv annehmen.** Erst fragen, dann nur relevante Abschnitte aufbauen. Ein M&A-Anwalt braucht kein Kapitalmarkt-Modul.
 - **Käuferseite als Regelfall annehmen.** Das Praxisprofil erfasst den Hausstandard; die spezifische Rolle je Transaktion wird mit `--neues-mandat` festgelegt.
-- **Generische Platzhalter eintragen.** „Übliche Wesentlichkeitsschwellen" ist kein Schwellenwert. Nach konkreten Zahlen fragen.
+- **Generische Platzhalter eintragen.** "Übliche Wesentlichkeitsschwellen" ist kein Schwellenwert. Nach konkreten Zahlen fragen.
 - **Seed-Dokumente für inaktive Module anfordern.** Nur die Anforderungsliste und den Problemvermerk anfordern, wenn M&A aktiv ist.
-- **Faktenprüfung unterlassen.** Wenn der Nutzer eine Norm oder Frist nennt (z.B. „Anmeldefrist 3 Wochen nach Beschluss"), plausibilisieren und bei Abweichung flaggen: „[Prämisse geprüft — bitte verifizieren]".
+- **Faktenprüfung unterlassen.** Wenn der Nutzer eine Norm oder Frist nennt (z.B. "Anmeldefrist 3 Wochen nach Beschluss"), plausibilisieren und bei Abweichung flaggen: "[Prämisse geprüft — bitte verifizieren]".
 
 ## Quellenpflicht
 

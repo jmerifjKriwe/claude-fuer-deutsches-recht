@@ -62,7 +62,7 @@ Anzeigen:
 - Jede Datei, die gelöscht wird
 - Konfigurationsverzeichnisse, die **nicht** gelöscht werden (mit Hinweis, dass der Nutzer diese bei Bedarf manuell löschen kann)
 
-Prompt: „Diese Dateien löschen? (ja / nein)". Kein Löschen ohne ausdrückliches `ja`.
+Prompt: "Diese Dateien löschen? (ja / nein)". Kein Löschen ohne ausdrückliches `ja`.
 
 #### Schritt 4: Löschen
 
@@ -96,7 +96,7 @@ Die Skill-Zeile aus der installierten Starter-Pack-Tabelle in der Hub-CLAUDE.md 
 
 #### Schritt 3: Bestätigen
 
-Umbenennungsliste anzeigen. Prompt: „Diesen Skill deaktivieren? (ja / nein)".
+Umbenennungsliste anzeigen. Prompt: "Diesen Skill deaktivieren? (ja / nein)".
 
 #### Schritt 4: Umbenennen
 
@@ -134,7 +134,7 @@ Protokolleintrag: installations-protokoll.yaml aktualisiert.
 
 ## Beispiel
 
-**Nutzer:** „Deinstalliere den Skill `vertragsanalyse-nda`."
+**Nutzer:** "Deinstalliere den Skill `vertragsanalyse-nda`."
 
 **Skill-Manager:**
 1. `installations-protokoll.yaml` gelesen — Eintrag für `vertragsanalyse-nda` gefunden, letzter Status `install`.

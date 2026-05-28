@@ -56,7 +56,7 @@ Bei formeller Erfindungsmeldung (IDF oder Unternehmensformular): Felder daraus e
 
 ### Schritt 1: Meldung aufnehmen
 
-Vorliegende Erfindungsmeldung vollständig lesen. Fehlen Angaben: Rückfragen gemäß Abschnitt „Eingaben" in einem Durchgang stellen. Unvollständige Meldungen nicht screenen — ein Screening von „einer neuen KI-Lösung für X" ohne technische Substanz ist schlechter als kein Screening.
+Vorliegende Erfindungsmeldung vollständig lesen. Fehlen Angaben: Rückfragen gemäß Abschnitt "Eingaben" in einem Durchgang stellen. Unvollständige Meldungen nicht screenen — ein Screening von "einer neuen KI-Lösung für X" ohne technische Substanz ist schlechter als kein Screening.
 
 **Arbeitnehmererfindung prüfen:** Wenn der Erfinder Arbeitnehmer ist, zunächst klären: Handelt es sich um eine Diensterfindung (§ 4 Abs. 2 ArbnErfG: Entstehung aus dem Arbeitverhältnis oder wesentlich auf betriebliche Erfahrungen/Tätigkeiten beruhend)? Wenn ja: Meldepflicht nach § 5 ArbnErfG auslösen und Inanspruchnahmefrist (4 Monate, § 6 Abs. 1) dokumentieren.
 
@@ -67,8 +67,8 @@ Jeden Schirm in der Reihenfolge abarbeiten. Ergebnis je Schirm: `✓ grün`, `�
 #### Schirm 1: Neuheitssignale (§ 3 PatG, Art. 54 EPÜ)
 
 **Rote Flaggen (🔴):**
-- „Wir haben [bekannte Technik] auf [neues Gebiet] angewandt" — Anwendung bekannter Methoden ohne technische Besonderheit
-- „Wettbewerber machen etwas Ähnliches" — Beschreibung selbst stellt Neuheit in Frage
+- "Wir haben [bekannte Technik] auf [neues Gebiet] angewandt" — Anwendung bekannter Methoden ohne technische Besonderheit
+- "Wettbewerber machen etwas Ähnliches" — Beschreibung selbst stellt Neuheit in Frage
 - Merkmal findet sich bereits in öffentlich zugänglichen Produkten, Publikationen oder Patenten
 
 **Grüne Flaggen (✓):**
@@ -83,7 +83,7 @@ EPA-Prüfungsansatz: Aufgabe-Lösungs-Ansatz. Würde ein Fachmann ausgehend vom 
 **Rote Flaggen (🔴):**
 - Kombinieren bekannter Elemente auf vorhersehbare Weise (predictable combination)
 - Routinemäßige Optimierung bekannter Parameter ohne überraschenden Effekt
-- „Obvious to try" — eine aus wenigen naheliegenden Alternativen ohne Hindernis
+- "Obvious to try" — eine aus wenigen naheliegenden Alternativen ohne Hindernis
 
 **Grüne Flaggen (✓):**
 - Stand der Technik lehrte vom Lösungsweg ab (teaching away)
@@ -92,7 +92,7 @@ EPA-Prüfungsansatz: Aufgabe-Lösungs-Ansatz. Würde ein Fachmann ausgehend vom 
 
 #### Schirm 3: Technischer Charakter und Schutzfähigkeit (Art. 52 EPÜ, § 1 PatG)
 
-Software, KI/ML und Geschäftsmethoden: Nicht per se ausgeschlossen, aber technischer Charakter muss vorliegen. EPA: „technical character" — weitgehend jeder Bezug zur Technik genügt; Abgrenzung gilt auf der Ebene der erfinderischen Tätigkeit.
+Software, KI/ML und Geschäftsmethoden: Nicht per se ausgeschlossen, aber technischer Charakter muss vorliegen. EPA: "technical character" — weitgehend jeder Bezug zur Technik genügt; Abgrenzung gilt auf der Ebene der erfinderischen Tätigkeit.
 
 **Rote Flaggen (🔴):**
 - Reine Geschäftsmethode ohne technische Umsetzung
@@ -206,7 +206,7 @@ Kein internes Arbeitsnarrativ im Vermerk. Der Vermerk ist sofort verwendbar.
 
 ## Beispiel
 
-**Eingabe:** „Neuer Cache-Algorithmus auf Basis eines erlernten Modells anstelle von LRU; im ersten Quartal dieses Jahres entwickelt, noch nicht veröffentlicht, Prototyp intern im Staging."
+**Eingabe:** "Neuer Cache-Algorithmus auf Basis eines erlernten Modells anstelle von LRU; im ersten Quartal dieses Jahres entwickelt, noch nicht veröffentlicht, Prototyp intern im Staging."
 
 **Ergebnis (Beispiel):**
 
@@ -227,7 +227,7 @@ Kein internes Arbeitsnarrativ im Vermerk. Der Vermerk ist sofort verwendbar.
 
 - **Neuheitsschädliche Vorveröffentlichung übersehen:** Jede öffentliche Zugänglichmachung vor Anmeldetag zerstört die Patentierbarkeit weltweit (außer engen Ausnahmefällen). Eine Schonfrist für Vorveröffentlichungen gilt nicht.
 - **ArbnErfG-Fristen versäumen:** Die 4-Monats-Inanspruchnahmefrist (§ 6 Abs. 1 ArbnErfG) läuft automatisch. Nicht im Fristenbuch eingetragen = Freigabe der Erfindung.
-- **Patentierbarkeit bestätigen:** Die Skill trifft keine Patentierbarkeitsaussage. „Besteht die Erstprüfung" ist nicht „patentierbar".
+- **Patentierbarkeit bestätigen:** Die Skill trifft keine Patentierbarkeitsaussage. "Besteht die Erstprüfung" ist nicht "patentierbar".
 - **Erkennbarkeitsfrage ignorieren:** Ein Patent auf eine nicht erkennbare Verletzungsform veröffentlicht das Know-how ohne Durchsetzungsmöglichkeit.
 - **KI/Software-Erfindungen: technischen Charakter unterschätzen:** Der EPA bewertet technischen Charakter weit; nicht vorschnell ablehnen.
 

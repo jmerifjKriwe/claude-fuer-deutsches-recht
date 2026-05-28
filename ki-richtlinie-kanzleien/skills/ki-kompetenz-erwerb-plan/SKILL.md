@@ -9,7 +9,7 @@ Art. 4 KI-VO verpflichtet Betreiber von KI-Systemen, sicherzustellen, dass ihr P
 
 ## Rechtlicher Hintergrund
 
-Art. 4 KI-VO: Pflicht zur KI-Kompetenz — kontextspezifisch, keine formale Zertifizierungspflicht, aber Maßnahmen „nach besten Kräften" erforderlich. Art. 3 Nr. 56 KI-VO: Definition KI-Kompetenz — Fähigkeiten, Kenntnisse und Verständnis für sachkundigen KI-Einsatz sowie Bewusstsein für Chancen und Risiken. Erwägungsgrund 20 KI-VO: KI-Kompetenz soll Betreiber befähigen, fundierte Entscheidungen über KI-Systeme zu treffen. Art. 26 Abs. 5 KI-VO: Bei Hochrisiko-Systemen muss der Betreiber sicherstellen, dass das zuständige Personal über die notwendige Kompetenz, Schulung und Autorität verfügt. § 43 BRAO: Gewissenhaftigkeit schließt kompetenten Umgang mit genutzten Hilfsmitteln ein. Haftungsrisiko: Mangelnde KI-Kompetenz kann bei Kausalität für einen Schaden Haftungsfolgen auslösen.
+Art. 4 KI-VO: Pflicht zur KI-Kompetenz — kontextspezifisch, keine formale Zertifizierungspflicht, aber Maßnahmen "nach besten Kräften" erforderlich. Art. 3 Nr. 56 KI-VO: Definition KI-Kompetenz — Fähigkeiten, Kenntnisse und Verständnis für sachkundigen KI-Einsatz sowie Bewusstsein für Chancen und Risiken. Erwägungsgrund 20 KI-VO: KI-Kompetenz soll Betreiber befähigen, fundierte Entscheidungen über KI-Systeme zu treffen. Art. 26 Abs. 5 KI-VO: Bei Hochrisiko-Systemen muss der Betreiber sicherstellen, dass das zuständige Personal über die notwendige Kompetenz, Schulung und Autorität verfügt. § 43 BRAO: Gewissenhaftigkeit schließt kompetenten Umgang mit genutzten Hilfsmitteln ein. Haftungsrisiko: Mangelnde KI-Kompetenz kann bei Kausalität für einen Schaden Haftungsfolgen auslösen.
 
 ## Vorgehen
 

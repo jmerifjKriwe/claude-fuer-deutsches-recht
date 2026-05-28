@@ -59,7 +59,7 @@ naechste_iteration: 27.05.2026
 
 Pro Iteration (z. B. wöchentlich):
 
-1. Espacenet Smart Search mit Anmelder + Klassen + Schlagwörter, Datumsfilter „neu seit letzter Iteration".
+1. Espacenet Smart Search mit Anmelder + Klassen + Schlagwörter, Datumsfilter "neu seit letzter Iteration".
 2. Google Patents Alert (wenn registriert) — Alternative: direkter Aufruf mit Filtern `assignee=`, `cpc=`, `after=`.
 3. WIPO PATENTSCOPE für PCT-Anmeldungen.
 4. USPTO PPUBS für US-Anmeldungen (mit `.AN.`-Feld für Assignee).
@@ -75,7 +75,7 @@ Pro Treffer:
 
 ### Einspruchsfrist-Tracker
 
-Bei Treffern mit Status „erteilt" Frist berechnen:
+Bei Treffern mit Status "erteilt" Frist berechnen:
 
 - **EP-Patent:** Art. 99 EPÜ — neun Monate ab Veröffentlichung der Erteilung.
 - **DE-Patent:** § 59 PatG — drei Monate ab Veröffentlichung der Erteilung.

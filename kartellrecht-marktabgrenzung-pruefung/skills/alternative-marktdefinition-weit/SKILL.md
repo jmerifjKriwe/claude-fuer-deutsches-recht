@@ -72,7 +72,7 @@ Auswirkung auf Verfahrensergebnis: [...]
 
 ## Standardformulierung für Schriftsatz
 
-> „Bezieht man — dem Verständnis der Nachfrager entsprechend — auch [Produkt X] in den relevanten Markt ein, weil [Begründung], reduziert sich der Marktanteil auf [Y%]. Die Marktbeherrschungsvermutung des § 18 Abs. 4 GWB wäre dann nicht erfüllt."
+> "Bezieht man — dem Verständnis der Nachfrager entsprechend — auch [Produkt X] in den relevanten Markt ein, weil [Begründung], reduziert sich der Marktanteil auf [Y%]. Die Marktbeherrschungsvermutung des § 18 Abs. 4 GWB wäre dann nicht erfüllt."
 
 ## Ergänzung: räumliche Erweiterung
 

@@ -77,7 +77,7 @@ Wenn eine Norm des BGB / EnWG / VwGO etc. eine EU-Richtlinie umsetzt, muss die A
 
 #### Konkretes Beispiel
 
-§ 312 BGB iVm Verbraucherrechte-Richtlinie 2011/83/EU — Die Definition „Verbraucher" muss EU-konform interpretiert werden.
+§ 312 BGB iVm Verbraucherrechte-Richtlinie 2011/83/EU — Die Definition "Verbraucher" muss EU-konform interpretiert werden.
 
 ## Schritt 5 — Vorabentscheidungs-Verfahren Art. 267 AEUV
 
@@ -99,7 +99,7 @@ Wenn eine Norm des BGB / EnWG / VwGO etc. eine EU-Richtlinie umsetzt, muss die A
 
 ### In der Hausarbeit
 
-Wenn Du argumentierst: „Hier könnte ein Vorabentscheidungs-Verfahren nach Art. 267 AEUV in Betracht kommen, weil ..." — gilt als argumentativer Beleg für die Komplexität der EU-Frage.
+Wenn Du argumentierst: "Hier könnte ein Vorabentscheidungs-Verfahren nach Art. 267 AEUV in Betracht kommen, weil ..." — gilt als argumentativer Beleg für die Komplexität der EU-Frage.
 
 ## Schritt 6 — Grundfreiheiten
 
@@ -184,10 +184,10 @@ Wenn Du argumentierst: „Hier könnte ein Vorabentscheidungs-Verfahren nach Art
 
 ### Wendungen für die Hausarbeit
 
-- „Die Norm dient der Umsetzung der Verbraucherrechte-Richtlinie 2011/83/EU. Daher ist sie im Lichte der Richtlinie auszulegen."
-- „Nach Art. 33 Abs. 4 der Verordnung (EU) 2022/2065 ist ..."
-- „Der EuGH hat in C-XXX/XX entschieden, dass ..."
-- „Eine Vorabentscheidung nach Art. 267 AEUV käme in Betracht, wenn die Frage erstmals höchstrichterlich zu klären wäre."
+- "Die Norm dient der Umsetzung der Verbraucherrechte-Richtlinie 2011/83/EU. Daher ist sie im Lichte der Richtlinie auszulegen."
+- "Nach Art. 33 Abs. 4 der Verordnung (EU) 2022/2065 ist ..."
+- "Der EuGH hat in C-XXX/XX entschieden, dass ..."
+- "Eine Vorabentscheidung nach Art. 267 AEUV käme in Betracht, wenn die Frage erstmals höchstrichterlich zu klären wäre."
 
 ## Schritt 10 — Verzahnung mit nationalem Verfassungsrecht
 

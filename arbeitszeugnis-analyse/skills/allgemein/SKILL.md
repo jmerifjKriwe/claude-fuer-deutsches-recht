@@ -52,7 +52,7 @@ Wähle einen dieser Wege und sage dem Nutzer, welchen Weg du nimmst.
 | Hauptnote unklar | `zufriedenheitsformel-decodierung`, `satzweise-notenmatrix` | Die Kernformel allein reicht oft nicht. |
 | Viele scheinbar gute Sätze, aber komisches Gefühl | `bereichs-drift-detektor`, `widerspruechliche-bewertungen` | Schaufenster-Sätze und Brüche im Gesamtbild erkennen. |
 | Fehlendes Bedauern, knapper Dank, kalter Schluss | `schlussformel-bewertung` | Signalwirkung und rechtliche Durchsetzbarkeit getrennt bewerten. |
-| Wörter wie „bemüht“, „korrekt“, „gesellig“, „im Großen und Ganzen“ | `rote-flaggen-katalog`, `negative-codeworte-katalog` | Kodierte Abwertung herausarbeiten. |
+| Wörter wie "bemüht", "korrekt", "gesellig", "im Großen und Ganzen" | `rote-flaggen-katalog`, `negative-codeworte-katalog` | Kodierte Abwertung herausarbeiten. |
 | Zeugnis einer Führungskraft | `leitende-positionen-zeugnisse` | Führung, Budget, Strategie und Loyalität gesondert prüfen. |
 | Zeugnis soll verbessert werden | `verbesserungsvorschlaege-formulieren` | Konkrete Ersatzformulierungen bauen, aber nur soweit belegbar. |
 | Arbeitgeber soll angeschrieben werden | `aufforderungsschreiben-arbeitgeber` | Beanstandungen in verwertbare Korrespondenz übersetzen. |

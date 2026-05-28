@@ -235,12 +235,12 @@ Die Gesellschafterversammlung beschließt mit [Stimmen für/gegen]:
 
 | Gegenargument | Herkunft | Reaktion |
 |--------------|---------|----------|
-| „Business Judgement Rule schützt mich" | Geschäftsführer | Vier Kriterien kumulativ prüfen: unternehmerische Entscheidung? Angemessene Information? Wohl der Gesellschaft? Kein Eigeninteresse? |
-| „Gesellschaftereinverständnis befreit von Haftung" | Geschäftsführer | § 43 Abs. 3 S. 3 GmbHG: nur wenn alle Gesellschafter einverstanden und Stammkapital nicht berührt; Insolvenzreife ausgeschlossen |
-| „Schaden nicht kausal durch meine Handlung" | Geschäftsführer | Beweislastumkehr: GF muss mangelnde Kausalität darlegen; BGH II ZR 224/00 |
-| „D&O-Versicherung zahlt" | Partei | Anzeige unverzüglich; Claims-made-Prinzip beachten; Ausschlüsse (vorsätzliche Pflichtverletzung) prüfen |
-| „Verjährung abgelaufen" | Geschäftsführer | Verjährungsbeginn: nicht Handlungszeitpunkt, sondern Schadensentstehung; § 199 BGB; Hemmung bei laufendem Insolvenzverfahren |
-| „Insolvenzantrag war nicht verzögert — Zahlungsunfähigkeit bestand nicht" | Geschäftsführer | Buchhaltungsanalyse durch Sachverständigen; FCF-Prüfung; Überschuldungsbilanz |
+| "Business Judgement Rule schützt mich" | Geschäftsführer | Vier Kriterien kumulativ prüfen: unternehmerische Entscheidung? Angemessene Information? Wohl der Gesellschaft? Kein Eigeninteresse? |
+| "Gesellschaftereinverständnis befreit von Haftung" | Geschäftsführer | § 43 Abs. 3 S. 3 GmbHG: nur wenn alle Gesellschafter einverstanden und Stammkapital nicht berührt; Insolvenzreife ausgeschlossen |
+| "Schaden nicht kausal durch meine Handlung" | Geschäftsführer | Beweislastumkehr: GF muss mangelnde Kausalität darlegen; BGH II ZR 224/00 |
+| "D&O-Versicherung zahlt" | Partei | Anzeige unverzüglich; Claims-made-Prinzip beachten; Ausschlüsse (vorsätzliche Pflichtverletzung) prüfen |
+| "Verjährung abgelaufen" | Geschäftsführer | Verjährungsbeginn: nicht Handlungszeitpunkt, sondern Schadensentstehung; § 199 BGB; Hemmung bei laufendem Insolvenzverfahren |
+| "Insolvenzantrag war nicht verzögert — Zahlungsunfähigkeit bestand nicht" | Geschäftsführer | Buchhaltungsanalyse durch Sachverständigen; FCF-Prüfung; Überschuldungsbilanz |
 
 ## Streitwert und Kosten
 

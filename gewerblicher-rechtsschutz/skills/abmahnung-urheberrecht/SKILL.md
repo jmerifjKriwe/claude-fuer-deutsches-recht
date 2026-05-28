@@ -64,7 +64,7 @@ möchte eigene Werke schützen; Streit über Höhe der Abmahnkosten und des Scha
 ### Leitentscheidungen
 
 1. BGH, Urt. v. 12.05.2016 – I ZR 1/15, GRUR 2016, 1280 Rn. 28 –
-   „Tannöd": Zur Lizenzanalogie bei Filesharing: Der Rechteinhaber kann als
+   "Tannöd": Zur Lizenzanalogie bei Filesharing: Der Rechteinhaber kann als
    Mindestschadensersatz den Betrag verlangen, den eine vernünftige Partei als
    angemessene Vergütung für die Gestattung der Nutzung vereinbart hätte;
    Filesharing ermöglicht unbegrenzte Verbreitung, was bei der Lizenzberechnung
@@ -72,7 +72,7 @@ möchte eigene Werke schützen; Streit über Höhe der Abmahnkosten und des Scha
    da genaue Feststellung der Schadenshöhe nicht möglich ist (§ 287 ZPO).
 
 2. BGH, Urt. v. 11.06.2015 – I ZR 75/14, GRUR 2016, 191 Rn. 35 –
-   „Tauschbörse III": Zur Störerhaftung des Anschlussinhabers: Der Anschluss-
+   "Tauschbörse III": Zur Störerhaftung des Anschlussinhabers: Der Anschluss-
    inhaber haftet als Störer für Urheberrechtsverletzungen über seinen Anschluss,
    wenn er Prüfungspflichten verletzt hat (Sicherung des WLAN, Belehrung von
    Familienmitgliedern); sekundäre Darlegungslast des Anschlussinhabers zur
@@ -190,7 +190,7 @@ Kosten auf Deckelungsbetrag reduzieren; Schadensersatz verhandeln.
   mehr als 4–6 Wochen (je nach OLG-Praxis) nach Kenntnis zuwartete, ohne zu
   handeln.
 - **Sekundäre Darlegungslast:** Pauschales Bestreiten genügt nicht (BGH
-  „Tauschbörse III"); P muss konkret darlegen, wer sonst Zugang hatte.
+  "Tauschbörse III"); P muss konkret darlegen, wer sonst Zugang hatte.
 - **IP-Adresszuordnung fehlerhaft:** Gutachtlich belegte Zuordnung angreifen;
   Richtigkeit der Ermittlung durch Privatgutachter in Frage stellen.
 - **Deckelung bei erheblichem Verstoß ausgeschlossen:** § 97a Abs. 3 Satz 2

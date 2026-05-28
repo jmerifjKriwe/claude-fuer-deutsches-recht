@@ -13,7 +13,7 @@ Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus de
 **Mandantin:** Frau Helene Marianne Vogt-Krämer, Provinostraße 18, 86153 Augsburg
 **Sachbearbeitung:** RAin Dr. Andrea Brögel, Fachanwältin für Verwaltungsrecht
 **Kanzlei:** Brögel & Kollegen, Maximilianstraße 47, 86150 Augsburg
-**Gegenstand:** Normenkontrollantrag § 47 VwGO + Eilantrag § 47 Abs. 6 VwGO gegen Bebauungsplan Nr. 900 „Augsburg-Bahnhofsviertel West" der Stadt Augsburg, Bekanntmachung 14.06.2024
+**Gegenstand:** Normenkontrollantrag § 47 VwGO + Eilantrag § 47 Abs. 6 VwGO gegen Bebauungsplan Nr. 900 "Augsburg-Bahnhofsviertel West" der Stadt Augsburg, Bekanntmachung 14.06.2024
 
 ---
 

@@ -47,7 +47,7 @@ Ohne Mandat:
 
 ### Haftungsrisiko ohne klaren Disclaimer
 
-Wenn die Erstantwort inhaltliche Rechtshinweise enthält (z. B. „Ihre Kündigung dürfte unwirksam sein"), kann dies unter Umständen eine konkludente Rechtsberatung darstellen, für die Haftpflichtansprüche entstehen können. Der Disclaimer schützt die Kanzlei.
+Wenn die Erstantwort inhaltliche Rechtshinweise enthält (z. B. "Ihre Kündigung dürfte unwirksam sein"), kann dies unter Umständen eine konkludente Rechtsberatung darstellen, für die Haftpflichtansprüche entstehen können. Der Disclaimer schützt die Kanzlei.
 
 ## Kurzform (für den Fließtext der Erstantwort)
 

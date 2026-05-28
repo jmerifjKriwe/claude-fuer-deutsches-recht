@@ -197,7 +197,7 @@ Der gesamte Betrag EUR [X] brutto wird gutgeschrieben.
 Anschließend wurde Korrekturrechnung Nr. [KORREKTUR-NR] vom [Datum] erteilt.
 
 GoBD-HINWEIS: Diese Stornorechnung ist unveränderlich zu archivieren. Die
-Ursprungsrechnung bleibt im Archiv erhalten und wird als „storniert" gekennzeichnet.
+Ursprungsrechnung bleibt im Archiv erhalten und wird als "storniert" gekennzeichnet.
 Eine rückwirkende Änderung oder Löschung der Ursprungsrechnung ist unzulässig.
 ```
 

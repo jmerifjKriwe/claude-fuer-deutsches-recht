@@ -67,7 +67,7 @@ Aus dem **Rechtsstaatsprinzip** (Art. 20 Abs. 3 GG) folgt:
 - **Folge bei Verstoß:** Nichtigkeit der Norm.
 - **Reichweite (Auslegung BVerfG):** Zitiergebot gilt **nur** für nachkonstitutionelle, gezielt grundrechtseinschränkende Gesetze. Vorkonstitutionelle Gesetze und solche, die Grundrechte nur ausgestalten (z. B. Eigentumsausgestaltung Art. 14 Abs. 1 S. 2 GG), unterliegen ihm nicht.
 
-**Praktische Anwendung:** Im Eingangsabschnitt des Gesetzes (vor § 1) findet sich häufig die Formulierung „Das Grundrecht auf … (Art. … GG) wird durch dieses Gesetz eingeschränkt."
+**Praktische Anwendung:** Im Eingangsabschnitt des Gesetzes (vor § 1) findet sich häufig die Formulierung "Das Grundrecht auf … (Art. … GG) wird durch dieses Gesetz eingeschränkt."
 
 ### Schritt 4 — Wesentlichkeitstheorie und Parlamentsvorbehalt
 
@@ -87,13 +87,13 @@ Aus dem **Rechtsstaatsprinzip** (Art. 20 Abs. 3 GG) folgt:
 
 ### Schritt 5 — Allgemeinheit des Gesetzes (Art. 19 Abs. 1 S. 1 GG)
 
-- **Einzelfallgesetz-Verbot:** Ein Grundrecht einschränkendes Gesetz muss „allgemein und nicht nur für den Einzelfall" gelten.
+- **Einzelfallgesetz-Verbot:** Ein Grundrecht einschränkendes Gesetz muss "allgemein und nicht nur für den Einzelfall" gelten.
 - **Folge bei Verstoß:** Verfassungswidrigkeit.
 
 ### Schritt 6 — Wesensgehaltsgarantie (Art. 19 Abs. 2 GG)
 
 - In keinem Fall darf ein Grundrecht in seinem **Wesensgehalt** angetastet werden.
-- Diese „Schranken-Schranke" bildet die absolute Untergrenze jeder Grundrechtseinschränkung.
+- Diese "Schranken-Schranke" bildet die absolute Untergrenze jeder Grundrechtseinschränkung.
 
 ## Aktuelle Rechtsprechung & Leitsätze
 

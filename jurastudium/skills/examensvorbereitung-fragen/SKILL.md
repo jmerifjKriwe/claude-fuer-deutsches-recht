@@ -52,9 +52,9 @@ Ziel: examenstypische Fragen, nicht nur abstrakte Theoriefragen. Jede Frage wird
 
 Falls Bundesland/JAG oder Prüfungstyp nicht im Profil vorhanden sind, **vor der Fragengenerierung fragen**:
 
-- „In welchem Bundesland legst du das Examen ab?"
-- „1. oder 2. Staatsexamen?"
-- „Schriftlich oder mündlich?"
+- "In welchem Bundesland legst du das Examen ab?"
+- "1. oder 2. Staatsexamen?"
+- "Schriftlich oder mündlich?"
 
 Falsche Annahmen beim JAG-Rahmen sind der Fehler, der sich nicht aufholen lässt.
 
@@ -62,7 +62,7 @@ Falsche Annahmen beim JAG-Rahmen sind der Fehler, der sich nicht aufholen lässt
 
 Falls das Rechtsgebiet außerhalb des JAG-Prüfungsstoffs liegt oder es eine bundeslandspezifische Besonderheit gibt:
 
-> „In [Bundesland] enthält die JAG folgende schriftliche Prüfungsfächer: [Liste]. [Rechtsgebiet] ist [enthalten / nicht enthalten / Pflicht-/Wahlstation]. Soll ich trotzdem fortfahren?"
+> "In [Bundesland] enthält die JAG folgende schriftliche Prüfungsfächer: [Liste]. [Rechtsgebiet] ist [enthalten / nicht enthalten / Pflicht-/Wahlstation]. Soll ich trotzdem fortfahren?"
 
 ### 3. Fragengenerierung
 
@@ -173,8 +173,8 @@ Ernst, in: MüKoBGB, 9. Aufl. 2022, § 280 Rn. 154; Grüneberg/Grüneberg, BGB, 
 ## Risiken / typische Fehler
 
 - **Falscher JAG-Rahmen:** BGB-Inhalte die in einem Bundesland nicht prüfungsrelevant sind, kosten Lernzeit. Bundesland immer zuerst prüfen.
-- **Urteilsstil statt Gutachtenstil:** Der Obersatz muss hypothetisch sein. „A hat einen Anspruch" ist Urteilsstil – falsch für Klausuren.
-- **h.M. ohne Beleg:** „nach h.M." allein ist kein Argument. Kommentarstelle oder BGH-Urteil nennen.
+- **Urteilsstil statt Gutachtenstil:** Der Obersatz muss hypothetisch sein. "A hat einen Anspruch" ist Urteilsstil – falsch für Klausuren.
+- **h.M. ohne Beleg:** "nach h.M." allein ist kein Argument. Kommentarstelle oder BGH-Urteil nennen.
 - **Scheinprobleme ignorieren:** Examsklausuren enthalten bewusste Ablenkungen. Offensichtlich vorliegende Tatbestandsmerkmale kurz abarbeiten, nicht übergehen.
 - **Konkurrenzprobleme:** Reihenfolge der Anspruchsgrundlagen (vertraglich vor außervertraglich) beachten – vgl. `../references/methodik-buergerliches-recht.md`.
 - **Fehlende Fundstellen im Gutachten:** Im 1. StEx ist das Fehlen von Kommentarzitaten ein Bewertungsminus.

@@ -90,7 +90,7 @@ Die Country-by-Country Benefits-Matrix ist das zentrale Steuerungsinstrument fü
 |-----------|--------|
 | Pflichtversorgung | Régime général SS (Rentenversicherung); AGIRC-ARRCO (branchenweit — Pflicht) |
 | AGIRC-ARRCO | Punktesystem; Pflicht für Angestellte; AG und AN-Beiträge gestaffelt |
-| Betrieblich | Art. L. 137-11 CSS: „Article 39"-Pläne (DB Führungskräfte — steuerlich belastet ab 2020); PER collectif/obligatoire (DC, seit Loi PACTE 2019) |
+| Betrieblich | Art. L. 137-11 CSS: "Article 39"-Pläne (DB Führungskräfte — steuerlich belastet ab 2020); PER collectif/obligatoire (DC, seit Loi PACTE 2019) |
 | PER (DC) | Beitragsrabatt IRPP; beim Arbeitnehmer abzugsfähig |
 | Insolvenzsicherung | AGS (Association pour la gestion du régime de garantie des créances des salariés) für Lohnforderungen; keine PBGC-Entsprechung für DB |
 | Governance | ACPR-Aufsicht; IORP II für einige EbAV |

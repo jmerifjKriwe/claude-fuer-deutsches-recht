@@ -59,8 +59,8 @@ Dieser Skill verwaltet alle Formen der Abwesenheit in einer Kanzlei — von Erho
 ### Schritt 5 — Entscheidung
 
 - Genehmigen
-- Genehmigen mit Auflage (z.B. „Vertretung muss von Mandant XY bestätigt werden")
-- Rueckfrage (z.B. „Wer vertritt im Mandat 123?")
+- Genehmigen mit Auflage (z.B. "Vertretung muss von Mandant XY bestätigt werden")
+- Rueckfrage (z.B. "Wer vertritt im Mandat 123?")
 - Alternativer Zeitraum vorschlagen
 - Ablehnen (mit Begründung — selten, meist nur bei Termin-Kollision)
 
@@ -135,7 +135,7 @@ Vorlage unter `assets/templates/abwesenheiten-register.md`.
 
 - **Diagnose-Daten nicht erfassen.** Im Personalakten-Eintrag genuegt Zeitraum.
 - **AU-Bescheinigung** ist personenbezogenes Gesundheitsdatum Art. 9 DSGVO — gesonderte Aufbewahrung.
-- **Mandanten erfahren keine Diagnose.** Es genuegt: „RA Mueller ist erkrankt, Vertretung übernimmt RA Schmidt."
+- **Mandanten erfahren keine Diagnose.** Es genuegt: "RA Mueller ist erkrankt, Vertretung übernimmt RA Schmidt."
 - **Vertretungsanzeige** an Mandanten nur mit Mandantenbezug, nicht generell.
 
 ## 8) Typische Fehler

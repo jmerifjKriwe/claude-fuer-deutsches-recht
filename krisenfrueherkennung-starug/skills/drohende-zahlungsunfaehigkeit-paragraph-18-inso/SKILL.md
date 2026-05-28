@@ -26,13 +26,13 @@ description: "Drohende Zahlungsunfähigkeit nach § 18 InsO feststellen: Berater
 
 ### 1. Tatbestand der drohenden Zahlungsunfähigkeit
 
-§ 18 Abs. 2 InsO: „Der Schuldner droht zahlungsunfähig zu werden, wenn er voraussichtlich nicht in der Lage sein wird, die bestehenden Zahlungspflichten im Zeitpunkt der Fälligkeit zu erfüllen."
+§ 18 Abs. 2 InsO: "Der Schuldner droht zahlungsunfähig zu werden, wenn er voraussichtlich nicht in der Lage sein wird, die bestehenden Zahlungspflichten im Zeitpunkt der Fälligkeit zu erfüllen."
 
 **Drei Kernelemente:**
 
-1. **Prognosezeitraum:** „voraussichtlich" — h.M. und IDW S 11 setzen den Horizont auf 24 Monate. BGH IX ZR 285/14 stützt diese Auslegung. Kürzer ist vertretbar (z.B. 12 Monate in der Praxis einzelner Gerichte), länger ist methodisch schwieriger zu begründen.
+1. **Prognosezeitraum:** "voraussichtlich" — h.M. und IDW S 11 setzen den Horizont auf 24 Monate. BGH IX ZR 285/14 stützt diese Auslegung. Kürzer ist vertretbar (z.B. 12 Monate in der Praxis einzelner Gerichte), länger ist methodisch schwieriger zu begründen.
 
-2. **Wahrscheinlichkeitsmaßstab:** „überwiegend wahrscheinlich" — mehr als 50 % Wahrscheinlichkeit, dass die Zahlungsfähigkeit nicht aufrechterhalten werden kann. Kein Gewissheitsmaßstab erforderlich.
+2. **Wahrscheinlichkeitsmaßstab:** "überwiegend wahrscheinlich" — mehr als 50 % Wahrscheinlichkeit, dass die Zahlungsfähigkeit nicht aufrechterhalten werden kann. Kein Gewissheitsmaßstab erforderlich.
 
 3. **Fälligkeitsbezug:** Es kommt auf die fälligen Zahlungen an, nicht auf alle bestehenden Verbindlichkeiten. Langfristige Schulden, die in den 24 Monaten nicht fällig werden, bleiben außen vor.
 
@@ -46,7 +46,7 @@ description: "Drohende Zahlungsunfähigkeit nach § 18 InsO feststellen: Berater
 | InsO-Antragspflicht | Ja (§ 15a InsO) | Nein (nur Antragsrecht) |
 | StaRUG-Zugang | Kein Zugang mehr | Zugang möglich |
 
-**Kritische Praxisfrage:** Ist die Liquiditätslücke noch „vorübergehend" (dann keine ZU) oder nachhaltig (dann § 17 InsO)?  
+**Kritische Praxisfrage:** Ist die Liquiditätslücke noch "vorübergehend" (dann keine ZU) oder nachhaltig (dann § 17 InsO)?  
 BGH-Maßstab: Rückstand < 10 % der Gesamtverbindlichkeiten = Vermutung für Vorübergehend; > 10 % = Vermutung für ZU.
 
 ### 3. Abgrenzung zu § 19 InsO — Überschuldung
@@ -159,7 +159,7 @@ Hinweis: Dieser Prüfvermerk ersetzt keine rechtliche Beratung.
 
 1. **Planungshorizont zu kurz** — wer nur zwölf statt 24 Monate plant, riskiert, die drohende ZU zu spät zu erkennen und den StaRUG-Zugang zu verlieren.
 
-2. **Wahrscheinlichkeitsmaßstab falsch angewendet** — „überwiegend wahrscheinlich" bedeutet nicht Sicherheit. Wer erst bei Sicherheit handelt, ist regelmäßig zu spät.
+2. **Wahrscheinlichkeitsmaßstab falsch angewendet** — "überwiegend wahrscheinlich" bedeutet nicht Sicherheit. Wer erst bei Sicherheit handelt, ist regelmäßig zu spät.
 
 3. **Verwechslung drohende ZU mit eingetretener ZU** — bei eingetretener ZU ist der StaRUG-Zugang gesperrt; die drei Wochen nach § 15a InsO laufen. Diese Grenze muss präzise bestimmt werden.
 

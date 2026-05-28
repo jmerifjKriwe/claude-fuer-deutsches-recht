@@ -89,21 +89,21 @@ Anbieten, den Punkt als Beweislücke zu protokollieren.
 
 **Schritt 5 — Abfragetypen**
 
-**Sachverhaltsabfrage** („Was hat [Person] zu [Thema] gesagt?"):
+**Sachverhaltsabfrage** ("Was hat [Person] zu [Thema] gesagt?"):
 Aus Protokolleinträgen antworten, Eintrags-IDs zitieren.
 
-**Widerspruchsabfrage** („Wo widersprechen sich die Schilderungen?"):
+**Widerspruchsabfrage** ("Wo widersprechen sich die Schilderungen?"):
 Alle `widerspricht_eintrag`-Verknüpfungen zeigen. Pro Widerspruch:
 Was ist der Konflikt, welche Einträge stehen in Spannung, welche
 dokumentarische Evidenz bezieht sich auf den Widerspruch.
 
-**Deckungsabfrage** („Was fehlt noch?" / „Wo haben wir Lücken?"):
+**Deckungsabfrage** ("Was fehlt noch?" / "Wo haben wir Lücken?"):
 `quellen-checkliste.yaml` und `beweislücken` im log.yaml auslesen. Melden:
 - Noch offene Checklistenpunkte
 - Protokollierte Beweislücken
 - Schilderungen, die auf noch nicht erhobene Quellen hinweisen
 
-**Stärkeabfrage** („Was ist die stärkste Evidenz zu jeder Frage?"):
+**Stärkeabfrage** ("Was ist die stärkste Evidenz zu jeder Frage?"):
 Für jede Untersuchungsfrage: höchstbewertete Protokolleinträge, dokumentarische
 Bestätigungen und ungelöste Widersprüche — frageweise strukturiert.
 
@@ -159,7 +159,7 @@ Handlungsbedarf: Frau Schmidt als Zeugin befragen (Checkliste Punkt 3 — noch o
   Einträge sichten.
 - **Fehlende Eintrags-IDs**: Antworten ohne Eintrags-ID-Referenzen sind
   nicht rückverfolgbar und erschweren spätere Anfechtungen.
-- **Lücken nicht als Lücken benennen**: „Dazu weiß ich nichts" ist kein
+- **Lücken nicht als Lücken benennen**: "Dazu weiß ich nichts" ist kein
   angemessenes Ergebnis — die Nicht-Existenz von Erkenntnissen im Protokoll
   muss explizit als potenzielle Beweislücke benannt werden.
 - **Widersprüche glätten**: Widersprechende Schilderungen dürfen nicht

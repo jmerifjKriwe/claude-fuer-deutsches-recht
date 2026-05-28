@@ -18,7 +18,7 @@ Eine urheberrechtliche Abmahnung ist kein Routineschreiben. Die Fehler der Empf�
 5. Hat der Mandant die Verletzungshandlung begangen oder könnte ein Dritter (Familie, Untermieter, Gäste im WLAN) verantwortlich sein?
 6. Wurde bereits eine Reaktion abgegeben oder etwas anerkannt, das Ansprüche auslösen könnte?
 7. Hat der Abmahner die Aktivlegitimation belegt (Lizenzkette, Originalurheber, VG-Auftrag)?
-8. Liegt eine „massenhaft" aussehende Abmahnung vor oder ein individualisiertes Schreiben?
+8. Liegt eine "massenhaft" aussehende Abmahnung vor oder ein individualisiertes Schreiben?
 
 ---
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
@@ -249,11 +249,11 @@ ODER
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „Foto ist ohne Quelle verwendet und damit urheberrechtlich verletzt" | Werkqualität nach § 72 UrhG (Lichtbild) prüfen; Schöpfungshöhe für Lichtbildwerk höher; Quellenangabe allein heilt Verletzung nicht, zeigt aber fehlenden Vorsatz |
-| „Streitwert EUR 10.000 ist angemessen" | § 97a Abs. 3 UrhG: bei Verbraucher EUR 1.000 Limit; BGH I ZR 187/17: Schadenshöhe ist einzelfallbezogen |
-| „Vorformulierte Unterlassungserklärung muss so unterschrieben werden" | Nein; modifizierte Erklärung ist zulässig und beseitigt ebenfalls die Wiederholungsgefahr wenn Hamburger Brauch eingehalten |
-| „Anschlussinhaber haftet für Filesharing aus eigenem Anschluss" | BGH I ZR 75/14: sekundäre Darlegungslast; Anschlussinhaber muss alternative Täter nicht beweisen, aber benennen |
-| „Eltern haften für Kinder unbegrenzt" | BGH I ZR 74/12 Morpheus: Elternhaftung setzt Pflichtverletzung voraus; bei erteilter Belehrung und Verbotbeachtung keine Haftung |
+| "Foto ist ohne Quelle verwendet und damit urheberrechtlich verletzt" | Werkqualität nach § 72 UrhG (Lichtbild) prüfen; Schöpfungshöhe für Lichtbildwerk höher; Quellenangabe allein heilt Verletzung nicht, zeigt aber fehlenden Vorsatz |
+| "Streitwert EUR 10.000 ist angemessen" | § 97a Abs. 3 UrhG: bei Verbraucher EUR 1.000 Limit; BGH I ZR 187/17: Schadenshöhe ist einzelfallbezogen |
+| "Vorformulierte Unterlassungserklärung muss so unterschrieben werden" | Nein; modifizierte Erklärung ist zulässig und beseitigt ebenfalls die Wiederholungsgefahr wenn Hamburger Brauch eingehalten |
+| "Anschlussinhaber haftet für Filesharing aus eigenem Anschluss" | BGH I ZR 75/14: sekundäre Darlegungslast; Anschlussinhaber muss alternative Täter nicht beweisen, aber benennen |
+| "Eltern haften für Kinder unbegrenzt" | BGH I ZR 74/12 Morpheus: Elternhaftung setzt Pflichtverletzung voraus; bei erteilter Belehrung und Verbotbeachtung keine Haftung |
 
 ---
 

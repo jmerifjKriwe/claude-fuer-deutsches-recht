@@ -1,6 +1,6 @@
 ---
 name: genehmigungspflicht-pruefung
-description: "Prüft, ob ein konkretes Rechtsgeschäft, eine Maßnahme oder eine Entscheidung des Betreuers der Genehmigung des Betreuungsgerichts bedarf (§§ 1848 ff. BGB) — etwa Grundstücksverkauf, Erbausschlagung, Heimvertragsabschluss, Wohnungsauflösung, freiheitsentziehende Maßnahmen. Lädt, wenn Schlagwörter wie „Genehmigung Betreuungsgericht\", „§ 1848 BGB\", „§ 1850 BGB\", „§ 1851 BGB\", „freiheitsentziehende Maßnahme\" oder „Heimvertrag\" auftreten."
+description: "Prüft, ob ein konkretes Rechtsgeschäft, eine Maßnahme oder eine Entscheidung des Betreuers der Genehmigung des Betreuungsgerichts bedarf (§§ 1848 ff. BGB) — etwa Grundstücksverkauf, Erbausschlagung, Heimvertragsabschluss, Wohnungsauflösung, freiheitsentziehende Maßnahmen. Lädt, wenn Schlagwörter wie "Genehmigung Betreuungsgericht\", "§ 1848 BGB\", "§ 1850 BGB\", "§ 1851 BGB\", "freiheitsentziehende Maßnahme\" oder "Heimvertrag\" auftreten."
 ---
 
 # Genehmigungspflicht-Prüfung (§§ 1848 ff. BGB)
@@ -17,7 +17,7 @@ erforderliche Genehmigung sind Geschäfte schwebend unwirksam (§ 1855 BGB).
 ## Eingaben
 
 - **Aufgabenkreise** des Betreuers (Bestellungsurkunde)
-- **Konkret geplante Maßnahme** (z. B. „Verkauf der Eigentumswohnung der
+- **Konkret geplante Maßnahme** (z. B. "Verkauf der Eigentumswohnung der
   betreuten Person in Berlin-Charlottenburg")
 - **Beteiligte Personen** (Vertragspartner, Heimträger, Arzt)
 - **Wirtschaftliche Eckdaten** (Kaufpreis, Heimkosten, Darlehenssumme)
@@ -182,7 +182,7 @@ anzubringen sowie ein leichtes Sedativum (Pipamperon 20 mg) zu verabreichen.
 > - Regelmäßigkeit: jede Nacht — Tatbestand erfüllt
 >
 > *4. Wille der betreuten Person:* Frau K. wurde am 18.02.2026 befragt
-> (Aktenvermerk). Sie äußerte: „Ich will nicht eingesperrt sein, aber
+> (Aktenvermerk). Sie äußerte: "Ich will nicht eingesperrt sein, aber
 > hinfallen will ich auch nicht." Bei eingeschränkter Einsichtsfähigkeit
 > ist mutmaßlicher Wille zu erschließen — Schutz vor Sturzschäden hat
 > Priorität.
@@ -202,7 +202,7 @@ anzubringen sowie ein leichtes Sedativum (Pipamperon 20 mg) zu verabreichen.
 Geschäft erst nach Rechtskraft des Genehmigungsbeschlusses abschließen.
 Vorzeitige Vollziehung führt zur schwebenden Unwirksamkeit (§ 1855 BGB).
 
-**2. „Bettgitter sind keine Freiheitsentziehung"**
+**2. "Bettgitter sind keine Freiheitsentziehung"**
 Verbreiteter Irrtum: Auch in offenen Einrichtungen sind Bettgitter und
 ähnliche Maßnahmen genehmigungspflichtig, sofern regelmäßig (BGH XII ZB
 24/12 Rn. 27 ff.). Einmalige kurzzeitige Maßnahme bei akuter Eigen-

@@ -5,7 +5,7 @@ description: "Tastmarken und Haptik-Marken für Stoffstrukturen und Flakon-Oberf
 
 # Tastmarken und Haptik-Marken
 
-Das faszinierendste Grenzgebiet des nichtvisuellen Markenrechts: Kann die charakteristische Oberflächenstruktur eines Seidenschals oder die Mikrogravur eines Parfumflakons als Marke geschützt werden? Für klôtzzkètté SA ist dies hochrelevant — die Seidenschalkollektionen „K°° Touch Royal" mit ihrer einzigartigen dreidimensionalen Seiden-Twill-Köper-Struktur und der Parfumflakon „K°° pour Femme" mit seiner gestrichelten Mikro-Haptik-Oberfläche sind sensorische Erkennungszeichen ersten Ranges.
+Das faszinierendste Grenzgebiet des nichtvisuellen Markenrechts: Kann die charakteristische Oberflächenstruktur eines Seidenschals oder die Mikrogravur eines Parfumflakons als Marke geschützt werden? Für klôtzzkètté SA ist dies hochrelevant — die Seidenschalkollektionen "K°° Touch Royal" mit ihrer einzigartigen dreidimensionalen Seiden-Twill-Köper-Struktur und der Parfumflakon "K°° pour Femme" mit seiner gestrichelten Mikro-Haptik-Oberfläche sind sensorische Erkennungszeichen ersten Ranges.
 
 Die Antwort ist ernüchternd ehrlich: Tastmarken sind rechtlich kaum eintragbar, aber es gibt substanzielle Schutzalternativen.
 
@@ -13,7 +13,7 @@ Die Antwort ist ernüchternd ehrlich: Tastmarken sind rechtlich kaum eintragbar,
 
 ### Markenrecht (Eintragungsversuch)
 - **§ 3 I MarkenG / Art. 4 UMV:** Markenfähigkeit offen für jede Art von Zeichen — Tasteindrücke sind abstrakt denkbar
-- **§ 8 II Nr. 1 MarkenG n.F. / Art. 4 UMV:** Seit UMV-Reform 2017 keine grafische Darstellbarkeit mehr erforderlich — „klare und eindeutige" Darstellung genügt
+- **§ 8 II Nr. 1 MarkenG n.F. / Art. 4 UMV:** Seit UMV-Reform 2017 keine grafische Darstellbarkeit mehr erforderlich — "klare und eindeutige" Darstellung genügt
 - **EuGH C-273/00 (Sieckmann):** Sieben-Kriterien-Test (klar/eindeutig/in sich abgeschlossen/leicht zugänglich/verständlich/dauerhaft/objektiv) — für Tastmarken analog anzuwenden; kaum erfüllbar
 - **EuG T-305/02 (Eden SARL — Erdbeer-Geruch):** Erweitertes Kriterienspektrum für nicht-visuelle Zeichen; textliche Beschreibung + Probe allein nicht ausreichend
 - **USPTO US-Marke 3.896.100 (David Yurman — Fabrikgewebe-Haptik):** US-Trademark für die haptische Wahrnehmung eines geflochtenen Kabelmusters auf Schmuckstücken — eingetragen mit Nachweis von Secondary Meaning. Zeigt: In den USA ist Haptik-Marke theoretisch möglich (vgl. Skill `us-trade-dress-und-secondary-meaning`)
@@ -32,9 +32,9 @@ Die Antwort ist ernüchternd ehrlich: Tastmarken sind rechtlich kaum eintragbar,
 ### Schritt 1: Eintragungsversuch DPMA/EUIPO (Vollständigkeitshalber)
 
 1. **Darstellungsformen prüfen:**
-   - Textliche Beschreibung: „Die Marke besteht aus einer regelmäßigen dreidimensionalen Twill-Köper-Struktur mit [X mm] Erhöhung, [Y mm] Absenkung, Diagonalwinkel 45°, auf Seidenstoff"
-   - Mikroskopie-Aufnahme/REM-Scan (Rasterelektronenmikroskop): präzise, aber fachspezifisch — nicht „leicht zugänglich"
-   - 3D-CAD-Modell: präzise und eindeutig, aber Sieckmann-Kriterium „verständlich" fraglich
+   - Textliche Beschreibung: "Die Marke besteht aus einer regelmäßigen dreidimensionalen Twill-Köper-Struktur mit [X mm] Erhöhung, [Y mm] Absenkung, Diagonalwinkel 45°, auf Seidenstoff"
+   - Mikroskopie-Aufnahme/REM-Scan (Rasterelektronenmikroskop): präzise, aber fachspezifisch — nicht "leicht zugänglich"
+   - 3D-CAD-Modell: präzise und eindeutig, aber Sieckmann-Kriterium "verständlich" fraglich
    - Physikalische Probe: nicht hinterlegbar beim DPMA/EUIPO; kein akzeptiertes Darstellungsmittel
 
 2. **Sieckmann-Check für Tastmarke:**

@@ -102,13 +102,13 @@ ist die Liquidität über den Horizont zu sichern.
 
 ## 90-Prozent-Deckung ist der operative Maßstab
 
-Die „überwiegende Wahrscheinlichkeit" nach § 19 Abs. 2 InsO ist nicht abstrakt zu prüfen, sondern operativ über den Liquiditätsplan. Das Unternehmen ist „überwiegend wahrscheinlich fortfuehrbar" wenn über den gesamten Zwölf-Monats-Horizont mit hoher Wahrscheinlichkeit **keine Zahlungsunfähigkeit nach § 17 InsO eintritt**. Damit gilt durchgehend der BGH-Maßstab aus BGHZ 163, 134 (BGH IX ZR 123/04):
+Die "überwiegende Wahrscheinlichkeit" nach § 19 Abs. 2 InsO ist nicht abstrakt zu prüfen, sondern operativ über den Liquiditätsplan. Das Unternehmen ist "überwiegend wahrscheinlich fortfuehrbar" wenn über den gesamten Zwölf-Monats-Horizont mit hoher Wahrscheinlichkeit **keine Zahlungsunfähigkeit nach § 17 InsO eintritt**. Damit gilt durchgehend der BGH-Maßstab aus BGHZ 163, 134 (BGH IX ZR 123/04):
 
 - **In jedem Zeitabschnitt** muss die Deckung der fälligen Verbindlichkeiten mindestens **90 Prozent** betragen (Liquiditätslücke unter zehn Prozent).
-- **Eine vorübergehende Lücke** über zehn Prozent darf höchstens **drei Wochen** andauern. Wer laenger als drei Wochen unter 90 Prozent Deckung liegt ist nach BGH zahlungsunfähig — und das ist gerade nicht „fortfuehrbar".
+- **Eine vorübergehende Lücke** über zehn Prozent darf höchstens **drei Wochen** andauern. Wer laenger als drei Wochen unter 90 Prozent Deckung liegt ist nach BGH zahlungsunfähig — und das ist gerade nicht "fortfuehrbar".
 - **Über den vollen Zwölf-Monats-Horizont** muss diese Schwelle eingehalten werden — andernfalls ist die Fortbestehensprognose **negativ**.
 
-Die „mehr als 50 Prozent Wahrscheinlichkeit" der Prognose bezieht sich darauf dass dieses Szenario (Einhaltung der BGH-Schwelle über zwölf Monate) eintritt — also nicht ein abstrakter Erfolgswert sondern die methodische Wahrscheinlichkeit dass das Unternehmen die 90-Prozent-Deckung bzw. die Drei-Wochen-Karenz **über den gesamten Horizont durchhaelt**.
+Die "mehr als 50 Prozent Wahrscheinlichkeit" der Prognose bezieht sich darauf dass dieses Szenario (Einhaltung der BGH-Schwelle über zwölf Monate) eintritt — also nicht ein abstrakter Erfolgswert sondern die methodische Wahrscheinlichkeit dass das Unternehmen die 90-Prozent-Deckung bzw. die Drei-Wochen-Karenz **über den gesamten Horizont durchhaelt**.
 
 **Konsequenz für die Liquiditätsprognose:**
 

@@ -36,7 +36,7 @@ Dieser Skill erfasst alle wirtschaftlichen Kernkonditionen des Wandeldarlehens u
 ## Vorgehen
 
 ### 1. Darlehensbetrag festhalten
-EUR-Betrag in Ziffern und in Worten (z. B. „EUR 250000 (in Worten: zweihundertfünfzigtausend Euro)"). Keine Tausenderpunkte in Zifferndarstellung, um Verwechslungen zu vermeiden.
+EUR-Betrag in Ziffern und in Worten (z. B. "EUR 250000 (in Worten: zweihundertfünfzigtausend Euro)"). Keine Tausenderpunkte in Zifferndarstellung, um Verwechslungen zu vermeiden.
 
 ### 2. Laufzeit und Festes Ende
 Startdatum: Datum vollständiger Unterzeichnung durch alle Parteien. Enddatum: Startdatum plus zwei Jahre ohne Kündigung erforderlich. Beispiel: Unterzeichnung 01.06.2025 → Ende 31.05.2027.

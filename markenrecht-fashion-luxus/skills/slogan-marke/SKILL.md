@@ -17,7 +17,7 @@ Die Grenze zwischen begeisterndem Werbeslogan und schutzfähiger Marke ist nach 
 - **EuGH C-398/08 P (Audi / Vorsprung durch Technik):** Slogans können Unterscheidungskraft haben, wenn sie über eine werbliche Bedeutung hinaus auf die Herkunft hinweisen; kein strengerer Maßstab als für andere Markenarten
 - **BGH, Beschl. v. 21.11.2013 — I ZB 67/12 (Ziegelrot / Quadratisch. Praktisch. Gut.):** Slogan mit ausschliesslich lobender oder qualitaetsbeschreibender Aussage kann keine Markeneintragung erlangen; intensive Werbenutzung begründet allein keine Unterscheidungskraft
 - **BGH, Beschl. v. 27.04.2017 — I ZB 83/16 (#darferdas?):** Hashtag-Slogan — fehlende Unterscheidungskraft
-- **EuGH C-64/02 P (OHIM / Erpo Möbelwerk):** „Das Prinzip der Bequemlichkeit" — keine Unterscheidungskraft
+- **EuGH C-64/02 P (OHIM / Erpo Möbelwerk):** "Das Prinzip der Bequemlichkeit" — keine Unterscheidungskraft
 - **EuGH C-265/09 P (OHIM / BORCO-Marken):** Strengerer Maßstab nicht gerechtfertigt
 - **Verkehrsdurchsetzung § 8 III MarkenG:** Rettungsanker bei ursprünglich fehlendem Schutz
 
@@ -48,14 +48,14 @@ Die Grenze zwischen begeisterndem Werbeslogan und schutzfähiger Marke ist nach 
 
 ## Falltypische Konstellationen
 
-### Konstellation 1: „Tissu du Silence" — klôtzzkètté Herbstkampagne
-klôtzzkètté will „Tissu du Silence" (frz.: Stoff der Stille) für Klasse 25 schützen. Analyse: Der Ausdruck beschreibt keine Bekleidungseigenschaft, evoziert eine poetic-luxury-Atmosphäre, ist nicht im Deutschen/Französischen als beschreibende Wendung etabliert. Prognose: Eintragungsfähig mit Argument aus EuGH C-398/08 — ungewöhnliche Kombination, die über bloße Werbebotschaft hinausgeht.
+### Konstellation 1: "Tissu du Silence" — klôtzzkètté Herbstkampagne
+klôtzzkètté will "Tissu du Silence" (frz.: Stoff der Stille) für Klasse 25 schützen. Analyse: Der Ausdruck beschreibt keine Bekleidungseigenschaft, evoziert eine poetic-luxury-Atmosphäre, ist nicht im Deutschen/Französischen als beschreibende Wendung etabliert. Prognose: Eintragungsfähig mit Argument aus EuGH C-398/08 — ungewöhnliche Kombination, die über bloße Werbebotschaft hinausgeht.
 
-### Konstellation 2: „Pure Luxury for the Few" — Englischer Slogan
-Für den US-Markt (vgl. Skill `uspto-anmeldung-und-lanham-act`). EUIPO-Anmeldung schwierig: „PURE LUXURY" ist anpreisend, „FOR THE FEW" beschreibt Exklusivität. EuGH-Linie: Diese Kombination hat allein anpreisenden Charakter — Zurückweisung wahrscheinlich. Strategie: Als Wort-Bild-Marke mit besonderer Typografie anmelden.
+### Konstellation 2: "Pure Luxury for the Few" — Englischer Slogan
+Für den US-Markt (vgl. Skill `uspto-anmeldung-und-lanham-act`). EUIPO-Anmeldung schwierig: "PURE LUXURY" ist anpreisend, "FOR THE FEW" beschreibt Exklusivität. EuGH-Linie: Diese Kombination hat allein anpreisenden Charakter — Zurückweisung wahrscheinlich. Strategie: Als Wort-Bild-Marke mit besonderer Typografie anmelden.
 
-### Konstellation 3: „KLOTZ IST STIL" — Brezelmann-Kopie
-Brezelmann Discount KG (Bad Mergentheim) verwendet „KLOTZ IST PREIS" als Gegenslogan. Prüfung: Verwechslungsgefahr mit eingetragenem Slogan von klôtzzkètté? Warenidentität (Klasse 25), aber keine Slogan-Ähnlichkeit, die Verwechslung begründet. Ansatz: UWG § 4 Nr. 3 (unlautere Anlehnung an bekannte Marke) und § 6 (vergleichende Werbung).
+### Konstellation 3: "KLOTZ IST STIL" — Brezelmann-Kopie
+Brezelmann Discount KG (Bad Mergentheim) verwendet "KLOTZ IST PREIS" als Gegenslogan. Prüfung: Verwechslungsgefahr mit eingetragenem Slogan von klôtzzkètté? Warenidentität (Klasse 25), aber keine Slogan-Ähnlichkeit, die Verwechslung begründet. Ansatz: UWG § 4 Nr. 3 (unlautere Anlehnung an bekannte Marke) und § 6 (vergleichende Werbung).
 
 ### Konstellation 4: Hashtag-Marke #klotzzkette
 Seit BGH I ZB 83/16 (#darferdas?) sind Hashtag-Slogans als Wortmarken mit normaler Unterscheidungskraft-Hürde zu prüfen — das Rautensymbol allein begründet keine Besonderheit. Für klôtzzkètté: #klotzzkette als Wortmarke anmelden, # als rein technisches Symbol im Warenverzeichnis nicht erwähnen.
@@ -83,11 +83,11 @@ Vertreter: [Kanzlei], München
 
 ### Stellungnahme-Baustein Unterscheidungskraft Slogan
 ```
-Das Zeichen „TISSU DU SILENCE" weist über seine werblich-atmosphärische
+Das Zeichen "TISSU DU SILENCE" weist über seine werblich-atmosphärische
 Bedeutung hinaus auf die betriebliche Herkunft der Mandantin hin.
 Insbesondere:
-(1) Die Kombination aus dem Substantiv „tissu" und dem Abstraktum
-„silence" ist in der Modewelt nicht gebräuchlich.
+(1) Die Kombination aus dem Substantiv "tissu" und dem Abstraktum
+"silence" ist in der Modewelt nicht gebräuchlich.
 (2) Das Zeichen wird im Marktauftritt stets als Herkunftshinweis
 für klôtzzkètté-Produkte eingesetzt (vgl. beigefügte Belege).
 (3) Nach EuGH C-398/08 P (Vorsprung durch Technik) ist für Slogans

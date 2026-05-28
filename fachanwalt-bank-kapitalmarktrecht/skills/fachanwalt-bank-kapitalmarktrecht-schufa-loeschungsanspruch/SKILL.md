@@ -53,7 +53,7 @@ Mandate von Verbrauchern mit unrechtmaessigen SCHUFA-Eintraegen. Auskunft, Wider
 
 ### Konstellation D: Score ohne nachvollziehbare Grundlage
 
-- EuGH C-634/21 vom 7.12.2023: SCHUFA-Score ist „automatisierte Entscheidung" Art. 22 DSGVO
+- EuGH C-634/21 vom 7.12.2023: SCHUFA-Score ist "automatisierte Entscheidung" Art. 22 DSGVO
 - Recht auf Erklärung, manuelle Prüfung
 
 ## 4) Workflow Löschung
@@ -103,7 +103,7 @@ Mandate von Verbrauchern mit unrechtmaessigen SCHUFA-Eintraegen. Auskunft, Wider
 
 - **Pauschal** je Eintrag (500-1.000 EUR + MwSt.)
 - **Erfolgs-Aufschlag** bei Schadensersatz (15-30 %)
-- **Rechtsschutz-Versicherung** typisch zuschussfähig (Bereich „Schadensersatz / Datenschutz")
+- **Rechtsschutz-Versicherung** typisch zuschussfähig (Bereich "Schadensersatz / Datenschutz")
 
 ## 7) Prüfliste
 

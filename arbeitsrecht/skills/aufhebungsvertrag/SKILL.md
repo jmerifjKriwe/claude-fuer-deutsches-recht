@@ -65,7 +65,7 @@ Dieser Skill dient der Prüfung und dem Entwurf eines Aufhebungsvertrags (auch: 
 1. **Initiator**: Geht der Impuls vom Arbeitgeber aus → Sperrzeit-Risiko erhöht; Abfindung als Gegenleistung besonders wichtig.
 2. **Alternativen vergleichen**: Kündigung vs. Aufhebungsvertrag (Kündigungsschutzrisiko, Kosten, Zeit, Image).
 3. **Betriebsrat informieren** (keine Zustimmung erforderlich, aber Information empfehlenswert, § 80 BetrVG).
-4. **Verhandlungsstrategie**: Abfindungshöhe, Freistellung, Zeugnis-Formulierung (mind. „zur vollsten Zufriedenheit"), Outplacement, Betriebliche Altersversorgung (unverfallbare Anwartschaften § 1b BetrAVG).
+4. **Verhandlungsstrategie**: Abfindungshöhe, Freistellung, Zeugnis-Formulierung (mind. "zur vollsten Zufriedenheit"), Outplacement, Betriebliche Altersversorgung (unverfallbare Anwartschaften § 1b BetrAVG).
 
 ### Schritt 2 – Schriftform und Vertragsabschluss (§ 623 BGB)
 
@@ -96,7 +96,7 @@ Dieser Skill dient der Prüfung und dem Entwurf eines Aufhebungsvertrags (auch: 
 
 ### Schritt 5 – Ausgleichsklausel
 
-- Umfassende Ausgleichsklausel formulieren: „Mit diesem Vertrag sind alle wechselseitigen Ansprüche aus dem Arbeitsverhältnis und seiner Beendigung – gleich aus welchem Rechtsgrund – erledigt."
+- Umfassende Ausgleichsklausel formulieren: "Mit diesem Vertrag sind alle wechselseitigen Ansprüche aus dem Arbeitsverhältnis und seiner Beendigung – gleich aus welchem Rechtsgrund – erledigt."
 - **Ausnahmen ausdrücklich benennen** (typisch):
   - Ansprüche aus betrieblicher Altersversorgung (§§ 1b, 7 BetrAVG)
   - Laufende Entgeltansprüche bis Beendigung

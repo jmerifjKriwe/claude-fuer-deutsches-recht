@@ -11,7 +11,7 @@ Dieser Skill informiert Sekretariatsmitarbeitende und Rechtsanwältinnen und Rec
 
 ### § 43a Abs. 2 BRAO — Verschwiegenheitspflicht
 
-> „Der Rechtsanwalt ist zur Verschwiegenheit verpflichtet. Diese Pflicht bezieht sich auf alles, was ihm in Ausübung seines Berufes bekanntgeworden ist."
+> "Der Rechtsanwalt ist zur Verschwiegenheit verpflichtet. Diese Pflicht bezieht sich auf alles, was ihm in Ausübung seines Berufes bekanntgeworden ist."
 
 Die Verschwiegenheitspflicht ist eine berufsrechtliche Kernpflicht. Verstöße können zur Schadensersatzpflicht (§ 280 BGB), zu einem Widerruf der Zulassung (§ 14 BRAO) und zu strafrechtlicher Verfolgung (§ 203 StGB — Verletzung von Privatgeheimnissen) führen.
 

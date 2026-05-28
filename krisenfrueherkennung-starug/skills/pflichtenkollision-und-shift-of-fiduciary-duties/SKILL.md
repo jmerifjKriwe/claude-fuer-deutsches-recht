@@ -5,7 +5,7 @@ description: "Shift of Fiduciary Duties in der Unternehmenskrise analysieren: GF
 
 # Pflichtenkollision und Shift of Fiduciary Duties in der Krise
 
-Im Normalzustand schuldet der Geschäftsführer seine Loyalität den Gesellschaftern — er ist ihr Agent, ihr verlängerter Arm. In der Krise dreht sich das Koordinatensystem. Je tiefer das Unternehmen in die Insolvenzgefährdung gleitet, desto stärker verschiebt sich die Pflichtbindung vom Eigentümerinteresse zum Gläubigerinteresse. Dieser „Shift of Fiduciary Duties" ist keine anglistische Theorie, sondern gelebtes deutsches Recht — mit direkten Haftungsfolgen.
+Im Normalzustand schuldet der Geschäftsführer seine Loyalität den Gesellschaftern — er ist ihr Agent, ihr verlängerter Arm. In der Krise dreht sich das Koordinatensystem. Je tiefer das Unternehmen in die Insolvenzgefährdung gleitet, desto stärker verschiebt sich die Pflichtbindung vom Eigentümerinteresse zum Gläubigerinteresse. Dieser "Shift of Fiduciary Duties" ist keine anglistische Theorie, sondern gelebtes deutsches Recht — mit direkten Haftungsfolgen.
 
 ---
 
@@ -48,7 +48,7 @@ Der Pflichtenwandel vollzieht sich graduell, nicht schlagartig:
 | Liquiditätskrise | Gläubigerinteresse dominant | Direkter Schutz |
 | Insolvenzreife | Ausschließlich Gläubigerinteresse | § 15a, § 15b InsO |
 
-Der „tipping point" liegt regelmäßig beim Eintritt der drohenden Zahlungsunfähigkeit nach § 18 InsO: Ab diesem Moment sind Maßnahmen, die ausschließlich dem Gesellschafterinteresse dienen (Gewinnausschüttung, riskante Investitionen), haftungsrechtlich gefährlich.
+Der "tipping point" liegt regelmäßig beim Eintritt der drohenden Zahlungsunfähigkeit nach § 18 InsO: Ab diesem Moment sind Maßnahmen, die ausschließlich dem Gesellschafterinteresse dienen (Gewinnausschüttung, riskante Investitionen), haftungsrechtlich gefährlich.
 
 ### 3. EuGH C-594/14 Kornhaas — Europarecht bestätigt deutschen Ansatz
 
@@ -160,7 +160,7 @@ Erstellt von: ___________________
 
 4. **Gesellschafterweisung entbindet nicht von § 15a InsO** — selbst wenn alle Gesellschafter Fortführung wollen und beauftragen: Die Insolvenzantragspflicht ist nicht disponibel.
 
-5. **„Management by Delegation" in der Krise** ist kein Enthaftungsinstrument — Gesamtverantwortung aller GF-Mitglieder bleibt bestehen, auch bei formal getrennten Ressorts.
+5. **"Management by Delegation" in der Krise** ist kein Enthaftungsinstrument — Gesamtverantwortung aller GF-Mitglieder bleibt bestehen, auch bei formal getrennten Ressorts.
 
 ---
 

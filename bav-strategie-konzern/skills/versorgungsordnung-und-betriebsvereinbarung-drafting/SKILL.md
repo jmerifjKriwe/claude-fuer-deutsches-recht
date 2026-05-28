@@ -66,7 +66,7 @@ der [Konzern Muster AG], Düsseldorf
 in der Fassung vom [Datum]
 
 Präambel
-Die [Konzern Muster AG] (nachfolgend „Unternehmen") gewährt ihren Mitarbeiterinnen
+Die [Konzern Muster AG] (nachfolgend "Unternehmen") gewährt ihren Mitarbeiterinnen
 und Mitarbeitern eine betriebliche Altersversorgung als freiwillige soziale Leistung
 auf der Grundlage dieser Versorgungsordnung. Die Versorgungsleistungen werden als
 Direktzusage gewährt. Für Mitglieder des Betriebsrats gilt diese Versorgungsordnung
@@ -76,7 +76,7 @@ unter Beachtung des § 78 BetrVG.
 (1) Diese Versorgungsordnung gilt für alle Arbeitnehmerinnen und Arbeitnehmer des
 Unternehmens, die nach dem [Einführungsdatum] eingestellt werden und das 18.
 Lebensjahr vollendet haben, sofern das Arbeitsverhältnis auf unbestimmte Zeit
-geschlossen ist (nachfolgend „Berechtigte").
+geschlossen ist (nachfolgend "Berechtigte").
 (2) Ausgenommen sind:
     a) Mitglieder des Vorstands und der Geschäftsführung,
     b) Mitarbeiterinnen und Mitarbeiter, die einer anderen Versorgungsregelung
@@ -131,7 +131,7 @@ eingetragene Lebenspartner 60 % der unverfallbaren Anwartschaft des Berechtigten
 vor Eintritt des Versorgungsfalles geschlossen wurde.
     ANMERKUNG TREUENFELS YAMAMOTO: Eine Altersgrenze für die Eheschließung ist nach
     BAG 28.4.2015 — 3 AZR 174/13 nur bei sachlicher Rechtfertigung zulässig. Eine
-    reine „Spätehenklausel" (z.B. Heirat nach 60. Lebensjahr ausgeschlossen) ohne
+    reine "Spätehenklausel" (z.B. Heirat nach 60. Lebensjahr ausgeschlossen) ohne
     weitere sachliche Begründung ist unzulässig und AGG-widrig. Zulässig ist hingegen
     eine Klausel, die den Zeitpunkt der Eheschließung im Verhältnis zu bereits
     erdienten Anwartschaften berücksichtigt (zeitproportionale Berechnung).
@@ -287,9 +287,9 @@ Unternehmens vorbehalten.
 
 ## Fallstricke
 
-1. **Spätehenklausel nach BAG 3 AZR 174/13:** Reine Altersgrenze für Eheschließung (z.B. „Ehe muss vor Vollendung des 60. Lebensjahres des Berechtigten geschlossen sein") ist nach BAG 28.4.2015 — 3 AZR 174/13 unzulässig. Nur zeitproportionale oder bedarfsorientierte Begrenzungen sind zulässig. Alle Altversorgungsordnungen sind zu prüfen.
+1. **Spätehenklausel nach BAG 3 AZR 174/13:** Reine Altersgrenze für Eheschließung (z.B. "Ehe muss vor Vollendung des 60. Lebensjahres des Berechtigten geschlossen sein") ist nach BAG 28.4.2015 — 3 AZR 174/13 unzulässig. Nur zeitproportionale oder bedarfsorientierte Begrenzungen sind zulässig. Alle Altversorgungsordnungen sind zu prüfen.
 
-2. **Kollektivrechtliche Ablösung:** Ablösung einer BV durch neue BV kann in Versorgungsrechte eingreifen — Drei-Stufen-Theorie anwendbar (BAG 10.11.2015 — 3 AZR 576/14). Keine „einfache" Mehrheitsentscheidung des Betriebsrats ausreichend.
+2. **Kollektivrechtliche Ablösung:** Ablösung einer BV durch neue BV kann in Versorgungsrechte eingreifen — Drei-Stufen-Theorie anwendbar (BAG 10.11.2015 — 3 AZR 576/14). Keine "einfache" Mehrheitsentscheidung des Betriebsrats ausreichend.
 
 3. **AGG-Konformität Hinterbliebenenversorgung:** Unterschiedliche Behandlung von Ehegatten und nichtehelichen Lebenspartnern ist seit dem Lebenspartnerschaftsgesetz (LPartG) und dem Allgemeinen Gleichbehandlungsgesetz (AGG) unzulässig. Alle neuen VO müssen eingetragene Lebenspartner gleichstellen (BAG 14.1.2015 — 3 AZR 558/13).
 

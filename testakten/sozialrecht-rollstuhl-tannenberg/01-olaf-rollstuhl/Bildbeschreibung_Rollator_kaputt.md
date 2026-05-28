@@ -16,7 +16,7 @@ Rollator-Details (erkennbar im Foto):
                Bremszug links schwergängig (Befund Sanitätshaus bestätigt),
                Sitzpolster verformt und eingesunken
   Gewicht:     9,8 kg (lt. Herstellerangabe, aber Mandant empfindet es als
-               „schwer zum Hochheben")
+               "schwer zum Hochheben")
 
 Handschriftliches Schild am Rollator (Pappe mit Klebeband befestigt,
 handgeschrieben von Olaf Tannenberg in unregelmäßigen Buchstaben):

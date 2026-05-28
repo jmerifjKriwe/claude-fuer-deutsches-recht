@@ -112,7 +112,7 @@ Mindestens ein typischer Ausgabetyp muss vorliegen:
 - Empfehlung, Ranking, Priorisierung, Next-best-action
 - Entscheidung, Klassifikation, Freigabe, Ablehnung, Zuweisung
 
-Der Begriff ist weit. Auch ein “nur vorbereitender” Score kann ein relevanter Output sein.
+Der Begriff ist weit. Auch ein "nur vorbereitender" Score kann ein relevanter Output sein.
 
 ### 7. Einfluss auf physische oder virtuelle Umgebungen
 

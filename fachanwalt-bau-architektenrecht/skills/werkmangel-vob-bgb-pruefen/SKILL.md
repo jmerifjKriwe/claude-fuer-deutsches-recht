@@ -324,12 +324,12 @@ auf EUR [Betrag] netto gemäß Kostenvoranschlag vom [Datum], Anlage [K1].
 
 | Gegenargument Auftragnehmer | Reaktion |
 |-----------------------------|---------|
-| „Mangel liegt an Planung des Architekten, nicht Ausführung" | Gesamtschuldnerische Haftung § 421 BGB; Besteller kann AN trotzdem in Anspruch nehmen |
-| „Frist war zu kurz" | Fristdauer richtet sich nach Komplexität; bei einfachen Mängeln 2 Wochen regelmäßig ausreichend (BGH VII ZR 19/17) |
-| „Vorbehaltlose Abnahme — Mängel abgenommen" | Gilt nur für bei Abnahme bekannte Mängel § 640 Abs. 3 BGB; versteckte Mängel bleiben unberührt |
-| „Nacherfüllung unverhältnismäßig" | BGH VII ZR 136/16: nur grobes Missverhältnis berechtigt zur Verweigerung; Bagatellschwelle liegt hoch |
-| „Verjährung" | Hemmung durch Mängelverhandlungen § 203 BGB; Anerkenntnis des Mangels → Neubeginn § 212 BGB |
-| „Mangel durch Auftraggeber-Sphäre verursacht" | Beweislast beim Unternehmer nach Abnahme; Mitverschulden § 254 BGB prüfen |
+| "Mangel liegt an Planung des Architekten, nicht Ausführung" | Gesamtschuldnerische Haftung § 421 BGB; Besteller kann AN trotzdem in Anspruch nehmen |
+| "Frist war zu kurz" | Fristdauer richtet sich nach Komplexität; bei einfachen Mängeln 2 Wochen regelmäßig ausreichend (BGH VII ZR 19/17) |
+| "Vorbehaltlose Abnahme — Mängel abgenommen" | Gilt nur für bei Abnahme bekannte Mängel § 640 Abs. 3 BGB; versteckte Mängel bleiben unberührt |
+| "Nacherfüllung unverhältnismäßig" | BGH VII ZR 136/16: nur grobes Missverhältnis berechtigt zur Verweigerung; Bagatellschwelle liegt hoch |
+| "Verjährung" | Hemmung durch Mängelverhandlungen § 203 BGB; Anerkenntnis des Mangels → Neubeginn § 212 BGB |
+| "Mangel durch Auftraggeber-Sphäre verursacht" | Beweislast beim Unternehmer nach Abnahme; Mitverschulden § 254 BGB prüfen |
 
 ## Fristen-Checkliste
 

@@ -1,13 +1,13 @@
 ---
 name: vollzugs-checkliste
-description: "Vollzugscheckliste für M&A-Transaktionen nach deutschem Recht – was blockiert den Vollzug (Closing), kritischer Pfad, Tage bis Vollzug. Selbstaktualisierend: nimmt neue Einträge aus DD-Findings und Anlage-Erstellung auf. Trigger: „Vollzugscheckliste\", „Closing-Checkliste\", „was fehlt noch zum Closing\", „Checklisten-Status\", „zur Checkliste hinzufügen\"."
+description: "Vollzugscheckliste für M&A-Transaktionen nach deutschem Recht – was blockiert den Vollzug (Closing), kritischer Pfad, Tage bis Vollzug. Selbstaktualisierend: nimmt neue Einträge aus DD-Findings und Anlage-Erstellung auf. Trigger: "Vollzugscheckliste\", "Closing-Checkliste\", "was fehlt noch zum Closing\", "Checklisten-Status\", "zur Checkliste hinzufügen\"."
 ---
 
 # Vollzugscheckliste M&A
 
 ## Kernsachverhalt
 
-In deutschen M&A-Transaktionen fallen Signing (Vertragsunterzeichnung) und Closing (Vollzug) regelmäßig auseinander. Die Zeitspanne zwischen beiden Ereignissen ist durch Vollzugsbedingungen (Conditions Precedent, „CPs") gefüllt, deren Erfüllung den Vollzug erst ermöglicht. Das Management dieser Bedingungen ist eine der zentralen anwaltlichen Aufgaben in der Closing-Phase.
+In deutschen M&A-Transaktionen fallen Signing (Vertragsunterzeichnung) und Closing (Vollzug) regelmäßig auseinander. Die Zeitspanne zwischen beiden Ereignissen ist durch Vollzugsbedingungen (Conditions Precedent, "CPs") gefüllt, deren Erfüllung den Vollzug erst ermöglicht. Das Management dieser Bedingungen ist eine der zentralen anwaltlichen Aufgaben in der Closing-Phase.
 
 Vollzugsbedingungen entstehen aus dem SPA (Share Purchase Agreement), aus regulatorischen Erfordernissen (Kartellrecht, Außenwirtschaft), aus gesellschaftsrechtlichen Zustimmungspflichten (§ 179a AktG, § 293 AktG) und aus den im Due-Diligence-Prozess identifizierten Risiken (Change-of-Control-Klauseln, Fremdfinanzierungsfreigaben, Gesellschafterbeschlüsse).
 
@@ -44,18 +44,18 @@ Vollzugsverbot bis Freigabe: § 41 Abs. 1 GWB — Angemeldete Zusammenschlüsse 
 > § 55 AWV: Bei Erwerb von Beteiligungen an deutschen Unternehmen durch Erwerber aus Drittstaaten (Nicht-EU/EWR) ab Überschreiten bestimmter Stimmrechtsschwellen (je nach Sektor 10–25 %) ist eine Prüfung durch das BMWK möglich. Prüffrist: 4 Monate nach Vollständigkeitserklärung des Antrags. In bestimmten Sektoren (kritische Infrastruktur, Energie, Telekommunikation, Gesundheit, Medien, Rüstung): strenge Prüfung nach §§ 60 ff. AWV. `[Modellwissen — aktuelle AWV-Sektoren und Schwellen beim BMWK verifizieren]`
 
 **§ 179a AktG — Übertragung des gesamten Gesellschaftsvermögens**
-> „Ein Rechtsgeschäft, durch das die Gesellschaft das zur Zeit des Abschlusses des Rechtsgeschäfts vorhandene Gesellschaftsvermögen insgesamt überträgt, bedarf eines Beschlusses der Hauptversammlung nach den Vorschriften über die Satzungsänderung."
+> "Ein Rechtsgeschäft, durch das die Gesellschaft das zur Zeit des Abschlusses des Rechtsgeschäfts vorhandene Gesellschaftsvermögen insgesamt überträgt, bedarf eines Beschlusses der Hauptversammlung nach den Vorschriften über die Satzungsänderung."
 
 Qualifizierte Mehrheit (§ 179 Abs. 2 AktG): 3/4 des vertretenen Grundkapitals. Notariell beurkundete Niederschrift (§ 130 Abs. 1 AktG).
 
 **§ 15 Abs. 3, 4 GmbHG — Abtretungsform**
-> § 15 Abs. 3 GmbHG: „Die Abtretung von Geschäftsanteilen und die Begründung von Rechten an Geschäftsanteilen bedürfen der Form des § 15 Abs. 3 GmbHG, also eines in notarieller Form geschlossenen Vertrages."
+> § 15 Abs. 3 GmbHG: "Die Abtretung von Geschäftsanteilen und die Begründung von Rechten an Geschäftsanteilen bedürfen der Form des § 15 Abs. 3 GmbHG, also eines in notarieller Form geschlossenen Vertrages."
 > § 15 Abs. 4 GmbHG: Eine ohne diese Form getroffene Vereinbarung wird mit dem Abschluss des formgerechten Vertrages gültig.
 
 **§ 313 BGB — Störung der Geschäftsgrundlage (MAC)**
-> „Hat sich die Geschäftsgrundlage eines Vertrages nach Vertragsschluss schwerwiegend verändert und hätten die Parteien den Vertrag nicht oder mit anderem Inhalt geschlossen, wenn sie diese Veränderung vorausgesehen hätten, so kann Anpassung des Vertrages verlangt werden."
+> "Hat sich die Geschäftsgrundlage eines Vertrages nach Vertragsschluss schwerwiegend verändert und hätten die Parteien den Vertrag nicht oder mit anderem Inhalt geschlossen, wenn sie diese Veränderung vorausgesehen hätten, so kann Anpassung des Vertrages verlangt werden."
 
-In deutschen SPA-Formulierungen wird MAC häufig als „wesentliche nachteilige Veränderung" oder über spezifische Auslösetatbestände definiert. § 313 BGB greift nur subsidiär; Vorrang des Vertrags.
+In deutschen SPA-Formulierungen wird MAC häufig als "wesentliche nachteilige Veränderung" oder über spezifische Auslösetatbestände definiert. § 313 BGB greift nur subsidiär; Vorrang des Vertrags.
 
 **§ 293 AktG — Unternehmensvertrag (Beherrschungs-/Gewinnabführungsvertrag)**
 > HV-Beschluss des Tochterunternehmens mit 3/4-Mehrheit; Zustimmung der Hauptversammlung des Mutterunternehmens nach § 293 Abs. 2 AktG.

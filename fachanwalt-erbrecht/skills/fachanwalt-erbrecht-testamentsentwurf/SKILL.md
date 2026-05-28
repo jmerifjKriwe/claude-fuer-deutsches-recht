@@ -43,7 +43,7 @@ Standardliteratur: Grüneberg BGB § 2247 ff.; MüKo-BGB / Leipold zu §§ 2247�
 
 | Klausel | Funktion | Hinweis |
 |---|---|---|
-| Erbeinsetzung Quote | Wer wird Erbe (§ 2087 Abs. 1 BGB) | „als Alleinerbe" oder „zu Quote x" — keine Einzelgegenstände ohne Quotenangabe |
+| Erbeinsetzung Quote | Wer wird Erbe (§ 2087 Abs. 1 BGB) | "als Alleinerbe" oder "zu Quote x" — keine Einzelgegenstände ohne Quotenangabe |
 | Vermächtnis | Einzelgegenstand schuldrechtlich (§ 1939 BGB) | Vermächtnisnehmer ist nicht Erbe |
 | Teilungsanordnung § 2048 BGB | Verteilung unter Erben | Berührt nicht die Quote |
 | Pflichtteilsstrafklausel | Wer Pflichtteil verlangt verliert Schlusserbenstellung | Üblich im Berliner Testament |

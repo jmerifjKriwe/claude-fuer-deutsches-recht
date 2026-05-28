@@ -13,4 +13,4 @@ Intern gilt: Einzelbestellungen über 8.000 EUR brutto sind vorher mit mir abzus
 
 Kunigunde Rabenhaupt
 
-Unter dem Text befindet sich eine handschriftliche Ergänzung von Hildebrand vom 15.04.2026: „Pressezubehör dringend, K. im Termin, später erklären.“
+Unter dem Text befindet sich eine handschriftliche Ergänzung von Hildebrand vom 15.04.2026: "Pressezubehör dringend, K. im Termin, später erklären."

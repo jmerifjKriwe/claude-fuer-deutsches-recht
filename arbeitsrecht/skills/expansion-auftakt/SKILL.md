@@ -1,6 +1,6 @@
 ---
 name: expansion-auftakt
-description: "Startet die Planung einer Neueinstellung in einem weiteren Bundesland oder einem neuen Zielland — erhebt die relevanten Eckdaten, rahmt die Entscheidung AÜG-Modell / EOR / eigene Gesellschaft, entwirft abteilungsübergreifende Fragen und legt einen persistenten Tracker an. Lädt, wenn jemand sagt „wir stellen in [Land/Region] ein\", „Expansion nach [Land]\" oder „erste Einstellung in [Land]\"."
+description: "Startet die Planung einer Neueinstellung in einem weiteren Bundesland oder einem neuen Zielland — erhebt die relevanten Eckdaten, rahmt die Entscheidung AÜG-Modell / EOR / eigene Gesellschaft, entwirft abteilungsübergreifende Fragen und legt einen persistenten Tracker an. Lädt, wenn jemand sagt "wir stellen in [Land/Region] ein\", "Expansion nach [Land]\" oder "erste Einstellung in [Land]\"."
 ---
 
 # Expansions-Kickoff (Arbeitsrecht)
@@ -14,11 +14,11 @@ rechtlicher Einheit, formuliert die richtigen Fragen für Steuerberatung, Finanz
 HR und externe Arbeitsrechtler und legt eine persistente Trackerdate an.
 
 Die Skill setzt voraus, dass die Expansionsentscheidung grundsätzlich gefallen ist.
-Sie ist kein Entscheidungsrahmen für „sollen wir überhaupt expandieren?".
+Sie ist kein Entscheidungsrahmen für "sollen wir überhaupt expandieren?".
 
 Lädt, wenn eine Einstellung in einer neuen Jurisdiktion begonnen wird — typische
-Auslöser: „erste Einstellung in Spanien", „Expansion nach Polen",
-„brauchen wir eine GmbH in den Niederlanden?".
+Auslöser: "erste Einstellung in Spanien", "Expansion nach Polen",
+"brauchen wir eine GmbH in den Niederlanden?".
 
 ## Eingaben
 
@@ -64,7 +64,7 @@ Eskalationstabelle, bestehende Expansionsnotizen.
 **Schritt 2 — Prüfung bestehender Tracker**
 
 Existiert bereits eine Tracker-Datei `expansion-[slug].yaml` für dieses Land?
-Falls ja: „Für [Land] existiert bereits ein Expansions-Tracker. Nutzen Sie
+Falls ja: "Für [Land] existiert bereits ein Expansions-Tracker. Nutzen Sie
 `/arbeitsrecht:expansion-aktualisierung [Land]` für eine Aktualisierung oder bestätigen
 Sie den Neustart."
 

@@ -19,7 +19,7 @@ für externe Arbeitsrechtler im Zielland und legt einen Tracker an, der das
 Projekt sitzungsübergreifend voranbringt.
 
 Die Skill setzt voraus, dass die Expansionsentscheidung gefallen ist. Sie ist
-kein Rahmen für „sollen wir expandieren?".
+kein Rahmen für "sollen wir expandieren?".
 
 Diese Skill enthält kein länderspezifisches Arbeitsrecht. Die materiellen
 Regelungen ändern sich häufig und variieren nach Rolle, Headcount und Branche —
@@ -144,7 +144,7 @@ Vertragsabschlussbefugnis umfassen — explizit flaggen:
 ### Schritt 3 — Abteilungsübergreifende Trigger
 
 Für jede einzubeziehende Funktion: was ist zu tun und welche konkreten Fragen
-sollte Legal stellen. Nicht nur „Finance einbinden" — die Anfrage formulieren.
+sollte Legal stellen. Nicht nur "Finance einbinden" — die Anfrage formulieren.
 
 **Steuerberatung** (immer vor der ersten Einstellung erforderlich)
 

@@ -35,7 +35,7 @@ Nutze diesen Skill, wenn Nutzungen und Zinsen ohne Doppelzählung erfasst werden
 
 ## Typische Fehler
 
-- „Geld ist weg“ als Ergebnis genügen lassen.
+- "Geld ist weg" als Ergebnis genügen lassen.
 - Surrogate und Ersparnisse übersehen.
 - Zinsen, Nutzungen und Wertersatz doppelt zählen.
 

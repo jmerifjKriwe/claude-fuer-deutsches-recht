@@ -35,7 +35,7 @@ Nutze diesen Skill, wenn eine nicht rückgabefähige Dienstleistung oder Nutzung
 
 ## Typische Fehler
 
-- „Geld ist weg“ als Ergebnis genügen lassen.
+- "Geld ist weg" als Ergebnis genügen lassen.
 - Surrogate und Ersparnisse übersehen.
 - Zinsen, Nutzungen und Wertersatz doppelt zählen.
 

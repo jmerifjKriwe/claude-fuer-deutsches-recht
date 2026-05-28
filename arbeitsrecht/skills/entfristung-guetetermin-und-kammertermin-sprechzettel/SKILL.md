@@ -41,15 +41,15 @@ description: "Sprechzettel für Guetetermin und Kammertermin in der Entfristungs
 **Was passiert:** Erster Termin vor dem Vorsitzenden allein. Ziel: gütliche Einigung. Kein Urteil möglich.
 
 ### Einstieg (wenn Richter nach dem Sachverhalt fragt)
-„Ich begehre die Feststellung, dass mein Arbeitsverhältnis nicht durch die Befristung im Vertrag vom [DATUM] zum [VEREINBARTES ENDE] beendet wurde. Die Befristung ist unwirksam, weil [HAUPTGRUND: z.B.: der Vertrag wurde über DocuSign digital unterzeichnet — die Schriftform nach § 14 Abs. 4 TzBfG ist damit nicht gewahrt]."
+"Ich begehre die Feststellung, dass mein Arbeitsverhältnis nicht durch die Befristung im Vertrag vom [DATUM] zum [VEREINBARTES ENDE] beendet wurde. Die Befristung ist unwirksam, weil [HAUPTGRUND: z.B.: der Vertrag wurde über DocuSign digital unterzeichnet — die Schriftform nach § 14 Abs. 4 TzBfG ist damit nicht gewahrt]."
 
 ### Bei Rückfragen zur Vertragsunterzeichnung
-„Ich erhielt den Vertrag per E-Mail / über das Online-Portal [NAME]. Ich habe ihn dort elektronisch unterschrieben. Eine Originalurkunde mit eigenhändiger Unterschrift habe ich nie erhalten."
+"Ich erhielt den Vertrag per E-Mail / über das Online-Portal [NAME]. Ich habe ihn dort elektronisch unterschrieben. Eine Originalurkunde mit eigenhändiger Unterschrift habe ich nie erhalten."
 
 ### Wenn Richter auf Vergleich drängt
 **Strategie:**
 1. Nicht sofort ablehnen — Erstvorschlag der Gegenseite erfragen
-2. Zahlen nicht spontan nennen — „Ich benötige kurz Bedenkzeit, bevor ich ein konkretes Angebot mache"
+2. Zahlen nicht spontan nennen — "Ich benötige kurz Bedenkzeit, bevor ich ein konkretes Angebot mache"
 3. Orientierung: 0.5 bis 1 Bruttomonatsverdienst pro Beschäftigungsjahr (analog KüSchK-Faustformel) + evtl. Aufschlag für starken Schriftformmangel-Fall
 4. Vergleich niemals unter Druck im Gütetermin unterschreiben — Checkliste `entfristung-vergleichsverhandlung-checkliste` durchgehen
 5. Befristungs-Prüfung: Vergleich enthält Beendigungsdatum? Dann Sperrzeit-Risiko bei der Arbeitsagentur prüfen (§ 159 SGB III)
@@ -57,18 +57,18 @@ description: "Sprechzettel für Guetetermin und Kammertermin in der Entfristungs
 ## Kammertermin (§ 57 ArbGG)
 
 ### Antragstellung (wenn Richter nach Anträgen fragt)
-„Ich halte meine Klageanträge vollumfänglich aufrecht. Ich beantrage:
+"Ich halte meine Klageanträge vollumfänglich aufrecht. Ich beantrage:
 1. Festzustellen, dass das Arbeitsverhältnis der Parteien über den [DATUM] hinaus als unbefristetes Arbeitsverhältnis fortbesteht.
 2. Die Beklagte zu verurteilen, mich als [BERUFSBEZEICHNUNG] zu unveränderten Arbeitsbedingungen weiterzubeschäftigen."
 
 ### Wenn Gegenseite behauptet, Vertrag sei ordnungsgemäß unterschrieben
-„Ich bestreite das. Die Unterzeichnung erfolgte digital über [PLATTFORM]. Das ist keine Schriftform nach § 14 Abs. 4 TzBfG i.V.m. § 126 BGB. Als Beweis biete ich an: [ANLAGE / ZEUGE]. Das BAG hat in ständiger Rechtsprechung klargestellt, dass beide Parteien dieselbe eigenhändig unterzeichnete Urkunde aufweisen müssen (BAG 7 AZR 198/04)."
+"Ich bestreite das. Die Unterzeichnung erfolgte digital über [PLATTFORM]. Das ist keine Schriftform nach § 14 Abs. 4 TzBfG i.V.m. § 126 BGB. Als Beweis biete ich an: [ANLAGE / ZEUGE]. Das BAG hat in ständiger Rechtsprechung klargestellt, dass beide Parteien dieselbe eigenhändig unterzeichnete Urkunde aufweisen müssen (BAG 7 AZR 198/04)."
 
 ### Wenn Sachgrund behauptet wird
-„Die Beklagte hat keinen konkreten Sachgrund nach § 14 Abs. 1 TzBfG dargelegt. Der behauptete [SACHGRUND] lag bei Vertragsschluss nicht vor / trägt die Befristungsdauer nicht. Der Arbeitgeber trägt die Darlegungs- und Beweislast für das Vorliegen des Sachgrunds."
+"Die Beklagte hat keinen konkreten Sachgrund nach § 14 Abs. 1 TzBfG dargelegt. Der behauptete [SACHGRUND] lag bei Vertragsschluss nicht vor / trägt die Befristungsdauer nicht. Der Arbeitgeber trägt die Darlegungs- und Beweislast für das Vorliegen des Sachgrunds."
 
 ### Wenn Gericht den Fall für schwach hält
-„Selbst wenn dem Gericht der Hauptantrag zweifelhaft erscheint, weise ich auf folgende alternative Angriffspunkte hin: [HILFSANTRAG — z.B. Vorbeschäftigungsverbot / fehlende Sachgrunddarlegung / Kettenbefristung]."
+"Selbst wenn dem Gericht der Hauptantrag zweifelhaft erscheint, weise ich auf folgende alternative Angriffspunkte hin: [HILFSANTRAG — z.B. Vorbeschäftigungsverbot / fehlende Sachgrunddarlegung / Kettenbefristung]."
 
 ## Kernargumente — Schriftformmangel (§ 14 Abs. 4 TzBfG)
 

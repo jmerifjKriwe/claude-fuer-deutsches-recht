@@ -35,7 +35,7 @@ description: "Insolvenzanfechtung nach §§ 129-147 InsO fachanwaltlich prüfen:
 
 ## Reformstand
 
-Der maßgebliche Reformstand für § 133, § 142, § 143 InsO ist das Gesetz zur Verbesserung der Rechtssicherheit bei Anfechtungen nach der Insolvenzordnung und nach dem Anfechtungsgesetz vom 29.03.2017, in Kraft seit 05.04.2017. Nicht als „SanInsFoG 2017“ bezeichnen.
+Der maßgebliche Reformstand für § 133, § 142, § 143 InsO ist das Gesetz zur Verbesserung der Rechtssicherheit bei Anfechtungen nach der Insolvenzordnung und nach dem Anfechtungsgesetz vom 29.03.2017, in Kraft seit 05.04.2017. Nicht als "SanInsFoG 2017" bezeichnen.
 
 Für vor dem 05.04.2017 eröffnete Verfahren Übergangsrecht prüfen. Für aktuelle Neufälle mit Eröffnung ab 05.04.2017 die heutige Fassung anwenden.
 

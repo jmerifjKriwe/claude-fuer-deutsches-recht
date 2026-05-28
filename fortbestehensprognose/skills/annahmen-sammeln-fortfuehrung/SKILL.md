@@ -155,7 +155,7 @@ annahmen:
 - `annahmen.yaml` mit allen Pflichtfeldern.
 - Hinweis auf Skill `annahmen-belastbarkeit-plausibilisieren` als nächsten Schritt.
 - Liste fehlender Belege als Prüfer-Flag.
-- Empfehlung: bei einer Annahme die als unbelegt markiert ist *nicht* in die Liquidität übernehmen — oder explizit als „Modellannahme ohne Beleg" markieren.
+- Empfehlung: bei einer Annahme die als unbelegt markiert ist *nicht* in die Liquidität übernehmen — oder explizit als "Modellannahme ohne Beleg" markieren.
 
 
 ## Aktuelle Leitentscheidungen — Annahmen-Sammlung Fortbestehensprognose

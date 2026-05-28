@@ -49,7 +49,7 @@ Qualified Financing mit Schwellenwerten, Maturity, Liquidation Event. Wandlungsp
 Vollständige Texte beidsprachig. § 6 mit BGH-Verweis auf Urt. v. 5. März 2015 – IX ZR 133/14.
 
 ### 6. Signaturblock
-Vier Blöcke: Gesellschaft (Geschäftsführerin), Gesellschafterin 1, Gesellschafterin 2, Darlehensgeber. DocuSign-Hinweis: „Dieser Vertrag kann mittels qualifizierter elektronischer Signatur (z. B. DocuSign) unterzeichnet werden."
+Vier Blöcke: Gesellschaft (Geschäftsführerin), Gesellschafterin 1, Gesellschafterin 2, Darlehensgeber. DocuSign-Hinweis: "Dieser Vertrag kann mittels qualifizierter elektronischer Signatur (z. B. DocuSign) unterzeichnet werden."
 
 ## Beispiel-Sprachklausel (§ 10.1)
 

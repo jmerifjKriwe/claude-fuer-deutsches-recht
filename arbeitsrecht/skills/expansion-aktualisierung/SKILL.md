@@ -88,9 +88,9 @@ Nächste Prioritäten (offene Punkte nach Fälligkeit / Abhängigkeit):
 Frage alle Änderungen in einem einzigen Block ab:
 
 > Welche Punkte haben sich seit der letzten Sitzung bewegt? Bitte schildern
-> Sie kurz die Änderungen (z. B. „EOR-Entscheidung getroffen — Anbieter ist
-> Deel", „externe Arbeitsrechtler beauftragt — Erstgespräch nächste Woche",
-> „Betriebsstättenanalyse noch offen, Steuerberater wartet auf Mandatserteilung").
+> Sie kurz die Änderungen (z. B. "EOR-Entscheidung getroffen — Anbieter ist
+> Deel", "externe Arbeitsrechtler beauftragt — Erstgespräch nächste Woche",
+> "Betriebsstättenanalyse noch offen, Steuerberater wartet auf Mandatserteilung").
 > Neue Punkte oder geänderte Fristen können ebenfalls mitgeteilt werden.
 
 **Schritt 4 — Updates anwenden**

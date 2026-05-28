@@ -36,7 +36,7 @@ Dieser Skill prüft Korrespondenz gezielt auf Einhaltung des anwaltlichen Kolleg
 
 ## Zulässige vs. unzulässige Kritik an Kollegen
 
-Zulässig ist sachlich begründete Kritik: „Der Schriftsatz Ihres Kollegen enthält keine ausreichende Auseinandersetzung mit der BGH-Rechtsprechung zu XY." Unzulässig ist persönliche Herabsetzung: „Ihr unfähiger Anwalt hat die Frist versäumt." Zulässig ist die Beschreibung eines Verfahrensfehlers: „Die Klagefrist wurde nicht gewahrt." Unzulässig ist die Qualifikation als persönliches Versagen: „Ihr Anwalt hat sein Handwerk nicht gelernt."
+Zulässig ist sachlich begründete Kritik: "Der Schriftsatz Ihres Kollegen enthält keine ausreichende Auseinandersetzung mit der BGH-Rechtsprechung zu XY." Unzulässig ist persönliche Herabsetzung: "Ihr unfähiger Anwalt hat die Frist versäumt." Zulässig ist die Beschreibung eines Verfahrensfehlers: "Die Klagefrist wurde nicht gewahrt." Unzulässig ist die Qualifikation als persönliches Versagen: "Ihr Anwalt hat sein Handwerk nicht gelernt."
 
 ## Besondere Problemfelder
 
@@ -52,14 +52,14 @@ Schritt 1: Kommt der Name oder die Berufsbezeichnung eines Kollegen im Schreiben
 
 ## Beispiele Vorher/Nachher
 
-**Vorher:** „Ihr unfähiger Anwalt hat meine Mandantin falsch beraten."
-**Nachher:** „Die Beratung Ihrer Mandantin durch den Kollegen hat nach meiner Einschätzung zu einem rechtlich nachteiligen Ergebnis geführt."
+**Vorher:** "Ihr unfähiger Anwalt hat meine Mandantin falsch beraten."
+**Nachher:** "Die Beratung Ihrer Mandantin durch den Kollegen hat nach meiner Einschätzung zu einem rechtlich nachteiligen Ergebnis geführt."
 
-**Vorher:** „Ihr Kollege versteht offenbar nicht, was ein Erfüllungsanspruch ist."
-**Nachher:** „Die rechtliche Einordnung im Schreiben des Kollegen weicht von der geltenden Dogmatik ab."
+**Vorher:** "Ihr Kollege versteht offenbar nicht, was ein Erfüllungsanspruch ist."
+**Nachher:** "Die rechtliche Einordnung im Schreiben des Kollegen weicht von der geltenden Dogmatik ab."
 
-**Vorher:** „Der Herr Kollege sollte vielleicht nochmal die Grundlagen studieren."
-**Nachher:** Streichen oder ersetzen durch: „Ich erlaube mir, auf folgende Rechtsprechung hinzuweisen, die für den Sachverhalt einschlägig sein dürfte..."
+**Vorher:** "Der Herr Kollege sollte vielleicht nochmal die Grundlagen studieren."
+**Nachher:** Streichen oder ersetzen durch: "Ich erlaube mir, auf folgende Rechtsprechung hinzuweisen, die für den Sachverhalt einschlägig sein dürfte..."
 
 ## Ausgabeformat
 

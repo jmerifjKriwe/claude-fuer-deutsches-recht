@@ -58,8 +58,8 @@ Kurze Änderungsbestätigung:
 Geändert: [Abschnitt]
 Alter Wert: [Wert]
 Neuer Wert: [Wert]
-Rechtsgrundlage der Änderung: [Norm oder „organisatorische Entscheidung"]
-Folgeaktionen: [z.B. „Datenschutzerklärung prüfen, ob Änderung dort sichtbar werden muss"]
+Rechtsgrundlage der Änderung: [Norm oder "organisatorische Entscheidung"]
+Folgeaktionen: [z.B. "Datenschutzerklärung prüfen, ob Änderung dort sichtbar werden muss"]
 ```
 
 ## Beispiel

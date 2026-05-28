@@ -102,7 +102,7 @@ Arbeitnehmer können wählen:
 SOZIALPLAN — MODUL BETRIEBLICHE ALTERSVERSORGUNG
 gem. § 112 Abs. 1 BetrVG
 
-zwischen der [Konzern Muster AG] (nachfolgend „Unternehmen")
+zwischen der [Konzern Muster AG] (nachfolgend "Unternehmen")
 und dem Betriebsrat der [Konzern Muster AG]
 
 § 1 Anwendungsbereich dieses Moduls

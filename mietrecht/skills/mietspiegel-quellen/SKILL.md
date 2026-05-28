@@ -40,10 +40,10 @@ Wenn etwas fehlt, einmal nachfragen — niemals raten.
 In `references/mietspiegel-quellen.md`:
 
 1. Bundesland-Abschnitt aufschlagen — landesweite Mietpreisbremse-, Kappungsgrenzen- und Kündigungssperrfrist-Verordnung notieren.
-2. Stadt im Abschnitt „20 größte Städte" oder „25 Universitätsstädte" suchen. Wenn nicht enthalten: Bundesland-Sektion nutzen und die amtliche Stadtseite über die dort verlinkte Landesseite suchen.
+2. Stadt im Abschnitt "20 größte Städte" oder "25 Universitätsstädte" suchen. Wenn nicht enthalten: Bundesland-Sektion nutzen und die amtliche Stadtseite über die dort verlinkte Landesseite suchen.
 3. Mietspiegel-Typ (qualifiziert nach § 558d BGB / einfach nach § 558c BGB) und Stand-Jahr ablesen.
 
-Wenn das Stand-Jahr in der Referenz mit „Stand-Jahr bitte amtliche Stadtdokumente vor Ort prüfen" notiert ist: einmal die verlinkte amtliche Stadtseite öffnen und das aktuelle Stand-Jahr nachtragen — die Referenz ist Stand Mai 2026 und wird zu jedem Halbjahres-Release nachgepflegt.
+Wenn das Stand-Jahr in der Referenz mit "Stand-Jahr bitte amtliche Stadtdokumente vor Ort prüfen" notiert ist: einmal die verlinkte amtliche Stadtseite öffnen und das aktuelle Stand-Jahr nachtragen — die Referenz ist Stand Mai 2026 und wird zu jedem Halbjahres-Release nachgepflegt.
 
 ### Schritt 3 — Wohnlage und Ausstattung ermitteln
 
@@ -62,7 +62,7 @@ Wenn das Stand-Jahr in der Referenz mit „Stand-Jahr bitte amtliche Stadtdokume
 
 Nur, wenn das Mietverhältnis nach Inkrafttreten der einschlägigen Landes-Mietenbegrenzungsverordnung neu begründet wurde.
 
-1. Liegt die Adresse in einem Gebiet mit „angespanntem Wohnungsmarkt" nach Landesverordnung? Verordnung aus der Referenz heraussuchen.
+1. Liegt die Adresse in einem Gebiet mit "angespanntem Wohnungsmarkt" nach Landesverordnung? Verordnung aus der Referenz heraussuchen.
 2. **Höchstmiete** = ortsübliche Vergleichsmiete (Schritt 4) + 10 % (§ 556d Abs. 1 BGB).
 3. **Vormiete** (§ 556e BGB) und **Modernisierungs-Ausnahme** (§ 556e Abs. 2 BGB) und **Erstvermietung-nach-Neubau-Ausnahme** (§ 556f BGB, Baufertigstellung ab 01.10.2014 / umfassend modernisiert) prüfen — Ergebnis kann höher liegen als 10 % über ortsüblicher Vergleichsmiete.
 4. Wenn die vereinbarte Miete die Höchstmiete übersteigt: Rüge nach § 556g Abs. 2 BGB ist erforderlich; die Folgeskills `mieteranfragen-beantworten` und `klageentwurf-amtsgericht` setzen darauf auf.
@@ -72,7 +72,7 @@ Nur, wenn das Mietverhältnis nach Inkrafttreten der einschlägigen Landes-Miete
 Nur bei einer Mieterhöhung im Bestand nach § 558 BGB.
 
 1. **Regelobergrenze**: 20 % in drei Jahren (§ 558 Abs. 3 Satz 1 BGB).
-2. **Verschärfte Grenze**: 15 % in drei Jahren, wenn die Gemeinde durch Landesverordnung („Kappungsgrenzenverordnung") als angespannt ausgewiesen ist (§ 558 Abs. 3 Satz 2 BGB). Verordnung aus der Referenz heraussuchen.
+2. **Verschärfte Grenze**: 15 % in drei Jahren, wenn die Gemeinde durch Landesverordnung ("Kappungsgrenzenverordnung") als angespannt ausgewiesen ist (§ 558 Abs. 3 Satz 2 BGB). Verordnung aus der Referenz heraussuchen.
 3. **Wartefrist** (§ 558 Abs. 1 Satz 2 BGB): 12 Monate seit der letzten Mieterhöhung und 15 Monate seit Mietbeginn.
 4. **Begründungsmittel** (§ 558a Abs. 2 BGB): qualifizierter oder einfacher Mietspiegel, Sachverständigengutachten, drei Vergleichswohnungen.
 
@@ -145,9 +145,9 @@ mietspiegel_pruefung:
 
 **Schritt 2** — Bayern hat eine Mietenbegrenzungsverordnung und eine Kappungsgrenzenverordnung. München ist ein angespannter Markt; Kappungsgrenze daher 15 %. Mietspiegel München: qualifiziert nach § 558d BGB, Stand 2025.
 
-**Schritt 3** — Wohnlage „gut" (über das städtische Geoportal verifiziert). Ausstattung: drei Sondermerkmale erfüllt (mod. Bad, EBK, Aufzug).
+**Schritt 3** — Wohnlage "gut" (über das städtische Geoportal verifiziert). Ausstattung: drei Sondermerkmale erfüllt (mod. Bad, EBK, Aufzug).
 
-**Schritt 4** — Tabellenzelle „70–90 m², Baujahr 1949–1977, gute Wohnlage" Mittelwert (illustrativ) 15,80 €/m², Spanne 13,40–17,20 €/m². Sondermerkmals-Zuschlag (illustrativ) +0,90 €/m². Ortsübliche Vergleichsmiete für diese Wohnung: **ca. 16,70 €/m²**.
+**Schritt 4** — Tabellenzelle "70–90 m², Baujahr 1949–1977, gute Wohnlage" Mittelwert (illustrativ) 15,80 €/m², Spanne 13,40–17,20 €/m². Sondermerkmals-Zuschlag (illustrativ) +0,90 €/m². Ortsübliche Vergleichsmiete für diese Wohnung: **ca. 16,70 €/m²**.
 
 **Schritt 6** — Kappungsgrenze: 14,74 €/m² × 1,15 = **16,95 €/m²** (verschärfte 15-%-Grenze in München). Die verlangte Miete von 17,69 €/m² übersteigt die Kappungsgrenze. Ergebnis: **unzulässig** in der Höhe. Maximal zulässig wären rechnerisch 16,70 €/m² (Vergleichsmiete) bzw. 16,95 €/m² (Kappungsgrenze), Untergrenze gewinnt → **ca. 16,70 €/m² = 1.302,60 € Gesamtmiete**.
 

@@ -34,7 +34,7 @@ Dokumentation: Auflistung aller Produkte, die als Substitute behauptet werden, m
 
 Checkliste zu trennenden Merkmalen:
 - Technische Standards und Normen (z.B. Medizinproduktezulassung)
-- Marken- und Wahrnehmungsunterschiede (sog. „commercial reality")
+- Marken- und Wahrnehmungsunterschiede (sog. "commercial reality")
 - Regulatorische Anforderungen für Einsatz des Produkts
 - Kundensegmentierung (Konsumenten vs. professionelle Verwender)
 

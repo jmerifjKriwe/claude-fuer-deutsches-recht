@@ -67,7 +67,7 @@ Bund darf nur, wenn und soweit die Herstellung gleichwertiger Lebensverhältniss
 
 **Leitentscheidungen:**
 
-- Altenpflege BVerfGE 106, 62 (strenge Prüfung der Erforderlichkeit, „erforderlich" nicht gleich „zweckmäßig")
+- Altenpflege BVerfGE 106, 62 (strenge Prüfung der Erforderlichkeit, "erforderlich" nicht gleich "zweckmäßig")
 - Juniorprofessur BVerfGE 111, 226 (Bundeszuständigkeit zur Hochschulgesetzgebung war nicht erforderlich)
 
 #### 4c. Abweichungsgesetzgebung Art. 72 Abs. 3 GG

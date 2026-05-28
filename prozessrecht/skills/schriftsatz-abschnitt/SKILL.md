@@ -12,7 +12,7 @@ Entwurf einzelner Abschnitte eines Schriftsatzes – Klageschrift, Klageerwideru
 ## Eingaben
 
 - Aktives Mandat (Slug) mit mandat.md und verlauf.md
-- Bezeichnung des gewünschten Abschnitts (z. B. „Sachverhaltsdarstellung", „Rechtliche Ausführungen zu Klageantrag 1", „Berufungsangriff I: Übergangener Beweisantrag")
+- Bezeichnung des gewünschten Abschnitts (z. B. "Sachverhaltsdarstellung", "Rechtliche Ausführungen zu Klageantrag 1", "Berufungsangriff I: Übergangener Beweisantrag")
 - Anspruchstabelle (falls vorhanden, aus `/anspruchstabelle`)
 - Chronologie (falls vorhanden, aus `/chronologie`)
 - Beizufügende Dokumente / Anlagen (Vertrag, Schriftverkehr, Sachverständigengutachten)
@@ -58,7 +58,7 @@ Einschlägige Kommentare und Rechtsprechung:
 
 Schriftsatzformat im deutschen Standard:
 1. **Rubrum** (Gericht, Parteien, Az., Datum) – sofern vollständiger Schriftsatz
-2. **Abschnittsüberschrift** (z. B. „I. Sachverhaltsdarstellung", „III. Zum Berufungsangriff")
+2. **Abschnittsüberschrift** (z. B. "I. Sachverhaltsdarstellung", "III. Zum Berufungsangriff")
 3. **Fließtext im Urteilsstil** mit Randnummern (fakultativ)
 4. **Beweisangebote** am Ende jedes bestrittenen Tatsachenblocks
 5. **Lücken-Notizen** in Klammern: `[LÜCKE: Beleg für Fristversäumnis fehlt]`
@@ -86,7 +86,7 @@ Schriftsatzformat im deutschen Standard:
 ---
 
 <!-- AUDIT 27.05.2026
-Problem : BGH VI ZR 73/20, NJW 2021, 1886 Rn. 15 (« neue Angriffsmittel § 531 ZPO ») – Zitatfehler (WRONG_TOPIC). Das Urteil behandelt Verletzung des allgemeinen Persönlichkeitsrechts / Bestimmtheit Klageantrags bei Erstbegehungsgefahr (NJW 2021, 1756), nicht neue Angriffsmittel nach § 531 ZPO (dejure.org/2021,4358). Eintrag ersatzlos gelöscht; kein verifizierbarer Ersatz mit identischem NJW-Fundstelle ermittelt.
+Problem : BGH VI ZR 73/20, NJW 2021, 1886 Rn. 15 (" neue Angriffsmittel § 531 ZPO ") – Zitatfehler (WRONG_TOPIC). Das Urteil behandelt Verletzung des allgemeinen Persönlichkeitsrechts / Bestimmtheit Klageantrags bei Erstbegehungsgefahr (NJW 2021, 1756), nicht neue Angriffsmittel nach § 531 ZPO (dejure.org/2021,4358). Eintrag ersatzlos gelöscht; kein verifizierbarer Ersatz mit identischem NJW-Fundstelle ermittelt.
 Quelle   : https://dejure.org/2021,4358
 Aktion   : Zeile entfernt
 -->

@@ -42,7 +42,7 @@ Dieser Skill ermöglicht die gezielte Anpassung einzelner Abschnitte des Kanzlei
   - `--registries` — Registry-Watchlist erweitern oder kürzen
   - `--updates` — Update-Kadenz und Benachrichtigungseinstellungen
   - `--tom` — TOM-Dokumentation und Datenschutzhinweise
-  - Oder frei: „Ich möchte Rechtsanwalt X als neuen Ansprechpartner eintragen"
+  - Oder frei: "Ich möchte Rechtsanwalt X als neuen Ansprechpartner eintragen"
 - Aktuelles Kanzleiprofil: `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md`
 - Geteiltes Kanzleiprofil: `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-profil.md`
 
@@ -75,7 +75,7 @@ Neuen Wert vom Nutzer einholen. Wenn der Nutzer einen Wert eingibt, der potenzie
 - Verarbeitungsverzeichnis-Eintrag nach Art. 30 DSGVO vorhanden (ja/nein/in Bearbeitung)
 - Datenschutz-Folgenabschätzung nach Art. 35 DSGVO durchgeführt (ja/nein/nicht erforderlich)
 - AVV nach Art. 28 DSGVO mit KI-Infrastrukturanbieter geschlossen (ja/nein/in Verhandlung)
-- Zuständiger Datenschutzbeauftragter (Name oder „kein DSB bestellt")
+- Zuständiger Datenschutzbeauftragter (Name oder "kein DSB bestellt")
 - Letztes TOM-Review-Datum
 
 ### Schritt 5: Positivliste anpassen (bei --positivliste)
@@ -86,7 +86,7 @@ Bei Positivliste-Änderungen:
 1. URL validieren (muss `https://` sein, valider Hostname)
 2. Prüfen, ob es sich um ein Kanzlei-Skills-Repository handelt (hat `skills/` oder `.claude-plugin/`)
 3. Zur `positivliste.yaml` und zum CLAUDE.md-Watchlist-Abschnitt hinzufügen
-4. Sicherheitshinweis: „Hinzugefügte Registries können Skills bereitstellen, die auf Mandantendaten zugreifen. Stellen Sie sicher, dass Sie der Registry vertrauen."
+4. Sicherheitshinweis: "Hinzugefügte Registries können Skills bereitstellen, die auf Mandantendaten zugreifen. Stellen Sie sicher, dass Sie der Registry vertrauen."
 
 **Publisher hinzufügen:**
 1. GitHub-Organisation oder Nutzernamen erfassen
@@ -96,12 +96,12 @@ Bei Positivliste-Änderungen:
 **Modus-Wechsel (restrictive ↔ permissive):**
 - Bei Wechsel nach `restrictive`: Alle vorhandenen installierten Skills sind weiterhin nutzbar, aber neue Installationen erfordern Positivliste-Eintrag.
 - Bei Wechsel nach `permissive`: **Explizit auf erhöhtes Risiko hinweisen:**
-  > „Permissiver Modus warnt bei unbekannten Quellen, blockiert sie aber nicht. Für Kanzleibetrieb mit Mandantendaten wird `restrictive` empfohlen (Art. 32 DSGVO, Datensicherheit). Bestätigen Sie mit 'ja' um fortzufahren."
+  > "Permissiver Modus warnt bei unbekannten Quellen, blockiert sie aber nicht. Für Kanzleibetrieb mit Mandantendaten wird `restrictive` empfohlen (Art. 32 DSGVO, Datensicherheit). Bestätigen Sie mit 'ja' um fortzufahren."
 - Niemals `permissive` ohne explizite Nutzerbestätigung schreiben.
 
 ### Schritt 6: Änderung bestätigen und schreiben
 
-Geänderten Abschnitt vollständig anzeigen und Bestätigung einholen: „Änderung speichern? (ja / nein)"
+Geänderten Abschnitt vollständig anzeigen und Bestätigung einholen: "Änderung speichern? (ja / nein)"
 
 Nur nach explizitem `ja` schreiben.
 

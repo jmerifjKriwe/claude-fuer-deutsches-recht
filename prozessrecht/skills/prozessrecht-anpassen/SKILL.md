@@ -38,7 +38,7 @@ Gezielte Änderung einzelner Felder des Praxisprofils in CLAUDE.md, ohne den ges
 
 ## Eingaben
 
-- Eines oder mehrere zu ändernde Felder (z. B. „Schwerpunkt auf Strafrecht hinzufügen", „Outlook MCP aktivieren")
+- Eines oder mehrere zu ändernde Felder (z. B. "Schwerpunkt auf Strafrecht hinzufügen", "Outlook MCP aktivieren")
 - Optional: `--alle` – zeigt alle aktuellen Einstellungen zur Auswahl
 
 ## Ablauf

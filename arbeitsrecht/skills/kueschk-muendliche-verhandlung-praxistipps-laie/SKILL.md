@@ -25,17 +25,17 @@ Mindestens 15 Minuten vor dem Termin am Gericht. Sicherheitskontrollen einrechne
 ## Im Sitzungssaal
 
 **Anrede des Gerichts:**
-- Vorsitzender: „Herr Vorsitzender" / „Frau Vorsitzende"
-- Gericht insgesamt: „Das Gericht" oder indirekt ansprechen
+- Vorsitzender: "Herr Vorsitzender" / "Frau Vorsitzende"
+- Gericht insgesamt: "Das Gericht" oder indirekt ansprechen
 
 **Aufstehen:**
-Wenn das Gericht den Saal betritt, stehen alle auf. Wenn der Richter „Bitte Platz nehmen" sagt, setzen.
+Wenn das Gericht den Saal betritt, stehen alle auf. Wenn der Richter "Bitte Platz nehmen" sagt, setzen.
 
 **Nur reden wenn man dazu aufgefordert wird:**
 Nicht spontan dazwischenrufen, auch wenn die Gegenseite etwas Falsches sagt. Den eigenen Redebeitrag abwarten.
 
 **Wenn du etwas nicht verstehst:**
-Höflich nachfragen: „Entschuldigung, könnten Sie das bitte wiederholen?"
+Höflich nachfragen: "Entschuldigung, könnten Sie das bitte wiederholen?"
 
 ## Emotionen unter Kontrolle halten
 
@@ -47,12 +47,12 @@ Kündigungsschutzprozesse sind emotional belastend. Ärger und Aufregung sind ve
 ## Was tun wenn Vergleich vorgeschlagen wird?
 
 **Typische Situation im Gütetermin:**
-Der Richter fragt: „Wären beide Seiten bereit, über eine einvernehmliche Lösung nachzudenken?"
+Der Richter fragt: "Wären beide Seiten bereit, über eine einvernehmliche Lösung nachzudenken?"
 
 **Deine Reaktion:**
 1. Nicht sofort zusagen oder ablehnen
-2. Fragen: „Was wäre der Inhalt eines solchen Vergleichs?"
-3. Wenn Zahlen oder Bedingungen genannt werden: „Ich bitte um kurze Unterbrechung / um Bedenkzeit bis [DATUM], um das prüfen zu können."
+2. Fragen: "Was wäre der Inhalt eines solchen Vergleichs?"
+3. Wenn Zahlen oder Bedingungen genannt werden: "Ich bitte um kurze Unterbrechung / um Bedenkzeit bis [DATUM], um das prüfen zu können."
 4. Alle Punkte des Vergleichs schriftlich festhalten (Skill `kueschk-vergleichsverhandlung-checkliste`)
 
 **Kein Vergleich unter Druck:**

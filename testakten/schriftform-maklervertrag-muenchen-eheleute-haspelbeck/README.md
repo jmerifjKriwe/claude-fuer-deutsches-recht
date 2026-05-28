@@ -46,7 +46,7 @@ München-Bogenhausen zum Kaufpreis von EUR 617.000,00 an.
 Im Verlauf des E-Mail-Austauschs enthielt die Signatur einer ihrer Mails (E-Mail Nr. 2/8
 vom 03.04.2023) folgenden Hinweis:
 
-> *„Unser Honorar betraegt maximal drei Komma sieben Prozent des Kaufpreises (zzgl. gesetzl.
+> *"Unser Honorar betraegt maximal drei Komma sieben Prozent des Kaufpreises (zzgl. gesetzl.
 > MwSt.) gemäß gesetzlicher Courtagefreiheit des Verkaeufers. Bezug: Ihr Anfrageobjekt."*
 
 Weder war das Objekt namentlich bezeichnet, noch war eine Provision der Höhe nach
@@ -76,7 +76,7 @@ Trotzenburg, die Klage am 14.09.2023 einreichte.
 | Provision (brutto) | + 19 % USt = EUR 8.737,34 |
 | Tatsächlich gezahlt | EUR 8.810,76 (Streitwert) |
 | Formerfordernis | § 656a BGB: Textform (§ 126b BGB) für Maklervertrag bei EFH-Vermittlung |
-| Kernfrage | Genügt Signaturhinweis mit „maximal 3,7 %" und ohne Objektbezeichnung den Anforderungen des § 656a BGB i.V.m. § 126b BGB? |
+| Kernfrage | Genügt Signaturhinweis mit "maximal 3,7 %" und ohne Objektbezeichnung den Anforderungen des § 656a BGB i.V.m. § 126b BGB? |
 | **BGH-Antwort (I ZR 202/25, 11.03.2026)** | **NEIN** — Revision der Beklagten zurückgewiesen |
 | Rückforderungsgrundlage | § 812 Abs. 1 Satz 1 Alt. 1 BGB (Leistungskondiktion) |
 | Zinsen | § 288 BGB, 5 Prozentpunkte über Basiszinssatz, ab 12.08.2023 |
@@ -124,7 +124,7 @@ Trotzenburg, die Klage am 14.09.2023 einreichte.
 | `Memo_Anwalt_an_Mandant_Risiko-Einschaetzung.pdf` | PDF | Internes Anwaltsmemo Dr. Hagelbrand an Mandanten, 14.03.2026 | Post-BGH-Urteil; Handlungsempfehlungen, Zwangsvollstreckung |
 | `Aufstellung_Provisionsstreitwert.xlsx` | Excel | Streitwertaufstellung, Zeithonorare, RVG-Vergleich, Zinsberechnung | 2 Tabellenblätter; Formeln, Summenzeilen, bedingte Formatierung |
 | `Notiz_Erstgespraech_Haspelbeck.txt` | Text | Rohe Anwaltsnotiz vom Erstgespräch 15.08.2023 | Chaotisch, mit Mandanten-O-Tönen, internen Einschätzungen |
-| `Chatverlauf_Haspelbeck_Anwalt_2023-05-12.md` | Text | Beschreibung WhatsApp-Chat Walburga ↔ Korbinian (12.05.2023 während Notartermin) | Belegt fehlende Kenntnis Walburgas zur Provision; „Waaaas?!" |
+| `Chatverlauf_Haspelbeck_Anwalt_2023-05-12.md` | Text | Beschreibung WhatsApp-Chat Walburga ↔ Korbinian (12.05.2023 während Notartermin) | Belegt fehlende Kenntnis Walburgas zur Provision; "Waaaas?!" |
 
 ---
 
@@ -138,7 +138,7 @@ i.V.m. § 126b BGB?**
 
 Dazu sind zu prüfen:
 - Ist das Objekt konkret bezeichnet? (→ Nein)
-- Ist die Provisionshöhe bestimmt oder bestimmbar? (→ Nein, nur „maximal 3,7 %")
+- Ist die Provisionshöhe bestimmt oder bestimmbar? (→ Nein, nur "maximal 3,7 %")
 - Ist die Erklärung der Person des Empfängers zugänglich und dauerhaft reproduzierbar? (§ 126b BGB)
 - Trägt die Erklärung die Person des Erklärenden? (→ Signatur in Fußzeile; problematisch)
 
@@ -153,7 +153,7 @@ Anhand der Notarklausel in Abschnitt V des Kaufvertrags muss der Skill beurteile
 
 ### 3. Bereicherungsrechtliche Rückabwicklung (§ 812 BGB)
 
-- Voraussetzungen der Leistungskondiktion: „ohne rechtlichen Grund" (§ 656a BGB-Formmangel = kein wirksamer Maklervertrag)
+- Voraussetzungen der Leistungskondiktion: "ohne rechtlichen Grund" (§ 656a BGB-Formmangel = kein wirksamer Maklervertrag)
 - Kein Wertersatz nach § 818 Abs. 2 BGB (Leitsatz 3 BGH I ZR 202/25)
 - § 242 BGB (venire contra factum proprium) greift nicht, obwohl Mandanten die Besichtigung
   nutzen (Leitsatz 4)

@@ -50,12 +50,12 @@ Das Modell benötigt:
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 22.10.2009 – I ZR 58/07, GRUR 2010, 253 Rn. 15 ff. – „Fischdose":
+- BGH, Urt. v. 22.10.2009 – I ZR 58/07, GRUR 2010, 253 Rn. 15 ff. – "Fischdose":
   Zum Verfügungsgrund im UWG-Recht; die Dringlichkeitsvermutung des § 12 Abs. 1 UWG entfällt,
   wenn der Antragsteller durch eigenes Zögern zeigt, dass er die Sache selbst nicht für dringlich
   hält; eigenes widersprüchliches Verhalten (Selbstwiderlegung der Dringlichkeit) begründet die
   Unzulässigkeit des Antrags.
-- BVerfG, Beschl. v. 30.09.2018 – 1 BvR 1783/17, NJW 2018, 3631 Rn. 20 ff. – „Waffengleichheit":
+- BVerfG, Beschl. v. 30.09.2018 – 1 BvR 1783/17, NJW 2018, 3631 Rn. 20 ff. – "Waffengleichheit":
   Gebietet Art. 103 Abs. 1 GG, dem Antragsgegner vor Erlass einer einstweiligen Verfügung
   rechtliches Gehör zu gewähren, sofern dies ohne Rechtsnachteile für den Antragsteller möglich
   ist; nur bei echter Dringlichkeit ist eine Beschlussverfügung ohne Anhörung verfassungsgemäß.
@@ -89,12 +89,12 @@ Das Modell benötigt:
    - § 935 ZPO: Gefährdung durch Veränderung des bestehenden Zustands
    - § 940 ZPO: Notwendigkeit zur Abwendung wesentlicher Nachteile
    - UWG: Dringlichkeitsvermutung (§ 12 Abs. 1 UWG), aber Selbstwiderlegung prüfen
-     (BGH – „Fischdose")
+     (BGH – "Fischdose")
 3. **Glaubhaftmachung** (§ 294 ZPO): Eidesstattliche Versicherung des Antragstellers
    über Sachverhalt und Kenntnis; Urkunden, Screenshots mit Datumsstempel beifügen.
 4. **Antragstellung** beim zuständigen LG:
    - Beschlussantrag (ohne mündliche Verhandlung; nur bei echter Dringlichkeit;
-     BVerfG – „Waffengleichheit" beachten)
+     BVerfG – "Waffengleichheit" beachten)
    - Urteilsantrag nach mündlicher Verhandlung (Regelfall § 937 Abs. 2 ZPO)
 5. **Vollziehung** (§ 929 Abs. 2 ZPO analog): Innerhalb 1 Monat ab Erlass zustellen lassen;
    bei Beschlussverfügung: Zustellung durch Gerichtsvollzieher oder per Anwaltszustellung.
@@ -140,14 +140,14 @@ Urteilsverfügung nach mündlicher Verhandlung beantragen, um § 945 ZPO-Risiko 
 ## Risiken und typische Fehler
 
 - **Selbstwiderlegung der Dringlichkeit**: Antragsteller hat seit mehr als 1 Monat Kenntnis
-  und wartet → Verfügungsgrund entfällt (BGH – „Fischdose").
+  und wartet → Verfügungsgrund entfällt (BGH – "Fischdose").
 - **§ 945 ZPO-Haftung**: Antragsteller haftet verschuldensunabhängig, wenn Verfügung von
   Anfang an ungerechtfertigt war (BGH, Urt. v. 01.06.2006 – IX ZR 183/04, NJW 2006, 3783);
   Abwägung des Prozessrisikos vor Antragstellung!
 - **Fehlende Vollziehung** (§ 929 Abs. 2 ZPO analog): Beschlussverfügung nicht binnen 1 Monat
   zugestellt → Verfügung wird wirkungslos; neue Antragstellung erforderlich.
 - **Zu weit gefasste Verfügungsanträge**: Klageantrag muss hinreichend bestimmt sein (§ 253
-  Abs. 2 Nr. 2 ZPO); Vorsicht bei „insbesondere"-Anträgen.
+  Abs. 2 Nr. 2 ZPO); Vorsicht bei "insbesondere"-Anträgen.
 - **Kein Schutz durch Schutzschrift**: Schutzschrift läuft nach 6 Monaten ab (§ 945a Abs. 3
   ZPO); rechtzeitige Verlängerung beachten.
 - **Berufsrecht**: § 43a Abs. 2 BRAO – keine Interessenkollision bei paralleler Abmahnung

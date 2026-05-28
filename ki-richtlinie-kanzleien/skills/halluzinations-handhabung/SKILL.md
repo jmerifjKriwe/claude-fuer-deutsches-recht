@@ -5,7 +5,7 @@ description: "Halluzinationen von KI in juristischer Arbeit erkennen und Prozess
 
 # Halluzinations-Handhabung
 
-Das sogenannte „Halluzinieren" von KI-Systemen — die Erzeugung von nicht existierenden, aber plausibel wirkenden Zitaten, Gerichtsentscheidungen und Fundstellen — ist das größte praktische Haftungsrisiko beim Einsatz von KI-Systemen in der anwaltlichen Arbeit. Die eiserne Regel lautet: Jede einzelne Fundstelle aus einem KI-System ist ausnahmslos zu verifizieren.
+Das sogenannte "Halluzinieren" von KI-Systemen — die Erzeugung von nicht existierenden, aber plausibel wirkenden Zitaten, Gerichtsentscheidungen und Fundstellen — ist das größte praktische Haftungsrisiko beim Einsatz von KI-Systemen in der anwaltlichen Arbeit. Die eiserne Regel lautet: Jede einzelne Fundstelle aus einem KI-System ist ausnahmslos zu verifizieren.
 
 ## Rechtlicher Hintergrund
 

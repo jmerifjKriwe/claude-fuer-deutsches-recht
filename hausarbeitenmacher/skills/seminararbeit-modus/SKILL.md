@@ -77,7 +77,7 @@ Wenn die Lehrkraft Auffassung A vertritt:
 
 **Wichtig**: Wenn Du Auffassung A widersprichst, ist das **erlaubt und wertvoll**, **wenn**:
 1. Du Auffassung A vorher fair, gründlich und mit ihren stärksten Argumenten dargestellt hast.
-2. Deine Gegen-Argumente substantiell sind (nicht: „Das überzeugt nicht.").
+2. Deine Gegen-Argumente substantiell sind (nicht: "Das überzeugt nicht.").
 3. Du Auffassung A nicht persönlich angreifst, sondern sachlich diskutierst.
 
 ## Schritt 3 — Aufbau einer Seminararbeit
@@ -103,7 +103,7 @@ C. Schluss
 
 ### Charakteristisch für Seminararbeit
 
-- **Eigene These** am Ende des Einleitungsteils: „In der vorliegenden Arbeit wird vertreten, dass…"
+- **Eigene These** am Ende des Einleitungsteils: "In der vorliegenden Arbeit wird vertreten, dass…"
 - **Literaturschau** breiter und tiefer als in der Hausarbeit
 - Häufig **Rechtsvergleichung** (deutsches Recht ↔ EU / Common Law / österreichisches Recht)
 - Häufig **rechtshistorische** oder **rechtspolitische** Bezüge
@@ -113,14 +113,14 @@ C. Schluss
 
 ### Was eine gute Forschungsfrage auszeichnet
 
-- **Konkret**: Nicht „Das Mietrecht", sondern „Reicht das BGB-Mietrecht zur Bekämpfung der Wohnungsnot in Großstädten?"
+- **Konkret**: Nicht "Das Mietrecht", sondern "Reicht das BGB-Mietrecht zur Bekämpfung der Wohnungsnot in Großstädten?"
 - **Streitbar**: Es gibt mindestens zwei vertretbare Antworten.
 - **Originell**: Nicht reine Reproduktion.
 - **Bearbeitbar**: In 30-40 Seiten zu behandeln.
 
 ### Eine Hilfsfrage
 
-> „Du hast ein Thema bekommen. Welche **eine Frage** willst Du am Ende beantworten? Schreibe sie in einem Satz mit Fragezeichen."
+> "Du hast ein Thema bekommen. Welche **eine Frage** willst Du am Ende beantworten? Schreibe sie in einem Satz mit Fragezeichen."
 
 Wenn Du diese Frage nicht in einem Satz formulieren kannst, ist Dein Thema noch nicht scharf genug.
 
@@ -185,8 +185,8 @@ Wenn Du diese Frage nicht in einem Satz formulieren kannst, ist Dein Thema noch 
 ### Schreibstil
 
 - **Wissenschaftlich-distanziert**, nicht gutachterisch
-- „Es ist anzunehmen, dass…" statt „A könnte einen Anspruch haben."
-- **Eigene Stimme** durchaus eingeführt: „Hier wird vertreten, dass…"
+- "Es ist anzunehmen, dass…" statt "A könnte einen Anspruch haben."
+- **Eigene Stimme** durchaus eingeführt: "Hier wird vertreten, dass…"
 
 ## Schritt 8 — Häufige Fehler bei Seminararbeiten
 

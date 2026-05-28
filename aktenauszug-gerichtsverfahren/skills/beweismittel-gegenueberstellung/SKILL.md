@@ -72,7 +72,7 @@ Jede Urkunde wird mit ihrer Anlagenbezeichnung (K 1, B 1 etc.) und einem kurzen 
 
 ### Zeugen
 
-Vollständiger Name (sofern bekannt), Eigenschaft (z. B. „Augenzeuge", „Vertragspartner", „Mitarbeiter"), benennende Partei.
+Vollständiger Name (sofern bekannt), Eigenschaft (z. B. "Augenzeuge", "Vertragspartner", "Mitarbeiter"), benennende Partei.
 
 ### Sachverständige
 
@@ -84,7 +84,7 @@ Selten — nur wenn angeboten oder angeordnet. Partei und Vernehmungsthema benen
 
 ### Präkludierte Beweismittel
 
-Soweit Beweismittel vom Gericht als verspätet zurückgewiesen wurden, werden sie mit dem Vermerk „[zurückgewiesen]" aufgeführt.
+Soweit Beweismittel vom Gericht als verspätet zurückgewiesen wurden, werden sie mit dem Vermerk "[zurückgewiesen]" aufgeführt.
 
 ## Qualitätscheck
 

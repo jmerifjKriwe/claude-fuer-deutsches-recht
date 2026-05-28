@@ -35,8 +35,8 @@ Neue Norm / Verlautbarung lesen und in nummerierte Anforderungen zerlegen:
 | A03 | AT 4.3.2 | Dokumentation der Datenklassifizierung | Empfehlung |
 
 Verbindlichkeitskennzeichnung:
-- **Verbindlich:** „hat sicherzustellen", „muss", „sind zu"
-- **Empfehlung/Best Practice:** „sollte", „kann", „wird empfohlen"
+- **Verbindlich:** "hat sicherzustellen", "muss", "sind zu"
+- **Empfehlung/Best Practice:** "sollte", "kann", "wird empfohlen"
 
 ### 2. Bestehende Richtlinie strukturieren
 
@@ -122,7 +122,7 @@ Kommentarliteratur:
 | Datenklassifizierungsdoku. | Keine Regelung | 🟡 | Abschnitt zu ergänzen |
 
 **Empfohlene Änderung für 🔴:**
-> § 4 Abs. 2 IKS-Richtlinie: „Aufbewahrungsfrist von 7 Jahren" → **„mindestens 10 Jahren"** (Anpassung an MaRisk AT 4.3.2 Novelle 2023).
+> § 4 Abs. 2 IKS-Richtlinie: "Aufbewahrungsfrist von 7 Jahren" → **"mindestens 10 Jahren"** (Anpassung an MaRisk AT 4.3.2 Novelle 2023).
 
 **Nächster Schritt:** `/regulatorisches-recht:richtlinien-neufassung` für den vollständigen Neufassungsentwurf.
 
@@ -130,7 +130,7 @@ Kommentarliteratur:
 
 - **Nur Wortlaut-Vergleich:** Eine Richtlinie kann die Norm wörtlich übernehmen, sie aber organisatorisch nicht umsetzen. Hinweis, dass der Diff nur den Dokumenteninhalt vergleicht, nicht die gelebte Praxis.
 - **Verlautbarungsversion:** MaRisk und BAIT werden novelliert; stets Version und Datum der verwendeten Norm angeben und prüfen, ob aktuell.
-- **Best-Practice vs. verbindlich:** EBA-Leitlinien sind nach Art. 16 EBA-VO „comply or explain" – nicht 1:1 verbindlich. Status klar kennzeichnen.
+- **Best-Practice vs. verbindlich:** EBA-Leitlinien sind nach Art. 16 EBA-VO "comply or explain" – nicht 1:1 verbindlich. Status klar kennzeichnen.
 - **Proportionalitätsgrundsatz:** Nicht jede Norm gilt für jede Institutsgröße gleich (§ 25a Abs. 1 S. 3 KWG). Adressatenkreis prüfen und im Diff ausweisen.
 ## Aktuelle Rechtsprechung & Leitsätze
 

@@ -38,8 +38,8 @@ Eingehende Mandantenanfragen sind oft unstrukturiert. Sie können als Fließtext
 
 ### 1. Anrede (Pflichtfeld für Folge-Skills)
 
-- Vollständige Anredezeile aus der Mail, z. B. „Sehr geehrte Damen und Herren", „Guten Tag, ich heiße Maria Mustermann", „Hallo"
-- Falls die Anfragende Person ihre eigene Anredeform nennt (z. B. „Meine Name ist Dr. Klaus-Dieter Müller-Strauss"), diese festhalten.
+- Vollständige Anredezeile aus der Mail, z. B. "Sehr geehrte Damen und Herren", "Guten Tag, ich heiße Maria Mustermann", "Hallo"
+- Falls die Anfragende Person ihre eigene Anredeform nennt (z. B. "Meine Name ist Dr. Klaus-Dieter Müller-Strauss"), diese festhalten.
 - Titel aus der Signatur, aus dem E-Mail-Header oder aus dem Fließtext extrahieren.
 - Hinweis: Die exakte Anrede wird im Skill `anrede-uebernehmen` weiterverarbeitet.
 
@@ -71,7 +71,7 @@ Eingehende Mandantenanfragen sind oft unstrukturiert. Sie können als Fließtext
 ### 6. Dringliche Hinweise
 
 - Explizite Fristnennung: Datum, Fristende, Hauptverhandlung, Klagefrist
-- Implizite Eile-Signale: „sofort", „dringend", „nächste Woche", „bis Ende der Woche"
+- Implizite Eile-Signale: "sofort", "dringend", "nächste Woche", "bis Ende der Woche"
 - Haftungsrisiken: Versäumnisurteil, Zwangsvollstreckung, Insolvenzantrag
 - Hinweis an den Skill `dringlichkeitsmarker` weitergeben
 
@@ -84,20 +84,20 @@ PARSED ANFRAGE
 Anrede (roh):        [Originaltext der Anrede / Grußformel]
 Name:                [Vollständiger Name mit Titeln]
 E-Mail:              [Absenderadresse]
-Telefon:             [Nummer oder „nicht genannt"]
-Weitere Kontakte:    [Adresse, Fax, etc. — oder „keine"]
+Telefon:             [Nummer oder "nicht genannt"]
+Weitere Kontakte:    [Adresse, Fax, etc. — oder "keine"]
 
-Rechtsgebiet:        [Ersteinschätzung oder „unklar"]
+Rechtsgebiet:        [Ersteinschätzung oder "unklar"]
 Sachverhalt-Stichwörter:
   - [Stichwort 1]
   - [Stichwort 2]
   - [...]
 
-Beteiligte:          [Gegner/Behörde/weitere Personen oder „nicht genannt"]
-Relevante Daten/Beträge: [oder „nicht genannt"]
+Beteiligte:          [Gegner/Behörde/weitere Personen oder "nicht genannt"]
+Relevante Daten/Beträge: [oder "nicht genannt"]
 
 DRINGLICHKEIT:       [HOCH / MITTEL / NIEDRIG / UNBEKANNT]
-Dringlichkeit-Grund: [Kurze Begründung oder „keiner erkannt"]
+Dringlichkeit-Grund: [Kurze Begründung oder "keiner erkannt"]
 ```
 
 ## Heuristiken und Sonderfälle
@@ -108,14 +108,14 @@ Beispiel: `kd.mueller-strauss@example.de` → Hinweis: Vorname K.D., Nachname M�
 
 ### Keine Anrede vorhanden
 
-Manche Anfragen beginnen direkt mit dem Sachverhalt: „Ich habe von meinem Arbeitgeber eine Kündigung erhalten ...". In diesem Fall:
+Manche Anfragen beginnen direkt mit dem Sachverhalt: "Ich habe von meinem Arbeitgeber eine Kündigung erhalten ...". In diesem Fall:
 - Anrede (roh): `[nicht vorhanden]`
 - Name aus Signatur oder Fließtext suchen
 - Skill `anrede-uebernehmen` erhält den Hinweis, eine neutrale Höflichkeitsform zu verwenden.
 
 ### Mehrere Absender / Ehepaar / Erbengemeinschaft
 
-Bei „Wir möchten uns melden ..." oder „Ich schreibe im Namen meiner Mutter ...":
+Bei "Wir möchten uns melden ..." oder "Ich schreibe im Namen meiner Mutter ...":
 - Alle Personen aufführen
 - Hauptkontakt kennzeichnen
 - Komplexere Anrede-Heuristik für Skill `anrede-uebernehmen` vormerken

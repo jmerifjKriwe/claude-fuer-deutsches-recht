@@ -53,10 +53,10 @@ Das System liest den Normtext und unterteilt in:
 
 ## Definitionen ausgewählter TBM
 
-- **„Handlung":** jedes menschliche Verhalten, das vom Willen beherrschbar ist; Reflex und vis absoluta scheiden aus
-- **„Fahrlässigkeit":** Außerachtlassen der im Verkehr erforderlichen Sorgfalt (§ 276 Abs. 2 BGB); objektiver Sorgfaltsmaßstab
-- **„Schaden":** Differenz zwischen tatsächlichem und hypothetischem Vermögenszustand ohne das schädigende Ereignis (Differenzhypothese, § 249 BGB)
-- **„Verschulden" im Vertragsrecht:** § 280 Abs. 1 S. 2 BGB — Vermutung des Vertretenmüssens; Schuldner muss Exkulpation führen
+- **"Handlung":** jedes menschliche Verhalten, das vom Willen beherrschbar ist; Reflex und vis absoluta scheiden aus
+- **"Fahrlässigkeit":** Außerachtlassen der im Verkehr erforderlichen Sorgfalt (§ 276 Abs. 2 BGB); objektiver Sorgfaltsmaßstab
+- **"Schaden":** Differenz zwischen tatsächlichem und hypothetischem Vermögenszustand ohne das schädigende Ereignis (Differenzhypothese, § 249 BGB)
+- **"Verschulden" im Vertragsrecht:** § 280 Abs. 1 S. 2 BGB — Vermutung des Vertretenmüssens; Schuldner muss Exkulpation führen
 
 ### Schritt 4 — Ungeschriebene TBM
 

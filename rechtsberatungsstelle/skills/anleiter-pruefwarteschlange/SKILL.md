@@ -1,6 +1,6 @@
 ---
 name: anleiter-pruefwarteschlange
-description: "Supervisoren-Prüfwarteschlange — studentische Arbeitsergebnisse warten hier auf die Supervisoren-Freigabe, bevor sie an Mandanten oder Gerichte gehen. Nur aktiv, wenn das Supervisionsmodell „formelle Prüfwarteschlange\" gewählt wurde; andernfalls inaktiv. Lädt, wenn der Supervisor sehen möchte, was auf Prüfung wartet, einen Eintrag freigibt, bearbeitet und freigibt oder mit einem Hinweis zurückschickt."
+description: "Supervisoren-Prüfwarteschlange — studentische Arbeitsergebnisse warten hier auf die Supervisoren-Freigabe, bevor sie an Mandanten oder Gerichte gehen. Nur aktiv, wenn das Supervisionsmodell "formelle Prüfwarteschlange\" gewählt wurde; andernfalls inaktiv. Lädt, wenn der Supervisor sehen möchte, was auf Prüfung wartet, einen Eintrag freigibt, bearbeitet und freigibt oder mit einem Hinweis zurückschickt."
 ---
 
 # Supervisoren-Prüfwarteschlange (Optional)
@@ -9,7 +9,7 @@ description: "Supervisoren-Prüfwarteschlange — studentische Arbeitsergebnisse
 
 Manche Beratungsstellen wollen ein formelles Gate: Studierendenentw[urf], Supervisoren-Prüfung, dann Freigabe. Andere finden das zu starr — sie begleiten über Fallgespräche und Einzelgespräche, nicht über eine Warteschlange.
 
-**Diese Skill ist nur aktiv, wenn die Klinik-Konfiguration (CLAUDE.md) unter „Supervisionsmodell" die Option „formelle Prüfwarteschlange" gewählt hat.** Andernfalls ist sie inaktiv — beim Kalt-Start-Interview entscheidet der Supervisor, welches Modell er/sie möchte; dies ist eine von drei Optionen.
+**Diese Skill ist nur aktiv, wenn die Klinik-Konfiguration (CLAUDE.md) unter "Supervisionsmodell" die Option "formelle Prüfwarteschlange" gewählt hat.** Andernfalls ist sie inaktiv — beim Kalt-Start-Interview entscheidet der Supervisor, welches Modell er/sie möchte; dies ist eine von drei Optionen.
 
 Ob eine formelle Prüf-Ablauf sinnvoll ist, hängt vom Erfahrungsstand der Studierenden, der Fallzahl und der bestehenden Betreuungsstruktur ab. Der Supervisor entscheidet beim Kalt-Start und kann die Einstellung jederzeit ändern.
 
@@ -50,9 +50,9 @@ Ob eine formelle Prüf-Ablauf sinnvoll ist, hängt vom Erfahrungsstand der Studi
 
 ### Konfigurationsprüfung
 
-Zuerst: Klinik-Konfiguration (CLAUDE.md) → Supervisionsmodell prüfen. Falls NICHT „formelle Prüfwarteschlange": 
+Zuerst: Klinik-Konfiguration (CLAUDE.md) → Supervisionsmodell prüfen. Falls NICHT "formelle Prüfwarteschlange": 
 
-> „Die Beratungsstelle ist für das Supervisionsmodell [konfigurierbare Flags / leichte Begleitung] eingerichtet — es gibt keine formelle Prüfwarteschlange. [Supervisor] begleitet Entwürfe über [die bestehende Betreuungsstruktur]. Um zur formellen Prüfwarteschlange zu wechseln: CLAUDE.md → Supervisionsmodell auf 'formelle Prüfwarteschlange' setzen."
+> "Die Beratungsstelle ist für das Supervisionsmodell [konfigurierbare Flags / leichte Begleitung] eingerichtet — es gibt keine formelle Prüfwarteschlange. [Supervisor] begleitet Entwürfe über [die bestehende Betreuungsstruktur]. Um zur formellen Prüfwarteschlange zu wechseln: CLAUDE.md → Supervisionsmodell auf 'formelle Prüfwarteschlange' setzen."
 
 Falls formelle Prüfwarteschlange AKTIVIERT: Flag-Trigger lesen und fortfahren.
 
@@ -114,7 +114,7 @@ Supervisor sieht:
 P-003 | entwurf | Erdem | Müller | Gerichtliche Einreichung — Klageschrift AG | 4 Stunden
 ```
 
-Supervisor prüft den Inhalt. Ergänzt: „§ 4 KSchG-Frist: Bitte noch einmal prüfen ob der Zugang am 15.04.2026 korrekt dokumentiert ist." → Zurückschicken. Müller überarbeitet, reicht neu ein → P-003b.
+Supervisor prüft den Inhalt. Ergänzt: "§ 4 KSchG-Frist: Bitte noch einmal prüfen ob der Zugang am 15.04.2026 korrekt dokumentiert ist." → Zurückschicken. Müller überarbeitet, reicht neu ein → P-003b.
 
 ## Risiken und typische Fehler
 
@@ -125,12 +125,12 @@ Supervisor prüft den Inhalt. Ergänzt: „§ 4 KSchG-Frist: Bitte noch einmal p
 
 ## Lehrfunktion der Warteschlange
 
-Die Warteschlange ist auch Datenbasis. Muster in Rücksendungen („Studierender X vergisst regelmäßig die Fristprüfung") ist ein Coaching-Gespräch. Muster in Bearbeitungen durch den Supervisor („Alle Mahnschreiben sind zu lang") ist ein Update für das nächste Semester-Onboarding (`/einarbeitung`).
+Die Warteschlange ist auch Datenbasis. Muster in Rücksendungen ("Studierender X vergisst regelmäßig die Fristprüfung") ist ein Coaching-Gespräch. Muster in Bearbeitungen durch den Supervisor ("Alle Mahnschreiben sind zu lang") ist ein Update für das nächste Semester-Onboarding (`/einarbeitung`).
 
 Der Vergleich Original/bearbeitet im Protokoll ist ein Lehrmoment: Der Studierende sieht, was der Supervisor geändert hat, und warum — sofern der Supervisor einen kurzen Kommentar hinzufügt.
 
 ## Quellenpflicht
 
-Prüfentscheidungen werden im Protokoll mit Datum und Supervisorenname dokumentiert. Begründungen für Rücksendungen sind inhaltlich und konkret (nicht „bitte nochmals prüfen", sondern „§ 4 KSchG-Frist: Zustellungsnachweis fehlt"). Das Protokoll ist Teil der Mandantenakte.
+Prüfentscheidungen werden im Protokoll mit Datum und Supervisorenname dokumentiert. Begründungen für Rücksendungen sind inhaltlich und konkret (nicht "bitte nochmals prüfen", sondern "§ 4 KSchG-Frist: Zustellungsnachweis fehlt"). Das Protokoll ist Teil der Mandantenakte.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall und keine volljuristische Supervision nach § 6 Abs. 2 RDG.

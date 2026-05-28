@@ -43,8 +43,8 @@ Pflegegrad-Ablehnungen oder Niedrigerstufungen sind in 60 Prozent der Fälle ang
 1. **Begutachtung in einem einzigen Termin** ohne Verlaufsbeobachtung — Tagesform-Problem
 2. **Befragung nur Mandant**, nicht pflegende Angehörige
 3. **Pflegetagebuch nicht berücksichtigt** trotz Vorlage
-4. **„Vorhandene Fähigkeit" mit „angewandte Fähigkeit" verwechselt** — § 14 SGB XI verlangt aber **regelmäßige Anwendung** im Alltag
-5. **Bei Demenz, Depression, Suchterkrankungen Module 2/3 zu niedrig** — die Begutachtung zaehlt „kann sprechen" als Fähigkeit, prüft aber nicht ob der Mensch noch sinnerfasst kommuniziert
+4. **"Vorhandene Fähigkeit" mit "angewandte Fähigkeit" verwechselt** — § 14 SGB XI verlangt aber **regelmäßige Anwendung** im Alltag
+5. **Bei Demenz, Depression, Suchterkrankungen Module 2/3 zu niedrig** — die Begutachtung zaehlt "kann sprechen" als Fähigkeit, prüft aber nicht ob der Mensch noch sinnerfasst kommuniziert
 6. **Schwankende Krankheitsbilder** (MS, Parkinson, Demenz) nur in der besseren Tagesform erfasst
 7. **Modul 5 systematisch unterbewertet** — Insulinpflicht, Wundversorgung, mehrfache Arzttermine pro Woche zaehlen voll
 
@@ -63,20 +63,20 @@ Tipp: Schon eine **Verschiebung um 2 bis 5 Modulpunkte** kann die Pflegegrad-Sch
 ```
 I. Modul 1 — Mobilitaet
 
-Der MD bewertet den Positionswechsel im Bett mit „selbstaendig". Tatsaechlich
+Der MD bewertet den Positionswechsel im Bett mit "selbstaendig". Tatsaechlich
 benoetigt die Versicherte nach Schilderung der Tochter (siehe Pflegetagebuch
 Anlage W [Nr]) regelmaessig Hilfe beim Drehen, weil die Spastik in der
 rechten Koerperhaelfte das selbststaendige Aufrichten verhindert. Korrekt
-waere die Bewertung „ueberwiegend unselbstaendig".
+waere die Bewertung "ueberwiegend unselbstaendig".
 
 II. Modul 4 — Selbstversorgung
 
-Die Bewertung „Waschen Oberkoerper selbstaendig" beruht auf der Beobachtung
+Die Bewertung "Waschen Oberkoerper selbstaendig" beruht auf der Beobachtung
 einer einzelnen Geste am Begutachtungstag. Aerztlich attestiert
 (Anlage W [Nr]) ist eine wechselhafte Belastbarkeit — an drei von sieben
 Tagen pro Woche kann die Versicherte die Koerperpflege nicht eigenstaendig
-durchfuehren. Modul 4 ist daher als „ueberwiegend unselbstaendig" oder
-„unselbstaendig" zu bewerten.
+durchfuehren. Modul 4 ist daher als "ueberwiegend unselbstaendig" oder
+"unselbstaendig" zu bewerten.
 
 III. Module 2 und 3 — Demenz, Depression
 

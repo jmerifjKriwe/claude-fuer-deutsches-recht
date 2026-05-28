@@ -28,7 +28,7 @@ Definition über **gleichen Anmelder + technische Verwandtschaft**. Continuation
 
 ### Simple Family
 
-Definition über **gleichen Satz aller Prioritätsdaten**. Engere Definition als INPADOC, in Espacenet als „Simple family" gekennzeichnet.
+Definition über **gleichen Satz aller Prioritätsdaten**. Engere Definition als INPADOC, in Espacenet als "Simple family" gekennzeichnet.
 
 ## Ablauf
 
@@ -38,7 +38,7 @@ Aus den Recherche-Treffern (Output von `agentische-datenbank-recherche`) den Tre
 
 ### Schritt 2: Espacenet Family View öffnen
 
-In Espacenet zum Treffer navigieren, „Family list" oder „INPADOC patent family" auswählen.
+In Espacenet zum Treffer navigieren, "Family list" oder "INPADOC patent family" auswählen.
 
 URL-Schema:
 ```
@@ -80,7 +80,7 @@ Familientabelle als strukturiertes YAML/JSON an `freedom-to-operate-recherche` o
 
 - **Datenlücken.** Nicht alle Ämter melden vollständig an INPADOC. Bei JP-, CN-, KR-Patenten kann die Familie unvollständig erfasst sein. Bei kritischen Mandaten: amtliche Direktrecherche im Zielland.
 - **Späte Nachanmeldungen** außerhalb der 12-Monats-Prioritätsfrist sind keine echte Familie, sondern eigenständige Anmeldungen mit eigenem Stand der Technik.
-- **EP-Patente mit Einheitlichem Patent (UP).** Seit Juni 2023 gibt es das Einheitliche Patent. Erfasst alle Teilnehmer-Staaten als ein einziges Schutzrecht; in der Familienliste oft als „European patent with unitary effect" gekennzeichnet.
+- **EP-Patente mit Einheitlichem Patent (UP).** Seit Juni 2023 gibt es das Einheitliche Patent. Erfasst alle Teilnehmer-Staaten als ein einziges Schutzrecht; in der Familienliste oft als "European patent with unitary effect" gekennzeichnet.
 - **PCT-Anmeldungen** (WO …) sind keine eigentlichen Patente, sondern Anmeldewege. Erst durch nationale Phasen entstehen die einzelnen Patente.
 - **Anmelderwechsel.** Familienmitglieder können verschiedene Anmelder haben (Anmelderwechsel, Konzernverschiebung). Bei FTO immer auf den **aktuellen** eingetragenen Inhaber im jeweiligen Register prüfen.
 

@@ -11,7 +11,7 @@ Gezielte Nachbearbeitung einzelner Abschnitte des Kanzleiprofils ohne vollständ
 
 ## Eingaben
 
-- Gewünschte Änderung im Klartext (z. B. „Füge Marke NORDBLATT DE hinzu", „Ändere Genehmiger für Abmahnungen auf Max Mustermann")
+- Gewünschte Änderung im Klartext (z. B. "Füge Marke NORDBLATT DE hinzu", "Ändere Genehmiger für Abmahnungen auf Max Mustermann")
 - Ggf. neue Dokumente (Portfolio-Export, OSS-Richtlinie als PDF/DOCX)
 
 ## Ablauf
@@ -47,7 +47,7 @@ Einige Änderungen haben Folgewirkungen auf andere Skills:
 
 | Änderung | Downstream-Folgen |
 |---|---|
-| Durchsetzungsstrategie von „ausgewogen" auf „offensiv" | unterlassungsverlangen-Skill senkt Schwelle für Abmahnempfehlung |
+| Durchsetzungsstrategie von "ausgewogen" auf "offensiv" | unterlassungsverlangen-Skill senkt Schwelle für Abmahnempfehlung |
 | Neuer Genehmiger | alle Genehmigungsgates aktualisiert |
 | Neues Schutzrecht | portfolio-Skill fügt Fristen automatisch hinzu |
 | OSS-Richtlinie verschärft | open-source-prüfung-Skill verwendet neue Whitelist |

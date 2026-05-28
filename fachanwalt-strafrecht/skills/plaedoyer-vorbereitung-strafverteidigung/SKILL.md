@@ -110,7 +110,7 @@ Hauptverhandlung am [Datum]
 
 I. ERÖFFNUNG
    Zusammenfassung des Sachverhalts aus Verteidigersicht.
-   „Was ist in dieser Sache tatsächlich passiert?"
+   "Was ist in dieser Sache tatsächlich passiert?"
 
 II. BEWEISWÜRDIGUNG – TATSÄCHLICHES
    A. Zeugenaussagen
@@ -191,7 +191,7 @@ Empfehlung für Inhalt des letzten Wortes:
 
 2. Sachverhaltshinweise:
    Nur wenn Plädoyer und letztes Wort koordiniert:
-   „Ich möchte noch einmal betonen, dass ich nie die Absicht
+   "Ich möchte noch einmal betonen, dass ich nie die Absicht
    hatte, [Person X] zu schädigen."
 
 3. Persönliche Situation:
@@ -240,11 +240,11 @@ Timing: Kurz (1–3 Minuten). Wirkung: Menschlichkeit zeigen.
 
 | Gegenargument | Erwiderung |
 |---|---|
-| „Geständnis wurde freiwillig abgelegt" | § 136a StPO prüfen; Geständnis nach langer Vernehmung ohne Pause, unter psychischem Druck oder nach falscher Versprechung kann Verwertungsverbot begründen |
-| „Zeuge ist glaubwürdig, kein Grund zur Zweifel" | Methodische Glaubwürdigkeitsprüfung: Konstanz (Aussage-Polizei vs. HV), Detailreichtum, Eigeninteresse; BGH-Maßstäbe (BGH NStZ 2007, 112) |
-| „§ 21 StGB greift nicht ohne psychiatrisches Gutachten" | BGH 4 StR 488/19: Gericht darf eigene Erkenntnisse einbeziehen; Gutachten nicht zwingend bei klarem Sachverhalt; bei Zweifeln ist Gutachten beantragt worden |
-| „Bewährung nach § 56 StGB kommt nicht in Betracht wegen Vorstrafen" | § 56 Abs. 1 StGB – Sozialprognose ist Einzelfallbewertung; Vorstrafen allein schließen positive Prognose nicht aus (BGH 5 StR 547/21) |
-| „Keine Revision möglich, da Berufungsurteil" | § 333 StPO erlaubt Revision auch gegen Berufungsurteile; Verfahrensrügen aus der Berufungsverhandlung sind rügefähig |
+| "Geständnis wurde freiwillig abgelegt" | § 136a StPO prüfen; Geständnis nach langer Vernehmung ohne Pause, unter psychischem Druck oder nach falscher Versprechung kann Verwertungsverbot begründen |
+| "Zeuge ist glaubwürdig, kein Grund zur Zweifel" | Methodische Glaubwürdigkeitsprüfung: Konstanz (Aussage-Polizei vs. HV), Detailreichtum, Eigeninteresse; BGH-Maßstäbe (BGH NStZ 2007, 112) |
+| "§ 21 StGB greift nicht ohne psychiatrisches Gutachten" | BGH 4 StR 488/19: Gericht darf eigene Erkenntnisse einbeziehen; Gutachten nicht zwingend bei klarem Sachverhalt; bei Zweifeln ist Gutachten beantragt worden |
+| "Bewährung nach § 56 StGB kommt nicht in Betracht wegen Vorstrafen" | § 56 Abs. 1 StGB – Sozialprognose ist Einzelfallbewertung; Vorstrafen allein schließen positive Prognose nicht aus (BGH 5 StR 547/21) |
+| "Keine Revision möglich, da Berufungsurteil" | § 333 StPO erlaubt Revision auch gegen Berufungsurteile; Verfahrensrügen aus der Berufungsverhandlung sind rügefähig |
 
 ---
 

@@ -91,7 +91,7 @@ Im Mittelstand fehlt häufig ein professionelles CFO-Office oder Treasury. Liqui
 | Fehler | Konsequenz | Abhilfe |
 |---|---|---|
 | BWA ohne Rückstellungen | Überoptimistisches Liquiditätsbild | Rückstellungen regelmäßig nachtragen |
-| Kontokorrentkredit als „Eigenkapital" | Zahlungsunfähigkeit wird kaschiert | Kontokorrentkredit ist Verbindlichkeit; Limit-Auslastung überwachen |
+| Kontokorrentkredit als "Eigenkapital" | Zahlungsunfähigkeit wird kaschiert | Kontokorrentkredit ist Verbindlichkeit; Limit-Auslastung überwachen |
 | Kundenzahlung erwartet, aber nicht OPOS-belegt | Einzahlung in Vorschau zu optimistisch | Nur vertraglich fällige, plausible Einzahlungen ansetzen |
 | Steuerberater meldet nur rückblickend | Frühwarnung fehlt | Wöchentliche Liquiditätsabstimmung einrichten |
 | Lohnzahlung auf letztem Kontoauszug | 3-Wochen-Frist für Zahlunsunfähigkeit bereits abgelaufen | Lohntermin immer in Woche 1 einplanen |

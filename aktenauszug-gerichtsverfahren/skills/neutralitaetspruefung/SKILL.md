@@ -39,11 +39,11 @@ Der Aktenauszug muss neutral formuliert sein — er gibt den Stand eines Verfahr
 
 | Verboten | Erlaubt |
 |---|---|
-| „Die Klage wird Erfolg haben" | „Die Klage ist anhängig" |
-| „Der Anspruch dürfte begründet sein" | „Die Klägerin macht [Anspruch] geltend" |
-| „Die Verjährungseinrede greift durch" | „Die Beklagte erhebt die Verjährungseinrede" |
-| „Das Gericht wird … erkennen" | „Das Gericht hat … nicht geäußert" |
-| „offensichtlich unbegründet" | „nach Vortrag der Beklagten unbegründet" |
+| "Die Klage wird Erfolg haben" | "Die Klage ist anhängig" |
+| "Der Anspruch dürfte begründet sein" | "Die Klägerin macht [Anspruch] geltend" |
+| "Die Verjährungseinrede greift durch" | "Die Beklagte erhebt die Verjährungseinrede" |
+| "Das Gericht wird … erkennen" | "Das Gericht hat … nicht geäußert" |
+| "offensichtlich unbegründet" | "nach Vortrag der Beklagten unbegründet" |
 
 ### Wertende Adjektive (zu vermeiden)
 
@@ -54,7 +54,7 @@ Der Aktenauszug muss neutral formuliert sein — er gibt den Stand eines Verfahr
 ### Parteiische Darstellung
 
 - Ausführliche Wiedergabe des Vortrags einer Seite ohne entsprechende Gegenüberstellung der anderen Seite
-- Formulierungen, die implizit eine Seite stärken („Trotz des klaren Wortlauts des Vertrags …")
+- Formulierungen, die implizit eine Seite stärken ("Trotz des klaren Wortlauts des Vertrags …")
 
 ## Prüfmethodik
 

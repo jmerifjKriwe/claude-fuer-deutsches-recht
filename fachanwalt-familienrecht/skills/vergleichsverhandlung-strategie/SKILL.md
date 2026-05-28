@@ -16,7 +16,7 @@ description: "Vergleichsverhandlungs-Strategie für Familien-, Kindschafts- und 
 
 - BeckOK FamFG/Heilmann, § 156 Rn. 1-30 (Guütliche Einigung, Cochemer Modell)
 - MuKoBGB/Maier, § 1585c Rn. 1-20 (Unterhaltsvereinbarung, Form)
-- Wendl/Dose, Unterhaltsrecht, Teil “Vergleich und Abfindung”
+- Wendl/Dose, Unterhaltsrecht, Teil "Vergleich und Abfindung"
 
 ## Wann dieser Skill greift
 

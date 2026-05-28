@@ -29,7 +29,7 @@ Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus de
 | Familienstand | verwitwet |
 | Beruf (früher) | Verwaltungsangestellte, Bezirksamt Mitte Berlin |
 | Frühere Adresse | Schöneberger Ufer 41, 10785 Berlin (Eigentumswohnung) |
-| Aktuelle Adresse | Pflegeheim „Haus Charlottenstift", Charlottenstraße 88, 10117 Berlin (seit 02.10.2024) |
+| Aktuelle Adresse | Pflegeheim "Haus Charlottenstift", Charlottenstraße 88, 10117 Berlin (seit 02.10.2024) |
 
 ### Diagnose
 
@@ -109,7 +109,7 @@ Das Plugin `betreuungsrecht` kann aus den Dokumenten 01–12 einen vollständige
 - Ausblick auf geplante Maßnahmen
 
 **Empfohlene Frage an das Plugin:**
-> „Erstelle einen Jahresbericht nach § 1863 BGB für Frau Hildegard Sauer,
+> "Erstelle einen Jahresbericht nach § 1863 BGB für Frau Hildegard Sauer,
 > Az. 70 XVII 4421/24, Berichtszeitraum 18.11.2024 – 30.04.2026."
 
 ---
@@ -123,7 +123,7 @@ strukturiertes Vermögensverzeichnis im Format des § 1835 BGB mit:
 - Anonymisierten Kontonummern
 
 **Empfohlene Frage:**
-> „Erstelle eine Zusammenfassung des Vermögens für den Jahresbericht aus
+> "Erstelle eine Zusammenfassung des Vermögens für den Jahresbericht aus
 > der Excel-Datei 05_Vermoegensverzeichnis_Stand_30-04-2026.xlsx."
 
 ---
@@ -138,7 +138,7 @@ Das Plugin kann prüfen:
 - Welche Unterlagen müssen dem Antrag beiliegen?
 
 **Empfohlene Frage:**
-> „Prüfe den Genehmigungsantrag (Dokument 09) nach § 1850 BGB auf
+> "Prüfe den Genehmigungsantrag (Dokument 09) nach § 1850 BGB auf
 > Vollständigkeit und gib mir Hinweise, was noch fehlt."
 
 ---

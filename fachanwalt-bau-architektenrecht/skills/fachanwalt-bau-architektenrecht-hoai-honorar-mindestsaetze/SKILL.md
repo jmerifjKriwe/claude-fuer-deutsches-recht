@@ -20,7 +20,7 @@ Architektenhonorar berechnen, prüfen und durchsetzen — nach dem EuGH-Urteil z
 
 ## 2) EuGH-Urteil C-377/17 (Vossloh, 2019)
 
-> „Die deutschen Mindest- und Hoechstsätze der HOAI verstoßen gegen die Dienstleistungs-Richtlinie."
+> "Die deutschen Mindest- und Hoechstsätze der HOAI verstoßen gegen die Dienstleistungs-Richtlinie."
 
 ### Folgen
 
@@ -33,9 +33,9 @@ Architektenhonorar berechnen, prüfen und durchsetzen — nach dem EuGH-Urteil z
 
 ### Wesentliche Änderungen
 
-- Mindest- und Hoechstsätze als „Orientierungsrahmen"
+- Mindest- und Hoechstsätze als "Orientierungsrahmen"
 - Schriftform-Erfordernis für Honorar **nicht mehr** zwingend (§ 7 I HOAI 2021)
-- Bei fehlender Vereinbarung: **Basishonorarsatz** als „übliche Vergütung" § 632 BGB
+- Bei fehlender Vereinbarung: **Basishonorarsatz** als "übliche Vergütung" § 632 BGB
 
 ### Leistungsbilder
 

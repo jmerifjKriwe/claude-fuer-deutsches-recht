@@ -73,7 +73,7 @@ Abfindung = 0,5 Brutto-Monatsentgelte × Beschaeftigungsjahre
 - Beendigungs-Zeitpunkt
 - Abfindung mit Fälligkeit (typisch mit letztem Gehalt)
 - Erledigungsklausel (sämtliche Anspruche erledigt)
-- Zeugnis-Anspruch (mind. „gut")
+- Zeugnis-Anspruch (mind. "gut")
 
 ### Soll-Klauseln
 
@@ -81,12 +81,12 @@ Abfindung = 0,5 Brutto-Monatsentgelte × Beschaeftigungsjahre
 - Verzicht Kündigungsschutzklage
 - Wettbewerbsverbot ggf. mit Karenz-Entschädigung
 - Outplacement-Kostenübernahme
-- **Sperrzeit-Klausel**: „AG bestätigt, dass der Aufhebungsvertrag zur Vermeidung einer ordentlichen Kündigung aus betriebsbedingten Gründen geschlossen wird."
+- **Sperrzeit-Klausel**: "AG bestätigt, dass der Aufhebungsvertrag zur Vermeidung einer ordentlichen Kündigung aus betriebsbedingten Gründen geschlossen wird."
 
 ### Sprachregelung
 
-- „Betriebsbedingte Kündigung waere ausgesprochen worden" (Sperrzeit-Schutz)
-- Vermeiden: „AN bittet um Aufhebung" (Sperrzeit-Risiko)
+- "Betriebsbedingte Kündigung waere ausgesprochen worden" (Sperrzeit-Schutz)
+- Vermeiden: "AN bittet um Aufhebung" (Sperrzeit-Risiko)
 
 ### Schlussabsatz Variante A (kooperativ)
 

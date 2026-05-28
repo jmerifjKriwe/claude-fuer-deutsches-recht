@@ -28,9 +28,9 @@ Klaere mindestens 2 Wochen vor Notar-Termin:
 
 ## Aktuelle Rechtsprechung
 
-- **BGH, Urt. v. 05.11.2015 – I ZR 50/14, GRUR 2016, 705** — Ein Firmenname, der den Unternehmensgegenstand in generischer Form beschreibt (z.B. „Online Service GmbH"), ist nach § 18 I HGB nicht hinreichend kennzeichnungsfaehig; Ergaenzung durch Phantasie- oder Personenname erforderlich.
+- **BGH, Urt. v. 05.11.2015 – I ZR 50/14, GRUR 2016, 705** — Ein Firmenname, der den Unternehmensgegenstand in generischer Form beschreibt (z.B. "Online Service GmbH"), ist nach § 18 I HGB nicht hinreichend kennzeichnungsfaehig; Ergaenzung durch Phantasie- oder Personenname erforderlich.
 - **BGH, Urt. v. 22.07.2004 – I ZR 135/01, NJW 2004, 3692** — Verwechslungsgefahr nach § 30 HGB besteht nicht nur bei identischer, sondern auch bei aehnlicher Firma im selben Registerbezirk; Klangs- und Schriftbild-Aehnlichkeit genuegen.
-- **OLG Hamm, Beschl. v. 23.03.2010 – 15 W 15/10, NZG 2010, 638** — Firmenzusatz „International" ist irrefuehrend (§ 18 II HGB), wenn das Unternehmen ausschliesslich lokal taetig ist; Beanstandung durch HR-Gericht gerechtfertigt.
+- **OLG Hamm, Beschl. v. 23.03.2010 – 15 W 15/10, NZG 2010, 638** — Firmenzusatz "International" ist irrefuehrend (§ 18 II HGB), wenn das Unternehmen ausschliesslich lokal taetig ist; Beanstandung durch HR-Gericht gerechtfertigt.
 - **BGH, Urt. v. 14.12.2006 – I ZR 34/04, GRUR 2007, 614** — Verwendung eines geschuetzten Markennamens als Firma stellt Markenverletzung nach § 14 MarkenG dar; Unterlassungs- und Schadenersatzanspruch des Markeninhabers; Umfirmierungspflicht.
 
 ## Kommentarliteratur
@@ -103,7 +103,7 @@ Naechste Schritte:
 
 ## Rote Schwellen
 
-- Branchenbezeichnung „Bank", „Versicherung", „Steuerberatung" ohne Zulassung: Beanstandung und Ordnungswidrigkeitsverfahren
+- Branchenbezeichnung "Bank", "Versicherung", "Steuerberatung" ohne Zulassung: Beanstandung und Ordnungswidrigkeitsverfahren
 - Verwechslungsgefahr mit bestehender Firma im Registerbereich: Beanstandung HR-Gericht (§ 30 HGB)
 - Fremder Name ohne Berechtigung: Namensklage nach § 12 BGB; Unterlassung und Schadenersatz
 - Marken-Verletzung durch Firmennamen: Unterlassungsklage; Umfirmierungspflicht; erhebliche Kosten

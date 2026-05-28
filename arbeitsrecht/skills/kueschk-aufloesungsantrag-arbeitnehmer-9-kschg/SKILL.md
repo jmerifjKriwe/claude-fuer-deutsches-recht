@@ -43,7 +43,7 @@ description: "Aufloeungsantrag des Arbeitnehmers nach § 9 KSchG: Voraussetzung 
 2. **Antragstellung** — der Arbeitnehmer stellt den Auflösungsantrag bis zum Schluss der letzten mündlichen Verhandlung.
 
 **Wichtiger Unterschied Arbeitnehmer/Arbeitgeber:**
-- Der Arbeitnehmer muss Unzumutbarkeit **nicht** besonders begründen — er hat ein **freies Auflösungsrecht** (§ 9 Abs. 1 Satz 1 KSchG: „ohne dass es auf einen besonderen Grund ankommt").
+- Der Arbeitnehmer muss Unzumutbarkeit **nicht** besonders begründen — er hat ein **freies Auflösungsrecht** (§ 9 Abs. 1 Satz 1 KSchG: "ohne dass es auf einen besonderen Grund ankommt").
 - Nur der Arbeitgeber muss beim Auflösungsantrag seinerseits (§ 9 Abs. 1 Satz 2 KSchG) Gründe darlegen, die einer den Betriebszwecken dienlichen Zusammenarbeit entgegenstehen.
 
 ## Abfindung nach § 10 KSchG

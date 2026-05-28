@@ -24,9 +24,9 @@ description: "Prüft Anwendbarkeit des Kündigungsschutzgesetzes: Wartezeit sech
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 21.02.2001 – 2 AZR 15/00, NZA 2001, 833 — Im Kleinbetrieb (KSchG nicht anwendbar) gilt ein durch Art. 12 GG vermittelter Grundkündigungsschutz; eine Kündigung ist unwirksam, wenn sie ein „verkapptes Diskriminierungsmittel" ist oder auf sachfremden Motiven beruht.
+- BAG, Urt. v. 21.02.2001 – 2 AZR 15/00, NZA 2001, 833 — Im Kleinbetrieb (KSchG nicht anwendbar) gilt ein durch Art. 12 GG vermittelter Grundkündigungsschutz; eine Kündigung ist unwirksam, wenn sie ein "verkapptes Diskriminierungsmittel" ist oder auf sachfremden Motiven beruht.
 - BVerfG, Beschl. v. 27.01.1998 – 1 BvL 15/87, NJW 1998, 1475 — Der Ausschluss des KSchG für Kleinbetriebe ist verfassungsrechtlich zulässig; der allgemeine Gleichheitssatz (Art. 3 GG) und die Berufsfreiheit (Art. 12 GG) werden durch die Eigenheiten des Kleinbetriebs gerechtfertigt.
-- BAG, Urt. v. 18.10.2012 – 6 AZR 86/11, NZA 2013, 98 — Bei der Berechnung des Schwellenwerts nach § 23 KSchG kommt es auf die „regelmäßige" Beschäftigtenzahl an; saisonale Schwankungen und vorübergehende Personalveränderungen sind entsprechend zu berücksichtigen.
+- BAG, Urt. v. 18.10.2012 – 6 AZR 86/11, NZA 2013, 98 — Bei der Berechnung des Schwellenwerts nach § 23 KSchG kommt es auf die "regelmäßige" Beschäftigtenzahl an; saisonale Schwankungen und vorübergehende Personalveränderungen sind entsprechend zu berücksichtigen.
 - BAG, Urt. v. 26.06.2008 – 2 AZR 264/07, NZA 2009, 36 — Für die 6-Monats-Wartezeit des § 1 Abs. 1 KSchG werden frühere Beschäftigungszeiten beim selben Arbeitgeber angerechnet, wenn zwischen den Beschäftigungen kein wesentlicher Unterbrechungszeitraum bestand und derselbe Tätigkeitsbereich vorliegt.
 
 ## Kommentarliteratur

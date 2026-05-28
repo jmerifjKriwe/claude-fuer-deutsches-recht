@@ -123,7 +123,7 @@ description: "Anwaltliche Begleitung einer Betriebsprüfung Aussenprüfung nach 
 
 - Tatsachen-Vergleich § 162 AO möglich.
 - Nicht: Verständigung über Recht.
-- BGH-Linie zur „tatsächlichen Verständigung".
+- BGH-Linie zur "tatsächlichen Verständigung".
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -157,11 +157,11 @@ Sehr geehrte/r Frau/Herr [Prüfer],
 
 namens und in Vollmacht der [Mandantin] nehmen wir zu den Prüfungsfeststellungen wie folgt Stellung.
 
-1. Feststellung „[Bezeichnung]"
+1. Feststellung "[Bezeichnung]"
    Wir teilen die Auffassung des Prüfers nicht. Nach § [Norm] und BFH, Urt. v. [Datum] – Az. [AZ], BStBl. II [Jahr], [Seite] Rn. [Rn.] gilt […].
    Antrag: Diese Feststellung wird nicht in den Prüfungsbericht aufgenommen.
 
-2. Feststellung „[Bezeichnung]"
+2. Feststellung "[Bezeichnung]"
    Wir treten der Feststellung sachlich nicht entgegen, regen jedoch eine Anpassung der Bemessungsgrundlage an, weil […].
 
 3. Verbindliche Zusage § 204 AO

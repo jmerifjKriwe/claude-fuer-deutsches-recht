@@ -324,11 +324,11 @@ Anlagen: Beweise für Pflichtverletzungen
 
 | Gegenargument | Reaktion |
 |--------------|---------|
-| „TV-Vergütung nach Hamburger Tabelle zu hoch" | Nachlassgericht-Festsetzung § 2221 BGB; besondere Schwierigkeiten und Umfang der Tätigkeit beachten |
-| „TV-Annahme zu spät" | BGH: Aufgabe des Amts = Nichtannahme wenn unverhältnismäßig lange Untätigkeit; Nachlassgericht ernennt Ersatz § 2200 BGB |
-| „Kein wichtiger Grund für Entlassung" | BGH IV ZB 14/17: Interessenkonflikt reicht; keine Notwendigkeit strafrechtlicher Verurteilung |
-| „Rechnungslegung erfolgte mündlich" | § 2218 BGB verlangt nachvollziehbare Rechnungslegung; mündlich regelmäßig nicht ausreichend |
-| „Erben haben Entlastung erteilt" | Formlose Entlastung schließt Haftung für unbekannte Pflichtverletzungen nicht aus |
+| "TV-Vergütung nach Hamburger Tabelle zu hoch" | Nachlassgericht-Festsetzung § 2221 BGB; besondere Schwierigkeiten und Umfang der Tätigkeit beachten |
+| "TV-Annahme zu spät" | BGH: Aufgabe des Amts = Nichtannahme wenn unverhältnismäßig lange Untätigkeit; Nachlassgericht ernennt Ersatz § 2200 BGB |
+| "Kein wichtiger Grund für Entlassung" | BGH IV ZB 14/17: Interessenkonflikt reicht; keine Notwendigkeit strafrechtlicher Verurteilung |
+| "Rechnungslegung erfolgte mündlich" | § 2218 BGB verlangt nachvollziehbare Rechnungslegung; mündlich regelmäßig nicht ausreichend |
+| "Erben haben Entlastung erteilt" | Formlose Entlastung schließt Haftung für unbekannte Pflichtverletzungen nicht aus |
 
 ## Streitwert und Kosten
 

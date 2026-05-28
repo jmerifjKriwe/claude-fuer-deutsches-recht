@@ -9,7 +9,7 @@ Jeder Vertrag mit einem KI-Dienstleister, der Mandatsdaten verarbeiten soll, mus
 
 ## Rechtlicher Hintergrund
 
-§ 43e BRAO: Befugte Weitergabe von Berufsgeheimnissen an IT-Dienstleister setzt einen entsprechenden Vertrag voraus, der den Dienstleister zur Verschwiegenheit verpflichtet. § 203 Abs. 3 Satz 2 StGB: Der Dienstleister wird als „mitwirkende Person" privilegiert und nicht wegen Geheimnisverrats bestraft, wenn eine ordnungsgemäße § 43e-Vereinbarung besteht. § 53a StPO: Zeugnisverweigerungsrecht des Dienstleisters. § 97 Abs. 2 StPO: Beschlagnahmeschutz. Art. 28 DSGVO: AVV-Pflicht. Art. 82 DSGVO: Haftung des Verantwortlichen und Auftragsverarbeiters.
+§ 43e BRAO: Befugte Weitergabe von Berufsgeheimnissen an IT-Dienstleister setzt einen entsprechenden Vertrag voraus, der den Dienstleister zur Verschwiegenheit verpflichtet. § 203 Abs. 3 Satz 2 StGB: Der Dienstleister wird als "mitwirkende Person" privilegiert und nicht wegen Geheimnisverrats bestraft, wenn eine ordnungsgemäße § 43e-Vereinbarung besteht. § 53a StPO: Zeugnisverweigerungsrecht des Dienstleisters. § 97 Abs. 2 StPO: Beschlagnahmeschutz. Art. 28 DSGVO: AVV-Pflicht. Art. 82 DSGVO: Haftung des Verantwortlichen und Auftragsverarbeiters.
 
 ## Vorgehen
 

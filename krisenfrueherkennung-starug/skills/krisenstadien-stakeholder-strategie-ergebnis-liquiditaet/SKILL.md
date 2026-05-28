@@ -159,7 +159,7 @@ Unterschrift GF: ___________________ Datum: ___________
 
 ## Fallstricke
 
-1. **Stadium zu spät erkannt** — die häufigste und teuerste Fehlleistung. Stakeholder- und Strategiekrise werden als „normales Marktgeschehen" abgetan, bis die Liquiditätskrise plötzlich da ist.
+1. **Stadium zu spät erkannt** — die häufigste und teuerste Fehlleistung. Stakeholder- und Strategiekrise werden als "normales Marktgeschehen" abgetan, bis die Liquiditätskrise plötzlich da ist.
 
 2. **Stadiensprünge unterschätzen** — in wirtschaftlich turbulenten Phasen kann ein Unternehmen mehrere Stadien in wenigen Monaten überspringen (z.B. externe Schocks wie Lieferkettenkrisen).
 

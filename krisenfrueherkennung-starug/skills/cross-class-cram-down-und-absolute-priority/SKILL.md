@@ -30,7 +30,7 @@ Wenn eine oder mehrere Gläubigergruppen den Restrukturierungsplan ablehnen (als
 
 **Voraussetzungen (§ 26 Abs. 1 StaRUG):**
 
-1. **Gruppenübergreifende Mehrheit:** Mind. eine Gruppe hat zugestimmt (die gegen den Plan keinen Widerspruch erhebt — „konsentierte Gruppe")
+1. **Gruppenübergreifende Mehrheit:** Mind. eine Gruppe hat zugestimmt (die gegen den Plan keinen Widerspruch erhebt — "konsentierte Gruppe")
 2. **Schlechterstellungsverbot eingehalten:** Kein Mitglied der ablehnenden Gruppe wird schlechter gestellt als im besten Alternativszenario (§ 30 StaRUG)
 3. **Absolute Priority Rule:** Gläubiger ranghöherer Gruppen werden vollständig befriedigt, bevor rangniedrigere Gruppen oder Anteilsinhaber etwas erhalten
 4. **Kein Obstruktionstatbestand:** Die ablehnende Gruppe verhält sich nicht rechtsmissbräuchlich

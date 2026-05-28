@@ -106,9 +106,9 @@ Für jedes klassifizierte Paket:
 
 **Pflichten für unser Einsatzmodell ([SaaS / Distribuiert / Intern / Embedded]):**
 
-- [ ] [Konkrete Pflicht — z. B. „Attribution in NOTICES-Datei, die mit der App ausgeliefert wird"]
-- [ ] [z. B. „Bei Modifikation und Distribution: Quellcode der Änderungen veröffentlichen"]
-- [ ] [z. B. „AGPL-Netzwerktrigger — wenn Nutzer über Netz auf unsere modifizierte Version zugreifen, Quellcode anbieten"]
+- [ ] [Konkrete Pflicht — z. B. "Attribution in NOTICES-Datei, die mit der App ausgeliefert wird"]
+- [ ] [z. B. "Bei Modifikation und Distribution: Quellcode der Änderungen veröffentlichen"]
+- [ ] [z. B. "AGPL-Netzwerktrigger — wenn Nutzer über Netz auf unsere modifizierte Version zugreifen, Quellcode anbieten"]
 
 **Risiko:** 🔴 Kritisch | 🟠 Hoch | 🟡 Mittel | 🟢 Niedrig
 
@@ -118,7 +118,7 @@ Für jedes klassifizierte Paket:
 **Verlinkungsbeziehung bestimmt den Schweregrad:**
 
 - **Statische Verlinkung / gemeinsame Kompilierung:** Werke zu einem Binary vereint. Starkes Signal für Copyleft-Auslösung.
-- **Dynamische Verlinkung / Shared Library:** Werke zur Laufzeit trennbar. LGPL explizit erlaubt (§ 6 LGPL — „work that uses the Library"). GPL-Position umstritten.
+- **Dynamische Verlinkung / Shared Library:** Werke zur Laufzeit trennbar. LGPL explizit erlaubt (§ 6 LGPL — "work that uses the Library"). GPL-Position umstritten.
 - **Header-Einbindung / Inline-Funktionen:** Kann abhängig von Einbindungstiefe ein abgeleitetes Werk begründen.
 - **Subprozess / IPC:** Getrennte Prozesse über wohldefinierte Schnittstellen. Im Regelfall kein abgeleitetes Werk.
 - **Netzwerk-API-Aufruf:** Für die meisten Lizenzen kein Auslöser. Für **AGPL-3.0**: Bereitstellung der Software über Netz gilt als Verbreitung — auch AGPL-Komponente hinter einer API triggert in einer Microservice-Architektur.
@@ -135,10 +135,10 @@ Für jedes klassifizierte Paket:
 
 ### Schritt 5: Kritische Befunde am Anfang des Vermerks kennzeichnen
 
-- **Lizenz unbekannt** — als „Prüfung erforderlich" klassifizieren, nicht als Permissiv. Unklassifizierte Abhängigkeit sollte eine Lieferentscheidung aufhalten.
+- **Lizenz unbekannt** — als "Prüfung erforderlich" klassifizieren, nicht als Permissiv. Unklassifizierte Abhängigkeit sollte eine Lieferentscheidung aufhalten.
 - **Lizenzdatei widerspricht File-Headern** — beide lesen und Widerspruch melden.
 - **Inkompatible Kombinationen** — GPL-2.0-only + Apache-2.0 historisch bekannte Inkompatibilität; MPL / EPL / GPL-Kombinationen sorgfältig prüfen.
-- **Nicht-OSI-Lizenzen als Open Source getarnt** — SSPL, BUSL, Commons Clause, Elastic License. Lizenztexte lesen; nicht dem GitHub-„Open Source"-Badge vertrauen.
+- **Nicht-OSI-Lizenzen als Open Source getarnt** — SSPL, BUSL, Commons Clause, Elastic License. Lizenztexte lesen; nicht dem GitHub-"Open Source"-Badge vertrauen.
 - **Lizenswechsel** — wenn Vorgängerversion permissiv und aktuelle Version Source-Available ist: angepinnte Version entscheidet.
 
 ### Schritt 6: Ausgehende Prüfung (nur bei Code-Veröffentlichung als Open Source)
@@ -231,7 +231,7 @@ Vermerk mit Arbeitsergebnis-Kopfzeile, Gesamtbewertung, kritischen Anfangshinwei
 
 - **GPL-Durchsetzbarkeit in Deutschland unterschätzen:** Deutsche Gerichte haben GPL-Bedingungen konsequent durchgesetzt (LG München I, BGH). Verstöße führen automatisch zum Verlust des Nutzungsrechts.
 - **AGPL-Netzwerkauslöser ignorieren:** Bei SaaS-Anwendungen, die AGPL-Komponenten nutzen, muss der gesamte Quellcode den Nutzern angeboten werden — auch ohne physische Distribution.
-- **Public Domain im deutschen Recht:** § 64 UrhG: Urheberrecht erlischt 70 Jahre nach Tod des Urhebers. Eine „Widmung" in die Gemeinfreiheit ist deutschrechtlich nicht vollständig möglich; CC0 ist die bestmögliche Annäherung.
+- **Public Domain im deutschen Recht:** § 64 UrhG: Urheberrecht erlischt 70 Jahre nach Tod des Urhebers. Eine "Widmung" in die Gemeinfreiheit ist deutschrechtlich nicht vollständig möglich; CC0 ist die bestmögliche Annäherung.
 - **Dynamische vs. statische Verlinkung:** Gleiche Lizenz, entgegengesetztes Ergebnis. LGPL + statisch gelinkt = 🔴; LGPL + dynamisch gelinkt = 🟢.
 - **Lizenswechsel nicht erkannt:** Angepinnte Version bestimmt die Lizenz — nicht die aktuelle Upstream-Version.
 

@@ -19,7 +19,7 @@ Kyoto-Büro: Yuki Yamamoto-Brennecke (bengoshi + RAin, Shijō-dōri, Gion-Higash
 - EuGH C-396/22 (Generali) — Portabilitätsrechte
 - UK Pension Schemes Act 2021 / The Occupational Pension Schemes (Scheme Funding) Regulations 2005 (SI 2005/3377)
 - ERISA (Employee Retirement Income Security Act 1974, USA) — §§ 404–412 (fiduciary duty)
-- Code de la Sécurité Sociale Art. L. 137-11 (Frankreich — régimes à prestations définies — „Article 39"-Pläne)
+- Code de la Sécurité Sociale Art. L. 137-11 (Frankreich — régimes à prestations définies — "Article 39"-Pläne)
 - CPF Act (Central Provident Fund Act, Singapur) — obligatorisches Beitragssystem
 - Defined Benefit Corporate Pension Law Japan (確定給付企業年金法 — kakutei-kyuufu kigyou nenkin-hoo)
 - Japan DC Pension Law (確定拠出年金法 — kakutei-kyoshutsu nenkin-hoo)
@@ -76,7 +76,7 @@ Treuenfels Yamamoto erstellt für jeden Konzern-Mandanten eine länderspezifisch
 
 #### Frankreich
 - Régimes obligatoires: AGIRC-ARRCO (branchenweite Zusatzversorgung — pflichtweise)
-- Art. L. 137-11 CSS: „Article 39"-Pläne (Defined Benefit für Führungskräfte — steuerlich benachteiligt ab 2020er-Reformen)
+- Art. L. 137-11 CSS: "Article 39"-Pläne (Defined Benefit für Führungskräfte — steuerlich benachteiligt ab 2020er-Reformen)
 - PER (Plan d'Épargne Retraite, seit 2019 — DC-Instrument): PER individuel/collectif/obligatoire
 - Autorité de Contrôle Prudentiel et de Résolution (ACPR) als Aufsicht
 
@@ -159,7 +159,7 @@ JP    |   [X] |          [X] |      [X]% | Mittel      | DC-Reform
 
 2. **Tax-Qualified Pension Plan Japan — Altbestände:** Technisch lief der Tax-Qualified Pension Plan (tekikaku taishokukin seido) 2012 aus. In der Praxis gibt es noch Konzerne mit Über­gangsbeständen, die nicht vollständig auf kakutei-kyuufu oder kakutei-kyoshutsu umgestellt wurden. Diese Bestände sind Haftungsrisiken.
 
-3. **Lokale Unabdingbarkeiten:** In vielen Ländern sind bestimmte Versorgungsleistungen unabdingbar (z.B. AGIRC-ARRCO in FR, CPF in SG). Eine „Opting-out"-Strategie ist nicht möglich.
+3. **Lokale Unabdingbarkeiten:** In vielen Ländern sind bestimmte Versorgungsleistungen unabdingbar (z.B. AGIRC-ARRCO in FR, CPF in SG). Eine "Opting-out"-Strategie ist nicht möglich.
 
 4. **IAS 19 Multi-Country DBO:** Konzernjurist muss sicherstellen, dass alle lokalen Aktuare konsistente IAS 19-Annahmen verwenden (Diskontierungszins, Sterbetafeln, Gehaltstrendannahme). Inkonsistente Annahmen verzerren die Konzernbilanz erheblich.
 

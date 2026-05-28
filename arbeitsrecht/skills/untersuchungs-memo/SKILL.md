@@ -112,7 +112,7 @@ Betroffene Abschnitte:
   Anlage A (Chronologie): [N] neue Einträge
 ```
 
-Fragen: „Soll der gesamte Vermerk überarbeitet werden oder nur die
+Fragen: "Soll der gesamte Vermerk überarbeitet werden oder nur die
 betroffenen Abschnitte?"
 
 Geänderte Abschnitte mit `[AKTUALISIERT: Datum]` markieren bis zur

@@ -75,7 +75,7 @@ Mandate von Erwerbern bei Bauträger-Insolvenz — Sicherheiten, Vormerkung, San
 
 ## 5) § 103 InsO — Verwalter-Wahlrecht
 
-> „Der Insolvenzverwalter kann anstelle des Schuldners den Vertrag erfüllen und die Erfüllung vom anderen Teil verlangen."
+> "Der Insolvenzverwalter kann anstelle des Schuldners den Vertrag erfüllen und die Erfüllung vom anderen Teil verlangen."
 
 ### Erfüllungs-Wahl
 

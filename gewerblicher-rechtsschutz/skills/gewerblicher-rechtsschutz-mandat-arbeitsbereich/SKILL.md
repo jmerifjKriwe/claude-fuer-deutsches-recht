@@ -64,16 +64,16 @@ Auf das erste Token des Arguments dispatchen.
 1. Prüfen, ob das Kurzzeichen nicht bereits in `mandate/<kurzzeichen>/` oder `mandate/_archiv/<kurzzeichen>/` vorhanden ist. Bei Kollision: anderen Namen wählen lassen.
 2. Aufnahmeinterview durchführen (in einem Durchgang):
    - **Mandant** — vertretene Partei oder interne Geschäftseinheit
-   - **Gegenpartei** — andere Seite (kann mehrere umfassen; kann „unbekannter Drittverletzer" bei Watch-Treffern sein)
+   - **Gegenpartei** — andere Seite (kann mehrere umfassen; kann "unbekannter Drittverletzer" bei Watch-Treffern sein)
    - **Mandatstyp** — für gewerblichen Rechtsschutz: Markenschutz / Markenverletzung / Schutzrechtsübertragung / Patentverletzung / FTO-Gutachten / IP-Klauselprüfung / OSS-Compliance / Portfolioverwaltung / Störerhaftung / Sonstiges
    - **Vertraulichkeitsstufe** — standard | erhöht | Clean-Team (erhöht bei besonderer Sensibilität, Clean-Team häufig bei FTO-Gutachten und Patentkäufen)
    - **Wesentliche Tatsachen** — 2–5 Sätze: Worum geht es, wer sind die Beteiligten, was steht auf dem Spiel
-   - **Mandatsspezifische Abweichungen von der Standardposition** (z. B. „Mandant wünscht nur schriftliche Kommunikation", „Gegenpartei ist Geschäftspartner — maßvoller Ton")
+   - **Mandatsspezifische Abweichungen von der Standardposition** (z. B. "Mandant wünscht nur schriftliche Kommunikation", "Gegenpartei ist Geschäftspartner — maßvoller Ton")
    - **Verbundene Mandate** — Kurzzeichen zusammenhängender Mandate
 3. `mandate/<kurzzeichen>/mandat.md` mit der unten angegebenen Vorlage schreiben.
 4. `mandate/<kurzzeichen>/verlauf.md` mit einem einzigen Eröffnungseintrag anlegen.
 5. Leere `mandate/<kurzzeichen>/notizen.md` anlegen.
-6. **Nicht** automatisch zum neuen Mandat wechseln. Fragen: „Möchten Sie jetzt zu `<kurzzeichen>` wechseln?"
+6. **Nicht** automatisch zum neuen Mandat wechseln. Fragen: "Möchten Sie jetzt zu `<kurzzeichen>` wechseln?"
 
 ---
 
@@ -84,7 +84,7 @@ Auf das erste Token des Arguments dispatchen.
 | Kurzzeichen | Mandant | Mandatstyp | Status | Eröffnet | Aktiv |
 |---|---|---|---|---|---|
 
-Aktives Mandat mit `*` markieren. `_archiv/*` unter gesonderter Überschrift „Archivierte Mandate" anführen.
+Aktives Mandat mit `*` markieren. `_archiv/*` unter gesonderter Überschrift "Archivierte Mandate" anführen.
 
 ---
 
@@ -99,7 +99,7 @@ Aktives Mandat mit `*` markieren. `_archiv/*` unter gesonderter Überschrift „
 #### Befehl `schliessen <kurzzeichen>`
 
 1. `mandate/<kurzzeichen>/` auf Existenz prüfen.
-2. „Geschlossen"-Eintrag mit aktuellem Datum an `mandate/<kurzzeichen>/verlauf.md` anhängen.
+2. "Geschlossen"-Eintrag mit aktuellem Datum an `mandate/<kurzzeichen>/verlauf.md` anhängen.
 3. `mandate/<kurzzeichen>/` nach `mandate/_archiv/<kurzzeichen>/` verschieben.
 4. War das geschlossene Mandat das aktive Mandat: `Aktives Mandat:` auf `kein — nur Praxisebene` setzen.
 
@@ -142,9 +142,9 @@ Aktives Mandat mit `*` markieren. `_archiv/*` unter gesonderter Überschrift „
 
 *Jede Abweichung von der Praxisstandposition, die nur für dieses Mandat gilt.*
 
-- [z. B. „Durchsetzungsstrategie: hier maßvoll, obwohl Hausstandard aggressiv — Gegenpartei ist wichtiger Handelspartner."]
-- [z. B. „Genehmigung für Abmahnungen: zusätzliche Freigabe durch Mandant erforderlich."]
-- [z. B. „Clean-Team: Mandatsakten auch bei aktiviertem mandatsübergreifendem Kontext nicht lesbar."]
+- [z. B. "Durchsetzungsstrategie: hier maßvoll, obwohl Hausstandard aggressiv — Gegenpartei ist wichtiger Handelspartner."]
+- [z. B. "Genehmigung für Abmahnungen: zusätzliche Freigabe durch Mandant erforderlich."]
+- [z. B. "Clean-Team: Mandatsakten auch bei aktiviertem mandatsübergreifendem Kontext nicht lesbar."]
 
 ## Verbundene Mandate
 
@@ -167,7 +167,7 @@ Nur-Anhänge-Ereignisprotokoll. Neuestes oben.
 ## [JJJJ-MM-TT] — Mandat eröffnet
 
 Aufnahme abgeschlossen. Kurzzeichen: `[kurzzeichen]`. Status: aktiv.
-[Ggf. initialer Kontext — z. B. „Eröffnet nach Watch-Treffer auf `APEXLEAF` in Klasse 25."]
+[Ggf. initialer Kontext — z. B. "Eröffnet nach Watch-Treffer auf `APEXLEAF` in Klasse 25."]
 ```
 
 ## Beispiel

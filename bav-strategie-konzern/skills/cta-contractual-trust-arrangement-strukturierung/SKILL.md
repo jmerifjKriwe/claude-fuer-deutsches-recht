@@ -98,11 +98,11 @@ TREUHANDVERTRAG
 
 zwischen
 
-[Konzern Muster AG], Düsseldorf (nachfolgend „Treugeber")
+[Konzern Muster AG], Düsseldorf (nachfolgend "Treugeber")
 
 und
 
-[Konzern Pension Treuhand GmbH], Düsseldorf (nachfolgend „Treuhänder")
+[Konzern Pension Treuhand GmbH], Düsseldorf (nachfolgend "Treuhänder")
 
 Präambel
 Der Treugeber hat gegenüber seinen Arbeitnehmern Versorgungszusagen im Rahmen
@@ -112,7 +112,7 @@ vermögen sicherzustellen (Contractual Trust Arrangement — CTA).
 
 § 1 Gegenstand und Zweck
 (1) Der Treugeber überträgt dem Treuhänder hiermit dinglich und unwiderruflich
-Vermögenswerte (nachfolgend „Treuhandvermögen") gemäß Anlage 1 zum alleinigen
+Vermögenswerte (nachfolgend "Treuhandvermögen") gemäß Anlage 1 zum alleinigen
 Zweck der Sicherung und künftigen Erfüllung der in Anlage 2 bezeichneten
 Versorgungsverpflichtungen des Treugebers gegenüber seinen Versorgungsberechtigten
 (§ 17 Abs. 1 BetrAVG).
@@ -229,7 +229,7 @@ IAS 19 — plan asset:
 
 ## Fallstricke
 
-1. **Nur schuldrechtliche Zweckbindung genügt nicht (BAG, Urt. v. 22.09.2020 — 3 AZR 303/18):** Rein vertragliche Bindungen ohne dingliche Übertragung schaffen kein insolvenzfestes Treuhandvermögen. Häufiger Fehler bei „einfachen" CTA-Gestaltungen älterer Prägung.
+1. **Nur schuldrechtliche Zweckbindung genügt nicht (BAG, Urt. v. 22.09.2020 — 3 AZR 303/18):** Rein vertragliche Bindungen ohne dingliche Übertragung schaffen kein insolvenzfestes Treuhandvermögen. Häufiger Fehler bei "einfachen" CTA-Gestaltungen älterer Prägung.
 
 2. **Rückübertragungsrechte gefährden plan asset-Status:** Zu weitgehende Rückrufrechte des Arbeitgebers können zur Versagung des plan asset-Status durch IAS 19 führen. Standard: Rückübertragung nur bei Überschuss und mit Treuhandausschuss-Zustimmung.
 

@@ -50,7 +50,7 @@ Nicht jede Unsicherheit ist Kenntnis. Umgekehrt kann der Empfänger nach klarer 
 
 ## Typische Fehler
 
-- „Geld ist weg“ als Ergebnis genügen lassen.
+- "Geld ist weg" als Ergebnis genügen lassen.
 - Surrogate und Ersparnisse übersehen.
 - Zinsen, Nutzungen und Wertersatz doppelt zählen.
 

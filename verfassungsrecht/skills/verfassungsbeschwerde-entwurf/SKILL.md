@@ -37,7 +37,7 @@ Akt der **deutschen öffentlichen Gewalt:**
 - Gesetze (Rechtssatzverfassungsbeschwerde).
 - Realakte.
 
-**Ausschluss:** Akte ausländischer und supranationaler Organe (mit Ausnahme der „Solange-Rechtsprechung" zum Unionsrecht).
+**Ausschluss:** Akte ausländischer und supranationaler Organe (mit Ausnahme der "Solange-Rechtsprechung" zum Unionsrecht).
 
 ### 4. Beschwerdebefugnis
 

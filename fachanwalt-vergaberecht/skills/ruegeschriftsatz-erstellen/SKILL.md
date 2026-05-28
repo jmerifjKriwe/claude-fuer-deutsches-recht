@@ -189,7 +189,7 @@ I. Sachverhalt
 
 Die Bekanntmachung vom [Datum] (TED-Nr. [X]) und die gleichlautenden
 Vergabeunterlagen (Eignungskriterien, Ziff. [X]) enthalten folgende
-Anforderung: „Vorlage von mindestens drei Referenzen vergleichbarer
+Anforderung: "Vorlage von mindestens drei Referenzen vergleichbarer
 Leistungen, jeweils mit einem Auftragswert von mindestens
 [Betrag] Euro netto, erbracht in den letzten [X] Jahren."
 
@@ -335,14 +335,14 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 | Gegenargument des Auftraggebers | Erwiderung |
 |---|---|
-| „Rüge erfolgte nicht unverzüglich" | Unverzüglichkeit ist objektiv zu beurteilen; 1–2 Werktage nach Erkennbarkeit sind regelmäßig ausreichend (OLG Düsseldorf Verg 23/17); bei komplexen Sachverhalten bis zu 5 Werktage anerkannt |
-| „Rüge ist zu unbestimmt / pauschal" | Konkrete Norm und Sachverhalt wurden bezeichnet; Rüge darf kein vollständiges Rechtsgutachten sein (BGH X ZB 14/13); ausreichend ist schlüssige Behauptung eines Verstoßes |
-| „Bieter hat Unterlagen akzeptiert durch Angebotsabgabe" | Präklusion durch Angebotsabgabe gilt nur bei erkennbaren Unterlagenfehlern vor Abgabefrist; für Wertungsfehler nach Abgabe kein Präklusionsrisiko |
-| „Rüge hat keine aufschiebende Wirkung" | Korrekt; aufschiebende Wirkung entsteht erst mit Eingang des Nachprüfungsantrags (§ 169 Abs. 1 GWB); Rüge dient als Zulässigkeitsvoraussetzung |
-| „Aufklärung nach § 60 VgV wurde intern durchgeführt" | Dokumentationspflicht aus § 134 VgV; ohne Nachweis im Vergabevermerk besteht Verstoß; Akteneinsicht via Vergabekammer möglich |
-| „Zuschlagskriterien waren vorab bekannt" | Kenntnis der Kriterien schließt Wertungsfehler bei der Anwendung nicht aus; fehlerhafte Punktevergabe ist eigenständiger Verstoß unabhängig von der Transparenz der Kriterien |
-| „Schwellenwert nicht erreicht" | Schwellenwertberechnung nach § 3 VgV; Aufspaltungsverbot (§ 97 Abs. 4 GWB); gesamter Auftragswert maßgeblich |
-| „Kein Schaden, da Angebot ohnehin zweigünstigst" | Keine materielle Schadensvoraussetzung bei Zulässigkeitsprüfung; drohender Schaden genügt (§ 160 Abs. 1 GWB) |
+| "Rüge erfolgte nicht unverzüglich" | Unverzüglichkeit ist objektiv zu beurteilen; 1–2 Werktage nach Erkennbarkeit sind regelmäßig ausreichend (OLG Düsseldorf Verg 23/17); bei komplexen Sachverhalten bis zu 5 Werktage anerkannt |
+| "Rüge ist zu unbestimmt / pauschal" | Konkrete Norm und Sachverhalt wurden bezeichnet; Rüge darf kein vollständiges Rechtsgutachten sein (BGH X ZB 14/13); ausreichend ist schlüssige Behauptung eines Verstoßes |
+| "Bieter hat Unterlagen akzeptiert durch Angebotsabgabe" | Präklusion durch Angebotsabgabe gilt nur bei erkennbaren Unterlagenfehlern vor Abgabefrist; für Wertungsfehler nach Abgabe kein Präklusionsrisiko |
+| "Rüge hat keine aufschiebende Wirkung" | Korrekt; aufschiebende Wirkung entsteht erst mit Eingang des Nachprüfungsantrags (§ 169 Abs. 1 GWB); Rüge dient als Zulässigkeitsvoraussetzung |
+| "Aufklärung nach § 60 VgV wurde intern durchgeführt" | Dokumentationspflicht aus § 134 VgV; ohne Nachweis im Vergabevermerk besteht Verstoß; Akteneinsicht via Vergabekammer möglich |
+| "Zuschlagskriterien waren vorab bekannt" | Kenntnis der Kriterien schließt Wertungsfehler bei der Anwendung nicht aus; fehlerhafte Punktevergabe ist eigenständiger Verstoß unabhängig von der Transparenz der Kriterien |
+| "Schwellenwert nicht erreicht" | Schwellenwertberechnung nach § 3 VgV; Aufspaltungsverbot (§ 97 Abs. 4 GWB); gesamter Auftragswert maßgeblich |
+| "Kein Schaden, da Angebot ohnehin zweigünstigst" | Keine materielle Schadensvoraussetzung bei Zulässigkeitsprüfung; drohender Schaden genügt (§ 160 Abs. 1 GWB) |
 
 ---
 

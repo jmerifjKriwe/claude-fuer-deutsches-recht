@@ -1,6 +1,6 @@
 ---
 name: antragspflicht-15a-inso
-description: "Analysiert die Insolvenzantragspflicht des Geschäftsleiters nach § 15a InsO, die Haftung wegen Insolvenzverschleppung (§ 823 Abs. 2 BGB iVm § 15a InsO) sowie das Zahlungsverbot nach § 15b InsO. Lädt, wenn Schlagwörter wie „Antragspflicht\", „Insolvenzverschleppung\", „3-Wochen-Frist\", „Zahlungsverbot\" oder „§ 15a InsO\" auftreten."
+description: "Analysiert die Insolvenzantragspflicht des Geschäftsleiters nach § 15a InsO, die Haftung wegen Insolvenzverschleppung (§ 823 Abs. 2 BGB iVm § 15a InsO) sowie das Zahlungsverbot nach § 15b InsO. Lädt, wenn Schlagwörter wie "Antragspflicht\", "Insolvenzverschleppung\", "3-Wochen-Frist\", "Zahlungsverbot\" oder "§ 15a InsO\" auftreten."
 ---
 
 # § 15a InsO — Antragspflicht, Insolvenzverschleppung und § 15b InsO Zahlungsverbot
@@ -38,7 +38,7 @@ Wochen nach Eintritt der Zahlungsunfähigkeit oder sechs Wochen nach Eintritt
 der Überschuldung, Insolvenzantrag zu stellen. Die verlängerte Sechswochenfrist
 für Überschuldung wurde durch das Sanierungs- und Insolvenzrechtsfortentwick-
 lungsgesetz (SanInsFoG) zum 01.01.2021 eingeführt (zuvor ebenfalls drei
-Wochen). Beide Fristen sind **Höchstfristen**, kein „Recht zu warten": Der
+Wochen). Beide Fristen sind **Höchstfristen**, kein "Recht zu warten": Der
 Antrag ist zu stellen, sobald ein Eröffnungsgrund vorliegt und ernsthafte,
 objektiv erfolgversprechende Sanierungsbemühungen nicht nachgewiesen werden
 können.
@@ -246,7 +246,7 @@ Ein Insolvenzantrag wird erst am 02.06.2026 gestellt.
 
 ## Risiken und typische Fehler
 
-**1. Fristbeginn bei „wusste oder musste wissen"**
+**1. Fristbeginn bei "wusste oder musste wissen"**
 Der Fristbeginn ist objektiv. Es genügt, dass der Geschäftsleiter bei
 pflichtgemäßer Sorgfalt — d.h. bei Führung einer ordnungsgemäßen Buchhaltung
 und zeitnäher Aufstellung von Liquiditätsplänen — den Eröffnungsgrund hätte

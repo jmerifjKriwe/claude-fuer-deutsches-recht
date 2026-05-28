@@ -159,7 +159,7 @@ BGH, Urt. v. 13.04.2016 — **IV ZR 220/14**, NJW 2016, 2184 Rn. 26: Bei D&O-Ver
 
 BGH, Urt. v. 18.11.2020 — **IV ZR 217/19**, NJW 2021, 231: D&O-Versicherung; Deckungsschutz bei Haftung des GmbH-Geschäftsführers nach § 64 GmbHG (Zahlungen nach Insolvenzreife); Eintrittspflicht des Versicherers bei Ansprüchen aus § 64 Satz 1 GmbHG.
 
-BGH, Urt. v. 13.04.2010 — **IV ZR 118/09**, BGHZ 185, 252 Rn. 22: Das „Claims-made"-Prinzip in der D&O-Versicherung (Versicherungsschutz knüpft an Anspruchserhebung, nicht an schadensbegründendes Ereignis an) ist mit dem deutschen AGB-Recht vereinbar; Nachhaftungsklauseln müssen klar und transparent formuliert sein.
+BGH, Urt. v. 13.04.2010 — **IV ZR 118/09**, BGHZ 185, 252 Rn. 22: Das "Claims-made"-Prinzip in der D&O-Versicherung (Versicherungsschutz knüpft an Anspruchserhebung, nicht an schadensbegründendes Ereignis an) ist mit dem deutschen AGB-Recht vereinbar; Nachhaftungsklauseln müssen klar und transparent formuliert sein.
 
 OLG Frankfurt, Urt. v. 24.02.2021 — **7 U 74/19**, VersR 2021, 812 Rn. 14: Bei D&O-Streitigkeiten über die Deckungsablehnung wegen Vorsatz ist die Forderungsstellung der Gesellschaft gegen den Geschäftsführer von der Deckungsfrage zu trennen; der Versicherer kann dem Versicherten im Deckungsprozess Einwendungen aus § 43 GmbHG nicht selbst entgegenhalten.
 

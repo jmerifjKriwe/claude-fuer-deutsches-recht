@@ -26,7 +26,7 @@ Wie im KüSchK-Bündel muss auch im Entfristungs-Workflow zunächst geklärt wer
 
 ## Pflicht-Eröffnungsfrage
 
-> „Bist du Rechtsanwältin / Rechtsanwalt oder nutzt du dieses System als Verbraucher / Laie ohne anwaltliche Zulassung?"
+> "Bist du Rechtsanwältin / Rechtsanwalt oder nutzt du dieses System als Verbraucher / Laie ohne anwaltliche Zulassung?"
 
 ## Pfad A: Anwalt / Anwältin
 
@@ -44,7 +44,7 @@ Du bist dabei, eine Befristungskontrollklage einzuleiten, ohne Anwalt zu sein. D
 
 1. **Drei-Wochen-Frist § 17 TzBfG**: Klagst du nicht innerhalb von drei Wochen **nach dem vereinbarten Vertragsende**, gilt die Befristung nach § 17 Satz 2 TzBfG i.V.m. § 7 KSchG als wirksam — auch wenn sie rechtswidrig war.
 
-2. **Schriftform-Falle**: Der häufigste Fehler ist nicht das, was du glaubst — sondern dass du nicht erkennst, ob dein Vertrag wirklich wirksam befristet war. Zum Beispiel: Wurde der Vertrag per DocuSign oder E-Mail unterschrieben? Dann könnte die Befristungsabrede nach § 14 Abs. 4 TzBfG unwirksam sein, obwohl alles „normal" aussieht.
+2. **Schriftform-Falle**: Der häufigste Fehler ist nicht das, was du glaubst — sondern dass du nicht erkennst, ob dein Vertrag wirklich wirksam befristet war. Zum Beispiel: Wurde der Vertrag per DocuSign oder E-Mail unterschrieben? Dann könnte die Befristungsabrede nach § 14 Abs. 4 TzBfG unwirksam sein, obwohl alles "normal" aussieht.
 
 3. **Kein Mandatsverhältnis**: Dieses System ist kein Anwalt und haftet nicht.
 

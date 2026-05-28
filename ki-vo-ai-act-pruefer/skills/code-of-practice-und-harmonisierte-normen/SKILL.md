@@ -27,7 +27,7 @@ Prüffragen:
 - Gibt es Lücken, weil die Norm nicht alle Anforderungen abdeckt?
 
 Dokumentationsregel:
-- Nie pauschal schreiben “ISO-konform = KI-VO-konform”.
+- Nie pauschal schreiben "ISO-konform = KI-VO-konform".
 - Immer benennen, welche Norm welche Anforderung abdeckt und ob eine EU-Vermutungswirkung besteht.
 
 ## Art. 41 KI-VO — gemeinsame Spezifikationen

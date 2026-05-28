@@ -281,12 +281,12 @@ Anlagen: Kalkulation, Bautagebücher, SOLL/IST-Vergleich
 
 | Gegenargument Auftraggeber | Reaktion |
 |---------------------------|---------|
-| „Behinderungsanzeige fehlte oder zu spät" | Offenkundigkeit als Ausnahme; subsidiär: Kausalität fehlende Anzeige und Schaden nachweisen |
-| „Behinderung lag nicht auf kritischem Pfad" | Eigene Bauablaufanalyse mit SV; BGH VII ZR 201/13 verlangt Kritischer-Pfad-Nachweis |
-| „Mehrkosten überhöht" | Detaillierte Kalkulation nach Gerätelisten, Stundenzettel; § 287 ZPO-Schätzung |
-| „Kein Verschulden (§ 6 Abs. 6 VOB/B)" | Subsidiär § 642 BGB-Entschädigung ohne Verschulden; nur Gewinnkomponente entfällt |
-| „AN hat mitverschuldet" | § 254 BGB: Mitverschuldensquote prüfen; AN muss Schaden minimieren (z.B. Ressourcen umleiten) |
-| „Witterung ist allgemeines Risiko" | § 6 Abs. 2 Nr. 1 lit. c VOB/B: nur ungewöhnliche Witterung berechtigt zur Verlängerung; statistischer Nachweis |
+| "Behinderungsanzeige fehlte oder zu spät" | Offenkundigkeit als Ausnahme; subsidiär: Kausalität fehlende Anzeige und Schaden nachweisen |
+| "Behinderung lag nicht auf kritischem Pfad" | Eigene Bauablaufanalyse mit SV; BGH VII ZR 201/13 verlangt Kritischer-Pfad-Nachweis |
+| "Mehrkosten überhöht" | Detaillierte Kalkulation nach Gerätelisten, Stundenzettel; § 287 ZPO-Schätzung |
+| "Kein Verschulden (§ 6 Abs. 6 VOB/B)" | Subsidiär § 642 BGB-Entschädigung ohne Verschulden; nur Gewinnkomponente entfällt |
+| "AN hat mitverschuldet" | § 254 BGB: Mitverschuldensquote prüfen; AN muss Schaden minimieren (z.B. Ressourcen umleiten) |
+| "Witterung ist allgemeines Risiko" | § 6 Abs. 2 Nr. 1 lit. c VOB/B: nur ungewöhnliche Witterung berechtigt zur Verlängerung; statistischer Nachweis |
 
 ## Streitwert und Kosten
 

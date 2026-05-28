@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsrecht-mandat-arbeitsbereich
-description: "Mandats-Workspaces verwalten — anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen, damit Mehrfachmandatsanwälte den Kontext eines Mandats sauber von jedem anderen trennen. Wird von allen inhaltlichen Skills gelesen, die wissen müssen, in welchem Mandat sie arbeiten. Lädt bei „neues Mandat\", „Mandat wechseln\", „Mandate auflisten\", „Mandat schließen\" oder wenn der Nutzer nur auf Praxisebene arbeiten möchte."
+description: "Mandats-Workspaces verwalten — anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen, damit Mehrfachmandatsanwälte den Kontext eines Mandats sauber von jedem anderen trennen. Wird von allen inhaltlichen Skills gelesen, die wissen müssen, in welchem Mandat sie arbeiten. Lädt bei "neues Mandat\", "Mandat wechseln\", "Mandate auflisten\", "Mandat schließen\" oder wenn der Nutzer nur auf Praxisebene arbeiten möchte."
 ---
 
 # Mandats-Workspace
@@ -32,15 +32,15 @@ Vor Anlage eines neuen Mandats-Workspace sind folgende Angaben erforderlich:
 ### Normtexte mit Auszügen
 
 **§ 43a Abs. 2 BRAO — Verschwiegenheitspflicht**
-> „Der Rechtsanwalt ist zur Verschwiegenheit verpflichtet. Diese Pflicht bezieht sich auf alles, was ihm in Ausübung seines Berufes bekanntgeworden ist."
+> "Der Rechtsanwalt ist zur Verschwiegenheit verpflichtet. Diese Pflicht bezieht sich auf alles, was ihm in Ausübung seines Berufes bekanntgeworden ist."
 
 Die Verschwiegenheitspflicht gilt unbegrenzt zeitlich, auch nach Mandatsbeendigung. Sie gilt für alle Mitarbeiter der Kanzlei (§ 43a Abs. 2 S. 3 BRAO) und für alle Informationsträger — physisch und digital.
 
 **§ 203 Abs. 1 Nr. 3 StGB — Verletzung von Privatgeheimnissen**
-> „Wer unbefugt ein fremdes Geheimnis, namentlich ein zum persönlichen Lebensbereich gehörendes Geheimnis oder ein Betriebs- oder Geschäftsgeheimnis, offenbart, das ihm als Rechtsanwalt [...] anvertraut worden ist oder sonst bekanntgeworden ist, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft."
+> "Wer unbefugt ein fremdes Geheimnis, namentlich ein zum persönlichen Lebensbereich gehörendes Geheimnis oder ein Betriebs- oder Geschäftsgeheimnis, offenbart, das ihm als Rechtsanwalt [...] anvertraut worden ist oder sonst bekanntgeworden ist, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft."
 
 **§ 43a Abs. 4 BRAO — Verbot der Wahrnehmung widerstreitender Interessen**
-> „Der Rechtsanwalt darf keine widerstreitenden Interessen vertreten."
+> "Der Rechtsanwalt darf keine widerstreitenden Interessen vertreten."
 
 Dieser Skill führt **keine** Interessenkonfliktprüfung durch. Die Konfliktprüfung obliegt dem Anwalt vor jeder Mandatsannahme. Der Skill stellt lediglich sicher, dass Mandatsinhalte technisch getrennt bleiben.
 
@@ -206,9 +206,9 @@ Was macht dieses Mandat vom Standardprofil abweichend?]
 
 *Jede Abweichung vom Kanzlei-Standard auf Mandatsebene — gilt nur für dieses Mandat.*
 
-- [z.B. „Haftungsdeckelung: Mandant besteht auf 24 Monaten statt Hausstandard 12 Monate."]
-- [z.B. „Ton: beziehungspflegend — Gegenpartei ist strategischer Partner."]
-- [z.B. „Anwendbares Recht: Deutsches Recht zwingend, kein englisches Recht."]
+- [z.B. "Haftungsdeckelung: Mandant besteht auf 24 Monaten statt Hausstandard 12 Monate."]
+- [z.B. "Ton: beziehungspflegend — Gegenpartei ist strategischer Partner."]
+- [z.B. "Anwendbares Recht: Deutsches Recht zwingend, kein englisches Recht."]
 
 ## GwG-Compliance (§§ 1 ff. GwG)
 
@@ -218,7 +218,7 @@ Was macht dieses Mandat vom Standardprofil abweichend?]
 
 ## Verbundene Mandate
 
-- [slug — ein Satz, warum verbunden; z.B. „NDA-Phase vorgelagerter Rechtsauftrag"]
+- [slug — ein Satz, warum verbunden; z.B. "NDA-Phase vorgelagerter Rechtsauftrag"]
 
 ## Vertraulichkeitshinweise
 
@@ -238,13 +238,13 @@ Nur-Anhängen-Ereignisprotokoll. Neuestes oben.
 ## [JJJJ-MM-TT] — Mandat eröffnet
 
 Aufnahme abgeschlossen. Slug: `[slug]`. Status: aktiv.
-[Ggf. anfänglicher Kontext — z.B. „Eröffnet auf Eingang eines SPA-Entwurfs von [Gegenpartei]."]
+[Ggf. anfänglicher Kontext — z.B. "Eröffnet auf Eingang eines SPA-Entwurfs von [Gegenpartei]."]
 
 ---
 
 ## [JJJJ-MM-TT] — Transaktionsphase gewechselt
 
-Von [Phase A] zu [Phase B]. Anlass: [Ereignis, z.B. „LOI unterzeichnet"].
+Von [Phase A] zu [Phase B]. Anlass: [Ereignis, z.B. "LOI unterzeichnet"].
 
 ---
 
@@ -261,9 +261,9 @@ Abschlussdatum: [JJJJ-MM-TT]. Anlass: [Abschluss der Transaktion / Mandatsnieder
 1. Slug prüfen: nicht bereits in `mandate/<slug>/` oder `mandate/_archiv/<slug>/` vorhanden. Falls wiederverwendet: anderen Slug vorschlagen.
 2. Aufnahme-Interview nach Kaltstart-Rückfragen durchführen.
 3. `mandate/<slug>/mandat.md` anhand der Vorlage schreiben.
-4. `mandate/<slug>/verlauf.md` mit Eintrag „Eröffnet" anlegen.
+4. `mandate/<slug>/verlauf.md` mit Eintrag "Eröffnet" anlegen.
 5. Leere `mandate/<slug>/notizen.md` erstellen.
-6. Nicht automatisch wechseln. Fragen: „Möchten Sie jetzt zu `<slug>` wechseln?"
+6. Nicht automatisch wechseln. Fragen: "Möchten Sie jetzt zu `<slug>` wechseln?"
 
 ### `liste`
 
@@ -283,7 +283,7 @@ Aktives Mandat mit `*` markieren. Archiv unter separater Überschrift.
 ### `schließen <slug>`
 
 1. `mandate/<slug>/` auf Existenz prüfen.
-2. Eintrag „Geschlossen" mit heutigem Datum an `verlauf.md` anhängen.
+2. Eintrag "Geschlossen" mit heutigem Datum an `verlauf.md` anhängen.
 3. `mandate/<slug>/` → `mandate/_archiv/<slug>/` verschieben.
 4. War das geschlossene Mandat das aktive: `Aktives Mandat:` auf `keine — nur Praxiskontextdaten` setzen.
 
@@ -297,7 +297,7 @@ CLAUDE.md auf Praxisebene enthält einen `Mandatsübergreifender Kontext:`-Schal
 
 **Wenn `aus` (Standard):** Ein Skill, der in Mandat A arbeitet, liest niemals Dateien in `mandate/B/`. Dies ist die Vertraulichkeitsgarantie.
 
-**Wenn `an`:** Ein Skill darf Mandatsdaten mandatsübergreifend nur dann lesen, wenn der Nutzer dies ausdrücklich verlangt (z.B. „Vergleiche die Haftungsbegrenzungen in den letzten fünf Vendor-Mandaten"). Auch bei `an` ist der Standard: nur das aktive Mandat laden, außer bei ausdrücklicher Vergleichsanfrage.
+**Wenn `an`:** Ein Skill darf Mandatsdaten mandatsübergreifend nur dann lesen, wenn der Nutzer dies ausdrücklich verlangt (z.B. "Vergleiche die Haftungsbegrenzungen in den letzten fünf Vendor-Mandaten"). Auch bei `an` ist der Standard: nur das aktive Mandat laden, außer bei ausdrücklicher Vergleichsanfrage.
 
 **Bei erhöhter Vertraulichkeit:** Auch wenn der globale Schalter auf `an` steht, gilt für Mandate mit `Vertraulichkeit: erhöht` oder `clean-team`: mandatsübergreifender Kontext nur nach Einzelgenehmigung des Anwalts.
 
