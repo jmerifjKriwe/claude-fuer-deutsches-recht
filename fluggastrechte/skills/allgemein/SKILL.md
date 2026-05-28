@@ -1,9 +1,89 @@
 ---
 name: allgemein
-description: "Einstieg und Triage für Fluggastrechte nach VO (EG) Nr. 261/2004: Stoerungsereignis einordnen, Ausgleichszahlung berechnen, Airline-Ausreden widerlegen, Forderungsschreiben und Klage vorbereiten."
+description: "Einstieg, Schnelltriage und Workflow-Routing im Fluggastrechte-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan."
 ---
 
 # Fluggastrechte — Allgemein
+
+## Schnellstart-Workflow
+
+Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Fluggastrechte**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
+
+**Plugin-Fokus:** Fluggastrechte selber geltend machen — VO (EG) Nr. 261/2004 plus EuGH-Rspr. Tickets erfassen Annullierung vs Verspaetung prüfen außergewoehnliche Umstaende Distanz und Ausgleich Forderungsschreiben Mahnung Klage Amtsgericht. Vollmacht Familie. Katalog Airline-Standardausreden.
+
+### 1. Intake in 60 Sekunden
+
+Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
+
+| Punkt | Frage | Warum wichtig? |
+|---|---|---|
+| Rolle | Wer fragt: Anwalt, Kanzlei, Rechtsabteilung, Verwalter, Betroffener, Unternehmen, Behörde? | Perspektive und Ton bestimmen. |
+| Ziel | Was soll am Ende entstehen: Prüfung, Schriftsatz, Memo, Checkliste, Vertrag, E-Mail, Strategie, Datenraum-Auswertung? | Output sofort sauber ausrichten. |
+| Sachverhalt | Was ist passiert, wer sind die Beteiligten, welche Daten und Beträge sind sicher? | Keine Arbeit auf Luft bauen. |
+| Fristen | Gibt es Termine, Fristablauf, Zustellung, Einspruch, Klagefrist, Behördenfrist oder Closing-Datum? | Eilsachen zuerst sichern. |
+| Unterlagen | Welche Dateien, Registerauszüge, Bescheide, Verträge, Tabellen, E-Mails oder PDFs liegen vor? | Aktenarbeit statt Raten. |
+| Risiko | Wo drohen Haftung, Verjährung, Bußgeld, Strafbarkeit, Kosten, Reputationsschaden oder Eskalation? | Priorität und Vorsicht einstellen. |
+| Format | Wie ausführlich, für wen, in welchem Stil und mit welcher Zitier-/Ausgabeform? | Ergebnis direkt verwendbar machen. |
+
+### 2. Sofort-Triage
+
+Arbeite danach in dieser Reihenfolge:
+
+1. **Eilprüfung:** Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
+2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
+3. **Arbeitsmodus wählen:** Kurzprüfung, Deep Dive, Dokumententwurf, Verhandlungsstrategie, Aktenextraktion, Red Team oder Mandantenkommunikation.
+4. **Spezial-Skills vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund.
+5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
+6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
+
+### 3. Routing-Regeln
+
+- Schlage **immer zuerst Skills aus diesem Plugin** vor. Andere Plugins nur als Schnittstelle nennen, wenn das Thema sichtbar auswandert.
+- Nenne nie nur einen Skillnamen. Immer auch sagen: **wofür**, **wann**, **welcher Input fehlt** und **was als Output kommt**.
+- Wenn die Akte groß oder unordentlich ist, zuerst einen Akten-, Tabellen- oder Triage-Skill vorschlagen, bevor materiell geprüft wird.
+- Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
+- Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
+- Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Spezial-Skill.
+
+### 4. Antwortformat für den Einstieg
+
+Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
+
+**Kurzbild**
+- Ziel: [...]
+- Rolle/Perspektive: [...]
+- Eilt wegen: [...]
+- Fehlende Unterlagen: [...]
+
+**Vorgeschlagener Workflow**
+1. [...]
+2. [...]
+3. [...]
+
+**Passende Skills aus diesem Plugin**
+| Skill | Warum jetzt? | Erwarteter Output |
+|---|---|---|
+| `...` | [...] | [...] |
+
+**Nächste Frage**
+[Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
+
+### 5. Spezial-Skills in diesem Plugin
+
+| Skill | Wann vorschlagen? |
+|---|---|
+| `airline-standardausreden-pruefen` | Katalog typischer Standardausreden der Fluggesellschaften mit Gegenargumenten und Pinpoint auf EuGH-Rechtsprechung. Behandelt technischer Defekt wilder Streik Streik der Gewerkschaft Crew-Engpass verdeckter… |
+| `annullierung-oder-verspaetung-einordnen` | Ordnet das Stoerungsereignis rechtlich ein — Annullierung (Art. 5 VO 261/2004) Verspaetung (Art. 6 VO 261/2004 plus EuGH-Sturgeon-Rechtsprechung) Nichtbefoerderung wegen Overbooking (Art. 4 VO 261/2004) oder reine… |
+| `anschlussflug-und-reiseplan` | Behandelt Reiseplaene mit Anschlussfluegen (Connecting Flights) und mehreren Etappen. Massgeblich ist die Ankunftsverspaetung am Endziel der Reise (EuGH C-11/11 Folkerts und C-559/16 Wegener). Prüfraster eine Buchung… |
+| `ausnahmen-aussergewoehnliche-umstaende-pruefen` | Prüft die Einrede außergewoehnliche Umstaende nach Art. 5 Abs. 3 VO 261/2004. Differenziert zwischen Wetter Vulkanasche Vogelschlag Streik Flugsicherung Streik der eigenen Mitarbeiter wilder Streik technischem Defekt… |
+| `distanz-und-ausgleich-berechnen` | Berechnet die Ausgleichszahlung nach Art. 7 VO 261/2004. Distanzbestimmung nach Grosskreisrechnung zwischen Abflug- und Zielflughafen. Drei Stufen 250 EUR bis 1500 km / 400 EUR mehr als 1500 km innergemeinschaftlich… |
+| `fluggastrechte-anlagen-bauen` | Baut aus den Belegen eines Fluggastrechte-Mandats ein beA-konformes Anlagenkonvolut. Verwendet zum bestehenden Schriftsatz (Forderungsschreiben Mahnung Klage) die Belege Buchungsbestätigung Boardingpass… |
+| `fluggastrechte-kaltstart-interview` | Kaltstart-Interview für das Fluggastrechte-Plugin. Klaert Anwendungsrolle (eigener Fluggastrechte-Anspruch / Vertretung Familie / Mitreisende). Erfasst Buchungsstammdaten Vertragspartner (Airline IATA-Code) und… |
+| `forderungsschreiben-erste-stufe` | Erstes Forderungsschreiben an die Airline. Erfasst Anspruchsteller (alle Passagiere mit Vollmachten) Anspruchsgrundlage Art. 7 VO 261/2004 konkrete Berechnung Frist zur Zahlung (typisch zwei Wochen) Bankverbindung.… |
+| `forderungsschreiben-mahnung` | Zweite Stufe nach Ablauf der Frist aus dem ersten Forderungsschreiben oder nach erfolgloser Reaktion der Airline. Setzt Nachfrist (typisch zehn Tage) bezieht sich auf die erste Forderung weist Verzugszinsen aus und… |
+| `klage-amtsgericht-fluggast` | Klageentwurf zum Amtsgericht in Fluggastrechtsangelegenheiten. Sachliche Zuständigkeit § 23 Nr. 1 GVG bei Streitwert bis zehntausend Euro (i. d. F. seit 01.01.2026). Örtlich wahlweise Abflughafen oder Zielflughafen… |
+| `ticket-und-fluginformationen-erfassen` | Erfasst die Falldaten aus hochgeladenen Tickets Buchungsbestätigungen Boardingpaesse PDF-Scans Foto-Belegen. Extrahiert Buchungscode (PNR) Flugnummer Datum Abflughafen Zielflughafen geplante Abflugzeit geplante… |
+| `vollmacht-familienmitglieder` | Erzeugt Vollmachten für Mitreisende (Familienmitglieder Freunde) damit der Hauptansprechpartner deren Fluggastrechtsanspruch im Schriftverkehr und im gerichtlichen Verfahren mitvertreten kann. Pro Person eigene… |
 
 ## Worum geht es?
 
@@ -89,5 +169,3 @@ Dieses Plugin richtet sich sowohl an Verbraucher, die ihre Ansprueche selbst gel
 - VO (EG) Nr. 261/2004 in geltender Fassung
 - § 23 Nr. 1 GVG: Streitwertgrenze 10.000 EUR seit 01.01.2026
 - EuGH C-402/07 (Sturgeon), EuGH C-11/11 (Folkerts), EuGH C-559/16 (Wegener), EuGH C-257/14 (van der Lans), EuGH C-74/19 (Kruesemann)
-
-<!-- AUDIT 27.05.2026 | welle 5a | neuer allgemein-Skill (Pattern: selbstvertreter-orientierung) -->

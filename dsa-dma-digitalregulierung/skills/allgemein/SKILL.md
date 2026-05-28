@@ -1,9 +1,86 @@
 ---
 name: allgemein
-description: "Einstieg und Orientierung im DSA-DMA-Digitalregulierung-Plugin. Klaert welches EU-Digitalregulierungsregime greift (DSA, DMA, Data Act, AI Act, NIS-2, DORA, CRA, eIDAS 2.0, DDG, P2B-VO, Paragraf 19a GWB) und Routing zu allen 9 Spezial-Skills."
+description: "Einstieg, Schnelltriage und Workflow-Routing im DSA DMA Digitalregulierung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan."
 ---
 
 # DSA DMA und Digitalregulierung EU — Allgemein
+
+## Schnellstart-Workflow
+
+Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **DSA DMA Digitalregulierung**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
+
+**Plugin-Fokus:** Digitalregulierung der EU: DSA (VO 2022/2065) und DMA (VO 2022/1925) plus Data Act DGA AI Act NIS-2 DORA CRA eIDAS 2.0 DDG P2B-VO und § 19a GWB. Gatekeeper-Schwellen VLOP-Einordnung Risikobewertung Art. 34 Forschungsdatenzugang Art. 40 Account-Sperre Art. 20-23 Zustellung Art. 13 DSA Klagewege.
+
+### 1. Intake in 60 Sekunden
+
+Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
+
+| Punkt | Frage | Warum wichtig? |
+|---|---|---|
+| Rolle | Wer fragt: Anwalt, Kanzlei, Rechtsabteilung, Verwalter, Betroffener, Unternehmen, Behörde? | Perspektive und Ton bestimmen. |
+| Ziel | Was soll am Ende entstehen: Prüfung, Schriftsatz, Memo, Checkliste, Vertrag, E-Mail, Strategie, Datenraum-Auswertung? | Output sofort sauber ausrichten. |
+| Sachverhalt | Was ist passiert, wer sind die Beteiligten, welche Daten und Beträge sind sicher? | Keine Arbeit auf Luft bauen. |
+| Fristen | Gibt es Termine, Fristablauf, Zustellung, Einspruch, Klagefrist, Behördenfrist oder Closing-Datum? | Eilsachen zuerst sichern. |
+| Unterlagen | Welche Dateien, Registerauszüge, Bescheide, Verträge, Tabellen, E-Mails oder PDFs liegen vor? | Aktenarbeit statt Raten. |
+| Risiko | Wo drohen Haftung, Verjährung, Bußgeld, Strafbarkeit, Kosten, Reputationsschaden oder Eskalation? | Priorität und Vorsicht einstellen. |
+| Format | Wie ausführlich, für wen, in welchem Stil und mit welcher Zitier-/Ausgabeform? | Ergebnis direkt verwendbar machen. |
+
+### 2. Sofort-Triage
+
+Arbeite danach in dieser Reihenfolge:
+
+1. **Eilprüfung:** Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
+2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
+3. **Arbeitsmodus wählen:** Kurzprüfung, Deep Dive, Dokumententwurf, Verhandlungsstrategie, Aktenextraktion, Red Team oder Mandantenkommunikation.
+4. **Spezial-Skills vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund.
+5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
+6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
+
+### 3. Routing-Regeln
+
+- Schlage **immer zuerst Skills aus diesem Plugin** vor. Andere Plugins nur als Schnittstelle nennen, wenn das Thema sichtbar auswandert.
+- Nenne nie nur einen Skillnamen. Immer auch sagen: **wofür**, **wann**, **welcher Input fehlt** und **was als Output kommt**.
+- Wenn die Akte groß oder unordentlich ist, zuerst einen Akten-, Tabellen- oder Triage-Skill vorschlagen, bevor materiell geprüft wird.
+- Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
+- Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
+- Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Spezial-Skill.
+
+### 4. Antwortformat für den Einstieg
+
+Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
+
+**Kurzbild**
+- Ziel: [...]
+- Rolle/Perspektive: [...]
+- Eilt wegen: [...]
+- Fehlende Unterlagen: [...]
+
+**Vorgeschlagener Workflow**
+1. [...]
+2. [...]
+3. [...]
+
+**Passende Skills aus diesem Plugin**
+| Skill | Warum jetzt? | Erwarteter Output |
+|---|---|---|
+| `...` | [...] | [...] |
+
+**Nächste Frage**
+[Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
+
+### 5. Spezial-Skills in diesem Plugin
+
+| Skill | Wann vorschlagen? |
+|---|---|
+| `account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa` | Account-Sperre oder Inhaltsentfernung durch soziales Netzwerk anfechten: Nutzer oder Unternehmen ist von Plattform gesperrt worden. Normen: DSA (EU) 2022/2065 Art. 17 (Begründungspflicht), Art. 20 (internes… |
+| `digitalregulierung-pyramide-check` | Sachverhalt den richtigen EU-Digitalregulierungs-Rechtsakten zuordnen: Anwalt oder Unternehmen fragt welche Regulierung greift. Normen: DSA (EU) 2022/2065, DMA (EU) 2022/1925, Data Act (EU) 2023/2854, DGA, AI Act (EU)… |
+| `digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb` | Schnittstellen zwischen DSA/DMA und DSGVO, P2B-VO und § 19a GWB analysieren: Mehrere Regelwerke treffen gleichzeitig auf einen Sachverhalt. Normen: Art. 2 Abs. 4 DSA (kein Verdrangen DSGVO), Art. 1 Abs. 5 DMA, P2B-VO… |
+| `dma-gatekeeper-schwellen-und-kernplattformdienste` | Gatekeeper-Designation nach Art. 3 DMA prüfen: Plattform-Betreiber will wissen ob DMA-Pflichten gelten oder Kommission hat Designation eingeleitet. Normen: DMA (EU) 2022/1925 Art. 3 (Designation-Voraussetzungen), Art.… |
+| `dsa-art-34-systemische-risikobewertung` | Jaehrliche Risikobewertung nach Art. 34 DSA für VLOP/VLOSE durchführen: Grosse Plattform muss Risikobewertung dokumentieren oder Berater unterstuetzt Compliance-Team. Normen: DSA (EU) 2022/2065 Art. 34 (vier… |
+| `dsa-art-40-forschungsdatenzugang-algorithmen` | Forschungsdatenzugang nach Art. 40 DSA beantragen oder gewaehren: Forscher will Plattformdaten erhalten oder Plattform muss Zugang einrichten. Normen: DSA (EU) 2022/2065 Art. 40 (vetted researchers, DSC-Koordinierung),… |
+| `dsa-vlop-vlose-einordnung-und-pflichten` | VLOP (sehr grosse Online-Plattform) oder VLOSE (sehr grosse Suchmaschine) Einordnung und Pflichten-Katalog: Plattform prüft ob Designation droht oder besteht. Normen: DSA (EU) 2022/2065 Art. 33 (Designation… |
+| `klage-gegen-vlop-einordnung-art-263-aeuv` | Nichtigkeitsklage gegen Designations-Beschluss der Kommission (VLOP nach DSA oder Gatekeeper nach DMA): Grossplattform will Designation anfechten. Normen: Art. 263 Abs. 4 AEUV (Nichtigkeitsklage EuG), Art. 33 DSA… |
+| `zustellung-und-vertreter-art-13-dsa-art-37-dma` | Zustellung gegen Plattform mit Sitz außerhalb der EU und EU-Vertreter-Pflichten: Klaeger will Schriftstuecke zustellen oder Behoerde will Plattform erreichen. Normen: DSA (EU) 2022/2065 Art. 13… |
 
 ## Worum geht es?
 
@@ -99,5 +176,3 @@ Das Plugin richtet sich an Anwaelte, Compliance-Verantwortliche und Unternehmens
 - DMA (EU) 2022/1925 in der geltenden Fassung
 - P2B-VO (EU) 2019/1150 in der geltenden Fassung
 - DDG in der geltenden Fassung
-
-<!-- AUDIT 27.05.2026 | welle 5a | neuer allgemein-Skill (Pattern: selbstvertreter-orientierung) -->

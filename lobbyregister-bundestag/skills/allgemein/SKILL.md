@@ -1,9 +1,127 @@
 ---
 name: allgemein
-description: "Einstieg und Orientierung im Lobbyregister-Bundestag-Plugin. Klaert Registrierungspflicht nach LobbyRG, Ausnahmen, Portalworkflow, Fristen, Verhaltenspflichten und Routing zu allen 50 Spezial-Skills für Public-Affairs-Mandate."
+description: "Einstieg, Schnelltriage und Workflow-Routing im Lobbyregister Bundestag-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan."
 ---
 
 # Lobbyregister Bundestag — Allgemein
+
+## Schnellstart-Workflow
+
+Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Lobbyregister Bundestag**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
+
+**Plugin-Fokus:** Lobbyregister-Bundestag-Superplugin mit 50 geführten Skills für Registrierungspflicht, Ausnahmen, Registereintrag, Regelungsvorhaben, Stellungnahmen, Finanzdaten, Aktualisierung, Verhaltenskodex, Meldung von Verstößen und Fristen nach LobbyRG.
+
+### 1. Intake in 60 Sekunden
+
+Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
+
+| Punkt | Frage | Warum wichtig? |
+|---|---|---|
+| Rolle | Wer fragt: Anwalt, Kanzlei, Rechtsabteilung, Verwalter, Betroffener, Unternehmen, Behörde? | Perspektive und Ton bestimmen. |
+| Ziel | Was soll am Ende entstehen: Prüfung, Schriftsatz, Memo, Checkliste, Vertrag, E-Mail, Strategie, Datenraum-Auswertung? | Output sofort sauber ausrichten. |
+| Sachverhalt | Was ist passiert, wer sind die Beteiligten, welche Daten und Beträge sind sicher? | Keine Arbeit auf Luft bauen. |
+| Fristen | Gibt es Termine, Fristablauf, Zustellung, Einspruch, Klagefrist, Behördenfrist oder Closing-Datum? | Eilsachen zuerst sichern. |
+| Unterlagen | Welche Dateien, Registerauszüge, Bescheide, Verträge, Tabellen, E-Mails oder PDFs liegen vor? | Aktenarbeit statt Raten. |
+| Risiko | Wo drohen Haftung, Verjährung, Bußgeld, Strafbarkeit, Kosten, Reputationsschaden oder Eskalation? | Priorität und Vorsicht einstellen. |
+| Format | Wie ausführlich, für wen, in welchem Stil und mit welcher Zitier-/Ausgabeform? | Ergebnis direkt verwendbar machen. |
+
+### 2. Sofort-Triage
+
+Arbeite danach in dieser Reihenfolge:
+
+1. **Eilprüfung:** Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
+2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
+3. **Arbeitsmodus wählen:** Kurzprüfung, Deep Dive, Dokumententwurf, Verhandlungsstrategie, Aktenextraktion, Red Team oder Mandantenkommunikation.
+4. **Spezial-Skills vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund.
+5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
+6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
+
+### 3. Routing-Regeln
+
+- Schlage **immer zuerst Skills aus diesem Plugin** vor. Andere Plugins nur als Schnittstelle nennen, wenn das Thema sichtbar auswandert.
+- Nenne nie nur einen Skillnamen. Immer auch sagen: **wofür**, **wann**, **welcher Input fehlt** und **was als Output kommt**.
+- Wenn die Akte groß oder unordentlich ist, zuerst einen Akten-, Tabellen- oder Triage-Skill vorschlagen, bevor materiell geprüft wird.
+- Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
+- Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
+- Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Spezial-Skill.
+
+### 4. Antwortformat für den Einstieg
+
+Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
+
+**Kurzbild**
+- Ziel: [...]
+- Rolle/Perspektive: [...]
+- Eilt wegen: [...]
+- Fehlende Unterlagen: [...]
+
+**Vorgeschlagener Workflow**
+1. [...]
+2. [...]
+3. [...]
+
+**Passende Skills aus diesem Plugin**
+| Skill | Warum jetzt? | Erwarteter Output |
+|---|---|---|
+| `...` | [...] | [...] |
+
+**Nächste Frage**
+[Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
+
+### 5. Spezial-Skills in diesem Plugin
+
+| Skill | Wann vorschlagen? |
+|---|---|
+| `adressatenkreis-bundestag-bundesregierung` | Kartiert Adressatinnen und Adressaten nach § 1 LobbyRG: Bundestagsorgane, Mitglieder, Fraktionen, Gruppen, Mitarbeitende, Bundesregierung und Leitungsebenen bis Referatsleitung. Output Adressatenkarte. |
+| `aktualisierung-unverzueglich` | Steuert unverzuegliche Updates bei Stammdaten, Personen, Tätigkeitsbeschreibung, Vorhabenbereichen, Regelungsvorhaben, Auftraegen und Auftraggebern. Output Update-Ticket. |
+| `anonymisierung-schutzantrag` | Prüft Beschraenkung der Veröffentlichung bei schutzwürdigen Interessen nach § 4 Abs. 6 LobbyRG und Altfall-Anonymisierung. Output Schutzantrag-Skizze. |
+| `auftraggeber-ermitteln` | Erfasst Auftraggeberinnen und Auftraggeber bei Interessenvertretung im Auftrag Dritter und die jeweils beauftragte Interessenvertretung. Output Auftraggebermatrix. |
+| `ausnahmen-bundesregierung` | Prüft Ausnahmen bei Interessenvertretung gegenüber Bundesregierung und Ministerien nach § 2 Abs. 3 LobbyRG, einschließlich Buergeranfragen, Sachverständigengremien und Ersuchen. Output Ausnahmeprüfung. |
+| `ausnahmen-bundestag` | Prüft die Ausnahmen von der Registrierungspflicht bei Interessenvertretung gegenüber Bundestagsadressaten nach § 2 Abs. 2 LobbyRG. Output Ausnahmegutachten kurz mit Restpflichten. |
+| `benachrichtigungskonto-monitor` | Richtet Beobachtung von Registereintraegen, Aktualisierungen und Entwicklungen über das Benachrichtigungskonto ein. Output Watchlist. |
+| `bestaetigungsdokument-freigabe` | Bestimmt Unterzeichner, Leitungsperson, vertretungsberechtigte Person und interne Freigabe vor Eintragung oder Geschäftsjahresaktualisierung. Output Signaturmappe. |
+| `betraute-personen` | Ermittelt Personen, die mit Interessenvertretung nicht nur bei Gelegenheit betraut sind und unmittelbar auftreten. Abgrenzung zu Backoffice, gelegentlicher Hilfe und VZAE. Output Personenliste. |
+| `bussgeld-und-pruefverfahren` | Reaktionsworkflow bei RfS-Prüfung, Anhoerung, Bußgeldrisiko nach § 7 LobbyRG und Kodexverstoss. Output Verteidigungs- und Remediationplan. |
+| `datenschutz-nichtoeffentliche-angaben` | Ordnet öffentliche und nicht öffentliche Registerangaben, personenbezogene Daten, interne Nachweise und Portalveröffentlichung. Output Datenschutzkarte. |
+| `dokumentationsakte-revisionsspur` | Baut Aktenstruktur für Belege, Freigaben, Portal-Screenshots, Kontaktlogs, Kostenmethodik, RfS-Kommunikation und Jahresupdates. Output Aktenplan. |
+| `drehtuer-angaben` | Führt durch Angaben zu Mandat, Amt oder Funktion in Bundestag, Bundesregierung oder Bundesverwaltung aktuell oder in den letzten fuenf Jahren. Output Drehtuer-Prüfprotokoll. |
+| `end-to-end-registrierungswizard` | Geführter Gesamtworkflow mit 50-Skill-Routing: Pflicht, Datenraum, Portal, Freigabe, Aktualisierung, Kodex und Monitoring. Output vollständige Registrierungsmappe. |
+| `erstkontakt-offenlegung` | Formuliert Offenlegung beim erstmaligen Kontakt: Identität, Anliegen, Auftraggeber, Registereintrag und Verhaltenskodizes. Output Kontaktbausteine. |
+| `erstregistrierung-ausfuellen` | Führt Schritt für Schritt durch den Portal-Ersteintrag: Stammdaten, Personen, Tätigkeit, Finanzen, Vorhaben, Auftraege und Uploads. Output Eingabeplan. |
+| `finanzaufwendungen-berechnen` | Berechnet finanzielle Aufwendungen im Bereich Interessenvertretung, Personal- und Sachkosten, Infrastruktur und Zuordnung. Output Kostenblatt. |
+| `freiwillige-registrierung` | Berät zu freiwilliger Eintragung nach § 2 Abs. 5 LobbyRG: Rechte, volle Pflichten, Aktualisierung, Verhaltenskodex und Bußgeldrisiko bei falschen Angaben. Output Entscheidungsvermerk. |
+| `fremdmandat-agenturfall` | Spezialworkflow für Public-Affairs-Agenturen, Kanzleien, Beratungen und Dienstleister mit mehreren Mandanten. Output Mandanten-Trennblatt. |
+| `fristen-und-quartalsmonitor` | Baut Fristenkalender für unverzuegliche Updates, Quartalsfrist für Stellungnahmen, sechs Monate Finanzdaten, jaehrliche Bestätigung und Nachholfristen. Output Fristenbuch. |
+| `fruehere-interessenvertretung-exit` | Führt durch Anzeige, dass keine registrierungspflichtige Interessenvertretung mehr betrieben wird, sowie Archivierung und Monitoring der Liste frueherer Eintraege. Output Exit-Akte. |
+| `geschaeftsjahresaktualisierung` | Führt durch die mindestens jaehrliche vollständige Überprüfung und Bestätigung des Registereintrags nach § 3 und § 4 LobbyRG. Output Jahresupdate-Mappe. |
+| `hauptfinanzierungsquellen` | Strukturiert Hauptfinanzierungsquellen nach § 3 LobbyRG und grenzt Umsaetze, Beitraege, Zuwendungen, Schenkungen und sonstige Einnahmen ab. Output Finanzquellenmatrix. |
+| `hauptstadtrepraesentanz` | Prüft, ob eine Geschäftsstelle am Sitz von Bundestag und Bundesregierung als Hauptstadtrepraesentanz anzugeben ist. Output Berlin-Anschrift-Check. |
+| `hausausweis-und-anhoerung` | Prüft Auswirkungen des Registerstatus auf Tagesausweis, Gebaeudezutritt und Teilnahme an öffentlichen Anhoerungen nach § 6 LobbyRG. Output Zutrittscheck. |
+| `interessen-und-vorhabenbereiche` | Ordnet Interessen- und Vorhabenbereiche im Register zu und prüft, ob Themen breit genug und nicht verschleiernd beschrieben sind. Output Bereichsmatrix. |
+| `interessenvertretung-begriff` | Prüft, ob eine Kontaktaufnahme unmittelbare oder mittelbare Einflussnahme auf Willensbildungs- oder Entscheidungsprozesse nach § 1 LobbyRG ist. Abgrenzung zu Information, Petition, Servicekontakt und rein lokalem… |
+| `interne-lobbyregister-richtlinie` | Erstellt interne Richtlinie für Rollen, Meldewege, Kontaktfreigabe, Registerdaten, Fristen, Verhaltenskodex und Schulung. Output Richtlinienentwurf. |
+| `jahresabschluss-rechenschaftsbericht` | Prüft Bereitstellung von Jahresabschluss oder Rechenschaftsbericht, Umgang mit noch nicht aufgestellten Unterlagen und Nachreichpflicht. Output Abschluss-Uploadplan. |
+| `konzern-netzwerk-plattform` | Strukturiert Lobbyregisterfragen bei Konzernen, Verbaenden, losen Netzwerken, Plattformen und sonstigen kollektiven Tätigkeiten. Output Eintragungseinheiten-Map. |
+| `lobbyregister-intake-mandat` | Erfasst Ausgangslage, Organisation, Kontaktplaene, Auftraggeber, Fristen und Portalstatus vor jeder Lobbyregister-Prüfung. Nutzt LobbyRG §§ 1 bis 5 und Bundestags-Handbuch. Output Intake-Protokoll und Dokumentenliste. |
+| `lobbyregister-kommandocenter` | Master-Routing für Lobbyregister-Mandate: Pflichtcheck, Registrierung, Aktualisierung, Verhaltenskodex, Meldung, Sanktion, Unterlagen und naechster Skill. Normen LobbyRG §§ 1 bis 7. Output Mandatskarte, Routing und… |
+| `mitgliedschaften-mitgliederzahl` | Erfasst Mitgliederzahl, mitgliedschaftliche Organisation und relevante Mitgliedschaften im Zusammenhang mit Interessenvertretung. Output Mitgliederkarte. |
+| `nicht-aktualisiert-risiko` | Prüft Kennzeichnung nicht aktualisiert, Nachholfristen, Übertragung in fruehere Interessenvertreter und Reputationsfolgen. Output Rettungsplan. |
+| `oeffentliche-zuwendungen` | Prüft Zuwendungen und Zuschuesse der deutschen öffentlichen Hand, EU, Mitgliedstaaten oder Drittstaaten mit Schwelle je Geber. Output Zuwendungsliste. |
+| `personen-organisationstyp` | Bestimmt, ob natuerliche Person, juristische Person, Personengesellschaft, Einzelkaufmann, Netzwerk, Plattform oder sonstige Organisation einzutragen ist. Output Typenentscheidung. |
+| `portal-account-rollen` | Plant Administrationskonto, Rollen, Zugriffsschutz, Zwei-Personen-Freigabe und Passwortmanager für das Lobbyregisterportal. Output Account-Konzept. |
+| `regelungsvorhaben-erfassen` | Erfasst konkrete aktuelle, geplante oder angestrebte Regelungsvorhaben, auch ohne vorhandenen Referentenentwurf oder Drucksache. Output Regelungsvorhaben-Karte. |
+| `registereintrag-finalcheck` | Prüft vor Freigabe Vollständigkeit, Richtigkeit, Aktualitaet, Irreführungsfreiheit, Quellenstand und Plausibilitaet aller Pflichtangaben. Output Finalcheck-Protokoll. |
+| `registerfuehrende-stelle-kontakt` | Bereitet Anfragen an die registerführende Stelle, Nachweisantworten, Korrekturen und Telefonnotizen vor. Output RfS-Kommunikationsakte. |
+| `registrierungspflicht-schwellen` | Prüft § 2 Abs. 1 LobbyRG: regelmäßig, auf Dauer, geschäftsmäßig für Dritte, mehr als 30 Kontakte in drei Monaten, Gegenleistung oder Auftrag. Output Pflichtampel. |
+| `schenkungen-sponsoring` | Prüft Schenkungen und sonstige lebzeitige Zuwendungen Dritter, Gesamtstufe, Einzelangaben, Zustimmung und Altfall-Anonymisierung. Output Sponsoring-Check. |
+| `stellungnahmen-gutachten-upload` | Prüft Bereitstellungspflicht für grundlegende Stellungnahmen oder Gutachten zu Regelungsvorhaben und Quartalsfrist. Norm § 3 LobbyRG. Output Upload-Log. |
+| `suche-open-data-monitor` | Nutzt Suche, Standardlisten, Open Data und API zur Markt-, Compliance- und Gegenparteienprüfung. Output Monitoring-Report. |
+| `taetigkeitsbeschreibung` | Formuliert die allgemeine Tätigkeit der Interessenvertretung klar, nicht irreführend und updatefähig. Normen § 3 und § 5 LobbyRG. Output Portaltext. |
+| `unterauftragnehmer-erfassen` | Prüft Unterauftragsverhältnisse, eingesetzte Organisationen und natuerliche Personen im Verantwortungsbereich. Output Unterauftragskette. |
+| `verhaltenskodex-integritaet` | Operationalisiert Offenheit, Transparenz, Ehrlichkeit und Integritaet nach § 5 LobbyRG und Verhaltenskodex für Kontakte. Output Kodex-Check. |
+| `verstoesse-melden` | Führt durch Meldung möglicher Verstoesse gegen Verhaltenskodex oder Registerpflichten an lobbyregister-meldung@bundestag.de. Output Meldungsentwurf. |
+| `vertretungsberechtigte-personen` | Ermittelt gesetzliche Vertretungen, Leitungspersonen und Zeichnungsberechtigte für Registerangaben und Bestätigungsdokument. Normen § 3 und § 4 LobbyRG. Output Vertretungsmatrix. |
+| `visitenkarte-und-nachweise` | Nutzt die Lobbyregister-Visitenkarte, Registerauszug und interne Nachweise für Kontaktaufnahme, Hausausweis, Anhoerung und Compliance-Akte. Output Nachweispack. |
 
 ## Worum geht es?
 
@@ -162,5 +280,3 @@ Das Plugin adressiert alle Normen der §§ 1 bis 7 LobbyRG sowie ergaenzende Mat
 - Lobbyregistergesetz (LobbyRG) in der geltenden Fassung
 - Handbuch der registerfuehrenden Stelle des Deutschen Bundestags
 - Lobbyregister-Portal: www.lobbyregister.bundestag.de
-
-<!-- AUDIT 27.05.2026 | welle 5a | neuer allgemein-Skill (Pattern: selbstvertreter-orientierung) -->

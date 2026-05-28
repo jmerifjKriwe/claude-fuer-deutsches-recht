@@ -93,7 +93,7 @@ Phase E — Laufender Betrieb und Konflikt-Mass nahmen
      Schlichtung durch Beirat
 ```
 
-## Enthaltene Skills (36)
+## Enthaltene Skills (37)
 
 ### Phase 0 — Intake und Rechtsformwahl (5 Skills)
 

@@ -1,0 +1,101 @@
+---
+name: allgemein
+description: "Einstieg, Schnelltriage und Workflow-Routing im Fachanwalt Sportrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan."
+---
+
+# Fachanwalt Sportrecht — Allgemein
+
+## Schnellstart-Workflow
+
+Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Fachanwalt Sportrecht**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
+
+**Plugin-Fokus:** Plugin Fachanwalt für Sportrecht. Verbandsrecht (DFB FIFA UEFA IOC DOSB) CAS Schiedsverfahren Spielerverträge Doping WADA-Code NADA Sponsoring Persönlichkeitsrechte Veranstalterhaftung. Schnittstelle Plugin gesellschaftsrecht.
+
+### 1. Intake in 60 Sekunden
+
+Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
+
+| Punkt | Frage | Warum wichtig? |
+|---|---|---|
+| Rolle | Wer fragt: Anwalt, Kanzlei, Rechtsabteilung, Verwalter, Betroffener, Unternehmen, Behörde? | Perspektive und Ton bestimmen. |
+| Ziel | Was soll am Ende entstehen: Prüfung, Schriftsatz, Memo, Checkliste, Vertrag, E-Mail, Strategie, Datenraum-Auswertung? | Output sofort sauber ausrichten. |
+| Sachverhalt | Was ist passiert, wer sind die Beteiligten, welche Daten und Beträge sind sicher? | Keine Arbeit auf Luft bauen. |
+| Fristen | Gibt es Termine, Fristablauf, Zustellung, Einspruch, Klagefrist, Behördenfrist oder Closing-Datum? | Eilsachen zuerst sichern. |
+| Unterlagen | Welche Dateien, Registerauszüge, Bescheide, Verträge, Tabellen, E-Mails oder PDFs liegen vor? | Aktenarbeit statt Raten. |
+| Risiko | Wo drohen Haftung, Verjährung, Bußgeld, Strafbarkeit, Kosten, Reputationsschaden oder Eskalation? | Priorität und Vorsicht einstellen. |
+| Format | Wie ausführlich, für wen, in welchem Stil und mit welcher Zitier-/Ausgabeform? | Ergebnis direkt verwendbar machen. |
+
+### 2. Sofort-Triage
+
+Arbeite danach in dieser Reihenfolge:
+
+1. **Eilprüfung:** Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
+2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
+3. **Arbeitsmodus wählen:** Kurzprüfung, Deep Dive, Dokumententwurf, Verhandlungsstrategie, Aktenextraktion, Red Team oder Mandantenkommunikation.
+4. **Spezial-Skills vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund.
+5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
+6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
+
+### 3. Routing-Regeln
+
+- Schlage **immer zuerst Skills aus diesem Plugin** vor. Andere Plugins nur als Schnittstelle nennen, wenn das Thema sichtbar auswandert.
+- Nenne nie nur einen Skillnamen. Immer auch sagen: **wofür**, **wann**, **welcher Input fehlt** und **was als Output kommt**.
+- Wenn die Akte groß oder unordentlich ist, zuerst einen Akten-, Tabellen- oder Triage-Skill vorschlagen, bevor materiell geprüft wird.
+- Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
+- Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
+- Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Spezial-Skill.
+
+### 4. Antwortformat für den Einstieg
+
+Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
+
+**Kurzbild**
+- Ziel: [...]
+- Rolle/Perspektive: [...]
+- Eilt wegen: [...]
+- Fehlende Unterlagen: [...]
+
+**Vorgeschlagener Workflow**
+1. [...]
+2. [...]
+3. [...]
+
+**Passende Skills aus diesem Plugin**
+| Skill | Warum jetzt? | Erwarteter Output |
+|---|---|---|
+| `...` | [...] | [...] |
+
+**Nächste Frage**
+[Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
+
+### 5. Spezial-Skills in diesem Plugin
+
+| Skill | Wann vorschlagen? |
+|---|---|
+| `cas-berufung-vorbereiten` | Sportler oder Verein will Entscheidung eines Sportverbands vor dem Court of Arbitration for Sport Lausanne anfechten. Art. R49 CAS Code Frist 21 Tage Sprache Englisch. Normen CAS Code Art. R49 R52 R57 WADA-Code Art. 13… |
+| `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Sport- und Sponsoringrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
+| `fachanwalt-sportrecht-cas-dis-sport-verbands-schiedsverfahren` | Sportler Verein oder Verband wird in Schiedsverfahren vor CAS DIS oder Verbands-Schiedsgericht involviert. WADA-Code Anti-Doping FIFA Players Status Committee. Normen CAS Code Art. R27 ff.… |
+| `fachanwalt-sportrecht-doping-cas-berufung` | Athlet muss Doping-Sperre vor CAS anfechten oder WADA/NADA legt Berufung gegen Freispruch ein. WADA-Code strict liability Therapeutic Use Exemption Sanktion 2-4 Jahre. Normen WADA-Code Art. 2 10 13 CAS Code AntiDopG §… |
+| `fachanwalt-sportrecht-doping-verfahren` | Athlet steht vor NADA-Disziplinarverfahren wegen positivem Dopingtest und braucht Verteidigung. NADA-Code WADA-Code strict liability Art. 2 Abs. 1 WADA-Code Beweislastumkehr no fault Art. 10 Abs. 5. Normen AntiDopG § 4… |
+| `fachanwalt-sportrecht-esports-vereinsrecht-dosb-anerkennung` | eSports-Organisator oder Verein fragt ob DOSB-Anerkennung möglich und wie steuerliche Gemeinnuetzigkeit erreichbar ist. § 52 AO Gemeinnuetzigkeit § 21 BGB Vereinsrecht. Normen §§ 21 ff. BGB § 52 AO DOSB-Satzung.… |
+| `fachanwalt-sportrecht-orientierung` | Anwalt will Fachanwaltschaft Sportrecht erwerben oder Mandat im Sportrecht bearbeiten und braucht Orientierung. FAO-Voraussetzungen typische Mandate Fristen. Normen BGB §§ 21 ff. Vereinsrecht CAS Code WADA-Code… |
+| `fachanwalt-sportrecht-spielervertrag` | Profi-Spielervertrag als befristeter Arbeitsvertrag prüfen. Sachgrundbefristung § 14 Abs. 1 TzBfG BAG-Heinz-Mueller-Urteil 7 AZR 312/16. Verbandsregelwerke FIFA RSTP DFB-Lizenzordnung. Transferentschaedigung… |
+| `fachanwalt-sportrecht-stadion-hausverbot` | Fan erhaelt bundesweites Stadion-Hausverbot und will dieses anfechten. AGB-Prüfung Vereinsrecht Fanrechte Datenschutz. Normen §§ 305 ff. BGB AGB-Kontrolle BGH Bundesliga-Hausverbot § 25 BGB Vereinsrecht DSGVO… |
+| `fachanwalt-sportrecht-transferklausel` | Profi-Sportler will Verein wechseln und braucht Prüfung von Transfervertrag Ausstiegsklausel Transferperiode. FIFA/UEFA-Statuten Wechselgebühr. Normen FIFA RSTP Art. 17 18 UEFA-Transferregeln DFB-Lizenzordnung.… |
+| `fachanwalt-sportrecht-vereinsstrafrecht` | Sportler oder Verein soll Verbands- oder Vereinsstrafe anfechten: Spielsperre Geldstrafe Lizenzentzug. § 25 BGB Satzungsautonomie BGH II ZR 7/70 Inhaltskontrolle Vereinsstrafe AGB §§ 305 ff. BGB BGH Pechstein KZR 6/15.… |
+| `mandat-triage-sportrecht` | Sportrechtliches Mandat eintrifft und muss strukturiert erfasst werden: Mandantenrolle Sachgebiet Sofort-Fristen. Verbandsfrist gegen Sanktion typisch 1-2 Wochen. Normen je nach Routing. Prüfraster Mandanten-Typ… |
+| `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Klage ordentliches Gericht/Sportgericht, CAS-/DIS-Schiedsantrag, Antidoping: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge,… |
+| `verbandsstrafe-anfechten` | Prüfraster für die Anfechtung von Verbandsstrafen im Sport. Spannungsfeld Verbandsautonomie Art. 9 GG vs. gerichtliche Inhaltskontrolle vereinsrechtlich § 25 BGB Schiedsklauseln § 1029 ZPO CAS-Schiedsgerichtsbarkeit… |
+| `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Sport- und Sponsoringrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
+
+## Qualitätsversprechen
+
+- Arbeite schnell, aber nicht hektisch.
+- Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert.
+- Mache Annahmen sichtbar und halte sie knapp.
+- Schlage passende Spezial-Skills aus diesem Plugin vor, bevor du in Randthemen ausweichst.
+- Liefere am Ende immer einen klaren nächsten Schritt.
+
+---
+
+Hinweis: Keine Rechtsberatung. Dieser Skill strukturiert Workflow, Intake und Routing; fachliche Ergebnisse brauchen je nach Thema die passenden Spezial-Skills und menschliche Endprüfung.

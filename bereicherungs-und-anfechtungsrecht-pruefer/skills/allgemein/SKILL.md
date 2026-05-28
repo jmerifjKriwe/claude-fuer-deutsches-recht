@@ -1,9 +1,120 @@
 ---
 name: allgemein
-description: "Einstieg und Orientierung im Bereicherungs- und Anfechtungsrecht-Prüfer-Plugin. Klärt Weichenstellung zwischen §§ 812 ff. BGB, AnfG und §§ 129-147 InsO, KI-Screening von Schuldnerakten, § 135 Gesellschafterdarlehen, Verteidigung des Anfechtungsgegners und Routing zu allen 43 Spezial-Skills."
+description: "Einstieg, Schnelltriage und Workflow-Routing im Bereicherungs Und Anfechtungsrecht Pruefer-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan."
 ---
 
 # Bereicherungs- und Anfechtungsrecht-Prüfer — Allgemein
+
+## Schnellstart-Workflow
+
+Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Bereicherungs Und Anfechtungsrecht Pruefer**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
+
+**Plugin-Fokus:** Mechanisches Durchprüfen von Bereicherungsrecht §§ 812 ff. BGB, AnfG und Insolvenzanfechtung §§ 129-147 InsO. Mit KI-Screening von Schuldnerakten, § 135 Gesellschafterdarlehen, Bargeschäft § 142 und Verteidigung des Anfechtungsgegners. Keine Rechtsberatung.
+
+### 1. Intake in 60 Sekunden
+
+Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
+
+| Punkt | Frage | Warum wichtig? |
+|---|---|---|
+| Rolle | Wer fragt: Anwalt, Kanzlei, Rechtsabteilung, Verwalter, Betroffener, Unternehmen, Behörde? | Perspektive und Ton bestimmen. |
+| Ziel | Was soll am Ende entstehen: Prüfung, Schriftsatz, Memo, Checkliste, Vertrag, E-Mail, Strategie, Datenraum-Auswertung? | Output sofort sauber ausrichten. |
+| Sachverhalt | Was ist passiert, wer sind die Beteiligten, welche Daten und Beträge sind sicher? | Keine Arbeit auf Luft bauen. |
+| Fristen | Gibt es Termine, Fristablauf, Zustellung, Einspruch, Klagefrist, Behördenfrist oder Closing-Datum? | Eilsachen zuerst sichern. |
+| Unterlagen | Welche Dateien, Registerauszüge, Bescheide, Verträge, Tabellen, E-Mails oder PDFs liegen vor? | Aktenarbeit statt Raten. |
+| Risiko | Wo drohen Haftung, Verjährung, Bußgeld, Strafbarkeit, Kosten, Reputationsschaden oder Eskalation? | Priorität und Vorsicht einstellen. |
+| Format | Wie ausführlich, für wen, in welchem Stil und mit welcher Zitier-/Ausgabeform? | Ergebnis direkt verwendbar machen. |
+
+### 2. Sofort-Triage
+
+Arbeite danach in dieser Reihenfolge:
+
+1. **Eilprüfung:** Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
+2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
+3. **Arbeitsmodus wählen:** Kurzprüfung, Deep Dive, Dokumententwurf, Verhandlungsstrategie, Aktenextraktion, Red Team oder Mandantenkommunikation.
+4. **Spezial-Skills vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund.
+5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
+6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
+
+### 3. Routing-Regeln
+
+- Schlage **immer zuerst Skills aus diesem Plugin** vor. Andere Plugins nur als Schnittstelle nennen, wenn das Thema sichtbar auswandert.
+- Nenne nie nur einen Skillnamen. Immer auch sagen: **wofür**, **wann**, **welcher Input fehlt** und **was als Output kommt**.
+- Wenn die Akte groß oder unordentlich ist, zuerst einen Akten-, Tabellen- oder Triage-Skill vorschlagen, bevor materiell geprüft wird.
+- Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
+- Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
+- Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Spezial-Skill.
+
+### 4. Antwortformat für den Einstieg
+
+Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
+
+**Kurzbild**
+- Ziel: [...]
+- Rolle/Perspektive: [...]
+- Eilt wegen: [...]
+- Fehlende Unterlagen: [...]
+
+**Vorgeschlagener Workflow**
+1. [...]
+2. [...]
+3. [...]
+
+**Passende Skills aus diesem Plugin**
+| Skill | Warum jetzt? | Erwarteter Output |
+|---|---|---|
+| `...` | [...] | [...] |
+
+**Nächste Frage**
+[Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
+
+### 5. Spezial-Skills in diesem Plugin
+
+| Skill | Wann vorschlagen? |
+|---|---|
+| `anfg-anfechtungsklage-prozessuales` | Mandant hat vollstreckbaren Titel und will angefochtene Vermögensverschiebung gerichtlich angreifen: Anfechtungsklage nach AnfG erheben. Normen: §§ 2 11 13 AnfG, §§ 195 199 BGB. Prüfraster: Titel und Fristprüfung,… |
+| `anfg-einreden-und-verteidigung-anfechtungsgegner` | Mandant ist Anfechtungsgegner und will sich gegen AnfG-Anfechtungsklage verteidigen. Normen: §§ 3 4 11 AnfG, §§ 195 199 BGB, § 142 InsO analog. Prüfraster: Entreicherungseinwand, fehlende Kenntnis des… |
+| `anfg-fristen-und-anfechtungszeitraum` | Anfechtungsfristen im außerinsolvenzlichen Anfechtungsrecht bestimmen: zehn Jahre Vorsatzanfechtung, vier Jahre unentgeltliche Leistung. Normen: §§ 3 4 AnfG, §§ 195 199 BGB. Prüfraster: Fristbeginn, Fristberechnung,… |
+| `anfg-grundtatbestand-und-anfechtungsberechtigte` | Grundvoraussetzungen der außerinsolvenzlichen Gläubigeranfechtung klaeren: vollstreckbarer Titel, fällige Forderung, Gläubigerbenachteiligung. Normen: §§ 1 2 AnfG, §§ 195 199 BGB. Prüfraster: Anfechtungsberechtigung,… |
+| `anfg-mittelbare-benachteiligung-und-kongruenz` | Kongruente und inkongruente Deckung sowie mittelbare Gläubigerbenachteiligung im AnfG-Kontext analysieren. Normen: §§ 1 3 4 AnfG. Prüfraster: unmittelbar vs. mittelbar benuenstigende Rechtshandlung, Kongruenz,… |
+| `anfg-rechtsfolge-rueckgewaehr-11` | Rechtsfolge bei erfolgreicher AnfG-Anfechtung bestimmen: Duldungspflicht des Anfechtungsgegners und Wertersatz nach § 11 AnfG. Normen: § 11 AnfG, §§ 819 ff. BGB analog. Prüfraster: Duldung vs. Wertersatz,… |
+| `anfg-unentgeltliche-leistung-4` | Anfechtung unentgeltlicher Leistungen außerhalb der Insolvenz prüfen: Schenkungsanfechtung in den letzten vier Jahren nach § 4 AnfG. Normen: § 4 AnfG. Prüfraster: Unentgeltlichkeitsbegriff, gemischte Schenkungen,… |
+| `anfg-vorsatzanfechtung-3-i` | Vorsatzanfechtung außerhalb der Insolvenz geltend machen: Benachteiligungsvorsatz und Kenntnis des Anfechtungsgegners nach § 3 Abs. 1 AnfG. Normen: § 3 Abs. 1 AnfG. Prüfraster: Benachteiligungsvorsatz-Indizien,… |
+| `ausschluss-814-bgb-kenntnis-der-nichtschuld` | Bereicherungsanspruch scheitert an § 814 BGB wegen positiver Kenntnis des Leistenden von der Nichtschuld. Normen: § 814 BGB. Prüfraster: positive Kenntnis vs. bloss Zweifel, Zeitpunkt der Kenntnis, Abgrenzung zu… |
+| `ausschluss-817-bgb-gesetzes-und-sittenverstoss` | Bereicherungsanspruch gesperrt durch § 817 S. 2 BGB wegen eigenen Gesetzes- oder Sittenverstosses des Leistenden. Normen: §§ 817 134 138 BGB. Prüfraster: beiderseitiger Verstoss, Sperrwirkung, enge Rückausnahmen nach… |
+| `bereicherung-eines-dritten-822-bgb` | Bereicherungsanspruch gegen Dritten bei unentgeltlicher Weitergabe des Erlangten nach § 822 BGB prüfen. Normen: § 822 BGB. Prüfraster: Unentgeltlichkeit der Weitergabe, Entreicherung des Erstempfaengers, Subsidiaritaet… |
+| `condictio-indebiti-813-bgb` | Rückforderung trotz Erfuellung einer einredebehafteten Verbindlichkeit nach § 813 BGB prüfen. Normen: § 813 BGB. Prüfraster: dauernde vs. temporaere Einreden, Verjaebrungseinrede, Tatbestandsmerkmale. Output:… |
+| `eingriffskondiktion-zuweisungsgehalt` | Nichtleistungskondiktion wegen Eingriffs in fremde Rechtsposition klaeren: Immaterialgueterrechte, Persoenlichkeitsrechte. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB. Prüfraster: Zuweisungsgehalt der Rechtsposition, Eingriff… |
+| `falsche-wiese-warnung-bereicherung-anfechtung` | Typische Falschverortungen erkennen: Vertrag statt Bereicherung, Bereicherung statt Anfechtung, AnfG statt InsO. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Abgrenzungsmatrix, häufige systematische… |
+| `inso-bargeschaeft-142` | Bargeschäft nach § 142 InsO prüfen: unmittelbarer gleichwertiger Leistungsaustausch, Geschäftsverkehrsübung, Arbeitsentgelt-Drei-Monats-Regel, Verhältnis zu §§ 130-132 und Vorsatzanfechtung § 133 mit erkannter… |
+| `inso-gesellschafterdarlehen-135` | Gesellschafterdarlehen und gleichgestellte Forderungen nach § 135 InsO prüfen: Sicherheiten zehn Jahre, Befriedigung ein Jahr, Drittdarlehen mit Gesellschaftersicherheit, Gebrauchsüberlassung, Sanierungsprivileg und… |
+| `inso-grundtatbestand-129-glaeubigerbenachteiligung` | Grundvoraussetzungen der Insolvenzanfechtung nach § 129 InsO klaeren: Rechtshandlung, objektive Gläubigerbenachteiligung, Kausalität. Normen: § 129 InsO. Prüfraster: Rechtshandlungsbegriff, unmittelbare vs. mittelbare… |
+| `inso-inkongruente-deckung-131` | Inkongruente Deckungsanfechtung nach § 131 InsO prüfen: Sicherung oder Befriedigung, die der Gläubiger nicht, nicht in der Art oder nicht zu der Zeit beanspruchen konnte. Fristen letzter Monat, zweiter oder dritter… |
+| `inso-ki-anfechtungsansprueche-schuldnerakten` | KI-gestütztes Screening von Schuldnerakten auf mögliche Insolvenzanfechtungsansprüche nach §§ 129-147 InsO. Prüft Zahlungsdaten, Kontoauszüge, OPOS, Verträge, Sicherheiten, Gesellschafterdarlehen und Kommunikation;… |
+| `inso-kongruente-deckung-130` | Kongruente Deckungsanfechtung nach § 130 InsO prüfen: geschuldete Sicherung oder Befriedigung, Drei-Monats-Zeitraum vor Insolvenzantrag oder Handlung nach Antrag, Zahlungsunfähigkeit, Kenntnis oder zwingende… |
+| `inso-rechtsfolge-rueckgewaehr-143-bis-147` | Rechtsfolgen der Insolvenzanfechtung nach §§ 143-147 InsO bestimmen: Rückgewähr zur Masse, Geldschuld und Zinsen, Entreicherung bei unentgeltlicher Leistung, Gegenleistung § 144, Rechtsnachfolger § 145, Verjährung §… |
+| `inso-unentgeltliche-leistung-134` | Anfechtung unentgeltlicher Leistungen in der Insolvenz nach § 134 InsO prüfen: vier Jahre vor Insolvenzantrag. Normen: § 134 InsO. Prüfraster: Unentgeltlichkeitsbegriff, Ausnahmen Anstandsschenkungen, nahestehende… |
+| `inso-unmittelbar-nachteilige-rechtshandlungen-132` | Anfechtung unmittelbar nachteiliger Rechtshandlungen nach § 132 InsO prüfen: Benachteiligung in den letzten drei Monaten. Normen: §§ 132 129 InsO. Prüfraster: unmittelbare Nachteiligkeit, Kausalität, Drei-Monats-Frist,… |
+| `inso-verteidigung-anfechtungsgegner` | Verteidigung des Anfechtungsgegners gegen Insolvenzanfechtung nach §§ 129-147 InsO strukturieren. Prüft fehlende Rechtshandlung oder Gläubigerbenachteiligung, Fristen, Kenntnis, § 133-Vermutungen, Bargeschäft § 142,… |
+| `inso-vorsatzanfechtung-133` | Vorsatzanfechtung nach § 133 InsO prüfen: Benachteiligungsvorsatz, Kenntnis, Vermutungsregel, Deckungshandlungen mit Vier-Jahres-Frist, kongruente Deckung mit Zahlungsunfähigkeit, Zahlungserleichterungs-Vermutung,… |
+| `konkurrenz-bereicherung-anfechtung-und-vindikation` | Anspruchskonkurrenzen zwischen Bereicherungsrecht §§ 812 ff. BGB, AnfG/InsO-Anfechtung und Vindikation § 985 BGB klaeren. Normen: §§ 812 985 BGB, §§ 129 ff. InsO, AnfG. Prüfraster: Verdraengungsregeln, Subsidiaritaet,… |
+| `konkurrenz-bereicherung-vertraglich-deliktisch` | Verhältnis von Bereicherungsrecht zu vertraglichen Ansprüchen und Deliktsrecht §§ 823 ff. BGB klaeren. Normen: §§ 812 823 987 ff. BGB. Prüfraster: Vorrang-/Spezialitaetsfragen, bereicherungsrechtliche Lueckenfuellung.… |
+| `leistungsbegriff-bewusste-zweckgerichtete-mehrung` | Leistungsbegriff im Bereicherungsrecht definieren: bewusste und zweckgerichtete Mehrung fremden Vermögens. Normen: § 812 BGB. Prüfraster: Bewusstsein, Zweckrichtung, Erkennbarkeit der Zweckbestimmung,… |
+| `leistungskondiktion-grundtatbestand-812-i-1-alt-1` | Leistungskondiktion nach § 812 Abs. 1 S. 1 Alt. 1 BGB im Vier-Schritt-Schema prüfen: etwas erlangt, durch Leistung, ohne Rechtsgrund. Normen: §§ 812 813 814 817 818 819 BGB. Prüfraster: Erlangen, Leistungsbegriff,… |
+| `mandatsabbruch-empfehlung-an-fachanwalt-insolvenz` | Komplexitaetsindikatoren erkennen: Wann uebersteigt der Sachverhalt dieses Prüfungstool und erfordert Fachanwalt für Insolvenzrecht. Normen: §§ 129 ff. InsO, AnfG. Prüfraster: Komplexitaetssignale, Mandatsgrenzen,… |
+| `mehrpersonenverhaeltnisse-direkt-und-durchgriffskondiktion` | Bereicherungsausgleich in Mehrpersonenverhältnissen prüfen: Anweisungsfaelle, Doppelmangel, Drittleistung, Durchgriffskondiktion. Normen: § 812 BGB. Prüfraster: Leistungsbeziehungen im Dreieck, Subsidiaritaet der… |
+| `nichtleistungskondiktion-grundtatbestand-812-i-1-alt-2` | Nichtleistungskondiktion nach § 812 Abs. 1 S. 1 Alt. 2 BGB prüfen: in sonstiger Weise ohne Rechtsgrund erlangt. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB. Prüfraster: kein Leistungsverhältnis, Abgrenzung zur… |
+| `output-anfechtungsanzeige-insolvenzverwalter` | Anschreiben des Insolvenzverwalters an den Anfechtungsgegner erstellen: Rückgewähr nach §§ 129 ff. und § 143 InsO, Tatbestand transaktionsscharf benennen, § 142- und § 144-Hinweise, Zinsen nur bei Verzug oder § 291… |
+| `output-anfechtungsklage-anfg` | Klageschrift für AnfG-Anfechtungsklage des Vollstreckungsgläubigers aufbauen: Rubrum, Duldungsantrag, Begründungsstruktur. Normen: §§ 2 11 13 AnfG. Prüfraster: Antragsformulierung, Begründungsaufbau… |
+| `output-klageschrift-bereicherungsklage` | Klageschrift aus Bereicherungsrecht §§ 812 ff. BGB aufbauen: Klageantrag auf Zahlung oder Herausgabe, ODUE-Schema. Normen: §§ 812 818 BGB, §§ 253 313 ZPO. Prüfraster: Obersatz, Definition, Untersatz, Ergebnis,… |
+| `output-warnhinweis-und-pruefungsdokument` | Pflicht-Header und Warnblock für alle Prüfungsdokumente generieren: kein Rechtsrat, nur mechanische Prüfung. Normen: BRAO § 3. Prüfraster: Warnhinweis, Haftungsausschluss, Hinweis auf unvollständige Sachverhalte.… |
+| `parallel-und-konkurrenz-pruefung` | Bereicherungsrecht und Anfechtungsrecht gleichzeitig prüfen: Anspruchskonkurrenzen und gegenseitige Beeinflussung aller drei Regelungskreise. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Parallelitaet,… |
+| `triage-vermoegensverschiebung-erfassen` | Erster Schritt: Vermögenverschiebung strukturiert erfassen für Bereicherungs- und Anfechtungsrecht. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Wer hat was an wen geleistet, Zeitpunkt, Belegsicherung,… |
+| `umfang-der-herausgabe-818-bgb-und-entreicherung` | Umfang der Bereicherungshaftung und Entreicherungseinrede nach § 818 BGB bestimmen. Normen: §§ 818 819 BGB. Prüfraster: Erlangtes, Surrogate, Nutzungen, Wertersatz, Entreicherungseinrede, Boesglaeuigkeit. Output:… |
+| `verfuegung-eines-nichtberechtigten-816-bgb` | Bereicherungsanspruch des Berechtigten nach § 816 BGB gegen verfuegenden Nichtberechtigten prüfen. Normen: § 816 BGB. Prüfraster: wirksame Verfuegung durch Gutglaubenserwerb oder Genehmigung, entgeltlich vs.… |
+| `verjaehrung-bereicherung-anfechtung-fristen` | Verjährung und Anfechtungsfristen trennen: § 195 und § 199 BGB für Bereicherung, § 15 AnfG, § 146 InsO mit Verweis auf regelmäßige BGB-Verjährung. Prüft Fristbeginn, Kenntnis, grob fahrlässige Unkenntnis, Hemmung,… |
+| `verschaerfte-haftung-819-bgb-bei-bosglaeubigkeit` | Verschaerfte Bereicherungshaftung nach § 819 BGB bei Boesglaeuigkeit oder Rechtshaengigkeit prüfen. Normen: §§ 819 818 Abs. 4 BGB. Prüfraster: Kenntnis des Mangels, Zeitpunkt, Umfang verschaerfte Haftung,… |
+| `weichenstellung-bereicherung-oder-anfechtung` | Triage-Entscheidung: welcher Regelungskreis ist einschlaegig - Bereicherungsrecht, außerinsolvenzliche Anfechtung oder Insolvenzanfechtung. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Rechtsgrundmangel,… |
 
 ## Worum geht es?
 

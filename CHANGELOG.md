@@ -1,3 +1,22 @@
+# v18.0.0 — Allgemein-Skills als schöne Plugin-Einstiege
+
+Version 18.0.0 ist ein repo-weiter Workflow-Release: Jedes Plugin hat nun einen eigenen `allgemein`-Einstiegsskill als schnellen Intake-, Workflow- und Routingpunkt.
+
+- 34 fehlende `skills/allgemein/SKILL.md` neu angelegt.
+- 66 vorhandene Allgemein-Skills mit einheitlichem Schnellstart-Workflow, Intake in 60 Sekunden, Sofort-Triage, Antwortformat und Routing-Regeln ergänzt.
+- Jeder Allgemein-Skill enthält eine automatisch aus dem jeweiligen Plugin gezogene Liste der verfügbaren Spezial-Skills und soll bei Bedarf zwei bis fünf passende Folge-Skills mit Grund und erwartetem Output vorschlagen.
+- `SKILLS.md` und README-Zählungen auf 2278 Skills aktualisiert.
+- alle `plugin.json` und `.claude-plugin/marketplace.json` auf Version `18.0.0`.
+
+## Qualitätssicherung
+
+- `node scripts/validate-plugin-structure.mjs`
+- `git diff --check`
+- Zusatzcheck: 100 Plugins, 2278 Skills, 100 Allgemein-Skills mit Schnellstart-Workflow
+- lokaler Build und Validierung aller Plugin-ZIPs mit `scripts/validate-release-zips.py`
+
+---
+
 # v17.5.1 — Insolvenzanfechtung-Audit, KI-Screening und Verteidigung
 
 Version 17.5.1 ist ein gezielter Nachlauf nur für Insolvenzanfechtungsrecht. Der Schwerpunkt liegt auf den fehleranfälligen Normgruppen §§ 129, 130/131, 133, 134, 135, 142 und §§ 143-147 InsO, dem Reformstand nach der Anfechtungsreform 2017, den Fristen, dem Bargeschäft, Gesellschafterdarlehen und der Verteidigung des Anfechtungsgegners.

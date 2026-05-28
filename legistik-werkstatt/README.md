@@ -79,7 +79,7 @@ Am Ende erzeugt es ein **lieferfertiges DOCX und PDF** im offiziellen Layout:
 | Lieferung | `dokumente-rendern-docx-pdf` | DOCX und PDF im offiziellen Layout |
 | Schulung | `schulung-legistik` | Trainerleitfaden für Schulungen |
 
-Insgesamt **25 Skills**.
+Insgesamt **26 Skills**.
 
 ## Beispielprojekt - Pflichtpostfachgesetz
 

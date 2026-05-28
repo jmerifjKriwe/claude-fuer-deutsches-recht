@@ -98,7 +98,7 @@ Das System warnt aktiv in folgenden Situationen:
 - **Unbestimmte Rechtsbegriffe:** Nur Indiziensammlung, keine Subsumtion (`unbestimmte-rechtsbegriffe-pruefen`)
 - **Offene TBM:** Fehlende Belege gefährden das Ergebnis (`beweisbedarf-und-belege-erfassen`)
 
-## Skills (30)
+## Skills (31)
 
 ### A. Triage / Workflow-Einstieg
 

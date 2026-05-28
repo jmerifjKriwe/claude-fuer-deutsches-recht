@@ -19,7 +19,7 @@ Zur Erprobung des Plugins steht ein generischer Muster-Entwurf einer KI-Nutzungs
 
 ---
 
-## Alle 26 Skills
+## Alle 27 Skills
 
 | Skill | Beschreibung |
 |---|---|

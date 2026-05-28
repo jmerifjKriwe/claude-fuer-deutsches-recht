@@ -35,7 +35,7 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 ---
 
-## Skills-Übersicht (31 Skills, Blöcke A–F)
+## Skills-Übersicht (32 Skills, Blöcke A–F)
 
 ### Block A — Anmeldung & Markenarten (10 Skills)
 

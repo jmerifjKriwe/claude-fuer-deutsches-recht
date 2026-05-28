@@ -16,7 +16,7 @@ Das Plugin richtet sich an Arbeitnehmer, die ihr eigenes Zeugnis verstehen oder 
 
 1. ZIP herunterladen (Link oben).
 2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
-3. Fertig. Alle 31 Skills sind sofort verfügbar.
+3. Fertig. Alle 32 Skills sind sofort verfügbar.
 
 ## Ampelsystem
 
@@ -32,7 +32,7 @@ Rote Signale entstehen durch: das Wort „bemüht", Einschränkungen wie „im W
 
 ## Enthaltene Skills
 
-Die 31 Skills sind alphabetisch geordnet:
+Die 32 Skills sind alphabetisch geordnet:
 
 | Skill | Funktion |
 |---|---|

@@ -28,7 +28,7 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 ---
 
-## Skills-Übersicht (14 Skills)
+## Skills-Übersicht (15 Skills)
 
 | # | Skill-Name | Beschreibung | Lade-Trigger (Beispiele) |
 |---|---|---|---|

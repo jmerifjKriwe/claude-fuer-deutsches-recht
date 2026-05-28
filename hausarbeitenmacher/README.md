@@ -83,7 +83,7 @@ Phase D — Schreiben, Reflektieren, Polieren (Tag 31-40)
      → Bei Seminararbeit: Vortrag und Disputation
 ```
 
-## Enthaltene Skills (22)
+## Enthaltene Skills (23)
 
 ### Phase 0 — Adressaten-Klärung (2 Skills)
 

@@ -1,9 +1,96 @@
 ---
 name: allgemein
-description: "Einstieg und Überblick für das Zwangsvollstreckung-Plugin: Mahnbescheid, PfUeB Bank und Arbeit, Kontensuche, Vermögeensauskunft, Räumung, Notar-Urkunde, ZVG-Antrag, EU-Kontenpfaendung, Haertefall-Schutz nach §§ 704 ff. ZPO für Gläubiger und Schuldner."
+description: "Einstieg, Schnelltriage und Workflow-Routing im Zwangsvollstreckung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan."
 ---
 
 # Zwangsvollstreckung — Allgemein
+
+## Schnellstart-Workflow
+
+Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Zwangsvollstreckung**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
+
+**Plugin-Fokus:** Freistehendes Plugin für die Zwangsvollstreckung nach §§ 704 ff. ZPO aus allen Titelarten: Mahn-/Vollstreckungsbescheid online, PfÜB Bank/Arbeitgeber, Kontensuche § 802l ZPO, Vermögensauskunft, Räumung, notarielle Urkunde § 800 ZPO, Insolvenztabelle § 201 InsO, ZVG-Antrag und Schuldnerschutz.
+
+### 1. Intake in 60 Sekunden
+
+Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
+
+| Punkt | Frage | Warum wichtig? |
+|---|---|---|
+| Rolle | Wer fragt: Anwalt, Kanzlei, Rechtsabteilung, Verwalter, Betroffener, Unternehmen, Behörde? | Perspektive und Ton bestimmen. |
+| Ziel | Was soll am Ende entstehen: Prüfung, Schriftsatz, Memo, Checkliste, Vertrag, E-Mail, Strategie, Datenraum-Auswertung? | Output sofort sauber ausrichten. |
+| Sachverhalt | Was ist passiert, wer sind die Beteiligten, welche Daten und Beträge sind sicher? | Keine Arbeit auf Luft bauen. |
+| Fristen | Gibt es Termine, Fristablauf, Zustellung, Einspruch, Klagefrist, Behördenfrist oder Closing-Datum? | Eilsachen zuerst sichern. |
+| Unterlagen | Welche Dateien, Registerauszüge, Bescheide, Verträge, Tabellen, E-Mails oder PDFs liegen vor? | Aktenarbeit statt Raten. |
+| Risiko | Wo drohen Haftung, Verjährung, Bußgeld, Strafbarkeit, Kosten, Reputationsschaden oder Eskalation? | Priorität und Vorsicht einstellen. |
+| Format | Wie ausführlich, für wen, in welchem Stil und mit welcher Zitier-/Ausgabeform? | Ergebnis direkt verwendbar machen. |
+
+### 2. Sofort-Triage
+
+Arbeite danach in dieser Reihenfolge:
+
+1. **Eilprüfung:** Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
+2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
+3. **Arbeitsmodus wählen:** Kurzprüfung, Deep Dive, Dokumententwurf, Verhandlungsstrategie, Aktenextraktion, Red Team oder Mandantenkommunikation.
+4. **Spezial-Skills vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund.
+5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
+6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
+
+### 3. Routing-Regeln
+
+- Schlage **immer zuerst Skills aus diesem Plugin** vor. Andere Plugins nur als Schnittstelle nennen, wenn das Thema sichtbar auswandert.
+- Nenne nie nur einen Skillnamen. Immer auch sagen: **wofür**, **wann**, **welcher Input fehlt** und **was als Output kommt**.
+- Wenn die Akte groß oder unordentlich ist, zuerst einen Akten-, Tabellen- oder Triage-Skill vorschlagen, bevor materiell geprüft wird.
+- Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
+- Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
+- Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Spezial-Skill.
+
+### 4. Antwortformat für den Einstieg
+
+Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
+
+**Kurzbild**
+- Ziel: [...]
+- Rolle/Perspektive: [...]
+- Eilt wegen: [...]
+- Fehlende Unterlagen: [...]
+
+**Vorgeschlagener Workflow**
+1. [...]
+2. [...]
+3. [...]
+
+**Passende Skills aus diesem Plugin**
+| Skill | Warum jetzt? | Erwarteter Output |
+|---|---|---|
+| `...` | [...] | [...] |
+
+**Nächste Frage**
+[Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
+
+### 5. Spezial-Skills in diesem Plugin
+
+| Skill | Wann vorschlagen? |
+|---|---|
+| `zv-abwehr-schuldner` | Schuldner will sich gegen laufende Zwangsvollstreckung wehren oder hat unrechtmäßigen Pfaendungs-Beschluss erhalten. §§ 766 767 768 771 765a 850k 769 ZPO Schuldnerrechte. Prüfraster: Erinnerung § 766 formale Maengel… |
+| `zv-elektronische-zustellung-2027` | Gläubiger oder Kreditinstitut fragt: Was aendert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? ZVollstrDigitG BT-Drs. 21/4815. Prüfraster: XML-Antrag § 829 Abs. 5 ZPO n.F. ab 1.10.2026 Pflicht… |
+| `zv-eu-kontenpfaendung-655-2014` | Gläubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte dieses vorlaeufig sichern. EuKtPVO VO (EU) 655/2014 §§ 946 ff. ZPO. Prüfraster: Antrag deutsches Gericht Glaubhaftmachung Anspruch… |
+| `zv-kommandocenter` | Gläubiger oder Anwalt hat vollstreckbaren Titel und fragt: Welche Vollstreckungsart ist im konkreten Fall am sinnvollsten und wie wird sie eingeleitet? Startpunkt Zwangsvollstreckung. Prüfraster: Titelart und… |
+| `zv-kontensuche-drittschuldner` | Gläubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber des Schuldners. § 802l ZPO Drittauskunfte. Prüfraster: Rentenversicherung Bund Bundeszentralamt für Steuern Kontenabruf Kraftfahrt-Bundesamt… |
+| `zv-mahnbescheid-online` | Gläubiger will Forderung ohne Klage per Mahnbescheid titulieren lassen. §§ 688 ff. ZPO Online-Mahnverfahren. Prüfraster: Schlüssigkeitsprüfung Antragstyp Gerichtsstand Hauptforderung Nebenforderungen Zinsen… |
+| `zv-mobiliar-gv-auftrag` | Gläubiger beauftragt Gerichtsvollzieher mit Sachpfaendung beweglicher Gegenstaende beim Schuldner. §§ 808 ff. ZPO Mobiliar-Pfaendung. Prüfraster: GV-Auftrag Modulwahl § 802a ZPO Anlaufstellen Wohnung Geschäftsräume… |
+| `zv-notarielle-urkunde-grundschuld` | Gläubiger hat notarielle Grundschuld-Urkunde und will vollstrecken. § 794 Abs. 1 Nr. 5 ZPO Zwangsvollstreckung aus notarieller Urkunde. Prüfraster: Unterwerfungsklausel dinglich und persoenlich Klauselumschreibung §… |
+| `zv-pfaendungstabelle-2025` | Lohnpfaendung oder Rentenpfaendung ist beantragt und der pfaendbare Betrag muss konkret berechnet werden. Pfaendungsfreigrenzenbekanntmachung 1.7.2025 gueltig bis 30.6.2026. Prüfraster: Freibetrag § 850c ZPO… |
+| `zv-pfueb-arbeitsentgelt` | Gläubiger will Lohn oder Gehalt des Schuldners pfaenden lassen. §§ 829 835 850 ff. ZPO Lohnpfaendung PfUeB. Prüfraster: PfUeB gegen Arbeitgeber als Drittschuldner pfaendbarer Betrag Pfaendungstabelle 1.7.2025 bis… |
+| `zv-pfueb-bank` | Gläubiger will Bankkonto des Schuldners pfaenden lassen. §§ 829 835 ZPO PfUeB Bankkonten. Prüfraster: Antrag Drittschuldner-Bank P-Konto-Schutz § 850k ZPO Sockelbetrag Kindergeld Erhöhungen ZVollstrDigitG XML-Antrag ab… |
+| `zv-pfueb-mieter-finanzamt` | Gläubiger will Mietforderung Steuererstattung oder Forderung gegen sonstigen Drittschuldner pfaenden. §§ 829 835 851 850b ZPO sonstige Drittschuldner. Prüfraster: Mieter Mietzinsforderung Finanzamt Steuererstattung… |
+| `zv-raeumung-885` | Vermieter hat Räumungsurteil und will Wohnung oder Gewerberaum räumen lassen. § 885 ZPO Räumungsvollstreckung. Prüfraster: Räumungstitel Klausel Zustellung Mitbewohner Kinder Untermieter Drittwiderspruch § 771… |
+| `zv-tabellenauszug-201-inso` | Gläubiger hat Insolvenzforderung die im Verfahren festgestellt wurde und will nach Insolvenzende vollstrecken. § 201 Abs. 2 InsO Tabellenauszug als Titel. Prüfraster: Voraussetzungen festgestellt nicht bestritten kein… |
+| `zv-titel-klausel-zustellung` | Gläubiger hat Urteil oder sonstigen Titel und prüft vor Vollstreckungsbeginn die drei formalen Voraussetzungen. §§ 704 724 750 ZPO Titel Klausel Zustellung. Prüfraster: vollstreckbarer Titel Vollstreckungsklausel… |
+| `zv-vermoegensauskunft-gv` | Gläubiger weiss nichts über Vermögen des Schuldners und will Auskunft erzwingen. § 802c ZPO Vermogensauskunft EV. Prüfraster: Antrag beim GV Sperrfrist 2 Jahre § 802d ZPO Eintragung Schuldnerverzeichnis § 882b ZPO… |
+| `zv-vollstreckungsbescheid-folge` | Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht. § 699 ZPO Vollstreckungsbescheid Online-Mahnportal. Prüfraster: Beantragung VB Reaktion auf Einspruch § 700 ZPO Übergang streitiges… |
+| `zv-vollstreckungsschutz-haertefall-765a` | Schuldner ist schwerkrank suizidgefaehrdet oder sonst besonders schutzbedürftig und will Vollstreckung stoppen. § 765a ZPO Vollstreckungsschutz sittenwidrige Haerte. Prüfraster: Antrag Einstellung oder Beschraenkung… |
+| `zv-zvg-antrag-glaeubiger` | Gläubiger hat Grundschuld oder Hypothek und will Immobilie des Schuldners versteigern lassen. ZVG Zwangsversteigerungsgesetz. Prüfraster: Antrag Anordnung §§ 15 ff. ZVG Beitritt § 27 ZVG geringstes Gebot Bargebot… |
 
 ## Worum geht es?
 
@@ -103,5 +190,3 @@ Einbezogen sind auch EU-grenzueberschreitende Massnahmen (EuKtPVO) und der Schul
 - ZPO, ZVG, InsO in aktuell geltender Fassung
 - Pfaendungsfreibetraege nach § 850c ZPO in der Fassung ab 01.07.2023 (Anpassung 2025 beachten)
 - EuKtPVO (VO 655/2014) unmittelbar anwendbar
-
-<!-- AUDIT 27.05.2026 | welle 5a | neuer allgemein-Skill (Pattern: selbstvertreter-orientierung) -->

@@ -65,7 +65,7 @@ Die Konfiguration wird gespeichert unter `~/.claude/plugins/config/claude-fuer-d
 | `/datenschutzrecht:richtlinien-monitor` | Wöchentlicher Drift-Scan der Datenschutzerklärung und Richtlinien |
 | `/datenschutzrecht:datenschutzrecht-mandat-arbeitsbereich` | Mandate verwalten (für Mehrmandat-Kanzleien): neu, liste, wechsle, schließe |
 
-## Skills (13)
+## Skills (18)
 
 | Skill | Funktion |
 |---|---|
@@ -188,5 +188,5 @@ datenschutzrecht/
 - **avv-pruefung:** EDSA-Leitlinien 07/2020 zur Abgrenzung Verantwortlicher/Auftragsverarbeiter ergänzt
 - **datenpanne-meldung:** Quellen/Updates und Cross-Refs ergänzt (EuGH C-340/21 war bereits enthalten)
 - **mandantendaten-ki:** Querverweis auf geplantes Plugin `ki-richtlinie-kanzleien` (ab v3.3.0)
-- Alle 13 Skills: Abschnitt „Quellen / Updates" ergänzt; Cross-References zwischen verwandten Skills ausgebaut
+- Alle 18 Skills: Abschnitt „Quellen / Updates" ergänzt; Cross-References zwischen verwandten Skills ausgebaut
 - `plugin.json` Version auf 3.3.0, description aktualisiert (TDDDG → TDDDG, Drittlandstransfer ergänzt)

@@ -28,7 +28,7 @@ Dieses Prüfwerkzeug analysiert Marktabgrenzungen auf juristischer, ökonomische
 - **Behördliche Stellungnahmen:** Stellungnahmen in BKartA- und Kommissionsverfahren.
 - **Parteigutachten:** Kritische Würdigung gegnerischer Marktdefinitionen.
 
-## Enthaltene Skills (24)
+## Enthaltene Skills (25)
 
 | Skill | Zweck |
 | --- | --- |

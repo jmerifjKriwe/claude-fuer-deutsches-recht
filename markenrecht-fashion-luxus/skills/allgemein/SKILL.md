@@ -1,9 +1,108 @@
 ---
 name: allgemein
-description: "Einstieg und Überblick für das Markenrecht-Fashion-Luxus-Plugin: DPMA/EUIPO/USPTO-Anmeldungen, alle Markenarten (Wort, Bild, Sound, Duft, 3D, Position, Haptik, Anti-KI), Widerspruch, Löschung, Verletzung, Produktpiraterie und Selektivvertrieb für Luxus-Modehaeuser."
+description: "Einstieg, Schnelltriage und Workflow-Routing im Markenrecht Fashion Luxus-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan."
 ---
 
 # Markenrecht Fashion und Luxus — Allgemein
+
+## Schnellstart-Workflow
+
+Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Markenrecht Fashion Luxus**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
+
+**Plugin-Fokus:** Markenrecht-Boutique für Luxus-Modehaeuser - DPMA/EUIPO Alicante/USPTO Lanham Act via NYC-Korrespondenz, alle Markenarten (Wort/Bild/Slogan/Sound/Duft/3D/Position/Haptik/Anti-KI), Widerspruch, Löschung, Verletzung, Produktpiraterie, Selektivvertrieb.
+
+### 1. Intake in 60 Sekunden
+
+Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
+
+| Punkt | Frage | Warum wichtig? |
+|---|---|---|
+| Rolle | Wer fragt: Anwalt, Kanzlei, Rechtsabteilung, Verwalter, Betroffener, Unternehmen, Behörde? | Perspektive und Ton bestimmen. |
+| Ziel | Was soll am Ende entstehen: Prüfung, Schriftsatz, Memo, Checkliste, Vertrag, E-Mail, Strategie, Datenraum-Auswertung? | Output sofort sauber ausrichten. |
+| Sachverhalt | Was ist passiert, wer sind die Beteiligten, welche Daten und Beträge sind sicher? | Keine Arbeit auf Luft bauen. |
+| Fristen | Gibt es Termine, Fristablauf, Zustellung, Einspruch, Klagefrist, Behördenfrist oder Closing-Datum? | Eilsachen zuerst sichern. |
+| Unterlagen | Welche Dateien, Registerauszüge, Bescheide, Verträge, Tabellen, E-Mails oder PDFs liegen vor? | Aktenarbeit statt Raten. |
+| Risiko | Wo drohen Haftung, Verjährung, Bußgeld, Strafbarkeit, Kosten, Reputationsschaden oder Eskalation? | Priorität und Vorsicht einstellen. |
+| Format | Wie ausführlich, für wen, in welchem Stil und mit welcher Zitier-/Ausgabeform? | Ergebnis direkt verwendbar machen. |
+
+### 2. Sofort-Triage
+
+Arbeite danach in dieser Reihenfolge:
+
+1. **Eilprüfung:** Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
+2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
+3. **Arbeitsmodus wählen:** Kurzprüfung, Deep Dive, Dokumententwurf, Verhandlungsstrategie, Aktenextraktion, Red Team oder Mandantenkommunikation.
+4. **Spezial-Skills vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund.
+5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
+6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
+
+### 3. Routing-Regeln
+
+- Schlage **immer zuerst Skills aus diesem Plugin** vor. Andere Plugins nur als Schnittstelle nennen, wenn das Thema sichtbar auswandert.
+- Nenne nie nur einen Skillnamen. Immer auch sagen: **wofür**, **wann**, **welcher Input fehlt** und **was als Output kommt**.
+- Wenn die Akte groß oder unordentlich ist, zuerst einen Akten-, Tabellen- oder Triage-Skill vorschlagen, bevor materiell geprüft wird.
+- Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
+- Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
+- Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Spezial-Skill.
+
+### 4. Antwortformat für den Einstieg
+
+Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
+
+**Kurzbild**
+- Ziel: [...]
+- Rolle/Perspektive: [...]
+- Eilt wegen: [...]
+- Fehlende Unterlagen: [...]
+
+**Vorgeschlagener Workflow**
+1. [...]
+2. [...]
+3. [...]
+
+**Passende Skills aus diesem Plugin**
+| Skill | Warum jetzt? | Erwarteter Output |
+|---|---|---|
+| `...` | [...] | [...] |
+
+**Nächste Frage**
+[Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
+
+### 5. Spezial-Skills in diesem Plugin
+
+| Skill | Wann vorschlagen? |
+|---|---|
+| `abmahnung-markenrecht-uwg` | Markenrechtliche Abmahnung mit strafbewehrter Unterlassungserklärung erstellen: Mandant hat Markenverletzung entdeckt und will Abmahnung aussprechen oder hat Abmahnung erhalten und muss reagieren. Normen: § 14 MarkenG… |
+| `agb-haendlervertrag-luxus` | AGB-Kontrolle im Selektivvertrieb Luxus/Fashion: Haendlervertrag mit Konditionsklauseln, MFN-Klauseln und Vertragsstrafe-Bemessung prüfen oder entwerfen. Normen: §§ 305 ff. BGB (AGB-Kontrolle B2B), Art. 5 Vertikal-GVO… |
+| `anmeldung-strategie-portfolio` | Strategische Markenportfolio-Planung für Luxus-Modehaeuser: Mandant will Marken in DE/EU/international schützen oder Portfolio optimieren. Normen: §§ 32 ff. MarkenG, Art. 32 ff. UMV (EU) 2017/1001, Madrid-Protokoll… |
+| `anti-ki-marke-und-kennzeichen` | Neue Kennzeichenstrategien für KI-Authentizitaet in Haute-Couture: Modehaus will Human-Made-Labels, Anti-KI-Marken oder Authentizitaetszertifikate etablieren. Normen: EU AI Act (VO) 2024/1689 (Transparenzpflichten),… |
+| `bildmarke-und-wort-bild` | Bildmarke und Wort-Bild-Marke für Couture-Logos beim DPMA und EUIPO anmelden: Modehaus will Logo grafisch schützen einschließlich Farbansprüchen. Normen: §§ 3 und 8 MarkenG sowie Art. 4 UMV, Vienna Classification… |
+| `discounter-und-graumarkt-brezelmann` | Erschoepfungsdoktrin und Graumarkt-Kontrolle im Luxussegment: Markeninhaber will gegen Parallelimporte oder Discounter-Verkauf vorgehen. Normen: § 24 MarkenG (Erschoepfung), Art. 15 UMV, EuGH C-59/08 Copad/Dior… |
+| `dpma-widerspruch-und-loeschung` | DPMA-Widerspruch und Löschungsantrag gegen kollidierendes Zeichen: Markeninhaber entdeckt juengere aehnliche Marke oder will Lösung. Normen: §§ 42 ff. MarkenG (Widerspruch), § 49 MarkenG (Verfall wegen Nichtbenutzung),… |
+| `dreidimensionale-marke` | Dreidimensionale Marke (Formmarke) für Flacons und Schuhformen anmelden: Parfuemhaus oder Schuhhersteller will Produktform schützen. Normen: § 3 Abs. 2 MarkenG (technische Funktion Ausschluss), Art. 7 Abs. 1 lit. e… |
+| `duftmarke-und-geschmacksmarke` | Duftmarken und Geschmacksmarken: faktische Uneintragbarkeit analysieren und Alternativstrategien entwickeln. Normen: EuGH C-273/00 Sieckmann-Kriterien (grafische Darstellbarkeit), § 3 MarkenG, Art. 4 UMV. Prüfraster:… |
+| `euipo-widerspruchsverfahren` | EUIPO-Widerspruchsverfahren nach Art. 8 UMV führen: aeltere Marke kollidiert mit juengerer Unionsmarken-Anmeldung. Normen: Art. 8 Abs. 1 lit. b UMV (Verwechslungsgefahr), Art. 8 Abs. 5 UMV (Bekanntheitsschutz), Art. 46… |
+| `fashion-luxus-kaltstart-interview` | Mandantenaufnahme Modehaus und IP-Audit-Erstgespraech: Neues Luxus-Mode-Mandat beginnt, Portfolio-Inventur und Prioritaeten-Matrix sind zu erstellen. Normen: BRAO § 43a, § 32 MarkenG, Art. 32 UMV. Prüfraster:… |
+| `haptik-und-tastmarke` | Tastmarken und Haptik-Marken für Stoffstrukturen und Flakon-Oberflaechen: Schutz und Alternativen prüfen. Normen: Sieckmann-Kriterien analog, EuG T-305/02 Eden SARL (Riechmarke), DPMA-Praxis restriktiv, USPTO Reg.… |
+| `madrid-protokoll-und-internationale-registrierung` | Madrid-Protokoll WIPO und internationale Registrierung von Marken: Modehaus will Markenschutz in mehreren Laendern über IR-Anmeldung. Normen: Madrid-Protokoll (WIPO), § 107 MarkenG (IR-Marke), 15 U.S.C. § 1126 (Section… |
+| `markenmonitoring-und-watchlist` | Markenmonitoring und Watchlist-Dienste einrichten: Modehaus will Fruehwarnung bei Trittbrettfahrer-Anmeldungen. Normen: § 14 MarkenG (Verletzungsschutz), Art. 9 UMV, Madrid-Monitor WIPO. Prüfraster:… |
+| `messe-verletzung-und-gv-einsatz` | Markenverletzung auf Messen (Pitti Uomo, Berlin Fashion Week) schnell unterbinden: Eilantrag und Gerichtsvollzieher-Einsatz vorbereiten. Normen: §§ 935 und 940 ZPO (einstweilige Verfuegung), § 19 MarkenG… |
+| `nyc-korrespondenz-und-conflict-check` | Mandat-Workflow mit US-Korrespondenzkanzlei für Markenverfahren in den USA: Beauftragung, Vollmacht USPTO, Interessenkonflikt-Prüfung und Kommunikationsprotokoll. Normen: 37 C.F.R. § 2.17 (Power of Attorney USPTO),… |
+| `plattform-piraterie-donauzon` | Online-Markenverletzungen auf Plattformen unterbinden: Notice-and-Action nach DSA und Sperrverfuegungen gegen Marketplace-Betreiber. Normen: DSA VO (EU) 2022/2065 Art. 16 (Notice-and-Action), § 14 MarkenG, EuGH… |
+| `positionsmarke` | Positionsmarken (z.B. roter Sohlenstreifen Louboutin, Adidas-Streifen, Burberry-Karo) anmelden: Position auf Traeger exakt beschreiben und schützen. Normen: §§ 3 und 8 MarkenG, Art. 4 UMV, EuGH C-163/16 Louboutin.… |
+| `produktpiraterie-und-zoll` | Anti-Produktpiraterie und Zoll-Grenzbeschlagnahme: Modehaus oder Luxusmarke will gefaelschte Waren an der EU-Grenze stoppen. Normen: VO (EU) 608/2013 (Zoll-Enforcement), § 14 MarkenG, § 25a ZollVG (Antrag auf… |
+| `selektiver-vertrieb-coty` | Selektiven Vertrieb im Luxussegment kartellrechtskonform gestalten: Hersteller will Vertriebsnetz auf qualifizierte Partner beschraenken. Normen: EuGH C-230/16 Coty Germany/Parfuemerie Akzente (Plattformverbot Luxus),… |
+| `slogan-marke` | Slogan-Marken für Luxus-Mode auf Eintragbarkeit prüfen und anmelden: Kampagnen-Claim soll als Marke geschützt werden. Normen: §§ 3 und 8 MarkenG, Art. 7 Abs. 1 lit. b UMV, EuGH C-398/08 Audi/Vorsprung durch Technik,… |
+| `soundmarke-und-bewegungsmarke` | Hoermarken (Soundmarken) und Bewegungsmarken für Jingles und Animationen anmelden: Modehaus will Jingle oder Logo-Animation schützen. Normen: §§ 3 und 8 MarkenG, Art. 4 UMV (grafische Darstellung Sonogramm/MP3),… |
+| `ttab-opposition-und-cancellation` | TTAB-Opposition und Cancellation in den USA führen: aeltere Marke kollidiert mit US-Anmeldung oder eingetragener Marke. Normen: 37 C.F.R. § 2.101 ff. (Opposition), § 2.111 ff. (Cancellation), 15 U.S.C. § 1125(c)… |
+| `unionsmarken-anmeldung-euipo` | Unionsmarke beim EUIPO anmelden nach UMV (EU) 2017/1001: Modehaus will EU-weiten Markenschutz in einem Verfahren. Normen: Art. 32 ff. UMV (Anmeldeerfordernisse), Art. 7 UMV (absolute Schutzhindernisse), Art. 119 UMV… |
+| `us-counterfeit-und-customs-cbp` | US-Counterfeit-Enforcement und CBP-Recordation: Luxusmarke will gefaelschte Ware in den USA stoppen. Normen: 18 U.S.C. § 2320 (Trademark Counterfeiting Act), 19 C.F.R. § 133 (CBP Recordation), Lanham Act § 34… |
+| `us-selektivvertrieb-und-mfp-tiffany-vs-costco` | US-Vertriebsrecht für Luxusmarken: Resale Price Maintenance und MAP-Policies kartellrechtskonform gestalten. Normen: Sherman Act § 1, Leegin 551 U.S. 877 (Rule of Reason), Colgate Doctrine (unilateral), Tiffany v.… |
+| `us-trade-dress-und-secondary-meaning` | US Trade Dress Protection für Produktaufmachung und Produktgestaltung: Luxusmarke will Gesamterscheinungsbild oder Produktform in den USA schützen. Normen: Lanham Act § 43(a) 15 U.S.C. § 1125(a), Wal-Mart v. Samara… |
+| `uspto-anmeldung-und-lanham-act` | USPTO-Markenanmeldung nach Lanham Act durchführen: Modehaus will Markenschutz in den USA. Normen: 15 U.S.C. § 1051 ff. (Lanham Act), 37 C.F.R. § 2.21 ff. (TEAS). Prüfraster: Use in Commerce vs. Intent-to-Use, TEAS Plus… |
+| `uspto-office-actions-und-tess-tsdr` | USPTO Office Actions beantworten und TESS/TSDR-Datenbankrecherche: Prüfungsbescheid des USPTO nach Markenanmeldung erhalten. Normen: 15 U.S.C. § 1052 (Section 2-Versagungsgründe), In re E.I. DuPont 476 F.2d 1357… |
+| `vertikale-preisbindung-vbe-vo` | Vertikale Preisbindung und Vertikal-GVO-Compliance für Haendlervertraege: Hersteller oder Haendler will UPE oder Mindestpreise im Vertriebsnetz einsetzen. Normen: Art. 4 lit. a Vertikal-GVO (EU) 2022/720… |
+| `wortmarke-anmeldung-dpma` | DPMA-Anmeldung einer Wortmarke: Mandant will Markennamen in Deutschland schützen. Normen: §§ 32 ff. MarkenG (Anmeldung), § 8 MarkenG (absolute Schutzhindernisse: fehlende Unterscheidungskraft, Freihaltebedürftigkeit,… |
 
 ## Worum geht es?
 
@@ -112,5 +211,3 @@ Das Plugin deckt klassische Markenformen (Wort, Bild, Slogan) ebenso ab wie nich
 - Stand: 05/2026
 - MarkenG, UMV (VO (EU) 2017/1001), Lanham Act (15 U.S.C.) in aktuell geltender Fassung
 - EuGH-Urteil Coty (C-230/16) zum Selektivvertrieb; Vertikal-GVO (EU) 2022/720 (gueltig bis 2034)
-
-<!-- AUDIT 27.05.2026 | welle 5a | neuer allgemein-Skill (Pattern: selbstvertreter-orientierung) -->
