@@ -22,7 +22,7 @@ Jeder Vorgangsordner enthält in der Regel:
 - **Gebührenbescheid** der BVG (Verwaltungsakt mit Rechtsbehelfsbelehrung)
 - **Umsetzungsprotokoll** der Verkehrsleitung (Tatzeit, Tatort, Beschilderung, Anforderung des Abschleppwagens, Stadium der Umsetzung, Bemerkungen)
 - **Halterabfrage** beim Kraftfahrt-Bundesamt
-- **Lichtbilder** als Platzhalter mit ausführlicher Beschreibung (Übersicht, Detail Kennzeichen, Beschilderung)
+- **Lichtbildbeschreibungen** aus der Einsatzakte (Übersicht, Detail Kennzeichen, Beschilderung)
 - **Widerspruchsschreiben** des Halters oder Fahrers — handschriftlich-direkt bei privaten Halten, anwaltlich-substantiiert bei juristisch versierten Widerspruchsführern
 - gegebenenfalls **Anlagen** (EasyPark-Beleg, AU-Bescheinigung, Notaufnahme-Protokoll, Zeugenerklärung)
 
@@ -36,45 +36,45 @@ testakten/bvg-widerspruchsstelle-abschleppen-mobg/
     Gebuehrenbescheid_BVG_2026-05-04.pdf
     Umsetzungsprotokoll_2026-05-02.pdf
     Halterabfrage_KBA_2026-05-02.pdf
-    Lichtbild_01_Uebersicht.jpg.placeholder.txt
-    Lichtbild_02_Detail_Kennzeichen.jpg.placeholder.txt
-    Lichtbild_03_Beschilderung.jpg.placeholder.txt
+    Lichtbildbeschreibung_01_Uebersicht.md
+    Lichtbildbeschreibung_02_Detail_Kennzeichen.md
+    Lichtbildbeschreibung_03_Beschilderung.md
     Widerspruch_Ohrlich_2026-05-12.pdf
   02-bus-anfahrt-bismarckstr/
     Gebuehrenbescheid_BVG_2026-04-18.pdf
     Umsetzungsprotokoll_2026-04-15.pdf
     Halterabfrage_KBA_2026-04-15.pdf
-    Lichtbild_01_Uebersicht.jpg.placeholder.txt
-    Lichtbild_02_Position_zum_Haltschild.jpg.placeholder.txt
+    Lichtbildbeschreibung_01_Uebersicht.md
+    Lichtbildbeschreibung_02_Position_zum_Haltschild.md
     Aktennotiz_Widerspruchsstelle_2026-05-04.md
     Widerspruch_Yilmaz-Kohl_2026-04-26.pdf
   03-halter-tochter-skalitzer/
     Gebuehrenbescheid_BVG_2026-03-22.pdf
     Umsetzungsprotokoll_2026-03-19.pdf
     Halterabfrage_KBA_2026-03-19.pdf
-    Lichtbild_01_Nachtaufnahme.jpg.placeholder.txt
+    Lichtbildbeschreibung_01_Nachtaufnahme.md
     Widerspruch_Brettschneider_2026-04-08.pdf
     Anlage_Bestaetigung_Tochter_Brettschneider.pdf
   04-leerfahrt-frankfurter-allee/
     Gebuehrenbescheid_BVG_2026-02-09.pdf
     Umsetzungsprotokoll_2026-02-06.pdf
     Halterabfrage_KBA_2026-02-06.pdf
-    Lichtbild_01_Stationaer.jpg.placeholder.txt
+    Lichtbildbeschreibung_01_Stationaer.md
     Widerspruch_Voss_2026-02-20.pdf
     Anlage_EasyPark_Buchungsbeleg.pdf
   05-notfall-geburtswehen-friedrichstr/
     Gebuehrenbescheid_BVG_2026-01-23.pdf
     Umsetzungsprotokoll_2026-01-21.pdf
     Halterabfrage_KBA_2026-01-21.pdf
-    Lichtbild_01_Notizzettel.jpg.placeholder.txt
+    Lichtbildbeschreibung_01_Notizzettel.md
     Widerspruch_Kessling_2026-02-04.pdf
     Anlage_Notaufnahme_Protokoll_Charite.pdf
   06-falsche-beschilderung-bewohnerparken-pankow/
     Gebuehrenbescheid_BVG_2026-05-15.pdf
     Umsetzungsprotokoll_2026-05-13.pdf
     Halterabfrage_KBA_2026-05-13.pdf
-    Lichtbild_01_Mobiles_Schild_Tatort.jpg.placeholder.txt
-    Lichtbild_02_Anwohner_Parksituation.jpg.placeholder.txt
+    Lichtbildbeschreibung_01_Mobiles_Schild_Tatort.md
+    Lichtbildbeschreibung_02_Anwohner_Parksituation.md
     Widerspruch_Sokolow_2026-05-28.pdf
     Anlage_AU_Bescheinigung_Sokolow.pdf
     Anlage_Zeugenerklaerung_Nachbar_Wiethoff.pdf
@@ -82,4 +82,4 @@ testakten/bvg-widerspruchsstelle-abschleppen-mobg/
 
 ## Hinweis
 
-Diese Akte ist frei erfunden. Personen, Adressen, Kennzeichen, Aktenzeichen, Bankverbindungen, Ärzte und Hausnummern sind fiktiv. Die Rechtsgrundlagen (§ 23 MobG BE, BVGBenGebO, BVerwG 3 C 5.13, VG Berlin 11 K 226/21) sind real und für die Bearbeitung der Vorgänge zugrunde zu legen.
+Diese Akte ist frei erfunden. Personen, Adressen, Kennzeichen, Aktenzeichen, Bankverbindungen, Ärzte und Hausnummern sind fiktiv. Die Rechtsgrundlagen (§ 23 MobG BE, BVGBenGebO, BVerwG 3 C 5.13, VG Berlin 11 K 298/21) sind real und für die Bearbeitung der Vorgänge zugrunde zu legen.

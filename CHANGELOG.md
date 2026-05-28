@@ -6,6 +6,9 @@
 - Art. 6 Abs. 3 wurde mit Profiling-Sperre, vier Fallgruppen, Grundrechtsrisiko und Art.-6-Abs.-4-Dokumentation geschärft.
 - Normen-/Standards-Skill trennt harmonisierte Normen, gemeinsame Spezifikationen, GPAI Code of Practice und ISO/IEC-Standards ohne falsche Vermutungswirkung.
 - Output-Dokumentation enthält jetzt Art.-3-Vermerk, Anhang-III-Matrix, Off-label-Governance, Re-Evaluation-Trigger und Standards-Hinweis.
+- Perplexitys BVG-/ÖPNV-Abschleppmaterial aus `v18.1.0` ist in `main` integriert: neuer Verwaltungsrechts-Skill `fa-vwgo-widerspruchsbescheid-abschleppen-oepnv` und neue Testakte `bvg-widerspruchsstelle-abschleppen-mobg`.
+- Die BVG-Testakte verwendet nun Lichtbildbeschreibungen statt Platzhalterdateien; die VG-Berlin-Fundstelle ist auf Urteil vom 30.05.2022, VG 11 K 298/21, mit Pressemitteilung vom 04.07.2022 korrigiert.
+- `README.md`, `SKILLS.md`, `testakten/README.md` und der Allgemein-Skill des Verwaltungsrechts-Plugins spiegeln nun 2279 Skills, 50 Testakten und das neue Routing zum BVG-Widerspruchsbescheid wider.
 
 ---
 

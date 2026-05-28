@@ -1,12 +1,8 @@
-PLACEHOLDER -- Lichtbild 02 Detail Kennzeichen
-================================================
-
-Dateiname (Original): Lichtbild_02_Detail_Kennzeichen.jpg
+# Lichtbild 02 Detail Kennzeichen
 Aufnahme:             Verkehrsleiter Krenz, BVG-Diensthandy
 Datum/Zeit:           02.05.2026, 14:13 Uhr
 
-Beschreibung:
--------------
+## Beschreibung
 Heckansicht des VW Golf. Kennzeichen B-OL 4711 deutlich lesbar.
 Im Hintergrund Buswartebereich mit gelber Markierung am Bordstein.
-TUEV-Plakette auf Kennzeichen ablesbar: 03/2027.
+TÜV-Plakette auf Kennzeichen ablesbar: 03/2027.

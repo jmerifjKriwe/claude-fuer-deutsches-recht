@@ -14,7 +14,7 @@ Ein Verkehrsbetrieb in der Rechtsform einer Anstalt des öffentlichen Rechts (z.
 1. Welcher Verkehrsbetrieb und welche Anstaltsform — BVG AöR Berlin, HHA Hamburger Hochbahn AG, MVG München (Tochter SWM), KVB Köln AöR, RNV Rhein-Neckar — und welche landesrechtliche Ermächtigungsgrundlage greift?
 2. Welchen Bereich betraf die Umsetzung — Bushaltestellenkap mit Haltverbotszeichen, Sonderfahrstreifen Bus/Tram nach Zeichen 245 StVO, Straßenbahngleis im Mischverkehr, Wendeschleife, ÖPNV-Vorrangfläche, Behindertenparkplatz an einer Haltestelle?
 3. Welche Beweismittel liegen vor — Lichtbilder mit Zeitstempel, Übersichtsfoto Beschilderung, Detailfoto Fahrzeugposition, Halterabfrage Kraftfahrt-Bundesamt, Umsetzungsprotokoll mit Uhrzeiten Anforderung/Eintreffen/Verladung/Verbringung, Quittung Abschleppunternehmer?
-4. Wer ist Adressat des Gebührenbescheids — Halter (Regelfall nach § 7 StVG analog im Polizeirecht: Anscheinsstörer), Fahrer (wenn identifiziert), beide gesamtschuldnerisch?
+4. Wer ist Adressat des Gebührenbescheids — Halter oder Fahrer nach § 23 Abs. 5 MobG BE, Fahrer ermittelt oder unbekannt, Schuldnerauswahl im Bescheid begründet?
 5. Welche Stadien der Umsetzung sind aktenkundig — vollzogene Umsetzung, begonnene Umsetzung (Verladung läuft), Leerfahrt (Abschleppwagen unterwegs, Fahrzeug aber nicht mehr vor Ort), vermiedene Umsetzung (Fahrer erscheint vor Verladebeginn)?
 6. Welche Einwände bringt der Widerspruchsführer — keine konkrete Behinderung, falsche Beschilderung, Notstand, Fremdverschulden, Halter nicht Fahrer, fehlende Wartezeit, unverhältnismäßig hohe Gebühr, Anhörungsmangel, fehlende Begründung?
 7. Liegt ein Antrag nach § 80 Abs. 4 VwGO auf Aussetzung der sofortigen Vollziehung vor — oder hat der Widerspruchsführer bereits gezahlt und begehrt Erstattung?
@@ -57,9 +57,9 @@ Bei Fahrzeugen über 3,5 t zulässiger Gesamtmasse:
 
 **BVerwG, Urteil vom 09.04.2014 — 3 C 5.13** — Die Einleitung einer kostenpflichtigen Abschleppmaßnahme wegen eines verbotswidrig an einem Taxenstand abgestellten Fahrzeugs ist regelmäßig auch ohne Einhaltung einer bestimmten Wartezeit mit dem bundesverfassungsrechtlichen Verhältnismäßigkeitsgrundsatz vereinbar. Nach Maßgabe der konkreten Umstände kann es allerdings geboten sein, von Abschleppmaßnahmen abzusehen — etwa wenn eine Beeinträchtigung des reibungslosen Taxen- oder ÖPNV-Verkehrs ausgeschlossen ist — oder mit der Abschleppanordnung zu warten, wenn konkrete Anhaltspunkte dafür vorliegen, dass der Verantwortliche kurzfristig wieder am Fahrzeug erscheinen und es unverzüglich selbst entfernen wird.
 
-**VG Berlin, Urteil vom 04.07.2022 — 11 K 226/21** — Eine konkrete Behinderung ist für die Umsetzung von ÖPNV-Flächen nicht erforderlich; der reibungslose Ablauf des öffentlichen Nahverkehrs steht im Vordergrund. Die Umsetzungsbefugnis nach § 23 MobG BE greift bereits bei verkehrswidriger Nutzung der Sonderfläche.
+**VG Berlin, Urteil vom 30.05.2022 — VG 11 K 298/21** — Das Verwaltungsgericht Berlin hat die eigenständige BVG-Umsetzungsbefugnis nach § 23 MobG BE bestätigt. Nach der veröffentlichten Gerichtsmitteilung genügt die verkehrswidrige Nutzung einer ÖPNV-Fläche; eine konkrete Behinderung des Busverkehrs muss nicht zusätzlich festgestellt werden, wenn die gesetzliche Blockadesituation vorliegt.
 
-**Halterhaftung als Anscheinsstörer** — Im Polizei- und Ordnungsrecht haftet der Fahrzeughalter, sofern der Fahrer nicht ermittelt ist, als Anscheinsstörer für die Kosten der Gefahrenabwehrmaßnahme. Eine Pflicht zur Halteranschriftsermittlung vor Anordnung der Umsetzung besteht nur ausnahmsweise — etwa bei konkreten Hinweisen auf den Aufenthalt des Fahrers im unmittelbaren Nahbereich (vgl. VG Bremen, Urteil vom 08.10.2015 — 5 K 2021/13).
+**Gebührenschuldner Halter oder Fahrer** — § 23 Abs. 5 MobG BE benennt Halter und Fahrer als mögliche Schuldner der Umsetzungsgebühren. Die Widerspruchsstelle muss deshalb sauber festhalten, wen der Ausgangsbescheid in Anspruch nimmt, ob der Fahrer bekannt und kurzfristig greifbar war und ob besondere Umstände gegen die Heranziehung des Halters sprechen. Allgemeines Polizei- und Ordnungsrecht bleibt für Verantwortlichkeit, Verhältnismäßigkeit und Ermessensausübung wichtig; § 7 StVG ist dafür keine eigenständige Analogiegrundlage.
 
 ## Prüfraster für den Widerspruchsbescheid
 
@@ -77,7 +77,7 @@ Bei Fahrzeugen über 3,5 t zulässiger Gesamtmasse:
 - Beschilderung ordnungsgemäß sichtbar zum Zeitpunkt des Abstellens — keine Verdeckung durch Begrünung, kein verdrehtes Schild, keine zwischenzeitliche Aufstellung als mobiles Haltverbot ohne ausreichende Vorlaufzeit?
 - Verstoß gegen Verkehrsregeln oder Verkehrszeichen tatsächlich gegeben?
 - Verhältnismäßigkeit der Umsetzung — Geeignetheit, Erforderlichkeit, Angemessenheit; bei ÖPNV-Flächen regelmäßig keine Wartezeit erforderlich (BVerwG 3 C 5.13).
-- Auswahl des Störers ermessensfehlerfrei — Fahrer wenn anwesend und kurzfristig handlungsbereit, sonst Halter als Anscheinsstörer.
+- Auswahl des Gebührenschuldners ermessensfehlerfrei — Fahrer, wenn anwesend, bekannt und kurzfristig handlungsbereit; sonst regelmäßig Halter, soweit keine aktenkundigen Sonderumstände gegen die Heranziehung sprechen.
 
 ### 3. Rechtmäßigkeit der Gebührenfestsetzung
 
@@ -88,9 +88,9 @@ Bei Fahrzeugen über 3,5 t zulässiger Gesamtmasse:
 
 ### 4. Sonderkonstellationen
 
-- **Notstand** — Akut lebensbedrohliche Lage, Geburtswehen, medizinischer Notfall: rechtfertigender Notstand nach § 16 OWiG analog kann die Umsetzungsanordnung unverhältnismäßig machen, wenn der Verkehrsbetrieb von der Notlage Kenntnis hatte oder hätte haben können.
+- **Notstand oder atypische Notlage** — Akut lebensbedrohliche Lage, Geburtswehen, medizinischer Notfall: nicht schematisch über eine OWiG-Analogie lösen, sondern als Rechtfertigungs-, Verhältnismäßigkeits- und Ermessensfrage prüfen. Entscheidend ist, was der Verkehrsbetrieb vor Ort wusste oder bei ordentlicher Aktenlage hätte erkennen können.
 - **Fremdverschulden Dritter** — Vorderfahrzeug fährt nicht weg, Mandant kann nicht aus dem Haltestellenbereich ausparken: in der Regel keine Entlastung, da der Halter das Fahrzeug überhaupt nicht im Haltestellenbereich hätte abstellen dürfen.
-- **Mitverschulden des Verkehrsbetriebs** — Bus drängt sich nachträglich an ein zunächst regelkonform abgestelltes Fahrzeug heran und der Verkehrsleiter ordnet die Umsetzung an: hier kann nach dem Rechtsgedanken des § 254 BGB analog im Rahmen der Verhältnismäßigkeitsprüfung eine Reduzierung oder ein Absehen von der Gebührenerhebung geboten sein.
+- **Mitverursachung des Verkehrsbetriebs** — Bus oder Einsatzleitung schaffen die konkrete Konfliktlage erst nachträglich oder dokumentieren widersprüchlich: dann nicht zivilrechtlich abkürzen, sondern Verhältnismäßigkeit, Ermessen, Aktenklarheit und Kostengerechtigkeit prüfen. Je nach Stadium kann eine Teilabhilfe oder ein Absehen von der Gebühr tragfähig sein.
 - **Halter ≠ Fahrer** — Halter trägt die Beweislast für die Identität des Fahrers; benennt er den Fahrer substantiiert, prüft die Widerspruchsstelle, ob der Bescheid umgestellt oder aufgehoben wird.
 - **Zugeparkter Bewohner** — Verkehrsbetrieb hat keinen Anlass, Anwohner bevorzugt zu behandeln; relevant nur, wenn das Fahrzeug schon vor Anbringung mobiler Beschilderung legal stand und die Vorlauffrist (regelmäßig 72 Stunden, Rspr. der OVG) nicht eingehalten wurde.
 
@@ -179,7 +179,7 @@ Widerspruchsstelle Rechtsabteilung
 - **Hamburg** — Hamburger Hochbahn AG arbeitet auf Grundlage des HmbSOG iVm Anordnung der Polizei bzw. Wegerecht; eine eigene Umsetzungsbefugnis vergleichbar zum Berliner MobG BE besteht in dieser Form nicht. Gebührenbescheide erlässt regelmäßig die Polizei oder das Bezirksamt.
 - **München** — MVG arbeitet als Tochter der SWM GmbH zivilrechtlich; Abschleppmaßnahmen erfolgen durch Polizei oder Kommunalreferat.
 - **Köln** — KVB AöR; Umsetzungen erfolgen durch die Verwaltung der Stadt Köln auf Grundlage des PolG NRW und der Sondernutzungssatzung.
-- **Bundesweit** — Die polizeirechtliche Standardlinie ist § 19 Abs. 1 VwVG (Bund) bzw. die landesrechtlichen Polizeigesetze. Berlin ist mit § 23 MobG BE der bislang einzige Bundesland-Sondergesetzgeber, der Verkehrsbetrieben eine eigenständige Umsetzungs- und Gebührenbefugnis übertragen hat.
+- **Bundesweit** — Abschlepp- und Umsetzungskosten folgen außerhalb Berlins regelmäßig den jeweiligen landesrechtlichen Polizei-, Ordnungs- und Verwaltungsvollstreckungsregeln sowie kommunalen Zuständigkeitsmodellen. § 23 MobG BE ist eine Berliner Sonderregel für ÖPNV-Flächen und darf nicht ungeprüft auf Hamburg, München, Köln oder andere Länder übertragen werden.
 
 ## Beispieltestakte
 
@@ -200,5 +200,5 @@ Eine vollständige Schulungsakte mit sechs Fallvarianten und allen Ausgangsdokum
 - Berliner Verkehrsbetriebe-Benutzungsgebührenordnung (BVGBenGebO) — [gesetze.berlin.de](https://gesetze.berlin.de/bsbe/document/jlr-BVGBenGebOBEV1Anlage)
 - BVG Busspurberäumung — [bvg.de](https://www.bvg.de/de/service-und-kontakt/busspurbetreuung)
 - BVerwG, Urteil vom 09.04.2014 — 3 C 5.13 — [bverwg.de](https://www.bverwg.de/090414U3C5.13.0)
-- VG Berlin, Urteil vom 04.07.2022 — 11 K 226/21 — Bestätigung der BVG-Umsetzungsbefugnis ohne konkrete Behinderung
+- VG Berlin, Urteil vom 30.05.2022 — VG 11 K 298/21 — Bestätigung der BVG-Umsetzungsbefugnis; Pressemitteilung des VG Berlin vom 04.07.2022 — [berlin.de](https://www.berlin.de/gerichte/verwaltungsgericht/presse/pressemitteilungen/2022/pressemitteilung.1222565.php)
 - VwGO §§ 68 bis 80 — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/vwgo/__73.html)
