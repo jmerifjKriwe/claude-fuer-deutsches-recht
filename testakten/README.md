@@ -2,7 +2,7 @@
 
 Dieser Ordner enthält **fiktive Mandatsakten**, mit denen sich die Skills sofort ausprobieren lassen. Jede Akte ist bewusst so unstrukturiert wie ein echter Datenraum: PDFs mit handgemachten Briefköpfen, Excel-Tabellen, Word-Entwürfen, schiefen Dateinamen, Bildbeschreibungen, Chattranskripten und Fehlblättern, Mandantennotizen mit Tippfehlern. **Die Akten sind kein Bestandteil der Plugins und werden nicht mitinstalliert.** Wer die Skills produktiv einsetzt, lädt sich die Akten bei Bedarf separat als ZIP herunter.
 
-**Stand v21.0.0:** 55 Testakten. Auf GitHub liest man jede Datei direkt als Markdown (`*.md`-Vorschauen für DOCX und XLSX werden automatisch generiert). Im ZIP-Download bekommt man die **Originalformate** (DOCX, XLSX, PDF, JPEG, CSV) für realistische Tests. Schriftsätze sind 800-3000 Wörter, Verträge enthalten alle Paragrafen, Mandantennotizen sind realistisch detailliert. Akten sind typischerweise 100-700 KB groß.
+**Stand v22.0.0:** 55 Testakten. Auf GitHub liest man jede Datei direkt als Markdown (`*.md`-Vorschauen für DOCX und XLSX werden automatisch generiert). Im ZIP-Download bekommt man die **Originalformate** (DOCX, XLSX, PDF, JPEG, CSV) für realistische Tests. Schriftsätze sind 800-3000 Wörter, Verträge enthalten alle Paragrafen, Mandantennotizen sind realistisch detailliert. Akten sind typischerweise 100-700 KB groß.
 
 ## Verfügbare Akten
 

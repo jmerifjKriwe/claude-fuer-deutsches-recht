@@ -1,3 +1,15 @@
+# v22.0.0 — Nachbarschaftsstreit, US-Transfer-TIA, KI-VO-Evidence-Pack
+
+- Alle 102 Plugin-Manifeste und die zentrale `.claude-plugin/marketplace.json` auf Version `22.0.0` gezogen.
+- Neues Plugin **`nachbarschaftsstreit-pruefer`** mit 19 Skills zum Nachbarrecht: Überbau (§§ 912-916 BGB), Überhang (§ 910 BGB), Grenzbaum/Grenzanlage (§§ 921-923 BGB), Einfriedung, Immissionen (§ 906 BGB), Notweg (§§ 917-918 BGB), Vertiefung/Baugrube (§ 909 BGB), Hammerschlagsrecht, Landesnachbarrecht-Router, Beweissicherung, Aufforderungsschreiben, einstweilige Verfügung und Vergleich. Mit zwölfteiliger Testakte `nachbarschaftsstreit-horrorfall-rosengarten`.
+- Drei neue Datenschutz-Skills im Plugin `datenschutzrecht`: `us-transfer-tia-dokumentation`, `standardvertragsklauseln-scc-paket`, `drittlandtransfer-behoerdenpaket-output`. Mit Testakte `datenschutz-us-transfer-cloudsuite-rheinmain` (CloudSuite Assist, DPF-Lücke, SCC Modul 2, hbDI-Antwortentwurf).
+- Neuer KI-VO-Skill `output-konformitaetsbescheinigung-evidence-pack` mit Statusleiter Final/Entwurf/Readiness/Drittstelle, EU-Konformitätserklärung nach Art. 47 / Anhang V, Evidence Index und Lückenliste. Mit Testakte `ki-vo-konformitaetsbescheinigung-bewerberpilot`.
+- Bereicherungs- und Arbeitsrecht-Cleanup: URL-Konsistenz `claude-fuer-deutsches-recht` und ASCII-Slugs in den Direkt-Download-Tabellen, Skill-Slugs in Plugin-README-Tabellen ohne Umlaute.
+- Direkt-Download-Blöcke in den beiden neuen Testakten-READMEs analog zu den 53 anderen.
+- Stand jetzt 102 Plugins, 2410 Skills und 55 Testakten.
+
+---
+
 # v21.0.0 — Direkt-Downloads und Bereicherungsrecht-Cleanup
 
 - Alle 101 Plugin-Manifeste und die zentrale `.claude-plugin/marketplace.json` auf Version `21.0.0` gezogen.
