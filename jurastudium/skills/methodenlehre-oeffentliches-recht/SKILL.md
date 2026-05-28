@@ -1,6 +1,7 @@
 ---
 name: methodenlehre-oeffentliches-recht
-description: "Übt die öffentlich-rechtliche Methodenlehre — Schichtenprüfung bei Grundrechten, Verhältnismäßigkeit, Ermessen und Ermessensfehler, Verwaltungsaktqualität, prozessuale Methodik der Klagearten, unionsrechtskonforme Auslegung, Vorrang des EU-Rechts, Vorlage an EuGH und BVerfG. Lädt, wenn der Nutzer "Grundrechtsprüfung\", "Verhältnismäßigkeit\", "Ermessen prüfen\", "Klageart bestimmen\" oder "Vorlage EuGH\" sagt."
+description: 'Übt die öffentlich-rechtliche Methodenlehre — Schichtenprüfung bei Grundrechten, Verhältnismäßigkeit, Ermessen und Ermessensfehler, Verwaltungsaktqualität, prozessuale Methodik der Klagearten, unionsrechtskonforme Auslegung, Vorrang des EU-Rechts, Vorlage an EuGH und BVerfG. Lädt, wenn der Nutzer "Grundrechtsprüfung", "Verhältnismäßigkeit", "Ermessen prüfen", "Klageart bestimmen" oder "Vorlage EuGH" sagt.'
+
 ---
 
 # Methodenlehre — Öffentliches Recht

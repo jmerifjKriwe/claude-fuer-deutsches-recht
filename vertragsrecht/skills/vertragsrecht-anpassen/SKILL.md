@@ -1,6 +1,7 @@
 ---
 name: vertragsrecht-anpassen
-description: "Geführte Anpassung des Kanzleiprofils im Vertragsrecht — ändert einzelne Einstellungen ohne erneutes Erstgespräch. Lädt, wenn der Nutzer "Profil anpassen\", "Playbook ändern\", "Eskalation aktualisieren\", "Klauselposition ändern\" oder "konfigurieren\" sagt."
+description: 'Geführte Anpassung des Kanzleiprofils im Vertragsrecht — ändert einzelne Einstellungen ohne erneutes Erstgespräch. Lädt, wenn der Nutzer "Profil anpassen", "Playbook ändern", "Eskalation aktualisieren", "Klauselposition ändern" oder "konfigurieren" sagt.'
+
 ---
 
 # Kanzleiprofil anpassen

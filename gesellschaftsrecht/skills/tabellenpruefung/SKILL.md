@@ -1,6 +1,7 @@
 ---
 name: tabellenpruefung
-description: "Tabellarisches Vertragsreview als Prompt-Matrix — pro Spalte ein Extraktionsprompt (was wird gefragt), pro Zeile ein dokumentspezifischer Prompt (wie wird dieses Dokument behandelt). Eine Zeile pro Dokument, eine Spalte pro Datenpunkt, jede Zelle mit wörtlichem Quellenzitat und Fundstelle. Geeignet für M&A-Due-Diligence (Change-of-Control, Abtretungsverbote, MAC-Klauseln in vielen Zielgesellschaftsverträgen), Vendor-Vertragsaudits und jeden anderen Stapeldurchlauf. Lädt bei "tabellarisches Review\", "Review-Raster\", "Prompt-Tabelle\", "Felder aus Verträgen extrahieren\", "Dokumente auf X, Y, Z prüfen\" oder bei Verweis auf einen Dokumentenordner mit Vergleichsauftrag."
+description: 'Tabellarisches Vertragsreview als Prompt-Matrix — pro Spalte ein Extraktionsprompt (was wird gefragt), pro Zeile ein dokumentspezifischer Prompt (wie wird dieses Dokument behandelt). Eine Zeile pro Dokument, eine Spalte pro Datenpunkt, jede Zelle mit wörtlichem Quellenzitat und Fundstelle. Geeignet für M&A-Due-Diligence (Change-of-Control, Abtretungsverbote, MAC-Klauseln in vielen Zielgesellschaftsverträgen), Vendor-Vertragsaudits und jeden anderen Stapeldurchlauf. Lädt bei "tabellarisches Review", "Review-Raster", "Prompt-Tabelle", "Felder aus Verträgen extrahieren", "Dokumente auf X, Y, Z prüfen" oder bei Verweis auf einen Dokumentenordner mit Vergleichsauftrag.'
+
 ---
 
 # Tabellarisches Vertragsreview als Prompt-Matrix

@@ -1,6 +1,7 @@
 ---
 name: methodenlehre-grundlagen
-description: "Übt die juristische Methodenlehre für Studierende — Auslegung nach Wortlaut/Systematik/Historie/Telos, Analogie, teleologische Reduktion, Auslegung gegen den Wortlaut, verfassungskonforme und unionsrechtskonforme Auslegung, Argumentationslast. Lädt, wenn der Nutzer "Methodenlehre üben\", "auslegen\", "Analogie prüfen\", "teleologische Reduktion\", "verfassungskonform auslegen\" oder "warum brauche ich Methodenlehre\" sagt."
+description: 'Übt die juristische Methodenlehre für Studierende — Auslegung nach Wortlaut/Systematik/Historie/Telos, Analogie, teleologische Reduktion, Auslegung gegen den Wortlaut, verfassungskonforme und unionsrechtskonforme Auslegung, Argumentationslast. Lädt, wenn der Nutzer "Methodenlehre üben", "auslegen", "Analogie prüfen", "teleologische Reduktion", "verfassungskonform auslegen" oder "warum brauche ich Methodenlehre" sagt.'
+
 ---
 
 # Methodenlehre — Grundlagen

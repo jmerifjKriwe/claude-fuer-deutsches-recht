@@ -1,6 +1,7 @@
 ---
 name: werbeaussagen-pruefung
-description: "Prüfung von Werbeaussagen auf Irreführungs- und Wettbewerbsrechtsrisiken nach deutschem und europäischem Recht. Lädt, wenn der Nutzer "Werbetext prüfen\", "Marketingaussagen freigeben\", "UWG-Prüfung\", "Health Claims\", "klimaneutral prüfen\" oder vergleichbare Werbebehauptungen zur Überprüfung vorlegt."
+description: 'Prüfung von Werbeaussagen auf Irreführungs- und Wettbewerbsrechtsrisiken nach deutschem und europäischem Recht. Lädt, wenn der Nutzer "Werbetext prüfen", "Marketingaussagen freigeben", "UWG-Prüfung", "Health Claims", "klimaneutral prüfen" oder vergleichbare Werbebehauptungen zur Überprüfung vorlegt.'
+
 ---
 
 # Werbeaussagen-Prüfung (Marketing Claims Review)

@@ -1,6 +1,7 @@
 ---
 name: methodenlehre-strafrecht
-description: "Übt die strafrechtliche Methodenlehre — dreistufiger Verbrechensaufbau (Tatbestand, Rechtswidrigkeit, Schuld), Trennung objektiver/subjektiver Tatbestand, Konkurrenzlehre (Tateinheit § 52, Tatmehrheit § 53, Gesetzeskonkurrenz), Analogieverbot Art. 103 II GG, Auslegung im Lichte des Bestimmtheitsgebots. Lädt, wenn der Nutzer "Strafrecht-Aufbau\", "Verbrechensaufbau prüfen\", "Konkurrenzen Strafrecht\", "Analogieverbot\" oder "Vorsatz subsumieren\" sagt."
+description: 'Übt die strafrechtliche Methodenlehre — dreistufiger Verbrechensaufbau (Tatbestand, Rechtswidrigkeit, Schuld), Trennung objektiver/subjektiver Tatbestand, Konkurrenzlehre (Tateinheit § 52, Tatmehrheit § 53, Gesetzeskonkurrenz), Analogieverbot Art. 103 II GG, Auslegung im Lichte des Bestimmtheitsgebots. Lädt, wenn der Nutzer "Strafrecht-Aufbau", "Verbrechensaufbau prüfen", "Konkurrenzen Strafrecht", "Analogieverbot" oder "Vorsatz subsumieren" sagt.'
+
 ---
 
 # Methodenlehre — Strafrecht
