@@ -1,3 +1,13 @@
+# v21.0.0 — Direkt-Downloads und Bereicherungsrecht-Cleanup
+
+- Alle 101 Plugin-Manifeste und die zentrale `.claude-plugin/marketplace.json` auf Version `21.0.0` gezogen.
+- 52 Testakten-Unterordner-READMEs mit sichtbarem Direkt-Download-Button für die jeweilige ZIP-Datei aus dem `latest`-Release.
+- 13 Plugin-READMEs mit eigenem **Zum Ausprobieren: Testakte**-Block und Direkt-Download-Link: `arbeitszeugnis-analyse`, `bgb-at-pruefer`, `fachanwalt-arbeitsrecht`, `fachanwalt-sozialrecht`, `fachanwalt-verwaltungsrecht`, `gesellschaftsrecht`, `grosskanzlei-corporate-ma`, `insolvenzrecht`, `jveg-kostenpruefer`, `kanzlei-allgemein`, `liquiditaetsplanung`, `lobbyregister-bundestag`, `steuerrecht-anwalt-und-berater`.
+- Bereicherungsrecht-Cleanup: 77 Skills mit Umlaut- und Typo-Reparatur, 50 Skills mit vollständig ausgebauten Aktivierungs-Descriptions im Muster Trigger + Normen + Prüfraster + Output + Abgrenzung.
+- Stand bleibt 101 Plugins, 2386 Skills und 52 Testakten.
+
+---
+
 # v20.0.0 — Release 20 Gesamtstand
 
 - Alle 101 Plugin-Manifeste und die zentrale `.claude-plugin/marketplace.json` auf Version `20.0.0` gezogen.

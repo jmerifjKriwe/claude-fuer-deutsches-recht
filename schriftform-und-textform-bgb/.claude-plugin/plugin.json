@@ -1,7 +1,7 @@
 {
   "name": "schriftform-und-textform-bgb",
   "displayName": "Schriftform und Textform im BGB",
-  "version": "20.0.0",
+  "version": "21.0.0",
   "description": "Workflow-Organisator zu Formerfordernissen im Zivilrecht: Schriftform, qES, Textform, Zugang, beA/ERV, § 130e ZPO, § 46h ArbGG und BGH VIII ZR 155/23 / VIII ZR 159/23.",
   "author": {
     "name": "Klotzkette"
