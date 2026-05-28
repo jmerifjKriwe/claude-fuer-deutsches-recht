@@ -1,4 +1,4 @@
-# Steuerrecht für Anwaltschaft und Steuerberatung
+# Steuerrecht – Steuerberater und Anwälte
 
 Konsolidiertes Steuerrecht-Plugin für zwei Zielgruppen: **Anwaltschaft im Steuerrecht** (`anw-`) — inkl. Fachanwältinnen und Fachanwälte für Steuerrecht — und **Steuerberatung** (`stb-`). Umfasst das vollständige Mandats-Workflow von der Bescheidanalyse über Einspruch und Klage bis zu Selbstanzeige, Außenprüfung, Strafverteidigung und Haftungs-Warnschreiben — sowie Steuerberater-Werkzeuge für BWA-/SuSa-/Bilanzprüfung, Überschuldungs- und Liquiditätsprüfung mit Krisenfrüherkennung.
 
