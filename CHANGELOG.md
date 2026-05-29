@@ -1,3 +1,14 @@
+# v45.0.0 — Sammel-ZIPs für Plugins und Testakten
+
+Release-Infrastruktur und Übersichten nachgezogen:
+
+- `.github/workflows/release-plugin-zips.yml` baut zusätzlich `alle-plugins-megazip.zip` mit allen installierbaren Plugin-ZIPs plus `marketplace.json`.
+- Der Workflow baut zusätzlich `alle-testakten.zip` mit allen Testaktenordnern in Originalstruktur.
+- `README.md`, `testakten/README.md` und `ASSET_INDEX.md` zeigen die Sammel-Downloads sichtbar an.
+- Erwarteter Release-Umfang: 105 Plugin-ZIPs, 63 Testakten-ZIPs, `marketplace.json` und 2 Sammelarchive, also 171 Assets.
+
+---
+
 # v44.0.1 — Testakte: Excel entlehrmaterialisiert, gemischte PDFs nach Kanaltyp getrennt
 
 Folgefix nach v44.0.0. Drei Dinge:

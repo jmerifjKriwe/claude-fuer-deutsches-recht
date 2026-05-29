@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v40.0.0 Sanity-Check-Release
+**Stand:** v45.0.0 Sammel-Downloads für Plugins und Testakten
 
 ## Asset-Typen
 
@@ -11,6 +11,14 @@
 | **plugin** | `<plugin-name>.zip` | Über "Customize Plugins -> Install from .zip" in Claude Code/Cowork hochladen. |
 | **fallakte** | `testakte-<aktenname>.zip` | **Kein Plugin.** Mandatsunterlagen für Testzwecke. In den Chat ziehen, nicht in den Plugin-Upload-Dialog. |
 | **manifest** | `marketplace.json` | **Kein Plugin.** Marketplace-Manifest für `/plugin marketplace add` und zur manuellen Inspektion. |
+| **sammelarchiv** | `alle-plugins-megazip.zip`, `alle-testakten.zip` | Komfort-Downloads für den gesamten Plugin- oder Testaktenbestand. |
+
+## Sammel-Assets (2 Stück)
+
+| Asset | Verwendung |
+| --- | --- |
+| [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) | Enthält alle installierbaren Plugin-ZIPs plus `marketplace.json`. Nach dem Entpacken einzelne Plugin-ZIPs über "Install from .zip" laden oder das Manifest prüfen. |
+| [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) | Enthält alle Testaktenordner in Originalstruktur. **Kein Plugin-Archiv**; die Akten in den Chat bzw. Arbeitsordner ziehen. |
 
 ## Plugin-Assets (105 Stück)
 
@@ -210,7 +218,8 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | plugin | 105 | |
 | fallakte | 63 | |
 | manifest | 1 | |
-| **gesamt** | | **169** |
+| sammelarchiv | 2 | |
+| **gesamt** | | **171** |
 
 ## Verifikation eines Release
 
@@ -219,4 +228,4 @@ curl -s "https://api.github.com/repos/Klotzkette/claude-fuer-deutsches-recht/rel
   | python3 -c "import json,sys; d=json.load(sys.stdin); print('Tag:', d['tag_name']); print('Assets:', len(d['assets'])); [print(' -', a['name']) for a in d['assets']]"
 ```
 
-Erwartet für `v40.0.0` und `latest`: 169 Assets, davon 105 Plugin-ZIPs, 63 Fallakten-ZIPs mit `testakte-`-Prefix und eine `marketplace.json`.
+Erwartet für `v45.0.0` und `latest`: 171 Assets, davon 105 Plugin-ZIPs, 63 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und zwei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`).
