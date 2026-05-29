@@ -6,6 +6,12 @@ Konsolidiertes Steuerrecht-Plugin für zwei Zielgruppen: **Anwaltschaft im Steue
 
 **Jede Ausgabe ist ein Entwurf zur anwaltlichen bzw. steuerlichen Prüfung — zitiert, mit Prüfhinweisen versehen. Das Plugin erledigt die Recherchearbeit. Die rechtliche Beurteilung und die Entscheidung liegen beim Rechtsanwalt, Fachanwalt für Steuerrecht oder Steuerberater.** Folgenreiche Handlungen — Einreichen, Versenden, Vollziehen — erfordern ausdrückliche Freigabe.
 
+## Rechtsstand und Quellen-Gate
+
+Für aktuelle steuerrechtliche Aussagen zuerst `/steuerrecht-anwalt-und-berater:rechtsstand-mai-2026-faktenbank` laden. Der Skill enthält geprüfte freie Anker zu E-Rechnung ab 2025, Krypto/BFH/BMF, Grundsteuer-Bundesmodell, § 23 EStG und § 20 EStG/Verlustverrechnung.
+
+Keine BeckRS-, juris-, Kommentar- oder Aufsatzzitate aus Modellwissen. BFH/FG-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und freier Quelle; Verwaltungsauffassung nur als BMF/BZSt-Quelle und nie als Ersatz für Gesetz und Rechtsprechung.
+
 
 ## ⬇️ Zum Ausprobieren: Testakte (separat)
 
@@ -51,6 +57,7 @@ Skills für steuerrechtliche Anwaltskanzleien — streitbezogene Folgebearbeitun
 | Skill | Funktion |
 |---|---|
 | `/steuerrecht-anwalt-und-berater:anw-orientierung` | Orientierung Anwalt im Steuerrecht (Normen, Fristen, Quellenprüfung) + FAO § 9-Anhang |
+| `/steuerrecht-anwalt-und-berater:rechtsstand-mai-2026-faktenbank` | Quellen-Gate: E-Rechnung, Krypto, Grundsteuer, § 23 EStG, § 20 EStG, BFH/BMF/BZSt ohne Blindzitate |
 | `/steuerrecht-anwalt-und-berater:anw-kaltstart-interview` | Ersteinrichtung — Kanzleiprofil, Schwerpunkte, Finanzämter, FG-Bezirke |
 | `/steuerrecht-anwalt-und-berater:anw-mandat-triage-steuerrecht` | Eingangs-Triage: Steuerart, Vorgang, Fristen, Eskalation |
 | `/steuerrecht-anwalt-und-berater:anw-steuerbescheid-analyse` | Steuerbescheid systematisch auswerten vor Einspruch |

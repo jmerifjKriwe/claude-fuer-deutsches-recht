@@ -5,10 +5,12 @@
 | `arbeitsrecht` | Individual- und kollektives Arbeitsrecht | BGB §§ 611a ff., KSchG, TzBfG, BUrlG, EFZG, AGG, BetrVG, ArbZG, MuSchG, BEEG, NachwG, AÜG |
 | `datenschutzrecht` | DSGVO, BDSG, TDDDG, Beschäftigtendatenschutz | DSGVO, BDSG, TDDDG (vormals TTDSG), KUG |
 | `gesellschaftsrecht` | GmbH, AG, GbR, OHG, KG, M&A | GmbHG, AktG, HGB, MoPeG, UmwG, WpÜG |
+| `gesellschaftsrecht-legal-english` | Gesellschaftsrechtliche Transaktionssprache Deutsch/Englisch: Cap Table, Term Sheet, SHA, Liquidation Preference, Anti-Dilution, Vesting, Drag/Tag, SPA/DD | GVG §§ 184 ff., GmbHG, AktG, HGB, UmwG, deutsche und amtliche englische Gesetzesfassungen |
 | `gewerblicher-rechtsschutz` | Marken, Designs, Patente, Urheberrecht, Wettbewerb | MarkenG, DesignG, PatG, UrhG, UWG, GeschGehG |
 | `jurastudium` | Skills für Studium und Referendariat | – |
 | `kanzlei-builder-hub` | Werkzeuge zum Bauen eigener Kanzlei-Skills | – |
 | `ki-governance` | KI-Governance, EU AI Act | KI-VO (EU), DSGVO |
+| `weg-hausverwaltung` | Wohnungseigentum und operative Hausverwaltung: Beschlüsse, Eigentümerversammlung, Wirtschaftsplan, Jahresabrechnung, Handwerker, Betriebskosten, Verwalter, Beirat | WEG, BGB §§ 535 ff., § 554 BGB, BetrKV, HeizkostenV |
 | `prozessrecht` | Zivil-, Straf- und Verwaltungsprozessrecht, Mahnverfahren | ZPO, StPO, VwGO, ArbGG, FamFG, GVG, RVG |
 | `produktrecht` | Produktrecht, Vermarktung, AGB-Recht | UWG, PAngV, TMG, DDG, BGB §§ 305 ff., ProdSG |
 | `rechtsberatungsstelle` | Rechtsberatungsstellen, Studienberatung, Pro Bono | – |

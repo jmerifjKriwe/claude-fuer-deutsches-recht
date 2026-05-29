@@ -439,6 +439,15 @@
       "version": "29.0.0"
     },
     {
+      "name": "gesellschaftsrecht-legal-english",
+      "source": "./gesellschaftsrecht-legal-english",
+      "description": "Didaktisches Gesellschaftsrechts-Plugin fuer Corporate Legal English: Cap Table, Gesellschafterliste, Term Sheet, SHA, Vesting, Drag/Tag, Liquidation Preference, Anti-Dilution, SPA, DD und Big-Law-Anfaengertraining.",
+      "author": {
+        "name": "Klotzkette"
+      },
+      "version": "24.1.0"
+    },
+    {
       "name": "gewerblicher-rechtsschutz",
       "source": "./gewerblicher-rechtsschutz",
       "description": "Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.",
@@ -473,6 +482,15 @@
         "name": "Klotzkette"
       },
       "version": "29.0.0"
+    },
+    {
+      "name": "weg-hausverwaltung",
+      "source": "./weg-hausverwaltung",
+      "description": "Operatives WEG- und Hausverwaltungs-Plugin fuer Beschluesse, Eigentuemerversammlung, Protokoll, Beschlusssammlung, Wirtschaftsplan, Jahresabrechnung, Hausgeld, Sonderumlage, Betriebskosten, Handwerkerbeauftragung, Erhaltung, bauliche Veraenderungen, Steckersolar, Wallbox, Verwalterpflichten, Beirat und Eskalation zum Anwalt.",
+      "author": {
+        "name": "Klotzkette"
+      },
+      "version": "24.1.0"
     },
     {
       "name": "insolvenzforderungsanmeldungspruefung",
@@ -878,7 +896,7 @@
     {
       "name": "verlagsredaktion",
       "source": "./verlagsredaktion",
-      "description": "Verlegerischer Redaktionsassistent für juristische Verlage und Autoren. Macht aus disparaten Inputs ein Rohmanuskript für Aufsatz Kommentar oder Buchkapitel. Editionssystem überarbeitet umgliedert verdichtet erkennt Widersprueche. Hauszitierweise mit Pinpoint-Randnummer.",
+      "description": "Verlagsdesk fuer juristische und fachliche Verlage: Eingangskorb, Manuskript, Redaktion, Rechtecheck, Zitate, Bildrechte, Autorenkommunikation, Heftplanung, Buchprojekte, Satzfahnen, Metadaten, Marketing und Produktionsuebergabe.",
       "author": {
         "name": "Klotzkette"
       },

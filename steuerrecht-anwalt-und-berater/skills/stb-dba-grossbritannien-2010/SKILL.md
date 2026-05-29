@@ -31,7 +31,7 @@ Das DBA-UK vom 30.03.2010 (BGBl. 2010 II S. 1333, in Kraft 30.12.2010) mit Aende
 - **MLI**: UK und Deutschland haben das MLI unterzeichnet und ratifiziert; DBA-DE-UK gilt MLI-modifiziert. Aktuellen MLI-Synthesetext im BMF-Verzeichnis pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- Aktuelle BFH-Rechtsprechung zu DBA-UK (Domicile, Non-Dom-Status, Pensionen, Brexit-Folgen) in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zu DBA-UK (Domicile, Non-Dom-Status, Pensionen, Brexit-Folgen) in freier amtlicher Quelle abrufen.
 - BMF-Schreiben zu Brexit-Folgen: aktuelle Fassung im BMF-Schreiben-Verzeichnis pruefen.
 
 ## Land-spezifisches

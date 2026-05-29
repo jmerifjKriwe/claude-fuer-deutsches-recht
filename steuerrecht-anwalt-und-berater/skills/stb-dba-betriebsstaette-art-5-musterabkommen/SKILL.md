@@ -30,12 +30,12 @@ Die Betriebsstaette ist der Aufhaenger fuer das Besteuerungsrecht am Unternehmen
 - **§ 49 EStG** — beschraenkte Steuerpflicht inkl. Betriebsstaetten-Tatbestand.
 - **§ 1 Abs. 5 AStG** — Gewinnabgrenzung Betriebsstaette (AOA — Authorised OECD Approach).
 - **Betriebsstaettengewinnaufteilungsverordnung (BsGaV)** vom 13.10.2014.
-- **BMF-Schreiben zu Verwaltungsgrundsaetzen Betriebsstaettengewinnaufteilung** vom 22.12.2016 (BStBl I 2017, 182) — aktuellen Stand in BMF/juris pruefen.
+- **BMF-Schreiben zu Verwaltungsgrundsaetzen Betriebsstaettengewinnaufteilung** vom 22.12.2016 (BStBl I 2017, 182) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis oder in freier amtlicher Quelle pruefen.
 - **MLI Art. 12, 13, 14, 15** — Anpassungen Betriebsstaette.
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- Aktuelle BFH-Rechtsprechung zu Server-Betriebsstaette und Home-Office als Betriebsstaette in juris abrufen (BFH I. Senat, Art. 5 OECD-MA).
+- Aktuelle BFH-Rechtsprechung zu Server-Betriebsstaette und Home-Office als Betriebsstaette in freier amtlicher Quelle abrufen (BFH I. Senat, Art. 5 OECD-MA).
 - Konsultationsvereinbarungen Home-Office 2020/2021 und Folgeregelungen — aktuelle Fassung im BMF-Veroeffentlichungsverzeichnis pruefen.
 
 ## Tatbestaende Betriebsstaette

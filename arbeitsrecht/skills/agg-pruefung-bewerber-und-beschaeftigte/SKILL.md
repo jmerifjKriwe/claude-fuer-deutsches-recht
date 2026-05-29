@@ -224,9 +224,9 @@ Querverweis: `arbeitsrecht/skills/kuendigungs-pruefung/SKILL.md` (Abschnitt DSGV
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Bauer/Göpfert/Krieger, AGG-Kommentar, 4. Aufl. 2022, § 22 Rn. 5 ff. (Beweislastverteilung, Indizien).
+- AGG-Beweislast: § 22 AGG und frei verifizierte BAG-Rechtsprechung verwenden; keine Kommentarzitate aus Modellwissen.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Däubler/Bertzbach, AGG, 5. Aufl. 2022, § 1 Rn. 1 ff. (Schutzmerkmale, sachlicher Anwendungsbereich).
+- AGG-Schutzmerkmale: §§ 1, 7, 15 AGG und freie Rechtsprechungsquellen verwenden; keine Kommentarzitate aus Modellwissen.
 
 Bei wesentlichen Rechtsentwicklungen Skill aktualisieren. Stand: 05/2026.
 

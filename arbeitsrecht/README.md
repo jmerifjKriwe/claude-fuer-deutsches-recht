@@ -54,6 +54,7 @@ Die Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-rec
 
 - **Persistenter Datenpfad.** Der Urlaubsregister, die Untersuchungsprotokolle und die Entsendungs-Tracker werden unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/` gespeichert. Diese Dateien enthalten privilegierte und personenbezogene Daten – vergewissern Sie sich, dass das Verzeichnis gesichert und zugriffsgeschützt ist (§ 26 BDSG, Art. 5 Abs. 1 lit. f DSGVO).
 - **Rechtsdatenbank-Zugang.** Die Skills speichern keine konkreten Rechtsnorminhalte (Schwellenwerte, Fristenberechnungen, länderspezifische Regelungen). Alle jurisdiktionsspezifischen Regeln werden zum Zeitpunkt der Prüfung recherchiert und zitiert. Stellen Sie sicher, dass die Sitzung Zugang zu den genutzten Recherchewerkzeugen hat.
+- **Faktizitäts-Gate.** Für aktuelle BAG-/BSG-Linien, Statusfeststellung, Urlaub, AGG/Equal Pay, Freistellung und Lohn/SV zuerst `/arbeitsrecht:rechtsstand-mai-2026-faktenbank` laden. Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen; Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und freier Quelle.
 - **Außenanwalt bei Fachfragen.** Für neue Jurisdiktionen, komplexe Statusfeststellungen oder hochriskante Maßnahmen wird externer Sachverstand empfohlen.
 - **Mandatsgeheimnis.** § 43a Abs. 2 BRAO, § 203 StGB und § 53 StPO gelten für alle Ausgaben dieses Plugins. Keine Weitergabe vertraulicher Mandantendaten ohne ausdrückliche Freigabe.
 
@@ -62,6 +63,7 @@ Die Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-rec
 | Skill | Funktion |
 |---|---|
 | `/arbeitsrecht:arbeitsrecht-kaltstart-interview` | Ersteinrichtung – Standortprofil, Eskalationsregeln, Handbuchwissen |
+| `/arbeitsrecht:rechtsstand-mai-2026-faktenbank` | Quellen-Gate: verifizierte BAG-/BSG-Anker zu Mindesturlaub, Equal Pay, Freistellung und Statusfeststellung; sperrt Blindzitate |
 | `/arbeitsrecht:einstellungspruefung` | Arbeitsvertragsprüfung: Befristung (TzBfG), AGG, AÜG, Nachweisgesetz |
 | `/arbeitsrecht:kuendigungs-pruefung` | Kündigungsprüfung: KSchG, § 102 BetrVG, §§ 622, 626 BGB, Sozialauswahl |
 | `/arbeitsrecht:kuendigungsschutzklage` | Entwurf und Prüfung der KSchG-Klage, § 4 KSchG, 3-Wochen-Frist, Klageschrift ArbG |
@@ -85,13 +87,11 @@ Die Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-rec
 | `/arbeitsrecht:arbeitsrecht-mandat-arbeitsbereich` | Mandatsakte verwalten (multi-mandant): neu, auflisten, wechseln, schließen, keine |
 | `/arbeitsrecht:arbeitsrecht-anpassen` | Kanzlei-/Unternehmensprofil gezielt anpassen |
 
-### Aktuelle BAG-Rechtsprechung 2025/2026
+### Aktuelle verifizierte Rechtsprechung 2025/2026
 
 | Skill | Funktion |
 |---|---|
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+| `/arbeitsrecht:rechtsstand-mai-2026-faktenbank` | Zentrale Faktenbank: BAG 03.06.2025, 9 AZR 104/24 (Mindesturlaub/kein Verzicht im bestehenden Arbeitsverhältnis); BAG 23.10.2025, 8 AZR 300/24 (Equal Pay/Paarvergleich); BAG 25.03.2026, 5 AZR 108/25 (Freistellungsklausel/Dienstwagen); BSG 05.11.2024, B 12 BA 3/23 R und BSG 12.06.2024, B 12 BA 2/22 R (Statusfeststellung). |
 
 ## Interaktive Skills vs. geplante Agenten
 

@@ -30,7 +30,7 @@ Das aktuelle DBA-Spanien vom 03.02.2011 (in Kraft 18.10.2012, anwendbar ab 01.01
 - **MLI**: Deutschland und Spanien haben das MLI ratifiziert; DBA-DE-ES gilt MLI-modifiziert (PPT-Klausel wirksam ab 01.01.2025).
 
 ### Leitentscheidungen und BMF-Schreiben
-- Aktuelle BFH-Rechtsprechung zum DBA-Spanien (insb. Immobilien, Pensionen, Subject-to-Tax) in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zum DBA-Spanien (insb. Immobilien, Pensionen, Subject-to-Tax) in freier amtlicher Quelle abrufen.
 - BMF-Schreiben zum DBA-Spanien: aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
 
 ## Land-spezifisches

@@ -22,7 +22,7 @@ description: "Einstieg, Schnelltriage und Workflow-Routing im Steuerrecht Anwalt
 
 Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Steuerrecht Anwalt Und Berater**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
 
-**Plugin-Fokus:** Steuerrecht für Anwalt (anw- FAO § 9) und Steuerberater (stb-): Einspruch Klage FG Aussenprüfung Selbstanzeige. StB-Tools BWA SuSa Lohnbuchhaltung Jahresabschluss Mandantenkommunikation Software-Bedienung. DBA Europa Tuerkei Israel USA Kanada.
+**Plugin-Fokus:** Steuerrecht für Anwalt (anw- FAO § 9) und Steuerberater (stb-) mit Quellen-Gate `rechtsstand-mai-2026-faktenbank`: E-Rechnung, Umsatzsteuer/Vorsteuer, Krypto, Grundsteuer, Einspruch, Klage, FG, Außenprüfung, Selbstanzeige. StB-Tools BWA, SuSa, Lohnbuchhaltung, Jahresabschluss, Mandantenkommunikation, Software-Bedienung. DBA Europa, Türkei, Israel, USA, Kanada.
 
 ### 0. Stummer Upload — Material ohne Begleittext
 
@@ -84,7 +84,7 @@ Arbeite danach in dieser Reihenfolge:
 - Nenne nie nur einen Skillnamen. Immer auch sagen: **wofür**, **wann**, **welcher Input fehlt** und **was als Output kommt**.
 - Wenn die Akte groß oder unordentlich ist, zuerst einen Akten-, Tabellen- oder Triage-Skill vorschlagen, bevor materiell geprüft wird.
 - Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
-- Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
+- Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, zuerst `rechtsstand-mai-2026-faktenbank` laden und danach Quellen-/Aktualitätsprüfung einplanen.
 - Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Spezial-Skill.
 
 ### 4. Antwortformat für den Einstieg
@@ -140,6 +140,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `anw-umsatzsteuer-vorsteuerabzug-pruefen` | Vorsteuerabzug nach § 15 UStG prüfen und Risiken bei Umsatzsteuer-Prüfung bewerten. Anwendungsfall Finanzamt streicht Vorsteuer Mandant fragt ob Rechnung ausreicht oder Vorsteuer-Karussell-Vorwurf droht.… |
 | `anw-verbindliche-auskunft` | Antrag auf verbindliche Auskunft nach § 89 Abs. 2 AO vor Verwirklichung eines steuerlich unsicheren Sachverhalts stellen. Anwendungsfall Mandant plant Umstrukturierung Holding Wegzug Schenkung Erbschaft oder… |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Steuerrechtsmandate — Mandatsannahme von der ersten Kontaktaufnahme bis zur Vollmachtserteilung. Anwendungsfall Mandant ruft erstmals an oder kommt zum Erstgespraech… |
+| `rechtsstand-mai-2026-faktenbank` | Quellen-Gate für aktuelle Steuerrechtsfragen: E-Rechnung, BFH/BMF zu Krypto, Grundsteuer-Bundesmodell, § 23 EStG, § 20 EStG, Umsatzsteuer/Vorsteuer und Verfahrensrecht. Vor streitentscheidenden Aussagen laden. |
 | `schriftsatzkern-substantiierung` | Substantiierten Schriftsatzkern für steuerrechtliche Verfahren aufbauen. Anwendungsfall Einspruch Klage FG Revision BFH Stundungs- und Erlassantrag muessen begründet und mit Beweisen unterfuettert werden.… |
 | `stb-addison-bwa-konfiguration-tipps` | Addison BWA-Konfiguration. Anwendungsfall Kanzleien mit Wolters Kluwer Addison statt DATEV. Methodik Unterschiede zu DATEV Konten-Konfiguration Branchenanpassung. Output BWA in Addison. |
 | `stb-belegtransfer-datev-unternehmen-online` | Belegtransfer DATEV Unternehmen Online. Anwendungsfall systematischer Belegfluss Mandant zu StB Beleg-Scan App Mailpostfach Bank-Anbindung. Methodik Konfiguration Workflow. Output Belegfluss-Standard. |

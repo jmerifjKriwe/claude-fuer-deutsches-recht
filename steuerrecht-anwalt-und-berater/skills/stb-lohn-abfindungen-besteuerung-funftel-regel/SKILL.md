@@ -37,7 +37,7 @@ Abfindungen aus Anlass der Beendigung des Arbeitsverhaeltnisses sind aussergewoe
 ### Leitentscheidungen (Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen)
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- BSG-Linie zu echter vs. unechter Abfindung im SV-Recht: vor Uebernahme aktuelle Entscheidungen in juris pruefen.
+- BSG-Linie zu echter vs. unechter Abfindung im SV-Recht: vor Uebernahme aktuelle Entscheidungen in freier amtlicher Quelle pruefen.
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
@@ -115,7 +115,7 @@ Stand: 05/2026.
 - SGB IV § 14.
 - SvEV § 1.
 - BFH-Linie zur Zusammenballung der Einkuenfte (stetige Rechtsprechung, vgl. Schmidt/EStG, Blumich/EStG zu § 34 EStG; konkrete Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen).
-- BSG-Linie zur SV-Einordnung echter vs. unechter Abfindungen (aktuelle Entscheidungen vor Uebernahme in juris pruefen).
+- BSG-Linie zur SV-Einordnung echter vs. unechter Abfindungen (aktuelle Entscheidungen vor Uebernahme in freier amtlicher Quelle pruefen).
 - Wachstumschancengesetz vom 27.03.2024 (BGBl. 2024 I Nr. 108): Streichung der Fuenftel-Regelung im Lohnsteuer-Abzugsverfahren ab dem Veranlagungszeitraum 2025; Anwendung der Fuenftel-Regelung nur noch in der Veranlagung beim AN.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 0 bestaetigt (Fundstelle/Datum), 4 ersetzt (Hinweis auf Pruefung in amtliche/freie Quellen oder lizenzierte Datenbanken neu formuliert) -->

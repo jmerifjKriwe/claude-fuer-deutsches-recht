@@ -33,7 +33,7 @@ Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. 
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- Aktuelle BFH-Rechtsprechung zu DBA-Niederlande-Pensionen in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zu DBA-Niederlande-Pensionen in freier amtlicher Quelle abrufen.
 - BMF-Schreiben zu DBA Niederlande Anwendung — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
 ## Land-spezifisches

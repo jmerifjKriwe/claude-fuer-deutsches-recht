@@ -129,7 +129,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-*Empfehlung:* Statusfeststellungsverfahren nach § 7a SGB IV sofort einleiten (schützt vor weiterer Beitragshaftung für Zeitraum ab Antragstellung); SV-Nachzahlung für 3 Jahre bei 7.500 €/Monat Brutto kalkulieren; strafrechtliches Risiko § 266a StGB prüfen (Segebrecht, in: jurisPK-SGB IV, 4. Aufl. 2021, § 7a Rn. 15).
+*Empfehlung:* Statusfeststellungsverfahren nach § 7a SGB IV sofort prüfen; SV-Beitragsrisiko nach § 25 SGB IV sauber zeitlich aufbauen (regelmäßige Verjährung vier Jahre, bei vorsätzlich vorenthaltenen Beiträgen dreißig Jahre), Säumniszuschläge und strafrechtliches Risiko § 266a StGB getrennt dokumentieren. Keine Kommentarstelle aus Modellwissen zitieren; für Rechtsprechung `rechtsstand-mai-2026-faktenbank` laden.
 
 ## Risiken und typische Fehler
 

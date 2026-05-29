@@ -31,7 +31,7 @@ Das DBA-Zypern vom 18.02.2011 (BGBl. 2011 II S. 1068/1069, in Kraft 16.12.2011) 
 - **MLI**: Deutschland und Zypern haben das MLI ratifiziert; DBA-DE-CY gilt MLI-modifiziert (PPT-Klausel wirksam ab 01.01.2025, MLI-Anwendungsgesetz 2024). Aktuellen Synthesetext im BMF-Verzeichnis pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- Aktuelle BFH-Rechtsprechung zu Zypern-Holdings und § 50d Abs. 3 EStG in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zu Zypern-Holdings und § 50d Abs. 3 EStG in freier amtlicher Quelle abrufen.
 
 ## Land-spezifisches
 

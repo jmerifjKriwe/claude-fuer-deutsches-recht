@@ -58,14 +58,9 @@ vertraulicher Untersuchungsarbeitsbereich eingerichtet werden soll.
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-- Gola/Heckmann/Schomerus, BDSG, 13. Aufl. 2022, § 26 Rn. 100 ff.:
-  Grundvoraussetzungen der Datenzulässigkeit bei interner Untersuchung;
-  Dokumentationspflichten; Betriebsvereinbarung als Rechtsgrundlage
-- Erfurter Kommentar/Müller-Glöge, 24. Aufl. 2024, § 626 BGB Rn. 230 ff.:
-  Zwei-Wochen-Frist; Fristbeginn; Aufklärungsobliegenheit des Arbeitgebers
-- Bauer/Krieger/Günther, AGG, 5. Aufl. 2022, § 12 Rn. 30 ff.:
-  Untersuchungspflicht des Arbeitgebers bei Diskriminierungsbeschwerde;
-  Enthaftung bei ordnungsgemäßer Untersuchung
+- Beschäftigtendatenschutz: § 26 BDSG, Art. 5 und 6 DSGVO; Fachliteratur nur mit Nutzerquelle oder verifiziertem Live-Zugriff.
+- § 626 BGB: Zwei-Wochen-Frist, Verdachtskündigung und Anhörung nur mit verifizierter BAG-Rechtsprechung oder Nutzerquelle vertiefen.
+- AGG: §§ 12, 15, 22 AGG anhand Gesetz, Nutzerquelle und frei verifizierter Rechtsprechung prüfen.
 
 ## Ablauf
 
@@ -174,7 +169,7 @@ Bei jeder Eröffnung zitieren:
 - § 82 Abs. 2, §§ 84, 85 BetrVG (Betriebsratsrechte)
 - § 626 Abs. 2 BGB (Fristbeginn-Dokumentation)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Gola/Heckmann/Schomerus, BDSG, 13. Aufl. 2022, § 26 Rn. 100 ff.
+- Beschäftigtendatenschutz: § 26 BDSG, Art. 5 und 6 DSGVO; Fachliteratur nur mit Nutzerquelle oder verifiziertem Live-Zugriff.
 
 Detaillierte Sachverhaltserfassung, Quellenchecklisten-Vorlagen und
 Protokolldateiformate befinden sich in der Referenz-Skill

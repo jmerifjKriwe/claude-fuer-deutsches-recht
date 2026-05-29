@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v24.1.0 plus Meinungsprüfer-Nachlauf
+**Stand:** v24.1.0 plus Meinungsprüfer-, WEG/Hausverwaltungs-, Gesellschaftsrecht-Legal-English- und Verlagsredaktions-Nachlauf
 
 ## Asset-Typen
 
@@ -12,7 +12,7 @@
 | **fallakte** | `testakte-<aktenname>.zip` | **Kein Plugin.** Mandatsunterlagen für Testzwecke. In den Chat ziehen, nicht in den Plugin-Upload-Dialog. |
 | **manifest** | `marketplace.json` | **Kein Plugin.** Marketplace-Manifest für `/plugin marketplace add` und zur manuellen Inspektion. |
 
-## Plugin-Assets (103 Stück)
+## Plugin-Assets (105 Stück)
 
 In der Reihenfolge der `.claude-plugin/marketplace.json`. URL-Schema:
 `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/<name>.zip`
@@ -67,10 +67,12 @@ In der Reihenfolge der `.claude-plugin/marketplace.json`. URL-Schema:
 | `geldwaeschepraevention-aml-kyc` | Freistehendes Plugin für Geldwäscheprävention, AML, KYC, GwG-Risikoanalyse, UBO, PEP, Sanktionen, FIU/goAML, Transparenzregister und Behördenverfahren. |
 | `gesellschaftsgruender` | Gründungsassistent deutsche Gesellschaften (GmbH UG GbR OHG KG GmbH und Co KG PartG mbB gGmbH). Von Rechtsformwahl über Gesellschaftsvertrag und Geschäftsführervertrag bis Notar Handelsregister Gewerbeamt Finanzamt Transparenzregister. MoPeG DiRUG GwG. Kein Ersatz für Anwaltsberatung. |
 | `gesellschaftsrecht` | Gesellschaftsrecht – GmbH/AG/Personengesellschaften, M&A-Due-Diligence ohne Discovery (Q&A + Datenraum), Gesellschafterbeschlüsse, HRB/HRA-Anmeldungen, Closing Checklists, Compliance-Fristen. |
+| `gesellschaftsrecht-legal-english` | Didaktisches Gesellschaftsrechts-Plugin fuer Corporate Legal English: Cap Table, Gesellschafterliste, Term Sheet, SHA, Vesting, Drag/Tag, Liquidation Preference, Anti-Dilution, SPA, DD und Big-Law-Anfaengertraining. |
 | `gewerblicher-rechtsschutz` | Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen. |
 | `grosskanzlei-corporate-ma` | Freistehendes Big-Law-Corporate/M&A-Plugin: Deal-Kommandocenter, Anfänger-/First-Year-Modus, Aktenanlage, Datenraum, Legal DD, Tabellenreview, Liquiditätsvorschau, SPA/APA, W&I, Public M&A, UmwG/StaRUG, CP-Kalender, E-Rechnung/GoBD, PMI. |
 | `hausarbeitenmacher` | Didaktisches Plugin für juristische Hausarbeiten und Seminararbeiten. Führt sokratisch durch Zivilrecht öffentliches Recht Strafrecht mit Ausfluegen in Europarecht und Rechtstheorie. Adressaten-Strategie ohne Schleimerei. Liefert keine fertigen Lösungen sondern führt zur eigenen Subsumtion. |
 | `immobilienrechtspraxis` | Werkzeuge fuer immobilienrechtliche Rechtsabteilungen: musterbasierte Vertragserstellung mit Klauselschutz, Vertragspruefung gegen Playbook, Grundbuchanalyse, Sachverhaltsermittlung, Mieteranfragen, Case Management und AVV-Pruefung. Rechtsprechung nur nach Live-Verifikation. |
+| `weg-hausverwaltung` | Operatives WEG- und Hausverwaltungs-Plugin fuer Beschluesse, Eigentuemerversammlung, Protokoll, Beschlusssammlung, Wirtschaftsplan, Jahresabrechnung, Hausgeld, Sonderumlage, Betriebskosten, Handwerkerbeauftragung, Erhaltung, bauliche Veraenderungen, Steckersolar, Wallbox, Verwalterpflichten, Beirat und Eskalation zum Anwalt. |
 | `insolvenzforderungsanmeldungspruefung` | Freistehendes Plugin für die Insolvenzforderungsanmeldungsprüfung: Intake, § 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Prüfungstermin, Bestreiten, Feststellung, Tabellenauszug und Verteilung. |
 | `insolvenzplan-starug-planwerkstatt` | Freistehendes Plugin für Insolvenzplan und StaRUG-Restrukturierungsplan: Intake, Sanierungskonzept, Vergleichsrechnung, Gruppen, Klassen, darstellender und gestaltender Teil, Anlagen, Abstimmung, Cram-down, Minderheitenschutz, Gericht und Planvollzug. |
 | `insolvenzrecht` | Insolvenzrechtliche Skills zu Zahlungsunfähigkeit, Überschuldung, Antragspflicht und Gläubigerantrag. |
@@ -115,7 +117,7 @@ In der Reihenfolge der `.claude-plugin/marketplace.json`. URL-Schema:
 | `verfassungsrecht` | Deutsches Verfassungsrecht unter dem Grundgesetz aus Sicht einer Spezialkanzlei. Rechtsprechungsgetrieben mit Live-Recherche auf bundesverfassungsgericht.de. Acht Skills für Gesetzgebungskompetenz formelle und materielle Verfassungsmäßigkeit Grundrechte und Verfassungsbeschwerde. |
 | `verkehr-infrastrukturrecht` | Freistehendes Verkehrs- und Infrastrukturrecht-Plugin für Verkehrsplanung, Planfeststellung, Straßenbahn, Ladeinfrastruktur, Parkraum und Verkehrswende. |
 | `verkehrsowi-verteidiger` | Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und Amtsgericht. |
-| `verlagsredaktion` | Verlegerischer Redaktionsassistent für juristische Verlage und Autoren. Macht aus disparaten Inputs ein Rohmanuskript für Aufsatz Kommentar oder Buchkapitel. Editionssystem überarbeitet umgliedert verdichtet erkennt Widersprueche. Hauszitierweise mit Pinpoint-Randnummer. |
+| `verlagsredaktion` | Verlagsdesk fuer juristische und fachliche Verlage: Eingangskorb, Manuskript, Redaktion, Rechtecheck, Zitate, Bildrechte, Autorenkommunikation, Heftplanung, Buchprojekte, Satzfahnen, Metadaten, Marketing und Produktionsuebergabe. |
 | `vertragsausfueller` | Freistehendes Vertragsausfüller-Plugin: DOCX-Vorlagen und Altverträge strippen, Felder erkennen, Term Sheets mappen, Rückfragen führen, neue Verträge erzeugen und Track-Changes-Fassungen nur nach ausdrücklicher Nachfrage vorbereiten. |
 | `vertragsrecht` | Vertragsrecht – Lieferanten- und Vertriebsverträge, AGB §§ 305 ff. BGB, NDA, SaaS-/MSA-Review, Renewal-Tracking, Eskalations-Routing, Business-Zusammenfassungen. |
 | `wandeldarlehen-lebenszyklus` | Begleitet den vollständigen Lebenszyklus eines Wandeldarlehens für GmbH und UG: Vertragserstellung (bilingual/einsprachig), Beurkundungsprüfung, Wandelereignisse, Wandlungsberechnung, Cap-Table-Update, Gesellschafterbeschluss und Notar-Paket. |
@@ -123,7 +125,7 @@ In der Reihenfolge der `.claude-plugin/marketplace.json`. URL-Schema:
 | `zwangsverwaltung-zvg` | Freistehendes ZVG-Plugin für Zwangsverwaltung und Versteigerung: Beschlagnahme, Besitz, Mieten, Treuhandkonto, Berichte, Verteilung, ZVG-Portal-Recherche, Bieterangebote und Versteigerungsteilnahme. |
 | `zwangsvollstreckung` | Freistehendes Plugin für die Zwangsvollstreckung nach §§ 704 ff. ZPO aus allen Titelarten: Mahn-/Vollstreckungsbescheid online, PfÜB Bank/Arbeitgeber, Kontensuche § 802l ZPO, Vermögensauskunft, Räumung, notarielle Urkunde § 800 ZPO, Insolvenztabelle § 201 InsO, ZVG-Antrag und Schuldnerschutz. |
 
-## Fallakten-Assets (58 Stück)
+## Fallakten-Assets (61 Stück)
 
 URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/<asset>.zip`
 
@@ -151,6 +153,7 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-fortbestehensprognose-paragrafix-gmbh.zip` | siehe `testakten/fortbestehensprognose-paragrafix-gmbh/` |
 | `testakte-geldwaesche-aml-kyc-musterholding.zip` | siehe `testakten/geldwaesche-aml-kyc-musterholding/` |
 | `testakte-gesellschaftsgruender-streit-roeschen-tech.zip` | siehe `testakten/gesellschaftsgruender-streit-roeschen-tech/` |
+| `testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip` | siehe `testakten/gesellschaftsrecht-legal-english-frankfurt-startup/` |
 | `testakte-grosskanzlei-corporate-ma-datenraum.zip` | siehe `testakten/grosskanzlei-corporate-ma-datenraum/` |
 | `testakte-inkasso-zahlungsklage-modefuchs.zip` | siehe `testakten/inkasso-zahlungsklage-modefuchs/` |
 | `testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar.zip` | siehe `testakten/insolvenzforderungsanmeldungspruefung-phoenix-solar/` |
@@ -184,7 +187,9 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip` | siehe `testakten/verkehr-infrastrukturrecht-strassenbahn-ladezonen/` |
 | `testakte-verkehrsowi-rotlicht-tempo-musterakte.zip` | siehe `testakten/verkehrsowi-rotlicht-tempo-musterakte/` |
 | `testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip` | siehe `testakten/vertragsausfueller-bsag-kiosk-huckelriede/` |
+| `testakte-verlagsredaktion-morgenlage-fachverlag.zip` | siehe `testakten/verlagsredaktion-morgenlage-fachverlag/` |
 | `testakte-vollstreckungsmappe-mueller-sparkasse-niederrhein.zip` | siehe `testakten/vollstreckungsmappe-mueller-sparkasse-niederrhein/` |
+| `testakte-weg-hausverwaltung-hohenzollernhof.zip` | siehe `testakten/weg-hausverwaltung-hohenzollernhof/` |
 | `testakte-wandeldarlehen-beispielcase.zip` | siehe `testakten/wandeldarlehen-beispielcase/` |
 | `testakte-zwangsverwaltung-friedrichshoefe-berlin.zip` | siehe `testakten/zwangsverwaltung-friedrichshoefe-berlin/` |
 | `testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip` | siehe `testakten/zwangsverwaltung-zvg-mietshaus-parkstrasse/` |
@@ -200,10 +205,10 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 
 | Typ | Anzahl | Summe |
 | --- | --- | --- |
-| plugin | 103 | |
-| fallakte | 58 | |
+| plugin | 105 | |
+| fallakte | 61 | |
 | manifest | 1 | |
-| **gesamt** | | **162** |
+| **gesamt** | | **167** |
 
 ## Verifikation eines Release
 
@@ -212,4 +217,4 @@ curl -s "https://api.github.com/repos/Klotzkette/claude-fuer-deutsches-recht/rel
   | python3 -c "import json,sys; d=json.load(sys.stdin); print('Tag:', d['tag_name']); print('Assets:', len(d['assets'])); [print(' -', a['name']) for a in d['assets']]"
 ```
 
-Erwartet nach dem nächsten Release: 162 Assets, davon 103 Plugin-ZIPs, 58 Fallakten-ZIPs mit `testakte-`-Prefix und eine `marketplace.json`.
+Erwartet nach dem nächsten Release: 167 Assets, davon 105 Plugin-ZIPs, 61 Fallakten-ZIPs mit `testakte-`-Prefix und eine `marketplace.json`.

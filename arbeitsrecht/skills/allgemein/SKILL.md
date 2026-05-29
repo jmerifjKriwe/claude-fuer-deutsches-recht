@@ -22,7 +22,7 @@ description: "Einstieg, Schnelltriage und Workflow-Routing im Arbeitsrecht-Plugi
 
 Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Arbeitsrecht**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
 
-**Plugin-Fokus:** Arbeitsrecht mit aktueller BAG-Rechtsprechung 2025/2026: Equal Pay Paarvergleich AGG, kein Verzicht Mindesturlaub BUrlG, Freistellungsklausel unwirksam. Individualkündigung KSchG-Klage Drei-Wochen-Frist, Aufhebungsvertrag Sperrzeit, Abmahnung, Betriebsratsanhoerung Paragraf 102 BetrVG, TzBfG.
+**Plugin-Fokus:** Arbeitsrecht mit Quellen-Gate `rechtsstand-mai-2026-faktenbank`: BAG/BSG-Linien zu Equal Pay/Paarvergleich, Mindesturlaub, Freistellungsklauseln, Statusfeststellung und Lohn/SV nur mit freier Quelle. Individualkündigung, KSchG-Klage, Drei-Wochen-Frist, Aufhebungsvertrag/Sperrzeit, Abmahnung, Betriebsratsanhörung § 102 BetrVG, TzBfG.
 
 ### 0. Stummer Upload — Material ohne Begleittext
 
@@ -84,7 +84,7 @@ Arbeite danach in dieser Reihenfolge:
 - Nenne nie nur einen Skillnamen. Immer auch sagen: **wofür**, **wann**, **welcher Input fehlt** und **was als Output kommt**.
 - Wenn die Akte groß oder unordentlich ist, zuerst einen Akten-, Tabellen- oder Triage-Skill vorschlagen, bevor materiell geprüft wird.
 - Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
-- Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
+- Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, zuerst `rechtsstand-mai-2026-faktenbank` laden und danach Quellen-/Aktualitätsprüfung einplanen.
 - Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Spezial-Skill.
 
 ### 4. Antwortformat für den Einstieg
@@ -122,6 +122,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `arbeitsrecht-mandat-arbeitsbereich` | Mandatsakten verwalten – neu anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen. Verhindert, dass Kontext von einem Mandat in ein anderes übergeht. Relevant für Kanzleien mit mehreren Mandanten;… |
 | `aufhebungsvertrag` | Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags. Lädt, wenn ein Arbeitsverhältnis einvernehmlich beendet werden soll – mit Fokus auf Schriftform (§ 623 BGB), Sperrzeit nach § 159 SGB III, Abfindung,… |
 | `aufhebungsvertrag-sperrzeit-prognose` | Mandant hat Aufhebungsvertrag erhalten und fragt ob er Sperrzeit beim Arbeitslosengeld riskiert. Prüfraster wichtiger Grund § 159 SGB III Selbst-Kündigungsaequivalenz. Faustformel Abfindungsschutz 0.25 bis 0.5… |
+| `rechtsstand-mai-2026-faktenbank` | Quellen-Gate für aktuelle arbeitsrechtliche Aussagen. Vor BAG-/BSG-Zitaten, Statusfeststellung, Urlaub, AGG/Equal Pay, Freistellung, Lohn/SV und Kündigungsfragen laden; gibt nur freie/amtliche Quellenanker aus. |
 | Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |

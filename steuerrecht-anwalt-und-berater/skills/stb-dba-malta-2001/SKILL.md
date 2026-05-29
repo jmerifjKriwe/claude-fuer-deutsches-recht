@@ -31,7 +31,7 @@ Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1297, in Kraft 27.12.2001) mit Ae
 - **MLI**: Deutschland und Malta haben das MLI ratifiziert; DBA-DE-MT gilt MLI-modifiziert (PPT-Klausel wirksam ab 01.01.2025, MLI-Anwendungsgesetz 2024). Aktuellen Synthesetext im BMF-Verzeichnis pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- Aktuelle BFH-Rechtsprechung zu Malta-Holdings und § 50d Abs. 3 EStG in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zu Malta-Holdings und § 50d Abs. 3 EStG in freier amtlicher Quelle abrufen.
 - Aktuelle BMF-Schreiben zum Malta-Refund-System im BMF-Schreiben-Verzeichnis pruefen.
 
 ## Land-spezifisches

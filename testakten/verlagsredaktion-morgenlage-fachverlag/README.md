@@ -1,0 +1,27 @@
+# Testakte: Verlagsredaktion Morgenlage Fachverlag
+
+Fiktive Testakte für `verlagsredaktion`.
+
+Die Akte simuliert den Montagmorgen einer Sachbearbeiterin im juristischen Fachverlag Morgenstern & Falkenhayn. Im Postfach liegen Autor:innenmails, ein fast fertiges Zeitschriftenheft, ein Buchkapitel mit Fremdmaterial, Bildrechtefragen, ein Satzfahnenlauf und Marketingwünsche. Nichts ist dramatisch, aber alles hängt aneinander.
+
+## Dateien
+
+| Datei | Inhalt |
+| --- | --- |
+| `01_morgenlage_postfach.md` | Eingangskorb mit Mails, Fristen, Anhängen und Status |
+| `02_heftplan_und_online_first.md` | Heftplan, Rubriken, Seitenbudget, Online-first-Fragen |
+| `03_autorenkommunikation_rueckstaende.md` | Rückstände, Freigaben, Nachforderungen und Tonalitätsfragen |
+| `04_manuskriptfragment_kommentarupdate.md` | fragmentarisches Kommentarupdate mit Lücken und Quellenampel |
+| `05_bildrechte_tabellen_screenshots.md` | Abbildungen, Screenshots, Tabellen, Credits und Rechteprobleme |
+| `06_satzfahne_korrekturlauf.md` | Satzfahnennotiz mit Umbruchfehlern und Freigabeproblemen |
+| `07_metadaten_marketing_vertrieb.md` | Klappentext, Schlagworte, Newsletter und Vertriebskurztext |
+| `08_erwarteter_output.md` | Qualitätsanforderungen ohne Musterlösung |
+
+## Testziele
+
+- Eingangskorb in Morgenlage übersetzen.
+- Fristen und Stopper sichtbar machen.
+- Rechteampel für Fremdmaterial setzen.
+- Autor:innenmails freundlich und präzise schreiben.
+- Kommentarupdate und Heftplanung trennen.
+- Produktionsübergabe vorbereiten.

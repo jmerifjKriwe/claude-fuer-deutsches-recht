@@ -51,15 +51,11 @@ ohne alle Protokolleinträge einzeln lesen zu müssen.
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-- Erfurter Kommentar/Müller-Glöge, 24. Aufl. 2024, § 626 BGB Rn. 165 ff.:
-  Verdachtsgrad; objektive Indizien; Abgrenzung Tatverdacht von bloßem
-  Verdacht
+- § 626 BGB: Zwei-Wochen-Frist, Verdachtskündigung und Anhörung nur mit verifizierter BAG-Rechtsprechung oder Nutzerquelle vertiefen.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
   Darlegungs- und Beweislast des Arbeitgebers; Nachschieben von
   Kündigungsgründen
-- Bauer/Krieger/Günther, AGG, 5. Aufl. 2022, § 22 Rn. 15 ff.:
-  Beweislastverteilung; Indizien für Benachteiligung; Enthaftungsnachweis
-  des Arbeitgebers durch ordnungsgemäße Untersuchung
+- AGG: §§ 12, 15, 22 AGG anhand Gesetz, Nutzerquelle und frei verifizierter Rechtsprechung prüfen.
 
 ## Ablauf
 
@@ -174,7 +170,7 @@ Handlungsbedarf: Frau Schmidt als Zeugin befragen (Checkliste Punkt 3 — noch o
 Bei Abfragen zur Beweislage für Kündigung zitieren:
 - § 626 BGB (Tatverdacht / Wichtiger Grund)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Bei AGG-Sachverhalt: § 22 AGG, Bauer/Krieger/Günther, AGG, 5. Aufl. 2022, § 22 Rn. 15 ff.
+- Bei AGG-Sachverhalt: § 22 AGG und frei verifizierte BAG-Rechtsprechung
 
 Detaillierter Abfrageprozess, Zitierregeln und Lückendokumentations-Templates
 befinden sich in der Referenz-Skill `interne-untersuchung` — diese vor

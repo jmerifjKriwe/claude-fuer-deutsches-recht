@@ -34,8 +34,8 @@ Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxembur
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- Aktuelle BFH-Rechtsprechung zur DBA-Berechtigung luxemburgischer Investmentfonds (SICAV) in juris abrufen.
-- Aktuelle BFH-Rechtsprechung zur Substanz-Anforderung bei Holding-Gesellschaften in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zur DBA-Berechtigung luxemburgischer Investmentfonds (SICAV) in freier amtlicher Quelle abrufen.
+- Aktuelle BFH-Rechtsprechung zur Substanz-Anforderung bei Holding-Gesellschaften in freier amtlicher Quelle abrufen.
 - BMF-Schreiben zur Anwendung § 50d Abs. 3 EStG nach AbzStEntModG 2021 (BGBl. 2021 I S. 1259) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 - BMF-Schreiben zu hybriden Gestaltungen § 4k EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 

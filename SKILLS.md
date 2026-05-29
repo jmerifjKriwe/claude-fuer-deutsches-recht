@@ -1,6 +1,6 @@
 # Skill-Übersicht
 
-Automatisch gezählte Gesamtübersicht aller **2455 Skills** in **103 Plugins**. Jeder Skill verlinkt direkt auf seine `SKILL.md`.
+Automatisch gezählte Gesamtübersicht aller **2533 Skills** in **105 Plugins**. Jeder Skill verlinkt direkt auf seine `SKILL.md`.
 
 **Repository:** [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht)
 
@@ -11,7 +11,7 @@ Automatisch gezählte Gesamtübersicht aller **2455 Skills** in **103 Plugins**.
 - [aktenaufbereiter-strafrecht](#aktenaufbereiter-strafrecht) — 2 Skills
 - [aktenauszug-gerichtsverfahren](#aktenauszug-gerichtsverfahren) — 21 Skills
 - [anlagen-zu-schriftsaetzen](#anlagen-zu-schriftsaetzen) — 2 Skills
-- [arbeitsrecht](#arbeitsrecht) — 79 Skills
+- [arbeitsrecht](#arbeitsrecht) — 80 Skills
 - [arbeitszeugnis-analyse](#arbeitszeugnis-analyse) — 32 Skills
 - [aussenwirtschaft-zoll-sanktionen](#aussenwirtschaft-zoll-sanktionen) — 20 Skills
 - [bav-strategie-konzern](#bav-strategie-konzern) — 18 Skills
@@ -56,6 +56,7 @@ Automatisch gezählte Gesamtübersicht aller **2455 Skills** in **103 Plugins**.
 - [geldwaeschepraevention-aml-kyc](#geldwaeschepraevention-aml-kyc) — 22 Skills
 - [gesellschaftsgruender](#gesellschaftsgruender) — 37 Skills
 - [gesellschaftsrecht](#gesellschaftsrecht) — 20 Skills
+- [gesellschaftsrecht-legal-english](#gesellschaftsrecht-legal-english) — 28 Skills
 - [gewerblicher-rechtsschutz](#gewerblicher-rechtsschutz) — 18 Skills
 - [grosskanzlei-corporate-ma](#grosskanzlei-corporate-ma) — 56 Skills
 - [hausarbeitenmacher](#hausarbeitenmacher) — 23 Skills
@@ -81,7 +82,8 @@ Automatisch gezählte Gesamtübersicht aller **2455 Skills** in **103 Plugins**.
 - [meinungspruefer](#meinungspruefer) — 36 Skills
 - [memorandums-ersteller](#memorandums-ersteller) — 2 Skills
 - [methodenlehre-buergerliches-recht](#methodenlehre-buergerliches-recht) — 2 Skills
-- [mietrecht](#mietrecht) — 15 Skills
+- [mietrecht](#mietrecht) — 16 Skills
+- [weg-hausverwaltung](#weg-hausverwaltung) — 21 Skills
 - [nachbarschaftsstreit-pruefer](#nachbarschaftsstreit-pruefer) — 20 Skills
 - [mittelstand-corporate-ma](#mittelstand-corporate-ma) — 54 Skills
 - [nda-abgleich](#nda-abgleich) — 2 Skills
@@ -95,7 +97,7 @@ Automatisch gezählte Gesamtübersicht aller **2455 Skills** in **103 Plugins**.
 - [schriftform-und-textform-bgb](#schriftform-und-textform-bgb) — 23 Skills
 - [selbstvertreter-amtsgericht](#selbstvertreter-amtsgericht) — 86 Skills
 - [selbstvertreter-sozialgericht](#selbstvertreter-sozialgericht) — 80 Skills
-- [steuerrecht-anwalt-und-berater](#steuerrecht-anwalt-und-berater) — 186 Skills
+- [steuerrecht-anwalt-und-berater](#steuerrecht-anwalt-und-berater) — 187 Skills
 - [strafbefehl-verteidiger](#strafbefehl-verteidiger) — 21 Skills
 - [subsumtions-pruefer](#subsumtions-pruefer) — 31 Skills
 - [tabellenreview-3d](#tabellenreview-3d) — 21 Skills
@@ -104,7 +106,7 @@ Automatisch gezählte Gesamtübersicht aller **2455 Skills** in **103 Plugins**.
 - [verfassungsrecht](#verfassungsrecht) — 9 Skills
 - [verkehr-infrastrukturrecht](#verkehr-infrastrukturrecht) — 13 Skills
 - [verkehrsowi-verteidiger](#verkehrsowi-verteidiger) — 21 Skills
-- [verlagsredaktion](#verlagsredaktion) — 2 Skills
+- [verlagsredaktion](#verlagsredaktion) — 28 Skills
 - [vertragsausfueller](#vertragsausfueller) — 15 Skills
 - [vertragsrecht](#vertragsrecht) — 17 Skills
 - [wandeldarlehen-lebenszyklus](#wandeldarlehen-lebenszyklus) — 33 Skills
@@ -182,10 +184,10 @@ Automatisch gezählte Gesamtübersicht aller **2455 Skills** in **103 Plugins**.
 | [`kueschk-weiterbeschaeftigungsantrag-grosser-senat`](./arbeitsrecht/skills/kueschk-weiterbeschaeftigungsantrag-grosser-senat/SKILL.md) | [`kueschk-zeugnisanspruch-und-vergleich`](./arbeitsrecht/skills/kueschk-zeugnisanspruch-und-vergleich/SKILL.md) |
 | [`lohn-arbeitszeit-fragen`](./arbeitsrecht/skills/lohn-arbeitszeit-fragen/SKILL.md) | [`lohnsteuer-sozialversicherung`](./arbeitsrecht/skills/lohnsteuer-sozialversicherung/SKILL.md) |
 | [`mandat-triage-arbeitsrecht`](./arbeitsrecht/skills/mandat-triage-arbeitsrecht/SKILL.md) | [`massenentlassung-17-kschg`](./arbeitsrecht/skills/massenentlassung-17-kschg/SKILL.md) |
-| [`mindestlohn-arbeitszeit-erfassung`](./arbeitsrecht/skills/mindestlohn-arbeitszeit-erfassung/SKILL.md) | [`richtlinien-entwurf`](./arbeitsrecht/skills/richtlinien-entwurf/SKILL.md) |
-| [`untersuchung-abfrage`](./arbeitsrecht/skills/untersuchung-abfrage/SKILL.md) | [`untersuchung-ergaenzen`](./arbeitsrecht/skills/untersuchung-ergaenzen/SKILL.md) |
-| [`untersuchung-eroeffnen`](./arbeitsrecht/skills/untersuchung-eroeffnen/SKILL.md) | [`untersuchungs-memo`](./arbeitsrecht/skills/untersuchungs-memo/SKILL.md) |
-| [`untersuchungs-zusammenfassung`](./arbeitsrecht/skills/untersuchungs-zusammenfassung/SKILL.md) |  |
+| [`mindestlohn-arbeitszeit-erfassung`](./arbeitsrecht/skills/mindestlohn-arbeitszeit-erfassung/SKILL.md) | [`rechtsstand-mai-2026-faktenbank`](./arbeitsrecht/skills/rechtsstand-mai-2026-faktenbank/SKILL.md) |
+| [`richtlinien-entwurf`](./arbeitsrecht/skills/richtlinien-entwurf/SKILL.md) | [`untersuchung-abfrage`](./arbeitsrecht/skills/untersuchung-abfrage/SKILL.md) |
+| [`untersuchung-ergaenzen`](./arbeitsrecht/skills/untersuchung-ergaenzen/SKILL.md) | [`untersuchung-eroeffnen`](./arbeitsrecht/skills/untersuchung-eroeffnen/SKILL.md) |
+| [`untersuchungs-memo`](./arbeitsrecht/skills/untersuchungs-memo/SKILL.md) | [`untersuchungs-zusammenfassung`](./arbeitsrecht/skills/untersuchungs-zusammenfassung/SKILL.md) |
 
 ## arbeitszeugnis-analyse
 
@@ -861,6 +863,25 @@ Automatisch gezählte Gesamtübersicht aller **2455 Skills** in **103 Plugins**.
 | [`schriftliche-beschlussfassung`](./gesellschaftsrecht/skills/schriftliche-beschlussfassung/SKILL.md) | [`tabellenpruefung`](./gesellschaftsrecht/skills/tabellenpruefung/SKILL.md) |
 | [`vollzugs-checkliste`](./gesellschaftsrecht/skills/vollzugs-checkliste/SKILL.md) | [`wesentliche-vertraege-anlage`](./gesellschaftsrecht/skills/wesentliche-vertraege-anlage/SKILL.md) |
 
+## gesellschaftsrecht-legal-english
+
+| Skill | Skill |
+| --- | --- |
+| [`allgemein`](./gesellschaftsrecht-legal-english/skills/allgemein/SKILL.md) | [`anti-dilution-protection`](./gesellschaftsrecht-legal-english/skills/anti-dilution-protection/SKILL.md) |
+| [`articles-association-satzung`](./gesellschaftsrecht-legal-english/skills/articles-association-satzung/SKILL.md) | [`begriffskompass-intake`](./gesellschaftsrecht-legal-english/skills/begriffskompass-intake/SKILL.md) |
+| [`cap-table-gesellschafterliste`](./gesellschaftsrecht-legal-english/skills/cap-table-gesellschafterliste/SKILL.md) | [`client-explainer-legal-english`](./gesellschaftsrecht-legal-english/skills/client-explainer-legal-english/SKILL.md) |
+| [`deutsches-recht-englische-vertraege`](./gesellschaftsrecht-legal-english/skills/deutsches-recht-englische-vertraege/SKILL.md) | [`drag-tag-piggyback`](./gesellschaftsrecht-legal-english/skills/drag-tag-piggyback/SKILL.md) |
+| [`due-diligence-red-flag-report`](./gesellschaftsrecht-legal-english/skills/due-diligence-red-flag-report/SKILL.md) | [`earn-out-kaufpreismechanik`](./gesellschaftsrecht-legal-english/skills/earn-out-kaufpreismechanik/SKILL.md) |
+| [`exit-spa-closing-cp`](./gesellschaftsrecht-legal-english/skills/exit-spa-closing-cp/SKILL.md) | [`financial-debt-net-debt-working-capital`](./gesellschaftsrecht-legal-english/skills/financial-debt-net-debt-working-capital/SKILL.md) |
+| [`financing-convertible-loan-safe`](./gesellschaftsrecht-legal-english/skills/financing-convertible-loan-safe/SKILL.md) | [`fully-diluted-esop-option-pool`](./gesellschaftsrecht-legal-english/skills/fully-diluted-esop-option-pool/SKILL.md) |
+| [`governance-board-consent-matters`](./gesellschaftsrecht-legal-english/skills/governance-board-consent-matters/SKILL.md) | [`liquidation-preference-waterfall`](./gesellschaftsrecht-legal-english/skills/liquidation-preference-waterfall/SKILL.md) |
+| [`partner-briefing-memo`](./gesellschaftsrecht-legal-english/skills/partner-briefing-memo/SKILL.md) | [`protective-provisions-vetorechte`](./gesellschaftsrecht-legal-english/skills/protective-provisions-vetorechte/SKILL.md) |
+| [`qualitaetsgate-corporate-legal-english`](./gesellschaftsrecht-legal-english/skills/qualitaetsgate-corporate-legal-english/SKILL.md) | [`reasonable-efforts-covenants`](./gesellschaftsrecht-legal-english/skills/reasonable-efforts-covenants/SKILL.md) |
+| [`reps-warranties-indemnities`](./gesellschaftsrecht-legal-english/skills/reps-warranties-indemnities/SKILL.md) | [`rookie-modus`](./gesellschaftsrecht-legal-english/skills/rookie-modus/SKILL.md) |
+| [`sha-gesellschaftervereinbarung`](./gesellschaftsrecht-legal-english/skills/sha-gesellschaftervereinbarung/SKILL.md) | [`share-classes-vorzugsrechte`](./gesellschaftsrecht-legal-english/skills/share-classes-vorzugsrechte/SKILL.md) |
+| [`term-sheet-investment-agreement`](./gesellschaftsrecht-legal-english/skills/term-sheet-investment-agreement/SKILL.md) | [`transfer-restrictions-vinkulierung`](./gesellschaftsrecht-legal-english/skills/transfer-restrictions-vinkulierung/SKILL.md) |
+| [`upstream-security-financial-assistance`](./gesellschaftsrecht-legal-english/skills/upstream-security-financial-assistance/SKILL.md) | [`vesting-leaver-cliff`](./gesellschaftsrecht-legal-english/skills/vesting-leaver-cliff/SKILL.md) |
+
 ## gewerblicher-rechtsschutz
 
 | Skill | Skill |
@@ -1311,7 +1332,23 @@ Automatisch gezählte Gesamtübersicht aller **2455 Skills** in **103 Plugins**.
 | [`mieterhoehungsverlangen-erstellen`](./mietrecht/skills/mieterhoehungsverlangen-erstellen/SKILL.md) | [`mietkaution-rueckforderung`](./mietrecht/skills/mietkaution-rueckforderung/SKILL.md) |
 | [`mietsenkungsverlangen`](./mietrecht/skills/mietsenkungsverlangen/SKILL.md) | [`mietspiegel-quellen`](./mietrecht/skills/mietspiegel-quellen/SKILL.md) |
 | [`nebenkostenabrechnung-erstellen`](./mietrecht/skills/nebenkostenabrechnung-erstellen/SKILL.md) | [`nebenkostenabrechnung-pruefen`](./mietrecht/skills/nebenkostenabrechnung-pruefen/SKILL.md) |
-| [`weg-beschluss-anfechten`](./mietrecht/skills/weg-beschluss-anfechten/SKILL.md) |  |
+| [`rechtsstand-mai-2026-faktenbank`](./mietrecht/skills/rechtsstand-mai-2026-faktenbank/SKILL.md) | [`weg-beschluss-anfechten`](./mietrecht/skills/weg-beschluss-anfechten/SKILL.md) |
+
+## weg-hausverwaltung
+
+| Skill | Skill |
+| --- | --- |
+| [`allgemein`](./weg-hausverwaltung/skills/allgemein/SKILL.md) | [`bauliche-veraenderungen-20-weg`](./weg-hausverwaltung/skills/bauliche-veraenderungen-20-weg/SKILL.md) |
+| [`beirat-controlling-verwalter`](./weg-hausverwaltung/skills/beirat-controlling-verwalter/SKILL.md) | [`beschlussanfechtung-risiko`](./weg-hausverwaltung/skills/beschlussanfechtung-risiko/SKILL.md) |
+| [`beschlusssammlung-protokoll`](./weg-hausverwaltung/skills/beschlusssammlung-protokoll/SKILL.md) | [`beschlussvorlagen-erstellen`](./weg-hausverwaltung/skills/beschlussvorlagen-erstellen/SKILL.md) |
+| [`betriebskosten-nebenkostenabrechnung`](./weg-hausverwaltung/skills/betriebskosten-nebenkostenabrechnung/SKILL.md) | [`datenschutz-dokumentenfreigabe`](./weg-hausverwaltung/skills/datenschutz-dokumentenfreigabe/SKILL.md) |
+| [`eigentuemerkommunikation-beschwerde`](./weg-hausverwaltung/skills/eigentuemerkommunikation-beschwerde/SKILL.md) | [`eigentuemerversammlung-vorbereiten`](./weg-hausverwaltung/skills/eigentuemerversammlung-vorbereiten/SKILL.md) |
+| [`einladung-tagesordnung-fristen`](./weg-hausverwaltung/skills/einladung-tagesordnung-fristen/SKILL.md) | [`erhaltung-modernisierung-baumaengel`](./weg-hausverwaltung/skills/erhaltung-modernisierung-baumaengel/SKILL.md) |
+| [`eskalation-anwalt-amtsgericht`](./weg-hausverwaltung/skills/eskalation-anwalt-amtsgericht/SKILL.md) | [`handwerker-beauftragung-vergabe`](./weg-hausverwaltung/skills/handwerker-beauftragung-vergabe/SKILL.md) |
+| [`hausgeld-sonderumlage-liquiditaet`](./weg-hausverwaltung/skills/hausgeld-sonderumlage-liquiditaet/SKILL.md) | [`mandat-objekt-triage`](./weg-hausverwaltung/skills/mandat-objekt-triage/SKILL.md) |
+| [`rechtsstand-mai-2026-faktenbank`](./weg-hausverwaltung/skills/rechtsstand-mai-2026-faktenbank/SKILL.md) | [`steckersolar-wallbox-barrierefreiheit`](./weg-hausverwaltung/skills/steckersolar-wallbox-barrierefreiheit/SKILL.md) |
+| [`stoerung-hausordnung-mieter-eigentuemer`](./weg-hausverwaltung/skills/stoerung-hausordnung-mieter-eigentuemer/SKILL.md) | [`verwalterpflichten-26-27-weg`](./weg-hausverwaltung/skills/verwalterpflichten-26-27-weg/SKILL.md) |
+| [`wirtschaftsplan-jahresabrechnung-28-weg`](./weg-hausverwaltung/skills/wirtschaftsplan-jahresabrechnung-28-weg/SKILL.md) |  |
 
 ## nachbarschaftsstreit-pruefer
 
@@ -1582,6 +1619,7 @@ Automatisch gezählte Gesamtübersicht aller **2455 Skills** in **103 Plugins**.
 | [`anw-stundung-erlass-vollstreckungsaufschub`](./steuerrecht-anwalt-und-berater/skills/anw-stundung-erlass-vollstreckungsaufschub/SKILL.md) | [`anw-tatsaechliche-verstaendigung-schlussbesprechung`](./steuerrecht-anwalt-und-berater/skills/anw-tatsaechliche-verstaendigung-schlussbesprechung/SKILL.md) |
 | [`anw-umsatzsteuer-vorsteuerabzug-pruefen`](./steuerrecht-anwalt-und-berater/skills/anw-umsatzsteuer-vorsteuerabzug-pruefen/SKILL.md) | [`anw-verbindliche-auskunft`](./steuerrecht-anwalt-und-berater/skills/anw-verbindliche-auskunft/SKILL.md) |
 | [`erstgespraech-mandatsannahme`](./steuerrecht-anwalt-und-berater/skills/erstgespraech-mandatsannahme/SKILL.md) | [`schriftsatzkern-substantiierung`](./steuerrecht-anwalt-und-berater/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`rechtsstand-mai-2026-faktenbank`](./steuerrecht-anwalt-und-berater/skills/rechtsstand-mai-2026-faktenbank/SKILL.md) |  |
 | [`stb-addison-bwa-konfiguration-tipps`](./steuerrecht-anwalt-und-berater/skills/stb-addison-bwa-konfiguration-tipps/SKILL.md) | [`stb-belegtransfer-datev-unternehmen-online`](./steuerrecht-anwalt-und-berater/skills/stb-belegtransfer-datev-unternehmen-online/SKILL.md) |
 | [`stb-buchhaltungsbutler-mandantencloud`](./steuerrecht-anwalt-und-berater/skills/stb-buchhaltungsbutler-mandantencloud/SKILL.md) | [`stb-bwa-aufbau-grundlagen`](./steuerrecht-anwalt-und-berater/skills/stb-bwa-aufbau-grundlagen/SKILL.md) |
 | [`stb-bwa-betriebsergebnis-deckungsbeitrag`](./steuerrecht-anwalt-und-berater/skills/stb-bwa-betriebsergebnis-deckungsbeitrag/SKILL.md) | [`stb-bwa-betriebsuebersicht-erstellen`](./steuerrecht-anwalt-und-berater/skills/stb-bwa-betriebsuebersicht-erstellen/SKILL.md) |
@@ -1788,7 +1826,20 @@ Automatisch gezählte Gesamtübersicht aller **2455 Skills** in **103 Plugins**.
 
 | Skill | Skill |
 | --- | --- |
-| [`allgemein`](./verlagsredaktion/skills/allgemein/SKILL.md) | [`verlagsredaktion`](./verlagsredaktion/skills/verlagsredaktion/SKILL.md) |
+| [`ai-einsatz-transparenz-datenschutz`](./verlagsredaktion/skills/ai-einsatz-transparenz-datenschutz/SKILL.md) | [`allgemein`](./verlagsredaktion/skills/allgemein/SKILL.md) |
+| [`autorenkommunikation-email`](./verlagsredaktion/skills/autorenkommunikation-email/SKILL.md) | [`barrierefreiheit-epub-pdf`](./verlagsredaktion/skills/barrierefreiheit-epub-pdf/SKILL.md) |
+| [`bildrechte-grafiken-tabellen`](./verlagsredaktion/skills/bildrechte-grafiken-tabellen/SKILL.md) | [`buchprojekt-kapitelkoordination`](./verlagsredaktion/skills/buchprojekt-kapitelkoordination/SKILL.md) |
+| [`eingangskorb-triage`](./verlagsredaktion/skills/eingangskorb-triage/SKILL.md) | [`entscheidungsmonitor-rechtsstand`](./verlagsredaktion/skills/entscheidungsmonitor-rechtsstand/SKILL.md) |
+| [`fremdtext-plagiat-uebernahmecheck`](./verlagsredaktion/skills/fremdtext-plagiat-uebernahmecheck/SKILL.md) | [`honorar-vertrag-royalties-triage`](./verlagsredaktion/skills/honorar-vertrag-royalties-triage/SKILL.md) |
+| [`knowledge-base-faq-kundenservice`](./verlagsredaktion/skills/knowledge-base-faq-kundenservice/SKILL.md) | [`kommentar-aktualisierung-randnummern`](./verlagsredaktion/skills/kommentar-aktualisierung-randnummern/SKILL.md) |
+| [`lektorat-struktur-redaktion`](./verlagsredaktion/skills/lektorat-struktur-redaktion/SKILL.md) | [`manuskriptaufnahme-materialinventar`](./verlagsredaktion/skills/manuskriptaufnahme-materialinventar/SKILL.md) |
+| [`marketing-presse-social`](./verlagsredaktion/skills/marketing-presse-social/SKILL.md) | [`metadaten-seo-klappentext`](./verlagsredaktion/skills/metadaten-seo-klappentext/SKILL.md) |
+| [`produktionsuebergabe-checkliste`](./verlagsredaktion/skills/produktionsuebergabe-checkliste/SKILL.md) | [`projektplan-fristen-heftplanung`](./verlagsredaktion/skills/projektplan-fristen-heftplanung/SKILL.md) |
+| [`qualitaetsgate-verlag`](./verlagsredaktion/skills/qualitaetsgate-verlag/SKILL.md) | [`quellen-zitate-fundstellencheck`](./verlagsredaktion/skills/quellen-zitate-fundstellencheck/SKILL.md) |
+| [`rechtecheck-urhg-verlg`](./verlagsredaktion/skills/rechtecheck-urhg-verlg/SKILL.md) | [`rohmanuskript-anschubhilfe`](./verlagsredaktion/skills/rohmanuskript-anschubhilfe/SKILL.md) |
+| [`sachbearbeiterinnen-cockpit`](./verlagsredaktion/skills/sachbearbeiterinnen-cockpit/SKILL.md) | [`sales-katalog-vlb-buchhandel`](./verlagsredaktion/skills/sales-katalog-vlb-buchhandel/SKILL.md) |
+| [`satzfahne-korrekturlauf`](./verlagsredaktion/skills/satzfahne-korrekturlauf/SKILL.md) | [`sprachlektorat-stil-tonalitaet`](./verlagsredaktion/skills/sprachlektorat-stil-tonalitaet/SKILL.md) |
+| [`verlagsredaktion`](./verlagsredaktion/skills/verlagsredaktion/SKILL.md) | [`zeitschriften-heftplanung`](./verlagsredaktion/skills/zeitschriften-heftplanung/SKILL.md) |
 
 ## vertragsausfueller
 

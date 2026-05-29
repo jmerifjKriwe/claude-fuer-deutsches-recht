@@ -31,7 +31,7 @@ Das DBA-Italien vom 18.10.1989 ist eines der wichtigsten Wirtschaftsabkommen Deu
 
 ### Leitentscheidungen und BMF-Schreiben
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Aktuelle BFH-Rechtsprechung zu Holding-Substanz und Lizenzgebuhren-Quellensteuer DBA-Italien in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zu Holding-Substanz und Lizenzgebuhren-Quellensteuer DBA-Italien in freier amtlicher Quelle abrufen.
 - BMF-Schreiben zu DBA-Italien: aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
 
 ## Land-spezifisches

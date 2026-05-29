@@ -79,16 +79,10 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-- Erfurter Kommentar/Müller-Glöge, 24. Aufl. 2024, § 626 BGB Rn. 165 ff.:
-  Verdachtskündigung — Voraussetzungen, Verfahren, Anhörung
-- Gola/Heckmann/Schomerus, BDSG, 13. Aufl. 2022, § 26 Rn. 120 ff.:
-  Datenverarbeitung zur Aufdeckung von Straftaten im Beschäftigungsverhältnis;
-  Verhältnismäßigkeitsgrundsatz
-- Erfurter Kommentar/Kania, 24. Aufl. 2024, § 87 BetrVG Rn. 62 ff.:
-  Mitbestimmung bei technischen Überwachungseinrichtungen; Reichweite
-  im Kontext interner Untersuchungen
-- Bauer/Krieger/Günther, AGG, 5. Aufl. 2022, Einleitung Rn. 80 ff.:
-  Untersuchung von Diskriminierungsvorwürfen; Beweislastverteilung nach § 22 AGG
+- § 626 BGB: Zwei-Wochen-Frist, Verdachtskündigung und Anhörung nur mit verifizierter BAG-Rechtsprechung oder Nutzerquelle vertiefen.
+- Beschäftigtendatenschutz: § 26 BDSG, Art. 5 und 6 DSGVO; Fachliteratur nur mit Nutzerquelle oder verifiziertem Live-Zugriff.
+- § 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmung bei technischen Überwachungseinrichtungen; Rechtsprechung nur frei verifiziert zitieren.
+- AGG: §§ 12, 15, 22 AGG anhand Gesetz, Nutzerquelle und frei verifizierter Rechtsprechung prüfen.
 
 ---
 
@@ -709,7 +703,7 @@ Bei jeder Ausgabe zu Untersuchungsverfahren zitieren:
 - § 26 BDSG (Beschäftigtendatenschutz, Verhältnismäßigkeit)
 - § 87 Abs. 1 Nr. 6 BetrVG (Mitbestimmung bei technischer Überwachung)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Gola/Heckmann/Schomerus, BDSG, 13. Aufl. 2022, § 26 Rn. 120 ff.
-- Erfurter Kommentar/Müller-Glöge, 24. Aufl. 2024, § 626 BGB Rn. 165 ff.
+- Beschäftigtendatenschutz: § 26 BDSG, Art. 5 und 6 DSGVO; Fachliteratur nur mit Nutzerquelle oder verifiziertem Live-Zugriff.
+- § 626 BGB: Zwei-Wochen-Frist, Verdachtskündigung und Anhörung nur mit verifizierter BAG-Rechtsprechung oder Nutzerquelle vertiefen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

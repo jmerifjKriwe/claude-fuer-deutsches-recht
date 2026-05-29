@@ -273,7 +273,7 @@ Jede Ausgabe dieser Skill zitiert je nach Relevanz:
 - § 2 NachwG (Nachweispflicht)
 - § 26 BDSG, Art. 88 DSGVO (Beschäftigtendatenschutz)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Erfurter Kommentar/Kania, 24. Aufl. 2024, § 87 BetrVG Rn. 1 ff.
+- § 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmung bei technischen Überwachungseinrichtungen; Rechtsprechung nur frei verifiziert zitieren.
 
 > **Entwurf, keine geltende Regelung.** Dieser Entwurf ist ein Arbeitsdokument
 > für die anwaltliche Überprüfung. Eine Betriebsregelung oder Richtlinie, die

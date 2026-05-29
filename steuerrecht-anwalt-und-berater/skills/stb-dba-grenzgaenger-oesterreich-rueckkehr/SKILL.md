@@ -29,7 +29,7 @@ Die Grenzgaengerregelung des DBA-Oesterreich (zuletzt angepasst durch Aenderungs
 
 ### Leitentscheidungen und BMF-Schreiben
 - BMF-Konsultationsvereinbarung zur Grenzgaengerregelung DBA-Oesterreich vom 20.12.2023 (BMF-Schreiben IV B 2 — S 1301/22/10002 :001).
-- Aktuelle BFH-Rechtsprechung zur Grenzgaengerregelung Art. 15 Abs. 6 DBA-Oesterreich in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zur Grenzgaengerregelung Art. 15 Abs. 6 DBA-Oesterreich in freier amtlicher Quelle abrufen.
 
 ## Anwendungsvoraussetzungen
 

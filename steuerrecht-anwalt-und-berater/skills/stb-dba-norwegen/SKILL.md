@@ -31,7 +31,7 @@ Das DBA-Norwegen vom 04.10.1991 (BGBl. 1993 II S. 970, in Kraft 07.10.1993) rege
 - **MLI**: Deutschland und Norwegen haben das MLI unterzeichnet und ratifiziert. Aktuellen MLI-Synthesetext im BMF-Verzeichnis pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- Aktuelle BFH-Rechtsprechung zu DBA-Norwegen (Offshore, Schifffahrt) in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zu DBA-Norwegen (Offshore, Schifffahrt) in freier amtlicher Quelle abrufen.
 - Aktuelle BMF-Schreiben zur Offshore-Besteuerung im BMF-Schreiben-Verzeichnis pruefen.
 
 ## Land-spezifisches

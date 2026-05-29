@@ -6,6 +6,8 @@
 
 Neu im Repo ist der [`meinungspruefer`](./meinungspruefer): ein großes Äußerungsrechts-Plugin für Meinung/Tatsache, Beleidigung, üble Nachrede, Verleumdung, § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR-/EuGH-Rechtsprechung, OLG-/KG-Praxis, Plattformfälle und US-Supreme-Court-Vergleich. Dazu gibt es die Testakte [`meinungspruefer-grenzfaelle-alltag`](./testakten/meinungspruefer-grenzfaelle-alltag/) mit X-Post, LinkedIn-Pinocchio, Kantinenfall, Elternchat, Bürgermeister-"Lackaffe", Abmahnung, Anhörung, Belegmappe und USA-Vergleichsnotiz.
 
+Ebenfalls lokal vorbereitet ist [`gesellschaftsrecht-legal-english`](./gesellschaftsrecht-legal-english): ein didaktisches Gesellschaftsrechts-Plugin für Corporate Legal English, das Cap Table, Gesellschafterliste, Term Sheet, SHA, Liquidation Preference, Anti-Dilution, Vesting, Drag/Tag, SPA/DD-Begriffe und englische Vertragssprache unter deutschem Recht erklärt und in Big-Law-Workflows für Anfänger übersetzt. Dazu gehört die Testakte [`gesellschaftsrecht-legal-english-frankfurt-startup`](./testakten/gesellschaftsrecht-legal-english-frankfurt-startup/).
+
 ## Über dieses Repository
 
 Dieses Repository ist eine **experimentelle Plugin- und Skill-Sammlung für deutsches Recht** auf Basis der offenen "claude-for-legal"-Skills von Anthropic, vollständig ins Deutsche übertragen und an typische Arbeitsabläufe in Kanzleien, Rechtsabteilungen und bei Beratern angepasst. Die Struktur, Beispiele und Workflows sind inzwischen **für die deutsche Rechtspraxis überarbeitet und im Alltagseinsatz erprobt**, sie bleiben aber bewusst als Experiment gekennzeichnet: Es handelt sich **nicht** um ein geprüftes Produkt, sondern um eine technische Spielwiese zum Ausprobieren, Anpassen und Weiterentwickeln.
@@ -28,9 +30,9 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 103 |
-| **Skills (SKILL.md)** | 2455 — [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 58 |
+| **Plugins** | 105 |
+| **Skills (SKILL.md)** | 2533 — [Gesamtübersicht](./SKILLS.md) |
+| **Testakten** | 61 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
 | **Letzter Release** | `v24.2.0` — [latest auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
@@ -221,10 +223,12 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`geldwaeschepraevention-aml-kyc`](./geldwaeschepraevention-aml-kyc) | Freistehendes Geldwäscheprävention-/AML-/KYC-Plugin: GwG-Risikoanalyse, Kundenprüfung, wirtschaftlich Berechtigte, PEP, Sanktionen, FIU/goAML, Transparenzregister, Monitoring, Schulung, Audit, Behördenverfahren und Remediation. |
 | [`gesellschaftsgruender`](./gesellschaftsgruender) | Gründungsassistent für deutsche Gesellschaften. Führt von Rechtsformwahl GmbH UG GbR OHG KG GmbH und Co KG PartG mbB gGmbH eK über Gesellschaftsvertrag und Geschäftsführeranstellungsvertrag bis Notar Handelsregister Gewerbeamt Finanzamt Transparenzregister IHK Berufsgenossenschaft. MoPeG 2024 DiRUG Online-Gründung GwG TraFinG. Erste-100-Tage-Pflichten für Geschäftsführer. |
 | [`gesellschaftsrecht`](./gesellschaftsrecht) | GmbH, AG, Personengesellschaften, M&A, Due Diligence, Gesellschafterbeschluss, Handelsregister. |
+| [`gesellschaftsrecht-legal-english`](./gesellschaftsrecht-legal-english) | Didaktisches Gesellschaftsrechts-Plugin für Corporate Legal English: Cap Table, Gesellschafterliste, Term Sheet, SHA, Liquidation Preference, Anti-Dilution, Vesting, Drag/Tag, SPA, DD und Big-Law-Anfängertraining. |
 | [`gewerblicher-rechtsschutz`](./gewerblicher-rechtsschutz) | Marke, Design, Patent, Urheberrecht, UWG-Abmahnung. |
 | [`grosskanzlei-corporate-ma`](./grosskanzlei-corporate-ma) | Freistehendes Big-Law-Corporate/M&A-Plugin mit Deal-Kommandocenter, Anfänger-/First-Year-Associate-Modus, Aktenanlage, Datenraum, Legal DD, internem Tabellenreview, Liquiditätsvorschau, Insolvenzreifecheck, CP-Kalender, SPA/APA, W&I, Public M&A, Umwandlungsrecht, StaRUG/Insolvenzplan, Billing, XRechnung/ZUGFeRD, GoBD und Closing Bible. |
 | [`hausarbeitenmacher`](./hausarbeitenmacher) | Didaktisches Plugin für juristische Hausarbeiten und Seminararbeiten im Jurastudium. Führt Studierende sokratisch durch die Lösung in Zivilrecht öffentlichem Recht Strafrecht mit Ausflügen in Europarecht und Rechtstheorie. Fragt zu Beginn nach der Lehrkraft und entwickelt Adressaten-Strategie ohne Schleimerei. Bei Seminararbeit Modus-Wechsel zum wissenschaftlichen Aufsatz mit eigener These. Strikt lernfördernd nicht zum Abschreiben. Behutsam-frech-wertschätzender Dialog-Stil am Rande. |
 | [`immobilienrechtspraxis`](./immobilienrechtspraxis) | Werkzeuge für immobilienrechtliche Rechtsabteilungen — musterbasierte Vertragserstellung mit Klauselschutz, Vertragsprüfung, Übergabeprotokolle. |
+| [`weg-hausverwaltung`](./weg-hausverwaltung) | Operatives WEG- und Hausverwaltungs-Plugin für Beschlüsse, Eigentümerversammlung, Protokoll, Beschlusssammlung, Wirtschaftsplan, Jahresabrechnung, Hausgeld, Sonderumlage, Betriebskosten/Nebenkosten, Handwerkerbeauftragung, Erhaltung, bauliche Veränderungen, Steckersolar, Wallbox, Verwalterpflichten, Beirat und Eskalation zum Anwalt. |
 | [`insolvenzforderungsanmeldungspruefung`](./insolvenzforderungsanmeldungspruefung) | Freistehende Insolvenzforderungsanmeldungsprüfung: Intake, § 174 InsO, Belegkette, Grund/Betrag/Rang, vbuH, Nachforderungen, Tabellenimport, Prüfungstermin, Bestreiten, Feststellung, Schuldnerwiderspruch und § 189-Nachlauf. |
 | [`insolvenzplan-starug-planwerkstatt`](./insolvenzplan-starug-planwerkstatt) | Freistehende Insolvenzplan- und StaRUG-Planwerkstatt: Kaltstart, Sanierungskonzept, integrierte Planung, Vergleichsrechnung, Gruppen/Klassen, darstellender und gestaltender Teil, Anlagen, Abstimmung, Cram-down, Minderheitenschutz, Gericht und Planvollzug. |
 | [`insolvenzrecht`](./insolvenzrecht) | Zahlungsunfähigkeit § 17 InsO, zweistufige Überschuldungsprüfung § 19 InsO mit Fortbestehensprognose, Antragspflicht § 15a InsO und Haftung wegen Insolvenzverschleppung, Gläubigerantrag § 14 InsO, gerichtsfähige Liquiditätsvorschau. Rechtsprechung nur nach Live-Verifikation. |
@@ -269,7 +273,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`verfassungsrecht`](./verfassungsrecht) | Deutsches Verfassungsrecht unter dem Grundgesetz aus Sicht einer Spezialkanzlei. Rechtsprechungsgetrieben mit verpflichtender Live-Recherche auf bundesverfassungsgericht.de. Acht Skills für Gesetzgebungskompetenz, formelle und materielle Verfassungsmäßigkeit, Grundrechte und Verfassungsbeschwerde. |
 | [`verkehr-infrastrukturrecht`](./verkehr-infrastrukturrecht) | Freistehender Assistent für Verkehrsplanung, Infrastrukturprojekte, Planfeststellung, Straßenbahn, Ladeinfrastruktur, Sondernutzung, Parkraum, Wirtschaftsverkehr, Verkehrswende, Schulwegsicherheit, Förderung und Vergabe. |
 | [`verkehrsowi-verteidiger`](./verkehrsowi-verteidiger) | Freistehender Verteidiger für Verkehrsordnungswidrigkeiten: Bußgeld, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol/Drogen, Messakte, Einspruch, Zeugenstrategie und Amtsgericht. |
-| [`verlagsredaktion`](./verlagsredaktion) | Verlegerischer Redaktionsassistent. Modus A macht aus disparaten Inputs (Transkripte, PPT, Screenshots, Videos, Notizen) einen redaktionellen Text. Modus B redigiert vorhandene Texte. |
+| [`verlagsredaktion`](./verlagsredaktion) | Verlagsdesk für juristische und fachliche Verlage: Eingangskorb, Sachbearbeiterinnen-Cockpit, Manuskriptaufnahme, Redaktion, Rechtecheck, Zitate, Bildrechte, Autor:innenkommunikation, Heftplanung, Buchprojekte, Satzfahnen, Metadaten, Marketing und Produktionsübergabe. |
 | [`vertragsausfueller`](./vertragsausfueller) | Freistehendes Vertragsausfüller-Plugin: DOCX-Vorlagen und Altverträge strippen, Felder erkennen, Term Sheets mappen, Rückfragen führen, Clean-Verträge erzeugen und Track Changes nur nach ausdrücklicher Nachfrage vorbereiten. |
 | [`vertragsrecht`](./vertragsrecht) | NDA, SaaS-/MSA-Review, Lieferanten-AGB, Renewal-Tracking. |
 | [`wandeldarlehen-lebenszyklus`](./wandeldarlehen-lebenszyklus) | Vollständiger Lebenszyklus eines Wandeldarlehens für GmbH und UG: Erstellung (bilingual/einsprachig), Beurkundungsprüfung, Wandelereignisse, Wandlungsberechnung, Cap-Table-Update, Gesellschafterbeschluss und Notar-Paket. |
@@ -382,7 +386,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 
 - **Zivilrecht & Vertragsrecht** – `bgb-at-pruefer`, `vertragsrecht`, `nda-abgleich`, `agb-pruefung` (in `vertragsrecht`), `produktrecht`, `fluggastrechte`
 - **Arbeitsrecht** – `arbeitsrecht`, `fachanwalt-arbeitsrecht` (Kündigungsschutzklage § 4 KSchG, Aufhebungsvertrag mit Sperrzeit-Prüfung, BR-Anhörung § 102 BetrVG, Massenentlassung § 17 KSchG)
-- **Gesellschafts- & Wirtschaftsrecht** – `gesellschaftsrecht`, `fachanwalt-handels-gesellschaftsrecht`, `grosskanzlei-corporate-ma`, `mittelstand-corporate-ma`, `corporate-kanzlei`, `fachanwalt-internationales-wirtschaftsrecht`
+- **Gesellschafts- & Wirtschaftsrecht** – `gesellschaftsrecht`, `gesellschaftsrecht-legal-english`, `fachanwalt-handels-gesellschaftsrecht`, `grosskanzlei-corporate-ma`, `mittelstand-corporate-ma`, `corporate-kanzlei`, `fachanwalt-internationales-wirtschaftsrecht`
 - **Bank-, Kapitalmarkt- & Aufsichtsrecht** – `fachanwalt-bank-kapitalmarktrecht`, `regulatorisches-recht`, `geldwaeschepraevention-aml-kyc`, `aussenwirtschaft-zoll-sanktionen`
 - **Insolvenz & Sanierung** – `insolvenzrecht` (Gläubiger/Schuldner), `insolvenzverwaltung` (Verwalter-Sicht, § 270d, § 15b, § 129 ff.), `zwangsverwaltung-zvg` (ZVG-Verwalter, § 155 Verteilungsplan), `insolvenzforderungsanmeldungspruefung`, `insolvenzplan-starug-planwerkstatt`, `fortbestehensprognose`, `fachanwalt-insolvenz-sanierungsrecht`
 - **Liquidität, Forderung & Inkasso** – `liquiditaetsplanung`, `forderungsmanagement-klagewerkstatt`, `phishing-vorfall-pruefer`, `vertragsausfueller`, Inkasso nach RDG / § 43d BRAO (in `regulatorisches-recht`)
@@ -390,7 +394,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 - **Strafrecht & OWi** – `aktenaufbereiter-strafrecht`, `fachanwalt-strafrecht`, `strafbefehl-verteidiger`, `verkehrsowi-verteidiger`
 - **Verwaltungs- & Verfassungsrecht** – `verfassungsrecht`, `fachanwalt-verwaltungsrecht` (Eilantrag § 80 V VwGO), `verkehr-infrastrukturrecht`, `umweltrecht`, `energierecht`, `fachanwalt-vergaberecht`
 - **Familien-, Erb-, Sozial- & Betreuungsrecht** – `fachanwalt-familienrecht` (Düsseldorfer Tabelle), `fachanwalt-erbrecht` (Pflichtteilsberechnung), `fachanwalt-sozialrecht`, `betreuungsrecht`, `fachanwalt-migrationsrecht`
-- **Miet- & Immobilienrecht** – `mietrecht`, `nachbarschaftsstreit-pruefer`, `fachanwalt-miet-wohnungseigentumsrecht`, `immobilienrechtspraxis`
+- **Miet- & Immobilienrecht** – `mietrecht`, `weg-hausverwaltung`, `nachbarschaftsstreit-pruefer`, `fachanwalt-miet-wohnungseigentumsrecht`, `immobilienrechtspraxis`
 - **Gewerblicher Rechtsschutz & Medien** – `gewerblicher-rechtsschutz` (Markenanmeldung DPMA, UWG-Abmahnung), `fachanwalt-gewerblicher-rechtsschutz`, `fachanwalt-urheber-medienrecht` (Gegendarstellung), `patentrecherche`, `markenrecht-fashion-luxus` (Luxus-Fashion-IP mit Anmeldung allerlei Markenarten inkl. Haptik- und Soundmarken, EUIPO Alicante, Selektivvertrieb Coty, USPTO/Lanham Act, TTAB, NYC-Korrespondenzkanzlei)
 - **Insolvenz, Sanierung und Krisenmanagement (erweitert)** – `krisenfrueherkennung-starug` (§ 1 StaRUG mit Vier-und-zwanzig-Monats-Horizont, § 102 StaRUG-Warnpflicht, Restrukturierungsplan, Stabilisierungsanordnung, Cross-Class-Cram-Down), ergänzt durch `insolvenzplan-starug-planwerkstatt` und `fachanwalt-insolvenz-sanierungsrecht`
 - **Arbeits- und Vergütungsrecht (erweitert)** – `bav-strategie-konzern` (betriebliche Altersversorgung als Konzern-Architektur: alle fünf Durchführungswege, CTA-Doppeltreuhand, Pension Buyouts, Drei-Stufen-Prüfung, internationale Benefits, Düsseldorf-Kyoto-Profil)

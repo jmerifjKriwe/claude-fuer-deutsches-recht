@@ -30,7 +30,7 @@ Der Soll-Ist-Vergleich legt unterjaehrige Planwerte des Mandanten neben die tats
 
 **§ 252 HGB** — Going-concern; positive Fortbestehensprognose setzt belastbaren Plan voraus.
 
-**§ 19 Abs. 2 InsO** — Fortbestehensprognose; Prognosezeitraum (regulaer 12 Monate; durch SanInsKG zeitweise auf vier Monate verkuerzt). Aktuelle Geltungsdauer der SanInsKG-Verkuerzung in juris pruefen.
+**§ 19 Abs. 2 InsO** — Fortbestehensprognose; Prognosezeitraum (regulaer 12 Monate; durch SanInsKG zeitweise auf vier Monate verkuerzt). Aktuelle Geltungsdauer der SanInsKG-Verkuerzung in freier amtlicher Quelle pruefen.
 
 ### Standards
 

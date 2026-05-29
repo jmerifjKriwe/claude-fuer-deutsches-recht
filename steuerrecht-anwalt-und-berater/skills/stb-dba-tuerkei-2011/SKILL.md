@@ -29,7 +29,7 @@ Das DBA-Tuerkei vom 19.09.2011 (BGBl. 2012 II S. 526, in Kraft 01.08.2012, anwen
 - **MLI**: Die Tuerkei hat das BEPS-Multilaterale Instrument (MLI) nicht ratifiziert (Stand 05/2026). DBA-DE-TR gilt daher nicht als MLI-modifiziert.
 
 ### Leitentscheidungen und BMF-Schreiben
-- Aktuelle BFH-Rechtsprechung zu DBA-Tuerkei (Pensionen, Doppelansaessigkeit) in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zu DBA-Tuerkei (Pensionen, Doppelansaessigkeit) in freier amtlicher Quelle abrufen.
 - Aktuelle BMF-Schreiben zur Anwendung des DBA-Tuerkei im BMF-Schreiben-Verzeichnis pruefen.
 
 ## Land-spezifisches

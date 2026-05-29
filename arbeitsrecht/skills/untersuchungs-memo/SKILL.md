@@ -55,12 +55,8 @@ vorhandenen Entwurf überarbeiten.
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-- Erfurter Kommentar/Müller-Glöge, 24. Aufl. 2024, § 626 BGB Rn. 165 ff.:
-  Verdachtskündigung — Voraussetzungen, Verfahren, Anhörungsinhalt;
-  Tatkündigung im Vergleich
-- Erfurter Kommentar/Kiel, 24. Aufl. 2024, § 102 BetrVG Rn. 50 ff.:
-  Inhalt der BR-Anhörung; Substantiierungsanforderungen; Folgen
-  unvollständiger Mitteilung (Theorie der subjektiven Determinierung)
+- § 626 BGB: Zwei-Wochen-Frist, Verdachtskündigung und Anhörung nur mit verifizierter BAG-Rechtsprechung oder Nutzerquelle vertiefen.
+- § 102 BetrVG: Betriebsratsanhörung nach Gesetz und frei verifizierter Rechtsprechung prüfen; keine Kommentarzitate aus Modellwissen.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
   Verhaltensbedingte Kündigung — Pflichtverletzung, Interessenabwägung,
   Dokumentationsstandards
@@ -177,7 +173,7 @@ Jede Ausgabe zum Verdachtskündigungsverfahren zitiert:
 - § 626 BGB (wichtiger Grund), § 626 Abs. 2 BGB (Frist)
 - § 102 BetrVG (BR-Anhörung)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Erfurter Kommentar/Müller-Glöge, 24. Aufl. 2024, § 626 BGB Rn. 165 ff.
+- § 626 BGB: Zwei-Wochen-Frist, Verdachtskündigung und Anhörung nur mit verifizierter BAG-Rechtsprechung oder Nutzerquelle vertiefen.
 
 Detaillierte Vermerkstruktur, Glaubwürdigkeitsbewertungsrahmen und
 Aktualisierungsregeln befinden sich in der Referenz-Skill

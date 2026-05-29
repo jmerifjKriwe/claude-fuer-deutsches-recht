@@ -54,13 +54,9 @@ nicht über eine interne Referenztabelle.
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-- Schüren/Hamann, AÜG, 5. Aufl. 2022, § 1 Rn. 1 ff., § 8 Rn. 1 ff.:
-  Grundkonzeption des AÜG, Equal-Pay und Ausnahmen durch Tarifvertrag
-- Erfurter Kommentar/Wank, 24. Aufl. 2024, § 611a BGB Rn. 1 ff.:
-  Arbeitnehmerbegriff — zentrales Merkmal Weisungsgebundenheit; Scheinselbständigkeit
-- Rieble/Junker (Hrsg.), Münchener Handbuch zum Arbeitsrecht, Bd. 1,
-  5. Aufl. 2021, § 17 Rn. 1 ff.: Grenzüberschreitende Arbeitsverhältnisse;
-  Anknüpfung und Rechtswahl nach Art. 8 Rom I-VO
+- AÜG: Erlaubnispflicht, Höchstüberlassungsdauer und Equal Pay nach Gesetz, Tariftext und frei verifizierter Rechtsprechung prüfen.
+- Arbeitnehmerstatus: § 611a BGB, § 7a SGB IV und frei verifizierte BAG-/BSG-Rechtsprechung; keine Kommentarzitate aus Modellwissen.
+- Grenzüberschreitende Arbeitsverhältnisse: Art. 8 Rom I-VO, AÜG, Entsende-/SV-Regeln und amtliche Quellen prüfen; keine Handbuchzitate aus Modellwissen.
 
 ## Ablauf
 
@@ -390,7 +386,7 @@ Fragen für CFO/Steuerberatung]
 Jede Ausgabe zu AÜG-Konstellationen zitiert:
 - §§ 1, 8, 10 AÜG, § 7 SGB IV, Art. 8 Rom I-VO
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Schüren/Hamann, AÜG, 5. Aufl. 2022
+- AÜG: Erlaubnispflicht, Höchstüberlassungsdauer und Equal Pay nach Gesetz, Tariftext und frei verifizierter Rechtsprechung prüfen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 

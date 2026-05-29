@@ -26,7 +26,7 @@ description: "Workflow-Skill zu fachanwalt miet wohnungseigentumsrecht orientier
 - **BetrKV** und **HeizkostenV** für Nebenkostenabrechnung.
 - **§ 556d ff. BGB Mietpreisbremse**, soweit landesrechtliche Verordnung vorliegt. Verlaengerung bis 31.12.2029 durch Gesetz v. 17.07.2025 (BGBl. 2025 I Nr. 163, in Kraft 23.07.2025).
 - **GEG 2024** (Gebaeudeenergiegesetz, in Kraft 01.01.2024): § 71 GEG 65-Prozent-Pflicht erneuerbare Energien fuer neue Heizungen; § 71f GEG Uebergangsregelung an kommunale Waermeplanung gekoppelt (Gemeinden > 100.000 Einwohner: bis 30.06.2026; > 10.000: bis 30.06.2028 nach § 5 GEG).
-- **CO2KostAufG** (Gesetz zur Aufteilung der Kohlendioxidkosten, in Kraft 01.01.2023): Aufteilung der CO2-Kosten zwischen Vermieter und Mieter nach Stufenmodell anhand der Emissionsklasse des Gebaeudes; § 5 ff. CO2KostAufG; im Nichtwohngebaeude seit 2025 ebenfalls Stufenmodell.
+- **CO2KostAufG:** Wohngebäude mit Stufenmodell (§§ 5 bis 7 CO2KostAufG); Nichtwohngebäude derzeit § 8 Abs. 1 und 2 CO2KostAufG mit hälftiger Aufteilung bzw. maximal 50 Prozent Mieteranteil. Ein Stufenmodell für Nichtwohngebäude ist nach der Evaluation 04/2026 weiter Prüf- und Entwicklungsthema, aber noch nicht geltendes Abrechnungsmodell.
 
 ## Typische Mandate
 

@@ -32,7 +32,7 @@ Das DBA-Irland vom 30.03.2011 (BGBl. 2012 II S. 1043, in Kraft 28.11.2012) regel
 - **§ 4k EStG** anti-hybrid.
 
 ### Leitentscheidungen und BMF-Schreiben
-- Aktuelle BFH-Rechtsprechung zu Irland-Holdings und Lizenzstrukturen (§ 50d Abs. 3 EStG, § 4k EStG) in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zu Irland-Holdings und Lizenzstrukturen (§ 50d Abs. 3 EStG, § 4k EStG) in freier amtlicher Quelle abrufen.
 - BMF-Schreiben zu Irland und Substanzanforderungen: aktuellen Stand im BMF-Schreiben-Verzeichnis pruefen.
 
 ## Land-spezifisches

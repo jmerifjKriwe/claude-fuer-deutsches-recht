@@ -127,9 +127,7 @@ Mietrechts-Mandate sind heterogen — Wohnraummietrecht (sozial geschützt) Gewe
 - BGB §§ 535 ff. 558 558b 573c 556
 - WEG §§ 14 19 20 44 45
 - ZPO § 721 (Räumungsfrist)
-- BGH VIII. Zivilsenat V. Zivilsenat
-- Schmidt-Futterer Mietrecht
-- Sternel Mietrecht aktuell
+- BGH VIII. Zivilsenat und V. Zivilsenat nur mit Datum, Aktenzeichen und frei prüfbarer Quelle
 
 ## Aktuelle Rechtsprechung — Leitsaetze (Triage-Relevant)
 

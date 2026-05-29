@@ -32,9 +32,9 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- Aktuelle BFH-Rechtsprechung zur 60-Tage-Schaedlichkeit in juris abrufen.
-- Aktuelle BFH-Rechtsprechung zur Pauschalbesteuerung Schweiz in juris abrufen.
-- Aktuelle BFH-Rechtsprechung zu Pensions-Saeulen DBA-Schweiz in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zur 60-Tage-Schaedlichkeit in freier amtlicher Quelle abrufen.
+- Aktuelle BFH-Rechtsprechung zur Pauschalbesteuerung Schweiz in freier amtlicher Quelle abrufen.
+- Aktuelle BFH-Rechtsprechung zu Pensions-Saeulen DBA-Schweiz in freier amtlicher Quelle abrufen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BMF-Schreiben zu Grenzgaengern Schweiz (regelmaessig aktualisiert) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 - Konsultationsvereinbarung Home-Office Deutschland-Schweiz vom 11.06.2020 und Folgevereinbarungen — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
@@ -65,7 +65,7 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 ### Besonderheiten
 - **60-Tage-Schaedlichkeit**: dokumentationspflichtig (Reisekalender, Beweismittel Arbeitgeber).
 - **Pauschalbesteuerung Schweiz**: Anti-Forderungsklausel im DBA: bei Aufwandbesteuerung nicht voll abkommensberechtigt — **konkret pruefen**.
-- **Wegzugsbesteuerung § 6 AStG**: bei Wegzug Schweiz erhebliche Steuerlast; ATAD-Umsetzungsgesetz 2021 (BGBl. 2021 I S. 2035) hat Schweiz als Drittland strenger erfasst; Stundung gemaess § 6 Abs. 4 AStG n.F. nur unter engen Voraussetzungen — aktuellen Anwendungsstand in juris pruefen.
+- **Wegzugsbesteuerung § 6 AStG**: bei Wegzug Schweiz erhebliche Steuerlast; ATAD-Umsetzungsgesetz 2021 (BGBl. 2021 I S. 2035) hat Schweiz als Drittland strenger erfasst; Stundung gemaess § 6 Abs. 4 AStG n.F. nur unter engen Voraussetzungen — aktuellen Anwendungsstand in freier amtlicher Quelle pruefen.
 - **Pensionen** (Art. 18): erste Saeule (AHV) typ. Kassenstaat, zweite Saeule (BVG/Pensionskasse), dritte Saeule (3a/3b) abweichend behandelt — **konkret pruefen**.
 - **Sozialversicherungsabkommen DE-CH** separat.
 

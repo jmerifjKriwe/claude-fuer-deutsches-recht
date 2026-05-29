@@ -32,7 +32,7 @@ Das DBA-Daenemark vom 22.11.1995 (BGBl. 1996 II S. 2565, in Kraft 25.12.1996) re
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- Aktuelle BFH-Rechtsprechung zum DBA-Daenemark (Schifffahrt, Folkepension) in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zum DBA-Daenemark (Schifffahrt, Folkepension) in freier amtlicher Quelle abrufen.
 - Aktuelle BMF-Schreiben zur Sozialversicherung Daenemark im BMF-Schreiben-Verzeichnis pruefen.
 
 ## Land-spezifisches

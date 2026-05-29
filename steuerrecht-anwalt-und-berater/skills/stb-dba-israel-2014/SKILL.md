@@ -29,7 +29,7 @@ Das DBA-Israel vom 21.08.2014 (BGBl. 2015 II S. 1301/1302, in Kraft 09.05.2016, 
 - **MLI**: Deutschland hat das MLI ratifiziert. Israel hat das MLI unterzeichnet; Ratifizierungsstatus und konkrete Listung des DBA-DE-IL im BMF-Verzeichnis vor Anwendung pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- Aktuelle BFH-Rechtsprechung zu DBA-Israel (Software-Lizenzen, Aliyah-Status, Subject-to-Tax) in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zu DBA-Israel (Software-Lizenzen, Aliyah-Status, Subject-to-Tax) in freier amtlicher Quelle abrufen.
 - Aktuelle BMF-Schreiben zum DBA-Israel im BMF-Schreiben-Verzeichnis pruefen.
 
 ## Land-spezifisches

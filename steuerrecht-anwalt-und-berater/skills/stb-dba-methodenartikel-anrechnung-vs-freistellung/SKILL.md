@@ -38,8 +38,8 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- Aktuelle BFH-Rechtsprechung zu Aktivitaetsklauseln in juris abrufen.
-- Aktuelle BFH-Rechtsprechung zu Subject-to-Tax-Klauseln in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zu Aktivitaetsklauseln in freier amtlicher Quelle abrufen.
+- Aktuelle BFH-Rechtsprechung zu Subject-to-Tax-Klauseln in freier amtlicher Quelle abrufen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BMF-Schreiben zur Anwendung des § 34c EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 - BMF-Schreiben zur Anrechnungsmethode und Per-Country-Limitation — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.

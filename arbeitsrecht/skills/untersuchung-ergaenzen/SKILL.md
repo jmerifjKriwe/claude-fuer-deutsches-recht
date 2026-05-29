@@ -56,13 +56,9 @@ für eine laufende Untersuchung zur Verarbeitung eingehen.
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-- Gola/Heckmann/Schomerus, BDSG, 13. Aufl. 2022, § 26 Rn. 120 ff.:
-  Zulässigkeitsvoraussetzungen der Datenverarbeitung zur Straftatenaufdeckung;
-  Verhältnismäßigkeitsmaßstab; Dokumentationspflichten
-- Erfurter Kommentar/Kania, 24. Aufl. 2024, § 87 BetrVG Rn. 62 ff.:
-  Mitbestimmung bei IT-Auswertung und technischen Überwachungseinrichtungen
-- Erfurter Kommentar/Müller-Glöge, 24. Aufl. 2024, § 626 BGB Rn. 230 ff.:
-  Zwei-Wochen-Frist des § 626 Abs. 2 BGB; Beginn; Dokumentation
+- Beschäftigtendatenschutz: § 26 BDSG, Art. 5 und 6 DSGVO; Fachliteratur nur mit Nutzerquelle oder verifiziertem Live-Zugriff.
+- § 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmung bei technischen Überwachungseinrichtungen; Rechtsprechung nur frei verifiziert zitieren.
+- § 626 BGB: Zwei-Wochen-Frist, Verdachtskündigung und Anhörung nur mit verifizierter BAG-Rechtsprechung oder Nutzerquelle vertiefen.
 
 ## Ablauf
 
@@ -174,7 +170,7 @@ Bei Ausgaben zu Dokumentenverarbeitung zitieren:
 - Art. 5 Abs. 1 lit. c DSGVO (Datenminimierung)
 - § 626 Abs. 2 BGB (Zwei-Wochen-Frist, Kenntnisdatum)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Gola/Heckmann/Schomerus, BDSG, 13. Aufl. 2022, § 26 Rn. 120 ff.
+- Beschäftigtendatenschutz: § 26 BDSG, Art. 5 und 6 DSGVO; Fachliteratur nur mit Nutzerquelle oder verifiziertem Live-Zugriff.
 
 Detaillierte Auswahlkriterien, Protokolleintrag-Format und
 Deckungsverifikationsregeln befinden sich in der Referenz-Skill

@@ -32,7 +32,7 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- BFH-Rechtsprechung zu Ansaessigkeit bei Doppelwohnsitz: Mittelpunkt der Lebensinteressen pruefbar nach Art. 4 DBA-Oesterreich (aktuelle Entscheidungen in juris abrufen).
+- BFH-Rechtsprechung zu Ansaessigkeit bei Doppelwohnsitz: Mittelpunkt der Lebensinteressen pruefbar nach Art. 4 DBA-Oesterreich (aktuelle Entscheidungen in freier amtlicher Quelle abrufen).
 - BMF-Konsultationsvereinbarung zur Grenzgaengerregelung DBA-Oesterreich, zuletzt aktualisiert 20.12.2023 (BMF-Schreiben IV B 2 — S 1301/22/10002 :001).
 
 ## Land-spezifisches

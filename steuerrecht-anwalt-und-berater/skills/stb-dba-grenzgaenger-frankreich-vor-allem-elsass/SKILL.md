@@ -30,7 +30,7 @@ Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsproto
 - **Konsultationsvereinbarung Home-Office** (Pandemie 2020/2021 und Folgevereinbarungen) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- Aktuelle BFH-Rechtsprechung zum Grenzgaenger DBA-Frankreich in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zum Grenzgaenger DBA-Frankreich in freier amtlicher Quelle abrufen.
 - BMF-Schreiben zur Grenzgaengerregelung DBA-Frankreich — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
 ## Anwendungsvoraussetzungen

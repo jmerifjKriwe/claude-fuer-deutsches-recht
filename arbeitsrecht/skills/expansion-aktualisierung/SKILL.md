@@ -51,13 +51,9 @@ sind und der Tracker aktualisiert werden soll.
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-- Schüren/Hamann, AÜG, 5. Aufl. 2022, § 1 Abs. 1b Rn. 10 ff.:
-  Fristberechnung und Unterbrechungsregeln bei der 18-Monats-Grenze
-- Erfurter Kommentar/Wank, 24. Aufl. 2024, § 611a BGB Rn. 80 ff.:
-  Folgen einer Umklassifizierung als Arbeitnehmer
-- Rieble/Junker, Münchener Handbuch zum Arbeitsrecht, Bd. 1, 5. Aufl. 2021,
-  § 19 Rn. 22 ff.: Statusänderungen in laufenden grenzüberschreitenden
-  Projekten
+- AÜG: Erlaubnispflicht, Höchstüberlassungsdauer und Equal Pay nach Gesetz, Tariftext und frei verifizierter Rechtsprechung prüfen.
+- Arbeitnehmerstatus: § 611a BGB, § 7a SGB IV und frei verifizierte BAG-/BSG-Rechtsprechung; keine Kommentarzitate aus Modellwissen.
+- Grenzüberschreitende Arbeitsverhältnisse: Art. 8 Rom I-VO, AÜG, Entsende-/SV-Regeln und amtliche Quellen prüfen; keine Handbuchzitate aus Modellwissen.
 
 ## Ablauf
 

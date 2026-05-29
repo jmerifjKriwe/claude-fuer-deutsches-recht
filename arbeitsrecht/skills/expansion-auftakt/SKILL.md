@@ -48,10 +48,10 @@ Auslöser: "erste Einstellung in Spanien", "Expansion nach Polen",
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-- Erfurter Kommentar/Wank, 24. Aufl. 2024, § 611a BGB Rn. 1 ff.: Arbeitnehmerbegriff, Weisungsgebundenheit als zentrales Merkmal
-- Schüren/Hamann, AÜG, 5. Aufl. 2022, § 1 Rn. 50 ff.: Erlaubnispflicht und Folgen unerlaubter Arbeitnehmerüberlassung
-- Thüsing, Leiharbeitsrecht, 4. Aufl. 2023, § 8 AÜG Rn. 12 ff.: Equal-Pay-Grundsatz und Ausnahmen durch TV
-- Rieble/Junker (Hrsg.), Münchener Handbuch zum Arbeitsrecht, Bd. 1, 5. Aufl. 2021, § 19 Rn. 5 ff.: Grenzüberschreitende Arbeitsverhältnisse
+- Arbeitnehmerstatus: § 611a BGB, § 7a SGB IV und frei verifizierte BAG-/BSG-Rechtsprechung; keine Kommentarzitate aus Modellwissen.
+- AÜG: Erlaubnispflicht, Höchstüberlassungsdauer und Equal Pay nach Gesetz, Tariftext und frei verifizierter Rechtsprechung prüfen.
+- AÜG/Equal Pay: Gesetz, Tariftext und freie Rechtsprechung nutzen; Fachliteratur nur mit Nutzerquelle.
+- Grenzüberschreitende Arbeitsverhältnisse: Art. 8 Rom I-VO, AÜG, Entsende-/SV-Regeln und amtliche Quellen prüfen; keine Handbuchzitate aus Modellwissen.
 
 ## Ablauf
 
@@ -161,6 +161,6 @@ Jede Ausgabe dieser Skill muss bei Structural-Empfehlungen zitieren:
 - § 7 SGB IV (Scheinselbständigkeit), §§ 1, 8, 10 AÜG
 - Art. 8 Rom I-VO bei grenzüberschreitenden Konstellationen
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Schüren/Hamann, AÜG, 5. Aufl. 2022, wenn AÜG-Erlaubnis relevant ist
+- AÜG: Erlaubnispflicht, Höchstüberlassungsdauer und Equal Pay nach Gesetz, Tariftext und frei verifizierter Rechtsprechung prüfen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

@@ -37,7 +37,7 @@ Deutsche Vergueterschuldner (Kapitalgesellschaften, Auftraggeber, Lizenznehmer) 
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Folge: § 50d Abs. 3 EStG mit Wirkung 2021 neu gefasst durch AbzStEntModG (BGBl. 2021 I S. 1259) — aktuellen Stand der Folgeregelungen im BMF-Veroeffentlichungsverzeichnis pruefen.
-- Aktuelle BFH-Rechtsprechung zu Voraussetzungen der Freistellungsbescheinigung in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zu Voraussetzungen der Freistellungsbescheinigung in freier amtlicher Quelle abrufen.
 - BMF-Schreiben zur Anwendung § 50d Abs. 3 EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 - BMF-Schreiben zu § 50j EStG (Cum-Cum) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 

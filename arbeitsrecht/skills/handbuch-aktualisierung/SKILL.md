@@ -211,6 +211,6 @@ Jede Ausgabe dieser Skill muss bei mitbestimmungsrelevanten Änderungen zitieren
 - § 2 NachwG (Nachweispflicht)
 - §§ 305 ff. BGB (AGB-Kontrolle)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Erfurter Kommentar/Kania, 24. Aufl. 2024, § 87 BetrVG
+- § 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmung bei technischen Überwachungseinrichtungen; Rechtsprechung nur frei verifiziert zitieren.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

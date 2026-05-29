@@ -35,7 +35,7 @@ Dividenden grenzueberschreitend gezahlt: Quellenstaat behaelt Quellensteuer ein 
 ### Leitentscheidungen und BMF-Schreiben
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BVerfG-Folgewirkungen, AbzStEntModG-Reform 2021.
-- Aktuelle BFH-Rechtsprechung zu Schachtelvoraussetzungen in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zu Schachtelvoraussetzungen in freier amtlicher Quelle abrufen.
 - BMF-Schreiben zu § 43b EStG / Mutter-Tochter-Richtlinie — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 - BMF-Schreiben zu § 50j EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 

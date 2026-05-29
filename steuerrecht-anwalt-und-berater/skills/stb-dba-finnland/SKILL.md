@@ -32,7 +32,7 @@ Das DBA-Finnland wurde 2016 neu gefasst (Unterzeichnung 19.02.2016, BGBl. 2017 I
 - **MLI**: Deutschland und Finnland haben das MLI unterzeichnet und ratifiziert. Aktuellen MLI-Synthesetext im BMF-Verzeichnis pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- Aktuelle BFH-Rechtsprechung zum DBA-Finnland in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zum DBA-Finnland in freier amtlicher Quelle abrufen.
 
 ## Land-spezifisches
 

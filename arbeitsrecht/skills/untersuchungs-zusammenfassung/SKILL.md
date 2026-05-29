@@ -58,15 +58,9 @@ soll, die nicht den vollständigen Vermerk erhalten darf oder soll.
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-- Erfurter Kommentar/Kiel, 24. Aufl. 2024, § 102 BetrVG Rn. 50 ff.:
-  Inhalt und Anforderungen der BR-Anhörung; Folgen unvollständiger Mitteilung;
-  Theorie der subjektiven Determinierung
-- Gola/Heckmann/Schomerus, BDSG, 13. Aufl. 2022, § 26 Rn. 150 ff.:
-  Weitergabe von Untersuchungsdaten an betriebsinterne Stellen;
-  Zweckbindung und Datenminimierung
-- Bauer/Krieger/Günther, AGG, 5. Aufl. 2022, § 12 Rn. 45 ff.:
-  Dokumentation der Untersuchungsergebnisse als Enthaftungsgrundlage;
-  Anforderungen an die Schlussfolgerungen
+- § 102 BetrVG: Betriebsratsanhörung nach Gesetz und frei verifizierter Rechtsprechung prüfen; keine Kommentarzitate aus Modellwissen.
+- Beschäftigtendatenschutz: § 26 BDSG, Art. 5 und 6 DSGVO; Fachliteratur nur mit Nutzerquelle oder verifiziertem Live-Zugriff.
+- AGG: §§ 12, 15, 22 AGG anhand Gesetz, Nutzerquelle und frei verifizierter Rechtsprechung prüfen.
 
 ## Ablauf
 
@@ -206,10 +200,8 @@ Empfehlung:
 
 Bei allen Ausgaben zitieren (zielgruppenspezifisch):
 
-- Bei HR-Zusammenfassung für BR-Anhörung: § 102 BetrVG;
-  Erfurter Kommentar/Kiel, 24. Aufl. 2024, § 102 BetrVG Rn. 50 ff.
-- Bei AGG-relevantem Sachverhalt: § 22 AGG;
-  Bauer/Krieger/Günther, AGG, 5. Aufl. 2022, § 12 Rn. 45 ff.
+- Bei HR-Zusammenfassung für BR-Anhörung: § 102 BetrVG und frei verifizierte Rechtsprechung
+- Bei AGG-relevantem Sachverhalt: § 22 AGG und frei verifizierte BAG-Rechtsprechung
 - Bei Hinweisgebersachen: §§ 8, 37 HinSchG
 - Bei GF/AR-Briefing: §§ 93, 116 AktG / § 43 GmbHG;
   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

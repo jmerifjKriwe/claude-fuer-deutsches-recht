@@ -31,7 +31,7 @@ Das DBA-Schweden vom 14.07.1992 (BGBl. 1994 II S. 686, in Kraft 13.10.1994, anwe
 - **MLI**: Deutschland und Schweden haben das MLI unterzeichnet und ratifiziert. Aktuellen MLI-Synthesetext im BMF-Verzeichnis pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- Aktuelle BFH-Rechtsprechung zum DBA-Schweden in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zum DBA-Schweden in freier amtlicher Quelle abrufen.
 
 ## Land-spezifisches
 

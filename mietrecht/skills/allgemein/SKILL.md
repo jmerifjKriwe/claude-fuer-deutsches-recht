@@ -22,7 +22,7 @@ description: "Einstieg, Schnelltriage und Workflow-Routing im Mietrecht-Plugin. 
 
 Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Mietrecht**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
 
-**Plugin-Fokus:** Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitaetsstaedte. Datenerhebung Mieterhoehungs-Widerspruch Mietsenkungsverlangen Nebenkostenprüfung und Erstellung Mieteranfragen Klageentwurf zum Amtsgericht.
+**Plugin-Fokus:** Mietrecht und WEG mit Quellen-Gate `rechtsstand-mai-2026-faktenbank`: Mietpreisbremse, Mieterhöhung, Nebenkosten, Kündigung, Kaution, Steckersolargeräte, virtuelle Eigentümerversammlung, WEG-Beschlussklage und bauliche Veränderungen. Mietspiegel nur aus amtlichen Quellen pro Bundesland/Top- und Universitätsstadt.
 
 ### 0. Stummer Upload — Material ohne Begleittext
 
@@ -84,7 +84,7 @@ Arbeite danach in dieser Reihenfolge:
 - Nenne nie nur einen Skillnamen. Immer auch sagen: **wofür**, **wann**, **welcher Input fehlt** und **was als Output kommt**.
 - Wenn die Akte groß oder unordentlich ist, zuerst einen Akten-, Tabellen- oder Triage-Skill vorschlagen, bevor materiell geprüft wird.
 - Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
-- Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
+- Wenn Rechtslage, Rechtsprechung, Mietspiegel oder Landesverordnung aktuell sein kann, zuerst `rechtsstand-mai-2026-faktenbank` laden und danach Quellen-/Aktualitätsprüfung einplanen.
 - Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Spezial-Skill.
 
 ### 4. Antwortformat für den Einstieg
@@ -127,6 +127,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `mietspiegel-quellen` | Operationalisiert die Prüfung der ortsueblichen Vergleichsmiete und der Mietpreisbremse anhand der mitgelieferten Referenz references/mietspiegel-quellen.md. Nutze diesen Skill, wenn für eine konkrete Adresse die… |
 | `nebenkostenabrechnung-erstellen` | Vermieter- und Hausverwaltungssicht — Workflow für rechtssichere Betriebskostenabrechnungen nach § 556 BGB und BetrKV. Deckt Abrechnungszeitraum Zugangsfrist (zwoelf Monate) Umlagefähigkeit Verteilerschluessel… |
 | `nebenkostenabrechnung-pruefen` | Mietersicht — prüfe eine Betriebskostenabrechnung auf Form (§ 556 Abs. 3 BGB) Frist (Zugang innerhalb von zwoelf Monaten nach Abrechnungszeitraum) Umlagefähigkeit nach BetrKV Verteilerschluessel rechnerische… |
+| `rechtsstand-mai-2026-faktenbank` | Quellen-Gate für aktuelle Mietrechts- und WEG-Fragen: Mietpreisbremse, Modernisierung, Steckersolargeräte, virtuelle Eigentümerversammlung, Verwalterabberufung, bauliche Veränderungen und BGH-/Normquellen. |
 | `weg-beschluss-anfechten` | Prüfraster für die Beschlussanfechtung in der Wohnungseigentuemergemeinschaft nach §§ 44 ff. WEG-Reform 2020. Beschlussklage Anfechtungsklage Nichtigkeitsklage Feststellungsklage. Prüfung formelle Maengel (Ladung… |
 
 ## Worum geht es?

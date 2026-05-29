@@ -92,10 +92,10 @@ Bei einem unliebsamen WEG-Beschluss prüfen, ob Anfechtungs- oder Nichtigkeitskl
 
 ### Inhaltskontrolle baulicher Veränderungen § 20 WEG
 
-- **Bauliche Veränderung** doppelt qualifizierte Mehrheit
-- **Modernisierung** mehrheitlich beschließbar wenn nicht grundlegend Eigentum verändert
-- **Erhaltung** mehrheitlich
-- **Veränderungen mit besonderem Beeinträchtigungs-Risiko** Einstimmigkeit
+- **Bauliche Veränderung**: Beschlusskompetenz und Gestattung nach § 20 WEG zunächst von Kostenfolge § 21 WEG trennen.
+- **Einfache Mehrheit** genügt grundsätzlich für den Beschluss nach § 20 Abs. 1 WEG; privilegierte Maßnahmen nach § 20 Abs. 2 WEG geben dem einzelnen Eigentümer einen Anspruch auf angemessene Gestattung.
+- **Grenze § 20 Abs. 4 WEG**: keine grundlegende Umgestaltung und keine unbillige Benachteiligung einzelner Eigentümer.
+- **Kosten**: Wer trägt, richtet sich nicht automatisch nach der Beschlussmehrheit; § 21 WEG separat prüfen.
 
 ### Hausgeld und Wirtschaftsplan § 28 WEG
 
@@ -122,7 +122,7 @@ Bei einem unliebsamen WEG-Beschluss prüfen, ob Anfechtungs- oder Nichtigkeitskl
 ### Verwalter
 
 - **Bestellung** § 26 WEG (Beschluss)
-- **Abberufung** § 26 Abs. 3 WEG nur bei wichtigem Grund
+- **Abberufung** § 26 Abs. 3 WEG: jederzeit möglich; der Verwaltervertrag endet spätestens sechs Monate nach Abberufung. Die alte Formel "nur bei wichtigem Grund" nicht mehr verwenden.
 - **Verwaltervertrag** zivilrechtliche Beziehung Gemeinschaft / Verwalter
 - **Vergütung** und Pflichten
 
@@ -150,8 +150,8 @@ Bei einem unliebsamen WEG-Beschluss prüfen, ob Anfechtungs- oder Nichtigkeitskl
 
 ### Sachlich
 
-- AG bei Streitwert bis EUR 10000 (Streitwertgrenze 2024)
-- LG ab EUR 10000
+- Erstinstanzlich grundsätzlich Amtsgericht in Wohnungseigentumssachen nach §§ 43 ff. WEG.
+- Nicht schematisch nach allgemeiner Streitwertlogik zum Landgericht springen; Rechtsmittelzuständigkeit und Besonderheiten gesondert prüfen.
 
 ### Örtlich
 
@@ -180,9 +180,7 @@ Bei einem unliebsamen WEG-Beschluss prüfen, ob Anfechtungs- oder Nichtigkeitskl
 - WEG §§ 5 9a 14 16 19 20 24 25 26 28 29 43 44 45
 - BGB §§ 134 138 242
 - GKG § 49a
-- BGH V. Zivilsenat
-- Bärmann WEG
-- Hügel/Elzer WEG
+- BGH V. Zivilsenat nur mit Datum, Aktenzeichen und frei prüfbarer Quelle
 
 ## Aktuelle Rechtsprechung — Leitsaetze (Stand 05/2026, verifiziert dejure.org)
 

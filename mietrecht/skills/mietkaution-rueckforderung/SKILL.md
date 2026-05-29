@@ -216,9 +216,7 @@ Mit freundlichen Grüßen
 - BGB §§ 538 280 286 551 566a
 - ZPO §§ 29a 689 ff. (Mahnverfahren)
 - GVG § 23
-- BGH VIII. Zivilsenat
-- Schmidt-Futterer Mietrecht
-- Sternel Mietrecht aktuell
+- BGH VIII. Zivilsenat nur mit Datum, Aktenzeichen und frei prüfbarer Quelle
 
 ---
 

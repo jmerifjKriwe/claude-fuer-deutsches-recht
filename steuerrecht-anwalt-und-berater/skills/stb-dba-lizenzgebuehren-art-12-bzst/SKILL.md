@@ -33,8 +33,8 @@ Lizenzgebuehren werden nach OECD-MA grundsaetzlich im Wohnsitzstaat des Glaeubig
 - **DBA** je Vertragsstaat — Hoechstsaetze Art. 12.
 
 ### Leitentscheidungen und BMF-Schreiben
-- Aktuelle BFH-Rechtsprechung zu Lizenzgebuehren-Quellensteuer in juris abrufen.
-- Aktuelle BFH-Rechtsprechung zu Irland-Lizenzgebuehren in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zu Lizenzgebuehren-Quellensteuer in freier amtlicher Quelle abrufen.
+- Aktuelle BFH-Rechtsprechung zu Irland-Lizenzgebuehren in freier amtlicher Quelle abrufen.
 - BMF-Schreiben zu § 4j EStG (Lizenzschranke) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 - BMF-Schreiben zu § 50g EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
@@ -116,6 +116,6 @@ Lizenzgebuehren werden nach OECD-MA grundsaetzlich im Wohnsitzstaat des Glaeubig
 
 ## Quellen und Updates
 
-Stand: 05/2026. Art. 12 OECD-MA. § 50a, § 50c, § 50d Abs. 3, § 50g EStG. § 4j EStG. ZinsLizenzRL 2003/49/EG. DBA-spezifische Hoechstsaetze, ZinsLizenzRL-Voraussetzungen und § 4j EStG-Anwendung im BMF-Veroeffentlichungsverzeichnis und juris abrufen.
+Stand: 05/2026. Art. 12 OECD-MA. § 50a, § 50c, § 50d Abs. 3, § 50g EStG. § 4j EStG. ZinsLizenzRL 2003/49/EG. DBA-spezifische Hoechstsaetze, ZinsLizenzRL-Voraussetzungen und § 4j EStG-Anwendung im BMF-Veroeffentlichungsverzeichnis und freier amtlicher Quelle abrufen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: 0 belegt (alle Az nicht belegbar), 6 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->

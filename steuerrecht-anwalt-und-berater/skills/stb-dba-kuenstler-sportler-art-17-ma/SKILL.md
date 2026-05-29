@@ -30,8 +30,8 @@ Art. 17 OECD-MA weicht systematisch von den uebrigen Verteilungsartikeln ab: Ein
 - Konkrete DBA-Artikel: in den meisten deutschen DBA Art. 17 (Sondervorschrift); manchmal niedrigere Schwelle (z.B. 11.000 EUR Bagatellklausel) — konkret im DBA-Text pruefen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- Aktuelle BFH-Rechtsprechung zu § 50a-Steuerabzug bei Kuenstlern in juris abrufen.
-- Aktuelle BFH-Rechtsprechung zu Star-Company-Konstellationen in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zu § 50a-Steuerabzug bei Kuenstlern in freier amtlicher Quelle abrufen.
+- Aktuelle BFH-Rechtsprechung zu Star-Company-Konstellationen in freier amtlicher Quelle abrufen.
 - BMF-Schreiben zu § 50a EStG-Anwendung — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
 ## Anwendungsvoraussetzungen
@@ -99,6 +99,6 @@ Art. 17 OECD-MA weicht systematisch von den uebrigen Verteilungsartikeln ab: Ein
 
 ## Quellen und Updates
 
-Stand: 05/2026. Art. 17 OECD-MA. § 50a, § 50c, § 50d EStG. Konkrete Quellensteuer-Saetze nach § 50a EStG, Bagatellklauseln in einzelnen DBA und aktuelle BMF-Schreiben zur Anwendung im BMF-Veroeffentlichungsverzeichnis und juris abrufen.
+Stand: 05/2026. Art. 17 OECD-MA. § 50a, § 50c, § 50d EStG. Konkrete Quellensteuer-Saetze nach § 50a EStG, Bagatellklauseln in einzelnen DBA und aktuelle BMF-Schreiben zur Anwendung im BMF-Veroeffentlichungsverzeichnis und freier amtlicher Quelle abrufen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: 0 belegt (alle Az nicht belegbar), 6 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->

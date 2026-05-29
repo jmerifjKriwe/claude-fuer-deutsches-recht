@@ -32,9 +32,9 @@ Art. 18 OECD-MA gibt grundsaetzlich dem **Wohnsitzstaat** das Besteuerungsrecht 
 - **Alterseinkuenftegesetz 2005** — schrittweise nachgelagerte Besteuerung.
 
 ### Leitentscheidungen und BMF-Schreiben
-- Aktuelle BFH-Rechtsprechung zur nachgelagerten Besteuerung von Renten in juris abrufen.
-- Aktuelle BFH-Rechtsprechung zu DBA-Spanien-Renten in juris abrufen.
-- Aktuelle BFH-Rechtsprechung zu DBA-Niederlande-Pensionen in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zur nachgelagerten Besteuerung von Renten in freier amtlicher Quelle abrufen.
+- Aktuelle BFH-Rechtsprechung zu DBA-Spanien-Renten in freier amtlicher Quelle abrufen.
+- Aktuelle BFH-Rechtsprechung zu DBA-Niederlande-Pensionen in freier amtlicher Quelle abrufen.
 - BMF-Schreiben zur Anwendung Art. 18/19 DBA — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
 ## Rentenarten und DBA-Behandlung (Uebersicht — alle Saetze und Klauseln konkret im jeweiligen DBA-Text pruefen)

@@ -31,7 +31,7 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- Aktuelle BFH-Rechtsprechung zu DBA-Belgien in juris abrufen.
+- Aktuelle BFH-Rechtsprechung zu DBA-Belgien in freier amtlicher Quelle abrufen.
 - BMF-Schreiben zu DBA Belgien — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis pruefen.
 
 ## Land-spezifisches

@@ -101,7 +101,7 @@ Die Eigentümerversammlung beschließt:
 
 1. Die bestehende Heizungsanlage (Baujahr [Jahr]) wird durch
    eine Luft-Wasser-Wärmepumpe [Marke, Modell] ersetzt.
-   
+
 2. Der Auftrag wird an die Firma [Handwerker] zum Angebots-
    preis von EUR [Betrag] (Anlage 1: Kostenvoranschlag) erteilt.
 
@@ -213,11 +213,12 @@ Hinweis auf Sonderkündigungsrecht § 555e BGB.
 - GEG §§ 71, 71d, 71f, 5, 79 ff. (i. d. F. 2024)
 - WEG §§ 19, 20, 21, 44, 45
 - BGB §§ 555b–555e, 559–559b
-- CO2KostAufG (Aufteilung der CO2-Kosten zwischen Vermieter und Mieter; in Kraft 01.01.2023, Stufenmodell auch fuer Nichtwohngebaeude ab 2025)
+- CO2KostAufG: Wohngebäude nach Stufenmodell (§§ 5 bis 7); Nichtwohngebäude aktuell nach § 8 Abs. 1 und 2 mit hälftiger Aufteilung bzw. maximal 50 Prozent Mieteranteil. § 8 Abs. 4 und die Evaluation 04/2026 begründen noch kein verbindliches Stufenmodell für Nichtwohngebäude.
 - Verifizierte BGH-Rechtsprechung (Stand 05/2026):
   - BGH, Urt. v. 14.02.2025 – V ZR 86/24 (Beschlussersetzungsklage Vorbefassung)
-  - BGH, Urt. v. 28.03.2025 – V ZR 105/24 (Klimaanlage / unbillige Benachteiligung): https://www.anwalt24.de/urteile/bgh/2025-03-28/v-zr-105_24
+  - BGH, Urt. v. 28.03.2025 – V ZR 105/24 (Klimaanlage / unbillige Benachteiligung): https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Gericht=bgh&anz=1&nr=141426&pos=0
   - BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23 (Aenderung Kostenverteilung): https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
 - Weitere Rechtsprechung vor Verwendung live ueber dejure.org/openjur.de/bundesgerichtshof.de pruefen.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BAFA-Förderrichtlinie BEG Einzelmaßnahmen 2024
 - TA Lärm (Technische Anleitung zum Schutz gegen Lärm)
