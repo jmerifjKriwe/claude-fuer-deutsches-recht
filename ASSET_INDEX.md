@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v50.8.1 Word Legal AI ohne Makro-/VBA-Skill
+**Stand:** v51.0.0 — Welle 1 Testakten (arbeitsrecht/medizinrecht/familienrecht/erbrecht)
 
 ## Asset-Typen
 
@@ -145,7 +145,9 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 
 | Asset | Inhalt |
 | --- | --- |
+| `testakte-arbeitsrecht-kuendigungsdrama-koerber-werk.zip` | siehe `testakten/arbeitsrecht-kuendigungsdrama-koerber-werk/` |
 | `testakte-arbeitszeugnis-analyse-bluehendes-leben.zip` | siehe `testakten/arbeitszeugnis-analyse-bluehendes-leben/` |
+| `testakte-arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum.zip` | siehe `testakten/arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum/` |
 | `testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip` | siehe `testakten/aussenwirtschaft-zoll-sanktionen-globalmaschinen/` |
 | `testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip` | siehe `testakten/bav-strategie-konzern-meissner-rheinwerk-ag/` |
 | `testakte-bebauungsplan-augsburg-bahnhofsareal.zip` | siehe `testakten/bebauungsplan-augsburg-bahnhofsareal/` |
@@ -160,6 +162,7 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-dsa-dma-bayrische-baustube-meissner.zip` | siehe `testakten/dsa-dma-bayrische-baustube-meissner/` |
 | `testakte-einfache-leichte-sprache-jura-mandantenbrief.zip` | siehe `testakten/einfache-leichte-sprache-jura-mandantenbrief/` |
 | `testakte-energierecht-stadtwerke-quartier.zip` | siehe `testakten/energierecht-stadtwerke-quartier/` |
+| `testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip` | siehe `testakten/erbstreit-krypto-multisig-edelmann-stuttgart/` |
 | `testakte-europarecht-kompass-beihilfe-richtlinie.zip` | siehe `testakten/europarecht-kompass-beihilfe-richtlinie/` |
 | `testakte-fluggastrechte-familie-braeutigam.zip` | siehe `testakten/fluggastrechte-familie-braeutigam/` |
 | `testakte-fortbestehensprognose-paragrafix-gmbh.zip` | siehe `testakten/fortbestehensprognose-paragrafix-gmbh/` |
@@ -190,6 +193,7 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-nachbarschaftsstreit-horrorfall-rosengarten.zip` | siehe `testakten/nachbarschaftsstreit-horrorfall-rosengarten/` |
 | `testakte-phishing-vorfall-mayer-sparkasse-berlin.zip` | siehe `testakten/phishing-vorfall-mayer-sparkasse-berlin/` |
 | `testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip` | siehe `testakten/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger/` |
+| `testakte-scheidung-trennungsdrama-wagenknecht-luetzelberg.zip` | siehe `testakten/scheidung-trennungsdrama-wagenknecht-luetzelberg/` |
 | `testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip` | siehe `testakten/schriftform-maklervertrag-muenchen-eheleute-haspelbeck/` |
 | `testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip` | siehe `testakten/schriftform-mietkuendigung-bielefeld-online-pferdedrescher/` |
 | `testakte-selbstvertreter-amtsgericht-kuechentisch-kaufpreis.zip` | siehe `testakten/selbstvertreter-amtsgericht-kuechentisch-kaufpreis/` |
@@ -232,4 +236,4 @@ curl -s "https://api.github.com/repos/Klotzkette/claude-fuer-deutsches-recht/rel
   | python3 -c "import json,sys; d=json.load(sys.stdin); print('Tag:', d['tag_name']); print('Assets:', len(d['assets'])); [print(' -', a['name']) for a in d['assets']]"
 ```
 
-Erwartet für `v50.6.1` und `latest`: 175 Assets, davon 108 Plugin-ZIPs, 63 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).
+Erwartet für `v51.0.0` und `latest`: 179 Assets, davon 108 Plugin-ZIPs, 67 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).
