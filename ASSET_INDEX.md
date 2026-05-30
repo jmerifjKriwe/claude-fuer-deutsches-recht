@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v51.0.0 — Welle 1+2 Testakten (Arbeitsrecht, Medizinrecht, Familienrecht, Erbrecht, Strafrecht, Verkehrsrecht, IT-Recht, Mietrecht, Bankrecht, Sozialrecht)
+**Stand:** v51.0.0 — Welle 1-3 Testakten (Arbeit/Medizin/Familie/Erbe/Straf/Verkehr/IT/Mietrecht/Bank/Sozial/Bau/Insolvenz/Urheber/Vergabe/Verwaltung/Versicherung)
 
 ## Asset-Typen
 
@@ -156,6 +156,7 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-betreuung-hildegard-sauer.zip` | siehe `testakten/betreuung-hildegard-sauer/` |
 | `testakte-betreuung-schmalfeld-kontodaten-vertraege.zip` | siehe `testakten/betreuung-schmalfeld-kontodaten-vertraege/` |
 | `testakte-bgb-at-altfraenkische-werkstatt.zip` | siehe `testakten/bgb-at-altfraenkische-werkstatt/` |
+| `testakte-bu-deckungsklage-pflegekraft-vogelweide-aachen.zip` | siehe `testakten/bu-deckungsklage-pflegekraft-vogelweide-aachen/` |
 | `testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip` | siehe `testakten/bvg-widerspruchsstelle-abschleppen-mobg/` |
 | `testakte-common-law-kompass-crossborder-contract.zip` | siehe `testakten/common-law-kompass-crossborder-contract/` |
 | `testakte-cyber-vorfall-ransomware-frischetrans-mainz.zip` | siehe `testakten/cyber-vorfall-ransomware-frischetrans-mainz/` |
@@ -180,9 +181,11 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip` | siehe `testakten/insolvenzplan-starug-planwerkstatt-metallbau-hansa/` |
 | `testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip` | siehe `testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/` |
 | `testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip` | siehe `testakten/insolvenzverwaltung-nordlicht-handels-kiel/` |
+| `testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip` | siehe `testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/` |
 | `testakte-jveg-zeugin-berger-lg-tuebingen.zip` | siehe `testakten/jveg-zeugin-berger-lg-tuebingen/` |
 | `testakte-kanzlei-allgemein-alltag.zip` | siehe `testakten/kanzlei-allgemein-alltag/` |
 | `testakte-ki-richtlinie-musterkanzlei.zip` | siehe `testakten/ki-richtlinie-musterkanzlei/` |
+| `testakte-ki-training-tdm-fotografin-windgassen-hamburg.zip` | siehe `testakten/ki-training-tdm-fotografin-windgassen-hamburg/` |
 | `testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip` | siehe `testakten/ki-vo-konformitaetsbescheinigung-bewerberpilot/` |
 | `testakte-krisenfrueherkennung-starug-vier-varianten.zip` | siehe `testakten/krisenfrueherkennung-starug-vier-varianten/` |
 | `testakte-kuendigungsschutzklage-weber-techlogix.zip` | siehe `testakten/kuendigungsschutzklage-weber-techlogix/` |
@@ -204,6 +207,7 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag.zip` | siehe `testakten/selbstvertreter-sozialgericht-heizkosten-eilantrag/` |
 | `testakte-solis-vision-x-smartglasses.zip` | siehe `testakten/solis-vision-x-smartglasses/` |
 | `testakte-sozialrecht-rollstuhl-tannenberg.zip` | siehe `testakten/sozialrecht-rollstuhl-tannenberg/` |
+| `testakte-starug-schutzschirm-grossbach-druckguss-erfurt.zip` | siehe `testakten/starug-schutzschirm-grossbach-druckguss-erfurt/` |
 | `testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip` | siehe `testakten/strafbefehl-ladendiebstahl-fahrerflucht/` |
 | `testakte-umweltrecht-industrieanlage-genehmigung.zip` | siehe `testakten/umweltrecht-industrieanlage-genehmigung/` |
 | `testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip` | siehe `testakten/verkehr-infrastrukturrecht-strassenbahn-ladezonen/` |
@@ -214,6 +218,8 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-vollstreckungsmappe-mueller-sparkasse-niederrhein.zip` | siehe `testakten/vollstreckungsmappe-mueller-sparkasse-niederrhein/` |
 | `testakte-wandeldarlehen-beispielcase.zip` | siehe `testakten/wandeldarlehen-beispielcase/` |
 | `testakte-weg-hausverwaltung-hohenzollernhof.zip` | siehe `testakten/weg-hausverwaltung-hohenzollernhof/` |
+| `testakte-werkmangel-kontaminierter-baugrund-saalbau-rosenheim.zip` | siehe `testakten/werkmangel-kontaminierter-baugrund-saalbau-rosenheim/` |
+| `testakte-windpark-drittanfechtung-buergerinitiative-uckermark.zip` | siehe `testakten/windpark-drittanfechtung-buergerinitiative-uckermark/` |
 | `testakte-wirtschaftsstrafsache-uhaft-bankert-frankfurt.zip` | siehe `testakten/wirtschaftsstrafsache-uhaft-bankert-frankfurt/` |
 | `testakte-zwangsverwaltung-friedrichshoefe-berlin.zip` | siehe `testakten/zwangsverwaltung-friedrichshoefe-berlin/` |
 | `testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip` | siehe `testakten/zwangsverwaltung-zvg-mietshaus-parkstrasse/` |
@@ -242,4 +248,4 @@ curl -s "https://api.github.com/repos/Klotzkette/claude-fuer-deutsches-recht/rel
   | python3 -c "import json,sys; d=json.load(sys.stdin); print('Tag:', d['tag_name']); print('Assets:', len(d['assets'])); [print(' -', a['name']) for a in d['assets']]"
 ```
 
-Erwartet für `v51.0.0` und `latest`: 185 Assets, davon 108 Plugin-ZIPs, 73 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).
+Erwartet für `v51.0.0` und `latest`: 191 Assets, davon 108 Plugin-ZIPs, 79 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).
