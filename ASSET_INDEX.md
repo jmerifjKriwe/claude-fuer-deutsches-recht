@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v50.6.0 `juristisches-drafting` genialer mit Defensive Drafting, Term Sheet, Bilingual und Klauselbibliothek
+**Stand:** v50.6.1 Schmalfeld-Betreuungsakte vertieft und Übersichten synchronisiert
 
 ## Asset-Typen
 
@@ -232,4 +232,4 @@ curl -s "https://api.github.com/repos/Klotzkette/claude-fuer-deutsches-recht/rel
   | python3 -c "import json,sys; d=json.load(sys.stdin); print('Tag:', d['tag_name']); print('Assets:', len(d['assets'])); [print(' -', a['name']) for a in d['assets']]"
 ```
 
-Erwartet für `v50.5.2` und `latest`: 175 Assets, davon 108 Plugin-ZIPs, 63 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).
+Erwartet für `v50.6.1` und `latest`: 175 Assets, davon 108 Plugin-ZIPs, 63 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).

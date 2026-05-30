@@ -1,3 +1,25 @@
+# v50.6.1 — Schmalfeld-Betreuungsakte vertieft
+
+Nachlauf zum Testakten-Qualitätssprung: Die Schmalfeld-Akte zur Vermögenssorge/Kontodaten-/Vertragsverdachtsprüfung wurde deutlich lebensnäher ausgebaut und auf den bereits veröffentlichten `v50.6.0`-Stand mit dem erweiterten `juristisches-drafting`-Plugin rebased.
+
+## Änderungen
+
+- `testakten/betreuung-schmalfeld-kontodaten-vertraege/` erweitert:
+  - neue Aktenstücke zu Bankrückfrage, Saldenabgleich, Onlinebanking/pushTAN, Telefonakquise, Haustürkontakten, Gedächtnisprotokollen und nachgereichter Vertragsmappe,
+  - neue EML-Korrespondenz von Bank, Umfeld und Angehörigen,
+  - neue JPEG-Fragmente zu TAN-Umschlag und Seniorenveranstaltung,
+  - neue PDF-Vertragsmappe und Excel-Prüfmatrix für Fristen, Beleglücken, Vertragstypen und Maßnahmen.
+- Schmalfeld-README und Aktenübersicht ent-demoisiert: stärker Arbeitsakte statt Lehrfall, keine pauschale Betrugslogik, bessere Trennung zwischen echter Lebensführung, belegbedürftiger Hilfe, technischen Risiken und wirtschaftlich auffälligen Verträgen.
+- Gesamt-PDF der Schmalfeld-Akte neu erzeugt: 177 Seiten, 19 Quelldateien, inklusive neuer EML-/XLSX-/PDF-/JPEG-Anlagen.
+- Übersichten synchronisiert:
+  - Marketplace top-level `50.6.0` → `50.6.1`,
+  - `SKILLS.md` und `skills-index/` neu generiert,
+  - `juristisches-drafting/README.md` Skill-Überblick auf den neuen 29-Skill-Bestand aktualisiert.
+
+Validatoren: `validate-plugin-structure`, `validate-testakten-gesamt-pdf`, `validate-yaml-frontmatter`, Release-ZIP-Trockenlauf, ZIP-Probe und `git diff --check`.
+
+---
+
 # v50.6.0 — `juristisches-drafting` genialer: Defensive Drafting, Term Sheet, Bilingual, Klauselbibliothek
 
 User-Wunsch: Das Plugin `juristisches-drafting` ist solide, aber spartanisch. Es soll genialer werden für Juristinnen und Juristen, die in Word schreiben. Vier zentrale Lücken wurden geschlossen: fehlende fertige Klauselbausteine, keine defensive Verteidigungs-Heuristik bei Gegenseitenentwürfen, kein Term-Sheet-zu-Vertrag-Workflow und keine bilinguale Drafting-Anleitung.

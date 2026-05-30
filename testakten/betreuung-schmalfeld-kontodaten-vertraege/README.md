@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es zusätzlich als ein einziges, durchsuchbares Gesamt-PD
 
 | Datei | Format | Größe |
 | --- | --- | --- |
-| [`gesamt-pdf/betreuung-schmalfeld-kontodaten-vertraege_gesamt.pdf`](gesamt-pdf/betreuung-schmalfeld-kontodaten-vertraege_gesamt.pdf) | PDF | 376 KB |
+| [`gesamt-pdf/betreuung-schmalfeld-kontodaten-vertraege_gesamt.pdf`](gesamt-pdf/betreuung-schmalfeld-kontodaten-vertraege_gesamt.pdf) | PDF | 739 KB |
 
 Im separaten Akten-ZIP ist das Gesamt-PDF mit enthalten.
 
@@ -29,13 +29,15 @@ Diese Arbeitsakte gehört zum Plugin `betreuungsrecht`, Skill
 ## Fallkern
 
 Herbert Wilhelm Schmalfeld, geboren am 14.03.1941, lebt in Berlin. Die
-Akte simuliert die erste Durchsicht der Vermögenssorge nach Übernahme
+Akte dokumentiert die erste Durchsicht der Vermögenssorge nach Übernahme
 einer Betreuung. Vorliegen:
 
 - Kontoauszüge 2023 bis 2025.
 - Vertrags- und Belegmappe mit Alltagsverträgen, Lotterie, Kontaktportal,
   Fernwartung, Sicherheitssoftware, Vermögensverwaltung, Beteiligung,
   Auslandsimmobilienreservierung und Einzelbelegen.
+- Nachgereichte Bankrückfragen, E-Mails, handschriftliche Fundstücke,
+  Veranstaltungsflyer, Onlinebanking-Hinweise und eine Vertragsprüfmatrix.
 - Strukturierte Verdachtsliste für das Auswertungsskript.
 
 ## Dateien
@@ -48,13 +50,20 @@ einer Betreuung. Vorliegen:
 | `03_verdaechtige_transaktionen.csv` | Manuell kuratierte auffällige Buchungen |
 | `04_vertragsregister_schmalfeld.csv` | Vertrags- und Belegregister |
 | `05_schmalfeld_verdaechtige_transaktionen.json` | Eingabe für das Hilfsskript |
-| `06_risikoauswertung_schmalfeld.json` | Erwartete Skriptauswertung |
+| `06_risikoauswertung_schmalfeld.json` | Referenzauswertung des Hilfsskripts |
 | `07_erstvermerk_betreuungsgericht.md` | Muster für sachlichen Erstvermerk |
 | `08_massnahmenplan.md` | Sofort- und Folgeaufgaben |
 | `09_vertragsauszuege_pruefmappe.md` | Vertragsauszüge, Risikokörbe, Beleglücken und priorisierte Maßnahmen |
-| `originale/` | Originale Beispielunterlagen als ZIP und PDFs |
+| `10_bankrueckfrage_saldenabgleich_und_onlinebanking.md` | Bankrückfrage, TAN-/Onlinebanking-Themen, Saldenabgleich |
+| `11_telefonakquise_chronologie_und_gedaechtnisprotokolle.md` | Telefonakquise, Haustürkontakte, Gesprächsnotizen und Gedächtnisprotokolle |
+| `12_vertragsmappe_nachgereichte_unterlagen.md` | Detailauswertung nachgereichter Vertragsauszüge |
+| `emails/` | EML-Korrespondenz von Bank, Umfeld und Angehörigen |
+| `jpg/` | Foto- und Scanfragmente aus der Wohnungsmappe |
+| `xlsx/pruefmatrix_schmalfeld_vertraege.xlsx` | Vertragsprüfmatrix mit Fristen, Beleglücken und Maßnahmen |
+| `originale/` | Originalunterlagen als PDFs |
+| `gesamt-pdf/` | Zusammengeführtes Gesamt-PDF der Akte |
 
-## Erwarteter Testlauf
+## Auswertung mit Hilfsskript
 
 ```bash
 python betreuungsrecht/scripts/betreuung_konto_vertragscheck.py \
