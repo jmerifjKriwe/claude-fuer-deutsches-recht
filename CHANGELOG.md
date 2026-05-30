@@ -1,3 +1,21 @@
+# v51.1.0 — DFG/Forschungszulage Workflow-Boost
+
+Nachlauf zu den neuen Förderplugins: Claude-Code-Ausbau übernommen und mit einem weiteren Codex-Audit veredelt.
+
+## DFG-Förderantrag
+
+- `allgemein` arbeitet jetzt adaptiv: geführter Modus für Erstantragsteller, Normalmodus, Profi-Red-Team und Rettungsmodus nach Ablehnung.
+- DFG-Kaltstart erzeugt auch aus losen Ideen eine Mini-Roadmap mit Minimalprojekt, Idealprojekt, Lückenliste und 10-Arbeitstage-Plan.
+- Koselleck-Logik korrigiert: mehrere abgeschlossene DFG-Projekte sind starkes Praxisindiz, aber kein behauptetes starres formales Muss.
+- Strategie-Skill ergänzt einen Entscheidungsmotor: minimal förderfähig, optimal wissenschaftlich, Prestige/Vision.
+
+## Forschungszulage
+
+- `allgemein` unterscheidet jetzt Einsteiger, Technikteam, CFO/Steuerberatung, Krisenmodus und Ablehnung/Nachforderung.
+- BSFZ-Projektbeschreibung auf Portalrealität umgestellt: interne Langfassung plus Portaltexte mit Zeichenbudgets nach BSFZ-Leitfaden 2026.
+- Fördercheck behandelt kleine Vorhaben nicht mehr pauschal als unwirtschaftlich; er baut bei Bedarf schlanke Anträge.
+- Bemessungsgrundlagen-Skill präzisiert § 2 Abs. 5 FZulG bei Auftragsforschung und ergänzt eine Datenqualitäts-Ampel.
+
 # v51.0.0 — DFG, Forschungszulage und weltweite DBA-Matrix
 
 User-Wunsch: Zwei neue Förderplugins für DFG-Anträge und Forschungszulage sowie ein deutlich tieferer Ausbau der DBA-Skills im Steuerrechtsplugin.
