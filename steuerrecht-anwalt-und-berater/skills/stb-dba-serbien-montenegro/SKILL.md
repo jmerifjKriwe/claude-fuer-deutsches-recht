@@ -82,6 +82,71 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 - Beteiligungen: ohne EU-MTRL — DBA-Hoechstsaetze.
 - Bei Nachfolgestaaten Bosnien, Nord-Mazedonien: gesondertes DBA pruefen.
 
+## Praktiker-Tipps der alten Hasen
+
+- **Erstattungsverfahren RS/ME → DE-Mandant**: 
+  - Serbien: Antrag bei Poreska uprava Republike Srbije; Online-Portal "ePorezi" (vom Anwender mit aktuellem Stand zu verifizieren). Ansaessigkeitsbescheinigung der Poreska uprava als Anlage.
+  - Montenegro: Antrag bei der Steuerverwaltung Montenegro (Uprava prihoda i carina, UPC). Online-Portal (vom Anwender mit aktuellem Stand zu verifizieren).
+- **Sprache des DBA**: Authentische Textfassungen Deutsch und Serbokroatisch (DBA-Jugoslawien 1987); heutige Textfassungen werden auf Serbisch (kyrillisch) bzw. Montenegrinisch (lateinisch) angewendet. Konsolidierter Text im BMF-Verzeichnis.
+- **Lokaler Berater**: Bei serbischen oder montenegrinischen Gesellschaften, Diaspora-Mandanten und Erbfaellen ist Hinzuziehung eines lokalen Beraters wegen unterschiedlicher Rechtskulturen und Sprachenunterschiede empfehlenswert.
+- **Apostille**: ZWINGEND bei Urkunden zur Verwendung in Drittstaaten Serbien und Montenegro (beide nicht EU). Haager Uebereinkommen 1961 gilt; deutsche Behoerden geben Apostille fuer Inlandsdokumente aus. Konsularische Beglaubigung kann ergaenzend erforderlich sein bei spezifischen Notarurkunden.
+
+## Edge Cases und Was-Pruefer-Triggert
+
+- **Diaspora-Doppelansaessigkeit**: Klassische Konstellation — Familie und Wohnsitz in Serbien/Montenegro, langjaehriger Arbeitsbezug DE, Wochenend-/Saisonpendler. Mittelpunkt Lebensinteressen extrem schwer zu klaeren; Pruefer triggert auf Lebensmittelpunkt-Indizien.
+- **DRV-Auslandsrente Wohnsitz Serbien/Montenegro**: Wohnsitzstaat-Prinzip nach DBA-Jugoslawien 1987 (Art. 18); DRV erfaehrt Wohnsitzwechsel ueber Lebensbescheinigung und kann Auszahlungsverfahren entsprechend anpassen. Beim Pensionsempfaenger oft Erklaerungspflicht in Serbien/Montenegro.
+- **Kein MLI**: weder Serbien noch Montenegro haben MLI ratifiziert — keine PPT-Klausel. Nationales § 50d Abs. 3 EStG und § 42 AO maßgeblich.
+- **EU-Beitrittsperspektive**: Beide Staaten sind EU-Beitrittskandidaten; kuenftiger MTRL- und ZinsLizenzRL-Schutz vorgesehen, aber heute nicht anwendbar.
+- **Nachfolge-Tabelle**: DBA-Jugoslawien gilt fortgeltend nur fuer Serbien (BGBl. 1997 II S. 961) und Montenegro (BGBl. 2011 II S. 745). Bosnien-Herzegowina, Kosovo, Nord-Mazedonien, Slowenien und Kroatien haben eigene DBA-Regelungen — separate Skills pruefen.
+
+## Trade-offs
+
+| Trade-off | Pfad A | Pfad B | Empfehlung |
+|---|---|---|---|
+| Wohnsitz DE behalten vs. Wegzug RS/ME im Ruhestand | DE-Wohnsitz behalten: voller DRV-Bezug, deutsche Besteuerung, DBA klaert nur Doppelbesteuerung | Wegzug RS/ME: Wohnsitzstaat-Besteuerung Rente, oft niedrigerer Steuersatz, aber Lebensbescheinigung an DRV erforderlich | bei Diaspora-Pensionaeren oft Wohnsitz-Wechsel attraktiv; Wegzugsbesteuerung § 6 AStG bei Anteilen pruefen (Drittland — Stundung schwer) |
+| Beteiligung an RS/ME-Gesellschaft direkt vs. via EU-Holding | direkt: DBA-Hoechstsatz 15 Prozent Dividenden | via EU-Holding (z.B. SI, HU): EU-MTRL ggf. greift nicht in RS/ME, aber Treaty-Network | RS/ME-Holding meist nicht treaty-shopping-vorteilhaft; direkt mit DBA-Hoechstsatz |
+| Bauausfuehrung RS/ME unter 12 Monate | unter 12 Monate: keine BS, Unternehmensgewinne Art. 7 ausschliesslich Ansaessigkeitsstaat | ueber 12 Monate: BS mit RS/ME-Besteuerung | bei Annaeherung an 12 Monate sauber dokumentieren; Pruefer addiert Folgeauftraege beim selben Bauherrn |
+
+## Berechnungsbeispiel
+
+Diaspora-Mandant mit DRV-Rente 18.000 EUR/Jahr und Wohnsitz Serbien:
+
+- DBA-Jugoslawien 1987 Art. 18: Wohnsitzstaat-Prinzip — Serbien besteuert.
+- DE-DRV-Auszahlung erfolgt brutto auf serbisches Konto; DE-FA bei beschraenkter Steuerpflicht: bei DRV-Auslandsrente kann DE-Besteuerungsrecht nach § 49 Abs. 1 Nr. 7 EStG eingreifen, aber DBA-Vorrang.
+- Serbische Besteuerung Renten: nach serbischem Recht regelmaessig in begrenztem Umfang steuerpflichtig (vom Anwender mit aktuellem serbischem Steuerrecht zu verifizieren) — oft niedrigere Belastung als in DE.
+- Lebensbescheinigung jaehrlich an DRV uebermitteln.
+
+Achtung: Bei Wohnsitzwechsel DE → RS/ME im Ruhestand ist auch die Krankenversicherung (Auslandskrankenversicherung erforderlich) und die Sozialleistungsbezuege (Wohnungswechsel) zu klaeren — DBA loest nur Steuerfragen.
+
+## Mandatsablauf in der Praxis
+
+1. **Aufnahme**: Diaspora-Konstellation, Wohnsitze, DRV-Bezug, Bauausfuehrung, Beteiligungen.
+2. **Strukturierung**: Mittelpunkt Lebensinteressen pruefen; bei Wegzug Wegzugsbesteuerung § 6 AStG (RS/ME Drittland).
+3. **Antraege**: Ansaessigkeitsbescheinigung Poreska uprava (RS) bzw. Steuerverwaltung Montenegro; BZSt-Erstattung (oder Vorab-Freistellung).
+4. **Laufende Compliance**: RS/ME-Erklaerung jaehrlich (oft formalistisch); DE-Erklaerung mit Anrechnung; bei Pensionaeren mit Wohnsitz RS/ME Lebensbescheinigung an DRV.
+5. **Audit-Vorbereitung**: RS/ME-Pruefer beschraenkte Kapazitaeten; DE-FA-Pruefung Tie-Breaker und Mittelpunkt Lebensinteressen-Indizien.
+
+## Ausgabeformat fuer Mandanten-Memo Serbien/Montenegro
+
+Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
+
+1. **Sachverhalt**: Diaspora-Konstellation, Wohnsitze, DRV-Bezug, Zeitraum.
+2. **Frage(n)**: Besteuerungsrecht Rente/Beteiligung, Wohnsitzstaat-Pruefung, EU-Beitrittsperspektive.
+3. **Kurzantwort**: DBA-Jugoslawien 1987 (fortgeltend) Art. X regelt das Besteuerungsrecht; Anrechnungsmethode in DE.
+4. **Rechtliche Bewertung**:
+   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-Jugoslawien 1987; Nachfolge-Bekanntmachungen).
+   - Mittelpunkt Lebensinteressen bei Diaspora pruefen.
+   - Einkunftsart (DRV-Rente Art. 18, Beteiligung Art. 11 DBA-Jugoslawien 1987).
+   - Methodenartikel (Anrechnung ueberwiegend).
+   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 49 EStG bei beschraenkter Steuerpflicht).
+5. **Gesamtergebnis** mit Berechnungsbeispiel.
+6. **Risiken / offene Punkte**: aelteres DBA mit roemischen Artikelnummern, kein MLI, EU-Beitrittsperspektive, Apostille bei Urkunden.
+7. **Quellenverzeichnis** (gem. references/zitierweise.md).
+
+## Quellenpflicht
+
+Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Jugoslawien 1987 Fundstellen, Nachfolge-Notenwechsel (Serbien 1997, Montenegro 2011) verbindlich zitieren. Bei DRV-Rente Bescheinigung als Anlage.
+
 ## Querverweise
 
 - `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`, `stb-dba-slowenien`, `stb-dba-kroatien`.
