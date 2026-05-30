@@ -549,11 +549,11 @@
     {
       "name": "word-legal-ai-plugin-and-skill-for-german-lawyers",
       "source": "./word-legal-ai-plugin-and-skill-for-german-lawyers",
-      "description": "Word Legal AI Plugin and Skill for German Lawyers: Drafting in Word und Cowork. Vertragsklauseln Schriftsaetze Boilerplate Haftungsbegrenzung Vertragsstrafe NDA Force Majeure AGB Klage Memos Formatvorlagen Redlines Defensive Drafting Term Sheet Bilingual DE-EN Klauselbibliothek 60 Bausteine.",
+      "description": "Word Legal AI for German Lawyers: Kaltstart, Kanzleistil, Word-Finish, Verträge, Schriftsätze, Memos, Redlines, Klauselbibliothek, Defensive Drafting, Term Sheet, DE-EN Bilingual, US/UK Legal Writing und englische Verträge nach deutschem Recht.",
       "author": {
         "name": "Klotzkette"
       },
-      "version": "50.7.0"
+      "version": "50.8.0"
     },
     {
       "name": "jveg-kostenpruefer",
@@ -990,5 +990,5 @@
       "version": "50.0.0"
     }
   ],
-  "version": "50.7.0"
+  "version": "50.8.0"
 }

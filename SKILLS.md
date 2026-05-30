@@ -1,8 +1,8 @@
 # Skill-Gesamtuebersicht
 
-Automatisch generierte Gesamtuebersicht aller **2646 Skills** in **108 Plugins**.
+Automatisch generierte Gesamtuebersicht aller **2656 Skills** in **108 Plugins**.
 
-Stand: `v50.7.0`.
+Stand: `v50.8.0`.
 
 ## ⬇️ Alle Skills auf einmal herunterladen
 
@@ -34,7 +34,7 @@ So bekommt man die komplette Sammlung als ZIP:
 
 **Wichtig:** Wenn irgendwo im Repo ein neuer Skill angelegt wird (also ein neuer Ordner `<plugin>/skills/<skill>/SKILL.md`), erscheint er beim naechsten Lauf von `scripts/generate-skills-md.py` automatisch -- sowohl in dieser Liste als auch auf der jeweiligen Plugin-Detailseite. Es kann also nichts fehlen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 2646 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 2656 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
 
 ## Alle Plugins
 
@@ -102,7 +102,7 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 | **insolvenzrecht** | 16 | [Skills ansehen](skills-index/insolvenzrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzrecht.zip) |
 | **insolvenzverwaltung** | 45 | [Skills ansehen](skills-index/insolvenzverwaltung.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzverwaltung.zip) |
 | **jurastudium** | 23 | [Skills ansehen](skills-index/jurastudium.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/jurastudium.zip) |
-| **word-legal-ai-plugin-and-skill-for-german-lawyers** | 29 | [Skills ansehen](skills-index/word-legal-ai-plugin-and-skill-for-german-lawyers.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/word-legal-ai-plugin-and-skill-for-german-lawyers.zip) |
+| **word-legal-ai-plugin-and-skill-for-german-lawyers** | 39 | [Skills ansehen](skills-index/word-legal-ai-plugin-and-skill-for-german-lawyers.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/word-legal-ai-plugin-and-skill-for-german-lawyers.zip) |
 | **jveg-kostenpruefer** | 20 | [Skills ansehen](skills-index/jveg-kostenpruefer.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/jveg-kostenpruefer.zip) |
 | **kanzlei-allgemein** | 48 | [Skills ansehen](skills-index/kanzlei-allgemein.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kanzlei-allgemein.zip) |
 | **kanzlei-builder-hub** | 13 | [Skills ansehen](skills-index/kanzlei-builder-hub.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kanzlei-builder-hub.zip) |

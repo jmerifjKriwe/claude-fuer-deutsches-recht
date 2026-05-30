@@ -1,3 +1,32 @@
+# v50.8.0 — Word Legal AI: Kaltstart, Kanzleistil, Word-Finish und US/UK-Drafting
+
+Nachlauf zum umbenannten Word-Plugin: Der neue Slug `word-legal-ai-plugin-and-skill-for-german-lawyers` bleibt bestehen, das Plugin wurde aber vom reinen Drafting-Baukasten zu einem geführten Schreibworkflow für deutsche Anwältinnen und Anwälte ausgebaut.
+
+## Workflow
+
+- Neuer Kaltstart mit `kaltstart-drafting-kommandocenter`: maximal fünf Fragen, Mandatsmatrix, Stilprofil und konkrete Skill-Kette statt leerem Start.
+- `orientierung-drafting-triage` erweitert: routet jetzt ausdrücklich nach Dokumenttyp, Stadium, Adressat, Kanzleistil, Sprachraum und Risiko.
+- Neuer Kanzleistil-Check mit `deutscher-kanzleistil-kalibrieren`: Großkanzlei, Boutique, Kleinkanzlei, Inhouse, Gericht/Behörde und US/UK-Korrespondenz.
+
+## Neue Skills
+
+- `word-dokument-finish-und-layout` für Formatvorlagen, Nummerierung, Querverweise, Track Changes, Metadaten, PDF/beA und Versandfassung.
+- `partner-kommentar-umsetzen` für knappe Partnernotizen und Randkommentare.
+- `mandantenmemo-und-partner-update` für Executive Summary, Empfehlung, Risikoampel und nächste Schritte.
+- `argumentationsarchitektur-schreiben` für These, Norm, Tatsache, Beleg, Gegenargument und Rechtsfolge.
+- `schriftsatz-ueberarbeiten-richterlesbar` für Anträge, Ergebnisüberschriften, Beweisangebote, Anlagenverweise und Ton.
+- `us-uk-legal-writing-fuer-deutsche` für englische/amerikanische Legal-Texte aus deutscher Anwaltsperspektive.
+- `englischer-vertrag-deutsches-recht` für englischsprachige Verträge mit deutschem Recht ohne versehentlichen Common-Law-Import.
+- `finaler-writing-quality-gate` als letzte Freigabeampel vor Versand.
+
+## Übersichten und Versionen
+
+- Plugin-Version `50.7.0` → `50.8.0`.
+- Marketplace-Version `50.7.0` → `50.8.0`.
+- Word-Plugin: 29 → 39 Skills.
+- Gesamtbestand: 2646 → 2656 Skills.
+- `SKILLS.md`, `skills-index/`, Plugin-README, `README.md`, `ASSET_INDEX.md` und Testakten-README synchronisiert.
+
 # v50.7.0 — Plugin-Rename: `juristisches-drafting` → `word-legal-ai-plugin-and-skill-for-german-lawyers`
 
 User-Wunsch: Der Plugin-Name soll explizit klarmachen, dass es um Word, Legal AI und deutsche Juristen geht — auch in der Betreffzeile und im Link. Der Anzeigename lautet jetzt "Word Legal AI Plugin and Skill for German Lawyers".
