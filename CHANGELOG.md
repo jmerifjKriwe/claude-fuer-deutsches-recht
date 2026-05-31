@@ -1,3 +1,42 @@
+# v52.1.0 — Sanity-Pass, Bug-Hunt und Versions-Glattzug
+
+Vollstaendiger Repository-Sweep nach v52.0.0 — Validatoren, tote Links, Versions-Drift, CSV-Strukturdaten.
+
+## Bug-Hunt-Ergebnisse
+
+- **9 CSV-Dateien** mit unquotierten Kommas/Semikolons gefixt — alle 87 testakten-CSVs parsen jetzt konsistent (separater Hotfix-PR #166 vor diesem Release).
+- **Tote interne Markdown-Links**: 0 — alle 130+ Aktenordner und 110 Plugin-READMEs sauber.
+- **Verbotene Frontmatter-Keys** (triggers/when_to_use/language/...): 0.
+- **Komma+Zahl-Pattern** in Plugin- und SKILL.md-Descriptions: 0.
+- **Kaputte JSON**: 0.
+
+## Versions-Glattzug
+
+Vor diesem Release hatten die plugin.json-Dateien aller Plugins veraltete Versionsstaende (105 Plugins noch auf 50.0.0, 5 auf gemischten alten Staenden, marketplace.json auf 51.4.0). Jetzt:
+
+- marketplace.json: 51.4.0 → **52.1.0**
+- 110/110 plugin.json: **52.1.0** (alle vereinheitlicht)
+- ASSET_INDEX.md, testakten/README.md, SKILLS.md, 110 skills-index/*.md: Stand v52.1.0
+- README.md Release-Zeile auf v52.1.0
+
+## Sofort-Download-Section
+
+Alle 110 Plugin-READMEs haben weiterhin den `Sofort-Downloads`-Block direkt nach dem H1-Titel. Die Links zeigen auf `/releases/latest/download/` und werden mit dem v52.1.0-Release automatisch auf die neuen Assets aktualisiert.
+
+## Validatoren (alle gruen)
+
+- `validate-plugin-structure` OK
+- `validate-yaml-frontmatter` 0 Fehler, 0 Warnungen
+- `validate-testakten-gesamt-pdf` OK (127 Testakten)
+
+## Counts unveraendert
+
+- **110 Plugins** im Marketplace
+- **127 Testakten** in `testakten/`
+- **2682 Skills** in SKILLS.md
+
+---
+
 # v52.0.0 — Testakten-Veredelung, Praktiker-Tipps und Audit-Fixes
 
 User-Wunsch: Zehn dünne Testakten zu echten Arbeitsakten ausbauen, in DFG- / Forschungszulage- / DBA-Skills die Tipps und Tricks der alten Hasen ergänzen und Codex-Findings reparieren.
