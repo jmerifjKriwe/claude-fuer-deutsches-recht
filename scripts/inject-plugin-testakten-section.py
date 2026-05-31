@@ -3,9 +3,10 @@
 die fuer jede zugeordnete Testakte einen Direktdownload-Link auf das Gesamt-PDF
 (im Repo) UND die Akten-ZIP (aus dem GitHub-Release) anzeigt.
 
-Quelle der Zuordnung: jede testakten/<slug>/README.md, die das Plugin per Backtick
-(`plugin-name`) referenziert. Damit ist die Zuordnung deklarativ und liegt
-in der Akte selbst.
+Quelle der Zuordnung: jede testakten/<slug>/README.md und die globale
+testakten/README.md, soweit dort bestehende Plugin-Namen per Backtick
+(`plugin-name`) referenziert werden. Damit bleiben Einzelakten und zentrale
+Uebersicht gleichermassen massgeblich.
 
 Idempotent ueber HTML-Marker. Position: direkt nach dem H1, vor anderen Sektionen
 und insbesondere vor der bestehenden Installation-Section mit dem Plugin-ZIP.
@@ -30,28 +31,55 @@ RELEASE_BASE = (
 H1_RE = re.compile(r"^# .+$", re.MULTILINE)
 BACKTICK_RE_TPL = r"`{name}`"
 
+# Einzelne ältere Akten nennen Skill- oder Sachgebietsnamen, die fachlich einem
+# bestehenden Plugin entsprechen. Diese Aliase werden nur für die README-
+# Downloadsektionen verwendet; die Akten selbst bleiben unverändert.
+PLUGIN_ALIASES = {
+    "bauplanungsrecht": ["normenkontrolle-bauleitplanung"],
+    "cisg-handelskauf": ["urteilsbauer-relationsmacher"],
+    "dsgvo": ["datenschutzrecht"],
+    "internationales-privatrecht": ["urteilsbauer-relationsmacher"],
+}
+
+
+def add_mapping(
+    mapping: dict[str, set[str]],
+    plugin_names: set[str],
+    slug: str,
+    text: str,
+) -> None:
+    """Fuege alle Plugin-Backticks aus text fuer slug in mapping ein."""
+    tokens = set(re.findall(r"`([^`]+)`", text))
+    for token in tokens:
+        if token in plugin_names:
+            mapping.setdefault(token, set()).add(slug)
+        for alias_target in PLUGIN_ALIASES.get(token, []):
+            if alias_target in plugin_names:
+                mapping.setdefault(alias_target, set()).add(slug)
+
 
 def discover_mapping() -> dict[str, list[str]]:
-    """Lese alle testakten/*/README.md und sammle Plugin->Akten-Verbindungen
-    ueber Backtick-Erwaehnungen `plugin-name`."""
+    """Sammle Plugin->Akten-Verbindungen aus Einzel-README und Gesamtuebersicht."""
     mapping: dict[str, set[str]] = {}
     if not TESTAKTEN_DIR.exists():
         return {}
     marketplace = json.loads(
         (REPO_ROOT / ".claude-plugin" / "marketplace.json").read_text(encoding="utf-8")
     )
-    plugin_names = [p["name"] for p in marketplace["plugins"]]
+    plugin_names = {p["name"] for p in marketplace["plugins"]}
     for sub in sorted(TESTAKTEN_DIR.iterdir()):
         if not sub.is_dir():
             continue
         readme = sub / "README.md"
-        if not readme.exists():
-            continue
-        text = readme.read_text(encoding="utf-8")
-        for name in plugin_names:
-            pat = re.compile(BACKTICK_RE_TPL.format(name=re.escape(name)))
-            if pat.search(text):
-                mapping.setdefault(name, set()).add(sub.name)
+        if readme.exists():
+            add_mapping(mapping, plugin_names, sub.name, readme.read_text(encoding="utf-8"))
+
+    overview = TESTAKTEN_DIR / "README.md"
+    if overview.exists():
+        for line in overview.read_text(encoding="utf-8").splitlines():
+            m = re.match(r"\| \[`([^/]+)/`\]\(\./\1/\) \|.*\| (.*) \|$", line)
+            if m:
+                add_mapping(mapping, plugin_names, m.group(1), m.group(2))
     return {p: sorted(v) for p, v in mapping.items()}
 
 

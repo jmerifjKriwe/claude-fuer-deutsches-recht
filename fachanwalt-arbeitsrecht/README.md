@@ -1,7 +1,5 @@
 # Fachanwalt Arbeitsrecht
 
-
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -17,7 +15,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
-| **Akte: Kündigungsdrama Körber / Steinhoff Präzisionsguss** (`arbeitsrecht-kuendigungsdrama-koerber-werk`) | [Gesamt-PDF lesen](../testakten/arbeitsrecht-kuendigungsdrama-koerber-werk/gesamt-pdf/arbeitsrecht-kuendigungsdrama-koerber-werk_gesamt.pdf) | [`testakte-arbeitsrecht-kuendigungsdrama-koerber-werk.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitsrecht-kuendigungsdrama-koerber-werk.zip) |
+| **Kündigungsdrama Körber / Steinhoff Präzisionsguss** (`arbeitsrecht-kuendigungsdrama-koerber-werk`) | [Gesamt-PDF lesen](../testakten/arbeitsrecht-kuendigungsdrama-koerber-werk/gesamt-pdf/arbeitsrecht-kuendigungsdrama-koerber-werk_gesamt.pdf) | [`testakte-arbeitsrecht-kuendigungsdrama-koerber-werk.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitsrecht-kuendigungsdrama-koerber-werk.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 

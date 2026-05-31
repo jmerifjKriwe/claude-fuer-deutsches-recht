@@ -1,7 +1,5 @@
 # Plugin: Gewerblicher Rechtsschutz
 
-
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -17,7 +15,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
-| **Akte: Patentstreit Vellbruck Medizintechnik ./. TitanOrtho / Bochstaedt — Hüftimplantat Titan EP 3 218 922 B1** (`patent-verletzung-implantat-titan-vellbruck-stuttgart`) | [Gesamt-PDF lesen](../testakten/patent-verletzung-implantat-titan-vellbruck-stuttgart/gesamt-pdf/patent-verletzung-implantat-titan-vellbruck-stuttgart_gesamt.pdf) | [`testakte-patent-verletzung-implantat-titan-vellbruck-stuttgart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-patent-verletzung-implantat-titan-vellbruck-stuttgart.zip) |
+| **Patentstreit Vellbruck Medizintechnik ./. TitanOrtho / Bochstaedt — Hüftimplantat Titan EP 3 218 922 B1** (`patent-verletzung-implantat-titan-vellbruck-stuttgart`) | [Gesamt-PDF lesen](../testakten/patent-verletzung-implantat-titan-vellbruck-stuttgart/gesamt-pdf/patent-verletzung-implantat-titan-vellbruck-stuttgart_gesamt.pdf) | [`testakte-patent-verletzung-implantat-titan-vellbruck-stuttgart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-patent-verletzung-implantat-titan-vellbruck-stuttgart.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 

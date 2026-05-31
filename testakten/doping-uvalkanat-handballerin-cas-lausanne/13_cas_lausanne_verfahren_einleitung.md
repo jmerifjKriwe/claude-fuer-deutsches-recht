@@ -99,7 +99,7 @@ NADA hat 30 Tage zur Einreichung ihrer Answer (Art. R55 CAS Code). WADA als Inte
 
 ### 4.3 Mündliche Verhandlung
 
-Geplant: Oktober 2026 in Lausanne (exakter Termin TBD durch CAS-Registrar). Ort: CAS-Räumlichkeiten, Avenue de Beaumont 2. Dauer: voraussichtlich 1–2 Tage. Sprache: Englisch (mit Simultandolmetschung Deutsch/Englisch auf Antrag bewilligt).
+Geplant: Oktober 2026 in Lausanne; der genaue Termin wird vom CAS-Registrar noch mitgeteilt. Ort: CAS-Räumlichkeiten, Avenue de Beaumont 2. Dauer: voraussichtlich 1–2 Tage. Sprache: Englisch (mit Simultandolmetschung Deutsch/Englisch auf Antrag bewilligt).
 
 ---
 

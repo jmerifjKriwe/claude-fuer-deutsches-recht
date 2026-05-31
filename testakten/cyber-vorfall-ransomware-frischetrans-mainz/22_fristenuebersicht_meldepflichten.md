@@ -41,7 +41,7 @@
 | DSFA-Fertigstellung | Interne Fertigstellung | 22.05.2026 | In Bearbeitung |
 | Umsetzung DSFA-Maßnahmen | Technik (Verschlüsselung, MFA, etc.) | 30.06.2026 | Geplant |
 | Überprüfung DSFA | Nach Maßnahmen-Umsetzung | **30.09.2026** | Geplant |
-| Folge-Meldung LfDI (Maßnahmenplan) | Auf Anforderung | TBD | Offen |
+| Folge-Meldung LfDI (Maßnahmenplan) | Auf Anforderung | noch offen | Offen |
 
 ---
 

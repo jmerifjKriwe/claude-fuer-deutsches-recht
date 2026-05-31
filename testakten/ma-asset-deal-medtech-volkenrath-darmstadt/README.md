@@ -1,4 +1,4 @@
-# Testakte: M&A Asset Deal MedTech — VENERA/FraktoMedis Praezision (Darmstadt)
+# M&A Asset Deal MedTech — VENERA/FraktoMedis Präzision (Darmstadt)
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->

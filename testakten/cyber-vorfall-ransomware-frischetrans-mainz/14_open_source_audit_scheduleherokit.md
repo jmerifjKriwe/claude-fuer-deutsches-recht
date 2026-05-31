@@ -137,5 +137,5 @@ https://www.gnu.org/licenses/agpl-3.0.html
 
 The complete source code of this application (TourPlanner),
 including the scheduleHero integration, is available at:
-[URL — TBD]
+[URL intern bei Frischetrans dokumentiert; Freigabe durch IT-Leitung noch offen]
 ```

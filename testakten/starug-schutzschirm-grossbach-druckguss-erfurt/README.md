@@ -1,4 +1,4 @@
-# Testakte – Großbach Druckguss & Präzision GmbH & Co. KG
+# Großbach Druckguss & Präzision GmbH & Co. KG — Schutzschirm und StaRUG-Optionen
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->

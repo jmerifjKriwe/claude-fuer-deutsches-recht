@@ -1,3 +1,26 @@
+# v52.2.1 — Testakten-Download-Audit und README-Sync
+
+Nachlauf auf den vollständigen Testaktenbestand mit Schwerpunkt Downloadfähigkeit in jedem Plugin-README.
+
+## Download- und Aktenstandard
+
+- Alle 127 Testakten erneut geprüft: jedes Akten-README enthält Gesamt-PDF und Akten-ZIP-Link.
+- Alle Plugin-READMEs mit zugeordneten Akten zeigen jetzt im Sofort-Download-Block sowohl Plugin-ZIP als auch Gesamt-PDF und Akten-ZIP je Akte.
+- Alias-Zuordnungen für ältere Sachgebietsbezeichnungen (`dsgvo`, `cisg-handelskauf`, `internationales-privatrecht`, `bauplanungsrecht`) in die README-Generatoren übernommen.
+- DSA/DMA-Akte Bayrische Baustube Meißner mit eigenem README versehen und Gesamt-PDF synchronisiert.
+
+## Qualitätskorrekturen
+
+- Offene TBD-/TODO-artige Marker aus mehreren Aktenstücken entfernt und durch akteninterne Vermerke ersetzt.
+- Sichtbare "Testakte"/"Beispielakte"-Präfixe aus individuellen Akten-README-H1 entfernt, damit Gesamt-PDF-Cover mandatsnäher wirken.
+- Gesamt-PDFs der geänderten Akten neu gebaut.
+
+## Checks
+
+- 127 Gesamt-PDFs validiert.
+- 511 PDFs / 11.327 Seiten lesbar, 173 XLSX, 320 DOCX und 210 Bilddateien technisch geprüft.
+- 110 Plugin-ZIPs lokal gebaut und mit `validate-release-zips.py` validiert.
+
 # v52.2.0 — Testakten-Nachlauf und Release-Glattzug
 
 Nachlauf auf den von Perplexity/Claude eingebrachten Testakten-Vollbestand.

@@ -1,7 +1,5 @@
 # Fachanwalt Miet- und Wohnungseigentumsrecht
 
-
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -17,7 +15,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
-| **Testakte: Eigenbedarf + WEG-Konflikt – Straßburger / Köln-Südstadt** (`eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt`) | [Gesamt-PDF lesen](../testakten/eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt/gesamt-pdf/eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt_gesamt.pdf) | [`testakte-eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt.zip) |
+| **Eigenbedarf + WEG-Konflikt – Straßburger / Köln-Südstadt** (`eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt`) | [Gesamt-PDF lesen](../testakten/eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt/gesamt-pdf/eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt_gesamt.pdf) | [`testakte-eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 

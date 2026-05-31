@@ -1,4 +1,4 @@
-# Testakte: Cyber-Vorfall Ransomware Frischetrans Mainz
+# Cyber-Vorfall Ransomware Frischetrans Mainz
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->

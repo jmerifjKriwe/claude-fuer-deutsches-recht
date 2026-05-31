@@ -73,7 +73,7 @@ Wir fordern die Sparkasse Bremen auf, folgende Positionen anzuerkennen und zu er
 | Position | Betrag |
 |---|---|
 | Schaden durch verletzte Warnpflicht (Schadensanteil) | mind. 75.000,00 EUR (Darlehen) |
-| Gesamtschadensquote (je nach Mitverschuldensquote) | TBD nach Aktenlage |
+| Gesamtschadensquote (je nach Mitverschuldensquote) | nach Aktenlage noch offen |
 | Rückzug der Kreditkündigung / Aussetzung der Forderung | 71.380,00 EUR auf Eis |
 | Widerruf Schufa-Meldung | unverzüglich |
 | Anwaltskosten (1,3-Geschäftsgebühr gemäß RVG) | 3.428,40 EUR |

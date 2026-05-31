@@ -1,4 +1,4 @@
-# Testakte: Grenzüberschreitender Asset-Deal Volkenrath Energie SE / Pipeline Northsea Ltd.
+# Grenzüberschreitender Asset-Deal Volkenrath Energie SE / Pipeline Northsea Ltd.
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->

@@ -1,7 +1,5 @@
 # Fachanwalt Handels- und Gesellschaftsrecht
 
-
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -17,7 +15,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
-| **Akte: Gesellschafterstreit / Squeeze-out — Küchenkönig Manufaktur GmbH & Co. KG (Paderborn)** (`gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn`) | [Gesamt-PDF lesen](../testakten/gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn/gesamt-pdf/gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn_gesamt.pdf) | [`testakte-gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn.zip) |
+| **Gesellschafterstreit / Squeeze-out — Küchenkönig Manufaktur GmbH & Co. KG (Paderborn)** (`gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn`) | [Gesamt-PDF lesen](../testakten/gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn/gesamt-pdf/gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn_gesamt.pdf) | [`testakte-gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 

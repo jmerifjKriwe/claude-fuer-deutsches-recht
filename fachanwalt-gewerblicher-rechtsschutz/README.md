@@ -1,7 +1,5 @@
 # Fachanwalt Gewerblicher Rechtsschutz
 
-
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -17,7 +15,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
-| **Akte: Markenstreit 3D-Marke Rosenbluete — Leichtenstein Gartenkultur vs. FlowerWorld AG u. a.** (`markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein`) | [Gesamt-PDF lesen](../testakten/markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein/gesamt-pdf/markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein_gesamt.pdf) | [`testakte-markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein.zip) |
+| **Markenstreit 3D-Marke Rosenbluete — Leichtenstein Gartenkultur vs. FlowerWorld AG u. a.** (`markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein`) | [Gesamt-PDF lesen](../testakten/markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein/gesamt-pdf/markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein_gesamt.pdf) | [`testakte-markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 

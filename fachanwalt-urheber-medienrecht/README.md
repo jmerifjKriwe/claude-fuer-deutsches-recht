@@ -1,7 +1,5 @@
 # Fachanwalt Urheber Medienrecht
 
-
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -17,7 +15,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
-| **Testakte: KI-Training TDM Fotografin Windgassen Hamburg** (`ki-training-tdm-fotografin-windgassen-hamburg`) | [Gesamt-PDF lesen](../testakten/ki-training-tdm-fotografin-windgassen-hamburg/gesamt-pdf/ki-training-tdm-fotografin-windgassen-hamburg_gesamt.pdf) | [`testakte-ki-training-tdm-fotografin-windgassen-hamburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-training-tdm-fotografin-windgassen-hamburg.zip) |
+| **KI-Training TDM Fotografin Windgassen Hamburg** (`ki-training-tdm-fotografin-windgassen-hamburg`) | [Gesamt-PDF lesen](../testakten/ki-training-tdm-fotografin-windgassen-hamburg/gesamt-pdf/ki-training-tdm-fotografin-windgassen-hamburg_gesamt.pdf) | [`testakte-ki-training-tdm-fotografin-windgassen-hamburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-training-tdm-fotografin-windgassen-hamburg.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 

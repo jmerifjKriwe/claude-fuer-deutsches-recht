@@ -1,7 +1,5 @@
 # Fachanwalt It Recht
 
-
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -17,7 +15,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
-| **Testakte: Cyber-Vorfall Ransomware Frischetrans Mainz** (`cyber-vorfall-ransomware-frischetrans-mainz`) | [Gesamt-PDF lesen](../testakten/cyber-vorfall-ransomware-frischetrans-mainz/gesamt-pdf/cyber-vorfall-ransomware-frischetrans-mainz_gesamt.pdf) | [`testakte-cyber-vorfall-ransomware-frischetrans-mainz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cyber-vorfall-ransomware-frischetrans-mainz.zip) |
+| **Cyber-Vorfall Ransomware Frischetrans Mainz** (`cyber-vorfall-ransomware-frischetrans-mainz`) | [Gesamt-PDF lesen](../testakten/cyber-vorfall-ransomware-frischetrans-mainz/gesamt-pdf/cyber-vorfall-ransomware-frischetrans-mainz_gesamt.pdf) | [`testakte-cyber-vorfall-ransomware-frischetrans-mainz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cyber-vorfall-ransomware-frischetrans-mainz.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 

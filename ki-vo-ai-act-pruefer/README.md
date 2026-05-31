@@ -1,7 +1,5 @@
 # ki-vo-ai-act-pruefer
 
-
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -17,18 +15,20 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
-| **Akte: KI-VO-Konformitätsprüfung MedAssist v4 — Hochrisiko-KI, Marktüberwachung, GPAI-Komponente** (`ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck`) | [Gesamt-PDF lesen](../testakten/ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck/gesamt-pdf/ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck_gesamt.pdf) | [`testakte-ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck.zip) |
+| **KI-VO-Konformitätsprüfung MedAssist v4 — Hochrisiko-KI, Marktüberwachung, GPAI-Komponente** (`ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck`) | [Gesamt-PDF lesen](../testakten/ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck/gesamt-pdf/ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck_gesamt.pdf) | [`testakte-ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck.zip) |
+| **Akte KI-VO: BewerberPilot TalentRank** (`ki-vo-konformitaetsbescheinigung-bewerberpilot`) | [Gesamt-PDF lesen](../testakten/ki-vo-konformitaetsbescheinigung-bewerberpilot/gesamt-pdf/ki-vo-konformitaetsbescheinigung-bewerberpilot_gesamt.pdf) | [`testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
 <!-- BEGIN plugin-testakten-section (autogen) -->
 ## Demonstrations-Akten
 
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
+Folgende anonymisierte Akten demonstrieren dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
 
 | Akte | Lesen | Herunterladen |
 | --- | --- | --- |
 | **KI-VO-Konformitätsprüfung MedAssist v4 — Hochrisiko-KI, Marktüberwachung, GPAI-Komponente** (`ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck`) | [Gesamt-PDF lesen](../testakten/ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck/gesamt-pdf/ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck.zip) |
+| **Akte KI-VO: BewerberPilot TalentRank** (`ki-vo-konformitaetsbescheinigung-bewerberpilot`) | [Gesamt-PDF lesen](../testakten/ki-vo-konformitaetsbescheinigung-bewerberpilot/gesamt-pdf/ki-vo-konformitaetsbescheinigung-bewerberpilot_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip) |
 
 Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
 

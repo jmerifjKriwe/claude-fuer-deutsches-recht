@@ -1,7 +1,5 @@
 # Fachanwalt Erbrecht
 
-
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -17,7 +15,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
-| **Akte: Erbstreit Edelmann — Multisig, Pflichtteil, Patchworkfamilie** (`erbstreit-krypto-multisig-edelmann-stuttgart`) | [Gesamt-PDF lesen](../testakten/erbstreit-krypto-multisig-edelmann-stuttgart/gesamt-pdf/erbstreit-krypto-multisig-edelmann-stuttgart_gesamt.pdf) | [`testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip) |
+| **Erbstreit Edelmann — Multisig, Pflichtteil, Patchworkfamilie** (`erbstreit-krypto-multisig-edelmann-stuttgart`) | [Gesamt-PDF lesen](../testakten/erbstreit-krypto-multisig-edelmann-stuttgart/gesamt-pdf/erbstreit-krypto-multisig-edelmann-stuttgart_gesamt.pdf) | [`testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 

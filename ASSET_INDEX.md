@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v52.2.0 — Testakten-Nachlauf, Gesamt-PDF-Sync und Asset-Glattzug
+**Stand:** v52.2.1 — Testakten-Download-Audit, Gesamt-PDF-Sync und README-Glattzug
 
 ## Asset-Typen
 
@@ -298,4 +298,4 @@ curl -s "https://api.github.com/repos/Klotzkette/claude-fuer-deutsches-recht/rel
   | python3 -c "import json,sys; d=json.load(sys.stdin); print('Tag:', d['tag_name']); print('Assets:', len(d['assets'])); [print(' -', a['name']) for a in d['assets']]"
 ```
 
-Erwartet für `v52.2.0` und `latest`: 241 Assets, davon 110 Plugin-ZIPs, 127 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).
+Erwartet für `v52.2.1` und `latest`: 241 Assets, davon 110 Plugin-ZIPs, 127 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).

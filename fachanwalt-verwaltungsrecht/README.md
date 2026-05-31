@@ -1,7 +1,5 @@
 # Fachanwalt Verwaltungsrecht
 
-
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -17,17 +15,19 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
-| **Testakte: Windpark-Drittanfechtung Bürgerinitiative Uckermark** (`windpark-drittanfechtung-buergerinitiative-uckermark`) | [Gesamt-PDF lesen](../testakten/windpark-drittanfechtung-buergerinitiative-uckermark/gesamt-pdf/windpark-drittanfechtung-buergerinitiative-uckermark_gesamt.pdf) | [`testakte-windpark-drittanfechtung-buergerinitiative-uckermark.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-windpark-drittanfechtung-buergerinitiative-uckermark.zip) |
+| **BVG-Widerspruchsstelle — Abschleppen nach MobG BE** (`bvg-widerspruchsstelle-abschleppen-mobg`) | [Gesamt-PDF lesen](../testakten/bvg-widerspruchsstelle-abschleppen-mobg/gesamt-pdf/bvg-widerspruchsstelle-abschleppen-mobg_gesamt.pdf) | [`testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip) |
+| **Windpark-Drittanfechtung Bürgerinitiative Uckermark** (`windpark-drittanfechtung-buergerinitiative-uckermark`) | [Gesamt-PDF lesen](../testakten/windpark-drittanfechtung-buergerinitiative-uckermark/gesamt-pdf/windpark-drittanfechtung-buergerinitiative-uckermark_gesamt.pdf) | [`testakte-windpark-drittanfechtung-buergerinitiative-uckermark.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-windpark-drittanfechtung-buergerinitiative-uckermark.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
 <!-- BEGIN plugin-testakten-section (autogen) -->
 ## Demonstrations-Akten
 
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
+Folgende anonymisierte Akten demonstrieren dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
 
 | Akte | Lesen | Herunterladen |
 | --- | --- | --- |
+| **BVG-Widerspruchsstelle — Abschleppen nach MobG BE** (`bvg-widerspruchsstelle-abschleppen-mobg`) | [Gesamt-PDF lesen](../testakten/bvg-widerspruchsstelle-abschleppen-mobg/gesamt-pdf/bvg-widerspruchsstelle-abschleppen-mobg_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip) |
 | **Windpark-Drittanfechtung Bürgerinitiative Uckermark** (`windpark-drittanfechtung-buergerinitiative-uckermark`) | [Gesamt-PDF lesen](../testakten/windpark-drittanfechtung-buergerinitiative-uckermark/gesamt-pdf/windpark-drittanfechtung-buergerinitiative-uckermark_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-windpark-drittanfechtung-buergerinitiative-uckermark.zip) |
 
 Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).

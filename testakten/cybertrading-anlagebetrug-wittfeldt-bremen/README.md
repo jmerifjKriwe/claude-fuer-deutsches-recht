@@ -1,4 +1,4 @@
-# Testakte: Cybertrading-Anlagebetrug Wittfeldt – Bremen
+# Cybertrading-Anlagebetrug Wittfeldt – Bremen
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->

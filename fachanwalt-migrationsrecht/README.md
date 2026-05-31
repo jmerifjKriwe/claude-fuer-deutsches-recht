@@ -1,7 +1,5 @@
 # Fachanwalt Migrationsrecht
 
-
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -17,7 +15,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
-| **Akte: Familie Amiri-Hosseini — Asylfolge, Dublin IV, Flüchtlingsanerkennung** (`familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung`) | [Gesamt-PDF lesen](../testakten/familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung/gesamt-pdf/familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung_gesamt.pdf) | [`testakte-familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung.zip) |
+| **Familie Amiri-Hosseini — Asylfolge, Dublin IV, Flüchtlingsanerkennung** (`familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung`) | [Gesamt-PDF lesen](../testakten/familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung/gesamt-pdf/familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung_gesamt.pdf) | [`testakte-familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 

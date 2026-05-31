@@ -1,7 +1,5 @@
 # selbstvertreter-sozialgericht
 
-
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 

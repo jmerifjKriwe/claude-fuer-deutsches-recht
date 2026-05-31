@@ -1,7 +1,5 @@
 # Fachanwalt Vergaberecht
 
-
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -17,7 +15,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
-| **Testakte: IT-SIG-2-Vergabe Landeshauptstadt Schwerin – Nachprüfungsverfahren VK** (`it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung`) | [Gesamt-PDF lesen](../testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/gesamt-pdf/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung_gesamt.pdf) | [`testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip) |
+| **IT-SIG-2-Vergabe Landeshauptstadt Schwerin – Nachprüfungsverfahren VK** (`it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung`) | [Gesamt-PDF lesen](../testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/gesamt-pdf/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung_gesamt.pdf) | [`testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 

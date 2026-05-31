@@ -16,6 +16,8 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 **Arbeitsakte.** Die Akte gehoert fachlich zur strafrechtlichen Aktenaufbereitung. Personen-, Anschriften- und Registerdaten sind vor Verwendung mit der Originalakte abzugleichen.
 
+**Passendes Plugin:** `aktenaufbereiter-strafrecht`
+
 ---
 
 ## Kurzbild

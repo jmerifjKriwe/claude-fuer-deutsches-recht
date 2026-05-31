@@ -1,4 +1,4 @@
-# Testakte: DSGVO-Massenscanning Mietinteressenten — VermieterCheck Solutions GmbH (Essen)
+# DSGVO-Massenscanning Mietinteressenten — VermieterCheck Solutions GmbH (Essen)
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->

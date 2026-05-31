@@ -1,7 +1,5 @@
 # Fachanwalt Bank Kapitalmarktrecht
 
-
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -17,7 +15,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
-| **Testakte: Cybertrading-Anlagebetrug Wittfeldt – Bremen** (`cybertrading-anlagebetrug-wittfeldt-bremen`) | [Gesamt-PDF lesen](../testakten/cybertrading-anlagebetrug-wittfeldt-bremen/gesamt-pdf/cybertrading-anlagebetrug-wittfeldt-bremen_gesamt.pdf) | [`testakte-cybertrading-anlagebetrug-wittfeldt-bremen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cybertrading-anlagebetrug-wittfeldt-bremen.zip) |
+| **Cybertrading-Anlagebetrug Wittfeldt – Bremen** (`cybertrading-anlagebetrug-wittfeldt-bremen`) | [Gesamt-PDF lesen](../testakten/cybertrading-anlagebetrug-wittfeldt-bremen/gesamt-pdf/cybertrading-anlagebetrug-wittfeldt-bremen_gesamt.pdf) | [`testakte-cybertrading-anlagebetrug-wittfeldt-bremen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cybertrading-anlagebetrug-wittfeldt-bremen.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 

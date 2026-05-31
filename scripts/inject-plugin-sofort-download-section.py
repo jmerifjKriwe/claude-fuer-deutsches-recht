@@ -6,8 +6,9 @@ Inhalt der Sektion:
 - Plugin-ZIP-Direktdownload (immer, fuer ALLE Plugins)
 - Pro zugeordnete Testakte: ZIP-Download und Gesamt-PDF-Lesen
 
-Quelle der Akten-Zuordnung: jede testakten/<slug>/README.md, die das Plugin per
-Backtick (`plugin-name`) referenziert. Identisch zur Logik in
+Quelle der Akten-Zuordnung: jede testakten/<slug>/README.md und die zentrale
+testakten/README.md, soweit dort bestehende Plugin-Namen per Backtick
+(`plugin-name`) referenziert werden. Identisch zur Logik in
 inject-plugin-testakten-section.py.
 
 Idempotent ueber HTML-Marker. Position: ZWISCHEN H1 und der Testakten-Sektion.
@@ -32,40 +33,73 @@ RELEASE_BASE = (
 
 H1_RE = re.compile(r"^# .+$", re.MULTILINE)
 
+# Einzelne ältere Akten nennen Skill- oder Sachgebietsnamen, die fachlich einem
+# bestehenden Plugin entsprechen. Diese Aliase werden nur für README-
+# Downloadsektionen verwendet; die Akten selbst bleiben unverändert.
+PLUGIN_ALIASES = {
+    "bauplanungsrecht": ["normenkontrolle-bauleitplanung"],
+    "cisg-handelskauf": ["urteilsbauer-relationsmacher"],
+    "dsgvo": ["datenschutzrecht"],
+    "internationales-privatrecht": ["urteilsbauer-relationsmacher"],
+}
+
+
+def add_mapping(
+    mapping: dict[str, set[str]],
+    plugin_names: set[str],
+    slug: str,
+    text: str,
+) -> None:
+    """Fuege alle Plugin-Backticks aus text fuer slug in mapping ein."""
+    tokens = set(re.findall(r"`([^`]+)`", text))
+    for token in tokens:
+        if token in plugin_names:
+            mapping.setdefault(token, set()).add(slug)
+        for alias_target in PLUGIN_ALIASES.get(token, []):
+            if alias_target in plugin_names:
+                mapping.setdefault(alias_target, set()).add(slug)
+
 
 def discover_mapping() -> dict[str, list[str]]:
-    """Lese alle testakten/*/README.md und sammle Plugin->Akten-Verbindungen
-    ueber Backtick-Erwaehnungen `plugin-name`."""
-    mapping: dict[str, list[str]] = {}
+    """Sammle Plugin->Akten-Verbindungen aus Einzel-README und Gesamtuebersicht."""
+    mapping: dict[str, set[str]] = {}
     if not TESTAKTEN_DIR.exists():
         return {}
     marketplace = json.loads(
         (REPO_ROOT / ".claude-plugin" / "marketplace.json").read_text(encoding="utf-8")
     )
-    plugin_names = [p["name"] for p in marketplace["plugins"]]
-    plugin_set = set(plugin_names)
+    plugin_names = {p["name"] for p in marketplace["plugins"]}
 
     for sub in sorted(TESTAKTEN_DIR.iterdir()):
         if not sub.is_dir():
             continue
         readme = sub / "README.md"
-        if not readme.exists():
-            continue
-        text = readme.read_text(encoding="utf-8")
-        for name in plugin_set:
-            if f"`{name}`" in text:
-                mapping.setdefault(name, []).append(sub.name)
-    return mapping
+        if readme.exists():
+            add_mapping(mapping, plugin_names, sub.name, readme.read_text(encoding="utf-8"))
+
+    overview = TESTAKTEN_DIR / "README.md"
+    if overview.exists():
+        for line in overview.read_text(encoding="utf-8").splitlines():
+            m = re.match(r"\| \[`([^/]+)/`\]\(\./\1/\) \|.*\| (.*) \|$", line)
+            if m:
+                add_mapping(mapping, plugin_names, m.group(1), m.group(2))
+    return {p: sorted(v) for p, v in mapping.items()}
 
 
 def get_akte_title(akte_slug: str) -> str:
-    """Lese den H1-Titel aus testakten/<slug>/README.md."""
+    """Lese den H1-Titel aus testakten/<slug>/README.md und bereinige Praefixe."""
     readme = TESTAKTEN_DIR / akte_slug / "README.md"
     if not readme.exists():
         return akte_slug
     for line in readme.read_text(encoding="utf-8").splitlines():
         if line.startswith("# "):
-            return line[2:].strip()
+            title = line[2:].strip()
+            return re.sub(
+                r"^(Akte|Beispielakte|Testakte|Mandantenakte)\s*[:–-]\s*",
+                "",
+                title,
+                flags=re.IGNORECASE,
+            )
     return akte_slug
 
 
@@ -118,29 +152,34 @@ def inject_section(readme: Path, plugin_name: str, akten_slugs: list[str]) -> st
     text = readme.read_text(encoding="utf-8")
     new_block = build_section(plugin_name, akten_slugs)
 
+    def insert_after_h1(current_text: str) -> str:
+        h1 = H1_RE.search(current_text)
+        if not h1:
+            return current_text
+        insert_pos = h1.end()
+        after = current_text[insert_pos:]
+        blank = re.match(r"\n+", after)
+        if blank:
+            insert_pos += blank.end()
+        return current_text[:insert_pos] + "\n" + new_block + "\n\n" + current_text[insert_pos:]
+
     if MARKER_BEGIN in text and MARKER_END in text:
-        # Replace existing
+        # Replace existing and keep the block directly after the H1.
         pattern = re.compile(
-            re.escape(MARKER_BEGIN) + r".*?" + re.escape(MARKER_END),
+            r"\n*" + re.escape(MARKER_BEGIN) + r".*?" + re.escape(MARKER_END) + r"\n*",
             re.DOTALL,
         )
-        new_text = pattern.sub(new_block, text)
+        without_old_block = pattern.sub("\n", text, count=1)
+        new_text = insert_after_h1(without_old_block)
         if new_text == text:
             return "UNCHANGED"
         readme.write_text(new_text, encoding="utf-8")
         return "UPDATED"
 
     # Insert directly after H1 line (before any other content)
-    h1 = H1_RE.search(text)
-    if not h1:
+    if not H1_RE.search(text):
         return "SKIPPED"
-    insert_pos = h1.end()
-    # Skip blank lines after H1
-    after = text[insert_pos:]
-    blank = re.match(r"\n+", after)
-    if blank:
-        insert_pos += blank.end()
-    new_text = text[:insert_pos] + "\n" + new_block + "\n\n" + text[insert_pos:]
+    new_text = insert_after_h1(text)
     readme.write_text(new_text, encoding="utf-8")
     return "INSERTED"
 

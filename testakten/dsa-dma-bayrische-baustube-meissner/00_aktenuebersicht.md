@@ -18,7 +18,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 **Az. der Kanzlei:** 2026/0418 — DSA/DMA-Komplex Meißnerlein
 
 **Sachbearbeiter:** RA Dr. Cunibert Hagenroth, Fachanwalt für IT-Recht
-**Sozius:** RA'in Friedlinde Quasthoff-Pruegelmann
+**Sozius:** RA'in Friedlinde Quasthoff-Prügelmann
 
 **Mandantin:**
 Baustube Meißnerlein GmbH

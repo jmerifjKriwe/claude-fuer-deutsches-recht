@@ -1,4 +1,4 @@
-# Testakte: KI-Training TDM Fotografin Windgassen Hamburg
+# KI-Training TDM Fotografin Windgassen Hamburg
 
 **Plugin:** `fachanwalt-urheber-medienrecht`  
 **Branch:** `feat/v51.0.0-testakten-vollbestand`  

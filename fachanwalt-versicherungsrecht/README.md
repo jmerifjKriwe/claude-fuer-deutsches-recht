@@ -1,7 +1,5 @@
 # Fachanwalt Versicherungsrecht
 
-
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -17,7 +15,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
-| **Testakte: BU-Deckungsklage Pflegekraft Vogelweide Aachen** (`bu-deckungsklage-pflegekraft-vogelweide-aachen`) | [Gesamt-PDF lesen](../testakten/bu-deckungsklage-pflegekraft-vogelweide-aachen/gesamt-pdf/bu-deckungsklage-pflegekraft-vogelweide-aachen_gesamt.pdf) | [`testakte-bu-deckungsklage-pflegekraft-vogelweide-aachen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bu-deckungsklage-pflegekraft-vogelweide-aachen.zip) |
+| **BU-Deckungsklage Pflegekraft Vogelweide Aachen** (`bu-deckungsklage-pflegekraft-vogelweide-aachen`) | [Gesamt-PDF lesen](../testakten/bu-deckungsklage-pflegekraft-vogelweide-aachen/gesamt-pdf/bu-deckungsklage-pflegekraft-vogelweide-aachen_gesamt.pdf) | [`testakte-bu-deckungsklage-pflegekraft-vogelweide-aachen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bu-deckungsklage-pflegekraft-vogelweide-aachen.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 

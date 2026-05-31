@@ -1,7 +1,5 @@
 # Phishing-Vorfall-Prüfer
 
-
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 

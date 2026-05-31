@@ -1,7 +1,5 @@
 # Datenschutzrecht-Plugin
 
-
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -17,18 +15,22 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
-| **Testakte: DSGVO-Massenscanning Mietinteressenten — VermieterCheck Solutions GmbH (Essen)** (`dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen`) | [Gesamt-PDF lesen](../testakten/dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen/gesamt-pdf/dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen_gesamt.pdf) | [`testakte-dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen.zip) |
+| **Akte Datenschutz: US-Transfer CloudSuite Assist** (`datenschutz-us-transfer-cloudsuite-rheinmain`) | [Gesamt-PDF lesen](../testakten/datenschutz-us-transfer-cloudsuite-rheinmain/gesamt-pdf/datenschutz-us-transfer-cloudsuite-rheinmain_gesamt.pdf) | [`testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip) |
+| **DSGVO-Massenscanning Mietinteressenten — VermieterCheck Solutions GmbH (Essen)** (`dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen`) | [Gesamt-PDF lesen](../testakten/dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen/gesamt-pdf/dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen_gesamt.pdf) | [`testakte-dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen.zip) |
+| **Solis Vision X Smartglasses** (`solis-vision-x-smartglasses`) | [Gesamt-PDF lesen](../testakten/solis-vision-x-smartglasses/gesamt-pdf/solis-vision-x-smartglasses_gesamt.pdf) | [`testakte-solis-vision-x-smartglasses.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solis-vision-x-smartglasses.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
 <!-- BEGIN plugin-testakten-section (autogen) -->
 ## Demonstrations-Akten
 
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
+Folgende anonymisierte Akten demonstrieren dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
 
 | Akte | Lesen | Herunterladen |
 | --- | --- | --- |
+| **Akte Datenschutz: US-Transfer CloudSuite Assist** (`datenschutz-us-transfer-cloudsuite-rheinmain`) | [Gesamt-PDF lesen](../testakten/datenschutz-us-transfer-cloudsuite-rheinmain/gesamt-pdf/datenschutz-us-transfer-cloudsuite-rheinmain_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip) |
 | **DSGVO-Massenscanning Mietinteressenten — VermieterCheck Solutions GmbH (Essen)** (`dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen`) | [Gesamt-PDF lesen](../testakten/dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen/gesamt-pdf/dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen.zip) |
+| **Solis Vision X Smartglasses** (`solis-vision-x-smartglasses`) | [Gesamt-PDF lesen](../testakten/solis-vision-x-smartglasses/gesamt-pdf/solis-vision-x-smartglasses_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solis-vision-x-smartglasses.zip) |
 
 Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
 

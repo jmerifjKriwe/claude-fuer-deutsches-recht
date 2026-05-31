@@ -17,8 +17,8 @@
 | 16.03.2026 | Klageschrift LG Aachen eingereicht | erledigt |
 | 20.03.2026 | Zustellung an DBV-Winterthur | erledigt |
 | 05.04.2026 | Klageerwiderung DBV-Winterthur erwartet | **ausstehend** |
-| TBD | Erörterungstermin / Beweisbeschluss | **ausstehend** |
-| TBD | Sachverständigengutachten | **ausstehend** |
+| noch nicht terminiert | Erörterungstermin / Beweisbeschluss | **ausstehend** |
+| nach Beweisbeschluss | Sachverständigengutachten | **ausstehend** |
 
 **Streitwert:** 133.200 EUR  
 **Zuständiges Gericht:** LG Aachen, 5. Zivilkammer  
@@ -35,7 +35,7 @@
 | 10.02.2026 | Mandat Dr. Müller-Hauck für D&O | erledigt |
 | 20.03.2026 | Klageschrift LG Köln eingereicht | erledigt |
 | 30.04.2026 | Klageerwiderung ManagerSchutz AG erwartet | **ausstehend** |
-| TBD | Mündliche Verhandlung | **ausstehend** |
+| noch nicht terminiert | Mündliche Verhandlung | **ausstehend** |
 
 **Streitwert:** 59.000 EUR (41.000 + 18.000 EUR)  
 **Zuständiges Gericht:** LG Köln, 26. Zivilkammer (Versicherungsrecht)
@@ -59,4 +59,3 @@
 | BGW BK-5101 Az. BGW-2025-BK-10924 | ausstehend (geschätzter Abschluss Q4 2026) |
 | HDI Rückkaufswert-Prüfung | in Bearbeitung |
 | ARAG Kostendeckung | erteilt für alle Verfahren |
-

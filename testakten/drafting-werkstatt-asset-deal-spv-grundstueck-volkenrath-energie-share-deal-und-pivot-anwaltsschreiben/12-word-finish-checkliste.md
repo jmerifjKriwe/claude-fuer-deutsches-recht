@@ -59,7 +59,7 @@ Vor jeder formalen Uebermittlung eines SPA-Entwurfs an die Gegenseite, an den No
 | Punkt | Geprueft | Anmerkung |
 |---|---|---|
 | Rechtschreibpruefung Word (Sprache: Deutsch — Deutschland) | [ ] | |
-| Suchfunktion nach "TODO", "TBC", "DRAFT", "[Datum]", "[Name]", "[●]" | [ ] | |
+| Suchfunktion nach offenen Arbeitsmarkern wie "TBC", "DRAFT", "[Datum]", "[Name]", "[●]" | [ ] | |
 | Suchfunktion nach doppelten Leerzeichen (Suche "  " mit zwei Leerzeichen) | [ ] | |
 | Suchfunktion nach englischen Anführungszeichen (" ") — ersetzen durch deutsche (,,") | [ ] | |
 | Fussnoten vollstaendig und korrekt nummeriert | [ ] | |

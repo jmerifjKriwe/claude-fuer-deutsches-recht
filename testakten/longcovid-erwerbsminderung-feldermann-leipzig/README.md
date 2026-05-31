@@ -1,4 +1,4 @@
-# Testakte: Long-Covid + Erwerbsminderungsrente + GdB + SGB-II – Feldermann, Leipzig
+# Long-Covid + Erwerbsminderungsrente + GdB + SGB-II – Feldermann, Leipzig
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->

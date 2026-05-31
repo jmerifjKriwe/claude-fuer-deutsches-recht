@@ -1,7 +1,5 @@
 # Fachanwalt Bau Architektenrecht
 
-
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -17,7 +15,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
-| **Akte: Baurecht — Werkmangel & kontaminierter Baugrund, Saalbau Wendelstein gGmbH / Bauer-Hoch GmbH & Co. KG** (`werkmangel-kontaminierter-baugrund-saalbau-rosenheim`) | [Gesamt-PDF lesen](../testakten/werkmangel-kontaminierter-baugrund-saalbau-rosenheim/gesamt-pdf/werkmangel-kontaminierter-baugrund-saalbau-rosenheim_gesamt.pdf) | [`testakte-werkmangel-kontaminierter-baugrund-saalbau-rosenheim.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-werkmangel-kontaminierter-baugrund-saalbau-rosenheim.zip) |
+| **Baurecht — Werkmangel & kontaminierter Baugrund, Saalbau Wendelstein gGmbH / Bauer-Hoch GmbH & Co. KG** (`werkmangel-kontaminierter-baugrund-saalbau-rosenheim`) | [Gesamt-PDF lesen](../testakten/werkmangel-kontaminierter-baugrund-saalbau-rosenheim/gesamt-pdf/werkmangel-kontaminierter-baugrund-saalbau-rosenheim_gesamt.pdf) | [`testakte-werkmangel-kontaminierter-baugrund-saalbau-rosenheim.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-werkmangel-kontaminierter-baugrund-saalbau-rosenheim.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 

@@ -1,4 +1,4 @@
-# Testakte: IT-SIG-2-Vergabe Landeshauptstadt Schwerin – Nachprüfungsverfahren VK
+# IT-SIG-2-Vergabe Landeshauptstadt Schwerin – Nachprüfungsverfahren VK
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->

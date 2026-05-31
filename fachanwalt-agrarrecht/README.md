@@ -1,7 +1,5 @@
 # Fachanwalt Agrarrecht
 
-
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -17,7 +15,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
-| **Akte: Ökolandbau-Förderrückforderung / Hofgemeinschaft Driessen — Niederrhein** (`oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein`) | [Gesamt-PDF lesen](../testakten/oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein/gesamt-pdf/oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein_gesamt.pdf) | [`testakte-oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein.zip) |
+| **Ökolandbau-Förderrückforderung / Hofgemeinschaft Driessen — Niederrhein** (`oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein`) | [Gesamt-PDF lesen](../testakten/oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein/gesamt-pdf/oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein_gesamt.pdf) | [`testakte-oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 

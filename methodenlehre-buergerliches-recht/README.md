@@ -1,7 +1,5 @@
 # Methodenlehre bürgerliches Recht
 
-
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
 
@@ -17,7 +15,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
-| **Testakte: Methodenlehre im Bürgerlichen Recht — Fall Tannenmoor/Radarwarner (Meckenheim)** (`methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim`) | [Gesamt-PDF lesen](../testakten/methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim/gesamt-pdf/methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim_gesamt.pdf) | [`testakte-methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim.zip) |
+| **Methodenlehre im Bürgerlichen Recht — Fall Tannenmoor/Radarwarner (Meckenheim)** (`methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim`) | [Gesamt-PDF lesen](../testakten/methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim/gesamt-pdf/methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim_gesamt.pdf) | [`testakte-methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 

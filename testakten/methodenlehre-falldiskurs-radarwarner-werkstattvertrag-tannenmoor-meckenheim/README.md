@@ -1,4 +1,4 @@
-# Testakte: Methodenlehre im Bürgerlichen Recht — Fall Tannenmoor/Radarwarner (Meckenheim)
+# Methodenlehre im Bürgerlichen Recht — Fall Tannenmoor/Radarwarner (Meckenheim)
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
