@@ -91,15 +91,12 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Handlungsempfehlung
 
-{Bei 🟢 Routine fortsetzen; bei 🟡 Engpassmaßnahmen benennen; bei 🔴 § 15a InsO-Antragspflicht prüfen und § 102 StaRUG-Hinweis dokumentieren.}
+{Bei 🟢 Routine fortsetzen; bei 🟡 Engpassmaßnahmen benennen; bei 🔴 § 15a InsO-Antragspflicht prüfen und § 102 StaRUG-Hinweis dokumentieren. Wenn die Vorschau als Grundlage für Bank, StaRUG, Schutzschirm, Eigenverwaltung, Insolvenzplan oder Sanierungskonzept dienen soll, zusätzlich GuV, Planbilanz, Maßnahmenlog, Leitbild, Szenarien und Dokumentation nachziehen.}
 
 ---
 
 ## Quellen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- IDW S 11 (Stand 12.08.2021), Tz. 16 f., 31–37 (Hintergrund)
-- IDW S 6 (Hintergrund, integrierte Planung)
-- K. Schmidt/Herchen, in: K. Schmidt, InsO, 20. Aufl. 2023, § 17 Rn. 5 ff.
-- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-- Pape/Schaltke, in: Pape/Uhländer, StaRUG, 1. Aufl. 2021, § 1 Rn. 10 ff.
+- Berufsständische Methodenrahmen zu Insolvenzeröffnungsgründen und Sanierungskonzepten nur als Hintergrundmaßstab verwenden.
+- Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -13,6 +13,12 @@ auslösender Eröffnungsgrund vorliegt. Er klärt den modifizierten zweistufigen
 Überschuldungsbegriff, benennt die Prüfungsschritte, stellt Hinweise zur Dokumentation
 bereit und warnt vor den häufigsten Bewertungsfehlern.
 
+Wichtig: Die Fortbestehensprognose ist nicht dasselbe wie volle Sanierungsfähigkeit. Sie
+prüft für § 19 InsO, ob die Zahlungsfähigkeit im Prognosezeitraum überwiegend wahrscheinlich
+erhalten bleibt. Ein Sanierungskonzept geht weiter und muss Krisenursachen, Leitbild,
+Maßnahmen, integrierte GuV-/Bilanz-/Liquiditätsplanung, Szenarien und Dokumentation
+zusammenführen.
+
 ## Eingaben
 
 - Jahresabschluss oder aktuelle BWA (Bilanz, GuV) des Unternehmens
@@ -58,16 +64,13 @@ Hinweis: Aktenzeichen und Randnummern der einschlägigen BGH-Entscheidungen (zur
   Behandlung nachrangiger Verbindlichkeiten)
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
   (Bewertungsmethodik Liquidationswerte, Gesellschafterdarlehen, Pensionsrückstellungen)
-- Schmerbach, in: K. Schmidt, InsO, 20. Aufl. 2023, § 19 Rn. 10 ff.
-  (Überblick SanInsFoG-Änderungen, Prognosezeitraum)
+### Berufsständische Methodenlogik
 
-### IDW S 11
-
-IDW S 11 (Beurteilung des Vorliegens von Insolvenzeröffnungsgründen), Stand 2022, Tz. 56 ff.:
-Der Standard beschreibt die Mindestanforderungen an den Überschuldungsstatus und die
-Fortbestehensprognose. Tz. 56 ff. fordern einen integrierten Finanzplan (Plan-GuV, Plan-Bilanz,
-Liquiditätsplan) als Grundlage der Fortbestehensprognose; Tz. 63 ff. regeln den Ansatz und
-die Bewertung der Aktiva und Passiva im Überschuldungsstatus zu Liquidationswerten.
+Für Überschuldungsstatus und Fortbestehensprognose ist ein integrierter Finanzplan
+erforderlich: Plan-GuV, Plan-Bilanz und Liquiditätsplan müssen zusammenpassen. Wenn
+die Prüfung zugleich eine Sanierungsaussage tragen soll, sind zusätzlich die Bausteine
+eines Sanierungskonzepts zu prüfen: Ausgangslage, Krisenstadium, Krisenursachen, Leitbild,
+Maßnahmen, integrierte Planung, Szenarien, Sanierungsfähigkeit und Dokumentation.
 
 ## Ablauf
 
@@ -78,10 +81,16 @@ Ist ein schlüssiges Unternehmenskonzept (Fortführungsstrategie, Geschäftsmode
 Absatzplanung) vorhanden und plausibel? Ohne Konzept kann keine positive Prognose
 gestellt werden.
 
+Wenn Sanierungsfähigkeit behauptet wird, zusätzlich prüfen: Sind die wesentlichen
+Krisenursachen nach Maßnahmen beseitigt oder beherrschbar? Ist das Unternehmen nach
+Umsetzung wieder wettbewerbs-, rendite- und finanzierungsfähig? Eine bloße
+Liquiditätsverlängerung genügt dafür nicht.
+
 **1.2 Integrierten Finanzplan erstellen**
 - Plan-GuV für die kommenden zwölf Monate (Regelzeitraum ab 01.01.2024)
 - Plan-Bilanz zu den relevanten Stichtagen
 - monatlicher Liquiditätsplan (Mittelzuflüsse, Mittelabflüsse, Saldo)
+- Maßnahmenlog mit Kosten, Timing, Verantwortlichen, Bilanz-/GuV-/Liquiditätseffekt und Belegstatus, sofern Sanierungsfähigkeit beurteilt wird.
 
 **1.3 Prognoseurteil**
 Maßgebliches Kriterium: überwiegende Wahrscheinlichkeit (> 50 %) der Aufrechterhaltung
@@ -237,7 +246,7 @@ aus freiem, die übrigen Verbindlichkeiten übersteigendem Vermögen) führt gem
 Eine Fortbestehensprognose, die sich auf pauschale Hoffnungen oder ungesicherte
 Finanzierungsabsichten stützt, ist rechtlich wertlos. Erforderlich sind integrierte
 Finanzplanungen mit nachvollziehbaren Annahmen, die einer Plausibilitätsprüfung
-nach IDW S 11 standhalten (st. BGH-Linie; Az. vor Ausgabe verifizieren).
+standhalten (st. BGH-Linie; Az. vor Ausgabe verifizieren).
 
 **Fehler 4 — Pensionsrückstellungen und latente Steuern falsch angesetzt**
 Pensionsrückstellungen sind versicherungsmathematisch (nicht nach HGB-Abzinsung) zu
@@ -254,6 +263,12 @@ führt zu systematischer Untererfassung der Passiva.
 Seit 01.01.2024 gilt wieder der 12-Monats-Zeitraum. Die SanInsKG-Verkürzung auf
 vier Monate ist ausgelaufen. Prognosezeitraum-Fehler infizieren die gesamte Prüfung.
 
+**Fehler 7 — Fortbestehensprognose mit Sanierungskonzept verwechseln**
+Eine positive Liquiditätsprognose beseitigt den Überschuldungsgrund, beweist aber noch
+nicht, dass das Geschäftsmodell dauerhaft saniert ist. Für Sanierungsfähigkeit sind
+Krisenursachen, Leitbild, Maßnahmen, integrierte Planung, Sensitivitäten und Nachweise
+gesondert zu dokumentieren.
+
 ## Quellenpflicht
 
 Jede Aussage zu Prüfungsmaßstäben, Bewertungsmethoden oder Rechtsfolgen ist zu belegen.
@@ -268,8 +283,7 @@ Mindeststandard:
   <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=29.06.2023&Aktenzeichen=IX+ZR+56/22>
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Schmerbach, in: K. Schmidt, InsO, 20. Aufl. 2023, § 19 Rn. 10 ff.
-- IDW S 11, Stand 2022, Tz. 56 ff.
+- Berufsständischer Methodenrahmen zu Insolvenzeröffnungsgründen und Sanierungskonzepten nur als Arbeitsmaßstab; keine Literaturfundstellen ohne Nutzerquelle oder lizenzierten Live-Zugriff.
 
 ---
 *Dieser Skill ersetzt keine konkrete anwaltliche Beratung im Einzelfall.*

@@ -1,6 +1,6 @@
 ---
 name: ips-sanierungskonzept
-description: "Sanierungskonzept als wirtschaftliche Grundlage für Insolvenzplan oder StaRUG erstellen oder prüfen. §§ 220 229 InsO §§ 6 14 StaRUG Fortbestehensfähigkeit. Prüfraster: Krisenstadium Ursachen Leitbild Massnahmenpakete Stakeholderbeitraege Plausibilitaetsbrücken zur integrierten Planung. Output: Sanierungskonzept-Gliederung Massnahmenplan Plausibilitaetsfragen. Abgrenzung: nicht für integrierte Finanzplanung (ips-integrierte-planung)."
+description: "Sanierungskonzept als wirtschaftliche Grundlage für Insolvenzplan oder StaRUG erstellen oder prüfen. §§ 220 229 InsO §§ 6 14 StaRUG Fortbestehensfähigkeit. Prüfraster: Ausgangslage, Krisenstadium, Krisenursachen, Leitbild, Maßnahmenpakete, Stakeholderbeiträge, integrierte GuV-/Bilanz-/Liquiditätsplanung, Szenarien und Dokumentation. Output: Sanierungskonzept-Gliederung, Maßnahmenplan, Plausibilitätsfragen, Lückenliste. Abgrenzung: nicht für integrierte Finanzplanung (ips-integrierte-planung)."
 ---
 
 # Sanierungskonzept
@@ -18,10 +18,13 @@ Das wirtschaftliche Fundament des Plans herstellen. Der Skill arbeitet freistehe
 
 ## Geführter Workflow
 
-1. Krisenstadium, Ursachen und Managementmaßnahmen trennen.
-2. Leitbild des sanierten Unternehmens, Marktannahmen, Ertragslogik und Liquiditätslogik formulieren.
-3. Maßnahmenpakete mit Verantwortlichen, Wirkung, Kosten, Timing und Abhängigkeiten erfassen.
-4. Plausibilitätsbrücken zur integrierten Planung und Vergleichsrechnung herstellen.
+1. Auftrag, Stichtag, Verfahrensroute und Adressat klären.
+2. Unternehmenslage und Datenbasis erfassen: Recht, Wirtschaft, Steuern, Vermögen, Finanzierung, Ergebnis.
+3. Krisenstadium, Ursachen und Managementmaßnahmen trennen.
+4. Leitbild des sanierten Unternehmens, Marktannahmen, Ertragslogik, Organisation und Liquiditätslogik formulieren.
+5. Maßnahmenpakete mit Verantwortlichen, Wirkung, Kosten, Timing, Abhängigkeiten und Belegstatus erfassen.
+6. Plausibilitätsbrücken zur integrierten GuV-/Bilanz-/Liquiditätsplanung und Vergleichsrechnung herstellen.
+7. Fortbestehensprognose und nachhaltige Sanierungsfähigkeit getrennt bewerten.
 
 ## Ausgabe
 
@@ -29,6 +32,25 @@ Das wirtschaftliche Fundament des Plans herstellen. Der Skill arbeitet freistehe
 - Maßnahmenplan
 - Plausibilitätsfragen
 - Management Summary
+- Datenanforderung und Lückenliste
+- Sanierungsfähigkeits-Ampel
+
+## Kernbestandteile
+
+Ein belastbares Sanierungskonzept braucht:
+
+1. Auftrag, Stichtag, Verwendungszweck.
+2. Unternehmensprofil und Ausgangslage.
+3. Vermögens-, Finanz- und Ertragslage mit belegter Datenbasis.
+4. Krisenstadium und Krisenursachen.
+5. Leitbild des sanierten Unternehmens.
+6. Maßnahmenprogramm mit Kosten, Timing, Wirkung, Verantwortlichen und Nachweisen.
+7. Integrierte Planung aus GuV, Bilanz und Liquidität.
+8. Szenarien und Sensitivitäten.
+9. Ergebnis zur positiven Fortbestehensprognose und zur nachhaltigen Sanierungsfähigkeit.
+10. Dokumentation von Quellen, Annahmen, Planversionen und offenen Punkten.
+
+Bei kleineren Unternehmen darf die Darstellung schlanker sein. Die Kernbestandteile entfallen dadurch nicht; sie werden nur angemessen fokussiert.
 
 ## Qualitätsgates
 
@@ -36,6 +58,9 @@ Das wirtschaftliche Fundament des Plans herstellen. Der Skill arbeitet freistehe
 - Vergleichsrechnung, Planrechnung und Sanierungskonzept müssen zueinander passen.
 - Annahmen, Schätzungen und fehlende Quellen werden sichtbar markiert.
 - Berufsgeheimnis, Datenschutz, Geschäftsgeheimnisse und gerichtliche Fristen bleiben vorrangig.
+- Liquidität, GuV und Planbilanz müssen rechnerisch geschlossen sein.
+- Eine positive Fortbestehensprognose ersetzt nicht die Prüfung nachhaltiger Sanierungsfähigkeit.
+- Maßnahmen ohne Belegstatus, Verantwortlichen und Timing sind nicht tragend.
 
 ## Rückfragen
 

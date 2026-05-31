@@ -69,6 +69,7 @@ PLUGIN_TESTAKTEN: dict[str, list[str]] = {
     "meinungspruefer": ["meinungspruefer-grenzfaelle-alltag"],
     "nachbarschaftsstreit-pruefer": ["nachbarschaftsstreit-horrorfall-rosengarten"],
     "normenkontrolle-bauleitplanung": ["bebauungsplan-augsburg-bahnhofsareal"],
+    "patentrecht": ["patentrecht-erfindungsakten-ravenstein-moll"],
     "phishing-vorfall-pruefer": ["phishing-vorfall-mayer-sparkasse-berlin"],
     "arbeitsrecht": [
         "befristungskontrollklage-vogt-stadtwerke",

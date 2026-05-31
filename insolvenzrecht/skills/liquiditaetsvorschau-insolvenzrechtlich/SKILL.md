@@ -22,6 +22,12 @@ dem Insolvenzverwalter, dem vorläufigen Insolvenzverwalter, dem Sachverständig
 Eröffnungsverfahren sowie dem beratenden Anwalt bei der Haftungsrekonstruktion gegenüber
 Geschäftsführern (§§ 15a, 15b InsO).
 
+Wenn die Liquiditätsvorschau als Grundlage für Bankgespräch, StaRUG, Schutzschirm,
+Eigenverwaltung, Insolvenzplan oder Sanierungskonzept verwendet werden soll, muss sie
+in eine integrierte Sanierungsplanung überführt werden. Dann reicht die Cash-Sicht nicht:
+GuV, Planbilanz, Krisenursachen, Leitbild, Maßnahmen, Szenarien und Dokumentation
+müssen zusammenpassen.
+
 Die Abgrenzung zur steuerberaterlichen Sicht ist methodisch zwingend: Steuerliche
 Liquiditätsplanungen verfolgen Planungszwecke, während die insolvenzrechtliche Liquiditätsbilanz
 retrograd (für Stichtage in der Vergangenheit) oder prospektiv (für den Eröffnungsantragszeitpunkt)
@@ -86,21 +92,22 @@ systematisch zu optimistisch sind.
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-### IDW S 11 (Beurteilung des Vorliegens von Insolvenzeröffnungsgründen)
+### Berufsständische Planungslogik
 
-Der IDW S 11 (Stand: 25.01.2017) liefert den methodischen Rahmen für die gutachterliche
-Beurteilung von Zahlungsunfähigkeit und Überschuldung. Er schreibt vor:
+Für die gutachterliche Beurteilung von Zahlungsunfähigkeit und Überschuldung ist die
+stichtagsbezogene Liquiditätsbilanz von der Fortbestehensprognose zu trennen. Für ein
+Sanierungskonzept ist zusätzlich zu prüfen, ob die Planung nicht nur Zahlungsfähigkeit,
+sondern auch nachhaltige Sanierungsfähigkeit trägt. Operativ bedeutet das:
 
 - **Stichtagsbezogene Liquiditätsbilanz** für § 17 InsO: Gegenüberstellung der liquiden
   Mittel (Zahlungsmittel I. Stufe) und der fälligen sowie innerhalb von 21 Tagen fällig
   werdenden Verbindlichkeiten (Zahlungsmittel II. Stufe für Mittelzuflüsse).
 - **Integrierte Finanzplanung** für § 19 InsO: Ertrags-, Vermögens- und
   Liquiditätsplanung für mindestens 12 Monate (IDW S 11 empfiehlt 24 Monate).
-- **Prüfungspflichten des Gutachters**: Plausibilisierung aller Planungsprämissen,
+- **Plausibilisierungspflichten**: Plausibilisierung aller Planungsprämissen,
   Sensitivitätsanalyse, Dokumentation abweichender Szenarien.
-- **Drei-Stufen-Ampel** (methodisch abgeleitet aus IDW S 11 Tz. 15–21 i.V.m. BGH
-  IX ZR 123/04): Klassifizierung der Liquiditätslage als GRÜN, GELB oder ROT
-  (siehe Ablauf-Abschnitt).
+- **Drei-Stufen-Ampel**: Klassifizierung der Liquiditätslage als GRÜN, GELB oder ROT
+  (siehe Ablauf-Abschnitt). Rechtsprechungsfundstellen vor Ausgabe live verifizieren.
 
 ## Ablauf
 
@@ -155,6 +162,18 @@ ist ein monatlicher Cashflow-Plan mit expliziter Darstellung der
 Mindestliquiditätsreserve. Für die Fortbestehensprognose nach § 19 Abs. 2 InsO muss
 die Liquiditätsplanung zeigen, dass der Schuldner mit überwiegender Wahrscheinlichkeit
 in der Lage sein wird, seine Verbindlichkeiten laufend zu erfüllen.
+
+Wenn daraus ein Sanierungskonzept werden soll, ergänze:
+
+- Krisenursachenanalyse,
+- Leitbild des sanierten Unternehmens,
+- Maßnahmenmatrix mit Kosten, Timing, Verantwortlichem und Belegstatus,
+- Plan-GuV und Planbilanz,
+- Szenarien und Sensitivitäten,
+- Annahmen-, Quellen- und Planversionsregister.
+
+Erst daraus lässt sich ableiten, ob neben der Fortbestehensprognose auch nachhaltige
+Sanierungsfähigkeit vorliegt.
 
 **Schritt 6 — Gerichtsfeste Dokumentation**
 Das Ergebnis wird als Gutachten oder gutachtenähnliche Stellungnahme dokumentiert:
@@ -278,9 +297,13 @@ zu trennen. Für die Liquiditätsbilanz zählt die **Fälligkeit**, nicht der Za
 
 **7. Kontokorrentlinie ohne Kündigungsprüfung**
 Eine bereits faktisch gekündigte oder nicht mehr verlängerungsfähige KK-Linie darf
-nicht als freie Liquiditätsreserve angesetzt werden. Schmerbach, in: K. Schmidt, InsO,
-20. Aufl. 2023, § 17 Rn. 28, betont, dass nur tatsächlich verfügbare Mittel einzustellen
-sind.
+nicht als freie Liquiditätsreserve angesetzt werden. Nur tatsächlich verfügbare und nicht
+gekündigte Mittel dürfen angesetzt werden.
+
+**8. Liquiditätsvorschau als Sanierungskonzept behandeln**
+Eine Zahlungsfähigkeitsvorschau belegt keine Sanierungsfähigkeit. Für Sanierungsfähigkeit
+braucht es zusätzlich Krisenursachen, Leitbild, Maßnahmen, GuV, Bilanz, Liquidität,
+Szenarien, Nachweise und Monitoring.
 
 ## Quellenpflicht
 
@@ -296,17 +319,13 @@ zwingend zu zitieren und zu berücksichtigen:
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-- Schmerbach, in: K. Schmidt, InsO, 20. Aufl. 2023, § 17 Rn. 11, 28
-
-**IDW-Standard:**
-- IDW S 11 (Beurteilung des Vorliegens von Insolvenzeröffnungsgründen), Stand 25.01.2017,
-  insb. Tz. 15–21 (Liquiditätsbilanz) und Tz. 40–55 (Fortbestehensprognose)
+**Berufsständischer Methodenrahmen:**
+- IDW S 11 für Insolvenzeröffnungsgründe und Fortbestehensprognose.
+- IDW S 6 für Sanierungskonzepte und integrierte Planung, wenn die Liquiditätsvorschau als Sanierungsgrundlage genutzt wird.
 
 **Ergänzend empfohlen:**
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-  (integrierte Finanzplanung für Fortbestehensprognose)
-- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-  6. Aufl. 2024, Kap. 5 Rn. 5.23 ff.
+  (integrierte Finanzplanung für Fortbestehensprognose und Sanierungskonzept)
 
 ---
 *Dieser Skill ersetzt keine konkrete anwaltliche Beratung im Einzelfall.*

@@ -22,6 +22,16 @@ Wenn die Liquiditätsplanung in jedem Zeitabschnitt diese Schwelle einhaelt — 
 
 Die "mehr als 50 Prozent Wahrscheinlichkeit" der Prognose ist also nicht abstrakt zu vermuten sondern aus dem Liquiditätsplan und seiner Sensitivitaet abzuleiten: über das Basis-Szenario hinaus muss auch das **plausible Negativ-Szenario** die Schwelle einhalten — andernfalls reicht die Wahrscheinlichkeit nicht aus.
 
+## Abgrenzung zur Sanierungsfähigkeit
+
+Die positive Fortbestehensprognose ist nicht automatisch ein tragfähiges Sanierungskonzept. Sie beantwortet primär die insolvenzrechtliche Zahlungsfähigkeitsfrage. Sanierungsfähigkeit geht weiter:
+
+- **Fortbestehensprognose:** Kann das Unternehmen im Prognosezeitraum überwiegend wahrscheinlich zahlungsfähig bleiben?
+- **Sanierungsfähigkeit:** Ist das Unternehmen nach Maßnahmen wieder dauerhaft wettbewerbs-, rendite- und finanzierungsfähig?
+- **Sanierungskonzept:** Verbindet Ausgangslage, Krisenursachen, Leitbild, Maßnahmen, integrierte GuV-/Bilanz-/Liquiditätsplanung, Szenarien und Dokumentation.
+
+Wenn der Nutzer Bankgespräch, StaRUG, Schutzschirm, Eigenverwaltung, Insolvenzplan oder Sanierungskonzept nennt, nach der Fortbestehensprognose ausdrücklich den Sanierungsfähigkeits-Check empfehlen. Eine einmalige Finanzierungszusage kann die Fortbestehensprognose tragen, aber trotzdem kein nachhaltig saniertes Geschäftsmodell ergeben.
+
 ## Prüfablauf
 
 ### Schritt 1 — Bilanzielle Überschuldung gegeben?

@@ -1,13 +1,15 @@
 ---
 name: iv-plan-sanierungskonzept
-description: "Sanierungskonzept als wirtschaftliche Grundlage für Insolvenzplan oder StaRUG erstellen oder prüfen. §§ 220 229 InsO §§ 6 14 StaRUG Fortbestehensfähigkeit. Prüfraster: Krisenstadium Ursachen Leitbild Massnahmenpakete Stakeholderbeitraege Plausibilitaetsbrücken. Output: Sanierungskonzept-Gliederung Massnahmenplan Plausibilitaetsfragen. Abgrenzung: nicht für integrierte Finanzplanung (iv-plan-integrierte-planung)."
+description: "Sanierungskonzept als wirtschaftliche Grundlage für Insolvenzplan oder StaRUG erstellen oder prüfen. §§ 220 229 InsO §§ 6 14 StaRUG Fortbestehensfähigkeit. Prüfraster: Unternehmenslage, Krisenstadium, Krisenursachen, Leitbild, Maßnahmenpakete, Stakeholderbeiträge, integrierte GuV-/Bilanz-/Liquiditätsplanung, Dokumentation und Plausibilitätsbrücken. Output: Sanierungskonzept-Gliederung, Maßnahmenplan, Lückenliste, Management Summary. Abgrenzung: Detailmodellierung in iv-plan-integrierte-planung; Sanierungsfähigkeits-Gate in iv-idw-s6-sanierungsfaehigkeit-gate."
 ---
 
-# IV-integrierte Sanierungskonzept
+# Sanierungskonzept für Insolvenzplan und StaRUG
 
 ## Aufgabe
 
-Das wirtschaftliche Fundament des Plans herstellen. Der Skill ist vollständig in das Insolvenzverwaltungs-Plugin integriert, arbeitet innerhalb dieses ZIPs freistehend und setzt keine weiteren Plugins voraus. Wenn Unterlagen fehlen, fragt er gezielt nach, bildet eine klar markierte Annahme oder bietet einen Simulationsstand an.
+Das wirtschaftliche Fundament des Plans herstellen. Der Skill baut aus Zahlen, Maßnahmen, Krisenursachen und Stakeholderbeiträgen ein Sanierungskonzept, das als Grundlage für Insolvenzplan, StaRUG, Eigenverwaltung oder Schutzschirm genutzt werden kann. Er arbeitet innerhalb dieses ZIPs freistehend und setzt keine weiteren Plugins voraus.
+
+Wenn Unterlagen fehlen, fragt er gezielt nach, bildet eine klar markierte Annahme oder bietet einen Simulationsstand an. Bei hohem Risiko wird zuerst `iv-idw-s6-sanierungsfaehigkeit-gate` vorgeschlagen, damit nicht aus einer lückenhaften Planung versehentlich ein belastbares Konzept gemacht wird.
 
 ## Startet bei
 
@@ -18,17 +20,65 @@ Das wirtschaftliche Fundament des Plans herstellen. Der Skill ist vollständig i
 
 ## Geführter Workflow
 
-1. Krisenstadium, Ursachen und Managementmaßnahmen trennen.
-2. Leitbild des sanierten Unternehmens, Marktannahmen, Ertragslogik und Liquiditätslogik formulieren.
-3. Maßnahmenpakete mit Verantwortlichen, Wirkung, Kosten, Timing und Abhängigkeiten erfassen.
-4. Plausibilitätsbrücken zur integrierten Planung und Vergleichsrechnung herstellen.
+1. **Auftrag und Verwendungszweck klären:** Wer braucht das Konzept, wofür, mit welchem Stichtag und welcher Verbindlichkeit?
+2. **Unternehmenslage erfassen:** rechtliche Struktur, wirtschaftliche Ausgangslage, Vermögens-, Finanz- und Ertragslage, Steuer-/SV-Risiken, Datenstand.
+3. **Krisenstadium und Krisenursachen trennen:** Symptome nicht mit Ursachen verwechseln; Liquiditätsdruck, Ergebniskrise und strategische Krise getrennt darstellen.
+4. **Leitbild des sanierten Unternehmens formulieren:** Zielgeschäftsmodell, Marktposition, Ertragslogik, Organisation, Finanzierung und Risikoprofil.
+5. **Maßnahmenpakete bauen:** Maßnahme, Ursache, Eigentümer, Kosten, Wirkung, Timing, Abhängigkeiten, Belegstatus.
+6. **Integrierte Planung anbinden:** GuV, Bilanz und Liquidität müssen rechnerisch geschlossen sein; reine Cash-Sicht reicht nicht.
+7. **Sanierungsfähigkeit bewerten:** positive Fortbestehensprognose plus nachhaltige Wettbewerbs- und Renditefähigkeit.
+8. **Dokumentation herstellen:** Quellen, Annahmen, Rechenwege, Planversionen und offene Punkte so dokumentieren, dass Dritte den Arbeitsstand nachvollziehen können.
 
 ## Ausgabe
 
 - Sanierungskonzept-Gliederung
 - Maßnahmenplan
-- Plausibilitätsfragen
+- Plausibilitäts- und Lückenliste
 - Management Summary
+- Datenanforderung
+- Red-Team-Fragen für Gericht, Gläubigerausschuss, Banken und opponierende Gläubiger
+
+## Gliederung für das Konzept
+
+1. Auftrag, Stichtag, Rolle und Verwendungszweck.
+2. Kurzfazit mit Go/Conditional Go/No-go.
+3. Unternehmensprofil und Datenbasis.
+4. Aktuelle Vermögens-, Finanz- und Ertragslage.
+5. Insolvenzrechtliche Lage: §§ 17, 18, 19 InsO, Antragspflichten, Zahlungsverbote.
+6. Krisenstadium und Krisenursachen.
+7. Leitbild des sanierten Unternehmens.
+8. Maßnahmenprogramm mit Verantwortlichen, Timing, Kosten und Wirkung.
+9. Integrierte Planung: GuV, Bilanz, Liquidität, Working Capital, Finanzierung.
+10. Szenarien, Sensitivitäten und Mindestliquidität.
+11. Stakeholderbeiträge und rechtliche Umsetzung.
+12. Ergebnis zur Sanierungsfähigkeit.
+13. Monitoring, Covenants, Berichtstakt und Planvollzug.
+14. Anlagen-, Quellen- und Annahmenregister.
+
+## Leitbild und Maßnahmen verzahnen
+
+Das Leitbild muss so konkret sein, dass jede Maßnahme daran gemessen werden kann:
+
+- Welche Produkte oder Dienstleistungen bleiben Kern des sanierten Geschäfts?
+- Welche Kunden, Regionen und Vertriebskanäle tragen den Plan?
+- Welche Kostenbasis und welche Marge sind nach der Sanierung erreichbar?
+- Welche Organisation, Geschäftsleitung, IT und Kontrolle sind erforderlich?
+- Welche Finanzierung und Kapitalstruktur trägt das Zielbild?
+- Welche Abhängigkeiten oder Transformationsrisiken bleiben?
+
+Maßnahmen ohne Bezug zu Krisenursache und Leitbild werden als `nicht tragend` markiert.
+
+## Integrierte Planung als Pflichtbrücke
+
+Das Konzept muss seine Maßnahmen in Zahlen übersetzen:
+
+- **GuV:** Umsatz, Rohertrag, Personal, sonstige Kosten, Zinsen, Steuern, Ergebnis.
+- **Bilanz:** Working Capital, Anlagevermögen, Rückstellungen, Verbindlichkeiten, Eigenkapital.
+- **Liquidität:** direkte Ein- und Auszahlungen, Linien, Tilgungen, Mindestliquidität, Engpassmonate.
+- **Brücken:** Jahresergebnis ins Eigenkapital, Working Capital in Cashflow, Finanzierungsmaßnahmen in Bilanz und Zinslast.
+- **Szenarien:** Base Case plus plausible Downside; bei hoher Unsicherheit zusätzliche Sensitivität zu Umsatz, Marge, Forderungseinzug, Maßnahmenverzug.
+
+Bei kleineren Unternehmen ist eine schlankere Darstellung zulässig. Die Kernlogik bleibt aber erhalten: Ausgangslage, Ursachen, Leitbild, Maßnahmen, integrierte Planung, Ergebnis und Dokumentation.
 
 ## Qualitätsgates
 
@@ -36,6 +86,10 @@ Das wirtschaftliche Fundament des Plans herstellen. Der Skill ist vollständig i
 - Vergleichsrechnung, Planrechnung und Sanierungskonzept müssen zueinander passen.
 - Annahmen, Schätzungen und fehlende Quellen werden sichtbar markiert.
 - Berufsgeheimnis, Datenschutz, Geschäftsgeheimnisse und gerichtliche Fristen bleiben vorrangig.
+- Positive Fortbestehensprognose nicht mit voller Sanierungsfähigkeit verwechseln.
+- Einmalige Liquiditätshilfe nicht als nachhaltige Sanierung behandeln.
+- Steuer-, Sozialversicherungs-, Zins- und Working-Capital-Effekte nicht aus der Planung herauslassen.
+- Maßnahmen nur als tragend werten, wenn Status, Verantwortlicher, Zeitpunkt und Nachweis erkennbar sind.
 
 ## Rückfragen
 
@@ -44,10 +98,6 @@ Wenn Angaben fehlen, stelle höchstens acht konkrete Fragen und gruppiere sie na
 ## Arbeitsstil
 
 Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum eine Information wichtig ist, und macht aus unsortiertem Material einen belastbaren nächsten Arbeitsschritt.
-
-## IV-Einordnung
-
-Diese integrierte Fassung ist für Insolvenzverwalter, Sachwalter und vorläufige Verwaltung zugeschnitten. Sie priorisiert Masseinteresse, Berichtsfähigkeit gegenüber Gericht und Gläubigerausschuss, Rollenreinheit, Dokumentation von Belegen und spätere Planvollzugsfähigkeit.
 
 ## Rechtliche Grundlagen und BGH-Leitentscheidungen
 
@@ -68,6 +118,14 @@ Bevor losgelegt wird, klaere:
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## IV-Einordnung
 
 Diese integrierte Fassung ist fuer Insolvenzverwalter, Sachwalter und voraeufige Verwaltung zugeschnitten. Sie priorisiert Masseinteresse, Berichtsfaehigkeit gegenueber Gericht und Glaeubigerausschuss sowie Planvollzugsfaehigkeit.
+
+## Anschluss
+
+- `iv-idw-s6-sanierungsfaehigkeit-gate` — Tragfähigkeit und Lücken vor Freigabe prüfen.
+- `iv-plan-integrierte-planung` — GuV-/Bilanz-/Liquiditätsplanung modellieren.
+- `iv-plan-vergleichsrechnung` — Planfall gegen Liquidationsszenario rechnen.
+- `iv-plan-redteam-qualitygate` — Plan vor Einreichung hart testen.

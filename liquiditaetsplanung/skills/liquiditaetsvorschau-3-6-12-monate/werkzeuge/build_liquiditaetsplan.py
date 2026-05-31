@@ -55,10 +55,10 @@ Standard-Bibliothek: Dieses Skript braucht **kein** pip-Paket. Der XLSX-
 Schreiber ist intern implementiert (zipfile + xml.etree). PyYAML ist
 optional (Mini-YAML-Parser-Fallback inkludiert).
 
-Quellen:
-- BGH, Urt. v. 24.05.2005 – IX ZR 123/04, BGHZ 163, 134 Rn. 12 ff. (§ 17 InsO)
-- BGH, Urt. v. 19.11.2019 – II ZR 233/18, NJW 2020, 1809 Rn. 17 ff.
-- IDW S 6 (Sanierungskonzepte), IDW S 11 (Insolvenzeröffnungsgründe)
+Quellenhygiene:
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen ausgeben.
+- Berufsständische Standards nur als methodischen Hintergrund verwenden.
 """
 
 from __future__ import annotations
@@ -1006,15 +1006,13 @@ def build_prognose_sheet(wb: XlsxWorkbook, styles: dict, daten: dict):
         ws.set(r, 3, "", style_id=styles["border_center"])
 
     r = 4 + len(elemente) + 2
-    ws.set(r, 1, "Quellen:", style_id=styles["bold"])
+    ws.set(r, 1, "Quellen und Methodenhinweise:", style_id=styles["bold"])
     quellen = [
-        "BGH, Urt. v. 24.05.2005 – IX ZR 123/04, BGHZ 163, 134 Rn. 12 ff. (§ 17 InsO).",
-        "BGH, Urt. v. 12.10.2006 – IX ZR 228/03, NJW 2007, 78 Rn. 16 ff. (Indizienkatalog).",
-        "BGH, Urt. v. 19.11.2019 – II ZR 233/18, NJW 2020, 1809 Rn. 17 ff. (Fortbestehensprognose).",
-        "BGH, Urt. v. 09.10.2012 – II ZR 298/11, BGHZ 195, 42 Rn. 12 ff. (insolvenzrechtl. Überschuldung).",
-        "IDW S 6 (Sanierungskonzepte), IDW S 11 (Insolvenzeröffnungsgründe).",
-        "K. Schmidt/Herchen, K. Schmidt, InsO, 20. Aufl. 2023, §§ 17, 19 InsO.",
-        "Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.",
+        "Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.",
+        "Für § 17 InsO: Liquiditätsbilanz mit fälligen Verbindlichkeiten, 3-Wochen-Fenster und 10-%-Schwelle; konkrete BGH-Fundstelle vor Ausgabe verifizieren.",
+        "Für § 19 InsO: Fortbestehensprognose von nachhaltiger Sanierungsfähigkeit trennen.",
+        "Für Sanierungskonzepte: Liquidität, GuV, Planbilanz, Krisenursachen, Leitbild, Maßnahmen, Szenarien und Dokumentation verzahnen.",
+        "Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.",
     ]
     for i, q in enumerate(quellen):
         ws.set(r + 1 + i, 1, "• " + q, style_id=styles["default"])

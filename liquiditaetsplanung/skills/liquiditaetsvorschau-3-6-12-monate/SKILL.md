@@ -19,7 +19,7 @@ Dieser Skill erzeugt aus dem typischerweise vorhandenen, oft unstrukturierten Ma
    - **Gelb (Zahlungsstockung)**: Lücke < 10 % oder Lücke ≥ 10 %, aber innerhalb von 3 Wochen schließbar.
    - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-3. **Fortführungsprognose**: 12-Monats-Auswertung mit den **Kernelementen des IDW S 6** (siehe unten), abgegrenzt von einer reinen handelsbilanziellen Überschuldungsprognose. Liefert ein Ergebnis "positive Fortführungsprognose" / "negative Fortführungsprognose" mit Begründung.
+3. **Fortbestehens- und Sanierungsbrücke**: 12-Monats-Auswertung für § 19 InsO plus Übergabe in eine Sanierungsplanung auf IDW-S-6-Niveau. Die Liquiditätsvorschau allein ist noch kein Sanierungskonzept; sie muss bei Bedarf mit GuV, Planbilanz, Maßnahmenlog und Leitbild verzahnt werden.
 
 4. **Excel-Export**: Die Tabelle wird über `werkzeuge/build_liquiditaetsplan.py` als `liquiditaetsplan.xlsx` exportiert. Cloud-Bedienung über interaktive Tabelle möglich; Werte mit Excel-Formeln, nicht hartcodiert. Das Skript läuft mit reiner Python-Standardbibliothek — kein `pip install` nötig. PyYAML wird automatisch erkannt, sonst kommt ein eingebauter Mini-YAML-Parser zum Einsatz.
 
@@ -121,16 +121,21 @@ Format-Wahl (Abschnitt *Format- und Padlet-Wahl*) und Banking-Wahl (Abschnitt *B
 - Drei Spalten parallel: Auftragsausführung wie geplant, −10 %, −25 %.
 - Ergebnis: Ampel je Szenario.
 
-**Schritt 5 – Fortführungsprognose (12 Monate)**
+**Schritt 5 – Fortbestehensprognose und Sanierungsbrücke (12 Monate)**
 - Aggregation auf Monatsebene; Übergang zu Ertrags- und Bilanzplanung (verzahnt).
-- Prüfe die **IDW-S-6-Kernelemente**:
-  1. **Krisenstadium** (Stakeholder-/Strategie-/Produkt-/Absatz-/Erfolgs-/Liquiditäts-/Insolvenzkrise nach Hauschka-Schema).
-  2. **Krisenursachen** (intern/extern).
-  3. **Leitbild** des sanierten Unternehmens (Geschäftsmodell, Markt, Positionierung).
-  4. **Maßnahmen** (Innenfinanzierung, Außenfinanzierung, leistungswirtschaftlich, finanzwirtschaftlich).
-  5. **Integrierte Planung** (Ertrag/Bilanz/Liquidität) 24+ Monate.
-  6. **Ergebnis**: positive vs. negative Fortführungsprognose mit Begründung.
+- Prüfe zuerst die insolvenzrechtliche Fortbestehensprognose: bleibt die Zahlungsfähigkeit im Prognosezeitraum überwiegend wahrscheinlich erhalten?
+- Prüfe danach, ob die Vorschau in eine Sanierungsplanung überführt werden muss. Das ist regelmäßig der Fall bei Bankgespräch, StaRUG, Schutzschirm, Eigenverwaltung, Insolvenzplan oder wenn Gläubiger einen Sanierungsnachweis verlangen.
+- Für die Sanierungsbrücke sind diese Kernelemente abzuhaken:
+  1. **Ausgangslage:** Unternehmensstruktur, Vermögens-, Finanz- und Ertragslage, Datenstand.
+  2. **Krisenstadium und Ursachen:** Stakeholder-, Strategie-, Produkt-/Absatz-, Erfolgs-, Liquiditäts- oder Insolvenzkrise; Ursachen nicht nur Symptome.
+  3. **Leitbild des sanierten Unternehmens:** Geschäftsmodell, Markt, Kostenbasis, Organisation, Finanzierung und Risikoprofil nach Sanierung.
+  4. **Maßnahmen:** Innenfinanzierung, Außenfinanzierung, leistungswirtschaftliche und finanzwirtschaftliche Beiträge mit Kosten, Timing, Effekt und Belegstatus.
+  5. **Integrierte Planung:** GuV, Planbilanz und Liquidität; Working Capital, Steuern, Zinsen, Tilgung, Mindestliquidität.
+  6. **Szenarien:** Base Case und plausible Downside; bei hoher Unsicherheit weitere Sensitivitäten.
+  7. **Ergebnis:** positive/negative Fortbestehensprognose und getrennt davon tragfähige/nicht tragfähige Sanierungsfähigkeit.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+Wenn ein Sanierungskonzept oder eine Bankunterlage gewünscht ist, nach dem Excel-Export an `idw-s6-integrierte-sanierungsplanung` übergeben. Die Vorschau liefert dann die Cash-Seite, nicht die gesamte Sanierungsbegründung.
 
 **Schritt 6 – Abgrenzung handelsbilanzielle vs. insolvenzrechtliche Überschuldung**
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -194,6 +199,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Bei indizierter insolvenzrechtlicher Überschuldung an `überschuldung-prüfung-19-inso` (Plugin `insolvenzrecht`).
 - Für die wochenaktuelle Kurzfrist-Sicht: Schwester-Skill `liquiditaetsvorschau-3wochen` (dieses Plugin).
 - Für die gerichtsfeste Liquiditätsbilanz als Beweismittel: `liquiditaetsvorschau-insolvenzrechtlich` (dieses Plugin).
+- Für Sanierungskonzept- und Bankfähigkeit: `idw-s6-integrierte-sanierungsplanung` (dieses Plugin).
 
 
 ## Triage — Liquiditaetsvorschau Einordnung

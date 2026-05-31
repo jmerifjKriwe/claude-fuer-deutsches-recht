@@ -1,6 +1,6 @@
 ---
 name: iv-plan-redteam-qualitygate
-description: "Insolvenzplan oder StaRUG-Plan vor Einreichung hart auf Fehler prüfen aus Sicht opponierender Gläubiger und Gericht. §§ 231 245 251 InsO Versagungsgründe. Prüfraster: Vollständigkeit Bewertungswiderspruch Gruppenbildung fehlende Anlagen unbestimmte Klauseln Bestätigungsrisiken. Output: Red-Team-Bericht Fehlerliste Heilungsliste. Abgrenzung: nicht für laufende Qualitaetssicherung in anderen IV-Skills."
+description: "Insolvenzplan, StaRUG-Plan oder Sanierungskonzept vor Einreichung hart auf Fehler prüfen aus Sicht opponierender Gläubiger, Gericht, Bank und Gläubigerausschuss. §§ 231 245 251 InsO Versagungsgründe. Prüfraster: Vollständigkeit, Sanierungsfähigkeit, Krisenursachen, Leitbild, integrierte Planung, Bewertungswiderspruch, Gruppenbildung, fehlende Anlagen, unbestimmte Klauseln, Bestätigungsrisiken. Output: Red-Team-Bericht, Fehlerliste, Heilungsliste, Go/No-go-Vermerk."
 ---
 
 # IV-integrierte Red Team und Quality Gate
@@ -20,8 +20,9 @@ Den Plan vor Gegnern und Gericht hart prüfen. Der Skill ist vollständig in das
 
 1. Plan wie ein opponierender Gläubiger, Gericht und Investor lesen.
 2. Klarheit, Vollständigkeit, Widerspruchsfreiheit, Bestimmtheit, Anlagen, Zahlenbrücken und Offenlegung prüfen.
-3. Top-Fehler, Heilungsvorschläge, Risiko nach Schwere und verantwortliche Person ausgeben.
-4. Freigabe erst empfehlen, wenn kritische Punkte bearbeitet oder bewusst akzeptiert sind.
+3. Sanierungskonzept wie ein skeptischer Bankprüfer lesen: Krisenursachen, Leitbild, Maßnahmen und integrierte Planung müssen zusammenpassen.
+4. Top-Fehler, Heilungsvorschläge, Risiko nach Schwere und verantwortliche Person ausgeben.
+5. Freigabe erst empfehlen, wenn kritische Punkte bearbeitet oder bewusst akzeptiert sind.
 
 ## Ausgabe
 
@@ -30,12 +31,43 @@ Den Plan vor Gegnern und Gericht hart prüfen. Der Skill ist vollständig in das
 - Heilungsliste
 - Go/No-go-Vermerk
 
+## Sanierungskonzept-Quality-Gate
+
+Prüfe zusätzlich zu den rechtlichen Planrisiken:
+
+| Gate | Angriffspunkt | Heilung |
+|---|---|---|
+| Datenbasis | Stichtag, SuSa, BWA, OPOS, Bank, Steuerstände widersprechen sich. | Datenraumstand einfrieren, Reconciliation-Tabelle erstellen. |
+| Krisenursachen | Konzept beschreibt Symptome, aber nicht Ursachen. | Ursachenmatrix mit Gegenmaßnahme je Ursache ergänzen. |
+| Leitbild | Zielbild bleibt abstrakt oder passt nicht zum Markt. | Zielkunden, Produkte, Kostenbasis, Organisation und Finanzierung konkretisieren. |
+| Maßnahmen | Wirkung, Kosten, Timing oder Verantwortliche fehlen. | Maßnahmenlog mit Status und Nachweis einbauen. |
+| Integrierte Planung | GuV, Bilanz und Liquidität schließen nicht. | Brückenrechnung und Planversion nachziehen. |
+| Fortbestehensprognose | Liquidität reicht nur im optimistischen Fall. | Downside-Case, Mindestliquidität und verbindliche Finanzierungsmaßnahmen prüfen. |
+| Nachhaltige Sanierungsfähigkeit | Liquidität wird verlängert, Geschäftsmodell bleibt defekt. | Wettbewerbs-, Rendite- und Finanzierungsfähigkeit nach Maßnahmen gesondert bewerten. |
+| Dokumentation | Annahmen und Quellen sind nicht nachvollziehbar. | Annahmenregister, Quellenliste und Entscheidungsvermerk ergänzen. |
+
+## Gegnerische Fragen
+
+Stelle diese Fragen ausdrücklich:
+
+1. Welche Planannahme ist am ehesten angreifbar?
+2. Welche Maßnahme ist für das Ergebnis tragend, aber noch nicht verbindlich?
+3. Welche Krisenursache bleibt nach Maßnahmen bestehen?
+4. Welche Planungsversion ist maßgeblich und wer hat sie freigegeben?
+5. Welche Steuer-, Zins-, SV- oder Working-Capital-Position fehlt oder ist zu niedrig?
+6. Welche Klasse oder Gruppe kann aus der Vergleichsrechnung eine Schlechterstellung ableiten?
+7. Was passiert, wenn der Hauptkunde, die Banklinie oder der Gesellschafterbeitrag ausfällt?
+8. Kann ein Dritter die Herleitung ohne Insiderwissen nachvollziehen?
+
 ## Qualitätsgates
 
 - Keine Rechtswirkung ohne genaue Betroffenengruppe, Betrag, Zeitpunkt und Beleg.
 - Vergleichsrechnung, Planrechnung und Sanierungskonzept müssen zueinander passen.
 - Annahmen, Schätzungen und fehlende Quellen werden sichtbar markiert.
 - Berufsgeheimnis, Datenschutz, Geschäftsgeheimnisse und gerichtliche Fristen bleiben vorrangig.
+- Kein Grün, wenn nur die Liquidität, aber nicht die nachhaltige Sanierungsfähigkeit trägt.
+- Kein Grün, wenn eine tragende Maßnahme nicht rechtzeitig verbindlich gesichert ist.
+- Kein Grün, wenn Planbilanz, GuV und Liquidität nicht rechnerisch zusammenlaufen.
 
 ## Rückfragen
 

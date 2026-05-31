@@ -121,6 +121,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `iv-eigenverwaltung-sachwaltung` | Sachwalter­kontrolle und Schnittstellenmanagement bei Eigenverwaltung nach §§ 270 ff. InsO. §§ 270 274 275 InsO Sachwalterbefugnisse und Kontrollrechte. Prüfraster: Rollenabgrenzung Finanzplankontrolle Rechnungslegung… |
 | `iv-eroeffnungsgutachten` | Eroeffnungsgutachten als Sachverständiger oder vorlaeufiger Insolvenzverwalter erstellen wenn Gericht Prüfauftrag erteilt. §§ 17 18 19 InsO Eroffnungsgründe §§ 26 54 InsO Massekostendeckung. Prüfraster:… |
 | `iv-forderungsanmeldung-pruefung` | Eingehende Forderungsanmeldungen nach § 174 InsO prüfen und Tabelle für Prüfungstermin vorbereiten. §§ 174 175 176 InsO §§ 38 39 InsO Rang. Prüfraster: Schriftform Beleg Grund Betrag Rang Absonderungsrechte… |
+| `iv-idw-s6-sanierungsfaehigkeit-gate` | Sanierungskonzept auf IDW-S-6-Niveau aus Insolvenzverwalter-, Sachwalter- oder vorläufiger Verwaltungsperspektive prüfen: Fortbestehensprognose, nachhaltige Sanierungsfähigkeit, Leitbild, Maßnahmen, integrierte Planung, Dokumentation und Go/No-go. |
 | `iv-kommandocenter` | Einstiegspunkt für neue Insolvenzverwaltungsmandate: Verfahrensart bestimmen Prioritaeten setzen naechste Workstreams planen. §§ 56 80 InsO Verwalterbestellung § 270d Schutzschirm StaRUG. Prüfraster: Verfahrensrolle… |
 | `iv-masseeinsammlung` | Massepositionen erfassen und realisieren: Bankguthaben Debitoren Herausgabeansprüche Versicherungen Rückstaende. §§ 80 148 InsO Verwaltungsbefugnis und Massezugehoerigkeit. Prüfraster: Massekarte Priorisierung… |
 | `iv-massemehrung-asset-realisation` | Verwertungsstrategie und Massemehrung entwickeln wenn Masse niedrig oder Quote ungewiss ist. §§ 159 160 InsO Verwertung § 133 InsO Vorsatzanfechtung § 15b InsO Haftungsansprüche. Prüfraster: Werthebel Assets Prozesse… |
@@ -218,6 +219,7 @@ Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enth
 - `iv-eigenverwaltung-sachwaltung` — Sachwalter-Kontrolle und Schnittstellenmanagement bei Eigenverwaltung nach §§ 270 ff. InsO.
 - `iv-eroeffnungsgutachten` — Eroeffnungsgutachten als Sachverstaendiger oder vorlaeufiger Verwalter erstellen.
 - `iv-forderungsanmeldung-pruefung` — Forderungsanmeldungen nach § 174 InsO pruefen und Tabelle fuer Pruefungstermin vorbereiten.
+- `iv-idw-s6-sanierungsfaehigkeit-gate` — Sanierungskonzept und Sanierungsfähigkeit vor Planroute, Schutzschirm oder StaRUG hart plausibilisieren.
 - `iv-kommandocenter` — Einstiegspunkt: Verfahrensart bestimmen, Prioritaeten setzen und Workstreams planen.
 - `iv-masseeinsammlung` — Massepositionen erfassen und realisieren: Bankguthaben, Debitoren, Herausgabeansprueche.
 - `iv-massemehrung-asset-realisation` — Verwertungsstrategie und Massemehrung entwickeln: Werthebel, Anfechtung, Vergleich.

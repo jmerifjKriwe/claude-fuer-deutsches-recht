@@ -13,7 +13,7 @@ Sanierungs-Vehikel: Schuldner behaelt Verfügungsbefugnis, Sachwalter überwacht
 
 1. Liquiditäts-Lage: Zahlungsunfähigkeit oder "drohend" § 18 InsO?
 2. Überschuldung § 19 InsO?
-3. Sanierungs-Aussicht (positive Fortbestehensprognose)?
+3. Sanierungs-Aussicht: positive Fortbestehensprognose und belastbare Sanierungsfähigkeit?
 4. Anzahl Mitarbeiter / Gläubiger?
 5. Geplante Sanierungs-Maßnahmen?
 6. Schutzschirm-Anwalt bereit?
@@ -76,11 +76,24 @@ Sanierungs-Vehikel: Schuldner behaelt Verfügungsbefugnis, Sachwalter überwacht
 
 ### Phase 1 — Vorbereitung (vor Antrag)
 
-- Sanierungs-Gutachten
+- Sanierungskonzept mit Krisenursachen, Leitbild, Maßnahmen, integrierter Planung und Dokumentation
 - Liquiditäts-Plan 13-Wochen
 - Bescheinigung Prüfer "Sanierung nicht offenbar aussichtslos"
 - Sachwalter-Vorschlag
 - Antrag-Entwurf
+
+### Phase 1a — Sanierungsfähigkeits-Check
+
+Vor Schutzschirmantrag ausdrücklich prüfen:
+
+- **Kein § 17 InsO:** Schutzschirm ist bei eingetretener Zahlungsunfähigkeit gesperrt.
+- **Fortbestehensprognose:** Zahlungsfähigkeit im Prognosezeitraum mit überwiegender Wahrscheinlichkeit.
+- **Nachhaltige Sanierungsfähigkeit:** nicht nur Liquiditätsbrücke, sondern tragfähiges Geschäftsmodell nach Maßnahmen.
+- **Leitbild:** Markt, Produkt, Kostenbasis, Organisation, Finanzierung und Umsetzungsfähigkeit nach Sanierung.
+- **Maßnahmen:** Verantwortliche, Kosten, Timing, Wirkung, Abhängigkeiten und Belegstatus.
+- **Integrierte Planung:** GuV, Bilanz und Liquidität müssen zusammenpassen; Steuern, Zinsen, SV, Working Capital und Insolvenzgeldphase einbeziehen.
+
+Bei unklarer Lage `fachanwalt-insolvenz-idw-s6-sanierungskonzept` vorschalten und erst danach die Bescheinigung/Antragsroute finalisieren.
 
 ### Phase 2 — Antrag
 
@@ -167,7 +180,7 @@ Sanierungs-Vehikel: Schuldner behaelt Verfügungsbefugnis, Sachwalter überwacht
 Bevor losgelegt wird, klaere:
 
 1. **ZU vorhanden?** Zahlungsunfaehigkeit § 17 InsO? → Kein Schutzschirm, nur Eigenverwaltung § 270b InsO oder Regelverfahren.
-2. **Prognose positiv?** Bescheinigung "Sanierung nicht offenbar aussichtslos" § 270d Abs. 1 S. 1 InsO durch geeigneten Sachverstaendigen (IDW S 11 / IDW S 6).
+2. **Prognose und Sanierungsfähigkeit positiv?** Bescheinigung "Sanierung nicht offenbar aussichtslos" § 270d Abs. 1 S. 1 InsO durch geeigneten Sachverstaendigen; zugrunde liegendes Konzept muss Fortbestehensprognose und nachhaltige Sanierungslogik plausibel tragen.
 3. **Sachwalter-Vorschlag vorbereitet?** Schuldner hat Vorschlagsrecht § 270d Abs. 2 InsO — Sachwalter muss unabhaengig und geeignet sein.
 4. **13-Wochen-Liquiditaetsplan?** Ohne Forecast keine Glaubhaftmachung der Fortfuehrungsfaehigkeit.
 5. **Insolvenzgeld gesichert?** § 165 SGB III — Vorauszahlung durch Bank moegliich (Insolvenzgeld-Vorfinanzierung).
@@ -189,7 +202,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Workflow — 6-Phasen-Schritt-fuer-Schritt
 
 1. **Krisen-Diagnose (Woche -4 bis -2 vor Antrag):** Liquiditaet 13 Wochen direct-method erstellen; Eröffnungsgrund §§ 17-19 InsO bestimmen; Fortbestehensprognose IDW S 11 beauftragen.
-2. **Bescheinigung (Woche -2 bis -1):** Sachverstaendigen (Steuerberater, WP) mit Bescheinigung § 270d Abs. 1 InsO beauftragen; Konzept IDW S 6 Niveau als Grundlage.
+2. **Bescheinigung (Woche -2 bis -1):** Sachverstaendigen mit Bescheinigung § 270d Abs. 1 InsO beauftragen; Sanierungskonzept auf IDW-S-6-Niveau als Grundlage vorbereiten und Red-Team-Lücken vorab schließen.
 3. **Antragsvorbereitung (Woche -1):** Sachwalter-Kandidaten identifizieren und Vorschlag vorbereiten; Antrag schreiben mit Glaubhaftmachungs-Unterlagen; Insolvenzgeld-Vorfinanzierungs-Vereinbarung mit Hausbank abschliessen.
 4. **Antragstellung (Tag 0):** Schriftlicher Antrag beim AG/Insolvenzgericht; Bescheinigung anlegen; Sachwalter-Vorschlag; Glaeubiger- und Vermoegensverzeichnis.
 5. **Schutzschirm-Phase (3 Monate):** Insolvenzplan aufstellen (§§ 217 ff. InsO); Glaeubigerklassen bilden (§ 222 InsO); Schluessel-Glaeubiger verhandeln; Insolvenzgeld sichern (§ 165 SGB III).

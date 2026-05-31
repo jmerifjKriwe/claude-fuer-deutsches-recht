@@ -1,6 +1,6 @@
 ---
 name: rollierende-liquiditaetsplanung-24-monate-template
-description: "Rollierende 24-Monats-Liquiditaetsplanung nach StaRUG erstellen: Sanierungsberater oder GF braucht Liquiditaets-Forecast. Normen: § 1 StaRUG (24-Monats-Horizont), IDW S 11 (Fortbestehensprognose), IDW S 6 (Sanierungskonzept). Prüfraster: Woechentliche Granularitaet Wochen 1-13, monatliche Granularitaet Monate 14-24, Stresstests, Sensitivitaetsanalysen, StaRUG-konforme Dokumentation. Output Excel-Template Liquiditaetsplanung, Stresstest-Szenarios, Dokumentationsprotokoll. Abgrenzung: Integrierte GuV/Bilanz/CF-Planung siehe integrierte-planung-guv-bilanz-cashflow; Ampel-KPIs siehe kennzahlenset-und-ampelsystem-starug-konform."
+description: "Rollierende 24-Monats-Liquiditaetsplanung nach StaRUG erstellen: Sanierungsberater oder GF braucht Liquiditaets-Forecast. Normen: § 1 StaRUG (24-Monats-Horizont), Fortbestehensprognose, Sanierungskonzept. Prüfraster: Woechentliche Granularitaet Wochen 1-13, monatliche Granularitaet Monate 14-24, Stresstests, Sensitivitaetsanalysen, Maßnahmenbrücke, StaRUG-konforme Dokumentation. Output Excel-Template Liquiditaetsplanung, Stresstest-Szenarios, Dokumentationsprotokoll. Abgrenzung: Integrierte GuV/Bilanz/CF-Planung siehe integrierte-planung-guv-bilanz-cashflow; Ampel-KPIs siehe kennzahlenset-und-ampelsystem-starug-konform."
 ---
 
 # Rollierende Liquiditätsplanung — 24-Monate-Template
@@ -14,8 +14,7 @@ Die rollierende Liquiditätsplanung ist das operative Herzstück des § 1 StaRUG
 - § 1 StaRUG (Krisenfrüherkennungspflicht, 24-Monats-Horizont)
 - § 18 InsO (drohende Zahlungsunfähigkeit — Prognosezeitraum)
 - § 29 Abs. 2 StaRUG (Zugangsvoraussetzung: drohende ZU muss vorliegen)
-- IDW S 11 Tz. 23 ff. (Liquiditätsstatus und -planung als Basis der Fortbestehensprognose)
-- IDW S 6 (integrierte Planung als Teil des Sanierungskonzepts)
+- Berufsständische Methodenlogik zu Fortbestehensprognose und Sanierungskonzepten: Liquiditätsplanung ist nur ein Baustein; bei Sanierungsaussagen müssen GuV, Bilanz, Maßnahmen, Leitbild und Dokumentation hinzukommen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
@@ -135,6 +134,19 @@ Monatlicher Vergleich: Was wurde geplant, was ist eingetreten?
 - Systematische Abweichungen führen zur Planrevision
 - Planrevision wird dokumentiert und von GF unterschrieben
 
+### Schritt 6: Brücke zum Sanierungskonzept
+
+Wenn der 24-Monats-Plan Bank, Gläubiger, StaRUG, Schutzschirm oder Insolvenzplan tragen soll, ergänze:
+
+- Krisenursache je Engpass.
+- Leitbild des sanierten Unternehmens.
+- Maßnahmenlog mit Verantwortlichem, Kosten, Timing, GuV-/Bilanz-/Liquiditätseffekt und Nachweis.
+- Plan-GuV und Planbilanz.
+- Base Case und plausible Downside.
+- Annahmen-, Quellen- und Planversionsregister.
+
+Ohne diese Brücke ist die Planung ein Liquiditätsforecast, aber noch kein Sanierungskonzept.
+
 ---
 
 ## Templates
@@ -213,6 +225,8 @@ INVESTITIONEN
 4. **Zu optimistische Planprämissen** sind keine "konservative Schätzung" — Gerichte prüfen ex post, ob die Annahmen zum Zeitpunkt der Planung plausibel waren. Überhöhte Umsatzerwartungen ohne Begründung sind Haftungsrisiko.
 
 5. **Kreditlinie als Puffer einplanen, ohne Verlängerungsrisiko zu beachten** — ausgelaufene Kreditlinien, die stillschweigend als verlängert angenommen werden, verfälschen die Liquiditätssicht erheblich.
+
+6. **Liquiditätsplan als Sanierungskonzept behandeln** — eine positive Liquiditätskurve belegt nicht automatisch nachhaltige Sanierungsfähigkeit. Ertragskraft, Bilanz, Krisenursachen, Leitbild und Maßnahmen müssen separat plausibilisiert werden.
 
 ---
 

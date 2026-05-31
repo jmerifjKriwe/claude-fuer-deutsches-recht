@@ -13,7 +13,7 @@ Insolvenz-Sanierungs-Verhandlungen sind im Wesentlichen **Gläubiger-Management*
 
 - Schuldner-Lage (drohende Z-Unf. § 18 InsO, Z-Unf. § 17, Überschuldung § 19)
 - Gläubigerstruktur (Bank, Lieferanten, FA, Sozialkasse, Pensionssicherungsverein)
-- Sanierungs-Konzept-Status (IDW S 6?)
+- Sanierungskonzept-Status: Fortbestehensprognose, Sanierungsfähigkeit, Leitbild, Maßnahmen, integrierte Planung, Dokumentation
 - Geplanter Pfad (StaRUG, Schutzschirm, Eigenverwaltung, Regelinsolvenz)
 - Wirtschaftliches Sanierungs-Potenzial
 
@@ -67,7 +67,7 @@ Insolvenz-Sanierungs-Verhandlungen sind im Wesentlichen **Gläubiger-Management*
 ### Phase 1 — Lage-Analyse
 
 - Liquiditätsstatus 3 Wochen / 13 Wochen / 24 Monate
-- Fortbestehensprognose (IDW S 6 / S 11)
+- Fortbestehensprognose und Sanierungsfähigkeits-Check
 - Pfad-Wahl
 
 ### Phase 2 — Gläubigerliste + Vergleichs-Skizze
@@ -101,13 +101,14 @@ Insolvenz-Sanierungs-Verhandlungen sind im Wesentlichen **Gläubiger-Management*
 - **Bank-Sicherheiten** kostentreu verhandeln (sonst Insolvenz vorgezogen)
 - **Pensionssicherungsverein** früh einbeziehen (Anwartschaften)
 - **Cram-Down** mit Klassenbildung strategisch nutzen (separate Klasse renitenter Gläubiger)
-- **IDW S 6**-Gutachten als Basis (ohne keine Verhandlungsbasis)
+- Sanierungskonzept auf IDW-S-6-Niveau als Verhandlungsbasis: Krisenursachen, Leitbild, Maßnahmen, integrierte Planung und Nachweise so aufbereiten, dass Banken und Gläubiger nicht nur eine Quote, sondern die wirtschaftliche Logik prüfen können.
 - **Insolvenzgeld § 165 SGB III** als Liquiditätsbrücke nutzen
 - **Steuerberater + Anwalt parallel**: stb-warnschreiben → anw-haftungswarn-15a → Sanierung
 
 ## Querverweise
 
 - `fachanwalt-insolvenz-sanierungsrecht-orientierung` — Triage
+- `fachanwalt-insolvenz-idw-s6-sanierungskonzept` — Sanierungskonzept und Sanierungsfähigkeit vor Bank- oder Gläubigerverhandlung plausibilisieren
 - `fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren` — Vertiefung
 - `fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan` — StaRUG-Plan
 - `fachanwalt-insolvenz-krypto-verwertung` — Krypto-Sonderfall
@@ -146,7 +147,7 @@ Bevor losgelegt wird, klaere:
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Workflow — 5-Phasen-Glaeubigerverhandlung
 
-1. **Lageanalyse:** Liquiditaetsstatus 3-Wochen und 13-Wochen-Forecast; Fortbestehensprognose § 19 Abs. 2 InsO; IDW S 6 beauftragen wenn Sanierung ernsthaft.
+1. **Lageanalyse:** Liquiditaetsstatus 3-Wochen und 13-Wochen-Forecast; Fortbestehensprognose § 19 Abs. 2 InsO; Sanierungskonzept auf IDW-S-6-Niveau vorbereiten, wenn Banken, Warenkreditversicherer oder Schluesselglaeubiger mittragen sollen.
 2. **Glaeubigerstruktur:** Rangtabelle erstellen: gesichert (§§ 49-51 InsO) → Masseforderungen → unsecured → Nachrang § 39 InsO; BATNA je Glaeubiger errechnen.
 3. **Vorverhandlung Schluessel-Glaeubiger:** Bank zuerst (groesstes Sicherheitenvolumen); Stillhalte-Vereinbarung 90 Tage; Term Sheet Vergleichsquoten.
 4. **Plan-Aufstellung:** StaRUG-Plan oder InsO-Plan; Klassenbildung; Vergleichsrechnung; Mehrheiten-Simulation.

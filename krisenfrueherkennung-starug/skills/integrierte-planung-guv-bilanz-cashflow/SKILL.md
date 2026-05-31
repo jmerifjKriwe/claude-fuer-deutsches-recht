@@ -12,9 +12,8 @@ Wer nur eine GuV-Planung vorlegt, hat keinen Finanzplan. Wer nur eine Liquiditä
 ## Rechtsgrundlagen
 
 - § 1 StaRUG (Krisenfrüherkennungspflicht, integrierte Planung als Standard)
-- IDW S 6 Tz. 85 ff. (integrierte Planungsrechnung als Kern des Sanierungskonzepts)
-- IDW S 11 Tz. 23 ff. (Liquiditätsstatus und integrierte Planung)
-- IDW S 11 Tz. 30 ff. (Fortführungsprognose — Planungsgrundlage)
+- IDW S 6 in aktueller Fassung als methodischer Rahmen für Sanierungskonzepte
+- IDW S 11 als methodischer Rahmen für Insolvenzeröffnungsgründe und Fortbestehensprognose
 - § 18 InsO (drohende Zahlungsunfähigkeit — integrierte Sicht nötig)
 - § 252 Abs. 1 Nr. 2 HGB (Going-Concern-Prinzip in der Rechnungslegung)
 - DRS 21 (Kapitalflussrechnung nach DRSC-Standard)
@@ -147,6 +146,19 @@ Separates Modul für größere Investitionsvorhaben:
 - Tilgungsplan bestehender Verbindlichkeiten
 - Fälligkeiten und Verlängerungsoptionen bestehender Kredite
 
+### Schritt 6: Sanierungskonzept-Brücke
+
+Wenn die integrierte Planung ein Sanierungskonzept tragen soll, ergänze zwingend:
+
+- **Krisenursachen:** Welche Planposition adressiert welche Ursache?
+- **Leitbild:** Welche Zielstruktur erklärt die Planwerte nach Sanierung?
+- **Maßnahmenlog:** Maßnahme, Verantwortlicher, Zeitpunkt, Kosten, GuV-/Bilanz-/Liquiditätseffekt, Nachweis.
+- **Szenarien:** Base Case und plausible Downside; bei kritischen Annahmen zusätzlich Einzelsensitivität.
+- **Dokumentation:** Datenstand, Planversion, Quellen, Annahmen, offene Punkte.
+- **Monitoring:** Kennzahlen, Covenants, Mindestliquidität, Reporting-Takt.
+
+Eine reine Drei-Statement-Mechanik reicht nicht, wenn die wirtschaftliche Sanierungslogik fehlt.
+
 ---
 
 ## Templates
@@ -193,7 +205,11 @@ FINANZIERUNG
 
 4. **Investitionsplanungen ohne Finanzierungsquelle** — CAPEX-Pläne, die nicht mit konkreter Finanzierungsstruktur unterlegt sind, sind Wunschlisten, keine valide Planung.
 
-5. **Steuerlast unterschätzen** — effektiver Steuersatz (Körperschaftsteuer + Solidaritätszuschlag + Gewerbesteuer) beträgt ca. 30 %; diese Position fehlt in vielen "schnellen" Plan-GuVs.
+5. **Steuerlast unterschätzen** — Ertragsteuern, Umsatzsteuer, Lohnsteuer, Sozialversicherung und steuerliche Effekte von Sanierungsmaßnahmen müssen bei Wesentlichkeit in Cash und Ergebnis abgebildet werden.
+
+6. **Krisenursachen nicht verknüpfen** — Planung verbessert sich, ohne dass eine Maßnahme die Ursache erklärt. Dann ist es keine Sanierungsplanung, sondern eine Wunschrechnung.
+
+7. **Kleine Unternehmen unterprüfen** — bei geringerer Komplexität darf die Darstellung schlanker sein, aber GuV, Bilanz, Liquidität, Maßnahmen und Belege müssen trotzdem zusammenpassen.
 
 ---
 
@@ -210,7 +226,7 @@ FINANZIERUNG
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-- IDW S 6 — IDW Standard: Grundsaetze zur Erstellung von Sanierungskonzepten, Stand 06/2022 — integrierte Unternehmensplanung als Pflichtbaustein jedes Sanierungskonzepts.
+- IDW S 6 — Anforderungen an Sanierungskonzepte, aktuelle Fassung 2023; integrierte Unternehmensplanung als Kernbaustein jedes belastbaren Sanierungskonzepts.
 
 ## Paragrafenkette Integrierte Planung
 
@@ -222,6 +238,7 @@ FINANZIERUNG
 2. **Annahmen dokumentiert?** Umsatz-Wachstumsraten, Kostenentwicklung, Working-Capital-Annahmen transparent?
 3. **Szenarien?** Base-Case, Best-Case, Worst-Case durchgerechnet?
 4. **Saldo-Check?** Integrierte Planung muss bilanziell schliessen (Bilanzsumme immer ausgeglichen).
+5. **Sanierungsbezug?** Jede tragende Planverbesserung muss auf Ursache, Maßnahme, Timing und Beleg zurückgeführt werden.
 
 ## Quellenregel
 

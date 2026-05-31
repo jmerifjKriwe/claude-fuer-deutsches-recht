@@ -1,0 +1,33 @@
+{
+  "name": "patentrecht",
+  "version": "52.2.2",
+  "description": "Großes Patentrechts-Plugin für Erfindungsaufnahme, Patentanmeldung, Anspruchsentwurf, Recherche, Neuheit, erfinderische Tätigkeit, FTO, Abmahnung, Claim Chart, Vorbenutzungsrecht, Lizenz, Erfinderbenennung, Einspruch, Nichtigkeit, Register und Fristen.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "patentrecht",
+    "patentanmeldung",
+    "patentansprueche",
+    "patentverletzung",
+    "patentrecherche",
+    "stand-der-technik",
+    "neuheit",
+    "erfinderische-taetigkeit",
+    "freedom-to-operate",
+    "claim-chart",
+    "vorbenutzungsrecht",
+    "patentlizenz",
+    "einspruch",
+    "nichtigkeitsklage",
+    "dpma",
+    "epo",
+    "epa",
+    "bpatg",
+    "patg",
+    "epue",
+    "arbneg"
+  ]
+}

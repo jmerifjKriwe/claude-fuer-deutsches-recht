@@ -13,7 +13,7 @@ Vorinsolvenzliches Sanierungs-Instrument bei drohender Zahlungsunfähigkeit. Kei
 
 1. Liquiditäts-Lage: drohende Zahlungsunfähigkeit § 18 InsO?
 2. Bereits Zahlungsunfähigkeit § 17 InsO oder Überschuldung § 19 InsO? -> dann nicht StaRUG, sondern InsO
-3. Sanierungs-Aussichts-Prüfung
+3. Sanierungs-Aussichts-Prüfung mit Sanierungskonzept-Gate
 4. Gläubiger-Struktur (Bank, Lieferanten, Mitarbeiter)?
 5. Welche Gläubiger sollen vom Plan betroffen sein?
 
@@ -90,6 +90,20 @@ Vorinsolvenzliches Sanierungs-Instrument bei drohender Zahlungsunfähigkeit. Kei
 - Liquiditäts-Plan 24-Monate
 - Bescheinigung Prüfer
 - Sanierungs-Konzept
+
+### Phase 1a — Sanierungskonzept-Gate
+
+Vor Anzeige, Planaufstellung oder Stabilisierungsantrag prüfen:
+
+1. **Fortbestehensprognose:** Kann die Zahlungsfähigkeit im Prognosezeitraum mit überwiegender Wahrscheinlichkeit gehalten werden?
+2. **Nachhaltige Sanierungsfähigkeit:** Wird nur Zeit gekauft oder werden Krisenursachen dauerhaft beseitigt?
+3. **Leitbild:** Ist das sanierte Unternehmen konkret beschrieben: Markt, Produkte, Kostenbasis, Organisation, Finanzierung?
+4. **Maßnahmen:** Hat jede Maßnahme Verantwortlichen, Timing, Kosten, Effekt, Abhängigkeit und Belegstatus?
+5. **Integrierte Planung:** Passen GuV, Bilanz und Liquidität zusammen; sind Steuer-, Zins- und Working-Capital-Effekte enthalten?
+6. **Sensitivität:** Trägt der Plan auch bei plausibler Abweichung oder nur im Wunschfall?
+7. **Dokumentation:** Sind Quellen, Annahmen, Planversionen und offene Punkte für Gericht, Gläubiger und Restrukturierungsbeauftragten nachvollziehbar?
+
+Wenn ein Gate rot ist, kein StaRUG-Versprechen ausgeben, sondern zuerst `fachanwalt-insolvenz-idw-s6-sanierungskonzept` nutzen und eine Datenanforderung erstellen.
 
 ### Phase 2 — Anzeige § 31 StaRUG
 
@@ -218,6 +232,9 @@ II. Restrukturierungsziel
 
 III. Eröffnungsground: Drohende Zahlungsunfaehigkeit § 18 InsO
 [Darlegung 24-Monats-Forecast]
+
+IIIa. Sanierungsgrundlage
+[Krisenursachen, Leitbild des sanierten Unternehmens, tragende Maßnahmen, integrierte Planung, wesentliche Annahmen und offene Punkte knapp darstellen.]
 
 IV. Planbetroffene Glaeubiger (§ 9 Abs. 2 StaRUG)
 1. [KLASSE I — Finanzglaeubiger]: [BETRAG EUR]

@@ -15,6 +15,7 @@ Anwendungsfälle:
 - Gläubigerantrag § 14 InsO (Substantiierung der Forderung und Zahlungsunfähigkeit).
 - Insolvenzverwaltermandat (insb. nach BGH IX ZR 129/22 vom 18.04.2024 zur konkreten Darlegung der Liquiditätsunterdeckung im Anfechtungsprozess).
 - Berater im Sanierungs- oder StaRUG-Kontext (Fortbestehensprognose § 19 InsO).
+- Sanierungskonzept-Vorarbeit, wenn aus der kurzfristigen Liquiditätsbilanz eine integrierte Sanierungsplanung werden soll.
 
 ## Eingaben
 
@@ -82,6 +83,7 @@ Maßstab der Zahlungsunfähigkeit ist objektiv; das Bewusstsein des Schuldners i
 - Excel-Datei aus der Vorlage befüllen (zwingend).
 - HTML-Padlet oder Markdown-Artefakt nur, wenn so gewählt.
 - Bei Quote ≥ 10 % und fehlender Schließbarkeit: Übergabe an `antragspflicht-15a-inso`; bei Steuerberatermandat Hinweis nach § 102 StaRUG dokumentieren.
+- Wenn die Vorschau für Bank, StaRUG, Schutzschirm, Eigenverwaltung oder Insolvenzplan genutzt werden soll: ausdrücklich festhalten, dass die Liquiditätsbilanz nur die Cash-Seite liefert. Danach an `idw-s6-integrierte-sanierungsplanung` übergeben, um GuV, Planbilanz, Maßnahmenwirkung, Leitbild und nachhaltige Sanierungsfähigkeit zu prüfen.
 - Memo nur auf Anfrage.
 
 ## Rechtlicher Rahmen
@@ -126,6 +128,7 @@ Siehe Schwester-Skill `liquiditaetsvorschau-3wochen` (Beispielfall Edelholz Manu
 - **Künftige Verträge / hypothetische Verwertungserlöse einbeziehen**: nicht zulässig in Aktiva I/II.
 - **Stichtag im Haftungskontext zu spät ansetzen**: tatsächlicher Eintritt maßgeblich.
 - **Konkrete Erwartung dauerhafter Unterdeckung nicht dokumentiert**: nach BGH IX ZR 129/22 (18.04.2024) ist die bloße Liquiditätsunterdeckung allein für die Vorsatzanfechtung nicht ausreichend; Verwalter muss die Erwartung dauerhafter Nichtbefriedigung anderer Gläubiger konkret darlegen.
+- **Liquiditätsbilanz mit Sanierungskonzept verwechselt**: Für Sanierungsfähigkeit reicht die insolvenzrechtliche Cash-Prüfung nicht. Es braucht zusätzlich Krisenursachenanalyse, Leitbild, Maßnahmenprogramm, GuV-/Bilanzplanung, Szenarien und Dokumentation.
 
 ## Quellenpflicht
 
@@ -133,7 +136,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Übergabe
 
-Bei 🔴: `antragspflicht-15a-inso` und `zahlungsunfaehigkeit-pruefung-17-inso` (Plugin `insolvenzrecht`). Für mittel- und langfristige Sicht: `liquiditaetsvorschau-3-6-12-monate` (dieses Plugin).
+Bei 🔴: `antragspflicht-15a-inso` und `zahlungsunfaehigkeit-pruefung-17-inso` (Plugin `insolvenzrecht`). Für mittel- und langfristige Sicht: `liquiditaetsvorschau-3-6-12-monate` (dieses Plugin). Für Sanierungskonzept-/Bankfähigkeit: `idw-s6-integrierte-sanierungsplanung` (dieses Plugin).
 
 
 ## Triage — Liquiditaetsvorschau Einordnung
