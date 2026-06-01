@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 590 KB) | PDF | [`gesamt-pdf/anlagen-zu-schriftsaetzen-konzernumstellung-baudaten-werkmann-baesweiler_gesamt.pdf`](gesamt-pdf/anlagen-zu-schriftsaetzen-konzernumstellung-baudaten-werkmann-baesweiler_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 618 KB) | PDF | [`gesamt-pdf/anlagen-zu-schriftsaetzen-konzernumstellung-baudaten-werkmann-baesweiler_gesamt.pdf`](gesamt-pdf/anlagen-zu-schriftsaetzen-konzernumstellung-baudaten-werkmann-baesweiler_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-anlagen-zu-schriftsaetzen-konzernumstellung-baudaten-werkmann-baesweiler.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-anlagen-zu-schriftsaetzen-konzernumstellung-baudaten-werkmann-baesweiler.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
@@ -51,6 +51,10 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 | Drittinteressen und Redaktion | 19 | GeschGehG, DSGVO, beglaubigte Übersetzung, Redaktionsprotokoll |
 | QR-Code-Index | 18 | Deckblatt-System, Querverweistabelle, SharePoint-Index |
 | Kostenfolge Anlage-Management | 21 | § 91 ZPO, Übersetzungskosten, Druckkosten, RVG-Sondervergütung |
+| K1-Sortierlogik | 23, 24, 25, 32 | Vertrag/Nachtrag/E-Mail/Bestätigung als K1-Konvolut, Fassungenlog, Hashlog |
+| beA-Paketierung und Finalcheck | 26, 30 | Teilpakete, Dateinamen, OCR, Schwärzung, Eingangsprotokolle |
+| Reparatur nach Hinweis | 29 | K1-Neuordnung, K38a-Neuscan, Massendokumente, Zahlungsbeleg K4 |
+| Kanzleiinterne Arbeitssteuerung | 31, E-Mails 21./22.04.2026 | Mandantennachforderung, Team-Anweisung, Geschäftsstelle-Telefonnotiz |
 
 ---
 
@@ -119,6 +123,15 @@ Stand April 2026: Die Klage ist beim LG Aachen eingereicht. Die Güteverhandlung
 | 20 | [`20_anlagen_sammelband_vortest_lg_richter.md`](20_anlagen_sammelband_vortest_lg_richter.md) | Informeller Vortest VRiLG Hermanns, Feedback, K75a Leseanleitung |
 | 21 | [`21_anlagen_kostenfolge_par91_zpo_anlagenpauschale.md`](21_anlagen_kostenfolge_par91_zpo_anlagenpauschale.md) | § 91 ZPO, Übersetzungskosten 2.400 EUR, Druckkosten, RVG § 3a |
 | 22 | [`22_verfahrensstand_fazit_anlagen_handhabung.md`](22_verfahrensstand_fazit_anlagen_handhabung.md) | Stichtag 15.04.2026, Gesamtfazit, Handlungsempfehlungen |
+| 23 | [`23_k1_sortierprotokoll_vertrag_auftrag_nachtrag.md`](23_k1_sortierprotokoll_vertrag_auftrag_nachtrag.md) | Entscheidung, warum K1 als Konvolut K1.1 bis K1.5 geführt wird |
+| 24 | [`24_k1_deckblatt_und_unteranlagen.md`](24_k1_deckblatt_und_unteranlagen.md) | Deckblatttext, Stempelvorgabe und Unteranlagenlogik für K1 |
+| 25 | [`25_k1_schriftsatz_mapping_belegmatrix.md`](25_k1_schriftsatz_mapping_belegmatrix.md) | Belegmatrix Rn. 7–33: Tatsachenbehauptung, Anlage, Status, Lücken |
+| 26 | [`26_bea_paketierungsplan_lg_aachen_22_04_2026.md`](26_bea_paketierungsplan_lg_aachen_22_04_2026.md) | beA-Teilpakete, Größen, Versandnotiz und Begleitvermerk |
+| 27 | [`27_duplikat_und_hashlog_erlaeuterung.md`](27_duplikat_und_hashlog_erlaeuterung.md) | Versionenentscheidungen, doppelte Dateien, interne Hashlog-Regeln |
+| 28 | [`28_redaktionsprotokoll_kontoauszug_und_drittgeheimnisse.md`](28_redaktionsprotokoll_kontoauszug_und_drittgeheimnisse.md) | K4-Kontoauszug, K17-Fehlgriff, K18-Chat, Schwärzungsentscheidungen |
+| 29 | [`29_nachreichungsplan_nach_richterlichem_hinweis.md`](29_nachreichungsplan_nach_richterlichem_hinweis.md) | Reparaturplan nach § 139-ZPO-Hinweisen aus der Güteverhandlung |
+| 30 | [`30_finalcheck_vor_abgabe_22_04_2026.md`](30_finalcheck_vor_abgabe_22_04_2026.md) | Stop-/Gelb-/Grün-Liste vor beA-Abgabe |
+| 31 | [`31_mandanten_nachforderung_kurz_und_praezise.md`](31_mandanten_nachforderung_kurz_und_praezise.md) | Präzise Nachforderung an Mandantin für K4, K18 und K38a |
 
 ---
 
@@ -131,6 +144,7 @@ Stand April 2026: Die Klage ist beim LG Aachen eingereicht. Die Güteverhandlung
 | [`anlagenverzeichnis_lg_aachen_11_o_188_26.docx`](anlagenverzeichnis_lg_aachen_11_o_188_26.docx) | Vollständiges Anlagenverzeichnis K1–K247 (Version 2.1, 22.04.2026), mit Tabellen nach Anlagengruppen A–E |
 | [`berichtigender_schriftsatz_anlage_k17_brao_par43a.docx`](berichtigender_schriftsatz_anlage_k17_brao_par43a.docx) | Berichtigungsschriftsatz vom 22.01.2026 zur irrtümlichen Einreichung K17, § 43a BRAO |
 | [`schiedsgerichtsschriftsatz_dis_anlagenkonvolut.docx`](schiedsgerichtsschriftsatz_dis_anlagenkonvolut.docx) | Widerklage-Schriftsatz DIS-SV-2026/088 mit Anlagenübersicht S-W-001 bis S-W-247 |
+| [`k1_anlagenverzeichnis_arbeitsfassung.docx`](k1_anlagenverzeichnis_arbeitsfassung.docx) | Arbeitsfassung Anlagenverzeichnis K1.1–K1.5 mit offenen Kontrollpunkten |
 
 ### XLSX
 
@@ -138,6 +152,13 @@ Stand April 2026: Die Klage ist beim LG Aachen eingereicht. Die Güteverhandlung
 |---|---|
 | [`anlagenmatrix_lg_aachen_3847_einzelanlagen.xlsx`](anlagenmatrix_lg_aachen_3847_einzelanlagen.xlsx) | Verfahrensübergreifende Anlagenmatrix (10 Spalten): Dok-IDs, LG/OLG/DIS-Nummern, Hashes, Status; plus Statistik-Sheet |
 | [`mehrkostenabrechnung_par8_vob_anlagenzuordnung.xlsx`](mehrkostenabrechnung_par8_vob_anlagenzuordnung.xlsx) | 47 Nachtragspositionen mit Anlagenkette, Beträgen, streitigen Differenzen; plus Anspruchs-Zusammenfassung |
+| [`k1_sortiermatrix_arbeitsstand_22_04_2026.xlsx`](k1_sortiermatrix_arbeitsstand_22_04_2026.xlsx) | K1-Unteranlagenmatrix, K4/K18/K38a-Gelbpunkte und beA-Paketplan |
+
+### CSV
+
+| Datei | Inhalt |
+|---|---|
+| [`32_hash_duplikat_versionenlog_k1.csv`](32_hash_duplikat_versionenlog_k1.csv) | Hash-/Duplikat-/Fassungslog für K1, K4, K18 und K38a |
 
 ### E-Mails (.eml)
 
@@ -148,6 +169,9 @@ Stand April 2026: Die Klage ist beim LG Aachen eingereicht. Die Güteverhandlung
 | [`2026-03-15_dis_frankfurt_anlagenformat_anforderungen.eml`](2026-03-15_dis_frankfurt_anlagenformat_anforderungen.eml) | DIS Frankfurt: Verfahrensanordnung Nr. 3 (4 Originale, USB-Sticks, SHA-256) |
 | [`2026-04-02_kanzlei_an_k_und_b_aufmass_echtheit.eml`](2026-04-02_kanzlei_an_k_und_b_aufmass_echtheit.eml) | Dr. Söhnchen an Kessling: Zurückweisung Echtheitswiderspruch, § 440 ZPO |
 | [`2026-04-18_xjustiz_helpdesk_hash_problem.eml`](2026-04-18_xjustiz_helpdesk_hash_problem.eml) | XJustiz-Helpdesk: Bestätigung Bug XJUSTIZ-2026-0234, Patch RA-Micro 2025.3.1 |
+| [`2026-04-21_stang_an_soehnchen_k1_sortierung.eml`](2026-04-21_stang_an_soehnchen_k1_sortierung.eml) | Lea Stang schlägt K1-Konvolut K1.1 bis K1.5 vor; K4 bleibt gelb |
+| [`2026-04-22_soehnchen_an_team_finalcheck_anlagen.eml`](2026-04-22_soehnchen_an_team_finalcheck_anlagen.eml) | Team-Anweisung: erst Matrix, dann K1, K4, K17-Suche, beA-Paketierung |
+| [`2026-04-22_lg_aachen_telefonnotiz_knoops_anlagenpakete.eml`](2026-04-22_lg_aachen_telefonnotiz_knoops_anlagenpakete.eml) | Telefonnotiz zur Geschäftsstelle: mehrere beA-Pakete, klare Dateinamen |
 
 ### PDFs
 
@@ -191,6 +215,11 @@ Stand April 2026: Die Klage ist beim LG Aachen eingereicht. Die Güteverhandlung
 | Zollpapiere / Importdokumentation | 09 |
 | FAT/SAT-Abnahmedokumentation | 11 |
 | Anlagenmatrix / Kanzlei-Dok-IDs | 12 |
+| K1-Konvolut / Leit-Anlage | 23, 24, 25, 32 |
+| beA-Teilpakete / Versandplan | 26, 30 |
+| Duplikate / Versionen / Hashlog | 27, 32 |
+| Redaktionsprotokoll / Schwärzung | 28 |
+| Nachreichung nach Hinweis | 29 |
 
 ---
 

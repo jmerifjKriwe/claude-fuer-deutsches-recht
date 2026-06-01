@@ -47,8 +47,8 @@ Beide sind in der Skill-Toolchain bereits vorausgesetzt.
 Lizenz / Verantwortung
 ----------------------
 
-Letztverantwortung fuer Vollstaendigkeit, Reihenfolge und Schwaerzungen
-bleibt beim Anwalt (§ 43e BRAO, § 203 StGB, DSGVO). Dieses Werkzeug
+Letztverantwortung fuer Vollstaendigkeit, Reihenfolge, Verschwiegenheit
+und Schwaerzungen bleibt beim Anwalt (§ 43a BRAO, § 203 StGB, DSGVO). Dieses Werkzeug
 ordnet und stempelt nur — es prueft keine Inhalte.
 """
 

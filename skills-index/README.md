@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v54.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v54.1.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -11,7 +11,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [agb-recht-pruefer](./agb-recht-pruefer.md) (200 Skills)
 - [aktenaufbereiter-strafrecht](./aktenaufbereiter-strafrecht.md) (54 Skills)
 - [aktenauszug-gerichtsverfahren](./aktenauszug-gerichtsverfahren.md) (54 Skills)
-- [anlagen-zu-schriftsaetzen](./anlagen-zu-schriftsaetzen.md) (54 Skills)
+- [anlagen-zu-schriftsaetzen](./anlagen-zu-schriftsaetzen.md) (79 Skills)
 - [arbeitsrecht](./arbeitsrecht.md) (81 Skills)
 - [arbeitszeugnis-analyse](./arbeitszeugnis-analyse.md) (50 Skills)
 - [aussenwirtschaft-zoll-sanktionen](./aussenwirtschaft-zoll-sanktionen.md) (100 Skills)

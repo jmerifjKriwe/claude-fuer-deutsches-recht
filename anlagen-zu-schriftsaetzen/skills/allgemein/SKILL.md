@@ -16,13 +16,23 @@ description: "Einstieg, Schnelltriage und Workflow-Routing im Anlagen Zu Schrift
 
 
 
-# Anlagen Zu Schriftsaetzen — Allgemein
+# Anlagen zu Schriftsätzen — Allgemein
 
 ## Schnellstart-Workflow
 
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Anlagen Zu Schriftsaetzen**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
+Dieser Allgemein-Skill ist der schnelle Eingang in das Plugin **Anlagen zu Schriftsätzen**. Er behandelt Anlagen nicht als Dateiverwaltung, sondern als Prozesswerkzeug: Aus einem Schriftsatz und einem unordentlichen Dokumentenbestand muss ein Gericht, ein Schiedsgericht oder eine Gegenseite ohne Rätsel erkennen können, welche Tatsache durch welche Anlage belegt werden soll.
 
-**Plugin-Fokus:** Zuordnung von Anlagen zu gerichtlichen Schriftsaetzen. Sortiert PDF/Word/Excel nach Schriftsatz-Logik; konvertiert alles nach PDF; benennt beA-konform; stempelt oben rechts Anlage K1/B1/A1 in Arial 12; baut Anlagenkonvolut; Prüfmodus für bereits zugeordnete Anlagen.
+**Plugin-Fokus:** Schriftsatzlogik, K/B/AST/AG-Nummerierung, K1-Konvolutlogik, Anlagenverzeichnis, beA-/ERV-taugliche Dateinamen, OCR/Lesbarkeit, Duplikat-/Hashkontrolle, Datenschutz-/Geschäftsgeheimnis-Redaktion, Nachreichungen und Qualitygate vor Versand.
+
+### 0. Der erste Satz
+
+Beginne bei neuen Anfragen mit einem knappen Arbeitsversprechen:
+
+> Ich sortiere das als Anlagenpaket. Zuerst kläre ich Nummernkreis und Ziel-Schriftsatz, dann baue ich eine Belegmatrix, dann kommen Dateinamen, Stempel, Konvolute und Versandcheck.
+
+Wenn Material vorliegt, arbeite sofort. Wenn nichts vorliegt, stelle höchstens diese eine Frage:
+
+> Geht es um Kläger-/Antragstelleranlagen (`K`/`AST`) oder Beklagten-/Antragsgegneranlagen (`B`/`AG`), und gibt es schon einen Schriftsatzentwurf?
 
 ### 0. Stummer Upload — Material ohne Begleittext
 
@@ -59,24 +69,23 @@ Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. We
 
 | Punkt | Frage | Warum wichtig? |
 |---|---|---|
-| Rolle | Wer fragt: Anwalt, Kanzlei, Rechtsabteilung, Verwalter, Betroffener, Unternehmen, Behörde? | Perspektive und Ton bestimmen. |
-| Ziel | Was soll am Ende entstehen: Prüfung, Schriftsatz, Memo, Checkliste, Vertrag, E-Mail, Strategie, Datenraum-Auswertung? | Output sofort sauber ausrichten. |
-| Sachverhalt | Was ist passiert, wer sind die Beteiligten, welche Daten und Beträge sind sicher? | Keine Arbeit auf Luft bauen. |
-| Fristen | Gibt es Termine, Fristablauf, Zustellung, Einspruch, Klagefrist, Behördenfrist oder Closing-Datum? | Eilsachen zuerst sichern. |
-| Unterlagen | Welche Dateien, Registerauszüge, Bescheide, Verträge, Tabellen, E-Mails oder PDFs liegen vor? | Aktenarbeit statt Raten. |
-| Risiko | Wo drohen Haftung, Verjährung, Bußgeld, Strafbarkeit, Kosten, Reputationsschaden oder Eskalation? | Priorität und Vorsicht einstellen. |
-| Format | Wie ausführlich, für wen, in welchem Stil und mit welcher Zitier-/Ausgabeform? | Ergebnis direkt verwendbar machen. |
+| Nummernkreis | `K`, `B`, `AST`, `AG`, `BK`, `BB`, `S-W` oder eigenes Schema? | Der Nummernkreis bestimmt Dateinamen, Stempel und Verzeichnis. |
+| Ziel-Schriftsatz | Klage, Erwiderung, Replik, Duplik, Eilantrag, Berufung, Schiedsverfahren? | Die Reihenfolge folgt dem Vortrag, nicht dem Dateisystem. |
+| Modus | Auto-Benennung, Schriftsatz folgt, Prüfmodus oder Rettung nach Hinweis? | Verhindert unnötige Neuordnung. |
+| Material | Einzeldateien, ZIP, Datenraumexport, EML/MSG, XLSX, Fotos, Scans, PDFs? | Dateitypen brauchen unterschiedliche Behandlung. |
+| K1/Kernanlage | Gibt es eine Leit-Anlage, z. B. Vertrag/Auftrag/Bescheid/Protokoll? | K1 entscheidet oft die Lesbarkeit der ganzen Akte. |
+| Frist/Versand | beA-Abgabe, Gerichtstermin, gerichtlicher Hinweis, Nachreichungsfrist? | Eilsachen zuerst sichern. |
 
 ### 2. Sofort-Triage
 
 Arbeite danach in dieser Reihenfolge:
 
-1. **Eilprüfung:** Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
-2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
-3. **Arbeitsmodus wählen:** Kurzprüfung, Deep Dive, Dokumententwurf, Verhandlungsstrategie, Aktenextraktion, Red Team oder Mandantenkommunikation.
-4. **Spezial-Skills vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund.
-5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
-6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
+1. **Eilprüfung:** Versandfrist, gerichtlicher Hinweis, beA-/ERV-Grenzen, fehlende Kernanlage markieren.
+2. **Schriftsatzanker:** Welche Tatsachenbehauptungen brauchen Anlagen? Wo sind die Beweisstellen?
+3. **Materialbild:** Welche Dateien liegen vor, welche fehlen, welche sind doppelt oder nur Vorversion?
+4. **K1-Entscheidung:** Einzelanlage oder Konvolut? Deckblatt nötig? Welche Fassung ist maßgeblich?
+5. **Spezial-Skills vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen.
+6. **Qualitygate:** Nummern, Verweise, Lesbarkeit, Schwärzung, Dateinamen, Paketgrößen, Lücken.
 
 ### 3. Routing-Regeln
 
@@ -114,7 +123,13 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 | Skill | Wann vorschlagen? |
 |---|---|
-| `anlagen-zu-schriftsaetzen` | Anwalt hat Schriftsatz fertig und muss Anlagen korrekt benennen nummerieren und als PDF-Konvolut aufbereiten. Anlagemanagement gerichtliche Schriftsaetze. Prüfraster: Schriftsatz lesen Beweisstuecke erkennen sortieren… |
+| `anlagen-zu-schriftsaetzen` | Hauptworkflow für Auto-Benennung, Schriftsatz-folgt-Modus und Prüfmodus. |
+| `k1-sortierwerkstatt` | Wenn die erste Leit-Anlage aus Vertrag, Mail, Nachtrag, Scan und Versionen besteht. |
+| `schriftsatz-anlagen-mapping` | Wenn aus dem Vortrag eine Belegmatrix entstehen soll. |
+| `anlagen-duplikate-versionen-hashlog` | Wenn ZIPs, Datenräume oder Exportordner doppelte und widersprüchliche Dateien enthalten. |
+| `bea-paketierung-groessen-und-versandplan` | Wenn das Anlagenpaket wirklich elektronisch eingereicht werden muss. |
+| `anlagen-qualitygate-finalcheck` | Letzter Check vor Versand oder Zustellung. |
+| `anlagen-redaktion-dsgvo-geschgehg` | Wenn Personen- oder Geschäftsgeheimnisse in Anlagen stecken. |
 
 ## Qualitätsversprechen
 

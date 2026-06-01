@@ -1,3 +1,22 @@
+# v54.1.0 — Anlagen zu Schriftsätzen: K1-Sortierung und Anlagenpaket-Qualitygate
+
+Gezielter Ausbau des Plugins `anlagen-zu-schriftsaetzen` für große gerichtliche Anlagenpakete, K1-Konvolute und beA-/ERV-taugliche Einreichungen.
+
+## Schwerpunkt
+
+- README neu erklärt: aus chaotischem Mandantenordner, Schriftsatz und halb sortierten Dateien wird eine gerichtstaugliche Anlagenstruktur mit K/B/AST/AG-Nummern, Belegmatrix, Konvolutdeckblättern, Hashlog, Lückenliste und Versandcheck.
+- Skillset von 54 auf 79 Skills erweitert: K1-Sortierwerkstatt, Schriftsatz-Anlagen-Mapping, Duplikat-/Versionen-/Hashlog, beA-Paketierung, OCR/Scanqualität, E-Mails/Chats/Screenshots, Excel-Zahlenbeweis, Fremdsprachen, Nachreichung, Berufung, Schiedsverfahren, Massenanlagen und finaler Qualitygate-Check.
+- Acht generische Auto-Skills konkretisiert, damit sie nicht mehr bloß generische Spezialworkflow-Hüllen sind, sondern brauchbare Anlagen-, Beweis- und Versandwerkzeuge.
+- Werkmann-Testakte erweitert: neue K1-Sortierakte mit Sortierprotokoll, Deckblatt, Belegmatrix, beA-Paketierungsplan, Duplikat-/Hashlog, Redaktionsprotokoll, Nachreichungsplan, Finalcheck, Mandantennachforderung, EMLs, CSV, DOCX und XLSX.
+- Gesamt-PDF der Werkmann-Akte neu gebaut: 52 Quelldateien, 85 Seiten.
+- Zentrale Quellenanker für ZPO § 130a/§ 130d, BRAO § 31a und ERVV ergänzt; falscher § 43e-BRAO-Rest entfernt.
+
+## Checks
+
+- YAML-Frontmatter, Plugin-Struktur, Gesamt-PDF-Regel und Diff-Whitespace-Check grün.
+
+---
+
 # v54.0.0 — German Legal AI Plugins and Skills
 
 Major-Release zur Stabilisierung des Gesamtwerks: 119 Plugins, 7579 Skills, 129 Testakten. Codex-Findings Runde 5 eingearbeitet, READMEs poliert, Validator und Smoke-Tests grün.

@@ -1,0 +1,9 @@
+familie,arbeits_id,dateiname,groesse_kb,sha256_kurz,status,gerichtliche_anlage,notiz
+vertrag,WM-DOK-0001,Vertrag_KB_Werkmann_final.pdf,8240,8f91c2a0,verwenden,K1.1,unterschriebener Scan mit OCR
+vertrag,WM-DOK-0001a,vertrag_final_final.pdf,7811,b2d1149c,nicht_einreichen,,identischer Inhalt andere Kompression
+beschreibung,WM-DOK-0002,Anlage_Leistungsbeschreibung_V2_4.docx,612,6d7712ae,konvertieren,K1.2,PDF-Ausdruck erzeugen
+nachtrag,WM-DOK-0003,N07_Taktzeitverkuerzung_signed.pdf,1440,ca9910df,verwenden,K1.3,signiert und vollständig
+mail,WM-DOK-0004,AW_Taktzeit_und_Preis.eml,388,aa19db70,verwenden,K1.4,Header sichern
+zahlung,WM-DOK-0041,konto_02122024_screenshot.png,920,ef001239,ersetzen,K4,Original-PDF nachfordern
+chat,WM-DOK-0188,whatsapp_n14_teil1.jpg,714,4490ab81,nur_mit_kontext,K18,Screenshot ohne Exportlog
+aufmass,WM-DOK-038a,AMP_2024_023_scan_alt.pdf,2440,91af11dc,ersetzen,K38a,linker Rand abgeschnitten

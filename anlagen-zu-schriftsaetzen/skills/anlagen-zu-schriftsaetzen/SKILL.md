@@ -7,23 +7,18 @@ description: "Anwalt hat Schriftsatz fertig und muss Anlagen korrekt benennen nu
 
 ## Triage — kläre vor dem Einsatz
 
-1. In welchem Modus soll der Skill arbeiten — Auto-Benennung (Schriftsatz noch ohne Anlage-Nummern), Schriftsatz folgt (Nummern schon im Schriftsatz) oder Prüfmodus (Zuordnung bereits fertig)?
-2. Welche Parteirolle hat der Mandant im konkreten Schriftsatz (Kläger → K, Beklagter → B, Antragsteller → A/AST, Antragsgegner → AG, Nebenintervenient → NI)?
-3. Sind alle Anlagen-Dateien in einem Ordner bereitgestellt und in verwertbarem Format (PDF, DOCX, XLSX, JPG, EML/MSG)?
-4. Gibt es Konvolute (mehrere Dokumente unter einer Anlage-Nummer), und soll der Stempel auf jeder Seite oder nur auf Seite 1 erscheinen?
-5. Soll ein einziges kombiniertes PDF (Schriftsatz + Anlagenkonvolut) erzeugt werden?
+1. **Nummernkreis:** Kläger/Antragsteller `K` oder `AST`, Beklagter/Antragsgegner `B` oder `AG`, Berufung `BK`/`BB`, Schiedsverfahren oder eigenes Schema?
+2. **Arbeitsmodus:** Auto-Benennung, Schriftsatz folgt, Prüfmodus oder Rettung nach gerichtlichem Hinweis?
+3. **Ziel-Schriftsatz:** Klage, Erwiderung, Replik, Duplik, Eilantrag, Berufung, Beschwerde, Schiedsgerichtsschriftsatz?
+4. **Material:** Einzeldateien, ZIP/Datenraumexport, EML/MSG, PDF-Scans, DOCX, XLSX/CSV, Fotos/Screenshots, fremdsprachige Anlagen?
+5. **K1-Leitanlage:** Gibt es einen Vertrag, Auftrag, Bescheid, Beschluss, Protokoll oder Datensatz, an dem die gesamte Anlagenlogik hängt?
+6. **Versand:** Soll nur sortiert werden oder auch ein beA-/ERV-taugliches Paket mit Anlagenverzeichnis, Stempel, Konvolutdeckblättern und Prüfprotokoll entstehen?
 
 ## Zentrale Normen
 
-§ 253 ZPO (Klageschrift, Anlagen) — § 130 ZPO (Schriftsätze allgemein) — § 130a ZPO (elektronisches Dokument) — § 130d ZPO (beA-Pflicht ab 01.01.2022) — § 520 Abs. 2 ZPO (Anlage zur Berufungsbegründung) — §§ 286, 371 ZPO (Beweisaufnahme, Urkundenbeweis) — BRAO § 43e (beA-Nutzungspflicht) — BeAZulV (beA-Zulassungsverordnung)
+§ 130 ZPO (Schriftsätze allgemein) — § 130a ZPO (elektronisches Dokument) — § 130d ZPO (Nutzungspflicht für vorbereitende Schriftsätze und Anträge durch professionelle Einreicher) — § 253 ZPO (Klageschrift) — §§ 286, 371 ff. ZPO (Beweiswürdigung, Urkundsbeweis, Augenschein) — § 142 ZPO (Urkundenvorlage) — § 294 ZPO (Glaubhaftmachung im Eilverfahren) — § 520 ZPO (Berufungsbegründung) — § 31a BRAO (besonderes elektronisches Anwaltspostfach) — ERVV und ERVB in der jeweils aktuellen Fassung.
 
 ## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -32,7 +27,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
-Dieser Skill nimmt einen vorliegenden Schriftsatz-Entwurf und eine Sammlung kuratierter Anlagen und macht daraus ein beA-fertiges Anlagenkonvolut mit korrekter Reihenfolge, PDF-Konvertierung, beA-tauglicher Benennung und Arial-12-Stempel oben rechts.
+Dieser Skill nimmt einen Schriftsatz-Entwurf und eine echte Dokumentensammlung und macht daraus ein gerichtstaugliches Anlagenpaket. Er denkt nicht vom Dateinamen her, sondern vom Vortrag: Welche Tatsachenbehauptung steht im Schriftsatz, welches Dokument belegt sie, welche Fassung ist maßgeblich, wie wird die Anlage benannt, gestempelt, geschwärzt, konvertiert, verzeichnet und versandt?
 
 ## Eingaben
 
@@ -41,7 +36,7 @@ Dieser Skill nimmt einen vorliegenden Schriftsatz-Entwurf und eine Sammlung kura
 - **Parteirolle:** K / B / A / AST / AG / NI — oder eigener Präfix.
 - **Modus**: Auto-Benennung / Schriftsatz folgt / Prüfmodus.
 
-## Drei Modi
+## Vier Modi
 
 ### Modus 1 — Auto-Benennung
 
@@ -55,6 +50,20 @@ Nummern bereits im Schriftsatz → Skill ordnet Dateien den vorhandenen Nummern 
 
 Alles schon zugeordnet → Skill validiert: Numerierungslücken, Doppelte, fehlende Dateien, Stempel-Fehlanpassungen, Format-Fehler.
 
+### Modus 4 — Reparatur nach Hinweis
+
+Gericht oder Gegenseite rügt Anlagenchaos → Skill baut Korrekturplan: Welche Anlage nachreichen, welche Nummer beibehalten, welche nur erläutern, welche Dateifassung ersetzen, welcher Schriftsatztext muss den Tatsachenkern nachholen?
+
+## K1- und Konvolutlogik
+
+Behandle `K1`/`B1` als Leitentscheidung:
+
+- **Einzelanlage:** eine Urkunde, ein PDF, ein klarer Beweiszweck.
+- **Konvolut:** mehrere Dokumente unter einer Nummer, nur wenn sie einen gemeinsamen Beweiszweck haben.
+- **Untergliederung:** `K1.1`, `K1.2`, `K1.3` oder `K1/1`, `K1/2`, `K1/3` nur mit Deckblatt und kurzer Inhaltsliste.
+- **Schriftsatzbezug:** Der Schriftsatz nennt die konkrete Unteranlage, wenn nur ein Teil des Konvoluts entscheidend ist.
+- **Fassungsregel:** Entwurf, Scan, OCR-Fassung und E-Mail-Anhang werden nicht unkontrolliert alle zu K1; eine Fassung wird gerichtliche Fassung, der Rest wandert in Versionen-/Hashlog.
+
 ## Stempel-Spezifikation
 
 - **Position:** rechter oberer Rand, ca. 1.5 cm vom oberen / rechten Rand.
@@ -63,11 +72,11 @@ Alles schon zugeordnet → Skill validiert: Numerierungslücken, Doppelte, fehle
 - **Mehrseitige Anlagen:** Stempel nur Seite 1 (Standard); Option `--stempel jede-seite`.
 - **Konvolute:** Deckblatt + Einzeldokumente mit Suffix `K 5/1`, `K 5/2` usw.
 
-## Datei-Benennung (beA-tauglich)
+## Datei-Benennung (beA-/ERV-tauglich)
 
-Beispiel: `Anlage_K-03_Vertrag-vom-2024-03-15.pdf`
+Beispiel: `anlage-k-003_2024-03-15_werkvertrag-lackieranlage.pdf`
 
-Regeln: keine Umlaute (ae/oe/ue/ss), kein Leerzeichen, Zahlen zweistellig, max. ca. 90 Zeichen, Datum im Format JJJJ-MM-TT.
+Regeln: keine Umlaute in Dateinamen (`ae/oe/ue/ss`), keine Leerzeichen, stabile Nullfüllung (`001` bis `247`), Datum im Format `JJJJ-MM-TT`, Kurzbeschreibung ohne Sonderzeichen. Im normalen menschlichen Text bleiben Umlaute und `ß` erhalten.
 
 ## Ausgabe
 
@@ -82,6 +91,17 @@ anlagen/
 ```
 
 Optional: `Schriftsatz_mit_Anlagen.pdf` — Schriftsatz vorab, dann Konvolut, mit durchlaufenden Lesezeichen.
+
+Zusätzlich bei großen Akten:
+
+```
+kontrolle/
+  belegmatrix.xlsx
+  hash-und-duplikatlog.csv
+  lueckenliste.md
+  redaktionsprotokoll.md
+  bea-versandplan.md
+```
 
 ## Was der Skill NICHT tut
 
@@ -106,11 +126,12 @@ Anzahl Anlagen-Dateien vorhanden: [...]
 | Vorhanden aber nicht zitiert | keine / K [...] |
 | Stempel-Fehlanpassungen | keine / K [...] |
 | Format-Fehler (Umlaute, Leerzeichen) | keine / Datei: [...] |
+| Lesbarkeit/OCR | keine / K [...] unleserlich oder nicht durchsuchbar |
+| Schwärzung/Geheimnisse | keine / K [...] vor Versand prüfen |
+| beA-/ERV-Paket | keine / Paket [...] zu groß oder falsch benannt |
 
 **Ergebnis:** [Kein Handlungsbedarf / Korrekturen erforderlich — Korrekturplan: ...]
 
 ---
 
-Hinweis: Die Letztverantwortung für Vollständigkeit und Berufspflichten (§ 43e BRAO, § 203 StGB, DSGVO) liegt beim Anwalt.
-
-<!-- AUDIT 27.05.2026: BGH VI ZB 53/20 (NOT_FOUND auf dejure.org) entfernt und ersetzt durch BGH VII ZR 21/16, BauR 2018, 2056 (verifiziert auf dejure.org). -->
+Hinweis: Die Letztverantwortung für Vollständigkeit, Tatsachenvortrag, Verschwiegenheit (§ 43a BRAO, § 203 StGB), Datenschutz und Versand liegt beim Anwalt.

@@ -1,8 +1,8 @@
 # Skill-Gesamtuebersicht
 
-Automatisch generierte Gesamtuebersicht aller **7579 Skills** in **119 Plugins**.
+Automatisch generierte Gesamtuebersicht aller **7604 Skills** in **119 Plugins**.
 
-Stand: `v54.0.0`.
+Stand: `v54.1.0`.
 
 ## ⬇️ Alle Skills auf einmal herunterladen
 
@@ -34,7 +34,7 @@ So bekommt man die komplette Sammlung als ZIP:
 
 **Wichtig:** Wenn irgendwo im Repo ein neuer Skill angelegt wird (also ein neuer Ordner `<plugin>/skills/<skill>/SKILL.md`), erscheint er beim naechsten Lauf von `scripts/generate-skills-md.py` automatisch -- sowohl in dieser Liste als auch auf der jeweiligen Plugin-Detailseite. Es kann also nichts fehlen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 7579 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 7604 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
 
 ## Alle Plugins
 
@@ -45,7 +45,7 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 | **agb-recht-pruefer** | 200 | [Skills ansehen](skills-index/agb-recht-pruefer.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/agb-recht-pruefer.zip) |
 | **aktenaufbereiter-strafrecht** | 54 | [Skills ansehen](skills-index/aktenaufbereiter-strafrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aktenaufbereiter-strafrecht.zip) |
 | **aktenauszug-gerichtsverfahren** | 54 | [Skills ansehen](skills-index/aktenauszug-gerichtsverfahren.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aktenauszug-gerichtsverfahren.zip) |
-| **anlagen-zu-schriftsaetzen** | 54 | [Skills ansehen](skills-index/anlagen-zu-schriftsaetzen.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/anlagen-zu-schriftsaetzen.zip) |
+| **anlagen-zu-schriftsaetzen** | 79 | [Skills ansehen](skills-index/anlagen-zu-schriftsaetzen.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/anlagen-zu-schriftsaetzen.zip) |
 | **arbeitsrecht** | 81 | [Skills ansehen](skills-index/arbeitsrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/arbeitsrecht.zip) |
 | **arbeitszeugnis-analyse** | 50 | [Skills ansehen](skills-index/arbeitszeugnis-analyse.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/arbeitszeugnis-analyse.zip) |
 | **aussenwirtschaft-zoll-sanktionen** | 100 | [Skills ansehen](skills-index/aussenwirtschaft-zoll-sanktionen.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aussenwirtschaft-zoll-sanktionen.zip) |
