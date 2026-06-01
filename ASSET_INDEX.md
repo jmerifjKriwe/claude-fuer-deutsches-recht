@@ -1,6 +1,6 @@
 # Release-Asset-Index
 
-**Stand:** v52.8.0 — automatisch aktualisierte Asset-Übersicht
+**Stand:** v52.9.0 — automatisch aktualisierte Asset-Übersicht
 
 ## Sammel-Assets
 

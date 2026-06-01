@@ -123,31 +123,31 @@ Das Plugin trifft keine unüberprüfte Vollstreckungsentscheidung und ersetzt ke
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Zwangsvollstreckung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan... |
-| `spezial-201-inso` | Vertiefter Spezial-Skill im Plugin zwangsvollstreckung zu 201 InsO: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
-| `spezial-765a-haertefall` | Vertiefter Spezial-Skill im Plugin zwangsvollstreckung zu 765a Härtefall: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
-| `spezial-800-zpo-notar` | Vertiefter Spezial-Skill im Plugin zwangsvollstreckung zu 800 ZPO Notar: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
-| `spezial-802l` | Vertiefter Spezial-Skill im Plugin zwangsvollstreckung zu 802l: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
-| `spezial-802l-kontensuche` | Vertiefter Spezial-Skill im Plugin zwangsvollstreckung zu 802l Kontensuche: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
-| `spezial-arbeit` | Vertiefter Spezial-Skill im Plugin zwangsvollstreckung zu Arbeit: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
-| `spezial-bank` | Vertiefter Spezial-Skill im Plugin zwangsvollstreckung zu Bank: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
-| `spezial-inso` | Vertiefter Spezial-Skill im Plugin zwangsvollstreckung zu InsO: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
-| `spezial-kontenpfaendung-655-2014` | Vertiefter Spezial-Skill im Plugin zwangsvollstreckung zu Kontenpfändung 655 2014: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
-| `spezial-kontensuche` | Vertiefter Spezial-Skill im Plugin zwangsvollstreckung zu Kontensuche: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
-| `spezial-mahn` | Vertiefter Spezial-Skill im Plugin zwangsvollstreckung zu Mahn: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
-| `spezial-notar` | Vertiefter Spezial-Skill im Plugin zwangsvollstreckung zu Notar: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
-| `spezial-pfueb` | Vertiefter Spezial-Skill im Plugin zwangsvollstreckung zu PfÜB: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
-| `spezial-pfueb-bank-arbeit` | Vertiefter Spezial-Skill im Plugin zwangsvollstreckung zu PfÜB Bank Arbeit: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
-| `spezial-raeumung` | Vertiefter Spezial-Skill im Plugin zwangsvollstreckung zu Räumung: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
-| `spezial-vermoegensauskunft` | Vertiefter Spezial-Skill im Plugin zwangsvollstreckung zu Vermögensauskunft: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
-| `spezial-vollstreckungsbescheid` | Vertiefter Spezial-Skill im Plugin zwangsvollstreckung zu Vollstreckungsbescheid: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
-| `spezial-zpo` | Vertiefter Spezial-Skill im Plugin zwangsvollstreckung zu ZPO: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
-| `spezial-zwangsvollstreckung` | Vertiefter Spezial-Skill im Plugin zwangsvollstreckung zu zwangsvollstreckung: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
-| `spezial-zwangsvollstreckung-704` | Vertiefter Spezial-Skill im Plugin zwangsvollstreckung zu Zwangsvollstreckung 704: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-765a-red-team-und-qualitaetskontrolle` | 765A: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-802l-verhandlung-vergleich-und-eskalation` | 802L: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-arbeit-schriftsatz-brief-und-memo-bausteine` | Arbeit: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-bank-behoerden-gericht-und-registerweg` | Bank: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-haertefall-mandantenkommunikation-entscheidungsvorlage` | Haertefall: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-inso-internationaler-bezug-und-schnittstellen` | InsO: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-kontenpfaendung-formular-portal-und-einreichung` | Kontenpfaendung: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-kontensuche-livequellen-und-rechtsprechungscheck` | Kontensuche: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-mahn-fristen-form-und-zustaendigkeit` | Mahn: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-mahnbescheid-fristennotiz-und-naechster-schritt` | Mahnbescheid: Fristennotiz und nächster Schritt: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-notar-mehrparteien-konflikt-und-interessen` | Notar: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-online-abschlussprodukt-und-uebergabe` | Online: Abschlussprodukt und Übergabe: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-pfueb-risikoampel-und-gegenargumente` | Pfueb: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-raeumung-compliance-dokumentation-und-akte` | Raeumung: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-schuldnerschutz-beweislast-und-darlegungslast` | Schuldnerschutz: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-vermoegensauskunft-zahlen-schwellen-und-berechnung` | Vermoegensauskunft: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-vollstreckungsbescheid-dokumentenmatrix-und-lueckenliste` | Vollstreckungsbescheid: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-vollstreckungstitel-sonderfall-und-edge-case` | Vollstreckungstitel: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-zpo-tatbestand-beweis-und-belege` | ZPO: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-zwangsvollstreckung-erstpruefung-und-mandatsziel` | Zwangsvollstreckung: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin zwangsvollstreckung: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin zwangsvollstreckung: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 | `workflow-dokumentenintake` | Dokumentenintake im Plugin zwangsvollstreckung: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte. |
