@@ -167,6 +167,10 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `spezial-verlagsredaktion` | Vertiefter Spezial-Skill im Plugin verlagsredaktion zu verlagsredaktion: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
 | `spezial-zitate` | Vertiefter Spezial-Skill im Plugin verlagsredaktion zu Zitate: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
 | `sprachlektorat-stil-tonalitaet` | Verbessert Sprache, Stil, Tonalitaet, Satzbau, Lesbarkeit, Gender- und Hausstilfragen fuer juristische und fachliche Verlagstexte. |
+| `verl-buchprojekt-bauleiter` | Bauleiter juristisches Buchprojekt: Konzept, Autorenvertrag, Manuskripteinreichung, Lektorat, Druck. Pruefraster fuer Herausgeber und Verlag. |
+| `verl-loseblattwerk-spezial` | Spezialfall Loseblattwerk: Ergaenzungslieferung, Stichtag, Hinweisapparat, Abonnentenpflege. Pruefraster fuer Verlag und Redaktion. |
+| `verl-online-kommentar-update-spezial` | Spezialfall Online-Kommentar und Update-Workflow: Versionierung, Rechtsprechungsmonitoring, Verlinkung. Pruefraster fuer Verlag und Hauptbearbeiter. |
+| `verl-zeitschriftenartikel-leitfaden` | Leitfaden Zeitschriftenartikel: Auswahl Zeitschrift, Manuskriptregeln, Peer Review, Open Access. Pruefraster fuer Autorin und Verlag. |
 | `verlagsredaktion` | Kernskill fuer verlegerische Rohmanuskript- und Editionsarbeit: Material inventarisieren, strukturieren, redigieren, Luecken markieren, Quellen trennen und Autor:innenfreigaben vorbereiten. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin verlagsredaktion: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 | `workflow-dokumentenintake` | Dokumentenintake im Plugin verlagsredaktion: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte. |

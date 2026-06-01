@@ -112,6 +112,10 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | Skill | Beschreibung |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Insolvenzforderungsanmeldungspruefung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen... |
+| `iap-anmeldepruefung-bauleiter` | Bauleiter Pruefung von Insolvenzforderungsanmeldungen: Grund, Hoehe, Rang, Bestreiten. Pruefraster fuer Insolvenzverwalter. |
+| `iap-aussonderung-absonderung-spezial` | Spezialfall Aussonderung und Absonderung §§ 47 sowie 49 ff. InsO: Eigentumsvorbehalt, Sicherungseigentum, Forderungsabtretung, Grundpfandrecht. Pruefraster fuer Insolvenzverwalter. |
+| `iap-konzernforderungen-anfechtung-spezial` | Spezialfall Konzernforderungen und Anfechtung im Konzern: Cash-Pool, Konzernverrechnung, Bargeschaeftsausnahme, BGH-Rechtsprechung. Pruefraster fuer Konzernverwalter. |
+| `iap-rangordnung-checkliste` | Checkliste Rangordnung der Insolvenzforderungen § 38 / § 39 InsO: einfach, nachrangig, Massekosten, Masseverbindlichkeiten. Pruefraster fuer Tabellenfuehrer. |
 | `ifap-aktenanlage-batchregister` | Batchregister für Massenverfahren Insolvenzforderungsanmeldung anlegen: Anwendungsfall Insolvenzverwalter oder Prüfungsstelle erhaelt umfangreichen Stapel Forderungsanmeldungen nach § 174 InsO und muss strukturiertes Register aufbauen. §... |
 | `ifap-beleg-und-urkundencheck` | Belege und Urkunden bei Insolvenzforderungsanmeldung prüfen: Anwendungsfall Gläubiger legt Rechnungen Verträge Titel Lieferscheine Kontoauszüge vor; Insolvenzverwalter oder Prüfungsstelle muss Belegkette aufbauen und Beweiswert einordnen... |
 | `ifap-dubletten-serienforderungen` | Dubletten und Serienforderungen in Insolvenzanmeldungen erkennen: Anwendungsfall mehrere Gläubiger melden gleichartige oder identische Forderungen an; Inkassounternehmen und Originalgläubiger reichen parallel ein. § 174 InsO Forderungsan... |

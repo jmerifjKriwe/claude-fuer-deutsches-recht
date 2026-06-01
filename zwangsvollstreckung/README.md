@@ -177,5 +177,9 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `zv-vollstreckungsbescheid-folge` | Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht. § 699 ZPO Vollstreckungsbescheid Online-Mahnportal. Prüfraster: Beantragung VB Reaktion auf Einspruch § 700 ZPO Übergang streitiges Verfahren Wirkung VB als Ti... |
 | `zv-vollstreckungsschutz-haertefall-765a` | Schuldner ist schwerkrank suizidgefaehrdet oder sonst besonders schutzbedürftig und will Vollstreckung stoppen. § 765a ZPO Vollstreckungsschutz sittenwidrige Haerte. Prüfraster: Antrag Einstellung oder Beschraenkung Haerteanwendungsfaell... |
 | `zv-zvg-antrag-glaeubiger` | Gläubiger hat Grundschuld oder Hypothek und will Immobilie des Schuldners versteigern lassen. ZVG Zwangsversteigerungsgesetz. Prüfraster: Antrag Anordnung §§ 15 ff. ZVG Beitritt § 27 ZVG geringstes Gebot Bargebot Verteilungstermin vorher... |
+| `zwv-pfaendung-konto-arbeitseinkommen-leitfaden` | Leitfaden Pfaendung Konto und Arbeitseinkommen §§ 850 ff. ZPO: P-Konto, pfaendungsfreier Betrag, Drittschuldnererklaerung. Pruefraster fuer Glaeubiger und Schuldner. |
+| `zwv-vollstreckungsschutz-billigkeit-spezial` | Spezialfall Vollstreckungsschutz § 765a ZPO Haerteklausel: Voraussetzungen, BVerfG-Rechtsprechung, sittenwidrige Haerte. Pruefraster fuer Schuldner und Sozialberatung. |
+| `zwv-vollstreckungstitel-bauleiter` | Bauleiter Vollstreckungstitel §§ 704 sowie 794 ZPO: Urteil, Vergleich, notarielle Urkunde, Vollstreckungsbescheid. Pruefraster fuer Vollstreckungs- und Klauselerteilung. |
+| `zwv-zwangsversteigerung-grundstueck-spezial` | Spezialfall Zwangsversteigerung Grundstueck ZVG: Anordnung, Termin, Mindestgebot, Geringstes Gebot, geringste Beitrag. Pruefraster fuer Glaeubiger und Schuldner. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
