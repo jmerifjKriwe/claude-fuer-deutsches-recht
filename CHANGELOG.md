@@ -1,4 +1,4 @@
-# v52.9.0 — Neue Grundplugins, Commercial Courts, Patentrecht und Skill-Mindeststandard
+# v53.0.0 — Neue Grundplugins, Commercial Courts, Patentrecht und Skill-Mindeststandard
 
 Großer Integrationsrelease nach den parallelen Ergänzungen: neue Plugins für Bürokratieverstehen, Vereinsrecht und Parteienorganisation; Integration des Commercial-Courts-Plugins; Patentrecht international/prozessual erweitert; Perplexity-Skillpakete integriert; anschließend alle Plugins auf mindestens 50 Skills gebracht.
 
@@ -9,6 +9,7 @@ Großer Integrationsrelease nach den parallelen Ergänzungen: neue Plugins für 
 - 1.713 ältere generische Spezial-Skills in konkrete Fachbausteine mit Kaltstart, Prüfmatrix, Risikoampel, Anschluss-Skills und Quellenregel umgebaut.
 - Neue Sammel-/Einzeldownload-Übersichten, Skill-Index und Plugin-READMEs synchronisiert.
 - 128 Testakten bleiben als ZIP und Gesamt-PDF verlinkt.
+- Release-Workflow robuster gemacht: ZIP-Anhänge werden bei großen Releases gedrosselt hochgeladen, damit GitHubs Secondary Rate Limit nicht die Veröffentlichung abbricht.
 
 ## Checks
 
