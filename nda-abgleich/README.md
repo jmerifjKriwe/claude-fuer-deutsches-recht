@@ -69,7 +69,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -93,5 +93,35 @@ Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschrei
 | `nda-typen-vergleich` | NDA-Typen vergleichen: einseitig (unilateral), gegenseitig (mutual), mehrparteiig. Empfehlung pro Situation: Verkaeufer in M&A unilateral; gemeinsame Entwicklung mutual; Konsortium mehrparteiig. Praxisanker fuer Templates. |
 | `nda-vertragsstrafe-pruefen` | Vertragsstrafe pruefen: Hoehe, AGB-Kontrolle §§ 305 ff. BGB, Bestimmtheitsgrundsatz, Schadensersatzkumulation oder Anrechnung. Bei Verbraucher-NDA strengere Grenzen. Bei B2B-Standard: ueblich 5000-25000 EUR pro Vorfall, Kumulation moeglich. |
 | `nda-vor-m-a-data-room` | NDA vor M&A-Data-Room: enge Zweckbindung (Pruefung Transaktion), Standstill-Klausel, Non-Solicit, Verbot Reverse-Engineering. Empfehlung: separater Clean Team Agreement fuer Kartell-/Wettbewerbsdaten. |
+| `spezial-abgleich` | Vertiefter Spezial-Skill im Plugin nda-abgleich zu abgleich: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-aenderungsmodus` | Vertiefter Spezial-Skill im Plugin nda-abgleich zu Aenderungsmodus: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-ampelmatrix` | Vertiefter Spezial-Skill im Plugin nda-abgleich zu Ampelmatrix: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-ampelmatrix-rot-gelb-gruen` | Vertiefter Spezial-Skill im Plugin nda-abgleich zu Ampelmatrix ROT GELB GRUEN: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-chirurgisch` | Vertiefter Spezial-Skill im Plugin nda-abgleich zu chirurgisch: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-docx-echten-tracked-changes` | Vertiefter Spezial-Skill im Plugin nda-abgleich zu docx echten Tracked Changes: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-eigenen` | Vertiefter Spezial-Skill im Plugin nda-abgleich zu eigenen: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-entwurf` | Vertiefter Spezial-Skill im Plugin nda-abgleich zu Entwurf: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-gegen` | Vertiefter Spezial-Skill im Plugin nda-abgleich zu gegen: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-gegenseite` | Vertiefter Spezial-Skill im Plugin nda-abgleich zu Gegenseite: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-gelb` | Vertiefter Spezial-Skill im Plugin nda-abgleich zu GELB: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-gleicht` | Vertiefter Spezial-Skill im Plugin nda-abgleich zu Gleicht: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-gleicht-nda` | Vertiefter Spezial-Skill im Plugin nda-abgleich zu Gleicht NDA: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-gruen` | Vertiefter Spezial-Skill im Plugin nda-abgleich zu GRUEN: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-haltelinien` | Vertiefter Spezial-Skill im Plugin nda-abgleich zu Haltelinien: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-nda` | Vertiefter Spezial-Skill im Plugin nda-abgleich zu nda: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-rot` | Vertiefter Spezial-Skill im Plugin nda-abgleich zu ROT: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-setzt` | Vertiefter Spezial-Skill im Plugin nda-abgleich zu setzt: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-standard` | Vertiefter Spezial-Skill im Plugin nda-abgleich zu Standard: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-word` | Vertiefter Spezial-Skill im Plugin nda-abgleich zu Word: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin nda-abgleich: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |
+| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin nda-abgleich: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
+| `workflow-dokumentenintake` | Dokumentenintake im Plugin nda-abgleich: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte. |
+| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin nda-abgleich: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing im Plugin nda-abgleich: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
+| `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin nda-abgleich: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
+| `workflow-output-waehlen` | Output wählen im Plugin nda-abgleich: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung. |
+| `workflow-rechtsquellen-livecheck` | Rechtsquellen-Livecheck im Plugin nda-abgleich: zwingt vor tragenden Aussagen zum aktuellen Quellencheck bei Gesetzen, Behörden, Gerichten und Formularen. |
+| `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin nda-abgleich: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste im Plugin nda-abgleich: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -72,7 +72,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -93,8 +93,38 @@ Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschrei
 | `influencer-marketing-uwg-spezial` | Influencer-Marketing UWG-Spezial: Trennungsgebot Werbung und redaktioneller Inhalt, Kennzeichnungspflicht (Werbung, Anzeige), BGH-Cathy-Hummels-Linie 2021, kein Influencer-Privileg fuer eigene Produkte. Pruefraster und Abwehrlinie gegen... |
 | `ki-trainingsdaten-und-urheberrecht-spezial` | Spezialfall KI-Trainingsdaten und Urheberrecht: § 44b UrhG Text- and Data-Mining-Schranke, Vorbehalt durch Rechteinhaber maschinenlesbar, EU-KI-VO Art. 53 Trainingsdaten-Zusammenfassung, GEMA und Wort-Forderungen gegen LLM-Anbieter. Prue... |
 | `schriftsatzkern-substantiierung` | Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren. § 14 MarkenG § 139 PatG § 8 UWG §§ 253 286 ZPO. Prüfraster: Anspruchsgrundlage Sachverhalt Beweisangebot Streitwert Antrag. Output: Schriftsatzkern Klage- oder... |
+| `spezial-14k` | Vertiefter Spezial-Skill im Plugin fachanwalt-gewerblicher-rechtsschutz zu 14k: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-abmahnung` | Vertiefter Spezial-Skill im Plugin fachanwalt-gewerblicher-rechtsschutz zu Abmahnung: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-bezuege` | Vertiefter Spezial-Skill im Plugin fachanwalt-gewerblicher-rechtsschutz zu Bezuege: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-designg` | Vertiefter Spezial-Skill im Plugin fachanwalt-gewerblicher-rechtsschutz zu DesignG: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-designverletzung` | Vertiefter Spezial-Skill im Plugin fachanwalt-gewerblicher-rechtsschutz zu Designverletzung: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-dpma` | Vertiefter Spezial-Skill im Plugin fachanwalt-gewerblicher-rechtsschutz zu DPMA: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-euipo` | Vertiefter Spezial-Skill im Plugin fachanwalt-gewerblicher-rechtsschutz zu EUIPO: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-fachanwalt` | Vertiefter Spezial-Skill im Plugin fachanwalt-gewerblicher-rechtsschutz zu fachanwalt: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-fao` | Vertiefter Spezial-Skill im Plugin fachanwalt-gewerblicher-rechtsschutz zu FAO: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-gebrmg` | Vertiefter Spezial-Skill im Plugin fachanwalt-gewerblicher-rechtsschutz zu GebrMG: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-gewerblichen` | Vertiefter Spezial-Skill im Plugin fachanwalt-gewerblicher-rechtsschutz zu gewerblichen: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-gewerblicher` | Vertiefter Spezial-Skill im Plugin fachanwalt-gewerblicher-rechtsschutz zu gewerblicher: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-markenanmeldung` | Vertiefter Spezial-Skill im Plugin fachanwalt-gewerblicher-rechtsschutz zu Markenanmeldung: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-markenanmeldung-dpma-euipo` | Vertiefter Spezial-Skill im Plugin fachanwalt-gewerblicher-rechtsschutz zu Markenanmeldung DPMA EUIPO: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-markeng` | Vertiefter Spezial-Skill im Plugin fachanwalt-gewerblicher-rechtsschutz zu MarkenG: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-patg` | Vertiefter Spezial-Skill im Plugin fachanwalt-gewerblicher-rechtsschutz zu PatG: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-patg-gebrmg` | Vertiefter Spezial-Skill im Plugin fachanwalt-gewerblicher-rechtsschutz zu PatG GebrMG: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-rechtsschutz` | Vertiefter Spezial-Skill im Plugin fachanwalt-gewerblicher-rechtsschutz zu rechtsschutz: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-urhg` | Vertiefter Spezial-Skill im Plugin fachanwalt-gewerblicher-rechtsschutz zu UrhG: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-uwg` | Vertiefter Spezial-Skill im Plugin fachanwalt-gewerblicher-rechtsschutz zu UWG: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
 | `uwg-systematik-und-anwendung` | UWG-Systematik: § 3 (unlautere geschaeftliche Handlungen), § 5 (Irrefuehrung), § 5a (Vorenthaltungstatbestaende), §§ 4 ff. (Mitbewerber), §§ 8 ff. (Anspruchsberechtigung, Verband, Mitbewerber). Aktive Mitbewerber, eingetragene Verbaende.... |
 | `vergleich-statt-streit-strategie` | Vergleichsstrategie statt Streit im gewerblichen Rechtsschutz: Standstill-Vereinbarung, Lizenzvereinbarung mit Stillhalte-Klausel, Cease-and-Settle. Pruefraster nach Faktoren wie Anspruchslage, Beweislast, Kosten, Image. Mustertexte. Rou... |
 | `vergleichsverhandlung-strategie` | Streit im gewerblichen Rechtsschutz durch Vergleich lösen und Verhandlungsstrategie entwickeln. § 14 MarkenG § 139 PatG § 8 UWG § 779 BGB Vergleich. Prüfraster: Vergleichsziele BATNA Streitwert Kosten Lizenzbereitschaft Geheimhaltung. Ou... |
+| `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin fachanwalt-gewerblicher-rechtsschutz: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |
+| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin fachanwalt-gewerblicher-rechtsschutz: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
+| `workflow-dokumentenintake` | Dokumentenintake im Plugin fachanwalt-gewerblicher-rechtsschutz: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte. |
+| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin fachanwalt-gewerblicher-rechtsschutz: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing im Plugin fachanwalt-gewerblicher-rechtsschutz: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
+| `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin fachanwalt-gewerblicher-rechtsschutz: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
+| `workflow-output-waehlen` | Output wählen im Plugin fachanwalt-gewerblicher-rechtsschutz: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung. |
+| `workflow-rechtsquellen-livecheck` | Rechtsquellen-Livecheck im Plugin fachanwalt-gewerblicher-rechtsschutz: zwingt vor tragenden Aussagen zum aktuellen Quellencheck bei Gesetzen, Behörden, Gerichten und Formularen. |
+| `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-gewerblicher-rechtsschutz: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste im Plugin fachanwalt-gewerblicher-rechtsschutz: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

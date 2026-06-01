@@ -59,7 +59,7 @@ Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische T
 
 ## Testakte
 
-Zu diesem Plugin existiert eine vollständige Beispielakte: **dsa-dma-bayrische-baustube-meissner** ([`testakten/dsa-dma-bayrische-baustube-meissner/`](../testakten/dsa-dma-bayrische-baustube-meissner/)).
+Zu diesem Plugin existiert eine vollständige Beispielakte: **nübersicht — Baustube Meißnerlein GmbH ./. Glitzerwald Inc. u. a.** ([`testakten/dsa-dma-bayrische-baustube-meissner/`](../testakten/dsa-dma-bayrische-baustube-meissner/)).
 
 Direkt-Download als ZIP: [testakte-dsa-dma-bayrische-baustube-meissner.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-bayrische-baustube-meissner.zip)
 
@@ -120,7 +120,7 @@ Stand: 2026. DSA voll anwendbar seit 17.02.2024. DMA-Gatekeeper-Designation seit
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -143,6 +143,36 @@ Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschrei
 | `dsa-trusted-flagger-anerkennung` | Trusted Flagger nach Art. 22 DSA: Voraussetzungen, Anerkennung durch nationalen Digital Services Coordinator, Vorrangstellung bei Meldungen, Pflichten der Plattform zur prioritaeren Bearbeitung. Antragsverfahren bei der BNetzA (DSC Deuts... |
 | `dsa-vlop-vlose-einordnung-und-pflichten` | VLOP (sehr grosse Online-Plattform) oder VLOSE (sehr grosse Suchmaschine) Einordnung und Pflichten-Katalog: Plattform prüft ob Designation droht oder besteht. Normen: DSA (EU) 2022/2065 Art. 33 (Designation Kommission), Art. 24 Abs. 3 (M... |
 | `klage-gegen-vlop-einordnung-art-263-aeuv` | Nichtigkeitsklage gegen Designations-Beschluss der Kommission (VLOP nach DSA oder Gatekeeper nach DMA): Grossplattform will Designation anfechten. Normen: Art. 263 Abs. 4 AEUV (Nichtigkeitsklage EuG), Art. 33 DSA (VLOP-Designation), Art.... |
+| `spezial-19a-gwb` | Vertiefter Spezial-Skill im Plugin dsa-dma-digitalregulierung zu 19a GWB: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-2022-1925` | Vertiefter Spezial-Skill im Plugin dsa-dma-digitalregulierung zu 2022 1925: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-2022-2065` | Vertiefter Spezial-Skill im Plugin dsa-dma-digitalregulierung zu 2022 2065: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-act` | Vertiefter Spezial-Skill im Plugin dsa-dma-digitalregulierung zu Act: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-cra` | Vertiefter Spezial-Skill im Plugin dsa-dma-digitalregulierung zu CRA: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-data` | Vertiefter Spezial-Skill im Plugin dsa-dma-digitalregulierung zu Data: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-ddg-p2b` | Vertiefter Spezial-Skill im Plugin dsa-dma-digitalregulierung zu DDG P2B: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-dga` | Vertiefter Spezial-Skill im Plugin dsa-dma-digitalregulierung zu DGA: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-digitalregulierung` | Vertiefter Spezial-Skill im Plugin dsa-dma-digitalregulierung zu digitalregulierung: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-dma` | Vertiefter Spezial-Skill im Plugin dsa-dma-digitalregulierung zu dma: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-dora` | Vertiefter Spezial-Skill im Plugin dsa-dma-digitalregulierung zu DORA: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-dora-cra-eidas` | Vertiefter Spezial-Skill im Plugin dsa-dma-digitalregulierung zu DORA CRA eIDAS: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-dsa` | Vertiefter Spezial-Skill im Plugin dsa-dma-digitalregulierung zu dsa: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-dsa-klagewege` | Vertiefter Spezial-Skill im Plugin dsa-dma-digitalregulierung zu DSA Klagewege: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-einordnung-risikobewertung-art` | Vertiefter Spezial-Skill im Plugin dsa-dma-digitalregulierung zu Einordnung Risikobewertung Art: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-forschungsdatenzugang-art` | Vertiefter Spezial-Skill im Plugin dsa-dma-digitalregulierung zu Forschungsdatenzugang Art: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-nis` | Vertiefter Spezial-Skill im Plugin dsa-dma-digitalregulierung zu NIS: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-schwellen-vlop` | Vertiefter Spezial-Skill im Plugin dsa-dma-digitalregulierung zu Schwellen VLOP: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-sperre-art` | Vertiefter Spezial-Skill im Plugin dsa-dma-digitalregulierung zu Sperre Art: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-zustellung-art` | Vertiefter Spezial-Skill im Plugin dsa-dma-digitalregulierung zu Zustellung Art: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin dsa-dma-digitalregulierung: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |
+| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin dsa-dma-digitalregulierung: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
+| `workflow-dokumentenintake` | Dokumentenintake im Plugin dsa-dma-digitalregulierung: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte. |
+| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin dsa-dma-digitalregulierung: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing im Plugin dsa-dma-digitalregulierung: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
+| `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin dsa-dma-digitalregulierung: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
+| `workflow-output-waehlen` | Output wählen im Plugin dsa-dma-digitalregulierung: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung. |
+| `workflow-rechtsquellen-livecheck` | Rechtsquellen-Livecheck im Plugin dsa-dma-digitalregulierung: zwingt vor tragenden Aussagen zum aktuellen Quellencheck bei Gesetzen, Behörden, Gerichten und Formularen. |
+| `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin dsa-dma-digitalregulierung: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste im Plugin dsa-dma-digitalregulierung: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 | `zustellung-und-vertreter-art-13-dsa-art-37-dma` | Zustellung gegen Plattform mit Sitz außerhalb der EU und EU-Vertreter-Pflichten: Klaeger will Schriftstuecke zustellen oder Behoerde will Plattform erreichen. Normen: DSA (EU) 2022/2065 Art. 13 (EU-Rechtsvertreter-Pflicht), Art. 11 DSA (... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

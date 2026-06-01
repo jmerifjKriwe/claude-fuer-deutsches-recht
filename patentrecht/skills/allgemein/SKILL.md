@@ -29,7 +29,7 @@ Wenn der Nutzer nur Dateien hochlädt:
 | Technik | Produkt, Verfahren, Vorrichtung, Software, Chemie, Biotech, Mechanik, Elektronik? |
 | Material | Skizzen, Prototyp, Beschreibung, Anspruchsentwurf, Registerauszug, E-Mail, Produktdaten, Vertrag? |
 | Frist | Priorität, Messe, Veröffentlichung, Abmahnung, Prüfungsbescheid, Einspruch, Closing? |
-| Territory | DE, EP, Einheitspatent, USA, China, PCT, nur DACH, weltweit? |
+| Territory | DE, EP, Einheitspatent/UPC, PCT, USA, Kanada, Japan, Schweiz, UK, Türkei, Israel, China, nur DACH, weltweit? |
 | Rolle | Patentanwalt, Rechtsanwalt, Unternehmen, Gründerteam, Investor, Verletzungsbeklagter? |
 | Output | Memo, Claim Draft, Rückfragen, Claim Chart, Rechercheauftrag, Vertrag, Mandantenbrief? |
 
@@ -47,6 +47,11 @@ Wenn der Nutzer nur Dateien hochlädt:
 | Lizenzvertrag | `patentlizenzvertrag-review` | `patentlizenzvertrag-de-en-drafting` |
 | Erfinder-/ArbEG-Thema | `erfinderbenennung-und-arbeitnehmererfindung` | Vergütungs- und Rechtekette |
 | Einspruch/Nichtigkeit | `einspruch-epa-und-nichtigkeit-bpatg` | `neuheit-und-erfinderische-taetigkeit` |
+| UPC/Einheitspatent | `upc-verletzung-und-rechtsbestand` | `upc-widerruf-und-widerklage-revocation` |
+| internationale Länderstrategie | `internationaler-patentrechts-und-laendercheck` | `pct-laenderstrategie-und-nationalphasen` |
+| USA/UK/Kanada/Japan/Schweiz/Türkei/Israel | jeweiliger Länderskill | Local-Counsel-Fragenkatalog |
+| Patentprozess/Eilverfahren | `patentprozess-einstweilige-verfuegung-de-upc` | `patentprozess-schutzschrift-und-caveat` |
+| globale Revocation/Nichtigkeit | `loeschung-widerruf-nichtigkeit-global-route` | `patentprozess-kostensicherheit-und-budget` |
 
 ## Antwortformat
 

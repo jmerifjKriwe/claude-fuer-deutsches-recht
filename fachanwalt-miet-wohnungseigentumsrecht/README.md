@@ -72,7 +72,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -94,7 +94,37 @@ Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschrei
 | `mietrecht-modernisierung-und-erhalt` | Modernisierung und Erhaltung abgrenzen: Modernisierungsumlage 8 Prozent (Kappung 3 Euro/qm in 6 Jahren), Erhaltungsaufwand auf Vermieter, Duldungspflicht Mieter §§ 555a ff. BGB. Ankuendigung, Form, Inhalt, Mietminderung waehrend Massnahm... |
 | `milieuschutz-und-genehmigung-veraendert` | Spezialfall Milieuschutzgebiet (soziale Erhaltungssatzung § 172 BauGB): Genehmigungspflicht von Modernisierungen und Aufteilung, Vorkaufsrecht der Gemeinde, Abwendungsvereinbarungen, Mietpreisbegrenzungen. Verfahren bei der Gemeinde, Kla... |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Räumungsklage, Mietminderungsklage, WEG-Anfechtungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
+| `spezial-14e` | Vertiefter Spezial-Skill im Plugin fachanwalt-miet-wohnungseigentumsrecht zu 14e: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-beschlussanfechtung` | Vertiefter Spezial-Skill im Plugin fachanwalt-miet-wohnungseigentumsrecht zu Beschlussanfechtung: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-beschlussanfechtung-weg` | Vertiefter Spezial-Skill im Plugin fachanwalt-miet-wohnungseigentumsrecht zu Beschlussanfechtung WEG: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-betrkv` | Vertiefter Spezial-Skill im Plugin fachanwalt-miet-wohnungseigentumsrecht zu BetrKV: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-bgb` | Vertiefter Spezial-Skill im Plugin fachanwalt-miet-wohnungseigentumsrecht zu BGB: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-bgb-535` | Vertiefter Spezial-Skill im Plugin fachanwalt-miet-wohnungseigentumsrecht zu BGB 535: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-fachanwalt` | Vertiefter Spezial-Skill im Plugin fachanwalt-miet-wohnungseigentumsrecht zu fachanwalt: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-fachanwalt-miet` | Vertiefter Spezial-Skill im Plugin fachanwalt-miet-wohnungseigentumsrecht zu Fachanwalt Miet: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-fao` | Vertiefter Spezial-Skill im Plugin fachanwalt-miet-wohnungseigentumsrecht zu FAO: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-gewerberaummiete` | Vertiefter Spezial-Skill im Plugin fachanwalt-miet-wohnungseigentumsrecht zu Gewerberaummiete: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-kuendigung` | Vertiefter Spezial-Skill im Plugin fachanwalt-miet-wohnungseigentumsrecht zu Kündigung: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-miet` | Vertiefter Spezial-Skill im Plugin fachanwalt-miet-wohnungseigentumsrecht zu miet: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-mieterhoehung` | Vertiefter Spezial-Skill im Plugin fachanwalt-miet-wohnungseigentumsrecht zu Mieterhoehung: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-mieterhoehung-558` | Vertiefter Spezial-Skill im Plugin fachanwalt-miet-wohnungseigentumsrecht zu Mieterhoehung 558: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-schnittstellen-kanzlei` | Vertiefter Spezial-Skill im Plugin fachanwalt-miet-wohnungseigentumsrecht zu Schnittstellen kanzlei: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-weg` | Vertiefter Spezial-Skill im Plugin fachanwalt-miet-wohnungseigentumsrecht zu WEG: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-wohnraummiete` | Vertiefter Spezial-Skill im Plugin fachanwalt-miet-wohnungseigentumsrecht zu Wohnraummiete: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-wohnraummiete-gewerberaummiete` | Vertiefter Spezial-Skill im Plugin fachanwalt-miet-wohnungseigentumsrecht zu Wohnraummiete Gewerberaummiete: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-wohnungseigentumsrecht` | Vertiefter Spezial-Skill im Plugin fachanwalt-miet-wohnungseigentumsrecht zu wohnungseigentumsrecht: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
+| `spezial-wohnungseigentumsrecht-fao-14e` | Vertiefter Spezial-Skill im Plugin fachanwalt-miet-wohnungseigentumsrecht zu Wohnungseigentumsrecht FAO 14e: prüft Fachfrage, Fristen, Zuständigkeit, Belege, typische Fehler und erzeugt einen nutzbaren Output. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Wohnraum-, Gewerberaum- und WEG-Recht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
 | `weg-einfuehrung-organe-beschluesse` | Wohnungseigentumsrecht-Einfuehrung: Eigentuemerversammlung, Verwalter, Verwaltungsbeirat. Beschlussarten (einfache Mehrheit, qualifizierte Mehrheit, Allstimmigkeit), Beschlussfaehigkeit nach WEMoG-Reform 2020. Ungueltige und nichtige Bes... |
+| `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin fachanwalt-miet-wohnungseigentumsrecht: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |
+| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin fachanwalt-miet-wohnungseigentumsrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
+| `workflow-dokumentenintake` | Dokumentenintake im Plugin fachanwalt-miet-wohnungseigentumsrecht: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte. |
+| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin fachanwalt-miet-wohnungseigentumsrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
+| `workflow-kaltstart-und-routing` | Kaltstart und Routing im Plugin fachanwalt-miet-wohnungseigentumsrecht: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
+| `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin fachanwalt-miet-wohnungseigentumsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
+| `workflow-output-waehlen` | Output wählen im Plugin fachanwalt-miet-wohnungseigentumsrecht: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung. |
+| `workflow-rechtsquellen-livecheck` | Rechtsquellen-Livecheck im Plugin fachanwalt-miet-wohnungseigentumsrecht: zwingt vor tragenden Aussagen zum aktuellen Quellencheck bei Gesetzen, Behörden, Gerichten und Formularen. |
+| `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-miet-wohnungseigentumsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
+| `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste im Plugin fachanwalt-miet-wohnungseigentumsrecht: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

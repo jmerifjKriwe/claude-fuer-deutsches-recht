@@ -1,0 +1,20 @@
+{
+  "name": "vereinsrecht-vereinsmanager",
+  "version": "52.8.0",
+  "description": "Vereinsrechts- und Vereinsmanagement-Plugin für eingetragene und nicht eingetragene Vereine: Gründung, Satzung, Mitgliederversammlung, Vorstand, Protokolle, Beschlüsse, Gemeinnützigkeit, Register, Haftung, Datenschutz, Finanzen, Veranstaltungen und Spezialvereine.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "vereinsrecht",
+    "verein",
+    "ev",
+    "satzung",
+    "mitgliederversammlung",
+    "vorstand",
+    "gemeinnuetzigkeit",
+    "vereinsregister"
+  ]
+}
