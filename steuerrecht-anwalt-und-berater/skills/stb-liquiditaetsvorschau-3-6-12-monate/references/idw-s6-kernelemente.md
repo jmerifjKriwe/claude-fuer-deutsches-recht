@@ -13,7 +13,7 @@
 - Vergangenheitsbezogene wirtschaftliche Lage (3 Jahre + aktuelles Jahr).
 
 ## 3. Krisenstadium und Krisenursachen
-- **Krisenstadien** (Hauschka-Krisenmodell, IDW S 6 Tz. 5 ff.):
+- **Krisenstadien** nach IDW S 6 (Stadienlehre, in Anlehnung an Müller 1986; IDW S 6 Tz. 5 ff.):
   1. Stakeholderkrise
   2. Strategiekrise
   3. Produkt- und Absatzkrise
