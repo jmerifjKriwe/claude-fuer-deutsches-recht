@@ -98,7 +98,7 @@ Anwältinnen und Anwälte sind nach **§ 203 StGB** (Verletzung von Privatgeheim
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 9 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -108,6 +108,17 @@ Automatisch generierte Komplett-Liste aller 9 Skills in diesem Plugin. Beschreib
 | `gesetzentwurf-gg-konformitaet-pruefen` | Gesetzentwurf auf Grundgesetz-Konformität prüfen bevor Gesetzgebungsverfahren eingeleitet wird. Art. 1 20 GG Grundprinzipien Art. 70-80 GG Gesetzgebung. Prüfraster: formelle Verfassungsmäßigkeit Grundrechte Art. 20 GG Rechtsstaatsprinzip... |
 | `gesetzgebungskompetenz-pruefen` | Gesetzgebungskompetenz des Bundes oder eines Landes für konkretes Regelungsvorhaben prüfen. Art. 70 71 72 73 74 GG Kompetenzkatalog. Prüfraster: ausschließliche konkurrierende Gesetzgebung Abweichungsgesetzgebung Subsidiaritaet Sperrwirk... |
 | `grundrechtspruefung` | Grundrechtsprüfung nach dem Drei-Stufen-Schema durchführen wenn staatliche Massnahme Grundrecht beruehrt. Art. 1-19 GG Grundrechte Art. 20 Abs. 3 GG Verhältnismäßigkeit. Prüfraster: Schutzbereich Eingriff Rechtfertigung verfassungsrechtl... |
+| `verfassung-abstrakte-normenkontrolle` | Abstrakte Normenkontrolle Art. 93 Abs. 1 Nr. 2 GG, §§ 76 ff. BVerfGG: Antragsteller (BReg, Landesregierung, ein Viertel BT-Mitglieder), Verfahrensgegenstand Bundes- oder Landesgesetz. Pruefraster. |
+| `verfassung-bund-laender-streit` | Bund-Laender-Streit Art. 93 Abs. 1 Nr. 3 GG, §§ 68 ff. BVerfGG: Streitigkeiten Bund/Land oder Land/Land. Pruefraster und Beispiele (Finanzausgleich, Schulrecht, Polizeirecht). |
+| `verfassung-grundgesetz-verfahren` | Verfahren der Verfassungsaenderung Art. 79 GG: Zwei-Drittel-Mehrheit BT und BR, Ewigkeitsklausel Art. 79 Abs. 3 GG. Beispiele unzulaessiger Aenderungen. |
+| `verfassung-grundrechte-juristische-personen` | Grundrechtsfaehigkeit juristischer Personen Art. 19 Abs. 3 GG: inlaendische jur. Personen, Wesensmaessigkeitsklausel. Beispiele: Wirtschafts-Grundrechte ja, Wuerde nein. Auslaendische jur. Personen jetzt teilweise EuGH-konform anerkannt. |
+| `verfassung-grundrechte-uebersicht` | Grundrechte des GG Ueberblick: Art. 1 Wuerde, Art. 2 freie Entfaltung, Art. 3 Gleichheit, Art. 4 Glaubensfreiheit, Art. 5 Meinungsfreiheit, Art. 8 Versammlung, Art. 12 Berufsfreiheit, Art. 14 Eigentum. Schutzbereich, Eingriff, Schranken,... |
+| `verfassung-grundrechte-und-eu-recht` | Verhaeltnis GG-Grundrechte und EU-Grundrechtecharta: Solange-II BVerfGE 73 S. 339, Bananenmarkt BVerfGE 102 S. 147, Recht auf Vergessen I sowie II BVerfG 1 BvR 16 aus 13 und 1 BvR 276 aus 17. Pruefraster: Anwendungsbereich Charta vs. GG. |
+| `verfassung-konkrete-normenkontrolle` | Konkrete Normenkontrolle Art. 100 Abs. 1 GG, §§ 80 ff. BVerfGG: Vorlage durch Gericht, das Gesetz fuer verfassungswidrig haelt. Vorlagepflicht und Entscheidungserheblichkeit. |
+| `verfassung-organstreitverfahren` | Organstreitverfahren Art. 93 Abs. 1 Nr. 1 GG, § 13 Nr. 5, §§ 63 ff. BVerfGG: Antragsteller (Verfassungsorgane, mit eigenen Rechten ausgestattete Teile), Antragsgegenstand Massnahme Verfassungsorgan, Frist 6 Monate. Pruefraster. |
+| `verfassung-parteiverbot` | Parteiverbot Art. 21 Abs. 2 GG, § 13 Nr. 2 BVerfGG: Voraussetzungen, NPD-Verfahren BVerfG 2 BvB 1/13. Pruefraster, hohe Schwelle (Potenzialitaet). Ausschluss von staatlicher Finanzierung Art. 21 Abs. 3 GG. |
+| `verfassung-petition-und-verfassungsschutz` | Petitionsrecht Art. 17 GG und Verfassungsschutz: Verhaeltnis demokratische Teilhabe und Sicherheitsbehoerden. Beobachtung politischer Parteien und Akteure, Rechtsschutz vor VG. |
+| `verfassung-staatsorganisation` | Staatsorganisation des GG: Demokratieprinzip Art. 20, Rechtsstaatsprinzip, Bundesstaatsprinzip, Sozialstaatsprinzip, Republikprinzip. Bundesorgane: BT, BR, BReg, BPraes, BVerfG. Pruefraster Staatsfunktionen. |
 | `verfassungsbeschwerde-entwurf` | Verfassungsbeschwerde beim BVerfG nach §§ 90 ff. BVerfGG formulieren wenn Grundrechtsverletzung durch öffentliche Gewalt geltend gemacht wird. §§ 90 93 BVerfGG Art. 93 Abs. 1 Nr. 4a GG. Prüfraster: Beschwerdeführerbefugnis Beschwerdeobje... |
 | `verfassungsrechtliche-pruefung` | Verfassungsrechtliche Prüfung einer Massnahme oder Norm umfassend durchführen. Art. 1-20 GG Grundrechte Staatsorganisationsrecht. Prüfraster: formelle Verfassungsmäßigkeit Grundrechtsprüfung Staatsstrukturprinzipien Verhältnismäßigkeit E... |
 | `verhaeltnismaessigkeit` | Verhältnismäßigkeitsprüfung für staatliche Massnahmen oder Gesetze durchführen. Art. 20 Abs. 3 GG Rechtsstaatsprinzip BVerfG-Stufenschema. Prüfraster: legitimer Zweck Geeignetheit Erforderlichkeit Angemessenheit Dreistufenprüfung Abwaegu... |

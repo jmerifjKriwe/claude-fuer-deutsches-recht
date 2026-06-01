@@ -1,3 +1,32 @@
+# v52.5.0 — Batch 1: 12 Plugins auf 20 Skills aufgestockt
+
+189 neue, plugin-spezifische Skills in 12 Plugins, die bisher 10 oder weniger Skills hatten. Je Plugin etwa zur Haelfte einfuehrend/erweiternd, etwa zur Haelfte spezielle Fallskills.
+
+## Aufgestockte Plugins (jeweils auf 20)
+- aktenaufbereiter-strafrecht: 2 -> 20 (+18)
+- anlagen-zu-schriftsaetzen: 2 -> 20 (+18)
+- memorandums-ersteller: 2 -> 20 (+18)
+- nda-abgleich: 2 -> 20 (+18)
+- phishing-vorfall-pruefer: 2 -> 20 (+18)
+- zitierweise-deutsches-recht: 2 -> 20 (+18)
+- forderungsmanagement-klagewerkstatt: 4 -> 21 (+17)
+- liquiditaetsplanung: 5 -> 20 (+15)
+- einfache-leichte-sprache-jura: 6 -> 20 (+14)
+- betreuungsrecht: 8 -> 20 (+12)
+- immobilienrechtspraxis: 8 -> 20 (+12)
+- verfassungsrecht: 9 -> 20 (+11)
+
+## Zahlen
+- 112 Plugins (unveraendert)
+- 3092 Skills (+189)
+- alle plugin.json + marketplace.json auf 52.5.0
+
+## Validatoren
+- validate-yaml-frontmatter: 0 Fehler, 0 Warnungen
+- validate-plugin-structure: OK
+
+---
+
 # v52.4.0 — Vergaberecht-Vertiefung + IDW-S-6-Korrektur
 
 Vertiefende Erweiterung des `fachanwalt-vergaberecht`-Plugins um 12 neue Spezial-Skills sowie inhaltliche Korrektur einer fehlerhaften Zuschreibung der IDW-S-6-Krisenstadien.

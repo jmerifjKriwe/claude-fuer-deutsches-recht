@@ -132,17 +132,29 @@ Beim Einsatz von KI-Tools sind insbesondere zu beachten:
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 8 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Betreuungsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Be... |
+| `aufgabenkreise-festlegen` | Aufgabenkreise einer Betreuung festlegen: Vermoegensvorsorge, Gesundheitsvorsorge, Aufenthaltsbestimmung, Postangelegenheiten, Wohnungsangelegenheiten. Empfehlung: nur erforderliche Kreise (Erforderlichkeitsgrundsatz § 1814 BGB). |
 | `betreuer-als-erbe` | Workflow-Skill zu betreuer als erbe. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `betreuer-registrierung` | Erklärt die Abgrenzung beruflicher / ehrenamtlicher (privater) Betreuer nach BtOG seit 01.01.2023 sowie den Weg zur Registrierung als beruflicher Betreuer nach Paragraphen 23 ff. BtOG und der Betreuerregistrierungsverordnung. Behandelt S... |
+| `betreuung-anwaltskosten-rvg` | Anwaltskosten im Betreuungsverfahren: RVG, Verfahrenspflegerbestellung, Verfahrenskostenhilfe nach § 76 FamFG. Empfehlung Mandantenkommunikation Kosten. |
+| `betreuung-bei-demenz` | Betreuung bei Demenz: Geschaeftsfaehigkeit § 104 BGB, Lichte-Momente-Lehre, Einwilligung Aerztliche Behandlung, Pflegeentscheidungen. Vorgehen bei spaet diagnostizierter Demenz und Wirksamkeit frueherer Vertraege. |
+| `betreuung-erbe-werden` | Betreuer als Erbe oder Beschenkter: § 1825 BGB Verbot, Genehmigungspflicht, Anfechtbarkeit. Pruefraster fuer Notarpraxis und Konflikt-Anzeige beim Betreuungsgericht. |
+| `betreuung-fuer-erwachsene-kinder` | Betreuung fuer erwachsene Kinder mit Behinderung: Uebergang Vormundschaft zu Betreuung mit 18. Geburtstag, Erfordernis fruehzeitiger Antrag. Vorlage Mandantenkommunikation Eltern. |
+| `betreuung-grenzueberschreitend` | Grenzueberschreitende Betreuung: Haager Erwachsenenschutzuebereinkommen 2000, Anerkennung in Deutschland und im EU-Ausland, anwendbares Recht. Output: Pruefraster fuer im Ausland lebende Betroffene. |
+| `betreuung-im-strafverfahren` | Betreuung im Strafverfahren des Betroffenen: Schuldfaehigkeit nach §§ 20 und 21 StGB, Verteidigerbestellung, Vertretung Betreuer im Hauptverfahren. Schnittstelle Strafrecht und Betreuungsrecht. |
+| `betreuungsantrag-erstellen` | Betreuungsantrag § 1814 BGB: Antragsteller, Betroffener, Aufgabenkreise, vorhandene Vorsorgevollmacht, gewuenschte Person als Betreuer, Begruendung Erforderlichkeit. Output: Antragsschriftsatz an Betreuungsgericht. |
 | `betreuungsrecht-kaltstart-interview` | Kaltstart-Interview für das Betreuungsrecht-Plugin. Befüllt das Praxisprofil unter ~/.claude/plugins/config/claude-fuer-deutsches-recht/betreuungsrecht/CLAUDE.md mit Angaben zur Betreuerrolle (Berufsbetreuer / ehrenamtlich / Vereinsbetre... |
+| `ehegattenvertretung-1358-bgb` | Notvertretungsrecht Ehegatten § 1358 BGB seit 01.01.2023: Voraussetzungen, sechsmonatige Befristung, Pflichten, Abgrenzung zur Betreuung. Vorlage Information Mandanten. |
+| `freiheitsentziehende-massnahmen-1831` | Freiheitsentziehende Massnahmen § 1831 BGB: Fixierung, geschlossene Unterbringung, sedierende Medikation. Voraussetzungen Genehmigung Betreuungsgericht, regelmaessige Pruefung. EuGH-/EGMR-Vorgaben. |
 | `genehmigungspflicht-pruefung` | 'Prüft, ob ein konkretes Rechtsgeschäft, eine Maßnahme oder eine Entscheidung des Betreuers der Genehmigung des Betreuungsgerichts bedarf (§§ 1848 ff. BGB) — etwa Grundstücksverkauf, Erbausschlagung, Heimvertragsabschluss, Wohnungsauflös... |
 | `jahresbericht-betreuungsgericht` | Jahresbericht für Betreuungsgericht nach § 1840 BGB erstellen: Anwendungsfall Betreuer muss jaehrlichen Rechenschaftsbericht über persoenliche und wirtschaftliche Verhältnisse der betreuten Person beim Betreuungsgericht einreichen. § 184... |
 | `kontodaten-vertragsverdacht-pruefung` | Kontoauszüge und Vertragsunterlagen in Betreuungsfällen auf Missbrauch prüfen: Anwendungsfall Betreuer oder Betreuungsgericht hat Verdacht auf ungewöhnliche Zahlungen verdächtige Dauerverträge oder Anlagegeschäfte zum Nachteil der betreu... |
 | `vermoegensverzeichnis-pruefung` | Vermögensverzeichnis für Betreuung prüfen und erstellen: Anwendungsfall Betreuer muss nach § 1835 BGB Vermögensverzeichnis aufnehmen oder bestehendes Verzeichnis auf Vollständigkeit und Richtigkeit prüfen. § 1835 BGB Vermögensverzeichnis... |
+| `vorsorgevollmacht-pruefen` | Vorsorgevollmacht pruefen: § 1820 BGB, Reichweite, Form (Schriftform fuer Bank/Personalsorge), Beglaubigung, Hinterlegung im Zentralen Vorsorgeregister. Vorrang vor Betreuung. Pruefraster fuer den Vergleich Vollmacht/Betreuungsbedarf. |
+| `zwangsbehandlung-1832-bgb` | Zwangsbehandlung § 1832 BGB: Voraussetzungen, Genehmigung Betreuungsgericht, Verfahren § 312 FamFG. BVerfG-Linien zu Patientenautonomie (BVerfG 2 BvR 882/09). Output: Antragsentwurf an Gericht. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
