@@ -147,3 +147,12 @@ Bevor der Trade-Dress-Schutz beansprucht wird, klaere:
 > **Two Pesos, Inc. v. Taco Cabana, Inc., 505 U.S. 763 (1992):** Trade Dress, das inherently distinctive ist (hier: Restaurantambiente), ist ohne Secondary-Meaning-Nachweis schutzfaehig nach § 43(a) Lanham Act; das Zurueckgreifen auf inherent distinctiveness setzt voraus, dass das Trade Dress nicht funktional ist.
 
 > **TrafFix Devices, Inc. v. Marketing Displays, Inc., 532 U.S. 23 (2001):** Ein Trade-Dress-Merkmal, das durch ein abgelaufenes Patent als funktional erklaert wurde, ist als wettbewerbsrechtlich freizuhaltendes Element nicht schutzfaehig; das Ablaufen des Patents ist starkes Indiz fuer Funktionalitaet — Registrierung sollte daher vor Patent-Expiry geprueft werden.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

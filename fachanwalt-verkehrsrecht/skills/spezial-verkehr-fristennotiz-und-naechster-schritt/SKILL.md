@@ -67,6 +67,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur RÃ
 - **Live-Quellen:**
   - gesetze-im-internet.de (Bundesnormen).
   - BVerfG-Rechtsprechung (Akteneinsicht / fair trial).
-  - BGH NJW / DAR / SVR (Verkehrsrechts-Sammlungen) - bei Lizenz; sonst Onlinequellen.
+  - BGH-Entscheidungen nur mit Gericht, Datum, Aktenzeichen und freier/amtlicher Quelle; Zeitschriftenfundstellen nur bei Lizenz oder Nutzerquelle.
   - openJUR (frei) - Sammlungen Urteile.
 - **Praxis-Tipp:** Bei mehreren Saeulen parallel: Mandantenuebersicht mit Frist-Matrix erstellen; Wiedervorlagesystem mit kanzleieigenem Fristenkalender.

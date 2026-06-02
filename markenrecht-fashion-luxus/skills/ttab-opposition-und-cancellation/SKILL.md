@@ -154,3 +154,12 @@ Bevor die Opposition eingelegt wird, klaere:
 > **Coach Services, Inc. v. Triumph Learning LLC, 668 F.3d 1356 (Fed. Cir. 2012):** Der Bekanntheitsschutz nach § 43(c) Lanham Act (Federal Dilution) erfordert, dass die Marke "widely recognized by the general consuming public"; Nischen-Luxusmarken koennen diesen Standard schwer erfuellen, wenn kein substantieller US-Marktanteil besteht.
 
 > **In re Bose Corp., 580 F.3d 1240 (Fed. Cir. 2009):** Fraud on the PTO erfordert nachgewiesene subjektive Taeuschungsabsicht; blosse Ungenauigkeiten im Benutzungsnachweis begruenden keinen Fraud, solange der Anmelder gutglaeubig an die Richtigkeit seiner Erklaerung glauben durfte.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

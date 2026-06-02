@@ -25,10 +25,10 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 | Kennzahl | Wert |
 |---|---|
 | **Plugins** | 128 |
-| **Skills (SKILL.md)** | 8696 — [Gesamtübersicht](./SKILLS.md) |
+| **Skills (SKILL.md)** | 8698 — [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 132 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v56.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v57.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads

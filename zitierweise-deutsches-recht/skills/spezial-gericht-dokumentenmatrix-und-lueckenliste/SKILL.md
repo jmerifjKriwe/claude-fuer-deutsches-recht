@@ -6,7 +6,7 @@ description: "Gericht: Dokumentenmatrix, Lückenliste und Nachforderung: konkret
 # Gericht: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `zitierweise-deutsches-recht`. Ausgangspunkt ist: Deutsche juristische Hauszitierweise v4.0: Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+Dieser Skill ist ein konkreter Fachbaustein für `zitierweise-deutsches-recht`. Ausgangspunkt ist: Deutsche juristische Hauszitierweise v4.1: Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 Er führt durch **Dokumentenmatrix, Lückenliste und Nachforderung** im Themenfeld **Gericht**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 

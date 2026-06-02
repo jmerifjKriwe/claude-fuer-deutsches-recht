@@ -148,3 +148,12 @@ Bevor das MAP/RPM-System in den USA eingerichtet wird, klaere:
 > **Tiffany (NJ) Inc. v. Costco Wholesale Corp., 971 F.3d 74 (2d Cir. 2020):** Der Verkauf von Diamantringen mit dem Schildchen "Tiffany" ohne Genehmigung von Tiffany begründet Likelihood of Confusion und False Designation of Origin nach § 43(a) Lanham Act; unberechtigte Nutzung einer Luxusmarke durch Discounter begründet Marken- und Trade-Dress-Ansprueche.
 
 > **United States v. Colgate & Co., 250 U.S. 300 (1919) (Colgate-Doktrin):** Ein Hersteller hat das Recht, einseitig zu entscheiden, an wen er seine Produkte verkauft und zu welchen Bedingungen; eine unilaterale MAP-Policy ohne Absprache mit Haendlern ist nach der Colgate-Doktrin zulaessig.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

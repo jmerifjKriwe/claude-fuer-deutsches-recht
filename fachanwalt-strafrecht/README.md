@@ -67,7 +67,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 175 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 177 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -164,6 +164,7 @@ Automatisch generierte Komplett-Liste aller 175 Skills in diesem Plugin. Beschre
 | `strafrecht-spezial-glaeubigerbeguenstigung-283c-stgb` | Glaeubigerbeguenstigung nach Paragraph 283c StGB. Bevorzugte Befriedigung eines Glaeubigers in der Krise zum Nachteil der Glaeubigergesamtheit. Tatbestand inkongruente Deckung und kongruente Deckung. Abgrenzung Paragraph 130 InsO Anfecht... |
 | `strafrecht-spezial-gmbh-unrichtige-darstellung-82-gmbhg` | Falsche Angaben des Geschaeftsfuehrers nach Paragraph 82 GmbHG. Strafbarkeit bei unrichtiger Darstellung in Anmeldungen Gesellschafterversammlungen Pruefungsberichten. Schutzgut Vertrauen des Rechtsverkehrs. Abgrenzung zu Paragraph 263 S... |
 | `strafrecht-spezial-gmbh-verletzung-anzeigepflicht-84-gmbhg` | Unterlassene Verlustanzeige nach Paragraph 84 GmbHG bei Verlust der Haelfte des Stammkapitals. Pflicht zur unverzueglichen Einberufung der Gesellschafterversammlung nach Paragraph 49 Abs 3 GmbHG. Strafdrohung Freiheitsstrafe bis 3 Jahre.... |
+| `strafrecht-spezial-haeusliche-gewalt-im-strafverfahren` | Verteidigung in Verfahren mit dem Tatkomplex haeuslicher Gewalt: Tatbestandsbuendel (§ 223 KV, § 224 gefaehrliche KV, § 240 Noetigung, § 241 Bedrohung, § 238 Stalking, § 177 sexueller Uebergriff), Beweisproblematik der Aussage-gegen-Auss... |
 | `strafrecht-spezial-insiderhandel-119-wphg` | Insiderhandel § 119 WpHG iVm Art. 14 MAR: Anwendungsfall Verteidigung bei Vorwurf Nutzung Weitergabe oder Empfehlung von Insiderinformationen. Pruefraster Insiderinformation Art. 7 MAR Insidergeschaeft Art. 8 MAR Verbote Art. 14 MAR Stra... |
 | `strafrecht-spezial-insolvenzverschleppung-15a-inso` | Insolvenzverschleppung nach Paragraph 15a InsO. Antragspflicht des Geschaeftsleiters bei Zahlungsunfaehigkeit innerhalb 3 Wochen und bei Ueberschuldung innerhalb 6 Wochen. Strafbarkeit Absatz 4 und 5. Faktische Geschaeftsfuehrer. Sanieru... |
 | `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme` | Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013 Paragraph 142a MarkenG. Antrag auf Taetigwerden der Zollbehoerden AGZ-Antrag. Ausnahme Privatreise. Vereinfachtes Vernichtungsverfahren. Schnittstelle Strafverfahren zivilrechtliche... |
@@ -202,6 +203,7 @@ Automatisch generierte Komplett-Liste aller 175 Skills in diesem Plugin. Beschre
 | `strafrecht-spezial-schwerer-raub-250-stgb` | Schwerer Raub nach § 250 Abs. 1 und Abs. 2 StGB. Qualifikationen Mit-sich-Fuehren von Waffe; Bande; Lebensgefaehrdung; schwere koerperliche Misshandlung. Verwendungsvariante § 250 Abs. 2 StGB Verwenden einer Waffe. Strafrahmen Abs. 1 nic... |
 | `strafrecht-spezial-sexueller-missbrauch-176-stgb` | Sexueller Missbrauch von Kindern nach § 176 StGB. Reform 2021 mit erhoehten Mindeststrafen. Strafrahmen ein bis 15 Jahre. Schutzobjekt Kind unter 14 Jahren. Qualifikationen §§ 176a 176c 176d StGB. Praxisleitfaden Glaubhaftigkeit der Kind... |
 | `strafrecht-spezial-sexueller-uebergriff-177-i-stgb` | Sexueller Uebergriff nach § 177 Abs. 1 StGB. Reform 2016 Nein heisst Nein. Sexuelle Handlung gegen den erkennbaren Willen einer anderen Person ohne Erfordernis von Gewalt oder qualifizierter Drohung. Strafrahmen sechs Monate bis fuenf Ja... |
+| `strafrecht-spezial-stalking-238-stgb` | § 238 StGB Nachstellung (Stalking): Aufbau des Tatbestandes nach Reform 2017 und 2021 (geltendes Recht: wiederholte Nachstellungshandlung und Eignung zur nicht unerheblichen Beeintraechtigung der Lebensgestaltung), Regelbeispiele, besond... |
 | `strafrecht-spezial-steuerstrafrecht-370-ao-steuerhinterziehung` | Steuerhinterziehung nach Paragraph 370 AO. Vorsatztatbestand mit Verkuerzungserfolg. Drei Tathandlungen unrichtige Angaben pflichtwidriges Verschweigen Unterlassung. Schwellen besonders schwerer Fall Paragraph 370 III AO ab 50.000 Euro g... |
 | `strafrecht-spezial-steuerstrafrecht-370a-ao-bandenmaessig` | Paragraph 370a AO historisch — gewerbsmaessige oder bandenmaessige Steuerhinterziehung; Tatbestand 2008 vom BVerfG fuer nichtig erklaert und ausser Kraft. Skill markiert die historische Norm und verweist auf Nachfolgeregelung Paragraph 3... |
 | `strafrecht-spezial-steuerstrafrecht-371-ao-selbstanzeige` | Selbstanzeige nach Paragraph 371 AO. Strafbefreiungsgrund bei vorsaetzlicher Steuerhinterziehung. Strenge Voraussetzungen seit Reform 2015. Vollstaendigkeitsgebot Sperrgruende Absatz 2 fristgerechte Zahlung. Abgrenzung zu Paragraph 153 A... |

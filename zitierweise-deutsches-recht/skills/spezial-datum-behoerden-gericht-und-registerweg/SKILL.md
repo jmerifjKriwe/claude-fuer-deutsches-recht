@@ -6,7 +6,7 @@ description: "Datum: Behörden-, Gerichts- oder Registerweg: konkreter Spezialwo
 # Datum: Behörden-, Gerichts- oder Registerweg
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `zitierweise-deutsches-recht`. Ausgangspunkt ist: Deutsche juristische Hauszitierweise v4.0: Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+Dieser Skill ist ein konkreter Fachbaustein für `zitierweise-deutsches-recht`. Ausgangspunkt ist: Deutsche juristische Hauszitierweise v4.1: Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 Er führt durch **Behörden-, Gerichts- oder Registerweg** im Themenfeld **Datum**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 

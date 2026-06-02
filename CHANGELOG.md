@@ -1,3 +1,22 @@
+# v57.0.0 — Skill-Qualitätssweep, Quellenhygiene und schlanke Gesamt-PDFs
+
+Großer Repo-weiter Qualitäts- und Release-Sweep nach den v56-Erweiterungen.
+
+## Schwerpunkt
+
+- Alle 8698 Skills geprüft und mit einem einheitlichen Qualitäts-Hardening gegen generische Antworten, Scheinpräzision, ungeprüfte Rechtsprechung und Literatur-Blindzitate versehen.
+- Zentrale Zitierregel auf v4.1 geschärft: keine BeckRS-/juris-/Kommentar-/Aufsatz-Blindzitate, keine aktuellen Palandt-/Pahlen-Zitate, Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle.
+- Kurze und hakelige Skills in `gesellschaftsgruender` und `anlagen-zu-schriftsaetzen` weiter vertieft.
+- Strafrechts-Findings korrigiert: § 223 StGB/§ 230 StGB bei einfacher Körperverletzung, § 238 StGB nach geltendem Recht mit `wiederholt`, Abs. 2/Abs. 3 sauber getrennt.
+- Alle 132 Gesamt-PDF-Testakten neu gebaut: Die erste Seite startet jetzt aktennah mit Aktenname und Inhaltsübersicht, ohne README-, ZIP-, Download-, Release- oder Testakten-Meta-Hinweise.
+- Marketplace, Plugin-Manifeste, Haupt-README, Skill-Gesamtübersicht, Skills-Index und Asset-Index auf 128 Plugins, 8698 Skills und 132 Testakten synchronisiert.
+
+## Checks
+
+- YAML-Frontmatter, Plugin-Struktur, Gesamt-PDF-Regel, First-Page-Meta-Scan, Diff-Whitespace-Check und Release-Versionssynchronisierung grün.
+
+---
+
 # v56.0.0 — Factoring, Gesundheitsregulierung, BNetzA, E-Commerce und Wehrrecht
 
 Großer Fachplugin-Ausbau mit sieben neuen Rechtsgebieten und vertieften bestehenden Plugins.

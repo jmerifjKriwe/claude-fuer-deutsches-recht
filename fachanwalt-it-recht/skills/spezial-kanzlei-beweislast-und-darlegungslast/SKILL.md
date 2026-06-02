@@ -28,7 +28,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Beweislast und Substanziierung IT-Recht
 - **Werkvertrag § 631 BGB**:
-  - **Vor Abnahme**: Unternehmer trägt Mangelfreiheits-Beweis (BGH NJW 2011, 1437).
+  - **Vor Abnahme**: Unternehmer trägt Mangelfreiheits-Beweis (BGH-Linie zur Beweislast vor Abnahme; vor Ausgabe mit Datum/Az. und freier Quelle verifizieren).
   - **Nach Abnahme**: Besteller trägt Mangel-Beweis und Beweis zum Zeitpunkt der Abnahme.
 - **SaaS § 535 BGB analog**: Mietminderung — Besteller darlegt konkrete Verfügbarkeitsmängel; Bemessung anhand SLA-Klauseln.
 - **AGB-Inhaltskontrolle §§ 305 ff.**:

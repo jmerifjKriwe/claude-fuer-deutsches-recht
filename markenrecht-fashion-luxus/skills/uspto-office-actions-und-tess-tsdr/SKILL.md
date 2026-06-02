@@ -161,3 +161,12 @@ Bevor die Response verfasst wird, klaere:
 > **In re Viterra Inc., 671 F.3d 1358 (Fed. Cir. 2012):** Die Aehnlichkeit zwischen Marken ist nach dem Gesamteindruck auf Erscheinung, Klang, Bedeutung und kommerzielle Impression zu beurteilen; es genuegt, wenn ein einziges dieser Elemente Verwechslungsgefahr begruendet.
 
 > **In re Gyulay, 820 F.2d 1216 (Fed. Cir. 1987):** Ein Begriff ist im Sinne von § 2(e)(1) Lanham Act "merely descriptive", wenn er unmittelbar eine Eigenschaft oder Merkmal der angemeldeten Waren beschreibt; er muss nicht ausschliesslich beschreibend sein — es genuegt, wenn er im Zusammenhang mit den Waren eine direkte beschreibende Aussage macht.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
