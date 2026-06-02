@@ -19,7 +19,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [bank-rechtsabteilung](./bank-rechtsabteilung.md) (100 Skills)
 - [barrierefreiheit-web-checker](./barrierefreiheit-web-checker.md) (54 Skills)
 - [bav-strategie-konzern](./bav-strategie-konzern.md) (54 Skills)
-- [beamtenrecht](./beamtenrecht.md) (59 Skills)
+- [beamtenrecht](./beamtenrecht.md) (75 Skills)
 - [bereicherungs-und-anfechtungsrecht-pruefer](./bereicherungs-und-anfechtungsrecht-pruefer.md) (98 Skills)
 - [berufsrecht-ki-vertragspruefung](./berufsrecht-ki-vertragspruefung.md) (54 Skills)
 - [betreuungsrecht](./betreuungsrecht.md) (54 Skills)
