@@ -1,3 +1,19 @@
+# v60.0.0 — Beamtenrecht, US-Copyright-Registrierung und Release-Sync
+
+Release-Sprung auf v60.0.0 mit zwei neuen Plugins und einer neuen Beamtenrecht-Demonstrationsakte.
+
+## Neu
+
+- `beamtenrecht`: großes Plugin für Bundes- und Landesbeamtenrecht, Richterdienstrecht, Laufbahn, Besoldung, Versorgung, Konkurrentenstreit, Disziplinarrecht, Dienstunfähigkeit, Beihilfe, Richterbeurteilung und verständliche Mandatsführung mit 59 Skills.
+- `testakten/beamtenrecht-richterlaufbahn-besoldung-mondsee`: neue Beamtenrecht-/Richterlaufbahn-Akte mit 15 Einzeldateien, EML, CSV, Chatnotizen und Gesamt-PDF.
+- `us-copyright-registrierung-verlag`: kleines Praxis-Plugin für deutsche Verlage zur US-Copyright-Registrierung über eCO mit 13 Skills zu Account, Standard Application, Gebühren, Deposit, Shipping Slip, Versand und Monitoring.
+
+## Synchronisierung
+
+- Marketplace und alle Plugin-Manifeste auf `v60.0.0` gesetzt.
+- `README.md`, `SKILLS.md`, Skills-Index, Testaktenübersicht und Asset-Index auf 132 Plugins, 9371 Skills und 140 Testakten nachgezogen.
+- Gesamt-PDF für die neue Beamtenrecht-Akte erzeugt und in Plugin-/Testakten-READMEs verlinkt.
+
 # v59.0.0 — Skill-Boost, Legistik-Ressort-Mapping und Release-Synchronisierung
 
 Nachgezogener Hauptstand nach v58.0.0: Claude/Perplexity-Ergänzungen wurden übernommen, alle Plugin-/Marketplace-Versionen stehen einheitlich auf v59.0.0, und die Übersichten sind wieder mit der tatsächlichen Skillzahl synchron.

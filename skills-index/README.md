@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v59.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v60.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -19,6 +19,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [bank-rechtsabteilung](./bank-rechtsabteilung.md) (100 Skills)
 - [barrierefreiheit-web-checker](./barrierefreiheit-web-checker.md) (54 Skills)
 - [bav-strategie-konzern](./bav-strategie-konzern.md) (54 Skills)
+- [beamtenrecht](./beamtenrecht.md) (59 Skills)
 - [bereicherungs-und-anfechtungsrecht-pruefer](./bereicherungs-und-anfechtungsrecht-pruefer.md) (98 Skills)
 - [berufsrecht-ki-vertragspruefung](./berufsrecht-ki-vertragspruefung.md) (54 Skills)
 - [betreuungsrecht](./betreuungsrecht.md) (54 Skills)
@@ -125,6 +126,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [tabellenreview-3d](./tabellenreview-3d.md) (54 Skills)
 - [umweltrecht](./umweltrecht.md) (54 Skills)
 - [urteilsbauer-relationsmacher](./urteilsbauer-relationsmacher.md) (54 Skills)
+- [us-copyright-registrierung-verlag](./us-copyright-registrierung-verlag.md) (13 Skills)
 - [vereinsrecht-vereinsmanager](./vereinsrecht-vereinsmanager.md) (58 Skills)
 - [verfassungsrecht](./verfassungsrecht.md) (54 Skills)
 - [verkehr-infrastrukturrecht](./verkehr-infrastrukturrecht.md) (54 Skills)
