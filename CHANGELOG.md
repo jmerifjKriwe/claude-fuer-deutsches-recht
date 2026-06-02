@@ -1,3 +1,23 @@
+# v61.2.0 - Vergaberecht Workbench Boost
+
+## Schwerpunkt
+
+- `fachanwalt-vergaberecht` von 54 auf 83 Skills erweitert.
+- Neue Workbench-Skills fuer Vergabe-OS, Schwellenwerte 2026/2027, Vergabeakte, Auftragswert/Losbildung, Verfahrenswahl, Markterkundung, Leistungsbeschreibung, Eignung, Bieterfragen, Angebotsoeffnung, Aufklaerung/Nachforderung, Wertungsmatrix, ungewoehnlich niedrige Angebote, Paragraph 134/135 GWB, Paragraph 132 GWB, Rahmenvereinbarungen, Unterschwellenrechtsschutz, Foerdermittel, Wettbewerbsregister, VK-/OLG-Strategie, Padlet-Canvas, KI-/Cloud-Beschaffung, Nachhaltigkeit und Resilienz ergaenzt.
+- Alle Vergaberecht-Skills mit v61.2-Workbench-Boost gehaertet: Rollen-/Fristen-/Schwellenwert-Gate, Anfaengererklaerung, Padlet-/Tabellenpflicht bei komplexen Faellen, Auftraggeber-Dokumentationslogik und Bieter-Ruge-/Kausalitaetslogik.
+- Fuenf neue Templates fuer Master-Padlet, Schwellenwert-Rechner, Wertungsmatrix, Ruge/VK-Powerdraft und Vergabeakte-Lueckenliste plus Quellen-/Aktualitaetsgate ergaenzt.
+
+## Synchronisierung
+
+- Marketplace, Plugin-Manifeste, Haupt-README, SKILLS.md, Skills-Index und Asset-Index auf `v61.2.0` nachgezogen.
+- Gesamtbestand: 132 Plugins, 9516 Skills, 140 Testakten.
+
+## Checks
+
+- Plugin-Struktur, YAML-Frontmatter, Testakten-Gesamt-PDF-Regel und Whitespace-Check laufen im Release-Check.
+
+---
+
 # v61.1.0 — Beamten-/Richterrecht Spezialskills konsolidiert
 
 ## Schwerpunkt

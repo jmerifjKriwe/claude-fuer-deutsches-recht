@@ -1,6 +1,6 @@
 # insolvenzrecht
 
-**75 Skills** · Stand `v61.1.0`
+**75 Skills** · Stand `v61.2.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/insolvenzrecht/README.md)
