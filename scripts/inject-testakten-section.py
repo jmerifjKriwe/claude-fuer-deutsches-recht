@@ -38,6 +38,7 @@ PLUGIN_TESTAKTEN: dict[str, list[str]] = {
     "europarecht-kompass": ["europarecht-kompass-beihilfe-richtlinie"],
     "fachanwalt-verwaltungsrecht": ["bvg-widerspruchsstelle-abschleppen-mobg"],
     "fluggastrechte": ["fluggastrechte-familie-braeutigam"],
+    "forschungszulage-antragstellung": ["forschungszulage-sensorik-startup-taunus"],
     "forderungsmanagement-klagewerkstatt": ["inkasso-zahlungsklage-modefuchs"],
     "geldwaeschepraevention-aml-kyc": ["geldwaesche-aml-kyc-musterholding"],
     "gesellschaftsgruender": ["gesellschaftsgruender-streit-roeschen-tech"],
