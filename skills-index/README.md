@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v58.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v58.1.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -54,7 +54,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [fachanwalt-migrationsrecht](./fachanwalt-migrationsrecht.md) (376 Skills)
 - [fachanwalt-sozialrecht](./fachanwalt-sozialrecht.md) (83 Skills)
 - [fachanwalt-sportrecht](./fachanwalt-sportrecht.md) (54 Skills)
-- [fachanwalt-strafrecht](./fachanwalt-strafrecht.md) (177 Skills)
+- [fachanwalt-strafrecht](./fachanwalt-strafrecht.md) (197 Skills)
 - [fachanwalt-transport-speditionsrecht](./fachanwalt-transport-speditionsrecht.md) (54 Skills)
 - [fachanwalt-urheber-medienrecht](./fachanwalt-urheber-medienrecht.md) (54 Skills)
 - [fachanwalt-vergaberecht](./fachanwalt-vergaberecht.md) (54 Skills)
@@ -91,7 +91,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [ki-vo-ai-act-pruefer](./ki-vo-ai-act-pruefer.md) (50 Skills)
 - [krankenhausrecht](./krankenhausrecht.md) (67 Skills)
 - [krisenfrueherkennung-starug](./krisenfrueherkennung-starug.md) (54 Skills)
-- [legistik-werkstatt](./legistik-werkstatt.md) (54 Skills)
+- [legistik-werkstatt](./legistik-werkstatt.md) (177 Skills)
 - [liquiditaetsplanung](./liquiditaetsplanung.md) (54 Skills)
 - [lobbyregister-bundestag](./lobbyregister-bundestag.md) (51 Skills)
 - [mandantenanfragen-assistent](./mandantenanfragen-assistent.md) (54 Skills)

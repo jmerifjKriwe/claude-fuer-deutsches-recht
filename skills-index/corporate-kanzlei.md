@@ -1,6 +1,6 @@
 # corporate-kanzlei
 
-**53 Skills** · Stand `v58.0.0`
+**53 Skills** · Stand `v58.1.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/corporate-kanzlei/README.md)
