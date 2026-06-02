@@ -48,7 +48,7 @@ Skill fuer Beamte, die Elternzeit nehmen oder genommen haben und die Auswirkunge
 ## 6. Verifizierte Quellenanker
 
 - § 6 BeamtVG (ruhegehaltfaehige Dienstzeiten); § 50a, § 50b BeamtVG (Kindererziehungszuschlag und Kindererziehungsergaenzungszuschlag).
-- § 6 BEEG (Elternzeit ohne Bezuege); § 80 BBG, § 92 BBG; § 43 BeamtStG i.V.m. Landesrecht (Teilzeit waehrend Elternzeit).
+- § 15 BEEG (Anspruch auf Elternzeit); § 79 BBG (Mutterschutz und Elternzeit Bundesbeamte); § 92 BBG (Teilzeit aus familiaeren Gruenden); § 43 BeamtStG i.V.m. Landesrecht (Teilzeit waehrend Elternzeit).
 - BVerfG zur Beruecksichtigung von Kindererziehungszeiten in der Beamtenversorgung — Datum und Az vor Zitat in amtlicher Quelle live pruefen.
 - Versorgungsausgleichsgesetz bei Scheidung waehrend oder nach Elternzeit; § 12 VersAusglG (Beamtenversorgung als Anrecht).
 

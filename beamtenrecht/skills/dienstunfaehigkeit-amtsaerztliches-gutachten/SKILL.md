@@ -50,7 +50,7 @@ Skill fuer Beamte im Verfahren zur Feststellung der Dienstunfaehigkeit, insbeson
 
 ## 6. Verifizierte Quellenanker
 
-- §§ 26, 44, 110 BBG; § 26 BeamtStG i.V.m. Landesrecht.
+- §§ 44 bis 48 BBG (Dienstunfaehigkeit, begrenzte Dienstfaehigkeit, Wiederherstellung, Verfahren, aerztliche Untersuchung); § 110 BBG (Akteneinsicht); § 26 BeamtStG i.V.m. Landesrecht.
 - Art. 2 Abs. 1, Art. 1 Abs. 1 GG (Persoenlichkeitsrecht) als Schranke der Untersuchungsanordnung.
 - Anforderung an Bestimmtheit der Untersuchungsaufforderung: konkreter Anlass, Untersuchungsstelle, Umfang, Folgen unterlassener Mitwirkung.
 - BVerwG zur Bestimmtheit der Untersuchungsaufforderung und zum Vorrang des amtsaerztlichen Gutachtens — Datum und Az vor Zitat live verifizieren.

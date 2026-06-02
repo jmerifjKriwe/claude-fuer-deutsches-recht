@@ -53,7 +53,7 @@ Skill fuer Beamte ab dem 55. Lebensjahr, die ueber Altersteilzeit den gleitenden
 
 ## 6. Verifizierte Quellenanker
 
-- § 93 BBG (Altersteilzeit Bund); § 9 BeamtStG i.V.m. landesrechtlichen Altersteilzeitvorschriften.
+- § 93 BBG (Altersteilzeit Bund) i.V.m. § 9 ArbZV (Arbeitszeitverordnung); landesrechtliche Altersteilzeitvorschriften (BeamtStG enthaelt keine Altersteilzeitnorm; die Laender regeln Altersteilzeit eigenstaendig in ihren Landesbeamtengesetzen).
 - § 6 BeamtVG (ruhegehaltfaehige Dienstzeit Altersteilzeit); § 14 BeamtVG (Versorgungsabschlag).
 - Altersteilzeitzuschlagsverordnung Bund und landesrechtliche Aequivalente.
 - BVerwG zur Altersteilzeit der Beamten — Datum und Az vor Zitat live verifizieren.

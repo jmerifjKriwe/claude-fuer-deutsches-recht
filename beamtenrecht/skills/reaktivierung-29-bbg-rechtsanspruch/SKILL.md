@@ -50,7 +50,7 @@ Skill fuer ehemals wegen Dienstunfaehigkeit in den Ruhestand versetzte Beamte, d
 
 ## 6. Verifizierte Quellenanker
 
-- § 29 BBG (Reaktivierung Bund); § 29 BeamtStG i.V.m. Landesrecht.
+- § 46 BBG (Wiederherstellung der Dienstfaehigkeit, Reaktivierung Bund); § 29 BeamtStG i.V.m. Landesrecht.
 - Voraussetzung amtsaerztlich attestierte Wiederherstellung der Dienstfaehigkeit; Zehn-Jahres-Frist nach Ruhestandsversetzung als Regelgrenze.
 - BVerwG zum Reaktivierungsanspruch und zu dienstlichen Belangen — Datum und Az vor Zitat live verifizieren.
 - Altersgrenze Regelaltersgrenze als absolute Schranke; nach Erreichen keine Reaktivierung mehr.
