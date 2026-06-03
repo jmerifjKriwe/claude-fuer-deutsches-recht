@@ -1,3 +1,20 @@
+# v62.0.0 — Major-Bump: konsolidierter Stand nach v61-Reihe
+
+## Schwerpunkt
+
+- Major-Versionsbump von 61.2.2 auf 62.0.0. Inhaltlich identisch mit v61.2.2; signalisiert den Abschluss der v61-Reihe nach Umlaut-Fix, README-Konsolidierung, Beamtenrecht-Quellenanker-Korrektur, Vergaberecht-Workbench-Boost, Forschungszulage-Akten-Erweiterung und globalem Halluzinations-Cleanup.
+- Alle 132 plugin.json + marketplace.json (outer und alle 132 Plugin-Einträge) auf 62.0.0 synchron.
+- Doku-Stand-Marker in README.md, SKILLS.md, ASSET_INDEX.md und testakten/README.md auf v62.0.0 angeglichen (vorher leichter Drift zwischen v61.2.0 und v61.2.2).
+- Plugins: 132 · Skills: 9517 · Testakten: 142 · Fachanwalts-Profile: 24.
+
+## Checks
+
+- `validate-plugin-structure` OK.
+- `validate-testakten-gesamt-pdf` OK (142 Testakten).
+- Alle plugin.json + marketplace.json einheitlich auf 62.0.0.
+
+---
+
 # v61.2.2 - Vergaberecht Workbench Boost
 
 ## Schwerpunkt
