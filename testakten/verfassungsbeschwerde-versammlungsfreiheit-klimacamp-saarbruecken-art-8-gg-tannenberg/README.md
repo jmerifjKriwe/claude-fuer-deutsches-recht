@@ -14,7 +14,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Arbeitsakte.** Alle Personen, Anschriften, Aktenzeichen und Institutionen sind anonymisiert. Die Akte gehoert fachlich zum Plugin `verfassungsrecht`.
+**Arbeitsakte.** Alle Personen, Anschriften, Aktenzeichen und Institutionen sind anonymisiert. Die Akte gehoert fachlich zu den Plugins `verfassungsrecht` und `versammlungsrecht`.
 
 ---
 

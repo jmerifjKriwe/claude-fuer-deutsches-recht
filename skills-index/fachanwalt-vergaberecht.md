@@ -1,6 +1,6 @@
 # fachanwalt-vergaberecht
 
-**83 Skills** · Stand `v64.0.0`
+**83 Skills** · Stand `v65.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-vergaberecht/README.md)

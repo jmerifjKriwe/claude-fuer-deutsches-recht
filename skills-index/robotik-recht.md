@@ -1,6 +1,6 @@
 # robotik-recht
 
-**143 Skills** · Stand `v64.0.0`
+**143 Skills** · Stand `v65.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/robotik-recht/README.md)

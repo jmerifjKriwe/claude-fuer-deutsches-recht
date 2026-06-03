@@ -1,3 +1,21 @@
+# v65.0.0 — Versammlungsrecht Praxisplugin
+
+## Schwerpunkt
+
+- Neues Plugin `versammlungsrecht` mit 54 Skills für Anzeige, Landesrecht, Behörde, Fristen, Spontan- und Eilversammlung, Ordner, Kooperationsgespräch, Auflagenprüfung, Verbot, Bannmeile, Tag-der-Versammlung-Plan und Eilrechtsschutz.
+- Bestehende Klimacamp-/Art.-8-Arbeitsakte zusätzlich dem neuen Plugin zugeordnet; Plugin-Downloadsektionen und Übersichten werden dadurch automatisch mit Gesamt-PDF und Akten-ZIP versorgt.
+- Repo-Stand auf 160 Plugins, 13210 Skills, 153 Testakten und v65.0.0 synchronisiert.
+
+## Checks
+
+- `validate-plugin-structure` OK.
+- `validate-yaml-frontmatter` OK.
+- `validate-testakten-gesamt-pdf` OK (153 Testakten).
+- `git diff --check` OK.
+- Inventarcheck: 160 Plugins, 160 Plugin-Manifeste, 13210 Skills, 153 Testakten; kein Plugin unter 30 Skills.
+
+---
+
 # v64.0.0 — Medizinrecht Hightech-Boost und Kanzlei-Mandant-Lifecycle
 
 ## Schwerpunkt

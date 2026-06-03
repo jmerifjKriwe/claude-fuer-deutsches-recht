@@ -19,6 +19,7 @@
 | `regulatorisches-recht` | Aufsichtsrecht, Branchenrecht | KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG |
 | `bgb-at-pruefer` | BGB Allgemeiner Teil: Vertragsschluss, Willenserklärung, Zugang, Auslegung, Geschäftsfähigkeit, Form, Nichtigkeit, Anfechtung, Stellvertretung, Bedingung, Fristen und Verjährung | BGB §§ 104-218 |
 | `vertragsrecht` | Vertragsrecht, AGB, NDA, SaaS, Vertrieb | BGB, HGB, AGG, EU-Lieferketten-RL |
+| `versammlungsrecht` | Versammlungsfreiheit und Versammlungsrecht: Anzeige öffentlicher Versammlungen unter freiem Himmel, Landesrecht, Behörde, Spontan- und Eilversammlung, Ordner, Auflagen, Verbot und Eilrechtsschutz | Art. 8 GG, VersG, Landesversammlungsgesetze, VwGO §§ 80, 123 |
 | `verwaltete-agentenrezepte` | Vorlagen für Multi-Agent-Abläufe | – |
 
 ## Neu im deutschen Repository
