@@ -82,13 +82,11 @@ Brezelmann US LLC bewirbt klôtzzkètté-Handtaschen auf Website für USD 699. M
 ### Konstellation 3: Costco-ähnlich — Discount-Kette nutzt "klôtzzkètté-Style"
 Discount-Kette bewirbt Handtaschen als "klôtzzkètté-inspired luxury" ohne Markenverwendung. Kein Trademark-Verstoß per se (kein Markenname); aber: UWG-Analogie fehlt im US-Recht. Lanham Act § 43(a): False Designation of Origin? Nur wenn Verbraucher echte klôtzzkètté-Verbindung annehmen.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- Leegin Creative Leather Prods., Inc. v. PSKS, Inc., 551 U.S. 877 (2007) — RPM Rule of Reason
-- United States v. Colgate & Co., 250 U.S. 300 (1919) — Unilateral Refusal to Deal
-- Tiffany (NJ) Inc. v. Costco Wholesale Corp., 971 F.3d 74 (2d Cir. 2020)
-- ABA Antitrust Law Section, Vertical Restraints Guidelines, 2023
-- FTC, Report on Resale Price Maintenance, 2010 (pre-Leegin analysis; still instructive)
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

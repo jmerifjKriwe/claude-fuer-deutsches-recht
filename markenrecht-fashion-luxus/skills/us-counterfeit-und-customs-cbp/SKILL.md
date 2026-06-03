@@ -92,14 +92,11 @@ Donauzon US-Marketplace (us.donauzon.com) verkauft Fälschungen über Drittanbie
 ### Konstellation 3: Criminal Referral
 Organisierter Fälschungsring (multiple shipments, estimated USD 5M in counterfeit goods). Kooperation mit FBI/HSI. Whitman Brennan Forsythe LLP als Victim's Counsel; Steinacker Lichtenberg koordiniert EU-Parallelvorgehen (VO EU 608/2013).
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- McCarthy on Trademarks, Vol. 5, §§ 30:1 ff. (Remedies, Counterfeiting)
-- 18 U.S.C. § 2320 (Trademark Counterfeiting Act, aktueller Stand)
-- 15 U.S.C. §§ 1114/1116/1117 (Lanham Act Enforcement)
-- Octane Fitness, LLC v. ICON Health & Fitness, Inc., 572 U.S. 545 (2014)
-- U.S. CBP, Intellectual Property Rights Seizure Statistics, Annual Report 2024
-- IPR Center, bestpractices.gov/ipr
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

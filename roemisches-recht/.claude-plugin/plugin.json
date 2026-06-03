@@ -1,0 +1,9 @@
+{
+  "name": "roemisches-recht",
+  "version": "70.0.0",
+  "description": "Mega-Plugin zum römischen Recht: Institutionensystem, Sachenrecht, Obligationen, Aktionenrecht, Erbrecht, Juristenrecht, Corpus Iuris und Rezeption.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  }
+}

@@ -95,13 +95,11 @@ Examining Attorney: "COUTURE" ist beschreibend für Mode in Klasse 25. Response:
 ### Konstellation 3: Suspension Letter wegen pendenter Citiermarke
 USPTO suspendiert klôtzzkètté-Anmeldung wegen älterer, noch nicht eingetragener Anmeldung "KLOTZKET" (in Examination). Antwort: Monitor den Status der Citiermarke; bei Abandonment der Citiermarke: Response mit Argument für Aufhebung der Suspension.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- McCarthy on Trademarks, Vol. 2, §§ 11-13 (Likelihood of Confusion/DuPont)
-- In re E.I. du Pont de Nemours & Co., 476 F.2d 1357 (C.C.P.A. 1973) — DuPont Factors
-- In re Nantucket, Inc., 677 F.2d 95 (C.C.P.A. 1982) — Primarily Merely a Surname
-- Abercrombie & Fitch Co. v. Hunting World, Inc., 537 F.2d 4 (2d Cir. 1976) — Distinctiveness Spectrum
-- TMEP §§ 1207 (Likelihood of Confusion) und 1209 (Descriptiveness)
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

@@ -35,6 +35,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Spezialmodul: Aufnahme Von Polizeihandeln
+
+Wenn die Akte Film-, Foto- oder Audioaufnahmen polizeilicher Maßnahmen enthält, prüfe zusätzlich:
+
+- **Anfertigung vs. Veröffentlichung:** Das bloße Herstellen einer Bildaufnahme ist nicht § 33 KunstUrhG; Veröffentlichung/Weitergabe wird gesondert nach §§ 22, 23, 33 KunstUrhG geprüft.
+- **Tonspur:** § 201 StGB nur bei nichtöffentlich gesprochenem Wort. Öffentliche Einsatzkommunikation, Versammlung, Umstehende, Beweissicherungsinteresse und polizeiliche Eigenaufnahmen sind starke Gegenargumente; vertrauliche Einzelkommunikation bleibt Risikobereich.
+- **Gefahrenabwehr:** Filmverbot, Identitätsfeststellung, Sicherstellung oder Beschlagnahme nicht auf bloße Vermutung späterer Veröffentlichung stützen. Es braucht konkrete Tatsachen und mildere Mittel.
+- **Dokumentation:** Rechtsgrundlage, genaue Anordnung, Uhrzeit, Dienststelle, Zeugen, Dateiname, Speicherort, Originaldatei, spätere Verpixelung und Veröffentlichungsentscheidung erfassen.
+- **Anschluss:** Für die vertiefte Prüfung `spezial-polizei-filmen-von-einsaetzen-kug-201-stgb` verwenden.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

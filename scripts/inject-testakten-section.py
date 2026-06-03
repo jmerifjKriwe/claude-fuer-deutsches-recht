@@ -25,6 +25,14 @@ PLUGIN_TESTAKTEN: dict[str, list[str]] = {
     "arbeitszeugnis-analyse": ["arbeitszeugnis-analyse-bluehendes-leben"],
     "aussenwirtschaft-zoll-sanktionen": ["aussenwirtschaft-zoll-sanktionen-globalmaschinen"],
     "bav-strategie-konzern": ["bav-strategie-konzern-meissner-rheinwerk-ag"],
+    "beamtenrecht": [
+        "beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung",
+        "beamtenrecht-befoerderungskaskade-landesamt-weserbruecke",
+        "beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei",
+        "beamtenrecht-richterlaufbahn-besoldung-mondsee",
+        "beamtenrecht-schulleitung-hannover-konkurrentenstreit",
+    ],
+    "betaeubungsmittelrecht": ["betaeubungsmittelrecht-apotheke-substitution-festival"],
     "betreuungsrecht": [
         "betreuung-hildegard-sauer",
         "betreuung-schmalfeld-kontodaten-vertraege",
@@ -32,18 +40,37 @@ PLUGIN_TESTAKTEN: dict[str, list[str]] = {
     "bgb-at-pruefer": ["bgb-at-altfraenkische-werkstatt"],
     "common-law-kompass": ["common-law-kompass-crossborder-contract"],
     "datenschutzrecht": ["datenschutz-us-transfer-cloudsuite-rheinmain"],
+    "deutsche-rechtsgeschichte": [
+        "deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet"
+    ],
+    "designrecht-geschmacksmusterrecht": [
+        "designrecht-geschmacksmuster-lichtbogen-stuhl-copycat"
+    ],
     "dsa-dma-digitalregulierung": ["dsa-dma-bayrische-baustube-meissner"],
+    "einigungsvertrag-vermoegensrecht": [
+        "einigungsvertrag-treuhand-mauergrundstueck-lindenau"
+    ],
     "einfache-leichte-sprache-jura": ["einfache-leichte-sprache-jura-mandantenbrief"],
     "energierecht": ["energierecht-stadtwerke-quartier"],
     "europarecht-kompass": ["europarecht-kompass-beihilfe-richtlinie"],
     "fachanwalt-verwaltungsrecht": ["bvg-widerspruchsstelle-abschleppen-mobg"],
+    "festlandchina-wirtschaftsverkehr": [
+        "festlandchina-wirtschaftsverkehr-fabrik-import-investition"
+    ],
     "fluggastrechte": ["fluggastrechte-familie-braeutigam"],
     "forschungszulage-antragstellung": ["forschungszulage-sensorik-startup-taunus"],
     "forderungsmanagement-klagewerkstatt": ["inkasso-zahlungsklage-modefuchs"],
     "geldwaeschepraevention-aml-kyc": ["geldwaesche-aml-kyc-musterholding"],
     "gesellschaftsgruender": ["gesellschaftsgruender-streit-roeschen-tech"],
     "gesellschaftsrecht-legal-english": ["gesellschaftsrecht-legal-english-frankfurt-startup"],
+    "gebrauchsmusterrecht": ["gebrauchsmusterrecht-schnellverschluss-sensorhalter"],
+    "haushaltsrecht-bho-bund-laender": [
+        "haushaltsrecht-bho-szenario-buergergeld-verteidigung"
+    ],
     "hoai-leistungsphasen-praxis": ["hoai-leistungsphasen-kita-muehlenhof-lichtenrade-2026"],
+    "informationsfreiheit-presseauskunft": [
+        "informationsfreiheit-presseauskunft-klinikdaten-hafenstadt"
+    ],
     "insolvenzforderungsanmeldungspruefung": [
         "insolvenzforderungsanmeldungspruefung-phoenix-solar"
     ],
@@ -54,10 +81,16 @@ PLUGIN_TESTAKTEN: dict[str, list[str]] = {
         "insolvenzverwaltung-moebelwerk-havelberg-regelverfahren",
         "insolvenzverwaltung-nordlicht-handels-kiel",
     ],
+    "internationales-handelsrecht-lex-mercatoria": [
+        "internationales-handelsrecht-cisg-incoterms-schiedsfall"
+    ],
     "jveg-kostenpruefer": ["jveg-zeugin-berger-lg-tuebingen"],
     "kanzlei-allgemein": ["kanzlei-allgemein-alltag"],
     "ki-richtlinie-kanzleien": ["ki-richtlinie-musterkanzlei"],
     "ki-vo-ai-act-pruefer": ["ki-vo-konformitaetsbescheinigung-bewerberpilot"],
+    "kommunalrecht-laender": [
+        "kommunalrecht-rathaus-morgenfurt-buergerentscheid-haushalt"
+    ],
     "krisenfrueherkennung-starug": ["krisenfrueherkennung-starug-vier-varianten"],
     "legistik-werkstatt": ["legistik-pflichtpostfach"],
     "lobbyregister-bundestag": [
@@ -65,12 +98,21 @@ PLUGIN_TESTAKTEN: dict[str, list[str]] = {
         "lobbyregister-dublin-bank-frankfurt-branch",
         "lobbyregister-public-affairs-agentur-wasserstoff",
     ],
+    "luftrecht-flughafenrecht": [
+        "luftrecht-airline-insolvenz-flugzeugpfand-flughafen"
+    ],
     "markenrecht-fashion-luxus": [
         "markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon"
     ],
     "meinungspruefer": ["meinungspruefer-grenzfaelle-alltag"],
     "nachbarschaftsstreit-pruefer": ["nachbarschaftsstreit-horrorfall-rosengarten"],
     "normenkontrolle-bauleitplanung": ["bebauungsplan-augsburg-bahnhofsareal"],
+    "oeffentliches-wirtschaftsrecht": [
+        "oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt"
+    ],
+    "ordnungswidrigkeitenrecht": [
+        "ordnungswidrigkeitenrecht-bussgeldmix-gewerbe-datenschutz-tier"
+    ],
     "patentrecht": ["patentrecht-erfindungsakten-ravenstein-moll"],
     "phishing-vorfall-pruefer": ["phishing-vorfall-mayer-sparkasse-berlin"],
     "arbeitsrecht": [
@@ -81,10 +123,13 @@ PLUGIN_TESTAKTEN: dict[str, list[str]] = {
         "schriftform-maklervertrag-muenchen-eheleute-haspelbeck",
         "schriftform-mietkuendigung-bielefeld-online-pferdedrescher",
     ],
+    "roemisches-recht": ["roemisches-recht-kauf-besitz-erbschaft-pergamentfall"],
     "selbstvertreter-amtsgericht": ["selbstvertreter-amtsgericht-kuechentisch-kaufpreis"],
     "selbstvertreter-sozialgericht": ["selbstvertreter-sozialgericht-heizkosten-eilantrag"],
     "solo-selbststaendige-praxis": ["solo-selbststaendige-designstudio-luise-falkensee-2026"],
     "fachanwalt-sozialrecht": ["sozialrecht-rollstuhl-tannenberg"],
+    "fashion-law-moderecht": ["fashion-law-moderecht-nachtfalter-kollektion-2026"],
+    "seerecht-schifffahrtsrecht": ["seerecht-schiffshypothek-werft-wrack-bermuda"],
     "steuerrecht-anwalt-und-berater": [
         "beispielakte-edelholz-berlin",
         "fortbestehensprognose-paragrafix-gmbh",
@@ -93,13 +138,28 @@ PLUGIN_TESTAKTEN: dict[str, list[str]] = {
         "grundsteuer-rosenwinkel-bescheidkette",
     ],
     "strafbefehl-verteidiger": ["strafbefehl-ladendiebstahl-fahrerflucht"],
+    "strassenrecht-infrastruktur": ["strassenrecht-ortsdurchfahrt-bruecke-auenfeld"],
+    "strassenverkehrsrecht-stvo": [
+        "strassenverkehrsrecht-stvo-schulstrasse-lieferzone"
+    ],
+    "tierschutzrecht": ["tierschutzrecht-veterinaeramt-pferdehof-auenwiese"],
     "umweltrecht": ["umweltrecht-industrieanlage-genehmigung"],
+    "umweltschutzverband-verbandsklage": [
+        "umweltschutzverband-windpark-moorbach-umwrg"
+    ],
     "urteilsbauer-relationsmacher": [
         "lumen-studios-insolvenz-strafverfahren",
         "solis-vision-x-smartglasses",
     ],
     "verkehr-infrastrukturrecht": ["verkehr-infrastrukturrecht-strassenbahn-ladezonen"],
     "verkehrsowi-verteidiger": ["verkehrsowi-rotlicht-tempo"],
+    "venture-capital-geber": ["venture-capital-geber-nebelstern-portfolio-berlin"],
+    "verbraucherschutzrecht-pruefer": [
+        "verbraucherschutzrecht-smartmeter-abo-plattform"
+    ],
+    "verbraucherschutzverband-durchsetzung": [
+        "verbraucherschutzverband-abo-falle-sammelklage"
+    ],
     "wahlkampfrecht-praxis": ["wahlkampfrecht-landtagswahl-morgenstadt-2026"],
     "verlagsredaktion": ["verlagsredaktion-morgenlage-fachverlag"],
     "vertragsausfueller": ["vertragsausfueller-bsag-kiosk-huckelriede"],

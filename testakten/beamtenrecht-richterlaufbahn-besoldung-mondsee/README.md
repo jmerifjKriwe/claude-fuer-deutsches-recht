@@ -8,34 +8,35 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 20 KB) | PDF | [`gesamt-pdf/beamtenrecht-richterlaufbahn-besoldung-mondsee_gesamt.pdf`](gesamt-pdf/beamtenrecht-richterlaufbahn-besoldung-mondsee_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 550 KB) | PDF | [`gesamt-pdf/beamtenrecht-richterlaufbahn-besoldung-mondsee_gesamt.pdf`](gesamt-pdf/beamtenrecht-richterlaufbahn-besoldung-mondsee_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-beamtenrecht-richterlaufbahn-besoldung-mondsee.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-richterlaufbahn-besoldung-mondsee.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Fiktive Mandatsakte um eine Richterin auf Probe in einem süddeutschen Landesdienst, die nach Abordnung in ein Ministerium, konkurrierender Bewerbung auf eine Vorsitzendenstelle, widersprüchlicher dienstlicher Beurteilung, Nebentätigkeitsanzeige und amtsärztlicher Untersuchung zwischen Richterdienst, Beamtenrecht, Besoldung, Dienstaufsicht und Konkurrentenstreit hängt.
+<!-- Gesamt-PDF-Block wird automatisch eingefügt. -->
+
+Richterdienstrechtliche Akte um Dr. Ottilie Mondsee, eine leistungsstarke Richterin am Landgericht Falkenried, die zugleich um eine Vorsitzendenstelle, die vollständige Bewertung ihrer Leitungserfahrung, Präsidialratsbeteiligung, R-Besoldung, Familienzuschlag, Personalaktenberichtigung, Nebentätigkeit und eine amtsärztliche Untersuchungsanordnung streitet.
+
+Die Akte ist als dichtes Mandatskonglomerat angelegt: frühe Mandantennotizen, Auswahlakte, ministerielle Vermerke, E-Mail-Verkehr, Chatnotizen, Tabellen, Word-Memos, Bildanlagen, beA-/beBPo-Fristenlog, Eilantrag, Replik, Beschwerdereserve, Besoldungswiderspruch, BEM-/Amtsarzt-Nebenakte und Vergleichsstrategie laufen nebeneinander. Das Gesamt-PDF umfasst 60 Seiten; der Ordner enthält 72 Einzelstücke.
 
 ## Aktenbestand
 
-| Datei | Inhalt |
-| --- | --- |
-| `01-mandatsnotiz-erstgespraech.md` | Erstgespräch mit Timeline, Zielen und Fristen |
-| `02-chronologie-und-fristen.csv` | Daten zu Ernennung, Abordnung, Beurteilung, Ausschreibung und Rechtsbehelfen |
-| `03-ernennungsurkunde-scanbeschreibung.md` | Beschreibung der Ernennungsurkunde und Nebenvermerke |
-| `04-ausschreibung-vorsitz-staatsschutzkammer.md` | Ausschreibung und Anforderungsprofil |
-| `05-bewerbung-mondsee.md` | Bewerbungsschreiben der Mandantin |
-| `06-auswahlvermerk-ministerium.md` | Auswahlvermerk mit Begründung und Hilfskriterien |
-| `07-dienstliche-beurteilung-widerspruch.md` | Beurteilung, Gegenvorstellung und Einwendungen |
-| `08-besoldungsmitteilung-r1-r2-familienzuschlag.csv` | Besoldungsdaten mit streitigem Familienzuschlag und R-Stufe |
-| `09-amtsaerztliche-untersuchungsanordnung.md` | Untersuchungsanordnung wegen angeblicher Überlastung |
-| `10-nebentaetigkeit-vortrag-ki-und-recht.md` | Nebentätigkeitsanzeige mit Genehmigungsproblem |
-| `11-email-praesidialrat-und-praesident.eml` | E-Mail zur Präsidialratsbeteiligung |
-| `12-chat-kanzlei-mandantin.txt` | Chatverlauf mit ungeordneten Nachträgen |
-| `13-widerspruch-und-eilantrag-entwurf.md` | Entwurfsstand Widerspruch und Eilantrag |
-| `14-personalakte-lueckenliste.md` | Anforderung fehlender Personalaktenbestandteile |
-| `15-risikomatrix.csv` | Chancen, Risiken, Beweisbedarf, nächste Schritte |
+| Gruppe | Dateien | Inhalt |
+| --- | --- | --- |
+| Einstieg und Grundakte | `01` bis `15` | Erstgespräch, Chronologie, Ernennung, Ausschreibung, Bewerbung, Auswahlvermerk, Beurteilung, Besoldungsdaten, Amtsarzt, Nebentätigkeit, Präsidialrat-Mail, Chat, Widerspruchs-/Eilantragsentwurf, Personalakten-Lückenliste und Risikomatrix. |
+| Auswahl- und Beurteilungsvertiefung | `16` bis `30` | OLG-/LG-Gesprächsvermerke, Geschäftsverteilung, Belastungszahlen, Beurteilungsbeiträge, Präsidialrat, Besoldungswiderspruch, BEM, Eilantrag, Ministeriumserwiderung, Replik, Vergleichsvorschlag, Prozessrisiko und Red-Team-Notiz. |
+| Technische und anwaltliche Arbeitsmittel | `31` bis `34`, `48` bis `52`, `59` bis `62`, `68` bis `69` | EML-Korrespondenz, Word-Memos, Excel-Modelle, Aktenlandkarten, Sitzungsvorbereitung, Besoldungs- und Fristenmodell, Saalplan, Fragenkatalog und Mandantinnenmail. |
+| Gerichtliche Kernstücke | `35` bis `47`, `53` bis `58`, `63` bis `67`, `70` bis `72` | Vollständiger Eilantrag, eidesstattliche Versicherung, Behördenaktenauszug, Fristenlog, Erörterungsnotiz, Besoldungsvermerk, Nebentätigkeitsmemo, Personalakte, Kanzlei-Checkliste, Stillhaltezusage, Replik, Beschlussentwurf, Mandantinnenbrief, OVG-Beschwerdeentwurf, Auswahlmatrix, Gleichstellung, Amtsarzt/BEM, Anlagenverzeichnis, Chronologie, Hauptsacheklage, Personalaktenberichtigung, finaler Besoldungswiderspruch, Telefonvermerk, Risikoanalyse, Neubescheidungs- und Vergleichspaket, Schadensersatzreserve und Kostenblatt. |
+
+## Streitachsen
+
+- Art. 33 Abs. 2 GG und Bewerbungsverfahrensanspruch bei richterlicher Vorsitzendenstelle.
+- Vergleichbarkeit von praktischer Sitzungsleitung und ministerieller Projektarbeit.
+- Dokumentation von Auswahlgespräch, Binnendifferenzierung, Präsidialrat und Gleichstellung.
+- Trennung von Auswahlstreit, Besoldung, Personalaktenberichtigung, Nebentätigkeit und Amtsarzt/BEM.
+- Effektiver Eilrechtsschutz vor Ernennung, Beschwerdereserve, Vergleich und Schadensersatzreserve.
 
 ## Passende Plugins
 

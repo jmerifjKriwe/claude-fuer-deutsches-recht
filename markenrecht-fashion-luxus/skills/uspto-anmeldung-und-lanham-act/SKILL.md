@@ -90,12 +90,11 @@ Examining Attorney zitiert ältere US-Marke "KLOTZKE" in Klasse 25. Koordination
 ### Konstellation 3: Section 66(a)-Anmeldung via Madrid
 klôtzzkètté nutzt bestehende EUIPO-Registrierung als Basis für Madrid-Protokoll-Designation USA (Section 66(a)). Verfahren beim USPTO läuft parallel zur Regular Application; aber: Section 66(a) hat strengere SOU-Anforderungen. Koordination mit Whitman Brennan Forsythe LLP.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- McCarthy on Trademarks, Vol. 1-4 (führendes US-Markenrechts-Kommentarwerk)
-- TMEP (Trademark Manual of Examining Procedure), ed. 2400 (aktuell)
-- 15 U.S.C. §§ 1051-1141 (Lanham Act vollständig)
-- In re Nett Designs Inc., 236 F.3d 1339 (Fed. Cir. 2001) — Specimen of Use-Anforderungen
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

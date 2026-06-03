@@ -18,6 +18,15 @@ Plane neutrale Beobachter, Fotos von Lage und Schildern, Zeitstempel, Screenshot
 ## Arbeitsweise
 Achte auf Datenschutz und sichere Ablage. Keine heimliche Eskalation durch Beweissicherung.
 
+## Smartphone- Und Video-Beweissicherung
+
+- Dokumentiere öffentliche Amtshandlungen ruhig, aus Abstand und ohne die Maßnahme zu stören.
+- Halte Uhrzeit, Ort, Polizeieinheit, sichtbare Anordnung, Durchsage, Zeugen und Dateiname zusammen fest.
+- Sichere Originaldateien unverändert; erst Arbeitskopien schneiden, verpixeln oder transkribieren.
+- Weise Teams darauf hin: fremde Gesichter, verletzte Personen, Kinder und Personalien nicht ungeprüft posten.
+- Wenn eine Tonaufnahme wegen § 201 StGB problematisiert wird, rekonstruiere sofort: Wer sprach, wie laut, an wen, wer konnte mithören, war es eine öffentliche Einsatzanordnung oder ein vertrauliches Gespräch?
+- Bei Wegnahme oder Löschaufforderung: nichts freiwillig löschen; Anordnung, Rechtsgrundlage, Zeugen und Gerätedaten dokumentieren.
+
 ## Rechtslogik
 - Ausgangspunkt ist Art. 8 GG: friedliche Versammlung ohne Waffen, grundsätzlich ohne Erlaubnis.
 - Für Versammlungen unter freiem Himmel greifen Bundes- oder Landesversammlungsgesetze; die Anzeige ist keine Genehmigung.

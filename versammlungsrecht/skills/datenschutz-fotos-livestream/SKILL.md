@@ -18,6 +18,18 @@ Versammlungen sind öffentlich, aber personenbezogene Daten bleiben sensibel. Sc
 ## Arbeitsweise
 Prüfe Hausrecht, KUG/DSGVO-Schnittstellen, Presseprivilegien, Minderjährige, Ordnerlisten, Speicherfristen, Livestream-Hinweis und Drohnenrecht.
 
+## Polizeiaufnahmen, KUG und § 201 StGB
+
+- Trenne strikt **Herstellung** und **Veröffentlichung**: Das bloße Fotografieren oder Filmen von Polizeieinsätzen ist nicht schon § 33 KunstUrhG; das KUG wird vor allem bei Verbreitung oder öffentlicher Zurschaustellung relevant.
+- Prüfe bei Veröffentlichung § 22 KunstUrhG und die Ausnahmen des § 23 KunstUrhG: Zeitgeschehen, Versammlung/Aufzug, Beiwerk und berechtigte Interessen nach § 23 Abs. 2 KunstUrhG.
+- Bei Tonspur nicht reflexhaft „geheimes Wort“ übernehmen: § 201 StGB setzt ein nichtöffentlich gesprochenes Wort voraus. Öffentliche Einsatzkommunikation, laute Anordnungen, Umstehende, Versammlungskontext, Polizeidokumentation und Beweissicherungszweck sind Gegenargumente.
+- Risikofälle bleiben: vertrauliche Einzelgespräche, Personalienabfragen, leise Nebenkommunikation, Opfer-/Unfalllagen, verletzte oder hilflose Personen, Kinder, Nahporträts und Livestream ohne Verpixelung.
+- Wenn die Polizei das Filmen untersagt, verlange gedanklich immer: Rechtsgrundlage, konkrete Gefahr, mildere Mittel, Verhältnismäßigkeit, Dokumentation der Anordnung.
+
+## Anschluss
+
+Für akute Polizeikonflikte nutze zusätzlich `polizeifilmerei-beweissicherung-kug-201-stgb`, für Strafvorwürfe `strafrecht-polizeifilmerei-201-stgb-kug-verteidigung`, für verwaltungsgerichtliche Abwehr `spezial-polizei-filmen-von-einsaetzen-kug-201-stgb`.
+
 ## Rechtslogik
 - Ausgangspunkt ist Art. 8 GG: friedliche Versammlung ohne Waffen, grundsätzlich ohne Erlaubnis.
 - Für Versammlungen unter freiem Himmel greifen Bundes- oder Landesversammlungsgesetze; die Anzeige ist keine Genehmigung.

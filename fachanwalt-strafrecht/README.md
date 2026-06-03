@@ -15,6 +15,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
+| **BtM-Akte** (`betaeubungsmittelrecht-apotheke-substitution-festival`) | [Gesamt-PDF lesen](../testakten/betaeubungsmittelrecht-apotheke-substitution-festival/gesamt-pdf/betaeubungsmittelrecht-apotheke-substitution-festival_gesamt.pdf) | [`testakte-betaeubungsmittelrecht-apotheke-substitution-festival.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betaeubungsmittelrecht-apotheke-substitution-festival.zip) |
 | **Grossbankrott und Zeugenstreit — Mehrere Deliktszweige, Pellbach Logistik & Spedition GmbH, LG Koeln** (`grossbankrott-und-zeugenstreit-mehrere-deliktszweige-vellbruck-koeln`) | [Gesamt-PDF lesen](../testakten/grossbankrott-und-zeugenstreit-mehrere-deliktszweige-vellbruck-koeln/gesamt-pdf/grossbankrott-und-zeugenstreit-mehrere-deliktszweige-vellbruck-koeln_gesamt.pdf) | [`testakte-grossbankrott-und-zeugenstreit-mehrere-deliktszweige-vellbruck-koeln.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grossbankrott-und-zeugenstreit-mehrere-deliktszweige-vellbruck-koeln.zip) |
 | **Wirtschaftsstrafsache Bankert — U-Haft, Betrug, Steuerhinterziehung, LG Frankfurt** (`wirtschaftsstrafsache-uhaft-bankert-frankfurt`) | [Gesamt-PDF lesen](../testakten/wirtschaftsstrafsache-uhaft-bankert-frankfurt/gesamt-pdf/wirtschaftsstrafsache-uhaft-bankert-frankfurt_gesamt.pdf) | [`testakte-wirtschaftsstrafsache-uhaft-bankert-frankfurt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-wirtschaftsstrafsache-uhaft-bankert-frankfurt.zip) |
 
@@ -56,7 +57,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 210 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 211 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -136,6 +137,7 @@ Automatisch generierte Komplett-Liste aller 210 Skills in diesem Plugin. Beschre
 | `strafr-revision-pruefung-spezial` | Spezialfall Revisionspruefung StPO: § 337 sachlich- und verfahrensrechtliche Revision, Beruhensfrage, Verfahrensruegen Begruendungspflicht § 344 Abs. 2 StPO. Pruefraster fuer Revisionsbegruendung. |
 | `strafr-vermoegensabschoepfung-spezial` | Spezialfall Vermoegensabschoepfung §§ 73 ff. StGB nach Reform 2017: Einziehung von Taterzeugnissen, Wertersatzeinziehung, erweiterte Einziehung. Pruefraster fuer Verteidiger und Drittbetroffene. |
 | `strafr-wirtschaftsstrafrecht-leitfaden` | Leitfaden Wirtschaftsstrafrecht: Untreue § 266 StGB, Betrug § 263, Bilanzdelikte §§ 331 ff. HGB / § 400 AktG, Compliance-Verteidigung. Pruefraster Wirtschaftsstrafkammer. |
+| `strafrecht-polizeifilmerei-201-stgb-kug-verteidigung` | Strafverteidigung bei Vorwurf wegen Filmens von Polizeieinsätzen: § 201 StGB, § 201a StGB, KunstUrhG/KUG §§ 22 bis 23 sowie § 33, Beschlagnahme des Smartphones, Beweisverwertung, Strafbefehl, Widerspruch gegen polizeiliche Maßnahmen und... |
 | `strafrecht-spezial-amtsdelikte-340-stgb-koerperverletzung-im-amt` | Koerperverletzung im Amt nach Paragraph 340 StGB. Sonderdelikt fuer Amtstraeger insbesondere Polizeibeamte. Qualifikation der Paragraphen 223 224 226 StGB. In Ausuebung des Dienstes oder Beziehung darauf. Praktisch wichtige Fallgruppen p... |
 | `strafrecht-spezial-amtstraegerbestechung-332-334-stgb` | Bestechlichkeit § 332 StGB und Bestechung § 334 StGB von Amtstraegern: Anwendungsfall Verteidigung bei Vorwurf pflichtwidriger Diensthandlung gegen Vorteil. Pruefraster Amtstraeger Vorteil Unrechtsvereinbarung pflichtwidrige Diensthandlu... |
 | `strafrecht-spezial-arzneimittelstrafrecht-amg-95-96` | Arzneimittelstrafrecht: § 95 sowie § 96 AMG Strafvorschriften, gefaelschte Arzneimittel, Inverkehrbringen ohne Zulassung. Abgrenzung zu BtMG, NpSG. § 95 AMG Doping-Bezug, AntiDopG. Praxis Online-Apotheken und Forensik. |

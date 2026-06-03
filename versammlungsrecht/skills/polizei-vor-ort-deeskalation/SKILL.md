@@ -18,6 +18,15 @@ Leitung spricht gebündelt mit der Einsatzleitung; Ordner geben keine Rechtsguta
 ## Arbeitsweise
 Dokumentiere Uhrzeit, Anordnung, Person, Begründung, Zeugen, Video, Widerspruch im Ton, nicht im Chaos.
 
+## Wenn Die Polizei Filmen Verbietet
+
+1. Ruhig bleiben, Abstand halten, Maßnahme nicht stören.
+2. Kurz sagen: „Ich dokumentiere eine öffentliche Amtshandlung zur Beweissicherung und veröffentliche nichts ungeprüft.“
+3. Nach Rechtsgrundlage und konkreter Gefahr fragen; nicht in eine Grundsatzdebatte geraten.
+4. Widerspruch gegen Filmverbot, Identitätsfeststellung oder Wegnahme knapp erklären und Zeugen benennen.
+5. Keine Entsperrcodes, keine Löschung und keine inhaltlichen Erklärungen ohne anwaltliche Prüfung, wenn ein Strafvorwurf im Raum steht.
+6. Danach an `polizeifilmerei-beweissicherung-kug-201-stgb` routen.
+
 ## Rechtslogik
 - Ausgangspunkt ist Art. 8 GG: friedliche Versammlung ohne Waffen, grundsätzlich ohne Erlaubnis.
 - Für Versammlungen unter freiem Himmel greifen Bundes- oder Landesversammlungsgesetze; die Anzeige ist keine Genehmigung.

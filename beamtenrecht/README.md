@@ -15,10 +15,32 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
+| **Auslandseinsatz Mexiko - Wasserbau, Laufbahn und Besoldung** (`beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung`) | [Gesamt-PDF lesen](../testakten/beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung/gesamt-pdf/beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung_gesamt.pdf) | [`testakte-beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung.zip) |
+| **Landesamt Weserbrücke - Beförderungskaskade und Wunschkandidat** (`beamtenrecht-befoerderungskaskade-landesamt-weserbruecke`) | [Gesamt-PDF lesen](../testakten/beamtenrecht-befoerderungskaskade-landesamt-weserbruecke/gesamt-pdf/beamtenrecht-befoerderungskaskade-landesamt-weserbruecke_gesamt.pdf) | [`testakte-beamtenrecht-befoerderungskaskade-landesamt-weserbruecke.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-befoerderungskaskade-landesamt-weserbruecke.zip) |
+| **Hafenpolizei - Dienstunfall, Burnout und Wiedereingliederung** (`beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei`) | [Gesamt-PDF lesen](../testakten/beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei/gesamt-pdf/beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei_gesamt.pdf) | [`testakte-beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei.zip) |
 | **Dr. Ottilie Mondsee und die verschwundene R-Besoldung** (`beamtenrecht-richterlaufbahn-besoldung-mondsee`) | [Gesamt-PDF lesen](../testakten/beamtenrecht-richterlaufbahn-besoldung-mondsee/gesamt-pdf/beamtenrecht-richterlaufbahn-besoldung-mondsee_gesamt.pdf) | [`testakte-beamtenrecht-richterlaufbahn-besoldung-mondsee.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-richterlaufbahn-besoldung-mondsee.zip) |
+| **Schulleitung Gymnasium am Maschsee-Nord Hannover - Konkurrentenstreit** (`beamtenrecht-schulleitung-hannover-konkurrentenstreit`) | [Gesamt-PDF lesen](../testakten/beamtenrecht-schulleitung-hannover-konkurrentenstreit/gesamt-pdf/beamtenrecht-schulleitung-hannover-konkurrentenstreit_gesamt.pdf) | [`testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip) |
 | **Akte Campus Rheinbogen - Berufung, Senat und Drittmittel** (`hochschulrecht-berufung-senat-drittmittel-campus-rheinbogen`) | [Gesamt-PDF lesen](../testakten/hochschulrecht-berufung-senat-drittmittel-campus-rheinbogen/gesamt-pdf/hochschulrecht-berufung-senat-drittmittel-campus-rheinbogen_gesamt.pdf) | [`testakte-hochschulrecht-berufung-senat-drittmittel-campus-rheinbogen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-hochschulrecht-berufung-senat-drittmittel-campus-rheinbogen.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
+
+<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
+
+## Testakten
+
+Zu diesem Plugin existieren 5 vollständige Beispielakten:
+
+| Akte | Quelle | Direkt-Download |
+|---|---|---|
+| Auslandseinsatz Mexiko - Wasserbau, Laufbahn und Besoldung | [`testakten/beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung/`](../testakten/beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung/) | [testakte-beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung.zip) |
+| Landesamt Weserbrücke - Beförderungskaskade und Wunschkandidat | [`testakten/beamtenrecht-befoerderungskaskade-landesamt-weserbruecke/`](../testakten/beamtenrecht-befoerderungskaskade-landesamt-weserbruecke/) | [testakte-beamtenrecht-befoerderungskaskade-landesamt-weserbruecke.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-befoerderungskaskade-landesamt-weserbruecke.zip) |
+| Hafenpolizei - Dienstunfall, Burnout und Wiedereingliederung | [`testakten/beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei/`](../testakten/beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei/) | [testakte-beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei.zip) |
+| Dr. Ottilie Mondsee und die verschwundene R-Besoldung | [`testakten/beamtenrecht-richterlaufbahn-besoldung-mondsee/`](../testakten/beamtenrecht-richterlaufbahn-besoldung-mondsee/) | [testakte-beamtenrecht-richterlaufbahn-besoldung-mondsee.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-richterlaufbahn-besoldung-mondsee.zip) |
+| Schulleitung Gymnasium am Maschsee-Nord Hannover - Konkurrentenstreit | [`testakten/beamtenrecht-schulleitung-hannover-konkurrentenstreit/`](../testakten/beamtenrecht-schulleitung-hannover-konkurrentenstreit/) | [testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip) |
+
+Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
+
+<!-- END TESTAKTEN-SECTION (auto-generated) -->
 
 Beamtenrecht für Bund, Länder und Richterdienst: Status, Laufbahn, Besoldung, Versorgung, Konkurrentenstreit, Disziplinarrecht, Dienstunfähigkeit, Richterlaufbahn, Landesrecht und verständliche Mandatsführung.
 
@@ -50,7 +72,6 @@ Seit v60.0.1 ist das Plugin deutlich tiefer auf vier besonders fehleranfällige 
 
 Jeder dieser Skills ist bewusst praktisch: Er fragt zuerst die Akte ab, benennt dann die richtige Rechtsquelle und baut erst danach den Text. Wo eine Fundstelle nicht frei überprüfbar ist, stoppt das Plugin und verlangt Live-Verifikation.
 
-
 ## Spezialprobleme aus PR #205
 
 Die 50 Spezial-Skills aus dem Seitenast `claude/review-german-law-skills-9LH3E` sind in dieses Plugin konsolidiert worden. Sie ergänzen die v60.0.1-Vertiefungen um neun Praxiscluster: Konkurrentenschutz und Beurteilung, Besoldung, Versorgung, Beihilfe/Heilfürsorge, Urlaub/Elternzeit, Dienstunfall/Krankheit, Disziplinarrecht, Nebenpflichten/Statusrecht und Richterrecht. Das frühere Seitenast-Plugin `beamten-richter-spezialprobleme` wird nicht als eigenes Marketplace-Plugin geführt, damit Nutzerinnen im Beamtenrecht nicht zwischen zwei fast gleichen Downloads wählen müssen.
@@ -81,12 +102,11 @@ Das Plugin soll die Nutzerin nicht klein machen, sondern schneller stark machen:
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
-
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 125 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 137 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -131,6 +151,7 @@ Automatisch generierte Komplett-Liste aller 125 Skills in diesem Plugin. Beschre
 | `dienstunfaehigkeit-zurruhesetzung` | Dienstunfähigkeit und Zurruhesetzung: Prognose, amtsärztliches Gutachten, anderweitige Verwendung, Beteiligung und Rechtsschutz. |
 | `dienstunfall-anerkennung` | Dienstunfall, Wegeunfall, psychische Dienstunfallfolgen und Unfallfürsorge. |
 | `dienstunfall-anerkennung-45-beamtvg` | Skill zur Anerkennung von Dienstunfaellen nach § 31 BeamtVG und zur Einhaltung der Meldefristen nach § 45 BeamtVG. Klaert den Begriff des Dienstunfalls die Konstellation Wegeunfall die Behandlung von Spaetfolgen die Zwei-Jahres-Frist und... |
+| `dienstunfall-folgekosten-unfallfuersorge` | Dienstunfall-Folgekosten und Unfallfürsorge: Heilverfahren, Sachschäden, Unfallruhegehalt, Meldefrist, Kausalität und spätere Verschlimmerung. |
 | `dienstvergehen-ausser-dienst-47-beamtstg` | Skill zur disziplinarrechtlichen Beurteilung von Verhalten ausserhalb des Dienstes nach § 47 BeamtStG bzw. § 77 BBG. Klaert die Voraussetzung der Eignung zur Beeintraechtigung des Vertrauens den Bezug zur Statusrelevanz und das Verhaeltn... |
 | `disziplinar-bemessung-13-bdg-stufenfolge` | Maßnahmebemessung im Disziplinarrecht: § 13 BDG, Schwere des Dienstvergehens, Vertrauensverlust, Persönlichkeitsbild, Entlastung, Milderung, Zeitablauf und Stufenfolge. |
 | `disziplinarmassnahmebemessung-13-bdg` | Skill zur Bemessung der Disziplinarmassnahme nach § 13 BDG und den Landesdisziplinargesetzen. Klaert die Stufen Verweis Geldbusse Kuerzung der Dienstbezuege Zuruecksstufung Entfernung aus dem Beamtenverhaeltnis. Pruef die Bemessungskrite... |
@@ -153,14 +174,20 @@ Automatisch generierte Komplett-Liste aller 125 Skills in diesem Plugin. Beschre
 | `fuersorgepflicht-mobbing-konflikt` | Fürsorgepflicht, Mobbing, Konflikte, Überlastung und Schutzpflichten des Dienstherrn. |
 | `geschaeftsverteilung-richter-21e-gvg` | Skill zur richterlichen Geschaeftsverteilung nach § 21e GVG und zum verfassungsrechtlichen Anspruch auf den gesetzlichen Richter aus Art. 101 Abs. 1 Satz 2 GG. Klaert das Praesidium die Aufstellung des Geschaeftsverteilungsplans zu Begin... |
 | `geschenke-korruption-compliance` | Geschenke, Einladungen, Sponsoring und Korruptionsprävention im öffentlichen Dienst. |
+| `heilfuersorge-ruhestand-pkv-anwartschaft` | Heilfürsorge, Ruhestand und PKV-Anwartschaft: Polizei, Feuerwehr, Justizvollzug, Soldatenschnittstellen, Übergang in Beihilfe und Versicherungslücken. |
 | `heilfuersorge-vs-beihilfe-vollzugsdienst` | Skill zur Abgrenzung Heilfuersorge und Beihilfe im Vollzugsdienst. Klaert die Systemunterschiede zwischen freier Heilfuersorge fuer Polizeibeamte und Soldaten und der Beihilfe der Verwaltungsbeamten. Behandelt die Konstellation Krankenve... |
 | `hinterbliebenenversorgung-witwen-waisen` | Skill zur Hinterbliebenenversorgung in der Beamtenversorgung Witwen- und Witwergeld Halbwaisengeld und Vollwaisengeld nach §§ 19 ff. BeamtVG. Klaert die Anspruchsvoraussetzungen Heiratsklauseln vor Eintritt in den Ruhestand und vor Volle... |
 | `hochschule-professoren-w-besoldung` | Hochschulbeamte und Professoren: Berufung, W-Besoldung, Leistungsbezüge, Nebentätigkeit und Freiheit von Forschung und Lehre. |
 | `kommunalbeamte-und-wahlbeamte` | Kommunalbeamte und Wahlbeamte: Amtszeit, Abwahl, Bürgermeister, Beigeordnete, Nebentätigkeiten und Versorgung. |
 | `konkurrentenklage-einstweiliger-rechtsschutz` | Eilrechtsschutz nach § 123 VwGO im beamtenrechtlichen Konkurrentenstreit. Skill liefert Schriftsatzgeruest fuer Antrag auf einstweilige Anordnung mit dem Begehren die Ernennung des ausgewaehlten Konkurrenten zu untersagen bis ueber die B... |
+| `konkurrentenschutz-auswahlvermerk-und-akteneinsicht` | Konkurrentenschutz mit Auswahlvermerk und Akteneinsicht: Beurteilungen, Anforderungsprofil, Plausibilisierung, Hilfskriterien und Dokumentationsmängel. |
 | `konkurrentenschutz-bestenauslese-art-33-ii-gg` | Pruefschema zum Grundsatz der Bestenauslese aus Art. 33 Abs. 2 GG bei Auswahlentscheidungen im oeffentlichen Dienst. Liefert Bausteine fuer Konkurrentenwiderspruch und Konkurrentenklage. Klaert die drei Auswahlkriterien Eignung Befaehigu... |
+| `konkurrentenschutz-nach-ernennung-schadensersatz` | Konkurrentenschutz nach Ernennung: Primärrechtsschutzverlust, Schadensersatz wegen rechtswidrig unterlassener Beförderung und Kausalitätsprüfung. |
+| `konkurrentenschutz-richter-professoren-fuehrungsaemter` | Konkurrentenschutz bei Richtern, Professoren und Führungsämtern: Bestenauslese, Gremienbeteiligung, Präsidialrat, Berufungskommission und besondere Aktenlage. |
+| `konkurrentenschutz-sofortprogramm-einzelgerechtigkeit` | Konkurrentenschutz-Sofortprogramm: Bewerbungsverfahrensanspruch, Konkurrentenmitteilung, Stillhaltefrist, Eilantrag, Akteneinsicht und Einzelgerechtigkeit. |
 | `konkurrentenstreit-eilverfahren` | Konkurrentenstreit und einstweiliger Rechtsschutz gegen Beförderung oder Stellenbesetzung. |
 | `krankheitsbedingte-urlaubsuebertragung` | Skill zur Uebertragung und Abgeltung des Erholungsurlaubs bei laenger andauernder Erkrankung im Beamtenverhaeltnis. Klaert die 15-Monats-Frist nach EuGH-Rechtsprechung den unionsrechtlichen Mindesturlaub die Unterscheidung zwischen union... |
+| `krankheitskosten-beihilfe-pkv-widerspruch` | Krankheitskosten im Beamtenrecht: Beihilfe, PKV, ablehnender Beihilfebescheid, medizinische Notwendigkeit, Voranerkennung, Frist und Widerspruch. |
 | `landesrecht-16-laender-routenplan` | Routenplan für Landesbeamtenrecht aller 16 Länder: Landesbeamtengesetz, Laufbahn, Besoldung, Versorgung, Beihilfe, Disziplinarrecht und Landesrichterrecht ohne falsches Bundesrechts-Autopilotieren. |
 | `laufbahnrecht-bund` | Laufbahnrecht Bund: Laufbahngruppen, Vorbereitungsdienst, Aufstieg, Laufbahnwechsel, Anerkennung von Zeiten und Qualifikation. |
 | `laufbahnrecht-laender-matrix` | Länder-Laufbahnrecht-Matrix: fragt Bundesland, Laufbahngruppe, Fachrichtung, Vorbildung und Zielamt ab. |
@@ -172,7 +199,10 @@ Automatisch generierte Komplett-Liste aller 125 Skills in diesem Plugin. Beschre
 | `nebentaetigkeit-99-bbg-anzeige-genehmigung` | Skill zum Nebentaetigkeitsrecht der Beamten nach §§ 97 ff. BBG bzw. § 40 BeamtStG i.V.m. Landesrecht. Klaert die Unterscheidung anzeigepflichtige und genehmigungspflichtige Nebentaetigkeiten den Versagungs- und Widerrufsgrund das Verbot... |
 | `nebentaetigkeit-genehmigung-und-untersagung` | Nebentätigkeit, Anzeige, Genehmigung, Untersagung, Ablieferungspflichten und Richter-Sonderregeln. |
 | `output-waehlen-memo-widerspruch-eilantrag` | Output-Navigator: Mandantenbrief, Behördenanschreiben, Widerspruch, Klage, Eilantrag, Gegenvorstellung, Remonstration oder Verhandlungsnotiz. |
+| `pension-und-gesetzliche-rente-55-beamtvg` | Zusammentreffen von Beamtenpension und gesetzlicher Rente nach § 55 BeamtVG: Anrechnung, Höchstgrenze, Nachversicherung, Versorgungsausgleich und Auslandsrenten. |
+| `pensionierung-gesamtcheck-ruhegehalt-beihilfe-pkv` | Pensionierungs-Gesamtcheck für Beamte und Richter: Ruhegehalt, Mindestversorgung, Versorgungsabschlag, Beihilfe, PKV, Rente, Nebeneinkünfte und Übergang in den Ruhestand. |
 | `personalakte-einsicht-datenschutz` | Personalakte, Einsicht, Datenschutz, Berichtigung und Entfernung belastender Unterlagen. |
+| `pflege-beihilfe-pflegeversicherung-beamte` | Pflege im Beamtenrecht: Beihilfe, private oder soziale Pflegeversicherung, Pflegegrad, stationäre Pflege, Angehörige und Eigenanteile. |
 | `plausibilisierung-gleicher-gesamtnoten` | Skill zur rechtlich sauberen Aufloesung von Notengleichstand bei der beamtenrechtlichen Auswahlentscheidung. Klaert die Stufenfolge ausschoepfender Beurteilungswert Binnendifferenzierung Einzelmerkmale Reihenfolge und Gewichtung sowie da... |
 | `politische-maessigung-60-bbg` | Skill zur politischen Maessigungspflicht nach § 60 BBG bzw. § 33 BeamtStG. Klaert die Pflicht zur Maessigung und Zurueckhaltung im politischen Bereich die Reichweite bei privater Aeusserung in sozialen Medien die Grenze zur Verfassungstr... |
 | `polizei-feuerwehr-vollzug-sonderdienst` | Polizei, Feuerwehr, Justizvollzug und sonstige Sonderdienste: Dienstfähigkeit, Schichtdienst, Disziplin und Gefahrennähe. |
@@ -211,9 +241,11 @@ Automatisch generierte Komplett-Liste aller 125 Skills in diesem Plugin. Beschre
 | `versetzung-gegen-willen-28-bbg` | Skill zur Versetzung des Beamten gegen seinen Willen nach § 28 BBG bzw. § 15 BeamtStG i.V.m. Landesrecht. Klaert die Voraussetzungen dienstliche Belange Anhoerung Beruecksichtigung der persoenlichen Verhaeltnisse und das Verhaeltnis zur... |
 | `versorgung-ruhegehalt-beamtvg` | Versorgung und Ruhegehalt: ruhegehaltfähige Dienstzeit, Versorgungsabschlag, Mindestversorgung, Hinterbliebenenversorgung. |
 | `versorgungsabschlag-14-beamtvg` | Skill zum Versorgungsabschlag bei vorzeitigem Eintritt in den Ruhestand nach § 14 Abs. 3 BeamtVG. Klaert die Hoehe des Abschlags die Konstellationen Antragsruhestand vor Erreichen der Regelaltersgrenze und Ruhestand wegen Dienstunfaehigk... |
+| `versorgungsakte-dokumentenintake-und-berechnung` | Beamtenversorgungsakte sortieren: Ernennungen, Dienstzeiten, Teilzeit, Beurlaubung, ruhegehaltfähige Dienstbezüge, Familienzuschlag, Versorgungsauskunft und Berechnungsblatt. |
 | `versorgungslastenteilung-107b-beamtvg` | Skill zur Versorgungslastenteilung bei Dienstherrenwechsel nach § 107b BeamtVG bzw. dem Versorgungslastenteilungs-Staatsvertrag. Klaert die Berechnung der Abfindung den Wechsel zwischen Bund und Land und zwischen Bundeslaendern die Hoehe... |
 | `vorlaeufige-dienstenthebung-38-bdg` | Skill zur vorlaeufigen Dienstenthebung und zum Einbehalt von Dienstbezuegen nach § 38 BDG und den Landesdisziplinargesetzen. Klaert die Voraussetzungen die Pruefdichte des Antrags nach § 63 BDG die Beschwerde gegen Dienstenthebung das Ei... |
 | `vorlaeufige-dienstenthebung-bezuege` | Vorläufige Dienstenthebung und Einbehaltung von Bezügen im Disziplinarverfahren. |
 | `widerspruch-klage-vwgo` | Widerspruch, Klage und VwGO-Rechtsschutz in beamtenrechtlichen Streitigkeiten. |
+| `zulagen-ruhegehaltfaehigkeit-und-rueckforderung` | Zulagen, Erschwernisse und Ruhegehaltfähigkeit: Amtszulage, Stellenzulage, Polizeizulagen, Familienzuschlag, Rückforderung und Versorgungsauswirkung. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

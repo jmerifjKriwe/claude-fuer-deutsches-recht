@@ -62,3 +62,12 @@ Die ergänzte Wissenssammlung liegt unter [`recherche/beamtenrecht-und-richterre
 - Einzelne ältere Fundstellenüberschriften in der Wissenssammlung sind nicht blind zu übernehmen; maßgeblich bleibt der verifizierte Volltext.
 - Richterdienstgerichtliche Entscheidungen der Länder nur verwenden, wenn Aktenzeichen, Datum und Quelle zusammenpassen.
 - Literaturhinweise aus Arbeitsmaterialien nicht in Plugin-Antworten zitieren.
+
+## Versorgung, Beihilfe und Rentenschnittstelle ab v69.0.1
+
+- BBhV: https://www.gesetze-im-internet.de/bbhv/
+- SGB VI: https://www.gesetze-im-internet.de/sgb_6/
+- § 55 BeamtVG, Zusammentreffen mit Renten: https://www.gesetze-im-internet.de/beamtvg/__55.html
+- § 53 BeamtVG, Ruhen bei Erwerbs- und Erwerbsersatzeinkommen: https://www.gesetze-im-internet.de/beamtvg/__53.html
+- Deutsche Rentenversicherung, Nachversicherung: https://www.deutsche-rentenversicherung.de/SharedDocs/Downloads/DE/Fachliteratur_Kommentare_Gesetzestexte/Studientexte/Versicherungsrecht/07_nachversicherung.pdf
+- Beihilfe immer nach Bund/Land trennen; Bundesbeihilfeverordnung nicht blind auf Landesbeamte übertragen.
