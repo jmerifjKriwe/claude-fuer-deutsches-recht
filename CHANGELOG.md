@@ -1,19 +1,36 @@
-# v61.2.0 - Vergaberecht Workbench Boost
+# v61.2.2 - Vergaberecht Workbench Boost
 
 ## Schwerpunkt
 
 - `fachanwalt-vergaberecht` von 54 auf 83 Skills erweitert.
 - Neue Workbench-Skills fuer Vergabe-OS, Schwellenwerte 2026/2027, Vergabeakte, Auftragswert/Losbildung, Verfahrenswahl, Markterkundung, Leistungsbeschreibung, Eignung, Bieterfragen, Angebotsoeffnung, Aufklaerung/Nachforderung, Wertungsmatrix, ungewoehnlich niedrige Angebote, Paragraph 134/135 GWB, Paragraph 132 GWB, Rahmenvereinbarungen, Unterschwellenrechtsschutz, Foerdermittel, Wettbewerbsregister, VK-/OLG-Strategie, Padlet-Canvas, KI-/Cloud-Beschaffung, Nachhaltigkeit und Resilienz ergaenzt.
-- Alle Vergaberecht-Skills mit v61.2-Workbench-Boost gehaertet: Rollen-/Fristen-/Schwellenwert-Gate, Anfaengererklaerung, Padlet-/Tabellenpflicht bei komplexen Faellen, Auftraggeber-Dokumentationslogik und Bieter-Ruge-/Kausalitaetslogik.
-- Fuenf neue Templates fuer Master-Padlet, Schwellenwert-Rechner, Wertungsmatrix, Ruge/VK-Powerdraft und Vergabeakte-Lueckenliste plus Quellen-/Aktualitaetsgate ergaenzt.
-
-## Synchronisierung
-
-- Mit dem bestehenden v61.2.0-Remote-Release zusammengefuehrt; Gesamtbestand jetzt 132 Plugins, 9517 Skills, 141 Testakten.
+- Alle Vergaberecht-Skills mit v61.2.2-Workbench-Boost gehaertet: Rollen-/Fristen-/Schwellenwert-Gate, Anfaengererklaerung, Padlet-/Tabellenpflicht bei komplexen Faellen, Auftraggeber-Dokumentationslogik und Bieter-Ruege-/Kausalitaetslogik.
+- Fuenf neue Templates fuer Master-Padlet, Schwellenwert-Rechner, Wertungsmatrix, Ruege/VK-Powerdraft und Vergabeakte-Lueckenliste plus Quellen-/Aktualitaetsgate ergaenzt.
+- Mit dem v61.2.1-Remote-Nachzug zusammengefuehrt; Gesamtbestand jetzt 132 Plugins, 9517 Skills, 142 Testakten.
 
 ## Checks
 
-- Plugin-Struktur, YAML-Frontmatter, Testakten-Gesamt-PDF-Regel und Whitespace-Check laufen im finalen Merge-Check.
+- Plugin-Struktur, YAML-Frontmatter, Testakten-Gesamt-PDF-Regel und Whitespace-Check im finalen Merge geprueft.
+
+---
+
+# v61.2.1 — Forschungszulage-Akte und Release-Asset-Glattzug
+
+## Schwerpunkt
+
+- Neue große Arbeitsakte `forschungszulage-sensorik-startup-taunus` für das Plugin `forschungszulage-antragstellung`.
+- Enthalten sind 62 Dateien: 37 Markdown-Aktenstücke, 5 EML-Mails, XLSX/CSV-Zahlenmodelle, 3 DOCX-Entwürfe, 3 JPEG-Bildanlagen, 7 PDF-Anlagen und ein 60-seitiges Gesamt-PDF.
+- Inhaltlicher Schwerpunkt: BSFZ-Rückfrage, FuE-Abgrenzung, Stand der Technik, technische Unsicherheit, Laborjournal mit negativen Ergebnissen, Ticket-/Git-Auszüge, Auftragsforschung Lissabon, Unterauftrag-Risiko, Kumulierung mit ZIM/Horizon/Landesförderung, Finanzamt-Kürzung, Einspruch, Bemessungsgrundlage 2024-2026, KMU-/Verbundfragen und Liquiditätsdarstellung gegenüber Bank/Investoren.
+- Plugin-README, Testaktenübersicht, Asset-Index und Downloadmapping auf 142 Testakten synchronisiert.
+- Ein älterer fehlender Asset-Index-Eintrag für `gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll` wurde nachgetragen.
+- Plugin-Manifeste bleiben unverändert; diese Patch-Version ist ein Testakten-/Release-Asset-Glattzug.
+
+## Checks
+
+- `validate-plugin-structure` OK.
+- `validate-testakten-gesamt-pdf` OK (142 Testakten).
+- Testaktenlisten-Abgleich: 142 Ordner, 142 README-Einträge, 142 Asset-Index-Einträge, 142 Direktdownload-Links.
+- `git diff --check` OK.
 
 ---
 

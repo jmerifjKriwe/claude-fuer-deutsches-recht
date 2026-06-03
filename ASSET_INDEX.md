@@ -145,7 +145,7 @@
 | `zwangsverwaltung-zvg` | Freistehendes ZVG-Plugin für Zwangsverwaltung und Versteigerung: Beschlagnahme, Besitz, Mieten, Treuhandkonto, Berichte, Verteilung, ZVG-Portal-Recherche, Bieterangebote und Versteigerungsteilnahme. | [`zwangsverwaltung-zvg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/zwangsverwaltung-zvg.zip) |
 | `zwangsvollstreckung` | Plugin Zwangsvollstreckung §§ 704 ff. ZPO: Mahn-/Vollstreckungsbescheid, PfÜB Bank/Arbeit, § 802l Kontensuche, Vermögensauskunft, Räumung, § 800 ZPO Notar, § 201 InsO, ZVG, EU-Kontenpfändung VO 655/2014, § 765a Härtefall, Schuldnerschutz. | [`zwangsvollstreckung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/zwangsvollstreckung.zip) |
 
-## Testakten-Assets (140 Stück)
+## Testakten-Assets (142 Stück)
 
 | Testakte | Download |
 | --- | --- |
@@ -192,10 +192,12 @@
 | `exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim` | [`testakte-exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim.zip) |
 | `familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung` | [`testakte-familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung.zip) |
 | `fluggastrechte-familie-braeutigam` | [`testakte-fluggastrechte-familie-braeutigam.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fluggastrechte-familie-braeutigam.zip) |
+| `forschungszulage-sensorik-startup-taunus` | [`testakte-forschungszulage-sensorik-startup-taunus.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-forschungszulage-sensorik-startup-taunus.zip) |
 | `fortbestehensprognose-paragrafix-gmbh` | [`testakte-fortbestehensprognose-paragrafix-gmbh.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
 | `fto-recherche-windkraft-rotorblattheizung-windsysteme-norderhof-eppendorfer-stadter` | [`testakte-fto-recherche-windkraft-rotorblattheizung-windsysteme-norderhof-eppendorfer-stadter.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fto-recherche-windkraft-rotorblattheizung-windsysteme-norderhof-eppendorfer-stadter.zip) |
 | `geldwaesche-aml-kyc-musterholding` | [`testakte-geldwaesche-aml-kyc-musterholding.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geldwaesche-aml-kyc-musterholding.zip) |
 | `gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn` | [`testakte-gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn.zip) |
+| `gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll` | [`testakte-gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll.zip) |
 | `gesellschaftsgruender-streit-roeschen-tech` | [`testakte-gesellschaftsgruender-streit-roeschen-tech.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsgruender-streit-roeschen-tech.zip) |
 | `gesellschaftsrecht-legal-english-frankfurt-startup` | [`testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip) |
 | `grossbankrott-und-zeugenstreit-mehrere-deliktszweige-vellbruck-koeln` | [`testakte-grossbankrott-und-zeugenstreit-mehrere-deliktszweige-vellbruck-koeln.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grossbankrott-und-zeugenstreit-mehrere-deliktszweige-vellbruck-koeln.zip) |
@@ -292,4 +294,4 @@
 
 ## Erwartete Asset-Zahl
 
-132 Plugin-ZIPs + 140 Testakten-ZIPs + `marketplace.json` + 3 Sammelarchive = **276 Release-Assets**.
+132 Plugin-ZIPs + 142 Testakten-ZIPs + `marketplace.json` + 3 Sammelarchive = **278 Release-Assets**.

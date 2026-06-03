@@ -1,6 +1,6 @@
 # fachanwalt-insolvenz-sanierungsrecht
 
-**56 Skills** · Stand `v61.2.0`
+**56 Skills** · Stand `v61.2.2`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-insolvenz-sanierungsrecht/README.md)
