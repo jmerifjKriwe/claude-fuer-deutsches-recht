@@ -1,7 +1,7 @@
 # Erbbaurecht Praxis
 
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
+
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -20,8 +20,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-Ein Spezialplugin für das Recht des Erbbaurechts: vom ersten Vertragsentwurf über Erbbauzins und Heimfall bis zu Finanzierung, Zustimmung, Versteigerung und Erbbaugrundbuch. Es erklärt die Sache auch für Menschen, die sonst nur Eigentum oder Miete kennen.
-
 <!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
 
 ## Testakte
@@ -33,6 +31,8 @@ Direkt-Download als ZIP: [testakte-erbbaurecht-erbbauzins-heimfall-lindenwerder-
 Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
 
 <!-- END TESTAKTEN-SECTION (auto-generated) -->
+
+Ein Spezialplugin für das Recht des Erbbaurechts: vom ersten Vertragsentwurf über Erbbauzins und Heimfall bis zu Finanzierung, Zustimmung, Versteigerung und Erbbaugrundbuch. Es erklärt die Sache auch für Menschen, die sonst nur Eigentum oder Miete kennen.
 
 ## Wofür dieses Plugin da ist
 
@@ -64,7 +64,6 @@ Starte mit dem allgemeinen Skill `erbbaurecht-allgemeiner-kaltstart`. Lade danac
 - Fristen- und Ranglog
 - Beschwerde- oder Eilrechtsschutz-Skizze
 - Liste fehlender Originale, Nachweise und Formmängel
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

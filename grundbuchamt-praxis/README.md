@@ -1,7 +1,7 @@
 # Grundbuchamt Praxis
 
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
+
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -20,8 +20,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-Ein Grundbuch-Cockpit für alle, die Auszüge lesen, Urkunden grundbuchtauglich nachweisen, Zwischenverfügungen verstehen und Grundbuchvollzug sauber betreiben müssen. Schwerpunkt ist die praktische Leseführung durch Abteilung I, II und III, damit keine Dienstbarkeit, Vormerkung, Rangstelle oder Briefgrundschuld übersehen wird.
-
 <!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
 
 ## Testakte
@@ -33,6 +31,8 @@ Direkt-Download als ZIP: [testakte-grundbuchamt-briefgrundschuld-wegerecht-alten
 Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
 
 <!-- END TESTAKTEN-SECTION (auto-generated) -->
+
+Ein Grundbuch-Cockpit für alle, die Auszüge lesen, Urkunden grundbuchtauglich nachweisen, Zwischenverfügungen verstehen und Grundbuchvollzug sauber betreiben müssen. Schwerpunkt ist die praktische Leseführung durch Abteilung I, II und III, damit keine Dienstbarkeit, Vormerkung, Rangstelle oder Briefgrundschuld übersehen wird.
 
 ## Wofür dieses Plugin da ist
 
@@ -64,7 +64,6 @@ Starte mit dem allgemeinen Skill `grundbuchamt-allgemeiner-kaltstart`. Lade dana
 - Fristen- und Ranglog
 - Beschwerde- oder Eilrechtsschutz-Skizze
 - Liste fehlender Originale, Nachweise und Formmängel
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

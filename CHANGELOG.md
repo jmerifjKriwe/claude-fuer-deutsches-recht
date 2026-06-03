@@ -1,3 +1,18 @@
+# v68.0.0 — Solo-Selbstständige und HOAI-Leistungsphasen
+
+## Neu
+
+- Neues Plugin `solo-selbststaendige-praxis` mit 200 Skills für Start, Anmeldung, Steuern, Verträge, Rechnungen, Datenschutz, Statusfeststellung, KSK, Versicherungen, Zahlungsausfall, Krise, Wachstum und Alltagspraxis.
+- Neues Plugin `hoai-leistungsphasen-praxis` mit 310 Skills: 40 Querschnitts-Workflows und je 30 Skills für HOAI-Leistungsphasen 1 bis 9 nach Gebäude-/Innenraumplanung.
+- Zwei neue Testakten mit Originalformaten und Gesamt-PDF: Solo-Designstudio Falkensee und Kita Mühlenhof Lichtenrade.
+
+## Synchronisiert
+
+- Repo-Stand auf 166 Plugins, 14042 Skills, 159 Testakten und v68.0.0 synchronisiert.
+- Marketplace, Plugin-Manifeste, README, SKILLS.md, Skills-Index, Testakten-Übersicht, Asset-Index und Downloadsektionen aktualisiert.
+
+---
+
 # v67.0.0 — Handelsregister, Grundbuchamt und Erbbaurecht
 
 ## Neu

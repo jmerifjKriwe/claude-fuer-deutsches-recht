@@ -1,7 +1,7 @@
 # Handelsregister Praxis
 
-
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
+
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -20,8 +20,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-Ein Registergerichts-Cockpit für Gesellschaftsrechtler, Notariate, Kanzleien und Rechtsabteilungen. Es ordnet, was eingetragen werden soll, welche Urkunden nötig sind, wer beim Registergericht entscheidet, wie man Beanstandungen beantwortet und wann Beschwerde oder Eilrechtsschutz Sinn ergeben.
-
 <!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
 
 ## Testakte
@@ -33,6 +31,8 @@ Direkt-Download als ZIP: [testakte-handelsregister-registergericht-rabenhof-gmbh
 Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
 
 <!-- END TESTAKTEN-SECTION (auto-generated) -->
+
+Ein Registergerichts-Cockpit für Gesellschaftsrechtler, Notariate, Kanzleien und Rechtsabteilungen. Es ordnet, was eingetragen werden soll, welche Urkunden nötig sind, wer beim Registergericht entscheidet, wie man Beanstandungen beantwortet und wann Beschwerde oder Eilrechtsschutz Sinn ergeben.
 
 ## Wofür dieses Plugin da ist
 
@@ -64,7 +64,6 @@ Starte mit dem allgemeinen Skill `handelsregister-allgemeiner-kaltstart`. Lade d
 - Fristen- und Ranglog
 - Beschwerde- oder Eilrechtsschutz-Skizze
 - Liste fehlender Originale, Nachweise und Formmängel
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

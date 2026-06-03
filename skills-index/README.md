@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v67.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v68.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -91,6 +91,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [handelsvertreterrecht](./handelsvertreterrecht.md) (100 Skills)
 - [hausarbeitenmacher](./hausarbeitenmacher.md) (54 Skills)
 - [hinweisgeberschutz-compliance](./hinweisgeberschutz-compliance.md) (100 Skills)
+- [hoai-leistungsphasen-praxis](./hoai-leistungsphasen-praxis.md) (310 Skills)
 - [hochschulrecht-laender](./hochschulrecht-laender.md) (100 Skills)
 - [immobilienrechtspraxis](./immobilienrechtspraxis.md) (54 Skills)
 - [insolvenzforderungsanmeldungspruefung](./insolvenzforderungsanmeldungspruefung.md) (54 Skills)
@@ -144,6 +145,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [selbstvertreter-amtsgericht](./selbstvertreter-amtsgericht.md) (86 Skills)
 - [selbstvertreter-sozialgericht](./selbstvertreter-sozialgericht.md) (80 Skills)
 - [softwarerecht-de-eu-us](./softwarerecht-de-eu-us.md) (100 Skills)
+- [solo-selbststaendige-praxis](./solo-selbststaendige-praxis.md) (200 Skills)
 - [sozialversicherungsstatus-pruefer](./sozialversicherungsstatus-pruefer.md) (100 Skills)
 - [staatsanwaltschaft-praxis-einstieg](./staatsanwaltschaft-praxis-einstieg.md) (100 Skills)
 - [startup-hr-personalabteilung-berlin](./startup-hr-personalabteilung-berlin.md) (110 Skills)

@@ -43,6 +43,7 @@ PLUGIN_TESTAKTEN: dict[str, list[str]] = {
     "geldwaeschepraevention-aml-kyc": ["geldwaesche-aml-kyc-musterholding"],
     "gesellschaftsgruender": ["gesellschaftsgruender-streit-roeschen-tech"],
     "gesellschaftsrecht-legal-english": ["gesellschaftsrecht-legal-english-frankfurt-startup"],
+    "hoai-leistungsphasen-praxis": ["hoai-leistungsphasen-kita-muehlenhof-lichtenrade-2026"],
     "insolvenzforderungsanmeldungspruefung": [
         "insolvenzforderungsanmeldungspruefung-phoenix-solar"
     ],
@@ -82,6 +83,7 @@ PLUGIN_TESTAKTEN: dict[str, list[str]] = {
     ],
     "selbstvertreter-amtsgericht": ["selbstvertreter-amtsgericht-kuechentisch-kaufpreis"],
     "selbstvertreter-sozialgericht": ["selbstvertreter-sozialgericht-heizkosten-eilantrag"],
+    "solo-selbststaendige-praxis": ["solo-selbststaendige-designstudio-luise-falkensee-2026"],
     "fachanwalt-sozialrecht": ["sozialrecht-rollstuhl-tannenberg"],
     "steuerrecht-anwalt-und-berater": [
         "beispielakte-edelholz-berlin",
@@ -175,6 +177,13 @@ def find_insert_position(text: str) -> int:
     Falls nicht gefunden, suche nach Plugin-Description (vor erstem '## Start' o.ae.).
     Falls auch das fehlt: nach H1-Titel + leerer Zeile + erstem Absatz.
     """
+    # Neuere READMEs haben oben einen markierten Sofort-Download-Block. Die
+    # Testakten-Sektion darf nicht in diesen Marker hineingeschoben werden.
+    sofort_end = "<!-- END plugin-sofort-download-section (autogen) -->"
+    idx = text.find(sofort_end)
+    if idx != -1:
+        return idx + len(sofort_end)
+
     # Variant 1: nach Direkt-Download-Sektion. Heading darf beliebig dekoriert sein,
     # z.B. '## Direkt-Download', '## ⬇️ Direkt-Download (einzelnes ZIP)',
     # '## Arbeitsakte (Direkt-Download)', '## Direkt-Download (je ein ZIP pro Akte)'.
