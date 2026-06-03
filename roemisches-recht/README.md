@@ -20,9 +20,9 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-Römisches Recht als begriffliche Werkstatt: Institute verstehen, Falltypen trennen und moderne Dogmatik nicht vorschnell hineindeuten.
+Römisches Recht als begriffliche Werkstatt: Zwölftafelgesetz, klassische Institute, justinianische Kompilation und byzantinische Fortbildung verstehen, Falltypen trennen und moderne Dogmatik nicht vorschnell hineindeuten.
 
-Dieses Plugin führt durch **Römisches Recht** und erzeugt je nach Bedarf Memos, Quellenmatrizen, Vertrags-/Klauselbausteine, Risiko-Dashboards, Unterrichtsbausteine oder Entscheidungsvermerke. Der allgemeine Skill startet schnell und schlägt anschließend die passenden Spezialskills vor.
+Dieses Plugin führt durch **Römisches Recht** von der archaischen Zwölftafeltradition über Klassik und Justinian bis zum byzantinischen Recht. Es erzeugt je nach Bedarf Memos, Quellenmatrizen, Synopsen, Vertrags-/Klauselbausteine, Risiko-Dashboards, Unterrichtsbausteine oder Entscheidungsvermerke. Der allgemeine Skill startet schnell und schlägt anschließend die passenden Spezialskills vor.
 
 <!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
 
@@ -46,9 +46,9 @@ Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eig
 ## Kernanker
 
 - Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
+- Quellen: Zwölftafelgesetz, klassische Juristen, Digesten, Institutionen, Codex, Novellen, Basiliken, Ekloge und Prochiron
 - Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- Rezeptionsregel: archaische Figur, klassisches Recht, justinianische Ordnung, byzantinische Fortbildung, gemeinrechtliche Rezeption und heutige Analogie strikt trennen
 
 ## Quellen- und Qualitätsdisziplin
 
@@ -59,7 +59,7 @@ Keine Blindzitate, keine erfundenen Rechtsprechungsfundstellen, keine Paywall-Li
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 110 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -163,5 +163,15 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `rom-097-vertiefung-01-board-memo` | Römisches Recht: Vertiefung 01 Board Memo. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `rom-098-vertiefung-01-vergleichende-synopse` | Römisches Recht: Vertiefung 01 Vergleichende Synopse. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `rom-099-vertiefung-01-fristen-und-risiken` | Römisches Recht: Vertiefung 01 Fristen Und Risiken. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
+| `rom-100-zwoelftafelgesetz-quellenkritik` | Römisches Recht: Zwölftafelgesetz als frühe Quellenlage, Rekonstruktion, Fragment, spätere Überlieferung und methodische Grenzen. |
+| `rom-101-zwoelftafelgesetz-prozess-und-vollstreckung` | Römisches Recht: Zwölftafelgesetz zu archaischem Verfahren, Ladung, Urteil, Vollstreckung, Schuldhaft und Prozessformalismus. |
+| `rom-102-zwoelftafelgesetz-familie-erbe-nachbarschaft` | Römisches Recht: Zwölftafelgesetz zu Hausverband, patria potestas, Erbfolge, Vormundschaft, Nachbarschaft und Grenzkonflikten. |
+| `rom-103-zwoelftafelgesetz-delikte-und-sanktionen` | Römisches Recht: Zwölftafelgesetz zu furtum, iniuria, Sachschaden, Talion, Bußen, Sakralnähe und privater Sanktion. |
+| `rom-104-byzantinisches-recht-kaltstart` | Römisches Recht: Einstieg in byzantinisches Recht von Justinian bis Basiliken, Kaiserrecht, Verwaltung, Kirche und griechischer Rechtssprache. |
+| `rom-105-justinian-novellen-und-griechische-rechtskultur` | Römisches Recht: Justinianische Novellen, griechische Rechtssprache, kaiserliche Gesetzgebung und Übergang in byzantinische Rechtskultur. |
+| `rom-106-basiliken-prochiron-ecloga` | Römisches Recht: Byzantinische Kompilationen wie Ekloge, Prochiron und Basiliken als Weiterbearbeitung römisch-justinianischen Rechts. |
+| `rom-107-byzantinisches-kirchenrecht-und-familienrecht` | Römisches Recht: Byzantinische Schnittstelle von Kirchenrecht, Ehe, Familie, Erbe, Moralordnung und kaiserlicher Gesetzgebung. |
+| `rom-108-byzantinische-rezeption-und-osteuropa` | Römisches Recht: Byzantinische Rechtsrezeption in orthodox geprägten Rechtsräumen, Südosteuropa, Osteuropa und späterer Rechtsgeschichte. |
+| `rom-109-romanisch-byzantinische-synopse` | Römisches Recht: Synopse von Zwölftafelgesetz, klassischem Recht, Justinian, byzantinischer Fortbildung und späterer Rezeption. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
