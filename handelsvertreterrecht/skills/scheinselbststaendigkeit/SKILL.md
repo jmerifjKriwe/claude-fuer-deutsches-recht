@@ -1,48 +1,79 @@
 ---
 name: scheinselbststaendigkeit
-description: "Erkennt Scheinselbstständigkeitsrisiken im Vertriebsmodell."
+description: 'Prüft das Risiko der Scheinselbständigkeit des Handelsvertreters nach § 7 SGB IV: Merkmale persönlicher und wirtschaftlicher Abhängigkeit, Konsequenzen für Sozialversicherungspflicht und Steuern, Unterschied zu arbeitnehmerähnlicher Stellung nach § 92a HGB sowie Statusfeststellungsverfahren bei der Deutschen Rentenversicherung.'
 ---
 
-# Scheinselbststaendigkeit
+# Scheinselbständigkeit des Handelsvertreters: § 7 SGB IV und § 84 HGB
 
-## Wofür dieser Skill da ist
-Eingliederung, Reporting, Tools, Dienstkleidung, Gebietsvorgaben, Urlaub und Kündigung.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Scheinselbständigkeit des Handelsvertreters: § 7 SGB IV und § 84 HGB.
+Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X ist hauptsächlich für einen Auftraggeber Y tätig und befolgt dessen detaillierte Weisungen; die Deutsche Rentenversicherung prüft, ob ein Beschäftigungsverhältnis vorliegt.
+- Unternehmer Y erhält nach fünf Jahren einen Bescheid der Sozialversicherung, dass sein Handelsvertreter X als scheinselbständig einzustufen ist; Y muss Nachzahlungen leisten.
+- Handelsvertreter X fragt, wie er seinen Status absichern kann, um nicht als scheinselbständig eingestuft zu werden.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Selbständigkeitsmerkmale nach § 84 HGB und Abgrenzungskriterien für Scheinselbständigkeit prüfen.
+2. Statusfeststellungsverfahren nach § 7a SGB IV bei der Deutschen Rentenversicherung initiieren.
+3. Weisungsabhängigkeit, eigene Organisation, eigenes unternehmerisches Risiko analysieren.
+4. Sozialversicherungsrechtliche Konsequenzen bei Feststellung der Scheinselbständigkeit bestimmen.
+5. Nachzahlungspflichten für Sozialversicherungsbeiträge berechnen.
+6. Vertragsgestaltung zur Absicherung der Selbständigkeit des Handelsvertreters überarbeiten.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: SGB IV; Arbeitsrecht.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 84 HGB — Selbständigkeit als wesentliches Merkmal des Handelsvertreters
+- § 7 SGB IV — Beschäftigung und Scheinselbständigkeit
+- § 7a SGB IV — Statusfeststellungsverfahren bei der Deutschen Rentenversicherung
+- § 92a HGB — Arbeitnehmerähnlicher Handelsvertreter (abzugrenzen)
+- § 14 Abs. 1 SGB IV — Nachzahlungspflicht bei rückwirkender Feststellung
+- § 28e SGB IV — Haftung des Arbeitgebers für Beitragsrückstände
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Liegen Merkmale der persönlichen Abhängigkeit und Weisungsgebundenheit vor?
+- Hat der Handelsvertreter eigene unternehmerische Organisation und Entscheidungsfreiheit?
+- Ist wirtschaftliche Abhängigkeit von einem Auftraggeber ein Indiz für Scheinselbständigkeit?
+- Wie hoch sind die Nachzahlungsrisiken bei rückwirkender Feststellung?
+- Ist ein Statusfeststellungsverfahren nach § 7a SGB IV sinnvoll?
+- Können Vertragsanpassungen die Selbständigkeit absichern?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Scheinselbständigkeits-Ampel. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Weisungsabhängigkeit nicht erkannt — Scheinselbständigkeit festgestellt.
+- Keine frühzeitige Klärung durch Statusfeststellungsverfahren.
+- Rückwirkende Nachzahlungspflicht von bis zu vier Jahren unterschätzt.
+- Arbeitnehmerähnlichkeit (§ 92a HGB) mit Scheinselbständigkeit verwechselt.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Scheinselbständigkeits-Check, Statusfeststellungsantrag, Vertragsgestaltungsempfehlung.
+
+## Hintergrund und Kontext
+
+Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
+Es gilt als Sonderprivatrecht zwischen Arbeits- und allgemeinem Handelsrecht.
+Die EU-Handelsvertreterrichtlinie 86/653/EWG setzt europäische Mindeststandards.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Buchauszug, Ausgleich bei Vertragsende.
+Nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Delkredere (§ 86b HGB) regeln Sonderlagen.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Für grenzüberschreitende Sachverhalte bestimmt die Rom-I-Verordnung das anwendbare Recht.
+Zwingende Normen wie Ausgleich (§ 89b HGB) und Buchauszug (§ 87c HGB) stehen nicht zur Disposition.
+Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach § 7a SGB IV maßgeblich.
+
+## Quellen
+
+- [§ 84 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__84.html)
+- [§ 7 SGB IV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_4/__7.html)
+- [§ 7a SGB IV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_4/__7a.html)
+- [§ 92a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__92a.html)
+- [Dejure § 84 HGB](https://dejure.org/gesetze/HGB/84.html)

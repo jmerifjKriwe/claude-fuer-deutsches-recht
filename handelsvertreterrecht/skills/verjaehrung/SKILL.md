@@ -1,48 +1,79 @@
 ---
 name: verjaehrung
-description: "Prüft Verjährung von Provision, Buchauszug und Ausgleich."
+description: 'Prüft Verjährungsfristen im Handelsvertreterrecht: regelmäßige Verjährung nach § 195 BGB für Provisionsansprüche und Ausgleich nach § 89b HGB, Beginn der Verjährungsfrist nach § 199 BGB, Hemmung und Unterbrechung sowie Fristwahrungsmaßnahmen vor Ablauf.'
 ---
 
-# Verjaehrung
+# Verjährung von Handelsvertreter-Ansprüchen nach § 195 ff. BGB
 
-## Wofür dieser Skill da ist
-Fälligkeit, Kenntnis, Hemmung, Verhandlungen, Stufenklage und Ausschlussfristen.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Verjährung von Handelsvertreter-Ansprüchen nach § 195 ff. BGB.
+Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X bemerkt erst nach drei Jahren, dass Unternehmer Y Provisionen vorenthalten hat; er fragt, ob seine Ansprüche noch durchsetzbar sind.
+- Unternehmer Y beruft sich auf Verjährung beim Ausgleichsanspruch des Handelsvertreters X nach § 89b HGB, obwohl der Handelsvertreter X meint, die Verjährungsfrist sei noch nicht abgelaufen.
+- Anwältin A möchte kurz vor dem Jahreswechsel Verjährungsfristwahrungsmaßnahmen für ihren Mandanten ergreifen und fragt nach den geeigneten Instrumenten.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Verjährungsfrist für Provisionsansprüche nach § 195 BGB (drei Jahre) bestimmen.
+2. Verjährungsbeginn nach § 199 BGB: Schluss des Jahres der Anspruchsentstehung und Kenntniserlangung.
+3. Hemmung der Verjährung durch Verhandlungen nach § 203 BGB oder Klageerhebung nach § 204 BGB prüfen.
+4. Mahnbescheid oder Klage zur rechtzeitigen Fristwahrung einreichen.
+5. Verjährungsbeginn für Ausgleichsanspruch: erst nach Vertragsbeendigung und Anmeldung.
+6. Verjährung durch Anerkenntnis nach § 212 BGB neu beginnen lassen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: BGB; HGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 195 BGB — Regelmäßige Verjährungsfrist: drei Jahre
+- § 199 BGB — Beginn der regelmäßigen Verjährungsfrist
+- § 203 BGB — Hemmung durch Verhandlungen
+- § 204 BGB — Hemmung durch Klageerhebung oder Mahnbescheid
+- § 212 BGB — Neubeginn der Verjährung durch Anerkenntnis
+- § 89b Abs. 4 HGB — Ausschlussfrist für Anmeldung des Ausgleichs (ein Jahr)
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Ist die dreijährige Verjährungsfrist nach § 195 BGB bereits abgelaufen?
+- Wann beginnt die Verjährungsfrist für Provisionsansprüche nach § 199 BGB?
+- Ist die Verjährung durch Verhandlungen nach § 203 BGB gehemmt?
+- Hat der Handelsvertreter den Ausgleich innerhalb eines Jahres nach Vertragsende angemeldet (§ 89b Abs. 4 HGB)?
+- Kann durch Klage oder Mahnbescheid nach § 204 BGB die Verjährung noch gehemmt werden?
+- Hat der Unternehmer Ansprüche anerkannt — Neubeginn nach § 212 BGB?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Verjährungskalender. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Provisionsansprüche verjährt weil Dreijahresfrist übersehen.
+- Ausgleichsanspruch nach § 89b HGB nicht innerhalb eines Jahres angemeldet — Ausschlussfrist versäumt.
+- Verhandlungen hemmten Verjährung — aber Hemmung endete unbemerkt.
+- Keine rechtzeitige Klage oder Mahnbescheid — Ansprüche erloschen.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Verjährungsanalyse, Fristwahrungsmaßnahmen-Checkliste, Mahnbescheid oder Klageschrift.
+
+## Hintergrund und Kontext
+
+Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
+Es gilt als Sonderprivatrecht zwischen Arbeits- und allgemeinem Handelsrecht.
+Die EU-Handelsvertreterrichtlinie 86/653/EWG setzt europäische Mindeststandards.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Buchauszug, Ausgleich bei Vertragsende.
+Nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Delkredere (§ 86b HGB) regeln Sonderlagen.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Für grenzüberschreitende Sachverhalte bestimmt die Rom-I-Verordnung das anwendbare Recht.
+Zwingende Normen wie Ausgleich (§ 89b HGB) und Buchauszug (§ 87c HGB) stehen nicht zur Disposition.
+Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach § 7a SGB IV maßgeblich.
+
+## Quellen
+
+- [§ 195 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__195.html)
+- [§ 199 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__199.html)
+- [§ 204 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__204.html)
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [Dejure § 195 BGB](https://dejure.org/gesetze/BGB/195.html)

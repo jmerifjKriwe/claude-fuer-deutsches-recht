@@ -1,48 +1,79 @@
 ---
 name: kartellrecht-vertikal
-description: "Prüft vertikale Beschränkungen im Handelsvertretervertrieb."
+description: 'Prüft kartellrechtliche Anforderungen an vertikale Vertriebsvereinbarungen mit Handelsvertretern: Preisbindung der zweiten Hand, Gebietsschutz und Kundengruppen unter der Vertikal-GVO, Einzelfreistellung nach Art. 101 Abs. 3 AEUV sowie Abgrenzung zulässiger Empfehlungen von verbotener Preisbindung.'
 ---
 
-# Kartellrecht Vertikal
+# Kartellrecht und vertikale Beschränkungen im Handelsvertretervertrieb nach Art. 101 AEUV
 
-## Wofür dieser Skill da ist
-Preisvorgaben, Exklusivität, Onlinebeschränkung, echte/unechte Agentur und Risikoübernahme.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Kartellrecht und vertikale Beschränkungen im Handelsvertretervertrieb nach Art. 101 AEUV.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Unternehmer Y schreibt Handelsvertreter X Mindestverkaufspreise vor; die Kartellbehörde prüft, ob dies eine unzulässige Preisbindung der zweiten Hand darstellt.
+- Handelsvertreter X hat vertraglich ein exklusives Gebiet; Unternehmer Y prüft, ob die Gebietsschutzklausel nach der Vertikal-GVO freigestellt ist.
+- Unternehmer Y will bestimmten Kundengruppen den Direktkauf ermöglichen; er prüft, ob diese Kundengruppenklausel kartellrechtlich zulässig ist.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Einordnung der Vereinbarung: echte Handelsvertretung oder selbständiger Vertriebsmittler?
+2. Preisbindungsklausel auf kartellrechtliche Zulässigkeit nach Art. 101 AEUV prüfen.
+3. Gebietsschutz- und Kundengruppen-Klauseln auf Freistellung nach Vertikal-GVO prüfen.
+4. Marktanteilsschwelle der Vertikal-GVO (30 %) für Unternehmer Y ermitteln.
+5. Hardcore-Restrictions identifizieren: absolute Gebietsschutz- oder Preisbindungsklauseln.
+6. Einzelfreistellung nach Art. 101 Abs. 3 AEUV für Fälle außerhalb der GVO prüfen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: Art. 101 AEUV; Vertikal-GVO live.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- Art. 101 AEUV — Kartellverbot für vertikale Vereinbarungen
+- Vertikal-GVO (EU) Nr. 2022/720 — Gruppenfreistellung
+- Art. 4 Vertikal-GVO — Hardcore-Restrictions (Preisbindung und absolute Gebietsabschottung)
+- § 1 GWB — Deutsches Kartellverbot
+- § 84 HGB — Echte Handelsvertretung als Ausnahme vom Kartellverbot
+- Art. 101 Abs. 3 AEUV — Einzelfreistellung
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Ist die Vertriebsvereinbarung kartellrechtlich als echte Handelsvertretung privilegiert?
+- Enthält der Vertrag Hardcore-Restrictions nach Art. 4 Vertikal-GVO?
+- Ist die Marktanteilsschwelle der Vertikal-GVO überschritten?
+- Sind Gebietsschutz und Kundengruppen wirksam freigestellt?
+- Kommt eine Einzelfreistellung nach Art. 101 Abs. 3 AEUV in Betracht?
+- Welche Sanktionen drohen bei Verstößen gegen Art. 101 AEUV?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Kartellrechtsampel. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Preisbindung der zweiten Hand als verbotene Hardcore-Restriction übersehen.
+- Marktanteil über 30 % — GVO-Freistellung entfällt, keine Einzelfallprüfung vorgenommen.
+- Absolute Gebietsabschottung als Hardcore-Restriction nicht erkannt.
+- Echte Handelsvertretung irrtümlich angenommen — Kartellprivileg entfällt.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Kartellrechtliches Gutachten Vertriebsvereinbarung, Freistellungsanalyse Vertikal-GVO, Preisbindungs-Bewertung.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt.
+Zwingende Vorschriften nach § 92c HGB können nicht abgebedungen werden;
+entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte (§ 87c HGB), Geheimhaltungspflicht (§ 88 HGB) und Delkredere (§ 86b HGB)
+ergänzen das Recht praxisnah.
+
+## Quellen
+
+- [Art. 101 AEUV auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A12012E101)
+- [Vertikal-GVO 2022/720 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022R0720)
+- [§ 1 GWB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gwb/__1.html)
+- [§ 84 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__84.html)
+- [Dejure Art. 101 AEUV](https://dejure.org/gesetze/EGV/81.html)

@@ -1,48 +1,79 @@
 ---
 name: provisionsklage
-description: "Bereitet Provisionsklage vor."
+description: 'Unterstützt bei der Erhebung einer Provisionsklage: Klageschriftentwurf mit Anspruchsbegründung nach §§ 87 ff. HGB, Beweisantritte, Stufenklage nach § 254 ZPO, einstweiliger Rechtsschutz sowie Prozesskostenrisiko und Vergleichsstrategie.'
 ---
 
-# Provisionsklage
+# Provisionsklage nach §§ 87 ff. HGB — Klageschrift, Beweise und Strategie
 
-## Wofür dieser Skill da ist
-Stufenklage, Buchauszug, Auskunft, eidesstattliche Versicherung, Zahlung und Beweise.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Provisionsklage nach §§ 87 ff. HGB — Klageschrift, Beweise und Strategie.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Für internationale Sachverhalte gilt die Rom-I-Verordnung für das anwendbare Recht.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X hat offene Provisionen von 45.000 Euro; Unternehmer Y zahlt nicht; X erhebt Klage beim Landgericht und benötigt eine vollständige Klageschrift.
+- Handelsvertreter X ist sich über die genaue Höhe seiner Provisionsansprüche unsicher und erhebt eine Stufenklage: zuerst Buchauszug, dann Abrechnung, dann Zahlung.
+- Handelsvertreter X prüft, ob er vor der Provisionsklage eine einstweilige Verfügung auf Sicherung seiner Forderung beantragen soll.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Klageschrift mit vollständiger Anspruchsbegründung nach § 253 ZPO ausarbeiten.
+2. Beweismittel für Provisionsanspruch zusammenstellen: Vertrag, Abrechnungen, E-Mails.
+3. Stufenklage nach § 254 ZPO wenn Höhe noch unklar.
+4. Prozesskostenrisiko einschätzen und Prozesskostenhilfe prüfen.
+5. Vergleichsangebot als Alternative zur Klage erwägen.
+6. Gerichtsstand und zuständiges Gericht (Handelsgericht oder Landgericht) bestimmen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB; ZPO.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 87 HGB — Provisionsanspruch
+- § 253 ZPO — Anforderungen an die Klageschrift
+- § 254 ZPO — Stufenklage
+- § 91 ZPO — Kostentragung bei Prozessverlust
+- § 114 ZPO — Prozesskostenhilfe
+- § 278 ZPO — Güteverhandlung und Vergleich
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Ist der Provisionsanspruch dem Grunde und der Höhe nach schlüssig dargelegt?
+- Sind alle Beweismittel zusammengestellt und benannt?
+- Ist eine Stufenklage geboten, weil die genaue Höhe noch unklar ist?
+- Welches Gericht ist zuständig (Streitwert, Handelsgericht)?
+- Was ist das Prozesskostenrisiko und lohnt sich ein Vergleich?
+- Ist einstweiliger Rechtsschutz zur Anspruchssicherung geboten?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Klagefahrplan. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Klageschrift ohne ausreichende Anspruchsbegründung — Klage unschlüssig.
+- Stufenklage zu früh eingereicht ohne Nachweis des Anspruchsgrundes.
+- Prozesskostenrisiko unterschätzt — Vergleichsangebot nicht erwogen.
+- Gerichtsstand falsch bestimmt — Verweisung kostet Zeit und Geld.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Klageschriftentwurf Provision, Stufenklage-Schema, Vergleichsentwurf.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben das Handelsvertreterrecht durch zentrale Leitentscheidungen geprägt.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) und Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen das Recht.
+
+## Quellen
+
+- [§ 87 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87.html)
+- [§ 253 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__253.html)
+- [§ 254 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__254.html)
+- [§ 278 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__278.html)
+- [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)

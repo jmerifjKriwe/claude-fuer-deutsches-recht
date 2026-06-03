@@ -1,48 +1,79 @@
 ---
 name: makler-abgrenzung
-description: "Grenzt Makler vom Handelsvertreter ab."
+description: 'Klärt die Abgrenzung des Handelsvertreters vom Makler nach §§ 652 ff. BGB: dauerhaftes Vertragsverhältnis des Handelsvertreters vs. einmalige Vermittlung des Maklers, Anspruch auf Fixprovision vs. Erfolgshonorar, Anwendbarkeit des Handelsvertreterrechts auf Makleragenturen sowie Ausgleichsanspruch.'
 ---
 
-# Makler Abgrenzung
+# Abgrenzung Handelsvertreter vom Makler nach §§ 84 HGB und 652 BGB
 
-## Wofür dieser Skill da ist
-Gelegenheit, Dauerbeziehung, Abschlussbemühung, Weisung, Provision und Nachweismakler.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Abgrenzung Handelsvertreter vom Makler nach §§ 84 HGB und 652 BGB.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Immobilienmakler X will nach langjähriger Tätigkeit für Auftraggeber Y Ausgleich nach § 89b HGB geltend machen; Y bestreitet die Qualifikation als Handelsvertreter.
+- Vermittler X hat dauerhaft Verträge für Unternehmer Y vermittelt; er fragt, ob die Mehrheit der Merkmale auf ein Handelsvertreterverhältnis oder auf eine Maklertätigkeit hinweist.
+- Unternehmer Y zahlt seinem langfristigen Vermittler X keine Provision, wenn kein Vertragsabschluss zustande kommt; X klärt, ob sein Verhältnis als Makler oder Handelsvertreter einzustufen ist.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Dauerhaftigkeit der Beauftragung vs. Einmaltätigkeit als Abgrenzungsmerkmal prüfen.
+2. Entlohnungsstruktur: Fixprovision unabhängig vom Erfolg (Handelsvertreter) vs. reines Erfolgshonorar (Makler)?
+3. Weisungsgebundenheit und Eingliederung in Organisation des Unternehmers?
+4. Branchenspezifische Vermittlerregulierung (§ 34c GewO) prüfen.
+5. Ausgleichsanspruch nach § 89b HGB prüfen, wenn Handelsvertreter-Qualifikation bejaht.
+6. Rechtsprechung zur Abgrenzung von Makler und Handelsvertreter heranziehen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB; BGB Maklerrecht.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 84 HGB — Handelsvertreter: ständig betraut, im fremden Namen
+- § 652 BGB — Maklervertrag: Erfolgshonorar bei Gelegenheitsnachweis
+- § 89b HGB — Ausgleichsanspruch nur bei Handelsvertreter
+- § 34c GewO — Erlaubnispflicht für Immobilienmakler
+- § 652 Abs. 1 BGB — Maklerprovisionsanspruch bei Abschluss
+- Art. 1 Abs. 2 RL 86/653/EWG — Ständige Beauftragung als Merkmal
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Besteht eine dauernde Beauftragung zur Vermittlung von Geschäften?
+- Handelt der Vermittler im fremden Namen oder im eigenen Namen?
+- Wird eine laufende Vergütung gezahlt oder nur Erfolgshonorar?
+- Ist die Person in die Organisation des Unternehmers eingegliedert?
+- Steht bei Handelsvertreter-Qualifikation ein Ausgleichsanspruch zu?
+- Welche Zulassungspflichten gelten (§ 34c GewO, § 34d GewO)?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Makler-Abgrenzung. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Makler fälschlich als Handelsvertreter behandelt — kein Ausgleichsanspruch.
+- Handelsvertreter fälschlich als Makler qualifiziert — zwingende §§ 84-92c HGB nicht angewandt.
+- Ausgleichsanspruch nach § 89b HGB bei Maklervertrag geltend gemacht — abgewiesen.
+- Zulassungspflichten nach § 34c GewO nicht erfüllt.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Qualifikationsgutachten Makler vs. Handelsvertreter, Ausgleichsprüfung, Vertragsanalyse.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geklärt.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter zwingend.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) und Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte (§ 87c HGB), Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB)
+ergänzen den praxisrelevanten Rechtsrahmen.
+Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwendbare Recht.
+
+## Quellen
+
+- [§ 84 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__84.html)
+- [§ 652 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__652.html)
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [§ 34c GewO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gewo/__34c.html)
+- [Dejure § 84 HGB](https://dejure.org/gesetze/HGB/84.html)

@@ -1,48 +1,79 @@
 ---
 name: vermittlungsvertreter
-description: "Prüft Vermittlungsvertreter ohne Abschlussmacht."
+description: 'Analysiert die Rechtsstellung des reinen Vermittlungsvertreters nach § 84 Abs. 1 HGB ohne Abschlussvollmacht: Entstehung des Provisionsanspruchs nach § 87 HGB bei reiner Vermittlungstätigkeit, Abgrenzung zum Abschlussvertreter mit Vollmacht sowie Konsequenzen für Haftung und Ausgleich nach § 89b HGB.'
 ---
 
-# Vermittlungsvertreter
+# Reiner Vermittlungsvertreter nach § 84 HGB — Provision und Rechtsstellung
 
-## Wofür dieser Skill da ist
-Kundenanbahnung, Angebotsprozess, Kausalität, Ablehnung/Nichtausführung und Provision.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Reiner Vermittlungsvertreter nach § 84 HGB — Provision und Rechtsstellung.
+Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X ist reiner Vermittlungsvertreter ohne Abschlussvollmacht; er fragt, wann sein Provisionsanspruch nach § 87 HGB entsteht, wenn der Unternehmer Y die vermittelten Geschäfte bestätigt.
+- Unternehmer Y verweigert die Provision mit der Begründung, dass Handelsvertreter X keinen Vertrag selbst abgeschlossen habe; X klärt seinen Provisionsanspruch als Vermittlungsvertreter.
+- Handelsvertreter X als reiner Vermittler fragt, ob ihm bei Vertragsende der gleiche Ausgleich nach § 89b HGB zusteht wie einem Abschlussvertreter.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Provisionsanspruch als Vermittlungsvertreter nach § 87 Abs. 1 HGB prüfen.
+2. Zeitpunkt der Provisionsentstehung bei reiner Vermittlung (Vertragsabschluss durch Unternehmer) bestimmen.
+3. Abgrenzung zum Abschlussvertreter mit Vollmacht nach § 91 HGB vornehmen.
+4. Haftung des Vermittlungsvertreters für abgeschlossene Verträge prüfen.
+5. Ausgleichsanspruch nach § 89b HGB für den Vermittlungsvertreter berechnen.
+6. Vertragsklauseln auf klare Zuordnung Vermittlungs- oder Abschlussvollmacht prüfen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: §§ 84, 87 HGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 84 Abs. 1 HGB — Handelsvertreter: Vermittlung oder Abschluss
+- § 87 Abs. 1 HGB — Provisionsanspruch bei Vermittlung
+- § 87 Abs. 3 HGB — Provision bei Bezirksvertreter ohne Mitwirkung
+- § 89b HGB — Ausgleich auch für Vermittlungsvertreter
+- § 91 HGB — Abschlussvollmacht: Regelfall bei Handelsvertretern
+- Art. 3 RL 86/653/EWG — Beide Vertretertypen erfasst
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Ist der Handelsvertreter reiner Vermittler oder hat er Abschlussvollmacht?
+- Ist der Provisionsanspruch nach § 87 Abs. 1 HGB bei reiner Vermittlung entstanden?
+- Hat der Unternehmer den vermittelten Vertrag abgeschlossen und bestätigt?
+- Ist der Ausgleichsanspruch nach § 89b HGB für den Vermittlungsvertreter gleich hoch wie für den Abschlussvertreter?
+- Haftet der Vermittlungsvertreter für Vertragserfüllung durch den Kunden?
+- Ist die Vertragsklausel zur Vollmacht eindeutig formuliert?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Vermittlungsnachweis. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Provisionsanspruch des Vermittlungsvertreters verkannt — keine Vollmacht nötig.
+- Verwechslung von Vermittlungs- und Abschlussvertreter in der Vertragsgestaltung.
+- Provision für vermittelte Geschäfte irrtümlich verweigert.
+- Ausgleichsanspruch des Vermittlungsvertreters nicht angemeldet.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Provisionsanspruch-Analyse Vermittlungsvertreter, Ausgleichsberechnung, Vertragsklausel-Empfehlung.
+
+## Hintergrund und Kontext
+
+Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
+Es gilt als Sonderprivatrecht zwischen Arbeits- und allgemeinem Handelsrecht.
+Die EU-Handelsvertreterrichtlinie 86/653/EWG setzt europäische Mindeststandards.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Buchauszug, Ausgleich bei Vertragsende.
+Nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Delkredere (§ 86b HGB) regeln Sonderlagen.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Für grenzüberschreitende Sachverhalte bestimmt die Rom-I-Verordnung das anwendbare Recht.
+Zwingende Normen wie Ausgleich (§ 89b HGB) und Buchauszug (§ 87c HGB) stehen nicht zur Disposition.
+Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach § 7a SGB IV maßgeblich.
+
+## Quellen
+
+- [§ 84 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__84.html)
+- [§ 87 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87.html)
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [§ 91 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__91.html)
+- [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)

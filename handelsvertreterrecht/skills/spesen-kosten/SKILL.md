@@ -1,48 +1,79 @@
 ---
 name: spesen-kosten
-description: "Prüft Spesen, Kosten und Investitionen."
+description: 'Prüft Aufwendungsersatz und Spesenabrechnungen im Handelsvertretervertrag: gesetzlicher Aufwendungsersatzanspruch nach § 87d HGB, vertragliche Pauschalierungen, Abrechnungsmodalitäten, Abgrenzung von Provision und Kosten sowie steuerliche Behandlung von Spesen nach EStG.'
 ---
 
-# Spesen Kosten
+# Spesen und Aufwendungsersatz im Handelsvertretervertrag nach § 87d HGB
 
-## Wofür dieser Skill da ist
-Wer trägt Reise, Muster, Messe, CRM, Auto, Schulung, Rabatte und Marketingkosten.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Spesen und Aufwendungsersatz im Handelsvertretervertrag nach § 87d HGB.
+Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X hat erhebliche Reise- und Repräsentationskosten; Unternehmer Y verweigert den Aufwendungsersatz mit Hinweis auf eine pauschale Provisionsvereinbarung.
+- Unternehmer Y zahlt dem Handelsvertreter X eine Kostenpauschale; X fragt, ob diese alle tatsächlichen Kosten abdeckt oder ob er Mehrkosten geltend machen kann.
+- Handelsvertreter X und Unternehmer Y streiten um die steuerliche Behandlung von Spesenerstattungen und deren Auswirkung auf die Provisionsgrundlage.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Aufwendungsersatzanspruch nach § 87d HGB auf Entstehungstatsachen prüfen.
+2. Pauschale Spesenregelung auf Vollständigkeit und AGB-Konformität prüfen.
+3. Abgrenzung von Provision und Aufwendungsersatz aus dem Vertrag ermitteln.
+4. Steuerliche Behandlung von Spesen (Werbungskosten) nach § 9 EStG oder § 4 EStG klären.
+5. Nachweise für tatsächliche Aufwendungen dokumentieren und sichern.
+6. Mehrkosten über die Pauschale hinaus geltend machen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB; AGB; Steuer.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 87d HGB — Aufwendungsersatz des Handelsvertreters
+- § 670 BGB — Aufwendungsersatz des Beauftragten (ergänzend)
+- § 9 EStG — Werbungskosten für Arbeitnehmer (analog für Handelsvertreter)
+- § 4 Abs. 4 EStG — Betriebsausgaben bei Selbständigen
+- § 307 BGB — AGB-Kontrolle von Spesenpauschalierungen
+- § 87c HGB — Zusammenhang von Abrechnung und Aufwendungsersatz
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Besteht ein gesetzlicher Aufwendungsersatzanspruch nach § 87d HGB?
+- Deckt die Kostenpauschale tatsächliche Aufwendungen ab?
+- Ist die Pauschale nach AGB-Recht wirksam und angemessen?
+- Wie werden Spesen steuerlich als Betriebsausgaben oder Werbungskosten behandelt?
+- Sind Mehrkosten über die Pauschale hinaus geltend zu machen?
+- Welche Nachweise sind für eine erfolgreiche Spesengeltendmachung erforderlich?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Kostenmatrix. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Aufwendungsersatzanspruch durch Pauschalvergütung vertraglich ausgeschlossen — prüfen.
+- Fehlende Belege für tatsächliche Aufwendungen — Erstattung abgelehnt.
+- Steuerliche Abgrenzung Provision vs. Spesenerstattung nicht beachtet.
+- Pauschale Spesenklausel nach § 307 BGB unangemessen — Mehrerstattung möglich.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Spesenabrechnung Entwurf, AGB-Prüfvermerk Kostenpauschale, Steuerliche Einordnung Spesen.
+
+## Hintergrund und Kontext
+
+Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
+Es gilt als Sonderprivatrecht zwischen Arbeits- und allgemeinem Handelsrecht.
+Die EU-Handelsvertreterrichtlinie 86/653/EWG setzt europäische Mindeststandards.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Buchauszug, Ausgleich bei Vertragsende.
+Nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Delkredere (§ 86b HGB) regeln Sonderlagen.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Für grenzüberschreitende Sachverhalte bestimmt die Rom-I-Verordnung das anwendbare Recht.
+Zwingende Normen wie Ausgleich (§ 89b HGB) und Buchauszug (§ 87c HGB) stehen nicht zur Disposition.
+Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach § 7a SGB IV maßgeblich.
+
+## Quellen
+
+- [§ 87d HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87d.html)
+- [§ 670 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__670.html)
+- [§ 307 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__307.html)
+- [§ 9 EStG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/estg/__9.html)
+- [Dejure § 87d HGB](https://dejure.org/gesetze/HGB/87d.html)

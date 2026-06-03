@@ -1,48 +1,79 @@
 ---
 name: email-chat-beweise
-description: "Prüft E-Mail- und Chatbeweise."
+description: 'Prüft die Verwertbarkeit von E-Mails, WhatsApp-Nachrichten und Chat-Protokollen als Beweismittel in Handelsvertreterstreitigkeiten: Authentizitätsnachweis, datenschutzrechtliche Verwertungsverbote nach DSGVO, Vorlage als Urkunde nach § 416 ZPO und Anforderungen an forensische Sicherung.'
 ---
 
-# Email Chat Beweise
+# E-Mails und Chat-Nachrichten als Beweismittel im Handelsvertreterstreit
 
-## Wofür dieser Skill da ist
-Authentizität, Kontext, Screenshots, Export, Datenschutz, Geschäftsgeheimnisse und Anlagenlogik.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um E-Mails und Chat-Nachrichten als Beweismittel im Handelsvertreterstreit.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X legt E-Mails vor, in denen Unternehmer Y eine Provisionserhöhung zugesagt hat; Y bestreitet die Echtheit der E-Mails.
+- Unternehmer Y will WhatsApp-Nachrichten des Handelsvertreters X über einen Wettbewerber als Beweis für Vertragsverletzung nach § 86 HGB vorlegen.
+- Handelsvertreter X hat ein Gespräch mit Unternehmer Y heimlich aufgezeichnet; er fragt, ob die Aufzeichnung vor Gericht verwertbar ist.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. E-Mails und Chat-Verläufe auf vollständige Sicherung mit Metadaten prüfen.
+2. Authentizitätsnachweis vorbereiten: E-Mail-Header, Server-Logs, Zeitstempel.
+3. Datenschutzrechtliche Zulässigkeit der Vorlage prüfen (DSGVO, § 26 BDSG).
+4. Verwertungsverbot bei heimlichen Aufzeichnungen nach § 201 StGB prüfen.
+5. Vorlage als Privaturkunde nach § 416 ZPO vorbereiten.
+6. Forensische Sicherung durch IT-Sachverständigen bei Authentizitätszweifeln veranlassen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: ZPO; DSGVO; HGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 416 ZPO — Privaturkunden als Beweismittel
+- § 371 ZPO — Augenscheinsbeweis bei digitalen Medien
+- § 286 ZPO — Freie Beweiswürdigung durch das Gericht
+- § 201 StGB — Verletzung der Vertraulichkeit des Wortes (heimliche Aufnahmen)
+- Art. 6 DSGVO — Rechtmäßigkeit der Verarbeitung personenbezogener Daten
+- § 26 BDSG — Datenverarbeitung für Beschäftigungszwecke
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Sind die vorgelegten E-Mails authentisch und unverändert?
+- Gibt es datenschutzrechtliche Verwertungsverbote für Chat-Nachrichten?
+- Ist eine heimlich erstellte Aufzeichnung vor Gericht verwertbar?
+- Wurden Metadaten und E-Mail-Header als Authentizitätsnachweis gesichert?
+- Sind Chat-Verläufe vollständig oder wurden sie selektiv zusammengestellt?
+- Hat die Vorlage privater Nachrichten das informationelle Selbstbestimmungsrecht verletzt?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Kommunikationsbeweis-Check. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Heimliche Tonaufnahmen als Beweis unverwertbar — § 201 StGB.
+- E-Mails ohne Metadaten vorgelegt — Authentizität erfolgreich angegriffen.
+- Selektive Chat-Auswahl ohne Kontext als irreführend gewertet.
+- DSGVO-Verstoß bei Vorlage von Privatnachrichten — Verwertungsverbot möglich.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Beweismittelliste digitale Kommunikation, Antrag auf Sachverständigengutachten Authentizität, Prozessstrategie.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit des Handelsvertreters, Provisionsanspruch, Informationsrechte,
+Ausgleichsanspruch bei Vertragsende sowie Schutz vor einseitiger Benachteiligung.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt,
+insbesondere zur Berechnung des Ausgleichs, zur Richtlinienkonformität und zu Ausschlussgründen.
+Zwingende Vorschriften nach § 92c HGB können nicht abgebedungen werden;
+entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
+
+## Quellen
+
+- [§ 416 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__416.html)
+- [§ 201 StGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/stgb/__201.html)
+- [§ 371 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__371.html)
+- [DSGVO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679)
+- [Dejure § 416 ZPO](https://dejure.org/gesetze/ZPO/416.html)

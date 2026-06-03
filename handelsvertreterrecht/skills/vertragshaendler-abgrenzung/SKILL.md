@@ -1,48 +1,79 @@
 ---
 name: vertragshaendler-abgrenzung
-description: "Grenzt Vertragshändler und Eigenhändler vom Handelsvertreter ab."
+description: 'Prüft die Abgrenzung zwischen Handelsvertreter und Vertragshändler: Eigenhändler kauft im eigenen Namen und auf eigene Rechnung und hat keinen gesetzlichen Ausgleich nach § 89b HGB, analoge Anwendung bei Einbindung wie Handelsvertreter nach BGH-Rechtsprechung sowie vertragliche Gestaltungsoptionen.'
 ---
 
-# Vertragshaendler Abgrenzung
+# Vertragshändler vs. Handelsvertreter: Abgrenzung und analoger Ausgleichsanspruch
 
-## Wofür dieser Skill da ist
-Eigener Ankauf/Verkauf, Lagerrisiko, Preisgestaltung, Kundenstamm, Ausgleich analog und Vertriebsnetz.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Vertragshändler vs. Handelsvertreter: Abgrenzung und analoger Ausgleichsanspruch.
+Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Vertragshändler X kauft Waren im eigenen Namen und verkauft sie weiter; er fragt nach Vertragsende mit Hersteller Y, ob er analog einem Handelsvertreter einen Ausgleich verlangen kann.
+- Unternehmen Y behauptet, sein Vertriebspartner X sei Vertragshändler und habe deshalb keinen Ausgleich nach § 89b HGB; X bestreitet dies und beruft sich auf Handelsvertreter-ähnliche Einbindung.
+- Anwältin A soll für ihren Mandanten klären, ob die vertragliche Gestaltung als Vertragshändler oder Handelsvertreter steuerlich und rechtlich günstiger ist.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Unterscheidungsmerkmal: Handeln im fremden oder eigenen Namen und auf eigene Rechnung prüfen.
+2. Einbindung des Vertragshändlers in Vertriebsorganisation auf handelsvertreter-ähnliche Intensität prüfen.
+3. Analoge Anwendung des § 89b HGB auf Vertragshändler nach BGH-Rechtsprechung prüfen.
+4. Kundenstamm-Übertragungseffekt beim Vertragshändler auf Ausgleich bewerten.
+5. Steuerliche Unterschiede zwischen Handelsvertreter- und Vertragshändlerstruktur herausarbeiten.
+6. Vertragsgestaltung auf klare Abgrenzung oder bewusste Wahl der Vertragsform optimieren.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB; BGH live prüfen.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 84 HGB — Handelsvertreter handelt im fremden Namen
+- § 89b HGB — Ausgleich: direkte Anwendung nur auf Handelsvertreter
+- § 89b HGB analog — BGH: analoge Anwendung auf Vertragshändler bei hinreichender Einbindung
+- § 1 Abs. 1 HGB — Kaufmann: Vertragshändler als Kaufmann im Eigenumsatz
+- BGH-Urteil zur analogen Anwendung des § 89b HGB auf Vertragshändler
+- Art. 1 RL 86/653/EWG — Richtlinie gilt nur für Handelsvertreter
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Handelt X im eigenen oder fremden Namen und auf eigene oder fremde Rechnung?
+- Ist X so in die Vertriebsorganisation von Y eingebunden wie ein Handelsvertreter?
+- Hat X durch seine Tätigkeit einen Kundenstamm für Y aufgebaut?
+- Greift die analoge Anwendung des § 89b HGB nach BGH auf den konkreten Fall?
+- Ist X nach dem Vertrag verpflichtet, Kundendaten an Y herauszugeben?
+- Ist die Vertragsgestaltung als Vertragshändler steuerlich und haftungsrechtlich günstig?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Vertriebskanal-Memo. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Vertragshändler als Handelsvertreter qualifiziert — falsche Rechtsfolgen.
+- Analoge Anwendung des § 89b HGB auf Vertragshändler übersehen — Ausgleich nicht geltend gemacht.
+- Einbindungsintensität nicht geprüft — BGH-Analogie verpasst.
+- Vertragsgestaltung unklar — Status zwischen Vertragshändler und Handelsvertreter offen.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Abgrenzungsanalyse, Ausgleichsanspruch-Prüfung analog § 89b HGB, Vertragsgestaltungsempfehlung.
+
+## Hintergrund und Kontext
+
+Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
+Es gilt als Sonderprivatrecht zwischen Arbeits- und allgemeinem Handelsrecht.
+Die EU-Handelsvertreterrichtlinie 86/653/EWG setzt europäische Mindeststandards.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Buchauszug, Ausgleich bei Vertragsende.
+Nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Delkredere (§ 86b HGB) regeln Sonderlagen.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Für grenzüberschreitende Sachverhalte bestimmt die Rom-I-Verordnung das anwendbare Recht.
+Zwingende Normen wie Ausgleich (§ 89b HGB) und Buchauszug (§ 87c HGB) stehen nicht zur Disposition.
+Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach § 7a SGB IV maßgeblich.
+
+## Quellen
+
+- [§ 84 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__84.html)
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [BGH-Entscheidungen auf bgh.de](https://www.bgh.de/entscheidungen/entscheidungen-online)
+- [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)
+- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)

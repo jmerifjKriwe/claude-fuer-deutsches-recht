@@ -1,48 +1,79 @@
 ---
 name: energievertrieb
-description: "Prüft Energievertrieb durch Handelsvertreter."
+description: 'Analysiert Besonderheiten des Handelsvertreterrechts im Energievertrieb: Zulassungspflichten für Energievertriebsvermittler, Provisionsabrechnungen bei Strom- und Gasverträgen, Widerrufsrechte der Endkunden und deren Auswirkung auf die Provision, Ausgleichsansprüche im regulierten Energiemarkt sowie Anforderungen nach EnWG.'
 ---
 
-# Energievertrieb
+# Handelsvertreterrecht im Energievertrieb — EnWG und §§ 84 ff. HGB
 
-## Wofür dieser Skill da ist
-Haustür, Telefon, Widerruf, Preisangaben, Provision, Beschwerden und EnWG.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Handelsvertreterrecht im Energievertrieb — EnWG und §§ 84 ff. HGB.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X vermittelt Strom- und Gasverträge für Energieversorger Y; nach Massenrücktritten von Endkunden kürzt Y die Provision rückwirkend.
+- Energieversorger Y kündigt seinem Handelsvertreter X nach Einführung eines neuen Direktvertriebskanals; X klagt auf Ausgleich und Bezirksprovision.
+- Handelsvertreter X vermittelt Energieverträge an der Haustür; nach Widerruf durch Endkunden streitet er mit Unternehmer Y über Rückforderung bereits ausgezahlter Provision.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Zulassungspflichten für Energievermittler nach § 66c EnWG prüfen.
+2. Provisionsklausel auf Auswirkungen von Widerruf und Rücktritt des Endkunden prüfen.
+3. Widerrufsfolgen auf Provisionsanspruch nach § 87a Abs. 2 HGB analysieren.
+4. Ausgleichsanspruch nach § 89b HGB im Kontext des Energievertriebs berechnen.
+5. Regulatorische Anforderungen des EnWG für Vermittler dokumentieren.
+6. Buchauszug anfordern, um Widerrufsquoten und Provisionskürzungen zu prüfen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: EnWG; UWG; HGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 87a Abs. 2 HGB — Provision bei Nichtausführung oder Widerruf des Endkundenvertrags
+- § 89b HGB — Ausgleichsanspruch bei Vertragsende
+- § 66c EnWG — Anforderungen an Energievertriebs-Vermittler
+- §§ 312 ff. BGB — Widerrufsrecht bei Haustürgeschäften
+- § 87c HGB — Buchauszug über Widerrufsquoten und Provisionen
+- Art. 12 RL 86/653/EWG — Provisionsanspruch und Erlöschensgründe
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Besteht eine Zulassungspflicht nach § 66c EnWG für den Handelsvertreter?
+- Wie wirken sich Widerrufe von Endkunden auf den Provisionsanspruch aus?
+- Hat der Unternehmer die Provision zu Recht rückwirkend gekürzt?
+- Ist der Ausgleichsanspruch nach § 89b HGB trotz reguliertem Markt uneingeschränkt?
+- Sind Provisionsklauseln für Widerrufsfälle nach AGB-Recht wirksam?
+- Welche Dokumentationspflichten bestehen nach EnWG?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Energievertriebsmemo. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Widerrufsquoten führen zu massiven Provisionskürzungen — ohne vertragliche Grundlage streitig.
+- Zulassungspflichten nach § 66c EnWG nicht erfüllt — ordnungswidrigkeitsrechtliche Folgen.
+- Ausgleichsanspruch trotz reguliertem Energiemarkt vergessen.
+- Rückforderung bereits ausgezahlter Provision ohne vertragliche Klausel unzulässig.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Provisionsabrechnungsprüfung Energievertrieb, Ausgleichsberechnung, Widerrufsfolgenanalyse.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit des Handelsvertreters, Provisionsanspruch, Informationsrechte,
+Ausgleichsanspruch bei Vertragsende sowie Schutz vor einseitiger Benachteiligung.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt,
+insbesondere zur Berechnung des Ausgleichs, zur Richtlinienkonformität und zu Ausschlussgründen.
+Zwingende Vorschriften nach § 92c HGB können nicht abgebedungen werden;
+entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
+
+## Quellen
+
+- [§ 87a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87a.html)
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [§ 66c EnWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/enwg_2005/__66c.html)
+- [§ 312 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__312.html)
+- [Dejure § 87a HGB](https://dejure.org/gesetze/HGB/87a.html)

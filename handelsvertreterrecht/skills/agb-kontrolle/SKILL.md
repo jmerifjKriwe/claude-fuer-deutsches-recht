@@ -1,48 +1,79 @@
 ---
 name: agb-kontrolle
-description: "Prüft Formular-Handelsvertretervertrag nach AGB-Recht."
+description: 'Prüft AGB-Klauseln in Handelsvertreterverträgen auf Wirksamkeit nach §§ 305 ff. BGB und § 92c HGB: unangemessene Benachteiligung bei Provisionsregelungen, Ausgleichsausschlüssen, Wettbewerbsverboten sowie unzulässige Abweichungen vom zwingenden Handelsvertreterrecht nach §§ 84-92c HGB.'
 ---
 
-# AGB Kontrolle
+# AGB-Kontrolle im Handelsvertretervertrag nach §§ 305 ff. BGB und § 92c HGB
 
-## Wofür dieser Skill da ist
-Einseitige Provisionskürzung, Storno, Wettbewerbsverbot, Vertragsstrafe, Gerichtsstand und Kosten.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um AGB-Kontrolle im Handelsvertretervertrag nach §§ 305 ff. BGB und § 92c HGB.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie einschlägige BGH- und EuGH-Rechtsprechung ein.
+Der Skill zielt auf konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X erhält vom Unternehmer Y vorformulierte Vertragsbedingungen mit einer Klausel, die den Ausgleichsanspruch vollständig ausschließt; X prüft die Wirksamkeit nach § 89b Abs. 4 HGB.
+- Unternehmer Y verwendet eine AGB-Klausel, die Provisionen um 20 % kürzt, wenn der Jahresumsatz ein bestimmtes Ziel verfehlt; die Klausel wird auf Wirksamkeit nach § 307 BGB geprüft.
+- Handelsvertreter X findet in seinem Vertrag eine AGB-Klausel, die das Wettbewerbsverbot auf fünf Jahre verlängert und keine Karenzentschädigung vorsieht; X lässt die Klausel auf Verstoß gegen § 90a HGB prüfen.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Vertrag auf vorformulierte Klauseln i.S.v. § 305 BGB identifizieren.
+2. Zwingende Normen des Handelsvertreterrechts (§§ 84-92c HGB) als Prüfmaßstab herausarbeiten.
+3. Einzelne Klauseln auf unangemessene Benachteiligung nach § 307 BGB prüfen.
+4. Klauselverbote nach §§ 308, 309 BGB auf handelsvertretertypische Klauseln anwenden.
+5. Klauseln, die vom zwingenden Recht abweichen, nach § 92c HGB auf Zulässigkeit prüfen.
+6. Nichtige Klauseln identifizieren und Rechtsfolgen (Wegfall, gesetzliche Regelung) bestimmen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: BGB §§ 305 ff.; HGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- §§ 305–310 BGB — AGB-Recht, Einbeziehung, Inhaltskontrolle
+- § 307 BGB — Unangemessene Benachteiligung
+- § 92c HGB — Zwingende Vorschriften des Handelsvertreterrechts
+- § 89b Abs. 4 HGB — Zwingende Natur des Ausgleichsanspruchs
+- § 90a Abs. 1 S. 2 HGB — Mindestinhalt der Wettbewerbsabrede
+- Art. 19 RL 86/653/EWG — Unabdingbare Rechte des Handelsvertreters
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Sind die streitigen Klauseln AGB i.S.v. § 305 Abs. 1 BGB oder individuell ausgehandelt?
+- Weichen die Klauseln von zwingenden Vorschriften der §§ 84-92c HGB ab?
+- Liegt eine unangemessene Benachteiligung nach § 307 BGB vor?
+- Verstoßen einzelne Klauseln gegen konkrete Klauselverbote der §§ 308, 309 BGB?
+- Was sind die Rechtsfolgen der Nichtigkeit — Gesamtnichtigkeit oder Teilwegfall?
+- Ist die Klausel durch ergänzende Vertragsauslegung zu ersetzen oder gilt dispositives Recht?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: AGB-Risikomatrix. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Zwingendes Handelsvertreterrecht (§ 92c HGB) nicht als Maßstab berücksichtigt.
+- Kaufmännische AGB-Kontrolle mit verbraucherrechtlichem Maßstab verwechselt.
+- Ausgleichsausschlussklauseln als wirksam behandelt, obwohl § 89b Abs. 4 HGB diese verbietet.
+- Nichtigkeit der Klausel führt nicht automatisch zur Gesamtnichtigkeit des Vertrags (§ 306 BGB).
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+AGB-Prüfvermerk mit Bewertung jeder Klausel, Empfehlung zur Vertragsanpassung, Formulierungsvorschläge für rechtssichere Klauseln.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien sind: Selbständigkeit des Handelsvertreters, Provisionsanspruch, Informationsrechte,
+Ausgleichsanspruch bei Vertragsende sowie Schutz vor einseitiger Benachteiligung.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt,
+insbesondere zur Berechnung des Ausgleichs, zur Richtlinienkonformität und zu Ausschlussgründen.
+Praktisch relevant sind insbesondere: Provisionsabrechnungen und Buchauszug (§ 87c HGB),
+nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Ausgleichsanspruch (§ 89b HGB).
+Zwingende Vorschriften zum Schutz des Handelsvertreters nach § 92c HGB können vertraglich
+nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+
+## Quellen
+
+- [§ 307 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__307.html)
+- [§ 92c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__92c.html)
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [Dejure § 307 BGB](https://dejure.org/gesetze/BGB/307.html)

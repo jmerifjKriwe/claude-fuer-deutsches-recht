@@ -1,48 +1,79 @@
 ---
 name: ausgleich-berechnung
-description: "Berechnet Ausgleich mit Transparenz."
+description: 'Berechnet den Ausgleichsanspruch nach § 89b HGB: Rohertragsberechnung auf Basis der Jahresprovision, Prognoseabzug für Neukundenentwicklung, Abzinsung, Billigkeitskorrektur sowie Höchstbetragsgrenze einer durchschnittlichen Jahresvergütung nach § 89b Abs. 2 HGB und richtlinienkonformer EuGH-Rechtsprechung.'
 ---
 
-# Ausgleich Berechnung
+# Berechnung des Ausgleichsanspruchs nach § 89b HGB
 
-## Wofür dieser Skill da ist
-Rohausgleich, Prognose, Abwanderung, Sogwirkung, Billigkeit, Deckel und Belege.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Berechnung des Ausgleichsanspruchs nach § 89b HGB.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie einschlägige BGH- und EuGH-Rechtsprechung ein.
+Der Skill zielt auf konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X beendet nach 12 Jahren das Vertreterverhältnis mit Unternehmer Y; X berechnet seinen Ausgleichsanspruch auf Basis der Neukundenprovision der letzten fünf Jahre.
+- Unternehmer Y bestreitet die Höhe des Ausgleichs und beauftragt eine Gegenkalkulation unter Berücksichtigung von Kundenabwanderungen und Prognoseabzügen.
+- Handelsvertreterin Z ermittelt den Höchstbetrag nach § 89b Abs. 2 HGB als Kappungsgrenze und vergleicht ihn mit der Rohertragsmethode.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Jahresprovision der letzten fünf Vertragsjahre aus Abrechnungen ermitteln.
+2. Neukundenanteil und wesentlich erweiterter Altkundenanteil herausrechnen.
+3. Prognoseabzug für zukünftige Kundenabwanderung schätzen und dokumentieren.
+4. Abzinsung des zukünftigen Vorteils für den Unternehmer berechnen.
+5. Höchstbetrag nach § 89b Abs. 2 HGB (durchschnittliche Jahresvergütung der letzten fünf Jahre) bestimmen.
+6. Billigkeitskorrektur nach § 89b Abs. 1 S. 1 HGB prüfen — Unbilligkeit senkt den Anspruch.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: § 89b HGB; Rechtsprechung live.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 89b Abs. 1 HGB — Entstehungsvoraussetzungen und Billigkeit
+- § 89b Abs. 2 HGB — Höchstbetrag eine durchschnittliche Jahresvergütung
+- § 89b Abs. 3 HGB — Ausschlussgründe
+- § 89b Abs. 4 HGB — Anmeldefrist ein Jahr nach Vertragsende
+- Art. 17 Abs. 2 RL 86/653/EWG — Berechnungsrahmen des Ausgleichs
+- EuGH C-381/19 — Saint-Gobain: Billigkeit bei der Berechnung
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Welche Provisionen entfallen auf Neukunden oder wesentliche Erweiterung bestehender Kunden?
+- Welcher Prognoseabzug ist für Kundenabwanderung nach Vertragsende sachgerecht?
+- Übersteigt der berechnete Rohausgleich den Höchstbetrag nach § 89b Abs. 2 HGB?
+- Erfordert die Billigkeit eine Korrektur des errechneten Betrags nach oben oder unten?
+- Ist die Ausgleichsanmeldung fristgerecht innerhalb eines Jahres erfolgt?
+- Gibt es Ausschlussgründe nach § 89b Abs. 3 HGB, die den Anspruch zum Erlöschen bringen?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Berechnungsmodell. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Neukundenprovision nicht sauber vom Stammkundenumsatz getrennt — fehlerhafte Berechnungsgrundlage.
+- Höchstbetrag nach § 89b Abs. 2 HGB übersehen — Anspruch wird zu hoch angesetzt.
+- Prognoseabzug zu pauschal geschätzt — gerichtlich angreifbar.
+- Anmeldefrist nach § 89b Abs. 4 S. 2 HGB versäumt — Anspruch erlischt.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Ausgleichsberechnung (tabellarisch), Höchstbetragsvergleich, Klageschriftentwurf mit Ausgleichsforderung.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien sind: Selbständigkeit des Handelsvertreters, Provisionsanspruch, Informationsrechte,
+Ausgleichsanspruch bei Vertragsende sowie Schutz vor einseitiger Benachteiligung.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt,
+insbesondere zur Berechnung des Ausgleichs, zur Richtlinienkonformität und zu Ausschlussgründen.
+Praktisch relevant sind insbesondere: Provisionsabrechnungen und Buchauszug (§ 87c HGB),
+nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Ausgleichsanspruch (§ 89b HGB).
+Zwingende Vorschriften zum Schutz des Handelsvertreters nach § 92c HGB können vertraglich
+nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+
+## Quellen
+
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [Art. 17 RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [EuGH C-381/19 Saint-Gobain auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62019CJ0381)
+- [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)
+- [BGH Rechtsprechung Openjur](https://openjur.de/)

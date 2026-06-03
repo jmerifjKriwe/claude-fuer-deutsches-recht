@@ -1,48 +1,79 @@
 ---
 name: onboarding
-description: "Baut Onboarding für Handelsvertreter."
+description: 'Unterstützt beim Start einer Handelsvertretung: Vertragsabschluss, Vollmachtserteilung, erste Pflichten des Handelsvertreters nach § 86 HGB, Einrichtung von Berichts- und Abrechnungssystemen, Einarbeitung in das Produktsortiment sowie Klärung von Provisionssatz, Bezirk und Berichtspflichten zu Vertragsbeginn.'
 ---
 
-# Onboarding
+# Onboarding eines neuen Handelsvertreters — Vertragsstart und erste Pflichten nach § 86 HGB
 
-## Wofür dieser Skill da ist
-Schulung, Produktwissen, Compliance, CRM, Datenschutz, Muster, Kundenübergabe und Ziele.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Onboarding eines neuen Handelsvertreters — Vertragsstart und erste Pflichten nach § 86 HGB.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Für internationale Sachverhalte gilt die Rom-I-Verordnung für das anwendbare Recht.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Unternehmer Y hat soeben einen neuen Handelsvertreter X für ein süddeutsches Vertriebsgebiet gewonnen; er möchte den Onboarding-Prozess rechtssicher gestalten.
+- Handelsvertreter X hat seinen ersten Handelsvertretervertrag unterschrieben und fragt, welche Pflichten nach § 86 HGB er ab sofort hat und welche Unterlagen er benötigt.
+- Unternehmer Y und Handelsvertreter X klären gemeinsam Bezirk, Provisionsstruktur, Berichtspflichten und technische Zugänge zu Beginn der Zusammenarbeit.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Handelsvertretervertrag auf Vollständigkeit und Rechtssicherheit prüfen.
+2. Vollmachtsurkunde ausstellen und dem Handelsvertreter übergeben.
+3. Provisionsstruktur, Bezirk und Berichtspflichten gemeinsam dokumentieren.
+4. Einarbeitung in Produktsortiment und CRM-System planen.
+5. Datenschutzerklärung und DSGVO-Vereinbarungen abschließen.
+6. Erstabrechnung nach dem ersten Monat nach § 87c HGB planen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB Pflichten; DSGVO.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 86 HGB — Pflichten des Handelsvertreters ab Vertragsstart
+- § 86a HGB — Pflichten des Unternehmers zur Unterstützung
+- § 87c HGB — Erste Provisionsabrechnung und Buchauszugspflicht
+- § 54 HGB — Handlungsvollmacht für Abschlussvertreter
+- § 84 HGB — Selbständigkeit und unternehmerische Freiheit
+- Art. 6 RL 86/653/EWG — Informations- und Kooperationspflichten
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Enthält der Vertrag alle wesentlichen Regelungen für den Vertragsstart?
+- Wurde die Vollmachtsurkunde ausgestellt und übergeben?
+- Sind Bezirk, Provisionsstruktur und Berichtspflichten klar vereinbart?
+- Hat der Handelsvertreter Zugang zu allen erforderlichen Unterlagen und Systemen?
+- Sind DSGVO- und Datenschutzvereinbarungen getroffen?
+- Ist die erste Provisionsabrechnung nach § 87c HGB geplant?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Onboarding-Plan. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Fehlende Vollmachtsurkunde — Abschlüsse des Vertreters binden den Unternehmer nicht.
+- Unklare Bezirksdefinition zu Beginn — spätere Streitigkeiten vorprogrammiert.
+- DSGVO-Vereinbarungen vergessen — Bußgeldrisiko bei Kundendatenverarbeitung.
+- Berichtspflichten nicht vereinbart — Unternehmer hat keine Kontrollmöglichkeit.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Onboarding-Checkliste, Vollmachtsurkunde Entwurf, Vertragsüberprüfung erster Monat.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben das Handelsvertreterrecht durch zentrale Leitentscheidungen geprägt.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) und Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen das Recht.
+
+## Quellen
+
+- [§ 86 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__86.html)
+- [§ 86a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__86a.html)
+- [§ 87c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87c.html)
+- [§ 54 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__54.html)
+- [Dejure § 86 HGB](https://dejure.org/gesetze/HGB/86.html)

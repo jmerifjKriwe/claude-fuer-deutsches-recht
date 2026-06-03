@@ -1,48 +1,79 @@
 ---
 name: nachvertragliche-provision
-description: "Prüft Provision für Geschäfte nach Vertragsende."
+description: 'Prüft Ansprüche auf Provision für Geschäfte nach Vertragsende nach § 87 Abs. 3 HGB: Folgeprovision für Geschäfte, die auf vor Vertragsende geleisteter Tätigkeit des Handelsvertreters beruhen, Abgrenzung zur Folgeprovision nach § 87 Abs. 1 HGB und Verjährung nachvertraglicher Provisionsansprüche.'
 ---
 
-# Nachvertragliche Provision
+# Provision nach Vertragsende nach § 87 Abs. 3 HGB — Folgeprovision und Nachwirkung
 
-## Wofür dieser Skill da ist
-Voranbahnung, Auftragseingang, angemessene Frist, Nachfolgerkonflikt und Abrechnung.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Provision nach Vertragsende nach § 87 Abs. 3 HGB — Folgeprovision und Nachwirkung.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X hat während seiner Vertragszeit Kundenbeziehungen aufgebaut; nach Vertragsende schließt Unternehmer Y Folgeverträge mit diesen Kunden ab; X verlangt Provision nach § 87 Abs. 3 HGB.
+- Unternehmer Y bestreitet die Folgeprovision mit dem Argument, die Folgegeschäfte seien auf die Tätigkeit des neuen Vertreters Z zurückzuführen.
+- Handelsvertreter X fragt, bis wann er nach Vertragsende Ansprüche auf nachvertragliche Provision geltend machen kann.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Nachvertragliche Provisionsansprüche nach § 87 Abs. 3 HGB identifizieren.
+2. Kausalzusammenhang zwischen vorvertraglicher Tätigkeit und Folgegeschäften nachweisen.
+3. Abgrenzung: Folgegeschäfte auf Basis vor Vertragsende erbrachter Tätigkeit vs. Tätigkeit des Nachfolgers.
+4. Buchauszug für nachvertragliche Geschäfte nach § 87c HGB verlangen.
+5. Verjährungsfristen für nachvertragliche Provisionsansprüche nach §§ 195 und 199 BGB prüfen.
+6. Stufenklage auf Buchauszug und nachvertragliche Provision vorbereiten.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: § 87 Abs. 3 HGB live.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 87 Abs. 3 HGB — Provision für Nachfolgegeschäfte nach Vertragsende
+- § 87a HGB — Fälligkeit der nachvertraglichen Provision
+- § 87c HGB — Buchauszugsanspruch auch für nachvertragliche Geschäfte
+- § 195 BGB — Regelmäßige Verjährungsfrist drei Jahre
+- § 199 BGB — Beginn der Verjährungsfrist
+- Art. 8 RL 86/653/EWG — Provision auf nach Vertragsende abgeschlossene Geschäfte
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Sind die Folgegeschäfte ursächlich auf die vorvertragliche Tätigkeit des Handelsvertreters zurückzuführen?
+- Besteht ein Buchauszugsanspruch auch für nachvertragliche Geschäfte?
+- Hat der Nachfolger einen konkurrierenden Provisionsanspruch auf dieselben Folgegeschäfte?
+- Sind die Ansprüche noch nicht verjährt?
+- Wie sind Geschäfte abzugrenzen, die teils von X und teils von Z vermittelt wurden?
+- Hat der Unternehmer nachvertragliche Provisionen bei der Abschlussabrechnung berücksichtigt?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Nachvertragsprovision. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Kausalität zwischen Vortätigkeit und Folgegeschäft nicht ausreichend dokumentiert.
+- Nachvertragliche Provisionsansprüche nicht rechtzeitig geltend gemacht — Verjährung.
+- Buchauszug für nachvertragliche Geschäfte nicht angefordert.
+- Concurrent-Provision mit Nachfolger ungeklärt — Doppelzahlung oder Verlust.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Nachvertragliche Provisionsberechnung, Buchauszugs-Anforderung, Stufenklage-Entwurf.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geklärt.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter zwingend.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) und Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte (§ 87c HGB), Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB)
+ergänzen den praxisrelevanten Rechtsrahmen.
+Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwendbare Recht.
+
+## Quellen
+
+- [§ 87 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87.html)
+- [§ 87c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87c.html)
+- [§ 195 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__195.html)
+- [Art. 8 RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)

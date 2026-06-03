@@ -1,48 +1,79 @@
 ---
 name: eu-richtlinie-86-653
-description: "Verknüpft HGB mit EU-Handelsvertreterrichtlinie."
+description: 'Analysiert die EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung ins deutsche HGB: Mindeststandards für Ausgleich und Kündigung, richtlinienkonforme Auslegung der §§ 84-92c HGB, EuGH-Rechtsprechung (Honyvem, Saint-Gobain, Quenon) und Schranken der nationalen Rechtsanwendung.'
 ---
 
-# EU Richtlinie 86 653
+# EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung im deutschen HGB
 
-## Wofür dieser Skill da ist
-Mindestschutz, Auslegung, Auslandssachverhalte, zwingende Rechte und Rechtswahl.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung im deutschen HGB.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X beruft sich gegenüber Unternehmer Y auf Art. 17 RL 86/653/EWG, weil das deutsche § 89b HGB in seinem Fall zu einem geringeren Ausgleich führt als die Richtlinie fordert.
+- Unternehmer Y versucht, den Ausgleich durch eine Vertragsklausel auszuschließen; Handelsvertreter X prüft, ob Art. 19 RL 86/653/EWG dem entgegensteht.
+- Handelsvertreter X tätig in Deutschland für niederländischen Unternehmer Y; beide streiten über die Anwendung der Richtlinie und deren Verhältnis zur niederländischen Umsetzung.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Richtlinienbestimmungen auf konkreten Sachverhalt anwenden: Art. 1-22 RL 86/653/EWG.
+2. EuGH-Rechtsprechung zur richtlinienkonformen Auslegung heranziehen.
+3. Prüfen, ob nationales Recht (§ 89b HGB) hinter dem Richtlinienminimum zurückbleibt.
+4. Art. 19 RL 86/653/EWG: Unabdingbarkeit des Ausgleichs vor Vertragsende prüfen.
+5. Kollisionsrechtliche Fragen bei grenzüberschreitenden Sachverhalten klären.
+6. EuGH-Vorabentscheidungsverfahren als Option bei ungeklärten Richtlinienfragen prüfen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: RL 86/653/EWG; EuGH live.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- RL 86/653/EWG — Gesamtrichtlinie für Handelsvertreter in der EU
+- Art. 17 RL 86/653/EWG — Ausgleichs- oder Schadenersatzmethode nach Vertragsende
+- Art. 18 RL 86/653/EWG — Ausschlussgründe für den Ausgleich
+- Art. 19 RL 86/653/EWG — Unabdingbarkeit vor Vertragsende
+- EuGH C-465/04 Honyvem — Richtlinienkonforme Auslegung des Ausgleichs
+- EuGH C-381/19 Saint-Gobain — Billigkeit bei der Ausgleichsberechnung
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Bleibt das deutsche Recht hinter dem Mindeststandard der Richtlinie zurück?
+- Welche EuGH-Entscheidungen sind für den konkreten Sachverhalt einschlägig?
+- Hat Deutschland die Richtlinie vollständig und korrekt umgesetzt?
+- Ist Art. 19 RL 86/653/EWG auf die streitige Vertragsklausel anwendbar?
+- Welche Methode zur Ausgleichsberechnung gilt — Art. 17 Abs. 2 oder Art. 17 Abs. 3?
+- Muss ein deutsches Gericht EU-Recht vorlegen, wenn nationales Recht unklar ist?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: EU-Abgleich. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- EuGH-Entscheidungen nicht in die Ausgleichsberechnung einbezogen.
+- Art. 19 RL 86/653/EWG übersehen — vertraglicher Ausgleichsausschluss vor Vertragsende unwirksam.
+- Falsche Berechnungsmethode gewählt: Art. 17 Abs. 2 (Ausgleich) vs. Art. 17 Abs. 3 (Schadensersatz).
+- Richtlinienminimum als abschließend behandelt — nationales Recht kann darüber hinausgehen.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Richtlinienanalyse mit EuGH-Rechtsprechungsübersicht, Ausgleichsberechnung nach Art. 17 RL, Vertragsprüfung Art. 19.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit des Handelsvertreters, Provisionsanspruch, Informationsrechte,
+Ausgleichsanspruch bei Vertragsende sowie Schutz vor einseitiger Benachteiligung.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt,
+insbesondere zur Berechnung des Ausgleichs, zur Richtlinienkonformität und zu Ausschlussgründen.
+Zwingende Vorschriften nach § 92c HGB können nicht abgebedungen werden;
+entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
+
+## Quellen
+
+- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [EuGH C-465/04 Honyvem auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62004CJ0465)
+- [EuGH C-381/19 Saint-Gobain auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62019CJ0381)
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [Dejure § 92c HGB](https://dejure.org/gesetze/HGB/92c.html)

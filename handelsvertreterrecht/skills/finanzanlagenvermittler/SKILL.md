@@ -1,48 +1,79 @@
 ---
 name: finanzanlagenvermittler
-description: "Prüft Finanzanlagenvertrieb und Erlaubnisfragen."
+description: 'Analysiert die Stellung des Finanzanlagenvermittlers als Handelsvertreter nach § 84 HGB und GewO: Zulassungspflichten nach § 34f GewO, Provisionsansprüche und Stornoreserven bei Finanzprodukten, regulatorische Pflichten nach WpHG sowie Ausgleichsansprüche bei Beendigung des Vermittlervertrags.'
 ---
 
-# Finanzanlagenvermittler
+# Finanzanlagenvermittler als Handelsvertreter nach § 84 HGB und § 34f GewO
 
-## Wofür dieser Skill da ist
-§ 34f GewO, WpIG/WpHG Schnittstelle, Provision, Haftung und Status.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Finanzanlagenvermittler als Handelsvertreter nach § 84 HGB und § 34f GewO.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Finanzanlagenvermittler X ist als Handelsvertreter für Finanzdienstleister Y tätig; nach Kündigung streitet X um Ausgleich und Provision aus Bestandsgeschäften.
+- Finanzdienstleister Y kündigt dem Handelsvertreter X und streitet um Stornoreserven und Haftungsausgleich bei rückvermittelten Verträgen.
+- Handelsvertreter X prüft, ob seine Tätigkeit als Finanzanlagenvermittler nach § 34f GewO gleichzeitig eine Handelsvertretung nach § 84 HGB begründet.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Einordnung als Handelsvertreter nach § 84 HGB neben § 34f GewO prüfen.
+2. Zulassungspflichten nach § 34f GewO und Eintragung in Vermittlerregister kontrollieren.
+3. Provisionsabrechnungen auf Vollständigkeit und Stornoreserven prüfen.
+4. WpHG-Anforderungen an Beratungsdokumentation auf Auswirkungen für Provisionsanspruch prüfen.
+5. Ausgleichsanspruch nach § 89b HGB für Bestandsprovisionen berechnen.
+6. Haftungsrisiken aus mangelhafter Anlageberatung auf Auswirkungen für Provisionsklage prüfen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: GewO/WpHG live; HGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 84 HGB — Begriff und Selbständigkeit des Handelsvertreters
+- § 34f GewO — Zulassung für Finanzanlagenvermittler
+- § 87 HGB — Provisionsanspruch für vermittelte Finanzprodukte
+- § 89b HGB — Ausgleichsanspruch bei Vertragsende
+- §§ 63 ff. WpHG — Verhaltens- und Informationspflichten
+- Art. 17 RL 86/653/EWG — Ausgleich bei Vertragsende
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Ist der Finanzanlagenvermittler als Handelsvertreter nach § 84 HGB einzustufen?
+- Hat er die Zulassung nach § 34f GewO und ist er im Vermittlerregister eingetragen?
+- Sind Stornoreserven vertraglich und dem Grunde nach zulässig?
+- Ist der Ausgleichsanspruch nach § 89b HGB auf Finanzanlagenvermittler anwendbar?
+- Gibt es WpHG-bedingte Haftungsansprüche, die den Provisionsanspruch aufzehren?
+- Sind Provisionsabrechnungen vollständig und transparent?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Finanzvertrieb-Check. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Stornoreserven ohne vertragliche Grundlage einbehalten — Provision zu Unrecht gekürzt.
+- Ausgleichsanspruch nach § 89b HGB irrtümlich verneint wegen Regulierung.
+- Keine Zulassung nach § 34f GewO — Ansprüche aus nichtigen Verträgen?
+- WpHG-Verstöße führen zu Haftungsansprüchen, die mit Provisionsansprüchen verrechnet werden.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Provisionsabrechnungsprüfung, Ausgleichsberechnung Finanzanlagenvermittler, Zulassungscheck § 34f GewO.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt.
+Zwingende Vorschriften nach § 92c HGB können nicht abgebedungen werden;
+entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte (§ 87c HGB), Geheimhaltungspflicht (§ 88 HGB) und Delkredere (§ 86b HGB)
+ergänzen das Recht praxisnah.
+
+## Quellen
+
+- [§ 84 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__84.html)
+- [§ 34f GewO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gewo/__34f.html)
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [Dejure § 34f GewO](https://dejure.org/gesetze/GewO/34f.html)

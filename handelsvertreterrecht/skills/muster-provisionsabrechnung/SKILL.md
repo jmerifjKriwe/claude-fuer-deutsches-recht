@@ -1,48 +1,79 @@
 ---
 name: muster-provisionsabrechnung
-description: "Erstellt prüfbare Provisionsabrechnung."
+description: 'Erstellt Musterprovisonionsabrechnungen für Handelsvertreter nach § 87c HGB: vollständige Abrechnung mit Nachweis vermittelter Geschäfte, Provisionsberechnung je Auftragsposition, Stornobuchungen mit Begründung sowie Prüfcheckliste für die Handelsvertreterseite zur Kontrolle erhaltener Abrechnungen.'
 ---
 
-# Muster Provisionsabrechnung
+# Muster-Provisionsabrechnung nach § 87c HGB
 
-## Wofür dieser Skill da ist
-Auftrag, Kunde, Betrag, Ausführung, Storno, Fälligkeit, Umsatzsteuer und Buchauszug-Abgleich.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Muster-Provisionsabrechnung nach § 87c HGB.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X möchte eine vollständige Musterabrechnung erstellen, die er von Unternehmer Y verlangen kann.
+- Unternehmer Y möchte eine rechtssichere Provisionsabrechnung an Handelsvertreter X übermitteln und fragt nach den Mindestanforderungen nach § 87c HGB.
+- Handelsvertreter X hat eine Abrechnung von Unternehmer Y erhalten und möchte diese auf Vollständigkeit und Richtigkeit prüfen.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Vertragsgrundlagen für Provisionsabrechnung (Satz, Basis, Fälligkeit) sichten.
+2. Vollständige Abrechnung aller im Abrechnungszeitraum abgeschlossenen Geschäfte erstellen.
+3. Stornierungen und Rückbuchungen mit Begründung und Nachweis ausweisen.
+4. Direktabschlüsse und Bezirksprovisionen separat ausweisen.
+5. Abrechnung mit Buchauszug nach § 87c Abs. 1 HGB abstimmen.
+6. Prüfcheckliste für die Kontrollseite des Handelsvertreters erstellen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: §§ 87 ff. HGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 87c Abs. 1 HGB — Monatliche Provisionsabrechnung
+- § 87c Abs. 2 HGB — Anspruch auf Buchauszug zur Überprüfung
+- § 87 HGB — Provisionspflichtige Geschäfte
+- § 87a HGB — Fälligkeit der Provision nach Ausführung
+- § 87b HGB — Provisionsberechnung bei Teilleistungen
+- Art. 12 RL 86/653/EWG — Provisionsabrechnungspflichten
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Sind alle provisionspflichtigen Geschäfte in der Abrechnung enthalten?
+- Sind Stornierungen korrekt begründet und vertragskonform?
+- Stimmen Provisionsätze und Berechnungsgrundlagen mit dem Vertrag überein?
+- Sind Direktabschlüsse des Unternehmers im Bezirk ausgewiesen?
+- Ist die Abrechnung monatlich und pünktlich nach § 87c Abs. 1 HGB?
+- Welche Perioden wurden nie abgerechnet — Nachforderungsrisiko?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Abrechnungsvorlage. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Fehlende Stornobegründungen ohne vertragliche Grundlage — Provision zu Unrecht gekürzt.
+- Direktabschlüsse des Unternehmers nicht ausgewiesen — Bezirksprovision vergessen.
+- Abrechnung nicht monatlich — Verzug des Unternehmers nach § 286 BGB.
+- Provisionsabrechnungszeitraum nicht klar abgegrenzt — Doppelzählung oder Lücken.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Muster-Provisionsabrechnung (tabellarisch), Prüfcheckliste, Buchauszugs-Vergleich.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geklärt.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter zwingend.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) und Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte (§ 87c HGB), Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB)
+ergänzen den praxisrelevanten Rechtsrahmen.
+Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwendbare Recht.
+
+## Quellen
+
+- [§ 87c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87c.html)
+- [§ 87 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87.html)
+- [§ 87a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87a.html)
+- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [Dejure § 87c HGB](https://dejure.org/gesetze/HGB/87c.html)

@@ -1,48 +1,79 @@
 ---
 name: auslaendischer-principal
-description: "Prüft ausländischen Unternehmer mit deutschem Vertreter."
+description: 'Analysiert Handelsvertreterverträge mit ausländischem Unternehmer: anwendbares Recht nach Rom-I-VO, zwingende Schutzvorschriften nach § 92c HGB und Art. 17 ff. RL 86/653/EWG auch bei Rechtswahl, Gerichtsstandsvereinbarungen sowie Anerkennung ausländischer Urteile und Schiedssprüche.'
 ---
 
-# Auslaendischer Principal
+# Handelsvertretervertrag mit ausländischem Unternehmer — Internationales Privatrecht
 
-## Wofür dieser Skill da ist
-Zustellung, Gerichtsstand, Ausgleich, Sprachfassungen, Währung und Durchsetzung.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Handelsvertretervertrag mit ausländischem Unternehmer — Internationales Privatrecht.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X mit Sitz in Deutschland vertritt einen US-amerikanischen Unternehmer Y; nach Vertragsende streitet X um den Ausgleichsanspruch und fragt, ob deutsches Recht gilt.
+- Unternehmer Y (Frankreich) hat im Vertrag englisches Recht und London-Schiedsklausel vereinbart; Handelsvertreter X prüft, ob zwingende deutsche Schutzvorschriften trotzdem gelten.
+- Handelsvertreter X will ein britisches Urteil gegen ausländischen Unternehmer Y in Deutschland vollstrecken lassen.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Rechtswahl im Vertrag prüfen: welches Recht ist vereinbart?
+2. Anwendbares Recht nach Art. 3 und 4 Rom-I-VO bestimmen.
+3. Zwingende Schutzvorschriften des Staates des gewöhnlichen Aufenthalts des Handelsvertreters nach Art. 9 Rom-I-VO prüfen.
+4. EU-Richtlinien-Schutz: Art. 17 ff. RL 86/653/EWG gilt in allen EU-Mitgliedstaaten.
+5. Gerichtsstand nach EuGVVO bestimmen; Schiedsklausel auf Wirksamkeit prüfen.
+6. Vollstreckung ausländischer Urteile nach EuGVVO oder bilateralen Abkommen klären.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB; Brüssel Ia/Rom I.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- Art. 3 und 4 Rom-I-VO — Rechtswahl und anwendbares Recht ohne Rechtswahl
+- Art. 9 Rom-I-VO — Eingriffsnormen des Forumstaats
+- § 92c HGB — Zwingende Vorschriften auch bei ausländischem Recht
+- Art. 17 ff. RL 86/653/EWG — Mindeststandards für alle EU-Staaten
+- Art. 25 EuGVVO — Gerichtsstandsvereinbarungen
+- § 328 ZPO — Anerkennung ausländischer Urteile
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Welches Recht gilt nach Rechtswahl oder Art. 4 Rom-I-VO?
+- Sind zwingende deutsche Schutzvorschriften als Eingriffsnormen nach Art. 9 Rom-I-VO anwendbar?
+- Gilt die RL 86/653/EWG, weil der Handelsvertreter in einem EU-Mitgliedstaat tätig ist?
+- Ist die Gerichtsstandsklausel wirksam und welches Gericht ist zuständig?
+- Kann ein ausländisches Urteil in Deutschland vollstreckt werden?
+- Sind Schiedsklauseln wirksam und nach welchem Recht wird das Schiedsgericht entscheiden?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Principal-Risikovermerk. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Rechtswahl schließt zwingende deutsche Normen nicht aus — § 92c HGB und Art. 9 Rom-I-VO beachten.
+- Ausländisches Recht kennt keinen Ausgleichsanspruch — trotzdem anwendbar, wenn RL 86/653/EWG gilt.
+- Vollstreckung in Drittstaaten (USA, Schweiz) ohne bilaterales Anerkennungsabkommen schwierig.
+- Gerichtsstandsklausel für Verbraucher oder arbeitnehmerähnliche Personen unter Umständen unwirksam.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Rechtsgutachten zur Kollisionsnorm, Gerichtsstandsanalyse, Empfehlung zur Vertragsgestaltung.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit des Handelsvertreters, Provisionsanspruch, Informationsrechte,
+Ausgleichsanspruch bei Vertragsende sowie Schutz vor einseitiger Benachteiligung.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt,
+insbesondere zur Berechnung des Ausgleichs, zur Richtlinienkonformität und zu Ausschlussgründen.
+Zwingende Vorschriften nach § 92c HGB können vertraglich nicht abgebedungen werden;
+entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
+
+## Quellen
+
+- [Rom-I-VO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32008R0593)
+- [§ 92c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__92c.html)
+- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [EuGVVO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32012R1215)
+- [Dejure § 92c HGB](https://dejure.org/gesetze/HGB/92c.html)

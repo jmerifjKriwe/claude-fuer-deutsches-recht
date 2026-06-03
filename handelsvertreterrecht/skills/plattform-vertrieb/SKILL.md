@@ -1,48 +1,79 @@
 ---
 name: plattform-vertrieb
-description: "Prüft Plattformvertrieb und Handelsvertretermodell."
+description: 'Analysiert die Einordnung von Plattformvermittlern und Agenturen digitaler Marktplätze als Handelsvertreter nach § 84 HGB: Dauerhaftigkeit der Beauftragung, Vollmacht, Provision und Ausgleich bei Vertragsbeendigung sowie regulatorische Anforderungen der P2B-Verordnung und des Digital Markets Act.'
 ---
 
-# Plattform Vertrieb
+# Plattformvermittler als Handelsvertreter — § 84 HGB und P2B-Verordnung
 
-## Wofür dieser Skill da ist
-Marketplace, Reseller, Affiliate, Lead Generator, Agenturmodell und Zahlungsabwicklung.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Plattformvermittler als Handelsvertreter — § 84 HGB und P2B-Verordnung.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Für internationale Sachverhalte gilt die Rom-I-Verordnung für das anwendbare Recht.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Betreiber einer E-Commerce-Vermittlungsplattform P fragt, ob er als Handelsvertreter nach § 84 HGB einzustufen ist und beim Verlust eines Hauptauftraggebers Ausgleich verlangen kann.
+- Händler H nutzt Plattform P für den Vertrieb; P wird vom Hersteller Y exklusiv für den Online-Vertrieb eingesetzt; nach Vertragsende verlangt P Ausgleich nach § 89b HGB.
+- Unternehmer Y beendet die Zusammenarbeit mit Plattform P; P prüft, ob die P2B-Verordnung besondere Kündigungsrechte oder Ausgleichsansprüche begründet.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Einordnung der Plattform als Handelsvertreter nach § 84 HGB auf Merkmale prüfen.
+2. Dauerhaftigkeit und Vollmacht als Abgrenzungskriterien analysieren.
+3. Ausgleichsanspruch nach § 89b HGB für Plattformbetreiber bei Handelsvertreter-Qualifikation prüfen.
+4. P2B-Verordnung auf Offenlegungspflichten und Kündigungsregeln auswerten.
+5. Digital Markets Act auf Anwendbarkeit bei Gatekeeper-Plattformen prüfen.
+6. Provision und Vergütungsstruktur auf Handelsvertreter-Merkmale analysieren.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB; Plattformrecht; Kartellrecht.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 84 HGB — Einordnung Plattformbetreiber als Handelsvertreter
+- § 89b HGB — Ausgleichsanspruch bei Handelsvertreter-Qualifikation
+- P2B-Verordnung (EU) Nr. 2019/1150 — Fairness und Transparenz für Plattformnutzer
+- Digital Markets Act (EU) 2022/1925 — Gatekeeper-Regulierung
+- Art. 1 RL 86/653/EWG — Anwendungsbereich
+- § 307 BGB — AGB-Kontrolle von Plattform-AGB
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Erfüllt der Plattformbetreiber die Merkmale des § 84 HGB?
+- Besteht ein Ausgleichsanspruch nach § 89b HGB?
+- Gelten die Anforderungen der P2B-Verordnung für die Plattform?
+- Ist der Digital Markets Act auf die Plattform anwendbar?
+- Sind die Plattform-AGB AGB-rechtlich wirksam?
+- Welche Kündigungsfristen gelten nach P2B-Verordnung und HGB?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Plattformstatus-Check. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Plattformbetreiber ohne Handelsvertreter-Qualifikation verlangt Ausgleich — abgewiesen.
+- P2B-Verordnung-Kündigungsfristen nicht eingehalten — Schadensersatz.
+- Digital Markets Act ignoriert — Compliance-Verstöße bei Gatekeeper-Plattform.
+- AGB-Kontrolle der Plattform-AGB versäumt — Klauseln nichtig.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Qualifikationsgutachten Plattform als Handelsvertreter, P2B-Compliance-Check, Ausgleichsberechnung.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben das Handelsvertreterrecht durch zentrale Leitentscheidungen geprägt.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) und Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen das Recht.
+
+## Quellen
+
+- [§ 84 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__84.html)
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [P2B-Verordnung auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019R1150)
+- [DMA auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022R1925)
+- [Dejure § 84 HGB](https://dejure.org/gesetze/HGB/84.html)

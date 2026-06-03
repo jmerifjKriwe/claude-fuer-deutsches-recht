@@ -1,48 +1,79 @@
 ---
 name: gebietsschutz
-description: "Prüft Gebietsschutz und Gebietskonflikte."
+description: 'Prüft Gebietsschutzvereinbarungen im Handelsvertretervertrag: Umfang und Wirksamkeit von Alleinvertretungsklauseln, Provisionsansprüche bei Direktabschlüssen im Schutzgebiet, Kartellrechtskonformität von Gebietsexklusivität und Schadensersatz bei Verletzung des Gebietsschutzes durch den Unternehmer.'
 ---
 
-# Gebietsschutz
+# Gebietsschutz im Handelsvertretervertrag nach § 87 Abs. 2 HGB und Kartellrecht
 
-## Wofür dieser Skill da ist
-PLZ-Gebiet, Bundesländer, Ausland, Onlinekunden, Key Accounts und Überschneidungen.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Gebietsschutz im Handelsvertretervertrag nach § 87 Abs. 2 HGB und Kartellrecht.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X hat einen vertraglich definierten Gebietsschutz; Unternehmer Y beliefert Kunden im Gebiet des X direkt ohne Provision zu zahlen.
+- Handelsvertreter X und Y streiten darüber, ob eine Key-Account-Ausnahme vom Gebietsschutz im Vertrag wirksam vereinbart ist.
+- Kartellbehörde prüft, ob die Gebietsschutzvereinbarung zwischen Unternehmer Y und Handelsvertreter X als wettbewerbsbeschränkende Abrede nach § 1 GWB einzustufen ist.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Gebietsschutzklausel auf Wirksamkeit und Reichweite prüfen.
+2. Direktabschlüsse des Unternehmers im Schutzgebiet aus Buchauszug ermitteln.
+3. Provisionsanspruch nach § 87 Abs. 2 HGB für Direktabschlüsse berechnen.
+4. Kartellrechtliche Zulässigkeit der Gebietsschutzvereinbarung nach GWB und Vertikal-GVO prüfen.
+5. Schadensersatz bei Verletzung des Gebietsschutzes nach § 280 BGB prüfen.
+6. Unterlassungsanspruch bei andauernder Verletzung des Gebietsschutzes geltend machen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB; Kartellrecht.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 87 Abs. 2 HGB — Bezirksprovision bei Alleinvertretung
+- § 280 BGB — Schadensersatz bei Verletzung des Gebietsschutzes
+- § 1 GWB — Kartellverbot für wettbewerbsbeschränkende Vereinbarungen
+- Vertikal-GVO (EU) Nr. 2022/720 — Gruppenfreistellung für Gebietsschutzklauseln
+- § 86a HGB — Unterstützungspflicht des Unternehmers
+- Art. 7 Abs. 2 RL 86/653/EWG — Provision auf Gebietsgeschäfte
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Ist der Gebietsschutz klar und vollständig definiert?
+- Hat der Unternehmer den Gebietsschutz durch Direktabschlüsse verletzt?
+- Sind Key-Account-Ausnahmen wirksam vereinbart?
+- Ist die Gebietsschutzvereinbarung kartellrechtskonform?
+- Wie hoch ist der Schadensersatz bei Verletzung des Gebietsschutzes?
+- Kommen Unterlassungsansprüche oder einstweiliger Rechtsschutz in Betracht?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Gebietsmapping. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Gebietsdefinition zu ungenau — Direktabschlüsse im Grenzbereich ohne klare Lösung.
+- Kartellrechtliche Grenze der Gebietsschutzklausel nicht geprüft — Vertrag nichtig.
+- Schadensersatz bei Verletzung nicht geltend gemacht — nur Provision eingeklagt.
+- Key-Account-Ausnahme nicht schriftlich vereinbart — Unternehmer kann sie nicht einwandfrei rechtfertigen.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Gebietsschutzprüfvermerk, Schadensersatzberechnung, Unterlassungsklage-Entwurf.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt.
+Zwingende Vorschriften nach § 92c HGB können nicht abgebedungen werden;
+entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte (§ 87c HGB), Geheimhaltungspflicht (§ 88 HGB) und Delkredere (§ 86b HGB)
+ergänzen das Recht praxisnah.
+
+## Quellen
+
+- [§ 87 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87.html)
+- [§ 280 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__280.html)
+- [§ 1 GWB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gwb/__1.html)
+- [Vertikal-GVO 2022/720 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022R0720)
+- [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)

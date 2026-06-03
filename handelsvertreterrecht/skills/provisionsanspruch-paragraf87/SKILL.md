@@ -1,48 +1,79 @@
 ---
 name: provisionsanspruch-paragraf87
-description: "Prüft Provisionsanspruch nach § 87 HGB."
+description: 'Klärt Entstehung und Durchsetzung des Provisionsanspruchs nach § 87 HGB: Kausalität zwischen Vermittlungstätigkeit und Vertragsabschluss, Fälligkeit nach Ausführung des Geschäfts, Provisionssatz und Bemessungsgrundlage, Ansprüche bei Direktabschlüssen und nachvertraglichen Folgegeschäften sowie Verjährung.'
 ---
 
-# Provisionsanspruch Paragraf87
+# Provisionsanspruch nach § 87 HGB — Entstehung, Fälligkeit und Durchsetzung
 
-## Wofür dieser Skill da ist
-Abschluss, Vermittlung, Kausalität, Bezirk, Ausführung, Nichtausführung und Fälligkeit.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Provisionsanspruch nach § 87 HGB — Entstehung, Fälligkeit und Durchsetzung.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Für internationale Sachverhalte gilt die Rom-I-Verordnung für das anwendbare Recht.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X hat zahlreiche Geschäfte vermittelt; Unternehmer Y zahlt nur einen Teil der Provision mit dem Hinweis, bestimmte Kunden seien nicht von X vermittelt worden.
+- Unternehmer Y hat für mehrere Monate keine Provisionsabrechnungen erstellt; Handelsvertreter X berechnet seinen Anspruch selbst und klagt auf Zahlung.
+- Handelsvertreter X fragt, ob er Provision auch für Geschäfte erhält, bei denen der Kunde zwar im Bezirk wohnt, den Vertrag aber direkt online beim Unternehmer Y abgeschlossen hat.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Provisionsanspruch dem Grunde nach aus Vertrag und § 87 HGB ableiten.
+2. Kausalität: Nachweis der Vermittlungstätigkeit dokumentieren.
+3. Fälligkeit nach § 87a Abs. 1 HGB: Ausführung des Geschäfts durch den Unternehmer.
+4. Provisionsberechnung: Satz aus Vertrag und korrekte Bemessungsgrundlage.
+5. Buchauszug nach § 87c HGB verlangen, um alle provisionspflichtigen Geschäfte zu erfassen.
+6. Verjährung nach § 195 BGB prüfen; Stufenklage vorbereiten.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: §§ 87-87c HGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 87 Abs. 1 HGB — Provisionsanspruch bei Mitwirkung des Handelsvertreters
+- § 87 Abs. 2 HGB — Bezirksprovision ohne Mitwirkung
+- § 87a HGB — Fälligkeit der Provision
+- § 87b HGB — Provisionsberechnung
+- § 87c HGB — Buchauszug und Abrechnung
+- Art. 7 und 8 RL 86/653/EWG — Provisionsanspruch und Fälligkeitszeitpunkt
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Hat der Handelsvertreter den Vertragsabschluss kausal vermittelt?
+- Ist das Geschäft vom Unternehmer ausgeführt worden?
+- Ist die Bemessungsgrundlage für die Provision korrekt bestimmt?
+- Sind alle provisionspflichtigen Geschäfte im Buchauszug enthalten?
+- Ist der Provisionsanspruch verjährt?
+- Besteht Bezirksprovision für Direktabschlüsse des Unternehmers im Bezirk?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Provisionsprüfung. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Kausalität nicht dokumentiert — Unternehmer bestreitet Vermittlungsleistung erfolgreich.
+- Fälligkeit falsch bestimmt: Provision erst nach Ausführung, nicht nach Auftragseingang.
+- Buchauszug nicht angefordert — fehlende Geschäfte nicht erfasst.
+- Verjährung eingetreten — trotz offensichtlicher Ansprüche.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Provisionsberechnung mit Kausalitätsnachweis, Klageschriftentwurf, Buchauszugs-Anforderung.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben das Handelsvertreterrecht durch zentrale Leitentscheidungen geprägt.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) und Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen das Recht.
+
+## Quellen
+
+- [§ 87 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87.html)
+- [§ 87a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87a.html)
+- [§ 87c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87c.html)
+- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)

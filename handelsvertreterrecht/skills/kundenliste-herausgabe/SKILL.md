@@ -1,48 +1,79 @@
 ---
 name: kundenliste-herausgabe
-description: "Prüft Herausgabe und Nutzung von Kundenlisten."
+description: 'Prüft Herausgabepflichten und Nutzungsrechte an Kundenlisten bei Vertragsende: Anspruch des Unternehmers auf Herausgabe nach § 667 BGB analog und § 88 HGB, Zurückbehaltungsrecht des Handelsvertreters, Datenschutzrecht nach DSGVO sowie Vollstreckung bei Verweigerung und Schadensersatz bei Datenmissbrauch.'
 ---
 
-# Kundenliste Herausgabe
+# Kundenliste und Herausgabepflicht bei Vertragsende nach § 88 HGB
 
-## Wofür dieser Skill da ist
-Eigentum, Datenschutz, Geschäftsgeheimnis, Beweis, Ausgleich und nachvertragliche Nutzung.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Kundenliste und Herausgabepflicht bei Vertragsende nach § 88 HGB.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Unternehmer Y verlangt nach Vertragsende von Handelsvertreter X die Herausgabe aller Kundenlisten und Kontaktdaten.
+- Handelsvertreter X verweigert die Herausgabe der Kundenliste und beruft sich auf ein Zurückbehaltungsrecht wegen offener Provisionen.
+- Handelsvertreter X nutzt die Kundenliste nach Vertragsende weiter für eigene Akquise; Unternehmer Y klagt auf Unterlassung und Schadensersatz.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Herausgabepflicht des Handelsvertreters nach § 88 HGB und § 667 BGB analog bestimmen.
+2. Zurückbehaltungsrecht nach § 273 BGB bei offenen Gegenforderungen prüfen.
+3. Datenschutzrechtliche Herausgabepflichten und Löschfristen nach DSGVO klären.
+4. Vollstreckung der Herausgabe nach § 883 ZPO (körperliche Listen) oder § 888 ZPO vorbereiten.
+5. Schadensersatz bei Datenmissbrauch nach § 280 BGB und § 88 HGB berechnen.
+6. Übergabeprotokoll mit Inventar aller herausgegebenen Daten erstellen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: DSGVO; GeschGehG; HGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 88 HGB — Geheimhaltungspflicht und Verwendungsverbot nach Vertragsende
+- § 667 BGB — Herausgabepflicht des Beauftragten (analog)
+- § 273 BGB — Zurückbehaltungsrecht
+- § 883 ZPO — Vollstreckung auf Herausgabe bestimmter Sachen
+- Art. 17 DSGVO — Recht auf Löschung und Herausgabe
+- § 280 BGB — Schadensersatz bei Datenmissbrauch
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Besteht eine Herausgabepflicht für Kundenlisten nach § 88 HGB?
+- Hat der Handelsvertreter ein Zurückbehaltungsrecht nach § 273 BGB?
+- Welche Daten sind datenschutzrechtlich herauszugeben und welche zu löschen?
+- Ist die Nutzung der Kundenliste nach Vertragsende verboten?
+- Kommt Vollstreckung nach § 883 oder § 888 ZPO in Betracht?
+- Welche Schadensersatzansprüche entstehen bei Datenmissbrauch?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Kundenlistenvermerk. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Zurückbehaltungsrecht ohne durchsetzbare Gegenforderung — nicht berechtigt.
+- Kundenliste nach Vertragsende für eigene Akquise genutzt — § 88 HGB verletzt.
+- DSGVO-Löschpflichten nicht beachtet — Bußgeldrisiko.
+- Herausgabe ohne Übergabeprotokoll — Nachweis über vollständige Herausgabe fehlt.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Herausgabeverlangen-Schreiben, Übergabeprotokoll, Unterlassungsklage-Entwurf, Schadensersatzberechnung.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geklärt.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter zwingend.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) und Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte (§ 87c HGB), Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB)
+ergänzen den praxisrelevanten Rechtsrahmen.
+Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwendbare Recht.
+
+## Quellen
+
+- [§ 88 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__88.html)
+- [§ 667 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__667.html)
+- [§ 273 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__273.html)
+- [§ 883 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__883.html)
+- [Dejure § 88 HGB](https://dejure.org/gesetze/HGB/88.html)

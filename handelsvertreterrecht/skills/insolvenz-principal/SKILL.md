@@ -1,48 +1,79 @@
 ---
 name: insolvenz-principal
-description: "Prüft Insolvenz des Unternehmers."
+description: 'Analysiert Auswirkungen der Insolvenz des Unternehmers auf den Handelsvertretervertrag: automatische Beendigung nach § 116 InsO, Anmeldefähigkeit von Provisions- und Ausgleichsansprüchen zur Insolvenztabelle, Absonderungsrechte sowie Sicherungsstrategien für offene Forderungen vor Insolvenzeröffnung.'
 ---
 
-# Insolvenz Principal
+# Insolvenz des Unternehmers — Auswirkungen auf Handelsvertretervertrag und Ansprüche
 
-## Wofür dieser Skill da ist
-Provision, Ausgleich, Masseforderung, Absonderung, Kundendaten, Kündigung und Forderungsanmeldung.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Insolvenz des Unternehmers — Auswirkungen auf Handelsvertretervertrag und Ansprüche.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X erfährt, dass über das Vermögen von Unternehmer Y das Insolvenzverfahren eröffnet wurde; X prüft, wie er seine Provisions- und Ausgleichsansprüche anmelden kann.
+- Handelsvertreter X hat kurz vor Insolvenzeröffnung eine Provisionszahlung von Unternehmer Y erhalten; der Insolvenzverwalter verlangt Rückzahlung nach § 130 InsO.
+- Handelsvertreter X fragt, ob sein Handelsvertretervertrag durch die Insolvenz des Unternehmers Y automatisch endet oder fortbesteht.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Prüfen, ob der Handelsvertretervertrag nach § 116 InsO automatisch endet.
+2. Offene Provisions- und Ausgleichsansprüche zur Insolvenztabelle anmelden.
+3. Anfechtungsrisiko für erhaltene Zahlungen nach §§ 130-135 InsO klären.
+4. Rangstellung der Forderungen (Insolvenzforderung oder Masseforderung) bestimmen.
+5. Sicherungsrechte (Pfandrecht, Abtretung) auf Wirksamkeit in der Insolvenz prüfen.
+6. Fristen für Forderungsanmeldung beachten.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: InsO; HGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 116 InsO — Erlöschen von Dienstverträgen mit Insolvenzverfahrensbeginn
+- § 174 InsO — Anmeldung von Forderungen zur Insolvenztabelle
+- § 130 InsO — Anfechtung kongruenter Deckungshandlungen
+- § 87 HGB — Provisionsansprüche als Insolvenzforderungen
+- § 89b HGB — Ausgleichsanspruch als Insolvenzforderung
+- § 55 InsO — Masseverbindlichkeiten nach Insolvenzeröffnung
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Endet der Handelsvertretervertrag automatisch mit Insolvenzeröffnung?
+- Welche Ansprüche sind zur Insolvenztabelle anmeldungsfähig?
+- Droht eine Anfechtung erhaltener Zahlungen durch den Insolvenzverwalter?
+- Ist der Ausgleichsanspruch eine einfache Insolvenzforderung oder eine Masseforderung?
+- Welche Fristen für Forderungsanmeldung gelten?
+- Gibt es Sicherungsrechte, die in der Insolvenz bestehen bleiben?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Insolvenz-Principal-Memo. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Frist zur Forderungsanmeldung versäumt — Forderung nicht zur Tabelle festgestellt.
+- Anfechtung erhaltener Zahlungen nicht erwartet — unerwartete Rückforderung.
+- Ausgleichsanspruch nicht fristgerecht nach § 89b Abs. 4 HGB angemeldet — erloschen.
+- Fortführung des Vertrags durch Insolvenzverwalter ohne neue Vergütungsregelung.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Forderungsanmeldung zur Insolvenztabelle, Anfechtungsabwehr, Anspruchssicherungskonzept.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt.
+Zwingende Vorschriften nach § 92c HGB können nicht abgebedungen werden;
+entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte (§ 87c HGB), Geheimhaltungspflicht (§ 88 HGB) und Delkredere (§ 86b HGB)
+ergänzen das Recht praxisnah.
+
+## Quellen
+
+- [§ 116 InsO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/inso/__116.html)
+- [§ 174 InsO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/inso/__174.html)
+- [§ 130 InsO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/inso/__130.html)
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [Dejure § 116 InsO](https://dejure.org/gesetze/InsO/116.html)

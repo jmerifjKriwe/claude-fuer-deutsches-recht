@@ -1,48 +1,79 @@
 ---
 name: bezirksvertreter
-description: "Prüft Bezirksvertreter und Bezirksprovision."
+description: 'Prüft Rechte und Pflichten des Bezirksvertreters nach § 87 Abs. 2 HGB: Gebietsschutz, Provisionspflicht für alle Geschäfte im Bezirk unabhängig von der Mitwirkung, Abgrenzung des Gebiets, Beziehung zu Direktkunden und Key Accounts sowie Anforderungen an die Vertragsgestaltung des Bezirksvertretervertrags.'
 ---
 
-# Bezirksvertreter
+# Bezirksvertreter nach § 87 Abs. 2 HGB — Gebietsschutz und Provisionsrechte
 
-## Wofür dieser Skill da ist
-Gebiet, Kundenkreis, Direktgeschäfte des Unternehmers, Online-Vertrieb und Abrechnung.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Bezirksvertreter nach § 87 Abs. 2 HGB — Gebietsschutz und Provisionsrechte.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Bezirksvertreter C vermittelt Produkte des Unternehmers U in einem vertraglich definierten PLZ-Gebiet; U tätigt Direktabschlüsse mit Kunden in diesem Gebiet und zahlt keine Provision.
+- Unternehmer U behauptet, ein Online-Shop schließe den Gebietsschutz des Bezirksvertreters C aus; C prüft, ob dies rechtlich haltbar ist.
+- Bezirksvertreter C und Kollegenvertreter D bestreiten beide den Provisionsanspruch für einen Kunden, der in einem Grenzbereich der Bezirke liegt.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Bezirksdefinition im Vertrag auf Eindeutigkeit und Vollständigkeit prüfen.
+2. Alle Geschäfte im Bezirk aus Buchauszug und Abrechnung erfassen.
+3. Online-Verkäufe: Prüfung, ob Lieferadresse im Bezirk liegt und ob vertragliche Regelung besteht.
+4. Grenzfälle und Überschneidungen mit anderen Vertretergebieten klären.
+5. Buchauszug auf fehlende Direktgeschäfte prüfen.
+6. Provisionsanspruch berechnen und Stufenklage nach § 254 ZPO vorbereiten.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: § 87 Abs. 2 HGB live.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 87 Abs. 2 HGB — Provision für Geschäfte im zugewiesenen Bezirk
+- § 87 Abs. 1 HGB — Provisionsanspruch allgemein
+- § 87c HGB — Buchauszug und Abrechnung
+- § 86 HGB — Pflichten des Handelsvertreters im Bezirk
+- Art. 7 Abs. 2 RL 86/653/EWG — Gebietsschutz im EU-Recht
+- § 307 BGB — AGB-Kontrolle von Gebietsausnahmen
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Ist das Vertretergebiet klar und eindeutig definiert?
+- Gilt die Provisionspflicht auch ohne aktive Mitwirkung des Vertreters (§ 87 Abs. 2 HGB)?
+- Gibt es wirksame Ausnahmen (Online-Kanal, Key Accounts, direkte Kunden des Unternehmers)?
+- Wie werden Online-Bestellungen mit Lieferadresse im Bezirk behandelt?
+- Sind Grenzfälle zwischen benachbarten Bezirken vertraglich geregelt?
+- Ist der Buchauszug vollständig genug, um alle Bezirksgeschäfte zu erfassen?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Bezirksprovisionsmatrix. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Bezirksdefinition zu ungenau — Online-Kanal oder Direktkunden fallen heraus.
+- Provisionspflicht für Direktabschlüsse im Bezirk nicht klar vereinbart.
+- Online-Bestellungen als außerhalb des Bezirks gewertet — rechtlich zweifelhaft.
+- Überlappende Bezirke zwischen mehreren Vertretern führen zu Doppelprovisionsansprüchen.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Bezirksprovisionsberechnung, Vertragsanalyse Gebietsschutz, Musterschreiben Buchauszugsverlangen.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit des Handelsvertreters, Provisionsanspruch, Informationsrechte,
+Ausgleichsanspruch bei Vertragsende sowie Schutz vor einseitiger Benachteiligung.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt,
+insbesondere zur Berechnung des Ausgleichs, zur Richtlinienkonformität und zu Ausschlussgründen.
+Zwingende Vorschriften nach § 92c HGB können vertraglich nicht abgebedungen werden;
+entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
+
+## Quellen
+
+- [§ 87 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87.html)
+- [§ 86 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__86.html)
+- [§ 87c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87c.html)
+- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)

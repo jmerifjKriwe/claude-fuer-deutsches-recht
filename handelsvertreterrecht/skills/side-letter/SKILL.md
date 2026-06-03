@@ -1,48 +1,79 @@
 ---
 name: side-letter
-description: "Prüft Side Letter und Nebenabreden."
+description: 'Prüft die Wirksamkeit und rechtliche Bedeutung von Side Letters (Nebenabreden) im Handelsvertretervertrag: Bindungswirkung mündlicher und schriftlicher Nebenabreden, Verhältnis zu Schriftformklauseln, Konsequenzen bei unvereinbarten Zusagen sowie Risiken für Beweisbarkeit und Vertragskonsistenz.'
 ---
 
-# Side Letter
+# Side Letter und Nebenabreden im Handelsvertretervertrag — Wirksamkeit und Risiken
 
-## Wofür dieser Skill da ist
-Gebietszusagen, Sonderkunden, Mindestprovision, Investitionsschutz, Rangfolge und Schriftform.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Side Letter und Nebenabreden im Handelsvertretervertrag — Wirksamkeit und Risiken.
+Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X behauptet, Unternehmer Y habe ihm mündlich eine Provisionserhöhung zugesagt; Y bestreitet dies und verweist auf die schriftliche Schriftformklausel.
+- Unternehmer Y hat einem bevorzugten Handelsvertreter X einen Side Letter mit Sonderkonditionen unterzeichnet; nach Richtungswechsel will Y den Side Letter nicht mehr gelten lassen.
+- Handelsvertreter X hat in einem E-Mail-Wechsel mit Unternehmer Y eine Bezirkserweiterung vereinbart; Y bestreitet die Verbindlichkeit, weil der Hauptvertrag eine Schriftformklausel enthält.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Side Letter auf Wirksamkeit und Bindungswirkung prüfen.
+2. Schriftformklausel im Hauptvertrag auf Wirkung für Nebenabreden analysieren.
+3. Mündliche Zusagen auf Beweisbarkeit und Bindungswirkung beurteilen.
+4. E-Mail-Vereinbarungen auf Unterschrift und Schriftformkonformität prüfen.
+5. Innerer Widerspruch zwischen Hauptvertrag und Side Letter auflösen.
+6. Risiken für Vertragskonsistenz und zukünftige Streitigkeiten aufzeigen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB; BGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 125 BGB — Formfehlerhaftigkeit bei Verstoß gegen gesetzliche Schriftform
+- § 127 BGB — Vertragliche Schriftformklauseln
+- § 305b BGB — Vorrang individueller Abreden (Side Letter) vor AGB
+- § 133 BGB — Auslegung von Willenserklärungen
+- § 157 BGB — Auslegung von Verträgen nach Treu und Glauben
+- § 86a HGB — Pflichten des Unternehmers aus mündlichen Zusagen
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Ist der Side Letter schriftlich und von beiden Parteien unterzeichnet?
+- Verdrängt der Side Letter als individuelle Abrede AGB-Klauseln nach § 305b BGB?
+- Macht die Schriftformklausel mündliche Nebenabreden unwirksam?
+- Ist der Side Letter mit dem Hauptvertrag vereinbar oder widerspricht er ihm?
+- Wie kann der Inhalt des Side Letters im Streitfall bewiesen werden?
+- Welche Risiken entstehen durch widersprüchliche Regelungen?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Side-Letter-Check. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Mündliche Zusagen nicht beweisbar — Handelsvertreter verliert trotz Vereinbarung.
+- Schriftformklausel macht schriftlichen Side Letter unwirksam — Auslegungsfehler.
+- Individuell ausgehandelte Side-Letter-Klausel verdrängt AGB — nicht erkannt.
+- Widersprüchliche Regelungen in Hauptvertrag und Side Letter — Unklarheiten gehen zu Lasten des Verwenders.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Side-Letter-Prüfvermerk, Vertragskonsolidierung, Beweisführungsstrategie.
+
+## Hintergrund und Kontext
+
+Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
+Es gilt als Sonderprivatrecht zwischen Arbeits- und allgemeinem Handelsrecht.
+Die EU-Handelsvertreterrichtlinie 86/653/EWG setzt europäische Mindeststandards.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Buchauszug, Ausgleich bei Vertragsende.
+Nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Delkredere (§ 86b HGB) regeln Sonderlagen.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Für grenzüberschreitende Sachverhalte bestimmt die Rom-I-Verordnung das anwendbare Recht.
+Zwingende Normen wie Ausgleich (§ 89b HGB) und Buchauszug (§ 87c HGB) stehen nicht zur Disposition.
+Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach § 7a SGB IV maßgeblich.
+
+## Quellen
+
+- [§ 125 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__125.html)
+- [§ 305b BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__305b.html)
+- [§ 133 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
+- [§ 127 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__127.html)
+- [Dejure § 305b BGB](https://dejure.org/gesetze/BGB/305b.html)

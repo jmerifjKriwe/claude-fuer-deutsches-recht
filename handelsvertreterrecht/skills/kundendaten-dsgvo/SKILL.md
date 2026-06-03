@@ -1,48 +1,79 @@
 ---
 name: kundendaten-dsgvo
-description: "Prüft Kundendaten nach Vertragsende."
+description: 'Analysiert datenschutzrechtliche Pflichten beim Umgang mit Kundendaten im Handelsvertretervertrag nach DSGVO und § 88 HGB: Rechtsgrundlagen für Verarbeitung, Herausgabepflichten von Kundendaten bei Vertragsende, Datenschutz-Folgenabschätzung bei CRM-Einsatz sowie Bußgeldrisiken bei Datenschutzverstößen.'
 ---
 
-# Kundendaten DSGVO
+# Kundendaten und DSGVO im Handelsvertretervertrag nach § 88 HGB und DSGVO
 
-## Wofür dieser Skill da ist
-Herausgabe, Kopie, Löschung, Beweissicherung, Buchauszug und Geschäftsgeheimnisse.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Kundendaten und DSGVO im Handelsvertretervertrag nach § 88 HGB und DSGVO.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X hat während der Vertragslaufzeit umfangreiche Kundendaten gesammelt; bei Vertragsende streitet er mit Unternehmer Y, wem diese Daten gehören.
+- Unternehmer Y erhält eine Anfrage der Datenschutzbehörde, weil sein Handelsvertreter X Kundendaten ohne Rechtsgrundlage an Dritte weitergegeben hat.
+- Handelsvertreter X fragt, ob er nach Vertragsende noch Kundendaten für eigene Werbezwecke nutzen darf oder ob dies gegen die DSGVO und § 88 HGB verstößt.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Rechtsgrundlage für Kundendatenverarbeitung nach Art. 6 DSGVO klären.
+2. Dateneigentum und Herausgabepflicht bei Vertragsende nach § 88 HGB analysieren.
+3. Auftragsverarbeitungsvertrag nach Art. 28 DSGVO prüfen oder abschließen.
+4. Nutzungsverbot für Kundendaten nach Vertragsende aus § 88 HGB ableiten.
+5. Datenschutz-Folgenabschätzung bei CRM-Einsatz nach Art. 35 DSGVO prüfen.
+6. Bußgeldrisiken nach Art. 83 DSGVO bei Datenschutzverstößen einschätzen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: DSGVO; § 90 HGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 88 HGB — Geheimhaltungspflicht und Verwendungsverbot für Kundendaten nach Vertragsende
+- Art. 6 DSGVO — Rechtmäßigkeit der Verarbeitung personenbezogener Daten
+- Art. 28 DSGVO — Auftragsverarbeitungsvertrag
+- Art. 35 DSGVO — Datenschutz-Folgenabschätzung
+- Art. 83 DSGVO — Bußgelder bei Verstößen
+- § 26 BDSG — Datenverarbeitung für Beschäftigungszwecke (analog für Handelsvertreter)
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Auf welcher Rechtsgrundlage verarbeitet der Handelsvertreter Kundendaten?
+- Wem gehören die Kundendaten nach Vertragsende?
+- Darf der Handelsvertreter Kundendaten nach Vertragsende für eigene Zwecke nutzen?
+- Besteht eine Pflicht zum Abschluss eines AVV nach Art. 28 DSGVO?
+- Welche Löschfristen gelten für Kundendaten nach Vertragsende?
+- Drohen Bußgelder nach Art. 83 DSGVO wegen Datenschutzverstößen?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Datenrückgabeplan. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Nutzung von Kundendaten nach Vertragsende für eigene Zwecke — Verstoß gegen § 88 HGB und DSGVO.
+- Fehlendes AVV nach Art. 28 DSGVO — erhöhtes Bußgeldrisiko.
+- Dateneigentum nicht vertraglich geregelt — Streit über Herausgabepflicht.
+- Löschpflichten nach DSGVO nach Vertragsende nicht umgesetzt.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+DSGVO-Compliance-Prüfung Handelsvertreter, AVV-Entwurf, Herausgabeverlangen Kundendaten.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt.
+Zwingende Vorschriften nach § 92c HGB können nicht abgebedungen werden;
+entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte (§ 87c HGB), Geheimhaltungspflicht (§ 88 HGB) und Delkredere (§ 86b HGB)
+ergänzen das Recht praxisnah.
+
+## Quellen
+
+- [§ 88 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__88.html)
+- [Art. 6 DSGVO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679)
+- [Art. 28 DSGVO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679)
+- [Art. 83 DSGVO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679)
+- [Dejure § 88 HGB](https://dejure.org/gesetze/HGB/88.html)

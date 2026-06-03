@@ -1,48 +1,80 @@
 ---
 name: abrechnung-und-buchauszug
-description: "Prüft Abrechnung und Buchauszug."
+description: 'Unterstützt Handelsvertreter und Unternehmer bei Streitigkeiten über Provisionsabrechnungen und den Buchauszug nach § 87c HGB: Prüfung von Vollständigkeit und Richtigkeit der Abrechnung, Formulierung von Buchauszugsverlangen, Klageerhebung bei Verweigerung sowie Auswertung übergebener Daten auf Lücken und Stornoreserven.'
 ---
 
-# Abrechnung Und Buchauszug
+# Provisionsabrechnung und Buchauszug nach § 87c HGB
 
-## Wofür dieser Skill da ist
-Vollständigkeit, Perioden, Kunden, Aufträge, Stornos, Rabatte, Buchauszug, Einsicht und Klage.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Provisionsabrechnung und Buchauszug nach § 87c HGB.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie einschlägige BGH- und EuGH-Rechtsprechung ein.
+Der Skill zielt auf konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X stellt fest, dass Unternehmer Y seit 18 Monaten keine vollständige Provisionsabrechnung übermittelt; X verlangt Buchauszug über alle vermittelten und abgeschlossenen Geschäfte nach § 87c Abs. 2 HGB.
+- Unternehmer Y bestreitet, dass bestimmte Kunden vom Bezirk des X umfasst waren; X klagt auf Erteilung des Buchauszugs und ergänzende Auskunft.
+- Handelsvertreterin Z prüft, ob die vom Unternehmer vorgelegte Abrechnung alle provisionspflichtigen Geschäfte enthält, insbesondere Direktabschlüsse und Folgegeschäfte.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Vertrag und Provisionsvereinbarungen sichten; Abrechnungszeitraum und Rückstände bestimmen.
+2. Schriftliches Buchauszugsverlangen nach § 87c Abs. 2 HGB formulieren und per Einschreiben übersenden.
+3. Gelieferte Buchauszüge auf Vollständigkeit prüfen: alle Kunden, Aufträge, Umsätze, Rabatte, Stornos.
+4. Fehlende Positionen in Differenzaufstellung erfassen und Nachforderung beziffern.
+5. Bei Verweigerung: Klage auf Erteilung des Buchauszugs (Stufenklage nach § 254 ZPO) vorbereiten.
+6. Verjährungsfristen nach § 195 BGB (3 Jahre) und Beginn nach § 199 BGB prüfen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: § 87c HGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 87c HGB — Provisionsabrechnung und Buchauszugsanspruch des Handelsvertreters
+- § 87 HGB — Provisionsanspruch und provisionspflichtige Geschäfte
+- § 87a HGB — Entstehung und Fälligkeit des Provisionsanspruchs
+- § 254 ZPO — Stufenklage (Auskunft und Leistung)
+- § 195 BGB — Regelmäßige Verjährungsfrist drei Jahre
+- Art. 12 RL 86/653/EWG — Provisionsanspruch des Handelsvertreters
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Ist der Buchauszugsanspruch entstanden (Handelsvertretervertrag, provisionspflichtige Geschäfte)?
+- Umfasst der vorgelegte Buchauszug alle vertragsrelevanten Geschäfte und Kunden?
+- Wurden Stornoreserven oder Rückbuchungen korrekt und nachvollziehbar ausgewiesen?
+- Ist der Abrechnungszeitraum vollständig abgedeckt, einschließlich Direktgeschäfte des Unternehmers?
+- Besteht ein ergänzender Auskunftsanspruch nach § 87c Abs. 2 HGB bei unklaren Positionen?
+- Sind Verjährungsfristen für einzelne Abrechnungsperioden bereits abgelaufen?
+- Kommt eine Stufenklage auf Buchauszug, Abrechnung und Zahlung in Betracht?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Buchauszug-Anforderung. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Buchauszugsverlangen nicht schriftlich oder ohne genaue Periodenangabe gestellt — Beweisschwierigkeiten.
+- Verjährung einzelner Provisionsforderungen übersehen, obwohl Buchauszugsanspruch noch offen ist.
+- Unternehmer legt unvollständigen Buchauszug vor; Handelsvertreter akzeptiert ohne Gegenkontrolle.
+- Stornoreserven ohne vertragliche Grundlage einbehalten — Prüfung der AGB-Konformität versäumt.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Buchauszugs-Anforderungsschreiben, Differenzaufstellung mit Nachforderungsberechnung, Entwurf Stufenklage nach § 254 ZPO.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien sind: Selbständigkeit des Handelsvertreters, Provisionsanspruch, Informationsrechte,
+Ausgleichsanspruch bei Vertragsende sowie Schutz vor einseitiger Benachteiligung.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt,
+insbesondere zur Berechnung des Ausgleichs, zur Richtlinienkonformität und zu Ausschlussgründen.
+Praktisch relevant sind insbesondere: Provisionsabrechnungen und Buchauszug (§ 87c HGB),
+nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Ausgleichsanspruch (§ 89b HGB).
+Zwingende Vorschriften zum Schutz des Handelsvertreters nach § 92c HGB können vertraglich
+nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+
+## Quellen
+
+- [§ 87c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87c.html)
+- [§ 87 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87.html)
+- [§ 254 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__254.html)
+- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [Dejure § 87c HGB](https://dejure.org/gesetze/HGB/87c.html)

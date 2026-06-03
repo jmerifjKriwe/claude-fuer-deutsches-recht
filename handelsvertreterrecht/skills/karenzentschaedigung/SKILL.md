@@ -1,48 +1,79 @@
 ---
 name: karenzentschaedigung
-description: "Berechnet und verhandelt Karenzentschädigung."
+description: 'Prüft Karenzentschädigung nach § 90a HGB: Mindesthöhe der Entschädigung (50 % der zuletzt bezogenen Vergütung), Zahlungsmodalitäten, Entfall bei Kündigung aus wichtigem Grund durch den Unternehmer, Loslösungsrecht des Handelsvertreters bei unzureichender Karenzentschädigung sowie AGB-Kontrolle von Entschädigungsklauseln.'
 ---
 
-# Karenzentschaedigung
+# Karenzentschädigung nach § 90a HGB beim nachvertraglichen Wettbewerbsverbot
 
-## Wofür dieser Skill da ist
-Grundlage, Dauer, Fälligkeit, Anrechnung, Verzicht und Vergleich.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Karenzentschädigung nach § 90a HGB beim nachvertraglichen Wettbewerbsverbot.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X hat ein zweijähriges nachvertragliches Wettbewerbsverbot unterzeichnet; Unternehmer Y zahlt keine Karenzentschädigung und behauptet, das Wettbewerbsverbot sei unverbindlich.
+- Handelsvertreter X wird wegen Verstoßes gegen das Wettbewerbsverbot von Unternehmer Y auf Schadensersatz in Anspruch genommen; X prüft, ob er das Wettbewerbsverbot wegen fehlender Karenzentschädigung nicht einhalten musste.
+- Unternehmer Y kündigt außerordentlich; Handelsvertreter X fragt, ob er trotz des Wettbewerbsverbots die Entschädigungszahlungen erhält.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Wettbewerbsverbotsklausel nach § 90a HGB auf Formgültigkeit (Schriftform, Urkunde) prüfen.
+2. Karenzentschädigung nach § 90a Abs. 1 S. 3 HGB berechnen: mind. 50 % der letzten Jahresvergütung.
+3. Anspruch auf Entschädigung monatlich durchsetzen (§ 90a Abs. 1 S. 2 HGB).
+4. Bei unzureichender oder fehlender Entschädigung: Loslösungsrecht nach § 90a Abs. 2 HGB prüfen.
+5. Kündigungsfolgen auf Karenzentschädigung nach § 90a Abs. 3 HGB analysieren.
+6. AGB-Kontrolle der Entschädigungsklausel nach § 307 BGB vornehmen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: § 90a HGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 90a Abs. 1 HGB — Wettbewerbsverbot: Schriftform und Karenzentschädigung
+- § 90a Abs. 1 S. 3 HGB — Mindesthöhe der Karenzentschädigung
+- § 90a Abs. 2 HGB — Loslösungsrecht bei unzureichender Entschädigung
+- § 90a Abs. 3 HGB — Entfall der Entschädigungspflicht bei unberechtigter Kündigung durch den Handelsvertreter
+- § 307 BGB — AGB-Kontrolle von Karenzklauseln
+- Art. 20 RL 86/653/EWG — Wettbewerbsklauseln im europäischen Kontext
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Ist das Wettbewerbsverbot schriftlich mit Urkunde vereinbart?
+- Erreicht die Karenzentschädigung die Mindesthöhe nach § 90a Abs. 1 S. 3 HGB?
+- Zahlt der Unternehmer die Entschädigung monatlich während der Karenzzeit?
+- Hat der Handelsvertreter das Loslösungsrecht nach § 90a Abs. 2 HGB ausgeübt?
+- Entfällt die Entschädigungspflicht wegen Kündigung des Handelsvertreters ohne wichtigen Grund?
+- Hat der Unternehmer außerordentlich gekündigt — bleibt das Wettbewerbsverbot verbindlich?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Karenzberechnung. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Karenzentschädigung unter der Mindesthöhe — Wettbewerbsverbot unverbindlich für Handelsvertreter.
+- Loslösungsrecht wegen fehlender Entschädigung nicht fristgerecht ausgeübt.
+- Kündigung durch Unternehmer aus wichtigem Grund — Wettbewerbsverbot bleibt bestehen.
+- Monatliche Ratenzahlung nicht vereinbart — Einmalzahlung setzt Entschädigung nicht rechtzeitig um.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Karenzentschädigungsberechnung, Loslösungserklärung Entwurf, Klage auf Karenzentschädigung.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt.
+Zwingende Vorschriften nach § 92c HGB können nicht abgebedungen werden;
+entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte (§ 87c HGB), Geheimhaltungspflicht (§ 88 HGB) und Delkredere (§ 86b HGB)
+ergänzen das Recht praxisnah.
+
+## Quellen
+
+- [§ 90a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__90a.html)
+- [§ 307 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__307.html)
+- [Art. 20 RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [Dejure § 90a HGB](https://dejure.org/gesetze/HGB/90a.html)
+- [BGH Rechtsprechung Openjur](https://openjur.de/)

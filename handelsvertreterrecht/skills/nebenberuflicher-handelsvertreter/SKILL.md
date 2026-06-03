@@ -1,48 +1,79 @@
 ---
 name: nebenberuflicher-handelsvertreter
-description: "Prüft nebenberufliche Handelsvertreter und Sonderregeln."
+description: 'Analysiert die Rechtsstellung des nebenberuflichen Handelsvertreters: Vollständige Anwendung der §§ 84-92c HGB, Besonderheiten bei geringem Vertragsumfang, Scheinselbständigkeit bei nur einem Auftraggeber, Sozialversicherungsrecht sowie Steuerrecht für nebenberufliche Selbständige.'
 ---
 
-# Nebenberuflicher Handelsvertreter
+# Nebenberuflicher Handelsvertreter — HGB-Recht und Sozialversicherung
 
-## Wofür dieser Skill da ist
-Tätigkeitsumfang, Vergütung, Schutz, Kündigung, Ausgleich und Vertragsklauseln.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Nebenberuflicher Handelsvertreter — HGB-Recht und Sozialversicherung.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X betreibt die Handelsvertretung nebenberuflich neben seinem Angestelltenverhältnis; nach Kündigung des Vertretervertrags prüft er den Ausgleichsanspruch nach § 89b HGB.
+- Nebenberuflicher Handelsvertreter X hat nur einen einzigen Auftraggeber Y; er prüft, ob dies zur Scheinselbständigkeit führt und welche Konsequenzen das für seinen Ausgleich hat.
+- Unternehmer Y kündigt dem nebenberuflichen Handelsvertreter X und bestreitet den Ausgleich mit dem Argument, X habe aufgrund seines Angestelltenverhältnisses keinen finanziellen Bedarf.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Anwendbarkeit der §§ 84-92c HGB auf nebenberufliche Handelsvertreter bestätigen.
+2. Scheinselbständigkeit prüfen: wirtschaftliche Abhängigkeit bei nur einem Auftraggeber.
+3. Sozialversicherungsrechtlichen Status des nebenberuflichen Handelsvertreters klären.
+4. Ausgleichsanspruch nach § 89b HGB berechnen — kein Ausschluss wegen Nebenberuf.
+5. Steuerrechtliche Behandlung der nebenberuflichen Handelsvertretereinkünfte.
+6. Doppelte Einnahmen aus Anstellung und Handelsvertretung auf Konsequenzen prüfen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB Nebenberuf live.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 84 HGB — Selbständigkeit des Handelsvertreters auch im Nebenberuf
+- § 89b HGB — Ausgleichsanspruch ohne Einschränkung für Nebenberufler
+- § 92a HGB — Arbeitnehmerähnliche Handelsvertreter
+- § 7 SGB IV — Scheinselbständigkeit bei Hauptauftraggeber-Abhängigkeit
+- § 18 EStG — Einkünfte aus selbständiger Arbeit
+- Art. 1 Abs. 2 RL 86/653/EWG — Anwendungsbereich der Handelsvertreterrichtlinie
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Gilt das Handelsvertreterrecht auch bei nebenberuflicher Tätigkeit?
+- Liegt Scheinselbständigkeit wegen wirtschaftlicher Abhängigkeit von einem Auftraggeber vor?
+- Besteht ein Ausgleichsanspruch nach § 89b HGB trotz Nebenberuf?
+- Ist der Nebenberufler sozialversicherungspflichtig als Beschäftigter?
+- Hat der Nebenberuf Auswirkungen auf die Höhe des Ausgleichs?
+- Sind steuerrechtliche Pflichten als nebenberuflicher Selbständiger erfüllt?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Nebenberufsvermerk. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Ausgleich irrtümlich verneint wegen Nebenberuf — § 89b HGB gilt uneingeschränkt.
+- Scheinselbständigkeit mit Arbeitnehmerähnlichkeit verwechselt.
+- Sozialversicherungspflicht übersehen — Nachforderungsrisiko.
+- Nebenberufliche Handelsvertretereinkünfte steuerlich nicht deklariert.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Statusprüfung nebenberuflicher Handelsvertreter, Ausgleichsberechnung, Steuerliche Einordnung.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geklärt.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter zwingend.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) und Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte (§ 87c HGB), Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB)
+ergänzen den praxisrelevanten Rechtsrahmen.
+Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwendbare Recht.
+
+## Quellen
+
+- [§ 84 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__84.html)
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [§ 7 SGB IV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_4/__7.html)
+- [§ 92a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__92a.html)
+- [Dejure § 84 HGB](https://dejure.org/gesetze/HGB/84.html)

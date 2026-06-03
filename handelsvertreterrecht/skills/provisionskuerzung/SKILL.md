@@ -1,48 +1,79 @@
 ---
 name: provisionskuerzung
-description: "Prüft einseitige Provisionskürzungen."
+description: 'Analysiert unberechtigte Provisionskürzungen durch den Unternehmer: Zulässigkeit von Stornoreserven, Rückforderungen ausgezahlter Provision, AGB-Kontrolle von Kürzungsklauseln sowie Gegenforderungen des Handelsvertreters und Prozessstrategie bei systematischen Provisionskürzungen.'
 ---
 
-# Provisionskuerzung
+# Unberechtigte Provisionskürzungen — Stornoreserven und Rückforderungen nach § 87a HGB
 
-## Wofür dieser Skill da ist
-Änderungsvorbehalt, AGB, Zustimmung, Treu und Glauben, Zukunft/Vergangenheit und Beweise.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Unberechtigte Provisionskürzungen — Stornoreserven und Rückforderungen nach § 87a HGB.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Für internationale Sachverhalte gilt die Rom-I-Verordnung für das anwendbare Recht.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X stellt fest, dass Unternehmer Y in jeder Monatsabrechnung pauschal 15 % Stornoreserve einbehält, obwohl die Stornoquote deutlich darunter liegt.
+- Unternehmer Y fordert vom Handelsvertreter X ausgezahlte Provisionen für stornierte Verträge zurück; X prüft, ob die Rückforderung nach § 87a Abs. 2 HGB zulässig ist.
+- Handelsvertreter X hat eine Klausel im Vertrag, die den Unternehmer Y berechtigt, Provisionen zu kürzen, wenn der Jahresumsatz unter einem Mindestwert bleibt; X prüft die AGB-Konformität.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Stornoreserveneinbehalt auf vertragliche Grundlage und Höhe prüfen.
+2. Rückforderungsrecht des Unternehmers nach § 87a Abs. 2 HGB und § 87a Abs. 3 HGB klären.
+3. AGB-Kontrolle von Provisionskürzungsklauseln nach § 307 BGB.
+4. Buchauszug anfordern, um tatsächliche Stornoquote zu ermitteln.
+5. Differenzbetrag zwischen einbehaltener Stornoreserve und tatsächlichen Stornos einklagen.
+6. Gegenansprüche des Handelsvertreters bei unberechtigten Kürzungen geltend machen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB; BGB AGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 87a Abs. 2 HGB — Rückforderung der Provision bei Nichtausführung durch Unternehmer
+- § 87a Abs. 3 HGB — Provision bleibt bei verschuldeter Nichtausführung durch Unternehmer
+- § 87c HGB — Buchauszug zur Überprüfung von Stornos
+- § 307 BGB — AGB-Kontrolle von Kürzungsklauseln
+- § 280 BGB — Schadensersatz bei unberechtigter Kürzung
+- Art. 10 RL 86/653/EWG — Rückforderungsrecht nur bei bestimmten Voraussetzungen
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Ist die Stornoreserve der Höhe nach vertraglich vereinbart und verhältnismäßig?
+- Entspricht die Rückforderung den Voraussetzungen des § 87a Abs. 2 HGB?
+- Hat der Unternehmer das Geschäft aus einem ihm zurechenbaren Grund nicht ausgeführt?
+- Ist die Kürzungsklausel nach § 307 BGB wirksam?
+- Wie hoch ist der Differenzbetrag zwischen Stornoreserve und tatsächlichen Stornos?
+- Hat der Handelsvertreter Gegenforderungen bei unberechtigten Kürzungen?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Kürzungsabwehr. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Pauschal-Stornoreserve ohne vertragliche Grundlage einbehalten — Rückzahlung gefordert.
+- Rückforderung auch bei vom Unternehmer verursachtem Stornogrund — § 87a Abs. 3 HGB verletzt.
+- Kürzungsklausel nach § 307 BGB nichtig — volle Provision geschuldet.
+- Buchauszug nicht ausgewertet — Differenzbetrag falsch berechnet.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Provisionskürzungsanalyse, Rückforderungsabwehr, Klageschriftentwurf auf Nachzahlung.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben das Handelsvertreterrecht durch zentrale Leitentscheidungen geprägt.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) und Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen das Recht.
+
+## Quellen
+
+- [§ 87a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87a.html)
+- [§ 87c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87c.html)
+- [§ 307 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__307.html)
+- [Art. 10 RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [Dejure § 87a HGB](https://dejure.org/gesetze/HGB/87a.html)

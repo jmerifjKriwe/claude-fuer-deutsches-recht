@@ -1,48 +1,79 @@
 ---
 name: sozialversicherung-status
-description: "Prüft Sozialversicherungsstatus des Vertreters."
+description: 'Bestimmt den sozialversicherungsrechtlichen Status des Handelsvertreters nach § 7 SGB IV: Unterschied zwischen Selbständigen (nicht versicherungspflichtig) und Scheinselbständigen (versicherungspflichtig), Statusfeststellungsverfahren nach § 7a SGB IV, Nachzahlungsrisiken sowie Rentenversicherungspflicht für Selbständige nach § 2 SGB VI.'
 ---
 
-# Sozialversicherung Status
+# Sozialversicherungsstatus des Handelsvertreters nach § 7 SGB IV und § 84 HGB
 
-## Wofür dieser Skill da ist
-Ein Auftraggeber, keine Beschäftigten, Weisungen, DRV, Rentenversicherungspflicht und Nachzahlung.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Sozialversicherungsstatus des Handelsvertreters nach § 7 SGB IV und § 84 HGB.
+Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X ist seit drei Jahren als Selbständiger tätig; die DRV eröffnet ein Statusfeststellungsverfahren und prüft, ob ein Beschäftigungsverhältnis vorliegt.
+- Unternehmer Y erhält einen Bescheid der Sozialversicherung über Nachzahlungen für seinen Handelsvertreter X wegen rückwirkend festgestellter Scheinselbständigkeit.
+- Selbständiger Handelsvertreter X fragt, ob er als Selbständiger zur Rentenversicherung nach § 2 SGB VI beitragen muss.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Statusfeststellungsverfahren nach § 7a SGB IV initiieren oder abwehren.
+2. Selbständigkeitsmerkmale nach § 84 HGB für das Statusfeststellungsverfahren dokumentieren.
+3. Rentenversicherungspflicht nach § 2 SGB VI für Selbständige prüfen.
+4. Nachzahlungsrisiken bei rückwirkender Feststellung berechnen.
+5. Verjährung von Sozialversicherungsansprüchen nach §§ 27 und 28 SGB IV prüfen.
+6. Vertragsgestaltung zur Sicherung des Handelsvertreter-Status optimieren.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: SGB IV/VI; § 84 HGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 84 Abs. 1 HGB — Selbständigkeit des Handelsvertreters
+- § 7 SGB IV — Begriff der Beschäftigung und Abgrenzungskriterien
+- § 7a SGB IV — Statusfeststellungsverfahren
+- § 2 SGB VI — Rentenversicherungspflicht Selbständiger
+- § 25 SGB IV — Verjährung von Sozialversicherungsansprüchen
+- § 28e SGB IV — Haftung des Arbeitgebers für Beitragsnachzahlungen
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Erfüllt der Handelsvertreter die Merkmale der Selbständigkeit nach § 84 HGB?
+- Besteht Rentenversicherungspflicht nach § 2 SGB VI als Selbständiger?
+- Sind Nachzahlungsrisiken durch rückwirkende Statusfeststellung vorhanden?
+- Innerhalb welcher Frist können Sozialversicherungsansprüche geltend gemacht werden?
+- Hat der Unternehmer ausreichend dokumentiert, dass kein Beschäftigungsverhältnis vorliegt?
+- Ist ein proaktives Statusfeststellungsverfahren sinnvoll?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: DRV-Statusmemo. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Rentenversicherungspflicht nach § 2 SGB VI für Selbständige übersehen.
+- Keine proaktive Statusklärung — jahrelange Ungewissheit und Nachzahlungsrisiko.
+- Rückwirkende Nachzahlungspflicht von bis zu vier Jahren nicht eingeplant.
+- Scheinselbständigkeit und Arbeitnehmerähnlichkeit nach § 92a HGB verwechselt.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Sozialversicherungs-Statusprüfung, Statusfeststellungsantrag, Nachzahlungsberechnung.
+
+## Hintergrund und Kontext
+
+Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
+Es gilt als Sonderprivatrecht zwischen Arbeits- und allgemeinem Handelsrecht.
+Die EU-Handelsvertreterrichtlinie 86/653/EWG setzt europäische Mindeststandards.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Buchauszug, Ausgleich bei Vertragsende.
+Nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Delkredere (§ 86b HGB) regeln Sonderlagen.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Für grenzüberschreitende Sachverhalte bestimmt die Rom-I-Verordnung das anwendbare Recht.
+Zwingende Normen wie Ausgleich (§ 89b HGB) und Buchauszug (§ 87c HGB) stehen nicht zur Disposition.
+Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach § 7a SGB IV maßgeblich.
+
+## Quellen
+
+- [§ 7 SGB IV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_4/__7.html)
+- [§ 7a SGB IV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_4/__7a.html)
+- [§ 2 SGB VI auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_6/__2.html)
+- [§ 84 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__84.html)
+- [Dejure § 7 SGB IV](https://dejure.org/gesetze/SGB_IV/7.html)

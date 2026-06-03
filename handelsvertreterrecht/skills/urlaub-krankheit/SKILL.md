@@ -1,48 +1,79 @@
 ---
 name: urlaub-krankheit
-description: "Prüft Krankheit, Urlaub und Vertretung im Vertreterverhältnis."
+description: 'Prüft Regelungen zu Urlaub, Krankheit und Verhinderung im Handelsvertreterverhältnis: kein gesetzlicher Urlaubsanspruch nach BUrlG für Selbständige, Auswirkungen längerer Krankheit auf Provisionsansprüche und Vertragspflichten, Sonderkündigungsrecht nach § 89 Abs. 3 HGB sowie vertragliche Vereinbarungen zu Vertretung und Ausfall.'
 ---
 
-# Urlaub Krankheit
+# Urlaub und Krankheit im Handelsvertreterverhältnis — Rechte und Pflichten
 
-## Wofür dieser Skill da ist
-Selbständigkeit wahren, Mindestleistung, Kommunikation, Vertretung, Provisionsausfall.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Urlaub und Krankheit im Handelsvertreterverhältnis — Rechte und Pflichten.
+Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X fällt für drei Monate wegen einer Erkrankung aus; er fragt, ob er weiterhin Provision für laufende Verträge erhält und ob der Unternehmer Y kündigen darf.
+- Unternehmer Y möchte im Handelsvertretervertrag einen Urlaubsanspruch und eine Urlaubsvergütung für Handelsvertreter X vereinbaren; er fragt, ob dies rechtlich zulässig ist.
+- Handelsvertreter X hat über 60 Jahre einen Herzinfarkt erlitten und ist dauerhaft arbeitsunfähig; er fragt, ob das Sonderkündigungsrecht nach § 89 Abs. 3 HGB für ihn oder den Unternehmer gilt.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Provisionsansprüche bei Krankheit auf Fortbestand oder Wegfall prüfen.
+2. Sonderkündigungsrecht nach § 89 Abs. 3 HGB bei dauerhafter Erkrankung prüfen.
+3. Vertragliche Vertretungsregelung für Krankheits- und Urlaubsfälle prüfen.
+4. Auswirkung der Erkrankung auf den Ausgleichsanspruch nach § 89b HGB bei Kündigung klären.
+5. Krankentagegeld und private Krankenversicherung des Selbständigen empfehlen.
+6. Urlaubsvereinbarung auf Zulässigkeit und AGB-Konformität prüfen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB; Statusrecht.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 89 Abs. 3 HGB — Sonderkündigungsrecht bei dauerhafter Arbeitsunfähigkeit
+- § 87 HGB — Provisionsanspruch: Auswirkung von Krankheit auf laufende Verträge
+- § 89b HGB — Ausgleich bei Kündigung wegen Krankheit
+- § 2 BUrlG — Kein gesetzlicher Urlaubsanspruch für Selbständige
+- § 616 BGB — Vorübergehende Verhinderung (nur bei Arbeitnehmern)
+- § 92c HGB — Zwingende Normen auch bei krankheitsbedingter Kündigung
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Besteht ein Provisionsanspruch für laufende Verträge trotz Erkrankung des Handelsvertreters?
+- Ist eine Kündigung wegen dauerhafter Krankheit nach § 89 Abs. 3 HGB zulässig?
+- Welche Kündigungsfrist gilt bei der Sonderkündigung wegen Erkrankung?
+- Hat der krankheitsbedingt gekündigte Handelsvertreter Ausgleich nach § 89b HGB?
+- Ist eine vertragliche Urlaubsvereinbarung für Handelsvertreter wirksam?
+- Wie sollte eine Vertretungsregelung für Krankheitsfälle ausgestaltet werden?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Ausfallregelung. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Kündigung wegen Erkrankung ohne Sonderkündigungsrecht nach § 89 Abs. 3 HGB — unwirksam.
+- Provisionsanspruch bei vorübergehender Krankheit irrtümlich eingestellt.
+- Ausgleichsanspruch bei krankheitsbedingter Kündigung nicht geltend gemacht.
+- Kein privater Krankenversicherungsschutz — finanzielle Notlage bei langer Erkrankung.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Krankenfall-Analyse, Kündigungsschreiben nach § 89 Abs. 3 HGB, Provisionsberechnung bei Ausfall.
+
+## Hintergrund und Kontext
+
+Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
+Es gilt als Sonderprivatrecht zwischen Arbeits- und allgemeinem Handelsrecht.
+Die EU-Handelsvertreterrichtlinie 86/653/EWG setzt europäische Mindeststandards.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Buchauszug, Ausgleich bei Vertragsende.
+Nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Delkredere (§ 86b HGB) regeln Sonderlagen.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Für grenzüberschreitende Sachverhalte bestimmt die Rom-I-Verordnung das anwendbare Recht.
+Zwingende Normen wie Ausgleich (§ 89b HGB) und Buchauszug (§ 87c HGB) stehen nicht zur Disposition.
+Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach § 7a SGB IV maßgeblich.
+
+## Quellen
+
+- [§ 89 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89.html)
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [§ 87 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87.html)
+- [§ 2 BUrlG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/burlg/__2.html)
+- [Dejure § 89 HGB](https://dejure.org/gesetze/HGB/89.html)

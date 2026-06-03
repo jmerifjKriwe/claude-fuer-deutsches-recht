@@ -1,48 +1,79 @@
 ---
 name: nachfolge-agenturverkauf
-description: "Prüft Verkauf oder Nachfolge der Vertreteragentur."
+description: 'Analysiert den Verkauf einer Handelsvertretungsagentur: Übertragung des Vertretervertrags mit Zustimmung des Unternehmers, Auswirkungen auf Ausgleichsanspruch nach § 89b Abs. 3 Nr. 3 HGB, Kaufpreisermittlung für den Kundenstamm, Wettbewerbsklauseln im Agenturverkauf und Regelungen zur Nachfolge.'
 ---
 
-# Nachfolge Agenturverkauf
+# Agenturverkauf und Nachfolge im Handelsvertreterrecht
 
-## Wofür dieser Skill da ist
-Übertragung, Zustimmung, Kundendaten, Ausgleich, Wettbewerbsverbot und Kaufpreis.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Agenturverkauf und Nachfolge im Handelsvertreterrecht.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X möchte seine Agentur an Nachfolger N verkaufen; Unternehmer Y muss zustimmen; X prüft, ob er danach noch Ausgleich verlangen kann.
+- Handelsvertreter X übernimmt die Agentur von Vorgänger V; er fragt, welche Rechte und Pflichten auf ihn übergehen und ob er für Altschulden des V haftet.
+- Unternehmer Y prüft, ob er die Zustimmung zum Agenturverkauf von X an N verweigern kann und unter welchen Bedingungen er zustimmen muss.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Zustimmungserfordernis des Unternehmers für die Agenturübertragung im Vertrag prüfen.
+2. Ausgleichsanspruch des Veräußerers nach § 89b Abs. 3 Nr. 3 HGB prüfen — erlischt er?
+3. Kaufpreisermittlung: Kundenstammwert, Provisionshistorie, Goodwill bewerten.
+4. Haftung des Erwerbers für Altverbindlichkeiten des Veräußerers klären.
+5. Wettbewerbsverbot für Veräußerer nach Agenturverkauf vereinbaren.
+6. Übergangszeitraum und Einarbeitungsunterstützung vertraglich regeln.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB; BGB; DSGVO.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 89b Abs. 3 Nr. 3 HGB — Erlöschen des Ausgleichs bei Vertragsübertragung
+- § 89b Abs. 1 HGB — Entstehungsvoraussetzungen des Ausgleichs
+- § 413 BGB — Abtretung des gesamten Vertrags (Vertragsübernahme)
+- § 25 HGB — Haftung des Erwerbers bei Firmenfortführung
+- § 90a HGB — Nachvertragliches Wettbewerbsverbot für Veräußerer
+- Art. 17 RL 86/653/EWG — Ausgleich bei Vertragsende
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Hat der Unternehmer der Agenturübertragung zugestimmt?
+- Erlischt der Ausgleichsanspruch des Veräußerers nach § 89b Abs. 3 Nr. 3 HGB?
+- Wie wird der Kaufpreis für die Agentur ermittelt?
+- Haftet der Erwerber für Altverbindlichkeiten des Veräußerers?
+- Ist ein Wettbewerbsverbot für den Veräußerer nach § 90a HGB notwendig und wirksam?
+- Welche Rechte und Pflichten gehen auf den Erwerber über?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Nachfolgememo. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Agenturübertragung ohne Zustimmung des Unternehmers — unwirksam.
+- Ausgleichsanspruch nach § 89b Abs. 3 Nr. 3 HGB beim Verkauf erlischt — nicht erkannt.
+- Haftung des Erwerbers für Altverbindlichkeiten nicht vertraglich ausgeschlossen.
+- Wettbewerbsverbot für Veräußerer vergessen — sofortige Konkurrenz nach Verkauf.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Agenturkaufvertrag Entwurf, Kaufpreisberechnung, Wettbewerbsverbotsklausel für Veräußerer.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geklärt.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter zwingend.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) und Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte (§ 87c HGB), Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB)
+ergänzen den praxisrelevanten Rechtsrahmen.
+Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwendbare Recht.
+
+## Quellen
+
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [§ 413 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__413.html)
+- [§ 25 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__25.html)
+- [§ 90a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__90a.html)
+- [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)

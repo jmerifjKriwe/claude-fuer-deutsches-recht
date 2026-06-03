@@ -1,48 +1,79 @@
 ---
 name: kundenschutz
-description: "Prüft Kundenschutzklauseln."
+description: 'Prüft Kundenschutzklauseln im Handelsvertretervertrag: Verbot der Direktansprache von Kunden durch den Handelsvertreter während und nach der Vertragslaufzeit, Abgrenzung von erlaubter Allgemeinwerbung und verbotenem gezieltem Abwerben sowie Schadensersatz und Unterlassung bei Verletzung.'
 ---
 
-# Kundenschutz
+# Kundenschutz im Handelsvertretervertrag — Abwerbeverbote und Rechtsfolgen
 
-## Wofür dieser Skill da ist
-Bestandskunden, Neukunden, Leads, Konzernkunden, Direktgeschäft, Laufzeit und AGB.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Kundenschutz im Handelsvertretervertrag — Abwerbeverbote und Rechtsfolgen.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Unternehmer Y stellt fest, dass sein früherer Handelsvertreter X systematisch Kunden angeschrieben und zu seinem neuen Arbeitgeber Z gelockt hat.
+- Handelsvertreter X fragt, ob er nach Vertragsende Kunden von Unternehmer Y ansprechen darf, wenn kein ausdrückliches Wettbewerbsverbot vereinbart ist.
+- Unternehmer Y möchte eine Kundenschutzklausel in den neuen Handelsvertretervertrag aufnehmen und fragt nach Reichweite und AGB-Konformität.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Kundenschutzklausel im Vertrag auf Umfang und Wirksamkeit prüfen.
+2. Abgrenzung erlaubte Allgemeinwerbung vs. verbotene gezielte Abwerbung nach UWG.
+3. Auch ohne ausdrückliche Klausel: Nachwirkungspflicht nach § 242 BGB und UWG prüfen.
+4. Unterlassungsanspruch nach § 8 UWG und Schadensersatz nach § 9 UWG geltend machen.
+5. Einstweilige Verfügung auf Unterlassung bei akuter Abwerbung beantragen.
+6. Beweissicherung für Abwerbungshandlungen (E-Mails, Zeugen) organisieren.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB; BGB; Kartellrecht.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 88 HGB — Nachvertragliche Geheimhaltungs- und Unterlassungspflicht
+- § 1 UWG — Zweck des Lauterkeitsrechts
+- § 4 Nr. 4 UWG — Unlautere gezielte Behinderung durch Mitarbeiterabwerbung
+- § 8 UWG — Unterlassungsanspruch bei UWG-Verstoß
+- § 242 BGB — Treu und Glauben, nachvertragliche Nebenpflichten
+- § 307 BGB — AGB-Kontrolle von Kundenschutzklauseln
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Enthält der Vertrag eine ausdrückliche Kundenschutzklausel?
+- Hat der frühere Handelsvertreter Kunden systematisch und gezielt abgeworben?
+- Liegt auch ohne ausdrückliche Klausel ein Verstoß gegen § 242 BGB oder UWG vor?
+- Ist die Kundenschutzklausel nach AGB-Recht wirksam?
+- Welche Unterlassungs- und Schadensersatzansprüche bestehen?
+- Ist eine einstweilige Verfügung wegen Dringlichkeit zu beantragen?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Kundenschutz-Redline. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Gezielte Abwerbung auch ohne ausdrückliche Klausel wettbewerbswidrig — § 4 Nr. 4 UWG.
+- Einstweilige Verfügung ohne ausreichende Glaubhaftmachung abgewiesen.
+- Kundenschutzklausel zu weit formuliert — nach § 307 BGB nichtig.
+- Beweissicherung für Abwerbung versäumt — Schadensersatzklage scheitert.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Abmahnungsschreiben nach UWG, Antrag auf einstweilige Verfügung, Schadensersatzberechnung.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geklärt.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter zwingend.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) und Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte (§ 87c HGB), Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB)
+ergänzen den praxisrelevanten Rechtsrahmen.
+Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwendbare Recht.
+
+## Quellen
+
+- [§ 88 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__88.html)
+- [§ 4 UWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/uwg_2004/__4.html)
+- [§ 8 UWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/uwg_2004/__8.html)
+- [§ 242 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__242.html)
+- [Dejure § 88 HGB](https://dejure.org/gesetze/HGB/88.html)

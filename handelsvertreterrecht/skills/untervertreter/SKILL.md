@@ -1,48 +1,79 @@
 ---
 name: untervertreter
-description: "Prüft Untervertreter und mehrstufigen Vertrieb."
+description: 'Prüft Rechtsverhältnisse beim Einsatz von Untervertretern: Zulässigkeit der Unterbeauftragung nach § 84 HGB, Haftung des Hauptvertreters für den Untervertreter, Provisionsaufteilung, Vertragsverhältnisse zu Unternehmer und Untervertreter sowie Ausgleichsansprüche beider Ebenen bei Vertragsende.'
 ---
 
-# Untervertreter
+# Untervertreter im Handelsvertreterrecht — Zulässigkeit und Haftung nach § 84 HGB
 
-## Wofür dieser Skill da ist
-Zulässigkeit, Provision, Haftung, Datenschutz, Wettbewerbsverbot und Kündigung.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Untervertreter im Handelsvertreterrecht — Zulässigkeit und Haftung nach § 84 HGB.
+Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X möchte einen Untervertreter Y einsetzen, um ein größeres Vertriebsgebiet abzudecken; er fragt, ob dies ohne Zustimmung des Unternehmers Z zulässig ist.
+- Handelsvertreter X hat einen Untervertreter Y, der eine Pflichtverletzung begangen hat; Unternehmer Z macht X für den Schaden des Y haftbar.
+- Nach Vertragsende fragt Untervertreter Y, ob er gegen Unternehmer Z oder nur gegen den Hauptvertreter X einen Ausgleichsanspruch nach § 89b HGB hat.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Zulässigkeit der Unterbeauftragung im Hauptvertrag zwischen X und Z prüfen.
+2. Haftung des Hauptvertreters X für Handlungen des Untervertreters Y gegenüber Z klären.
+3. Provisionsverteilung zwischen Hauptvertreter und Untervertreter vertraglich regeln.
+4. Direktansprüche des Untervertreters gegen den Unternehmer auf Existenz prüfen.
+5. Ausgleichsansprüche beider Ebenen bei Vertragsende berechnen.
+6. Kündigung und Beendigung des Untervertretervertrages separat regeln.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB; BGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 84 HGB — Zulässigkeit der Unterbeauftragung (keine explizite Regelung)
+- § 86 HGB — Sorgfaltspflicht des Hauptvertreters für Untervertreter
+- § 89b HGB — Ausgleichsanspruch: wer ist anspruchsberechtigt?
+- § 278 BGB — Haftung des Hauptvertreters für Erfüllungsgehilfen
+- § 164 ff. BGB — Vollmacht und Vertretungsrecht des Untervertreters
+- Art. 1 RL 86/653/EWG — Definition des Handelsvertreters
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Ist die Unterbeauftragung vertraglich erlaubt oder bedarf sie der Zustimmung?
+- Haftet der Hauptvertreter nach § 278 BGB für Pflichtverletzungen des Untervertreters?
+- Wie wird die Provision zwischen Haupt- und Untervertreter aufgeteilt?
+- Hat der Untervertreter einen eigenen Ausgleichsanspruch gegen den Unternehmer?
+- Kann der Untervertreter bei Vertragsende seinen Ausgleich vom Hauptvertreter verlangen?
+- Welche Kündigungsfristen gelten für den Untervertretervertrag?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Untervertreter-Check. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Unterbeauftragung ohne Zustimmung des Unternehmers — Vertragsverletzung.
+- Haftung des Hauptvertreters für Untervertreter nach § 278 BGB übersehen.
+- Provisionsaufteilung nicht geregelt — Streit über Höhe der Untervertreterprovision.
+- Ausgleichsanspruch des Untervertreters falsch adressiert — gegen falschen Anspruchsgegner.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Untervertretervertrag Entwurf, Provisionsaufteilungsregelung, Ausgleichsanspruch-Analyse.
+
+## Hintergrund und Kontext
+
+Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
+Es gilt als Sonderprivatrecht zwischen Arbeits- und allgemeinem Handelsrecht.
+Die EU-Handelsvertreterrichtlinie 86/653/EWG setzt europäische Mindeststandards.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Buchauszug, Ausgleich bei Vertragsende.
+Nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Delkredere (§ 86b HGB) regeln Sonderlagen.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Für grenzüberschreitende Sachverhalte bestimmt die Rom-I-Verordnung das anwendbare Recht.
+Zwingende Normen wie Ausgleich (§ 89b HGB) und Buchauszug (§ 87c HGB) stehen nicht zur Disposition.
+Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach § 7a SGB IV maßgeblich.
+
+## Quellen
+
+- [§ 84 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__84.html)
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [§ 278 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__278.html)
+- [§ 86 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__86.html)
+- [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)

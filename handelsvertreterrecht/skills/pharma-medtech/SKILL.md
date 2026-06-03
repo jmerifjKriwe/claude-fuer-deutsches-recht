@@ -1,48 +1,79 @@
 ---
 name: pharma-medtech
-description: "Prüft Pharma- und MedTech-Vertrieb."
+description: 'Analysiert Besonderheiten des Handelsvertreterrechts in der Pharma- und Medtech-Branche: Regulatorische Anforderungen (AMG, MPG), Compliance-Pflichten bei Ärztebesuchen, Provisionsabrechnungen bei regulierten Produkten, Ausgleichsansprüche im regulierten Markt und besondere Qualifikationsanforderungen für Medizinproduktevertreter.'
 ---
 
-# Pharma Medtech
+# Handelsvertreterrecht in Pharma und Medtech — Regulierung und §§ 84 ff. HGB
 
-## Wofür dieser Skill da ist
-HWG, MDR, Compliance, HCP-Kontakte, Muster, Vergütung und Gebietsschutz.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Handelsvertreterrecht in Pharma und Medtech — Regulierung und §§ 84 ff. HGB.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Für internationale Sachverhalte gilt die Rom-I-Verordnung für das anwendbare Recht.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Pharma-Vertreter X vertritt Arzneimittelhersteller Y; nach Kündigung streitet er um Ausgleich und fragt, ob die AMG-Regulierung seinen Anspruch beeinflusst.
+- Medtech-Unternehmer Y beendet den Vertrag mit Handelsvertreter X, weil X die Qualifikationsanforderungen des MPG nicht mehr erfüllt; X prüft Ausgleich und Schadensersatz.
+- Handelsvertreter X für Pharmaprodukte erhält Rückforderungen seiner Provision, weil Ärzte Rezepte wegen AMG-Verstößen storniert haben; X prüft die Rechtmäßigkeit der Rückforderung.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Regulatorische Anforderungen nach AMG und MPG für Pharma-/Medtech-Vertreter identifizieren.
+2. Qualifikationspflichten nach § 75 AMG (Fachkenntnis) dokumentieren.
+3. Provisionsabrechnungen auf Rückforderungen wegen regulatorischer Stornos prüfen.
+4. Ausgleichsanspruch nach § 89b HGB im regulierten Markt berechnen.
+5. Compliance-Anforderungen (FSA-Kodex) auf Auswirkungen für Vertragsgestaltung prüfen.
+6. Kündigung wegen fehlender Qualifikation auf Wirksamkeit und Ausgleichsfolgen prüfen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HWG/MDR live; HGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 84 HGB — Handelsvertreter in regulierten Branchen
+- § 75 AMG — Qualifikationsanforderungen für Arzneimittelvermittler
+- § 87 HGB — Provisionsanspruch bei regulierten Produkten
+- § 89b HGB — Ausgleichsanspruch im regulierten Markt
+- § 3 MPG — Anforderungen an Medizinproduktevertreter
+- § 89a HGB — Kündigung wegen fehlender Qualifikation als wichtiger Grund
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Sind die Qualifikationsanforderungen nach AMG oder MPG erfüllt?
+- Sind Rückforderungen von Provision wegen regulatorischer Stornos vertraglich gerechtfertigt?
+- Beeinflusst die Regulierung die Ausgleichsberechnung nach § 89b HGB?
+- Ist fehlende Qualifikation ein wichtiger Kündigungsgrund nach § 89a HGB?
+- Sind Compliance-Anforderungen (FSA-Kodex) im Vertrag ausreichend berücksichtigt?
+- Werden Provisionsstornos durch regulatorische Entscheidungen korrekt abgewickelt?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: MedTech-Vertriebscheck. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Qualifikationsmangel nicht als Kündigungsgrund erkannt — Schadensersatz des Unternehmers.
+- Rückforderungen ohne vertragliche Grundlage — Provision zu Unrecht abgezogen.
+- Ausgleich trotz regulierten Markts zu gering berechnet.
+- FSA-Kodex-Verstöße durch Handelsvertreter lösen Haftung des Unternehmers aus.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Qualifikationsprüfvermerk, Provisionsrückforderungsanalyse, Ausgleichsberechnung Pharma/Medtech.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben das Handelsvertreterrecht durch zentrale Leitentscheidungen geprägt.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) und Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen das Recht.
+
+## Quellen
+
+- [§ 84 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__84.html)
+- [§ 75 AMG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/amg_1976/__75.html)
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [§ 89a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89a.html)
+- [Dejure § 75 AMG](https://dejure.org/gesetze/AMG/75.html)

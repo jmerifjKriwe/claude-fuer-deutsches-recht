@@ -1,48 +1,79 @@
 ---
 name: ecommerce-marketplace
-description: "Prüft E-Commerce- und Marketplace-Umsätze."
+description: 'Analysiert Provisionsansprüche und Ausgleich bei E-Commerce- und Marketplace-Vertrieb: Einordnung von Plattformvermittlern als Handelsvertreter oder Makler, Provision bei Online-Abschlüssen durch Dritte, Bezirksschutz im digitalen Vertrieb und Auswirkungen von Marktplatzbeziehungen auf Ausgleichsansprüche nach § 89b HGB.'
 ---
 
-# E-Commerce Marketplace
+# E-Commerce und Marketplace-Vertrieb im Handelsvertreterrecht nach §§ 84 und 87 HGB
 
-## Wofür dieser Skill da ist
-Tracking, Affiliate, Plattformkunden, Cookie/Lead, Datenschutz, Retouren und Bezirksprovision.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um E-Commerce und Marketplace-Vertrieb im Handelsvertreterrecht nach §§ 84 und 87 HGB.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X hat ein PLZ-Gebiet exklusiv; Unternehmer Y verkauft über Amazon auch an Kunden im Gebiet des X; X verlangt Bezirksprovision nach § 87 Abs. 2 HGB.
+- Plattformbetreiber P vermittelt Verträge zwischen Herstellern und Endkunden; er fragt, ob er als Handelsvertreter nach § 84 HGB einzustufen ist und Ausgleich verlangen kann.
+- Handelsvertreter X und Unternehmer Y streiten, ob Online-Bestellungen, die Kunden aus X's Gebiet aufgeben, provisionspflichtig sind, wenn X keinen Beitrag geleistet hat.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Einordnung des Plattformbetreibers oder Online-Vertriebsmittlers als Handelsvertreter prüfen.
+2. Vertrag auf Regelung von Online-Verkäufen und Bezirksprovision durchsehen.
+3. Buchauszug zur Ermittlung aller Online-Bestellungen aus dem Vertretergebiet anfordern.
+4. Provision für Direktabschlüsse über digitale Kanäle im Bezirk berechnen.
+5. Ausgleich bei Beendigung des Plattformvertrags nach § 89b HGB prüfen.
+6. Kartellrechtliche Aspekte von Exklusivitätsregelungen im Online-Vertrieb prüfen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB; DSGVO; Plattformrecht.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 84 HGB — Begriff des Handelsvertreters, Einordnung von Plattformbetreibern
+- § 87 Abs. 2 HGB — Bezirksprovision bei Direktabschlüssen über Online-Kanäle
+- § 87c HGB — Buchauszug für Online-Bestellungen
+- § 89b HGB — Ausgleichsanspruch bei Beendigung des Plattformvertrags
+- Art. 1 RL 86/653/EWG — Anwendungsbereich und Begriff des Handelsvertreters
+- P2B-Verordnung (EU) 2019/1150 — Fairness auf Online-Plattformen
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Ist der Plattformbetreiber Handelsvertreter nach § 84 HGB oder Dienstleister?
+- Umfasst der Bezirksschutz auch Online-Bestellungen mit Lieferadresse im Gebiet?
+- Hat der Handelsvertreter Provision für Online-Abschlüsse des Unternehmers im Bezirk?
+- Sind Direktabschlüsse über Marketplace-Kanäle vertraglich vom Provisionsanspruch ausgenommen?
+- Entsteht ein Ausgleichsanspruch bei Beendigung eines Marketplace-Vermittlungsvertrags?
+- Entsprechen Exklusivitätsregelungen im Online-Vertrieb dem Kartellrecht?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Marketplace-Provision. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Online-Verkäufe ohne Provisionsregelung im Vertrag — Lücke zugunsten des Unternehmers.
+- Plattformbetreiber als Handelsvertreter eingestuft — Ausgleichsansprüche nicht eingeplant.
+- Bezirksschutz auf Online-Kanal nicht explizit erstreckt — Unternehmer schließt Bezirksprovision aus.
+- P2B-Verordnungspflichten für Plattformbetreiber nicht beachtet.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Vertragsanalyse Online-Vertrieb, Bezirksprovisionsberechnung, Einordnungsgutachten Handelsvertreter vs. Plattform.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit des Handelsvertreters, Provisionsanspruch, Informationsrechte,
+Ausgleichsanspruch bei Vertragsende sowie Schutz vor einseitiger Benachteiligung.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt,
+insbesondere zur Berechnung des Ausgleichs, zur Richtlinienkonformität und zu Ausschlussgründen.
+Zwingende Vorschriften nach § 92c HGB können nicht abgebedungen werden;
+entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
+
+## Quellen
+
+- [§ 84 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__84.html)
+- [§ 87 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87.html)
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [P2B-Verordnung auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019R1150)
+- [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)

@@ -1,48 +1,79 @@
 ---
 name: steuer-umsatzsteuer
-description: "Prüft steuerliche Themen des Handelsvertreters."
+description: 'Prüft die umsatzsteuerliche Behandlung des Handelsvertreters: Umsatzsteuerpflicht auf Provisionen nach § 1 UStG, Rechnungsstellung nach § 14 UStG, Vorsteuerabzug des Unternehmers, Kleinunternehmerregelung nach § 19 UStG sowie steuerliche Abgrenzung von Provision und Aufwendungsersatz.'
 ---
 
-# Steuer Umsatzsteuer
+# Umsatzsteuer im Handelsvertreterverhältnis nach UStG
 
-## Wofür dieser Skill da ist
-Umsatzsteuer, Leistungsort, Reverse Charge, Gewerbesteuer, Reisekosten und Rechnungen.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Umsatzsteuer im Handelsvertreterverhältnis nach UStG.
+Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X fragt, ob er auf seine Provisionen Umsatzsteuer ausweisen und abführen muss oder ob die Kleinunternehmerregelung nach § 19 UStG greift.
+- Unternehmer Y erhält eine Provisionsrechnung ohne Umsatzsteuerausweis; er fragt, ob er Vorsteuer geltend machen kann.
+- Handelsvertreter X und Unternehmer Y streiten, ob die Erstattung von Reisekosten als Aufwendungsersatz umsatzsteuerfrei oder als Teil der Vergütung steuerpflichtig ist.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Umsatzsteuerpflicht auf Provisionen nach § 1 UStG prüfen.
+2. Kleinunternehmerregelung nach § 19 UStG auf Anwendbarkeit prüfen.
+3. Provisionsrechnung auf Pflichtangaben nach § 14 UStG prüfen.
+4. Vorsteuerabzugsberechtigung des Unternehmers aus Provisionsrechnungen feststellen.
+5. Abgrenzung von Provision und Aufwendungsersatz für Umsatzsteuerzwecke klären.
+6. Reverse-Charge-Verfahren bei ausländischen Handelsvertretern prüfen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: UStG/EStG live.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 1 UStG — Umsatzsteuerpflicht auf Lieferungen und Leistungen
+- § 14 UStG — Pflichtangaben in der Provisionsrechnung
+- § 15 UStG — Vorsteuerabzug des Unternehmers
+- § 19 UStG — Kleinunternehmerregelung
+- § 13b UStG — Reverse-Charge bei ausländischen Leistungserbringern
+- § 87d HGB — Aufwendungsersatz: steuerliche Abgrenzung zur Provision
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Ist der Handelsvertreter umsatzsteuerpflichtig oder Kleinunternehmer nach § 19 UStG?
+- Enthält die Provisionsrechnung alle Pflichtangaben nach § 14 UStG?
+- Kann der Unternehmer die ausgewiesene Umsatzsteuer als Vorsteuer abziehen?
+- Ist Aufwendungsersatz umsatzsteuerlich wie Provision zu behandeln?
+- Gilt das Reverse-Charge-Verfahren nach § 13b UStG bei ausländischem Handelsvertreter?
+- Liegen steuerliche Risiken bei fehlerhafter Rechnungsstellung vor?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Steuer-Schnittstellencheck. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Provisionsrechnung ohne Pflichtangaben nach § 14 UStG — Vorsteuerabzug gefährdet.
+- Kleinunternehmer ohne Hinweis nach § 19 UStG — Rechnung formal fehlerhaft.
+- Aufwendungsersatz als Provision versteuert — steuerlicher Fehler.
+- Reverse-Charge bei ausländischem Handelsvertreter übersehen — Steuernachzahlungen.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Umsatzsteuerliche Einordnung Provision, Rechnungsmuster nach § 14 UStG, Reverse-Charge-Check.
+
+## Hintergrund und Kontext
+
+Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
+Es gilt als Sonderprivatrecht zwischen Arbeits- und allgemeinem Handelsrecht.
+Die EU-Handelsvertreterrichtlinie 86/653/EWG setzt europäische Mindeststandards.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Buchauszug, Ausgleich bei Vertragsende.
+Nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Delkredere (§ 86b HGB) regeln Sonderlagen.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Für grenzüberschreitende Sachverhalte bestimmt die Rom-I-Verordnung das anwendbare Recht.
+Zwingende Normen wie Ausgleich (§ 89b HGB) und Buchauszug (§ 87c HGB) stehen nicht zur Disposition.
+Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach § 7a SGB IV maßgeblich.
+
+## Quellen
+
+- [§ 1 UStG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/ustg_1980/__1.html)
+- [§ 14 UStG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/ustg_1980/__14.html)
+- [§ 19 UStG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/ustg_1980/__19.html)
+- [§ 87d HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87d.html)
+- [Dejure § 14 UStG](https://dejure.org/gesetze/UStG/14.html)

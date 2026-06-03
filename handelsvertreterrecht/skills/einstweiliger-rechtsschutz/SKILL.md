@@ -1,48 +1,79 @@
 ---
 name: einstweiliger-rechtsschutz
-description: "Prüft Eilrechtsschutz im Vertreterkonflikt."
+description: 'Unterstützt bei einstweiligem Rechtsschutz in Handelsvertreterstreitigkeiten: einstweilige Verfügungen auf Unterlassung von Wettbewerb, Herausgabe von Unterlagen, Sicherung von Provisionsansprüchen sowie Arrest nach §§ 916 ff. ZPO; Verfügungsanspruch und Verfügungsgrund als Voraussetzungen.'
 ---
 
-# Einstweiliger Rechtsschutz
+# Einstweiliger Rechtsschutz in Handelsvertreterstreitigkeiten nach §§ 916 ff. ZPO
 
-## Wofür dieser Skill da ist
-Kundenansprache, Geheimnisse, Wettbewerbsverbot, Datenherausgabe und Dringlichkeit.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Einstweiliger Rechtsschutz in Handelsvertreterstreitigkeiten nach §§ 916 ff. ZPO.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X wird nach fristloser Kündigung von Unternehmer Y sofort durch einen neuen Vertreter ersetzt; X beantragt einstweilige Verfügung auf Unterlassung.
+- Unternehmer Y hat Kenntnis, dass früherer Handelsvertreter X seine Kunden systematisch abwirbt; Y beantragt einstweilige Verfügung auf Unterlassung des Wettbewerbs.
+- Handelsvertreter X befürchtet, dass Unternehmer Y Vermögen ins Ausland verschiebt, bevor über den Ausgleichsanspruch entschieden ist; X beantragt Arrest nach § 916 ZPO.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Verfügungsanspruch bestimmen: welches Recht soll gesichert werden?
+2. Verfügungsgrund glaubhaft machen: Dringlichkeit und Eilbedürftigkeit.
+3. Arrest nach §§ 916 ff. ZPO prüfen bei Geldansprüchen und Vermögensgefährdung.
+4. Antrag auf einstweilige Verfügung beim zuständigen Landgericht stellen.
+5. Sicherheitsleistung einplanen; Schadensersatzrisiko nach § 945 ZPO berücksichtigen.
+6. Hauptsacheklage innerhalb der gesetzlichen Frist nach Verfügungserlass erheben.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: ZPO; HGB; GeschGehG.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- §§ 935–945 ZPO — Einstweilige Verfügung: Anspruch und Grund
+- §§ 916–934 ZPO — Arrest zur Sicherung von Geldansprüchen
+- § 945 ZPO — Schadensersatzpflicht bei unberechtigter einstweiliger Verfügung
+- § 940 ZPO — Regelungsverfügung bei besonderem Bedarf
+- § 90a HGB — Wettbewerbsverbot als Grundlage einer Unterlassungsverfügung
+- § 89b HGB — Sicherung des Ausgleichsanspruchs als Verfügungsanspruch
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Liegt ein Verfügungsanspruch (materiell-rechtlicher Anspruch) vor?
+- Besteht ein Verfügungsgrund (Dringlichkeit, Eilbedürftigkeit)?
+- Ist der Antrag hinreichend bestimmt und glaubhaft gemacht?
+- Droht ein irreparabler Schaden ohne einstweiligen Rechtsschutz?
+- Besteht Schadensersatzrisiko nach § 945 ZPO bei unbegründeter Verfügung?
+- Ist Arrest oder einstweilige Verfügung das geeignetere Instrument?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Eilantragsmemo. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Verfügungsgrund nicht glaubhaft gemacht — Verfügung abgewiesen.
+- Zu weit gefasster Verfügungsantrag — Gericht weist wegen Unbestimmtheit zurück.
+- Schadensersatzrisiko nach § 945 ZPO bei unberechtigter Verfügung unterschätzt.
+- Hauptsacheklage nach Erlass der Verfügung versäumt — Verfügung verliert Wirkung.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Antrag auf einstweilige Verfügung, Arrest-Antrag, Schadensersatzberechnung § 945 ZPO.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit des Handelsvertreters, Provisionsanspruch, Informationsrechte,
+Ausgleichsanspruch bei Vertragsende sowie Schutz vor einseitiger Benachteiligung.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt,
+insbesondere zur Berechnung des Ausgleichs, zur Richtlinienkonformität und zu Ausschlussgründen.
+Zwingende Vorschriften nach § 92c HGB können nicht abgebedungen werden;
+entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
+
+## Quellen
+
+- [§ 935 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__935.html)
+- [§ 916 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__916.html)
+- [§ 945 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__945.html)
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [Dejure § 935 ZPO](https://dejure.org/gesetze/ZPO/935.html)

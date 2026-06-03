@@ -1,48 +1,79 @@
 ---
 name: ausgleichsanspruch-89b
-description: "Prüft Ausgleichsanspruch nach Vertragsende."
+description: 'Analysiert den Ausgleichsanspruch des Handelsvertreters nach § 89b HGB vollständig: Entstehungsvoraussetzungen (neue Kunden, wesentliche Erweiterung), Höchstbetrag von einer Jahresprovision, Ausschlussgründe nach § 89b Abs. 3 HGB, Berechnung nach der BGH-Stufenmethode sowie Anmeldefrist nach § 89b Abs. 4 HGB.'
 ---
 
-# Ausgleichsanspruch 89b
+# Ausgleichsanspruch nach § 89b HGB — Entstehung, Berechnung und Durchsetzung
 
-## Wofür dieser Skill da ist
-Neue Kunden, wesentliche Erweiterung, Unternehmervorteile, Billigkeit, Höchstbetrag und Ausschlüsse.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Ausgleichsanspruch nach § 89b HGB — Entstehung, Berechnung und Durchsetzung.
+Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X hat nach fünfjähriger Tätigkeit einen großen Kundenstamm aufgebaut; nach Kündigung durch Unternehmer Y fragt X, wie hoch sein Ausgleich nach § 89b HGB ist.
+- Unternehmer Y behauptet, der Ausgleichsanspruch des Handelsvertreters X sei nach § 89b Abs. 3 HGB ausgeschlossen, weil X selbst gekündigt habe; X prüft, ob ein Ausnahmetatbestand greift.
+- Anwältin A berechnet den Ausgleich für Handelsvertreter X nach der BGH-Stufenmethode und möchte wissen, welche Provisionsdaten sie für die Berechnung benötigt.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Ausgleichsvoraussetzungen nach § 89b Abs. 1 HGB prüfen: neue Kunden, wesentliche Erweiterung.
+2. Unternehmervorteile nach Vertragsende als Ausgleichsgrundlage feststellen.
+3. Höchstbetrag nach § 89b Abs. 2 HGB: durchschnittliche Jahresprovision der letzten fünf Jahre.
+4. Ausschlussgründe nach § 89b Abs. 3 HGB: eigene Kündigung ohne wichtigen Grund, schwere Pflichtverletzung.
+5. Anmeldung des Ausgleichs innerhalb eines Jahres nach Vertragsende nach § 89b Abs. 4 HGB.
+6. BGH-Stufenmethode anwenden: Rohausgleich, Abwanderungsquote, Billigkeitskorrekturen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: § 89b HGB; RL 86/653/EWG.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 89b Abs. 1 HGB — Voraussetzungen: neue Kunden und wesentliche Erweiterung
+- § 89b Abs. 2 HGB — Höchstbetrag: eine durchschnittliche Jahresprovision
+- § 89b Abs. 3 HGB — Ausschlussgründe: eigene Kündigung ohne wichtigen Grund
+- § 89b Abs. 4 HGB — Ausschlussfrist: Anmeldung innerhalb eines Jahres
+- Art. 17 RL 86/653/EWG — Europäischer Mindeststandard für den Ausgleich
+- § 92c HGB — Ausgleich ist zwingend: vorherige Einschränkung unwirksam
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Liegen neue Kunden oder wesentliche Geschäftserweiterung als Ausgleichsvoraussetzung vor?
+- Hat der Unternehmer nach Vertragsende nachhaltige Vorteile aus dem Kundenstamm?
+- Greift ein Ausschlussgrund nach § 89b Abs. 3 HGB (eigene Kündigung ohne wichtigen Grund)?
+- Ist die Anmeldefrist von einem Jahr nach § 89b Abs. 4 HGB gewahrt?
+- Überschreitet der Rohausgleich den Höchstbetrag von einer Jahresprovision?
+- Sind Billigkeitskorrekturen nach § 89b Abs. 1 S. 1 HGB vorzunehmen?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Ausgleichsvermerk. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Ausschlussfrist nach § 89b Abs. 4 HGB versäumt — Anspruch erloschen.
+- Eigene Kündigung ohne wichtigen Grund — Ausschlussgrund nach § 89b Abs. 3 HGB.
+- Rohausgleich über Höchstbetrag berechnet — Korrektur nach § 89b Abs. 2 HGB vergessen.
+- Neue Kunden nicht dokumentiert — Ausgleichsgrundlage nicht nachweisbar.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Ausgleichsberechnung nach BGH-Stufenmethode, Anmeldefristschreiben, Klageschrift auf Ausgleich.
+
+## Hintergrund und Kontext
+
+Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
+Es gilt als Sonderprivatrecht zwischen Arbeits- und allgemeinem Handelsrecht.
+Die EU-Handelsvertreterrichtlinie 86/653/EWG setzt europäische Mindeststandards.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Buchauszug, Ausgleich bei Vertragsende.
+Nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Delkredere (§ 86b HGB) regeln Sonderlagen.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Für grenzüberschreitende Sachverhalte bestimmt die Rom-I-Verordnung das anwendbare Recht.
+Zwingende Normen wie Ausgleich (§ 89b HGB) und Buchauszug (§ 87c HGB) stehen nicht zur Disposition.
+Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach § 7a SGB IV maßgeblich.
+
+## Quellen
+
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [§ 92c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__92c.html)
+- [Art. 17 RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [BGH-Entscheidungen auf bgh.de](https://www.bgh.de/entscheidungen/entscheidungen-online)
+- [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)

@@ -1,48 +1,79 @@
 ---
 name: reporting-pflichten
-description: "Prüft Reporting-Pflichten und Grenzen."
+description: 'Analysiert Berichts- und Informationspflichten des Handelsvertreters nach § 86 Abs. 2 HGB: Pflicht zur Mitteilung aller nützlichen Informationen, Kundenfeedback, Marktentwicklungen und Konkurrenzbeobachtung; Gegenleistungspflichten des Unternehmers nach § 86a HGB sowie Konsequenzen bei Verletzung.'
 ---
 
-# Reporting Pflichten
+# Berichtspflichten des Handelsvertreters nach § 86 Abs. 2 HGB
 
-## Wofür dieser Skill da ist
-Besuchsberichte, Pipeline, CRM, Forecast, Weisungsnähe, Datenschutz und Statusrisiko.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Berichtspflichten des Handelsvertreters nach § 86 Abs. 2 HGB.
+Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Unternehmer Y beschwert sich, dass Handelsvertreter X keine Marktberichte und keine Kundenfeedbacks übermittelt; Y prüft, ob X gegen § 86 Abs. 2 HGB verstoßen hat.
+- Handelsvertreter X fragt, wie weit seine Berichtspflicht nach § 86 Abs. 2 HGB reicht und ob er auch Informationen über Konkurrenzprodukte liefern muss.
+- Unternehmer Y kündigt Handelsvertreter X wegen Verletzung der Berichtspflichten; X prüft, ob dies einen wichtigen Grund nach § 89a HGB darstellt.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Berichtspflicht nach § 86 Abs. 2 HGB auf Umfang und Inhalt bestimmen.
+2. Vertraglich vereinbarte Berichtspflichten auf Konsistenz mit § 86 Abs. 2 HGB prüfen.
+3. Informationspflichten des Unternehmers nach § 86a HGB als Gegenleistung prüfen.
+4. Verletzung der Berichtspflicht auf Erheblichkeit für Kündigung nach § 89a HGB prüfen.
+5. Berichtsformat und -häufigkeit vertraglich klar regeln.
+6. Dokumentation der übermittelten Berichte für Streitfall sichern.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB; SGB IV; DSGVO.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 86 Abs. 2 HGB — Informationspflicht des Handelsvertreters
+- § 86a HGB — Pflicht des Unternehmers zur Unterstützung und Information
+- § 89a HGB — Kündigung wegen Verletzung der Berichtspflicht
+- § 280 BGB — Schadensersatz bei Verletzung von Nebenpflichten
+- § 242 BGB — Treu und Glauben bei Informationspflichten
+- Art. 4 RL 86/653/EWG — Informationspflichten beider Parteien
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Welche Informationen ist der Handelsvertreter nach § 86 Abs. 2 HGB zu berichten verpflichtet?
+- Hat der Handelsvertreter die Berichtspflicht verletzt?
+- Ist die Verletzung so schwerwiegend, dass sie einen Kündigungsgrund nach § 89a HGB begründet?
+- Hat der Unternehmer seinerseits seine Informationspflichten nach § 86a HGB erfüllt?
+- Entstehen Schadensersatzansprüche wegen verletzter Berichtspflichten?
+- Sind die Berichtspflichten im Vertrag ausreichend konkret geregelt?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Reporting-Klausel. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Berichtspflicht zu weit ausgelegt — Handelsvertreter ist kein Mitarbeiter.
+- Kündigung wegen fehlender Berichte ohne Abmahnung — unverhältnismäßig.
+- Unternehmer verletzt eigene Informationspflicht nach § 86a HGB.
+- Berichtspflichten ohne Dokumentation — Beweisprobleme im Streitfall.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Berichtspflicht-Analyse, Vertragliche Berichtsregelung Entwurf, Abmahnungsschreiben.
+
+## Hintergrund und Kontext
+
+Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
+Es gilt als Sonderprivatrecht zwischen Arbeits- und allgemeinem Handelsrecht.
+Die EU-Handelsvertreterrichtlinie 86/653/EWG setzt europäische Mindeststandards.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Buchauszug, Ausgleich bei Vertragsende.
+Nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Delkredere (§ 86b HGB) regeln Sonderlagen.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Für grenzüberschreitende Sachverhalte bestimmt die Rom-I-Verordnung das anwendbare Recht.
+Zwingende Normen wie Ausgleich (§ 89b HGB) und Buchauszug (§ 87c HGB) stehen nicht zur Disposition.
+Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach § 7a SGB IV maßgeblich.
+
+## Quellen
+
+- [§ 86 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__86.html)
+- [§ 86a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__86a.html)
+- [§ 89a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89a.html)
+- [Art. 4 RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [Dejure § 86 HGB](https://dejure.org/gesetze/HGB/86.html)

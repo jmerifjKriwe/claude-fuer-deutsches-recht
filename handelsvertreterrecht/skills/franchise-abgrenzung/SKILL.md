@@ -1,48 +1,79 @@
 ---
 name: franchise-abgrenzung
-description: "Grenzt Franchise, Vertriebspartner und Handelsvertreter ab."
+description: 'Prüft die Abgrenzung zwischen Franchise und Handelsvertretung: eigenständige Risikotragung des Franchisenehmers vs. Risikolosigkeit des Handelsvertreters als Abgrenzungsmerkmal nach EuGH-Rechtsprechung, Konsequenzen für Provisionspflicht, Ausgleichsanspruch und kartellrechtliche Zulässigkeit vertikaler Beschränkungen.'
 ---
 
-# Franchise Abgrenzung
+# Franchise vs. Handelsvertretung — Abgrenzung nach EuGH und §§ 84 ff. HGB
 
-## Wofür dieser Skill da ist
-Systembindung, Gebühren, eigenes Risiko, Markenauftritt, Kundenbeziehungen und Ausgleich.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Franchise vs. Handelsvertretung — Abgrenzung nach EuGH und §§ 84 ff. HGB.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Franchisenehmer X will nach Ende seines Franchisevertrags Ausgleich nach § 89b HGB analog verlangen; er prüft, ob er wirtschaftlich wie ein Handelsvertreter tätig war.
+- Unternehmer Y nutzt ein Franchise-Modell, bei dem Franchisenehmer kein eigenes Risiko tragen; Kartellbehörde prüft, ob dies wie eine Handelsvertretung zu behandeln ist.
+- Handelsvertreter X und Franchisenehmer Z sind für denselben Hersteller tätig; X prüft, ob das Franchise-System seine Alleinvertretungsrechte verletzt.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Vertragliche Risikoverteilung analysieren: trägt der Franchisenehmer Lager-, Finanz- oder Marktrisiken?
+2. EuGH-Kriterien für echte Handelsvertretung vs. Franchise-Verhältnis heranziehen.
+3. Kartellrechtliche Einordnung nach vertikaler GVO und Leitlinien der EU-Kommission prüfen.
+4. Ausgleichsanspruch analog § 89b HGB für Franchisenehmer auf Voraussetzungen prüfen.
+5. Auswirkungen der Qualifikation auf Preisbindung und Wettbewerbsklauseln klären.
+6. Vertragstext auf Merkmale der Handelsvertretung vs. Franchise durchsehen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB; BGB; Kartellrecht.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 84 HGB — Selbständigkeit und kein eigenes Preisrisiko als Handelsvertreterkennzeichen
+- § 89b HGB — Ausgleichsanspruch; analoge Anwendung auf Franchisenehmer
+- EuGH C-217/05 CEPSA — Abgrenzung Handelsvertreter und Franchise
+- Vertikal-GVO (EU) Nr. 2022/720 — Gruppenfreistellung vertikale Vereinbarungen
+- § 1 GWB — Kartellverbot bei echten Handelsvertretervereinbarungen
+- Art. 17 RL 86/653/EWG — Ausgleich bei echten Handelsvertretern
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Trägt der Franchisenehmer eigene Risiken wie Lager oder Forderungsausfälle?
+- Ist die Tätigkeit wirtschaftlich als Handelsvertretung oder eigenständiges Unternehmen einzustufen?
+- Ist ein Ausgleichsanspruch analog § 89b HGB für den Franchisenehmer begründbar?
+- Sind Preisbindungen im Franchise-Vertrag kartellrechtlich zulässig?
+- Verletzt das Franchise-System Alleinvertretungsrechte bestehender Handelsvertreter?
+- Welche Wettbewerbsklauseln sind im Franchise-Verhältnis nach GVO wirksam?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Franchise-Abgrenzung. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Franchise fälschlich als Handelsvertretung eingestuft — kartellrechtlich problematische Preisbindungen.
+- Ausgleichsanspruch des Franchisenehmers ohne Prüfung der Risikotragung abgelehnt.
+- Vertikal-GVO-Freistellung bei echter Handelsvertretung nicht notwendig — Fehler in der Vertragsgestaltung.
+- Alleinvertretungsrechte durch Franchise-System unterlaufen — keine Bezirksprovision vorgesehen.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Qualifikationsgutachten Franchise vs. Handelsvertretung, Ausgleichsanalyse, kartellrechtliche Bewertung.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt.
+Zwingende Vorschriften nach § 92c HGB können nicht abgebedungen werden;
+entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte (§ 87c HGB), Geheimhaltungspflicht (§ 88 HGB) und Delkredere (§ 86b HGB)
+ergänzen das Recht praxisnah.
+
+## Quellen
+
+- [§ 84 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__84.html)
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [EuGH C-217/05 CEPSA auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62005CJ0217)
+- [Vertikal-GVO 2022/720 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022R0720)
+- [Dejure § 84 HGB](https://dejure.org/gesetze/HGB/84.html)

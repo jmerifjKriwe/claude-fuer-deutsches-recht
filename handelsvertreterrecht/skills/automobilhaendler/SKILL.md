@@ -1,48 +1,79 @@
 ---
 name: automobilhaendler
-description: "Prüft Autohaus, Agenturmodell und Vertragshändlerausgleich."
+description: 'Prüft Ausgleichsansprüche und Provisionsfragen im Kfz-Vertrieb: Abgrenzung Handelsvertreter vom Vertragshändler, analoge Anwendung des § 89b HGB auf Kfz-Vertragshändler nach BGH-Rechtsprechung, Hersteller-Händler-Verträge und markenrechtliche Bindungen im Automobilvertrieb.'
 ---
 
-# Automobilhaendler
+# Ausgleichsanspruch im Kfz-Vertrieb — Handelsvertreter oder Vertragshändler?
 
-## Wofür dieser Skill da ist
-Direktvertrieb, Herstelleragentur, Onlineverkauf, Ausgleich analog und Kartellrecht.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Ausgleichsanspruch im Kfz-Vertrieb — Handelsvertreter oder Vertragshändler?.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Kfz-Händler X war jahrelang als Vertragshändler für Hersteller Y tätig; nach Vertragsende prüft X, ob § 89b HGB analog anwendbar ist.
+- Handelsvertreter A vermittelt für Importeur Y Neuwagen auf Provisions basis; nach Kündigung streitet er um den Ausgleich nach § 89b HGB.
+- Kfz-Händler X zweifelt, ob sein Vertragshändlervertrag ihn wie einen Handelsvertreter schützt, oder ob er auf Schadensersatz nach § 89 HGB analog angewiesen ist.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Vertragsart bestimmen: echter Handelsvertreter (§ 84 HGB) oder Vertragshändler?
+2. Merkmale der Eingliederung in das Absatzsystem des Herstellers prüfen.
+3. BGH-Kriterien für analoge Anwendung von § 89b HGB auf Vertragshändler heranziehen.
+4. Kundenstammdaten und Neukundenprovision für Ausgleichsberechnung zusammenstellen.
+5. Markenrechtliche und wettbewerbsrechtliche Bindungen im Händlervertrag prüfen.
+6. Ausgleichsanspruch fristgerecht nach § 89b Abs. 4 HGB anmelden.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB; EU-Kartellrecht.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 84 HGB — Begriff des Handelsvertreters
+- § 89b HGB — Ausgleichsanspruch; analoge Anwendung auf Vertragshändler durch BGH
+- § 92c HGB — Zwingende Schutzvorschriften
+- Art. 17 RL 86/653/EWG — Ausgleich nach Vertragsende
+- GVO Nr. 461/2010 — Gruppenfreistellungsverordnung Kfz-Vertrieb
+- § 242 BGB — Treu und Glauben bei Eingliederung in Absatzsystem
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Ist der Händler echter Handelsvertreter oder Vertragshändler?
+- Liegt eine so enge Eingliederung in das Absatzsystem vor, dass § 89b HGB analog gilt?
+- Hat der Händler einen Kundenstamm aufgebaut, der dem Hersteller nach Vertragsende nutzt?
+- Wurde der Ausgleich fristgerecht angemeldet?
+- Sind markenrechtliche Bindungen im Händlervertrag kartellrechtskonform?
+- Gibt es Ausschlussgründe nach § 89b Abs. 3 HGB analog?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Automotive-Vertriebscheck. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Vertragshändler hält sich fälschlich für einen Handelsvertreter — andere Rechtsgrundlage.
+- Analoge Anwendung des § 89b HGB auf Vertragshändler setzt Eingliederungsnachweis voraus.
+- Ausgleichsanspruch ohne fristgerechte Anmeldung nach § 89b Abs. 4 HGB erloschen.
+- GVO Kfz-Vertrieb enthält besondere Wettbewerbsregeln, die für Handelsvertreter nicht gelten.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Qualifikationsgutachten Handelsvertreter vs. Vertragshändler, Ausgleichsberechnung, Klageschriftentwurf.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit des Handelsvertreters, Provisionsanspruch, Informationsrechte,
+Ausgleichsanspruch bei Vertragsende sowie Schutz vor einseitiger Benachteiligung.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt,
+insbesondere zur Berechnung des Ausgleichs, zur Richtlinienkonformität und zu Ausschlussgründen.
+Zwingende Vorschriften nach § 92c HGB können vertraglich nicht abgebedungen werden;
+entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
+
+## Quellen
+
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [§ 84 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__84.html)
+- [GVO 461/2010 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32010R0461)
+- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [BGH Rechtsprechung Openjur](https://openjur.de/)

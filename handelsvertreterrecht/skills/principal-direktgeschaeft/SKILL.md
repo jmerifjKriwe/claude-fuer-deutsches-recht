@@ -1,48 +1,79 @@
 ---
 name: principal-direktgeschaeft
-description: "Prüft Direktgeschäft des Unternehmers mit Vertreterkunden."
+description: 'Prüft Direktgeschäfte des Unternehmers im Handelsvertretergebiet: Provisionsanspruch des Handelsvertreters nach § 87 Abs. 2 HGB, Dokumentationspflichten des Unternehmers, Auskunfts- und Buchauszugsrecht sowie Schadensersatz bei systematischer Unterwanderung des Alleinvertretervertrags.'
 ---
 
-# Principal Direktgeschaeft
+# Direktgeschäfte des Unternehmers im Handelsvertretergebiet nach § 87 HGB
 
-## Wofür dieser Skill da ist
-Umgehung, Provisionspflicht, Gebiet, Kundenschutz, Beweise und Abrechnung.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Direktgeschäfte des Unternehmers im Handelsvertretergebiet nach § 87 HGB.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Für internationale Sachverhalte gilt die Rom-I-Verordnung für das anwendbare Recht.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Alleinvertreter X stellt fest, dass Unternehmer Y regelmäßig direkt mit Kunden im Bezirk des X verhandelt und Verträge abschließt, ohne X Provision zu zahlen.
+- Unternehmer Y behauptet, bestimmte Großkunden seien als Direktkunden vom Provisionsanspruch des Alleinvertreters X ausgenommen; X bestreitet dies.
+- Handelsvertreter X verlangt Buchauszug über alle Direktgeschäfte des Unternehmers Y in seinem Bezirk und klagt auf Bezirksprovision nach § 87 Abs. 2 HGB.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Direktgeschäfte aus Buchauszug und Geschäftsberichten des Unternehmers ermitteln.
+2. Provisionsanspruch nach § 87 Abs. 2 HGB für alle Direktabschlüsse im Bezirk berechnen.
+3. Ausnahmen für Direktkunden auf vertragliche Grundlage und Wirksamkeit prüfen.
+4. Schadensersatz für systematische Unterwanderung des Alleinvertretervertrags geltend machen.
+5. Stufenklage auf Buchauszug und Bezirksprovision einreichen.
+6. Unterlassungsanspruch gegen weitere Direktabschlüsse prüfen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: § 87 HGB; Vertrag.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 87 Abs. 2 HGB — Bezirksprovision bei Direktabschlüssen des Unternehmers
+- § 87c HGB — Buchauszug über Direktgeschäfte
+- § 280 BGB — Schadensersatz bei Verletzung des Alleinvertretervertrags
+- § 86a HGB — Pflicht des Unternehmers zur Unterstützung
+- § 242 BGB — Treu und Glauben bei Direktgeschäften
+- Art. 7 Abs. 2 RL 86/653/EWG — Provision bei Direktgeschäften im Bezirk
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Hat der Unternehmer Direktgeschäfte im Alleinvertretergebiet getätigt?
+- Sind diese Direktgeschäfte vertraglich vom Provisionsanspruch ausgenommen?
+- Besteht ein Buchauszugsanspruch über die Direktgeschäfte?
+- Wie hoch ist die Bezirksprovision für die Direktabschlüsse?
+- Kommt Schadensersatz für systematische Unterwanderung in Betracht?
+- Ist ein Unterlassungsanspruch gegen weitere Direktabschlüsse durchsetzbar?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Direktgeschäft-Check. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Direktgeschäfte ohne Buchauszugsanforderung nicht erfasst.
+- Ausnahmen für Direktkunden ohne vertragliche Grundlage nachträglich behauptet.
+- Schadensersatz bei systematischer Unterwanderung nicht geltend gemacht.
+- Stufenklage ohne korrekte Formulierung der Leistungsstufe unzulässig.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Buchauszugs-Anforderungsschreiben, Bezirksprovisionsberechnung, Stufenklage-Entwurf.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben das Handelsvertreterrecht durch zentrale Leitentscheidungen geprägt.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) und Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen das Recht.
+
+## Quellen
+
+- [§ 87 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87.html)
+- [§ 87c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87c.html)
+- [§ 280 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__280.html)
+- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)

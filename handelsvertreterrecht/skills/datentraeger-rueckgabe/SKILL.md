@@ -1,48 +1,79 @@
 ---
 name: datentraeger-rueckgabe
-description: "Prüft Rückgabe von Laptop, Muster, Unterlagen und Daten."
+description: 'Regelt Herausgabe und Rückgabe von Datenträgern, Kundenlisten, Geschäftsunterlagen und digitalen Zugängen bei Vertragsende nach § 88 HGB und § 667 BGB analog: Umfang der Herausgabepflicht, Vollstreckung bei Verweigerung sowie datenschutzrechtliche Löschpflichten nach DSGVO.'
 ---
 
-# Datentraeger Rueckgabe
+# Rückgabe von Datenträgern und Unterlagen bei Vertragsende nach § 88 HGB
 
-## Wofür dieser Skill da ist
-Inventar, Kopien, Löschung, Beweise, CRM-Export, Zurückbehaltung und Geheimnisse.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Rückgabe von Datenträgern und Unterlagen bei Vertragsende nach § 88 HGB.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Nach Kündigung verweigert Handelsvertreter X die Herausgabe von Kundenlisten, Angeboten und Musterkoffern an Unternehmer Y.
+- Unternehmer Y verlangt die Rückgabe seines Firmenlaptops und aller darauf gespeicherten Geschäftsdaten von Handelsvertreter X.
+- Handelsvertreter X hat auf seinem privaten Laptop Kundendaten des Unternehmers Y gespeichert; Y verlangt Herausgabe und anschließende Löschung.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Herausgabepflichten vertraglich und gesetzlich nach § 88 HGB bestimmen.
+2. Inventar aller herauszugebenden Gegenstände und Daten erstellen.
+3. Vollstreckung der Herausgabepflicht nach § 883 ZPO (vertretbare Sachen) oder § 888 ZPO prüfen.
+4. Datenschutzrechtliche Löschpflichten nach Art. 17 DSGVO klären.
+5. Übergabeprotokoll für körperliche Gegenstände und digitale Zugänge erstellen.
+6. Schadensersatz bei Nichtherausgabe oder Beschädigung berechnen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB; DSGVO; BGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 88 HGB — Geheimhaltungspflicht und Nutzungsverbot nach Vertragsende
+- § 667 BGB — Herausgabepflicht des Beauftragten (analog)
+- § 883 ZPO — Vollstreckung auf Herausgabe vertretbarer Sachen
+- § 888 ZPO — Vollstreckung unvertretbarer Handlungen
+- Art. 17 DSGVO — Recht auf Löschung
+- § 280 BGB — Schadensersatz bei Nichtherausgabe
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Welche Gegenstände und Daten unterliegen der Herausgabepflicht?
+- Hat der Handelsvertreter die Herausgabe vollständig und fristgerecht geleistet?
+- Besteht eine Löschpflicht für Kundendaten nach DSGVO nach Vertragsende?
+- Welche Vollstreckungsmaßnahmen kommen bei Verweigerung in Betracht?
+- Gibt es ein Zurückbehaltungsrecht des Handelsvertreters wegen offener Provisionen?
+- Sind vertragliche Regelungen zur Rückgabe wirksam vereinbart?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Rückgabeprotokoll. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Kein Übergabeprotokoll — Streit über den Zustand zurückgegebener Gegenstände.
+- Digitale Zugänge nach Vertragsende nicht gesperrt — Missbrauchsgefahr.
+- Löschpflicht für Kundendaten auf privatem Gerät des Handelsvertreters nicht umgesetzt.
+- Zurückbehaltungsrecht des Handelsvertreters wegen offener Provisionen nicht berücksichtigt.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Übergabeprotokoll, Herausgabeverlangen-Schreiben, Vollstreckungsantrag nach § 883 ZPO.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit des Handelsvertreters, Provisionsanspruch, Informationsrechte,
+Ausgleichsanspruch bei Vertragsende sowie Schutz vor einseitiger Benachteiligung.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt,
+insbesondere zur Berechnung des Ausgleichs, zur Richtlinienkonformität und zu Ausschlussgründen.
+Zwingende Vorschriften nach § 92c HGB können nicht abgebedungen werden;
+entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
+
+## Quellen
+
+- [§ 88 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__88.html)
+- [§ 667 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__667.html)
+- [§ 883 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__883.html)
+- [Art. 17 DSGVO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679)
+- [Dejure § 88 HGB](https://dejure.org/gesetze/HGB/88.html)

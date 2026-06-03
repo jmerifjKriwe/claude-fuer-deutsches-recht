@@ -1,48 +1,79 @@
 ---
 name: rechtsprechung-livecheck
-description: "Erzwingt Rechtsprechungsprüfung ohne Blindzitate."
+description: 'Liefert eine strukturierte Checkliste zur Liveprüfung aktueller BGH- und EuGH-Entscheidungen zum Handelsvertreterrecht: Abfrage maßgeblicher Leitentscheidungen zu § 89b HGB-Ausgleich, § 87c HGB-Buchauszug und § 90a HGB-Wettbewerbsverbot auf Dejure und Openjur sowie Hinweis auf Vorlageverfahren beim EuGH.'
 ---
 
-# Rechtsprechung Livecheck
+# Rechtsprechungs-Livecheck BGH und EuGH zum Handelsvertreterrecht
 
-## Wofür dieser Skill da ist
-Gericht, Datum, Aktenzeichen, freie Quelle, tragender Satz, keine BeckRS/Juris aus Modellwissen.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Rechtsprechungs-Livecheck BGH und EuGH zum Handelsvertreterrecht.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Für internationale Sachverhalte gilt die Rom-I-Verordnung für das anwendbare Recht.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Anwältin A möchte vor Einreichung einer Ausgleichsklage prüfen, ob der BGH in den letzten zwölf Monaten neue Entscheidungen zu § 89b HGB veröffentlicht hat.
+- Handelsvertreter X hat einen Hinweis auf ein aktuelles EuGH-Urteil zur RL 86/653/EWG erhalten und möchte prüfen, ob es seinen Ausgleichsanspruch beeinflusst.
+- Unternehmer Y prüft, ob die BGH-Rechtsprechung zu Stornoreserven seit Abschluss des Handelsvertretervertrags vor drei Jahren geändert wurde.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. BGH-Entscheidungsdatenbank auf aktuellen Urteilen zu §§ 84-92c HGB prüfen.
+2. EuGH-Rechtsprechungsdatenbank zu RL 86/653/EWG und Vorabentscheidungsverfahren prüfen.
+3. Dejure.org und Openjur.de auf aktuelle Instanzrechtsprechung durchsuchen.
+4. Entscheidungen nach Relevanz für den konkreten Fall einordnen.
+5. Abweichende Instanzentscheidungen als Revisionspotenzial bewerten.
+6. Neue Entscheidungen in die Fallstrategie integrieren.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: BGH/OLG/dejure/openJur/amtlich live.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 89b HGB — BGH-Leitentscheidungen zur Ausgleichsberechnung und Billigkeit
+- § 87c HGB — BGH-Entscheidungen zum Buchauszugsumfang
+- § 90a HGB — BGH-Entscheidungen zum Wettbewerbsverbot
+- Art. 17 RL 86/653/EWG — EuGH-Rechtsprechung zum Ausgleich
+- EuGH C-465/04 Honyvem — Richtlinienkonforme Auslegung
+- EuGH C-381/19 Saint-Gobain — Billigkeit bei der Ausgleichsberechnung
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Gibt es aktuelle BGH-Entscheidungen zu § 89b HGB seit dem Vertragsabschluss?
+- Hat der EuGH neue Entscheidungen zur RL 86/653/EWG erlassen?
+- Weichen Instanzgerichte von der BGH-Linie ab — Revisionspotenzial?
+- Sind aktuelle Entscheidungen für den konkreten Sachverhalt einschlägig?
+- Laufen Vorabentscheidungsverfahren beim EuGH, die den Fall beeinflussen?
+- Sind Entscheidungen vollständig in die Fallstrategie einbezogen?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Rspr-Prüfvermerk. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Veraltete BGH-Entscheidungen zitiert — neuere abweichende Rechtsprechung nicht beachtet.
+- EuGH-Vorabentscheidungsverfahren nicht beachtet — Entscheidung erwartet.
+- Instanzgericht weicht von BGH ab — Revision wurde versäumt.
+- Keine Liveprüfung vor Klageerhebung — falsche Rechtsgrundlage verwendet.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Rechtsprechungs-Recherche-Report, Entscheidungsübersicht nach § 89b HGB, EuGH-Livecheck-Protokoll.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben das Handelsvertreterrecht durch zentrale Leitentscheidungen geprägt.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) und Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen das Recht.
+
+## Quellen
+
+- [BGH Rechtsprechung auf bgh.de](https://www.bgh.de/entscheidungen/entscheidungen-online)
+- [EuGH Rechtsprechung auf EUR-Lex](https://eur-lex.europa.eu/collection/eu-law/eu-case-law.html)
+- [Dejure HGB](https://dejure.org/gesetze/HGB)
+- [Openjur BGH-Entscheidungen](https://openjur.de/)
+- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)

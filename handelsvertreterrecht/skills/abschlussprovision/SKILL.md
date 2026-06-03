@@ -1,48 +1,80 @@
 ---
 name: abschlussprovision
-description: "Prüft Abschlussprovision und Kausalität."
+description: 'Prüft den Provisionsanspruch des Abschlussvertreters nach §§ 87 und 87a HGB: Kausalität zwischen Vermittlungstätigkeit und Vertragsabschluss, Fälligkeit mit Ausführung durch den Unternehmer, Ansprüche bei vorzeitiger Vertragsauflösung sowie Abgrenzung von Abschluss- und Vermittlungsprovision.'
 ---
 
-# Abschlussprovision
+# Abschlussprovision des Abschlussvertreters nach §§ 87 und 87a HGB
 
-## Wofür dieser Skill da ist
-Lead, Angebot, Abschluss, Nachfassen, Kunde, Rahmenvertrag und Folgeabrufe.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Abschlussprovision des Abschlussvertreters nach §§ 87 und 87a HGB.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie einschlägige BGH- und EuGH-Rechtsprechung ein.
+Der Skill zielt auf konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter A hat einen Kaufvertrag zwischen Kunde K und Unternehmer U abgeschlossen; U verweigert die Provisionszahlung mit Hinweis auf angeblich fehlende Kausalität der Vermittlung.
+- Unternehmer U löst einen vom Vertreter A abgeschlossenen Vertrag einvernehmlich mit dem Kunden auf; A verlangt seine Provision nach § 87a Abs. 3 HGB.
+- Handelsvertreter A streitet mit U darüber, ob ein bestimmter Auftrag im Rahmen der Abschlussvertretung oder außerhalb seiner Vollmacht zustande kam.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Vertragsart klären: Abschlussvertreter mit Vollmacht oder Vermittlungsvertreter ohne Abschlussvollmacht?
+2. Kausalzusammenhang zwischen Tätigkeit des Vertreters und Vertragsabschluss dokumentieren.
+3. Fälligkeitszeitpunkt nach § 87a Abs. 1 HGB bestimmen: Ausführung des Geschäfts durch Unternehmer.
+4. Provisionssatz und Bemessungsgrundlage aus dem Vertretervertrag ermitteln.
+5. Bei vorzeitiger Aufhebung: Prüfung nach § 87a Abs. 3 HGB, ob Aufhebung dem Unternehmer zuzurechnen ist.
+6. Verjährung prüfen: §§ 195, 199 BGB; Abschlusszeitpunkt festhalten.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: § 87 HGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 87 HGB — Entstehung des Provisionsanspruchs, Kausalität
+- § 87a HGB — Fälligkeit und Erlöschen der Provision
+- § 87a Abs. 3 HGB — Provision bei nicht ausgeführtem Geschäft ohne Vertreterverschulden
+- § 84 HGB — Begriff des Handelsvertreters und Selbständigkeit
+- § 54 HGB — Handlungsvollmacht des Abschlussvertreters
+- Art. 7 und 8 RL 86/653/EWG — Provisionsanspruch auf abgeschlossene und ausgeführte Geschäfte
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Hat der Handelsvertreter den Vertragsabschluss tatsächlich herbeigeführt oder wesentlich mitgewirkt?
+- Ist das Geschäft wirksam zustande gekommen und liegt im Vertragsgebiet oder beim Kundenstamm des Vertreters?
+- Hat der Unternehmer das Geschäft ausgeführt oder verweigert er dies ohne Verschulden des Vertreters?
+- Liegt eine einvernehmliche Aufhebung vor, die dem Unternehmer nach § 87a Abs. 3 HGB zuzurechnen ist?
+- Entspricht die berechnete Provision dem vereinbarten Satz und der richtigen Bemessungsgrundlage?
+- Ist der Anspruch verjährt oder durch vertragliche Ausschlussfristen erloschen?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Abschlussprovisionsmemo. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Kausalität nicht ausreichend dokumentiert — Unternehmer bestreitet Vermittlungsleistung.
+- Fälligkeitszeitpunkt falsch bestimmt: Provision erst fällig, wenn Unternehmer das Geschäft ausführt.
+- § 87a Abs. 3 HGB bei einvernehmlicher Vertragsaufhebung übersehen.
+- Abschlussvertreter handelt ohne ausreichende Vollmacht — Provisionsanspruch gefährdet.
+- Provisionssatz aus alten Vertragsversionen übernommen — aktuelle Fassung nicht geprüft.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Provisionsberechnung mit Kausalitätsnachweis, Klageschriftentwurf auf Provisionszahlung, Fristenübersicht.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien sind: Selbständigkeit des Handelsvertreters, Provisionsanspruch, Informationsrechte,
+Ausgleichsanspruch bei Vertragsende sowie Schutz vor einseitiger Benachteiligung.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt,
+insbesondere zur Berechnung des Ausgleichs, zur Richtlinienkonformität und zu Ausschlussgründen.
+Praktisch relevant sind insbesondere: Provisionsabrechnungen und Buchauszug (§ 87c HGB),
+nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Ausgleichsanspruch (§ 89b HGB).
+Zwingende Vorschriften zum Schutz des Handelsvertreters nach § 92c HGB können vertraglich
+nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+
+## Quellen
+
+- [§ 87 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87.html)
+- [§ 87a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87a.html)
+- [§ 84 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__84.html)
+- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)

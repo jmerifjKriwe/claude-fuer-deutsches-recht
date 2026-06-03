@@ -1,48 +1,79 @@
 ---
 name: redteam-qualitygate
-description: "Finaler Red-Team-Check für Handelsvertreterausgaben."
+description: 'Stellt einen Red-Team-Qualitätscheck für Handelsvertreter-Rechtsdokumente bereit: Überprüfung von Provisionsberechnungen auf Rechenfehler, Validierung von Ausgleichsberechnungen nach § 89b HGB, Prüfung von Vertragsklauseln auf AGB-Konformität und Widerspruchsfreiheit sowie Liveprüfung zitierter Rechtsprechung.'
 ---
 
-# Redteam Qualitygate
+# Red-Team Qualitätssicherung für Handelsvertreter-Rechtsdokumente
 
-## Wofür dieser Skill da ist
-Status, Provision, Buchauszug, Ausgleich, Kündigung, § 90a, Fristen und Beweise prüfen.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Red-Team Qualitätssicherung für Handelsvertreter-Rechtsdokumente.
+Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Anwältin A hat eine Klageschrift auf Ausgleich nach § 89b HGB fertiggestellt und möchte diese vor Einreichung durch ein kritisches Red-Team prüfen lassen.
+- Handelsvertreter X hat einen Ausgleichsberechnungsbericht erhalten und möchte wissen, ob die Rechengrundlagen korrekt sind.
+- Unternehmer Y prüft einen Handelsvertretervertrag auf AGB-Konformität und Widersprüche vor Unterzeichnung.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Alle Berechnungen auf Konsistenz und Rechenfehler prüfen.
+2. Zitierte Normen auf aktuelle Fassung und korrekte Paragrafenangaben prüfen.
+3. Zitierte BGH- und EuGH-Entscheidungen auf Verifizierbarkeit prüfen.
+4. AGB-Klauseln auf Wirksamkeit und innere Widersprüche prüfen.
+5. Fristenangaben auf Korrektheit und Vollständigkeit prüfen.
+6. Dokumentenstruktur auf logische Konsistenz und Vollständigkeit prüfen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB; Quellenhygiene.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 89b HGB — Korrekte Ausgleichsberechnung
+- § 87c HGB — Korrekte Buchauszugsanforderung
+- § 307 BGB — AGB-Klauselprüfung
+- § 89 HGB — Korrekte Kündigungsfristenberechnung
+- § 195 BGB — Korrekte Verjährungsfristenberechnung
+- Art. 17 RL 86/653/EWG — Korrekte Richtlinienanwendung
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Sind alle Zahlen und Berechnungen konsistent und fehlerfrei?
+- Sind alle zitierten Normen in der aktuellen Fassung korrekt angegeben?
+- Sind alle BGH- und EuGH-Entscheidungen verifizierbar?
+- Sind alle Fristen korrekt berechnet und vollständig?
+- Enthalten AGB-Klauseln unangemessene Benachteiligungen nach § 307 BGB?
+- Ist das Dokument logisch konsistent und vollständig?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Quality-Gate. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Rechenfehler in Ausgleichsberechnung — zu hohe oder zu niedrige Forderung.
+- Falsch zitierte Paragrafennummern oder veraltete Normfassungen.
+- BGH-Entscheidung nicht auf Verifizierbarkeitsprüfung unterzogen.
+- Widersprüche zwischen verschiedenen Abschnitten des Dokuments.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Red-Team-Prüfprotokoll, Fehlerbereinigter Entwurf, Checklist Verifizierbarkeit.
+
+## Hintergrund und Kontext
+
+Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
+Es gilt als Sonderprivatrecht zwischen Arbeits- und allgemeinem Handelsrecht.
+Die EU-Handelsvertreterrichtlinie 86/653/EWG setzt europäische Mindeststandards.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Buchauszug, Ausgleich bei Vertragsende.
+Nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Delkredere (§ 86b HGB) regeln Sonderlagen.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Für grenzüberschreitende Sachverhalte bestimmt die Rom-I-Verordnung das anwendbare Recht.
+Zwingende Normen wie Ausgleich (§ 89b HGB) und Buchauszug (§ 87c HGB) stehen nicht zur Disposition.
+Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach § 7a SGB IV maßgeblich.
+
+## Quellen
+
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [§ 87c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87c.html)
+- [§ 307 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__307.html)
+- [BGH auf bgh.de](https://www.bgh.de/entscheidungen/entscheidungen-online)
+- [Dejure HGB](https://dejure.org/gesetze/HGB)

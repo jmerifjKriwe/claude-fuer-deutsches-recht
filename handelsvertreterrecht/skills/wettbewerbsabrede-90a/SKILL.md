@@ -1,48 +1,79 @@
 ---
 name: wettbewerbsabrede-90a
-description: "Prüft nachvertragliches Wettbewerbsverbot."
+description: 'Prüft nachvertragliche Wettbewerbsverbote nach § 90a HGB: Voraussetzungen der Wirksamkeit (Schriftform, max. zwei Jahre, Karenzentschädigung mind. 50 Prozent der zuletzt bezogenen Vergütung), Rechtsfolgen bei unwirksamem Verbot, Wahlrecht des Handelsvertreters sowie Abwehr unzumutbarer Klauseln.'
 ---
 
-# Wettbewerbsabrede 90a
+# Nachvertragliches Wettbewerbsverbot nach § 90a HGB
 
-## Wofür dieser Skill da ist
-Schriftform, Urkunde, Gebiet, Kundenkreis, Produkte, Dauer, Karenzentschädigung und Loslösung.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Nachvertragliches Wettbewerbsverbot nach § 90a HGB.
+Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Unternehmer Y hat mit Handelsvertreter X ein zweijähriges Wettbewerbsverbot vereinbart, zahlt aber keine Karenzentschädigung; X fragt, ob er an das Verbot gebunden ist.
+- Handelsvertreter X erhält nach Vertragsende ein Schreiben, in dem Unternehmer Y auf das Wettbewerbsverbot besteht; X fragt, ob er das Verbot ablehnen kann, da Y die Entschädigung nie gezahlt hat.
+- Unternehmer Y kündigt fristlos; Handelsvertreter X fragt, ob er noch an das nachvertragliche Wettbewerbsverbot gebunden ist oder ob er es nach § 90a Abs. 2 HGB kündigen kann.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Wettbewerbsverbot auf Schriftform nach § 90a Abs. 1 HGB prüfen.
+2. Karenzentschädigung auf Mindesthöhe (mind. 50 Prozent der Jahresvergütung) prüfen.
+3. Dauer: maximal zwei Jahre nach § 90a Abs. 1 HGB prüfen.
+4. Wahlrecht des Handelsvertreters nach § 90a Abs. 2 HGB bei unberechtigter Kündigung des Unternehmers.
+5. Folgen unwirksamen Verbots: Handelsvertreter ungebunden, aber kein Entschädigungsanspruch.
+6. Räumliche und sachliche Beschränkung auf Interessen des Unternehmers prüfen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: § 90a HGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 90a Abs. 1 HGB — Nachvertragliches Wettbewerbsverbot: Voraussetzungen
+- § 90a Abs. 2 HGB — Unverbindlichkeit bei unberechtigter Kündigung
+- § 90a Abs. 3 HGB — Schadensersatz bei Verbotsverstoß
+- § 74 HGB analog — Karenzentschädigung: Mindeststandard 50 Prozent
+- § 92c HGB — Zwingende Mindeststandards für Wettbewerbsverbot
+- Art. 20 RL 86/653/EWG — Wettbewerbsverbot: Zweijahresmaximum
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Ist das Wettbewerbsverbot schriftlich vereinbart?
+- Entspricht die Karenzentschädigung mind. 50 Prozent der zuletzt bezogenen Vergütung?
+- Überschreitet das Verbot die zulässige Dauer von zwei Jahren?
+- Hat der Unternehmer unberechtigt gekündigt — Wahlrecht des Handelsvertreters nach § 90a Abs. 2 HGB?
+- Ist das Wettbewerbsverbot räumlich und sachlich auf berechtigte Interessen des Unternehmers beschränkt?
+- Welche Schadensersatzfolgen bei Verletzung des wirksamen Verbots nach § 90a Abs. 3 HGB?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Wettbewerbsabrede-Review. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Keine Karenzentschädigung vereinbart — Verbot unverbindlich.
+- Dauer über zwei Jahre — Verbot teilweise unwirksam.
+- Wahlrecht nach § 90a Abs. 2 HGB bei unberechtigter Kündigung nicht ausgeübt.
+- Verstoß gegen wirksames Verbot — Schadensersatzanspruch des Unternehmers nach § 90a Abs. 3 HGB.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Wettbewerbsverbot-Analyse, Karenzentschädigungs-Berechnung, Wahlrechtserklärung nach § 90a Abs. 2 HGB.
+
+## Hintergrund und Kontext
+
+Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
+Es gilt als Sonderprivatrecht zwischen Arbeits- und allgemeinem Handelsrecht.
+Die EU-Handelsvertreterrichtlinie 86/653/EWG setzt europäische Mindeststandards.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Buchauszug, Ausgleich bei Vertragsende.
+Nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Delkredere (§ 86b HGB) regeln Sonderlagen.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Für grenzüberschreitende Sachverhalte bestimmt die Rom-I-Verordnung das anwendbare Recht.
+Zwingende Normen wie Ausgleich (§ 89b HGB) und Buchauszug (§ 87c HGB) stehen nicht zur Disposition.
+Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach § 7a SGB IV maßgeblich.
+
+## Quellen
+
+- [§ 90a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__90a.html)
+- [§ 92c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__92c.html)
+- [Art. 20 RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [BGH auf bgh.de](https://www.bgh.de/entscheidungen/entscheidungen-online)
+- [Dejure § 90a HGB](https://dejure.org/gesetze/HGB/90a.html)

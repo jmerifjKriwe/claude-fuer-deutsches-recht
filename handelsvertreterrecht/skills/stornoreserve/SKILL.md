@@ -1,48 +1,79 @@
 ---
 name: stornoreserve
-description: "Prüft Stornoreserve, Rückbelastung und Nichtausführung."
+description: 'Prüft Zulässigkeit und Umfang von Stornoreserven im Handelsvertretervertrag: Einbehalt von Provisionen als Sicherheit gegen Vertragsstornierungen, AGB-Konformität von Stornoreserveklauseln nach § 307 BGB, Auszahlungsbedingungen sowie Zusammenhang mit § 87a Abs. 2 HGB bei Nichtausführung von Verträgen.'
 ---
 
-# Stornoreserve
+# Stornoreserve im Handelsvertretervertrag — Zulässigkeit nach § 307 BGB und § 87a HGB
 
-## Wofür dieser Skill da ist
-Ursache der Nichtausführung, Unternehmerrisiko, Kunde zahlt nicht, Rückstellung und Transparenz.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Stornoreserve im Handelsvertretervertrag — Zulässigkeit nach § 307 BGB und § 87a HGB.
+Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Unternehmer Y behält 20 % der Provision des Handelsvertreters X als Stornoreserve ein; X fragt, ob dieser Einbehalt zulässig und die Klausel AGB-konform ist.
+- Handelsvertreter X hat den Vertrag beendet; Unternehmer Y verweigert die Auszahlung der Stornoreserve und verrechnet sie mit angeblichen Stornierungen aus der Vergangenheit.
+- Handelsvertreter X fragt, wie lange Unternehmer Y eine Stornoreserve nach Vertragsende einbehalten darf und unter welchen Voraussetzungen sie auszuzahlen ist.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Stornoreserveklausel auf AGB-Konformität nach § 307 BGB prüfen.
+2. Höhe der Stornoreserve auf Angemessenheit und branchenübliche Praxis prüfen.
+3. Auszahlungsbedingungen und -fristen im Vertrag ermitteln.
+4. Zusammenhang zwischen Stornoreserve und § 87a Abs. 2 HGB (Nichtausführung) klären.
+5. Verrechnung der Stornoreserve mit anderen Forderungen auf Zulässigkeit prüfen.
+6. Anspruch auf Auszahlung der Stornoreserve nach Vertragsende geltend machen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: § 87a HGB; AGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 87a Abs. 2 HGB — Provisionsrückforderung bei Nichtausführung
+- § 307 BGB — AGB-Kontrolle der Stornoreserveklausel
+- § 87c HGB — Buchauszug als Grundlage für Stornoreserven-Kontrolle
+- § 87 HGB — Provisionsentstehung und Verrechnung
+- § 355 BGB — Verjährung des Auszahlungsanspruchs (analog)
+- Art. 11 RL 86/653/EWG — Rückforderungsbegrenzung auf Nichtausführung
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Ist die Stornoreserveklausel nach § 307 BGB wirksam und angemessen?
+- Entspricht die Höhe der Reserve dem branchenüblichen Maßstab?
+- Unter welchen Bedingungen und wann wird die Stornoreserve ausgezahlt?
+- Ist die Verrechnung der Reserve mit anderen Forderungen zulässig?
+- Haben tatsächliche Stornierungen stattgefunden, die die Reserve rechtfertigen?
+- Verjährt der Auszahlungsanspruch nach Vertragsende?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Stornoreserve-Check. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Unangemessen hohe Stornoreserve — Verstoß gegen § 307 BGB.
+- Keine Auszahlungsregelung im Vertrag — Reserve wird dauerhaft einbehalten.
+- Verrechnung mit fiktiven Stornierungen — unzulässige Eigenaufrechnung.
+- Buchauszug nicht eingeholt — Stornierungen nicht nachprüfbar.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Stornoreserve-Analyse, AGB-Prüfvermerk, Auszahlungsanspruch-Berechnung.
+
+## Hintergrund und Kontext
+
+Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
+Es gilt als Sonderprivatrecht zwischen Arbeits- und allgemeinem Handelsrecht.
+Die EU-Handelsvertreterrichtlinie 86/653/EWG setzt europäische Mindeststandards.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Buchauszug, Ausgleich bei Vertragsende.
+Nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Delkredere (§ 86b HGB) regeln Sonderlagen.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Für grenzüberschreitende Sachverhalte bestimmt die Rom-I-Verordnung das anwendbare Recht.
+Zwingende Normen wie Ausgleich (§ 89b HGB) und Buchauszug (§ 87c HGB) stehen nicht zur Disposition.
+Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach § 7a SGB IV maßgeblich.
+
+## Quellen
+
+- [§ 87a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87a.html)
+- [§ 307 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__307.html)
+- [§ 87c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87c.html)
+- [§ 87 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87.html)
+- [Dejure § 87a HGB](https://dejure.org/gesetze/HGB/87a.html)

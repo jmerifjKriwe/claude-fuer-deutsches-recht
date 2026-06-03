@@ -1,48 +1,79 @@
 ---
 name: alleinvertreter
-description: "Prüft Alleinvertretung und Exklusivität."
+description: 'Prüft Rechte und Pflichten des Alleinvertreters nach § 87 Abs. 2 HGB: Anspruch auf Bezirksprovision bei Direktabschlüssen des Unternehmers, Abgrenzung zum Alleinvertriebsrecht, Beweislast bei Bestellung eines weiteren Vertreters sowie Schadensersatz bei Verletzung der Alleinvertretungsabrede.'
 ---
 
-# Alleinvertreter
+# Alleinvertreter und Bezirksprovision nach § 87 Abs. 2 HGB
 
-## Wofür dieser Skill da ist
-Gebietsschutz, Kundenschutz, Mindestumsatz, Direktvertrieb, Sanktionen und Kartellrecht.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Alleinvertreter und Bezirksprovision nach § 87 Abs. 2 HGB.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie einschlägige BGH- und EuGH-Rechtsprechung ein.
+Der Skill zielt auf konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Alleinvertreter A stellt fest, dass Unternehmer U direkte Vertragsabschlüsse mit Kunden im Vertragsgebiet des A tätigt, ohne diesem Provision zu zahlen; A klagt auf Bezirksprovision nach § 87 Abs. 2 HGB.
+- Unternehmer U hat einen zweiten Handelsvertreter im gleichen Gebiet eingesetzt; Alleinvertreter A macht Schadensersatz und Unterlassung geltend.
+- Alleinvertreter A und Unternehmer U streiten darüber, ob ein Großkunde dem Alleinvertretungsgebiet zuzuordnen ist oder als Key-Account direkt betreut werden darf.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Alleinvertretungsklausel im Vertretervertrag auf Umfang und Gebietsdefinition prüfen.
+2. Direktgeschäfte des Unternehmers im Gebiet ermitteln und dokumentieren.
+3. Provisionsanspruch nach § 87 Abs. 2 HGB für Direktabschlüsse berechnen.
+4. Abgrenzung: Alleinvertretung vs. Alleinvertriebsrecht (exklusiver Vertriebshändler).
+5. Schadensersatzanspruch bei Verletzung der Alleinvertretungsabrede prüfen.
+6. Key-Account-Ausnahmen im Vertrag identifizieren und auf Wirksamkeit prüfen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB; Kartellrecht Vertikal.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 87 Abs. 2 HGB — Bezirksprovision des Alleinvertreters
+- § 87 Abs. 1 HGB — Provisionspflichtige Geschäfte
+- § 280 BGB — Schadensersatz bei Verletzung der Alleinvertretungsabrede
+- § 86a HGB — Pflicht des Unternehmers zur Unterstützung
+- Art. 7 RL 86/653/EWG — Provisionsanspruch auf Gebietsgeschäfte
+- § 242 BGB — Treu und Glauben bei Gebietszuweisung
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Ist eine Alleinvertretungsabrede wirksam vereinbart und wie ist das Gebiet definiert?
+- Hat der Unternehmer im Alleinvertretungsgebiet Direktabschlüsse ohne Zustimmung getätigt?
+- Besteht nach § 87 Abs. 2 HGB ein Provisionsanspruch für diese Direktabschlüsse?
+- Gibt es vertragliche Key-Account- oder Sonderkundenregelungen, die Direktgeschäfte erlauben?
+- Welche Schäden entstehen dem Alleinvertreter durch unbefugte Direktgeschäfte des Unternehmers?
+- Ist die Alleinvertretungsabrede nach AGB-Recht wirksam?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Exklusivitätsvermerk. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Alleinvertretungsgebiet nicht klar definiert — Streit über Zugehörigkeit einzelner Kunden.
+- Key-Account-Ausnahmen nicht ausdrücklich vereinbart — Unternehmer kann Direktgeschäfte nicht rechtfertigen.
+- Bezirksprovision nach § 87 Abs. 2 HGB mit allgemeiner Provision verwechselt.
+- Beweislast für Direktabschlüsse liegt beim Handelsvertreter — Dokumentation erforderlich.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Bezirksprovisionsberechnung, Abmahnungsschreiben bei Verletzung der Alleinvertretungsabrede, Klageschriftentwurf.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien sind: Selbständigkeit des Handelsvertreters, Provisionsanspruch, Informationsrechte,
+Ausgleichsanspruch bei Vertragsende sowie Schutz vor einseitiger Benachteiligung.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt,
+insbesondere zur Berechnung des Ausgleichs, zur Richtlinienkonformität und zu Ausschlussgründen.
+Praktisch relevant sind insbesondere: Provisionsabrechnungen und Buchauszug (§ 87c HGB),
+nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Ausgleichsanspruch (§ 89b HGB).
+Zwingende Vorschriften zum Schutz des Handelsvertreters nach § 92c HGB können vertraglich
+nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+
+## Quellen
+
+- [§ 87 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87.html)
+- [§ 86a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__86a.html)
+- [§ 280 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__280.html)
+- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)

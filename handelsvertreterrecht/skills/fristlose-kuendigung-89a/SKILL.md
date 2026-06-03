@@ -1,48 +1,79 @@
 ---
 name: fristlose-kuendigung-89a
-description: "Prüft fristlose Kündigung aus wichtigem Grund."
+description: 'Analysiert die außerordentliche fristlose Kündigung des Handelsvertretervertrags nach § 89a HGB: wichtiger Grund, Zweiwochenfrist ab Kenntniserlangung, Abmahnungserfordernis, Schadensersatzansprüche nach § 89a Abs. 2 HGB und Auswirkungen auf den Ausgleichsanspruch nach § 89b Abs. 3 Nr. 1 HGB.'
 ---
 
-# Fristlose Kuendigung 89a
+# Fristlose Kündigung nach § 89a HGB — wichtiger Grund und Rechtsfolgen
 
-## Wofür dieser Skill da ist
-Abmahnung, Pflichtverletzung, Umsatzrückgang, Konkurrenz, Geheimnis, Provision und Timing.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Fristlose Kündigung nach § 89a HGB — wichtiger Grund und Rechtsfolgen.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Unternehmer Y kündigt Handelsvertreter X fristlos wegen angeblicher Weitergabe von Geschäftsgeheimnissen an einen Wettbewerber; X bestreitet den Vorwurf und verlangt Ausgleich.
+- Handelsvertreter X kündigt Unternehmer Y fristlos, weil Y seit drei Monaten keine Provisionen zahlt; X macht Schadensersatz nach § 89a Abs. 2 HGB geltend.
+- Unternehmer Y hat die Zweiwochenfrist nach § 89a Abs. 1 S. 2 HGB um zehn Tage überschritten; X bestreitet die Wirksamkeit der fristlosen Kündigung.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Wichtigen Grund auf konkrete Tatsachen und Unzumutbarkeit der Vertragsfortsetzung prüfen.
+2. Zweiwochenfrist nach § 89a Abs. 1 S. 2 HGB ab Kenntniserlangung berechnen.
+3. Abmahnungserfordernis bei heilbaren Pflichtverletzungen prüfen.
+4. Auswirkung auf Ausgleichsanspruch nach § 89b Abs. 3 Nr. 1 HGB klären.
+5. Schadensersatz nach § 89a Abs. 2 HGB bei unberechtigter Kündigung berechnen.
+6. Klagemöglichkeit auf Feststellung der Unwirksamkeit der Kündigung prüfen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: § 89a HGB; BGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 89a Abs. 1 HGB — Außerordentliche Kündigung aus wichtigem Grund
+- § 89a Abs. 1 S. 2 HGB — Zweiwochenfrist ab Kenntniserlangung
+- § 89a Abs. 2 HGB — Schadensersatz bei unberechtigter fristloser Kündigung
+- § 89b Abs. 3 Nr. 1 HGB — Ausschluss des Ausgleichs bei schuldhaftem Verhalten
+- § 626 BGB — Wichtiger Grund (ergänzend anwendbar)
+- Art. 18 RL 86/653/EWG — Ausschluss des Ausgleichs bei schuldhaftem Verhalten
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Liegt ein wichtiger Grund vor, der die sofortige Vertragsbeendigung rechtfertigt?
+- Wurde die Zweiwochenfrist nach § 89a Abs. 1 S. 2 HGB eingehalten?
+- War eine Abmahnung vor der fristlosen Kündigung geboten?
+- Schließt das Verhalten des Handelsvertreters den Ausgleichsanspruch nach § 89b Abs. 3 Nr. 1 HGB aus?
+- Besteht ein Schadensersatzanspruch nach § 89a Abs. 2 HGB bei unberechtigter Kündigung?
+- Ist die Kündigung verhältnismäßig oder wäre eine ordentliche Kündigung ausreichend?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Fristlos-Memo. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Zweiwochenfrist versäumt — fristlose Kündigung unwirksam, ordentliche Kündigung möglich.
+- Keine Abmahnung bei heilbarer Pflichtverletzung — Kündigung unverhältnismäßig.
+- Ausschlussgrund § 89b Abs. 3 Nr. 1 HGB ohne konkretes schuldhaftes Verhalten behauptet.
+- Schadensersatz nach § 89a Abs. 2 HGB bei unbegründeter Kündigung nicht geltend gemacht.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Kündigungsschreiben mit wichtigem Grund, Schadensersatzberechnung § 89a Abs. 2 HGB, Klageentwurf.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt.
+Zwingende Vorschriften nach § 92c HGB können nicht abgebedungen werden;
+entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte (§ 87c HGB), Geheimhaltungspflicht (§ 88 HGB) und Delkredere (§ 86b HGB)
+ergänzen das Recht praxisnah.
+
+## Quellen
+
+- [§ 89a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89a.html)
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [§ 626 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__626.html)
+- [Art. 18 RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [Dejure § 89a HGB](https://dejure.org/gesetze/HGB/89a.html)

@@ -1,48 +1,79 @@
 ---
 name: internationales-recht-rom-i
-description: "Prüft Rechtswahl und Eingriffsnormen im Vertretervertrag."
+description: 'Analysiert das auf Handelsvertreterverträge anwendbare Recht nach der Rom-I-Verordnung: Rechtswahl, objektive Anknüpfung nach Art. 4 Abs. 1 lit. b oder Abs. 2 Rom-I-VO, Eingriffsnormen nach Art. 9 Rom-I-VO und zwingende Schutzvorschriften nach § 92c HGB für in Deutschland tätige Vertreter.'
 ---
 
-# Internationales Recht Rom I
+# Anwendbares Recht auf Handelsvertreterverträge nach Rom-I-Verordnung
 
-## Wofür dieser Skill da ist
-Deutsches Recht, Auslandsvertreter, zwingender Ausgleich, Gerichtsstand und Vollstreckung.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Anwendbares Recht auf Handelsvertreterverträge nach Rom-I-Verordnung.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X (Deutschland) und Unternehmer Y (Schweiz) haben keine Rechtswahlklausel; X prüft, welches Recht auf seinen Vertrag anwendbar ist.
+- Unternehmer Y (USA) hat US-Recht vereinbart; Handelsvertreter X (Deutschland) klärt, ob er sich trotzdem auf § 89b HGB berufen kann.
+- Handelsvertreter X tätig für Unternehmer Y in mehreren EU-Staaten; die Parteien streiten über das anwendbare Recht und den Gerichtsstand.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Rechtswahl im Vertrag prüfen: zulässig nach Art. 3 Rom-I-VO?
+2. Objektive Anknüpfung nach Art. 4 Abs. 1 lit. b oder Abs. 2 Rom-I-VO bestimmen.
+3. Eingriffsnormen des deutschen Rechts nach Art. 9 Rom-I-VO identifizieren.
+4. § 92c HGB als Eingriffsnorm für in Deutschland tätige Handelsvertreter prüfen.
+5. Richtlinienkonformität: RL 86/653/EWG gilt in allen EU-Staaten.
+6. Gerichtsstand parallel nach EuGVVO bestimmen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: Rom I; Brüssel Ia; HGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- Art. 3 Rom-I-VO — Freie Rechtswahl der Parteien
+- Art. 4 Abs. 1 lit. b Rom-I-VO — Anknüpfung an gewöhnlichen Aufenthalt des Dienstleisters
+- Art. 9 Rom-I-VO — Eingriffsnormen des Forumstaats
+- § 92c HGB — Zwingendes Recht für in Deutschland tätige Handelsvertreter
+- Art. 17 RL 86/653/EWG — EU-Mindeststandard für Ausgleich
+- Art. 25 EuGVVO — Gerichtsstandsvereinbarungen
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Welches Recht gilt nach Rechtswahl oder objektiver Anknüpfung?
+- Sind § 92c HGB und § 89b HGB als Eingriffsnormen nach Art. 9 Rom-I-VO anwendbar?
+- Schützt RL 86/653/EWG den Handelsvertreter unabhängig von der Rechtswahl?
+- Ist die Rechtswahlklausel wirksam und in welchem Umfang?
+- Welcher Gerichtsstand gilt parallel zur Rechtswahl?
+- Ist Schweizer oder US-Recht auf deutsche Handelsvertreter anwendbar?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: IPR-Vermerk. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Rechtswahl ausländischen Rechts schließt zwingende deutsche Normen nicht aus.
+- Eingriffsnormen nach Art. 9 Rom-I-VO nicht berücksichtigt — falsches Ergebnis.
+- RL 86/653/EWG-Schutz bei Drittstaats-Rechtswahl verkannt.
+- Tätigkeitsort entscheidend für § 92c HGB — nicht Sitz des Handelsvertreters.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Kollisionsrechtliches Gutachten, Rechtswahl-Klausel Entwurf, Gerichtsstandsanalyse.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt.
+Zwingende Vorschriften nach § 92c HGB können nicht abgebedungen werden;
+entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte (§ 87c HGB), Geheimhaltungspflicht (§ 88 HGB) und Delkredere (§ 86b HGB)
+ergänzen das Recht praxisnah.
+
+## Quellen
+
+- [Art. 3 Rom-I-VO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32008R0593)
+- [§ 92c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__92c.html)
+- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [EuGVVO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32012R1215)
+- [Dejure § 92c HGB](https://dejure.org/gesetze/HGB/92c.html)

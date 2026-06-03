@@ -1,48 +1,79 @@
 ---
 name: mehrfachvertreter
-description: "Prüft Mehrfachvertretung und Interessenkonflikte."
+description: 'Analysiert die Rechtsstellung des Mehrfachvertreters nach § 86 Abs. 1 HGB: Interessenkollisionen bei gleichzeitiger Vertretung konkurrierender Unternehmer, Offenlegungspflichten, Wettbewerbsverbotsklauseln für Mehrfachvertreter, Auswirkungen auf Ausgleichsansprüche und Abgrenzung zum Einfirmenvertreter nach § 92b HGB.'
 ---
 
-# Mehrfachvertreter
+# Mehrfachvertreter nach § 86 HGB — Interessenkonflikte und Offenlegungspflichten
 
-## Wofür dieser Skill da ist
-Konkurrenzprodukte, Zustimmung, Geheimnisse, Loyalität, Wettbewerbsverbote und Portfolio.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Mehrfachvertreter nach § 86 HGB — Interessenkonflikte und Offenlegungspflichten.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X vertritt gleichzeitig drei Unternehmer, darunter zwei direkte Wettbewerber; einer der Unternehmer Y fordert Unterlassung der Doppelvertretung.
+- Handelsvertreter X hat die gleichzeitige Vertretung konkurrierender Unternehmer nicht offengelegt; Unternehmer Y kündigt fristlos nach § 89a HGB.
+- Handelsvertreter X ist als Mehrfachvertreter tätig; er fragt, ob er bei Beendigung eines der Verträge Ausgleich von jedem Unternehmer verlangen kann.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Interessenlage analysieren: sind die vertretenen Unternehmer Wettbewerber?
+2. Offenlegungspflicht nach § 86 Abs. 1 HGB gegenüber allen Unternehmen prüfen.
+3. Vertragsklauseln auf Konkurrenzverbote für Mehrfachvertreter prüfen.
+4. Kündigung wegen verschwiegener Konkurrenzvertretung auf Wirksamkeit prüfen.
+5. Ausgleichsansprüche gegen jeden Unternehmer separat berechnen.
+6. Wettbewerbsrechtliche Implikationen der Mehrfachvertretung analysieren.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB Pflichten; § 90 HGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 86 Abs. 1 HGB — Interessenwahrungspflicht und Offenlegungspflicht
+- § 86 Abs. 2 HGB — Geheimhaltungspflicht bei Mehrfachvertretung
+- § 89a HGB — Fristlose Kündigung wegen Verletzung der Offenlegungspflicht
+- § 92b HGB — Einfirmenvertreter als Gegenbegriff
+- § 89b HGB — Ausgleichsanspruch für jeden Vertretervertrag
+- § 242 BGB — Treu und Glauben bei Interessenkonflikten
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Sind die Unternehmen direkte Wettbewerber oder in verschiedenen Märkten tätig?
+- Hat der Handelsvertreter die Mehrfachvertretung gegenüber allen Unternehmen offengelegt?
+- Gibt es vertragliche Konkurrenzverbote, die eine Mehrfachvertretung ausschließen?
+- Rechtfertigt verschwiegene Konkurrenzvertretung eine fristlose Kündigung nach § 89a HGB?
+- Bestehen Ausgleichsansprüche gegen jeden der vertretenen Unternehmer separat?
+- Ist die Mehrfachvertretung wettbewerbsrechtlich unbedenklich?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Konfliktcheck. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Konkurrenzvertretung ohne Offenlegung — Fristlosigkeitsgrund nach § 89a HGB.
+- Interessenkonflikt bei Mehrfachvertretung nicht erkannt — Haftungsrisiko.
+- Ausgleichsanspruch nur gegen einen Unternehmer geltend gemacht — weitere Ansprüche vergessen.
+- Geheimhaltungspflicht nach § 86 Abs. 2 HGB gegenüber einem Unternehmer verletzt.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Interessenkonflikt-Analyse, Offenlegungsschreiben, Ausgleichsberechnung je Unternehmer.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geklärt.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter zwingend.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) und Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte (§ 87c HGB), Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB)
+ergänzen den praxisrelevanten Rechtsrahmen.
+Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwendbare Recht.
+
+## Quellen
+
+- [§ 86 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__86.html)
+- [§ 89a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89a.html)
+- [§ 92b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__92b.html)
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [Dejure § 86 HGB](https://dejure.org/gesetze/HGB/86.html)

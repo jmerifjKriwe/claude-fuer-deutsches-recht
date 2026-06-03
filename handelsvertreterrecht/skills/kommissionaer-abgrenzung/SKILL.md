@@ -1,48 +1,79 @@
 ---
 name: kommissionaer-abgrenzung
-description: "Grenzt Kommissionär und Handelsvertreter ab."
+description: 'Prüft die Abgrenzung des Handelsvertreters vom Kommissionär nach §§ 383 ff. HGB: Eigengeschäft des Kommissionärs auf Rechnung des Kommittenten, kein eigener Provisionsanspruch kraft HGB, Anwendbarkeit der §§ 84-92c HGB, Ausgleichsanspruch und Auswirkungen der Qualifikation auf Vertrags- und Haftungsrecht.'
 ---
 
-# Kommissionaer Abgrenzung
+# Abgrenzung Handelsvertreter vom Kommissionär nach §§ 383 ff. HGB
 
-## Wofür dieser Skill da ist
-Eigenname für fremde Rechnung, Warenbewegung, Offenlegung, Provision und Risiken.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Abgrenzung Handelsvertreter vom Kommissionär nach §§ 383 ff. HGB.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Vermittler X schließt Kaufverträge im eigenen Namen, aber auf Rechnung des Unternehmers Y ab; er fragt, ob er als Handelsvertreter oder als Kommissionär einzustufen ist.
+- Unternehmer Y behandelt seinen Kommissionär X wie einen Handelsvertreter und zahlt ihm Provision; er prüft, welche Rechtsregeln gelten und ob X Ausgleich verlangen kann.
+- Handelsvertreter X tritt bei bestimmten Geschäften im eigenen Namen auf; Y bestreitet den Provisionsanspruch und qualifiziert X als Kommissionär.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Handeln im eigenen oder fremden Namen feststellen — Kernmerkmal der Abgrenzung.
+2. Auf wessen Rechnung wird gehandelt — eigene Rechnung (Händler) oder Rechnung des Unternehmers?
+3. Vertragstext auf Qualifikation als Handelsvertreter oder Kommissionär prüfen.
+4. Anwendbarkeit der §§ 84-92c HGB auf Kommissionäre klären.
+5. Ausgleichsanspruch: nur bei echtem Handelsvertreter nach § 89b HGB.
+6. Steuerliche Konsequenzen der Qualifikation (Umsatzsteuer) prüfen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB Kommissionsgeschäft; § 84 HGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 84 HGB — Handelsvertreter handelt im fremden Namen
+- § 383 HGB — Kommissionär handelt im eigenen Namen auf fremde Rechnung
+- § 89b HGB — Ausgleichsanspruch nur für Handelsvertreter, nicht für Kommissionäre
+- § 392 HGB — Delkredere des Kommissionärs
+- Art. 1 Abs. 2 RL 86/653/EWG — Handelsvertreter als im fremden Namen Handelnder
+- § 164 BGB — Stellvertretung im fremden Namen
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Handelt der Vermittler im eigenen oder fremden Namen?
+- Sind die §§ 84-92c HGB auf den Vermittler anwendbar?
+- Hat der Kommissionär einen Ausgleichsanspruch nach § 89b HGB?
+- Welche steuerlichen Konsequenzen hat die Qualifikation für die Umsatzsteuer?
+- Kann der Vertrag als Mischform qualifiziert werden?
+- Bestehen unterschiedliche Haftungsregeln für Handelsvertreter und Kommissionär?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Kommissionsvermerk. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Handeln im eigenen Namen fälschlich als Handelsvertretung qualifiziert — kein Ausgleich.
+- Kommissionär irrtümlich mit Ausgleichsanspruch ausgestattet.
+- Mischformen zwischen Handelsvertretung und Kommission nicht erkannt.
+- Steuerliche Mehrbelastung durch falsche Qualifikation.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Qualifikationsgutachten Handelsvertreter vs. Kommissionär, Vertragsanalyse, Steuerliche Hinweise.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt.
+Zwingende Vorschriften nach § 92c HGB können nicht abgebedungen werden;
+entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte (§ 87c HGB), Geheimhaltungspflicht (§ 88 HGB) und Delkredere (§ 86b HGB)
+ergänzen das Recht praxisnah.
+
+## Quellen
+
+- [§ 84 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__84.html)
+- [§ 383 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__383.html)
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [Dejure § 383 HGB](https://dejure.org/gesetze/HGB/383.html)

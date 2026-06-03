@@ -1,48 +1,79 @@
 ---
 name: maturity-startup
-description: "Prüft junge Vertriebsorganisationen und skalierende Sales-Teams."
+description: 'Analysiert Handelsvertreterverträge in Start-up- und Scale-up-Kontexten: Flexibilität der Vertragsgestaltung, Equity-Komponenten neben Provision, Exit-Klauseln bei M&A, Ausgleichsansprüche in Wachstumsphasen, Regelungen bei Pivot des Geschäftsmodells und schnell wechselnde Produktportfolios.'
 ---
 
-# Maturity Startup
+# Handelsvertreterrecht im Start-up- und Scale-up-Kontext
 
-## Wofür dieser Skill da ist
-Was kann schlank bleiben, was muss vertraglich klar, wo lauern Ausgleichsansprüche.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Handelsvertreterrecht im Start-up- und Scale-up-Kontext.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Start-up X möchte seinen ersten Handelsvertreter Y mit einer Kombination aus Provision und Gesellschaftsanteilen (Equity) vergüten; X fragt nach rechtlichen Anforderungen.
+- Handelsvertreter Y eines Scale-up X wird nach einem Pivot des Geschäftsmodells nicht mehr benötigt; Y prüft seinen Ausgleichsanspruch und mögliche Schadensersatzansprüche.
+- Beim Exit (M&A) des Start-up X übernimmt Erwerber Z alle Handelsvertreterverträge; Handelsvertreter Y klärt, ob seine Provisions- und Ausgleichsansprüche gesichert sind.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Vertragsstruktur für Start-up-typische Vergütungsmodelle (Provision + Equity) gestalten.
+2. Ausgleichsanspruch bei Kündigung wegen Pivot oder Produktabkündigung prüfen.
+3. Exit-Klauseln: Ausgleich bei M&A und Übertragung der Handelsvertreterverträge gestalten.
+4. Schnell wechselnde Produktportfolios in der Provisionsregelung abbilden.
+5. Kündigungsfristen und Sonderkündigungsrechte für Start-up-typische Situationen vereinbaren.
+6. Investoreninteressen (Cap Table) und Handelsvertreterrechte in Einklang bringen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB; AGB; DSGVO.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 84 HGB — Handelsvertreter auch in Start-up-Strukturen
+- § 87 HGB — Provisionsanspruch bei wechselndem Produktportfolio
+- § 89b HGB — Ausgleichsanspruch auch nach kurzem Vertragsverhältnis
+- § 89a HGB — Kündigung bei strategischem Pivot als wichtiger Grund?
+- § 89b Abs. 3 Nr. 3 HGB — Ausschluss bei Agenturübertragung im M&A-Prozess
+- Art. 17 RL 86/653/EWG — Ausgleich auch bei kurzen Vertragslaufzeiten
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Hat der Handelsvertreter einen Ausgleichsanspruch trotz kurzer Vertragslaufzeit?
+- Ist ein strategischer Pivot ein wichtiger Grund zur außerordentlichen Kündigung nach § 89a HGB?
+- Wie werden Equity-Komponenten bei Ausgleichsberechnung nach § 89b HGB berücksichtigt?
+- Wer haftet nach M&A für Ausgleichsansprüche — Veräußerer oder Erwerber?
+- Sind Exit-Klauseln für Handelsvertreterverträge kartellrechtlich unbedenklich?
+- Wie wird bei schnell wechselnden Produkten die Bemessungsgrundlage für Provision bestimmt?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Startup-Vertriebscheck. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Kurze Vertragslaufzeit schließt Ausgleich nicht aus — § 89b HGB gilt ab erstem Tag.
+- Equity-Komponente nicht in Ausgleichsberechnung einbezogen — zu niedrige Summe.
+- Kein Ausgleich bei Agenturübertragung im M&A — § 89b Abs. 3 Nr. 3 HGB übersehen.
+- Pivot ohne wichtigen Grund als Kündigungsgrund behandelt — Schadensersatzrisiko.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Start-up-Handelsvertretervertrag Entwurf, Ausgleichsberechnung mit Equity-Komponente, M&A-Klauselempfehlung.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG um.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Informationsrechte, Ausgleich bei Vertragsende.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geklärt.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter zwingend.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) und Kündigung (§§ 89 und 89a HGB).
+Auskunftsrechte (§ 87c HGB), Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB)
+ergänzen den praxisrelevanten Rechtsrahmen.
+Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwendbare Recht.
+
+## Quellen
+
+- [§ 84 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__84.html)
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [§ 89a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89a.html)
+- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)

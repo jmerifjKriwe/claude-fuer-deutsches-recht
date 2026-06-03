@@ -1,48 +1,79 @@
 ---
 name: vergleich
-description: "Entwirft Vergleich im Vertreterstreit."
+description: 'Unterstützt bei der Aushandlung und Gestaltung von außergerichtlichen Vergleichen im Handelsvertreterrecht: Ausgleich nach § 89b HGB, Provisionsstreitigkeiten nach § 87 HGB, Wettbewerbsverbote nach § 90a HGB, Abfindungsvereinbarungen sowie Vollständigkeitsklauseln und Verzichtsregelungen in Vergleichsverträgen.'
 ---
 
-# Vergleich
+# Vergleich und außergerichtliche Einigung im Handelsvertreterstreit
 
-## Wofür dieser Skill da ist
-Provision, Buchauszug, Ausgleich, Kundendaten, Wettbewerbsverbot, Steuer und Erledigung.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Vergleich und außergerichtliche Einigung im Handelsvertreterstreit.
+Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X und Unternehmer Y möchten ihren Ausgleichsstreit nach § 89b HGB durch einen außergerichtlichen Vergleich beenden und suchen einen sachgerechten Vergleichsrahmen.
+- Handelsvertreter X möchte auf Provisionsansprüche gegen eine Abfindung verzichten; Anwältin A prüft, ob der Verzicht auch zwingende § 92c HGB-Ansprüche erfasst.
+- Unternehmer Y und Handelsvertreter X einigen sich in einem Vergleich über die Karenzentschädigung; beide fragen, wie eine vollständige Erledigungsklausel zu formulieren ist.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Vergleichsmasse und Vergleichsrahmen für Ausgleich und Provision berechnen.
+2. Reichweite des Vergleichs auf zwingende Normen nach § 92c HGB prüfen.
+3. Vollständigkeitsklausel (Erledigungsklausel) rechtssicher formulieren.
+4. Verzicht auf Ausgleich: nur nach Vertragsende zulässig nach § 89b Abs. 4 HGB.
+5. Vollstreckbarkeit des Vergleichs durch notarielle Beurkundung oder Prozessvergleich sichern.
+6. Steuerliche Folgen der Abfindung mit dem Steuerberater abstimmen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB; ZPO; BGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 89b Abs. 4 HGB — Verzicht auf Ausgleich nur nach Vertragsende zulässig
+- § 92c HGB — Zwingende Normen: Verzicht auf Mindestansprüche unwirksam
+- § 779 BGB — Vergleichsvertrag: Zulässigkeit und Wirksamkeit
+- § 794 ZPO — Vollstreckung aus Prozessvergleich
+- § 87 HGB — Provisionsansprüche als Vergleichsgegenstand
+- § 90a HGB — Wettbewerbsverbot: Abgeltung im Vergleich
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Erfasst der Vergleich alle offenen Ansprüche zwischen den Parteien?
+- Verzichtet der Handelsvertreter auf Ansprüche, die nach § 92c HGB unabdingbar sind?
+- Ist der Verzicht auf den Ausgleich nach § 89b Abs. 4 HGB erst nach Vertragsende erklärt?
+- Ist der Vergleich vollstreckbar (Prozessvergleich oder notarielle Beurkundung)?
+- Sind steuerliche Folgen der Abfindungszahlung bedacht?
+- Enthält der Vergleich eine vollständige Erledigungsklausel?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Vergleichspaket. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Verzicht auf Ausgleich vor Vertragsende — nach § 89b Abs. 4 HGB unwirksam.
+- Unvollständige Erledigungsklausel — spätere Nachforderungen möglich.
+- Vergleich über zwingende Normen nach § 92c HGB — teilweise nichtig.
+- Nicht vollstreckbarer Vergleich — Zwangsvollstreckung nicht möglich.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Vergleichsentwurf, Erledigungsklausel, Vollstreckbarkeitsprüfung.
+
+## Hintergrund und Kontext
+
+Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
+Es gilt als Sonderprivatrecht zwischen Arbeits- und allgemeinem Handelsrecht.
+Die EU-Handelsvertreterrichtlinie 86/653/EWG setzt europäische Mindeststandards.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Buchauszug, Ausgleich bei Vertragsende.
+Nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Delkredere (§ 86b HGB) regeln Sonderlagen.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Für grenzüberschreitende Sachverhalte bestimmt die Rom-I-Verordnung das anwendbare Recht.
+Zwingende Normen wie Ausgleich (§ 89b HGB) und Buchauszug (§ 87c HGB) stehen nicht zur Disposition.
+Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach § 7a SGB IV maßgeblich.
+
+## Quellen
+
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [§ 92c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__92c.html)
+- [§ 779 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__779.html)
+- [§ 794 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__794.html)
+- [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)

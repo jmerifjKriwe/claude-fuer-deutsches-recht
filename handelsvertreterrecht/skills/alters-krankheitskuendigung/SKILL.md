@@ -1,48 +1,79 @@
 ---
 name: alters-krankheitskuendigung
-description: "Prüft Eigenkündigung wegen Alter oder Krankheit."
+description: 'Analysiert Sonderkündigungsrechte bei Alter oder Krankheit des Handelsvertreters nach § 89 Abs. 3 HGB: außerordentliche Kündigung wegen dauerhafter Arbeitsunfähigkeit, angemessene Kündigungsfristen, Auswirkungen auf Ausgleichs- und Provisionsansprüche sowie Gestaltung von Aufhebungsvereinbarungen.'
 ---
 
-# Alters Krankheitskuendigung
+# Kündigung wegen Alters oder Krankheit des Handelsvertreters nach § 89 Abs. 3 HGB
 
-## Wofür dieser Skill da ist
-Ausgleichserhalt, Nachweise, Zumutbarkeit, Zeitpunkt und Formulierung.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Kündigung wegen Alters oder Krankheit des Handelsvertreters nach § 89 Abs. 3 HGB.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie einschlägige BGH- und EuGH-Rechtsprechung ein.
+Der Skill zielt auf konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X ist seit 14 Monaten krankheitsbedingt nicht mehr in der Lage, sein Vertretungsgebiet zu bearbeiten; Unternehmer Y will das Vertreterverhältnis beenden und prüft das Vorgehen.
+- Handelsvertreter X möchte wegen schwerer Erkrankung selbst kündigen und den Ausgleichsanspruch trotzdem erhalten; er prüft § 89b Abs. 3 Nr. 2 HGB.
+- Unternehmer Y kündigt dem 72-jährigen Handelsvertreter X ordentlich; X bestreitet, dass Alter allein ein Kündigungsgrund sei, und verlangt längere Frist.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Krankheitsdauer und Prognose ärztlich dokumentieren lassen.
+2. Anwendbarkeit von § 89 Abs. 3 HGB (außerordentliche Kündigung bei Dauerunfähigkeit) prüfen.
+3. Ordentliche Kündigungsfristen nach § 89 HGB bestimmen und mit Sonderrecht vergleichen.
+4. Auswirkung auf Ausgleichsanspruch nach § 89b Abs. 3 Nr. 2 HGB (Kündigung aus gesundheitlichen Gründen) prüfen.
+5. Versorgungsansprüche und Sozialversicherungsstatus klären.
+6. Aufhebungsvereinbarung als Alternative zur einseitigen Kündigung prüfen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: § 89b HGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 89 Abs. 3 HGB — Außerordentliche Kündigung bei dauerhafter Arbeitsunfähigkeit
+- § 89 HGB — Ordentliche Kündigung und Fristen
+- § 89b Abs. 3 Nr. 2 HGB — Kein Ausgleichsausschluss bei krankheitsbedingter Kündigung des Vertreters
+- § 89a HGB — Kündigung aus wichtigem Grund
+- § 241 Abs. 2 BGB — Rücksichtnahmepflicht des Unternehmers
+- Art. 18 RL 86/653/EWG — Ausschluss des Ausgleichs nur bei schuldhaftem Verhalten
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Liegt eine dauerhafte Unfähigkeit zur Ausübung der Vertretertätigkeit vor?
+- Sind die Voraussetzungen für außerordentliche Kündigung nach § 89 Abs. 3 HGB erfüllt?
+- Welche Kündigungsfrist gilt bei ordentlicher Kündigung nach § 89 HGB?
+- Bleibt der Ausgleichsanspruch nach § 89b Abs. 3 Nr. 2 HGB erhalten?
+- Hat der Vertreter selbst aus Gesundheitsgründen gekündigt — Ausgleich nach § 89b Abs. 3 Nr. 2 HGB?
+- Sind Versorgungsleistungen oder Pensionszusagen im Vertrag vorhanden?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Eigenkündigungsstrategie. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Außerordentliche Kündigung ohne ärztlichen Nachweis dauerhafter Arbeitsunfähigkeit — angreifbar.
+- Ausgleichsanspruch bei krankheitsbedingter Eigenkündigung des Vertreters irrtümlich verneint.
+- Ordentliche Kündigung ohne Einhaltung der gesetzlichen Fristen — Unwirksamkeit.
+- Diskriminierung wegen Alters als eigenständiger Kündigungsgrund — AGG beachten.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Kündigungsschreiben mit Begründung, Checkliste Ausgleichsanspruch, Entwurf Aufhebungsvereinbarung.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien sind: Selbständigkeit des Handelsvertreters, Provisionsanspruch, Informationsrechte,
+Ausgleichsanspruch bei Vertragsende sowie Schutz vor einseitiger Benachteiligung.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt,
+insbesondere zur Berechnung des Ausgleichs, zur Richtlinienkonformität und zu Ausschlussgründen.
+Praktisch relevant sind insbesondere: Provisionsabrechnungen und Buchauszug (§ 87c HGB),
+nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Ausgleichsanspruch (§ 89b HGB).
+Zwingende Vorschriften zum Schutz des Handelsvertreters nach § 92c HGB können vertraglich
+nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+
+## Quellen
+
+- [§ 89 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89.html)
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [§ 89a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89a.html)
+- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)

@@ -1,48 +1,79 @@
 ---
 name: vorstandsvorlage
-description: "Erstellt Vorstandsvorlage für Vertriebsmodell und Vertreterstreit."
+description: 'Erstellt entscheidungsreife Vorstandsvorlagen zu Handelsvertreter-Themen: Abschluss oder Kündigung von Handelsvertreterverträgen, Ausgleichszahlungen nach § 89b HGB, Wettbewerbsverbote nach § 90a HGB sowie Due-Diligence-Ergebnisse bei M&A mit Handelsvertreter-Netzwerken.'
 ---
 
-# Vorstandsvorlage
+# Vorstandsvorlage zu Handelsvertreter-Themen nach HGB
 
-## Wofür dieser Skill da ist
-Risiko, Zahlen, Optionen, Prozesskosten, Vergleich, Kundenbindung und Compliance.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Vorstandsvorlage zu Handelsvertreter-Themen nach HGB.
+Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Rechtsabteilung Y möchte eine Vorstandsvorlage zur Kündigung des gesamten Handelsvertreternetzes erstellen und benötigt eine strukturierte Darstellung der Ausgleichsrisiken nach § 89b HGB.
+- Unternehmen Y erwägt eine M&A-Transaktion mit Zielunternehmen Z, das ein Handelsvertreternetz betreibt; die Rechtsabteilung erstellt eine Vorstandsvorlage mit Risikoanalyse.
+- Vorstand des Unternehmens Y benötigt eine Entscheidungsvorlage zur Einführung eines neuen Provisionsmodells mit Auswirkungen auf bestehende Handelsvertreterverträge.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Rechtliche Ausgangslage und Vertragsübersicht kompakt zusammenfassen.
+2. Risiken und Chancen der Entscheidung aus handelsvertreterrechtlicher Sicht darstellen.
+3. Ausgleichsrisiken nach § 89b HGB quantifizieren und im Rahmen der Vorlage belegen.
+4. Handlungsoptionen mit Vor- und Nachteilen strukturiert aufzeigen.
+5. Empfehlung mit rechtlicher Begründung und nächsten Schritten formulieren.
+6. Zeitplan und Zuständigkeiten für Umsetzung der gewählten Option benennen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: HGB; Governance.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 89b HGB — Ausgleichsanspruch: Quantifizierung für die Vorlage
+- § 90a HGB — Wettbewerbsverbot und Karenzentschädigung
+- § 89 HGB — Kündigungsfristen und deren finanzielle Konsequenzen
+- § 89a HGB — Fristlose Kündigung: Voraussetzungen und Risiken
+- § 92c HGB — Zwingende Normen: Vertragsgestaltung begrenzt
+- Art. 17 RL 86/653/EWG — Ausgleich: europäischer Mindeststandard
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Sind alle Ausgleichsrisiken nach § 89b HGB vollständig quantifiziert?
+- Sind die Handlungsoptionen rechtlich korrekt bewertet?
+- Ist der Zeitplan unter Berücksichtigung der Kündigungsfristen nach § 89 HGB realistisch?
+- Wurden Wettbewerbsverbots-Kosten nach § 90a HGB in der Kosten-Nutzen-Analyse berücksichtigt?
+- Sind laufende Rechtsstreitigkeiten mit Handelsvertretern in der Vorlage berücksichtigt?
+- Ist die Vorlage entscheidungsreif mit klarer Empfehlung?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Entscheidungsvorlage. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Ausgleichsrisiken in Vorstandsvorlage unterschätzt — Budgetüberschreitung.
+- Kündigungsfristen bei der Zeitplanung nicht berücksichtigt.
+- Zwingende § 92c HGB-Normen in der Handlungsoption nicht beachtet.
+- Fehlende Empfehlung — Vorlage ohne Entscheidungsgrundlage.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Vorstandsvorlage Entwurf, Risikoanalyse Ausgleich, Handlungsoptionen-Tabelle.
+
+## Hintergrund und Kontext
+
+Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
+Es gilt als Sonderprivatrecht zwischen Arbeits- und allgemeinem Handelsrecht.
+Die EU-Handelsvertreterrichtlinie 86/653/EWG setzt europäische Mindeststandards.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Buchauszug, Ausgleich bei Vertragsende.
+Nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Delkredere (§ 86b HGB) regeln Sonderlagen.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Für grenzüberschreitende Sachverhalte bestimmt die Rom-I-Verordnung das anwendbare Recht.
+Zwingende Normen wie Ausgleich (§ 89b HGB) und Buchauszug (§ 87c HGB) stehen nicht zur Disposition.
+Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach § 7a SGB IV maßgeblich.
+
+## Quellen
+
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [§ 90a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__90a.html)
+- [§ 89 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89.html)
+- [§ 92c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__92c.html)
+- [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)

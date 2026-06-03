@@ -1,48 +1,79 @@
 ---
 name: ausgleichsanmeldung
-description: "Formuliert Ausgleichsanmeldung und Vorbehalt."
+description: 'Unterstützt bei fristgerechter Anmeldung des Ausgleichsanspruchs nach § 89b Abs. 4 HGB: Einhaltung der Jahresfrist ab Vertragsende, Inhalt und Form der Anmeldung, Wahrung gegenüber dem Unternehmer und Rechtsfolgen bei Fristversäumnis; Musterschreiben für Handelsvertreter und Unternehmerseite.'
 ---
 
-# Ausgleichsanmeldung
+# Anmeldung des Ausgleichsanspruchs nach § 89b Abs. 4 HGB
 
-## Wofür dieser Skill da ist
-Frist, Anspruchsgrund, Kundenvorteile, Buchauszug, Berechnung, Verjährung und Vergleich.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Anmeldung des Ausgleichsanspruchs nach § 89b Abs. 4 HGB.
+Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
+und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
+Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X hat das Vertreterverhältnis mit Unternehmer Y im März beendet; X prüft, bis wann er den Ausgleichsanspruch anmelden muss und was die Anmeldung enthalten soll.
+- Unternehmer Y bestreitet den Ausgleich mit dem Argument, die Anmeldung sei nach Ablauf der Jahresfrist des § 89b Abs. 4 HGB erfolgt.
+- Handelsvertreter X meldet den Ausgleich vorsorglich an, bevor die genaue Höhe berechnet ist; er klärt, ob eine Anmeldung dem Grunde nach ausreicht.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Datum der Vertragsbeendigung exakt bestimmen (Zeitpunkt der Kündigung oder Aufhebung).
+2. Frist berechnen: ein Jahr ab Vertragsende nach § 89b Abs. 4 S. 2 HGB.
+3. Anmeldungsschreiben dem Grunde nach formulieren; genaue Höhe muss noch nicht feststehen.
+4. Anmeldung per Einschreiben mit Rückschein oder Boten mit Empfangsbestätigung übermitteln.
+5. Fristablauf im Kalender notieren und Bestätigung des Erhalts anfordern.
+6. Gleichzeitig Provisionsabrechnungen für Ausgleichsberechnung anfordern.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: § 89b HGB.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 89b Abs. 4 S. 2 HGB — Jahresfrist für die Anmeldung des Ausgleichs
+- § 89b Abs. 1 HGB — Entstehungsvoraussetzungen des Ausgleichsanspruchs
+- § 89b Abs. 2 HGB — Höchstbetrag des Ausgleichs
+- § 130 BGB — Wirksamkeit einer empfangsbedürftigen Willenserklärung
+- § 193 BGB — Fristverlängerung bei Fristende an Sonn- oder Feiertag
+- Art. 17 RL 86/653/EWG — Ausgleichsanspruch nach Vertragsende
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Wann endete der Handelsvertretervertrag genau?
+- Ist die Jahresfrist nach § 89b Abs. 4 S. 2 HGB noch nicht abgelaufen?
+- Enthält die Anmeldung zumindest den Anspruch dem Grunde nach?
+- Ist die Anmeldung dem Unternehmer oder seinen Bevollmächtigten zugegangen?
+- Wurde der Zugang der Anmeldung dokumentiert (Einschreiben, Empfangsbestätigung)?
+- Greift eine Verlängerung nach § 193 BGB, weil der Jahrestag auf einen Feiertag fällt?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Ausgleichsschreiben. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Jahresfrist verpasst — der Ausgleichsanspruch erlischt unwiederbringlich.
+- Anmeldung nur mündlich erklärt — Nachweis des Zugangs fehlt.
+- Falscher Adressat: Anmeldung geht an Niederlassung statt an Hauptsitz des Unternehmers.
+- Fristbeginn falsch berechnet: Nicht Kündigungsdatum, sondern Datum der Vertragsbeendigung ist maßgeblich.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Muster-Anmeldungsschreiben Ausgleichsanspruch, Fristenkalender, Checkliste Zugangsnachweis.
+
+## Hintergrund und Kontext
+
+Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
+Es setzt die EU-Handelsvertreterrichtlinie 86/653/EWG in nationales Recht um.
+Kernprinzipien: Selbständigkeit des Handelsvertreters, Provisionsanspruch, Informationsrechte,
+Ausgleichsanspruch bei Vertragsende sowie Schutz vor einseitiger Benachteiligung.
+BGH und EuGH haben das Handelsvertreterrecht durch zahlreiche Entscheidungen geprägt,
+insbesondere zur Berechnung des Ausgleichs, zur Richtlinienkonformität und zu Ausschlussgründen.
+Zwingende Vorschriften nach § 92c HGB können vertraglich nicht abgebedungen werden;
+entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
+Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
+
+## Quellen
+
+- [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
+- [§ 130 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__130.html)
+- [§ 193 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__193.html)
+- [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+- [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)

@@ -1,48 +1,79 @@
 ---
 name: waehrung-inflation
-description: "Prüft Währung, Inflation und Auslandsumsätze."
+description: 'Prüft Auswirkungen von Währungsrisiken und Inflation auf Handelsvertreter-Ansprüche: Provisionsberechnung in Fremdwährung, Wertsicherungsklauseln für langfristige Verträge, Anpassungsansprüche nach § 313 BGB bei erheblicher Geldentwertung sowie Währungsrisiko im internationalen Vertrieb.'
 ---
 
-# Waehrung Inflation
+# Währungsrisiken und Inflation im Handelsvertretervertrag nach HGB und § 313 BGB
 
-## Wofür dieser Skill da ist
-Euro/CHF/USD, Wechselkurs, Netto/Brutto, Steuern, Zahlungsausfall und Abrechnung.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Währungsrisiken und Inflation im Handelsvertretervertrag nach HGB und § 313 BGB.
+Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Handelsvertreter X wird in US-Dollar vergütet; der Dollar verliert gegenüber dem Euro erheblich an Wert; er fragt, ob er eine Vertragsanpassung nach § 313 BGB verlangen kann.
+- Unternehmer Y hat mit Handelsvertreter X einen 10-jährigen Vertrag mit festen Provisionsbeträgen geschlossen; durch Inflation verliert die Provision erheblich an Kaufkraft; X fragt nach Anpassungsmöglichkeiten.
+- Handelsvertreter X vertreibt im Ausland und rechnet in der Landeswährung ab; er fragt, wann und wie der Wechselkurs für die Provisionsumrechnung maßgeblich ist.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Provisionsberechnung in Fremdwährung: Welcher Wechselkurs und welcher Zeitpunkt ist maßgeblich?
+2. Wertsicherungsklausel: Zulässigkeit und Gestaltung nach dem Preisklauselgesetz (PrKG).
+3. Anpassungsanspruch nach § 313 BGB (Wegfall der Geschäftsgrundlage) bei erheblicher Geldentwertung prüfen.
+4. Währungsrisiko-Verteilung im Vertrag: wer trägt Kursschwankungen?
+5. Hedging-Empfehlung für langfristige Verträge in Fremdwährung aufzeigen.
+6. Buchauszug auf korrekte Währungsumrechnung und Kurs-Dokumentation prüfen.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: BGB; HGB; Steuer.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- § 87 HGB — Provisionsberechnung: Fremdwährungsklauseln zulässig
+- § 313 BGB — Anpassung wegen Wegfalls der Geschäftsgrundlage (Inflation)
+- § 1 PrKG — Preisklauselgesetz: Wertsicherungsklauseln
+- § 244 BGB — Zahlung in Landeswährung bei Fremdwährungsschuld
+- Art. 57 AEUV — Dienstleistungsfreiheit im internationalen Vertrieb
+- § 87c HGB — Buchauszug: Währungsdokumentation
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Ist die Provisionsberechnung in Fremdwährung vertraglich eindeutig geregelt?
+- Welcher Wechselkurs gilt für die Umrechnung — Datum des Vertragsabschlusses oder der Zahlung?
+- Liegt durch Inflation oder Währungsverlust ein Wegfall der Geschäftsgrundlage nach § 313 BGB vor?
+- Ist eine Wertsicherungsklausel nach PrKG wirksam vereinbart?
+- Wer trägt das Währungsrisiko bei Kursschwankungen?
+- Sind Hedging-Maßnahmen für langfristige Fremdwährungsverträge empfohlen?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Währungsabrechnung. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Wechselkurs-Zeitpunkt im Vertrag nicht geregelt — Streit über Umrechnungskurs.
+- Keine Wertsicherungsklausel bei langfristigen Verträgen — Kaufkraftverlust.
+- § 313 BGB-Anpassung bei Inflation nicht in Betracht gezogen.
+- Buchauszug ohne Währungsdokumentation — Nachprüfung nicht möglich.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Währungsrisiko-Analyse, Wertsicherungsklausel Entwurf, § 313 BGB-Anpassungsantrag.
+
+## Hintergrund und Kontext
+
+Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
+Es gilt als Sonderprivatrecht zwischen Arbeits- und allgemeinem Handelsrecht.
+Die EU-Handelsvertreterrichtlinie 86/653/EWG setzt europäische Mindeststandards.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Buchauszug, Ausgleich bei Vertragsende.
+Nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Delkredere (§ 86b HGB) regeln Sonderlagen.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Für grenzüberschreitende Sachverhalte bestimmt die Rom-I-Verordnung das anwendbare Recht.
+Zwingende Normen wie Ausgleich (§ 89b HGB) und Buchauszug (§ 87c HGB) stehen nicht zur Disposition.
+Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach § 7a SGB IV maßgeblich.
+
+## Quellen
+
+- [§ 313 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__313.html)
+- [§ 244 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__244.html)
+- [§ 87 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87.html)
+- [§ 87c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87c.html)
+- [Dejure § 313 BGB](https://dejure.org/gesetze/BGB/313.html)

@@ -1,48 +1,79 @@
 ---
 name: schiedsgericht
-description: "Prüft Schiedsvereinbarung im Handelsvertretervertrag."
+description: 'Prüft Schiedsklauseln in Handelsvertreterverträgen: Wirksamkeit von Schiedsvereinbarungen nach §§ 1029 ff. ZPO, Verhältnis zu zwingenden Schutznormen des § 92c HGB, Vor- und Nachteile des Schiedsverfahrens, Anerkennung und Vollstreckung von Schiedssprüchen sowie Vorsorgemaßnahmen in der Vertragsgestaltung.'
 ---
 
-# Schiedsgericht
+# Schiedsklausel im Handelsvertretervertrag nach §§ 1029 ff. ZPO und § 92c HGB
 
-## Wofür dieser Skill da ist
-Wirksamkeit, Kosten, Auskunft, Eilmaßnahmen, Ausgleichsanspruch und Vollstreckung.
+## Überblick
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Dieser Skill unterstützt bei rechtlichen Fragen rund um Schiedsklausel im Handelsvertretervertrag nach §§ 1029 ff. ZPO und § 92c HGB.
+Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
+Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
+Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
+BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 
-## Kaltstartfragen
+## Mandantenfall
 
-- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
-- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
-- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
-- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
-- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+- Unternehmer Y hat im Handelsvertretervertrag eine Schiedsklausel vereinbart; Handelsvertreter X fragt, ob er den Ausgleich dennoch vor einem ordentlichen Gericht einklagen kann.
+- Handelsvertreter X hat ein Schiedsverfahren gewonnen; Unternehmer Y will den Schiedsspruch anfechten mit der Begründung, zwingendes Handelsvertreterrecht sei nicht angewendet worden.
+- Handelsvertreter X soll eine Schiedsklausel für seinen neuen Vertrag mit ausländischem Unternehmer Y aushandeln; er fragt nach Vor- und Nachteilen.
 
-## Arbeitslogik
+## Erste Schritte
 
-1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
-2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
-3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
-4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+1. Schiedsklausel auf Wirksamkeit nach §§ 1029 ff. ZPO prüfen.
+2. Vereinbarkeit der Schiedsklausel mit § 92c HGB — zwingende Normen müssen auch im Schiedsverfahren gelten.
+3. Schiedsgericht und anwendbares Recht (Schiedsinstitution, Sitz, Sprache) klären.
+4. Kosten und Zeitaufwand eines Schiedsverfahrens realistisch einschätzen.
+5. Anfechtungsgründe für Schiedssprüche nach § 1059 ZPO prüfen.
+6. Vollstreckung des Schiedsspruchs in Deutschland und im Ausland klären.
 
-## Fachanker
+## Rechtsrahmen
 
-- Primärer Anker: ZPO Schiedsrecht; New York Convention.
-- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
-- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- §§ 1029–1066 ZPO — Schiedsverfahren
+- § 1059 ZPO — Aufhebungsantrag gegen Schiedssprüche
+- § 92c HGB — Zwingende Normen müssen im Schiedsverfahren beachtet werden
+- NY Convention (1958) — Anerkennung ausländischer Schiedssprüche
+- § 1031 ZPO — Form der Schiedsvereinbarung
+- Art. 17 RL 86/653/EWG — Muss auch im Schiedsverfahren angewendet werden
 
-## Typische Stolperstellen
+## Prüfraster
 
-- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
-- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
-- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
-- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+- Ist die Schiedsklausel nach §§ 1029 ff. ZPO wirksam vereinbart?
+- Wird das zwingende Handelsvertreterrecht (§ 92c HGB) im Schiedsverfahren angewendet?
+- Kann der Schiedsspruch wegen Verstoß gegen zwingendes Recht angefochten werden?
+- Welche Schiedsinstituion und welches Recht gelten?
+- Ist ein Schiedsverfahren für den konkreten Streit kosteneffizient?
+- Kann der Schiedsspruch in Deutschland und im relevanten Ausland vollstreckt werden?
 
-## Ergebnisformat
+## Typische Fallstricke
 
-Erzeuge bevorzugt: Schiedsklausel-Review. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+- Schiedsklausel schließt zwingende deutsche Normen nicht aus — Schiedsspruch anfechtbar.
+- Wahl ausländischer Schiedsinstitution ohne Bedacht auf Vollstreckbarkeit.
+- Schiedsverfahren teurer als ordentliches Gericht — falsche Kostenerwartung.
+- Schiedsgericht wendet ausländisches Recht an — zwingende § 92c HGB-Normen ignoriert.
 
-## Qualitätsfilter
+## Output
 
-Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+Schiedsklausel-Analyse, Schiedsvereinbarung Entwurf, Anfechtungsargumente für Schiedsspruch.
+
+## Hintergrund und Kontext
+
+Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
+Es gilt als Sonderprivatrecht zwischen Arbeits- und allgemeinem Handelsrecht.
+Die EU-Handelsvertreterrichtlinie 86/653/EWG setzt europäische Mindeststandards.
+Kernprinzipien: Selbständigkeit, Provisionsanspruch, Buchauszug, Ausgleich bei Vertragsende.
+Nachvertragliches Wettbewerbsverbot (§ 90a HGB) und Delkredere (§ 86b HGB) regeln Sonderlagen.
+Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter.
+Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
+Für grenzüberschreitende Sachverhalte bestimmt die Rom-I-Verordnung das anwendbare Recht.
+Zwingende Normen wie Ausgleich (§ 89b HGB) und Buchauszug (§ 87c HGB) stehen nicht zur Disposition.
+Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach § 7a SGB IV maßgeblich.
+
+## Quellen
+
+- [§ 1029 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__1029.html)
+- [§ 1059 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__1059.html)
+- [§ 92c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__92c.html)
+- [NY Convention auf UNCITRAL](https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards)
+- [Dejure § 1029 ZPO](https://dejure.org/gesetze/ZPO/1029.html)
