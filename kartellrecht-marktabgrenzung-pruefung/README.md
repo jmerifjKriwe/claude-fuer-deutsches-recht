@@ -62,7 +62,7 @@ Tragende Aussagen müssen vor der Ausgabe anhand amtlicher Normfassungen, Behör
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 300 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 305 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -302,6 +302,11 @@ Automatisch generierte Komplett-Liste aller 300 Skills in diesem Plugin. Beschre
 | `produktmarkt-nachfragesubstitution` | Kernschritt jeder Marktabgrenzung: sachlicher Markt aus Nachfragersicht bestimmen. Prüft funktionale Austauschbarkeit Preisreagibilitaet qualitative Unterschiede Verwendungszweck Bedarfsdeckungsaequivalenz. Normen § 18 GWB Art. 102 AEUV... |
 | `public-procurement-bid-rigging` | Bid Rigging und Vergabe: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Bietergemeinschaft, Subcontracting, Angebotsmuster, Selbstreinigung und Schadensersatz prüfen, Evidenz,... |
 | `raeumlicher-markt-abgrenzung` | Prüft den räumlich relevanten Markt: national europaeisch global. Analysiert Preisstrukturen Transportkosten regulatorische Unterschiede Homogenitaetsannahmen Handelsstroeme und Arbitragemoeaeglichkeiten. Bewertet ob nationale Marktdefin... |
+| `rechtsabteilung-gun-jumping-im-signing-to-closing-fenster` | Rechtsabteilungs-Spezialskill für Gun-Jumping im Signing-to-Closing-Fenster: Clean-Team, Interim Covenants und Closing-Operations werden gegen Vollzugsverbot geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungso... |
+| `rechtsabteilung-informationsaustausch-im-branchenverband` | Rechtsabteilungs-Spezialskill für Informationsaustausch im Branchenverband: Meetings, Benchmarks und Statistikmeldungen werden auf Zukunftspreise, Kosten und Kapazitäten geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schnelle... |
+| `rechtsabteilung-kartellschadenersatz-nach-behoerdenentscheidung` | Rechtsabteilungs-Spezialskill für Kartellschadenersatz nach Behördenentscheidung: Follow-on-Claims werden mit Passing-on, Verjährung und Datenanforderung aufgesetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsop... |
+| `rechtsabteilung-meta-plattformdaten-als-kartell-und-datenschutzs` | Rechtsabteilungs-Spezialskill für Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle: Dominanz, Datenzusammenführung und Datenschutzrecht werden in einer Vorstandsnotiz zusammengeführt. Mit Normen, Rechtsprechungsanker, Belegm... |
+| `rechtsabteilung-rpm-alarm-bei-haendler-und-franchise-kanaelen` | Rechtsabteilungs-Spezialskill für RPM-Alarm bei Händler- und Franchise-Kanälen: Preisbindungsfälle werden aus E-Mails, Bonusmechanik und Außendienstnotizen rekonstruiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlu... |
 | `red-flags-checkliste` | Strukturierte Checkliste problematischer Muster in Marktabgrenzungen: ergebnisgetriebene Argumentation Zirkelschluesse fehlende oekonomische Fundierung selektive Datenwahl kuenstliche Marktverengung oder -erweiterung und Präzedenzfall-Mi... |
 | `refusal-to-supply-essential-facilities` | Refusal to Supply Essential Facilities: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720,... |
 | `remedies-zusagen-veraeusserung-zugang` | Remedies Zusagen Veräußerung Zugang: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Ho... |

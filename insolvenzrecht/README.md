@@ -70,7 +70,7 @@ Doppellizenziert unter Apache License, Version 2.0 ODER MIT License, nach Wahl d
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 88 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -123,6 +123,11 @@ Automatisch generierte Komplett-Liste aller 83 Skills in diesem Plugin. Beschrei
 | `konzerninsolvenz-koordination` | Mehrere Gesellschaften eines Konzerns sind insolvent und Koordination der Verfahren muss geplant werden. Prüfraster Konzerninsolvenz §§ 269a-269i InsO Konzern-Gerichtsstand § 3a InsO Gruppen-Folgeverfahren § 3d InsO. Konzernbegriff § 18... |
 | `liquiditaetsvorschau-insolvenzrechtlich` | Erstellt und bewertet die rollierende Liquiditätsvorschau als strukturierte Arbeitsgrundlage für insolvenzrechtliche Tatbestände nach § 17 InsO (Zahlungsunfähigkeit) und § 19 Abs. 2 InsO (Fortbestehensprognose). Lädt, wenn geprüft werden... |
 | `mandat-triage-insolvenzrecht` | Eingangs-Abfrage für insolvenzrechtliche Mandate — Mandant ist Geschäftsführer mit Antragspflicht Gläubiger der Forderung anmelden will oder Arbeitnehmer der Insolvenzgeld beantragt. Klaert Mandantenrolle und Vorgang (Eroeffnungsantrag E... |
+| `rechtsabteilung-auslaendischer-insolvenzverwalter-in-deutschland` | Rechtsabteilungs-Spezialskill für Ausländischer Insolvenzverwalter in Deutschland: Inzidente Anerkennung, Vertretungsmacht und Nachweisform werden als Checkliste geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlu... |
+| `rechtsabteilung-lieferantenpool-und-eigentumsvorbehalt` | Rechtsabteilungs-Spezialskill für Lieferantenpool und Eigentumsvorbehalt: Aussonderung, Absonderung und Fortlieferung werden im Krisenfenster sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-npl-kaeufer-im-schuldnerinsolvenzfall` | Rechtsabteilungs-Spezialskill für NPL-Käufer im Schuldnerinsolvenzfall: Forderungskauf, Sicherheiten und Tabellenanmeldung werden forensisch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-schufa-loeschung-nach-restschuldbefreiung` | Rechtsabteilungs-Spezialskill für Schufa-Löschung nach Restschuldbefreiung: Bonitätsdaten nach Insolvenz werden auf Speicherfrist und Löschungsanspruch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-starug-fruehwarnsystem-fuer-rechtsabteilung` | Rechtsabteilungs-Spezialskill für StaRUG-Frühwarnsystem für Rechtsabteilung: Krisenfrüherkennung, Geschäftsleiterpflicht und Dokumentation werden aufgebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `spezial-antragspflicht-dokumentenmatrix-und-lueckenliste` | Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin insolvenzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-belegmatrix-formular-portal-und-einreichung` | Belegmatrix: Formular, Portal und Einreichungslogik im Plugin insolvenzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-chronologie-internationaler-bezug-und-schnittstellen` | Chronologie: Internationaler Bezug und Schnittstellen im Plugin insolvenzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |

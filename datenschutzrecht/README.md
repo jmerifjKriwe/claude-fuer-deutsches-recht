@@ -221,7 +221,7 @@ datenschutzrecht/
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 216 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 221 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -391,6 +391,11 @@ Automatisch generierte Komplett-Liste aller 216 Skills in diesem Plugin. Beschre
 | `joint-controllership-en-template` | English language joint controller agreement template under Article 26 GDPR. Allocates responsibilities for information duties data subject requests security incidents and DPIA. Includes published essence clause required by Article 26 (2)... |
 | `ki-verordnung-compliance` | KI-Systeme auf Anforderungen der KI-VO und Datenschutz prüfen. KI-VO Risikoklassen Art. 5 9 DSGVO Einwilligung. Prüfraster: Risikoklasse Verbote Hochrisiko-KI Dokumentationspflichten DSGVO-Schnittmengen Transparenzpflichten. Output: KI-C... |
 | `mandantendaten-ki` | Datenschutzkonforme Verwendung von Mandantendaten beim Einsatz von KI-Tools in der Kanzlei prüfen. Art. 5 6 DSGVO BRAO § 43a Verschwiegenheit. Prüfraster: Rechtsgrundlage Zweckbindung Vertraulichkeit Anwaltsprivileg AVV KI-Anbieter. Outp... |
+| `rechtsabteilung-datenpanne-mit-erpressung-und-meldelogik` | Rechtsabteilungs-Spezialskill für Datenpanne mit Erpressung und Meldelogik: 72-Stunden-Meldung, Forensik, Betroffenenkommunikation und Litigation Hold werden praktisch geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller... |
+| `rechtsabteilung-joint-controller-im-plattform-oekosystem` | Rechtsabteilungs-Spezialskill für Joint Controller im Plattform-Ökosystem: Gemeinsame Verantwortlichkeit wird für Plattform, Händler, Franchise und Konzern sauber dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller... |
+| `rechtsabteilung-meta-datenminimierung-und-zweckbindung` | Rechtsabteilungs-Spezialskill für Meta-Datenminimierung und Zweckbindung: Social-, AdTech- und CRM-Daten werden auf Speichergrenzen und Zweckverschiebungen abgeklopft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungs... |
+| `rechtsabteilung-schufa-und-credit-scoring-im-kundenprozess` | Rechtsabteilungs-Spezialskill für Schufa- und Credit-Scoring im Kundenprozess: Scoring-Workflows werden auf maßgeblichen Entscheidungseinfluss und menschliche Nachprüfung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schnell... |
+| `rechtsabteilung-unternehmensgeldbusse-nach-deutsche-wohnen` | Rechtsabteilungs-Spezialskill für Unternehmensgeldbuße nach Deutsche Wohnen: Rechtsabteilungen verteidigen Bußgelder ohne die falsche Fixierung auf eine identifizierte natürliche Täterperson. Mit Normen, Rechtsprechungsanker, Belegmatrix... |
 | `regulierungs-luecken-analyse` | Regulatorische Luecken im Datenschutzrecht identifizieren und Handlungsoptionen aufzeigen. Art. 5 6 24 DSGVO BDSG. Prüfraster: Bestandsaufnahme bestehender Massnahmen Soll-Ist-Abgleich Lueckenbewertung Prioritaeten. Output: Lueckenanalys... |
 | `richtlinien-monitor` | Datenschutzrichtlinien und Unternehmensanweisungen auf Aktualitaet und Konformität monitoren. Art. 24 32 DSGVO TOMs §§ 4 ff. BDSG. Prüfraster: Richtlinienbestand Aenderungsbedarf neue Verarbeitungstätigkeiten gesetzliche Neuerungen Umset... |
 | `ropa-art-30-controller-deutsch-vorlage` | Vollvorlage fuer das Verzeichnis von Verarbeitungstaetigkeiten des Verantwortlichen nach Art. 30 Abs. 1 DSGVO. Tabellenstruktur mit allen sieben Mindestinhalten, ausgefuelltes Beispiel fuer Personalverwaltung, Mandantenakte, Kontaktformu... |

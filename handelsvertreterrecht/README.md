@@ -53,7 +53,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 105 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -128,6 +128,11 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `provisionsanspruch-paragraf87` | 'Klärt Entstehung und Durchsetzung des Provisionsanspruchs nach § 87 HGB: Kausalität zwischen Vermittlungstätigkeit und Vertragsabschluss, Fälligkeit nach Ausführung des Geschäfts, Provisionssatz und Bemessungsgrundlage, Ansprüche bei Di... |
 | `provisionsklage` | 'Unterstützt bei der Erhebung einer Provisionsklage: Klageschriftentwurf mit Anspruchsbegründung nach §§ 87 ff. HGB, Beweisantritte, Stufenklage nach § 254 ZPO, einstweiliger Rechtsschutz sowie Prozesskostenrisiko und Vergleichsstrategie.' |
 | `provisionskuerzung` | 'Analysiert unberechtigte Provisionskürzungen durch den Unternehmer: Zulässigkeit von Stornoreserven, Rückforderungen ausgezahlter Provision, AGB-Kontrolle von Kürzungsklauseln sowie Gegenforderungen des Handelsvertreters und Prozessstra... |
+| `rechtsabteilung-ausgleichsanspruch-89b-mit-datenbeweis` | Rechtsabteilungs-Spezialskill für Ausgleichsanspruch § 89b mit Datenbeweis: Neukunden, Unternehmervorteil, Billigkeit und Abwanderungsquote werden tabellarisch bewiesen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlun... |
+| `rechtsabteilung-einstandszahlung-und-agb-kontrolle` | Rechtsabteilungs-Spezialskill für Einstandszahlung und AGB-Kontrolle: Eintrittsgelder und Schulungspauschalen werden auf versteckte Knebelung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-kuendigung-aus-wichtigem-grund-im-vertrieb` | Rechtsabteilungs-Spezialskill für Kündigung aus wichtigem Grund im Vertrieb: Abmahnung, Sofortkündigung und Ausgleichsausschluss werden zusammen bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-nachvertragliches-wettbewerbsverbot-90a-hgb` | Rechtsabteilungs-Spezialskill für Nachvertragliches Wettbewerbsverbot § 90a HGB: Wettbewerbsverbote werden nach Gebiet, Kundenkreis, Dauer und Entschädigung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsop... |
+| `rechtsabteilung-scheinselbststaendigkeit-des-handelsvertreters` | Rechtsabteilungs-Spezialskill für Scheinselbstständigkeit des Handelsvertreters: Vertriebsmacht, Weisungen, Eingliederung und Unternehmerrisiko werden DSV-fest aufbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Hand... |
 | `rechtsprechung-livecheck` | 'Liefert eine strukturierte Checkliste zur Liveprüfung aktueller BGH- und EuGH-Entscheidungen zum Handelsvertreterrecht: Abfrage maßgeblicher Leitentscheidungen zu § 89b HGB-Ausgleich, § 87c HGB-Buchauszug und § 90a HGB-Wettbewerbsverbot... |
 | `redteam-qualitygate` | 'Stellt einen Red-Team-Qualitätscheck für Handelsvertreter-Rechtsdokumente bereit: Überprüfung von Provisionsberechnungen auf Rechenfehler, Validierung von Ausgleichsberechnungen nach § 89b HGB, Prüfung von Vertragsklauseln auf AGB-Konfo... |
 | `reporting-pflichten` | 'Analysiert Berichts- und Informationspflichten des Handelsvertreters nach § 86 Abs. 2 HGB: Pflicht zur Mitteilung aller nützlichen Informationen, Kundenfeedback, Marktentwicklungen und Konkurrenzbeobachtung; Gegenleistungspflichten des... |

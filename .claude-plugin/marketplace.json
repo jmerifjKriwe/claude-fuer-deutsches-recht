@@ -10,7 +10,7 @@
       "name": "agb-recht-pruefer",
       "source": "./agb-recht-pruefer",
       "description": "Gigantischer AGB-Rechtsprüfer und Klausel-Entwerfer für deutsches Recht: §§ 305 bis 310 BGB, UKlaG, B2C/B2B, Branchen-AGB, Redlining, Klauselrisiko und rechtssichere Entwurfsworkflows.",
-      "version": "74.1.0",
+      "version": "74.3.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -100,7 +100,7 @@
       "name": "bank-rechtsabteilung",
       "source": "./bank-rechtsabteilung",
       "description": "Rechtsabteilung einer mittelgroßen deutschen Bank: Aufsicht, Kredit, ZAG/PSD2, PSD3/PSR-Vorschau, eWpG, MiCAR, Tokenisierung, BaFin, Vorstand, HV und Kanzleisteuerung.",
-      "version": "74.1.0",
+      "version": "74.3.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -325,7 +325,7 @@
       "name": "datenschutzrecht",
       "source": "./datenschutzrecht",
       "description": "DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art. 15, Datenpanne Art. 33/34, Drittlandstransfer Art. 44 ff. inkl. US-Transfer, DPF, SCC, TIA, Behördenpaket und Brückenskills zur Sanktionsverteidigung.",
-      "version": "74.1.1",
+      "version": "74.3.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -370,7 +370,7 @@
       "name": "ecommerce-recht",
       "source": "./ecommerce-recht",
       "description": "Super-Plugin für Online-Shops, Plattformen, Marktplätze und digitale Verbraucherprozesse.",
-      "version": "74.1.0",
+      "version": "74.3.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -703,7 +703,7 @@
       "name": "franchiserecht-praxis",
       "source": "./franchiserecht-praxis",
       "description": "Wirtschaftsrechtliches Plugin für Franchise-Systeme: vorvertragliche Aufklärung, Handbuch, Gebühren, Gebietsschutz, Kartellrecht, Kündigung, Expansion, Streit und Insolvenz.",
-      "version": "74.1.0",
+      "version": "74.3.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -739,7 +739,7 @@
       "name": "gesellschaftsrecht",
       "source": "./gesellschaftsrecht",
       "description": "Gesellschaftsrecht – GmbH/AG/Personengesellschaften, M&A-Due-Diligence ohne Discovery (Q&A + Datenraum), Gesellschafterbeschlüsse, HRB/HRA-Anmeldungen, Closing Checklists, Compliance-Fristen.",
-      "version": "74.1.0",
+      "version": "74.3.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -784,7 +784,7 @@
       "name": "grosskanzlei-corporate-ma",
       "source": "./grosskanzlei-corporate-ma",
       "description": "Freistehendes Big-Law-Corporate/M&A-Plugin: Deal-OS, Padlet-Canvas, Anfänger-/First-Year-Coach, Aktenanlage, Datenraum, Legal DD, Tabellenreview, SPA/APA, W&I, Public M&A, UmwG/UmwStG, StaRUG, Fusionskontrolle, FDI, FSR, Signing/Closing, PMI und 125 Spezial-Skills.",
-      "version": "74.1.0",
+      "version": "74.3.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -802,7 +802,7 @@
       "name": "handelsrecht-hgb",
       "source": "./handelsrecht-hgb",
       "description": "Reines HGB-Plugin für Handelsrecht: Kaufmann, Handelsregister, Firma, Prokura, Handlungsvollmacht, Handelsgeschäfte, Handelskauf, Handelsvertreter, Makler, Kommission, Fracht, Spedition, Lager, Handelsbücher sowie OHG/KG einschließlich MoPeG-Statuswechsel von GbR zu OHG.",
-      "version": "74.1.0",
+      "version": "74.3.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -811,7 +811,7 @@
       "name": "handelsregister-praxis",
       "source": "./handelsregister-praxis",
       "description": "Praxisplugin für den Umgang mit dem Handelsregister: Anmeldung, Registergericht, Rechtspfleger, Registerrichter, Beanstandung, Zwischenverfügung, Beschwerde, Gesellschafterliste, Kapitalmaßnahmen, Firma, Vertretung, Prokura, Löschung, Insolvenzvermerk und registerfeste Nachweise.",
-      "version": "74.1.0",
+      "version": "74.3.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -820,7 +820,7 @@
       "name": "handelsvertreterrecht",
       "source": "./handelsvertreterrecht",
       "description": "Handelsvertreterrecht nach HGB: Status, Provision, Buchauszug, Kündigung, Ausgleich § 89b, Wettbewerbsverbot § 90a und Vertriebsmodelle.",
-      "version": "74.1.0",
+      "version": "74.3.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -928,7 +928,7 @@
       "name": "insolvenzrecht",
       "source": "./insolvenzrecht",
       "description": "Insolvenzrechtliche Skills zu Zahlungsunfähigkeit, Überschuldung, Antragspflicht und Gläubigerantrag.",
-      "version": "74.1.1",
+      "version": "74.3.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -1027,7 +1027,7 @@
       "name": "kartellrecht-marktabgrenzung-pruefung",
       "source": "./kartellrecht-marktabgrenzung-pruefung",
       "description": "Globales Kartellrecht/Competition Law: GWB, Art 101/102 AEUV, Fusionskontrolle, BKartA, DG Competition, FTC/DOJ, ICN-Jurisdiktionen, Dawn Raids, Marktabgrenzung, Missbrauch, Private Enforcement.",
-      "version": "74.1.0",
+      "version": "74.3.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -1054,7 +1054,7 @@
       "name": "ki-vo-ai-act-pruefer",
       "source": "./ki-vo-ai-act-pruefer",
       "description": "Mechanik-Workflow zur KI-VO (EU 2024/1689): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Diagnose, GPAI, Art. 43-Konformitätsbewertung, CE/EU-DB, Marktbeobachtung und Konformitäts-Evidence-Pack.",
-      "version": "74.1.0",
+      "version": "74.3.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -1162,7 +1162,7 @@
       "name": "markenrecht-fashion-luxus",
       "source": "./markenrecht-fashion-luxus",
       "description": "Großes Markenrechts-Plugin für DE/EU/US und internationale Portfolios: DPMA, EUIPO, WIPO/Madrid, USPTO, Markenarten, Schutzhindernisse, Benutzung, Widerspruch, Verfall/Nichtigkeit, Enforcement, Plattformen, Zoll, Lizenzen und Luxus-Fashion-Spezialfälle.",
-      "version": "74.1.0",
+      "version": "74.3.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -1207,7 +1207,7 @@
       "name": "mittelstand-corporate-ma",
       "source": "./mittelstand-corporate-ma",
       "description": "Freistehendes Mittelstandsmandat-Corporate/M&A-Plugin: Deal-Kommandocenter, Aktenanlage, Datenraum, Legal DD, Tabellenreview, Liquiditätsvorschau, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG/Insolvenzplan, CP-Kalender, E-Rechnung/GoBD, PMI.",
-      "version": "74.1.0",
+      "version": "74.3.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -1315,7 +1315,7 @@
       "name": "patentrecht",
       "source": "./patentrecht",
       "description": "Großes Patentrechts-Plugin für Erfindungsaufnahme, Patentanmeldung, Anspruchsentwurf, Recherche, Neuheit, erfinderische Tätigkeit, FTO, Abmahnung, Claim Chart, Vorbenutzungsrecht, Lizenz, Erfinderbenennung, Einspruch, Nichtigkeit, Register und Fristen.",
-      "version": "74.1.0",
+      "version": "74.3.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -1342,7 +1342,7 @@
       "name": "private-equity-praxis",
       "source": "./private-equity-praxis",
       "description": "Private-Equity-Praxis-Plugin für deutsche Kanzleien, Investoren, Fonds, Family Offices und Unternehmen: Fund Formation, KAGB/AIF, ELTIF, Deal Execution, Private Credit, Schuldschein, LMA, NPL, Portfolio, Exit und Distressed.",
-      "version": "74.1.0",
+      "version": "74.3.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -1351,7 +1351,7 @@
       "name": "produktrecht",
       "source": "./produktrecht",
       "description": "Produkthaftung und Produktrecht: Produktsicherheit, GPSR, ProdHaftG, deliktische Produzentenhaftung, Right to Repair, Software-/OTA-Updates, digitale Produktlebenszyklen, Rückruf, Marktüberwachung und Launch-Review.",
-      "version": "74.1.0",
+      "version": "74.3.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -1495,7 +1495,7 @@
       "name": "softwarerecht-de-eu-us",
       "source": "./softwarerecht-de-eu-us",
       "description": "Softwarerecht Deutschland/EU/International/USA: Entwicklung, Lizenzen, SaaS, Open Source, Arbeitnehmer/Freelancer, Softwarepatente, AI-Code und Streit.",
-      "version": "74.1.0",
+      "version": "74.3.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -1540,7 +1540,7 @@
       "name": "steuerrecht-anwalt-und-berater",
       "source": "./steuerrecht-anwalt-und-berater",
       "description": "Steuerrecht für Anwalt (anw- FAO § 9) und Steuerberater (stb-): Einspruch Klage FG Aussenprüfung Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing Closing, BWA SuSa Lohnbuchhaltung Jahresabschluss.",
-      "version": "74.1.0",
+      "version": "74.3.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -1684,7 +1684,7 @@
       "name": "venture-capital-geber",
       "source": "./venture-capital-geber",
       "description": "VC-Geber-Plugin für deutsche Venture-Capital-Investoren, Family Offices, Angels und junge VCs: Sourcing, Deal-Tracking, Wandeldarlehen, SAFE, Pre-Seed, Series A/B, Cap Table, Follow-on, Portfolio-Updates, KAGB/BaFin-Grenzen, EU/CH/UK/US-Brücken und legitime Deal-Taktik.",
-      "version": "74.1.0",
+      "version": "74.3.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -1792,7 +1792,7 @@
       "name": "versicherungsrecht",
       "source": "./versicherungsrecht",
       "description": "Großes Versicherungsrecht-Plugin für VVG, VAG, europäische Versicherungsaufsicht, Lebensversicherung, BU, PKV, Rechtsschutz, Kreditversicherung, D&O, Cyber, Sach- und Haftpflichtdeckung.",
-      "version": "74.1.0",
+      "version": "74.3.0",
       "author": {
         "name": "Klotzkette"
       }
@@ -1888,5 +1888,5 @@
       }
     }
   ],
-  "version": "74.2.0"
+  "version": "74.3.0"
 }

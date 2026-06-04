@@ -39,12 +39,18 @@ Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modell
 - Gebühren, Warenbezug, Gebietsschutz, Onlinevertrieb
 - Kündigung, Abwicklung, Wettbewerbsverbot, Insolvenz
 
+## Neue Spezialschicht für Rechtsabteilungen
+
+Die erweiterten `fran-rs-*`-Skills sind für schnelle, belastbare Inhouse-Entscheidungen gebaut. Sie gehen bewusst über die Grundstationen des Franchisevertrags hinaus und prüfen typische Eskalationslagen: Phantom-Umsatzdaten im Disclosure, Ausgleichsanspruch nach Vertragsende, vertikale Preisbindung, Plattformkanäle, CRM-Daten, Ghost Kitchens, Exit/Entbranding, Insolvenz eines Franchisenehmers, System-Due-Diligence und Know-how-Schutz.
+
+Der Arbeitsmodus ist jeweils gleich: erst Akte und Beweis sichern, dann Normen und Rechtsprechungsanker trennen, anschließend eine kurze Entscheidungsvorlage mit Risikoampel, Frist, Owner und nächstem Schritt ausgeben. So kann eine Rechtsabteilung schnell entscheiden, ob sie intern löst, verhandelt, abmahnt, einstweiligen Rechtsschutz vorbereitet oder Spezialberatung hinzuzieht.
+
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 78 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -100,6 +106,24 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `fran-049-franchisegeber-handbuch-compliance-dashboard` | Compliance-Dashboard für Franchisegeber aufbauen: systemweite Rechts- und Qualitätsüberwachung, KPI-Tracking für Franchise-Compliance, Früherkennung von Vertragsrisiken, Audit-Protokollierung und Berichtspflichten gegenüber internen und... |
 | `fran-050-franchisenehmer-exit-plan` | Exit-Strategie für Franchisenehmer entwickeln: ordentliche und ausserordentliche Kündigung, Übertragung des Franchisebetriebs auf Dritten mit Franchisegeberzustimmung, Ausgleichsansprüche nach § 89b HGB analog und Nachfolge- oder Verkauf... |
 | `fran-051-qualitaetsgate-franchiseakte` | Qualitätsgate-Prüfung der vollständigen Franchiseakte: Vollständigkeit der Systemunterlagen, Kohärenz von Vertrag und Systemhandbuch, Schutzrechtebestand, offene Fristen und finale Plausibilitätsprüfung aller wesentlichen Franchise-Recht... |
+| `fran-rs-ausgleichsanspruch-nach-vertragsende-und-kundendaten` | Spezialskill Franchiserecht für Ausgleichsanspruch nach Vertragsende und Kundendaten: Franchisenehmer-Ausgleich analog § 89b HGB wird nicht als Automat behandelt, sondern über Kundenstamm, Überlassungspflicht, Datennutzung und anonymes M... |
+| `fran-rs-crm-daten-und-gemeinsame-verantwortlichkeit` | Spezialskill Franchiserecht für CRM-Daten und gemeinsame Verantwortlichkeit: Zentrales CRM, Loyalty-Programme und Marketingdaten werden zwischen Franchisegeber und Nehmer auf Verantwortlichkeit und Bußgeldrisiko sortiert. Mit Normen, Rec... |
+| `fran-rs-disclosure-fail-bei-phantom-umsatzzahlen` | Spezialskill Franchiserecht für Disclosure-Fail bei Phantom-Umsatzzahlen: Vorvertragliche Aufklärung, Rentabilitätsprognosen und Systemkennzahlen werden auf Datenbasis, Vergleichbarkeit, Warnhinweise und Kausalität geprüft. Mit Normen, R... |
+| `fran-rs-exit-entbranding-und-social-media-accounts` | Spezialskill Franchiserecht für Exit, Entbranding und Social-Media-Accounts: Bei Vertragsende werden Markenentfernung, Kundendaten, Bewertungsprofile, Domains, Accounts, Inventar und einstweiliger Rechtsschutz sauber getrennt. Mit Normen... |
+| `fran-rs-franchise-m-a-und-system-due-diligence` | Spezialskill Franchiserecht für Franchise-M&A und System-Due-Diligence: Beim Kauf eines Franchisesystems wird nicht nur der Vertrag gelesen, sondern Systemstabilität, Streitquote, Ausgleichsrisiko und IP-Kette geprüft. Mit Normen, Rechts... |
+| `fran-rs-gebietsschutz-gegen-online-und-plattformkanaele` | Spezialskill Franchiserecht für Gebietsschutz gegen Online- und Plattformkanäle: Stationärer Gebietsschutz, Webshop, Plattformverkauf und Click-and-Collect werden getrennt, damit keine unzulässige Online-Vertriebsbeschränkung entsteht. M... |
+| `fran-rs-geheimnisschutz-fuer-handbuch-und-know-how` | Spezialskill Franchiserecht für Geheimnisschutz für Handbuch und Know-how: Systemhandbuch, Rezepturen, Prozesswissen und KPI-Modelle werden als Geschäftsgeheimnisse beweissicher geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und... |
+| `fran-rs-ghost-kitchens-und-lieferplattform-franchise` | Spezialskill Franchiserecht für Ghost Kitchens und Lieferplattform-Franchise: Dark Stores, Ghost Kitchens, Aggregator-Plattformen und markengetarnte Subkonzepte werden auf Lizenz, Hygiene, Verbrauchertäuschung und Gebietsschutz geprüft.... |
+| `fran-rs-health-und-pflege-franchise-mit-hwg-risiko` | Spezialskill Franchiserecht für Health- und Pflege-Franchise mit HWG-Risiko: Franchise in Medizin, Pflege, Fitness oder Kosmetik wird auf Heilmittelwerbung, Qualifikation, Delegation und behördliche Erlaubnisse geprüft. Mit Normen, Recht... |
+| `fran-rs-insolvenz-eines-franchisenehmers-im-filialnetz` | Spezialskill Franchiserecht für Insolvenz eines Franchisenehmers im Filialnetz: Insolvenz, Masse, Weiterbetrieb, Lizenznutzung, Kündigungssperren und Lieferstopps werden als Krisenworkflow für Systemgeber und Verwalter gebaut. Mit Normen... |
+| `fran-rs-irrefuehrende-systemwerbung-und-franchise-sales` | Spezialskill Franchiserecht für Irreführende Systemwerbung und Franchise Sales: Werbung um neue Franchisenehmer wird auf Renditeversprechen, Erfolgsstories, Testimonials und verschleierte Kosten geprüft. Mit Normen, Rechtsprechungsanker,... |
+| `fran-rs-kpi-audit-und-kuendigungsreife` | Spezialskill Franchiserecht für KPI-Audit und Kündigungsreife: Umsatz, Mystery Shopping, Hygiene, Schulung und CI-Verstöße werden auf Beweisreife, Abmahnung und außerordentliche Kündigung geprüft. Mit Normen, Rechtsprechungsanker, Belegm... |
+| `fran-rs-lieferbindung-eigenmarken-und-einkaufsmacht` | Spezialskill Franchiserecht für Lieferbindung, Eigenmarken und Einkaufsmacht: Bezugsbindungen, zentrale Einkaufsvergütungen, Kickbacks und Eigenmarken werden kartell-, AGB- und treuwidrigkeitsfest abgegrenzt. Mit Normen, Rechtsprechungsa... |
+| `fran-rs-master-franchise-und-grenzueberschreitende-expansion` | Spezialskill Franchiserecht für Master-Franchise und grenzüberschreitende Expansion: Master-Franchise, Development Schedule, Subfranchising, Quellensteuer, Exportkontrolle und Lokalisierung werden in einem Internationalisierungsmodell ge... |
+| `fran-rs-nachvertragliches-wettbewerbsverbot-im-franchise` | Spezialskill Franchiserecht für Nachvertragliches Wettbewerbsverbot im Franchise: Wettbewerbsverbote werden nach Vertragsende nicht pauschal akzeptiert, sondern räumlich, sachlich, zeitlich und systemschutzbezogen geprüft. Mit Normen, Re... |
+| `fran-rs-standortmiete-investitionsschutz-und-rueckbau` | Spezialskill Franchiserecht für Standortmiete, Investitionsschutz und Rückbau: Der Franchisenehmer hängt oft am Mietvertrag; deshalb werden Laufzeiten, Eintrittsrechte, Umbaukosten, Rückbau und Sicherheiten zusammen geprüft. Mit Normen,... |
+| `fran-rs-systemhandbuch-aenderungen-ohne-agb-absturz` | Spezialskill Franchiserecht für Systemhandbuch-Änderungen ohne AGB-Absturz: Einseitige Handbuchänderungen werden auf Transparenz, Zumutbarkeit, Änderungsmechanismus und Beweis der Kenntnisnahme geprüft. Mit Normen, Rechtsprechungsanker,... |
+| `fran-rs-vertikale-preisbindung-im-franchisesystem` | Spezialskill Franchiserecht für Vertikale Preisbindung im Franchisesystem: Preisempfehlungen, Mindestpreise, Rabattdruck, Bonusstaffeln und Audit-Sanktionen werden auf RPM-Risiko und Beweise für Druck oder Anreiz geprüft. Mit Normen, Rec... |
 | `franchise-internationaler-kontext` | Franchise im internationalen Kontext. Skill behandelt international taetige Franchise-Systeme Anwendbares Recht zwingende Verbraucherschutznormen Sprachenfrage Rechtswahl und Schiedsabrede. Liefert Pruefraster fuer Cross-Border-Franchise. |
 | `franchise-kuendigung-und-nachvertragliche-wettbewerb` | Franchise: Kuendigung und nachvertragliche Wettbewerbsklausel. Skill behandelt ordentliche und ausserordentliche Kuendigung Vertragsstrafe nachvertragliches Wettbewerbsverbot Karenzentschaedigung und Geheimhaltungspflicht. BGH-Linie zur... |
 | `franchise-marken-ip-lizenzierung` | Franchise: Marken und IP-Lizenzierung. Skill behandelt die markenrechtliche und urheberrechtliche Lizenzstruktur Trademark License Trade Dress Know-How-Schutz Software-Lizenz und postvertragliche Pflichten. Liefert Pruefraster. |

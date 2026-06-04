@@ -105,7 +105,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 109 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 114 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -190,6 +190,11 @@ Automatisch generierte Komplett-Liste aller 109 Skills in diesem Plugin. Beschre
 | `psd2-open-banking-api-xs2a` | Open-Banking- und XS2A-Schnittstellen prüfen: Zugang zu Zahlungskonten, API-Verfügbarkeit, Fallback, TPP-Kommunikation, Consent, Sicherheit, Haftung und Aufsichtsbeschwerde. |
 | `psd2-sca-strong-customer-authentication` | Starke Kundenauthentifizierung nach PSD2 prüfen: Zwei-Faktor-Logik, Ausnahmen, Transaktionsrisikoanalyse, App-Freigabe, Delegation, Betrugsfall und Kundenkommunikation. |
 | `psd3-psr-vorschau-gap-analysis` | PSD3- und PSR-Vorschau für Banken: geplantes EU-Zahlungsdienste-Paket gegen bestehende PSD2/ZAG-Prozesse mappen, Fraud, Open Banking, Transparenz und organisatorische Gaps vorbereiten. |
+| `rechtsabteilung-dora-auslagerung-bei-kritischem-ict-dienstleiste` | Rechtsabteilungs-Spezialskill für DORA-Auslagerung bei kritischem ICT-Dienstleister: ICT-Verträge, Exit-Pläne, Register of Information und Vorstandsvorlagen werden in einem Stresscheck zusammengeführt. Mit Normen, Rechtsprechungsanker, B... |
+| `rechtsabteilung-ewpg-tokenisierung-und-registerrisiko` | Rechtsabteilungs-Spezialskill für eWpG-Tokenisierung und Registerrisiko: Tokenisierte Wertpapiere werden auf Registerführung, Verwahrung, Vertrieb und Prospekt-/MiCAR-Schnittstelle geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix u... |
+| `rechtsabteilung-npl-verkauf-mit-datenschutz-und-bankgeheimnis` | Rechtsabteilungs-Spezialskill für NPL-Verkauf mit Datenschutz und Bankgeheimnis: Notleidende Forderungen werden für Abtretung, Datenraum, Schuldnerinformation und Servicing rechtssicher vorbereitet. Mit Normen, Rechtsprechungsanker, Bele... |
+| `rechtsabteilung-psd2-strong-customer-authentication-fall` | Rechtsabteilungs-Spezialskill für PSD2-Strong-Customer-Authentication-Fall: Haftung bei nicht autorisierten Zahlungsvorgängen wird mit Beweislast, Authentifizierungslog und Kulanzstrategie geprüft. Mit Normen, Rechtsprechungsanker, Beleg... |
+| `rechtsabteilung-schufa-score-und-automatisierte-kreditentscheidu` | Rechtsabteilungs-Spezialskill für Schufa-Score und automatisierte Kreditentscheidung: Kreditprozesse werden darauf geprüft, ob der Score nur Hilfsinformation oder faktisch entscheidend ist. Mit Normen, Rechtsprechungsanker, Belegmatrix u... |
 | `rechtsmonitoring-bank` | Rechtsmonitoring für Banken einrichten: BaFin, Bundesbank, EBA, EZB, EU, Bundesgesetzblatt, Rechtsprechung, Verbände, Relevanzfilter und Umsetzungslog dokumentieren. |
 | `regress-forderungsuebergang-und-sicherheitenfreigabe` | Regress nach Bürgschafts-, Aval- oder Garantiezahlung prüfen: Forderungsübergang § 774 BGB, Kundenbelastung, Sicherheitenverwertung, Mitbürgen, Freigabepflichten, Insolvenz und Vergleich. |
 | `restrukturierung-kreditengagement` | Restrukturierung eines Kreditengagements steuern: Strategie, Sicherheiten, Pool, StaRUG-/InsO-Schnittstelle, Sanierungsbeiträge, Kommunikation und interne Kreditakte ordnen. |

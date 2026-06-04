@@ -59,7 +59,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 67 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 72 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -118,6 +118,11 @@ Automatisch generierte Komplett-Liste aller 67 Skills in diesem Plugin. Beschrei
 | `produktbewertungen-ranking-transparenz` | Produktbewertungen Ranking Transparenz: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BF... |
 | `produktsicherheit-gpsr-onlinehandel` | Produktsicherheit GPSR Onlinehandel: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG;... |
 | `rabatte-streichpreise-preisermaessigung-pangv` | Rabatte Streichpreise Preisermäßigung PAngV: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGV... |
+| `rechtsabteilung-cross-border-shop-eu-verbraucherrecht` | Rechtsabteilungs-Spezialskill für Cross-Border-Shop EU-Verbraucherrecht: Rechtswahl, Gerichtsstand, Sprachversionen und Lieferlandrisiken werden sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-dark-patterns-und-verbraucherwiderruf` | Rechtsabteilungs-Spezialskill für Dark Patterns und Verbraucherwiderruf: Checkout, Kündigungsbutton und Abo-Fallen werden als UX-Legal-Audit geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-influencer-und-affiliate-shop` | Rechtsabteilungs-Spezialskill für Influencer- und Affiliate-Shop: Affiliate-Links, Reviews und Gratisprodukte werden dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-omnibus-preisangaben-und-rabattkommunikation` | Rechtsabteilungs-Spezialskill für Omnibus-Preisangaben und Rabattkommunikation: Rabatte, Streichpreise und personalisierte Preise werden schnell geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-online-marktplatz-nach-dsa` | Rechtsabteilungs-Spezialskill für Online-Marktplatz nach DSA: Notice-and-Action, Trader Traceability und Rankingtransparenz werden operationalisiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `rechtstexte-versionierung-deployment` | Rechtstexte-Versionierung Deployment: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG... |
 | `red-team-shop-vor-launch` | Red-Team Shop vor Launch: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; Elek... |
 | `retourenmanagement-wertersatz` | Retourenmanagement Wertersatz: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR;... |

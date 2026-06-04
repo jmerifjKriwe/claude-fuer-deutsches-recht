@@ -127,7 +127,7 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 94 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 99 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -225,5 +225,10 @@ Automatisch generierte Komplett-Liste aller 94 Skills in diesem Plugin. Beschrei
 | `mittelstand-ma-liquiditaetsvorschau` | Unternehmen in M&A oder Krise braucht Liquiditaetsvorschau: 3-Wochen-Liquiditaet 13-Wochen-Cash-Bridge Runway OPOS Bankdaten Insolvenzschwellen. Normen §§ 17-19 InsO IDW S 11 GoF. Prüfraster Zufluss-Abfluss-Plan OPOS-Abgleich Banklinien-... |
 | `mittelstand-ma-schreibcanvas` | Kanzlei-Anwalt schreibt SPA Replik Board Paper Mandatsvereinbarung DD-Report oder Registertext und braucht substanzorientierten Feedback-Begleiter. Normen BRAO § 43 Sorgfalt Zitierstandards. Prüfraster Sachverhalts-Unterlegung Quellenbel... |
 | `mittelstand-ma-tabellenreview` | Kanzlei prüft Dokumente Tabellen Formeln und Datenpunkte für Corporate/M&A mit interner Review-Matrix aus drei Perspektiven: Recht Steuer Wirtschaft. Normen §§ 276 278 BGB Sorgfaltspflicht. Prüfraster Formel-Validierung Datenpunkt-Konsis... |
+| `rechtsabteilung-betriebsuebergang-im-asset-deal` | Rechtsabteilungs-Spezialskill für Betriebsübergang im Asset Deal: Informationsschreiben, Widerspruchsrisiko und Closing-Unterlagen werden koordiniert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-earn-out-bei-mittelstandsverkauf` | Rechtsabteilungs-Spezialskill für Earn-out bei Mittelstandsverkauf: Earn-out-KPIs, Manipulationsschutz und Post-Closing-Steuerung werden für Verkäufer und Käufer geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlu... |
+| `rechtsabteilung-familiengesellschafter-und-zustimmungsketten` | Rechtsabteilungs-Spezialskill für Familiengesellschafter und Zustimmungsketten: Zustimmungen, Vorkaufsrechte, Güterstand und Nachfolge werden vor Signing gesichert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsopt... |
+| `rechtsabteilung-garantiekatalog-ohne-grosskanzlei-overkill` | Rechtsabteilungs-Spezialskill für Garantiekatalog ohne Großkanzlei-Overkill: Garantien werden für Mittelstandstransaktionen risikobasiert gestrafft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-vendor-due-diligence-fuer-versteckte-altlasten` | Rechtsabteilungs-Spezialskill für Vendor Due Diligence für versteckte Altlasten: Der Verkäufer baut eine Verteidigungsakte statt bloßer Verkaufsbroschüre. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

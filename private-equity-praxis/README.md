@@ -43,7 +43,7 @@ Am besten mit `allgemein` oder `pe-001-kaltstart-deal-und-investor-routing` begi
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 103 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 108 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -150,5 +150,10 @@ Automatisch generierte Komplett-Liste aller 103 Skills in diesem Plugin. Beschre
 | `pe-101-translation-de-en-pe-terms` | Übersetzt PE-/Credit-Begriffe zwischen deutscher Rechtslogik und englischer Dealsprache. |
 | `pe-102-negotiation-playbook-pe` | Erstellt Verhandlungspositionen, Fallbacks, Red Lines und Commercial-Risk-Trade-offs. |
 | `pe-103-closing-bible-pe` | Erstellt Closing Bible, Signaturketten, Registerbelege, Funds Flow, CP-Erfüllung und Post-Closing-Ablage. |
+| `rechtsabteilung-continuation-fund-und-conflict-governance` | Rechtsabteilungs-Spezialskill für Continuation Fund und Conflict Governance: GP-led Secondaries werden mit Interessenkonflikten, Bewertung und Zustimmungspfaden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlun... |
+| `rechtsabteilung-debt-push-down-und-financial-assistance` | Rechtsabteilungs-Spezialskill für Debt Push-down und Financial Assistance: Akquisitionsfinanzierung wird auf Upstream-Security- und Cashflow-Fallen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-management-participation-sweet-equity` | Rechtsabteilungs-Spezialskill für Management Participation Sweet Equity: Sweet Equity wird steuerlich, arbeitsrechtlich und vesting-seitig in eine Risikoampel übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlun... |
+| `rechtsabteilung-sanierungsgutachten-bei-add-on-krise` | Rechtsabteilungs-Spezialskill für Sanierungsgutachten bei Add-on-Krise: PE-Haus und Portfoliogeschäftsführung erhalten ein Distress-Decision-Memo. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-w-i-claim-nach-financial-statements-breach` | Rechtsabteilungs-Spezialskill für W&I-Claim nach Financial Statements Breach: Claim Notice, Loss Quantification und Versichererkommunikation werden taktisch vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlun... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

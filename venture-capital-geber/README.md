@@ -64,11 +64,16 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 105 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `allgemein` | Einstieg und Workflow-Routing im VC-Geber-Plugin: klärt Investorrolle, Deal-Phase, Instrument, Unterlagen, Trackingsystem, rote Aufsichtslinien und schlägt passende Spezial-Skills vor. |
+| `rechtsabteilung-data-room-update-und-insider-governance` | Rechtsabteilungs-Spezialskill für Data Room Update und Insider-Governance: Updates, Privilege, Confidentiality und Follow-on-Risiko werden getrackt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-down-round-und-anti-dilution` | Rechtsabteilungs-Spezialskill für Down Round und Anti-Dilution: Weighted Average, Full Ratchet und Cap Table werden rechtlich und wirtschaftlich übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-founder-vesting-und-leaver-streit` | Rechtsabteilungs-Spezialskill für Founder Vesting und Leaver-Streit: Good/Bad Leaver wird auf Durchsetzbarkeit, Steuer und Motivationsrisiko geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-investor-consent-matters-ohne-organblockade` | Rechtsabteilungs-Spezialskill für Investor Consent Matters ohne Organblockade: Zustimmungskataloge werden zwischen Schutzrecht und faktischer Geschäftsführung austariert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlu... |
+| `rechtsabteilung-safe-und-wandeldarlehen-nach-deutschem-recht` | Rechtsabteilungs-Spezialskill für SAFE und Wandeldarlehen nach deutschem Recht: VC prüft, ob US-Templates in deutsche GmbH-Finanzierung passen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `vc-001-kaltstart-vc-cockpit` | Führt junge VCs, Angels und Family Offices in 90 Sekunden durch Rolle, Phase, Ticket, Unterlagen, Entscheidungslage und nächsten Output. |
 | `vc-002-rookie-modus-vc-begriffe` | Erklärt Pre-Seed, Seed, Series A/B, bridge, runway, lead, follow-on, pro rata, SAFE, cap table und liquidation preference auf Deutsch. |
 | `vc-003-investorprofil-family-office-fonds-angel` | Baut aus Herkunft des Geldes, Mandat, Risikoappetit, Ticketgröße, Haltedauer, Steuer, Reputation und Regulatorik ein VC-Investorprofil. |

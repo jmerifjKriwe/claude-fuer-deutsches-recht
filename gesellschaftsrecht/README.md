@@ -150,7 +150,7 @@ Dein Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/ge
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 94 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 99 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -215,6 +215,11 @@ Automatisch generierte Komplett-Liste aller 94 Skills in diesem Plugin. Beschrei
 | `integrations-management` | 'Post-Merger-Integrations-Tracker — phasenbasierter Arbeitsplan, Zustimmungsverfolgung, Vertragsübertragung im Großmaßstab, Statusberichte. Initialisiert aus SPA, Deal-Zusammenfassung oder Abschluss-Checkliste. Berücksichtigt § 613a BGB... |
 | `ki-werkzeug-uebergabe` | 'KI-Tool-Übergabe für Massenvertragsprüfungen an Luminance oder Kira. Laden wenn der Nutzer "Luminance", "Kira", "KI-Prüfung", "automatische Extraktion" oder "Massenprüfung" erwähnt oder der Datenraum mehr als ~50 Verträge enthält, die e... |
 | `mandat-triage-gesellschaftsrecht` | Eingangs-Abfrage für gesellschaftsrechtliche Mandate — Mandant fragt nach GmbH-Gründung Gesellschafterbeschluss Kapitalerhöhung Geschäftsführer-Abberufung M&A-Transaktion oder Gesellschafterstreit. Klaert Mandantenrolle (Gesellschafter G... |
+| `rechtsabteilung-beirat-mit-vetorechten-in-der-gmbh` | Rechtsabteilungs-Spezialskill für Beirat mit Vetorechten in der GmbH: Beiratsrechte werden zwischen Beratung, Zustimmung, Weisung und faktischer Geschäftsführung abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Han... |
+| `rechtsabteilung-geschaeftsfuehrerhaftung-fuer-compliance-versage` | Rechtsabteilungs-Spezialskill für Geschäftsführerhaftung für Compliance-Versagen: Compliance-Redflags werden in Organpflichten, Ressortverteilung und D&O-Meldung übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Hand... |
+| `rechtsabteilung-gesellschafterliste-und-registerstreit` | Rechtsabteilungs-Spezialskill für Gesellschafterliste und Registerstreit: Liste, Legitimationswirkung, Widerspruch und Registersperre werden als Fristenplan bearbeitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlung... |
+| `rechtsabteilung-kapitalerhoehung-mit-bezugsrechtsausschluss` | Rechtsabteilungs-Spezialskill für Kapitalerhöhung mit Bezugsrechtsausschluss: Minderheitenschutz, Verwässerung, Bewertungsunterlagen und Eilrechtsschutz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlung... |
+| `rechtsabteilung-stimmbindung-und-beschlussmangel-nach-hannover-9` | Rechtsabteilungs-Spezialskill für Stimmbindung und Beschlussmangel nach Hannover-96-Linie: Rechtsabteilungen trennen Satzungsverstoß, schuldrechtliche Stimmbindung und Anfechtbarkeit. Mit Normen, Rechtsprechungsanker, Belegmatrix und sch... |
 | `schriftliche-beschlussfassung` | 'Entwirft Beschlüsse im schriftlichen Verfahren (§ 48 Abs. 2 GmbHG) oder Umlaufbeschlüsse im Hausstil mit Präzedenzsuche im Beschlussarchiv. Bei der AG: Hinweis, dass HV-Beschlüsse Präsenz oder virtuelle HV (§ 118a AktG) erfordern und no... |
 | `spezial-anmeldungen-verhandlung-vergleich-und-eskalation` | Anmeldungen: Verhandlung, Vergleich und Eskalation im Plugin gesellschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-arbeitsbereich-mandantenentscheidung` | Arbeitsbereich: Mandantenkommunikation und Entscheidungsvorlage im Plugin gesellschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |

@@ -48,7 +48,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 105 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -117,6 +117,11 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `prompt-code-ownership` | Prüft Rechte an Prompts, Generated Code, Agent Workflows, Copilot-Ausgaben und internen Promptbibliotheken. |
 | `public-procurement-software` | Prüft öffentliche Softwarebeschaffung, EVB-IT, Leistungsbeschreibung, Cloud, Open Source, IT-Sicherheit und Nachprüfungsrisiken. |
 | `quellen-und-livecheck-softwarerecht` | Erzwingt Liveprüfung aktueller Normen, Behördenquellen, EU-Rechtsakte, USPTO/EPO-Guidance und keine Blindzitate. |
+| `rechtsabteilung-data-act-und-cloud-switching-klauseln` | Rechtsabteilungs-Spezialskill für Data Act und Cloud-Switching-Klauseln: Softwareverträge werden auf Datenzugang, Portabilität und Exit-Charges geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-developer-ip-bei-deutschen-angestellten` | Rechtsabteilungs-Spezialskill für Developer-IP bei deutschen Angestellten: Code-Rechte, Nebenprojekte, Repos und Freelancer-Beiträge werden aufgeklärt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-ki-code-und-trainingsdaten-im-lizenzvertrag` | Rechtsabteilungs-Spezialskill für KI-Code und Trainingsdaten im Lizenzvertrag: AI-assisted coding wird mit Warranty, Audit, Indemnity und Source-Hygiene geregelt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-open-source-copyleft-im-saas-stack` | Rechtsabteilungs-Spezialskill für Open-Source-Copyleft im SaaS-Stack: Komponenten werden in Copyleft, Notice, Patent Grant und SaaS-Trigger getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-us-work-made-for-hire-im-deutschen-projekt` | Rechtsabteilungs-Spezialskill für US Work Made for Hire im deutschen Projekt: US-Templates werden auf deutsche Rechteübertragung und moral rights angepasst. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `redteam-software-qualitygate` | Finaler Qualitätsfilter für Software-Rechtsausgaben gegen Halluzination, fehlende Quellen, übersehene IP-/OSS-/US-Risiken und Vertragswidersprüche. |
 | `repository-access-offboarding` | Prüft Repository-Zugänge, Schlüssel, Secrets, Adminrechte, Offboarding, BYOD und Beweissicherung. |
 | `reseller-oem-var` | Prüft Reseller-, OEM- und Value-Added-Reseller-Verträge mit Marken, Sublicensing, Support und Haftungskette. |

@@ -1,6 +1,6 @@
 # betreuungsrecht
 
-**74 Skills** · Stand `v74.2.0`
+**74 Skills** · Stand `v74.3.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/betreuungsrecht/README.md)

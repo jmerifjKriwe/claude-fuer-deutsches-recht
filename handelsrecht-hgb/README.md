@@ -47,7 +47,7 @@ Das Plugin ist bewusst **kein** Gesellschaftsrechts-Fachanwaltsplugin, sondern e
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -86,6 +86,11 @@ Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Beschrei
 | `ohg-vertretung-und-haftung` | Prüft Vertretung, Geschäftsführung, persönliche Haftung und Einwendungen der Gesellschafter. |
 | `prokura-paragraphen-48-53-hgb` | Prüft Erteilung, Umfang, Grenzen, Gesamtprokura, Filialprokura und Registereintragung. |
 | `prozessuale-hgb-beweisfragen` | Prüft Handelsbücher, Bestätigungsschreiben, Registerauszug, Zeugen aus Organisation und Urkundenbeweis. |
+| `rechtsabteilung-handelskauf-maengelruege-nach-377-hgb` | Rechtsabteilungs-Spezialskill für Handelskauf-Mängelrüge nach § 377 HGB: Rügefristen, Wareneingang und Serienfehler werden als Beweisworkflow geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-kaufmaennisches-bestaetigungsschreiben-im-konzer` | Rechtsabteilungs-Spezialskill für Kaufmännisches Bestätigungsschreiben im Konzernalltag: Schweigen, E-Mail-Thread und Bestellplattform werden auf Bindungswirkung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlu... |
+| `rechtsabteilung-kommissionsgeschaeft-und-plattformhaendler` | Rechtsabteilungs-Spezialskill für Kommissionsgeschäft und Plattformhändler: Kommission, Eigenhandel und Marktplatzrolle werden rechtlich sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-lagerhalter-und-speditionshaftung` | Rechtsabteilungs-Spezialskill für Lagerhalter- und Speditionshaftung: Schaden, Haftungsgrenzen und Regressketten werden schnell berechnet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-prokura-und-grundstuecksgeschaeft` | Rechtsabteilungs-Spezialskill für Prokura und Grundstücksgeschäft: Registerlage, Spezialvollmacht und Gutglaubensschutz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `registerbeanstandung-und-beschwerde` | Prüft Zwischenverfügung, Beanstandung, Nachbesserung und Beschwerde gegen Registergericht. |
 | `registerpublizitaet-paragraph-15-hgb` | Prüft negative und positive Publizität des Handelsregisters. |
 | `scheinkaufmann-und-rechtsschein` | Prüft Rechtsschein kaufmännischen Auftretens und Vertrauensschutz. |

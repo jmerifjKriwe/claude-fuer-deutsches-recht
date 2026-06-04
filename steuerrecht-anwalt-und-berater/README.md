@@ -216,7 +216,7 @@ Skills für Steuerberater und GmbH-Geschäftsleitung — BWA-/SuSa-/Bilanzprüfu
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 280 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 285 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -313,6 +313,11 @@ Automatisch generierte Komplett-Liste aller 280 Skills in diesem Plugin. Beschre
 | `fa-stu-vorbehaltsaufgaben-stberg` | Pruefung der Vorbehaltsaufgaben nach StBerG — wer darf welche steuerliche Hilfeleistung erbringen und welche Folge hat die unerlaubte Hilfeleistung. Anwendungsfall Unternehmen oder Lohnsteuerhilfeverein berufen sich auf eingeschraenkte B... |
 | `fa-stu-wegzugsteuer-6-astg` | Vollstaendige Bearbeitung der Wegzugsbesteuerung bei Kapitalanteilen iSd § 17 EStG — Tatbestand Folgen Stundung und Rueckkehrregelung nach der AStG-Reform. Anwendungsfall Mandant zieht ins Ausland oder uebertraegt Anteile an im Ausland A... |
 | `fa-stu-zollwert-unionszollkodex` | Praxisbearbeitung zollrechtlicher Mandate — Tarifierung Art. 56 UZK Zollwert Art. 70 ff. UZK Praeferenzen und Zollverfahren. Anwendungsfall Importeur erhaelt Nacherhebung wegen falscher Tarifierung oder das Hauptzollamt setzt einen erhoe... |
+| `rechtsabteilung-dac7-und-plattformreporting` | Rechtsabteilungs-Spezialskill für DAC7 und Plattformreporting: Plattformbetreiber prüfen Meldepflicht, Verkäuferdaten und Korrekturprozesse. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-grunderwerbsteuer-share-deal-closing` | Rechtsabteilungs-Spezialskill für Grunderwerbsteuer-Share-Deal-Closing: Signing, Closing, Anteilsvereinigung und Doppelbelastungsrisiko werden in eine Steuermatrix übertragen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller H... |
+| `rechtsabteilung-organschaft-nach-eugh-bfh-update` | Rechtsabteilungs-Spezialskill für Organschaft nach EuGH/BFH-Update: Organträger, Eingliederung und Haftung werden für Konzernrechtsabteilungen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-transfer-pricing-bei-ip-und-softwarelizenzen` | Rechtsabteilungs-Spezialskill für Transfer Pricing bei IP- und Softwarelizenzen: Intercompany-Lizenzen werden mit DEMPE, Benchmark und Dokumentation geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-vga-bei-geschaeftsfuehrer-und-beiratsverguetung` | Rechtsabteilungs-Spezialskill für vGA bei Geschäftsführer- und Beiratsvergütung: Vergütung, Rückwirkung, Dokumentation und Fremdvergleich werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `rechtsstand-mai-2026-faktenbank` | Faktenbank und Quellen-Gate für aktuelle steuerrechtliche Aussagen mit Stand 29.05.2026. Nutze diesen Skill vor Ausgaben zu E-Rechnung, Umsatzsteuer, Krypto, Grundsteuer, Mindeststeuer, DBA, Betriebsprüfung, Einspruch, AdV und Steuer-/SV... |
 | `schriftsatzkern-substantiierung` | Substantiierten Schriftsatzkern für steuerrechtliche Verfahren aufbauen. Anwendungsfall Einspruch Klage FG Revision BFH Stundungs- und Erlassantrag muessen begründet und mit Beweisen unterfuettert werden. Tatsachenvortrag-Geruest Anspruc... |
 | `stb-addison-bwa-konfiguration-tipps` | Addison BWA-Konfiguration. Anwendungsfall Kanzleien mit Wolters Kluwer Addison statt DATEV. Methodik Unterschiede zu DATEV Konten-Konfiguration Branchenanpassung. Output BWA in Addison. |

@@ -1,6 +1,6 @@
 # notariat-alltag
 
-**66 Skills** · Stand `v74.2.0`
+**66 Skills** · Stand `v74.3.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/README.md)

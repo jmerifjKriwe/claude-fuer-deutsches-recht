@@ -96,7 +96,7 @@ Die vollständige Skillliste steht unten automatisch generiert. Inhaltlich arbei
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 74 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 79 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -138,6 +138,11 @@ Automatisch generierte Komplett-Liste aller 74 Skills in diesem Plugin. Beschrei
 | `positionsmarke` | Positionsmarken für Streifen, Muster, Farbpositionen und Produktdetails prüfen: Darstellung, gestrichelte Produktumrisse, Position, Unterscheidungskraft, Verkehrsdurchsetzung und Verletzung. |
 | `prioritaet-ausstellung-pariser-verbandsuebereinkunft` | Priorität, Ausstellungspriorität und PVÜ-Fristen bei Markenanmeldungen prüfen: nationale Erstanmeldung, Unionsmarke, Madrid, Messepriorität, Nachanmeldung, Prioritätsbelege und Fristenkalender. |
 | `produktpiraterie-und-zoll` | Anti-Produktpiraterie und Zoll-Grenzbeschlagnahme: Modehaus oder Luxusmarke will gefaelschte Waren an der EU-Grenze stoppen. Normen: VO (EU) 608/2013 (Zoll-Enforcement), § 14 MarkenG, § 25a ZollVG (Antrag auf Tätigwerden AWA). Prüfraster... |
+| `rechtsabteilung-google-ads-und-keyword-kollision` | Rechtsabteilungs-Spezialskill für Google Ads und Keyword-Kollision: Keyword Advertising wird nach Herkunftsfunktion, Anzeigegestaltung und Beweislage bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-grenzbeschlagnahme-gegen-faelschungen` | Rechtsabteilungs-Spezialskill für Grenzbeschlagnahme gegen Fälschungen: Zollanträge, Muster, Vernichtungsverfahren und Beweissicherung werden vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-influencer-brand-use-und-erschoepfung` | Rechtsabteilungs-Spezialskill für Influencer-Brand-Use und Erschöpfung: Affiliate-Posts, Hashtags und Resale werden auf Marken- und Werberecht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-lookalike-produkte-und-rufausbeutung` | Rechtsabteilungs-Spezialskill für Lookalike-Produkte und Rufausbeutung: Luxury-Counsel trennt Marke, Design, Nachahmung und wettbewerbliche Eigenart. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-plattformhaftung-nach-louboutin-amazon` | Rechtsabteilungs-Spezialskill für Plattformhaftung nach Louboutin-Amazon: Markeninhaber prüfen, ob Marketplace-Auftritt dem Plattformbetreiber als eigene Nutzung zugerechnet werden kann. Mit Normen, Rechtsprechungsanker, Belegmatrix und... |
 | `relative-schutzhindernisse-verwechslungsgefahr` | Relative Schutzhindernisse und Verwechslungsgefahr nach MarkenG und UMV prüfen: Zeichenähnlichkeit, Waren- und Dienstleistungsähnlichkeit, Kennzeichnungskraft, Serienzeichen, Bekanntheitsschutz und Widerspruchsstrategie. |
 | `schadensersatz-drei-methoden-auskunft` | Schadensersatz im Markenrecht berechnen und vorbereiten: konkrete Schadensberechnung, Verletzergewinn, Lizenzanalogie, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Kosten und Vergleichswert. |
 | `selektiver-vertrieb-coty` | Selektiven Vertrieb für Luxusgüter und Markenware prüfen und gestalten: qualitative Kriterien, Plattformverbot, Diskriminierungsfreiheit, Vertikal-GVO, Marktanteile, Händleraufnahme und Vertragsdurchsetzung. |
