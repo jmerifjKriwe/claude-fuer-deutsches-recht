@@ -76,8 +76,8 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `lebensversicherung-rueckkaufswert-abschlusskosten-widerspruch` | Rückkaufswert, Abschlusskosten, Kündigung, Beitragsfreistellung und Altvertrags-Widerspruch in Lebens- und Rentenversicherung prüfen. |
 | `lebensversicherung-ueberschussbeteiligung-bewertungsreserven` | Überschussbeteiligung, Schlussüberschuss, Bewertungsreserven und Informationsrechte in Lebensversicherung und Rentenversicherung verständlich prüfen. |
 | `nachhaltigkeit-taxonomie-sfdr-versicherungsprodukt` | Nachhaltigkeits- und ESG-Angaben bei Versicherungsanlageprodukten: Taxonomie, SFDR, Greenwashing, Produktfreigabe und Vertrieb. |
-| `private-krankenversicherung-beitragsanpassung-treuhaender` | Private Krankenversicherung: Beitragsanpassung, Treuhänder, Begründungsschreiben, Tarifwechsel, Auskunft und Rückforderungsrisiken prüfen. |
 | `pkv-kostenerstattung-medizinische-notwendigkeit` | PKV-Leistungsprüfung: medizinische Notwendigkeit, Gebührenrecht, Heilbehandlung, Hilfsmittel, Psychotherapie, Arzneimittel und Kürzungsschreiben. |
+| `private-krankenversicherung-beitragsanpassung-treuhaender` | Private Krankenversicherung: Beitragsanpassung, Treuhänder, Begründungsschreiben, Tarifwechsel, Auskunft und Rückforderungsrisiken prüfen. |
 | `produkthaftpflicht-rueckrufkosten` | Produkthaftpflichtversicherung: Produktfehler, Personenschaden, Rückruf, Austauschkosten, Rückrufkostenversicherung und internationale Lieferketten. |
 | `rechtsschutz-deckungszusage-stichentscheid` | Rechtsschutzversicherung: Deckungsanfrage, Erfolgsaussicht, Mutwilligkeit, Stichentscheid, Schiedsgutachten, Gebühren und Mandatskommunikation. |
 | `rechtsschutz-erfolgsaussicht-mutwilligkeit` | Rechtsschutzversicherung: Ablehnung wegen fehlender Erfolgsaussicht oder Mutwilligkeit angreifen, ohne das Hauptmandat zu gefährden. |

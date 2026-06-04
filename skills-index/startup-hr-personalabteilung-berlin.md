@@ -1,6 +1,6 @@
 # startup-hr-personalabteilung-berlin
 
-**110 Skills** · Stand `v73.1.1`
+**110 Skills** · Stand `v74.2.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/startup-hr-personalabteilung-berlin/README.md)

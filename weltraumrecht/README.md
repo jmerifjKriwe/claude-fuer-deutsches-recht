@@ -43,7 +43,7 @@ Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modell
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 97 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -144,5 +144,10 @@ Automatisch generierte Komplett-Liste aller 97 Skills in diesem Plugin. Beschrei
 | `space-094-incident-response-satellitenausfall` | Incident Response bei Satellitenausfall – Notfallprotokoll, Behördenmeldung, Kundenkommunikation. |
 | `space-095-launch-readiness-legal-review` | Launch Readiness Legal Review – Checkliste vor dem Start: Genehmigungen, Verträge, Versicherungen. |
 | `space-096-post-mission-aktenabschluss-und-lessons-learned` | Post-Mission-Abschluss – Vertragsabwicklung, Aktenaufbewahrung, Debriefing, Lessons Learned. |
+| `space-097-anti-satellite-test-ban-und-orbital-debris-pledge` | Anti-Satellite-Test-Ban und Orbital-Debris-Pledge: zerstoerende ASAT-Tests Voelkerrechtsbewertung UN-Resolutionslinie und kommerzielle Konsequenzen fuer Operator Versicherer Investoren Lieferanten. Klaert Geltung des Outer Space Treaty b... |
+| `space-098-lunar-heritage-schutz-historischer-mondlandestellen` | Lunar Heritage: Schutz historischer Mondlandestellen und ihrer Artefakte. Klaert das US One Small Step to Protect Human Heritage in Space Act 2020 die Auslegung der Artikel I II und IX OST zur Frage Non-Appropriation und Common Heritage... |
+| `space-099-quantenkommunikation-via-satellit-bsi-und-iso-27001` | Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Missionen und Schluesselverteilung uebersatellitisches Backbone. Klaert die Pflichten nach BSI-Gesetz NIS2-RL Geheimschutz-Verordnung GHB sowie ITU-Frequenzkoordination und... |
+| `space-100-commercial-leo-destinations-iss-nachfolge` | Commercial LEO Destinations: rechtliche Architektur kommerzieller Low-Earth-Orbit-Stationen Axiom Orbital Reef Starlab Haven-1 als ISS-Nachfolge. Klaert NASA-Commercial-LEO-Programme Phase 2 Vertragsarchitektur Space Act Agreement Servic... |
+| `space-101-space-weather-solarsturm-haftung-und-versicherung` | Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von Satellitenausfall Stromnetzausfall GPS-Stoerung und Funkausfall. Klaert das Verhaeltnis Force-Majeure zu Naturereignis-Klauseln in Versicherungs- und Liefer... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

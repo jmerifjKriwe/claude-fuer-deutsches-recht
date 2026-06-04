@@ -44,7 +44,7 @@ Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modell
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 52 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -100,5 +100,13 @@ Automatisch generierte Komplett-Liste aller 52 Skills in diesem Plugin. Beschrei
 | `fran-049-franchisegeber-handbuch-compliance-dashboard` | Compliance-Dashboard für Franchisegeber aufbauen: systemweite Rechts- und Qualitätsüberwachung, KPI-Tracking für Franchise-Compliance, Früherkennung von Vertragsrisiken, Audit-Protokollierung und Berichtspflichten gegenüber internen und... |
 | `fran-050-franchisenehmer-exit-plan` | Exit-Strategie für Franchisenehmer entwickeln: ordentliche und ausserordentliche Kündigung, Übertragung des Franchisebetriebs auf Dritten mit Franchisegeberzustimmung, Ausgleichsansprüche nach § 89b HGB analog und Nachfolge- oder Verkauf... |
 | `fran-051-qualitaetsgate-franchiseakte` | Qualitätsgate-Prüfung der vollständigen Franchiseakte: Vollständigkeit der Systemunterlagen, Kohärenz von Vertrag und Systemhandbuch, Schutzrechtebestand, offene Fristen und finale Plausibilitätsprüfung aller wesentlichen Franchise-Recht... |
+| `franchise-internationaler-kontext` | Franchise im internationalen Kontext. Skill behandelt international taetige Franchise-Systeme Anwendbares Recht zwingende Verbraucherschutznormen Sprachenfrage Rechtswahl und Schiedsabrede. Liefert Pruefraster fuer Cross-Border-Franchise. |
+| `franchise-kuendigung-und-nachvertragliche-wettbewerb` | Franchise: Kuendigung und nachvertragliche Wettbewerbsklausel. Skill behandelt ordentliche und ausserordentliche Kuendigung Vertragsstrafe nachvertragliches Wettbewerbsverbot Karenzentschaedigung und Geheimhaltungspflicht. BGH-Linie zur... |
+| `franchise-marken-ip-lizenzierung` | Franchise: Marken und IP-Lizenzierung. Skill behandelt die markenrechtliche und urheberrechtliche Lizenzstruktur Trademark License Trade Dress Know-How-Schutz Software-Lizenz und postvertragliche Pflichten. Liefert Pruefraster. |
+| `franchise-mindestumsatz-territorialschutz` | Franchise: Mindestumsatzklauseln und Territorialschutz. Skill behandelt die Vertragsbedingungen zur Mindestumsatzpflicht des Franchisenehmers Konsequenzen bei Nichterreichen Territorialschutz vs. Wettbewerbsverbot. Aktuelle Rechtsprechun... |
+| `franchise-verguetungsmodelle-initial-laufend` | Franchise: Verguetungsmodelle initial und laufend. Skill klaert die Struktur Initial Fee Royalties Marketing Fund Software Fee und ihre AGB-rechtliche Behandlung. Aktuelle Diskussion zur Pflicht zur Marketingfondbeitragsverwendung. Liefe... |
+| `franchise-vertragsstruktur-master-unit` | Franchise: Vertragsstruktur Master-Agreement und Unit-Agreements. Skill behandelt die hierarchische Vertragsstruktur in internationalen Franchise-Systemen Master-Franchisee Sub-Franchisee Anpassung an nationales Recht. Klaert das Spannun... |
+| `franchise-vorvertragliche-aufklaerung-bgh` | Franchise: vorvertragliche Aufklaerungspflichten. Skill klaert den Umfang der Pflicht des Franchisegebers den potenziellen Franchisenehmer rechtzeitig vor Vertragsschluss vollstaendig ueber Marktstellung Vergangenheitsdaten Investitionsr... |
+| `franchise-warenbezugsbindung-vbe` | Franchise: Warenbezugsbindung und VBE-Verordnung. Skill klaert die kartellrechtliche Pruefung von Warenbezugspflichten im Franchise Vertikal-Block-Exemption-VO (EU) 2022/720 Marktanteilsschwelle Quotenbindung sowie 'Single Branding'. Lie... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

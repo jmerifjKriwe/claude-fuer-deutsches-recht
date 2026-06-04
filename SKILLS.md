@@ -1,8 +1,8 @@
 # Skill-Gesamtuebersicht
 
-Automatisch generierte Gesamtuebersicht aller **20258 Skills** in **209 Plugins**.
+Automatisch generierte Gesamtuebersicht aller **20669 Skills** in **209 Plugins**.
 
-Stand: `v74.1.0`.
+Stand: `v74.2.0`.
 
 ## ⬇️ Alle Skills auf einmal herunterladen
 
@@ -34,7 +34,7 @@ So bekommt man die komplette Sammlung als ZIP:
 
 **Wichtig:** Wenn irgendwo im Repo ein neuer Skill angelegt wird (also ein neuer Ordner `<plugin>/skills/<skill>/SKILL.md`), erscheint er beim naechsten Lauf von `scripts/generate-skills-md.py` automatisch -- sowohl in dieser Liste als auch auf der jeweiligen Plugin-Detailseite. Es kann also nichts fehlen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 20258 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 20669 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
 
 ## Alle Plugins
 
@@ -97,7 +97,7 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 | **fachanwalt-familienrecht** | 114 | [Skills ansehen](skills-index/fachanwalt-familienrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-familienrecht.zip) |
 | **fachanwalt-gewerblicher-rechtsschutz** | 62 | [Skills ansehen](skills-index/fachanwalt-gewerblicher-rechtsschutz.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-gewerblicher-rechtsschutz.zip) |
 | **fachanwalt-handels-gesellschaftsrecht** | 54 | [Skills ansehen](skills-index/fachanwalt-handels-gesellschaftsrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-handels-gesellschaftsrecht.zip) |
-| **fachanwalt-insolvenz-sanierungsrecht** | 57 | [Skills ansehen](skills-index/fachanwalt-insolvenz-sanierungsrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-insolvenz-sanierungsrecht.zip) |
+| **fachanwalt-insolvenz-sanierungsrecht** | 468 | [Skills ansehen](skills-index/fachanwalt-insolvenz-sanierungsrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-insolvenz-sanierungsrecht.zip) |
 | **fachanwalt-internationales-wirtschaftsrecht** | 54 | [Skills ansehen](skills-index/fachanwalt-internationales-wirtschaftsrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-internationales-wirtschaftsrecht.zip) |
 | **fachanwalt-it-recht** | 114 | [Skills ansehen](skills-index/fachanwalt-it-recht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-it-recht.zip) |
 | **fachanwalt-medizinrecht** | 136 | [Skills ansehen](skills-index/fachanwalt-medizinrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-medizinrecht.zip) |

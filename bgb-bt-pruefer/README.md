@@ -64,74 +64,74 @@ Automatisch generierte Komplett-Liste aller 70 Skills in diesem Plugin. Beschrei
 | Skill | Beschreibung |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Skill-Routing für BGB-BT-Fälle: Anspruchsziel, Vertragstyp, gesetzliches Schuldverhältnis, Störung, Beweise, Fristen und Output. |
-| `arbeitsnaher-dienstvertrag-bgb` | Prüft zivilrechtliche Dienstleistungsverhältnisse mit Arbeitsrechtsnähe, Scheinselbstständigkeit und Vergütungsfragen. |
+| `arbeitsnaher-dienstvertrag-bgb` | Prüft zivilrechtliche Dienstleistungsverhältnisse mit Arbeitsrechtsnähe, Scheinselbstständigkeit und Vergütungsfragen nach §§ 611 ff. BGB. |
 | `auftrag-und-unentgeltliche-taetigkeit` | Prüft Auftrag §§ 662 ff. BGB, Weisungen, Auskunft, Rechenschaft, Aufwendungsersatz, Herausgabe und Kündigung. |
-| `bauvertrag-und-verbraucherbauvertrag` | Prüft Bauvertrag, Verbraucherbauvertrag, Änderungsanordnung, Vergütungsanpassung, Baubeschreibung und Widerruf. |
-| `bereicherungsrecht-entreicherung-und-saldotheorie` | Prüft Wertersatz, Entreicherung, verschärfte Haftung, Saldotheorie und Minderjährigenschutz. |
-| `bereicherungsrecht-leistungskondiktion` | Prüft Leistung, Etwas erlangt, ohne Rechtsgrund, Zweckverfehlung und Rückabwicklung. |
-| `bereicherungsrecht-nichtleistungskondiktion` | Prüft Eingriffskondiktion, Verwendungskondiktion, Rückgriffskondiktion und Vorrang der Leistungskondiktion. |
-| `bt-fristen-erklaerungen-zugang` | Prueft Ruecktritt, Minderung, Kuendigung, Nacherfuellung, Mahnung, Abnahmeverlangen und Fristsetzung mit Zugangsnachweis. |
-| `bt-vertragsentwurf-modellvertrag` | Fuehrt durch Entwurf und Review von Kauf-, Werk-, Dienst-, Auftrag-, Geschaeftsbesorgungs-, Leasing- und Mischvertragsklauseln. |
-| `buergschaft-einreden-und-akzessorietaet` | Prüft Einreden des Bürgen, Vorausklage, Erlöschen der Hauptschuld, Sicherungszweck und Höchstbetragsbürgschaft. |
-| `buergschaft-form-und-verbraucherbuerge` | Prüft Schriftform, elektronische Formgrenzen, Verbraucherbürgen, krasse Überforderung, Sittenwidrigkeit und Angehörigenbürgschaft. |
-| `buergschaft-grundschema-paragraph-765` | Prüft Bürgschaft: Hauptschuld, Bürgschaftserklärung, Schriftform, Akzessorietät, Einreden und Inanspruchnahme. |
-| `darlehen-und-finanzierung` | Prüft Gelddarlehen, Verbraucherdarlehen, Kündigung, Widerruf, Zinsen, Sicherheiten und Rückzahlungsstörungen. |
-| `delikt-organisationspflicht` | Prueft deliktische Organisationspflichten bei Unternehmen, Delegation, Compliance, Sicherheit, Auswahl und Ueberwachung. |
-| `delikt-psychische-schaeden` | Prueft deliktische Haftung fuer Persoenlichkeitsrechtsverletzungen, psychische Gesundheitsverletzungen, Ehrschutz und digitale Bloßstellung. |
-| `delikt-verkehrspflicht-digital` | Prueft deliktische Verkehrspflichten bei Software, Updates, IoT, Sicherheitsluecken und Produktbeobachtung. |
-| `delikt-vertrag-konkurrenz` | Prueft, wann vertragliche Maengelrechte deliktische Ansprueche ergaenzen oder verdraengen, insbesondere bei Integritaetsinteresse und Mangelfolgeschaden. |
-| `deliktsrecht-haftung-fuer-verrichtungen-paragraph-831` | Prüft Verrichtungsgehilfe, Ausführung der Verrichtung, Exkulpation, Auswahl/Überwachung und Schaden. |
-| `deliktsrecht-paragraph-823-1` | Prüft Rechtsgutsverletzung, Handlung, Kausalität, Rechtswidrigkeit, Verschulden und Schaden. |
-| `deliktsrecht-paragraph-826-sittenwidrige-schaedigung` | Prüft sittenwidrige vorsätzliche Schädigung, Gesamtwürdigung, Schädigungsvorsatz und Schaden. |
-| `deliktsrecht-schutzgesetz-paragraph-823-2` | Prüft Schutzgesetzqualität, persönlicher/sachlicher Schutzbereich, Verstoß, Verschulden und Schaden. |
-| `deliktsrecht-sonstiges-recht` | Prüft Eigentum, Besitz, eingerichteter und ausgeübter Gewerbebetrieb, APR und sonstige Rechte. |
-| `deliktsrecht-tierhalter-und-gebaeude` | Prüft Tierhalterhaftung, Gebäudeeinsturz, Grundstücks- und Verkehrssicherungspflichten. |
-| `dienstvertrag-und-behandlungsvertrag` | Prüft Dienstvertrag, freie Dienste, Geschäftsbesorgung, Behandlungsvertrag, Dokumentation und Aufklärung. |
-| `gesamtschuld-und-regress-bgb-bt` | Prüft Gesamtschuld, Innenausgleich, Bürgschaftsregress, GoA/Bereicherung/Delikt-Regress und Verjährung. |
-| `geschaeftsbesorgung-auftrag-mandat` | Vertieft Auftrag und entgeltliche Geschaeftsbesorgung einschließlich Rechenschaft, Herausgabe, Weisung, Zahlungsdiensten und Mandatsnaehe. |
-| `geschaeftsbesorgung-und-zahlungsdienste` | Prüft entgeltliche Geschäftsbesorgung, Zahlungsdienste, Ausführung, Fehlbuchung und Schnittstellen zum Bankrecht. |
-| `goa-entgegenstehender-wille-paragraphen-678-679` | Prüft entgegenstehenden Willen, öffentliches Interesse, Unterhaltspflichten und Schadensersatz bei aufgedrängter Hilfe. |
-| `goa-grundschema-paragraph-677` | Prüft echte berechtigte GoA: fremdes Geschäft, Fremdgeschäftsführungswille, Interesse und wirklicher/mutmaßlicher Wille. |
-| `kaufrecht-abweichungsvereinbarung-objektive-anforderungen-476` | Prüft, ob Händler oder Hersteller objektive Anforderungen, digitale Funktionen, Updateversprechen, Kompatibilität oder Interoperabilität wirksam abbedungen haben. |
-| `kaufrecht-beweislast-verjaehrung-digitale-elemente` | Prüft Beweislastvermutung, Sonderverjährung und Hemmungs-/Ablaufregeln bei Mängeln an digitalen Elementen, Updatepflichten und Reparaturübergabe. |
-| `kaufrecht-dauerhafte-bereitstellung-digitaler-elemente-475c` | Prüft Waren mit digitalen Elementen bei dauerhafter Bereitstellung, insbesondere Smart-Home, Fahrzeuge, Wearables, Maschinen, Apps, Cloudkonten und laufende Firmwaredienste. |
-| `kaufrecht-gefahruebergang-und-versendung` | Prüft Gefahrübergang, Versendung, Annahmeverzug, Transportverlust und Verbrauchsgüter-Ausnahmen. |
-| `kaufrecht-nacherfuellung-ruecktritt-minderung` | Prüft kaufrechtliche Mängelrechte, Fristsetzung, Unzumutbarkeit, Fehlschlagen, Rücktritt und Minderung. |
-| `kaufrecht-rechtsmangel-paragraph-435` | Prüft Rechtsmängel: Eigentum, Belastungen, Rechte Dritter, IP-Rechte, öffentlich-rechtliche Beschränkungen und Registerlagen. |
-| `kaufrecht-right-to-repair-und-nacherfuellung` | Verbindet kaufrechtliche Nacherfüllung mit dem EU-Right-to-Repair-Stand, Reparaturvorrang, Reparaturinformationen, Ersatzteilen, Software-Locks und reparaturfreundlicher Mandatsstrategie. |
-| `kaufrecht-sachmangel-paragraph-434` | Prüft Sachmängel nach subjektiven, objektiven, Montage- und Installationsanforderungen einschließlich Funktionalität, Kompatibilität, Interoperabilität, Zubehör, Anleitung, Werbung, digitalen Bestandteilen und öffentlicher Äußerungen. |
-| `kaufrecht-schadensersatz-aufwendungsersatz` | Prüft §§ 280 ff. BGB im Kaufrecht mit Mangelschaden, Mangelfolgeschaden, Verzögerung und nutzlosen Aufwendungen. |
-| `kaufrecht-updates-sicherheitsupdates-327f-475b` | Prüft Aktualisierungspflichten bei digitalen Produkten und Waren mit digitalen Elementen, einschließlich Sicherheitsupdates, Informationspflichten, Installationsfehlern und Folgen unterlassener Updates. |
-| `kaufrecht-ware-mit-digitalen-elementen-475b` | Prüft, ob eine Kaufsache wegen App, Cloud, Firmware, Konto, Schlüssel, Sensorik oder OTA-Update eine Ware mit digitalen Elementen ist, und ordnet Mangelrechte nach § 434, § 475b und § 327a BGB. |
-| `kaufvertrag-grundschema-paragraph-433` | Prüft Primär- und Sekundäransprüche aus Kaufvertrag nach § 433 BGB und Schnittstellen zu BGB AT, Verbraucherschutz und AGB. |
-| `leasing-bgb-bt-schnittstelle` | Verweist Leasingfaelle sauber zwischen Miete, Kauf, Darlehen, AGB, Verbraucherschutz, Insolvenz und eigenem Leasingrecht-Plugin. |
-| `maklervertrag-und-provision` | Prüft Maklerlohn, Nachweis/Vermittlung, Kausalität, Textform, Verbraucherfragen und Verflechtung. |
-| `mietrecht-mangel-minderung` | Prüft Mietmangel, Anzeige, Minderung, Zurückbehaltung, Schadensersatz und Beweisfragen. |
-| `mietvertrag-grundschema-paragraph-535` | Prüft Gebrauchsüberlassung, Miete, Mangel, Minderung, Kündigung und Rückgabe. |
-| `pacht-leihe-und-verwahrung` | Prüft Pacht, Leihe und Verwahrung: Nutzung, Fruchtziehung, Rückgabe, Haftung, Kündigung und Aufwendungsersatz. |
-| `produzentenhaftung-und-verkehrssicherung` | Prüft deliktische Produzentenhaftung, Konstruktions-, Fabrikations-, Instruktions- und Produktbeobachtungsfehler. |
-| `reisevertrag-pauschalreise` | Prüft Pauschalreise, Reisemangel, Abhilfe, Minderung, Kündigung, Schadensersatz und Entschädigung. |
-| `schadensrecht-paragraphen-249-253` | Berechnet Naturalrestitution, Geldersatz, Nutzungsausfall, Schmerzensgeld, Vorteilsausgleich und Mitverschulden. |
-| `schnittstelle-bgb-at-methodenlehre-agb` | Erkennt, wann BGB-BT-Probleme eigentlich Form, Anfechtung, Stellvertretung, AGB, Auslegung oder Methodenfragen sind. |
-| `schuldversprechen-schuldanerkenntnis` | Prüft abstraktes Schuldversprechen, deklaratorisches/konstitutives Schuldanerkenntnis und Beweisfunktion. |
-| `tausch-und-schenkung` | Prüft Tausch und Schenkung einschließlich Form, Vollzug, Widerruf, grober Undank und Mängelhaftung. |
-| `unechte-goa-paragraph-687` | Prüft irrtümliche Eigengeschäftsführung und angemaßte Eigengeschäftsführung mit Herausgabe-/Schadensersatzfolgen. |
-| `verbrauchsgueterkauf-digitales` | Prüft Verbrauchsgüterkauf, digitale Produkte, Waren mit digitalen Elementen, Aktualisierungspflichten, Beweislast, Verjährung, Abweichungsvereinbarungen und Right-to-Repair-Schnittstellen nach aktuellem BGB und EU-Rechtsstand. |
-| `vergleich-paragraph-779` | Prüft Vergleich, Streit/Ungewissheit, gegenseitiges Nachgeben, Irrtum über Vergleichsgrundlage und Vollstreckbarkeit. |
-| `verjaehrung-bgb-bt-spezial` | Prüft besondere Verjährungsfristen in Kauf, Werk, Miete, Reise, Delikt und Bürgschaft. |
-| `vertragstypen-mischvertrag-router` | Ordnet Kauf, Werk, Dienst, Auftrag, Geschaeftsbesorgung, Leasing, Mietkauf und typengemischte Vertraege nach Schwerpunkt, Normzweck und Rechtsfolge. |
-| `werk-dienst-abgrenzung-erfolg` | Prueft Werk-/Dienst-Abgrenzung bei Beratung, Software, Reparatur, Wartung, Projektsteuerung und laufenden Services. |
-| `werkvertrag-abnahme-und-faelligkeit` | Prüft Abnahme, Abnahmefiktion, Verweigerung, Fälligkeit, Abschlagszahlungen und Sicherheiten. |
-| `werkvertrag-grundschema-paragraph-631` | Prüft Herstellungserfolg, Vergütung, Abnahme, Mangel, Nacherfüllung, Rücktritt, Minderung und Selbstvornahme. |
-| `werkvertrag-maengelrechte` | Prüft § 634 BGB: Nacherfüllung, Selbstvornahme, Rücktritt, Minderung, Schadensersatz. |
-| `workflow-anfangercoach-schuldrecht-bt` | Erklärt BGB-BT-Fälle für Einsteiger ohne die juristische Präzision zu verlieren. |
-| `workflow-anspruchslandkarte` | Baut aus einem BGB-BT-Fall eine Anspruchslandkarte mit Vertrag, gesetzlichem Schuldverhältnis, Rückabwicklung, Delikt, Bereicherung und Sicherheiten. |
-| `workflow-beweislast-und-belegmatrix` | Ordnet Darlegungs- und Beweislast in BGB-BT-Fällen, markiert fehlende Belege und formuliert Nachforderungen. |
-| `workflow-dokumentenintake` | Sortiert Verträge, Rechnungen, Chats, Fotos, Gutachten, Mahnungen und Kontoauszüge für BGB-BT-Prüfungen. |
-| `workflow-fristen-ruecktritt-kuendigung` | Prüft Fristen, Erklärungen und Zugang bei Rücktritt, Kündigung, Minderung, Nacherfüllungsverlangen und Verjährung im BGB BT. |
-| `workflow-livequellen-rechtsstand` | Zwingt vor tragenden Aussagen zum Abgleich mit amtlichen Normtexten und frei zugänglicher Rechtsprechung. |
-| `workflow-output-gutachten-klage-brief` | Erstellt aus der Prüfung Gutachten, Klageskizze, Mandantenbrief, Vergleichsvorschlag, Anspruchstabelle oder Beweisplan. |
-| `workflow-red-team-gegenseite` | Prüft die eigene Lösung aus Sicht der Gegenseite und findet schwache Anspruchsvoraussetzungen, Einwendungen und Beweisprobleme. |
-| `workflow-vergleich-und-verhandlungsplan` | Macht aus BGB-BT-Risiken eine Verhandlungsstrategie mit Zahlungsbandbreite, Sachleistung, Fristen und Nebenabreden. |
+| `bauvertrag-und-verbraucherbauvertrag` | Prüft Bauvertrag §§ 650a ff. BGB, Verbraucherbauvertrag, Abnahme, Mängel und Vergütung. |
+| `bereicherungsrecht-entreicherung-und-saldotheorie` | Prüft Entreicherung § 818 Abs. 3 BGB, Bösgläubigkeit, Saldotheorie und Zweikondiktionenlehre. |
+| `bereicherungsrecht-leistungskondiktion` | Prüft Leistungskondiktion §§ 812 ff. BGB: Kondiktionstypen, Leistungsbegriff, Rechtsgrund und Subsidiarität. |
+| `bereicherungsrecht-nichtleistungskondiktion` | Prüft Nichtleistungskondiktion §§ 812 ff. BGB: Eingriffskondiktion, Rückgriffskondiktion und Verwendungskondiktion. |
+| `bt-fristen-erklaerungen-zugang` | Prüft Fristen, Erklärungen und Zugang im Schuldrecht BT: Rücktritt, Kündigung, Mahnung, Mängelrüge und Nachfrist. |
+| `bt-vertragsentwurf-modellvertrag` | Erstellt und prüft Vertragsentwürfe im Schuldrecht BT: Kaufvertrag, Mietvertrag, Werkvertrag, Auftrag und AGB-Schnittstelle. |
+| `buergschaft-einreden-und-akzessorietaet` | Prüft Akzessorietät der Bürgschaft, Einreden des Bürgen §§ 768–770 BGB und Auswirkungen von Hauptschuld-Veränderungen. |
+| `buergschaft-form-und-verbraucherbuerge` | Prüft Schriftform der Bürgschaft § 766 BGB, Verbraucherbürgschaft, sittenwidrige Bürgschaft und AGB-Bürgschaftsklauseln. |
+| `buergschaft-grundschema-paragraph-765` | Prüft Bürgschaft §§ 765 ff. BGB: Tatbestand, Akzessorietät, Inanspruchnahme und Regressanspruch des Bürgen. |
+| `darlehen-und-finanzierung` | Prüft Darlehensvertrag §§ 488 ff. BGB, Verbraucherdarlehen §§ 491 ff. BGB, Zinsen, Kündigung und Widerruf. |
+| `delikt-organisationspflicht` | Prüft Organisationspflichten im Deliktsrecht: § 831 BGB, § 823 BGB Verkehrssicherungspflicht und organschaftliche Haftung. |
+| `delikt-psychische-schaeden` | Prüft Ersatzfähigkeit psychischer Schäden im Deliktsrecht: Schockschaden, PTBS, Gesundheitsverletzung § 823 Abs. 1 BGB. |
+| `delikt-verkehrspflicht-digital` | Prüft Verkehrssicherungspflichten im digitalen Raum: Plattformhaftung, IT-Sicherheit, Datenpannen und deliktische Haftung. |
+| `delikt-vertrag-konkurrenz` | Prüft das Verhältnis von vertraglicher und deliktischer Haftung: Konkurrenz, Anspruchskumulation und Verjährungsunterschiede. |
+| `deliktsrecht-haftung-fuer-verrichtungen-paragraph-831` | Prüft Haftung für Verrichtungsgehilfen § 831 BGB: Verrichtungsgehilfe, Exkulpation und Schaden. |
+| `deliktsrecht-paragraph-823-1` | Prüft Rechtsgutsverletzung, Handlung, Kausalität, Rechtswidrigkeit, Verschulden und Schaden nach § 823 Abs. 1 BGB. |
+| `deliktsrecht-paragraph-826-sittenwidrige-schaedigung` | Prüft sittenwidrige vorsätzliche Schädigung § 826 BGB: Sittenwidrigkeit, Vorsatz und Vermögensschaden. |
+| `deliktsrecht-schutzgesetz-paragraph-823-2` | Prüft Schutzgesetzverletzung § 823 Abs. 2 BGB: Schutzgesetz-Eigenschaft, Tatbestand und Schutzzweck. |
+| `deliktsrecht-sonstiges-recht` | Prüft sonstige Rechte nach § 823 Abs. 1 BGB: allgemeines Persönlichkeitsrecht, Recht am Gewerbebetrieb und Immaterialgüterrechte. |
+| `deliktsrecht-tierhalter-und-gebaeude` | Prüft Tierhalterhaftung § 833 BGB, Haftung des Tieraufsehers § 834 BGB und Gebäudehaftung § 836–838 BGB. |
+| `dienstvertrag-und-behandlungsvertrag` | Prüft Dienstvertrag §§ 611 ff. BGB und Behandlungsvertrag §§ 630a ff. BGB: Aufklärung, Dokumentation und Arzthaftung. |
+| `gesamtschuld-und-regress-bgb-bt` | Prüft Gesamtschuld §§ 421 ff. BGB, Innenausgleich nach § 426 BGB und Regress im Schuldrecht BT. |
+| `geschaeftsbesorgung-auftrag-mandat` | Prüft entgeltliche Geschäftsbesorgung § 675 BGB, Anwalts- und Steuerberaterauftrag und Haftung für Beratungsfehler. |
+| `geschaeftsbesorgung-und-zahlungsdienste` | Prüft Zahlungsdienstleistungen § 675c ff. BGB: Zahlungsauftrag, Haftung bei Fehlüberweisungen und unautorisierter Zahlung. |
+| `goa-entgegenstehender-wille-paragraphen-678-679` | Prüft GoA gegen den Willen des Geschäftsherrn §§ 678 und 679 BGB: erhöhte Haftung und Ausnahmen bei Erfüllung gesetzlicher Pflichten. |
+| `goa-grundschema-paragraph-677` | Prüft Geschäftsführung ohne Auftrag §§ 677 ff. BGB: echte GoA, Fremdgeschäftsführungswille, Aufwendungsersatz und Herausgabepflicht. |
+| `kaufrecht-abweichungsvereinbarung-objektive-anforderungen-476` | Prüft Abweichungsvereinbarungen von objektiven Anforderungen § 476 BGB beim Verbrauchsgüterkauf. |
+| `kaufrecht-beweislast-verjaehrung-digitale-elemente` | Prüft Beweislastumkehr § 477 BGB, Verjährung § 438 BGB und Besonderheiten bei digitalen Elementen. |
+| `kaufrecht-dauerhafte-bereitstellung-digitaler-elemente-475c` | Prüft dauerhafte Bereitstellungspflicht digitaler Elemente § 475c BGB und Folgen bei Pflichtverletzung. |
+| `kaufrecht-gefahruebergang-und-versendung` | Prüft Gefahrübergang § 446 BGB, Versendungskauf § 447 BGB und Ausnahmen beim Verbrauchsgüterkauf. |
+| `kaufrecht-nacherfuellung-ruecktritt-minderung` | Prüft Nacherfüllung § 439 BGB, Rücktritt § 437 Nr. 2 BGB, Minderung und Schadensersatz bei Sachmangel. |
+| `kaufrecht-rechtsmangel-paragraph-435` | Prüft Rechtsmangel § 435 BGB: Rechte Dritter, beschränkt dingliche Rechte, öffentlich-rechtliche Lasten und Rechtsfolgen. |
+| `kaufrecht-right-to-repair-und-nacherfuellung` | Prüft Right to Repair EU-Recht, Nacherfüllungsrecht § 439 BGB und Reparaturpflichten bei Verbrauchsgüterkauf. |
+| `kaufrecht-sachmangel-paragraph-434` | Prüft Sachmangel § 434 BGB: subjektive, objektive und Montageanforderungen; Aliud-Lieferung. |
+| `kaufrecht-schadensersatz-aufwendungsersatz` | Prüft Schadensersatz §§ 437 Nr. 3 und 280 ff. BGB sowie Aufwendungsersatz § 284 BGB beim Kaufrecht. |
+| `kaufrecht-updates-sicherheitsupdates-327f-475b` | Prüft Update- und Sicherheitsupdatepflichten §§ 327f und 475b BGB bei digitalen Produkten und Ware mit digitalen Elementen. |
+| `kaufrecht-ware-mit-digitalen-elementen-475b` | Prüft Kaufvertrag über Ware mit digitalen Elementen § 475b BGB: Mangelfreiheit, Updatepflichten und Verhältnis zu §§ 327 ff. BGB. |
+| `kaufvertrag-grundschema-paragraph-433` | Kaufvertrag § 433 BGB: Primär- und Sekundäransprüche, Übergabe, Eigentumsverschaffung, AGB und Verbraucherschutz. |
+| `leasing-bgb-bt-schnittstelle` | Leasingvertrag im BGB: Finanzierungsleasing, Mietleasing, Gewährleistungskette und Verbraucherschutz. |
+| `maklervertrag-und-provision` | Maklervertrag §§ 652 ff. BGB: Provisionsanspruch, Kausalität, Doppelmakler und Bestellerprinzip. |
+| `mietrecht-mangel-minderung` | Mietrechtliche Mängel und Minderung §§ 536 ff. BGB: Anzeigepflicht, Minderungsquote, Schadensersatz, Kündigung. |
+| `mietvertrag-grundschema-paragraph-535` | Mietvertrag § 535 BGB: Pflichten, Gebrauchsüberlassung, Kündigung, Kaution und Schönheitsreparaturen. |
+| `pacht-leihe-und-verwahrung` | Pacht §§ 581 ff., Leihe §§ 598 ff. und Verwahrung §§ 688 ff. BGB: Pflichten, Haftung und Abgrenzung. |
+| `produzentenhaftung-und-verkehrssicherung` | Produzentenhaftung § 823 BGB und Produkthaftungsgesetz: Fehler, Kausalität, Verkehrssicherungspflichten. |
+| `reisevertrag-pauschalreise` | Reisevertrag §§ 651a ff. BGB und Pauschalreiserichtlinie: Mängel, Abhilfe, Minderung, Rücktritt. |
+| `schadensrecht-paragraphen-249-253` | Schadensrecht §§ 249-253 BGB: Naturalrestitution, Schadensberechnung, Vermögensschaden, Schmerzensgeld. |
+| `schnittstelle-bgb-at-methodenlehre-agb` | Schnittstelle BGB-AT, Methodenlehre und AGB-Recht §§ 305-310 BGB: Einbeziehung, Inhaltskontrolle, Transparenz. |
+| `schuldversprechen-schuldanerkenntnis` | Schuldversprechen § 780 BGB und Schuldanerkenntnis § 781 BGB: Form, Wirkung und Abgrenzung. |
+| `tausch-und-schenkung` | Tausch § 480 BGB und Schenkung §§ 516-534 BGB: Unentgeltlichkeit, Form, Widerruf, Notbedarfseinrede. |
+| `unechte-goa-paragraph-687` | Unechte GoA § 687 BGB: eigenmächtige Durchführung eines fremden Geschäfts als eigenes. |
+| `verbrauchsgueterkauf-digitales` | Verbrauchsgüterkauf §§ 474 ff. BGB und digitale Elemente: Beweislastumkehr, zwingende Normen, §§ 327 ff. BGB. |
+| `vergleich-paragraph-779` | Vergleich § 779 BGB: gegenseitiges Nachgeben, Irrtum über Grundlage, Widerruf und Abgrenzung. |
+| `verjaehrung-bgb-bt-spezial` | Verjährung im BGB BT: Sonderfristen für Kauf §438, Miet §548, Werk §634a, Delikt §852 BGB. |
+| `vertragstypen-mischvertrag-router` | Vertragstypen-Router: Mischvertrag, gemischter Vertrag, Abgrenzung und Normauswahl im BGB BT. |
+| `werk-dienst-abgrenzung-erfolg` | Werk-Dienst-Abgrenzung: Erfolgsschuldnerschaft § 631 BGB vs. Tätigkeitsschuldnerschaft § 611 BGB. |
+| `werkvertrag-abnahme-und-faelligkeit` | Werkvertrag: Abnahme § 640 BGB, Fälligkeit der Vergütung, fingierte Abnahme und Abnahmeverweigerung. |
+| `werkvertrag-grundschema-paragraph-631` | Werkvertrag § 631 BGB: Grundschema, Vergütung, Abnahme, Mängelrechte und Kündigung. |
+| `werkvertrag-maengelrechte` | Werkvertrag-Mängelrechte §§ 633-638 BGB: Nacherfüllung, Selbstvornahme, Minderung, Schadensersatz. |
+| `workflow-anfangercoach-schuldrecht-bt` | Lerncoach für Schuldrecht BT: Erklärungsebenen, Klausuraufbau, Fallübungen und Selbsttest. |
+| `workflow-anspruchslandkarte` | Anspruchslandkarte BGB BT: alle relevanten Anspruchsgrundlagen strukturiert auffinden und zuordnen. |
+| `workflow-beweislast-und-belegmatrix` | Beweislast und Belegmatrix im Schuldrecht BT: Beweislastverteilung, Umkehr, Anscheinsbeweis. |
+| `workflow-dokumentenintake` | Dokumenten-Intake für BGB-BT-Mandate: Unterlagen sichten, Aktenstruktur anlegen, Fristen erfassen. |
+| `workflow-fristen-ruecktritt-kuendigung` | Fristen, Rücktritt und Kündigung im BGB BT: Fristsetzung, Rücktrittsrecht, Kündigungsrecht, Rechtsfolgen. |
+| `workflow-livequellen-rechtsstand` | Live-Quellencheck für BGB-BT: amtliche Gesetzestexte, Rechtsprechungsdatenbanken, Rechtsstand prüfen. |
+| `workflow-output-gutachten-klage-brief` | Output-Workflow: Gutachten, Klage und Brief im BGB BT – Struktur, Stil und Qualitätskontrolle. |
+| `workflow-red-team-gegenseite` | Red-Team-Analyse: Gegenseiten-Perspektive für BGB-BT-Mandate einnehmen und Schwachstellen identifizieren. |
+| `workflow-vergleich-und-verhandlungsplan` | Vergleich und Verhandlungsplan im BGB BT: Vergleichskorridore, Verhandlungsführung, Dokumentation. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

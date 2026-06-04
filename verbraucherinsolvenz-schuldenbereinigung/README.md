@@ -94,7 +94,7 @@ InsO §§ 304 bis 314, §§ 286 bis 303, § 305, §§ 307 bis 309, §§ 4a bis 4
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 68 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -151,6 +151,14 @@ Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschrei
 | `unterlagen-und-schuldeninventar` | Unterlagen- und Schuldeninventar: Gläubiger, Forderungsgrund, Titel, Inkasso, Vollstreckung, Sicherheiten und bestrittene Forderungen beweisfest erfassen.; Normanker: InsO § 305 Abs. 1; InsO §§ 174 ff.; ZPO Vollstreckungstitel; liefert k... |
 | `unternehmerische-restforderungen` | Unternehmerische Restforderungen nach Geschäftsaufgabe: Lieferanten, Krankenkasse, Finanzamt, Berufsgenossenschaft.; Normanker: InsO § 304; AO; SGB IV; BGB/HGB; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbaustein... |
 | `verbraucher-oder-regelinsolvenz` | Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.; Normanker: InsO § 304; § 15a InsO als Altlast; Forderungsstru... |
+| `verbraucherinsolvenz-3-jahres-restschuldbefreiung` | Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung. Skill behandelt die seit 01.10.2020 geltende verkuerzte Frist auf drei Jahre Voraussetzungen Versagungsgruende Mitwirkungspflichten Verfahrensgang. Aktuelle Diskussion zur Folgen bei na... |
+| `verbraucherinsolvenz-aussergerichtl-schuldenbereinigung` | Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305 InsO. Skill leitet durch die Erstellung des ersten Vergleichsvorschlags von der Vermoegens- und Schuldenliste ueber die Quotenberechnung bis zur formalen Vorlage an die Glaeubiger.... |
+| `verbraucherinsolvenz-belegchaos-strukturieren` | Schuldnerberatungsstelle: Strukturierung des Belegchaos. Skill liefert die Methodik wie Schuldnerberater die ungeordneten Belege Mahnungen Vollstreckungsbescheide Inkassobriefe und Bankauszuege des Schuldners in eine geordnete Glaeubiger... |
+| `verbraucherinsolvenz-nachtraegliche-glaeubiger` | Verbraucherinsolvenz: Nachtraegliche Glaeubiger nach Restschuldbefreiung. Skill klaert ob nicht angemeldete Glaeubiger nach Erteilung der Restschuldbefreiung noch Anspruch geltend machen koennen § 301 InsO und Ausnahmen § 302 InsO. Liefe... |
+| `verbraucherinsolvenz-pfaendungsschutzkonto` | Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto. Skill klaert die rechtliche Konstruktion des Pfaendungsschutzkontos nach §§ 850k 850l ZPO Grundfreibetraege Erhoehungsbetraege Antrag und Beweisfuehrung sowie Wechselwirkung mit Insolv... |
+| `verbraucherinsolvenz-treuhaender-rolle` | Verbraucherinsolvenz: Rolle des Treuhaenders. Skill behandelt die Aufgaben des Treuhaenders in der Wohlverhaltensphase Vermoegensaufsicht Verteilung Forderungspruefung Glaeubigerinformation. Verguetung und Kostenfragen. Liefert Pruefraster. |
+| `verbraucherinsolvenz-unterhalt-und-insolvenz` | Verbraucherinsolvenz und eheliche Unterhaltspflicht. Skill behandelt das Verhaeltnis von laufender Unterhaltspflicht zum Insolvenzverfahren Pflichten in der Wohlverhaltensphase Anrechnung und Rangordnung. Liefert Pruefraster. |
+| `verbraucherinsolvenz-versagungsgruende` | Verbraucherinsolvenz: Versagungsgruende. Skill behandelt § 290 InsO Versagung der Restschuldbefreiung Tatbestaende Strafurteile Vermoegensverlagerung Verletzung Aufklaerungspflicht und Erwerbsobliegenheit. Verteidigungsstrategien. Liefer... |
 | `verfahrenskostenstundung` | Verfahrenskostenstundung: Bedürftigkeit, Raten, Aufhebung, falsche Angaben und realistische Kostenplanung.; Normanker: InsO §§ 4a-4d; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz... |
 | `vergleich-waehrend-insolvenz` | Vergleich während Insolvenz/Wohlverhalten: Drittzahlung, vorzeitige RSB, Gläubigerbefriedigung und Verfahrensende.; Normanker: InsO §§ 300 und 213 und 299; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fue... |
 | `verjaehrung-und-alttitel` | Verjährung und Alttitel: dreißigjähriger Titel, Zinsverjährung, Hemmung und Vergleichsverhandlung.; Normanker: BGB §§ 195 und 197 und 199 und 212; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbrau... |
