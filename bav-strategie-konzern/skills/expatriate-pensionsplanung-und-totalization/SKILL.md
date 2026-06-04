@@ -5,11 +5,12 @@ description: "Pensionsplanung für Expatriates: Totalisierungsabkommen, Doppelve
 
 # Expatriate-Pensionsplanung und Totalization
 
-**Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB**
-Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
-Kyoto-Büro: Yuki Yamamoto-Brennecke (DE-JP-Totalization)
+## Fachkern: Expatriate-Pensionsplanung und Totalization
 
----
+- **bAV-Problem:** Totalisierungsabkommen, Doppelversicherungsvermeidung, Pensionsluecken. Normen: EG-VO 883/2004, bilaterale SV-Abkommen. Prüfraster: Entsendelaender, Sozialversicherungsrecht, Pensionsbeitraege, Lueckenanalyse. Output: Expatriate-Pensionsplan. Abgrenzung: nicht nationaler Durchführungsweg.
+- **Normenanker:** BetrAVG, EStG/LSt, SGB IV, HGB/IFRS-Bilanzierung, InsO, ArbGG und arbeitsrechtliche Zusage-/Änderungsdogmatik je nach Durchführungsweg prüfen.
+- **Entscheidende Weiche:** Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen.
+- **Arbeitsprodukt:** bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
 
 ## Rechtsgrundlagen
 
@@ -73,7 +74,7 @@ Das umfassendste Koordinierungssystem. Kernprinzipien:
 - In Kraft: 1.4.2000
 - Heimatland-Regel: Bis 60 Monate Entsendung DE→JP oder JP→DE bleibt Heimatland-SV zuständig
 - Totalisierung: Rentenzeiten DE und JP werden addiert für Wartezeiten
-- Yuki Yamamoto-Brennecke koordiniert japanische Seite (Kosei Nenkin und betriebliche Pläne)
+- Japan-/Datenschutz-Team koordiniert japanische Seite (Kosei Nenkin und betriebliche Pläne)
 
 #### Deutschland — Schweiz
 - CH ist nicht EU-Mitglied → VO 883/2004 gilt nicht direkt; bilaterales Abkommen DE-CH
@@ -96,11 +97,11 @@ Das umfassendste Koordinierungssystem. Kernprinzipien:
 Expats, die in mehreren Ländern BAV-Anwartschaften aufgebaut haben, erhalten im Ruhestand Renten aus mehreren Systemen:
 - Jede Rente unterliegt eigenem DBA-Regime und lokalen Auszahlungsmodalitäten
 - Koordination notwendig: Welche Renten werden wann, in welcher Währung ausgezahlt?
-- Empfehlung Treuenfels Yamamoto: Frühzeitige Pensionsplanung; ggf. Konsolidierung durch § 4 BetrAVG-Transfers
+- Empfehlung bAV-Projektteam: Frühzeitige Pensionsplanung; ggf. Konsolidierung durch § 4 BetrAVG-Transfers
 
 ### Schritt 4: Betriebliche BAV im Expat-Kontext
 
-**Empfehlung Treuenfels Yamamoto für Expat-BAV-Gestaltung:**
+**Empfehlung bAV-Projektteam für Expat-BAV-Gestaltung:**
 
 1. **Kurzentsendung:** Heimatland-VO weiterführen; keine Änderung; A1-Bescheinigung
 2. **Langzeitentsendung:** International Pension Plan (IPP) oder Offshore-Plan prüfen; US ERISA-Anforderungen beachten bei US-Bürgern
@@ -115,7 +116,7 @@ Expats, die in mehreren Ländern BAV-Anwartschaften aufgebaut haben, erhalten im
 
 ```
 EXPAT-BAV-CHECKLISTE
-Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB
+bAV-Projektteam
 
 Mitarbeiter:         [Name]
 Entsendungsland:     [Land]

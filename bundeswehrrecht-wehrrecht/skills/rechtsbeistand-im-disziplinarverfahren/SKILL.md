@@ -5,6 +5,13 @@ description: "Rechtsbeistand im Disziplinarverfahren: prüft Verteidigungsrecht 
 
 # Rechtsbeistand im Disziplinarverfahren
 
+## Fachkern: Rechtsbeistand im Disziplinarverfahren
+- **Spezialgegenstand:** Rechtsbeistand im Disziplinarverfahren; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Das Recht auf einen Verteidiger im gerichtlichen Disziplinarverfahren ist ein grundlegendes Verfahrensrecht. § 91 WDO: Soldat kann Rechtsanwalt oder sonstigen Rechtsbeistand bestellen.

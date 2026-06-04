@@ -5,6 +5,13 @@ description: "Soldatengesetz Rechtsstellung Grundpflichten: prüft die einschlä
 
 # Soldatengesetz – Rechtsstellung und Grundpflichten
 
+## Fachkern: Soldatengesetz – Rechtsstellung und Grundpflichten
+- **Spezialgegenstand:** Soldatengesetz – Rechtsstellung und Grundpflichten; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Das Soldatengesetz (SG) regelt das öffentlich-rechtliche Dienst- und Treueverhältnis des Soldaten zum Bund. Es definiert Status, Grundpflichten und Grundrechte des Soldaten. Anders als beim Beamten besteht keine Verwaltungsgerichtsbarkeit nach VwGO als Regelweg, sondern primär WBO-Beschwerdeweg und Truppendienstgericht. Der Skill ordnet ein, welche Pflicht aus dem SG einschlägig ist und welcher Rechtsweg eröffnet ist.

@@ -5,6 +5,13 @@ description: "Statusrechte im Einsatz, Urlaub, Betreuung: prüft Urlaubsansprüc
 
 # Statusrechte im Einsatz: Urlaub, Betreuung und Fürsorge
 
+## Fachkern: Statusrechte im Einsatz: Urlaub, Betreuung und Fürsorge
+- **Spezialgegenstand:** Statusrechte im Einsatz: Urlaub, Betreuung und Fürsorge; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Im Auslandseinsatz haben Soldaten besondere Schutzrechte: Urlaub, Heimflüge, psychosoziale Betreuung, Fürsorge für Familie. Verletzungen der Fürsorge durch den Dienstherrn sind mit WBO anfechtbar.

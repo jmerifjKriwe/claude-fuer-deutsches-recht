@@ -5,6 +5,13 @@ description: "Kanzlei eroeffnet neue Deal-Akte für M&A-Mandat: Aktenzeichen Par
 
 # Freistehende M&A-Aktenanlage (Mittelstand)
 
+## Fachkern: Freistehende M&A-Aktenanlage (Mittelstand)
+- **Spezialgegenstand:** Freistehende M&A-Aktenanlage (Mittelstand) wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
+- **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Kernsachverhalt
 
 Im Mittelstands-M&A sind die Transaktionen häufig vom Gesellschafter-Geschäftsführer geprägt: Familienunternehmen, Nachfolgelösungen, Gesellschafterwechsel, Management-Buy-out oder -in (MBO/MBI) und strategische Zukäufe mittelständischer Käufer. Die Aktenanlage muss diese besonderen Strukturmerkmale abbilden — fehlende externe DD-Teams, begrenzte Ressourcen auf Verkäuferseite, häufig keine W&I-Versicherung und oft kürzere Zeitpläne. Dennoch gelten dieselben Dokumentationspflichten des Anwalts (§ 50 BRAO, GwG) und dieselben berufsrechtlichen Sorgfaltspflichten. Der Skill strukturiert die Mittelstands-Transaktion von der ersten Kontaktaufnahme bis zur Closing Bible, angepasst an schlanke Prozesse ohne Großkanzlei-Infrastruktur.

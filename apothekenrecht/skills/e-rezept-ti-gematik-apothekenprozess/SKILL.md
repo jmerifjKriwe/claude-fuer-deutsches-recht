@@ -5,6 +5,13 @@ description: "E-Rezept TI Gematik Apothekenprozess: prüft die einschlägigen Vo
 
 # E-Rezept TI Gematik Apothekenprozess
 
+## Fachkern: E-Rezept TI Gematik Apothekenprozess
+- **Spezialgegenstand:** E-Rezept TI Gematik Apothekenprozess; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
+- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Seit dem 01.01.2024 ist das E-Rezept für apothekenpflichtige Fertigarzneimittel in der GKV-Versorgung verpflichtend (§ 360 SGB V). Der Skill behandelt: Einlösewege (eGK, Token-Ausdruck, App), TI-Konnektivität, Signaturprüfung, Ersatzverfahren bei Störung, Datenschutz, Apothekenpflichten gegenüber Gematik, Krankenkasse und Aufsicht. BtM- und T-Rezept sind bisher noch papierbasiert (Stand zu verifizieren).

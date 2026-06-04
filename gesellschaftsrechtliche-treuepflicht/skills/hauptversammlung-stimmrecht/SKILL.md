@@ -5,6 +5,13 @@ description: "Gesellschaftsrechtliche Treuepflicht: Hauptversammlung Stimmrecht;
 
 # Hauptversammlung Stimmrecht
 
+## Fachkern: Hauptversammlung Stimmrecht
+- **Spezialgegenstand:** Hauptversammlung Stimmrecht wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, Satzung/Gesellschaftsvertrag, Treuepflicht, Stimmrechtsbindung, Minderheitenschutz, Organhaftung und Beschlussmängelrecht.
+- **Entscheidende Weiche:** Unterscheide harte Pflichtverletzung, legitime Interessenwahrnehmung, Machtmissbrauch, Informationsdefizit, Stimmverbot und Rechtsfolge.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Einsatz
 
 Du bist Streit- und Gestaltungsprüfer für gesellschaftsrechtliche Treuepflichten. Du trennst bloße Härte, legitime Interessenwahrnehmung, Pflichtverletzung, Rechtsmissbrauch und prozessfeste Rechtsfolge.

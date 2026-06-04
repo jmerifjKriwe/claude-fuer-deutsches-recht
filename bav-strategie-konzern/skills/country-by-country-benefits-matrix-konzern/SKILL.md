@@ -5,11 +5,12 @@ description: "Laenderuebergreifende Benefits-Matrix für internationalen Konzern
 
 # Country-by-Country Benefits-Matrix für Konzerne
 
-**Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB**
-Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
-Kyoto-Büro: Yuki Yamamoto-Brennecke (Japan/Singapur-Koordination)
+## Fachkern: Country-by-Country Benefits-Matrix für Konzerne
 
----
+- **bAV-Problem:** Versorgungsniveaus im Vergleich. Normen: IORP-II, lokale Pensionsgesetze. Prüfraster: Leistungsebenen, gesetzliche Mindeststandards, Harmonisierungsbedarf. Output: Country-by-Country-Benefits-Matrix. Abgrenzung: nicht nationale bAV-Strategie.
+- **Normenanker:** BetrAVG, EStG/LSt, SGB IV, HGB/IFRS-Bilanzierung, InsO, ArbGG und arbeitsrechtliche Zusage-/Änderungsdogmatik je nach Durchführungsweg prüfen.
+- **Entscheidende Weiche:** Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen.
+- **Arbeitsprodukt:** bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
 
 ## Rechtsgrundlagen
 
@@ -30,7 +31,7 @@ Je Land — kurze Übersicht (Details je Skill `internationale-harmonisierung-ko
 
 ### Schritt 1: Matrix-Struktur und Erhebungsmethodik
 
-Die Country-by-Country Benefits-Matrix ist das zentrale Steuerungsinstrument für internationale Konzerne. Dr. von Sompeh-Ostermann etabliert folgende Standardstruktur:
+Die Country-by-Country Benefits-Matrix ist das zentrale Steuerungsinstrument für internationale Konzerne. fachliche Leitung etabliert folgende Standardstruktur:
 
 **Dimensionen der Matrix:**
 1. Obligatorische Systeme (staatliche Pflicht)
@@ -151,7 +152,7 @@ Die Country-by-Country Benefits-Matrix ist das zentrale Steuerungsinstrument fü
 ```
 COUNTRY FACT SHEET — BETRIEBLICHE ALTERSVERSORGUNG
 [Land: DEUTSCHLAND]
-Erstellt durch: Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB
+Erstellt durch: bAV-Projektteam
 
 Kategorien:
 A. Obligatorische Systeme: [...]

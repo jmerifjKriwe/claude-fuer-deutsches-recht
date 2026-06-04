@@ -5,9 +5,19 @@ description: "Rechtsabteilungs-Spezialskill für Kartellschadenersatz nach Behö
 
 # Rechtsabteilung: Kartellschadenersatz nach Behördenentscheidung
 
-## Worum es geht
+## Fachkern: Rechtsabteilung: Kartellschadenersatz nach Behördenentscheidung
+- **Spezialgegenstand:** Rechtsabteilung: Kartellschadenersatz nach Behördenentscheidung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
+- **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+
+## Spezialkern: Rechtsabteilung: Kartellschadenersatz nach Behördenentscheidung
+
+- **Konkretes Problem:** Follow-on-Claims werden mit Passing-on, Verjährung und Datenanforderung aufgesetzt.
+- **Norm-/Quellenanker:** Art. 101/102 AEUV, FKVO, GWB, DMA, Vertikal-GVO 2022/720, Horizontal-Leitlinien, Fusionskontrolle und Kartellschadenersatz.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

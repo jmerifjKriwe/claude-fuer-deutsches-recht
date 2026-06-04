@@ -5,6 +5,13 @@ description: "Prüft Fortführungsfonds, Konflikte, Bewertung, LPAC-Zustimmung, 
 
 # GP-led Secondary und Continuation Fund
 
+## Fachkern: GP-led Secondary und Continuation Fund
+- **Spezialgegenstand:** GP-led Secondary und Continuation Fund wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GmbHG, AktG, UmwG, GWB/FKVO, AWG/AWV, KAGB/AIFM-Bezug, LMA-Finanzierung, InsO/StaRUG, Steuer- und Managementbeteiligungsfragen.
+- **Entscheidende Weiche:** Bestimme Dealphase, Fondsrolle, Target-Risiko, Finanzierungsstruktur, Consent/CP, Exit-Auswirkung und Konflikt zwischen Sponsor, Management, Lender und Co-Investor.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 Der Skill begleitet GP-led Secondaries: ein Sponsor (GP) richtet einen Continuation Fund ein, um ein oder mehrere Trophy Assets aus einem auslaufenden Vintage-Fonds zu übernehmen und länger zu halten. Existing LPs erhalten "Roll-Over" (Beteiligung am neuen Fonds) oder "Cash-Out" (Verkauf an Secondary-Buyer). Fokus: Interessenkonflikte (Sponsor verkauft an sich selbst), Fairness Opinion, LPAC-Approval-Logik, Bewertungsmethodik.

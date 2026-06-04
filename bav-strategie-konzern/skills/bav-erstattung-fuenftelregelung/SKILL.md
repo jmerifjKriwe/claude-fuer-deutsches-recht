@@ -5,10 +5,14 @@ description: "Auszahlung bAV und Steueroptimierung: Fuenftelregelung § 34 EStG 
 
 # bAV: Fuenftelregelung Auszahlung
 
-## Aufgabe
-Auszahlung bAV und Steueroptimierung: Fuenftelregelung § 34 EStG bei Einmalzahlungen, laufende Renten als Versorgungsbezuege, Sozialversicherungspflicht GKV mit Kappung.
+## Spezialwissen: bAV: Fuenftelregelung Auszahlung
+- **Spezialgegenstand:** bAV: Fuenftelregelung Auszahlung / bav erstattung fuenftelregelung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Normen-/Quellenanker:** EStG, GKV.
+- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
+- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
-## Kaltstart
+
+## Fallweichen
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
@@ -19,7 +23,7 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 
 ## Pruefraster
 
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.

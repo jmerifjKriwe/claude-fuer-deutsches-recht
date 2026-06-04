@@ -5,6 +5,13 @@ description: "Leistungsgruppen und Qualitaetskriterien nach KHVVG: prueft Strukt
 
 # Leistungsgruppen und Qualitaetskriterien Reformlogik
 
+## Fachkern: Leistungsgruppen und Qualitaetskriterien Reformlogik
+- **Spezialgegenstand:** Leistungsgruppen und Qualitaetskriterien Reformlogik; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
+- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 Leistungsgruppen (LG) sind das neue Plan-Raster der Krankenhausreform: 65 Gruppen, die ICD-/OPS-basierte Versorgungstypen buendeln und an Strukturqualitaetsmerkmale gekoppelt sind. Der Skill prueft, ob eine Klinik die geforderte Struktur erfuellt und ob ein LG-Bescheid haltbar ist.
 

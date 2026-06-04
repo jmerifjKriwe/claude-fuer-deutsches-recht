@@ -5,6 +5,13 @@ description: "SPA/APA-Entwurf: Kaufvertragsentwuerfe für Share Deal und Asset D
 
 # SPA/APA-Entwurf
 
+## Fachkern: SPA/APA-Entwurf
+- **Spezialgegenstand:** SPA/APA-Entwurf wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
+- **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Zweck
 
 Erstellt und strukturiert Kaufvertragsentwuerfe (SPA = Share Purchase Agreement; APA = Asset Purchase Agreement) fuer Share Deal und Asset Deal. Grundlage sind Term Sheet, DD-Findings und Transaktionsstruktur. Liefert vollstaendige Vertragsarchitektur mit Garantien, Freistellungen, MAC, Earn-Out und Closing Conditions.

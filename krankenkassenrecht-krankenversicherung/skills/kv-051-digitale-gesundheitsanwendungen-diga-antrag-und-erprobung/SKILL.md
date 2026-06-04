@@ -88,4 +88,3 @@ Digitale Gesundheitsanwendungen (DiGA) sind Apps auf Rezept. Dieser Skill klärt
 - [BfArM – DiGA-Verzeichnis](https://diga.bfarm.de/de/verzeichnis)
 - [G-BA – DiGA-Richtlinie](https://www.g-ba.de/richtlinien/107/)
 - [GKV-Spitzenverband – DiGA-Informationen](https://www.gkv-spitzenverband.de)
-

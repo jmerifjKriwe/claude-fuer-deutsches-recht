@@ -5,10 +5,12 @@ description: "Kollektivrechtliche Lösungen für bAV-Einschnitte: Betriebsverein
 
 # Kollektivrechtliche Lösungen und Sozialplan bei BAV-Restrukturierungen
 
-**Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB**
-Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
+## Fachkern: Kollektivrechtliche Lösungen und Sozialplan bei BAV-Restrukturierungen
 
----
+- **bAV-Problem:** Betriebsvereinbarung, Sozialplan, Einigungsstelle. Normen: §§ 77 112 BetrVG, BetrAVG. Prüfraster: Mitbestimmungsrechte, Sozialplanvolumen, Ausgleichszahlungen. Output: Betriebsvereinbarungsentwurf bAV. Abgrenzung: nicht individuelle Versorgungsordnung.
+- **Normenanker:** BetrAVG, EStG/LSt, SGB IV, HGB/IFRS-Bilanzierung, InsO, ArbGG und arbeitsrechtliche Zusage-/Änderungsdogmatik je nach Durchführungsweg prüfen.
+- **Entscheidende Weiche:** Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen.
+- **Arbeitsprodukt:** bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
 
 ## Rechtsgrundlagen
 
@@ -21,13 +23,7 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - § 3 BetrAVG (Abfindungsverbot — Einschränkungen bei BAV-Abfindungen)
 - § 16 BetrAVG (Anpassungspflicht — läuft auch nach Betriebsstilllegung für Rentner weiter)
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - KSchG §§ 17–22 (Massenentlassung — Verknüpfung mit Sozialplan-Pflicht)
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Quellenregel
 
@@ -47,11 +43,10 @@ Der Sozialplan gem. § 112 BetrVG ist zwingend bei Betriebsänderungen i.S.d. §
 - Betriebe mit 21–59 Arbeitnehmern: Entlassung von mindestens 20 % oder sechs Arbeitnehmern
 - Betriebe ab 60 Arbeitnehmern: Mindestentlassung 20 % oder 37 Arbeitnehmer
 
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Schritt 2: Pensionsspezifische Sozialplanbestandteile
 
-Dr. von Sompeh-Ostermann empfiehlt folgende pensionsspezifische Regelungen im Sozialplan:
+fachliche Leitung empfiehlt folgende pensionsspezifische Regelungen im Sozialplan:
 
 #### A — Schutz erdienter Anwartschaften
 Expliziter Besitzstandsschutz (über gesetzliche Mindestanforderungen hinaus):
@@ -77,7 +72,7 @@ Arbeitnehmer können wählen:
 
 ### Schritt 3: Sozialplan-Verhandlungsstrategie
 
-**Arbeitgeber-Position (Treuenfels Yamamoto-Strategieentwicklung):**
+**Arbeitgeber-Position (bAV-Projektteam-Strategieentwicklung):**
 
 1. **Finanzierungsrahmen fixieren:** Vor Verhandlungsbeginn Gesamtbudget intern festlegen (Entscheidung Vorstand/Aufsichtsrat); Betriebsrat über Budget nicht informieren (Verhandlungsreserve).
 

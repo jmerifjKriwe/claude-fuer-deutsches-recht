@@ -5,9 +5,12 @@ description: "Wahlkampfrecht Praxis: Targeting und Zustellung politischer Werbun
 
 # Targeting Dsgvo
 
-## Worum es geht
+## Fachkern: Targeting Dsgvo
 
-Dieser Skill gehört zum Cluster **Digital Social Media Daten**. Er hilft, eine Wahlkampflage nicht nur politisch klug, sondern auch rechtlich sauber, dokumentierbar und praktisch handhabbar zu bearbeiten.
+- **Wahlkampflage (Targeting Dsgvo):** Targeting und Zustellung politischer Werbung datenschutzrechtlich pruefen.
+- **Norm-/Praxisanker:** Wahlgesetze des betroffenen Bundes/Landes, PartG, DSGVO/BDSG, Verordnung (EU) 2024/900, Versammlungs-, Straßen-, Kommunal-, Presse-, Urheber-, Straf- und Ordnungswidrigkeitenrecht je nach Einsatzfeld.
+- **Entscheidende Weiche:** Amtliche Wahlorganisation, Partei, Fraktion, Kandidatenteam, Agentur, Ehrenamt und Dritte strikt trennen; Strategie nie mit rechtlicher Zulässigkeit verwechseln.
+- **Arbeitsprodukt:** Freigabevermerk, Risikoampel, Behördenmail, Sprechzettel oder Eskalationsnotiz mit Belegarchiv und klarer Verantwortlichkeit.
 
 ## Kaltstartfragen
 

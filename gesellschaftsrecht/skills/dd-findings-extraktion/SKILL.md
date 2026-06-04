@@ -5,6 +5,13 @@ description: "Liest Datenraum-Dokumente und extrahiert Issues nach den Hauskateg
 
 # DD-Issue-Extraktion (Findings-Report)
 
+## Fachkern: DD-Issue-Extraktion (Findings-Report)
+- **Spezialgegenstand:** DD-Issue-Extraktion (Findings-Report); dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
+- **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Triage zu Beginn
 
 Vor dem Start des DD-Reviews folgende Fragen klären:

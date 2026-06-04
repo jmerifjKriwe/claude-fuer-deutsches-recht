@@ -5,6 +5,13 @@ description: "BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertra
 
 # BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag
 
+## Fachkern: BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag
+- **Spezialgegenstand:** BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
+- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Der Tatbestand des Factorings in § 1 Abs. 1a Satz 2 Nr. 9 KWG ist auf drei Tragesäulen aufgebaut:

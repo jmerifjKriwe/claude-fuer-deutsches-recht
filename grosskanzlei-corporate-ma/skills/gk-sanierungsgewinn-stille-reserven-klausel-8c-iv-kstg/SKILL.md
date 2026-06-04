@@ -5,6 +5,13 @@ description: "Stille-Reserven-Klausel des § 8c Abs. 4 KStG und § 8d KStG als S
 
 # Sanierungsgewinn – Stille-Reserven-Klausel § 8c Abs. 4 KStG und § 8d KStG
 
+## Fachkern: Sanierungsgewinn – Stille-Reserven-Klausel § 8c Abs. 4 KStG und § 8d KStG
+- **Spezialgegenstand:** Sanierungsgewinn – Stille-Reserven-Klausel § 8c Abs. 4 KStG und § 8d KStG; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
+- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Worum geht es
 
 Wenn § 8c Abs. 1 Satz 1 KStG den Verlustvortrag durch einen Anteilseignerwechsel über 50 % vernichten würde, bleiben zwei Rettungsmechanismen: erstens die **Stille-Reserven-Klausel** des § 8c Abs. 4 KStG; sie schützt den Verlustvortrag in Höhe der im Beteiligungsvermögen ruhenden stillen Reserven. Zweitens der **fortführungsgebundene Verlustvortrag** nach § 8d KStG; er rettet den Verlustvortrag insgesamt, bindet aber die Geschäftstätigkeit für mindestens fünf Jahre.
@@ -110,7 +117,6 @@ Der Schutz des Verlustvortrags ist Detailarbeit. Drei Beobachtungen:
 - BMF-Schreiben vom 28.11.2017 zu § 8d KStG – Verifizierung im Bundessteuerblatt Stand 06/2026.
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
 
-<!-- gk-ma-v61-agentic-boost -->
 
 ## V61 Deal-OS Boost
 

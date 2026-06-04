@@ -5,9 +5,12 @@ description: "AGB Transparenzgebot § 307 Abs. 1 Satz 2 BGB. Skill arbeitet die 
 
 # Agb Transparenzgebot 307 Abs 1 Satz 2
 
-## Aufgabe
+## Fachkern: Agb Transparenzgebot 307 Abs 1 Satz 2
 
-Skill fuer Pruefung des Transparenzgebots.
+- **Klauselproblem (Agb Transparenzgebot 307 Abs 1 Satz 2):** AGB Transparenzgebot § 307 Abs. 1 Satz 2 BGB. Skill arbeitet die BGH-Linie zum Transparenzgebot aus Bestimmtheitserfordernis Verstaendlichkeit Vorhersehbarkeit der Klauselwirkung und Schutz vor verschachtelten Verweisen. Behandelt typische Verstoesse Cookie-Banner Preisanpassung Schiedsklauseln. Liefert Pruefraster.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
 
 ## Norm
 

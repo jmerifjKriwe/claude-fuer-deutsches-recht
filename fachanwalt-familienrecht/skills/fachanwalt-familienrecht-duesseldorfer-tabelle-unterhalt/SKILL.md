@@ -5,6 +5,13 @@ description: "Workflow-Skill zu fachanwalt familienrecht duesseldorfer tabelle u
 
 # Unterhaltsberechnung Düsseldorfer Tabelle
 
+## Fachkern: Unterhaltsberechnung Düsseldorfer Tabelle
+- **Spezialgegenstand:** Unterhaltsberechnung Düsseldorfer Tabelle; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
+- **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Mandantenfragen beim Kaltstart
 
 1. Welche Unterhaltsart wird berechnet — Kindesunterhalt, Trennungsunterhalt (§ 1361 BGB) oder nachehelicher Unterhalt (§§ 1569 ff. BGB)?

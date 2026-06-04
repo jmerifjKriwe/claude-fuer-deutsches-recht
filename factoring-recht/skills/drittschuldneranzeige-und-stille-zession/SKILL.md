@@ -5,6 +5,13 @@ description: "Drittschuldneranzeige und stille Zession: prüft die einschlägige
 
 # Drittschuldneranzeige und stille Zession
 
+## Fachkern: Drittschuldneranzeige und stille Zession
+- **Spezialgegenstand:** Drittschuldneranzeige und stille Zession; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
+- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Eine **stille Zession** ist eine Forderungsabtretung, von der der Drittschuldner (Debitor) nichts weiß. Wirtschaftliches Motiv: Diskretion – der Markt soll nicht erfahren, dass der Kunde Forderungen verkauft (Liquiditätsindiz). Rechtlich ist die stille Zession zulässig und wirksam; § 398 BGB verlangt keine Anzeige. Die Anzeige ist nach § 409 BGB nur **Schutzinstrument für den Schuldner**: Er darf bis Kenntnis an den Altgläubiger zahlen mit befreiender Wirkung (§ 407 BGB).

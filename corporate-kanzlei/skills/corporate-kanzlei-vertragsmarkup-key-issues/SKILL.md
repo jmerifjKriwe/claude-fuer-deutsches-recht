@@ -3,11 +3,14 @@ name: corporate-kanzlei-vertragsmarkup-key-issues
 description: "Juristischen Markup für M&A-Vertraege und Key-Issues-Memo erstellen: Gegenpartei hat SPA/SHA/NDA/LOI-Entwurf uebersandt und muss kommentiert werden. Normen: §§ 305 ff. BGB (AGB-Kontrolle im B2B), Marktstandard DE/UK M&A. Prüfraster: Abweichungen vom Marktstandard, kritische Klauseln (MAC, Indemnification, Reps Survival), Red-Lines vs. Nice-to-have. Output Markup mit Kommentaren, Key-Issues-Memo, Verhandlungs-Prioritaetenliste. Abgrenzung: SPA-Ersterstellung siehe spa-apa-entwurf; AGB-Prüfung allgemein siehe Vertragsrecht-Plugin."
 ---
 
-<!-- anthropic-depth-boost-v1 -->
 # Vertragsmarkup und Key Issues
 
-## Zweck
-Dieser Skill führt ein Corporate-Kanzlei-/Inhouse-Governance-Mandat durch den Arbeitsbereich **Vertrags-, Beschluss-, Signing-, Closing- und Post-Closing-Mechanik**. Er macht aus Gesellschaftsunterlagen, Beschlusslagen, Vertragsentwürfen oder Registerinformationen einen belastbaren Corporate-Befund, trennt Tatsachen von Annahmen und zwingt zu einem organ- und mandatsfähigen nächsten Schritt. Adressaten sind Corporate-Partner, Syndizi, Associates, Legal Operations, Geschäftsführung, Vorstand und Aufsichts-/Beiratssekretariat.
+## Fachkern: Vertragsmarkup und Key Issues
+
+- **Corporate-Aufgabe (Vertragsmarkup und Key Issues):** Gegenpartei hat SPA/SHA/NDA/LOI-Entwurf uebersandt und muss kommentiert werden.
+- **Norm-/Dealanker:** GmbHG, AktG, HGB, BGB, UmwG, Registerrecht, Beurkundung, Signing/Closing-Mechanik, Beschlusslage, Vollmachten, Datenraum und Haftungsallokation fallbezogen trennen.
+- **Entscheidende Weiche:** Gesellschaftsrechtliche Wirksamkeit, Dealprozess, Mandatsführung, Gremienfreigabe, Dokumentenbeweis und Eskalation nicht vermischen.
+- **Arbeitsprodukt:** Partnerfähiges Memo, Closing-/Action-Liste, Redline-Hinweis oder PMO-Board mit Verantwortlichen und Blockern.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:

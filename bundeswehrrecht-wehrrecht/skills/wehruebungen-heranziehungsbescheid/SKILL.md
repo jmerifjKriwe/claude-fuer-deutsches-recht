@@ -5,6 +5,13 @@ description: "Wehrübungen und Heranziehungsbescheid: prüft Heranziehungsvoraus
 
 # Wehrübungen und Heranziehungsbescheid
 
+## Fachkern: Wehrübungen und Heranziehungsbescheid
+- **Spezialgegenstand:** Wehrübungen und Heranziehungsbescheid; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Reservisten können zu Wehrübungen herangezogen werden. Der Heranziehungsbescheid ist der formelle Verwaltungsakt, gegen den Rechtsmittel eingelegt werden können.

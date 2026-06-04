@@ -5,6 +5,13 @@ description: "Homeoffice: vertiefter Berufsrechts-Skill für Steuerberater; prü
 
 # Homeoffice
 
+## Fachkern: Homeoffice
+- **Spezialgegenstand:** Homeoffice; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** StBerG, BOStB, StBVV, AO, GwG, Verschwiegenheit, Interessenkollision, Fristenorganisation und Berufsgerichtsbarkeit.
+- **Entscheidende Weiche:** Mandatsannahme, Frist, Erklärung/Berichtigung, Steuerstrafnähe, Gebühren, Kammerkommunikation und Haftungsvermeidung trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Einsatz
 
 Nutze diesen Skill im Plugin **Berufsrecht Steuerberater**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.

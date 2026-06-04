@@ -5,6 +5,13 @@ description: "Versetzung, Kommandierung, Abordnung: prüft SG §§ 22–27, Vora
 
 # Versetzung, Kommandierung und Abordnung
 
+## Fachkern: Versetzung, Kommandierung und Abordnung
+- **Spezialgegenstand:** Versetzung, Kommandierung und Abordnung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Versetzung (§ 22 SG), Kommandierung (§ 24 SG) und Abordnung sind die häufigsten organisatorischen Maßnahmen in der Bundeswehr. Sie unterscheiden sich in Dauer, Zweck und Rechtsfolgen.

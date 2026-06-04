@@ -5,6 +5,13 @@ description: "Personalakte, Einsicht, Datenschutz: prüft § 17 SG, Aufnahmerech
 
 # Personalakte, Einsicht und Datenschutz
 
+## Fachkern: Personalakte, Einsicht und Datenschutz
+- **Spezialgegenstand:** Personalakte, Einsicht und Datenschutz; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 § 17 SG regelt das Personalaktenrecht für Soldaten. Die Personalakte enthält alle für das Dienstverhältnis relevanten Unterlagen. Der Soldat hat das Recht auf vollständige Einsicht und kann unrichtige Eintragungen berichtigen lassen.

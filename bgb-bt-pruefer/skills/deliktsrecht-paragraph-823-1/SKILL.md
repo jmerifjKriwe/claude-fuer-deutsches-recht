@@ -4,6 +4,13 @@ description: "Prüft Rechtsgutsverletzung, Handlung, Kausalität, Rechtswidrigke
 ---
 # Deliktsrecht § 823 Abs. 1 BGB
 
+## Fachkern: Deliktsrecht § 823 Abs. 1 BGB
+- **Spezialgegenstand:** Deliktsrecht § 823 Abs. 1 BGB; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
+- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Zweck
 
 Den Grundtatbestand des Deliktsrechts nach § 823 Abs. 1 BGB vollständig prüfen: geschützte Rechtsgüter, Tatbestand, Rechtswidrigkeit, Verschulden und Schaden.

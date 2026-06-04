@@ -5,6 +5,12 @@ description: "Workflow-Skill zu mandantenkorrespondenz form und zugang templates
 
 # Mandantenkorrespondenz — Form und Zugang: Templates
 
+## Fachkern: Mandantenkorrespondenz — Form und Zugang: Templates
+
+- **Spezialfrage (Mandantenkorrespondenz — Form und Zugang: Templates):** Workflow-Skill zu mandantenkorrespondenz form und zugang templates. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+- **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
+
+
 ## Rechtsgrundlagen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -5,6 +5,13 @@ description: "Vorhaltefinanzierung nach KHVVG: berechnet den Vorhalteanteil je L
 
 # Vorhalteverguetung Leistungsgruppen Krankenhausreform
 
+## Fachkern: Vorhalteverguetung Leistungsgruppen Krankenhausreform
+- **Spezialgegenstand:** Vorhalteverguetung Leistungsgruppen Krankenhausreform; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
+- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 Mit dem KHVVG wird die Krankenhausverguetung umgestellt: Statt fast vollstaendiger DRG-Finanzierung erhaelt jedes Plankrankenhaus kuenftig einen mengenunabhaengigen Vorhalteanteil (Zielmarke 60 %), der je Leistungsgruppe ausgereicht wird. Konvergenzphase 2025-2027.
 

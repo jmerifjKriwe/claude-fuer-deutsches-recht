@@ -5,9 +5,12 @@ description: "AGB-Preisanpassung Energieversorgung StromGVV GasGVV. Skill klaert
 
 # Agb Preisanpassung Energie Stromgvv Gasgvv
 
-## Aufgabe
+## Fachkern: Agb Preisanpassung Energie Stromgvv Gasgvv
 
-Skill fuer AGB-Preisanpassung in der Energieversorgung.
+- **Klauselproblem (Agb Preisanpassung Energie Stromgvv Gasgvv):** AGB-Preisanpassung Energieversorgung StromGVV GasGVV. Skill klaert die rechtlichen Anforderungen an Preisanpassungsklauseln in Energielieferungsvertraegen Grundversorgung (StromGVV GasGVV) und Sonderkundenvertraege. Behandelt EuGH-Linie zur Transparenz BGH-Folgejudikate zur Verfassungsmaessigkeit. Liefert Klauselentwurf und Pruefraster.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
 
 ## Norm
 

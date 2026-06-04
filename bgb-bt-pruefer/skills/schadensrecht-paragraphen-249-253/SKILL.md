@@ -4,6 +4,13 @@ description: "Schadensrecht §§ 249-253 BGB: Naturalrestitution, Schadensberech
 ---
 # Schadensrecht §§ 249-253 BGB
 
+## Fachkern: Schadensrecht §§ 249-253 BGB
+- **Spezialgegenstand:** Schadensrecht §§ 249-253 BGB; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
+- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Zweck
 
 Schadensersatzansprüche nach §§ 249-253 BGB vollständig ausarbeiten: Grundsatz der Naturalrestitution, Differenzhypothese, Schmerzensgeld und Sonderprobleme wie Vorteilsausgleichung und Mitverschulden.

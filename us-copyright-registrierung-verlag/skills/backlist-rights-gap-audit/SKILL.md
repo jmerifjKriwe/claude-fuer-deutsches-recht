@@ -5,6 +5,13 @@ description: "Backlist Rights Gap Audit: ältere Verlagsverträge, Übersetzunge
 
 # Backlist Rights Gap Audit
 
+## Fachkern: Backlist Rights Gap Audit
+- **Spezialgegenstand:** Backlist Rights Gap Audit; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
+- **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Aufgabe
 
 Prüfe ältere Titel vor der Registrierung auf Rechte-Lücken. Eine schnelle eCO-Anmeldung hilft wenig, wenn der Verlag die US-Rechte, Digitalrechte oder Bildrechte nicht sauber belegen kann.

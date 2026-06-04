@@ -5,9 +5,19 @@ description: "Rechtsabteilungs-Spezialskill für Fusionskontrolle als Closing Co
 
 # Rechtsabteilung: Fusionskontrolle als Closing Condition
 
-## Worum es geht
+## Fachkern: Rechtsabteilung: Fusionskontrolle als Closing Condition
+- **Spezialgegenstand:** Rechtsabteilung: Fusionskontrolle als Closing Condition; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
+- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+
+## Spezialkern: Rechtsabteilung: Fusionskontrolle als Closing Condition
+
+- **Konkretes Problem:** Regulatory Timetable, Hell-or-High-Water und Long Stop Date werden verknüpft.
+- **Norm-/Quellenanker:** einschlägige Spezialnormen des Plugin-Fachgebiets, amtliche Gesetzesfassungen, Behördenpraxis und verifizierte Rechtsprechung mit Datum und Aktenzeichen.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

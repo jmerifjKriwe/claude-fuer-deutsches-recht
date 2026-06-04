@@ -5,10 +5,12 @@ description: "Pensionsbuyout und De-Risking strukturieren: Risikoauslagerung an 
 
 # Pension Buyout Strukturierung und De-Risking
 
-**Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB**
-Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
+## Fachkern: Pension Buyout Strukturierung und De-Risking
 
----
+- **bAV-Problem:** Risikoauslagerung an Versicherungsunternehmen oder CTA. Normen: §§ 4 BetrAVG, VAG, IFRS. Prüfraster: Buyout-Voraussetzungen, Versicherungslösungen, Bilanzbereinigung. Output: Buyout-Strukturierungsmemo. Abgrenzung: nicht laufende Pensionsverwaltung.
+- **Normenanker:** BetrAVG, EStG/LSt, SGB IV, HGB/IFRS-Bilanzierung, InsO, ArbGG und arbeitsrechtliche Zusage-/Änderungsdogmatik je nach Durchführungsweg prüfen.
+- **Entscheidende Weiche:** Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen.
+- **Arbeitsprodukt:** bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
 
 ## Rechtsgrundlagen
 
@@ -23,7 +25,6 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - IAS 19.8 (qualifying insurance policy als plan asset)
 - IAS 19.44–60 (Bilanztransfer bei plan amendments / settlements)
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -31,7 +32,7 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 
 ### Schritt 1: De-Risking-Strategie — Instrumentenauswahl
 
-Dr. von Sompeh-Ostermann stellt zunächst die drei klassischen De-Risking-Instrumente gegenüber:
+fachliche Leitung stellt zunächst die drei klassischen De-Risking-Instrumente gegenüber:
 
 #### Buy-in
 **Definition:** Arbeitgeber bleibt Versorgungsschuldner; schließt aber eine Versicherung (Gruppenrentenversicherung) ab, die die Versicherungsleistungen exakt den Versorgungsansprüchen entsprechen lässt. Der Versicherungsvertrag ist plan asset (IAS 19.8).
@@ -53,7 +54,6 @@ Dr. von Sompeh-Ostermann stellt zunächst die drei klassischen De-Risking-Instru
 - Vollständige Bilanzentlastung (HGB und IFRS) bei echter Enthaftung
 - IAS 19.99–101: Settlement-Buchung (Gewinn/Verlust aus Verpflichtungsablösung)
 - Regulatorische Genehmigung BaFin erforderlich bei Portfolioübertragung auf Pensionskasse/Pensionsfonds
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### Longevity Swap
 **Definition:** Derivative Absicherung des Langlebigkeitsrisikos ohne Übergang der Verpflichtung; Arbeitgeber zahlt festgelegte Leistungen basierend auf erwarteten Sterblichkeitskurven; Swap-Partner (Bank oder Rückversicherer) zahlt tatsächliche Leistungen.
@@ -66,7 +66,7 @@ Dr. von Sompeh-Ostermann stellt zunächst die drei klassischen De-Risking-Instru
 
 ### Schritt 2: Versichererauswahl (marktüblicher Prozess)
 
-Dr. von Sompeh-Ostermann begleitet den Mandanten bei einem strukturierten Ausschreibungsverfahren (RFP — Request for Proposals). Ohne Nennung realer Versicherer gilt folgendes Prüfschema:
+fachliche Leitung begleitet den Mandanten bei einem strukturierten Ausschreibungsverfahren (RFP — Request for Proposals). Ohne Nennung realer Versicherer gilt folgendes Prüfschema:
 
 **Auswahlkriterien:**
 1. Solvency II-Bedeckungsquote (Solvency Capital Requirement — SCR-Quote; Mindest: 150 % empfohlen)
@@ -104,8 +104,8 @@ Vertraulich — Entwurf
 Auftraggeber:     [Konzern Muster AG], Düsseldorf
 Versicherer:      [Versicherungsgesellschaft]
 Datum:            [Datum]
-Beratung:         Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB
-                  Prof. Dr. Adalbert von Sompeh-Ostermann
+Beratung:         bAV-Projektteam
+                  fachliche Leitung
 
 1. GEGENSTAND
    Abschluss einer Gruppenrentenversicherung (Buy-in) zur Absicherung der
@@ -158,7 +158,7 @@ Beratung:         Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB
 
 ```
 DATENRAUM-ANFORDERUNGEN PENSION BUY-OUT
-Treuenfels Yamamoto · Dr. von Sompeh-Ostermann
+bAV-Projektteam · fachliche Leitung
 
 A. VERSORGUNGSBERECHTIGTE
    □ Vollständige Bestandsliste (Name, Geburtsdatum, Rentenbeginn, 
@@ -209,5 +209,3 @@ D. RECHTLICHE DOKUMENTATION
 - → `drei-stufen-theorie-eingriffsanalyse` — Eingriff in Versorgungsrechte durch Ablösung
 
 ## Ergaenzende Rechtsprechung (v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

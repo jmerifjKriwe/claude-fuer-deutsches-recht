@@ -5,30 +5,14 @@ description: "Punkte: Risikoampel, Gegenargumente und Verteidigungslinien im Plu
 
 # Punkte: Risikoampel, Gegenargumente und Verteidigungslinien
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `verkehrsowi-verteidiger`. Ausgangspunkt ist: Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und Amtsgericht.
-
-Er führt durch **Risikoampel, Gegenargumente und Verteidigungslinien** im Themenfeld **Punkte**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-## Norm- und Praxisanker
-
-- Fahreignungsregister/Punktesystem: § 4 StVG (seit Reform 2014, "Punktereform"). Stufen: 1-3 Punkte = Vormerkung; 4-5 Punkte = Ermahnung mit Hinweis auf Fahreignungs-Seminar; 6-7 Punkte = Verwarnung; ab 8 Punkten = Entzug Fahrerlaubnis.
-- Punktwertung: § 4 Abs. 2 StVG iVm BußgKatV – 1 Punkt (einfacher Verstoß), 2 Punkte (Straftat ohne FE-Entzug oder grobe OWi), 3 Punkte (Straftat mit FE-Entzug, § 316 StGB, § 315c StGB).
-- Tilgung: § 29 StVG – Tilgungsfristen abhängig von Schwere (2,5 / 5 / 10 Jahre); Tilgungshemmung bei Folgeeintragung möglich.
-- Fahreignungsseminar: § 4a StVG – freiwillige Punktreduktion (-1 Punkt) bei 1-5 Punkten, einmal in fünf Jahren.
-- Akteneinsicht KBA: § 30 StVG – jeder Eingetragene kann FAER-Auszug anfordern (kostenfrei).
-- Praxis-Tipp: Vor Mandatsstrategie immer aktuellen KBA-Auszug einsehen. Bei knapper Punktezahl (5-7) Strategie: Einspruch gegen Bescheid mit Aussicht auf Punkt-Reduktion oder -Wegfall; ggf. Fahreignungs­seminar planen, um vor Folgeverstoß Punktstand zu senken. Bei Schwellenüberschreitung (8 Punkte) ist Entzug zwingend (gebundene Entscheidung), kein Ermessen der FE-Behörde.
+## Spezialwissen: Punkte: Risikoampel, Gegenargumente und Verteidigungslinien
+- **Spezialgegenstand:** Punkte: Risikoampel, Gegenargumente und Verteidigungslinien / spezial punkte risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Normen-/Quellenanker:** StVG.
+- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
+- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
 
-## Fachlicher Zuschnitt
-
-- **Thema:** Punkte.
-- **Arbeitsfokus:** Risikoampel, Gegenargumente und Verteidigungslinien.
-- **Plugin-Rahmen:** Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Droge....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
+## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?

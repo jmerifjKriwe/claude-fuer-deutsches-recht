@@ -5,6 +5,13 @@ description: "Sanierungsgewinn im PE-Mandat. Adressiert PE-Investoren in der Rol
 
 # Sanierungsgewinn – Private Equity und Managementbeteiligung
 
+## Fachkern: Sanierungsgewinn – Private Equity und Managementbeteiligung
+- **Spezialgegenstand:** Sanierungsgewinn – Private Equity und Managementbeteiligung; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
+- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Worum geht es
 
 PE-Fonds treten in Sanierungssituationen in mehreren Rollen auf: als Distressed-Investor mit Loan-to-Own-Strategie, als Sponsor eines bestehenden Portfolio-Unternehmens in der Krise, als Exit-Käufer eines sanierten Targets oder als Co-Investor in einer DES-Struktur. In jeder dieser Rollen sind drei Themen kritisch: die Tax-Wirkungen für die Holding-Struktur des Fonds, die Verlustvortragssituation im Target und die korrekte Strukturierung des Management Equity Plan (MEP), in dem die Geschäftsführung des Targets nachträglich einsteigt.
@@ -128,7 +135,6 @@ Drei Beobachtungen aus dem Distressed-PE:
 - BFH zur Managementbeteiligung (Abgrenzung § 17 / § 19 EStG) – ständige Rspr.; bundesfinanzhof.de.
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
 
-<!-- gk-ma-v61-agentic-boost -->
 
 ## V61 Deal-OS Boost
 

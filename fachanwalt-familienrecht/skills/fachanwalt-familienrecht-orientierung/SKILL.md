@@ -5,6 +5,13 @@ description: "Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzunge
 
 # Fachanwalt für Familienrecht — Orientierung
 
+## Fachkern: Fachanwalt für Familienrecht — Orientierung
+- **Spezialgegenstand:** Fachanwalt für Familienrecht — Orientierung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
+- **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Aktuelle Rechtsprechung (Orientierung Familienrecht, Stand 05/2026)
 
 Verifizierte Eckpfeiler — Live-Verifikation vor Verwendung in Schriftsätzen zwingend:

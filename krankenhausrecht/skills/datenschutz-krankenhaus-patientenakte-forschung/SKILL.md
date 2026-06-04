@@ -5,6 +5,13 @@ description: "Datenschutz im Krankenhaus: DSGVO, BDSG, Landeskrankenhausgesetze,
 
 # Datenschutz Krankenhaus Patientenakte Forschung
 
+## Fachkern: Datenschutz Krankenhaus Patientenakte Forschung
+- **Spezialgegenstand:** Datenschutz Krankenhaus Patientenakte Forschung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
+- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 Patientendaten sind besonders schutzwuerdig (Art. 9 DSGVO Gesundheitsdaten). Im Krankenhaus uberlagern sich DSGVO, BDSG, Landeskrankenhausgesetze, § 203 StGB, SGB X, MBO-Aerzte. Sekundaerthemen: ePA-Anbindung, Forschung, KI-Tools, Cloud-Auftragsverarbeitung, Datenpannen-Meldepflicht.
 

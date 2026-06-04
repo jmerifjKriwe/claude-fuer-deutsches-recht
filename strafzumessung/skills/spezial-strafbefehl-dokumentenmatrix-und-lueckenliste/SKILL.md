@@ -5,30 +5,14 @@ description: "Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung im P
 
 # Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `strafzumessung`. Ausgangspunkt ist: Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur grossen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewaehrung § 56 § 49 Regelbeispiele besonders schwerer Fall Verstaendigung § 257c StPO TOA § 46a Gesamtstrafe § 55 JGG.
-
-Er führt durch **Dokumentenmatrix, Lückenliste und Nachforderung** im Themenfeld **Strafbefehl**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-## Norm- und Praxisanker
-
-- Strafbefehl: §§ 407-412 StPO – schriftliches Verfahren ohne Hauptverhandlung; Geldstrafe oder Freiheitsstrafe bis 1 Jahr mit Bewaehrung (nur mit Pflichtverteidiger nach § 407 Abs. 2 StPO).
-- Erlass: StA stellt Antrag bei Strafrichter; Erlass nur, wenn hinreichender Tatverdacht (§ 408 StPO).
-- Strafzumessung im Strafbefehl: Verkürzte Begründung; § 46 StGB-Kriterien werden nicht vollständig dargelegt, daher bei Akteneinsicht prüfen, welche Strafzumessungsgrundlagen die StA überhaupt aktenmäßig erfasst hat.
-- Einspruch: § 410 StPO 2 Wochen – beschränkt einlegbar (z.B. nur Tagessatzhöhe, nur Fahrverbot, § 410 Abs. 2 StPO).
-- Hauptverhandlung nach Einspruch: §§ 411 f. StPO; Verschärfungsrisiko (§ 411 Abs. 4 StPO Bindung an Strafbefehl nicht gegeben).
-- Praxis-Tipp: Dokumentenmatrix Strafbefehl: (1) Strafbefehl mit Erlassdatum, Zustellungsdatum, Einspruchsfrist, (2) Anhörungsprotokoll oder Einlassung (falls vorhanden), (3) BZR-Auszug, (4) Mandant-Einkommensnachweise für Tagessatzhöhe, (5) Belege Schadenswiedergutmachung/TOA, (6) Strafanzeige und Polizei-Protokoll. Lückenliste: was hat die StA nicht erfasst? Mildernde Umstände nach § 46 Abs. 2 StGB substantiiert nachreichen.
+## Spezialwissen: Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung
+- **Spezialgegenstand:** Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung / spezial strafbefehl dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Normen-/Quellenanker:** StPO, TOA, JGG.
+- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
+- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
 
-## Fachlicher Zuschnitt
-
-- **Thema:** Strafbefehl.
-- **Arbeitsfokus:** Dokumentenmatrix, Lückenliste und Nachforderung.
-- **Plugin-Rahmen:** Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur grossen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitss....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
+## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?

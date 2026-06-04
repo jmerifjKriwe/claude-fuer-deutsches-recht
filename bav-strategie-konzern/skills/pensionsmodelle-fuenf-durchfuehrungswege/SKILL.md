@@ -5,10 +5,12 @@ description: "Fuenf Durchführungswege der betrieblichen Altersversorgung vergle
 
 # Pensionsmodelle — Die fünf Durchführungswege der betrieblichen Altersversorgung
 
-**Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB**
-Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
+## Fachkern: Pensionsmodelle — Die fünf Durchführungswege der betrieblichen Altersversorgung
 
----
+- **bAV-Problem:** §§ 1 1b BetrAVG. Prüfraster: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds - Vor- und Nachteile. Output: Durchführungsweg-Empfehlung. Abgrenzung: nicht steuerliche Behandlung § 6a EStG.
+- **Normenanker:** BetrAVG, EStG/LSt, SGB IV, HGB/IFRS-Bilanzierung, InsO, ArbGG und arbeitsrechtliche Zusage-/Änderungsdogmatik je nach Durchführungsweg prüfen.
+- **Entscheidende Weiche:** Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen.
+- **Arbeitsprodukt:** bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
 
 ## Rechtsgrundlagen
 
@@ -35,7 +37,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ### Schritt 1: Bestandsaufnahme und Ausgangslage
 
-Dr. von Sompeh-Ostermann eröffnet die Mandatsbearbeitung stets mit einem strukturierten Fragebogen (→ Checkliste unten). Erfasst werden:
+fachliche Leitung eröffnet die Mandatsbearbeitung stets mit einem strukturierten Fragebogen (→ Checkliste unten). Erfasst werden:
 1. Anzahl aktiver Anwärter, Rentner, unverfallbar Ausgeschiedener (getrennt nach Gesellschaften)
 2. Bestehende Zusagearten (Leistungs-, Beitrags-, beitragsorientierte Leistungszusage gem. § 1 Abs. 2 BetrAVG)
 3. Derzeitiger Durchführungsweg und etwaige Mischstrukturen
@@ -148,7 +150,6 @@ Dr. von Sompeh-Ostermann eröffnet die Mandatsbearbeitung stets mit einem strukt
 **Nachteile:**
 - Kapitalanlage-Flexibilität begrenzt durch Versicherungsprodukt
 - Bei Kündigung: Rückkaufswert ggf. unter Prämienvolumen
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Schritt 3: Entscheidungsmatrix
 
@@ -163,7 +164,7 @@ Dr. von Sompeh-Ostermann eröffnet die Mandatsbearbeitung stets mit einem strukt
 | Admin-Aufwand | Mittel | Hoch | Mittel | Hoch | Niedrig |
 | Geeignet für | Groß-/Konzern | Groß-/Konzern | Mittelstand | Großkonzern | KMU/individuelle |
 
-### Schritt 4: Empfehlungs-Framework Treuenfels Yamamoto
+### Schritt 4: Empfehlungs-Framework bAV-Projektteam
 
 **Regel 1 — IFRS-Bilanzentlastung priorisieren:** Bei IFRS-Abschluss sollte stets geprüft werden, ob ein CTA (→ Skill `cta-contractual-trust-arrangement-strukturierung`) oder ein ausfinanzierter Pensionsfonds die DBO auf Nettobasis darstellen kann.
 
@@ -186,7 +187,7 @@ INTERNES ARBEITSPROTOKOLL — VERTRAULICH
 Mandant:        [Fiktive Konzern GmbH & Co. KG]
 Projekt:        Auswahl Durchführungsweg BAV
 Datum:          [Datum]
-Federführung:   Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
+Federführung:   fachliche Leitung, LL.M. (Oxford)
 Mitarbeit:      [Senior Associate Name], [Associate Name]
 
 1. AUSGANGSSACHVERHALT
@@ -214,7 +215,7 @@ Mitarbeit:      [Senior Associate Name], [Associate Name]
 
 ```
 CHECKLISTE — INFORMATIONSANFORDERUNG BAV-DURCHFÜHRUNGSWEG
-Treuenfels Yamamoto · Dr. von Sompeh-Ostermann
+bAV-Projektteam · fachliche Leitung
 
 □ Vollständige Liste aller bestehenden Versorgungsordnungen (VOs)
 □ Aktuelle Mitarbeiterliste mit Eintrittsdatum, Geburtsdatum, Zusagedatum

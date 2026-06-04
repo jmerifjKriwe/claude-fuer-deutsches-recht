@@ -5,9 +5,12 @@ description: "Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Re
 
 # Agb Rechtswahl Schweizer Recht Rom I
 
-## Aufgabe
+## Fachkern: Agb Rechtswahl Schweizer Recht Rom I
 
-Skill fuer Mandate, in denen ein Vertragspartner Schweizer Recht waehlt, um sich dem deutschen AGB-Recht zu entziehen — und fuer die Pruefung, ob das funktioniert.
+- **Klauselproblem (Agb Rechtswahl Schweizer Recht Rom I):** Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkommen. Skill klaert Rom-I-VO Art. 3 freie Rechtswahl Art. 6 zwingender Verbraucherschutz Art. 9 Eingriffsnormen sowie die Pruefung ob §§ 305-310 BGB international zwingend sind. Behandelt die Konstellation deutscher Verwender mit Schweizer Tochter Schweizer Verwender mit deutschen Kunden und gemischte Faelle. Liefert Pruefraster und Klauselentwurf fuer rechtssichere Rechtswahlklauseln in Schweiz-Deutschland-Mandaten. Verweist auf agb-und-242-bgb-eingriffsnorm.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
 
 ## Sofortfragen
 

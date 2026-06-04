@@ -5,13 +5,14 @@ description: "Notare: notarielle verwahrung von daten - Organisationspflichten, 
 
 # Notare: notarielle verwahrung von daten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
-## Einsatz
+## Konkreter Berufsrechtskern: Notare: notarielle verwahrung von daten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
+- **Spezialgegenstand:** Notare: notarielle verwahrung von daten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
+- **Normenanker:** BNotO, BeurkG, DONot, GNotKG, GwG, UVZ/Verwahrungsverzeichnis, Neutralität, Belehrung und Dienstaufsicht.
+- **Institutionen:** Notarkammer, Dienstaufsicht, Landgericht/Oberlandesgericht im Notarrecht und Register-/Grundbuchschnittstellen.
+- **Spezialspur:** Verwahrung, Treuhandauftrag, Fälligkeit, Auszahlungsreife und Dokumentationsspur minutengenau führen.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
 
-Nutze diesen Skill im Plugin **Berufsrecht Notare**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
-
-**Fokus:** notarielle verwahrung von daten; organisationspflichten, prävention, team-anweisung und fristenkontrolle im Berufsrecht der Notare
-
-## Kaltstart
+## Fallweichen dieser Speziallage
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

@@ -5,6 +5,13 @@ description: "SCHUFA, Scoring und Negativeintrag: prüft DSGVO-Auskunft, Art. 15
 
 # SCHUFA Scoring Negativeintrag DSGVO
 
+## Fachkern: SCHUFA Scoring Negativeintrag DSGVO
+- **Spezialgegenstand:** SCHUFA Scoring Negativeintrag DSGVO; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
+- **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Einsatz
 
 Nutze diesen Skill, wenn Verbraucher wegen SCHUFA, Auskunftei, Score, Kreditabsage, Kontoablehnung, Restschuldbefreiung oder streitiger Forderung Hilfe brauchen.

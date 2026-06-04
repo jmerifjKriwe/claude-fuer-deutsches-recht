@@ -5,6 +5,13 @@ description: "Akteneinsicht WBO und WDO: prüft Einsichtsrechte, Umfang, Verweig
 
 # Akteneinsicht nach WBO und WDO
 
+## Fachkern: Akteneinsicht nach WBO und WDO
+- **Spezialgegenstand:** Akteneinsicht nach WBO und WDO; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Das Akteneinsichtsrecht ist eine zentrale Verfahrensgarantie im Wehr- und Disziplinarrecht. Im WBO-Beschwerdeverfahren sichert § 4 WBO das Recht, alle entscheidungsrelevanten Unterlagen einzusehen. Im WDO-gerichtlichen Disziplinarverfahren hat der Soldat umfassende Einsichtsrechte (ähnlich StPO).

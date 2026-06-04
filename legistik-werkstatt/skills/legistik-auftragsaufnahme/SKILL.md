@@ -135,4 +135,3 @@ Bauwesen; Verkehr und Co.
 
 Wenn das Vorhaben digital-tauglich werden soll (Rulemap; BMJ-Initiative; SPRIND), zusaetzlich
 Anschluss an **`legw-rmap-grundlagen`** (didaktischer Einstieg in 10 RuleMapping-Skills, abschliessend `legw-rmap-anschluss-an-legw` als Rueckkopplung).
-

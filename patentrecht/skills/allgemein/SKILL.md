@@ -3,7 +3,6 @@ name: allgemein
 description: "Einstieg, Schnelltriage und Workflow-Routing im Patentrecht-Plugin. Erkennt Patentanmeldung, Erfindungsmeldung, Recherche, FTO, Abmahnung, Lizenz, Einspruch, Nichtigkeit, Register- und Fristenfragen; schlägt passende Spezialskills aus diesem Plugin und bei Bedarf das Schwesterplugin patentrecherche vor."
 ---
 
-<!-- konvers-stil-v1 -->
 
 # Patentrecht — Allgemein
 

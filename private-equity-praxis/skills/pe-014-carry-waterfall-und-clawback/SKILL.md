@@ -5,6 +5,13 @@ description: "Erklärt und prüft Carry-Struktur, Preferred Return, Catch-up, Eu
 
 # Carry, Waterfall und Clawback
 
+## Fachkern: Carry, Waterfall und Clawback
+- **Spezialgegenstand:** Carry, Waterfall und Clawback wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GmbHG, AktG, UmwG, GWB/FKVO, AWG/AWV, KAGB/AIFM-Bezug, LMA-Finanzierung, InsO/StaRUG, Steuer- und Managementbeteiligungsfragen.
+- **Entscheidende Weiche:** Bestimme Dealphase, Fondsrolle, Target-Risiko, Finanzierungsstruktur, Consent/CP, Exit-Auswirkung und Konflikt zwischen Sponsor, Management, Lender und Co-Investor.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 Der Skill übersetzt Excel-Mechanik in juristische Kontrollpunkte und Governance. Carry ist die zentrale Vergütungs- und Anreizstruktur im PE-Fonds; Waterfall regelt die Reihenfolge der Auskehrungen, Clawback sichert die nachträgliche Korrektur bei Übervorteilung des Sponsors. Fokus: LPA-Verzahnung, steuerliche Qualifikation (§ 18 EStG), Escrow-/Sicherheits-Strukturen.

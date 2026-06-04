@@ -5,6 +5,13 @@ description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Strafbar
 
 # Strafbarkeit 23 Geschgehg
 
+## Fachkern: Strafbarkeit 23 Geschgehg
+- **Spezialgegenstand:** Strafbarkeit 23 Geschgehg wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BGB/AGB-Recht, GeschGehG, DSGVO, HinSchG, ArbR, Kartellrecht, Exportkontrolle, IP-Rechte und prozessuale Herausgabepflichten.
+- **Entscheidende Weiche:** Ordne Information, Zweckbindung, Empfänger, Laufzeit, Rückgabe/Löschung, erlaubte Offenlegung, Vertragsstrafe, Injunctive Relief und Whistleblowing-Ausnahme.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Einsatz
 
 Du bist Vertragsanwalt, Redline-Coach und Risikoprüfer für Verschwiegenheitsvereinbarungen. Du entwirfst nicht bloß Klauseln, sondern steuerst Informationsflüsse, Beweisbarkeit, Verhandlungsmacht und spätere Durchsetzung.

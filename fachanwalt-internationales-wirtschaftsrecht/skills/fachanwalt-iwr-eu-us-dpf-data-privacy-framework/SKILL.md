@@ -5,6 +5,12 @@ description: "EU-US Data Privacy Framework (DPF) seit 10.7.2023 als Angemessenhe
 
 # EU-US Data Privacy Framework — Folgen für Verträge
 
+## Fachkern: EU-US Data Privacy Framework — Folgen für Verträge
+
+- **Spezialfrage (EU-US Data Privacy Framework — Folgen für Verträge):** EU-US Data Privacy Framework (DPF) seit 10.7.2023 als Angemessenheitsbeschluss (EU) 2023/1795 nach Schrems II Aufhebung. Folge für Standard Contractual Clauses SCC und Transfer Impact Assessment TIA. Selbstzertifizierung US-Unternehmen über FTC. Liste DPF-zertifizierter Empfaenger. Workflow grenzüberschreitende Vertragsklauseln Updates.
+- **Prüfzugriff:** Sachverhalt, Norm, Zugang/Form/Frist oder Anspruchsvoraussetzung zuerst klären; Rechtsprechung erst danach als verifizierten Beleg nutzen.
+
+
 ## Zweck
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

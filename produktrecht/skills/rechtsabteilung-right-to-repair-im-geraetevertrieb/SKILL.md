@@ -5,9 +5,12 @@ description: "Rechtsabteilungs-Spezialskill für Right to Repair im Gerätevertr
 
 # Rechtsabteilung: Right to Repair im Gerätevertrieb
 
-## Worum es geht
+## Spezialkern: Rechtsabteilung: Right to Repair im Gerätevertrieb
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+- **Konkretes Problem:** Reparaturpflichten, Ersatzteile, Garantietexte und Service-Netz werden geprüft.
+- **Norm-/Quellenanker:** ProdSG, ProdHaftG, neue Produkthaftungsrichtlinie EU 2024/2853, GPSR, Cyber Resilience Act, BGB-Kaufrecht digitale Elemente und Right-to-Repair-Regime.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

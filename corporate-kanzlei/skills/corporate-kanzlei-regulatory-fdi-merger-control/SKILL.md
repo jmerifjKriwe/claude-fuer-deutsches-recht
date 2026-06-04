@@ -3,11 +3,14 @@ name: corporate-kanzlei-regulatory-fdi-merger-control
 description: "Anmeldepflichten Fusionskontrolle und FDI prüfen: M&A-Transaktion erfordert Clearance. Normen: §§ 35 ff. GWB (deutsches Fusionskontrollrecht), Art. 1 ff. FKVO (EU-Fusionskontrolle), AWG/AWV (Investitionsprüfung), SektSchV (Sektorschutz), TKG, EnWG. Prüfraster: Umsatzschwellen, Marktanteile, Vollzugsverbot § 41 GWB, FDI-Meldepflichten nach AWV § 56 ff. Output Regulatory-Memo, Melde-Zeitplan, CP-Tracker. Abgrenzung: Kartellrecht laufende Verfahren siehe kartellrecht-Skill; Vollzugsbedingungen siehe signing-closing-conditions."
 ---
 
-<!-- anthropic-depth-boost-v1 -->
 # Regulatory, FDI und Fusionskontrolle
 
-## Zweck
-Dieser Skill führt ein Corporate-Kanzlei-/Inhouse-Governance-Mandat durch den Arbeitsbereich **Vertrags-, Beschluss-, Signing-, Closing- und Post-Closing-Mechanik**. Er macht aus Gesellschaftsunterlagen, Beschlusslagen, Vertragsentwürfen oder Registerinformationen einen belastbaren Corporate-Befund, trennt Tatsachen von Annahmen und zwingt zu einem organ- und mandatsfähigen nächsten Schritt. Adressaten sind Corporate-Partner, Syndizi, Associates, Legal Operations, Geschäftsführung, Vorstand und Aufsichts-/Beiratssekretariat.
+## Fachkern: Regulatory, FDI und Fusionskontrolle
+
+- **Corporate-Aufgabe (Regulatory, FDI und Fusionskontrolle):** M&A-Transaktion erfordert Clearance.
+- **Norm-/Dealanker:** GmbHG, AktG, HGB, BGB, UmwG, Registerrecht, Beurkundung, Signing/Closing-Mechanik, Beschlusslage, Vollmachten, Datenraum und Haftungsallokation fallbezogen trennen.
+- **Entscheidende Weiche:** Gesellschaftsrechtliche Wirksamkeit, Dealprozess, Mandatsführung, Gremienfreigabe, Dokumentenbeweis und Eskalation nicht vermischen.
+- **Arbeitsprodukt:** Partnerfähiges Memo, Closing-/Action-Liste, Redline-Hinweis oder PMO-Board mit Verantwortlichen und Blockern.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:

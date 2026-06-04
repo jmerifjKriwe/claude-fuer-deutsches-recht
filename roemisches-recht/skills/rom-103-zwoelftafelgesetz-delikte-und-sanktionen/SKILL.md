@@ -28,4 +28,3 @@ Dieser Skill behandelt Delikts- und Sanktionslogik im Zwölftafelgesetz: **Diebs
 - Deliktsmatrix mit Regeltyp, Schutzgut, Sanktion und späterer Entwicklung.
 - Vergleich mit klassischem römischem Deliktsrecht.
 - Warnhinweis: keine moderne Strafrechtsdogmatik rückprojizieren.
-

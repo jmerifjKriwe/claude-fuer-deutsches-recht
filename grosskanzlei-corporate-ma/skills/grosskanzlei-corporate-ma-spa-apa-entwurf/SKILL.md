@@ -5,6 +5,13 @@ description: "SPA Share Purchase Agreement und APA Asset Purchase Agreement entw
 
 # SPA/APA-Entwurf
 
+## Fachkern: SPA/APA-Entwurf
+- **Spezialgegenstand:** SPA/APA-Entwurf; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
+- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Zweck
 
 Erstellt und strukturiert Kaufvertragsentwuerfe (SPA = Share Purchase Agreement; APA = Asset Purchase Agreement) fuer Share Deal und Asset Deal. Grundlage sind Term Sheet, DD-Findings und Transaktionsstruktur. Liefert vollstaendige Vertragsarchitektur mit Garantien, Freistellungen, MAC, Earn-Out und Closing Conditions.
@@ -146,7 +153,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - assets/templates/spa-gliederung-standard.md
 - assets/templates/apa-asset-deal-template.md
 
-<!-- gk-ma-v61-agentic-boost -->
 
 ## V61 Deal-OS Boost
 

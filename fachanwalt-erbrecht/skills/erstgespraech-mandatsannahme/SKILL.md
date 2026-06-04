@@ -5,6 +5,12 @@ description: "Erstgespraech im Erbrechtmandat strukturieren und Sachverhalt voll
 
 # Erstgespraech und Mandatsannahme im Erb- und Pflichtteilsrecht
 
+## Fachkern: Erstgespraech und Mandatsannahme im Erb- und Pflichtteilsrecht
+
+- **Spezialfrage (Erstgespraech und Mandatsannahme im Erb- und Pflichtteilsrecht):** Erblasser Testament gesetzliche Erben Pflichtteilsberechtigte Nachlassbestand Fristen. Output: Mandat-Steckbrief Sachverhaltsprotokoll fehlende Unterlagen. Abgrenzung: Einstiegs-Skill; inhaltliche Arbeit in Spezialist-Skills.
+- **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
+
+
 ## Aktuelle Rechtsprechung (Erbrecht Erstgespräch)
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

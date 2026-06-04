@@ -5,6 +5,13 @@ description: "US-Vertriebsrecht für Luxusmarken: Resale Price Maintenance und M
 
 # US-Selektivvertrieb, Resale Price Maintenance und MAP-Policies
 
+## Fachkern: US-Selektivvertrieb, Resale Price Maintenance und MAP-Policies
+- **Spezialgegenstand:** US-Selektivvertrieb, Resale Price Maintenance und MAP-Policies; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Das US-Antitrust-Recht behandelt vertikale Preisbindung fundamental anders als das EU-Kartellrecht. Seit Leegin (2007) ist Resale Price Maintenance (RPM) nicht mehr per se illegal, sondern unterliegt der Rule of Reason — ein Paradigmenwechsel für Luxusmarken wie klôtzzkètté Inc.
 
 Eleanor M. Quintero, Esq. (Whitman Brennan Forsythe LLP) berät klôtzzkètté Inc. zu allen US-Antitrust-Fragen; Steinacker Lichtenberg München koordiniert die EU-Parallelrechts-Analyse (vgl. Skills `vertikale-preisbindung-vbe-vo` und `selektiver-vertrieb-coty`).

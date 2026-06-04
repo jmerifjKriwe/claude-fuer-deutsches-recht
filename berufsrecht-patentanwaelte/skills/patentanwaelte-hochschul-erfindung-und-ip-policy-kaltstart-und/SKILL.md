@@ -5,13 +5,14 @@ description: "Patentanwälte: hochschul erfindung und ip policy - Kaltstart mit 
 
 # Patentanwälte: hochschul erfindung und ip policy - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
 
-## Einsatz
+## Konkreter Berufsrechtskern: Patentanwälte: hochschul erfindung und ip policy - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
+- **Spezialgegenstand:** Patentanwälte: hochschul erfindung und ip policy - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
+- **Normenanker:** PAO, BOPA, PatG, MarkenG/DesignG-Schnittstellen, EPÜ, UPC-Verfahrensbezug, Fristen- und Geheimnisschutz.
+- **Institutionen:** Patentanwaltskammer, DPMA, EPA, UPC-Schnittstellen und berufsgerichtliche Zuständigkeiten.
+- **Spezialspur:** Mandatsgeheimnis, Priorität, Offenbarung, Vertretungsbefugnis vor DPMA/EPA/UPC und Fristkette prüfen.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
 
-Nutze diesen Skill im Plugin **Berufsrecht Patentanwälte**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
-
-**Fokus:** hochschul erfindung und ip policy; kaltstart mit faktenmatrix, risikoampel und fehlenden unterlagen im Berufsrecht der Patentanwälte
-
-## Kaltstart
+## Fallweichen dieser Speziallage
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

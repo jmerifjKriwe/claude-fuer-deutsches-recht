@@ -5,9 +5,12 @@ description: "Output- und Streit-Skill für Klauselvarianten Vergleich: macht au
 
 # Klauselvarianten Vergleich
 
-## Wann verwenden
+## Fachkern: Klauselvarianten Vergleich
 
-Nutze diesen Skill für **Klauselvarianten Vergleich** im deutschen AGB-Recht, wenn eine Klausel geprüft, entworfen, redlined, verhandelt oder prozessual verteidigt werden soll.
+- **Klauselproblem (Klauselvarianten Vergleich):** macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
 
 ## Minimal-Intake
 

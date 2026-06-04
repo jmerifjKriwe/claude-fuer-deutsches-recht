@@ -5,6 +5,13 @@ description: "Prüft angebotsseitige Substitution (Supply-Side Substitution): Ka
 
 # Produktmarkt — Angebotsseitige Substitution
 
+## Fachkern: Produktmarkt — Angebotsseitige Substitution
+- **Spezialgegenstand:** Produktmarkt — Angebotsseitige Substitution; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
+- **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Rechtlicher Rahmen
 
 Die angebotsseitige Substitution (Supply-Side Substitution) kann den sachlich relevanten Markt erweitern, wenn Anbieter anderer Produkte kurzfristig und ohne wesentliche Zusatzkosten auf das betrachtete Produkt umschwenken können. Die EU-Bekanntmachung 2024 (Rn. 28 ff.) unterscheidet:

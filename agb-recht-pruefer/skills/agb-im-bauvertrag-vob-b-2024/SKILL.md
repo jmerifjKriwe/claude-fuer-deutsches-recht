@@ -5,9 +5,12 @@ description: "AGB-Kontrolle der VOB-B im Bauvertrag. Skill klaert die BGH-Linie 
 
 # Agb Im Bauvertrag Vob B 2024
 
-## Aufgabe
+## Fachkern: Agb Im Bauvertrag Vob B 2024
 
-Skill fuer AGB-Kontrolle im Bauvertragsrecht.
+- **Klauselproblem (Agb Im Bauvertrag Vob B 2024):** AGB-Kontrolle der VOB-B im Bauvertrag. Skill klaert die BGH-Linie zur AGB-rechtlichen Behandlung der VOB-B insgesamt und einzelner Klauseln. Behandelt das Privileg der VOB-B unter § 310 Abs. 1 BGB Erlass des § 308 und § 309 BGB bei vollstaendiger Einbeziehung. Aktuelle Aenderungen VOB-B 2024 und Spannungsverhaeltnis zu §§ 650a ff. BGB Bauvertragsrecht.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
 
 ## Norm
 

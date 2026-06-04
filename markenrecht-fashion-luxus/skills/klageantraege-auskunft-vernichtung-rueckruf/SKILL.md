@@ -5,6 +5,13 @@ description: "Klageanträge im Markenrecht bauen: Unterlassung, Auskunft, Rechnu
 
 # Klageanträge im Markenrecht
 
+## Fachkern: Klageanträge im Markenrecht
+- **Spezialgegenstand:** Klageanträge im Markenrecht; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Aufgabe
 
 Formuliere markenrechtliche Anträge so, dass sie bestimmt, vollstreckbar und zur konkreten Verletzung passend sind.

@@ -3,11 +3,14 @@ name: corporate-kanzlei-deal-team-staffing
 description: "Transaktionsteam zusammenstellen und Workstreams verteilen für M&A-Mandate: Senior Associate braucht Team-Plan oder Partner will Kapazitaeten ueberprüfen. Normen: BRAO § 43a (Interessenkonflikte), RVG/Stundenhonorar, Budget-Richtlinien. Prüfraster: Workstream-Matrix, Kapazitaetsplanung, Eskalationspfade, Stunden-Reporting. Output Team-Staffing-Plan, Workstream-Zuweisung, Budget-Controlling-Template. Abgrenzung: PMO-Gesamtplanung siehe steps-plan-pmo; Konflikt-Check siehe conflict-gwg-sanctions."
 ---
 
-<!-- anthropic-depth-boost-v1 -->
 # Deal-Team-Staffing
 
-## Zweck
-Dieser Skill führt ein Corporate-Kanzlei-/Inhouse-Governance-Mandat durch den Arbeitsbereich **Corporate-Mandatsführung, Governance-PMO, Monitoring, Staffing und Legal-Operations-Steuerung**. Er macht aus Gesellschaftsunterlagen, Beschlusslagen, Vertragsentwürfen oder Registerinformationen einen belastbaren Corporate-Befund, trennt Tatsachen von Annahmen und zwingt zu einem organ- und mandatsfähigen nächsten Schritt. Adressaten sind Corporate-Partner, Syndizi, Associates, Legal Operations, Geschäftsführung, Vorstand und Aufsichts-/Beiratssekretariat.
+## Fachkern: Deal-Team-Staffing
+
+- **Corporate-Aufgabe (Deal-Team-Staffing):** Senior Associate braucht Team-Plan oder Partner will Kapazitaeten ueberprüfen.
+- **Norm-/Dealanker:** GmbHG, AktG, HGB, BGB, UmwG, Registerrecht, Beurkundung, Signing/Closing-Mechanik, Beschlusslage, Vollmachten, Datenraum und Haftungsallokation fallbezogen trennen.
+- **Entscheidende Weiche:** Gesellschaftsrechtliche Wirksamkeit, Dealprozess, Mandatsführung, Gremienfreigabe, Dokumentenbeweis und Eskalation nicht vermischen.
+- **Arbeitsprodukt:** Partnerfähiges Memo, Closing-/Action-Liste, Redline-Hinweis oder PMO-Board mit Verantwortlichen und Blockern.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:

@@ -5,6 +5,13 @@ description: "Versand aus Deutschland: Kurierauswahl, Zollbeschreibung, Nominalw
 
 # Versand aus Deutschland, Zoll und Tracking
 
+## Fachkern: Versand aus Deutschland, Zoll und Tracking
+- **Spezialgegenstand:** Versand aus Deutschland, Zoll und Tracking; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
+- **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Aufgabe
 
 Erzeuge eine Versand- und Zollnotiz für physische Deposits aus Deutschland. Der Skill hält die Sache nüchtern: keine Verkaufsware, keine Geschenklogik, keine Fantasiewerte, sondern Pflicht-/Registrierungsunterlagen mit Nachweisführung.

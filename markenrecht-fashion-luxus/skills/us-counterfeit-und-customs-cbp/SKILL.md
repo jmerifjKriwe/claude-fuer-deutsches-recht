@@ -5,6 +5,13 @@ description: "US-Counterfeit-Enforcement und CBP-Recordation: Luxusmarke will ge
 
 # US Counterfeit Enforcement und CBP Recordation
 
+## Fachkern: US Counterfeit Enforcement und CBP Recordation
+- **Spezialgegenstand:** US Counterfeit Enforcement und CBP Recordation; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Produktfälschungen auf dem US-Markt sind eine existenzielle Bedrohung für klôtzzkètté Inc. in New York. J. Halston Whitman III, Esq. und Eleanor M. Quintero, Esq. (Whitman Brennan Forsythe LLP) handhaben alle US-Enforcement-Maßnahmen; wir koordinieren die europäischen Schutzrechts-Dokumentation und internationale Parallelmaßnahmen (vgl. Skill `produktpiraterie-und-zoll` für EU-Parallelen).
 
 Das US-System kombiniert zivile und strafrechtliche Instrumente zu einem der schärfsten Anti-Counterfeiting-Arsenale der Welt.

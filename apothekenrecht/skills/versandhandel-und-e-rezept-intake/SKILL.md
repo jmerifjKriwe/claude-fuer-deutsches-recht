@@ -5,6 +5,13 @@ description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im
 
 # Versandhandel und E-Rezept Intake
 
+## Fachkern: Versandhandel und E-Rezept Intake
+- **Spezialgegenstand:** Versandhandel und E-Rezept Intake; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
+- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Aufnahme eines Versandhandelsfalls: Bestelleingang einer Versandapotheke, Prüfung der gesetzlichen Voraussetzungen für den Versand verschreibungspflichtiger und apothekenpflichtiger Arzneimittel, Schnittstelle zum E-Rezept. Der Skill fasst die Pflichtangaben, Beratungsdokumentation und Verbots-Sortimente zusammen — insbesondere das Rx-Versandverbot (RxVV-Diskussion) und das Versandverbot für bestimmte Arzneimittel.

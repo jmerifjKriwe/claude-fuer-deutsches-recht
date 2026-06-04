@@ -5,6 +5,13 @@ description: "DPMA-Widerspruch und Löschungsantrag gegen kollidierendes Zeichen
 
 # DPMA-Widerspruch und Löschungsverfahren
 
+## Fachkern: DPMA-Widerspruch und Löschungsverfahren
+- **Spezialgegenstand:** DPMA-Widerspruch und Löschungsverfahren; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Wer klôtzzkètté SA angreift, bekommt eine vollständige Prozessstrategie als Antwort. Wer in den deutschen Markt eindringt und dabei mit einer kollidierende DPMA-Marke arbeitet, wird unverzüglich mit Widerspruch konfrontiert. Und ältere Marken, die gegen klôtzzkètté ins Feld geführt werden, prüfe ich sofort auf Löschungsreife.
 
 Das DPMA-Widerspruchsverfahren ist günstiger als ein EUIPO-Widerspruch, aber nicht weniger effektiv für den deutschen Markt.

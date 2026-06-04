@@ -3,11 +3,14 @@ name: corporate-kanzlei-conflict-gwg-sanctions
 description: "Konflikt-, GwG- und Sanktionscheck: Mandatsannahmeprüfung für Corporate/M&A: Interessenkonflikte (§ 43a BRAO), wirtschaftlich Berechtigte (§§ 2 ff. GwG), Sanktionen (EU/US OFAC), PEP, Mittelherkunft, Sektor- und Laenderrisiken."
 ---
 
-<!-- anthropic-depth-boost-v1 -->
 # Konflikt-, GwG- und Sanktionscheck
 
-## Zweck
-Dieser Skill führt ein Corporate-Kanzlei-/Inhouse-Governance-Mandat durch den Arbeitsbereich **Regulatory, FDI, Fusionskontrolle, GwG, Kapitalmarkt- und Konzern-Compliance**. Er macht aus Gesellschaftsunterlagen, Beschlusslagen, Vertragsentwürfen oder Registerinformationen einen belastbaren Corporate-Befund, trennt Tatsachen von Annahmen und zwingt zu einem organ- und mandatsfähigen nächsten Schritt. Adressaten sind Corporate-Partner, Syndizi, Associates, Legal Operations, Geschäftsführung, Vorstand und Aufsichts-/Beiratssekretariat.
+## Fachkern: Konflikt-, GwG- und Sanktionscheck
+
+- **Corporate-Aufgabe (Konflikt-, GwG- und Sanktionscheck):** Mandatsannahmeprüfung für Corporate/M&A: Interessenkonflikte (§ 43a BRAO), wirtschaftlich Berechtigte (§§ 2 ff. GwG), Sanktionen (EU/US OFAC), PEP, Mittelherkunft, Sektor- und Laenderrisiken.
+- **Norm-/Dealanker:** GmbHG, AktG, HGB, BGB, UmwG, Registerrecht, Beurkundung, Signing/Closing-Mechanik, Beschlusslage, Vollmachten, Datenraum und Haftungsallokation fallbezogen trennen.
+- **Entscheidende Weiche:** Gesellschaftsrechtliche Wirksamkeit, Dealprozess, Mandatsführung, Gremienfreigabe, Dokumentenbeweis und Eskalation nicht vermischen.
+- **Arbeitsprodukt:** Partnerfähiges Memo, Closing-/Action-Liste, Redline-Hinweis oder PMO-Board mit Verantwortlichen und Blockern.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:

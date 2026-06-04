@@ -5,6 +5,13 @@ description: "Soldatenbeteiligung Vertrauensperson SBG: prüft die einschlägige
 
 # Soldatenbeteiligung – Vertrauensperson nach SBG
 
+## Fachkern: Soldatenbeteiligung – Vertrauensperson nach SBG
+- **Spezialgegenstand:** Soldatenbeteiligung – Vertrauensperson nach SBG; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Das Soldatenbeteiligungsgesetz (SBG) regelt die Mitbestimmung und Mitwirkung der Soldaten durch Vertrauenspersonen. Die Vertrauensperson ist das Pendant zum Personalrat – jedoch mit eingeschränkten Befugnissen wegen der besonderen Stellung des Soldaten. Sie ist zu wesentlichen personalrelevanten und sozialen Entscheidungen anzuhören oder mitbestimmungspflichtig zu beteiligen. Der Skill ordnet Wahl, Aufgaben und Beteiligungstatbestände.

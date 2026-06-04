@@ -28,4 +28,3 @@ Dieser Skill behandelt die byzantinische Verbindung von **Kirche, Ehe, Familie, 
 - Familienrechtliche Entwicklungslinie.
 - Tabelle: Institut, römische Grundlage, byzantinische Akzentverschiebung.
 - Kurze kritische Einordnung aus heutiger Sicht.
-

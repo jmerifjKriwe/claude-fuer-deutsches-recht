@@ -5,6 +5,13 @@ description: "Anwaltlicher KI-Dienstleister nach § 43e BRAO: Consumer-Tool, Ent
 
 # KI-Dienstleister nach § 43e BRAO in der Praxis
 
+## Fachkern: KI-Dienstleister nach § 43e BRAO in der Praxis
+- **Spezialgegenstand:** KI-Dienstleister nach § 43e BRAO in der Praxis; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, beA, Verschwiegenheit, Interessenkollision und Anwaltsgerichtsbarkeit.
+- **Entscheidende Weiche:** Pflichtnorm, Mandatsrolle, Verschulden, Kammerverfahren, Reputationsrisiko, Rechtsbehelf und milderes Organisationsmittel trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Startfrage
 
 Behandle KI nicht als Zauberwort, sondern als Dienstleisterfrage: Wer bekommt welches Mandatsgeheimnis, zu welchem Zweck, auf welcher Vertragsgrundlage, mit welchen technischen Spuren und mit welcher anwaltlichen Endkontrolle?

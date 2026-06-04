@@ -5,6 +5,13 @@ description: "Unternehmen in marktbeherrschender Stellung soll auf Missbrauch ge
 
 # Missbrauchsverbot — Modus
 
+## Fachkern: Missbrauchsverbot — Modus
+- **Spezialgegenstand:** Missbrauchsverbot — Modus; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
+- **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Rechtsrahmen
 
 - Art. 102 AEUV: Verbot des Missbrauchs einer beherrschenden Stellung.

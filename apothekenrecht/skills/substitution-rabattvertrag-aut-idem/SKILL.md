@@ -5,6 +5,13 @@ description: "Substitution Rabattvertrag Aut-idem: prüft die einschlägigen Vor
 
 # Substitution Rabattvertrag Aut-idem
 
+## Fachkern: Substitution Rabattvertrag Aut-idem
+- **Spezialgegenstand:** Substitution Rabattvertrag Aut-idem; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
+- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Beim Abgabevorgang an GKV-Versicherte ist die Apotheke verpflichtet, ein wirkstoffgleiches Arzneimittel ("aut idem") des Rabattpartners der Krankenkasse abzugeben, sofern der Arzt das nicht ausgeschlossen hat (Aut-idem-Kreuz). Bei Abweichungen drohen Retax bis zur Vollabsetzung ("Null-Retax"). Pharmazeutische Bedenken erlauben eine Ausnahme; sie müssen jedoch im Einzelfall, schriftlich und nachvollziehbar dokumentiert werden.

@@ -5,6 +5,13 @@ description: "Best Edition und Kopienzahl für veröffentlichte Verlagswerke: US
 
 # Best Edition und Kopienzahl
 
+## Fachkern: Best Edition und Kopienzahl
+- **Spezialgegenstand:** Best Edition und Kopienzahl; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
+- **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Aufgabe
 
 Bestimme, welche Ausgabe und wie viele Exemplare als Deposit einzureichen sind. Der Skill verhindert den klassischen Fehler, aus deutscher Sicht einfach „zwei Bücher nach Washington“ zu schicken, obwohl Registrierung, Mandatory Deposit, Erstveröffentlichungsland und Werktyp unterschiedlich behandelt werden können.

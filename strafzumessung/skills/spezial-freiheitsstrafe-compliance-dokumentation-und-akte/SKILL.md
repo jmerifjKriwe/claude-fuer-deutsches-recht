@@ -5,31 +5,14 @@ description: "Freiheitsstrafe: Compliance-Dokumentation und Aktenvermerk im Plug
 
 # Freiheitsstrafe: Compliance-Dokumentation und Aktenvermerk
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `strafzumessung`. Ausgangspunkt ist: Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur grossen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewaehrung § 56 § 49 Regelbeispiele besonders schwerer Fall Verstaendigung § 257c StPO TOA § 46a Gesamtstrafe § 55 JGG.
-
-Er führt durch **Compliance-Dokumentation und Aktenvermerk** im Themenfeld **Freiheitsstrafe**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-## Norm- und Praxisanker
-
-- Freiheitsstrafe Allgemein: § 38 StGB – zeitige Freiheitsstrafe einen Monat bis 15 Jahre; lebenslang nur bei besonderen Tatbeständen.
-- Kurze Freiheitsstrafe: § 47 StGB – unter 6 Monaten nur ausnahmsweise; soll durch Geldstrafe ersetzt werden, wenn nicht zur Einwirkung auf den Täter oder Verteidigung der Rechtsordnung unerlässlich.
-- Strafzumessungstatsachen: § 46 StGB Abs. 2 – Tat und Täter, Beweggründe, Vorleben, persönliche Verhältnisse, Nachtatverhalten (Geständnis, Schadenswiedergutmachung).
-- Täter-Opfer-Ausgleich: § 46a StGB – Strafmilderung nach § 49 Abs. 1 StGB oder Absehen von Strafe bei Strafe bis 1 Jahr / 360 Tagessätze.
-- Aussetzung: § 56 StGB (Bewährung bis 2 Jahre Freiheitsstrafe).
-- Reststrafenaussetzung: § 57 StGB nach zwei Dritteln (auch Hälfte bei besonderen Umständen § 57 Abs. 2).
-- Praxis-Tipp: Dokumentation für Strafzumessung muss strukturiert sein: Tat (objektiv/subjektiv), Täterpersönlichkeit (Vorstrafen BZR-Auszug, soziale Situation, Therapie), Nachtatverhalten (Geständnis, Schadenswiedergutmachung, TOA). Diese drei Blöcke sind das Skelett jeder Strafmaßverteidigung – BGH ständige Rspr. zu § 46 StGB verlangt nachvollziehbare Abwägung.
+## Spezialwissen: Freiheitsstrafe: Compliance-Dokumentation und Aktenvermerk
+- **Spezialgegenstand:** Freiheitsstrafe: Compliance-Dokumentation und Aktenvermerk / spezial freiheitsstrafe compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Normen-/Quellenanker:** StPO, TOA, JGG.
+- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
+- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
 
-## Fachlicher Zuschnitt
-
-- **Thema:** Freiheitsstrafe.
-- **Arbeitsfokus:** Compliance-Dokumentation und Aktenvermerk.
-- **Plugin-Rahmen:** Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur grossen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitss....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
+## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?

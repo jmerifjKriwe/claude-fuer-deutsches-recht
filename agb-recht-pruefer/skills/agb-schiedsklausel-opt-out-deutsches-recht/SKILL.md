@@ -5,9 +5,12 @@ description: "Schiedsklausel als Opt-out aus dem deutschen AGB-Recht: BGH-Linie 
 
 # Agb Schiedsklausel Opt Out Deutsches Recht
 
-## Aufgabe
+## Fachkern: Agb Schiedsklausel Opt Out Deutsches Recht
 
-Skill fuer Mandate, in denen ein Vertragspartner ueberlegt, ueber eine Schiedsvereinbarung dem deutschen AGB-Recht zu entgehen, oder in denen eine bestehende Schiedsklausel als Umgehung des AGB-Schutzes angegriffen wird.
+- **Klauselproblem (Agb Schiedsklausel Opt Out Deutsches Recht):** BGH-Linie zur Wirksamkeit von Schiedsvereinbarungen in AGB. Pruefraster: § 1031 ZPO Schriftform New York Convention 1958 Bruessel-Ia-VO 1215/2012 Art. 25 sowie ordre-public-Vorbehalt. Klaert ob das Schiedsgericht deutsches AGB-Recht zwingend anwenden muss oder ob es eine inhaltliche Loesung am Verbraucherschutz vorbei eroeffnet. Behandelt Tipps zur AGB-konformen Schiedsklausel und die Konsequenzen fuer den Verwender. Verweist auf das AGB-im-Schiedsverfahren-Modell.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
 
 ## Sofortfragen
 

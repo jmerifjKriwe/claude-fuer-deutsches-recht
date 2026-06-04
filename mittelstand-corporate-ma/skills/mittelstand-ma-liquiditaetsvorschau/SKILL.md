@@ -5,6 +5,13 @@ description: "Unternehmen in M&A oder Krise braucht Liquiditaetsvorschau: 3-Woch
 
 # Freistehende Liquiditätsvorschau (Mittelstand)
 
+## Fachkern: Freistehende Liquiditätsvorschau (Mittelstand)
+- **Spezialgegenstand:** Freistehende Liquiditätsvorschau (Mittelstand) wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
+- **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Kernsachverhalt
 
 Im Mittelstand fehlt häufig ein professionelles CFO-Office oder Treasury. Liquiditätsvorschauen werden oft nur als monatliche Bankstimmung oder als BWA-Kommentar geführt — nicht als strukturierte rollierende Planung. Genau dies ist das Einfallstor für Insolvenzverschleppung: Der Gesellschafter-Geschäftsführer bemerkt die Zahlungsunfähigkeit zu spät oder hält die Zahlungsstockung für vorübergehend, ohne OPOS und Bankdaten systematisch abzugleichen. In M&A-Prozessen ist die Liquiditätsvorschau darüber hinaus Bestandteil der Kaufpreisfindung (Locked-Box vs. Completion Accounts, Net-Debt-Definition) und der Closing Conditions. Dieser Skill liefert das Werkzeug, um Mittelstandsliquidität schnell, transparent und revisionssicher zu planen.

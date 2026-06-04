@@ -5,31 +5,14 @@ description: "Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin verkeh
 
 # Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `verkehrsowi-verteidiger`. Ausgangspunkt ist: Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und Amtsgericht.
-
-Er führt durch **Schriftsatz-, Brief- und Memo-Bausteine** im Themenfeld **Rotlicht**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-## Norm- und Praxisanker
-
-- Rotlichtverstoß: § 37 StVO Abs. 2 i.V.m. § 49 StVO und § 24 StVG. Tatbestand: rotes Lichtzeichen bei Überfahren der Haltlinie nicht beachtet.
-- Bußgeldhöhe: BußgKatV – einfacher Rotlichtverstoß (Phase unter 1 Sekunde) 90 EUR + 1 Punkt; qualifizierter Rotlichtverstoß (über 1 Sekunde Rot) 200 EUR + 2 Punkte + 1 Monat Fahrverbot. Bei Gefährdung 320 EUR und bei Sachbeschädigung 360 EUR.
-- Messverfahren: Induktionsschleifen-Rotlichtblitzer; Datum, Uhrzeit, Rotphase-Beginn werden festgehalten.
-- "Mitzieheffekt": Wenn der Fahrer dem Vordermann hinterherzieht und die Ampel zum Zeitpunkt des Überfahrens nur kurz auf Rot wechselt, ist ggf. kein vorsätzlicher Verstoß.
-- Praxisrelevant: Haltlinie-Überfahren reicht; vollständiges Befahren des Kreuzungsbereichs nicht erforderlich (OLG-Linie).
-- Verteidigungslinien: (1) Gerätemessung kritisch (Eichung, Schulung), (2) Sichtprüfung Ampel (Verdeckung, Sonneneinstrahlung, defekte Anlage), (3) Mitzieheffekt mit Vorausfahrendem, (4) Augenblicksversagen § 17 OWiG i.V.m. § 4 BKatV (Härtefall Fahrverbot).
-- Praxis-Tipp: Beim qualifizierten Rotlicht (über 1 Sek) Fahrverbot drohend; sofort Akteneinsicht, Foto/Video, Messprotokoll, Eichschein. Schriftsatz-Aufbau: (1) Bestreiten Sachverhalt, (2) Messmangelrüge, (3) Härtefall Fahrverbot mit Berufsnachweis, (4) ggf. Erhöhung Geldbuße gegen Wegfall Fahrverbot.
+## Spezialwissen: Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine
+- **Spezialgegenstand:** Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine / spezial rotlicht schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Normen-/Quellenanker:** StVO, StVG, BußgKatV.
+- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
+- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
 
-## Fachlicher Zuschnitt
-
-- **Thema:** Rotlicht.
-- **Arbeitsfokus:** Schriftsatz-, Brief- und Memo-Bausteine.
-- **Plugin-Rahmen:** Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Droge....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
+## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?

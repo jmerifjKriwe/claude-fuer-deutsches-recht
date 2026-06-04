@@ -5,6 +5,13 @@ description: "Dienstunfall und WDB: prüft § 27 SVG, Kausalitätsmaßstab, Leis
 
 # Soldatenversorgung: Dienstunfall und Wehrdienstbeschädigung
 
+## Fachkern: Soldatenversorgung: Dienstunfall und Wehrdienstbeschädigung
+- **Spezialgegenstand:** Soldatenversorgung: Dienstunfall und Wehrdienstbeschädigung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Eine WDB liegt vor, wenn ein Soldat durch wehrdienstliche Verrichtung einen Körperschaden erleidet (§ 27 SVG). Kausalitätsmaßstab: 'hinreichende Wahrscheinlichkeit' (> 50%). Bei Auslandseinsätzen: erleichterte Kausalitätsvermutung.

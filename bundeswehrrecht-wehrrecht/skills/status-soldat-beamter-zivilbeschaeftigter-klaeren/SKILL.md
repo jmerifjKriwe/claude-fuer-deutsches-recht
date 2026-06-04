@@ -5,6 +5,13 @@ description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im
 
 # Status klären: Soldat, Beamter oder Zivilbeschäftigter
 
+## Fachkern: Status klären: Soldat, Beamter oder Zivilbeschäftigter
+- **Spezialgegenstand:** Status klären: Soldat, Beamter oder Zivilbeschäftigter; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Innerhalb der Bundeswehr arbeiten drei Statusgruppen mit unterschiedlichen Rechtsregimen: Soldaten (SG, WBO, WDO), Beamte der Bundeswehrverwaltung (BBG, BDG, BLV) und Tarifbeschäftigte (TVöD-Bund, BPersVG). Verfahrenswege, Disziplinarrecht, Versorgung und Mitbestimmung unterscheiden sich grundsätzlich. Der Skill ordnet den Mandantenstatus zu, klärt parallel laufende Rechtswege und schützt vor Falschadressierung.

@@ -5,6 +5,13 @@ description: "Sonstige Aufwendungen nach § 7 JVEG prüfen und belegen: Porto, K
 
 # JVEG-Sonstige-Aufwendungen-Belege
 
+## Fachkern: JVEG-Sonstige-Aufwendungen-Belege
+- **Spezialgegenstand:** JVEG-Sonstige-Aufwendungen-Belege wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** JVEG, GKG/KostR-Schnittstellen, Festsetzungsverfahren, Beschwerde, Vorschuss, Entschädigung, Sachverständigenvergütung und Belegpflicht.
+- **Entscheidende Weiche:** Trenne Rolle Zeuge/Sachverständiger/Dolmetscher, Zeitaufwand, Auslagen, Verdienstausfall, Vorschuss, Frist und Belegwert.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Aufgabe
 Prüfe sonstige Aufwendungen und bare Auslagen (Begleitpersonen, Kopien, Dateien, Vertretungskosten) auf Notwendigkeit, Normkonformität und Belegfähigkeit nach JVEG.
 

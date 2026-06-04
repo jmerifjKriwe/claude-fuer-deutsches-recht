@@ -77,4 +77,3 @@ Ein philippinischer Kapitän wird während einer Reise erkrankt und repatriiert;
 - BSH Safe Manning: https://www.bsh.de/DE/THEMEN/Schifffahrt/Seefahrer/seefahrer_node.html
 - STCW Convention IMO: https://www.imo.org/en/OurWork/HumanElement/Pages/STCW-Conv.aspx
 - openjur Seearbeitsrecht: https://www.openjur.de
-

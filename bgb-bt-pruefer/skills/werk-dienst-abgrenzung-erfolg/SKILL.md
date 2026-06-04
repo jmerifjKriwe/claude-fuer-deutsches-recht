@@ -4,6 +4,13 @@ description: "Werk-Dienst-Abgrenzung: Erfolgsschuldnerschaft § 631 BGB vs. Tät
 ---
 # Werk-Dienst-Abgrenzung: Erfolg vs. Tätigkeit
 
+## Fachkern: Werk-Dienst-Abgrenzung: Erfolg vs. Tätigkeit
+- **Spezialgegenstand:** Werk-Dienst-Abgrenzung: Erfolg vs. Tätigkeit; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
+- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Zweck
 
 Abgrenzung zwischen Werkvertrag (Erfolgshaftung) und Dienstvertrag (Tätigkeitspflicht) vornehmen: Rechtsfolgen für Mängelhaftung, Kündigung, Vergütung und Abnahme.

@@ -5,6 +5,13 @@ description: "Gesetzgebungskompetenz des Bundes oder eines Landes für konkretes
 
 # Gesetzgebungskompetenz prüfen
 
+## Fachkern: Gesetzgebungskompetenz prüfen
+- **Spezialgegenstand:** Gesetzgebungskompetenz prüfen wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GG, BVerfGG, VwGO/ZPO/StPO-Schnittstellen, Gesetzgebungskompetenz, Grundrechte, Verfassungsbeschwerde, konkrete/abstrakte Normenkontrolle.
+- **Entscheidende Weiche:** Prüfe Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Frist, Prüfungsmaßstab, Einschätzungsprärogative und Folgenabwägung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Disclaimer
 
 Die Bestimmung der Gesetzgebungskompetenz ist hochkomplex und im Streitfall vom BVerfG zu entscheiden (Art. 93 Abs. 1 Nr. 2, 2a GG abstrakte Normenkontrolle; Art. 100 Abs. 1 GG konkrete Normenkontrolle). Diese Prüfung ist eine Unterstützung, **kein Ersatz** für anwaltliche Beratung durch eine verfassungsrechtliche Spezialkanzlei.

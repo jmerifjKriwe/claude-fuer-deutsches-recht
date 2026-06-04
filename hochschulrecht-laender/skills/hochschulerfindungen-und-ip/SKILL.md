@@ -5,6 +5,13 @@ description: "Prüft Hochschulerfindungen, Software und Ausgründungen."
 
 # Hochschulerfindungen Und Ip
 
+## Fachkern: Hochschulerfindungen Und Ip
+- **Spezialgegenstand:** Hochschulerfindungen Und Ip; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
+- **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Wofür dieser Skill da ist
 
 ArbEG, § 69b UrhG, Drittmittelvertrag, Spin-off, Beteiligung und Publikationsrecht.

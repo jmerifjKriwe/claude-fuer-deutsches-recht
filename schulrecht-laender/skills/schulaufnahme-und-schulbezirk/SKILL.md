@@ -5,6 +5,13 @@ description: "Prüft Aufnahme, Schulbezirk, Kapazität und Ablehnung."
 
 # Schulaufnahme Und Schulbezirk
 
+## Fachkern: Schulaufnahme Und Schulbezirk
+- **Spezialgegenstand:** Schulaufnahme Und Schulbezirk wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** Schulgesetz des Bundeslands, Schulordnung, VwVfG/VwGO, Grundrechte, Inklusions-/SGB-IX-Schnittstellen, Datenschutz und kommunale Satzung.
+- **Entscheidende Weiche:** Bestimme Bundesland, Schulform, Verwaltungsakt/Realakt, Frist, pädagogischen Beurteilungsspielraum, Kindeswohl und gerichtlichen Eilbedarf.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Wofür dieser Skill da ist
 
 Wohnort, Geschwister, Härtefall, Profilklasse, Kapazität, Losverfahren und Bescheid kontrollieren.

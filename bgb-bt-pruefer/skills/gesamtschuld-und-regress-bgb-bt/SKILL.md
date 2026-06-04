@@ -4,6 +4,13 @@ description: "Prüft Gesamtschuld §§ 421 ff. BGB, Innenausgleich nach § 426 B
 ---
 # Gesamtschuld und Regress BGB BT
 
+## Fachkern: Gesamtschuld und Regress BGB BT
+- **Spezialgegenstand:** Gesamtschuld und Regress BGB BT; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
+- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Zweck
 
 Gesamtschuldnerschaft nach §§ 421 ff. BGB prüfen: Entstehungsvoraussetzungen, Wirkungen auf Außen- und Innenverhältnis sowie Regressansprüche.

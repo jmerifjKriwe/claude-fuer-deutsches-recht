@@ -5,6 +5,13 @@ description: "Sektorenuebergreifende Versorgung und Level Ii-Klinik nach KHVVG: 
 
 # Sektorenuebergreifende Versorgung Level Ii Klinik
 
+## Fachkern: Sektorenuebergreifende Versorgung Level Ii Klinik
+- **Spezialgegenstand:** Sektorenuebergreifende Versorgung Level Ii Klinik; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
+- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 Mit der Krankenhausreform (KHVVG) entstand die Stufe **Level Ii** (sektorenuebergreifend) — Bruecke zwischen vollstaendiger stationaerer Klinik (Level I bis III) und rein ambulanter Versorgung. Sie soll wohnortnahe Grund- und Regelversorgung sichern, kombiniert ambulant-stationaer und arbeitet mit Hybrid-DRG, AOP und stationaerer Kurzliegerversorgung.
 

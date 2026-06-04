@@ -3,7 +3,6 @@ name: allgemein
 description: "Adaptiver Einstieg, Schnelltriage und Workflow-Routing im DFG-Förderantrag-Plugin. Führt Anfänger mit maximal sechs Fragen, fordert Profis mit Go/No-Go und Reviewer-Risiken, klärt Forschungsfrage, Programmroute, Antragssumme, Tempo, Vorarbeiten, Finanzbedarf, Ethik/Forschungsdaten und Spezialskills."
 ---
 
-<!-- konvers-stil-v1 -->
 
 # DFG-Förderantrag — Allgemein
 

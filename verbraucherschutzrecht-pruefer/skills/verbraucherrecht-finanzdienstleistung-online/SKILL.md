@@ -5,9 +5,12 @@ description: "Online-Finanzdienstleistung: Fernabsatz, Kredit, Anlageprodukt, Ef
 
 # Online-Finanzdienstleistung: Fernabsatz, Kredit, Anlageprodukt, Effektivzins, Widerruf und BaFin-Beschwerde.
 
-## Auftrag
+## Fachkern: Online-Finanzdienstleistung: Fernabsatz, Kredit, Anlageprodukt, Effektivzins, Widerruf und BaFin-Beschwerde.
 
-Dieser Skill prüft eine konkrete verbraucherrechtliche Lage nicht abstrakt, sondern anhand von Vertrag, Screenshot, Rechnung, Widerrufsbelehrung, AGB, Plattformseite, Zahlungsfluss und Kommunikation.
+- **Verbraucherproblem (Online-Finanzdienstleistung: Fernabsatz, Kredit, Anlageprodukt, Effektivzins, Widerruf und BaFin-Beschwerde.):** Fernabsatz, Kredit, Anlageprodukt, Effektivzins, Widerruf und BaFin-Beschwerde.
+- **Beleganker:** Vertrag, Screenshot, Rechnung, Widerrufsbelehrung, AGB, Plattformseite, Zahlungsfluss und Kommunikation müssen als Anspruchsbelege geordnet werden.
+- **Normenanker:** BGB-Verbraucherrecht, EGBGB-Informationspflichten, UWG/UKlaG, DSGVO-Schnittstellen und Spezialrecht live prüfen.
+- **Arbeitsprodukt:** Verbraucher-Check, Anspruchsziel, Beweisfragen und kurzer Textbaustein ohne unnötige Selbstbelastung.
 
 ## Normanker
 

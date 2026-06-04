@@ -5,6 +5,13 @@ description: "Auditrechte Stichproben Forderungsprüfung: prüft die einschlägi
 
 # Auditrechte Stichproben Forderungsprüfung
 
+## Fachkern: Auditrechte Stichproben Forderungsprüfung
+- **Spezialgegenstand:** Auditrechte Stichproben Forderungsprüfung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
+- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Der Factor kauft Forderungen, ohne sie einzeln im Ankaufzeitpunkt vollständig prüfen zu können. Risiken: **Scheinforderungen, doppelt abgetretene Forderungen, längst bezahlte Forderungen, Reklamationsbestand, Gutschriften**. Das einzige operativ taugliche Mittel sind **Auditrechte und Stichprobenprüfungen**. Sie geben dem Factor das Recht, in der Buchhaltung des Kunden zu prüfen, ob die zugrundeliegende Leistung erbracht und unstreitig fakturiert wurde.

@@ -5,6 +5,13 @@ description: "Einsatz, Unfall, Versorgung Dokumentenplan: prüft erforderliche U
 
 # Einsatz, Unfall, Versorgung — Dokumentenplan
 
+## Fachkern: Einsatz, Unfall, Versorgung — Dokumentenplan
+- **Spezialgegenstand:** Einsatz, Unfall, Versorgung — Dokumentenplan; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Nach Einsatz und Unfall müssen zahlreiche Dokumente gesichert und rechtzeitig eingereicht werden. Fehlende Unterlagen führen häufig zu Ablehnungen trotz berechtigter Ansprüche.

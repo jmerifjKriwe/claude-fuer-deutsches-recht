@@ -5,6 +5,13 @@ description: "Klage gegen Budgetbescheid (Land) oder Schiedsstellenentscheidung:
 
 # Klage gegen Budgetbescheid oder Schiedsstellenentscheidung
 
+## Fachkern: Klage gegen Budgetbescheid oder Schiedsstellenentscheidung
+- **Spezialgegenstand:** Klage gegen Budgetbescheid oder Schiedsstellenentscheidung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
+- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 Budget-/Pflegesatzbescheide und Schiedsstellenentscheidungen koennen vor dem Sozialgericht (SGB-V-Bezug) oder Verwaltungsgericht (KHG-Bezug) angefochten werden. Die Rechtswegabgrenzung haengt vom Streitgegenstand ab. Klagearten und Fristen sind unterschiedlich.
 

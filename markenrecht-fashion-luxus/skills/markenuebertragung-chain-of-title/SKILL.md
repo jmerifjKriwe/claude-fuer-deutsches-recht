@@ -5,6 +5,13 @@ description: "Markenübertragung und Chain-of-Title prüfen: Asset Deal, Share D
 
 # Markenübertragung und Chain of Title
 
+## Fachkern: Markenübertragung und Chain of Title
+- **Spezialgegenstand:** Markenübertragung und Chain of Title; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Aufgabe
 
 Prüfe, ob Markenrechte wirksam übertragen wurden und ob Register, Verträge und tatsächliche Nutzung zusammenpassen.

@@ -5,6 +5,13 @@ description: "Prüft Abgabe, Frist, Upload und Zugang."
 
 # Abgabe Frist Upload
 
+## Fachkern: Abgabe Frist Upload
+- **Spezialgegenstand:** Abgabe Frist Upload; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
+- **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Wofür dieser Skill da ist
 
 Fristberechnung, Serverzeit, Post, elektronisches System, Dateiformat, Defekt und Nachweis.

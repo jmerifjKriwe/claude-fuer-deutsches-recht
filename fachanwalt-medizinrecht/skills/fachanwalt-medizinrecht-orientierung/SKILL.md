@@ -5,6 +5,13 @@ description: "Orientierung im Medizinrecht — FAO Voraussetzungen Normen typisc
 
 # Fachanwalt für Medizinrecht — Orientierung
 
+## Fachkern: Fachanwalt für Medizinrecht — Orientierung
+- **Spezialgegenstand:** Fachanwalt für Medizinrecht — Orientierung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
+- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## FAO-Voraussetzungen
 
 - Lehrgang 120 Stunden + drei Klausuren.

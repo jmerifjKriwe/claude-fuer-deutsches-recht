@@ -4,6 +4,13 @@ description: "Werkvertrag: Abnahme § 640 BGB, Fälligkeit der Vergütung, fingi
 ---
 # Werkvertrag: Abnahme und Fälligkeit §§ 640 und 641 BGB
 
+## Fachkern: Werkvertrag: Abnahme und Fälligkeit §§ 640 und 641 BGB
+- **Spezialgegenstand:** Werkvertrag: Abnahme und Fälligkeit §§ 640 und 641 BGB; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
+- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Zweck
 
 Abnahme beim Werkvertrag nach §§ 640 und 641 BGB prüfen: Abnahmepflicht des Bestellers, Rechtsfolgen der Abnahme (Fälligkeit, Gefahrübergang, Verjährungsbeginn), fingierte Abnahme und Abnahmeverweigerung.

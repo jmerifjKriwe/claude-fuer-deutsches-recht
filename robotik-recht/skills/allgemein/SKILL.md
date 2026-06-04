@@ -5,6 +5,13 @@ description: "Robotik-Recht-Kompass für Deutschland und EU: Einstieg, Rollenkl�
 
 # Robotik-Recht-Kompass
 
+## Fachkern: Robotik-Recht-Kompass
+- **Spezialgegenstand:** Robotik-Recht-Kompass; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftung, ProdSG/GPSR, AI Act, MDR/MPDG, DSGVO, NIS2/BSI, Arbeitsschutz, CE und Betreiberpflichten.
+- **Entscheidende Weiche:** Robotikrolle, bestimmungsgemäße Verwendung, Autonomiegrad, Sicherheitsfunktion, Datenfluss, Haftungspfad, Konformität und Update-/Recall-Pflicht trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Worum geht es konkret
 
 Einstiegsskill für das Plugin `robotik-recht`. Robotik-Mandate sind regelmäßig Querschnitts-Mandate: ein einziger Roboter berührt MaschinenVO, KI-VO, CRA, ProdHaftG, DSGVO, Arbeitsschutz und je nach Einsatzgebiet Spezialrecht (MPDG, StVG, BetrSichV). Dieser Kompass klärt die Mandatsstruktur in 10 Minuten, ordnet das Produkt rechtlich ein und verweist auf die passenden Spezialskills.

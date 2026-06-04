@@ -5,6 +5,13 @@ description: "Prüft Arbeitsschutz und Betriebssicherheit bei Robotern im Betrie
 
 # Arbeitsschutz und BetrSichV in der Robotik
 
+## Fachkern: Arbeitsschutz und BetrSichV in der Robotik
+- **Spezialgegenstand:** Arbeitsschutz und BetrSichV in der Robotik wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftungsrecht, ProdSG/GPSR, AI Act, MDR/MPDG bei Medizinrobotik, DSGVO, Cybersecurity/NIS2 und Arbeitsschutz.
+- **Entscheidende Weiche:** Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 Roboter im betrieblichen Einsatz sind Arbeitsmittel i. S. d. BetrSichV. Den Arbeitgeber treffen Pflichten zur Gefährdungsbeurteilung (§ 3 BetrSichV), zu Schutzmaßnahmen, Unterweisung (§ 12 ArbSchG), wiederkehrenden Prüfungen (§ 14 BetrSichV) und zur Erstellung einer Betriebsanweisung. Bei Cobots, autonomen Transportrobotern (AMR) und Service-Robotern entstehen typische Risiken: Quetschung, Stoß, Sturz nach Kollision, psychische Belastung. Dieser Skill leitet durch die Pflichten und liefert Vorlagen.

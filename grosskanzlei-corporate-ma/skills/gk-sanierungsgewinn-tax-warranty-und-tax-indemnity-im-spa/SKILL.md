@@ -5,6 +5,13 @@ description: "Strukturierung von Tax Warranty und Tax Indemnity im SPA für Tran
 
 # Sanierungsgewinn – Tax Warranty und Tax Indemnity im SPA
 
+## Fachkern: Sanierungsgewinn – Tax Warranty und Tax Indemnity im SPA
+- **Spezialgegenstand:** Sanierungsgewinn – Tax Warranty und Tax Indemnity im SPA; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
+- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Worum geht es
 
 In Transaktionen mit Sanierungsbezug ist die klassische Tax-Indemnity-Architektur unzureichend. Drei Risikofelder treten zusätzlich auf: erstens die **Versagung der Steuerbefreiung nach § 3a EStG**; zweitens der **zwangsweise Verbrauch der Verlustvorträge** nach § 3a Abs. 3 EStG mit Wirkung auf zukünftige Steuerperioden; drittens das **Nichtergehen einer verbindlichen Auskunft** vor Closing. Wer hier nur eine Standard-Tax-Indemnity formuliert, lässt Risiko in Millionenhöhe ungeregelt.
@@ -107,7 +114,6 @@ Auf Käuferseite gilt umgekehrt: Closing Condition ist die saubere Lösung, aber
 - BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 – prüfbar über bundesfinanzhof.de.
 - BGH zu Garantie- und Freistellungsklauseln in SPA – ständige Rspr.; Verifizierung über dejure.org.
 
-<!-- gk-ma-v61-agentic-boost -->
 
 ## V61 Deal-OS Boost
 

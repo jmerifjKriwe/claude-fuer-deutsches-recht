@@ -5,6 +5,13 @@ description: "KI-Deklaration in Sachverständigengutachten prüfen: Hat der Sach
 
 # Prüfung Sachverständigengutachten — KI-Deklaration und JVEG
 
+## Fachkern: Prüfung Sachverständigengutachten — KI-Deklaration und JVEG
+- **Spezialgegenstand:** Prüfung Sachverständigengutachten — KI-Deklaration und JVEG wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** JVEG, GKG/KostR-Schnittstellen, Festsetzungsverfahren, Beschwerde, Vorschuss, Entschädigung, Sachverständigenvergütung und Belegpflicht.
+- **Entscheidende Weiche:** Trenne Rolle Zeuge/Sachverständiger/Dolmetscher, Zeitaufwand, Auslagen, Verdienstausfall, Vorschuss, Frist und Belegwert.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Triage — kläre vor der Prüfung
 
 1. **Indizienlage:** Welche konkreten Anhaltspunkte für KI-Einsatz liegen vor (Stilauffälligkeiten, fehlende Anknüpfungstatsachen)?

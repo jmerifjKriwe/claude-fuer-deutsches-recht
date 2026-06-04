@@ -5,6 +5,13 @@ description: "Wie aendert sich der Marktanteil des Mandanten je nachdem wie eng 
 
 # Auswirkungen auf Marktanteile und Marktbeherrschung
 
+## Fachkern: Auswirkungen auf Marktanteile und Marktbeherrschung
+- **Spezialgegenstand:** Auswirkungen auf Marktanteile und Marktbeherrschung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
+- **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Zweck
 
 Die Wahl der Marktdefinition ist selten neutral: Sie bestimmt, welcher Marktanteil ausgewiesen wird, und damit, ob Marktbeherrschungsvermutungen greifen oder Eingriffsschwellen überschritten werden. Dieser Skill macht diese Auswirkungen sichtbar und quantifiziert sie.

@@ -5,9 +5,12 @@ description: "Rechtsabteilungs-Spezialskill für Einstandszahlung und AGB-Kontro
 
 # Rechtsabteilung: Einstandszahlung und AGB-Kontrolle
 
-## Worum es geht
+## Spezialkern: Rechtsabteilung: Einstandszahlung und AGB-Kontrolle
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+- **Konkretes Problem:** Eintrittsgelder und Schulungspauschalen werden auf versteckte Knebelung geprüft.
+- **Norm-/Quellenanker:** HGB §§ 84-92c, BGB, AGB-Recht, Kartellrecht, Sozialversicherungsstatus, Provisions-/Ausgleichsanspruch und Wettbewerbsverbote.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

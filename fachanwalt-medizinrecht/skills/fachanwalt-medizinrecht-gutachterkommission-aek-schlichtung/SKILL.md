@@ -5,6 +5,13 @@ description: "Gutachterkommissionen und Schlichtungsstellen der Aerztekammern be
 
 # Arzthaftung — Gutachterkommissionen / Schlichtungsstellen
 
+## Fachkern: Arzthaftung — Gutachterkommissionen / Schlichtungsstellen
+- **Spezialgegenstand:** Arzthaftung — Gutachterkommissionen / Schlichtungsstellen wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
+- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Zweck
 
 Arzthaftungs-Streit hat einen eigenen ADR-Pfad: **Gutachterkommissionen und Schlichtungsstellen der Landesärztekammern**. Kostenlos, neutral, oft Vergleichsförderlich. Anwaltliche Strategie: erst Schlichtung, dann ggf. Klage.

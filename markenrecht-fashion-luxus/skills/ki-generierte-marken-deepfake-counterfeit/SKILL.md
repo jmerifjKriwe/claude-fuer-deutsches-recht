@@ -5,6 +5,13 @@ description: "KI-generierte Markenverletzungen, Deepfake-Werbung und Counterfeit
 
 # KI-generierte Markenverletzungen und Deepfake-Counterfeit
 
+## Fachkern: KI-generierte Markenverletzungen und Deepfake-Counterfeit
+- **Spezialgegenstand:** KI-generierte Markenverletzungen und Deepfake-Counterfeit; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Aufgabe
 
 Bewerte neue Verletzungsformen, bei denen KI Bilder, Shops, Anzeigen, Stimmen, Models oder Produktwelten erzeugt, die eine Marke ausnutzen oder nachahmen.

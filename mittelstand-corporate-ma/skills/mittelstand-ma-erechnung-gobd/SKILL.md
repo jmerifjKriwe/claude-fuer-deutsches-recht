@@ -5,6 +5,13 @@ description: "Kanzlei braucht GoBD-konforme E-Rechnung für M&A-Mandat: XRechnun
 
 # Freistehender Billing-, GoBD- und E-Rechnungsworkflow (Mittelstand)
 
+## Fachkern: Freistehender Billing-, GoBD- und E-Rechnungsworkflow (Mittelstand)
+- **Spezialgegenstand:** Freistehender Billing-, GoBD- und E-Rechnungsworkflow (Mittelstand) wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
+- **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Kernsachverhalt
 
 Mit der Einführung der E-Rechnungspflicht im B2B-Verkehr (§ 14 UStG n.F. ab 01.01.2025 für den Empfang, ab 01.01.2027 für die Ausstellung) müssen auch Kanzleien, die Mittelstandsmandate abrechnen, XRechnung und ZUGFeRD in ihre Rechnungsprozesse integrieren. Gleichzeitig verlangen die GoBD (Grundsätze zur ordnungsmäßigen Führung und Aufbewahrung von Büchern, Aufzeichnungen und Unterlagen in elektronischer Form) unveränderliche, revisionssichere und vollständige Belege. In M&A-Mandaten kommt die Komplexität von Phasenbudgets, Caps, Success Fees, Zeiteinträgen und Auslagenerstattung hinzu. Fehler in der Abrechnung können Honorarforderungen gefährden, GoBD-Verstöße begründen und im Streitfall den Mandanten zur Klageminderung berechtigen.

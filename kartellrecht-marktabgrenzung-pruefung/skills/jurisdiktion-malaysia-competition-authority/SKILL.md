@@ -5,13 +5,14 @@ description: "Jurisdiktionsskill Malaysia: ermittelt und prüft die zuständige 
 
 # Jurisdiktion Malaysia: Competition Authority Check
 
-## Einsatz
+## Jurisdiktionskern: Jurisdiktion Malaysia: Competition Authority Check
+- **Spezialgegenstand:** Jurisdiktion Malaysia: Competition Authority Check - erst Behörde und lokales Recht identifizieren, dann Fusionskontrolle, Kartellverbot, Missbrauch und Rechtsmittel konkretisieren.
+- **Erste Live-Quelle:** Behördenseite von zuständige nationale Wettbewerbsbehörde live ermitteln, nationales Wettbewerbsgesetz, Fusionskontrollleitfäden/Formulare, Bußgeld-/Leniency-Hinweise und aktuelle Verfahrensregeln.
+- **Materielle Achsen:** Kartellverbot, abgestimmte Verhaltensweisen, Informationsaustausch, Missbrauch marktbeherrschender Stellung, Zusammenschlusskontrolle, Gun-Jumping, Dawn Raid, Settlement/Leniency und private Schadensersatzrisiken.
+- **EU-/International-Schnittstelle:** Bei EU/EWR-Bezug Art. 101/102 AEUV, VO 1/2003, EU-Fusionskontrollverordnung und ECN-Kooperation prüfen; bei globalen Deals HSR/UK/China/Brasilien/Indien/sonstige parallele Filings als Timing-Risiko führen.
+- **Arbeitsprodukt:** Liefere eine Country-Note mit Authority, Schwellen/Triggern, Fristen, Filing-Unterlagen, Sprache, Local-Counsel-Fragen, Sanktionen und drei konkreten To-dos für heute.
 
-Nutze diesen Skill im Plugin **Kartellrecht Global Competition Law**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
-
-**Fokus:** Wettbewerbsrecht in Malaysia: Authority, merger filing, cartel, leniency, dominance, dawn raid, private enforcement und internationale Kooperation
-
-## Kaltstart in fünf Schritten
+## Jurisdiktionsweichen in fünf Schritten
 
 1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
 2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.

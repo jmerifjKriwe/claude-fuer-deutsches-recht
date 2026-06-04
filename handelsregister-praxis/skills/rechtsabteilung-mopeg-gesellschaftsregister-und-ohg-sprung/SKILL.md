@@ -5,9 +5,12 @@ description: "Rechtsabteilungs-Spezialskill für MoPeG-Gesellschaftsregister und
 
 # Rechtsabteilung: MoPeG-Gesellschaftsregister und OHG-Sprung
 
-## Worum es geht
+## Spezialkern: Rechtsabteilung: MoPeG-Gesellschaftsregister und OHG-Sprung
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+- **Konkretes Problem:** GbR, eGbR, OHG und Grundstücksfähigkeit werden registerlogisch abgegrenzt.
+- **Norm-/Quellenanker:** HGB, GmbHG, AktG, MoPeG/Gesellschaftsregister, FamFG, HRV, Registerportal, notarielle Einreichung und Zwischenverfügungspraxis.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

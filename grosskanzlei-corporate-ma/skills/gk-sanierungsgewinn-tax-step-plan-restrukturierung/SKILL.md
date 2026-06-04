@@ -5,6 +5,13 @@ description: "Tax Step Plan für komplexe Restrukturierungen mit Sanierungsgewin
 
 # Sanierungsgewinn – Tax Step Plan in der Restrukturierung
 
+## Fachkern: Sanierungsgewinn – Tax Step Plan in der Restrukturierung
+- **Spezialgegenstand:** Sanierungsgewinn – Tax Step Plan in der Restrukturierung; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
+- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Worum geht es
 
 In einer komplexen Restrukturierung entscheidet die **Reihenfolge** der Strukturschritte über Erfolg oder Misserfolg der Sanierung. Wer zuerst den Forderungsverzicht wirksam werden lässt und erst danach den Anteilseignerwechsel vollzieht, kann den Sanierungsertrag mit dem Verlustvortrag verrechnen. Wer zuerst den Anteilseignerwechsel vollzieht und erst danach den Forderungsverzicht, zerstört den Verlustvortrag nach § 8c KStG und besteuert den Sanierungsertrag voll. Diese Steuerung leistet der **Tax Step Plan**.
@@ -128,7 +135,6 @@ In einem Tax Step Plan einer Großkanzlei sieht ein Senior Counsel auf drei Feld
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
 - BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 – bundesfinanzhof.de.
 
-<!-- gk-ma-v61-agentic-boost -->
 
 ## V61 Deal-OS Boost
 

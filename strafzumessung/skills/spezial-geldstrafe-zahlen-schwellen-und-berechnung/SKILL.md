@@ -5,31 +5,14 @@ description: "Geldstrafe: Zahlen, Schwellenwerte und Berechnung im Plugin strafz
 
 # Geldstrafe: Zahlen, Schwellenwerte und Berechnung
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `strafzumessung`. Ausgangspunkt ist: Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur grossen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewaehrung § 56 § 49 Regelbeispiele besonders schwerer Fall Verstaendigung § 257c StPO TOA § 46a Gesamtstrafe § 55 JGG.
-
-Er führt durch **Zahlen, Schwellenwerte und Berechnung** im Themenfeld **Geldstrafe**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-## Norm- und Praxisanker
-
-- Geldstrafe: § 40 StGB – Tagessatzsystem. Anzahl der Tagessätze: 5 bis 360 (§ 40 Abs. 1 S. 2 StGB); bei Gesamtgeldstrafe bis 720 (§ 54 Abs. 2 S. 2 StGB).
-- Tagessatzhöhe: § 40 Abs. 2 StGB – Nettoeinkommen pro Tag (Bruttoeinkommen abzüglich gesetzlicher Abgaben, Unterhaltspflichten). Spanne: 1 EUR bis 30.000 EUR pro Tagessatz; Schätzung nach § 40 Abs. 3 StGB zulässig.
-- Faustregel Praxis: Nettomonatseinkommen / 30 = Tagessatz; Unterhaltspflichten 1/4 Abschlag pro unterhaltsberechtigter Person ist verbreitet, aber kein Automatismus.
-- Ratenzahlung: § 42 StGB – Bewilligung bei wirtschaftlicher Härte; Voraussetzungen begründen.
-- Ersatzfreiheitsstrafe: § 43 StGB – ein Tag Freiheitsstrafe = ein Tagessatz Geldstrafe; nach Reform 2023 § 43 S. 2 StGB: ein Tag Freiheitsstrafe = zwei Tagessätze ab 01.10.2024 (Reform Sanktionenrecht) – stets aktuelle Fassung prüfen.
-- 90-Tagessätze-Schwelle BZRG: Geldstrafen bis 90 Tagessätze nicht im Führungszeugnis (§ 32 Abs. 2 Nr. 5 BZRG) – wichtige Strategie-Schwelle.
-- Praxis-Tipp: Bei Tagessatzhöhe nicht "schätzen lassen", sondern Einkommensbelege (Lohnabrechnung, EStB, Sozialleistungen) konkret vortragen – sonst landet Höhe häufig zu hoch.
+## Spezialwissen: Geldstrafe: Zahlen, Schwellenwerte und Berechnung
+- **Spezialgegenstand:** Geldstrafe: Zahlen, Schwellenwerte und Berechnung / spezial geldstrafe zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Normen-/Quellenanker:** StPO, TOA, JGG.
+- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
+- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
 
-## Fachlicher Zuschnitt
-
-- **Thema:** Geldstrafe.
-- **Arbeitsfokus:** Zahlen, Schwellenwerte und Berechnung.
-- **Plugin-Rahmen:** Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur grossen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitss....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
+## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?

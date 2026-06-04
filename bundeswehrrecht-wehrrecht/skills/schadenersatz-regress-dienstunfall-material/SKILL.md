@@ -5,6 +5,13 @@ description: "Schadensersatz, Regress, Dienstunfall, Materialschäden: prüft SV
 
 # Schadensersatz, Regress, Dienstunfall und Materialschäden
 
+## Fachkern: Schadensersatz, Regress, Dienstunfall und Materialschäden
+- **Spezialgegenstand:** Schadensersatz, Regress, Dienstunfall und Materialschäden; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Soldaten haften für im Dienst verursachte Schäden eingeschränkt: § 24 SG begründet ein Haftungsprivileg (Haftung nur bei Vorsatz und grober Fahrlässigkeit gegenüber dem Dienstherrn).

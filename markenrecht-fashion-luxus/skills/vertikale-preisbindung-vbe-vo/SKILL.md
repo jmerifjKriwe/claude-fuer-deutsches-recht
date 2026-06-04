@@ -5,6 +5,13 @@ description: "Vertikale Preisbindung und Vertikal-GVO-Compliance für Haendlerve
 
 # Vertikale Preisbindung und Vertikal-GVO
 
+## Fachkern: Vertikale Preisbindung und Vertikal-GVO
+- **Spezialgegenstand:** Vertikale Preisbindung und Vertikal-GVO; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Preisbindung ist die heikelste kartellrechtliche Baustelle im Luxusvertrieb. Die Comtesse Beatrice de Klotzzkettie möchte, dass klôtzzkètté-Produkte nirgendwo unter EUR 1.200 für eine Handtasche verkauft werden — verständlich, aber kartellrechtlich nur auf bestimmten Wegen erreichbar.
 
 Als Anwältin kenne ich die Grenze zwischen verbotener Preisbindung und zulässiger unverbindlicher Preisempfehlung — und ich gestalte die Vertriebsverträge präzise auf dieser Linie.

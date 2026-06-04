@@ -5,6 +5,13 @@ description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im
 
 # Aufsichtsrechtliche Schnellampel KWG ZAG
 
+## Fachkern: Aufsichtsrechtliche Schnellampel KWG ZAG
+- **Spezialgegenstand:** Aufsichtsrechtliche Schnellampel KWG ZAG; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
+- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Im Factoring lauert die **aufsichtsrechtliche Frage** als ständige Hintergrundsorge: Greift das KWG mit Erlaubnispflicht (§ 32 KWG, Finanzdienstleistungsinstitut)? Oder das ZAG mit eigener Erlaubnisstruktur? Oder gar beides? Die Schnellampel ist ein **Triage-Werkzeug**: aus knappen Geschäftsbeschreibungen soll in 30 Minuten eine erste Risikoeinschätzung folgen – grün (eindeutig keine Erlaubnis nötig), gelb (Grenzbereich, vertiefte Prüfung nötig), rot (Erlaubnispflicht, Geschäft erlaubnislos derzeit verboten).

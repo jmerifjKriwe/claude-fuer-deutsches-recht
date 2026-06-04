@@ -5,6 +5,13 @@ description: "Kameradschaft, Achtungs- und Vertrauenspflicht: prüft §§ 12 und
 
 # Kameradschaft, Achtungs- und Vertrauenspflicht
 
+## Fachkern: Kameradschaft, Achtungs- und Vertrauenspflicht
+- **Spezialgegenstand:** Kameradschaft, Achtungs- und Vertrauenspflicht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 § 12 SG begründet die Pflicht zur Kameradschaft; Mobbing und Ausgrenzung verletzen diese Pflicht. § 17 SG schützt die Würde des Soldaten und begründet Pflichten des Vorgesetzten zum respektvollen Umgang.

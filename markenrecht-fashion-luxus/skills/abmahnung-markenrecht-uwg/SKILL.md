@@ -5,6 +5,13 @@ description: "Markenrechtliche Abmahnung mit strafbewehrter Unterlassungserklär
 
 # Markenrechtliche Abmahnung und Unterlassungserklärung
 
+## Fachkern: Markenrechtliche Abmahnung und Unterlassungserklärung
+- **Spezialgegenstand:** Markenrechtliche Abmahnung und Unterlassungserklärung; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Die Abmahnung ist das erste Durchsetzungsinstrument im markenrechtlichen Werkzeugkasten. Für klôtzzkètté SA ist sie das Signal an Verletzer: Wir kennen die Verletzung, wir verfolgen sie, und wir geben Gelegenheit zur außergerichtlichen Bereinigung — bevor das Gericht entscheidet.
 
 Eine rechtssichere Abmahnung spart Gerichtskosten und schafft vollstreckbare Unterlassungsansprüche. Eine fehlerhafte Abmahnung kostet den Mandanten Geld und das Verfahren.

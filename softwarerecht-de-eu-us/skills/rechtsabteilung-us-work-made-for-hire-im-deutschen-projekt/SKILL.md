@@ -5,9 +5,19 @@ description: "Rechtsabteilungs-Spezialskill für US Work Made for Hire im deutsc
 
 # Rechtsabteilung: US Work Made for Hire im deutschen Projekt
 
-## Worum es geht
+## Fachkern: Rechtsabteilung: US Work Made for Hire im deutschen Projekt
+- **Spezialgegenstand:** Rechtsabteilung: US Work Made for Hire im deutschen Projekt wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** UrhG §§ 69a ff., BGB, AGB-Recht, DSGVO, TTDSG/TDDDG, Open-Source-Lizenzen, AI Act, Exportkontrolle, US Copyright/Work-for-Hire und Patent-/Trade-Secret-Schnittstellen.
+- **Entscheidende Weiche:** Trenne Code-Urheberschaft, Rechtekette, Lizenzmodell, SLA, Datenschutz, Security, Escrow, Open-Source-Compliance und internationale Rechteübertragung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+
+## Spezialkern: Rechtsabteilung: US Work Made for Hire im deutschen Projekt
+
+- **Konkretes Problem:** US-Templates werden auf deutsche Rechteübertragung und moral rights angepasst.
+- **Norm-/Quellenanker:** BGB-Vertragsrecht, UrhG §§ 69a ff., GeschGehG, DSGVO, Data Act, Cyber Resilience Act, Open-Source-Lizenzen, US copyright/work-made-for-hire und Softwarepatent-Schnittstellen.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

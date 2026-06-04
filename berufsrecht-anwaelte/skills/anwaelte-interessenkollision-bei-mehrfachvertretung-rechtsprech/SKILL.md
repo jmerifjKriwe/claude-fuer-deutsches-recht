@@ -5,13 +5,14 @@ description: "Anwälte: interessenkollision bei mehrfachvertretung - Rechtsprech
 
 # Anwälte: interessenkollision bei mehrfachvertretung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
 
-## Einsatz
+## Konkreter Berufsrechtskern: Anwälte: interessenkollision bei mehrfachvertretung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
+- **Spezialgegenstand:** Anwälte: interessenkollision bei mehrfachvertretung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
+- **Normenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, beA-Pflichten, anwaltliche Verschwiegenheit und anwaltsgerichtliches Verfahren.
+- **Institutionen:** Rechtsanwaltskammer, Anwaltsgericht, AGH/BGH-Anwaltssenat und gegebenenfalls Aufsichts-/Strafbehörden.
+- **Spezialspur:** Kollision in Mandat, Sozietät, Vorbefassung, wirtschaftlichem Eigeninteresse und Informationszugang zerlegen.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
 
-Nutze diesen Skill im Plugin **Berufsrecht Anwälte**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
-
-**Fokus:** interessenkollision bei mehrfachvertretung; rechtsprechungscheck, stärkste gegenansicht und red-team-korrektur im Berufsrecht der Anwälte
-
-## Kaltstart
+## Fallweichen dieser Speziallage
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

@@ -5,6 +5,13 @@ description: "Großkanzlei-Mandatsseite bei KI-Verdacht gegenüber gerichtlichen
 
 # KI-Einsatz bei Gutachten — Mandatsseite (Großkanzlei)
 
+## Fachkern: KI-Einsatz bei Gutachten — Mandatsseite (Großkanzlei)
+- **Spezialgegenstand:** KI-Einsatz bei Gutachten — Mandatsseite (Großkanzlei); der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
+- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Kernsachverhalt
 
 Im Zivilprozess, in Schiedsverfahren und bei behördlichen Gutachten besteht die Pflicht des Sachverständigen zur höchstpersönlichen Erstellung (§ 407a Abs. 1 ZPO). KI-Werkzeuge, die substantielle Teile des Gutachtens generieren, können diese Pflicht unterlaufen. Die Mandatsseite steht vor der Aufgabe, KI-Verdacht taktisch sauber und ohne überschießende Pauschalvorwürfe zu verarbeiten. Ein voreilig eskalierter KI-Vorwurf, der sich nicht bestätigt, kann auf den Mandanten zurückfallen. Ein nicht geltend gemachter Mangel kann in der Rechtsmittelinstanz präkludiert sein. Die Strategie erfordert daher eine sorgfältige Trennung zwischen Indizien für KI-Einsatz einerseits und inhaltlichen Gutachtenmängeln andererseits — nur letztere sind prozessrechtlich primär relevant.
@@ -251,7 +258,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - BGH VI ZR 480/19 (23.11.2021): AZ existiert, aber Datum falsch (korrekt: 27.07.2021) und Thema falsch (tatsaechlich: Dieselfall VW EA189, § 826 BGB); kein Bezug zu § 407a ZPO; NJW 2022, 302 nicht belegt. Ersatzlos geloescht.
 Pruefmethode: dejure.org-Direktabfrage je AZ. Keine Ersatzentscheidungen ergaenzt mangels verifizierbarer themenkonformer Alternativen. -->
 
-<!-- gk-ma-v61-agentic-boost -->
 
 ## V61 Deal-OS Boost
 

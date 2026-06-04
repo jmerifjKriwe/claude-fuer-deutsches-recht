@@ -5,6 +5,13 @@ description: "Slogan-Marken und Kampagnenclaims prüfen: Unterscheidungskraft, W
 
 # Slogan-Marken für Luxus-Mode
 
+## Fachkern: Slogan-Marken für Luxus-Mode
+- **Spezialgegenstand:** Slogan-Marken für Luxus-Mode; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Slogans sind die vielleicht schwierigste Markenart — sie sollen Kunden begeistern, dürfen aber nicht so allgemein sein, dass sie keinen Herkunftshinweis liefern. Für klôtzzkètté SA prüfe ich jeden Kampagnen-Claim auf Eintragungsfähigkeit, bevor die Comtesse Beatrice de Klotzzkettie einen EUR 300.000-Kampagnenetat investiert.
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -5,13 +5,14 @@ description: "Notare: identitaetspruefung ausweis - Kammerantwort mit Verfahrens
 
 # Notare: identitaetspruefung ausweis - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
-## Einsatz
+## Konkreter Berufsrechtskern: Notare: identitaetspruefung ausweis - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
+- **Spezialgegenstand:** Notare: identitaetspruefung ausweis - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
+- **Normenanker:** BNotO, BeurkG, DONot, GNotKG, GwG, UVZ/Verwahrungsverzeichnis, Neutralität, Belehrung und Dienstaufsicht.
+- **Institutionen:** Notarkammer, Dienstaufsicht, Landgericht/Oberlandesgericht im Notarrecht und Register-/Grundbuchschnittstellen.
+- **Spezialspur:** Prüfungsauftrag, Unabhängigkeit, Prüfungsstandard, Wesentlichkeit und Dokumentation konkret festlegen.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
 
-Nutze diesen Skill im Plugin **Berufsrecht Notare**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
-
-**Fokus:** identitaetspruefung ausweis; kammerantwort mit verfahrensstrategie, tonlage und belegplan im Berufsrecht der Notare
-
-## Kaltstart
+## Fallweichen dieser Speziallage
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

@@ -5,6 +5,13 @@ description: "Haptik- und Tastmarken prüfen: Oberflächenstruktur, Materialgef�
 
 # Tastmarken und Haptik-Marken
 
+## Fachkern: Tastmarken und Haptik-Marken
+- **Spezialgegenstand:** Tastmarken und Haptik-Marken; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Das faszinierendste Grenzgebiet des nichtvisuellen Markenrechts: Kann die charakteristische Oberflächenstruktur eines Seidenschals oder die Mikrogravur eines Parfumflakons als Marke geschützt werden? Für klôtzzkètté SA ist dies hochrelevant — die Seidenschalkollektionen "K°° Touch Royal" mit ihrer einzigartigen dreidimensionalen Seiden-Twill-Köper-Struktur und der Parfumflakon "K°° pour Femme" mit seiner gestrichelten Mikro-Haptik-Oberfläche sind sensorische Erkennungszeichen ersten Ranges.
 
 Die Antwort ist ernüchternd ehrlich: Tastmarken sind rechtlich kaum eintragbar, aber es gibt substanzielle Schutzalternativen.

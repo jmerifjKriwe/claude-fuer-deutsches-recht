@@ -5,6 +5,13 @@ description: "Workflow-Skill zu eugh rechtsprechung leitentscheidungen. Nutzt No
 
 # EuGH-Rechtsprechung — Leitentscheidungen zur Marktdefinition
 
+## Fachkern: EuGH-Rechtsprechung — Leitentscheidungen zur Marktdefinition
+- **Spezialgegenstand:** EuGH-Rechtsprechung — Leitentscheidungen zur Marktdefinition; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
+- **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Grundlegende Entscheidungen (Klassiker)
 
 Vor Verwendung im Schriftsatz immer über [curia.europa.eu](https://curia.europa.eu/) Volltext und Rn. nachschlagen.

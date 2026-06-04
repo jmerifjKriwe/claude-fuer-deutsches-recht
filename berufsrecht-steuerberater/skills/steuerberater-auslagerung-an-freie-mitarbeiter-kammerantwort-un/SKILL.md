@@ -5,13 +5,14 @@ description: "Steuerberater: auslagerung an freie mitarbeiter - Kammerantwort mi
 
 # Steuerberater: auslagerung an freie mitarbeiter - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
-## Einsatz
+## Konkreter Berufsrechtskern: Steuerberater: auslagerung an freie mitarbeiter - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
+- **Spezialgegenstand:** Steuerberater: auslagerung an freie mitarbeiter - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
+- **Normenanker:** StBerG, BOStB, StBVV, AO-Schnittstellen, GwG, Verschwiegenheit, Interessenkollision und berufsgerichtliches Verfahren.
+- **Institutionen:** Steuerberaterkammer, Berufsgerichtsbarkeit, Finanzverwaltung und bei Straf-/Bußgeldnähe die Ermittlungsbehörden.
+- **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
 
-Nutze diesen Skill im Plugin **Berufsrecht Steuerberater**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
-
-**Fokus:** auslagerung an freie mitarbeiter; kammerantwort mit verfahrensstrategie, tonlage und belegplan im Berufsrecht der Steuerberater
-
-## Kaltstart
+## Fallweichen dieser Speziallage
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

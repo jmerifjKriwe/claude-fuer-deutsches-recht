@@ -5,13 +5,14 @@ description: "Wirtschaftsprüfer: forensic services und unabhaengigkeit - Kammer
 
 # Wirtschaftsprüfer: forensic services und unabhaengigkeit - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
-## Einsatz
+## Konkreter Berufsrechtskern: Wirtschaftsprüfer: forensic services und unabhaengigkeit - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
+- **Spezialgegenstand:** Wirtschaftsprüfer: forensic services und unabhaengigkeit - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
+- **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, EU-Abschlussprüferrecht, APAS-Verfahren, Unabhängigkeit und Qualitätskontrolle.
+- **Institutionen:** WPK, APAS, Prüfstelle/Abschlussprüferaufsicht, Registergericht und Mandatsgremien.
+- **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
 
-Nutze diesen Skill im Plugin **Berufsrecht Wirtschaftsprüfer**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
-
-**Fokus:** forensic services und unabhaengigkeit; kammerantwort mit verfahrensstrategie, tonlage und belegplan im Berufsrecht der Wirtschaftsprüfer
-
-## Kaltstart
+## Fallweichen dieser Speziallage
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

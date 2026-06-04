@@ -5,31 +5,14 @@ description: "Handy: Zahlen, Schwellenwerte und Berechnung im Plugin verkehrsowi
 
 # Handy: Zahlen, Schwellenwerte und Berechnung
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `verkehrsowi-verteidiger`. Ausgangspunkt ist: Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und Amtsgericht.
-
-Er führt durch **Zahlen, Schwellenwerte und Berechnung** im Themenfeld **Handy**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-## Norm- und Praxisanker
-
-- Handyverstoß: § 23 Abs. 1a StVO – Benutzung "elektronischer Geräte" während Fahrt verboten, wenn dafür Gerät aufgenommen oder gehalten werden muss.
-- Erfasste Geräte: Mobiltelefon, Tablet, Notebook, MP3-Player, Spiele-Konsole, etc.; auch passive Nutzung wie Anzeige der Uhrzeit (OLG-Linie unterschiedlich).
-- Ausnahme: § 23 Abs. 1a S. 2 StVO – Motor ausgeschaltet (z.B. bei automatischer Start-Stopp-Funktion umstritten; OLG-Rspr. uneinheitlich).
-- Bußgeldhöhe: BußgKatV – 100 EUR und 1 Punkt; bei Gefährdung 150 EUR und 2 Punkte; bei Sachbeschädigung 200 EUR und 2 Punkte; LKW-Fahrer höhere Sätze.
-- Beweislage: Polizei-Beobachtung; selten Videoaufzeichnung. Beweiswert kritisch: Augenblicksprovokation, Verwechslung Handy/anderes Gerät.
-- Subjektiver Tatbestand: Vorsatz (Wissen um Nutzung) oder Fahrlässigkeit; bei Sprachsteuerung umstritten.
-- Praxis-Tipp: Verteidigungslinien: (1) Sichtbarkeit der Tathandlung durch Polizeibeamten kritisch prüfen (Lichtverhältnisse, Abstand, Beobachtungswinkel), (2) Alternative Geräte­nutzung darstellen (Verkehrsfunk-Bedienung, Geldbörse, Kaugummi), (3) Motor-Ausgangs-Argumente bei Stopp-Phasen, (4) bei Konstellation mit Beifahrer Hilfsweise Beifahrer-Nutzung. Bei Zweifel an Polizeibeobachtung Antrag auf Anhörung Beamter mit konkreten Fragen zu Sicht­verhältnissen.
+## Spezialwissen: Handy: Zahlen, Schwellenwerte und Berechnung
+- **Spezialgegenstand:** Handy: Zahlen, Schwellenwerte und Berechnung / spezial handy zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Normen-/Quellenanker:** StVO.
+- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
+- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
 
-## Fachlicher Zuschnitt
-
-- **Thema:** Handy.
-- **Arbeitsfokus:** Zahlen, Schwellenwerte und Berechnung.
-- **Plugin-Rahmen:** Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Droge....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
+## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?

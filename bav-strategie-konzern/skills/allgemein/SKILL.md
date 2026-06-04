@@ -3,7 +3,6 @@ name: allgemein
 description: "Einstieg, Schnelltriage und Workflow-Routing im bAV Strategie Konzern-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage."
 ---
 
-<!-- konvers-stil-v1 -->
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
 
@@ -156,6 +155,13 @@ Zielgruppe sind Anwaelte, Personalleiter und Steuerberater, die mit der rechtssi
 - **IORP-II** — EU-Richtlinie ueber Taetigkeiten und Beaufsichtigung von Einrichtungen der betrieblichen Altersversorgung.
 - **Unverfallbarkeit** — Gesetzlicher Schutz erdienter Anwartschaften: Nach Ablauf der Unverfallbarkeitsfrist bleiben Ansprueche auch bei Arbeitgeberwechsel erhalten (§ 1b BetrAVG).
 - **§ 6a EStG** — Steuerliche Regelung zur Passivierung von Pensionsrueckstellungen bei Direktzusagen.
+
+## Fachkern: Betriebliche Altersversorgung Strategie Konzern — Allgemein
+
+- **bAV-Problem:** ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage.
+- **Normenanker:** BetrAVG, EStG/LSt, SGB IV, HGB/IFRS-Bilanzierung, InsO, ArbGG und arbeitsrechtliche Zusage-/Änderungsdogmatik je nach Durchführungsweg prüfen.
+- **Entscheidende Weiche:** Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen.
+- **Arbeitsprodukt:** bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
 
 ## Rechtsgrundlagen
 

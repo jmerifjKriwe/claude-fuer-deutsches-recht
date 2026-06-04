@@ -5,6 +5,13 @@ description: "Keyword Advertising, Hashtags, Influencer-Posts und Metatags marke
 
 # Keyword Advertising, Hashtags und Influencer
 
+## Fachkern: Keyword Advertising, Hashtags und Influencer
+- **Spezialgegenstand:** Keyword Advertising, Hashtags und Influencer; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Aufgabe
 
 Bewerte, ob die Nutzung fremder Zeichen in Suchmaschinenwerbung, Hashtags, Metatags, Social Ads oder Influencer-Kampagnen eine Markenverletzung oder unlautere Werbung ist.

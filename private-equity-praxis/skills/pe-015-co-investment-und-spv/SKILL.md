@@ -5,6 +5,13 @@ description: "Strukturiert Co-Investments neben Fondsvehikel, Sponsor-SPV, Infor
 
 # Co-Investment und SPV-Struktur
 
+## Fachkern: Co-Investment und SPV-Struktur
+- **Spezialgegenstand:** Co-Investment und SPV-Struktur wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GmbHG, AktG, UmwG, GWB/FKVO, AWG/AWV, KAGB/AIFM-Bezug, LMA-Finanzierung, InsO/StaRUG, Steuer- und Managementbeteiligungsfragen.
+- **Entscheidende Weiche:** Bestimme Dealphase, Fondsrolle, Target-Risiko, Finanzierungsstruktur, Consent/CP, Exit-Auswirkung und Konflikt zwischen Sponsor, Management, Lender und Co-Investor.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 Der Skill liefert die Struktur für Co-Investments neben dem Hauptfonds. Klassischer Use Case: LP zeichnet 50 Mio. EUR im Fonds und will zusätzlich 25 Mio. EUR direkt in ein Target ko-investieren. Themen: SPV-Vehikel, Allocation Policy, Fee/Carry-Mechanik (häufig "no-fee-no-carry" für ko-investierende LPs), Sponsor-Konflikte, FDI/Kartellrecht-Schnittstelle.

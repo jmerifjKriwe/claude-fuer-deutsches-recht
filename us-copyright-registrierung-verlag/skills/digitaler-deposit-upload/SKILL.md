@@ -5,6 +5,13 @@ description: "Digitaler Deposit-Upload im eCO: zulässige Fälle, Dateiformate, 
 
 # Digitaler Deposit Upload
 
+## Fachkern: Digitaler Deposit Upload
+- **Spezialgegenstand:** Digitaler Deposit Upload; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
+- **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Aufgabe
 
 Leite den Verlag durch die Entscheidung, ob ein digitaler Upload genügt und wie Dateien so vorbereitet werden, dass die Submission nicht wegen falscher Bündelung, falscher Werkklasse oder fehlender Vollständigkeit hängen bleibt.

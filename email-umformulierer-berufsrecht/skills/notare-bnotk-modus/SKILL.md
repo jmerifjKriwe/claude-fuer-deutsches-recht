@@ -5,6 +5,13 @@ description: "Korrespondenz von Notaren und Notarinnen auf notarrechtliche Beson
 
 # Notar-Modus (BNotO/BNotK)
 
+## Fachkern: Notar-Modus (BNotO/BNotK)
+- **Spezialgegenstand:** Notar-Modus (BNotO/BNotK) wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
+- **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 Dieser Skill spezialisiert den Umformulierungsprozess auf die besonderen Anforderungen notarieller Korrespondenz. Notare nehmen als Träger eines öffentlichen Amts eine besondere Stellung ein, die sich in Kommunikationspflichten und Stilanforderungen niederschlägt, die über die allgemeinen anwaltlichen Standards hinausgehen.
 
 ## § 14 BNotO — Berufspflichten und Unparteilichkeit

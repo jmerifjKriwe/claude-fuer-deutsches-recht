@@ -5,13 +5,14 @@ description: "Anwälte: fachanwaltstitel und fortbildung - Organisationspflichte
 
 # Anwälte: fachanwaltstitel und fortbildung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
-## Einsatz
+## Konkreter Berufsrechtskern: Anwälte: fachanwaltstitel und fortbildung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
+- **Spezialgegenstand:** Anwälte: fachanwaltstitel und fortbildung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
+- **Normenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, beA-Pflichten, anwaltliche Verschwiegenheit und anwaltsgerichtliches Verfahren.
+- **Institutionen:** Rechtsanwaltskammer, Anwaltsgericht, AGH/BGH-Anwaltssenat und gegebenenfalls Aufsichts-/Strafbehörden.
+- **Spezialspur:** Fortbildungsnachweise, Fristen, Fachanwaltsbezug und Kammerkommunikation belegen, nicht bloß behaupten.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
 
-Nutze diesen Skill im Plugin **Berufsrecht Anwälte**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
-
-**Fokus:** fachanwaltstitel und fortbildung; organisationspflichten, prävention, team-anweisung und fristenkontrolle im Berufsrecht der Anwälte
-
-## Kaltstart
+## Fallweichen dieser Speziallage
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

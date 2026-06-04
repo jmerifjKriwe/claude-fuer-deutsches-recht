@@ -29,4 +29,3 @@ Dieser Skill erschließt die Zwölftafeltradition für **Familienordnung, Erbfol
 - Grundstücks- und Nachbarschaftskarte.
 - Kurzer Vergleich mit moderner Privatautonomie und Gleichheitsordnung.
 - Red-Team-Hinweise gegen anachronistische Idealisierung.
-

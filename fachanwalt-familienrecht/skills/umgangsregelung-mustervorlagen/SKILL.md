@@ -5,6 +5,13 @@ description: "Umgangsregelungen nach §§ 1684 und 1685 BGB formulieren: Regelm�
 
 # Umgangsregelung — Mustervorlagen
 
+## Fachkern: Umgangsregelung — Mustervorlagen
+- **Spezialgegenstand:** Umgangsregelung — Mustervorlagen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
+- **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Mandantenfragen beim Kaltstart
 
 1. Welches Modell bevorzugt der Mandant — Residenzmodell (Kind lebt überwiegend bei einem Elternteil), Wechselmodell (paritätischer Aufenthalt) oder Begleitumgang?

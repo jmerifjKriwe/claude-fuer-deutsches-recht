@@ -5,31 +5,14 @@ description: "Abstand: Livequellen- und Rechtsprechungscheck im Plugin verkehrso
 
 # Abstand: Livequellen- und Rechtsprechungscheck
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `verkehrsowi-verteidiger`. Ausgangspunkt ist: Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und Amtsgericht.
-
-Er führt durch **Livequellen- und Rechtsprechungscheck** im Themenfeld **Abstand**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-## Norm- und Praxisanker
-
-- Abstandsverstoß: § 4 Abs. 1 StVO – ausreichender Sicherheitsabstand. Faustregel "halber Tacho" (in Metern); spätestens bei Unterschreiten 1/2 Tacho problematisch.
-- Tatbestand und Bußgeldhöhe: BußgKatV – ab 30 % Unterschreitung Punkte; ab 50 % Fahrverbot regelmäßig.
-- Messverfahren Abstand: ViDistA, VAMA, ProViDa, Brückenabstandsmessverfahren – jeweils mit eigenen Toleranzen und Bedienanleitungen.
-- Mindest­messstrecke: BGH/OLG ständige Rspr. zum BMM (Brückenabstands­messverfahren) – mindestens 100 m bis 300 m Messstrecke erforderlich, um kurze Abstandsunterschreitungen (Bremsen, Ausweichen) auszuschließen.
-- Standardisierte Messverfahren: BGH ständige Rspr. – Eichung, Schulungs­nachweis, Bedienungs­anleitung sind Voraussetzung; bei Verfahrensfehler Toleranzen zugunsten Betroffener.
-- Subjektiver Tatbestand: Fahrlässigkeit (§ 49 StVO i.V.m. § 24 StVG) oder Vorsatz; gewöhnlich Fahrlässigkeit.
-- Praxis-Tipp: Messakte vollständig anfordern (Eichschein Messgerät und Tacho, Schulungs­nachweis Messbeamter, Videoaufzeichnung der Messung, Bedienungs­anleitung). Bei Brücken­messung Messstrecke und Auswertung der einzelnen Frames kritisch prüfen. Beispielargumente Verteidigung: Spurwechsel des Drängers, plötzliches Abbremsen des Vordermanns, kurze Abstandsunterschreitung (unter 3 Sek-Regel). Bei Berufskraftfahrern Härtefall-Argument für Fahrverbot vorbereiten.
+## Spezialwissen: Abstand: Livequellen- und Rechtsprechungscheck
+- **Spezialgegenstand:** Abstand: Livequellen- und Rechtsprechungscheck / spezial abstand livequellen und rechtsprechungscheck. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Normen-/Quellenanker:** StVO, BußgKatV.
+- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
+- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
 
-## Fachlicher Zuschnitt
-
-- **Thema:** Abstand.
-- **Arbeitsfokus:** Livequellen- und Rechtsprechungscheck.
-- **Plugin-Rahmen:** Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Droge....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
+## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?

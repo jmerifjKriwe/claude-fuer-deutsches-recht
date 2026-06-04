@@ -5,9 +5,12 @@ description: "Norm- und Dogmatik-Skill für Unternehmerverkehr 310 Abs. 1: prüf
 
 # Unternehmerverkehr 310 Abs. 1
 
-## Wann verwenden
+## Fachkern: Unternehmerverkehr 310 Abs. 1
 
-Nutze diesen Skill für **Unternehmerverkehr 310 Abs. 1** im deutschen AGB-Recht, wenn eine Klausel geprüft, entworfen, redlined, verhandelt oder prozessual verteidigt werden soll.
+- **Klauselproblem (Unternehmerverkehr 310 Abs. 1):** prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
 
 ## Minimal-Intake
 

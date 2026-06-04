@@ -5,6 +5,13 @@ description: 'Versicherung politischer Risiken im China-Geschaeft: Euler Hermes/
 
 # Politisches Risiko China: Versicherung und Investitionsgarantien
 
+## Fachkern: Politisches Risiko China: Versicherung und Investitionsgarantien
+- **Spezialgegenstand:** Politisches Risiko China: Versicherung und Investitionsgarantien wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** AWG/AWV, EU-Dual-Use, Sanktionen, Zoll/USt, Incoterms, Lieferkette/LkSG/CSDDD, IP-/Know-how-Schutz, Datenschutz/Cybersecurity und lokale China-Compliance live prüfen.
+- **Entscheidende Weiche:** Ordne Lieferant, Werk, Datenfluss, Zahlungsweg, Exportgut, politisches Risiko, IP-Leck und Exit-Szenario getrennt.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 Dieser Skill begleitet Mandanten und Berater im Wirtschaftsverkehr mit der Volksrepublik China.
 Ausgangspunkt ist der konkrete Mandantenfall; Ergebnis ist stets ein verwertbares Arbeitsprodukt.
 

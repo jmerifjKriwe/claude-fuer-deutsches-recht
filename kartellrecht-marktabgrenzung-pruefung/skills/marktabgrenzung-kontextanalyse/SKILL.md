@@ -5,6 +5,13 @@ description: "Verfahren beginnt und Verfahrensart und Parteistellung muessen bes
 
 # Marktabgrenzung — Kontextanalyse
 
+## Fachkern: Marktabgrenzung — Kontextanalyse
+- **Spezialgegenstand:** Marktabgrenzung — Kontextanalyse; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
+- **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Zweck
 
 Bevor die sachliche und räumliche Marktabgrenzung inhaltlich geprüft werden kann, muss ihr Entstehungskontext verstanden werden. Marktdefinitionen sind selten neutral: Sie werden von Parteien strategisch eingesetzt, um Marktanteile zu verkleinern (wenn Marktbeherrschung droht) oder zu vergrößern (wenn Effizienzgründe vorgebracht werden).

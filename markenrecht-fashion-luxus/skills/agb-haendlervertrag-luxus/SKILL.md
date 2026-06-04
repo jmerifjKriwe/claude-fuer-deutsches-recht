@@ -5,6 +5,13 @@ description: "AGB- und Händlervertragsprüfung für Luxus-Selektivvertrieb: Qua
 
 # AGB im Händlervertrag für Luxus-Selektivvertrieb
 
+## Fachkern: AGB im Händlervertrag für Luxus-Selektivvertrieb
+- **Spezialgegenstand:** AGB im Händlervertrag für Luxus-Selektivvertrieb; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Ein wasserdichter Händlervertrag ist das juristisch-kommerzielle Rückgrat des klôtzzkètté-Selektivvertriebssystems. Ich entwerfe die AGB nicht als bürokratisches Formular, sondern als strategisches Instrument: jede Klausel absichert eine Schutzposition, jede Bedingung ist kartellrechtlich und AGB-rechtlich geprüft.
 
 Auch im B2B-Verhältnis gilt AGB-Kontrolle nach §§ 305 ff. BGB — aber mit deutlich großzügigeren Maßstäben als im B2C.

@@ -5,6 +5,13 @@ description: "Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto. Skill klaert 
 
 # Verbraucherinsolvenz Pfaendungsschutzkonto
 
+## Fachkern: Verbraucherinsolvenz Pfaendungsschutzkonto
+- **Spezialgegenstand:** Verbraucherinsolvenz Pfaendungsschutzkonto; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
+- **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Aufgabe
 
 Skill fuer Pfaendungsschutzkonto.

@@ -5,6 +5,13 @@ description: "Prüft Hochschulautonomie, Rechtsaufsicht und Fachaufsicht."
 
 # Hochschulautonomie Und Aufsicht
 
+## Fachkern: Hochschulautonomie Und Aufsicht
+- **Spezialgegenstand:** Hochschulautonomie Und Aufsicht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
+- **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Wofür dieser Skill da ist
 
 Selbstverwaltung, ministerielle Genehmigung, Zielvereinbarung, Satzungsspielraum und Grenzen.

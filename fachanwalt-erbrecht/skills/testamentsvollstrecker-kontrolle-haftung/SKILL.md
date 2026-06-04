@@ -5,9 +5,11 @@ description: "Testamentsvollstrecker: Amt, Zeugnis, Auskunft, ordnungsgemäße V
 
 # Testamentsvollstrecker: Amt, Zeugnis, Auskunft, ordnungsgemäße Verwaltung, Entlassung und Haftung.
 
-## Auftrag
+## Fachkern: Testamentsvollstrecker: Amt, Zeugnis, Auskunft, ordnungsgemäße Verwaltung, Entlassung und Haftung.
 
-Dieser Spezialskill ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit Allgemeinplätzen, sondern ordnet die Akte nach Anspruchsziel, Frist, Beweis, Gegenseite, Gericht und wirtschaftlichem Ergebnis.
+- **Akte (Testamentsvollstrecker: Amt, Zeugnis, Auskunft, ordnungsgemäße Verwaltung, Entlassung und Haftung.):** Amt, Zeugnis, Auskunft, ordnungsgemäße Verwaltung, Entlassung und Haftung.
+- **Prüfachse:** Anspruchsziel, Frist, Beweis, Gegenseite, Gericht/Zuständigkeit, Kostenrisiko und wirtschaftliches Ergebnis werden getrennt.
+- **Arbeitsprodukt:** Schriftsatzkern, Stufenplan, Vergleichslinie oder Mandantenbrief mit Beleg- und Fristenmatrix.
 
 ## Normanker
 

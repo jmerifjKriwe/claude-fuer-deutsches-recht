@@ -5,6 +5,13 @@ description: "Besoldungswiderspruch Soldat: prüft VwGO-Fristen, Form, aufschieb
 
 # Besoldungswiderspruch Soldat und Fristen
 
+## Fachkern: Besoldungswiderspruch Soldat und Fristen
+- **Spezialgegenstand:** Besoldungswiderspruch Soldat und Fristen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Besoldungsstreitigkeiten folgen dem VwGO-Weg, nicht der WBO. Der Widerspruch ist Voraussetzung für die Klage (1-Monats-Frist nach Bescheidzustellung).

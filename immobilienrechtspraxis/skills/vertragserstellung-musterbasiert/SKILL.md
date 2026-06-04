@@ -5,6 +5,13 @@ description: "Immobilienrechtliche Vertraege auf Musterbasis erstellen: Kaufvert
 
 # Vertragserstellung musterbasiert
 
+## Fachkern: Vertragserstellung musterbasiert
+- **Spezialgegenstand:** Vertragserstellung musterbasiert wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BGB, GBO, WEG, BauGB, ErbbauRG, MaBV, Mietrecht, Grundpfandrechte, Notar-/Registervollzug und öffentlich-rechtliche Lasten.
+- **Entscheidende Weiche:** Trenne Eigentum, Besitz, Grundbuchabteilung, Belastung, Fälligkeit, Vollzug, Mängel, Miet-/Nutzungsverhältnis und Finanzierung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Leitidee
 
 Vertragserstellung ist NICHT voll an die KI delegierbar. Die KI ist ein

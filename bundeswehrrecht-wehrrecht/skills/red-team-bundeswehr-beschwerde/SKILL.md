@@ -5,6 +5,13 @@ description: "Red-Team Bundeswehr-Beschwerde: kritische Gegenprüfung einer Besc
 
 # Red-Team: Bundeswehr-Beschwerde kritisch prüfen
 
+## Fachkern: Red-Team: Bundeswehr-Beschwerde kritisch prüfen
+- **Spezialgegenstand:** Red-Team: Bundeswehr-Beschwerde kritisch prüfen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Der Red-Team-Skill nimmt eine fertige Beschwerde und prüft sie aus der Gegenperspektive: Welche Argumente wird die Gegenseite vortragen? Wo sind Schwachstellen?

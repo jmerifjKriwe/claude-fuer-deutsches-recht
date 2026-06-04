@@ -5,9 +5,12 @@ description: "Wahlkampfrecht Praxis: scharfe Kritik an Gegnern ohne Beleidigungs
 
 # Gegnerkritik Meinungsfreiheit
 
-## Worum es geht
+## Fachkern: Gegnerkritik Meinungsfreiheit
 
-Dieser Skill gehört zum Cluster **Botschaft Kandidierende Medien**. Er hilft, eine Wahlkampflage nicht nur politisch klug, sondern auch rechtlich sauber, dokumentierbar und praktisch handhabbar zu bearbeiten.
+- **Wahlkampflage (Gegnerkritik Meinungsfreiheit):** scharfe Kritik an Gegnern ohne Beleidigungs- oder Falschtatsachenrisiko pruefen.
+- **Norm-/Praxisanker:** Wahlgesetze des betroffenen Bundes/Landes, PartG, DSGVO/BDSG, Verordnung (EU) 2024/900, Versammlungs-, Straßen-, Kommunal-, Presse-, Urheber-, Straf- und Ordnungswidrigkeitenrecht je nach Einsatzfeld.
+- **Entscheidende Weiche:** Amtliche Wahlorganisation, Partei, Fraktion, Kandidatenteam, Agentur, Ehrenamt und Dritte strikt trennen; Strategie nie mit rechtlicher Zulässigkeit verwechseln.
+- **Arbeitsprodukt:** Freigabevermerk, Risikoampel, Behördenmail, Sprechzettel oder Eskalationsnotiz mit Belegarchiv und klarer Verantwortlichkeit.
 
 ## Kaltstartfragen
 

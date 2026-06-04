@@ -5,9 +5,12 @@ description: "Stärkt Assistenz, Finance, HR, IT und Knowledge als Betriebssyste
 
 # Sekretariat und Business Services
 
-## Wann dieser Skill passt
+## Fachkern: Sekretariat und Business Services
 
-Dieser Skill gehört zum Cluster **Operations**. Er passt, wenn die Kanzleileitung nicht noch eine lose Meinung, sondern eine führbare Entscheidung braucht: Zahlen, Deutung, Owner, Frist und Kommunikationslinie.
+- **Managementproblem (Sekretariat und Business Services):** Stärkt Assistenz, Finance, HR, IT und Knowledge als Betriebssystem der Kanzlei. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+- **Kennzahlenanker:** Umsatz, UBT, FTE, Utilization, Realization, WIP, DSO, Lock-up, Write-offs, Pipeline, Leverage, Fluktuation und Mandatsrisiko nur zweckbezogen verwenden.
+- **Governance-Weiche:** Partnerpolitik, Mandatsgeheimnis, Interessenkollision, Berufsrecht, People-Risiko und Cashflow getrennt entscheiden; keine hübschen Dashboards ohne Beschlussfrage.
+- **Arbeitsprodukt:** Entscheidungsboard mit drei Optionen, Owner, Frist, Gegenrechnung, Kommunikationslinie und Review-Datum.
 
 ## Ausgangspunkt
 

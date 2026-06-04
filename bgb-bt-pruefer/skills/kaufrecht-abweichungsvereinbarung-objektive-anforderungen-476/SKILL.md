@@ -4,6 +4,13 @@ description: "Prüft Abweichungsvereinbarungen von objektiven Anforderungen § 4
 ---
 # Kaufrecht: Abweichungsvereinbarung objektive Anforderungen § 476 BGB
 
+## Fachkern: Kaufrecht: Abweichungsvereinbarung objektive Anforderungen § 476 BGB
+- **Spezialgegenstand:** Kaufrecht: Abweichungsvereinbarung objektive Anforderungen § 476 BGB; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
+- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Zweck
 
 Abweichungsvereinbarungen von den objektiven Anforderungen an die Kaufsache nach § 476 BGB beim Verbrauchsgüterkauf prüfen: Voraussetzungen, Transparenz und Zulässigkeit.

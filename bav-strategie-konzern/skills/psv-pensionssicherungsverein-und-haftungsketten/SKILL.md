@@ -5,10 +5,12 @@ description: "PSV-Pflichtversicherung und Haftungsketten bei Insolvenz des Arbei
 
 # PSV — Pensionssicherungsverein und Haftungsketten
 
-**Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB**
-Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
+## Fachkern: PSV — Pensionssicherungsverein und Haftungsketten
 
----
+- **bAV-Problem:** §§ 7 ff. BetrAVG, PSVaG-Satzung. Prüfraster: Insolvenzsicherungspflicht, gesicherte Leistungen, Haftungsquoten. Output: PSV-Haftungsanalyse. Abgrenzung: nicht CTA-Struktur (freiwillige Auslagerung).
+- **Normenanker:** BetrAVG, EStG/LSt, SGB IV, HGB/IFRS-Bilanzierung, InsO, ArbGG und arbeitsrechtliche Zusage-/Änderungsdogmatik je nach Durchführungsweg prüfen.
+- **Entscheidende Weiche:** Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen.
+- **Arbeitsprodukt:** bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
 
 ## Rechtsgrundlagen
 
@@ -20,11 +22,8 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - § 14 BetrAVG (Meldepflichten gegenüber PSV)
 - § 7 Abs. 4 BetrAVG (Konzernhaftung: bei Konzernverbund Haftungsketten)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - InsO §§ 35, 47, 80 (Insolvenzmasse, Aussonderung, Verwaltungsrecht Insolvenzverwalter)
 - § 613a BGB (Betriebsübergang — Haftungsübergang auf Erwerber)
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Quellenregel
 
@@ -50,18 +49,14 @@ Der PSV (Pensionssicherungsverein Versicherungsverein auf Gegenseitigkeit) siche
 - PSV-Beitragssatz: jährlich festgesetzt (aktuell ca. 3,4 ‰ — variiert erheblich je nach Insolvenzjahr)
 - Beitragsbemessungsgrundlage = Barwert der Versorgungsverpflichtungen nach Grundsätzen PSV-Merkblatt
 
-**Praxis-Tipp Treuenfels Yamamoto:** PSV-Jahresbeiträge sollten im Rahmen eines BAV-Budgetprozesses vorhergesagt werden. In Krisenjahren (Insolvenzwellen) steigt der Beitragssatz stark. 2020 war der Satz ca. 9,1 ‰ (COVID-Insolvenzwelle).
+**Praxis-Tipp bAV-Projektteam:** PSV-Jahresbeiträge sollten im Rahmen eines BAV-Budgetprozesses vorhergesagt werden. In Krisenjahren (Insolvenzwellen) steigt der Beitragssatz stark. 2020 war der Satz ca. 9,1 ‰ (COVID-Insolvenzwelle).
 
 ### Schritt 3: PSV-Schutzlücken — kritische Analyse
 
 #### Lücke 1: Pensionskassen-Leistungskürzungen
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### Lücke 3: Kleinstanwartschaften
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### Lücke 4: Direktversicherung mit widerruflichem Bezugsrecht
 Ist das Bezugsrecht widerruflich, besteht PSV-Pflicht; bei Insolvenz des Arbeitgebers kann der Insolvenzverwalter den Widerruf erklären — mit der Folge, dass der Rückkaufswert in die Insolvenzmasse fällt. BAV-Berechtigte sind dann auf PSV-Schutz angewiesen.
@@ -118,7 +113,7 @@ Datum:                          [Datum]
 
 ```
 CHECKLISTE — PSV-SCHUTZLÜCKEN-AUDIT
-Treuenfels Yamamoto · Dr. von Sompeh-Ostermann
+bAV-Projektteam · fachliche Leitung
 
 □ Sind alle PSV-pflichtigen Durchführungswege vollständig gemeldet?
 □ Direktversicherungen: Bezugsrecht widerruflich oder unwiderruflich?
@@ -126,11 +121,8 @@ Treuenfels Yamamoto · Dr. von Sompeh-Ostermann
 □ Pensionskassen: Eigene Sicherungseinrichtung (§ 8 BetrAVG) vorhanden?
   (Wenn Nein → PSV-Pflicht beachten)
 □ Konzerngesellschaften außerhalb Deutschlands:
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 □ § 613a BGB bei letztem Betriebsübergang: PSV-Haftung Veräußerer beachtet?
 □ Kleinstanwartschaft-Abfindungen: Zulässigkeitsgrenze § 3 Abs. 2 BetrAVG eingehalten?
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 ---
@@ -156,5 +148,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 <!-- AUDIT 27.05.2026
 Halluzinations-Reparatur Bundle 014:
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

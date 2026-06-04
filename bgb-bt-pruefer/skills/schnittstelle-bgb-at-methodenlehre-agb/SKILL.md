@@ -4,6 +4,13 @@ description: "Schnittstelle BGB-AT, Methodenlehre und AGB-Recht §§ 305-310 BGB
 ---
 # Schnittstelle BGB-AT, Methodenlehre und AGB §§ 305-310 BGB
 
+## Fachkern: Schnittstelle BGB-AT, Methodenlehre und AGB §§ 305-310 BGB
+- **Spezialgegenstand:** Schnittstelle BGB-AT, Methodenlehre und AGB §§ 305-310 BGB; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
+- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Zweck
 
 AGB-Recht nach §§ 305-310 BGB mit BGB-AT-Methodenlehre verknüpfen: Einbeziehungskontrolle, Auslegung (§ 305c Abs. 2 BGB), Inhaltskontrolle und Rechtsfolgen bei Unwirksamkeit.

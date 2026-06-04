@@ -5,6 +5,13 @@ description: "Baut Widerspruch, Remonstration oder Gegenvorstellung."
 
 # Widerspruch Und Remonstration
 
+## Fachkern: Widerspruch Und Remonstration
+- **Spezialgegenstand:** Widerspruch Und Remonstration; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
+- **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Wofür dieser Skill da ist
 
 Statthaftigkeit, Frist, Form, Begründung, Substantiierung, Bewertungsrüge und neuer Prüfer.

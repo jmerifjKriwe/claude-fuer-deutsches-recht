@@ -5,6 +5,13 @@ description: "Verwendungsfähigkeit, Tauglichkeit, finanzielle Folgen: prüft Ta
 
 # Verwendungsfähigkeit, Tauglichkeit und finanzielle Folgen
 
+## Fachkern: Verwendungsfähigkeit, Tauglichkeit und finanzielle Folgen
+- **Spezialgegenstand:** Verwendungsfähigkeit, Tauglichkeit und finanzielle Folgen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 T1–T5: Tauglichkeitsstufen bestimmen Verwendungsfähigkeit. Dauerhafte T5-Einstufung führt zu Entlassung (SaZ) oder Zurruhesetzung (BeruSold).

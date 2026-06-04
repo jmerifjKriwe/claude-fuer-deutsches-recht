@@ -5,6 +5,13 @@ description: "Cannabis Medizinalcannabis Abgabe Dokumentation: prüft die einsch
 
 # Cannabis Medizinalcannabis Abgabe Dokumentation
 
+## Fachkern: Cannabis Medizinalcannabis Abgabe Dokumentation
+- **Spezialgegenstand:** Cannabis Medizinalcannabis Abgabe Dokumentation; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
+- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Medizinalcannabis (Cannabis-Blüten, Cannabis-Extrakte) ist seit dem Cannabisgesetz 2024 nicht mehr Betäubungsmittel im engeren Sinne, fällt aber unter besondere Verkehrs- und Verschreibungsregeln des Konsumcannabisgesetzes (KCanG) / Medizinal-Cannabisgesetz (MedCanG). Apotheken müssen verschreibungsrechtliche, lager- und dokumentationsrechtliche Pflichten beachten. Cannabis-Importe sind über die Cannabisagentur des BfArM (vormals) geregelt; aktueller Stand vom Anwender zu verifizieren.

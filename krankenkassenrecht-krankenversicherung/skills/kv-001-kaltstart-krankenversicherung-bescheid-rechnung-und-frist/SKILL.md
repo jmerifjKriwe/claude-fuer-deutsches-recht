@@ -89,4 +89,3 @@ Im sozialgerichtlichen Verfahren gilt der **Amtsermittlungsgrundsatz** (§ 103 S
 - Ärztliche Atteste und Befundberichte zeitnah anfordern
 - MDK-Gutachten stets anfordern (§ 276 Abs. 2 SGB V)
 - Widerspruchsbegründung mit konkreten Nachweisen belegen
-

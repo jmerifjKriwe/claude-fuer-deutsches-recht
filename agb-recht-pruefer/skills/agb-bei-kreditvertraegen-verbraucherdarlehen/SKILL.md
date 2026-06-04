@@ -5,9 +5,12 @@ description: "AGB bei Verbraucherdarlehensvertraegen. Skill behandelt AGB im Kon
 
 # Agb Bei Kreditvertraegen Verbraucherdarlehen
 
-## Aufgabe
+## Fachkern: Agb Bei Kreditvertraegen Verbraucherdarlehen
 
-Skill fuer AGB im Verbraucherdarlehen.
+- **Klauselproblem (Agb Bei Kreditvertraegen Verbraucherdarlehen):** AGB bei Verbraucherdarlehensvertraegen. Skill behandelt AGB im Kontext der §§ 491 ff. BGB Vorvertragliche Information Widerrufsrecht effektiver Jahreszins Sondervorschriften zu Restschuldversicherung Bearbeitungsentgelt Bearbeitungsgebuehr. BGH-Linien zur Wirksamkeit und Rueckforderung. Liefert Pruefraster.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
 
 ## Norm
 

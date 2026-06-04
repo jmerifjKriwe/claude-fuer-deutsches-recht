@@ -5,6 +5,13 @@ description: "Wehrbeschwerdeordnung Beschwerde Frist Form: prüft die einschläg
 
 # Wehrbeschwerdeordnung – Beschwerde, Frist und Form
 
+## Fachkern: Wehrbeschwerdeordnung – Beschwerde, Frist und Form
+- **Spezialgegenstand:** Wehrbeschwerdeordnung – Beschwerde, Frist und Form; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Die Wehrbeschwerdeordnung (WBO) ist der zentrale Rechtsschutzweg des Soldaten gegen truppendienstliche Maßnahmen, Befehle, Beurteilungen, Versetzungen, Verwendungsentscheidungen und sonstige Beeinträchtigungen seiner Rechtsstellung. Sie ist verbindlich und im Regelfall ausschließlich – ein direkter Verwaltungsgerichtsweg ist gesperrt. Der Skill führt durch Statthaftigkeit, Frist, Form, Zuständigkeit und Stufen der WBO.

@@ -5,6 +5,12 @@ description: "Einstieg in den Skill-Verbund Sozialrecht. Orientierung im Sozialr
 
 # Fachanwalt für Sozialrecht — Orientierung
 
+## Fachkern: Fachanwalt für Sozialrecht — Orientierung
+
+- **Spezialfrage (Fachanwalt für Sozialrecht — Orientierung):** Routing-Empfehlung zu passendem Folge-Skill. Abgrenzung zu mandat-triage-sozialrecht (Eingangstriage) und sozialrecht-fallaufnahme-routing (Master-Routing).
+- **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
+
+
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 

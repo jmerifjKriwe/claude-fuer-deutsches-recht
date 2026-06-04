@@ -5,6 +5,13 @@ description: "Beschwerde gegen JVEG-Kostenfestsetzungsbeschluss einlegen: Zuläs
 
 # JVEG-Festsetzung-Beschwerde
 
+## Fachkern: JVEG-Festsetzung-Beschwerde
+- **Spezialgegenstand:** JVEG-Festsetzung-Beschwerde wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** JVEG, GKG/KostR-Schnittstellen, Festsetzungsverfahren, Beschwerde, Vorschuss, Entschädigung, Sachverständigenvergütung und Belegpflicht.
+- **Entscheidende Weiche:** Trenne Rolle Zeuge/Sachverständiger/Dolmetscher, Zeitaufwand, Auslagen, Verdienstausfall, Vorschuss, Frist und Belegwert.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Aufgabe
 Begleite das Verfahren der gerichtlichen Kostenfestsetzung nach § 4 JVEG und bereite Erinnerung oder Beschwerde gegen Kostenfestsetzungsbeschlüsse vor.
 

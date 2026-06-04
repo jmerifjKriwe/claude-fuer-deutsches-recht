@@ -89,4 +89,3 @@ Die Familienversicherung erlaubt beitragsfreie Mitversicherung von Angehörigen.
 - [§ 6 Abs. 1 Nr. 1 SGB V – Versicherungsfreiheit Minijob](https://www.gesetze-im-internet.de/sgb_5/__6.html)
 - [§ 249b SGB V – Pauschalbeitrag Minijob](https://www.gesetze-im-internet.de/sgb_5/__249b.html)
 - [BSG-Rechtsprechung Familienversicherung](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
-

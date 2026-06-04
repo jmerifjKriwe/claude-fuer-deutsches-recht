@@ -5,6 +5,13 @@ description: "AI-Act-Transparenz in der Kanzlei prüfen: Mandantenchatbot, Websi
 
 # KI-VO-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz
 
+## Fachkern: KI-VO-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz
+- **Spezialgegenstand:** KI-VO-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, beA, Verschwiegenheit, Interessenkollision und Anwaltsgerichtsbarkeit.
+- **Entscheidende Weiche:** Pflichtnorm, Mandatsrolle, Verschulden, Kammerverfahren, Reputationsrisiko, Rechtsbehelf und milderes Organisationsmittel trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Startpunkt
 
 Prüfe zuerst die Rolle der Kanzlei: nutzt sie ein fremdes System nur intern, betreibt sie einen Mandantenchatbot, veröffentlicht sie KI-generierte Inhalte oder baut sie eine eigene Oberfläche auf einem Modell? Davon hängen Art. 4, Art. 50 und mögliche Anbieter-/Betreiberfragen ab.

@@ -5,6 +5,13 @@ description: "Strukturiert Spezial-AIF für PE/Private Credit mit Anlegeraufnahm
 
 # Spezial-AIF: professionelle und semiprofessionelle Anleger
 
+## Fachkern: Spezial-AIF: professionelle und semiprofessionelle Anleger
+- **Spezialgegenstand:** Spezial-AIF: professionelle und semiprofessionelle Anleger wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GmbHG, AktG, UmwG, GWB/FKVO, AWG/AWV, KAGB/AIFM-Bezug, LMA-Finanzierung, InsO/StaRUG, Steuer- und Managementbeteiligungsfragen.
+- **Entscheidende Weiche:** Bestimme Dealphase, Fondsrolle, Target-Risiko, Finanzierungsstruktur, Consent/CP, Exit-Auswirkung und Konflikt zwischen Sponsor, Management, Lender und Co-Investor.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 Der Skill liefert die Strukturlogik und Dokumentenmatrix für Spezial-AIF nach §§ 281 ff. KAGB. Fokus: deutsche institutionelle Investoren (Versicherer, Versorgungswerke, Family Offices) und semiprofessionelle Anleger (Mindestticket 200 000 EUR plus Eignungsprüfung). Spezial-AIF ist der dominierende Vehikeltyp für PE-, Infrastruktur- und Private-Credit-Fonds mit deutscher Anlegerbasis.

@@ -4,6 +4,13 @@ description: "Prüft Zahlungsdienstleistungen § 675c ff. BGB: Zahlungsauftrag, 
 ---
 # Geschäftsbesorgung und Zahlungsdienste
 
+## Fachkern: Geschäftsbesorgung und Zahlungsdienste
+- **Spezialgegenstand:** Geschäftsbesorgung und Zahlungsdienste; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
+- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Zweck
 
 Zahlungsdienstrecht nach §§ 675c–676c BGB prüfen: Zahlungsaufträge, Erstattungsansprüche bei unautorisierter Zahlung und Haftung bei Fehlüberweisungen.

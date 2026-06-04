@@ -5,31 +5,14 @@ description: "Bussgeldbescheid: Tatbestandsmerkmale, Beweisfragen und Beleglage 
 
 # Bussgeldbescheid: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `verkehrsowi-verteidiger`. Ausgangspunkt ist: Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und Amtsgericht.
-
-Er führt durch **Tatbestandsmerkmale, Beweisfragen und Beleglage** im Themenfeld **Bussgeldbescheid**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-## Norm- und Praxisanker
-
-- Bußgeldbescheid: §§ 65 ff. OWiG – Inhalt: Bezeichnung Betroffener, Tat, gesetzliche Merkmale, Beweismittel, Geldbuße, Nebenfolgen, Rechtsbehelfsbelehrung.
-- Einspruch: § 67 OWiG – zwei Wochen ab Zustellung; schriftlich oder zu Protokoll bei Behörde, die den Bescheid erlassen hat.
-- Vorschriften OWi-Verfahren: §§ 35 ff. OWiG (sinngemäße Anwendung StPO); § 71 OWiG Übergang ins Hauptverfahren beim AG nach Aktenabgabe.
-- Anhörung: § 55 OWiG – vor Erlass Bescheid, Betroffener muss Gelegenheit zur Äußerung erhalten.
-- Verjährung: § 26 Abs. 3 StVG – 3 Monate Verfolgungsverjährung Straßenverkehrs-OWi, ab Erlass Bußgeldbescheid 6 Monate (Unterbrechung § 33 OWiG durch Anhörung, Bescheid, Akteneinsichtsantrag).
-- BußgKatV: Tatbeständekatalog mit Regelbußgeldern, Punkten und Regelfahrverboten; relevant für die Standard-Tabelle (Geschwindigkeit, Abstand, Rotlicht).
-- Praxis-Tipp: Tatbestandsanalyse jedes Bußgeldbescheids – (1) Existenz Tatbestand im Katalog, (2) konkrete Tatumstände korrekt subsumiert, (3) Beweismittel benannt, (4) Rechtsbehelfsbelehrung korrekt. Lücken in (1)-(4) sind Einstellungs- oder Reduktions­hebel. Bei Akteneinsicht stets Messakte mit Eichschein, Schulung Messbeamter, Rohmessdaten anfordern.
+## Spezialwissen: Bussgeldbescheid: Tatbestandsmerkmale, Beweisfragen und Beleglage
+- **Spezialgegenstand:** Bussgeldbescheid: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial bussgeldbescheid tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Normen-/Quellenanker:** OWiG.
+- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
+- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
 
-## Fachlicher Zuschnitt
-
-- **Thema:** Bussgeldbescheid.
-- **Arbeitsfokus:** Tatbestandsmerkmale, Beweisfragen und Beleglage.
-- **Plugin-Rahmen:** Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Droge....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
+## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?

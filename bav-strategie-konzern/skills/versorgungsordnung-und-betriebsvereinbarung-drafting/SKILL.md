@@ -5,10 +5,12 @@ description: "Versorgungsordnung und Betriebsvereinbarung zur bAV-Einführung en
 
 # Versorgungsordnung und Betriebsvereinbarung — Drafting (Düsseldorfer Schule)
 
-**Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB**
-Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
+## Fachkern: Versorgungsordnung und Betriebsvereinbarung — Drafting (Düsseldorfer Schule)
 
----
+- **bAV-Problem:** §§ 1 17 BetrAVG, §§ 77 87 BetrVG. Prüfraster: Leistungszusagen, Unverfallbarkeit, Mitbestimmung, Finanzierungsklauseln. Output: Versorgungsordnungs-Entwurf und BV-Muster. Abgrenzung: nicht Geschäftsführervertrag.
+- **Normenanker:** BetrAVG, EStG/LSt, SGB IV, HGB/IFRS-Bilanzierung, InsO, ArbGG und arbeitsrechtliche Zusage-/Änderungsdogmatik je nach Durchführungsweg prüfen.
+- **Entscheidende Weiche:** Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen.
+- **Arbeitsprodukt:** bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
 
 ## Rechtsgrundlagen
 
@@ -19,12 +21,7 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - § 17 BetrAVG (persönlicher Geltungsbereich — auch leitende Angestellte)
 - §§ 77, 87 BetrVG (Betriebsvereinbarung als Regelungsform; Mitbestimmung § 87 Abs. 1 Nr. 8 und 10 BetrVG)
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - AGG §§ 1–26 (Diskriminierungsverbote — Geschlecht/Alter in Versorgungsregelungen)
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Quellenregel
 
@@ -33,7 +30,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ### Schritt 1: Strukturentscheidungen vor dem Drafting
 
-Vor Aufnahme des Drafting-Prozesses klärt Dr. von Sompeh-Ostermann mit dem Mandanten:
+Vor Aufnahme des Drafting-Prozesses klärt fachliche Leitung mit dem Mandanten:
 
 1. **Zusageart** gem. § 1 Abs. 2 BetrAVG: Leistungszusage / beitragsorientierte Leistungszusage / Beitragszusage mit Mindestleistung / reine DC-Zusage
 2. **Durchführungsweg** (→ Skill `pensionsmodelle-fuenf-durchfuehrungswege`)
@@ -126,7 +123,6 @@ eingetragene Lebenspartner 60 % der unverfallbaren Anwartschaft des Berechtigten
 (3) Voraussetzung für die Hinterbliebenenrente ist, dass die Ehe / Lebenspartnerschaft
 vor Eintritt des Versorgungsfalles geschlossen wurde.
     ANMERKUNG TREUENFELS YAMAMOTO: Eine Altersgrenze für die Eheschließung ist nach
-    Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
     reine "Spätehenklausel" (z.B. Heirat nach 60. Lebensjahr ausgeschlossen) ohne
     weitere sachliche Begründung ist unzulässig und AGG-widrig. Zulässig ist hingegen
     eine Klausel, die den Zeitpunkt der Eheschließung im Verhältnis zu bereits
@@ -173,7 +169,6 @@ Lage des Unternehmens überfordert (Schema im Skill `anpassungspruefung-paragrap
 § 10 Widerrufsvorbehalte
 (1) Das Unternehmen behält sich vor, die Versorgungsordnung mit Wirkung für die
 Zukunft zu ändern oder aufzuheben, soweit triftige Gründe i.S. der Drei-Stufen-Theorie
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Anwartschaften durch sachliche und verhältnismäßige Gründe gerechtfertigt ist.
 (2) Eingriffe in bereits erdiente Anwartschaften und in bereits laufende Renten
 (Stufe 1 der Drei-Stufen-Theorie) sind unzulässig.
@@ -190,7 +185,6 @@ Drei-Stufen-Theorie (→ Skill `drei-stufen-theorie-eingriffsanalyse`).
        Gestaltung als Gesamtversorgungszusage).
     ANMERKUNG: Gesamtversorgungszusagen mit Vollanrechnung der gesetzlichen Rente
     sind nach BAG-Rechtsprechung zulässig, aber bei Rentenreformen besonders
-    Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 § 12 Übertragung und Portabilität
 (1) Bei Beendigung des Arbeitsverhältnisses und Aufnahme einer neuen Beschäftigung

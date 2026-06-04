@@ -5,9 +5,12 @@ description: "Regelt fair, wer Mandate bringt, verkauft, führt und rettet. Für
 
 # Origination und Execution Credit
 
-## Wann dieser Skill passt
+## Fachkern: Origination und Execution Credit
 
-Dieser Skill gehört zum Cluster **Partner**. Er passt, wenn die Kanzleileitung nicht noch eine lose Meinung, sondern eine führbare Entscheidung braucht: Zahlen, Deutung, Owner, Frist und Kommunikationslinie.
+- **Managementproblem (Origination und Execution Credit):** Regelt fair, wer Mandate bringt, verkauft, führt und rettet. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+- **Kennzahlenanker:** Umsatz, UBT, FTE, Utilization, Realization, WIP, DSO, Lock-up, Write-offs, Pipeline, Leverage, Fluktuation und Mandatsrisiko nur zweckbezogen verwenden.
+- **Governance-Weiche:** Partnerpolitik, Mandatsgeheimnis, Interessenkollision, Berufsrecht, People-Risiko und Cashflow getrennt entscheiden; keine hübschen Dashboards ohne Beschlussfrage.
+- **Arbeitsprodukt:** Entscheidungsboard mit drei Optionen, Owner, Frist, Gegenrechnung, Kommunikationslinie und Review-Datum.
 
 ## Ausgangspunkt
 

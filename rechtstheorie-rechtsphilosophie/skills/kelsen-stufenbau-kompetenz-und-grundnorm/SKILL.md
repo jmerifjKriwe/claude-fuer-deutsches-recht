@@ -5,6 +5,13 @@ description: "Ordnet Normen im Stufenbau: Verfassung, Gesetz, Verordnung, Satzun
 
 # Stufenbau, Kompetenz und Normkette
 
+## Fachkern: Stufenbau, Kompetenz und Normkette
+- **Spezialgegenstand:** Stufenbau, Kompetenz und Normkette; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
+- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Aufgabe
 
 Dieser Skill baut aus einem diffusen Argument eine überprüfbare Normkette. Er ist besonders nützlich, wenn Verwaltung, Gericht, Verband, Unternehmen oder Gesetzgeber mit `Zuständigkeit`, `Satzung`, `Praxis`, `Gewohnheit`, `Anordnung`, `Richtlinie`, `Hausrecht` oder `Notwendigkeit` arbeiten.

@@ -5,9 +5,19 @@ description: "Rechtsabteilungs-Spezialskill für Schufa-Score und automatisierte
 
 # Rechtsabteilung: Schufa-Score und automatisierte Kreditentscheidung
 
-## Worum es geht
+## Fachkern: Rechtsabteilung: Schufa-Score und automatisierte Kreditentscheidung
+- **Spezialgegenstand:** Rechtsabteilung: Schufa-Score und automatisierte Kreditentscheidung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
+- **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+
+## Spezialkern: Rechtsabteilung: Schufa-Score und automatisierte Kreditentscheidung
+
+- **Konkretes Problem:** Kreditprozesse werden darauf geprüft, ob der Score nur Hilfsinformation oder faktisch entscheidend ist.
+- **Norm-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA, CRR/CRD, GwG, BGB/AGB, HGB, InsO/StaRUG und BaFin-/Bundesbank-Praxis.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

@@ -5,13 +5,14 @@ description: "Steuerberater: haftpflichtversicherung und schadenmeldung - Kaltst
 
 # Steuerberater: haftpflichtversicherung und schadenmeldung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
 
-## Einsatz
+## Konkreter Berufsrechtskern: Steuerberater: haftpflichtversicherung und schadenmeldung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
+- **Spezialgegenstand:** Steuerberater: haftpflichtversicherung und schadenmeldung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
+- **Normenanker:** StBerG, BOStB, StBVV, AO-Schnittstellen, GwG, Verschwiegenheit, Interessenkollision und berufsgerichtliches Verfahren.
+- **Institutionen:** Steuerberaterkammer, Berufsgerichtsbarkeit, Finanzverwaltung und bei Straf-/Bußgeldnähe die Ermittlungsbehörden.
+- **Spezialspur:** Pflichtversicherung, Deckung, Ausschlüsse, Anzeigeobliegenheiten und Regressfenster sichtbar machen.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
 
-Nutze diesen Skill im Plugin **Berufsrecht Steuerberater**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
-
-**Fokus:** haftpflichtversicherung und schadenmeldung; kaltstart mit faktenmatrix, risikoampel und fehlenden unterlagen im Berufsrecht der Steuerberater
-
-## Kaltstart
+## Fallweichen dieser Speziallage
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

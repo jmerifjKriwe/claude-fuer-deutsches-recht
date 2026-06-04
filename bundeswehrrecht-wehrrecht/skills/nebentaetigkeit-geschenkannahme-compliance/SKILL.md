@@ -5,6 +5,13 @@ description: "Nebentätigkeit Geschenkannahme Compliance: prüft die einschlägi
 
 # Nebentätigkeit und Geschenkannahme – Compliance des Soldaten
 
+## Fachkern: Nebentätigkeit und Geschenkannahme – Compliance des Soldaten
+- **Spezialgegenstand:** Nebentätigkeit und Geschenkannahme – Compliance des Soldaten; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Soldaten dürfen Nebentätigkeiten nur eingeschränkt und nur nach vorheriger Genehmigung ausüben (§ 20 SG). Die Annahme von Belohnungen, Geschenken und sonstigen Vorteilen ist nach § 19 SG grundsätzlich verboten. Der Skill ordnet die Genehmigungspflichten, prüft Versagungsgründe, dokumentiert Compliance-Verstöße und schützt vor strafrechtlichen Konsequenzen (§§ 331 ff. StGB Vorteilsannahme/Bestechlichkeit).

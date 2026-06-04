@@ -89,4 +89,3 @@ Dieser Skill klärt, **wie eine Person in der gesetzlichen Krankenversicherung v
 - [§ 9 SGB V – Freiwillige Versicherung](https://www.gesetze-im-internet.de/sgb_5/__9.html)
 - [§ 10 SGB V – Familienversicherung](https://www.gesetze-im-internet.de/sgb_5/__10.html)
 - [§ 240 SGB V – Beiträge freiwillig Versicherter](https://www.gesetze-im-internet.de/sgb_5/__240.html)
-

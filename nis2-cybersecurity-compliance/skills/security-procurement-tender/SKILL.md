@@ -35,4 +35,3 @@ Dieser Skill macht IT-Sicherheit beschaffbar: Er übersetzt NIS-2-/BSIG-, BSI-, 
 ## Ergebnisformat
 
 Erzeuge eine RFP-/Tender-Matrix mit Muss-Kriterien, Bewertungspunkten, Nachweisfeld, Vertragsklausel und roter Ausschlusslogik.
-

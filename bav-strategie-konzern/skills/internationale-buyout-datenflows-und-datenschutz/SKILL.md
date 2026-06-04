@@ -5,11 +5,12 @@ description: "Datenfluesse bei internationalem bAV-Buyout datenschutzrechtlich a
 
 # Internationale Buyout-Datenflows und Datenschutz
 
-**Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB**
-Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
-Kyoto-Büro-Beteiligung: Yuki Yamamoto-Brennecke (APPI/PIPC-Expertise)
+## Fachkern: Internationale Buyout-Datenflows und Datenschutz
 
----
+- **bAV-Problem:** DSGVO, Drittlandtransfers. Normen: DSGVO Art. 44 ff., BDSG. Prüfraster: Datenkategorie, Transfermechanismen, Einwilligung vs. Vertrag. Output: Datenschutz-Memo internationaler bAV-Buyout. Abgrenzung: nicht Datenverarbeitung im laufenden bAV-Betrieb.
+- **Normenanker:** BetrAVG, EStG/LSt, SGB IV, HGB/IFRS-Bilanzierung, InsO, ArbGG und arbeitsrechtliche Zusage-/Änderungsdogmatik je nach Durchführungsweg prüfen.
+- **Entscheidende Weiche:** Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen.
+- **Arbeitsprodukt:** bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
 
 ## Rechtsgrundlagen
 
@@ -66,7 +67,6 @@ Bei jedem Pension Buyout (Buy-in, Buy-out, Longevity Swap) werden hochsensible p
 ### Schritt 3: Drittlandtransfers
 
 #### Deutschland → USA
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 **Aktuell:** EU-US Data Privacy Framework (DPF) — Angemessenheitsbeschluss vom 10.7.2023 (Beschluss 2023/1795). US-Unternehmen, die sich selbst-zertifiziert haben, gelten als ausreichend geschützt.
 **Risiko:** Schrems III — politische Stabilität des DPF ungewiss. Empfehlung: Parallel immer EU-SCC (Standard Contractual Clauses) als Fallback.
 
@@ -81,7 +81,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 Japan APPI (最終改正 2022年, 施行 2022年4月) schreibt vor:
 - Bei Übermittlung personenbezogener Daten ins Ausland: Information des Betroffenen + Einwilligung, es sei denn Ausnahmetatbestand (Art. 24 APPI a.F. / Art. 28 APPI n.F.)
 - PIPC-Richtlinien: Drittlandtransfer nur in Länder mit ausreichendem Schutzniveau (Japan hat EU auf diese Liste gesetzt) oder mit vertraglicher Absicherung
-- Yuki Yamamoto-Brennecke koordiniert APPI-Compliance für das Kyoto-Büro
+- Japan-/Datenschutz-Team koordiniert APPI-Compliance für das Kyoto-Büro
 
 **Versicherer-Datenraum Japan:**
 Bei Einbindung japanischer Versicherungsgesellschaften in einen globalen Buyout ist zu beachten:
@@ -153,7 +153,7 @@ jedoch innerhalb von 24 Stunden nach Feststellung, an den Verantwortlichen.
 
 ```
 CHECKLISTE DRITTLANDTRANSFER DSGVO Art. 46
-Treuenfels Yamamoto · Dr. von Sompeh-Ostermann
+bAV-Projektteam · fachliche Leitung
 
 Empfängerland USA:
 □ Empfänger im EU-US DPF-Register eingetragen? (www.dataprivacyframework.gov)
@@ -165,7 +165,7 @@ Empfängerland USA:
 Empfängerland Japan:
 □ Angemessenheitsbeschluss EU-Kommission 2019/419 für Japan: Gültig (Stand 2024)
 □ APPI-Compliance des japanischen Empfängers bestätigt?
-□ Yuki Yamamoto-Brennecke (Kyoto-Büro) für PIPC-Fragen eingebunden?
+□ Japan-/Datenschutz-Team (Kyoto-Büro) für PIPC-Fragen eingebunden?
 
 UK:
 □ UK GDPR Angemessenheitsbeschluss gültig?
@@ -202,7 +202,6 @@ Allgemein:
 
 ## Aktuelle Rechtsprechung und Leitsaetze (Ergaenzung v14.2)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellenregel
 

@@ -5,6 +5,13 @@ description: "Antragstyp sauber wählen: Standard Application, Single-author-Opt
 
 # Standard, Single oder Gruppenregistrierung
 
+## Fachkern: Standard, Single oder Gruppenregistrierung
+- **Spezialgegenstand:** Standard, Single oder Gruppenregistrierung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
+- **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Aufgabe
 
 Entscheide den richtigen Antragstyp. Der Skill bremst die typische Verlagsidee, „gleich zehn Titel in einen Standard-Antrag zu packen“, wenn dafür eine spezielle Gruppenoption oder getrennte Anträge nötig sind.

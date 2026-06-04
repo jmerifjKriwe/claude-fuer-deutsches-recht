@@ -5,6 +5,13 @@ description: "Vergleichsverhandlung und Einigungsstrategie im Medizinrecht: Anwe
 
 # Vergleichsverhandlung und Einigung im Arzthaftungs-, Berufs- und Vertragsarztrecht
 
+## Fachkern: Vergleichsverhandlung und Einigung im Arzthaftungs-, Berufs- und Vertragsarztrecht
+- **Spezialgegenstand:** Vergleichsverhandlung und Einigung im Arzthaftungs-, Berufs- und Vertragsarztrecht wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
+- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Wann dieser Skill greift
 
 - Sachverhalte aus dem Bereich Arzthaftungs-, Berufs- und Vertragsarztrecht, in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.

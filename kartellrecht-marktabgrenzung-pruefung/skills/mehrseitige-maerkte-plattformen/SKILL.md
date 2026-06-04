@@ -5,6 +5,13 @@ description: "Workflow-Skill zu mehrseitige maerkte plattformen. Nutzt Normtext,
 
 # Mehrseitige Märkte und Plattformen
 
+## Fachkern: Mehrseitige Märkte und Plattformen
+- **Spezialgegenstand:** Mehrseitige Märkte und Plattformen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
+- **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Grundproblem
 
 Klassische Marktdefinition setzt einen Preis voraus. Plattformmärkte sind häufig zweiseitig: Eine Seite erhält Dienste kostenlos (Nutzer), die andere Seite zahlt (Werbetreibende, Entwickler). Keine der klassischen Marktdefinitionsmethoden greift ohne Anpassung.

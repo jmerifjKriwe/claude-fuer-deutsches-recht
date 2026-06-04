@@ -5,25 +5,18 @@ description: "Drei-Stufen-Theorie bei Eingriffen in Versorgungsanwartschaften an
 
 # Drei-Stufen-Theorie — Eingriffsanalyse betrieblicher Versorgungsrechte
 
-**Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB**
-Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
+## Fachkern: Drei-Stufen-Theorie — Eingriffsanalyse betrieblicher Versorgungsrechte
 
----
+- **bAV-Problem:** erdiente und noch erdienbare Anwartschaften. Normen: §§ 2 7 BetrAVG, BVerfG-Rechtsprechung. Prüfraster: Stufen-Einordnung, Eingriffsrechtfertigung, Verhältnismäßigkeit. Output: Eingriffsanalyse bAV Drei-Stufen. Abgrenzung: nicht kollektivrechtliche Lösungen.
+- **Normenanker:** BetrAVG, EStG/LSt, SGB IV, HGB/IFRS-Bilanzierung, InsO, ArbGG und arbeitsrechtliche Zusage-/Änderungsdogmatik je nach Durchführungsweg prüfen.
+- **Entscheidende Weiche:** Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen.
+- **Arbeitsprodukt:** bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
 
 ## Rechtsgrundlagen
 
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - §§ 1, 2, 16 BetrAVG (Unverfallbarkeit, Berechnung, Anpassung)
 - §§ 77, 87 BetrVG (Betriebsvereinbarung; erzwingbare Mitbestimmung)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Quellenregel
 
@@ -32,7 +25,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ### Schritt 1: Systemverständnis Drei-Stufen-Theorie
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Grundprinzip:** Je stärker der Eingriff in eine bereits erdiente Position, desto gewichtiger müssen die Rechtfertigungsgründe des Arbeitgebers sein.
 
@@ -42,9 +34,8 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Gegenstand:** Bereits vollständig erdiente Anwartschaften und laufende Renten — d.h. die nach § 2 Abs. 1 BetrAVG berechnete unverfallbare Anwartschaft zum Eingriffszeitpunkt (m/n-tel-Anteil der Vollleistung). Bei Rentnern: bereits laufende Rente.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**Praxisregel Treuenfels Yamamoto:** Kein Mandant, dem Dr. von Sompeh-Ostermann berät, darf Stufe-1-Positionen anfassen. Jeder Entwurf einer Änderungsregelung enthält den expliziten Besitzstandsschutz (→ Template Besitzstandsklausel).
+**Praxisregel bAV-Projektteam:** Kein Mandant, dem fachliche Leitung berät, darf Stufe-1-Positionen anfassen. Jeder Entwurf einer Änderungsregelung enthält den expliziten Besitzstandsschutz (→ Template Besitzstandsklausel).
 
 #### Stufe 2 — Erdiente Dynamik (Future Appreciation of Past Service)
 
@@ -58,7 +49,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Gegenstand:** Anwartschaftszuwächse aus künftig noch zu leistenden Dienstjahren — also der Teil der Versorgungsanwartschaft, der noch nicht erdient ist.
 
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Beispiel:** Schließung des Versorgungswerks für künftige Dienstjahre (future service freeze) mit Besitzstandsschutz für Stufen 1 und 2 → nur sachliche Gründe erforderlich.
 
@@ -90,8 +80,8 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ```
 EINGRIFFSANALYSE DREI-STUFEN-THEORIE
-Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB
-Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann
+bAV-Projektteam
+Federführung: fachliche Leitung
 
 Mandant:      [Konzern Muster AG]
 Maßnahme:     [Beschreibung der geplanten Änderung]
@@ -140,7 +130,7 @@ C. ERGEBNIS
 D. EMPFEHLUNG
    [Konkrete Handlungsempfehlung; ggf. Alternativgestaltung]
 
-Erstellt von: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
+Erstellt von: fachliche Leitung, LL.M. (Oxford)
 Datum:        [Datum]
 ```
 
@@ -167,7 +157,7 @@ für Dienstzeiten nach dem [Stichtag] (Future Service).
 
 ```
 CHECKLISTE — RECHTFERTIGUNGSGRÜNDE DREI-STUFEN-THEORIE
-Treuenfels Yamamoto · Dr. von Sompeh-Ostermann
+bAV-Projektteam · fachliche Leitung
 
 Für Stufe-2-Eingriffe (triftige Gründe):
 □ Jahresabschlüsse letzter drei Jahre (HGB, ggf. IFRS)
@@ -198,7 +188,7 @@ Für Stufe-3-Eingriffe (sachliche Gründe):
 
 3. **Individualvertragliche Änderungen:** Selbst wenn Arbeitnehmer einer Versorgungsänderung zustimmt (Änderungsvertrag), schützt die Drei-Stufen-Theorie vor unzulässigen Stufe-1-Eingriffen — AGB-Kontrolle und § 307 BGB (unangemessene Benachteiligung) gelten zusätzlich.
 
-4. **Dokumentationsdefizite sind tödlich:** Fehlen die Rechtfertigungsunterlagen, nimmt das BAG eine unzulässige Ermessensausübung an. Dr. von Sompeh-Ostermann besteht auf vollständiger Dokumentation vor jeder Kommunikation der Maßnahme.
+4. **Dokumentationsdefizite sind tödlich:** Fehlen die Rechtfertigungsunterlagen, nimmt das BAG eine unzulässige Ermessensausübung an. fachliche Leitung besteht auf vollständiger Dokumentation vor jeder Kommunikation der Maßnahme.
 
 ---
 

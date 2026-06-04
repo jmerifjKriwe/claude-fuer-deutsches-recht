@@ -5,6 +5,13 @@ description: "Red-Team gegen dezisionistische Ausnahmezustandsrhetorik: Krise, N
 
 # Dezisionismus und Ausnahmezustand: Red-Team
 
+## Fachkern: Dezisionismus und Ausnahmezustand: Red-Team
+- **Spezialgegenstand:** Dezisionismus und Ausnahmezustand: Red-Team; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
+- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Aufgabe
 
 Dieser Skill prüft Aussagen, die in Richtung `in der Krise entscheidet am Ende die Macht` kippen. Er ist bewusst kritisch gegenüber Carl-Schmitt-nahen Denkfiguren und verwandter Ausnahmezustandsrhetorik. Ziel ist nicht literarische Theoriepflege, sondern die praktische Frage: Wird Recht hier durch politische Entscheidung, Exekutivmacht oder Krisennarrativ verdrängt?

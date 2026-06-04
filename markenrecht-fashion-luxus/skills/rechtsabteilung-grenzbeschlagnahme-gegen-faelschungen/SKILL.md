@@ -5,9 +5,19 @@ description: "Rechtsabteilungs-Spezialskill für Grenzbeschlagnahme gegen Fälsc
 
 # Rechtsabteilung: Grenzbeschlagnahme gegen Fälschungen
 
-## Worum es geht
+## Fachkern: Rechtsabteilung: Grenzbeschlagnahme gegen Fälschungen
+- **Spezialgegenstand:** Rechtsabteilung: Grenzbeschlagnahme gegen Fälschungen; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+
+## Spezialkern: Rechtsabteilung: Grenzbeschlagnahme gegen Fälschungen
+
+- **Konkretes Problem:** Zollanträge, Muster, Vernichtungsverfahren und Beweissicherung werden vorbereitet.
+- **Norm-/Quellenanker:** MarkenG, UMV, DesignG, UWG, UrhG, Zoll-/Grenzbeschlagnahme, Plattformhaftung und Erschöpfung.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

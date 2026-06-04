@@ -5,6 +5,13 @@ description: "Prüft CE-Kennzeichnung, irreführende Werbung, fehlende Unterlage
 
 # CE-Kennzeichnung, Fehlgebrauch und Abmahnung
 
+## Fachkern: CE-Kennzeichnung, Fehlgebrauch und Abmahnung
+- **Spezialgegenstand:** CE-Kennzeichnung, Fehlgebrauch und Abmahnung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftungsrecht, ProdSG/GPSR, AI Act, MDR/MPDG bei Medizinrobotik, DSGVO, Cybersecurity/NIS2 und Arbeitsschutz.
+- **Entscheidende Weiche:** Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 Falsche CE-Kennzeichnung, fehlende EU-Konformitätserklärung, irreführende Werbung mit nicht erlangten Zertifikaten oder vorgetäuschten Prüfsiegeln sind klassische Felder für Abmahnungen nach UWG, behördliche Verfügungen (Marktüberwachung) und – seit GPSR VO (EU) 2023/988 – auch direkte Marktverbote. In der Robotik betreffen mehrere Rechtsakte gleichzeitig die CE: MaschinenVO, KI-VO, CRA, Funkanlagengesetz (FuAG), ggf. MDR. Dieser Skill prüft eine CE-Akte und gibt sowohl Verteidigungs- als auch Angriffsschriftsätze.

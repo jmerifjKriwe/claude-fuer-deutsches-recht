@@ -5,6 +5,13 @@ description: "GOÄ § 1 Anwendungsbereich berufliche Leistungen: prüft die eins
 
 # GOÄ § 1 Anwendungsbereich berufliche Leistungen
 
+## Fachkern: GOÄ § 1 Anwendungsbereich berufliche Leistungen
+- **Spezialgegenstand:** GOÄ § 1 Anwendungsbereich berufliche Leistungen wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GOÄ, BGB-Behandlungsvertrag, ärztliches Berufsrecht, § 12 GOÄ-Rechnung, Analogbewertung, Honorarvereinbarung, Erstattung PKV/Beihilfe.
+- **Entscheidende Weiche:** Prüfe Leistungsinhalt, Ziffer, Steigerungsfaktor, Begründung, Auslagen, Wahlleistung, Schuldner, Erstattungsfähigkeit und Einwendungsfrist.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 § 1 GOÄ definiert den Anwendungsbereich der Gebührenordnung für Ärzte: Berufliche Leistungen approbierter Ärzte gegenüber Privatpatienten und Selbstzahlern. GKV-Leistungen sind nicht von der GOÄ erfasst (EBM, § 87 SGB V). Abgrenzung: nichtärztliche Leistungen, IGel, Wahlleistungen Krankenhaus, telemedizinische Leistungen — alle haben ihre eigenen Spezialregeln, gehen aber im Grundsatz auf § 1 GOÄ zurück.

@@ -5,6 +5,13 @@ description: "Dienstzeiten SaZ, BeruSold, FWDL: prüft SG §§ 23–32, Verläng
 
 # Dienstzeit: Soldat auf Zeit, Berufssoldat, FWDL
 
+## Fachkern: Dienstzeit: Soldat auf Zeit, Berufssoldat, FWDL
+- **Spezialgegenstand:** Dienstzeit: Soldat auf Zeit, Berufssoldat, FWDL; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Die Dienstzeit ist statusdefinierend: FWDL (7–23 Monate), SaZ (2–20 Jahre in Abschnitten), Berufssoldat (bis Pensionsalter). Statusübergänge (z. B. SaZ zu BeruSold) erfordern gesondertes Verfahren.

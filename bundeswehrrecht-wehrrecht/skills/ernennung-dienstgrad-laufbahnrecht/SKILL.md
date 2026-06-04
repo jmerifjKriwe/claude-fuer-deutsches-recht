@@ -5,6 +5,13 @@ description: "Ernennung, Dienstgrad, Laufbahnrecht: prüft SG §§ 1–5, Laufba
 
 # Ernennung, Dienstgrad und Laufbahnrecht
 
+## Fachkern: Ernennung, Dienstgrad und Laufbahnrecht
+- **Spezialgegenstand:** Ernennung, Dienstgrad und Laufbahnrecht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Ernennung und Beförderung erfordern Eignung, Befähigung und fachliche Leistung (Art. 33 Abs. 2 GG). Die SLV regelt Laufbahngruppen (Mannschaften, Unteroffiziere, Offiziere), Voraussetzungen und Wartezeiten.

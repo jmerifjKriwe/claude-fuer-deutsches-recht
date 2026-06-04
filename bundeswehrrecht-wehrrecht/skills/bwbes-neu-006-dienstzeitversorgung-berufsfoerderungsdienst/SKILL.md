@@ -5,6 +5,13 @@ description: "Dienstzeitversorgung und BFD: prüft SVG §§ 1–26, Übergangsge
 
 # Dienstzeitversorgung und Berufsförderungsdienst
 
+## Fachkern: Dienstzeitversorgung und Berufsförderungsdienst
+- **Spezialgegenstand:** Dienstzeitversorgung und Berufsförderungsdienst; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Soldaten auf Zeit erhalten nach Entlassung Übergangsgebührnisse (§ 5 SVG) und haben Anspruch auf Berufsförderung (BFD). Berufssoldaten erhalten ab bestimmten Dienstzeiten Ruhegehalt (§§ 13 ff. SVG).

@@ -5,6 +5,13 @@ description: "Sachlichen Markt mit dem SSNIP-Test abgrenzen ob ein hypothetische
 
 # SSNIP-Test — Anwendung
 
+## Fachkern: SSNIP-Test — Anwendung
+- **Spezialgegenstand:** SSNIP-Test — Anwendung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
+- **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Grundprinzip
 
 Der SSNIP-Test (auch: Hypothetischer-Monopolisten-Test, HMT) fragt: Wäre eine kleine, aber spürbare und dauerhafte Preiserhöhung (5–10 Prozent) für einen hypothetischen Monopolisten auf dem zu prüfenden Produktsatz profitabel?

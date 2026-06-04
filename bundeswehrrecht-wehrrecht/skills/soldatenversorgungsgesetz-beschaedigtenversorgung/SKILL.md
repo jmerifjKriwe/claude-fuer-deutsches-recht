@@ -5,6 +5,13 @@ description: "Soldatenversorgungsgesetz Beschädigtenversorgung: prüft die eins
 
 # Soldatenversorgungsgesetz – Beschädigtenversorgung
 
+## Fachkern: Soldatenversorgungsgesetz – Beschädigtenversorgung
+- **Spezialgegenstand:** Soldatenversorgungsgesetz – Beschädigtenversorgung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Das SVG regelt Versorgung wegen Wehrdienstbeschädigung (WDB), Hinterbliebenenversorgung, Berufsförderung und ergänzende Versorgung. Eine Wehrdienstbeschädigung ist eine gesundheitliche Schädigung, die durch eine Wehrdienstverrichtung, durch einen während der Ausübung des Wehrdienstes erlittenen Unfall oder durch die dem Wehrdienst eigentümlichen Verhältnisse verursacht worden ist (§ 81 SVG). Der Skill ordnet Anspruchsgrundlagen, Verfahren und Bescheidstrategie.

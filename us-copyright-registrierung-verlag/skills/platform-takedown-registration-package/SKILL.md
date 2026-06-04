@@ -5,6 +5,13 @@ description: "Plattform- und Takedown-Paket: Registrierung, Rechtekette, Infring
 
 # Platform Takedown Registration Package
 
+## Fachkern: Platform Takedown Registration Package
+- **Spezialgegenstand:** Platform Takedown Registration Package; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
+- **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Aufgabe
 
 Bereite ein Paket für Plattformstreitigkeiten vor, wenn Verlagstitel in den USA oder auf US-Plattformen kopiert, trainiert, gespiegelt oder verkauft werden. Der Skill ersetzt keine US-Rechtsberatung, schafft aber die Nachweislage.

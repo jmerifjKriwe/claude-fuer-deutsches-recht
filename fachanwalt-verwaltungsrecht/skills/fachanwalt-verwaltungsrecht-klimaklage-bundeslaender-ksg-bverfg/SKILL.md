@@ -5,6 +5,12 @@ description: "Workflow-Skill zu fachanwalt verwaltungsrecht klimaklage bundeslae
 
 # Klimaklage gegen Bundesländer — KSG / BVerfG 2021
 
+## Fachkern: Klimaklage gegen Bundesländer — KSG / BVerfG 2021
+
+- **Spezialfrage (Klimaklage gegen Bundesländer — KSG / BVerfG 2021):** Workflow-Skill zu fachanwalt verwaltungsrecht klimaklage bundeslaender ksg bverfg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+- **Prüfzugriff:** Sachverhalt, Norm, Zugang/Form/Frist oder Anspruchsvoraussetzung zuerst klären; Rechtsprechung erst danach als verifizierten Beleg nutzen.
+
+
 ## Zweck
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

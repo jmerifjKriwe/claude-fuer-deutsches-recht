@@ -5,6 +5,13 @@ description: "Freistehende M&A-Aktenanlage ohne externes Plugin: Anwendungsfall 
 
 # Freistehende M&A-Aktenanlage
 
+## Fachkern: Freistehende M&A-Aktenanlage
+- **Spezialgegenstand:** Freistehende M&A-Aktenanlage; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
+- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Kernsachverhalt
 
 In jeder Corporate/M&A-Transaktion ist die ordnungsgemäße Aktenführung die Grundlage für Qualitätssicherung, Haftungsvermeidung und Mandatseffizienz. Eine unstrukturierte Akte führt zu Dokumentenverlusten, Fristversäumnissen, Doppelarbeit und — im Streitfall — zu Beweisnachteilen. Die M&A-Aktenanlage erfasst alle Transaktionselemente vom ersten Kontakt bis zur Closing Bible: Parteien, Rollen, Handelsregisterdaten, Workstreams, Vertraulichkeitsstufen, Datenraumspiegel, Q&A-Register und Fristen. Sie schafft die interne Governance-Struktur, die in komplexen Multi-Party-Transaktionen mit zahlreichen Beratern und Banken unverzichtbar ist.
@@ -225,7 +232,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->
 
-<!-- gk-ma-v61-agentic-boost -->
 
 ## V61 Deal-OS Boost
 

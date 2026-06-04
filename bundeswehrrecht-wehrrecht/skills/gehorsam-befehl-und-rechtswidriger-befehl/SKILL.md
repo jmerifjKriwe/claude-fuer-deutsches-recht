@@ -5,6 +5,13 @@ description: "Gehorsam Befehl und rechtswidriger Befehl: prüft die einschlägig
 
 # Gehorsam, Befehl und rechtswidriger Befehl
 
+## Fachkern: Gehorsam, Befehl und rechtswidriger Befehl
+- **Spezialgegenstand:** Gehorsam, Befehl und rechtswidriger Befehl; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Der Soldat schuldet nach § 11 SG Gehorsam gegenüber dienstlichen Befehlen seines Vorgesetzten. Der Befehl ist eine Anweisung zu einem bestimmten Verhalten, die mit dem Anspruch auf Gehorsam erteilt wird (§ 2 Nr. 2 WStG). Die Gehorsamspflicht endet jedoch dort, wo Strafrecht, Menschenwürde oder dienstlicher Zweck verletzt würden. Der Skill ordnet die Konstellation ein und führt durch Remonstration, Befehlsverweigerung und Verteidigung in einem etwaigen WStG- oder WDO-Verfahren.

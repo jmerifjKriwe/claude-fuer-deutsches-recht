@@ -5,6 +5,13 @@ description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im
 
 # Debitorenkommunikation und Abtretungsanzeige
 
+## Fachkern: Debitorenkommunikation und Abtretungsanzeige
+- **Spezialgegenstand:** Debitorenkommunikation und Abtretungsanzeige; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
+- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Die **Abtretungsanzeige** ist der formale Akt, mit dem die Abtretung der Forderung dem Debitor mitgeteilt wird. Sie verändert den **Schuldnerschutz**: Vor Anzeige darf der Debitor nach § 407 BGB an den Altgläubiger zahlen mit befreiender Wirkung; nach Anzeige nur noch an den Neugläubiger (§ 409 BGB). Die Anzeige ist nicht zwingend für die Wirksamkeit der Abtretung, aber für die operative Umlenkung der Zahlungen.

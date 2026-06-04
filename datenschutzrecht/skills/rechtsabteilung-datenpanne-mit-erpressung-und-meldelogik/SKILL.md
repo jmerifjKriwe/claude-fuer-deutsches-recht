@@ -5,9 +5,12 @@ description: "Rechtsabteilungs-Spezialskill für Datenpanne mit Erpressung und M
 
 # Rechtsabteilung: Datenpanne mit Erpressung und Meldelogik
 
-## Worum es geht
+## Spezialkern: Rechtsabteilung: Datenpanne mit Erpressung und Meldelogik
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+- **Konkretes Problem:** 72-Stunden-Meldung, Forensik, Betroffenenkommunikation und Litigation Hold werden praktisch geführt.
+- **Norm-/Quellenanker:** DSGVO, BDSG, TTDSG/TDDDG, Landesdatenschutzrecht, OWiG/StPO-Schnittstelle bei Bußgeldern, EuGH/BVerwG/BGH-Linien nur verifiziert.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

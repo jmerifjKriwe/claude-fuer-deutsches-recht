@@ -5,31 +5,14 @@ description: "Bussgeld: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwa
 
 # Bussgeld: Zahlen, Schwellenwerte und Berechnung
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-verkehrsrecht`. Ausgangspunkt ist: Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezuege. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (§§ 315c 316 StGB). Schnittstelle Plugin kanzlei-allgemein.
-
-Er führt durch **Zahlen, Schwellenwerte und Berechnung** im Themenfeld **Bussgeld**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-## Norm- und Praxisanker
-
-- Bußgeldrahmen OWi-Verkehr: § 24 StVG i.V.m. BußgKatV; Standardsätze für typische Verstöße; Regelfahrverbot bei groben Verstößen § 25 StVG.
-- Erhöhung Geldbuße: §§ 17 Abs. 3 OWiG (wirtschaftliche Verhältnisse), § 17 Abs. 4 OWiG (Vorteilabschöpfung); Gewerbliche Tätigkeit (Berufskraftfahrer) BGH/OLG-Linie: Höhere Bemessung wegen erhöhter Sorgfaltspflichten.
-- Verwarnungsgeld: § 56 OWiG – bis 55 EUR ohne förmliches Verfahren; bei Zahlung kein Bußgeldbescheid.
-- Verjährung: § 26 Abs. 3 StVG – 3 Monate Verfolgungs­verjährung im OWi-Verfahren (Standardstraßen­verkehr); Unterbrechung § 33 OWiG.
-- Punkte: § 4 StVG, BußgKatV Anlage – Punkte je nach Tatbestand; Punktestand abrufen § 30 StVG.
-- Strafzumessung Tagessätze (§ 315c, § 316 StGB): § 40 StGB Tagessatzsystem (Nettoeinkommen/30).
-- Praxis-Tipp: Standardtabelle BußgKatV als Anker, aber bei Sonderfällen (Probefahrt, Berufskraftfahrer, mehrere Verstöße eines Ereignisses) Abweichungen prüfen. Bei wirtschaftlich starken Betroffenen § 17 Abs. 3 OWiG-Erhöhung droht; bei Beweisproblemen Reduzierung über § 47 OWiG (Opportunität) anstreben.
+## Spezialwissen: Bussgeld: Zahlen, Schwellenwerte und Berechnung
+- **Spezialgegenstand:** Bussgeld: Zahlen, Schwellenwerte und Berechnung / spezial bussgeld zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG, BußgKatV, OWiG.
+- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
+- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
 
-## Fachlicher Zuschnitt
-
-- **Thema:** Bussgeld.
-- **Arbeitsfokus:** Zahlen, Schwellenwerte und Berechnung.
-- **Plugin-Rahmen:** Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezuege. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (§§....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
+## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?

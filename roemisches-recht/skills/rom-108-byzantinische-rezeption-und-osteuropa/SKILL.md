@@ -28,4 +28,3 @@ Dieser Skill verfolgt byzantinisches Recht in seine **Rezeptionsräume**: orthod
 - Rezeptionskarte mit Quellenkanälen.
 - Synopse nach Raum und Institut.
 - Unsicherheitsampel für starke, mittlere oder schwache Einflussbehauptung.
-

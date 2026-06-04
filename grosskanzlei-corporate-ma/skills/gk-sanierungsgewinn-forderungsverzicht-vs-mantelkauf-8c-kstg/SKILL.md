@@ -5,6 +5,13 @@ description: "Konkurrenz und Wechselwirkung von Forderungsverzicht (§ 3a EStG) 
 
 # Sanierungsgewinn – Forderungsverzicht vs. Mantelkauf § 8c KStG
 
+## Fachkern: Sanierungsgewinn – Forderungsverzicht vs. Mantelkauf § 8c KStG
+- **Spezialgegenstand:** Sanierungsgewinn – Forderungsverzicht vs. Mantelkauf § 8c KStG; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
+- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Worum geht es
 
 Die wahrscheinlich häufigste Sanierungs-Falle in der Praxis ist die Kombination aus **Forderungsverzicht** und **Anteilseignerwechsel** im selben Restrukturierungsschritt. Geschieht der Anteilseignerwechsel über 50 % vor dem Wirksamwerden des Verzichts, schlägt § 8c Abs. 1 Satz 1 KStG zu: der Verlustvortrag ist im Grundsatz untergegangen. Wenn dann der Forderungsverzicht den Sanierungsertrag erzeugt, gibt es keinen Verlustvortrag mehr, der ihn nach § 3a Abs. 3 EStG aufzehrt; der Sanierungsertrag bleibt zwar steuerfrei nach § 3a Abs. 1 EStG, aber andere mögliche Verlustnutzungen sind weg. Im umgekehrten Fall – Verzicht vor Anteilseignerwechsel – ist der Verlustvortrag bereits durch den Sanierungsertrag verbraucht; der spätere § 8c KStG-Effekt findet keinen Verlustvortrag mehr vor.
@@ -145,7 +152,6 @@ Drei Beobachtungen aus jahrzehntelanger Restrukturierungspraxis:
 
 - `steuerrecht-anwalt-und-berater/stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Drei-Phasen-Analyse fuer stehen gelassene Verbindlichkeiten in der Liquidation als Plan-B-Pfad zum Mantelkauf-Szenario.
 
-<!-- gk-ma-v61-agentic-boost -->
 
 ## V61 Deal-OS Boost
 

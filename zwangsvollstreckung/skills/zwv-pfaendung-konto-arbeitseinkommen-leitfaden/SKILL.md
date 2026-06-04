@@ -5,10 +5,14 @@ description: "Leitfaden Pfaendung Konto und Arbeitseinkommen §§ 850 ff. ZPO: P
 
 # ZwV: Konto Arbeitseinkommen
 
-## Aufgabe
-Leitfaden Pfaendung Konto und Arbeitseinkommen §§ 850 ff.
+## Spezialwissen: ZwV: Konto Arbeitseinkommen
+- **Spezialgegenstand:** ZwV: Konto Arbeitseinkommen / zwv pfaendung konto arbeitseinkommen leitfaden. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Normen-/Quellenanker:** ZPO, ZwV, BGH, BVerfG.
+- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
+- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
-## Kaltstart
+
+## Fallweichen
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
@@ -19,7 +23,7 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 
 ## Pruefraster
 
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
 2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.

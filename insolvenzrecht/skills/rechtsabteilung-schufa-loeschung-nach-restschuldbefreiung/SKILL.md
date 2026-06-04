@@ -5,9 +5,12 @@ description: "Rechtsabteilungs-Spezialskill für Schufa-Löschung nach Restschul
 
 # Rechtsabteilung: Schufa-Löschung nach Restschuldbefreiung
 
-## Worum es geht
+## Spezialkern: Rechtsabteilung: Schufa-Löschung nach Restschuldbefreiung
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+- **Konkretes Problem:** Bonitätsdaten nach Insolvenz werden auf Speicherfrist und Löschungsanspruch geprüft.
+- **Norm-/Quellenanker:** InsO, StaRUG, EuInsVO, AnfG, HGB/GmbHG/AktG-Schnittstellen, ausländische Insolvenzverwalter und register-/grundbuchtauglicher Nachweis.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

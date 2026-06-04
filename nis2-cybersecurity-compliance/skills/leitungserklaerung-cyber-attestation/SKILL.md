@@ -35,4 +35,3 @@ Dieser Skill hilft Geschäftsführung, Vorstand, CISO und Legal dabei, eine inte
 ## Ergebnisformat
 
 Erzeuge eine zweistufige Ausgabe: erst eine rote Vorprüfung der nicht unterschriftsreifen Punkte, danach eine unterschriftsfähige Fassung mit Anlagenverzeichnis und Vorbehalten.
-

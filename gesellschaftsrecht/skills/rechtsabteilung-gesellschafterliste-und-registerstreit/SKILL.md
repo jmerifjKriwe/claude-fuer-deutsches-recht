@@ -5,9 +5,19 @@ description: "Rechtsabteilungs-Spezialskill für Gesellschafterliste und Registe
 
 # Rechtsabteilung: Gesellschafterliste und Registerstreit
 
-## Worum es geht
+## Fachkern: Rechtsabteilung: Gesellschafterliste und Registerstreit
+- **Spezialgegenstand:** Rechtsabteilung: Gesellschafterliste und Registerstreit; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
+- **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+
+## Spezialkern: Rechtsabteilung: Gesellschafterliste und Registerstreit
+
+- **Konkretes Problem:** Liste, Legitimationswirkung, Widerspruch und Registersperre werden als Fristenplan bearbeitet.
+- **Norm-/Quellenanker:** GmbHG, AktG, MoPeG/BGB-Gesellschaftsrecht, HGB, UmwG, Registerrecht, Treuepflicht, Organhaftung und Beschlussmängelrecht.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

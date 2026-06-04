@@ -5,6 +5,13 @@ description: "Beschwerde gegen Beurteilung und Laufbahnentscheidung: prüft die 
 
 # Beschwerde gegen Beurteilung und Laufbahnentscheidung
 
+## Fachkern: Beschwerde gegen Beurteilung und Laufbahnentscheidung
+- **Spezialgegenstand:** Beschwerde gegen Beurteilung und Laufbahnentscheidung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Die Beurteilung (planmäßig oder Anlassbeurteilung) und die darauf gestützte Laufbahnentscheidung (Beförderung, Verwendungsentscheidung, Auswahlentscheidung) sind die Grundlage der Karriere des Soldaten. Beide sind im WBO-Weg anfechtbar (§ 1 WBO). Der Skill ordnet Beurteilungssystematik, Beschwerdegegenstände und Eilrechtsschutz im Konkurrentenstreit.

@@ -5,6 +5,13 @@ description: "Leitfaden Organstreit Art. 93 Abs. 1 Nr. 1 GG: Beteiligtenfaehigke
 
 # VfgR: Organstreit
 
+## Fachkern: VfgR: Organstreit
+- **Spezialgegenstand:** VfgR: Organstreit wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GG, BVerfGG, VwGO/ZPO/StPO-Schnittstellen, Gesetzgebungskompetenz, Grundrechte, Verfassungsbeschwerde, konkrete/abstrakte Normenkontrolle.
+- **Entscheidende Weiche:** Prüfe Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Frist, Prüfungsmaßstab, Einschätzungsprärogative und Folgenabwägung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Aufgabe
 Leitfaden Organstreit nach Art. 93 I Nr. 1 GG, §§ 13 Nr. 5, 63 ff. BVerfGG. Pruefung von Beteiligtenfaehigkeit, Antragsgegenstand, Antragsbefugnis und Frist.
 

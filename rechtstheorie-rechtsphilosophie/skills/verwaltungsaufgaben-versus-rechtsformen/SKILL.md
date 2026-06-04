@@ -5,6 +5,13 @@ description: "Balanciert Aufgabenlogik und Rechtsformen in der Verwaltung: Funkt
 
 # Verwaltungsaufgabe versus Rechtsform
 
+## Fachkern: Verwaltungsaufgabe versus Rechtsform
+- **Spezialgegenstand:** Verwaltungsaufgabe versus Rechtsform; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
+- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Aufgabe
 
 Dieser Skill verhindert zwei Fehler: bloßen Formenformalismus, der reale Verwaltungsaufgaben ignoriert, und bloßen Funktionalismus, der Rechtsformen als lästige Hülle behandelt. Er fragt: Welche Aufgabe soll gelöst werden, und welche Rechtsform trägt sie rechtsstaatlich sauber?

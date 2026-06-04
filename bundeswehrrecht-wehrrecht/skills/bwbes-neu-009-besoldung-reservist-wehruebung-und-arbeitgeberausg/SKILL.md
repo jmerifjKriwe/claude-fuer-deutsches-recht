@@ -5,6 +5,13 @@ description: "Besoldung Reservisten, Wehrübung, Arbeitgeberausgleich: prüft Ar
 
 # Besoldung Reservist: Wehrübung und Arbeitgeberausgleich
 
+## Fachkern: Besoldung Reservist: Wehrübung und Arbeitgeberausgleich
+- **Spezialgegenstand:** Besoldung Reservist: Wehrübung und Arbeitgeberausgleich; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Reservisten haben während Wehrübung Anspruch auf Wehrsold (WSG) und Unterhaltssicherung (UhSiG). Ihr Arbeitgeber ist zur Freistellung verpflichtet (ArbPlSchG) und darf nicht kündigen (§ 4 ArbPlSchG).

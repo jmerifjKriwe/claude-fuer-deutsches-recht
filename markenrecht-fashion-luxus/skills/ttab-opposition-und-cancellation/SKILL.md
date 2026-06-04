@@ -5,6 +5,13 @@ description: "TTAB-Opposition und Cancellation in den USA führen: aeltere Marke
 
 # TTAB — Trademark Trial and Appeal Board
 
+## Fachkern: TTAB — Trademark Trial and Appeal Board
+- **Spezialgegenstand:** TTAB — Trademark Trial and Appeal Board; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Das TTAB ist das quasi-gerichtliche Verwaltungsgericht des USPTO für Markenstreitigkeiten. J. Halston Whitman III, Esq. (Whitman Brennan Forsythe LLP, USD 1.450/h) vertritt klôtzzkètté Inc. vor dem TTAB; Steinacker Lichtenberg München koordiniert die europäische Prior-Rights-Dokumentation und strategische Positionierung.
 
 Opposition und Cancellation beim TTAB sind vollständige adversarielle Verfahren mit Discovery, Trial und Briefing — fast wie Bundesgerichtspraxis, aber im Verwaltungsformat.

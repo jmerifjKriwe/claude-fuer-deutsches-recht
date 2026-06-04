@@ -5,6 +5,13 @@ description: "Kernschritt jeder Marktabgrenzung: sachlicher Markt aus Nachfrager
 
 # Produktmarkt — Nachfragesubstitution
 
+## Fachkern: Produktmarkt — Nachfragesubstitution
+- **Spezialgegenstand:** Produktmarkt — Nachfragesubstitution; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
+- **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Rechtlicher Rahmen
 
 Die Nachfragesubstituierbarkeit ist das primäre Instrument der sachlichen Marktabgrenzung. Die Kommission folgt in ihrer Bekanntmachung zur Marktdefinition (2024) dem Grundsatz: Ein Markt umfasst alle Produkte, die aus Sicht der Nachfrager funktionell austauschbar sind.

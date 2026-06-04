@@ -5,10 +5,12 @@ description: "Betriebliche Altersversorgung im M-und-A-Deal strukturieren: Haftu
 
 # Pension Buyout im M&A-Deal — Asset vs. Share Deal
 
-**Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB**
-Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
+## Fachkern: Pension Buyout im M&A-Deal — Asset vs. Share Deal
 
----
+- **bAV-Problem:** Haftungsuebernahme bei Asset- vs. Share-Deal. Normen: §§ 4 28 BetrAVG, UmwG. Prüfraster: Haftungsuebergang, Versorgungsverpflichtungen, PSV-Haftung, Bilanzrisiken. Output: Haftungsanalyse bAV M-und-A-Deal. Abgrenzung: nicht laufende bAV-Verwaltung.
+- **Normenanker:** BetrAVG, EStG/LSt, SGB IV, HGB/IFRS-Bilanzierung, InsO, ArbGG und arbeitsrechtliche Zusage-/Änderungsdogmatik je nach Durchführungsweg prüfen.
+- **Entscheidende Weiche:** Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen.
+- **Arbeitsprodukt:** bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
 
 ## Rechtsgrundlagen
 
@@ -20,8 +22,6 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - §§ 242, 249 ff. BGB (Gewährleistung, Schadensersatz, SPA-Garantien)
 - W&I-Versicherung: VVG §§ 49 ff. (versicherungsvertragsrechtliche Grundlagen), marktübliche Policy-Bedingungen
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IAS 36 (Impairment of Assets — Goodwill-Werthaltigkeitsprüfung nach Akquisition; Pensionslasten als Faktor)
 - IFRS 3 (Business Combinations — Ansatz und Bewertung übernommener Pensionsverpflichtungen)
 
@@ -46,11 +46,11 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 **Carve-out:**
 - Herauslösung einer Teileinheit; § 613a BGB gilt für den herausgelösten Betriebsteil
 - Pensionsverpflichtungen müssen dem richtigen Rechtsträger zugeordnet werden (oft streitig)
-- Treuenfels Yamamoto empfiehlt: Klare Zuordnungsliste als Anlage zur SPA
+- bAV-Projektteam empfiehlt: Klare Zuordnungsliste als Anlage zur SPA
 
 ### Schritt 2: Pension Due Diligence
 
-Dr. von Sompeh-Ostermann führt stets eine dedizierte **Pension Due Diligence (PDD)** durch, bestehend aus:
+fachliche Leitung führt stets eine dedizierte **Pension Due Diligence (PDD)** durch, bestehend aus:
 
 **Phase 1 — Quantitative Analyse:**
 1. IAS 19-DBO: Vollständige aktuarielle Bewertung, Annahmen prüfen (Diskontierungszins, Sterbetafeln, Gehaltstrendannahme)
@@ -72,7 +72,7 @@ Dr. von Sompeh-Ostermann führt stets eine dedizierte **Pension Due Diligence (P
 
 **ABC-Klauseln (Altzusagen/Bestandszusagen/Carve-out-Zuordnung):**
 
-Dr. von Sompeh-Ostermann strukturiert drei Kategorien:
+fachliche Leitung strukturiert drei Kategorien:
 - **A-Kategorie:** Pensionsverpflichtungen, die vollständig auf Käufer übergehen (mit erworbenen Arbeitnehmern)
 - **B-Kategorie:** Pensionsverpflichtungen Rentner und unverfallbar Ausgeschiedener — verbleiben beim Veräußerer (Freistellungsvereinbarung)
 - **C-Kategorie:** Umstrittene Zuordnungen — Sonderregelung im SPA (Streitbeilegungsklausel, Escrow-Lösung)
@@ -110,7 +110,6 @@ Pensionsverpflichtungen, die in Anlage [X] nicht enthalten sind.
 
 (b) Rechtmäßigkeit: Alle Versorgungsordnungen, Betriebsvereinbarungen und
 Einzelzusagen der Zielgesellschaft zur BAV entsprechen den Anforderungen des
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 392/06. Es bestehen keine rechtlichen Angriffspunkte gegen die Wirksamkeit
 bestehender Eingriffe in Versorgungsrechte.
 
@@ -164,8 +163,8 @@ Vertraulich — Nur für Empfänger bestimmt
 Mandant (Käufer):    [Konzern Käufer AG]
 Zielgesellschaft:    [Zielgesellschaft GmbH]
 Datum:               [Datum]
-Federführung:        Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
-                     Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB
+Federführung:        fachliche Leitung, LL.M. (Oxford)
+                     bAV-Projektteam
 
 EXECUTIVE SUMMARY
 
@@ -215,5 +214,3 @@ EMPFEHLUNG:
 - → `drei-stufen-theorie-eingriffsanalyse` — historische Eingriffe als DD-Befunde
 
 ## Ergaenzende Rechtsprechung (v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

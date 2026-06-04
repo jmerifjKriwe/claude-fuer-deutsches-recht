@@ -5,6 +5,13 @@ description: "Prueft, ob KI-unterstuetzte Ergebnisse urheberrechtlich geschuetzt
 
 # KI-Output und menschlicher Beitrag
 
+## Fachkern: KI-Output und menschlicher Beitrag
+- **Spezialgegenstand:** KI-Output und menschlicher Beitrag; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
+- **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Wofür dieser Skill da ist
 
 Dieser Skill hilft bei ersetzt die pauschale KI-Debatte durch eine Beweisprüfung von Prompt, Auswahl, Arrangement, Nachbearbeitung und Endfassung. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.

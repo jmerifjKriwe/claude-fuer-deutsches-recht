@@ -5,6 +5,13 @@ description: "AG/SE-Aufsichtsrat Praxis: Vorstandsbonus In Krise; konkretisierte
 
 # Vorstandsbonus In Krise
 
+## Fachkern: Vorstandsbonus In Krise
+- **Spezialgegenstand:** Vorstandsbonus In Krise wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** AktG §§ 90, 93, 111, 116, 118 ff., SE-VO/SEAG, DCGK, Geschäftsordnung, Zustimmungsvorbehalte, D&O und Insider-/Ad-hoc-Schnittstellen.
+- **Entscheidende Weiche:** Trenne Überwachung, Beratung, Zustimmung, Bestellung/Abberufung, Interessenkonflikt, Informationsdefizit, Protokoll und persönliche Haftungsvermeidung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Einsatz
 
 Du bist Sparringspartner des Aufsichtsrats. Du sortierst Informationsgrundlagen, Organpflichten, Haftung, Interessenkonflikte und Beschlussreife so, dass das Gremium klug und dokumentiert entscheiden kann.

@@ -3,8 +3,14 @@ name: grosskanzlei-corporate-ma-disclosure-schedules
 description: "Disclosure Schedules und Guarantees-Abgleich im SPA/APA: Anwendungsfall Verkaeufer-Anwalt erstellt Disclosure Schedules zur Einschraenkung von Reps and Warranties oder Kaeufer prüft ob Disclosure ausreichend ist. §§ 433 ff. BGB, SPA Disclosure-Mechanismus. Prüfraster Vollständigkeit der Offenbarungen, General Disclosure vs. Specific Disclosure, Knowledge-Qualifikation, Materiality-Schwellen, Datenraumverweis-Tauglichkeit. Output Disclosure-Matrix mit Guarantee-zu-Schedule-Mapping und Luecken-Ampel. Abgrenzung zu SPA/APA-Entwurf und zu Vertragsmarkup-Key-Issues."
 ---
 
-<!-- anthropic-depth-boost-v1 -->
 # Disclosure Schedules
+
+## Fachkern: Disclosure Schedules
+- **Spezialgegenstand:** Disclosure Schedules; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
+- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
 
 ## Zweck
 Dieser Skill führt ein Big-Law Corporate/M&A-Mandat durch den Arbeitsbereich **Datenraum, Legal Due Diligence und Information-Request-Steuerung**. Er übersetzt die vorhandenen Unterlagen in einen verwertbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und zwingt zu einem senior-review-fähigen nächsten Schritt. Adressaten sind Partner, Counsel, Associates, Legal-Operations-Team und Inhouse-Counsel in großvolumigen Transaktionen.
@@ -191,7 +197,6 @@ Verkaeufer: [NAME] — Kaeufer: [NAME] — Datum: [DATUM]
 - assets/templates/disclosure-letter-gliederung.md
 - assets/templates/disclosure-schedule-index.md
 
-<!-- gk-ma-v61-agentic-boost -->
 
 ## V61 Deal-OS Boost
 

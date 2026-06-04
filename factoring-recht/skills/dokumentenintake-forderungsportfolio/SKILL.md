@@ -5,6 +5,13 @@ description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im
 
 # Dokumentenintake Forderungsportfolio
 
+## Fachkern: Dokumentenintake Forderungsportfolio
+- **Spezialgegenstand:** Dokumentenintake Forderungsportfolio; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
+- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Vor jedem Forderungsankauf, vor jedem Portfolio-Audit und vor jeder Sonderprüfung steht der **Dokumentenintake**: das geordnete Einlesen, Strukturieren und Klassifizieren der Unterlagen, die der Kunde zur Verfügung stellt. Beim Mengen-Geschäft (mehrere Tausend Forderungen pro Monat) entscheidet die Qualität des Intake-Prozesses über die spätere Beweisbarkeit jeder einzelnen Forderung.

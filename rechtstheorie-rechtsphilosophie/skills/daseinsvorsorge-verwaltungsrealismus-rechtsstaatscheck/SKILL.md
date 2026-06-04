@@ -5,6 +5,13 @@ description: "Prueft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- u
 
 # Daseinsvorsorge und Verwaltungsrealismus
 
+## Fachkern: Daseinsvorsorge und Verwaltungsrealismus
+- **Spezialgegenstand:** Daseinsvorsorge und Verwaltungsrealismus; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
+- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Aufgabe
 
 Dieser Skill nimmt ernst, dass moderne Verwaltung nicht nur verbietet, sondern Versorgung, Infrastruktur, Sicherheit, Gesundheit, Energie, Verkehr, Daten- und Krisenmanagement organisiert. Zugleich verhindert er, dass diese Aufgabenlogik Grundrechte, Kompetenzgrenzen und Rechtsschutz verdrängt.

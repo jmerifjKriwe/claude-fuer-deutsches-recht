@@ -5,6 +5,13 @@ description: "Soldatenbesoldung Grundgehalt Dienstgrad: prüft BBesG-Gruppen, St
 
 # Soldatenbesoldung: Grundgehalt und Dienstgrad
 
+## Fachkern: Soldatenbesoldung: Grundgehalt und Dienstgrad
+- **Spezialgegenstand:** Soldatenbesoldung: Grundgehalt und Dienstgrad; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Das Grundgehalt von Berufssoldaten und Soldaten auf Zeit richtet sich nach der Besoldungsgruppe (A-Besoldung), die mit dem Dienstgrad korrespondiert. Der Stufenaufstieg nach § 27 BBesG ist erfahrungsabhängig.

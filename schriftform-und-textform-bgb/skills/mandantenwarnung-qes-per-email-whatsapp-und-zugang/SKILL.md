@@ -5,6 +5,12 @@ description: "Workflow-Skill zu mandantenwarnung qes per email whatsapp und zuga
 
 # Mandantenwarnung: qES per E-Mail und WhatsApp — Zugang im Mietverhältnis
 
+## Fachkern: Mandantenwarnung: qES per E-Mail und WhatsApp — Zugang im Mietverhältnis
+
+- **Spezialfrage (Mandantenwarnung: qES per E-Mail und WhatsApp — Zugang im Mietverhältnis):** Workflow-Skill zu mandantenwarnung qes per email whatsapp und zugang. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+- **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
+
+
 ## Rechtsgrundlagen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

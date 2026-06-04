@@ -5,6 +5,13 @@ description: "Gesetzentwurf auf Grundgesetz-Konformität prüfen bevor Gesetzgeb
 
 # Gesetzentwurf — GG-Konformität prüfen (Gesetzgebersicht)
 
+## Fachkern: Gesetzentwurf — GG-Konformität prüfen (Gesetzgebersicht)
+- **Spezialgegenstand:** Gesetzentwurf — GG-Konformität prüfen (Gesetzgebersicht) wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GG, BVerfGG, VwGO/ZPO/StPO-Schnittstellen, Gesetzgebungskompetenz, Grundrechte, Verfassungsbeschwerde, konkrete/abstrakte Normenkontrolle.
+- **Entscheidende Weiche:** Prüfe Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Frist, Prüfungsmaßstab, Einschätzungsprärogative und Folgenabwägung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Disclaimer
 
 Diese Prüfung dient der Gesetzgebungsvorbereitung in Ministerien und Regierungsstellen. Die verbindliche Klärung der Verfassungsmäßigkeit eines Gesetzes erfolgt im Streitfall ausschließlich durch das BVerfG (Art. 100 GG; Art. 93 Abs. 1 Nr. 2, 2a GG). Diese Prüfung ist eine Unterstützung und **kein Ersatz** für externe gutachterliche Beratung durch eine verfassungsrechtliche Spezialkanzlei.

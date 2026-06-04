@@ -5,6 +5,13 @@ description: "Freistehender Tabellenreview für Corporate M&A-Dokumente Datenpun
 
 # Freistehender Tabellenreview
 
+## Fachkern: Freistehender Tabellenreview
+- **Spezialgegenstand:** Freistehender Tabellenreview; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
+- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Kernsachverhalt
 
 Tabellen, Datenräume und Dokumentenmatrizen in M&A-Transaktionen sind fehleranfällig: Formelbrüche in Excel-Modellen, widersprüchliche Umsatzzahlen in Finance vs. Commercial Workstreams, fehlende Anlagen zu Verträgen, inkonsistente Währungsangaben und veraltete Stichtage. Der Tabellenreview bringt Struktur in die Massendatenprüfung, indem er einen dreidimensionalen Review-Würfel aufbaut: Zeilen (Dokumente oder Datenpunkte), Spalten (Prüfungsfragen und Kriterien), Blätter (Workstream-Perspektiven). Er schützt vor teuren Post-Closing-Überraschungen und ist Grundlage für Q&A-Listen und Disclosure Schedules.
@@ -208,7 +215,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - §§ 242, 249, 252, 256a, 264 HGB; IDW S 1
 
-<!-- gk-ma-v61-agentic-boost -->
 
 ## V61 Deal-OS Boost
 

@@ -5,6 +5,13 @@ description: "Schatten-KI in der Kanzlei verhindern: private Accounts, Smartphon
 
 # Schatten-KI und Kanzlei-Team-Policy
 
+## Fachkern: Schatten-KI und Kanzlei-Team-Policy
+- **Spezialgegenstand:** Schatten-KI und Kanzlei-Team-Policy; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, beA, Verschwiegenheit, Interessenkollision und Anwaltsgerichtsbarkeit.
+- **Entscheidende Weiche:** Pflichtnorm, Mandatsrolle, Verschulden, Kammerverfahren, Reputationsrisiko, Rechtsbehelf und milderes Organisationsmittel trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Warum dieser Skill wichtig ist
 
 Das größte Risiko entsteht selten im offiziellen Rollout, sondern im Alltag: ein Associate übersetzt schnell eine Zeugenaussage, das Sekretariat lädt einen Schriftsatz in ein PDF-Tool, die Partnerin nutzt einen privaten Chatbot auf dem Handy. Die berufsrechtliche Frage lautet dann nicht nur: "War das Tool erlaubt?", sondern auch: "Warum hatte die Kanzlei keine praxistaugliche Alternative?"

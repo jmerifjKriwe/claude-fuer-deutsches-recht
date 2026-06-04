@@ -90,4 +90,3 @@ Bei Arbeitsunfällen zahlt die Berufsgenossenschaft Verletztengeld statt der GKV
 - [§ 44 SGB V – Krankengeld](https://www.gesetze-im-internet.de/sgb_5/__44.html)
 - [§ 105 SGB X – Erstattungsanspruch nachrangiger Träger](https://www.gesetze-im-internet.de/sgb_10/__105.html)
 - [BSG – Abgrenzung Verletztengeld/Krankengeld](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
-

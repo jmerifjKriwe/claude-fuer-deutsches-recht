@@ -5,13 +5,14 @@ description: "Anwälte: robe werbung und gerichtstermin - Kammerantwort mit Verf
 
 # Anwälte: robe werbung und gerichtstermin - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
-## Einsatz
+## Konkreter Berufsrechtskern: Anwälte: robe werbung und gerichtstermin - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
+- **Spezialgegenstand:** Anwälte: robe werbung und gerichtstermin - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
+- **Normenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, beA-Pflichten, anwaltliche Verschwiegenheit und anwaltsgerichtliches Verfahren.
+- **Institutionen:** Rechtsanwaltskammer, Anwaltsgericht, AGH/BGH-Anwaltssenat und gegebenenfalls Aufsichts-/Strafbehörden.
+- **Spezialspur:** Werbung an Sachlichkeitsgebot, Irreführungsverbot, Mandatsakquise und berufsrechtlicher Außendarstellung messen.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
 
-Nutze diesen Skill im Plugin **Berufsrecht Anwälte**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
-
-**Fokus:** robe werbung und gerichtstermin; kammerantwort mit verfahrensstrategie, tonlage und belegplan im Berufsrecht der Anwälte
-
-## Kaltstart
+## Fallweichen dieser Speziallage
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

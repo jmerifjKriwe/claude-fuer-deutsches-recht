@@ -5,11 +5,12 @@ description: "Internationale bAV-Systeme im Konzern harmonisieren: Governance, F
 
 # Internationale Harmonisierung Konzern-BAV
 
-**Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB**
-Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
-Kyoto-Büro: Yuki Yamamoto-Brennecke (bengoshi + RAin, Shijō-dōri, Gion-Higashi)
+## Fachkern: Internationale Harmonisierung Konzern-BAV
 
----
+- **bAV-Problem:** Governance, Finanzierungsniveaus, lokale Compliance. Normen: IORP-II, lokale Pensionsgesetze, BetrAVG. Prüfraster: Harmonisierungsziele, rechtliche Grenzen, Umsetzungsplan. Output: Internationaler Harmonisierungsplan bAV. Abgrenzung: nicht Country-by-Country-Matrix (Bestandsaufnahme).
+- **Normenanker:** BetrAVG, EStG/LSt, SGB IV, HGB/IFRS-Bilanzierung, InsO, ArbGG und arbeitsrechtliche Zusage-/Änderungsdogmatik je nach Durchführungsweg prüfen.
+- **Entscheidende Weiche:** Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen.
+- **Arbeitsprodukt:** bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
 
 ## Rechtsgrundlagen
 
@@ -49,7 +50,7 @@ Erster Schritt bei jedem internationalen Mandat: lückenlose Bestandsaufnahme al
 
 ### Schritt 2: Country-by-Country Analyse
 
-Treuenfels Yamamoto erstellt für jeden Konzern-Mandanten eine länderspezifische Analyse folgender Kernländer (Hauptmärkte DE/UK/US/FR/SG/JP):
+bAV-Projektteam erstellt für jeden Konzern-Mandanten eine länderspezifische Analyse folgender Kernländer (Hauptmärkte DE/UK/US/FR/SG/JP):
 
 #### Deutschland
 - Fünf Durchführungswege (→ Skill `pensionsmodelle-fuenf-durchfuehrungswege`)
@@ -91,11 +92,11 @@ Treuenfels Yamamoto erstellt für jeden Konzern-Mandanten eine länderspezifisch
 - Tax-Qualified Pension Plan (適格退職年金制度 tekikaku taishokukin seido): Auslaufmodell (sunset 2012) — Bestände müssen umgestellt sein; Altfälle prüfen
 - Kikin-gata kigyou nenkin (基金型企業年金): Stiftungsbasierter Plan
 - Aufsicht: Kinyu-cho (FSA Japan) und Kosei-rodo-sho (厚生労働省 — Ministerium für Gesundheit, Arbeit und Soziales)
-- Japanisches Benefit-Recht: sehr detailreich; Kyoto-Büro Yuki Yamamoto-Brennecke federführend (→ Skill `japan-bav-und-corporate-pension-iorp`)
+- Japanisches Benefit-Recht: sehr detailreich; Kyoto-Büro Japan-/Datenschutz-Team federführend (→ Skill `japan-bav-und-corporate-pension-iorp`)
 
 ### Schritt 3: Global Benefits Policy (GBP)
 
-Dr. von Sompeh-Ostermann entwickelt für Konzern-Mandanten eine Global Benefits Policy als konzerninterne Weisung:
+fachliche Leitung entwickelt für Konzern-Mandanten eine Global Benefits Policy als konzerninterne Weisung:
 
 **Bestandteile GBP:**
 1. **Mindeststandards:** Definiert konzernweit verpflichtende Mindest-Benefits (z.B. mindestens 3 % Arbeitgeberanteil BAV wo zulässig; Invaliditäts- und Todesfallschutz)
@@ -125,8 +126,8 @@ Dr. von Sompeh-Ostermann entwickelt für Konzern-Mandanten eine Global Benefits 
 ```
 GLOBAL PENSION INVENTORY REPORT
 [Konzern Muster AG], Berichtsjahr [JJJJ]
-Erstellt durch: Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB
-Verantwortlich: Prof. Dr. Adalbert von Sompeh-Ostermann
+Erstellt durch: bAV-Projektteam
+Verantwortlich: fachliche Leitung
 
 EXECUTIVE SUMMARY
 
@@ -173,7 +174,6 @@ JP    |   [X] |          [X] |      [X]% | Mittel      | DC-Reform
 
 ## Aktuelle Rechtsprechung und Leitsaetze (Ergaenzung v14.2)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellenregel
 

@@ -5,6 +5,13 @@ description: "Kindes- und Ehegattenunterhalt vollständig berechnen: Mandant tre
 
 # Unterhaltsberechnung
 
+## Fachkern: Unterhaltsberechnung
+- **Spezialgegenstand:** Unterhaltsberechnung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
+- **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Aktuelle Rechtsprechung (verifiziert, Stand 05/2026)
 
 - BGH, Beschluss vom 22.01.2025 - XII ZB 148/24: Bemessung des angemessenen Selbstbehalts des unterhaltspflichtigen Kindes beim Elternunterhalt; Familienselbstbehalt bei verheirateten Unterhaltspflichtigen (§ 1603 Abs. 1 BGB, § 94 Abs. 1a SGB XII). Quelle: bundesgerichtshof.de bzw. dejure.org vor Verwendung verifizieren.

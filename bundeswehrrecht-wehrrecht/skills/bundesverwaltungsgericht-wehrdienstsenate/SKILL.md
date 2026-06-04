@@ -5,6 +5,13 @@ description: "Bundesverwaltungsgericht Wehrdienstsenate: prüft die einschlägig
 
 # Bundesverwaltungsgericht – Wehrdienstsenate
 
+## Fachkern: Bundesverwaltungsgericht – Wehrdienstsenate
+- **Spezialgegenstand:** Bundesverwaltungsgericht – Wehrdienstsenate; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Die Wehrdienstsenate des BVerwG (1. und 2. Wehrdienstsenat) entscheiden über Rechtsmittel aus WDO und WBO sowie über erstinstanzliche Anträge in eng begrenzten Fällen (insbesondere Konkurrentenstreit gegen Maßnahmen höherer Vorgesetzter, § 21 WBO). Sie sind die höchste Instanz im Wehrdienstrecht und legen die Auslegung von SG, WBO, WDO maßgebend fest. Der Skill ordnet ein, wann das BVerwG Wehrdienstsenat zuständig ist und wie das Verfahren abläuft.

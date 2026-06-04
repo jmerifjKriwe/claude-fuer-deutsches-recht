@@ -5,9 +5,19 @@ description: "Rechtsabteilungs-Spezialskill für Influencer-Brand-Use und Ersch�
 
 # Rechtsabteilung: Influencer-Brand-Use und Erschöpfung
 
-## Worum es geht
+## Fachkern: Rechtsabteilung: Influencer-Brand-Use und Erschöpfung
+- **Spezialgegenstand:** Rechtsabteilung: Influencer-Brand-Use und Erschöpfung; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+
+## Spezialkern: Rechtsabteilung: Influencer-Brand-Use und Erschöpfung
+
+- **Konkretes Problem:** Affiliate-Posts, Hashtags und Resale werden auf Marken- und Werberecht geprüft.
+- **Norm-/Quellenanker:** MarkenG, UMV, DesignG, UWG, UrhG, Zoll-/Grenzbeschlagnahme, Plattformhaftung und Erschöpfung.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

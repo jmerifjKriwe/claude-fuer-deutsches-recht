@@ -5,6 +5,13 @@ description: "Prüft Pitch Deck, PPM, Zeichnungsschein, Vertriebsanzeige, Revers
 
 # Fundraising und Vertrieb: Teaser bis Subscription
 
+## Fachkern: Fundraising und Vertrieb: Teaser bis Subscription
+- **Spezialgegenstand:** Fundraising und Vertrieb: Teaser bis Subscription wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GmbHG, AktG, UmwG, GWB/FKVO, AWG/AWV, KAGB/AIFM-Bezug, LMA-Finanzierung, InsO/StaRUG, Steuer- und Managementbeteiligungsfragen.
+- **Entscheidende Weiche:** Bestimme Dealphase, Fondsrolle, Target-Risiko, Finanzierungsstruktur, Consent/CP, Exit-Auswirkung und Konflikt zwischen Sponsor, Management, Lender und Co-Investor.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 Der Skill verhindert, dass Vertrieb vor Regulierungs- und Compliance-Freigabe losläuft. Kernprüfung: KAGB-Vertriebsregime (§§ 293 ff. für inländische AIF, §§ 320 ff. für EU-AIF, § 330 ff. für ausländische AIF), Reverse-Solicitation-Doktrin, MiFID-Geeignetheitsprüfung, MAR-relevante Marketing-Vermerke und Greenwashing-Risiken nach SFDR.

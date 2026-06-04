@@ -5,6 +5,13 @@ description: "Bösgläubige Markenanmeldung, Sperrmarke und Trittbrettfahrer pr�
 
 # Bösgläubige Anmeldung und Sperrmarke
 
+## Fachkern: Bösgläubige Anmeldung und Sperrmarke
+- **Spezialgegenstand:** Bösgläubige Anmeldung und Sperrmarke; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Aufgabe
 
 Prüfe, ob eine Marke als Sperr- oder Trittbrettfahrermarke angegriffen werden kann oder ob ein Bösgläubigkeitsvorwurf abgewehrt werden muss.

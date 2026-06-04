@@ -5,6 +5,13 @@ description: "Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko: prüft 
 
 # Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko
 
+## Fachkern: Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko
+- **Spezialgegenstand:** Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
+- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Für den Factoringkunden ist die **bilanzielle Ausbuchung der Forderung** (Off-Balance) oft das eigentliche Geschäftsziel. Sie senkt die Bilanzsumme, verbessert Bilanzkennzahlen (Eigenkapitalquote, Umschlagshäufigkeit) und ist Voraussetzung für viele Kreditkonditionen. Bilanziell ist die Ausbuchung kein juristischer Selbstläufer: Sie setzt **True Sale** voraus – einen echten Forderungsverkauf mit Übergang des wirtschaftlichen Eigentums, nicht nur eine zivilrechtliche Abtretung mit Sicherungscharakter.

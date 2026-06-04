@@ -5,6 +5,13 @@ description: "Markenverletzung auf Messen (Pitti Uomo, Berlin Fashion Week) schn
 
 # Markenverletzung auf Messen und Gerichtsvollzieher-Einsatz
 
+## Fachkern: Markenverletzung auf Messen und Gerichtsvollzieher-Einsatz
+- **Spezialgegenstand:** Markenverletzung auf Messen und Gerichtsvollzieher-Einsatz; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Auf der Berlin Fashion Week 2024: Ein Stand von Donauzon Marketplace GmbH zeigt gefälschte klôtzzkètté-Taschen, Schal-Kollektionen mit dem Doppel-K-Signet und Parfumflakons, die dem K°°-Flakon täuschend ähnlich sehen. Die Comtesse Beatrice de Klotzzkettie ruft mich um 8:00 Uhr morgens an. Um 11:00 Uhr liegt der Eilantrag beim LG Berlin vor.
 
 Messe-Verletzungen erfordern blitzschnelles Handeln: Die Ware verschwindet nach der Messe — und der Beweis mit ihr.

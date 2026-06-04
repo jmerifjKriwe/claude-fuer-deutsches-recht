@@ -5,9 +5,12 @@ description: "Liefere konkrete Mustertexte für Vertragsklauseln mit dem KI-Anbi
 
 # Klauselvorschläge — Bausteine
 
-## Disclaimer
+## Fachkern: Klauselvorschläge — Bausteine
 
-Diese Vorprüfung ist keine Rechtsberatung, sondern strukturierte Argumentationshilfe für das Anbietergespräch. Die Mustertexte sind Verhandlungsmaterial, kein fertiger Vertrag. Vor Unterzeichnung ist eine anwaltliche Prüfung im konkreten Vertragsumfeld erforderlich.
+- **KI-/Berufsrechtsproblem (Klauselvorschläge — Bausteine):** Liefere konkrete Mustertexte für Vertragsklauseln mit dem KI-Anbieter. Bausteine Verschwiegenheit Belehrung §§ 203 204 StGB Subunternehmer no training Zero-Retention EU-Hosting Audit-Recht Löschkonzept Professional Secrecy Addendum für US-Anbieter Gerichtsstand Anlage Normtext. Bausteine sind Vorlagen keine fertigen Verträge.
+- **Normenanker:** BRAO, BORA, § 203 StGB, § 204 StGB, DSGVO/BDSG, Dienstleisterregelungen der freien Berufe, Auftragsverarbeitung und technische Geheimnisschutzrealität.
+- **Entscheidende Weiche:** Mustertext, Anbieterbehauptung, technische Wirklichkeit, Berufsgeheimnis und Datenschutzrolle müssen getrennt bleiben.
+- **Arbeitsprodukt:** Vertragsbaustein, Gutachtenstruktur, Redline oder Anbieter-Fragenliste; Ergebnis bleibt Vorprüfung und wird nicht als fertige Berufsrechtsfreigabe ausgegeben.
 
 ## Aufbau
 

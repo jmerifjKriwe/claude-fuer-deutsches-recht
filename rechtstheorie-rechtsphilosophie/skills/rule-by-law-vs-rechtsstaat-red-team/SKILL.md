@@ -5,6 +5,13 @@ description: "Unterscheidet instrumentelle Herrschaft durch Rechtsformen von ech
 
 # Rule by Law vs. Rechtsstaat
 
+## Fachkern: Rule by Law vs. Rechtsstaat
+- **Spezialgegenstand:** Rule by Law vs. Rechtsstaat; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
+- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Einsatz
 
 Nutze diesen Skill, wenn staatliches oder privates Handeln äußerlich formalisiert wirkt, aber der Verdacht besteht, dass Recht nur als Werkzeug der Macht eingesetzt wird. Der Skill trennt "es gibt irgendeine Regel" von "die Regel bindet Macht rechtsstaatlich".

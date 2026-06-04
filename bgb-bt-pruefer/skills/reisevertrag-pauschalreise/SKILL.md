@@ -4,6 +4,13 @@ description: "Reisevertrag §§ 651a ff. BGB und Pauschalreiserichtlinie: Mänge
 ---
 # Reisevertrag und Pauschalreise §§ 651a ff. BGB
 
+## Fachkern: Reisevertrag und Pauschalreise §§ 651a ff. BGB
+- **Spezialgegenstand:** Reisevertrag und Pauschalreise §§ 651a ff. BGB; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
+- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Zweck
 
 Reiserechtliche Ansprüche nach §§ 651a ff. BGB prüfen: Mangelrüge, Abhilfeverlangen, Minderung, Rücktritt und Schadensersatz bei Pauschalreisen nach der Pauschalreise-RL.

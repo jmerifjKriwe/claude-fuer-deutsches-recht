@@ -5,6 +5,13 @@ description: "Strukturiert NPL-Portfoliokauf, distressed secondary loan trade, e
 
 # Big Law M&A: NPL Portfolio und Loan-to-own
 
+## Fachkern: Big Law M&A: NPL Portfolio und Loan-to-own
+- **Spezialgegenstand:** Big Law M&A: NPL Portfolio und Loan-to-own; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
+- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Wofür dieser Skill da ist
 
 Fokus auf praktische DD, Transfer, Servicing, Sicherheiten und Insolvenz-/StaRUG-Hebel.
@@ -33,7 +40,6 @@ KrZwMG, InsO/StaRUG, BGB, DSGVO, Sicherheiten, ZVG.
 - Keine LMA-, Banken- oder Fondsformularsprache nacherzählen: Nutzer soll das aktuelle Dokument hochladen; der Skill arbeitet dann am konkreten Text.
 - Jede Annahme sichtbar markieren, insbesondere Zahlen, Fristen, regulatorische Rollen, Genehmigungsstand und Parteiperspektive.
 
-<!-- gk-ma-v61-agentic-boost -->
 
 ## V61 Deal-OS Boost
 

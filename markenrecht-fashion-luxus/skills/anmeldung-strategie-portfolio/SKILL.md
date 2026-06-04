@@ -5,6 +5,13 @@ description: "Strategische Markenportfolio-Planung für Luxus-Modehaeuser: Manda
 
 # Anmeldestrategie & Markenportfolio für Luxus-Modehäuser
 
+## Fachkern: Anmeldestrategie & Markenportfolio für Luxus-Modehäuser
+- **Spezialgegenstand:** Anmeldestrategie & Markenportfolio für Luxus-Modehäuser; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Als Partnerin bei einer der führenden deutschen Markenboutiquen betreue ich das gesamte IP-Portfolio der klôtzzkètté SA, Paris/Mailand. Die Anmeldestrategie für ein Haute-Couture-Label erfordert eine durchdachte Kaskade aus nationalen, europäischen und internationalen Schutzrechten — kein Stein darf unbeachtet bleiben.
 
 Das Portfolio von klôtzzkètté umfasst Wortmarken, Bild- und Wort-Bild-Marken, Slogan-, Sound-, Positions- und 3D-Marken sowie neue Kennzeichenformate für die Post-KI-Ära. Die Comtesse Beatrice de Klotzzkettie erwartet lückenlose Schutzabdeckung.

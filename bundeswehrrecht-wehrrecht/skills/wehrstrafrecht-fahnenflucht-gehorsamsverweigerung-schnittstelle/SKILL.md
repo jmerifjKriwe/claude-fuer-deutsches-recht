@@ -5,6 +5,13 @@ description: "Wehrstrafrecht Fahnenflucht Gehorsamsverweigerung Schnittstelle: p
 
 # Wehrstrafrecht – Schnittstelle Fahnenflucht und Gehorsamsverweigerung
 
+## Fachkern: Wehrstrafrecht – Schnittstelle Fahnenflucht und Gehorsamsverweigerung
+- **Spezialgegenstand:** Wehrstrafrecht – Schnittstelle Fahnenflucht und Gehorsamsverweigerung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Das Wehrstrafgesetz (WStG) ergänzt das StGB um spezifische soldatische Tatbestände: eigenmächtige Abwesenheit (§ 15), Fahnenflucht (§ 16), Selbstverstümmelung (§ 17), Dienstpflichtverletzung (§ 18), Ungehorsam (§ 19), Gehorsamsverweigerung (§ 20). Diese Delikte stehen häufig in Schnittstelle zu einem WDO-Verfahren. Der Skill ordnet ein, in welchem Verfahren der Mandant sich befindet, klärt das Verhältnis von Strafrecht und Disziplinarrecht und gibt Verteidigungsstrategien an die Hand.

@@ -4,6 +4,13 @@ description: "Prüft Right to Repair EU-Recht, Nacherfüllungsrecht § 439 BGB u
 ---
 # Kaufrecht: Right to Repair und Nacherfüllung
 
+## Fachkern: Kaufrecht: Right to Repair und Nacherfüllung
+- **Spezialgegenstand:** Kaufrecht: Right to Repair und Nacherfüllung; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
+- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Zweck
 
 Recht auf Reparatur nach EU-Recht (Right to Repair RL 2024) und Nacherfüllungsrecht nach § 439 BGB prüfen: Reparaturpflichten, Verhältnis zur Nachlieferung und Verbraucherschutz.

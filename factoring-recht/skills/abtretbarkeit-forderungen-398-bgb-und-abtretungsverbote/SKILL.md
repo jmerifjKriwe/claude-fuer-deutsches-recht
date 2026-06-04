@@ -5,6 +5,13 @@ description: "Abtretbarkeit Forderungen § 398 BGB und Abtretungsverbote: prüft
 
 # Abtretbarkeit Forderungen § 398 BGB und Abtretungsverbote
 
+## Fachkern: Abtretbarkeit Forderungen § 398 BGB und Abtretungsverbote
+- **Spezialgegenstand:** Abtretbarkeit Forderungen § 398 BGB und Abtretungsverbote; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
+- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Im Factoring lebt das ganze Geschäftsmodell davon, dass eine Forderung **wirksam von dem Kunden auf den Factor übergehen kann**. § 398 BGB beschreibt den Tatbestand der Abtretung: Einigung zwischen Altgläubiger und Neugläubiger, dass die Forderung übergeht – formfrei, einseitig anzeigbar, ohne Zustimmung des Schuldners. Klingt einfach. In der Praxis bricht der Forderungsankauf häufig genau hier: weil die Forderung gar nicht existiert, weil sie nicht bestimmt genug bezeichnet ist, weil ein Abtretungsverbot greift oder weil sie bereits einem Dritten abgetreten wurde (Globalzession, verlängerter Eigentumsvorbehalt).

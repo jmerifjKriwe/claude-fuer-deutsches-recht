@@ -5,10 +5,12 @@ description: "Betriebsratsbeteiligung bei bAV-Einführung und -Aenderung sichers
 
 # Mitbestimmung — Betriebsrat und Einigungsstelle bei BAV
 
-**Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB**
-Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
+## Fachkern: Mitbestimmung — Betriebsrat und Einigungsstelle bei BAV
 
----
+- **bAV-Problem:** Mitbestimmungsrechte. Normen: §§ 87 Abs. 1 Nr. 8 sowie 77 112 BetrVG. Prüfraster: Mitbestimmungstatbestaende, Informationspflichten, Einigungsstelle. Output: Beteiligungsverfahren bAV. Abgrenzung: nicht kollektivrechtlicher Sozialplan.
+- **Normenanker:** BetrAVG, EStG/LSt, SGB IV, HGB/IFRS-Bilanzierung, InsO, ArbGG und arbeitsrechtliche Zusage-/Änderungsdogmatik je nach Durchführungsweg prüfen.
+- **Entscheidende Weiche:** Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen.
+- **Arbeitsprodukt:** bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
 
 ## Rechtsgrundlagen
 
@@ -22,9 +24,6 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - § 58 BetrVG (Konzernbetriebsrat — nur bei zwingend konzerneinheitlichen Angelegenheiten)
 - § 112 BetrVG (Sozialplan — Pflicht bei Betriebsänderungen)
 - § 111 BetrVG (Betriebsänderung — Interessenausgleich)
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
@@ -52,16 +51,14 @@ Nr. 10 erfasst ausdrücklich "Fragen der betrieblichen Altersversorgung". Hierun
 - Änderungen der Versorgungsordnung
 - Wechsel des Durchführungswegs
 - Einführung/Abänderung von Entgeltumwandlungssystemen
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Schritt 2: Einigungsstellenverfahren
 
 Kommt es zu keiner Einigung zwischen Arbeitgeber und Betriebsrat, kann jede Seite die Einigungsstelle anrufen (§ 76 Abs. 2 BetrVG).
 
 **Zusammensetzung Einigungsstelle:**
-- Vorsitzender: Einvernehmlich bestellt oder vom Arbeitsgericht bestimmt (§ 76 Abs. 2 S. 2 BetrVG); typischerweise Richter am BAG oder erfahrener Arbeitsrechtler (nicht von Treuenfels Yamamoto, um Neutralität zu wahren)
+- Vorsitzender: Einvernehmlich bestellt oder vom Arbeitsgericht bestimmt (§ 76 Abs. 2 S. 2 BetrVG); typischerweise Richter am BAG oder erfahrener Arbeitsrechtler (nicht von bAV-Projektteam, um Neutralität zu wahren)
 - Beisitzer: Je [X] Beisitzer von Arbeitgeber und Betriebsrat (üblicherweise drei je Seite bei komplexen BAV-Verfahren)
 - Kosten: Arbeitgeber trägt Kosten der Einigungsstelle (§ 76a BetrVG)
 
@@ -77,15 +74,15 @@ Kommt es zu keiner Einigung zwischen Arbeitgeber und Betriebsrat, kann jede Seit
 
 **Überprüfungsmaßstab:** Spruch muss billiges Ermessen wahren (§ 76 Abs. 5 S. 4 BetrVG); Gerichte überprüfen den Spruch auf Überschreitung des billigen Ermessens (LAG Düsseldorf — ständige Rechtsprechung).
 
-### Schritt 3: Strategische Überlegungen Treuenfels Yamamoto
+### Schritt 3: Strategische Überlegungen bAV-Projektteam
 
-Dr. von Sompeh-Ostermann entwickelt für BAV-Mitbestimmungsmandate eine Verhandlungsstrategie:
+fachliche Leitung entwickelt für BAV-Mitbestimmungsmandate eine Verhandlungsstrategie:
 
 **Verhandlungsführung:**
 1. Frühzeitige Einbindung des Betriebsrats (§ 80 Abs. 2 BetrVG — Informationsrecht umfassend bedienen)
 2. Transparenz: Vollständige Weitergabe aktuarieller Gutachten und wirtschaftlicher Unterlagen
 3. Sachverständigen-Einbindung (§ 80 Abs. 3 BetrVG): Betriebsrat hat Recht auf eigenen Sachverständigen
-4. Verhandlungsprotokoll: Alle Sitzungen protokollieren; Treuenfels Yamamoto führt Protokoll für Mandanten
+4. Verhandlungsprotokoll: Alle Sitzungen protokollieren; bAV-Projektteam führt Protokoll für Mandanten
 5. Einigungsstellendrohung nur als letztes Mittel: Betriebsrat kann Einigungsstelle strategisch nutzen — lieber einvernehmliche Lösung
 
 **Bei unvermeidlichem Einigungsstellenverfahren:**
@@ -124,7 +121,7 @@ Wir laden Sie zu einem Informationsgespräch ein am:
 [Datum, Uhrzeit, Ort]
 
 Für Rückfragen steht Ihnen Herr/Frau [Name HR] und unser Rechtsberater
-Prof. Dr. Adalbert von Sompeh-Ostermann (Treuenfels Yamamoto) zur Verfügung.
+fachliche Leitung (bAV-Projektteam) zur Verfügung.
 
 Mit freundlichen Grüßen
 [Geschäftsführung]
@@ -216,5 +213,3 @@ in Kraft und ersetzt insoweit die bisherige [Versorgungsordnung/BV].
 - → `versorgungsordnung-und-betriebsvereinbarung-drafting` — Ergebnisdokumentation in BV
 
 ## Ergaenzende Rechtsprechung (v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -5,6 +5,13 @@ description: "Schiedsstellenverfahren nach § 18a KHG / § 13 KHEntgG: Antragste
 
 # Schiedsstellenverfahren Krankenhausentgelt
 
+## Fachkern: Schiedsstellenverfahren Krankenhausentgelt
+- **Spezialgegenstand:** Schiedsstellenverfahren Krankenhausentgelt; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
+- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 Die Schiedsstelle nach § 18a KHG entscheidet, wenn sich Krankenhaus und Kostentraeger ueber Budget, Pflegesatz, Vorhalte- oder Pflegebudget nicht einigen. Sie ist paritaetisch besetzt; ihre Entscheidung ist Verwaltungsakt mit Klagerecht zum VG.
 

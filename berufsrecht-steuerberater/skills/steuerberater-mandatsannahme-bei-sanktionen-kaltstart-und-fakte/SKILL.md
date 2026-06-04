@@ -5,13 +5,14 @@ description: "Steuerberater: mandatsannahme bei sanktionen - Kaltstart mit Fakte
 
 # Steuerberater: mandatsannahme bei sanktionen - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
 
-## Einsatz
+## Konkreter Berufsrechtskern: Steuerberater: mandatsannahme bei sanktionen - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
+- **Spezialgegenstand:** Steuerberater: mandatsannahme bei sanktionen - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
+- **Normenanker:** StBerG, BOStB, StBVV, AO-Schnittstellen, GwG, Verschwiegenheit, Interessenkollision und berufsgerichtliches Verfahren.
+- **Institutionen:** Steuerberaterkammer, Berufsgerichtsbarkeit, Finanzverwaltung und bei Straf-/Bußgeldnähe die Ermittlungsbehörden.
+- **Spezialspur:** Sanktionslisten, Mandatsannahme, Zahlungswege, Meldepflichten und Export-/Embargobezug getrennt prüfen.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
 
-Nutze diesen Skill im Plugin **Berufsrecht Steuerberater**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
-
-**Fokus:** mandatsannahme bei sanktionen; kaltstart mit faktenmatrix, risikoampel und fehlenden unterlagen im Berufsrecht der Steuerberater
-
-## Kaltstart
+## Fallweichen dieser Speziallage
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

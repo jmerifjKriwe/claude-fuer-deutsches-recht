@@ -5,6 +5,13 @@ description: "Verhältnismäßigkeitsprüfung für staatliche Massnahmen oder Ge
 
 # Verhältnismäßigkeit (Vier-Stufen-Prüfung)
 
+## Fachkern: Verhältnismäßigkeit (Vier-Stufen-Prüfung)
+- **Spezialgegenstand:** Verhältnismäßigkeit (Vier-Stufen-Prüfung) wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GG, BVerfGG, VwGO/ZPO/StPO-Schnittstellen, Gesetzgebungskompetenz, Grundrechte, Verfassungsbeschwerde, konkrete/abstrakte Normenkontrolle.
+- **Entscheidende Weiche:** Prüfe Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Frist, Prüfungsmaßstab, Einschätzungsprärogative und Folgenabwägung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Disclaimer
 
 Verhältnismäßigkeitsprüfungen sind regelmäßig der Kern jeder Grundrechtsprüfung und im Streitfall nur durch das BVerfG verbindlich entscheidbar. Diese Prüfung ist eine Unterstützung, **kein Ersatz** für anwaltliche Beratung.

@@ -5,6 +5,13 @@ description: "Wehrpflicht, Wehrdienst, Reservist Routing: Überblick und Routing
 
 # Wehrpflicht, Wehrdienst und Reservist — Routing
 
+## Fachkern: Wehrpflicht, Wehrdienst und Reservist — Routing
+- **Spezialgegenstand:** Wehrpflicht, Wehrdienst und Reservist — Routing; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Die allgemeine Wehrpflicht ist seit 2011 ausgesetzt. Im Spannungs- oder Verteidigungsfall lebt sie wieder auf (WPflG). Aktuell relevant: freiwilliger Wehrdienst (FWD), Reservistendienst, KDV.

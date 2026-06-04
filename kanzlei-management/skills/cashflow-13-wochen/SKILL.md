@@ -5,9 +5,12 @@ description: "Erstellt rollierende Liquiditätsvorschau mit Gehältern, Miete, S
 
 # 13-Wochen-Cashflow
 
-## Wann dieser Skill passt
+## Fachkern: 13-Wochen-Cashflow
 
-Dieser Skill gehört zum Cluster **Finanzen**. Er passt, wenn die Kanzleileitung nicht noch eine lose Meinung, sondern eine führbare Entscheidung braucht: Zahlen, Deutung, Owner, Frist und Kommunikationslinie.
+- **Managementproblem (13-Wochen-Cashflow):** Erstellt rollierende Liquiditätsvorschau mit Gehältern, Miete, Steuern und Entnahmen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+- **Kennzahlenanker:** Umsatz, UBT, FTE, Utilization, Realization, WIP, DSO, Lock-up, Write-offs, Pipeline, Leverage, Fluktuation und Mandatsrisiko nur zweckbezogen verwenden.
+- **Governance-Weiche:** Partnerpolitik, Mandatsgeheimnis, Interessenkollision, Berufsrecht, People-Risiko und Cashflow getrennt entscheiden; keine hübschen Dashboards ohne Beschlussfrage.
+- **Arbeitsprodukt:** Entscheidungsboard mit drei Optionen, Owner, Frist, Gegenrechnung, Kommunikationslinie und Review-Datum.
 
 ## Ausgangspunkt
 

@@ -5,6 +5,13 @@ description: "Heimversorgung Versorgungsvertrag: prüft die einschlägigen Vorau
 
 # Heimversorgung Versorgungsvertrag
 
+## Fachkern: Heimversorgung Versorgungsvertrag
+- **Spezialgegenstand:** Heimversorgung Versorgungsvertrag; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
+- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Versorgung von Bewohnern stationärer Pflegeeinrichtungen (Pflegeheime, betreute Wohnformen für Behinderte) durch eine "versorgende Apotheke". Versorgungsvertrag nach § 12a ApoG i.V.m. ApBetrO (Heimversorgungsrecht). Apotheke übernimmt Medikationsmanagement, regelmässige Lieferung, Verblisterung (manuell oder maschinell), Anwesenheit für Beratung. Zentrale Streitpunkte: Antikorruption, Patientenwahlfreiheit, Verblisterungsentgelt.

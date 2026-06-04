@@ -5,6 +5,13 @@ description: "Plattformpiraterie und Online-Marktplatz-Enforcement: DSA Notice-a
 
 # Plattform-Piraterie und Notice-and-Action nach DSA
 
+## Fachkern: Plattform-Piraterie und Notice-and-Action nach DSA
+- **Spezialgegenstand:** Plattform-Piraterie und Notice-and-Action nach DSA; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Donauzon Marketplace GmbH ist das digitale Schaulaufen der Counterfeiting-Szene: Drittanbieter auf Donauzon verkaufen täglich Dutzende gefälschte klôtzzkètté-Produkte. Die Plattform wächst, die Fälschungen häufen sich, und die Comtesse Beatrice de Klotzzkettie ist zu Recht besorgt.
 
 Seit dem Digital Services Act (DSA), gültig seit Februar 2024, haben wir deutlich schärfere Instrumente. Donauzon ist als "Mittler" nach Art. 2 lit. f DSA und als "Online-Plattform" nach Art. 2 lit. h DSA in der Pflicht.

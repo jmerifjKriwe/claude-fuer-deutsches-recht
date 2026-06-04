@@ -5,13 +5,14 @@ description: "Notare: nebentaetigkeit und interessenkollision - Kaltstart mit Fa
 
 # Notare: nebentaetigkeit und interessenkollision - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
 
-## Einsatz
+## Konkreter Berufsrechtskern: Notare: nebentaetigkeit und interessenkollision - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
+- **Spezialgegenstand:** Notare: nebentaetigkeit und interessenkollision - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
+- **Normenanker:** BNotO, BeurkG, DONot, GNotKG, GwG, UVZ/Verwahrungsverzeichnis, Neutralität, Belehrung und Dienstaufsicht.
+- **Institutionen:** Notarkammer, Dienstaufsicht, Landgericht/Oberlandesgericht im Notarrecht und Register-/Grundbuchschnittstellen.
+- **Spezialspur:** Kollision in Mandat, Sozietät, Vorbefassung, wirtschaftlichem Eigeninteresse und Informationszugang zerlegen.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
 
-Nutze diesen Skill im Plugin **Berufsrecht Notare**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
-
-**Fokus:** nebentaetigkeit und interessenkollision; kaltstart mit faktenmatrix, risikoampel und fehlenden unterlagen im Berufsrecht der Notare
-
-## Kaltstart
+## Fallweichen dieser Speziallage
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

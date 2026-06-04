@@ -5,6 +5,13 @@ description: "Mandant will eine weitere Marktabgrenzung argumentieren um niedrig
 
 # Alternative Marktdefinition — Weiter
 
+## Fachkern: Alternative Marktdefinition — Weiter
+- **Spezialgegenstand:** Alternative Marktdefinition — Weiter; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
+- **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Zweck
 
 Dieser Skill generiert eine systematisch weitere alternative Marktdefinition. Anwendungsfälle:

@@ -5,9 +5,12 @@ description: "Macht Festpreise mit Scope, Exclusions, Change Request und Marge b
 
 # Fixed Fee profitabel machen
 
-## Wann dieser Skill passt
+## Fachkern: Fixed Fee profitabel machen
 
-Dieser Skill gehört zum Cluster **Pricing**. Er passt, wenn die Kanzleileitung nicht noch eine lose Meinung, sondern eine führbare Entscheidung braucht: Zahlen, Deutung, Owner, Frist und Kommunikationslinie.
+- **Managementproblem (Fixed Fee profitabel machen):** Macht Festpreise mit Scope, Exclusions, Change Request und Marge beherrschbar. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+- **Kennzahlenanker:** Umsatz, UBT, FTE, Utilization, Realization, WIP, DSO, Lock-up, Write-offs, Pipeline, Leverage, Fluktuation und Mandatsrisiko nur zweckbezogen verwenden.
+- **Governance-Weiche:** Partnerpolitik, Mandatsgeheimnis, Interessenkollision, Berufsrecht, People-Risiko und Cashflow getrennt entscheiden; keine hübschen Dashboards ohne Beschlussfrage.
+- **Arbeitsprodukt:** Entscheidungsboard mit drei Optionen, Owner, Frist, Gegenrechnung, Kommunikationslinie und Review-Datum.
 
 ## Ausgangspunkt
 

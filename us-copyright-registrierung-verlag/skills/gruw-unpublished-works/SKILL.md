@@ -5,6 +5,13 @@ description: "Group Registration of Unpublished Works (GRUW): bis zu zehn unver�
 
 # GRUW - Group Registration of Unpublished Works
 
+## Fachkern: GRUW - Group Registration of Unpublished Works
+- **Spezialgegenstand:** GRUW - Group Registration of Unpublished Works; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
+- **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Aufgabe
 
 Prüfe, ob mehrere unveröffentlichte Werke gemeinsam registriert werden können. GRUW kann Kosten sparen, ist aber formal eng: falsche Autorenschaft, veröffentlichte Werke oder Sammeldateien führen schnell zu Problemen.

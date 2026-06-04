@@ -5,6 +5,13 @@ description: "Entlassmanagement nach § 39 Abs. 1a SGB V: Rahmenvertrag Entlassm
 
 # Entlassmanagement § 39 Abs. 1a SGB V
 
+## Fachkern: Entlassmanagement § 39 Abs. 1a SGB V
+- **Spezialgegenstand:** Entlassmanagement § 39 Abs. 1a SGB V; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
+- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 Das Krankenhaus muss Patienten geordnet entlassen und die naehtlose Anschlussversorgung sichern — § 39 Abs. 1a SGB V. Kernelemente: schriftliche Patienteneinwilligung, Entlassmanagementplan, befristete Verordnungsbefugnis fuer Arzneimittel, Heil-/Hilfsmittel, Soziotherapie, AU-Bescheinigung; Uebergabe an Vertragsarzt.
 

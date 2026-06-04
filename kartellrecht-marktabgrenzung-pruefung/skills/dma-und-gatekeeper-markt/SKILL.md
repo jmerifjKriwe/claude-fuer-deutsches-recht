@@ -5,6 +5,13 @@ description: "Digital Markets Act (VO 2022/1925): Gatekeeper-Designierung Kernpl
 
 # DMA und Gatekeeper-Markt
 
+## Fachkern: DMA und Gatekeeper-Markt
+- **Spezialgegenstand:** DMA und Gatekeeper-Markt; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
+- **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Rechtsrahmen
 
 - Verordnung (EU) 2022/1925 über bestreitbare und faire Märkte im digitalen Sektor (Digital Markets Act — DMA), in Kraft seit 1. November 2022.

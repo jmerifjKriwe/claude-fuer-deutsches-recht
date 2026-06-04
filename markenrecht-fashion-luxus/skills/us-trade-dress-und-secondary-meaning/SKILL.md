@@ -5,6 +5,13 @@ description: "US Trade Dress Protection für Produktaufmachung und Produktgestal
 
 # US Trade Dress und Secondary Meaning
 
+## Fachkern: US Trade Dress und Secondary Meaning
+- **Spezialgegenstand:** US Trade Dress und Secondary Meaning; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Trade Dress ist das amerikanische Pendant zur europäischen Positionsmarke und 3D-Formmarke — und es ist in den USA der flexibelste und weitreichendste Schutz für das visuelle Erscheinungsbild von Luxusprodukten. Für klôtzzkètté Inc. (712 Fifth Avenue, NY) ist Trade Dress der wichtigste Schutzpfad für den charakteristischen K°°-Flakon und das einzigartige Boutique-Interieur-Design.
 
 J. Halston Whitman III, Esq. (USD 1.450/h) ist der führende US-Spezialist für Luxury Trade Dress; wir koordinieren die europäischen Prior-Rights-Argumente und die Dokumentation des Luxusimages.

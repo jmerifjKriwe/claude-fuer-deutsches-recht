@@ -5,6 +5,13 @@ description: "Unionsmarke beim EUIPO anmelden nach UMV (EU) 2017/1001: Modehaus 
 
 # Unionsmarken-Anmeldung beim EUIPO
 
+## Fachkern: Unionsmarken-Anmeldung beim EUIPO
+- **Spezialgegenstand:** Unionsmarken-Anmeldung beim EUIPO; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Die Unionsmarke (EUTM) ist das Herzstück des europäischen IP-Portfolios von klôtzzkètté SA. Mit einer einzigen Anmeldung beim EUIPO in Alicante schützt man das Zeichen in allen 27 EU-Mitgliedstaaten — eine strategische Meisterleistung, solange man die Tücken des Verfahrens kennt.
 
 Ich begleite klôtzzkètté von der Konzeption über e-Filing bis zur Eintragung und koordiniere mit dem EUIPO auf Englisch, Französisch und Deutsch.

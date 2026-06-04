@@ -5,12 +5,12 @@ description: "Japanisches betriebliches Altersversorgungssystem und IORP-Verglei
 
 # Japan BAV und Corporate Pension — Deutsch-Japanische Perspektive
 
-**Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB**
-Federführung für Japan: Yuki Yamamoto-Brennecke (bengoshi + RAin Düsseldorf, Tokyo Bar)
-Kyoto-Büro: Gion-Higashi, Shijō-dōri, Kyoto
-Koordination Deutschland: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
+## Fachkern: Japan BAV und Corporate Pension — Deutsch-Japanische Perspektive
 
----
+- **bAV-Problem:** IORP-II, japanisches Pensionsrecht DB-Pensions-Act. Prüfraster: Leistungsunterschiede, Finanzierungsanforderungen, Konvergenz. Output: Vergleichsanalyse Japan-bAV vs. EU-IORP. Abgrenzung: nicht Expatriate-Planung.
+- **Normenanker:** BetrAVG, EStG/LSt, SGB IV, HGB/IFRS-Bilanzierung, InsO, ArbGG und arbeitsrechtliche Zusage-/Änderungsdogmatik je nach Durchführungsweg prüfen.
+- **Entscheidende Weiche:** Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen.
+- **Arbeitsprodukt:** bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
 
 ## Rechtsgrundlagen
 
@@ -78,15 +78,15 @@ Der Tax-Qualified Pension Plan (tekikaku taishokukin seido) war das Vorläufersy
 
 **Status 2024:** Alle Pläne sollten seit 2012 umgestellt worden sein. In der Praxis gibt es in multinationalen Konzernen gelegentlich noch nicht vollständig aufgelöste Altbestände oder Streitfragen über historische Ansprüche.
 
-**Empfehlung Treuenfels Yamamoto / Yuki Yamamoto-Brennecke:** Jeder Konzern mit Japan-Tochter sollte prüfen, ob der alte tekikaku taishokukin vollständig aufgelöst wurde. Offene Positionen können zu steuerlichen Risiken und Mitarbeiteransprüchen führen.
+**Empfehlung bAV-Projektteam / Japan-/Datenschutz-Team:** Jeder Konzern mit Japan-Tochter sollte prüfen, ob der alte tekikaku taishokukin vollständig aufgelöst wurde. Offene Positionen können zu steuerlichen Risiken und Mitarbeiteransprüchen führen.
 
 ### Schritt 5: Düsseldorf-Kyoto-Kollaborationsmodell
 
-Treuenfels Yamamoto hat ein spezifisches Workflow-Modell für DE-JP-Pensionsfragen:
+bAV-Projektteam hat ein spezifisches Workflow-Modell für DE-JP-Pensionsfragen:
 
 **Beratungsstruktur:**
-1. **Mandatsanalyse Düsseldorf:** Dr. von Sompeh-Ostermann analysiert deutsches Recht (BetrAVG, IAS 19, IORP II)
-2. **Japan-Koordination Kyoto:** Yuki Yamamoto-Brennecke koordiniert japanisches Recht (DC/DB-Gesetze, FSA, MHLW)
+1. **Mandatsanalyse Düsseldorf:** fachliche Leitung analysiert deutsches Recht (BetrAVG, IAS 19, IORP II)
+2. **Japan-Koordination Kyoto:** Japan-/Datenschutz-Team koordiniert japanisches Recht (DC/DB-Gesetze, FSA, MHLW)
 3. **Gemeinsames Memorandum:** Dual-Language (deutsch und japanisch in Lateinumschrift + Kanji)
 4. **Konzernweite Empfehlung:** Integration beider Rechtsrahmen in Global Benefits Policy
 
@@ -127,8 +127,8 @@ BERATUNGSMEMORANDUM
 確定給付企業年金プランの見直しについて
 (Überprüfung des Defined Benefit Corporate Pension Plans)
 
-Von / 発信: Yuki Yamamoto-Brennecke, bengoshi
-            Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB
+Von / 発信: Japan-/Datenschutz-Team, bengoshi
+            bAV-Projektteam
             Kyoto-Büro, Gion-Higashi, Shijō-dōri, Kyoto
 An / 宛先:  [Japanische Konzerngesellschaft, HR und Legal]
 Datum:      [Datum]
@@ -140,14 +140,14 @@ ZUSAMMENFASSUNG (EXECUTIVE SUMMARY):
 [Deutsch-Text]
 
 要約:
-[Japanisch-Text durch Yuki Yamamoto-Brennecke]
+[Japanisch-Text durch Japan-/Datenschutz-Team]
 ```
 
 ### Template 2: Vergleich DB-DC Japan (Entscheidungsmatrix)
 
 ```
 ENTSCHEIDUNGSMATRIX DB vs. DC — JAPAN
-Treuenfels Yamamoto / Kyoto-Büro
+bAV-Projektteam / Kyoto-Büro
 
 Kriterium              | Kakutei-kyuufu (DB) | Kakutei-kyoshutsu (DC)
 -----------------------|--------------------|-----------------------
@@ -164,7 +164,7 @@ Beitragsgrenze (2024)  | Keine Obergrenze    | JPY 55.000 p.m. (ohne anderen Pla
 
 ## Fallstricke
 
-1. **Tekikaku taishokukin Altbestände:** Nicht vollständig aufgelöste Tax-Qualified Pension Plans können steuerliche und arbeitsrechtliche Risiken enthalten. Yuki Yamamoto-Brennecke prüft dies bei jeder Japan-Due-Diligence.
+1. **Tekikaku taishokukin Altbestände:** Nicht vollständig aufgelöste Tax-Qualified Pension Plans können steuerliche und arbeitsrechtliche Risiken enthalten. Japan-/Datenschutz-Team prüft dies bei jeder Japan-Due-Diligence.
 
 2. **DC-Beitragsgrenzen bei kombinierten Plänen:** Wenn ein Unternehmen sowohl DB als auch DC anbietet (kombinierter Plan), gilt die niedrigere DC-Beitragsgrenze (JPY 27.500 p.m. statt JPY 55.000). Häufig übersehen bei Plänen einzurichtenden Neuunternehmen.
 

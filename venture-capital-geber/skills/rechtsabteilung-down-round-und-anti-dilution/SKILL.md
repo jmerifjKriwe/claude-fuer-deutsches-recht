@@ -5,9 +5,12 @@ description: "Rechtsabteilungs-Spezialskill für Down Round und Anti-Dilution: W
 
 # Rechtsabteilung: Down Round und Anti-Dilution
 
-## Worum es geht
+## Spezialkern: Rechtsabteilung: Down Round und Anti-Dilution
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+- **Konkretes Problem:** Weighted Average, Full Ratchet und Cap Table werden rechtlich und wirtschaftlich übersetzt.
+- **Norm-/Quellenanker:** GmbHG, AktG, BGB, WpHG/MAR bei Insiderlagen, Beurkundungsrecht, Investment Terms, Wandeldarlehen/SAFE-Mechanik, Steuer- und Außenwirtschaftsschnittstellen.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

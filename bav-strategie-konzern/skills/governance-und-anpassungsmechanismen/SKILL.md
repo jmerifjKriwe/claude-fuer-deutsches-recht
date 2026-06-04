@@ -5,10 +5,12 @@ description: "Governance-Strukturen und Anpassungsmechanismen für Versorgungsor
 
 # Governance und Anpassungsmechanismen — Pension Committee Charter und § 16 BetrAVG
 
-**Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB**
-Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
+## Fachkern: Governance und Anpassungsmechanismen — Pension Committee Charter und § 16 BetrAVG
 
----
+- **bAV-Problem:** §§ 1 ff. BetrAVG, BetrVG. Prüfraster: Anpassungsbeschlussprozesse, Mitbestimmungsrechte, Informationspflichten. Output: Governance-Handbuch bAV. Abgrenzung: nicht Betriebsrats-Mitbestimmung (eigener Skill).
+- **Normenanker:** BetrAVG, EStG/LSt, SGB IV, HGB/IFRS-Bilanzierung, InsO, ArbGG und arbeitsrechtliche Zusage-/Änderungsdogmatik je nach Durchführungsweg prüfen.
+- **Entscheidende Weiche:** Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen.
+- **Arbeitsprodukt:** bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
 
 ## Rechtsgrundlagen
 
@@ -33,14 +35,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ### Schritt 1: Aufbau Pension Committee
 
-Dr. von Sompeh-Ostermann empfiehlt für Konzerne mit einer DBO über EUR 100 Mio. (IFRS) die Einrichtung eines formalen Pension Committee als Unterausschuss des Aufsichtsrats oder als management-level Lenkungsausschuss:
+fachliche Leitung empfiehlt für Konzerne mit einer DBO über EUR 100 Mio. (IFRS) die Einrichtung eines formalen Pension Committee als Unterausschuss des Aufsichtsrats oder als management-level Lenkungsausschuss:
 
 **Zusammensetzung:**
 - CFO (Vorsitz) oder Delegierter
 - CHRO (Human Resources)
 - Group Treasurer (Kapitalanlage-Perspektive)
 - Aktuarielle Beratung (externer Mitgliedsstatus)
-- Rechtsberater (Treuenfels Yamamoto — beratend, ohne Stimmrecht)
+- Rechtsberater (bAV-Projektteam — beratend, ohne Stimmrecht)
 - Ggf. Arbeitnehmervertreter (bei Gesellschaftsform mit Mitbestimmungspflicht — §§ 1 ff. MitbestG, DrittelbG)
 
 **Tagungsrhythmus:** Vierteljährlich (min.) + ad hoc bei wesentlichen Ereignissen (Restrukturierung, M&A, aufsichtsrechtliche Anordnungen).
@@ -96,8 +98,8 @@ in der Fassung vom [Datum]
        - Leiter Recht und Compliance
    2.2 Ständige Berater (beratend, ohne Stimmrecht):
        - Externer Aktuarielle Berater
-       - Rechtsberater (Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB,
-         vertreten durch Prof. Dr. Adalbert von Sompeh-Ostermann)
+       - Rechtsberater (bAV-Projektteam,
+         vertreten durch fachliche Leitung)
        - Externer Vermögensverwalter (Kapitalanlage)
    2.3 Der Vorsitzende kann weitere Personen situativ hinzuziehen.
 
@@ -202,7 +204,6 @@ c) einem unabhängigen Sachverständigen (benannt durch Arbeitgeber und Betriebs
 a) Überwachung der Anlagerichtlinien (Investment Policy Statement)
 b) Billigung des Jahresberichts des Treuhänders
 c) Zustimmung zu wesentlichen Änderungen der Anlagestruktur
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 ---

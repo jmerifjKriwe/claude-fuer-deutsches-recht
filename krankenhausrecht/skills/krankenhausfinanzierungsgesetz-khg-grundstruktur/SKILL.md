@@ -5,6 +5,13 @@ description: "Grundstruktur des KHG nach Reform 2025: duale Finanzierung, Landes
 
 # Krankenhausfinanzierungsgesetz KHG Grundstruktur
 
+## Fachkern: Krankenhausfinanzierungsgesetz KHG Grundstruktur
+- **Spezialgegenstand:** Krankenhausfinanzierungsgesetz KHG Grundstruktur; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
+- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 Das KHG ist das organisatorische Grundgesetz des Krankenhauswesens. Es regelt die **duale Finanzierung** (Investitionen vom Land, Betrieb von den Kassen), die **Landeskrankenhausplanung**, die **Leistungsgruppen** (KHVVG 2025) und das Schiedsstellenwesen. Es ist Voraussetzung fuer KHEntgG, BPflV und SGB-V-Versorgung.
 

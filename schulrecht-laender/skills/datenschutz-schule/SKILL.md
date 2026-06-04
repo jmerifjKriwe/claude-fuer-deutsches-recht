@@ -5,6 +5,13 @@ description: "Prüft Datenschutz in Schule, Lernplattform und Elternkommunikatio
 
 # Datenschutz Schule
 
+## Fachkern: Datenschutz Schule
+- **Spezialgegenstand:** Datenschutz Schule wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** Schulgesetz des Bundeslands, Schulordnung, VwVfG/VwGO, Grundrechte, Inklusions-/SGB-IX-Schnittstellen, Datenschutz und kommunale Satzung.
+- **Entscheidende Weiche:** Bestimme Bundesland, Schulform, Verwaltungsakt/Realakt, Frist, pädagogischen Beurteilungsspielraum, Kindeswohl und gerichtlichen Eilbedarf.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Wofür dieser Skill da ist
 
 Rollen, Einwilligung, Klassenchat, Fotos, Lernplattform, Cloud, Notenlisten und Auskunft.

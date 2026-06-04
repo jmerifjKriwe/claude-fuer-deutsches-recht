@@ -5,6 +5,13 @@ description: "Freistehende Liquiditaetsvorschau für Corporate M&A und Distresse
 
 # Freistehende Liquiditätsvorschau
 
+## Fachkern: Freistehende Liquiditätsvorschau
+- **Spezialgegenstand:** Freistehende Liquiditätsvorschau; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
+- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Kernsachverhalt
 
 Die Liquiditätsvorschau ist das zentrale Instrument zur Beurteilung der kurzfristigen Zahlungsfähigkeit eines Unternehmens. In M&A-Transaktionen dient sie dem Käufer zur Risikoeinschätzung (Distressed M&A, Going-Concern-Prüfung), dem Verkäufer zur Darstellung der Finanzkraft und dem Vorstand als Instrument zur Erfüllung der Antragspflicht (§ 15a InsO). In Krisenszenarien ist die 3-Wochen-Vorschau der maßgebliche Indikator für Zahlungsunfähigkeit (§ 17 InsO). Die 13-Wochen-Cash-Bridge ist Standard in Distressed-M&A-Prozessen und wird von Banken, Restrukturierungsberatern und Gerichten als Planungsgrundlage verlangt. Fehler in der Liquiditätsvorschau führen zu falschen Managemententscheidungen, Haftungsrisiken und — im schlimmsten Fall — zur Insolvenzverschleppung.
@@ -205,7 +212,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-<!-- gk-ma-v61-agentic-boost -->
 
 ## V61 Deal-OS Boost
 

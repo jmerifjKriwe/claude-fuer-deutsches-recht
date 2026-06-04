@@ -5,6 +5,13 @@ description: "Mandatory Deposit (§ 407) und Registrierung (§ 408) auseinanderh
 
 # Deposit versus Registration 407 und 408
 
+## Fachkern: Deposit versus Registration 407 und 408
+- **Spezialgegenstand:** Deposit versus Registration 407 und 408; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
+- **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Aufgabe
 
 Erkläre und dokumentiere den Unterschied zwischen Mandatory Deposit und Copyright Registration. Viele Verlagsfehler entstehen, weil beide Vorgänge praktisch ähnlich aussehen, aber unterschiedliche Funktionen haben.

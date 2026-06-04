@@ -5,6 +5,12 @@ description: "Workflow-Skill zu vergleichsverhandlung strategie. Nutzt Normtext,
 
 # Vergleichsverhandlung und Einigung im Steuerrecht (Beratung und Prozess)
 
+## Fachkern: Vergleichsverhandlung und Einigung im Steuerrecht (Beratung und Prozess)
+
+- **Spezialfrage (Vergleichsverhandlung und Einigung im Steuerrecht (Beratung und Prozess)):** Workflow-Skill zu vergleichsverhandlung strategie. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+- **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
+
+
 ## Aktuelle Rechtsprechung (Vergleich/Einigung)
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

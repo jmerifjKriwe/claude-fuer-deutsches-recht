@@ -5,6 +5,13 @@ description: "Heilfürsorge, truppenärztliche Versorgung, PKV: prüft § 70 BBe
 
 # Heilfürsorge, truppenärztliche Versorgung und PKV
 
+## Fachkern: Heilfürsorge, truppenärztliche Versorgung und PKV
+- **Spezialgegenstand:** Heilfürsorge, truppenärztliche Versorgung und PKV; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Aktive Soldaten haben Anspruch auf unentgeltliche Heilfürsorge (§ 70 BBesG). Nach Entlassung endet die Heilfürsorge sofort; PKV-Pflicht entsteht.

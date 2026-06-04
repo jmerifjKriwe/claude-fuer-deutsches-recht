@@ -88,4 +88,3 @@ Heilpraktiker und alternative Medizin werden zunehmend nachgefragt. Dieser Skill
 - [§ 192 VVG – Leistungspflicht PKV](https://www.gesetze-im-internet.de/vvg_2008/__192.html)
 - [Gebührenverzeichnis für Heilpraktiker (GebüH)](https://www.heilpraktiker.org)
 - [PKV-Ombudsmann Beschwerdeverfahren](https://www.pkv-ombudsmann.de)
-

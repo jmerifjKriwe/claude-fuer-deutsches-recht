@@ -6,6 +6,13 @@ description: 'Erstellt Protokolle von Vorstandssitzungen (AG), Aufsichtsratssitz
 
 # Vorstands- und Aufsichtsratsprotokoll (AG: § 107 AktG; GmbH: § 48 GmbHG)
 
+## Fachkern: Vorstands- und Aufsichtsratsprotokoll (AG: § 107 AktG; GmbH: § 48 GmbHG)
+- **Spezialgegenstand:** Vorstands- und Aufsichtsratsprotokoll (AG: § 107 AktG; GmbH: § 48 GmbHG); dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
+- **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Kernsachverhalt
 
 Sitzungsprotokolle sind Rechtsurkunden. Sie dokumentieren Beschlussfassungen, legitimieren Organhandeln und sind das primäre Beweismittel für Ermächtigungen, Zustimmungen und Willensbildungsprozesse. Fehlerhafte, unvollständige oder verspätete Protokolle gefährden die Rechtssicherheit von Unternehmensentscheidungen — von Unternehmenskäufen über Kapitalmaßnahmen bis hin zur Entlastung von Vorstand und Aufsichtsrat.

@@ -5,9 +5,11 @@ description: "Pflichtteil: Auskunft, notarielles Nachlassverzeichnis, Wertermitt
 
 # Pflichtteil: Auskunft, notarielles Nachlassverzeichnis, Wertermittlung, Ergänzung und taktische Stufenklage.
 
-## Auftrag
+## Fachkern: Pflichtteil: Auskunft, notarielles Nachlassverzeichnis, Wertermittlung, Ergänzung und taktische Stufenklage.
 
-Dieser Spezialskill ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit Allgemeinplätzen, sondern ordnet die Akte nach Anspruchsziel, Frist, Beweis, Gegenseite, Gericht und wirtschaftlichem Ergebnis.
+- **Akte (Pflichtteil: Auskunft, notarielles Nachlassverzeichnis, Wertermittlung, Ergänzung und taktische Stufenklage.):** Auskunft, notarielles Nachlassverzeichnis, Wertermittlung, Ergänzung und taktische Stufenklage.
+- **Prüfachse:** Anspruchsziel, Frist, Beweis, Gegenseite, Gericht/Zuständigkeit, Kostenrisiko und wirtschaftliches Ergebnis werden getrennt.
+- **Arbeitsprodukt:** Schriftsatzkern, Stufenplan, Vergleichslinie oder Mandantenbrief mit Beleg- und Fristenmatrix.
 
 ## Normanker
 

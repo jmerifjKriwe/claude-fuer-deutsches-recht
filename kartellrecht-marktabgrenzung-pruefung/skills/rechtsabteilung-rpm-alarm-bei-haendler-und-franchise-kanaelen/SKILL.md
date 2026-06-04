@@ -5,9 +5,19 @@ description: "Rechtsabteilungs-Spezialskill für RPM-Alarm bei Händler- und Fra
 
 # Rechtsabteilung: RPM-Alarm bei Händler- und Franchise-Kanälen
 
-## Worum es geht
+## Fachkern: Rechtsabteilung: RPM-Alarm bei Händler- und Franchise-Kanälen
+- **Spezialgegenstand:** Rechtsabteilung: RPM-Alarm bei Händler- und Franchise-Kanälen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
+- **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+
+## Spezialkern: Rechtsabteilung: RPM-Alarm bei Händler- und Franchise-Kanälen
+
+- **Konkretes Problem:** Preisbindungsfälle werden aus E-Mails, Bonusmechanik und Außendienstnotizen rekonstruiert.
+- **Norm-/Quellenanker:** Art. 101/102 AEUV, FKVO, GWB, DMA, Vertikal-GVO 2022/720, Horizontal-Leitlinien, Fusionskontrolle und Kartellschadenersatz.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

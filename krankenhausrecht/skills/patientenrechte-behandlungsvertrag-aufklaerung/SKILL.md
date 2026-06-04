@@ -5,6 +5,13 @@ description: "Patientenrechte und Behandlungsvertrag (§§ 630a-630h BGB): Aufkl
 
 # Patientenrechte Behandlungsvertrag Aufklaerung
 
+## Fachkern: Patientenrechte Behandlungsvertrag Aufklaerung
+- **Spezialgegenstand:** Patientenrechte Behandlungsvertrag Aufklaerung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
+- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 Der Behandlungsvertrag (§§ 630a-630h BGB) regelt das zivilrechtliche Verhaeltnis Klinik/Arzt-Patient: Behandlungspflicht, Aufklaerung (§ 630e), Einwilligung (§ 630d), Dokumentation (§ 630f), Einsichtsrecht (§ 630g), Haftung (§ 630h mit Beweislastumkehr). Daneben PatientenrechteG und Patientenrechte aus DSGVO, SGB V, KrPflG.
 

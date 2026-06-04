@@ -5,9 +5,12 @@ description: "Rechtsabteilungs-Spezialskill für KI-Konformitätsbescheinigung f
 
 # Rechtsabteilung: KI-Konformitätsbescheinigung für Vorstand
 
-## Worum es geht
+## Spezialkern: Rechtsabteilung: KI-Konformitätsbescheinigung für Vorstand
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+- **Konkretes Problem:** Management bekommt eine belegbare Konformitätsakte mit Restrisiko und Maßnahmenplan.
+- **Norm-/Quellenanker:** KI-Verordnung (EU) 2024/1689, Art. 3, 5, 6, 9-15, 16 ff., 26, 50, 53 ff., Anhänge I und III; DSGVO; Produktsicherheits-/Produkthaftungsrecht; nationale Aufsichtspraxis.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

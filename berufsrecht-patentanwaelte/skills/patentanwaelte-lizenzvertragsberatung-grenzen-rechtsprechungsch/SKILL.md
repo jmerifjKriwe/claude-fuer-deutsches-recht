@@ -5,13 +5,14 @@ description: "Patentanwälte: lizenzvertragsberatung grenzen - Rechtsprechungsch
 
 # Patentanwälte: lizenzvertragsberatung grenzen - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
 
-## Einsatz
+## Konkreter Berufsrechtskern: Patentanwälte: lizenzvertragsberatung grenzen - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
+- **Spezialgegenstand:** Patentanwälte: lizenzvertragsberatung grenzen - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
+- **Normenanker:** PAO, BOPA, PatG, MarkenG/DesignG-Schnittstellen, EPÜ, UPC-Verfahrensbezug, Fristen- und Geheimnisschutz.
+- **Institutionen:** Patentanwaltskammer, DPMA, EPA, UPC-Schnittstellen und berufsgerichtliche Zuständigkeiten.
+- **Spezialspur:** Mandatsgeheimnis, Priorität, Offenbarung, Vertretungsbefugnis vor DPMA/EPA/UPC und Fristkette prüfen.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
 
-Nutze diesen Skill im Plugin **Berufsrecht Patentanwälte**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
-
-**Fokus:** lizenzvertragsberatung grenzen; rechtsprechungscheck, stärkste gegenansicht und red-team-korrektur im Berufsrecht der Patentanwälte
-
-## Kaltstart
+## Fallweichen dieser Speziallage
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

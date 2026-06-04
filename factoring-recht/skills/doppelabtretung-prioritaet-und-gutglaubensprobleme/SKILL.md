@@ -5,6 +5,13 @@ description: "Doppelabtretung Priorität und Gutglaubensprobleme: prüft die ein
 
 # Doppelabtretung Priorität und Gutglaubensprobleme
 
+## Fachkern: Doppelabtretung Priorität und Gutglaubensprobleme
+- **Spezialgegenstand:** Doppelabtretung Priorität und Gutglaubensprobleme; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
+- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Die Forderung gibt es nur einmal. Wird sie zweimal abgetreten, gewinnt regelmäßig der **Erstabnehmer** (Prioritätsprinzip prior tempore, potior iure). Der Zweitabnehmer geht leer aus, weil der Verkäufer im Moment der zweiten Abtretung nicht mehr Inhaber der Forderung war. **Gutgläubiger Erwerb von Forderungen kennt das BGB nicht** – anders als beim beweglichen Sachen-Recht (§§ 932 ff. BGB). Diese Regel macht die Reihenfolge der Abtretungen zur **wirtschaftlichen Existenzfrage** für jeden Factor.

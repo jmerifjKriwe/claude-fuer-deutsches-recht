@@ -5,6 +5,13 @@ description: "Kündigungsbutton § 312k BGB: prüft die einschlägigen Vorausset
 
 # Kündigungsbutton § 312k BGB
 
+## Fachkern: Kündigungsbutton § 312k BGB
+- **Spezialgegenstand:** Kündigungsbutton § 312k BGB wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BGB Fernabsatz/Widerruf, PAngV, UWG, DSGVO, DDG/DSA, TDDDG, Produktsicherheit, Gewährleistung, Zahlungsdienste und Plattformrecht.
+- **Entscheidende Weiche:** Trenne Shop-Frontend, Bestellstrecke, Informationspflicht, Preis, Widerruf, Mängelrecht, Werbung, Tracking und Plattform-/Marketplace-Pflichten.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 § 312k BGB verpflichtet Unternehmer, die im elektronischen Geschäftsverkehr Verbraucherverträge über entgeltliche Leistungen in Form eines Dauerschuldverhältnisses anbieten, einen Kündigungsbutton bereitzustellen. Gilt seit 1. Juli 2022. Bei Verstoß: keine wirksame Bindung an die Mindestvertragslaufzeit, jederzeitige Kündigungsmöglichkeit und Unterlassungsanspruch nach UWG und UKlaG. Der Skill ordnet Anwendungsbereich, technische Anforderungen, Risiken und Mustertexte.

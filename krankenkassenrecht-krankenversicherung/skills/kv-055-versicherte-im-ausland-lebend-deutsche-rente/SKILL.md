@@ -87,4 +87,3 @@ Deutsche Rentner, die im EU-Ausland oder in Drittstaaten leben, haben komplexe K
 - [§ 256 SGB V – Beitragseinbehalt Rentenversicherungsträger](https://www.gesetze-im-internet.de/sgb_5/__256.html)
 - [DVKA – Deutsche Verbindungsstelle Krankenversicherung Ausland](https://www.dvka.de)
 - [VO (EG) 987/2009 – Durchführungsverordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32009R0987)
-

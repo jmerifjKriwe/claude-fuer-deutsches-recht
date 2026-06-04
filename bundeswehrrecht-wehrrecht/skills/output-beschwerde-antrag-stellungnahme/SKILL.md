@@ -5,6 +5,13 @@ description: "Output Beschwerde, Antrag, Stellungnahme: erstellt strukturierte S
 
 # Output: Beschwerde, Antrag, Stellungnahme erstellen
 
+## Fachkern: Output: Beschwerde, Antrag, Stellungnahme erstellen
+- **Spezialgegenstand:** Output: Beschwerde, Antrag, Stellungnahme erstellen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Der Output-Skill produziert handlungsfertige Schriftstücke: WBO-Beschwerde, Vollzugsaussetzungsantrag, Widerspruch, Akteneinsichtsantrag, Stellungnahme im Disziplinarverfahren.

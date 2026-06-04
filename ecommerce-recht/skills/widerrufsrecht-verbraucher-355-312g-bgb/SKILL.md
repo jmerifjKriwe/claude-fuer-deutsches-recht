@@ -5,6 +5,13 @@ description: "Widerrufsrecht Verbraucher §§ 355 312g BGB: prüft die einschlä
 
 # Widerrufsrecht des Verbrauchers – §§ 355, 312g BGB
 
+## Fachkern: Widerrufsrecht des Verbrauchers – §§ 355, 312g BGB
+- **Spezialgegenstand:** Widerrufsrecht des Verbrauchers – §§ 355, 312g BGB wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BGB Fernabsatz/Widerruf, PAngV, UWG, DSGVO, DDG/DSA, TDDDG, Produktsicherheit, Gewährleistung, Zahlungsdienste und Plattformrecht.
+- **Entscheidende Weiche:** Trenne Shop-Frontend, Bestellstrecke, Informationspflicht, Preis, Widerruf, Mängelrecht, Werbung, Tracking und Plattform-/Marketplace-Pflichten.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 Bei Fernabsatz- und außerhalb von Geschäftsräumen geschlossenen Verträgen steht dem Verbraucher ein Widerrufsrecht von 14 Tagen zu (§ 355 BGB i.V.m. § 312g BGB). Die Frist beginnt erst, wenn der Verbraucher ordnungsgemäß belehrt wurde; sonst maximal 12 Monate und 14 Tage. Der Skill ordnet Voraussetzungen, Ausnahmen (§ 312g II BGB), Rechtsfolgen und Belehrungspflichten.

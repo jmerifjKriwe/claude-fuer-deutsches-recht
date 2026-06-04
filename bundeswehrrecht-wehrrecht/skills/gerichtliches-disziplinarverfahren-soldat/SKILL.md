@@ -5,6 +5,13 @@ description: "Gerichtliches Disziplinarverfahren TDG: prüft Einleitungsverfügu
 
 # Gerichtliches Disziplinarverfahren (TDG/BVerwG)
 
+## Fachkern: Gerichtliches Disziplinarverfahren (TDG/BVerwG)
+- **Spezialgegenstand:** Gerichtliches Disziplinarverfahren (TDG/BVerwG); dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Das gerichtliche Disziplinarverfahren ist das schwerste Disziplinarinstrument. Es beginnt mit einer Einleitungsverfügung (§ 60 WDO) und endet mit einem Urteil des Truppendienstgerichts. Mögliche Rechtsfolgen: Kürzung der Dienstbezüge, Beförderungsverbot, Degradierung, Entfernung aus dem Dienst.

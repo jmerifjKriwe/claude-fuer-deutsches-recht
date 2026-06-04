@@ -5,6 +5,13 @@ description: "Prüft Atteste und Prüfungsunfähigkeit in Schule."
 
 # Attest Und Pruefungsunfaehigkeit Schule
 
+## Fachkern: Attest Und Pruefungsunfaehigkeit Schule
+- **Spezialgegenstand:** Attest Und Pruefungsunfaehigkeit Schule wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** Schulgesetz des Bundeslands, Schulordnung, VwVfG/VwGO, Grundrechte, Inklusions-/SGB-IX-Schnittstellen, Datenschutz und kommunale Satzung.
+- **Entscheidende Weiche:** Bestimme Bundesland, Schulform, Verwaltungsakt/Realakt, Frist, pädagogischen Beurteilungsspielraum, Kindeswohl und gerichtlichen Eilbedarf.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Wofür dieser Skill da ist
 
 Rücktritt, Nachschreiben, Amtsarzt, Vorlagefrist, Diagnosefreiheit und Missbrauchsvorwurf.

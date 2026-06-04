@@ -5,6 +5,13 @@ description: "Erklärt Private Equity, Sponsor, Fund, GP/LP, Carry, Waterfall, L
 
 # Anfänger-Modus: PE-Begriffe ohne Gesichtsverlust
 
+## Fachkern: Anfänger-Modus: PE-Begriffe ohne Gesichtsverlust
+- **Spezialgegenstand:** Anfänger-Modus: PE-Begriffe ohne Gesichtsverlust wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GmbHG, AktG, UmwG, GWB/FKVO, AWG/AWV, KAGB/AIFM-Bezug, LMA-Finanzierung, InsO/StaRUG, Steuer- und Managementbeteiligungsfragen.
+- **Entscheidende Weiche:** Bestimme Dealphase, Fondsrolle, Target-Risiko, Finanzierungsstruktur, Consent/CP, Exit-Auswirkung und Konflikt zwischen Sponsor, Management, Lender und Co-Investor.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 Der Skill übersetzt Deal-Sprache in deutsche Rechts- und Arbeitsschritte, ohne akademische Vorlesung und ohne peinliche Rückfragen im Deal-Call. Ziel ist kein Glossar, sondern eine konkrete, deal-bezogene Funktionsübersicht: Wer macht was, wer trägt welches Risiko, welches Geld fließt wohin, und welcher deutsche Rechtsbegriff steht dahinter.

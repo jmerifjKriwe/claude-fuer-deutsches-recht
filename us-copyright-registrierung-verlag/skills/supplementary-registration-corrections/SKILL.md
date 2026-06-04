@@ -5,6 +5,13 @@ description: "Fehlerkorrektur und Supplementary Registration: falsche Titel, Cla
 
 # Supplementary Registration und Corrections
 
+## Fachkern: Supplementary Registration und Corrections
+- **Spezialgegenstand:** Supplementary Registration und Corrections; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
+- **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Aufgabe
 
 Leite durch Korrekturen nach Einreichung oder nach Certificate. Nicht jeder Fehler braucht einen Neuantrag; manche Angaben können über Supplementary Registration korrigiert oder ergänzt werden.

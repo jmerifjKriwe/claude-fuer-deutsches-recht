@@ -5,6 +5,13 @@ description: "Ordnet BVerwG 2 WD 12.04 als konkreten Gewissenskonflikt ein."
 
 # BVerwG 2005 konkreter Befehl
 
+## Fachkern: BVerwG 2005 konkreter Befehl
+- **Spezialgegenstand:** BVerwG 2005 konkreter Befehl; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** Art. 4 Abs. 3 GG, KDVG, WPflG/Wehrrecht, VwVfG/VwGO, Gewissensprüfung, Soldatenstatus und Eilrechtsschutz.
+- **Entscheidende Weiche:** Gewissensentscheidung, politisches Motiv, Status, Zuständigkeit, Bescheid, Untätigkeit, Frist und gerichtlicher Rechtsschutz trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Einsatz
 Nutzt nur verifizierte Entscheidungen mit Gericht, Datum, Aktenzeichen und freiem Link.
 

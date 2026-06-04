@@ -5,9 +5,12 @@ description: "Rechtsabteilungs-Spezialskill für Joint Controller im Plattform-�
 
 # Rechtsabteilung: Joint Controller im Plattform-Ökosystem
 
-## Worum es geht
+## Spezialkern: Rechtsabteilung: Joint Controller im Plattform-Ökosystem
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+- **Konkretes Problem:** Gemeinsame Verantwortlichkeit wird für Plattform, Händler, Franchise und Konzern sauber dokumentiert.
+- **Norm-/Quellenanker:** DSGVO, BDSG, TTDSG/TDDDG, Landesdatenschutzrecht, OWiG/StPO-Schnittstelle bei Bußgeldern, EuGH/BVerwG/BGH-Linien nur verifiziert.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

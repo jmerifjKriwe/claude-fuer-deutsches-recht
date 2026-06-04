@@ -5,6 +5,13 @@ description: "Prüft Marktbeherrschung nach Paragraf 18 GWB: Einzelmarktbeherrsc
 
 # § 18 GWB — Marktbeherrschung: Prüfung
 
+## Fachkern: § 18 GWB — Marktbeherrschung: Prüfung
+- **Spezialgegenstand:** § 18 GWB — Marktbeherrschung: Prüfung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
+- **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Normstruktur
 
 § 18 GWB (in der Fassung der GWB-Novelle 2021) enthält folgende Prüfungsebenen:

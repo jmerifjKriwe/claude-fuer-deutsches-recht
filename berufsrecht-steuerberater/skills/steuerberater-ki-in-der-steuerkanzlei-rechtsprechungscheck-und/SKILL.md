@@ -5,13 +5,14 @@ description: "Steuerberater: ki in der steuerkanzlei - Rechtsprechungscheck, st�
 
 # Steuerberater: ki in der steuerkanzlei - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
 
-## Einsatz
+## Konkreter Berufsrechtskern: Steuerberater: ki in der steuerkanzlei - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
+- **Spezialgegenstand:** Steuerberater: ki in der steuerkanzlei - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
+- **Normenanker:** StBerG, BOStB, StBVV, AO-Schnittstellen, GwG, Verschwiegenheit, Interessenkollision und berufsgerichtliches Verfahren.
+- **Institutionen:** Steuerberaterkammer, Berufsgerichtsbarkeit, Finanzverwaltung und bei Straf-/Bußgeldnähe die Ermittlungsbehörden.
+- **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
 
-Nutze diesen Skill im Plugin **Berufsrecht Steuerberater**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
-
-**Fokus:** ki in der steuerkanzlei; rechtsprechungscheck, stärkste gegenansicht und red-team-korrektur im Berufsrecht der Steuerberater
-
-## Kaltstart
+## Fallweichen dieser Speziallage
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

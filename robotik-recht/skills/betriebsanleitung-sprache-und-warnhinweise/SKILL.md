@@ -5,6 +5,13 @@ description: "Prüft Betriebsanleitung, Sicherheitsinformationen, digitale Anlei
 
 # Betriebsanleitung, Sprache und Warnhinweise
 
+## Fachkern: Betriebsanleitung, Sprache und Warnhinweise
+- **Spezialgegenstand:** Betriebsanleitung, Sprache und Warnhinweise wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftungsrecht, ProdSG/GPSR, AI Act, MDR/MPDG bei Medizinrobotik, DSGVO, Cybersecurity/NIS2 und Arbeitsschutz.
+- **Entscheidende Weiche:** Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 Die Betriebsanleitung ist ein Sicherheitsbauteil im juristischen Sinn: Fehler in Sprache, Verständlichkeit, Vollständigkeit oder Warnhinweisen lösen Konstruktions- oder Instruktionsfehler nach § 1 ProdHaftG, § 823 BGB und neuer Produkthaftungs-RL (EU) 2024/2853 aus. Die MaschinenVO VO (EU) 2023/1230 erlaubt erstmals **digitale** Anleitungen unter Bedingungen (Art. 10 Abs. 7 sowie Anhang III Nr. 1.7.4) – ein Paradigmenwechsel. Bei KI-Funktionen verlangt Art. 13 KI-VO eine Gebrauchsanweisung mit besonderem Inhalt. Dieser Skill prüft Anleitung und Warnhinweise auf Compliance und Haftungsrobustheit.

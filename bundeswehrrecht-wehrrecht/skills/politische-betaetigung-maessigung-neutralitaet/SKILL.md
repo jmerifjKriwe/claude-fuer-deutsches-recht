@@ -5,6 +5,13 @@ description: "Politische Betätigung Mäßigung Neutralität: prüft die einschl
 
 # Politische Betätigung – Mäßigungsgebot und Neutralität
 
+## Fachkern: Politische Betätigung – Mäßigungsgebot und Neutralität
+- **Spezialgegenstand:** Politische Betätigung – Mäßigungsgebot und Neutralität; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 § 15 SG bindet den Soldaten an ein Mäßigungs- und Neutralitätsgebot. Während des Dienstes ist jede Werbung für oder gegen politische Richtungen untersagt; außerhalb des Dienstes hat sich der Soldat so zu mäßigen, dass das Vertrauen in seine Pflichterfüllung und die Achtung in seiner dienstlichen Stellung nicht ernsthaft beeinträchtigt werden. Der Skill ordnet die Grenze zwischen Meinungsfreiheit (Art. 5 GG) und § 15 SG, insbesondere im Social-Media-Zeitalter.

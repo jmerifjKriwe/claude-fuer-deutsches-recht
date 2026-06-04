@@ -5,6 +5,13 @@ description: "Arbeitsrecht zivile Bundeswehrbeschäftigte: prüft TVöD-Anwendun
 
 # Arbeitsrecht für zivile Bundeswehrbeschäftigte
 
+## Fachkern: Arbeitsrecht für zivile Bundeswehrbeschäftigte
+- **Spezialgegenstand:** Arbeitsrecht für zivile Bundeswehrbeschäftigte; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Die Bundeswehr beschäftigt neben Soldaten eine große Zahl ziviler Arbeitnehmerinnen und Arbeitnehmer. Deren Arbeitsverhältnisse richten sich nach TVöD Bund und allgemeinem Arbeitsrecht; Mitbestimmung durch Personalrat (BPersVG, nicht BetrVG).

@@ -5,6 +5,13 @@ description: "Prüft Immatrikulation, Rückmeldung und Gebühren."
 
 # Immatrikulation Und Rueckmeldung
 
+## Fachkern: Immatrikulation Und Rueckmeldung
+- **Spezialgegenstand:** Immatrikulation Und Rueckmeldung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
+- **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Wofür dieser Skill da ist
 
 Fristen, Unterlagen, Krankenversicherung, Beiträge, Rückmeldung, Säumnis und Bescheid.

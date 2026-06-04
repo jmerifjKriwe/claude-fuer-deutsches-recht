@@ -5,6 +5,13 @@ description: "Baut aus Anlegerstatus, Ticketgröße, Risikoappetit, Haltedauer, 
 
 # Investorprofil: LP, GP, Family Office, Stiftung, Versicherung
 
+## Fachkern: Investorprofil: LP, GP, Family Office, Stiftung, Versicherung
+- **Spezialgegenstand:** Investorprofil: LP, GP, Family Office, Stiftung, Versicherung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GmbHG, AktG, UmwG, GWB/FKVO, AWG/AWV, KAGB/AIFM-Bezug, LMA-Finanzierung, InsO/StaRUG, Steuer- und Managementbeteiligungsfragen.
+- **Entscheidende Weiche:** Bestimme Dealphase, Fondsrolle, Target-Risiko, Finanzierungsstruktur, Consent/CP, Exit-Auswirkung und Konflikt zwischen Sponsor, Management, Lender und Co-Investor.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 Der Skill liefert ein präzises Investorprofil als Arbeitsgrundlage für Mandatsannahme, Fondsbeitritt, Side Letter, Co-Investment und IC-Memo. Das Profil entscheidet, welche Anlagebedingungen einschlägig sind, welche Sub-Doc-Variante (Spezial-AIF, ELTIF, EuVECA) gewählt wird und welche regulatorischen Sonderregeln (VAG, Versorgungswerke, kirchliche Stiftungen) zu beachten sind.

@@ -5,29 +5,15 @@ description: "Einspruch: Risikoampel, Gegenargumente und Verteidigungslinien im 
 
 # Einspruch: Risikoampel, Gegenargumente und Verteidigungslinien
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `strafbefehl-verteidiger`. Ausgangspunkt ist: Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung.
-
-Er führt durch **Risikoampel, Gegenargumente und Verteidigungslinien** im Themenfeld **Einspruch**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-## Norm- und Praxisanker
-
-- Einspruch gegen Strafbefehl: § 410 StPO – zwei Wochen ab Zustellung, schriftlich oder zu Protokoll der Geschäftsstelle.
-- Folge des wirksamen Einspruchs: Hauptverhandlung nach §§ 411 ff. StPO; das Gericht ist an die Festsetzung im Strafbefehl nicht gebunden, ggf. reformatio in peius nach § 411 Abs. 4 StPO denkbar (auch verschärfung möglich) – Mandant aufklären, das ist das zentrale Risiko des Einspruchs.
-- Beschränkter Einspruch: § 410 Abs. 2 StPO – nur auf Tagessatzhöhe, Fahrverbot oder andere Rechtsfolgen; spart Hauptverhandlung über Schuld.
-- Verwerfung bei Ausbleiben: § 412 StPO – Folge wie rechtskräftiger Strafbefehl; Wiedereinsetzung nach § 44 StPO sorgfältig prüfen.
-- Praxis-Tipp: Risikoampel pro Vorwurf führen (grün=Einstellung wahrscheinlich nach §§ 153, 153a StPO; gelb=Reduktion Tagessätze realistisch; rot=Erhöhung droht). Vor Einlegung mit Mandant schriftlich besprechen, dass auch volles Verbleiben oder Verschärfung möglich ist.
 
 
-## Fachlicher Zuschnitt
+## Spezialwissen: Einspruch: Risikoampel, Gegenargumente und Verteidigungslinien
+- **Konkreter Gegenstand:** Einspruch: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
+- **Normen-/Verfahrensanker:** StPO §§ 407 ff., Einspruchsfrist, Wiedereinsetzung, Pflichtverteidigung, Tagessatzsystem, Einstellungsmöglichkeiten und Beweisverwertungsfragen.
+- **Entscheidende Weiche:** Tat, Beweis, Rechtsfolge, Frist, Mandantenziel und Kostenrisiko so trennen, dass sofort klar wird: Einspruch voll, beschränkt oder Rücknahme/Deal.
+- **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.
 
-- **Thema:** Einspruch.
-- **Arbeitsfokus:** Risikoampel, Gegenargumente und Verteidigungslinien.
-- **Plugin-Rahmen:** Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereins....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
+## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?

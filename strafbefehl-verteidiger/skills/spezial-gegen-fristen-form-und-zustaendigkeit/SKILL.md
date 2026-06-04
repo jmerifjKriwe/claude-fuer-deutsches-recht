@@ -5,30 +5,15 @@ description: "Gegen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin straf
 
 # Gegen: Fristen, Form, Zuständigkeit und Rechtsweg
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `strafbefehl-verteidiger`. Ausgangspunkt ist: Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung.
-
-Er führt durch **Fristen, Form, Zuständigkeit und Rechtsweg** im Themenfeld **Gegen**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-## Norm- und Praxisanker
-
-- Strafbefehl: Erlass durch Strafrichter (§ 25 GVG) auf Antrag der StA nach §§ 407 ff. StPO. Zulässig nur Geldstrafe, Freiheitsstrafe bis 1 Jahr nur mit Bewährung und nur bei Verteidigerbeiordnung (§ 407 Abs. 2 StPO).
-- Einspruch: § 410 StPO – zwei Wochen ab Zustellung; schriftlich oder zu Protokoll der Geschäftsstelle beim Gericht, das Strafbefehl erlassen hat.
-- Form: § 32a StPO (elektronisch via beA für Verteidiger zwingend), § 32d StPO Übergangsfristen beachten.
-- Zustellung: §§ 36 ff. StPO i.V.m. §§ 166 ff. ZPO; Ersatzzustellung möglich. Bei nicht ordnungsgemäßer Zustellung läuft Einspruchsfrist nicht.
-- Wiedereinsetzung: § 44 StPO – Frist eine Woche ab Wegfall des Hindernisses, mit Begründung und Glaubhaftmachung (§ 45 StPO).
-- Praxis-Tipp: Einspruchsfrist sofort prozessual sichern – falls Zustellungsmängel unklar, blanker Einspruch + hilfsweise Wiedereinsetzung in einem Schriftsatz; Begründung kann nachgereicht werden, da § 410 Abs. 1 StPO keine Begründungspflicht kennt.
 
 
-## Fachlicher Zuschnitt
+## Spezialwissen: Gegen: Fristen, Form, Zuständigkeit und Rechtsweg
+- **Konkreter Gegenstand:** Gegen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
+- **Normen-/Verfahrensanker:** StPO §§ 407 ff., Einspruchsfrist, Wiedereinsetzung, Pflichtverteidigung, Tagessatzsystem, Einstellungsmöglichkeiten und Beweisverwertungsfragen.
+- **Entscheidende Weiche:** Tat, Beweis, Rechtsfolge, Frist, Mandantenziel und Kostenrisiko so trennen, dass sofort klar wird: Einspruch voll, beschränkt oder Rücknahme/Deal.
+- **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.
 
-- **Thema:** Gegen.
-- **Arbeitsfokus:** Fristen, Form, Zuständigkeit und Rechtsweg.
-- **Plugin-Rahmen:** Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereins....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
+## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?

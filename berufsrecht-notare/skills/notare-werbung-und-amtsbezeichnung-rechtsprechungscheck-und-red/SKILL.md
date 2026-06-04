@@ -5,13 +5,14 @@ description: "Notare: werbung und amtsbezeichnung - Rechtsprechungscheck, stärk
 
 # Notare: werbung und amtsbezeichnung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
 
-## Einsatz
+## Konkreter Berufsrechtskern: Notare: werbung und amtsbezeichnung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
+- **Spezialgegenstand:** Notare: werbung und amtsbezeichnung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
+- **Normenanker:** BNotO, BeurkG, DONot, GNotKG, GwG, UVZ/Verwahrungsverzeichnis, Neutralität, Belehrung und Dienstaufsicht.
+- **Institutionen:** Notarkammer, Dienstaufsicht, Landgericht/Oberlandesgericht im Notarrecht und Register-/Grundbuchschnittstellen.
+- **Spezialspur:** Werbung an Sachlichkeitsgebot, Irreführungsverbot, Mandatsakquise und berufsrechtlicher Außendarstellung messen.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
 
-Nutze diesen Skill im Plugin **Berufsrecht Notare**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
-
-**Fokus:** werbung und amtsbezeichnung; rechtsprechungscheck, stärkste gegenansicht und red-team-korrektur im Berufsrecht der Notare
-
-## Kaltstart
+## Fallweichen dieser Speziallage
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

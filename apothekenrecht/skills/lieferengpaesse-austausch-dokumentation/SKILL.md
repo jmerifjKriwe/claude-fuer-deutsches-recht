@@ -5,6 +5,13 @@ description: "Lieferengpässe Austausch Dokumentation: prüft die einschlägigen
 
 # Lieferengpässe Austausch Dokumentation
 
+## Fachkern: Lieferengpässe Austausch Dokumentation
+- **Spezialgegenstand:** Lieferengpässe Austausch Dokumentation; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
+- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Lieferengpässe bei rezeptpflichtigen oder apothekenpflichtigen Arzneimitteln treten häufig auf — Hersteller-Probleme, Marktrückzug, Brexit-Effekte, Sanktionen. Apotheken können nach § 17 Abs. 5 ApBetrO und gesonderten Vereinbarungen (§ 129 SGB V) gleichwertige Präparate austauschen. Dokumentation entscheidet über Retax-Sicherheit. ALBVVG (Arzneimittel-Lieferengpassbekämpfungs- und Versorgungsverbesserungsgesetz 2023) hat den Apotheken erweiterten Spielraum eingeräumt (vom Anwender zu verifizieren — Aktualität).

@@ -89,4 +89,3 @@ Wenn ein Leistungsträger an den Versicherten leistet, obwohl ein anderer Träge
 - [§ 102 SGB X – Erstattungsanspruch vorläufig leistender Träger](https://www.gesetze-im-internet.de/sgb_10/__102.html)
 - [§ 111 SGB X – Ausschlussfrist](https://www.gesetze-im-internet.de/sgb_10/__111.html)
 - [BSG-Rechtsprechung zu § 105 SGB X](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
-

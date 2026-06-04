@@ -5,6 +5,13 @@ description: "Kindes- und Ehegattenunterhalt nach Duesseldorfer Tabelle berechne
 
 # Unterhalt nach Düsseldorfer Tabelle
 
+## Fachkern: Unterhalt nach Düsseldorfer Tabelle
+- **Spezialgegenstand:** Unterhalt nach Düsseldorfer Tabelle; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
+- **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Zweck
 
 Konkrete Berechnung von Kindesunterhalt, Trennungsunterhalt und nachehelichem Unterhalt — das Kernwerkzeug der familienrechtlichen Praxis.

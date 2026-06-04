@@ -5,6 +5,13 @@ description: "Echtes und unechtes Factoring Risikoverteilung: prüft die einschl
 
 # Echtes und unechtes Factoring Risikoverteilung
 
+## Fachkern: Echtes und unechtes Factoring Risikoverteilung
+- **Spezialgegenstand:** Echtes und unechtes Factoring Risikoverteilung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
+- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Die wichtigste Grundunterscheidung des Factoringrechts: **echtes Factoring** versus **unechtes Factoring**. Der Unterschied liegt im **Bonitätsrisiko** (Delkredere): Übernimmt der Factor das Risiko, dass der Debitor nicht zahlen kann (echt), oder bleibt das Risiko beim Kunden (unecht)? Diese Differenzierung entscheidet über die zivilrechtliche Vertragsnatur, die bilanzielle Behandlung, die steuerliche Behandlung und die Insolvenzwirkungen.

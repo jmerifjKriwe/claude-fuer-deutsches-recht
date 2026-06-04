@@ -5,6 +5,13 @@ description: "Qualitaets-Gate für JVEG-Kostenberechnungen: Vollständigkeits- u
 
 # JVEG-Quality-Gate
 
+## Fachkern: JVEG-Quality-Gate
+- **Spezialgegenstand:** JVEG-Quality-Gate wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** JVEG, GKG/KostR-Schnittstellen, Festsetzungsverfahren, Beschwerde, Vorschuss, Entschädigung, Sachverständigenvergütung und Belegpflicht.
+- **Entscheidende Weiche:** Trenne Rolle Zeuge/Sachverständiger/Dolmetscher, Zeitaufwand, Auslagen, Verdienstausfall, Vorschuss, Frist und Belegwert.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Aufgabe
 Führe eine abschließende Qualitätsprüfung aller JVEG-Dokumente durch, bevor sie versandt oder eingereicht werden.
 

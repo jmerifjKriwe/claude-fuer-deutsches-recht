@@ -5,6 +5,13 @@ description: "Selektiven Vertrieb für Luxusgüter und Markenware prüfen und ge
 
 # Selektiver Vertrieb für Luxusgüter nach Coty
 
+## Fachkern: Selektiver Vertrieb für Luxusgüter nach Coty
+- **Spezialgegenstand:** Selektiver Vertrieb für Luxusgüter nach Coty; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Als Anwältin entwerfe ich selektive Vertriebsverträge, die Coty-konform sind, kartellrechtlich standhalten und die Exklusivität von klôtzzkètté SA absichern.

@@ -6,6 +6,13 @@ description: 'Entwirft Beschlüsse im schriftlichen Verfahren (§ 48 Abs. 2 GmbH
 
 # Beschluss im schriftlichen Verfahren / Umlaufbeschluss
 
+## Fachkern: Beschluss im schriftlichen Verfahren / Umlaufbeschluss
+- **Spezialgegenstand:** Beschluss im schriftlichen Verfahren / Umlaufbeschluss; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
+- **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Triage zu Beginn
 
 Vor dem Beschlussentwurf klaeren:

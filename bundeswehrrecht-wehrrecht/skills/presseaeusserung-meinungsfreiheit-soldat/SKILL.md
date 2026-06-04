@@ -5,6 +5,13 @@ description: "Presseäußerung Meinungsfreiheit Soldat: prüft die einschlägige
 
 # Presseäußerung und Meinungsfreiheit des Soldaten
 
+## Fachkern: Presseäußerung und Meinungsfreiheit des Soldaten
+- **Spezialgegenstand:** Presseäußerung und Meinungsfreiheit des Soldaten; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Der Soldat genießt die Meinungsfreiheit aus Art. 5 GG, die jedoch durch die soldatischen Pflichten aus dem SG eingeschränkt ist: Wahrheitspflicht (§ 13 SG), Verschwiegenheit (§ 14 SG), Mäßigungsgebot (§ 15 SG), Achtungs- und Vertrauenswürdigkeit (§ 17 SG). Presse- und Medienäußerungen sind ein häufiger Konfliktbereich: Interviews, Leserbriefe, Beiträge in Sozialen Medien, Bücher und Podcasts. Der Skill ordnet Genehmigungspflicht, Inhaltsgrenzen und Folgen.

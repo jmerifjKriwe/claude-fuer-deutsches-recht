@@ -5,6 +5,13 @@ description: "Anti-Produktpiraterie und Zoll-Grenzbeschlagnahme: Modehaus oder L
 
 # Produktpiraterie und Zollbeschlagnahme
 
+## Fachkern: Produktpiraterie und Zollbeschlagnahme
+- **Spezialgegenstand:** Produktpiraterie und Zollbeschlagnahme; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Produktpiraterie kostet klôtzzkètté SA nach internen Schätzungen jährlich EUR 8-12 Millionen im EU-Markt — gefälschte Handtaschen aus Guangzhou, Parfumkopien aus der Türkei, Schals mit klôtzzkètté-Muster aus Bangladesch. Die Zollbehörden sind unsere wichtigsten Verbündeten.
 
 Als Markenanwältin habe ich die Zoll-AWA-Anträge auf Hochtouren und nutze die europäische IP-Enforcement-Database als strategische Waffe.

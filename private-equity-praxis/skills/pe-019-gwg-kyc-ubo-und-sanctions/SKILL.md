@@ -5,6 +5,13 @@ description: "Prüft wirtschaftlich Berechtigte, Mittelherkunft, PEP, Sanktionen
 
 # GwG, KYC, UBO und Sanktionen
 
+## Fachkern: GwG, KYC, UBO und Sanktionen
+- **Spezialgegenstand:** GwG, KYC, UBO und Sanktionen wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GmbHG, AktG, UmwG, GWB/FKVO, AWG/AWV, KAGB/AIFM-Bezug, LMA-Finanzierung, InsO/StaRUG, Steuer- und Managementbeteiligungsfragen.
+- **Entscheidende Weiche:** Bestimme Dealphase, Fondsrolle, Target-Risiko, Finanzierungsstruktur, Consent/CP, Exit-Auswirkung und Konflikt zwischen Sponsor, Management, Lender und Co-Investor.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 Pflicht vor Mandatsannahme, Zeichnung, Closing, Portfolio-Add-on und NPL-Kauf. Der Skill liefert die KYC-Matrix: wirtschaftlich Berechtigte (UBO), Eigentumskette, Quellen-Nachweise (Source of Wealth / Source of Funds), PEP-Status, Sanktions-Screening (EU 833/2014 Russland, EU 269/2014, US OFAC), Dual-Use-Güter (EG 2021/821), Transaktionssperren.

@@ -5,6 +5,13 @@ description: "Truppendienstgericht Zuständigkeit Verfahren: prüft die einschl�
 
 # Truppendienstgericht – Zuständigkeit und Verfahren
 
+## Fachkern: Truppendienstgericht – Zuständigkeit und Verfahren
+- **Spezialgegenstand:** Truppendienstgericht – Zuständigkeit und Verfahren; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Die Truppendienstgerichte (Süd in München, Nord in Münster) sind erstinstanzlich zuständig für gerichtliche Disziplinarverfahren gegen Soldaten und für Anträge auf gerichtliche Entscheidung nach WBO. Sie sind eigenständige Bundesgerichte unter Vorsitz von Berufsrichtern, ergänzt durch Beisitzer aus der Truppe. Der Skill ordnet ein, wann TDG zuständig ist, wie das Verfahren abläuft und welche Rechtsmittel bestehen.

@@ -5,6 +5,13 @@ description: "Verfassungsbeschwerde beim BVerfG nach §§ 90 ff. BVerfGG formuli
 
 # Verfassungsbeschwerde-Entwurf
 
+## Fachkern: Verfassungsbeschwerde-Entwurf
+- **Spezialgegenstand:** Verfassungsbeschwerde-Entwurf wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GG, BVerfGG, VwGO/ZPO/StPO-Schnittstellen, Gesetzgebungskompetenz, Grundrechte, Verfassungsbeschwerde, konkrete/abstrakte Normenkontrolle.
+- **Entscheidende Weiche:** Prüfe Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Frist, Prüfungsmaßstab, Einschätzungsprärogative und Folgenabwägung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Disclaimer (Schlüsselstelle, mehrfach)
 
 Die Verfassungsbeschwerde ist der zentrale Rechtsbehelf zum BVerfG, mit existentiellen Folgen für Mandanten. Sie unterliegt strengen Zulässigkeitsanforderungen, der Monatsfrist nach § 93 Abs. 1 BVerfGG und hohen Substantiierungsanforderungen (§ 23 Abs. 1, § 92 BVerfGG). Dieser Entwurf ist **kein Ersatz** für die Bearbeitung durch eine verfassungsrechtliche Spezialkanzlei. Vor jeder Einreichung ist eine fachanwaltliche Prüfung dringend erforderlich.

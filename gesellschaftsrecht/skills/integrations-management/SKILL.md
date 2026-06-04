@@ -6,6 +6,13 @@ description: 'Post-Merger-Integrations-Tracker — phasenbasierter Arbeitsplan, 
 
 # Post-Merger-Integrations-Management
 
+## Fachkern: Post-Merger-Integrations-Management
+- **Spezialgegenstand:** Post-Merger-Integrations-Management; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
+- **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Triage zu Beginn
 
 Vor dem Start des Integrations-Trackings klären:

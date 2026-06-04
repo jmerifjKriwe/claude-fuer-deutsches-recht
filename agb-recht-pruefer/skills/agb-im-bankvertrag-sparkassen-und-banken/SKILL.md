@@ -5,9 +5,12 @@ description: "AGB-Kontrolle im Bankvertrag. Skill behandelt die Banken-AGB Spark
 
 # Agb Im Bankvertrag Sparkassen Und Banken
 
-## Aufgabe
+## Fachkern: Agb Im Bankvertrag Sparkassen Und Banken
 
-Skill fuer AGB-Kontrolle im Bankvertrag.
+- **Klauselproblem (Agb Im Bankvertrag Sparkassen Und Banken):** AGB-Kontrolle im Bankvertrag. Skill behandelt die Banken-AGB Sparkassen-AGB und Allgemeinen Geschaeftsbedingungen der Volks- und Raiffeisenbanken Klauseln zu Entgelten Aenderungen einseitige Vertragsanpassung BGH-Linie zu Gebuehrenklauseln. Behandelt aktuelle Themen Negativzinsen Verwahrentgelte Postidentverfahren Direktbanken. Liefert Pruefraster und Klauselentwurf.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
 
 ## Banken-AGB Sparkassen-AGB
 

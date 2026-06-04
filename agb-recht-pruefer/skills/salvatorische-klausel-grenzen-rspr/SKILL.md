@@ -5,9 +5,12 @@ description: "Salvatorische Klausel: Grenzen und Wirkung. Skill klaert die BGH-L
 
 # Salvatorische Klausel Grenzen Rspr
 
-## Aufgabe
+## Fachkern: Salvatorische Klausel Grenzen Rspr
 
-Skill fuer AGB-rechtliche Pruefung von salvatorischen Klauseln.
+- **Klauselproblem (Salvatorische Klausel Grenzen Rspr):** Grenzen und Wirkung. Skill klaert die BGH-Linie zu Salvatorischen Klauseln in AGB-Vertraegen Wirkung der Klausel auf die Unwirksamkeit einzelner Bestimmungen Wechselwirkung mit § 306 BGB. Behandelt Sondervarianten geltungserhaltende Reduktion ergaenzende Vertragsauslegung und Klausellage in B2B vs. B2C. Liefert Klauselentwurf.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
 
 ## Norm
 

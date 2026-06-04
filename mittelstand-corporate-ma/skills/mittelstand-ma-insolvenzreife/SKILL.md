@@ -5,6 +5,13 @@ description: "Unternehmen in M&A-Situation oder Krise und Anwalt prüft ob Insol
 
 # Freistehender Insolvenzreife- und StaRUG-Schwellencheck (Mittelstand)
 
+## Fachkern: Freistehender Insolvenzreife- und StaRUG-Schwellencheck (Mittelstand)
+- **Spezialgegenstand:** Freistehender Insolvenzreife- und StaRUG-Schwellencheck (Mittelstand) wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
+- **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Kernsachverhalt
 
 Im Mittelstand ist die Insolvenzreife-Prüfung besonders heikel, weil der Gesellschafter-Geschäftsführer häufig selbst der einzige Entscheidungsträger ist und keine unabhängige Kontrolle stattfindet. Die Antragspflicht (§ 15a InsO) trifft ihn persönlich und ist strafrechtlich bewehrt (§ 15a Abs. 4 InsO). Gleichzeitig liegen die Warnsignale — BWA mit Verlusten, überzogener Kontokorrentkredit, Steuerrückstände, Lieferantensperren — oft offen auf dem Tisch, werden aber als vorübergehend bagatellisiert. In M&A-Prozessen gefährdet die Insolvenzreife des Zielunternehmens nicht nur das Closing, sondern führt auch dazu, dass der Käufer Schadensersatz verlangen kann oder vom Vertrag zurücktreten darf. Für den Berater ist die Dokumentation des Zeitpunkts der Kenntniserlangung von entscheidender Bedeutung.

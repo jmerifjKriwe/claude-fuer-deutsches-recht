@@ -5,6 +5,13 @@ description: "Fremd- und Mehrbesitzverbot Apothekenrecht: prüft die einschlägi
 
 # Fremd- und Mehrbesitzverbot Apothekenrecht
 
+## Fachkern: Fremd- und Mehrbesitzverbot Apothekenrecht
+- **Spezialgegenstand:** Fremd- und Mehrbesitzverbot Apothekenrecht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
+- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Das Fremdbesitzverbot (§ 8 ApoG) untersagt es Nicht-Apothekern, Apotheken zu betreiben oder daran beteiligt zu sein. Das Mehrbesitzverbot (§ 1 Abs. 2 ApoG) begrenzt einen Apotheker auf eine Hauptapotheke plus maximal drei Filialen. Beide Verbote sind tragende Säulen des deutschen Apothekenrechts und durch Art. 12 GG sowie EU-Recht (EuGH, staend. Rspr.) ausdrücklich anerkannt.

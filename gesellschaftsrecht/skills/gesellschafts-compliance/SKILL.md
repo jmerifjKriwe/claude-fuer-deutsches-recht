@@ -6,6 +6,13 @@ description: 'Gesellschafts-Compliance-Tracker – Initialisierung, Fälligkeits
 
 # Gesellschafts-Compliance (§ 325 HGB Bilanzpublizität; § 20 GwG Transparenzregister)
 
+## Fachkern: Gesellschafts-Compliance (§ 325 HGB Bilanzpublizität; § 20 GwG Transparenzregister)
+- **Spezialgegenstand:** Gesellschafts-Compliance (§ 325 HGB Bilanzpublizität; § 20 GwG Transparenzregister); dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
+- **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Kernsachverhalt
 
 Kapitalgesellschaften und Personengesellschaften unterliegen einer Vielzahl periodisch wiederkehrender gesellschaftsrechtlicher und handelsrechtlicher Pflichten: Jahresabschluss-Offenlegung beim Unternehmensregister (§ 325 HGB), Einreichung der aktuellen Gesellschafterliste beim Handelsregister (§ 40 GmbHG), Meldung wirtschaftlich Berechtigter beim Transparenzregister (§ 20 GwG) sowie — bei prüfungspflichtigen Gesellschaften — Jahresabschlussprüfung (§ 316 HGB). Verstöße gegen diese Pflichten haben unterschiedliche Konsequenzen: Ordnungsgeldverfahren (§ 335 HGB), Bußgelder (§§ 56 f. GwG), strafrechtliche Risiken (§ 331 HGB) und — bei veralteter Gesellschafterliste — Gefährdung des gutgläubigen Erwerbs (§ 16 Abs. 3 GmbHG).

@@ -5,6 +5,13 @@ description: "Kanzlei prüft Dokumente Tabellen Formeln und Datenpunkte für Cor
 
 # Freistehender Tabellenreview (Mittelstand)
 
+## Fachkern: Freistehender Tabellenreview (Mittelstand)
+- **Spezialgegenstand:** Freistehender Tabellenreview (Mittelstand) wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
+- **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Kernsachverhalt
 
 Im Mittelstands-M&A liegen die Daten häufig in schlechter Qualität vor: Excel-Dateien ohne Quellenverweise, Jahresabschlüsse als Scan ohne maschinell lesbare Zahlen, Kundenlisten in Word oder Zettelform, Vertragssammlungen ohne Index. Der Tabellenreview muss diese Realität abbilden und Datenlücken, Inkonsistenzen und offene Fragen systematisch erfassen — ohne die Transaktion zu blockieren, aber ohne Mängel zu verschweigen. Besonders wichtig: Zahlen in BWA und Steuererklärungen weichen häufig ab (Abgrenzungsposten, Rückstellungen, Privatentnahmen), und diese Abweichungen sind kaufpreisrelevant.

@@ -5,6 +5,13 @@ description: "Ambulantes Operieren am Krankenhaus nach § 115b SGB V: AOP-Vertra
 
 # Ambulantes Operieren § 115b SGB V
 
+## Fachkern: Ambulantes Operieren § 115b SGB V
+- **Spezialgegenstand:** Ambulantes Operieren § 115b SGB V; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
+- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 § 115b SGB V eroeffnet Krankenhaeusern die Moeglichkeit, ambulante Operationen im Rahmen des AOP-Katalogs zu erbringen. Seit 2023 gilt ein erweiterter Katalog mit Kontextfaktoren (Schweregrad, soziale Lage, Risikofaktoren). Abrechnung gegenueber Kassenaerztlicher Vereinigung (KV), nicht Kasse direkt.
 

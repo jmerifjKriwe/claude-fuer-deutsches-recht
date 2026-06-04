@@ -5,10 +5,12 @@ description: "CTA-Struktur für Auslagerung von Pensionsverpflichtungen aufsetze
 
 # CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation
 
-**Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB**
-Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
+## Fachkern: CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation
 
----
+- **bAV-Problem:** Treuhandmodell, IFRS-Saldierung. Normen: § 6a EStG, IFRS, BetrAVG. Prüfraster: Treuhandvertragsstruktur, Insolvenzsicherung, Bilanzauswirkung. Output: CTA-Strukturierungsmemo. Abgrenzung: nicht PSV-Pflichtversicherung (gesetzlich).
+- **Normenanker:** BetrAVG, EStG/LSt, SGB IV, HGB/IFRS-Bilanzierung, InsO, ArbGG und arbeitsrechtliche Zusage-/Änderungsdogmatik je nach Durchführungsweg prüfen.
+- **Entscheidende Weiche:** Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen.
+- **Arbeitsprodukt:** bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
 
 ## Rechtsgrundlagen
 
@@ -19,12 +21,8 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - §§ 328 ff. BGB (Vertrag zugunsten Dritter — Grundlage der Begünstigungsstruktur)
 - §§ 35–37 InsO (Insolvenzfestigkeit — aussonderungsfähiges Treuhandgut)
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - §§ 903, 929 ff. BGB (Übereignung Treuhandvermögen)
 - IORP II Art. 18–19 (Ring-Fencing bei EbAV)
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Quellenregel
 
@@ -33,7 +31,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ### Schritt 1: Entscheidung für CTA-Strukturierung
 
-Dr. von Sompeh-Ostermann empfiehlt eine CTA-Prüfung bei folgenden Ausgangssituationen:
+fachliche Leitung empfiehlt eine CTA-Prüfung bei folgenden Ausgangssituationen:
 
 1. **IFRS-Bilanzentlastung:** DBO > EUR 50 Mio. — plan asset-Saldierung reduziert Net Pension Liability erheblich
 2. **HGB-Bilanzentlastung:** Saldierung nach § 246 Abs. 2 S. 2 HGB reduziert Bilanzsumme und verbessert Eigenkapitalquote
@@ -42,11 +40,10 @@ Dr. von Sompeh-Ostermann empfiehlt eine CTA-Prüfung bei folgenden Ausgangssitua
 
 ### Schritt 2: Grundstruktur Doppeltreuhand
 
-Die von Treuenfels Yamamoto entwickelte Standardstruktur basiert auf einem **Doppeltreuhand-Modell** mit zwei Schichten:
+Die von bAV-Projektteam entwickelte Standardstruktur basiert auf einem **Doppeltreuhand-Modell** mit zwei Schichten:
 
 **Schicht 1 — Sicherungstreuhand (Treugeber = Arbeitgeber → Treuhänder):**
 - Arbeitgeber übereignet Vermögenswerte (Wertpapiere, Bankguthaben, Immobilien) an Treuhänder (z.B. Konzerngesellschaft als Treuhänder oder externe Treuhandgesellschaft)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Treuhänder hält Vermögen als Sicherungstreuhänder zugunsten der Versorgungsberechtigten
 
 **Schicht 2 — Verwaltungstreuhand (Treuhänder → Begünstigte):**
@@ -54,9 +51,7 @@ Die von Treuenfels Yamamoto entwickelte Standardstruktur basiert auf einem **Dop
 - Bei Insolvenz des Arbeitgebers: Versorgungsberechtigte können Aussonderung des Treuhandvermögens aus Insolvenzmasse verlangen (§ 47 InsO)
 - Treuhänder verwaltet Vermögen nach Investment Policy Statement (IPS)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 1. **Dingliche Übertragung:** Das Vermögen muss dinglich auf den Treuhänder übertragen sein — schuldrechtliche Zweckbindung allein genügt nicht.
 2. **Unwiderrufliche Drittbegünstigung:** Die Versorgungsberechtigten müssen als unwiderruflich Begünstigte im Treuhandvertrag genannt sein — der Arbeitgeber darf das Treuhandvermögen nicht ohne Zustimmung der Berechtigten zurückfordern können.
@@ -69,7 +64,6 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 **HGB (§ 246 Abs. 2 S. 2 HGB):**
 Voraussetzungen für Saldierung:
 - Vermögensgegenstände ausschließlich zur Erfüllung von Schulden aus Versorgungsleistungen bestimmt (Zweckbindung)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Saldierung erfolgt mit Rückstellungen (nicht mit anderen Verbindlichkeiten)
 - Grundsatz: Saldierung zum beizulegenden Zeitwert (§ 253 Abs. 1 S. 3 HGB); Rückstellungen bleiben nach § 253 Abs. 2 HGB abgezinst
 
@@ -143,7 +137,6 @@ unmittelbar zur Erfüllung der Versorgungsansprüche der Versorgungsberechtigten
 zu verwenden. Weisungen des Insolvenzverwalters des Treugebers, die dem
 Treuhandzweck zuwiderlaufen, sind unwirksam.
 (3) Diese Insolvenzfestigkeits-Regelungen entsprechen den Anforderungen aus
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 § 5 Kapitalanlage (Investment Policy Statement)
 (1) Der Treuhänder legt das Treuhandvermögen nach Maßgabe des Investment Policy
@@ -201,7 +194,7 @@ Düsseldorf, den [Datum]
 
 ```
 CHECKLISTE — BILANZIELLE ANERKENNUNG CTA
-Treuenfels Yamamoto · Dr. von Sompeh-Ostermann
+bAV-Projektteam · fachliche Leitung
 
 HGB § 246 Abs. 2 S. 2:
 □ Dingliche Übereignung auf Treuhänder vollzogen

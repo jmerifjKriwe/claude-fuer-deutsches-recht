@@ -3,7 +3,6 @@ name: allgemein
 description: "Einstieg, Schnelltriage und Workflow-Routing im Selbstvertreter-Amtsgericht-Plugin. Fragt Erfahrungslevel, Rolle, Ziel, Fristen, Streitwert, Gericht, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt Anfänger wie Fortgeschrittene durch Klage, Verteidigung, Beweis, Termin, Sanity-Check, Rechtsprechung und Rechtsmittelgrenzen."
 ---
 
-<!-- konvers-stil-v1 -->
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
 

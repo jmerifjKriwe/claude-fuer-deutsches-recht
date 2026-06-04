@@ -4,6 +4,13 @@ description: "Verjährung im BGB BT: Sonderfristen für Kauf §438, Miet §548, 
 ---
 # Verjährung BGB-BT Spezial
 
+## Fachkern: Verjährung BGB-BT Spezial
+- **Spezialgegenstand:** Verjährung BGB-BT Spezial; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
+- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Zweck
 
 Verjährungsfristen im BGB Besonderer Teil prüfen: Sonderfristen für Kaufrecht (§ 438 BGB), Mietrecht (§ 548 BGB), Werkvertragsrecht (§ 634a BGB), Deliktsrecht (§ 852 BGB) und deren Verhältnis zur Regelverjährung.

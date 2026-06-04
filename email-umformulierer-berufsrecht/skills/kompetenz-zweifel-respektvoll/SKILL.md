@@ -5,6 +5,13 @@ description: "Zweifel an Kompetenz oder Entscheidung des Gegners oder Kollegen r
 
 # Kompetenz-Zweifel respektvoll formulieren
 
+## Fachkern: Kompetenz-Zweifel respektvoll formulieren
+- **Spezialgegenstand:** Kompetenz-Zweifel respektvoll formulieren wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
+- **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 Dieser Skill hilft dabei, fachliche Kritik oder Zweifel an der Kompetenz eines Adressaten so zu formulieren, dass der sachliche Kern erhalten bleibt, die Person aber nicht angegriffen wird. Diese Unterscheidung ist im Berufsrecht zentral: Sachkritik ist erlaubt, Personenabwertung ist es nicht.
 
 

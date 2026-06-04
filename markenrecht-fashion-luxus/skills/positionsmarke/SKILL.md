@@ -5,6 +5,13 @@ description: "Positionsmarken für Streifen, Muster, Farbpositionen und Produktd
 
 # Positionsmarken
 
+## Fachkern: Positionsmarken
+- **Spezialgegenstand:** Positionsmarken; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Die Positionsmarke schützt ein Zeichen, das an einer bestimmten Position auf einem Produkt angebracht ist — unabhängig von der Produktform als solcher. Für klôtzzkètté SA ist dies die bevorzugte Schutzkategorie für den charakteristischen goldenen Einzel-Streifen an der Handgelenksinnenseite der Lederhandschuhe, das Interieur-Farbband der Handtaschen und das Webmuster der Schalkollektionen.
 
 Die Positionsmarke ist in Art. 3 I lit. f der Durchführungsverordnung (EU) 2018/626 zur UMV explizit als Markenart anerkannt und beim EUIPO breit etabliert.

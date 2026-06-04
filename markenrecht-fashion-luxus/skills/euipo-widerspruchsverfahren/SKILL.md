@@ -5,6 +5,13 @@ description: "EUIPO-Widerspruchsverfahren nach Art. 8 UMV führen: aeltere Marke
 
 # EUIPO-Widerspruchsverfahren
 
+## Fachkern: EUIPO-Widerspruchsverfahren
+- **Spezialgegenstand:** EUIPO-Widerspruchsverfahren; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Das EUIPO-Widerspruchsverfahren ist die strategische Hauptwaffe im Abwehr- und Angriffsarsenal von klôtzzkètté SA. Wenn eine kollidierende Marke veröffentlicht wird, habe ich drei Monate Zeit, Widerspruch einzulegen — und diese Zeit nutze ich gezielt und bedacht.
 
 Die Widerspruchsabteilung des EUIPO prüft präzise und sachlich; die Beschwerdekammer (Board of Appeal) bietet eine zweite Chance; der Unionsgerichtshof (EuGH) setzt den Rahmen.

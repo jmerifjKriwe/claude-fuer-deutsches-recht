@@ -4,6 +4,13 @@ description: "Prüft Rechtsmangel § 435 BGB: Rechte Dritter, beschränkt dingli
 ---
 # Kaufrecht: Rechtsmangel § 435 BGB
 
+## Fachkern: Kaufrecht: Rechtsmangel § 435 BGB
+- **Spezialgegenstand:** Kaufrecht: Rechtsmangel § 435 BGB; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
+- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Zweck
 
 Rechtsmängel nach § 435 BGB prüfen: Rechte Dritter, Belastungen und öffentlich-rechtliche Lasten, die den Käufer beeinträchtigen; Rechtsfolgen und Abgrenzung zum Sachmangel.

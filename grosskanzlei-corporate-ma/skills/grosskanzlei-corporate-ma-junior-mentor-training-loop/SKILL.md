@@ -5,6 +5,13 @@ description: "Junior-Mentor fuer Corporate/M&A: erklaert Begriffe, zerlegt Aufga
 
 # Junior Mentor Training Loop
 
+## Fachkern: Junior Mentor Training Loop
+- **Spezialgegenstand:** Junior Mentor Training Loop; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
+- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Einsatz
 Ein Anfaenger, Referendar, First-Year Associate oder fachfremder Nutzer soll nicht nur ein Ergebnis bekommen, sondern waehrenddessen verstehen, wie Big-Law-Corporate-Arbeit funktioniert.
 
@@ -59,7 +66,6 @@ Vor Ausgabe immer pruefen:
 - Gibt es mindestens einen konkreten naechsten Schritt?
 - Sind Tabellen, Klauseln oder Memos so formatiert, dass ein Deal-Team sofort weiterarbeiten kann?
 
-<!-- gk-ma-v61-agentic-boost -->
 
 ## V61 Deal-OS Boost
 

@@ -5,30 +5,14 @@ description: "Revision: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwa
 
 # Revision: Zahlen, Schwellenwerte und Berechnung
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-strafrecht`. Ausgangspunkt ist: Plugin Fachanwalt für Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Revision. Nebenklage Opfervertretung Zeugenbeistand Adhaesion Insolvenzantrag StA. Ergaenzt aktenaufbereiter-strafrecht und kanzlei-allgemein.
-
-Er führt durch **Zahlen, Schwellenwerte und Berechnung** im Themenfeld **Revision**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-## Norm- und Praxisanker
-
-- Revision: §§ 333 ff. StPO. Statthaft gegen Urteile der großen Strafkammer am LG (§ 121 GVG), des Schwurgerichts, OLG (§ 333 StPO), bei Sprungrevision gegen Amtsgerichtsurteile statt Berufung (§ 335 StPO).
-- Fristen: Einlegung eine Woche nach Urteilsverkündung (§ 341 StPO); Begründung ein Monat nach Zustellung des Urteils mit Gründen (§ 345 StPO).
-- Sachrüge und Verfahrensrüge: § 344 Abs. 2 StPO – Verfahrensrüge braucht Tatsachenvortrag, Sachrüge greift die Rechtsanwendung an. Beide präzise unterscheiden.
-- Absolute Revisionsgründe: § 338 StPO – immer revisibel, Kausalität nicht erforderlich (z.B. nicht ordnungs­gemäße Besetzung, Verfahrenshindernis).
-- Relative Revisionsgründe: § 337 StPO – Beruhen des Urteils auf der Gesetzesverletzung.
-- Praxis-Tipp: Begründungsfrist (Monat) ist die enge Frist – Strategie: sofort nach Einlegung Sicherung Hauptverhandlungsprotokoll, Aktenstudium, Identifikation der Rügen. Sachrüge ("Verletzung materiellen Rechts") immer als Sicherheitsnetz formulieren, weil sie ohne Tatsachenvortrag wirksam ist (BGH ständige Rspr.). Verfahrensrügen wegen Aufklärungspflichtverletzung (§ 244 StPO) brauchen genaue Schilderung Beweisantrag + Ablehnungs­begründung.
+## Spezialwissen: Revision: Zahlen, Schwellenwerte und Berechnung
+- **Spezialgegenstand:** Revision: Zahlen, Schwellenwerte und Berechnung / spezial revision zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Normen-/Quellenanker:** StPO, LG, GVG, OLG.
+- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
+- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
 
-## Fachlicher Zuschnitt
-
-- **Thema:** Revision.
-- **Arbeitsfokus:** Zahlen, Schwellenwerte und Berechnung.
-- **Plugin-Rahmen:** Plugin Fachanwalt für Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Revision. Nebenklage O....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
+## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?

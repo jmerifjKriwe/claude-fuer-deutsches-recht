@@ -5,6 +5,13 @@ description: "Prüft Data-Act-Fragen bei vernetzten Robotern: Nutzerdatenzugang,
 
 # Data Act bei vernetzten Robotern
 
+## Fachkern: Data Act bei vernetzten Robotern
+- **Spezialgegenstand:** Data Act bei vernetzten Robotern wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftungsrecht, ProdSG/GPSR, AI Act, MDR/MPDG bei Medizinrobotik, DSGVO, Cybersecurity/NIS2 und Arbeitsschutz.
+- **Entscheidende Weiche:** Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 Der Data Act (VO (EU) 2023/2854) ist seit 11.01.2024 in Kraft und gilt überwiegend ab 12.09.2025 (Art. 50). Vernetzte Roboter (industriell, im Service, im Haushalt) sind "connected products" i. S. d. Art. 2 Nr. 5 Data Act. Das löst Pflichten aus: Nutzerzugang zu den vom Produkt erzeugten Daten (Art. 4), Bereitstellung an Dritte auf Verlangen des Nutzers (Art. 5), B2G-Datenzugang bei besonderen Notlagen (Art. 14 ff.), Vertragsregeln bei B2B (Art. 13 unlautere Klauseln), Cloud-Switching (Art. 23 ff.) sowie Interoperabilität (Art. 28 ff.). Dieser Skill ordnet die Pflichten und gibt Vertragsbausteine.

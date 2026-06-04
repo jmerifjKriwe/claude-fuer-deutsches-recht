@@ -5,6 +5,13 @@ description: "USPTO-Markenanmeldung nach Lanham Act durchführen: Modehaus will 
 
 # USPTO-Anmeldung und Lanham Act
 
+## Fachkern: USPTO-Anmeldung und Lanham Act
+- **Spezialgegenstand:** USPTO-Anmeldung und Lanham Act; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Der US-amerikanische Markenmarkt ist für klôtzzkètté Inc. (712 Fifth Avenue, New York, NY 10019) ein strategischer Kern. Als Münchener Boutique-Kanzlei Steinacker Lichtenberg koordinieren wir alle USPTO-Angelegenheiten mit unserer New Yorker Korrespondenzkanzlei Whitman Brennan Forsythe LLP (Partner J. Halston Whitman III, Esq., USD 1.450/h; Senior Associate Eleanor M. Quintero, Esq., USD 695/h).
 
 Das US-Markenrecht unterscheidet sich in fundamentalen Punkten vom europäischen: Benutzung (Use in Commerce) ist in den USA essentiell, nicht Eintragung.

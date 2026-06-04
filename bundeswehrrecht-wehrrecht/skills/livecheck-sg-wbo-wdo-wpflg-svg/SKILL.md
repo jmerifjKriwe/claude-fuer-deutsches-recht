@@ -5,6 +5,13 @@ description: "Live-Check SG, WBO, WDO, WPflG, SVG: prüft aktuellen Normstand, �
 
 # Live-Check SG, WBO, WDO, WPflG, SVG
 
+## Fachkern: Live-Check SG, WBO, WDO, WPflG, SVG
+- **Spezialgegenstand:** Live-Check SG, WBO, WDO, WPflG, SVG; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Normen im Bundeswehrrecht ändern sich regelmäßig. Live-Check-Fähigkeit ist essenziell, bevor tragfähige Rechtsmeinung gebildet wird.

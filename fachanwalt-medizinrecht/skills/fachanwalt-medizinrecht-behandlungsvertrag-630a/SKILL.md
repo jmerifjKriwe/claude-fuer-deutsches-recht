@@ -5,6 +5,13 @@ description: "Behandlungsvertrag nach §§ 630a-h BGB und Patientenrechte prüfe
 
 # Behandlungsvertrag §§ 630a-h BGB
 
+## Fachkern: Behandlungsvertrag §§ 630a-h BGB
+- **Spezialgegenstand:** Behandlungsvertrag §§ 630a-h BGB wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
+- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Zweck
 
 Rechtliche Beziehung Arzt-Patient seit Patientenrechtegesetz 2013 kodifiziert. Pflichten, Beweisregeln, Patientenrechte.

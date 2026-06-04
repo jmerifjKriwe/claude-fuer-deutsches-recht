@@ -5,9 +5,12 @@ description: "Rechtsabteilungs-Spezialskill für Organschaft nach EuGH/BFH-Updat
 
 # Rechtsabteilung: Organschaft nach EuGH/BFH-Update
 
-## Worum es geht
+## Spezialkern: Rechtsabteilung: Organschaft nach EuGH/BFH-Update
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+- **Konkretes Problem:** Organträger, Eingliederung und Haftung werden für Konzernrechtsabteilungen geprüft.
+- **Norm-/Quellenanker:** AO, EStG, KStG, GewStG, UStG, GrEStG, AStG, UmwStG, DBA/OECD-MC und BMF/BFH nur verifiziert.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

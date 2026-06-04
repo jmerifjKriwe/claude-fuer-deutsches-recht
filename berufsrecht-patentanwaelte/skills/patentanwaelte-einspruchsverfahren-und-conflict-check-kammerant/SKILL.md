@@ -5,13 +5,14 @@ description: "Patentanwälte: einspruchsverfahren und conflict check - Kammerant
 
 # Patentanwälte: einspruchsverfahren und conflict check - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
-## Einsatz
+## Konkreter Berufsrechtskern: Patentanwälte: einspruchsverfahren und conflict check - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
+- **Spezialgegenstand:** Patentanwälte: einspruchsverfahren und conflict check - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
+- **Normenanker:** PAO, BOPA, PatG, MarkenG/DesignG-Schnittstellen, EPÜ, UPC-Verfahrensbezug, Fristen- und Geheimnisschutz.
+- **Institutionen:** Patentanwaltskammer, DPMA, EPA, UPC-Schnittstellen und berufsgerichtliche Zuständigkeiten.
+- **Spezialspur:** Mandatsgeheimnis, Priorität, Offenbarung, Vertretungsbefugnis vor DPMA/EPA/UPC und Fristkette prüfen.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
 
-Nutze diesen Skill im Plugin **Berufsrecht Patentanwälte**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
-
-**Fokus:** einspruchsverfahren und conflict check; kammerantwort mit verfahrensstrategie, tonlage und belegplan im Berufsrecht der Patentanwälte
-
-## Kaltstart
+## Fallweichen dieser Speziallage
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

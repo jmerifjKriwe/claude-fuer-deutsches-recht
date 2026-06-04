@@ -30,4 +30,3 @@ Dieser Skill öffnet den byzantinischen Teil des Plugins. Er behandelt **römisc
 - Kurze Epochenlinie.
 - Materienbezogene Prüfmatrix.
 - Anschluss-Skills zu Novellen, Basiliken, Kirchenrecht oder Rezeptionsvergleich.
-

@@ -5,6 +5,13 @@ description: "Prüft, wann ein ELTIF als reguliertes Vehikel für Private Equity
 
 # ELTIF 2.0: europäischer Long-Term-Fund für Private Markets
 
+## Fachkern: ELTIF 2.0: europäischer Long-Term-Fund für Private Markets
+- **Spezialgegenstand:** ELTIF 2.0: europäischer Long-Term-Fund für Private Markets wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GmbHG, AktG, UmwG, GWB/FKVO, AWG/AWV, KAGB/AIFM-Bezug, LMA-Finanzierung, InsO/StaRUG, Steuer- und Managementbeteiligungsfragen.
+- **Entscheidende Weiche:** Bestimme Dealphase, Fondsrolle, Target-Risiko, Finanzierungsstruktur, Consent/CP, Exit-Auswirkung und Konflikt zwischen Sponsor, Management, Lender und Co-Investor.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 Der Skill stellt EU-Pass, Retail-Zugang, Anlagegrenzen, Liquidität und Vertrieb von ELTIF 2.0 gegenüber einem deutschen Spezial-AIF dar. Seit 10.01.2024 gilt die novellierte ELTIF-Verordnung (EU) 2023/606, die Retail-Hürden gesenkt, Master-Feeder zugelassen, Fund-of-Funds erleichtert und das semi-liquide Segment für Private Markets stark erweitert hat.

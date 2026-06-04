@@ -3,7 +3,6 @@ name: allgemein
 description: "Adaptiver Einstieg, Mandatsklärung und Routing im Forschungszulage-Plugin. Führt Einsteiger, Technikteams, CFOs und Steuerberater unterschiedlich, klärt Unternehmen, FuE-Vorhaben, Wirtschaftsjahre, BSFZ-Status, Finanzamt-Antrag, Liquidität, Dokumentation und Spezialskills und liefert sofort Kurzbild plus Arbeitsentwurf."
 ---
 
-<!-- konvers-stil-v1 -->
 
 # Forschungszulage — Allgemein
 

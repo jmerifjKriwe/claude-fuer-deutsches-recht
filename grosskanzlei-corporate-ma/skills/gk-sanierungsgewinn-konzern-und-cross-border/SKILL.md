@@ -5,6 +5,13 @@ description: "Sanierungsgewinn in Konzernstrukturen und bei grenzüberschreitend
 
 # Sanierungsgewinn – Konzern und Cross-Border
 
+## Fachkern: Sanierungsgewinn – Konzern und Cross-Border
+- **Spezialgegenstand:** Sanierungsgewinn – Konzern und Cross-Border; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
+- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Worum geht es
 
 Sanierungen in international tätigen Konzernen unterscheiden sich strukturell von Sanierungen einzelner Gesellschaften: Forderungsverzichte erfolgen häufig **zwischen verbundenen Unternehmen**; Organschaften wirken über; ausländische Töchter sind in nationalen Sanierungsmechanismen nur eingeschränkt erfasst. Die Anforderungen an die Sanierungsabsicht der Gläubiger werden bei nahestehenden Personen besonders streng geprüft. Gleichzeitig öffnen sich grenzüberschreitende Strukturen für Verlustnutzungs- und Beihilfeprobleme.
@@ -107,7 +114,6 @@ Drei Beobachtungen aus der internationalen Restrukturierungspraxis:
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
 - BFH zur Konzern-Verlustnutzung – ständige Rspr.; bundesfinanzhof.de.
 
-<!-- gk-ma-v61-agentic-boost -->
 
 ## V61 Deal-OS Boost
 

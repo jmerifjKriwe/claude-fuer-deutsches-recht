@@ -4,6 +4,13 @@ description: "Prüft Haftung für Verrichtungsgehilfen § 831 BGB: Verrichtungsg
 ---
 # Deliktsrecht: Haftung für Verrichtungen § 831 BGB
 
+## Fachkern: Deliktsrecht: Haftung für Verrichtungen § 831 BGB
+- **Spezialgegenstand:** Deliktsrecht: Haftung für Verrichtungen § 831 BGB; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
+- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Zweck
 
 Gehilfenhaftung nach § 831 BGB vollständig prüfen: Gehilfeneigenschaft, Schaden bei Ausführung der Verrichtung und Entlastungsbeweis des Geschäftsherrn.

@@ -5,6 +5,13 @@ description: "Anwaltskorrespondenz in einer anderen Sprache berufsrechtskonform 
 
 # Mehrsprachige Umformulierung
 
+## Fachkern: Mehrsprachige Umformulierung
+- **Spezialgegenstand:** Mehrsprachige Umformulierung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
+- **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 Dieser Skill stellt höfliche, sachliche Formulierungshilfen für internationale berufliche Korrespondenz in den vier wichtigsten Weltsprachen der deutschen Rechtspraxis bereit: Englisch, Französisch, Italienisch und Spanisch. Er enthält Anreden, Schlussformeln und typische Phrasen für anwaltliche und berufliche Schreiben.
 
 

@@ -5,30 +5,15 @@ description: "Fahrerlaubnis: Mandantenkommunikation und Entscheidungsvorlage im 
 
 # Fahrerlaubnis: Mandantenkommunikation und Entscheidungsvorlage
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `strafbefehl-verteidiger`. Ausgangspunkt ist: Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung.
-
-Er führt durch **Mandantenkommunikation und Entscheidungsvorlage** im Themenfeld **Fahrerlaubnis**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-## Norm- und Praxisanker
-
-- Fahrverbot als Nebenstrafe: § 44 StGB – ein bis sechs Monate; nach Reform 2017 auch bei Nichtverkehrsdelikten möglich, in der Praxis meist im Verkehrskontext.
-- Entziehung der Fahrerlaubnis: § 69 StGB – bei "ungeeignetem Kraftfahrer", Regelvermutung § 69 Abs. 2 StGB (Trunkenheit § 316 StGB, § 315c StGB, unerlaubtes Entfernen § 142 StGB usw.).
-- Sperrfrist: § 69a StGB – mindestens sechs Monate, höchstens fünf Jahre; isolierte Sperre nach § 69a Abs. 1 S. 3 StGB möglich.
-- Vorläufige Entziehung: § 111a StPO – Beschwerde nach § 304 StPO statthaft.
-- Punkte/Fahreignungsregister: §§ 4, 28 ff. StVG, FeV; bei 8 Punkten Entzug, parallel zu strafrechtlicher Entscheidung.
-- Praxis-Tipp: Entscheidungsvorlage mit Mandant: Einspruch hinnehmen (Fahrverbot kürzer, Sperrzeit überstehen) vs. Einspruch (mit Risiko der Verschärfung)? Existenzfragen (LKW-Fahrer, Außendienst) und Härtefall-Argumente nach § 44 StGB schriftlich abwägen. Bei Sperrfrist ggf. § 69a Abs. 7 StGB (vorzeitige Aufhebung) prüfen.
 
 
-## Fachlicher Zuschnitt
+## Spezialwissen: Fahrerlaubnis: Mandantenkommunikation und Entscheidungsvorlage
+- **Konkreter Gegenstand:** Fahrerlaubnis: Mandantenkommunikation und Entscheidungsvorlage im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
+- **Normen-/Verfahrensanker:** StPO §§ 407 ff., Einspruchsfrist, Wiedereinsetzung, Pflichtverteidigung, Tagessatzsystem, Einstellungsmöglichkeiten und Beweisverwertungsfragen.
+- **Entscheidende Weiche:** Tat, Beweis, Rechtsfolge, Frist, Mandantenziel und Kostenrisiko so trennen, dass sofort klar wird: Einspruch voll, beschränkt oder Rücknahme/Deal.
+- **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.
 
-- **Thema:** Fahrerlaubnis.
-- **Arbeitsfokus:** Mandantenkommunikation und Entscheidungsvorlage.
-- **Plugin-Rahmen:** Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereins....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
+## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?

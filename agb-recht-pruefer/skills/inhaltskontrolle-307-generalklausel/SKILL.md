@@ -5,9 +5,12 @@ description: "Norm- und Dogmatik-Skill für Inhaltskontrolle 307 Generalklausel:
 
 # Inhaltskontrolle 307 Generalklausel
 
-## Wann verwenden
+## Fachkern: Inhaltskontrolle 307 Generalklausel
 
-Nutze diesen Skill für **Inhaltskontrolle 307 Generalklausel** im deutschen AGB-Recht, wenn eine Klausel geprüft, entworfen, redlined, verhandelt oder prozessual verteidigt werden soll.
+- **Klauselproblem (Inhaltskontrolle 307 Generalklausel):** prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
 
 ## Minimal-Intake
 

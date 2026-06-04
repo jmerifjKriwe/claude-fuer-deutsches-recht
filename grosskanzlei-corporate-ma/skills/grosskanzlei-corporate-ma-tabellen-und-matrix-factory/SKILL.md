@@ -5,6 +5,13 @@ description: "Tabellen- und Matrix-Fabrik fuer M&A: baut DD-Grids, Risk Heatmaps
 
 # Tabellen und Matrix Factory
 
+## Fachkern: Tabellen und Matrix Factory
+- **Spezialgegenstand:** Tabellen und Matrix Factory; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
+- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Einsatz
 Der Nutzer will aus Akten, Vertragen, Q&A oder Datenraumlisten eine belastbare Tabelle, die man intern, mit Mandanten oder im Verhandlungsteam verwenden kann.
 
@@ -59,7 +66,6 @@ Vor Ausgabe immer pruefen:
 - Gibt es mindestens einen konkreten naechsten Schritt?
 - Sind Tabellen, Klauseln oder Memos so formatiert, dass ein Deal-Team sofort weiterarbeiten kann?
 
-<!-- gk-ma-v61-agentic-boost -->
 
 ## V61 Deal-OS Boost
 

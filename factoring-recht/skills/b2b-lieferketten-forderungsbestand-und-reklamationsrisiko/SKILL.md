@@ -5,6 +5,13 @@ description: "B2B Lieferketten Forderungsbestand und Reklamationsrisiko: prüft 
 
 # B2B Lieferketten Forderungsbestand und Reklamationsrisiko
 
+## Fachkern: B2B Lieferketten Forderungsbestand und Reklamationsrisiko
+- **Spezialgegenstand:** B2B Lieferketten Forderungsbestand und Reklamationsrisiko; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
+- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 In B2B-Lieferketten ist die Forderung **nie isoliert**, sondern eingebettet in Bestellung, Lieferung, Abnahme, Mängelrüge (§ 377 HGB), Gewährleistung, Skonto, Boni, Rückgaben. Eine vermeintlich werthaltige Forderung von 100 EUR kann durch Reklamation auf 60 EUR zusammenschmelzen. Das Reklamationsrisiko ist neben dem Bonitätsrisiko der **zweite Hauptrisikofaktor des Factorings**.

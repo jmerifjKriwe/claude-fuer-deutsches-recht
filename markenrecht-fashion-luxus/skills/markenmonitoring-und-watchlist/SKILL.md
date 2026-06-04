@@ -5,6 +5,13 @@ description: "Markenmonitoring und Watchlist-Dienste einrichten: Modehaus will F
 
 # Markenmonitoring und Watchlist-Dienste
 
+## Fachkern: Markenmonitoring und Watchlist-Dienste
+- **Spezialgegenstand:** Markenmonitoring und Watchlist-Dienste; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Eine eingetragene Marke, die nicht überwacht wird, ist wie ein Schloss ohne Wächter. Für klôtzzkètté SA habe ich ein mehrschichtiges Monitoring-System aufgebaut: tägliche Alerts für DPMA und EUIPO, wöchentliche WIPO-Scans, monatliche Domain-Monitoring und quartalsweise Social-Media-Screenings.
 
 Die Widerspruchsfrist beträgt nur 3 Monate (EUIPO) bzw. 3 Monate (DPMA) ab Veröffentlichung. Wer diese Frist verpasst, verliert die Chance auf das effizienteste Abwehrinstrument.

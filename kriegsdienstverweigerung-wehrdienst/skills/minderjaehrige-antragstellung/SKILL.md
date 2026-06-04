@@ -5,6 +5,13 @@ description: "Prüft Antrag sechs Monate vor 18 oder vor 17 unter Sondervorausse
 
 # Minderjährige Antragstellung
 
+## Fachkern: Minderjährige Antragstellung
+- **Spezialgegenstand:** Minderjährige Antragstellung; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** Art. 4 Abs. 3 GG, KDVG, WPflG/Wehrrecht, VwVfG/VwGO, Gewissensprüfung, Soldatenstatus und Eilrechtsschutz.
+- **Entscheidende Weiche:** Gewissensentscheidung, politisches Motiv, Status, Zuständigkeit, Bescheid, Untätigkeit, Frist und gerichtlicher Rechtsschutz trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Einsatz
 Routet besondere Konstellationen wie Ausland, doppelte Staatsangehörigkeit, Minderjährige, Frauen, frühere Anerkennung und Krisenlagen.
 

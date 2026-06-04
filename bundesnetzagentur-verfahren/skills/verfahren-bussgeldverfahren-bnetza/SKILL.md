@@ -5,12 +5,14 @@ description: "Verfahren / Bußgeldverfahren BNetzA: anwaltlicher Workflow für V
 
 # Verfahren: Bußgeldverfahren BNetzA
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundesnetzagentur-Verfahren**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Fachkern: Verfahren: Bußgeldverfahren BNetzA
+- **Spezialgegenstand:** Verfahren: Bußgeldverfahren BNetzA - genau diese Verfahrenslage wird als eigenes Mandat behandelt, nicht als allgemeiner BNetzA-Chat.
+- **Normen- und Behördenanker:** VwVfG, VwGO, OWiG, IFG/UIG soweit einschlägig, sektorales Fachgesetz und aktuelle BNetzA-Formulare, Konsultationen und Beschlusskammerhinweise.
+- **Spezifische Weiche:** Kläre zuerst Sektor, Beschlusskammer, Verfahrensart, Beteiligtenstellung, Akteneinsicht, Anhörung, Frist, Eilbedarf und ob gerichtlicher Rechtsschutz zum VG/OVG oder über Spezialzuweisung läuft.
+- **Beleglogik:** Jede Zahl, Schwelle, Netzkomponente, Frist oder technische Behauptung braucht Quelle: Bescheid, Konsultationsdokument, Erhebungsbogen, Registerauszug, Vertrag, Messdaten, Ticket oder Behördenmail.
+- **Taktischer Output:** Erzeuge nicht nur eine Checkliste, sondern eine Beschlusskammer-taugliche Kurzposition mit Antrag/Einwand, Beleganlage, offener Live-Quelle und nächstem Verfahrensschritt.
 
-**Fachlicher Fokus:** Anwaltliche Verfahren mit der Bundesnetzagentur: Zuständigkeit, Beschlusskammern, Konsultationen, Auskünfte, Bußgelder, Beschwerden, Energie-, TK-, Post-, Eisenbahn- und DSA-Regulierung.
-
-## Startfragen
+## Fachliche Weichenfragen
 - Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
 - Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
 - Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
@@ -19,7 +21,7 @@ Nutze diesen Skill im Plugin **Bundesnetzagentur-Verfahren**, wenn genau dieses 
 
 ## Prüf- und Arbeitslogik
 1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Verfahren / Bußgeldverfahren BNetzA: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis..
+2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
 3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
 4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
 5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.

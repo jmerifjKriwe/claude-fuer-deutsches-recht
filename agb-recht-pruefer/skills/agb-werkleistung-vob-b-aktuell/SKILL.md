@@ -5,9 +5,12 @@ description: "AGB im Werkvertragsrecht VOB-B in aktueller Fassung. Skill behande
 
 # Agb Werkleistung Vob B Aktuell
 
-## Aufgabe
+## Fachkern: Agb Werkleistung Vob B Aktuell
 
-Skill fuer AGB-Kontrolle der VOB-B im aktuellen Stand.
+- **Klauselproblem (Agb Werkleistung Vob B Aktuell):** AGB im Werkvertragsrecht VOB-B in aktueller Fassung. Skill behandelt die VOB-B-Klauseln zur Maengelhaftung Abnahme Sicherheitsleistung und Aenderungsanordnung Klausel-fuer-Klausel-Wirksamkeitspruefung gegen § 307 BGB. BGH-Aktuelles zu §§ 12 13 17 VOB-B. Behandelt Aenderungen zum Bauvertragsrecht (§§ 650a ff. BGB). Liefert Pruefraster.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
 
 ## Wichtige Klauseln
 

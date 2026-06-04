@@ -5,6 +5,13 @@ description: "Pflicht zum treuen Dienen § 7 SG: prüft Treuepflicht, politische
 
 # Pflicht zum treuen Dienen (§ 7 SG)
 
+## Fachkern: Pflicht zum treuen Dienen (§ 7 SG)
+- **Spezialgegenstand:** Pflicht zum treuen Dienen (§ 7 SG); dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 § 7 SG begründet die Pflicht des Soldaten, der Bundesrepublik treu zu dienen. § 7a SG konkretisiert: politisches Mäßigungsgebot (Soldat muss in und außer Dienst politische Mäßigung üben).

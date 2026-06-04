@@ -5,6 +5,13 @@ description: "Praxisleitfaden zu § 3a EStG für das Corporate-/M&A-Team einer G
 
 # Sanierungsgewinn – § 3a EStG Praxis für Corporate/M&A
 
+## Fachkern: Sanierungsgewinn – § 3a EStG Praxis für Corporate/M&A
+- **Spezialgegenstand:** Sanierungsgewinn – § 3a EStG Praxis für Corporate/M&A; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
+- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Worum geht es
 
 § 3a EStG ist die zentrale Vorschrift zur Steuerbefreiung von Sanierungserträgen. Der Sanierungserlass des BMF vom 27.03.2003 wurde durch den Beschluss des Großen Senats des BFH vom 28.11.2016 (GrS 1/15) für rechtsstaatlich unzulässig erklärt. Der Gesetzgeber hat reagiert: § 3a EStG (und § 7b GewStG) sind die gesetzliche Antwort. Sie ist strenger als der frühere Erlass, in vier Tatbestandsmerkmalen kodifiziert, und sie ordnet in Absatz 3 eine **zwingende Verrechnungsreihenfolge** an.
@@ -114,7 +121,6 @@ Im Mandantengespräch sind drei Aussagen wichtig:
 - BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 – prüfbar über bundesfinanzhof.de.
 - IDW S 6 (Anforderungen an Sanierungskonzepte); IDW S 11 (Fortbestehensprognose) – Verifizierung über idw.de.
 
-<!-- gk-ma-v61-agentic-boost -->
 
 ## V61 Deal-OS Boost
 

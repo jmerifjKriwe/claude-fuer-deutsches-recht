@@ -5,30 +5,14 @@ description: "315C: Internationaler Bezug und Schnittstellen im Plugin fachanwal
 
 # 315C: Internationaler Bezug und Schnittstellen
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-verkehrsrecht`. Ausgangspunkt ist: Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezuege. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (§§ 315c 316 StGB). Schnittstelle Plugin kanzlei-allgemein.
-
-Er führt durch **Internationaler Bezug und Schnittstellen** im Themenfeld **315C**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-## Norm- und Praxisanker
-
-- § 315c StGB Gefährdung des Straßenverkehrs: konkrete Gefahr für Leib oder Leben eines anderen Menschen oder fremde Sachen von bedeutendem Wert (Schwelle ~1.300-1.500 EUR – OLG-Rspr.); Tatvarianten: Fahruntüchtigkeit (Abs. 1 Nr. 1), grobe Verkehrsverstöße (Abs. 1 Nr. 2 – sieben "Todsünden": Vorfahrt, Überholen, Fußgängerüberweg, schnelles Fahren, Rechtsfahren, Wenden/Rückwärts, liegenbleibendes Fahrzeug).
-- § 316 StGB Trunkenheit im Verkehr: ohne konkrete Gefahr; ab 1,1 Promille BAK absolute Fahruntüchtigkeit (BGH ständige Rspr.); ab 0,3 Promille mit Fahrunsicherheitsindiz relative Fahruntüchtigkeit.
-- § 142 StGB unerlaubtes Entfernen vom Unfallort: nicht "Fahrerflucht" – Tatbestand verlangt Unfall, Vorsatz und unerlaubtes Entfernen ohne Feststellungs­ermöglichung; § 142 Abs. 4 StGB tätige Reue bis 24 Stunden (außer Personenschaden).
-- Rechtsfolgen: bei § 315c, § 316, § 142 StGB Regelvermutung § 69 Abs. 2 StGB für Fahrerlaubnis­entzug.
-- Internationale Bezüge: EU-Führerschein Anerkennung (RL 2006/126/EG, FeV § 28); bei Auslandstaten § 6 StGB (Weltrechtsprinzip greift bei Verkehrsstrafrecht nicht), § 7 StGB (Auslandstaten gegen Deutsche / Deutscher Täter).
-- Praxis-Tipp: Bei § 315c StGB Schwellenwert "bedeutender Wert" sorgfältig prüfen (Sachverständigen­gutachten zur Schadenshöhe). Bei § 142 StGB die 24-Stunden-Frist für tätige Reue (§ 142 Abs. 4 StGB) sofort mit Mandant durchgehen – wenn noch im Fenster, unverzüglich Polizei melden lassen, um Strafmilderung oder Absehen zu erreichen. Schnittstelle Versicherer: bei vorsätzlichem § 142 StGB Regress­drohung nach AKB.
+## Spezialwissen: 315C: Internationaler Bezug und Schnittstellen
+- **Spezialgegenstand:** 315C: Internationaler Bezug und Schnittstellen / spezial 315c internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG, EUR, OLG.
+- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
+- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
 
-## Fachlicher Zuschnitt
-
-- **Thema:** 315C.
-- **Arbeitsfokus:** Internationaler Bezug und Schnittstellen.
-- **Plugin-Rahmen:** Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezuege. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (§§....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
+## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?

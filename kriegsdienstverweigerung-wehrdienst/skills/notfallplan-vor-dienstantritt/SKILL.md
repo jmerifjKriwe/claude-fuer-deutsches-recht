@@ -5,6 +5,13 @@ description: "Erstellt 24/48-Stunden-Plan bei kurzfristiger Musterung, Übung od
 
 # Notfallplan Dienstantritt
 
+## Fachkern: Notfallplan Dienstantritt
+- **Spezialgegenstand:** Notfallplan Dienstantritt; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** Art. 4 Abs. 3 GG, KDVG, WPflG/Wehrrecht, VwVfG/VwGO, Gewissensprüfung, Soldatenstatus und Eilrechtsschutz.
+- **Entscheidende Weiche:** Gewissensentscheidung, politisches Motiv, Status, Zuständigkeit, Bescheid, Untätigkeit, Frist und gerichtlicher Rechtsschutz trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Einsatz
 Erstellt kommunizierbare, würdevolle und realistische Schritte für Alltag, Dienststelle, Familie, Arbeitgeber und Medien.
 

@@ -5,6 +5,13 @@ description: "Baut klare Kommunikation mit Prüfungsamt und Ausschuss."
 
 # Pruefungsamt Kommunikation
 
+## Fachkern: Pruefungsamt Kommunikation
+- **Spezialgegenstand:** Pruefungsamt Kommunikation; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
+- **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Wofür dieser Skill da ist
 
 Antrag, Nachweise, Fristverlängerung, Akteneinsicht, Ton, Eskalation und Nachfasslog.

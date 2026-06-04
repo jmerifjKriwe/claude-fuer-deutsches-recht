@@ -5,9 +5,12 @@ description: "Rechtsabteilungs-Spezialskill für Ausländischer Insolvenzverwalt
 
 # Rechtsabteilung: Ausländischer Insolvenzverwalter in Deutschland
 
-## Worum es geht
+## Spezialkern: Rechtsabteilung: Ausländischer Insolvenzverwalter in Deutschland
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+- **Konkretes Problem:** Inzidente Anerkennung, Vertretungsmacht und Nachweisform werden als Checkliste geführt.
+- **Norm-/Quellenanker:** InsO, StaRUG, EuInsVO, AnfG, HGB/GmbHG/AktG-Schnittstellen, ausländische Insolvenzverwalter und register-/grundbuchtauglicher Nachweis.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

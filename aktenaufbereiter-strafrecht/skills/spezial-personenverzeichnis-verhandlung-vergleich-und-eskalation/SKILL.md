@@ -5,30 +5,14 @@ description: "Personenverzeichnis: Verhandlung, Vergleich und Eskalation im Plug
 
 # Personenverzeichnis: Verhandlung, Vergleich und Eskalation
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `aktenaufbereiter-strafrecht`. Ausgangspunkt ist: Aktenaufbereiter für die Strafverteidigung. Sechs Excel-fähige Übersichten — Aktenvorblatt; Personenverzeichnis; Tatkomplexe; Beziehungen; Chronologie; Fristen. Fortlaufend ergaenzbar. Erkennt Luecken und Widersprueche. Kein Ersatz für Aktenlektuere.
-
-Er führt durch **Verhandlung, Vergleich und Eskalation** im Themenfeld **Personenverzeichnis**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-## Norm- und Praxisanker
-
-- Beschuldigte / Angeklagte: §§ 136 ff. StPO – Belehrung, Schweigerecht; Mehrtäterfälle mit Rollenmatrix.
-- Zeugen: §§ 48 ff. StPO – Zeugnisverweigerungsrechte §§ 52 (Angehörige), 53 (Berufsgeheimnisträger), 55 (Selbstbelastung) sorgfältig pro Person markieren.
-- Nebenkläger: §§ 395 ff. StPO – Eintragung mit Befugnissen (Akteneinsicht § 406e StPO, Fragerecht § 397 StPO).
-- Sachverständige: §§ 72 ff. StPO; Ablehnung wegen Befangenheit § 74 StPO – Beziehungen Sachverständiger zu Parteien dokumentieren.
-- Verständigung § 257c StPO setzt Mitwirkung aller Beteiligten voraus; Interessenmatrix vor HV anlegen (Mandant, MitAngekl, Nebenkläger, StA, Gericht).
-- Praxis-Tipp: Personenverzeichnis mit Spalten "Rolle", "Beziehung zu Mandant", "Aussagebereitschaft/-pflicht", "ZVR §§ 52/53/55", "Schlüsselthema". So lassen sich Glaubwürdigkeitsprobleme und Befangenheitsanträge früh planen.
+## Spezialwissen: Personenverzeichnis: Verhandlung, Vergleich und Eskalation
+- **Spezialgegenstand:** Personenverzeichnis: Verhandlung, Vergleich und Eskalation / spezial personenverzeichnis verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Normen-/Quellenanker:** StPO.
+- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
+- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
 
-## Fachlicher Zuschnitt
-
-- **Thema:** Personenverzeichnis.
-- **Arbeitsfokus:** Verhandlung, Vergleich und Eskalation.
-- **Plugin-Rahmen:** Aktenaufbereiter für die Strafverteidigung. Sechs Excel-fähige Übersichten — Aktenvorblatt; Personenverzeichnis; Tatkomplexe; Beziehungen; Chronologie;....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
+## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?

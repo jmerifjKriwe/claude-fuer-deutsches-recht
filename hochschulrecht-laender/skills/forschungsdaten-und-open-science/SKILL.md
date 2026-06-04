@@ -5,6 +5,13 @@ description: "Prüft Forschungsdaten, Open Science und Repositorien."
 
 # Forschungsdaten Und Open Science
 
+## Fachkern: Forschungsdaten Und Open Science
+- **Spezialgegenstand:** Forschungsdaten Und Open Science; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
+- **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Wofür dieser Skill da ist
 
 Datenmanagementplan, Urheberrecht, Datenschutz, Geheimnisse, Förderauflagen und Lizenzen.

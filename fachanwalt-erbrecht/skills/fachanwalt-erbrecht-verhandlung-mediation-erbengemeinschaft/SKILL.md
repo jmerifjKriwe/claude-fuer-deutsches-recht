@@ -5,6 +5,12 @@ description: "Streit in der Erbengemeinschaft durch Verhandlung oder Mediation l
 
 # Mediation / Vergleich bei Erbengemeinschaft
 
+## Fachkern: Mediation / Vergleich bei Erbengemeinschaft
+
+- **Spezialfrage (Mediation / Vergleich bei Erbengemeinschaft):** Erbteile Nachlassbestand Verwaltungsmassnahmen Teilungsklage Auseinandersetzung Erbauseinandersetzungsvertrag. Output: Verhandlungsstrategie Mediationsagenda Auseinandersetzungsvertrag. Abgrenzung: nicht für gerichtliche Teilungsklage.
+- **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
+
+
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

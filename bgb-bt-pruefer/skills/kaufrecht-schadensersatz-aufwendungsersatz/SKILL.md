@@ -4,6 +4,13 @@ description: "Prüft Schadensersatz §§ 437 Nr. 3 und 280 ff. BGB sowie Aufwend
 ---
 # Kaufrecht: Schadensersatz und Aufwendungsersatz
 
+## Fachkern: Kaufrecht: Schadensersatz und Aufwendungsersatz
+- **Spezialgegenstand:** Kaufrecht: Schadensersatz und Aufwendungsersatz; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
+- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Zweck
 
 Schadensersatzansprüche des Käufers bei Sachmangel nach §§ 437 Nr. 3 und 280 BGB sowie Aufwendungsersatz nach § 284 BGB prüfen.

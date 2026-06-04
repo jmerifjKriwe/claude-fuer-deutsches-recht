@@ -5,6 +5,13 @@ description: "Wehrdisziplinarordnung einfache Disziplinarmaßnahme: prüft die e
 
 # Wehrdisziplinarordnung – Einfache Disziplinarmaßnahme
 
+## Fachkern: Wehrdisziplinarordnung – Einfache Disziplinarmaßnahme
+- **Spezialgegenstand:** Wehrdisziplinarordnung – Einfache Disziplinarmaßnahme; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Die Wehrdisziplinarordnung (WDO) unterscheidet einfache Disziplinarmaßnahmen (durch den Disziplinarvorgesetzten verhängt) und gerichtliche Disziplinarmaßnahmen (durch das Truppendienstgericht). Einfache Maßnahmen reichen von Verweis bis Disziplinararrest. Der Skill ordnet die Schwere ein, prüft formelle Voraussetzungen und führt durch Anhörung und Beschwerdeweg.

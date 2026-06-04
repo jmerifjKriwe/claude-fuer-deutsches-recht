@@ -5,6 +5,13 @@ description: "Gebühren- und Zahlungsworkflow: Fee Schedule live prüfen, Pay.go
 
 # Gebühren, Pay.gov und Deposit Account
 
+## Fachkern: Gebühren, Pay.gov und Deposit Account
+- **Spezialgegenstand:** Gebühren, Pay.gov und Deposit Account; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
+- **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Aufgabe
 
 Führe durch die Zahlungslogik im eCO-Prozess. Der entscheidende Punkt: Erst ausfüllen, dann zahlen, danach wird die jeweilige Einreichungsroute mit Upload oder Shipping Slip praktisch freigeschaltet.

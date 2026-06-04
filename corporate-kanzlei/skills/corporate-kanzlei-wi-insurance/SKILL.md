@@ -3,11 +3,14 @@ name: corporate-kanzlei-wi-insurance
 description: "W&I-Versicherung (Warranty & Indemnity Insurance) strukturieren und prüfen: M&A-Berater braucht Policen-Analyse oder Underwriting-Vorbereitung. Normen: SPA Reps & Warranties, VVG, englisches Insurance-Recht (Lloydserfahrung). Prüfraster: Kaeufer- vs. Verkaeufer-Policy, Underwriting-Prozess, No-Claims-Declaration, Deckungsluecken, Enhanced-Disclosure. Output Policy-Review-Memo, Gap-Analyse Deckung vs. SPA-Exposure, Underwriting-Information-Pack. Abgrenzung: SPA-Reps siehe spa-apa-entwurf; Disclosure Schedules siehe disclosure-schedules."
 ---
 
-<!-- anthropic-depth-boost-v1 -->
 # W&I-Versicherung (Warranty & Indemnity Insurance)
 
-## Zweck
-Dieser Skill führt ein Corporate-Kanzlei-/Inhouse-Governance-Mandat durch den Arbeitsbereich **Vertrags-, Beschluss-, Signing-, Closing- und Post-Closing-Mechanik**. Er macht aus Gesellschaftsunterlagen, Beschlusslagen, Vertragsentwürfen oder Registerinformationen einen belastbaren Corporate-Befund, trennt Tatsachen von Annahmen und zwingt zu einem organ- und mandatsfähigen nächsten Schritt. Adressaten sind Corporate-Partner, Syndizi, Associates, Legal Operations, Geschäftsführung, Vorstand und Aufsichts-/Beiratssekretariat.
+## Fachkern: W&I-Versicherung (Warranty & Indemnity Insurance)
+
+- **Corporate-Aufgabe (W&I-Versicherung (Warranty & Indemnity Insurance)):** M&A-Berater braucht Policen-Analyse oder Underwriting-Vorbereitung.
+- **Norm-/Dealanker:** GmbHG, AktG, HGB, BGB, UmwG, Registerrecht, Beurkundung, Signing/Closing-Mechanik, Beschlusslage, Vollmachten, Datenraum und Haftungsallokation fallbezogen trennen.
+- **Entscheidende Weiche:** Gesellschaftsrechtliche Wirksamkeit, Dealprozess, Mandatsführung, Gremienfreigabe, Dokumentenbeweis und Eskalation nicht vermischen.
+- **Arbeitsprodukt:** Partnerfähiges Memo, Closing-/Action-Liste, Redline-Hinweis oder PMO-Board mit Verantwortlichen und Blockern.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:

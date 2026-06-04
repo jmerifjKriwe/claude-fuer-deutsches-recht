@@ -5,6 +5,13 @@ description: "JVEG-relevante Daten aus Gerichtsakten und Gutachterunterlagen ext
 
 # JVEG-Aktenstripper
 
+## Fachkern: JVEG-Aktenstripper
+- **Spezialgegenstand:** JVEG-Aktenstripper wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** JVEG, GKG/KostR-Schnittstellen, Festsetzungsverfahren, Beschwerde, Vorschuss, Entschädigung, Sachverständigenvergütung und Belegpflicht.
+- **Entscheidende Weiche:** Trenne Rolle Zeuge/Sachverständiger/Dolmetscher, Zeitaufwand, Auslagen, Verdienstausfall, Vorschuss, Frist und Belegwert.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Aufgabe
 Extrahiere alle vergütungsrelevanten Daten aus Gerichtsschreiben, Anträgen, Rechnungen und Belegen und überführe sie in eine strukturierte, prüfbare JVEG-Datenmatrix.
 

@@ -5,6 +5,13 @@ description: "PTBS Einsatzfolge Beweisführung: prüft die einschlägigen Voraus
 
 # PTBS als Einsatzfolge – Beweisführung
 
+## Fachkern: PTBS als Einsatzfolge – Beweisführung
+- **Spezialgegenstand:** PTBS als Einsatzfolge – Beweisführung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Die posttraumatische Belastungsstörung (PTBS) ist eine anerkannte psychische Erkrankung, die durch Extremereignisse im Einsatz ausgelöst werden kann (ICD-10 F43.1, ICD-11 6B40). Im Versorgungsrecht der Bundeswehr ist PTBS als Wehrdienstbeschädigung/Einsatzunfall anerkannt, wenn der Kausalzusammenhang nach den Versorgungsmedizinischen Grundsätzen wahrscheinlich gemacht ist. Der Skill ordnet Diagnose, Belastungsanamnese, Gutachten und Verfahren.

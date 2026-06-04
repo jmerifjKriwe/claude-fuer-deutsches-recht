@@ -5,6 +5,13 @@ description: "Unternehmenskennzeichen, besondere Geschäftsbezeichnungen, Werkti
 
 # Unternehmenskennzeichen, Werktitel und Domains
 
+## Fachkern: Unternehmenskennzeichen, Werktitel und Domains
+- **Spezialgegenstand:** Unternehmenskennzeichen, Werktitel und Domains; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Aufgabe
 
 Prüfe Kennzeichenrechte außerhalb der eingetragenen Marke und ihre Kollision mit Marken, Domains, App-Namen, Hashtags und Social-Media-Handles.

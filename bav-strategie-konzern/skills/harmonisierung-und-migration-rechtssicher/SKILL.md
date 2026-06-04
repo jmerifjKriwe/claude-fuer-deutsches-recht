@@ -5,26 +5,21 @@ description: "bAV-Systeme nach Unternehmensrestrukturierung rechtssicher harmoni
 
 # Harmonisierung und Migration — Rechtssichere Vereinheitlichung von Versorgungssystemen
 
-**Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB**
-Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
+## Fachkern: Harmonisierung und Migration — Rechtssichere Vereinheitlichung von Versorgungssystemen
 
----
+- **bAV-Problem:** §§ 4 17 BetrAVG, UmwG. Prüfraster: Bestandsschutz, Unverfallbarkeit, Migrationsschritte. Output: Harmonisierungsplan bAV. Abgrenzung: nicht M-und-A-Buyout-Analyse.
+- **Normenanker:** BetrAVG, EStG/LSt, SGB IV, HGB/IFRS-Bilanzierung, InsO, ArbGG und arbeitsrechtliche Zusage-/Änderungsdogmatik je nach Durchführungsweg prüfen.
+- **Entscheidende Weiche:** Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen.
+- **Arbeitsprodukt:** bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
 
 ## Rechtsgrundlagen
 
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - §§ 1b, 2 BetrAVG (Unverfallbarkeit, m/n-tel-Berechnung — Grundlage für Besitzstand)
 - § 16 BetrAVG (Anpassungspflicht — bleibt auch nach Systemwechsel bestehen)
 - §§ 77, 87 BetrVG (Betriebsvereinbarung; erzwingbare Mitbestimmung)
 - § 50 BetrVG (Zuständigkeit Gesamtbetriebsrat bei konzernweiten Regelungen)
 - § 58 BetrVG (Konzernbetriebsrat — nur für konzerneinheitliche Angelegenheiten)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Quellenregel
 
@@ -33,14 +28,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ### Schritt 1: Ausgangslage — Typische Harmonisierungsszenarien
 
-Treuenfels Yamamoto begegnet in der Praxis folgenden Ausgangssituationen:
+bAV-Projektteam begegnet in der Praxis folgenden Ausgangssituationen:
 
 1. **Post-M&A:** Zusammenführung zweier Konzerne mit unterschiedlichen Versorgungsordnungen (z.B. nach einer Akquisition)
 2. **Konzernbereinigung:** Über Jahrzehnte gewachsene unterschiedliche VO je Gesellschaft im selben Konzern — bis zu dreißig verschiedene Versorgungswerke
 3. **Tarifvertraglicher Systemwechsel:** Branchentarifvertrag ändert Versorgungssystem; betriebliche VO muss angepasst werden
 4. **Regulatorische Änderung:** Neue IORP II-Anforderungen erfordern Governance-Anpassung aller Versorgungswerke
 
-### Schritt 2: Harmonisierungs-Roadmap (Treuenfels Yamamoto Standardstruktur)
+### Schritt 2: Harmonisierungs-Roadmap (bAV-Projektteam Standardstruktur)
 
 **Phase 0 — Inventory (drei bis sechs Monate):**
 - Vollständige Bestandsaufnahme aller Versorgungswerke (→ Skill `historisch-gewachsene-altsysteme-due-diligence`)
@@ -80,11 +75,8 @@ Bei Systemwechsel wird stets ein **Übergangs-Versorgungswerk** eingerichtet, da
 3. Future Service (Stufe 3) in das neue System überführt
 
 **Wahlmodell (optional):**
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schließung des Versorgungswerks für Future Service (Einfrierung) ist bei sachlichen Gründen zulässig (Stufe 3)
 - Erdiente Anwartschaften (Stufen 1 und 2) bleiben unantastbar
 - Besitzstandsschutz muss explizit im Schließungsbeschluss und in der kommunizierten neuen Regelung festgehalten werden
@@ -99,11 +91,11 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 ```
 PROJEKTPLAN HARMONISIERUNG VERSORGUNGSWERKE
 [Konzern Muster AG]
-Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, Treuenfels Yamamoto
+Federführung: fachliche Leitung, bAV-Projektteam
 
 PROJEKTSTRUKTUR:
 Lenkungsausschuss: CFO, CHRO, Konzernbetriebsrat-Vorsitzender (beobachtend)
-Projektleitung: Dr. von Sompeh-Ostermann + Group HR Director
+Projektleitung: fachliche Leitung + Group HR Director
 Arbeitsgruppen: Recht / Aktuariat / HR-Operations / Kommunikation
 
 PHASENPLAN:
@@ -147,7 +139,6 @@ Ihre Rechte beim Systemwechsel.
    zum [Stichtag] (m/n-tel):   EUR [Betrag] p.m.
    
    Ihre erdiente Anwartschaft ist durch die Harmonisierung vollständig geschützt.
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 2. DAS NEUE VERSORGUNGSSYSTEM
 

@@ -5,6 +5,13 @@ description: "Short Online Literary Works und Online-Beiträge: Gruppenoptionen 
 
 # Short Online Literary Works und GRTX
 
+## Fachkern: Short Online Literary Works und GRTX
+- **Spezialgegenstand:** Short Online Literary Works und GRTX; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
+- **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Aufgabe
 
 Prüfe, ob kurze online veröffentlichte Texte eines Verlags über eine spezielle Gruppenoption statt über Einzelanträge laufen können. Das betrifft eher Kolumnen, kurze Beiträge und Online-Serien als klassische Bücher.

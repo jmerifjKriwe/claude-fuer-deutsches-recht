@@ -5,6 +5,13 @@ description: "Geschäftsführer haftet persoenlich oder Gesellschaft klagt gegen
 
 # Geschäftsführer-Haftung § 43 GmbHG prüfen
 
+## Fachkern: Geschäftsführer-Haftung § 43 GmbHG prüfen
+- **Spezialgegenstand:** Geschäftsführer-Haftung § 43 GmbHG prüfen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
+- **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Triage zu Beginn
 
 Vor Beginn des Haftungsprüfrasters folgende Fragen klären:

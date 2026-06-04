@@ -5,6 +5,13 @@ description: "Bildmarke und Wort-Bild-Marke für Couture-Logos beim DPMA und EUI
 
 # Bildmarke und Wort-Bild-Marke für Couture-Logos
 
+## Fachkern: Bildmarke und Wort-Bild-Marke für Couture-Logos
+- **Spezialgegenstand:** Bildmarke und Wort-Bild-Marke für Couture-Logos; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Das Logo ist die visuelle DNA eines Luxushauses. Für klôtzzkètté SA umfasst das Bildprogramm das emblematische Doppel-K-Signet (zwei verschlungene Buchstaben K in Graphit auf Elfenbein), die charakteristische Schrifttype der Marke und die Hausfarben Ivory (Pantone 9181 C) und Graphit (Pantone 432 C). Als Markenanwältin muss ich sowohl die Bildbestandteile als auch deren Kombination mit dem Wortzeichen absichern.
 
 Die Wort-Bild-Marke schützt das Zeichen in seiner konkreten grafischen Gestalt. Sie ist weniger flexibel als die Wortmarke, bietet aber stärkere Verteidigung gegen nahezu identische visuelle Kopien.

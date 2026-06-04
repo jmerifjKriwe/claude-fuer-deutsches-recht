@@ -5,6 +5,13 @@ description: "Debitorenbrief höflich aber rechtssicher: prüft die einschlägig
 
 # Debitorenbrief höflich aber rechtssicher
 
+## Fachkern: Debitorenbrief höflich aber rechtssicher
+- **Spezialgegenstand:** Debitorenbrief höflich aber rechtssicher; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
+- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Der erste Brief, den ein Debitor vom Factor erhält, prägt die gesamte Folgekommunikation. Er muss **drei Ziele** gleichzeitig erfüllen: (1) **Wirksame Abtretungsanzeige** nach § 409 BGB, (2) **DSGVO-Information** nach Art. 14 DSGVO, (3) **Geschäftsbeziehung wahren** – der Debitor ist nicht Schuldner aus Notlage, sondern wirtschaftlich aktiver Partner, der weiter beim Kunden einkauft. Ein zu rauer Ton zerstört das Verhältnis Kunde-Debitor.

@@ -5,13 +5,15 @@ description: "Wirtschaftsprüfer: geldwaeschepruefung wp praxis - Organisationsp
 
 # Wirtschaftsprüfer: geldwaeschepruefung wp praxis - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
-## Einsatz
+## Konkreter Berufsrechtskern: Wirtschaftsprüfer: geldwaeschepruefung wp praxis - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
+- **Spezialgegenstand:** Wirtschaftsprüfer: geldwaeschepruefung wp praxis - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
+- **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, EU-Abschlussprüferrecht, APAS-Verfahren, Unabhängigkeit und Qualitätskontrolle.
+- **Institutionen:** WPK, APAS, Prüfstelle/Abschlussprüferaufsicht, Registergericht und Mandatsgremien.
+- **Spezialspur:** GwG-Risikoklasse, Identifizierung, wirtschaftlich Berechtigte, Verdachtsmeldung und Tätigkeitsverbot gesondert prüfen.
+- **Spezialspur:** Prüfungsauftrag, Unabhängigkeit, Prüfungsstandard, Wesentlichkeit und Dokumentation konkret festlegen.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
 
-Nutze diesen Skill im Plugin **Berufsrecht Wirtschaftsprüfer**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
-
-**Fokus:** geldwaeschepruefung wp praxis; organisationspflichten, prävention, team-anweisung und fristenkontrolle im Berufsrecht der Wirtschaftsprüfer
-
-## Kaltstart
+## Fallweichen dieser Speziallage
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

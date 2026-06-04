@@ -5,6 +5,13 @@ description: "Begleitet die Übertragung von Fondsanteilen, Zustimmungserfordern
 
 # LP-Transfer und Secondary Interest Sale
 
+## Fachkern: LP-Transfer und Secondary Interest Sale
+- **Spezialgegenstand:** LP-Transfer und Secondary Interest Sale wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GmbHG, AktG, UmwG, GWB/FKVO, AWG/AWV, KAGB/AIFM-Bezug, LMA-Finanzierung, InsO/StaRUG, Steuer- und Managementbeteiligungsfragen.
+- **Entscheidende Weiche:** Bestimme Dealphase, Fondsrolle, Target-Risiko, Finanzierungsstruktur, Consent/CP, Exit-Auswirkung und Konflikt zwischen Sponsor, Management, Lender und Co-Investor.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 Der Skill prüft, ob ein Secondary schnell closingfähig ist oder an Consent, Tax oder Side-Letter-Rechten hängt. Sekundärmarktverkäufe von LP-Interests sind seit 2020 die schnellstwachsende PE-Subklasse — Buyer (Coller, Ardian, Lexington, HarbourVest) verlangen klare Closing-Mechanik, Seller wollen liquide Exits unter NAV-Discount.

@@ -5,6 +5,13 @@ description: "Securpharm Fälschungsschutz: prüft die einschlägigen Voraussetz
 
 # Securpharm Fälschungsschutz
 
+## Fachkern: Securpharm Fälschungsschutz
+- **Spezialgegenstand:** Securpharm Fälschungsschutz; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
+- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Securpharm ist die deutsche Umsetzung der EU-Fälschungsrichtlinie (2011/62/EU) und der delegierten VO 2016/161/EU. Jede Rx-Packung trägt einen 2D-Datamatrix-Code mit Seriennummer und einen Erstöffnungsschutz (Tamper-Evident-Verschluss). Die Apotheke ist verpflichtet, vor Abgabe die Echtheit zu verifizieren und den Code zu deaktivieren. Verstösse sind sicherheits- und aufsichtsrelevant.

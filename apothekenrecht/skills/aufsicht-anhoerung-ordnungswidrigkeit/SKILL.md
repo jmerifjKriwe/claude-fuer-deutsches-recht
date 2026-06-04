@@ -5,6 +5,13 @@ description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im
 
 # Aufsicht Anhörung Ordnungswidrigkeit
 
+## Fachkern: Aufsicht Anhörung Ordnungswidrigkeit
+- **Spezialgegenstand:** Aufsicht Anhörung Ordnungswidrigkeit; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
+- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Landesaufsichtsbehörden (Regierungspräsidium, Landesamt für Gesundheit, Apothekerkammer) führen Apothekenrevisionen durch und leiten bei Beanstandungen Anhörungs- oder Ordnungswidrigkeitenverfahren ein. Verstösse gegen ApoG, ApBetrO, AMG, BtMG sind teils OWi (§ 97 AMG, § 32 BtMG, § 25 ApoG), teils strafbewehrt. Anhörung nach § 28 VwVfG geht jeder belastenden Massnahme voraus. Ziel des Skills: strukturierte Verteidigung.

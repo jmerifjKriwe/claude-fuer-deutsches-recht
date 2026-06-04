@@ -5,9 +5,12 @@ description: "Mahngebuehren und Zinsanpassungsklauseln in AGB. Skill klaert wie 
 
 # Mahngebuehren Und Zinsanpassung Agb
 
-## Aufgabe
+## Fachkern: Mahngebuehren Und Zinsanpassung Agb
 
-Skill fuer AGB-Klauseln zu Mahngebuehren und Zinsanpassung.
+- **Klauselproblem (Mahngebuehren Und Zinsanpassung Agb):** Mahngebuehren und Zinsanpassungsklauseln in AGB. Skill klaert wie hoch Mahngebuehren in AGB sein duerfen Differenzierung erste zweite dritte Mahnung sowie die Wechselwirkung zum Verzugsschaden (§ 280 II 286 BGB). Behandelt automatische Zinsanpassung an Leitzins-Index BGH-Linie zu intransparenten Klauseln.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
 
 ## Mahngebuehren
 

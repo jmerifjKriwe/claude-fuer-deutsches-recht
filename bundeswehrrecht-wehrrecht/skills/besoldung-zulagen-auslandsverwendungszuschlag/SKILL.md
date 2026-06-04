@@ -5,6 +5,13 @@ description: "Besoldung, Zulagen, AVZ: prüft BBesG, AVZ-Berechnung, Erschwernis
 
 # Besoldung, Zulagen und Auslandsverwendungszuschlag
 
+## Fachkern: Besoldung, Zulagen und Auslandsverwendungszuschlag
+- **Spezialgegenstand:** Besoldung, Zulagen und Auslandsverwendungszuschlag; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Soldaten erhalten Grundgehalt nach BBesG (A-Besoldung) zuzüglich Zulagen. Bei Auslandseinsätzen kommt der AVZ hinzu (§§ 56–58 BBesG), gestaffelt nach Gefährdungsstufen (bis ca. 110 €/Tag).

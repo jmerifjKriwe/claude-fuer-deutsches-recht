@@ -5,6 +5,13 @@ description: "Apothekenerlaubnis ApoG persönliche Voraussetzungen: prüft die e
 
 # Apothekenerlaubnis ApoG persönliche Voraussetzungen
 
+## Fachkern: Apothekenerlaubnis ApoG persönliche Voraussetzungen
+- **Spezialgegenstand:** Apothekenerlaubnis ApoG persönliche Voraussetzungen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
+- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Erlaubnis zum Betrieb einer Apotheke nach §§ 1, 2 ApoG. Die Erlaubnis ist personengebunden, nicht übertragbar und an konkret bezeichnete Räume gebunden. Geprüft werden in diesem Skill ausschliesslich die **persönlichen** (subjektiven) Voraussetzungen des Apothekenleiters; sachliche Voraussetzungen (Räume, Ausstattung) sind im Skill `raeume-ausstattung-rezeptur-defektur-labor` abgebildet.

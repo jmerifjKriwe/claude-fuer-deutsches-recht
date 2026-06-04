@@ -5,9 +5,12 @@ description: "AGB-Vertragsstrafe nach § 309 Nr. 6 BGB. Skill vertieft die AGB-r
 
 # Agb Vertragsstrafe 309 Nr 6
 
-## Aufgabe
+## Fachkern: Agb Vertragsstrafe 309 Nr 6
 
-Skill fuer AGB-Vertragsstrafen.
+- **Klauselproblem (Agb Vertragsstrafe 309 Nr 6):** AGB-Vertragsstrafe nach § 309 Nr. 6 BGB. Skill vertieft die AGB-rechtliche Behandlung von Vertragsstrafen im B2C und B2B. Klaert Hoechstgrenzen Abgrenzung zu pauschalierten Schadensersatz Sondervorschriften im Arbeitsvertrag (§ 310 Abs. 4 BGB) sowie Wechselwirkung mit Schadenspauschalierung. BGH-Linien. Liefert Klauselentwurf.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
 
 ## Norm
 

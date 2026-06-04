@@ -5,6 +5,13 @@ description: "Neue Kennzeichenstrategien für KI-Authentizitaet in Haute-Couture
 
 # Anti-KI-Marken und Authentizitätskennzeichen
 
+## Fachkern: Anti-KI-Marken und Authentizitätskennzeichen
+- **Spezialgegenstand:** Anti-KI-Marken und Authentizitätskennzeichen; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Ein neues Spielfeld, das ich für klôtzzkètté SA mit größtem strategischen Interesse begleite. Im Zeitalter KI-generierter Modedesigns, synthetischer Stoffe mit algorithmischen Mustern und von Diffusionsmodellen entworfenem Haute-Couture wird das Versprechen "Human-Made" — von echten Couturières entworfen, von Menschenhand genäht — zu einem Luxus-Differenzierungsmerkmal der höchsten Kategorie.
 
 Die Comtesse Beatrice de Klotzzkettie hat klar positioniert: Kein Faden bei klôtzzkètté wird von einer KI entworfen. Das ist rechtlich abzusichern.

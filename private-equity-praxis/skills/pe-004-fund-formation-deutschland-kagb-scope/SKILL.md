@@ -5,6 +5,13 @@ description: "Prüft, ob ein Vehikel als AIF/KVG-reguliert ist oder außerhalb d
 
 # Fund Formation: KAGB-Scope und Strukturentscheidung
 
+## Fachkern: Fund Formation: KAGB-Scope und Strukturentscheidung
+- **Spezialgegenstand:** Fund Formation: KAGB-Scope und Strukturentscheidung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GmbHG, AktG, UmwG, GWB/FKVO, AWG/AWV, KAGB/AIFM-Bezug, LMA-Finanzierung, InsO/StaRUG, Steuer- und Managementbeteiligungsfragen.
+- **Entscheidende Weiche:** Bestimme Dealphase, Fondsrolle, Target-Risiko, Finanzierungsstruktur, Consent/CP, Exit-Auswirkung und Konflikt zwischen Sponsor, Management, Lender und Co-Investor.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 Der Skill trennt echte Fondsverwaltung von Holding-, Club-Deal- und SPV-Strukturen und erstellt den ersten Regulierungsplan. Kernfrage: liegt ein Investmentvermögen im Sinne des § 1 Abs. 1 KAGB vor (Pooling, externer Kapitalgeber, definierter Anlagepolitik), was die Vollerlaubnis-Pflicht als KVG oder zumindest die Registrierungspflicht für kleine AIFM nach § 2 Abs. 4/5 KAGB nach sich zieht?

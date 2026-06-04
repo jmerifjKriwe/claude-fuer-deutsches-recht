@@ -5,6 +5,13 @@ description: "Preisbindung Arzneimittel AMPreisV: prüft die einschlägigen Vora
 
 # Preisbindung Arzneimittel AMPreisV
 
+## Fachkern: Preisbindung Arzneimittel AMPreisV
+- **Spezialgegenstand:** Preisbindung Arzneimittel AMPreisV; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
+- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Die Arzneimittelpreisverordnung (AMPreisV) bindet die Endpreise verschreibungspflichtiger Arzneimittel auf einheitliche Höhe — unabhängig davon, in welcher inländischen Apotheke das Rx eingelöst wird. Die Preisbindung gilt für GKV-Patienten und PKV gleichermassen. Diskutiert wird die Geltung gegenüber EU-Versandapotheken (EuGH 2016; BGH-Folge-Rspr.). Boni, Rabatte und Gutscheine sind nur in engen Grenzen zulässig (siehe Skill `skonti-boni-rabatte-zuweisungsverbot`).

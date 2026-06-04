@@ -5,6 +5,13 @@ description: "Apothekenbetriebsordnung Grundpflichten: prüft die einschlägigen
 
 # Apothekenbetriebsordnung Grundpflichten
 
+## Fachkern: Apothekenbetriebsordnung Grundpflichten
+- **Spezialgegenstand:** Apothekenbetriebsordnung Grundpflichten; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
+- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Die Apothekenbetriebsordnung (ApBetrO) regelt sämtliche operative Pflichten beim Betrieb einer öffentlichen Apotheke: Räume, Personal, Sortiment, Beratung, Dokumentation, Qualitätsmanagement (QMS), Hygiene, Defektur und Rezeptur. Dieser Skill fasst die zwölf zentralen Grundpflichten in einer Checkliste zusammen, die zur Selbstüberprüfung oder zur Antwort auf eine Apothekenrevision dient.

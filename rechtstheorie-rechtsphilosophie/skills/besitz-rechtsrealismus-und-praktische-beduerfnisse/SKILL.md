@@ -5,6 +5,13 @@ description: "Prueft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streit
 
 # Besitz, Rechtsrealismus und praktische Bedürfnisse
 
+## Fachkern: Besitz, Rechtsrealismus und praktische Bedürfnisse
+- **Spezialgegenstand:** Besitz, Rechtsrealismus und praktische Bedürfnisse; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
+- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Aufgabe
 
 Dieser Skill fragt bei Besitz- und Eigentumsargumenten: Welche reale Konfliktlage entscheidet das Recht? Er ergänzt Begriffsarbeit um Rechtsrealismus, ohne in bloße Bauchgefühl-Jurisprudenz zu kippen. Praktische Bedürfnisse müssen konkret benannt werden: Wer handelt wie, welche Beweise gibt es, welche Regel senkt Konflikte, welche Regel erzeugt Fehlanreize?

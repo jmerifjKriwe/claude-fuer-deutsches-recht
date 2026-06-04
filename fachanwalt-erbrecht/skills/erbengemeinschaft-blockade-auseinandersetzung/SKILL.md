@@ -5,9 +5,11 @@ description: "Erbengemeinschaft: Verwaltung, Blockade, Teilungsversteigerung, Na
 
 # Erbengemeinschaft: Verwaltung, Blockade, Teilungsversteigerung, Nachlasskonto, Auskunft und Auseinandersetzungsplan.
 
-## Auftrag
+## Fachkern: Erbengemeinschaft: Verwaltung, Blockade, Teilungsversteigerung, Nachlasskonto, Auskunft und Auseinandersetzungsplan.
 
-Dieser Spezialskill ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit Allgemeinplätzen, sondern ordnet die Akte nach Anspruchsziel, Frist, Beweis, Gegenseite, Gericht und wirtschaftlichem Ergebnis.
+- **Akte (Erbengemeinschaft: Verwaltung, Blockade, Teilungsversteigerung, Nachlasskonto, Auskunft und Auseinandersetzungsplan.):** Verwaltung, Blockade, Teilungsversteigerung, Nachlasskonto, Auskunft und Auseinandersetzungsplan.
+- **Prüfachse:** Anspruchsziel, Frist, Beweis, Gegenseite, Gericht/Zuständigkeit, Kostenrisiko und wirtschaftliches Ergebnis werden getrennt.
+- **Arbeitsprodukt:** Schriftsatzkern, Stufenplan, Vergleichslinie oder Mandantenbrief mit Beleg- und Fristenmatrix.
 
 ## Normanker
 

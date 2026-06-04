@@ -5,10 +5,12 @@ description: "Due Diligence historisch gewachsener bAV-Altsysteme im Konzern: Be
 
 # Historisch Gewachsene Altsysteme — Due Diligence
 
-**Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB**
-Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
+## Fachkern: Historisch Gewachsene Altsysteme — Due Diligence
 
----
+- **bAV-Problem:** Bestandsanalyse, Haftungsrisiken. Normen: §§ 2 6a EStG, BetrAVG. Prüfraster: Durchführungswege, ungedeckte Verpflichtungen, Altregelungen. Output: Due-Diligence-Bericht bAV-Altsysteme. Abgrenzung: nicht laufende Versorgungsverwaltung.
+- **Normenanker:** BetrAVG, EStG/LSt, SGB IV, HGB/IFRS-Bilanzierung, InsO, ArbGG und arbeitsrechtliche Zusage-/Änderungsdogmatik je nach Durchführungsweg prüfen.
+- **Entscheidende Weiche:** Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen.
+- **Arbeitsprodukt:** bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
 
 ## Rechtsgrundlagen
 
@@ -17,13 +19,9 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - § 30f BetrAVG (Übergangsregelungen — Schutz für Zusagen zwischen 1975 und 2001)
 - § 30g BetrAVG (Übergangsregelungen für Zusagen vor 1975 — Sonderregelungen)
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BetrVG § 99 ff. (Mitbestimmung bei Personalmaßnahmen — Relevanz für historische Sonderzusagen leitende Angestellte)
 - § 6a EStG (Steuerliche Passivierungspflicht für Direktzusagen — auch Altzusagen)
 - Tarifverträge: Altersversorgungstarifvertrag ATV, ATV-K (öffentlicher Dienst); branchenspezifische Tarifverträge (chemische Industrie, Metall, Banken)
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Quellenregel
 
@@ -32,7 +30,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ### Schritt 1: Inventory-Aufbau — Systematische Erfassung
 
-Dr. von Sompeh-Ostermann entwickelt für jeden Mandanten ein strukturiertes Inventory-System (Global Plan Inventory — auf Deutschland bezogen: Deutschland-Inventory).
+fachliche Leitung entwickelt für jeden Mandanten ein strukturiertes Inventory-System (Global Plan Inventory — auf Deutschland bezogen: Deutschland-Inventory).
 
 **Inventory-Dimensionen:**
 
@@ -68,17 +66,14 @@ Dr. von Sompeh-Ostermann entwickelt für jeden Mandanten ein strukturiertes Inve
 #### Gesamtversorgungssystem
 Viele Unternehmen hatten bis in die 1990er Jahre Gesamtversorgungssysteme: Die Betriebsrente soll zusammen mit der gesetzlichen Rente ein bestimmtes Gesamtversorgungsniveau (z.B. 75 % des letzten Nettogehalts) erreichen. Durch die Absenkung des gesetzlichen Rentenniveaus steigt die Betriebsrente automatisch — latentes Risiko.
 
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### Schriftformprobleme
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### Versorgungstarifverträge
 In zahlreichen Branchen existieren Versorgungstarifverträge (chemische Industrie — ChemTV, Metalltarifverträge, Banken-TV, öffentlicher Dienst ATV/ATV-K). Diese binden tarifgebundene Arbeitgeber und sind durch Betriebsvereinbarung grundsätzlich nicht unterschreitbar (§ 4 Abs. 3 TVG — Günstigkeitsprinzip).
 
 Besonderer Prüfbedarf:
 - Tarifbindung des Mandanten? (Mitgliedschaft AG-Verband, Haus-TV)
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Branchenspezifische TV: Eigene Systeme oft abweichend von §§ 1 ff. BetrAVG (z.B. eigene Unverfallbarkeitsfristen, eigene Anpassungsregelungen)
 
 #### Sonderzusagen Führungskräfte
@@ -90,7 +85,7 @@ Leitende Angestellte (§ 5 Abs. 3 BetrVG) und Vorstände haben häufig individue
 
 ### Schritt 3: Risk Map
 
-Dr. von Sompeh-Ostermann erstellt eine Risk Map als zentrales Steuerungsdokument:
+fachliche Leitung erstellt eine Risk Map als zentrales Steuerungsdokument:
 
 **Risk Map — Dimensionen:**
 
@@ -116,7 +111,7 @@ Einstufung: 1 = kein Risiko, 2 = geringes Risiko, 3 = mittleres Risiko, 4 = hohe
 ```
 INVENTORY-MATRIX BETRIEBLICHE ALTERSVERSORGUNG
 [Konzern Muster AG] — Stand: [Datum]
-Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, Treuenfels Yamamoto
+Federführung: fachliche Leitung, bAV-Projektteam
 
 [Tabellenstruktur:]
 Nr. | Gesellschaft | Zusagetyp | Datum | Durchführungsweg | Anwärter | Rentner | DBO-IAS19 EUR | Risikoeinstufung
@@ -130,7 +125,7 @@ Nr. | Gesellschaft | Zusagetyp | Datum | Durchführungsweg | Anwärter | Rentner
 
 ```
 CHECKLISTE ALTZUSAGEN-AUDIT
-Treuenfels Yamamoto · Dr. von Sompeh-Ostermann
+bAV-Projektteam · fachliche Leitung
 
 DOKUMENTATIONS-CHECK:
 □ Alle Versorgungsordnungen (einschl. Vorgängerversionen) vorhanden?
@@ -142,7 +137,6 @@ DOKUMENTATIONS-CHECK:
 
 RECHTLICHE ANALYSE:
 □ Unverfallbarkeitsfristen korrekt angewendet (historische Fristen § 30f BetrAVG)?
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 □ § 16-Anpassungshistorie vollständig und rechtmäßig dokumentiert?
 □ Gesamtversorgungsklauseln: Anrechnungsmechanismus bei Rentenreform analysiert?
 □ Tarifbindung aktuell und historisch gecheckt (TV-Ansprüche von Arbeitnehmern)?

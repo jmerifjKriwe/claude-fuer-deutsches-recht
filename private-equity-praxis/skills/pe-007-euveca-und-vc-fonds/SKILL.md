@@ -5,6 +5,13 @@ description: "Prüft EuVECA-Label, Venture-Capital-Fonds, Start-up-Portfolios, M
 
 # EuVECA und VC-Fonds: Wagniskapital richtig etikettieren
 
+## Fachkern: EuVECA und VC-Fonds: Wagniskapital richtig etikettieren
+- **Spezialgegenstand:** EuVECA und VC-Fonds: Wagniskapital richtig etikettieren wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GmbHG, AktG, UmwG, GWB/FKVO, AWG/AWV, KAGB/AIFM-Bezug, LMA-Finanzierung, InsO/StaRUG, Steuer- und Managementbeteiligungsfragen.
+- **Entscheidende Weiche:** Bestimme Dealphase, Fondsrolle, Target-Risiko, Finanzierungsstruktur, Consent/CP, Exit-Auswirkung und Konflikt zwischen Sponsor, Management, Lender und Co-Investor.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 Der Skill liefert die Strukturentscheidung zwischen EuVECA-Label (VO 345/2013), klassischem Sub-Threshold-AIFM (§ 2 Abs. 4 KAGB) und vollerlaubnispflichtiger KVG für Venture-Capital-Fonds. Kerneinsatz bei Fondsmarketing und wenn ein VC-Fonds nicht wie ein Buyout-Fonds funktionieren soll — andere Anlegerlogik, andere Ticketgrößen, andere Reporting-Erwartungen.

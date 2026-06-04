@@ -5,6 +5,13 @@ description: "Reservistendienst und Dienstleistungspflicht: prüft SG §§ 60–
 
 # Reservistendienst und Dienstleistungspflicht
 
+## Fachkern: Reservistendienst und Dienstleistungspflicht
+- **Spezialgegenstand:** Reservistendienst und Dienstleistungspflicht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Reservisten unterliegen der Dienstleistungspflicht nach SG §§ 60 ff. Heranziehungen zu freiwilligem Reservistendienst oder im Spannungsfall durch Heranziehungsbescheid.

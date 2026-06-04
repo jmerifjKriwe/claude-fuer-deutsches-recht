@@ -5,6 +5,13 @@ description: "Button-Lösung § 312j BGB: prüft die einschlägigen Voraussetzun
 
 # Button-Lösung § 312j BGB
 
+## Fachkern: Button-Lösung § 312j BGB
+- **Spezialgegenstand:** Button-Lösung § 312j BGB wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BGB Fernabsatz/Widerruf, PAngV, UWG, DSGVO, DDG/DSA, TDDDG, Produktsicherheit, Gewährleistung, Zahlungsdienste und Plattformrecht.
+- **Entscheidende Weiche:** Trenne Shop-Frontend, Bestellstrecke, Informationspflicht, Preis, Widerruf, Mängelrecht, Werbung, Tracking und Plattform-/Marketplace-Pflichten.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 § 312j III BGB verpflichtet Unternehmer im elektronischen Geschäftsverkehr mit Verbrauchern, den Bestell-Button eindeutig und gut lesbar mit den Worten "zahlungspflichtig bestellen" oder einer entsprechenden eindeutigen Formulierung zu beschriften. § 312j II BGB verlangt die hervorgehobene Anzeige wesentlicher Vertragsdaten unmittelbar vor Abgabe der Bestellung. Verstoß: kein wirksamer Vertragsschluss (§ 312j IV BGB). Der Skill ordnet die Voraussetzungen für die wirksame Online-Bestellung und führt durch typische Fehler.

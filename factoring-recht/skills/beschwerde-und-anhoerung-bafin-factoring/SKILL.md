@@ -5,6 +5,13 @@ description: "Beschwerde und Anhörung BaFin Factoring: prüft die einschlägige
 
 # Beschwerde und Anhörung BaFin Factoring
 
+## Fachkern: Beschwerde und Anhörung BaFin Factoring
+- **Spezialgegenstand:** Beschwerde und Anhörung BaFin Factoring; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
+- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Die BaFin greift im Factoring-Bereich auf mehreren Wegen ein: **Sonderprüfung** (§ 44 KWG), **Anhörung** (§ 28 VwVfG), **Untersagungsverfügung** (§ 37 KWG bei erlaubnislosem Betrieb), **Anordnungen zur Geschäftsorganisation** (§ 25a KWG), **Bußgeld** (§ 56 KWG). Vor belastenden Maßnahmen muss BaFin den Betroffenen anhören. Die Anhörungsphase ist die wichtigste Gelegenheit, das Verfahren noch zu drehen – Tatsachen klarstellen, Rechtsauffassung darlegen, mildere Mittel anbieten.

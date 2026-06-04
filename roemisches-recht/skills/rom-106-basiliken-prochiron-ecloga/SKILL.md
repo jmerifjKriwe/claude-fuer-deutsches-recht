@@ -29,4 +29,3 @@ Dieser Skill ordnet die großen byzantinischen Kompilationen ein: **Ekloge**, **
 - Vergleichstabelle: Justinian, Ekloge/Prochiron, Basiliken.
 - Warnhinweise für Zitate und Übersetzungen.
 - Anschluss an Rezeptionsgeschichte.
-

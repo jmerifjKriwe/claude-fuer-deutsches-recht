@@ -5,6 +5,13 @@ description: "Vorschuss auf JVEG-Verguetung beantragen: Voraussetzungen, Formerf
 
 # JVEG-Vorschuss
 
+## Fachkern: JVEG-Vorschuss
+- **Spezialgegenstand:** JVEG-Vorschuss wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** JVEG, GKG/KostR-Schnittstellen, Festsetzungsverfahren, Beschwerde, Vorschuss, Entschädigung, Sachverständigenvergütung und Belegpflicht.
+- **Entscheidende Weiche:** Trenne Rolle Zeuge/Sachverständiger/Dolmetscher, Zeitaufwand, Auslagen, Verdienstausfall, Vorschuss, Frist und Belegwert.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Aufgabe
 Prüfe Vorschussanträge nach § 3 JVEG auf Zulässigkeit und Höhe, insbesondere bei erheblichen Fahrtkosten, Übernachtungsbedarf und Teilleistungen.
 

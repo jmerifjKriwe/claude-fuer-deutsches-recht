@@ -5,6 +5,12 @@ description: "Erbrechtsklage oder erbrechtlichen Antrag substantiiert formuliere
 
 # Schriftsatzkern und Substantiierung im Erb- und Pflichtteilsrecht
 
+## Fachkern: Schriftsatzkern und Substantiierung im Erb- und Pflichtteilsrecht
+
+- **Spezialfrage (Schriftsatzkern und Substantiierung im Erb- und Pflichtteilsrecht):** Anspruchsgrundlage Sachverhalt Beweisangebot Antrag Streitwert Fristen. Output: Schriftsatzkern Klagentwurf oder Antrag. Abgrenzung: nicht für außergerichtliche Korrespondenz oder Berechnungen.
+- **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
+
+
 ## Aktuelle Rechtsprechung (Substantiierung Erbrecht)
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

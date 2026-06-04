@@ -89,4 +89,3 @@ Die PKV deckt Behandlungen auch im Ausland ab, aber mit Einschränkungen. Dieser
 - [§ 192 VVG – Leistungspflicht PKV](https://www.gesetze-im-internet.de/vvg_2008/__192.html)
 - [MB/KK 2009 – Musterbedingungen](https://www.pkv.de/service/rechner-und-services/musterbedingungen/)
 - [PKV-Ombudsmann](https://www.pkv-ombudsmann.de)
-

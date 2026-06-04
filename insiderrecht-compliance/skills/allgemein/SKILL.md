@@ -27,4 +27,3 @@ Dieser Skill führt nicht schematisch durch Kaltstart Insiderrecht, sondern zwin
 ## Ausgabe
 
 Erzeuge Insidervermerk, Ad-hoc-Entwurf, Aufschubakte, Insiderlistencheck oder Verteidigungsmemo. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
-

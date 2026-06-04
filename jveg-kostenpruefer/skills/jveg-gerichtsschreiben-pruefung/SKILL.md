@@ -5,6 +5,13 @@ description: "Gerichtsschreiben zur JVEG-Kostenkuerzung rechtlich prüfen und wi
 
 # JVEG-Gerichtsschreiben-Pruefung
 
+## Fachkern: JVEG-Gerichtsschreiben-Pruefung
+- **Spezialgegenstand:** JVEG-Gerichtsschreiben-Pruefung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** JVEG, GKG/KostR-Schnittstellen, Festsetzungsverfahren, Beschwerde, Vorschuss, Entschädigung, Sachverständigenvergütung und Belegpflicht.
+- **Entscheidende Weiche:** Trenne Rolle Zeuge/Sachverständiger/Dolmetscher, Zeitaufwand, Auslagen, Verdienstausfall, Vorschuss, Frist und Belegwert.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Aufgabe
 Analysiere Schreiben des Kostenbeamten oder des Gerichts zu JVEG-Vergütungsansprüchen und identifiziere Tatbestandsfehler, Ermessensfehler und unrechtmäßige Beleganforderungen.
 

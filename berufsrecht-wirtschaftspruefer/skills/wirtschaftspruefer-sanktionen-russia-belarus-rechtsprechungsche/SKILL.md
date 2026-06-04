@@ -5,13 +5,14 @@ description: "Wirtschaftsprüfer: sanktionen russia belarus - Rechtsprechungsche
 
 # Wirtschaftsprüfer: sanktionen russia belarus - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
 
-## Einsatz
+## Konkreter Berufsrechtskern: Wirtschaftsprüfer: sanktionen russia belarus - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
+- **Spezialgegenstand:** Wirtschaftsprüfer: sanktionen russia belarus - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
+- **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, EU-Abschlussprüferrecht, APAS-Verfahren, Unabhängigkeit und Qualitätskontrolle.
+- **Institutionen:** WPK, APAS, Prüfstelle/Abschlussprüferaufsicht, Registergericht und Mandatsgremien.
+- **Spezialspur:** Sanktionslisten, Mandatsannahme, Zahlungswege, Meldepflichten und Export-/Embargobezug getrennt prüfen.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
 
-Nutze diesen Skill im Plugin **Berufsrecht Wirtschaftsprüfer**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
-
-**Fokus:** sanktionen russia belarus; rechtsprechungscheck, stärkste gegenansicht und red-team-korrektur im Berufsrecht der Wirtschaftsprüfer
-
-## Kaltstart
+## Fallweichen dieser Speziallage
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

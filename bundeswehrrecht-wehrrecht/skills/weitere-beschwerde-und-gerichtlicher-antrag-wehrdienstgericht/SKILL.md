@@ -5,6 +5,13 @@ description: "Weitere Beschwerde und gerichtlicher Antrag TDG: prüft § 16 WBO,
 
 # Weitere Beschwerde und gerichtlicher Antrag beim Wehrdienstgericht
 
+## Fachkern: Weitere Beschwerde und gerichtlicher Antrag beim Wehrdienstgericht
+- **Spezialgegenstand:** Weitere Beschwerde und gerichtlicher Antrag beim Wehrdienstgericht; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Die weitere Beschwerde (§ 16 WBO) und der Antrag auf gerichtliche Entscheidung (§ 17 WBO) sind die Rechtsmittel, wenn die erste Beschwerde erfolglos war.

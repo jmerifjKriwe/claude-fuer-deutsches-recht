@@ -35,4 +35,3 @@ Dieser Skill erklärt das Zwölftafelgesetz als frühe Ordnung von **Verfahren u
 - Keine Gleichsetzung mit moderner ZPO.
 - Keine ungesicherte wörtliche Tafelübersetzung ohne Nutzerquelle.
 - Keine Beschönigung archaischer Zwangsmittel.
-

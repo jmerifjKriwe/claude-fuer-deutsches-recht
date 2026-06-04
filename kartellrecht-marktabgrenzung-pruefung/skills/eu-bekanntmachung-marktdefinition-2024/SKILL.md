@@ -5,6 +5,13 @@ description: "Skill zur neuen EU-Kommissions-Bekanntmachung zur Marktdefinition 
 
 # EU-Bekanntmachung zur Marktdefinition 2024
 
+## Fachkern: EU-Bekanntmachung zur Marktdefinition 2024
+- **Spezialgegenstand:** EU-Bekanntmachung zur Marktdefinition 2024; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
+- **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fundstelle und Status
 
 EU-Kommission, Bekanntmachung zur Marktdefinition im Sinne des Wettbewerbsrechts der Union, ABl. C/2024/1645 vom 22.02.2024 (CELEX 52024XC01645) — [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=OJ:C_202401645). Annahme durch die Kommission am 08.02.2024; Veröffentlichung im Amtsblatt am 22.02.2024. Ablösung der Bekanntmachung von 1997 (ABl. C 372/5).

@@ -5,6 +5,13 @@ description: "Begleitung der GmbH-Gründung von der Satzungserstellung (§ 2 Gmb
 
 # GmbH-Gründung – Von der Satzung bis zum Handelsregistereintrag
 
+## Fachkern: GmbH-Gründung – Von der Satzung bis zum Handelsregistereintrag
+- **Spezialgegenstand:** GmbH-Gründung – Von der Satzung bis zum Handelsregistereintrag; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
+- **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Triage zu Beginn
 
 Vor Beginn der Gruendungsbegleitung klaeren:

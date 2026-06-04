@@ -5,6 +5,13 @@ description: "Sitzungs- und Terminvorbereitung: vertiefter Berufsrechts-Skill f�
 
 # Sitzungs- und Terminvorbereitung
 
+## Fachkern: Sitzungs- und Terminvorbereitung
+- **Spezialgegenstand:** Sitzungs- und Terminvorbereitung; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfung, EU-Abschlussprüferrecht, APAS/WPK, Unabhängigkeit, Rotation und Qualitätskontrolle.
+- **Entscheidende Weiche:** Prüfungsauftrag, Unabhängigkeit, Dokumentation, Wesentlichkeit, Berichterstattung, Aufsicht und Verteidigungslinie trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Einsatz
 
 Nutze diesen Skill im Plugin **Berufsrecht Wirtschaftsprüfer**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.

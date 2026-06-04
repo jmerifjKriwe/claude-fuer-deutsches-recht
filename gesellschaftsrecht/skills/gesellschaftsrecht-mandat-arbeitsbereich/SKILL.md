@@ -6,6 +6,13 @@ description: 'Mandats-Workspaces verwalten — anlegen, auflisten, wechseln, sch
 
 # Mandats-Workspace
 
+## Fachkern: Mandats-Workspace
+- **Spezialgegenstand:** Mandats-Workspace; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
+- **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Kernsachverhalt
 
 Rechtsanwälte führen parallel mehrere Mandate. Jedes Mandat hat seinen eigenen Mandanten, seine eigene Gegenpartei, seine eigene Transaktionsphase, seine eigenen vertraulichen Unterlagen und seine eigene Handlungslogik. Die Vermischung von Mandatsinhalten — auch unbeabsichtigt — verletzt die anwaltliche Verschwiegenheitspflicht (§ 43a Abs. 2 BRAO, § 203 Abs. 1 Nr. 3 StGB) und kann Interessenkonflikte begründen (§ 43a Abs. 4 BRAO).

@@ -5,6 +5,13 @@ description: "Routing-Skill fuer die Krankenhausreform 2024/2025 (KHVVG): ordnet
 
 # Krankenhausreform Leistungsgruppen Routing
 
+## Fachkern: Krankenhausreform Leistungsgruppen Routing
+- **Spezialgegenstand:** Krankenhausreform Leistungsgruppen Routing; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
+- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 Die Krankenhausreform durch das KHVVG (Krankenhausversorgungsverbesserungsgesetz, in Kraft 01/2025) ist der groesste Umbau der stationaeren Versorgung seit Einfuehrung des DRG-Systems. Sie aendert KHG, KHEntgG und SGB V parallel. Der Skill ordnet jedes Mandat ein und routet zum richtigen Spezial-Skill.
 

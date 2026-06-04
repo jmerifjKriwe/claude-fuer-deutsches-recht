@@ -5,6 +5,13 @@ description: "Skonti Boni Rabatte Zuweisungsverbot: prüft die einschlägigen Vo
 
 # Skonti Boni Rabatte Zuweisungsverbot
 
+## Fachkern: Skonti Boni Rabatte Zuweisungsverbot
+- **Spezialgegenstand:** Skonti Boni Rabatte Zuweisungsverbot; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
+- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Skonti, Boni, Rabatte, Gewinnbeteiligungen und Zuweisungspakte sind in der Apothekenbranche stark reguliert. Zentrale Regelungen: AMPreisV (Endpreis-Bindung bei Rx), § 7 HWG (Heilmittelwerbegesetz, Geschenke-Verbot), § 11 ApoG (Zuweisungsverbot Arzt-Apotheke), §§ 299a/b StGB (Korruption im Gesundheitswesen). Skonti zwischen Grosshandel und Apotheke sind ein eigenes Streitfeld (BGH 2024; vom Anwender Aktualität zu verifizieren).

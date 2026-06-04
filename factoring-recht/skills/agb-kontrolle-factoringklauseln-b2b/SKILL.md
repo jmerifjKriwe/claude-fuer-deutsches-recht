@@ -5,6 +5,13 @@ description: "AGB Kontrolle Factoringklauseln B2B: prüft die einschlägigen Vor
 
 # AGB Kontrolle Factoringklauseln B2B
 
+## Fachkern: AGB Kontrolle Factoringklauseln B2B
+- **Spezialgegenstand:** AGB Kontrolle Factoringklauseln B2B; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
+- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Factoringverträge sind in der Regel **Formularverträge** des Factors. Damit unterliegen sie der AGB-Kontrolle nach §§ 305 ff. BGB. Auch im B2B-Verhältnis gelten die Inhaltskontrollen der §§ 307 BGB – die Klauselverbote der §§ 308 und 309 BGB greifen nicht direkt, sind aber als **Indikatoren** für die Unangemessenheit im Rahmen des § 307 BGB heranzuziehen (Indizwirkung, st. Rspr. BGH).

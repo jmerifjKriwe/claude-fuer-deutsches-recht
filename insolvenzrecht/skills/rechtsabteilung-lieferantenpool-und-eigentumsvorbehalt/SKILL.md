@@ -5,9 +5,12 @@ description: "Rechtsabteilungs-Spezialskill für Lieferantenpool und Eigentumsvo
 
 # Rechtsabteilung: Lieferantenpool und Eigentumsvorbehalt
 
-## Worum es geht
+## Spezialkern: Rechtsabteilung: Lieferantenpool und Eigentumsvorbehalt
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+- **Konkretes Problem:** Aussonderung, Absonderung und Fortlieferung werden im Krisenfenster sortiert.
+- **Norm-/Quellenanker:** InsO, StaRUG, EuInsVO, AnfG, HGB/GmbHG/AktG-Schnittstellen, ausländische Insolvenzverwalter und register-/grundbuchtauglicher Nachweis.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

@@ -5,6 +5,13 @@ description: "Deutscher Verlag mit US-Vertrieb: Import, Distributor, Plattformve
 
 # Foreign Publisher und US Distribution
 
+## Fachkern: Foreign Publisher und US Distribution
+- **Spezialgegenstand:** Foreign Publisher und US Distribution; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
+- **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Aufgabe
 
 Prüfe die Lage eines deutschen Verlags, dessen Titel in den USA verkauft, importiert, über Plattformen angeboten oder lizenziert wird. Der Skill verbindet Publication-Status, Mandatory Deposit und Registrierungsnutzen.

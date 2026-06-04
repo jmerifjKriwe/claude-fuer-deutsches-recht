@@ -5,9 +5,12 @@ description: "Rechtsabteilungs-Spezialskill für Unternehmensgeldbuße nach Deut
 
 # Rechtsabteilung: Unternehmensgeldbuße nach Deutsche Wohnen
 
-## Worum es geht
+## Spezialkern: Rechtsabteilung: Unternehmensgeldbuße nach Deutsche Wohnen
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+- **Konkretes Problem:** Rechtsabteilungen verteidigen Bußgelder ohne die falsche Fixierung auf eine identifizierte natürliche Täterperson.
+- **Norm-/Quellenanker:** DSGVO, BDSG, TTDSG/TDDDG, Landesdatenschutzrecht, OWiG/StPO-Schnittstelle bei Bußgeldern, EuGH/BVerwG/BGH-Linien nur verifiziert.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

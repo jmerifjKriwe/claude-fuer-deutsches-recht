@@ -5,9 +5,12 @@ description: "Ergaenzende Vertragsauslegung bei AGB-Luecken. Skill klaert die BG
 
 # Ergaenzende Vertragsauslegung Bei Agb Luecken
 
-## Aufgabe
+## Fachkern: Ergaenzende Vertragsauslegung Bei Agb Luecken
 
-Skill fuer Lueckenfuellung nach AGB-Unwirksamkeit.
+- **Klauselproblem (Ergaenzende Vertragsauslegung Bei Agb Luecken):** Ergaenzende Vertragsauslegung bei AGB-Luecken. Skill klaert die BGH-Linie zur Lueckenfuellung wenn AGB-Klauseln unwirksam sind. Behandelt das Verhaeltnis von § 306 Abs. 2 BGB Gesetzesrecht und ergaenzender Vertragsauslegung sowie die Grenzen der Modifikation. Behandelt typische Fallgruppen.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
 
 ## Norm
 

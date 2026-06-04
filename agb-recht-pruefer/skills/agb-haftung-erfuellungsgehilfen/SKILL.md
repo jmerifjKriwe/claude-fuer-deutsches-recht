@@ -5,9 +5,12 @@ description: "AGB-Haftung fuer Erfuellungsgehilfen. Skill klaert die AGB-rechtli
 
 # Agb Haftung Erfuellungsgehilfen
 
-## Aufgabe
+## Fachkern: Agb Haftung Erfuellungsgehilfen
 
-Skill fuer AGB-Klauseln zur Haftung fuer Erfuellungsgehilfen.
+- **Klauselproblem (Agb Haftung Erfuellungsgehilfen):** AGB-Haftung fuer Erfuellungsgehilfen. Skill klaert die AGB-rechtliche Behandlung von Haftungsausschluessen fuer Erfuellungsgehilfen (§ 278 BGB) und die Wechselwirkung mit § 309 Nr. 7 BGB. Behandelt die BGH-Linie zur unwirksamen Pauschalfreizeichnung und zur zulaessigen Differenzierung. Liefert Klauselentwurf.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
 
 ## Norm
 

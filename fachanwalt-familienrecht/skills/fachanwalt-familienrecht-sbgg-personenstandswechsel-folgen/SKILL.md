@@ -5,6 +5,13 @@ description: "Workflow-Skill zu fachanwalt familienrecht sbgg personenstandswech
 
 # Selbstbestimmungsgesetz (SBGG) — Personenstandswechsel und Familienrechtsfolgen
 
+## Fachkern: Selbstbestimmungsgesetz (SBGG) — Personenstandswechsel und Familienrechtsfolgen
+- **Spezialgegenstand:** Selbstbestimmungsgesetz (SBGG) — Personenstandswechsel und Familienrechtsfolgen; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
+- **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Mandantenfragen beim Kaltstart
 
 1. Bestehender Personenstand — verheiratet, in eingetragener Lebenspartnerschaft, geschieden, ledig?

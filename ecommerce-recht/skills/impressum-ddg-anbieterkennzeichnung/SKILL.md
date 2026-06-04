@@ -5,6 +5,13 @@ description: "Impressum DDG Anbieterkennzeichnung: prüft die einschlägigen Vor
 
 # Impressum / Anbieterkennzeichnung nach DDG
 
+## Fachkern: Impressum / Anbieterkennzeichnung nach DDG
+- **Spezialgegenstand:** Impressum / Anbieterkennzeichnung nach DDG wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BGB Fernabsatz/Widerruf, PAngV, UWG, DSGVO, DDG/DSA, TDDDG, Produktsicherheit, Gewährleistung, Zahlungsdienste und Plattformrecht.
+- **Entscheidende Weiche:** Trenne Shop-Frontend, Bestellstrecke, Informationspflicht, Preis, Widerruf, Mängelrecht, Werbung, Tracking und Plattform-/Marketplace-Pflichten.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 Seit 14. Mai 2024 ist das Digitale-Dienste-Gesetz (DDG) in Kraft und ersetzt das TMG. § 5 DDG regelt die Anbieterkennzeichnungspflicht für geschäftsmäßige, in der Regel gegen Entgelt angebotene Telemedien. Zusätzlich greifen § 18 MStV (Telemedien mit journalistisch-redaktionellem Charakter). Der Skill ordnet Anbietergruppen, Pflichtangaben, Erreichbarkeit und Sanktionen.

@@ -5,6 +5,13 @@ description: "Tax Due Diligence Modul für Distressed-M&A-Transaktionen mit Sani
 
 # Sanierungsgewinn – Tax Due Diligence im Distressed M&A
 
+## Fachkern: Sanierungsgewinn – Tax Due Diligence im Distressed M&A
+- **Spezialgegenstand:** Sanierungsgewinn – Tax Due Diligence im Distressed M&A; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
+- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Worum geht es
 
 Die Tax-DD im Distressed-M&A unterscheidet sich strukturell von der Standard-Tax-DD: Sie hat zusätzlich die Aufgabe, die **steuerlichen Wirkungen der späteren Sanierungsmaßnahme zu modellieren** und die **Steuerseite der Investment-Struktur** zu sichern. Wer hier mit einem Standard-Tax-DD-Bericht liefert, übersieht die zentralen Fragen.
@@ -106,7 +113,6 @@ Wer als Senior diese beiden Tabellen sauber bekommt, hat sechzig Prozent des DD-
 - BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 – prüfbar über bundesfinanzhof.de.
 - IDW S 6, IDW S 11 – Verifizierung über idw.de.
 
-<!-- gk-ma-v61-agentic-boost -->
 
 ## V61 Deal-OS Boost
 

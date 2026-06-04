@@ -5,31 +5,14 @@ description: "Fahrverbot: Behörden-, Gerichts- oder Registerweg im Plugin verke
 
 # Fahrverbot: Behörden-, Gerichts- oder Registerweg
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `verkehrsowi-verteidiger`. Ausgangspunkt ist: Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und Amtsgericht.
-
-Er führt durch **Behörden-, Gerichts- oder Registerweg** im Themenfeld **Fahrverbot**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-## Norm- und Praxisanker
-
-- Fahrverbot als Nebenfolge OWi: § 25 StVG – ein bis drei Monate, bei Regelfällen nach BußgKatV § 4 BKatV.
-- Regelfälle Fahrverbot: § 25 Abs. 1 S. 1 StVG iVm § 4 BKatV – grobe oder beharrliche Pflichtverletzung.
-- Vier-Monats-Frist: § 25 Abs. 2a StVG – Wirksamkeitsbeginn binnen vier Monaten nach Rechtskraft selbst wählbar (Antritt eines Erstfahrverbots).
-- Härtefall: BGH/OLG-Rspr. – Wegfall Fahrverbot bei wirtschaftlich-existenziellen Folgen (Verlust des Arbeitsplatzes); Mandant muss substanziiert darlegen; Härtefall i.d.R. mit Geldbußenerhöhung kompensiert.
-- Fahrverbot vs. Entzug Fahrerlaubnis: Fahrverbot OWi-Folge auf Zeit, Fahrerlaubnis bleibt; Entzug § 69 StGB Strafrecht, Fahrerlaubnis erlischt, Wiedererteilung erforderlich.
-- KBA / FAER: § 28 StVG Fahreignungsregister – Eintragungspflicht und Punkte; § 4 StVG Punktestand.
-- Praxis-Tipp: Härtefall-Argument muss konkret sein (Arbeitsvertrag, Außendiensttätigkeit, Lieferantenfahrten); pauschales "ich brauche das Auto" reicht nicht. Bei Beruflichkeit oft Kompromiss: Fahrverbot bleibt, dafür Antritt während Urlaub binnen 4-Monats-Frist; oder Erhöhung Bußgeld gegen Wegfall Fahrverbot.
+## Spezialwissen: Fahrverbot: Behörden-, Gerichts- oder Registerweg
+- **Spezialgegenstand:** Fahrverbot: Behörden-, Gerichts- oder Registerweg / spezial fahrverbot behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Normen-/Quellenanker:** StVG, BußgKatV, BKatV.
+- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
+- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
 
-## Fachlicher Zuschnitt
-
-- **Thema:** Fahrverbot.
-- **Arbeitsfokus:** Behörden-, Gerichts- oder Registerweg.
-- **Plugin-Rahmen:** Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Droge....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
+## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?

@@ -5,6 +5,13 @@ description: "Import Einzelimport § 73 AMG: prüft die einschlägigen Vorausset
 
 # Import Einzelimport § 73 AMG
 
+## Fachkern: Import Einzelimport § 73 AMG
+- **Spezialgegenstand:** Import Einzelimport § 73 AMG; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
+- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Einzelimport von Arzneimitteln aus dem Ausland gemäss § 73 Abs. 3 AMG. Anwendungsfall: ein in Deutschland nicht zugelassenes Arzneimittel ist im Einzelfall medizinisch erforderlich (z. B. seltene Erkrankungen, Engpässe, Spezialpräparate). Apotheke darf das Präparat im individuellen Einzelfall auf ärztliche Verschreibung importieren und abgeben. Reimport (§ 129 SGB V, Bonusregelung) ist abzugrenzen.

@@ -5,6 +5,13 @@ description: "Sichert Quellenhygiene: keine Paywall-Blindzitate, keine erfundene
 
 # Anwaltliche Quellenhygiene Robotik
 
+## Fachkern: Anwaltliche Quellenhygiene Robotik
+- **Spezialgegenstand:** Anwaltliche Quellenhygiene Robotik wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftungsrecht, ProdSG/GPSR, AI Act, MDR/MPDG bei Medizinrobotik, DSGVO, Cybersecurity/NIS2 und Arbeitsschutz.
+- **Entscheidende Weiche:** Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 Robotik-Mandate verbinden technische und juristische Quellen. Falsche Aktenzeichen, veraltete Normenstände oder erfundene Kommentar-Fundstellen zerstören die Glaubwürdigkeit eines Memos und können berufsrechtlich relevant werden (§ 43a Abs. 3 BRAO). Dieser Skill etabliert einen prüfbaren Quellenprozess: Auswahl, Verifikation, Zitierung, Versionierung – sowohl für EU-Rechtsakte (KI-VO, MaschinenVO, CRA, neue ProdHaftRL) als auch für technische Normen (ISO, IEC, DIN, harmonisierte Normen).

@@ -5,6 +5,13 @@ description: "Checkliste Forderungsdatenraum Factoring: prüft die einschlägige
 
 # Checkliste Forderungsdatenraum Factoring
 
+## Fachkern: Checkliste Forderungsdatenraum Factoring
+- **Spezialgegenstand:** Checkliste Forderungsdatenraum Factoring; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
+- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Ein **Forderungsdatenraum** ist die strukturierte Sammlung aller Unterlagen, die ein Factor benötigt, um ein neues Mandat aufzunehmen, eine Sonderprüfung zu fahren oder eine Forderungsportfolio-Transaktion zu strukturieren (Forderungsverkauf an SPV, NPL-Sale, Portfolio-Refinanzierung). Ohne sauberen Datenraum keine belastbare Pricing-Entscheidung und keine bilanzielle Trennung.

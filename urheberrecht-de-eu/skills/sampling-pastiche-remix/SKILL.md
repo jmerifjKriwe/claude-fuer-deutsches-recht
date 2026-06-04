@@ -5,6 +5,13 @@ description: "Prueft Sampling und kreative Nachnutzung nach Pelham, § 51a UrhG,
 
 # Sampling, Pastiche, Remix und Parodie
 
+## Fachkern: Sampling, Pastiche, Remix und Parodie
+- **Spezialgegenstand:** Sampling, Pastiche, Remix und Parodie; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
+- **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Wofür dieser Skill da ist
 
 Dieser Skill hilft bei führt durch die Interessenabwägung zwischen Kunstfreiheit, Eigentum, Erkennbarkeit, Transformationsgrad und Lizenzpraxis. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.

@@ -5,6 +5,13 @@ description: "Prueft Regeln als gespeichertes Erfahrungswissen: tacit knowledge,
 
 # Regeln, stilles Wissen und kognitive Entlastung
 
+## Fachkern: Regeln, stilles Wissen und kognitive Entlastung
+- **Spezialgegenstand:** Regeln, stilles Wissen und kognitive Entlastung; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
+- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Aufgabe
 
 Dieser Skill prüft Regeln nicht nur als Befehle, sondern als Speicher von Erfahrung. Viele Regeln bündeln Wissen, das ihre Anwenderinnen nicht jedes Mal vollständig rekonstruieren können: technische Praxis, Marktinformation, Sicherheitswissen, Verwaltungserfahrung, richterliche Fallgruppen, Kanzleistandards.

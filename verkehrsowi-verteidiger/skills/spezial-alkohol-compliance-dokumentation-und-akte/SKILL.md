@@ -5,30 +5,14 @@ description: "Alkohol: Compliance-Dokumentation und Aktenvermerk im Plugin verke
 
 # Alkohol: Compliance-Dokumentation und Aktenvermerk
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `verkehrsowi-verteidiger`. Ausgangspunkt ist: Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und Amtsgericht.
-
-Er führt durch **Compliance-Dokumentation und Aktenvermerk** im Themenfeld **Alkohol**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-## Norm- und Praxisanker
-
-- Alkohol-OWi: § 24a StVG – 0,5-Promille-Grenze (BAK) bzw. 0,25 mg/l AAK. Bußgeld nach BußgKatV regelmäßig 500 EUR und Fahrverbot 1 Monat (Erstverstoß).
-- Absolute Fahruntüchtigkeit: ab 1,1 Promille BAK Straftat § 316 StGB; ab 0,3 Promille mit Fahrunsicherheitsindiz "relative" Fahruntüchtigkeit (§§ 315c, 316 StGB).
-- Junge Fahrer/Probezeit: § 24c StVG – 0,0-Promille-Grenze; § 2a StVG Probezeitverlängerung.
-- Punkte: 2 Punkte bei § 24a StVG; bei § 316 StGB 3 Punkte und i.d.R. Entziehung Fahrerlaubnis § 69 StGB.
-- Atemalkoholmessung: Dräger Evidential ARDV 7110 (gerichtlich zugelassen unter Beachtung Eichung, Wartezeit 20 Min., zwei verwertbare Messungen, Standardmessung). Bei Mängeln zugunsten Betroffenen.
-- Praxis-Tipp: Bei Alkohol-OWi Messakte anfordern (Eichschein, Schulungs­nachweis, Bedien­anweisung). Bei knapper BAK (0,5-0,55) Toleranzen kritisch prüfen; Verteidigungsstrategie: Toleranzabzug, Verfahrensfehler bei Atemalkoholmessung, Trinkende-Zeit. Bei § 316 StGB Mandant über Verfahren MPU (Fahreignungs­begutachtung) bei FE-Wiedererteilung aufklären.
+## Spezialwissen: Alkohol: Compliance-Dokumentation und Aktenvermerk
+- **Spezialgegenstand:** Alkohol: Compliance-Dokumentation und Aktenvermerk / spezial alkohol compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Normen-/Quellenanker:** StVG, BAK, AAK, BußgKatV, EUR.
+- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
+- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
 
-## Fachlicher Zuschnitt
-
-- **Thema:** Alkohol.
-- **Arbeitsfokus:** Compliance-Dokumentation und Aktenvermerk.
-- **Plugin-Rahmen:** Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Droge....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
+## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?

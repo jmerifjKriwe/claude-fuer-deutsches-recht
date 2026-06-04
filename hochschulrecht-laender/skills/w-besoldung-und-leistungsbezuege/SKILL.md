@@ -5,6 +5,13 @@ description: "Prüft W-Besoldung, Leistungsbezüge und Bleibeverhandlungen."
 
 # W Besoldung Und Leistungsbezuege
 
+## Fachkern: W Besoldung Und Leistungsbezuege
+- **Spezialgegenstand:** W Besoldung Und Leistungsbezuege; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
+- **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Wofür dieser Skill da ist
 
 Berufungs-/Bleibezulage, Besoldungsrecht Land, Zielvereinbarung, Ruhegehaltfähigkeit.

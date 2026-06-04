@@ -27,4 +27,3 @@ Dieser Skill führt nicht schematisch durch Kaltstart Internal Investigation, so
 ## Ausgabe
 
 Erzeuge Untersuchungsplan, Interviewleitfaden, Risikoampel, Board Memo oder Verteidigungsdossier. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
-

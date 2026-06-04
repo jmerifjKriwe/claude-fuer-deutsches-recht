@@ -5,6 +5,13 @@ description: "USPTO Office Actions beantworten und TESS/TSDR-Datenbankrecherche:
 
 # USPTO Office Actions und TESS/TSDR-Recherche
 
+## Fachkern: USPTO Office Actions und TESS/TSDR-Recherche
+- **Spezialgegenstand:** USPTO Office Actions und TESS/TSDR-Recherche; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Eine Office Action vom USPTO ist kein Todesurteil — sondern eine Einladung zur Argumentation. Senior Associate Eleanor M. Quintero, Esq. (Whitman Brennan Forsythe LLP) bearbeitet alle US-Office-Actions; unsere Münchener Kanzlei steuert die strategische Linie und European Prior Rights-Dokumentation bei.
 
 TESS und TSDR sind die primären Recherchetools; wer sie nicht kennt, ist blind im US-Markenrecht.

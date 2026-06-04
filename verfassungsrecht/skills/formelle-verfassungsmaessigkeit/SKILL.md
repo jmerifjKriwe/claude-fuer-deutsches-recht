@@ -5,6 +5,13 @@ description: "Formelle Verfassungsmäßigkeit eines Gesetzes prüfen: Kompetenz 
 
 # Formelle Verfassungsmäßigkeit prüfen
 
+## Fachkern: Formelle Verfassungsmäßigkeit prüfen
+- **Spezialgegenstand:** Formelle Verfassungsmäßigkeit prüfen wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GG, BVerfGG, VwGO/ZPO/StPO-Schnittstellen, Gesetzgebungskompetenz, Grundrechte, Verfassungsbeschwerde, konkrete/abstrakte Normenkontrolle.
+- **Entscheidende Weiche:** Prüfe Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Frist, Prüfungsmaßstab, Einschätzungsprärogative und Folgenabwägung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Disclaimer
 
 Die formelle Verfassungsmäßigkeit kann im Streitfall nur durch das BVerfG verbindlich geklärt werden (Verwerfungsmonopol Art. 100 Abs. 1 GG). Diese Prüfung ist eine Unterstützung, **kein Ersatz** für anwaltliche Beratung durch eine verfassungsrechtliche Spezialkanzlei.

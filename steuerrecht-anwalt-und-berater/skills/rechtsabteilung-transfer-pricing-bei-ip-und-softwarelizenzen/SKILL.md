@@ -5,9 +5,12 @@ description: "Rechtsabteilungs-Spezialskill für Transfer Pricing bei IP- und So
 
 # Rechtsabteilung: Transfer Pricing bei IP- und Softwarelizenzen
 
-## Worum es geht
+## Spezialkern: Rechtsabteilung: Transfer Pricing bei IP- und Softwarelizenzen
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+- **Konkretes Problem:** Intercompany-Lizenzen werden mit DEMPE, Benchmark und Dokumentation geführt.
+- **Norm-/Quellenanker:** AO, EStG, KStG, GewStG, UStG, GrEStG, AStG, UmwStG, DBA/OECD-MC und BMF/BFH nur verifiziert.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

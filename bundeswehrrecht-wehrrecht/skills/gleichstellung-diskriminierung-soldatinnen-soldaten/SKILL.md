@@ -5,6 +5,13 @@ description: "Gleichstellung und Diskriminierung Soldatinnen und Soldaten: prüf
 
 # Gleichstellung und Diskriminierung Soldatinnen/Soldaten
 
+## Fachkern: Gleichstellung und Diskriminierung Soldatinnen/Soldaten
+- **Spezialgegenstand:** Gleichstellung und Diskriminierung Soldatinnen/Soldaten; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Das SoldGG (Soldatinnen- und Soldatengleichbehandlungsgesetz) schützt vor Diskriminierung wegen Geschlecht, Herkunft, Religion, Behinderung, sexueller Identität. Gleichstellungsbeauftragte in Bundeswehrdienststellen sind Ansprechpartner.

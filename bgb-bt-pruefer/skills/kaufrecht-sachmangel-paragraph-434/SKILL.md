@@ -4,6 +4,13 @@ description: "Prüft Sachmangel § 434 BGB: subjektive, objektive und Montageanf
 ---
 # Kaufrecht: Sachmangel § 434 BGB
 
+## Fachkern: Kaufrecht: Sachmangel § 434 BGB
+- **Spezialgegenstand:** Kaufrecht: Sachmangel § 434 BGB; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
+- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Zweck
 
 Sachmangel nach § 434 BGB vollständig prüfen: subjektive, objektive und montagebezogene Anforderungen, Abweichungen und Folge für Käuferrechte.

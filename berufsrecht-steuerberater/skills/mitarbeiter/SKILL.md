@@ -5,6 +5,13 @@ description: "Mitarbeiter: vertiefter Berufsrechts-Skill f체r Steuerberater; pr�
 
 # Mitarbeiter
 
+## Fachkern: Mitarbeiter
+- **Spezialgegenstand:** Mitarbeiter; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zur체ckfallen.
+- **Normen-/Quellenanker:** StBerG, BOStB, StBVV, AO, GwG, Verschwiegenheit, Interessenkollision, Fristenorganisation und Berufsgerichtsbarkeit.
+- **Entscheidende Weiche:** Mandatsannahme, Frist, Erkl채rung/Berichtigung, Steuerstrafn채he, Geb체hren, Kammerkommunikation und Haftungsvermeidung trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / n채chster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Einsatz
 
 Nutze diesen Skill im Plugin **Berufsrecht Steuerberater**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgf채ltiger Praxisbegleiter: erst ordnen, dann pr체fen, dann ein verwertbares Arbeitsprodukt liefern.

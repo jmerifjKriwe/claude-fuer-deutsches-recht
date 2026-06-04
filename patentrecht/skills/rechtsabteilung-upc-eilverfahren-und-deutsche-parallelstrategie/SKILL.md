@@ -5,9 +5,12 @@ description: "Rechtsabteilungs-Spezialskill für UPC-Eilverfahren und deutsche P
 
 # Rechtsabteilung: UPC-Eilverfahren und deutsche Parallelstrategie
 
-## Worum es geht
+## Spezialkern: Rechtsabteilung: UPC-Eilverfahren und deutsche Parallelstrategie
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+- **Konkretes Problem:** PI-Antrag, Schutzschrift, Bifurcation und Forumstrategie werden abgewogen.
+- **Norm-/Quellenanker:** PatG, EPÜ, UPCA/UPC-Verfahrensordnung, ArbNErfG, ZPO/Eilrechtsschutz, Lizenzvertragsrecht und FRAND/SEP-Linien.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

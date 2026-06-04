@@ -5,13 +5,14 @@ description: "Steuerberater: geldwaesche risikoanalyse steuerkanzlei - Organisat
 
 # Steuerberater: geldwaesche risikoanalyse steuerkanzlei - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
-## Einsatz
+## Konkreter Berufsrechtskern: Steuerberater: geldwaesche risikoanalyse steuerkanzlei - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
+- **Spezialgegenstand:** Steuerberater: geldwaesche risikoanalyse steuerkanzlei - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
+- **Normenanker:** StBerG, BOStB, StBVV, AO-Schnittstellen, GwG, Verschwiegenheit, Interessenkollision und berufsgerichtliches Verfahren.
+- **Institutionen:** Steuerberaterkammer, Berufsgerichtsbarkeit, Finanzverwaltung und bei Straf-/Bußgeldnähe die Ermittlungsbehörden.
+- **Spezialspur:** GwG-Risikoklasse, Identifizierung, wirtschaftlich Berechtigte, Verdachtsmeldung und Tätigkeitsverbot gesondert prüfen.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
 
-Nutze diesen Skill im Plugin **Berufsrecht Steuerberater**, wenn genau diese Speziallage angesprochen ist. Fuehre die Nutzerin oder den Nutzer knapp, praktisch und beweisorientiert: erst Lage klaeren, dann Normen live pruefen, dann ein Arbeitsprodukt erzeugen.
-
-**Fokus:** geldwaesche risikoanalyse steuerkanzlei; organisationspflichten, prävention, team-anweisung und fristenkontrolle im Berufsrecht der Steuerberater
-
-## Kaltstart
+## Fallweichen dieser Speziallage
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

@@ -5,6 +5,13 @@ description: "Retaxationsabwehr Nullretax Risiko: prüft die einschlägigen Vora
 
 # Retaxationsabwehr Nullretax Risiko
 
+## Fachkern: Retaxationsabwehr Nullretax Risiko
+- **Spezialgegenstand:** Retaxationsabwehr Nullretax Risiko; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
+- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Retaxation: Krankenkasse verweigert ganz oder teilweise die Erstattung einer abgegebenen Arzneimittelpackung wegen formaler oder materieller Mängel. "Null-Retax" bedeutet komplette Absetzung — Apotheke erhält keinen Cent für das abgegebene Medikament, das aber bereits ausgehändigt wurde. Dieser Skill behandelt Prävention, fristgerechten Widerspruch, Schiedsverfahren und Sondervereinbarungen.

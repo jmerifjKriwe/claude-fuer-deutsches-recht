@@ -5,31 +5,14 @@ description: "Hauptverhandlung: Livequellen- und Rechtsprechungscheck im Plugin 
 
 # Hauptverhandlung: Livequellen- und Rechtsprechungscheck
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-strafrecht`. Ausgangspunkt ist: Plugin Fachanwalt für Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Revision. Nebenklage Opfervertretung Zeugenbeistand Adhaesion Insolvenzantrag StA. Ergaenzt aktenaufbereiter-strafrecht und kanzlei-allgemein.
-
-Er führt durch **Livequellen- und Rechtsprechungscheck** im Themenfeld **Hauptverhandlung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-## Norm- und Praxisanker
-
-- Ablauf Hauptverhandlung: § 243 StPO – Eröffnung, Personalien Angeklagter, Verlesung Anklage, Belehrung, Einlassung; danach Beweisaufnahme §§ 244 ff. StPO.
-- Beweisaufnahme: § 244 StPO Aufklärungspflicht; Beweisanträge nach § 244 Abs. 3-6 StPO – Präklusion § 244 Abs. 6 StPO mit förmlicher Ablehnungsentscheidung.
-- Letztes Wort: § 258 StPO – Plädoyer Staatsanwaltschaft, Verteidigung, Angeklagter (letztes Wort, § 258 Abs. 2, 3 StPO) zwingend.
-- Beweiswürdigung: § 261 StPO – Inbegriff der Hauptverhandlung, freie Beweiswürdigung; Revisionsrelevanz bei Verstößen.
-- Verständigung: § 257c StPO – formelles Verfahren, Mitteilung in HV § 243 Abs. 4 StPO, Aufzeichnung im Protokoll § 273 Abs. 1a StPO.
-- Hauptverhandlung Pausen/Unterbrechung: § 229 StPO – Unterbrechung höchstens 3 Wochen, sonst Neubeginn.
-- Praxis-Tipp: Strategiekarte HV in vier Phasen: (1) Eröffnung – Belastung minimieren durch Einlassung oder Schweigen, (2) Beweisaufnahme – Beweisanträge frühzeitig, mit hinreichender Substanz, (3) Schlussvorträge – konkrete Strafmaßforderung mit § 46 StGB-Argumenten, (4) letztes Wort – aktive Reue/Verantwortung kommunizieren, wenn Strategie. Protokollführung mitlaufen lassen, weil § 274 StPO nur das Protokoll als Beweis akzeptiert.
+## Spezialwissen: Hauptverhandlung: Livequellen- und Rechtsprechungscheck
+- **Spezialgegenstand:** Hauptverhandlung: Livequellen- und Rechtsprechungscheck / spezial hauptverhandlung livequellen und rechtsprechungscheck. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Normen-/Quellenanker:** StPO.
+- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
+- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
 
-## Fachlicher Zuschnitt
-
-- **Thema:** Hauptverhandlung.
-- **Arbeitsfokus:** Livequellen- und Rechtsprechungscheck.
-- **Plugin-Rahmen:** Plugin Fachanwalt für Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Revision. Nebenklage O....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
+## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?

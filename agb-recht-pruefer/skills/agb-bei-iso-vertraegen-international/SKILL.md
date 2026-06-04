@@ -5,9 +5,12 @@ description: "AGB bei internationalen ISO-Vertraegen. Skill behandelt die AGB-re
 
 # Agb Bei Iso Vertraegen International
 
-## Aufgabe
+## Fachkern: Agb Bei Iso Vertraegen International
 
-Skill fuer internationale Vertragsmuster im deutschen Rechtskontext.
+- **Klauselproblem (Agb Bei Iso Vertraegen International):** AGB bei internationalen ISO-Vertraegen. Skill behandelt die AGB-rechtliche Pruefung internationaler Vertragsmuster ICC FIDIC ISDA AIA und ihre Anpassung an deutsches Recht. Klaert die Wechselwirkung mit Rom-I und ordre public. Behandelt typische Klauseln zur Streitbeilegung Lieferung Zahlung.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
 
 ## Standardmuster
 

@@ -5,9 +5,12 @@ description: "Spezialskill Franchiserecht für Systemhandbuch-Änderungen ohne A
 
 # Franchise: Systemhandbuch-Änderungen ohne AGB-Absturz
 
-## Worum es geht
+## Fachkern: Franchise: Systemhandbuch-Änderungen ohne AGB-Absturz
 
-Dieser Spezialskill ist für Situationen gebaut, in denen eine Rechtsabteilung, ein Franchisegeber oder ein Franchisenehmer sehr schnell von einer unsortierten Lage zu einer belastbaren Arbeitsentscheidung kommen muss. Er behandelt Franchise nicht als hübsches Vertriebskonzept, sondern als enges Geflecht aus Vertrag, Marke, Daten, Kartellrecht, Standort, Handbuch und Beweisführung.
+- **Franchiseproblem:** Einseitige Handbuchänderungen werden auf Transparenz, Zumutbarkeit, Änderungsmechanismus und Beweis der Kenntnisnahme geprüft.
+- **Rechtsrahmen:** Franchise als typengemischtes Dauerschuldverhältnis prüfen: §§ 241 Abs. 2, 280, 311, 314, 305 ff. BGB; § 89b HGB analog nur fallbezogen; MarkenG/GeschGehG; Art. 101 AEUV, GWB und Vertikal-GVO 2022/720 bei Systembindungen.
+- **Entscheidende Weiche:** Systemschutz, wirtschaftliche Abhängigkeit, vorvertragliche Aufklärung, laufende Unterstützung, Daten-/Markenzugriff und Exit-Folgen getrennt bewerten.
+- **Arbeitsprodukt:** Franchise-Memo mit Anspruch/Abwehr, Belegmatrix, Risikopunkten, Verhandlungszug und Textbaustein für Abmahnung, Kündigung, EV oder Vergleich.
 
 ## Sofortprüfung
 

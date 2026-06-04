@@ -5,6 +5,13 @@ description: "Einziehungsbefugnis Debitoren Zahlungskanäle Treuhandkonto: prüf
 
 # Einziehungsbefugnis Debitoren Zahlungskanäle Treuhandkonto
 
+## Fachkern: Einziehungsbefugnis Debitoren Zahlungskanäle Treuhandkonto
+- **Spezialgegenstand:** Einziehungsbefugnis Debitoren Zahlungskanäle Treuhandkonto; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
+- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Wer darf das Geld vom Debitor einziehen? Wer hält das Konto, auf das gezahlt wird? Wer hat im Krisenfall Zugriff? Diese drei Fragen entscheiden über die operative Tauglichkeit jedes Factorings. Die zivilrechtliche Abtretung allein bringt dem Factor noch keinen Cent – es braucht eine **Einziehungsstruktur**, die Zahlungen verlässlich zum Factor leitet.

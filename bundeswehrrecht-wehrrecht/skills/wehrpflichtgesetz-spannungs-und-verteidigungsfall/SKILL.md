@@ -5,6 +5,13 @@ description: "Wehrpflichtgesetz Spannungs- und Verteidigungsfall: prüft Reaktiv
 
 # Wehrpflichtgesetz: Spannungs- und Verteidigungsfall
 
+## Fachkern: Wehrpflichtgesetz: Spannungs- und Verteidigungsfall
+- **Spezialgegenstand:** Wehrpflichtgesetz: Spannungs- und Verteidigungsfall; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Im Spannungs- oder Verteidigungsfall (Art. 115a GG) lebt die allgemeine Wehrpflicht wieder auf. WPflG regelt Musterung, Einberufung und Zurückstellungsgründe.

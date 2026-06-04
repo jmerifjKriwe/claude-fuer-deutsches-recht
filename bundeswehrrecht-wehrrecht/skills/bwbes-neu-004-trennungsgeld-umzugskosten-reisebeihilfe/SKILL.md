@@ -5,6 +5,13 @@ description: "Trennungsgeld, Umzugskosten, Reisebeihilfe: prüft TGV, BUKG, Ansp
 
 # Trennungsgeld, Umzugskosten und Reisebeihilfe
 
+## Fachkern: Trennungsgeld, Umzugskosten und Reisebeihilfe
+- **Spezialgegenstand:** Trennungsgeld, Umzugskosten und Reisebeihilfe; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Versetzungen lösen Ansprüche auf Trennungsgeld (TGV), Umzugskostenvergütung (BUKG) und Reisebeihilfe aus. Typische Fehler: zu späte Beantragung, fehlende Umzugszusage (BUKG), fehlerhafte Berechnung des Trennungsgeldes.

@@ -5,9 +5,12 @@ description: "Rechtsabteilungs-Spezialskill für Ausgleichsanspruch § 89b mit D
 
 # Rechtsabteilung: Ausgleichsanspruch § 89b mit Datenbeweis
 
-## Worum es geht
+## Spezialkern: Rechtsabteilung: Ausgleichsanspruch § 89b mit Datenbeweis
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+- **Konkretes Problem:** Neukunden, Unternehmervorteil, Billigkeit und Abwanderungsquote werden tabellarisch bewiesen.
+- **Norm-/Quellenanker:** HGB §§ 84-92c, BGB, AGB-Recht, Kartellrecht, Sozialversicherungsstatus, Provisions-/Ausgleichsanspruch und Wettbewerbsverbote.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

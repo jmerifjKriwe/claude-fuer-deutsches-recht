@@ -5,6 +5,13 @@ description: "Debt-Equity-Swap (DES) als Bestandteil einer M&A-Transaktion mit S
 
 # Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik
 
+## Fachkern: Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik
+- **Spezialgegenstand:** Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
+- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Worum geht es
 
 Der Debt-Equity-Swap (DES) ist die zentrale Sanierungsstrukturmaßnahme, in der ein Gläubiger seine Forderung gegen die Schuldnerin als Sacheinlage in die Schuldnerin einbringt und im Gegenzug Anteile erhält. Die Forderung erlischt durch Konfusion mit der Aufnahme in das Vermögen der Schuldnerin. Steuerlich entsteht bei der Schuldnerin ein Ertrag in Höhe der Differenz zwischen Nennwert der Forderung und Werthaltigkeitsanteil; das ist der **klassische Sanierungsertrag**, der § 3a EStG eröffnet. Auf Gläubigerseite stellt sich die Frage der Werthaltigkeit der eingebrachten Forderung und der gesellschaftsrechtlichen Differenzhaftung nach § 9 GmbHG / § 27 AktG.
@@ -107,7 +114,6 @@ Der DES ist die eleganteste Sanierungsstruktur, aber auch die juristisch heikels
 - BGH zur Werthaltigkeit bei Sacheinlage – ständige Rspr.; Verifizierung über dejure.org und bundesgerichtshof.de.
 - BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 – prüfbar über bundesfinanzhof.de.
 
-<!-- gk-ma-v61-agentic-boost -->
 
 ## V61 Deal-OS Boost
 

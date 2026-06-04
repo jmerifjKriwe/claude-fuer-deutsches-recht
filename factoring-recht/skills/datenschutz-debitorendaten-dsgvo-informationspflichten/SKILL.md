@@ -5,6 +5,13 @@ description: "Datenschutz Debitorendaten DSGVO Informationspflichten: prüft die
 
 # Datenschutz Debitorendaten DSGVO Informationspflichten
 
+## Fachkern: Datenschutz Debitorendaten DSGVO Informationspflichten
+- **Spezialgegenstand:** Datenschutz Debitorendaten DSGVO Informationspflichten; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
+- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Beim Forderungsverkauf werden **personenbezogene Daten** der Debitoren mit übertragen: Name, Adresse, Bankverbindung, Zahlungsverhalten, gegebenenfalls Krankendaten (bei Gesundheits-Factoring), Sozialdaten. Diese Datenweitergabe ist eine **Verarbeitung im Sinne der DSGVO** und benötigt eine Rechtsgrundlage. Häufig genutzt: Art. 6 Abs. 1 lit. b (Vertragsdurchführung) und Art. 6 Abs. 1 lit. f (berechtigtes Interesse). Beim Factor entsteht eine **neue Verantwortlichkeit** im Sinne von Art. 4 Nr. 7 DSGVO – mit eigenen Informationspflichten gegenüber dem Debitor (Art. 14 DSGVO).

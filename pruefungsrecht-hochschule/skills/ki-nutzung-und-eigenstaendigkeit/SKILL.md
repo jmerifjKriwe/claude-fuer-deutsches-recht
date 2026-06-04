@@ -5,6 +5,13 @@ description: "Prüft KI-Nutzung in Prüfungsleistungen."
 
 # KI Nutzung Und Eigenstaendigkeit
 
+## Fachkern: KI Nutzung Und Eigenstaendigkeit
+- **Spezialgegenstand:** KI Nutzung Und Eigenstaendigkeit; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
+- **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Wofür dieser Skill da ist
 
 Erlaubnis, Kennzeichnung, Hilfsmittelverzeichnis, Beweislast, Verdacht, Detektoren und Verhältnismäßigkeit.

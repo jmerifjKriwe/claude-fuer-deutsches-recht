@@ -5,6 +5,13 @@ description: "Investitionsfoerderung nach § 9 KHG und Landeskrankenhausgesetzen
 
 # Investitionsfoerderung Einzelfoerderung Pauschalfoerderung
 
+## Fachkern: Investitionsfoerderung Einzelfoerderung Pauschalfoerderung
+- **Spezialgegenstand:** Investitionsfoerderung Einzelfoerderung Pauschalfoerderung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
+- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 Die duale Krankenhausfinanzierung weist die **Investitionskosten** den Laendern zu (§ 9 KHG). Es bestehen zwei Foerderwege: **Einzelfoerderung** fuer grosse Vorhaben (Bau, Generalsanierung) und **Pauschalfoerderung** fuer wiederkehrende Investitionen (Geraete, kleinere Massnahmen). Daneben Transformationsfonds (KHVVG) und KHZG-Digitalisierungsmittel.
 

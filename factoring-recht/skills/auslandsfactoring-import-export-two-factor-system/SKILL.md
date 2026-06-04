@@ -5,6 +5,13 @@ description: "Auslandsfactoring Import Export Two-Factor-System: prüft die eins
 
 # Auslandsfactoring Import Export Two-Factor-System
 
+## Fachkern: Auslandsfactoring Import Export Two-Factor-System
+- **Spezialgegenstand:** Auslandsfactoring Import Export Two-Factor-System; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
+- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Auslandsfactoring ist Forderungsankauf mit **grenzüberschreitendem Element**: deutscher Exporteur, ausländischer Debitor (Export Factoring) oder ausländischer Exporteur, deutscher Debitor (Import Factoring). Das deutsche Factoring stößt hier an Grenzen – Sprache, Rechtsordnung, Inkasso, Bonitätsbewertung. Antwort der Branche: **Two-Factor-System** der internationalen Factoring-Netzwerke (Factors Chain International FCI, IFG). Ein Factor im Land des Exporteurs (Export Factor) arbeitet mit einem Factor im Land des Debitors (Import Factor) zusammen.

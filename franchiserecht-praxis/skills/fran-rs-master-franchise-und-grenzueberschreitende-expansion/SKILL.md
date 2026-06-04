@@ -5,9 +5,12 @@ description: "Spezialskill Franchiserecht für Master-Franchise und grenzübersc
 
 # Franchise: Master-Franchise und grenzüberschreitende Expansion
 
-## Worum es geht
+## Fachkern: Franchise: Master-Franchise und grenzüberschreitende Expansion
 
-Dieser Spezialskill ist für Situationen gebaut, in denen eine Rechtsabteilung, ein Franchisegeber oder ein Franchisenehmer sehr schnell von einer unsortierten Lage zu einer belastbaren Arbeitsentscheidung kommen muss. Er behandelt Franchise nicht als hübsches Vertriebskonzept, sondern als enges Geflecht aus Vertrag, Marke, Daten, Kartellrecht, Standort, Handbuch und Beweisführung.
+- **Franchiseproblem:** Master-Franchise, Development Schedule, Subfranchising, Quellensteuer, Exportkontrolle und Lokalisierung werden in einem Internationalisierungsmodell gebündelt.
+- **Rechtsrahmen:** Franchise als typengemischtes Dauerschuldverhältnis prüfen: §§ 241 Abs. 2, 280, 311, 314, 305 ff. BGB; § 89b HGB analog nur fallbezogen; MarkenG/GeschGehG; Art. 101 AEUV, GWB und Vertikal-GVO 2022/720 bei Systembindungen.
+- **Entscheidende Weiche:** Systemschutz, wirtschaftliche Abhängigkeit, vorvertragliche Aufklärung, laufende Unterstützung, Daten-/Markenzugriff und Exit-Folgen getrennt bewerten.
+- **Arbeitsprodukt:** Franchise-Memo mit Anspruch/Abwehr, Belegmatrix, Risikopunkten, Verhandlungszug und Textbaustein für Abmahnung, Kündigung, EV oder Vergleich.
 
 ## Sofortprüfung
 

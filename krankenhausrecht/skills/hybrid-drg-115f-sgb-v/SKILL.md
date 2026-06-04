@@ -5,6 +5,13 @@ description: "Hybrid-DRG nach § 115f SGB V: sektorengleiche Verguetung fuer hae
 
 # Hybrid-DRG § 115f SGB V
 
+## Fachkern: Hybrid-DRG § 115f SGB V
+- **Spezialgegenstand:** Hybrid-DRG § 115f SGB V; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
+- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 Seit 2024 sind **Hybrid-DRG** eingefuehrt: einheitliche Verguetung fuer einen abschliessenden Katalog von Eingriffen — unabhaengig davon, ob die Leistung stationaer (Kurzliegerfall) oder ambulant erbracht wird. Ziel: gleiches Geld fuer gleichen medizinischen Inhalt, Hospitalisierungs-Anreiz beseitigen.
 

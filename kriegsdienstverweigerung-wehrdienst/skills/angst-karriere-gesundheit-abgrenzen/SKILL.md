@@ -5,6 +5,13 @@ description: "Unterscheidet Gewissensgründe von Angst, Karriere, Familienlage u
 
 # Angst Karriere Gesundheit
 
+## Fachkern: Angst Karriere Gesundheit
+- **Spezialgegenstand:** Angst Karriere Gesundheit; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** Art. 4 Abs. 3 GG, KDVG, WPflG/Wehrrecht, VwVfG/VwGO, Gewissensprüfung, Soldatenstatus und Eilrechtsschutz.
+- **Entscheidende Weiche:** Gewissensentscheidung, politisches Motiv, Status, Zuständigkeit, Bescheid, Untätigkeit, Frist und gerichtlicher Rechtsschutz trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Einsatz
 Trennt KDV von Totalverweigerung, politischer Situationskritik, Angst, Gesundheit, Karriere oder bloßer Zweckmäßigkeit.
 

@@ -5,6 +5,13 @@ description: "Parteiverbot Art. 21 Abs. 2 GG, § 13 Nr. 2 BVerfGG: Voraussetzung
 
 # Parteiverbot
 
+## Fachkern: Parteiverbot
+- **Spezialgegenstand:** Parteiverbot wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GG, BVerfGG, VwGO/ZPO/StPO-Schnittstellen, Gesetzgebungskompetenz, Grundrechte, Verfassungsbeschwerde, konkrete/abstrakte Normenkontrolle.
+- **Entscheidende Weiche:** Prüfe Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Frist, Prüfungsmaßstab, Einschätzungsprärogative und Folgenabwägung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Aufgabe
 Parteiverbot Art. 21 II GG iVm § 13 Nr. 2, §§ 43-47 BVerfGG; Finanzierungsausschluss Art. 21 III GG iVm § 13 Nr. 2a BVerfGG. Pruefraster, hohe Schwelle (Potentialitaet); Antragsbefugnis, Verfahren, Rechtsfolgen.
 

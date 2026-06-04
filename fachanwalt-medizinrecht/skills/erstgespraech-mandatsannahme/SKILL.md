@@ -5,6 +5,13 @@ description: "Erstgespraeach und Mandatsannahme im Arzthaftungs- Berufs- und Ver
 
 # Erstgespraech und Mandatsannahme im Arzthaftungs-, Berufs- und Vertragsarztrecht
 
+## Fachkern: Erstgespraech und Mandatsannahme im Arzthaftungs-, Berufs- und Vertragsarztrecht
+- **Spezialgegenstand:** Erstgespraech und Mandatsannahme im Arzthaftungs-, Berufs- und Vertragsarztrecht wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
+- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Wann dieser Skill greift
 
 - Neue Anfrage aus dem Bereich Arzthaftungs-, Berufs- und Vertragsarztrecht (Telefon, Mail, Empfehlung, Walk-in).

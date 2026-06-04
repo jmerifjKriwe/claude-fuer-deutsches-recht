@@ -5,6 +5,13 @@ description: "MD-Pruefung der Krankenhausabrechnung nach § 275c SGB V: Pruefquo
 
 # MD-Pruefung Krankenhausabrechnung Pruefverfahrensvereinbarung
 
+## Fachkern: MD-Pruefung Krankenhausabrechnung Pruefverfahrensvereinbarung
+- **Spezialgegenstand:** MD-Pruefung Krankenhausabrechnung Pruefverfahrensvereinbarung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
+- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 Der Medizinische Dienst (MD) prueft im Auftrag der Krankenkassen die Abrechnung stationaerer Faelle. Seit 2020 ist die Pruefquote pro Klinik gedeckelt; Aufwandspauschalen und Strukturpruefungen ergaenzen das Verfahren. Die Pruefverfahrensvereinbarung (PrueferV) ist Spielregeln-Vertrag zwischen GKV-SV und DKG.
 

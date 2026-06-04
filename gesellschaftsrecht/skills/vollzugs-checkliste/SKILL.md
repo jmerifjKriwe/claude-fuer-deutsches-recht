@@ -6,6 +6,13 @@ description: 'Vollzugscheckliste für M&A-Transaktionen nach deutschem Recht –
 
 # Vollzugscheckliste M&A
 
+## Fachkern: Vollzugscheckliste M&A
+- **Spezialgegenstand:** Vollzugscheckliste M&A; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
+- **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Kernsachverhalt
 
 In deutschen M&A-Transaktionen fallen Signing (Vertragsunterzeichnung) und Closing (Vollzug) regelmäßig auseinander. Die Zeitspanne zwischen beiden Ereignissen ist durch Vollzugsbedingungen (Conditions Precedent, "CPs") gefüllt, deren Erfüllung den Vollzug erst ermöglicht. Das Management dieser Bedingungen ist eine der zentralen anwaltlichen Aufgaben in der Closing-Phase.

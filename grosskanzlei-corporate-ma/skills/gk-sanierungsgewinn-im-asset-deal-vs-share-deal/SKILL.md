@@ -5,6 +5,13 @@ description: "Strukturvergleich Asset Deal vs. Share Deal im Distressed-M&A mit 
 
 # Sanierungsgewinn – Im Asset Deal vs. Share Deal
 
+## Fachkern: Sanierungsgewinn – Im Asset Deal vs. Share Deal
+- **Spezialgegenstand:** Sanierungsgewinn – Im Asset Deal vs. Share Deal; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
+- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Worum geht es
 
 Die Strukturwahl Asset Deal vs. Share Deal entscheidet im Distressed-Mandat über die steuerliche Behandlung der Sanierungsmaßnahme. **Im Asset Deal** wird das operative Geschäft auf eine neue Zielgesellschaft übertragen; die alte Hülle bleibt mit den Verlustvorträgen zurück. **Im Share Deal** wird die Hülle mit allen Steuerpositionen mitverkauft; der Sanierungsertrag entsteht in der Zielgesellschaft, deren Verlustvorträge nach § 3a Abs. 3 EStG verbraucht werden. Beide Strukturen haben gänzlich unterschiedliche Sanierungstax-Profile.
@@ -129,7 +136,6 @@ Drei Beobachtungen aus der Strukturwahl-Praxis:
 - BGH zur § 25 HGB-Firmenfortführung – ständige Rspr.; bundesgerichtshof.de.
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
 
-<!-- gk-ma-v61-agentic-boost -->
 
 ## V61 Deal-OS Boost
 

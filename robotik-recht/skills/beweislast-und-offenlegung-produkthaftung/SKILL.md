@@ -5,6 +5,13 @@ description: "Prüft Beweislast, Indizien, Offenlegung technischer Unterlagen, K
 
 # Beweislast und Offenlegung in der Robotik-Produkthaftung
 
+## Fachkern: Beweislast und Offenlegung in der Robotik-Produkthaftung
+- **Spezialgegenstand:** Beweislast und Offenlegung in der Robotik-Produkthaftung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftungsrecht, ProdSG/GPSR, AI Act, MDR/MPDG bei Medizinrobotik, DSGVO, Cybersecurity/NIS2 und Arbeitsschutz.
+- **Entscheidende Weiche:** Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 Die neue Produkthaftungs-RL VO (EU) 2024/2853 reagiert auf die Beweisnot von Geschädigten bei komplexen, vernetzten und KI-gestützten Produkten mit (i) Offenlegungspflichten technischer Unterlagen vor und im Prozess (Art. 9 RL), (ii) Vermutungen zur Fehlerhaftigkeit (Art. 10) und (iii) Vermutungen zur Kausalität (Art. 10 Abs. 4). Parallel bleibt nationales Prozessrecht (§§ 142, 144, 421-432 ZPO, § 810 BGB, § 242 BGB, Auskunfts- und Stufenklage § 254 ZPO) anwendbar. Dieser Skill bündelt die Tools, prioritisiert sie und gibt Schriftsatzpassagen für beide Seiten.

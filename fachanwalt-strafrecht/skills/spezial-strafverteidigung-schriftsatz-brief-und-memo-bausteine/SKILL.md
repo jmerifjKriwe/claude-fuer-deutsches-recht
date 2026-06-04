@@ -5,31 +5,14 @@ description: "Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine im Plug
 
 # Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-strafrecht`. Ausgangspunkt ist: Plugin Fachanwalt für Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Revision. Nebenklage Opfervertretung Zeugenbeistand Adhaesion Insolvenzantrag StA. Ergaenzt aktenaufbereiter-strafrecht und kanzlei-allgemein.
-
-Er führt durch **Schriftsatz-, Brief- und Memo-Bausteine** im Themenfeld **Strafverteidigung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-## Norm- und Praxisanker
-
-- Verteidigerbestellung Anzeige: § 137 StPO – Wahl jederzeit anzeigbar; bei Pflichtverteidigung §§ 140, 141 StPO Antrag auf Beiordnung formal stellen.
-- Akteneinsichtsantrag: § 147 StPO – schriftlich an StA bzw. nach Anklageerhebung an Gericht; Antragsbegründung kurz.
-- Schweigen-Anzeige (Beschuldigteneinlassung): § 136 StPO – frühe schriftliche Anzeige "Mandant macht von Schweigerecht Gebrauch" empfehlenswert, weil weitere Vernehmungen dann nicht erzwungen werden können.
-- Einlassung schriftlich: § 163a StPO – schriftliche Einlassung möglich; sorgfältig formulieren wegen späterem Beweisrelevanz.
-- Beweisantrag: § 244 Abs. 3-6 StPO – Form: Beweismittel, Beweistatsache, Konnex zu Tatbestandsmerkmal. Strukturierter Beweisantrag erhöht Ablehnungswiderstand.
-- Plädoyer-Aufbau: § 258 StPO – (1) Tatsachen, (2) Beweiswürdigung, (3) Subsumtion, (4) Strafzumessung § 46 StGB, (5) Antrag (Freispruch, Strafmaß).
-- Praxis-Tipp: Schriftsatz-Kanon: (1) Bestellungsanzeige + Vollmacht, (2) Akteneinsichts­antrag, (3) Schweigen-Anzeige (wenn Strategie), (4) Stellungnahme zur Anklage / Eröffnungsbeschluss, (5) Beweisanträge, (6) Plädoyer-Skript. Tonalität: präzise, höflich, mit konkretem Antrag; keine Polemik. Bei der StA-Korrespondenz freundlich, weil Einstellungsmöglichkeit nach §§ 153, 153a StPO bleibt.
+## Spezialwissen: Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine
+- **Spezialgegenstand:** Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine / spezial strafverteidigung schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Normen-/Quellenanker:** StPO.
+- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
+- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
 
-## Fachlicher Zuschnitt
-
-- **Thema:** Strafverteidigung.
-- **Arbeitsfokus:** Schriftsatz-, Brief- und Memo-Bausteine.
-- **Plugin-Rahmen:** Plugin Fachanwalt für Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Revision. Nebenklage O....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
+## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?

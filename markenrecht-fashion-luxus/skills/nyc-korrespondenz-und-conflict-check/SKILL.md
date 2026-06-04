@@ -5,6 +5,13 @@ description: "Mandat-Workflow mit US-Korrespondenzkanzlei für Markenverfahren i
 
 # NYC-Korrespondenz und Conflict Check — Whitman Brennan Forsythe LLP
 
+## Fachkern: NYC-Korrespondenz und Conflict Check — Whitman Brennan Forsythe LLP
+- **Spezialgegenstand:** NYC-Korrespondenz und Conflict Check — Whitman Brennan Forsythe LLP; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Die Zusammenarbeit zwischen Steinacker Lichtenberg München und Whitman Brennan Forsythe LLP New York ist das transatlantische Rückgrat des klôtzzkètté-IP-Schutzes. Das Protokoll muss sitzen: Engagement Letters, Privilege-Schutz, Gebührenstruktur, Kommunikationsstandards — jeder Schritt ist juristisch und ethisch sorgfältig vorbereitet.
 
 Partner J. Halston Whitman III, Esq. (USD 1.450/h) und Senior Associate Eleanor M. Quintero, Esq. (USD 695/h) sind klôtzzkètté Inc.'s Trademark Practice Team in NYC.

@@ -38,4 +38,3 @@ Dieser Skill baut eine **vergleichende Synopse**: Zwölftafelgesetz, republikani
 - Wird ein späterer byzantinischer Text als klassisches Rom ausgegeben?
 - Wird ein archaisches Fragment überinterpretiert?
 - Ist die moderne Analogie methodisch tragfähig?
-

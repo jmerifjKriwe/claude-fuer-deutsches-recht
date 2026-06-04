@@ -5,6 +5,13 @@ description: "Versandhandelserlaubnis EU Versandapotheke: prüft die einschlägi
 
 # Versandhandelserlaubnis EU Versandapotheke
 
+## Fachkern: Versandhandelserlaubnis EU Versandapotheke
+- **Spezialgegenstand:** Versandhandelserlaubnis EU Versandapotheke; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
+- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Erlaubnis zum Versandhandel mit apothekenpflichtigen Arzneimitteln in Deutschland — sowohl für inländische Apotheken (§ 11a ApoG) als auch für EU-/EWR-Apotheken (anerkanntes Verfahren, § 73 Abs. 1 Nr. 1a AMG). Dieser Skill behandelt den Erlaubnis- und Anerkennungsprozess, Eintragung im Sicherheitslogo-Register sowie Sortimentsgrenzen, Beratungspflicht und Aufsichtsregime.

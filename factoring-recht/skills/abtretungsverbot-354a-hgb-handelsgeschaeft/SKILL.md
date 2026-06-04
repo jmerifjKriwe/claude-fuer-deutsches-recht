@@ -5,6 +5,13 @@ description: "Abtretungsverbot § 354a HGB Handelsgeschäft: prüft die einschl�
 
 # Abtretungsverbot § 354a HGB Handelsgeschäft
 
+## Fachkern: Abtretungsverbot § 354a HGB Handelsgeschäft
+- **Spezialgegenstand:** Abtretungsverbot § 354a HGB Handelsgeschäft; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
+- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Viele Lieferanten- und Werkverträge enthalten in den AGB der großen Abnehmer ein **Abtretungsverbot**: "Forderungen gegen uns dürfen nur mit unserer schriftlichen Zustimmung abgetreten werden." Nach reinem BGB-Recht (§ 399 BGB) ist eine solche Abtretung unwirksam. Das ist das Ende jedes Factorings – wenn nicht § 354a HGB einspringt.

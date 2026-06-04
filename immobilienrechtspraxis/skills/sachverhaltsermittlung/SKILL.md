@@ -5,6 +5,13 @@ description: "Sachverhalt in Immobilienrechtsstreitigkeiten ermitteln: Eigentums
 
 # Sachverhaltsermittlung
 
+## Fachkern: Sachverhaltsermittlung
+- **Spezialgegenstand:** Sachverhaltsermittlung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BGB, GBO, WEG, BauGB, ErbbauRG, MaBV, Mietrecht, Grundpfandrechte, Notar-/Registervollzug und öffentlich-rechtliche Lasten.
+- **Entscheidende Weiche:** Trenne Eigentum, Besitz, Grundbuchabteilung, Belastung, Fälligkeit, Vollzug, Mängel, Miet-/Nutzungsverhältnis und Finanzierung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Leitidee
 
 Der Engpass in Inhouse-Arbeit ist selten die rechtliche Bewertung. Es

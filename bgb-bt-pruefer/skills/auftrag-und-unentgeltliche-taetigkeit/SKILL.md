@@ -4,6 +4,13 @@ description: "Prüft Auftrag §§ 662 ff. BGB, Weisungen, Auskunft, Rechenschaft
 ---
 # Auftrag und unentgeltliche Tätigkeit
 
+## Fachkern: Auftrag und unentgeltliche Tätigkeit
+- **Spezialgegenstand:** Auftrag und unentgeltliche Tätigkeit; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
+- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Zweck
 
 Auftragsverhältnisse nach §§ 662 ff. BGB prüfen: Unentgeltlichkeit, Weisungsbindung, Aufwendungsersatz und Beendigung durch freie Kündigung.

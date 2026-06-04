@@ -5,6 +5,13 @@ description: "Befehlsverweigerung, Gewissensnot, Rechtswidrigkeit: prüft §§ 1
 
 # Befehlsverweigerung, Gewissensnot und Rechtswidrigkeit
 
+## Fachkern: Befehlsverweigerung, Gewissensnot und Rechtswidrigkeit
+- **Spezialgegenstand:** Befehlsverweigerung, Gewissensnot und Rechtswidrigkeit; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Fachlicher Kontext
 
 Das Befehlsrecht ist Kern militärischer Organisation. § 11 SG verpflichtet zum Gehorsam, setzt aber klare Grenzen: Befehle zur Begehung von Straftaten oder zur Verletzung der Menschenwürde dürfen und müssen verweigert werden.

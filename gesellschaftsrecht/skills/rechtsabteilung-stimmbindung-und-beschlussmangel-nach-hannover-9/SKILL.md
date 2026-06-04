@@ -5,9 +5,19 @@ description: "Rechtsabteilungs-Spezialskill für Stimmbindung und Beschlussmange
 
 # Rechtsabteilung: Stimmbindung und Beschlussmangel nach Hannover-96-Linie
 
-## Worum es geht
+## Fachkern: Rechtsabteilung: Stimmbindung und Beschlussmangel nach Hannover-96-Linie
+- **Spezialgegenstand:** Rechtsabteilung: Stimmbindung und Beschlussmangel nach Hannover-96-Linie; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, UmwG, MoPeG, FamFG/Registerrecht, Gesellschafterliste, Beschlussmängel, Treuepflicht und Organhaftung.
+- **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+
+## Spezialkern: Rechtsabteilung: Stimmbindung und Beschlussmangel nach Hannover-96-Linie
+
+- **Konkretes Problem:** Rechtsabteilungen trennen Satzungsverstoß, schuldrechtliche Stimmbindung und Anfechtbarkeit.
+- **Norm-/Quellenanker:** GmbHG, AktG, MoPeG/BGB-Gesellschaftsrecht, HGB, UmwG, Registerrecht, Treuepflicht, Organhaftung und Beschlussmängelrecht.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

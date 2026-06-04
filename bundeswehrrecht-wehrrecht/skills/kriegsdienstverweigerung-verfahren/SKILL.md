@@ -5,6 +5,13 @@ description: "Kriegsdienstverweigerung Verfahren: prüft die einschlägigen Vora
 
 # Kriegsdienstverweigerung – Verfahren
 
+## Fachkern: Kriegsdienstverweigerung – Verfahren
+- **Spezialgegenstand:** Kriegsdienstverweigerung – Verfahren; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
+- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Das Recht auf Kriegsdienstverweigerung aus Gewissensgründen ist in Art. 4 III GG verankert. Soldaten, Wehrpflichtige, Reservisten und Bewerber können das Recht in Anspruch nehmen. Verfahren und Voraussetzungen regelt das Kriegsdienstverweigerungsgesetz (KDVG). Anerkannte Verweigerer leisten Dienst nach dem Zivildienstgesetz (für Wehrpflichtige in einer Spannungs-/Verteidigungslage) oder werden aus dem Wehrdienst entlassen (Soldaten). Der Skill ordnet Antragsweg, Gewissensprüfung und Folgen.

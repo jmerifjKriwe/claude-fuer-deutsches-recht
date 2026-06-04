@@ -5,6 +5,13 @@ description: "Ermittelt, ob eine KVG-Erlaubnis, Registrierung oder Auslagerungss
 
 # KVG: Erlaubnis, Registrierung und Auslagerung
 
+## Fachkern: KVG: Erlaubnis, Registrierung und Auslagerung
+- **Spezialgegenstand:** KVG: Erlaubnis, Registrierung und Auslagerung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GmbHG, AktG, UmwG, GWB/FKVO, AWG/AWV, KAGB/AIFM-Bezug, LMA-Finanzierung, InsO/StaRUG, Steuer- und Managementbeteiligungsfragen.
+- **Entscheidende Weiche:** Bestimme Dealphase, Fondsrolle, Target-Risiko, Finanzierungsstruktur, Consent/CP, Exit-Auswirkung und Konflikt zwischen Sponsor, Management, Lender und Co-Investor.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 Der Skill baut die BaFin-Kommunikations- und Dokumentenmatrix für Fondsmanager. Kernfrage: Vollerlaubnis nach §§ 17 ff. KAGB, Registrierung als Sub-Threshold-AIFM nach § 2 Abs. 4/5 KAGB oder Auslagerung auf Service-KVG ("Master-KVG-Modell"). Setup-Zeit, Kosten, Personalanforderungen und EU-Pass-Verfügbarkeit unterscheiden sich erheblich.

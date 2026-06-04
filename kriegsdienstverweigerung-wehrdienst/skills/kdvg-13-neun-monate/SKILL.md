@@ -5,6 +5,13 @@ description: "Nutzt § 13 Abs. 2 KDVG als Argument gegen unbegrenztes Liegenlass
 
 # Neunmonats-Sollfrist § 13
 
+## Fachkern: Neunmonats-Sollfrist § 13
+- **Spezialgegenstand:** Neunmonats-Sollfrist § 13; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** Art. 4 Abs. 3 GG, KDVG, WPflG/Wehrrecht, VwVfG/VwGO, Gewissensprüfung, Soldatenstatus und Eilrechtsschutz.
+- **Entscheidende Weiche:** Gewissensentscheidung, politisches Motiv, Status, Zuständigkeit, Bescheid, Untätigkeit, Frist und gerichtlicher Rechtsschutz trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Einsatz
 Berücksichtigt die Rechtslage nach dem Wehrdienstmodernisierungsgesetz und § 13 KDVG n. F.
 

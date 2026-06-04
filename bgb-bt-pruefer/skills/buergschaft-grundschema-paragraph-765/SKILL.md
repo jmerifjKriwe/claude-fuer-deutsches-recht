@@ -4,6 +4,13 @@ description: "Prüft Bürgschaft §§ 765 ff. BGB: Tatbestand, Akzessorietät, I
 ---
 # Bürgschaft Grundschema § 765 BGB
 
+## Fachkern: Bürgschaft Grundschema § 765 BGB
+- **Spezialgegenstand:** Bürgschaft Grundschema § 765 BGB; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
+- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Zweck
 
 Bürgschaft als personale Sicherheit nach § 765 BGB vollständig prüfen: Tatbestand, Akzessorietät, Inanspruchnahme des Bürgen und Regressanspruch.

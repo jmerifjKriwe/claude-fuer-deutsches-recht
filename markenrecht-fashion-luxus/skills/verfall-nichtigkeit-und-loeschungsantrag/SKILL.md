@@ -5,6 +5,13 @@ description: "Verfall, Nichtigkeit und Löschungsanträge gegen Marken strukturi
 
 # Verfall, Nichtigkeit und Löschung
 
+## Fachkern: Verfall, Nichtigkeit und Löschung
+- **Spezialgegenstand:** Verfall, Nichtigkeit und Löschung; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Aufgabe
 
 Entscheide, ob eine Marke angegriffen werden kann oder gegen einen Angriff verteidigt werden muss.

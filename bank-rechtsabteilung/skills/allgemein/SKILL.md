@@ -3,7 +3,6 @@ name: allgemein
 description: "Einstieg und Chefjustiziar-Workflow für die Rechtsabteilung einer mittelgroßen deutschen Bank. Fragt Rolle, Ziel, Fristen, Dokumente, Aufsichtsrisiko, Kreditrisiko, Organbedarf und gewünschten Output ab und routet in passende Bank-Skills."
 ---
 
-<!-- bank-rechtsabteilung-v1 -->
 
 # Rechtsabteilung-Kommandocenter
 

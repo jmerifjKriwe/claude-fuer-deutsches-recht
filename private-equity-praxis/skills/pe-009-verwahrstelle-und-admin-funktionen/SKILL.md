@@ -5,6 +5,13 @@ description: "Prüft Verwahrstelle, Fondsadministration, Bewertung, NAV, Capital
 
 # Verwahrstelle, Administrator und Backoffice
 
+## Fachkern: Verwahrstelle, Administrator und Backoffice
+- **Spezialgegenstand:** Verwahrstelle, Administrator und Backoffice wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GmbHG, AktG, UmwG, GWB/FKVO, AWG/AWV, KAGB/AIFM-Bezug, LMA-Finanzierung, InsO/StaRUG, Steuer- und Managementbeteiligungsfragen.
+- **Entscheidende Weiche:** Bestimme Dealphase, Fondsrolle, Target-Risiko, Finanzierungsstruktur, Consent/CP, Exit-Auswirkung und Konflikt zwischen Sponsor, Management, Lender und Co-Investor.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 Der Skill ordnet die Funktionstrennung zwischen Verwahrstelle (§ 80 KAGB), Fondsadministrator und KVG. Besonders wichtig, wenn Sponsor und Administrator Aufgaben unscharf verteilen — typische Streitpunkte sind NAV-Bewertung, Capital-Call-Berechnung, Waterfall-Berechnung, Reporting-Verantwortung und ILPA-Datenformate.

@@ -5,6 +5,13 @@ description: "Prueft Tontraeger-, ausuebenden Kuenstler- und Produzentenrechte b
 
 # Tonaufnahme und Leistungsschutzrechte
 
+## Fachkern: Tonaufnahme und Leistungsschutzrechte
+- **Spezialgegenstand:** Tonaufnahme und Leistungsschutzrechte; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** UrhG, DSM-RL, InfoSoc-RL, Datenbank-RL, BGB/AGB, GeschGehG, KI-/Text-und-Data-Mining-Regeln, EU-/internationaler Rechtebezug.
+- **Entscheidende Weiche:** Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Wofür dieser Skill da ist
 
 Dieser Skill hilft bei verhindert den typischen Fehler, nur Komposition und Text zu prüfen, obwohl die Tonaufnahme separat geschützt ist. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.

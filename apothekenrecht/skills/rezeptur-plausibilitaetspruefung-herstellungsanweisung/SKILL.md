@@ -5,6 +5,13 @@ description: "Rezeptur Plausibilitätsprüfung Herstellungsanweisung: prüft die
 
 # Rezeptur Plausibilitätsprüfung Herstellungsanweisung
 
+## Fachkern: Rezeptur Plausibilitätsprüfung Herstellungsanweisung
+- **Spezialgegenstand:** Rezeptur Plausibilitätsprüfung Herstellungsanweisung; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
+- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Individualrezeptur: Apotheke stellt im Einzelfall auf ärztliche Verschreibung ein Arzneimittel her (z. B. Salbe mit Wirkstoff X in Konzentration Y, Saft für Kind, Kapseln nicht zugelassener Wirkstoffstärke). Pflicht ist eine **Plausibilitätsprüfung** (§ 7 ApBetrO) und eine schriftliche **Herstellungsanweisung** mit Dokumentation. Bei Fehlern droht Patientenschaden, Anhörung, Haftung (§§ 280, 823, 84 AMG-analog) und Aufsichtsmassnahmen.

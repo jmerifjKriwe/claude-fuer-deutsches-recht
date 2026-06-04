@@ -5,6 +5,13 @@ description: "Debitorenschutz Einwendungen § 404 BGB Aufrechnung § 406 BGB: pr
 
 # Debitorenschutz Einwendungen § 404 BGB Aufrechnung § 406 BGB
 
+## Fachkern: Debitorenschutz Einwendungen § 404 BGB Aufrechnung § 406 BGB
+- **Spezialgegenstand:** Debitorenschutz Einwendungen § 404 BGB Aufrechnung § 406 BGB; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** BGB Forderungsabtretung, HGB, KWG/ZAG-Erlaubnisfragen, InsO-Anfechtung, Factoringvertrag, Debitorenmanagement, Datenschutz und Geldwäsche.
+- **Entscheidende Weiche:** Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Wenn die Forderung abgetreten wird, ändert sich für den Debitor nur der Gläubiger – nicht der Inhalt der Forderung. Er behält alle **Einwendungen**, die ihm gegen den Altgläubiger zustanden (§ 404 BGB), und kann unter bestimmten Voraussetzungen weiter **aufrechnen** mit Gegenforderungen gegen den Altgläubiger (§ 406 BGB). Das ist eine der wichtigsten Stellschrauben des deutschen Debitorenschutzes – und für den Factor das wichtigste **Wertminderungsrisiko** außerhalb der Bonität.

@@ -5,6 +5,13 @@ description: "Analysiert Besitz, Fund, Ersitzung und Eigentumszuordnung oekonomi
 
 # Besitz und Law & Economics: Transaktionskosten
 
+## Fachkern: Besitz und Law & Economics: Transaktionskosten
+- **Spezialgegenstand:** Besitz und Law & Economics: Transaktionskosten; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
+- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Aufgabe
 
 Dieser Skill betrachtet Besitz- und Eigentumsfragen als Zuordnung knapper Ressourcen. Er fragt, welche Regel Investitionen schützt, Streit reduziert, Such- und Beweiskosten senkt und Sachen in wertvolle Nutzung bringt. Die ökonomische Analyse ist ein Prüfwerkzeug, kein Ersatz für Normbindung.

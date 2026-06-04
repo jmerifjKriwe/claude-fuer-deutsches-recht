@@ -5,9 +5,12 @@ description: "Rechtsabteilungs-Spezialskill für SAFE und Wandeldarlehen nach de
 
 # Rechtsabteilung: SAFE und Wandeldarlehen nach deutschem Recht
 
-## Worum es geht
+## Spezialkern: Rechtsabteilung: SAFE und Wandeldarlehen nach deutschem Recht
 
-Dieser Skill ist für die Rechtsabteilung gebaut: nicht als allgemeine Einführung, sondern als schnelle, fallnahe Entscheidungshilfe für ein wiederkehrendes wirtschaftsrechtliches Problem. Er zwingt den Sachverhalt in eine kurze Belegmatrix und verbindet Norm, Rechtsprechungsanker und nächste Handlung.
+- **Konkretes Problem:** VC prüft, ob US-Templates in deutsche GmbH-Finanzierung passen.
+- **Norm-/Quellenanker:** GmbHG, AktG, BGB, WpHG/MAR bei Insiderlagen, Beurkundungsrecht, Investment Terms, Wandeldarlehen/SAFE-Mechanik, Steuer- und Außenwirtschaftsschnittstellen.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 

@@ -5,6 +5,13 @@ description: "Entwirft Compliance-Gates für agile Robotikentwicklung: Definitio
 
 # Agile Entwicklung und Compliance-Gates in der Robotik
 
+## Fachkern: Agile Entwicklung und Compliance-Gates in der Robotik
+- **Spezialgegenstand:** Agile Entwicklung und Compliance-Gates in der Robotik wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftungsrecht, ProdSG/GPSR, AI Act, MDR/MPDG bei Medizinrobotik, DSGVO, Cybersecurity/NIS2 und Arbeitsschutz.
+- **Entscheidende Weiche:** Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 Robotikhersteller arbeiten agil (Scrum, SAFe, Kanban) – das EU-Produkt-, KI- und Cyber-Recht denkt aber in Konformitätsbewertungsverfahren, Versionsständen und Konformitätserklärungen. Dieser Skill bringt beide Welten zusammen: Er definiert die Stage-Gates, die ein Robotikprodukt zwingend durchlaufen muss, damit Sprints am Ende ein CE-fähiges, KI-VO-konformes und cyber-resilientes Release liefern. Schwerpunkt: Definition of Done (DoD) auf Story-, Increment- und Release-Ebene; Sicherheits-, Datenschutz-, KI- und Rechtsfreigabe; Behandlung "substanzieller Änderungen" i. S. d. Art. 3 Nr. 23 VO (EU) 2024/1689 (KI-VO).

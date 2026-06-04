@@ -5,6 +5,13 @@ description: "BtM-Rezept Betäubungsmittel Dokumentation: prüft die einschlägi
 
 # BtM-Rezept Betäubungsmittel Dokumentation
 
+## Fachkern: BtM-Rezept Betäubungsmittel Dokumentation
+- **Spezialgegenstand:** BtM-Rezept Betäubungsmittel Dokumentation; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
+- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 
 Annahme, Prüfung, Abgabe, Lagerung und Dokumentation von Betäubungsmitteln in öffentlichen Apotheken. BtM-Recht ist Sonderrecht mit verschärften Formerfordernissen — BtM-Rezept (rosa, dreiteilig) plus BtM-Buch oder elektronische Aufzeichnung sind Pflicht. Verstösse sind strafbewehrt (§§ 29 ff. BtMG, OWi nach § 32 BtMG, § 13 BtMVV).

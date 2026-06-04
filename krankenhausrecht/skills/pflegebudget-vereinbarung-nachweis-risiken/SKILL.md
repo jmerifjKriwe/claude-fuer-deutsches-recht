@@ -5,6 +5,13 @@ description: "Pflegebudget nach § 17 KHEntgG / Pflegepersonalkostenausgliederun
 
 # Pflegebudget Vereinbarung Nachweis Risiken
 
+## Fachkern: Pflegebudget Vereinbarung Nachweis Risiken
+- **Spezialgegenstand:** Pflegebudget Vereinbarung Nachweis Risiken; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
+- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Worum geht es konkret
 Das Pflegebudget ist seit 2020 aus den DRG ausgegliedert (frueher § 6a KHEntgG, jetzt im neugefassten KHEntgG abgebildet). Pflegepersonalkosten werden gesondert verhandelt; der Pflegeentgeltwert wird budgetbasiert berechnet. PPR 2.0 (§ 137k SGB V) konkretisiert die Personalbemessung schrittweise.
 

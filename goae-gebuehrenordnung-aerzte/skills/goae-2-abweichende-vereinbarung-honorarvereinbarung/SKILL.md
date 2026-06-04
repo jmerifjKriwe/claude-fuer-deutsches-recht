@@ -5,6 +5,13 @@ description: "GOÄ § 2 abweichende Vereinbarung Honorarvereinbarung: prüft die
 
 # GOÄ § 2 abweichende Vereinbarung Honorarvereinbarung
 
+## Fachkern: GOÄ § 2 abweichende Vereinbarung Honorarvereinbarung
+- **Spezialgegenstand:** GOÄ § 2 abweichende Vereinbarung Honorarvereinbarung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GOÄ, BGB-Behandlungsvertrag, ärztliches Berufsrecht, § 12 GOÄ-Rechnung, Analogbewertung, Honorarvereinbarung, Erstattung PKV/Beihilfe.
+- **Entscheidende Weiche:** Prüfe Leistungsinhalt, Ziffer, Steigerungsfaktor, Begründung, Auslagen, Wahlleistung, Schuldner, Erstattungsfähigkeit und Einwendungsfrist.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 § 2 GOÄ erlaubt eine vom Regelfall abweichende Honorarvereinbarung — typischer Anwendungsfall: Steigerungsfaktor über dem Schwellenwert (3,5-fach für persönliche, 2,5-fach für technische, 1,3-fach für Labor). Strikte Formvorgaben: vor Behandlungsbeginn, schriftlich, persönlich vom Patienten unterzeichnet, mit Hinweis auf abweichende Vereinbarung. Verstösse machen die Vereinbarung unwirksam — Erstattung durch PKV oder Beihilfe meist verweigert.

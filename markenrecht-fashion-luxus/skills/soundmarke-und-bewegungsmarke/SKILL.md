@@ -5,6 +5,13 @@ description: "Hoermarken (Soundmarken) und Bewegungsmarken für Jingles und Anim
 
 # Hörmarken (Soundmarken) und Bewegungsmarken
 
+## Fachkern: Hörmarken (Soundmarken) und Bewegungsmarken
+- **Spezialgegenstand:** Hörmarken (Soundmarken) und Bewegungsmarken; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 Die akustische Identität eines Luxushauses ist heute so wertvoll wie das visuelle Logo. Für klôtzzkètté SA habe ich das charakteristische Eröffnungs-Arpeggio der Modeschauen (fünf absteigende Harfentöne in e-Moll) und die Türklingelmelodik des Flagship-Stores auf der Maximilianstraße als Hörmarken abzusichern. Bewegungsmarken schützen animierte Logos und charakteristische Bewegungssequenzen.
 
 Beide Markenarten wurden durch die UMV-Reform 2017/1001 erheblich vereinfacht: Grafische Darstellbarkeit ist nicht mehr zwingend — es genügen Präzision, Zugänglichkeit und Dauerhaftigkeit der Markenwiedergabe.

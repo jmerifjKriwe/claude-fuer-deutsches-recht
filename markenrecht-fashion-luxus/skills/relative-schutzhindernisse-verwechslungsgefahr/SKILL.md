@@ -5,6 +5,13 @@ description: "Relative Schutzhindernisse und Verwechslungsgefahr nach MarkenG un
 
 # Relative Schutzhindernisse und Verwechslungsgefahr
 
+## Fachkern: Relative Schutzhindernisse und Verwechslungsgefahr
+- **Spezialgegenstand:** Relative Schutzhindernisse und Verwechslungsgefahr; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Aufgabe
 
 Bewerte Kollisionsrisiken zwischen neuer und älterer Marke und entscheide, ob Anmeldung, Widerspruch, Abwehr oder Koexistenz sinnvoll ist.

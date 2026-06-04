@@ -5,6 +5,13 @@ description: "Fernabsatzvertrag § 312c BGB: prüft die einschlägigen Vorausset
 
 # Fernabsatzvertrag § 312c BGB
 
+## Fachkern: Fernabsatzvertrag § 312c BGB
+- **Spezialgegenstand:** Fernabsatzvertrag § 312c BGB wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BGB Fernabsatz/Widerruf, PAngV, UWG, DSGVO, DDG/DSA, TDDDG, Produktsicherheit, Gewährleistung, Zahlungsdienste und Plattformrecht.
+- **Entscheidende Weiche:** Trenne Shop-Frontend, Bestellstrecke, Informationspflicht, Preis, Widerruf, Mängelrecht, Werbung, Tracking und Plattform-/Marketplace-Pflichten.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Worum geht es konkret
 
 Ein Fernabsatzvertrag ist ein Vertrag zwischen Unternehmer und Verbraucher, der unter ausschließlicher Verwendung von Fernkommunikationsmitteln (Internet, Telefon, E-Mail) und im Rahmen eines organisierten Vertriebssystems geschlossen wird (§ 312c BGB). Er löst zahlreiche besondere Pflichten aus: Informationspflichten (Art. 246a EGBGB), Widerrufsrecht (§ 312g BGB), Button-Lösung (§ 312j BGB), Bestellbestätigung (§ 312i BGB). Der Skill ordnet die Voraussetzungen und das Zusammenspiel der Folgepflichten.

@@ -5,6 +5,13 @@ description: "Prüft Immobilienbesicherte NPL-Portfolios, Grundschuld, Zwangsver
 
 # Real-Estate-NPL und Sicherheitenverwertung
 
+## Fachkern: Real-Estate-NPL und Sicherheitenverwertung
+- **Spezialgegenstand:** Real-Estate-NPL und Sicherheitenverwertung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GmbHG, AktG, UmwG, GWB/FKVO, AWG/AWV, KAGB/AIFM-Bezug, LMA-Finanzierung, InsO/StaRUG, Steuer- und Managementbeteiligungsfragen.
+- **Entscheidende Weiche:** Bestimme Dealphase, Fondsrolle, Target-Risiko, Finanzierungsstruktur, Consent/CP, Exit-Auswirkung und Konflikt zwischen Sponsor, Management, Lender und Co-Investor.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Wofür dieser Skill da ist
 
 Der Skill verbindet Kreditkauf, Grundbuch und Enforcement.

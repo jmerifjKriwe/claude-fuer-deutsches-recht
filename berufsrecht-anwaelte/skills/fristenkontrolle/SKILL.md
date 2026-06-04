@@ -5,6 +5,13 @@ description: "Fristenkontrolle: vertiefter Berufsrechts-Skill f체r Anw채lte; pr�
 
 # Fristenkontrolle
 
+## Fachkern: Fristenkontrolle
+- **Spezialgegenstand:** Fristenkontrolle; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zur체ckfallen.
+- **Normen-/Quellenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, beA, Verschwiegenheit, Interessenkollision und Anwaltsgerichtsbarkeit.
+- **Entscheidende Weiche:** Pflichtnorm, Mandatsrolle, Verschulden, Kammerverfahren, Reputationsrisiko, Rechtsbehelf und milderes Organisationsmittel trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / n채chster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Einsatz
 
 Nutze diesen Skill im Plugin **Berufsrecht Anw채lte**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgf채ltiger Praxisbegleiter: erst ordnen, dann pr체fen, dann ein verwertbares Arbeitsprodukt liefern.

@@ -5,31 +5,14 @@ description: "Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung i
 
 # Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-strafrecht`. Ausgangspunkt ist: Plugin Fachanwalt für Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Revision. Nebenklage Opfervertretung Zeugenbeistand Adhaesion Insolvenzantrag StA. Ergaenzt aktenaufbereiter-strafrecht und kanzlei-allgemein.
-
-Er führt durch **Beweislast, Darlegungslast und Substantiierung** im Themenfeld **Aktenaufbereiter**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-## Norm- und Praxisanker
-
-- "In dubio pro reo": Grundsatz aus Art. 6 Abs. 2 EMRK / Unschuldsvermutung; positivrechtlich aus § 261 StPO (freie Beweiswürdigung) abgeleitet. Bei Tatzweifeln zugunsten des Angeklagten.
-- Aufklärungspflicht: § 244 Abs. 2 StPO – Tatgericht muss zur Erforschung der Wahrheit von Amts wegen alle Beweismittel ausschöpfen; Anwalt nutzt Beweisanträge zur Ergänzung.
-- Beweisantrag: § 244 Abs. 3-6 StPO – Ablehnungsgründe: Unzulässigkeit, Bedeutungslosigkeit, Wahrunterstellung, Bewiesensein, Unerreichbarkeit, Prozessverschleppung (§ 244 Abs. 6 StPO).
-- Indizienbeweis: BGH ständige Rspr. – Indizien können Vollbeweis liefern, wenn alle vernünftigen Zweifel ausgeschlossen sind; Gesamtschau erforderlich.
-- Belastungs- vs. Entlastungstatsachen: § 160 Abs. 2 StPO verpflichtet StA bereits im Ermittlungsverfahren zu beidem; Verteidigung kann durch Beweisanregungen § 163a StPO aktiv mitwirken.
-- Verteidigerstrategien bei Beweislücken: (1) Schweigen, (2) Bestreiten mit Substantiierung, (3) Alternativhypothese präsentieren, (4) Beweisverwertungsverbot prüfen (§§ 136a, 252 StPO).
-- Praxis-Tipp: Aktenmatrix Beweislage: Spalten Tatbestandsmerkmal, Belastungs­indiz/-beweis, Bewertung Beweiskraft (klar/streitig/lückenhaft), Entlastungs­hypothese, Beweisantrag. Bei lückenhafter Beweislage gezielt Beweisantrag stellen, weil Aufklärungs­pflicht­verletzung § 244 Abs. 2 StPO Revisionsrelevanz hat (BGH ständige Rspr.).
+## Spezialwissen: Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung
+- **Spezialgegenstand:** Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung / spezial aktenaufbereiter beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Normen-/Quellenanker:** StPO, Art. 6, EMRK.
+- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
+- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
 
 
-## Fachlicher Zuschnitt
-
-- **Thema:** Aktenaufbereiter.
-- **Arbeitsfokus:** Beweislast, Darlegungslast und Substantiierung.
-- **Plugin-Rahmen:** Plugin Fachanwalt für Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Revision. Nebenklage O....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
+## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
 1. Welche Rolle hat die fragende Person und wer ist Gegenüber?

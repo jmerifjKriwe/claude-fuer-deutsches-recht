@@ -5,6 +5,13 @@ description: "Physischer Deposit mit Shipping Slip: pro Werk sauber zuordnen, si
 
 # Physischer Deposit und Shipping Slip
 
+## Fachkern: Physischer Deposit und Shipping Slip
+- **Spezialgegenstand:** Physischer Deposit und Shipping Slip; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
+- **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
+- **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+
 ## Aufgabe
 
 Baue eine idiotensichere Versandakte für physische Deposits. Gerade bei deutschen Verlagen entstehen Fehler nicht im Recht, sondern beim Packen: falscher Slip, falsche Ausgabe, mehrere Werke im Paket ohne Zuordnung oder fehlendes Tracking.

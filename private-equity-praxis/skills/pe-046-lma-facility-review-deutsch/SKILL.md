@@ -5,6 +5,13 @@ description: "Prüft hochgeladene LMA-basierte Facility Agreements auf deutsche 
 
 # LMA Facility Review im deutschen Deal
 
+## Fachkern: LMA Facility Review im deutschen Deal
+- **Spezialgegenstand:** LMA Facility Review im deutschen Deal wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** GmbHG, AktG, UmwG, GWB/FKVO, AWG/AWV, KAGB/AIFM-Bezug, LMA-Finanzierung, InsO/StaRUG, Steuer- und Managementbeteiligungsfragen.
+- **Entscheidende Weiche:** Bestimme Dealphase, Fondsrolle, Target-Risiko, Finanzierungsstruktur, Consent/CP, Exit-Auswirkung und Konflikt zwischen Sponsor, Management, Lender und Co-Investor.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
 ## Wofür dieser Skill da ist
 
 Keine LMA-Textwiedergabe; der Skill arbeitet am konkreten Upload: Definitions, Conditions, Transfer, Covenants, Events of Default.

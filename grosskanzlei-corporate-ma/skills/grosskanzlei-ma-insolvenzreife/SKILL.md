@@ -5,6 +5,13 @@ description: "Freistehender Insolvenzreife- und StaRUG-Schwellencheck für M&A: 
 
 # Freistehender Insolvenzreife- und StaRUG-Schwellencheck
 
+## Fachkern: Freistehender Insolvenzreife- und StaRUG-Schwellencheck
+- **Spezialgegenstand:** Freistehender Insolvenzreife- und StaRUG-Schwellencheck; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
+- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
 ## Kernsachverhalt
 
 Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Einerseits als Due-Diligence-Instrument des Käufers, der sicherstellen muss, dass das Zielunternehmen bei Signing nicht bereits insolvenznah ist (andernfalls drohen MAC-Trigger, W&I-Ausschlüsse, Closing-Versagungen). Andererseits als Pflichtinstrument der Geschäftsleitung, die bei Eintritt von Insolvenzreife Antragspflichten hat und für masseschmälernde Zahlungen nach § 15b InsO haftet. Die drei Insolvenztatbestände — Zahlungsunfähigkeit (§ 17), drohende Zahlungsunfähigkeit (§ 18) und Überschuldung (§ 19 InsO) — sind scharf zu trennen: Nur § 17 und § 19 begründen Antragspflichten, § 18 ist Voraussetzung für das StaRUG-Verfahren.
@@ -238,7 +245,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - IDW S 11 (Beurteilung Insolvenzeroeffnungsgruende): https://www.idw.de/idw/idw-verlautbarungen
 - Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-<!-- gk-ma-v61-agentic-boost -->
 
 ## V61 Deal-OS Boost
 
