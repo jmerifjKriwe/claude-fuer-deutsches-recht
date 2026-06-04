@@ -1,6 +1,6 @@
 # Klotzkettes Juristische Promptliste
 
-Eine kuratierte, kompakte Liste praxisnaher Mega-Prompts aus dem Repository — sortiert nach Fachanwaltschaften und Querschnittsthemen.
+Eine kuratierte, kompakte Liste praxisnaher Mega-Prompts aus dem Repository — sortiert nach Rechtsgebieten (orientiert an den Fachanwaltschaften der FAO) und Querschnittsthemen.
 
 > **Alle Angaben ohne Gewaehr. Nutzung auf eigenes Risiko.** Diese Liste ist ein Experiment. Die Prompts koennen kein Jura, ersetzen keine anwaltliche Pruefung und liefern keine Rechtsberatung. Mandatsgeheimnis, Berufsrecht, Datenschutz und KI-VO musst du eigenstaendig pruefen.
 
@@ -26,7 +26,7 @@ Wer das nicht akzeptieren kann oder will, sollte diese Promptliste nicht nutzen.
 <details>
 <summary><strong>So nutzt du die Promptliste</strong></summary>
 
-1. Suche dir unten die Fachanwaltschaft oder Praxisrichtung heraus, die zu deinem Fall passt.
+1. Suche dir unten das Rechtsgebiet oder die Praxisrichtung heraus, die zu deinem Fall passt.
 2. Klicke auf einen Plugin-Link — du landest im jeweiligen Plugin-Verzeichnis auf GitHub.
 3. Im Unterordner `skills/<skill-name>/SKILL.md` findest du den Prompt im Klartext.
 4. Kopiere den Inhalt oder lade die Datei roh herunter (Schaltflaeche **Raw** in GitHub).
@@ -41,25 +41,25 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 
 ## Inhaltsverzeichnis
 
-| Kategorie | Plugins | Kategorie | Plugins |
+| Rechtsgebiet | Plugins | Rechtsgebiet | Plugins |
 |---|---|---|---|
-| [BGB Allgemeiner Teil und Methodenlehre](#bgb-allgemeiner-teil-und-methodenlehre) | 7 | [Fachanwalt fuer Sportrecht](#fachanwalt-fuer-sportrecht) | 1 |
-| [BGB Besonderer Teil - Allgemeines Schuldrecht und Bereicherungsrecht](#bgb-besonderer-teil---allgemeines-schuldrecht-und-bereicherungsrecht) | 5 | [Fachanwalt fuer Strafrecht](#fachanwalt-fuer-strafrecht) | 9 |
-| [Fachanwalt fuer Agrarrecht](#fachanwalt-fuer-agrarrecht) | 2 | [Fachanwalt fuer Transport- und Speditionsrecht](#fachanwalt-fuer-transport--und-speditionsrecht) | 4 |
-| [Fachanwalt fuer Arbeitsrecht](#fachanwalt-fuer-arbeitsrecht) | 7 | [Fachanwalt fuer Urheber- und Medienrecht](#fachanwalt-fuer-urheber--und-medienrecht) | 5 |
-| [Fachanwalt fuer Bank- und Kapitalmarktrecht](#fachanwalt-fuer-bank--und-kapitalmarktrecht) | 6 | [Fachanwalt fuer Vergaberecht](#fachanwalt-fuer-vergaberecht) | 1 |
-| [Fachanwalt fuer Bau- und Architektenrecht](#fachanwalt-fuer-bau--und-architektenrecht) | 5 | [Fachanwalt fuer Verkehrsrecht](#fachanwalt-fuer-verkehrsrecht) | 2 |
-| [Fachanwalt fuer Erbrecht](#fachanwalt-fuer-erbrecht) | 1 | [Fachanwalt fuer Versicherungsrecht](#fachanwalt-fuer-versicherungsrecht) | 2 |
-| [Fachanwalt fuer Familienrecht](#fachanwalt-fuer-familienrecht) | 2 | [Fachanwalt fuer Verwaltungsrecht](#fachanwalt-fuer-verwaltungsrecht) | 30 |
-| [Fachanwalt fuer Gewerblichen Rechtsschutz](#fachanwalt-fuer-gewerblichen-rechtsschutz) | 8 | [Steuerrecht (FA Steuerrecht)](#steuerrecht-fa-steuerrecht) | 3 |
-| [Fachanwalt fuer Handels- und Gesellschaftsrecht](#fachanwalt-fuer-handels--und-gesellschaftsrecht) | 16 | [Prozess- und Verfahrenspraxis](#prozess--und-verfahrenspraxis) | 13 |
-| [Fachanwalt fuer Insolvenz- und Sanierungsrecht](#fachanwalt-fuer-insolvenz--und-sanierungsrecht) | 10 | [Kartell- und Wettbewerbsrecht](#kartell--und-wettbewerbsrecht) | 1 |
-| [Fachanwalt fuer Internationales Wirtschaftsrecht](#fachanwalt-fuer-internationales-wirtschaftsrecht) | 6 | [Franchise und Leasing](#franchise-und-leasing) | 2 |
-| [Fachanwalt fuer IT-Recht](#fachanwalt-fuer-it-recht) | 17 | [Vereinsrecht und Genossenschaften](#vereinsrecht-und-genossenschaften) | 1 |
-| [Fachanwalt fuer Medizinrecht](#fachanwalt-fuer-medizinrecht) | 6 | [Rechtsgeschichte und Vermoegensrecht der Wiedervereinigung](#rechtsgeschichte-und-vermoegensrecht-der-wiedervereinigung) | 2 |
-| [Fachanwalt fuer Miet- und Wohnungseigentumsrecht](#fachanwalt-fuer-miet--und-wohnungseigentumsrecht) | 4 | [Anwaltliches Berufsrecht und Kanzleimanagement](#anwaltliches-berufsrecht-und-kanzleimanagement) | 16 |
-| [Fachanwalt fuer Migrationsrecht](#fachanwalt-fuer-migrationsrecht) | 1 | [Sprache, Lehre und Hilfsskills](#sprache-lehre-und-hilfsskills) | 7 |
-| [Fachanwalt fuer Sozialrecht](#fachanwalt-fuer-sozialrecht) | 3 |  |  |
+| [BGB Allgemeiner Teil und Methodenlehre](#bgb-allgemeiner-teil-und-methodenlehre) | 7 | [Sportrecht](#sportrecht) | 1 |
+| [BGB Besonderer Teil - Allgemeines Schuldrecht und Bereicherungsrecht](#bgb-besonderer-teil---allgemeines-schuldrecht-und-bereicherungsrecht) | 5 | [Strafrecht](#strafrecht) | 9 |
+| [Agrarrecht](#agrarrecht) | 2 | [Transport- und Speditionsrecht](#transport--und-speditionsrecht) | 4 |
+| [Arbeitsrecht](#arbeitsrecht) | 7 | [Urheber- und Medienrecht](#urheber--und-medienrecht) | 5 |
+| [Bank- und Kapitalmarktrecht](#bank--und-kapitalmarktrecht) | 6 | [Vergaberecht](#vergaberecht) | 1 |
+| [Bau- und Architektenrecht](#bau--und-architektenrecht) | 5 | [Verkehrsrecht](#verkehrsrecht) | 2 |
+| [Erbrecht](#erbrecht) | 1 | [Versicherungsrecht](#versicherungsrecht) | 2 |
+| [Familienrecht](#familienrecht) | 2 | [Verwaltungsrecht](#verwaltungsrecht) | 30 |
+| [Gewerblicher Rechtsschutz](#gewerblicher-rechtsschutz) | 8 | [Steuerrecht](#steuerrecht) | 3 |
+| [Handels- und Gesellschaftsrecht](#handels--und-gesellschaftsrecht) | 16 | [Prozess- und Verfahrenspraxis](#prozess--und-verfahrenspraxis) | 13 |
+| [Insolvenz- und Sanierungsrecht](#insolvenz--und-sanierungsrecht) | 10 | [Kartell- und Wettbewerbsrecht](#kartell--und-wettbewerbsrecht) | 1 |
+| [Internationales Wirtschaftsrecht](#internationales-wirtschaftsrecht) | 6 | [Franchise und Leasing](#franchise-und-leasing) | 2 |
+| [IT-Recht](#it-recht) | 17 | [Vereinsrecht und Genossenschaften](#vereinsrecht-und-genossenschaften) | 1 |
+| [Medizinrecht](#medizinrecht) | 6 | [Rechtsgeschichte und Vermoegensrecht der Wiedervereinigung](#rechtsgeschichte-und-vermoegensrecht-der-wiedervereinigung) | 2 |
+| [Miet- und Wohnungseigentumsrecht](#miet--und-wohnungseigentumsrecht) | 4 | [Anwaltliches Berufsrecht und Kanzleimanagement](#anwaltliches-berufsrecht-und-kanzleimanagement) | 16 |
+| [Migrationsrecht](#migrationsrecht) | 1 | [Sprache, Lehre und Hilfsskills](#sprache-lehre-und-hilfsskills) | 7 |
+| [Sozialrecht](#sozialrecht) | 3 |  |  |
 
 **205 Plugins** in 33 Kategorien. Gesamtuebersicht aller Skills in [SKILLS.md](./SKILLS.md), Repo-Hauptseite in [README.md](./README.md).
 
@@ -83,12 +83,12 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 - **[nda-abgleich](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/nda-abgleich)** — Gleicht NDA-Entwurf der Gegenseite gegen eigenen Standard ab und setzt Haltelinien chirurgisch im Word-Aenderungsmodus durch. Ampelmatrix ROT/GELB/GRUEN
 - **[nda-verschwiegenheit-generator-checker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/nda-verschwiegenheit-generator-checker)** — Allgemeiner NDA-Ersteller und NDA-Prüfer für deutsche und internationale Verschwiegenheitsvereinbarungen: Entwurf, Redline, GeschGehG, HinSchG, AGB…
 
-## Fachanwalt fuer Agrarrecht
+## Agrarrecht
 
 - **[fachanwalt-agrarrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht)** — Plugin Fachanwalt für Agrarrecht. Höferecht (HöfeO Anerbenrecht Länder) Landpachtrecht BGB §§ 581 ff
 - **[tierschutzrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tierschutzrecht)** — Tierschutzrecht-Plugin für TierSchG, BGB § 90a, Haltung, Zucht, Transport, Tierversuche, Behördenverfahren, Strafrecht, Bußgeld und zivilrechtliche Tierfälle
 
-## Fachanwalt fuer Arbeitsrecht
+## Arbeitsrecht
 
 - **[arbeitsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht)** — Arbeitsrechtliche Workflows fuer Kuendigung, Befristung, Urlaub, AGG, Aufhebungsvertrag, Betriebsrat, Arbeitszeit, Lohn und Expansion
 - **[arbeitszeugnis-analyse](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse)** — Analyse deutscher Arbeitszeugnisse nach Ampelsystem (Rot/Orange/Grün). Geheimcodes, Schaufenster-Drift, negative Codeworte, Steigerungsadverbien
@@ -98,7 +98,7 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 - **[sozialversicherungsstatus-pruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialversicherungsstatus-pruefer)** — Sozialversicherungsstatus und DRV-Statusfeststellung: Geschäftsführer, Freelancer, Anwälte, Lehrkräfte, Musikschulen, Plattformarbeit und Scheinselbständigkeit
 - **[startup-hr-personalabteilung-berlin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/startup-hr-personalabteilung-berlin)** — Personalabteilungs- und HR-Operations-Plugin für ein Berliner Start-up mit ca. 100 Beschäftigten: Arbeitsverträge, Payroll/DATEV-Schnittstelle, Personalakten…
 
-## Fachanwalt fuer Bank- und Kapitalmarktrecht
+## Bank- und Kapitalmarktrecht
 
 - **[bank-rechtsabteilung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bank-rechtsabteilung)** — Rechtsabteilung einer mittelgroßen deutschen Bank: Aufsicht, Kredit, ZAG/PSD2, PSD3/PSR-Vorschau, eWpG, MiCAR, Tokenisierung, BaFin, Vorstand…
 - **[fachanwalt-bank-kapitalmarktrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht)** — Plugin Fachanwalt für Bank- und Kapitalmarktrecht. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR Verbraucherkredit Vermögensanlage Beratungshaftung
@@ -107,7 +107,7 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 - **[insiderrecht-compliance](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insiderrecht-compliance)** — Insiderrecht- und Marktmissbrauchs-Compliance nach MAR, WpHG und BaFin-Praxis: Insiderinformationen, Ad-hoc, Insiderlisten, Handelsverbote, Aufschub…
 - **[wandeldarlehen-lebenszyklus](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus)** — Begleitet den vollständigen Lebenszyklus eines Wandeldarlehens für GmbH und UG: Vertragserstellung (bilingual/einsprachig), Beurkundungsprüfung…
 
-## Fachanwalt fuer Bau- und Architektenrecht
+## Bau- und Architektenrecht
 
 - **[erbbaurecht-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/erbbaurecht-praxis)** — Praxisplugin für Erbbaurecht und Erbbaugrundbuch: Erbbaurechtsvertrag, Erbbauzins, Wertsicherung, Heimfall, Zustimmung, Belastung, Finanzierung, Veräußerung…
 - **[fachanwalt-bau-architektenrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht)** — Plugin Fachanwalt für Bau- und Architektenrecht. BGB Werkvertrag VOB-A VOB-B VOB-C HOAI Bauordnungsrecht. Bauvertrag Maengelhaftung Abnahme Vergaberecht
@@ -115,16 +115,16 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 - **[immobilienrechtspraxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/immobilienrechtspraxis)** — Werkzeuge fuer immobilienrechtliche Rechtsabteilungen: musterbasierte Vertragserstellung mit Klauselschutz, Vertragspruefung gegen Playbook, Grundbuchanalyse…
 - **[nachbarschaftsstreit-pruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/nachbarschaftsstreit-pruefer)** — Nachbarrecht und Nachbarschaftsstreit: Überbau, Überhang, Äste/Wurzeln, Grenzbaum, Zaun/Mauer/Hecke, Immissionen, Vertiefung, Notweg, Hammerschlagsrecht…
 
-## Fachanwalt fuer Erbrecht
+## Erbrecht
 
 - **[fachanwalt-erbrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht)** — Plugin Fachanwalt für Erbrecht. BGB Erbrecht §§ 1922 ff. Pflichtteil Testament Erbschein Erbauseinandersetzung Erbschaftsteuer EU-ErbVO
 
-## Fachanwalt fuer Familienrecht
+## Familienrecht
 
 - **[betreuungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/betreuungsrecht)** — Betreuungsrechtliche Skills für ehrenamtliche Familienbetreuer, Berufs- und Vereinsbetreuer: Kaltstart, Scan-Akte, Kalender, Gerichtskommunikation…
 - **[fachanwalt-familienrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht)** — Plugin Fachanwalt für Familienrecht. Orientierung Normen Mandate Fristen Literatur. Familiengericht FamFG Scheidung Sorge Umgang Unterhalt Zugewinn Ehevertrag…
 
-## Fachanwalt fuer Gewerblichen Rechtsschutz
+## Gewerblicher Rechtsschutz
 
 - **[designrecht-geschmacksmusterrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/designrecht-geschmacksmusterrecht)** — Eigenständiges Plugin für deutsches und europäisches Designrecht: DesignG, EU-Design, DPMA, EUIPO, WIPO-Hague, Neuheit, Eigenart, Anmeldung, Nichtigkeit…
 - **[fachanwalt-gewerblicher-rechtsschutz](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz)** — Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO
@@ -135,7 +135,7 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 - **[patentrecherche](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche)** — Patentrecherche für Patentanwaelte agentisch in Espacenet Google Patents DPMAregister DEPATISnet EPO Register WIPO USPTO
 - **[patentrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecht)** — Großes Patentrechts-Plugin für Erfindungsaufnahme, Patentanmeldung, Anspruchsentwurf, Recherche, Neuheit, erfinderische Tätigkeit, FTO, Abmahnung, Claim Chart…
 
-## Fachanwalt fuer Handels- und Gesellschaftsrecht
+## Handels- und Gesellschaftsrecht
 
 - **[aktienrecht-hauptversammlung-ag-se](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktienrecht-hauptversammlung-ag-se)** — Hauptversammlungs-Vorbereiter, Leitfaden-Ersteller und Durchführungsplugin für kleine AG, normale AG, börsennotierte AG und SE: Einberufung, Tagesordnung…
 - **[aufsichtsrat-ag-se-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aufsichtsrat-ag-se-praxis)** — Praxisplugin für Aufsichtsräte in AG und SE: Überwachung, Informationsrechte, Vorstand bestellen/abberufen, Vergütung, Ausschüsse, Protokoll…
@@ -154,7 +154,7 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 - **[schoeffen-handelsrichter-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schoeffen-handelsrichter-praxis)** — Plugin für Schöffen, Jugendschöffen, ehrenamtliche Richter und Handelsrichter: Rolle, Rechte, Pflichten, Sitzung, Beratung, Befangenheit, Beweiswürdigung…
 - **[venture-capital-geber](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/venture-capital-geber)** — VC-Geber-Plugin für deutsche Venture-Capital-Investoren, Family Offices, Angels und junge VCs: Sourcing, Deal-Tracking, Wandeldarlehen, SAFE, Pre-Seed…
 
-## Fachanwalt fuer Insolvenz- und Sanierungsrecht
+## Insolvenz- und Sanierungsrecht
 
 - **[fachanwalt-insolvenz-sanierungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht)** — Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO § 14. InsO Eroeffnung Antragspflicht § 15a Gläubigerantrag § 14 InsO
 - **[fortbestehensprognose](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose)** — Fortbestehensprognose § 19 Abs. 2 InsO als Geschäftsführer-Selbstdokumentation. Bilanzstatus Annahmen Plausibilisierung Zwoelf-Monats-Liquiditaet
@@ -167,7 +167,7 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 - **[us-bankruptcy-code](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/us-bankruptcy-code)** — US Bankruptcy Code Title 11: Chapters 7/9/11/12/13/15, Automatic Stay, Claims, DIP, 363 Sales, Plans und Cross-Border
 - **[verbraucherinsolvenz-schuldenbereinigung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verbraucherinsolvenz-schuldenbereinigung)** — Verbraucherinsolvenz und Schuldenbereinigung nach InsO: außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, Antrag, Restschuldbefreiung, P-Konto…
 
-## Fachanwalt fuer Internationales Wirtschaftsrecht
+## Internationales Wirtschaftsrecht
 
 - **[aussenwirtschaft-zoll-sanktionen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen)** — Freistehendes Plugin für Außenwirtschaft, Sanktionen, Zoll, Exportkontrolle, BAFA, TARIC, CBAM, Verbrauchsteuer, AWV, AML/KYC und Ermittlungen
 - **[commercial-courts-deutschland](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/commercial-courts-deutschland)** — Commercial-Courts-Plugin für englischsprachige Wirtschaftsverfahren in Deutschland: Zuständigkeit, Wahlklauseln, Klage, Case Management, Beweis…
@@ -176,7 +176,7 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 - **[festlandchina-wirtschaftsverkehr](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/festlandchina-wirtschaftsverkehr)** — Mega-Plugin für wirtschaftlichen Umgang mit Festlandchina: Fabrik, Import, Export, Investition, De-Risking, Lieferkette, IP, Daten…
 - **[internationales-handelsrecht-lex-mercatoria](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/internationales-handelsrecht-lex-mercatoria)** — Mega-Plugin für internationales Handelsrecht, CISG, Incoterms, UNIDROIT Principles, Lex Mercatoria, Schiedsverfahren, Trade Finance und Lieferkettenverträge
 
-## Fachanwalt fuer IT-Recht
+## IT-Recht
 
 - **[barrierefreiheit-web-checker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/barrierefreiheit-web-checker)** — Web-Barrierefreiheits-Checker für BFSG, BFSGV, BITV 2.0, EN 301 549 und WCAG: Scope, Audit, Tastatur, Screenreader, Formulare, PDFs, Erklärung…
 - **[berufsrecht-ki-vertragspruefung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung)** — Berufsrechtliche und strafrechtliche Vorprüfung von Verträgen mit Legal-AI-Anbietern: § 43e BRAO, § 203 StGB, Consumer-Tool-Abgrenzung, No-Training…
@@ -196,7 +196,7 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 - **[softwarerecht-de-eu-us](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/softwarerecht-de-eu-us)** — Softwarerecht Deutschland/EU/International/USA: Entwicklung, Lizenzen, SaaS, Open Source, Arbeitnehmer/Freelancer, Softwarepatente, AI-Code und Streit
 - **[telekommunikationsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/telekommunikationsrecht)** — Großes Telekommunikationsrecht-Plugin für TKG, Bundesnetzagentur, Internetanschlüsse, Anbieterwechsel, Kundenschutz, Netzregulierung, Frequenzen, Nummerierung…
 
-## Fachanwalt fuer Medizinrecht
+## Medizinrecht
 
 - **[apothekenrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/apothekenrecht)** — Super-Plugin für Apothekenrecht: Betriebserlaubnis, ApBetrO, Versand, E-Rezept, BtM, Retaxation, Aufsicht und Compliance
 - **[betaeubungsmittelrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/betaeubungsmittelrecht)** — Betäubungsmittelrecht-Plugin für BtMG, BtMVV, KCanG/MedCanG-Schnittstellen, Strafverfahren, Therapie, ärztliche Praxis, Apotheken und Compliance
@@ -205,28 +205,28 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 - **[krankenhausrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krankenhausrecht)** — Super-Plugin für deutsches Krankenhausrecht: Planung, Finanzierung, Entgelte, Reform, Qualität, MD-Prüfung, Klinikbetrieb und Rechtsstreit
 - **[krankenkassenrecht-krankenversicherung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krankenkassenrecht-krankenversicherung)** — Plugin für GKV, PKV, Beihilfe-Schnittstellen und Krankenversicherungsrecht: Leistungen, Beiträge, Krankengeld, Hilfsmittel, Widerspruch, MD…
 
-## Fachanwalt fuer Miet- und Wohnungseigentumsrecht
+## Miet- und Wohnungseigentumsrecht
 
 - **[fachanwalt-miet-wohnungseigentumsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht)** — Großer Fachanwalt-Kompass Miet- und Wohnungseigentumsrecht mit über 200 Skills für Wohnraum, Gewerberaum, Betriebskosten, WEG, Hausverwaltung, Beschlüsse, GEG…
 - **[grundbuchamt-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grundbuchamt-praxis)** — Praxisplugin für Grundbuchamt, Grundbuchauszug und grundbuchtaugliche Nachweise: Abteilung I/II/III lesen, Bewilligung, Antrag, Auflassung, Rang…
 - **[mietrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht)** — Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitaetsstaedte
 - **[weg-hausverwaltung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/weg-hausverwaltung)** — Operatives WEG- und Hausverwaltungs-Plugin fuer Beschluesse, Eigentuemerversammlung, Protokoll, Beschlusssammlung, Wirtschaftsplan, Jahresabrechnung, Hausgeld…
 
-## Fachanwalt fuer Migrationsrecht
+## Migrationsrecht
 
 - **[fachanwalt-migrationsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht)** — Großer Fachanwalt-Kompass Migrationsrecht mit über 200 Skills für Aufenthalt, Blaue Karte EU, Fachkräfte, Asyl, Dublin/GEAS, Einbürgerung…
 
-## Fachanwalt fuer Sozialrecht
+## Sozialrecht
 
 - **[fachanwalt-sozialrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht)** — Plugin Fachanwalt für Sozialrecht nach FAO § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch § 84 SGG Klage § 87 SGG Eilantrag § 86b SGG
 - **[rentenpruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rentenpruefer)** — Rentenprüfer für gesetzliche Rente, Versorgungswerk und internationale Versicherungszeiten: Kontenklärung, Rentenantrag, Nachversicherung, Auslandszeiten…
 - **[selbstvertreter-sozialgericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/selbstvertreter-sozialgericht)** — Selbstvertretung vor dem Sozialgericht ohne Anwalt: Anfänger-Workflow, Widerspruch, Klage, Eilantrag, Pflegegrad, Krankenkasse, Bürgergeld, EM-Rente, GdB…
 
-## Fachanwalt fuer Sportrecht
+## Sportrecht
 
 - **[fachanwalt-sportrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht)** — Plugin Fachanwalt für Sportrecht. Verbandsrecht (DFB FIFA UEFA IOC DOSB) CAS Schiedsverfahren Spielerverträge Doping WADA-Code NADA Sponsoring…
 
-## Fachanwalt fuer Strafrecht
+## Strafrecht
 
 - **[aktenaufbereiter-strafrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenaufbereiter-strafrecht)** — Aktenaufbereiter für die Strafverteidigung. Sechs Excel-fähige Übersichten — Aktenvorblatt; Personenverzeichnis; Tatkomplexe; Beziehungen; Chronologie…
 - **[fachanwalt-strafrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht)** — Plugin Fachanwalt Strafrecht: StPO/StGB, Nebenstrafrecht, Verteidigung, Ermittlungsverfahren, HV, Revision…
@@ -238,14 +238,14 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 - **[strafzumessung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafzumessung)** — Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur grossen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe…
 - **[verkehrsowi-verteidiger](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger)** — Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen…
 
-## Fachanwalt fuer Transport- und Speditionsrecht
+## Transport- und Speditionsrecht
 
 - **[fachanwalt-transport-speditionsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht)** — Plugin Fachanwalt für Transport- und Speditionsrecht. HGB §§ 407 ff. Frachtvertrag §§ 453 ff
 - **[fluggastrechte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte)** — Fluggastrechte selber geltend machen nach VO (EG) Nr. 261/2004. Tickets erfassen, Annullierung oder Verspaetung pruefen, aussergewoehnliche Umstaende, Distanz…
 - **[luftrecht-flughafenrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/luftrecht-flughafenrecht)** — Luftrecht-Plugin für LuftVG, LuftSiG, LBA, Flughäfen, Airlines, Slots, Flugzeugpfandrechte, Beschlagnahme, Insolvenz, Drohnen und Aviation-Compliance
 - **[seerecht-schifffahrtsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/seerecht-schifffahrtsrecht)** — See- und Schifffahrtsrecht-Plugin für Schiffskauf, Schiffbau, Werften, Schiffshypothek, Schiffsregister, Arrest, Wrack, Bergung, Charter und ITLOS
 
-## Fachanwalt fuer Urheber- und Medienrecht
+## Urheber- und Medienrecht
 
 - **[fachanwalt-urheber-medienrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht)** — Plugin Fachanwalt für Urheber- und Medienrecht. UrhG UWG KUG Recht am eigenen Bild Presserecht Persoenlichkeitsrecht Medienstaatsvertrag
 - **[urheberrecht-de-eu](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urheberrecht-de-eu)** — Deutsches und EU-Urheberrecht fuer Werkhoehe, Musik, KI, TDM, Software, Lizenzen, Abmahnung, Schranken, Leistungsschutz und Rechteclearing
@@ -253,21 +253,21 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 - **[verlagsrecht-buchpreisbindung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verlagsrecht-buchpreisbindung)** — Plugin für Verlagsrecht, Verlagsgesetz, Autoren- und Herausgeberverträge, Buchpreisbindung, Titelschutz, Vertrieb, E-Book, Hörbuch und verlagsnahe Compliance
 - **[verlagsredaktion](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verlagsredaktion)** — Verlagsdesk fuer juristische und fachliche Verlage: Eingangskorb, Manuskript, Redaktion, Rechtecheck, Zitate, Bildrechte, Autorenkommunikation, Heftplanung…
 
-## Fachanwalt fuer Vergaberecht
+## Vergaberecht
 
 - **[fachanwalt-vergaberecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht)** — Plugin Fachanwalt fuer Vergaberecht als Vergabe-Workbench: GWB 97 ff., VgV, UVgO, SektVO, KonzVgV, VOB/A, Schwellenwerte 2026/2027, Vergabeakte, Ruge…
 
-## Fachanwalt fuer Verkehrsrecht
+## Verkehrsrecht
 
 - **[fachanwalt-verkehrsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht)** — Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezuege. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (§§ 315c…
 - **[strassenverkehrsrecht-stvo](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strassenverkehrsrecht-stvo)** — StVO-/Straßenverkehrsrecht-Plugin für Verkehrsregeln, Zeichen, Anordnungen, Ausnahmegenehmigungen, Fahrerlaubnis, Bußgeld-Schnittstellen und Behördenpraxis
 
-## Fachanwalt fuer Versicherungsrecht
+## Versicherungsrecht
 
 - **[fachanwalt-versicherungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht)** — Plugin Fachanwalt für Versicherungsrecht. VVG VAG Berufsunfähigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht…
 - **[versicherungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/versicherungsrecht)** — Großes Versicherungsrecht-Plugin für VVG, VAG, europäische Versicherungsaufsicht, Lebensversicherung, BU, PKV, Rechtsschutz, Kreditversicherung, D&O, Cyber…
 
-## Fachanwalt fuer Verwaltungsrecht
+## Verwaltungsrecht
 
 - **[beamtenrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/beamtenrecht)** — Beamtenrecht für Bund, Länder und Richterdienst: Status, Laufbahn, Besoldung, Versorgung, Konkurrentenstreit, Disziplinarrecht, Dienstunfähigkeit…
 - **[buerokratieversteher-entbuerokratisierer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/buerokratieversteher-entbuerokratisierer)** — Allgemeiner Bürokratieversteher und Entbürokratisierer für Laien, Menschen mit Deutsch als Zweitsprache und alle, die Bescheide, Anträge, Vorladungen…
@@ -300,7 +300,7 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 - **[versammlungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/versammlungsrecht)** — Praxisplugin für Versammlungsrecht und Versammlungsfreiheit: Anzeige unter freiem Himmel, Landesrecht, Behörde, Fristen, Spontan- und Eilversammlung, Ordner…
 - **[wahlkampfrecht-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wahlkampfrecht-praxis)** — Wahlkampfrecht und Wahlkampfpraxis fuer Parteien, Kandidierende und Kampagnenteams: Strategie, Plakatierung, Social Media, Datenschutz, politische Werbung…
 
-## Steuerrecht (FA Steuerrecht)
+## Steuerrecht
 
 - **[dfg-foerderantrag](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dfg-foerderantrag)** — DFG-Förderantragssteller für Sachbeihilfe, adaptive Anfänger-/Profi-Führung, kleine schnelle Anträge, große Koselleck-Strategien, elan-Formalia, Finanzplan…
 - **[forschungszulage-antragstellung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/forschungszulage-antragstellung)** — Forschungszulage-Antragstellung nach FZulG: adaptiver Fördercheck, BSFZ-Portaltexte mit Zeichenbudgets, Finanzamt-Antrag, FuE-Abgrenzung…
@@ -373,7 +373,7 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 
 ## Hinweis fuer Skill-Autoren und KI-Assistenten
 
-Wenn du neue Skills erzeugst (Perplexity Computer, Claude Code oder Codex): pruefe, ob der Skill sich als alleinstehender Mega-Prompt eignet — also nicht primaer ein Kaltstart-Skill, kein generischer Router und kein reiner Workflow-Anker ist, sondern ein eigenstaendig nutzbarer, inhaltlich substanzieller Prompt mit klarer Struktur. Solche Plugins tragen in diese Promptliste ein und werden nach Fachanwaltschaft einsortiert.
+Wenn du neue Skills erzeugst (Perplexity Computer, Claude Code oder Codex): pruefe, ob der Skill sich als alleinstehender Mega-Prompt eignet — also nicht primaer ein Kaltstart-Skill, kein generischer Router und kein reiner Workflow-Anker ist, sondern ein eigenstaendig nutzbarer, inhaltlich substanzieller Prompt mit klarer Struktur. Solche Plugins tragen in diese Promptliste ein und werden nach Rechtsgebiet einsortiert.
 
 **Pflegehinweis:** Diese Datei wird bei jedem groesseren Versionsbump durchgesehen und an den aktuellen Plugin-Stand angepasst. Die vollstaendigen Pflegeregeln stehen in [`.github/PROMPTLISTE_REGEL.md`](./.github/PROMPTLISTE_REGEL.md).
 
