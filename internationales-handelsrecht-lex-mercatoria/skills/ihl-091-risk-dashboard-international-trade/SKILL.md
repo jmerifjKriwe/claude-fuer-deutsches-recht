@@ -1,50 +1,52 @@
 ---
 name: ihl-091-risk-dashboard-international-trade
-description: "Internationales Handelsrecht und Lex Mercatoria: Risk Dashboard International Trade. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Risiko-Dashboard für internationale Handelsgeschäfte. Länder-, Währungs-, Lieferanten-, Rechtsdurchsetzungs- und Compliance-Risiken im Überblick. Ampelsystem, Priorisierung und Handlungsempfehlungen."
 ---
 
-# Risk Dashboard International Trade
+# Risiko-Dashboard Internationaler Handel
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Risk Dashboard International Trade** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Ein systematisches Risiko-Dashboard für internationale Handelsgeschäfte aggregiert Länderrisiko (politisch, wirtschaftlich), Gegenpartei-Risiko, Rechtsrisiko (Durchsetzbarkeit, Gerichtsstand, Schiedsort) und Compliance-Risiko (Exportkontrolle, Sanktionen, Korruption). Es dient als Entscheidungshilfe für Führungsgremien.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **OECD Country Risk Classification**: Länderbewertung für Exportkreditversicherung (1-7)
+- **Euler Hermes (Allianz Trade)**: Länderrisikobewertungen A1-D
+- **OFAC Country Programs**: US-Sanktionsländerliste
+- **Transparency International CPI**: Korruptionswahrnehmungsindex
+- **World Bank ICRG**: International Country Risk Guide
+- **Export Credit Guarantee Scheme (Hermes-Deckung)**: Bundesdeckungen für Deutsche Exporteure
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Länderrisiko: Zahlungsunfähigkeits- + politisches Transfer- + Konvertierungsrisiko
+- Gegenparteirisiko: Bonitätsprüfung (KreditauskunfteI, Jahresabschlüsse, Trade References)
+- Rechtsdurchsetzungsrisiko: NY-Convention-Mitgliedschaft + Schiedsrecht + Justizqualität
+- Sanktions-Compliance-Risiko: Sanktionsstatus des Landes, der Gegenpartei, der Güter
+- ESG-Risiko: LkSG/CSDDD-Exposur + Reputationsrisiko
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Neues Land: Wie schnell erstelle ich ein Länderprofil für ein unbekanntes Handelsland?
+2. Gegenpartei-Screening: Welche Datenbanken für Bonitäts- und Sanctions-Check?
+3. Rechtsdurchsetzungs-Score: Wie bewerte ich Schiedsgerichtsbarkeits-Qualität eines Landes?
+4. LkSG-ESG-Risiko: Wie kommt ESG-Risiko ins Dashboard ohne übertriebenen Aufwand?
+5. Aggregation: Wie gewichte ich die verschiedenen Risikodimensionen zu einem Gesamtscore?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Dashboard-Dimensionen: (1) Länder/Politisch, (2) Wirtschaftlich/Währung, (3) Gegenpartei, (4) Recht, (5) Compliance
+- Ampelsystem: Rot (kein Geschäft ohne besondere Maßnahmen), Gelb (Monitoring), Grün (Standard)
+- Datenquellen: OECD, OFAC, TI CPI, Euler Hermes, World Bank Doing Business-Nachfolger
+- Aktualisierung: Quartalsweise oder bei kritischen Ereignissen (Wahlen, Sanktionen, Insolvenz)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Risiko-Dashboard-Template (5 Dimensionen × Ampel)
+- Länderprofil-Kurzanalyse-Schema
+- Datenquellen-Matrix (Kostenlos vs. kostenpflichtig)
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+OECD Country Risk: oecd.org. TI CPI: transparency.org. OFAC: home.treasury.gov. World Bank: worldbank.org. Euler Hermes: allianz-trade.com. Unsicherheit bleibt sichtbar.

@@ -1,50 +1,52 @@
 ---
 name: ihl-050-battle-of-forms-international
-description: "Internationales Handelsrecht und Lex Mercatoria: Battle Of Forms International. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Battle of Forms im internationalen Kaufrecht. CISG Art. 19 modifizierte Annahme, Knock-Out-Theorie (herrschende Schiedsgerichtspraxis), Last-Shot-Doktrin (Common Law), Mirror-Image-Rule und Abwehrklauseln in AGB."
 ---
 
-# Battle Of Forms International
+# Battle of Forms International
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Battle Of Forms International** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Battle of Forms entsteht wenn Käufer und Verkäufer widersprüchliche AGB einbeziehen. CISG Art. 19 regelt die modifizierte Annahme: wesentliche Abweichungen begründen Gegenangebot, unwesentliche werden Vertragsinhalt. In der Schiedsgerichtspraxis setzt sich die Knock-Out-Doktrin durch: Klauseln die sich widersprechen werden neutralisiert; gemeinsame Klauseln und dispositives Recht füllen die Lücke.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CISG Art. 19**: Modifizierte Annahme — wesentliche vs. unwesentliche Abweichung
+- **CISG Art. 19 Abs. 3**: Wesentliche Abweichungen — Preis, Zahlung, Qualität, Menge, Haftung, Streitbeilegung
+- **CISG Art. 9**: Handelsbräuche — Branchenübliche AGB als Trade Usage
+- **PICC Art. 2.1.22**: Knock-Out-Doktrin explizit kodifiziert
+- **UCC § 2-207 (USA)**: Battle of Forms — US-Sonderregel (modifiziert 2001)
+- **§§ 305-310 BGB**: AGB-Einbeziehung im deutschen Recht
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Knock-Out-Theorie: Widersprüchliche AGB-Klauseln neutralisieren sich; CISG/lex contractus füllt Lücke
+- Last-Shot-Doktrin: Letzte AGB gewinnt — traditionelles Common Law, vom CISG nicht übernommen
+- Mirror-Image-Rule: Common-Law-Prinzip (jede Abweichung = Ablehnung und Gegenangebot)
+- Abwehrklausel: "Our terms prevail" — verhindert Last-Shot, führt zu Vertragsschluss-Zweifel
+- Silence = Acceptance: Handelsbrauch kann Schweigen als Annahme bewerten (Art. 9 CISG)
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Verkäufer-AGB: Schiedsklausel ICC London; Käufer-AGB: DIS Frankfurt. Welche gilt?
+2. Knock-Out ICC-Schiedssprüche: Welches dispositive Recht füllt neutralisierte Klausel?
+3. UCC § 2-207 (USA): Wie unterscheidet sich US-Battle-of-Forms-Doktrin von CISG?
+4. Abwehrklausel: "Diese Bestellung ergeht ausschließlich zu unseren Bedingungen" — wirksam?
+5. Trade Usage (CISG Art. 9): Können Branchen-AGB (VDMA-AGB) als Handelsbrauch gelten?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- AGB-Einbeziehung: Expliziter Hinweis und Zugänglichmachen der AGB (§ 305 BGB)
+- Knock-Out-Prüfung: widersprüchliche Klauseln identifizieren → CISG dispositives Recht
+- Schiedsklausel: besonders kritisch prüfen (Art. 19 Abs. 3 — wesentliche Abweichung)
+- Abwehrklausel einbauen: verhindert unerwünschte Vertragsschlüsse unter fremden AGB
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Battle-of-Forms-Flowchart (CISG-Knock-Out)
+- Abwehrklausel-Muster
+- Schiedsklausel-Prüfung im Battle-of-Forms-Kontext
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG Art. 19: uncitral.un.org. PICC Art. 2.1.22: unidroit.org. UCC § 2-207: uniform.law.cornell.edu. BGB §§ 305-310: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.

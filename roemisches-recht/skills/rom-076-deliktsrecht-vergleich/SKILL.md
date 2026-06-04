@@ -1,50 +1,53 @@
 ---
 name: rom-076-deliktsrecht-vergleich
-description: "Römisches Recht: Deliktsrecht Vergleich. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Deliktsrecht im Vergleich - röm. Hauptdelikte (furtum, damnum iniuria datum, iniuria, rapina) vs. BGB §§ 823-826 und die Transformation der culpa Aquiliana in das moderne Verschuldensprinzip."
 ---
 
-# Deliktsrecht Vergleich
+# Deliktsrecht im Vergleich
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Deliktsrecht Vergleich** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das röm. Deliktsrecht kennt vier Hauptdelikte: furtum (D. 47.2), damnum iniuria datum (lex Aquilia, D. 9.2), iniuria (D. 47.10) und rapina (D. 47.8). Das BGB § 823 Abs. 1 entspricht strukturell dem damnum iniuria datum; § 826 dem dolus malus/actio de dolo. Die culpa Aquiliana (Fahrlässigkeitshaftung) ist Vorläufer des § 823 Abs. 1 BGB. Die Transformation erfolgte über Pandektenwissenschaft.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 9.2.1 (Gaius)**: Lex Aquilia - drei Kapitel
+- **D. 47.2.1.3 (Paulus)**: Furtum-Definition
+- **D. 47.10.1 (Ulpian)**: Iniuria-Definition
+- **D. 47.8.1 (Ulpian)**: Rapina als qualifiziertes furtum
+- **BGB § 823 Abs. 1**: Verletzung absoluter Rechte
+- **BGB § 826**: Vorsätzliche sittenwidrige Schädigung
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- furtum -> kein direktes BGB-Pendant (strafrechtlich § 242 StGB)
+- damnum iniuria datum -> BGB § 823 Abs. 1
+- iniuria -> allg. Persönlichkeitsrecht (BGB § 823 Abs. 1 i.V.m. Art. 2 GG)
+- actio de dolo -> BGB § 826
+- culpa Aquiliana -> Fahrlässigkeit (BGB § 276 Abs. 2)
+- rapina: Klage in quadruplum -> keine direkte BGB-Entsprechung
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Kontinuität lex Aquilia -> BGB § 823: direkt oder über Pandektistik?
+2. Numerus clausus der röm. Delikte vs. Generalklausel BGB § 823 Abs. 1
+3. BGB und allgemeines Persönlichkeitsrecht: Lücke des röm. Rechts aufgefüllt?
+4. Fahrlässigkeitsmaßstab: culpa Aquiliana vs. § 276 BGB - gleich?
+5. Haftung für reine Vermögensschäden: röm. vs. BGB
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 9.2; D. 47.2; D. 47.10 (Mommsen-Krüger)
+- BGB §§ 823-826 (gesetze-im-internet.de)
+- Kaser RP I §§ 280-305; Zimmermann Law of Obligations Kap. 24-28
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Vergleichstabelle: röm. Delikte vs. BGB-Tatbestände
+- Schema: Voraussetzungen lex Aquilia vs. § 823 Abs. 1
+- Memo zur Fahrlässigkeitshaftung
+- Fallbearbeitung mit hist. Einordnung
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 9.2; D. 47.2; D. 47.10 (Mommsen-Krüger). BGB: gesetze-im-internet.de. Zimmermann. Kaser RP I.

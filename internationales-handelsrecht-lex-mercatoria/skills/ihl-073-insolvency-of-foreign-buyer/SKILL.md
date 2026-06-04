@@ -1,50 +1,52 @@
 ---
 name: ihl-073-insolvency-of-foreign-buyer
-description: "Internationales Handelsrecht und Lex Mercatoria: Insolvency Of Foreign Buyer. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Insolvenz des ausländischen Käufers. EuInsVO (EU) 2015/848, Hauptinsolvenzverfahren und Sekundärverfahren, Anmeldepflicht, Sicherungsrechte in der Insolvenz (Eigentumsvorbehalt, Akkreditiv) und COMI-Bestimmung."
 ---
 
-# Insolvency Of Foreign Buyer
+# Insolvenz des ausländischen Käufers
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Insolvency Of Foreign Buyer** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Bei Insolvenz des ausländischen Käufers stellen sich Fragen zur anzuwendenden Insolvenzrechtsordnung, zur Anmeldung von Forderungen und zur Durchsetzung von Sicherungsrechten. In der EU gilt EuInsVO (EU) 2015/848 — das Hauptinsolvenzverfahren am COMI (Center of Main Interests) des Schuldners. Außerhalb EU: nationales IPR und Anerkennungsrecht.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **EuInsVO (EU) 2015/848 Art. 3**: COMI-Bestimmung — Widerlegliche Vermutung am Sitz
+- **EuInsVO Art. 20-21**: Hauptverfahren und Sekundärverfahren
+- **EuInsVO Art. 45**: Forderungsanmeldung in anderen Mitgliedstaaten
+- **InsO § 343**: Anerkennung ausländischer Insolvenzverfahren (deutsches IPR)
+- **UNCITRAL Model Law on Cross-Border Insolvency 1997**: Leitfaden für Nicht-EU
+- **CISG Art. 71-72**: Unsicherheitseinwand und Antizipatorische Verletzung bei Insolvenzgefahr
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- COMI (Center of Main Interests): grundsätzlich Hauptniederlassung; kann verlegt werden
+- Hauptverfahren vs. Sekundärverfahren: Sekundärverfahren auf lokale Aktiva beschränkt
+- Anmeldung: Forderung im ausländischen Verfahren anmelden (Formular, Frist)
+- Eigentumsvorbehalt: Wirksam gegen Insolvenzverwalter wenn wirksam begründet und anerkannt
+- Akkreditiv als Insolvenzschutz: Bank-Zahlungsversprechen unabhängig von Käufer-Insolvenz
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. COMI-Verlagerung: Käufer verlegt Hauptniederlassung kurz vor Insolvenz — EuInsVO-Schutz?
+2. Eigentumsvorbehalt: Anerkennbar im französischen Insolvenzverfahren?
+3. Akkreditiv bei Käufer-Insolvenz: Zahlt Bank trotzdem wenn Dokumente konform?
+4. Forderungsanmeldung UK-Insolvenz nach Brexit: Gilt noch EuInsVO?
+5. CISG Art. 71: Kann Verkäufer Lieferung stoppen wenn Käufer zahlungsunfähig zu werden droht?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- COMI-Check: vor und nach Insolvenz-Verdacht; EuInsVO-Qualifikation für Hauptverfahren
+- Forderungsanmeldung: Frist nicht versäumen; englischer/französischer Text je nach Verfahren
+- EV-Schutz: lex situs des Käuferlandes; Registrierung wenn erforderlich
+- CISG Art. 71: Lieferung stoppen wenn plausible Insolvenzanzeichen; dann Aufhebungsrecht prüfen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- EuInsVO COMI-Bestimmungs-Schema
+- Forderungsanmeldung-Checkliste (EU und Nicht-EU)
+- EV-Anerkennungs-Matrix für EU-Mitgliedstaaten
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+EuInsVO (EU) 2015/848: eur-lex.europa.eu. InsO §§ 343 ff.: gesetze-im-internet.de. UNCITRAL Model Law: uncitral.un.org. CISG Art. 71-72: uncitral.un.org. Unsicherheit bleibt sichtbar.

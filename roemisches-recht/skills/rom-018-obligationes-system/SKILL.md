@@ -1,50 +1,54 @@
 ---
 name: rom-018-obligationes-system
-description: "Römisches Recht: Obligationes System. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Obligationensystem nach Gaius Inst. 3.88 (ex contractu/ex delicto) und Iust. Inst. 3.13 (ex contractu, quasi ex contractu, ex delicto, quasi ex delicto) - Quellen und Systematik."
 ---
 
-# Obligationes System
+# Obligationensystem: Quellen und Systematik
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Obligationes System** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die obligatio ist das persönliche Recht, von einem anderen ein Tun, Dulden oder Unterlassen zu fordern (D. 44.7.3, Paulus). Gaius gliedert in ex contractu und ex delicto (Inst. 3.88). Justinians Institutionen erweitern auf vier Quellen: ex contractu, quasi ex contractu, ex delicto, quasi ex delicto (Iust. Inst. 3.13.2). D. 44.7 ist der zentrale Digestentitel.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius Inst. 3.88**: Bipartition ex contractu / ex delicto
+- **D. 44.7.3 pr. (Paulus)**: Obligatio-Definition
+- **Iust. Inst. 3.13.2**: Vierteilung der Obligationsquellen
+- **D. 44.7.1 (Gaius)**: Klassische Obligationslehre
+- **D. 45.1.1 (Paulus)**: Obligationsinhalt: dare, facere, praestare
+- **Iust. Inst. 3.14**: Obligationes ex contractu (Typen)
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- obligatio: rechtliches Band zwischen Gläubiger und Schuldner
+- dare: Übereignungspflicht
+- facere: Handlungspflicht
+- praestare: Garantiepflicht/Einstehenpflicht
+- quasi ex contractu: gesetzliche Schuldverhältnisse ohne Vertrag
+- quasi ex delicto: deliktähnliche Haftung ohne echtes Delikt
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Gaianische Bipartition vs. justinianische Vierteilung: systematischer Fortschritt?
+2. Vertragsbegriff im röm. Recht: Konsens ausreichend oder Formakt nötig?
+3. Obligatio als nur persönliches Recht: dingliche Wirkung möglich?
+4. Culpa-Haftung: zur obligatio oder nur bei Vertrag?
+5. Einfluss auf BGB-Systematik: §§ 241ff., 280ff., 812ff.
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 44.7 (De obligationibus et actionibus) als Haupttitel
+- Gaius Inst. 3.88-225; Iust. Inst. 3.13-29
+- Kaser RP I §§ 163-180; Zimmermann Law of Obligations
+- Vergleich: BGB-Schuldrecht Allgemeiner Teil
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Systemschaubild: Obligationsquellen
+- Tabelle: Vertragstypologie mit Klagen
+- Memo: dare/facere/praestare und ihre Bedeutung
+- Vergleich röm. Obligationensystem vs. BGB
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 44.7; Gaius Inst. 3; Iust. Inst. 3.13 (Mommsen-Krüger). Zimmermann Law of Obligations. Kaser RP I.

@@ -1,50 +1,52 @@
 ---
 name: ihl-020-cfr-cif-cpt-cip
-description: "Internationales Handelsrecht und Lex Mercatoria: Cfr Cif Cpt Cip. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: CFR, CIF, CPT und CIP nach Incoterms 2020. C-Klauseln als Ankunftsklauseln für Kosten und Abgangsklauseln für Gefahr, Versicherungspflichten (CIF Klausel C vs. CIP Klausel A) und Transportdokumentenpflichten."
 ---
 
-# Cfr Cif Cpt Cip
+# CFR, CIF, CPT, CIP: C-Klauseln
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Cfr Cif Cpt Cip** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die C-Klauseln (CFR, CIF, CPT, CIP) sind Hybrid-Klauseln: Gefahrübergang am Abgangsort (wie F-Klauseln), aber Kostentragung bis zum Bestimmungsort durch den Verkäufer. Incoterms 2020 hat CIP aufgewertet: Verkäufer muss jetzt mit Institute Cargo Clauses (A) versichern (All-Risk), während CIF bei der Mindestdeckung (Klausel C) bleibt.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Incoterms 2020 CFR A3/B3**: Kosten bis Bestimmungshafen; Gefahr nach Verladung
+- **Incoterms 2020 CIF A5**: Versicherungspflicht — ICC-Klausel C (Mindestdeckung); nur Seefracht
+- **Incoterms 2020 CPT A3/B3**: Multimodal; Kosten bis benannten Ort; Gefahr nach Übergabe an Frachtführer
+- **Incoterms 2020 CIP A5**: Versicherungspflicht — ICC-Klausel A (All Risk); Upgrade ggü. 2010
+- **Institute Cargo Clauses (A), (B), (C)**: Lloyd's Market Association (LMA/IUA)
+- **UCP 600 Art. 28**: Transportversicherungsdokument im Akkreditivrecht
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Gefahrübergang bei C-Klauseln: am Abgangsort (nicht am Bestimmungsort — trotz Kostentragung)
+- CIF vs. CIP: Seefracht (CIF) vs. multimodal (CIP); Versicherungsniveau unterschiedlich
+- Institute Cargo Clauses A: umfassende Deckung inkl. Diebstahl, Beschädigung; B/C eingeschränkter
+- Akkreditiv und CIF: UCP 600 Art. 28 — Mindestanforderungen Versicherungszeugnis
+- Named Port of Destination: möglichst spezifisch (Terminal) für Kostenzwecke
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. CIF: Ware beschädigt nach Verladung — Käufer trägt Gefahr, aber Verkäufer hat versichert — wer klagt Versicherer?
+2. CIP 2020: Kann Käufer downgrade auf ICC Klausel C verlangen?
+3. CFR vs. CIF im Akkreditiv: Was wenn Akkreditiv CIF fordert aber Vertrag CFR hat?
+4. CPT multimodal: Wann genau geht Gefahr über bei Containerübergabe (FCA und CPT identisch)?
+5. Akkreditiv: UCP 600 Art. 28 — Mindestversicherungswert (110% Fakturwert)?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- C-Klauseln: Gefahrübergang IMMER am Abgangsort, nicht am Bestimmungsort kommunizieren
+- CIF vs. CIP Entscheidung: Transportmodus (See vs. multimodal) und Versicherungsbedarf
+- Versicherungszeugnis für Akkreditiv: UCP 600 Art. 28 Anforderungen vor Vertragsabschluss abstimmen
+- Named Destination: Terminal-Level-Spezifizierung für Frachtkostentransparenz
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- C-Klausel Vergleichstabelle: Gefahrübergang / Kostentragung / Versicherung
+- Versicherungszeugnis-Anforderungen nach UCP 600 Art. 28
+- CIF vs. CIP Entscheidungsbaum
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Incoterms 2020: iccwbo.org. Institute Cargo Clauses: lloyds.com (LMA). UCP 600: iccwbo.org. Schrifttum: Ramberg, ICC Guide to Incoterms 2020. Unsicherheit bleibt sichtbar.

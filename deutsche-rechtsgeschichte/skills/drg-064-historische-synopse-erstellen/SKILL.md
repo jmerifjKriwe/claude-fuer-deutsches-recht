@@ -1,50 +1,49 @@
 ---
 name: drg-064-historische-synopse-erstellen
-description: "Deutsche Rechtsgeschichte: Historische Synopse Erstellen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Historische Synopse erstellen. Methodische Anleitung zum parallelen Vergleich von Normtexten verschiedener Epochen (z. B. BGB 1900 vs. DDR-ZGB 1975 vs. BGB 2002)."
 ---
 
-# Historische Synopse Erstellen
+# Historische Synopse erstellen
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Historische Synopse Erstellen** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Eine historische Synopse stellt Normtexte verschiedener Epochen oder Rechtsordnungen nebeneinander und ermoeglicht systematischen Vergleich. Klassische Synopsen in der deutschen Rechtsgeschichte: WRV Art. 48 vs. GG Art. 81, BGB § 123 (1900) vs. DDR-ZGB § 68, Reichsstrafgesetzbuch 1871 vs. StGB 1975. Methodische Grundsaetze: (1) Gleiche Textfassung waehlen, (2) Quelle der Textfassung angeben, (3) Sprachliche Unterschiede (Archaismen, Terminologiewechsel) explizit kommentieren, (4) Inhaltliche Aenderungen von sprachlichen trennen, (5) Interpretationsrahmen je Epoche angeben.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **BGB 1900 (RGBl. 1896, 195)** vs. **BGB 2002 (BGBl. I 2001, 3138)**: Schuldrecht-Synopse
+- **WRV Art. 48** vs. **GG Art. 81**: Notstandsrecht-Synopse
+- **DDR-ZGB 1975 (GBl. I DDR 1975, 465)** vs. **BGB §§ 241 ff.**: Schuldrecht-Synopse Ost-West
+- **Reichsstrafgesetzbuch 1871 (RGBl. 1871, 127)** vs. **StGB 1975 (BGBl. I 1975, 2390)**: Strafrecht-Synopse
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Rechtswissenschaft und Praxis**: Nutzer historischer Synopsen
+- **Bundesjustizministerium**: Synopsen-Begleitdokumente bei Gesetzreform
+- **Kommentatoren**: Mugdan als Ur-Synopse fuer BGB (Motiv vs. Protokoll vs. Text)
+- **Forschende Historiker**: Methodische Erarbeitung von Synopsen
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Synopse und Kontextausblendung: Verliert man den historischen Rahmen durch reine Textgegenueberstellung?
+2. Terminologische Aenderungen: Wann ist eine Aenderung inhaltlich, wann nur sprachlich?
+3. Luecken in einer Synopse: Was tun wenn eine Epoche kein Pendant hat?
+4. Digitale Synopsen (gesetze-im-internet.de mit Fassungen): Verlaeesslich?
+5. Synopse als Beweis: Welchen Beweiswert hat eine Synopse vor Gericht?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- BGB-Fassungen: gesetze-im-internet.de (mit historischen Fassungen); ALEX/OeNB fuer RGBl. 1896
+- DDR-ZGB: GBl. I DDR 1975, 465 via ALEX/OeNB
+- WRV: documentArchiv.de; GG: gesetze-im-internet.de
+- Textvergleich: tabellarisch mit Kommentarspalte
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Synopse-Vorlage (Tabellenformat: Epoche A / Epoche B / Kommentar)
+- Beispielsynopse: BGB § 433 1900 vs. BGB § 433 2002 (Mangelfreiheit)
+- Methodennotiz: Wann Synopse, wann Quellenkritik
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+BGB: gesetze-im-internet.de (historische Fassungen). DDR-ZGB: ALEX/OeNB. WRV und GG: documentArchiv.de und gesetze-im-internet.de. Quellenangabe fuer jede Textfassung zwingend.

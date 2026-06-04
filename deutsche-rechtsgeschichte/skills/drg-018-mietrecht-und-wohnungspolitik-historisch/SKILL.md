@@ -1,50 +1,50 @@
 ---
 name: drg-018-mietrecht-und-wohnungspolitik-historisch
-description: "Deutsche Rechtsgeschichte: Mietrecht Und Wohnungspolitik Historisch. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Mietrecht und Wohnungspolitik historisch. BGB-Mietrecht 1900, Mieterschutzrecht im Ersten Weltkrieg, Weimarer Wohnungspolitik, NS-Wohnungsrecht und BGB-Mietrechtsreform 2001."
 ---
 
-# Mietrecht Und Wohnungspolitik Historisch
+# Mietrecht und Wohnungspolitik historisch
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Mietrecht Und Wohnungspolitik Historisch** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Mietrecht des BGB 1900 (§§ 535-597 a.F.) war ein reines Schuldvertragsrecht ohne Mieterschutz. Der Erste Weltkrieg aenderte dies: Die Mieterschutzverordnung von 1917 (RGBl. 1917, 659) einfror Mieten und schuetzte vor Kuendigung. In der Weimarer Republik blieb Mieterschutz als staatliche Wohnungspolitik. Im NS wurden Mieten staatlich kontrolliert (Mietenpreisgestaltungsverordnung 1936). In der BRD wurde der Mieterschutz stufenweise ausgebaut: Wohnraumkuendigungsschutzgesetz 1971, Miethoehegesetz 1974, und schliesslich die Mietrechtsreform 2001 (BGBl. I 2001, 1162), die Mieterschutz ins BGB integrierte.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **BGB §§ 535-597** (1900, a.F.): Urspruengliches Mietrecht ohne Mieterschutz
+- **Mieterschutzverordnung 1917 (RGBl. 1917, 659)**: Erster gesetzlicher Mieterschutz
+- **Wohnraumkuendigungsschutzgesetz 1971 (BGBl. I 1971, 1839)**: Weitreichender Mieterschutz BRD
+- **Miethoehegesetz 1974 (BGBl. I 1974, 1603)**: Kappungsgrenze und ortsuebl. Vergleichsmiete
+- **Mietrechtsreform 2001 (BGBl. I 2001, 1162)**: Integration Mieterschutz ins BGB
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Reichsregierung 1917**: Erlass der Mieterschutzverordnung als Kriegsmassnahme
+- **SPD und Gewerkschaften (Weimar)**: Mieterschutz als sozialpolitisches Programm
+- **Bundesjustizministerium**: Mietrechtsreform 2001
+- **BGH Zivilsenat**: Praegend fuer Mietrechts-Auslegung seit 1954
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. War Mieterschutz 1917 Ausnahmerecht oder Beginn struktureller Sozialpolitik?
+2. Weimarer Wohnungspolitik: Veroeffentlichter Kommunaler Wohnungsbau vs. Mietrecht
+3. NS-Mietpreisrecht: Sozialschutz oder Kriegswirtschaftsinstrument?
+4. BGB-Mietrechtsreform 2001: Richtige Kodifikation von Richterrecht oder Chaos?
+5. Sozialbindung des Wohnraums heute: Ist BGB-Mietrecht sozial ausreichend?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- BGB Mietrecht 1900: Mugdan Bd. II, §§ 535 ff. (historische Fassung)
+- Mieterschutzverordnung 1917: RGBl. 1917, 659 via ALEX/OeNB
+- BGB Mietrecht aktuell: gesetze-im-internet.de
+- BGH-Mietrechtsprechung: bgh.de (VIII. Zivilsenat)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste Mietrecht: 1900-2001
+- Kuendigungsschutz: Entwicklung von 0 (1900) zu umfassendem Mieterschutz
+- BGH-Kernsaetze zum Mietrecht
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+BGB Mietrecht: gesetze-im-internet.de (aktuell); Mugdan Bd. II (historisch). Mieterschutzverordnung 1917: RGBl. 1917 via ALEX/OeNB. BGH: bgh.de. Mietrechtsreform 2001: BGBl. I 2001, 1162.

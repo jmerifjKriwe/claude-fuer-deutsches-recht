@@ -1,50 +1,50 @@
 ---
 name: drg-062-rechtssprache-und-begriffsgeschichte
-description: "Deutsche Rechtsgeschichte: Rechtssprache Und Begriffsgeschichte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Rechtssprache und Begriffsgeschichte. Deutsch als Rechtssprache im Mittelalter, Latinisierung, Pandektistik-Fachbegriffe, BGB-Sprache und heutige Verstaendlichkeits-Debatte."
 ---
 
-# Rechtssprache Und Begriffsgeschichte
+# Rechtssprache und Begriffsgeschichte
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Rechtssprache Und Begriffsgeschichte** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Rechtssprache ist selbst historisch. Im Mittelalter wurde Recht in der Volkssprache aufgezeichnet (Sachsenspiegel auf Mittelniederdeutsch). Die Rezeption des roemischen Rechts brachte Latein in die Rechtspraxis. Der Usus modernus des 17./18. Jh. mischte Latein und Deutsche. Die Historische Schule und Pandektistik schufen einen komplexen Fachjargon (Obligation, Delinquenz, Konzession). Das BGB 1900 versuchte durch die sogenannte Panthersprache (Windscheid-Stil) Praezision durch Abstraktion. Heute debattiert die Rechtspolitik ueber Verstaendlichkeit von Gesetzen (BMJV-Programm Rechtssprache). Reinhart Koselleck preagte die Begriffsgeschichte als Methode.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Sachsenspiegel** (ca. 1220): Erste grosse Rechtsquelle in deutscher Volkssprache
+- **Corpus Iuris Civilis**: Lateinische Grundlage der Rezeptionssprache
+- **BGB § 133**: Auslegung von Willenserklaerrungen nach dem sprachlichen Wortsinn
+- **GG Art. 103 Abs. 2**: Bestimmtheitsgrundsatz fuer Strafrecht (lex certa)
+- **Veroeffentlichungsgebot GG Art. 82 Abs. 1**: Gesetze muessen im BGBl. veroeffentlicht werden
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Eike von Repgow**: Volkssprachliche Rechtsaufzeichnung
+- **Bernhard Windscheid** (1817-1892): Pandektistik-Stil im BGB
+- **Reinhart Koselleck** (1923-2006): Begriffsgeschichte als historische Methode
+- **BMJV-Programm Verstaendliche Gesetze**: Aktuelle Rechtspolitik
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Lateinische Fachsprache: Exklusion oder Praezision?
+2. BGB-Sprache: Ist die Abstraktion notwendig oder Selbstzweck?
+3. Bestimmtheitsgrundsatz Art. 103 Abs. 2 GG: Wie praezise muss Strafrecht formuliert sein?
+4. Digitale Verwaltung und Rechtssprache: Muss Recht fuer Computer-Auswertung formalisiert sein?
+5. Mehrsprachigkeit im deutschen Recht: Welche Sprache bei EU-Rechtsuebersetzungen?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Sachsenspiegel-Sprache: MGH-Edition, Glossar mittelniederdeutscher Rechtsbegriffe
+- BGB-Sprache: Mugdan Bd. I und gesetze-im-internet.de
+- Koselleck Geschichtliche Grundbegriffe (Hrsg. Brunner/Conze/Koselleck, 8 Bde., 1972-1997): Band und Stichwort
+- GG Art. 103 Abs. 2: gesetze-im-internet.de; BVerfGE dazu: bverfg.de
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Rechtssprach-Entwicklung: Volkssprache, Latein, Pandektistik, BGB-Sprache
+- BGB-Schluessel-Begriffe mit Entstehungsgeschichte
+- Kosellecks Begriffsgeschichte: Methode und Anwendungsbeispiele
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Sachsenspiegel: MGH-Edition. Mugdan: historische Ausgabe. GG Art. 103: gesetze-im-internet.de. Koselleck Geschichtliche Grundbegriffe: Band und Stichworteintrag.

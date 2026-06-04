@@ -1,50 +1,49 @@
 ---
 name: drg-063-aktenanalyse-historische-fallakte
-description: "Deutsche Rechtsgeschichte: Aktenanalyse Historische Fallakte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Aktenanalyse einer historischen Fallakte. Aufbau historischer Gerichtsakten, Lese- und Auswertungstechnik, Quellennachweis und Einbau in heutige Argumentation."
 ---
 
-# Aktenanalyse Historische Fallakte
+# Aktenanalyse: Historische Fallakte
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Aktenanalyse Historische Fallakte** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die historische Fallakte ist eine Primearquelle ersten Ranges. Sie besteht typischerweise aus Klageschrift, Gegenschrift, richterlichen Vermerken, Beweisaufnahmen und Urteil. Historische Gerichtsakten sind in Landes- und Bundesarchiven erschlossen (z. B. Reichsgerichts-Revisionen im Bundesarchiv Abteilung Deutsches Reich; Kameralakten des RKG in Landesarchiven). Die Lese-Technik erfordert palaeografische Grundkenntnisse (Kurrentschrift, Kanzleischrift) und Verstaendnis der historischen Prozessordnung. Aktenanalyse verbindet rechtliche Subsumtion mit historischem Kontext.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **GVG 1877 (RGBl. 1877, 41)**: Gerichtsverfassung als Rahmen der Akten-Entstehung
+- **ZPO 1877 (RGBl. 1877, 83)**: Zivilprozessrecht, das die Aktenstruktur praegt
+- **RKG-Ordnung 1495**: Kameralakten-Kontext
+- **BArchG 2017 (BGBl. I 2017, 410)**: Zugang zu Bundesarchiv-Akten
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Bundesarchiv**: Reichsgerichts-Revisionen und Bundesakten
+- **Landesarchive**: Territoriale Gerichtsakten und RKG-Kameralakten
+- **Historische Hilfswissenschaften**: Palaeographie, Diplomatik
+- **Gerichtsvollzieher und Notare**: Quellen historischer Vollstreckungsakten
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Authentizitaet historischer Akten: Wie pruefen wir, dass eine Akte echt ist?
+2. Selektive Ueberlieferung: Welche Akten wurden vernichtet, welche bewahrt?
+3. Schriftlichkeitsgrad: Wie viel des Verfahrens ist in der Akte, wie viel blieb muendlich?
+4. Interpretation: Wie weit darf man aus einer Akte Rueckschluesse auf das Recht ziehen?
+5. Digitale Erschliessung: Zuverlaessigkeit von Online-Findbuch und Transkriptionssoftware?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Bundesarchiv: invenio.bundesarchiv.de fuer Findbuecher
+- Akten-Kurrentschrift: Palaeographie-Hilfsmittel (Volkskundliche Beratung, Lehrbucher)
+- ZPO 1877: gesetze-im-internet.de fuer historische Aktenstruktur-Verstaendnis
+- Archivzitat: Bestand, Signatur, Blattnummer
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schritt-fuer-Schritt-Anleitung historische Aktenanalyse
+- Musterzitat fuer Archivakte in wissenschaftlichem Text
+- Aktenstruktur-Tabelle: typische Bestandteile einer Gerichtsakte 1880-1933
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Bundesarchiv: invenio.bundesarchiv.de. Aktenbestaende: Bestand, Signatur, Blattnummer. GVG und ZPO: gesetze-im-internet.de (fuer Aktenstruktur-Kontext). Keine ungeprueften Transkriptionen aus unbekannten Quellen.

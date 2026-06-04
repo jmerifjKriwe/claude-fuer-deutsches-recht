@@ -1,50 +1,50 @@
 ---
 name: drg-061-kirchenrecht-und-staatskirchenrecht
-description: "Deutsche Rechtsgeschichte: Kirchenrecht Und Staatskirchenrecht. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Kirchenrecht und Staatskirchenrecht. Reichskirchenrecht, Kulturkampf 1870er, Weimarer Kirchenartikel WRV Art. 136-141, GG Art. 140 und Verhaeltnis Staat-Kirche heute."
 ---
 
-# Kirchenrecht Und Staatskirchenrecht
+# Kirchenrecht und Staatskirchenrecht
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Kirchenrecht Und Staatskirchenrecht** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Verhaeltnis von Staat und Kirche in Deutschland ist historisch gewachsen und hat keinen scharfen Trennungsschnitt vollzogen. Der Kulturkampf unter Bismarck (1871-1878/80) versuchte, kirchlichen Einfluss staatlich zurueckzudraengen (Jesuiten-Verbot, Kanzelparagraph). Die WRV 1919 schuf ein kooperatives Trennsystem: Keine Staatskirche (Art. 137 Abs. 1), aber Kirchensteuerrecht (Art. 137 Abs. 6) und Anstaltsseelsorge (Art. 141). Das GG 1949 inkorporierte die WRV-Kirchenartikel (Art. 140 GG). Die Kirchensteuer, der Religionsunterricht (Art. 7 GG) und das kirchliche Arbeitsrecht (Dritter Weg) sind die heutigen Kernthemen.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **WRV Art. 136-141** (inkorporiert durch GG Art. 140): Kirchenartikel
+- **WRV Art. 137 Abs. 1**: Keine Staatskirche
+- **WRV Art. 137 Abs. 6**: Kirchensteuerbefugnis
+- **GG Art. 140 i.V.m. WRV Art. 136-141**: Staatskirchenrecht
+- **GG Art. 7 Abs. 3**: Religionsunterricht als ordentliches Lehrfach
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Bismarck**: Kulturkampf 1871-1878
+- **Papst Pius IX.** (1792-1878): Gegner des Kulturkampfs
+- **BVerfG**: Staatskirchenrecht-Entscheidungen (BVerfGE 19, 226; 70, 138)
+- **EKD und Deutsche Bischofskonferenz**: Kirchliche Koerperschafte
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. WRV Art. 137 Abs. 1: Was bedeutet keine Staatskirche in der Praxis?
+2. Kirchensteuer: Ist staatlich eingezogene Kirchensteuer mit der Trennung vereinbar?
+3. Kirchliches Arbeitsrecht und GG Art. 9: Darf die Kirche Mitarbeiter nach eigenem Recht behan?
+4. BVerfGE 70, 138 (Jehovah's Witnesses): Wann wird Koerperschaftsstatus verweigert?
+5. Islamische Verbaende und Koerperschaftsstatus: Wie weit reicht GG Art. 140?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- WRV Art. 136-141: documentArchiv.de
+- GG Art. 140 und Art. 7: gesetze-im-internet.de
+- BVerfGE zum Staatskirchenrecht: bverfg.de
+- Kulturkampf-Gesetze: RGBl. 1871 ff. via ALEX/OeNB
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Kirchenartikel WRV und GG: Inhalt und Systematik
+- Kulturkampf: Gesetze, Konflikte, Ergebnisse
+- Kirchensteuer und kirchliches Arbeitsrecht: Rechtliche Grundlagen
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+WRV Art. 136-141: documentArchiv.de. GG Art. 140 und 7: gesetze-im-internet.de. BVerfGE: bverfg.de. Kulturkampf-Gesetze: ALEX/OeNB.

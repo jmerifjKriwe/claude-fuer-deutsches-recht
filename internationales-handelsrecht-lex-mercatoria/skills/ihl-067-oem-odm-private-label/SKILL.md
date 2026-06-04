@@ -1,50 +1,52 @@
 ---
 name: ihl-067-oem-odm-private-label
-description: "Internationales Handelsrecht und Lex Mercatoria: Oem Odm Private Label. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: OEM, ODM und Private Label im internationalen Handel. Markenrecht (EUIPO, WIPO), IP-Übertragung vs. Lizenz, CE-Kennzeichnung, Hersteller-Importeur-Haftung und Unterschied OEM vs. ODM vs. White-Label."
 ---
 
-# Oem Odm Private Label
+# OEM, ODM und Private Label
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Oem Odm Private Label** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+OEM (Original Equipment Manufacturer) fertigt nach Käufer-Design unter Käufer-Marke. ODM (Original Design Manufacturer) entwickelt und fertigt; Käufer rebranded. Private Label ist funktional ähnlich wie ODM aber im Konsumgüterbereich. Markenrechte, IP-Eigentumsregelungen und CE-Verantwortung müssen klar geregelt sein.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Unionsmarkenverordnung (EU) 2017/1001**: EUIPO-Markenanmeldung
+- **WIPO Madrid-System (MMA/PMMA)**: Internationale Markenanmeldung
+- **EU VO (EU) 2019/1020 Art. 4**: Importeur als verantwortlicher Wirtschaftsakteur (CE-Haftung)
+- **§ 14 MarkenG**: Markenrecht-Verletzung im deutschen Recht
+- **CISG Art. 42**: Rechtsmangel — Lieferung mit geistigen Eigentumsrechten Dritter belastet
+- **Produkthaftungsgesetz (ProdHaftG)**: Hersteller-Importeur-Haftung
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- OEM: Fertigung nach Auftraggeber-Spezifikation und -Marke; Auftraggeber ist Markeninhaber
+- ODM: Fertigung nach eigenem Design; Käufer rebrandend — IP-Übertragung oder Lizenz?
+- Private Label: ODM im Handel (Supermarktmarken)
+- CE-Verantwortung: Bei Importeuren liegt die CE-Konformitätsprüfungspflicht
+- Konfuzielle Marke: chinesische Hersteller registrieren EU-Marke des Auftraggebers — Risiko
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. OEM-Hersteller registriert EU-Marke des Auftraggebers in China: Wer hat Priorität?
+2. ODM: Gehört das Produktdesign dem Hersteller oder Käufer? (Vertragsgestaltung entscheidet)
+3. CE-Kennzeichnung: Wer ist "Hersteller" wenn OEM in China fertigt und EU-Importeur branded?
+4. CISG Art. 42: OEM-Lieferung verletzt Drittpatent — Mängelanspruch des Käufers?
+5. Private Label Lebensmittel: Wer haftet für Produkthaftungsansprüche?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Marke: EU-Marke VOR Produktionsbeginn anmelden; chinesische Marke zusätzlich
+- IP-Ownership: OEM/ODM-Vertrag: alle Background/Foreground IP klar zuordnen
+- CE-Verantwortung: EU-Importeur übernimmt Konformitätsprüfungspflicht; vertragliche Rückgriffsmöglichkeit auf OEM
+- CISG Art. 42: IP-Indemnity-Klausel im OEM/ODM-Vertrag
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- OEM vs. ODM vs. Private Label Abgrenzungsmatrix
+- IP-Ownership-Klausel-Muster (OEM-Vertrag)
+- CE-Verantwortungs-Regelung im Importeurvertrag
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Unionsmarken-VO 2017/1001: eur-lex.europa.eu. EUIPO: euipo.europa.eu. CISG Art. 42: uncitral.un.org. ProdHaftG: gesetze-im-internet.de. VO 2019/1020: eur-lex.europa.eu. Unsicherheit bleibt sichtbar.

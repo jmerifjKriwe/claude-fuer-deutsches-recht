@@ -1,50 +1,52 @@
 ---
 name: ihl-009-cisg-ware-dokumente-digitalisierung
-description: "Internationales Handelsrecht und Lex Mercatoria: CISG Ware Dokumente Digitalisierung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Vertragsmäßigkeit der Ware nach CISG Art. 35 und Dokumentenpflichten. Objektive und subjektive Anforderungen, Verpackung, Haltbarkeit, Eignung für besonderen Zweck und elektronische Handelsdokumente."
 ---
 
-# CISG Ware Dokumente Digitalisierung
+# Ware, Dokumente und Digitalisierung (CISG Art. 34-35)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **CISG Ware Dokumente Digitalisierung** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Art. 35 CISG bestimmt die Vertragsmäßigkeit der Ware in subjektiver (Art. 35 Abs. 1) und objektiver (Abs. 2) Hinsicht. Besondere Bedeutung hat der besondere Zweck des Käufers (lit. b: Kenntnis des Verkäufers). Digitalisierung berührt CISG: elektronische Frachtdokumente, elektronische Konnossemente und E-Akkreditive erfordern Anpassung.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Art. 34 CISG**: Dokumente — Pflicht zur Übergabe, Recht zur Fehlerbereinigung vor Fälligkeitstag
+- **Art. 35 Abs. 1 CISG**: Vertragsmäßigkeit nach Menge, Qualität, Art, Verpackung
+- **Art. 35 Abs. 2 CISG**: Objektivstandards — gewöhnliche Eignung (lit. a), besonderer Zweck (lit. b), Probe/Muster (lit. c), übliche Verpackung (lit. d)
+- **Art. 35 Abs. 3 CISG**: Ausnahme bei Kenntnis des Käufers vom Mangel
+- **CMI Rules for Electronic Bills of Lading 1990**: Pionierrahmen für E-Konnossement
+- **MLETR (UNCITRAL 2017)**: Model Law on Electronic Transferable Records
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Subjektiver Standard (Art. 35 Abs. 1) vs. objektiver Standard (Abs. 2)
+- Besonderer Zweck: Käufer muss Zweck mitgeteilt haben; Verkäufer durfte nicht auf Inkompetenz vertrauen
+- Haltbarkeit: Ware muss auch bei Ankunft nach gewöhnlicher Transportzeit noch gebrauchsfähig sein
+- Elektronisches Konnossement: Negotiability, Single-Document-Prinzip erhalten?
+- eUCP 2.0 (ICC 2019): elektronische Dokumente im Akkreditivrecht
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Muss Ware öffentlich-rechtliche Anforderungen des Käuferlands erfüllen (Lebensmittelrecht, CE-Kennzeichnung)?
+2. Art. 35 Abs. 2 lit. b besonderer Zweck: Reicht allgemeine Branchenkenntnis des Verkäufers?
+3. Elektronisches Konnossement: Wann liegt "Besitz" im Sinne des Transportrechts vor?
+4. eUCP 2.0: Akzeptiert die akkreditivausstellende Bank rein digitale Dokumente?
+5. Verpackungsmangel: Führt schlechte Verpackung zu Haftung für Transportschäden?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Art. 35 Prüfung: Erst subjektiv (Vertragsinhalt), dann objektiv (Standards)
+- Öffentlich-rechtliche Anforderungen: Grundsatz Verkäufersphäre, Ausnahmen bei Spezialwissen
+- Digitalisierung: MLETR-Umsetzungsstand im relevanten Land prüfen (uncitral.un.org)
+- eUCP 2.0 Anpassungsklausel in Akkreditiv explizit einbeziehen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Vertragsmäßigkeits-Checkliste (Art. 35 Abs. 1 und 2)
+- Übersicht elektronische Dokumente und Rechtsrahmen
+- Klauselvorschlag: eUCP-Verweis im Akkreditiv
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG Art. 34-35: uncitral.un.org. MLETR: uncitral.un.org/en/texts/ecommerce. eUCP 2.0: iccwbo.org. CISG-Rspr.: CISG-online.ch. Unsicherheit bleibt sichtbar.

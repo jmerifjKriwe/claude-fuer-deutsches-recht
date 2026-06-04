@@ -1,50 +1,52 @@
 ---
 name: ihl-017-pecl-und-soft-law-vergleich
-description: "Internationales Handelsrecht und Lex Mercatoria: Pecl Und Soft Law Vergleich. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Soft-Law-Vergleich UNIDROIT PICC 2016 vs. Principles of European Contract Law (PECL) vs. Draft Common Frame of Reference (DCFR). Anwendungsfelder, Gemeinsamkeiten, Divergenzen und Relevanz für grenzüberschreitende Verträge."
 ---
 
-# Pecl Und Soft Law Vergleich
+# PECL, DCFR und PICC: Soft-Law-Vergleich
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Pecl Und Soft Law Vergleich** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Neben UNIDROIT PICC existieren europäische Soft-Law-Instrumente: die Principles of European Contract Law (PECL, Lando-Kommission 1995-2003) und der Draft Common Frame of Reference (DCFR, 2009, von Study Group on a European Civil Code). PECL ist auf EU-Vertragsrecht ausgerichtet; PICC global. Der DCFR war Basis für optionales EU-Kaufrecht (CESL 2011, gescheitert). Für internationale Kaufverträge sind PICC praktikabler.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **PECL Art. 1:201**: Good Faith and Fair Dealing — vergleichbar PICC Art. 1.7
+- **PECL Art. 8:108**: Excuse due to an Impediment — vergleichbar CISG Art. 79
+- **DCFR II.-9:101-102**: Contract Terms — Integration, Priority
+- **PICC Art. 1.7 vs. PECL Art. 1:201**: beide zwingend, aber Reichweite unterschiedlich
+- **CESL-Vorschlag COM(2011) 635**: Optionales EU-Kaufrecht (zurückgezogen 2015)
+- **PECL Kommentar**: Lando/Beale, Principles of European Contract Law (2000)
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Scope: PICC global (nicht nur EU), PECL EU-orientiert
+- Good Faith: PECL und PICC beide zwingend, aber Intensität divergiert
+- Hardship: PECL Art. 6:111 (Change of Circumstances) vs. PICC Art. 6.2.1-6.2.3
+- Remedy-System: PECL ähnlich PICC; DCFR stärker national-rechtlich beeinflusst
+- Auslegungsmethode: beide autonom (kein Rückgriff auf nationales Recht)
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Welches Instrument wählt ein Schiedsgericht wenn Parteien "allgemeine Grundsätze" vereinbaren?
+2. Wo unterscheiden sich PECL und PICC bei Change of Circumstances / Hardship?
+3. Ist DCFR als Auslegungshilfe für CISG-Lücken geeignet?
+4. Warum scheiterte CESL und welche Lehren für optionales EU-Vertragsrecht?
+5. PICC vs. PECL: Welches Instrument wird in ICC-Schiedssprüchen häufiger zitiert?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Komparative Darstellung in Tabellen: Norm PICC — Norm PECL — Norm DCFR
+- Schiedsgerichtspraxis: CENTRAL trans-lex.org für Zitationshäufigkeit
+- Europarechtlicher Kontext: DCFR als Auslegungsmaterial für EU-Richtlinien
+- Für praktische Vertragsgestaltung: PICC bevorzugen (mehr Schiedspraxis)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Vergleichstabelle: PICC / PECL / DCFR — Schlüsselthemen
+- Empfehlung: wann welches Instrument in Schiedsklausel
+- Literaturliste: Kommentare und Datenbanken
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+PICC: unidroit.org. PECL: cisg.law.pace.edu (Text). DCFR: ec.europa.eu. CENTRAL: trans-lex.org. Schrifttum: Lando/Beale PECL (2000). Unsicherheit bleibt sichtbar.

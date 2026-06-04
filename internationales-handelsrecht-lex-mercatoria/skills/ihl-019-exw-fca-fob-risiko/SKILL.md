@@ -1,50 +1,51 @@
 ---
 name: ihl-019-exw-fca-fob-risiko
-description: "Internationales Handelsrecht und Lex Mercatoria: Exw Fca Fob Risiko. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Risikoübergang bei EXW, FCA und FOB nach Incoterms 2020. Gefahrübergang am Abgangsort, Pflichten des Verkäufers und Käufers, Exportkontrollproblem bei EXW und Containereignung von FCA vs. FOB."
 ---
 
-# Exw Fca Fob Risiko
+# EXW, FCA, FOB: Risikoübergang und Pflichten
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Exw Fca Fob Risiko** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+EXW (Ex Works), FCA (Free Carrier) und FOB (Free on Board) sind Abgangsklauseln: der Gefahrübergang findet am Abgangsort statt. Bei EXW am Werk des Verkäufers, bei FCA nach Übergabe an Frachtführer, bei FOB nach Übergabe an Bord. FOB ist für Containerverkehr ungeeignet, da der Container im Terminal übergeben wird, bevor er "on board" geht.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Incoterms 2020 EXW A2/B2**: Lieferpflicht — Abholung am Werk; Exportanmeldung Sache des Käufers
+- **Incoterms 2020 FCA A2/B2**: Gefahrübergang nach Übergabe an benannten Frachtführer; A6 Konnossementsabrede
+- **Incoterms 2020 FOB A2/B2**: Gefahrübergang nach Übergabe an Bord; nur für Seefracht
+- **CISG Art. 67**: Gefahrübergang bei Beförderungsvertrag — ergänzt Incoterms
+- **CISG Art. 69**: Gefahrübergang ohne Beförderungsvertrag (wie EXW)
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- EXW-Exportproblem: Käufer muss exportieren — bei EXW keine Exportkontroll-Compliance durch Verkäufer
+- FCA-Terminal-Übergabe: Containerübergabe am CFS/CY ist "Übergabe an Frachtführer"
+- FOB "on board": Gefahrübergang erst nach Verladen auf Schiff — für Container zu spät (Terminal-Verlust nicht gedeckt)
+- Konnossementsabrede FCA: On-Board-BL kann für Akkreditivzwecke vereinbart werden
+- Laderaumrisiko: wer trägt Mehrkosten bei Schiffscharterausfall?
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. EXW Deutschland → China: Wer ist Exporteur i.S.d. EU-Exportkontrollrechts?
+2. FCA Hamburg CFS: Wann genau geht Gefahr über — Übergabe ans Terminal oder Verladen?
+3. FOB Shanghai: Ware beschädigt im Terminal vor Verladung — wer trägt Schaden?
+4. FCA-Konnossementsabrede: Bank akzeptiert nur On-Board-BL — wie organisieren?
+5. EXW mit Beladeassistenz durch Verkäufer: Ändert das den Gefahrübergang?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Gefahrübergang nach Incoterms-Klausel bestimmen → mit CISG Art. 67-69 abgleichen
+- Containerverkehr: FOB durch FCA ersetzen
+- EXW: Exportkontrolle explizit im Vertrag regeln
+- Konnossement-Abrede: immer in Sales-Contract und Letter of Credit abstimmen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Risikomatrix: EXW / FCA / FOB — Gefahrübergang, Kostentragung, Dokumentenpflicht
+- Klauselcheck: EXW vs. FCA für exportkontrollierte Güter
+- FCA-Konnossementsabrede-Formulierung
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Incoterms 2020: iccwbo.org. CISG Art. 67-69: uncitral.un.org. Schrifttum: Ramberg, ICC Guide to Incoterms 2020; Piltz, Internationales Kaufrecht § 5. Unsicherheit bleibt sichtbar.

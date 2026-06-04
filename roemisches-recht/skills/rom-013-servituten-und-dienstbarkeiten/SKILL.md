@@ -1,50 +1,54 @@
 ---
 name: rom-013-servituten-und-dienstbarkeiten
-description: "Römisches Recht: Servituten Und Dienstbarkeiten. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Servituten - iura in re aliena nach D. 8, Gaius Inst. 2.12-17. Praedialservituten (iter, actus, via, aquaeductus) und Personalservituten (usus fructus, usus, habitatio) nach Iust. Inst. 2.3-5."
 ---
 
-# Servituten Und Dienstbarkeiten
+# Servituten und Dienstbarkeiten
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Servituten Und Dienstbarkeiten** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Servituten sind dingliche Rechte an fremden Sachen (iura in re aliena). Praedialservituten belasten ein Grundstück zugunsten eines anderen (herrschendes/dienendes Grundstück). Personalservituten berechtigen eine bestimmte Person: usus fructus (Nießbrauch, D. 7.1), usus (Gebrauchsrecht) und habitatio (Wohnrecht). Rustikale Praedialservituten (iter, actus, via, aquaeductus) gehörten klassisch zu den res mancipi.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 8.1.1 (Scaevola)**: Servitus ist in re, nicht in persona constituenda
+- **D. 8.1.15 pr. (Paulus)**: Servitus servitutis esse non potest
+- **D. 7.1.1 (Paulus)**: Usus fructus - Definition
+- **D. 8.3.1 pr. (Ulpian)**: Praedialservituten: iter, actus, via, aquaeductus
+- **Gaius Inst. 2.12-17**: Servituten als res mancipi (rustikal)
+- **Iust. Inst. 2.3**: Servitutes praediorum rusticorum
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- iter: Fußwegservitut
+- actus: Viehwegservitut
+- via: Fahrwegservitut (umfasst iter und actus)
+- aquaeductus: Wasserableitungsservitut
+- usus fructus: Nießbrauch (Nutzung und Fruchtziehung an fremder Sache)
+- habere iure servitutis: Servitut als dingliches Recht
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Konstitutionsprinzip: Servituts entstehung durch mancipatio, in iure cessio oder pactio?
+2. Servitus servitutis: Doppelservitut unmöglich - warum?
+3. Erlöschen der Servitut durch non usus (Nichtgebrauch)
+4. Schranken der praedialservitut: utilis praedii causa
+5. Vergleich mit BGB §§ 1018ff. (Grunddienstbarkeit) und §§ 1030ff. (Nießbrauch)
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 8 (De servitutibus) als Haupttitel
+- D. 7 (De usu fructu) für Personalservituten
+- Gaius Inst. 2.12-17
+- Kaser RP I §§ 133-145; Honsell/Mayer-Maly/Selb § 65
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Übersichtstabelle: Praedial- vs. Personalservituten
+- Entstehungs- und Erlöschensübersicht
+- Memo zur actio confessoria (Schutzklage)
+- Vergleich: röm. Servitut vs. BGB-Dienstbarkeit
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 8; D. 7 (Mommsen-Krüger). Gaius Inst. 2. Iust. Inst. 2.3-5. Kaser RP I §§ 133-145.

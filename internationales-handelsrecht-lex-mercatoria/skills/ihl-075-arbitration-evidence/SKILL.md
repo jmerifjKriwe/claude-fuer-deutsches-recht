@@ -1,50 +1,52 @@
 ---
 name: ihl-075-arbitration-evidence
-description: "Internationales Handelsrecht und Lex Mercatoria: Arbitration Evidence. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Beweisrecht in internationaler Schiedsgerichtsbarkeit. IBA Rules on the Taking of Evidence 2020, Document Production, Zeugenaussagen, Sachverständige, Beweiswürdigung und Verhältnis zu nationaler ZPO."
 ---
 
-# Arbitration Evidence
+# Beweisrecht in der internationalen Schiedsgerichtsbarkeit
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Arbitration Evidence** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das internationale Schiedsverfahren kennt kein einheitliches Prozessrecht. Die IBA Rules on the Taking of Evidence (2020) sind de facto-Standard in ICC- und LCIA-Verfahren. Sie regulieren Document Production (begrenzte Discovery), Zeugenaussagen (Witness Statement + Cross-Examination) und Sachverständige. Das Tribunal hat weiten Ermessensspielraum.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **IBA Rules on the Taking of Evidence 2020 Art. 3**: Document Production — Request to Produce
+- **IBA Rules Art. 4**: Witness Statements — schriftlich + mündliche Vernehmung
+- **IBA Rules Art. 5-6**: Party-appointed vs. Tribunal-appointed Expert
+- **IBA Rules Art. 9**: Zulässigkeit, Relevanz, Materiality
+- **ICC Schiedsregeln 2021 Art. 25 Abs. 1**: Tribunal discretion on evidence
+- **§ 1042 Abs. 4 ZPO**: Deutsches Schiedsrecht — Tribunal bestimmt Verfahren
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Document Production: kein pre-trial discovery; begrenzte, spezifizierte Anfragen
+- Redfern Schedule: Standard-Tabelle für Document-Production-Anfragen
+- Witness Statement: schriftliche Erklärung + Kreuzverhör in Hearing
+- Hot Tubbing: gleichzeitige Befragung mehrerer Sachverständiger (auch "Expert Conferencing")
+- Adverse Inference: Tribunal kann auf fehlende Dokumente nachteilige Schlüsse ziehen
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Document Production: Wie spezifisch muss eine Anfrage sein (IBA Rules Art. 3 Abs. 3)?
+2. Privilege: Anwalts-Mandantenkorrespondenz — geschützt nach welchem Recht?
+3. Adverse Inference: Wann zieht Tribunal Schlüsse aus Dokumenten-Nicht-Vorlage?
+4. Hot Tubbing: Wie funktioniert Expert Conferencing in ICC-Verfahren?
+5. Zeugen in China: Wie Vernehmung von Zeugen in Ländern ohne Rechtshilfe-Kooperation?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Document-Production-Request: Redfern Schedule erstellen; jeweils Kategorie, Relevanz, Erwartetes Dokument
+- Witness Statement: faktenlastig, erste Person; kein "law statement"; Anlage-Referenzen
+- Sachverständige: Party-appointed vs. Joint Expert — Kosteneffizienz vs. Neutralität abwägen
+- Privilege-Check: anwendbares Recht für Rechtsanwaltsgeheimnis im Schiedsort
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Redfern Schedule Vorlage
+- Witness Statement Strukturleitfaden
+- IBA Rules 2020 Kernartikel-Übersicht
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+IBA Rules 2020: ibanet.org. ICC Schiedsregeln 2021: iccwbo.org. § 1042 ZPO: gesetze-im-internet.de. Schrifttum: Born, International Commercial Arbitration (3. Aufl. 2021) Kap. 22. Unsicherheit bleibt sichtbar.

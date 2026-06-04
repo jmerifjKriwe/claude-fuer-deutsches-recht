@@ -1,50 +1,52 @@
 ---
 name: ihl-060-digital-products-international
-description: "Internationales Handelsrecht und Lex Mercatoria: Digital Products International. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Digitale Produkte im internationalen Handel. EU-Richtlinie 2019/770 (Digitale Inhalte), CISG-Anwendbarkeit auf Software-Verkauf, Lizenzrecht, AI-Act (EU) 2024/1689 und grenzüberschreitende Softwarelizenzen."
 ---
 
-# Digital Products International
+# Digitale Produkte im internationalen Handel
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Digital Products International** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Digitale Produkte (Software, Datenbanken, KI-Modelle) stellen besondere Herausforderungen für das internationale Handelrecht dar: CISG-Anwendbarkeit auf Software ist umstritten (Körperlichkeit?); EU-RL 2019/770 schafft ein EU-spezifisches Regime für digitale Inhalte. Der AI Act (EU) 2024/1689 reguliert grenzüberschreitenden KI-Einsatz.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **EU RL 2019/770 Art. 2-3**: Anwendungsbereich — digitale Inhalte und Dienste (auch B2C)
+- **EU RL 2019/770 Art. 7-9**: Vertragsmäßigkeit digitaler Inhalte
+- **AI Act (EU) 2024/1689 Art. 6**: Risikoklassen von KI-Systemen (verboten, hoch, mittel, minimal)
+- **CISG Art. 1-3**: Anwendung auf Software — körperliche vs. unkörperliche Übertragung
+- **§§ 327-327u BGB**: Deutsches Umsetzungsrecht RL 2019/770 (ab 1.1.2022)
+- **DSGVO Art. 44-49**: Datenschutz bei Cloud-Software-Nutzung
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Körperlichkeit-Anforderung CISG: Software auf Datenträger = CISG; Download = str.
+- Digitale Inhalte RL 2019/770: auch B2B-Anwendbarkeit? (RL nur B2C — B2B nach nationalem Recht)
+- AI-Act Hochrisiko-KI: Verwendungsverbote, Transparenzpflichten, CE-Kennzeichnung
+- SaaS vs. Softwarekauf: Dauerlizenz vs. zeitlich begrenzte Nutzung
+- Open-Source-Lizenzen (GPL, MIT, Apache): Lizenzkompatibilität bei Weitervertrieb
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Software-Download-Kauf: CISG-Anwendbarkeit bei rein digitalem Download?
+2. AI-Act Hochrisiko: Ist ein Kreditscoring-Algorithmus Hochrisiko-KI-System?
+3. SaaS-Vertrag: Welches Recht gilt für Update-Pflicht und Datenverlust?
+4. Open-Source-Copyleft: Kann proprietäre Software GPL-Komponente einbinden ohne Copyleft-Wirkung?
+5. Cloud-Software aus USA: Welche Exportkontrollregeln gelten (EAR-Kryptographie)?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- CISG-Anwendbarkeit: körperliche Verkörperung (Datenträger) entscheidend; bei Zweifel: CISG-Ausschluss
+- AI-Act-Compliance: Risikoklassifikation vor Markteinführung; CE-Kennzeichnung für Hochrisiko
+- SaaS-Vertrag: Service Level Agreements (SLA), Datenschutz (DPA), Exit-Strategie
+- Open-Source-Lizenz-Audit: SBOM (Software Bill of Materials) für Lizenzkonformität
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- CISG vs. RL 2019/770 Anwendungsbereich-Matrix
+- AI-Act-Risikokategorien-Übersicht
+- SaaS-Vertrag-Checkliste
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+RL 2019/770: eur-lex.europa.eu. AI Act 2024/1689: eur-lex.europa.eu. BGB §§ 327-327u: gesetze-im-internet.de. CISG: uncitral.un.org. Unsicherheit bleibt sichtbar.

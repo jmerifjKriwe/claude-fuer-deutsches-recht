@@ -1,50 +1,54 @@
 ---
 name: rom-057-schenkungen-und-mortisationsfragen
-description: "Römisches Recht: Schenkungen Und Mortisationsfragen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Schenkung (donatio) nach D. 39.5 und donatio mortis causa nach D. 39.6 - Unentgeltlichkeit, lex Cincia (204 v.Chr.), Schenkungsverbot unter Ehegatten (D. 24.1) und Widerruf."
 ---
 
-# Schenkungen Und Mortisationsfragen
+# Schenkungen und donatio mortis causa
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Schenkungen Und Mortisationsfragen** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die donatio ist die unentgeltliche Zuwendung eines Vermögensvorteils ohne Gegenleistung. D. 39.5 enthält die klassische Schenkungslehre. Einschränkungen: lex Cincia (204 v.Chr.) verbot Schenkungen über eine gewisse Höhe; Schenkungsverbot unter Ehegatten (D. 24.1, Ulpian). Die donatio mortis causa ist die auf den Todesfall aufschiebend bedingte Schenkung (D. 39.6): der Beschenkte behält nur, wenn der Schenker vor ihm stirbt.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 39.5.1 (Ulpian)**: Donatio-Definition
+- **D. 39.5.18 pr. (Ulpian)**: Schenkung vs. Kauf: animus donandi
+- **D. 24.1.1 (Ulpian)**: Schenkungsverbot unter Ehegatten
+- **D. 39.6.1 pr. (Marcian)**: Donatio mortis causa
+- **D. 39.6.2 (Ulpian)**: Donatio mortis causa im Verhältnis zum Vermächtnis
+- **Lex Cincia (204 v.Chr.)**: FIRA vol. I - Originalfragment
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- donatio: Schenkung mit animus donandi (Schenkungswille)
+- donatio mortis causa: Schenkung unter Todesvorbehalt
+- lex Cincia: Schenkungsbeschränkungsgesetz 204 v.Chr.
+- actio de dolo: Durchsetzung nach Widerruf
+- donatio sub modo: Schenkung mit Auflage
+- inofficiosa donatio: Schenkung zu Lasten des Pflichtteils
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Durchsetzbarkeit von Schenkungsversprechen: Stipulation erforderlich?
+2. Schenkungsverbot unter Ehegatten: Grund und Ausnahmen
+3. Lex Cincia: ursprüngliche Höchstgrenze und ihre Funktion
+4. Donatio mortis causa vs. Vermächtnis: unterschiedliche Rechtsfolgen
+5. Vergleich: röm. Schenkung vs. BGB §§ 516ff.
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 39.5 (De donationibus) und D. 39.6 (De mortis causa donationibus)
+- D. 24.1 (De donationibus inter virum et uxorem)
+- Lex Cincia: FIRA vol. I (archive.org)
+- Kaser RP I §§ 260-270
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: Schenkungstypen
+- Vergleich donatio - donatio mortis causa
+- Memo zu lex Cincia und Schenkungsverbot
+- Vergleich röm. Schenkung vs. BGB
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 39.5-6; D. 24.1 (Mommsen-Krüger). Lex Cincia: FIRA vol. I (archive.org). Kaser RP I.

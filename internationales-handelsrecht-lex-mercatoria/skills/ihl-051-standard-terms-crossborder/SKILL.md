@@ -1,50 +1,52 @@
 ---
 name: ihl-051-standard-terms-crossborder
-description: "Internationales Handelsrecht und Lex Mercatoria: Standard Terms Crossborder. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Einbeziehung von AGB im grenzüberschreitenden B2B-Handel. Unterschiede CISG-Regime vs. nationales AGB-Recht, Sprachanforderungen, Überraschungsklauseln (PICC Art. 2.1.20) und branchenspezifische Standardbedingungen."
 ---
 
-# Standard Terms Crossborder
+# Standard Terms im grenzüberschreitenden Handel
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Standard Terms Crossborder** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Allgemeine Geschäftsbedingungen (AGB) im internationalen B2B-Handel unterliegen unterschiedlichen Einbeziehungsregimes. CISG hat keine explizite AGB-Norm; die Einbeziehung erfolgt nach Art. 8 (Auslegung) und Art. 9 (Handelsbräuche). Deutsche §§ 305-310 BGB gelten nur bei deutschem Vertragsstatut. PICC Art. 2.1.20 schützt vor Überraschungsklauseln.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CISG Art. 8**: Auslegung von Erklärungen — Maßstab Vernünftige Person gleicher Art
+- **CISG Art. 9 Abs. 2**: Handelsbräuche — weitverbreitete und bekannte Praxis
+- **PICC Art. 2.1.19-2.1.22**: Standard Terms — Einbeziehung und Überraschungsklauseln
+- **PICC Art. 2.1.20**: Surprising Term — unverhältnismäßige Klausel unwirksam ohne besondere Hinweis
+- **BGB §§ 305-310**: AGB-Recht — nur bei deutschem Vertragsstatut anwendbar
+- **EU-Klausel-RL 93/13/EWG**: Verbraucher — B2B grundsätzlich ausgenommen
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Einbeziehung unter CISG: Zugänglichmachen reicht (BGH VIII ZR 274/98)
+- Sprachproblem: AGB in fremder Sprache — herrschende Meinung: Einbeziehung wirksam bei B2B
+- Überraschungsklausel (PICC Art. 2.1.20): Klausel die vernünftige Person nicht erwarten würde
+- Inhaltskontrolle unter CISG: keine AGB-Kontrolle durch CISG selbst; IPR-Recht zuständig
+- VDMA-AGB, ICC Model Contract: Branchen-Standardbedingungen
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. AGB auf Rückseite von Bestellung: Einbeziehung unter CISG wenn keine ausdrückliche Zustimmung?
+2. Sprachproblem: Deutsche AGB bei englischsprachiger Partei — wirksam?
+3. PICC Art. 2.1.20 Überraschungsklausel: Lieferantenausschluss-Klausel in Allgemeinen Kaufbedingungen?
+4. Inhaltskontrolle: §§ 308-309 BGB bei deutschem Vertragsstatut — was gilt für B2B?
+5. VDMA-AGB: Gelten sie als Handelsbrauch (Art. 9 CISG) in der Maschinenbaubranche?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- AGB-Einbeziehung: Expliziter Verweis in Vertrags-/Angebotsdokument; URL-Link genügt bei B2B
+- Sprachproblem: Risikoübernahme durch Nicht-Übersetzen ausdrücklich in Hauptvertrag regeln
+- Inhaltskontrolle: Vertragsstatut bestimmt welche AGB-Kontrolle gilt (IPR-Frage)
+- Branchenstandards: Nur nach Art. 9 Abs. 2 CISG wenn allgemein bekannt und regelmäßig beachtet
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- AGB-Einbeziehungsklausel-Muster (CISG-kompatibel)
+- Checkliste: Überraschungsklausel-Test (PICC Art. 2.1.20)
+- AGB-Sprachanforderungen-Übersicht
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG Art. 8-9: uncitral.un.org. PICC Art. 2.1.19-2.1.22: unidroit.org. BGB §§ 305-310: gesetze-im-internet.de. BGH VIII ZR 274/98: dejure.org. Unsicherheit bleibt sichtbar.

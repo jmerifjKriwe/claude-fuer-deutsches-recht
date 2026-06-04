@@ -1,50 +1,50 @@
 ---
 name: drg-024-verwaltungsrecht-und-polizeirecht
-description: "Deutsche Rechtsgeschichte: Verwaltungsrecht Und Polizeirecht. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Verwaltungsrecht und Polizeirecht. Preussisches Kreuzberg-Urteil 1882, allgemeines Verwaltungsrecht, Verwaltungsgerichtsbarkeit und Polizeirecht im historischen Wandel."
 ---
 
-# Verwaltungsrecht Und Polizeirecht
+# Verwaltungsrecht und Polizeirecht
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Verwaltungsrecht Und Polizeirecht** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das deutsche Verwaltungsrecht nahm im 19. Jh. seine moderne Form an. Das preussische Oberverwaltungsgericht entwickelte mit dem Kreuzberg-Urteil 1882 (PrOVGE 9, 353) den Grundsatz, dass polizeiliche Generalermaechtigung nicht fuer oekonomische oder aesthetische Zwecke genutzt werden darf - Geburtsstunde des rechtsstaatlichen Polizeirechts. Otto Mayer (Deutsches Verwaltungsrecht, 2 Bde., 1895/96) systematisierte das allgemeine Verwaltungsrecht. Die VwGO 1960 (BGBl. I 1960, 17) schuf das einheitliche Verwaltungsprozessrecht. Das VwVfG 1976 (BGBl. I 1976, 1253) kodifizierte das Verwaltungsverfahrensrecht.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **PrOVGE 9, 353 (Kreuzberg-Urteil 1882)**: Grenzen polizeilicher Generalermaechtigung
+- **PrPVG 1931**: Preussisches Polizeiverwaltungsgesetz, Muster fuer Laenderrecht
+- **VwGO 1960 (BGBl. I 1960, 17)**: Verwaltungsprozessrecht der BRD
+- **VwVfG 1976 (BGBl. I 1976, 1253)**: Allgemeines Verwaltungsverfahrensrecht
+- **GG Art. 19 Abs. 4**: Rechtsschutzgarantie als verfassungsrechtlicher Kern
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Preussisches Oberverwaltungsgericht (PrOVG)**: Wegbereiter des Verwaltungsrechts
+- **Otto Mayer** (1846-1924): Begruender der allgemeinen Verwaltungsrechtslehre
+- **Walter Jellinek** (1885-1955): Verwaltungsrechtslehre der Weimarer Republik
+- **BVerwG**: Leitinstanz seit 1953
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Kreuzberg-Urteil 1882: Woher nahm das PrOVG das Recht, polizeiliche Ermaechtigung so eng auszulegen?
+2. Otto Mayers Verwaltungsrecht: Ist das staatsrechtliche System noch fuer die heutige Verwaltung tauglich?
+3. Polizeiliches Ermessen: Wie weit reicht es in Krisenlagen?
+4. VwGO vs. VwVfG: Wer praegte das Verwaltungsrecht staerker?
+5. NS-Verwaltungsrecht: Was ueberlebte nach 1945 in der BRD?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Kreuzberg-Urteil 1882: PrOVGE 9, 353 in historischen Entscheidungssammlungen
+- VwGO und VwVfG: gesetze-im-internet.de
+- Otto Mayer, Deutsches Verwaltungsrecht (2 Bde., 1895/96): historische Edition, Bandangabe und Seite
+- BVerwG: bverwg.de fuer vollstaendige Entscheidungen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste Verwaltungsrecht: Kreuzberg 1882 bis VwGO 1960
+- Kreuzberg-Urteil: Kernsaetze und Bedeutung
+- Polizeirecht historisch: Generalermaechtigung vs. Spezialbefugnis
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+VwGO und VwVfG: gesetze-im-internet.de. PrOVGE: historische Entscheidungssammlungen. Otto Mayer 1895/96: Erstausgabe, Band und Seite. BVerwG: bverwg.de.

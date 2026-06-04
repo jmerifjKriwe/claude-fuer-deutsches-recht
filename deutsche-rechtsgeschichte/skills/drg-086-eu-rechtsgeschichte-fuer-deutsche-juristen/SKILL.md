@@ -1,50 +1,51 @@
 ---
 name: drg-086-eu-rechtsgeschichte-fuer-deutsche-juristen
-description: "Deutsche Rechtsgeschichte: EU Rechtsgeschichte Fuer Deutsche Juristen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Europaeisierung des Rechts aus historischer Perspektive. EGKS 1951, EWG 1957, EG-Vertrag, Maastricht 1992, Lissabon 2007 und Einfluss des Europarechts auf deutsche Rechtsordnung."
 ---
 
-# EU Rechtsgeschichte Fuer Deutsche Juristen
+# EU-Rechtsgeschichte fuer deutsche Juristen
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **EU Rechtsgeschichte Fuer Deutsche Juristen** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die europaeische Rechtsgeschichte beginnt fuer Deutschland mit dem EGKS-Vertrag von 1951 (BGBl. II 1952, 447), dem EWG-Vertrag und EURATOM von 1957 (BGBl. II 1957, 753). Die unmittelbare Wirkung des Europarechts wurde durch den EuGH 1963 (van Gend en Loos) und die Vorranglehre 1964 (Costa/ENEL) festgelegt. Das BVerfG entwickelte seine Solange-Rechtsprechung (Solange I 1974, BVerfGE 37, 271; Solange II 1986, BVerfGE 73, 339). Maastricht 1992 schuf die EU; das Lissaboner Reformvertrag 2007 (BGBl. II 2008, 1039) brachte die Charta der Grundrechte in Kraft.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **EGKS-Vertrag 1951 (BGBl. II 1952, 447)**: Montan-Union, erster supranationaler Vertrag
+- **EWG-Vertrag 1957 (BGBl. II 1957, 753)**: Roemische Vertraege, Grundlage des Binnenmarkts
+- **Maastricht-Vertrag 1992 (BGBl. II 1992, 1253)**: Unionsgruendung, drei Saeulen
+- **Lissabon-Vertrag 2007 (BGBl. II 2008, 1039)**: AEUV, EUV, GRC rechtsverbindlich
+- **EuGH Rs. 26/62 van Gend en Loos (1963)**: Unmittelbare Wirkung
+- **EuGH Rs. 6/64 Costa/ENEL (1964)**: Vorrang des Europarechts
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Walter Hallstein** (1901-1982): Erster Kommissionspraesident, Vorrangtheoretiker
+- **EuGH Luxemburg**: Praegend fuer europaeische Rechtsordnung seit 1952
+- **BVerfG**: Solange-Linie und Identitaetskontrolle
+- **Konrad Adenauer** und **Jean Monnet**: Politische Architekten der europaeischen Integration
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. War die Vorranglehre des EuGH vertraglich gedeckt oder richterliche Rechtsfortbildung?
+2. Solange I/II: Hat das BVerfG den Primat des Europarechts akzeptiert oder nur suspendiert?
+3. BVerfGE 89, 155 (Maastricht): Demos-These und demokratische Legitimation der EU
+4. BVerfGE 123, 267 (Lissabon): Souveraenitat und Integrationsgrenze des GG
+5. PSPP-Urteil 2020 (BVerfGE 154, 17): Ultra-vires-Kontrolle und EZB
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Vertragstexte: eur-lex.europa.eu (konsolidierte Fassungen)
+- EuGH: curia.europa.eu fuer vollstaendige Urteile
+- BVerfGE: bverfg.de
+- BGBl. II fuer Zustimmungsgesetze: gesetze-im-internet.de
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste europaeischer Vertraege mit deutschen Zustimmungsgesetzen
+- BVerfG-EuGH-Verhaeltnis: Solange I, II, Maastricht, Lissabon, PSPP
+- Kernartikel AEUV und EUV mit deutschem Bezug
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Vertragstexte: eur-lex.europa.eu. EuGH: curia.europa.eu. BVerfGE: bverfg.de. BGBl. II Zustimmungsgesetze: gesetze-im-internet.de.

@@ -1,50 +1,50 @@
 ---
 name: drg-036-treuhand-und-volksvermoegen
-description: "Deutsche Rechtsgeschichte: Treuhand Und Volksvermoegen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Treuhandanstalt und DDR-Volksvermoegen. Treuhandgesetz 1990, THA-Privatisierungen, parlamentarische Kontrolle, Schulden und historisch-rechtliche Bewertung."
 ---
 
-# Treuhand Und Volksvermoegen
+# Treuhandanstalt und DDR-Volksvermoegen
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Treuhand Und Volksvermoegen** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Treuhandanstalt (THA) wurde mit dem Treuhandgesetz vom 17. Juni 1990 (GBl. I DDR 1990, 300) gegründet und durch den Einigungsvertrag (Art. 25) in Bundesrecht ueberfuehrt. Sie verwaltete und privatisierte das Volksvermoegen der DDR: ca. 8500 volkseigene Betriebe, 1,7 Millionen Wohnungen, 2,4 Millionen Hektar Landwirtschaftsflaeche. Bis Ende 1994 privatisierte oder liquidierte die THA den Grossteil. Ergebnis: ca. 250 Milliarden DM Schulden. Die THA wurde vielfach kritisiert: Ausverkauf des Ostens, Vernichtung von Arbeitsplaetzen, fehlende demokratische Kontrolle.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Treuhandgesetz 1990 (GBl. I DDR 1990, 300)**: Gruendungsgesetz der THA
+- **Einigungsvertrag Art. 25**: Ueberleitung der THA in Bundesrecht
+- **D-Mark-Bilanz-Gesetz 1990 (BGBl. II 1990, 1460)**: Bewertung des DDR-Volksvermoegen
+- **THA-Geschaeftsbericht** (jaeehrlich): Privatisierungsstatistik
+- **Bundesschuldenwesengesetz**: THA-Schulden als Bundeserbschaft
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Detlev Karsten Rohwedder** (1932-1991): THA-Chef bis zu seiner Ermordung
+- **Birgit Breuel** (*1937): THA-Chefin 1991-1994
+- **SED/PDS**: Auflosung des DDR-Staatsapparats und Vermoegensfragen
+- **Bundestag**: Beschraenkte parlamentarische Kontrolle der THA
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Treuhandgesetz 1990: War die THA demokratisch legitimiert?
+2. Privatisierungsgeschwindigkeit: Zu schnell? Haette man Betriebe sanieren sollen?
+3. Westdeutsche Kaeufer: War die Privatisierung ein Ausverkauf der ostdeutschen Wirtschaft?
+4. THA-Schulden: Wer traegt die Verantwortung fuer 250 Milliarden DM Schulden?
+5. Soziale Folgekosten: War die THA fuer die hohe Ostarbeitslosigkeit der 1990er mitverantwortlich?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Treuhandgesetz 1990: GBl. DDR I via ALEX
+- Einigungsvertrag Art. 25: BGBl. II 1990
+- THA-Akten im Bundesarchiv: Bestand DG 1 (THA-Hauptverwaltung), Findmittel via invenio
+- Parlamentarische Kontrolle: Bundestag-Untersuchungsausschuss THA 1992
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Uebersicht THA-Struktur und Privatisierungsstatistik
+- Rechtliche Grundlagen der Treuhand (Treuhandgesetz, EV Art. 25)
+- Kritikpunkte und politische Debatte tabellarisch zusammengefasst
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Treuhandgesetz 1990: GBl. DDR I via ALEX/OeNB. Einigungsvertrag: BGBl. II 1990, 885. Bundesarchiv THA-Akten: invenio.bundesarchiv.de. Sekundaerliteratur: Breuel (Hrsg.), Ohne historisches Vorbild; mit Seite.

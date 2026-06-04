@@ -1,50 +1,52 @@
 ---
 name: ihl-028-transportversicherung
-description: "Internationales Handelsrecht und Lex Mercatoria: Transportversicherung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Transportversicherung im internationalen Handel. Institute Cargo Clauses A/B/C (Lloyd's), All-Risk vs. benannte Gefahren, Versicherungspflicht nach Incoterms CIF/CIP, Versicherungszertifikat für Akkreditive und Subrogation."
 ---
 
-# Transportversicherung
+# Transportversicherung im internationalen Handel
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Transportversicherung** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Transportversicherung (Cargo Insurance) sichert Warenrisiken auf dem internationalen Transport. Die Institute Cargo Clauses (ICC A, B, C) der Lloyd's Market Association sind weltweiter Standard. CIF-Klausel verpflichtet Verkäufer zur Mindestversicherung (ICC C — benannte Gefahren); CIP (Incoterms 2020) verlangt umfassende ICC A-Deckung.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Institute Cargo Clauses (A) 2009**: All-Risk-Deckung (mit benannten Ausschlüssen)
+- **Institute Cargo Clauses (B) 2009**: Benannte Gefahren plus Erdbeben/Vulkan/Blitz
+- **Institute Cargo Clauses (C) 2009**: Minimaldeckung — nur grobe Gefahren
+- **Incoterms 2020 CIF A5**: Verkäufer: Mindestversicherung ICC (C) oder gleichwertig
+- **Incoterms 2020 CIP A5**: Verkäufer: ICC (A) oder gleichwertig (Upgrade ab 2020)
+- **UCP 600 Art. 28**: Versicherungsdokument — Mindestdeckung, Indossierung, Datum
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- ICC A ("All Risks"): Deckung aller Gefahren außer ausdrücklich Ausgeschlossenen (Krieg, Streik separat)
+- ICC C: Grunddeckung — Feuer, Explosion, Schiffbruch, Kollision, Strandung, Abwurf
+- Institute War Clauses, Institute Strikes Clauses: Zusatzdeckung für Kriegs- und Streikrisiken
+- Open Cover Policy: Rahmendeckung für alle Sendungen des Versicherungsnehmers
+- Subrogation: Versicherer tritt in Rechte des Versicherten gegen Frachtführer nach Schadensersatz
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Akkreditiv verlangt Versicherungszeugnis: Welche Mindestanforderungen nach UCP 600 Art. 28?
+2. CIF mit ICC (C): Reicht das für Elektronikware? (Nein — Diebstahl nicht gedeckt in ICC C)
+3. Kriegsklausel: Gilt Standarddeckung ICC A für Transportschäden durch Sabotage?
+4. Subrogation: Frachtführer haftungsbeschränkt (CMR 8,33 SZR/kg) — zahlt Versicherer Rest?
+5. Open Cover: Anzeigepflichten bei ungewöhnlichen Sendungen?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Versicherungsbedarfsanalyse: Warenwert, Transportmodus, Länderrisiko
+- CIF-Vertrag: Käufer ggf. Zusatzversicherung abschließen (CIF nur ICC C-Minimum)
+- Versicherungszertifikat: Blank-Indossament für Akkreditivzwecke
+- Kriegsrisikogebiete: Lloyd's Market Association Annual War Notice prüfen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- ICC A/B/C Vergleichstabelle (Gefahren, Ausschlüsse)
+- Versicherungszertifikat-Checkliste (UCP 600 Art. 28)
+- Open-Cover-Klausel-Muster
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+ICC A/B/C 2009: lloyds.com (LMA). UCP 600 Art. 28: iccwbo.org. Incoterms 2020: iccwbo.org. Schrifttum: Tetley, Marine Cargo Claims (4. Aufl. 2008). Unsicherheit bleibt sichtbar.

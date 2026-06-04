@@ -1,50 +1,49 @@
 ---
 name: drg-072-rechtsgeschichte-in-gesetzesbegruendung
-description: "Deutsche Rechtsgeschichte: Rechtsgeschichte In Gesetzesbegruendung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Rechtsgeschichte in der Gesetzesbegründung. Wie historische Normanalyse in Referentenentwuerfe, Begründungen und parlamentarische Materialien korrekt eingebaut wird."
 ---
 
-# Rechtsgeschichte In Gesetzesbegruendung
+# Rechtsgeschichte in der Gesetzesbegründung
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Rechtsgeschichte In Gesetzesbegruendung** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Gesetzesbegründungen (Regierungsentwuerfe, Referentenentwuerfe, BT-Drucksachen) greifen regelmaessig auf Rechtsgeschichte zurueck: Darstellung des bisherigen Rechts, historische Entwicklung, Vergleich mit Vorgaengerregelungen. Die Qualitaet dieser historischen Abschnitte ist oft niedrig: Blindzitate, Anachronismen, fehlende Fundstellen. Bestes Gegenbeispiel: Schuldrechtsreform 2002 BT-Drucksache 14/6040, die eine aufwaendige historische Analyse des deutschen und europaeischen Schuldrechts enthielte. Standards: Primaerquelle vor Sekundaerliteratur, klare Epochenabgrenzung, Quellenangabe fuer jede historische Behauptung.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **GG Art. 76**: Gesetzgebungsverfahren, Regierungsentwurf mit Begruendung
+- **Gemeinsame Geschaeftsordnung der Bundesministerien (GGO) § 42**: Anlagen zu Gesetzentwuerfen
+- **Mugdan**: Massstab fuer historische Begruendungsqualitaet
+- **BT-Drucksache 14/6040** (Schuldrechtsreform): Beispiel historischer Abschnitt in Entwurfsbegruendung
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Referenten in Bundesministerien**: Ersteller von Gesetzesbegründungen
+- **Parlamentarischer Beratungsdienst**: Qualitaetskontrolle
+- **Bundesrat**: Stellungnahmen mit historischen Argumenten
+- **BVerfG**: Wertet Gesetzesbegründung als Rechtsquelle fuer Normzweck
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Verbindlichkeit historischer Teile der Gesetzesbegründung: Hat das BVerfG sie nachgepreueft?
+2. Historischer Irrtum in der Begruendung: Kann falsche Rechtsgeschichte eine Norm infizieren?
+3. GGO § 42 und historische Materialien: Gibt es formale Qualitaetsstandards?
+4. BT-Drucksachen und Anachronismus: Wie oft findet man historische Fehler in Gesetzesbegründungen?
+5. Versaehen: Was wenn die Begruendung sagt A, der Text regelt B?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- BT-Drucksachen: bundestag.de/dokumente/parlamentsarchiv
+- Mugdan: historische Ausgabe als Qualitaetsmassstab
+- GGO: bundesregierung.de fuer formale Anforderungen
+- BVerfGE: bverfg.de fuer Nutzung der Gesetzesbegründung
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Vorlage: Historischer Abschnitt fuer Referentenentwurf
+- Checkliste: Qualitaetspruefung historische Begruendungsteile
+- Beispiel BT-Drucksache 14/6040: Gut gemachte historische Analyse
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+BT-Drucksachen: bundestag.de. GGO: bundesregierung.de. Mugdan: historische Ausgabe. BVerfGE: bverfg.de. GG Art. 76: gesetze-im-internet.de.

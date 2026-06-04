@@ -1,50 +1,52 @@
 ---
 name: ihl-077-interim-measures
-description: "Internationales Handelsrecht und Lex Mercatoria: Interim Measures. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Einstweilige Maßnahmen in der internationalen Schiedsgerichtsbarkeit. UNCITRAL Model Law Art. 17-17J, Schiedsgericht vs. staatlicher Rechtsschutz, Asset Freezing Orders, Mareva Injunctions und Anti-Suit Injunctions."
 ---
 
-# Interim Measures
+# Einstweilige Maßnahmen in der Schiedsgerichtsbarkeit
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Interim Measures** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Einstweilige Maßnahmen sichern den Rechtsschutz während des laufenden Schiedsverfahrens. Das UNCITRAL Model Law (2006, Art. 17-17J) gibt einen modernen Rahmen. Schiedsgerichte können Asset Freezes und Anti-Suit Injunctions anordnen; für die Vollstreckung brauchen sie oft staatliche Gerichte. Art. 17H Model Law ermöglicht Vollstreckung durch staatliche Gerichte.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **UNCITRAL Model Law Art. 17**: Einstweilige Maßnahmen durch Schiedsgericht
+- **UNCITRAL Model Law Art. 17A-17D**: Bedingungen, Typen, Abänderung
+- **UNCITRAL Model Law Art. 17H-17I**: Anerkennung und Vollstreckung durch staatliche Gerichte
+- **ICC Regeln 2021 Art. 28**: Einstweilige Maßnahmen durch Schiedsgericht
+- **English Civil Procedure Rules (CPR) 25.1**: Freezing Injunction (Mareva Order)
+- **§ 1041 ZPO**: Einstweilige Maßnahmen im deutschen Schiedsrecht
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Asset Freeze / Freezing Order: Kontosperrung, Verbot der Vermögensübertragung
+- Mareva Injunction (UK): in personam-Verfügung gegen Vermögensverfügung weltweit möglich
+- Anti-Suit Injunction: Schiedsgericht oder staat. Gericht verbietet Klage in anderem Forum
+- Security for Costs: Kosten-Sicherheitsleistung durch klagenden Schiedsparteien
+- Writ ne exeat regno: Reiseverbot gegen Naturalperson (England)
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Asset Freeze im Schiedsverfahren: Schiedsgericht anordnen oder UK-Gericht für Mareva?
+2. Anti-Suit Injunction: Wenn Gegenpartei parallel in staatlichem Gericht klagt trotz Schiedsklausel?
+3. Security for Costs: Wann berechtigt Mittellosigkeit der Kläger zu Sicherheitsleistungsanordnung?
+4. Model Law Art. 17H: Welche Staaten haben Model Law ratifiziert und Art. 17H übernommen?
+5. Einstweilige Maßnahmen gegen Dritte: Kann Schiedsgericht Order gegen Nicht-Partei erlassen?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Strategie: Schiedsgerichts-Order als Signal + paralleler staatlicher Vollstreckungsantrag
+- Mareva UK: USA-Vermögen + UK-Schiedsklausel → UK-Gericht für Worldwide Freezing Order
+- Anti-Suit: nur in Ländern mit anti-suit-freundlicher Rechtsprechung (UK, Singapur, Schweiz)
+- Vollstreckung: Schiedsort-Recht für staatliche Unterstützungsklage (§ 1025 ff. ZPO in D)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Einstweilige-Maßnahmen-Typen-Übersicht
+- Asset-Freeze-Antrag-Checkliste (Schiedsgericht)
+- Vollstreckbarkeit-Karte (Länder mit Model Law Art. 17H)
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+UNCITRAL Model Law: uncitral.un.org. ICC Regeln 2021: iccwbo.org. CPR 25.1 (UK): justice.gov.uk. § 1041 ZPO: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.

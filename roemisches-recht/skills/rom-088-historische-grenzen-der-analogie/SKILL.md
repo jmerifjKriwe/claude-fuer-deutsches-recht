@@ -1,50 +1,54 @@
 ---
 name: rom-088-historische-grenzen-der-analogie
-description: "Römisches Recht: Historische Grenzen Der Analogie. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Historische Grenzen der Analogie - Verbot der analogen Anwendung im justinianischen Recht (Const. Tanta § 21), Analogie in klassischer Jurisprudenz (actio utilis, actio ficticia) und methodische Grenzen."
 ---
 
-# Historische Grenzen Der Analogie
+# Historische Grenzen der Analogie
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Historische Grenzen Der Analogie** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das justinianische Recht verbat Kommentare und Auslegungen zu den Digesten (Const. Tanta § 21), was im Prinzip auch analoge Rechtsfortbildung einschränkte. In der klassischen Praxis wurde Analogie aber durchaus angewandt: durch actio utilis (analoge Klage, z.B. D. 9.2.13 lex Aquilia auf freie Personen ausgedehnt) und actio ficticia (Fiktion, z.B. actio Publiciana D. 6.2). Die Grenzen der Analogie zeigen auch die historischen Schranken des röm. Rechtsdenkens.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Const. Tanta § 21 (533 n.Chr.)**: Kommentierungsverbot
+- **D. 9.2.13 (Ulpian)**: Actio utilis der lex Aquilia auf freie Personen
+- **D. 6.2.1 (Ulpian)**: Actio Publiciana als Fiktionsklage
+- **D. 1.3.12 (Iulianus)**: Analogieschluss aus ähnlichen Fällen
+- **Gaius Inst. 4.36**: Actio ficticia - Erklärung der Fiktion
+- **D. 1.3.13 (Iulianus)**: Lückenfüllung durch ähnliche Fälle
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- actio utilis: analoge Klage für nicht direkt erfasste Fälle
+- actio ficticia: Klage mit Fiktion (als-ob)
+- actio in factum: eigene Klage für neue Sachverhalte
+- Const. Tanta § 21: Kommentierungsverbot und Analogieschranke
+- D. 1.3.12 (Iulianus): methodischer Text zur Lückenfüllung
+- Interpolationsgefahr: Julianus-Texte oft verändert
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Praxis nach Const. Tanta: Wurde das Analogieverbot wirklich eingehalten?
+2. Unterschied actio utilis - actio in factum - actio ficticia
+3. Iulianus D. 1.3.12: origineller Text oder Interpolation?
+4. Analogie im klassischen Recht: methodisch explizit oder implizit?
+5. Grenzen der Analogie in der Pandektenwissenschaft: Jhering vs. Savigny
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Const. Tanta § 21 (Mommsen-Krüger, CIC vol. I Einleitung)
+- D. 1.3 (De legibus...); D. 9.2.13; D. 6.2
+- Kaser/Hackl Zivilprozessrecht §§ 27-30
+- Schulz Classical Roman Law §§ 70-80 zur Methodik
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: actio utilis - ficticia - in factum
+- Memo zum Kommentierungsverbot
+- Analogiebeispiele aus den Digesten
+- Vergleich röm. Analogie vs. mod. Lückenfüllung
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Const. Tanta; D. 1.3; D. 9.2 (Mommsen-Krüger, archive.org). Schulz Classical Roman Law. Kaser/Hackl.

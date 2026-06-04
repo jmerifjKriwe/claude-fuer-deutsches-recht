@@ -1,50 +1,51 @@
 ---
 name: drg-056-presserecht-und-meinungsfreiheit-historisch
-description: "Deutsche Rechtsgeschichte: Presserecht Und Meinungsfreiheit Historisch. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Presserecht und Meinungsfreiheit historisch. Pressezensur im Deutschen Bund, Reichspressegesetz 1874, Weimarer Presserecht, NS-Schriftleitergesetz 1933 und GG Art. 5."
 ---
 
-# Presserecht Und Meinungsfreiheit Historisch
+# Presserecht und Meinungsfreiheit historisch
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Presserecht Und Meinungsfreiheit Historisch** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Presserecht in Deutschland ist durch den Wechsel zwischen Zensur und Freiheit gepraegt. Der Deutsche Bund kannte intensive Pressezensur (Karlsbader Beschluesse 1819). Das Reichspressegesetz 1874 (RGBl. 1874, 65) schuf erstmals Pressefreiheit und hob die Zensur auf, bewahrte aber Straftatbestaende. Die WRV Art. 118 garantierte Meinungsfreiheit, Art. 119 Pressefreiheit. Das NS-Schriftleitergesetz 1933 (RGBl. I 1933, 713) unterstellte die Presse der NS-Kontrolle. Das GG Art. 5 garantiert Meinungs-, Presse- und Rundfunkfreiheit. Das BVerfG pragte diese Rechte durch Leitentscheidungen wie BVerfGE 7, 198 (Lueths Urteil) und BVerfGE 20, 162 (Spiegel-Affaere).
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Reichspressegesetz 1874 (RGBl. 1874, 65)**: Erste freie Presseordnung
+- **WRV Art. 118**: Meinungsfreiheit
+- **Schriftleitergesetz 1933 (RGBl. I 1933, 713)**: NS-Pressekontrolle
+- **GG Art. 5**: Meinungs-, Presse-, Rundfunkfreiheit
+- **BVerfGE 7, 198** (1958, Lueths Urteil): Drittwirkung und Boykottrecht
+- **BVerfGE 20, 162** (1966, Spiegel-Urteil): Informantenschutz und Pressefreiheit
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Metternich** (1773-1859): Urheber der Karlsbader Beschluesse 1819 gegen Pressefreiheit
+- **Rudolf Augstein** (1923-2002): Spiegel-Herausgeber, Spiegel-Affaere 1962/66
+- **BVerfG**: Leitentscheidungen zu Art. 5 GG
+- **Landesmediengesetze**: Rundfunkrecht in Laenderkompetenz
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Reichspressegesetz 1874: Freiheit oder Kontrolle durch Straftatbestaende?
+2. Spiegel-Affaere 1962: Gefaehrdung der Pressefreiheit durch den Staat?
+3. Pressefreiheit und Persoenlichkeitsrecht: Wann endet Pressefreiheit (Caroline-Urteil)?
+4. NS-Schriftleitergesetz: Hat es die Presse gleichgeschaltet oder nur kontrolliert?
+5. Rundfunkfreiheit und Staatsferne: GG Art. 5 und oeffentlich-rechtlicher Rundfunk
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Reichspressegesetz 1874: RGBl. 1874, 65 via ALEX/OeNB
+- Schriftleitergesetz 1933: RGBl. I 1933, 713 via ALEX/OeNB
+- GG Art. 5: gesetze-im-internet.de; BVerfGE: bverfg.de
+- BVerfGE 7, 198 und 20, 162: bverfg.de
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste Presserecht: 1819 Karlsbader Beschluesse bis GG 1949
+- Spiegel-Affaere: Tatsachen, Recht und politische Folgen
+- GG Art. 5 und Schranken: BVerfGE-Ueberblick
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Reichspressegesetz 1874: ALEX/OeNB. NS-Schriftleitergesetz 1933: ALEX/OeNB. GG Art. 5: gesetze-im-internet.de. BVerfGE 7, 198 und 20, 162: bverfg.de.

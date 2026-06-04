@@ -1,50 +1,54 @@
 ---
 name: rom-029-realvertraege-system
-description: "Römisches Recht: Realvertraege System. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Realkontrakte nach Gaius Inst. 3.90 - mutuum, commodatum, depositum, pignus als durch Hingabe der Sache (re) entstehende Verträge und ihre systematische Stellung im Obligationenrecht."
 ---
 
-# Realvertraege System
+# Realverträge - System
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Realvertraege System** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Realkontrakte entstehen durch Hingabe einer Sache (re contrahitur obligatio). Gaius Inst. 3.90 nennt das mutuum als Prototyp; die justinianischen Institutionen (3.14) fügen commodatum, depositum und pignus hinzu. Das konstituierende Merkmal ist die tatsächliche Übergabe der Sache; ohne Hingabe entsteht keine obligatio. Diese Systematik ist rechtshistorisch bedeutsam für die BGB-Entstehungsgeschichte (§§ 488, 598, 688ff.).
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius Inst. 3.90**: re contrahitur obligatio (mutuum)
+- **Iust. Inst. 3.14 pr.**: Vier Realkontrakte
+- **D. 2.14.7.1 (Ulpian)**: Vertragsklassifikation allgemein
+- **D. 44.7.1 (Gaius)**: Verbis, literis, re, consensu - Obligationsquellen
+- **D. 12.1.1 (Ulpian)**: Condictio als Klage aus mutuum
+- **D. 13.6.1 (Ulpian)**: Commodatum als Realkontrakt
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- re contrahitur: obligatio entsteht durch Hingabe
+- mutuum: Darlehen (Übereignung vertretbarer Sachen)
+- commodatum: Leihe (keine Übereignung)
+- depositum: Verwahrung
+- pignus: Pfandvertrag
+- Systemvergleich: Realkontrakte vs. Konsensualkontrakte
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Realkontrakt-Kategorie: dogmatisch sinnvoll oder historisches Relikt?
+2. Abgrenzung mutuum - commodatum: Übereignung als Merkmal
+3. Ohne Konsens kein mutuum: Bedeutung des Willens beim Realkontrakt
+4. Innominatkontrakt als Weiterentwicklung des Realkontrakts (do ut des)
+5. BGB § 604 (Commodatum) und historischer Vergleich
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Gaius Inst. 3.90-96; Iust. Inst. 3.14
+- D. 44.7.1; D. 12.1 (Condictio)
+- Kaser RP I §§ 217-230; Zimmermann Law of Obligations
+- Flume Allgemeiner Teil Bd. 2 zum Vertragsrecht
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Systemtabelle: vier Realkontrakte im Vergleich
+- Entstehungsvoraussetzungen tabellarisch
+- Memo zur Realvertragstheorie und BGB
+- Quellenmatrix D. 44.7.1
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Gaius Inst. 3; Iust. Inst. 3.14; D. 44.7; D. 12.1 (Mommsen-Krüger). Kaser RP I. Zimmermann.

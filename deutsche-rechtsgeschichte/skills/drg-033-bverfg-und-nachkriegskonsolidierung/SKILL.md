@@ -1,50 +1,50 @@
 ---
 name: drg-033-bverfg-und-nachkriegskonsolidierung
-description: "Deutsche Rechtsgeschichte: BVerfG Und Nachkriegskonsolidierung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: BVerfG und Nachkriegskonsolidierung. Errichtung des BVerfG 1951, Fruehe Leitentscheidungen (SRP-Verbot BVerfGE 2-1, KPD-Verbot BVerfGE 5-85), Elfes-Urteil und Aufbau der Grundrechtsdogmatik."
 ---
 
-# BVerfG Und Nachkriegskonsolidierung
+# BVerfG und Nachkriegskonsolidierung
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **BVerfG Und Nachkriegskonsolidierung** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Bundesverfassungsgericht (BVerfG) wurde am 7. September 1951 in Karlsruhe errichtet. Die fruehen Leitentscheidungen praegten das politische Profil der BRD: SRP-Verbot (BVerfGE 2, 1, 1952): Erste Parteiverbotsklage, NS-Nachfolgepartei. KPD-Verbot (BVerfGE 5, 85, 1956): Verbot der Kommunistischen Partei, Auseinandersetzung mit der DDR. Elfes-Urteil (BVerfGE 6, 32, 1957): Allgemeine Handlungsfreiheit aus Art. 2 Abs. 1 GG. Lueths Boykottaufruf (BVerfGE 7, 198, 1958): Drittwirkung der Grundrechte, Ausstrahlungswirkung. Diese Entscheidungen gruendeten die demokratische Kultur der BRD auf verfassungsrechtlichem Fundament.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **BVerfGE 2, 1** (1952): SRP-Verbot, Art. 21 Abs. 2 GG
+- **BVerfGE 5, 85** (1956): KPD-Verbot, streitbare Demokratie
+- **BVerfGE 6, 32** (1957): Elfes, allgemeine Handlungsfreiheit Art. 2 Abs. 1 GG
+- **BVerfGE 7, 198** (1958): Lueths Urteil, Ausstrahlungswirkung der Grundrechte
+- **BVerfGG 1951 (BGBl. I 1951, 243)**: Verfahrensrecht des BVerfG
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Hermann Hoepker Aschoff** (1883-1954): Erster BVerfG-Praesident
+- **Gerhard Leibholz** (1901-1982): BVerfG-Richter, Parteienstaat-Lehre
+- **Erich Lueths** (1902-1991): Klaeger im Lueths-Urteil, Hamburger Senatspressechef
+- **SRP und KPD**: Verbotene Parteien
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. War das KPD-Verbot 1956 mit dem Verhueltnis zur SRP 1952 konsistent?
+2. Lueths-Urteil: Ist die Ausstrahlungswirkung der Grundrechte dogmatisch sauber?
+3. Parteiverbot als demokratisches Instrument: Schutzt es die Demokratie oder staerrkt es den Staat?
+4. BVerfGG und Richterwahl: War das Zwei-Drittel-Quorum von Anfang an vorgesehen?
+5. Fruehe BRD-Verfassungsidentitaet: Wie stark praegte das BVerfG die westdeutsche Demokratie?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- BVerfGE: bverfg.de fuer vollstaendige Entscheidungen (BVerfGE 2, 1; 5, 85; 6, 32; 7, 198)
+- BVerfGG: gesetze-im-internet.de
+- Sekundaerliteratur: Uwe Wesel, Geschichte des Rechts (1. und 2. Teil)
+- Leibholz Strukturprobleme der modernen Demokratie (1958): historische Ausgabe
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste BVerfG-Fruehphase: 1951-1960 mit Leitentscheidungen
+- Lueths-Urteil: Kernaussagen und dogmatische Bedeutung
+- Parteiverbotsverfahren SRP und KPD: Unterschiede und Gemeinsamkeiten
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+BVerfGE 2, 1 und 5, 85 und 6, 32 und 7, 198: vollstaendig bei bverfg.de. BVerfGG: gesetze-im-internet.de. GG: gesetze-im-internet.de. Leibholz 1958: historische Ausgabe.

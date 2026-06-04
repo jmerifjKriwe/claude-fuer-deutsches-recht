@@ -1,50 +1,50 @@
 ---
 name: drg-011-code-civil-und-rheinisches-recht
-description: "Deutsche Rechtsgeschichte: Code Civil Und Rheinisches Recht. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Code Civil (1804) und rheinisches Recht. Napoleonische Kodifikation, Geltung in Deutschland, rheinisches Recht im 19. Jahrhundert und Nachwirkung auf BGB-Entstehung."
 ---
 
-# Code Civil Und Rheinisches Recht
+# Code Civil und rheinisches Recht
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Code Civil Und Rheinisches Recht** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Der Code Civil (CC) trat am 21. Maerz 1804 in Kraft und galt im linksrheinischen Deutschland (Rheinland, Teile von Westfalen) unter napoleonischer Herrschaft ab 1804/1809. Nach der Befreiung 1814/15 blieb der CC im Rheinland als rheinisches Recht in Kraft. Preussen beibehielt ihn im Rheinland bis 1900. Das rheinische Recht hatte eine eigene Gerichts- und Anwaltskultur (Cour d'appel, spaeter Appellationsgericht Koeln). Die Thibaut-Savigny-Kontroverse 1814 drehte sich auch um die Frage, ob ein gesamtdeutsches Gesetzbuch das CC-Modell imitieren sollte.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Code Civil Art. 544**: Eigentumsrecht als absolutes Recht
+- **Code Civil Art. 1382**: Deliktsrecht, Generalklausel der deliktischen Haftung
+- **Code Civil Art. 1134**: Pacta sunt servanda, Vertragsfreiheit
+- **Rheinisches Recht in Preussen**: Beibehaltung bis EGBGB-Uebergangsrecht 1900
+- **Thibaut, Ueber die Notwendigkeit eines allgemeinen buergerlichen Rechts** (1814): Kodifikationsforderung
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Napoleon Bonaparte** (1769-1821): Politischer Urheber des CC
+- **Jean-Etienne-Marie Portalis** (1746-1807): Hauptredaktor des Code Civil
+- **Anton Friedrich Justus Thibaut** (1772-1840): Kodifikationsbegeisterter Heidelberger Professor
+- **Friedrich Carl von Savigny** (1779-1861): Gegner einer deutschen CC-Nachahmung
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Warum wurde der CC im Rheinland auch nach Napoleon beibehalten?
+2. Thibaut vs. Savigny: Wer hatte den besseren juristischen Grund fuer seine Position?
+3. Einfluss des CC auf das BGB 1900: In welchen Institutionen ist der Einfluss sichtbar?
+4. Unterschiede CC-Deliktsrecht vs. BGB § 823: Was lernte das BGB aus dem CC?
+5. Rheinisches Recht nach 1900: Was blieb durch EGBGB-Vorbehalte?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Code Civil: franzoesische Originalausgabe (1804) und kommentierte Ausgaben
+- Thibaut und Savigny 1814: Erstausgaben (Heidelberg)
+- BGB-Materialien: Mugdan Bd. I zum Einfluss des CC
+- Rheinisches Recht: Sekundaerliteratur Hattenhauer, Europaeische Rechtsgeschichte (1999)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Vergleich Code Civil vs. ALR vs. BGB in drei Kerninstituten
+- Thibaut-Savigny-Streit: Kernargumente und historisches Ergebnis
+- Rheinisches Recht 1814-1900: Sonderweg und Erbe
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Code Civil: franzoesische Originalausgabe (1804) oder kommentierte Ausgaben. Thibaut und Savigny 1814: Erstausgaben. BGB-Materialien CC-Einfluss: Mugdan Bd. I (1899). Kein Blindzitat.

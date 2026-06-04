@@ -1,50 +1,54 @@
 ---
 name: rom-060-juristen-gaius
-description: "Römisches Recht: Juristen Gaius. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Gaius (um 110-180 n.Chr.) - Institutiones als einziges vollständig erhaltenes klassisches Rechtslehrbuch, Verona-Palimpsest (1816 wiederentdeckt), Gaius und die Provinzjurisprudenz."
 ---
 
-# Juristen Gaius
+# Jurist: Gaius
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Juristen Gaius** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Gaius ist der einzige klassische Jurist, dessen Lehrwerk (Institutiones, ca. 160 n.Chr.) fast vollständig erhalten ist: Der Verona-Palimpsest wurde 1816 von Niebur wiederentdeckt. Gaius war vermutlich Provinzjurist (nicht am kaiserlichen Rat). Er ist im Zitiergesetz von 426 n.Chr. als einer von fünf maßgeblichen Juristen genannt. Seine Institutionen sind Grundlage für die justinianischen Institutionen.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius Inst. 1.1-8**: Rechtsbegriff und Einteilung
+- **Gaius Inst. 2.1ff.**: Sachenrecht systematisch
+- **Gaius Inst. 3.88ff.**: Obligationenrecht
+- **Gaius Inst. 4.1ff.**: Klagenrecht
+- **D. 1.2.2.47 (Pomponius)**: Gaius wird als juristischer Autor erwähnt (nicht explizit)
+- **Zitiergesetz 426 (CTh 1.4.3)**: Gaius als einer von fünf Autoritäten
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- Verona-Palimpsest: Haupthandschrift der Gaius-Institutionen
+- Institutiones: systematisches Lehrbuch in vier Büchern
+- Provinzjurisprudenz: Gaius vermutlich kein Mitglied des Consilium principis
+- Zitiergesetz 426: fünf zitierfähige Juristen
+- Gaius-Fragmente: Res cottidianae, Provinciales, Ad edictum
+- Studemund (1874): Transkription des Palimpsests
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Identität des Gaius: Keine biographischen Daten gesichert
+2. Gaius und das Kaiserkonseil: Provinzjurist oder Akademiker in Rom?
+3. Verhältnis Gaius-Institutionen zu anderen Lehrbüchern seiner Zeit
+4. Res cottidianae: Authentizität oder Posthumous-Kompilation?
+5. Gaius-Rezeption durch Justinian: getreu oder modifiziert?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Gaius Institutiones: Mommsen-Krüger CIC vol. I
+- Studemund Apographum 1874 (Handschrift, archive.org)
+- Lenel Palingenesia vol. I (Gaius-Fragmente)
+- Honoré Gaius (1962); Kunkel Herkunft der röm. Juristen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Werkübersicht mit Erhaltungsgrad
+- Biographisches Memo mit offenen Fragen
+- Quellenmatrix: Gaius-Zitate in Digesten
+- Vergleich Gaius-Institutionen vs. Iust. Institutionen
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Gaius Inst. (Mommsen-Krüger, archive.org). Studemund Apographum (archive.org). Lenel Palingenesia (archive.org). Honoré Gaius.

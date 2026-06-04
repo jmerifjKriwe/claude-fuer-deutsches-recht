@@ -1,50 +1,52 @@
 ---
 name: ihl-061-software-and-saas-crossborder
-description: "Internationales Handelsrecht und Lex Mercatoria: Software And SaaS Crossborder. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Software- und SaaS-Verträge im grenzüberschreitenden B2B-Kontext. Lizenzrecht, Service Level Agreements (SLA), Daten-Portabilität, Exit-Klauseln, Exportkontrolle für Kryptographie (EAR Cat. 5 Part 2) und Gerichtsstand."
 ---
 
-# Software And SaaS Crossborder
+# Software- und SaaS-Verträge im grenzüberschreitenden B2B
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Software And SaaS Crossborder** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Software-as-a-Service (SaaS) und Softwarelizenzen haben grenzüberschreitend spezifische Risiken: Rechtswahl zwischen Lieferanten- und Nutzungsland, SLA-Garantien, Daten-Hosting-Ort, Kryptographie-Exportkontrolle (EAR Kategorie 5 Part 2). IP-Rechte und Escrow-Regelungen sichern den Nutzer bei Insolvenz.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **EAR 15 CFR 742.15 (Kryptographie)**: Exportkontrolle für Verschlüsselungssoftware
+- **DSGVO Art. 28 und 44**: Auftragsverarbeitung und Drittlandtransfer bei Cloud-Hosting
+- **§ 69a UrhG**: Softwareschutz im deutschen Urheberrecht
+- **Rom I VO Art. 4 Abs. 1 lit. f**: SaaS als Dienstleistung — Anbieterstatut
+- **EU Data Act (EU) 2023/2854**: Daten-Portabilität und Wechsel zwischen Cloud-Diensten
+- **UCC Art. 2A (Leases)**: US-Recht für Software-Lizenzverträge
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- SLA (Service Level Agreement): Verfügbarkeitsgarantie (z.B. 99,9%), Wartungsfenster, Penalties
+- Source Code Escrow: Hinterlegung des Quellcodes für Notfall-Zugriff
+- Multi-Tenant vs. Single-Tenant: Datenisolation in Cloud-Infrastruktur
+- Data Portability (Data Act): Recht auf Daten-Export bei Anbieterwechsel
+- EAR-Kryptographie: Mass-Market-Ausnahme für gängige Verschlüsselung (Notifizierung BIS)
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. SaaS-Anbieter in USA, Nutzer in EU: DSGVO Art. 28 DPA + SCC für Datentransfer erforderlich?
+2. SLA-Verletzung: Vertragsstrafe oder Schadensersatz — wie Penalty-Test anwenden?
+3. Source Code Escrow: Wann und unter welchen Bedingungen hat Nutzer Zugriff?
+4. Data Act Portabilität: Muss SaaS-Anbieter Daten in offenem Format exportieren?
+5. Kryptographie-Export: Gilt EAR-Notifizierungspflicht auch für EU-Anbieter mit US-Komponenten?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- SLA: Verfügbarkeit, Response-Zeit, Backup, Disaster Recovery — konkret definieren
+- Escrow: Drei-Parteien-Escrow-Vertrag (Anbieter, Nutzer, Escrow-Agent)
+- Data Act Compliance: Export-API und Portabilitäts-Dokumentation in SaaS integrieren
+- EAR-Kryptographie: BIS-Notifizierung für Mass-Market-Software (740.17 EAR)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- SaaS-Vertrags-Checkliste (SLA, Datenschutz, Exit, IP)
+- SLA-Template (Verfügbarkeit, Penalties)
+- Escrow-Agreement-Grundstruktur
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+EAR 15 CFR: bis.doc.gov. DSGVO: eur-lex.europa.eu. Data Act 2023/2854: eur-lex.europa.eu. UrhG §§ 69a ff.: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.

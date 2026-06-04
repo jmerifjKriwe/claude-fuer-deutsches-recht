@@ -1,50 +1,52 @@
 ---
 name: ihl-058-data-transfer-in-trade
-description: "Internationales Handelsrecht und Lex Mercatoria: Data Transfer In Trade. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Datentransfer in der internationalen Handelspraxis. DSGVO Art. 44-49 (Drittlandübermittlung), Standardvertragsklauseln (SCC), EU-US Data Privacy Framework (2023) und Datenschutz in Handelsverträgen."
 ---
 
-# Data Transfer In Trade
+# Datentransfer im internationalen Handel
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Data Transfer In Trade** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Internationale Handelsverträge beinhalten häufig Datenaustausch (Kundendaten, Lieferantendaten, Zahlungsinformationen). DSGVO Art. 44-49 regelt Drittlandübermittlung streng: Ohne Angemessenheitsbeschluss sind Standardvertragsklauseln (SCC) oder Binding Corporate Rules erforderlich. Das EU-US Data Privacy Framework (2023) schafft einen neuen Angemessenheitsbeschluss.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **DSGVO Art. 44**: Grundsatz — kein Transfer ohne angemessenes Schutzniveau
+- **DSGVO Art. 45**: Angemessenheitsbeschluss (z.B. EU-US DPF, UK, Kanada)
+- **DSGVO Art. 46 Abs. 2 lit. c**: Standardvertragsklauseln (SCC) als Garantie
+- **DSGVO Art. 49**: Ausnahmen — Einwilligung, Vertragserforderlichkeit, wichtige öffentliche Interessen
+- **EU-US Data Privacy Framework (DPF) Beschluss 2023/1795**: Neuer Angemessenheitsbeschluss USA
+- **Schrems II EuGH C-311/18 (2020)**: Privacy Shield ungültig; TIA für SCC erforderlich
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Angemessenheitsbeschluss: EU-Kommission entscheidet; DPF für USA, Adequacy für UK/Kanada
+- SCC: Standardvertragsklauseln der EU-Kommission (Version 2021); Transfer Impact Assessment (TIA)
+- Binding Corporate Rules (BCR): Konzernweiter Datenschutzrahmen; aufwändige Genehmigung
+- TIA: Transfer Impact Assessment — Risikobewertung für SCC-gestützte Transfers
+- Data Processing Agreement (DPA): DSGVO Art. 28 — Auftragsverarbeitung
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Kaufpreis-/Kundendaten werden in Cloud-System (USA) gespeichert: welche Grundlage?
+2. SCC 2021: Welche Module für welche Transfers (C2C, C2P, P2C)?
+3. TIA: Welche Rechtsordnung des Empfängerlandes ist zu bewerten (Schrems-II-Folge)?
+4. DPF 2023: Gilt es für alle US-Unternehmen oder nur für zertifizierte?
+5. Exportkontrolle und Datentransfer: Gilt EAR auch für Software-Übermittlung?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Transfer-Basis auswählen: (1) Angemessenheitsbeschluss?, (2) SCC + TIA?, (3) BCR?
+- SCC-Modul-Wahl: C2C (beide Verantwortliche), C2P (Verantwortlicher → Auftragsverarbeiter)
+- TIA-Dokumentation: Rechtslage des Empfängerlandes (Geheimdienste, Zugriff) bewerten
+- Handelsvertrag: DPA nach Art. 28 DSGVO als Anhang einbinden
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Drittlandtransfer-Entscheidungsbaum (DSGVO Art. 44-49)
+- SCC-Modul-Übersicht (2021)
+- TIA-Muster-Dokumentation
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+DSGVO: eur-lex.europa.eu (32016R0679). SCC 2021: eur-lex.europa.eu. DPF-Beschluss 2023/1795: eur-lex.europa.eu. Schrems II C-311/18: curia.europa.eu. Unsicherheit bleibt sichtbar.

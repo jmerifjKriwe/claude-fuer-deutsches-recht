@@ -1,50 +1,50 @@
 ---
 name: drg-049-steuerstaat-und-haushaltsgeschichte
-description: "Deutsche Rechtsgeschichte: Steuerstaat Und Haushaltsgeschichte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Steuerstaat und Haushaltsgeschichte. Matrikularbeitraege des Deutschen Bundes, Erzberger-Steuerreform 1919-1920, Reichsabgabenordnung, Finanzausgleich und GG Art. 105-108."
 ---
 
-# Steuerstaat Und Haushaltsgeschichte
+# Steuerstaat und Haushaltsgeschichte
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Steuerstaat Und Haushaltsgeschichte** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Der moderne deutsche Steuerstaat entstand schrittweise. Das Kaiserreich finanzierte sich zunaechst aus Matrikularbeitraegen der Einzelstaaten und Zoellen; erst spaet entstanden echte Reichssteuern. Die Erzberger-Steuerreform 1919-1920 (Matthias Erzberger als Reichsfinanzminister) schuf ein zentrales Besteuerungssystem: Einkommensteuer, Koerperschaftsteuer, Umsatzsteuer. Die Reichsabgabenordnung (RAO) 1919 systematisierte das Steuerverfahren. Das GG 1949 verteilte Steuergesetzgebung und -ertraege zwischen Bund und Laendern (Art. 105-108 GG). Der Finanzausgleich (Art. 107 GG) gleicht Steuerkraft zwischen reichen und armen Bundeslaendern aus.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Erzberger-Steuergesetze 1919-1920 (RGBl. 1919/1920)**: Einkommensteuer, Koerperschaftsteuer, USt
+- **RAO 1919 (RGBl. 1919, 1993)**: Reichsabgabenordnung, Steuerverfahrensrecht
+- **GG Art. 105**: Steuergesetzgebungskompetenz Bund und Laender
+- **GG Art. 106**: Steuererteilungshoheit (Finanzkompetenz)
+- **GG Art. 107**: Finanzausgleich zwischen Laendern
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Matthias Erzberger** (1875-1921): Reichsfinanzminister, Steuerreformer; ermordet 1921
+- **Reichsfinanzministerium**: Zentralbehoerde der Steuergesetzgebung
+- **BVerfG**: Finanzausgleich-Rspr. (z. B. BVerfGE 72, 330; 101, 158)
+- **Bundesfinanzminister**: Haushalt und Steuerrecht
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Erzberger-Reform: Warum wurde sie politisch so bekampft?
+2. Finanzausgleich Art. 107 GG: Verursacht er Anreizprobleme fuer Laender?
+3. Steuerrecht und Sozialstaat: Wie viel Umverteilung erfordert das Sozialstaatsprinzip?
+4. Kalibrierung des Steuersystems: War die Weimarer Reform Vorbild fuer heutige Probleme?
+5. BVerfGE 101, 158 Finanzausgleich: Hat das BVerfG den Gesetzgeber zu Recht korrigiert?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Erzberger-Steuergesetze: RGBl. 1919-1920 via ALEX/OeNB
+- RAO 1919 und AO 1977: gesetze-im-internet.de
+- GG Art. 105-108: gesetze-im-internet.de
+- BVerfGE zum Finanzausgleich: bverfg.de
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste Steuerstaat: 1871-2020
+- Erzberger-Reform: Steuern, Ergebnisse, politische Folgen
+- Finanzausgleich: Art. 107 GG und BVerfGE-Leitlinien
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Erzberger-Gesetze: RGBl. 1919-1920 via ALEX/OeNB. RAO 1919: ALEX/OeNB. AO und EStG: gesetze-im-internet.de. BVerfGE: bverfg.de.

@@ -1,50 +1,54 @@
 ---
 name: rom-061-juristen-ulpian
-description: "Römisches Recht: Juristen Ulpian. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Ulpian (gest. 223 n.Chr.) - produktivster klassischer Jurist, präfectus praetorio, Werke (Ad edictum, Ad Sabinum), ca. 40% der Digesten stammen aus Ulpian nach Lenel."
 ---
 
-# Juristen Ulpian
+# Jurist: Ulpian (Domitius Ulpianus)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Juristen Ulpian** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Ulpian ist der meistzitierte Jurist in den Digesten (nach Lenel ca. 40%). Er war praefectus praetorio unter Alexander Severus und wurde 223 n.Chr. ermordet. Hauptwerke: Ad edictum (83 Bücher), Ad Sabinum (51 Bücher), Regulae, Institutiones. Als Pragmatiker verband er Systematik mit kasuistischem Detail. D. 1.1.1 pr. beginnt die Digesten mit seinem Text.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 1.1.1 pr. (Ulpian)**: Iuri operam daturum prius nosse oportet... - Eingangssatz der Digesten
+- **D. 1.1.10.1 (Ulpian)**: Ius civile, gentium, naturale
+- **D. 50.17.2 (Ulpian)**: Berühmte Regulae
+- **Lenel Palingenesia II**: Werkrekonstruktion Ulpians
+- **D. 1.2.2.50 (Pomponius)**: Ulpians Stellung in der Jurisprudenz
+- **D. 4.4.1 (Ulpian)**: Beispiel seiner Kasuistik
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- Ad edictum: 83-Bücher-Ediktskommentar (größtes Einzelwerk)
+- Ad Sabinum: ius civile-Kommentar in 51 Büchern
+- Regulae: systematische Lehrsätze
+- Institutiones: Lehrbuch
+- praefectus praetorio: höchstes Verwaltungsamt
+- ca. 40% der Digesten: aus Ulpian-Werken
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Ulpian als Kompilator oder Schöpfer? Verhältnis zu Papinian
+2. Interpolationen in Ulpian-Texten: Häufigkeit und Methode
+3. Ulpians Tod: Zusammenhang mit politischen Unruhen?
+4. Verhältnis Ulpian - Paulus: Zeitgenossenschaft, unterschiedliche Stile
+5. Ulpians Systematik: Vorläufer der Pandektenwissenschaft?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Lenel Palingenesia vol. II (Ulpian-Fragment, archive.org)
+- D. 1.1 als Einstieg
+- Honoré Ulpian (2002)
+- Kunkel Herkunft der röm. Juristen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Werkübersicht Ulpian mit Bücherzahlen
+- Memo zur politischen Karriere
+- Digestenanteil-Analyse (Lenel-Daten)
+- Stilvergleich Ulpian vs. Paulus
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Lenel Palingenesia II (archive.org). D. 1.1 (Mommsen-Krüger). Honoré Ulpian (2002). Kunkel.

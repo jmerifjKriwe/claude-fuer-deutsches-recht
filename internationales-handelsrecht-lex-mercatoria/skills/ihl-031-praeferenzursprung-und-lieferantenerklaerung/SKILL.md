@@ -1,50 +1,52 @@
 ---
 name: ihl-031-praeferenzursprung-und-lieferantenerklaerung
-description: "Internationales Handelsrecht und Lex Mercatoria: Praeferenzursprung Und Lieferantenerklaerung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Präferenzieller Ursprung in EU-Freihandelsabkommen (CETA, EUSFTA, EU-UK TCA). Listenregeln, Kumulierung, REX-System, Lieferantenerklärungen nach VO (EU) 2015/2447 Art. 62 und Präferenznachweise (EUR.1, A.TR, REX)."
 ---
 
-# Praeferenzursprung Und Lieferantenerklaerung
+# Präferenzieller Ursprung und Lieferantenerklärungen
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Praeferenzursprung Und Lieferantenerklaerung** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Präferenzursprung berechtigt zu reduzierten Zollsätzen im Rahmen von Freihandelsabkommen (FHA). Er folgt FHA-spezifischen Listenregeln (Tarifsprung, Wertschöpfung, spezifische Verarbeitung). Lieferantenerklärungen nach VO (EU) 2015/2447 Art. 62 sind interne Nachweise für Vorlieferanten-Ursprung. REX (Registered Exporter System) ersetzt Form A und EUR.1 in vielen APS-Ländern.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **UZK Art. 64-68**: Präferenzieller Ursprung
+- **VO (EU) 2015/2447 Art. 62**: Lieferantenerklärung (long-term und per-shipment)
+- **EU-UK TCA Protokoll 1**: Ursprungsregeln für EU-UK-Handel ab 2021
+- **CETA Ursprungsprotokoll**: EU-Kanada-FHA Ursprungsregeln
+- **REX-System VO (EU) 2015/2447 Art. 68-97**: Registrierter Ausführer ersetzt EUR.1
+- **Allgemeines Präferenzsystem (APS)**: Präferenzen für Entwicklungsländer
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Listenregel: produktspezifische Ursprungsregel im jeweiligen FHA-Protokoll
+- Volltständige Gewinnung vs. hinreichende Be-/Verarbeitung: Grundunterscheidung
+- Kumulierung: bilaterale (EU-Partner), diagonale (PEM-Konvention), volle Kumulierung
+- Lieferantenerklärung: Lieferant erklärt Ursprungseigenschaft für Weiterverarbeiter
+- EUR.1: Ursprungszeugnis für bevorzugte FHA; A.TR: Warenverkehrsbescheinigung EU-Türkei
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. CETA: Reicht 50% Wertschöpfung EU-Kanada für alle Waren oder gibt es Listenregeln?
+2. Brexit: A.TR oder EUR.1 für EU-UK-Handel nach TCA?
+3. Lieferantenerklärung: Haftung des Lieferanten bei falscher Erklärung?
+4. REX-System: Alle Exporteure oder nur ab gewissem Warenwert?
+5. Kumulation mit Marokko: Gilt diagonale Kumulierung EU-Marokko-Türkei?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Schritt 1: Anwendbares FHA identifizieren; Schritt 2: Produktspezifische Listenregel lesen
+- Kumulierungsstrategie: PEM-Kumulierungszone nutzen (Eurasisches/Mittelmeersystem)
+- Lieferantenerklärungen: Archivierung mindestens 4 Jahre (UZK Art. 51)
+- REX-Registrierung: Hauptzollamt; Gültigkeit überprüfen vor Export
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Präferenzursprungs-Prüfschema (5 Schritte)
+- Lieferantenerklärung-Muster (lang und kurz)
+- EU-FHA-Übersicht: gültige Abkommen und Ursprungsnachweise
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+UZK (VO 952/2013): eur-lex.europa.eu. VO (EU) 2015/2447: eur-lex.europa.eu. EU-UK TCA: eur-lex.europa.eu. REX: ec.europa.eu. Unsicherheit bleibt sichtbar.

@@ -1,50 +1,52 @@
 ---
 name: ihl-037-akkreditiv-ucp-600
-description: "Internationales Handelsrecht und Lex Mercatoria: Akkreditiv Ucp 600. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Dokumentenakkreditiv nach UCP 600 (ICC 2007). Abstraktionsprinzip, konforme Dokumentenvorlage, Prüffrist 5 Bankarbeitstage (Art. 14b), Diskrepanzbehandlung, eUCP 2.0 und häufige Fehler bei Akkreditivdokumenten."
 ---
 
-# Akkreditiv Ucp 600
+# Akkreditiv nach UCP 600
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Akkreditiv Ucp 600** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Dokumentenakkreditiv (Letter of Credit, L/C) ist die sicherste Zahlungsform im internationalen Handel: Die Bank des Käufers verpflichtet sich unwiderruflich zur Zahlung gegen konforme Dokumente. UCP 600 (ICC Uniform Customs and Practice for Documentary Credits, 2007, 39 Artikel) regelt weltweit den Standard. Wichtigste Neuerung: 5-Bankarbeitstage-Prüffrist (Art. 14 lit. b) und strengere Diskrepanzbehandlung.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **UCP 600 Art. 2**: Definitionen — Honour, Presentation, Complying Presentation
+- **UCP 600 Art. 5**: Dokumente (nicht Waren, Dienstleistungen, Vertragserfüllung)
+- **UCP 600 Art. 14**: Dokumentenprüfung — 5-Bankarbeitstage, Compliance-Standard
+- **UCP 600 Art. 16**: Diskrepante Dokumente — Ablehnung, Waiver, Halten auf Anweisung
+- **UCP 600 Art. 20**: Konnossement-Anforderungen
+- **eUCP v2.0 (ICC 2019)**: Elektronische Präsentation — Ergänzung zu UCP 600
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Abstraktionsprinzip: Akkreditiv unabhängig von Grundgeschäft und Transportvertrag
+- Strikte Konformität: Dokumente müssen akkreditiv-konform sein (keine Substanzdivergenz geduldet)
+- Soft-Law: UCP 600 ist keine Rechtsverordnung — gilt nur durch Einbeziehung ("subject to UCP 600")
+- Diskrepanz: jede Abweichung vom Akkreditiv-Wortlaut → Ablehnung möglich
+- Fraud: Betrugsverdacht als einzige Ausnahme zum Abstraktionsprinzip (englisches/deutsches Recht)
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Tippfehler im Dokumenten-Empfängernamen: Diskrepanz oder tolerierbar?
+2. Art. 14 lit. b: Was passiert wenn Bank 5-Tage-Frist überschreitet?
+3. Akkreditiv-Fraud: Wann kann Käufer Injunction gegen Zahlung erwirken?
+4. eUCP: Kann Konnossement als PDF-Dokument unter eUCP präsentiert werden?
+5. Transferables Akkreditiv Art. 38 UCP: Kann Händler L/C auf Zulieferer übertragen?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Akkreditiv-Eröffnung: Alle Dokumentenanforderungen klar mit Käufer abstimmen
+- Dokumentenprüfung: Checkliste UCP 600 Art. 20-28 für jedes Dokumententyp
+- Diskrepanz-Management: Waiver-Anfrage vs. Neuvorlage vs. Ablehnung priorisieren
+- eUCP: nur wenn Akkreditiv ausdrücklich eUCP einbezieht
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- UCP 600 Dokumenten-Prüfcheckliste (Konnossement, Rechnung, Packzettel, Versicherung)
+- Diskrepanz-Behandlungs-Flowchart
+- eUCP 2.0 Einbeziehungsklausel-Muster
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+UCP 600: iccwbo.org. eUCP 2.0: iccwbo.org. ICC Opinions on UCP 600: iccwbo.org. Schrifttum: Byrne, The Comparison of UCP 600 (2007). Unsicherheit bleibt sichtbar.

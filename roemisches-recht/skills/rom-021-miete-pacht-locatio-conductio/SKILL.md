@@ -1,50 +1,54 @@
 ---
 name: rom-021-miete-pacht-locatio-conductio
-description: "Römisches Recht: Miete Pacht Locatio Conductio. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Locatio conductio nach D. 19.2 und Gaius Inst. 3.142-147 - locatio conductio rei (Sachmiete), operarum (Dienstmiete), operis (Werkvertrag) und actio locati/conducti."
 ---
 
-# Miete Pacht Locatio Conductio
+# Miete und Pacht: locatio conductio
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Miete Pacht Locatio Conductio** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die locatio conductio ist ein einheitlicher Konsensualkontrakt, der Miete, Pacht, Dienst- und Werkvertrag umfasst. Gaius Inst. 3.142 verweist auf die strukturelle Ähnlichkeit zum Kauf. Drei Untertypen: locatio conductio rei (Sachmiete/-pacht), operarum (Verdingung von Arbeitskraft), operis (Werkherstellung). D. 19.2 (Locati conducti) ist der zentrale Titel.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius Inst. 3.142**: Locatio conductio - Ähnlichkeit mit emptio venditio
+- **D. 19.2.1 (Ulpian)**: Locati conducti actio - Gegenstand
+- **D. 19.2.2 (Gaius)**: Drei Untertypen
+- **D. 19.2.9 pr. (Ulpian)**: Merces als Entgelt
+- **D. 19.2.22 pr. (Paulus)**: Haftung des conductor operis
+- **Iust. Inst. 3.24**: Locatio conductio systematisch
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- locator: Vermieter/Verpächter (gibt zur Nutzung)
+- conductor: Mieter/Pächter (nimmt zur Nutzung)
+- merces: Mietzins/Pachtzins
+- locatio conductio rei: Sachmiete (Miete/Pacht)
+- locatio conductio operarum: Dienstverdingung
+- locatio conductio operis: Werkvertrag
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Einheitsvertrag oder drei verschiedene Vertragstypen?
+2. Haftungsmaßstab: culpa oder custodia bei conductor?
+3. Gefahrtragung: wer trägt Preisgefahr bei zufälligem Untergang?
+4. Locatio conductio und Sklavenarbeit: Sonderregeln
+5. Vergleich: locatio conductio vs. BGB §§ 535ff. (Miete) und §§ 611ff. (Dienst-/Werkvertrag)
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 19.2 (Locati conducti) als Haupttitel
+- Gaius Inst. 3.142-147
+- Iust. Inst. 3.24
+- Kaser RP I §§ 205-215; Zimmermann Law of Obligations Kap. 14
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Übersicht: drei Untertypen mit Charakteristika
+- Pflichtenvergleich locator - conductor
+- Haftungsschema mit Verschuldensmaßstab
+- Vergleich röm. Locatio vs. BGB
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 19.2 (Mommsen-Krüger). Gaius Inst. 3. Iust. Inst. 3.24. Zimmermann Law of Obligations. Kaser RP I.

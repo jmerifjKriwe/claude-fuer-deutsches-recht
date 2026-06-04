@@ -1,50 +1,50 @@
 ---
 name: drg-004-stadtrecht-und-handelsstaedte
-description: "Deutsche Rechtsgeschichte: Stadtrecht Und Handelsstaedte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Stadtrecht und Handelsstaedte im Mittelalter. Magdeburger Recht, Luebisches Recht, Hanse, Kaufmannsgilden und Entstehung des fruehen Handelsrechts in Stadtrechtsfamilien."
 ---
 
-# Stadtrecht Und Handelsstaedte
+# Stadtrecht und Handelsstaedte
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Stadtrecht Und Handelsstaedte** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das mittelalterliche Stadtrecht entstand als Privileg der Stadtgruender (Landesherren, Koenige) oder durch Gewohnheitsbildung in Handelszentren. Die bedeutendsten Stadtrechtsfamilien sind das Magdeburger Recht (ausgestrahlt in den Osten bis nach Polen, Boehmen, Ungarn) und das Luebische Recht (Norddeutschland, Ostseeraum, Hanse). Handelsstaedte wie Luebeck, Hamburg, Koeln und Nuernberg entwickelten fruehes Handelsrecht: Wechselrecht, Seerecht, Kaufleute als eigene Rechtsgemeinschaft. Die Hanse als Handelsbund (13.-17. Jh.) koordinierte Handelsrecht und Kaufmannsrecht.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Magdeburger Schoeffen-Weistum** (1261): Grundlage des Magdeburger Rechts
+- **Luebisches Recht** (Luebecker Stadtrecht 1240): Grundlage des Luebischen Rechts
+- **Hamburg Stadtrecht 1270 (Ordeelbook)**: Fruehes Hamburger Handels- und Prozessrecht
+- **Hanse-Rezesse** (14.-16. Jh.): Beschluesse der Hansetage
+- **Nuernberger Stadtrecht 1564**: Spaetmittelalterliches Beispiel komplexer Stadtverfassung
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Stadtraete** der Handelsstaedte: Normgeber fuer Stadtrecht
+- **Schoeffen (Magdeburg)**: Rechtsfinder und Obergericht fuer ausgestrahle Rechte
+- **Hansetage**: Beschlussgremium des Hansebundes
+- **Kaufmannsgilden**: Privatrechtliche Normgeber fuer Handelsbrauch
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Stadtrecht und Feudalrecht: Wie autonomn waren Staedte von Landesherren?
+2. Magdeburger vs. Luebisches Recht: Wo verlief die Grenze in Ostmitteleuropa?
+3. Handelsbrauch und Stadtrecht: Welches Recht hatte Vorrang bei Streitigkeiten?
+4. Hanse: War sie ein Rechtssubjekt mit eigenem Recht oder nur eine Interessengemeinschaft?
+5. Kontinuitaet zum HGB: Welche Elemente des mittelalterlichen Stadtrechts leben im modernen HGB weiter?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Stadtrechtsquellen: MGH Constitutiones, Stadtrechts-Editionen der Landesarchive
+- Hansische Quellen: Hansisches Urkundenbuch (HUB) und Hanserezesse
+- Keine Fernwirkung moderner Handelsrechtsbegriffe auf mittelalterliche Praxis
+- Vergleichende Stadtrechtsforschung: Dilcher, Ebel, Kroeschell als Sekundaerliteratur
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Stadtrechtsfamilien-Karte: Magdeburger und Luebisches Recht im Ueberblick
+- Handelsrechtliche Kerninstitute des Stadtrechts: Wechsel, Seerecht, Kauf
+- Vergleich mittelalterliches Stadtrecht vs. HGB 1897
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Stadtrechtsquellen: MGH Constitutiones et Acta, Landesarchiv-Editionen. Hansisches Urkundenbuch (HUB): historische Ausgabe. Hansische Rezesse: Historische Kommission. Kein Blindzitat.

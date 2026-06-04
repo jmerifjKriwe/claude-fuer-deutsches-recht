@@ -1,50 +1,52 @@
 ---
 name: rom-016-actio-publiciana
-description: "Römisches Recht: Actio Publiciana. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Actio Publiciana nach D. 6.2 (Ulpian) - Fiktionsklage für bonitarischen Eigentümer, Voraussetzungen, Verhältnis zur rei vindicatio und zur exceptio rei venditae et traditae."
 ---
 
 # Actio Publiciana
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Actio Publiciana** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die actio Publiciana ist eine prätorische Fiktionsklage (actio ficticia), die dem Erwerber einer res mancipi ohne förmliche Übereignung Schutz gibt, als ob die Ersitzungszeit bereits abgelaufen wäre. Das Edikt des Prätors fingiert die vollendete usucapio. Sie schützt den bonitarischen Eigentümer gegen den Besitzer (außer gegen den wahren Eigentümer). D. 6.2 (De Publiciana in rem actione) ist der zentrale Titel.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 6.2.1 pr. (Ulpian)**: Edikt zur actio Publiciana
+- **D. 6.2.7.1 (Ulpian)**: Fiktion der abgelaufenen Ersitzungszeit
+- **D. 6.2.9.4 (Ulpian)**: Exceptio gegen Klage des quiritischen Eigentümers
+- **Gaius Inst. 4.36**: Fiktionsklage - Erklärung des Prinzips
+- **D. 44.4.4.24 (Ulpian)**: Exceptio rei venditae et traditae als Gegeneinrede
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- actio ficticia: Klage mit Fiktion (als-ob-Klausel in der Formel)
+- bonitarisches Eigentum: prätorisch geschütztes Eigentum (in bonis esse)
+- exceptio iusti dominii: Einrede des quiritischen Eigentümers
+- exceptio rei venditae et traditae: Gegeneinrede des Erwerbers
+- replicatio doli: Replik bei arglistigem Verhalten des Eigentümers
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Verhältnis actio Publiciana - rei vindicatio: welche Klage hat Vorrang?
+2. Schutz gegen den wahren Eigentümer: nur bei exceptio rei venditae?
+3. Fortbestehen der actio Publiciana nach Justinians Einheitsrecht
+4. Ediktaler Ursprung: Publikius als historischer Prätor?
+5. Dogmatischer Wert: Zeugnis für prätorisches Eigentumskonzept
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 6.2 (De Publiciana in rem actione)
+- Gaius Inst. 4.36 zur actio ficticia
+- Lenel Edictum Perpetuum §§ 71-72 (Formelrekonstruktion)
+- Kaser RP I §§ 116, 129; Watson Roman Private Law around 200 BC
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: Voraussetzungen und Abwehrmittel der actio Publiciana
+- Vergleich: rei vindicatio vs. actio Publiciana
+- Formelrekonstruktion nach Lenel
+- Memo zum bonitarischen Eigentum
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 6.2 (Mommsen-Krüger). Gaius Inst. 4. Lenel Edictum (archive.org). Kaser RP I.

@@ -1,50 +1,51 @@
 ---
 name: drg-028-notverordnung-und-demokratiekrise
-description: "Deutsche Rechtsgeschichte: Notverordnung Und Demokratiekrise. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Notverordnungen und Demokratiekrise 1930-1933. Art. 48 WRV in der Praxis, Praesidialkabinette Bruening, Papen, Schleicher, Notverordnungsflut und legaler Weg zur NS-Machtergreifung."
 ---
 
-# Notverordnung Und Demokratiekrise
+# Notverordnung und Demokratiekrise (1930-1933)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Notverordnung Und Demokratiekrise** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Praesidialkabinette 1930-1933 regierten Deutschland faktisch per Notverordnung (Art. 48 WRV). Bruening erliess 1930-1932 ueber 60 Notverordnungen, Papen 1932 ueber 50. Der Reichstag wurde regelmassig aufgeloest. Die Notverordnungsflut 1930-1933 aushoehlte den Parlamentarismus der WRV. Als Legitimation diente angebliche Staatsnotlage. Das Ermächtigungsgesetz vom 24. Maerz 1933 (RGBl. I 1933, 141) gab der Reichsregierung ohne parlamentarische Kontrolle Gesetzgebungskompetenz. Carl Schmitt rechtfertigte Art. 48 als Instrument des Ausnahmerechts (Politische Theologie, 1922); Hans Kelsen widersprach (Wesen und Wert der Demokratie, 1929).
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Art. 48 WRV**: Notverordnungsermaechtigung des Reichspraesidenten
+- **Art. 25 WRV**: Aufloesungsrecht des Reichspraesidenten
+- **Ermächtigungsgesetz 1933 (RGBl. I 1933, 141)**: Ende der WRV-Demokratie
+- **RGBl. I 1930-1932**: Notverordnungssammlung (ALEX/OeNB)
+- **GG Art. 81**: Gesetzgebungsnotstand (gemaessigte Reaktion auf Art. 48 WRV)
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Bruenung** (Reichskanzler 1930-1932): Erster Notverordnungskanzler
+- **Papen** (1932): Staatsstreich gegen Preussen (20. Juli 1932)
+- **Schleicher** (1932-1933): Letzter Kanzler vor Hitler
+- **Carl Schmitt** (1888-1985): Legitimationstheoretiker des Ausnahmerechts
+- **Paul von Hindenburg** (1847-1934): Reichspraesident, unterzeichnete Notverordnungen
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. War Bruennings Notverordnungspolitik verfassungsmaessig nach Art. 48 WRV?
+2. Preussenschlag 1932: Hatte Papen das Recht dazu? Staatsgerichtshofentscheidung?
+3. Ermächtigungsgesetz 1933: Waren die Verfassungsvoraussetzungen (2/3 Mehrheit) erfuellt?
+4. Legitimationstheorie Schmitt: Darf man einen Feind der Demokratie als Rechtsquelle verwenden?
+5. GG Art. 81 als Antwort: Loest es das Art. 48-Problem oder schafft neue Risiken?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Notverordnungstext: RGBl. I 1930-1932 via ALEX/OeNB
+- Ermächtigungsgesetz 1933: RGBl. I 1933, 141 via ALEX/OeNB; documentArchiv.de
+- Schmitt Politische Theologie (1922): historische Erstausgabe, Seite angeben
+- Reichstagsprotokolle 1930-1933: reichstagsprotokolle.de
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Statistik Notverordnungen 1930-1933 mit Gegenuebersteltlung parlamentarischer Gesetzgebung
+- Art. 48 WRV: Voraussetzungen und tatsaechliche Anwendung
+- Ermächtigungsgesetz: Parlamentsabstimmung, Ergebnis, formale Verfassungsmaessigkeit
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Notverordnungen: RGBl. I 1930-1933 via ALEX/OeNB. Ermächtigungsgesetz: documentArchiv.de und ALEX/OeNB. Reichstagsprotokolle: reichstagsprotokolle.de. Schmitt-Texte: Erstausgaben mit Seitenangabe.

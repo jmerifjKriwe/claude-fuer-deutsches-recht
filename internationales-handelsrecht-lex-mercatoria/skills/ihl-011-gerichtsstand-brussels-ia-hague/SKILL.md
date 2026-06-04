@@ -1,50 +1,52 @@
 ---
 name: ihl-011-gerichtsstand-brussels-ia-hague
-description: "Internationales Handelsrecht und Lex Mercatoria: Gerichtsstand Brussels Ia Hague. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Gerichtsstand nach Brüssel Ia-VO (EU) 1215/2012 und Haager Gerichtsstandsübereinkommen 2005. Art. 25 Gerichtsstandsvereinbarung, ausschließlicher Gerichtsstand, Lis pendens und Anerkennung ausländischer Urteile."
 ---
 
-# Gerichtsstand Brussels Ia Hague
+# Gerichtsstand: Brüssel Ia und Haager Übereinkommen
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Gerichtsstand Brussels Ia Hague** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Brüssel Ia-VO (EU) 1215/2012, anwendbar seit 2015, regelt die internationale Zuständigkeit und Urteilsanerkennung in der EU. Art. 25 erlaubt Gerichtsstandsvereinbarungen zugunsten eines EU-Gerichts. Das Haager Übereinkommen über Gerichtsstandsvereinbarungen (2005) erweitert dieses System auf wichtige Drittstaaten (Mexiko, Montenegro, Singapore, UK nach Brexit, EU).
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Art. 4 Brüssel Ia**: Grundregel — Beklagtenwohnsitz
+- **Art. 7 Nr. 1 Brüssel Ia**: Besonderer Gerichtsstand — Erfüllungsort (lit. b: Lieferort Kaufvertrag)
+- **Art. 25 Brüssel Ia**: Gerichtsstandsvereinbarung — ausschließlich oder nicht ausschließlich
+- **Art. 29-32 Brüssel Ia**: Lis pendens und zusammenhängende Klagen
+- **Art. 45 Brüssel Ia**: Verweigerungsgründe bei Anerkennung
+- **Haager GStÜ 2005 Art. 3**: Ausschließliche Gerichtsstandsvereinbarung; Art. 8 Anerkennung
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Ausschließlicher vs. nicht ausschließlicher Gerichtsstand (Art. 25 Abs. 1)
+- Erfüllungsort Art. 7 Nr. 1 lit. b: Lieferort für Warenkauf, Erbringungsort für Dienstleistungen
+- Lis pendens: Torpedo-Klagen und reformiertes Prioritätsprinzip (Art. 31 Abs. 2)
+- Haager Übereinkommen: Nur ausschließliche Vereinbarungen; gemischte Klauseln problematisch
+- Brexit: UK trat Haager GStÜ 2005 bei (ab 1. Jan 2021 als eigenständiger Vertragsstaat)
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Welcher Erfüllungsort gilt bei CIF-Lieferung für Art. 7 Nr. 1 Brüssel Ia?
+2. Schiedsklausel und parallele staatliche Gerichtsstandsvereinbarung — Widerspruch?
+3. Torpedo-Klage nach reformiertem Lis-pendens-System (Art. 31 Abs. 2) noch möglich?
+4. Gilt Art. 25 Brüssel Ia auch wenn nur eine Partei in EU ansässig ist?
+5. Haager GStÜ: Wann ist eine Vereinbarung "ausschließlich" i.S.d. Art. 3 lit. b?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Erst Brüssel Ia prüfen (wenn beide Parteien EU-Bezug), dann Haager GStÜ
+- Erfüllungsort bei Warenkauf: physischer Lieferort nach Incoterms-Klausel
+- Lis-pendens-Reform: Gerichtsstand-Vereinbarungsgericht hat Priorität (Art. 31 Abs. 2)
+- Schiedsklausel und staatliche Gerichtsstandsklausel immer aufeinander abstimmen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Gerichtsstandsklausel-Muster (ausschließlich, EU und Drittland)
+- Tabelle: Brüssel Ia vs. Haager GStÜ Anwendungsbereich
+- Lis-pendens-Analyse für Risikofälle
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Brüssel Ia: eur-lex.europa.eu (32012R1215). Haager GStÜ: hcch.net. EuGH-Rspr.: curia.europa.eu. Schrifttum: Rauscher EuZPR/EuIPR Brüssel Ia-VO. Unsicherheit bleibt sichtbar.

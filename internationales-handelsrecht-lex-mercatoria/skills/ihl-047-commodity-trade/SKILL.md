@@ -1,50 +1,52 @@
 ---
 name: ihl-047-commodity-trade
-description: "Internationales Handelsrecht und Lex Mercatoria: Commodity Trade. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Commodity-Handel — Rohstoff- und Agrarprodukthandel. GAFTA/FOSFA-Standardverträge, ISDA-Rahmenverträge für Derivate, Preissicherung (Hedging), String-Trading-Struktur, Ware-Dokument-Prinzip und CISG-Anwendbarkeit."
 ---
 
 # Commodity Trade
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Commodity Trade** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Commodity-Handel (Rohstoffe, Agrarprodukte, Energie) hat eigene Vertragstandardisierungen: GAFTA (Grain and Feed Trade Association), FOSFA (Federation of Oils, Seeds and Fats Associations), ISDA (Derivate). String trading (Kettenverkäufe während Transit) und Preissicherung über Futures sind Kernelemente. CISG gilt für physische Lieferverträge, aber Standardverträge weichen oft ab.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **GAFTA 100**: Standardkaufvertrag für Getreide CIF; GAFTA Schiedsregeln
+- **FOSFA 54**: Soja-Schrot-Standardvertrag; FOSFA Arbitration Rules
+- **ISDA 2002 Master Agreement**: Derivate-Rahmenvertrag; Schedules für Commodity Swaps
+- **CISG Art. 1/2**: Anwendbar auf physische Commodity-Lieferverträge
+- **ICE/CME Terminbörsen**: Futures und Optionen auf Commodities
+- **Incoterms CIF/FOB**: Standard für physische Rohstofflieferungen
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- String Trading: Kettenverkauf eines Konnossements — jeder Käufer wird Verkäufer
+- Differential (Basis): Preisaufschlag/Abschlag zum Börsenpreis (Qualität, Lage)
+- Hedging: Absicherung des Preisrisikos durch Futures (Long/Short-Hedge)
+- GAFTA Arbitration: schnelles Schiedsverfahren in London für Handelsbräuche
+- Open Position: ungesichertes Preisrisiko im Warenbuch
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. GAFTA-Vertrag und CISG: Welche Norm geht vor wenn beide anwendbar?
+2. String-Trading-Kette: Käufer Nr. 5 nimmt Ware ab — kann er Mängelanspruch gegen ursprünglichen Verkäufer?
+3. ISDA und Commodity Swap: Wie triggert Physical Settlement und was sind die Lieferpflichten?
+4. Basis-Risiko: Preis steigt aber Hedge greift nicht — wer haftet im OTC-Vertrag?
+5. GAFTA Default: Käufer zahlt nicht — Marktschadenberechnung nach GAFTA Rule 19?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Standardvertrag wählen: GAFTA (Getreide), FOSFA (Öle), API (Energie) nach Ware
+- CISG-Ausschluss: in GAFTA/FOSFA oft durch englisches Recht-Klausel erledigt
+- Hedging-Strategie: Long-Hedge für Käufer, Short-Hedge für Verkäufer
+- String Trading: Dokumente-Kette lückenlos halten (BL-Indossament)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Commodity-Standardverträge-Übersicht (GAFTA, FOSFA, ISDA)
+- String-Trading-Dokumentenfluss
+- Hedging-Strategie-Matrix
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+GAFTA-Verträge: gafta.com. FOSFA-Verträge: fosfa.org. ISDA 2002 MA: isda.org. Incoterms 2020: iccwbo.org. Unsicherheit bleibt sichtbar.

@@ -1,50 +1,51 @@
 ---
 name: drg-009-naturrecht-und-vernunftrecht
-description: "Deutsche Rechtsgeschichte: Naturrecht Und Vernunftrecht. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Naturrecht und Vernunftrecht im 17. und 18. Jahrhundert. Grotius, Pufendorf, Wolff, Kant und der Einfluss auf ALR, Code Civil und fruehe Kodifikationsbewegung."
 ---
 
-# Naturrecht Und Vernunftrecht
+# Naturrecht und Vernunftrecht
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Naturrecht Und Vernunftrecht** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Naturrecht des 17./18. Jh. war die intellektuelle Grundlage der Kodifikationsbewegung. Hugo Grotius (De iure belli ac pacis, 1625) begruendete das saekularisierte Naturrecht. Samuel von Pufendorf (De iure naturae et gentium, 1672) entwickelte es weiter. Christian Wolff (Jus naturae, 8 Bde., 1740-1748) schuf das systematischste Naturrechtssystem. Kants Metaphysik der Sitten (1797) lieferte die kritiische Grundlage. Naturrecht beeinflusste das ALR 1794 (Preussens Vernunftrechtskodifikation), den Code Civil 1804 (Rechtsgleichheit) und die fruehen deutschen Verfassungen. Mit der Historischen Rechtsschule (Savigny, 1814 ff.) wurde das apriorische Naturrecht abgeloest.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Grotius, De iure belli ac pacis** (1625): Saekularisiertes Naturrecht, Voelkerrecht
+- **Pufendorf, De iure naturae et gentium** (1672): Soziales Naturrecht, Vertragslehre
+- **Wolff, Jus naturae** (8 Bde., 1740-1748): Systematisches Naturrecht
+- **Kant, Metaphysik der Sitten** (1797): Kritisches Vernunftrecht, Rechtslehre Teil I
+- **ALR 1794 Einleitung §§ 1-10**: Vernunftrechtliche Prinzipien als Gesetzesgrundlage
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Hugo Grotius** (1583-1645): Vater des modernen Naturrechts
+- **Samuel von Pufendorf** (1632-1694): Naturrecht und Voelkerrecht
+- **Christian Wolff** (1679-1754): Scholastisches Vernunftrechtssystem
+- **Immanuel Kant** (1724-1804): Kritisches Vernunftrecht, kategorischer Imperativ
+- **Carl Gottlieb Svarez** (1746-1798): Naturrechtlicher Hauptredaktor des ALR
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Saekularisiertes Naturrecht: Brauchte man Gott noch als Naturrechtsbegruender nach Grotius?
+2. Kant und das Recht: Ist Kants Rechtslehre Naturrecht oder Rechtspositivismus?
+3. Naturrecht und Kodifikation: War das ALR eine Naturrechtskonkretisierung oder Positivierung?
+4. Ende des Naturrechts durch Savigny 1814: Totaler Bruch oder Weiterwirken?
+5. Naturrechtsrenaissance nach 1945: Radbruch-Formel als Neo-Naturrecht?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Grotius De iure belli: historische Erstausgabe (1625) oder Facsimile-Editionen
+- Pufendorf De iure naturae: historische Edition (1672 ff.)
+- Kant Metaphysik der Sitten: Akademie-Ausgabe Bd. VI (1907)
+- ALR: ALEX/OeNB; Savigny Vom Beruf (1814): Erstausgabe Heidelberg
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Naturrechts-Stammbaum: Grotius, Pufendorf, Wolff, Kant in Beziehung
+- Einfluss des Vernunftrechts auf ALR, Code Civil, BGB
+- Vergleich Naturrecht vs. Savignys Historische Schule: Methode und Ergebnis
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Grotius 1625, Pufendorf 1672, Wolff 1740-1748: historische Erstausgaben. Kant Metaphysik der Sitten: Akademie-Ausgabe Bd. VI. ALR: ALEX/OeNB. Savigny 1814: Erstausgabe Heidelberg.

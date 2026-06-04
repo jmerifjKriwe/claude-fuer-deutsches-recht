@@ -1,50 +1,53 @@
 ---
 name: rom-043-aequitas
-description: "Römisches Recht: Aequitas. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Aequitas als Billigkeitsprinzip - Verhältnis zu ius strictum, prätorisches Recht als Korrektiv (D. 1.1.7.1 Papinian), aequitas und ius gentium nach D. 1.1.10 (Ulpian)."
 ---
 
-# Aequitas
+# Aequitas - Billigkeit im römischen Recht
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Aequitas** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Aequitas bezeichnet im römischen Recht die Billigkeit als Korrektiv des strengen Rechts (ius strictum). Papinian definiert das ius praetorium als viva vox aequitatis (D. 1.1.7.1). Ulpian verbindet aequitas mit ius naturale und ius gentium (D. 1.1.10). Das prätorische Edikt entwickelt das Zivilrecht weiter durch Billigkeitserwägungen. In der Digestenepoche ist aequitas ein Schlüsselargument für Rechtsfortbildung.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 1.1.7.1 (Papinian)**: Ius praetorium als viva vox aequitatis
+- **D. 1.1.10 (Ulpian)**: Ius naturale, ius gentium, ius civile und aequitas
+- **D. 50.17.56 (Gaius)**: Aequitas als Auslegungsmaßstab
+- **D. 12.6.14 (Pomponius)**: Naturalis aequitas und Bereicherungsrecht
+- **Iust. Inst. 1.1 pr.**: Iustitia als Grundlage des Rechts
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- aequitas: Billigkeit, gerechte Gleichbehandlung
+- ius strictum: strenges formales Recht
+- ius honorarium: prätorisches Recht als Korrektiv
+- viva vox aequitatis: Prätorisches Recht als lebendige Stimme der Billigkeit
+- benigna interpretatio: milde Auslegung aus Billigkeitsgründen
+- ius naturale: Naturrecht als höchste Ebene der aequitas
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Aequitas vs. ius: Wie wird das Spannungsverhältnis aufgelöst?
+2. Prätorisches Recht als institutionalisierte aequitas?
+3. Religiöse vs. philosophische Grundlagen der aequitas
+4. Stoische Naturrechtslehre als Quelle der aequitas-Konzeption
+5. Einfluss auf mittelalterliche Canonistik und Billigkeitsrecht (equity in England)
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 1.1 (De iustitia et iure) als Einstieg
+- Papinian D. 1.1.7.1; Ulpian D. 1.1.10
+- Kaser RP I §§ 3-8; Schulz Principles of Roman Law
+- Vergleich: equity in England vs. röm. aequitas
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: aequitas im Verhältnis zu ius und prätorischem Recht
+- Typische aequitas-Argumente in den Digesten
+- Memo: aequitas und Naturrecht
+- Vergleich röm. aequitas vs. equity (Common Law)
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 1.1 (Mommsen-Krüger). Papinian D. 1.1.7.1; Ulpian D. 1.1.10. Kaser RP I. Schulz Principles.

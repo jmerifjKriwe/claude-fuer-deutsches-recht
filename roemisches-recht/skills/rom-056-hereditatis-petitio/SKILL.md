@@ -1,50 +1,54 @@
 ---
 name: rom-056-hereditatis-petitio
-description: "Römisches Recht: Hereditatis Petitio. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Hereditatis petitio (Erbschaftsklage) nach D. 5.3 und Gaius Inst. 4.16 - dingliche Klage des Erben gegen Erbschaftsbesitzer, Haftung des gutgläubigen und bösgläubigen Erbschaftsbesitzers."
 ---
 
-# Hereditatis Petitio
+# Hereditatis petitio - Erbschaftsklage
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Hereditatis Petitio** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die hereditatis petitio ist die dingliche Klage des Erben gegen denjenigen, der die Erbschaft als Erbe oder Erbschaftsbesitzer (pro herede/pro possessore) innehat. D. 5.3 enthält die klassische Kasuistik. Der Beklagte muss die Erbschaft herausgeben; seine Haftung richtet sich nach gutem oder bösem Glauben. Ähnlich wie bei der rei vindicatio: gutgläubiger Erbschaftsbesitzer haftet milder.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 5.3.1 (Callistratus)**: Hereditatis petitio - Einleitung
+- **D. 5.3.20.6 (Ulpian)**: Haftung des gutgläubigen Erbschaftsbesitzers
+- **D. 5.3.25.11 (Ulpian)**: Bösgläubiger Besitzer haftet strenger
+- **D. 5.3.13 pr. (Ulpian)**: Pro herede possessor
+- **Gaius Inst. 4.16**: Hereditatis petitio als actio in rem
+- **SC Iuventianum (129 n.Chr.)**: Gegenüberstellung gutgläubiger/bösgläubiger Besitzer
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- hereditatis petitio: Erbschaftsklage (actio in rem)
+- pro herede possidere: Erbschaft als Erbe besitzen
+- pro possessore possidere: Erbschaft ohne Rechtstitel besitzen
+- SC Iuventianum: Schlüsselreskript zur Haftungsabstufung
+- ficte possidere: fingierte Besitzstellung bei arglistiger Besitzaufgabe
+- querela inofficiosi testamenti: Anfechtungsklage (Gegenstück)
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Verhältnis hereditatis petitio - rei vindicatio: Überschneidungen
+2. SC Iuventianum: Datum und Inhalt genau
+3. Pro possessore possidere: Haftung ohne Erbrechtsbehauptung
+4. Konsequenz gutgläubiger Erwerb: muss der wirkliche Erbe weichen?
+5. Vergleich: röm. Erbschaftsklage vs. BGB § 2018 (Erbschaftsanspruch)
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 5.3 (De hereditatis petitione) als Haupttitel
+- Gaius Inst. 4.16; SC Iuventianum
+- Kaser RP I §§ 355-365
+- Zimmermann Law of Succession
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: Voraussetzungen der hereditatis petitio
+- Haftungsübersicht: gutgläubig vs. bösgläubig
+- Memo zum SC Iuventianum
+- Vergleich röm. Erbschaftsklage vs. BGB § 2018
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 5.3 (Mommsen-Krüger). Gaius Inst. 4. SC Iuventianum. Kaser RP I. Zimmermann.

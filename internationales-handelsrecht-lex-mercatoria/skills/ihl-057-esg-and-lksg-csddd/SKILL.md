@@ -1,50 +1,52 @@
 ---
 name: ihl-057-esg-and-lksg-csddd
-description: "Internationales Handelsrecht und Lex Mercatoria: Esg And LkSG CSDDD. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: ESG in der Lieferkette — LkSG 2023, EU CSDDD 2024 und EU-Taxonomie-VO (EU) 2020/852. Umwelt-, Sozial- und Governance-Pflichten, Berichterstattung (CSRD), Lieferkettenklauseln und Greenwashing-Risiken."
 ---
 
-# Esg And LkSG CSDDD
+# ESG, LkSG und CSDDD in der Lieferkette
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Esg And LkSG CSDDD** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+ESG (Environmental, Social, Governance) hat erhebliche Rechtsrelevanz: LkSG verpflichtet zu Menschenrechts-Due-Diligence; CSDDD (RL 2024/1760) erweitert auf Klima (Paris-Ziel-Alignment); CSRD verpflichtet zur nachhaltigkeitsbezogenen Berichterstattung. Die EU-Taxonomie definiert welche Wirtschaftsaktivitäten als nachhaltig gelten.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **LkSG §§ 2-3**: Menschenrechts- und Umweltsorgfaltspflichten
+- **CSDDD Art. 1 (RL 2024/1760)**: Erweiterung auf Klimaschutzplan (Art. 1 Abs. 1 lit. a i.V.m. Art. 22)
+- **CSRD (RL 2022/2464)**: Corporate Sustainability Reporting Directive — ab 2024-2028 gestaffelt
+- **EU-Taxonomie-VO (EU) 2020/852**: Nachhaltigkeitskriterien für Kapitalmarkt
+- **ESRS (European Sustainability Reporting Standards)**: EFRAG-Standards für CSRD-Berichte
+- **Greenwashing-RL (EU) 2024/825**: Verbot irreführender Umweltaussagen
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Doppelte Wesentlichkeit (CSRD): Inside-Out (Auswirkungen auf Umwelt/Gesellschaft) + Outside-In (ESG-Risiken auf Unternehmen)
+- Taxonomie-Alignment: 6 Umweltziele + Do-No-Significant-Harm + Minimum Social Safeguards
+- Paris-Alignment (CSDDD): Unternehmen müssen Klimaübergangsplan mit 1,5°C-Ziel aufstellen
+- Scope 3 Emissionen: indirekte Emissionen in Wertschöpfungskette (CSRD berichtspflichtig)
+- Greenwashing: irreführende Umweltkennzeichnung nach neuer EU-RL verboten
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Supplier Code of Conduct: Welche ESG-Mindeststandards sind LkSG-konform?
+2. CSRD-Berichterstattung: Ab wann gilt für welche Unternehmensgrößen?
+3. Taxonomie-Alignment: Reicht ISO 14001 als Nachweis für Do-No-Significant-Harm?
+4. Greenwashing-Klage: Vertragsrechtliche Konsequenz einer Greenwashing-Werbung?
+5. CSDDD Paris-Alignment: Kann Unternehmen vertraglich auf Lieferanten-Klimaplan bestehen?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- ESG-Reifegrad-Assessment vor CSRD-Berichtspflicht
+- Lieferkettenklausel: ESG-Mindeststandards + Audit-Recht + Vertragsstrafe
+- Taxonomie-Check: Wirtschaftsaktivitäten der Lieferanten gegen 6 Umweltziele screenen
+- Greenwashing-Risiko: Marketingaussagen rechtlich prüfen vor Veröffentlichung
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- ESG-Lieferkettenklausel-Muster
+- CSRD-Berichtspflichten-Zeitplan
+- Taxonomie-Alignment-Checkliste
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+LkSG: gesetze-im-internet.de. CSDDD RL 2024/1760: eur-lex.europa.eu. CSRD RL 2022/2464: eur-lex.europa.eu. Taxonomie-VO 2020/852: eur-lex.europa.eu. Greenwashing-RL 2024/825: eur-lex.europa.eu. Unsicherheit bleibt sichtbar.

@@ -1,50 +1,52 @@
 ---
 name: ihl-093-vertiefung-01-quellenmatrix
-description: "Internationales Handelsrecht und Lex Mercatoria: Vertiefung 01 Quellenmatrix. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Quellenmatrix für internationale Handelsfälle. Systematisierung von Primär- (CISG, PICC, Incoterms, UCP 600), Sekundär- und Tertiärquellen, Datenbanken (CISG-online, jusmundi, trans-lex), Zitierpflichten und Verifikation."
 ---
 
-# Vertiefung 01 Quellenmatrix
+# Quellenmatrix Internationales Handelsrecht
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Vertiefung 01 Quellenmatrix** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Eine strukturierte Quellenmatrix systematisiert die relevanten Quellen für internationale Handelsfälle nach Geltungskraft (verbindlich/nicht-verbindlich), Zugänglichkeit und Aktualität. Primärquellen sind Vertragstext, Gesetze und Übereinkommen; Sekundärquellen sind Kommentare und Gutachten; Tertiärquellen Schiedsspruch-Datenbanken und Lehrwerke.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **uncitral.un.org**: CISG, MLETR, Model Law Schiedsgerichtsbarkeit, UNCITRAL Digest of CISG
+- **unidroit.org**: PICC 2016, Kommentare, Case Law Database
+- **iccwbo.org**: Incoterms 2020, UCP 600, URDG 758, ICC Regeln 2021, Opinions
+- **trans-lex.org (CENTRAL)**: Transnational Law Principles mit Schiedsreferenzen
+- **jusmundi.com**: Internationale Schiedssprüche (ICC, LCIA, ICSID — transparente Awards)
+- **eur-lex.europa.eu**: EU-Sekundärrecht (Rom I, Brüssel Ia, Dual-Use-VO, Sanktionen)
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Verbindliche Quellen: ratifizierte Übereinkommen, nationales Recht, Vertragsklauseln
+- Soft Law: PICC, Incoterms, UCP 600 — nur verbindlich durch Parteivereinbarung
+- Schiedssprüche: kein Präzedenzwert aber überzeugend (persuasive authority)
+- UNCITRAL Digest: offizielle Zusammenfassung von CISG-Rechtsprechung (kostenlos)
+- CISG-online.ch: Universität Basel — größte CISG-Rechtsprechungsdatenbank
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Welche Quelle hat Vorrang: nationaler Kommentar oder CISG-Advisory-Council-Opinion?
+2. jusmundi.com ICC-Schiedssprüche: Wie viele sind vertraulich und deshalb nicht verfügbar?
+3. CENTRAL trans-lex.org: Wie zitiere ich ein Prinzip aus CENTRAL im Schiedsverfahren?
+4. UNCITRAL Digest 2016: Ist er aktuell genug oder gibt es neuere Ergänzungen?
+5. eur-lex.europa.eu: Wie finde ich konsolidierte Fassung einer EU-Verordnung schnell?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Quellenrangordnung: (1) Vertragstext, (2) anwendbares Recht, (3) Soft Law, (4) Schiedssprüche, (5) Lit.
+- Verifikation: jede Norm mit Fundstelle und Datum der Abrufung belegen
+- Schiedssprüche: immer ICC-Award-Nummer und Jahr angeben; nicht nur Beschreibung
+- Soft Law: explizit als nicht verbindlich kennzeichnen; Einbeziehungsnachweis prüfen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Quellenmatrix-Template (Kategorien × Zugänglichkeit × Verbindlichkeit)
+- Datenbanken-Kurzführer (URL, Inhalt, Kosten, Aktualisierung)
+- Zitierstil-Leitfaden für internationale Handelsfälle
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+uncitral.un.org, unidroit.org, iccwbo.org, trans-lex.org, jusmundi.com, eur-lex.europa.eu, CISG-online.ch. Alle URLs mit Abrufdatum angeben. Unsicherheit bleibt sichtbar.

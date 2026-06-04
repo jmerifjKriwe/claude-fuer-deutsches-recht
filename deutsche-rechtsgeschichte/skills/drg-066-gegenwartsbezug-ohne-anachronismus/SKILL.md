@@ -1,50 +1,49 @@
 ---
 name: drg-066-gegenwartsbezug-ohne-anachronismus
-description: "Deutsche Rechtsgeschichte: Gegenwartsbezug Ohne Anachronismus. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Gegenwartsbezug ohne Anachronismus. Methodisches Ruest-zeug um historische Argumente in heutige Rechtsdiskussion einzubringen ohne unzulaessige Zeitspringe."
 ---
 
-# Gegenwartsbezug Ohne Anachronismus
+# Gegenwartsbezug ohne Anachronismus
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Gegenwartsbezug Ohne Anachronismus** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Anachronismus ist die unzulässige Anwendung von Konzepten einer Epoche auf eine andere. In der Rechtsgeschichte sind haeufige Anachronismen: Schuldrecht-BGB-Kategorien auf roemisches Recht anwenden, NS-Recht mit moderner Menschenrechtsdoktrin messen ohne Kontextualisierung, Weimarer Parteienrecht mit GG-Massstab beurteilen. Korrekter Gegenwartsbezug hingegen benennt: (1) das historische Konzept in seinem Kontext, (2) die historische Kritik, (3) den Unterschied zum heutigen Recht, (4) was das fuer heutige Argumente bedeutet. Savignys Auslegungskanons, die historische Auslegung (genetische Interpretation), und die Kontinuitaetsfrage sind Kernfelder.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **GG Art. 79 Abs. 3**: Ewigkeitsklausel als Massstab fuer Gegenwartsbezug
+- **BVerfGE 62, 1** (1982): Historische Auslegung als Methode
+- **Savigny, System Bd. I** (1840): Vier Kanons inkl. historische Auslegung
+- **BGB § 133 und § 157**: Auslegungsnormen mit historischem Hintergrund
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Savigny**: Historische Auslegung als Methode begründet
+- **BVerfG**: Historisch-genetische Auslegung des GG
+- **BGH**: Historische Auslegung im Zivilrecht
+- **Forschende Historiker**: Warnung vor Anachronismus
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Wann ist historische Auslegung zwingend, wann nur ergaenzend?
+2. BGB-Materialien und heutige Anwendung: Ist der Wille der Kommission von 1900 noch massgeblich?
+3. Verfassungsgeschichte und GG-Auslegung: Darf man Weimarer Vorentscheidungen einbeziehen?
+4. NS-Kontinuitaet als Argument: Ist Verweis auf NS-Vorlaeufernormen fuer heutige Auslegung erlaubt?
+5. Europaeisches Recht und Rechtsgeschichte: Gilt der Anachronismus-Einwand auch fuer EU-Rechts-Geschichte?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Anachronismus-Test: Vor jeder historischen Argumentation pruefen
+- Historische Auslegung: Mugdan-Materialien, Reichstagsprotokolle
+- BVerfGE und BGH: bverfg.de und bgh.de fuer Leitlinien historischer Auslegung
+- Kontextualisierung: Immer Epoche und Rechtsrahmen des Quellen explizit nennen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Methodenblatt: Anachronismus-Test in sieben Fragen
+- Beispielanalyse: Art. 48 WRV in heutigem Ausnahmerecht-Diskurs ohne Anachronismus
+- Checkliste Gegenwartsbezug: Was darf man sagen, was nicht
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Savigny System Bd. I (1840): historische Ausgabe. BVerfGE und BGH: bverfg.de und bgh.de. Mugdan: Bde. I-VI (1899). Reichstagsprotokolle: reichstagsprotokolle.de.

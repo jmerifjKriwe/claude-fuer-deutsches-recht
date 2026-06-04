@@ -1,50 +1,52 @@
 ---
 name: ihl-088-contract-playbook-exporter
-description: "Internationales Handelsrecht und Lex Mercatoria: Contract Playbook Exporter. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Vertragshandbuch für den Exporteur. Standardpositionen in Verhandlungen, Fallback-Positionen, Prioritäten (Rechtswahl, Schiedsklausel, Haftungsbeschränkung, Eigentumsvorbehalt) und BATNA-Analyse für internationale Kaufverträge."
 ---
 
-# Contract Playbook Exporter
+# Contract Playbook für Exporteure
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Contract Playbook Exporter** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Ein Contract Playbook hilft Exporteuren, ihre Standardpositionen und Verhandlungsstrategie zu systematisieren. Es definiert Must-Haves (Rechtswahl, Schiedsklausel), Should-Haves (Haftungscap, EV) und Nice-to-Haves (Audit-Recht, ESG-Klausel). BATNA-Analyse schärft Verhandlungsflexibilität.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CISG Art. 6**: Opting-out vs. Opting-in (Rechtswahl-Priorität)
+- **ICC Schiedsregeln 2021**: Schiedsklausel als Dispute-Resolution-Standard
+- **BGB §§ 449, 929**: Eigentumsvorbehalt — Must-Have für alle Exporteure
+- **CISG Art. 74-77**: Schadensersatz und Mitigation — Haftungscap-Rechtfertigung
+- **LkSG §§ 3-5**: ESG/LkSG-Lieferkettenklausel als wachsendes Standard
+- **VBER (EU) 2022/720**: Vertriebsklauseln im Exportkontext
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Must-Have: ohne diese Klauseln kein Vertragsabschluss (Rechtswahl, Schiedsklausel, EV)
+- Should-Have: starke Verhandlungsposition erforderlich (Haftungscap, FM-Klausel)
+- Nice-to-Have: opportunistisch einfordern (ESG-Auditrecht, Indexklausel)
+- Fallback-Position: was Exporteur akzeptiert wenn Must-Have abgelehnt wird
+- BATNA: Best Alternative to a Negotiated Agreement — Mindeststandard definieren
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Käufer verlangt Anwendbarkeit seines nationalen Rechts: Akzeptabler Kompromiss?
+2. Kein Schiedsgericht: Kann ICC-Mediation + staatliches Gericht Fallback sein?
+3. Haftungscap verweigert: Wie alternativ mit Haftungsausschlussklausel für Folgeschäden?
+4. Eigentumsvorbehalt in Nicht-Anerkennungsland: Welche Alternative (Akkreditiv, Bürgschaft)?
+5. ESG-Klausel: Wann ist das verhandelbar und wann must-have (LkSG-Pflicht)?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Playbook-Struktur: Klausel → Standardposition → Begründung → Fallback → Red Line
+- BATNA-Analyse vor jeder Verhandlung definieren
+- Länder-spezifische Anpassung: EV in USA (UCC Filing), China (lokale Registrierung)
+- Revisionszyklus: Playbook jährlich auf Rechtsentwicklungen (CISG-Rspr., VBER, LkSG) aktualisieren
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Contract-Playbook-Struktur-Template
+- Klausel-Prioritätenliste (Must/Should/Nice)
+- BATNA-Analyse-Vorlage für internationale Kaufverhandlungen
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG: uncitral.un.org. ICC Regeln 2021: iccwbo.org. LkSG: gesetze-im-internet.de. VBER 2022/720: eur-lex.europa.eu. Schrifttum: International Trade Law Handbook (Praxis-Quellen). Unsicherheit bleibt sichtbar.

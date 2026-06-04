@@ -1,50 +1,53 @@
 ---
 name: rom-068-usus-modernus
-description: "Römisches Recht: Usus Modernus. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Usus modernus pandectarum (17.-18. Jh.) - Anwendung des gemeinen Rechts unter Einbeziehung lokaler Gewohnheiten, Benedikt Carpzov, Samuel Stryk und Verhältnis zur Naturrechtslehre."
 ---
 
-# Usus Modernus
+# Usus modernus pandectarum
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Usus Modernus** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Der usus modernus pandectarum (moderner Pandektengebrauch) bezeichnet die Rechtspraxis des 17./18. Jhs. in Deutschland: Anwendung des gemeinen (römisch-justinianischen) Rechts, aber angereichert um lokale Gewohnheitsrechte, Reichskammergerichtsentscheidungen und naturrechtliche Elemente. Samuel Stryk (1640-1710) prägte den Begriff. Benedikt Carpzov vertrat den sächsischen usus modernus.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Samuel Stryk, Usus Modernus Pandectarum (1690-1712)**: Hauptwerk
+- **Benedikt Carpzov, Jurisprudentia electoralis Saxonica**: Sächsischer usus
+- **Reichskammergerichtsordnungen 1495/1521**: Anwendungsgebot röm. Rechts
+- **Codex Maximilianeus Bavaricus (1756)**: Naturrechtlich überformter usus modernus
+- **D. 44.7.1 (Gaius)**: Häufig zitierter Ausgangspunkt
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- usus modernus: moderner praktischer Gebrauch des röm. Rechts
+- gemeines Recht: ius commune als Subsidiärrecht in Deutschland
+- Reichskammergericht: Anwendung des röm. Rechts
+- Naturrechtslehre: Pufendorf, Grotius als Konkurrenz/Ergänzung
+- Stryk (1640-1710): Hauptvertreter mit 24-bändigem Werk
+- Carpzov (1595-1666): Sächsischer Repräsentant
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Verhältnis usus modernus - Naturrecht: Konkurrenz oder Synthese?
+2. Wann endete der usus modernus praktisch?
+3. Usus modernus und gemeinrechtliche Wissenschaft: Kontinuität zur Pandektistik?
+4. Lokale Variation: Sächsischer vs. österreichischer vs. rheinischer usus modernus
+5. Einfluss auf die Partikulargesetzgebung des 18. Jhs.
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Stryk Usus Modernus (archive.org, Ausgaben 17./18. Jh.)
+- Reichskammergerichtsordnung 1495: NRDA (Neue und verbesserte Sammlung)
+- Wieacker Privatrechtsgeschichte §§ 10-12
+- Rüfner Gemeinrechtliche Rechtspraxis
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeittafel: usus modernus im Rechtsraum
+- Methodik-Memo: Stryk-Methode
+- Vergleich: usus modernus vs. Pandektenwissenschaft
+- Einfluss auf ALR 1794 und ABGB 1811
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Stryk Usus Modernus (archive.org). Carpzov Jurisprudentia (archive.org). Wieacker Privatrechtsgeschichte.

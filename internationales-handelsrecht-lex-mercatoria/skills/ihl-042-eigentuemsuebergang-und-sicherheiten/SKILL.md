@@ -1,50 +1,52 @@
 ---
 name: ihl-042-eigentuemsuebergang-und-sicherheiten
-description: "Internationales Handelsrecht und Lex Mercatoria: Eigentuemsuebergang Und Sicherheiten. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Eigentumsübergang bei Warenkauf international. CISG-Lücke (Art. 4b), lex situs, Traditio vs. Konsensualprinzip, Kreditsicherheiten in der Lieferkette und Floating Charge (englisches Recht)."
 ---
 
-# Eigentuemsuebergang Und Sicherheiten
+# Eigentumsübergang und Kreditsicherheiten
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Eigentuemsuebergang Und Sicherheiten** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das CISG regelt Eigentumsübergang ausdrücklich nicht (Art. 4 lit. b). Nationales Sachenrecht nach lex situs entscheidet. Im deutschen Recht gilt Einigung + Übergabe (§§ 929 ff. BGB); in Common-Law-Systemen oft Konsensualprinzip (Eigentum geht mit Vertragsschluss über, SGA 1979 UK). Kreditsicherheiten (Sicherungsübereignung, Sicherungszession, Floating Charge) haben unterschiedliche internationale Anerkennungsgrade.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **BGB §§ 929-931**: Übereignung — Einigung + Übergabe (Traditionsprinzip)
+- **Sale of Goods Act 1979 (UK) s. 17-18**: Eigentumsübergang bei best. Ware — Parteiwille
+- **CISG Art. 4 lit. b**: Eigentumsübergang ausdrücklich ausgeschlossen
+- **Rom I VO Art. 26**: Sachenrecht folgt lex situs
+- **Sicherungstreuhand / Floating Charge**: englische Floating Charge — keine genaue Entsprechung im deutschen Recht
+- **UCC Art. 9**: US-Secured Transactions (Security Interest)
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Traditionsprinzip (D): Übereignung durch Einigung + körperliche Übergabe
+- Konsensualprinzip (UK, Frankreich): Eigentum geht mit Vertrag über
+- Floating Charge: bewegliches Sicherungsrecht über wechselnden Warenbestand (nur Common Law)
+- Sicherungszession: Abtretung von Forderungen zur Sicherung (deutsches Recht)
+- PPSA/UCC-Registrierung: Schutz gegen Insolvenz und Dritterwerber nur mit Filing
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Warenkauf D → UK: Übergang Eigentum mit Vertrag (UK) oder erst mit Übergabe (D)?
+2. Floating Charge: Wie wird sie in deutschem Insolvenzverfahren anerkannt?
+3. Sicherungszession in Frankreich: Dailly-Zession-Gesetz als besonderes Formerfordernis?
+4. Insolvenz des Käufers: EV oder Sicherungsübereignung — was geht vor?
+5. CISG: Können Parteien Eigentumsübergang in CISG-Kaufvertrag regeln?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Lageortrecht (lex situs) vor Vertragsabschluss identifizieren
+- UK Floating Charge: Eintragung im Companies House erforderlich (Companies Act 2006 s. 859A)
+- Sicherungszession: Formvorschriften des Rechts des Drittschuldners prüfen
+- CISG-Vertrag: Eigentumsklausel ausdrücklich in Vertrag aufnehmen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Eigentumsübergangs-Matrix: D, UK, F, USA
+- Kreditsicherheiten-Checkliste (national und international)
+- Floating-Charge-Anerkennung im deutschen Insolvenzverfahren
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+BGB §§ 929 ff.: gesetze-im-internet.de. SGA 1979 (UK): legislation.gov.uk. CISG Art. 4: uncitral.un.org. UCC Art. 9: uniform.law.cornell.edu. Unsicherheit bleibt sichtbar.

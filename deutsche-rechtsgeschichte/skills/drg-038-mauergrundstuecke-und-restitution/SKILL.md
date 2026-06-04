@@ -1,50 +1,50 @@
 ---
 name: drg-038-mauergrundstuecke-und-restitution
-description: "Deutsche Rechtsgeschichte: Mauergrundstuecke Und Restitution. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Mauergrundstücke und Restitution nach 1990. Enteignungen fuer den Grenzstreifen, Vermoegensgesetz, Rueckuebertragungsansprueche und BVerwG-Rechtsprechung zu Mauergrundstücken."
 ---
 
-# Mauergrundstuecke Und Restitution
+# Mauergrundstücke und Restitution
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Mauergrundstuecke Und Restitution** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Der Berliner Mauer-Grenzstreifen entstand durch systematische Enteignungen privater Grundstuecke im Bereich der Berliner Mauer und des innerdeutschen Grenzsystems. Nach der Wiedervereinigung konnten fruehere Eigentuemer Restitutionsansprueche nach dem Vermoegensgesetz (VermG) stellen. Die Enteignungen fuer Staatszwecke (DDR-Grenzgesetz, VermG § 1 Abs. 1) unterlagen besonderen Regeln. Nach dem Mauerfall wurden Berliner Mauergrundstücke oeffentlich verwertbar (Neubauvorhaben), was zu Verfahren fuehrte.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **VermG §§ 1-4**: Anwendungsbereich, Schaedigungstatbestaende, Ausschlussgruende
+- **VermG § 1 Abs. 1**: Ungerechtfertigte Enteignungen, staatliche Massnahmen
+- **VermG § 5**: Ausschluss bei Enteignung fuer Infrastrukturzwecke
+- **InVorG 1992 (BGBl. I 1992, 1257)**: Investitionsvorranggesetz, Entschaedigung statt Rueckgabe
+- **BVerwGE 100, 233**: Mauergrundstücke und VermG
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Bundesamt zur Regelung offener Vermoegensfragen (BARoV)**: Zentralbehoerde
+- **Berliner Landes- und Bundesbehoerden**: Verwaltung des Mauer-Grenzstreifens nach 1990
+- **BVerwG**: Leitentscheidungen zu Mauergrundstücken
+- **Fruehere Eigentuemer**: Antragsteller nach VermG
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. VermG § 5 Ausschluss: Gilt er auch fuer Grenzstreifen-Enteignungen?
+2. Mauergrundstücke und Investitionsvorrang: Hat InVorG gerechtfertigt Entschaedigung statt Rueckgabe?
+3. Bebauung nach 1990: Schuetzte der gutglaeubige Erwerber die Neubauplaene?
+4. Entschaedigung nach VermG vs. EntschG: Hoehe und Angemessenheit
+5. EGMR und Mauergrundstücke: Europaeische Menschenrechts-Dimension
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- VermG: gesetze-im-internet.de
+- InVorG 1992: BGBl. I 1992, 1257
+- BVerwG: bverwg.de fuer vollstaendige Entscheidungen
+- Berliner Senat: fachliche Informationen zur Mauer-Grundstuecks-Abwicklung
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- VermG-Anwendungsfall Mauergrundstück: Schritt-fuer-Schritt
+- InVorG-Investitionsvorrang vs. Rueckgabeanspruch: Abwaegungsschema
+- BVerwG-Kernentscheidungen zu Mauergrundstücken
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+VermG und InVorG: gesetze-im-internet.de. BVerwG: bverwg.de. BGBl. I 1992, 1257. BVerfGE zur Bodenreform: bverfg.de.

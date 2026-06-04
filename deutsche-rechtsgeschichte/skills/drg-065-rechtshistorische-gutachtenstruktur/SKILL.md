@@ -1,50 +1,49 @@
 ---
 name: drg-065-rechtshistorische-gutachtenstruktur
-description: "Deutsche Rechtsgeschichte: Rechtshistorische Gutachtenstruktur. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Rechtshistorische Gutachtenstruktur. Aufbau eines rechtshistorischen Gutachtens mit Themenstellung, Quellenbasis, historischer Entwicklung, Streitstand und Fazit."
 ---
 
 # Rechtshistorische Gutachtenstruktur
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Rechtshistorische Gutachtenstruktur** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Ein rechtshistorisches Gutachten unterscheidet sich vom dogmatischen Rechtsgutachten in Quellenbasis und Methodik, folgt aber aehnlichen Strukturprinzipien. Gliederung: (1) Themenstellung und Rechtsfrage, (2) Quellenbasis (Primaer- und Sekundaerquellen), (3) historische Entwicklung des Rechtsproblems, (4) Streitstand in Forschung und Rechtsprechung, (5) Subsumtion: Welche historischen Fakten tragen welche Schlussfolgerungen?, (6) Fazit: Was sagt die historische Analyse fuer die heutige Frage? Das rechtshistorische Gutachten vermeidet Anachronismus und Blindzitat. Jede These braucht eine Quellengrundlage.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Mugdan, Materialien BGB** (1899): Mustergutachtenquelle fuer BGB-Entstehungsrecht
+- **Reichsgesetzblatt (ALEX/OeNB)**: Quellenbasis fuer Normtexte
+- **BVerfGE**: Verfassungsrecht-Gutachten-Basis
+- **GG Art. 20 Abs. 3**: Bindung an Recht und Gesetz als Gutachtenmassstab
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Rechtsanwaelte und Gutachter**: Praktiker des rechtshistorischen Gutachtens
+- **Sachverstaendige vor Gericht**: Rechtshistoriker als Gutachter
+- **Wissenschaftler**: Produzenten rechtshistorischer Gutachten
+- **Gesetzgebungsdienste**: Rechtshistorische Analyse im Gesetzgebungsprozess
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Gutachter-Unabhaengigkeit: Wie vermeidet man confirmation bias in rechtshistorischen Gutachten?
+2. Beschraenkte Quellenbasis: Was tun, wenn entscheidende Quellen fehlen oder unsicher sind?
+3. Juristisches vs. historisches Gutachten: Wo ist die Grenze?
+4. Verwertung in Gerichtsverfahren: Wie stellt man rechtshistorisches Gutachten unter Beweis?
+5. Update-Pflicht: Muss ein Gutachter nachlegen, wenn neue Quellen aufgetaucht sind?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Quellenmatrix vor Gutachtenabfassung aufstellen
+- Streitstand: Mindestens zwei Positionen mit Quellen benennen
+- Anachronismus-Test: Jede These zeitepochengerecht pruefen
+- Fazit: Klar zwischen Sicherem und Unsicherem unterscheiden
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Rechtshistorisches Gutachten-Template
+- Beispielgliederung fuer Gutachten zur BGB-Entstehung
+- Checkliste: Qualitaetssicherung vor Gutachtenabgabe
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Alle Quellen mit Fundstelle. Primaerquellen: ALEX/OeNB, gesetze-im-internet.de, bverfg.de. Sekundaerliteratur: mit Autor, Werk, Auflage, Seite. Keine Blindzitate.

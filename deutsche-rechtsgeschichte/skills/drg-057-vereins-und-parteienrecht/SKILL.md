@@ -1,50 +1,50 @@
 ---
 name: drg-057-vereins-und-parteienrecht
-description: "Deutsche Rechtsgeschichte: Vereins Und Parteienrecht. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Vereins- und Parteienrecht. BGB-Vereinsrecht, Sozialistengesetz 1878, Weimarer Koalitionsfreiheit, GG Art. 21 und Parteiengesetz 1967."
 ---
 
-# Vereins Und Parteienrecht
+# Vereins- und Parteienrecht
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Vereins Und Parteienrecht** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Vereinsrecht hat im deutschen Recht eine politisch brisante Geschichte. Das Sozialistengesetz 1878 (RGBl. 1878, 351) verbot sozialdemokratische und sozialistische Vereinigungen unter Bismarck. Das BGB 1900 schuf ein liberales Vereinsrecht (§§ 21-79 BGB), das aber durch Polizeirecht beschraenkt werden konnte. Die WRV garantierte Koalitionsfreiheit (Art. 159) und Vereinsfreiheit (Art. 124). Das NS-Regime vernichtete unabhaengige Verbands- und Vereinsstrukturen. Das GG Art. 21 verankerte Parteien als Verfassungsorgane. Das Parteiengesetz (PartG 1967, BGBl. I 1967, 773) regelte Parteienfinanzierung, Willensbildung und Rechenschaftspflicht.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Sozialistengesetz 1878 (RGBl. 1878, 351)**: Verbot sozialistischer Vereinigungen
+- **BGB §§ 21-79**: Vereinsrecht, eingetragener Verein
+- **GG Art. 21**: Parteien als Verfassungsorgane
+- **PartG 1967 (BGBl. I 1967, 773)**: Parteiengesetz mit Finanzierung und Willensbildung
+- **BVerfGE 2, 1** (SRP-Verbot 1952) und **BVerfGE 5, 85** (KPD-Verbot 1956)
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Bismarck**: Sozialistengesetz als Instrument gegen Arbeiterbewegung
+- **Gerhard Leibholz** (1901-1982): Parteienstaatslehre am BVerfG
+- **Deutsche Parteien (SPD, CDU, CSU, FDP)**: Erste Nutzer des GG Art. 21
+- **Bundestag und BVerfG**: Parteienfinanzierungs-Kontroverse
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Sozialistengesetz 1878: War es verfassungsmaessig nach der Reichsverfassung 1871?
+2. BGB-Vereinsrecht und politische Kontrolle: Wieviel Kontrolle ist zulassig?
+3. GG Art. 21 und Parteienprivileg: Schutzt es Parteien zu sehr?
+4. PartG und Parteienfinanzierung: Geldquellen und Transparenz
+5. Parteienverbot Art. 21 Abs. 2 GG: Wann ist es zulassig? (NPD-Verfahren BVerfGE 144, 197)
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Sozialistengesetz 1878: RGBl. 1878, 351 via ALEX/OeNB
+- BGB Vereinsrecht: gesetze-im-internet.de
+- GG Art. 21 und PartG: gesetze-im-internet.de
+- BVerfGE zum Parteienrecht: bverfg.de
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste Vereins- und Parteienrecht: 1878-1967
+- Parteienprivileg Art. 21 GG: Inhalt und Grenzen
+- Parteienverbotsverfahren: SRP 1952, KPD 1956, NPD 2017
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Sozialistengesetz 1878: ALEX/OeNB. BGB und PartG: gesetze-im-internet.de. BVerfGE zum Parteienrecht: bverfg.de.

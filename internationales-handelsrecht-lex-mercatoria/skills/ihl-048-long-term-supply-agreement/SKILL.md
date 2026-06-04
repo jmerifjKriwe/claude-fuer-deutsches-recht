@@ -1,50 +1,52 @@
 ---
 name: ihl-048-long-term-supply-agreement
-description: "Internationales Handelsrecht und Lex Mercatoria: Long Term Supply Agreement. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Langfristige Lieferverträge (Long-Term Supply Agreement, LSA). Preisanpassungsklauseln, Mindestmengen (Take-or-Pay), Qualitätssicherung, Änderungsmanagement, Vertragsauflösung und Force-Majeure-Klausel in mehrjährigen Verträgen."
 ---
 
-# Long Term Supply Agreement
+# Langfristige Lieferverträge (LSA)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Long Term Supply Agreement** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Langfristige Lieferverträge sichern Versorgung und Absatz über mehrere Jahre. Sie erfordern dynamische Anpassungsmechanismen (Preisgleitklauseln, Änderungsverfahren) und klare Regelungen für außerordentliche Ereignisse. CISG Art. 29 erlaubt Vertragsänderungen; PICC Art. 6.2.1-6.2.3 regelt Hardship.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CISG Art. 14 Abs. 1**: Bestimmtheit — Preisformel reicht als Preisangabe
+- **CISG Art. 29**: Vertragsänderung — formfrei wenn kein Schriftformvorbehalt (Art. 29 Abs. 2)
+- **PICC Art. 6.2.1-6.2.3**: Hardship — Neuverhandlungsrecht bei Vertragsstörung
+- **§ 313 BGB**: Störung der Geschäftsgrundlage — nationales Pendant zu Hardship
+- **§ 308 Nr. 4 BGB**: AGB-Änderungsvorbehalte — Grenzen im deutschen Recht
+- **ICC Force Majeure Clause 2020**: Standardklausel für langfristige Verträge
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Take-or-Pay-Klausel: Mindestabnahmeverpflichtung — Käufer zahlt auch wenn er nicht abnimmt
+- Preisgleitklausel: Index-basierte Anpassung (PPI, Rohstoffindex, Energiepreis)
+- Change Management: Verfahren für Änderungen der Spezifikationen
+- Laufzeit und Kündigung: ordentliche und außerordentliche Kündigung
+- Renegotiation Clause: explizite Neuverhandlungspflicht bei Indexabweichung
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Take-or-Pay: Muss Käufer bei Produktionsausfall zahlen (Force Majeure vs. Take-or-Pay)?
+2. Preisindexklausel: Welcher Index passt zu Kunststoffen (ICIS-Daten, Ethylen-Spot)?
+3. CISG Art. 29: Mündliche Änderung eines schriftlichen LSA — wirksam?
+4. § 308 Nr. 4 BGB: Einseitiger Änderungsvorbehalt des Lieferanten in AGB wirksam?
+5. Vertragsauflösung nach 5 Jahren: Welche Nachwirkungspflichten (Übergangsphase, IP)?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Preisgleitklausel: Basispreis + Index-Referenz + Anpassungsfrequenz + Cap
+- Take-or-Pay: FM-Carve-out für Ausnahmefälle; Make-up-Recht für spätere Abnahme
+- Änderungsmanagement: Schriftlichkeitsgebot für Änderungen und Change-Order-Verfahren
+- Laufzeit und Exit: Kündigungsfristen nach Transaktionsvolumen staffeln
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Preisgleitklausel-Muster (Indexbasiert)
+- Take-or-Pay-Klausel mit FM-Carve-out
+- LSA-Checkliste (Laufzeit, Preis, Menge, Qualität, Exit)
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG Art. 14, 29: uncitral.un.org. PICC Art. 6.2.1-6.2.3: unidroit.org. BGB §§ 308, 313: gesetze-im-internet.de. ICC FM-Klausel 2020: iccwbo.org. Unsicherheit bleibt sichtbar.

@@ -1,50 +1,52 @@
 ---
 name: ihl-010-rom-i-und-rechtswahl
-description: "Internationales Handelsrecht und Lex Mercatoria: Rom I Und Rechtswahl. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Vertragsstatut nach Rom I-VO (EG) 593/2008. Freie Rechtswahl (Art. 3), subsidiäre Anknüpfung (Art. 4), Eingriffsnormen (Art. 9), Verbraucherschutz (Art. 6) und Rechtswahl zugunsten nicht-staatlichen Rechts."
 ---
 
-# Rom I Und Rechtswahl
+# Rom I-VO und Rechtswahl im internationalen Handel
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Rom I Und Rechtswahl** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Rom I-Verordnung (EG) 593/2008 bestimmt in EU-Mitgliedstaaten das auf Schuldverträge anwendbare Recht. Art. 3 gibt Parteien weitgehende Rechtswahl. Bei fehlender oder unwirksamer Rechtswahl greift Art. 4 (charakteristische Leistung). Art. 9 Eingriffsnormen können Rechtswahl überlagern; Art. 10 Abs. 2 erlaubt Vertrauensschutz nach lex causae des Handlungsorts.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Art. 3 Rom I**: Freie Rechtswahl — ausdrücklich oder eindeutig konkludent
+- **Art. 4 Abs. 1 lit. a Rom I**: Kaufvertrag — Recht des gewöhnlichen Aufenthalts des Verkäufers
+- **Art. 4 Abs. 2 Rom I**: Charakteristische Leistung bei Abwesenheit besonderer Kollisionsnorm
+- **Art. 9 Abs. 1 Rom I**: Eingriffsnormen des Forums; Abs. 3 Eingriffsnormen des Erfüllungsorts
+- **Art. 10 Abs. 2 Rom I**: Formgültigkeit nach lex loci actus als Vertrauensschutz
+- **Art. 19 Rom I**: Gewöhnlicher Aufenthalt juristischer Personen — Hauptverwaltung
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Ausdrückliche vs. eindeutig konkludente Rechtswahl (Schiedsklausel allein nicht ausreichend)
+- Charakteristische Leistung (Verkäufer/Dienstleister, nicht Käufer/Geldschuldner)
+- Eingriffsnormen (overriding mandatory provisions): Kartellrecht, Exportkontrolle, AGB-Recht
+- Nicht-staatliches Recht (UNIDROIT, CISG) als Vertragsinhalt, nicht als Statut
+- Renvoi: Art. 20 Rom I — kein Renvoi
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Kann als Vertragsstatut UNIDROIT Principles gewählt werden? (Nur als Inhalt, nicht als Statut)
+2. Welches Recht gilt bei fehlendem Schiedsort und fehlender Rechtswahl?
+3. Überlagert deutsches AGB-Recht (§§ 305 ff. BGB) als Eingriffsnorm eine Rechtswahl ausländischen Rechts?
+4. Art. 9 Abs. 3: Wann werden Eingriffsnormen des Erfüllungsorts angewendet?
+5. Verbraucherschutz Art. 6: Gilt auch bei B2B-Verträgen mit kleineren Unternehmern?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Rechtswahl ausdrücklich und klar formulieren — Schiedsort als konkludente Rechtswahl vermeiden
+- Eingriffsnormen-Risiko beim Erfüllungsort gesondert prüfen
+- Bei Zweifel: CISG als überlagernde lex specialis prüfen
+- Nicht-staatliches Recht nur als Vertragsinhaltsklausel, nicht als Statut
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Rechtswahlklausel-Muster (vollständig und minimal)
+- Tabelle: Charakteristische Leistung nach Art. 4 für Standardvertragstypen
+- Eingriffsnormen-Checkliste für wichtige Handelsländer
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Rom I-VO: eur-lex.europa.eu (32008R0593). EuGH-Rspr.: curia.europa.eu. Schrifttum: Rauscher EuZPR/EuIPR (5. Aufl.) Art. 3-4 Rom I. Unsicherheit bleibt sichtbar.

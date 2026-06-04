@@ -1,50 +1,49 @@
 ---
 name: drg-078-verwaltungsakte-historisch-lesen
-description: "Deutsche Rechtsgeschichte: Verwaltungsakte Historisch Lesen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Historische Verwaltungsakte lesen. Formular-Kanzleisprache des 18./19. Jh., Unterschied zu heutigen Verwaltungsakten, Quellenkritik bei historischen Behoerdendokumenten."
 ---
 
-# Verwaltungsakte Historisch Lesen
+# Verwaltungsakte historisch lesen
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Verwaltungsakte Historisch Lesen** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Historische Verwaltungsakte (Konzessionen, Bescheide, Genehmigungen, Erlasse) sind wichtige Rechtsquellen. Sie unterscheiden sich von modernen Verwaltungsakten (VwVfG § 35) in Form, Sprache und Verbindlichkeit. Kanzleideutsch des 18./19. Jh. nutzt Formeln wie Inhaber dieses... oder Mit allerhoechster Genehmigung..., die keine modernen Entsprechungen haben. Historische Verwaltungsakte muessen quellenkritisch gelesen werden: (1) Ausstellungsbehoerde, (2) Empfaenger, (3) Rechtsgrundlage, (4) Tenor, (5) Bedingungen/Auflagen. Die heutige VwVfG-Systematik darf nicht unreflektiert auf historische Akte angewendet werden.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **VwVfG 1976 (BGBl. I 1976, 1253) § 35**: Verwaltungsakt-Definition (moderner Massstab)
+- **VwVfG § 39**: Begruendungspflicht (im historischen Verwaltungsakt oft fehlend)
+- **Preussische Behoerdenordnung** (19. Jh.): Historischer Rahmen fuer preussische Verwaltungsakte
+- **Reichsgewerbeordnung § 35** (19. Jh.): Gewerbegenehmigung als historischer Verwaltungsakt
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Preussische Verwaltungsbehoerden**: Erzeuger historischer Verwaltungsakte im 18./19. Jh.
+- **Reichsbehoerden (1871-1918)**: Kaiserreichs-Verwaltungsakte
+- **NS-Verwaltungsbehoerden**: Politisch belastete Verwaltungsakte 1933-1945
+- **Bundesarchiv und Landesarchive**: Erschliessung historischer Verwaltungsakten
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Ist ein historischer Verwaltungsakt nach VwVfG § 35 ein Verwaltungsakt?
+2. Historische Konzession: Begründet sie Rechte, die heute noch geltend gemacht werden koennen?
+3. NS-Verwaltungsakte: Sind sie nach dem Kontrollratsrecht nichtig oder nur anfechtbar?
+4. Bestaendigkeit historischer Verwaltungsakte: Welche Verjaeahrungsfragen entstehen?
+5. Ausweisung historischer Gaststättenkonzessionen: Erblichkeit der Konzession?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- VwVfG: gesetze-im-internet.de fuer modernen Massstab
+- Historische Verwaltungsakte: Bundesarchiv und Landesarchive
+- Kanzleisprache: Woerterbucher und Lexika der historischen Amtssprache
+- Epochenspezifische Rechtsgrundlage: GewO, preussische Behoerdenordnungen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Leitfaden zum Lesen historischer Verwaltungsakte
+- Vergleichsschema: Historischer Verwaltungsakt vs. VwVfG § 35
+- Pruef-Schema: Historischer Verwaltungsakt und seine heutige Relevanz
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+VwVfG: gesetze-im-internet.de. Historische Verwaltungsakte: Bundesarchiv und Landesarchive (Bestand, Signatur, Blattnummer). GewO historisch: ALEX/OeNB.

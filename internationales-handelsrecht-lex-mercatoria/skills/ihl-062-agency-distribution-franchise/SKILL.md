@@ -1,50 +1,52 @@
 ---
 name: ihl-062-agency-distribution-franchise
-description: "Internationales Handelsrecht und Lex Mercatoria: Agency Distribution Franchise. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Handelsvertreter, Vertriebsvertrag und Franchise im internationalen Vergleich. EU-Handelsvertreter-RL 86/653/EWG (Ausgleichsanspruch), Alleinvertrieb, Wettbewerbsverbot, Franchise-Disclosure und Kündigungsschutz."
 ---
 
-# Agency Distribution Franchise
+# Handelsvertreter, Vertriebsvertrag und Franchise
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Agency Distribution Franchise** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Handelsvertreter (HV), Alleinvertriebshändler und Franchisegeber haben unterschiedliche Rechtsverhältnisse zum Auftraggeber. Die EU-HV-Richtlinie 86/653/EWG schützt HV (Ausgleichsanspruch bei Kündigung). Alleinvertriebshändler haben nach EU-Recht keinen vergleichbaren Schutz. Franchise-Rechte erfordern Disclosure-Dokumentation (nur in einigen Ländern gesetzlich vorgeschrieben).
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **EU-HV-RL 86/653/EWG Art. 17**: Ausgleich (§ 89b HGB) oder Schadensersatz bei Vertragsbeendigung
+- **HGB § 84**: Handelsvertreter-Definition (selbständig, ständig beauftragt, fremde Geschäfte)
+- **HGB § 89b**: Ausgleichsanspruch — 1 Jahresprovision als Maximum
+- **VO (EU) 330/2010 (VBER)**: Vertikale Gruppenfreistellungsverordnung — Alleinvertrieb
+- **Neue VBER (EU) 2022/720**: Aktualisiertes Vertikale-Kartellrecht
+- **FTC Franchise Disclosure Rule (USA)**: US-Franchise-Disclosure-Anforderungen
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Handelsvertreter vs. Eigenhändler: HV im fremden Namen; Eigenhändler auf eigene Rechnung
+- Ausgleichsanspruch § 89b HGB: nach Kündigung; max. 1 Jahresprovision; entfällt bei vertragswidrigem Verhalten
+- Wettbewerbsverbot: max. 2 Jahre nach Beendigung; territoriale und sachliche Beschränkung (VBER)
+- Franchise: Know-how-Überlassung + Markenrecht + Systemkonformitätspflicht
+- Parallelhandel: VBER erlaubt Beschränkungen; Ausschließlichkeit + Gebietsschutz unter Bedingungen
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. HV-Ausgleich: Gilt § 89b HGB bei außereuropäischem Handelsvertreter und deutschem Recht?
+2. VBER 2022: Darf Lieferant Online-Verkäufe des Alleinvertriebshändlers beschränken?
+3. Franchise: Ist ein Wettbewerbsverbot von 5 Jahren nach Beendigung kartellrechtskonform?
+4. Kündigung Alleinvertriebshändler: Schadensersatz nach nationalem Recht ohne HV-RL-Schutz?
+5. Vertriebsvertrag und CISG: Gilt CISG für den Rahmenvertrag oder nur für Einzelaufträge?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- HV vs. Eigenhändler: Vertragsgestaltung klären — trägt er Risiko? Eigenname?
+- § 89b-Ausgleich: berechnen auf Basis Provisionen der letzten 5 Jahre
+- VBER-Compliance: Gebietsschutz nur in zulässigem Rahmen; Hardcore-Beschränkungen vermeiden
+- Franchise: Disclosure-Dokument für US-Franchising vorbereiten (FTC-Regel)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- HV vs. Eigenhändler Abgrenzungsmatrix
+- § 89b-Berechnungsschema
+- VBER 2022 Compliance-Checkliste für Vertriebsverträge
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+HGB §§ 84, 89b: gesetze-im-internet.de. EU-HV-RL 86/653/EWG: eur-lex.europa.eu. VBER (EU) 2022/720: eur-lex.europa.eu. FTC Franchise Disclosure: ftc.gov. Unsicherheit bleibt sichtbar.

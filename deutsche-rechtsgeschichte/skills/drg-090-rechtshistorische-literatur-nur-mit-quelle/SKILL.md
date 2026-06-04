@@ -1,50 +1,52 @@
 ---
 name: drg-090-rechtshistorische-literatur-nur-mit-quelle
-description: "Deutsche Rechtsgeschichte: Rechtshistorische Literatur Nur Mit Quelle. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Umgang mit rechtshistorischer Sekundaerliteratur. Zitiertechnik fuer Savigny, Jhering, Windscheid, Wieacker, Coing und moderne rechtshistorische Standardwerke mit Quellenangabe."
 ---
 
-# Rechtshistorische Literatur Nur Mit Quelle
+# Rechtshistorische Literatur nur mit Quelle
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Rechtshistorische Literatur Nur Mit Quelle** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Rechtshistorische Sekundaerliteratur darf nicht als Autorenbeweis fuer historische Sachverhalte dienen, ohne Primaerquelle zu benennen. Der Skill strukturiert den richtigen Umgang: Savigny, Jhering, Windscheid und andere sind selbst historische Quellen erster Ordnung (Primaerquellen der Dogmengeschichte), nicht bloss Kommentatoren. Franz Wieackers Privatrechtsgeschichte der Neuzeit (2. Aufl. 1967) und Helmut Coings Handbuch der Quellen und Literatur der neueren europaeischen Privatrechtsgeschichte (3 Bde., 1973-1988) sind die modernen Standardwerke. Blindzitate (Autor nennen ohne Werk und Stelle) sind unzulaessig.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Savigny, System des heutigen Roemischen Rechts** (8 Bde., 1840-1849): Dogmengeschichtliche Primaerquelle
+- **Jhering, Geist des Roemischen Rechts** (3 Bde., 1852-1865): Historisch-teleologische Auslegungsmethode
+- **Windscheid, Lehrbuch des Pandektenrechts** (3 Bde., 1862-1870): Pandektistik als Kodifikationsgrundlage
+- **Wieacker, Privatrechtsgeschichte der Neuzeit** (2. Aufl. 1967): Standardwerk der neueren Rechtsgeschichte
+- **Coing, Handbuch der Quellen und Literatur** (1973-1988): Europaeische Privatrechtsgeschichte
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Friedrich Carl von Savigny** (1779-1861): Historische Schule, Rechtsquellenlehre
+- **Rudolf von Jhering** (1818-1892): Zweckjurisprudenz, Geist des Roemischen Rechts
+- **Bernhard Windscheid** (1817-1892): Pandektistik, Co-Autor der BGB-Vorarbeiten
+- **Franz Wieacker** (1908-1994): 20. Jahrhundert Rechtsgeschichte
+- **Helmut Coing** (1912-2000): Europaeische Privatrechtsgeschichte
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Savigny als Pandektist oder Historiker? Sein Methodenbegriff im System 1840
+2. Jhering-Savigny-Konflikt: Zweck im Recht vs. Volksgeistlehre
+3. Wieacker und NS: Hat er die NS-Zeit in seiner Rechtsgeschichte angemessen behandelt?
+4. Coing vs. neuere europaeische Rechtsgeschichte: Eurozentrik?
+5. Wie zitiert man korrekt aus Mugdan, wenn man BGB-Entstehung beleuchten will?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Primaerquellen grundsaetzlich vor Sekundaerliteratur pruefen
+- Savigny, Jhering, Windscheid: Erstausgaben oder Faksimile-Nachdrucke mit Bandzahl und Seite
+- Wieacker 1967: Mit Auflage und Seitenangabe
+- Mugdan 1899: Mit Bandnummer (I-VI) und Seite
+- Kein Blindzitat: immer Autor, Werk, Auflage, Seite
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Checkliste: Korrekte Zitiertechnik fuer rechtshistorische Literatur
+- Prioritaetenliste: Wann Primaerquelle, wann Sekundaerliteratur
+- Beispielzitierungen aus Savigny, Jhering, Wieacker, Coing, Mugdan
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Keine Sekundaerliteratur ohne Werk, Auflage und Seite. Standardwerke: Wieacker (1967), Coing (1973-1988), Mugdan (1899). Digitalisate bei ALEX/ÖNB und Universitaetsbibliotheken pruefen.

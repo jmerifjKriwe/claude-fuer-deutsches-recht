@@ -1,50 +1,50 @@
 ---
 name: drg-075-laenderrecht-und-rechtszersplitterung
-description: "Deutsche Rechtsgeschichte: Laenderrecht Und Rechtszersplitterung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Laenderrecht und Rechtszersplitterung. Partikularrechtliche Vielfalt vor 1900, EGBGB-Uebergangsrecht, fortgeltendes Landesrecht und foederales Privatrecht heute."
 ---
 
-# Laenderrecht Und Rechtszersplitterung
+# Laenderrecht und Rechtszersplitterung
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Laenderrecht Und Rechtszersplitterung** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Vor dem BGB 1900 war Deutschland privatrechtlich zersplittert: Ca. 30-40 verschiedene Rechtsordnungen galten in den deutschen Territorien nebeneinander. Hauptsysteme: Gemeines Recht (roemisch-kanonisch, in Norddeutschland und Mitteldeutschland), ALR (Preussen), Code Civil/rheinisches Recht (Westdeutschland), Oesterreichisches ABGB (Sued- und Suedwestdeutschland). Das EGBGB 1900 enthielt Uebergangsvorschriften und bewahrte bestimmtes Landesrecht. Nach 1949 schuf das GG eine Kompetenzverteilung: Zivilrecht ist Bundesrecht (Art. 74 Abs. 1 Nr. 1 GG), aber Bauordnungsrecht, Kommunalrecht, Teile des Beamtenrechts sind Laenderrecht.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **EGBGB Art. 55-245** (historisch): Uebergangsrecht fuer Landesrecht bei BGB-Einfuehrung
+- **GG Art. 74 Abs. 1 Nr. 1**: Buergerliches Recht als konkurrierende Bundesgesetzgebung
+- **GG Art. 72**: Voraussetzungen bundesrechtlicher Vorrang
+- **ABGB (Oesterreich, 1811)**: Einfluss in sueddeutschen Gebieten bis 1900
+- **HoefeO**: Fortgeltendes Landesanerbenrecht als EGBGB-Rest
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Einzelstaaten vor 1871**: Quellen des Partikularrechts
+- **Bundesjustizministerium**: Vereinheitlichung oder Bewahrung Landesrecht
+- **Bundesrat**: Laenderinteressen in der Gesetzgebung
+- **Landesgesetzgeber**: Fortgehendes Laenderrecht in GG-Bereichen
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Rechtszersplitterung vor 1900: War sie nur Nachteil oder hatte sie Vorteile?
+2. EGBGB-Uebergangsrecht: Was blieb tatsaechlich als Laenderrecht?
+3. HoefeO: Ist Anerbenrecht verfassungskonform?
+4. Foederales Privatrecht: Sollte Deutschland mehr Laenderrecht im Zivilrecht zugelassen haben?
+5. Bayern vs. Bundesrecht: Konservative Landesrechtstrends in Familien- und Erbrecht
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- EGBGB historisch: RGBl. 1896, 604 via ALEX/OeNB
+- GG Art. 72 und 74: gesetze-im-internet.de
+- HoefeO: gesetze-im-internet.de
+- ABGB: oesterreichisches Bundesrecht bis 1900 (Einfluss sueddeutsches Recht)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Karte: Rechtsordnungen Deutschlands vor 1900
+- EGBGB-Uebergangsrecht: Was blieb als Landesrecht
+- Foederales Privatrecht heute: Bereiche und Beispiele
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+EGBGB 1900: RGBl. 1896, 604 via ALEX/OeNB. GG Art. 72 und 74: gesetze-im-internet.de. HoefeO: gesetze-im-internet.de. ABGB: oesterreichische Quellenausgaben.

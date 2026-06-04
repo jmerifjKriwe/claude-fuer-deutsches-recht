@@ -1,50 +1,50 @@
 ---
 name: drg-082-arbeitsgerichtsbarkeit-geschichte
-description: "Deutsche Rechtsgeschichte: Arbeitsgerichtsbarkeit Geschichte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Geschichte der Arbeitsgerichtsbarkeit. Gewerbegerichte des Kaiserreichs, Arbeitsgerichtsgesetz 1926, NS-Gleichschaltung, ArbGG 1953 und Bundesarbeitsgericht seit 1954."
 ---
 
 # Arbeitsgerichtsbarkeit Geschichte
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Arbeitsgerichtsbarkeit Geschichte** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Arbeitsgerichtsbarkeit entstand aus den Gewerbegerichten des Kaiserreichs. Das Reichsgewerbegericht von 1890 (RGBl. 1890, 141) schuf paritaetisch besetzte Schiedsgerichte fuer Arbeitssachen. Das Arbeitsgerichtsgesetz (ArbGG) vom 23. Dezember 1926 (RGBl. I 1926, 507) schuf eigenstaendige Arbeitsgerichte. Im NS wurden Gewerkschaften verboten und durch die Deutsche Arbeitsfront (DAF) ersetzt; Arbeitsgerichte blieben formal bestehen, verloren aber Unabhaengigkeit. Das ArbGG 1953 (BGBl. I 1953, 1267) schuf die Nachkriegsordnung. Das Bundesarbeitsgericht (BAG) nahm 1954 in Kassel die Arbeit auf.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Reichsgewerbegericht 1890 (RGBl. 1890, 141)**: Paritaetische Schiedsgerichte fuer Arbeitssachen
+- **ArbGG 1926 (RGBl. I 1926, 507)**: Eigenstaendige Arbeitsgerichte im Deutschen Reich
+- **ArbGG 1953 (BGBl. I 1953, 1267)**: Nachkriegs-Arbeitsgerichtsgesetz
+- **ArbGG §§ 2-3 aktuell**: Zustaendigkeit und Aufbau
+- **GVG §§ 169 ff.**: Oeffentlichkeitsprinzip, gilt auch fuer Arbeitsgerichte
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Hugo Sinzheimer** (1875-1945): Vater des deutschen Arbeitsrechts, Einfluss auf ArbGG 1926
+- **DAF (Deutsche Arbeitsfront)**: NS-Ersatz fuer Gewerkschaften und Arbeitnehmervertreter
+- **BAG Kassel**: Bundesarbeitsgericht seit 1954, Leitinstanz
+- **DGB und BDA**: Tarifvertragsparteien, praktizierende Akteure der Arbeitsgerichtsbarkeit
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Paritaet in Arbeitsgerichten: Sind ehrenamtliche Richter aus Arbeitgeber- und Arbeitnehmerseite sinnvoll?
+2. ArbGG 1926: War die Errichtung eigenstaendiger Arbeitsgerichte eine Errungenschaft der Weimarer Demokratie?
+3. NS-Gleichschaltung der Arbeitsgerichte: Wie weit reichte die politische Kontrolle?
+4. BAG und Richterrecht: Hat das BAG durch Richterrecht das Arbeitsrecht massgeblich fortentwickelt?
+5. Schnelligkeit des Verfahrens: Ist der Guetetermin (§ 54 ArbGG) ein effektives Instrument?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- ArbGG 1926: RGBl. I 1926, 507 via ALEX/OeNB
+- ArbGG aktuell: gesetze-im-internet.de
+- BAG-Rspr.: bundesarbeitsgericht.de oder JURIS
+- Sinzheimer: Arbeitsrechtliche Schriften, historische Erstausgaben
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste Arbeitsgerichtsbarkeit: 1890-1954
+- ArbGG 1926 vs. ArbGG 1953: Strukturvergleich
+- BAG-Leitentscheidungen: Auswahl nach Rechtsgebiet
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+ArbGG 1926: RGBl. I 1926, 507 via ALEX/OeNB. ArbGG aktuell: gesetze-im-internet.de. BAG: bundesarbeitsgericht.de oder JURIS. Sekundaerliteratur: Sinzheimer mit Werk und Seite.

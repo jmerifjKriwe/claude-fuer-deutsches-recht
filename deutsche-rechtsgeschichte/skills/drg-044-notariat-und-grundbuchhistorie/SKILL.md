@@ -1,50 +1,50 @@
 ---
 name: drg-044-notariat-und-grundbuchhistorie
-description: "Deutsche Rechtsgeschichte: Notariat Und Grundbuchhistorie. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Notariat und Grundbuchhistorie. Entstehung des Notariats im Mittelalter, deutsche Notariatsgeschichte, Beurkundungsgesetz 1969 und Grundbuchordnung im historischen Wandel."
 ---
 
-# Notariat Und Grundbuchhistorie
+# Notariat und Grundbuchhistorie
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Notariat Und Grundbuchhistorie** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Notariat hat mittelalterliche Wurzeln im kaiserlichen und paepstlichen Notariat (notarius publicus). In Deutschland entwickelte sich das Notariat unterschiedlich je nach Region: Rheinisches Notariat (nach Code Civil-Muster, hauptberuflich), Preussisches Notariat (Justiznotar, kombiniert mit Gerichtsfunktionen). Die Grundbuchordnung 1897 (RGBl. 1897, 139) schuf das moderne Grundbuchsystem, fuer das notarielle Beurkundung bei Grundstuecksgeschaeften notwendig wurde (§ 311b BGB). Das Beurkundungsgesetz 1969 (BeurkG, BGBl. I 1969, 1513) regelt die Beurkundungstaetigkeit der Notare heute.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **BGB § 311b Abs. 1**: Beurkundungspflicht bei Grundstueckskaufvertraegen
+- **BeurkG 1969 (BGBl. I 1969, 1513)**: Beurkundungsverfahren und Notarspflichten
+- **GBO 1897 (RGBl. 1897, 139)**: Grundbuchordnung
+- **BNotO (BGBl. I 1961, 97)**: Bundesnotarordnung, Rechtsstellung der Notare
+- **Nuernberger Notariatsordnung 1512**: Historisches Beispiel fruehneuzeitlicher Notariatsregeln
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Notarkammern**: Standesorganisationen der Notare
+- **Deutsche Notarrechtliche Vereinigung**: Wissenschaftliche Aufarbeitung
+- **Joachim Gernhuber** (1921-2001): Privatrechtler, Beurkundungsrecht
+- **Justizministerien der Laender**: Aufsicht ueber das Notariat
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Haupt- vs. Nebenamt-Notariat: Vor- und Nachteile verschiedener Notariatssysteme
+2. Beurkundungszwang § 311b BGB: Verbraucherpaternalismus oder sinnvoller Schutz?
+3. Elektronisches Grundbuch: Gefaehrdet es die Verlaeesslichkeit des Grundbuchs?
+4. Notarielle Protokolle als historische Quelle: Verlaeesslichkeit und Zugang
+5. Rheinisches Notariat nach 1900: Kontinuitaet oder Assimilation ans preussische Modell?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- GBO und BeurkG: gesetze-im-internet.de
+- BNotO: gesetze-im-internet.de
+- BGB § 311b: gesetze-im-internet.de; historisch Mugdan Bd. III
+- Historische Notariatsakten: Landesarchive (Bestaende der Notariatsprotokolle)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Notariatsformen im Vergleich: Hauptamt, Nebenamt, Rheinisches Modell
+- Beurkundungspflicht § 311b BGB: Voraussetzungen und Folgen bei Verstoss
+- GBO-Grundbuchsystem: Funktionsprinzipien und historische Entwicklung
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+BeurkG und GBO: gesetze-im-internet.de. BGB § 311b: gesetze-im-internet.de. BNotO: gesetze-im-internet.de. Historische Notariatsakten: Landesarchive.

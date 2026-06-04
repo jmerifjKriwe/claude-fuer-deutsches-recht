@@ -1,50 +1,52 @@
 ---
 name: ihl-069-ip-license-in-supply-chain
-description: "Internationales Handelsrecht und Lex Mercatoria: IP License In Supply Chain. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: IP-Lizenzen in der Lieferkette. Patentzwangslizenz, Markenlizenz, Know-how-Lizenz, Reichweite von Sublizenzrechten, Exhaustion-Doktrin (EUIPO) und IP-Klauseln in Supply-Chain-Verträgen."
 ---
 
-# IP License In Supply Chain
+# IP-Lizenzen in der Lieferkette
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **IP License In Supply Chain** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Lieferketten enthalten häufig IP-Rechte: der Hersteller lizenziert Know-how, der Auftraggeber lizenziert Marken oder Produktdesigns. IP-Klauseln in Lieferverträgen regeln Background IP, Foreground IP, Sublizenzrecht und Post-termination-Nutzung. Die Erschöpfungsdoktrin (Exhaustion) begrenzt IP-Rechte nach Erstinverkehrbringung.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **PatG § 9**: Patentrecht — Verbotsrecht des Patentinhabers
+- **PatG § 20**: Erschöpfung — nach Erstinverkehrbringung durch Patentinhaber
+- **MarkenG § 24**: Erschöpfung bei Marken — nach Erstverkauf im EWR
+- **§ 9 GeschGehG (HGeschGehG)**: Schutz von Know-how (Betriebsgeheimnis)
+- **TRIPS Art. 31**: Zwangslizenz für Patente (international)
+- **RL (EU) 2016/943 Art. 4**: Geheimhaltungsschutz in Lieferkette
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Background IP: IP das vor dem Vertrag bestand — bleibt Eigentum der einbringenden Partei
+- Foreground IP: IP das im Rahmen des Vertrags entsteht — Zuordnung vertraglich regeln
+- Sublizenz-Recht: Kann Lizenznehmer Unterlizenzen vergeben? Nur wenn ausdrücklich vereinbart
+- Erschöpfung (Regional, International): EWR-Erschöpfung — Parallelimporte aus Nicht-EWR nicht erschöpft
+- Zwangslizenz: TRIPS Art. 31 erlaubt unter engen Bedingungen (öffentliches Interesse)
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Hersteller-Know-how: Wie verhindern, dass Know-how nach Vertragsbeendigung genutzt wird?
+2. Erschöpfungsdoktrin: Parallelimporte aus Indien — erschöpft EU-Markenrecht?
+3. Foreground IP: Lieferant verbessert Auftraggeber-Technologie — wer hält Patent?
+4. Zwangslizenz-Risiko: Kann Entwicklungsland Zwangslizenz für patentierte Technologie verlangen?
+5. Know-how-Lizenz: Endet sie automatisch mit Liefervertrag oder braucht es explizite Kündigung?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- IP-Schedule im Liefervertrag: Background IP Liste, Foreground IP Zuordnung, Sublizenzrecht
+- Erschöpfung: keine parallele Einfuhr erlauben (Klausel: "Licensed solely for sale in [Territory]")
+- Know-how-Schutz: NDA + digitale Zugangskontrolle + Audit-Trail
+- Post-termination: IP-Nutzungsrecht explizit beenden (Übergangsphase mit Lizenz-Zeitfenster)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- IP-Klausel-Matrix für Lieferverträge (Background/Foreground/Sublizenz)
+- Erschöpfungs-Analyse für parallele Importe
+- Know-how-Schutzmaßnahmen-Checkliste
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+PatG §§ 9, 20: gesetze-im-internet.de. MarkenG § 24: gesetze-im-internet.de. HGeschGehG § 9: gesetze-im-internet.de. TRIPS Art. 31: wto.org. Unsicherheit bleibt sichtbar.

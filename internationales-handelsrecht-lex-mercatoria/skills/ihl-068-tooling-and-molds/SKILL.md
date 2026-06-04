@@ -1,50 +1,52 @@
 ---
 name: ihl-068-tooling-and-molds
-description: "Internationales Handelsrecht und Lex Mercatoria: Tooling And Molds. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Werkzeuge und Formen (Tooling and Molds) im internationalen Liefervertrag. Eigentumsrecht an Werkzeugen, Rückgabepflicht, Abschreibung, Auslandssicherung und chinesisches Recht bei Tooling in China."
 ---
 
-# Tooling And Molds
+# Werkzeuge und Formen im internationalen Liefervertrag
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Tooling And Molds** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Wenn der Auftraggeber Werkzeuge, Formen oder Gussformen beim Hersteller hinterlässt oder finanziert, sind Eigentumsrecht und Rückgabepflicht vertraglich zu regeln. In China besitzt der Hersteller physisch die Werkzeuge; ohne Eigentumsklausel und lokale Rechtsdurchsetzung ist der Zugriff schwierig. Ähnliche Probleme bestehen in anderen Niedriglohnländern.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **BGB § 929**: Übereignung — Einigung + Übergabe; im Ausland: lex situs gilt
+- **Chinesisches Sachenrecht (物权法) Art. 23**: Übergang beweglicher Sachen nach Übergabe
+- **HGB § 449**: Eigentumsvorbehalt — anwendbar wenn deutsches Recht gilt
+- **ProdHaftG § 1 Abs. 1**: Hersteller-Definition bei Werkzeug-gestützter Fertigung
+- **CISG Art. 68/69**: Eigentumsübergang? (CISG regelt das nicht — nationales Recht)
+- **UCC Art. 9 (USA)**: Security Interest in Tooling wenn US-Geschäft
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Werkzeug-Eigentumsklausel: "All tooling funded by Buyer shall remain property of Buyer"
+- Marking-Requirement: physische Markierung der Werkzeuge mit Eigentumsangabe
+- Rückgabepflicht: bei Vertragsbeendigung oder Wechsel des Zulieferers
+- Tool-Amortisation: oft in ersten Teilelieferungen einkalkuliert — dann Eigentum zu klären
+- Pfandrecht des Herstellers: Hersteller hält Werkzeuge als Druckmittel bei Zahlungsstreit
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Hersteller in China gibt Werkzeuge nicht heraus trotz Zahlungsverpflichtung: Rechtsmittel?
+2. Werkzeug-Amortisation: Nach 100.000 Teilen amortisiert — wer ist Eigentümer?
+3. Insolvent Hersteller: Werkzeuge in der Insolvenzmasse trotz Auftraggeber-Eigentumsrecht?
+4. Tooling-Schaden: Hersteller beschädigt Werkzeug — Schadensersatz nach welchem Recht?
+5. Vertragliche Übergabepflicht: Durchsetzung in China ohne Registrierung möglich?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Eigentumsklausel: ausdrücklich, mit physischer Markierung und schriftlicher Bestätigung
+- Chinesisches Recht: lokale Rechtsberatung; ggf. lokale Registrierung der Eigentumsrechte
+- Pfandrecht-Präventivn: Klausel "no lien" des Herstellers auf Auftraggeber-Werkzeuge
+- Amortisationsplan: schriftlich fixiert mit Übergangsmodalitäten
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Tooling-Ownership-Klausel-Muster
+- Checkliste: Werkzeuge in China sichern
+- Amortisationsplan-Muster
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+BGB § 929: gesetze-im-internet.de. CISG Art. 4: uncitral.un.org. Chinesisches Sachenrecht (物权法): moj.gov.cn (Englisch verfügbar). Schrifttum: Bing/Olesen, Doing Business in China (2020). Unsicherheit bleibt sichtbar.

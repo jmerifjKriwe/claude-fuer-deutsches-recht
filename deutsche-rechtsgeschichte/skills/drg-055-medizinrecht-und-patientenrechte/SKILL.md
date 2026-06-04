@@ -1,50 +1,50 @@
 ---
 name: drg-055-medizinrecht-und-patientenrechte
-description: "Deutsche Rechtsgeschichte: Medizinrecht Und Patientenrechte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Medizinrecht und Patientenrechte. Aerztliche Aufklaerungspflicht (RG-Rspr. 1894), Nuerenberger Kodex 1947, Patientenrechtegesetz 2013 und Sterbehilfe-Diskussion."
 ---
 
-# Medizinrecht Und Patientenrechte
+# Medizinrecht und Patientenrechte
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Medizinrecht Und Patientenrechte** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Medizinrecht hat sich im 20. Jh. aus dem allgemeinen Zivilrecht entwickelt. Das Reichsgericht anerkannte 1894 (RGZ 39, 127) die aerztliche Aufklaerungspflicht als Grundlage informierter Einwilligung. Der Nuernberger Kodex (1947), als Reaktion auf NS-Medizinexperimente, formulierte internationale Prinzipien fuer Medizinforschung. Das Arznei- und Arzneimittelgesetz (AMG 1978, BGBl. I 1978, 1069) und das Medizinproduktegesetz (MPG) folgten. Das Patientenrechtegesetz 2013 (BGBl. I 2013, 277) kodifizierte Patientenrechte im BGB (§§ 630a-630h). Die Sterbehilfe-Diskussion fuehrte zu BVerfGE 153, 182 (2020).
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **BGB §§ 630a-630h** (eingefuegt 2013): Behandlungsvertrag und Patientenrechte
+- **RGZ 39, 127** (1894): Aerztliche Aufklaerungspflicht als RG-Leitentscheidung
+- **Nuernberger Kodex 1947**: Informierte Einwilligung in Medizinforschung
+- **AMG 1978 (BGBl. I 1978, 1069)**: Arzneimittelgesetz
+- **BVerfGE 153, 182** (2020): Sterbehilfe und Selbstbestimmungsrecht
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Reichsgericht**: Aerztliche Aufklaerungspflicht 1894
+- **Bundesaerztekammer**: Berufsrecht und Standordnung
+- **BGH**: Leitentscheidungen zum Behandlungsvertrag
+- **BVerfG**: Sterbehilfe-Urteil 2020
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Aufklaerungspflicht: Wie weit muss der Arzt aufklaeren (RG 1894 bis heute)?
+2. Nuernberger Kodex: Gilt er als Gewohnheitsrecht oder nur als Empfehlung?
+3. Patientenrechtegesetz 2013: Brachte es mehr als die bisherige Rechtsprechung?
+4. Sterbehilfe: BVerfGE 153, 182 und seine Folgen fuer das Strafrecht
+5. AMG und Arzneimittelhaftung: Wer haftet bei Schaden durch Arzneimittel?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- BGB §§ 630a ff.: gesetze-im-internet.de
+- RGZ 39, 127: historische RG-Entscheidungssammlungen
+- BVerfGE 153, 182: bverfg.de vollstaendig lesen
+- AMG: gesetze-im-internet.de
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste Patientenrechte: 1894-2020
+- BGB §§ 630a-630h: Kernansprueche des Patienten
+- BVerfGE 153, 182 Sterbehilfe: Kernaussagen
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+BGB: gesetze-im-internet.de. BVerfGE 153, 182: bverfg.de. RGZ 39, 127: historische RG-Sammlung. AMG: gesetze-im-internet.de. Nuernberger Kodex: BMJ-Publikation oder historische Quellen.

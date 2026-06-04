@@ -1,78 +1,54 @@
 ---
 name: rom-015-rei-vindicatio
-description: "Römisches Recht: Rei Vindicatio. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Rei vindicatio - Eigentumsklage des Eigentümers gegen den Besitzer nach D. 6.1 (Ulpian), Gaius Inst. 4.16 und Voraussetzungen (Eigentum, Besitz des Gegners, Herausgabepflicht)."
 ---
 
-# Rei Vindicatio
+# Rei vindicatio - Eigentumsklage
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Rei Vindicatio** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die rei vindicatio ist die dingliche Klage des Eigentümers gegen den Besitzer auf Herausgabe der Sache. Kläger muss sein Eigentum beweisen (probatio diabolica bei lückenlosen Ketten). D. 6.1 (De rei vindicatione) enthält die klassische Lehre. Der besiegte Beklagte muss die Sache mit Früchten herausgeben, haftet aber nur bei dolus auf Verwendungsersatz (D. 6.1.36, Tryphoninus).
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 6.1.1 pr. (Ulpian)**: Rei vindicatio gegen jeden Besitzer
+- **D. 6.1.9 (Ulpian)**: Beklagter muss zum Zeitpunkt der litis contestatio besitzen
+- **D. 6.1.36 (Tryphoninus)**: Haftung des gutgläubigen Besitzers
+- **Gaius Inst. 4.16**: Petitorische Formel der rei vindicatio
+- **D. 6.1.20 (Ulpian)**: Herausgabe der fructus
+- **D. 6.1.62 (Papinian)**: Dolo malo desiit possidere
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- petitorisches Verfahren: Eigentumsfrage steht im Mittelpunkt
+- possessorium/petitorium: Besitzschutz vs. Eigentumsschutz
+- probatio diabolica: Eigentumsbeweis durch lückenlose Kette
+- fructus percipiendi: Früchte, die hätten gezogen werden müssen
+- litis aestimatio: Geldverurteilung bei Unmöglichkeit der Herausgabe
+- dolo malo desiit possidere: fiktive Haftung des unehrlichen Besitzers
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Verhältnis rei vindicatio - actio Publiciana: Wann welche Klage?
+2. Beweislast: Kläger muss Eigentum beweisen - probatio diabolica als Problem
+3. Haftung des gutgläubigen vs. bösgläubigen Besitzers auf Früchte
+4. Vindicatio und exceptio rei iudicatae
+5. Vergleich: rei vindicatio vs. § 985 BGB (Herausgabeanspruch)
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 6.1 (De rei vindicatione) als Haupttitel
+- Gaius Inst. 4.16
+- Lenel Das Edictum Perpetuum §§ 70ff. (Formelrekonstruktion)
+- Kaser RP I §§ 115-132; Kaser/Hackl Das römische Zivilprozessrecht
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: Voraussetzungen der rei vindicatio
+- Haftungsübersicht: gutgläubig vs. bösgläubiger Besitzer
+- Formelrekonstruktion nach Lenel
+- Vergleich: rei vindicatio vs. § 985 BGB
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
-
-## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
-
-### Schluesselstellen
-- **D. 6.1.1 (Ulpian)**: "Per hanc autem actionem liberae personae, quae sunt sui iuris, non petuntur" — die rei vindicatio ist die Eigentumsherausgabeklage.
-- **D. 6.1.9**: Klage erfordert Beweis des Eigentums durch den Klaeger.
-- **D. 6.1.17**: Bei Wertverlust waehrend Prozess Schadensersatz.
-
-### Tatbestand
-1. Klaeger ist Eigentuemer.
-2. Beklagter ist Besitzer.
-3. Sache ist identifizierbar (Specifikation).
-
-### Folgen
-- Hauptfolge: Herausgabe der Sache.
-- Bei boesglaeubigem Besitzer: Schadensersatz fuer Fruechte, Nutzungen, Wertminderung.
-- Bei gutglaeubigem Besitzer: nur seit Klagerhebung Haftung.
-
-### Subsumtionsbeispiel: Gestohlene Vase
-Sachverhalt: A hat Vase; B stiehlt sie; B verkauft sie an C, der nichts weiss; nach 6 Monaten findet A die Vase bei C.
-- **Roemisch**: D. 6.1 — A kann rei vindicatio gegen C erheben; C muss herausgeben; Schadensersatz fuer Nutzungen seit Klage. C hat actio empti gegen B auf Kaufpreis.
-- **BGB**: § 985 BGB Vindikation gegen C; § 935 BGB schliesst gutglaeubigen Erwerb gestohlener Sachen aus; C verliert; C hat § 437 Nr. 2 iVm § 433 BGB Anspruch gegen B.
-
-### Subsumtionsbeforderung: Nutzungen
-- Boesglaeubiger Besitzer: Haftung ab Besitzbegin.
-- Gutglaeubiger Besitzer: Haftung erst ab Klageerhebung (litiscontestation).
-- Heute: §§ 987-993 BGB Eigentuemer-Besitzer-Verhaeltnis — sehr aehnliches System.
-
+D. 6.1 (Mommsen-Krüger). Gaius Inst. 4. Lenel Edictum Perpetuum (archive.org). Kaser RP I.

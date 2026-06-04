@@ -1,50 +1,50 @@
 ---
 name: drg-081-zivilprozessgeschichte
-description: "Deutsche Rechtsgeschichte: Zivilprozessgeschichte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Zivilprozessgeschichte. Gemeines Prozessrecht, ZPO 1877, Eventualitaetsmaxime, Vereinfachungsnovelle 1977, ZPO-Reform 2002 und Kosten des Zivilprozesses."
 ---
 
 # Zivilprozessgeschichte
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Zivilprozessgeschichte** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Der Zivilprozess entwickelte sich aus der territorialen Gerichtsbarkeit der Einzelstaaten. Das gemeine Recht kannte das schriftliche Verfahren nach roemisch-kanonischem Muster (Litis contestatio, Eventualitaetsmaxime). Die ZPO von 1877 (RGBl. 1877, 83) schuf ein Einheitsprozessrecht und fugte Muendlichkeit und Oeffentlichkeit ein. Die Eventualitaetsmaxime wurde mit der Vereinfachungsnovelle 1977 (BGBl. I 1977, 861) weitgehend beseitigt. Die ZPO-Reform 2002 (BGBl. I 2001, 1887) restrukturierte das Rechtsmittelsystem und staerkte die erste Instanz.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **ZPO 1877 (RGBl. 1877, 83)**: Grundstruktur, Verhandlungs- und Muendlichkeitsgrundsatz
+- **Vereinfachungsnovelle 1977 (BGBl. I 1977, 861)**: Beseitigung der Eventualitaetsmaxime
+- **ZPO-Reform 2002 (BGBl. I 2001, 1887)**: Neues Rechtsmittelsystem, ZPO § 522
+- **ZPO §§ 128-165**: Muendliche Verhandlung, Oeffentlichkeit, Grundsaetze
+- **ZPO §§ 511-566**: Berufung, Revision nach der Reform 2002
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Adolf Wach** (1843-1926): ZPO-Kommentator, Lehre vom Rechtsschutzbeduerftnis
+- **Leo Rosenberg** (1879-1963): Lehrbuch des deutschen Zivilprozessrechts
+- **BGH**: Rechtsprechung zur ZPO, praegend fuer Auslegung
+- **Bundesjustizministerium**: ZPO-Reformen, laufende Anpassungen
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Eventualitaetsmaxime: War ihre Beseitigung ein Gewinn fuer die Prozessgerechtigkeit?
+2. Muendlichkeitsgrundsatz: Wie weit ist er heute noch verwirklicht?
+3. ZPO-Reform 2002: Hat die Staerkung der ersten Instanz die Gerichte entlastet?
+4. Kosten des Zivilprozesses: Zugang zum Recht vs. Prozessfinanzierer
+5. Online-Mahnverfahren und digitale ZPO: Historische Einordnung der Digitalisierung
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- ZPO: gesetze-im-internet.de
+- Historische Fassungen 1877: ALEX/OeNB
+- Vereinfachungsnovelle 1977 und ZPO-Reform 2002: BGBl. via gesetze-im-internet.de
+- BGH-Rechtsprechung zur ZPO: bgh.de
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitlinie ZPO: 1877 bis ZPO-Reform 2002
+- Vergleich: Eventualitaetsmaxime vor und nach 1977
+- ZPO-Rechtsmittelsystem 2002: Kernpunkte der Reform
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+ZPO: gesetze-im-internet.de. Historische ZPO-Fassungen: ALEX/OeNB. BGH: bgh.de. BGBl. fuer Novellentext.

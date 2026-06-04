@@ -1,50 +1,53 @@
 ---
 name: rom-031-innominatkontrakte
-description: "Römisches Recht: Innominatkontrakte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Innominatkontrakte (contractus innominati) nach D. 19.5 und D. 2.14 - Vier-Typen-Schema (do ut des etc.), actio praescriptis verbis und Abgrenzung zu Nominalkontrakten."
 ---
 
-# Innominatkontrakte
+# Innominatkontrakte (contractus innominati)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Innominatkontrakte** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Innominatkontrakte sind synallagmatische Verträge, die nicht zu den nominatae actiones (emptio, locatio etc.) gehören. Ihnen liegt das Schema zugrunde: do ut des (ich gebe, damit du gibst), do ut facias, facio ut des, facio ut facias. Schutzklage ist die actio praescriptis verbis (condictio causa data causa non secuta bei Vorleistung ohne Gegenleistung). D. 19.5 ist der zentrale Titel.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 19.5.1 (Labeo/Ulpian)**: Aktionen für Innominatkontrakte
+- **D. 2.14.7.2 (Ulpian)**: Vier-Typen-Schema
+- **D. 19.5.5 pr. (Paulus)**: Actio praescriptis verbis
+- **D. 12.6.15.1 (Paulus)**: Condictio causa data causa non secuta
+- **Iust. Inst. 3.14.2 i.V.m. 3.13.2**: Quasi ex contractu für Innominatkontrakte
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- contractus innominatus: Vertrag ohne eigenen Namen (Sonderform)
+- do ut des: Austausch Sache gegen Sache
+- do ut facias: Sache gegen Handlung
+- facio ut des: Handlung gegen Sache
+- facio ut facias: Handlung gegen Handlung
+- actio praescriptis verbis: Klage mit vorausgeschickter Beschreibung
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Innominatkontrakt: eigene Vertragskategorie oder Spezialfall von condictio?
+2. Rückforderung nach Vorleistung: condictio ob causam datorum oder actio praescriptis verbis?
+3. Verhältnis zu den Nominalkontrakten: ergänzend oder konkurrierend?
+4. Permutatio (Tausch) als Innominatkontrakt (D. 19.4)
+5. Einfluss auf BGB: atypische Verträge und § 311 BGB
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 19.5 (De praescriptis verbis et in factum actionibus) als Haupttitel
+- D. 2.14 (De pactis)
+- D. 19.4 (De rerum permutatione)
+- Kaser RP I §§ 235-240; Zimmermann Law of Obligations Kap. 17
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: vier Innominatkontrakt-Typen
+- Klagenübersicht: actio praescriptis verbis vs. condictio
+- Beispielsfälle aus D. 19.5
+- Vergleich röm. Innominatkontrakt vs. atypischer BGB-Vertrag
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 19.5; D. 19.4; D. 2.14 (Mommsen-Krüger). Gaius Inst. 3. Kaser RP I. Zimmermann.

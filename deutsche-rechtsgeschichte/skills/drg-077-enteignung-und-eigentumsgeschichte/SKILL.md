@@ -1,50 +1,50 @@
 ---
 name: drg-077-enteignung-und-eigentumsgeschichte
-description: "Deutsche Rechtsgeschichte: Enteignung Und Eigentumsgeschichte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Enteignung und Eigentumsgeschichte. Sozialbindung des Eigentums WRV Art. 153, GG Art. 14, Enteignungsrecht im Kaiserreich, NS-Enteignungen und Wiedervereinigungsenteignungen."
 ---
 
-# Enteignung Und Eigentumsgeschichte
+# Enteignung und Eigentumsgeschichte
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Enteignung Und Eigentumsgeschichte** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Verhaeltnis von Eigentum und staatlichem Zugriff ist ein Kernthema der deutschen Rechtsgeschichte. Im Kaiserreich galt das Allgemeine Preussische Enteignungsgesetz 1874 (PrEG, PrGBl. 1874, 221) als Muster. Die WRV Art. 153 garantierte Eigentum mit Sozialbindung und Entschaedigungsgebot. Das NS-Regime enteignete politische Gegner und Juden ohne Entschaedigung (11. Verordnung zum RBG 1941). Das GG Art. 14 schuetzt Eigentum mit Sozialbindung und Entschaedigungsgebot (Abs. 3). Die DDR-Bodenreform-Enteignungen 1945-49 blieben nach Einigungsvertrag endgueltig (BVerfGE 84, 90).
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **WRV Art. 153**: Eigentumsgarantie mit Entschaedigungspflicht
+- **GG Art. 14**: Eigentumsgarantie mit Sozialbindung und Enteignungsgebot
+- **PrEG 1874 (PrGBl. 1874, 221)**: Preussisches Enteignungsgesetz
+- **11. Verordnung zum RBG 1941 (RGBl. I 1941, 722)**: NS-Vermoegensenteignung von Juden
+- **BVerfGE 84, 90** (1991): DDR-Bodenreform-Enteignungen keine Grundrechtsverletzung
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Preussische Regierung**: PrEG 1874, Grundlage des modernen Enteignungsrechts
+- **NS-Regime**: Enteignungen politischer Gegner und Juden
+- **BVerfG**: GG Art. 14-Dogmatik, DDR-Bodenreform-Entscheidungen
+- **EGMR**: Art. 1 ZP 1 EMRK als zusaetzliche Schranke
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. WRV Art. 153 Sozialbindung: War sie ein Grundrechtsvorbehalt oder ein Programmziel?
+2. GG Art. 14 und Junktimklausel: Wann ist eine Enteignung ohne Entschaedigung gueltig?
+3. NS-Enteignungen: Wurden sie nach 1945 vollstaendig aufgehoben?
+4. DDR-Bodenreform: BVerfGE 84, 90 versus EGMR Art. 1 ZP 1 EMRK
+5. Stadtentwicklung und Enteignung heute: Berliner Enteignungsinitiative 2021 und GG Art. 14
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- GG Art. 14: gesetze-im-internet.de; BVerfGE: bverfg.de
+- PrEG 1874: historische Edition PrGBl.
+- NS-11. Verordnung: RGBl. I 1941, 722 via ALEX/OeNB
+- EGMR: hudoc.echr.coe.int
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Enteignungsrecht-Zeitleiste: PrEG 1874 bis GG Art. 14
+- NS-Enteignungen: Systematik und Aufarbeitung
+- BVerfGE 84, 90 und EGMR: Parallelentscheidungen
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+GG Art. 14: gesetze-im-internet.de. BVerfGE: bverfg.de. NS-Verordnungen: ALEX/OeNB. EGMR: hudoc.echr.coe.int. PrEG 1874: historische PrGBl.-Edition.

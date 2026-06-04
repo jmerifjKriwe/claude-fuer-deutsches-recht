@@ -1,50 +1,52 @@
 ---
 name: ihl-053-currency-risk-and-indexation
-description: "Internationales Handelsrecht und Lex Mercatoria: Currency Risk And Indexation. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Währungsrisiko und Indexklauseln in internationalen Verträgen. Wechselkursrisiko-Allokation, Hard-Currency-Klauseln, Zahlungswährung vs. Rechnungswährung, CISG Art. 54 Zahlungspflicht und IWF-SZR-Referenzierung."
 ---
 
-# Currency Risk And Indexation
+# Währungsrisiko und Indexklauseln
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Currency Risk And Indexation** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Wechselkursrisiken können den wirtschaftlichen Vertragswert erheblich verschieben. Parteien können das Risiko durch Hard-Currency-Klauseln (USD, EUR), Indexklauseln oder Currency-Hedge-Verpflichtungen allozieren. CISG regelt die Zahlungspflicht (Art. 54) aber nicht explizit das Währungsrisiko.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CISG Art. 54**: Zahlungspflicht des Käufers — alle Maßnahmen um Zahlung zu ermöglichen
+- **CISG Art. 74**: Schadensersatz inkl. Wechselkursverlust? (str. in Rspr.)
+- **PICC Art. 6.1.9**: Zahlung in Fremdwährung — Umrechnung bei Hindernis
+- **Rom I VO Art. 12 Abs. 1 lit. b**: Vertragserfüllung — Zahlungsmodalitäten nach Vertragsstatut
+- **IWF Art. IV Abs. 2 lit. b IWF-Statut**: Sonderziehungsrechte (SZR) als Referenzwährung
+- **BGH XI ZR 238/12**: Währungsklausel und Anpassungsrecht
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Hard Currency Clause: Zahlung nur in USD/EUR — schützt Verkäufer bei Käuferwährungs-Abwertung
+- Currency Basket Klausel: Zahlung referenziert IWF-SZR oder gemischten Währungskorb
+- Zahlungswährung vs. Rechnungswährung: unterschiedliche Funktionen im Vertrag
+- Force-Majeure-Währungsrisiko: Extremabwertung als FM? (Grundsätzlich kein FM — normales Marktrisiko)
+- PICC Art. 6.1.9: Umrechnung nach Tageskurs am Fälligkeitstag
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. USD-Preisklausel: Käufer zahlt in EUR — welcher Umrechnungszeitpunkt gilt?
+2. Extreme Abwertung (50%): Hardship oder normales Geschäftsrisiko?
+3. CISG Art. 78: Zinsen auf Zahlungsrückstand — in welcher Währung?
+4. Indexklausel: Anpassung an Rohstoffpreisindex — Probleme bei Indexabschaffung?
+5. Währungskontrollen: Zahlung durch Käufer unmöglich wegen staatlichen Kontrollen — FM?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Vertragsklausel: Zahlungswährung und Umrechnungsmethode explizit regeln
+- Hedging-Empfehlung: bei langen Laufzeiten Währungsforward-Absicherung empfehlen
+- Indexklausel: Fallback-Index für Fälle der Indexabschaffung definieren
+- Währungskontrollen: Force-Majeure-Klausel explizit auf Devisenbeschränkungen erstrecken
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Hard-Currency-Klausel-Muster
+- Indexklausel-Muster (mit Fallback)
+- Währungsrisiko-Matrix für Top-Handelsländer
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG Art. 54, 74, 78: uncitral.un.org. PICC Art. 6.1.9: unidroit.org. Rom I Art. 12: eur-lex.europa.eu. Unsicherheit bleibt sichtbar.

@@ -1,50 +1,52 @@
 ---
 name: ihl-012-schiedsklausel-icc-dis
-description: "Internationales Handelsrecht und Lex Mercatoria: Schiedsklausel ICC DIS. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Schiedsklauseln nach ICC-Schiedsregeln 2021 und DIS-Schiedsregeln 2018. Musterklauseln, Sitzwahl, Anzahl Schiedsrichter, Verfahrenssprache, Schnellverfahren (Expedited Procedure) und pathologische Klauseln."
 ---
 
-# Schiedsklausel ICC DIS
+# Schiedsklauseln: ICC und DIS
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Schiedsklausel ICC DIS** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Schiedsklausel ist die prozessuale Grundlage internationaler Streitbeilegung. ICC (International Chamber of Commerce, Regeln 2021) und DIS (Deutsche Institution für Schiedsgerichtsbarkeit, Regeln 2018) bieten Musterschiedsklauseln. Pathologische Klauseln (widersprüchliche Institution, fehlender Schiedsort) können zur Unzuständigkeit führen.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **ICC Schiedsregeln 2021 Art. 6**: Schiedsvereinbarung und Zuständigkeit des Gerichtshofs
+- **ICC Schiedsregeln 2021 Anhang VI**: Expedited Procedure (automatisch bei < USD 3 Mio.)
+- **DIS-Schiedsregeln 2018 § 1**: Schiedsvereinbarung; § 2 Schiedsort
+- **New York Konvention 1958 Art. II**: Schriftform der Schiedsvereinbarung
+- **UNCITRAL Model Law Art. 7**: Formvorschriften Schiedsvereinbarung (Option I/II)
+- **Deutsches Recht: § 1031 ZPO**: Schiedsvereinbarung — Formvorschriften
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Separabilität der Schiedsklausel (Competence-Competence, Art. 6 ICC Regeln)
+- Schiedsort vs. Verfahrensort (Tagungsort) — Recht des Schiedsorts ist lex arbitri
+- Schnellverfahren ICC: automatisch anwendbar, opt-out möglich
+- Pathologische Klausel: widersprüchlicher Sitz, nicht existente Institution, ausgeschlossene Anfechtung
+- Multi-Party/Multi-Contract-Schiedsgerichtsbarkeit (ICC Regeln 2021 Art. 7-10)
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Gilt ICC Schnellverfahren automatisch auch bei laufenden Verträgen die vor 2021 geschlossen wurden?
+2. Wie wähle ich zwischen Einzelschiedsrichter (< 1 Mio. EUR) und Dreierschiedsgericht?
+3. Schiedsklausel in AGB: Gilt Einbeziehungserfordernis (§ 1031 Abs. 5 ZPO) bei B2B?
+4. Kann Schiedsklausel auf bestimmte Anspruchsarten beschränkt werden (carved-out disputes)?
+5. Multi-Party: Wie nominieren mehrere Beklagte einen gemeinsamen Schiedsrichter?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- ICC-Musterklausel als Ausgangspunkt, dann anpassen (Sitz, Sprache, Richteranzahl)
+- Schiedsort nach: Neutralität, Vollstreckungsfreundlichkeit, lex arbitri-Qualität
+- Schnellverfahren: opt-out ausdrücklich in Klausel, wenn nicht gewünscht
+- Pathologische Klauseln: Test vor Unterzeichnung — ist Institution eindeutig identifiziert?
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- ICC-Musterklausel (Standard und Expedited)
+- DIS-Musterklausel (Standard)
+- Checkliste: Schiedsort-Auswahl nach Vollstreckungsrisiko
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+ICC Regeln 2021: iccwbo.org. DIS Regeln 2018: dis-arb.de. New York Konvention: newyorkconvention.org. § 1031 ZPO: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.

@@ -1,50 +1,51 @@
 ---
 name: ihl-049-framework-agreement-and-call-offs
-description: "Internationales Handelsrecht und Lex Mercatoria: Framework Agreement And Call Offs. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Rahmenvertrag (Framework Agreement) und Abrufaufträge (Call-Offs). Verhältnis Rahmen- zu Einzelauftrag, CISG-Anwendbarkeit auf Abrufaufträge, Mindestmengen, Exklusivität, Preisrecht und Kündigung."
 ---
 
-# Framework Agreement And Call Offs
+# Rahmenvertrag und Abrufaufträge
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Framework Agreement And Call Offs** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Rahmenverträge schaffen einen Handlungsrahmen ohne sofortige Kaufverpflichtung; Abrufaufträge (Call-Offs) aktivieren die Lieferpflicht für konkrete Mengen. Ob der Rahmenvertrag selbst ein bindender Vertrag ist, hängt von der Bestimmtheit (Art. 14 CISG) ab. CISG gilt für jeden Einzelabruf.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CISG Art. 14 Abs. 1**: Bestimmtheit des Angebots — Rahmenvertrag ohne Mengenangabe: Angebot oder Einladung?
+- **CISG Art. 6**: Parteiautonomie — Rahmenvertrag kann CISG für Einzelabrufe modifizieren
+- **BGB § 311 Abs. 1**: Schuldverhältnis durch Vertrag (Rahmenvertrag als Organisationsvertrag)
+- **GWB § 20 Abs. 1**: Diskriminierungsverbot bei Rahmenvereinbarungen (Marktbeherrschung)
+- **EU-RL 2014/24/EU Art. 33**: Rahmenvereinbarungen im öffentlichen Beschaffungswesen
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Mastervertrag vs. Abrufauftrag: Rahmen schafft Pflichten, Abruf löst Kaufverpflichtung aus
+- Mindestmenge vs. Schätzung: Nur Mindestmengen sind verbindlich; Schätzmengen nicht
+- Exklusivität: ist der Lieferant exklusiver Anbieter? Wettbewerbsrecht-Grenzen
+- Laufzeit und Kündigung: Rahmenvertrag-Kündigung vs. laufende Abrufaufträge
+- Call-Off-Verfahren: elektronisch, per Bestellnummer, Frist, Format
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Rahmenvertrag ohne Mindestmenge: Käufer ruft nie ab — Haftung für entgangenen Gewinn?
+2. Abruf außerhalb Rahmenmengen: Gilt Rahmenpreis oder Marktpreis?
+3. CISG auf Rahmenvertrag: Wann gilt CISG — bei Abschluss des Rahmens oder des Abrufs?
+4. Exklusivität: Ist 100%-Lieferpflicht exklusiv des Lieferanten kartellrechtswidrig?
+5. Kündigung Rahmenvertrag: Laufende Abrufaufträge nach Kündigung — was gilt?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Mindestmengen immer als verbindliche Abnahmepflicht (Take-or-Pay) definieren
+- CISG: für Einzelabruf gilt CISG sobald Bestellung Bestimmtheits-Test erfüllt (Art. 14)
+- Exklusivitätsklausel: wettbewerbsrechtliche Grenzen (GWB, Art. 101 AEUV)
+- Bestellverfahren: elektronisch und mit Bestätigungsobliegenheit
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Rahmenvertrag-Struktur-Muster
+- Abrufauftrags-Formular-Vorlage
+- Mindestmengen-Klausel mit Take-or-Pay-Element
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG Art. 14: uncitral.un.org. BGB §§ 311, 433: gesetze-im-internet.de. GWB § 20: gesetze-im-internet.de. EU-RL 2014/24/EU: eur-lex.europa.eu. Unsicherheit bleibt sichtbar.

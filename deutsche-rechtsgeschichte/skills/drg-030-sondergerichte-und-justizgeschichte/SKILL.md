@@ -1,50 +1,50 @@
 ---
 name: drg-030-sondergerichte-und-justizgeschichte
-description: "Deutsche Rechtsgeschichte: Sondergerichte Und Justizgeschichte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Sondergerichte und NS-Justizgeschichte. Volksgerichtshof, Sondergerichte 1933, Kriegsgerichtsbarkeit, NS-Richter nach 1945 und Aufarbeitung durch Ingo Mueller."
 ---
 
-# Sondergerichte Und Justizgeschichte
+# Sondergerichte und NS-Justizgeschichte
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Sondergerichte Und Justizgeschichte** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das NS-Regime schuf ein paralleles Gerichtssystem neben der ordentlichen Gerichtsbarkeit. Die Sondergerichte (Verordnung vom 21. Maerz 1933, RGBl. I 1933, 136) urteilten schnell und ohne volle Prozessgarantien ueber politische Delikte. Der Volksgerichtshof (VGH, geschaffen 1934 nach dem Reichstagsbrandprozess) war fuer Hochverrat und Landesverrat zustaendig. Roland Freisler als VGH-Praesident (ab 1942) wurde zur personifizierten NS-Justiz. Kriegsgerichte vollstreckten Todesurteile schnell. Nach 1945 amtierten viele NS-Richter weiter. Ingo Mueller analysierte dies in Furchtbare Juristen (1987).
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Verordnung ueber Sondergerichte 1933 (RGBl. I 1933, 136)**: Gruendung der Sondergerichte
+- **Volksgerichtshofgesetz 1934 (RGBl. I 1934, 341)**: Gruendung des Volksgerichtshofs
+- **Kriegsstrafverfahrensordnung 1939 (RGBl. I 1939, 1457)**: Kriegsgericht-Grundlage
+- **Heimtueckegesetz 1934 (RGBl. I 1934, 1269)**: Straftatbestand fuer Kritik an NS
+- **NS-Aufhebungsgesetz 1998 (BGBl. I 1998, 2501)**: Nachtraegliche Aufhebung von NS-Strafurteilen
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Roland Freisler** (1893-1945): VGH-Praesident, Symbol NS-Justizterror
+- **Otto Thierack** (1889-1946): Reichsjustizminister, verantwortlich fuer NS-Strafrecht
+- **Bundesjustizminister** 1959-1978: Weitgehende Nichtaufarbeitung NS-Richterkontinuitaet
+- **Ingo Mueller** (*1940): Furchtbare Juristen (1987), wissenschaftliche Aufarbeitung
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. War der Volksgerichtshof ein Gericht oder ein politisches Tribunal?
+2. Legalitaet der Sondergerichte 1933: Hatten sie eine formell gueltige Rechtsgrundlage?
+3. Weiterwirken NS-Richter: Wer prueft heute Urteile auf NS-Hintergrund?
+4. NS-Aufhebungsgesetz 1998: Warum dauerte es so lange?
+5. Sondergerichts-Tradition: Gibt es problematische Weiterungen in heutigen Schnellverfahren?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Sondergerichtsverordnung 1933: RGBl. I 1933, 136 via ALEX/OeNB
+- VGH-Urteile: Bundesarchiv Berlin (BArch, Bestand R 3018 Volksgerichtshof)
+- NS-Aufhebungsgesetz 1998: BGBl. I 1998, 2501; gesetze-im-internet.de
+- Mueller Furchtbare Juristen (1987): historische Erstausgabe, Seite angeben
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Sondergerichtssystem 1933-1945: Strukturueberblick
+- VGH-Statistik: Todesurteile und politische Verurteilungen
+- NS-Richterbiografien nach 1945: Ausgewaehlte Fallbeispiele
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+RGBl. NS-Sondergerichte: ALEX/OeNB. VGH-Akten: Bundesarchiv Berlin (Bestand R 3018). NS-Aufhebungsgesetz 1998: BGBl. I 1998, 2501. Mueller Furchtbare Juristen (1987): Ausgabe und Seite.

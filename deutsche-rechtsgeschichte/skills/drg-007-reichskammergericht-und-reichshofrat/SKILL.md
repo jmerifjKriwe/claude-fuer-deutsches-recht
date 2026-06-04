@@ -1,50 +1,48 @@
 ---
 name: drg-007-reichskammergericht-und-reichshofrat
-description: "Deutsche Rechtsgeschichte: Reichskammergericht Und Reichshofrat. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Reichskammergericht (1495-1806) und Reichshofrat (1497-1806). Aufbau, Zustaendigkeit, Rezeption des gelehrten Rechts, Konkurrenz beider Gerichte und Bedeutung als Vorlaeufer moderner Obergerichte."
 ---
 
-# Reichskammergericht Und Reichshofrat
+# Reichskammergericht und Reichshofrat
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Reichskammergericht Und Reichshofrat** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Reichskammergericht (RKG) wurde 1495 auf dem Wormser Reichstag gegründet (RKGOrdnung 1495, RGBl. 1495 [Neue Sammlung]). Es war das erste staendige zentrale Reichsgericht und schrieb die Anwendung des gemeinen Rechts (roemisch-kanonisches Recht) vor. 1527 nach Speyer verlegt, blieb es bis 1806 taetig. Der Reichshofrat (1497/1559) war das kaiserliche Konkurrenzgericht in Wien mit anderer Zusammensetzung und weniger strenger Bindung an das gelehrte Recht. Beide Gerichte bildeten die Spitze der Reichsgerichtsbarkeit. Die Besetzung des RKG (Haefte Reichsstaende, Haefte kaiserliche Ernennung) spiegelte die reichsstaendische Verfassung wider.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Reichskammergerichtsordnung 1495**: Gruendungsdokument und Verfahrensordnung
+- **Jungster Reichsabschluss 1654**: Letzte grosse RKG-Reform
+- **Kammerzielerordnung**: Finanzierung des RKG durch Reichsstaedte und Reichsstaende
+- **Wahlkapitulationen** (ab 1519): Sicherung der RKG-Existenz durch Kaiserwahl-Bedingungen
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Maximilian I.** (1459-1519): Gruender des RKG 1495
+- **Kameralrichter** (Praesidenten und Beisitzer): Richterliches Kollegium des RKG
+- **Prokuratoren und Advokaten am RKG**: Rechtsanwaltschaft vor dem Reichsgericht
+- **Ferdinand I.** (1503-1564): Ausbau des Reichshofrats
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Konkurrenz RKG vs. Reichshofrat: Welches Gericht war "besser"?
+2. Evokationsrecht des Kaisers: Konnte der Kaiser Sachen dem RKG entziehen?
+3. Kameralakten: Welche Verfahrensakten sind erhalten, welche vernichtet?
+4. Wirksamkeit: Hat das RKG tatsaechlich Frieden im Reich gesichert?
+5. 1806 und Ende des Alten Reichs: Was wurde aus den haengenden RKG-Verfahren?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- RKG-Ordnung 1495: historische Edition (Neue und Vollstaendigere Sammlung der Reichsabschluesse)
+- RKG-Kameralakten: Landesarchive (Speyer, Frankfurt); Inventar Smend (1911)
+- Sekundaerliteratur: Bernhard Diestelkamp, Wolfgang Sellert, Klaus Malettke
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Strukturvergleich RKG vs. Reichshofrat: Zusammensetzung, Zustaendigkeit, Verfahren
+- Wichtige RKG-Entscheidungen: Fallbeispiele aus den Kameralakten
+- Zeitleiste RKG 1495-1806 mit Reformstationen
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+RKG-Ordnung 1495: historische Druckausgaben (Neue Sammlung der Reichsabschluesse). RKG-Akten: Landesarchiv Speyer und Hauptstaatsarchiv. Sekundaerliteratur: Diestelkamp und Sellert mit Werk und Seite.

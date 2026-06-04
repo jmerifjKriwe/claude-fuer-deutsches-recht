@@ -1,50 +1,52 @@
 ---
 name: ihl-052-sprachfassung-und-auslegung
-description: "Internationales Handelsrecht und Lex Mercatoria: Sprachfassung Und Auslegung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Mehrsprachige Verträge und Auslegung. Kollision zwischen Sprachfassungen, Maßgeblichkeitsklauseln, CISG Art. 7-8 Auslegungsregeln, Treu-und-Glauben-Maßstab und rechtsvergleichende Auslegungsprobleme."
 ---
 
-# Sprachfassung Und Auslegung
+# Mehrsprachige Verträge und Auslegung
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Sprachfassung Und Auslegung** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Internationale Verträge werden häufig in zwei oder mehr Sprachen erstellt. Bei Widersprüchen zwischen Fassungen bestimmt die Maßgeblichkeitsklausel ("This Agreement shall prevail in the English version"). Fehlt sie, greifen allgemeine Auslegungsgrundsätze (CISG Art. 7-8, PICC Art. 4.1-4.7).
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CISG Art. 7 Abs. 1**: Auslegung — international, Einheitlichkeit, Treu und Glauben im Handel
+- **CISG Art. 8**: Auslegung von Parteierklärungen — tatsächlicher Wille vs. vernünftige Person
+- **PICC Art. 4.1**: Auslegung — gemeinsame Absicht der Parteien
+- **PICC Art. 4.6**: Auslegung contra proferentem — gegen Verfasser der Klausel
+- **Wiener Vertragsrechtskonvention (WVK) Art. 33**: Mehrsprachige Völkerrechtsstexte (als Auslegungsvergleich)
+- **§ 305c Abs. 2 BGB**: Unklarheitenregel — Zweifel gegen AGB-Verwender
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Maßgeblichkeitsklausel: "In case of conflict, the English version shall prevail"
+- Gleichrangige Fassungen: Auslegungssynopse nötig; Wortlaut der anderen Sprache als Kontext
+- Autonome Auslegung (CISG Art. 7 Abs. 1): keine nationalen Rechtsbegriffe importieren
+- Contra proferentem: unklare Klausel geht gegen den Verfasser
+- Ergänzende Auslegung: Lücken nach hypothetischem Parteiwillen schließen
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Englischer Text: "reasonable time"; chinesischer Text: "30 Tage" — welche Version gilt?
+2. CISG-Auslegung: Darf Richter nationales Recht zur Bedeutungsfindung heranziehen?
+3. Contra proferentem: Gilt es bei individuell ausgehandelten Klauseln?
+4. Lücke im Vertrag: Wie füllt CISG Art. 7 Abs. 2 interne Lücke?
+5. PICC Art. 4.6: Wann ist eine Klausel "unclear" im Sinne der Contra-proferentem-Regel?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Maßgeblichkeitsklausel in jedem mehrsprachigen Vertrag einbauen
+- Widersprüche: Sprachvergleich vor Unterzeichnung (bilingualer Jurist)
+- CISG-Auslegung: immer an CISG-Quellen (CISG-online.ch, uncitral.un.org) orientieren
+- Lücken: intern aus CISG, dann aus IPR-Vertragsstatut
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Maßgeblichkeitsklausel-Muster (Englisch und Deutsch)
+- Auslegungsregeln-Übersicht (CISG / PICC / BGB)
+- Checkliste: Mehrsprachiger Vertragsabschluss
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG Art. 7-8: uncitral.un.org. PICC Art. 4.1-4.7: unidroit.org. BGB § 305c Abs. 2: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.

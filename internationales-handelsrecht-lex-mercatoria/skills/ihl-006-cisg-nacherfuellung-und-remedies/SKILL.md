@@ -1,50 +1,52 @@
 ---
 name: ihl-006-cisg-nacherfuellung-und-remedies
-description: "Internationales Handelsrecht und Lex Mercatoria: CISG Nacherfuellung Und Remedies. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Rechtsbehelfe des Käufers nach CISG Art. 45-52. Nacherfüllung (Art. 46), Nachfrist (Art. 47), Vertragsaufhebung (Art. 49), Minderung (Art. 50), Schadensersatz (Art. 74-77) und Zusammenspiel der Rechtsbehelfe."
 ---
 
-# CISG Nacherfuellung Und Remedies
+# Rechtsbehelfe des Käufers (CISG Art. 45-52)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **CISG Nacherfuellung Und Remedies** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das CISG etabliert ein einheitliches Rechtsbehelfssystem für den Käufer. Der Käufer kann Erfüllung, Nacherfüllung, Vertragsaufhebung, Minderung und Schadensersatz kumulieren (Art. 45 Abs. 2: kein Verlust durch Schadensersatzklage). Voraussetzung ist stets die rechtzeitige Rüge nach Art. 38-39 CISG. Nacherfüllung (Art. 46 Abs. 2) ist nur bei wesentlicher Verletzung möglich.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Art. 45 CISG**: Überblick Käufer-Rechtsbehelfe, Kumulierbarkeit
+- **Art. 46 CISG**: Erfüllungsanspruch; Abs. 2 Ersatzlieferung (wesentlich), Abs. 3 Nachbesserung
+- **Art. 47 CISG**: Nachfristsetzung (Nachholverpflichtung)
+- **Art. 49 CISG**: Aufhebung — wesentlich (Abs. 1 lit. a) oder nach Nachfrist (lit. b)
+- **Art. 50 CISG**: Minderung — Verhältnis Istwert/Sollwert im Zeitpunkt der Lieferung
+- **Art. 52 CISG**: Frühlieferung und Mehrlieferung
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Rangfolge der Rechtsbehelfe (kein strikter Vorrang der Nacherfüllung im CISG)
+- Minderungsformel Art. 50: (Istwert / Sollwert) × Kaufpreis
+- Aufhebungserklärung Art. 26: formfrei, aber unverzüglich
+- Fristen Art. 49 Abs. 2: Käufer muss Aufhebung zeitnah erklären nach Kenntnis
+- Selbstvornahme und Regress bei CISG? (Fehlt explicit — nationale Rechtsbehelfe)
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Kann Käufer Minderung und Schadensersatz gleichzeitig verlangen?
+2. Wie berechnet sich die Minderung bei nur teilweise mangelhafter Lieferung?
+3. Nachbesserungsrecht des Verkäufers (Art. 48) vs. Aufhebungsrecht des Käufers — Priorität?
+4. Verliert Käufer Rechtsbehelfe wenn er Ware ohne Rüge weiterverarbeitet?
+5. Art. 52 Mehrlieferung: Muss Käufer gesamte Mehrlieferung annehmen oder ablehnen?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Rügepflicht Art. 38-39 als Vorfrage immer prüfen
+- Minderungsberechnung konkret durchrechnen mit Marktwerten
+- Kumulierungsmöglichkeit dokumentieren in Anspruchsschreiben
+- Aufhebungsfrist Art. 49 Abs. 2 nicht versäumen (angemessene Zeit nach Kenntnis)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Rechtsbehelfstabelle: Voraussetzungen, Rechtsfolge, Fristen
+- Minderungs-Berechnungsbeispiel
+- Muster-Rüge- und Aufhebungsschreiben
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG: uncitral.un.org. CISG Advisory Council Opinion No. 2 (Art. 46) und No. 9 (Art. 50): cisgac.com. Rechtsprechung: CISG-online.ch, jusmundi.com. Unsicherheit bleibt sichtbar.

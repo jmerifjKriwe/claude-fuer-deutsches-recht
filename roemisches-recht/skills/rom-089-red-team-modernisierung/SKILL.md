@@ -1,50 +1,54 @@
 ---
 name: rom-089-red-team-modernisierung
-description: "Römisches Recht: Red Team Modernisierung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Red-Team-Analyse zur Modernisierung - Grenzen der röm.-rechtl. Analogie für heutige Rechtsfragen, methodische Risiken, Scheinlegalität durch selektive Zitation und Kritik der Pandektistik."
 ---
 
-# Red Team Modernisierung
+# Red Team: Grenzen der Modernisierung des römischen Rechts
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Red Team Modernisierung** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Modernisierung des röm. Rechts für aktuelle Rechtsfragen (Pandektistik, Vertragsrecht, digitale Rechte) birgt Risiken: selektive Zitation (Texte aus Kontext gerissen), anachronistische Begriffe (actio als Anspruch), Überbetonung der Kontinuität (das BGB hat vieles verändert), Unterschlagung historischer Entwicklungen (Sklaverei, Statusrecht) und falsche Universalisierung röm. Kategorien für andere Rechtsordnungen.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 1.3.12 (Iulianus)**: Analogy - aber eingeschränkt
+- **D. 50.17.1 (Paulus)**: Regula ist kein Gesetz
+- **Const. Tanta § 21**: Auslegungsverbot
+- **Gaius Inst. 2.12-17**: res mancipi - historisch überholt
+- **BGB § 903**: Eigentum - verfassungsrechtlich eingebunden (Art. 14 GG)
+- **Art. 14 GG**: Sozialbindung des Eigentums (kein röm. Vorbild)
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- selektive Zitation: nur passende Fragmente verwenden
+- anachronismus: mod. Konzepte in röm. Recht einlesen
+- Überbetonung der Kontinuität: BGB ≠ röm. Recht
+- Unterschlagung: Sklaverei und Statusrecht als Fundament ignorieren
+- Universalisierung: röm. Recht für alle Rechtsordnungen ungeeignet
+- kritische Romanistik: reflektierte Nutzung der Quellen
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Wie weit trägt die Analogie röm.-rechtl. Kategorien für digitale Güter?
+2. Persönlichkeitsrecht: röm. iniuria vs. modernes allg. Persönlichkeitsrecht
+3. Eigentumssozialbindung: keine röm. Quelle
+4. Globalisierung: Kann röm. Recht universales Vorbild sein?
+5. Post-koloniale Perspektive: Weshalb war röm. Recht koloniales Recht?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Kritische Lektüre: Quellen gegen ihre Grenzen lesen
+- Vergleich: röm. Quelle vs. mod. Norm
+- Interdisziplinär: Rechtsgeschichte + Rechtsphilosophie
+- Kaser RP I Einleitung; Schulz History of Roman Legal Science
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Kritische Analyse: Hauptrisiken der Modernisierung
+- Red-Team-Fragen-Katalog
+- Memo: analog verwertbar vs. historisches Relikt
+- Fallbeispiele gescheiterter Modernisierung
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 50.17.1; D. 1.3 (Mommsen-Krüger). BGB: gesetze-im-internet.de. GG Art. 14 (gesetze-im-internet.de). Kaser RP I. Schulz.

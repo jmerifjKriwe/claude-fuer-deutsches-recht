@@ -1,50 +1,52 @@
 ---
 name: drg-027-weimarer-reichsverfassung
-description: "Deutsche Rechtsgeschichte: Weimarer Reichsverfassung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Weimarer Reichsverfassung vom 11. August 1919 - Reichspraesident, Reichstag, Notverordnungsrecht des Art. 48 WRV, Grundrechtsteil Art. 109-165 WRV und Lehren aus dem Scheitern."
 ---
 
-# Weimarer Reichsverfassung
+# Weimarer Reichsverfassung (WRV, 11. August 1919)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Weimarer Reichsverfassung** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die WRV war die erste demokratische Gesamtverfassung Deutschlands. Sie galt formal bis 1945, wurde aber ab 1930 durch Art. 48 Notverordnungen ausgehoehlt und ab 1933 durch das Ermächtigungsgesetz und die NS-Gleichschaltung suspendiert. Sie ist Referenztext fuer das GG 1949, weil das GG bewusst aus ihren Konstruktionsfehlern lernt.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Art. 1 WRV**: Republik, Staatsgewalt vom Volke
+- **Art. 41-59 WRV**: Reichspraesident (7 Jahre, Volkswahl, Oberbefehl, Aufloesungsrecht Art. 25)
+- **Art. 48 WRV**: Notverordnungsrecht und Reichsexekution
+- **Art. 76 WRV**: Verfassungsaenderung mit 2/3-Mehrheit, ohne Ewigkeitsklausel
+- **Art. 109-165 WRV**: Grundrechte und Grundpflichten (Gleichheit, Eigentum Art. 153, Wirtschaftsdemokratie Art. 165)
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Hugo Preuss** (1860-1925): Hauptredaktor der WRV
+- **Reichspraesident Ebert** (1871-1925) und **Hindenburg** (1847-1934)
+- **Staatsgerichtshof** (Art. 19, 108 WRV)
+- **Carl Schmitt** (1888-1985) vs. **Hans Kelsen** (1881-1973): Art. 48-Debatte
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Art. 48 als Konstitutionswaffe oder Notbremse: Carl Schmitt vs. Hans Kelsen
+2. Doppelspitze Reichspraesident-Reichskanzler und Personalplebiszit
+3. Reichstagsaufloesungen als Routinemittel ab 1930
+4. Grundrechtsteil als programmatische Leitnorm vs. unmittelbar geltendes Recht
+5. Fehlen einer Ewigkeitsklausel: GG Art. 79 III als Antwort
+6. Wirtschaftsverfassung Art. 151-165 als Vorbild fuer soziale Marktwirtschaft
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- WRV-Text in der Fassung der Reichsgesetzblattveroeffentlichung verwenden
+- Art. 48-Verordnungen: Reichsgesetzblatt 1930-1932 pruefen
+- Sekundaerliteratur: Huber Deutsche Verfassungsgeschichte Bd. VI-VII; Gusy Die Weimarer Reichsverfassung
+- Nie Gegenwartsdogmatik (GG-Begriffe) unbemerkt in WRV-Texte einlesen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Verfassungsrechtliches Memo zur historischen Einordnung
+- Vergleichstabelle WRV - GG zu einzelnen Instituten
+- Quellenmatrix mit Reichsgesetzblatt-Fundstellen
+- Erklaertext fuer Unterricht und Klausur
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Nur frei pruefbare Quellen: documentArchiv.de fuer WRV-Text, Reichsgesetzblatt via ALEX/OeNB, Reichstagsprotokolle via reichstagsprotokolle.de. Sekundaerliteratur mit Autor, Werk, Stelle.

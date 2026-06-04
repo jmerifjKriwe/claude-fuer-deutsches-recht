@@ -1,50 +1,50 @@
 ---
 name: drg-025-kommunalrecht-und-selbstverwaltung
-description: "Deutsche Rechtsgeschichte: Kommunalrecht Und Selbstverwaltung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Kommunalrecht und Selbstverwaltung. Preussische Staedteordnung 1808, kommunale Selbstverwaltung, NS-Deutsche Gemeindeordnung 1935 und GG Art. 28."
 ---
 
-# Kommunalrecht Und Selbstverwaltung
+# Kommunalrecht und Selbstverwaltung
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Kommunalrecht Und Selbstverwaltung** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die kommunale Selbstverwaltung als Rechtsprinzip entstand mit der Preussischen Staedteordnung von 1808 (Vom Freiherrn vom Stein). Sie befreite Staedte von der Staatsaufsicht in buergerlichen Angelegenheiten und schuf gewahlte Stadtverordnetenversammlungen. Die Rheinische Gemeindeordnung 1845 und spaetere Preussische Gemeindeordnungen folgten. Im NS wurde die kommunale Selbstverwaltung durch die Deutsche Gemeindeordnung 1935 (RGBl. I 1935, 49) beseitigt: Fuehrer-Prinzip auf Gemeindeebene, keine echten Wahlen. Das GG 1949 garantiert in Art. 28 Abs. 2 das Recht zur Regelung eigener Angelegenheiten (kommunale Selbstverwaltungsgarantie).
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Preussische Staedteordnung 1808**: Grundlage kommunaler Selbstverwaltung
+- **Preussische Gemeindeordnung 1850**: Erweiterung auf Landgemeinden
+- **Deutsche Gemeindeordnung 1935 (RGBl. I 1935, 49)**: NS-Zentralisierung
+- **GG Art. 28 Abs. 2**: Verfassungsgarantie der Selbstverwaltung
+- **Landesgemeindeordnungen (z. B. NRW GO)**: Ausfuellung der GG-Garantie
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Freiherr vom Stein** (1757-1831): Reformminister, Initiator der Staedteordnung 1808
+- **Frick** (NS-Innenminister, 1877-1946): Deutsche Gemeindeordnung 1935
+- **BVerfG**: Schutz der kommunalen Selbstverwaltung aus Art. 28 GG
+- **Kommunale Spitzenverbaende (Deutscher Staedtetag, Gemeindetag)**: Interessenvertretung
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Preussische Staedteordnung 1808: Reform oder Revolution von oben?
+2. Kernbereichsgarantie Art. 28 Abs. 2 GG: Was ist der unantastbare Kernbereich?
+3. NS-Gemeindeordnung 1935: Wie gluecklich ist die Neigung, sie als Ausnahme zu behandeln?
+4. Kreisreformen der 1970er: Verletzten sie kommunale Selbstverwaltung?
+5. Kommunale Finanzen: Art. 28 Abs. 2 S. 3 GG und finanzielle Mindestausstattung
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Staedteordnung 1808: historische Druckausgaben; Geheimes Staatsarchiv Berlin-Dahlem
+- DGO 1935: RGBl. I 1935, 49 via ALEX/OeNB
+- GG Art. 28: gesetze-im-internet.de; BVerfGE zur kommunalen Selbstverwaltung: bverfg.de
+- GO NRW: gesetze-im-internet.de (Beispiel Landesgemeindeordnung)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste kommunale Selbstverwaltung: 1808-GG 1949
+- Kernbereich Art. 28 Abs. 2 GG: BVerfGE-Uebersicht
+- DGO 1935: NS-Zentralisierung und ihr Ende
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Staedteordnung 1808: historische Edition. DGO 1935: RGBl. I 1935, 49 via ALEX/OeNB. GG Art. 28: gesetze-im-internet.de. BVerfGE: bverfg.de. GO NRW: gesetze-im-internet.de.

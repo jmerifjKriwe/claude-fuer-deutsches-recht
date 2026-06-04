@@ -1,50 +1,50 @@
 ---
 name: drg-017-arbeitsrecht-von-gewerbeordnung-bis-betrvg
-description: "Deutsche Rechtsgeschichte: Arbeitsrecht Von Gewerbeordnung Bis Betrvg. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Arbeitsrecht von der Gewerbeordnung 1869 bis zum BetrVG 1972. Koalitionsfreiheit, Arbeitsschutzgesetze, Tarifvertrag, Betriebsrat und die Entstehung des kollektiven Arbeitsrechts."
 ---
 
-# Arbeitsrecht Von Gewerbeordnung Bis Betrvg
+# Arbeitsrecht: Von der Gewerbeordnung bis zum BetrVG
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Arbeitsrecht Von Gewerbeordnung Bis Betrvg** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das moderne Arbeitsrecht entstand schrittweise aus dem Gewerberecht. Die Gewerbeordnung 1869 (BGBl. NDB 1869, 245) schaffte die Zunftverfassung ab und erkannte Koalitionsfreiheit an (§ 152 GewO). Das Kinderschutzgesetz 1839 und spaetere Arbeiterschutzgesetze (1891 Novelle zur GewO: Sonntagsruhe, Frauenschutz) setzten Standards. Die Weimarer Republik brachte den Tarifvertragsordnung 1918, den Achtstundentag (Demobilmachungsverordnung 1918) und das Betriebsraetegesetz 1920. Das NS-Regime schaffte Gewerkschaften 1933 ab und ersetzte sie durch die Deutsche Arbeitsfront. Nach 1945: Tarifvertragsgesetz 1949 (BGBl. 1949, 55), BetrVG 1952 und das BetrVG 1972 (BGBl. I 1972, 13) mit erweiterter Mitbestimmung.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **GewO § 152** (1869): Koalitionsfreiheit fuer Arbeitnehmer
+- **Arbeiterschutznovelle 1891 (RGBl. 1891, 261)**: Sonntagsruhe, Kinderarbeit, Frauenschutz
+- **Tarifvertragsordnung 1918 (RGBl. 1918, 1456)**: Erste gesetzliche Anerkennung des Tarifvertrags
+- **Betriebsraetegesetz 1920 (RGBl. 1920, 147)**: Betriebsrat in der Weimarer Republik
+- **BetrVG 1972 (BGBl. I 1972, 13)**: Erweitertes Mitbestimmungsrecht
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Carl Legien** (1861-1920): Fuehrer des allgemeinen deutschen Gewerkschaftsbundes
+- **Hugo Sinzheimer** (1875-1945): Vater des deutschen Arbeitsrechts (Tarifvertrag, Betriebsrat)
+- **Deutsche Arbeitsfront** (DAF, 1933-1945): NS-Ersatz fuer Gewerkschaften
+- **Bundesarbeitsgericht (BAG)**: Leitinstanz seit 1954
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. GewO § 152: Wie weit ging die Koalitionsfreiheit von 1869 wirklich?
+2. Sinzheimer und die Weimarer Arbeitsrechtsdogmatik: Was ueberlebte das NS?
+3. BetrVG 1952 vs. 1972: War die Reform 1972 ein qualitativer Sprung?
+4. Montanmitbestimmungsgesetz 1951 (BGBl. I 1951, 347): Sonderweg Bergbau und Stahl?
+5. NS-Arbeitsrecht: War die Deutsche Arbeitsfront Unterdrueckungsinstrument oder soziale Institution?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- GewO 1869: RGBl. NDB 1869, 245; ALEX/OeNB
+- BetrVG 1972: gesetze-im-internet.de
+- Sinzheimer: Arbeitsrechtliche Aufsaetze und Lehrbuecher (historische Ausgaben)
+- BAG-Rspr.: Bundesarbeitsgericht.de (JURIS-Zugang oder Printsammlungen)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste Arbeitsrecht: 1839-1972
+- Tarifvertrag: Entwicklung von 1918 bis heute
+- BetrVG 1952 vs. 1972: Rechtsvergleich der Betriebsratszustaendigkeiten
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+GewO 1869: RGBl. NDB 1869 via ALEX/OeNB. BetrVG 1972: gesetze-im-internet.de. Tarifvertragsgesetz 1949: BGBl. 1949, 55. BAG: bundesarbeitsgericht.de oder JURIS fuer BAG-Rspr.

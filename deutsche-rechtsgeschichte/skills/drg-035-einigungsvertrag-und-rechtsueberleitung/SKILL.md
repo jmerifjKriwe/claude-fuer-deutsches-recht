@@ -1,50 +1,50 @@
 ---
 name: drg-035-einigungsvertrag-und-rechtsueberleitung
-description: "Deutsche Rechtsgeschichte: Einigungsvertrag Und Rechtsueberleitung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Einigungsvertrag 1990 und Rechtsueberleitung. Hauptvertrag BGBl. II 1990 (Nr. 885), Weitergeltung DDR-Rechts, Ueberleitungsregeln und erste BVerfG-Entscheidungen zur Wiedervereinigung."
 ---
 
-# Einigungsvertrag Und Rechtsueberleitung
+# Einigungsvertrag und Rechtsueberleitung (1990)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Einigungsvertrag Und Rechtsueberleitung** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Der Einigungsvertrag vom 31. August 1990 (EV, BGBl. II 1990, 885) regelte den rechtlichen Rahmen der deutschen Wiedervereinigung. Er enthielt Regelungen zur Weitergeltung von DDR-Recht (Anlagen I und II), zur Ueberleitung von Bundesrecht auf die neuen Laender und zu Uebergangsregelungen (Schwangerschaftsabbruch, Bodenreform, Treuhand). Das BVerfG bestaette in mehreren Entscheidungen die Verfassungsmaessigkeit: BVerfGE 82, 316 (Ehegatten-Wohnung), BVerfGE 84, 90 (Bodenreform). Art. 143 GG wurde eingefuegt als Ueberleitungsrecht.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Einigungsvertrag 1990 (BGBl. II 1990, 885)**: Hauptvertrag mit Anlagen
+- **EV Anlage I und II**: Weitergeltung DDR-Rechts und Uebergangsregeln
+- **EV Art. 17**: Rehabilitierungsrecht, Aufhebung rechtsstaatswidriger Entscheidungen
+- **GG Art. 143**: Uebergangsvorschrift fuer neues Laendergebiet
+- **Zwei-plus-Vier-Vertrag (BGBl. II 1990, 1318)**: Voelkerrechtliche Grundlage
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Wolfgang Schaeuble** (*1942): Hauptverhandlungsfuehrer fuer die BRD
+- **Guenter Krause** (*1953): Hauptverhandlungsfuehrer fuer die DDR
+- **Treuhandanstalt**: Vollstrecker der wirtschaftlichen Wiedervereinigung
+- **BVerfG**: Huter der Verfassungsmaessigkeit des Einigungsvertrags
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Art. 143 GG: Erlaubte er temporaere Abweichungen von GG-Grundsaetzen?
+2. Weitergeltung DDR-Rechts: Welche DDR-Normen ueberlebten die Wiedervereinigung?
+3. Bodenreform-Ausschluss Anlage III: War er verfassungsmaessig? (BVerfGE 84, 90)
+4. Schwangerschaftsabbruch-Kompromiss: Ost-Fristenloesung vs. West-Indikations-Loesung
+5. Rehabilitierungsrecht EV Art. 17: Wie wurde es in der Praxis umgesetzt?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Einigungsvertrag: BGBl. II 1990, 885; gesetze-im-internet.de (Gesamttext)
+- Zwei-plus-Vier-Vertrag: BGBl. II 1990, 1318
+- BVerfGE: bverfg.de
+- GG Art. 143: gesetze-im-internet.de
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Einigungsvertrag-Systematik: Anlagen I und II (Uebergangsrecht)
+- DDR-Rechtsueberleitung: was blieb, was fiel weg
+- BVerfGE-Uebersicht zur Wiedervereinigungsrechtsprechung
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Einigungsvertrag: BGBl. II 1990, 885 und gesetze-im-internet.de. Zwei-plus-Vier-Vertrag: BGBl. II 1990, 1318. BVerfGE: bverfg.de. GG: gesetze-im-internet.de.

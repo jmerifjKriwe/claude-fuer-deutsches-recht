@@ -1,50 +1,52 @@
 ---
 name: ihl-046-penalty-vs-liquidated-damages
-description: "Internationales Handelsrecht und Lex Mercatoria: Penalty Vs Liquidated Damages. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Abgrenzung Penalty vs. Liquidated Damages in Common Law und Civil Law. Cavendish-Test (UK 2015), PICC Art. 7.4.13 Reduktionsrecht, § 343 BGB Mäßigung und rechtsvergleichende Analyse für internationale Verträge."
 ---
 
-# Penalty Vs Liquidated Damages
+# Penalty vs. Liquidated Damages: Rechtsvergleich
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Penalty Vs Liquidated Damages** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Abgrenzung Penalty (unzulässige Strafklausel) und Liquidated Damages (zulässige Pauschale) ist in Common-Law-Systemen fundamental: Penalties sind nicht durchsetzbar. UK-Recht reformierte den Test durch Cavendish Square v Makdessi [2015]: Eine Klausel ist Penalty wenn sie kein legitimes Interesse schützt und nicht im Verhältnis zum Schaden steht. Civil-Law-Systeme kennen Vertragsstrafen, aber mit richterlichem Mäßigungsrecht.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Cavendish Square Holding BV v Makdessi [2015] UKSC 67**: Neuer UK-Penalty-Test
+- **Dunlop Pneumatic Tyre Co v New Garage [1915] AC 79**: Alter UK-Test (Pre-Estimate)
+- **PICC Art. 7.4.13**: Vereinbarte Zahlung bei Nichterfüllung — Reduktionsrecht
+- **BGB § 339**: Vertragsstrafe-Definition; § 343 Mäßigung durch Gericht
+- **Code Civil Français Art. 1231-5**: Richterliches Mäßigungsrecht (reform 2016)
+- **NEC4 Standard Contract**: LD-Klausel-Praxis im internationalen Anlagenbau
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Legitimate Business Interest: UK-Test — Interesse über reine Schadensersatzfunktion hinaus
+- Genuine Pre-Estimate: alter UK-Test — echte Schadensvorabschätzung
+- Richterliches Mäßigungsrecht: D (§ 343 BGB) und F (Art. 1231-5 CC) — Civil Law Standard
+- Nil-Schaden und LD: LD wirksam auch wenn kein konkreter Schaden entstanden?
+- Stacking-Problem: mehrere LD-Klauseln die kumulieren — Gesamtwirkung prüfen
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. LD von 5% Vertragswert bei Nil-Schaden: Wirksam nach UKSC Cavendish?
+2. PICC Art. 7.4.13: Wann kann Schiedsgericht LD-Klausel reduzieren?
+3. § 343 BGB: Wie viel kann das Gericht reduzieren (konkreter Schaden als Maßstab)?
+4. Kombination LD und Vertragsaufhebungsrecht: Ausschließlich oder kumulativ?
+5. Strafklausel für Rücktritt von Angebot: Penalty oder zulässige Option?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- UK: Cavendish-Test (1. Legitimate Interest, 2. Proportionality) vor LD-Klausel prüfen
+- BGB: Strafbetrag im Verhältnis zum erwarteten Schaden kalkulieren
+- PICC: Unverhältnismäßigkeit dokumentieren für Schiedsargument
+- Internationale Verträge: Rechtsordnung wählen die LD-Klausel wirksam hält (Rechtswahl)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Cavendish-Test-Anwendungsschema
+- LD-Klausel-Risikocheck (UK, D, PICC)
+- Mäßigungsrecht-Vergleich D-F-UK
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Cavendish [2015] UKSC 67: bailii.org. BGB §§ 339, 343: gesetze-im-internet.de. PICC Art. 7.4.13: unidroit.org. Code Civil Art. 1231-5: legifrance.gouv.fr. Unsicherheit bleibt sichtbar.

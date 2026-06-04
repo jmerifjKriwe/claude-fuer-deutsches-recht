@@ -1,80 +1,53 @@
 ---
 name: rom-024-leihe-commodatum
-description: "Römisches Recht: Leihe Commodatum. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Commodatum (Leihe) als Realkontrakt nach D. 13.6 und Gaius Inst. 3.196 - unentgeltliche Gebrauchsüberlassung, actio commodati (directa/contraria), Haftungsmaßstab (custodia oder culpa)."
 ---
 
-# Leihe Commodatum
+# Leihe (commodatum)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Leihe Commodatum** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das commodatum ist die unentgeltliche Gebrauchsüberlassung einer nicht-vertretbaren Sache: der Verleiher (commodans) gibt eine Sache dem Entleiher (commodatarius) zum Gebrauch ohne Übereignung; dieser schuldet Rückgabe der Sache selbst. Zweiseitig unvollkommen: actio commodati directa des Verleihers auf Rückgabe; actio commodati contraria des Entleihers auf Aufwendungsersatz. Haftungsmaßstab ist umstritten.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 13.6.1 pr. (Ulpian)**: Commodatum - Definition und actio commodati
+- **D. 13.6.5.2 (Ulpian)**: Haftungsmaßstab: culpa levis in abstracto
+- **Gaius Inst. 3.196**: Commodatum als Realkontrakt
+- **D. 13.6.17.3 (Scaevola)**: Haftung des Entleihers für Diebstahl durch Dritte (custodia)
+- **Iust. Inst. 3.14.2**: Commodatum
+- **D. 13.6.18 pr. (Paulus)**: Grenze des vereinbarten Gebrauchs
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- commodans: Verleiher (bleibt Eigentümer und Besitzer)
+- commodatarius: Entleiher (erhält nur Gebrauchsrecht)
+- actio commodati directa: Klage des Verleihers auf Rückgabe
+- actio commodati contraria: Klage des Entleihers auf Aufwandersatz
+- furtum usus: Gebrauch über Abrede hinaus als Diebstahl
+- custodia-Haftung: erhöhte Haftung für fremde Sachen
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Haftungsmaßstab: culpa levis oder custodia beim commodatarius?
+2. Entgeltlichkeit als Abgrenzung zu locatio conductio
+3. Furtum usus: Gebrauchsdiebstahl beim Entleiher möglich?
+4. Commodatum an Hauskinder: obligatio naturalis?
+5. Vergleich: commodatum vs. BGB §§ 598ff. (Leihe)
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 13.6 (De commodato) als Haupttitel
+- Gaius Inst. 3.196; Iust. Inst. 3.14.2
+- Kaser RP I §§ 223-226; Zimmermann Law of Obligations Kap. 7
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: commodatum - Pflichten beider Parteien
+- Haftungsübersicht nach Verschuldensmaßstab
+- Abgrenzung: commodatum vs. mutuum vs. locatio rei
+- Vergleich röm. commodatum vs. BGB Leihe
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
-
-## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
-
-### Schluesselstellen
-- **D. 13.6.1 (Ulpian)**: "Commodatum est gratuita rerum prestatio" — unentgeltliche Sachleihe.
-- **D. 13.6**: Allgemein.
-
-### Tatbestand
-- Unentgeltliche Ueberlassung.
-- Sache zur Nutzung, nicht zum Verbrauch.
-- Eigentum bleibt beim Verleiher.
-
-### Haftungsmasstab
-- Custodia-Haftung des Entleihers: er haftet auch fuer Zufall, soweit kein Casus maior.
-- D. 13.6.5.4 — Haftung "exactissima diligentia" (hoechste Sorgfalt).
-
-### Subsumtionsbeispiel: Geliehenes Pferd geht im Feldzug verloren
-Sachverhalt: A leiht B ein Pferd; B wird auf einem Feldzug ueberfallen; Pferd entlaeuft.
-- **Roemisch**: Custodia-Haftung; Diebstahl ist nicht casus maior; B haftet. Ausnahme: Feindangriff = vis maior (D. 13.6.18).
-- **BGB**: § 598 BGB Leihvertrag; **Entleiher haftet voll fuer jede Fahrlaessigkeit** nach allgemeinen Regeln (§§ 280, 276 BGB) — insbesondere muss er die Sache pflegen und zurueckgeben (§ 604 BGB). Bei Diebstahl durch einfache Fahrlaessigkeit (z. B. unverschlossen abgestellt) haftet B regelmaessig auf Schadensersatz. NICHT zu verwechseln mit § 599 BGB: dieser begrenzt die Haftung des **Verleihers** auf Vorsatz und grobe Fahrlaessigkeit (weil unentgeltlich gibt) — Entleiher bleibt der vollen Sorgfaltspflicht unterworfen.
-
-### Pflichten des Entleihers
-- Pflegliche Behandlung.
-- Rueckgabe nach Abschluss.
-- Aufwendungsersatz beim Verleiher (D. 13.6.5.5).
-
-### Modernes Aequivalent
-- §§ 598-606 BGB Leihe.
-- Wesentlicher Unterschied: roemisches Recht Haftung haerter (custodia); BGB hat das gelockert.
-
+D. 13.6 (Mommsen-Krüger). Gaius Inst. 3. Iust. Inst. 3.14. Kaser RP I. Zimmermann Law of Obligations.

@@ -1,50 +1,49 @@
 ---
 name: drg-071-rechtsgeschichte-im-schriftsatz
-description: "Deutsche Rechtsgeschichte: Rechtsgeschichte Im Schriftsatz. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Rechtsgeschichte im Schriftsatz. Wie man historische Argumente in Klage, Berufung oder Revisionsbegründung methodisch korrekt einbringt ohne Anachronismus."
 ---
 
-# Rechtsgeschichte Im Schriftsatz
+# Rechtsgeschichte im Schriftsatz
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Rechtsgeschichte Im Schriftsatz** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Rechtshistorische Argumente koennen in prozessualen Schriftsaetzen eingebracht werden, wenn methodisch korrekt. Typische Einsatzfelder: Auslegungsstreit (Materialienverweis), Vertrauensschutzfragen (historische Rechtslage), Wiedervereinigungsrecht (DDR-Recht und Einigungsvertrag), NS-Enteignungen (Wiedergutmachungsrecht). Die Herausforderung: Gerichte wollen praezise Quellen, keine historiographischen Essays. Formel: Historische Norm/Entscheidung (mit genauer Fundstelle) + Argument aus historischem Kontext + Subsumtion auf heutigen Fall. Der BGH nutzt regelmaessig historische Auslegung fuer BGB-Paragraphen.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **ZPO § 253**: Klageschrift-Anforderungen (kein Rechtsgeschichtsessay)
+- **BGB § 133**: Historische Auslegung als Schriftsatz-Argument
+- **BVerfGE 62, 1** (1982): Historische Auslegung als anerkannte Methode
+- **BGH und BVerwG**: Historische Materialien als Auslegungsquelle in Rspr.
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Rechtsanwaelte und Revisionsanwaelte**: Nutzer rechtshistorischer Argumente
+- **Bundesverfassungsgericht**: Hohe Qualitaetsanforderungen an historische Argumente
+- **BGH und BVerwG**: Ablehnend bei mangelnder Quellenqualitaet historischer Behauptungen
+- **Revisionsbegruendung**: Schriftsatz, der historische Auslegung am meisten nutzt
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Wann ist historisches Argument zwingend, wann nur ergaenzend?
+2. Qualitaet der Fundstelle: Akzeptiert ein Gericht Wikipedia oder nur Primaereditionen?
+3. Historische Argumente in der Revisionsbegruendung: Formale Anforderungen?
+4. Prozessrechtliche Praeklusion: Koennen historische Argumente nachgebracht werden?
+5. Widerstreit: Historische Auslegung vs. EU-konforme Auslegung
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Primaerquelle immer vor Sekundaerliteratur: Mugdan, ALEX/OeNB-RGBl., bverfg.de
+- Kein Essay: historischer Verweis als praeziser Satz mit Fundstelle
+- Anachronismus-Test vor Schriftsatzabgabe
+- ZPO: gesetze-im-internet.de fuer formale Anforderungen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Formblatt fuer rechtshistorisches Argument im Schriftsatz
+- Beispielsatz: Rechtshistorisches Argument in Revisionsbegründung
+- Fehler-Checkliste: Typische Schriftsatz-Fehler mit historischen Argumenten
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Primaerquellen: ALEX/OeNB, gesetze-im-internet.de, bverfg.de, bgh.de. Mugdan: Band und Seite. Kein Blindzitat. Kein Essay-Stil.

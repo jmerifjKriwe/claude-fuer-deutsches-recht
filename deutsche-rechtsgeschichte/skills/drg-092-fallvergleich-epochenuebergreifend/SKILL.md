@@ -1,50 +1,51 @@
 ---
 name: drg-092-fallvergleich-epochenuebergreifend
-description: "Deutsche Rechtsgeschichte: Fallvergleich Epochenuebergreifend. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Epochenuebergreifender Fallvergleich. Verfahren und Ergebnis desselben Sachproblems in verschiedenen Epochen (z. B. Eigentumsschutz von Sachsenspiegel bis GG) strukturiert vergleichen."
 ---
 
-# Fallvergleich Epochenuebergreifend
+# Fallvergleich epochenuebergreifend
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Fallvergleich Epochenuebergreifend** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Der epochenuebergreifende Fallvergleich ist eine Kerntechnik der Rechtsgeschichte. Er prueft, wie dasselbe Sachproblem (z. B. Eigentumsschutz, Vertragsfreiheit, staatliche Strafgewalt) in verschiedenen Epochen geloest wurde. Dafuer braucht es: (1) eine invariante Fallkonstellation, (2) die einschlaegige Norm jeder Epoche, (3) die Loesungsstruktur, (4) den Vergleich der Ergebnisse. Klassische Vergleichsachsen: Sachsenspiegel / gemeines Recht / ALR / BGB / GG; oder WRV / GG fuer Grundrechte; oder DDR-ZGB / BGB-West fuer Eigentumsrecht.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Sachsenspiegel Ldr. I 34 §§ 1-2**: Eigentumsschutz und Besitz
+- **ALR I 8 §§ 1-10**: Eigentumsrecht und Beschraenkungen
+- **BGB §§ 903-924**: Eigentumsinhalt und Schranken
+- **GG Art. 14**: Eigentumsgarantie und Enteignung
+- **DDR-ZGB § 17**: Sozialistisches Eigentumsrecht
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Eike von Repgow** (Sachsenspiegel, ca. 1220): Mittelalterliche Eigentumsvorstellung
+- **Gottlieb Planck** (1824-1910): BGB-Eigentumskonzept
+- **BVerfG**: GG Art. 14, Eigentumsschutz in der Rechtsprechung
+- **DDR Rechtskommission**: ZGB-Eigentumskonzept 1975
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. War Eigentum im Sachsenspiegel absolutes Herrschaftsrecht oder sozialer Nexus?
+2. ALR-Eigentumsrecht: Liberaler Durchbruch oder Kontinuitaet des Feudalrechts?
+3. BGB § 903: Wie absolut ist das Eigentumsrecht des BGB tatsaechlich?
+4. GG Art. 14 Inhaltsbestimmung: Vergleich WRV Art. 153 vs. GG Art. 14
+5. DDR-ZGB Eigentum: Was blieb nach 1990 von sozialistischem Eigentumsrecht?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Sachsenspiegel: MGH-Edition oder Steffenhagen-Ausgabe
+- ALR: ALEX/ÖNB
+- BGB: gesetze-im-internet.de
+- GG Art. 14, BVerfGE: bverfg.de (Grundrechts-Leitsaetze)
+- DDR-ZGB: GBl. I DDR 1975, 465
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Vergleichstabelle Eigentumsschutz durch die Epochen
+- Argumente fuer und gegen Kontinuitaet
+- Methodennotiz: Wie Epochenvergleich ohne Anachronismus gelingt
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Sachsenspiegel: MGH oder historische Faksimile-Edition. ALR und DDR-ZGB: ALEX/ÖNB. BGB: gesetze-im-internet.de. GG und BVerfGE: bverfg.de.

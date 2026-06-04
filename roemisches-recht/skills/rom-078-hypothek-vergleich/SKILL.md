@@ -1,50 +1,54 @@
 ---
 name: rom-078-hypothek-vergleich
-description: "Römisches Recht: Hypothek Vergleich. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Hypothek im Vergleich - röm. hypotheca (D. 20) vs. BGB §§ 1113ff. (Hypothek) und §§ 1191ff. (Grundschuld) - Akzessorietät, prior tempore-Grundsatz und Unterschiede."
 ---
 
-# Hypothek Vergleich
+# Hypothek im Vergleich
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Hypothek Vergleich** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die röm. hypotheca (D. 20) ist das besitzlose Pfand an Grundstücken und Fahrnis. Sie ist akzessorisch zur gesicherten Forderung. Rangprinzip: prior tempore potior iure (D. 20.4.1, Papinian). Das BGB-Pfandrecht an Grundstücken (§§ 1113ff. Hypothek; §§ 1191ff. Grundschuld) hat die röm. hypotheca als Vorbild; die Grundschuld ist bewusst abstrakt (kein röm. Vorbild), weil Pandektistik das röm. akzessorische Pfandrecht als unpraktisch empfand.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 20.1.1 pr. (Papinian)**: Hypotheca - keine Besitzübergabe nötig
+- **D. 20.4.1 (Papinian)**: Prior tempore potior iure
+- **D. 13.7.1 (Ulpian)**: Pignus als Besitzpfand
+- **BGB § 1113**: Hypothek - akzessorisch
+- **BGB § 1191**: Grundschuld - nicht akzessorisch
+- **BGB § 1209**: Rangverhältnis mehrerer Rechte
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- röm. hypotheca -> BGB Hypothek (akzessorisch)
+- Grundschuld: ohne direktes röm. Vorbild (abstrakt)
+- prior tempore potior iure: im BGB durch Rangvormerkung (§ 883)
+- ius distrahendi: Verwertungsrecht -> BGB § 1147
+- Pfandbriefrecht: moderner Ausbau des Hypothekenrechts
+- Akzessorietät: röm. und BGB-Hypothek teilen dieses Merkmal
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Warum erfand das BGB die Grundschuld? Praktische Gründe (Kreditverkehr)
+2. Grundschuld vs. hypotheca: methodisch begründet oder rein praktisch?
+3. Prior tempore im BGB: § 879 vs. röm. Recht
+4. Generalverpfändung: röm. und BGB unterschiedlich behandelt?
+5. Hypothekenrecht und Grundbuchrecht: röm. Recht kannte kein Grundbuch
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 20 (Mommsen-Krüger)
+- BGB §§ 1113-1203; §§ 1191-1203 (gesetze-im-internet.de)
+- Kaser RP I §§ 148-155
+- MüKo-BGB §§ 1113ff.
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Vergleichstabelle: röm. hypotheca vs. BGB Hypothek vs. Grundschuld
+- Schema: Akzessorietät und Rang
+- Memo: Warum hat das BGB die Grundschuld eingeführt?
+- Fallbearbeitung Rangordnung
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 20 (Mommsen-Krüger). BGB: gesetze-im-internet.de. Kaser RP I. MüKo-BGB.

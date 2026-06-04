@@ -1,50 +1,50 @@
 ---
 name: drg-088-gewohnheitsrecht-und-observanz
-description: "Deutsche Rechtsgeschichte: Gewohnheitsrecht Und Observanz. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Gewohnheitsrecht und Observanz. Consuetudo im gemeinen Recht, Puchtas Gewohnheitsrechtslehre, Handelsbräuche im HGB und Gewohnheitsrecht im modernen deutschen Recht."
 ---
 
-# Gewohnheitsrecht Und Observanz
+# Gewohnheitsrecht und Observanz
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Gewohnheitsrecht Und Observanz** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Gewohnheitsrecht war im mittelalterlichen und fruehneuzeitlichen Recht die Hauptrechtsquelle neben dem geschriebenen Recht. Die Unterscheidung consuetudo (allgemeines Gewohnheitsrecht) und observantia (regional oder staendisch beschraenkte Praxis) stammte aus dem roemisch-kanonischen Recht. Georg Friedrich Puchta entwickelte in Das Gewohnheitsrecht (2 Bde., 1828/1837) die systematische Lehre des Gewohnheitsrechts als Volksgeist-Ausdruck. Das BGB verzichtete weitgehend auf Gewohnheitsrecht; das HGB erkennt in § 346 HGB Handelsbräuche an. Im modernen Recht gilt Gewohnheitsrecht, wenn Uebung und opinio iuris zusammentreffen.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **HGB § 346**: Handelsbrauch als Auslegungsmittel und Rechtsquelle
+- **BGB § 242**: Treu und Glauben, Einfallstor fuer gewohnheitsrechtliche Grundsaetze
+- **EinfGBGB Art. 2 (alt)**: Nichtkodifiziertes Recht; Gewohnheitsrecht blieb zulaessig
+- **Georg Friedrich Puchta**: Das Gewohnheitsrecht, 2 Bde. (1828/1837) als dogmenhistorische Grundquelle
+- **Savigny**: System des heutigen Roemischen Rechts Bd. I, §§ 11-29 (1840)
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Georg Friedrich Puchta** (1798-1846): Gewohnheitsrechtslehre der historischen Schule
+- **Friedrich Carl von Savigny** (1779-1861): Volksgeistlehre, Gewohnheitsrecht als Lebensrecht
+- **Otto von Gierke** (1841-1921): Deutschrechtliche Observanzen vs. romanistisches Gewohnheitsrecht
+- **Reichsgericht**: Anerkennung von Handelsbräuchen in zivilrechtlicher Rspr.
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Kann Gewohnheitsrecht GG-Normen derogieren? (h.M.: nein fuer Verfassungsrecht)
+2. Handelsbräuche HGB § 346: Wie wird Beweis der Uebung gefuehrt?
+3. Savigny-Puchta: Ist Volksgeist als Quelle des Gewohnheitsrechts noch haltbar?
+4. Richterrecht als Gewohnheitsrecht? Wenn BGH-Rspr. stabile Regeln schafft?
+5. EuGH und nationale Gewohnheitsrechte: Europ. Privatrecht vs. lokale Observanzen
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Puchta-Text: historische Erstausgabe (1828/1837) oder Faksimile
+- HGB: gesetze-im-internet.de
+- BGH zu Handelsbräuchen: bgh.de (Handelsrecht-Entscheidungen)
+- Historische Handelsbräuche: HGB-Kommentare mit historischen Annotationen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Uebersicht: Gewohnheitsrecht vs. kodifiziertes Recht in jeder Epoche
+- HGB § 346: Anwendungsvoraussetzungen und Praxisbeispiele
+- Vergleich Puchta-Savigny-Gierke zur Gewohnheitsrechtslehre
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+HGB: gesetze-im-internet.de. BGH: bgh.de. Historische Quellen: Puchta Das Gewohnheitsrecht (1828/1837), Savigny System Bd. I (1840). Unsicherheit sichtbar lassen.

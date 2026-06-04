@@ -1,50 +1,50 @@
 ---
 name: drg-042-rechtstatsachen-und-sozialgeschichte
-description: "Deutsche Rechtsgeschichte: Rechtstatsachen Und Sozialgeschichte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Rechtstatsachen und Sozialgeschichte des Rechts. Eugen Ehrlichs lebendes Recht, Rechtstatsachenforschung, soziologische Rechtswissenschaft und Recht in der Alltagspraxis."
 ---
 
-# Rechtstatsachen Und Sozialgeschichte
+# Rechtstatsachen und Sozialgeschichte des Rechts
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Rechtstatsachen Und Sozialgeschichte** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Rechtstatsachen sind die empirischen Befunde der Rechtswirklichkeit: Wie wird Recht tatsaechlich angewendet? Eugen Ehrlich (Grundlegung der Soziologie des Rechts, 1913) unterschied lebendes Recht (tatsaechlich gelebte Regeln) von Buchrecht (kodifiziertes Recht). Rechtstatsachenforschung ist empirische Untersuchung der Rechtspraxis. Die Sozialgeschichte des Rechts verbindet Rechtsgeschichte mit Gesellschaftsgeschichte: Wem nutzte das Recht, wem schadete es? Klassische sozialgeschichtliche Themen: BGB und Eigentuemerschutz, Mietrecht und Wohnungsnot, Strafrecht und Klassengesellschaft. Marc Bloch und die Annales-Schule inspirierten sozialgeschichtliche Rechtsgeschichte in Deutschland (Dieter Simon, Klaudia Lohwasser).
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Ehrlich, Grundlegung der Soziologie des Rechts** (1913): Theorie des lebenden Rechts
+- **BGB §§ 535 ff.** (1900 a.F.): Mietrecht als soziales Problem
+- **GewO § 152** (1869): Koalitionsfreiheit und soziale Realitaet
+- **Statistisches Bundesamt**: Rechtstatsaechliche Grunddaten (Gerichtsentscheidungen, Vertragsstreit)
+- **BGH-Statistiken**: Rechtstatsaechliche Auswertung der Rechtsprechung
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Eugen Ehrlich** (1862-1922): Begruender der Rechtssoziologie
+- **Roscoe Pound** (1870-1964): Soziological Jurisprudence (USA), Parallelentwicklung
+- **Fritz Redlich** (1892-1978): Wirtschaftsgeschichte und Rechtsgeschichte
+- **Dieter Simon** (*1935): Deutsche Rechtstatsachenforschung
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Lebendes Recht vs. Buchrecht: Ist das eine sinnvolle Unterscheidung?
+2. Sozialgeschichte des Rechts: Wie vermeide ich Projektionen moderner Kategorien?
+3. Quantitative Rechtsgeschichte: Sind Gerichtsstatistiken verlaeessliche Quellen?
+4. BGB als Klassenrecht: War Mengers Sozialkritik richtig oder polemisch?
+5. Rechtstatsaechenforschung: Ist sie Rechtswissenschaft oder Soziologie?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Ehrlich 1913: Erstausgabe (Muenchen/Leipzig), Seite angeben
+- Sozialgeschichtliche Methode: Quellenkritik empirischer Rechtsquellen (Statistiken, Protokolle)
+- Anachronismus-Vermeidung: Keine modernen Konzepte (z. B. Arbeitnehmerbegriff) in 1900-Quellen
+- Kombination: Normquellen und empirische Quellen (Gerichtsprotokolle, Notariatsakten)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Lebendes Recht vs. Buchrecht: Beispiele aus deutschem BGB-Recht 1900-1950
+- Sozialgeschichtliche Analyse: Wer gewann, wer verlor im BGB?
+- Rechtstatsachenforschungs-Methoden: Ueberblick
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Ehrlich 1913: Erstausgabe mit Seite. BGB: gesetze-im-internet.de. Rechtstatsaechliche Quellen: Statistisches Bundesamt oder historische Gerichtsprotokolle (Landesarchive).

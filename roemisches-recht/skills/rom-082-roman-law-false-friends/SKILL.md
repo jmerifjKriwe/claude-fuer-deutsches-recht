@@ -1,50 +1,54 @@
 ---
 name: rom-082-roman-law-false-friends
-description: "Römisches Recht: Roman Law False Friends. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Falsche Freunde (false friends) zwischen römischem Recht und modernem deutschem Recht - actio nicht = Klage im BGB-Sinne, possessio nicht = Besitz, culpa nicht = Fahrlässigkeit (vollständig)."
 ---
 
-# Roman Law False Friends
+# Falsche Freunde zwischen römischem und modernem Recht
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Roman Law False Friends** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Viele lateinische Begriffe des röm. Rechts werden im modernen deutschen Recht scheinbar identisch verwendet, haben aber andere Inhalte (false friends). Beispiele: actio (röm.: Klageformular mit spez. Inhalt; heute: subjektives Recht auf Rechtsschutz), possessio (röm.: corpus + animus domini; heute: § 854 BGB breiter), causa (röm.: Rechtsgrund/Klageformel; heute: vielfältig). Solche Unterschiede führen zu Missverständnissen.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 44.7.3 (Paulus)**: Actio als Klagerecht im röm. Recht
+- **D. 41.2.1 (Paulus)**: Possessio mit corpus und animus
+- **D. 41.1.31 (Gaius)**: Causa der traditio
+- **BGB § 194**: Anspruch (nicht actio!)
+- **BGB § 854**: Besitz (breiter als possessio)
+- **BGB § 276**: Verschulden (dolus+culpa zusammengefasst)
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- actio: röm. Klageformular vs. mod. Anspruch (BGB § 194)
+- possessio: röm. corpus+animus vs. BGB-Besitz (§ 854: Herrschaft)
+- causa: röm. Rechtsgrund vs. heute: vielfältig (Ursache, Klagegrund)
+- culpa: röm. Fahrlässigkeit vs. BGB § 276 (auch Vorsatz)
+- dominium: röm. Vollrechts-Eigentum vs. BGB-Eigentum (§ 903)
+- obligatio: röm. vinculum iuris vs. BGB-Schuldverhältnis (§ 241)
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Führt terminologische Ungenauigkeit zu materiellen Fehlern?
+2. Welche false friends sind in der Praxis besonders gefährlich?
+3. Historismus: Sollen Begriffe historisch oder systematisch verstanden werden?
+4. Pandektistik als Transmissionsriemen: Welche Bedeutungen wurden importiert?
+5. Internationale Perspektive: Andere Länder haben andere Übernahmen
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 44.7.3; D. 41.2.1; D. 41.1.31 als Ausgangstexte
+- BGB: gesetze-im-internet.de (Normvergleich)
+- Liebs Lateinische Rechtsregeln für Terminologie
+- Berger Encyclopedic Dictionary of Roman Law
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Tabelle: 20 wichtige false friends mit Erklärung
+- Memo: actio im röm. und mod. Recht
+- Memo: possessio vs. BGB-Besitz
+- Checkliste für Hausarbeiten und Gutachten
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 44.7.3; D. 41.2 (Mommsen-Krüger). BGB: gesetze-im-internet.de. Liebs. Berger.

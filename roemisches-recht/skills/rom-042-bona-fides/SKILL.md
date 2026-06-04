@@ -1,50 +1,54 @@
 ---
 name: rom-042-bona-fides
-description: "Römisches Recht: Bona Fides. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Bona fides als Rechtsprinzip - actiones bonae fidei nach D. 16.3.31 (Paulus), bonae fidei iudicium, objektive Redlichkeit und Verhältnis zu dolus (exceptio doli generalis)."
 ---
 
-# Bona Fides
+# Bona fides - Treu und Glauben im römischen Recht
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Bona Fides** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Bona fides ist eines der tragenden Prinzipien des römischen Privatrechts. In bonae fidei iudicia (Klagen aus Treu und Glauben: Kauf, Miete, Auftrag, Gesellschaft, Mandat, Leihe, Verwahrung) kann der Richter alle Umstände nach Billigkeit berücksichtigen. D. 16.3.31 (Paulus): bona fides als Maßstab. Außerdem: exceptio doli als Schutz gegen Arglist im Streitfall.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 16.3.31 (Paulus)**: Bona fides als genereller Maßstab
+- **D. 17.2.3.3 (Paulus)**: Bonae fidei iudicium - Reichweite
+- **D. 19.1.11.1 (Ulpian)**: Actio empti als bonae fidei actio
+- **Gaius Inst. 4.62**: Bonae fidei vs. stricti iuris iudicia
+- **D. 50.17.34 (Ulpian)**: Bona fides-Maximen
+- **D. 44.4.1 (Ulpian)**: Exceptio doli generalis
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- bonae fidei iudicia: Klagen, in denen Richter nach Treu und Glauben urteilt
+- stricti iuris iudicia: Klagen nach striktem Recht ohne Ermessen
+- actio ex fide bona: Klage aus gutem Glauben
+- fides: persönliche Treupflicht (ursprünglich aus Patronatsverhältnis)
+- exceptio doli: Einrede der Arglist
+- dolus malus: arglistiges Handeln
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Bona fides als subjektives oder objektives Prinzip?
+2. Verhältnis bona fides - aequitas: identisch oder verschieden?
+3. Ausweitung der bonae fidei iudicia durch Prätor
+4. Exceptio doli generalis als Generalklausel?
+5. Einfluss auf BGB § 242 (Treu und Glauben)
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 16.3; D. 44.4; D. 50.17 als Schlüsseltitel
+- Gaius Inst. 4.62 zur Klagenklassifikation
+- Kaser RP I §§ 165-175; Zimmermann/Whittaker Good Faith in European Contract Law
+- Wieacker Zur Rechtstheorie und Rechtsgeschichte
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Übersicht: bonae fidei iudicia (Liste)
+- Schema: bona fides als Maßstab bei verschiedenen Vertragstypen
+- Memo zur exceptio doli und ihrem Verhältnis zur bona fides
+- Vergleich röm. bona fides vs. BGB § 242
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 16.3; D. 44.4; D. 50.17; Gaius Inst. 4.62 (Mommsen-Krüger). Kaser RP I. Zimmermann/Whittaker.

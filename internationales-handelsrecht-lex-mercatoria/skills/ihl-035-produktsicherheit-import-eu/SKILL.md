@@ -1,50 +1,52 @@
 ---
 name: ihl-035-produktsicherheit-import-eu
-description: "Internationales Handelsrecht und Lex Mercatoria: Produktsicherheit Import EU. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Produktsicherheit bei EU-Importen. EU-Marktüberwachungsverordnung (EU) 2019/1020, CE-Kennzeichnung, REACH-VO (EG) 1907/2006, Produkthaftungsrichtlinie 85/374/EWG (Neufassung 2024) und Pflichten des Importeurs."
 ---
 
-# Produktsicherheit Import EU
+# Produktsicherheit beim EU-Import
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Produktsicherheit Import EU** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Importeure in die EU tragen produktrechtliche Pflichten: CE-Kennzeichnung sicherstellen, Konformitätserklärung beschaffen, REACH-Anforderungen prüfen. Die EU-Marktüberwachungs-VO (EU) 2019/1020 stärkt die Pflichten von Importeuren und Online-Plattformen. Die neue Produkthaftungsrichtlinie (2024) erweitert die Haftung auf Softwareprodukte.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **VO (EU) 2019/1020 Art. 4**: EU-Bevollmächtigter Importeur als verantwortliche Wirtschaftsperson
+- **VO (EU) 2019/1020 Art. 14**: Marktüberwachung — Pflicht zur Rückverfolgbarkeit
+- **REACH VO (EG) 1907/2006 Art. 33**: Informationspflicht bei SVHCs (besonders besorgniserregenden Stoffe)
+- **Produktsicherheits-VO (EU) 2023/988** (ab 13.12.2024): Allgemeine Produktsicherheit
+- **Produkthaftungs-RL 2024/2853**: Erweiterte Haftung inkl. Software, KI-Produkte
+- **CE-Richtlinien** (z.B. NLF, Maschinenrichtlinie 2006/42/EG, LVD 2014/35/EU)
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Importeur-Pflichten: Konformitätserklärung, technische Unterlagen, CE-Kennzeichnung prüfen
+- EU-Bevollmächtigter: Pflichtadresse für Behörden; bei fehlendem EU-Hersteller der Importeur
+- SVHCs: Substances of Very High Concern — Informationspflicht in Lieferkette
+- RAPEX-Schnellwarnsystem: EU-Meldepflicht bei gefährlichen Produkten
+- Due Diligence: Importeur haftet wie Hersteller wenn kein EU-Niederlassungsnachweis
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Importeur ohne eigene Prüfung — haftet er für CE-Falschangaben des chinesischen Herstellers?
+2. REACH Art. 33: Ab welchem SVHC-Grenzwert (0,1% Gewichtsanteil) gilt Informationspflicht?
+3. RAPEX: Wann ist Importeur zur Meldung verpflichtet (eigene Kenntnis oder Marktüberwachungsbehörde)?
+4. Online-Marktplatzhaftung: Haftet Marktplatz (Amazon EU) bei gefährlichen Drittanbieter-Produkten?
+5. Neue PH-RL 2024: Gilt Haftung für autonome Software-Updates ohne Hardware-Defekt?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Due-Diligence-Kette: Herstelleraudit, Konformitätserklärung, technische Dokumentation
+- REACH-SVHC-Screening: Materialdatenblätter von Herstellern; ECHA-Kandidatenliste prüfen
+- RAPEX-Meldefluss dokumentieren: interne Eskalationskette festlegen
+- EU-Bevollmächtigter: EU-ansässige Kontaktperson im Importvertrag festlegen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Importeur-Pflichten-Checkliste (CE, REACH, Marktüberwachung)
+- REACH Art. 33 Meldeformular-Muster
+- RAPEX-Meldefluss-Diagramm
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+VO (EU) 2019/1020: eur-lex.europa.eu. REACH: eur-lex.europa.eu (32006R1907). PH-RL 2024/2853: eur-lex.europa.eu. ECHA: echa.europa.eu. Unsicherheit bleibt sichtbar.

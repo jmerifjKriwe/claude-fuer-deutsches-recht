@@ -1,50 +1,52 @@
 ---
 name: ihl-074-retention-and-setoff
-description: "Internationales Handelsrecht und Lex Mercatoria: Retention And Setoff. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Einbehalt und Aufrechnung im internationalen Kaufvertrag. Zurückbehaltungsrecht (CISG Art. 58, BGB § 273), Aufrechnung (BGB §§ 387-396), CISG-Schweigen zur Aufrechnung, grenzüberschreitende Aufrechnung und Insolvenzaufrechnung."
 ---
 
-# Retention And Setoff
+# Zurückbehaltungsrecht und Aufrechnung International
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Retention And Setoff** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Zurückbehaltungsrecht (CISG Art. 58 Abs. 1: Käufer zahlt gegen Übergabe; BGB § 273) und die Aufrechnung (§§ 387-396 BGB) sind wichtige Defensivrechte. CISG regelt die Aufrechnung nicht direkt — nationale Recht nach IPR gilt. Grenzüberschreitende Aufrechnung kann durch Formerfordernisse und Anerkennung im Ausland kompliziert werden.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CISG Art. 58 Abs. 1**: Zahlung Zug um Zug gegen Übergabe (vertragsimmanentes ZBR)
+- **BGB § 273**: Zurückbehaltungsrecht — Verbindung der Ansprüche
+- **BGB §§ 387-396**: Aufrechnung — Gegenseitigkeit, Fälligkeit, Aufrechnungserklärung
+- **PICC Art. 8.1-8.5**: Set-off (Aufrechnung) — autonom geregelt
+- **InsO § 94**: Aufrechnung in der Insolvenz — privilegierte Aufrechnungslage
+- **EuInsVO Art. 9**: Schutz des Aufrechnungsberechtigten bei EU-Insolvenz
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Zug-um-Zug-Leistung (CISG Art. 58): Käufer muss nicht vorleisten wenn kein Zahlungsziel
+- Konnexität (BGB § 273): ZBR nur wenn Gegenanspruch und Hauptanspruch aus gleichem rechtlichem Verhältnis
+- PICC Art. 8.1: Aufrechnung durch einseitige Erklärung; Fälligkeit der Gegenforderung nicht immer erforderlich
+- Set-off vs. Netting: Set-off einseitig; Netting vertraglich (z.B. ISDA Close-Out Netting)
+- Insolvenzaufrechnung: privilegiert wenn Aufrechnungslage vor Insolvenz entstanden (§ 94 InsO)
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. CISG-Vertrag: Käufer rechnet mit Gegenforderung aus anderem Vertrag auf — zulässig?
+2. Aufrechnung mit unbestrittener vs. bestrittener Gegenforderung: Wirksamkeit?
+3. ZBR bei CIF-Lieferung: Kann Käufer Zahlung zurückhalten bis Dokumente vorliegen?
+4. Grenzüberschreitende Aufrechnung: Aufrechnung erklärt in D gegen eng. Forderung — Wirkung?
+5. Insolvenz-Netting (ISDA): Schützt Close-Out Netting vor Insolvenzanfechtung in EU?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Aufrechnung: Gegenseitigkeit, Gleichartigkeit, Fälligkeit der Gegenforderung prüfen
+- CISG-Lücke: Aufrechnung nach IPR-Recht (Vertragsstatut) beurteilen
+- ZBR im Akkreditivgeschäft: Akkreditiv ist abstrakt — ZBR aus Grundgeschäft nicht gegenüber Bank
+- Netting-Vereinbarung: für Finanzderivate ISDA Master Agreement mit Close-Out-Netting-Klausel
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- ZBR vs. Aufrechnung Abgrenzungsschema
+- Aufrechnungs-Erklärungsschreiben-Muster
+- ISDA Close-Out Netting Grundprinzip
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+BGB §§ 273, 387-396: gesetze-im-internet.de. CISG Art. 58: uncitral.un.org. PICC Art. 8.1: unidroit.org. InsO § 94: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.

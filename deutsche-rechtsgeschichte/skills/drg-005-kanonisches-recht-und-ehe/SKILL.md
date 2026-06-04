@@ -1,50 +1,50 @@
 ---
 name: drg-005-kanonisches-recht-und-ehe
-description: "Deutsche Rechtsgeschichte: Kanonisches Recht Und Ehe. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Kanonisches Recht und Eherecht. Decretum Gratiani, Corpus Iuris Canonici, kirchliche Ehegesetze von der Friede-Bulle bis zum BGB 1896, Tridentinum und Zivilehe 1874."
 ---
 
-# Kanonisches Recht Und Ehe
+# Kanonisches Recht und Eherecht
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Kanonisches Recht Und Ehe** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das kanonische Recht (kirchliches Recht) hatte fuer das Eherecht bis ins 19. Jahrhundert pragende Bedeutung. Das Decretum Gratiani (ca. 1140) systematisierte das Kirchenrecht erstmals. Der Corpus Iuris Canonici (Editio Romana 1582) blieb bis 1917 die massgebliche Quellensammlung. Das Tridentinum (Konzil von Trient, 1545-1563) schuf mit dem Dekret Tametsi die Voraussetzungen fuer die katholische Pflichtform der Ehe. Die Einfuehrung der obligatorischen Zivilehe im Deutschen Reich 1874 (RGBl. 1874, 47) loeste das Eherecht aus dem kirchlichen Monopol. Das BGB 1900 kodifizierte das saekularisierte Eherecht.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Decretum Gratiani** (ca. 1140): C. 27-36: Eherecht der Kirche
+- **Dekret Tametsi** (Konzil von Trient, 1563): Pflichtform der kirchlichen Ehe, Pfarrerpflicht
+- **Reichspersonenstandsgesetz 1874** (RGBl. 1874, 47): Obligatorische Zivilehe im Deutschen Reich
+- **BGB §§ 1303-1408** (1900): Kodifikation des saekularisierten Eherechts
+- **Corpus Iuris Canonici (CIC 1917)**: Erste vollstaendige Kodifikation des Kirchenrechts
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Gratian** (12. Jh.): Autor des Decretum Gratiani, Moench in Bologna
+- **Papst Alexander III.** (1159-1181): Konsenstheorie als Ehegrundlage
+- **Konzil von Trient**: Eheformreform 1563
+- **Otto von Bismarck** (1815-1898): Zivilehe 1874 im Kulturkampf
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Konsens- vs. Vollzugstheorie der Ehe: Wann entstand nach kanonischem Recht eine gueltige Ehe?
+2. Tametsi und konfessionelle Mischehen: Welches Recht galt?
+3. Zivilehe 1874: Kulturkampf-Massnahme oder sakulare Modernisierung?
+4. BGB und kirchliches Eherecht: Welche Reste des kanonischen Rechts blieben im BGB?
+5. CIC 1917 und BGB 1900: Konvergenzen und Divergenzen im Eherecht
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Corpus Iuris Canonici: historische Editionen (Friedberg 1879-1881)
+- Tametsi-Dekret: Konzilsakten von Trient, historische Edition
+- BGB §§ 1303 ff.: gesetze-im-internet.de fuer aktuelle Fassung; historisch Mugdan Bd. IV
+- Reichsgesetzblatt 1874: ALEX/OeNB
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitlinie Eherecht: Kanonisches Recht, Tametsi, Zivilehe 1874, BGB 1900
+- Konsensprinzip kanonisches Recht vs. BGB-Eherecht
+- Tabelle: Kirchliche Ehehindernisse im Vergleich zu BGB-Ehevoraussetzungen
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Corpus Iuris Canonici: Friedberg-Edition (1879-1881). RGBl. 1874: ALEX/OeNB. BGB-Materialien Eherecht: Mugdan Bd. IV (1899). BGB aktuell: gesetze-im-internet.de.

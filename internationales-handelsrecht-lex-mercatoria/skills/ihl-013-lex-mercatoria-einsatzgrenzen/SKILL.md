@@ -1,50 +1,52 @@
 ---
 name: ihl-013-lex-mercatoria-einsatzgrenzen
-description: "Internationales Handelsrecht und Lex Mercatoria: Lex Mercatoria Einsatzgrenzen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Lex mercatoria — transnationaler Handelsrechtsdebatte. Goldman-These (autonomes Handelsrecht), Lord Mustill (Skepsis), Berger CENTRAL-Prinzipien-Datenbank und Grenzen in staatlichen Gerichten vs. internationaler Schiedsgerichtsbarkeit."
 ---
 
-# Lex Mercatoria Einsatzgrenzen
+# Lex Mercatoria: Geltungsbereich und Grenzen
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Lex Mercatoria Einsatzgrenzen** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die lex mercatoria-Debatte fragt, ob transnationaler Handel ein autonomes Rechtssystem erzeugt, das unabhängig von staatlichem Recht gilt. Berthold Goldman (Paris, 1960er) bejahte ein eigenständiges Händlerrecht. Lord Mustill (1987) wies nach, dass keine konsolidierte Normenmatrix existiert. Klaus Peter Berger entwickelte mit CENTRAL eine Datenbank transnationaler Rechtsprinzipien (trans-lex.org).
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Goldman, Berthold**: "Frontières du droit et lex mercatoria", Archives de philosophie du droit 1964
+- **Mustill, Lord**: "The New Lex Mercatoria", Arbitration International 1987, S. 86 ff.
+- **Berger, Klaus Peter**: "The Creeping Codification of the New Lex Mercatoria" (1999)
+- **CENTRAL Datenbank**: trans-lex.org — 130+ Prinzipien mit Schiedsreferenzen
+- **UNIDROIT Principles 2016 Präambel**: Anwendung bei fehlendem Vertragsstatut oder zur Ergänzung
+- **ICC Award No. 7375 (1996)**: Anwendung von lex mercatoria ohne nationales Recht
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Autonome lex mercatoria vs. staatlich deriviertes Handelsrecht
+- General Principles of Law, Trade Usages, Transnational Norms
+- Amiable Composition vs. ex aequo et bono vs. lex mercatoria
+- ordre public als Grenze der lex mercatoria
+- UNIDROIT Principles als Kodifikation der lex mercatoria?
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Kann ein Schiedsrichter lex mercatoria ohne ausdrückliche Parteivereinbarung anwenden?
+2. Wie verhält sich lex mercatoria zu zwingenden staatlichen Normen (Kartellrecht, Exportkontrolle)?
+3. Ist CISG Teil der lex mercatoria oder nur paralleles Einheitsrecht?
+4. CENTRAL-Prinzipien: Welche Überzeugungskraft haben sie vor staatlichen Gerichten?
+5. Lord Mustills Liste: Welche der 20 Prinzipien sind heute konsolidiert?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Goldman vs. Mustill-Debate strukturiert darstellen (Positivismus vs. Pluralismus)
+- CENTRAL trans-lex.org für Prinzipien-Recherche nutzen
+- Schiedssprüche: jusmundi.com, italaw.com für Investment-Kontext
+- Vor staatlichen Gerichten: lex mercatoria nur als Auslegungshilfe, nicht als Statut
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Übersicht: Goldman / Mustill / Berger Positionen im Vergleich
+- CENTRAL-Prinzipien-Matrix (Top 10 mit Schiedsreferenz)
+- Klauselvorschlag: lex mercatoria als Auffangregel in Schiedsklausel
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+trans-lex.org (CENTRAL), unidroit.org, jusmundi.com, italaw.com. Schrifttum: Berger, Creeping Codification (1999); Mustill, Arbitration International 1987. Unsicherheit bleibt sichtbar.

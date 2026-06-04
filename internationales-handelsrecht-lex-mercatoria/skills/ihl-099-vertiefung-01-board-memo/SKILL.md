@@ -1,50 +1,52 @@
 ---
 name: ihl-099-vertiefung-01-board-memo
-description: "Internationales Handelsrecht und Lex Mercatoria: Vertiefung 01 Board Memo. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Board-Memo zu einem internationalen Handelsstreit oder Vertragsrisiko. Führungskräfte-taugliche Kurzdarstellung, Entscheidungsoptionen, Kostenrisikoabwägung, Settlement-Empfehlung und rechtliche Unsicherheiten transparent gemacht."
 ---
 
-# Vertiefung 01 Board Memo
+# Board-Memo: Internationaler Handelsstreit
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Vertiefung 01 Board Memo** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Board-Memo fasst einen internationalen Handelsstreit oder ein Vertragsrisiko für Führungsgremien (Vorstand, Aufsichtsrat, Investment Committee) zusammen. Es nennt die rechtliche Ausgangslage, die drei strategischen Optionen (Vergleich, Schiedsverfahren, Klagerücknahme), die Kosten-Nutzen-Analyse und eine klare Empfehlung.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CISG Art. 25**: Wesentliche Verletzung als Entscheidungsgrundlage (Aufhebung vs. Minderung)
+- **ICC Schiedsregeln Art. 36**: Kostenentscheidung des Schiedsgerichts (Unterlegener trägt i.d.R.)
+- **NY Convention Art. V**: Vollstreckbarkeit-Risiko im Schuldner-Land
+- **BGB § 779**: Vergleich als Alternative
+- **LkSG § 10 Abs. 2**: Dokumentationspflicht von Sorgfaltspflicht-Entscheidungen
+- **D&O-Versicherung**: Direktoren-Haftung bei fehlerhafter Entscheidung über Streitstrategie
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Executive Summary: max. 5 Zeilen Gesamtbewertung für Board
+- Drei Optionen: (A) Settlement, (B) Schiedsverfahren, (C) Nichtstun (Verjährungs-Risiko)
+- P×V-Bewertung: Erfolgswahrscheinlichkeit × Streitwert = Erwartungswert
+- Litigation Budget: all-in-Kosten-Schätzung für Schiedsverfahren über 2 Jahre
+- Reputationsrisiko: öffentliche Schiedsverfahren vs. vertrauliche Vergleiche
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Board-Format: Wie lang darf ein Board-Memo sein? (Max. 2 Seiten für Entscheidungsvorlage)
+2. P×V-Analyse: EUR 5 Mio. Streitwert, 60% Erfolgswahrscheinlichkeit, EUR 500.000 Kosten — Settlement bei?
+3. Settlement-Empfehlung: Wann empfehle ich Settlement auch wenn wir stark sind?
+4. D&O-Haftung: Kann CEO für fehlerhafte Entscheidung im Handelsstreit persönlich haften?
+5. Vertraulichkeit: Schiedsverfahren vs. Settlement — welches schützt Geschäftsgeheimnis besser?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Board-Memo-Struktur: (1) Situation, (2) Rechtliche Analyse (3 Zeilen), (3) Optionen, (4) Empfehlung, (5) Nächster Schritt
+- P×V: realistische Erfolgswahrscheinlichkeit (kein Wunschdenken); außerhalb Anwalts-Opinion validieren
+- Settlement-Threshold: wenn Settlement-Betrag < P×V abzüglich Kosten → ablehnen
+- Zeitplan: Schiedsverfahren dauert 2-3 Jahre; Ressourcen für diese Zeit einplanen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Board-Memo-Template (2 Seiten, international)
+- P×V-Entscheidungsmatrix
+- Litigation-Budget-Schätzungsrahmen (ICC-Schiedskosten 2024)
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+ICC Schiedskosten: iccwbo.org/dispute-resolution/arbitration/costs. NY Convention: newyorkconvention.org. BGB § 779: gesetze-im-internet.de. Schrifttum: Redfern/Hunter, Law and Practice of International Commercial Arbitration (2015). Unsicherheit bleibt sichtbar.

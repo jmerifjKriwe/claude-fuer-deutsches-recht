@@ -1,50 +1,54 @@
 ---
 name: rom-011-mancipatio-und-in-iure-cessio
-description: "Römisches Recht: Mancipatio Und In Iure Cessio. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Mancipatio und in iure cessio als förmliche Übereignungsarten für res mancipi nach Gaius Inst. 1.119-122 und D. 18.1.80 - Ritual, Zeugen, nexum und Abschaffung durch Justinian."
 ---
 
-# Mancipatio Und In Iure Cessio
+# Mancipatio und in iure cessio
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Mancipatio Und In Iure Cessio** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die mancipatio ist der älteste förmliche Übereignungsakt des ius civile für res mancipi: Übergabe vor fünf Zeugen und Waaghalter (libripens) mit fester Kupferformel (aes et libra). Gaius beschreibt sie in Inst. 1.119. Die in iure cessio ist eine gerichtliche Übereignung durch Scheinvindikation vor dem Magistrat. Beide Formen wurden durch Justinian abgeschafft (C. 7.25.1).
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius Inst. 1.119**: Beschreibung der mancipatio-Formel mit Kupfer und Waage
+- **Gaius Inst. 1.121**: In iure cessio vor dem Magistrat
+- **D. 18.1.80.3 (Paulus)**: Mancipatio beim Kauf von res mancipi
+- **XII Tafeln Tab. VI.1**: Nexum und mancipium als älteste Quellen
+- **C. 7.25.1 (Justinian 531)**: Abschaffung der Unterscheidung res mancipi/nec mancipi
+- **Gaius Inst. 2.22**: Mancipatio für Provinzialgrundstücke nicht anwendbar
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- mancipatio: förmlicher Übereignungsakt mit Kupfer, Waage und Zeugen
+- libripens: Waaghalter bei der mancipatio
+- nexum: ältere Form der schuldrechtlichen Bindung via mancipatio
+- in iure cessio: gerichtliche Übereignung durch Scheinvindikation
+- res mancipi: nur durch mancipatio oder in iure cessio wirksam übereignbar
+- mancipium: älteres Recht an Personen (Hausgewalt per mancipatio)
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Historische Funktion der mancipatio: Sakralakt, Kaufritual oder allgemeiner Formalakt?
+2. Nexum als Schuldknechtschaft: Abschaffung durch lex Poetelia Papiria 326 v.Chr.
+3. Mancipatio ficta: Nutzung für andere Zwecke (emancipatio, adoptio, testamentum)
+4. Abschaffung durch Justinian: vollständig oder Rudimente geblieben?
+5. Bedeutung für BGB-Entstehungsgeschichte und Abstraktionsprinzip
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Gaius Inst. 1.119-122 und 2.18-27 als Primärtexte
+- XII Tafeln in Bruns Fontes iuris Romani (archive.org)
+- Mommsen Römisches Staatsrecht und Strafrecht
+- Kaser RP I §§ 117-121; Watson Roman Private Law
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Rekonstruktion des mancipatio-Rituals
+- Vergleich: mancipatio - in iure cessio - traditio
+- Tabelle: Verwendungen der mancipatio (emancipatio, adoptio etc.)
+- Historisches Memo zur Abschaffung durch Justinian
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Gaius Inst. 1-2 (Mommsen-Krüger). XII Tafeln: Bruns Fontes (archive.org). C. 7.25 (Codex). Kaser RP I.

@@ -1,50 +1,53 @@
 ---
 name: rom-036-iniuria-persoenlichkeitsverletzung
-description: "Römisches Recht: Iniuria Persoenlichkeitsverletzung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Iniuria als Persönlichkeitsverletzung nach D. 47.10 und Gaius Inst. 3.220-225 - XII Tafeln-Tatbestände, actio iniuriarum aestimatoria, iniuria atrox und SC de iniuriis."
 ---
 
-# Iniuria Persoenlichkeitsverletzung
+# Iniuria - Persönlichkeitsverletzung
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Iniuria Persoenlichkeitsverletzung** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Iniuria bezeichnet die widerrechtliche Verletzung der persönlichen Würde (Schlag, Schmähschrift, Eindringen in fremdes Haus). XII Tafeln kannten fixe Geldstrafen (membrum ruptum: Talion, Tab. VIII.2; os fractum: 300 As). Die klassische actio iniuriarum aestimatoria lässt das Gericht den Schmerzensgeld-Betrag schätzen. Gaius Inst. 3.220: iniuria als dritte Deliktskategorie.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **XII Tafeln Tab. VIII.2-4**: Membrum ruptum (Talion), os fractum (300 As), iniuria (25 As)
+- **Gaius Inst. 3.220**: Iniuria als dritte Deliktskategorie
+- **D. 47.10.1 pr. (Ulpian)**: Iniuria-Definition (contra ius)
+- **D. 47.10.15.27 (Ulpian)**: Iniuria atrox (schwere Iniuria)
+- **D. 47.10.7.8 (Ulpian)**: Actio iniuriarum - Schätzung durch Richter
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- iniuria: widerrechtliche Verletzung der Würde/Person
+- actio iniuriarum aestimatoria: Schätzungsklage
+- iniuria atrox: schwere Iniuria (Verstümmelung, am Senator, öffentlich)
+- contumelia: Ehrenkränkung als Kern der iniuria
+- iniuria convicium: Schmähgeschrei
+- animus iniuriandi: Verletzungswille als subjektives Merkmal
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Wandel von XII-Tafeln-Recht zu prätorischer Schätzungsklage
+2. Animus iniuriandi: objektive oder subjektive Voraussetzung?
+3. Iniuria und Ehre: unterschiedlicher Schutz nach Stand (Senator vs. Sklave)?
+4. Iniuria durch Hauskinder/Sklaven: Haftung des Hausvaters
+5. Vergleich: röm. iniuria vs. BGB § 823 Abs. 1 (allg. Persönlichkeitsrecht)
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 47.10 (De iniuriis et famosis libellis) als Haupttitel
+- Gaius Inst. 3.220-225
+- XII Tafeln: Bruns Fontes (archive.org)
+- Kaser RP I §§ 296-300; Zimmermann Law of Obligations Kap. 26
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Historische Entwicklung: XII Tafeln -> klassisches Recht
+- Schema: Tatbestand der iniuria
+- Tabelle: iniuria atrox vs. levis
+- Vergleich röm. iniuria vs. allgemeines Persönlichkeitsrecht
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 47.10; Gaius Inst. 3.220-225 (Mommsen-Krüger). XII Tafeln: Bruns Fontes (archive.org). Kaser RP I.

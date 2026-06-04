@@ -1,50 +1,54 @@
 ---
 name: rom-049-actiones-in-rem-in-personam
-description: "Römisches Recht: Actiones In Rem In Personam. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Actiones in rem (dingliche Klagen) vs. actiones in personam (persönliche Klagen) nach Gaius Inst. 4.1-3 und D. 44.7.25 - Eigentumsklage (rei vindicatio) vs. persönliche Obligationsklage."
 ---
 
-# Actiones In Rem In Personam
+# Actiones in rem und in personam
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Actiones In Rem In Personam** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Gaius Inst. 4.1 unterscheidet actiones in rem (Klagen gegen jedermann aufgrund eines dinglichen Rechts: rei vindicatio, actio confessoria) und actiones in personam (Klagen aus persönlichem Obligationsverhältnis gegen einen bestimmten Schuldner). Diese Unterscheidung ist grundlegend für das röm. Privat- und Prozessrecht und prägte die kontinentaleuropäische Rechtsdogmatik.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius Inst. 4.1**: Actiones in rem vs. in personam - Grunddefinition
+- **D. 44.7.25 (Gaius)**: Actio in rem und in personam
+- **D. 6.1.1 (Ulpian)**: Rei vindicatio als actio in rem
+- **D. 44.7.3 (Paulus)**: Actio in personam und Obligationsbegriff
+- **Gaius Inst. 4.2**: Formelunterschied in rem vs. in personam
+- **Iust. Inst. 4.6 pr.**: Klagenklassifikation
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- actio in rem: Klage gegen jeden Inhaber des Gegenstands
+- actio in personam: Klage gegen bestimmten Schuldner aus obligatio
+- rei vindicatio: Musterfall der actio in rem
+- actio confessoria: in rem für Servituteninhaber
+- condictio: actio in personam aus condictio
+- formula in rem: agere 'rem meam esse'
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Dingliches vs. persönliches Recht: absolut vs. relativ?
+2. Grenzen der Unterscheidung: actio hypothecaria als in rem oder in personam?
+3. Einfluss auf Pandektenwissenschaft und BGB-Systembildung
+4. Mixed actions im Common Law vs. röm. Klassifikation
+5. Ist die Unterscheidung heute noch dogmatisch relevant?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Gaius Inst. 4.1-20
+- D. 44.7 (De obligationibus et actionibus)
+- Kaser RP I §§ 155-170; Kaser/Hackl Zivilprozessrecht §§ 24-30
+- Windscheid Pandekten Bd. I zur Übernahme
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: actio in rem vs. in personam
+- Tabelle: Klagenbeispiele mit Einordnung
+- Memo: Formelunterschiede
+- Vergleich röm. Klagenklassifikation vs. BGB-System
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Gaius Inst. 4; D. 44.7 (Mommsen-Krüger). Kaser/Hackl Zivilprozessrecht. Kaser RP I.

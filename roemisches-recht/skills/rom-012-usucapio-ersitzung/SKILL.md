@@ -1,50 +1,54 @@
 ---
 name: rom-012-usucapio-ersitzung
-description: "Römisches Recht: Usucapio Ersitzung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Usucapio (Ersitzung) nach D. 41.3 und Gaius Inst. 2.41-61 - iusta causa, bona fides, Fristen (1 Jahr Mobilien, 2 Jahre Immobilien), longi temporis praescriptio."
 ---
 
-# Usucapio Ersitzung
+# Usucapio - Ersitzung
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Usucapio Ersitzung** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Usucapio ist der Eigentumserwerb durch Ersitzung: ein Besitzer, der eine Sache mit iusta causa und bona fides besessen hat, erwirbt nach Ablauf der Frist Eigentum. XII Tafeln setzten 1 Jahr für Mobilien, 2 Jahre für Grundstücke. Zweck: Heilung von Übereignungsmängeln. Die longi temporis praescriptio (10 Jahre bei Anwesenheit des Gegners, 20 bei Abwesenheit) gilt für Provinzialgrundstücke. D. 41.3 ist der Haupttitel.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius Inst. 2.41**: Usucapio als Heilung von Eigentumsfehlern
+- **D. 41.3.1 (Modestinus)**: Definition der usucapio
+- **D. 41.3.2 pr. (Gaius)**: Iusta causa als Voraussetzung
+- **D. 41.3.44 (Paulus)**: Bona fides muss im Moment des Besitzbeginns vorliegen
+- **XII Tafeln Tab. VI.3**: Ursprüngliche Fristen
+- **Iust. Inst. 2.6**: Usucapio und longi temporis praescriptio
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- iusta causa usucapionis: Rechtsgrund des Besitzerwerbs (emptio, donatio etc.)
+- bona fides: guter Glaube bei Besitzbeginn
+- possessio civilis: qualifizierter Besitz für Ersitzung
+- longi temporis praescriptio: Verjährungseinrede für Provinzialgrundstücke
+- usucapio pro herede: Erbschaftsersitzung
+- interruptio: Unterbrechung der Ersitzungsfrist
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Bona fides: initial oder kontinuierlich erforderlich? (D. 41.3.44 vs. Schulz)
+2. Verhältnis usucapio - longi temporis praescriptio: Vereinheitlichung durch Justinian
+3. Resümee der XII-Tafeln-Fristen: warum so kurz?
+4. Usucapio pro herede: moralisch fragwürdig, aber klassisch anerkannt
+5. Ausschlüsse: res extra commercium, gestohlene Sachen, Gewaltbesitz
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 41.3 (De usurpationibus et usucapionibus) als Haupttitel
+- Gaius Inst. 2.41-61
+- Iust. Inst. 2.6; C. 7.22-33 (Codex zu Ersitzung)
+- Kaser RP I §§ 123-130; Wieacker Privatrechtsgeschichte der Neuzeit
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: Voraussetzungen der usucapio
+- Tabelle: Fristen und Ausschlüsse
+- Vergleich: usucapio vs. BGB §§ 937-945 (Ersitzung)
+- Memo zu usucapio pro herede
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 41.3; Gaius Inst. 2 (Mommsen-Krüger). XII Tafeln: Bruns Fontes (archive.org). C. 7.22-33. Kaser RP I.

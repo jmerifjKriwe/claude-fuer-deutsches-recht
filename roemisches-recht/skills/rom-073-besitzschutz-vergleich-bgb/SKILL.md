@@ -1,50 +1,55 @@
 ---
 name: rom-073-besitzschutz-vergleich-bgb
-description: "Römisches Recht: Besitzschutz Vergleich BGB. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Besitzschutz im Vergleich - röm. Interdikte (uti possidetis, utrubi) vs. BGB §§ 861-869 (possessorischer Schutz) und Savignys/Jherings Besitztheorie und ihre BGB-Auflösung."
 ---
 
-# Besitzschutz Vergleich BGB
+# Besitzschutz im Vergleich: röm. Recht vs. BGB
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Besitzschutz Vergleich BGB** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das röm. Recht schützt den Besitz durch prätorische Interdikte (uti possidetis, utrubi, unde vi). Savigny leitete den Besitzschutz aus dem Verbot der Eigenmacht ab (D. 43.17); Jhering sah ihn als Ergänzung des Eigentumsschutzes. Das BGB entschied sich im Kompromiss: possessorische Klagen (§§ 861-862) unabhängig vom Eigentumsrecht, aber die Besitztheorie des BGB (§§ 854-872) ist näher an Jhering.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 43.17.1 (Ulpian)**: Uti possidetis
+- **D. 41.2.1 (Paulus)**: Possessio als corpus und animus
+- **BGB § 854**: Erwerb des Besitzes
+- **BGB § 861**: Besitzentziehungsklage (possessorisch)
+- **BGB § 869**: Ansprüche des mittelbaren Besitzers
+- **Savigny, Das Recht des Besitzes (1803)**: Klassische Besitztheorie
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- possessorischer Schutz: unabhängig von Eigentum
+- petitorischer Schutz: auf Basis des Eigentumsrechts
+- Savignys Animus-Theorie: animus domini als Kern
+- Jherings Willenstheorie: jeder Sachhalter schutzbedürftig
+- BGB § 854: Savigny-nah (Herrschaft und Wille)
+- Besitzschutz ohne Sachlegitimation: soziale Funktion
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Begründung des Besitzschutzes: Persönlichkeit (Savigny) oder soziale Funktion (Jhering)?
+2. Mittelbarer Besitz (BGB § 868): röm. Vorbild vorhanden?
+3. Eigentümer als Besitzer: Kumulation von Besitz- und Eigentumsschutz
+4. Verhältnis BGB-Interdikte -> einstweiliger Rechtsschutz
+5. Besitzdienerschaft (BGB § 855): röm. Vorläufer?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 43.17-31 (Mommsen-Krüger)
+- BGB §§ 854-872 (gesetze-im-internet.de)
+- Savigny Recht des Besitzes (1803, archive.org)
+- Jhering Über den Grund des Besitzschutzes (1869)
+- Kaser RP I §§ 98-113
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Vergleichstabelle: röm. Besitzschutz vs. BGB
+- Schema: possessorisch vs. petitorisch
+- Memo: Savigny-Jhering-Streit und BGB-Lösung
+- Fallbearbeitung: Besitzentziehung
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 43 (Mommsen-Krüger). BGB: gesetze-im-internet.de. Savigny Besitz (archive.org). Jhering.

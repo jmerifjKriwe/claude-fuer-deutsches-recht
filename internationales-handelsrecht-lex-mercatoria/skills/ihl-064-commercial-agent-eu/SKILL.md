@@ -1,50 +1,52 @@
 ---
 name: ihl-064-commercial-agent-eu
-description: "Internationales Handelsrecht und Lex Mercatoria: Commercial Agent EU. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: EU-Handelsvertreterrecht nach RL 86/653/EWG und HGB §§ 84-92c. Vergütung (Provision), Ausgleichsanspruch § 89b HGB, Kundschutzliste, Delkrederepflicht und Kollisionsrecht bei ausländischen HV-Klauseln."
 ---
 
-# Commercial Agent EU
+# EU-Handelsvertreterrecht
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Commercial Agent EU** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die EU-Handelsvertreter-Richtlinie 86/653/EWG harmonisiert den HV-Schutz in der EU. In Deutschland umgesetzt durch HGB §§ 84-92c. Kernrechte: Provisionsanspruch, Ausgleich nach Kündigung (§ 89b HGB) und Wettbewerbsverbots-Entschädigung. Der Ausgleichsanspruch ist zwingendes Recht und kann nicht vertraglich abbedungen werden (§ 89b Abs. 4 HGB).
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **HGB § 84**: Handelsvertreter-Begriff — selbständig, ständig beauftragt
+- **HGB § 87**: Provisionsanspruch — bei während Vertragszeit vermittelten Geschäften
+- **HGB § 87a**: Entstehung und Fälligkeit der Provision
+- **HGB § 89b**: Ausgleichsanspruch — max. 1 Jahres-Durchschnittsprovision; fünf Voraussetzungen
+- **HGB § 90a**: Wettbewerbsverbot nach Vertragsende — max. 2 Jahre; Entschädigungspflicht
+- **EU-HV-RL 86/653/EWG Art. 17-18**: Mindeststandards für Ausgleich oder Schadensersatz
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Ausgleich § 89b: (1) Unternehmer profitiert weiter von Kundschaft, (2) Provision entfällt, (3) angemessen, (4) kein Kündigungsgrund des HV, (5) kein Eigenkündigung
+- Kundschutzliste: nach Beendigung dem HV zu überlassende Liste seiner Kunden
+- Delkredereprovision: HV übernimmt Haftung für Zahlungsfähigkeit des Kunden (§ 86b HGB)
+- Inkassovollmacht: Berechtigung zur Entgegennahme von Zahlungen
+- Kollisionsrecht: § 92c HGB — Rechtswahl muss zu EU-Recht gleichwertigem Schutz führen
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Kündigung und Ausgleich: Berechnung § 89b wenn HV letztes Jahr keine neuen Kunden akquirierte?
+2. Eigenkündigung des HV: Wann kein Ausgleichsverlust trotz Eigenkündigung (§ 89b Abs. 3)?
+3. Außereuropäischer HV: Gilt § 89b HGB wenn Vertrag deutschem Recht unterliegt?
+4. Wettbewerbsverbot § 90a: Muss Auftraggeber Entschädigung zahlen auch ohne Schäden?
+5. Mehrere Auftraggeber: Separate Ausgleichsberechnung oder Gesamtbetrachtung?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Ausgleichsberechnung § 89b: Schritte (1) Provisionsbasis, (2) Koeffizient, (3) Cap
+- Kundschutzliste: vertraglich vereinbaren und nach Kündigung übergeben
+- Wettbewerbsverbot: max. 2 Jahre + angemessene Entschädigung (Halbjahresprovision p.a.)
+- Kollisionsrecht: § 92c HGB Schutz bei Drittland-Rechtswahl
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Ausgleichsberechnungs-Schema § 89b
+- HV-Vertrags-Checkliste
+- Wettbewerbsverbot-Klausel-Muster
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+HGB §§ 84-92c: gesetze-im-internet.de. EU-HV-RL 86/653/EWG: eur-lex.europa.eu. BGH-Rspr. zu § 89b: dejure.org. Unsicherheit bleibt sichtbar.

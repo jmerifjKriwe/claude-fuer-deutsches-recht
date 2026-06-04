@@ -1,50 +1,54 @@
 ---
 name: rom-063-juristen-papinian
-description: "Römisches Recht: Juristen Papinian. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Aemilius Papinianus (gest. 212 n.Chr.) - praefectus praetorio, Quaestiones und Responsa als Hauptwerke, Zitiergesetz 426 gibt ihm das Stichentscheidungsrecht, Verhältnis zu Ulpian und Paulus."
 ---
 
-# Juristen Papinian
+# Jurist: Papinian (Aemilius Papinianus)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Juristen Papinian** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Papinian gilt als der bedeutendste Klassiker. Er war praefectus praetorio unter Septimius Severus und Caracalla und wurde 212 n.Chr. hingerichtet, weil er sich weigerte, den Brudermord Caracallas zu rechtfertigen. Hauptwerke: Quaestiones (37 Bücher) und Responsa (19 Bücher). Das Zitiergesetz von 426 (CTh 1.4.3) gibt ihm bei Stimmengleichheit der fünf Juristen das Stichentscheidungsrecht.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CTh 1.4.3 (Zitiergesetz 426)**: Papinian erhält Stichentscheidungsrecht
+- **D. 1.1.7 (Papinian)**: Ius praetorium als viva vox aequitatis
+- **D. 9.2.51 pr. (Papinian)**: Beispiel seiner Quaestiones
+- **D. 20.1.1 (Papinian)**: Hypotheca
+- **Lenel Palingenesia I**: Papinian-Fragmente
+- **D. 1.2.2.46-47 (Pomponius)**: Papinians Stellung
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- Quaestiones: 37 Bücher Fallsammlungen
+- Responsa: 19 Bücher Gutachten
+- praefectus praetorio: höchstes Verwaltungsamt
+- Stichentscheidungsrecht: nach Zitiergesetz 426
+- Hinrichtung 212 n.Chr.: Weigerung, Caracallas Brudermord zu legitimieren
+- praefectus annonae: frühere Stellung unter Severus
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Papinian als bedeutendster Jurist: Begründung und Kritik
+2. Verhältnis Papinian - Ulpian/Paulus: Schüler oder Kollegen?
+3. Stichentscheidungsrecht: praktische Bedeutung des Zitiergesetzes
+4. Hinrichtung: historischer Kontext und überlieferte Gründe
+5. Papinians Stil: kasuistisch-lakonisch vs. systematisch
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Lenel Palingenesia I (Papinian, archive.org)
+- CTh 1.4.3 (FIRA vol. I, archive.org)
+- Kunkel Herkunft der röm. Juristen
+- Honoré Emperors and Lawyers
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Werkübersicht Papinian
+- Biographisches Memo
+- Stichentscheidungsregel aus Zitiergesetz erklärt
+- Stilanalyse: Papinian vs. Ulpian
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Lenel Palingenesia I (archive.org). CTh 1.4.3: FIRA vol. I (archive.org). D. 1.1.7 (Mommsen-Krüger). Kunkel.

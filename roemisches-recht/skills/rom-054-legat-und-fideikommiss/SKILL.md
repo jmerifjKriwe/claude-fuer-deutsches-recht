@@ -1,50 +1,54 @@
 ---
 name: rom-054-legat-und-fideikommiss
-description: "Römisches Recht: Legat Und Fideikommiss. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Legat (legatum) nach D. 30-32 und Gaius Inst. 2.191-245 - vier Legatsarten, Vindikations- vs. Damnationslegat, fideicommissum und ihre Angleichung durch Justinian."
 ---
 
-# Legat Und Fideikommiss
+# Legat (legatum) und Fideikommiss (fideicommissum)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Legat Und Fideikommiss** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Legat ist eine Einzelzuwendung an einen Dritten aus dem Nachlass. Gaius Inst. 2.192 unterscheidet vier Typen: legatum per vindicationem (direkt dingliches Recht), per damnationem (Erbenpflicht), sinendi modo (Duldungslegat) und per praeceptionem. Das Fideikommiss ist eine formlose Bitte an den Erben zur Weiterleitung. SC Trebellianum (56 n.Chr.) und SC Pegasianum (75 n.Chr.) regelten Klagen und Quoten. Justinian vereinheitlichte in Nov. 1.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius Inst. 2.192-223**: Vier Legatsarten
+- **D. 30.1 pr. (Ulpian)**: Legat-Definition
+- **D. 31.1 pr. (Ulpian)**: Fideicommissum-Definition
+- **D. 30.116 pr. (Paulus)**: SC Trebellianum - Fideikommisserbenklage
+- **D. 35.2.1 pr. (Paulus)**: Lex Falcidia - Viertelquote des Erben
+- **Nov. 1 (Justinian 535 n.Chr.)**: Vereinheitlichung Legat/Fideikommiss
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- legatum per vindicationem: dingliches Eigentumslegat
+- legatum per damnationem: obligatorisches Legat
+- fideicommissum: formlose Bitte an Erben
+- SC Trebellianum (56 n.Chr.): actio fideicommissaria
+- lex Falcidia (40 v.Chr.): Erbe behält Viertel des Nachlasses
+- quarta Falcidia: gesetzliche Mindestquote des Erben
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Fideikommiss als Umgehung von Testamentsvoraussetzungen?
+2. Angleichung Legat/Fideikommiss: vollständig durch Justinian?
+3. Lex Falcidia: Berechnung der Viertelquote
+4. Legat zugunsten Dritter: Direkterwerb oder Anspruch gegen Erben?
+5. Vergleich: röm. Legat vs. BGB § 2174ff. (Vermächtnis)
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 30-32 (De legatis) als Haupttitel
+- Gaius Inst. 2.191-245; Iust. Inst. 2.20-25
+- Nov. 1 und SC Trebellianum; lex Falcidia: Bruns Fontes
+- Kaser RP I §§ 390-420
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Tabelle: vier Legatsarten mit Rechtsfolgen
+- Vergleich Legat vs. Fideikommiss
+- Memo zur lex Falcidia
+- Vergleich röm. Legat vs. BGB Vermächtnis
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 30-32; D. 35.2; Gaius Inst. 2; Nov. 1 (Mommsen-Krüger). Kaser RP I §§ 390-420.

@@ -1,50 +1,54 @@
 ---
 name: rom-067-mos-italicus-und-mos-gallicus
-description: "Römisches Recht: Mos Italicus Und Mos Gallicus. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Mos italicus (Kommentatoren-Methode) vs. mos gallicus (humanistisch-historische Methode, Budé, Cujas, Alciato) im 16. Jh. - Methodenstreit, elegante Jurisprudenz und Einfluss auf Textkritik."
 ---
 
-# Mos Italicus Und Mos Gallicus
+# Mos italicus und mos gallicus
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Mos Italicus Und Mos Gallicus** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Der Methodenstreit des 16. Jhs. trennte den mos italicus (pragmatisch-dogmatische Kommentatoren-Methode) vom mos gallicus (humanistisch-historische Methode der französischen Juristen). Guillaume Budé, Andrea Alciato und Jacques Cujas vertraten den mos gallicus: historisch-philologische Analyse des röm. Textes, Kritik an Akkursius-Glosse. Der mos italicus blieb praxisbezogen.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Alciato, De verborum significatione (1530)**: Humanistische Textauslegung
+- **Cujas, Observationes et emendationes (1556)**: Exemplarische Textkritik
+- **Budé, Annotationes in Pandectas (1508)**: Erste humanistische Digestenkritik
+- **D. 50.16 (De verborum significatione)**: Bevorzugtes Arbeitsfeld der Humanisten
+- **D. 1.2.2 (Pomponius)**: Historische Quelle, Ziel humanistischer Forschung
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- mos gallicus: historisch-philologische Methode (Frankreich, 16. Jh.)
+- mos italicus: dogmatisch-praktische Methode (Italien, Kommentatoren)
+- elegante Jurisprudenz: humanistische Jurisprudenz des 16./17. Jh.
+- Cujas (1522-1590): Hauptvertreter mos gallicus
+- Alciato (1492-1550): Begründer der humanistischen Jurisprudenz
+- Budé (1467-1540): erste humanistische Digestenkritik
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Mos italicus als praxisnahes Recht vs. historische Genauigkeit
+2. Einfluss des mos gallicus auf Interpolationsforschung
+3. Cujas vs. Bartolus: Methodenantipoden
+4. Verhältnis humanistischer Methode zur Reformation
+5. Langzeitwirkung: mos gallicus als Vorläufer der modernen Romanistik
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Budé Annotationes in Pandectas (1508, archive.org)
+- Cujas Observationes (archive.org)
+- Alciato Opera (archive.org)
+- Wieacker Privatrechtsgeschichte § 4
+- Maffei Gli inizi dell' umanesimo giuridico
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Vergleichsschema: mos italicus vs. mos gallicus
+- Kurzbiographien: Budé, Alciato, Cujas
+- Methodendiskussion: praktisch vs. historisch
+- Einfluss auf moderne Romanistik
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Budé Annotationes (archive.org). Cujas Observationes (archive.org). Wieacker Privatrechtsgeschichte. Maffei.

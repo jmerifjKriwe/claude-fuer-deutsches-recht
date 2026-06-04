@@ -1,50 +1,50 @@
 ---
 name: drg-095-red-team-mythen-deutscher-rechtsgeschichte
-description: "Deutsche Rechtsgeschichte: Red Team Mythen Deutscher Rechtsgeschichte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Red-Team gegen verbreitete Mythen. BGB als burgerliches Recht nur fuer Reiche, Weimarer Republik scheiterte zwangslaeufig, NS-Recht war kein Recht und DDR-Recht war nur Befehlsrecht."
 ---
 
-# Red Team Mythen Deutscher Rechtsgeschichte
+# Red-Team Mythen deutscher Rechtsgeschichte
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Red Team Mythen Deutscher Rechtsgeschichte** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+In der Rechtswissenschaft und im oeffentlichen Diskurs existieren hartnäckige Mythen zur deutschen Rechtsgeschichte. Das Red-Team-Verfahren prüft diese systematisch: (1) Mythos formulieren, (2) Belegbasis prüfen, (3) Gegenbelege suchen, (4) nuancierte These entwickeln. Klassische Mythen: Das BGB war ein Gesetz fuer die Bourgeoisie gegen die Arbeiter (widerlegbar durch § 618 BGB Fürsorgepflicht, §§ 611-630 BGB Dienstvertragsrecht); die Weimarer Republik musste scheitern (widerlegbar durch Kontrafaktik); NS-Recht war kein Recht (Radbruch-Formel-Debatte); das DDR-Recht war willkuerlich und ohne System (widerlegbar durch ZGB 1975, AGO).
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **BGB §§ 611-630 (1900)**: Dienstvertragsrecht, Fuersorgepflicht des Arbeitgebers
+- **Ermächtigungsgesetz 1933 (RGBl. I 1933, 141)**: NS-Machtergreifung durch Formalrecht
+- **Radbruch-Formel** (1946, SJZ 1946, 105): Gesetzliches Unrecht und uebergesetzliches Recht
+- **DDR-ZGB 1975 (GBl. I DDR 1975, 465)**: Systematisches Zivilrecht im Sozialismus
+- **BVerfGE 94, 12 (1996)**: Bodenreform-Entscheidung zur Rechtskontinuitaet DDR
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Gustav Radbruch** (1878-1949): Rechtsphilosoph, Radbruch-Formel zur NS-Rechtsbewertung
+- **Anton Menger** (1841-1906): Das buergerliche Recht und die besitzlosen Volksklassen (1890), BGB-Kritik
+- **Ernst Fraenkel** (1898-1975): Der Doppelstaat (1941), NS-Recht-Analyse
+- **Ingo von Muench** (1929-2022): DDR-Recht-Einordnung nach 1990
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Kann gesetzliches Unrecht noch Recht sein? Positivismus vs. Naturrecht vs. Radbruch
+2. Haette die WRV ohne Wirtschaftskrise ueberlebt? Strukturelle vs. kontingente Erklaerungen
+3. BGB und soziale Frage: Was fehlte wirklich? (Arbeiterschutz, Mieterschutz, Verbraucherschutz)
+4. DDR-Recht als eigenstaendige Rechtsordnung oder permanente Ausnahmeherrschaft?
+5. NS-Richter nach 1945: Kontinuitaet als Institutionen-Argument oder persoenliche Schuld?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Mythos formulieren, Beweislast klären, Quellen gegenlesen
+- Radbruch-Formel: SJZ 1946, 105 im Original lesen
+- Anton Mengers BGB-Kritik: Das buergerliche Recht (1890) als historische Gegenquelle
+- DDR-ZGB: GBl. I DDR 1975, 465; BVerfGE 94, 12 als Orientierung
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Red-Team-Analyse fuer 5 klassische Rechtsgeschichts-Mythen
+- Fuer jeden Mythos: Belege, Gegenbelege, nuancierte These
+- Methodennotiz: Wie man Mythos von historischer Faktenlage trennt
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Radbruch-Formel: SJZ 1946. NS-Gesetze: RGBl. via ALEX/ÖNB. DDR-ZGB: GBl. I DDR 1975. BVerfGE: bverfg.de. Keine Blindzitate.

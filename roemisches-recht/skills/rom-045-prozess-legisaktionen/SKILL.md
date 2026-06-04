@@ -1,50 +1,54 @@
 ---
 name: rom-045-prozess-legisaktionen
-description: "Römisches Recht: Prozess Legisaktionen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Legisaktionenprozess nach Gaius Inst. 4.11-29 - fünf Legisaktionen (sacramento, iudicis postulatio, condictio, manus iniectio, pignoris capio), iudex und das bipartite Verfahren."
 ---
 
-# Prozess Legisaktionen
+# Der Legisaktionenprozess
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Prozess Legisaktionen** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Der Legisaktionenprozess ist die älteste Form des römischen Zivilprozesses (bis 2. Jh. v.Chr.). Er gliedert sich in in iure (vor dem Magistrat/Praetor) und apud iudicem (vor dem Privatrichter). Gaius Inst. 4.11-29 beschreibt fünf Legisaktionen: sacramento (Eidklage), iudicis arbitrive postulatio, condictio, manus iniectio (Vollstreckung), pignoris capio (Pfändung). Das Verfahren war an genaue Wortformeln gebunden.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius Inst. 4.11**: Sacramento - älteste Legisaktionsform
+- **Gaius Inst. 4.17**: Iudicis postulatio
+- **Gaius Inst. 4.18**: Condictio als jüngere Legisaktionsform
+- **Gaius Inst. 4.21-26**: Manus iniectio (Vollstreckung)
+- **Gaius Inst. 4.27-29**: Pignoris capio
+- **XII Tafeln Tab. I-III**: Prozessregeln der Zwölftafelzeit
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- leges actiones: formstarre Klagenhandlungen
+- in iure: Verfahrensabschnitt vor dem Magistrat
+- apud iudicem: Verhandlung vor dem Privatrichter
+- sacramento: Wetteinsatz als Streitentscheidung (sacramentum)
+- manus iniectio: Handauflegung als Vollstreckungslegisaktio
+- lex Aebutia (ca. 150 v.Chr.): Einführung des Formularprozesses
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Religöse Grundlagen der sacramento: Eid als Gottesurteil?
+2. Parallelexistenz Legisaktionen - Formularprozess nach lex Aebutia
+3. Bipartites Verfahren: Warum Trennung in iure / apud iudicem?
+4. Entwicklung der condictio aus Legisaktionen
+5. Abschaffung der Legisaktionen durch lex Iulia iudiciorum privatorum (17 v.Chr.)
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Gaius Inst. 4.11-29 als Hauptquelle (Primärtext)
+- XII Tafeln: Bruns Fontes iuris Romani (archive.org)
+- Kaser/Hackl Römisches Zivilprozessrecht §§ 1-12
+- Kunkel/Schermaier Römische Rechtsgeschichte
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Tabelle: fünf Legisaktionen im Vergleich
+- Prozessdiagramm: in iure vs. apud iudicem
+- Memo: Abschaffung durch lex Aebutia und lex Iulia
+- Vergleich: Legisaktionen vs. Formularprozess
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Gaius Inst. 4.11-29 (Mommsen-Krüger). XII Tafeln: Bruns Fontes (archive.org). Kaser/Hackl Zivilprozessrecht.

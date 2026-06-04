@@ -1,50 +1,50 @@
 ---
 name: drg-003-sachsenspiegel-und-landrechte
-description: "Deutsche Rechtsgeschichte: Sachsenspiegel Und Landrechte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Sachsenspiegel (ca. 1220-1235) und mittelalterliche Landrechte. Eike von Repgow, Landrecht und Lehnrecht, Dreistaendeordnung, Ueberlieferung in Handschriften und Einfluss auf spaeteres Recht."
 ---
 
-# Sachsenspiegel Und Landrechte
+# Sachsenspiegel und Landrechte
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Sachsenspiegel Und Landrechte** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Der Sachsenspiegel ist die bedeutendste Rechtsquelle des deutschen Mittelalters. Eike von Repgow verfasste ihn um 1220-1235 in niederdeutscher Sprache (urspruenglich Latein). Er gliedert sich in Landrecht (saekulares Recht, Erbrecht, Strafrecht, Prozessrecht) und Lehnrecht (Lehen, Lehnspflichten). Charakteristisch ist die Dreistaendeordnung (Koenig, Ritter/Adel, Bauern/Buerger) und das Schild-System der Lehnspyramide. Der Sachsenspiegel hatte Einfluss auf spaetere Rechtsspiegel (Schwabenspiegel, Deutschenspiegel) und wurde in ca. 460 Handschriften ueberliefert.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Sachsenspiegel Landrecht I 1**: Anfang des Landrechts, Gottesgebot und weltliches Recht
+- **Sachsenspiegel Ldr. I 34**: Eigentumsschutz, nemo plus iuris-Grundsatz
+- **Sachsenspiegel Ldr. II 12**: Erbrecht und Verwandtschaft
+- **Sachsenspiegel Ldr. III 42 § 3**: Stadtrecht und Marktrecht
+- **Sachsenspiegel Lehnrecht 1-3**: Lehnskette und Lehnspflichten
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Eike von Repgow** (ca. 1180-1233): Autor des Sachsenspiegels, Ministeriale im Bistum Halberstadt
+- **Hoyer von Falkenstein**: Auftraggeber nach Eikes eigenem Zeugnis im Prolog
+- **Glossatoren des 14. Jh.**: Johannes von Buch (ca. 1325) als Kommentator
+- **MGH-Editoren (19./20. Jh.)**: Karl August Eckhardt, kritische Sachsenspiegel-Edition
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. War der Sachsenspiegel Gewohnheitsrecht-Aufzeichnung oder Normsetzung?
+2. Lateinisches Original oder niederdeutsche Urform: Was war die echte Erstfassung?
+3. Sachenspiegelrecht und roemisches Recht: In welchem Verhaeltnis standen sie?
+4. Geltungsbereich: War der Sachsenspiegel Partikularrecht Sachsens oder ueberre gionales Recht?
+5. Rezeption durch Glossatoren: Hat Johanns von Buch Glosse das Sachsenspiegelrecht verfaelscht?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Sachsenspiegel-Text: MGH-Edition von Karl August Eckhardt (1955/56) oder Faksimile-Ausgaben der Heidelberger Handschrift
+- Textvergleich: Landrecht-Handschriften unterscheiden sich erheblich
+- Sekundaerliteratur: Clausdieter Schott, Karl Kroeschell, Karin Nehlsen-von Stryk
+- Keine Gegenwartsbegriffe (Eigentumsrecht, Schuldrecht) unreflektiert anwenden
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Strukturueberblick Sachsenspiegel: Landrecht und Lehnrecht
+- Kernartikel Eigentumsrecht und Erbrecht mit Textzitat
+- Vergleich: Sachsenspiegel vs. spaeteres gemeines Recht in konkretem Institut
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Sachsenspiegel: MGH-Edition Eckhardt (1955/56) oder historische Faksimile-Ausgaben. Mittelalterliche Handschriften-Digitalisate: Universitaetsbibliotheken. MGH-Online: mgh.de. Keine unsicheren Wikipedia-Paraphrasen.

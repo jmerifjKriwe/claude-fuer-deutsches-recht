@@ -1,50 +1,52 @@
 ---
 name: ihl-005-cisg-wesentliche-vertragsverletzung
-description: "Internationales Handelsrecht und Lex Mercatoria: CISG Wesentliche Vertragsverletzung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Wesentliche Vertragsverletzung nach CISG Art. 25. Vorhersehbarkeitstest, Erheblichkeit des Nachteils und Rechtsfolge (Vertragsaufhebung Art. 49/64 CISG). Abgrenzung zur unwesentlichen Verletzung und Nacherfüllungsrecht."
 ---
 
-# CISG Wesentliche Vertragsverletzung
+# Wesentliche Vertragsverletzung (CISG Art. 25)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **CISG Wesentliche Vertragsverletzung** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Art. 25 CISG ist die Schlüsselnorm des CISG-Rechtsbehelfssystems. Nur bei wesentlicher Verletzung darf der Gläubiger den Vertrag aufheben (Art. 49 Abs. 1 lit. a, Art. 64 Abs. 1 lit. a CISG). Die Wesentlichkeit hängt vom erheblichen Nachteil und der Vorhersehbarkeit ab. Der Schuldner kann Wesentlichkeit abwenden, wenn er nachweist, dass er den Nachteil nicht vorhergesehen hat und eine vernünftige Person in seiner Lage ihn auch nicht vorhergesehen hätte.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Art. 25 CISG**: Definition — erheblicher Nachteil + Vorhersehbarkeitstest
+- **Art. 49 Abs. 1 lit. a CISG**: Aufhebungsrecht des Käufers bei wesentlicher Verletzung
+- **Art. 64 Abs. 1 lit. a CISG**: Aufhebungsrecht des Verkäufers
+- **Art. 46 Abs. 2 CISG**: Ersatzlieferung nur bei wesentlicher Verletzung
+- **Art. 47/48 CISG**: Nachfrist (Fixierung vor Aufhebung bei unwesentlicher Verletzung)
+- **Art. 51 CISG**: Teillieferung — Wesentlichkeit für gesamte oder Teillieferung
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Erheblicher Nachteil (substantial deprivation) — nicht bagatellhafter Mangel
+- Vorhersehbarkeit: objektiver Maßstab — vernünftige Person gleicher Art in gleicher Lage
+- Kurierlieferung vs. Standardlieferung: Terminüberschreitung als wesentlich?
+- Mangel am Kerngegenstand vs. Nebenpflichtverletzung
+- Reparierbarkeit als Faktor (CISG-Advisory Council Opinion No. 5)
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Ist Aliud-Lieferung (falsche Ware) stets wesentlich, auch wenn Käufer sie nutzen kann?
+2. Wann ist Lieferverzug wesentlich (Fixgeschäft, Jahreszeitware)?
+3. Qualitätsmangel: Reicht Unterschreitung gesetzlicher Grenzwerte für Wesentlichkeit?
+4. Kann Verkäufer Wesentlichkeit durch Nachbesserungsangebot (Art. 48) beseitigen?
+5. Teillieferung: Wesentlichkeit für gesamten Vertrag nach Art. 51 Abs. 2?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Zweistufige Prüfung: (1) erheblicher Nachteil, (2) Vorhersehbarkeit
+- Wirtschaftliche Auswirkung und Vertragszweck als Maßstab für "erheblich"
+- CISG Advisory Council Opinions (op. 5, 9) als nicht bindende Auslegungshilfe
+- Rechtsprechungsvergleich: OLG-Rspr. via CISG-online.ch
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Wesentlichkeits-Checkliste (erheblicher Nachteil / Vorhersehbarkeitstest)
+- Entscheidungsbaum: Aufhebung vs. Minderung vs. Nacherfüllung
+- Muster-Aufhebungserklärung nach Art. 26 CISG
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG Art. 25: uncitral.un.org. CISG Advisory Council Opinions: cisgac.com. Rechtsprechung: CISG-online.ch. Schrifttum: Huber/Mullis, The CISG (2007) S. 185 ff. Unsicherheit bleibt sichtbar.

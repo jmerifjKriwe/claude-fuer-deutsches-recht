@@ -1,50 +1,54 @@
 ---
 name: rom-007-res-sachen-und-einteilungen
-description: "Römisches Recht: Res Sachen Und Einteilungen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Sachenrecht - res corporales/incorporales nach Gaius Inst. 2.12-14, res mancipi/nec mancipi, res in commercio/extra commercium, res publicae und res nullius nach D. 1.8."
 ---
 
-# Res Sachen Und Einteilungen
+# Res: Sachen und ihre Einteilungen im römischen Recht
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Res Sachen Und Einteilungen** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das römische Sachrecht beginnt mit der Einteilung der res. Gaius Inst. 2.1ff. unterscheidet res corporales (körperliche Sachen) und res incorporales (unkörperliche: Forderungen, Erbschaft, Servituten). Fundamental: res mancipi (Grundstücke in Italien, Sklaven, Zugtiere, Rustikalservituten) und res nec mancipi. Öffentlich-sachenrechtlich: res publicae, res communes omnium, res sacrae nach D. 1.8.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius Inst. 2.12-14**: Res corporales vs. incorporales
+- **Gaius Inst. 2.14a-17**: Res mancipi vs. nec mancipi (Grundliste)
+- **D. 1.8.1 (Gaius)**: Res publicae, res privatae, res nullius
+- **D. 1.8.2 pr. (Marcian)**: Res communes omnium (Luft, Wasser, Meer)
+- **D. 41.1.14 (Neratius)**: Wilde Tiere als res nullius
+- **Iust. Inst. 2.1**: Einteilung der Sachen
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- res mancipi: Übereignung nur per mancipatio oder in iure cessio möglich
+- res nec mancipi: Übereignung durch traditio möglich
+- res extra commercium: dem Rechtsverkehr entzogene Sachen
+- res nullius: herrenlose Sachen (Besitznahme = Eigentum)
+- res communes omnium: Gemeinschaftsgüter (Luft, fließendes Wasser)
+- res divini iuris: dem Göttlichen gewidmete Sachen
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Praktische Bedeutung der mancipi/nec mancipi-Distinktion: Abschaffung durch Justinian?
+2. Res incorporales: Kategorie für Rechte oder auch für immaterielle Güter?
+3. Grundstücke in den Provinzen: anders behandelt als italisches Grundeigentum?
+4. Res sacrae und Tempel: Eigentum der Götter oder der Gemeinde?
+5. Naturalistische vs. juristische Sachbegriffsbestimmung
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Gaius Inst. 2.1-97 als Leittext
+- D. 1.8 (De divisione rerum); D. 41.1 (De adquirendo rerum dominio)
+- Iust. Inst. 2.1
+- Kaser RP I §§ 91-97; Schulz Classical Roman Law
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Systematische Übersicht Sacheinteilungen mit Rechtsfolgen
+- Tabelle: res mancipi mit Übergangspflichten
+- Vergleich: röm. Sachbegriff vs. BGB § 90
+- Memo zum Bedeutungswandel durch Justinian
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 1.8; D. 41.1; Gaius Inst. 2 (Mommsen-Krüger, archive.org). Iust. Inst. 2.1. Kaser RP I.

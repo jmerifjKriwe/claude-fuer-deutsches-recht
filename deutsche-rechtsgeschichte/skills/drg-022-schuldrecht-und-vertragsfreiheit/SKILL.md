@@ -1,50 +1,51 @@
 ---
 name: drg-022-schuldrecht-und-vertragsfreiheit
-description: "Deutsche Rechtsgeschichte: Schuldrecht Und Vertragsfreiheit. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Schuldrecht und Vertragsfreiheit. BGB-Schuldrecht 1900, Vertragsfreiheit und ihre Schranken, Schuldrechtsreform 2002 und europaeische Ueberformung des Vertragsrechts."
 ---
 
-# Schuldrecht Und Vertragsfreiheit
+# Schuldrecht und Vertragsfreiheit
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Schuldrecht Und Vertragsfreiheit** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das BGB-Schuldrecht 1900 (Buch II, §§ 241-853) war Ausdruck der liberalen Vertragsfreiheit: Parteien koennen im Rahmen des Gesetzes jeden Inhalt vereinbaren (§ 311 Abs. 1 BGB). Einschraenkungen: Sittenwidrigkeit (§ 138 BGB), Treu und Glauben (§ 242 BGB). Im Laufe des 20. Jh. wuchs die Einschraenkung: AGB-Gesetz 1976 (BGBl. I 1976, 3317) kontrollierte Allgemeine Geschaeftsbedingungen. Die Schuldrechtsreform 2002 (SchuRModG, BGBl. I 2001, 3138) integrierte AGB-Recht ins BGB, schuf § 433 Abs. 1 S. 2 (Mangelfreiheit), neues Verjaerungs- und Leistungsstoerungsrecht. Europaeische Richtlinien praegen das BGB-Schuldrecht zunehmend (Verbraucherkreditrichtlinie, Kaufrecht-Richtlinie 2019).
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **BGB § 241**: Schuldverhaeltnis und Leistungspflicht
+- **BGB § 311 Abs. 1**: Vertragsfreiheit und Rechtsgeschaeftsfreiheit
+- **BGB § 138**: Sittenwidrigkeit als Grenze der Vertragsfreiheit
+- **BGB § 242**: Treu und Glauben als Generalklausel
+- **AGBG 1976 (BGBl. I 1976, 3317)**: Kontrolle von AGB (jetzt BGB §§ 305-310)
+- **SchuRModG 2002 (BGBl. I 2001, 3138)**: Schuldrechtsreform
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Windscheid und BGB-Erste Kommission**: Schuldrechtliches Grundsystem
+- **Gierke und Sozialisten**: Kritik an der liberalen Vertragsfreiheit
+- **Bundesjustizministerium**: AGB-Gesetz 1976 und Schuldrechtsreform 2002
+- **EuGH**: Europaeische Einflussnahme auf BGB-Schuldrecht
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Vertragsfreiheit und Machtgefaelle: Ist formale Gleichheit ausreichend?
+2. § 242 BGB: Hat der BGH ihn zu einem Instrument richterlicher Rechtsfortbildung gemacht?
+3. AGB-Kontrolle 1976: War das AGB-Gesetz eine Revolution oder logische Entwicklung?
+4. Schuldrechtsreform 2002: Europaeisierung oder Systemzerstoerung?
+5. Kaufrecht-Richtlinie 2019 (EU 2019/771): Naechste Schuldrechtsrevolution?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- BGB §§ 241 ff.: gesetze-im-internet.de
+- AGBG 1976 (historisch): BGBl. I 1976, 3317; ALEX/OeNB fuer Druckfassung
+- SchuRModG 2002: BGBl. I 2001, 3138; Materialien im Bundestags-Drucksachen (BT-Drs.)
+- BGH-Schuldrechtsprechung: bgh.de (VIII. und X. Zivilsenat)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste Schuldrecht: 1900-2002-Gegenwart
+- AGB-Kontrolle: Entwicklung von 0 (1900) zum modernen Klauselverbot
+- Schuldrechtsreform 2002: Kernpunkte (Verjjaehrung, Mangelrecht, AGB)
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+BGB: gesetze-im-internet.de. AGBG 1976: BGBl. I 1976, 3317. SchuRModG 2002: BGBl. I 2001, 3138. BGH: bgh.de. EU-Richtlinien: eur-lex.europa.eu.

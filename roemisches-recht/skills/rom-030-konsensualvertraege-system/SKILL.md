@@ -1,50 +1,54 @@
 ---
 name: rom-030-konsensualvertraege-system
-description: "Römisches Recht: Konsensualvertraege System. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Konsensualkontrakte (consensu contrahitur) nach Gaius Inst. 3.135 - emptio venditio, locatio conductio, mandatum, societas und die Bedeutung des bloßen Konsenses für die obligatio."
 ---
 
-# Konsensualvertraege System
+# Konsensualverträge - System
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Konsensualvertraege System** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Konsensualkontrakte entstehen durch bloße Einigung (consensus) ohne Formakt oder Sachhingabe. Gaius Inst. 3.135 nennt vier: emptio venditio, locatio conductio, mandatum, societas. Der Konsens genügt auch bei räumlicher Trennung (durch Brief, Bote). Sie sind gegenseitige Verträge: beide Parteien tragen Klagen aus actiones bonae fidei. Dieses Modell ist Grundlage des modernen Vertragsrechts.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius Inst. 3.135**: consensu contrahuntur obligationes - vier Typen
+- **D. 2.14.7.1 (Ulpian)**: Vertragsbegriff und Einigung
+- **D. 18.1.1 pr. (Paulus)**: Kauf als Konsensualkontrakt
+- **D. 19.2.1 (Ulpian)**: Locatio conductio als Konsensualkontrakt
+- **D. 17.1.1 pr. (Paulus)**: Mandatum als Konsensualkontrakt
+- **D. 17.2.1 (Ulpian)**: Societas als Konsensualkontrakt
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- consensus: Einigung als alleinige Entstehungsvoraussetzung
+- bonae fidei iudicia: Klagen aus Konsensualverträgen nach Treu und Glauben
+- do ut des-Tausch: kein Konsensualkontrakt (Realkontrakt)
+- synallagmatischer Vertrag: gegenseitige Leistungspflichten
+- consensus per nuntium/epistulam: Einigung auf Distanz möglich
+- iusta causa: Rechtsgrundelemente im Konsensualkontrakt
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Vertragsbegriff: Reichte consensus allein oder brauchte es noch mehr?
+2. Abgrenzung Konsensual- zu Innominatkontrakten
+3. Formfreiheit des Konsenses: Auswirkung auf Schriftlichkeit
+4. Synallagma: gegenseitige Abhängigkeit der Leistungspflichten
+5. Einfluss auf BGB § 311 Abs. 1 (Vertragsfreiheit)
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Gaius Inst. 3.135-162; Iust. Inst. 3.22-26
+- D. 2.14 (De pactis) als Ergänzung
+- Kaser RP I §§ 195-215; Zimmermann Law of Obligations
+- Flume AGB II zur Vertragstheorie
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Systemschaubild: Konsensualverträge mit Klagen
+- Tabelle: Gemeinsamkeiten und Unterschiede der vier Typen
+- Memo zur bonae fidei iudicia
+- Vergleich röm. Konsensualvertrag vs. BGB
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Gaius Inst. 3.135-162; Iust. Inst. 3.22-26; D. 2.14 (Mommsen-Krüger). Kaser RP I. Zimmermann. Flume.

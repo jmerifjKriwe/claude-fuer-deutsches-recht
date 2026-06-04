@@ -1,50 +1,51 @@
 ---
 name: ihl-085-force-majeure-notice-letter
-description: "Internationales Handelsrecht und Lex Mercatoria: Force Majeure Notice Letter. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Force-Majeure-Notifikationsschreiben nach CISG Art. 79 Abs. 3, PICC Art. 7.1.7 und ICC Force Majeure Clause 2020. Inhalt, Fristen, Dokumentation und Folgen bei fehlerhafter oder verspäteter Notifikation."
 ---
 
-# Force Majeure Notice Letter
+# Force-Majeure-Notifikationsschreiben
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Force Majeure Notice Letter** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Notifikationspflicht ist untrennbar mit der Force-Majeure-Berufung verbunden. CISG Art. 79 Abs. 3 verlangt unverzügliche Mitteilung nach Kenntnis des Hindernisses — Verspätung führt zu Haftung für den durch die Verzögerung entstandenen Schaden. Die Notifikation muss Art und Erwartete Dauer des Hindernisses benennen.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CISG Art. 79 Abs. 3**: Notifikationspflicht — unverzüglich nach Kenntnis; Rechtsfolge bei Versäumnis
+- **PICC Art. 7.1.7 Abs. 3**: Prompte Notifikation nach Kenntnis des FM-Ereignisses
+- **ICC Force Majeure Clause 2020 Art. 5**: 30-Tage-Frist für Notifikation nach FM-Eintritt
+- **BGB § 286 Abs. 4**: Kein Verzug bei Unmöglichkeit (nationales Pendant)
+- **Geschäftsgeheimnisse**: Notifikation ohne Offenbarung von Betriebsgeheimnissen möglich
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Unverzüglichkeit: sofort nach Kenntnis, ohne schuldhaftes Zögern (§ 121 BGB-Maßstab analog)
+- Inhalt der Notifikation: (1) Art des Hindernisses, (2) Wirkung auf Leistungspflicht, (3) Erwartete Dauer
+- Beweissicherung: Datum der Kenntnis dokumentieren (interne Notiz, E-Mail-Zeitstempel)
+- Aktualisierungspflicht: bei Änderung des FM-Ereignisses (Verlängerung, Wegfall) erneute Notifikation
+- Empfangsnachweis: Einschreiben/Fax/E-Mail mit Lesebestätigung (DHL/Courier für Originalschreiben)
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. COVID-19: Wann begann Kenntnis — Ausbruch in China (Januar 2020) oder nationaler Lockdown?
+2. Verspätete Notifikation: Welchen Schaden schuldet Schuldner bei 2-Wochen-Verzögerung?
+3. ICC FM-Clause 30-Tage: Absolute Frist oder kann Kläger Versäumnis entschuldigen?
+4. Notifikationsform: Reicht WhatsApp-Nachricht oder muss es formale Briefform sein?
+5. Geheimhaltung: Notifikation erwähnt proprietäres Verfahren — wie Sicherheit herstellen?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Datum der FM-Kenntnisnahme dokumentieren (Screenshot, Besprechungsprotokoll)
+- Notifikationsschreiben: sofort, spätestens in 5 Werktagen; ICC-Clause: max. 30 Tage
+- Inhalt: Ereignis beschreiben, Vertragspflichten benennen, voraussichtliche Dauer schätzen
+- Empfang sichern: Courier + E-Mail parallel; Zugangsbestätigung verlangen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- FM-Notifikationsschreiben-Muster (CISG und ICC-Klausel-konform)
+- Fristkalender (CISG unverzüglich vs. ICC 30 Tage)
+- Beweissicherungs-Checkliste
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG Art. 79: uncitral.un.org. PICC Art. 7.1.7: unidroit.org. ICC FM-Klausel 2020: iccwbo.org. BGB §§ 121, 286: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.

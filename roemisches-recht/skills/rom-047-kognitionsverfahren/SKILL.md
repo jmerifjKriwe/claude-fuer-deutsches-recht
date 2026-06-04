@@ -1,50 +1,54 @@
 ---
 name: rom-047-kognitionsverfahren
-description: "Römisches Recht: Kognitionsverfahren. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Kognitionsverfahren (cognitio extra ordinem) ab Kaiserzeit nach D. 4.4 und Nov. 82 (Justinian) - amtliches Verfahren ohne Formel, appellatio, rescriptum principis und Rechtsmittel."
 ---
 
-# Kognitionsverfahren
+# Das Kognitionsverfahren (cognitio extra ordinem)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Kognitionsverfahren** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die cognitio extra ordinem ist das kaiserliche/amtliche Gerichtsverfahren, das sich ab dem 2. Jh. n.Chr. neben dem Formularprozess entwickelt und diesen verdrängt. Es wird ohne Formel geführt; der Beamte (iudex/cognitio) urteilt amtlich. Justinian bestätigte das Kognitionsverfahren als einzige Prozessform. Appellationsrecht (appellatio) ist möglich. Nov. 82 enthält verfahrensrechtliche Einzelheiten.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 4.4.1 (Ulpian)**: In integrum restitutio als cognitio-Beispiel
+- **D. 49.1.1 (Ulpian)**: Appellatio - Definition
+- **C. 7.62-70**: Appellationsrecht im Codex
+- **Nov. 82 (Justinian 539 n.Chr.)**: Verfahrensrecht
+- **D. 1.21.1 (Ulpian)**: Kaiserliche Gerichtsbarkeit
+- **D. 49.8.1 (Macer)**: Causae cognitio als amtliche Untersuchung
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- cognitio extra ordinem: amtliches Verfahren außerhalb des ordo iudiciorum
+- iudex: amtlicher Richter (kein Privatrichter)
+- appellatio: Berufung zum höheren Gericht
+- rescriptum principis: kaiserliches Reskript als Rechtsquelle
+- libellus conventionis: Klageschrift im Kognitionsverfahren
+- executio: amtliche Vollstreckung
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Parallelbetrieb Kognitionsverfahren - Formularprozess im 2./3. Jh.
+2. Abschaffung des Formularprozesses: Wann genau?
+3. Appellationsrecht: neue Qualität der Rechtseinheit?
+4. Verhältnis kaiserliche Reskripte - Kognitionsverfahren
+5. Auswirkung auf Rechtsentwicklung: mehr kaiserliche Steuerung
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 49.1 (De appellationibus) und D. 4.4 als Beispieltitel
+- C. 7.62-70; Nov. 82
+- Kaser/Hackl Zivilprozessrecht §§ 80-105
+- Marotta Multa de iure sanxit - kaiserliche Rechtsgebung
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: Kognitionsverfahren vs. Formularprozess
+- Appellationswege: Diagramm
+- Memo: Reskript als Rechtsquelle
+- Historische Entwicklung: Übergang vom Formularprozess
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 49.1; C. 7.62-70; Nov. 82 (Mommsen-Krüger). Kaser/Hackl Zivilprozessrecht.

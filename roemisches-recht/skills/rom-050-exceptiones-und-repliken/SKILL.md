@@ -1,50 +1,54 @@
 ---
 name: rom-050-exceptiones-und-repliken
-description: "Römisches Recht: Exceptiones Und Repliken. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Exceptiones (Einreden) nach Gaius Inst. 4.115-129 - peremptorische vs. dilatorische Einreden, exceptio doli, exceptio rei iudicatae, replicatio und die Einredestruktur im Formularprozess."
 ---
 
-# Exceptiones Und Repliken
+# Exceptiones und Repliken im Formularprozess
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Exceptiones Und Repliken** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Exceptiones sind Einreden des Beklagten, die in die Formel aufgenommen werden und die Verurteilung trotz begründeter intentio verhindern. Gaius Inst. 4.115ff. klassifiziert sie in peremptorische (dauernde Hinderung) und dilatorische (zeitweise). Typische Einreden: exceptio doli, exceptio metus, exceptio rei iudicatae, exceptio pacti. Auf die Einrede folgt ggf. die replicatio (Gegeneinrede des Klägers).
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius Inst. 4.115**: Exceptiones - Einleitung
+- **Gaius Inst. 4.119**: Exceptio doli generalis und specialis
+- **Gaius Inst. 4.121-125**: Peremptorische vs. dilatorische Einreden
+- **D. 44.1.2 pr. (Ulpian)**: Exceptio - Definition
+- **D. 44.1.7.1 (Gaius)**: Peremptoria vs. dilatoria
+- **D. 44.4.1 (Ulpian)**: Exceptio doli
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- exceptio: prozessuale Einrede des Beklagten in der Formel
+- exceptio peremptoria: dauernde Einrede (z.B. exceptio rei iudicatae)
+- exceptio dilatoria: aufschiebende Einrede (z.B. pacti ne petatur)
+- replicatio: Gegeneinrede des Klägers auf Einrede des Beklagten
+- exceptio metus: Einrede der Drohung
+- exceptio pacti: Einrede aus Pakt (z.B. Stundungsabrede)
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Wie kommt die Einrede in die Formel? Antrag des Beklagten
+2. Exceptio und materielles Recht: Doppelwirkung?
+3. Verhältnis exceptio doli - bonae fidei iudicia
+4. Replicatio doli: Instrument gegen argliste Einrede
+5. Fortleben der Einredenstruktur im modernen Prozessrecht
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Gaius Inst. 4.115-129
+- D. 44.1 (De exceptione rei iudicatae) und D. 44.4 (De doli mali exceptione)
+- Kaser/Hackl Zivilprozessrecht §§ 44-55
+- Lenel Edictum Perpetuum (Einredenabschnitt)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Tabelle: wichtigste Exceptiones
+- Schema: Formel mit intentio - exceptio - replicatio
+- Peremptorisch vs. dilatorisch: Unterschiede
+- Vergleich röm. Exceptio vs. mod. Einreden (BGB, ZPO)
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Gaius Inst. 4.115-129; D. 44.1; D. 44.4 (Mommsen-Krüger). Kaser/Hackl. Lenel Edictum (archive.org).

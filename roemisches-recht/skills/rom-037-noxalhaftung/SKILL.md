@@ -1,50 +1,54 @@
 ---
 name: rom-037-noxalhaftung
-description: "Römisches Recht: Noxalhaftung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Noxalhaftung (noxae deditio) nach D. 9.4 und Gaius Inst. 4.75-79 - Haftung des Hausvaters für Delikte von Haussöhnen und Sklaven, noxae caput sequitur, actiones noxales."
 ---
 
-# Noxalhaftung
+# Noxalhaftung (noxae deditio)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Noxalhaftung** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Der Hausvater (paterfamilias) haftet bei Delikten seiner Hauskinder oder Sklaven wahlweise auf Zahlung der Strafe oder Auslieferung des Täters (noxae deditio). Gaius Inst. 4.75: actiones noxales. Grundsatz noxae caput sequitur (D. 9.4.14, Ulpian): Die Klage folgt der Person des Täters, nicht dem Eigentümer. Ist ein Sklave freigelassen, klagt man direkt gegen ihn; wechselt er den Herrn, klagt man den neuen.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius Inst. 4.75**: Actiones noxales - Wahlrecht des Hausvaters
+- **D. 9.4.1 (Gaius)**: Noxalhaftung - Einleitung
+- **D. 9.4.14 (Ulpian)**: Noxae caput sequitur
+- **D. 9.4.2 pr. (Ulpian)**: Hausherr kann durch noxae deditio befreien
+- **XII Tafeln Tab. XII.2**: Älteste Noxalhaftungsregel
+- **Gaius Inst. 4.76**: Noxae deditio bei Sklaven
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- actio noxalis: Klage mit noxae-deditio-Option
+- noxae deditio: Auslieferung des Täters zur Schadensabgeltung
+- noxae caput sequitur: Klage folgt dem Täter
+- noxa: Schaden verursachende Person (Sklave/Hauskind)
+- paterfamilias: haftet wegen seiner Aufsichtspflicht
+- peculium: Eigenschaft des Sklaven als Haftungsmasse?
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Noxalhaftung: kollektive Familienhaftung oder individuelle Verantwortung?
+2. Wahlrecht des Hausvaters: wenn noxae deditio günstiger als Zahlung?
+3. Noxalhaftung bei Hauskind vs. Sklave: Unterschiede
+4. Noxalhaftung und moderene Produkthaftung: dogmatischer Vergleich
+5. Abschaffung der Noxalhaftung für freie Personen durch Justinian
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 9.4 (Noxales actiones) als Haupttitel
+- Gaius Inst. 4.75-79
+- XII Tafeln: Bruns Fontes (archive.org)
+- Kaser RP I §§ 300-305; Watson Roman Slave Law
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: Noxalhaftung mit Wahlrecht
+- Tabelle: noxae caput sequitur - Fallkonstellationen
+- Memo: Noxalhaftung bei Freilassung des Sklaven
+- Vergleich: röm. Noxalhaftung vs. moderne Haftung
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 9.4; Gaius Inst. 4.75-79 (Mommsen-Krüger). XII Tafeln: Bruns Fontes (archive.org). Kaser RP I. Watson.

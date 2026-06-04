@@ -1,50 +1,54 @@
 ---
 name: rom-077-servituten-vergleich
-description: "Römisches Recht: Servituten Vergleich. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Servituten im Vergleich - röm. praediale Servituten (D. 8) und usus fructus (D. 7) vs. BGB §§ 1018ff. (Grunddienstbarkeit) und §§ 1030ff. (Nießbrauch) - Gemeinsamkeiten und Unterschiede."
 ---
 
-# Servituten Vergleich
+# Servituten im Vergleich
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Servituten Vergleich** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die röm. Servituten (D. 8: praediale Servituten; D. 7: usus fructus) sind direkte Vorläufer der BGB-Dienstbarkeiten. BGB § 1018 (Grunddienstbarkeit) entspricht den praedialen Servituten; §§ 1030-1089 (Nießbrauch) dem usus fructus. Unterschiede: BGB § 1019 verlangt einen Vorteil für das herrschende Grundstück (utilitas praedii causa, schon D. 8.1.8); BGB § 1090 unterscheidet vom Nießbrauch.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 8.1.8 (Paulus)**: Servitus utilis praedii causa constituenda
+- **D. 7.1.1 (Paulus)**: Usus fructus - Definition
+- **D. 8.3.1 (Ulpian)**: Praediale Servituten rustikale
+- **BGB § 1018**: Grunddienstbarkeit
+- **BGB § 1030**: Nießbrauch
+- **BGB § 1019**: Vorteil des herrschenden Grundstücks (utilis praedii causa)
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- D. 8.1.8 -> BGB § 1019: Nutzen des herrschenden Grundstücks
+- usus fructus -> Nießbrauch (BGB §§ 1030-1089)
+- praediales Servituten -> Grunddienstbarkeit (BGB § 1018)
+- beschränkte persönliche Dienstbarkeit (BGB § 1090): kein direktes röm. Vorbild
+- Kontinuität: Kernstruktur beibehalten
+- Unterschied: BGB-Grundschuld ohne röm. Vorbild
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Einzige beschränkte Nutzung: BGB strenger als röm. Recht?
+2. Übertragbarkeit des Nießbrauchs: röm. personaler Charakter vs. BGB
+3. Erlöschen durch Nichtgebrauch: non usus im röm. Recht, Frist im BGB
+4. Selbstschädungsverbot: auch im BGB-Nießbrauch?
+5. Beschränkte persönliche Dienstbarkeit: woher kommt sie?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 8 und D. 7 (Mommsen-Krüger)
+- BGB §§ 1018-1089 (gesetze-im-internet.de)
+- Kaser RP I §§ 133-145
+- MüKo-BGB §§ 1018ff. (Kommentar)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Vergleichstabelle: röm. Servituten vs. BGB
+- Schema: Nießbrauch röm. vs. BGB
+- Memo zu utilis praedii causa
+- Fallbearbeitung
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 8; D. 7 (Mommsen-Krüger). BGB: gesetze-im-internet.de. Kaser RP I.

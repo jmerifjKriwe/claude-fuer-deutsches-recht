@@ -1,50 +1,51 @@
 ---
 name: drg-041-methodengeschichte-savigny-bis-realismus
-description: "Deutsche Rechtsgeschichte: Methodengeschichte Savigny Bis Realismus. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Methodengeschichte von Savigny bis zum Rechtsrealismus. Historische Schule, Begriffsjurisprudenz, Interessenjurisprudenz, Freirecht und ihre Folgen fuer heutige Auslegungsmethoden."
 ---
 
-# Methodengeschichte Savigny Bis Realismus
+# Methodengeschichte: Savigny bis Rechtsrealismus
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Methodengeschichte Savigny Bis Realismus** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die juristische Methode ist selbst historisch. Savignys vier Auslegungskanons (grammatisch, systematisch, historisch, teleologisch, System des heutigen Roemischen Rechts Bd. I, 1840) sind noch heute Lehre. Jhering wandelte von der historischen Schule zur Interessenjurisprudenz (Zweck im Recht, 1877-84). Die Freirechtsschule (Ernst Fuchs, Eugen Ehrlich, Herrmann Kantorowicz, ca. 1900-1920) forderte freie richterliche Rechtsfindung jenseits des Gesetzes. Die Wertungsjurisprudenz des 20. Jh. (Karl Larenz) integrierte teleologische und systematische Elemente. Der amerikanische Rechtsrealismus (Holmes, Llewellyn) beeinflusste deutsches Denken kaum direkt, aber die soziologische Rechtsschule (Ehrlich) war europaeisches Aequivalent.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Savigny, System** Bd. I, §§ 32-49 (1840): Vier Auslegungskanons
+- **Jhering, Zweck im Recht** (2 Bde., 1877-84): Teleologische Interessenabwaegung
+- **Kantorowicz, Der Kampf um die Rechtswissenschaft** (1906): Freirechts-Manifest
+- **Ehrlich, Grundlegung der Soziologie des Rechts** (1913): Lebendes Recht vs. Buchrecht
+- **Larenz, Methodenlehre der Rechtswissenschaft** (6. Aufl. 1991): Standardwerk heutige Methode
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Friedrich Carl von Savigny** (1779-1861): Begründer der Auslegungskanons
+- **Rudolf von Jhering** (1818-1892): Zweck im Recht, Interessenjurisprudenz
+- **Herrmann Kantorowicz** (1877-1940): Freirechtsschule
+- **Eugen Ehrlich** (1862-1922): Soziologie des Rechts, lebendes Recht
+- **Karl Larenz** (1903-1993): Systematisierer der modernen Methodenlehre
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Savignys Kanons: Sind sie gleichrangig oder hat einer Vorrang?
+2. Freirechtsschule: Ist richterliche Freiheit eine Gefahr fuer den Rechtsstaat?
+3. Teleologische Reduktion und Extension: Grenzen richterlicher Rechtsfortbildung
+4. Jhering-Wende: Ist Interessenjurisprudenz mit Rechtspositivismus vereinbar?
+5. Ehrlichs lebendes Recht: Ist Gewohnheitsrecht wirklich Recht oder nur Sozialregel?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Savigny System Bd. I: historische Ausgabe (1840), Paragraphen und Seite
+- Jhering Zweck im Recht: historische Erstausgabe (1877-84), Band und Seite
+- Kantorowicz 1906: Erstausgabe (unter Pseudonym Gnaeus Flavius)
+- Larenz Methodenlehre: 6. Aufl. 1991, Seite angeben
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Methodengeschichts-Stammbaum: Savigny bis Larenz
+- Auslegungskanons im Vergleich: historisch, systematisch, teleologisch, grammatisch
+- Freirecht: Kernpositionen und Grenzen
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Savigny System Bd. I (1840): historische Ausgabe. Jhering Zweck (1877-84): historische Ausgabe. Kantorowicz 1906: Erstausgabe. Larenz Methodenlehre 6. Aufl. 1991: Seite angeben.

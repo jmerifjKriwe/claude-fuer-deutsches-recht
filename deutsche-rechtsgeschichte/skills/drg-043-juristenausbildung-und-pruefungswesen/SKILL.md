@@ -1,50 +1,49 @@
 ---
 name: drg-043-juristenausbildung-und-pruefungswesen
-description: "Deutsche Rechtsgeschichte: Juristenausbildung Und Pruefungswesen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Juristenausbildung und Pruefungswesen. Universitaetsrechtsstudium seit Mittelalter, Referendariat, Erste und Zweite Staatspruefung, NS-Gleichschaltung der Ausbildung und Reformen bis heute."
 ---
 
-# Juristenausbildung Und Pruefungswesen
+# Juristenausbildung und Pruefungswesen
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Juristenausbildung Und Pruefungswesen** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Juristenausbildung in Deutschland ist historisch gewachsen. Das mittelalterliche Rechtsstudium in Bologna wurde ab dem 13. Jh. an deutschen Universitaeten (Heidelberg 1386, Koeln 1388, Erfurt 1392) eingebaut. Im 19. Jh. entstand das Referendariatsystem: Erste Staatspruefung nach Universitaet, Referendariat als praktische Ausbildung, Zweite Staatspruefung (Assessorexamen). Das NS-Regime schaltete die Juristenausbildung gleich: Juedinnen und Juden wurden ausgeschlossen, nationalsozialistische Inhalte eingefuehrt. Nach 1945 normalisierte sich die Ausbildung, aber Reformen blieben spaerlich. Das Juristenausbildungsgesetz regelt heute landesrechtlich; das DRiG bestimmt Bundesgrundsaetze.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **DRiG § 5 (BGBl. I 1961, 713)**: Befahigung zum Richteramt, Zweiexamens-System
+- **DRiG §§ 5-7**: Erste Pruefung, Vorbereitungsdienst, Zweite Pruefung
+- **JAG der Laender** (z. B. NRW JAG 2003): Einzelheiten der Juristenausbildung
+- **Erste Verordnung zur Durchfuehrung des Berufsbeamtengesetzes 1933 (RGBl. I 1933, 245)**: Judenausschluss aus Staatsdienst und damit aus juristischen Staatsberufen
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Universitaet Heidelberg (gegr. 1386)**: Erste deutsche Volluniversitaet mit Rechtsfakultaet
+- **Friedrich Savigny** als Universitaetsprofessor: Akademisches Leitbild fuer Juristenausbildung
+- **NS-Reichsjustizministerium**: Gleichschaltung des Jurastudiums
+- **Deutsche Richterakademie (Trier/Wustrau)**: Richterfortbildung seit 1966
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Einstufige vs. zweistufige Juristenausbildung: Wurde die einstufige Ausbildung zu Unrecht aufgegeben?
+2. Universitaets-Schwerpunktbereichspruefung seit 2003: Sinnvolle Reform oder Absenkung?
+3. NS-Gleichschaltung: Wie praegend war sie fuer die Nachkriegsjuristengeneration?
+4. Referendariat: Wessen Interessen bedient das heutige Referendariat?
+5. Bologna-Reform im Jura-Studium: Warum wurde die Einheitlichkeit erhalten?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- DRiG: gesetze-im-internet.de
+- JAG der Laender: jeweilige Landesrechtsportale (z. B. recht.nrw.de)
+- NS-Hochschulrecht: RGBl. I 1933, 245 via ALEX/OeNB
+- Sekundaerliteratur: Bernd Rueers Rechtstheorie und Uwe Wesels Geschichte des Rechts
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste Juristenausbildung: Bologna bis DRiG 1961
+- Zweistufiges Examens-System: Inhalte, Gruende, Kritik
+- NS-Gleichschaltung: Massnahmen und Folgen fuer Juristen-Generation
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+DRiG: gesetze-im-internet.de. NS-Hochschulrecht: RGBl. I 1933, 245 via ALEX/OeNB. JAG NRW: recht.nrw.de. Universitaetschroniken: jeweilige Archivquellen.

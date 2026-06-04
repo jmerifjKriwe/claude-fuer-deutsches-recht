@@ -1,50 +1,50 @@
 ---
 name: drg-045-anwaltschaft-und-berufsrecht-historisch
-description: "Deutsche Rechtsgeschichte: Anwaltschaft Und Berufsrecht Historisch. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Geschichte der Anwaltschaft und des Berufsrechts. Reichsanwaltsordnung 1878, BRAO 1959, Anwaltszulassung und freier Beruf als verfassungsrechtlich geschuetztes Gut."
 ---
 
-# Anwaltschaft Und Berufsrecht Historisch
+# Anwaltschaft und Berufsrecht historisch
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Anwaltschaft Und Berufsrecht Historisch** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Rechtsanwaltschaft als eigenstaendiger Beruf entstand mit der Rechtsvereinheitlichung. Die Reichsanwaltsordnung (RAO) vom 1. Juli 1878 (RGBl. 1878, 177) schuf erstmals einen reichsweit einheitlichen Anwaltstand. Sie regelte Zulassung, Pflichten und Standordnung. Die RAO blieb bis 1959 in Kraft; dann ersetzte die Bundesrechtsanwaltsordnung (BRAO, BGBl. I 1959, 565) sie. Das BVerfG staerkte den freien Beruf in BVerfGE 23, 50 (1968) und BVerfGE 76, 171 (1987): Anwaltliches Berufsrecht muss Freiheit der Berufsausuebung beachten. Die Singularzulassung (Nur bei einem Gericht zulassen) endete 2002.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **RAO 1878 (RGBl. 1878, 177)**: Reichs-Anwaltsordnung, erste einheitliche Grundlage
+- **BRAO 1959 (BGBl. I 1959, 565)**: Bundesrechtsanwaltsordnung
+- **GG Art. 12**: Berufsfreiheit als Grundlage des Anwaltrechts
+- **BVerfGE 76, 171** (1987): Verfassungsmaessigkeit der Singularzulassung verneint
+- **BORA** (Berufsordnung der Rechtsanwaelte): Standesrecht der Anwaltschaft
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Deutscher Anwaltverein (DAV)**: Standesorganisation seit 1871
+- **Bundesrechtsanwaltskammer (BRAK)**: Koerperschaft des oeffentlichen Rechts
+- **BVerfG**: Anwaltliches Berufsrecht zwischen Freiheit und Standesrecht
+- **Reichsanwaltskammer**: Historische Vorgaengerin der BRAK
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. RAO 1878 und Singularzulassung: War sie sachlich begruendet?
+2. Gesellschaftsformen fuer Anwaelte: War das Verbot der GmbH/AG gerechtfertigt?
+3. Berufsrecht und Anwaltsmonopol: Schutzt es den Rechtssuchenden oder den Anwalt?
+4. BVerfGE 76, 171: Endete die Singularzulassung durch BVerfG oder durch Reform?
+5. BRAO 2022 und Legal Tech: Anwaltliches Berufsrecht im Digitalzeitalter
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- RAO 1878: RGBl. 1878, 177 via ALEX/OeNB
+- BRAO: gesetze-im-internet.de
+- BVerfGE: bverfg.de
+- BORA: Bundesrechtsanwaltskammer-Website (brak.de)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste Anwaltschaft: RAO 1878 bis BRAO 2022
+- Singularzulassung: Geschichte und Ende
+- GG Art. 12 und Anwaltliches Berufsrecht: BVerfGE-Uebersicht
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+RAO 1878: RGBl. 1878, 177 via ALEX/OeNB. BRAO: gesetze-im-internet.de. BVerfGE: bverfg.de. BORA: brak.de.

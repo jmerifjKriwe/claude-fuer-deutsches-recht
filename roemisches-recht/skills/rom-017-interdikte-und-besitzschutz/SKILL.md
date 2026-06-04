@@ -1,50 +1,54 @@
 ---
 name: rom-017-interdikte-und-besitzschutz
-description: "Römisches Recht: Interdikte Und Besitzschutz. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Interdikte als prätorische Besitzschutzinstrumente nach D. 43 und Gaius Inst. 4.138-170 - uti possidetis, utrubi, unde vi, de precario und die Klassifikation der Interdikte."
 ---
 
-# Interdikte Und Besitzschutz
+# Interdikte und Besitzschutz
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Interdikte Und Besitzschutz** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Interdikte sind Befehle des Prätors zum Schutz bestehender Zustände, insbesondere des Besitzes. Gaius Inst. 4.138ff. systematisiert sie. Die Hauptbesitzinterdikte sind: uti possidetis (Grundstücke: wer besaß zuletzt ungewaltsam?), utrubi (bewegliche Sachen: wer besaß länger?), und unde vi (Herausgabe nach gewaltsamer Vertreibung). D. 43 enthält alle prätorischen Interdikte.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 43.1.1 (Ulpian)**: Einteilung der Interdikte (prohibitoria, restitutoria, exhibitoria)
+- **D. 43.17.1 (Ulpian)**: Interdictum uti possidetis - Grundstücksbesitz
+- **D. 43.31.1 (Paulus)**: Interdictum utrubi - bewegliche Sachen
+- **D. 43.16.1 (Ulpian)**: Interdictum unde vi - Gewaltvertreibung
+- **D. 43.26.1 (Ulpian)**: Interdictum de precario
+- **Gaius Inst. 4.138-170**: Systematik der Interdikte
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- interdictum prohibitorium: Verbotsinterdict (z.B. ne quid in loco publico)
+- interdictum restitutorium: Rückgabeinterdict (z.B. unde vi)
+- interdictum exhibitorium: Vorlegungsinterdict
+- precarium: widerrufliche Gebrauchsüberlassung
+- vis quotidiana: alltägliche Gewalt vs. vis armata: bewaffnete Gewalt
+- interdicta duplicia: beide Parteien klagen und werden beklagt
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Besitz als Voraussetzung: auch der Ersitzungsbesitzer? Nur possessio civilis?
+2. Verhältnis interdicta - actiones in rem: Besitz vor Eigentum?
+3. Interdictal-Prozess: spoliationsverfahren vs. ordentlicher Prozess
+4. Unde vi armata: schärferer Schutz - warum?
+5. Prätorische Interdikte und Justinianische Vereinfachung
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 43 (Mommsen-Krüger) als Haupttitel
+- Gaius Inst. 4.138-170
+- Lenel Edictum Perpetuum §§ 240ff.
+- Kaser RP I §§ 100-113; Kaser/Hackl Zivilprozessrecht
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Klassifikationstabelle: Interdiktsarten
+- Schema: Uti possidetis-Verfahren Schritt für Schritt
+- Vergleich: unde vi vs. BGB § 861 (Besitzentziehungsklage)
+- Formelrekonstruktionen
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 43 (Mommsen-Krüger). Gaius Inst. 4.138-170. Lenel Edictum (archive.org). Kaser RP I.

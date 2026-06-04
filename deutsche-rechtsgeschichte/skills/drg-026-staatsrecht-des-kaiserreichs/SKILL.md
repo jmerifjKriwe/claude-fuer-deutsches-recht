@@ -1,50 +1,50 @@
 ---
 name: drg-026-staatsrecht-des-kaiserreichs
-description: "Deutsche Rechtsgeschichte: Staatsrecht Des Kaiserreichs. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Staatsrecht des Deutschen Kaiserreichs (1871-1918). Bismarckverfassung, Bundesstaat, Reichstag, Reichsleitung, Dualistischer Konstitutionalismus und Laband-Jellinek-Schule."
 ---
 
-# Staatsrecht Des Kaiserreichs
+# Staatsrecht des Deutschen Kaiserreichs
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Staatsrecht Des Kaiserreichs** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Deutsche Reich (1871-1918) war ein Bundesstaat mit 25 Mitgliedsstaaten unter preussischer Hegemonie. Die Reichsverfassung vom 16. April 1871 (RGBl. 1871, 63) schuf einen dualistischen Konstitutionalismus: Reichstag (Volksvertreter, Budgetrecht) und Bundesrat (Fuersten-/Staatenkammer) plus Kanzler und Kaiser. Paul Laband (Staatsrecht des Deutschen Reichs, 4 Bde., 1876-82) und Georg Jellinek (Allgemeine Staatslehre, 1900) praegten die Staatsrechtswissenschaft. Die Verfassung kannte keine unmittelbaren Grundrechte. Wahlrecht: allgemeines, gleiches, direktes maennliches Wahlrecht zum Reichstag (Art. 20 RV 1871), aber kein Wahlrecht der Frauen.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Reichsverfassung 1871 (RGBl. 1871, 63)**: Grundlage des Kaiserreichs
+- **Art. 11 RV 1871**: Kaiser und Bundesratspraesidium
+- **Art. 20-32 RV 1871**: Reichstag, allgemeines Maennerwahlrecht
+- **Art. 38 RV 1871**: Wahlpruefung durch den Reichstag
+- **Art. 78 RV 1871**: Verfassungsaenderung durch Bundesrat und Reichstag
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Bismarck** (1815-1898): Schopfer der Reichsverfassung und erster Reichskanzler
+- **Paul Laband** (1838-1918): Staatsrechtspositivist, Systematizierer des Reichsstaatsrechts
+- **Georg Jellinek** (1851-1911): Allgemeine Staatslehre und Grundrechte als Reflexrechte
+- **Kaiser Wilhelm II.** (1859-1941): Vertoerung des dualistischen Gleichgewichts
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. War das Kaiserreich ein echter Konstitutionalismus oder eine verschleierte Monarchie?
+2. Laband-Positivismus: Hat die Formaljurisprudenz politische Kritik am Kaiserreich unterdrueckt?
+3. Dualismus Reichstag-Reichsregierung: Wie weit war der Reichstag wirklich eingeschraenkt?
+4. Wahlrecht: Allgemeines Maennerwahlrecht als liberal oder als Pfeiler des Kaiserreichs?
+5. Oktober-Reformen 1918: Hatten sie das Kaiserreich durch echten Parlamentarismus ersetzen koennen?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Reichsverfassung 1871: RGBl. 1871, 63 via ALEX/OeNB; documentArchiv.de
+- Laband Staatsrecht: historische Edition (4 Bde., 1876-82), Band und Seite
+- Jellinek Allgemeine Staatslehre: 3. Aufl. 1914, Band und Seite
+- Sekundaerliteratur: Michael Stolleis Geschichte des oeffentlichen Rechts Bd. II (1992)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Verfassungsschema Kaiserreich 1871: Bundesrat, Reichstag, Kanzler, Kaiser
+- Laband vs. Jellinek: Methodenvergleich Staatsrechtslehre
+- Oktober-Reformen 1918: Inhalt und historische Einordnung
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Reichsverfassung 1871: ALEX/OeNB und documentArchiv.de. Laband Staatsrecht: historische Edition (Band und Seite). Jellinek Allgemeine Staatslehre: 3. Aufl. 1914. Stolleis Geschichte Bd. II (1992): Seite.

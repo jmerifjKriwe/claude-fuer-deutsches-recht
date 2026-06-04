@@ -1,50 +1,52 @@
 ---
 name: ihl-087-settlement-crossborder
-description: "Internationales Handelsrecht und Lex Mercatoria: Settlement Crossborder. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Grenzüberschreitende Vergleiche. Vergleichsvertrag (§ 779 BGB), Singapur-Konvention-Vollstreckung, Consent Award im Schiedsverfahren, Release-Klauseln, Steuerfolgen und Vollstreckungssicherung."
 ---
 
-# Settlement Crossborder
+# Grenzüberschreitende Vergleiche
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Settlement Crossborder** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Vergleiche in internationalen Streitigkeiten können als privatrechtlicher Vertrag (§ 779 BGB), als Consent Award im Schiedsverfahren oder als Mediationsvergleich (Singapur-Konvention-vollstreckbar) strukturiert werden. Die Vollstreckungssicherung ist entscheidend: Consent Award nach NY Convention vollstreckbar; Mediationsvergleich nach Singapur-Konvention.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **§ 779 BGB**: Vergleichsvertrag — gegenseitiges Nachgeben; Irrtum über Grundlage
+- **§ 794 Abs. 1 Nr. 1 ZPO**: Gerichtlicher Vergleich als Vollstreckungstitel
+- **NY Convention Art. I**: Consent Award als Schiedsspruch vollstreckbar
+- **Singapur-Konvention Art. 1**: Mediationsvergleich vollstreckbar in Vertragsstaaten
+- **CISG Art. 29**: Vertragsänderung durch Vergleich wirksam (formfrei wenn kein Art. 12-Vorbehalt)
+- **§ 57 InsO**: Vergleich im Insolvenzverfahren
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Consent Award: Schiedsspruch der den Vergleich beurkundet — NY-Convention-vollstreckbar
+- Full and Final Release: Alle Ansprüche aus dem Rechtsstreit erledigt; Abgrenzung zu Teilvergleich
+- Stundungs- vs. Erlassvergleich: Ratenzahlung mit Vollstreckungs-Einstellung vs. vollständiger Erlass
+- Steuerfolgen: Vergleichsleistung in bestimmten Ländern steuerpflichtig (Quellensteuern)
+- Vollstreckungsverzicht (Waiver): Gläubiger verzichtet auf Vollstreckung bei bestimmter Erfüllung
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Consent Award: Kann Schiedsgericht Vergleich als Award beurkunden ohne eigene Prüfung?
+2. Full Release: Schließt eine allgemeine Release-Klausel auch Ansprüche aus, die Partei nicht kannte?
+3. Steuerfolgen D: Ist Vergleichszahlung aus Deutschland an ausländischen Gläubiger quellensteuerpflichtig?
+4. § 779 BGB Irrtum: Vergleich über Sachverhalt der sich später als anders herausstellt — anfechtbar?
+5. Singapur-Konvention und EU: Gilt die Konvention auch in EU-Mitgliedstaaten?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Vollstreckungssicherung: Consent Award bevorzugen wenn Schiedsverfahren läuft
+- Full Release: präzise formulieren (alle Ansprüche aus Sachverhalt X; kein catch-all)
+- Steuerberater einbeziehen: Quellensteuerrisiko bei grenzüberschreitender Vergleichszahlung
+- Ratenzahlung: Vollstreckungsverzicht nur für pünktliche Raten; bei Verzug sofortige Vollstreckung
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Consent-Award-Request-Muster
+- Full-and-Final-Release-Klausel-Muster
+- Ratenzahlungsvergleich-Struktur
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+BGB § 779: gesetze-im-internet.de. NY Convention: newyorkconvention.org. Singapur-Konvention: uncitral.un.org. ZPO § 794: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.

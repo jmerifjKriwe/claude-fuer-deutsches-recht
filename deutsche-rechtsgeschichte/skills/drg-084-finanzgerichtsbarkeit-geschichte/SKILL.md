@@ -1,50 +1,50 @@
 ---
 name: drg-084-finanzgerichtsbarkeit-geschichte
-description: "Deutsche Rechtsgeschichte: Finanzgerichtsbarkeit Geschichte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Geschichte der Finanzgerichtsbarkeit. Preussische Steuerbeschwerdekommissionen, Reichsabgabenordnung 1919, Finanzgerichte nach 1945 und FGO 1965."
 ---
 
 # Finanzgerichtsbarkeit Geschichte
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Finanzgerichtsbarkeit Geschichte** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Finanzgerichtsbarkeit entstand aus fiskalischen Beschwerdesystemen der Einzelstaaten. Preussen kannte Steuerbeschwerdekommissionen seit dem 18. Jahrhundert. Die Reichsabgabenordnung (RAO) von 1919 (RGBl. 1919, 1993) schuf einheitliche Rechtsbehelfssysteme gegen Steuerbescheide. Der Reichsfinanzhof (RFH) bestand 1918-1945 in Muenchen. Nach 1945 entstanden Finanzgerichte der Laender. Die Finanzgerichtsordnung (FGO) vom 6. Oktober 1965 (BGBl. I 1965, 1477) regelt die Finanzgerichtsbarkeit systematisch. Der Bundesfinanzhof (BFH) in Muenchen wurde 1950 als Nachfolger des RFH errichtet.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **RAO 1919 (RGBl. 1919, 1993)**: Einheitliche Abgabenordnung mit Rechtsbehelfssystem
+- **AO 1977 (BGBl. I 1976, 613)**: Abgabenordnung, Rechtsnachfolge der RAO
+- **FGO 1965 (BGBl. I 1965, 1477)**: Zweistufige Finanzgerichtsbarkeit FG und BFH
+- **FGO § 115**: Revisionszulassung, grundsaetzliche Bedeutung
+- **AO § 355-368**: Einspruchsverfahren vor Finanzaemtern
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Enno Becker** (1869-1940): Hauptverfasser der RAO 1919
+- **RFH Muenchen**: Reichsfinanzhof 1918-1945
+- **BFH Muenchen**: Bundesfinanzhof seit 1950, Nachfolge des RFH
+- **BMF und Laenderfinanzministerien**: Normgebung im Steuerrecht
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Personalkontinuitaet RFH-BFH nach 1945: Wer sass nach dem Krieg im BFH?
+2. RAO 1919 als fiskalische Durchsetzungsnorm oder Steuerpflichtigenschutzrecht?
+3. FGO und Steuergeheimnis: Offentlichkeit der Verhandlungen vs. Fiskalinteresse
+4. BFH und Steuergesetzgebung: Beurteilungsspielraum oder ultra-vires?
+5. Digitalisierung der Finanzverwaltung: Historische Einordnung von ELSTER
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- RAO 1919: ALEX/ÖNB fuer Originalfassung
+- AO und FGO: gesetze-im-internet.de
+- BFH-Rechtsprechung: bundesfinanzhof.de (frei zugaengliche Entscheidungen)
+- BMF-Schreiben: bundesfinanzministerium.de
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste Finanzgerichtsbarkeit: RAO 1919 bis FGO 1965
+- Kernunterschiede RAO vs. AO 1977
+- RFH-BFH-Kontinuitaet: Institutionelle und personelle Aspekte
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+RAO 1919: ALEX/ÖNB. AO und FGO: gesetze-im-internet.de. BFH: bundesfinanzhof.de. RFH-Entscheidungen: historische Steuerzeitschriften (RFHE).

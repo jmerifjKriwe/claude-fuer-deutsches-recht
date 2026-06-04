@@ -1,74 +1,54 @@
 ---
 name: rom-009-eigentum-dominium-und-quiritarisch
-description: "Römisches Recht: Eigentum Dominium Und Quiritarisch. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Eigentum - dominium ex iure Quiritium nach D. 41.1 und Gaius Inst. 2.40-79. Quiritisches vs. bonitarisches Eigentum, exceptio rei venditae et traditae, actio Publiciana."
 ---
 
-# Eigentum Dominium Und Quiritarisch
+# Eigentum: dominium ex iure Quiritium und bonitarisches Eigentum
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Eigentum Dominium Und Quiritarisch** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das klassische römische Eigentumsrecht kennt das volle quiritische Eigentum (dominium ex iure Quiritium) als stärkstes dingliches Recht. Das prätorische (bonitarische) Eigentum schützt den formlosen Erwerber von res mancipi gegen den formalen Eigentümer. C. 7.25.1 (Justinian 531) beseitigte die Doppelstruktur. Grundsatz D. 50.17.54 (Ulpian): nemo plus iuris transferre potest quam ipse habet.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius Inst. 2.40**: Quiritisches Eigentum als Vollrecht
+- **D. 6.1.1 (Ulpian)**: Actio in rem für Eigentümer (rei vindicatio)
+- **D. 41.1.31 (Gaius)**: Keine Übereignung ohne iusta causa
+- **D. 50.17.54 (Ulpian)**: nemo plus iuris transferre potest quam ipse habet
+- **D. 44.4.4.24 (Ulpian)**: Exceptio rei venditae et traditae
+- **Gaius Inst. 2.79**: Bonitarisches Eigentum (in bonis esse)
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- dominium ex iure Quiritium: quiritisches Vollrechts-Eigentum
+- in bonis esse: bonitarisches Eigentum des prätorischen Käufers
+- iusta causa: Rechtsgrund für Eigentumsübergang
+- nemo dat: niemand kann mehr Recht übertragen als er hat
+- exceptio rei venditae et traditae: Einrede gegen formalen Vindikator
+- actio Publiciana: Fiktionsklage für bonitarischen Eigentümer
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Kausalität der traditio: kausales vs. abstraktes Prinzip im röm. Recht?
+2. Doppelstruktur quiritisch/bonitarisch: Auflösung durch Justinian (C. 7.25.1)
+3. Provinzialgrundstücke: kein quiritisches Eigentum möglich
+4. Eigentumstheorien: Jhering, Kaser, Schulz
+5. Verhältnis zum BGB-Abstraktionsprinzip
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Gaius Inst. 2.40-79; D. 6.1 (De rei vindicatione); D. 41.1-3
+- C. 7.25.1 (Abschaffung der Doppelstruktur durch Justinian)
+- Kaser RP I §§ 98-116; Liebs Lateinische Rechtsregeln
+- Vergleich BGB §§ 929-931
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: Eigentumsarten und ihre Unterschiede
+- Tabelle: Eigentumsschutz quiritisch vs. bonitarisch
+- Memo: iusta causa-Lehre und Kausalitätsdebatte
+- Vergleich: röm. Eigentum vs. BGB-Eigentum
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
-
-## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
-
-### Schluesselstellen
-- **D. 1.5.4 (Florentinus)**: Eigentum als ius utendi et abutendi — Recht zu nutzen und zu verbrauchen.
-- **D. 41.1**: Erwerb des Eigentums.
-- **Gaius II.40-41**: Trennung dominium ex iure Quiritium (zivil) vs. dominium in bonis (praetorisch bonitarisch).
-
-### Eigentumstypen
-- **Dominium ex iure Quiritium**: vollwertiges roemisches Eigentum; nur fuer roemische Buerger, nur res mancipi und nec mancipi.
-- **In bonis habere**: bonitarisches Eigentum nach praetorischem Schutz; bei fehlender mancipatio-Form.
-- **Provinzialeigentum**: nicht volles Quiritareigentum an Provinzialgrundstuecken.
-
-### Subsumtionsbeispiel: Sklave verkauft per traditio statt mancipatio
-Sachverhalt: A verkauft seinen Sklaven Marcus durch blosse traditio (Uebergabe) statt durch mancipatio.
-- **Roemisch klassisch**: Sklave ist res mancipi; ohne mancipatio kein dominium ex iure Quiritium fuer den Kaeufer. ABER praetor schuetzt den Kaeufer durch actio Publiciana und exceptio rei venditae et traditae — bonitarisches Eigentum. Nach Ablauf der Usucapio-Frist (1 Jahr fuer res mobiles, 2 Jahre fuer res soli) wird der Kaeufer Volleigentuemer.
-- **BGB**: § 929 BGB Einigung und Uebergabe — kein Unterschied zwischen mancipatio und traditio mehr; sofortiger Eigentumserwerb.
-
-### Subsumtionsbeispiel: Doppelverkauf
-Sachverhalt: A verkauft Sache an B, dann auch an C; C bekommt zuerst Uebergabe.
-- **Roemisch**: D. 19.1.31 — C erlangt Eigentum durch traditio; B hat nur schuldrechtlichen Anspruch.
-- **ALR I 8**: Aehnliches Ergebnis — Eigentum geht mit traditio ueber.
-- **BGB**: § 929 BGB — C wird Eigentuemer; B hat Schadensersatzanspruch gegen A.
-
+D. 6.1; D. 41.1; Gaius Inst. 2 (Mommsen-Krüger). C. 7.25 (Codex). Kaser RP I.

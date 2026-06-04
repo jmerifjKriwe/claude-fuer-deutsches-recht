@@ -1,79 +1,54 @@
 ---
 name: rom-052-erbrecht-testament
-description: "Römisches Recht: Erbrecht Testament. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Testamentserbrecht nach D. 28-29 und Gaius Inst. 2.99-190 - Testamentsformen (calatis comitiis, in procinctu, per aes et libram), Inhaltserfordernisse, Widerruf und querela inofficiosi testamenti."
 ---
 
-# Erbrecht Testament
+# Erbrecht: Das Testament (testamentum)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Erbrecht Testament** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das römische Testament ist die wichtigste Form der Nachlassregelung. Gaius Inst. 2.99ff. kennt drei klassische Testamentsformen: calatis comitiis (vor Volksversammlung), in procinctu (vor dem Heer) und per aes et libram (Manzipationstestament). Das justinianische Recht vereinfacht auf das Privattestament mit sieben Zeugen (Nov. 107). Inhaltliche Mindestvoraussetzung: Erbeinsetzung (institutio heredis). Querela inofficiosi testamenti schützt die Pflichtteilsberechtigten.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius Inst. 2.99-108**: Drei Testamentsformen
+- **D. 28.1.1 (Modestinus)**: Testament-Definition
+- **D. 28.5.1 pr. (Ulpian)**: Institutio heredis als caput testamenti
+- **D. 5.2.1 (Marcian)**: Querela inofficiosi testamenti
+- **Iust. Inst. 2.10**: Testamentsrecht justinianisch
+- **Nov. 107 (Justinian 541 n.Chr.)**: Privates Testament mit 7 Zeugen
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- institutio heredis: Erbeinsetzung (Pflichtinhalt)
+- testamentum per aes et libram: Manzipationstestament
+- exheredatio: Enterbung (muss ausdrücklich erfolgen)
+- querela inofficiosi testamenti: Klage auf Testamentsanfechtung (Pflichtteil)
+- heres necessarius: notwendiger Erbe (Sklave, der freigelassen wird)
+- falcidia: SC Trebellianum/lex Falcidia - Mindestquote des Erben
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Institutio heredis als Bedingung der Gültigkeit: auch in justinianischem Recht?
+2. Enterbung von Söhnen: nominatim oder per capita?
+3. Querela inofficiosi testamenti: Pflichtteil oder vollständige Anfechtung?
+4. Testamentsfähigkeit: Wer kann nicht Erbe sein?
+5. Vergleich: röm. Testament vs. BGB §§ 2229ff.
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 28 (De testamentis) und D. 29 (De heredibus instituendis)
+- Gaius Inst. 2.99-190; Iust. Inst. 2.10-14
+- Nov. 107; Kaser RP I §§ 330-380
+- Zimmermann Law of Succession
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Übersicht: Testamentsformen mit Formvoraussetzungen
+- Schema: Inhaltliche Erfordernisse
+- Memo zur querela inofficiosi testamenti
+- Vergleich röm. Testament vs. BGB
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
-
-## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
-
-### Schluesselstellen
-- **Gaius II.99-289**: Erbrecht und Testament.
-- **D. 28**: De testamentis.
-- **D. 5.2**: Querela inofficiosi testamenti.
-
-### Wichtige Testamentsformen
-1. **Testamentum calatis comitiis**: vor Volksversammlung (alt).
-2. **Testamentum in procinctu**: vor Schlacht (alt).
-3. **Testamentum per aes et libram**: Mancipationstestament — klassisch.
-4. **Testamentum praetorium**: 7 Zeugen siegeln — praetorisch.
-
-### Heredis institutio
-- Erbeneinsetzung im Eingang des Testaments zwingend.
-- "Si quis ex prima parte testamenti haeres non sit, testamentum nullum est" (D. 28.5).
-
-### Subsumtionsbeispiel: Pflichtteil verletzt
-Sachverhalt: Reicher Vater enterbt seinen Sohn vollstaendig zugunsten eines Sklaven; Sohn klagt querela inofficiosi testamenti.
-- **Roemisch**: D. 5.2 — querela inofficiosi testamenti; Pflichtteil = 1/4 des Intestaterbteils; bei Verletzung Testament insgesamt fuer ungueltig erklaert ("rescissio testamenti"); Intestaterbfolge greift.
-- **ALR I 12 §§ 380 ff.**: Pflichtteil als Geldanspruch; Testament bleibt im Uebrigen wirksam.
-- **BGB**: §§ 2303 ff. BGB; Pflichtteil = 1/2 des gesetzlichen Erbteils; Anspruch auf Geld; Testament bleibt wirksam.
-
-### Subsumtionsbeispiel: Fideikommiss
-Sachverhalt: Vater verfuegt: "Ich setze meinen Sklaven Marcus als Erben ein. Marcus, ich bitte dich, das gesamte Vermoegen meinem Vater zu geben." — Vater des Erblassers ist nicht erbfaehig (z. B. capitis deminutio).
-- **Roemisch**: Fideikommissum; Marcus ist verpflichtet, das Erbe an den Vater zu uebertragen. SC Trebellianum (56 n. Chr.): Fideikommissar erhaelt eigene Klage.
-- **BGB**: Vor- und Nacherbschaft § 2100 ff. BGB.
-
+D. 28-29; Gaius Inst. 2; Iust. Inst. 2.10-14; Nov. 107 (Mommsen-Krüger). Kaser RP I.

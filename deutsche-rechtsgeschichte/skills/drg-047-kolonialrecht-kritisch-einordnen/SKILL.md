@@ -1,50 +1,50 @@
 ---
 name: drg-047-kolonialrecht-kritisch-einordnen
-description: "Deutsche Rechtsgeschichte: Kolonialrecht Kritisch Einordnen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Kolonialrecht kritisch einordnen. Deutsche Kolonialgesetzgebung 1885-1914, Herero-Nama-Voelkermord, Kolonialrechtliche Diskriminierung und Aufarbeitung nach 1919 und heute."
 ---
 
-# Kolonialrecht Kritisch Einordnen
+# Kolonialrecht kritisch einordnen
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Kolonialrecht Kritisch Einordnen** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Deutsche Kaiserreich hatte von 1884/85 bis 1919 Kolonien in Afrika, dem Pazifik und in China. Das Schutzgebietsgesetz 1886 (RGBl. 1886, 75) war die Rechtsgrundlage. Das Kolonialrecht war ein System rassistischer Diskriminierung: Einheimische waren keine Reichsangehoerigen, unterlagen dem Kolonialrecht und hatten keine Grundrechte. Der Herero-Nama-Krieg (1904-1908) fuehrte zum ersten Voelkermord des 20. Jahrhunderts durch deutsche Truppen. Die Versailler Vertrag 1919 entzog Deutschland die Kolonien. Die Aufarbeitung des Kolonialrechts begann spaet; das Voelkermordanerkennung durch Deutschland erfolgte erst 2021.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Schutzgebietsgesetz 1886 (RGBl. 1886, 75)**: Rechtsgrundlage des deutschen Kolonialrechts
+- **Reichsangehoerigkeitsgesetz 1913 (RGBl. 1913, 583)**: Abstammungsprinzip, schloss Kolonisierte aus
+- **Versailler Vertrag 1919 Art. 118-127**: Abtretung der deutschen Kolonien
+- **Muensteraner Erklaerung 2021**: Deutsche Anerkennung des Herero-Nama-Voelkermords
+- **Voelkermordkonvention 1948 (BGBl. II 1954, 730)**: Internationales Referenzrecht
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Lothar von Trotha** (1848-1920): Kommandeur, Befehlsgeber des Herero-Vernichtungsbefehls 1904
+- **Kolonial-Verwaltungsamt**: Buerokratischer Apparat des Kolonialrechts
+- **Herero- und Nama-Fuehrer**: Opfer des Kolonialrechts und Widerstandsfuehrer
+- **Bundesregierung 2021**: Verhandlungen und Erklaerung zum Voelkermord
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. War der Herero-Befehl von 1904 ein Voelkermord nach heutigem Recht oder nach damaligem?
+2. Kolonialrecht als Rechtsgeschichte: Darf man nur aus rechtswissenschaftlicher Perspektive urteilen?
+3. Versailler Vertrag und Kolonialrecht: Endete das Kolonialrecht oder wurde es nur verschoben?
+4. Reparationsforderungen der Nachfahren: Gibt es Ansprueche nach deutschem oder Voelkerrecht?
+5. Aufarbeitung 2021: Genuegt die Erklaerung oder beduarf es weiterer rechtlicher Schritte?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Schutzgebietsgesetz 1886: RGBl. 1886, 75 via ALEX/OeNB
+- Versailler Vertrag: BGBl. 1919, 687 via ALEX/OeNB; documentArchiv.de
+- Voelkermordkonvention: BGBl. II 1954, 730; eur-lex.europa.eu fuer EU-Aspekte
+- Sekundaerliteratur: Juergen Zimmerer, Deutsche Herrschaft ueber Afrikaner (2001)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Rechtsstruktur des deutschen Kolonialrechts 1884-1919
+- Herero-Nama-Voelkermord: rechtliche Einordnung
+- Aufarbeitung 2021: Erklaerung, Inhalt, Grenzen
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Schutzgebietsgesetz 1886: ALEX/OeNB. Versailler Vertrag: documentArchiv.de. Voelkermordkonvention: BGBl. II 1954, 730. Zimmerer 2001: mit Seite. Bundesregierung 2021: Erklaerungstext.

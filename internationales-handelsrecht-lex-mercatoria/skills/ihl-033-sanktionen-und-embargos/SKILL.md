@@ -1,50 +1,52 @@
 ---
 name: ihl-033-sanktionen-und-embargos
-description: "Internationales Handelsrecht und Lex Mercatoria: Sanktionen Und Embargos. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Handelssanktionen EU, USA (OFAC) und UK (OFSI). Blocking Statute (EU VO 2018/1100), SDN-Liste, Sektorsanktionen, Finanzsanktionen, Compliance-Pflichten und Konflikte zwischen EU- und US-Sanktionen."
 ---
 
-# Sanktionen Und Embargos
+# Sanktionen und Embargos
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Sanktionen Und Embargos** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Handelssanktionen beschränken oder verbieten Handels-, Finanz- und Servicetransaktionen mit bestimmten Ländern, Unternehmen oder Personen. Die EU verhängt Sanktionen nach Art. 29 EUV (GASP) und Art. 215 AEUV. OFAC (USA) und OFSI (UK) haben teils extraterritoriale Wirkung. Der EU Blocking Statute (VO 2018/1100) verbietet EU-Unternehmen, bestimmten US-Sekundärsanktionen zu folgen.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **VO (EU) 2024/1485 (Russland 14. Sanktionspaket)**: aktuellstes EU-Sanktionsrecht Russland
+- **VO (EG) 765/2006 und 208/2014**: Sanktionen Belarus und Ukraine-Konflikt
+- **EU Blocking Statute VO (EG) 2271/96 i.d.F. 2018/1100**: Schutz vor US-Sekundärsanktionen
+- **OFAC SDN-Liste**: US-Treasury, Specially Designated Nationals and Blocked Persons
+- **OFAC Sectoral Sanctions (SSI-Liste)**: sektorbezogene Beschränkungen Russland (Energie, Finanzen)
+- **UK OFSI Financial Sanctions**: gov.uk/government/organisations/office-of-financial-sanctions-implementation
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Primärsanktionen: Beschränkungen des sanktionierenden Staates auf eigene Staatsbürger/Firmen
+- Sekundärsanktionen (USA): Beschränkungen gegen Drittstaaten-Unternehmen bei Russland/Iran-Handel
+- Blocking Statute: EU-Unternehmen dürfen US-Sekundärsanktionen nicht befolgen (Konflikt)
+- SDN-Matching: 50%-Regel — Unternehmen mit >50% SDN-Beteiligung ebenfalls blockiert
+- Wind-Down-Lizenz: OFAC erlaubt befristeten Abbau von Transaktionen
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. EU-Blocking-Statute: Was tut ein EU-Unternehmen wenn US-Bank Transaktion blockiert?
+2. SDN 50%-Regel: Tochtergesellschaft eines SDN-Unternehmens — automatisch blockiert?
+3. Russland-Sanktionen: Kann russisches Unternehmen über Dubai-Tochter EU-Güter beziehen?
+4. Sanktionsklausel im Vertrag: Wie formulieren, damit Force-Majeure-Wirkung entsteht?
+5. OFSI UK nach Brexit: Parallele Pflichten zu OFAC und EU?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Screening-Prozess: SDN-Liste + EU-konsolidierte Sanktionsliste täglich (OFAC/EU API)
+- Ownership-Prüfung: 50%-Regel für verbundene Unternehmen
+- Blocking-Statute-Konflikt: EU-Unternehmens-Rechtsabteilung und BAFA/Generaldirektion Handel informieren
+- Sanctions-Klausel: vertragliche Regelung wer bei Sanktionsverstoß haftet
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Sanktions-Screening-Checkliste
+- Blocking-Statute-Konflikt-Handlungsplan
+- Sanctions-Klausel-Muster
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+EU-Sanktionen: eur-lex.europa.eu. OFAC: home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions. OFSI: gov.uk. Blocking Statute VO 2271/96: eur-lex.europa.eu. Unsicherheit bleibt sichtbar.

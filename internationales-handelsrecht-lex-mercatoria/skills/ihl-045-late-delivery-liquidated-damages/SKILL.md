@@ -1,50 +1,52 @@
 ---
 name: ihl-045-late-delivery-liquidated-damages
-description: "Internationales Handelsrecht und Lex Mercatoria: Late Delivery Liquidated Damages. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Lieferverzug und Liquidated Damages im internationalen Kaufvertrag. CISG Art. 45/74 als Grundlage, Klauselgestaltung, Vorhersehbarkeitsgrenzen, Verhältnis zu CISG-Schadensersatz und Penalty-Kontrolle in verschiedenen Rechtsordnungen."
 ---
 
-# Late Delivery Liquidated Damages
+# Lieferverzug und Liquidated Damages
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Late Delivery Liquidated Damages** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Liquidated Damages (LD) sind im Voraus vereinbarte Schadensersatzpauschalen für Lieferverzug. Sie erleichtern die Schadensdurchsetzung ohne Einzelnachweis. CISG Art. 74 ermöglicht LD, begrenzt sie aber auf Vorhersehbarkeit. In Common-Law-Ländern gilt die Penalty-Doktrin; im deutschen Recht ist die Vertragsstrafe nach §§ 339-345 BGB zulässig.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CISG Art. 74**: Schadensersatz — Vorhersehbarkeitsbegrenzung gilt auch für LD-Klauseln
+- **CISG Art. 45 Abs. 1 lit. b**: Schadensersatz bei Lieferverzug als Rechtsbehelf
+- **BGB §§ 339-345**: Vertragsstrafe — zulässig, richterliches Mäßigungsrecht § 343
+- **Penalty Rule (English Law)**: Cavendish Square Holding v Makdessi [2015] UKSC 67 — neuer Test
+- **PICC Art. 7.4.13**: Agreed Payment for Non-performance — Reduktion bei Unverhältnismäßigkeit
+- **NEC4-Vertrag**: Standard LD-Klausel in Anlagenbau
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Genuine Pre-Estimate (Common Law): LD muss echte Schadensvorab-schätzung sein (nicht Strafe)
+- Mäßigungsrecht § 343 BGB: Gericht kann unverhältnismäßige Vertragsstrafe reduzieren
+- Liability Cap: maximale Haftung (oft 10% Vertragswert)
+- Delay-in-Completion-LD vs. Delay-in-Delivery-LD (bei Bauverträgen)
+- Mutual LD: auch Käufer haftet bei verspäteter Abnahme
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. LD-Klausel 1% pro Woche bis 10% Gesamtvertragswert: Wirksam unter CISG und BGB?
+2. Lieferverzug durch Sublieferant: Gilt LD auch ohne Eigenverschulden?
+3. Penalty vs. LD: Wann ist eine Klausel nach englischem Recht eine unzulässige Penalty?
+4. LD und konkreter Schaden: Kann Käufer LD und zusätzlich CISG-Schadensersatz verlangen?
+5. Liability-Cap: Schließt LD-Klausel mit Cap weitergehende CISG-Ansprüche aus?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- LD-Bemessung: auf Basis echter Schadensschätzung (Vorhersehbarkeit Art. 74 CISG)
+- Penalty-Test (UK): Legitimate Business Interest + proportionate — Cavendish-Test anwenden
+- § 343 BGB Mäßigung: LD-Höhe im Verhältnis zum tatsächlichen Schaden dokumentieren
+- Liability-Cap: immer mit Haftungsausschluss für Folgeschäden kombinieren
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- LD-Klausel-Muster (international, CISG-kompatibel)
+- Penalty-Test-Checkliste (englisches Recht)
+- Haftungscap-Klausel-Muster
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG Art. 74: uncitral.un.org. BGB §§ 339-345: gesetze-im-internet.de. Cavendish Square Holding v Makdessi [2015] UKSC 67: bailii.org. PICC Art. 7.4.13: unidroit.org. Unsicherheit bleibt sichtbar.

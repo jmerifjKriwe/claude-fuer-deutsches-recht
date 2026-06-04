@@ -1,50 +1,51 @@
 ---
 name: ihl-090-red-team-boilerplate
-description: "Internationales Handelsrecht und Lex Mercatoria: Red Team Boilerplate. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Red-Team-Analyse von Boilerplate-Klauseln in internationalen Kaufverträgen. Versteckte Risiken in Standard-AGB, Force-Majeure-Klauseln, Haftungsgrenzen, Sanktionsklauseln und Schiedsklauseln aus Gegenpartei-Perspektive."
 ---
 
-# Red Team Boilerplate
+# Red-Team-Analyse von Boilerplate-Klauseln
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Red Team Boilerplate** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Boilerplate-Klauseln in internationalen Kaufverträgen werden oft gedankenlos übernommen — die Red-Team-Analyse betrachtet sie aus der Gegenpartei-Perspektive und deckt versteckte Risiken auf. Fokus: Force-Majeure-Klauseln ohne Notifikationspflicht, Haftungscaps die Grundrechtsansprüche ausschließen, Schiedsklauseln ohne Rechtswahl.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CISG Art. 74**: Vorhersehbarkeit als Grenze — Haftungscap kann diese Grenze verschieben
+- **BGB § 309 Nr. 7**: Unzulässiger Haftungsausschluss für Körperschäden und grobe Fahrlässigkeit
+- **PICC Art. 2.1.20**: Überraschungsklausel — untypische Klausel ohne besonderen Hinweis unwirksam
+- **§ 138 BGB**: Sittenwidrigkeit — Haftungscap der Schadensersatz faktisch eliminiert
+- **VBER Art. 4 lit. a**: Preisbindung in Vertriebsverträgen — per se-Verstoß AEUV Art. 101
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- FM-Klausel ohne Notifikation: Gefährlich für Schuldner (keine Befreiung wenn nicht notifiziert)
+- Entire-Agreement-Klausel: schließt vorvertragliche Zusicherungen aus — Haftung für culpa in contrahendo?
+- Gerichtsstand des Verkäufers: Käufer hat Rechtsschutz nur in fremdem Land
+- Einseitige Schiedsklausel: nur Käufer kann schiedsen, Verkäufer vor staatlichem Gericht klagen
+- Preis-Eskalationsklausel: ermöglicht Preiserhöhungen die Minderungsrecht des Käufers aushebeln
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. FM-Klausel ohne Notifikation: Was verliert Schuldner wenn er notifiziert-Pflicht nicht kennt?
+2. Gesamthaftung-Cap 5% des Vertragswerts: Sittenwidrig bei Körperschaden durch Produktfehler?
+3. Entire-Agreement: Verkäufer hat vor Vertragsschluss Qualität zugesagt — nun nicht mehr relevant?
+4. Einseitige Schiedsklausel: Wirksam nach § 1029 ZPO / NY Convention?
+5. Preis-Eskalationsklausel: 30% Materialpreiserhöhung → Preis steigt 30% — ist das proportional?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Red-Team-Strukturierung: Klausel → Wortlaut → Worst-Case Auslegung → Risiko → Gegenmaßnahme
+- CISG-Check: Klausel mit CISG Art. 74-77 Schadensersatzsystem vereinbar?
+- AGB-Kontrolle: BGB § 307-309 prüfen für deutsche Rechtswahl
+- Verhandlungshebelstrategie: Welche Klauseln haben höchsten Verhandlungswert?
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Red-Team-Analyse-Matrix (10 Boilerplate-Klauseln × 3 Szenarien)
+- Gegenklausel-Vorschläge für identifizierte Risiken
+- Verhandlungspriorität-Rangliste
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG Art. 74: uncitral.un.org. BGB §§ 307-309: gesetze-im-internet.de. PICC Art. 2.1.20: unidroit.org. Schrifttum: Raeschke-Kessler, Internationale Vertragsgestaltung (2018). Unsicherheit bleibt sichtbar.

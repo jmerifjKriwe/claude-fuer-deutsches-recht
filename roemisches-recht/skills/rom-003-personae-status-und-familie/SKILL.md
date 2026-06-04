@@ -1,50 +1,54 @@
 ---
 name: rom-003-personae-status-und-familie
-description: "Römisches Recht: Personae Status Und Familie. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Personenrecht - status libertatis, civitatis und familiae nach D. 1.5 und Gaius Inst. 1.9-200. Capitis deminutio maxima/media/minima, sui iuris vs. alieni iuris."
 ---
 
-# Personae Status Und Familie
+# Personae: Status und Familie im römischen Recht
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Personae Status Und Familie** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das römische Personenrecht kennt drei Statusdimensionen: status libertatis (frei/Sklave), status civitatis (Bürger/Latiner/Peregrine) und status familiae (sui iuris / alieni iuris). Volle Rechtsfähigkeit setzt alle drei voraus. Gaius behandelt dies in Inst. 1.9ff. Die capitis deminutio bezeichnet den Statusverlust in drei Graden. Die Constitutio Antoniniana (212 n.Chr.) verlieh fast allen freien Reichsbewohnern das Bürgerrecht (D. 1.5.17, Ulpian).
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius Inst. 1.9**: Summa divisio de iure personarum: liberi aut servi
+- **D. 1.5.3 (Marcellian)**: Definition der rechtlichen Person
+- **D. 4.5.11 (Paulus)**: Capitis deminutio - drei Grade
+- **Iust. Inst. 1.3**: Status der Personen
+- **D. 1.6.1 (Gaius)**: Patria potestas als Besonderheit des ius civile
+- **D. 1.5.17 (Ulpian)**: Constitutio Antoniniana und Bürgerrecht
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- sui iuris: rechtlich eigenständig (paterfamilias oder emanzipiert)
+- alieni iuris: unter fremder Hausgewalt
+- capitis deminutio maxima: Verlust der Freiheit
+- capitis deminutio media: Verlust des Bürgerrechts
+- capitis deminutio minima: Wechsel der familia
+- caput: Rechtspersönlichkeit im Vollsinne
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Volle Rechtspersönlichkeit des Sklaven: Sache oder Person in römischer Jurisprudenz?
+2. Unterschied peregrinus und Latinus Iunianus in der Praxis
+3. Restitutio in integrum bei capitis deminutio minima
+4. Frauen als sui iuris nach Beendigung der tutela mulierum
+5. Auswirkungen der Constitutio Antoniniana auf Provinzialbevölkerung
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Gaius Inst. 1.9-200 systematisch lesen
+- D. 1.5-6 als Digestentitel zu Personen und capitis deminutio
+- Iust. Inst. 1.3-8 als justinianische Systematisierung
+- Kaser RP I §§ 13-18; Honsell/Mayer-Maly/Selb Römisches Recht §§ 27ff.
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Statusdiagramm mit allen Dimensionen
+- Tabelle: Rechtsfähigkeit nach Personenkategorien
+- Memo zu capitis deminutio und Rechtsfolgen
+- Fallbearbeitung zum Statuswechsel
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 1.5-6; Gaius Inst. 1 (Mommsen-Krüger, archive.org). Iust. Inst. 1.3-8. Constitutio Antoniniana: Papyrus Giss. 40 (papyri.info). Kaser RP I.

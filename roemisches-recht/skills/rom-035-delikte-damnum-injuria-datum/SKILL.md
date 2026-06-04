@@ -1,81 +1,54 @@
 ---
 name: rom-035-delikte-damnum-injuria-datum
-description: "Römisches Recht: Delikte Damnum Injuria Datum. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Damnum iniuria datum nach der lex Aquilia (286 v.Chr.) - drei Kapitel, Körper- und Sachbeschädigung, actio legis Aquiliae, Erweiterung durch prätorische actio in factum und actio utilis."
 ---
 
-# Delikte Damnum Injuria Datum
+# Delikte: damnum iniuria datum (lex Aquilia)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Delikte Damnum Injuria Datum** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die lex Aquilia (286 v.Chr. nach Zimmermann; ähnlich XII Tafeln-Zeit nach anderen) regelt in drei Kapiteln die Sachbeschädigung: Kap. 1 Tötung fremden Sklaven oder Vieh (höchster Wert im letzten Jahr), Kap. 2 veraltet (Bürgenhaftung), Kap. 3 Beschädigung sonstiger Sachen (höchster Wert der letzten 30 Tage). Erfordert iniuria (Rechtswidrigkeit) und damnum corpore corpori datum (körperliche Kausalität).
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 9.2.1 pr. (Gaius)**: Überblick über die lex Aquilia
+- **D. 9.2.2 pr. (Ulpian)**: Kapitel 1 - Tötung von Sklaven und Groß-/Kleinvieh
+- **D. 9.2.5 pr. (Ulpian)**: Voraussetzung: corpore corpori
+- **D. 9.2.7.3 (Ulpian)**: Culpa (Fahrlässigkeit) als Haftungsvoraussetzung
+- **D. 9.2.27.5 (Ulpian)**: actio in factum bei mittelbarer Schadensverursachung
+- **Gaius Inst. 3.210-219**: Lex Aquilia systematisch
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- damnum iniuria datum: schuldhaft zugefügter Schaden
+- corpore corpori: Schaden durch körperlichen Kontakt des Täters
+- iniuria: Rechtswidrigkeit (ohne Rechtfertigungsgrund)
+- actio legis Aquiliae: Strafklage auf höchsten Wert
+- actio utilis: Klage bei mittelbarer Verursachung
+- culpa Aquiliana: Fahrlässigkeit als Haftungsmaßstab der lex Aquilia
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Corpore corpori-Erfordernis: direkter Kontakt oder auch Mittelbare Ursache?
+2. Fahrlässigkeit in der lex Aquilia: von Anfang an oder erst klassisch?
+3. Ausdehnung auf freie Personen: actio utilis (D. 9.2.13)
+4. Verhältnis lex Aquilia - actio de dolo
+5. Einfluss auf BGB § 823 Abs. 1 (Deliktsrecht)
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 9.2 (Ad legem Aquiliam) als Haupttitel
+- Gaius Inst. 3.210-219
+- Text der lex Aquilia: FIRA vol. II (Fontes Iuris Romani Anteiustiniani)
+- Kaser RP I §§ 285-295; Zimmermann Law of Obligations Kap. 28
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: drei Kapitel der lex Aquilia
+- Voraussetzungsübersicht actio legis Aquiliae
+- Memo zur culpa Aquiliana
+- Vergleich röm. Delikt vs. § 823 BGB
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
-
-## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
-
-### Schluesselstellen
-- **Lex Aquilia (286 v. Chr.; Datum vor Zitat verifizieren)**: Grundlage des roemischen Schadensersatzrechts.
-- **D. 9.2**: Ad legem Aquiliam.
-
-### Lex Aquilia Kapitel 1 und 3
-- **Kapitel 1**: Toetung eines fremden Sklaven oder vierfuessigen Herdentiers; Haftung auf hoechsten Wert im letzten Jahr.
-- **Kapitel 3**: Sonstige Sachschaedigungen (urere frangere rumpere — "Brennen, Brechen, Zerreissen"); Haftung auf hoechsten Wert im letzten Monat.
-
-### Subjektives Element
-- Vorsatz (dolus) oder Fahrlaessigkeit (culpa) erforderlich.
-- D. 9.2.5.1 — Verschuldensprinzip etabliert.
-- D. 9.2.31 (Paulus) — sehr ausdifferenzierte culpa-Lehre.
-
-### Subsumtionsbeispiel: Pferd erschossen beim Jagen
-Sachverhalt: A schiesst beim Wildschwein-Jagen; verfehlt; Kugel trifft Pferd des B.
-- **Roemisch**: Lex Aquilia Kapitel 1 (Tier); culpa-Haftung; Frage ob noch im Beschossenen Wildbahnbereich; Schaden auf hoechsten Pferdewert im letzten Jahr.
-- **ALR I 6 § 8**: Generalklausel fuer Fahrlaessigkeit; Pferdewert ersetzen.
-- **BGB**: § 823 Abs. 1 BGB Eigentumsverletzung; § 249 BGB Naturalherstellung oder Schadensersatz.
-
-### Subsumtionsbeispiel: Schiff im Hafen rammt Boote
-Sachverhalt: Schiffer schiebt sein Schiff in den Hafen; rammt andere Boote.
-- **Roemisch**: Lex Aquilia Kapitel 3; culpa-Pruefung; volle Wertersatz.
-- **BGB**: § 823 Abs. 1 BGB; ggf. § 833 BGB nicht anwendbar (kein Tier); volle Wertersatzpflicht.
-
-### Bedeutung fuer modernes Recht
-- Lex Aquilia ist die Wurzel des deutschen Deliktsrechts.
-- BGB § 823 Abs. 1 ist im Kern lex-Aquilia-Modell.
-
+D. 9.2 (Mommsen-Krüger). Gaius Inst. 3. FIRA vol. II (archive.org). Kaser RP I. Zimmermann Law of Obligations.

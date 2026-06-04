@@ -1,50 +1,52 @@
 ---
 name: ihl-027-lager-und-zolllager
-description: "Internationales Handelsrecht und Lex Mercatoria: Lager Und Zolllager. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Lagerrecht (HGB §§ 467-475h) und Zolllager nach Unionszollkodex (UZK) Art. 237-242. Lagerhalter-Pflichten, Haftung, Zollverfahren, Einfuhr- und Ausfuhrlager, ATLAS-Anmeldung und Zolllagertypen."
 ---
 
-# Lager Und Zolllager
+# Lager- und Zolllager
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Lager Und Zolllager** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Lagerrecht (HGB §§ 467-475h) regelt die Verwahrung von Waren durch einen gewerblichen Lagerhalter. Zolllager nach UZK Art. 237-242 erlauben Lagerung nicht-unionszollrechtlicher Waren ohne sofortige Zollschuldentstehung — wichtig für Transithandel und Bonded Warehouse.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **HGB § 467**: Lagervertrag — Pflicht zur Verwahrung
+- **HGB § 471**: Lagerhalter-Haftung — Sorgfalt eines ordentlichen Kaufmanns
+- **HGB § 475g**: Pfandrecht des Lagerhalters
+- **UZK Art. 237**: Zolllager — Lagerung nicht-unionszollrechtlicher Waren
+- **UZK Art. 240**: Typen (öffentliches/privates Zolllager Typ I-VI)
+- **ATLAS**: Zollsystem der deutschen Zollbehörden (Bundeszollverwaltung)
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Ordentlicher-Kaufmann-Maßstab: Haftungsstandard des Lagerhalters
+- Lagerhalter-Pfandrecht: sichert Forderungen des Lagerhalters
+- Zolllager Typ I/II: öffentliches Lager für jedermann (Typ I) oder bestimmten Nutzer (Typ II)
+- Bonded Warehouse: nicht-unionszollrechtliche Ware ohne Zollschuld gelagert
+- Wareneingangsprüfung: Dokumentation bei Übernahme für spätere Haftungsabgrenzung
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Lagerschäden durch Fehler des Lagerhalters: Haftungsgrenze HGB oder ADSp?
+2. Zolllager: Kann Ware bearbeitet werden (veredelt, verarbeitet) ohne Zollschuldentstehung?
+3. Pfandrecht Lagerhalter: Übertrifft es andere Sicherheiten (Eigentumsvorbehalte)?
+4. Zolllager nach Brexit: Wie ändert sich die Behandlung UK-Waren in EU-Zolllager?
+5. ATLAS-Anmeldung: Welche Pflichten hat der Lagerhalter bei Fehlern in der Warenbeschreibung?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Lagervertrag: Einlagerungsdokumentation (Lagerhauptbuch) sorgfältig führen
+- Zolllager: Bewilligung beim Hauptzollamt beantragen; laufende Bestandsführung UZK Art. 214
+- Haftungsabgrenzung: Übernahmezustand dokumentieren (Fotos, Wiegung)
+- Pfandrecht: Rangfolge mit anderen Sicherungsrechten im Vorfeld klären
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Lager- vs. Zolllager Unterscheidungsmatrix
+- Zolllager-Bewilligungsvoraussetzungen (UZK Art. 237-242)
+- Muster-Einlagerungsprotokoll
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+HGB §§ 467-475h: gesetze-im-internet.de. UZK (VO 952/2013): eur-lex.europa.eu. ADSp 2017: dslv.org. Zollverwaltung.de für ATLAS. Unsicherheit bleibt sichtbar.

@@ -1,50 +1,50 @@
 ---
 name: drg-048-militaerrecht-und-kriegsfolgen
-description: "Deutsche Rechtsgeschichte: Militaerrecht Und Kriegsfolgen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Militaerrecht und Kriegsfolgen. Militaerstrafrecht im Kaiserreich, Kriegsgerichtsbarkeit WW1 und WW2, Deserteur-Rehabilitierung und Aufarbeitung von Kriegsverbrechern."
 ---
 
-# Militaerrecht Und Kriegsfolgen
+# Militaerrecht und Kriegsfolgen
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Militaerrecht Und Kriegsfolgen** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Militaerrecht war ein Sonderrechtsgebiet mit eigener Gerichtsbarkeit. Das Militaerstrafgesetzbuch (MStGB 1872, RGBl. 1872, 173) und die Militaerstrafgerichtsordnung (MStGO 1898) regelten Strafrecht und Verfahren fuer Soldaten. Im Ersten Weltkrieg spitzte sich die Militaergerichtsbarkeit zu: Tausende Deserteure und Kriegsdienstverweigerer wurden verurteilt. Das NS-Regime eskalierte das Militaerstrafrecht massiv: An die 30000 Todesurteile unter Kriegsgerichtsbarkeit. Die Bundeswehr wurde 1955 aufgebaut; das WStG 1957 (BGBl. I 1957, 298) und WDO 1957 regelten das neue Militaerrecht. Die Rehabilitierung von WW2-Deserteuren gelang vollstaendig erst 2002 (BGBl. I 2002, 2532).
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **MStGB 1872 (RGBl. 1872, 173)**: Militaerstrafgesetzbuch des Kaiserreichs
+- **WStG 1957 (BGBl. I 1957, 298)**: Wehrstrafgesetz der Bundeswehr
+- **WDO 1957**: Wehrdisziplinarordnung
+- **NS-Aufhebungsgesetz 2002 (BGBl. I 2002, 2532)**: Rehabilitierung von Deserteuren und Kriegsdienstes-Verweigerern
+- **GG Art. 17a**: Einschraenkung von Grundrechten fuer Wehrdienst
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Reichsmilitaergericht**: Hoechstes Militaergericht des Kaiserreichs
+- **Reichskriegsgericht (1936-1945)**: NS-Militaergerichtsbarkeit, ca. 30000 Todesurteile
+- **Bundeswehr Rechtsabteilung**: Modernes Militaerrecht
+- **Verband der Kriegsdienstverweigerer**: Treiber der Rehabilitierungsgesetzgebung
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Militaergerichtsbarkeit im Kaiserreich: War sie unabhaengig oder Instrument der Offizierskaste?
+2. NS-Reichskriegsgericht: War es ein Gericht oder ein Todesurteilsmaschine?
+3. Deserteur-Rehabilitierung 2002: Warum dauerte es so lange?
+4. Bundeswehr und Gewissensfreiheit: Art. 4 Abs. 3 GG und Kriegsdienstverweigerung
+5. Kriegsverbrecherverfolgung: Genuegten Nuernberg und spaetere Prozesse?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- MStGB 1872: RGBl. 1872, 173 via ALEX/OeNB
+- WStG und WDO: gesetze-im-internet.de
+- NS-Aufhebungsgesetz 2002: BGBl. I 2002, 2532
+- Bundesarchiv-Militaerarchiv Freiburg: NS-Kriegsgerichtsurteile
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste Militaerrecht: 1872-2002
+- NS-Reichskriegsgericht: Statistik und Beispielfaelle
+- Deserteur-Rehabilitierung: Gesetz 2002 und politische Geschichte
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+MStGB 1872: ALEX/OeNB. WStG 2002: gesetze-im-internet.de. NS-Aufhebungsgesetz 2002: BGBl. I 2002, 2532. Militaerarchiv Freiburg: Bestaende Reichskriegsgericht. BVerfGE zur Kriegsdienstverweigerung: bverfg.de.

@@ -1,50 +1,54 @@
 ---
 name: rom-005-ehe-mitgift-und-familienvermoegen
-description: "Römisches Recht: Ehe Mitgift Und Familienvermoegen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Ehe (matrimonium iustum), Mitgift (dos) nach D. 23-24, manus-Ehe vs. freie Ehe, dos profecticia/adventicia und actio rei uxoriae als Instrument der Mitgiftrückforderung."
 ---
 
-# Ehe Mitgift Und Familienvermoegen
+# Ehe, Mitgift (dos) und Familienvermögen
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Ehe Mitgift Und Familienvermoegen** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das römische Eherecht unterscheidet die cum manu-Ehe (Frau tritt in Hausgewalt des Mannes) von der freien Ehe sine manu (klassische Form). Kernstück des ehelichen Vermögensrechts ist die dos (Mitgift), die nach Eheende zurückzugeben ist. D. 23-24 behandeln Verlobung, Ehe und Mitgift. Die actio rei uxoriae ermöglichte der Frau nach Scheidung die Mitgiftrückforderung.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 23.1.1 (Florentinus)**: Definition der sponsalia (Verlobung)
+- **D. 23.2.1 (Modestinus)**: Nuptiae sunt coniunctio maris et feminae...
+- **D. 23.3.1 (Iulianus)**: Dos - was sie ist und warum sie gegeben wird
+- **D. 24.3.1 (Paulus)**: actio rei uxoriae bei Scheidung
+- **Gaius Inst. 1.108-115**: Manus-Ehe und ihre Begründungsformen
+- **Iust. Inst. 1.10**: Iustum matrimonium
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- matrimonium iustum: formgültige Ehe mit Rechtswirkungen
+- dos profecticia: vom Vater gegebene Mitgift
+- dos adventicia: von der Frau selbst oder Dritten gegebene Mitgift
+- actio rei uxoriae: Klage auf Mitgiftherausgabe nach Scheidung
+- donatio propter nuptias: Gegengabe des Mannes (Justinian)
+- manus: eheliche Gewalt des Mannes über die Frau
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Übergang von der manus-Ehe zur freien Ehe: wann und warum?
+2. Eigentum an der dos während der Ehe: Ehemann oder Ehefrau?
+3. Retentiones bei der Mitgiftrückgabe (D. 24.3.5-8)
+4. Scheidungsfreiheit im klassischen römischen Recht
+5. Justinianische Einschränkung der Scheidung (Nov. 117, 118)
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 23 (De sponsalibus et dotibus) und D. 24 (De donationibus inter virum et uxorem)
+- Gaius Inst. 1.108-115 zur manus
+- Kaser RP I §§ 59-80; Treggiari Roman Marriage (1991)
+- Vergleich mit BGB §§ 1353ff., 1363ff.
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Übersicht Ehehindernisse und Eheformen
+- Schema Dosvermögen: Eigentum, Verwaltung, Rückgabe
+- Memo zur actio rei uxoriae
+- Vergleichstabelle röm. Ehe vs. mod. Eherecht
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 23-24 (Mommsen-Krüger). Gaius Inst. 1. Kaser RP I §§ 59-80. Treggiari Roman Marriage (1991). Nov. 117: Schöll-Kroll (archive.org).

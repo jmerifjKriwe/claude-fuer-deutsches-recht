@@ -1,50 +1,52 @@
 ---
 name: ihl-016-unidroit-force-majeure
-description: "Internationales Handelsrecht und Lex Mercatoria: Unidroit Force Majeure. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Force Majeure nach UNIDROIT Principles Art. 7.1.7 und CISG Art. 79. Befreiungsvoraussetzungen, Hinweispflicht, Rechtsfolgen (kein Schadensersatz aber Aufhebungsrecht) und Abfassung von Force-Majeure-Klauseln."
 ---
 
-# Unidroit Force Majeure
+# Force Majeure: PICC Art. 7.1.7 und CISG Art. 79
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Unidroit Force Majeure** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Force Majeure befreit den Schuldner von Schadensersatzhaftung wenn ein außerhalb seiner Sphäre liegendes, unvorhersehbares und unabwendbares Hindernis die Leistung unmöglich macht. PICC Art. 7.1.7 und CISG Art. 79 sind ähnlich, aber nicht identisch: CISG spricht von "Hindernis außerhalb seiner Sphäre", PICC ergänzt die Erkennbarkeit zum Vertragsschluss und die Zumutbarkeit der Überwindung. Beide regeln nur den Schadensersatz, nicht die Aufhebung.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CISG Art. 79 Abs. 1**: Befreiung — Hindernis außerhalb der Sphäre, unvorhersehbar, nicht überwindbar
+- **CISG Art. 79 Abs. 3**: Hinweispflicht — unverzüglich nach Kenntnis; sonst Haftung für Verzögerungsschaden
+- **CISG Art. 79 Abs. 5**: Wirkung — nur Befreiung von Schadensersatz, alle anderen Rechtsbehelfe bleiben
+- **PICC Art. 7.1.7 Abs. 1**: Force Majeure — drei Alternativen (außerhalb Sphäre, unvorhersehbar, Überwindung unzumutbar)
+- **PICC Art. 7.1.7 Abs. 3-4**: Hinweispflicht und Wirkung der FM
+- **ICC Force Majeure Clause 2020**: iccwbo.org — Standardklausel
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Sphärenprinzip: Lieferantenausfall in Schuldnersphäre (Art. 79 Abs. 2 CISG)
+- Unvorhersehbarkeit: ex ante Vertragsschluss; allgemeine Marktrisiken nicht FM
+- Unüberwindbarkeit: technisch und wirtschaftlich — Extremkosten können FM begründen
+- Vorübergehendes vs. dauerhaftes Hindernis: Suspendierung vs. Aufhebungsrecht
+- Notifikationspflicht: Art. 79 Abs. 3 CISG — Fristversäumnis → Haftung
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Pandemie als FM: Hat COVID-19 CISG Art. 79 ausgelöst? (Fallgruppenabhängig)
+2. Sublieferantenausfall: Art. 79 Abs. 2 CISG — Eigene FM-Voraussetzungen des Sublieferanten?
+3. Exportkontrolle/Sanktionen: Begründen neue Sanktionen FM für laufende Verträge?
+4. ICC FM-Klausel 2020: Verhältnis zu Art. 79 CISG — was geht vor?
+5. Hardship vs. FM: Preisverdreifachung — erschwert (Hardship) oder unmöglich (FM)?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- FM-Prüfung dreistufig: (1) außerhalb Sphäre, (2) unvorhersehbar, (3) unüberwindbar
+- Hinweispflicht-Tracking: Datum FM-Eintritt → Datum Notifikation → Haftungsrisiko
+- ICC FM-Klausel 2020 als Vertragsbaustein einbeziehen (kürzere Notifikationsfrist 30 Tage)
+- Sublieferantenkette: Art. 79 Abs. 2 Kaskade prüfen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- FM-Prüfschema (CISG und PICC parallel)
+- FM-Notifikationsschreiben-Muster
+- ICC FM-Klausel 2020 mit Anpassungsoptionen
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG Art. 79: uncitral.un.org. PICC Art. 7.1.7: unidroit.org. ICC FM-Klausel 2020: iccwbo.org. Schrifttum: Liu, Force Majeure, CISG-online.ch. Unsicherheit bleibt sichtbar.

@@ -1,50 +1,52 @@
 ---
 name: ihl-022-transportvertrag-see
-description: "Internationales Handelsrecht und Lex Mercatoria: Transportvertrag See. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Seetransportrecht — Haager-Visby-Regeln (HVR), Hamburger Regeln 1978 und Rotterdamer Regeln 2009. Haftungsregime des Reeders, Seefrachtbrief vs. Konnossement, Haftungsgrenzen und Anwendbarkeit nach Staat."
 ---
 
-# Transportvertrag See
+# Seetransportrecht: Haag-Visby, Hamburg, Rotterdam
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Transportvertrag See** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Drei internationale Transportrechtsregime konkurrieren im Seetransport: (1) Haager-Visby-Regeln (HVR, 1968/1979 — Brüsseler Konventionen), dominant in EU und UK; (2) Hamburger Regeln (1978, UN, in Kraft 1992) — mehr Entwicklungsländer, stärkere Absenderhaftung; (3) Rotterdamer Regeln (UNCITRAL 2009) — Modernisierung, multimodal, nicht weit ratifiziert. Deutschland: HVR durch HGB §§ 498 ff.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **HVR Art. 3 Abs. 1**: Seetüchtigkeit-Pflicht des Reeders (due diligence vor Reise)
+- **HVR Art. 4 Abs. 2**: Katalog nautischer Fehler (Exkulpation Reeder) — 17 Ausnahmen
+- **HVR Art. 4 Abs. 5**: Haftungsgrenze 666,67 SZR/Kollo oder 2 SZR/kg (höherer Wert)
+- **Hamburger Regeln Art. 5**: Verschuldenshaftung Reeder (strengere Haftung ggü. HVR)
+- **Rotterdamer Regeln Art. 17**: Haftungsprinzip; Art. 59 Haftungsgrenze (875 SZR/Kollo)
+- **HGB §§ 498-530**: Deutsches Seetransportrecht (HVR-Umsetzung)
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Konnossement (Bill of Lading): Wertpapier, Traditionspapier, Legitimationsurkunde
+- Seefrachtbrief (Sea Waybill): kein Wertpapier — für vertrauensvolle Handelsbeziehungen
+- Seetüchtigkeit: technisch (Schiff) und ladungstüchtig (Laderäume, Kältekette)
+- Nautischer Fehler: HVR Exkulpation — Fehler bei Navigation und Schiffsführung (nicht Hamburger Regeln)
+- Haftungsgrenze: SZR-basiert, kann durch Wertdeklaration erhöht werden
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. HVR vs. Hamburger Regeln: Gilt nautischer Fehler-Exkulpation auch unter Hamburg Rules?
+2. Konnossement vs. Sea Waybill: Wann brauche ich Wertpapier (Akkreditivgeschäft, Kreditrisiko)?
+3. Containergewicht-Angabe (SOLAS VGM): Haftungsfolgen falscher Deklaration?
+4. Containerfreighter total loss: Haftungslimit HVR Art. 4 Abs. 5 — wie berechnen bei 1000 Containern?
+5. Rotterdamer Regeln Multimodal: Warum haben sie so wenige Ratifikationen?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Anwendbares Regime nach Vertragsstaatszugehörigkeit und Konnossementsklausel bestimmen
+- Haftungslimit-Berechnung: Kollo-Regel (Container = ein Kollo? — str.) vs. kg-Regel
+- Konnossement-Klauseln auf Paramountklausel (HVR-Verweis) prüfen
+- Rotterdamer Regeln: für zukünftige Vertragsgestaltung im Blick halten
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Regime-Vergleich: HVR / Hamburg / Rotterdam (Haftung, Ausnahmen, Grenzen)
+- Konnossements-Checkliste (Pflichtangaben HVR Art. 3 Abs. 3)
+- Haftungsberechnung-Schema
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+HVR: uncitral.un.org (Text). Hamburger Regeln: uncitral.un.org. Rotterdamer Regeln: uncitral.un.org. HGB §§ 498 ff.: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.

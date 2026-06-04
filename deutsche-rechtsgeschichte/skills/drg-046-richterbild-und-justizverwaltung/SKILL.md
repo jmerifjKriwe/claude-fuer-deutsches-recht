@@ -1,50 +1,50 @@
 ---
 name: drg-046-richterbild-und-justizverwaltung
-description: "Deutsche Rechtsgeschichte: Richterbild Und Justizverwaltung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Richterbild und Justizverwaltung. Richterlicher Unabhaengigkeitsgedanke, Berufsrichter vs. Schoeffen, NS-Richterbild und DRiG 1961 als demokratische Grundlage."
 ---
 
-# Richterbild Und Justizverwaltung
+# Richterbild und Justizverwaltung
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Richterbild Und Justizverwaltung** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Richterbild hat sich im Laufe der deutschen Rechtsgeschichte gewandelt. Im gemeinen Recht galten die Schoeffen als Laienrichter und Rechtskenner. Im 19. Jh. setzte sich der Berufsrichter durch. Das RGG 1877 (Reichsgerichtsverfassungsgesetz, RGBl. 1877, 41) schuf die ordentliche Gerichtsbarkeit mit Berufsrichtern. Der NS pervertierte die richterliche Unabhaengigkeit: Richter sollten dem Willen des Fuehrers entsprechend urteilen. Das Deutsche Richtergesetz (DRiG, BGBl. I 1961, 713) kodifiziert heute richterliche Unabhaengigkeit (Art. 97 GG) und Richterdienstrecht. Das BVerfG schuetzt richterliche Unabhaengigkeit als Verfassungsgebot.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **GVG 1877 (RGBl. 1877, 41)**: Gerichtsverfassungsgesetz, Grundlage ordentliche Gerichtsbarkeit
+- **GG Art. 97**: Richterliche Unabhaengigkeit und Unabsetzbarkeit
+- **DRiG 1961 (BGBl. I 1961, 713)**: Richterdienstrecht, Ernennung, Versetzung
+- **GVG §§ 30-70**: Richter und Praesidium als moderne Fassung
+- **NS-Richterbriefe 1942-1944**: Lenkung der Richter durch Reichsjustizminister
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Reichsgerichtspraesident Wilhelm Canaris** und weitere RG-Praeesidenten
+- **Roland Freisler** (1893-1945): Volksgerichtshof als Gegenbild richterlicher Unabhaengigkeit
+- **Deutscher Richterbund**: Berufsverband der Richter
+- **BVerfG**: Hueter der richterlichen Unabhaengigkeit
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Art. 97 GG: Sind Richterkandidaten tatsaechlich unabhaengig von Parteieinfluss?
+2. Schoeffen und Laienrichter: Sinnvolle Demokratisierung oder Dilettantismus?
+3. NS-Richterlenkung: Wie wirkte das System in der Praxis?
+4. Richterbesoldung: Gefaehrdet fiskalischer Druck richterliche Unabhaengigkeit?
+5. Befoerderungswesen: Schadet die Haengigkeit von Beurteilers der Unabhaengigkeit?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- GVG: gesetze-im-internet.de
+- DRiG: gesetze-im-internet.de
+- GG Art. 97: gesetze-im-internet.de; BVerfGE zur richterlichen Unabhaengigkeit: bverfg.de
+- NS-Richterbriefe: Bundesarchiv Berlin (Bestand R 3001, Reichsjustizministerium)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Entwicklung des Richterbilds: Schoeffe, Berufsrichter, NS-Richterlenkung, GG-Richter
+- Art. 97 GG: Inhalt und BVerfGE-Auslegung
+- DRiG: Richterdienstrecht im Ueberblick
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+GVG und DRiG: gesetze-im-internet.de. GG Art. 97: gesetze-im-internet.de. BVerfGE: bverfg.de. NS-Richterbriefe: Bundesarchiv Berlin (R 3001).

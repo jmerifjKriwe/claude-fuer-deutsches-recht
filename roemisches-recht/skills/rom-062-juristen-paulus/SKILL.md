@@ -1,50 +1,54 @@
 ---
 name: rom-062-juristen-paulus
-description: "Römisches Recht: Juristen Paulus. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Iulius Paulus (um 170-230 n.Chr.) - zweitproduktivster Klassiker, Sententiae (Vulgarrecht), Ad edictum, ca. 17% der Digesten, Quellen und historisch-kritische Einordnung."
 ---
 
-# Juristen Paulus
+# Jurist: Iulius Paulus
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Juristen Paulus** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Iulius Paulus ist nach Ulpian der am häufigsten zitierte Jurist in den Digesten. Sein Werk umfasst über 300 libri (Ad edictum: 80 Bücher, Ad Sabinum: 16 Bücher, Sententiae, Quaestiones, Responsa). Die Pauli Sententiae sind ein einflussreiches Vulgar-Handbuch (3./4. Jh.), das stark in das westliche Vulgärrecht einging. Paulus war Mitglied des kaiserlichen Consiliums.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 50.17.1 (Paulus)**: Regula iuris - Definition
+- **D. 18.1.1 (Paulus)**: Ursprung des Kaufs
+- **D. 41.1.31 (Paulus)**: Iusta causa der traditio
+- **D. 44.7.3 (Paulus)**: Obligationsdefinition
+- **Lenel Palingenesia I**: Paulus-Fragmente
+- **Pauli Sententiae**: Vulgar-Handbuch (FIRA vol. II)
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- Ad edictum: 80-Bücher-Ediktskommentar
+- Sententiae: populäres Handbuch (3./4. Jh.)
+- Quaestiones und Responsa: Kasuistiksammlungen
+- Consilium principis: Mitglied
+- ca. 17% der Digesten: aus Paulus-Werken
+- Pauli Sententiae: stark in lex Romana Wisigothorum
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Pauli Sententiae: Original oder pseudepigraPHI nach Paulus' Tod?
+2. Verhältnis Paulus - Ulpian: Zeitgenossenschaft, inhaltliche Unterschiede
+3. Paulus als Systematiker oder Kasuist?
+4. Interpolationen in Paulus-Texten
+5. Einfluss der Sententiae auf das westgotische Recht
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Lenel Palingenesia I (Paulus, archive.org)
+- Pauli Sententiae: FIRA vol. II (archive.org)
+- D. 1.2.2 zu Paulus' Stellung
+- Kunkel Herkunft der röm. Juristen; Liebs Paulus
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Werkübersicht Paulus
+- Memo zu Sententiae und ihrem Einfluss
+- Digestenanteil-Analyse
+- Stilvergleich Paulus vs. Ulpian
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Lenel Palingenesia I (archive.org). Pauli Sententiae: FIRA vol. II (archive.org). D. 50.17 (Mommsen-Krüger).

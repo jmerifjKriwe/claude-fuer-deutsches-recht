@@ -1,50 +1,52 @@
 ---
 name: ihl-084-sanctions-clause-drafting
-description: "Internationales Handelsrecht und Lex Mercatoria: Sanctions Clause Drafting. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Sanktionsklauseln in internationalen Verträgen. Force-Majeure-Abgrenzung, Kündigungsrecht bei Sanktionierung einer Partei, OFAC-Compliance-Klauseln, EU-Blocking-Statute-Konflikt und Formulierungsempfehlungen."
 ---
 
-# Sanctions Clause Drafting
+# Sanktionsklauseln in internationalen Verträgen
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Sanctions Clause Drafting** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Sanktionsklauseln erlauben die Vertragsbeendigung oder Zahlungsverweigerung wenn eine Partei, ein Dritter oder eine Transaktion unter Sanktionen fällt. Sie müssen mit dem EU Blocking Statute (VO 2271/96) kompatibel sein. Schlecht formulierte Klauseln können OFAC-Compliance und EU-Blocking-Statute gleichzeitig verletzen.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **EU Blocking Statute VO (EG) 2271/96 Art. 5**: Verbot der Befolgung bestimmter US/UK-Sanktionen durch EU-Unternehmen
+- **OFAC SDN-Liste / Sectoral Sanctions**: Grundlage für OFAC-Compliance-Klausel
+- **VO (EU) 2024/1485 (Russland)**: aktuelles EU-Sanktionspaket — Verbote und Ausnahmen
+- **UCP 600 Art. 37 lit. c**: Akkreditiv-Sanktionsklausel — Keine Verpflichtung bei Sanktionsverletzung
+- **ICC Force Majeure Clause 2020**: FM-Klausel mit Sanktionsergänzung
+- **ISDA Sanctions Addendum**: Sanktionsregelungen für Derivatverträge
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Grandfathering: laufende Verträge bei Sanktionseinführung — Übergangsregelung
+- Wind-Down Period: OFAC-Lizenz für befristeten Transaktionsabbau
+- Termination for Compliance: Kündigungsrecht wenn Erfüllung Sanktionsrecht verletzt
+- Blocking Statute-Konflikt: EU-Unternehmen kann nicht OFAC und EU-Recht gleichzeitig befolgen
+- Sanctions Screening Obligation: Pflicht zur Überprüfung von Vertragspartnern
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Käufer wird nach Vertragsschluss in SDN-Liste aufgenommen: Gilt Sanktionsklausel als FM?
+2. Blocking Statute: EU-Unternehmen erhält Compliance-Anfrage von US-Muttergesellschaft — was tun?
+3. Wind-Down: OFAC-Lizenz für 90-Tage-Wind-Down — reicht das für Langzeitvertrag?
+4. UCP 600 Art. 37 lit. c: Bank verweigert unter Akkreditiv wegen Sanktionen — zu Recht?
+5. ISDA Sanctions Addendum: Gilt es automatisch oder nur nach Opt-in?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Sanktionsklausel-Design: (1) Definieren welche Sanktionen, (2) Suspendierung vs. Kündigung, (3) Blocking Statute-Ausnahme für EU-Parteien
+- Wind-Down: OFAC-Lizenz-Prozess parallel starten wenn Sanktionseinführung droht
+- Blocking Statute: Bericht an Bundesministerium für Wirtschaft + Geschäftsführungsverpflichtung
+- Screening: SDN-Screening-Klausel als Vertragsbestandteil; Frequenz definieren
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Sanktionsklausel-Muster (OFAC-kompatibel mit EU-Blocking-Statute-Carve-out)
+- Blocking-Statute-Konflikt-Handlungsschema
+- OFAC-Wind-Down-Lizenz-Antragsprozess
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+EU Blocking Statute VO 2271/96 i.d.F. 2018/1100: eur-lex.europa.eu. OFAC: home.treasury.gov. EU-Sanktionsliste: eur-lex.europa.eu. UCP 600: iccwbo.org. Unsicherheit bleibt sichtbar.

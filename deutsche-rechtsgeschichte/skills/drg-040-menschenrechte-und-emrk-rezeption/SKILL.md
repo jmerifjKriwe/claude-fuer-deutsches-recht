@@ -1,50 +1,50 @@
 ---
 name: drg-040-menschenrechte-und-emrk-rezeption
-description: "Deutsche Rechtsgeschichte: Menschenrechte Und Emrk Rezeption. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Menschenrechte und EMRK-Rezeption in Deutschland. Ratifikation EMRK 1952, EGMR-Rechtsprechung, Caroline-Urteil, Goerguelue-Entscheidung und Verhaeltnis GG-Grundrechte zu EMRK."
 ---
 
-# Menschenrechte Und Emrk Rezeption
+# Menschenrechte und EMRK-Rezeption
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Menschenrechte Und Emrk Rezeption** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Deutschland ratifizierte die Europaeische Menschenrechtskonvention (EMRK) am 5. Dezember 1952 (BGBl. II 1952, 685). Seitdem ist die EMRK im Rang eines Bundesgesetzes (BVerfGE 74, 358: Rang unter GG). Das BVerfG entwickelte das Gebot der voelkerrechtsfreundlichen Auslegung: Deutsche Grundrechte sind im Lichte der EMRK und der EGMR-Rechtsprechung auszulegen. Schluesselfaelle: Caroline v. Monaco (EGMR 2004, Pressefreiheit vs. Persoenlichkeitsrecht), Goerguelue v. Germany (BVerfGE 111, 307, 2004, Pflicht zur Beruecksichtigung von EGMR-Urteilen). Die Rangfrage EMRK vs. GG ist noch nicht abschliessend geklart.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **EMRK (BGBl. II 1952, 685)**: Grundlage der EGMR-Zustaendigkeit
+- **GG Art. 25**: Voelkergewohnheitsrecht im Rang von Bundesrecht
+- **BVerfGE 74, 358** (1987): EMRK als einfaches Bundesrecht
+- **BVerfGE 111, 307** (2004, Goerguelue): Pflicht zur Beruecksichtigung von EGMR-Entscheidungen
+- **BVerfGE 128, 326** (2011): Abschied von BVerfGE 74, 358 teilweise
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **EGMR Strassburg**: Beschwerdeinstanz nach Erschoepfung des Rechtswegs
+- **BVerfG**: Auslegung des Verhaeltnisses GG-EMRK
+- **Caroline von Hannover**: Klaegerin in EGMR-Pressefreiheitsfall 2004
+- **Bundesregierung**: Voelkerrechtliche Verpflichtungen aus EMRK
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Rang der EMRK: Unter dem GG oder integraler Bestandteil des Verfassungsrechts?
+2. BVerfGE 111, 307: Muss jedes deutsche Gericht EGMR-Urteile beruecksichtigen?
+3. Caroline-Urteil EGMR: Hat der EGMR das deutsche Abwaegungsrecht zu Pressefreiheit korrigiert?
+4. EMRK und Asylrecht: Welche Bedeutung hatte die EMRK fuer Abschiebungsschutz?
+5. Verhaeltnis EGMR und EuGH: Zwei europaeische Menschenrechtsinstanzen?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- EMRK: BGBl. II 1952, 685; Volltext: convention.coe.int
+- EGMR-Urteile: hudoc.echr.coe.int fuer vollstaendige Entscheidungen
+- BVerfGE: bverfg.de
+- GG Art. 25: gesetze-im-internet.de
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Rang-Schema EMRK im deutschen Recht: BVerfGE-Entwicklung
+- EGMR-Kernfaelle Deutschland: Caroline, Goerguelue, Schimanek
+- Pflicht zur Beruecksichtigung: Was bedeutet BVerfGE 111, 307 in der Praxis?
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+EMRK: convention.coe.int und BGBl. II 1952, 685. EGMR: hudoc.echr.coe.int. BVerfGE: bverfg.de. GG: gesetze-im-internet.de.

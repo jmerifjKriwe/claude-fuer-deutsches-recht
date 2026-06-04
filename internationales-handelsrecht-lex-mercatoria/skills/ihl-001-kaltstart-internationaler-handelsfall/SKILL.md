@@ -1,50 +1,52 @@
 ---
 name: ihl-001-kaltstart-internationaler-handelsfall
-description: "Internationales Handelsrecht und Lex Mercatoria: Kaltstart Internationaler Handelsfall. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Einstieg in grenzüberschreitende Handelsfälle. CISG Art. 1-13 Anwendungsbereich, Incoterms 2020 Risikoübergang, ICC-Schiedsklausel und Rom I-Rechtswahl als Erstdiagnose-Rahmen für internationale Kaufverträge."
 ---
 
-# Kaltstart Internationaler Handelsfall
+# Kaltstart: Internationaler Handelsfall
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Kaltstart Internationaler Handelsfall** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Beim Einstieg in einen internationalen Handelsfall müssen Rechtsordnung, anwendbares Einheitsrecht und Trade-Usage rasch identifiziert werden. Das CISG gilt kraft Vertragsstaatenrecht automatisch (Art. 1 CISG) und kann nur explizit ausgeschlossen werden (Art. 6 CISG). Incoterms-Klauseln regeln Gefahr- und Kostenübergang, ersetzen aber kein Vertragsstatut.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CISG Art. 1**: Anwendung bei Niederlassungen in verschiedenen Vertragsstaaten oder IPR-Verweis
+- **CISG Art. 6**: Parteiautonomie — Ausschluss oder Abweichung vom CISG
+- **Rom I VO (EG) 593/2008 Art. 3**: Rechtswahl; Art. 4 subsidiäres Statut
+- **Brüssel Ia VO (EU) 1215/2012**: Gerichtsstand; Art. 25 Gerichtsstandsvereinbarung
+- **Incoterms 2020**: EXW, FCA, FOB, CIF — ICC-Publikation 2019
+- **UNIDROIT Principles 2016 Art. 1.1**: Vertragsfreiheit als lex-mercatoria-Basis
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Niederlassungsprinzip (CISG Art. 1 Abs. 1 lit. a vs. lit. b)
+- Opting-out vs. opting-in CISG
+- Anknüpfungsmoment bei mehreren Niederlassungen (CISG Art. 10)
+- Rechtswahl-Timing (Pre-dispute vs. Post-dispute)
+- Trade Usage (CISG Art. 9)
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Gilt CISG, obwohl Vertrag deutsches Recht wählt? (Nein, wenn Ausschluss klar — BGH VIII ZR 304/00)
+2. Welche Incoterms-Klausel passt zu Containerware vs. Bulk-Ware?
+3. Wo ist der Erfüllungsort bei CIF-Klausel für Brüssel-Ia-Zwecke?
+4. Wie interagiert CISG-Schadensersatz (Art. 74-77) mit Liquidated-Damages-Klausel?
+5. Welche Sprache gilt bei Vertrag mit englischem und chinesischem Text?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Erst Niederlassungen der Parteien klären → CISG-Anwendbarkeit nach Art. 1
+- Dann Rechtswahl und CISG-Ausschluss prüfen
+- Incoterms-Klausel als Kostentrenner, nicht als Eigentumsübertragungsregel lesen
+- ICC-Schiedsklausel auf Konnexität zur Rechtswahl prüfen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Checkliste: CISG ja/nein, Incoterms-Variante, Schiedsvs. Staatsgericht
+- Kurzdiagnose der drei größten Risikopunkte
+- Entwurf Rechtswahl- und Schiedsklausel
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Primärquellen: uncitral.un.org (CISG-Text), unidroit.org (UNIDROIT Principles), iccwbo.org (Incoterms 2020). Rechtsprechung: CISG-online.ch (Universität Basel), jusmundi.com. Unsicherheit bleibt sichtbar.

@@ -1,50 +1,54 @@
 ---
 name: rom-090-abschlussmemo-romanistische-tragfaehigkeit
-description: "Römisches Recht: Abschlussmemo Romanistische Tragfaehigkeit. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Abschlussmemo zur romanistischen Tragfähigkeit - Methodenreflexion, Quellenvalidierung, Epochenzuordnung, Interpolationsvorbehalt, Unterschied hist. Aussage und normative Aussage."
 ---
 
-# Abschlussmemo Romanistische Tragfaehigkeit
+# Abschlussmemo: Romanistische Tragfähigkeit
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Abschlussmemo Romanistische Tragfaehigkeit** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Abschlussmemo zur romanistischen Tragfähigkeit fasst die Ergebnisse einer romanistischen Analyse zusammen und bewertet ihre Belastbarkeit: Quellen korrekt zitiert? Epochen beachtet? Interpolationen markiert? Rechtssatz von seiner historischen Kontextualisierung getrennt? Unterschied zwischen historischer Aussage (damals galt X) und normativer Aussage (X gilt heute)? Das Memo ist Qualitätssicherung für Hausarbeiten, Gutachten und Unterricht.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 1.1.1 pr. (Ulpian)**: Einstieg - Zitat korrekt?
+- **D. 50.17.1 (Paulus)**: Regula-Warnung
+- **Const. Tanta pr. (533 n.Chr.)**: Promulgation und Autorität
+- **Lenel Palingenesia**: Originalkontext prüfen
+- **Mommsen-Krüger CIC**: Standardedition (archive.org)
+- **Kaser RP I**: Standardsekundärliteratur
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- Quellenvalidierung: Fundstelle in CIC prüfen
+- Epochenzuordnung: Vorklassik/Klassik/Nachklassik/Justinian
+- Interpolationsvorbehalt: justinianische Änderungen
+- hist. vs. normative Aussage: trennen
+- Rezeptionsschicht: Pandektistik, usus modernus
+- Stärke der Aussage: sicher - wahrscheinlich - vermutet - spekulativ
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Grenzen der Quellenkenntnis: Welche Fragen sind unentscheidbar?
+2. Unsicherheiten transparent machen: methodische Pflicht
+3. Abschlussmemo als didaktisches Format
+4. Unterschied Hausarbeit - Gutachten - Unterricht
+5. Wie viel Quellenunsicherheit ist für Unterrichtsnutzung akzeptabel?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- CIC: Mommsen-Krüger (archive.org) als Basistext
+- Lenel Palingenesia für Originalkontext
+- Kaser RP I-II für Sekundäreinordnung
+- Checkliste: Quelle - Autor - Epoche - Interpolation - Rezeption
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Abschlussmemo-Template
+- Qualitätskriterienliste für romanistische Analyse
+- Stärke-Skala für Quellenaussagen
+- Leitfaden für Hausarbeiten und Seminare
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CIC: Mommsen-Krüger (archive.org). Lenel Palingenesia (archive.org). Kaser RP I-II. Quellenvalidierung explizit dokumentieren.

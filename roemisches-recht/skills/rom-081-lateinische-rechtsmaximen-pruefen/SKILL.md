@@ -1,50 +1,54 @@
 ---
 name: rom-081-lateinische-rechtsmaximen-pruefen
-description: "Römisches Recht: Lateinische Rechtsmaximen Pruefen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Lateinische Rechtsmaximen prüfen - D. 50.17 (De diversis regulis iuris antiqui), Liebs Lateinische Rechtsregeln, Herkunft, korrekte Zitation und Grenzen der Maximen."
 ---
 
-# Lateinische Rechtsmaximen Pruefen
+# Lateinische Rechtsmaximen prüfen
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Lateinische Rechtsmaximen Pruefen** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+D. 50.17 (De diversis regulis iuris antiqui) enthält 211 klassische Rechtsmaximen. Liebs Lateinische Rechtsregeln (7. Aufl. 2007) dokumentiert ca. 1200 Maximen mit Herkunftsnachweisen. Viele im Umlauf gebrachte Maximen sind verkürzt, aus dem Kontext gerissen oder gar nicht aus dem CIC. Prüfaufgabe: Maxime identifizieren, Originaltext nachweisen, Kontext klären und Grenzen benennen.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 50.17**: De diversis regulis iuris antiqui (211 regulae)
+- **D. 50.17.1 (Paulus)**: Regula iuris als vereinfachter Satz
+- **D. 50.17.55 (Gaius)**: Nemo plus iuris...
+- **D. 50.17.185 (Paulus)**: Ubi lex non distinguit nec nos distinguere debemus
+- **Liebs, Lateinische Rechtsregeln (2007)**: Standardwerk
+- **D. 50.16 (De verborum significatione)**: Definitionen
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- D. 50.17: Kanonischer Maximen-Titel
+- Liebs: Alphabetisches Verzeichnis mit Herkunft
+- regula iuris: vereinfachender Rechtssatz (nicht Norm)
+- paroemia: sprichwörtliche Rechtsregel
+- In dubio pro reo: nicht aus D. 50.17 (strafrechtlich)
+- Nemo plus iuris: D. 50.17.54 (Ulpian)
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Maximen als Rechtsquellen oder Hilfsmittel der Auslegung?
+2. Verbreitung von Phantommaximen: Identifikation und Widerlegung
+3. Verkürzungsverlusten: Kontext der Maxime in D. 50.17
+4. Lateinische Maximen in der Gegenwartspraxis: Gerichte zitieren sie
+5. Verhältnis Maximen - Kodifikation: BGB hat Maximen absorbiert
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 50.17 als Primärtext (Mommsen-Krüger, archive.org)
+- Liebs Lateinische Rechtsregeln (7. Aufl. 2007) als Standardwerk
+- D. 50.16 für Definitionen
+- Berger Encyclopedic Dictionary of Roman Law für weitere Quellen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Prüfschema für Maximen
+- Quellenverifikation: Nachweis in D. 50.17 oder Liebs
+- Kontextanalyse ausgewählter Maximen
+- Liste häufiger Phantommaximen
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 50.17; D. 50.16 (Mommsen-Krüger, archive.org). Liebs Lateinische Rechtsregeln (2007). Berger Encyclopedic Dictionary.

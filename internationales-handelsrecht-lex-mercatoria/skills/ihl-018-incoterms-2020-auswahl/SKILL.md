@@ -1,50 +1,52 @@
 ---
 name: ihl-018-incoterms-2020-auswahl
-description: "Internationales Handelsrecht und Lex Mercatoria: Incoterms 2020 Auswahl. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Incoterms 2020 Klauselauswahl. Systematik der elf Klauseln (Gruppe E/F/C/D), Eignung für Containerverkehr vs. konventionellen Seehandel, FCA mit Konnossementsabrede und Auswahlkriterien für Exporte und Importe."
 ---
 
-# Incoterms 2020 Auswahl
+# Incoterms 2020: Klauselauswahl und Systematik
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Incoterms 2020 Auswahl** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Incoterms 2020 (ICC-Publikation 2019, in Kraft 1. Januar 2020) regeln Risikoübergang, Kostentragung und Dokumentenpflichten im internationalen Warenkauf. Die elf Klauseln sind nach Transport-Universalität und Gefahrübergangszeitpunkt gegliedert. Neu in 2020: FCA mit Konnossementsabrede und höhere Versicherungsanforderungen bei CIP.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Incoterms 2020 EXW**: Ex Works — Gefahrübergang ab Werk; minimal Verkäuferpflichten
+- **Incoterms 2020 FCA**: Free Carrier — Gefahrübergang nach Übergabe an Frachtführer; neu: Konnossementsabrede
+- **Incoterms 2020 CIF**: Cost Insurance Freight — nur für konventionelle Seefracht, nicht Container
+- **Incoterms 2020 CIP**: Carriage and Insurance Paid — universell; neu: Institute Cargo Clauses (A)-Versicherung
+- **Incoterms 2020 DDP**: Delivered Duty Paid — maximale Verkäuferpflichten
+- **ICC-Publikation Nr. 2020**: Erläuterungen und Guidance Notes
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Seeklauseln (FAS, FOB, CFR, CIF) vs. Universalklauseln (FCA, CPT, CIP, EXW, DAP, DPU, DDP)
+- Gefahrübergang vs. Eigentumsübergang (Incoterms regeln nur Gefahr, nicht Eigentum)
+- Named Place of Delivery: möglichst spezifischer Ort (Terminal, Lager)
+- FCA-Konnossementsabrede: Verkäufer erhält On-Board-Konnossement nach Containerübergabe
+- Versicherungspflicht: CIF (Institute Cargo Clauses C, Mindestdeckung) vs. CIP (Klausel A)
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. FOB Container: Warum ist FOB für Containerware ungeeignet (Gefahrübergang am Kai — vor Verladung)?
+2. FCA mit Konnossementsabrede: Wie funktioniert die Abrede mit der Reederei in der Praxis?
+3. DDP und Mehrwertsteuer: Muss Verkäufer USt. im Importland bezahlen?
+4. CIF vs. CIP: Wann welche Klausel bei See- vs. Multimodaltransport?
+5. EXW und Exportkontrolle: Kann Verkäufer Exportformalitäten an Käufer delegieren?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Klauselwahl nach Transportmodus: Container → FCA/CPT/CIP/DAP; Bulk-See → FOB/CFR/CIF
+- Named Place immer spezifisch (Terminal-Name, nicht nur "Hamburg")
+- Versicherungscheck: CIF Mindestdeckung (Klausel C) oft unzureichend
+- EXW-Risiko für Verkäufer: Exportkontrolle liegt beim Käufer — Compliance-Lücke
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Incoterms 2020 Auswahlmatrix (11 Klauseln × Transportmodus × Risikoposition)
+- FCA-Konnossementsabrede-Muster
+- Checkliste Named Place
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Incoterms 2020: iccwbo.org (Publikation Nr. 2020). ICC Guidance Notes 2020: iccwbo.org. Schrifttum: Ramberg, ICC Guide to Incoterms 2020 (2019). Unsicherheit bleibt sichtbar.

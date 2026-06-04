@@ -1,50 +1,52 @@
 ---
 name: ihl-072-termination-crossborder
-description: "Internationales Handelsrecht und Lex Mercatoria: Termination Crossborder. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Vertragsbeendigung im grenzüberschreitenden Handel. CISG Art. 26 / 49 / 64 Aufhebungserklärung, PICC Art. 7.3.1-7.3.6 Kündigungsrecht, Rückabwicklung und cross-border Durchsetzung."
 ---
 
-# Termination Crossborder
+# Vertragsbeendigung International
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Termination Crossborder** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Vertragsaufhebung nach CISG (Art. 26, 49, 64) setzt wesentliche Verletzung oder fruchtlose Nachfrist voraus. PICC Art. 7.3.1 gibt ähnliche Regelungen. Die Rechtsfolgen der Aufhebung (Rückabwicklung, Schadensersatz) sind in Art. 81-84 CISG geregelt. Cross-Border-Durchsetzung von Rückabwicklungsansprüchen ist komplex.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CISG Art. 26**: Aufhebungserklärung — formfrei, unverzüglich
+- **CISG Art. 49**: Aufhebungsrecht des Käufers (wesentliche Verletzung + Fristablauf)
+- **CISG Art. 64**: Aufhebungsrecht des Verkäufers
+- **CISG Art. 81**: Rechtsfolgen — Befreiung von Pflichten, Rückabwicklung
+- **CISG Art. 82-84**: Rückgabepflicht; Wertausgleich; Früchte und Zinsen
+- **PICC Art. 7.3.1-7.3.6**: Termination — Grundsätze und Folgen
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Aufhebungserklärung (Art. 26 CISG): Zugang beim Vertragspartner erforderlich
+- Rückabwicklung: Naturalrestitution beider Parteien (Art. 81 Abs. 2 CISG)
+- Wertausgleich (Art. 84 CISG): Zinsen auf zurückzuerstattende Gelder
+- Verlust Aufhebungsrecht (Art. 82 CISG): Käufer kann Ware nicht zurückgeben (Unmöglichkeit)
+- Partial Avoidance (Art. 51 CISG): Aufhebung nur für mangelhaften Teil möglich
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Aufhebungserklärung per E-Mail: Zugang wann wirksam nach CISG Art. 26/24?
+2. Käufer hat Ware weitverarbeitet: Aufhebungsrecht nach Art. 82 verloren?
+3. Rückabwicklung über Grenzen: Ware in China, Käufer in DE — Rücktransportpflicht?
+4. Art. 84 Zinsen: Wann beginnen Zinsen auf zurückzuerstattenden Kaufpreis zu laufen?
+5. Schadensersatz trotz Aufhebung: Können Art. 49/74 kombiniert werden?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Aufhebungserklärung: unverzüglich nach Kenntnis der Verletzung; klar und eindeutig
+- Rückabwicklungs-Logistik: Rücktransportkosten vorab klären (wer trägt?)
+- Zinsen: ab Zahlung des Kaufpreises rückwirkend (Art. 84 CISG)
+- Dokumentation: Aufhebungsgrund, Datum der Kenntnis, Erklärung alles schriftlich
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Aufhebungs-Checkliste (Zeitstrahl: Verletzung → Erklärung → Rückabwicklung)
+- Rückabwicklungs-Logistik-Muster
+- Schadensersatz-Aufhebungs-Kombinations-Schema
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG Art. 26, 49, 64, 81-84: uncitral.un.org. PICC Art. 7.3.1: unidroit.org. Schrifttum: Schlechtriem/Schwenzer (2019) Art. 81-84. Unsicherheit bleibt sichtbar.

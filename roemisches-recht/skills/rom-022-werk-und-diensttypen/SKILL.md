@@ -1,50 +1,53 @@
 ---
 name: rom-022-werk-und-diensttypen
-description: "Römisches Recht: Werk Und Diensttypen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Locatio conductio operis (Werkvertrag) und operarum (Dienstvertrag) nach D. 19.2.22 - Abgrenzung opus/operae, Haftung des Werkunternehmers (culpa/custodia) und redemptores."
 ---
 
-# Werk Und Diensttypen
+# Werk- und Diensttypen in der locatio conductio
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Werk Und Diensttypen** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Im Rahmen der locatio conductio unterscheidet das römische Recht zwischen Arbeitsergebnis (opus) und bloßer Arbeitsleistung (operae). Die locatio conductio operis verpflichtet zur Herstellung eines bestimmten Ergebnisses (opus perfectum); Haftung des Unternehmers nach Maßgabe der culpa levis. Die locatio conductio operarum dient der Verdingung von Arbeit, typischerweise durch sozial Niedriggestellte.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 19.2.22 pr. (Paulus)**: Haftung des Werkunternehmers (culpa)
+- **D. 19.2.25.7 (Gaius)**: Abgrenzung opus - operae
+- **D. 19.2.13 pr. (Ulpian)**: Gefahrtragung beim Werkvertrag
+- **D. 19.2.30 pr. (Pomponius)**: Haftung für Werkgehilfen
+- **D. 9.2.27.29 (Ulpian)**: Haftung des Schifffrachtführers (exercitor navis)
+- **Iust. Inst. 3.24.5**: Werk als Unterfall der locatio conductio
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- opus: bestimmtes Arbeitsergebnis/Werk
+- operae: bloße Arbeitsleistung
+- redemptor operis: Unternehmer, der Werk übernimmt
+- opus perfectum: vollendetes Werk als Abnahmeobjekt
+- custodia: erhöhte Haftung bestimmter Werkunternehmer (Schifffahrt, Gastwirte)
+- nauta, caupo, stabularius: Sonderhaftungsregime D. 4.9
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Haftungsmaßstab beim Werkunternehmer: culpa oder custodia?
+2. Gefahrtragung beim opus: vor oder nach Abnahme?
+3. Sonderhaftung nauta/caupo/stabularius (Rezeptumhaftung) - D. 4.9.1
+4. Verhältnis Werkunternehmer-Gehilfe: Haftung für Dritte
+5. Vergleich: röm. locatio operis vs. BGB § 631 (Werkvertrag)
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 19.2 (Locati conducti) mit Fokus auf §§ 22-30
+- D. 4.9 (Nautae, caupones, stabularii) für Rezeptumhaftung
+- Kaser RP I §§ 210-215; Zimmermann Law of Obligations Kap. 14
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: opus vs. operae mit Rechtsfolgen
+- Haftungsübersicht nach Unternehmenstyp
+- Memo zur Rezeptumhaftung
+- Vergleich: röm. Werkvertrag vs. BGB § 631
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 19.2; D. 4.9 (Mommsen-Krüger). Gaius Inst. 3. Kaser RP I. Zimmermann Law of Obligations.

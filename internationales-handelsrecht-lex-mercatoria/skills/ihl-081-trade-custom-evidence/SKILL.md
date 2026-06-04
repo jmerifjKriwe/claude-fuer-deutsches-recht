@@ -1,50 +1,52 @@
 ---
 name: ihl-081-trade-custom-evidence
-description: "Internationales Handelsrecht und Lex Mercatoria: Trade Custom Evidence. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Handelsbräuche und ihr Beweis im Schiedsverfahren. CISG Art. 9 (Gepflogenheiten und Bräuche), PICC Art. 1.9, IBA Rules Art. 3 Dokumentenproduktion, Expertenzeugen für Trade Usage und CENTRAL-Datenbank trans-lex.org."
 ---
 
-# Trade Custom Evidence
+# Handelsbräuche: Nachweis und Evidenz
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Trade Custom Evidence** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Handelsbräuche (Trade Usages) können nach CISG Art. 9 Abs. 2 Vertragsinhalt werden wenn sie international weitverbreitet und den Parteien bekannt oder erkennbar waren. Der Beweis erfordert Dokumentation: Branchenverbands-Regelwerke, Zeugenaussagen, Sachverständige. CENTRAL (trans-lex.org) dokumentiert schiedsgerichtlich anerkannte Handelsprinzipien.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CISG Art. 9 Abs. 1**: Parteilicher Brauch — Gepflogenheiten der Parteien bindend
+- **CISG Art. 9 Abs. 2**: Objektiver Handelsbrauch — weitverbreitet, bekannt, regelmäßig beachtet
+- **PICC Art. 1.9**: Trade Usage — ähnlich CISG Art. 9
+- **IBA Rules Art. 3 Abs. 13**: Tribunal kann Trade Expert ernennen
+- **CENTRAL trans-lex.org**: Transnational Law Database — schiedsgerichtlich anerkannte Prinzipien
+- **jusmundi.com**: Schiedsspruch-Datenbank für Trade-Usage-Belege
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Trade Usage: faktisch bestehende Praxis einer Branche (nicht Partei-spezifisch)
+- Course of Dealing (Art. 9 Abs. 1): Praxis der konkreten Parteien aus früheren Verträgen
+- Bekannte oder erkennbare Usance: Maßstab der vernünftigen Person in der Branche
+- Widerlegbarkeit: Partei kann branchenfremde Unkenntnis nachweisen
+- INCOTERMS als Handelsbrauch?: Str. — INCOTERMS müssen einbezogen werden (ICC-Klausel)
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Rohstoffhandel: Ist GAFTA-Schiedsklausel ohne explizite Einbeziehung branchenüblich (Art. 9)?
+2. Payment Terms: "Net 30" als Handelsbrauch im B2B-Handel global?
+3. CENTRAL: Welche Prinzipien sind in Schiedssprüchen als lex mercatoria anerkannt?
+4. Zeuge für Trade Usage: Welche Qualifikation muss Trade-Usage-Experte haben?
+5. Course of Dealing vs. Trade Usage: Wenn früherer Vertrag abweichende Praxis zeigt — überlagert das allg. Handelsbrauch?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Trade Usage beweisen: Branchenverbands-Regeln + Expertengutachten + Schiedssprüche
+- CENTRAL: trans-lex.org für Prinzipien-Recherche mit Schiedsreferenzen
+- Gegenpartei-Argument: Unkenntnis des Brauchs belegen (Ausnahme Art. 9 Abs. 2)
+- Course of Dealing: Dokumentation früherer Verträge als Beweismittel
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Trade-Usage-Beweismatrix (Beweismitteltypen und Wert)
+- CENTRAL-Top-20-Prinzipien-Übersicht
+- Expert-Witness-Brief für Trade Usage
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG Art. 9: uncitral.un.org. PICC Art. 1.9: unidroit.org. CENTRAL: trans-lex.org. jusmundi.com (Schiedssprüche). IBA Rules 2020: ibanet.org. Unsicherheit bleibt sichtbar.

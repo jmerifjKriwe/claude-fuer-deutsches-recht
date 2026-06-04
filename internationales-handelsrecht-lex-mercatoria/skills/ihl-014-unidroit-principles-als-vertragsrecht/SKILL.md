@@ -1,50 +1,52 @@
 ---
 name: ihl-014-unidroit-principles-als-vertragsrecht
-description: "Internationales Handelsrecht und Lex Mercatoria: Unidroit Principles Als Vertragsrecht. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: UNIDROIT Principles of International Commercial Contracts 2016. Anwendungsfälle nach der Präambel, Art. 1.1 Vertragsfreiheit, Art. 1.7 Treu und Glauben, Art. 1.8 Widerspruchsverbot und Verhältnis zu CISG und nationalem Recht."
 ---
 
-# Unidroit Principles Als Vertragsrecht
+# UNIDROIT Principles 2016 als Vertragsrecht
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Unidroit Principles Als Vertragsrecht** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die UNIDROIT Principles of International Commercial Contracts (PICC), zuletzt revidiert 2016, sind ein Soft-Law-Instrument für internationale Kaufverträge. Sie können als Vertragsinhalt gewählt werden, dienen zur Auslegung und Ergänzung internationaler Instrumente und kommen bei fehlendem Konsens über das nationale Recht zur Anwendung. Die 2016-Version ergänzt Kapitel zu Abtretung, Aufrechnung und Verjährung.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Präambel PICC 2016**: Anwendungsfälle — Parteivereinbarung, allgemeine Grundsätze, Auslegung
+- **Art. 1.1 PICC**: Vertragsfreiheit — umfassend, inkl. Vertragsform
+- **Art. 1.7 PICC**: Treu und Glauben und redlicher Geschäftsverkehr — zwingend
+- **Art. 1.8 PICC**: Venire contra factum proprium / Widerspruchsverbot
+- **Art. 1.9 PICC**: Handelsbräuche und Gepflogenheiten
+- **Art. 2.1.1-2.1.22 PICC**: Vertragsschluss (inkl. Art. 2.1.11 modifizierte Annahme)
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Soft Law (nicht bindend ohne Vereinbarung) vs. zwingendes Recht
+- Treu und Glauben (Art. 1.7): kann nicht abbedungen werden — stärkste Grundnorm
+- Parteigepflogenheiten vs. Handelsbräuche (Art. 1.9)
+- Ergänzungsfunktion: Lücken in CISG durch PICC füllen?
+- Neuheiten 2016: Kapitel 9 (Abtretung), Kapitel 10 (Verjährung), Kapitel 11 (Aufrechnung)
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Können Parteien PICC als Vertragsstatut i.S.d. Rom I wählen? (Nein — nur Inhalt)
+2. Schließt Art. 1.7 PICC Vertragsgestaltungen aus, die gegen Treu und Glauben verstoßen?
+3. Wie füllen PICC Lücken des CISG (z.B. Zinssatz Art. 78 CISG — Art. 7.4.9 PICC)?
+4. Art. 1.8 Widerspruchsverbot: Gilt es auch ohne explizite PICC-Wahl als Handelsbrauch?
+5. PICC 2016 Verjährungsregeln: Konflikt mit nationalen Verjährungsfristen?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- PICC stets mit Versionsjahr angeben (1994, 2004, 2010, 2016 — inhaltlich unterschiedlich)
+- Bei Lückenfüllung CISG/PICC: Erst CISG-intern, dann PICC (wenn als allg. Grundsätze anerkannt)
+- Art. 1.7 Treu und Glauben: Schiedsgerichte wenden ihn weitgehend an
+- CENTRAL-Datenbank für PICC-Referenzen in Schiedssprüchen: trans-lex.org
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- PICC-Anwendungs-Entscheidungsbaum
+- Vergleichstabelle PICC vs. CISG (Hauptunterschiede)
+- Klauselvorschlag: PICC als ergänzendes Recht
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+PICC 2016 Text: unidroit.org. CENTRAL: trans-lex.org. Schrifttum: Vogenauer/Kleinheisterkamp (Commentary on the UNIDROIT Principles, 2. Aufl. 2015). Unsicherheit bleibt sichtbar.

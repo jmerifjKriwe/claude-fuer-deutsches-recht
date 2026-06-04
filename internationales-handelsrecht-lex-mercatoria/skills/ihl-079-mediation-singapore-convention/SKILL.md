@@ -1,50 +1,52 @@
 ---
 name: ihl-079-mediation-singapore-convention
-description: "Internationales Handelsrecht und Lex Mercatoria: Mediation Singapore Convention. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Internationale Mediation und Singapur-Konvention 2019 (UN Convention on International Settlement Agreements). Vollstreckbarkeit von Mediationsvergleichen, Abgrenzung zu Schiedsvergleich und ICC Mediation Rules 2014."
 ---
 
-# Mediation Singapore Convention
+# Mediation und Singapur-Konvention 2019
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Mediation Singapore Convention** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Singapur-Konvention (UN Convention on International Settlement Agreements Resulting from Mediation, 2019, in Kraft 2020) ermöglicht die direkte Vollstreckung von Mediationsvergleichen in Vertragsstaaten — ähnlich wie die NY Convention für Schiedssprüche. Sie gilt für internationale kommerzielle Mediationsvergleiche (nicht Verbraucher, Arbeitsrecht, Erbrecht).
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Singapore Convention Art. 1**: Anwendungsbereich — internationaler kommerzieller Mediationsvergleich
+- **Singapore Convention Art. 4**: Anforderungen an Vollstreckungsantrag
+- **Singapore Convention Art. 5**: Versagungsgründe (Ähnlichkeit mit NY Convention)
+- **ICC Mediation Rules 2014**: Institutionelle Mediationsregeln; Med-Arb-Option
+- **EU-Mediationsrichtlinie 2008/52/EG**: EU-Rahmen für grenzüberschreitende Mediation
+- **MediationsG (D) 2012**: Deutsches Mediationsgesetz
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Settlement Agreement: schriftlicher Vergleich als Ergebnis der Mediation; von Mediator bezeugt
+- Vollstreckung ohne Exequatur: vereinfachtes Vollstreckungsverfahren in Konventionsstaaten
+- Med-Arb: Mediationsversuch gefolgt von Schiedsverfahren bei Scheitern
+- Versagungsgründe Art. 5: Einwilligung, Kapazität, Ordre public, Nichtigkeit
+- Parteien-Verschwiegenheit: Mediations-Vertraulichkeit vs. Vollstreckungsnachweis
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Welche Länder haben die Singapur-Konvention ratifiziert (Stand 2024)?
+2. Formvoraussetzungen: Reicht E-Mail-Korrespondenz als schriftlicher Mediationsvergleich?
+3. Med-Arb: Darf Mediator danach als Schiedsrichter tätig werden?
+4. EU-Mediationsrichtlinie vs. Singapur-Konvention: Wo liegt der Unterschied?
+5. Vollstreckbarkeit: Muss Settlement Agreement notariell beglaubigt sein?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Singapur-Konvention-Check: Konventionsstaat + International + Kommerziell + Schriftform
+- ICC Mediationsklausel: als Schritt vor ICC-Schiedsklausel einbauen (Escalation Clause)
+- Vertraulichkeitsprotokoll: Mediations-NDA vor Beginn + Ausnahmen für Vollstreckungsnachweis
+- Ratifikationsstand: imna.org (International Mediation Network) laufend prüfen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Singapur-Konvention vs. NY Convention Vergleichstabelle
+- Eskalationsklausel-Muster (Verhandlung → Mediation → Schiedsverfahren)
+- Settlement-Agreement-Checkliste (Singapur-Konvention-konform)
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Singapur-Konvention: uncitral.un.org. ICC Mediation Rules: iccwbo.org. EU-Mediations-RL 2008/52/EG: eur-lex.europa.eu. MediationsG: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.

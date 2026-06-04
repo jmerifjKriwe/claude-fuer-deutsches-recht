@@ -1,50 +1,51 @@
 ---
 name: ihl-098-vertiefung-01-laienerklaerung
-description: "Internationales Handelsrecht und Lex Mercatoria: Vertiefung 01 Laienerklaerung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Laienerklärung komplexer Rechtsbegriffe aus dem internationalen Handel. CISG in einfacher Sprache, Incoterms ohne Fachjargon, Schiedsverfahren vs. Gericht und Akkreditiv erklärt für Nicht-Juristen und Führungskräfte."
 ---
 
-# Vertiefung 01 Laienerklaerung
+# Laienerklärungen: Internationales Handelsrecht
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Vertiefung 01 Laienerklaerung** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Nicht-Juristen (Geschäftsführer, Einkäufer, Logistiker) brauchen verständliche Erklärungen komplexer Handelrechtsbegriffe. Die Laienerklärung übersetzt CISG, Incoterms und Schiedsgerichtsbarkeit in alltagstaugliche Sprache ohne den Rechtsgehalt zu verfälschen.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CISG Art. 1**: "Wenn ein deutsches Unternehmen an ein japanisches Unternehmen verkauft, gilt automatisch internationales Kaufrecht"
+- **Incoterms 2020 FOB**: "Wenn ich FOB Shanghai bestelle, trage ich das Risiko sobald die Ware auf dem Schiff ist"
+- **UCP 600**: "Das Akkreditiv ist ein Zahlungsversprechen der Bank — sie zahlt wenn die Papiere stimmen"
+- **NY Convention**: "Wenn das Schiedsgericht entschieden hat, kann ich das Urteil in 172 Ländern vollstrecken"
+- **Force Majeure**: "Höhere Gewalt befreit nur wenn das Ereignis wirklich unvorhersehbar und unvermeidbar war"
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- CISG = "UN-Kaufrecht" — automatisch anwendbar zwischen internationalen Geschäftspartnern
+- Rüge = "Mängelreklamation" — muss schnell und konkret erfolgen, sonst verliert man alle Rechte
+- Incoterms = "Lieferbedingungen" — wer trägt Risiko, wer zahlt Transport
+- Schiedsverfahren = "privates Gericht" — schneller, teurer, aber Urteil weltweit vollstreckbar
+- Akkreditiv = "Bankgarantie für Zahlung gegen Dokumente" — Sicherheit für Exporteur
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Einkäufer fragt: "Was bedeutet CIF für mich als Käufer?" (Antwort: Verkäufer zahlt Transport und Versicherung, aber du trägst Risiko nach Verladung)
+2. Geschäftsführer fragt: "Warum brauchen wir eine Schiedsklausel?" (Vollstreckbarkeit in 172 Ländern vs. staatliche Urteile oft nicht vollstreckbar)
+3. CFO fragt: "Warum Akkreditiv wenn wir dem Kunden vertrauen?" (Bankrisiko vs. Käuferrisiko)
+4. Logistik fragt: "Was ist der Unterschied zwischen FOB und FCA?" (FOB = Verladung auf Schiff, FCA = Übergabe an Spediteur im Terminal)
+5. Procurement fragt: "Was passiert wenn Lieferant Force Majeure ruft?" (Kein Schadensersatz, aber Lieferpflicht bleibt; du kannst Vertrag auflösen)
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Analogien aus dem Alltag: Akkreditiv = "Zahle ich wenn du lieferst" mit Banken als Mittler
+- Keine Fachbegriffe ohne Erklärung: CISG immer in Klammern "UN-Kaufrecht" erklären
+- Konsequenz-Fokus: was bedeutet das für meine Entscheidung heute?
+- Grafiken empfehlen: Incoterms 2020 Risk-Transfer-Grafik der ICC
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Glossar: 20 Schlüsselbegriffe in Alltagssprache (2-3 Sätze je)
+- FAQ-Format: 10 häufige Fragen von Nicht-Juristen mit kurzen Antworten
+- Incoterms-Laienerklärung (ein DIN-A4-Blatt)
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Incoterms 2020 Grafik: iccwbo.org. CISG-Laienerklärung: uncitral.un.org (CISG Digest). UCP 600 Einführung: iccwbo.org. Unsicherheit bleibt sichtbar.

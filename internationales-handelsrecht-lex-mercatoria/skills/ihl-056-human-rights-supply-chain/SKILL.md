@@ -1,50 +1,52 @@
 ---
 name: ihl-056-human-rights-supply-chain
-description: "Internationales Handelsrecht und Lex Mercatoria: Human Rights Supply Chain. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Menschenrechte in der Lieferkette. UN-Guiding Principles on Business and Human Rights (UNGP 2011), deutsches Lieferkettensorgfaltspflichtengesetz (LkSG 2023), EU CSDDD-RL 2024 und zivilrechtliche Haftungsrisiken."
 ---
 
-# Human Rights Supply Chain
+# Menschenrechte in der Lieferkette
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Human Rights Supply Chain** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das LkSG (Lieferkettensorgfaltspflichtengesetz, seit 1. Januar 2023) verpflichtet deutsche Unternehmen ab 1000 Mitarbeitern zur menschenrechtlichen und umweltbezogenen Sorgfaltspflicht in der Lieferkette. Die EU Corporate Sustainability Due Diligence Directive (CSDDD, 2024) erweitert das auf alle EU-Großunternehmen. Zivilrechtliche Haftung für Verletzungen ist nach LkSG ausgeschlossen — nach CSDDD zumindest optional.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **LkSG § 3**: Sorgfaltspflichten — Risiko-Analyse, Präventions- und Abhilfemaßnahmen
+- **LkSG § 4**: Risikoanalyse — direkte Zulieferer (unmittelbar) und mittelbarer Geschäftsbereich
+- **LkSG § 9**: Beschwerdeverfahren — zugänglich für Betroffene in Lieferkette
+- **EU CSDDD Art. 1 (RL 2024/1760)**: Sorgfaltspflichten für Unternehmen ab 1000 MA und 450 Mio. EUR Umsatz
+- **UNGP 2011 (UN A/HRC/17/31)**: Rahmenwerk — Protect, Respect, Remedy
+- **OECD-Leitsätze für multinationale Unternehmen 2023**: Ergänzungsrahmen
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Direkte Zulieferer: unmittelbare Vertragspartner in LkSG
+- Mittelbarer Zulieferer: LkSG § 10 — Pflichten bei konkreten Hinweisen
+- Risikoanalyse: Identifizierung, Gewichtung, Präventionsmaßnahmen
+- Policy Statement: Grundsatzerklärung des Unternehmens zu Menschenrechten (LkSG § 6)
+- Zivilhaftung: LkSG § 3 Abs. 3 — keine direkte Zivilhaftung; CSDDD Art. 29 — Mitgliedstaatenregelung
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. LkSG: Gilt das auch für Einkauf bei EU-Zulieferern (nicht nur außerhalb EU)?
+2. CSDDD vs. LkSG: Was ändert sich für deutsche Unternehmen nach CSDDD-Umsetzung 2027?
+3. Beschwerdeverfahren LkSG § 9: Reicht ein allgemeines Hinweisgebersystem?
+4. Supply-Chain-Vertragsklausel: Wie LkSG-Pflichten vertraglich auf Lieferanten weitergeben?
+5. Haftung bei Zulieferer-Zwangsarbeit: LkSG schließt Zivilhaftung aus — aber Importverbot möglich?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Risikoanalyse: Länderrisiko + Sektorrisiko + Produkt-/Dienstleistungsrisiko
+- Supplier Code of Conduct: LkSG-Anforderungen als vertragliche Pflichten einbinden
+- Audit-Programme: Drittparteien-Audits für Risikolieferanten
+- CSDDD-Readiness: Frühzeitig CSDDD-Anforderungen antizipieren (Umsetzung bis 2027)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- LkSG-Sorgfaltspflichten-Checkliste
+- Supplier-Code-of-Conduct-Muster
+- Risikoanalyse-Matrix (Länder/Sektoren)
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+LkSG: gesetze-im-internet.de. CSDDD (RL 2024/1760): eur-lex.europa.eu. UNGP: ohchr.org. OECD-Leitsätze 2023: oecd.org. Unsicherheit bleibt sichtbar.

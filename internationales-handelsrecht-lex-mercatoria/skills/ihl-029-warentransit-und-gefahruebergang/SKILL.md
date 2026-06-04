@@ -1,50 +1,51 @@
 ---
 name: ihl-029-warentransit-und-gefahruebergang
-description: "Internationales Handelsrecht und Lex Mercatoria: Warentransit Und Gefahruebergang. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Gefahrübergang bei auf Reise befindlicher Ware nach CISG Art. 68 und Incoterms 2020. Verkauf auf Reise (string trading), Rückwirkungsfiktion, Dokumentengefahr und Absicherung durch Transportversicherung."
 ---
 
-# Warentransit Und Gefahruebergang
+# Warentransit und Gefahrübergang
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Warentransit Und Gefahruebergang** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+CISG Art. 68 regelt den Gefahrübergang beim Verkauf von Ware, die sich bereits auf dem Transportweg befindet (goods in transit, string trading). Die Gefahr geht grundsätzlich auf den Käufer über, wenn der Vertrag geschlossen wird — rückwirkend ab Übergabe an den Frachtführer, es sei denn, der Verkäufer kannte den Schaden und verschwieg ihn.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CISG Art. 68**: Gefahrübergang bei auf Reise befindlicher Ware — Vertragsschluss als Zeitpunkt
+- **CISG Art. 67**: Gefahrübergang bei Versendungskauf (regulärer Fall)
+- **CISG Art. 69**: Gefahrübergang bei Abholung und ohne Beförderungsvertrag
+- **Incoterms 2020 CIF/CFR**: Gefahrübergang nach Verladung — für String Trading geeignet
+- **UCP 600 Art. 20**: On-Board-Datum als Gefahrübergangsbeleg
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- String trading: Wiederverkauf während Transport (Rohstoffe, Commodities)
+- Rückwirkungsfiktion Art. 68: Gefahr ab Frachtführerübergabe (retroaktiv)
+- Dokumentengefahr: wer Papiere hält, hält das Risiko (bei Konnossement)
+- Verkäufer-Arglist: Art. 68 S. 2 — kannte Schaden und verschwieg ihn → keine Gefahrübergabe
+- Versicherungszeugnis: transit buyer braucht Versicherungsbescheinigung
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Ölladung auf Tanker auf Reise verkauft — Schiff sinkt nach Vertragsabschluss: Wer trägt Verlust?
+2. Art. 68 Satz 2: Wie beweist Käufer, dass Verkäufer Schaden kannte?
+3. String Trading: Wie viele Weiterverkäufe sind rechtlich zulässig ohne neues Transportdokument?
+4. Dokumentenerwerb (BL-Indossament): Geht Gefahr mit Konnossement-Übertragung über?
+5. Transportversicherung im String: Wer versichert bei CIF-Weiterverkauf?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Art. 68 CISG: Stichtag Gefahrübergang = Datum Vertragsschluss (nicht Lieferung)
+- String Trading: Versicherungskette prüfen — jeder Käufer braucht Nachweis
+- Dokumentenprüfung: On-Board-Datum im BL bestätigt Frachtführer-Übergabe
+- Arglist-Ausnahme: immer als Gegenargument prüfen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Gefahrübergangs-Zeitstrahl (CISG Art. 67/68/69 im Vergleich)
+- String-Trading-Dokumentenfluss
+- Versicherungszeugnis-Anforderungen für String Buyer
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG Art. 67-69: uncitral.un.org. Schrifttum: Schlechtriem/Schwenzer Art. 68 (2019). Incoterms 2020: iccwbo.org. Unsicherheit bleibt sichtbar.

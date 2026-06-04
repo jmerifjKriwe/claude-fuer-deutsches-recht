@@ -1,50 +1,51 @@
 ---
 name: ihl-092-abschlussmemo-handelsrecht
-description: "Internationales Handelsrecht und Lex Mercatoria: Abschlussmemo Handelsrecht. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Abschlussmemo nach Verhandlung oder Prüfung eines internationalen Handelsfalls. Struktur, Wesentlichkeitsprinzip, Ergebnisdarstellung, Risikobewertung und Board-taugliche Formulierung."
 ---
 
-# Abschlussmemo Handelsrecht
+# Abschlussmemo Internationales Handelsrecht
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Abschlussmemo Handelsrecht** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das rechtliche Abschlussmemo fasst Ergebnisse einer Prüfung eines internationalen Handelsvertrags oder -falls zusammen: anwendbares Recht, wesentliche Risiken, Empfehlungen und nächste Schritte. Es richtet sich an interne oder externe Entscheidungsträger (Rechtsabteilung, Vorstand, Verhandlungsteam).
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Wesentlichkeitsprinzip**: Nur Risiken ab einer definierten Schwelle werden reportet
+- **CISG Art. 25**: Wesentliche Verletzung als Risikokriterium
+- **ICC Schiedsregeln Art. 31**: Begründungspflicht des Schiedsgerichts als Memo-Vorbild
+- **LkSG § 10**: Dokumentation der Sorgfaltspflichterfüllung — Memo als Compliance-Nachweis
+- **Art. 1699 ff. Code Civil (Frankreich)**: Cession de créance — ggf. Recht des Ziellandes
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Executive Summary: 3-5 Sätze Gesamtbewertung und Handlungsempfehlung
+- Risikoampel: Rot/Gelb/Grün mit numerischer Bewertung (Eintrittswahrscheinlichkeit × Schadenshöhe)
+- Aktionsplan: Konkrete nächste Schritte mit Verantwortlichkeit und Deadline
+- Quellenmatrix: alle zitierten Normen, Verträge, Urteile nachvollziehbar dokumentiert
+- Unsicherheitsvermerk: Bereiche wo Rechtslage unklar ist explizit benennen
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Memo-Format: Einseiter vs. detailliertes Memo — wann welches für Vorstand?
+2. Risikobewertung: Wie kommt man zu einer objektiv vertretbaren Risikoampel?
+3. Confidentialität: Wie internes Memo vor Discovery-Offenlegung schützen (Anwaltsprivileg)?
+4. Quellennachweis: Muss jede CISG-Stelle im Memo mit Fundstelle belegt werden?
+5. Update: Wann muss Abschlussmemo aktualisiert werden (Rechtsänderung, neue Rspr.)?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Memo-Struktur: (1) Executive Summary, (2) Sachverhalt, (3) Rechtliche Analyse, (4) Risiken, (5) Empfehlungen
+- Quellenmatrix: Anhang mit allen verwendeten Quellen (Norm, Gericht, Datum, Fundstelle)
+- Wesentlichkeit: Risiken unter EUR 50.000 oder unter 5% Vertragsrisiko in Anhang
+- Unsicherheit: immer sichtbar lassen — kein unqualifiziertes "ist rechtmäßig"
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Abschlussmemo-Template (international, CISG-Fokus)
+- Risikoampel-Kalkulationsschema
+- Quellenmatrix-Vorlage
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG: uncitral.un.org. ICC Regeln 2021: iccwbo.org. LkSG: gesetze-im-internet.de. Schrifttum: Praxis-Handbücher (Anwaltsverlag). Unsicherheit bleibt sichtbar.

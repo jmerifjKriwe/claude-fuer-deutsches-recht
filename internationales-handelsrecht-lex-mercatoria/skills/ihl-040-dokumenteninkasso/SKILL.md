@@ -1,50 +1,52 @@
 ---
 name: ihl-040-dokumenteninkasso
-description: "Internationales Handelsrecht und Lex Mercatoria: Dokumenteninkasso. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Dokumenteninkasso nach URC 522 (ICC 1995). Dokumente-gegen-Zahlung (D/P) und Dokumente-gegen-Akzept (D/A), Inkassoauftrag, Pflichten der Inkassobank und Risiken bei Nichteinlösung."
 ---
 
-# Dokumenteninkasso
+# Dokumenteninkasso nach URC 522
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Dokumenteninkasso** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Dokumenteninkasso (Documentary Collection) ist eine kostengünstigere Alternative zum Akkreditiv: Die Bank leitet Handels- und Transportdokumente an die Käufer-Bank weiter und gibt sie nur gegen Zahlung (D/P) oder Wechselakzept (D/A) heraus. URC 522 (ICC Uniform Rules for Collections 1995) gilt durch Einbeziehung. Die Bank gibt keine Zahlungsgarantie.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **URC 522 Art. 1**: Anwendungsbereich — Einbeziehung durch Inkassoauftrag
+- **URC 522 Art. 4**: Inkassoauftrag — vollständige Anweisungen (kein Ermessen der Bank)
+- **URC 522 Art. 7**: Dokumente gegen Zahlung (D/P) vs. Dokumente gegen Akzept (D/A)
+- **URC 522 Art. 19**: Vorgehensweise bei Nichteinlösung — keine eigenständige Bankpflicht
+- **URC 522 Art. 21**: Auslagen und Provisionen der Inkassobank
+- **Wechselgesetz (WG)**: D/A-Wechsel als eigenständiges Wertpapier
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- D/P (CAD Cash Against Documents): Herausgabe Dokumente nur gegen sofortige Zahlung
+- D/A (Akzept-Inkasso): Dokumente gegen Wechselakzept — Kredit bis Fälligkeitsdatum
+- Einzugsauftrag: enthält alle Anweisungen für einkassierenden Bank
+- Protestverfahren: Bank protestiert Wechsel bei Nichtakzept/Nichtzahlung
+- Länderrisiko: Inkassobank zahlt nicht selbst — Käuferland-Risiko verbleibt beim Verkäufer
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. D/P Inkasso: Käufer nimmt Dokumente und zahlt nicht — welche Rechtsbehelfe?
+2. D/A: Käufer akzeptiert Wechsel, zahlt nicht bei Fälligkeit — Wechselklage?
+3. Konnossement bei D/P: Sichert das Konnossement den Verkäufer ausreichend?
+4. Inkassobank-Haftung: Haftet Bank für fehlerhafte Dokumentenherausgabe ohne Zahlung?
+5. URC 522 vs. UCP 600: Kann dieselbe Transaktion beide Regelwerke auslösen?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D/P für höheres Risiko; D/A nur bei bekannten Kunden mit guter Bonität
+- Konnossement als Order-BL: sichert Dokumentenkontrolle bei D/P
+- Inkassoauftrag: URC 522-Einbeziehungsklausel und vollständige Anweisungen
+- Wechselakzept: Wechselrecht des Käuferlands vor D/A-Einsatz prüfen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- D/P vs. D/A Risikoanalyse
+- Inkassoauftrag-Checkliste (URC 522 Art. 4)
+- Wechsel-Muster (internationalem Wechselgesetz)
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+URC 522: iccwbo.org. WG (Wechselgesetz): gesetze-im-internet.de. Schrifttum: Malek/Quest, Documentary Credits (4. Aufl. 2009). Unsicherheit bleibt sichtbar.

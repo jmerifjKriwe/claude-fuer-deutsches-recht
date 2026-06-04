@@ -1,50 +1,52 @@
 ---
 name: ihl-034-anti-dumping-und-ausgleichszoelle
-description: "Internationales Handelsrecht und Lex Mercatoria: Anti Dumping Und Ausgleichszoelle. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Antidumping-Recht nach WTO-Antidumping-Abkommen (ADA) und EU-Anti-Dumping-Grundverordnung (EU) 2016/1036. Dumping-Marge, Schadenstest, Unioninteresse, vorläufige/endgültige Maßnahmen und Umgehungsverfahren."
 ---
 
-# Anti Dumping Und Ausgleichszoelle
+# Antidumping und Ausgleichszölle
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Anti Dumping Und Ausgleichszoelle** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Antidumping-Maßnahmen (AD) und Ausgleichszölle (AS, countervailing duties) sind handelspolitische Instrumente gegen unlauteren Wettbewerb aus Drittstaaten. AD richtet sich gegen unter Normalwert exportierte Waren; AS gegen staatlich subventionierte Waren. Beide richten sich nach WTO-Abkommen (ADA, SCM) und EU-Grundverordnungen.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **WTO Anti-Dumping Agreement (ADA) Art. 2**: Dumping-Marge — Vergleich Exportpreis/Normalwert
+- **WTO SCM Agreement Art. 1**: Subvention — Finanzbeitrag + Vorteil
+- **EU-AD-GVO (EU) 2016/1036 Art. 1-3**: Dumping, Schaden, Kausalität
+- **EU-AD-GVO Art. 20**: Recht auf Unterrichtung (Disclosure); Art. 21 Unionsinteresse
+- **VO (EU) 2018/825**: Anti-Circumvention (Umgehungsverfahren)
+- **EuG-Rspr.**: T-710/14 (Eurofer) zu Schadensmargen
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Normalwert: Inlandsverkaufspreis im Ursprungsland (oder konstruierter Wert)
+- Dumping-Marge: (Normalwert − Exportpreis) / Exportpreis
+- Schadenstest: wesentliche Schädigung des EU-Wirtschaftszweigs
+- Lesser Duty Rule: Zoll nicht höher als Dumping-Marge oder Schadensmarge (niedrigerer Wert)
+- Umgehung: Montage in Drittland um AD-Zoll zu umgehen → EU VO 2018/825
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Chinesische Solarpaneele: Wie wird Dumping-Marge bei Nichtmarktwirtschaft berechnet?
+2. Umgehungsverfahren: Reicht Verschraubung von Komponenten in Vietnam als Umgehung?
+3. Unionsinteresse: Wann verhindert Art. 21 AD-GVO die Einführung von Maßnahmen?
+4. Preisengagement (Undertaking): Wie funktioniert Preisverpflichtung als AD-Maßnahme-Alternative?
+5. WTO DS: EU-China Solarpanel-Streit — welche Panels haben entschieden?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Dumping-Marge: strukturierte Berechnung nach Art. 2 ADA (Verkaufspreise, Kosten, Gewinn)
+- Schadensprüfung: Marktanteil, Preisunterbietung, Rentabilität EU-Wirtschaftszweig
+- Unternehmensstrategie: Fragebogen-Mitarbeit, Unternehmensspezifische Marge
+- Umgehungsplanung: frühzeitig AD-Berater einschalten
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Dumping-Marge-Berechnungsschema
+- AD-Verfahrens-Zeitstrahl (Einleitung bis Endmaßnahme ~15 Monate)
+- Unternehmens-Strategie bei laufendem AD-Verfahren
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+WTO ADA: wto.org. EU-AD-GVO (EU) 2016/1036: eur-lex.europa.eu. EuG: curia.europa.eu. Schrifttum: Vermulst, EU Anti-Dumping Law and Practice (2. Aufl. 2010). Unsicherheit bleibt sichtbar.

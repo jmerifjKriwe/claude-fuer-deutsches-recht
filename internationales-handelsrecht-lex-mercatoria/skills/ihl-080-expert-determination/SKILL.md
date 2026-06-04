@@ -1,50 +1,51 @@
 ---
 name: ihl-080-expert-determination
-description: "Internationales Handelsrecht und Lex Mercatoria: Expert Determination. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Expert Determination (Sachverständigenentscheidung) im internationalen Handelsrecht. Abgrenzung zu Schiedsgerichtsbarkeit, Verbindlichkeit, ICC Expert Rules 2015, Einsatzgebiete (Preis, Qualität, Bilanzen) und Anfechtbarkeit."
 ---
 
 # Expert Determination
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Expert Determination** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Expert Determination ist ein alternatives Streitbeilegungsverfahren, bei dem ein unabhängiger Sachverständiger eine bindende Entscheidung über technische oder Fachfragen trifft — typischerweise Preisbestimmung, Qualitätsfeststellung, Bilanzbewertung. Sie ist kein Schiedsverfahren und unterliegt nicht der NY Convention. Anfechtbarkeit ist beschränkt.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **ICC Expert Rules 2015**: Verfahrensregeln für Expert Determination (iccwbo.org)
+- **RICS Expert Determination Rules**: Immobilienbewertung und Baustreitigkeiten
+- **§§ 317-319 BGB**: Bestimmung der Leistung durch Dritte — verbindlich wenn nicht offenbar unbillig
+- **§ 319 BGB**: Anfechtung der Drittbestimmung — nur offenbar unbillig
+- **Englisches Recht**: Expert Determination endgültig außer bei Fraud oder Überschreitung des Auftrags
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Expert Determination vs. Arbitration: kein rechtliches Gehör gefordert; kein NY-Convention-Schutz
+- Binding-ness: Entscheidung bindet Parteien (außer offensichtliche Unbilligkeit § 319 BGB)
+- ICC Expert-Ernennung: von ICC Court ernannter Experte → Neutralität
+- Preis-Expert: häufigster Einsatz bei Kaufpreis-Anpassungen (M&A, Langzeitlieferverträge)
+- Jurisdiction vs. Expert: Abgrenzung — was sind reine Fachfragen vs. Rechtsfragen?
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Expert Determination oder Schiedsverfahren für Qualitätsmangel? Wann was?
+2. § 319 BGB: Wann ist Bestimmung "offenbar unbillig" und damit nicht bindend?
+3. ICC Expert Determination Kosten: Wie hoch sind Kosten im Vergleich zu ICC-Schiedsverfahren?
+4. Expert ohne Begründung: Ist Entscheidung ohne Begründung anfechtbar?
+5. Mixed Dispute: Partei behauptet Rechtsfrage; Gegenpartei sagt Sachfrage — wer entscheidet?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Expert-Determination-Klausel: Gegenstand (Preis, Qualität, Menge), Qualifikation des Experten, Bindungswirkung, Kosten
+- ICC-Ernennung: bei Einigungsproblem ICC Court-Ernennung; neutral und international
+- § 319 BGB: nur extreme Fälle; keine Überprüfung inhaltlicher Richtigkeit
+- Abgrenzungsklausel: bei gemischten Streitigkeiten (Sach- und Rechtsfragen) Schieds-Rückfall-Klausel
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Expert-Determination-Klausel-Muster
+- Expert Determination vs. Arbitration Entscheidungsmatrix
+- ICC Expert Rules Verfahrensübersicht
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+ICC Expert Rules 2015: iccwbo.org. BGB §§ 317-319: gesetze-im-internet.de. Schrifttum: Mackie et al., ADR Practice Guide (2007). Unsicherheit bleibt sichtbar.

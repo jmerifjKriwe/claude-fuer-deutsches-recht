@@ -1,50 +1,51 @@
 ---
 name: drg-032-grundgesetz-entstehung-1948-49
-description: "Deutsche Rechtsgeschichte: Grundgesetz Entstehung 1948 49. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Entstehung des Grundgesetzes 1948-49. Herrenchiemseer Konvent, Parlamentarischer Rat, Frankfurter Dokumente, Bewusste Lehren aus WRV und Inkrafttreten 23. Mai 1949."
 ---
 
-# Grundgesetz Entstehung 1948 49
+# Grundgesetz Entstehung 1948-49
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Grundgesetz Entstehung 1948 49** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Grundgesetz (GG) entstand unter dem Eindruck des NS-Unrechts und der WRV-Erfahrungen. Die Frankfurter Dokumente der Alliierten (Juli 1948) beauftragten die Westzonen-Ministerpraesidenten. Der Herrenchiemseer Konvent (August 1948) erarbeitete einen Vorentwurf. Der Parlamentarische Rat (September 1948 bis Mai 1949, 65 Mitglieder) verabschiedete das GG am 8. Mai 1949. Bewusste Entscheidungen gegen WRV-Fehler: Ewigkeitsklausel (Art. 79 Abs. 3), Konstruktiver Misstrauensantrag (Art. 67), Grundrechte unmittelbar geltendes Recht (Art. 1 Abs. 3), Verfassungsgerichtskontrolle (Art. 93). Das GG trat am 23. Mai 1949 in Kraft.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **GG Art. 1 Abs. 3**: Grundrechte binden Gesetzgebung, Vollziehung, Rechtsprechung unmittelbar
+- **GG Art. 20**: Demokratie, Bundesstaat, Sozialstaat, Rechtsstaatsprinzip
+- **GG Art. 67**: Konstruktiver Misstrauensantrag (Antwort auf WRV Art. 54)
+- **GG Art. 79 Abs. 3**: Ewigkeitsklausel (Antwort auf WRV Art. 76)
+- **GG Art. 93**: Bundesverfassungsgericht (Antwort auf WRV ohne echte Normenkontrolle)
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Konrad Adenauer** (1876-1967): Praesident des Parlamentarischen Rates
+- **Carlo Schmid** (1896-1979): SPD, massgeblich fuer Grundrechtskatalog
+- **Elisabeth Selbert** (1896-1986): Kaempferin fuer Art. 3 Abs. 2 GG (Gleichberechtigung)
+- **Hermann von Mangoldt** (1895-1953): CDU, Vorsitzender des Hauptausschusses
+- **Theodor Heuss** (1884-1963): FDP, erster Bundespraesident
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. GG als Provisorium: War das Grundgesetz als vorlaeufige Verfassung konzipiert?
+2. Ewigkeitsklausel Art. 79 Abs. 3: Was ist unveraenderbar? (BVerfGE 30, 1)
+3. Grundrechte und natuerliches Recht: Basiert Art. 1 GG auf Naturrecht?
+4. Parlamentarischer Rat und Alliierten-Einfluss: Wie frei war der Rat?
+5. Legitimitaet des GG: Warum keine Volksabstimmung?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- GG: gesetze-im-internet.de; Originaltext in BGBl. 1949, 1
+- Herrenchiemseer Entwurf: historische Edition; Jahrbuecher des oeffentlichen Rechts Bd. 1 (1951)
+- Parlamentarischer Rat Protokolle: historische Edition, Bundesarchiv
+- BVerfGE zur Ewigkeitsklausel: bverfg.de (BVerfGE 30, 1; BVerfGE 109, 279)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste GG-Entstehung: Juli 1948 bis 23. Mai 1949
+- WRV-Fehler und GG-Antworten: Vergleichstabelle (Art. 48/67, Art. 76/79 III usw.)
+- Parlamentarischer Rat: Hauptakteure und Entscheidungskonflikte
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+GG: gesetze-im-internet.de; BGBl. 1949, 1 (Originalfassung). BVerfGE: bverfg.de. Parlamentarischer Rat Protokolle: historische Edition Bundesarchiv. Jahrbuch oeffentliches Recht Bd. 1 (1951) fuer Herrenchiemsee-Entwurf.

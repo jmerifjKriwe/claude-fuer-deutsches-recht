@@ -1,50 +1,55 @@
 ---
 name: rom-059-sklaverei-rechtshistorisch-kritisch
-description: "Römisches Recht: Sklaverei Rechtshistorisch Kritisch. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Sklaverei (servitus) rechtshistorisch-kritisch - rechtliche Stellung des Sklaven nach D. 1.5.4, Gaius Inst. 1.9, Funktionen (Handeln für den Herrn), Quellen der Sklaverei und historisch-ethische Einordnung."
 ---
 
-# Sklaverei Rechtshistorisch Kritisch
+# Sklaverei im römischen Recht - rechtshistorisch-kritisch
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Sklaverei Rechtshistorisch Kritisch** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Der Sklave (servus) ist nach röm. Recht eine Sache (res): er hat keine Rechtspersönlichkeit, kann aber tatsächlich im Rechtsverkehr handeln und dem Herrn Verbindlichkeiten begründen (actiones adiecticiae qualitatis). Gaius Inst. 1.9: Sklaven sind entweder frei oder Sklaven. Quellen der Sklaverei: Geburt, Kriegsgefangenschaft, Strafe (D. 1.5.4, Florentinus). Die historisch-kritische Perspektive ist für das Verständnis des röm. Rechts unerlässlich.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 1.5.4.1 (Florentinus)**: Servitus contra naturam - Sklaverei als Naturrechtswiderspruch
+- **Gaius Inst. 1.9**: Grundunterscheidung liberi/servi
+- **D. 1.5.4.2 (Florentinus)**: Quellen der Sklaverei
+- **Gaius Inst. 1.52**: Sklaven unter dominica potestas
+- **D. 15.1.1 (Pomponius)**: Peculium des Sklaven
+- **D. 44.7.14 (Ulpian)**: Sklaven können natürliche Obligationen haben
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- servus: Sklave (rechtliche Sache ohne Rechtspersönlichkeit)
+- dominica potestas: Herrschaftsgewalt des Eigentümers
+- peculium: faktisches Sondervermögen des Sklaven
+- actiones adiecticiae qualitatis: Klagen gegen den Herrn wegen Sklavenhandlungen
+- obligatio naturalis: natürliche Verpflichtung ohne Klagbarkeit
+- manumissio: Freilassung als Ausweg
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Widerspruch: D. 1.5.4.1 (Sklaverei contra naturam) und gleichzeitige Billigung?
+2. Wirtschaftliche Funktionen: Sklave als Agent und Geschäftsführer
+3. Peculium als faktische Handlungsfähigkeit ohne Rechtsfähigkeit
+4. Sklaven in der Rechtspraxis: Vielschichtigkeit der Quellen
+5. Historisch-ethische Einordnung: kritische Reflexion geboten
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 1.5 (De statu hominum); D. 15 (Peculium)
+- Gaius Inst. 1.9-27, 1.52-54
+- Watson Roman Slave Law (1987)
+- Wiedemann Greek and Roman Slavery (1981, Quellensammlung)
+- Bradley Slaves and Masters in the Roman Empire
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Rechtsstatus-Übersicht: Sklave vs. freie Person
+- Schema: Peculium und actiones adiecticiae
+- Memo zur Naturrechtstradition und Widerspruch
+- Kritische historische Einordnung
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 1.5; D. 15 (Mommsen-Krüger). Gaius Inst. 1. Watson Roman Slave Law. Wiedemann.

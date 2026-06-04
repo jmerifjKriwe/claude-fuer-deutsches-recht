@@ -1,50 +1,54 @@
 ---
 name: rom-075-goa-vergleich
-description: "Römisches Recht: Goa Vergleich. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Geschäftsführung ohne Auftrag (GoA) im Vergleich - röm. negotiorum gestio (D. 3.5) vs. BGB §§ 677-687 (Aufwendungsersatz, Haftung, berechtigte vs. unberechtigte GoA)."
 ---
 
-# Goa Vergleich
+# GoA im Vergleich: negotiorum gestio vs. BGB
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Goa Vergleich** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die negotiorum gestio des röm. Rechts (D. 3.5) ist das Vorbild der BGB-GoA (§§ 677-687). Strukturelle Gemeinsamkeit: Geschäftsführung ohne Auftrag, bei der der Geschäftsführer Aufwendungsersatz erhält (actio contraria/BGB § 683), der Geschäftsherr aber Rechenschaftspflicht hat (actio directa/BGB § 681). BGB unterscheidet berechtigte GoA (§ 677 i.V.m. § 683) und unberechtigte GoA (§§ 684-687).
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 3.5.1 (Ulpian)**: Negotiorum gestio - Einleitung
+- **D. 3.5.5.2 (Ulpian)**: Utiliter coeptum gestum
+- **BGB § 677**: Pflichten des GoA-Führers
+- **BGB § 683 Satz 1**: Aufwendungsersatz bei berechtigter GoA
+- **BGB § 687 Abs. 2**: Unechte GoA - Haftung wie bei eigenem Interesse
+- **Iust. Inst. 3.27**: Quasi ex contractu
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- utiliter gestum: nützlich geführt (röm.)/Interesse und Wille des Geschäftsherrn (BGB)
+- berechtigte GoA: entspricht Interesse und Willen (BGB § 683)
+- unberechtigte GoA: gegen Willen (BGB § 684)
+- unechte GoA (BGB § 687 Abs. 2): eigeninteressige Fremdgeschäftsführung
+- Aufwendungsersatz: actio contraria/BGB § 683
+- Rechenschaft: actio directa/BGB § 681
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. BGB § 683: Interesse UND Wille oder nur eines von beiden?
+2. Unechte GoA (§ 687 Abs. 2): Sondertatbestand oder GoA-Unterfall?
+3. Notstandsparagraph (§ 904 BGB): GoA oder Eingriffskondiktion?
+4. Utiliter gestum: objektiver Nutzen oder mutmaßlicher Wille?
+5. Verhältnis GoA - Bereicherungsrecht bei gescheiterter GoA
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 3.5 (Mommsen-Krüger)
+- BGB §§ 677-687 (gesetze-im-internet.de)
+- Kaser RP I §§ 267-272
+- MüKo-BGB §§ 677ff. (Kommentar)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Vergleichstabelle: negotiorum gestio vs. BGB-GoA
+- Schema: berechtigte vs. unberechtigte GoA
+- Memo zu utiliter gestum und BGB-Entsprechung
+- Fallbearbeitung mit hist. Einordnung
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 3.5 (Mommsen-Krüger). BGB: gesetze-im-internet.de. Kaser RP I. Zimmermann.

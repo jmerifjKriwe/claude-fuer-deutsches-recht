@@ -1,50 +1,50 @@
 ---
 name: drg-058-wahlrecht-und-repraesentation
-description: "Deutsche Rechtsgeschichte: Wahlrecht Und Repraesentation. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Wahlrecht und Repraesentation. Allgemeines Maennerwahlrecht 1871, Frauenwahlrecht 1918, Weimarer Verhaeltniswahlrecht, GG Art. 38 und Bundeswahlgesetz."
 ---
 
-# Wahlrecht Und Repraesentation
+# Wahlrecht und Repraesentation
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Wahlrecht Und Repraesentation** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Wahlrecht in Deutschland hat tiefgreifende Wandlungen erfahren. Die Reichsverfassung 1871 (Art. 20) gab allen deutschen Maennern ueber 25 das gleiche, direkte und geheime Wahlrecht zum Reichstag (ohne Frauenwahlrecht). Die WRV 1919 fuegte das Frauenwahlrecht (Art. 22) hinzu und schuf ein reines Verhaeltniswahlrecht, was zur Parteienzersplitterung beitrug. Das GG 1949 Art. 38 garantiert allgemeines, gleiches, freies, geheimes und unmittelbares Wahlrecht. Das Bundeswahlgesetz (BWahlG, BGBl. I 1956, 383 n.F.) regelt das Bundestagswahlrecht mit personalisierten Verhaeltniswahlrecht. Das BVerfG korrigierte das Wahlrecht mehrfach (BVerfGE 121, 266 zum negativen Stimmgewicht).
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Reichsverfassung 1871 Art. 20**: Allgemeines Maennerwahlrecht
+- **WRV Art. 22**: Allgemeines, gleiches Wahlrecht inkl. Frauen
+- **GG Art. 38**: Wahlrechtsgrundsaetze
+- **BWahlG (BGBl. I 1956, 383 n.F.)**: Bundeswahlgesetz
+- **BVerfGE 121, 266** (2008): Negatives Stimmgewicht als Verfassungsverstos
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Deutscher Kaiserbund**: Wahlrechts-Lobbying gegen Frauenwahlrecht
+- **Helene Lange** (1848-1930) und **Gertrud Baumer** (1873-1954): Frauenwahlrechtsbewegung
+- **BVerfG**: Wahlrechtskontrolle
+- **Bundeswahlbeauftragter**: Wahlrechtsvollzug
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Frauenwahlrecht 1918: Revolution oder logische Konsequenz der WRV-Demokratie?
+2. WRV-Verhaeltniswahlrecht: Trug es zur Instabilitaet der Weimarer Demokratie bei?
+3. 5-Prozent-Huerde im BWahlG: Verfassungsmaessig? (BVerfGE 1, 208; 95, 408)
+4. Negatives Stimmgewicht: Wie kann ein Wahlsystem das erzeugen?
+5. Wahlrechtsreform 2023: Streichung von Ueberhangmandaten und Konsequenzen
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Reichsverfassung 1871 Art. 20: ALEX/OeNB
+- GG Art. 38 und BWahlG: gesetze-im-internet.de
+- BVerfGE zum Wahlrecht: bverfg.de
+- Reichstagsprotokolle 1918-1919: reichstagsprotokolle.de
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Wahlrecht-Zeitleiste: 1871-2023
+- Frauenwahlrecht 1918: Entstehung und Bedeutung
+- BVerfGE-Wahlrechtslinie: Kernentscheidungen
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Reichsverfassung 1871: ALEX/OeNB. WRV: documentArchiv.de. GG und BWahlG: gesetze-im-internet.de. BVerfGE: bverfg.de. Reichstagsprotokolle: reichstagsprotokolle.de.

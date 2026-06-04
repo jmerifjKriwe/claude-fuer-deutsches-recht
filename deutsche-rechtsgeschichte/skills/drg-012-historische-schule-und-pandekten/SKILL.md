@@ -1,50 +1,50 @@
 ---
 name: drg-012-historische-schule-und-pandekten
-description: "Deutsche Rechtsgeschichte: Historische Schule Und Pandekten. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Historische Rechtsschule und Pandektistik. Savigny, Puchta, Windscheid, Jhering und die Pandektenwissenschaft als Grundlage des BGB 1900."
 ---
 
-# Historische Schule Und Pandekten
+# Historische Rechtsschule und Pandektistik
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Historische Schule Und Pandekten** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Historische Rechtsschule (Begruender: Savigny, ab 1814) wandte sich gegen das apriorische Naturrecht und setzte auf das historisch gewachsene Volksrecht als einzige Rechtsquelle. Georg Friedrich Puchta systematisierte das roemische Recht weiter zur Pandektenwissenschaft. Rudolf von Jhering revolutionierte die Methode (Geist des Roemischen Rechts, 1852-65), bevor er zur Interessenjurisprudenz wechselte. Bernhard Windscheid kodifizierte die Pandektistik im Lehrbuch des Pandektenrechts (1862-70), das die unmittelbare Vorlage der BGB-Ersten Kommission wurde. Die Pandektistik praegte Begrifflichkeit, System und Methode des BGB 1900.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Savigny, Vom Beruf unserer Zeit** (1814): Gruendungsmanifest der Historischen Schule
+- **Puchta, Pandekten** (1838, 6. Aufl. 1865): Pandektenwissenschaft als wissenschaftliches System
+- **Windscheid, Lehrbuch des Pandektenrechts** (3 Bde., 1862-70): BGB-Vorarbeit
+- **Jhering, Geist des Roemischen Rechts** (3 Bde., 1852-65): Historisch-teleologische Methode
+- **BGB §§ 90-1296**: Pandektistisch geordnetes System (Allgemeiner Teil, Schuldrecht usw.)
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Friedrich Carl von Savigny** (1779-1861): Begruender der Historischen Schule, Volksgeistlehre
+- **Georg Friedrich Puchta** (1798-1846): Systematisierer der Pandektistik
+- **Bernhard Windscheid** (1817-1892): Pandektist, Co-Autor der 1. BGB-Kommission
+- **Rudolf von Jhering** (1818-1892): Von der Historischen Schule zur Interessenjurisprudenz
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Volksgeistlehre: Ist sie methodisch haltbar oder romantischer Irrweg?
+2. Pandektistik und soziale Wirklichkeit: Hat die Abstraktheit des BGB-Systems sozialen Schutz verhindert?
+3. Jhering-Savigny-Konflikt: Bruch oder Weiterentwicklung der Historischen Schule?
+4. BGB als Pandektistik-Produkt: Welche Entscheidungen wurden von Windscheid direkt uebernommen?
+5. Pandektistik nach 1900: Hat das BGB die Pandektistik beendet oder fortgesetzt?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Savigny Vom Beruf 1814: Erstausgabe Heidelberg
+- Windscheid Pandektenrecht: Erstausgabe 1862-70, Band und Seite angeben
+- Jhering Geist: Erstausgabe 1852-65; Jhering-Briefe an Windscheid (1907 veroeffentlicht)
+- BGB-Materialien: Mugdan Bd. I (Allgemeiner Teil) fuer Pandektistik-Einfluss
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Stammbaum der Historischen Schule und Pandektistik: Savigny bis Windscheid
+- Pandektistisches System und seine Abbildung im BGB
+- Vergleich Jherings Methode (Geist des Roemischen Rechts) vs. Savignys Volksgeistlehre
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Savigny 1814: Erstausgabe. Windscheid Pandekten: Erstausgabe 1862-70 (Band und Seite). Jhering Geist: Erstausgabe 1852-65. Mugdan Bd. I: BGB-Materialien (1899). Keine unsicheren Zusammenfassungen.

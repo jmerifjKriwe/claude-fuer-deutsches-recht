@@ -1,50 +1,51 @@
 ---
 name: drg-019-familienrecht-und-gleichberechtigung
-description: "Deutsche Rechtsgeschichte: Familienrecht Und Gleichberechtigung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Familienrecht und Gleichberechtigung. BGB-Eherecht 1900 (maennliches Entscheidungsrecht), WRV Art. 119, GG Art. 3 Abs. 2, Gleichberechtigungsgesetz 1957 und EheRG 1976."
 ---
 
-# Familienrecht Und Gleichberechtigung
+# Familienrecht und Gleichberechtigung
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Familienrecht Und Gleichberechtigung** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Familienrecht des BGB 1900 spiegelte das 19. Jahrhundert: Eheliche Schluesselgewalt des Mannes (§ 1354 BGB a.F.), maennliches Entscheidungsrecht, Unmuendigkeit der Ehefrau in Vermoegensfragen. Die WRV 1919 postulierte in Art. 119 die Gleichberechtigung der Eheleute, ohne sie vollstaendig durchzusetzen. Das GG 1949 Art. 3 Abs. 2 verbot Benachteiligung wegen des Geschlechts; das BVerfG setzte dem Gesetzgeber in BVerfGE 3, 225 (1953) eine Frist. Das Gleichberechtigungsgesetz 1957 (BGBl. I 1957, 609) schaffte die maennliche Schluesselgewalt ab. Das Erste Eherechtsreformgesetz (EheRG) 1976 (BGBl. I 1976, 1421) ersetzte das Verschuldensprinzip durch das Zerruttungsprinzip.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **BGB § 1354 a.F.** (1900): Maennliches Entscheidungsrecht in Eheangelegenheiten (bis 1957)
+- **WRV Art. 119** (1919): Gleichberechtigung der Eheleute, Programmsatz
+- **GG Art. 3 Abs. 2** (1949): Verbot der Benachteiligung wegen des Geschlechts
+- **BVerfGE 3, 225** (1953): Frist fuer Gesetzgeber zur Umsetzung Art. 3 II GG
+- **Gleichberechtigungsgesetz 1957 (BGBl. I 1957, 609)**: Aufhebung maennlicher Vorrechte
+- **EheRG 1976 (BGBl. I 1976, 1421)**: Zerruttungsprinzip statt Verschuldensprinzip
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Elisabeth Selbert** (1896-1986): Mutter des Gleichheitssatzes im GG, Parlamentarischer Rat 1948/49
+- **BVerfG**: BVerfGE 3, 225 als Treiber der Familienrechtsreform
+- **Bundesjustizministerium**: EheRG 1976 und nachfolgende Reformen
+- **Frauenbewegung der 1970er**: Politischer Druck auf EheRG
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Warum dauerte es bis 1957, obwohl Art. 3 Abs. 2 GG schon 1949 galt?
+2. Schluesselgewalt § 1354 BGB a.F.: War sie wirklich ein Problem in der Praxis?
+3. Zerruttungsprinzip 1976 vs. Verschuldensprinzip: Welches Modell ist fairer?
+4. Eheliches Gueterrecht: Wie veraenderte das Gleichberechtigungsgesetz das Gueterrecht?
+5. GG Art. 6: Ehe und Familie als Schutz oder als Normierungsgebot?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- BGB Familienrecht historisch: Mugdan Bd. IV (1899)
+- GG Art. 3 Abs. 2: gesetze-im-internet.de; BVerfGE 3, 225: bverfg.de
+- Gleichberechtigungsgesetz 1957: BGBl. I 1957, 609; ALEX/OeNB
+- EheRG 1976: BGBl. I 1976, 1421; gesetze-im-internet.de
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste Familienrecht Gleichberechtigung: 1900-1976
+- Vergleich: Eherecht 1900 vs. 1957 vs. 1976 (Tabelle)
+- BVerfGE-Linie: BVerfGE 3, 225 bis BVerfGE zu gleichgeschlechtlichen Ehen
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+BGB Familienrecht: gesetze-im-internet.de (aktuell); Mugdan Bd. IV (historisch). BVerfGE 3, 225: bverfg.de. BGBl. I 1957, 609 und 1976, 1421: gesetze-im-internet.de.

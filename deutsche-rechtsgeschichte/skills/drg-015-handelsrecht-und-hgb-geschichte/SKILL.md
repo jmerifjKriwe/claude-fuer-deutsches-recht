@@ -1,50 +1,52 @@
 ---
 name: drg-015-handelsrecht-und-hgb-geschichte
-description: "Deutsche Rechtsgeschichte: Handelsrecht Und HGB Geschichte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Geschichte des Handelsrechts und des HGB. ADHGB 1861, Einheitsrecht im Kaiserreich, HGB 1897, Handelsstand, Handelsregister und Reformgeschichte des 20. Jahrhunderts."
 ---
 
-# Handelsrecht Und HGB Geschichte
+# Handelsrecht und HGB Geschichte
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Handelsrecht Und HGB Geschichte** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das deutsche Handelsrecht kodifizierte sich in zwei Schritten: Das Allgemeine Deutsche Handelsgesetzbuch (ADHGB, 1861) schuf als gemeindeutsches Werk die Grundlage, bevor das Deutsche Reich bestand. Es galt in allen deutschen Einzelstaaten und Oesterreich. Das HGB von 1897 (RGBl. 1897, 219, in Kraft 1900) ersetzte das ADHGB im Reichsgebiet. Es regelt Handelsstand (Kaufleute, Handelsregister), Handelsgeschaefte (Kauf, Kommission, Spedition, Lagergeschaeft, Frachtgeschaeft) und Handelsgesellschaften (HGB-OHG, KG). Das HGB wurde seitdem mehrfach reformiert: 1998 (HRefG), 2009 (Abschaffung der Mussund Sollkaufleute).
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **ADHGB 1861 (Nuernberger Konferenz)**: Erstkodifikation, Vorbild fuer HGB
+- **HGB 1897 (RGBl. 1897, 219)**: Inkrafttreten 1900 mit BGB
+- **HGB § 1**: Kaufmannsbegriff
+- **HGB § 346**: Handelsbrauch als Rechtsquelle
+- **HGB §§ 105-160**: OHG und KG
+- **HRefG 1998 (BGBl. I 1998, 1474)**: Grosse HGB-Reform
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Lueder-Klaus von Albrecht**: Berichterstatter beim ADHGB-Nuernberger Prozess 1857-1861
+- **Levin Goldschmidt** (1829-1897): Handelsrechtswissenschaftler, praegend fuer ADHGB und HGB
+- **Reichsgesetzgebungskommission** HGB 1897: unter Druck der Einheitskodifikation
+- **BGH-Handelsgericht**: Praegend fuer HGB-Auslegung
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Subjektives vs. objektives Handelsrecht: Ist Kaufmann Unternehmerbegriff oder Standesbegriff?
+2. HRefG 1998: War die Abschaffung von Muss- und Sollkaufmann sinnvoll?
+3. Handelsbrauch § 346 HGB: Wie beweist man einen Handelsbrauch heute?
+4. ADHGB und Code de Commerce: Welchen Einfluss hatte das franzoesische Vorbild?
+5. Historische Handelsregister: Welchen Beweiswert haben sie fuer heutige Verfahren?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- ADHGB 1861: historische Ausgabe (Nuernberger Beratungsprotokolle)
+- HGB: gesetze-im-internet.de
+- HRefG 1998: BGBl. I 1998, 1474
+- Goldschmidt Handbuch des Handelsrechts (Bd. I, 1864): historische Sekundaerquelle
+- BGH-Handelsrechts-Rspr.: bgh.de
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste Handelsrecht: ADHGB 1861 bis HRefG 1998
+- Kaufmannsbegriff im Wandel: ADHGB vs. HGB 1897 vs. HGB 1998
+- HGB § 346 Handelsbrauch: Anwendungsvoraussetzungen und Beispiele
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+ADHGB: historische Edition. HGB: gesetze-im-internet.de. RGBl. 1897, 219: ALEX/OeNB. BGH-Rspr. Handelsrecht: bgh.de. BGBl. I 1998, 1474: gesetze-im-internet.de.

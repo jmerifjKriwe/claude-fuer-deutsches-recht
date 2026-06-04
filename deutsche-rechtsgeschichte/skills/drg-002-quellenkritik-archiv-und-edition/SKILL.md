@@ -1,50 +1,49 @@
 ---
 name: drg-002-quellenkritik-archiv-und-edition
-description: "Deutsche Rechtsgeschichte: Quellenkritik Archiv Und Edition. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Quellenkritik fuer Archivfunde und historische Editionen. Ueberlieferungskritik, Editionsvergleich, Archivrecherche in Bundes- und Landesarchiven sowie Umgang mit Handschriften und Druckausgaben."
 ---
 
-# Quellenkritik Archiv Und Edition
+# Quellenkritik: Archiv und Edition
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Quellenkritik Archiv Und Edition** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Quellenkritik ist die Grundoperation der Rechtsgeschichte. Sie unterscheidet Ueberlieferungsform (Original, Abschrift, Druck, Digitalisat), Entstehungskontext (Kanzleipraxis, Legislativverfahren, Gerichtspraxis) und Editionszustand (kritische Edition, Regeste, Faksimile). Fuer die deutsche Rechtsgeschichte sind das Bundesarchiv (Koblenz/Berlin), die Landesarchive, das Geheime Staatsarchiv Preussischer Kulturbesitz sowie digitale Sammlungen wie ALEX und MGH-Online die zentralen Anlaufstellen.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Bundesarchivgesetz (BArchG)** i.d.F. vom 10. Maerz 2017 (BGBl. I S. 410): Zugang zu Bundesarchivgut
+- **Landesarchivgesetze** (z. B. LArchG NRW): Sperrfristen 30 Jahre, Personendaten 10 Jahre nach Tod
+- **Mugdan, Die gesamten Materialien zum BGB** (1899, 6 Bde.): Standardedition der BGB-Motive und Protokolle
+- **MGH** (Monumenta Germaniae Historica): kritische Edition mittelalterlicher Quellen seit 1826
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Bundesarchiv Koblenz/Berlin**: Hauptarchiv fuer Reichs- und Bundesakten
+- **Landesarchive**: Regionalbestaende, Verwaltungs- und Gerichtsakten
+- **MGH Muenchen**: Kritische Edition mittelalterlicher Quellen
+- **ALEX/OeNB Wien**: Digitale Reichsgesetzblatt-Sammlung
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Kritische Edition vs. Faksimile: Wann genuegt welche Quelle?
+2. Umgang mit fehlenden Archivalien: Was tun wenn Primaerakten vernichtet wurden (NS, Krieg)?
+3. Handschriftliche Quellen vs. Druckausgabe: Welche hat Vorrang beim Sachsenspiegel?
+4. Archivzugang und Datenschutz: Wann sind Archivgut-Sperrfristen rechtshistorisch relevant?
+5. Digitalisierung und Authentizitaet: Sind Digitalisate gleich reliabel wie Originale?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Ueberlieferungskette nachzeichnen: Original, Abschrift, Edition, Digitalisat
+- Editionsvergleich: mehrere Editionen bei wichtigen Textstellen gegenlesen
+- Bundesarchiv-Online: invenio.bundesarchiv.de fuer Findbuecher
+- MGH: mgh.de fuer Volltext-Zugang zu mittelalterlichen Editionen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Quellenkritik-Checkliste fuer ein konkretes rechtshistorisches Problem
+- Ueberlieferungsdiagramm fuer eine ausgewaehlte Quelle
+- Archivrecherche-Leitfaden mit Online-Ressourcen
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Bundesarchiv: invenio.bundesarchiv.de. MGH: mgh.de. ALEX/OeNB: alex.onb.ac.at. Landesarchive: jeweilige Portale. Kein Blindzitat ohne Fundstelle.

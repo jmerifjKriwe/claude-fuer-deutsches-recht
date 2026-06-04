@@ -1,50 +1,55 @@
 ---
 name: rom-046-formularprozess
-description: "Römisches Recht: Formularprozess. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Formularprozess nach Gaius Inst. 4.30-180 - Formelbestandteile (intentio, demonstratio, condemnatio, adiudicatio), litiscontestatio, iudicium und Lenel Edictum Perpetuum."
 ---
 
-# Formularprozess
+# Der Formularprozess
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Formularprozess** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Der Formularprozess (per formulas agere) ersetzt die Legisaktionen ab der lex Aebutia (ca. 150 v.Chr.) und der lex Iulia (17 v.Chr.). Kern ist die schriftliche Formel: intentio (Klägerbehauptung), demonstratio (Sachverhaltsangabe), condemnatio (Verurteilungsermächtigung an Richter) und ggf. adiudicatio. Die litiscontestatio (Streitbefestigung) teilt das Verfahren in iure/apud iudicem.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius Inst. 4.30**: Einführung des Formularprozesses
+- **Gaius Inst. 4.39-44**: Formelbestandteile
+- **Gaius Inst. 4.102-109**: Litiscontestatio und ihre Wirkungen
+- **Gaius Inst. 4.114-130**: Exceptiones und repliken
+- **D. 5.1 (De iudiciis)**: Prätorische Gerichtsbarkeit
+- **Lenel, Edictum Perpetuum (1927)**: Formelrekonstruktion
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- intentio: Klägerbehauptung in der Formel
+- demonstratio: Sachverhaltsdarstellung
+- condemnatio: Verurteilungsermächtigung (auf Geld)
+- adiudicatio: Zuteilungsermächtigung (bei Teilungsklagen)
+- litiscontestatio: Streitbefestigung (litis consumptio)
+- praetor: erteilt und formuliert die Formel
+- iudex: entscheidet über Tatsachen
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Litiscontestatio: konsumiert sie die Klage (litis consumptio)?
+2. Actiones in ius concepta vs. in factum: Bedeutung für den Kläger
+3. Exceptiones und repliken im Formularprozess: beliebig kombinierbar?
+4. Verurteilung immer auf Geld: warum?
+5. Übergang zum Kognitionsverfahren: wann und warum?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Gaius Inst. 4.30-180 als Hauptquelle
+- Lenel Edictum Perpetuum 3. Aufl. 1927 (archive.org)
+- Kaser/Hackl Zivilprozessrecht §§ 13-60
+- D. 5.1 (Mommsen-Krüger)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Formelschema: Bestandteile einer Formel
+- Prozessdiagramm: Formularprozess Schritt für Schritt
+- Ausgewählte Formelrekonstruktionen (Lenel)
+- Vergleich: Formularprozess vs. Kognitionsverfahren
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Gaius Inst. 4 (Mommsen-Krüger). Lenel Edictum Perpetuum (archive.org). Kaser/Hackl Zivilprozessrecht.

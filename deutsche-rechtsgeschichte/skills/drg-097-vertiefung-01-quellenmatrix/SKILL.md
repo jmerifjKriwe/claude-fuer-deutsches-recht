@@ -1,50 +1,51 @@
 ---
 name: drg-097-vertiefung-01-quellenmatrix
-description: "Deutsche Rechtsgeschichte: Vertiefung 01 Quellenmatrix. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte Vertiefung: Quellenmatrix fuer ein konkretes rechtshistorisches Problem. Systematische Zusammenstellung von Primaerquellen, Sekundaerliteratur und Fundorten zu einem definierten Thema."
 ---
 
-# Vertiefung 01 Quellenmatrix
+# Vertiefung: Quellenmatrix
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Vertiefung 01 Quellenmatrix** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Quellenmatrix ist ein strukturiertes Rechercheinstrument fuer die rechtshistorische Arbeit. Sie erfasst fuer ein Thema: (1) Gesetzliche Primaerquellen (Normtexte mit Fundstelle), (2) Materialien (Motive, Protokolle, Parlamentsdebatten), (3) Rechtsprechung (Gerichte, Aktenzeichen, Fundort), (4) Sekundaerliteratur (Autor, Werk, Auflage, Seite), (5) Archivquellen (Bestand, Signatur). Ohne vollstaendige Quellenmatrix besteht die Gefahr von Blindzitaten und lueckenhafter Argumentation. Das Vertiefungs-Skill setzt diese Technik fuer ein konkretes rechtshistorisches Thema um.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Mugdan, Materialien BGB** (6 Bde., 1899): Normquellen fuer BGB-Recht
+- **ALEX/ÖNB**: Reichsgesetzblatt-Digitalisate als Normquellenarchiv
+- **documentArchiv.de**: Verfassungen und NS-Gesetze im Volltext
+- **MGH Digital**: Mittelalterliche Quellen im Volltext
+- **Bundesarchiv invenio**: Verwaltungs- und Legislativakten
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Forschende und Praktizierende**: Nutzer der Quellenmatrix
+- **Archivare**: Erschliessung von Archivgut fuer die Matrix
+- **Bibliothekare**: Nachweis historischer Drucke und Editionen
+- **BVerfG**: Quellenmatrix-Nutzer fuer historische Verfassungsargumente
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Welchen Rang hat eine Quellenmatrix im Verhaeltnis zu einer Literaturfussnote?
+2. Wie geht man vor, wenn Primaerquellen nicht digitalisiert sind?
+3. Quellenmatrix und Datenschutz: Archivquellen mit Personenbezug
+4. Digitale Quellenmatrix: Persistente URLs vs. verfluechtende Weblinks
+5. Interdisziplinaere Quellenmatrix: Historiker-Quellen in Rechtsquellen-Matrix?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Primaernormen: gesetze-im-internet.de, ALEX/ÖNB
+- Materialien: Mugdan, Reichstagsprotokolle (reichstagsprotokolle.de)
+- Rechtsprechung: bverfg.de, bgh.de, bverwg.de
+- Archivquellen: invenio.bundesarchiv.de, archivportal-d.de
+- Sekundaerliteratur: mit Autor, Werk, Auflage, Seite; keine Blindzitate
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Vorlage fuer Quellenmatrix (Tabellenformat)
+- Beispiel-Matrix fuer das Thema BGB-Entstehung: alle 5 Quellenkategorien
+- Checkliste: Vollstaendigkeitspruefu der Quellenmatrix
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Alle Quellen mit Fundstelle, frei prüfbar. Primaerquellen: ALEX/ÖNB, gesetze-im-internet.de. Archiv: invenio.bundesarchiv.de. MGH: mgh.de. Kein Blindzitat.

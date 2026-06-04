@@ -1,50 +1,54 @@
 ---
 name: rom-071-romanistische-begriffe-im-bgb
-description: "Römisches Recht: Romanistische Begriffe Im BGB. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Romanistische Begriffe im BGB - culpa, dolus, condictio, negotiorum gestio, traditio, possessio, servitus als Fundament des BGB und ihre Transformationsgeschichte."
 ---
 
-# Romanistische Begriffe Im BGB
+# Romanistische Begriffe im BGB
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Romanistische Begriffe Im BGB** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das BGB von 1900 ist durch und durch von der römischrechtlichen Pandektistik geprägt. Zentrale Begriffe stammen direkt aus dem Röm. Recht: Besitz (§§ 854ff., vgl. possessio), Eigentum (§§ 903ff., vgl. dominium), Dienstbarkeit (§§ 1018ff., vgl. servitus), ungerechtfertigte Bereicherung (§§ 812ff., vgl. condictio), GoA (§§ 677ff., vgl. negotiorum gestio), Verschulden (§§ 276ff., vgl. dolus/culpa). Die Begriffe wurden teils verändert übernommen.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **BGB § 854 vs. D. 41.2.1 (Paulus)**: Besitzerwerb
+- **BGB § 929 vs. D. 41.1.31 (Gaius)**: Übereignung durch Übergabe
+- **BGB § 985 vs. D. 6.1.1 (Ulpian)**: Herausgabeanspruch
+- **BGB § 812 vs. condictio**: Bereicherungsrecht
+- **BGB § 677 vs. D. 3.5.1 (Ulpian)**: GoA
+- **BGB § 276 vs. D. 50.16.213 (Ulpian)**: Verschulden
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- dolus -> Vorsatz (BGB § 276)
+- culpa -> Fahrlässigkeit (BGB § 276)
+- possessio -> Besitz (BGB §§ 854ff.)
+- dominium -> Eigentum (BGB §§ 903ff.)
+- condictio -> ungerechtfertigte Bereicherung (BGB §§ 812ff.)
+- negotiorum gestio -> GoA (BGB §§ 677ff.)
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Abstraktion und Trennungsprinzip (BGB § 929): Röm. oder deutschrechtliche Herkunft?
+2. Bereicherungsrecht: BGB §§ 812-822 konservativer als röm. condictio?
+3. Besitz: Savigny-Jhering-Streit und seine BGB-Auflösung
+4. BGB-Eigentum: absoluter als röm. dominium oder schwächer?
+5. Welche röm. Konzepte hat das BGB aufgegeben?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Parallel-Lektüre: BGB-Text (gesetze-im-internet.de) und Digestentexte
+- Motive zum BGB (Mugdan, 1899) für Entstehungsgeschichte
+- Windscheid Pandekten als Transmissionsriemen
+- Kaser RP I mit Verweisen auf BGB
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Vergleichstabelle: röm. Begriff -> BGB-Norm
+- Memo zu drei zentralen Transformationen
+- Schema: Eigentumserwerb röm. Recht vs. BGB
+- Fallbearbeitung mit hist. Einordnung
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+BGB: gesetze-im-internet.de. Motive/Mugdan (archive.org). Digesten: Mommsen-Krüger (archive.org). Windscheid Pandekten (archive.org).

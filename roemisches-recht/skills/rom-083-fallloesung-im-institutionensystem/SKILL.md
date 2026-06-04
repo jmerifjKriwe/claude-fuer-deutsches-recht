@@ -1,50 +1,54 @@
 ---
 name: rom-083-fallloesung-im-institutionensystem
-description: "Römisches Recht: Fallloesung Im Institutionensystem. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Falllösung im Institutionensystem - Methodik der Subsumtion unter röm. Recht, Quellenrecherche (CIC, Gaius), Epochenzuordnung und Darstellung nach Institutionenschema (personae, res, actiones)."
 ---
 
-# Fallloesung Im Institutionensystem
+# Falllösung im Institutionensystem
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Fallloesung Im Institutionensystem** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Falllösung im röm. Recht erfordert eine strukturierte Methodik: Epochenzuordnung (Vorklassik, Klassik, Nachklassik, Justinian), Quellenrecherche im CIC (Inst., Dig., Cod., Nov.), Subsumtion unter das Institutionensystem (personae/res/actiones) und Berücksichtigung der Interpolationsproblematik. Gaius Inst. 4 erklärt das Klagensystem; D. 44.7 die Obligationsquellen. Methodischer Fehler: anachronistische Anwendung moderner Begriffe.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius Inst. 1.8**: Personae-res-actiones als Systemstruktur
+- **Gaius Inst. 4.1-3**: Actiones in rem und in personam
+- **D. 1.2.2 (Pomponius)**: Historischer Überblick zur Methode
+- **D. 44.7.1 (Gaius)**: Obligationsquellen
+- **D. 50.17.1 (Paulus)**: Regula als vereinfachender Satz - Grenzen
+- **Iust. Inst. 1.1 pr.**: Iustitia als Ziel
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- Epochenzuordnung: Vorklassik/Klassik/Nachklassik/Justinian
+- Institutionensystem: personae - res - actiones als Gliederung
+- Subsumtion: Sachverhalt unter klassisches/justinianisches Recht
+- Interpolationsvorbehalt: justinianische Änderungen markieren
+- Quellenrecherche: D./C./Inst./Nov. - Kurzangabe nach Standard
+- Rezeptionsschicht: welches Recht war in Deutschland relevant?
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Methodenfehler: mod. Begriffe auf röm. Fälle anwenden
+2. Uneinheitliche Quellenlage: Klassiker vs. justinianisch
+3. Praxis vs. Theorie: Waren klassische Lehrsätze wirklich Gericht sprachs?
+4. Analogieschluss: Im röm. Recht methodisch zulässig?
+5. Quellenangabe: Korrekte Zitation nach CIC-Standard
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Primärtexte: CIC (Mommsen-Krüger, archive.org)
+- Struktur: personae -> res -> actiones
+- Sekundär: Kaser RP I für Systematik
+- Schritt-für-Schritt: Epoche - Rechtssatz - Anwendung - Unsicherheiten
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Musterfallbearbeitung mit Quellenangaben
+- Methodenschema für röm. Fallbearbeitung
+- Checkliste Interpolationskritik
+- Tipps für Hausarbeiten und Klausuren
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CIC (Mommsen-Krüger, archive.org). Gaius Inst. Kaser RP I. Interpolationskritik: Lenel Palingenesia (archive.org).

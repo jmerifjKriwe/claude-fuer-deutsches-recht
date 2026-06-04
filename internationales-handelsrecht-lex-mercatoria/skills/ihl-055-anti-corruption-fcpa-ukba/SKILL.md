@@ -1,50 +1,52 @@
 ---
 name: ihl-055-anti-corruption-fcpa-ukba
-description: "Internationales Handelsrecht und Lex Mercatoria: Anti Corruption Fcpa Ukba. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Anti-Korruption im internationalen Handel. US Foreign Corrupt Practices Act (FCPA 1977), UK Bribery Act 2010 (UKBA), OECD-Antikorruptionskonvention 1997, Compliance-Pflichten, Drittpartei-Risiko und Deferred Prosecution Agreements."
 ---
 
-# Anti Corruption Fcpa Ukba
+# Anti-Korruption: FCPA und UK Bribery Act
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Anti Corruption Fcpa Ukba** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Der FCPA (Foreign Corrupt Practices Act, 1977) verbietet Bestechung ausländischer Amtsträger durch US-Unternehmen und -Personen sowie durch Unternehmen mit US-Börsennotierung oder US-Aktivitäten. Der UKBA (2010) ist breiter: er erfasst auch private Bestechung und kennt einen unternehmensweiten Fahrlässigkeitstatbestand (Section 7). Beide Gesetze haben extraterritorialen Anwendungsbereich.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **FCPA 15 U.S.C. §§ 78dd-1 ff.**: Bestechungsverbot ausländischer Amtsträger; Books-and-Records-Pflicht
+- **UK Bribery Act 2010 Section 7**: Corporate Offence — Fahrlässige Nichtverhinderung von Bestechung
+- **OECD-Konvention 1997**: Völkerrechtliche Grundlage; Art. 1 Bestechung ausländischer Amtsträger
+- **OECD-Empfehlung 2021**: Leitlinien für Compliance-Programme
+- **StGB §§ 331-335a**: Deutsches Korruptionsstrafrecht
+- **IntBestG**: Gesetz zur Bekämpfung internationaler Bestechung
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Foreign Public Official (FCPA): Staatsbeamte, Staatsbetrieb-Mitarbeiter
+- Books and Records (FCPA): Buchführungspflicht unabhängig vom Bestechungsverbot
+- Adequate Procedures (UKBA Section 7): Verteidigung wenn Unternehmen angemessene Procedures hatte
+- Third-Party-Risiko: Vertriebspartner, Agenten, JV-Partner als Korruptionsrisiko
+- Deferred Prosecution Agreement (DPA): US/UK-Strafaufschub gegen Compliance-Verpflichtungen
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Agent in Schwellenland zahlt Provision an Amtsträger ohne Wissen des Auftraggebers — FCPA-Haftung?
+2. UKBA Section 7: Reicht "no-tolerance-Policy" als Adequate Procedures?
+3. Facilitation Payments: Im FCPA als Ausnahme — im UKBA verboten?
+4. DPA-Verhandlung: Wann ist DPA sinnvoll für Unternehmen in FCPA-Ermittlung?
+5. Due Diligence bei M&A: Wie identifiziert man Korruptionsrisiken in Zielunternehmen?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Third-Party-Due-Diligence: Agenten, Berater, JV-Partner vor Engagement prüfen
+- Compliance-Programm: Adequate Procedures nach UKBA-Leitfaden (Ministry of Justice 2011)
+- Books-and-Records: FCPA-konforme Buchführung für alle Ausgaben
+- Red Flags: Zahlung auf Drittkonten, Bargeld, ungewöhnlich hohe Provisionen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- FCPA/UKBA-Vergleichstabelle
+- Third-Party-Due-Diligence-Checkliste
+- Adequate-Procedures-Grundstruktur (UKBA)
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+FCPA: justice.gov/criminal-fraud/foreign-corrupt-practices-act. UKBA: legislation.gov.uk. OECD-Konvention: oecd.org. StGB: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.

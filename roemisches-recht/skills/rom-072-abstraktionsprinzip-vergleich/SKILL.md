@@ -1,50 +1,54 @@
 ---
 name: rom-072-abstraktionsprinzip-vergleich
-description: "Römisches Recht: Abstraktionsprinzip Vergleich. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Abstraktionsprinzip - Iulianus D. 41.1.36 als mögl. röm. Vorläufer vs. Kausalprinzip (D. 41.1.31 Gaius) und Übernahme als deutschrechtliches Abstraktionsprinzip in BGB §§ 873 und 929."
 ---
 
-# Abstraktionsprinzip Vergleich
+# Abstraktionsprinzip im Vergleich
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Abstraktionsprinzip Vergleich** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das BGB-Abstraktionsprinzip trennt obligatorisches Grundgeschäft vom dinglichen Erfüllungsgeschäft (§§ 873, 929). Im röm. Recht ist umstritten: D. 41.1.31 pr. (Gaius) fordert iusta causa für die traditio (Kausalprinzip); D. 41.1.36 (Iulianus) scheint zu erlauben, dass Eigentumsübergang trotz verschiedener causae eintritt. Savigny leitete das Abstraktionsprinzip aus dieser Julianus-Stelle ab - historisch umstritten.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 41.1.31 pr. (Gaius)**: Iusta causa-Erfordernis der traditio
+- **D. 41.1.36 (Iulianus)**: Dissensus in causa, aber Einigkeit über Übergabe
+- **BGB § 929 Satz 1**: Einigung und Übergabe (abstrakt)
+- **BGB § 873 Abs. 1**: Einigung und Eintragung (Grundstück, abstrakt)
+- **D. 41.1.9.3 (Gaius)**: Übergabe durch longa manu
+- **Savigny, System Bd. 3 (1840)**: Entwicklung des Abstraktionsprinzips
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- Abstraktionsprinzip: Dingliches Geschäft unabhängig vom Grundgeschäft
+- Kausalprinzip: Übereignung nur bei gültigem Rechtsgrund
+- Trennungsprinzip: obligatorisches und dingliches Geschäft getrennt
+- Iusta causa traditionis: Rechtsgrundelerfordernis
+- Julianus D. 41.1.36: Schlüsseltext der Abstraktion
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. D. 41.1.36 (Iulianus): röm. Abstraktionsprinzip oder Ausnahme?
+2. Savignys Interpretation: historisch korrekt?
+3. Vergleich: Kausalprinzip (Frankreich, Schweiz) vs. Abstraktionsprinzip (Deutschland)
+4. Gutgläubiger Erwerb: besser beim Kausal- oder Abstraktionsprinzip geschützt?
+5. Was verliert man durch das Abstraktionsprinzip?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 41.1.31 und D. 41.1.36 Textanalyse
+- Savigny System Bd. 3 (archive.org)
+- Flume AGB II § 12
+- BGB §§ 873, 929 (gesetze-im-internet.de)
+- Kaser RP I § 118
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schaubild: Abstraktions- vs. Kausalprinzip
+- Textanalyse: D. 41.1.36 (Iulianus)
+- Memo: Savignys Argumentation und ihre Schwächen
+- Rechtsvergleich: Deutschland (BGB) vs. Frankreich (Code civil)
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 41.1 (Mommsen-Krüger). Savigny System (archive.org). BGB: gesetze-im-internet.de. Flume AGB II.

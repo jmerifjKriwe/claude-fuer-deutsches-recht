@@ -1,50 +1,51 @@
 ---
 name: drg-037-bodenreform-und-vermoegensrecht
-description: "Deutsche Rechtsgeschichte: Bodenreform Und Vermoegensrecht. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Bodenreform in der SBZ/DDR 1945-1949, Enteignungen ohne Entschaedigung, Fortgeltungsausschluss im Einigungsvertrag 1990 und BVerfGE 84-90 als Grundsatzentscheidung."
 ---
 
-# Bodenreform Und Vermoegensrecht
+# Bodenreform und Vermoegensrecht (1945-1990)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Bodenreform Und Vermoegensrecht** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Bodenreform in der Sowjetischen Besatzungszone (SBZ) 1945-49 enteignete Gutsbesitzer ueber 100 Hektar sowie aktive Nationalsozialisten entschaedigungslos. Ca. 3,3 Millionen Hektar wurden umverteilt. Die Gemeinsame Erklaerung der BRD- und DDR-Regierungen vom 15. Juni 1990 (Teil des Einigungsvertrags) schloss Restitution fuer die Bodenreform-Enteignungen von 1945-49 aus. Das BVerfG bestaetigte dies in BVerfGE 84, 90 (1991) und BVerfGE 94, 12 (1996): Die Eigentumsgarantie des GG galt fuer diese Enteignungen nicht, da sie unter alliierter Besatzungshoheit stattfanden.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **SMAD-Befehl Nr. 209** (1945): Sowjetischer Befehl zur Enteignung
+- **Gemeinsame Erklaerung 1990** (Anlage III EV): Ausschluss der Bodenreform von Restitution
+- **VermG § 1 Abs. 8 lit. a**: Gesetzlicher Ausschluss der Bodenreform-Restitution
+- **BVerfGE 84, 90** (1991): Verfassungsmaessigkeit des Restitutionsausschlusses
+- **BVerfGE 94, 12** (1996): Bestaetigung der Ausschlussnorm
+- **GG Art. 14**: Eigentumsgarantie im Kontext des Einigungsvertrags
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **SMAD** (Sowjetische Militaerverwaltung): Traeger der Bodenreformbefehle
+- **Bundesverfassungsgericht**: BVerfGE 84, 90 und 94, 12 als Grundsatzentscheidungen
+- **Wolfgang Schaeuble** und **Guenther Krause**: Einigungsvertrags-Verhandlungsfuehrer
+- **Treuhandanstalt**: Verwaltung von Bodenreform-Flaechen
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Alliierte Besatzungshoheit: Durfte das GG die Bodenreform nicht rueckgaengig machen oder war das politische Entscheidung?
+2. BVerfGE 84, 90: War die Begruendung ueberzeugend oder hat das BVerfG politischen Druck nachgegeben?
+3. EGMR Jahn und andere v. Germany 2005: Hat der Europaeische Gerichtshof fuer Menschenrechte die Entscheidung bestaetigte?
+4. Neubauerndoerfer: Was geschah mit Neubauern, die Bodenreform-Land erhalten hatten?
+5. Gleichheitsgebot: War die Differenzierung zwischen Bodenreform (kein Anspruch) und anderen NS-DDR-Enteignungen sachgerecht?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- BVerfGE 84, 90 und 94, 12: bverfg.de vollstaendig lesen
+- VermG § 1 Abs. 8: gesetze-im-internet.de fuer Wortlaut
+- EGMR Jahn v. Germany (2005): ECHR-Datenbank (hudoc.echr.coe.int)
+- Bodenreform-Dokumente: SMAD-Befehl Nr. 209 im Bundesarchiv (Bestand DY 30)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Chronologische Darstellung Bodenreform 1945-49 und rechtliche Folgen
+- BVerfGE 84, 90 und 94, 12: Kernaussagen und Kritikpunkte
+- EGMR-Entscheidung Jahn v. Germany: Verhaltnis zu deutschem Verfassungsrecht
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+BVerfGE: bverfg.de. VermG: gesetze-im-internet.de. Einigungsvertrag Anlage III: BGBl. II 1990. EGMR: hudoc.echr.coe.int. Bundesarchiv fuer SMAD-Befehle: invenio.bundesarchiv.de.

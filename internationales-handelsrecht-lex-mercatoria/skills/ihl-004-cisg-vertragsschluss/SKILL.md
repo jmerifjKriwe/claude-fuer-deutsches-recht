@@ -1,50 +1,53 @@
 ---
 name: ihl-004-cisg-vertragsschluss
-description: "Internationales Handelsrecht und Lex Mercatoria: CISG Vertragsschluss. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Vertragsschluss nach CISG Art. 14-24. Angebot (Bestimmtheit nach Art. 14), Annahme (Art. 18-22), Widerruflichkeit (Art. 16), Verspätung (Art. 21) und Mirror-Image-Rule vs. modifizierte Annahme (Art. 19)."
 ---
 
-# CISG Vertragsschluss
+# CISG Vertragsschluss (Art. 14-24)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **CISG Vertragsschluss** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das CISG regelt Angebot und Annahme in Art. 14-24 autonom. Ein Angebot ist ausreichend bestimmt (Art. 14 Abs. 1), wenn es Ware, Menge und Preis (oder Preisbestimmungsmethode) nennt. Die modifizierte Annahme (Art. 19) weicht vom Common-Law Mirror-Image-Prinzip ab: wesentliche Abweichungen wirken als Gegenangebot; unwesentliche werden Vertragsinhalt, sofern Anbieter nicht widerspricht.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Art. 14 CISG**: Angebot — Bestimmtheit (Ware, Menge, Preis)
+- **Art. 15-17 CISG**: Wirksamwerden, Widerruf, Erlöschen
+- **Art. 16 CISG**: Widerruflichkeit vs. Bindung (Ausnahmen: Frist gesetzt, Vertrauen)
+- **Art. 18 CISG**: Annahme — Erklärung oder schlüssiges Verhalten
+- **Art. 19 CISG**: Modifizierte Annahme — wesentliche (Abs. 3) vs. unwesentliche Abweichung
+- **Art. 21 CISG**: Verspätete Annahme (Wirksamkeit wenn Anbieter unverzüglich bestätigt)
+- **Art. 23-24 CISG**: Zugang als Wirksamkeitsvoraussetzung
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Bestimmtheit des Angebots (CISG autonom — kein BGB §145-Vergleich)
+- Battle of forms unter CISG: Knock-out-Regel vs. Last-Shot (Streit)
+- Wesentliche Abweichung nach Art. 19 Abs. 3 (Preis, Zahlung, Qualität, Menge, Ort, Haftung, Streitbeilegung)
+- Zugang-Prinzip (Art. 24): Zugang bei mündlicher Erklärung sofort
+- Schweigen als Annahme? (Grundsätzlich nein, Ausnahme: Handelsbrauch Art. 9)
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Ist eine Preisliste ein Angebot i.S.d. Art. 14? (Grundsatz: Einladung zur Abgabe)
+2. Battle of Forms: Welche AGB gelten, wenn beide Parteien widersprechende AGB einbeziehen?
+3. Wann ist eine Abweichung in der Annahmeerklärung "wesentlich" nach Art. 19 Abs. 3?
+4. Kann ein Kaufvertrag durch E-Mail-Korrespondenz (ohne Unterschrift) nach CISG wirksam geschlossen werden?
+5. Verspätete Annahme: Wann muss der Anbieter unverzüglich nach Art. 21 Abs. 1 reagieren?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Art. 14 Bestimmtheit: Preis-Fehlen nicht automatisch fatal (Art. 55 als Lückenfüller — umstritten)
+- Battle of Forms: Knock-out-Regel herrschende Meinung in Schiedsgerichtsbarkeit
+- Zugang bei E-Mail: Server-Eingang als Zugang (analog Art. 24); elektronische Signatur kein CISG-Thema
+- Immer prüfen ob Art. 9 Handelsbrauch eine abweichende Praxis begründet
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Vertragsschluss-Schema (Angebot → Annahme → Zugang)
+- Battle-of-Forms-Matrix: welche Klauseln gelten
+- Formulierungshilfe: Schiedsklausel in Angebot integrieren ohne Art. 19 zu riskieren
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG Art. 14-24: uncitral.un.org. CISG-Rspr.: CISG-online.ch, jusmundi.com. Schrifttum: Magnus in Staudinger (2018) Art. 14-24. Unsicherheit bleibt sichtbar.

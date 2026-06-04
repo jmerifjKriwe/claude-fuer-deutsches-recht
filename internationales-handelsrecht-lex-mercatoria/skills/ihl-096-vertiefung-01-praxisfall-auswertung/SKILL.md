@@ -1,50 +1,52 @@
 ---
 name: ihl-096-vertiefung-01-praxisfall-auswertung
-description: "Internationales Handelsrecht und Lex Mercatoria: Vertiefung 01 Praxisfall Auswertung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Auswertung eines Praxisfalls aus dem internationalen Handel. Strukturierter Fallansatz: Sachverhalt, Rechtsrahmen, Subsumtion (CISG, Incoterms, UCP), Ergebnis und Handlungsempfehlungen auf Basis realer Materialien."
 ---
 
-# Vertiefung 01 Praxisfall Auswertung
+# Praxisfall-Auswertung Internationales Handelsrecht
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Vertiefung 01 Praxisfall Auswertung** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Praxisfall-Auswertung transferiert die theoretischen Normen auf einen konkreten grenzüberschreitenden Handelsfall. Strukturierter Ansatz: Sachverhalt → anwendbares Recht (CISG-Anwendbarkeit, Incoterms-Klausel, UCP-Status) → Subsumtion (Vertragsmäßigkeit, Rüge, Schadensersatz) → Ergebnis → Handlungsempfehlung.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CISG Art. 1-3**: Anwendbarkeit-Prüfung als Startpunkt
+- **Incoterms 2020**: Gefahrübergang-Zeitpunkt für Risikoallokation
+- **UCP 600**: Dokumentenprüfung wenn Akkreditiv involviert
+- **CISG Art. 38-39**: Rügepflicht immer prüfen
+- **CISG Art. 74-77**: Schadensersatz-Kalkulation als Ergebnis
+- **NY Convention Art. V**: Vollstreckungsanalyse als Abschluss
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- IRAC-Schema: Issue, Rule, Application, Conclusion (adaptiert für internationales Handelsrecht)
+- Normhierarchie: Vertrag → CISG → nationales Recht → Soft Law
+- Beweislastverteilung: wer muss was beweisen (Mangel, Rüge-Versäumnis, Force Majeure)
+- Schadensquantifizierung: konkrete Zahlen aus Sachverhalt für Art. 74-76 berechnen
+- Handlungsempfehlung: rechtlich und kaufmännisch (nicht nur "klagen Sie")
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Fallbearbeitung: Maschinen-Kaufvertrag D→BR, CIF, Akkreditiv, Qualitätsmangel — vollständige Fallanalyse
+2. Rüge-Timing: Aus dem Sachverhalt: Wann wurde Mangel entdeckt und wann gerügt?
+3. Deckungskauf: Konnte Käufer Ersatzmaschine kaufen? Preisnachweise vorhanden?
+4. Vollstreckung Brasilien: Gilt NY Convention in Brasilien (ja, seit 2002)?
+5. Board-Empfehlung: Settlen oder Schiedsverfahren — Kosten-Nutzen-Analyse?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- IRAC-Struktur: konsequent für jeden Anspruch durchspielen
+- Normhierarchie-Prüfung: Vertrag geht vor, dann CISG, dann IPR-Recht
+- Zahlen eintragen: Kaufpreis, Deckungskaufpreis, Zinsen, Schadensminderung konkret berechnen
+- Ergebnis mit Unsicherheit: "wahrscheinlich... [75% Erfolgswahrscheinlichkeit], aber unsicher wegen..."
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- IRAC-Fallanalyse-Template (internationales Handelsrecht)
+- Schadensberechnungs-Worksheet
+- Board-Memo-Format für Handelsstreit
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG: uncitral.un.org. Incoterms 2020: iccwbo.org. UCP 600: iccwbo.org. NY Convention: newyorkconvention.org. Unsicherheit bleibt sichtbar.

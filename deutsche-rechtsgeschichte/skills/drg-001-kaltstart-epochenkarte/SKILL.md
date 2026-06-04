@@ -1,50 +1,52 @@
 ---
 name: drg-001-kaltstart-epochenkarte
-description: "Deutsche Rechtsgeschichte: Kaltstart Epochenkarte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Epochenkarte als Orientierungsinstrument. Mittelalter, Rezeption, Kodifikationen, Kaiserreich, Weimar, NS, DDR, BRD und EU als aufeinander folgende Rechtsepochen mit je eigener Quellenbasis und Methodik."
 ---
 
-# Kaltstart Epochenkarte
+# Kaltstart-Epochenkarte Deutsche Rechtsgeschichte
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Kaltstart Epochenkarte** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Epochenkarte ist das zentrale Orientierungsinstrument für jeden rechtshistorischen Einstieg. Sie gliedert die deutsche Rechtsgeschichte in distinkte Perioden: germanisches Stammesrecht (bis ca. 900), mittelalterliches Recht mit Sachsenspiegel (ca. 1220-1500), Rezeptionsepoche (ca. 1450-1650), Naturrechts- und Vernunftrechtsbewegung (17./18. Jh.), Kodifikationsepoche (ALR 1794, Code Civil 1804, BGB 1900), Kaiserreich (1871-1918), Weimarer Republik (1919-1933), NS-Unrechtsregime (1933-1945), DDR-Parallelsystem (1949-1990) und Bundesrepublik mit EU-Ueberformung.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Sachsenspiegel** (ca. 1220-1235): Eike von Repgow, Landrecht und Lehnrecht
+- **ALR 1794**: Allgemeines Landrecht fuer die Preussischen Staaten, ca. 17000 Paragraphen
+- **ADHGB 1861**: Allgemeines Deutsches Handelsgesetzbuch, Vorlaeufer des HGB
+- **BGB 1900** (RGBl. 1896, 195): Inkrafttreten 1. Januar 1900
+- **WRV 1919** (RGBl. 1919, 1383): Weimarer Reichsverfassung
+- **GG 1949** (BGBl. 1949, 1): Grundgesetz fuer die Bundesrepublik Deutschland
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Eike von Repgow** (ca. 1180-1233): Verfasser des Sachsenspiegels
+- **Friedrich Carl von Savigny** (1779-1861): Historische Rechtsschule, Begruender der Pandektistik
+- **Carl Friedrich von Gerber** (1823-1891) und **Paul Laband** (1838-1918): Staatsrechtslehre des Kaiserreichs
+- **Hugo Preuss** (1860-1925): Hauptredaktor der WRV
+- **Hermann von Mangoldt** (1895-1953): Parlamentarischer Rat, GG-Entstehung
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Periodenabgrenzung: Wann endet die Rezeptionsepoche und beginnt die Kodifikationsepoche?
+2. Kontinuitaet oder Bruch 1945: Nachwirkung von NS-Richtern und NS-Juristen im Nachkriegsdeutschland
+3. Verhaeltnis DDR-Recht zum gesamtdeutschen Rechtsbestand nach 1990
+4. Europarechtsueberformung als neue Epoche oder Fortsetzung der BRD-Epoche?
+5. Methodentransfer: Darf man GG-Begriffe in Weimarer Verfassungstexte hineinlesen?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Epochengrenzen nicht starr setzen: Uebergaenge sind fliessend
+- Quellenpyramide beachten: Gesetzestext, Materialien (Mugdan fuer BGB), Rechtsprechung, Lehre
+- Anachronismus-Falle: Begriffe der heutigen Dogmatik nicht unkritisch auf aeltere Texte anwenden
+- Parallelueberlieferung pruefen: Partikularrecht bestand neben reichsweiten Regelungen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Epochentabelle mit Quellen, Schluesselnoemen und Schluesselpersonen
+- Kurzbeschreibung der Methodenwechsel je Epoche
+- Hinweise auf verfuegbare Digitalisate (ALEX, documentArchiv.de, MGH online)
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Primaerquellen ueber documentArchiv.de (WRV, GG-Urtext), Reichsgesetzblatt via ALEX/OeNB, MGH fuer mittelalterliche Quellen. BGB-Materialien: Mugdan, Die gesamten Materialien zum BGB (6 Bde., 1899). Unsicherheit sichtbar lassen.

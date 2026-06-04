@@ -1,50 +1,50 @@
 ---
 name: drg-020-erbrecht-und-hofrecht
-description: "Deutsche Rechtsgeschichte: Erbrecht Und Hofrecht. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Erbrecht und Hofrecht. Sachsenspiegel-Erbrecht, BGB-Erbrecht 1900, Anerbenrecht und Hoefe-Kodifikation, NS-Reichserbhofgesetz 1933 und heutiges Hoefe-Recht."
 ---
 
-# Erbrecht Und Hofrecht
+# Erbrecht und Hofrecht
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Erbrecht Und Hofrecht** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Erbrecht hat in Deutschland eine vielschichtige Geschichte. Das Sachsenspiegel-Erbrecht (Ldr. I 17-27) kannte das Sippenerbe ohne Testament. Das roemisch-kanonische Recht brachte das Testament und die Testierfreiheit. Das BGB 1900 kodifizierte ein liberales Erbrecht mit Testierfreiheit (§§ 1937-1940 BGB) und gesetzlicher Erbfolge (§§ 1924 ff.). Sonderrecht galt fuer baeuerliche Behoefe (Anerbenrecht): In einzelnen Laendern galten Hoferbfolgegesetze, die das Gut ungeteilt auf einen Erben uebergehen liessen. Das NS-Reichserbhofgesetz 1933 (RGBl. I 1933, 685) schuf ein Sondererbrecht fuer Bauern. Das heutige HoefeO (BGBl. III 21-1) gilt in bestimmten Laendern weiterhin.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Sachsenspiegel Ldr. I 17-27**: Mittelalterliches Sippenerbe
+- **BGB §§ 1922-2385**: Erbrecht, Testierfreiheit und gesetzliche Erbfolge
+- **Reichserbhofgesetz 1933 (RGBl. I 1933, 685)**: NS-Sonderrecht fuer baeuerliche Hoefe
+- **HoefeO 1947 (BGBl. III 21-1)**: Weitergeltendes Anerbenrecht in Norddeutschland
+- **BGB §§ 1924-1933**: Gesetzliche Erbfolge nach Verwandtschaft und Ehe
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Eike von Repgow**: Sachsenspiegel-Erbrecht
+- **BGB-Kommission**: Diskussion Testierfreiheit vs. Pflichtteilsrecht
+- **Walther Darre** (1895-1953): NS-Reichsbauernfuehrer, Urheber des Reichserbhofgesetzes
+- **Landesarbeitsgemeinschaft der Anerbenrechts-Beratungsstellen**: Nachkriegs-Hofrecht
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Reichserbhofgesetz 1933: Sozialschutz fuer Bauern oder rassistische Blut-und-Boden-Ideologie?
+2. Anerbenrecht heute: Ist die Bevorzugung eines Erben noch verfassungskonform (Art. 3 GG)?
+3. BGB-Testierfreiheit und Pflichtteil: Zu wenig Schutz fuer Familienangehoerige?
+4. Sachsenspiegel-Erbrecht: Wie weit war es vom roemischen Testament entfernt?
+5. Erbschaft-Steuerrecht und seine Verfassungsmaessigkeit: BVerfGE 117, 1 und Folgeentscheidungen
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Sachsenspiegel Erbrecht: MGH-Edition
+- BGB Erbrecht: gesetze-im-internet.de; Mugdan Bd. V (1899)
+- Reichserbhofgesetz 1933: RGBl. I 1933, 685 via ALEX/OeNB
+- HoefeO: gesetze-im-internet.de (Bundesrecht Anerbenrecht)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste Erbrecht: Sachsenspiegel bis BGB 1900 und Sonderrecht
+- Reichserbhofgesetz 1933: Inhalt und Kritik
+- Anerbenrecht heute: HoefeO-Anwendung und Verfassungsfragen
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Sachsenspiegel Erbrecht: MGH-Edition. BGB Erbrecht: gesetze-im-internet.de; Mugdan Bd. V. Reichserbhofgesetz 1933: ALEX/OeNB. HoefeO: gesetze-im-internet.de.

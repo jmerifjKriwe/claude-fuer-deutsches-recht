@@ -1,50 +1,54 @@
 ---
 name: rom-079-gesellschaftsrecht-vergleich
-description: "Römisches Recht: Gesellschaftsrecht Vergleich. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Gesellschaftsrecht im Vergleich - röm. societas (D. 17.2) vs. BGB-GbR (§§ 705ff.), OHG (HGB) und juristische Person - Fehlen der juristischen Person im röm. Recht und die collegium-Diskussion."
 ---
 
-# Gesellschaftsrecht Vergleich
+# Gesellschaftsrecht im Vergleich
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Gesellschaftsrecht Vergleich** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die röm. societas (D. 17.2) ist ein rein schuldrechtlicher Personenzusammenschluss ohne Rechtspersönlichkeit. Das BGB übernahm das Modell in §§ 705ff. (GbR); das HGB baute die OHG als Handelsgesellschaft darauf auf. Der wichtigste Unterschied: die röm. societas kannte keine juristische Person (kein Gesellschaftsvermögen, keine Außenhaftung). Collegia (Vereine) waren privilegierte Körperschaften, aber kein allgemeines Gesellschaftsrecht.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 17.2.1 (Ulpian)**: Societas - Definition
+- **D. 3.4.1 (Gaius)**: Corpus (collegium) - Körperschaft
+- **D. 47.22.1 (Gaius)**: Collegia - staatliche Genehmigung
+- **BGB § 705**: GbR - Vertragsgrundlage
+- **BGB § 54**: Nicht-rechtsfähige Vereine (nahe an röm. societas)
+- **HGB § 105**: OHG als Handelsgesellschaft
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- röm. societas: rein schuldrechtlich, keine Rechtspersönlichkeit
+- collegium: privilegierte Körperschaft (Handwerker, Soldaten)
+- universitas: Bezeichnung für Körperschaften im röm. Recht
+- GbR: deutsche Entsprechung der societas
+- affectio societatis: Gesellschaftswille als Konstitutivum
+- Rechtsfähigkeit: von röm. societas nicht anerkannt
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Hatte die societas de facto Außenwirkung gegen Dritte?
+2. Verhältnis societas - collegium: Abgrenzung
+3. Rechtspersönlichkeit im röm. Recht: universitas als Vorform?
+4. Savignys Fiktionstheorie der juristischen Person: röm. Ursprung?
+5. Wie entstand die GmbH: ohne röm. Vorbild?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 17.2 (Pro socio); D. 3.4 (Quod cuiuscumque universitatis nomine)
+- Gaius Inst. 3.148-154
+- BGB §§ 705-740 (gesetze-im-internet.de)
+- Kaser RP I §§ 230-235; Wieacker Privatrechtsgeschichte
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Vergleichstabelle: röm. societas vs. GbR vs. OHG
+- Memo zu collegium und universitas
+- Schema: Haftung in der societas
+- Vergleich: juristische Person röm. vs. mod. Recht
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 17.2; D. 3.4 (Mommsen-Krüger). BGB: gesetze-im-internet.de. Kaser RP I. Wieacker.

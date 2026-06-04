@@ -1,50 +1,50 @@
 ---
 name: drg-052-verbraucherschutzgeschichte
-description: "Deutsche Rechtsgeschichte: Verbraucherschutzgeschichte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Geschichte des Verbraucherschutzrechts. AGBG 1976, Haustuerwiderrufsgesetz 1986, Verbraucherkreditgesetz 1990, Schuldrechtsreform 2002 und EU-Verbraucherrichtlinien."
 ---
 
 # Verbraucherschutzgeschichte
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Verbraucherschutzgeschichte** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Verbraucherschutzrecht ist ein Kind des 20. Jahrhunderts. Das BGB 1900 kannte keinen gesonderten Verbraucherschutz. Die Sozialschutzluecke wurde schrittweise geschlossen: Mieterschutz 1917, Kleinkreditmissbrauch (RG-Rspr. 1920er), Ratenzahlungsrechtsprechung. Das AGB-Gesetz 1976 (AGBG, BGBl. I 1976, 3317) kontrollierte erstmals systematisch einseitig vorformulierte Vertragsbedingungen. Das Haustuerwiderrufsgesetz 1986 (BGBl. I 1986, 122) schuf ein Widerrufsrecht fuer Haustuergeschaefte. Das Verbraucherkreditgesetz 1990 (BGBl. I 1990, 2840) regelte Ratenkredite. Die Schuldrechtsreform 2002 integrierte alle Verbraucherschutznormen ins BGB.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **AGBG 1976 (BGBl. I 1976, 3317)**: Allgemeine Geschaeftsbedingungen-Gesetz
+- **HaustuerWG 1986 (BGBl. I 1986, 122)**: Widerrufsrecht bei Haustuergeschaeften
+- **VerbrKrG 1990 (BGBl. I 1990, 2840)**: Verbraucherkreditgesetz
+- **BGB §§ 305-310** (nach SchuRModG 2002): AGB-Kontrolle im BGB
+- **BGB § 355 ff.**: Widerrufsrecht Verbraucher
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Bundesjustizministerium**: Treiber der Verbraucherschutzgesetzgebung
+- **Verbraucherzentralen**: Interessenverbande und Abmahnberechtigte
+- **BGH (VIII. Zivilsenat)**: Leitentscheidungen zum Verbraucherrecht
+- **EU-Kommission**: Verbraucherschutz-Richtlinien (z. B. 93/13/EWG, 2019/771)
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. AGBG 1976 als Revolution: Warum kam es erst so spaet?
+2. AGB-Integration ins BGB 2002: Systematischer Gewinn oder Verlust an Praezision?
+3. Widerrufsrecht: Wie weit darf es gehen? Missbrauch bei Online-Kaeufen?
+4. EU-Verbraucherschutzrecht und BGB: Wer setzt hoehere Standards?
+5. Verbraucher-Begriff: Wer ist Verbraucher und wer nicht?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- AGBG 1976: BGBl. I 1976, 3317; historische Originalfassung
+- BGB §§ 305-310 und 355 ff.: gesetze-im-internet.de
+- BGH-Verbraucherrecht: bgh.de
+- EU-AGB-Richtlinie 93/13/EWG: eur-lex.europa.eu
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste Verbraucherschutz: 1976-2022
+- AGBG und BGB: vor/nach SchuRModG 2002 Vergleich
+- Widerrufsrecht: Entwicklung von 1986 bis heute
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+AGBG 1976: BGBl. I 1976, 3317. BGB: gesetze-im-internet.de. BGH: bgh.de. EU-Richtlinien: eur-lex.europa.eu.

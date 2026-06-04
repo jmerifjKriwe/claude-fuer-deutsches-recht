@@ -1,50 +1,53 @@
 ---
 name: rom-040-eviktion-und-sachmaengel
-description: "Römisches Recht: Eviktion Und Sachmaengel. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Eviktionshaftung (D. 21.2) und Sachmängelgewährleistung (Edictum aedilicium, D. 21.1) beim Kauf - stipulatio duplae, actio de modo agri, aedilizische actio redhibitoria und actio quanti minoris."
 ---
 
-# Eviktion Und Sachmaengel
+# Eviktion und Sachmängelgewährleistung
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Eviktion Und Sachmaengel** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Der Verkäufer haftet für Eviktion: wenn ein Dritter dem Käufer die Sache erfolgreich vindiziert, schuldet der Verkäufer Schadensersatz. Klassisch war Eviktionshaftung nur durch Stipulation gesichert (stipulatio duplae). Das Aedilische Edikt (D. 21.1) verschärfte die Gewährleistung beim Sklavenkauf: actio redhibitoria (Rückgabe) und actio quanti minoris (Preisminderung). Frist: 6 Monate (redhibitoria), 1 Jahr (quanti minoris).
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 21.2.1 (Ulpian)**: Eviktionshaftung und stipulatio duplae
+- **D. 21.1.1.1 (Ulpian)**: Edictum aedilicium - Einleitung
+- **D. 21.1.19.5 (Ulpian)**: Actio redhibitoria
+- **D. 21.1.44 pr. (Ulpian)**: Actio quanti minoris
+- **D. 19.1.11.3 (Ulpian)**: Eviktionshaftung aus actio empti
+- **D. 21.1.4.3 (Ulpian)**: Verkäufer muss Mängel angeben
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- eviktion: gerichtlicher Rechtsverlust des Käufers durch Drittanspruch
+- stipulatio duplae: Eviktionsversicherung für den doppelten Kaufpreis
+- actio redhibitoria: Rückgaberecht bei Sachmängeln (6 Monate)
+- actio quanti minoris: Preisminderung (1 Jahr)
+- vitium: Mangel (Krankheit, Laster des Sklaven)
+- aedilizische Gewährleistung: verschärfte Haftung gegenüber ius civile
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Verhältnis actio empti - aedilizische Klagen: Konkurrenz oder Subsidiarität?
+2. Geheimhaltung von Mängeln als dolus: Haftung aus actio empti?
+3. Eviktionshaftung ohne Stipulation: entwickelt sich actio empti zum Eviktionsschutz?
+4. Fristen der aedilizischen Klagen: woher kommen 6 Monate/1 Jahr?
+5. Vergleich mit BGB §§ 434ff. (Sachmängel) und § 437ff.
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 21.2 (De evictionibus) und D. 21.1 (De aedilicio edicto)
+- Kaser RP I §§ 200-207; Zimmermann Law of Obligations Kap. 12
+- Vergleich BGB §§ 434-445
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: Eviktionshaftung mit Fristen
+- Aedilische Gewährleistung: redhibitoria vs. quanti minoris
+- Memo zur stipulatio duplae
+- Vergleich röm. Gewährleistung vs. BGB
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 21.1-2 (Mommsen-Krüger). Kaser RP I. Zimmermann Law of Obligations. Vergleich: BGB §§ 434-445 (gesetze-im-internet.de).

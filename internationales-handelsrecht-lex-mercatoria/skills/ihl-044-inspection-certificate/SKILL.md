@@ -1,50 +1,51 @@
 ---
 name: ihl-044-inspection-certificate
-description: "Internationales Handelsrecht und Lex Mercatoria: Inspection Certificate. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Inspektionszertifikat im internationalen Handel. Arten (Quantitäts-, Qualitäts-, Herkunftszertifikat), Anforderungen nach UCP 600 Art. 26, Aussteller (SGS, Bureau Veritas, Intertek), und Wirkung als Beweisurkunde in Streitfällen."
 ---
 
-# Inspection Certificate
+# Inspektionszertifikat
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Inspection Certificate** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Inspektionszertifikate bescheinigen Qualität, Menge, Ursprung oder Zustand von Waren und sind häufig Akkreditivdokument. UCP 600 Art. 26 regelt die Anforderungen an Inspektionszertifikate. Im Streitfall dienen sie als Beweismittel zur Vertragsmäßigkeit nach CISG Art. 35.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **UCP 600 Art. 26**: Inspection Certificate — Anforderungen (Aussteller, Inhalt, Datum)
+- **CISG Art. 35**: Vertragsmäßigkeit — Inspektionszertifikat als Beweismittel
+- **CISG Art. 38**: Käufer-Untersuchungspflicht — PSI kann Pflicht erfüllen
+- **ISO/IEC 17020**: Akkreditierungsanforderungen für Inspektionsstellen
+- **WHO Inspection Standards** (für Pharma/Lebensmittel): GMP/GHP
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Quantitätszertifikat: Gewichts- und Mengenbescheinigung (SGS, BV)
+- Qualitätszertifikat: Konformität mit Vertragsmerkmalen
+- Phytosanitäres Zertifikat: Pflanzenschutz für Agrarimporte
+- Ursprungszeugnis: IHK oder staatliche Ausstellung (nicht-präferenzielle)
+- Funnel-Test: Akkreditiv-Anforderungen müssen auf Zertifikatsinhalt passen
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Akkreditiv verlangt "Inspection Certificate by SGS" — BV-Zertifikat akzeptabel?
+2. Zertifikat vom falschen Datum: Diskrepanz nach UCP 600 Art. 26?
+3. Zertifikat bescheinigt Konformität, Ware ist defekt: Welchen Beweiswert hat das Zertifikat?
+4. Phytosanitäres Zertifikat: Wer stellt aus und wann muss es vorliegen?
+5. ISO 17020 Akkreditierung: Verlangt UCP 600 akkreditierten Aussteller?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Akkreditiv: Aussteller und Inhalt des Zertifikats exakt definieren (nicht nur "Inspection Certificate")
+- Streitfall: Zertifikat als Prima-facie-Beweis; Gegenbeweis durch eigene Inspektion
+- Phytosanitär: staatliche Ausstellung im Ursprungsland; Timing für Akkreditiv beachten
+- UCP 600 Art. 26: kein Standard-Format vorgegeben — Inhalt nach Akkreditivbedingungen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Inspektionszertifikat-Typen-Übersicht
+- UCP 600 Art. 26 Compliance-Checkliste
+- Muster-Akkreditivklausel für Inspektionszertifikat
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+UCP 600 Art. 26: iccwbo.org. CISG Art. 35/38: uncitral.un.org. ISO/IEC 17020: iso.org. Unsicherheit bleibt sichtbar.

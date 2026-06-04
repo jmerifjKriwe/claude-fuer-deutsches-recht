@@ -1,50 +1,50 @@
 ---
 name: drg-053-datenschutz-und-informationelle-selbstbestimmung
-description: "Deutsche Rechtsgeschichte: Datenschutz Und Informationelle Selbstbestimmung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Datenschutz und informationelle Selbstbestimmung. BDSG 1977, BVerfGE 65-1 Volkszaehlungsurteil 1983, informationelle Selbstbestimmung als Grundrecht und DSGVO 2018."
 ---
 
-# Datenschutz Und Informationelle Selbstbestimmung
+# Datenschutz und informationelle Selbstbestimmung
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Datenschutz Und Informationelle Selbstbestimmung** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Datenschutzrecht hat im 20. Jh. in Deutschland besondere Entwicklungen genommen. Das erste Bundesdatenschutzgesetz (BDSG 1977, BGBl. I 1977, 201) schuf einen fruehen gesetzlichen Rahmen. Das Volkszaehlungsurteil des BVerfG (BVerfGE 65, 1, 1983) leitete aus Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG ein Grundrecht auf informationelle Selbstbestimmung ab: Jeder hat das Recht, grundsaetzlich selbst ueber die Preisgabe und Verwendung seiner personenbezogenen Daten zu entscheiden. Die DSGVO 2018 (VO EU 2016/679) schuf ein europaweit einheitliches Datenschutzrecht und ersetzte national das BDSG weitgehend.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **BDSG 1977 (BGBl. I 1977, 201)**: Erstes Bundesdatenschutzgesetz
+- **BVerfGE 65, 1** (1983, Volkszaehlung): Informationelle Selbstbestimmung als Grundrecht
+- **GG Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1**: Verfassungsgrundlage des Datenschutzes
+- **DSGVO 2016 (ABl. EU 2016/L 119/1)**: EU-Datenschutz-Grundverordnung, ab 2018 anwendbar
+- **BDSG 2018 (BGBl. I 2017, 2097)**: Nationales Ausfuellungsgesetz zur DSGVO
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **BVerfG**: Volkszaehlungsurteil 1983 als Grundrechtsmeilenstein
+- **Bundesdatenschutzbeauftragter**: Aufsicht BDSG und DSGVO
+- **EU-Kommission und Parlament**: DSGVO-Gesetzgebung 2012-2016
+- **Landesbeauftragte fuer Datenschutz**: Aufsicht auf Laenderebene
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. BVerfGE 65, 1: Hat das BVerfG ein Grundrecht erfunden oder konkretisiert?
+2. BDSG 1977 und DSGVO 2018: Kontinuitaet oder Systemwechsel?
+3. DSGVO und nationale Besonderheiten: Hat Deutschland ausreichend Spielraum genutzt?
+4. Datenschutz und Meinungsfreiheit: Wann ueberwiegt welches Grundrecht?
+5. KI und Datenschutz: DSGVO zukunftsfest oder schon veraltet?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- BDSG 1977: BGBl. I 1977, 201; ALEX/OeNB fuer historischen Wortlaut
+- BVerfGE 65, 1: bverfg.de vollstaendig lesen
+- DSGVO: eur-lex.europa.eu (konsolidierte Fassung)
+- BDSG 2018: gesetze-im-internet.de
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste Datenschutz: BDSG 1977 bis DSGVO 2018
+- BVerfGE 65, 1 Volkszaehlung: Kernaussagen und Bedeutung
+- DSGVO vs. BDSG: Regelungsstruktur im Vergleich
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+BDSG 1977: BGBl. I 1977, 201. BVerfGE 65, 1: bverfg.de. DSGVO: eur-lex.europa.eu. BDSG 2018: gesetze-im-internet.de.

@@ -1,50 +1,49 @@
 ---
 name: drg-008-gemeines-recht-und-partikularrecht
-description: "Deutsche Rechtsgeschichte: Gemeines Recht Und Partikularrecht. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Gemeines Recht und Partikularrecht im 16.-19. Jahrhundert. Ius commune vs. Territorialrecht, Subsidiaritaet des roemischen Rechts, Preussens Sonderweg und Aufloesung durch die BGB-Kodifikation."
 ---
 
-# Gemeines Recht Und Partikularrecht
+# Gemeines Recht und Partikularrecht
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Gemeines Recht Und Partikularrecht** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Verhaeltnis von gemeinrechtlicher Doktrin (ius commune, roemisch-kanonisch) und territorialem Partikularrecht (Stadtrechte, Landrechte, Feudalrechte) praegt die Rechtswirklichkeit des fruehneuzeitlichen Deutschlands. Das gemeine Recht galt subsidiaar: Es trat zurueck, wenn Partikularrecht vorhanden war. In der Praxis war die Trennung fliessend: Gerichte wandten das gelehrte Recht an, auch wo Partikularrecht bestand. Das ALR 1794 versuchte, in Preussen das Nebeneinander zu beenden. Erst das BGB 1900 schuf endgueltig einen einheitlichen zivilrechtlichen Rechtsraum fuer das gesamte Deutsche Reich.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Digestentitel D. 1.1 und D. 1.3**: Ius commune-Grundlagen
+- **ALR 1794 Einleitung §§ 1-23**: Preussisches Verhaeltnis zum gemeinen Recht
+- **EGBGB Art. 2 (1900)**: Aufhebung des gemeinen Rechts mit BGB-Inkrafttreten
+- **Corpus Iuris Civilis** als subsidiaeres Gemeines Recht bis 1900
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Heinrich Dernburg** (1829-1907): Pandektenrechtler, letzter bedeutender Kommentator vor BGB
+- **Georg Friedrich Puchta** (1798-1846): Gemeines Recht als wissenschaftliches System
+- **Paul von Roth** (1820-1892): Partikularrecht und kodifikatorische Einheit
+- **Bayerisches, Oesterreichisches, Preussisches Partikularrecht**: Groesste Territorien mit eigenem Recht
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. War das Prinzip lex specialis (Partikularrecht vor gemeinrechtlicher Subsidiaritaet) konsequent durchgefuehrt?
+2. Welche Rechtsgebiete blieben laengste dem Partikularrecht: Erbrecht? Familienrecht? Sachenrecht?
+3. ALR und gemeines Recht in Preussen: Hat das ALR das gemeine Recht wirklich verdraengt?
+4. Verfahrensrechtliche Aspekte: Welches Recht wandten Gerichte in Grenzfaellen an?
+5. BGB und Restpartikularrechte: Was blieb durch EGBGB-Vorbehalte als Landesrecht?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- ALR: historische Druckausgaben und ALEX/OeNB
+- Gemeines Recht: Dernburg Pandekten (6. Aufl. 1884-1887) als Schluessellehrbuch
+- EGBGB: gesetze-im-internet.de fuer aktuell geltende Uebergangsvorschriften
+- Coing Handbuch (1973-88): Europaeische Kontextualisierung des gemeinen Rechts
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Karte: Partikularrechtliche Zersplitterung Deutschlands um 1800
+- Subsidiaritaetsprinzip: Anwendungsfaelle und Grenzen
+- EGBGB-Vorbehalte: Was blieb als Partikularrecht nach 1900?
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+ALR: ALEX/OeNB. EGBGB: gesetze-im-internet.de. Dernburg Pandekten: historische Edition (1884-1887). Coing Handbuch Bd. I: mit Seitenangabe.

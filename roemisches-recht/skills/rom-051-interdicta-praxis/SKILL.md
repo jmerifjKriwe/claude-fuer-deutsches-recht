@@ -1,50 +1,54 @@
 ---
 name: rom-051-interdicta-praxis
-description: "Römisches Recht: Interdicta Praxis. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Interdikte in der Praxis nach D. 43 und Gaius Inst. 4.138-170 - prohibitoria/restitutoria/exhibitoria, uti possidetis, unde vi, utrubi und interdiktaler Prozess."
 ---
 
-# Interdicta Praxis
+# Interdikte in der Praxis
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Interdicta Praxis** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Interdikte sind prätorische Befehle zum Schutz von Besitz, öffentlichem Raum und anderen Rechtsgütern. D. 43 enthält alle 23 Interdiktstitel mit klassischer Jurisprudenz. Gaius Inst. 4.138-170 erklärt Typen und Prozess. Besondere praktische Bedeutung: uti possidetis (Grundstücksbesitz), utrubi (Mobilien), und de precario (Widerruf der Gebrauchsüberlassung). Der Interdiktal-Prozess kann zum regulären Streit führen.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 43.1.1 (Ulpian)**: Arten der Interdikte
+- **D. 43.16 (Ulpian)**: Interdictum unde vi
+- **D. 43.17 (Ulpian)**: Interdictum uti possidetis
+- **D. 43.26 (Ulpian)**: Interdictum de precario
+- **D. 43.19 (Ulpian)**: Interdictum de itinere actuque
+- **Gaius Inst. 4.138-170**: Interdiktsrecht im Formularprozess
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- interdictum prohibitorium: ne facias (Verbot einer Handlung)
+- interdictum restitutorium: restitue (Wiederherstellung)
+- interdictum exhibitorium: exhibe (Vorlegung)
+- uti possidetis: wer besitzt zuletzt non vi, non clam, non precario
+- unde vi: bei gewaltsamer Besitzentziehung (Rückgabe innerhalb von 1 Jahr)
+- de precario: Rückforderung nach precarischer Überlassung
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Interdiktal-Prozess: arbiter-Verfahren nach Nichteinhaltung des Interdikts
+2. Besitzklausel uti possidetis: vi clam precario als Qualifikation
+3. Verhältnis Interdikte - possessorische Klagen
+4. Interdikte und actio publiciana: Konkurrenz?
+5. Fortleben der Interdiktsidee im modernen einstweiligen Rechtsschutz
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 43 (alle Interdiktstitel, Mommsen-Krüger)
+- Gaius Inst. 4.138-170
+- Lenel Edictum Perpetuum §§ 240ff. (archive.org)
+- Kaser/Hackl Zivilprozessrecht §§ 56-65
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Übersichtstabelle: 23 Interdiktstitel aus D. 43
+- Prozessschema: Interdict - Nichtbefolgung - Kognition
+- Fallbeispiele aus D. 43.16-17
+- Vergleich: röm. Interdikte vs. mod. einstweiliger Rechtsschutz
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 43 (Mommsen-Krüger). Gaius Inst. 4. Lenel Edictum (archive.org). Kaser/Hackl Zivilprozessrecht.

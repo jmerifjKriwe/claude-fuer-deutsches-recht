@@ -1,50 +1,50 @@
 ---
 name: drg-079-prozessrechtliche-entwicklung
-description: "Deutsche Rechtsgeschichte: Prozessrechtliche Entwicklung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Prozessrechtliche Entwicklung. Von der Reichskammergerichtsordnung 1495 ueber CPO 1877, ZPO 1877, VwGO 1960 bis zur elektronischen ZPO-Reform 2022."
 ---
 
 # Prozessrechtliche Entwicklung
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Prozessrechtliche Entwicklung** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Prozessrechtsgeschichte Deutschlands ist ein Spiegel der Verfassungsgeschichte. Das gemeine Recht kannte das schriftliche roemisch-kanonische Verfahren (Eventualitaetsmaxime, schriftliche Klagebeantwortung). Die Reichskammergerichtsordnung 1495 schrieb das gelehrte Verfahren vor. Die ZPO 1877 (RGBl. 1877, 83) und GVG 1877 schufen erstmals ein einheitliches deutsches Zivilprozessrecht mit Muendlichkeit und Oeffentlichkeit. Die Vereinfachungsnovelle 1977 (BGBl. I 1977, 861) und ZPO-Reform 2002 (BGBl. I 2001, 1887) modernisierten das System. Die VwGO 1960 schuf das Verwaltungsprozessrecht. Die elektronische Aktenführung (eJustice) ist die aktuelle Reform.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **RKGOrdnung 1495**: Erstes Reichsgericht mit schriftlichem Verfahren
+- **CPO 1877 (RGBl. 1877, 83)**: Civilprozessordnung, einheitliches Zivilprozessrecht
+- **VwGO 1960 (BGBl. I 1960, 17)**: Verwaltungsprozessrecht
+- **Vereinfachungsnovelle 1977 (BGBl. I 1977, 861)**: Ende der Eventualitaetsmaxime
+- **ZPO-Reform 2002 (BGBl. I 2001, 1887)**: Neues Rechtsmittelsystem
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Reichsgesetzgebungskommission 1877**: Schoepfer der Prozessrechtsgesetze
+- **Adolf Wach** (1843-1926): Wichtigster ZPO-Kommentator
+- **BGH**: Praegend fuer ZPO-Auslegung
+- **Bundesjustizministerium**: ZPO-Reformen
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Muendlichkeit vs. Schriftlichkeit: Hat die ZPO 1877 wirklich das muendliche Verfahren durchgesetzt?
+2. Vereinfachungsnovelle 1977: War die Abschaffung der Eventualitaetsmaxime ein Gewinn?
+3. ZPO-Reform 2002: Hat die Staerkung der ersten Instanz die Gerichte entlastet?
+4. eJustice und ZPO: Droht die Muendlichkeit durch digitale Aktenführung ausgehohlt zu werden?
+5. VwGO vs. ZPO: Warum hat das Verwaltungsprozessrecht sich staerker verspezifiziert?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- ZPO und VwGO: gesetze-im-internet.de
+- ZPO 1877: RGBl. 1877, 83 via ALEX/OeNB fuer historische Fassung
+- ZPO-Reform 2002: BGBl. I 2001, 1887
+- BGH zur ZPO: bgh.de
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste Prozessrecht: RKG 1495 bis ZPO 2022
+- Vergleich: Schriftlich-roemisch-kanonisch vs. ZPO 1877 (Muendlichkeit)
+- ZPO-Reform 2002: Kernpunkte Rechtsmittelsystem
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+ZPO und VwGO: gesetze-im-internet.de. ZPO 1877: ALEX/OeNB. ZPO-Reform 2002: BGBl. I 2001, 1887. BGH: bgh.de. RKG-Ordnung 1495: historische Editionen.

@@ -1,50 +1,49 @@
 ---
 name: drg-069-materialienarbeit-ohne-blindzitat
-description: "Deutsche Rechtsgeschichte: Materialienarbeit Ohne Blindzitat. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Materialienarbeit ohne Blindzitat. Korrekte Arbeit mit den Mugdan-Materialien, Reichstagsdebattenprotokollen und parlamentarischen Entwurfsbegruendungen ohne Quellenfiktion."
 ---
 
-# Materialienarbeit Ohne Blindzitat
+# Materialienarbeit ohne Blindzitat
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Materialienarbeit Ohne Blindzitat** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Materialienarbeit bedeutet das direkte Arbeiten mit den Entstehungsquellen einer Norm. Blindzitat ist die Nennung einer Quelle ohne nachprueifbare Angabe. In der Rechtsgeschichte ist Blindzitat ein methodischer Fehler erster Ordnung. Korrekte Materialienarbeit: (1) Quelle prazise benennen (Mugdan Bd. II, S. 348), (2) Zitat im Original (nicht paraphrasiert), (3) Kontext erklaeren (Erste oder Zweite Kommission? Motiv oder Protokoll?), (4) Wuerdigungsvorbehalt: Materialien binden den Richter nicht, sind aber Auslegungshilfe. Mugdan ist der Schluessel fuer BGB-Materialien; Reichstagsprotokolle sind der Schluessel fuer parlamentarisches Recht.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Mugdan, Die gesamten Materialien zum BGB** (6 Bde., 1899): Motive (Bd. I-V), Protokolle (Bd. VI)
+- **Reichstagsprotokolle**: reichstagsprotokolle.de fuer Parlamentsdebatten
+- **BVerfGE 62, 1** (1982): Materialien als anerkannte Auslegungshilfe
+- **BGB § 133**: Auslegungsgrundlage, historischer Wille als Element
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Benno Mugdan**: Herausgeber der BGB-Materialien (1899)
+- **BGB-Kommissionen**: Erzeuger der Motive und Protokolle
+- **Reichstag**: Erzeuger der Parlamentsprotokolle
+- **BGH**: Nutzer von Mugdan-Materialien in der Praxis
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Darf man aus Mugdan-Motiven unmittelbar auf Gesetzgeberwillen schliessen?
+2. Zweite Kommission aenderte Ersten Entwurf: Welche Materialien haben Vorrang?
+3. Materialien und spatere Gesetzesaenderungen: Gelten die Ursprungsmaterialien noch?
+4. Kein Mugdan-Pendant: Was tun bei fehlendem Materialienbezug?
+5. Mugdan und EU-Recht: Koennen BGB-Materialien bei richtlinienkonformer Auslegung herangezogen werden?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Mugdan: Band und Seite; Unterscheidung Motive vs. Protokolle
+- Reichstagsprotokolle: reichstagsprotokolle.de, Datum und Seite
+- BT-Drucksachen: bundestag.de fuer neuere Gesetze
+- Kein Materialien-Blindzitat: Immer Band, Seite, Kontext
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Anleitung Materialienarbeit: Mugdan, Protokolle, Reichstagsdebatte
+- Beispielzitat aus Mugdan Bd. II zu BGB § 242 mit Kontext
+- Checkliste: 5 Fehler bei Materialienarbeit und wie man sie vermeidet
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Mugdan: historische Ausgabe 1899, Band und Seite zwingend. Reichstagsprotokolle: reichstagsprotokolle.de. BT-Drucksachen: bundestag.de. Kein Blindzitat.

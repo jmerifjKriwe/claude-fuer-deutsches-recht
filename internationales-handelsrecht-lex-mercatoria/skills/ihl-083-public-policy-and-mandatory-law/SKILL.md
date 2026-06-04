@@ -1,50 +1,52 @@
 ---
 name: ihl-083-public-policy-and-mandatory-law
-description: "Internationales Handelsrecht und Lex Mercatoria: Public Policy And Mandatory Law. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Ordre public und Eingriffsnormen in der internationalen Schiedsgerichtsbarkeit und im IPR. Unterschied ordre public und Eingriffsnorm, truly international public policy, EU-Kartellrecht als Eingriffsnorm und CISG-Ausschluss durch ordre public."
 ---
 
-# Public Policy And Mandatory Law
+# Ordre Public und Eingriffsnormen
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Public Policy And Mandatory Law** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Ordre public und Eingriffsnormen sind Ausnahmen von der Parteiautonomie. Eingriffsnormen (overriding mandatory provisions, Art. 9 Rom I) setzen sich gegen die Rechtswahl durch. Ordre public (Art. 21 Rom I) verhindert offensichtlich unzumutbare Ergebnisse. Im Schiedsrecht: Art. V Abs. 2 lit. b NY Convention erlaubt Vollstreckungsverweigerung bei ordre-public-Verletzung.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Rom I Art. 9 Abs. 1**: Eingriffsnormen — "international zwingende Vorschriften"
+- **Rom I Art. 9 Abs. 3**: Eingriffsnormen des Erfüllungsorts — discretionary application
+- **Rom I Art. 21**: Ordre public — offensichtliche Unvereinbarkeit mit öffentlicher Ordnung
+- **NY Convention Art. V Abs. 2 lit. b**: Ordre public als Vollstreckungshindernis
+- **AEUV Art. 101/102**: EU-Kartellrecht als Eingriffsnorm
+- **EuGH C-126/97 Eco Swiss**: EU-Kartellrecht ist ordre public — Schiedssprüche prüfbar
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Eingriffsnorm: zwingend anwendbar unabhängig von Vertragsstatut (z.B. Exportverbote, Verbraucherschutz)
+- Ordre public: weniger streng als Eingriffsnorm — nur offensichtliche Unvereinbarkeit
+- Truly International Public Policy: ordre public-Kern der über nationale Grenzen hinausgeht
+- Eco-Swiss-Doktrin: EU-Kartellrecht ist supranational ordre public; Schiedsgerichte sind verpflichtet
+- Anti-Suit und ordre public: Verbot paralleler staatlicher Klage als ordre-public-Frage?
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Schiedsspruch verletzt AEUV Art. 101: Deutsche OLG-Vollstreckungsverweigerung nach Eco Swiss?
+2. Exportkontrollrecht als Eingriffsnorm: Gilt BIS-EAR-Recht im deutschen Schiedsverfahren als Eingriffsnorm?
+3. Art. 9 Abs. 3 Rom I: Wann wendet deutsches Gericht Eingriffsnormen des Erfüllungsorts an?
+4. Ordre public bei Willkür: Extrem niedrige Schadensersatzberechnung als ordre public-Verstoß?
+5. Bestechungsfall: ICC-Award zugunsten der bestechenden Partei — ordre public-Versagung?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Eingriffsnorm-Identifizierung: zwingende Schutznorm die internationalen Anspruch hat
+- Ordre-public-Test: offensichtliche Unvereinbarkeit — kein bloßer Unterschied zum nationalen Recht
+- Eco Swiss: EU-Kartellrecht im Schiedsantrag als Gegenargumentation nutzen
+- NY Convention: Vollstreckungsvorbehalt als letztes Mittel — Angriff auf Award inhaltlich kostspielig
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Eingriffsnorm vs. Ordre Public Unterscheidungsschema
+- EU-Kartellrecht als Eingriffsnorm / Ordre Public Checkliste
+- NY Convention Art. V Abs. 2 lit. b Anwendungsfälle
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Rom I Art. 9, 21: eur-lex.europa.eu. NY Convention: newyorkconvention.org. EuGH C-126/97 Eco Swiss: curia.europa.eu. Schrifttum: Born, International Commercial Arbitration (2021) Kap. 26. Unsicherheit bleibt sichtbar.

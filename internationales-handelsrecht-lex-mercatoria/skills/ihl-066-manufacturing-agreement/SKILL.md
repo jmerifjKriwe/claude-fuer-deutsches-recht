@@ -1,50 +1,52 @@
 ---
 name: ihl-066-manufacturing-agreement
-description: "Internationales Handelsrecht und Lex Mercatoria: Manufacturing Agreement. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Produktionsvertrag (Manufacturing Agreement) international. Spezifikationspflichten, Qualitätssicherung (IATF 16949, ISO 9001), IP-Schutz, Exklusivität, Verlagerungsschutz und CISG-Anwendbarkeit auf Werklieferung."
 ---
 
-# Manufacturing Agreement
+# Produktionsvertrag International
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Manufacturing Agreement** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Produktionsverträge verpflichten einen Hersteller zur Fertigung nach Spezifikation des Auftraggebers. CISG Art. 3 Abs. 2 schließt Verträge aus, bei denen die Arbeitsleistung überwiegt; reine Werklieferung ohne erhebliche Arbeit fällt unter CISG. IP-Schutz (Spezifikations-Geheimhaltung, Tooling-Eigentumsrecht) und Verlagerungsschutz sind praxiskritisch.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CISG Art. 3 Abs. 2**: Ausschluss bei überwiegender Arbeitsleistung (Werkvertrag)
+- **BGB §§ 631-650**: Werkvertrag — Mängelhaftung und Abnahme
+- **ISO 9001:2015**: Qualitätsmanagementsystem-Anforderungen
+- **IATF 16949:2016**: Automobilindustrie-QMS (ergänzt ISO 9001)
+- **§ 17 UWG**: Geheimnisschutz / Handelsgeheimnisgesetz (HGeschGehG)
+- **RL (EU) 2016/943**: Geschäftsgeheimnisse-RL (EU)
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Spezifikations-IP: Zeichnungen, CAD-Dateien, Rezepturen als Geschäftsgeheimnis
+- Tooling-Ownership: Wer gehören Werkzeuge/Formen? Übergabepflicht nach Vertrag?
+- Exklusivität: Darf Hersteller gleiche Produkte für Wettbewerber fertigen?
+- Verlagerungsschutz: Kündigungsklausel mit Technologie-Transfer-Pflicht vor Verlagerung
+- APQP/PPAP (Automobilindustrie): Advanced Product Quality Planning als Vertragsinhalt
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Hersteller fertigt ähnliches Produkt für Konkurrenten: Wettbewerbsverbot erforderlich?
+2. Tooling-Eigentumsstreit: Kunde bezahlte Werkzeuge, Hersteller behält sie bei Insolvenz?
+3. Qualitätsmangel: Wann greift CISG (Werklieferung) vs. BGB Werkvertragsrecht?
+4. Verlagerung: Klausel "no relocation without 12-month notice and technology transfer" wirksam?
+5. Geschäftsgeheimnisschutz nach HGeschGehG: Was ist ausreichende "angemessene Geheimhaltungsmaßnahme"?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- CISG vs. BGB: Arbeitsleistungs-Anteil bestimmen; bei Zweifel explizit CISG ausschließen
+- Tooling: immer Eigentums-Klausel (Käufer behält Eigentum; Übergabepflicht bei Kündigung)
+- Geheimhaltung: NDA + Zugangsprotokoll + digitale DRM-Maßnahmen
+- Qualität: QMS-Anforderungen als Vertragsanhang; Audit-Recht vertraglich verankern
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Manufacturing-Agreement-Checkliste (IP, Qualität, Tooling, Exit)
+- Tooling-Eigentumsklausel-Muster
+- QMS-Anforderungs-Anhang-Struktur
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG Art. 3: uncitral.un.org. BGB §§ 631 ff.: gesetze-im-internet.de. HGeschGehG: gesetze-im-internet.de. RL (EU) 2016/943: eur-lex.europa.eu. Unsicherheit bleibt sichtbar.

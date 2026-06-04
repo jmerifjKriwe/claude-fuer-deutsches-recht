@@ -1,76 +1,53 @@
 ---
 name: rom-025-verwahrung-depositum
-description: "Römisches Recht: Verwahrung Depositum. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Depositum (Verwahrung) nach D. 16.3 und Gaius Inst. 3.196 - unentgeltliche Aufbewahrung fremder Sache, actio depositi directa/contraria, dolus-Haftung, depositum miserabile."
 ---
 
-# Verwahrung Depositum
+# Verwahrung (depositum)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Verwahrung Depositum** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das depositum ist die unentgeltliche Verwahrung einer fremden Sache. Der Hinterleger (deponens) übergibt die Sache dem Verwahrer (depositarius) ohne Übereignung; dieser schuldet Rückgabe auf Verlangen. Haftung des Verwahrers nur für dolus (Vorsatz), nicht für culpa (D. 16.3.1.6, Ulpian). Ausnahme: depositum miserabile (Notverwahrung in Gefahrensituation: höhere Haftung, D. 16.3.1.1).
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 16.3.1 pr. (Ulpian)**: Depositum - Definition und Klage
+- **D. 16.3.1.6 (Ulpian)**: Haftung nur für dolus
+- **D. 16.3.1.1 (Ulpian)**: Depositum miserabile - Notverwahrung
+- **Gaius Inst. 3.196**: Depositum als Realkontrakt
+- **D. 16.3.11 (Africanus)**: actio depositi bei Konkurs
+- **Iust. Inst. 3.14.3**: Depositum systematisch
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- deponens: Hinterleger (bleibt Eigentümer)
+- depositarius: Verwahrer (kein Gebrauchsrecht)
+- actio depositi directa: Klage auf Rückgabe
+- actio depositi contraria: Gegenklage auf Aufwendungsersatz
+- depositum irregulare: Verwahrung von Geld mit Vermischung
+- depositum miserabile: Notverwahrung (erhöhte Haftung in duplum)
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Dolus-Haftung: warum so mild beim Verwahrer?
+2. Depositum irregulare und Geldverwahrung: Eigentumsübergang?
+3. Depositum miserabile: Rechtsfolge in duplum
+4. Haftung für Dritte, die Zugang zum Depot haben
+5. Vergleich: depositum vs. BGB §§ 688ff. (Verwahrungsvertrag)
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 16.3 (Depositi vel contra) als Haupttitel
+- Gaius Inst. 3.196; Iust. Inst. 3.14.3
+- Kaser RP I §§ 226-228; Zimmermann Law of Obligations Kap. 8
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: depositum - Parteien und Pflichten
+- Haftungsübersicht: dolus vs. culpa vs. Notverwahrung
+- Abgrenzung depositum - mutuum (bei Geld)
+- Vergleich röm. depositum vs. BGB Verwahrung
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
-
-## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
-
-### Schluesselstellen
-- **D. 16.3.1 (Ulpian)**: "Depositum est, quod custodiendum alicui datum est" — Verwahrung zur Aufbewahrung.
-- **D. 16.3**: Allgemein.
-
-### Tatbestand
-- Unentgeltlich.
-- Ueberlassung zur sicheren Aufbewahrung.
-- Eigentum und Besitzwillen beim Hinterleger.
-
-### Haftung
-- Nur Vorsatz (dolus) — sehr milde Haftung (D. 16.3.1.1).
-- Bei Mangel an Sorgfalt: keine Haftung (anders als commodatum).
-- Sondertypus depositum miserabile (Notverwahrung): doppelte Haftung des Verwahrers.
-
-### Subsumtionsbeispiel: Geld waehrend Feuersbrunst zur Aufbewahrung gegeben
-Sachverhalt: A gibt sein Geld waehrend eines Brandes bei B in Verwahrung; B unterschlaegt es.
-- **Roemisch**: Depositum miserabile (D. 16.3.1.1) — doppelte Haftung; B haftet auf das Doppelte des Wertes.
-- **BGB**: §§ 688-700 BGB Verwahrung; § 695 BGB Rueckgabepflicht.
-
-### Receptum nautarum cauponum stabulariorum
-- D. 4.9 — Sondervorschrift: Reeder, Gastwirte, Stallbetreiber haften strenger fuer eingebrachte Sachen (custodia-Haftung).
-- Modern: §§ 701-704 BGB Gastwirtshaftung.
-
+D. 16.3 (Mommsen-Krüger). Gaius Inst. 3. Iust. Inst. 3.14.3. Kaser RP I. Zimmermann Law of Obligations.

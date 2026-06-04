@@ -1,50 +1,52 @@
 ---
 name: ihl-078-recognition-new-york-convention
-description: "Internationales Handelsrecht und Lex Mercatoria: Recognition New York Convention. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Anerkennung und Vollstreckung ausländischer Schiedssprüche nach New York Convention 1958. Art. V Versagungsgründe (Verfahrensfehler, Ordre public), Formvoraussetzungen Art. IV, Vollstreckungsverfahren in Deutschland und ausgewählten Ländern."
 ---
 
-# Recognition New York Convention
+# New York Convention 1958: Anerkennung und Vollstreckung
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Recognition New York Convention** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die New York Convention (UN-Übereinkommen 1958, 172 Vertragsstaaten) ist das wichtigste internationale Instrument zur Vollstreckung ausländischer Schiedssprüche. Art. V enthält abschließende Versagungsgründe. Das Vollstreckungsgericht prüft nicht den Inhalt des Awards (Revision au fond ist verboten). Deutschland hat die Convention 1961 ratifiziert.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **NY Convention Art. I**: Anwendungsbereich — ausländische Schiedssprüche
+- **NY Convention Art. II**: Schriftliche Schiedsvereinbarung
+- **NY Convention Art. IV**: Formvoraussetzungen — beglaubigte Kopie des Awards + Schiedsvereinbarung
+- **NY Convention Art. V Abs. 1**: Versagungsgründe (Parteieinwände): Kapazitätsmangel, kein rechtliches Gehör, Zuständigkeit, Zusammensetzung, Bindungskraft
+- **NY Convention Art. V Abs. 2**: Versagung von Amts wegen: Nicht-schiedsfähigkeit, ordre public
+- **§§ 1060-1062 ZPO**: Vollstreckbarerklärung in Deutschland
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Exequatur-Verfahren: staatliches Vollstreckungsverfahren; kein Inhaltsprüfung des Awards
+- Ordre public: prozessuale und materiell-rechtliche ordre public als Versagungsgrund
+- Binding Force: Award muss bindend sein (nicht nur "final") — Unterschied NYC und UNCITRAL ML
+- Revision au fond: verboten — Vollstreckungsgericht prüft nicht Richtigkeit des Awards
+- Reciprocity Reservation: einige Staaten vollstrecken nur Awards aus NY-Convention-Staaten
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Art. V Abs. 1 lit. b kein rechtliches Gehör: Partei konnte Argumente nicht vorbringen — Versagung?
+2. Ordre public: ICC-Award verletzt zwingendes EU-Kartellrecht — Versagung in EU-Staat?
+3. Formvoraussetzungen Art. IV: Nicht-beglaubigte Kopie des Awards — fataler Fehler?
+4. China-Vollstreckung: Gilt NY Convention vollständig für ICC-Awards in China?
+5. Aufhebung am Schiedsort: Am Schiedsort aufgehobener Award — kann er dennoch in Drittland vollstreckt werden?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Award-Qualitätssicherung: Formvoraussetzungen (Art. IV) im Award selbst prüfen
+- Vollstreckungsstrategie: Mehrere Länder parallel wenn Schuldner-Assets verteilt
+- Ordre public Verteidigung: nur bei offensichtlicher, fundamentaler Grundrechts- oder Rechtsverletzung
+- Aufhebungsklage vermeiden: Award-Anfechtung am Schiedsort und parallele Vollstreckung in Drittland möglich
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- NY Convention Art. V Versagungsgründe-Matrix
+- Vollstreckungsverfahren-Zeitstrahl (D: Oberlandesgericht, § 1062 ZPO)
+- Vollstreckbarkeit-Risikorating Top-10-Länder
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+NY Convention 1958: newyorkconvention.org (Text und Vorbehaltsliste). §§ 1060-1062 ZPO: gesetze-im-internet.de. Schrifttum: Born, International Commercial Arbitration (2021) Kap. 27. Unsicherheit bleibt sichtbar.

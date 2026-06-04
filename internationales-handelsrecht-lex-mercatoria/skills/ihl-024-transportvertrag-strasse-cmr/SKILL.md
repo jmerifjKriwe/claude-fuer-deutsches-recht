@@ -1,50 +1,53 @@
 ---
 name: ihl-024-transportvertrag-strasse-cmr
-description: "Internationales Handelsrecht und Lex Mercatoria: Transportvertrag Strasse Cmr. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Strassengütertransportrecht nach CMR-Übereinkommen 1956. Haftung des Strassenfrachtführers (Art. 17-29 CMR), Haftungsgrenzen (8.33 SZR/kg), CMR-Frachtbrief, Reklamationsfristen und Kombination mit Incoterms."
 ---
 
-# Transportvertrag Strasse Cmr
+# CMR: Straßengütertransport international
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Transportvertrag Strasse Cmr** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das CMR-Übereinkommen (Convention relative au contrat de transport international de marchandises par route, Genf 1956, revidiert Protokoll 1978) gilt für internationalen Straßengütertransport und ist in 55 Staaten in Kraft. Es regelt Haftung des Frachtführers, zwingende Haftungsgrenzen und den CMR-Frachtbrief als Beweisurkunde.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CMR Art. 17**: Grundhaftung — Verlust, Beschädigung, Überschreitung der Lieferfrist
+- **CMR Art. 17 Abs. 2**: Exkulpationsgründe (Mitverschulden, Weisungsbefolgung, Verpackungsmangel)
+- **CMR Art. 23**: Haftungsgrenze — 8,33 SZR/kg Bruttogewicht
+- **CMR Art. 24**: Wertdeklaration (höheres Haftungslimit durch Vereinbarung)
+- **CMR Art. 30**: Reklamationsfrist — sofort sichtbar Beschädigung: sofort; verdeckt: 7 Tage
+- **CMR Art. 32**: Verjährungsfrist — 1 Jahr (vorsätzliche Schäden: 3 Jahre)
+- **CMR Art. 9**: Frachtbrief als Beweismittel (widerlegliche Vermutung)
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- CMR-Frachtbrief (CMR waybill): kein Wertpapier; Beweisurkunde für Vertragsinhalt
+- Gefahrenbereich-Haftung: CMR Art. 17 Abs. 4 — spezielle Gefahren (offene Fahrzeuge, Lebendtiere)
+- Haftungsausschluss bei Verschulden: Art. 29 CMR — vorsätzliches/grob fahrlässiges Handeln
+- Aufeinanderfolgende Frachtführer: Art. 34-40 CMR — Gesamtschuldnerschaft
+- e-CMR: Protokoll 2008 — elektronischer CMR-Frachtbrief, ratifiziert von ca. 30 Staaten
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Diebstahl LKW auf Rastplatz: Haftung des Frachtführers und Exkulpation Art. 17 Abs. 2?
+2. Temperaturschaden Kühlkette: Wann spezielle Gefahr Art. 17 Abs. 4 (Kühlfahrzeug)?
+3. CMR-Haftungsgrenze: Reicht 8,33 SZR/kg für Hightech-Ware (100 kg, Wert EUR 500.000)?
+4. Aufeinanderfolgende Frachtführer: Welcher haftet bei Übergabe-Schaden zwischen Teilfrachtführern?
+5. e-CMR: Gilt elektronischer Frachtbrief bei fehlender nationaler Ratifikation?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- CMR-Anwendbarkeit: internationaler Transport (Übergabe- und Ablieferungsland verschieden) + Straße
+- Haftungsgrenze-Kalkulation: 8,33 SZR × Bruttogewicht; bei wertvoller Ware: Art. 24 Wertdeklaration
+- Reklamationsfristen: sofort bei sichtbaren Schäden; 7 Tage für verdeckte; im CMR-Frachtbrief notieren
+- Verjährung: 1 Jahr ab Ablieferung oder erwarteter Ablieferung
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- CMR-Haftungsschema (Verlust / Beschädigung / Verspätung)
+- Haftungslimit-Berechnungsbeispiel
+- Reklamations-Protokoll-Muster
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CMR 1956: uncitral.un.org (Text), unece.org (UNECE). e-CMR Protokoll 2008: unece.org. HGB §§ 407 ff. (nationales Frachtrecht): gesetze-im-internet.de. Unsicherheit bleibt sichtbar.

@@ -1,50 +1,52 @@
 ---
 name: ihl-007-cisg-schadensersatz-und-mitigation
-description: "Internationales Handelsrecht und Lex Mercatoria: CISG Schadensersatz Und Mitigation. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Schadensersatz nach CISG Art. 74-77. Voller Ersatz des Verlustes und entgangenen Gewinns (Art. 74), Deckungskauf/-verkauf (Art. 75), abstrakter Marktpreis (Art. 76), Schadenminderungspflicht (Art. 77) und Zinsen (Art. 78)."
 ---
 
-# CISG Schadensersatz Und Mitigation
+# Schadensersatz und Schadensminderung (CISG Art. 74-78)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **CISG Schadensersatz Und Mitigation** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das CISG-Schadensersatzsystem beruht auf dem Grundsatz der vollen Kompensation (Art. 74): Verlust und entgangener Gewinn, begrenzt durch die Vorhersehbarkeit zum Vertragsabschluss. Art. 75 und 76 bieten konkrete Berechnungsweisen bei Vertragsaufhebung. Art. 77 verpflichtet den Gläubiger zur Schadensminderung — Verstoß reduziert den Anspruch.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Art. 74 CISG**: Voller Schadensersatz — Verlust + entgangener Gewinn, Vorhersehbarkeitsgrenze
+- **Art. 75 CISG**: Konkrete Methode — Deckungsgeschäft (nach Vertragsaufhebung)
+- **Art. 76 CISG**: Abstrakte Methode — Vertragspreisdifferenz zum laufenden Marktpreis
+- **Art. 77 CISG**: Schadensminderungspflicht — angemessene Maßnahmen; Versäumnis → Reduktion
+- **Art. 78 CISG**: Zinsen — kein expliziter Zinssatz (durch IPR zu ergänzen)
+- **Art. 79 CISG**: Befreiung bei Hindernis (kein Schadensersatz, aber Aufhebungsrecht bleibt)
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Vorhersehbarkeit: Typ des Verlustes zur Zeit des Vertragsabschlusses (nicht Höhe)
+- Deckungskauf Art. 75: Angemessenheit, Unverzüglichkeit nach Aufhebung
+- Marktpreis Art. 76: laufender Preis am Erfüllungsort (oder anderen Referenzmarkt)
+- Mitigation: zumutbare Maßnahmen — kein Selbstopfer, aber aktive Gegenmaßnahmen
+- Zinshöhe Art. 78: nationales Recht nach IPR (CISG bleibt stumm)
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Umfasst Art. 74 Rechtsverfolgungskosten und Gutachterkosten als ersatzfähigen Schaden?
+2. Wann ist ein Deckungskauf "angemessen" i.S.d. Art. 75 (Preis, Timing, Marktzugang)?
+3. Vorhersehbarkeit: Muss der Typ des Schadens oder der Betrag vorhersehbar sein?
+4. Zinssatz Art. 78: Welches nationale Recht gilt — Schuld- oder Forderungsstatut?
+5. Art. 77 Verstoß: Nur Schadensreduzierung oder vollständiger Anspruchsverlust?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Vorhersehbarkeit immer auf Vertragsabschluss beziehen, nicht auf Verletzung
+- Art. 75 vor Art. 76 prüfen (konkret vor abstrakt)
+- Mitigation-Pflicht als eigenen Prüfpunkt anlegen
+- Zinsen Art. 78: Renvoi auf anwendbares nationales Recht nach Rom I
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schadensberechnungs-Schema (Art. 74/75/76 alternativ)
+- Mitigation-Analyse: Was hätte Gläubiger tun müssen?
+- Zinsenberechnung mit Rechtswahlanalyse
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG Art. 74-78: uncitral.un.org. Rechtsprechung: CISG-online.ch, jusmundi.com. CISG Advisory Council Opinion No. 6 (Art. 74, 77). Schrifttum: Gotanda in Kröll/Mistelis/Viscasillas (2018) Art. 74. Unsicherheit bleibt sichtbar.

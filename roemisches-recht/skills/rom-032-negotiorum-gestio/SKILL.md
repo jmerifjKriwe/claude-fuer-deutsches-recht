@@ -1,50 +1,53 @@
 ---
 name: rom-032-negotiorum-gestio
-description: "Römisches Recht: Negotiorum Gestio. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Negotiorum gestio (Geschäftsführung ohne Auftrag) nach D. 3.5 und Iust. Inst. 3.27 - utiliter gestum, actio negotiorum gestorum directa/contraria und Haftungsmaßstab."
 ---
 
-# Negotiorum Gestio
+# Negotiorum gestio - Geschäftsführung ohne Auftrag
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Negotiorum Gestio** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die negotiorum gestio ist die Führung fremder Geschäfte ohne Auftrag. Voraussetzung für die Bindungswirkung ist, dass das Geschäft utiliter gestum (nützlich geführt) wurde, d.h. dem Interesse und mutmaßlichen Willen des Geschäftsherrn entsprach. D. 3.5 enthält die klassischen Texte. Actio negotiorum gestorum directa (Klage des Geschäftsherrn) und contraria (Klage des Geschäftsführers auf Aufwendungsersatz).
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 3.5.1 (Ulpian)**: Negotiorum gestio - Einleitung und actio
+- **D. 3.5.5.2 (Ulpian)**: Utiliter coeptum gestum als Voraussetzung
+- **D. 3.5.9 pr. (Paulus)**: Haftungsmaßstab des gestor
+- **Iust. Inst. 3.27**: Quasi ex contractu - negotiorum gestio
+- **D. 3.5.13 (Gaius)**: Abgrenzung zur procuratio
+- **D. 3.5.3.1 (Ulpian)**: Geschäftsführung für Abwesende
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- gestor: Geschäftsführer ohne Auftrag
+- dominus negotii: Geschäftsherr
+- utiliter gestum: nützlich geführt (Voraussetzung)
+- actio negotiorum gestorum directa: Klage des Geschäftsherrn
+- actio negotiorum gestorum contraria: Klage des Geschäftsführers
+- quasi ex contractu: gesetzliche Obligationsquelle
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Utiliter gestum: objektiver Nutzen oder mutmaßlicher Wille?
+2. Haftungsmaßstab: culpa levis oder diligentia quam in suis?
+3. Verhältnis negotiorum gestio - mandatum
+4. GoA bei riskanten Geschäften: Haftung trotz Nützlichkeit?
+5. Vergleich: negotiorum gestio vs. BGB §§ 677ff. (GoA)
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 3.5 (De negotiis gestis) als Haupttitel
+- Iust. Inst. 3.27
+- Kaser RP I §§ 267-272; Zimmermann Law of Obligations Kap. 17
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: Voraussetzungen der negotiorum gestio
+- Pflichtenübersicht: gestor und dominus
+- Haftungsvergleich: gestor vs. mandatarius
+- Vergleich röm. GoA vs. BGB §§ 677ff.
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 3.5 (Mommsen-Krüger). Iust. Inst. 3.27. Kaser RP I. Zimmermann Law of Obligations.

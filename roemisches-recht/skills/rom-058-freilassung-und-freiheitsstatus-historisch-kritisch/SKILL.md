@@ -1,50 +1,54 @@
 ---
 name: rom-058-freilassung-und-freiheitsstatus-historisch-kritisch
-description: "Römisches Recht: Freilassung Und Freiheitsstatus Historisch Kritisch. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Freilassung (manumissio) nach Gaius Inst. 1.17-41 - manumissio vindicta, censu, testamento, Rechtsstatus der Freigelassenen (libertini), Patronatsverhältnis und lex Iunia Norbana."
 ---
 
-# Freilassung Und Freiheitsstatus Historisch Kritisch
+# Freilassung (manumissio) und Freiheitsstatus - historisch-kritisch
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Freilassung Und Freiheitsstatus Historisch Kritisch** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die manumissio ist die Freilassung eines Sklaven. Gaius Inst. 1.17-41 kennt drei formgerechte Arten: vindicta (vor dem Magistrat), censu (durch Einschreibung in die Bürgerliste), testamento (durch Testament). Freigelassene (libertini) erhielten ziviles Bürgerrecht, aber mit Beschränkungen (Patronatsverhältnis). Die lex Iunia Norbana (19 n.Chr.) schuf den Status der Junianischen Latiner für nicht-formgerecht Freigelassene. Das Thema erfordert kritische historische Distanz.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius Inst. 1.17**: Manumissio vindicta
+- **Gaius Inst. 1.35**: Manumissio testamento
+- **Gaius Inst. 1.22-23**: Lex Iunia Norbana - Junianische Latiner
+- **D. 40.1.1 (Ulpian)**: Manumissio-Definition
+- **D. 38.1 (Ulpian)**: Patronatspflichten des Freigelassenen
+- **Const. Antoniniana (212 n.Chr.)**: Ausdehnung des Bürgerrechts
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- manumissio vindicta: förmliche Freilassung vor Magistrat
+- manumissio testamento: Freilassung durch Testament
+- libertus: Freigelassener
+- patronus: ehemaliger Herr (Schutzpatron)
+- operae libertorum: Dienstpflichten des Freigelassenen
+- Iuniani Latini: Freigelassene mit Latinerstatus (keine cives Romani)
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Freilassung als Rechtsakt oder soziale Praxis?
+2. Patron-Freigelassener: rechtliche Bindung nach Freilassung
+3. Einschränkungen der Iuniani Latini: kein Erbrecht, kein Testament
+4. Massenhaftigkeit der manumissio: Augustus reguliert durch lex Fufia Caninia (2 v.Chr.)
+5. Historisch-ethische Perspektive: Freilassung als Systemerhalt der Sklaverei
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Gaius Inst. 1.17-41 als Primärtext
+- D. 40 (De manumissionibus) als Haupttitel
+- D. 38.1 (Operae libertorum)
+- Kaser RP I §§ 290-300; Wiedemann Slavery in Greek and Roman History
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: drei Freilassungsformen
+- Rechtsstatustabelle: civis - Latinus Iunianus - dediticius
+- Memo zum Patronatsverhältnis
+- Historisch-kritisches Fazit zur Freilassung im Sklavensystem
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Gaius Inst. 1.17-41; D. 40; D. 38.1 (Mommsen-Krüger). Kaser RP I. Wiedemann.

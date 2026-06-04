@@ -1,50 +1,53 @@
 ---
 name: rom-069-pandektenwissenschaft
-description: "Römisches Recht: Pandektenwissenschaft. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Pandektenwissenschaft des 19. Jhs. - Historische Rechtsschule (Savigny, Puchta), Begriffsjurisprudenz (Windscheid, Jhering), BGB-Entstehung und Einfluss auf die moderne Rechtsdogmatik."
 ---
 
 # Pandektenwissenschaft
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Pandektenwissenschaft** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Pandektenwissenschaft (19. Jh.) ist die wissenschaftliche Systematisierung des gemeinen (röm.-kanonischen) Rechts auf Basis der Digesten/Pandekten. Friedrich Carl von Savigny begründete mit Vom Beruf unserer Zeit (1814) die Historische Rechtsschule. Georg Friedrich Puchta und schließlich Bernhard Windscheid (Pandekten, 3 Bde. 1862-1870) entwickelten die Begriffsjurisprudenz. Das BGB (1900) ist ihr Kodifikationsprodukt.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Savigny, System des heutigen römischen Rechts (1840-1849)**: 8 Bde.
+- **Windscheid, Lehrbuch des Pandektenrechts (1862-1870)**: 3 Bde.
+- **Puchta, Cursus der Institutionen (1841-1847)**: Begriffspyramide
+- **BGB (1900)**: Kodifikationsprodukt der Pandektistik
+- **Gaius Inst. 1.8**: Institutionensystem als Strukturvorbild
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- Historische Rechtsschule: Recht als Ausdruck des Volksgeistes
+- Begriffsjurisprudenz: logische Ableitung aus Rechtsbegriffen
+- Pandekten: Bezeichnung für Digesten, übernommen als Systemname
+- Savigny (1779-1861): Begründer der Historischen Schule
+- Windscheid (1817-1892): Hauptpandektist, BGB-Vorkommission
+- Jhering (1818-1892): Kritiker der Begriffsjurisprudenz
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Volksgeistlehre vs. Professorenrecht: Wessen Recht kodifiziert das BGB?
+2. Begriffsjurisprudenz: methodisch überholt oder noch relevant?
+3. Savigny vs. Thibaut: Kodifikationsstreit 1814
+4. Romanisierung des deutschen Rechts: Gewinn oder Verlust?
+5. Jherings Wendung: von Begriffsjurisprudenz zur Interessenjurisprudenz
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Savigny System (8 Bde., archive.org)
+- Windscheid Pandekten (3 Bde., archive.org)
+- Wieacker Privatrechtsgeschichte der Neuzeit §§ 18-22
+- Stoll/Horn/Schwerdtner Geschichte des deutschen Privatrechts
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeittafel: Historische Schule -> Pandektistik -> BGB
+- Ideengeschichtliches Memo: Savigny - Puchta - Windscheid
+- Begriffspyramide nach Puchta
+- Vergleich: Pandektensystem vs. BGB-System
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Savigny System (archive.org). Windscheid Pandekten (archive.org). Wieacker Privatrechtsgeschichte.

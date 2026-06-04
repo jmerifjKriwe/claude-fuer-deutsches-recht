@@ -1,50 +1,50 @@
 ---
 name: drg-091-archivfund-in-heutige-argumentation
-description: "Deutsche Rechtsgeschichte: Archivfund In Heutige Argumentation. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Archivfund in heutige juristische Argumentation einbauen. Methodische Bruecke zwischen historischem Beleg und aktuellem Rechtsproblem ohne Anachronismus."
 ---
 
-# Archivfund In Heutige Argumentation
+# Archivfund in heutige Argumentation
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Archivfund In Heutige Argumentation** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Archivfunde (Notariatsprotokolle, Verwaltungsakten, Gerichtsprotokolle, Parlamentsmaterialien) koennen in heutige Rechtsprobleme eingebracht werden, wenn die methodische Bruecke transparent ist. Der Skill strukturiert, wie historische Dokumente aus Bundes- und Landesarchiven korrekt eingesetzt werden: (1) Authentizitaet und Edition pruefen, (2) historischen Kontext benennen, (3) Argumentationstyp klarmachen (historische Gesetzgebungsabsicht, Normzweckrekonstruktion, Kontinuitaetsnachweis), (4) Gegenwartsbezug ohne Anachronismus herstellen.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Bundesarchivgesetz (BArchG) 2017 (BGBl. I 2017, 410)**: Zugangsregeln zu Bundesarchivgut
+- **Landesarchivgesetze**: Je nach Land, Sperrfristen (30 Jahre allg., 10 Jahre nach Tod)
+- **BGB § 133**: Willenserklaerung und Gesetzgeberwille als Auslegungsargument
+- **BVerfGE 62, 1 (1982)**: Historische Auslegung als Methode der Verfassungsinterpretation
+- **Mugdan, Materialien BGB** (1899): Standardreferenz fuer BGB-Entstehungsgeschichte
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Bundesarchiv Koblenz/Berlin**: Hauptquelle fuer Reichs- und Bundesrecht
+- **Geheimes Staatsarchiv Berlin-Dahlem**: Preussisches Archivgut
+- **Landesarchive** (z. B. NRW, Bayern, Sachsen): Regional-Quellen
+- **MGH-Archiv, Muenchen**: Mittelalterliche Quellen
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Welchen Beweiswert hat ein Archivfund fuer die Auslegung einer Norm?
+2. Subjektiv-historische vs. objektiv-teleologische Auslegung: Wann hat Gesetzgeberhistorie Vorrang?
+3. Unveroffentlichte Quellen: Wie zitiert man Archivfunde in Schriftsaetzen?
+4. Anachronismus-Falle: Welche zeitgebundenen Konzepte darf man nicht in heutige Auslegung tragen?
+5. Digitale Erschliessung (Archivportal-D, invenio.bundesarchiv.de): Wie zuverlaessig sind die Findbucher?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Bundesarchiv-Online: invenio.bundesarchiv.de fuer Erschliessung
+- Archivportal-D: archivportal-d.de fuer Vernetzung der Landesarchive
+- MGH-Online: mgh.de fuer mittelalterliche Quellen
+- Archivzitat: Bestand, Signatur, Blaetterzahl; Zugangsdatum wenn digital
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schritt-fuer-Schritt-Schema: Archivfund evaluieren und einbauen
+- Muster: Footnote/Fussnote fuer Archivzitat in Gutachten oder Schriftsatz
+- Checkliste: Anachronismus-Check vor Argumentationseinsatz
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Bundesarchiv: invenio.bundesarchiv.de. Archivportal-D: archivportal-d.de. MGH: mgh.de. Landesarchive: jeweilige Portale. Kein Blindzitat ohne Bestand und Signatur.

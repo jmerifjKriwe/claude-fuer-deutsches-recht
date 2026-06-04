@@ -1,50 +1,51 @@
 ---
 name: ihl-095-vertiefung-01-red-team-gegenposition
-description: "Internationales Handelsrecht und Lex Mercatoria: Vertiefung 01 Red Team Gegenposition. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Red-Team-Gegenposition in internationalen Handelsfällen. Systematische Gegenargumentation zur eigenen Position, Adverse-Inference-Analyse, Schwachstellen-Scan und stärkste Gegenargumente zu CISG, Incoterms und Schiedsklauseln."
 ---
 
-# Vertiefung 01 Red Team Gegenposition
+# Red-Team: Gegenposition im internationalen Handelstreit
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Vertiefung 01 Red Team Gegenposition** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Red-Team-Analyse identifiziert die stärksten Gegenargumente zur eigenen Rechtsposition. In internationalen Handelsfällen sind die häufigsten Schwachstellen: übersehene CISG-Rügefristen, fehlende Dokumentation für Trade Usage, Rechtswahl-Lücken und pathologische Schiedsklauseln. Das Red Team spielt die Gegenpartei durch.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CISG Art. 39**: Rügefrist — häufigster Verlustgrund in CISG-Fällen
+- **CISG Art. 77**: Mitigation — Gläubiger hat Obliegenheit, Verletzter Schaden zu reduzieren
+- **NY Convention Art. V**: Versagungsgründe — Red-Team prüft ob Award angreifbar
+- **IBA Guidelines on Conflicts of Interest 2014**: Befangenheits-Angriff auf Schiedsrichter
+- **PICC Art. 3.2.7**: Excessive Advantage (Wucher-Äquivalent) als Anfechtungsgrund
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Rüge-Versäumnis: häufigster CISG-Schwachpunkt (Art. 38-39)
+- Art. 77 Mitigation-Versäumnis: Schadensersatz wird gemindert wenn Gläubiger nicht mitigierte
+- Schiedsrichter-Befangenheit: IBA Guidelines Red List — Naheverhältnis zu Partei oder Anwalt
+- Nicht-schiedsfähigkeit: Kann Vollstreckungsland bestimmte Ansprüche für nicht schiedsfähig erklären?
+- Formfehler-Award: Schiedsspruch mit unzureichender Begründung — anfechtbar?
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Eigene Rüge 3 Wochen nach Lieferung: Gegenseite argumentiert verspätet nach Art. 39 — wie kontern?
+2. Mitigation-Einwand: Gegenseite sagt kein Deckungskauf obwohl Markt verfügbar war — Gegenargument?
+3. IBA Red List Schiedsrichter: Schiedsrichter war früher Partner der Gegenseiten-Kanzlei — Befangenheit?
+4. Nicht-Schiedsfähigkeit Kartellrecht: Award über Kartellschadensersatz — peut-on tirer en vollstrecken?
+5. Award ohne Begründung: ICC-Award enthält nur Ergebnis — in welchen Ländern angreifbar?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Red-Team-Prozess: (1) Identifiziere schwächste eigene Position, (2) Spiele Gegenpartei vollständig durch, (3) Bewerte Angriffs-Erfolgswahrscheinlichkeit
+- CISG-Schwächen: Fristen (Art. 38-39), Dokumentation (Art. 9 Trade Usage), Mitigation (Art. 77)
+- Award-Schwächen: Formfehler, Begründungsmängel, Befangenheit
+- Vorbeugende Gegenmaßnahmen: schwache Stellen vor Prozessbeginn stärken
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Red-Team-Analyse-Protokoll (Eigene Position × Gegenargument × Stärke)
+- CISG-Schwachstellen-Checkliste
+- Award-Anfechtungs-Risikoanalyse
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG Art. 38-39, 77: uncitral.un.org. IBA Guidelines on Conflicts of Interest 2014: ibanet.org. NY Convention Art. V: newyorkconvention.org. Unsicherheit bleibt sichtbar.

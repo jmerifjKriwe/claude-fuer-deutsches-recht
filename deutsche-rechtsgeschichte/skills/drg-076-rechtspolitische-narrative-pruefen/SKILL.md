@@ -1,50 +1,50 @@
 ---
 name: drg-076-rechtspolitische-narrative-pruefen
-description: "Deutsche Rechtsgeschichte: Rechtspolitische Narrative Pruefen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Rechtspolitische Narrative pruefen. Wie man politisch geladene historische Erzaehlungen (Bismarckstaat, Sozialstaat-Errungenschaft, NS als Zivilisationsbruch) historisch-quellenkritisch einordnet."
 ---
 
-# Rechtspolitische Narrative Pruefen
+# Rechtspolitische Narrative pruefen
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Rechtspolitische Narrative Pruefen** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Rechtspolitische Narrative sind verdichtete Erzaehlungen ueber die Bedeutung historischer Ereignisse fuer heutige Rechtspositionen. Beispiele: Sozialversicherung als Bismarck-Errungenschaft, WRV als gescheitertes Experiment, NS als absoluter Zivilisationsbruch, BGB als Arbeitgeberrecht, Wiedervereinigung als Erfolgsgeschichte. Diese Narrative haben politische Funktionen, aber methodisch muss man fragen: Was sagen die Quellen wirklich? Sind die Schlussfolgerungen belegt oder projiziert? Welche Gegennarrative gibt es? Ein geprueftes Narrativ ist sachlich praeziser und widersteht Gegenarrumenten besser.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **WRV Art. 119-165**: Wirtschafts- und Sozialordnung als Narrativ-Gegenstand
+- **Bismarcks Sozialversicherung 1883-1889**: Narrative als Befriedungs- oder Schutzrecht
+- **Radbruch-Formel SJZ 1946, 105**: NS-Rechtsbruch-Narrativ
+- **Einigungsvertrag 1990**: Wiedervereinigungsnarrativ
+- **GG Art. 20 (Sozialstaatsprinzip)**: Verfassungsrechtliche Kodifikation eines Narrativs
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Bismarck**: Sozialversicherung als kontrollierte Sozialpolitik (sein Narrativ)
+- **SPD und Gewerkschaften**: Sozialversicherung als Arbeitererrungenschaft (Gegennarrativ)
+- **Radbruch**: NS-Rechtsbruch-Narrativ nach 1945
+- **Medien und Politik**: Verbreitung und Modifikation der Narrative
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Bismarcksche Sozialversicherung: Befriedung oder echter Sozialschutz?
+2. WRV-Scheitern: War es unvermeidlich oder kontingent?
+3. GG als Erfolgsgeschichte: Werden seine Defizite ausgeblendet?
+4. NS-Zivilisationsbruch: Erlaubt das Narrativ, die Kontinuitaetsfrage zu umgehen?
+5. Wiedervereinigung als Vollendung: Was wurde dabei nicht erwaehnt?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Narrative identifizieren und isolieren
+- Quellentest: Tragen die Quellen das Narrativ?
+- Gegenquellen suchen: Was widerspricht dem Narrativ?
+- Nuancierung: Kern des Narrativs beibehalten, Uebertreibungen korrigieren
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Narrativ-Pruef-Schema fuer rechtshistorische Argumente
+- Fallbeispiel: Bismarck-Sozialversicherungsnarrativ geprueft
+- Checkliste: Warnsignale fuer politisch aufgeladene Rechtsgeschichte
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Quellen zum Narrativ immer separat pruefen. RGBl. 1883 ff.: ALEX/OeNB. GG: gesetze-im-internet.de. Radbruch 1946: SJZ 1946. Einigungsvertrag: BGBl. II 1990. Kein Narrativ ohne Quellentest.

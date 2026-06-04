@@ -1,50 +1,52 @@
 ---
 name: ihl-059-e-commerce-crossborder-b2b
-description: "Internationales Handelsrecht und Lex Mercatoria: E Commerce Crossborder B2b. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Grenzüberschreitender B2B-E-Commerce. EU-E-Commerce-RL 2000/31/EG (Herkunftslandprinzip), Vertragsschluss online (CISG Art. 14-24), elektronische Signaturen (eIDAS-VO), Digital Markets Act und Plattformhaftung."
 ---
 
-# E Commerce Crossborder B2b
+# Grenzüberschreitender B2B-E-Commerce
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **E Commerce Crossborder B2b** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Digitale Beschaffung und Vertrieb über Online-Plattformen werfen spezifische Rechts- und Zuständigkeitsfragen auf. Die E-Commerce-RL 2000/31/EG (Herkunftslandprinzip) regelt den EU-Rahmen. Vertragsschluss via Online-Bestellung ist nach CISG Art. 14-24 möglich. eIDAS-VO regelt rechtswirksame elektronische Signaturen.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **E-Commerce-RL 2000/31/EG Art. 3**: Herkunftslandprinzip im koordinierten Bereich
+- **E-Commerce-RL Art. 9-11**: Vertragsschluss auf elektronischem Wege
+- **eIDAS-VO (EU) 910/2014 Art. 25**: Rechtswirkung elektronischer Signaturen
+- **CISG Art. 14-24**: Angebot und Annahme — applicable to online contracting
+- **Digital Markets Act (EU) 2022/1925**: Gatekeeperpflichten für große Plattformen
+- **EU Digital Services Act (EU) 2022/2065**: Plattformhaftung und Transparenz
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Herkunftslandprinzip: Anbieter muss nur Recht seines Niederlassungslandes einhalten
+- Click-Through-Agreement: Online-AGB-Einbeziehung bei B2B — CISG-Fragen
+- eIDAS-Signatur: Qualifizierte elektronische Signatur = handschriftliche Unterschrift EU-weit
+- Gatekeeper (DMA): Google, Amazon etc. als Gatekeeper — Interoperabilitätspflichten
+- B2B-Marktplatz: Haftung für Drittanbieter nach DSA-Transparenzpflichten
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Online-Bestellung via Marketplace: CISG-Angebot wenn "Buy Now"-Button geklickt wird?
+2. eIDAS: Reicht qualifizierte elektronische Signatur für Schiedsvereinbarung (§ 1031 ZPO)?
+3. Herkunftslandprinzip: Welches Recht gilt für Plattform-AGB — Sitzland der Plattform oder Käuferland?
+4. DMA Gatekeeper: Muss Amazon als Gatekeeper bevorzugten Drittanbieter-Zugang gewähren?
+5. DSA: Welche Haftung hat Marktplatz bei gefährlichen Waren von Drittanbieter?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Online-Vertragsschluss-Prüfung: Angebot (Produktseite = Invitatio?) → Bestellung → Bestätigung
+- eIDAS-Signatur-Wahl: qualifiziert (höchstes Niveau), fortgeschritten (mittleres Niveau)
+- Plattformbedingungen: DMA/DSA-Compliance check für neue Marktplatzteilnahme
+- CISG auf Online-Handel: Frist- und Zugangsregelungen digital umsetzen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Online-Vertragsschluss-Schema (CISG-konform)
+- eIDAS-Signaturtypen-Übersicht
+- DMA/DSA-Pflichten-Checkliste für Marktplatzteilnehmer
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+E-Commerce-RL 2000/31/EG: eur-lex.europa.eu. eIDAS-VO 910/2014: eur-lex.europa.eu. DMA 2022/1925: eur-lex.europa.eu. DSA 2022/2065: eur-lex.europa.eu. CISG: uncitral.un.org. Unsicherheit bleibt sichtbar.

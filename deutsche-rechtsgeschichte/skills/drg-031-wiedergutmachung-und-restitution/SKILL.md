@@ -1,50 +1,50 @@
 ---
 name: drg-031-wiedergutmachung-und-restitution
-description: "Deutsche Rechtsgeschichte: Wiedergutmachung Und Restitution. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Wiedergutmachung und Restitution nach NS-Unrecht. Bundesentschaedigungsgesetz 1953, Bundesrueckerstattungsgesetz 1957, Globalabkommen und Grenzen der Wiedergutmachung."
 ---
 
-# Wiedergutmachung Und Restitution
+# Wiedergutmachung und Restitution (NS-Unrecht)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Wiedergutmachung Und Restitution** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Wiedergutmachung von NS-Unrecht war ein komplexes Feld der Nachkriegsgesetzgebung. Das Alliierte Kontrollratsgesetz Nr. 59 (1947) schuf erste Restitutionsregeln in den Westzonen. Das Bundesergaenzungsgesetz (BErgG 1953) und das Bundesentschaedigungsgesetz (BEG 1956, BGBl. I 1956, 559) schufen individuelle Entschaedigungsansprueche fuer rassische, religioese und politische Verfolgung. Das Bundesrueckerstattungsgesetz (BRueG 1957) regelte Rueckerstattung beweglicher Sachen. Globalabkommen mit Staaten (z. B. Luxemburger Abkommen 1952 mit Israel) ergaenzten die individuelle Entschaedigung. Zahlreiche Kategorien (Arbeitslager Entschaedigung, Sinti und Roma, homosexuelle NS-Opfer) wurden erst spaet anerkannt.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **BEG 1956 (BGBl. I 1956, 559)**: Bundesentschaedigungsgesetz, Grundlage individueller Ansprueche
+- **BRueG 1957 (BGBl. I 1957, 734)**: Bundesrueckerstattungsgesetz fuer bewegliche Sachen
+- **Luxemburger Abkommen 1952 (BGBl. II 1953, 35)**: Globalabkommen Deutschland-Israel
+- **Gesetz zur Aufhebung NS-Urteile 1998 (BGBl. I 1998, 2501)**: Aufhebung Sondergerichte-Urteile
+- **EntschG 2000 (BGBl. I 2000, 1281)**: Stiftung Erinnerung fuer Zwangsarbeiter
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Theodor Heuss** (1884-1963) und **Konrad Adenauer** (1876-1967): Politische Entscheidungstraeger
+- **Stiftung Erinnerung Verantwortung Zukunft (EVZ)**: Zwangsarbeiterentschaedigung 2000-2007
+- **Bundesentschaedigungsbehoerden**: Verwaltungspraktisch
+- **Bundesgerichtshof**: Auslegung BEG, z. B. BGH-Rspr. zu Entschaedigungsanspruechen
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. BEG und spaetere Anerkennungen: Warum wurden bestimmte Gruppen (Sinti, Roma, Homosexuelle) erst spaet anerkannt?
+2. Zwangsarbeiter-Stiftung 2000: Zu spaet und zu wenig?
+3. Luxemburger Abkommen 1952: Staatliche Entschaedigung oder Abkauf von Anspruechen?
+4. Restitution in der DDR und nach 1990: Verhaltnis Wiedergutmachungsrecht Ost vs. West
+5. Ansprueche aus der Zeit nach 1945: Wann verjaehlrten NS-Unrechts-Ansprueche?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- BEG: gesetze-im-internet.de (noch in Kraft); BGBl. I 1956, 559
+- Luxemburger Abkommen: BGBl. II 1953, 35
+- EVZ-Gesetz 2000: BGBl. I 2000, 1281
+- BGH: bgh.de fuer Entschaedigungsrechtsprechung
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste Wiedergutmachung: 1945-2000
+- BEG: Voraussetzungen, Ansprueche, Ausschlussgründe
+- Stiftung EVZ 2000: Entschaedigungsrahmen und Statistik
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+BEG: gesetze-im-internet.de. Luxemburger Abkommen: BGBl. II 1953, 35. EVZ-Gesetz: BGBl. I 2000, 1281. BGH: bgh.de. NS-Aufhebungsgesetz: BGBl. I 1998, 2501.

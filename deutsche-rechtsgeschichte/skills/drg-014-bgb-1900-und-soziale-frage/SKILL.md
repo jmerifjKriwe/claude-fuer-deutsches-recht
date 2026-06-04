@@ -1,50 +1,50 @@
 ---
 name: drg-014-bgb-1900-und-soziale-frage
-description: "Deutsche Rechtsgeschichte: BGB 1900 Und Soziale Frage. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: BGB 1900 und die soziale Frage. Kritik von Anton Menger und Otto von Gierke, fehlender Arbeitnehmerschutz im BGB, Mieterrecht und spaetere soziale Ausformung durch Rechtsprechung und Sondergesetze."
 ---
 
-# BGB 1900 Und Soziale Frage
+# BGB 1900 und die soziale Frage
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **BGB 1900 Und Soziale Frage** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das BGB 1900 war auf formaler Gleichheit und Vertragsfreiheit aufgebaut, ohne die realen Machtungleichgewichte zu beruecksichtigen. Anton Mengers Das buergerliche Recht und die besitzlosen Volksklassen (1890) analysierte dies scharf: Das BGB schuetze Eigentuemer und Kreditgeber, nicht Mieter und Arbeitnehmer. Otto von Gierke kritisierte den fehlenden deutschen Genossenschaftsgeist. Die soziale Luecke wurde durch Sondergesetze gefuellt: Gewerbegerichtsgesetz 1890, BGB-Ergaenzungen durch Arbeitnehmerrecht, Mieterschutz im Ersten Weltkrieg. Die Rechtsprechung nutzte BGB § 242 (Treu und Glauben) als Korrektiv. Das 20. Jh. brachte schliesslich Arbeitnehmerschutzrecht (BetrVG, KSchG), Mieterschutz (BGB §§ 535 ff.), und Verbraucherschutz.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **BGB § 242**: Treu und Glauben, sozialrechtliches Korrektivinstrument
+- **BGB § 618**: Fuersorgepflicht des Arbeitgebers (1900 bereits im BGB)
+- **Gewerbegerichtsgesetz 1890 (RGBl. 1890, 141)**: Arbeitsgerichtliche Vorlaeufernorm
+- **Mieterschutzverordnung 1917**: Erster staatlicher Mietschutz im Weltkrieg
+- **KSchG 1951 (BGBl. I 1951, 499)**: Kuendigungsschutzgesetz als BGB-Ergaenzung
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Anton Menger** (1841-1906): Sozialkritiker des BGB
+- **Otto von Gierke** (1841-1921): Deutschrechtliche und soziale BGB-Kritik
+- **Reichsgericht (RG)**: Nutzung von § 242 als Sozialkorrektur
+- **Weimarer Arbeitsbewegung**: Treiber fuer Arbeitnehmerschutzgesetze
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. War das BGB 1900 bewusst "arbeitgeberfreundlich" oder einfach neutral nach damaligem Verstaendnis?
+2. § 242 BGB: Hat das RG damit die sozialen Luecken sinnvoll geschlossen?
+3. Mieterschutz: Warum erst 1917? War Krieg als Anlass notwendig?
+4. BetrVG 1952/1972: Welcher Teil der Sozialkritik ist ins Gesetz eingegangen?
+5. Verbraucherschutz ab 1970er: Laesst sich das als Fortsetzung der Menger-Forderungen lesen?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Menger Das buergerliche Recht (1890): Erstausgabe zitieren
+- BGB § 242 und § 618: gesetze-im-internet.de; historisch Mugdan Bd. II
+- KSchG: gesetze-im-internet.de
+- Sekundaerliteratur: Knut Wolfgang Noerr, Privatrechtsgeschichte der Weimarer Republik
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Mengers Kritikpunkte von 1890 und ihr rechtliches Schicksal bis 2000
+- Tabelle: BGB-Regelung (1900) vs. soziale Weiterentwicklung durch Sondergesetze
+- § 242 BGB als sozialer Hebel: Schluessel-Entscheidungen des RG und BGH
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Menger Das buergerliche Recht 1890: historische Erstausgabe. Mugdan: Bd. II (Schuldrecht). BGB: gesetze-im-internet.de. KSchG, BetrVG: gesetze-im-internet.de. BGH-Rspr.: bgh.de.

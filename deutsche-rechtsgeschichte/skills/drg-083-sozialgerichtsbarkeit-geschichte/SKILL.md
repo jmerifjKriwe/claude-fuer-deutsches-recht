@@ -1,50 +1,52 @@
 ---
 name: drg-083-sozialgerichtsbarkeit-geschichte
-description: "Deutsche Rechtsgeschichte: Sozialgerichtsbarkeit Geschichte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Geschichte der Sozialgerichtsbarkeit. Entstehung der Sozialversicherung 1883-1889, Spruchkoerper der Sozialversicherung, Sozialgerichtsgesetz 1953 und Bundessozialgericht seit 1954."
 ---
 
 # Sozialgerichtsbarkeit Geschichte
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Sozialgerichtsbarkeit Geschichte** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Sozialgerichtsbarkeit hat ihre Wurzeln in den Schiedsgerichten der Bismarckschen Sozialversicherungsgesetze (1883-1889). Das Krankenversicherungsgesetz 1883 (RGBl. 1883, 73), das Unfallversicherungsgesetz 1884 und das Invaliditaets- und Altersversicherungsgesetz 1889 schufen je eigene Rechtsbehelfsmechanismen. Die Reichsversicherungsordnung (RVO) von 1911 (RGBl. 1911, 509) vereinheitlichte das Sozialversicherungsrecht und schuf Spruchkoerper. Das Sozialgerichtsgesetz (SGG) vom 3. September 1953 (BGBl. I 1953, 1239) schuf eigenstaendige Sozialgerichte. Das Bundessozialgericht (BSG) in Kassel nahm 1954 die Arbeit auf.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Krankenversicherungsgesetz 1883 (RGBl. 1883, 73)**: Erste moderne Pflichtversicherung
+- **Unfallversicherungsgesetz 1884 (RGBl. 1884, 69)**: Betriebliche Unfallversicherung
+- **Invaliditaets- und Altersversicherungsgesetz 1889 (RGBl. 1889, 97)**: Rentenversicherung Bismarck
+- **RVO 1911 (RGBl. 1911, 509)**: Reichsversicherungsordnung, Einheitskodifikation
+- **SGG 1953 (BGBl. I 1953, 1239)**: Dreistufiger Gerichtsaufbau SG, LSG, BSG
+- **SGB X (BGBl. I 1980, 1469)**: Verwaltungsverfahren in der Sozialversicherung
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Otto von Bismarck** (1815-1898): Politischer Initiator der Sozialversicherung
+- **Theodor Lohmann** (1831-1905): Technischer Konzipient der Sozialversicherungsgesetze im Reichsamt des Innern
+- **BSG Kassel**: Leitinstanz der Sozialgerichtsbarkeit seit 1954
+- **DRV, GKV, BG**: Traeger der Sozialversicherungssysteme
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. War die Bismarckschen Sozialversicherung sozialpolitisches Instrument oder Mittel zur Arbeiterbefriedung?
+2. Verhaeltnis RVO 1911 zur heutigen SGB-Kodifikation: Kontinuitaet oder Bruch?
+3. Unabhaengigkeit der Sozialgerichtsbarkeit im NS?
+4. Ostdeutsche Sozialversicherung 1990: Eingliederung oder Ersatz durch westdeutsches System?
+5. BSG-Rechtsprechung zur Rentenformel: Politische vs. rechtliche Bindung?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Bismarcksche Sozialgesetze: ALEX/ÖNB fuer Reichsgesetzblatt-Originaltexte
+- RVO 1911: gesetze-im-internet.de (historische Fassung)
+- SGG: gesetze-im-internet.de
+- BSG-Rechtsprechung: bsg.bund.de (frei zugaengliche Entscheidungen)
+- Sekundaerliteratur: Ritter, Sozialversicherung in Deutschland und England (1983)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste Sozialversicherungsgesetze 1883-1953
+- Vergleichstabelle: Rechtsbehelfssysteme vor und nach SGG 1953
+- Bismarckschen Sozialgesetze: Kerndaten und Versicherungszweige
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+RGBl. Texte: ALEX/ÖNB. RVO und SGG: gesetze-im-internet.de. BSG: bsg.bund.de. Bismarcks Motive: Reichstagsdebatten via reichstagsprotokolle.de.

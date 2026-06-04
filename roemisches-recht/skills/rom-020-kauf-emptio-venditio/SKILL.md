@@ -1,81 +1,54 @@
 ---
 name: rom-020-kauf-emptio-venditio
-description: "Römisches Recht: Kauf Emptio Venditio. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Kauf (emptio venditio) als Konsensualkontrakt nach D. 18.1 und Gaius Inst. 3.139 - pretium, merx, Gefahrtragung (periculum emptoris), actio empti/venditi, Eviktion."
 ---
 
-# Kauf Emptio Venditio
+# Kauf - emptio venditio
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Kauf Emptio Venditio** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die emptio venditio ist der Konsensualkontrakt des Kaufs: Einigung über Ware (merx) und Preis (pretium). D. 18.1.1 pr. (Paulus) erklärt die historische Entstehung aus dem Tausch. Besonderheit: Mit Vertragsabschluss geht die Gefahr des zufälligen Untergangs auf den Käufer über (periculum est emptoris, D. 18.6.8 pr., Paulus). Der Verkäufer schuldet Übergabe und Gewährleistung (Eviktion, Sachmängel).
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 18.1.1 pr. (Paulus)**: Ursprung des Kaufs aus dem Tausch
+- **D. 18.1.2.1 (Pomponius)**: Einigung über Ware und Preis als Konstitutivum
+- **D. 18.6.8 pr. (Paulus)**: periculum est emptoris - Gefahrtragung beim Käufer
+- **Gaius Inst. 3.139**: Emptio venditio als Konsensualkontrakt
+- **D. 19.1.1 pr. (Ulpian)**: actio empti und actio venditi
+- **D. 21.1.1 (Ulpian)**: Edictum aedilicium - Sachmängelgewährleistung
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- merx: Kaufsache (muss im Handel sein)
+- pretium certum: bestimmter Preis (numerata pecunia)
+- periculum emptoris: Gefahrtragung des Käufers ab Perfektion
+- emptio perfecta: Kaufvertrag mit bestimmter Ware und Preis
+- actio empti: Klage des Käufers auf Übergabe/Gewährleistung
+- actio venditi: Klage des Verkäufers auf Zahlung
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Pretium iustum: Pflicht zur Preisangemessenheit im röm. Recht?
+2. Periculum emptoris: Ausnahme bei Gattungssachen?
+3. Eviktionshaftung: stipulatio duplae oder actio empti?
+4. Verhältnis ediktale Aedilengewährleistung - zivilrechtliche Kaufhaftung
+5. Vergleich mit BGB § 433ff. und CISG Art. 30ff.
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 18-19 (De contrahenda emptione, De actione empti) als Haupttitel
+- Gaius Inst. 3.139-141
+- D. 21.1 (Aedilische Gewährleistung)
+- Kaser RP I §§ 196-206; Zimmermann Law of Obligations Kap. 10
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: Pflichten aus emptio venditio
+- Gefahrtragungsübersicht mit Ausnahmen
+- Memo zur Eviktionshaftung
+- Vergleich röm. Kauf vs. BGB-Kauf vs. CISG
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
-
-## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
-
-### Schluesselstellen
-- **D. 18.1.1 (Paulus)**: "Origo emendi vendendique a permutationibus coepit" — Tauschgeschaeft als Urform.
-- **D. 18.1**: De contrahenda emptione (allgemein).
-- **D. 18.6**: De periculo et commodo rei venditae (Gefahrtragung).
-- **D. 19.1**: De actionibus empti venditi (Klagen).
-- **D. 21.1**: De aedilicio edicto (Sachmaengelhaftung).
-
-### Tatbestand
-- Konsens ueber Sache und Preis (kein Form-Erfordernis).
-- Preis: certum (bestimmt) und in Geld.
-
-### Wesentliche Klagen
-- **Actio empti**: Kaeuferklage auf Lieferung und Maengelhaftung.
-- **Actio venditi**: Verkaeuferklage auf Kaufpreis.
-- **Actio redhibitoria**: Wandlung wegen Sachmangel (aedilizisch).
-- **Actio quanti minoris**: Minderung wegen Sachmangel.
-
-### Subsumtionsbeispiel: Pferdekauf, Pferd lahmt
-Sachverhalt: A kauft Pferd; nach 3 Wochen lahmt es; bei Kauf bereits krank, aber A wusste nichts.
-- **Roemisch**: actio redhibitoria innerhalb 6 Monaten; Wahlrecht Wandlung oder Minderung (actio quanti minoris). D. 21.1.
-- **ALR I 11**: Aedilizische Aktionen uebernommen; 6 Monate Frist fuer Tiere.
-- **BGB**: § 434 BGB Mangel; § 437 Nr. 2 Ruecktritt bzw. Nr. 3 Minderung; 2 Jahre Verjaehrung § 438 BGB (im B2C bei beweglichen Sachen).
-
-### Subsumtionsbeispiel: Eviktion
-Sachverhalt: A kauft Sklave von B; spaeter klagt C als wahrer Eigentuemer.
-- **Roemisch**: actio auctoritatis (bei mancipatio) bzw. stipulatio duplae (Kaufversprechen mit Stipulation auf doppelten Kaufpreis bei Eviktion). D. 21.2 De evictionibus.
-- **BGB**: § 435 BGB Rechtsmangel; § 437 BGB Mangelrechte; § 311a BGB anfaengliche Unmoeglichkeit.
-
+D. 18-19; D. 21.1 (Mommsen-Krüger). Gaius Inst. 3. Zimmermann Law of Obligations. Kaser RP I.

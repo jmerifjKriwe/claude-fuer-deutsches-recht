@@ -1,50 +1,50 @@
 ---
 name: drg-034-ddr-recht-und-sozialistische-gesetzlichkeit
-description: "Deutsche Rechtsgeschichte: DDR Recht Und Sozialistische Gesetzlichkeit. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: DDR-Recht und sozialistische Gesetzlichkeit. DDR-Verfassung 1949/68/74, ZGB 1975, AGO, StPO-DDR und Charakteristika des sozialistischen Rechtssystems."
 ---
 
-# DDR Recht Und Sozialistische Gesetzlichkeit
+# DDR-Recht und sozialistische Gesetzlichkeit
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **DDR Recht Und Sozialistische Gesetzlichkeit** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die DDR (1949-1990) entwickelte ein eigenstaendiges Rechtssystem auf sozialistischer Grundlage. Kernmerkmal war die sozialistische Gesetzlichkeit: das Recht als Instrument der Partei und des Staates, nicht als Schranke staatlicher Macht. Die DDR-Verfassung hatte mehrere Fassungen: 1949 (noch liberal), 1968 (sozialistisch, Fuehungsrolle der SED), 1974 (Staatsbuergernachweise). Das ZGB 1975 (GBl. I DDR 1975, 465) regelte Zivilrecht auf sozialistischer Grundlage. Die Arbeitsgesetzbuch (AGB-DDR 1977) und die StPO-DDR (1952) komplettierten das System. Politische Justiz war verbreitet (Staatsanwalt als Parteiinstrument).
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **DDR-Verfassung 1968 (GBl. I DDR 1968, 199)**: Fuehrungsrolle der SED (Art. 1)
+- **DDR-ZGB 1975 (GBl. I DDR 1975, 465)**: Sozialistisches Zivilrecht
+- **AGB-DDR 1977 (GBl. I DDR 1977, 185)**: Arbeitsgesetzbuch der DDR
+- **StPO-DDR 1952 (GBl. DDR 1952, 996)**: Strafprozessordnung der DDR
+- **DDR-StGB 1968 (GBl. I DDR 1968, 1)**: Strafgesetzbuch der DDR
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Hilde Benjamin** (1902-1989): Justizministerin der DDR (1953-1967), Voelkertoeterin
+- **Oberstes Gericht der DDR**: Hoechstgericht, SED-gesteuert
+- **Generalstaatsanwaltschaft der DDR**: Anklagebehorde und Parteiinstrument
+- **Ministerium fuer Staatssicherheit (MfS)**: Geheimpolizei mit juristischen Instrumenten
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. War das DDR-Recht ein eigenstaendiges Rechtssystem oder bloss Machtinstrument?
+2. DDR-ZGB 1975 als Kodifikation: Wie weit wich es vom BGB ab?
+3. Sozialistische Gesetzlichkeit: Konnten DDR-Buerger ihre Rechte durchsetzen?
+4. Aufarbeitung nach 1990: Welche DDR-Richter wurden strafrechtlich verfolgt?
+5. Schussbefehl an der Mauer: Galt er nach DDR-Recht? (Mauerschuetzen-Prozesse)
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- DDR-Verfassung und Gesetze: GBl. DDR via ALEX/OeNB
+- DDR-ZGB 1975: GBl. I DDR 1975, 465 via ALEX/OeNB
+- BGH zu Mauerschuetzen: bgh.de
+- BVerfG zu DDR-Recht-Aufarbeitung: bverfg.de
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Vergleich DDR-ZGB vs. BGB in drei Kerninstituten
+- DDR-Justiz: Institutioneller Aufbau und Parteieinfluss
+- Mauerschuetzen-Prozesse: BGH-Grundsaetze
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+DDR-Gesetze: GBl. DDR via ALEX/OeNB. BVerfGE zum DDR-Recht: bverfg.de. BGH zu Mauerschuetzen: bgh.de. Sekundaerliteratur: mit Autor, Werk, Seite.

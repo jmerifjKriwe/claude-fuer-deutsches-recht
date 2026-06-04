@@ -1,50 +1,54 @@
 ---
 name: rom-064-juristen-modestinus
-description: "Römisches Recht: Juristen Modestinus. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Herennius Modestinus (gest. um 250 n.Chr.) - letzter der fünf klassischen Zitierjuristen, Differentiae, Regulae, Responsa, griechischsprachige Werke und seine Stellung in der nachklassischen Jurisprudenz."
 ---
 
-# Juristen Modestinus
+# Jurist: Modestinus (Herennius Modestinus)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Juristen Modestinus** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Modestinus ist der letzte der fünf zitierfähigen Juristen des Zitiergesetzes von 426 n.Chr. Er wirkte um 220-250 n.Chr., war Schüler Ulpians und verfasste Differentiae (12 Bücher), Regulae (10 Bücher) und Excusationes (6 Bücher). Besonders ist seine griechischsprachige Schriftstellerei, die seine östliche Wirkungssphäre spiegelt. Er steht an der Grenze zwischen Klassik und Nachklassik.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 23.2.1 (Modestinus)**: Nuptiae-Definition (Ehedefinition)
+- **D. 41.3.1 (Modestinus)**: Usucapio-Definition
+- **D. 50.16.101 (Modestinus)**: Sprachliche Definitionen
+- **CTh 1.4.3 (426 n.Chr.)**: Modestinus als einer von fünf
+- **Lenel Palingenesia I**: Modestinus-Fragmente
+- **D. 27.1.2 (Modestinus)**: Excusationes von der Tutela
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- Differentiae: Unterscheidungen (systematische Arbeit)
+- Regulae: Rechtssätze
+- Excusationes: Befreiungsgründe von der Tutela
+- Nachklassik: Übergangsepoche zur Vulgarisierung
+- Griechische Werke: Spiegelbild des östlichen Reichsteils
+- Schüler Ulpians: Verbindung zur hochklassischen Jurisprudenz
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Modestinus: echter Klassiker oder bereits nachklassisch?
+2. Griechischsprachige Jurisprudenz: Bedeutung für die östliche Rechtsentwicklung?
+3. Verhältnis zu Ulpian: Schüler oder Zeitgenosse?
+4. Digestenanteil: relativ gering im Vergleich zu Ulpian und Paulus
+5. Excusationes als Praxishandbuch für Tutelabefreiungen
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Lenel Palingenesia I (Modestinus, archive.org)
+- CTh 1.4.3 (FIRA vol. I)
+- Kunkel Herkunft der röm. Juristen
+- Liebs Die Jurisprudenz im spätantiken Italien
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Werkübersicht Modestinus
+- Einordnung zwischen Klassik und Nachklassik
+- Memo zu griechischen Werken und östlicher Jurisprudenz
+- Vergleich: die fünf Zitierjuristen im Überblick
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Lenel Palingenesia I (archive.org). CTh 1.4.3: FIRA vol. I (archive.org). D. 23.2.1; D. 41.3.1 (Mommsen-Krüger). Kunkel.

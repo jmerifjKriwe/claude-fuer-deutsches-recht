@@ -1,50 +1,53 @@
 ---
 name: ihl-025-spediteur-und-logistikvertrag
-description: "Internationales Handelsrecht und Lex Mercatoria: Spediteur Und Logistikvertrag. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Spediteurrecht national (HGB §§ 453-466) und international. FIATA-Dokumente (FBL, FCR, FWR), Spediteurslagerschein, Haftungsregimes bei Sammelladung, Haftungsdurchbrechung durch Kenntnis vom Inhalt und Multimodaltransport."
 ---
 
-# Spediteur Und Logistikvertrag
+# Spediteur- und Logistikvertrag
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Spediteur Und Logistikvertrag** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Der Spediteur organisiert Transporte, schließt im eigenen Namen für Rechnung des Versenders ab (Fixkosten-Spediteur: §§ 459, 460 HGB) oder als Frachtführer (§ 458 HGB). Für internationale Spedition gibt FIATA standardisierte Dokumente heraus. Das Haftungsregime des Spediteurs ist komplex, da er verschiedene Subfrachtführer einsetzt.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **HGB § 453**: Speditionsvertrag — Definition
+- **HGB § 454**: Pflichten des Spediteurs (Beförderung, Versicherung, Zoll, Benachrichtigung)
+- **HGB § 459 Abs. 1**: Selbsteintritt als Frachtführer
+- **HGB § 461**: Haftung des Spediteurs — HGB-Frachtrecht gilt entsprechend
+- **FIATA Multimodal Transport Bill of Lading (FBL)**: Wertpapier für multimodale Transporte
+- **FIATA FCR**: Forwarders Certificate of Receipt — nicht übertragbar
+- **ADSp 2017**: Allgemeine Deutsche Spediteurbedingungen — AGB der Branche
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Selbsteintritt §§ 458-460 HGB: Spediteur wird Frachtführer — eigene Haftung
+- Sammelladung § 460 HGB: Haftungsregime bei Stückgutzusammenladung
+- FIATA FBL: eigentliches Wertpapier (negotiable) — geeignet für Akkreditivzwecke
+- Unbekannte Klausel im Konnossement: Spediteur haftet für Schäden wenn Inhalt nicht bekannt
+- ADSp 2017 Haftungsgrenzen: 8,33 SZR/kg (wie CMR) aber mit Summenbegrenzungen
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Spediteur beauftragt Sub-Frachtführer — wer haftet bei Transportschaden gegenüber Versender?
+2. FBL als Akkreditivdokument: Akzeptiert Bank FIATA FBL statt Sea BL?
+3. ADSp 2017: Gelten AGB-Klauseln im grenzüberschreitenden Geschäft?
+4. Multimodaler Transport: Welches Haftungsregime gilt bei unbekanntem Schadensort?
+5. Spediteur als Exportkontrollverantwortlicher: Pflichten bei sanktionierten Ländern?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Erstbestimmung Spediteur vs. Frachtführer: Pflicht zur Eigenbeförderung oder nur Organisation?
+- Haftungsregime: bekannter Schadensort → Einzelregime (CMR, MÜ); unbekannt → ADSp/FIATA
+- FBL für Akkreditive: nur wenn Bank ausdrücklich akzeptiert (UCP 600 Art. 19 Multimodal-Transport-Dokument)
+- ADSp 2017: nur bei nationalen Verträgen; international: FIATA-Bedingungen besser
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Spediteur vs. Frachtführer Abgrenzungsschema
+- FIATA-Dokumentenübersicht (FBL, FCR, FWR, FIATA Warrant)
+- Haftungs-Flussdiagramm bei unbekanntem Schadensort
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+HGB §§ 453-466: gesetze-im-internet.de. ADSp 2017: dslv.org. FIATA-Dokumente: fiata.org. UCP 600: iccwbo.org. Unsicherheit bleibt sichtbar.

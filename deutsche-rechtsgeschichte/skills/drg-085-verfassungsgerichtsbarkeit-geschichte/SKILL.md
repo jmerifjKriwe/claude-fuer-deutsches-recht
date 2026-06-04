@@ -1,50 +1,51 @@
 ---
 name: drg-085-verfassungsgerichtsbarkeit-geschichte
-description: "Deutsche Rechtsgeschichte: Verfassungsgerichtsbarkeit Geschichte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Geschichte der Verfassungsgerichtsbarkeit. Staatsgerichtshof der WRV, Entstehung des BVerfG 1951, Normenkontrolle und Grundrechtsbeschwerde als deutsche Innovationen."
 ---
 
 # Verfassungsgerichtsbarkeit Geschichte
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Verfassungsgerichtsbarkeit Geschichte** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Verfassungsgerichtsbarkeit hat in Deutschland eine eigentuemliche Geschichte. Die WRV kannte den Staatsgerichtshof (Art. 19, 108 WRV) fuer bestimmte Streitigkeiten, aber keine allgemeine Normenkontrolle. Hans Kelsen hatte in Oesterreich 1920 das erste echte Verfassungsgericht konzipiert. Das GG 1949 schuf das Bundesverfassungsgericht (BVerfG), das am 7. September 1951 errichtet wurde (BGBl. I 1951, 243). Das BVerfG-Gesetz (BVerfGG) regelt Verfahren, Zustaendigkeiten und Richterwahl. Die abstrakte und konkrete Normenkontrolle sowie die Verfassungsbeschwerde sind deutsche Institutionen von internationalem Einfluss.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Art. 93, 94 GG**: Zustaendigkeit und Zusammensetzung des BVerfG
+- **Art. 100 GG**: Konkrete Normenkontrolle durch Vorlageverfahren
+- **BVerfGG vom 12. März 1951 (BGBl. I 1951, 243)**: Organisation und Verfahren
+- **BVerfGG § 13**: Katalogartige Zustaendigkeiten
+- **BVerfGG §§ 90-95**: Verfassungsbeschwerde
+- **BVerfGE 1, 14**: Erste Entscheidung des BVerfG (1951), zum Wahlrecht
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Gerhard Leibholz** (1901-1982): Richter am BVerfG, Parteienstaaslehre
+- **Hans Kelsen** (1881-1973): Theoretiker der Verfassungsgerichtsbarkeit (Oesterreich-Modell)
+- **Carlo Schmid** (1896-1979) und **Hermann von Mangoldt** (1895-1953): Parlamentarischer Rat, BVerfG-Konzeption
+- **Willi Geiger** (1909-1994): BVerfG-Richter der ersten Stunde, Sondervoten
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Warum schuf die WRV keine echte Normenkontrolle, das GG aber schon?
+2. Maastricht-Urteil 1993 (BVerfGE 89, 155): Souveraenitat vs. Europaeische Integration
+3. Lissabon-Urteil 2009 (BVerfGE 123, 267): Identitaetskontrolle und Demokratieprinzip
+4. BVerfG und EuGH: Wer hat das letzte Wort?
+5. Politisierung der Richterwahl: BVerfGG § 6 und das Zwei-Drittel-Erfordernis
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- GG und BVerfGG: gesetze-im-internet.de
+- BVerfGE Entscheidungen: bverfg.de (vollstaendige Sammlung online)
+- WRV-Staatsgerichtshof: documentArchiv.de fuer WRV-Text
+- Kelsen-Texte: oesterreichische Rechtszeitschriften und Bucheditionen
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Strukturvergleich Staatsgerichtshof WRV vs. BVerfG
+- Zustaendigkeitsuebersicht BVerfG nach Art. 93 GG und BVerfGG § 13
+- Leitsaetze aus BVerfGE 1, 14 und BVerfGE 89, 155 (Maastricht)
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+GG und BVerfGG: gesetze-im-internet.de. BVerfGE vollstaendig: bverfg.de. WRV: documentArchiv.de. Historische Zeitschriften: JZ, NJW (ab 1951 zugaenglich).

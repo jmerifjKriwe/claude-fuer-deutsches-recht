@@ -1,50 +1,52 @@
 ---
 name: ihl-063-exclusive-distributor
-description: "Internationales Handelsrecht und Lex Mercatoria: Exclusive Distributor. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Alleinvertriebsvertrag international. Gebietsschutz nach VBER 2022 (EU) 2022/720, Mindestumsatzpflichten, Wettbewerbsverbote, Kündigung und Schadensersatz bei missbräuchlicher Beendigung."
 ---
 
-# Exclusive Distributor
+# Alleinvertriebsvertrag International
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Exclusive Distributor** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Der Alleinvertriebsvertrag (Exclusive Distribution Agreement) gewährt dem Händler das exklusive Recht zum Vertrieb in einem Gebiet. Nach VBER 2022 (EU) 2022/720 ist Exklusivität zulässig, wenn Marktanteile des Lieferanten unter 30% und des Händlers unter 30% bleiben. Missbräuchliche Kündigung kann Schadensersatzpflichten auslösen.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **VBER (EU) 2022/720 Art. 2**: Freigestellte vertikale Vereinbarungen
+- **VBER Art. 3**: Marktanteilsschwelle — 30% für Lieferant und Händler
+- **VBER Art. 4**: Hardcore-Beschränkungen — Preisbindung, absolute Gebietsbeschränkungen verboten
+- **VBER Art. 5**: Nicht freigestellte Klauseln — Wettbewerbsverbot > 5 Jahre
+- **GWB § 20**: Diskriminierungsverbot bei marktbeherrschenden Lieferanten
+- **§ 314 BGB**: Außerordentliche Kündigung — als Fristsetzung bei Dauerschuldverhältnis
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Gebietsschutz: Lieferant liefert nicht in Exklusivgebiet; aktive Verkaufsverbote für andere Händler
+- Marktanteilsschwelle 30%: VBER greift nicht bei Überschreitung → Einzelfallprüfung
+- Mindestumsatz (minimum purchase obligation): zulässig; aber Kündigungsrecht bei Nichterfüllung
+- Wettbewerbsverbot post-contractual: max. 1 Jahr nach VBER Art. 5 Abs. 1 lit. b
+- Internet-Verkäufe: VBER 2022 erlaubt Beschränkungen unter Bedingungen (dual pricing verboten)
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Lieferant liefert direkt in Exklusivgebiet des Händlers: Schadensersatz nach GWB/VBER?
+2. Kündigung bei Nichterfüllung Mindestumsatz: Fristsetzung + Abmahnung erforderlich?
+3. Online-Verkaufsbeschränkung: Darf Lieferant Händler verbieten über Amazon zu verkaufen?
+4. Post-contractual Wettbewerbsverbot: 2 Jahre nach VBER verboten — VBER-Konsequenz?
+5. Marktanteil über 30%: Gilt keine Freistellung mehr — was prüft die Kommission?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- VBER 2022: Marktanteile prüfen; Hardcore-Restriction-Checkliste durchlaufen
+- Exklusivgebiets-Abgrenzung: klar und nicht nach Staatsgebiet allein (VBER-konforme Geodefinition)
+- Mindestumsatz: Berechnungsbasis definieren (Nettopreis, CIF-Wert)
+- Kündigung: Vertragsstrafe oder Mindest-Schadensersatz-Klausel für missbräuchliche Kündigung
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- VBER 2022 Compliance-Checkliste für Alleinvertrieb
+- Mindestumsatz-Klausel-Muster
+- Kündigungsschutz-Analyse
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+VBER (EU) 2022/720: eur-lex.europa.eu. GWB § 20: gesetze-im-internet.de. Leitlinien zu vertikalen Beschränkungen (EU) 2022: eur-lex.europa.eu. Unsicherheit bleibt sichtbar.

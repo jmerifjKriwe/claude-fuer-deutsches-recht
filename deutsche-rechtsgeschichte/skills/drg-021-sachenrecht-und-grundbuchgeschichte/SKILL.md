@@ -1,50 +1,51 @@
 ---
 name: drg-021-sachenrecht-und-grundbuchgeschichte
-description: "Deutsche Rechtsgeschichte: Sachenrecht Und Grundbuchgeschichte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Sachenrecht und Grundbuchgeschichte. Preussisches Grundbuchrecht, BGB-Sachenrecht 1900, Eintragungsgrundsatz, Grunddienstbarkeiten und Hypothekenrecht im historischen Wandel."
 ---
 
-# Sachenrecht Und Grundbuchgeschichte
+# Sachenrecht und Grundbuchgeschichte
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Sachenrecht Und Grundbuchgeschichte** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Grundbuchrecht entwickelte sich aus dem mittelalterlichen Stadtbuchwesen (Stadtbuecher als Eigentumsnachweis) und dem preussischen Hypothekenrecht (Preussisches Hypothekengesetz 1872). Das BGB 1900 schuf ein einheitliches Sachenrecht (BGB Buch III, §§ 854-1296) mit dem Eintragungsprinzip (§ 873 BGB: Eigentumsuebertragung an Grundstuecken nur mit Auflassung und Grundbucheintragung) und dem Publizitaetsprinzip. Das Grundbuch ist oeffentlicher Glaube (§ 892 BGB). Hypothek, Grundschuld und Rentenschuld sind die Sicherungsrechte. Im 20. Jh. praegten die Nichtauflassungsklauseln der DDR und die Restitutionsprobleme nach 1990 das Sachenrecht.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **BGB § 873**: Einigung und Eintragung als Eigentumserwerbsakt fuer Grundstuecke
+- **BGB § 892**: Oeffentlicher Glaube des Grundbuchs
+- **BGB §§ 1113-1190**: Hypothek
+- **BGB §§ 1191-1198**: Grundschuld
+- **GBO 1897 (RGBl. 1897, 139)**: Grundbuchordnung
+- **PreussHypG 1872**: Vorgaengerrecht im preussischen Grundbuchrecht
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Preussisches Justizministerium**: GBO-Entwicklung im 19. Jh.
+- **BGB-Sachenrechtskommission**: Erarbeitung der BGB-Sachenrechtsbuecher
+- **Notariate**: Praktische Garant des Grundbuchrechts durch Auflassungserklaerungen
+- **BGH**: Sachenrechtliche Leitentscheidungen
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Abstraktionsprinzip und Grundstueck: Gilt es auch bei der Auflassung?
+2. Gutglaeubiger Erwerb § 892 BGB: Schutzt das Grundbuch immer den Erwerber?
+3. Preussisches vs. gemeines Sachenrecht: War die Einheitslosung des BGB ein Gewinn?
+4. DDR-Sachenrecht und Wiedervereinigung: Welche DDR-Sachenrechtsfiguren ueberlebten?
+5. Notarielle Beurkundung (§ 311b BGB): Paternalismus oder Schutz?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- BGB Sachenrecht: gesetze-im-internet.de; Mugdan Bd. III (1899)
+- GBO: gesetze-im-internet.de
+- PreussHypG 1872: ALEX/OeNB fuer historischen Originaltext
+- BGH-Sachenrechtsentscheidungen: bgh.de (V. Zivilsenat)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Grundbuch-Funktionsprinzipien: Eintragungs-, Publizitaets-, Konstitutivprinzip
+- Hypothek vs. Grundschuld: historische Entwicklung und Unterschiede
+- DDR-Sachenrecht-Uebergang 1990: Problemfelder
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+BGB Sachenrecht: gesetze-im-internet.de; Mugdan Bd. III. GBO: gesetze-im-internet.de. PreussHypG 1872: ALEX/OeNB. BGH V. Zivilsenat: bgh.de.

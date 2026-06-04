@@ -1,50 +1,54 @@
 ---
 name: rom-014-pfandrecht-pignus-hypotheca
-description: "Römisches Recht: Pfandrecht Pignus Hypotheca. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Pfandrecht - pignus (Besitzpfand) nach D. 13.7 und hypotheca (besitzloses Pfand) nach D. 20. Akzessorietät, actio Serviana, actio quasi Serviana und Rangordnung."
 ---
 
-# Pfandrecht Pignus Hypotheca
+# Pfandrecht: pignus und hypotheca
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Pfandrecht Pignus Hypotheca** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das römische Pfandrecht kennt das Besitzpfand (pignus: Pfandgläubiger erhält Besitz) und die Hypothek (hypotheca: Schuldner behält Besitz). Das Pfandrecht ist akzessorisch zur gesicherten Forderung. Schutzklage des Pfandgläubigers ist die actio Serviana (für Verpächter-Pfand) und actio quasi Serviana (allgemeine Pfandklage, D. 20.1.1). Justinian vereinheitlichte pignus und hypotheca (C. 8.13-16).
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 13.7.1 pr. (Ulpian)**: Pignus - Definition des Besitzpfands
+- **D. 20.1.1 pr. (Papinian)**: Hypotheca - keine Besitzübergabe nötig
+- **D. 20.1.5.1 (Gaius)**: Hypothek als generelles Pfandrecht
+- **D. 13.7.9 pr. (Ulpian)**: Pflichten des Pfandgläubigers
+- **C. 8.13.1 (Alexander Severus)**: Rang der Pfandgläubiger
+- **D. 20.4.1 (Papinian)**: Rangordnung (prior tempore potior iure)
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- pignus: Besitzpfand (possessio des Pfandgläubigers)
+- hypotheca: besitzloses Pfand (griechischer Ursprung)
+- actio Serviana: prätorische Klage des Verpächters auf Einrichtungsgegenstände
+- actio quasi Serviana: allgemeine Pfandklage
+- prior tempore potior iure: Prioritätsprinzip bei mehreren Pfandgläubigern
+- ius distrahendi: Recht des Pfandgläubigers zur Verwertung
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Unterschied pignus - hypotheca in der Praxis: formlos, aber faktisch wichtig
+2. Prioritätsprinzip vs. Surrogation bei mehreren Pfandgläubigern
+3. Pfandfreier Rückkauf: ius redimendi des Schuldners
+4. Generalverpfändung (hypotheca generalis) vs. Spezialverpfändung
+5. Vergleich: röm. Hypothek vs. BGB §§ 1113ff. (Hypothek/Grundschuld)
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 13.7 (De pigneraticia actione) und D. 20 (De pignoribus et hypothecis)
+- C. 8.13-16 (Codex zu Pfandrecht)
+- Kaser RP I §§ 148-155; Wacke Pfandrecht im röm. Recht
+- Vergleich mit BGB §§ 1204ff. (Pfandrecht) und §§ 1113ff.
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: pignus vs. hypotheca im Überblick
+- Prioritätsrangfolge bei mehreren Pfandgläubigern
+- Memo zur actio quasi Serviana
+- Vergleich: röm. Pfandrecht vs. BGB-Sachenrecht
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 13.7; D. 20 (Mommsen-Krüger). C. 8.13-16. Kaser RP I §§ 148-155.

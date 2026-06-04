@@ -1,79 +1,54 @@
 ---
 name: rom-026-auftrag-mandatum
-description: "Römisches Recht: Auftrag Mandatum. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Mandatum (Auftrag) als Konsensualkontrakt nach D. 17.1 und Gaius Inst. 3.155-162 - Unentgeltlichkeit, actio mandati directa/contraria, mandatum post mortem und Widerruf."
 ---
 
-# Auftrag Mandatum
+# Auftrag (mandatum)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Auftrag Mandatum** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das mandatum ist der unentgeltliche Auftrag eines Mandanten (mandans) an einen Beauftragten (mandatarius). Entgeltlichkeit schließt das mandatum aus und begründet locatio conductio operarum (Gaius Inst. 3.162). Der Mandatar haftet für culpa (D. 17.1.8, Ulpian). Actio mandati directa: Klage des Mandanten; contraria: Klage des Mandatars auf Aufwandersatz. Mandatum endet bei Tod einer Partei oder Widerruf.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius Inst. 3.155**: Mandatum - vier Untertypen
+- **Gaius Inst. 3.162**: Entgeltlichkeit als Abgrenzung zur locatio conductio
+- **D. 17.1.1 pr. (Paulus)**: Mandatum-Definition
+- **D. 17.1.8.9 (Ulpian)**: Haftungsmaßstab culpa levis
+- **D. 17.1.27.3 (Ulpian)**: Mandatum post mortem (Ungültigkeit)
+- **D. 17.1.15 (Paulus)**: Mandatum tua tantum gratia (einseitig nützlich)
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- mandans: Auftraggeber
+- mandatarius: Beauftragter
+- actio mandati directa: Klage des Mandanten auf Rechenschaft/Herausgabe
+- actio mandati contraria: Gegenklage auf Aufwendungsersatz
+- mandatum post mortem: Auftrag über Tod hinaus (klassisch ungültig)
+- procurator omnium bonorum: allgemeiner Vertreter (häufigste Praxis)
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Mandatum vs. procuratio: Vollmacht oder Auftrag?
+2. Mandatum tua tantum gratia: rechtlich unverbindlich (D. 17.1.2 pr.)?
+3. Tod des Mandanten: Erlöschen oder Weitergeltung für dringende Geschäfte?
+4. Haftung für Dritte, die Mandatar einschaltet
+5. Vergleich: mandatum vs. BGB §§ 662ff. (Auftrag) und §§ 164ff. (Vollmacht)
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 17.1 (Mandati vel contra) als Haupttitel
+- Gaius Inst. 3.155-162
+- Iust. Inst. 3.26
+- Kaser RP I §§ 226-230; Zimmermann Law of Obligations Kap. 15
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: mandatum - vier Untertypen nach Gaius
+- Pflichten- und Haftungsübersicht
+- Memo: mandatum und Stellvertretung
+- Vergleich röm. mandatum vs. BGB Auftrag
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
-
-## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
-
-### Schluesselstellen
-- **D. 17.1.1 (Ulpian)**: "Mandatum nisi gratuitum nullum est" — Auftrag ist nur unentgeltlich.
-- **D. 17.1**: De mandato.
-
-### Tatbestand
-- Unentgeltliche Besorgung fremder Geschaefte.
-- Konsensualvertrag (formfrei).
-
-### Klagen
-- Actio mandati directa: Auftraggeber gegen Beauftragten auf Erfuellung und Rechenschaft.
-- Actio mandati contraria: Beauftragter gegen Auftraggeber auf Aufwendungsersatz.
-
-### Subsumtionsbeispiel: Mandatum pecuniae credendae (Buergschafts-Aequivalent)
-Sachverhalt: A weist B an, dem C 100 zu leihen.
-- **Roemisch**: Mandatum qualificatum; wenn C nicht zahlt, hat B actio mandati contraria gegen A auf Aufwendungsersatz. Wirtschaftliches Aequivalent zur Buergschaft.
-- **BGB**: § 311 BGB iVm § 670 BGB Aufwendungsersatz; oder echte Buergschaft § 765 BGB.
-
-### Modernes Pendant
-- §§ 662-674 BGB Auftrag.
-- § 670 BGB Aufwendungsersatz — unmittelbar aus roemischer Tradition.
-
-### Wandel zur Entgeltlichkeit
-- Roemisches Recht: Auftrag streng unentgeltlich.
-- Mittelalter: ius commune erlaubt Honorarvereinbarung.
-- BGB: § 662 unentgeltlich, aber daneben Geschaeftsbesorgungsvertrag § 675 BGB entgeltlich.
-
+D. 17.1 (Mommsen-Krüger). Gaius Inst. 3.155-162. Iust. Inst. 3.26. Kaser RP I. Zimmermann Law of Obligations.

@@ -1,50 +1,54 @@
 ---
 name: rom-055-bonorum-possessio
-description: "Römisches Recht: Bonorum Possessio. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Bonorum possessio als prätorisches Erbrecht nach D. 37-38 und Gaius Inst. 3.25-87 - bonorum possessor und heredis loco, vier Klassen des prätorischen Erbrechts, Verhältnis zum ius civile."
 ---
 
-# Bonorum Possessio
+# Bonorum possessio - prätorisches Erbrecht
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Bonorum Possessio** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Bonorum possessio ist die prätorische Einweisung in den Nachlass, die das ius civile-Erbrecht ergänzt und korrigiert. Der bonorum possessor erhält Besitz und Klagen aus dem Nachlass, wird aber nicht sofort Erbe. Gaius Inst. 3.25ff. und D. 37-38 enthalten die vier prätorischen Erbfolge-Klassen: unde liberi (emanzipierte Kinder), unde legitimi (Agnaten), unde cognati (Blutsverwandte), unde vir et uxor.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius Inst. 3.25**: Bonorum possessio - Überblick
+- **D. 37.1.1 pr. (Ulpian)**: Bonorum possessio - Definitionstext
+- **D. 38.6.1 pr. (Ulpian)**: Klassen der bonorum possessio
+- **D. 37.4.1 pr. (Ulpian)**: Unde liberi (erste Klasse)
+- **D. 38.7.1 (Ulpian)**: Unde cognati (dritte Klasse)
+- **D. 38.11.1 (Paulus)**: Unde vir et uxor (vierte Klasse)
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- bonorum possessor: prätorischer Erbschaftsinhaber
+- heredis loco: Stellung wie ein Erbe
+- interdict quorum bonorum: Interdikt zum Besitzerwerb
+- bonorum possessio cum re: mit Erfolg gegen zivilen Erben
+- bonorum possessio sine re: ohne dauerhaften Vorrang
+- vierklassen-System: unde liberi - legitimi - cognati - vir/uxor
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Bonorum possessio als selbständiges Erbrecht oder Ergänzung?
+2. Verhältnis hereditas - bonorum possessio: Doppelstruktur wie quiritisch/bonitarisch?
+3. Bonorum possessio contra tabulas: gegen testamentarischen Ausschluss
+4. Justinianische Vereinheitlichung: Nov. 118 als Ende der Doppelstruktur
+5. Vergleich röm. bonorum possessio vs. mod. Erbrecht
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 37-38 (Bonorum possessio) als Haupttitel
+- Gaius Inst. 3.25-87
+- Iust. Inst. 3.9; Nov. 118
+- Kaser RP I §§ 350-370
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: vier Klassen der bonorum possessio
+- Tabelle: cum re vs. sine re
+- Memo: Verhältnis zu ius civile-Erbfolge
+- Vergleich prätorisches Erbrecht vs. ziviles Erbrecht
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 37-38 (Mommsen-Krüger). Gaius Inst. 3. Iust. Inst. 3.9; Nov. 118. Kaser RP I.

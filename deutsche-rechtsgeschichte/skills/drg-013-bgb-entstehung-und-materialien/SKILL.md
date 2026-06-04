@@ -1,50 +1,50 @@
 ---
 name: drg-013-bgb-entstehung-und-materialien
-description: "Deutsche Rechtsgeschichte: BGB Entstehung Und Materialien. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Entstehung des BGB 1900 und seine Materialien. Erste und Zweite Kommission, Mugdan-Materialien, Motive und Protokolle als Schluessel zur historischen Auslegung des BGB."
 ---
 
-# BGB Entstehung Und Materialien
+# BGB Entstehung und Materialien (1874-1900)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **BGB Entstehung Und Materialien** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Entstehung des BGB erstreckte sich ueber 26 Jahre (1874-1900). Die Erste Kommission (1874-1888) erarbeitete den Ersten Entwurf, der als zu pandektistisch und weltfremd kritisiert wurde (Gierke, Menger). Die Zweite Kommission (1890-1895) ueberarbeitete ihn. Die Materialien (Motive und Protokolle) wurden von Benno Mugdan in sechs Baenden zusammengefasst (Mugdan, Die gesamten Materialien zum BGB, 1899). Die Materialien sind die wichtigste Quelle fuer die historische Auslegung des BGB. Das BGB trat am 1. Januar 1900 in Kraft (RGBl. 1896, 195).
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **BGB (RGBl. 1896, 195)**: Inkrafttreten 1. Januar 1900
+- **Motive zum BGB I-V** (1888): Erste-Kommissions-Begruendung
+- **Protokolle II. Kommission** (1897): Ueberarbeitungsbegruendungen
+- **Mugdan, Die gesamten Materialien zum BGB** (6 Bde., 1899): Standardedition
+- **EGBGB (RGBl. 1896, 604)**: Uebergangsrecht, Aufhebung gemeines Recht
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Gottlieb Planck** (1824-1910): Vorsitzender der Zweiten Kommission
+- **Bernhard Windscheid** (1817-1892): Mitglied der Ersten Kommission
+- **Anton Menger** (1841-1906): Sozialkritiker des BGB-Entwurfs
+- **Otto von Gierke** (1841-1921): Deutschrechtliche Kritik am romanistischen BGB
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Erster vs. Zweiter Entwurf: Wie stark aenderte die Zweite Kommission das Sozial- und Familienprofil?
+2. Sozialkritik Menger 1890: Was wurde in den 2. Entwurf aufgenommen, was nicht?
+3. Mugdan-Materialien und historische Auslegung: Darf der Richter Motive als Beweis heranziehen?
+4. Pandektistik als Defizit: Hat das BGB soziale Fragen bewusst ausgeblendet?
+5. Rezeptionskontext 1900: Wer profitierte von den BGB-Regelungen?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Mugdan Bde. I-VI: Motive (Bd. I-V) und Protokolle (Bd. VI) mit Bandnummer und Seite zitieren
+- BGB: gesetze-im-internet.de fuer aktuelle Fassung; historisch RGBl. 1896, 195
+- BVerfGE und BGH zur Auslegungsbedeutung der Materialien: bverfg.de, bgh.de
+- Keine vereinfachten Paraphrasen ohne Quellenangabe aus den Motiven
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste BGB-Entstehung: 1874-1900
+- Mugdan-Navigator: Welcher Band fuer welches BGB-Buch
+- Kernkritik Menger und Gierke: Was wurde aufgenommen, was abgelehnt?
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Mugdan 6 Bde. (1899): Bandangabe und Seite. BGB-Text: gesetze-im-internet.de. RGBl. 1896, 195: ALEX/OeNB fuer Originalfassung. BGH und BVerfG zur Materialienauslegung: bgh.de und bverfg.de.

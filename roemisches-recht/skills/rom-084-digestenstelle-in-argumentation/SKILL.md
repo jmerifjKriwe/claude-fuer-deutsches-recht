@@ -1,50 +1,54 @@
 ---
 name: rom-084-digestenstelle-in-argumentation
-description: "Römisches Recht: Digestenstelle In Argumentation. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Digestenstellen in der Argumentation - korrekte Zitation (D. x.y.z), Kontextprüfung, Interpolationsvorbehalt, Ulpian/Paulus/Papinian/Gaius als Autoren und Einordnung in das Gesamtsystem."
 ---
 
-# Digestenstelle In Argumentation
+# Digestenstellen in der Argumentation
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Digestenstelle In Argumentation** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Verwendung von Digestenstellen als Argument erfordert: korrekte Zitation (D. Buch.Titel.Fragment.Paragraph), Autorenidentifikation (Ulpian, Paulus, Papinian, Gaius, Modestin etc.), Kontextprüfung (Digestentitel, vorangehende/folgende Fragmente) und Interpolationsvorbehalt. Häufiger Fehler: vereinzelte Maxime als generelle Regel zitieren, ohne den Ediktskontext oder die klassische Quelle zu prüfen.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 50.17.1 (Paulus)**: Regula iuris - nur als vereinfachtes Hilfsmittel
+- **D. 1.1.1 pr. (Ulpian)**: Einleitungstext - typisches Zitierbeispiel
+- **D. 9.2.7.3 (Ulpian)**: Culpa - mit Paragraph-Zählung
+- **Const. Tanta § 10 (533 n.Chr.)**: Fragmente teils aus Originalwerken gerissen
+- **Lenel Palingenesia**: Rekonstruktion des Kontexts
+- **D. 50.17.54 (Ulpian)**: Nemo plus iuris - korrekte Stelle
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- D. x.y.z.n: Digestenstelle (Buch.Titel.Fragment.Paragraph)
+- pr.: principium - Eingangsabsatz eines Fragments
+- Zitierformat: z.B. D. 9.2.7.3 (Ulpian)
+- Palingenesia: Rückverweis auf das Originalwerk
+- Kontext: Digestentitel und Nachbarfragmente prüfen
+- Interpolationsverdacht: markieren und erklären
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Zitierung von D. 50.17 ohne Kontext: häufige Praxis, aber riskant
+2. Autorenzuschreibung: stimmt die Autorenkennzeichnung in den Digesten?
+3. Verwendung von Maximen als normative Regel: methodisch unzulässig
+4. Mehrere Quellen für dieselbe Regel: welche hat Vorrang?
+5. Digitale Erschließung: Verfügbarkeit von CIC-Texten online
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- CIC-Ausgabe: Mommsen-Krüger (archive.org) für genaue Texte
+- Lenel Palingenesia für Originalkontexte
+- Interpolationenkritik: Index Interpolationum prüfen
+- Sekundärliteratur: Kommentare zu spezifischen Digestentiteln
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zitierstandard-Memo für Digestenstellen
+- Kontextprüfungs-Checkliste
+- Ausgewählte Beispiele: korrekte vs. unkritische Zitation
+- Interpolationsvorbehalt einüben
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CIC: Mommsen-Krüger (archive.org). Lenel Palingenesia (archive.org). Index Interpolationum. Liebs Lateinische Rechtsregeln.

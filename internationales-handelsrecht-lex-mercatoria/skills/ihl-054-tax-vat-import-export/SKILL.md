@@ -1,50 +1,52 @@
 ---
 name: ihl-054-tax-vat-import-export
-description: "Internationales Handelsrecht und Lex Mercatoria: Tax Vat Import Export. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Steuerrecht im internationalen Handel. Umsatzsteuer bei grenzüberschreitenden Lieferungen (§ 4 Nr. 1a UStG, 0%-Satz), Einfuhrumsatzsteuer, Verrechnungspreise (OECD-Leitsätze), Betriebsstättenrisiko und withholding tax."
 ---
 
-# Tax Vat Import Export
+# Steuerrecht im internationalen Handel
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Tax Vat Import Export** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Grenzüberschreitende Warenlieferungen haben Umsatzsteuer- und Zollkonsequenzen. EU-Ausfuhrlieferungen sind steuerfrei (§ 4 Nr. 1a UStG, § 6 UStG), wenn Nachweise vorliegen. Bei Dienstleistungen kommt das Reverse-Charge-Verfahren zur Anwendung. Konzerninterne Lieferungen unterliegen OECD-Verrechnungspreisrichtlinien.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **§ 4 Nr. 1a UStG**: Steuerfreiheit von Ausfuhrlieferungen
+- **§ 6 UStG**: Ausfuhrlieferung — Gelangensvermutung und Nachweisführung
+- **§ 13b UStG**: Übergang der Steuerschuldnerschaft (Reverse Charge) bei Dienstleistungen
+- **MwStSystRL Art. 138**: EU-innergemeinschaftliche Lieferung — Steuerfreiheit
+- **OECD-Verrechnungspreisleitlinien 2022**: Arm's-Length-Prinzip
+- **§§ 1, 1a AStG**: Außensteuergesetz — Einkünftekorrektur bei verbundenen Unternehmen
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Ausfuhrnachweis: Ausfuhranmeldung (zertifizierter Ausgangsvermerk ATLAS) + Versendungsbeleg
+- Gelangensvermutung: ab 2020 vereinfachter Nachweis für innergemeinschaftliche Lieferungen
+- Einfuhrumsatzsteuer (EUSt): Entsteht bei Einfuhr; abziehbar als Vorsteuer
+- Verrechnungspreis: fremdvergleichskonformer Preis im Konzernverbund
+- Betriebsstättenrisiko: Dauerpräsenz im Ausland → Betriebsstätte → Körperschaftsteuer
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Ausfuhrnachweis fehlt: Verliert Exporteur Steuerfreiheit rückwirkend?
+2. DDP-Lieferant ohne USt.-Registrierung im Importland: Wer schuldet EUSt.?
+3. Verrechnungspreise: "Cost-Plus" vs. "Comparable Uncontrolled Price" — wann welche Methode?
+4. Digitale Dienstleistungen: OSS (One-Stop-Shop) für Mehrwertsteuer in EU?
+5. Betriebsstättenrisiko: Handelsvertreter im Ausland als Betriebsstätte des Auftraggebers?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Ausfuhrnachweis: ATLAS-Ausgangsvermerk obligatorisch; alternativ Versendungsbelege
+- EUSt.: Importeur-Registrierung vor Einfuhr prüfen; DDP-Verträge USt.-Klausel einbeziehen
+- Verrechnungspreise: Dokumentation nach § 90 Abs. 3 AO (Sachverhaltsaufzeichnung)
+- Betriebsstättenprüfung: "Dependent Agent"-Test nach OECD Musterabkommen Art. 5
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Ausfuhrnachweis-Checkliste (§ 6 UStG)
+- Verrechnungspreismethoden-Übersicht (OECD 2022)
+- Betriebsstättenrisiko-Matrix für Handelsvertreter
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+UStG §§ 4, 6, 13b: gesetze-im-internet.de. MwStSystRL Art. 138: eur-lex.europa.eu. OECD-Verrechnungspreisleitlinien: oecd.org. AStG §§ 1, 1a: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.

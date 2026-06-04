@@ -1,50 +1,53 @@
 ---
 name: rom-041-laesio-und-preisgerechtigkeit
-description: "Römisches Recht: Laesio Und Preisgerechtigkeit. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Laesio enormis nach C. 4.44.2 (Diokletian 285 n.Chr.) - Anfechtung beim Immobilienkauf unter der Hälfte des wahren Werts, Verhältnis zu iustum pretium und späterem Recht."
 ---
 
-# Laesio Und Preisgerechtigkeit
+# Laesio enormis und Preisgerechtigkeit
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Laesio Und Preisgerechtigkeit** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die laesio enormis ist eine justinianische (resp. diokletianische) Regelung: verkauft jemand eine Liegenschaft für weniger als die Hälfte des wahren Werts, kann er den Kauf anfechten, sofern der Käufer nicht den vollen Preis nachzahlt (C. 4.44.2, Diokletian 285 n.Chr.). Das klassische röm. Recht kannte keinen Anspruch auf iustum pretium (D. 19.2.22.3, Paulus). Die laesio enormis ist Ausgangspunkt der mittelalterlichen iustum pretium-Lehre.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **C. 4.44.2 (Diokletian 285 n.Chr.)**: Laesio enormis beim Grundstückskauf
+- **D. 19.2.22.3 (Paulus)**: Klassisch: Kaufpreis frei (kein iustum pretium)
+- **D. 4.4.16.4 (Ulpian)**: In integrum restitutio für Minderjährige
+- **D. 18.1.1 (Paulus)**: Kauf als Preiseinigungsvertrag
+- **C. 4.44.8 (Justinian 530)**: Ausdehnung der laesio enormis
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- laesio enormis: enormer Schaden (Preis unter Hälfte des Werts)
+- iustum pretium: gerechter Preis (nachklassisch-scholastisches Konzept)
+- C. 4.44.2: Diokletian-Reskript als Quelle
+- in integrum restitutio: Wiederherstellung des früheren Zustands
+- rescissio: Rückabwicklung des Kaufvertrags
+- diokletianisch vs. justinianisch: Herkunftsfrage
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Diokletian oder Justinian: wann wurde laesio enormis eingeführt?
+2. Anwendungsbereich: nur Grundstücke oder generell?
+3. Klassisches Recht: kein iustum pretium - Freiheit des Kaufpreises
+4. Mittelalterliche iustum pretium-Lehre: Kontinuität zum röm. Recht?
+5. Vergleich: laesio enormis vs. BGB § 138 Abs. 2 (Wucher)
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- C. 4.44 (Codex-Titel) als Hauptquelle
+- D. 19.2.22.3 zum klassischen Recht
+- Kaser RP II §§ 60-62; Zimmermann Law of Obligations Kap. 11
+- Vergleich BGB § 138 Abs. 2
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: Voraussetzungen der laesio enormis
+- Historische Entwicklung: klassisch -> diokletianisch -> mittelalterlich
+- Memo: iustum pretium-Debatte
+- Vergleich röm. laesio vs. BGB-Wucher
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+C. 4.44 (Mommsen-Krüger Codex). D. 19.2.22.3. Kaser RP II. Zimmermann Law of Obligations.

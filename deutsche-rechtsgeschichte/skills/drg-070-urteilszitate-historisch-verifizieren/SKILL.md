@@ -1,50 +1,50 @@
 ---
 name: drg-070-urteilszitate-historisch-verifizieren
-description: "Deutsche Rechtsgeschichte: Urteilszitate Historisch Verifizieren. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Historische Urteilszitate verifizieren. Wie man Entscheidungen des Reichsgerichts, Volksgerichtshofs, RKG und historischer Gerichte mit richtiger Fundstelle prueft."
 ---
 
-# Urteilszitate Historisch Verifizieren
+# Urteilszitate historisch verifizieren
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Urteilszitate Historisch Verifizieren** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Historische Urteilszitate muessen anders verifiziert werden als heutige. Das Reichsgericht (RG, 1879-1945) veroffentlichte Entscheidungen in RGZ (Zivilsachen) und RGSt (Strafsachen); historische Baende sind in grossen Jurabibliotheken oder als Digitalisate zugaenglich. Der Volksgerichtshof (1934-1945) hatte keine regulaere Entscheidungssammlung; VGH-Urteile sind im Bundesarchiv (Bestand R 3018). Das RKG (1495-1806) hat keine Entscheidungssammlung; Kameralakten in Landesarchiven. Moderne Gerichte (BVerfG, BGH, BVerwG, BAG) sind auf bverfg.de, bgh.de, bverwg.de frei zugaenglich. Altere BVerfGE-Baende sind gedruckt in Jurabibliotheken.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **RGZ (Entscheidungssammlung RG Zivilsachen)**: Standardfundstelle RG-Rspr. bis 1945
+- **RGSt (Entscheidungssammlung RG Strafsachen)**: RG-Strafprozessrechtsprechung
+- **BVerfGE**: Entscheidungssammlung des BVerfG (ab Bd. 1, 1952)
+- **BGHZ**: BGH-Zivilentscheidungen (ab 1951)
+- **Bundesarchiv R 3018**: Volksgerichtshof-Akten
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Reichsgericht Leipzig (1879-1945)**: Hoechstgericht mit Entscheidungssammlungen
+- **BGH, BVerfG, BVerwG, BAG**: Nachkriegsgerichte mit freien Entscheidungsdatenbanken
+- **Bundesarchiv**: VGH- und RG-Akten fuer nicht publizierte Entscheidungen
+- **Bibliotheken**: Gedruckte Entscheidungssammlungen RGZ, RGSt
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. RG-Entscheidungen: Wie zuverlässig sind alte Druckausgaben?
+2. Nicht publizierte VGH-Entscheidungen: Wie zugaenglich sind Bundesarchiv-Bestaende?
+3. Historische Entscheidungen und heutige Kommentare: Wie prueft man Kommentarverweis auf RGZ?
+4. Online-Datenbanken (Beck, Juris): Enthalten sie alle BVerfGE vollstaendig?
+5. Digitalisierung historischer Gerichtsentscheidungen: Welche Archive sind schon online?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- BVerfG, BGH, BVerwG, BAG, BSG: Primaaerdatenbanken bverfg.de, bgh.de, bverwg.de
+- RGZ und RGSt: Gedruckte Baende in Jurabibliotheken; Band und Seitenzahl angeben
+- VGH: Bundesarchiv R 3018, Signatur und Blattnummer
+- Kein Urteilszitat ohne Gericht, Datum, Aktenzeichen/Fundstelle
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Verifikations-Schema fuer historische Urteilszitate
+- Fundstellen-Leitfaden: RGZ, RGSt, BVerfGE, BGHZ, BVerwGE
+- Bundesarchiv-Hinweise: VGH und nicht publizierte Entscheidungen
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+BVerfGE: bverfg.de. BGH: bgh.de. BVerwG: bverwg.de. RGZ/RGSt: gedruckte Baende (Band und Seite). VGH: Bundesarchiv R 3018. Kein Zitat ohne vollstaendige Fundstelle.

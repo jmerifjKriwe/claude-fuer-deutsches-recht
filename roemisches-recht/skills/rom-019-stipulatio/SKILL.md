@@ -1,81 +1,54 @@
 ---
 name: rom-019-stipulatio
-description: "Römisches Recht: Stipulatio. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Stipulatio als Grundform des Verbalvertrags nach D. 45.1, Gaius Inst. 3.92-109 - spondes? spondeo-Formel, alteri stipulari, Auslegung und Justinians Reform (C. 8.37.10)."
 ---
 
-# Stipulatio
+# Stipulatio - der Verbalvertrag
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Stipulatio** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die stipulatio ist der wichtigste Formalvertrag des römischen Rechts: mündliche Frage des Gläubigers und entsprechende Antwort des Schuldners (congruente Antwort, Gaius Inst. 3.92). Ursprünglich nur für Bürger mit spondes?/spondeo-Formel (Gaius Inst. 3.93). Die stipulatio ist streng, einseitig und abstract: sie bindet unabhängig vom Rechtsgrund. Justinian liberalisierte die Form durch C. 8.37.10.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius Inst. 3.92**: Stipulatio - Frage-Antwort-Formel, kongruente Antwort
+- **Gaius Inst. 3.93**: Spondes? Spondeo - nur für cives Romani
+- **D. 45.1.1 pr. (Paulus)**: Verbis obligatio contrahi
+- **D. 45.1.83 (Paulus)**: Auslegung dunkler Stipulationen gegen den Stipulator
+- **C. 8.37.10 (Justinian 531)**: Schriftlichkeit als widerlegbare Vermutung
+- **D. 45.1.29 (Ulpian)**: Alteri stipulari nemo potest
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- stipulatio: Verbalvertrag durch Frage und kongruente Antwort
+- sponsor: Bürge bei mündlicher Stipulation
+- fidepromissor: Bürge bei stipulatio für Peregrine
+- alteri stipulari: für Dritte stipulieren grundsätzlich unmöglich
+- cautio: schriftliches Stipulationsdokument
+- praesentes inter se: Anwesenheitspflicht beider Parteien
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Schriftlichkeit der stipulatio: klassische Ausnahme oder justinianische Neuerung?
+2. Auslegung in dubio contra stipulatorem (D. 45.1.99)
+3. Abstrakte Natur der stipulatio: keine causa erforderlich?
+4. Alteri stipulari: Drittbegünstigung und ihre Grenzen
+5. Stipulatio als Grundmodell des BGB-Schuldversprechens (§ 780)?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 45.1 (De verborum obligationibus) als Haupttitel
+- Gaius Inst. 3.92-127
+- C. 8.37.10; Iust. Inst. 3.15
+- Kaser RP I §§ 185-192; Zimmermann Law of Obligations Kap. 5
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Schema: Stipulationsvoraussetzungen
+- Tabelle: Bürgschaftsformen per stipulatio
+- Memo zur Auslegung der stipulatio
+- Vergleich: stipulatio vs. BGB § 780 (abstraktes Schuldversprechen)
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
-
-## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
-
-### Schluesselstellen
-- **Gaius III.92**: "Verbis obligatio fit ex interrogatione et responsione" — durch Frage und Antwort entsteht die Obligation.
-- **D. 45.1**: De verborum obligationibus — die ganze Lehre der stipulatio.
-- **D. 45.1.1 (Ulpian)**: "Stipulatio est verborum conceptio, quibus is qui interrogatur daturum facturumve se quod interrogatus est responderit."
-
-### Form
-- Muendliche Frage-Antwort-Form: "Centum dari spondes? — Spondeo."
-- Strikte Form; abweichende Antwort fuehrt zur Unwirksamkeit (D. 45.1.1.6).
-- Spaeter (Justinian) auch in Urkundenform.
-
-### Wirkung
-- Abstrakter Verpflichtungstatbestand: Stipulationsschuldner muss leisten, ohne dass causa noch verlangt wird.
-- Bei Wegfall der causa: condictio sine causa (D. 12.7).
-
-### Subsumtionsbeispiel: Stipulationsschuld trotz Wegfall des Grundgeschaefts
-Sachverhalt: A stipuliert 100 fuer einen Sklaven; vor Uebergabe stirbt der Sklave; A hat noch nicht gezahlt.
-- **Roemisch**: Stipulationspflicht bleibt formal (abstrakt); A kann aber condictio sine causa gegen das Stipulationsversprechen einlegen, weil causa weggefallen.
-- **BGB**: § 311 BGB Vertrag; § 313 BGB Stoerung der Geschaeftsgrundlage; § 326 BGB Befreiung bei Unmoeglichkeit.
-
-### Abstraktion und Akzessorietaet
-- Stipulation = abstrakt (wie heutige Wechselforderung).
-- Aber: Akzessorische Stipulationen wie sponsio (Buergschaft) sind akzessorisch.
-
-### BGB-Pendants
-- § 780 BGB Schuldversprechen (abstrakt).
-- § 781 BGB Schuldanerkenntnis.
-- Erbe der roemischen Stipulationslehre.
-
+D. 45.1; Gaius Inst. 3 (Mommsen-Krüger). C. 8.37.10. Zimmermann Law of Obligations. Kaser RP I.

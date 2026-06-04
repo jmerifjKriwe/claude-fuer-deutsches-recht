@@ -1,50 +1,52 @@
 ---
 name: ihl-094-vertiefung-01-streitstand-ohne-blindzitat
-description: "Internationales Handelsrecht und Lex Mercatoria: Vertiefung 01 Streitstand Ohne Blindzitat. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Darstellung von Streitständen ohne Blindzitate. Methodik für kontroverse CISG-Fragen (Art. 55, Art. 35 öffentl.-rechtl. Anforderungen, CISG für Softwareverträge), Schiedsgerichts-Divergenz und Evidenz-basierte Positionierung."
 ---
 
-# Vertiefung 01 Streitstand Ohne Blindzitat
+# Streitstandsdarstellung ohne Blindzitate
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Vertiefung 01 Streitstand Ohne Blindzitat** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Internationale Handelsfälle enthalten viele ungelöste Rechtsfragen. Eine seriöse Streitstandsdarstellung nennt alle Positionen mit echten Belegen — keine Aussagen wie "nach herrschender Meinung" ohne Quelle. Besonders kontrovers: CISG Art. 55 (fehlender Preis), öffentlich-rechtliche Anforderungen nach Art. 35, und CISG-Anwendbarkeit auf Software.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CISG Art. 14 vs. Art. 55**: Widerspruch zwischen Angebots-Bestimmtheit und Preis-Auffangnorm
+- **CISG Art. 35 Abs. 2 lit. a**: Öffentlich-rechtliche Anforderungen — Verkäufer vs. Käuferland-Recht
+- **CISG Art. 2 lit. d**: Anwendbarkeit auf Elektrizität; Software per Analogie?
+- **PICC Art. 5.1.7**: Preis-Bestimmung bei Fehlen — Alternative zu CISG Art. 55
+- **CISG Advisory Council Opinion No. 4**: Software und CISG
+- **CISG-Rspr. BGH VIII ZR 136/01**: BGH zu öffentlich-rechtlichen Standards
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Blindzitat: Behauptung einer "herrschenden Meinung" ohne benannte Quellen
+- Minderheitsmeinung: auch wenn nur 10% der Schiedsgerichte so entscheiden — benennen
+- Divergente Rechtsprechung: CISG-online.ch zeigt nationale und internationale Divergenzen
+- Schiedsgerichtsbarkeit: keine formale Präzedenzwirkung — aber faktische Konvergenz
+- Position A vs. B: strukturierte Gegenüberstellung mit je eigenen Quellen
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. CISG Art. 35 öffentlich-rechtliche Anforderungen: Was sagt BGH VIII ZR 136/01 genau?
+2. Software-CISG: Welche Gerichte haben Pro/Contra entschieden (bitte mit Fundstelle)?
+3. Art. 14 vs. Art. 55: Wie lösen Schiedsgerichte den scheinbaren Widerspruch?
+4. CISG Advisory Council Opinion No. 4: Bindungswirkung vor Schiedsgericht?
+5. Wie dokumentiere ich einen Streitstand ohne Aussagen zu machen die ich nicht belegen kann?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Null-Blindzitat-Regel: jede Meinung mit Name des Verfechters und Quelle
+- Streitstandsschema: Position A [Quelle 1, 2] vs. Position B [Quelle 3, 4] vs. Position C [...]
+- CISG-online.ch: Länderrechtsprechung nach Art. 35 filtern; Divergenzen dokumentieren
+- Schiedssprüche: jusmundi.com + CENTRAL trans-lex.org für Schiedsgerichtsstandpunkte
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Streitstandsschema-Template (3-Positionen-Matrix)
+- Quellencheck-Checkliste gegen Blindzitate
+- CISG-Hauptstreitfragen-Übersicht mit echten Belegen
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG-online.ch, CISG Advisory Council Opinions (cisgac.com), jusmundi.com, uncitral.un.org. BGH: dejure.org. Alle Zitate mit Gericht, Datum, Aktenzeichen. Unsicherheit bleibt sichtbar.

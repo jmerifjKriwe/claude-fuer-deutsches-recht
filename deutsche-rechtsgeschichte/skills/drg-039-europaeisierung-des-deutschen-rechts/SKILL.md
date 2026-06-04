@@ -1,50 +1,50 @@
 ---
 name: drg-039-europaeisierung-des-deutschen-rechts
-description: "Deutsche Rechtsgeschichte: Europaeisierung Des Deutschen Rechts. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Europaeisierung des deutschen Rechts. EG-Richtlinien und ihr Einfluss auf BGB, HGB und oeffentliches Recht sowie die Transformation durch EuGH-Rechtsprechung seit 1963."
 ---
 
-# Europaeisierung Des Deutschen Rechts
+# Europaeisierung des deutschen Rechts
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Europaeisierung Des Deutschen Rechts** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Europaeisierung des deutschen Rechts begann ernsthaft mit der Rechtsprechung des EuGH zur unmittelbaren Wirkung (van Gend en Loos 1963) und zum Vorrang (Costa ENEL 1964). Seitdem praegte das EU-Recht immer tiefer das BGB, HGB und oeffentliche Recht. Beispiele: Verbraucherkreditrichtlinie 1986, Produkthaftungsrichtlinie 1985, CISG-Beinflussung des Kaufrechts, AGB-Richtlinie 1993, E-Commerce-Richtlinie 2000, Schuldrechtsmodernisierung 2002 als Richtlinienumsetzungspaket. Die BVerfG-Solange-Linie und Maastricht-Urteil 1993 markieren den Spannungsbogen zwischen europaeischer Integration und nationalem Grundgesetz.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **EuGH Rs. 26/62 van Gend en Loos** (1963): Unmittelbare Wirkung des Unionsrechts
+- **EuGH Rs. 6/64 Costa/ENEL** (1964): Vorrang des Unionsrechts
+- **EU-Richtlinie 85/374/EWG**: Produkthaftung, umgesetzt als ProdHaftG 1989
+- **EU-AGB-Richtlinie 93/13/EWG**: Missbräuchliche Klauseln, umgesetzt BGB §§ 305-310
+- **SchuRModG 2002 (BGBl. I 2001, 3138)**: Richtlinienumsetzer Schuldrechtsreform
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **EuGH Luxemburg**: Praegend fuer Europaeisierungsprozess
+- **Bundesjustizministerium**: Richtlinienumsetzung in deutsches Recht
+- **BVerfG**: Solange I, II und Maastricht: BVerfGE 37, 271; 73, 339; 89, 155
+- **Europaeische Kommission**: Rechtsangleichung durch Richtlinien
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Unmittelbare Wirkung EuGH 1963: Hatte der EuGH dafuer eine vertragliche Grundlage?
+2. BVerfGE 89, 155 Maastricht: Hat das BVerfG den Vorrang des Europarechts akzeptiert?
+3. Europaeisierung als Systemzerstoerung: Hat die Richtlinienumsetzung das BGB systematisch beschaedigt?
+4. PSPP-Urteil BVerfGE 154, 17: Ultra-vires Kontrolle als Grenzstein?
+5. Verbraucherschutz-Europaeisierung: Ist das deutsche Niveau gestiegen oder gefallen?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- EuGH: curia.europa.eu fuer vollstaendige Urteile
+- EU-Richtlinien: eur-lex.europa.eu fuer konsolidierte Fassungen
+- BVerfGE: bverfg.de
+- BGB nach SchuRModG 2002: gesetze-im-internet.de
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste Europaeisierung des BGB: 1963-2002
+- EU-Richtlinien und BGB-Entsprechungen: Vergleichstabelle
+- Solange I und II und Maastricht: BVerfG-Linie im Ueberblick
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+EuGH: curia.europa.eu. EU-Richtlinien: eur-lex.europa.eu. BVerfGE: bverfg.de. BGB: gesetze-im-internet.de. BGBl. fuer Umsetzungsgesetze.

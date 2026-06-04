@@ -1,50 +1,54 @@
 ---
 name: rom-006-vormundschaft-und-kuratel
-description: "Römisches Recht: Vormundschaft Und Kuratel. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Tutela (Vormundschaft) und cura (Kuratel) nach D. 26-27 und Gaius Inst. 1.142-200 - tutela impuberum, tutela mulierum, cura furiosi, cura prodigi, actio tutelae."
 ---
 
-# Vormundschaft Und Kuratel
+# Vormundschaft (tutela) und Kuratel (cura)
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Vormundschaft Und Kuratel** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Tutela schützt Unmündige (impuberes) und (klassisch) Frauen; cura schützt Geisteskranke (furiosi) und Verschwender (prodigi). Gaius behandelt tutela und cura in Inst. 1.142-200. Die Digesten widmen dem Thema D. 26-27. Der Vormund führt Geschäfte mit auctoritas tutoris; Haftung durch actio tutelae. Gesetzliche Tutela beruht auf Agnation, testamentarische auf Testamentsanordnung, dative auf Magistratsbestellung.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius Inst. 1.144**: tutela est vis ac potestas in capite libero...
+- **D. 26.1.1 (Paulus)**: Tutela als Amt, keine Gewalt
+- **D. 27.3.1 (Ulpian)**: Actio tutelae - Haftung des Vormunds
+- **D. 27.10.1 (Ulpian)**: Cura furiosi
+- **XII Tafeln Tab. V.7a**: Älteste Regelung der Kuratel über Wahnsinnige
+- **Iust. Inst. 1.13-26**: Tutela und cura systematisch
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- tutela testamentaria: vom Vater im Testament bestellt
+- tutela legitima: gesetzliche Tutela (Agnaten)
+- tutela dativa: vom Magistrat bestellt
+- auctoritas tutoris: Zustimmungsakt des Vormunds
+- actio tutelae directa/contraria: Klagen zwischen Mündel und Vormund
+- cura minorum: Schutz der 14-25-Jährigen durch lex Plaetoria
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. tutela mulierum: formal oder real wirksam in der Klassik?
+2. Abschaffung der tutela mulierum unter Justinian
+3. Haftungsmaßstab des Vormunds: dolus, culpa oder custodia?
+4. Verhältnis tutela - cura bei Minderjährigen ab 25 Jahren
+5. Entmündigung (interdictio bonorum) als Eingriff in Rechtsfähigkeit
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 26-27 (De tutelis, De administratione tutorum)
+- Gaius Inst. 1.142-200
+- Iust. Inst. 1.13-26
+- Kaser RP I §§ 64-66; lex Plaetoria: Bruns Fontes iuris Romani
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Übersichtstabelle: Arten der Tutela und Bestellungswege
+- Haftungsschema actio tutelae
+- Vergleich: tutela vs. BGB-Vormundschaft (§§ 1773ff.)
+- Fallbearbeitung zur Haftung des Vormunds
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+D. 26-27 (Mommsen-Krüger). Gaius Inst. 1. Iust. Inst. 1.13-26. XII Tafeln: Bruns Fontes (archive.org). Kaser RP I.

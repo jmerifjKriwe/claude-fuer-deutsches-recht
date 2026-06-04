@@ -1,84 +1,53 @@
 ---
 name: rom-038-culpa-dolus-custodia
-description: "Römisches Recht: Culpa Dolus Custodia. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Verschulden und Haftungsmaßstäbe - dolus (Vorsatz), culpa (Fahrlässigkeit), custodia (erhöhte Haftung für bewachte Sachen) nach D. 50.16.213 (Ulpian) und D. 44.7.1 pr."
 ---
 
-# Culpa Dolus Custodia
+# Culpa, Dolus und Custodia - Haftungsmaßstäbe
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Culpa Dolus Custodia** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das römische Haftungsrecht kennt drei Hauptmaßstäbe: dolus (Vorsatz: jedermann haftet für dolus), culpa (Fahrlässigkeit: Abweichung vom Sorgfältigkeitsstandard eines bonus paterfamilias) und custodia (erhöhte Haftung für übernommene Bewachung einer Sache, ohne dolus/culpa). Haftungsstufen: dolus > culpa lata (grobe Fahrlässigkeit) > culpa levis in abstracto > culpa levis in concreto (diligentia quam in suis).
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 50.16.213 (Ulpian)**: Lata culpa dolus est (grobe Fahrlässigkeit = Vorsatz)
+- **D. 9.2.7.3 (Ulpian)**: Culpa bei lex Aquilia
+- **D. 13.6.5.2 (Ulpian)**: Culpa levis in abstracto beim commodatum
+- **D. 17.2.72 (Celsus)**: Diligentia quam in suis (culpa in concreto) bei societas
+- **D. 44.7.1.4 (Gaius)**: Obligationsinhalt und Verschulden
+- **D. 16.3.1.6 (Ulpian)**: Dolus-Haftung beim depositum
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- dolus: Vorsatz (immer haftungsbegründend)
+- culpa lata: grobe Fahrlässigkeit (Gleichsetzung mit dolus)
+- culpa levis in abstracto: Abweichung vom diligentissimus paterfamilias
+- culpa levis in concreto: geringere Sorgfalt als in eigenen Angelegenheiten
+- custodia: Einstandspflicht für zufälligen Untergang bewachter Sachen
+- vis maior: höhere Gewalt (von Haftung frei)
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Custodia: objektive Haftung oder erhöhte culpa?
+2. Verschuldenssystem: konsistentes System oder kasuistische Sammlung?
+3. Lata culpa = dolus: Interpolation oder klassisches Recht?
+4. Diligentia quam in suis: mildernd oder schärfend?
+5. Einfluss auf BGB §§ 276-278 (Vertretenmüssen)
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D. 44.7 (De obligationibus); D. 9.2 (Lex Aquilia); D. 13.6; D. 16.3
+- Kaser RP I §§ 172-180; MacCormack Fault and Causation in Roman Law
+- Zimmermann Law of Obligations Kap. 28
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Haftungsmaßstab-Tabelle nach Vertragstyp
+- Schema: dolus - culpa lata - culpa levis - custodia
+- Memo zur Interpolationsdiskussion custodia
+- Vergleich röm. Verschulden vs. BGB § 276
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
-
-## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
-
-### Schluesselstellen
-- **D. 50.16.213.2 (Ulpian)**: Definitionen.
-- **D. 50.17.23 (Ulpian)**: "Contractus quidam dolum malum dumtaxat recipiunt, quidam et dolum et culpam" — verschiedene Haftungsmaszstaebe je Vertragstyp.
-
-### Verschuldensstufen
-1. **Dolus**: Vorsatz; strengste Form, immer haftbar.
-2. **Culpa lata**: grobe Fahrlaessigkeit; "dolo proxima est".
-3. **Culpa levis**: leichte Fahrlaessigkeit; in concreto vs in abstracto.
-4. **Culpa levissima**: allergeringste Sorgfaltsverletzung; nur bei custodia.
-5. **Custodia**: hoechste Sorgfalt; Haftung auch fuer Zufall, ausser vis maior.
-6. **Casus**: Zufall; grundsaetzlich keine Haftung.
-7. **Vis maior**: hoehere Gewalt; auch custodia-Haftung weicht zurueck.
-
-### Haftungsmasstab je Vertragstyp
-- **Verwahrer (depositum)**: nur dolus (D. 16.3.1.1).
-- **Mandatar**: dolus + culpa lata.
-- **Verkaeufer (emptio venditio)**: dolus + culpa (verschuldensabhaengig).
-- **Vermieter / Mieter (locatio conductio)**: dolus + culpa.
-- **Entleiher (commodatum)**: custodia (D. 13.6.5.4).
-- **Verkaeufer fuer hoechste Sorgfalt bei seltenen Sachen**: ggf. custodia.
-
-### Subsumtionsbeispiel: Lebensmittel zerstoert
-Sachverhalt: A schickt Lebensmittel-Lieferung; B als Spediteur verliert sie durch Diebstahl.
-- **Roemisch**: locatio conductio operis; Diebstahl ist nicht vis maior; Haftung wegen custodia bei Spediteur.
-- **BGB**: §§ 425-431 HGB Frachtfuehrer-Haftung; bei "regelmaessigem Verlauf" verschuldensunabhaengige Haftung; Begrenzung auf 8.33 SZR/kg.
-
-### Subsumtionsbeispiel: Pferd gestohlen waehrend Krieg
-Sachverhalt: B leiht Pferd; auf der Reise wird er von Feinden ueberfallen; Pferd genommen.
-- **Roemisch**: commodatum; vis maior (feindlicher Angriff); B nicht haftbar (D. 13.6.18).
-- **BGB**: § 598 BGB Leihvertrag; § 604 BGB Rueckgabepflicht; § 280 BGB iVm § 276 BGB Verschuldenshaftung. **Entleiher haftet fuer jede Fahrlaessigkeit** — bei einfacher Fahrlaessigkeit Wertersatz, bei vis maior (Feindangriff) entfaellt das Verschulden. Hinweis: § 599 BGB privilegiert den **Verleiher** (unentgeltliches Geschaeft) auf Vorsatz und grobe Fahrlaessigkeit; der Entleiher bleibt voll sorgfaltspflichtig.
-
+D. 44.7; D. 9.2; D. 13.6; D. 16.3 (Mommsen-Krüger). Kaser RP I. Zimmermann Law of Obligations.

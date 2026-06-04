@@ -1,50 +1,52 @@
 ---
 name: ihl-043-qualitaetskontrolle-pre-shipment
-description: "Internationales Handelsrecht und Lex Mercatoria: Qualitaetskontrolle Pre Shipment. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Qualitätskontrolle vor Versand (Pre-Shipment Inspection, PSI). CISG Art. 35 Vertragsmäßigkeit als Grundlage, PSI-Klauseln, SGS/Bureau Veritas-Praxis, WTO-PSI-Abkommen und Haftung des Inspektors bei fehlerhafter Bescheinigung."
 ---
 
-# Qualitaetskontrolle Pre Shipment
+# Qualitätskontrolle: Pre-Shipment Inspection
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Qualitaetskontrolle Pre Shipment** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Pre-Shipment Inspection (PSI) ist die Warenprüfung vor Verschiffung durch unabhängige Inspektoren (SGS, Bureau Veritas, Intertek). Sie sichert Qualität, Menge und Preis. WTO-PSI-Abkommen (1994) regelt staatlich vorgeschriebene PSI. CISG Art. 35 definiert die Vertragsmäßigkeit als rechtliche Grundlage.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CISG Art. 35**: Vertragsmäßigkeit — Basis für Qualitätsstandard
+- **CISG Art. 38**: Untersuchungspflicht — interagiert mit PSI-Ergebnis
+- **WTO PSI Agreement (1994)**: Anforderungen an staatlich mandatierte PSI (Preisvergleich, Zolltarif)
+- **SGS/Bureau Veritas AGB**: Haftungsbeschränkungen bei fehlerhafter Inspektion
+- **ISO 2859**: Statistische Stichproben-Verfahren für Qualitätskontrolle
+- **Akkreditiv UCP 600 Art. 26**: Inspection Certificate als Akkreditivdokument
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Clean Inspection Certificate: Bescheinigung der Vertragskonformität durch Inspektor
+- Back-to-Back-Haftung: Verkäufer haftet für Mängel auch wenn PSI frei war (CISG Priorität)
+- PSI-Klausel: Käufer nominiert Inspektor, Kosten wer trägt?
+- AQL (Acceptable Quality Level): statistische Fehlerquotenakzeptanz
+- Inspektionsfehler: Inspektor haftet nur wenn grob fahrlässig oder vorsätzlich (AGB-Haftungslimit)
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. PSI "klar" aber Ware bei Ankunft mangelhaft: CISG-Mängelanspruch trotzdem möglich?
+2. Inspektionskosten: Incoterms — wer zahlt PSI-Kosten bei CIF vs. FOB?
+3. Akkreditiv mit PSI-Zertifikat: Was wenn Inspektor zertifiziert aber UCP-Dokument fehlerhaft?
+4. Staatliche PSI (WTO-Abkommen): Preisvergleich durch Staat — WTO-konforme Grenzen?
+5. Inspektor-Haftung: Schadenersatzklage gegen SGS bei grober Fehlinspektion?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- PSI-Klausel: Warenspezifikation, Inspektionsnorm (ISO 2859), Inspektionszeitpunkt definieren
+- Haftungskettenanalyse: Verkäufer → Inspektor → Käufer; wer kann von wem fordern?
+- Akkreditiv: PSI-Zertifikat-Format mit Bank vorab abstimmen (UCP 600 Art. 26)
+- Kosten-Risikoanalyse: PSI-Kosten vs. Mangelrisiko nach Transaktionsgröße
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- PSI-Klausel-Muster (Vertragsbaustein)
+- PSI vs. CISG Haftungsmatrix
+- Inspektionszertifikat-Checkliste für Akkreditivzwecke
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG Art. 35/38: uncitral.un.org. WTO PSI Agreement: wto.org. UCP 600 Art. 26: iccwbo.org. ISO 2859: iso.org. Unsicherheit bleibt sichtbar.

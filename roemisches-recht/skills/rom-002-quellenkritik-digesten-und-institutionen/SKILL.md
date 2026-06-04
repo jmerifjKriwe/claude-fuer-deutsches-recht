@@ -1,50 +1,54 @@
 ---
 name: rom-002-quellenkritik-digesten-und-institutionen
-description: "Römisches Recht: Quellenkritik Digesten Und Institutionen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Quellenkritik der Digesten (Const. Tanta 533 n.Chr.) - Interpolationsforschung, Florentina-Handschrift, Lenel Palingenesia Iuris Civilis und Methoden der Textkritik."
 ---
 
-# Quellenkritik Digesten Und Institutionen
+# Quellenkritik: Digesten und Institutionen
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Quellenkritik Digesten Und Institutionen** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Die Digesten wurden am 16. Dezember 533 durch Const. Tanta promulgiert und enthalten Exzerpte aus ca. 1600 Werken von 39 Juristen in 50 Büchern. Haupthandschrift ist die Florentina (6./7. Jh., Biblioteca Medicea Laurenziana). Zentrales Problem: justinianische Interpolationen durch Tribonians Kommission. Otto Lenel rekonstruierte 1889 in der Palingenesia die klassischen Originalwerke.
 
-## Sofortsortierung
+## Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Const. Tanta pr. (533 n.Chr.)**: Promulgation der Digesten, Kommentierungsverbot
+- **Const. Omnem (533 n.Chr.)**: Lehrplan des justinianischen Rechtsstudiums
+- **Const. Imperatoriam (533 n.Chr.)**: Promulgation der Institutionen
+- **D. 1.2.2 (Pomponius)**: Enchiridion - historischer Überblick über röm. Recht
+- **D. 50.16**: De verborum significatione - Definitionen
+- **D. 50.17**: De diversis regulis iuris antiqui - Rechtsmaximen
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+- Florentina: Haupthandschrift der Digesten (6./7. Jh., Florenz)
+- Littera Bononiensis: Zweite Handschriftentradition (Vulgata)
+- Interpolation: Änderung klassischer Texte durch Kompilatoren
+- Lenel, Palingenesia (1889): Rekonstruktion der Juristenschriften
+- Index Interpolationum: Gradenwitz, Beseler, Levy - Verdachtsregister
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Umfang der Interpolationen: Frühe Forschung überschätzte sie stark (Beseler)
+2. Methoden: sprachliche, sachliche, logische Interpolationsindizien
+3. Wert der Digesten als Zeugnis klassischen Rechts trotz Überarbeitung
+4. Verhältnis Digestentext zu Lenel-Rekonstruktion
+5. Neue Quellen: Papyri (POxy), Herculaneum-Tafeln, Gaius-Palimpsest
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Mommsen-Krüger CIC vol. I (archive.org) als Basistextedition
+- Lenel Palingenesia I-II (archive.org) für Originalwerkrekonstruktion
+- Handschriftenvergleich: Florentina-Lesarten beachten
+- Interpolationskritik mit Vorsicht: neuere Tendenz zur Zurückhaltung (Honoré, Watson)
+- Papyri-Datenbank: papyri.info
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Quellenkritisches Memo zu konkreter Digestenstelle
+- Vergleich klassischer Originaltext (Lenel) vs. Digestenfassung
+- Interpolationsverdachts-Analyse mit Argumenten pro/contra
+- Überlieferungsdiagramm
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CIC: Mommsen-Krüger (archive.org). Lenel Palingenesia (archive.org). Gaius Verona: Studemund (archive.org). Interpolationen: Index Interpolationum. Unsicherheiten explizit.

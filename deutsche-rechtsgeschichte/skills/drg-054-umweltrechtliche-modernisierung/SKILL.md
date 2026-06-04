@@ -1,50 +1,50 @@
 ---
 name: drg-054-umweltrechtliche-modernisierung
-description: "Deutsche Rechtsgeschichte: Umweltrechtliche Modernisierung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Umweltrechtliche Modernisierung. Erste Umweltschutzgesetze 1970er, BImSchG 1974, WHG 1957, Umweltschutz im GG (Art. 20a seit 1994) und EU-Umweltrecht."
 ---
 
 # Umweltrechtliche Modernisierung
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Umweltrechtliche Modernisierung** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das moderne Umweltrecht ist ein Kind der zweiten Haelfte des 20. Jh. Zwar gab es seit dem 19. Jh. Gewerbeordnungs-Vorschriften zum Immissionsschutz, aber ein systematisches Umweltrecht entstand erst in den 1970er Jahren. Das Bundes-Immissionsschutzgesetz (BImSchG 1974, BGBl. I 1974, 721) schuf erstmals ein integriertes Immissionsschutzrecht. Das Wasserhaushaltsgesetz (WHG 1957, BGBl. I 1957, 1110) und das Abfallbeseitigungsgesetz 1972 ergaenzten es. Die Umweltpolitik Willy Brandts (1969-1974) war treibende politische Kraft. Das GG wurde 1994 um Art. 20a ergaenzt (Staatsziel Umweltschutz). EU-Umweltrichtlinien (z. B. WRRL 2000, ETS) praegte das Recht seitdem stark.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **BImSchG 1974 (BGBl. I 1974, 721)**: Bundes-Immissionsschutzgesetz
+- **WHG 1957 (BGBl. I 1957, 1110)**: Wasserhaushaltsgesetz
+- **AbfG 1972 (BGBl. I 1972, 873)**: Abfallbeseitigungsgesetz
+- **GG Art. 20a** (eingefuehrt 1994): Staatsziel Umwelt- und Tierschutz
+- **WRRL 2000 (ABl. EU 2000/L 327/1)**: EU-Wasserrahmenrichtlinie
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Bundesministerium des Innern (bis 1986)**: Zustaendig fuer Umwelt im Kaiserreich
+- **Bundesumweltministerium (BMU, seit 1986)**: Zentralbehoerde Umweltrecht
+- **Willy Brandt** (1913-1992): Politischer Initiator des deutschen Umweltrechts
+- **BVerwG**: Leitentscheidungen zum BImSchG, bverwg.de
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Art. 20a GG als Staatsziel: Hat es normative Verbindlichkeit oder ist es ein Programmsatz?
+2. BImSchG: War es ausreichend fuer den Klimaschutz?
+3. GG-Klimaurteil BVerfGE 157, 30 (2021): Art. 2 GG und Klimaschutzpflicht
+4. EU-Emissionshandel (ETS) und deutsches Umweltrecht: Verhaeltnis?
+5. Atomkraft und Ausstieg: BVerfGE 118, 79 zum Atommoratorium
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- BImSchG: gesetze-im-internet.de
+- WHG: gesetze-im-internet.de
+- GG Art. 20a: gesetze-im-internet.de; BVerfGE 157, 30: bverfg.de
+- EU-WRRL: eur-lex.europa.eu
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste Umweltrecht: 1970-2021
+- BImSchG: Kernanforderungen und Genehmigungsverfahren historisch
+- GG Art. 20a und BVerfGE 157, 30 (Klimaurteil): Kernaussagen
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+BImSchG und WHG: gesetze-im-internet.de. GG Art. 20a: gesetze-im-internet.de. BVerfGE 157, 30: bverfg.de. EU-WRRL: eur-lex.europa.eu.

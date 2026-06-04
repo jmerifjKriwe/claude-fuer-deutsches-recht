@@ -1,50 +1,49 @@
 ---
 name: drg-050-wirtschaftsrecht-im-20-jahrhundert
-description: "Deutsche Rechtsgeschichte: Wirtschaftsrecht Im 20 Jahrhundert. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Deutsche Rechtsgeschichte: Wirtschaftsrecht im 20. Jahrhundert. Kriegswirtschaftsrecht 1914-1918, Weimarer Wirtschaftsrecht, NS-Wirtschaftslenkung, Soziale Marktwirtschaft und Ordoliberalismus."
 ---
 
-# Wirtschaftsrecht Im 20 Jahrhundert
+# Wirtschaftsrecht im 20. Jahrhundert
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Wirtschaftsrecht Im 20 Jahrhundert** im Plugin **Deutsche Rechtsgeschichte**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Das Wirtschaftsrecht des 20. Jh. ist durch extreme Schwankungen gepraegt. Das Kaiserreich kannte liberalen Wirtschaftsprivatismus plus Sozialpolitik. Der Erste Weltkrieg brachte Zwangswirtschaft (Kriegswirtschaftsgesetze, Kriegsrohstoffamt). Die Weimarer Republik experimentierte mit Sozialisierungsgesetzgebung und Konjunkturpolitik. Der NS schuf totalitaere Wirtschaftslenkung (Vierjahresplan, Ruestungsbeschleunigung). Nach 1945 entwickelte Ludwig Erhard das Konzept der Sozialen Marktwirtschaft (Wohlstand fuer alle, 1957) auf Grundlage des Ordoliberalismus (Freiburger Schule: Walter Eucken, Franz Boehm). Das GWB 1957 kodifizierte Wettbewerbsrecht.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Kriegsleistungsgesetz 1873 (RGBl. 1873, 129)**: Grundlage Kriegswirtschaftsrecht Kaiserreich
+- **RWirtschaftsG 1919 (RGBl. 1919, 341)**: Weimarer Wirtschaftslenkung
+- **Vierjahresplan-Verordnung 1936 (RGBl. I 1936, 887)**: NS-Wirtschaftslenkung
+- **GWB 1957 (BGBl. I 1957, 1081)**: Wettbewerbsrecht der Bundesrepublik
 
-## Fachlicher Zugriff
+## Akteure und Institutionen
 
-- Quellenkritik: Normtext, Edition, Archiv, Urteil, Verwaltungspraxis, Lehrbuchtradition
-- Epochenlogik: mittelalterliche Rechtsvielfalt, Rezeption, Kodifikationen, Reich/Weimar/NS/DDR/BRD/EU
-- Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
-- Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
+- **Walter Rathenau** (1867-1922): Kriegswirtschaft-Organisator und Aussenminister
+- **Walter Eucken** (1891-1950): Ordoliberalismus, Freiburger Schule
+- **Franz Boehm** (1895-1977): GWB-Vater, Ordoliberalismus
+- **Ludwig Erhard** (1897-1977): Wirtschaftsminister, Soziale Marktwirtschaft
 
-## Prüfroutine
+## Typische Streitfragen / Forschungsfragen
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Kriegswirtschaft 1914-1918: War sie der Beginn staatlicher Wirtschaftslenkung?
+2. Ordoliberalismus vs. Keynesianismus: Welche Idee praegte die BRD-Wirtschaft staerker?
+3. GWB 1957: War es ein Erfolg oder blieb es zu zahnlos?
+4. NS-Wirtschaftslenkung: War sie modern-planwirtschaftlich oder chaos-korporatistisch?
+5. EU-Wettbewerbsrecht und GWB: Wurde das GWB durch EU-Recht ueberholt?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- GWB: gesetze-im-internet.de; RGBl. 1957, 1081 (historisch) via ALEX/OeNB
+- Eucken Grundsaetze der Wirtschaftspolitik (1952): historische Ausgabe
+- Erhard Wohlstand fuer alle (1957): Erstausgabe
+- Vierjahresplan-Verordnung 1936: ALEX/OeNB
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Zeitleiste Wirtschaftsrecht 1914-1957
+- Ordoliberalismus: Grundsaetze und GWB-Umsetzung
+- Vierjahresplan 1936: Wirtschaftslenkung und Ruestung
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+GWB: gesetze-im-internet.de. NS-Wirtschaftsrecht: RGBl. via ALEX/OeNB. Eucken 1952 und Erhard 1957: historische Erstausgaben mit Seite. EU-Wettbewerbsrecht: eur-lex.europa.eu.

@@ -1,50 +1,51 @@
 ---
 name: ihl-021-dap-dpu-ddp
-description: "Internationales Handelsrecht und Lex Mercatoria: Dap Dpu Ddp. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Ankunftsklauseln DAP, DPU und DDP nach Incoterms 2020. Gefahrübergang am Bestimmungsort, Entladepflicht (DPU), Verzollungspflicht (DDP), Risiken für Verkäufer und steuerrechtliche Implikationen."
 ---
 
-# Dap Dpu Ddp
+# DAP, DPU, DDP: Ankunftsklauseln
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Dap Dpu Ddp** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+DAP (Delivered at Place), DPU (Delivered at Place Unloaded, neu in 2020 statt DAT) und DDP (Delivered Duty Paid) sind Ankunftsklauseln: der Verkäufer trägt Gefahr und Kosten bis zum Bestimmungsort. DDP ist die verkäuferfreundlichste Klausel für den Käufer — der Verkäufer übernimmt Import, Zölle und alle Kosten. DPU verpflichtet den Verkäufer zur Entladung.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Incoterms 2020 DAP A2/B2**: Gefahrübergang am Bestimmungsort (benannte Stätte), vor Entladung
+- **Incoterms 2020 DPU A2/B2**: Gefahrübergang nach Entladung am Bestimmungsort; früher DAT
+- **Incoterms 2020 DDP A2/B2**: Gefahrübergang wie DAP; plus Importzoll und alle Abgaben Sache Verkäufer
+- **Unionszollkodex (UZK) VO (EU) 952/2013**: Importeur als Zollschuldner
+- **VAT-Regelungen**: DDP kann Umsatzsteuer-Registrierungspflicht im Importland auslösen
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- DAP vs. DPU: Unterschied bei Entladung — DPU schließt Entladung ein
+- DDP-Risiko Verkäufer: Exportkontrolle, Importlizenzen, Zölle, USt.-Registrierung im Käuferland
+- Named Place: Terminal-Name vs. Käuferwerk — unterschiedliche Kostenträgerschaft
+- Entladeverzögerung: wer trägt Kosten bei Wartezeit am Bestimmungsort?
+- DDP und Mehrwertsteuer: Verkäufer muss USt. im Importland abführen → steuerliche Compliance
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. DDP EU → Russland/Iran: Exportkontrolle und Sanktionen — DDP praktisch unmöglich?
+2. DPU: Muss Verkäufer Entladegerät stellen oder reicht Abladen von LKW?
+3. DAP: Wann beginnt Gefahrübergang genau — Terminal-Einfahrt oder Käufer-Abladebereich?
+4. DDP und Reverse-Charge-Verfahren: Kann Käufer USt. selbst abführen statt Verkäufer?
+5. DDP mit "exclusive of VAT": Zulässige Modifikation oder Widerspruch zur Klausel?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- D-Klauseln: Kosten/Gefahranalyse immer am benannten Ort beginnen
+- DDP: Vor Wahl prüfen ob Verkäufer USt.-Nummer im Importland hat/braucht
+- Exportkontrolle: Bei sanktionierten Ländern DDP oder DAP nicht wählen
+- Named Place DPU: explizit Terminal-Name + Entladefazilität spezifizieren
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- DAP/DPU/DDP Vergleichstabelle: Gefahrübergang, Kosten, Pflichten
+- DDP-Risiko-Check (Steuer, Zoll, Exportkontrolle)
+- Named-Place-Spezifikations-Muster
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+Incoterms 2020: iccwbo.org. UZK (VO 952/2013): eur-lex.europa.eu. Schrifttum: Ramberg, ICC Guide to Incoterms 2020 (2019). Unsicherheit bleibt sichtbar.

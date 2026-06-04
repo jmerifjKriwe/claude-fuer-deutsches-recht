@@ -1,50 +1,51 @@
 ---
 name: ihl-097-vertiefung-01-dashboard-und-naechster-schritt
-description: "Internationales Handelsrecht und Lex Mercatoria: Vertiefung 01 Dashboard Und Naechster Schritt. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Internationales Handelsrecht: Fortschritts-Dashboard und nächste Schritte für komplexe internationale Handelsfälle. Meilensteintracking, offene Rechtsfragen, Informationslücken, Eskalationsstufen und Entscheidungsmatrix für das Fallmanagement."
 ---
 
-# Vertiefung 01 Dashboard Und Naechster Schritt
+# Dashboard und nächste Schritte im internationalen Handelsfall
 
-## Arbeitsauftrag
+## Worum es geht
 
-Dieser Skill bearbeitet **Vertiefung 01 Dashboard Und Naechster Schritt** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+Komplexe internationale Handelsfälle erfordern strukturiertes Case Management: Meilensteine (Rügefristen, Schiedsfristen, Vollstreckungsfristen), offene Rechtsfragen und Informationslücken müssen verfolgt werden. Ein Entscheidungs-Dashboard hilft dem Fallteam, Prioritäten zu setzen und Ressourcen zu allozieren.
 
-## Sofortsortierung
+## Kernnormen / Kernquellen
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **CISG Art. 39 Abs. 2**: 2-Jahres-Ausschlussfrist — absolute Fristober grenze
+- **NY Convention Art. V**: Anerkennungsfristen im Vollstreckungsland prüfen
+- **ICC Schiedsregeln Art. 4**: 30-Tage-Frist für Schiedsantrag nach Streitentwicklung
+- **§ 1059 Abs. 3 ZPO**: Aufhebungsklage — 3-Monate-Frist nach Award-Empfang
+- **Verjährungsfristen**: BGB § 195 (3 Jahre), CISG keine eigene Verjährung → nationales Recht
 
-## Fachlicher Zugriff
+## Schlüsselbegriffe
 
-- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
-- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
-- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
-- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+- Meilensteinplan: kritische Fristen in Kalender (Rüge, Klage, Schiedsantrag, Vollstreckung)
+- Informationslücken: welche Fakten fehlen noch (Lieferdatum, Mängelfotos, PSI-Bericht)?
+- Eskalationsstufen: Verhandlung → Mediation → Schiedsverfahren → Vollstreckung
+- BATNA: Best Alternative to Negotiated Agreement — wann abbrechen und zum nächsten Schritt?
+- Kosten-Nutzen-Kalkulation: Anwaltskosten + Schiedskosten vs. Streitwert und Erfolgswahrscheinlichkeit
 
-## Prüfroutine
+## Typische Streitfragen / Anwendungsfälle
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+1. Fristen-Kalender: Welche Fristen sind sofort nach Entdeckung des Mangels zu setzen?
+2. Informationslücke: Fehlendes PSI-Bericht — wie den Beweis für Art. 35 CISG sichern?
+3. Eskalation: Wann ist Verhandlung gescheitert und Schiedsantrag erforderlich?
+4. Kostenplanung: ICC-Schiedskosten bei EUR 2 Mio. Streitwert — was ist realistisch?
+5. Dashboard-Format: Einseiter vs. Detail-Dashboard — was für welche Entscheidungsebene?
 
-## Typische Ausgabe
+## Methodik
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+- Fristkalender anlegen: Tag 0 = Entdeckung; dann alle Fristen ausrechnen
+- Informationslücken schließen: Priorität nach Beweisrelevanz und Verfügbarkeit
+- Kosten-Nutzen-Analyse: Early Settlement-Angebot vs. Full Arbitration — Entscheidungsmodell
+- Dashboard-Aktualisierung: bei jedem neuen Ereignis (Zahlung, Brief, Schiedsantrag)
 
-## Red-Team-Fragen
+## Output
 
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+- Case-Management-Dashboard-Template
+- Fristkalender-Muster (internationaler Handelsfall)
+- ICC-Kostenrechner-Referenz (iccwbo.org/dispute-resolution/arbitration/costs)
 
 ## Quellenregel
 
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+CISG Art. 39 Abs. 2: uncitral.un.org. ZPO § 1059: gesetze-im-internet.de. ICC Schiedskosten: iccwbo.org. NY Convention: newyorkconvention.org. Unsicherheit bleibt sichtbar.
