@@ -1,6 +1,6 @@
 # bank-rechtsabteilung
 
-**27 Skills** · Stand `v90.0.0`
+**27 Skills** · Stand `v100.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bank-rechtsabteilung/README.md)

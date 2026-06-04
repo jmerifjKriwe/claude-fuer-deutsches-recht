@@ -1,6 +1,6 @@
 # preussisches-allgemeines-landrecht-pralr
 
-**28 Skills** · Stand `v90.0.0`
+**28 Skills** · Stand `v100.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/preussisches-allgemeines-landrecht-pralr/README.md)
