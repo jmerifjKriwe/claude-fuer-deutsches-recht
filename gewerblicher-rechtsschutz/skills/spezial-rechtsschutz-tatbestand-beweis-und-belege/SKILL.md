@@ -1,48 +1,142 @@
 ---
 name: spezial-rechtsschutz-tatbestand-beweis-und-belege
-description: "Rechtsschutz: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Tatbestand, Beweis und Belegaufbau im gewerblichen Rechtsschutz: Wie IP-Verletzungen tatbestandsmäßig erfasst, Beweise gesichert und Belege für Abmahnung, EV und Klage aufbereitet werden. Checklisten für Marke, Patent, UWG und Urheberrecht."
 ---
 
-# Rechtsschutz: Tatbestandsmerkmale, Beweisfragen und Beleglage
+# Spezial: Tatbestand, Beweis und Belegaufbau im IP-Recht
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `gewerblicher-rechtsschutz`. Ausgangspunkt ist: Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.
+## Zweck und Mandatsbezug
 
-Er führt durch **Tatbestandsmerkmale, Beweisfragen und Beleglage** im Themenfeld **Rechtsschutz**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill behandelt die **tatbestandsmäßige Erfassung und Beweissicherung** bei IP-Verletzungen – die Grundlage für jede Abmahnung, jeden EV-Antrag und jede Klage. Wer gut belegt, gewinnt; wer Tatbestandsmerkmale nicht präzise erfasst, riskiert Zurückweisung des Antrags, Kostenfolgen und Verlust des Verfahrens.
 
+Mandatsbezug: Anwalt hat Mandantenhinweis auf Verletzung; muss jetzt strukturiert den Tatbestand erfassen und Beweise sichern. Oder: EV-Antrag wird vorbereitet; Glaubhaftmachungspaket muss vollständig sein.
 
-## Fachlicher Zuschnitt
+## Grundstruktur: Tatbestand im IP-Recht
 
-- **Thema:** Rechtsschutz.
-- **Arbeitsfokus:** Tatbestandsmerkmale, Beweisfragen und Beleglage.
-- **Plugin-Rahmen:** Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand un....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### Allgemeines Prüfungsschema
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Jede IP-Verletzung folgt demselben Grundschema:
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. **Schutzrecht:** Besteht, ist valide, gehört dem Antragsteller.
+2. **Verletzungshandlung:** Tatbestandsmäßige Handlung des Verletzers.
+3. **Keine Einwilligung / Lizenz:** Handlung ohne Erlaubnis des Schutzrechtsinhabers.
+4. **Zurechnung:** Täterschaft oder Teilnahme des Verletzers.
+5. **Kein Rechtfertigungsgrund:** Keine Erschöpfung, kein Schranken, keine Ausnahme.
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Rechtsschutz** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Tatbestandschecklisten nach Rechtsgebiet
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+### Markenrecht – § 14 Abs. 2 MarkenG
+
+**Schutzrecht:**
+- [ ] Marke eingetragen beim DPMA/EUIPO? Registerauszug mit aktuellem Datum?
+- [ ] Anmelder = Kläger/Antragsteller oder exklusiver Lizenznehmer mit Klagerecht?
+- [ ] Schutzdauer nicht abgelaufen? Jahresgebühren/Verlängerungsgebühren bezahlt?
+- [ ] Keine Löschungsklage anhängig?
+
+**Verletzungshandlung:**
+- [ ] Zeichen des Verletzers identifiziert (Screenshot, Produktphoto, Werbematerial)?
+- [ ] Verletzungshandlung nach § 14 Abs. 3 MarkenG (Anbringen, Anbieten, Einführen...)?
+- [ ] Benutzt im geschäftlichen Verkehr (nicht privat)?
+- [ ] Benutzt für Waren/Dienstleistungen (nicht dekorativ)?
+
+**Ähnlichkeit:**
+- [ ] Zeichenähnlichkeit (schriftbildlich, klanglich, begrifflich)?
+- [ ] Warenähnlichkeit (Canon-Kriterien)?
+- [ ] Verwechslungsgefahr im Rahmen der Gesamtabwägung?
+
+### Patentrecht – § 9 PatG
+
+**Schutzrecht:**
+- [ ] Patent eingetragen, Patentschrift mit Ansprüchen vorhanden?
+- [ ] Patent noch in Kraft? Jahresgebühren bezahlt?
+- [ ] Kein Einspruchsverfahren oder Nichtigkeitsklage mit aufschiebender Wirkung?
+- [ ] Kläger ist Inhaber oder exklusiver Lizenznehmer?
+
+**Verletzungshandlung:**
+- [ ] Alle Merkmale des Hauptanspruchs im Verletzungsobjekt?
+- [ ] Wortsinngemäß oder äquivalent?
+- [ ] Verletzungshandlung nach § 9 PatG: Herstellen, Anbieten, in Verkehr bringen, Gebrauchen, Einführen?
+- [ ] Im Inland (Deutschland) oder im Schutzland (EP-Patent)?
+
+**Kein Rechtfertigungsgrund:**
+- [ ] Kein Vorbenutzungsrecht (§ 12 PatG)?
+- [ ] Keine Forschungsausnahme (§ 11 Nr. 2 PatG)?
+- [ ] Keine Erschöpfung (§ 10a PatG)?
+
+### UWG – §§ 3, 5, 8 UWG
+
+**Anspruchsberechtigung:**
+- [ ] Mitbewerbereigenschaft: Mandant und Verletzer stehen in Wettbewerbsverhältnis?
+- [ ] Oder: Klageberechtigter Verband (§ 8 Abs. 3 Nr. 2 UWG)?
+
+**Verletzungshandlung:**
+- [ ] Geschäftliche Handlung des Verletzers (§ 2 Abs. 1 Nr. 1 UWG)?
+- [ ] Tatbestand: Irreführung (§ 5), Unterlassen (§ 5a), Rechtsbruch (§ 3a), Nachahmung (§ 4 Nr. 3)?
+- [ ] Spürbarkeit (§ 3 Abs. 1 UWG)?
+
+**Verletzungsbeleg:**
+- [ ] Screenshot mit vollständiger URL, sichtbares Datum?
+- [ ] Testkauf mit Beleg?
+- [ ] Werbematerial (Flyer, Katalog, E-Mail)?
+
+### Urheberrecht – §§ 97, 97a UrhG
+
+**Schutzrecht:**
+- [ ] Werkart: Text, Musik, Bild, Software, Film, Datenbankwerk?
+- [ ] Schöpfungshöhe ausreichend (§ 2 Abs. 2 UrhG)?
+- [ ] Urheber = Kläger oder Lizenznehmer mit Klagerecht?
+- [ ] Schutzdauer: 70 Jahre p.m.a. (§ 64 UrhG) noch nicht abgelaufen?
+
+**Verletzungshandlung:**
+- [ ] Konkrete Verletzungshandlung: § 16 (Vervielfältigung), § 17 (Verbreitung), § 19a (Zugänglichmachung)?
+- [ ] Ohne Einwilligung oder gesetzliche Schranke (§§ 44a ff. UrhG)?
+- [ ] Nachweis der Identität oder substantiellen Ähnlichkeit?
+
+## Beweissicherung: Technisches Vorgehen
+
+### Screenshots als Beweismittel
+
+- [ ] Vollständige URL in der Adressleiste sichtbar.
+- [ ] Datum und Uhrzeit durch Betriebssystemuhr oder manuelle Notiz dokumentiert.
+- [ ] Metadaten (EXIF) des Screenshots erhalten (nicht bearbeitet).
+- [ ] Alternativ: Wayback Machine (archive.org) für zeitgestempelte Kopie.
+- [ ] Bei Online-Shop: Screenshot des Angebots + Bestellseite.
+
+### Testkauf
+
+- [ ] Kaufbeleg / Quittung mit Datum, Verkäufer, Warenbezeichnung.
+- [ ] Produkt selbst aufbewahren (Beweismittel für Gericht).
+- [ ] Fotodokumentation des Produkts: Markierung, Verpackung, Produktbeschreibung.
+
+### Eidesstattliche Versicherung
+
+- [ ] Datum der Erstkenntnis.
+- [ ] Wie die Verletzung entdeckt wurde.
+- [ ] Zusammenfassung der Tatsachen des Verletzungsvorgangs.
+- [ ] Bestätigung der Richtigkeit aller Anlagen.
+
+## Belegpaket für EV-Antrag (Checkliste)
+
+| Beleg | Zweck | Status |
+|---|---|---|
+| Registerauszug DPMA/EUIPO | Schutzrecht valide | [ ] |
+| Screenshot Verletzung + URL + Datum | Verletzungshandlung belegt | [ ] |
+| Eidesstattliche Versicherung | Glaubhaftmachung § 920 ZPO | [ ] |
+| Testkauf mit Beleg (falls zutreffend) | Beweis Verletzungsprodukt | [ ] |
+| Abmahnschreiben (falls vorhanden) | Reaktion der Gegenseite | [ ] |
+| Vollstreckbare Ausfertigung EV (nach Erlass) | Vollzug § 929 ZPO | [ ] |
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+- [§ 14 MarkenG – dejure.org](https://dejure.org/gesetze/MarkenG/14.html)
+- [§ 9 PatG – dejure.org](https://dejure.org/gesetze/PatG/9.html)
+- [§ 97 UrhG – dejure.org](https://dejure.org/gesetze/UrhG/97.html)
+- [§ 8 UWG – dejure.org](https://dejure.org/gesetze/UWG/8.html)
+- Rechtsprechung zur Glaubhaftmachung: BGH auf [bgh.de](https://www.bundesgerichtshof.de); keine BeckRS-Blindzitate.
+
+## Anschluss-Skills
+
+- `spezial-klausel-beweislast-und-darlegungslast` – Beweislastverteilung
+- `gewr-einstweilige-verfuegung-eilverfahren-spezial` – EV-Antrag
+- `verletzungs-triage` – Erstentscheidung IP-Verletzung
+- `spezial-freedom-schriftsatz-brief-und-memo-bausteine` – Schriftsatz-Bausteine

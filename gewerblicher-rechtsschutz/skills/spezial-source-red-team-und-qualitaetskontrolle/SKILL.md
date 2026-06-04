@@ -1,48 +1,153 @@
 ---
 name: spezial-source-red-team-und-qualitaetskontrolle
-description: "Source: Red-Team und Qualitätskontrolle im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Red-Team und Qualitätskontrolle im gewerblichen Rechtsschutz: Systematische Überprüfung von Schriftsätzen, Memos und Rechtsanalysen auf Fehler, Quellenschwächen, Gegenargumente und blinde Flecken. Checkliste für interne Qualitätssicherung."
 ---
 
-# Source: Red-Team und Qualitätskontrolle
+# Spezial: Red-Team und Qualitätskontrolle
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `gewerblicher-rechtsschutz`. Ausgangspunkt ist: Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.
+## Zweck und Mandatsbezug
 
-Er führt durch **Red-Team und Qualitätskontrolle** im Themenfeld **Source**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill führt eine **systematische Red-Team-Prüfung** von IP-rechtlichen Analysen, Schriftsätzen, Memos und Abmahnungen durch. Er simuliert die Gegenperspektive: Was wird die Gegenseite einwenden? Welche Quellen sind schwach oder angreifbar? Wo sind die blinden Flecken der eigenen Argumentation?
 
+Mandatsbezug: Anwalt hat EV-Antrag oder Abmahnschreiben fertiggestellt und will es vor Versand einem internen Review unterziehen. Kanzlei-Quality-Gate vor Einreichung von Schriftsätzen. Mandant fragt: Wie stark ist unser Fall wirklich?
 
-## Fachlicher Zuschnitt
+## Red-Team-Grundprinzip
 
-- **Thema:** Source.
-- **Arbeitsfokus:** Red-Team und Qualitätskontrolle.
-- **Plugin-Rahmen:** Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand un....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+Das Red-Team versucht, die eigene Argumentation zu erschüttern – aus der Perspektive der Gegenseite, eines kritischen Richters oder eines neutralen Sachverständigen. Ziel ist nicht Pessimismus, sondern belastbare Qualität.
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+**Fünf Red-Team-Fragen:**
+1. Was ist das schwächste Argument in unserem Schriftsatz?
+2. Welche Gegenargumente hat die Gegenseite und warum könnten sie durchdringen?
+3. Welche Quellen sind nicht verifizierbar oder könnten angegriffen werden?
+4. Was haben wir möglicherweise übersehen?
+5. Würde ein kritischer Richter unsere Argumentation als schlüssig bewerten?
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+## Checkliste: Red-Team-Prüfung Abmahnung
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Source** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+### Block A – Formale Überprüfung
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+- [ ] Aktivlegitimation des Abmahnenden klar begründet?
+- [ ] Formvoraussetzungen §§ 13 UWG / 97a UrhG / 14 MarkenG vollständig?
+- [ ] Verletzungshandlung präzise beschrieben (wann, wo, was genau)?
+- [ ] Unterlassungserklärung beigefügt und inhaltlich korrekt?
+- [ ] Frist angemessen (nicht zu kurz)?
+- [ ] Streitwert / Kostenansatz korrekt und begründbar?
+
+### Block B – Materielle Überprüfung
+
+- [ ] Schutzrecht eingetragen, valide, nicht abgelaufen?
+- [ ] Verletzung tatsächlich tatbestandsmäßig? Alle Merkmale geprüft?
+- [ ] Spürbarkeit (UWG) oder Verwechslungsgefahr (MarkenG) ausreichend begründet?
+- [ ] Keine offensichtliche Erschöpfung oder Verwirkungseinwand übersehen?
+- [ ] Keine offensichtliche Missbrauchs-Indizien nach § 8c UWG?
+
+### Block C – Quellen-Überprüfung
+
+- [ ] Alle zitierten Normen in aktueller Fassung überprüft?
+- [ ] Rechtsprechungszitate mit Gericht, Datum, AZ und prüfbarer Quelle?
+- [ ] Kein BeckRS-Alleinzitat für tragende Aussagen?
+- [ ] Keine Annahmen als gesicherte Fakten präsentiert?
+- [ ] Offene Punkte explizit als solche markiert?
+
+### Block D – Gegenargument-Analyse
+
+| Gegenargument | Wahrscheinlichkeit | Antwort vorbereitet? |
+|---|---|---|
+| Kein Mitbewerberverhältnis (UWG) | [ ] Hoch/Mittel/Gering | [ ] Ja/Nein |
+| Schutzrecht ungültig | [ ] Hoch/Mittel/Gering | [ ] Ja/Nein |
+| Keine Verwechslungsgefahr | [ ] Hoch/Mittel/Gering | [ ] Ja/Nein |
+| Erschöpfung | [ ] Hoch/Mittel/Gering | [ ] Ja/Nein |
+| Verwirkung | [ ] Hoch/Mittel/Gering | [ ] Ja/Nein |
+| § 8c UWG Missbrauch | [ ] Hoch/Mittel/Gering | [ ] Ja/Nein |
+| Dringlichkeitsselbstwiderlegung | [ ] Hoch/Mittel/Gering | [ ] Ja/Nein |
+
+## Checkliste: Red-Team-Prüfung EV-Antrag
+
+### Block A – Verfügungsanspruch
+
+- [ ] Schutzrechtsurkunde / Registerauszug aktuell und in Akte?
+- [ ] Verletzungshandlung vollständig tatbestandsmäßig subsumiert?
+- [ ] Keine wesentliche Voraussetzung übersehen?
+- [ ] Tenor nicht zu weit formuliert (Risiko Gericht kürzt stark)?
+
+### Block B – Verfügungsgrund
+
+- [ ] Erstkenntnis-Datum belegt und in eidesstattlicher Versicherung genannt?
+- [ ] Keine Selbstwiderlegung der Dringlichkeit (lange Wartezeit)?
+- [ ] Wartezeit rational begründet (z.B. Zusammenstellnung Beweismittel)?
+
+### Block C – Glaubhaftmachungspaket
+
+- [ ] Eidesstattliche Versicherung vollständig und schlüssig?
+- [ ] Alle genannten Anlagen tatsächlich beigefügt?
+- [ ] Screenshots mit Datum und URL vollständig?
+- [ ] Kein Widerspruch zwischen eidesstattlicher Versicherung und Anlagen?
+
+### Block D – § 945 ZPO-Risiko
+
+- [ ] Ist EV-Antrag tatsächlich begründet oder besteht erhebliches Risiko, dass EV ungerechtfertigt ist?
+- [ ] Ist Mandant über § 945 ZPO-Schadensersatzrisiko informiert?
+- [ ] Bei Zweifeln: Abmahnung statt EV als Alternative erwogen?
+
+## Red-Team für Memos und Gutachten
+
+### Quellen-Review
+
+- [ ] Jede rechtliche Aussage auf Norm oder Rechtsprechung gestützt?
+- [ ] Normen aktuell (kein veralteter Gesetzesstand)?
+- [ ] Rechtsprechung: BGH/EuGH/BVerfG direkt zitiert (nicht Sekundärquelle)?
+- [ ] Live-Check-Bedarf explizit markiert?
+
+### Logik-Review
+
+- [ ] Schlussfolgerungen aus den Prämissen logisch ableitbar?
+- [ ] Keine verdeckten normativen Annahmen?
+- [ ] Keine zirkulären Begründungen?
+- [ ] Gegenposition fair dargestellt und widerlegt?
+
+### Vollständigkeits-Review
+
+- [ ] Alle relevanten Tatbestandsmerkmale geprüft?
+- [ ] Alle einschlägigen Einwendungen behandelt?
+- [ ] Offene Fragen explizit benannt (kein Totschweigen von Schwächen)?
+
+## Ergebnis-Vorlage Red-Team
+
+```
+RED-TEAM ERGEBNIS
+Dokument: _______________
+Datum: _______________
+Reviewer: _______________
+
+Stärken:
+1. _______________
+2. _______________
+
+Schwachstellen / offene Punkte:
+1. _______________
+2. _______________
+
+Voraussichtliche Gegenargumente der Gegenseite:
+1. _______________
+2. _______________
+
+Empfehlung vor Versand:
+[ ] Keine Änderungen nötig
+[ ] Kleinere Überarbeitungen (Details: _______)
+[ ] Wesentliche Überarbeitung empfohlen (Details: _______)
+[ ] Rücksprache mit Mandant erforderlich (Details: _______)
+```
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+- [§ 8c UWG – dejure.org](https://dejure.org/gesetze/UWG/8c.html)
+- [§ 945 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/945.html)
+- Rechtsprechung immer mit Gericht, Datum, AZ und prüfbarer Quelle.
+- Keine Aussagen aus Modellwissen ohne Live-Check bei tragenden Argumenten.
+
+## Anschluss-Skills
+
+- `workflow-redteam-qualitygate` – Red-Team-Workflow im Plugin
+- `spezial-source-red-team-und-qualitaetskontrolle` – Dieser Skill (Selbstreferenz)
+- `spezial-klausel-beweislast-und-darlegungslast` – Beweislastfragen
+- `spezial-rechtsschutz-tatbestand-beweis-und-belege` – Tatbestand und Beweis

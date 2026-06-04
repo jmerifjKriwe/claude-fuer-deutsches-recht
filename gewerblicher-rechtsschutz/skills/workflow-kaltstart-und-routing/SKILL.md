@@ -1,46 +1,126 @@
 ---
 name: workflow-kaltstart-und-routing
-description: "Kaltstart und Routing im Plugin gewerblicher-rechtsschutz: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills."
+description: "Kaltstart-Workflow für das Plugin gewerblicher-rechtsschutz: strukturiertes Erstgespräch, Rollenklärung, Themen-Routing und Auswahl des passenden Spezialskills. Erster Kontaktpunkt für neue Anfragen und unklare Sachlagen."
 ---
 
-# Kaltstart und Routing
+# Workflow: Kaltstart und Routing
 
-## Aufgabe
-Dieser Workflow-Skill für `gewerblicher-rechtsschutz` Kaltstart und Routing im Plugin gewerblicher-rechtsschutz: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+## Zweck
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+Dieser Skill ist der **primäre Einstiegspunkt** des Plugins `gewerblicher-rechtsschutz`. Er führt ein strukturiertes Erstgespräch durch, klärt die Situation in wenigen Rückfragen und leitet an den richtigen Spezialskill weiter. Er ist kein Wissensskill, sondern ein Prozessskill.
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+Mandatsbezug: Eine Person startet das Plugin ohne weitere Angaben. Oder: Anfrage ist unklar und muss erst eingeordnet werden, bevor ein passender Spezialskill ausgewählt werden kann.
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## Kaltstart-Gespräch: Vier Pflichtfragen
 
-## Routing-Heuristik
-- UWG → §§ 3, 5, 7 UWG; Mitbewerber, Verband, Verbraucher als Anspruchsberechtigte (§ 8 Abs. 3 UWG).
-- MarkenG → §§ 4, 14 MarkenG; Verwechslungsgefahr nach EuGH "Sabel" und "Canon"-Doktrin.
-- DesignG → §§ 38 ff.; eingetragenes Design vs. nicht eingetragenes Unionsdesign (UDG-VO 6/2002).
-- GeschGehG → angemessene Geheimhaltungsmaßnahmen § 2 Nr. 1 GeschGehG zwingend.
-- DSGVO-Schnittstelle bei Auskunftsansprüchen → § 101 UrhG, § 19 MarkenG, § 140b PatG.
-- Verbraucherschutz/CHMP → Verbraucherschlichtungsgesetz (VSBG).
+Das Kaltstart-Gespräch stellt maximal vier Fragen. Wenn Material vorliegt, erste Auswertung sofort aus dem Material.
 
-## Praxis-Hinweis
-- Abmahnerfordernis § 13 UWG ist zwingend; ohne Abmahnung mit Setzung Frist Gefahr Kostentragungspflicht (§ 13 Abs. 3 UWG). Bei Bagatellverstößen kein Schadensersatz, aber Unterlassung.
+### Frage 1 – Wer fragt?
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+Rolle identifizieren:
+- Mandant (Unternehmensinhaber, Rechtsabteilung, Privatperson)
+- Anwalt (für eigenes Mandat)
+- Kanzleimitarbeiter (Aktenführung, Fristencheck)
+- Richter / Rechtspfleger
+- Sonstiges (Journalist, Wissenschaftler, Student)
+
+**Warum wichtig:** Tiefe und Tonalität der Antwort hängen von der Rolle ab.
+
+### Frage 2 – Was ist das Problem oder die Aufgabe?
+
+Kurzbeschreibung aus der Anfrage extrahieren oder fragen:
+- Verletzung eigener IP-Rechte?
+- Abmahnung empfangen?
+- Schutzrecht anmelden?
+- Freedom-to-Operate prüfen?
+- Verfahren führen (EV, Klage, Widerspruch)?
+- Allgemeine rechtliche Frage?
+
+### Frage 3 – Gibt es eine Frist?
+
+- Fristsetzung in empfangener Abmahnung?
+- Vollziehungsfrist nach EV?
+- DPMA/EUIPO-Widerspruchsfrist läuft?
+- Hauptsacheklage nach § 926 ZPO gefordert?
+
+**Wenn ja:** Frist sofort erfassen und Risikoampel setzen.
+
+### Frage 4 – Welche Unterlagen liegen vor?
+
+Kurze Unterlagenliste:
+- Schutzrechtsurkunde, Registerauszug
+- Abmahnung mit Anlagen
+- EV-Beschluss oder Urteil
+- Korrespondenz mit Gegenseite
+- Sonstiges
+
+## Routing-Matrix
+
+Basierend auf den vier Fragen den richtigen Skill auswählen:
+
+| Ausgangslage | Empfohlener Skill |
+|---|---|
+| Erste Orientierung gewünscht | `gw-einfuehrung-rechtsschutzwege` |
+| Verletzung entdeckt, unklar was tun | `verletzungs-triage` |
+| Abmahnung UWG erhalten | `gewr-uwg-abmahnung-checkliste` |
+| Abmahnung Marke erhalten | `verletzungs-triage` + `unterlassungsverlangen` |
+| Abmahnung Urheberrecht erhalten | `abmahnung-urheberrecht` |
+| Abmahnung versenden wollen (UWG) | `gewr-uwg-abmahnung-checkliste` |
+| EV beantragen | `gewr-einstweilige-verfuegung-eilverfahren-spezial` |
+| EV vollziehen (erhalten) | `evvollzug-neu-001` |
+| Schutzschrift einreichen | `evvollzug-neu-008` + `schutzschrift-eilverfuegung` |
+| Marke anmelden | `gewr-markenanmeldung-bauleiter` |
+| Marke recherchieren | `markenrecherche` |
+| Patent FTO | `fto-triage` |
+| Patentrecherche | `spezial-patentscreening-livequellen-und-rechtsprechungscheck` |
+| Arbeitnehmererfindung | `erfindungsmeldung-aufnahme` |
+| Geschäftsgeheimnis schützen | `gewr-geschaeftsgeheimnisgesetz-spezial` |
+| Fristen kontrollieren | `workflow-fristen-und-risikoampel` |
+| Dokumente einlesen | `workflow-dokumentenintake` |
+| Vergleich / Verhandlung | `spezial-operate-verhandlung-vergleich-und-eskalation` |
+| Internationaler Bezug | `spezial-reaktion-internationaler-bezug-und-schnittstellen` |
+| Qualitätskontrolle | `workflow-redteam-qualitygate` |
+| Rechtsquellen live prüfen | `workflow-rechtsquellen-livecheck` |
+
+## Schnell-Routing bei bekannter Lage
+
+Wenn die Anfrage eindeutig ist, direkt routing ohne Rückfragen:
+
+**Erkanntes Muster → Direktrouting:**
+- „Ich habe eine Abmahnung bekommen" → `verletzungs-triage`
+- „Wir wollen eine Marke anmelden" → `gewr-markenanmeldung-bauleiter`
+- „Einstweilige Verfügung vollziehen" → `evvollzug-neu-001`
+- „Was macht der Gerichtsvollzieher?" → `evvollzug-neu-003`
+- „Ich brauche eine Schutzschrift" → `evvollzug-neu-008`
+- „Widerspruch beim DPMA" → `spezial-dpma-fristen-form-und-zustaendigkeit`
+
+## Kaltstart-Output: Kurzlage
+
+Nach dem Kaltstart-Gespräch sofort ausgeben:
+
+```
+KURZLAGE
+Rolle: _______________
+Problem: _______________
+Frist: _______________  (Ampel: 🔴/🟡/🟢)
+Unterlagen: _______________
+Empfohlener Skill: _______________
+Begründung: _______________
+```
+
+## Eskalation bei Unklarheit
+
+Wenn nach vier Fragen immer noch unklar:
+- Konkreten Sachverhalt in 2–3 Sätzen formulieren lassen.
+- Dann Routing-Entscheidung treffen.
+- Nie mehr als sechs Fragen im Kaltstart; danach Arbeitshypothese aufstellen.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
+
+- Dieser Skill führt nur den Routing-Prozess durch; keine Rechtsquellen nötig.
+- Sobald ein Spezialskill aktiviert wird, gelten dessen Quellenregeln.
+
+## Anschluss-Skills
+
+Alle Spezialskills des Plugins `gewerblicher-rechtsschutz` – je nach Routing.
+Erste Empfehlung bei breiter Orientierungsanfrage: `gw-einfuehrung-rechtsschutzwege`.

@@ -1,49 +1,132 @@
 ---
 name: gewr-markenanmeldung-bauleiter
-description: "Bauleiter Markenanmeldung DPMA / EUIPO: Markenformen, Nizza-Klassen, absolute und relative Schutzhindernisse, Recherchekosten. Pruefraster fuer Mandant."
+description: "Markenanmeldung als strukturierter Bauleiter: Recherche, Klassenwahl, Anmeldeweg (DPMA/EUIPO/Madrid), Formvoraussetzungen, Fristen und Nachverfolgung. Praxisworkflow für Anwälte und Unternehmen, die eine Marke anmelden oder betreuen wollen."
 ---
 
-# GewR: Markenanmeldung Bauleiter
+# GewR: Markenanmeldung – Strukturierter Bauleiter
 
-## Aufgabe
-Bauleiter Markenanmeldung DPMA / EUIPO: Markenformen, Nizza-Klassen, absolute und relative Schutzhindernisse, Recherchekosten.
+## Zweck und Mandatsbezug
 
-## Kaltstart
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Dieser Skill führt durch den **vollständigen Prozess der Markenanmeldung** – von der Vorabrecherche über die Klassenwahl bis zur Anmeldung und Nachverfolgung. Er fungiert als strukturierter „Bauleiter": jeder Schritt ist klar definiert, Entscheidungspunkte sind markiert und Fehlerquellen werden antizipiert.
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+Mandatsbezug: Startup möchte Produktname schützen; etabliertes Unternehmen will neue Produktlinie unter einer Marke führen; Mandant hat gute Idee für Marke, weiß aber nicht, wo anfangen. Oder: Anwalt übernimmt Markenportfolio-Betreuung und braucht strukturierten Prozess.
 
-## Pruefraster
+## Rechtlicher Rahmen
 
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+### Zentrale Normen und Register
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+- **§§ 3, 7, 8 MarkenG** – Schutzfähigkeit, Antragsrecht, absolute Schutzhindernisse.
+- **§§ 32–42 MarkenG** – Anmeldeverfahren beim DPMA; Form, Inhalt, Klassenangabe.
+- **§ 43 MarkenG** – Widerspruchsverfahren nach Eintragung.
+- **VO (EU) 2017/1001 (EUTMR)** – Unionsmarken-Verordnung; Anmeldung beim EUIPO.
+- **Madrider Protokoll (MMP)** – Internationale Markenanmeldung über WIPO; Grundlage DPMA- oder EUIPO-Marke.
+- **Nizza-Klassifikation** – Internationale Klassifikation für Waren und Dienstleistungen (11. Ausgabe, regelmäßig aktualisiert).
 
-## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `gewerblicher-rechtsschutz`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+### Anmeldewege im Überblick
+
+| Weg | Zuständigkeit | Schutzgebiet | Kosten (ca.) | Bearbeitungszeit |
+|---|---|---|---|---|
+| Deutsche Marke | DPMA | Deutschland | 300–900 EUR | 3–6 Monate |
+| Unionsmarke | EUIPO | 27 EU-Staaten | 850–1.350 EUR | 4–8 Monate |
+| IR-Marke (Madrid) | WIPO/DPMA | Wunschländer | Variabel | 12–18 Monate |
+| Nationale Einzelanmeldungen | Nationale Ämter | Jeweiliges Land | Variabel | Variabel |
+
+## Kaltstart in 5 Fragen
+
+1. **Zeichen:** Was soll angemeldet werden? Wortmarke, Bildmarke, Wort-Bildmarke, 3D, Klangmarke, Farbmarke?
+2. **Waren/Dienstleistungen:** Was bietet der Mandant an? Beschreibung in eigenen Worten für Klassifizierungsanalyse.
+3. **Schutzgebiet:** Deutschland, EU, international? Prioritäten?
+4. **Zeitlage:** Gibt es Gründe für Priorität (Produktlaunch, Messe, Markteintritt)?
+5. **Output:** Anmeldungsformular, Recherche-Bericht, Klassenübersicht, Anmeldestrategieübersicht?
+
+## Bauleiter: Schritt-für-Schritt-Prozess
+
+### Baustein 1 – Vorabrecherche (vor der Anmeldung!)
+
+**Ziel:** Kollisionsmarken identifizieren, Risiko abschätzen.
+
+- DPMA-Markenrecherche: [dpma.de/marken](https://www.dpma.de/marken) – DPMAregister online.
+- EUIPO-TMview: [tmview.org](https://www.tmview.org) – internationale Datenbank.
+- Wildcardsuche, phonetische Ähnlichkeit, Bildähnlichkeit (bei Bildmarken).
+- Klassen: Identische und ähnliche Klassen recherchieren.
+- Ergebnis: Grün/Gelb/Rot; Empfehlung an Mandanten.
+- Bei Kollision: Abgrenzungsvereinbarung, Abänderung des Zeichens oder bewusste Risikoannahme.
+
+### Baustein 2 – Klassenwahl (Nizza-Klassifikation)
+
+- Nizza-Klassifikation: 45 Klassen (1–34 Waren, 35–45 Dienstleistungen).
+- Relevante Klassen für typische Mandate:
+  - Software: Klasse 42 (SaaS) + ggf. 9 (Hardware)
+  - Kleidung: Klassen 25 (Bekleidung), 35 (Einzelhandel)
+  - Lebensmittel: Klassen 29, 30, 43
+  - Beratungsdienstleistungen: Klasse 45 (Rechtsberatung), 35 (Unternehmensberatung)
+- Warenbeschreibung: Präzise, aber nicht zu eng; DPMA-Klassifikationsdatenbank nutzen.
+- Kosten: Erste Klasse im Grundbetrag; jede weitere Klasse zusätzlich.
+
+### Baustein 3 – Zeichengestaltung
+
+- **Unterscheidungskraft (§ 8 Abs. 2 Nr. 1 MarkenG):** Kein rein beschreibendes Zeichen.
+- **Freihaltebedürfnis (§ 8 Abs. 2 Nr. 2 MarkenG):** Geografische Angaben, Gattungsbezeichnungen nicht schutzfähig.
+- Empfehlung: Fantasiebegriff, modifizierter Begriff oder Kombinationszeichen mit Unterscheidungskraft.
+- Bildmarke: Eintragungsformat (jpg, png, tiff); klare Darstellung.
+
+### Baustein 4 – Anmeldung beim DPMA
+
+- Online: [dpmaregister.dpma.de](https://dpmaregister.dpma.de) (DPMAdirekt).
+- Pflichtangaben: Zeichen, Anmelder (Name, Adresse), Waren-/Dienstleistungsverzeichnis, Klassenangabe.
+- Anmeldegebühr: 300 EUR für bis zu 3 Klassen; 100 EUR je weitere Klasse.
+- Priorität: DPMA-Anmelde-Datum gilt als Prioritätsdatum.
+- Empfangsbestätigung: DPMA sendet Aktenzeichen; notieren und in Fristenbuch eintragen.
+
+### Baustein 5 – Anmeldung beim EUIPO (Unionsmarke)
+
+- Online: [euipo.europa.eu](https://www.euipo.europa.eu) – TMclass und eSearch.
+- Gebühren (ab 2024): 850 EUR für 1 Klasse; 50 EUR für 2. Klasse; 150 EUR für jede weitere.
+- Prüfungsumfang: EUIPO prüft nur absolute Hindernisse; relative Hindernisse im Widerspruchsverfahren.
+- Widerspruchsfrist: 3 Monate ab Veröffentlichung (Art. 46 EUTMR).
+
+### Baustein 6 – IR-Marke über WIPO (Madrid)
+
+- Grundlage: Bestehende DPMA- oder EUIPO-Marke.
+- Formular MM2: Beim DPMA als Ausgangsstelle einreichen.
+- Länderauswahl: WIPO-Mitgliedstaaten; Gebühren je nach Schutzklassen und Ländern.
+- Gebühren: Grundgebühr + individuelle Gebühren der Bestimmungsländer.
+- Nachdesignierung: Weitere Länder können nachträglich benannt werden.
+
+### Baustein 7 – Nachverfolgung und Widerspruchsbeobachtung
+
+- DPMA-Markenblatt: Wöchentliche Veröffentlichung; Widerspruchsfrist 3 Monate (§ 42 MarkenG).
+- Markenwatch-Dienste einrichten: Kollisionsmarken überwachen.
+- Bei EUIPO: EUIPO-Bulletin; Widerspruchsfrist 3 Monate.
+- Verlängerung: Deutsche Marke alle 10 Jahre; EUIPO alle 10 Jahre; fristgerecht verlängern!
+- Benutzungsschonfrist: 5 Jahre nach Eintragung; Marke muss ernsthaft benutzt werden.
+
+## Typische Fallen
+
+- **Keine Vorrecherche:** Kostspielige Anmeldung scheitert an Widerspruch.
+- **Zu enger Waren-/Dienstleistungskatalog:** Spätere Erweiterung kostet neue Anmeldung.
+- **Rein beschreibende Marke:** DPMA/EUIPO weist zurück (§ 8 Abs. 2 Nr. 1, 2 MarkenG / Art. 7 EUTMR).
+- **Frist für Widerspruch übersehen:** Kollisionsmarke bleibt eingetragen.
+- **Benutzungsschonfrist ignoriert:** Marke löschbar nach 5 Jahren Nichtbenutzung.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+
+- **Recherche-Bericht:** Kollisionsmarken, Risikobewertung, Empfehlung.
+- **Klassenmatrix:** Waren/Dienstleistungen → Nizza-Klassen.
+- **Anmeldecheckliste:** DPMA/EUIPO/WIPO – je nach Schutzgebiet.
+- **Fristenplan:** Anmeldedatum, Veröffentlichung, Widerspruchsfrist, Eintragung, Verlängerung.
 
 ## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+- [DPMA Markenrecht – dpma.de](https://www.dpma.de/marken/index.html)
+- [EUIPO – euipo.europa.eu](https://www.euipo.europa.eu)
+- [VO (EU) 2017/1001 – eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32017R1001)
+- [MarkenG – gesetze-im-internet.de](https://www.gesetze-im-internet.de/markeng/)
+- Keine BeckRS-Blindzitate; DPMA- und EUIPO-Webseiten für aktuelle Gebühren nutzen.
+
+## Anschluss-Skills
+
+- `markenrecherche` – Vertiefung der Kollisionsrecherche
+- `markenanmeldung-dpma` – DPMA-Anmeldung im Detail
+- `spezial-dpma-fristen-form-und-zustaendigkeit` – Fristen und Formalien
+- `spezial-euipo-dokumentenmatrix-und-lueckenliste` – EUIPO-Verfahren

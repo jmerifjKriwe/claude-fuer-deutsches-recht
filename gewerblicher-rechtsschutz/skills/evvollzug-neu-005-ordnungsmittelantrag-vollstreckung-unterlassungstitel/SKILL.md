@@ -1,45 +1,112 @@
 ---
-name: evvollzug-neu-005-ordnungsmittelantrag-vollstreckung-unterlassun
-description: "Gewerblicher Rechtsschutz: Ordnungsmittelantrag Vollstreckung Unterlassungstitel mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: evvollzug-neu-005-ordnungsmittelantrag-vollstreckung
+description: "EV-Vollzug: Ordnungsmittelantrag nach § 890 ZPO bei Verstoß gegen Unterlassungstitel aus einstweiliger Verfügung. Tatbestandsvoraussetzungen, Antragsinhalt, Höhe Ordnungsgeld, Verschuldensmaßstab und typische Verteidigungsstrategien des Schuldners."
 ---
 
-# Gewerblicher Rechtsschutz: Ordnungsmittelantrag Vollstreckung Unterlassungstitel
+# EV-Vollzug 005: Ordnungsmittelantrag (§ 890 ZPO) nach Unterlassungstitel
 
-## Aufgabe
+## Zweck und Mandatsbezug
 
-Dieser Skill bearbeitet **Ordnungsmittelantrag Vollstreckung Unterlassungstitel** im Bereich **Gewerblicher Rechtsschutz**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Dieser Skill behandelt den **Ordnungsmittelantrag nach § 890 ZPO** als das zentrale Vollstreckungsinstrument bei Unterlassungsverfügungen im gewerblichen Rechtsschutz. Der Schuldner hat gegen eine rechtskräftige oder vollzogene Unterlassungsverfügung verstoßen – jetzt muss der Antragsteller die Einhaltung erzwingen.
 
-## Kaltstart in 6 Fragen
+Mandatsbezug: Markeninhaber hat Unterlassungsverfügung gegen Verletzer erwirkt und vollzogen; Verletzer nutzt das Zeichen weiter. Oder: UWG-Antragsteller hat EV gegen unlauteren Wettbewerber; Wettbewerber stellt nach Verfügungszustellung weiter dieselbe irreführende Werbung ein.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Rechtlicher Rahmen
+
+### Zentrale Normen
+
+- **§ 890 Abs. 1 ZPO** – Vollstreckung eines Unterlassungsurteils durch Ordnungsgeld (bis 250.000 EUR) oder Ordnungshaft (bis sechs Monate pro Verstoß).
+- **§ 890 Abs. 2 ZPO** – Androhungsgebot: Ordnungsmittel dürfen nur vollstreckt werden, wenn sie vorab angedroht wurden; die Androhung erfolgt regelmäßig durch die Unterlassungsverfügung selbst oder einen separaten Androhungsbeschluss.
+- **§ 891 ZPO** – Verfahren bei Ordnungsmittelantrag: Antrag des Gläubigers, rechtliches Gehör des Schuldners, Beschluss des Vollstreckungsgerichts.
+- **§ 928 ZPO** – Anwendbarkeit der allgemeinen Vollstreckungsvorschriften auf EV.
+- **§ 936 ZPO** – Anwendbarkeit der Arrestvorschriften.
+
+### Voraussetzungen des Ordnungsmittelantrags
+
+| Voraussetzung | Inhalt | Prüfpunkt |
+|---|---|---|
+| Vollstreckbarer Unterlassungstitel | Vollzogene EV oder rechtskräftiges Urteil | Zustellurkunde vorhanden? |
+| Androhung der Ordnungsmittel | Im Tenor der EV enthalten oder separater Beschluss | Tenor lesen |
+| Zuwiderhandlung | Konkreter Verstoß nach Zustellung der EV | Beleg: Screenshot, Zeuge, Testkauf |
+| Verschulden | Schuldner hat vorsätzlich oder fahrlässig gehandelt | Schuldner muss sich entlasten |
+| Antrag beim Vollstreckungsgericht | Schriftlicher Antrag mit Belegen | Form und Zuständigkeit prüfen |
+
+## Kaltstart in 5 Fragen
+
+1. **Titelnachweis:** Liegt vollzogene EV mit Zustellurkunde vor? Enthält der Tenor eine Ordnungsmittelandrohung?
+2. **Verstoßbeleg:** Wann, wo und wie genau hat der Schuldner gegen die Unterlassung verstoßen? Welche Belege liegen vor?
+3. **Zeitpunkt:** War der Verstoß nach der Zustellung der EV an den Schuldner?
+4. **Zuständigkeit:** Welches Gericht hat die EV erlassen? Ordnungsmittelantrag an dasselbe Gericht (§ 891 ZPO)?
+5. **Output:** Antragsschriftsatz, Checkliste Beleglage, Memo zur Höhe des Ordnungsgeldes?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Titel und Androhung prüfen
 
-## Typische Fallen
+- Tenor der EV auf Androhungspassage prüfen: „Bei Zuwiderhandlung wird ein Ordnungsgeld bis zu 250.000 EUR, ersatzweise Ordnungshaft, angedroht."
+- Fehlt die Androhung im Tenor, muss vor dem Ordnungsmittelantrag ein separater Androhungsbeschluss beantragt werden (§ 890 Abs. 2 ZPO).
+- Prüfen, ob EV durch Widerspruch oder Berufung aufgehoben wurde – dann kein Ordnungsmittelantrag.
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+### Schritt 2 – Zuwiderhandlung dokumentieren
 
-## Output
+- **Datum und Uhrzeit** des Verstoßes genau festhalten (wichtig für Verschuldensfrage).
+- **Beweismittel:**
+  - Screenshot mit Datum, URL, Metadaten
+  - Testkauf mit Quittung
+  - Zeuge mit schriftlicher Erklärung
+  - eidesstattliche Versicherung des Antragstellers
+- Verstoß muss **nach** Zustellung der EV an Schuldner erfolgt sein; Datum der Zustellurkunde ist Bezugspunkt.
+- Mehrere Verstöße getrennt dokumentieren; jeder Verstoß kann gesondert geahndet werden.
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+### Schritt 3 – Antragsschrift verfassen
+
+Pflichtbestandteile:
+1. Bezeichnung des Vollstreckungsgerichts
+2. Rubrum (Gläubiger, Schuldner)
+3. AZ der EV
+4. Datum der Zustellung der EV (mit Bezug auf Zustellurkunde)
+5. Konkrete Darstellung der Zuwiderhandlung mit Datum
+6. Beweismittel als Anlage
+7. Antrag: „Es wird beantragt, gegen den Schuldner wegen Zuwiderhandlung gegen den Beschluss des [Gericht] vom [Datum] – AZ [AZ] – ein Ordnungsgeld in Höhe von mindestens [X] EUR, ersatzweise Ordnungshaft, festzusetzen."
+
+### Schritt 4 – Ordnungsgeldhöhe einschätzen
+
+- Keine gesetzliche Tabelle; Gericht übt Ermessen aus.
+- Faktoren: Schwere des Verstoßes, Umsatz des Schuldners, Wiederholungsgefahr, Vorsatz/Fahrlässigkeit.
+- Richtwerte in IP-Verfahren: 5.000–50.000 EUR für einfachen Verstoß; bei Unternehmen mit hohem Umsatz bis 250.000 EUR.
+- Empfehlung im Antrag: Konkreten Betrag nennen; Gericht kann abweichen, aber Orientierungsrahmen setzen.
+
+### Schritt 5 – Schuldnerverteidigung antizipieren
+
+Typische Einwände des Schuldners:
+- **Kein Verschulden:** Mitarbeiter habe ohne Wissen gehandelt; Gegenargument: Organisationsverschulden.
+- **Titel deckt Verstoß nicht ab:** Verstoßverhalten fällt nicht unter Unterlassungsgebot; prüfen, ob Tenor weit genug formuliert.
+- **Verstoß vor Zustellung:** Prüfen: Wurde Verstoß wirklich erst nach Zustellungsdatum begangen?
+- **Einstellung des Vertriebs:** Schuldner behauptet, Verstoß eingestellt zu haben; Belege für Fortsetzung beschaffen.
+
+## Nachgelagerte Schritte
+
+- **Ordnungsgeld-Beschluss:** Einzahlung des Ordnungsgeldes an Staatskasse; kein direkter Nutzen für Gläubiger.
+- **Unterlassungsklage in der Hauptsache:** Falls EV nur einstweilig – muss Hauptsacheklage innerhalb Frist erhoben werden (Abschlussschreiben beachten → evvollzug-neu-007).
+- **Wiederholter Verstoß:** Jeder erneute Verstoß führt zu neuem Ordnungsmittelantrag; kumulativ möglich.
+
+## Output-Module
+
+- **Antragsschriftsatz-Vorlage:** Vollständiger Mustertext mit Platzhaltern.
+- **Belegliste Verstoß:** Datum, Art des Verstoßes, Beweismittel, Anlage-Nummer.
+- **Ordnungsgeld-Einschätzungsmatrix:** Umsatz, Schwere, Vorsatz, Wiederholung → empfohlene Höhe.
+- **Antizipierte Verteidigung:** Tabelle Schuldnereinwand / Gegenargument.
+
+## Quellenregel
+
+- [§ 890 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/890.html)
+- [§ 891 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/891.html)
+- Rechtsprechung zur Ordnungsgeldhöhe nur mit Gericht, Datum, AZ und prüfbarer Quelle (openjur.de, bgh.de).
+- Keine BeckRS-Blindzitate; Gerichtspraxis zu Ordnungsgeld variiert; konkretes Gericht maßgeblich.
+
+## Anschluss-Skills
+
+- `evvollzug-neu-001` – Vollziehungsfrist und Parteizustellung
+- `evvollzug-neu-007` – Abmahnung, Abschlussschreiben und Hauptsache
+- `unterlassungsverlangen` – Unterlassungserklärung als Alternative zum Gerichtsverfahren
+- `verletzungs-triage` – Erstentscheidung bei IP-Verletzung

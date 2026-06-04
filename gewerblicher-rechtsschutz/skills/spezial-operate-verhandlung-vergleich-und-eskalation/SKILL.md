@@ -1,48 +1,145 @@
 ---
 name: spezial-operate-verhandlung-vergleich-und-eskalation
-description: "Operate: Verhandlung, Vergleich und Eskalation im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Verhandlung, Vergleich und Eskalation im gewerblichen Rechtsschutz: Strategien für außergerichtliche Einigung, Vergleichsverhandlung, gerichtlichen Vergleich und Eskalation bei Scheitern. Vertragsstrafen, Abschlussvereinbarungen und Hauptsache-Entscheidung."
 ---
 
-# Operate: Verhandlung, Vergleich und Eskalation
+# Spezial: Verhandlung, Vergleich und Eskalation
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `gewerblicher-rechtsschutz`. Ausgangspunkt ist: Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.
+## Zweck und Mandatsbezug
 
-Er führt durch **Verhandlung, Vergleich und Eskalation** im Themenfeld **Operate**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill behandelt die **Verhandlungs- und Vergleichsphase** im gewerblichen Rechtsschutz – den Zeitraum zwischen Abmahnung/EV und abschließender Klärung durch Urteil oder Einigung. Er strukturiert Verhandlungsstrategien, Vergleichsangebote und die Entscheidung zwischen Einigung und Eskalation.
 
+Mandatsbezug: EV ist vollzogen; Abmahner und Abgemahnter wollen Kosten und Risiken eines Hauptsacheverfahrens vermeiden. Oder: Abmahnung wurde zurückgewiesen; Anwalt muss entscheiden, ob er klagt oder verhandelt.
 
-## Fachlicher Zuschnitt
+## Grundstruktur: Vier Phasen
 
-- **Thema:** Operate.
-- **Arbeitsfokus:** Verhandlung, Vergleich und Eskalation.
-- **Plugin-Rahmen:** Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand un....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### Phase 1 – Sofortklärung (0–7 Tage nach Abmahnung/EV)
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+- Gegenseite meldet sich? Anwalt, Rechtsabteilung, Geschäftsführer direkt?
+- Erster Kontakt: Bereitschaft zur Einigung ausloten.
+- Klarstellen: Was kann die eigene Seite akzeptieren? Wo sind rote Linien?
+- Keine inhaltlichen Zugeständnisse im ersten Kontakt ohne Mandanteninstruktion.
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+### Phase 2 – Verhandlungsphase (7–30 Tage)
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Operate** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+- Schriftliche oder telefonische Verhandlung; Inhalte schriftlich bestätigen.
+- Verhandlungsposition klar definieren: Unterlassung, Schadensersatz, Kosten, Benutzung.
+- BATNA (Best Alternative to a Negotiated Agreement) kennen: Was ist die Alternative zur Einigung?
+- Verhandlungstaktik: Erste Offerte nicht zu eng setzen; Verhandlungsspielraum einplanen.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+### Phase 3 – Vergleichsabschluss
+
+- Vergleich außergerichtlich: Schriftlicher Vergleichsvertrag.
+- Vergleich gerichtlich: § 278 ZPO (Güterverhandlung) oder § 794 Abs. 1 Nr. 1 ZPO (Prozessvergleich mit Vollstreckungstitel).
+- Inhalte eines typischen IP-Vergleichs:
+  - Unterlassungspflicht mit Vertragsstrafe.
+  - Schadensersatz / Lizenzgebühr (pauschaler oder laufender Betrag).
+  - Kostenregelung.
+  - Freistellungsklausel (Schutz vor Ansprüchen Dritter).
+  - Geheimhaltungsklausel.
+  - Wirksamkeitsklausel bei Veränderung der Schutzrechtslage.
+
+### Phase 4 – Eskalation (wenn Einigung scheitert)
+
+- Entscheidung: Hauptsacheklage oder Abwarten?
+- Kostenkalkulation: Prozesskostenrisiko beider Seiten realistisch einschätzen.
+- Prozesschancen bewerten: Starke/schwache Position des Mandanten.
+- Zeitplanung: Hauptsacheverfahren dauert 1–3 Jahre; EV kann vorläufig sichern.
+
+## Verhandlungsstrategien im Detail
+
+### Strategie 1: Lizenzmodell
+
+Anstatt Unterlassung: Gegenseite erhält Lizenz gegen Gebühr.
+- Vorteile: Einnahmen für Schutzrechtsinhaber; kein Marktaustritt des Verletzers nötig.
+- Nachteile: Präzedenzfall; andere Verletzer können dieselbe Lösung verlangen.
+- FRAND-Problematik: Bei Standardessenziellen Patenten (SEP); faire, angemessene, nicht diskriminierende Bedingungen (Art. 102 AEUV).
+
+### Strategie 2: Vertragsstrafe statt Ordnungsgeld
+
+- Statt EV-Vollzug und Ordnungsmittelantrag: Abschlussvereinbarung mit individuell vereinbarter Vertragsstrafe.
+- Vertragsstrafe nach neuem Hamburger Brauch: Höhe nach billigem Ermessen, keine Obergrenze.
+- Vorteil: Gläubiger erhält Vertragsstrafe direkt (nicht an Staatskasse wie Ordnungsgeld).
+
+### Strategie 3: Vollständige Abschlussvereinbarung
+
+Nach vollzogener EV:
+- Schuldner erkennt Unterlassungspflicht als endgültig an.
+- Verzicht auf Widerspruch und Berufung.
+- Kostenregelung für EV-Verfahren.
+- Vertragsstrafe für Wiederholungsverstöße.
+- Schadensersatzfeststellung (falls bereits bezifferbar).
+
+### Strategie 4: Gegenseitiger Verzicht (Cross-License oder Coexistence)
+
+- Beide Seiten haben IP-Positionen.
+- Kreuzlizenz oder Koexistenzvereinbarung: Jeder darf nutzen, was er hat.
+- Territorial- oder produktbezogene Abgrenzung.
+
+## Vergleichsformulierungen (Bausteine)
+
+### Unterlassungsklausel
+
+```
+[Schuldner] verpflichtet sich gegenüber [Gläubiger], es mit sofortiger Wirkung
+zu unterlassen, [konkrete Handlung] im geschäftlichen Verkehr zu begehen.
+```
+
+### Vertragsstrafen-Klausel
+
+```
+Für jeden Fall der Zuwiderhandlung gegen die vorstehende Unterlassungspflicht
+verpflichtet sich [Schuldner], an [Gläubiger] eine Vertragsstrafe in Höhe von
+[Betrag] EUR zu zahlen. Die Höhe der Vertragsstrafe kann im Streitfall vom
+zuständigen Gericht überprüft werden.
+```
+
+### Schadensersatz-Klausel
+
+```
+[Schuldner] zahlt an [Gläubiger] einen pauschalen Schadensersatz in Höhe von
+[Betrag] EUR, mit dem alle Ansprüche für den Zeitraum bis [Datum] abgegolten sind.
+Weitergehende Ansprüche wegen fortgesetzter Verletzung nach diesem Datum bleiben
+unberührt.
+```
+
+### Kosten-Klausel
+
+```
+Die außergerichtlichen Kosten trägt jede Partei selbst. Die Kosten des
+Eilverfahrens (Az.: [Gericht, AZ]) werden gegeneinander aufgehoben. /
+Die Kosten des Eilverfahrens trägt [Partei].
+```
+
+## Eskalationspfad: Wenn Einigung scheitert
+
+| Schritt | Instrument | Zeitrahmen |
+|---|---|---|
+| Abschlussschreiben nicht beantwortet | Erinnerung + Fristsetzung | 1 Woche |
+| Widerspruch nach EV | Mündliche Verhandlung vorbereiten | 2–4 Wochen |
+| Widerspruch erfolglos | Berufung prüfen | 1 Monat (§ 517 ZPO) |
+| § 926 ZPO-Antrag des Schuldners | Hauptsacheklage einreichen | Gesetzt durch Gericht |
+| Verletzer verstößt weiter | Ordnungsmittelantrag § 890 ZPO | Sofort |
+
+## Typische Verhandlungsfehler
+
+- **Zu frühzeitiges Nachgeben:** Gegenseite lernt, dass man immer nachgibt.
+- **Keine BATNA:** Anwalt kennt nicht, was er tut, wenn Verhandlung scheitert.
+- **Keine Schriftlichkeit:** Mündliche Einigung ohne Vertrag; Beweisproblem.
+- **Kostenfrage vergessen:** Wer trägt Anwaltskosten des EV-Verfahrens? Nicht geklärt.
+- **Zu enger Unterlassungsumfang vereinbart:** Schuldner umgeht Formulierung mit kleiner Variation.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+- [§ 278 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/278.html)
+- [§ 890 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/890.html)
+- [§ 794 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/794.html)
+- FRAND / Art. 102 AEUV: [eur-lex.europa.eu](https://eur-lex.europa.eu); EuGH-Urteil Huawei/ZTE [curia.europa.eu](https://curia.europa.eu).
+- Keine BeckRS-Blindzitate; aktuelle Rechtsprechung zu Vertragsstrafen auf bgh.de.
+
+## Anschluss-Skills
+
+- `evvollzug-neu-007` – Abschlussschreiben nach EV
+- `evvollzug-neu-005` – Ordnungsmittelantrag
+- `unterlassungsverlangen` – Unterlassungserklärung
+- `spezial-freedom-schriftsatz-brief-und-memo-bausteine` – Vertragsbausteine

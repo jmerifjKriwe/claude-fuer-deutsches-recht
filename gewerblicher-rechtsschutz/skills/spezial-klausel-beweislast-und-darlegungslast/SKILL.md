@@ -1,48 +1,140 @@
 ---
 name: spezial-klausel-beweislast-und-darlegungslast
-description: "Klausel: Beweislast, Darlegungslast und Substantiierung im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Beweislast und Darlegungslast im gewerblichen Rechtsschutz: Wer muss was beweisen bei Marken-, Patent-, Design-, Urheber- und UWG-Verletzungen? Beweislastumkehr, sekundäre Darlegungslast, Beweiserleichterungen und praktische Konsequenzen."
 ---
 
-# Klausel: Beweislast, Darlegungslast und Substantiierung
+# Spezial: Klausel – Beweislast und Darlegungslast im IP-Recht
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `gewerblicher-rechtsschutz`. Ausgangspunkt ist: Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.
+## Zweck und Mandatsbezug
 
-Er führt durch **Beweislast, Darlegungslast und Substantiierung** im Themenfeld **Klausel**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill behandelt die **Beweislast- und Darlegungslastverteilung** im gewerblichen Rechtsschutz. Wer im IP-Verfahren muss welche Tatsachen beweisen? Wo gibt es gesetzliche Beweislastumkehrungen, sekundäre Darlegungslasten und Beweiserleichterungen? Diese Fragen sind entscheidend für die Vorbereitung von Klagen, Abwehrstrategien und Schriftsätzen.
 
+Mandatsbezug: Anwalt fragt: Muss ich beweisen, dass der Beklagte das Patent verletzt, oder muss der Beklagte beweisen, dass er es nicht verletzt? Mandant behauptet, keine Verletzung begangen zu haben – welche Mitwirkungspflichten bestehen?
 
-## Fachlicher Zuschnitt
+## Grundsatz der Beweislast
 
-- **Thema:** Klausel.
-- **Arbeitsfokus:** Beweislast, Darlegungslast und Substantiierung.
-- **Plugin-Rahmen:** Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand un....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### Allgemeiner Grundsatz
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+- Grundsatz im deutschen Zivilprozessrecht: **Wer eine Tatsache für sich in Anspruch nimmt, trägt die Beweislast** (actori incumbit probatio).
+- IP-Kläger trägt Beweislast für:
+  1. Schutzrecht (Existenz, Inhaberschaft, Gültigkeit).
+  2. Verletzungshandlung (Tatbestand, Zurechnung).
+  3. Schaden (bei Schadensersatzklage).
+- Beklagter trägt Beweislast für:
+  1. Rechtfertigungsgründe (Erschöpfung, Lizenz, Vorbenutzungsrecht).
+  2. Nichtverschulden (nur bei § 10 GeschGehG).
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+## Beweislast nach Rechtsgebieten
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Klausel** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+### Markenrecht
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+| Frage | Beweislast | Norm |
+|---|---|---|
+| Marke eingetragen und valide | Kläger | Registerauszug DPMA/EUIPO |
+| Ähnlichkeit / Verwechslungsgefahr | Kläger | Richterliche Beurteilung; Beweismittel: Gutachten, Umfrage |
+| Benutzung durch Beklagten | Kläger | Screenshot, Kaufbeleg, Zeuge |
+| Erschöpfung (§ 24 MarkenG) | Beklagter | Kaufbeleg mit EU-Herkunft |
+| Ernsthafte Benutzung (§ 26 MarkenG) | Markeninhaber bei Einrede | Rechnungen, Kataloge, Werbung |
+| Bekanntheitsschutz (§ 14 Abs. 2 Nr. 3) | Kläger | Marktumfrage, Umsatzdaten |
+
+**Sekundäre Darlegungslast:** Wenn Kläger plausible Darlegung liefert, muss Beklagter substantiiert widersprechen oder seine eigene Lieferkette darlegen.
+
+### Patentrecht
+
+| Frage | Beweislast | Norm / Norm |
+|---|---|---|
+| Patent eingetragen, Anspruch identifiziert | Kläger | Patentrolle, Patentschrift |
+| Patentverletzung (wortsinngemäß) | Kläger | Technisches Gutachten |
+| Äquivalenz-Verletzung | Kläger | Sachverständigengutachten |
+| Vorbenutzungsrecht (§ 12 PatG) | Beklagter | Entwicklungsunterlagen, Zeugen |
+| Zwangslizenz (§ 24 PatG) | Lizenzsucher | FRAND-Bereitschaft nachweisen |
+| Nichteinhaltung ArbnErfG | Arbeitnehmer/Arbeitgeber | Meldung, Inanspruchnahmeerklärung |
+
+**Wichtig:** BGH hat bei Patentprozessen hohe Anforderungen an technisches Gutachten; Scheingenauigkeit vermeiden. Bei äquivalenter Verletzung: Drei-Stufen-Test (BGH „Schneidmesser").
+
+**Besonderheit Verfahrenspatent (§ 139 Abs. 3 PatG):**
+- Verfahrenspatent + Herstellung gleichen Erzeugnisses → **Beweislastumkehr**: Beklagter muss beweisen, dass er ein anderes Verfahren verwendet.
+
+### Designrecht
+
+| Frage | Beweislast |
+|---|---|
+| Design eingetragen und valide | Kläger |
+| Übereinstimmung / Ähnlichkeit | Richterliche Beurteilung; ggf. Gutachten |
+| Neuheit / Eigenart (bei Angriff) | Angreifer (bei Nichtigkeitsklage) |
+| Informierter Benutzer | Richterliche Beurteilung |
+
+### Urheberrecht
+
+| Frage | Beweislast |
+|---|---|
+| Werkqualität | Kläger; bei kreativem Werk oft offensichtlich |
+| Urheberschaft | Kläger; Vermutung nach § 10 UrhG (Namensvermutung) |
+| Vervielfältigung ohne Lizenz | Kläger (Zugänglichkeit + fehlende Lizenz) |
+| Schöpfungshöhe (§ 2 Abs. 2 UrhG) | Kläger; besonders bei Computerprogrammen |
+| Schadenshöhe (Lizenzanalogie) | Kläger; Schätzung nach § 287 ZPO |
+
+**Besonderheit Filesharing:** BGH-Rechtsprechung zu sekundärer Darlegungslast des Anschlussinhabers (BGH „Sommer unseres Lebens"; „BearShare"); Anschlussinhaber muss Haushaltsangehörige benennen.
+
+### UWG
+
+| Frage | Beweislast |
+|---|---|
+| Mitbewerbereigenschaft | Kläger |
+| Spürbarkeit | Kläger |
+| Irreführung (§ 5 UWG) | Kläger; aber: Verkehrsauffassung durch Richter |
+| Rechtsbruch (§ 3a UWG) | Kläger |
+| Wiederholungsgefahr | Wird vermutet nach erstmaliger Verletzung |
+| Erstbegehungsgefahr | Kläger |
+
+## Beweiserleichterungen
+
+### § 287 ZPO – Schadensschätzung
+
+- Gericht kann Schadenshöhe schätzen.
+- Anwendung im IP-Recht bei Lizenzanalogie: Kläger muss nur Grundlage liefern; Höhe schätzt Gericht.
+- BGH: Schätzung auch bei dürftiger Tatsachengrundlage zulässig.
+
+### Anscheinsbeweis (prima facie)
+
+- Bei typischen Geschehensabläufen: Beweis durch Lebenserfahrung.
+- Z.B.: Patent verletzt, Beklagter vertreibt technisch identisches Produkt → Anschein der Verletzung.
+
+### Sekundäre Darlegungslast
+
+- Wenn Kläger Tatsachen aus Sphäre des Beklagten darlegen muss, die ihm nicht zugänglich sind.
+- Beklagter muss dann substantiiert widersprechen.
+- Beispiel: Lieferkette, interne Prozesse, Produktionsverfahren.
+
+## Beweismittel im IP-Recht
+
+| Beweismittel | Typischer Einsatz | Beweiswert |
+|---|---|---|
+| Eidesstattliche Versicherung | EV-Verfahren (Glaubhaftmachung § 920 ZPO) | Mittel (kein Kreuzwerhör) |
+| Urkunde (Registerauszug) | Schutzrecht, Priorität | Hoch |
+| Zeuge | Verletzungshandlung, Erstkenntnis | Mittel |
+| Sachverständigengutachten | Technische Patentverletzung; Verwechslungsgefahr | Hoch |
+| Augenschein (Produkt, Screenshot) | Verletzungsprodukt | Mittel |
+| Parteivernehmung | Entscheidungsfälle | Gering |
+| Testkauf | UWG, Marke | Mittel-Hoch |
+
+## Typische Beweisfallen
+
+- **Keine eidesstattliche Versicherung:** EV-Antrag ohne Glaubhaftmachung; abgewiesen.
+- **Registerauszug veraltet:** DPMA/EUIPO-Auszug > 3 Monate; Gericht akzeptiert nicht.
+- **Screenshot ohne Metadaten:** Datum und URL fehlen; Beweiskraft zweifelhaft.
+- **Sachverständiger ohne Fachkunde:** Gutachten wird nicht verwertet.
+- **Sekundäre Darlegungslast ignoriert:** Beklagter schweigt; Gericht wertet das gegen ihn.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+- [§ 139 PatG Abs. 3 – dejure.org](https://dejure.org/gesetze/PatG/139.html)
+- [§ 10 UrhG – dejure.org](https://dejure.org/gesetze/UrhG/10.html)
+- BGH-Rechtsprechung: [bgh.de](https://www.bundesgerichtshof.de); Entscheidungen mit Gericht, Datum, AZ.
+- Keine BeckRS-Blindzitate; Rechtsprechung nur mit verifizierbarer Quelle.
+
+## Anschluss-Skills
+
+- `spezial-rechtsschutz-tatbestand-beweis-und-belege` – Tatbestand und Beleglage
+- `verletzungs-triage` – Erstentscheidung IP-Verletzung
+- `gewr-einstweilige-verfuegung-eilverfahren-spezial` – EV-Antrag und Glaubhaftmachung

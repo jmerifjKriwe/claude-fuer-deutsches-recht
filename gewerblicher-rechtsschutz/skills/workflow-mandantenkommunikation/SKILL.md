@@ -1,35 +1,195 @@
 ---
 name: workflow-mandantenkommunikation
-description: "Mandantenkommunikation im Plugin gewerblicher-rechtsschutz: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten."
+description: "Mandantenkommunikation im gewerblichen Rechtsschutz: strukturierte Kommunikation in IP-Mandaten – Erstinformation, Statusupdates, Entscheidungsvorlagen, Kostenhinweise und Abschlussberichte. Templates und Tonalitätsregeln für Kanzlei und Rechtsabteilung."
 ---
 
-# Mandantenkommunikation
+# Workflow: Mandantenkommunikation
 
-## Aufgabe
-Dieser Workflow-Skill für `gewerblicher-rechtsschutz` Mandantenkommunikation im Plugin gewerblicher-rechtsschutz: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+## Zweck
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+Dieser Skill strukturiert die **Kommunikation mit Mandanten** in IP- und Wettbewerbsschutzmandaten. Er liefert Templates und Tonalitätsregeln für alle typischen Kommunikationssituationen – von der Erstinformation bis zum Abschlussbericht.
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+Mandatsbezug: Anwalt hat EV-Antrag vorbereitet und muss Mandanten informieren. Kanzlei sendet wöchentlichen Statusbericht. Rechtsabteilungsleiterin braucht Vorlage für Vorstandsbericht zu laufenden IP-Verfahren.
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+## Grundsätze der IP-Mandantenkommunikation
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+### Prinzip 1 – Ergebnis zuerst
+
+- Nie lange Vorreden; Mandant will zuerst wissen: Was bedeutet das für mich?
+- Dann: Begründung, Details, Optionen.
+- BLUF-Methode: Bottom Line Up Front.
+
+### Prinzip 2 – Fristen explizit
+
+- Jede Kommunikation, in der eine Frist relevant ist, muss die Frist fett/kursiv hervorheben.
+- Datum, Uhrzeit (falls relevant) und Konsequenz bei Versäumnis.
+
+### Prinzip 3 – Optionen nennen, Empfehlung geben
+
+- Nie nur eine Möglichkeit; mindestens zwei Optionen mit Kosten und Risiken.
+- Eigene Empfehlung mit Begründung.
+
+### Prinzip 4 – Keine Scheingenauigkeit
+
+- Keine konkreten Prozentzahlen für Erfolgswahrscheinlichkeit, wenn keine Grundlage.
+- Stattdessen: „Gute Erfolgsaussichten", „Risikobehafteter Fall", „Offene Rechtsfrage".
+
+### Prinzip 5 – Mandant entscheidet, Anwalt berät
+
+- Entscheidung liegt beim Mandanten; Anwalt gibt Empfehlung.
+- Mandantenentscheidung schriftlich bestätigen lassen.
+
+## Kommunikations-Templates
+
+### Template 1 – Erstinformation nach Mandatsannahme
+
+```
+Betr.: [Sachbetreff] – Erstinformation
+
+Sehr geehrte/r [Herr/Frau X],
+
+wir haben Ihr Mandat angenommen und werden Sie in der Angelegenheit
+[kurze Beschreibung] vertreten.
+
+SITUATION (Stand [Datum]):
+[2–3 Sätze zur Ausgangslage]
+
+NÄCHSTER SCHRITT:
+[Konkrete Handlung, z.B. „Abmahnung wird bis [Datum] versandt"]
+
+WICHTIGE FRIST:
+[Datum] – [Beschreibung der Frist und Konsequenz bei Versäumnis]
+
+ZU IHRER KENNTNIS:
+- Unsere Kosten für diesen Schritt: ca. [Betrag] EUR zzgl. MwSt.
+- Für Rückfragen erreichen Sie mich unter [Kontakt].
+
+Mit freundlichen Grüßen
+[Anwalt]
+```
+
+### Template 2 – Statusbericht (laufendes Verfahren)
+
+```
+Betr.: [Sachbetreff] – Statusbericht [Datum]
+
+Sehr geehrte/r [Herr/Frau X],
+
+kurzer Statusbericht zum aktuellen Stand:
+
+WAS IST PASSIERT:
+[1–3 Sätze, was sich seit letztem Bericht getan hat]
+
+WO STEHEN WIR:
+[Aktueller Verfahrensstand; z.B. „EV erlassen, Vollzug läuft"]
+
+OFFENE PUNKTE:
+[Was noch unklar oder in Bearbeitung ist]
+
+NÄCHSTER SCHRITT:
+[Was als nächstes passiert und bis wann]
+
+FRIST: [Datum und Beschreibung]
+
+[Unterschrift]
+```
+
+### Template 3 – Entscheidungsvorlage
+
+```
+Betr.: [Sachbetreff] – Bitte um Entscheidung bis [Datum]
+
+Sehr geehrte/r [Herr/Frau X],
+
+wir bitten um Ihre Entscheidung zu folgendem Punkt:
+
+SITUATION:
+[Kurze Darstellung des Problems]
+
+OPTIONEN:
+A) [Option A] – Kosten ca. [Betrag]; Risiko: [kurz]
+B) [Option B] – Kosten ca. [Betrag]; Risiko: [kurz]
+
+UNSERE EMPFEHLUNG: Option [A/B], weil [kurze Begründung]
+
+BITTE ENTSCHEIDEN SIE BIS: [Datum]
+(Bei Fristversäumnis: [Konsequenz])
+
+□ Option A  □ Option B  □ Rücksprache gewünscht
+
+[Unterschrift]
+```
+
+### Template 4 – Abschlussinfo nach erfolgreichem EV-Vollzug
+
+```
+Betr.: [Sachbetreff] – Einstweilige Verfügung vollzogen
+
+Sehr geehrte/r [Herr/Frau X],
+
+wir freuen uns, Ihnen mitteilen zu können, dass die einstweilige Verfügung
+des [Gericht] vom [Datum] dem Antragsgegner [Name] am [Datum] durch
+Gerichtsvollzieher zugestellt wurde (Anlage: Zustellurkunde).
+
+NÄCHSTER SCHRITT:
+Der Antragsgegner hat nun die Möglichkeit, Widerspruch einzulegen.
+Wir werden die Lage beobachten und Sie über die Entwicklung informieren.
+In ca. [Zeitraum] werden wir ein Abschlussschreiben an den Antragsgegner
+senden, um die Angelegenheit dauerhaft zu klären.
+
+BEI EINEM VERSTOSS GEGEN DIE VERFÜGUNG:
+Bitte informieren Sie uns sofort, wenn Sie feststellen, dass der Antragsgegner
+gegen die Unterlassungspflicht verstößt. Wir können dann Ordnungsgeld beantragen.
+
+KOSTEN: [Bisherige Kosten; zu erwartende weitere Kosten]
+
+[Unterschrift]
+```
+
+### Template 5 – Kostenhinweis bei Eskalation
+
+```
+Betr.: [Sachbetreff] – Kostenhinweis Hauptsacheklage
+
+Sehr geehrte/r [Herr/Frau X],
+
+Sie haben entschieden, Hauptsacheklage zu erheben. Bitte nehmen Sie die
+folgende Kostenübersicht zur Kenntnis:
+
+Streitwert: ca. [Betrag] EUR
+Gerichtskosten Vorschuss: ca. [Betrag] EUR
+Anwaltskosten (1,3 Verfahrensgebühr): ca. [Betrag] EUR
+Anwaltskosten (1,2 Terminsgebühr): ca. [Betrag] EUR
+Gesamt (erste Instanz): ca. [Betrag] EUR
+
+Bei Obsiegen: Kostenstattung ca. [Betrag] EUR
+Bei Niederlage: Kostentragung ca. [Betrag] EUR (eigene + gegnerische Kosten)
+
+Bitte bestätigen Sie die Klageerhebung mit Ihrer Unterschrift.
+
+□ Ich bestätige die Erhebung der Hauptsacheklage und nehme das Kostenrisiko zur Kenntnis.
+
+[Unterschrift]
+```
+
+## Tonalitätsregeln
+
+| Situation | Ton | Beispiel |
+|---|---|---|
+| Erfolgsmeldung (EV erlassen) | Professionell, sachlich | „Die EV wurde antragsgemäß erlassen" |
+| Risiko-Hinweis | Klar, ohne Alarm | „Es besteht ein Kostenrisiko von ca. X EUR" |
+| Niederlage | Sachlich, mit Ausblick | „Das Gericht hat den Antrag abgelehnt; wir prüfen Rechtsmittel" |
+| Mandant ist aufgeregt | Beruhigend, aber klar | „Wir haben die Situation im Griff; nächster Schritt ist..." |
+| Termindruck | Direkt | „WICHTIG: Frist endet am [Datum]" |
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
+
+- Keine externen Quellen für diesen Kommunikationsskill.
+- Kosten immer nach aktuellem RVG und GKG berechnen; [gesetze-im-internet.de/rvg](https://www.gesetze-im-internet.de/rvg/).
+- Keine Pauschalgebührenangaben ohne Streitwert-Grundlage.
+
+## Anschluss-Skills
+
+- `spezial-compliance-mandantenkommunikation-entscheidungsvorlage` – Entscheidungsvorlagen
+- `workflow-output-waehlen` – Output-Format wählen
+- `workflow-fristen-und-risikoampel` – Fristencheck

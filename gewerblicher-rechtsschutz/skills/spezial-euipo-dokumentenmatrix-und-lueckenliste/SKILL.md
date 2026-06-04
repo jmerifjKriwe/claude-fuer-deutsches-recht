@@ -1,48 +1,121 @@
 ---
 name: spezial-euipo-dokumentenmatrix-und-lueckenliste
-description: "Euipo: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "EUIPO-Verfahren: Dokumentenmatrix und Lückenliste für Unionsmarken-Anmeldung, Widerspruch, Nichtigkeitsantrag und Beschwerde. Welche Dokumente wann eingereicht werden müssen, was häufig fehlt und wie Lücken rechtzeitig geschlossen werden."
 ---
 
-# Euipo: Dokumentenmatrix, Lückenliste und Nachforderung
+# Spezial: EUIPO – Dokumentenmatrix und Lückenliste
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `gewerblicher-rechtsschutz`. Ausgangspunkt ist: Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.
+## Zweck und Mandatsbezug
 
-Er führt durch **Dokumentenmatrix, Lückenliste und Nachforderung** im Themenfeld **Euipo**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill liefert eine **vollständige Dokumentenmatrix für EUIPO-Verfahren** – Unionsmarkenanmeldung, Widerspruch, Nichtigkeitsantrag und Beschwerdeverfahren. Er hilft dabei, vollständige Akten zusammenzustellen, Dokumentenlücken rechtzeitig zu erkennen und fristgerechte Einreichungen zu sichern.
 
+Mandatsbezug: Anwalt bereitet EUIPO-Widerspruch vor und fragt: Welche Dokumente muss ich einreichen? Was passiert, wenn ein Beleg fehlt? Mandant hat eine Unionsmarke erhalten und wird nun vor dem EUIPO mit einem Nichtigkeitsantrag konfrontiert.
 
-## Fachlicher Zuschnitt
+## EUIPO-Überblick
 
-- **Thema:** Euipo.
-- **Arbeitsfokus:** Dokumentenmatrix, Lückenliste und Nachforderung.
-- **Plugin-Rahmen:** Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand un....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+- **Sitz:** Alicante, Spanien
+- **Website:** [euipo.europa.eu](https://www.euipo.europa.eu)
+- **Online-Portal:** eSearch Plus (Recherche), eFiling (Einreichung)
+- **Verfahrenssprache:** Eine der fünf Sprachen (Deutsch, Englisch, Französisch, Spanisch, Italienisch); zweite Sprache nach Wahl aus diesen fünf.
+- **Rechtsnormen:** VO (EU) 2017/1001 (EUTMR), DurchführungsVO (EU) 2018/626.
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+## Dokumentenmatrix: Unionsmarkenanmeldung
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+| Dokument | Pflicht / Optional | Hinweise |
+|---|---|---|
+| Antragsformular (eFiling) | Pflicht | Online über euipo.europa.eu/eFiling |
+| Zeichenabbildung | Pflicht | jpg, png mind. 800x800 Pixel; bei 3D: bis 5 Ansichten |
+| Waren-/Dienstleistungsverzeichnis | Pflicht | TMclass für korrekte Klassifizierung nutzen |
+| Anmeldegebühr | Pflicht | 850 EUR (1 Klasse); + 50 EUR (2. Klasse); + 150 EUR (ab 3. Klasse) |
+| Prioritätsnachweis | Falls Priorität beansprucht | Beglaubigte Kopie Voranmeldung; innerhalb 3 Monate |
+| Ausstellungspriorität | Falls zutreffend | Nachweis Messeteilnahme; innerhalb 6 Monate |
+| Beglaubigte Übersetzung | Bei nicht-EU-Sprache | Dokumente in EUIPO-Sprache oder beglaubigte Übersetzung |
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Euipo** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+**Häufige Lücken:**
+- Zeichenabbildung zu klein oder unscharf → EUIPO fordert Nachbesserung mit Frist.
+- Klassifizierung unvollständig → EUIPO schlägt Korrekturen vor.
+- Prioritätsfrist 3 Monate versäumt → Priorität geht verloren.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+## Dokumentenmatrix: Unionsmarken-Widerspruch
+
+| Dokument | Pflicht / Optional | Frist |
+|---|---|---|
+| Widerspruchsformular | Pflicht | 3 Monate ab Veröffentlichung (Art. 46 EUTMR) |
+| Widerspruchsgebühr | Pflicht | 320 EUR; ohne Zahlung: Widerspruch unwirksam |
+| Nachweis älteres Recht | Pflicht (im Substantiierungsverfahren) | Innerhalb vom EUIPO gesetzter Frist |
+| Registerauszug ältere Marke | Pflicht | EUIPO-Auszug oder nationaler Auszug |
+| Benutzungsnachweis | Falls ältere Marke > 5 Jahre eingetragen | Auf Aufforderung des Inhabers |
+| Übersetzungen | Soweit nötig | In Verfahrenssprache |
+| Begründung | Pflicht (Substantiierung) | Innerhalb Kühlschrankfrist (2 Monate nach Ende Widerspruchsfrist) |
+
+**Häufige Lücken:**
+- Ältere Marke hat Eintragungsdatum > 5 Jahre → Benutzungsnachweis nicht vorbereitet.
+- Begründung zu pauschal → EUIPO setzt Frist zur Verbesserung.
+- Registerauszug veraltet (> 3 Monate alt) → EUIPO akzeptiert nicht.
+
+### Benutzungsnachweis – Detailliste
+
+Bei älterer Marke mit > 5 Jahren Eintragung verlangt der Markeninhaber Benutzungsnachweis:
+- Rechnungen mit Datumsangabe und Warenbezug.
+- Produktkataloge, Werbematerial (mit Datierung).
+- eidesstattliche Versicherung mit Umsatzangaben je Jahr.
+- Onlinepräsenz-Belege (Screenshots mit Datum, Domain-Registrierungsdaten).
+- Zeitraum: Letzte 5 Jahre vor Einreichung des Widerspruchs.
+
+## Dokumentenmatrix: Unionsmarken-Nichtigkeitsantrag
+
+| Dokument | Pflicht / Optional | Hinweise |
+|---|---|---|
+| Antrag auf Erklärung der Nichtigkeit | Pflicht | eFiling |
+| Antragsgebühr | Pflicht | 1.080 EUR (relative Gründe), 630 EUR (absolute Gründe) |
+| Nachweis älteres Recht | Pflicht (bei rel. Gründen) | Registerauszug |
+| Begründung | Pflicht | Darlegung der Nichtigkeitsgründe |
+| Beweismittel | Pflicht | Abhängig vom Nichtigkeitsgrund |
+| Benutzungsnachweis älteres Recht | Falls > 5 Jahre eingetragen | Auf Aufforderung |
+
+**Nichtigkeitsgründe:**
+- **Absolute Gründe (Art. 59 EUTMR):** Keine Unterscheidungskraft, Beschreibung, Bösgläubigkeit.
+- **Relative Gründe (Art. 60 EUTMR):** Ältere Marke, älteres Recht.
+
+## Dokumentenmatrix: Beschwerde vor Beschwerdekammer
+
+| Dokument | Frist | Inhalt |
+|---|---|---|
+| Beschwerdeschrift | 2 Monate ab Zustellung der angefochtenen Entscheidung | Identifikation der angefochtenen Entscheidung |
+| Beschwerdebegründung | 4 Monate ab Zustellung | Vollständige rechtliche und tatsächliche Begründung |
+| Beschwerdegebühr | Mit Einreichung | 720 EUR (Widerspruch/Nichtigkeitsverfahren) |
+| Neue Beweismittel | Begründet zulässig | EUIPO-Grundsatz: Keine nova; Ausnahmen |
+
+## Fristen-Übersicht EUIPO
+
+| Frist | Verfahren | Dauer |
+|---|---|---|
+| Widerspruchsfrist | Nach Veröffentlichung Unionsmarke | 3 Monate |
+| Substantiierungsfrist | Nach Ende Widerspruchsfrist | 2 Monate (+ Verlängerung möglich) |
+| Beschwerde-Einlegung | Nach Entscheidung | 2 Monate |
+| Beschwerde-Begründung | Nach Entscheidung | 4 Monate |
+| Benutzungsnachweis | Auf Aufforderung des Inhabers | Gesetzt vom EUIPO (i.d.R. 2 Monate) |
+| Verlängerung Unionsmarke | Vor Ablauf der 10-Jahresfrist | 6-Monats-Puffer nach Ablauf (mit Zuschlag) |
+
+## Lückenliste: Was fehlt häufig?
+
+1. **Registerauszug zu alt:** EUIPO akzeptiert nur aktuelle Auszüge (i.d.R. < 3 Monate).
+2. **Benutzungsnachweis unvollständig:** Zu wenige Belege; kein klarer Warenbezug.
+3. **Übersetzung fehlt:** Nicht-EU-Dokumente ohne beglaubigte Übersetzung.
+4. **Vollmacht:** Bei erstmaliger Vertretung durch neuen Anwalt; ggf. EUIPO-Bevollmächtigten eintragen.
+5. **Prioritätsnachweis zu spät:** Frist 3 Monate ab Anmeldedatum; nicht nachholbar.
+6. **Zeichenabbildung ungeeignet:** Bei Farbmarke: Farbangabe nach Pantone/RGB erforderlich.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+- VO (EU) 2017/1001 (EUTMR): [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32017R1001)
+- EUIPO-Leitlinien: [euipo.europa.eu/en/trade-marks/trade-mark-guidelines](https://www.euipo.europa.eu/en/trade-marks/trade-mark-guidelines)
+- EUIPO eFiling: [euipo.europa.eu](https://www.euipo.europa.eu)
+- Keine BeckRS-Blindzitate; aktuelle Gebühren und Fristen über EUIPO-Website prüfen.
+
+## Anschluss-Skills
+
+- `spezial-dpma-fristen-form-und-zustaendigkeit` – DPMA-Verfahren
+- `spezial-anmeldung-behoerden-gericht-und-registerweg` – Behördenübersicht
+- `gewr-markenanmeldung-bauleiter` – Markenanmeldung Bauleiter
+- `markenrecherche` – Kollisionsrecherche vor Anmeldung

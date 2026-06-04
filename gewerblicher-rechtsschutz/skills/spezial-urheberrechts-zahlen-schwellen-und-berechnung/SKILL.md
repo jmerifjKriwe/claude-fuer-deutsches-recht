@@ -1,48 +1,125 @@
 ---
 name: spezial-urheberrechts-zahlen-schwellen-und-berechnung
-description: "Urheberrechts: Zahlen, Schwellenwerte und Berechnung im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Urheberrecht: Zahlen, Schwellen und Berechnungen. Schöpfungshöhe, Schutzfristen (70 Jahre p.m.a.), Lizenzanalogie, Filesharing-Schadensersatz, Vergütungsansprüche nach VGG/GEMA und typische Streitwert- und Schadensberechnung."
 ---
 
-# Urheberrechts: Zahlen, Schwellenwerte und Berechnung
+# Spezial: Urheberrecht – Zahlen, Schwellen und Berechnung
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `gewerblicher-rechtsschutz`. Ausgangspunkt ist: Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.
+## Zweck und Mandatsbezug
 
-Er führt durch **Zahlen, Schwellenwerte und Berechnung** im Themenfeld **Urheberrechts**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill behandelt die **quantitativen Aspekte des Urheberrechts** – Schutzfristen, Schöpfungshöhe, Schadensberechnungen, Lizenzanalogie und typische Streitwerte. Diese Zahlen und Schwellen sind in der Praxis entscheidend für die Bewertung eines Falls, die Formulierung einer Abmahnung und die Bezifferung von Schadensersatzforderungen.
 
+Mandatsbezug: Mandant fragt: Wie viel Schadensersatz kann ich verlangen? Oder: Fotografin wurde abgemahnt, weil ein Blogbetreiber ihr Bild verwendet hat – was kostet das typischerweise?
 
-## Fachlicher Zuschnitt
+## Schutzdauer (§§ 64–69 UrhG)
 
-- **Thema:** Urheberrechts.
-- **Arbeitsfokus:** Zahlen, Schwellenwerte und Berechnung.
-- **Plugin-Rahmen:** Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand un....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+| Werkart | Schutzdauer | Berechnung |
+|---|---|---|
+| Allgemein (§ 64 UrhG) | 70 Jahre nach Tod des Urhebers (p.m.a.) | Ablauf am Ende des Todesjahres + 70 |
+| Filmwerk (§ 65 Abs. 2 UrhG) | 70 Jahre nach Tod des letztverstorbenen Hauptbeteiligten | Regisseur, Drehbuchautor, Komponist |
+| Anonymes/pseudonymes Werk (§ 66 UrhG) | 70 Jahre nach Veröffentlichung | Wenn Urheber unbekannt bleibt |
+| Lichtbild (nicht Lichtbildwerk) (§ 72 UrhG) | 50 Jahre nach Veröffentlichung | Einfacher Schutz ohne Schöpfungshöhe |
+| Tonträgerhersteller (§ 85 UrhG) | 70 Jahre nach Veröffentlichung | Leistungsschutzrecht |
+| Filmhersteller (§ 94 UrhG) | 50 Jahre nach Veröffentlichung | Leistungsschutzrecht |
+| Presseverleger (§ 87f UrhG) | 1 Jahr nach Veröffentlichung | Leistungsschutzrecht (sehr kurz) |
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+**Berechnung:** Frist läuft bis Ende des Jahres (§ 69 UrhG); 70 Jahre p.m.a. eines 1950 verstorbenen Urhebers: Schutz bis 31.12.2020.
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+## Schöpfungshöhe (§ 2 Abs. 2 UrhG)
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Urheberrechts** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+### Anforderungen
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+- **Allgemein:** Persönliche geistige Schöpfung; eigene schöpferische Gestaltung.
+- **Kleine Münze:** Mindestmaß individueller Prägung ausreichend; BGH hält Anforderungen niedrig.
+- **Rein technische Leistungen:** Kein Urheberrecht (z.B. rein maschinell generierter Text).
+- **Handwerksleistungen:** Umstritten; BGH: auch handwerkliche Routineleistungen können Schöpfungshöhe erreichen.
+
+### Werkarten und Schöpfungshöhen-Praxis
+
+| Werkart | Schöpfungshöhe | Beispiel |
+|---|---|---|
+| Literarisches Werk | Gering bis mittel | Kurztext mit individuellem Ausdruck ausreichend |
+| Computerprogramm (§ 69a UrhG) | Niedrig | BGH: Eigenentwicklung ausreicht; keine besondere Kreativität nötig |
+| Lichtbildwerk (§ 2 Abs. 1 Nr. 5) | Mittel | Eigene Bildkomposition, Licht, Perspektive |
+| Lichtbild (§ 72 UrhG) | Keine Schöpfungshöhe nötig | Einfacher Schutz für alle Fotos |
+| Datenbankwerk (§ 4 UrhG) | Mittel | Auswahl und Anordnung individuell |
+| Datenbankherstellerrecht (§ 87a UrhG) | Kein Schöpfungserfordernis | Investitionsschutz |
+
+## Schadensberechnung (§ 97 Abs. 2 UrhG)
+
+### Drei Berechnungsmethoden
+
+**1. Tatsächlicher Schaden (§ 97 Abs. 2 Satz 1 UrhG):**
+- Entgangener Gewinn + eigener Schaden.
+- Schwer bezifferbar; selten praktisch.
+
+**2. Lizenzanalogie (§ 97 Abs. 2 Satz 3 UrhG):**
+- Was hätte der Verletzer zahlen müssen, wenn er eine Lizenz erworben hätte?
+- Üblichste Methode in der Praxis.
+- Orientierung: GEMA-Tarife, MFM-Bildhonorar-Empfehlungen, Branchenüblichkeit.
+
+**3. Gewinnherausgabe (§ 97 Abs. 2 Satz 2 UrhG):**
+- Herausgabe des Verletzergewinns, der kausal auf Verletzung beruht.
+- Streitig bei mehrstufiger Nutzung.
+
+### Lizenzanalogie in der Praxis
+
+| Werkart | Typische Ansätze | Quelle |
+|---|---|---|
+| Fotografie | MFM-Empfehlungen; 150–1.500 EUR je Bild | [mfm.de](https://www.mfm.de) |
+| Musik (Online) | GEMA-Online-Tarife | [gema.de](https://www.gema.de) |
+| Text (Blog/Website) | Keine offizielle Tabelle; ca. 1–5 EUR/Wort | Branchenpraxis |
+| Software | Lizenzgebühren vergleichbarer Software | Sachverständigengutachten |
+| Foto (fehlende Nennung Urheber) | Verdoppelung der Lizenz (BGH-Rechtsprechung) | Bgh.de |
+
+**Urheberrechtsvermerk vergessen:** BGH hat Verdoppelung der Lizenzgebühr bei fehlender Urhebernennung bestätigt (§ 13 UrhG-Verletzung).
+
+## Filesharing-Schadensersatz
+
+### Bereinigte Streitwerte und Schadensersatz nach BGH-Rechtsprechung
+
+| Kriterium | BGH-Praxis |
+|---|---|
+| Streitwert Unterlassung | 1.000–10.000 EUR je Werk; typisch 2.500–3.000 EUR (nach BGH „BearShare" 2014) |
+| Schadensersatz Filesharing | BGH: 200 EUR je musikfremder Titel als Mindestsatz (BGH 2016); höhere Beträge möglich |
+| Abmahnkostendeckelung Privat | § 97a Abs. 3 UrhG: max. 178 EUR Erstattung bei Privatperson; bei erstmaliger Abmahnung |
+| Abmahnkostendeckelung greift nur | Wenn: Privat, Erstverstoß, keine gewerbliche Tätigkeit | |
+
+**Berechnung Anwaltskosten-Erstattung (privater Bereich):**
+- Streitwert 2.500 EUR + RVG: 1,3 Geschäftsgebühr.
+- Deckelung auf 178 EUR nach § 97a Abs. 3 UrhG bei Privatperson, erstmaliger Abmahnung.
+
+## Vergütungsansprüche (VGG – Verwertungsgesellschaftengesetz)
+
+| Organisation | Bereich | Ansprüche |
+|---|---|---|
+| GEMA | Musik (Komponist, Texter, Verleger) | Rundfunk, Online, Live |
+| VG Wort | Text (Autoren, Verleger) | Pauschalabgaben, Geräteabgaben |
+| VG Bild-Kunst | Bildende Kunst, Foto, Design | Ausstellungen, Reproduktionen |
+| GVL | Tonträgerhersteller, ausübende Künstler | Rundfunk, Online |
+| GVLI | Filmhersteller | – |
+
+**VGG (Verwertungsgesellschaftengesetz):** Regelt Aufgaben, Rechte und Pflichten von Verwertungsgesellschaften. [gesetze-im-internet.de/vgg](https://www.gesetze-im-internet.de/vgg/)
+
+## Schätzung nach § 287 ZPO
+
+- Wenn exakte Berechnung nicht möglich: Gericht schätzt.
+- Kläger muss Grundlagen liefern (Anhaltspunkte, Tabellen, Sachverständigengutachten).
+- BGH: Auch bei dürftiger Grundlage Schätzung möglich; kein Klageabweisung wegen Unberechenbarkeit.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+- [§ 97 UrhG – dejure.org](https://dejure.org/gesetze/UrhG/97.html)
+- [§ 97a UrhG – dejure.org](https://dejure.org/gesetze/UrhG/97a.html)
+- [§ 64 UrhG – dejure.org](https://dejure.org/gesetze/UrhG/64.html)
+- UrhG vollständig: [gesetze-im-internet.de/urhg](https://www.gesetze-im-internet.de/urhg/)
+- MFM-Bildhonorarempfehlungen: [mfm.de](https://www.mfm.de)
+- BGH-Rechtsprechung zum Filesharing-Schadensersatz: [bgh.de](https://www.bundesgerichtshof.de); Gericht, Datum, AZ angeben.
+- Keine BeckRS-Blindzitate; konkrete Schadensangaben immer mit aktuellem Quellennachweis.
+
+## Anschluss-Skills
+
+- `abmahnung-urheberrecht` – Urheberrechtliche Abmahnung
+- `spezial-klausel-beweislast-und-darlegungslast` – Beweislast Urheberrecht
+- `spezial-rechtsschutz-tatbestand-beweis-und-belege` – Tatbestand Urheberrecht
+- `verletzungs-triage` – IP-Verletzung Erstentscheidung

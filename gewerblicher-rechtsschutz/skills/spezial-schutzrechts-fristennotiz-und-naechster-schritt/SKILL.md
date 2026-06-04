@@ -1,48 +1,178 @@
 ---
 name: spezial-schutzrechts-fristennotiz-und-naechster-schritt
-description: "Schutzrechts: Fristennotiz und nächster Schritt im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Schutzrechts-Fristennotiz und nächster Schritt: Schnellerfassung aller relevanten Fristen bei einem IP-Mandat, sofortige Bewertung der Handlungsdringlichkeit und konkreter nächster Schritt für Anwalt und Mandant."
 ---
 
-# Schutzrechts: Fristennotiz und nächster Schritt
+# Spezial: Schutzrechts-Fristennotiz und nächster Schritt
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `gewerblicher-rechtsschutz`. Ausgangspunkt ist: Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.
+## Zweck und Mandatsbezug
 
-Er führt durch **Fristennotiz und nächster Schritt** im Themenfeld **Schutzrechts**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill erstellt eine **sofort nutzbare Fristennotiz** für ein konkretes IP-Mandat und benennt den nächsten Schritt. Er ist das schnellste Werkzeug, um bei einem neuen Mandat oder bei einer eingehenden Abmahnung sofort die zeitkritische Lage zu erfassen und nichts zu übersehen.
 
+Mandatsbezug: Anwalt nimmt Telefonmandat an – Mandant hat Abmahnung erhalten. In fünf Minuten muss die Fristenlage klar sein. Oder: Kanzlei-Assistent soll nach Übergabe eines neuen Mandats einen Fristencheck durchführen.
 
-## Fachlicher Zuschnitt
+## Schnellerfassung: Neun Felder
 
-- **Thema:** Schutzrechts.
-- **Arbeitsfokus:** Fristennotiz und nächster Schritt.
-- **Plugin-Rahmen:** Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand un....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### Feld 1 – Mandat-Grunddaten
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+```
+Mandant: _______________
+Gegenseite: _______________
+Verfahren: [Abmahnung / EV / Anmeldung / Widerspruch / Sonstiges]
+Datum heute: _______________
+Datum Eingang Mandatsunterlagen: _______________
+```
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+### Feld 2 – Kritische Frist (sofort ermitteln)
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Schutzrechts** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+```
+Fristart: _______________
+Fristauslöser (Datum): _______________
+Fristdauer: _______________
+Fristende: _______________
+Restzeit: _______________ Tage
+Konsequenz bei Versäumnis: _______________
+```
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+### Feld 3 – Schutzrecht
+
+```
+Art: [Marke / Patent / Design / Urheberrecht / UWG / GeschGehG]
+Register: [DPMA / EUIPO / EPA / Keine Eintragung]
+Registernummer: _______________
+Status: [Eingetragen / Angemeldet / Abgelaufen / Streitig]
+Inhaberschaft: [Mandant / Lizenznehmer mit Klagerecht / Dritter]
+Laufzeit: _______________
+```
+
+### Feld 4 – Verletzungssachverhalt
+
+```
+Verletzungshandlung: _______________
+Datum der Verletzung: _______________
+Datum der Erstkenntnis: _______________
+Belege vorhanden: [Screenshot / Kaufbeleg / Zeuge / Keine]
+Verletzungsprodukt/-dienstleistung: _______________
+```
+
+### Feld 5 – Vorhandene Unterlagen
+
+```
+Vorhanden:          Fehlend:
+[ ] Schutzrechtsurkunde  [ ] Registerauszug
+[ ] Vollmacht           [ ] Eidesstattliche Versicherung
+[ ] Abmahnschreiben     [ ] Verletzungsbeleg
+[ ] Korrespondenz       [ ] Weitere Anlagen
+```
+
+### Feld 6 – Verfahrensstand
+
+```
+Aktuelle Stufe:
+[ ] Vor Abmahnung
+[ ] Abmahnung versandt / empfangen (Datum: _______)
+[ ] EV beantragt (Datum: _______) / erlassen (Datum: _______)
+[ ] EV vollzogen (Datum: _______)
+[ ] Widerspruch (Datum: _______)
+[ ] Hauptsacheklage (Datum: _______)
+[ ] Vergleichsverhandlungen laufen
+```
+
+### Feld 7 – Risikoampel
+
+```
+Dringlichkeit:  [ ] Sofort handeln  [ ] Diese Woche  [ ] Keine Eile
+Schutzrecht:    [ ] Stark  [ ] Mittel  [ ] Schwach / Streitig
+Verletzung:     [ ] Eindeutig  [ ] Plausibel  [ ] Zweifelhaft
+Gesamtrisiko:   [ ] Grün  [ ] Gelb  [ ] Rot
+```
+
+### Feld 8 – Nächster Schritt
+
+```
+Was:  _______________
+Bis wann:  _______________
+Verantwortlich:  _______________
+Abhängig von:  _______________ (z.B. Mandantenentscheidung / fehlende Unterlagen)
+```
+
+### Feld 9 – Folge-Fristen
+
+```
+| Frist | Auslöser | Fristende | Verantwortlich |
+|---|---|---|---|
+| _______ | _______ | _______ | _______ |
+| _______ | _______ | _______ | _______ |
+| _______ | _______ | _______ | _______ |
+```
+
+## Anwendungsbeispiele
+
+### Beispiel A: Abmahnung empfangen
+
+```
+Fristart: Reaktionsfrist auf Abmahnung
+Fristauslöser: Zugang Abmahnung 01.03.2025
+Fristdauer: 14 Tage (gesetzt)
+Fristende: 15.03.2025
+Restzeit: 12 Tage
+Konsequenz: Abmahner beantragt EV ohne weitere Ankündigung
+
+Nächster Schritt:
+Was: Abmahnung prüfen, Entscheidungsvorlage für Mandanten erstellen
+Bis wann: 04.03.2025 (3 Tage)
+Abhängig von: Vollständige Abmahnunterlagen von Mandant
+```
+
+### Beispiel B: EV erlassen
+
+```
+Fristart: Vollziehungsfrist § 929 Abs. 2 ZPO
+Fristauslöser: Zustellung EV an Antragsteller 01.03.2025
+Fristdauer: 1 Monat
+Fristende: 01.04.2025
+Restzeit: 30 Tage
+Konsequenz: EV verliert Kraft; Neuantrag erforderlich
+
+Nächster Schritt:
+Was: Vollstreckbare Ausfertigung beantragen; GV-Auftrag erteilen
+Bis wann: 05.03.2025
+Verantwortlich: Anwalt + Kanzlei-Assistent
+```
+
+### Beispiel C: DPMA-Widerspruch
+
+```
+Fristart: Widerspruchsfrist § 42 MarkenG
+Fristauslöser: Veröffentlichung der Marke im Markenblatt 01.02.2025
+Fristdauer: 3 Monate
+Fristende: 01.05.2025
+Restzeit: 59 Tage
+Konsequenz: Keine Wiedereinsetzung; Widerspruch endgültig versäumt
+
+Nächster Schritt:
+Was: Widerspruchsschrift vorbereiten; Benutzungsnachweis ältere Marke zusammenstellen
+Bis wann: 15.04.2025 (Puffer von 2 Wochen vor Fristende)
+```
+
+## Fristennotiz-Erstellung: Workflow
+
+1. Mandatsdaten eintragen (5 Minuten).
+2. Kritische Frist sofort berechnen und ins Fristenbuch eintragen.
+3. Fehlende Unterlagen identifizieren und Mandant anfordern.
+4. Nächsten Schritt definieren und verantwortliche Person benennen.
+5. Mandanteninfo: Kurze E-Mail mit Fristennotiz als Anlage.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+- [§ 929 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/929.html)
+- [§ 42 MarkenG – dejure.org](https://dejure.org/gesetze/MarkenG/42.html)
+- [§ 59 PatG – dejure.org](https://dejure.org/gesetze/PatG/59.html)
+- Fristen immer über offizielle Quellen bestätigen; keine Pauschalangaben aus Modellwissen.
+
+## Anschluss-Skills
+
+- `spezial-fristen-abschlussprodukt-und-uebergabe` – Fristenmatrix vollständig
+- `workflow-fristen-und-risikoampel` – Workflow Fristen
+- `spezial-compliance-mandantenkommunikation-entscheidungsvorlage` – Mandanteninfo
+- `workflow-dokumentenintake` – Dokumentenerfassung

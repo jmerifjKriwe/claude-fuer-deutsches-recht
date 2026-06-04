@@ -1,49 +1,138 @@
 ---
 name: gewr-einstweilige-verfuegung-eilverfahren-spezial
-description: "Spezialfall einstweilige Verfuegung im UWG / Markenrecht: Dringlichkeitsvermutung § 12 Abs. 2 UWG, Selbstwiderlegung, Schutzschrift. Pruefraster fuer Verfuegungs- und Antragsgegnerseite."
+description: "Einstweilige Verfügung im gewerblichen Rechtsschutz: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Glaubhaftmachung und Antragsgestaltung bei Marke, Patent, UWG und Urheberrecht. Praxisworkflow für Antragsteller und Antragsgegner."
 ---
 
-# GewR: EV Eilverfahren
+# GewR: Einstweilige Verfügung – Eilverfahren Spezial
 
-## Aufgabe
-Spezialfall einstweilige Verfuegung im UWG / Markenrecht: Dringlichkeitsvermutung § 12 Abs.
+## Zweck und Mandatsbezug
 
-## Kaltstart
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Dieser Skill behandelt das **einstweilige Verfügungsverfahren im gewerblichen Rechtsschutz** als zentrales Instrument zur schnellen Durchsetzung von Unterlassungsansprüchen bei Schutzrechtsverletzungen und Wettbewerbsverstößen. Er deckt die Antragstellerseite (Verfügungsanspruch formulieren, Dringlichkeit begründen, glaubhaft machen) und die Antragsgegnerseite (Widerspruch, Schutzschrift, Dringlichkeitsselbstwiderlegung) ab.
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+Mandatsbezug: Markeninhaber entdeckt Verletzung und will sofort handeln; Patentinhaber sieht konkurrierendes Produkt auf Messe; UWG-Anspruchsteller reagiert auf irreführende Werbung; Abgemahnter will EV verhindern.
 
-## Pruefraster
+## Rechtlicher Rahmen
 
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+### Zentrale Normen
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+- **§§ 935, 940 ZPO** – Verfügungsanspruch und Verfügungsgrund als Doppelvoraussetzung der einstweiligen Verfügung.
+- **§ 937 Abs. 2 ZPO** – Beschlussverfügung ohne mündliche Verhandlung bei Dringlichkeit.
+- **§ 920 ZPO** – Glaubhaftmachung; eidesstattliche Versicherung als zentrales Beweismittel.
+- **§ 938 ZPO** – Ermessen des Gerichts bei Ausgestaltung des Tenors.
+- **§ 14 MarkenG** – Unterlassungsanspruch bei Markenverletzung.
+- **§ 139 PatG** – Unterlassungsanspruch bei Patentverletzung.
+- **§ 42 DesignG** – Unterlassungsanspruch bei Designverletzung.
+- **§ 97 UrhG** – Unterlassungsanspruch bei Urheberrechtsverletzung.
+- **§ 8 UWG** – Unterlassungsanspruch bei unlauterem Wettbewerb.
 
-## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `gewerblicher-rechtsschutz`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+### Die Doppelvoraussetzung im Überblick
+
+| Element | Inhalt | Beweismittel |
+|---|---|---|
+| Verfügungsanspruch | Materiell-rechtlicher Anspruch (Unterlassung) | Schutzrechtsurkunde, Verletzungsnachweis |
+| Verfügungsgrund | Dringlichkeit; drohende Rechtsverletzung oder Erschwerung der Rechtsbefriedigung | Zeitverlauf, Erstkenntnis, eidesstattliche Versicherung |
+| Glaubhaftmachung | Überwiegende Wahrscheinlichkeit beider Elemente | Eidesstattliche Versicherung + Belege |
+
+## Kaltstart in 6 Fragen
+
+1. **Schutzrechtsposition:** Welches Schutzrecht (Marke, Patent, Design, Urheberrecht, UWG-Anspruch)? Eingetragen, angemeldet oder unregistriert?
+2. **Verletzungshandlung:** Was genau macht der Verletzer? Seit wann? Belege vorhanden?
+3. **Dringlichkeit:** Wann wurde Verletzung erstmals bekannt? (Dringlichkeit selbst widerlegt bei zu langem Zuwarten)
+4. **Vorangegangene Abmahnung:** Abmahnung bereits gesendet? Reaktion erhalten oder Frist abgelaufen?
+5. **Gerichtswahl:** Welches Gericht soll angerufen werden? Warum (Gerichtspraxis, Zuständigkeit)?
+6. **Output:** Antragsschriftsatz-Entwurf, Glaubhaftmachungs-Checkliste, eidesstattliche Versicherung oder Strategie-Memo?
+
+## Prüfprogramm
+
+### Schritt 1 – Verfügungsanspruch prüfen
+
+**Markenrecht:**
+- Schutzrecht: Eingetragene Marke (DPMA/EUIPO)? Priorität? Klassen?
+- Verletzungstatbestand: Identität (§ 14 Abs. 2 Nr. 1 MarkenG), Verwechslungsgefahr (Nr. 2), Bekanntheitsschutz (Nr. 3)?
+- Rechteinhaber: Eigentümer oder exklusiver Lizenznehmer mit Klagerecht?
+
+**Patentrecht:**
+- Eingetragenes Patent: Patentrolle, Ansprüche geprüft?
+- Patentverletzung: wortsinngemäß oder äquivalent?
+- Arbeitnehmererfindung: ArbnErfG-Überleitung geprüft?
+
+**UWG:**
+- Wettbewerbshandlung, Mitbewerbereigenschaft, Spürbarkeit (§ 3 UWG)?
+- Fallgruppe: Irreführung (§§ 5, 5a UWG), vergleichende Werbung (§ 6 UWG), aggressive Werbung (§ 4a UWG)?
+
+**Urheberrecht:**
+- Schutzfähiges Werk? Urheberschaft/Lizenznehmereigenschaft?
+- Verletzungshandlung: § 16 (Vervielfältigung), § 17 (Verbreitung), § 19a (öffentliche Zugänglichmachung)?
+
+### Schritt 2 – Verfügungsgrund (Dringlichkeit)
+
+- Gesetzliche Dringlichkeitsvermutung: Im MarkenG, UWG und UrhG gibt es teils Vermutungen.
+- **Dringlichkeitsfrist:** Je nach Gericht 4–8 Wochen ab Kenntnis; Hamburger Praxis: 4 Wochen; Münchner Praxis: 6–8 Wochen.
+- Kenntnis-Zeitpunkt: Wenn Antragsteller von Verletzung wusste und zu lange gewartet hat → Selbstwiderlegung.
+- Eidesstattliche Versicherung zur Erstkenntnis: Datum der Kenntniserlangung, wie erlangt.
+
+### Schritt 3 – Glaubhaftmachungspaket zusammenstellen
+
+- Eidesstattliche Versicherung des Antragstellers: Sachverhalt, Erstkenntnis, Unterlassung nicht zuzumuten.
+- Anlagen: Screenshot (mit Datum), Produktfoto, Messeprotokoll, Kaufbeleg.
+- Schutzrechtsurkunde oder Registerauszug (DPMA-Markenregister, Patentrolle).
+- Recherche-Ergebnis: Priorität, Schutzdauer, Klassen.
+- Verletzungsanalyse: Wortsinngemäß oder äquivalent (Patent); Verwechslungsgefahr-Prüfung (Marke).
+
+### Schritt 4 – Antragsgestaltung
+
+**Tenor-Formulierung:**
+- Präzise, nicht zu weit und nicht zu eng.
+- Konkrete Verletzungshandlung beschreiben; abstraktere Formulierungen nur im Rahmen des Kernbereichs.
+- Ordnungsmittelandrohung im Tenor beantragen (§ 890 Abs. 2 ZPO).
+
+**Streitwertangabe:**
+- Marke: je nach Bekanntheit und Umsatz 50.000–500.000 EUR.
+- Patent: oft höher; Lizenzumsatz als Orientierung.
+- UWG: oft 15.000–50.000 EUR für einfachen Verstoß.
+
+**Sicherheitsleistung:** Antrag auf Absehen von Sicherheitsleistung stellen; Gericht hat Ermessen.
+
+### Schritt 5 – Abmahnung vor EV?
+
+- Keine gesetzliche Pflicht zur Abmahnung vor EV-Antrag; aber Abmahnung kann Wiederholungsgefahr beseitigen.
+- Wenn Abmahnung: Reaktionsfrist muss abgelaufen sein oder Abgemahnter muss abgelehnt haben.
+- Ohne Abmahnung: Direkter EV-Antrag möglich; Abmahnung kann nachgeholt werden (§ 93 ZPO-Problematik beachten).
+
+## Antragsgegnerperspektive
+
+- **Widerspruch (§ 924 ZPO):** Erzwingt mündliche Verhandlung; Kernverteidigung.
+- **Schutzschrift:** Präventiv vor EV-Antrag einreichen (→ evvollzug-neu-008).
+- **Dringlichkeitsselbstwiderlegung rügen:** Wenn Antragsteller zu lange gewartet hat.
+- **Verfügungsanspruch angreifen:** Schutzrecht ungültig, kein Verstoß, Erschöpfung, Verwirkung.
+
+## Typische Fallen
+
+- **Dringlichkeitsselbstwiderlegung:** Antragsteller weiß seit Monaten von Verletzung und wartet; EV scheitert.
+- **Zu weit formulierter Tenor:** Gericht lehnt ab oder schränkt erheblich ein; Kosten des Antragstellers.
+- **Falsches Gericht:** Örtliche Zuständigkeit fehlt; EV abgewiesen.
+- **Eidesstattliche Versicherung unvollständig:** Keine Angabe zur Erstkenntnis; Verfügungsgrund nicht glaubhaft gemacht.
+- **Kein Schutzrechtsnachweis beigefügt:** Registerauszug fehlt; EV zurückgestellt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+
+- **Antragsschriftsatz-Vorlage:** Rubrum, Antrag mit Ordnungsmittelandrohung, Begründung, Anlagen.
+- **Eidesstattliche Versicherung:** Muster mit Erstkenntnis-Angabe.
+- **Glaubhaftmachungs-Checkliste:** Schutzrecht, Verletzung, Dringlichkeit, Beweismittel.
+- **Tenor-Formulierungs-Beispiele:** Marke, Patent, UWG mit Mustertexten.
 
 ## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+- [§ 935 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/935.html)
+- [§ 14 MarkenG – dejure.org](https://dejure.org/gesetze/MarkenG/14.html)
+- [§ 139 PatG – dejure.org](https://dejure.org/gesetze/PatG/139.html)
+- [§ 8 UWG – dejure.org](https://dejure.org/gesetze/UWG/8.html)
+- Rechtsprechung zur Dringlichkeitsfrist: openjur.de, bgh.de; Gericht und Datum immer angeben.
+- Keine BeckRS-Blindzitate.
+
+## Anschluss-Skills
+
+- `evvollzug-neu-001` – Vollziehung der EV
+- `evvollzug-neu-008` – Schutzschrift (Gegenseite)
+- `schutzschrift-eilverfuegung` – Schutzschrift-Entwurf
+- `verletzungs-triage` – Erstentscheidung bei IP-Verletzung

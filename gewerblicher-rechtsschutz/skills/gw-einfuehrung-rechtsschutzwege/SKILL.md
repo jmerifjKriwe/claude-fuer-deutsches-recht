@@ -1,63 +1,142 @@
 ---
 name: gw-einfuehrung-rechtsschutzwege
-description: "Gewerblicher Rechtsschutz einfuehrend: Markenrecht, UWG, Designrecht, Patentrecht, Geschaeftsgeheimnisschutz. Rechtsschutzwege einstweilige Verfuegung, Klage, Verbandsklage, Schiedsklage. Entscheidungstabelle."
+description: "Einführung in die Rechtsschutzwege des gewerblichen Rechtsschutzes: Überblick über Verfahrensarten, Zuständigkeiten, Handlungsoptionen und Weichen bei Marken-, Patent-, Design-, Urheber- und Lauterkeitsverletzungen. Erstes Orientierungsgespräch und Triage."
 ---
 
-# GW: Rechtsschutzwege
+# GewR: Einführung – Rechtsschutzwege im Überblick
 
-## Aufgabe
-Gewerblicher Rechtsschutz einfuehrend: Markenrecht, UWG, Designrecht, Patentrecht, Geschaeftsgeheimnisschutz.
+## Zweck und Mandatsbezug
 
+Dieser Skill bietet eine **strukturierte Einführung in die Rechtsschutzwege des gewerblichen Rechtsschutzes** und dient als erstes Orientierungsgespräch. Er sortiert den Sachverhalt nach Rechtsgebiet, Verfahrensart und strategischer Priorität und zeigt, welche konkreten Handlungsoptionen offenstehen. Er ist der Ausgangspunkt vor dem Einsatz spezialisierter Skills.
 
-## Fachlicher Arbeitskern
+Mandatsbezug: Mandant kommt mit einem IP-Problem, weiß aber nicht, ob er klagen, abmahnen, anmelden oder nur prüfen lassen soll. Oder: Anwalt übernimmt neues Mandat und braucht eine erste systematische Einordnung.
 
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `gewerblicher-rechtsschutz` zum Thema `gw-einfuehrung-rechtsschutzwege`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Gewerblicher Rechtsschutz einfuehrend: Markenrecht, UWG, Designrecht, Patentrecht, Geschaeftsgeheimnisschutz. Rechtsschutzwege einstweilige Verfuegung, Klage, Verbandsklage, Schiedsklage. Entscheidungstabelle..
+## Überblick: Materielle Rechtsgebiete
 
-Arbeite deshalb fallnah:
+### 1. Markenrecht (MarkenG, EUTMR)
 
-1. **Falltyp erkennen:** Einordnung, ob es um Erstberatung, Anspruchs-/Pflichtenpruefung, Vertrags-/Bescheid-/Schriftsatzarbeit, Strategie oder Fristenrettung geht.
-2. **Entscheidungspunkte bilden:** Welche zwei bis fuenf Weichen entscheiden den Fall wirklich?
-3. **Belege anfordern:** Nur die Unterlagen nachfordern, die fuer diese Weichen gebraucht werden; keine Frageboegen um ihrer selbst willen.
-4. **Spezialwissen anwenden:** Die im Skill genannten Normen, Behoerden, Verfahrensarten, Branchenlogiken oder typischen Streitpunkte sichtbar abarbeiten.
-5. **Nutzbaren Output liefern:** Am Ende steht ein Memo, eine Matrix, ein Textbaustein, ein Schriftsatzgeruest, ein Mandantenbrief oder eine klare Naechste-Schritte-Liste.
+- **Schutzgegenstand:** Kennzeichen (Wort, Bild, 3D, Ton, Farbe) mit Unterscheidungskraft.
+- **Eingetragene Marke:** DPMA (national), EUIPO (EU), WIPO/Madrid (international).
+- **Nicht eingetragene Rechte:** Unternehmenskennzeichen (§ 5 MarkenG), geografische Angaben (§ 126 ff. MarkenG).
+- **Kernverletzungen:** Verwechslungsgefahr (§ 14 Abs. 2 Nr. 2 MarkenG), Ausnutzung/Beeinträchtigung bekannter Marke (Nr. 3).
 
-Wenn ein anderer Skill desselben Plugins genauer passt, schlage ihn aktiv vor und erklaere in einem Satz, warum der Wechsel die Arbeit beschleunigt.
+### 2. Patentrecht und Gebrauchsmuster (PatG, GebrMG)
 
-## Kaltstart
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+- **Schutzgegenstand:** Technische Erfindungen (Patent) oder Gebrauchsmuster (ohne Prüfung).
+- **Anmeldewege:** DPMA, EPA, PCT (international).
+- **Kernverletzungen:** Benutzung der geschützten Lehre (§ 9 PatG).
+- **Arbeitnehmererfindungen:** ArbnErfG – besondere Pflichten des Arbeitgebers.
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+### 3. Designrecht (DesignG, GGV)
 
-## Pruefraster
+- **Schutzgegenstand:** Äußere Erscheinungsform eines Erzeugnisses (Formgebung).
+- **Eingetragen:** DPMA, EUIPO.
+- **Nicht eingetragenes Gemeinschaftsgeschmacksmuster:** 3-Jahres-Schutz, entsteht automatisch.
+- **Kernverletzungen:** Herstellung identischer/ähnlicher Produkte (§ 38 DesignG).
 
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+### 4. Urheberrecht (UrhG)
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+- **Schutzgegenstand:** Werke der Literatur, Wissenschaft, Kunst; entsteht ohne Anmeldung.
+- **Schutzrechte:** Urheberpersönlichkeitsrechte, Verwertungsrechte (§§ 15 ff. UrhG).
+- **Kernverletzungen:** Unerlaubte Vervielfältigung (§ 16 UrhG), öffentliche Zugänglichmachung (§ 19a UrhG).
+- **Besonderheit:** Lichtbildwerke, Datenbankwerke, Computerprogramme.
 
-## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `gewerblicher-rechtsschutz`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+### 5. Lauterkeitsrecht (UWG)
 
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- **Schutzgegenstand:** Lauter Wettbewerb; kein Ausschließlichkeitsrecht.
+- **Anspruchsberechtigte:** Mitbewerber, Verbände (§ 8 Abs. 3 UWG).
+- **Kerntatbestände:** Irreführung (§§ 5, 5a UWG), Nachahmung (§ 4 Nr. 3 UWG), Rechtsbruch (§ 3a UWG).
+
+## Überblick: Verfahrensarten und Rechtsschutzwege
+
+### Außergerichtlich
+
+| Verfahren | Beschreibung | Ziel |
+|---|---|---|
+| Abmahnung | Aufforderung zur Unterlassung mit Unterlassungserklärung | Schnelle Einigung ohne Gericht |
+| Schutzschrift | Präventive Gegendarstellung beim ZSSR | Beschlussverfügung verhindern |
+| Unterlassungserklärung | Modifizierte oder vollständige Annahme | Wiederholungsgefahr ausräumen |
+| DPMA-Widerspruch | Gegen eingetragene Marke (§ 42 MarkenG) | Marke löschen |
+| EUIPO-Widerspruch | Gegen Unionsmarke (Art. 46 EUTMR) | Unionsmarke anfechten |
+
+### Gerichtlicher Eilrechtsschutz
+
+| Verfahren | Norm | Beschreibung |
+|---|---|---|
+| Einstweilige Verfügung (Beschluss) | §§ 935, 937 Abs. 2 ZPO | Sofortiger Unterlassungstitel ohne mündliche Verhandlung |
+| Einstweilige Verfügung (Urteil) | §§ 935, 922 ZPO | EV nach mündlicher Verhandlung |
+| Arrest | § 916 ZPO | Sicherung von Geldforderungen |
+
+### Ordentliches Gerichtsverfahren
+
+| Verfahren | Beschreibung |
+|---|---|
+| Unterlassungsklage | Dauerhafter Unterlassungstitel |
+| Schadensersatzklage | Ersatz eingetretener Schäden |
+| Auskunftsklage | Informationserzwingung (§ 140b PatG, § 19 MarkenG) |
+| Lizenzbereitschaftserklärung (FRAND) | Kartellrechtlicher Sonderweg bei SEP |
+
+### Verwaltungsverfahren (Amtsverfahren)
+
+| Verfahren | Zuständigkeit | Beschreibung |
+|---|---|---|
+| DPMA-Widerspruch/Löschung | DPMA | Marke anfechten |
+| DPMA-Nichtigkeitsverfahren | DPMA | Patent/Design anfechten |
+| BPatG-Beschwerde | Bundespatentgericht | Gegen DPMA-Entscheidung |
+| EUIPO-Widerspruch/Löschung | EUIPO | Unionsmarke anfechten |
+| WIPO-UDRP | WIPO | Domain-Name-Streit |
+
+## Kaltstart-Triage in 5 Schritten
+
+### Schritt 1 – Schutzrecht identifizieren
+- Liegt ein eingetragenes Schutzrecht vor (Marke, Patent, Design)?
+- Liegt ein nicht eingetragenes Recht vor (Urheberrecht, Unternehmenskennzeichen, GGM)?
+- Oder handelt es sich um einen UWG-Anspruch ohne Schutzrecht?
+
+### Schritt 2 – Verfahrensziel klären
+- Unterlassung (sofort)? → Abmahnung, EV.
+- Schadensersatz? → Auskunft, dann Klage.
+- Schutzrecht vernichten? → Widerspruch, Löschungsantrag.
+- Eigene Position sichern? → Freedom-to-Operate, Schutzschrift.
+
+### Schritt 3 – Dringlichkeit einschätzen
+- Verletzung akut und fortlaufend? → Sofortige EV-Vorbereitung.
+- Verletzung entdeckt, nicht mehr akut? → Abmahnung, dann ggf. Klage.
+- Droht Verletzung erst? → Schutzschrift, Unterlassungsklage wegen Erstbegehungsgefahr.
+
+### Schritt 4 – Beweislage prüfen
+- Schutzrechtsurkunde, Registerauszug vorhanden?
+- Verletzungsnachweis (Screenshot, Kaufbeleg, Zeuge) vorhanden?
+- Eidesstattliche Versicherung möglich?
+
+### Schritt 5 – Ressourcen und Kosten einschätzen
+- Streitwert schätzen → Gerichts- und Anwaltskosten grob ermitteln.
+- Kostenrisiko bei Verlust?
+- Eigene Kostentragung vs. Kostenerstattung bei Obsiegen?
+
+## Weichenentscheidung: Welcher Skill als nächstes?
+
+| Situation | Empfohlener Skill |
+|---|---|
+| EV-Antrag vorbereiten | `gewr-einstweilige-verfuegung-eilverfahren-spezial` |
+| UWG-Abmahnung | `gewr-uwg-abmahnung-checkliste` |
+| Markenanmeldung | `gewr-markenanmeldung-bauleiter` |
+| Markenrecherche | `markenrecherche` |
+| Patentverletzung prüfen | `fto-triage` |
+| Vollzug EV | `evvollzug-neu-001` |
+| Erstgespräch strukturieren | `gewerblicher-rechtsschutz-kaltstart-interview` |
 
 ## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
 
-## Was dieser Skill nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+- MarkenG: [gesetze-im-internet.de/markeng](https://www.gesetze-im-internet.de/markeng/)
+- PatG: [gesetze-im-internet.de/patg](https://www.gesetze-im-internet.de/patg/)
+- UWG: [gesetze-im-internet.de/uwg_2004](https://www.gesetze-im-internet.de/uwg_2004/)
+- ZPO Arrestvorschriften: [dejure.org/gesetze/ZPO/916.html](https://dejure.org/gesetze/ZPO/916.html)
+- Keine BeckRS-Blindzitate; aktuelle Normfassungen über gesetze-im-internet.de prüfen.
+
+## Anschluss-Skills
+
+- `mandat-triage-gewerblicher-rechtsschutz` – Vertiefte Mandatstriage
+- `verletzungs-triage` – IP-Verletzung Erstentscheidung
+- `workflow-kaltstart-und-routing` – Kaltstart-Router
+- `allgemein` – Plugin-Übersicht

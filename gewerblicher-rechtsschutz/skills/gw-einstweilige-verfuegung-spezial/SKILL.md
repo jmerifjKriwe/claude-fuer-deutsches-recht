@@ -1,63 +1,132 @@
 ---
 name: gw-einstweilige-verfuegung-spezial
-description: "Spezialfall einstweilige Verfuegung im gewerblichen Rechtsschutz: Dringlichkeitsvermutung in UWG- und Marken-Sachen, Schutzschrift, Widerspruch, Vollziehung binnen 1 Monat § 929 ZPO. Pruefraster und Mustertexte."
+description: "Einstweilige Verfügung im gewerblichen Rechtsschutz: Strategische Gesamtbetrachtung von Antrag bis Hauptsache. Gerichtsauswahl, Tenorformulierung, Sicherheitsleistung, Vollzug, Widerspruch und Übergang in die Hauptsache als integrierter Workflow."
 ---
 
-# GW: Einstweilige Verfuegung
+# GewR: Einstweilige Verfügung Spezial – Strategische Gesamtbetrachtung
 
-## Aufgabe
-Spezialfall einstweilige Verfuegung im gewerblichen Rechtsschutz: Dringlichkeitsvermutung in UWG- und Marken-Sachen, Schutzschrift, Widerspruch, Vollziehung binnen 1 Monat § 929 ZPO.
+## Zweck und Mandatsbezug
 
+Dieser Skill bietet eine **strategische Gesamtbetrachtung des einstweiligen Verfügungsverfahrens** im gewerblichen Rechtsschutz – von der ersten Lageeinschätzung bis zum Übergang in die Hauptsache. Er ergänzt die spezialisierten Einzelskills der `evvollzug-neu`-Gruppe durch eine übergreifende Strategie- und Koordinationsperspektive.
 
-## Fachlicher Arbeitskern
+Mandatsbezug: Anwalt muss innerhalb von 48 Stunden entscheiden, ob er eine EV beantragt, bei welchem Gericht, mit welchem Tenor und wie er danach vorgeht. Oder: Anwalt vertritt Antragsgegner und muss innerhalb einer Woche reagieren.
 
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `gewerblicher-rechtsschutz` zum Thema `gw-einstweilige-verfuegung-spezial`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Spezialfall einstweilige Verfuegung im gewerblichen Rechtsschutz: Dringlichkeitsvermutung in UWG- und Marken-Sachen, Schutzschrift, Widerspruch, Vollziehung binnen 1 Monat § 929 ZPO. Pruefraster und Mustertexte..
+## Strategische Ausgangsfragen
 
-Arbeite deshalb fallnah:
+Vor jeder EV-Entscheidung:
+1. Ist das Rechtsschutzziel wirklich ein Unterlassungsanspruch, oder geht es um Auskunft, Herausgabe oder Schadensersatz?
+2. Ist der EV-Weg materiell und prozessual aussichtsreich (Verfügungsanspruch + Verfügungsgrund)?
+3. Ist die Abmahnung bereits der schnellere und billigere Weg?
+4. Welches Gericht bietet die beste Praxis für diesen Fall?
+5. Was passiert nach dem Vollzug – Abschlussvereinbarung oder Hauptsache?
 
-1. **Falltyp erkennen:** Einordnung, ob es um Erstberatung, Anspruchs-/Pflichtenpruefung, Vertrags-/Bescheid-/Schriftsatzarbeit, Strategie oder Fristenrettung geht.
-2. **Entscheidungspunkte bilden:** Welche zwei bis fuenf Weichen entscheiden den Fall wirklich?
-3. **Belege anfordern:** Nur die Unterlagen nachfordern, die fuer diese Weichen gebraucht werden; keine Frageboegen um ihrer selbst willen.
-4. **Spezialwissen anwenden:** Die im Skill genannten Normen, Behoerden, Verfahrensarten, Branchenlogiken oder typischen Streitpunkte sichtbar abarbeiten.
-5. **Nutzbaren Output liefern:** Am Ende steht ein Memo, eine Matrix, ein Textbaustein, ein Schriftsatzgeruest, ein Mandantenbrief oder eine klare Naechste-Schritte-Liste.
+## Rechtlicher Gesamtrahmen
 
-Wenn ein anderer Skill desselben Plugins genauer passt, schlage ihn aktiv vor und erklaere in einem Satz, warum der Wechsel die Arbeit beschleunigt.
+### Normen
 
-## Kaltstart
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+- **§§ 935–945a ZPO** – Einstweiliger Rechtsschutz; Arrest und einstweilige Verfügung.
+- **§ 929 Abs. 2 ZPO** – Vollziehungsfrist.
+- **§ 890 ZPO** – Ordnungsmittel nach Vollzug.
+- **§ 945 ZPO** – Schadensersatz bei ungerechtfertigter EV; Haftung des Antragstellers.
+- **§ 926 ZPO** – Hauptsacheklage auf Anforderung des Schuldners.
+- **§ 93 ZPO** – Sofortiges Anerkenntnis und Kostenfolge.
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+### Typische IP-Ansprüche für EV
 
-## Pruefraster
+| Rechtsgebiet | Unterlassungsanspruch | Norm |
+|---|---|---|
+| Markenrecht | Markenverletzung | § 14 Abs. 5 MarkenG |
+| Patentrecht | Patentverletzung | § 139 Abs. 1 PatG |
+| Designrecht | Designverletzung | § 42 Abs. 1 DesignG |
+| Urheberrecht | Urheberrechtsverletzung | § 97 Abs. 1 UrhG |
+| UWG | Unlauterer Wettbewerb | § 8 Abs. 1 UWG |
+| GeschGehG | Geschäftsgeheimnisverletzung | § 6 GeschGehG |
 
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+## Strategiephase: Antragsteller
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+### Phase 1 – Vorprüfung (Tag 0–1)
 
-## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `gewerblicher-rechtsschutz`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+- **Materieller Anspruch:** Besteht ein Unterlassungsanspruch? Welche Norm?
+- **Verfügungsgrund:** Wann erstmals Kenntnis? Keine Selbstwiderlegung?
+- **Beweislage:** Screenshot, Kaufbeleg, Schutzrechtsurkunde vorhanden?
+- **Abmahnung vorher?** Ja: Reaktionsfrist abgelaufen? Nein: Direkte EV oder Abmahnung zuerst?
+- **Kostenrisiko:** § 945 ZPO – Schadensersatz bei ungerechtfertigter EV; Bonität des Schuldners.
 
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+### Phase 2 – Gerichtsauswahl (Tag 1–2)
+
+**Kriterien:**
+- **Örtliche Zuständigkeit:** Sitz des Beklagten (§ 12 ZPO), Tatort (§ 32 ZPO), besonderer Gerichtsstand MarkenG/UWG.
+- **Gerichtspraxis:** Einige LG erlassen EV schneller oder großzügiger als andere.
+- **Spezialkammern:** Hamburg, München I, Frankfurt, Düsseldorf haben spezialisierte IP-Kammern.
+- **Forum shopping:** Innerhalb der Zuständigkeitsregeln; kein missbräuchliches Forum-Shopping.
+
+### Phase 3 – Antragsgestaltung (Tag 2–3)
+
+- **Tenor:** Präzise Beschreibung der verbotenen Handlung; nicht zu weit, nicht zu eng.
+- **Ordnungsmittelandrohung:** Immer in Tenor aufnehmen (§ 890 Abs. 2 ZPO).
+- **Streitwertangabe:** Realistisch; zu hoher Streitwert erhöht Kostenrisiko.
+- **Glaubhaftmachungspaket:** Eidesstattliche Versicherung + Belege.
+- **Sicherheitsleistung:** Antrag auf Absehen stellen; bei unsicherer Beweislage Gegenangebot.
+
+### Phase 4 – Vollzug (nach Erlass)
+
+- **Fristbeginn:** § 929 Abs. 2 ZPO – Monatsfrist ab Zustellung an Antragsteller.
+- **Zustellungsweg:** GV (sicher) oder beA (riskant, s. evvollzug-neu-003/004).
+- **Vollstreckbare Ausfertigung:** Sofort beantragen.
+- **Zustellurkunde:** In Akte, Datum im Fristenbuch.
+
+### Phase 5 – Nach Vollzug
+
+- **Widerspruch des Schuldners?** → Mündliche Verhandlung vorbereiten.
+- **Kein Widerspruch?** → Abschlussschreiben senden (s. evvollzug-neu-007).
+- **Verstoß gegen EV?** → Ordnungsmittelantrag (s. evvollzug-neu-005).
+- **§ 926-Antrag des Schuldners?** → Hauptsacheklage fristgerecht erheben.
+
+## Strategiephase: Antragsgegner
+
+### Phase 1 – Sofortmaßnahmen nach Zustellung (Tag 0–3)
+
+- **Zustellung prüfen:** Wirksam? Fristbeginn korrekt?
+- **Tenor lesen:** Was genau ist verboten? Ist Handlung des Mandanten tatsächlich untersagt?
+- **Verletzungshandlung beurteilen:** Tatsächlicher Verstoß? Oder Tenorüberschreitung?
+- **Wiederholungsgefahr beseitigen?** Verletzung sofort einstellen; Wiederholungsgefahr prüfen.
+
+### Phase 2 – Entscheidung Widerspruch oder Abschluss
+
+| Option | Wann | Folge |
+|---|---|---|
+| Widerspruch (§ 924 ZPO) | Starke materielle Einwendungen | Mündliche Verhandlung, Kostenrisiko |
+| Modifizierte UE | Verletzung tatsächlich gegeben, Tenor zu weit | Prozessbeendigung mit Einschränkungen |
+| Vollständige UE | Klare Verletzung, Risiko gering halten | Schnelle Beendigung |
+| Abschlussvereinbarung | Verhandlungsbereitschaft beider Seiten | Kompromisspakete möglich |
+
+### Phase 3 – Widerspruchsstrategie
+
+- **Dringlichkeitsselbstwiderlegung rügen:** Hat Antragsteller zu lange gewartet?
+- **Verfügungsanspruch angreifen:** Schutzrecht ungültig, kein Verstoß, Erschöpfung, Verwirkung.
+- **Verhältnismäßigkeit:** Tenor zu weit; Schaden durch EV größer als Nutzen.
+- **§ 945 ZPO-Drohung:** Auf Schadensersatzanspruch bei ungerechtfertigter EV hinweisen.
+
+## Kosten-Nutzen-Überblick EV
+
+| Szenario | Kosten (ca.) | Erfolgschance | Anmerkung |
+|---|---|---|---|
+| EV mit klarer Beweislage | Gering (Anwaltskosten) | Hoch | Schnelle Durchsetzung |
+| EV mit schwacher Beweislage | Hoch (§ 945 ZPO-Risiko) | Mittel | Sorgfältige Abwägung |
+| Widerspruchsverfahren | Beidseitig hoch | Hälfte/Hälfte | Vergleich oft sinnvoll |
+| Hauptsacheverfahren | Hoch, langwierig | Je nach Fall | Nur bei hohem Streitwert |
 
 ## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
 
-## Was dieser Skill nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+- [§ 935 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/935.html)
+- [§ 945 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/945.html)
+- [§ 926 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/926.html)
+- BGH-Rechtsprechung zur Dringlichkeit: [bgh.de](https://www.bundesgerichtshof.de); keine BeckRS-Blindzitate.
+- Aktuelle OLG-Praxis zu Gerichtsständen: openjur.de.
+
+## Anschluss-Skills
+
+- `gewr-einstweilige-verfuegung-eilverfahren-spezial` – EV-Antrag im Detail
+- `evvollzug-neu-001` bis `evvollzug-neu-008` – Vollzugsschritte
+- `evvollzug-neu-008` – Schutzschrift (Gegenseite)
+- `spezial-operate-verhandlung-vergleich-und-eskalation` – Vergleichsstrategie

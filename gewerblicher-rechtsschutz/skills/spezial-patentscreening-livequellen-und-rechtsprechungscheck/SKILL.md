@@ -1,48 +1,147 @@
 ---
 name: spezial-patentscreening-livequellen-und-rechtsprechungscheck
-description: "Patentscreening: Livequellen- und Rechtsprechungscheck im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Patentscreening mit Live-Quellen: Patentrecherche in Echtzeit-Datenbanken, Gültigkeitsprüfung, Rechtsstandabfrage und aktueller Rechtsprechungscheck für FTO, Verletzungsanalyse und Einspruchsstrategien. DPMA, EPA, Google Patents, Espacenet."
 ---
 
-# Patentscreening: Livequellen- und Rechtsprechungscheck
+# Spezial: Patentscreening – Live-Quellen und Rechtsprechungscheck
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `gewerblicher-rechtsschutz`. Ausgangspunkt ist: Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.
+## Zweck und Mandatsbezug
 
-Er führt durch **Livequellen- und Rechtsprechungscheck** im Themenfeld **Patentscreening**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill behandelt das **strukturierte Patentscreening mit Live-Quellen** – Echtzeit-Datenbankrecherchen und Rechtsprechungschecks für Freedom-to-Operate-Analysen, Verletzungsprüfungen und Einspruchsstrategien. Kein Patent-Screening ohne aktuelle Datenbanken; Modellwissen über Patente ist zu unzuverlässig.
 
+Mandatsbezug: Unternehmen plant Markteinführung neuer Technologie; Anwalt prüft, welche Patente relevant sind. Oder: Mandant wird wegen Patentverletzung abgemahnt; Anwalt prüft, ob das Patent gültig und relevant ist.
 
-## Fachlicher Zuschnitt
+## Live-Datenbanken für Patentrecherche
 
-- **Thema:** Patentscreening.
-- **Arbeitsfokus:** Livequellen- und Rechtsprechungscheck.
-- **Plugin-Rahmen:** Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand un....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### Primäre Quellen
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+| Datenbank | Beschreibung | URL |
+|---|---|---|
+| DPMA-Patentdatenbank | Deutsche Patente und Gebrauchsmuster | [dpma.de/dpmaregister](https://dpmaregister.dpma.de) |
+| Espacenet (EPA) | Europäische und weltweite Patente | [worldwide.espacenet.com](https://worldwide.espacenet.com) |
+| Google Patents | Schnelle Volltext-Suche; international | [patents.google.com](https://patents.google.com) |
+| WIPO PATENTSCOPE | PCT-Anmeldungen und nationale Patente | [patentscope.wipo.int](https://patentscope.wipo.int) |
+| DEPATISnet | DPMA-Recherche-Profi-Tool | [depatisnet.dpma.de](https://depatisnet.dpma.de) |
+| Lens.org | Open-Access-Patentdatenbank | [lens.org](https://www.lens.org) |
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+### Sekundäre Quellen (Rechtsprechung)
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Patentscreening** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+| Quelle | Inhalt | URL |
+|---|---|---|
+| BGH-Datenbank | BGH Patententscheidungen | [bgh.de](https://www.bundesgerichtshof.de) |
+| BPatG-Datenbank | Bundespatentgericht Entscheidungen | [bundespatentgericht.de](https://www.bundespatentgericht.de) |
+| openjur.de | Deutsche Gerichtsurteile (frei zugänglich) | [openjur.de](https://openjur.de) |
+| EPA-Beschwerdekammer | Technische und rechtliche Beschwerdekammern | [epo.org/law-practice/case-law-appeals](https://www.epo.org/law-practice/case-law-appeals.html) |
+| curia.europa.eu | EuGH-Entscheidungen zu IP | [curia.europa.eu](https://curia.europa.eu) |
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+## Recherchefahrplan: Fünf Stufen
+
+### Stufe 1 – Patentnummer und Rechtsstatus abrufen
+
+- Patentrolle DPMA: Aktueller Inhaber, Ansprüche, Jahresgebühren-Status.
+- Espacenet: Vollständige Patentschrift inkl. aller Ansprüche und Beschreibung.
+- Status prüfen: Aktiv, abgelaufen, aufgegeben, eingeschränkt durch Einspruch?
+- PCT-Status: Nationale Phase eingetreten? In welchen Ländern?
+
+### Stufe 2 – Ansprüche analysieren
+
+- Patentansprüche = rechtlicher Schutzumfang.
+- Hauptanspruch (Claim 1) zuerst lesen; Unteransprüche für Varianten.
+- Merkmalsanalyse: Alle Merkmale des Hauptanspruchs identifizieren.
+- Technisches Verständnis: Bei komplexen Erfindungen Sachverständigen einbeziehen.
+- Beschreibung und Zeichnungen: Für Auslegung der Ansprüche (§ 14 PatG; Art. 69 EPÜ).
+
+### Stufe 3 – Stand der Technik recherchieren
+
+**Ziel:** Entgegenhaltungen finden, die Neuheit oder erfinderische Tätigkeit des Patents in Frage stellen.
+
+- Espacenet Klassifikation (IPC, CPC): Alle relevanten Klassen recherchieren.
+- Zeitraum: Vorveröffentlichungen vor dem Prioritätsdatum des Patents.
+- Quellen: Patentdokumente, Fachzeitschriften, Konferenzbeiträge, Handbücher.
+- DEPATISnet: Volltext-Suche in deutschen und internationalen Patenten.
+
+### Stufe 4 – Verletzungsanalyse (FTO-Check)
+
+**Dreistufiger Vergleich:**
+
+1. **Wortsinngemäße Verletzung:** Alle Merkmale des Hauptanspruchs im eigenen Produkt/Verfahren?
+2. **Äquivalente Verletzung:** BGH Schneidmesser-Test – gleichwirkend, nahegelegend, gleichwertig?
+3. **Kein Schutzbereich:** Wenn ein wesentliches Merkmal fehlt, keine Verletzung (Formstein-Einwand).
+
+| Ergebnis | Risikoampel | Empfehlung |
+|---|---|---|
+| Alle Merkmale vorhanden | Rot | Design-Around oder Lizenz |
+| Fast alle Merkmale vorhanden | Gelb | Detaillierte Analyse; Sachverständiger |
+| Merkmal fehlt (wesentlich) | Grün | Freier Betrieb; Dokumentation |
+
+### Stufe 5 – Gültigkeitsprüfung
+
+- Einspruch-/Nichtigkeitsverfahren anhängig? Espacenet/DPMAregister prüfen.
+- Jahresgebühren bezahlt? DPMA-Rechtsstand prüfen.
+- Nationale Validierung (EP-Patent)? Für jeweiligen Staat prüfen.
+- Einschränkungen durch Disclaimer, Beschränkungsverfahren?
+
+## Rechtsprechungscheck: Aktuelle BGH- und BPatG-Urteile
+
+### Systematisches Vorgehen
+
+1. BGH-Webseite: Patententscheidungen nach Datum oder Stichwort suchen.
+2. BPatG: Nicthigkeitsurteile und Beschwerdekammerentscheidungen.
+3. openjur.de: LG Düsseldorf, LG München I (Patentspezial-Kammern) – aktuelle Urteile.
+4. Leitsätze extrahieren: Welcher Rechtssatz ist für den eigenen Fall relevant?
+
+### Wichtige Leitsätze (Beispiele – mit Vorbehalt: Prüfung erforderlich)
+
+- BGH „Schneidmesser": Äquivalenz-Drei-Stufen-Test.
+- BGH „Formstein": Bekannter Stand der Technik = kein Schutzbereich.
+- EuGH „Huawei/ZTE": FRAND-Verpflichtung und missbräuchliche Durchsetzung.
+- BPatG: Einschränkungspraxis bei Disclaimer.
+
+**Hinweis:** Diese Leitsätze aus Modellwissen müssen vor Zitierung über bgh.de oder openjur.de verifiziert werden.
+
+## Dokumentation des Patent-Screenings
+
+```
+PATENT-SCREENING DOKUMENTATION
+Datum: _______________
+Technologie: _______________
+
+Recherchierte Patente:
+| Patent-Nr. | Inhaber | Titel | Status | Ablauf | Verletzungsrisiko |
+|---|---|---|---|---|---|
+| [Nummer] | [Inhaber] | [Titel] | Aktiv/Abgelaufen | [Datum] | Grün/Gelb/Rot |
+
+Stand-der-Technik-Entgegenhaltungen:
+| Dokument | Datum | Relevanz |
+|---|---|---|
+
+FTO-Ergebnis: Freier Betrieb / Risiko / Einschränkung
+
+Empfehlung: _______________
+Live-Check-Bedarf: _______________
+Nächster Schritt: _______________
+```
+
+## Typische Fehler beim Patentscreening
+
+- **Modellwissen statt Live-Recherche:** Patent kann seit Modelltraining abgelaufen, eingeschränkt oder übertragen worden sein.
+- **Nur Hauptanspruch geprüft:** Unteransprüche können selbständigen Schutz bieten.
+- **Kein Rechtsstands-Check:** Patent formell aktiv, aber tatsächlich Jahresgebühr nicht gezahlt.
+- **EP-Patent national nicht validiert:** Patent gilt nicht im betroffenen Land.
+- **Kein Äquivalenz-Check:** Nur wortsinngemäße Verletzung geprüft; Äquivalenz übersehen.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+- PatG: [gesetze-im-internet.de/patg](https://www.gesetze-im-internet.de/patg/)
+- [§ 14 PatG – dejure.org](https://dejure.org/gesetze/PatG/14.html) (Schutzumfang)
+- EPÜ Art. 69: [epo.org/law-practice/legal-texts/epc.html](https://www.epo.org/law-practice/legal-texts/epc.html)
+- BGH Patententscheidungen: [bgh.de](https://www.bundesgerichtshof.de)
+- Espacenet: [worldwide.espacenet.com](https://worldwide.espacenet.com)
+- Alle Patentangaben live über Datenbanken prüfen; keine BeckRS-Blindzitate.
+
+## Anschluss-Skills
+
+- `fto-triage` – Freedom-to-Operate Triage
+- `verletzungs-triage` – IP-Verletzung Erstentscheidung
+- `spezial-klausel-beweislast-und-darlegungslast` – Beweislast Patentrecht
+- `spezial-rechtsquellen-livecheck` – Live-Quellen-Prüfung allgemein

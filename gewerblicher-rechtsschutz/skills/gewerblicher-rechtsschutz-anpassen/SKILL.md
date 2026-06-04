@@ -1,77 +1,135 @@
 ---
 name: gewerblicher-rechtsschutz-anpassen
-description: "Kanzlei moechte ihr gewerbliches-Rechtsschutz-Profil nachjustieren ohne das gesamte Ersteinrichtungsinterview zu wiederholen. Profil-Update Gewerblicher Rechtsschutz. Prüfraster: Durchsetzungsstrategie Genehmigungsmatrix Portfolio-Register OSS-Richtlinie Überwachungslisten. Output: aktualisiertes Kanzleiprofil CLAUDE.md. Abgrenzung zu gewerblicher-rechtsschutz-kaltstart-interview (Ersteinrichtung) und gewerblicher-rechtsschutz-mandat-arbeitsbereich."
+description: "Anpassung und Konfiguration des Plugins gewerblicher-rechtsschutz: Mandatsprofil, Kanzleipräferenzen, Normenauswahl, Sprachstil und Outputformat an konkreten Bedarf anpassen. Skill für Kanzleien, die den Plugin-Rahmen ihrem Arbeitsalltag anpassen wollen."
 ---
 
-# Kanzleiprofil anpassen
+# Gewerblicher Rechtsschutz: Plugin anpassen
 
-## Zweck
+## Zweck und Mandatsbezug
 
-Gezielte Nachbearbeitung einzelner Abschnitte des Kanzleiprofils ohne vollständiges Wiederholungs-Interview. Einsatzfelder: neue Marke ins Portfolio aufnehmen, Genehmigungsmatrix nach Personalwechsel anpassen, OSS-Richtlinie nach Strategie-Update aktualisieren, externen Berater wechseln.
+Dieser Skill ermöglicht die **Anpassung des Plugins `gewerblicher-rechtsschutz`** an das spezifische Mandatsprofil einer Kanzlei, eines Rechtsabteilungsleiters oder eines spezialisierten Beratungsunternehmens. Er steuert, welche Normen vorrangig geprüft werden, welcher Sprachstil verwendet wird, welche Gerichte und Behörden typischerweise relevant sind und welches Outputformat bevorzugt wird.
 
-## Eingaben
+Mandatsbezug: Kanzlei mit Schwerpunkt Markenrecht nutzt das Plugin anders als ein Patentanwalt im Maschinenbaubereich. Rechtsabteilung eines Software-Unternehmens benötigt andere Standardabfragen als ein auf Abmahnungen spezialisierter Klagenanwalt.
 
-- Gewünschte Änderung im Klartext (z. B. "Füge Marke NORDBLATT DE hinzu", "Ändere Genehmiger für Abmahnungen auf Max Mustermann")
-- Ggf. neue Dokumente (Portfolio-Export, OSS-Richtlinie als PDF/DOCX)
+## Konfigurationsdimensionen
 
-## Ablauf
+### 1. Mandatsprofil und Rollenstruktur
 
-### 1. Kanzleiprofil laden
+Das Plugin kann auf verschiedene Nutzerrollen kalibriert werden:
 
-Konfiguration aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/gewerblicher-rechtsschutz/CLAUDE.md` lesen. Falls Platzhalter vorhanden: auf `gewerblicher-rechtsschutz-kaltstart-interview` hinweisen.
+| Rolle | Fokus | Typische Aufgaben |
+|---|---|---|
+| Fachanwalt GewRS | Vollständiges IP-Recht | Abmahnung, Klage, Vergleich, Beratung |
+| Patentanwalt | PatG, DesignG, ArbnErfG | Anmeldung, FTO, EV, Lizenz |
+| Rechtsabteilung Industrie | UWG, MarkenG, PatG | Compliance, Lizenz, Abwehr |
+| Startup-Berater | MarkenG, UWG, UrhG | Anmeldung, Erstschutz, Abmahnung-Reaktion |
+| Richter/Rechtspfleger | Alle Normen | Verfahrensrechtliche Fragen |
 
-### 2. Änderungsumfang bestimmen
+**Konfigurationsabfrage:** Welche Rolle ist primär? Wird das Plugin von einer einzelnen Person oder einem Team genutzt?
 
-| Änderungsart | Betroffener Abschnitt |
+### 2. Normenprioritäten
+
+Je nach Kanzleiprofil können unterschiedliche Normengruppen priorisiert werden:
+
+- **Markenrecht:** MarkenG, CTMR (VO (EU) 2017/1001), Madrider System, WIPO-UDRP
+- **Patentrecht:** PatG, EPÜ, PCT, GebrMG, ArbnErfG
+- **Lauterkeitsrecht:** UWG, Richtlinie 2005/29/EG (UGP-RL), Richtlinie 2006/114/EG (Vergleichende Werbung)
+- **Urheberrecht:** UrhG, InfoSoc-Richtlinie (2001/29/EG), DSM-Richtlinie (2019/790)
+- **Designrecht:** DesignG, Gemeinschaftsgeschmacksmuster-VO (6/2002)
+- **Prozessrecht:** ZPO (einstweiliger Rechtsschutz §§ 916 ff.), GKG (Streitwert)
+
+**Konfigurationsabfrage:** Welche Normengruppen dominieren im Alltag?
+
+### 3. Gerichtsstands- und Behördenpräferenzen
+
+Das Plugin kann auf bestimmte Gerichte und Behörden ausgerichtet werden:
+
+- **Patentgericht:** Bundespatentgericht München, EPA (Einspruch, Beschwerde)
+- **Markengerichte:** DPMA, EUIPO, LG Hamburg/München/Frankfurt/Düsseldorf für EV
+- **Zivilgerichte:** LG mit Spezialkammer GewRS; OLG
+- **Behörden:** DPMA (Anmeldung, Widerspruch, Löschung), EUIPO
+
+**Konfigurationsabfrage:** Welche Gerichte und Behörden sind im Arbeitsalltag am häufigsten relevant?
+
+### 4. Sprachstil und Fachtonalität
+
+| Stil | Einsatz |
 |---|---|
-| Schutzrecht hinzufügen/entfernen | `## IP-Portfolio` + `portfolio.yaml` |
-| Durchsetzungsstrategie ändern | `## Durchsetzungsstrategie` |
-| Genehmigungsmatrix ändern | `## Durchsetzungsstrategie > Genehmigung` |
-| Externen Berater ändern | `## IP-Kanzleiprofil > Externe Berater` |
-| OSS-Richtlinie | separates oss-policy-Dokument |
-| Überwachungsliste | `## Markenschutz > Überwachte Marken` |
-| Integrationen | `## Verfügbare Integrationen` |
+| Juristisch-präzise (Gutachtenstil) | Schriftsätze, Memos für Anwälte |
+| Mandantenfreundlich | Mandantenbriefe, Erstgespräche |
+| Tabellarisch-komprimiert | Interne Arbeitsmaterialien |
+| Bilinguale Ausgabe (DE/EN) | Internationale Mandate |
 
-### 3. Änderungen vorschlagen und bestätigen
+**Konfigurationsabfrage:** In welchem Sprachstil sollen Outputs standardmäßig erzeugt werden?
 
-Änderungen als Diff-artige Vorschau zeigen (alt → neu). Nutzer bestätigt, bevor geschrieben wird.
+### 5. Outputformat-Präferenzen
 
-### 4. Profil aktualisieren
+- **Memo:** Kurzgutachten, 1–3 Seiten, Ergebnis zuerst.
+- **Checkliste:** Strukturierter Prüfpfad mit Abhakpunkten.
+- **Schriftsatz-Entwurf:** Vollständiger Klage-, Antrags- oder Briefentwurf.
+- **Tabelle/Matrix:** Normen × Tatbestandsmerkmale × Tatsachen.
+- **Fristenplan:** Chronologischer Überblick mit Verantwortlichkeiten.
+- **Red-Team:** Gegenargumente und Schwachstellenanalyse.
 
-Nach Bestätigung das betreffende Profil schreiben. Änderungsdatum vermerken:
-`# Zuletzt geändert: [JJJJ-MM-TT]`
+**Konfigurationsabfrage:** Welches Outputformat ist Standard, welches Ausnahme?
 
-### 5. Downstream-Folgen prüfen
+## Kaltstart-Konfigurationsgespräch
 
-Einige Änderungen haben Folgewirkungen auf andere Skills:
+Zu Beginn eines neuen Kanzleiprofils:
 
-| Änderung | Downstream-Folgen |
-|---|---|
-| Durchsetzungsstrategie von "ausgewogen" auf "offensiv" | unterlassungsverlangen-Skill senkt Schwelle für Abmahnempfehlung |
-| Neuer Genehmiger | alle Genehmigungsgates aktualisiert |
-| Neues Schutzrecht | portfolio-Skill fügt Fristen automatisch hinzu |
-| OSS-Richtlinie verschärft | open-source-prüfung-Skill verwendet neue Whitelist |
+1. **Kanzlei/Organisation:** Name, Größe, Standort, Fachgebiet-Schwerpunkte.
+2. **Typisches Mandat:** Abmahner oder Abgemahnter? Anmelder oder Verletzer? International oder national?
+3. **Normen-Ranking:** Welche drei Normengruppen kommen täglich vor?
+4. **Bevorzugte Gerichte:** Welche LG/OLG/BGH-Kammern werden regelmäßig bespielt?
+5. **Output-Präferenz:** Schriftsatz, Checkliste, Tabelle oder Kurzgutachten?
+6. **Sprache:** Deutsch, Englisch oder bilingual?
 
-Folgewirkungen dem Nutzer mitteilen.
+## Anpassungsworkflow
 
-## Quellen und Zitierweise
+### Schritt 1 – Profil dokumentieren
 
-Keine primären Rechtsquellen – administrativer Skill. Zitierweise nach `../references/zitierweise.md` gilt für alle vom Skill erzeugten Dokumente.
+Aus dem Kaltstart-Gespräch ein kurzes Kanzleiprofil erzeugen:
+```
+Kanzleiprofil:
+- Schwerpunkt: [Marken/Patent/UWG/Urheberrecht]
+- Typische Mandantenrolle: [Antragsteller/Antragsgegner/Anmelder/Lizenznehmer]
+- Primäre Gerichte: [LG …, OLG …, BGH]
+- Normen-Priorität: [MarkenG, UWG, ZPO §§ 916 ff.]
+- Outputformat-Standard: [Memo/Checkliste/Schriftsatz]
+- Sprache: [Deutsch/Englisch]
+```
 
-## Ausgabeformat
+### Schritt 2 – Skills-Routing anpassen
 
-Diff-Vorschau (alt / neu) je geändertem Abschnitt → Bestätigungsaufforderung → Bestätigungsmeldung nach Schreiben.
+Basierend auf Profil empfehlen, welche Spezialskills bevorzugt genutzt werden sollten:
+- Marken-Schwerpunkt → `markenrecherche`, `markenanmeldung-dpma`, `unterlassungsverlangen`
+- Patent-Schwerpunkt → `fto-triage`, `erfindungsmeldung-aufnahme`, `schutzrechts-portfolio`
+- UWG-Schwerpunkt → `gewr-uwg-abmahnung-checkliste`, `verletzungs-triage`
+- EV-Schwerpunkt → `evvollzug-neu-001` bis `evvollzug-neu-008`
 
-## Risiken / typische Fehler
+### Schritt 3 – Dauereinstellungen festhalten
 
-- **Unbeabsichtigtes Überschreiben:** Nur den betreffenden Abschnitt ändern; nicht das gesamte Profil neu schreiben.
-- **Inkonsistente Matrix:** Genehmigungsmatrix und Durchsetzungsstrategie müssen zueinander passen; bei Widerspruch nachfragen.
-- **Kein Rollback:** Das Plugin speichert keine Vorversionen; bei wichtigen Änderungen vorher eine Sicherungskopie anlegen.
+- Häufig genutzte Streitwert-Tabellen: z.B. OLG Hamburg Streitwertpraxis.
+- Regelmäßige Fristen: DPMA-Widerspruchsfrist 3 Monate, Neuheitsfrist PatG, EUIPO-Fristen.
+- Vorlagen-Bibliothek: Welche Schriftsatz-Vorlagen wurden bereits angepasst?
 
-## Rechtlicher Hintergrund: Kanzleipflichten bei Profilaenderungen
+## Qualitätssicherung nach Anpassung
 
-Bei Änderungen der Genehmigungsmatrix und Durchsetzungsstrategie sind folgende Normen relevant:
+- Nach Profilkonfiguration: Testfall mit einem typischen Mandat durchführen.
+- Prüfen: Stimmen Normenreferenzen, Gerichtsstand, Outputformat?
+- Anpassen: Falls Output nicht passt, Profil verfeinern.
+- Periodisch: Plugin bei Gesetzesänderungen (z.B. neue UWG-Novelle, MarkenG-Reform) aktualisieren.
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- § 43a Abs. 2 BRAO – Verschwiegenheitspflicht: Kanzleiprofil und Mandantenstruktur unterfallen Verschwiegenheitspflicht; Profilaenderungen nur in gesicherter Umgebung.
-- § 203 StGB – Unbefugte Offenbarung von Geheimnissen: Weitergabe von Mandantenstrukturdaten an ungesicherte Drittsysteme strafbewehrt.
+## Quellenregel
+
+- Normänderungen über [gesetze-im-internet.de](https://www.gesetze-im-internet.de) live prüfen.
+- DPMA-Praxis über [dpma.de](https://www.dpma.de) aktuell halten.
+- EUIPO-Richtlinien über [euipo.europa.eu](https://www.euipo.europa.eu) nachverfolgen.
+- Keine BeckRS-Blindzitate; bei spezifischen Gerichtspraxisfragen: Live-Check.
+
+## Anschluss-Skills
+
+- `workflow-kaltstart-und-routing` – Erstgesprächs-Router
+- `mandat-triage-gewerblicher-rechtsschutz` – Mandatstriage
+- `allgemein` – Plugin-Übersicht
+- `gewerblicher-rechtsschutz-kaltstart-interview` – Kaltstart-Interview für neues Mandat

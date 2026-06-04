@@ -1,45 +1,121 @@
 ---
 name: evvollzug-neu-008-schutzschrift-register-und-forumstrategie
-description: "Gewerblicher Rechtsschutz: Schutzschrift Register und Forumstrategie mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "EV-Vollzug (Gegenseite): Schutzschrift im Schutzschriftenregister, Forumsstrategie des Antragsgegners und vorauseilende Rechtsverteidigung gegen einstweilige Verfügungen im gewerblichen Rechtsschutz."
 ---
 
-# Gewerblicher Rechtsschutz: Schutzschrift Register und Forumstrategie
+# EV-Vollzug 008: Schutzschrift, Register und Forumstrategie (Antragsgegnerperspektive)
 
-## Aufgabe
+## Zweck und Mandatsbezug
 
-Dieser Skill bearbeitet **Schutzschrift Register und Forumstrategie** im Bereich **Gewerblicher Rechtsschutz**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Dieser Skill behandelt die **präventive Verteidigungsstrategie des potentiellen Antragsgegners** bei drohender einstweiliger Verfügung im gewerblichen Rechtsschutz. Wer eine Abmahnung erhalten hat oder mit einer EV rechnet, kann durch Einreichung einer Schutzschrift ins zentrale Schutzschriftenregister (ZSSR) das Gericht vorwarnen und die Gewährung einer EV ohne mündliche Verhandlung erschweren.
 
-## Kaltstart in 6 Fragen
+Mandatsbezug: Mandant hat Abmahnung erhalten (Marke, Patent, UWG, Urheberrecht) und lehnt sie ab; Abmahner hat Klageerhebung angedroht. Mandant will Beschlussverfügung ohne Anhörung verhindern. Oder: Mandant ist Wettbewerber, der beim Markteintritt mit Verfügungsantrag rechnet.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Rechtlicher Rahmen
+
+### Zentrale Normen und Grundlagen
+
+- **§ 945a ZPO** – Zentrale Schutzschriften-Einreichung; Schutzschriften können beim ZSSR eingereicht werden und sind von allen ordentlichen Gerichten vor Erlass einer EV einzusehen.
+- **§ 937 Abs. 2 ZPO** – Beschlussverfügung ohne mündliche Verhandlung; Schutzschrift kann diesen Weg verhindern oder erschweren.
+- **§ 922 Abs. 1 ZPO** – Recht des Antragsgegners auf mündliche Verhandlung bei ernsthaften Einwendungen.
+- **§ 919 ZPO** – Allgemeine Zuständigkeitsregeln; Forumstrategie des Antragsgegners.
+- **§ 32 ZPO** – Besonderer Gerichtsstand der unerlaubten Handlung; beliebter Verfügungsgerichtsstand des Antragstellers.
+
+### Das zentrale Schutzschriftenregister (ZSSR)
+
+- Betrieben von: Elektronisches Gerichts- und Verwaltungspostfach (EGVP) unter www.schutzschriftenregister.de
+- Zugang: Rechtsanwälte können Schutzschriften einreichen; Gerichte können abrufen.
+- Geltungsdauer: 6 Monate ab Einreichung; Verlängerung möglich.
+- Kosten: Keine Gerichtsgebühren; nur Anwaltskosten.
+- Pflicht des Gerichts: Vor Erlass einer Beschlussverfügung muss das Gericht das Register abrufen (§ 945a Abs. 3 ZPO).
+
+## Kaltstart in 5 Fragen
+
+1. **Bedrohungslage:** Hat Mandant eine Abmahnung erhalten? Von wem, welcher Anspruch (Marke, UWG, Patent)?
+2. **Abmahninhalt:** Welche Verletzungshandlung wird gerügt? Welche Unterlassungserklärung wird verlangt?
+3. **Forumsfrage:** Wo würde Antragsteller voraussichtlich EV beantragen (Düsseldorf, Hamburg, München, Frankfurt)?
+4. **Dringlichkeit:** Ist Schutzschrift bereits nötig oder gibt es noch Zeit für Korrespondenz?
+5. **Output:** Schutzschrift-Entwurf, Forumstrategie-Memo, Entscheidungsempfehlung Unterlassungserklärung ja/nein?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Schutzschrift als Instrument einschätzen
+
+**Wann sinnvoll:**
+- Abmahnung wurde abgelehnt oder modifiziert beantwortet; Antragsteller hat Klage angedroht.
+- Mandant hat ernsthafte materielle Einwendungen (kein Schutzrecht, kein Verstoß, Verwirkung, Erschöpfung).
+- Antragsteller neigt zu schnellen EV-Anträgen ohne vorherige Reaktion abzuwarten.
+
+**Wann weniger sinnvoll:**
+- Verletzung ist offensichtlich; Schutzschrift kaschiert nur das Problem.
+- Mandant will ohnehin Hauptsachestreit vermeiden; Einigung besser.
+- Schutzschrift enthüllt Verteidigungsstrategie und gibt Antragsteller Gelegenheit zur Vorbereitung.
+
+### Schritt 2 – Schutzschriftinhalt
+
+Pflichtinhalt einer Schutzschrift:
+1. **Rubrum:** Antragsgegner (Mandant), potentieller Antragsteller, Anspruchsgegenstand.
+2. **Sachverhalt:** Tatsachen aus Sicht des Antragsgegners; konkreter Tatbestand.
+3. **Einwendungen:** Warum EV nicht ergehen darf.
+   - Material: Schutzrecht ungültig, kein Verstoß, Erschöpfung (§ 24 MarkenG), Verwirkung.
+   - Formal: Keine Dringlichkeit, fehlende Aktivlegitimation, Missbrauch.
+4. **Beweisangebote:** Dokumente, eidesstattliche Versicherungen, Zeugen.
+5. **Antrag:** Gericht möge von Erlass einer EV ohne mündliche Verhandlung absehen.
+
+### Schritt 3 – Forumstrategie
+
+**Bekannte IP-Gerichte und ihre Tendenz:**
+| Gericht | Besonderheit | Tendenz EV ohne Verhandlung |
+|---|---|---|
+| LG Hamburg | „Fliegender Gerichtsstand"; strenger | Häufig EV ohne Verhandlung |
+| LG München I | IP-Spezialkammer | Ausgewogen |
+| LG Düsseldorf | Starkes Patentgericht | Ausgewogen |
+| LG Frankfurt | UWG-Erfahrung | Ausgewogen |
+| LG Berlin | UWG, Urheberrecht | Häufig EV ohne Verhandlung |
+
+- Schutzschrift bei allen wahrscheinlichen Gerichtsstandorten einreichen.
+- Bei Marke: Sitz des Rechtsinhabers und Ort der Verletzungshandlung (§ 32 ZPO).
+- Bei UWG: Ort der Verletzungshandlung oder Niederlassung des Verletzers.
+
+### Schritt 4 – Fristverlängerung nach Abmahnung
+
+- Angemessene Reaktionsfrist auf Abmahnung ist Voraussetzung für Dringlichkeit der EV.
+- Schutzschrift + Bitte um Fristverlängerung in Reaktion auf Abmahnung: entzieht dem Antragsteller die Dringlichkeit.
+- Wenn Antragsteller trotz laufender Verhandlungen sofort EV beantragt, Selbstwiderlegung der Dringlichkeit rügen.
+
+### Schritt 5 – Abwägung Unterlassungserklärung vs. Schutzschrift
+
+| Option | Vorteile | Nachteile |
+|---|---|---|
+| Modifizierte Unterlassungserklärung | Verfahrensbeendigung, Kostenkontrolle | Anerkenntnis der Verletzung (faktisch) |
+| Schutzschrift ohne Unterlassungserklärung | Keine Anerkennung; Verfahren bleibt offen | Kosten bei Niederlage im Hauptsacheverfahren |
+| Keine Reaktion | Kostenlos | EV ohne mündliche Verhandlung wahrscheinlich |
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Schutzschrift enthüllt Hauptverteidigungsstrategie:** Antragsteller kann diese in EV-Antrag kontern.
+- **Schutzschrift nicht beim richtigen Gericht:** Register wird abgerufen, aber Mandant hat falschen Gerichtsstand erwartet.
+- **Ablaufende Geltungsdauer übersehen:** Schutzschrift erlischt nach 6 Monaten; bei laufender Abmahnkorrespondenz verlängern.
+- **Keine Beweisangebote:** Schutzschrift ohne Belege überzeugt Gericht nicht, von Beschlussverfügung abzusehen.
 
-## Output
+## Output-Module
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- **Schutzschrift-Vorlage:** Muster mit Rubrum, Sachverhalt, Einwendungen, Beweisangeboten.
+- **Forumstrategie-Matrix:** Wahrscheinliche Gerichtsstände mit Tendenzeinschätzung.
+- **Entscheidungsbaum:** Schutzschrift / Unterlassungserklärung / Keine Reaktion.
+- **Fristverlängerungsschreiben an Abmahner:** Entwurf mit Bitte um Verhandlungszeit.
+
+## Quellenregel
+
+- [§ 945a ZPO – dejure.org](https://dejure.org/gesetze/ZPO/945a.html)
+- [§ 937 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/937.html)
+- ZSSR: [schutzschriftenregister.de](https://www.schutzschriftenregister.de)
+- Rechtsprechung zur Dringlichkeitsschädlichkeit: BGH und OLG-Entscheidungen auf openjur.de.
+- Keine Kommentar-Blindzitate; aktuelle Gerichtspraxis zu Dringlichkeit per Gerichtsstandort prüfen.
+
+## Anschluss-Skills
+
+- `schutzschrift-eilverfuegung` – Schutzschrift im Detail
+- `unterlassungsverlangen` – Unterlassungserklärung als Alternative
+- `evvollzug-neu-001` – Vollziehungsfrist (Antragstellerperspektive)
+- `verletzungs-triage` – Erstentscheidung IP-Verletzung

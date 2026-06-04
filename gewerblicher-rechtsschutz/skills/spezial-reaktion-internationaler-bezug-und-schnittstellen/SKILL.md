@@ -1,48 +1,129 @@
 ---
 name: spezial-reaktion-internationaler-bezug-und-schnittstellen
-description: "Reaktion: Internationaler Bezug und Schnittstellen im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Internationaler Bezug im gewerblichen Rechtsschutz: Zuständigkeit, anwendbares Recht, Enforcement im Ausland, Unionsmarke und -patent, WIPO-UDRP, grenzüberschreitende Abmahnung und Koordination mit ausländischen Anwälten."
 ---
 
-# Reaktion: Internationaler Bezug und Schnittstellen
+# Spezial: Internationaler Bezug und Schnittstellen
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `gewerblicher-rechtsschutz`. Ausgangspunkt ist: Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.
+## Zweck und Mandatsbezug
 
-Er führt durch **Internationaler Bezug und Schnittstellen** im Themenfeld **Reaktion**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill behandelt die **internationalen Bezüge im gewerblichen Rechtsschutz** – grenzüberschreitende IP-Verletzungen, Zuständigkeitsfragen, anwendbares Recht und die Koordination mit ausländischen Anwälten. IP-Verletzungen enden nicht an Landesgrenzen; besonders im Online-Handel, bei internationalen Messen und bei global agierenden Wettbewerbern ist die internationale Dimension entscheidend.
 
+Mandatsbezug: Deutsches Unternehmen entdeckt Verletzung seiner deutschen Marke durch US-amerikanischen Online-Händler. Oder: Mandant hat europäisches Patent und ein chinesischer Wettbewerber nutzt die Technologie in China und Europa.
 
-## Fachlicher Zuschnitt
+## Rechtlicher Rahmen
 
-- **Thema:** Reaktion.
-- **Arbeitsfokus:** Internationaler Bezug und Schnittstellen.
-- **Plugin-Rahmen:** Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand un....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### Zuständigkeit bei internationalen IP-Verletzungen
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+- **EuGVVO (VO (EU) 1215/2012 Brüssel Ia):** Für EU-Beklagte; Hauptregel: Gericht am Wohnsitz des Beklagten (Art. 4); Tatortgericht (Art. 7 Nr. 2).
+- **LUCG (Lugano-Übereinkommen):** Für Schweiz, Norwegen, Island.
+- **HaGÜ 2019 (HCCH Judgments Convention):** Noch begrenzte Ratifizierung; relevant für Urteilsanerkennung.
+- Für Nicht-EU, Nicht-Lugano-Staaten: §§ 12 ff. ZPO; Tatortgerichtsstand §§ 32 ZPO.
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+### Anwendbares Recht
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Reaktion** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+- **ROM II-Verordnung (VO (EG) Nr. 864/2007):** Außervertragliche Schuldverhältnisse; Art. 8 ROM II: IP-Verletzungen → Recht des Schutzlandes (lex loci protectionis).
+- **Markenrecht:** Recht des Staates, in dem Marke eingetragen ist.
+- **Urheberrecht:** Recht des Schutzlandes; in EU harmonisiert.
+- **UWG:** Marktortprinzip; Ort, wo Wettbewerbshandlung auf den Markt wirkt.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+### Internationale Schutzrechtsinstrumente
+
+| Instrument | Inhalt | Zuständigkeit |
+|---|---|---|
+| Unionsmarke | EU-weiter Schutz | EUIPO |
+| Europäisches Patent | EP-Schutz + nationale Validierung | EPA + nationale Ämter |
+| PCT-Anmeldung | Internationale Patentanmeldung | WIPO + nationale Ämter |
+| Madrider System | Internationale Markenanmeldung | WIPO |
+| Haager System | Internationale Designanmeldung | WIPO |
+| WIPO-UDRP | Domain-Streit | WIPO-Schiedsgericht |
+
+## Schnittstellen: EU-Recht
+
+### Unionsmarke (EUTMR)
+
+- Einheitlicher Schutz in allen 27 EU-Mitgliedstaaten.
+- Eine Abmahnung wegen UM-Verletzung kann EU-weite Unterlassung begründen.
+- EuGH: Gebietserstreckung einer UM-EV auf gesamte EU (EuGH „AMS Neve").
+- Durchsetzung: Nationales Gericht als Unionsmarkengericht; Zuständigkeit nach EUTMR Art. 123.
+
+### Europäisches Patent (EP)
+
+- Kein einheitlicher Schutz; Bündel nationaler Patente nach Validierung.
+- Unitarpatent (UPC): Ab 2023 schrittweise; einheitlicher Schutz in teilnehmenden EU-Staaten; UPC-Gericht für Verletzungsklagen.
+- Verletzungsklage: Nationales Gericht des Schutzlandes (Deutschland: LG mit Patentspezialkammer).
+
+## Schnittstellen: USA
+
+### US-Markenrecht
+
+- Federal trademark: USPTO; ähnlich zu DPMA, aber common-law-Rechte aus Benutzung.
+- Verletzung: US-Bundesgericht (District Court); 15 USC §§ 1114, 1125 (Lanham Act).
+- TTAB: Widerspruch und Löschung beim Trademark Trial and Appeal Board.
+- Lizenz-Registrierung: CBP (US Customs) für Grenzbeschlagnahme.
+
+### US-Patentrecht
+
+- USPTO; US-Patent schützt nur in USA.
+- ITC-Verfahren: International Trade Commission; Import-Embargo bei Patentverletzung.
+- PTAB: Nichtigkeitsverfahren vor Patent Trial and Appeal Board.
+
+## Grenzüberschreitende Abmahnung
+
+### Abmahnung aus Deutschland ins Ausland
+
+- Formvoraussetzungen des Landes des Empfängers prüfen (manche Länder kennen kein Abmahnverfahren).
+- Sprache: Abmahnung in Sprache des Empfängerlandes; ggf. beglaubigte Übersetzung.
+- Zustellung: Nach EuZustVO (EU), HZÜ (Nicht-EU) oder § 183 ZPO (sonst).
+- Wirkung: Abmahnung nach deutschem Recht gilt nur für Deutschland; getrennte Abmahnung je Land nötig.
+
+### Abmahnung aus dem Ausland empfangen
+
+- Deutsches Recht anwendbar? Verletzung in Deutschland?
+- Formvoraussetzungen nach § 97a UrhG / § 14 MarkenG / § 13 UWG prüfen.
+- Ausländische Abmahnung ohne inländische Formvoraussetzungen: ggf. unbeachtlich.
+
+## WIPO-UDRP: Domain-Streitigkeiten
+
+- **UDRP (Uniform Domain Name Dispute Resolution Policy):** Standardverfahren für generische Domains (.com, .net, .org).
+- **Voraussetzungen:**
+  1. Domain identisch oder verwechslungsfähig ähnlich mit Marke.
+  2. Kein legitimes Interesse des Domain-Inhabers.
+  3. Bösgläubige Registrierung und Benutzung.
+- **Verfahren:** Online-Einreichung bei WIPO-Schiedsgericht; kein persönlicher Auftritt; Entscheidung meist in 2–3 Monaten.
+- **Ergebnis:** Übertragung oder Löschung der Domain.
+- **Alternativen:** .de-Domains über DENIC-Dispute; nationale TLDs über nationale Stellen.
+- **WIPO-UDRP-Portal:** [wipo.int/amc/en/domains](https://www.wipo.int/amc/en/domains/)
+
+## Koordination mit ausländischen Anwälten
+
+### Wann ausländischer Anwalt nötig?
+
+- Verletzungsverfahren im Ausland (z.B. US-Klage).
+- Auslandszustellung (GV hat keinen Zugang).
+- Lokale Behördenverfahren (USPTO, TTAB, CNIPA China).
+- Grenzüberschreitende Beschlagnahme (Customs/Zoll).
+
+### Briefing für ausländischen Anwalt
+
+- Vollständige Sachverhaltsdarstellung in Verfahrenssprache des Auslandsgerichts.
+- Kopien aller Schutzrechtsurkunden.
+- Verletzungsnachweis mit Datum und Belegen.
+- Strategieziel: Unterlassung, Schadensersatz, Lizenz?
+- Mandantenentscheidung über Kostenrahmen.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+- EuGVVO: [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32012R1215)
+- ROM II: [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32007R0864)
+- EUTMR: [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32017R1001)
+- WIPO-UDRP: [wipo.int/amc/en/domains](https://www.wipo.int/amc/en/domains/)
+- EuGH „AMS Neve": [curia.europa.eu](https://curia.europa.eu); AZ C-172/18.
+- Keine BeckRS-Blindzitate; internationale Normen über offizielle Quellen prüfen.
+
+## Anschluss-Skills
+
+- `evvollzug-neu-006` – Auslandszustellung EV
+- `spezial-anmeldung-behoerden-gericht-und-registerweg` – Behördenübersicht
+- `takedown-anweisung` – Domain-Takedown
+- `spezial-patentscreening-livequellen-und-rechtsprechungscheck` – Patentrecherche

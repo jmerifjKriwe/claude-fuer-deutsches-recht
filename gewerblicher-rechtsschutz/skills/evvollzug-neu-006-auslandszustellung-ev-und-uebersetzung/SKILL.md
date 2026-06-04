@@ -1,45 +1,117 @@
 ---
 name: evvollzug-neu-006-auslandszustellung-ev-und-uebersetzung
-description: "Gewerblicher Rechtsschutz: Auslandszustellung eV und Übersetzung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "EV-Vollzug: Auslandszustellung einstweiliger Verfügungen im IP-Recht nach EuZustVO, HZÜ und HCCH 2019. Übersetzungspflicht, Zustellwege EU/Nicht-EU, Vollziehungsfrist und praktische Fallstricke bei grenzüberschreitenden IP-Verfügungen."
 ---
 
-# Gewerblicher Rechtsschutz: Auslandszustellung eV und Übersetzung
+# EV-Vollzug 006: Auslandszustellung der EV und Übersetzungspflicht
 
-## Aufgabe
+## Zweck und Mandatsbezug
 
-Dieser Skill bearbeitet **Auslandszustellung eV und Übersetzung** im Bereich **Gewerblicher Rechtsschutz**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Dieser Skill behandelt die **grenzüberschreitende Zustellung einstweiliger Verfügungen** – ein häufiges Problem im gewerblichen Rechtsschutz, wenn Marken-, Patent- oder UWG-Verletzer im Ausland sitzen. Die Auslandszustellung ist komplex, zeitintensiv und kann die Vollziehungsfrist nach § 929 Abs. 2 ZPO gefährden.
 
-## Kaltstart in 6 Fragen
+Mandatsbezug: Deutsches Gericht erlässt EV gegen englischen Online-Händler oder US-amerikanischen App-Anbieter. Die Monatsfrist läuft; parallele Zustellwege müssen koordiniert werden.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Rechtlicher Rahmen
+
+### Zentrale Normen und Verordnungen
+
+- **§ 929 Abs. 2 ZPO** – Vollziehungsfrist ein Monat; bei Auslandszustellung Fristverlängerungsantrag möglich (§ 929 Abs. 2 Satz 2 ZPO).
+- **EuZustVO 2020 (VO (EU) 2020/1784)** – Zustellung gerichtlicher und außergerichtlicher Schriftstücke in EU-Mitgliedstaaten; gilt ab 1. Juli 2022.
+- **HZÜ 1965** – Haager Übereinkommen über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- und Handelssachen; gilt für zahlreiche Nicht-EU-Staaten (u.a. USA, UK post-Brexit, Japan, Schweiz).
+- **§§ 183, 184 ZPO** – Auslandszustellung in Nicht-Vertragsstaaten; Botschaftszustellung.
+- **Art. 8 EuZustVO 2020** – Übersetzungspflicht: Empfänger kann Annahmeverweigerung erklären, wenn Schriftstück nicht in Amtssprache des Empfangsstaats vorliegt.
+
+### Zustellwege im Überblick
+
+| Zielstaat | Rechtsgrundlage | Zustellweg | Zeitaufwand |
+|---|---|---|---|
+| EU-Mitgliedstaat | EuZustVO 2020 | Empfangsstelle; elektronische Übermittlung | 1–4 Wochen |
+| UK (post-Brexit) | HZÜ 1965 | Central Authority; Solicitor | 4–8 Wochen |
+| USA | HZÜ 1965 | Central Authority (US DoJ) | 4–12 Wochen |
+| Schweiz | HZÜ 1965 | Kantonales Gericht | 4–8 Wochen |
+| China | HZÜ 1965 | Ministry of Justice | 6–12 Monate |
+| Nicht-Vertragsstaat | § 183 ZPO | Botschaftszustellung | sehr lang |
+
+## Kaltstart in 5 Fragen
+
+1. **Sitzstaat des Schuldners:** In welchem Land sitzt der Schuldner? EU, HZÜ-Vertragsstaat oder sonstiger Staat?
+2. **Vollziehungsfrist:** Wie viel Zeit bleibt bis zum Ablauf der Monatsfrist (§ 929 Abs. 2 ZPO)?
+3. **Anwalt im Ausland:** Hat Schuldner einen inländischen Prozessvertreter? Dann Inlandszustellung möglich.
+4. **Übersetzung:** Liegt eine Übersetzung des EV-Beschlusses in die Sprache des Empfangsstaats vor?
+5. **Parallele Zustellung:** Wird Fristverlängerungsantrag beim deutschen Gericht gestellt?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Schritt 1 – Zustellungsform nach Zielstaat bestimmen
+
+**EU-Mitgliedstaat (EuZustVO 2020):**
+- Empfangsstelle des Mitgliedstaats identifizieren (Liste auf EJN-Website).
+- Formblatt L (Standardformular EuZustVO) ausfüllen.
+- Elektronische Übermittlung über Dezentrales IT-System ab 2025 schrittweise.
+- Übersetzung: Empfänger kann Annahme verweigern, wenn keine Übersetzung (Art. 8 EuZustVO); bei Verdacht immer übersetzen.
+
+**HZÜ-Vertragsstaat (USA, UK, Schweiz etc.):**
+- Central Authority des Empfangsstaats identifizieren.
+- Haager Formblätter (Modèle CN, CN-A) verwenden.
+- Übersetzungsanforderungen des Empfangsstaats beachten (USA: Englisch; Schweiz: Deutsch/Französisch/Italienisch je nach Kanton).
+- Zeitplan: Realistische Bearbeitungszeit einkalkulieren (USA: 4–12 Wochen).
+
+**Nicht-Vertragsstaat:**
+- § 183 ZPO: Zustellung über diplomatischen Weg.
+- Extrem langwierig; im Einzelfall: Schuldner hat deutschen Anwalt? Wenn ja, Inlandszustellung bevorzugen.
+
+### Schritt 2 – Fristverlängerungsantrag
+
+- § 929 Abs. 2 Satz 2 ZPO ermöglicht Verlängerung der Vollziehungsfrist auf Antrag.
+- Antrag muss vor Fristablauf gestellt werden.
+- Begründung: Auslandszustellung in Bearbeitung, konkrete Zustellungsschritte darlegen.
+- Gericht hat Ermessen; praktisch werden bei substantiierten Anträgen Verlängerungen gewährt.
+
+### Schritt 3 – Übersetzung organisieren
+
+- Zertifizierter Übersetzer (in der Regel vereidigter Übersetzer) erforderlich.
+- Inhalt: Gesamter Beschlusstext inkl. Tenor, Begründung und ggf. Kostenentscheidung.
+- Bei Eilsache: Schnellübersetzung beauftragen; Kosten als Verfahrenskosten erstattungsfähig.
+- Wichtig: Übersetzung muss aktuell sein; nachträgliche Beschlussänderungen einarbeiten.
+
+### Schritt 4 – Inländischen Zustellungsempfänger prüfen
+
+- Hat der Schuldner einen deutschen Prozessbevollmächtigten? Dann Inlandszustellung über diesen.
+- Hat der Schuldner eine inländische Niederlassung? Zustellung an Niederlassung möglich (§ 178 Abs. 1 Nr. 2 ZPO).
+- Hat der Schuldner einen Zustellungsbevollmächtigten in Deutschland benannt? Vorrang.
+- Diese Prüfung spart Monate gegenüber dem Auslandszustellungsweg.
+
+### Schritt 5 – Parallele Zustellungsstrategien
+
+- GV-Zustellung an inländischen Vertreter + Auslandszustellung parallel.
+- Erste wirksame Zustellung beendet das Verfahren.
+- Dokumentation: Beide Wege aufzeichnen, um im Ordnungsmittelverfahren den Kenntniszeitpunkt des Schuldners zu belegen.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Fristversäumnis durch Unterschätzung des Zeitaufwands:** Auslandszustellung dauert Monate; ohne Fristverlängerungsantrag verliert man die EV.
+- **Keine Übersetzung:** Schuldner verweigert Annahme; Zustellung unwirksam.
+- **Falsches Formblatt:** Haager Formblätter veraltet oder falsch ausgefüllt; Empfangsstelle sendet zurück.
+- **Schuldner hat deutschen Anwalt übersehen:** Einfachere Inlandszustellung möglich gewesen.
+- **Unvollständiger Antrag an Central Authority:** Fehlende Anlagen führen zur Rücksendung.
 
-## Output
+## Output-Module
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+- **Zustellwegmatrix:** Sitzstaat → Rechtsgrundlage → Zustellweg → Zeitplan.
+- **Fristverlängerungsantrag-Vorlage:** Begründung, Darlegung Zustellungsschritte.
+- **Übersetzungsauftrag-Checkliste:** Dokument, Sprache, Zertifizierung, Frist.
+- **Parallelstrategie-Plan:** Inlandszustellung + Auslandszustellung tabellarisch.
+
+## Quellenregel
+
+- EuZustVO 2020: [eur-lex.europa.eu – VO (EU) 2020/1784](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32020R1784)
+- HZÜ 1965: [hcch.net](https://www.hcch.net/en/instruments/conventions/full-text/?cid=17)
+- [§ 183 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/183.html)
+- [§ 929 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/929.html)
+- Aktuelle Central-Authority-Listen über HCCH-Website prüfen; keine BeckRS-Blindzitate.
+
+## Anschluss-Skills
+
+- `evvollzug-neu-001` – Vollziehungsfrist Überblick
+- `evvollzug-neu-003` – GV-Zustellung im Inland
+- `spezial-reaktion-internationaler-bezug-und-schnittstellen` – Internationale Bezüge im GewRS

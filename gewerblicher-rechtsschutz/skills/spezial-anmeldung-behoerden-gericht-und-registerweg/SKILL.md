@@ -1,48 +1,146 @@
 ---
 name: spezial-anmeldung-behoerden-gericht-und-registerweg
-description: "Anmeldung: Behörden-, Gerichts- oder Registerweg im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Anmeldung im gewerblichen Rechtsschutz: Behörden, Gerichte und Registerwege für Marken, Patente, Designs und Gebrauchsmuster. DPMA, EUIPO, EPA, WIPO, Bundespatentgericht – Zuständigkeiten, Formulare, Fristen und Einreichungswege."
 ---
 
-# Anmeldung: Behörden-, Gerichts- oder Registerweg
+# Spezial: Anmeldung – Behörden, Gerichte und Registerwege
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `gewerblicher-rechtsschutz`. Ausgangspunkt ist: Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.
+## Zweck und Mandatsbezug
 
-Er führt durch **Behörden-, Gerichts- oder Registerweg** im Themenfeld **Anmeldung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill gibt einen vollständigen Überblick über **Behörden, Gerichte und Registerwege im gewerblichen Rechtsschutz** – von der Schutzrechtsanmeldung über Widerspruchs- und Löschungsverfahren bis zu Gerichtsverfahren vor Fachgerichten. Er ist der zentrale Orientierungs-Skill für alle Verfahrensfragen zum Register- und Behördenkontakt.
 
+Mandatsbezug: Anwalt fragt: Welches Amt ist für meine Marke zuständig? Wo reiche ich den Löschungsantrag ein? Welches Formular brauche ich für die internationale Anmeldung? Mandant fragt: Kann ich mein Patent selbst anmelden?
 
-## Fachlicher Zuschnitt
+## Behördenübersicht
 
-- **Thema:** Anmeldung.
-- **Arbeitsfokus:** Behörden-, Gerichts- oder Registerweg.
-- **Plugin-Rahmen:** Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand un....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### DPMA – Deutsches Patent- und Markenamt
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+**Sitz:** München (Haupt), Jena und Berlin (Zweigstellen)
+**Website:** [dpma.de](https://www.dpma.de)
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+| Verfahren | Zuständigkeit | Online-Portal | Frist |
+|---|---|---|---|
+| Markenanmeldung | DPMA | DPMAdirekt | – |
+| Patentanmeldung (national) | DPMA | DPMAregister | – |
+| Gebrauchsmusteranmeldung | DPMA | DPMAregister | – |
+| Designanmeldung | DPMA | DPMAregister | – |
+| Marken-Widerspruch | DPMA | DPMAregister | 3 Monate ab Veröffentlichung |
+| Marken-Löschungsantrag | DPMA | DPMAregister | Jederzeit (relative Gründe: 5 Jahre) |
+| Patenteinspruch | DPMA | – | 3 Monate ab Veröffentlichung |
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Anmeldung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+**Wichtige Formulare:**
+- Formular D/A 95xx (Markenanmeldung), D/P 1000 (Patentanmeldung), D/GM 50xx (Gebrauchsmuster).
+- Elektronische Einreichung bevorzugt; DPMA bietet dpmaregister.dpma.de als Einreichungsportal.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+### EUIPO – Amt der Europäischen Union für geistiges Eigentum
+
+**Sitz:** Alicante, Spanien
+**Website:** [euipo.europa.eu](https://www.euipo.europa.eu)
+
+| Verfahren | Zuständigkeit | Online-Portal | Frist |
+|---|---|---|---|
+| Unionsmarkenanmeldung | EUIPO | eSearch Plus / eFiling | – |
+| Gemeinschaftsgeschmacksmuster-Anmeldung | EUIPO | eFiling | – |
+| Unionsmarken-Widerspruch | EUIPO | eSearch Plus | 3 Monate ab Veröffentlichung |
+| Unionsmarken-Nichtigkeitsantrag | EUIPO | eFiling | Jederzeit |
+| Beschwerde | EUIPO-Beschwerdekammer | – | 2 Monate ab Entscheidung |
+
+**Verfahrenssprache:** Eine der fünf EUIPO-Sprachen (Deutsch möglich); zweite Sprache wird automatisch festgelegt.
+
+### EPA – Europäisches Patentamt
+
+**Sitz:** München (Haupt), Den Haag, Berlin, Wien
+**Website:** [epo.org](https://www.epo.org)
+
+| Verfahren | Zuständigkeit | Online-Portal | Frist |
+|---|---|---|---|
+| Europäische Patentanmeldung (EP) | EPA | MyEPO | – |
+| PCT-Anmeldung (international) | WIPO/EPA | ePCT | – |
+| Einspruch gegen EP | EPA | MyEPO | 9 Monate ab Patenterteilung |
+| Beschwerde EPA-Einspruchsabteilung | EPA-Beschwerdekammer | – | 2 Monate ab Entscheidung |
+
+**Besonderheit:** EP-Patent muss nach Erteilung in Nationalstaaten validiert werden; Fristen und Kosten je Land unterschiedlich.
+
+### WIPO – World Intellectual Property Organization
+
+**Sitz:** Genf, Schweiz
+**Website:** [wipo.int](https://www.wipo.int)
+
+| Verfahren | Beschreibung | Online-Portal |
+|---|---|---|
+| IR-Marke (Madrider System) | Internationale Markenanmeldung | Madrid Monitor |
+| PCT-Anmeldung | Internationale Patentanmeldung | ePCT |
+| Haager System | Internationale Designanmeldung | Hague Monitor |
+| UDRP-Verfahren | Domain-Name-Streit | WIPO-UDRP-Portal |
+
+### Bundespatentgericht (BPatG)
+
+**Sitz:** München
+**Website:** [bundespatentgericht.de](https://www.bundespatentgericht.de)
+
+| Verfahren | Beschreibung |
+|---|---|
+| Beschwerde gegen DPMA-Entscheidungen | Marke, Patent, Design, Gebrauchsmuster |
+| Nichtigkeitsklagen (Patent, Design) | Gegen eingetragene Patente/Designs |
+| Marken-Löschungsklage | Als Alternative zum DPMA-Verfahren |
+| Zwangslizenzverfahren (§ 24 PatG) | Wenn Patentinhaber Lizenz verweigert |
+
+### Ordentliche Gerichte (Verletzungsverfahren)
+
+| Gericht | Zuständigkeit (Beispiele) |
+|---|---|
+| Landgericht (Spezialkammer) | IP-Verletzungssachen; einstweilige Verfügung |
+| Oberlandesgericht | Berufung in IP-Sachen |
+| BGH | Revision; Leitsatzentscheidungen |
+| EuGH | Vorabentscheidungsverfahren EU-Recht |
+
+**Spezialisierte LG-Kammern:**
+- LG Hamburg: Urheberrecht, UWG, Marke
+- LG München I: Patent, UWG, Marke
+- LG Düsseldorf: Patent (stärkste Patenkammer)
+- LG Frankfurt a.M.: Marke, UWG
+
+## Prüfprogramm: Richtigen Weg wählen
+
+### Schritt 1 – Art des Rechtsschutzbegehrens
+
+- **Anmeldung eines neuen Schutzrechts:** DPMA (national), EUIPO (EU), EPA (europäisches Patent), WIPO (international).
+- **Angriff auf fremdes Schutzrecht:** DPMA-Widerspruch/Löschung, EUIPO-Widerspruch/Nichtigkeitsantrag, BPatG-Nichtigkeitsklage.
+- **Verletzungsverfahren:** LG mit Spezialkammer; einstweilige Verfügung oder Hauptsacheklage.
+- **Domain-Streit:** WIPO-UDRP-Verfahren (→ skill `takedown-anweisung`).
+
+### Schritt 2 – Fristen und Formulare prüfen
+
+- Fristen: Immer aktuelle Fristen über Behördenwebseite prüfen (dpma.de, euipo.europa.eu, epo.org).
+- Formulare: DPMA bietet PDF-Formulare und Online-Einreichung; EUIPO und EPA nur online.
+- Verfahrenssprache: DPMA = Deutsch; EUIPO = eine der fünf Sprachen; EPA = Deutsch, Englisch, Französisch.
+
+### Schritt 3 – Kostenübersicht erstellen
+
+- **DPMA:** Markenanmeldung ab 300 EUR; Patentanmeldung ab 40 EUR Anmeldegebühr (+ Prüfungsgebühr 350 EUR).
+- **EUIPO:** Unionsmarke ab 850 EUR (1 Klasse); GGM ab 350 EUR.
+- **EPA:** Europäisches Patent: Anmeldung ca. 235 EUR; Prüfungsgebühr ca. 1.890 EUR; Erteilung ca. 1.130 EUR + Jahresgebühren.
+- Gerichtskosten: GKG-Tabelle nach Streitwert.
+
+## Typische Fehler
+
+- **Falsche Behörde:** Patentanmeldung beim DPMA statt EPA; spätere europäische Erweiterung schwieriger.
+- **Frist versäumt:** Widerspruchsfrist beim DPMA/EUIPO 3 Monate; keine Wiedereinsetzung bei einfachen Fehlern.
+- **Falsches Formular:** DPMA-Anmeldung ohne Pflichtangaben; Zurückweisung.
+- **Validierung EP-Patent vergessen:** Nach EPA-Erteilung nationale Validierung erforderlich; Fristen und Kosten je Staat.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+- DPMA: [dpma.de](https://www.dpma.de)
+- EUIPO: [euipo.europa.eu](https://www.euipo.europa.eu)
+- EPA: [epo.org](https://www.epo.org)
+- WIPO: [wipo.int](https://www.wipo.int)
+- BPatG: [bundespatentgericht.de](https://www.bundespatentgericht.de)
+- Gebühren und Fristen immer über offizielle Behördenwebseiten prüfen; keine Drittquellen.
+
+## Anschluss-Skills
+
+- `gewr-markenanmeldung-bauleiter` – Markenanmeldung Bauleiter
+- `spezial-dpma-fristen-form-und-zustaendigkeit` – DPMA-Verfahren im Detail
+- `spezial-euipo-dokumentenmatrix-und-lueckenliste` – EUIPO-Verfahren
+- `markenanmeldung-dpma` – DPMA-Anmeldung Schritt für Schritt

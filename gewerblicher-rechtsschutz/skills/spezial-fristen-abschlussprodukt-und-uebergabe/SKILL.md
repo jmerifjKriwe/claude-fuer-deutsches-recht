@@ -1,48 +1,132 @@
 ---
 name: spezial-fristen-abschlussprodukt-und-uebergabe
-description: "Fristen: Abschlussprodukt und Übergabe im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Fristenverwaltung im gewerblichen Rechtsschutz: Abschlussprodukte rechtzeitig fertigstellen, Übergabe an Mandanten und Behörden sichern. Fristenmatrix für DPMA, EUIPO, EPA, Gerichtsverfahren, EV-Vollzug und Abmahnfristen."
 ---
 
-# Fristen: Abschlussprodukt und Übergabe
+# Spezial: Fristen – Abschlussprodukt und Übergabe
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `gewerblicher-rechtsschutz`. Ausgangspunkt ist: Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.
+## Zweck und Mandatsbezug
 
-Er führt durch **Abschlussprodukt und Übergabe** im Themenfeld **Fristen**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill behandelt die **systematische Fristenverwaltung** im gewerblichen Rechtsschutz – von der Erfassung über die Überwachung bis zur termingerechten Ablieferung von Abschlussprodukten. Fristversäumnisse im IP-Recht können zum Verlust von Schutzrechten, zu Kostenfolgen oder zum Scheitern von Verfahren führen. Eine strukturierte Fristenmatrix ist die Grundlage verlässlicher anwaltlicher Praxis.
 
+Mandatsbezug: Kanzlei betreut 20 Markenanmeldungen gleichzeitig; Rechtsabteilung verwaltet globales Patentportfolio; Anwalt hat mehrere parallele EV-Verfahren mit verschiedenen Vollziehungsfristen.
 
-## Fachlicher Zuschnitt
+## Fristenmatrix: Überblick nach Verfahren
 
-- **Thema:** Fristen.
-- **Arbeitsfokus:** Abschlussprodukt und Übergabe.
-- **Plugin-Rahmen:** Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand un....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### A – DPMA-Fristen
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+| Frist | Auslöser | Dauer | Konsequenz bei Versäumnis |
+|---|---|---|---|
+| Marken-Widerspruch | Veröffentlichung im Markenblatt | 3 Monate | Keine Wiedereinsetzung |
+| Marken-Löschungsantrag (ält. Recht) | Kenntnis der Eintragung | 5 Jahre Duldungsfrist (§ 21 MarkenG) | Verwirkung |
+| Patent-Einspruch | Veröffentlichung der Erteilung | 3 Monate | Unwiederbringlich verpasst |
+| Patent-Prüfungsantrag | Anmeldedatum | 7 Jahre | Patent gilt als zurückgenommen |
+| Patent-Jahresgebühr | Fälligkeitstag nach Anmeldung | Jährlich ab 3. Jahr | Erlöschen des Patents |
+| Patent-Wiedereinsetzung | Fristversäumnis | 2 Monate ab Wegfall Hindernis | Nur bei entschuldbarem Versäumnis |
+| Design-Verlängerung | Ablauf Schutzperiode (5-Jahres-Intervalle) | 6 Monate Nachfrist | Erlöschen |
+| Gebrauchsmuster-Verlängerung | Ablauf Schutzperiode (3-Jahres-Intervalle) | Nachfrist | Erlöschen |
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+### B – EUIPO-Fristen
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Fristen** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+| Frist | Auslöser | Dauer | Konsequenz bei Versäumnis |
+|---|---|---|---|
+| Unionsmarken-Widerspruch | Veröffentlichung | 3 Monate | Unabänderlich |
+| Widerspruchs-Substantiierung | Ende Widerspruchsfrist | 2 Monate (+Verlängerung) | Widerspruch abgelehnt |
+| Benutzungsnachweis | Anforderung durch Markeninhaber | Gesetzt (2 Monate) | Zurückweisung Widerspruch |
+| Beschwerde | EUIPO-Entscheidung | 2 Monate | Unanfechtbar |
+| Beschwerdebegründung | EUIPO-Entscheidung | 4 Monate | Beschwerde unzulässig |
+| UM-Verlängerung | Ablauf 10-Jahres-Frist | 6 Monate Nachfrist (mit Zuschlag) | Löschung |
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+### C – EPA-Fristen
+
+| Frist | Auslöser | Dauer | Konsequenz bei Versäumnis |
+|---|---|---|---|
+| Einspruch gegen EP | Erteilungsdatum Patentblatt | 9 Monate | Unabänderlich |
+| Beschwerde EPA | Einspruchsentscheidung | 2 Monate | Unanfechtbar |
+| Beschwerdebegründung EPA | Beschwerdeeinlegung | 4 Monate | Beschwerde unzulässig |
+| Prio (Unionspriorität) | Erstanmeldung | 12 Monate | Priorität verloren |
+| PCT-Nationaleintritt | PCT-Anmeldedatum | 30 Monate (Standard) | Nationales Patent nicht beansprucht |
+| Validierung EP national | Erteilung | Je nach Staat (i.d.R. 3 Monate) | Kein nationaler Schutz |
+
+### D – Gerichtliche Fristen
+
+| Frist | Verfahren | Dauer | Konsequenz |
+|---|---|---|---|
+| EV-Vollziehungsfrist | EV erlassen + zugestellt Antragsteller | 1 Monat (§ 929 Abs. 2 ZPO) | EV verliert Kraft |
+| Dringlichkeitsfrist EV | Kenntnis Verletzung | 4–8 Wochen (gericht-abhängig) | Dringlichkeit selbst widerlegt |
+| Berufungsfrist | Urteil zugestellt | 1 Monat (§ 517 ZPO) | Rechtskraft |
+| Revisionsfrist | OLG-Urteil zugestellt | 1 Monat (§ 548 ZPO) | Rechtskraft |
+| Reaktionsfrist Abmahnung | Abmahnung zugestellt | 1–2 Wochen (gesetzt) | EV-Risiko |
+
+### E – Vertragliche und prozessuale Sonderfristen
+
+| Frist | Grundlage | Dauer |
+|---|---|---|
+| Verjährung MarkenG | § 20 MarkenG | 3 Jahre ab Kenntnis |
+| Verjährung UWG | § 11 UWG | 3 Jahre ab Kenntnis |
+| Verjährung UrhG | § 102 UrhG | 3 Jahre (§ 195 BGB) |
+| Abschlussschreiben nach EV | Praxisregel | Ca. 2–4 Wochen nach Vollzug |
+| Hauptsacheklage (§ 926 ZPO) | Gerichtliche Anforderung | Gesetzt (i.d.R. 2 Wochen–1 Monat) |
+
+## Fristenbuch-Struktur (Empfehlung)
+
+### Pflichtfelder je Frist
+
+```
+Frist-ID: [Eindeutige Kennnummer]
+Verfahren: [Marke XY / Patent Z / EV LG Hamburg]
+Fristtyp: [Widerspruch / Vollziehung / Jahresgebühr]
+Auslösedatum: [Datum des auslösenden Ereignisses]
+Fristdauer: [z.B. 3 Monate]
+Fristende: [Berechnetes Datum]
+Vorwarndatum: [Fristende – 14 Tage]
+Verantwortlich: [Name Anwalt / Mandant]
+Status: [Offen / In Bearbeitung / Erledigt]
+Abschlussprodukt: [Was muss bis wann fertig sein]
+Übergabedatum: [An Mandant / DPMA / Gericht]
+Anmerkungen: [Besonderheiten]
+```
+
+## Checkliste: Abschlussprodukt und Übergabe
+
+### Vor Fristablauf
+
+- [ ] Abschlussprodukt vollständig? (Schriftsatz, Formular, Brief, Erklärung)
+- [ ] Anlagen vollständig? (Registerauszug, Vollmacht, Beweismittel)
+- [ ] Unterschriften eingeholt? (Mandant, Anwalt, GV-Auftrag)
+- [ ] Einreichungsweg gewählt? (Online, Post, GV, beA)
+- [ ] Kosten/Gebühren bezahlt oder Zahlungsauftrag erteilt?
+- [ ] Versand-/Einreichungsbestätigung erwartet und eingeplant?
+
+### Am Übergabetag
+
+- [ ] Einreichung/Versand dokumentiert (Datum, Uhrzeit, Empfangsvermerk)?
+- [ ] Behörden- oder Gerichtseingangsbestätigung angefordert?
+- [ ] Mandant über Einreichung informiert?
+- [ ] Fristenbuch aktualisiert (Status: Erledigt)?
+- [ ] Nächste Frist (Entscheidung, Eintragung, Reaktion) in Fristenbuch eingetragen?
+
+## Fristverlängerung und Wiedereinsetzung
+
+| Instrument | Anwendungsbereich | Voraussetzungen |
+|---|---|---|
+| Fristverlängerung EUIPO | Substantiierungsfrist, Benutzungsnachweis | Antrag; begrenzt |
+| Fristverlängerung EV (§ 929 Abs. 2 ZPO) | Vollziehungsfrist bei Auslandszustellung | Antrag vor Fristablauf |
+| Wiedereinsetzung DPMA (§ 123 PatG) | Jahresgebühr, Prüfungsantrag | Entschuldbares Versäumnis; 2 Monate Antragsfrist |
+| Wiedereinsetzung ZPO (§ 233 ZPO) | Gerichtliche Fristen | Ohne Verschulden versäumt |
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+- [§ 929 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/929.html)
+- [§ 42 MarkenG – dejure.org](https://dejure.org/gesetze/MarkenG/42.html)
+- [§ 59 PatG – dejure.org](https://dejure.org/gesetze/PatG/59.html)
+- DPMA-Fristen: [dpma.de](https://www.dpma.de)
+- EUIPO-Fristen: [euipo.europa.eu](https://www.euipo.europa.eu)
+- Aktuelle Fristenpraxis immer über offizielle Behördenwebseiten prüfen.
+
+## Anschluss-Skills
+
+- `spezial-dpma-fristen-form-und-zustaendigkeit` – DPMA-Verfahren
+- `spezial-euipo-dokumentenmatrix-und-lueckenliste` – EUIPO-Verfahren
+- `workflow-fristen-und-risikoampel` – Fristenworkflow
+- `evvollzug-neu-001` – EV-Vollziehungsfrist

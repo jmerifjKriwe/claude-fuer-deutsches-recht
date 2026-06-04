@@ -1,48 +1,162 @@
 ---
 name: spezial-compliance-mandantenkommunikation-entscheidungsvorlage
-description: "Compliance: Mandantenkommunikation und Entscheidungsvorlage im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Compliance-Mandantenkommunikation im gewerblichen Rechtsschutz: Entscheidungsvorlagen strukturiert erstellen, Handlungsoptionen mit Kosten und Risiken darstellen und Mandantenentscheidungen dokumentieren. Für Kanzleien und Rechtsabteilungen."
 ---
 
-# Compliance: Mandantenkommunikation und Entscheidungsvorlage
+# Spezial: Compliance – Mandantenkommunikation und Entscheidungsvorlage
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `gewerblicher-rechtsschutz`. Ausgangspunkt ist: Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.
+## Zweck und Mandatsbezug
 
-Er führt durch **Mandantenkommunikation und Entscheidungsvorlage** im Themenfeld **Compliance**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill behandelt die **strukturierte Mandantenkommunikation und Erstellung von Entscheidungsvorlagen** in IP- und Wettbewerbsschutzverfahren. Eine professionelle Entscheidungsvorlage gibt dem Mandanten alle relevanten Informationen – Handlungsoptionen, Risiken, Kosten, Fristen – und ermöglicht eine fundierte, dokumentierte Entscheidung.
 
+Mandatsbezug: Mandant erhält Abmahnung und fragt: Was soll ich tun? Mandant will Marke anmelden und fragt: Was kostet das und was riskiere ich? Rechtsabteilung muss dem Vorstand eine Entscheidungsvorlage zu einer IP-Klagestrategie präsentieren.
 
-## Fachlicher Zuschnitt
+## Grundprinzipien der Entscheidungsvorlage
 
-- **Thema:** Compliance.
-- **Arbeitsfokus:** Mandantenkommunikation und Entscheidungsvorlage.
-- **Plugin-Rahmen:** Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand un....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### Prinzip 1 – Fakten vor Wertung
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+- Zuerst gesicherte Fakten: Was steht fest (Schutzrecht, Verletzung, Fristen)?
+- Dann Wertung: Was ist wahrscheinlich, was unklar?
+- Trenne: gesicherte Rechtsaussage vs. Prognose vs. Annahme.
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+### Prinzip 2 – Optionen vollständig darstellen
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Compliance** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+- Nie nur eine Option präsentieren.
+- Mindestens: Option A (aktiv), Option B (passiv/abwartend), Option C (verhandeln).
+- Jede Option mit Kosten, Risiken, Zeitaufwand und voraussichtlichem Ergebnis.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+### Prinzip 3 – Kosten explizit machen
+
+- Anwaltskosten, Gerichtskosten, Kostenrisiko bei Verlust.
+- Eigene Kosten vs. Kostenerstattung bei Obsiegen.
+- Keine Überraschungen: Mandant muss vor Entscheidung alle Kosten kennen.
+
+### Prinzip 4 – Frist sichtbar machen
+
+- Die wichtigste Frist immer in der Vorlage hervorheben.
+- Was passiert, wenn Frist versäumt wird?
+- Wann muss der Mandant entscheiden?
+
+### Prinzip 5 – Empfehlung geben
+
+- Anwalt gibt eine Empfehlung; Mandant entscheidet.
+- Empfehlung begründen: Warum diese Option?
+- Bei Risikoungewissheit: Empfehlung mit Vorbehalt.
+
+## Strukturvorlage: Entscheidungsvorlage IP-Verfahren
+
+```
+ENTSCHEIDUNGSVORLAGE
+[Mandant] | [Verfahrensbezeichnung] | [Datum]
+Erstellt von: [Anwalt] | Vorlage bis: [Datum/Frist]
+
+───────────────────────────────────────────────
+1. SITUATION
+
+Worum geht es:
+[Ein Satz: Kern des Problems]
+
+Gesicherte Fakten:
+- [Fakt 1: z.B. Markenanmeldung der Gegenseite liegt vor]
+- [Fakt 2: z.B. Verletzungshandlung durch Screenshot belegt]
+
+Offene Punkte:
+- [Was noch ungeklärt ist]
+
+Kritische Frist: [Datum + was passiert bei Versäumnis]
+
+───────────────────────────────────────────────
+2. HANDLUNGSOPTIONEN
+
+Option A – [Bezeichnung, z.B. „Abmahnung versenden"]
+- Vorgehen: [Kurzbeschreibung]
+- Kosten: [Anwaltsgebühren, ggf. Gerichtskosten]
+- Risiko: [Was kann schiefgehen]
+- Ergebnis bei Erfolg: [Was wird erreicht]
+- Ergebnis bei Misserfolg: [Was droht]
+- Zeitaufwand: [Realistisch]
+
+Option B – [Bezeichnung, z.B. „Abwarten und beobachten"]
+- Vorgehen: [Kurzbeschreibung]
+- Kosten: [Gering / keine Anwaltskosten]
+- Risiko: [z.B. Verletzung setzt sich fort; Dringlichkeit für EV schwindet]
+- Ergebnis: [Verletzung bleibt; kein Recht durchgesetzt]
+
+Option C – [Bezeichnung, z.B. „Direkt verhandeln"]
+- Vorgehen: [Kurzbeschreibung]
+- Kosten: [Gering]
+- Risiko: [Gegenseite lehnt ab; Zeitverlust]
+- Ergebnis bei Einigung: [Lizenz, Unterlassung, Vergleich]
+
+───────────────────────────────────────────────
+3. EMPFEHLUNG
+
+Wir empfehlen Option [A/B/C], weil:
+[Begründung in 3–5 Sätzen]
+
+Vorbehalt: [Wenn weitere Informationen benötigt werden]
+
+───────────────────────────────────────────────
+4. ENTSCHEIDUNG DES MANDANTEN
+
+□ Option A – [Bezeichnung]
+□ Option B – [Bezeichnung]
+□ Option C – [Bezeichnung]
+□ Weitere Informationen erforderlich (dann: ________________)
+
+Datum: _______________   Unterschrift: _______________
+```
+
+## Typische IP-Szenarien mit Entscheidungsstruktur
+
+### Szenario 1: Abmahnung empfangen
+
+| Option | Beschreibung | Kosten (ca.) | Risiko |
+|---|---|---|---|
+| A: Modifizierte UE | Verletzung anerkennen, Umfang begrenzen | 500–1.500 EUR Anwalt | Bindung an UE |
+| B: Vollständige UE | Schnellste Lösung | 300–800 EUR Anwalt | Weite Bindung |
+| C: Ablehnung + Schutzschrift | Starke Einwendungen vorhanden | 1.500–3.000 EUR Anwalt | EV-Risiko, Prozesskostenrisiko |
+
+### Szenario 2: EV beantragen
+
+| Option | Beschreibung | Kosten (ca.) | Risiko |
+|---|---|---|---|
+| A: EV sofort | Klare Verletzung, Dringlichkeit | 2.000–5.000 EUR + Gerichtskosten | § 945 ZPO-Haftung |
+| B: Abmahnung zuerst | Reaktion abwarten | 500–1.500 EUR Anwalt | Dringlichkeit schwindet |
+| C: Direktverhandlung | Einigung anstreben | Gering | Gegenseite lehnt ab |
+
+### Szenario 3: Markenanmeldung
+
+| Option | Schutzgebiet | Kosten (ca.) | Bearbeitungszeit |
+|---|---|---|---|
+| A: DPMA national | Deutschland | 300–900 EUR + Anwalt | 3–6 Monate |
+| B: EUIPO Unionsmarke | 27 EU-Staaten | 850–1.350 EUR + Anwalt | 4–8 Monate |
+| C: IR-Marke WIPO | Wunschländer | Variabel + Anwalt | 12–18 Monate |
+
+## Dokumentation der Mandantenentscheidung
+
+- Entscheidungsvorlage mit Datum und Unterschrift des Mandanten in Akte.
+- Bei mündlicher Entscheidung: Kurze E-Mail-Bestätigung einholen.
+- Begründung der Entscheidung vermerken (wichtig für spätere Haftungsfragen).
+- Folgeauftrag an Anwalt klar formulieren: Was soll als nächstes geschehen?
+
+## Kommunikationstipps
+
+- **Sprache:** Mandantenfreundlich; keine Fachbegriffe ohne Erklärung.
+- **Länge:** Entscheidungsvorlage maximal 2–3 Seiten; Anlagen für Details.
+- **Ton:** Sachlich, nicht alarmistisch; Risiken klar, aber ohne unnötige Panikmache.
+- **Timing:** Entscheidungsvorlage immer mit Frist versehen; Mandant braucht Zeitdruck.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+- Normen für Kostenberechnung: RVG, GKG – [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- DPMA-Gebühren: [dpma.de/service/gebuehren](https://www.dpma.de/service/gebuehren/index.html).
+- EUIPO-Gebühren: [euipo.europa.eu](https://www.euipo.europa.eu/en/trade-marks/fees-and-payments).
+- Keine BeckRS-Blindzitate; konkrete Kostenangaben über offizielle Gebührentabellen prüfen.
+
+## Anschluss-Skills
+
+- `workflow-mandantenkommunikation` – Mandantenkommunikation Workflow
+- `spezial-gewerblicher-erstpruefung-und-mandatsziel` – Erstprüfung und Zieldefinition
+- `workflow-output-waehlen` – Richtiges Outputformat wählen
+- `spezial-fristen-abschlussprodukt-und-uebergabe` – Fristenverwaltung

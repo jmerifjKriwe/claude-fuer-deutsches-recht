@@ -1,48 +1,136 @@
 ---
 name: spezial-markenrecherche-risikoampel-und-gegenargumente
-description: "Markenrecherche: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Markenrecherche mit Risikoampel: systematische Kollisionsrecherche für DPMA, EUIPO und internationale Register, Risikobewertung nach Ähnlichkeit, Klassen und Benutzung, Gegenargumente gegen Verwechslungsgefahr und Verteidigungsstrategien."
 ---
 
-# Markenrecherche: Risikoampel, Gegenargumente und Verteidigungslinien
+# Spezial: Markenrecherche – Risikoampel und Gegenargumente
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `gewerblicher-rechtsschutz`. Ausgangspunkt ist: Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.
+## Zweck und Mandatsbezug
 
-Er führt durch **Risikoampel, Gegenargumente und Verteidigungslinien** im Themenfeld **Markenrecherche**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill bietet ein strukturiertes **Markenrecherche-Verfahren mit Risikoampel** und bereitet Gegenargumente gegen Verwechslungsgefahrsvorwürfe vor. Er deckt sowohl die Anmelderperspektive (Vor-Anmeldungsrecherche, Kollisionsrisiko bewerten) als auch die Verletzerperspektive (Abmahnung empfangen, Gegenargumente sammeln) ab.
 
+Mandatsbezug: Mandant will neue Marke anmelden und fragt: Kann ich „XYZ" als Marke nutzen? Oder: Mandant wurde wegen Verwechslungsgefahr abgemahnt und will wissen, ob die Abmahnung berechtigt ist.
 
-## Fachlicher Zuschnitt
+## Rechtlicher Rahmen
 
-- **Thema:** Markenrecherche.
-- **Arbeitsfokus:** Risikoampel, Gegenargumente und Verteidigungslinien.
-- **Plugin-Rahmen:** Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand un....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### Verwechslungsgefahr (§ 14 Abs. 2 Nr. 2 MarkenG)
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+- Dreigliedrige Prüfung: **Zeichenähnlichkeit × Warenähnlichkeit × Kennzeichnungskraft**.
+- Wechselwirkungstheorem: Ein niedrigeres Ähnlichkeitsniveau eines Elements kann durch höheres eines anderen kompensiert werden.
+- BGH-Grundsatz: Gesamtabwägung aller relevanten Umstände.
+- EuGH-Leitlinien: Aromatique-Formel; Canon-Urteil zu Warenähnlichkeit.
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+### Normen
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Markenrecherche** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+- **§ 14 Abs. 2 Nr. 1 MarkenG** – Identitätsverletzung: identische Zeichen, identische Waren.
+- **§ 14 Abs. 2 Nr. 2 MarkenG** – Verwechslungsgefahr: ähnliche Zeichen und/oder ähnliche Waren.
+- **§ 14 Abs. 2 Nr. 3 MarkenG** – Bekanntheitsschutz: auch ohne Verwechslungsgefahr.
+- **Art. 8 Abs. 1 lit. b EUTMR** – Verwechslungsgefahr Unionsmarke.
+- **§ 26 MarkenG** – Benutzungszwang: fehlende Benutzung schwächt Kennzeichnungskraft.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+## Recherchefahrplan: Fünf Stufen
+
+### Stufe 1 – Identitätsrecherche
+
+- Suche nach dem exakt identischen Zeichen in denselben Klassen.
+- Datenbanken: DPMA-Markenregister (dpma.de), EUIPO-eSearch (euipo.europa.eu), WIPO-Global Brand Database.
+- Kein Treffer → weiter zu Stufe 2.
+- Treffer → Hohes Verletzungsrisiko; Strategie: Abgrenzung, Zeichenänderung oder Lizenz.
+
+### Stufe 2 – Ähnlichkeitsrecherche (Zeichen)
+
+**Schriftbildähnlichkeit:**
+- Visuelle Gesamtwirkung; Anfang und Ende des Wortes besonders prägend.
+- Tipppfehler, Umlaute, Groß-/Kleinschreibung.
+
+**Klangähnlichkeit:**
+- Phonetische Ähnlichkeit; Silbenfolge, Vokalstruktur.
+- Beispiel: „Mango" und „Monto" – klanglich ähnlich?
+
+**Begriffliche Ähnlichkeit:**
+- Bedeutungsgehalt; Übersetzungen (EuGH: Obermark-Rechtsprechung).
+- Beispiel: „Sun" und „Sonne" – begrifflich ähnlich.
+
+**Recherchetool:** Wildcards in DPMA-Recherche nutzen (z.B. „Mar*n*" für alle Varianten).
+
+### Stufe 3 – Warenähnlichkeit
+
+- Nizza-Klassifikation ist Ausgangspunkt, nicht Grenze.
+- EuGH Canon-Kriterien: Art, Verwendungszweck, Vertriebsweg, Wettbewerbsverhältnis.
+- Beispiel: Klasse 25 (Bekleidung) und Klasse 18 (Taschen) – ähnlich? Ja, nach Gerichtspraxis.
+- Einander ergänzende Produkte können ähnlich sein (z.B. Kaffeemaschinen und Kaffeepads).
+
+**Recherchehilfe:** EUIPO TMclass für Warenähnlichkeitsbewertung.
+
+### Stufe 4 – Kennzeichnungskraft
+
+- **Durchschnittliche Kennzeichnungskraft:** Neutral; moderate Ähnlichkeit reicht für Verwechslungsgefahr.
+- **Hohe Kennzeichnungskraft:** Bekannte Marke (z.B. Apple, Coca-Cola); weiter Schutzumfang.
+- **Schwache Kennzeichnungskraft:** Beschreibende oder gebräuchliche Elemente; enger Schutzumfang.
+- Argumente für schwache KKraft: Branchenübliche Verwendung, viele ähnliche Drittmarken.
+
+### Stufe 5 – Gesamtbewertung und Risikoampel
+
+**Risikoampel:**
+
+| Ampel | Kriterien | Empfehlung |
+|---|---|---|
+| Grün | Keine relevante Kollision in relevanten Klassen | Anmeldung kann fortgesetzt werden |
+| Gelb | Eine oder mehrere ähnliche Marken in angrenzenden Klassen | Vertiefte Prüfung; ggf. Klassenanpassung oder Zeichenmodifikation |
+| Rot | Direkte Kollision; hohe Ähnlichkeit in identischen/ähnlichen Klassen | Zeichenwechsel empfehlen; Abmahnrisiko hoch |
+
+## Gegenargumente gegen Verwechslungsgefahr
+
+### Gegenargument 1 – Keine Zeichenähnlichkeit
+
+- Zeichen unterscheiden sich in prägendem Element.
+- Kennzeichnungskraft des gemeinsamen Elements gering (beschreibend).
+- Verbraucher wird auf unterscheidende Elemente achten.
+
+### Gegenargument 2 – Keine Warenähnlichkeit
+
+- Waren in verschiedenen Branchen; kein gemeinsames Vertriebsnetz.
+- Verbraucher erwirbt Waren in unterschiedlichem Kontext.
+- Keine Ergänzungswirkung zwischen den Waren.
+
+### Gegenargument 3 – Schwache Kennzeichnungskraft
+
+- Ältere Marke beschreibend oder gebräuchlich; schmaler Schutzbereich.
+- Viele ähnliche Drittmarken im Register; geschwächte Kennzeichnungskraft.
+- Markeninhaber hat Benutzung der Marke nicht in maßgeblichem Umfang nachgewiesen.
+
+### Gegenargument 4 – Verwirkung (§ 21 MarkenG / Art. 61 EUTMR)
+
+- Markeninhaber hat Benutzung der jüngeren Marke > 5 Jahre geduldet und kannte diese.
+- Einwand der Verwirkung möglich; Beweislast beim Beklagten.
+
+### Gegenargument 5 – Erschöpfung (§ 24 MarkenG / Art. 15 EUTMR)
+
+- Ware vom Markeninhaber oder mit seiner Zustimmung in EU/EWR in Verkehr gebracht.
+- Erschöpfung tritt ein; Markeninhaber kann weiteren Vertrieb nicht verbieten.
+- Beweislast: Beklagter muss Erschöpfung nachweisen.
+
+## Praktische Recherche-Tools
+
+| Tool | Beschreibung | Link |
+|---|---|---|
+| DPMAregister | DPMA-Markenrecherche (DE) | [register.dpma.de](https://register.dpma.de) |
+| EUIPO eSearch Plus | Unionsmarken-Recherche | [euipo.europa.eu/eSearch](https://euipo.europa.eu/eSearch) |
+| WIPO Global Brand DB | Internationale Marken | [branddb.wipo.int](https://branddb.wipo.int) |
+| TMview | Übergreifend EU + international | [tmview.org](https://www.tmview.org) |
+| EUIPO TMclass | Klassifizierungs- und Ähnlichkeitsprüfung | [tmclass.tmdn.org](https://tmclass.tmdn.org) |
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+- [§ 14 MarkenG – dejure.org](https://dejure.org/gesetze/MarkenG/14.html)
+- [§ 26 MarkenG – dejure.org](https://dejure.org/gesetze/MarkenG/26.html)
+- BGH-Rechtsprechung Verwechslungsgefahr: [bgh.de](https://www.bundesgerichtshof.de); Gericht, Datum, AZ.
+- EuGH-Rechtsprechung: [curia.europa.eu](https://curia.europa.eu); Canon, Aromatique etc.
+- Keine BeckRS-Blindzitate.
+
+## Anschluss-Skills
+
+- `markenrecherche` – Vertiefung Kollisionsrecherche
+- `gewr-markenanmeldung-bauleiter` – Anmeldeprozess
+- `unterlassungsverlangen` – Reaktion auf Abmahnung
+- `spezial-dpma-fristen-form-und-zustaendigkeit` – DPMA-Widerspruch

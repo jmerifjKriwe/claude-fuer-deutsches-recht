@@ -1,35 +1,141 @@
 ---
 name: workflow-anschluss-skills-router
-description: "Anschluss-Skills Router im Plugin gewerblicher-rechtsschutz: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor."
+description: "Anschluss-Skills-Router für das Plugin gewerblicher-rechtsschutz: Weichenstellung nach abgeschlossener Prüfung, Ergebnis oder Folgefrage. Zeigt, welcher Skill als nächstes eingesetzt werden soll und begründet die Weiterleitung."
 ---
 
-# Anschluss-Skills Router
+# Workflow: Anschluss-Skills-Router
 
-## Aufgabe
-Dieser Workflow-Skill für `gewerblicher-rechtsschutz` Anschluss-Skills Router im Plugin gewerblicher-rechtsschutz: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+## Zweck
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+Dieser Skill ist der **Routing-Skill** des Plugins `gewerblicher-rechtsschutz`. Er wird eingesetzt, wenn eine Prüfung abgeschlossen ist, ein Ergebnis vorliegt oder eine Folgefrage entsteht, und der nächste passende Skill gefunden werden muss. Der Router verhindert, dass Nutzer im Plugin verloren gehen.
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+## Wann wird dieser Skill aktiviert?
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+- Nach Abschluss einer Erstprüfung (z.B. `spezial-gewerblicher-erstpruefung-und-mandatsziel`).
+- Wenn das bisherige Ergebnis einen Folgeprozess auslöst (EV nach Abmahnung, Ordnungsmittel nach EV).
+- Wenn der Nutzer fragt: „Was muss ich jetzt tun?" oder „Welcher Skill hilft weiter?"
+- Wenn ein Workflow-Schritt abgeschlossen ist und der nächste unklar ist.
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+## Router-Logik: Entscheidungsbaum
+
+### Eingangsfrage: Was ist der aktuelle Stand?
+
+```
+Aktueller Stand → Nächster Skill
+
+A) Neue Anfrage ohne Vorkenntnisse
+   → workflow-kaltstart-und-routing
+
+B) Schutzrechtsfrage (Anmeldung, Portfolio, FTO)
+   → gewr-markenanmeldung-bauleiter (Marke)
+   → fto-triage (Patent FTO)
+   → schutzrechts-portfolio (Portfolio-Übersicht)
+   → erfindungsmeldung-aufnahme (Patent ArbnErfG)
+
+C) Verletzung entdeckt, noch keine Abmahnung
+   → verletzungs-triage (Erstentscheidung)
+   → gewr-uwg-abmahnung-checkliste (UWG)
+   → abmahnung-urheberrecht (UrhG)
+
+D) Abmahnung vorbereiten
+   → gewr-uwg-abmahnung-checkliste (UWG)
+   → spezial-freedom-schriftsatz-brief-und-memo-bausteine (Textbausteine)
+
+E) Abmahnung empfangen, Reaktion nötig
+   → verletzungs-triage (Erstentscheidung)
+   → unterlassungsverlangen (UE-Reaktion)
+   → evvollzug-neu-008 (Schutzschrift)
+
+F) EV beantragen
+   → gewr-einstweilige-verfuegung-eilverfahren-spezial (Antrag)
+   → gw-einstweilige-verfuegung-spezial (Strategie)
+
+G) EV erlassen, Vollzug nötig
+   → evvollzug-neu-001 (Vollziehungsfrist)
+   → evvollzug-neu-002 (Beschluss vs. Urteil)
+   → evvollzug-neu-003 (GV-Zustellung)
+
+H) EV vollzogen, Folgeschritte
+   → evvollzug-neu-005 (Ordnungsmittelantrag)
+   → evvollzug-neu-007 (Abschlussschreiben)
+
+I) Auslandszustellung nötig
+   → evvollzug-neu-006 (Auslandszustellung)
+
+J) Verhandlung, Vergleich
+   → spezial-operate-verhandlung-vergleich-und-eskalation
+
+K) Fristen kritisch
+   → workflow-fristen-und-risikoampel
+   → spezial-schutzrechts-fristennotiz-und-naechster-schritt
+
+L) Dokumente einlesen/sortieren
+   → workflow-dokumentenintake
+
+M) Qualitätssicherung vor Versand
+   → spezial-source-red-team-und-qualitaetskontrolle
+   → workflow-redteam-qualitygate
+
+N) Internationaler Bezug
+   → spezial-reaktion-internationaler-bezug-und-schnittstellen
+
+O) Rechtsquellen live prüfen
+   → workflow-rechtsquellen-livecheck
+
+P) Output-Format unklar
+   → workflow-output-waehlen
+
+Q) Mehrparteien / Interessenkonflikt
+   → spezial-versand-mehrparteien-konflikt-und-interessen
+```
+
+## Routing-Entscheidungshilfe (Kurzform)
+
+| Stichwort | Empfohlener Skill |
+|---|---|
+| Erstgespräch, neue Anfrage | `workflow-kaltstart-und-routing` |
+| Verletzung, Abmahnung senden | `verletzungs-triage` |
+| Abmahnung erhalten | `verletzungs-triage` + `unterlassungsverlangen` |
+| EV beantragen | `gewr-einstweilige-verfuegung-eilverfahren-spezial` |
+| EV vollziehen | `evvollzug-neu-001` |
+| GV-Zustellung | `evvollzug-neu-003` |
+| beA-Zustellung | `evvollzug-neu-004` |
+| Auslandszustellung | `evvollzug-neu-006` |
+| Ordnungsmittelantrag | `evvollzug-neu-005` |
+| Abschlussschreiben | `evvollzug-neu-007` |
+| Schutzschrift | `evvollzug-neu-008` |
+| Markenanmeldung | `gewr-markenanmeldung-bauleiter` |
+| Markenrecherche | `markenrecherche` |
+| DPMA-Verfahren | `spezial-dpma-fristen-form-und-zustaendigkeit` |
+| EUIPO-Verfahren | `spezial-euipo-dokumentenmatrix-und-lueckenliste` |
+| Patent FTO | `fto-triage` |
+| Patentrecherche | `spezial-patentscreening-livequellen-und-rechtsprechungscheck` |
+| ArbnErfG | `erfindungsmeldung-aufnahme` |
+| Geschäftsgeheimnis | `gewr-geschaeftsgeheimnisgesetz-spezial` |
+| Urheberrecht Abmahnung | `abmahnung-urheberrecht` |
+| UWG Abmahnung | `gewr-uwg-abmahnung-checkliste` |
+| Beweislast | `spezial-klausel-beweislast-und-darlegungslast` |
+| Fristen | `workflow-fristen-und-risikoampel` |
+| Dokumente | `workflow-dokumentenintake` |
+| Qualitätssicherung | `workflow-redteam-qualitygate` |
+| Vergleich | `spezial-operate-verhandlung-vergleich-und-eskalation` |
+| International | `spezial-reaktion-internationaler-bezug-und-schnittstellen` |
+| Mehrparteien | `spezial-versand-mehrparteien-konflikt-und-interessen` |
+
+## Ausgabeformat des Routers
+
+Der Router gibt immer aus:
+1. **Aktueller Stand:** Was liegt vor, was ist geklärt?
+2. **Nächster Skill:** Welcher Skill wird als nächstes empfohlen?
+3. **Begründung:** Warum dieser Skill?
+4. **Alternativskills:** Falls mehr als eine Option sinnvoll.
+5. **Zeitkritische Warnung:** Falls eine Frist nah ist.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
+
+- Dieser Skill verweist nur auf andere Skills; keine externen Quellen erforderlich.
+- Bei rechtlichen Fragen im Routing-Gespräch: Normtext über gesetze-im-internet.de prüfen.
+
+## Anschluss-Skills
+
+Alle Skills des Plugins `gewerblicher-rechtsschutz` – je nach Routing-Entscheidung.

@@ -1,48 +1,130 @@
 ---
 name: spezial-versand-mehrparteien-konflikt-und-interessen
-description: "Versand: Mehrparteienkonflikt und Interessenmatrix im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Mehrparteienkonstellationen im gewerblichen Rechtsschutz: Lizenzgeber/Lizenznehmer, Konzernstrukturen, Abnehmer-Klagen, Kettenverletzungen und Konflikt zwischen mehreren Schutzrechtsinhabern. Interessenkonflikte und Mandatsgrenzen."
 ---
 
-# Versand: Mehrparteienkonflikt und Interessenmatrix
+# Spezial: Mehrparteien-Konstellationen und Interessenkonflikte
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `gewerblicher-rechtsschutz`. Ausgangspunkt ist: Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.
+## Zweck und Mandatsbezug
 
-Er führt durch **Mehrparteienkonflikt und Interessenmatrix** im Themenfeld **Versand**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill behandelt **Mehrparteienkonstellationen im gewerblichen Rechtsschutz** – Fälle, in denen mehr als zwei Parteien in IP-Streitigkeiten involviert sind oder in denen Interessenkonflikte zwischen Beteiligten entstehen. Diese Konstellationen stellen besondere Anforderungen an die anwaltliche Beratung.
 
+Mandatsbezug: Lizenzgeber und Lizenznehmer streiten über Verletzung durch Dritte; Konzernmutter und -tochter haben überkreuzende IP-Rechte; Mandant ist Abnehmer eines Verletzers und wird in Klage hineingezogen.
 
-## Fachlicher Zuschnitt
+## Typische Mehrparteienkonstellationen
 
-- **Thema:** Versand.
-- **Arbeitsfokus:** Mehrparteienkonflikt und Interessenmatrix.
-- **Plugin-Rahmen:** Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand un....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### Konstellation 1: Lizenzgeber vs. Lizenznehmer vs. Verletzer
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+**Szenario:** Markeninhaber hat exklusive Lizenz an Unternehmen B vergeben. Unternehmen C verletzt die Marke. Wer kann klagen?
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+**Rechtslage:**
+- Ausschließlicher Lizenznehmer hat eigenes Klagerecht, wenn Lizenz entsprechende Klausel enthält (§ 30 Abs. 3 MarkenG).
+- Nicht-ausschließlicher Lizenznehmer: Kein eigenständiges Klagerecht; muss Markeninhaber zur Klageerhebung auffordern.
+- Markeninhaber kann stets klagen.
+- Problem: Wenn Lizenznehmer klagt, muss Markeninhaber häufig als Partei beigeladen werden.
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Versand** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+**Koordinationsbedarf:**
+- Abstimmung Markeninhaber / Lizenznehmer vor Klageerhebung.
+- Klare Regelung in Lizenzvertrag, wer Verletzungen verfolgt.
+- Schadensersatz: Wem steht welcher Anteil zu (Lizenzinhaber, Lizenznehmer)?
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+**Prüfpunkte:**
+- [ ] Art der Lizenz: Ausschließlich oder nicht ausschließlich?
+- [ ] Lizenzvertrag: Regelung zur Verletzungsverfolgung vorhanden?
+- [ ] Interessenkonflikt: Lizenznehmer will klagen; Lizenzgeber nicht (Kundenbeziehung zum Verletzer)?
+
+### Konstellation 2: Konzernstrukturen und IP-Rechte
+
+**Szenario:** Muttergesellschaft hält IP; Tochtergesellschaft vertreibt Produkte. Tochter wird wegen Verletzung eines Drittpatents abgemahnt.
+
+**Rechtslage:**
+- IP liegt bei Mutter; Tochter hat keine formale Lizenz → Nutzung technisch ohne Recht.
+- Gegenseitige Lizenzierung innerhalb des Konzerns oft notwendig.
+- Tochter kann Verletzungsklage erheben, wenn Mutter sie zur Prozessstandschaft ermächtigt.
+
+**Prüfpunkte:**
+- [ ] Konzernweite Lizenzierung geregelt (Konzernlizenzvertrag)?
+- [ ] Haftungsfragen: Haftet Mutter für Verletzungen der Tochter?
+- [ ] Verteilung der Prozesskosten intern?
+
+### Konstellation 3: Abnehmerklagen (Kettenverletzung)
+
+**Szenario:** Patent A verletzt durch Hersteller B; Händler C kauft von B und verkauft weiter. Patentinhaber klagt beide.
+
+**Rechtslage:**
+- Beide Hersteller und Händler können nach § 9 PatG verletzt haben.
+- Patentinhaber kann gegen jeden in der Kette vorgehen.
+- Händler C kann Hersteller B auf Freistellung in Anspruch nehmen (Gewährleistung, Schadenersatz).
+- Praktisch: Gesamtschuldnerschaft zwischen Verletzern möglich.
+
+**Strategie für Händler C:**
+- Sofortige Benachrichtigung von Hersteller B.
+- Freistellungsanspruch gegenüber B sichern.
+- Ggf. Streitverkündung an B im laufenden Verfahren (§ 72 ZPO).
+
+### Konstellation 4: Cross-License und IP-Portfolios
+
+**Szenario:** Zwei Unternehmen haben überkreuzende Patentportfolios. Beide verletzt jeweils Patente des anderen.
+
+**Rechtslage:**
+- Beide haben potenziell Ansprüche gegeneinander.
+- Lösung: Cross-License (gegenseitige Lizenzierung); oder Patentpooling.
+- Kartellrechtliche Grenzen: Art. 101 AEUV / § 1 GWB bei horizontalen Absprachen.
+
+**Verhandlungsstrategie:**
+- Stärke des eigenen Portfolios bewerten.
+- Entgeltfragen: Ausgleichszahlung bei ungleichem Portfolio?
+- Laufzeit und Kündigungsrechte der Cross-License.
+
+### Konstellation 5: Mehrere Verletzer (Parallelverletzungen)
+
+**Szenario:** Sechs verschiedene Online-Händler verletzten gleichzeitig dieselbe Marke.
+
+**Strategie:**
+- Priorität setzen: Größte Verletzer zuerst.
+- Massen-Abmahnung: Jede Abmahnung individuell; keine Musterbriefe ohne Einzelfallprüfung (§ 8c UWG-Risiko!).
+- Kosteneffizienz: EV gegen einen als Präzedenz; andere mahnen ab.
+- Monitoring: IP-Watch-Service einrichten.
+
+## Interessenkonflikt-Management
+
+### Interessenkonflikt zwischen Mandanten
+
+- BRAO §§ 43a, 356 – Verbot der Vertretung bei widerstreitenden Interessen.
+- Wenn Kanzlei sowohl Lizenzgeber als auch Lizenznehmer vertritt, die in Conflict geraten → Mandat niederlegen.
+- Erkennung frühzeitig: Bei Mandatsannahme Interessenkonflikt-Prüfung.
+
+### Berufsrechtliche Schranken
+
+- Verschwiegenheitspflicht (§ 43a BRAO): Informationen aus dem Mandat dürfen nicht gegen Mandanten verwendet werden.
+- Parallelmandate im selben Verfahren (§ 356 StGB – Parteiverrat): Strafbar.
+- Checkliste bei Mandatsannahme:
+  - [ ] Steht neuer Mandant in einem IP-Streit mit bestehendem Mandant?
+  - [ ] Hat Kanzlei vertrauliche Informationen der Gegenseite?
+  - [ ] Bestehen persönliche oder geschäftliche Beziehungen der Anwälte zur Gegenseite?
+
+## Koordination bei Mehrparteienkonstellationen
+
+### Absprache-Matrix
+
+| Partei | Interesse | Konflikt mit | Koordinationsmaßnahme |
+|---|---|---|---|
+| Markeninhaber | Verletzung stoppen | Ggf. kein Prozess wegen Kunde | Mandate trennen oder Interessenabgleich |
+| Lizenznehmer | Schadensersatz | Markeninhaber will nur Unterlassung | Klares Prozessmandat mit Kostenregelung |
+| Händler (Abnehmer) | Freistellung | Hersteller | Streitverkündung |
+| Konzernmutter | Haftungsbegrenzung | Tochter-Klagerisiko | Konzernlizenz prüfen |
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+- [§ 30 MarkenG – dejure.org](https://dejure.org/gesetze/MarkenG/30.html) (Lizenzrecht)
+- [§ 72 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/72.html) (Streitverkündung)
+- [§ 43a BRAO – dejure.org](https://dejure.org/gesetze/BRAO/43a.html)
+- Art. 101 AEUV: [eur-lex.europa.eu](https://eur-lex.europa.eu)
+- Keine BeckRS-Blindzitate; Rechtsprechung zu Lizenznehmerklagen mit Gericht, Datum, AZ.
+
+## Anschluss-Skills
+
+- `verletzungs-triage` – IP-Verletzung Erstentscheidung
+- `spezial-operate-verhandlung-vergleich-und-eskalation` – Vergleichsverhandlung
+- `spezial-gewerblicher-erstpruefung-und-mandatsziel` – Erstprüfung und Mandatsziel
+- `mandat-triage-gewerblicher-rechtsschutz` – Mandatstriage

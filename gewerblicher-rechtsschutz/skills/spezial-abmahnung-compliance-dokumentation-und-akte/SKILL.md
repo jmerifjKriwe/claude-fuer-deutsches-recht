@@ -1,48 +1,147 @@
 ---
 name: spezial-abmahnung-compliance-dokumentation-und-akte
-description: "Abmahnung: Compliance-Dokumentation und Aktenvermerk im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Abmahnung im gewerblichen Rechtsschutz: Compliance-Dokumentation und Aktenführung. Wie Abmahnvorgänge vollständig dokumentiert, Fristen gesichert und Entscheidungen nachvollziehbar gemacht werden – für Anwaltskanzlei und Unternehmens-Rechtsabteilung."
 ---
 
-# Abmahnung: Compliance-Dokumentation und Aktenvermerk
+# Spezial: Abmahnung – Compliance-Dokumentation und Aktenführung
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `gewerblicher-rechtsschutz`. Ausgangspunkt ist: Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.
+## Zweck und Mandatsbezug
 
-Er führt durch **Compliance-Dokumentation und Aktenvermerk** im Themenfeld **Abmahnung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill behandelt die **Compliance-konforme Dokumentation von Abmahnvorgängen** im gewerblichen Rechtsschutz. Kanzleien und Rechtsabteilungen, die regelmäßig Abmahnungen versenden oder empfangen, müssen eine vollständige, revisionssichere Akte führen – für interne Qualitätssicherung, spätere Verfahren, Beweissicherung und ggf. Haftungsvermeidung.
 
+Mandatsbezug: Kanzlei versendet im Auftrag einer Mandantin monatlich Dutzende Abmahnungen. Rechtsabteilung eines Unternehmens empfängt Abmahnungen und muss Reaktionen nachvollziehbar entscheiden und dokumentieren. Anwalt muss im Nachhinein nachweisen, dass eine Abmahnung korrekt formuliert und fristgerecht versandt wurde.
 
-## Fachlicher Zuschnitt
+## Aktenstruktur für Abmahnvorgänge
 
-- **Thema:** Abmahnung.
-- **Arbeitsfokus:** Compliance-Dokumentation und Aktenvermerk.
-- **Plugin-Rahmen:** Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand un....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### Standardgliederung einer Abmahnakte
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+```
+Abmahnakte [Mandant] ./. [Gegner] – [Datum]
+│
+├── 1. Basisdokumente
+│   ├── Sachverhaltsprotokoll (Erstgespräch)
+│   ├── Vollmacht des Mandanten
+│   └── Mandate-Acceptance-Check (Interessenkonflikt, Honorarvereinbarung)
+│
+├── 2. Schutzrechtsnachweis
+│   ├── Registerauszug (DPMA/EUIPO/Patentrolle)
+│   └── Schutzrechtsübersicht (Klassen, Laufzeit, Lizenzsituation)
+│
+├── 3. Verletzungsnachweis
+│   ├── Screenshot mit Datum, URL, Metadaten
+│   ├── Kaufbeleg oder Liefernachweis
+│   └── Eidesstattliche Versicherung des Mandanten
+│
+├── 4. Abmahnschreiben
+│   ├── Entwurf v1 mit Revisionsverlauf
+│   ├── Freigegebene Fassung
+│   └── Zustellungsnachweis (Einschreiben, GV-Urkunde, beA-Protokoll)
+│
+├── 5. Reaktion der Gegenseite
+│   ├── Eingehende Unterlassungserklärung
+│   ├── Modifizierte UE oder Ablehnungsschreiben
+│   └── Korrespondenz
+│
+├── 6. Folgeentscheidungen
+│   ├── Entscheidungsvorlage (UE angenommen / abgelehnt / EV)
+│   └── EV-Antrag (falls gestellt)
+│
+└── 7. Fristendokumentation
+    ├── Reaktionsfrist an Gegner
+    ├── Dringlichkeitsfrist (EV)
+    └── Verjährungsfrist (Schadensersatz)
+```
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+## Compliance-Checkliste Abmahnung VERSAND
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Abmahnung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+### Vorab-Compliance
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+- [ ] **Mandatsprüfung:** Aktivlegitimation des Mandanten bestätigt?
+- [ ] **Interessenkonfliktprüfung:** Kein Konflikt mit anderen Mandanten?
+- [ ] **Schutzrecht valide:** Registerauszug aktuell? Keine Löschungsklage anhängig?
+- [ ] **Verletzungshandlung belegt:** Beweissicherung vor Abmahnung abgeschlossen?
+- [ ] **Abmahnmissbrauch ausgeschlossen:** § 8c UWG-Indizien geprüft?
+
+### Abmahnung selbst
+
+- [ ] Formvoraussetzungen §§ 13 UWG / 97a UrhG / 14 MarkenG erfüllt?
+- [ ] Unterlassungserklärung beigefügt und vollständig?
+- [ ] Frist angemessen (Minimum 7 Tage, Standard 2 Wochen)?
+- [ ] Streitwert angegeben?
+- [ ] Kosten korrekt berechnet?
+
+### Zustellung
+
+- [ ] Zustellungsweg dokumentiert (Post, GV, beA, E-Mail mit Lese-/Empfangsbestätigung)?
+- [ ] Datum der Zustellung in Akte und Fristenbuch eingetragen?
+- [ ] Zustellungsnachweis gesichert?
+
+## Compliance-Checkliste Abmahnung EMPFANG
+
+### Eingangserfassung
+
+- [ ] Datum des Eingangs notiert (Poststempel, E-Mail-Timestamp)?
+- [ ] Reaktionsfrist berechnet und in Fristenbuch eingetragen?
+- [ ] Vorlage beim zuständigen Anwalt am selben Tag?
+- [ ] Mandant informiert?
+
+### Sachprüfung
+
+- [ ] Aktivlegitimation des Abmahners geprüft?
+- [ ] Materieller Verstoß bejaht, verneint oder unklar?
+- [ ] Missbräuchlichkeit nach § 8c UWG geprüft?
+- [ ] Streitwert und Kosten geprüft?
+
+### Reaktionsdokumentation
+
+- [ ] Entscheidung dokumentiert: UE angenommen / modifiziert / abgelehnt?
+- [ ] Begründung der Entscheidung in Aktennotiz?
+- [ ] Reaktionsschreiben entwurf erstellt und freigegeben?
+- [ ] Zustellung der Antwort dokumentiert?
+
+## Fristenmanagement
+
+| Frist | Auslöser | Dauer | Konsequenz bei Versäumnis |
+|---|---|---|---|
+| Reaktionsfrist an Gegner | Versand Abmahnung | 7–14 Tage | EV-Antrag möglich |
+| Dringlichkeitsfrist EV | Kenntnis Verletzung | Gericht-abhängig (4–8 Wochen) | Dringlichkeit selbst widerlegt |
+| Vollziehungsfrist | EV erlassen, Zustellung Antragsteller | 1 Monat (§ 929 Abs. 2 ZPO) | EV verliert Kraft |
+| Widerspruchsfrist | keine gesetzliche | – | Jederzeit möglich |
+| Verjährung (UWG) | Kenntnis von Verletzung und Schuldner | 3 Jahre (§ 11 UWG) | Anspruch verjährt |
+| Verjährung (MarkenG) | Kenntnis | 3 Jahre (§ 20 MarkenG) | Anspruch verjährt |
+
+## Dokumentation im Mandantenverhältnis
+
+### Informationspflichten
+
+- Mandant über jede relevante Reaktion der Gegenseite informieren.
+- Entscheidungsvorlagen mit Handlungsoptionen, Kosten und Risiken.
+- Schriftliche Bestätigung mandantlicher Entscheidungen (UE annehmen/ablehnen, EV beantragen).
+
+### Aktenabschluss
+
+- Abmahnvorgang abgeschlossen, wenn: UE akzeptiert + Kostenfrage geklärt, oder Hauptsacheverfahren eingeleitet.
+- Akte 10 Jahre aufbewahren (Rechtsanwaltskammer-Vorgaben; § 50 BRAO).
+- Elektronische Akte: Sicherungskopie, Integrität der Dokumente sichern.
+
+## Qualitätssicherung
+
+- Stichprobenartige Überprüfung von Abmahnvorgängen auf formale Vollständigkeit.
+- Checkliste bei jeder Abmahnung vollständig ausfüllen lassen.
+- Bei Serienabmahnungen: Vorlage-Prüfung durch Partneranwalt.
+- § 8c UWG-Risiko: Bei Musterabmahnungen Mandanteninteresse konkret prüfen.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+- [§ 13 UWG – dejure.org](https://dejure.org/gesetze/UWG/13.html)
+- [§ 97a UrhG – dejure.org](https://dejure.org/gesetze/UrhG/97a.html)
+- [§ 8c UWG – dejure.org](https://dejure.org/gesetze/UWG/8c.html)
+- BRAO § 50 (Aktenführung): [gesetze-im-internet.de/brao](https://www.gesetze-im-internet.de/brao/__50.html)
+- Keine BeckRS-Blindzitate; Fristenpraxis aktuell über Gerichtspraxis prüfen.
+
+## Anschluss-Skills
+
+- `gewr-uwg-abmahnung-checkliste` – UWG-Abmahnung Prüfcheckliste
+- `unterlassungsverlangen` – Unterlassungserklärung
+- `workflow-dokumentenintake` – Dokumentenaufnahme
+- `spezial-fristen-abschlussprodukt-und-uebergabe` – Fristenverwaltung

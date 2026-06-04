@@ -1,48 +1,151 @@
 ---
 name: spezial-gewerblicher-erstpruefung-und-mandatsziel
-description: "Gewerblicher: Erstprüfung, Rollenklärung und Mandatsziel im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Erstprüfung und Mandatszielbestimmung im gewerblichen Rechtsschutz: strukturiertes Erstgespräch, Rollen- und Interessenklärung, Schutzrechtslandschaft, Falltypisierung und Zieldefinition für anwaltliche Mandate in IP- und Wettbewerbssachen."
 ---
 
-# Gewerblicher: Erstprüfung, Rollenklärung und Mandatsziel
+# Spezial: Erstprüfung und Mandatsziel im Gewerblichen Rechtsschutz
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `gewerblicher-rechtsschutz`. Ausgangspunkt ist: Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.
+## Zweck und Mandatsbezug
 
-Er führt durch **Erstprüfung, Rollenklärung und Mandatsziel** im Themenfeld **Gewerblicher**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill strukturiert die **Erstprüfung und Mandatszieldefinition** bei neuen IP- und Wettbewerbsschutzmandaten. Er hilft dem Anwalt, in kurzer Zeit ein klares Bild der Situation, der Rollen, der einschlägigen Schutzrechtslandschaft und des konkreten Mandatsziels zu gewinnen – als Grundlage für alle weiteren Verfahrensschritte.
 
+Mandatsbezug: Mandant ruft an und sagt „Jemand verletzt unsere Marke" oder „Wir haben eine Abmahnung erhalten" oder „Wir wollen unser Patent durchsetzen". Dieser Skill sorgt dafür, dass das Erstgespräch produktiv ist und alle relevanten Informationen erfasst werden.
 
-## Fachlicher Zuschnitt
+## Erstgesprächsstruktur: Sechs Dimensionen
 
-- **Thema:** Gewerblicher.
-- **Arbeitsfokus:** Erstprüfung, Rollenklärung und Mandatsziel.
-- **Plugin-Rahmen:** Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand un....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### Dimension 1 – Wer ist der Mandant?
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+- Name, Rechtsform, Branche, Größe des Unternehmens.
+- Inhouse-Rechtsabteilung oder rein externe Beratung?
+- IP-Kenntnisstand: Hat Mandant schon IP-Verfahren geführt?
+- Entscheider: Wer trifft die Entscheidung (Geschäftsführer, Patentmanager, Vorstand)?
+- Interessenkonflikt: Gibt es bestehende Mandate mit verwandten Unternehmen?
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+### Dimension 2 – Was ist das Problem?
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Gewerblicher** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+| Problem-Kategorie | Typische Merkmale | Erstreaktion |
+|---|---|---|
+| Verletzung eigener Schutzrechte | Wettbewerber nutzt Marke/Patent/Design | Verletzungsprüfung, Abmahnung, EV |
+| Abmahnung empfangen | Schutzrecht eines Dritten, Frist läuft | Reaktionsprüfung, UE, Schutzschrift |
+| Schutzrecht sichern | Neuanmeldung, Portfolio-Aufbau | Anmeldeberatung, Klassen, Register |
+| Freedom to Operate | Markteinführung geplant | FTO-Analyse, Patentrecherche |
+| Vertragsstreit IP | Lizenz, Übertragung, Verletzung | Vertragsanalyse, Kündigung, Schadensersatz |
+| Behördenverfahren | Widerspruch, Löschung, Einspruch | Verfahrensführung DPMA/EUIPO/EPA |
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+### Dimension 3 – Welche Schutzrechte sind betroffen?
+
+Zu prüfende Schutzrechte:
+- **Marken:** Nationale (DPMA), EU (EUIPO), international (WIPO/Madrid), nicht eingetragene Kennzeichen (§ 5 MarkenG).
+- **Patente:** DPMA, EPA, PCT; Gebrauchsmuster; ArbnErfG.
+- **Designs:** DPMA-Design, Gemeinschaftsgeschmacksmuster (EUIPO), nicht eingetragenes GGM.
+- **Urheberrecht:** Werke, Datenbanken, Computerprogramme – entsteht ohne Anmeldung.
+- **UWG-Ansprüche:** Ohne Schutzrecht; Mitbewerberverhältnis erforderlich.
+- **Geschäftsgeheimnisse:** GeschGehG; angemessene Geheimhaltungsmaßnahmen prüfen.
+
+### Dimension 4 – Was ist das Mandatsziel?
+
+Mögliche Ziele (können kombiniert sein):
+
+| Ziel | Instrument |
+|---|---|
+| Verletzung stoppen (sofort) | EV, Abmahnung |
+| Verletzung dauerhaft verhindern | Unterlassungsurteil, Abschlussvereinbarung |
+| Schadensersatz erhalten | Auskunft, Schadensersatzklage |
+| Schutzrecht vernichten | Widerspruch, Nichtigkeitsklage, Löschungsantrag |
+| Eigenes Schutzrecht absichern | Anmeldung, Verlängerung, Verteidigung |
+| Markteinführung absichern (FTO) | Freedom-to-Operate-Analyse |
+| Lizenzverhältnis klären | Vertragsberatung, FRAND-Analyse |
+| Kosten minimieren | Vergleich, modifizierte UE |
+
+### Dimension 5 – Welche Fristen sind kritisch?
+
+- **Sofortiger Handlungsbedarf:** Abmahnfrist läuft ab (heute? morgen?), EV-Vollziehungsfrist.
+- **Mittelfristige Fristen:** DPMA-Widerspruch, EUIPO-Widerspruch, Einspruch EPA.
+- **Langfristige Fristen:** Jahresgebühren, Verjährung, Markenverlängerung.
+- Frist immer als erste Information in Mandatsnotiz.
+
+### Dimension 6 – Welche Unterlagen liegen vor?
+
+**Sofort benötigte Unterlagen:**
+- [ ] Schutzrechtsurkunde / Registerauszug (Marke, Patent, Design).
+- [ ] Verletzungsnachweis (Screenshot, Kaufbeleg, Messeprotokoll).
+- [ ] Abmahnschreiben (falls empfangen): vollständiger Text.
+- [ ] Korrespondenz mit Gegenseite.
+- [ ] Frühere anwaltliche Stellungnahmen oder Gutachten.
+- [ ] Lizenzverträge, wenn Lizenzlage komplex.
+
+**Noch zu beschaffen:**
+- [ ] Aktueller Registerauszug DPMA/EUIPO/Patentrolle.
+- [ ] Eidesstattliche Versicherung des Mandanten.
+- [ ] Screenshots mit Metadaten.
+
+## Risikoampel bei der Erstprüfung
+
+### Grün (Soforthandlung vertretbar)
+
+- Schutzrecht eingetragen und valide.
+- Verletzung eindeutig und belegt.
+- Dringlichkeit noch gegeben (Kenntnis < 4 Wochen).
+- Keine offensichtlichen Einwendungen der Gegenseite.
+→ Abmahnung oder EV unverzüglich vorbereiten.
+
+### Gelb (Weitere Klärung erforderlich)
+
+- Schutzrecht vorhanden, aber Gültigkeitsfragen offen.
+- Verletzung plausibel, aber noch nicht vollständig belegt.
+- Zeitlage noch komfortabel.
+→ Weitere Recherche; Mandantenrückfragen; dann Entscheidung.
+
+### Rot (Vorsicht geboten)
+
+- Schutzrecht ungültig, abgelaufen oder streitig.
+- Verletzungshandlung zweifelhaft.
+- Missbrauchsverdacht (§ 8c UWG).
+- Dringlichkeit möglicherweise schon selbst widerlegt.
+→ Kein sofortiger Schritt ohne vertiefte Prüfung; Risiken dem Mandanten klar darstellen.
+
+## Mandatsnotiz-Vorlage (Erstgespräch)
+
+```
+MANDATSNOTIZ – ERSTGESPRÄCH
+Datum: _______________
+Anwalt: _______________
+Mandant: _______________  Kontakt: _______________
+
+Problem-Kategorie: _______________
+Betroffenes Schutzrecht: _______________
+Verletzungshandlung: _______________
+Gegenseite: _______________
+Kritische Frist: _______________ (bis: _______________)
+
+Mandatsziel: _______________
+Risikoampel: Grün / Gelb / Rot
+Empfohlene nächste Schritte: 
+1. _______________
+2. _______________
+3. _______________
+
+Fehlende Unterlagen: _______________
+Nächster Termin: _______________
+```
+
+## Abgrenzung: Was dieser Skill nicht macht
+
+- Kein Ersatz für die Vertiefung in Spezial-Skills (EV-Antrag, Abmahnung, Anmeldung).
+- Keine abschließende rechtliche Beurteilung ohne Normtext- und Rechtsprechungs-Prüfung.
+- Keine Festlegung auf eine Handlungsoption ohne Mandantenentscheidung.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+- MarkenG: [gesetze-im-internet.de/markeng](https://www.gesetze-im-internet.de/markeng/)
+- PatG: [gesetze-im-internet.de/patg](https://www.gesetze-im-internet.de/patg/)
+- UWG: [gesetze-im-internet.de/uwg_2004](https://www.gesetze-im-internet.de/uwg_2004/)
+- GeschGehG: [gesetze-im-internet.de/geschgehg](https://www.gesetze-im-internet.de/geschgehg/)
+- Keine BeckRS-Blindzitate; Normen live prüfen.
+
+## Anschluss-Skills
+
+- `mandat-triage-gewerblicher-rechtsschutz` – Vertiefte Triage
+- `gewerblicher-rechtsschutz-kaltstart-interview` – Kaltstart-Interview
+- `gw-einfuehrung-rechtsschutzwege` – Überblick Rechtsschutzwege
+- `verletzungs-triage` – IP-Verletzung Erstentscheidung

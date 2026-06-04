@@ -1,48 +1,233 @@
 ---
 name: spezial-freedom-schriftsatz-brief-und-memo-bausteine
-description: "Freedom: Schriftsatz-, Brief- und Memo-Bausteine im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Schriftsatz-, Brief- und Memo-Bausteine für den gewerblichen Rechtsschutz: Freedom-to-Operate, Abmahnung, einstweilige Verfügung, Klageschrift, Mandantenbrief. Wiederverwendbare Textbausteine für schnelle Dokumentenerstellung."
 ---
 
-# Freedom: Schriftsatz-, Brief- und Memo-Bausteine
+# Spezial: Freedom – Schriftsatz, Brief und Memo-Bausteine
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `gewerblicher-rechtsschutz`. Ausgangspunkt ist: Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.
+## Zweck und Mandatsbezug
 
-Er führt durch **Schriftsatz-, Brief- und Memo-Bausteine** im Themenfeld **Freedom**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill stellt **wiederverwendbare Textbausteine für typische Dokumente** im gewerblichen Rechtsschutz bereit. Er umfasst Elemente für Abmahnschreiben, Antragsschriftsätze für einstweilige Verfügungen, Klageschriften, Mandantenbriefe und interne Memos. Die Bausteine sind formularmäßig ausgestaltet und auf die gängigen Normen des MarkenG, PatG, UWG und UrhG abgestimmt.
 
+Mandatsbezug: Anwalt muss innerhalb kurzer Zeit einen vollständigen Schriftsatz entwerfen. Rechtsabteilung sucht Formulierungshilfen für Standard-IP-Dokumente. Kanzlei will eine Vorlagenbibliothek aufbauen.
 
-## Fachlicher Zuschnitt
+## Kategorie 1: Abmahnschreiben
 
-- **Thema:** Freedom.
-- **Arbeitsfokus:** Schriftsatz-, Brief- und Memo-Bausteine.
-- **Plugin-Rahmen:** Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand un....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### Abmahnung bei Markenverletzung (§ 14 MarkenG)
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+```
+[Briefkopf Kanzlei]
+[Datum]
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+[Name und Adresse Empfänger]
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Freedom** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+Abmahnung wegen Verletzung der eingetragenen Marke [Marke, Reg.-Nr.] 
+– Ihre Unterlassungspflicht
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+Sehr geehrte Damen und Herren,
+
+wir vertreten [Mandant], eingetragene/r Inhaber/in der deutschen Wortmarke/
+Bildmarke/Wort-Bildmarke „[Zeichen]" mit der Registernummer [Reg.-Nr.],
+eingetragen für die Waren/Dienstleistungen der Klasse(n) [Klassen], beim
+Deutschen Patent- und Markenamt (DPMA) bzw. beim Amt der Europäischen Union
+für Geistiges Eigentum (EUIPO) seit [Datum].
+
+Wir haben festgestellt, dass Sie [konkrete Verletzungshandlung – z.B. „das
+Zeichen ‚XY' für [Waren/Dienstleistungen] in der Werbung / auf Ihrer Website /
+auf Produktverpackungen"] verwenden. Dies verletzt das ausschließliche Recht
+unserer Mandantin nach § 14 Abs. 2 Nr. [1/2/3] MarkenG.
+
+Wir fordern Sie auf,
+1. die oben beschriebene Nutzung unverzüglich und vollständig zu unterlassen,
+2. beigefügte strafbewehrte Unterlassungserklärung bis zum [Datum, 14 Tage]
+   zu unterzeichnen und uns zurückzusenden,
+3. uns bis zu demselben Datum die entstanden Kosten zu erstatten (RVG: [Betrag]).
+
+Bei Fristversäumnis werden wir ohne weitere Ankündigung gerichtliche Schritte
+einleiten.
+
+Mit freundlichen Grüßen
+[Kanzlei]
+```
+
+### Abmahnung bei UWG-Verstoß (§ 8 Abs. 1, § 13 UWG)
+
+```
+[Briefkopf Kanzlei]
+[Datum]
+
+Abmahnung wegen [Irreführung / unlauterem Wettbewerb] gemäß §§ [3, 5 / 3a / 4] UWG
+
+Sehr geehrte Damen und Herren,
+
+wir vertreten [Mandant], der/die in einem Wettbewerbsverhältnis zu Ihnen steht.
+
+Wir haben festgestellt, dass Sie [konkrete Handlung beschreiben], was einen
+Verstoß gegen §§ [Normen] UWG darstellt, da [kurze Begründung].
+
+Dies erfüllt den Tatbestand [Irreführung / Rechtsbruch / Nachahmung] nach
+§§ [Normen] UWG und ist geeignet, die Interessen von Mitbewerbern spürbar
+zu beeinträchtigen (§ 3 Abs. 1 UWG).
+
+Wir fordern Sie auf:
+1. Die bezeichnete Wettbewerbshandlung sofort und vollständig einzustellen,
+2. Die beigefügte strafbewehrte Unterlassungserklärung bis zum [Datum] zurückzusenden,
+3. Die Abmahnkosten in Höhe von [Betrag] zu erstatten.
+
+[Unterschrift]
+```
+
+## Kategorie 2: Unterlassungserklärungen
+
+### Strafbewehrte Unterlassungserklärung (Muster)
+
+```
+STRAFBEWEHRTE UNTERLASSUNGSERKLÄRUNG
+
+[Name, Adresse Unterzeichner]
+(„Schuldner")
+
+gegenüber
+
+[Name, Adresse Gläubiger]
+(„Gläubiger")
+
+Der Schuldner verpflichtet sich gegenüber dem Gläubiger ohne Anerkennung einer
+rechtlichen Verpflichtung, aber verbindlich,
+
+es ab sofort zu unterlassen,
+
+[konkrete Handlung, z.B. „das Zeichen ‚XY' im geschäftlichen Verkehr in
+Deutschland für [Waren/Dienstleistungen] zu benutzen, insbesondere das Zeichen
+auf Produkten, Verpackungen, in Werbung oder im Internet zu verwenden"],
+
+und für jeden Fall der Zuwiderhandlung an den Gläubiger eine von diesem
+nach billigem Ermessen zu bestimmende, im Streitfall vom zuständigen Gericht
+zu überprüfende Vertragsstrafe in Höhe von mindestens [Betrag] EUR zu zahlen.
+
+[Ort, Datum]
+[Unterschrift]
+```
+
+## Kategorie 3: Antragsschriftsatz EV (Gliederung)
+
+```
+AN DAS
+LANDGERICHT [Stadt]
+[Kammer für Handelssachen / Zivilkammer]
+
+In Sachen
+[Antragsteller] – Antragsteller –
+Prozessbevollmächtigte: Rechtsanwälte [Kanzlei]
+gegen
+[Antragsgegner] – Antragsgegner –
+
+wegen Unterlassung (einstweilige Verfügung)
+
+A N T R A G
+
+Der Antragsgegner wird im Wege der einstweiligen Verfügung – ohne mündliche
+Verhandlung wegen Dringlichkeit – verpflichtet, es bei Meidung eines für
+jeden Fall der Zuwiderhandlung festzusetzenden Ordnungsgeldes bis zu
+250.000,– EUR, ersatzweise Ordnungshaft bis zu sechs Monaten,
+
+zu unterlassen,
+
+[konkrete Handlung].
+
+BEGRÜNDUNG
+
+I. Sachverhalt
+   [Tatsachen, Beweise, eidesstattliche Versicherung]
+
+II. Verfügungsanspruch
+   [Rechtliche Einordnung; Norm; Subsumtion]
+
+III. Verfügungsgrund / Dringlichkeit
+   [Erstkenntnis Datum; keine Selbstwiderlegung; Dringlichkeit begründet]
+
+IV. Anlagen
+   [Anlage 1: Schutzrechtsurkunde / Registerauszug]
+   [Anlage 2: Verletzungsnachweis (Screenshot, Kaufbeleg)]
+   [Anlage 3: Eidesstattliche Versicherung des Antragstellers]
+
+[Unterschrift]
+```
+
+## Kategorie 4: Mandantenbrief Erstinformation
+
+```
+[Briefkopf Kanzlei]
+[Datum]
+
+Betr.: [Sachbetreff]
+
+Sehr geehrte/r [Herr/Frau X],
+
+nach unserem Erstgespräch fasse ich die Ausgangslage und die nächsten Schritte
+wie folgt zusammen:
+
+1. Situation
+[Kurze Sachverhaltsdarstellung in 3–5 Sätzen]
+
+2. Rechtliche Einordnung
+[Welches Recht gilt; kurze Erklärung für Mandanten]
+
+3. Handlungsoptionen
+   Option A: [Beschreibung] – Kosten ca. [Betrag]; Risiko: [kurz]
+   Option B: [Beschreibung] – Kosten ca. [Betrag]; Risiko: [kurz]
+
+4. Empfehlung
+Wir empfehlen [Option X], weil [kurze Begründung].
+
+5. Nächster Schritt
+Um fortzufahren, benötigen wir Ihre Entscheidung bis [Datum].
+Bitte teilen Sie uns mit: [Was Mandant tun soll].
+
+Mit freundlichen Grüßen
+[Anwalt]
+
+Hinweis: Dies ist eine vorläufige Einschätzung auf Grundlage der bisherigen
+Informationen. Abweichungen bei vollständiger Sachverhaltskenntnis sind
+möglich.
+```
+
+## Kategorie 5: Freedom-to-Operate-Memo (Gliederung)
+
+```
+FREEDOM-TO-OPERATE ANALYSE
+[Produkt / Technologie]
+[Datum]
+Erstellt von: [Anwalt]
+
+1. AUFTRAG
+[Was soll analysiert werden; Produkt / Technologie / Verfahren]
+
+2. RECHERCHIERTERE SCHUTZRECHTE
+[Tabelle: Patent-Nr. | Inhaber | Ansprüche | Status | Ablaufdatum]
+
+3. BEWERTUNG
+[Für jedes Patent: Verletzungswahrscheinlichkeit Grün/Gelb/Rot + Begründung]
+
+4. EMPFEHLUNG
+[Handlungsempfehlung: Designaround, Lizenz, Nichtigkeitsangriff, Akzeptanz]
+
+5. LIVE-CHECK-BEDARF
+[Punkte, die vor Markteinführung noch geprüft werden müssen]
+
+6. QUELLEN
+[Patentdatenbank, Gericht, Datum]
+```
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+- Schriftsatzbausteine auf aktuelle Normfassungen abstimmen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Keine veralteten Gesetzesverweise; insbesondere UWG-Reform 2022 und MarkenG-Änderungen beachten.
+- Keine BeckRS-Blindzitate; Rechtsprechungsnachweise nur mit verifizierbarer Quelle.
+
+## Anschluss-Skills
+
+- `gewr-uwg-abmahnung-checkliste` – UWG-Abmahnung Prüfcheckliste
+- `gewr-einstweilige-verfuegung-eilverfahren-spezial` – EV-Antragsdetails
+- `fto-triage` – Freedom-to-Operate Prüfung
+- `unterlassungsverlangen` – Unterlassungserklärung

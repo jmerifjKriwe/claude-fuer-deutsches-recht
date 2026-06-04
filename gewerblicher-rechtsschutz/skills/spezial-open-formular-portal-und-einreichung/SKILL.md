@@ -1,48 +1,180 @@
 ---
 name: spezial-open-formular-portal-und-einreichung
-description: "Open: Formular, Portal und Einreichungslogik im Plugin gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Formulare und Portale im gewerblichen Rechtsschutz: Welches Formular wird für welches Verfahren bei DPMA, EUIPO, EPA, BPatG und Gerichten benötigt? Einreichungswege, technische Voraussetzungen und Fehlervermeidung."
 ---
 
-# Open: Formular, Portal und Einreichungslogik
+# Spezial: Formulare, Portale und Einreichungswege
 
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `gewerblicher-rechtsschutz`. Ausgangspunkt ist: Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.
+## Zweck und Mandatsbezug
 
-Er führt durch **Formular, Portal und Einreichungslogik** im Themenfeld **Open**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Dieser Skill gibt eine vollständige Übersicht über **Formulare, Online-Portale und Einreichungswege** für alle relevanten Behörden und Gerichte im gewerblichen Rechtsschutz. Falsche oder unvollständige Formulare können Fristen kosten und Anmeldungen gefährden.
 
+Mandatsbezug: Anwalt fragt: Welches Formular verwende ich für den DPMA-Widerspruch? Kann ich beim EUIPO alles online einreichen? Muss ich zum BPatG einen Papierschriftsatz schicken oder geht das elektronisch?
 
-## Fachlicher Zuschnitt
+## DPMA: Formulare und Portal
 
-- **Thema:** Open.
-- **Arbeitsfokus:** Formular, Portal und Einreichungslogik.
-- **Plugin-Rahmen:** Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand un....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+**Portal:** [dpma.de](https://www.dpma.de) → DPMAregister Online, DPMAdirekt
 
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+### Markenanmeldung
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+| Element | Formular | Einreichungsweg |
+|---|---|---|
+| Markenanmeldung (Wortmarke/Bildmarke) | D/A 9500, D/A 9520, D/A 9530 | Online (DPMAregister) oder Post |
+| Anmeldegebühr | Banküberweisung oder Online-Zahlung | Mit Antrag |
+| Prioritätsnachweis | Formular D/A 9540 | Innerhalb 3 Monate nach Anmeldung |
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Open** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+**Wichtig:** Online-Einreichung per DPMAregister bevorzugt; sofortiger Datumsstempel.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+### Markenwiderspruch
+
+| Element | Inhalt |
+|---|---|
+| Formular | DPMAregister-Online-Widerspruchsformular |
+| Widerspruchsgebühr | 250 EUR; Online-Zahlung oder Überweisung |
+| Frist | 3 Monate ab Veröffentlichung im Markenblatt |
+| Inhalt | Angabe älteres Recht; Anspruchsgrundlage |
+
+### Patentanmeldung
+
+| Element | Formular | Einreichungsweg |
+|---|---|---|
+| Patentanmeldung (national) | D/P 1000 (Antrag), D/P 1001 ff. | Online (DPMAregister) oder Post |
+| Prüfungsantrag | D/P 1020 | Innerhalb 7 Jahre nach Anmeldedatum |
+| Anmeldegebühr | 40 EUR online, 60 EUR Papier | Mit Antrag |
+| Jahresgebühren | Automatisch Fälligkeitsschreiben | Banküberweisung; jährlich ab 3. Jahr |
+
+### Patent-Einspruch
+
+| Element | Inhalt |
+|---|---|
+| Form | Schriftlich oder Online-DPMAregister |
+| Frist | 3 Monate ab Erteilungsveröffentlichung |
+| Gebühr | 200 EUR |
+| Inhalt | Einspruchsgrund (Neuheit, erfinderische Tätigkeit, unzureichende Offenbarung) |
+
+### Gebrauchsmusteranmeldung
+
+| Formular | Einreichung |
+|---|---|
+| D/GM 5000 | DPMAregister oder Post |
+| Gebühr | 40 EUR (online) |
+
+### Designanmeldung
+
+| Formular | Einreichung |
+|---|---|
+| D/EM 1020 | DPMAregister oder Post |
+| Gebühr | 70 EUR je Design |
+| Sammelanmeldung | Bis 100 Designs möglich |
+
+## EUIPO: Formulare und Portal
+
+**Portal:** [euipo.europa.eu](https://www.euipo.europa.eu) → eFiling, eSearch Plus
+
+### Unionsmarkenanmeldung (eFiling)
+
+| Element | Inhalt |
+|---|---|
+| Antragsformular | eFiling-Assistent online |
+| Zeichenabbildung | JPG/PNG mind. 800×800 Pixel |
+| Klassifizierung | TMclass-Tool zur Klassifizierung |
+| Gebühr | 850 EUR (1 Klasse), Online-Zahlung obligatorisch |
+
+### Unionsmarken-Widerspruch
+
+| Element | Inhalt |
+|---|---|
+| Formular | eFiling-Widerspruchsformular |
+| Frist | 3 Monate ab Veröffentlichung |
+| Gebühr | 320 EUR (Online) |
+| Sprache | Verfahrenssprache = Sprache der Anmeldung (falls EUIPO-Sprache) |
+
+### Nichtigkeitsantrag / Verfallsantrag
+
+| Element | Inhalt |
+|---|---|
+| Formular | eFiling |
+| Gebühr | 1.080 EUR (relative Gründe) / 630 EUR (absolute) |
+| Inhalt | Nichtigkeitsgründe, Nachweise |
+
+### Beschwerde
+
+| Element | Inhalt |
+|---|---|
+| Formular | eFiling-Beschwerdemodul |
+| Frist | 2 Monate ab Entscheidungszustellung |
+| Begründungsfrist | 4 Monate ab Entscheidungszustellung |
+| Gebühr | 720 EUR |
+
+## EPA: Formulare und Portal
+
+**Portal:** [epo.org](https://www.epo.org) → MyEPO, Online Filing
+
+### Europäische Patentanmeldung
+
+| Element | Inhalt |
+|---|---|
+| Online-Filing | MyEPO Portfolio / Patentscope |
+| Formular | EP Request Form (automatisch generiert) |
+| Sprache | Deutsch, Englisch, Französisch |
+| Anmeldegebühr | 235 EUR (Online) |
+
+### Einspruch gegen EP-Patent
+
+| Element | Inhalt |
+|---|---|
+| Form | Schriftlich oder Online (MyEPO) |
+| Frist | 9 Monate ab Veröffentlichung der Erteilung |
+| Gebühr | 815 EUR |
+| Sprache | Sprache des Einspruchsverfahrens |
+
+## BPatG: Einreichungswege
+
+**Portal:** [bundespatentgericht.de](https://www.bundespatentgericht.de)
+
+| Verfahren | Einreichungsweg |
+|---|---|
+| Beschwerde gegen DPMA | Schriftlich an BPatG München oder per beA |
+| Nichtigkeitsklage (Patent) | Schriftlich; Anwaltszwang besteht |
+| Marken-Nichtigkeitsklage | Schriftlich oder beA |
+| Zwangslizenzantrag | Schriftlich |
+
+**Anwaltszwang:** Vor dem BPatG: Patentanwalt oder Rechtsanwalt (§ 97 PatG).
+
+## Ordentliche Gerichte: Elektronischer Rechtsverkehr
+
+**beA (besonderes elektronisches Anwaltspostfach):**
+- Pflicht für zugelassene Rechtsanwälte seit 1.1.2022 (§ 130d ZPO).
+- Alle Schriftsätze an Gerichte müssen seit 1.1.2022 elektronisch eingereicht werden.
+- Ausnahme: Technische Störung (dokumentieren!).
+- Signatur: Qualifizierte elektronische Signatur (QES) oder einfache Signatur aus gesichertem Postfach.
+
+## Häufige technische Fehler
+
+- **DPMA Online-Einreichung bricht ab:** Browser-Cache leeren; PDF/A-Format prüfen.
+- **EUIPO eFiling-Fehler bei Bildupload:** Auflösung zu niedrig; Format falsch (nur jpg, png, tiff).
+- **beA-Versand ohne QES:** Schriftsatz nicht wirksam übermittelt; Schriftsatz gilt als nicht eingegangen.
+- **EPA Online Filing: Zeitüberschreitung:** Sitzungstimeout; Zwischenspeicherung prüfen.
+- **DPMA-Zahlung nicht erkannt:** Aktenzeichen auf Überweisung muss exakt stimmen.
+
+## Tipps für fehlerfreie Einreichung
+
+1. Formular immer in Originalversion der Behördenwebsite verwenden.
+2. Gebühren gleichzeitig mit Antrag überweisen oder online bezahlen.
+3. Eingangsbestätigung der Behörde abwarten und archivieren.
+4. Datum der Einreichung sofort ins Fristenbuch.
+5. Kopien aller eingereichten Dokumente in eigener Akte aufbewahren.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+- DPMA: [dpma.de/service/formulare](https://www.dpma.de/service/formulare/index.html)
+- EUIPO: [euipo.europa.eu/en/trade-marks/apply-for-a-trade-mark](https://www.euipo.europa.eu/en/trade-marks/apply-for-a-trade-mark)
+- EPA: [epo.org/en/applying/online-filing](https://www.epo.org/en/applying/online-filing)
+- BPatG: [bundespatentgericht.de](https://www.bundespatentgericht.de)
+- Formulare und Gebühren immer über offizielle Webseiten prüfen; Drittquellen können veraltet sein.
+
+## Anschluss-Skills
+
+- `spezial-dpma-fristen-form-und-zustaendigkeit` – DPMA-Verfahren
+- `spezial-euipo-dokumentenmatrix-und-lueckenliste` – EUIPO-Verfahren
+- `spezial-anmeldung-behoerden-gericht-und-registerweg` – Behördenübersicht
