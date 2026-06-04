@@ -166,7 +166,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [rentenpruefer](./rentenpruefer.md) (50 Skills)
 - [robotik-recht](./robotik-recht.md) (143 Skills)
 - [roemisch-katholisches-kirchenrecht](./roemisch-katholisches-kirchenrecht.md) (100 Skills)
-- [roemisches-recht](./roemisches-recht.md) (178 Skills)
+- [roemisches-recht](./roemisches-recht.md) (181 Skills)
 - [schoeffen-handelsrichter-praxis](./schoeffen-handelsrichter-praxis.md) (80 Skills)
 - [schriftform-und-textform-bgb](./schriftform-und-textform-bgb.md) (55 Skills)
 - [schulrecht-laender](./schulrecht-laender.md) (100 Skills)

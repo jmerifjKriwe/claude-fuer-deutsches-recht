@@ -1,55 +1,62 @@
 ---
 name: rom-046-formularprozess
-description: "Römisches Recht: Formularprozess nach Gaius Inst. 4.30-180 - Formelbestandteile (intentio, demonstratio, condemnatio, adiudicatio), litiscontestatio, iudicium und Lenel Edictum Perpetuum."
+description: "Römisches Recht: Formularprozess nach Gaius Inst. 4.30-180 als zweigeteiltes Verfahren in iure/apud iudicem - Formelbestandteile intentio, demonstratio, condemnatio, adiudicatio, exceptio, litiscontestatio und actio-Logik."
 ---
 
-# Der Formularprozess
+# Formularprozess
 
 ## Worum es geht
 
-Der Formularprozess (per formulas agere) ersetzt die Legisaktionen ab der lex Aebutia (ca. 150 v.Chr.) und der lex Iulia (17 v.Chr.). Kern ist die schriftliche Formel: intentio (Klägerbehauptung), demonstratio (Sachverhaltsangabe), condemnatio (Verurteilungsermächtigung an Richter) und ggf. adiudicatio. Die litiscontestatio (Streitbefestigung) teilt das Verfahren in iure/apud iudicem.
+Der Formularprozess (`per formulas agere`) ersetzt die Legisaktionen schrittweise seit der lex Aebutia und den leges Iuliae. Kern ist nicht ein moderner Schriftsatzprozess, sondern die vom Magistrat gefasste **Formel**. Sie übersetzt den Streit in ein Entscheidungsprogramm für den privaten Richter.
+
+## Zweiteiliger Ablauf
+
+| Phase | Akteur | Funktion | Fehlerquelle |
+| --- | --- | --- | --- |
+| `in iure` | Prätor/Magistrat | actio zulassen, Formel fassen, Einreden aufnehmen, iudex bestellen | Der Prätor ist Prozessarchitekt, nicht Beweisrichter. |
+| `apud iudicem` | privater Richter | Tatsachen und Beweise innerhalb der Formel prüfen, Urteil fällen | Der Richter entscheidet nicht frei außerhalb der Formel. |
 
 ## Kernquellen
 
-- **Gaius Inst. 4.30**: Einführung des Formularprozesses
+- **Gaius Inst. 4.30 ff.**: Einführung in den Formularprozess
 - **Gaius Inst. 4.39-44**: Formelbestandteile
-- **Gaius Inst. 4.102-109**: Litiscontestatio und ihre Wirkungen
-- **Gaius Inst. 4.114-130**: Exceptiones und repliken
-- **D. 5.1 (De iudiciis)**: Prätorische Gerichtsbarkeit
-- **Lenel, Edictum Perpetuum (1927)**: Formelrekonstruktion
+- **Gaius Inst. 4.102-109**: `litiscontestatio`
+- **Gaius Inst. 4.114-130**: `exceptiones` und Repliken
+- **D. 5.1**: Gerichtsbarkeit und Verfahren
 
-## Schlüsselbegriffe
+## Formelbestandteile
 
-- intentio: Klägerbehauptung in der Formel
-- demonstratio: Sachverhaltsdarstellung
-- condemnatio: Verurteilungsermächtigung (auf Geld)
-- adiudicatio: Zuteilungsermächtigung (bei Teilungsklagen)
-- litiscontestatio: Streitbefestigung (litis consumptio)
-- praetor: erteilt und formuliert die Formel
-- iudex: entscheidet über Tatsachen
+- `demonstratio`: Sachverhaltsbeschreibung, wenn nötig.
+- `intentio`: Klägerbehauptung; der rechtliche Kern der Klage.
+- `condemnatio`: Ermächtigung des Richters zur Verurteilung oder Freisprechung, regelmäßig auf Geld.
+- `adiudicatio`: Zuteilungsermächtigung bei Teilungsklagen.
+- `exceptio`: Beklagteneinrede, etwa pactum, dolus, Frist, Status oder fehlende Berechtigung.
+- `praescriptio`: Voranstellung/Begrenzung des Streitstoffs.
 
-## Typische Streitfragen / Forschungsfragen
+## Prüfroutine
 
-1. Litiscontestatio: konsumiert sie die Klage (litis consumptio)?
-2. Actiones in ius concepta vs. in factum: Bedeutung für den Kläger
-3. Exceptiones und repliken im Formularprozess: beliebig kombinierbar?
-4. Verurteilung immer auf Geld: warum?
-5. Übergang zum Kognitionsverfahren: wann und warum?
+1. Welche `actio`: in rem, in personam, bonae fidei, stricti iuris, utilis, ficticia oder poenalis?
+2. Welche Formelbestandteile sind zwingend oder sinnvoll?
+3. Welche `exceptio` muss der Beklagte in iure sichern?
+4. Welche Tatsachen sind apud iudicem beweisbedürftig?
+5. Führt die Formel zu Geldverurteilung, Zuweisung, Abweisung oder prätorischer Korrektur?
 
-## Methodik
+## Beispiel: mangelhafter Marktkauf
 
-- Gaius Inst. 4.30-180 als Hauptquelle
-- Lenel Edictum Perpetuum 3. Aufl. 1927 (archive.org)
-- Kaser/Hackl Zivilprozessrecht §§ 13-60
-- D. 5.1 (Mommsen-Krüger)
+1. `in iure`: Käufer beantragt `actio empti` oder ädilizische Klage.
+2. Verkäufer bringt ggf. Kenntnis, pactum oder Frist als Einrede ein.
+3. Formel setzt fest, welche Mangel- und Wissensfragen der iudex prüft.
+4. `apud iudicem`: Beweis über Mangel, Zeitpunkt, Offenlegung, Preiswirkung.
+5. Ergebnis: Rückabwicklung, Minderung, Schadensersatz oder Abweisung.
 
 ## Output
 
-- Formelschema: Bestandteile einer Formel
-- Prozessdiagramm: Formularprozess Schritt für Schritt
-- Ausgewählte Formelrekonstruktionen (Lenel)
-- Vergleich: Formularprozess vs. Kognitionsverfahren
+- Prozesskarte `in iure` / `apud iudicem`
+- Formel-Skelett in deutscher Sprache
+- Actio-/Exceptio-Matrix
+- Beweisprogramm für den iudex
+- Vergleich Formularprozess vs. Kognitionsverfahren und heutige ZPO nur als didaktische Synopse
 
 ## Quellenregel
 
-Gaius Inst. 4 (Mommsen-Krüger). Lenel Edictum Perpetuum (archive.org). Kaser/Hackl Zivilprozessrecht.
+Gaius Inst. 4; D. 5.1 und einschlägige Digestentitel. Formelrekonstruktionen als Rekonstruktionen kennzeichnen, nicht als sicher überlieferten Prozesswortlaut.

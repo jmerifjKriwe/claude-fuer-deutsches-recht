@@ -1,6 +1,6 @@
 ---
 name: rom-123-fenus-nauticum-seedarlehen
-description: "Fenus nauticum: Seedarlehen als roemisches Vorlaeufer der Seeversicherung. Skill behandelt die Sondervorschriften zur Risikotragung das Darlehensverhaeltnis mit aussergewoehnlich hoher Zinsenobergrenze und die Beendigung bei Schiffsuntergang. Liefert Quellenmatrix."
+description: "Fenus nauticum: Seedarlehen als römische Risikofinanzierung und funktionaler Vorläufer der Seeversicherung. Prüft Seereise, Risikotragung des Darlehensgebers, Untergang des Schiffs, sichere Ankunft, hohe Zinsen als Risikoprämie und Abgrenzung zu mutuum."
 ---
 
 # Rom 123 Fenus Nauticum Seedarlehen
@@ -17,10 +17,11 @@ Skill fuer das fenus nauticum als Risikofinanzierungsinstrument der Antike.
 
 ## Tatbestand
 
-- Darlehen (mutuum) zum Seetransport von Gut.
-- Sondervorschrift: Risiko liegt beim Darlehensgeber.
-- Bei Schiffsuntergang erlischt die Darlehensschuld.
-- Bei sicherer Ankunft schuldet der Darlehensnehmer Hauptbetrag plus Zinsen.
+- Darlehen zur Finanzierung einer bestimmten Seereise oder eines bestimmten Seehandelsgeschäfts.
+- Risiko liegt in weitem Umfang beim Darlehensgeber, soweit der Verlust aus der gedeckten Seefahrtsgefahr stammt.
+- Bei Schiffsuntergang oder Verlust durch gedeckte Seegefahr muss der Reeder/Darlehensnehmer nicht wie beim normalen mutuum schlicht zurückzahlen.
+- Bei sicherer Ankunft schuldet der Darlehensnehmer Hauptbetrag plus hohe Zinsen.
+- Die hohen Zinsen sind wirtschaftlich Risikoprämie; dogmatisch bleibt es aber kein modernes Versicherungsvertragsrecht.
 
 ## Zinsen
 
@@ -30,8 +31,9 @@ Skill fuer das fenus nauticum als Risikofinanzierungsinstrument der Antike.
 
 ## Beendigung
 
-- Bei Schiffsuntergang (perit res): Darlehen erlischt.
+- Bei Schiffsuntergang aufgrund der übernommenen Seefahrtsgefahr: Darlehensrückzahlung entfällt.
 - Bei sicherer Ankunft: Hauptbetrag plus Zinsen geschuldet.
+- Bei zweckwidriger Routenänderung, Ladungsmanipulation oder nicht gedecktem Risiko: Haftung und Rückzahlung gesondert prüfen.
 
 ## Fortwirkung
 
@@ -41,10 +43,13 @@ Skill fuer das fenus nauticum als Risikofinanzierungsinstrument der Antike.
 
 ## Pruefraster
 
-1. Darlehensvertrag?
-2. Risiko auf Darlehensgeber?
-3. Zinsenrahmen?
-4. Untergang oder Ankunft?
+1. Welche Reise, welches Schiff, welche Ladung, welcher Zeitraum?
+2. Ist das Geschaeft normales `mutuum` oder echtes `fenus nauticum`?
+3. Welche Gefahr wurde auf den Darlehensgeber verlagert?
+4. Ist der Verlust genau aus dieser Gefahr entstanden?
+5. Sichere Ankunft oder Untergang/Verlust?
+6. Zinsen als Risikoprämie: vereinbart, begrenzt, epochenbezogen plausibel?
+7. Verhältnis zu `lex Rhodia de iactu` und `receptum nautarum` prüfen.
 
 ## Output
 

@@ -1,53 +1,66 @@
 ---
 name: rom-023-darlehen-mutuum
-description: "Römisches Recht: Mutuum (Darlehen) als Realkontrakt nach D. 12.1 und Gaius Inst. 3.90 - Übereignung vertretbarer Sachen, condictio, Zinspflicht nur durch Stipulation (Ulpian D. 12.1.11.1)."
+description: "Römisches Recht: Mutuum als Realvertrag nach D. 12.1 und Gaius Inst. 3.90 - Übereignung vertretbarer Sachen, condictio/actio certae creditae pecuniae, Rückgabe gleicher Art und Menge, Zinsen nur durch Stipulation, Sonderfall fenus nauticum."
 ---
 
-# Darlehen (mutuum)
+# Darlehen - mutuum
 
 ## Worum es geht
 
-Das mutuum ist das zinsenlose Darlehen: der Darlehensgeber übereignet vertretbare Sachen (Geld, Wein, Öl) an den Nehmer; dieser schuldet Rückgabe in gleicher Menge und Qualität. Es ist ein Realkontrakt (Gaius Inst. 3.90): obligatio entsteht erst mit Hingabe der Sachen. Da mutuum abstrakt und zinslos ist, können Zinsen nur durch Stipulation vereinbart werden (D. 12.1.11.1, Ulpian).
+Das `mutuum` ist das Darlehen über vertretbare Sachen: Geld, Wein, Öl, Getreide oder andere Sachen, die nach Gewicht, Zahl oder Maß bestimmt werden. Es entsteht als **Realvertrag** erst mit Hingabe und Übereignung. Der Nehmer wird Eigentümer und schuldet Rückgabe gleicher Art, Menge und Qualität. Das Grunddarlehen ist im Kern zinslos; Zinsen werden regelmäßig gesondert durch Stipulation abgesichert.
 
 ## Kernquellen
 
-- **Gaius Inst. 3.90**: Mutuum als Realkontrakt
-- **D. 12.1.1 pr. (Ulpian)**: Condictio für Rückforderung des mutuum
-- **D. 12.1.2.1 (Paulus)**: Mutuum: Übereignung vertretbarer Sachen
-- **D. 12.1.11.1 (Ulpian)**: Zinsen nur durch Stipulation, nicht durch mutuum
-- **Iust. Inst. 3.14 pr.**: Mutuum als erster Realkontrakt
-- **D. 12.1.9 pr. (Ulpian)**: Mutuum bei Sklavengeld
+- **Gaius Inst. 3.90**: `mutuum` als Realvertrag
+- **D. 12.1.1 pr. (Ulpian)**: Rückforderung über condictio
+- **D. 12.1.2.1 (Paulus)**: Übereignung vertretbarer Sachen
+- **D. 12.1.11.1 (Ulpian)**: Zinsen nicht aus dem bloßen mutuum
+- **Iust. Inst. 3.14 pr.**: `mutuum` als Realkontrakt
+- **D. 14.6**: Senatusconsultum Macedonianum bei Darlehen an Haussohn
 
 ## Schlüsselbegriffe
 
-- mutuum: zinsenlose Darlehenshingabe mit Übereignung
-- condictio: Rückforderungsklage des Darlehensgebers
-- usurae: Zinsen (nur durch Stipulation vereinbar)
-- fenus: Darlehen mit Zinsen (per stipulatio)
-- numerata pecunia: gezähltes/übereignetes Geld
-- vertretbare Sachen: res quae pondere, numero, mensura constant
+- `mutuum`: zinsloses Darlehen mit Eigentumsübertragung
+- `res quae pondere numero mensura constant`: vertretbare Sachen
+- `numerata pecunia`: ausgezahltes/gezähltes Geld
+- `condictio certae pecuniae`: Rückforderung bestimmter Geldsumme
+- `actio certae creditae pecuniae`: strenge Darlehensklage
+- `usurae`: Zinsen, grundsätzlich gesondert zu versprechen
+- `stipulatio usurarum`: Zinsstipulation
+- `fenus nauticum`: Seedarlehen mit Risiko-/Zins-Sonderregeln
 
-## Typische Streitfragen / Forschungsfragen
+## Prüfroutine
 
-1. Realkontrakt vs. Konsensualkontrakt: Sinnhaftigkeit der Unterscheidung?
-2. Zinspflicht ohne Stipulation: justinianische Lockerung?
-3. Mutuum und Sklavengeld: obligatio naturalis des Hauskindes
-4. Abgrenzung mutuum - commodatum: Übereignung als Kriterium
-5. Vergleich: mutuum vs. BGB §§ 488ff. (Darlehensvertrag)
+1. Wurde eine vertretbare Sache wirklich hingegeben und übereignet?
+2. Ist die Rückgabeschuld auf gleiche Art, Menge und Qualität gerichtet?
+3. Wird nur Hauptsumme verlangt oder auch Zins?
+4. Gibt es eine gesonderte Zinsstipulation?
+5. Greift ein Sonderverbot, etwa SC Macedonianum?
+6. Ist der Fall eigentlich `fenus nauticum`, also risikoverlagerte Seefinanzierung?
 
-## Methodik
+## Typische Streitfragen
 
-- D. 12.1 (De rebus creditis, condictione) als Haupttitel
-- Gaius Inst. 3.90-91; Iust. Inst. 3.14
-- Kaser RP I §§ 219-223; Zimmermann Law of Obligations Kap. 6
+1. Bloße Zusage oder schon Hingabe?
+2. Mutuum oder commodatum: Eigentumsübergang oder Rückgabe derselben Sache?
+3. Zinsen: Stipulation, Zinsobergrenze, bereits gezahlter Überschuss?
+4. Darlehen an Hausunterworfene: klagbar oder nur natürliche Verpflichtung?
+5. Moderne Parallele zu §§ 488 ff. BGB nur didaktisch, nicht dogmatisch gleichsetzen.
+
+## Beispiel: Zinsen ohne Stipulation
+
+A gibt B 100 Denare und verlangt später 100 Denare plus 20 Denare Zinsen. Eine gesonderte Stipulation ist nicht nachweisbar.
+
+- **Hauptsumme:** Rückforderung über condictio/strenge Darlehensklage möglich.
+- **Zinsen:** ohne Stipulation grundsätzlich nicht aus dem mutuum selbst.
+- **Verteidigung:** Zinsforderung bestreiten; bei Zahlung eines nicht geschuldeten Überschusses Kondiktionsfrage prüfen.
 
 ## Output
 
-- Schema: mutuum - Voraussetzungen und Pflichten
-- Tabelle: mutuum vs. Darlehen mit Stipulationszinsen
-- Memo zur condictio als Rückforderungsklage
-- Vergleich röm. mutuum vs. BGB Darlehen
+- Mutuum-Schema
+- Beweismatrix Auszahlung / Betrag / Zinsstipulation
+- Tabelle mutuum vs. commodatum vs. fenus nauticum
+- moderne Vergleichsnotiz zum Darlehensrecht
 
 ## Quellenregel
 
-D. 12.1 (Mommsen-Krüger). Gaius Inst. 3. Iust. Inst. 3.14. Kaser RP I. Zimmermann Law of Obligations.
+D. 12.1; D. 14.6; Gaius Inst. 3.90 ff.; Iust. Inst. 3.14. Primärquellen bevorzugen. Literatur nur als Hilfsmittel, nicht als blinde Autorität.

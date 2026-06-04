@@ -19,7 +19,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-Römisches Recht als begriffliche Werkstatt: Zwölftafelgesetz, klassische Institute, justinianische Kompilation und byzantinische Fortbildung verstehen, Falltypen trennen und moderne Dogmatik nicht vorschnell hineindeuten.
+Römisches Recht als begriffliche Werkstatt: Zwölftafelgesetz, klassische Institute, justinianische Kompilation und byzantinische Fortbildung verstehen, Falltypen trennen und moderne Dogmatik nicht vorschnell hineindeuten. Der Grundton ist praktisch: Nicht zuerst ein abstraktes Gesetzbuch suchen, sondern fragen, welche **actio**, **exceptio**, Formel oder prätorische Schutztechnik den Fall trägt.
 
 Dieses Plugin führt durch **Römisches Recht** von der archaischen Zwölftafeltradition über Klassik und Justinian bis zum byzantinischen Recht. Es erzeugt je nach Bedarf Memos, Quellenmatrizen, Synopsen, Vertrags-/Klauselbausteine, Risiko-Dashboards, Unterrichtsbausteine oder Entscheidungsvermerke. Der allgemeine Skill startet schnell und schlägt anschließend die passenden Spezialskills vor.
 
@@ -33,9 +33,20 @@ Dieses Plugin führt durch **Römisches Recht** von der archaischen Zwölftafelt
 ## Kernanker
 
 - Institutionensystem: personae, res, actiones
+- Actio-Denken: Ohne passende Klage, Einrede oder prätorisches Hilfsmittel ist das materielle Recht praktisch schwach.
+- Zweiteiliger Formularprozess: `in iure` vor dem Magistrat/Prätor, `apud iudicem` vor dem privaten Richter.
+- Rechtsschichten: `ius civile`, `ius honorarium` und `ius gentium` trennen; `ius gentium` nie unkritisch als modernes Völkerrecht missverstehen.
 - Quellen: Zwölftafelgesetz, klassische Juristen, Digesten, Institutionen, Codex, Novellen, Basiliken, Ekloge und Prochiron
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
+- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht, Seehandel, Sicherheiten und Vermögensvollstreckung
 - Rezeptionsregel: archaische Figur, klassisches Recht, justinianische Ordnung, byzantinische Fortbildung, gemeinrechtliche Rezeption und heutige Analogie strikt trennen
+
+## Schnellrouting
+
+- **Wie funktioniert das System überhaupt?** → `rom-160-actio-denken-und-rechtsmechanik`, `rom-046-formularprozess`, `rom-048-praetorisches-edikt`
+- **Kauf, Sachmangel, Gefahr, Eigentumsübergang?** → `rom-020-kauf-emptio-venditio`, `rom-039-gefahrtragung-beim-kauf`, `rom-040-eviktion-und-sachmaengel`
+- **Darlehen, Zinsen, Seehandel, Versicherungsersatz?** → `rom-023-darlehen-mutuum`, `rom-123-fenus-nauticum-seedarlehen`, `rom-139-versicherung-und-risiko-im-roemischen-recht`
+- **Testament, Pflichtteil, Erbschaft?** → `rom-052-erbrecht-testament`, `rom-145-querela-inofficiosi-testamenti-pflichtteil`
+- **Vergebung, Vererbung oder Vergabe?** → `rom-161-vergebung-vererbung-vergabe-begriffsklaerung`
 
 ## Quellen- und Qualitätsdisziplin
 
@@ -45,7 +56,7 @@ Keine Blindzitate, keine erfundenen Rechtsprechungsfundstellen, keine Paywall-Li
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 178 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 181 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -69,10 +80,10 @@ Automatisch generierte Komplett-Liste aller 178 Skills in diesem Plugin. Beschre
 | `rom-017-interdikte-und-besitzschutz` | Römisches Recht: Interdikte als prätorische Besitzschutzinstrumente nach D. 43 und Gaius Inst. 4.138-170 - uti possidetis, utrubi, unde vi, de precario und die Klassifikation der Interdikte. |
 | `rom-018-obligationes-system` | Römisches Recht: Obligationensystem nach Gaius Inst. 3.88 (ex contractu/ex delicto) und Iust. Inst. 3.13 (ex contractu, quasi ex contractu, ex delicto, quasi ex delicto) - Quellen und Systematik. |
 | `rom-019-stipulatio` | Römisches Recht: Stipulatio als Grundform des Verbalvertrags nach D. 45.1, Gaius Inst. 3.92-109 - spondes? spondeo-Formel, alteri stipulari, Auslegung und Justinians Reform (C. 8.37.10). |
-| `rom-020-kauf-emptio-venditio` | Römisches Recht: Kauf (emptio venditio) als Konsensualkontrakt nach D. 18.1 und Gaius Inst. 3.139 - pretium, merx, Gefahrtragung (periculum emptoris), actio empti/venditi, Eviktion. |
+| `rom-020-kauf-emptio-venditio` | Römisches Recht: Kauf (emptio venditio) als Konsensualkontrakt nach D. 18.1 und Gaius Inst. 3.139 - pretium, merx, Gefahrtragung, Trennung von Kauf und Eigentumsübertragung, actio empti/venditi, Eviktion und ädilizische Sachmängelklagen. |
 | `rom-021-miete-pacht-locatio-conductio` | Römisches Recht: Locatio conductio nach D. 19.2 und Gaius Inst. 3.142-147 - locatio conductio rei (Sachmiete), operarum (Dienstmiete), operis (Werkvertrag) und actio locati/conducti. |
 | `rom-022-werk-und-diensttypen` | Römisches Recht: Locatio conductio operis (Werkvertrag) und operarum (Dienstvertrag) nach D. 19.2.22 - Abgrenzung opus/operae, Haftung des Werkunternehmers (culpa/custodia) und redemptores. |
-| `rom-023-darlehen-mutuum` | Römisches Recht: Mutuum (Darlehen) als Realkontrakt nach D. 12.1 und Gaius Inst. 3.90 - Übereignung vertretbarer Sachen, condictio, Zinspflicht nur durch Stipulation (Ulpian D. 12.1.11.1). |
+| `rom-023-darlehen-mutuum` | Römisches Recht: Mutuum als Realvertrag nach D. 12.1 und Gaius Inst. 3.90 - Übereignung vertretbarer Sachen, condictio/actio certae creditae pecuniae, Rückgabe gleicher Art und Menge, Zinsen nur durch Stipulation, Sonderfall fenus nauticum. |
 | `rom-024-leihe-commodatum` | Römisches Recht: Commodatum (Leihe) als Realkontrakt nach D. 13.6 und Gaius Inst. 3.196 - unentgeltliche Gebrauchsüberlassung, actio commodati (directa/contraria), Haftungsmaßstab (custodia oder culpa). |
 | `rom-025-verwahrung-depositum` | Römisches Recht: Depositum (Verwahrung) nach D. 16.3 und Gaius Inst. 3.196 - unentgeltliche Aufbewahrung fremder Sache, actio depositi directa/contraria, dolus-Haftung, depositum miserabile. |
 | `rom-026-auftrag-mandatum` | Römisches Recht: Mandatum (Auftrag) als Konsensualkontrakt nach D. 17.1 und Gaius Inst. 3.155-162 - Unentgeltlichkeit, actio mandati directa/contraria, mandatum post mortem und Widerruf. |
@@ -95,13 +106,13 @@ Automatisch generierte Komplett-Liste aller 178 Skills in diesem Plugin. Beschre
 | `rom-043-aequitas` | Römisches Recht: Aequitas als Billigkeitsprinzip - Verhältnis zu ius strictum, prätorisches Recht als Korrektiv (D. 1.1.7.1 Papinian), aequitas und ius gentium nach D. 1.1.10 (Ulpian). |
 | `rom-044-exceptio-doli` | Römisches Recht: Exceptio doli (Arglisteinrede) nach D. 44.4 und Gaius Inst. 4.119 - exceptio doli specialis (quod dolo malo factum est) vs. exceptio doli generalis und ihre prozessuale Funktion. |
 | `rom-045-prozess-legisaktionen` | Römisches Recht: Legisaktionenprozess nach Gaius Inst. 4.11-29 - fünf Legisaktionen (sacramento, iudicis postulatio, condictio, manus iniectio, pignoris capio), iudex und das bipartite Verfahren. |
-| `rom-046-formularprozess` | Römisches Recht: Formularprozess nach Gaius Inst. 4.30-180 - Formelbestandteile (intentio, demonstratio, condemnatio, adiudicatio), litiscontestatio, iudicium und Lenel Edictum Perpetuum. |
+| `rom-046-formularprozess` | Römisches Recht: Formularprozess nach Gaius Inst. 4.30-180 als zweigeteiltes Verfahren in iure/apud iudicem - Formelbestandteile intentio, demonstratio, condemnatio, adiudicatio, exceptio, litiscontestatio und actio-Logik. |
 | `rom-047-kognitionsverfahren` | Römisches Recht: Kognitionsverfahren (cognitio extra ordinem) ab Kaiserzeit nach D. 4.4 und Nov. 82 (Justinian) - amtliches Verfahren ohne Formel, appellatio, rescriptum principis und Rechtsmittel. |
-| `rom-048-praetorisches-edikt` | Römisches Recht: Das prätorische Edikt (edictum perpetuum) - Jahresedikt des Prätors, ius honorarium nach D. 1.1.7, Lenel Edictum Perpetuum und Kodifikation durch Iulian unter Hadrian. |
+| `rom-048-praetorisches-edikt` | Römisches Recht: Prätorisches Edikt als Motor der Rechtsentwicklung - edictum perpetuum, ius honorarium nach D. 1.1.7, actiones utiles/ficticiae, exceptiones, interdicta, restitutio in integrum und Kodifikation unter Hadrian. |
 | `rom-049-actiones-in-rem-in-personam` | Römisches Recht: Actiones in rem (dingliche Klagen) vs. actiones in personam (persönliche Klagen) nach Gaius Inst. 4.1-3 und D. 44.7.25 - Eigentumsklage (rei vindicatio) vs. persönliche Obligationsklage. |
 | `rom-050-exceptiones-und-repliken` | Römisches Recht: Exceptiones (Einreden) nach Gaius Inst. 4.115-129 - peremptorische vs. dilatorische Einreden, exceptio doli, exceptio rei iudicatae, replicatio und die Einredestruktur im Formularprozess. |
 | `rom-051-interdicta-praxis` | Römisches Recht: Interdikte in der Praxis nach D. 43 und Gaius Inst. 4.138-170 - prohibitoria/restitutoria/exhibitoria, uti possidetis, unde vi, utrubi und interdiktaler Prozess. |
-| `rom-052-erbrecht-testament` | Römisches Recht: Testamentserbrecht nach D. 28-29 und Gaius Inst. 2.99-190 - Testamentsformen (calatis comitiis, in procinctu, per aes et libram), Inhaltserfordernisse, Widerruf und querela inofficiosi testamenti. |
+| `rom-052-erbrecht-testament` | Römisches Recht: Testamentserbrecht nach D. 28-29 und Gaius Inst. 2.99-190 - Testamentsformen, heredis institutio, hereditas, Enterbung, Widerruf, querela inofficiosi testamenti und Pflichtteilsschutz. |
 | `rom-053-intestaterbfolge` | Römisches Recht: Intestaterbfolge nach D. 38.6-17, XII Tafeln Tab. V und Gaius Inst. 3.1-87 - drei Klassen (sui heredes, agnati, gentiles), prätorische bonorum possessio und justinianische Reform (Nov. 118). |
 | `rom-054-legat-und-fideikommiss` | Römisches Recht: Legat (legatum) nach D. 30-32 und Gaius Inst. 2.191-245 - vier Legatsarten, Vindikations- vs. Damnationslegat, fideicommissum und ihre Angleichung durch Justinian. |
 | `rom-055-bonorum-possessio` | Römisches Recht: Bonorum possessio als prätorisches Erbrecht nach D. 37-38 und Gaius Inst. 3.25-87 - bonorum possessor und heredis loco, vier Klassen des prätorischen Erbrechts, Verhältnis zum ius civile. |
@@ -160,7 +171,7 @@ Automatisch generierte Komplett-Liste aller 178 Skills in diesem Plugin. Beschre
 | `rom-120-konkurs-und-glaeubigerquoten-rangfolge` | Konkurs und Glaeubigerquoten im roemischen Recht. Skill behandelt die Rangfolge der Glaeubiger Pfandglaeubiger (creditores pignoraticii) bevorrechtigte Glaeubiger (privilegium personae) und die quotale Befriedigung. Vergleicht mit modern... |
 | `rom-121-restitutio-in-integrum-ob-aetatem-vermoegensschutz` | Restitutio in integrum ob aetatem: Schutz Minderjaehriger im roemischen Recht vor wirtschaftlichen Nachteilen aus eigenen Vertraegen. Skill behandelt die Voraussetzungen die Folgen die Lex Plaetoria de circumscriptione adolescentium und... |
 | `rom-122-seehandel-lex-rhodia-de-iactu` | Lex Rhodia de iactu: Generalhavarie im roemischen Seehandelsrecht. Skill behandelt die Voraussetzungen und Rechtsfolgen der Pflicht zur anteiligen Schadenstragung bei Werfen von Gut in Seenot. Vorlaeufer der modernen Grossen Havarie (Yor... |
-| `rom-123-fenus-nauticum-seedarlehen` | Fenus nauticum: Seedarlehen als roemisches Vorlaeufer der Seeversicherung. Skill behandelt die Sondervorschriften zur Risikotragung das Darlehensverhaeltnis mit aussergewoehnlich hoher Zinsenobergrenze und die Beendigung bei Schiffsunter... |
+| `rom-123-fenus-nauticum-seedarlehen` | Fenus nauticum: Seedarlehen als römische Risikofinanzierung und funktionaler Vorläufer der Seeversicherung. Prüft Seereise, Risikotragung des Darlehensgebers, Untergang des Schiffs, sichere Ankunft, hohe Zinsen als Risikoprämie und Abgre... |
 | `rom-124-actio-exercitoria-reederhaftung` | Actio exercitoria: Klage gegen den Reeder (exercitor navis) fuer Verbindlichkeiten aus Handlungen seines magister navis. Skill behandelt die Voraussetzungen die Vollhaftung des Reeders und den Vergleich zum modernen Schifffahrtsrecht. Li... |
 | `rom-125-actio-institoria-prokuristenhaftung` | Actio institoria: Klage gegen den Geschaeftsherrn (dominus) fuer Verbindlichkeiten aus Handlungen seines institor (Prokuristen). Skill behandelt die Voraussetzungen und die Sonderfaelle bei Sklaven und Familienangehoerigen als institor.... |
 | `rom-126-receptum-nautarum-cauponum-stabulariorum` | Receptum nautarum cauponum stabulariorum: praetorische Schaerfung der Haftung von Reedern Gastwirten und Stallbetreibern fuer eingebrachtes Gut. Skill behandelt die receptum-Erklaerung die Haftungsgrundlage als custodia und das Verhaeltn... |
@@ -197,6 +208,9 @@ Automatisch generierte Komplett-Liste aller 178 Skills in diesem Plugin. Beschre
 | `rom-157-doppelte-buergerschaft-und-municipien` | Doppelte Buergerschaft und Municipien. Skill behandelt die roemisch-rechtliche Stellung der municipes als Doppelbuerger (Buerger der Heimatstadt und Roms) das Verhaeltnis zwischen Stadtrecht und Reichsrecht. Liefert Quellenmatrix. |
 | `rom-158-cives-sine-suffragio-und-municipia-sine-iure-suffragii` | Cives sine suffragio und municipia sine iure suffragii: roemische Halbbuerger und ihre Gemeinden. Skill behandelt die historische Konstruktion der Buergerschaft ohne Stimmrecht ihre Rechtsfolgen und die Aufhebung im 1. Jh. v. Chr. Liefer... |
 | `rom-159-romanisierung-der-provinzen-und-stadtrecht` | Romanisierung der Provinzen und Stadtrecht: kommunale Selbstverwaltung im Reich. Skill behandelt die ius latinum-Verleihung an Provinzialstaedte (vor allem in Spanien Britannien Gallien) die Lex Irnitana als Beispiel und die Wirkung auf... |
+| `rom-160-actio-denken-und-rechtsmechanik` | Römisches Recht: actio-orientierte Rechtsmechanik, Rechtsschichten ius civile/ius honorarium/ius gentium, prätorische Fallsteuerung und moderne Fehlübersetzungen. Liefert ein Einstiegsraster für jedes römisch-rechtliche Problem. |
+| `rom-161-vergebung-vererbung-vergabe-begriffsklaerung` | Römisches Recht: Klärt mehrdeutige Anfragen zu Vergebung, Vererbung und Vergabe. Behandelt Schulderlass durch acceptilatio und pactum de non petendo, Erbrecht durch hereditas/Testament/querela inofficiosi testamenti sowie öffentliche Ver... |
+| `rom-162-vertragstypen-konsens-real-verbal-litteral` | Römisches Recht: Vertragstypen nach Entstehungsmodus. Konsensualverträge, Realverträge, Verbalverträge/Stipulation und Litteralkontrakte; mit Kauf, mutuum, Zinsstipulation, Darlehen und moderner Rezeptionswarnung. |
 | `rom-neu-001-fruehformen-zwoelftafelrecht-sakrale-spruchform-und` | Römisches Recht: Frühformen Zwölftafelrecht sakrale Spruchform und Prozessformel mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `rom-neu-002-zwoelftafelgesetz-textzeugen-rekonstruktion-und-vors` | Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `rom-neu-003-zwoelftafelrecht-familiengewalt-erbrecht-und-nachbar` | Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |

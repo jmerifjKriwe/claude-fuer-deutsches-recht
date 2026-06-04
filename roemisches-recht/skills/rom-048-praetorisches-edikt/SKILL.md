@@ -1,54 +1,58 @@
 ---
 name: rom-048-praetorisches-edikt
-description: "Römisches Recht: Das prätorische Edikt (edictum perpetuum) - Jahresedikt des Prätors, ius honorarium nach D. 1.1.7, Lenel Edictum Perpetuum und Kodifikation durch Iulian unter Hadrian."
+description: "Römisches Recht: Prätorisches Edikt als Motor der Rechtsentwicklung - edictum perpetuum, ius honorarium nach D. 1.1.7, actiones utiles/ficticiae, exceptiones, interdicta, restitutio in integrum und Kodifikation unter Hadrian."
 ---
 
-# Das prätorische Edikt (edictum perpetuum)
+# Das prätorische Edikt
 
 ## Worum es geht
 
-Das prätorische Edikt (edictum praetoris) ist das Amtsprogramm des Prätors für sein Amtsjahr (edictum perpetuum = das ganzjährige Edikt). Es enthält die Klagen, Einreden und Interdikte, die der Prätor gewähren will und ist die wichtigste Quelle des ius honorarium. Unter Kaiser Hadrian ließ Iulianus das Edikt ca. 130 n.Chr. kodifizieren und einfrieren (D. 1.2.2.50, Pomponius). Lenel hat das Edikt 1883 erstmals vollständig rekonstruiert.
+Das prätorische Edikt ist das Amtsprogramm des Prätors: Es sagt praktisch, welche Klagen, Einreden, Interdikte und sonstigen Schutzmittel der Prätor gewähren will. Damit ist es der wichtigste Motor der Rechtsentwicklung neben dem alten `ius civile`. Der Prätor schreibt nicht einfach ein modernes Gesetzbuch, sondern steuert Durchsetzbarkeit.
 
 ## Kernquellen
 
-- **D. 1.1.7.1 (Papinian)**: Ius praetorium als viva vox aequitatis
-- **D. 1.2.2.50 (Pomponius)**: Iulian kodifiziert das Edikt unter Hadrian
+- **D. 1.1.7.1 (Papinian)**: `ius praetorium` als Ergänzung, Unterstützung und Korrektur des `ius civile`
+- **D. 1.2.2.50 (Pomponius)**: Fixierung des Edikts unter Hadrian durch Iulianus
 - **Gaius Inst. 1.6**: Edikte der Magistrate als Rechtsquellen
-- **D. 1.7.1 (Paulus)**: Ius honorarium neben ius civile
-- **Lenel, Edictum Perpetuum (1883, 3. Aufl. 1927)**: Rekonstruktion
-- **Iust. Inst. 1.2.7**: Leges und edicta als Rechtsquellen
+- **Iust. Inst. 1.2.7**: Edikte im Rechtsquellensystem
 
-## Schlüsselbegriffe
+## Funktionen des ius honorarium
 
-- edictum perpetuum: Ganzjahres-Programm des Prätors
-- edictum repentinum: Sondermaßnahme außerhalb des Jahresdedikts
-- ius honorarium: prätorisches Recht (Ergänzung des ius civile)
-- praetor urbanus: Stadtprätor (für röm. Bürger)
-- praetor peregrinus: für Streitigkeiten mit/zwischen Nichtbürgern
-- Lenel: Rekonstruktion des Edikts aus Digestenexzerpten
+| Funktion | Technik | Wirkung |
+| --- | --- | --- |
+| Unterstützen | vorhandene zivilrechtliche Position prozessual nutzbar machen | actio/Formel für anerkannten Anspruch |
+| Ergänzen | Lücken des `ius civile` schließen | neue Handels-, Status- oder Peregrinenlagen |
+| Korrigieren | starre Ergebnisse entschärfen | `exceptio`, `restitutio in integrum`, `bonorum possessio` |
 
-## Typische Streitfragen / Forschungsfragen
+## Prätorische Werkzeuge
 
-1. Rechtliche Bindungskraft des Edikts: freiwillig oder verpflichtend?
-2. Verhältnis edictum tralaticium (übernommenes) vs. neues Edikt
-3. Iulians Kodifikation: vollständige Fixierung oder nur Grundrahmen?
-4. Verhältnis ius civile - ius honorarium: Konkurrenz oder Ergänzung?
-5. Methodik der Lenel-Rekonstruktion: Palingenesie als Werkzeug
+- `actio utilis`: sinngemäße Ausdehnung einer Klage auf einen ähnlichen Fall.
+- `actio ficticia`: Formel fingiert eine Voraussetzung, um sachgerechten Schutz zu ermöglichen.
+- `exceptio`: Beklagteneinrede, die eine formal bestehende Klage praktisch abwehrt.
+- `interdictum`: schneller Besitz- oder Ordnungsschutz.
+- `restitutio in integrum`: außerordentliche Wiederherstellung.
+- `bonorum possessio`: prätorische Erbschaftsbesitzordnung.
 
-## Methodik
+## Ediktsprüfung
 
-- D. 1.1-2 (De iustitia et iure) als Einführung
-- Lenel Edictum Perpetuum 3. Aufl. 1927 (archive.org)
-- D. 1.2.2 (Pomponius Enchiridion)
-- Kaser/Hackl Zivilprozessrecht §§ 1-5; Wieacker Röm. Rechtsgeschichte
+1. Ist der Fall im alten `ius civile` zu eng oder zu hart gelöst?
+2. Gibt es eine prätorische Klage, Einrede oder ein Interdikt?
+3. Ist die Lösung Unterstützung, Ergänzung oder Korrektur?
+4. Muss eine Fiktion oder utilis-Konstruktion in die Formel?
+5. Ist die Quelle klassisch-prätorisch, hadrianisch fixiert, justinianisch überarbeitet oder nur rekonstruiert?
+
+## Edictum Perpetuum
+
+Das Edikt war zunächst jährliches Amtsprogramm, wurde aber durch Übernahme und Wiederholung immer stabiler. Unter Hadrian wurde es redaktionell fixiert. Deshalb bei jeder Quellenarbeit klar sagen: lebendige prätorische Praxis, rekonstruierter Ediktstext oder spätere justinianische Überlieferung?
 
 ## Output
 
-- Schema: Aufbau des prätorischen Edikts
-- Historische Entwicklung bis zur Kodifikation
-- Memo: Ius honorarium und seine Instrumente
-- Vergleich: prätorisches Edikt vs. equity (Common Law)
+- Ediktsfunktion: unterstützen / ergänzen / korrigieren
+- Prätorisches Werkzeug: actio / exceptio / interdictum / restitutio / bonorum possessio
+- Formelskizze oder Einredenskizze
+- Quellen- und Epochenhinweis
+- moderne Rezeptionswarnung
 
 ## Quellenregel
 
-D. 1.1-2 (Mommsen-Krüger). Lenel Edictum Perpetuum (archive.org). Kaser/Hackl. Wieacker.
+D. 1.1-2; Gaius Inst. 1.6; Iust. Inst. 1.2. Ediktsrekonstruktionen als Rekonstruktion markieren; keine moderne Equity-Analogie ohne Warnhinweis.
