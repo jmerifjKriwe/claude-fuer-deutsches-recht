@@ -1,46 +1,80 @@
 ---
 name: fran-044-einstweilige-verfuegung-markennutzung-stoppen
-description: "Franchiserecht: Einstweilige Verfügung Markennutzung stoppen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Einstweilige Verfügung gegen unberechtigte Markennutzung nach Franchiseende durchsetzen: Verfügungsgrund und Verfügungsanspruch nach §§ 935 ff. ZPO und MarkenG, Dringlichkeit, Abschlussschreiben und Vollstreckung gegen ehemaligen Franchisenehmer."
 ---
 
-# Franchiserecht: Einstweilige Verfügung Markennutzung stoppen
+# Franchiserecht: Einstweilige Verfügung – Markennutzung stoppen
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Einstweilige Verfügung Markennutzung stoppen** im Bereich **Franchiserecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein ehemaliger Franchisenehmer betreibt nach Vertragsbeendigung weiterhin sein Geschäft unter der Franchise-Marke. Der Franchisegeber möchte die Markennutzung sofort unterbinden. Alternativ nutzt ein aktiver Franchisenehmer die Marke ausserhalb der vertraglichen Grenzen.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Markenverletzung dokumentieren: Fotos, Screenshots, Testkäufe, Zeugenaussagen; zeitlich datieren.
+2. Verfügungsanspruch prüfen: § 14 MarkenG; Unterlassungsanspruch wegen Verletzung der eingetragenen Marke nach Erlöschen der Lizenz.
+3. Verfügungsgrund prüfen: Dringlichkeit nach § 935 ZPO; durch weiteres Zuwarten darf der Verfügungsgrund nicht verwirkt werden.
+4. Zuständiges Gericht bestimmen: Markenverletzung vor dem LG (Markenrechtskammer), Gerichtsstand nach § 32 ZPO.
+5. Antrag auf Erlass der einstweiligen Verfügung formulieren: Antrag, Begründung, Glaubhaftmachung, Eilbedürftigkeit.
+6. Abschlussschreiben nach Verfügungserlass: Antrag auf Unterlassung auch in der Hauptsache.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Aufklärung, Vertrag, Handbuch, Marke und Wettbewerb trennen
-- Systembindung und Selbstständigkeit austarieren
-- Kartellrecht und AGB-Recht immer mitdenken
-- Beweis der Aufklärung und Prognosen sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 14 MarkenG: Unterlassungsanspruch bei Markenverletzung
+- §§ 935 ff. ZPO: Einstweilige Verfügung; Verfügungsanspruch und Verfügungsgrund
+- § 940 ZPO: Regelungsverfügung und Leistungsverfügung
+- § 890 ZPO: Ordnungsmittelverfahren bei Zuwiderhandlung gegen die Verfügung
+- § 945 ZPO: Schadensersatzpflicht des Antragstellers bei unberechtigter Verfügung
+- § 242 BGB: Verwirkung des Unterlassungsanspruchs bei Zuwarten des Franchisegebers
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Ist die Franchise-Marke eingetragen und ist die Lizenz des ehemaligen Franchisenehmers beendet?
+- Liegt eine dringliche Situation vor (§ 935 ZPO): Droht unmittelbarer Schaden durch die fortgesetzte Nutzung?
+- Hat der Franchisegeber durch Zuwarten die Dringlichkeit verwirkt (Regelfrist: ca. 1 Monat ab Kenntnis)?
+- Kann die Verletzungshandlung durch Fotos, Videos, Screenshots glaubhaft gemacht werden?
+- Ist das zuständige Gericht (Markenverletzungskammer) korrekt adressiert?
+- Besteht Risiko einer Gegenverfügung des ehemaligen Franchisenehmers (z. B. bei strittiger Vertragsbeendigung)?
+- Sind alle Antragsgegner korrekt identifiziert (natürliche Person, GmbH, Betreiber der Website)?
+
+## Fallstricke
+
+- Franchisegeber wartet mehrere Monate; Dringlichkeit ist verwirkt; Verfügungsantrag wird abgewiesen.
+- Glaubhaftmachung durch eidesstattliche Versicherung fehlt; Antrag wird ohne Beweise abgewiesen.
+- Marke ist nicht eingetragen oder im Verfallsverfahren; Verfügungsanspruch entfällt.
+- Antragsgegner ist die falsche Person (Inhaberin ist GmbH, aber Antrag gegen natürliche Person gestellt).
 
 ## Output
 
-- Franchise-Memo
-- Disclosure-Check
-- Vertragsredline
-- Kündigungsschreiben
-- Auditplan
-- Streitstrategie
+- Einstweiligen-Verfügungs-Antrag (Muster)
+- Eidesstattliche Versicherung zur Glaubhaftmachung
+- Abschlussschreiben nach Verfügungserlass
+- Ordnungsmittelantrag bei Zuwiderhandlung
+
+## Quellen
+
+- https://dejure.org/gesetze/MarkenG/14.html
+- https://gesetze-im-internet.de/zpo/__935.html
+- https://gesetze-im-internet.de/zpo/__940.html
+- https://gesetze-im-internet.de/zpo/__890.html
+- https://gesetze-im-internet.de/zpo/__945.html
+- https://dejure.org/gesetze/BGB/242.html
+## Vertiefung
+
+Die einstweilige Verfügung ist das schnellste gerichtliche Instrument, um eine sofortige Markenverletzung zu stoppen. Sie kann ohne vorherige Anhörung des Antragsgegners erlassen werden (§ 937 Abs. 2 ZPO), wenn Dringlichkeit besteht. Im Markenverletzungsrecht gilt eine Regeldringlichkeit von etwa 1 Monat ab Kenntnis der Verletzung.
+
+Das Abschlussverfahren nach der einstweiligen Verfügung ist ein wichtiger zweiter Schritt: Mit dem Abschlussschreiben fordert der Antragsteller den Antragsgegner auf, die einstweilige Verfügung als endgültige Unterlassungsverpflichtung anzuerkennen, damit kein Hauptsacheverfahren notwendig wird.
+
+## Praxishinweise
+
+- Dringlichkeit sofort nach Kenntnisnahme der Verletzung aufnehmen; keine unnötigen Verzögerungen.
+- Glaubhaftmachung durch eidesstattliche Versicherung des Franchisegebers (§ 294 ZPO) mit konkreten Tatsachen.
+- Klaren Unterlassungsantrag formulieren: Was genau soll der Antragsgegner unterlassen?
+- Abschlussschreiben mit Frist (2 Wochen) nach Erlassung der einstweiligen Verfügung versenden.
+- Ordnungsgeld-Antrag bei Zuwiderhandlung sofort stellen; Druckwirkung erhalten.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.

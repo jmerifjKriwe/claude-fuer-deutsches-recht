@@ -1,46 +1,81 @@
 ---
 name: fran-014-kuendigung-aus-wichtigem-grund
-description: "Franchiserecht: Kündigung aus wichtigem Grund mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Ausserordentliche Kündigung eines Franchisevertrags prüfen: wichtiger Grund nach § 314 BGB, Abmahnungserfordernis, Beweisanforderungen und Rechtsfolgen. Typische Kündigungsgründe im Franchiserecht aus Franchisegeber- und Franchisenehmerperspektive."
 ---
 
 # Franchiserecht: Kündigung aus wichtigem Grund
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Kündigung aus wichtigem Grund** im Bereich **Franchiserecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein Franchisegeber möchte einem Franchisenehmer wegen wiederholter Verstösse (Qualitätsmängel, Zahlungsrückstand, unerlaubte Markennutzung) fristlos kündigen. Alternativ kündigt ein Franchisenehmer dem Franchisegeber wegen falscher Aufklärung oder wesentlicher Vertragsverletzung. Beide Seiten benötigen eine Prüfung, ob ein wichtiger Grund vorliegt.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Sachverhalt und Beweise sichern: Auditberichte, Abmahnungsschreiben, Zahlungsrückstandsnachweise, Protokolle, Fotos, Umsatzmeldungen.
+2. Wichtigen Grund nach § 314 BGB subsumieren: Unzumutbarkeit der Vertragsfortsetzung unter Berücksichtigung aller Umstände und beiderseitiger Interessen.
+3. Abmahnungserfordernis prüfen: Ist eine vorherige Abmahnung entbehrlich (z. B. bei Vertrauensverlust) oder notwendig?
+4. Kündigungsfrist nach § 314 Abs. 3 BGB: Kündigung muss innerhalb angemessener Frist nach Kenntnis des Kündigungsgrundes erklärt werden.
+5. Form der Kündigung: Schriftform nach Vertrag oder gesetzlichen Anforderungen; Zugang sicherstellen.
+6. Rechtsfolgen planen: Herausgabe des Systemhandbuchs, Rückbau der CI, Abrechnung, Wettbewerbsverbotsstart.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Aufklärung, Vertrag, Handbuch, Marke und Wettbewerb trennen
-- Systembindung und Selbstständigkeit austarieren
-- Kartellrecht und AGB-Recht immer mitdenken
-- Beweis der Aufklärung und Prognosen sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 314 BGB: Kündigung von Dauerschuldverhältnissen aus wichtigem Grund
+- § 626 BGB analog: Vertrauensverhältnis im Franchise; Kriterien aus Dienstrecht übertragbar
+- § 280 Abs. 1 BGB: Schadensersatz bei schuldhafter Pflichtverletzung als Auslöser
+- § 242 BGB: Systemtreuepflicht; Abmahnung als Voraussetzung bei behebbaren Verstössen
+- §§ 305 ff. BGB: AGB-Kontrolle von Sonderkündigungsrechtsklauseln
+- BGH-Rechtsprechung zum wichtigen Grund im Franchiserecht
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Ist der behauptete Kündigungsgrund hinreichend konkret und beweisbar?
+- Handelt es sich um einen einmaligen oder wiederholten Verstoss; war er nach Abmahnung behebbar?
+- Wurde eine wirksame Abmahnung mit klarer Bezeichnung des Verstosses und Fristsetzung ausgesprochen?
+- Ist die Kündigung innerhalb der angemessenen Frist nach § 314 Abs. 3 BGB erklärt worden?
+- Entspricht die Kündigung der im Vertrag vorgesehenen Form (Schriftform, Einschreiben)?
+- Besteht ein Schadensersatzanspruch des Kündigenden für den durch den Kündigungsgrund verursachten Schaden?
+- Gibt es eine Interessenabwägungsklausel im Vertrag, die über § 314 BGB hinausgeht?
+- Welche Pflichten entstehen nach der Kündigung (Rückbau, Herausgabe, Wettbewerbsverbot)?
+
+## Fallstricke
+
+- Abmahnung ist zu unkonkret und nennt Vertragsnormen nicht; Kündigung ohne wirksame Abmahnung scheitert.
+- Kündigungsschreiben wird nicht rechtzeitig zugestellt; Zugangsprobleme gefährden Wirksamkeit.
+- Kündigung wird erst Monate nach Kenntnis des Kündigungsgrundes erklärt; § 314 Abs. 3 BGB-Frist versäumt.
+- Interessenabwägung wird nicht ausreichend dokumentiert; Gericht hält Kündigung für unverhältnismässig.
 
 ## Output
 
-- Franchise-Memo
-- Disclosure-Check
-- Vertragsredline
-- Kündigungsschreiben
-- Auditplan
-- Streitstrategie
+- Prüfmemo: Liegt ein wichtiger Grund vor? (Ja/Nein/mit Bedingung)
+- Abmahnungsschreiben mit konkreter Fristsetzung
+- Kündigungsschreiben mit Begründung
+- Checkliste Nachkündigungspflichten (Rückbau, Herausgabe, Abrechnung)
+
+## Quellen
+
+- https://dejure.org/gesetze/BGB/314.html
+- https://dejure.org/gesetze/BGB/626.html
+- https://dejure.org/gesetze/BGB/280.html
+- https://dejure.org/gesetze/BGB/242.html
+- https://dejure.org/gesetze/BGB/305.html
+- https://www.bgh.de/
+## Vertiefung
+
+Die Kündigung aus wichtigem Grund nach § 314 BGB setzt voraus, dass dem kündigenden Teil die Fortsetzung des Vertragsverhältnisses bis zur regulären Beendigung nicht zugemutet werden kann. Das Gericht prüft anhand einer umfassenden Interessenabwägung, ob die Pflichtverletzung die Schwelle zum wichtigen Grund überschreitet.
+
+Im Franchiserecht häufige wichtige Gründe: wiederholter Zahlungsverzug (nach Abmahnung), schwerwiegende Markenverletzung, systematische Falschmeldung von Umsatzdaten, Insolvenzeröffnung, Verlust von Behördenzulassungen. Nicht ausreicht ein einmaliger geringfügiger Verstoss ohne vorherige Abmahnung.
+
+## Praxishinweise
+
+- Abmahnung muss konkret sein: Welcher Vertragspunkt wurde verletzt, welche Abhilfefrist wird gesetzt?
+- Kündigungsschreiben auf dem Weg der dokumentierten Zustellung versenden: Einschreiben mit Rückschein oder Bote.
+- Warten nach dem Kündigungsgrund: § 314 Abs. 3 BGB verlangt Kündigung ohne schuldhaftes Zögern; 2 Wochen sind regelmässig angemessen.
+- Kündigung und Schadensersatzvorbehalt kombinieren; kein Wahlrecht zwischen Kündigung und Schadensersatz erforderlich.
+- Nach Kündigung sofort Rückbau- und Herausgabepflichten schriftlich fordern.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.

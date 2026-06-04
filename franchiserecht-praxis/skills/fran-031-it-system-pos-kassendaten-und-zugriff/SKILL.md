@@ -1,46 +1,80 @@
 ---
 name: fran-031-it-system-pos-kassendaten-und-zugriff
-description: "Franchiserecht: IT-System POS Kassendaten und Zugriff mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "IT-Systeme und POS-Kassendaten im Franchiserecht regeln: Zugriff des Franchisegebers auf Echtzeitdaten, Dateneigentum, Datenschutz nach DSGVO, Systemausfallhaftung und Vertragsklauseln für Kassensoftware-Nutzungspflichten."
 ---
 
-# Franchiserecht: IT-System POS Kassendaten und Zugriff
+# Franchiserecht: IT-System, POS-Kassendaten und Datenzugriff
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **IT-System POS Kassendaten und Zugriff** im Bereich **Franchiserecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein Franchisegeber verlangt Echtzeitzugriff auf die Kassendaten aller Franchisenehmers über eine zentralisierte POS-Plattform. Ein Franchisenehmer fragt, ob dieser Datenzugriff rechtlich zulässig ist, wem die Kassendaten gehören und was bei einem IT-Systemausfall gilt.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. IT-Systemarchitektur des Franchisesystems verstehen: Zentrales Cloud-System des Franchisegebers oder dezentrale POS-Systeme mit Datenzulieferung?
+2. Eigentumsrechtliche Einordnung der Kassendaten: Wem gehören die Transaktionsdaten (Franchisegeber, Franchisenehmer, Dritter)?
+3. Datenschutzrechtliche Analyse: Werden personenbezogene Kundendaten aus der Kasse verarbeitet? Rechtsgrundlage nach Art. 6 DSGVO?
+4. Vertragsklauseln zu IT-Zugang prüfen: Ist der Datenzugriff des Franchisegebers im Vertrag geregelt und verhältnismässig?
+5. Systemausfallhaftung klären: Wer haftet, wenn das zentrale IT-System des Franchisegebers ausfällt und der Franchisenehmer nicht kassieren kann?
+6. Revisionsfeste Kassensoftware: KassenSichV-Anforderungen prüfen.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Aufklärung, Vertrag, Handbuch, Marke und Wettbewerb trennen
-- Systembindung und Selbstständigkeit austarieren
-- Kartellrecht und AGB-Recht immer mitdenken
-- Beweis der Aufklärung und Prognosen sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Art. 6 DSGVO: Rechtsgrundlage für die Verarbeitung von Kundendaten durch Kassensystem
+- Art. 26 DSGVO: Gemeinsame Verantwortlichkeit für POS-Kundendaten
+- § 307 BGB: AGB-Kontrolle für IT-Zugangsklauseln und Systemnutzungspflichten
+- §§ 536 ff. BGB: Gewährleistungsrecht bei mangelhafter Softwareleistung (Sachmängelrecht analog)
+- KassenSichV: Technische Sicherheitsanforderungen für elektronische Kassensysteme
+- § 280 Abs. 1 BGB: Schadensersatz bei IT-Systemausfall als Pflichtverletzung des Franchisegebers
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Ist der Echtzeitzugriff des Franchisegebers auf Kassendaten vertraglich vereinbart und datenschutzrechtlich legitimiert?
+- Liegt eine Vereinbarung über gemeinsame Verantwortlichkeit nach Art. 26 DSGVO vor?
+- Sind die Transaktionsdaten Eigentum des Franchisegebers, des Franchisenehmers oder beider?
+- Besteht eine Haftungsregelung für IT-Systemausfälle des Franchisegebers?
+- Erfüllt das POS-System die Anforderungen der KassenSichV (technische Sicherheitseinrichtung)?
+- Gibt es eine Service-Level-Vereinbarung (SLA) für die Systemverfügbarkeit?
+- Werden Kassendaten nach DSGVO-Anforderungen gelöscht und archiviert (Steuerrecht vs. Datenschutzrecht)?
+
+## Fallstricke
+
+- Franchisegeber nimmt Echtzeitzugriff auf Kassendaten ohne vertragliche Grundlage und verletzt DSGVO-Anforderungen.
+- IT-Systemausfall führt zu Betriebsunterbrechung des Franchisenehmers; keine Haftungsregelung für den Ausfall.
+- Kassendaten enthalten personenbezogene Kundendaten (Treueprogramm-IDs); kein AVV nach Art. 28 DSGVO abgeschlossen.
+- KassenSichV-Anforderungen nicht erfüllt; Steuernachforderungen bei Betriebsprüfung.
 
 ## Output
 
-- Franchise-Memo
-- Disclosure-Check
-- Vertragsredline
-- Kündigungsschreiben
-- Auditplan
-- Streitstrategie
+- IT-Zugangs- und Datenschutz-Compliance-Memo
+- Vertragsklausel für POS-Datenzugriff und Dateneigentum
+- Art.-26-DSGVO-Vereinbarung Muster
+- SLA-Empfehlung für IT-Systemverfügbarkeit
+
+## Quellen
+
+- https://gesetze-im-internet.de/dsgvo/art_6.html
+- https://gesetze-im-internet.de/dsgvo/art_26.html
+- https://dejure.org/gesetze/BGB/307.html
+- https://dejure.org/gesetze/BGB/280.html
+- https://gesetze-im-internet.de/kassensichv/
+- https://gesetze-im-internet.de/dsgvo/art_28.html
+## Vertiefung
+
+Die Digitalisierung hat den Informationsvorsprung des Franchisegebers in modernen Systemen erheblich verstärkt: Echtzeit-POS-Daten ermöglichen dem Franchisegeber eine lückenlose Überwachung jedes Standorts. Dies schafft einerseits Transparenz (Umsatz-Reporting), kann aber andererseits als Überwachungsinstrument eingesetzt werden, das über den legitimen Systemzweck hinausgeht.
+
+Die KassenSichV (Kassensicherungsverordnung) schreibt seit dem 1. Januar 2020 vor, dass alle elektronischen Kassensysteme mit einer technischen Sicherheitseinrichtung (TSE) ausgestattet sein müssen. Die Pflicht zur Einzelaufzeichnung aller Transaktionen ist für das Franchisesystem eine wichtige Grundlage für Umsatz-Audits.
+
+## Praxishinweise
+
+- POS-Datenzugriff nur auf Basis einer klar vereinbarten Rechtsgrundlage (Vertragsklausel und ggf. Art.-26-DSGVO-Vereinbarung).
+- Service-Level-Agreement für Systemverfügbarkeit des zentralen POS-Systems des Franchisegebers vereinbaren.
+- KassenSichV-Konformität (TSE-Einbau) in den Systemstandard und die Audit-Checkliste aufnehmen.
+- Dateneigentum (Transaktionsdaten) im Franchisevertrag explizit regeln; Übergabepflicht bei Vertragsende.
+- Haftung für IT-Systemausfall des Franchisegebers: SLA-Verletzung als Schadensersatz-Grundlage.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.

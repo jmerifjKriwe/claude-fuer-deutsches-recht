@@ -1,46 +1,82 @@
 ---
 name: fran-006-gebietsschutz-standortanalyse-und-kannibalisierung
-description: "Franchiserecht: Gebietsschutz Standortanalyse und Kannibalisierung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Gebietsschutz im Franchiserecht prüfen: exklusiver vs. relativer Gebietsschutz, Kannibalisierung durch Nachbar-Franchisees und Online-Direktvertrieb. Kartellrechtliche Grenzen der Gebietsabschottung nach Vertikal-GVO EU 2022/720 und § 1 GWB."
 ---
 
-# Franchiserecht: Gebietsschutz Standortanalyse und Kannibalisierung
+# Franchiserecht: Gebietsschutz, Standortanalyse und Kannibalisierung
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Gebietsschutz Standortanalyse und Kannibalisierung** im Bereich **Franchiserecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein Franchisenehmer klagt, dass der Franchisegeber ein neues Outlet in unmittelbarer Nähe seines Vertragsgebiets eröffnet hat oder den Online-Direktverkauf in sein Schutzgebiet ausdehnt. Alternativ prüft ein Franchisegeber, wie er sein Filialexpansionsrecht rechtskonform ausübt.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Gebietsschutzklausel im Franchisevertrag identifizieren: Exklusivgebiet, Mindestabstand, Bevölkerungsschwelle oder nur relative Schutzzusage?
+2. Standortanalyse: Geografische Grenzen des Vertragsgebiets schriftlich und kartografisch dokumentieren.
+3. Kannibalisierungsvorwurf konkretisieren: Kundenströme, Umsatzverluste, Überlappung von Einzugsgebieten belegen.
+4. Online-Vertriebsdimension prüfen: Gilt der Gebietsschutz auch für den E-Commerce-Kanal des Franchisegebers?
+5. Kartellrechtliche Einordnung: Gebietsabschottungen als zulässige Selektivvertriebsregelung oder unzulässige Gebietsaufteilung?
+6. Schadensersatzansprüche und Unterlassungsansprüche bei Verletzung des Gebietsschutzes aufbauen.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Aufklärung, Vertrag, Handbuch, Marke und Wettbewerb trennen
-- Systembindung und Selbstständigkeit austarieren
-- Kartellrecht und AGB-Recht immer mitdenken
-- Beweis der Aufklärung und Prognosen sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Art. 4 lit. b und c Vertikal-GVO EU 2022/720: Passive Verkaufsbeschränkungen als Kernbeschränkung
+- Art. 2 Abs. 1 Vertikal-GVO EU 2022/720: Gruppenfreistellung für Exklusivgebiete
+- § 1 GWB: Kartellverbot; Gebietsabschottung nur bei Freistellungsvoraussetzungen zulässig
+- § 280 Abs. 1 BGB: Schadensersatz wegen Verletzung der Gebietsschutzpflicht
+- § 1004 BGB analog: Unterlassungsanspruch bei drohender Gebietsverletzung
+- § 307 BGB: AGB-Kontrolle von Gebietsschutzklauseln mit Ausnahmen oder Einschränkungen
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Ist der Gebietsschutz als echtes Exklusivrecht oder nur als relative Vorzugsregelung ausgestaltet?
+- Gilt der Gebietsschutz nur für stationäre Standorte oder auch für den Online-Kanal des Franchisegebers?
+- Liegt die Marktanteilsschwelle des Franchisegebers unter 30 % (Art. 3 Abs. 1 Vertikal-GVO), sodass die Gruppenfreistellung gilt?
+- Verstösst die Gebietsklausel gegen Art. 4 lit. b Vertikal-GVO (Kundenbeschränkung als Kernbeschränkung)?
+- Ist ein Schadensnachweis für Kannibalisierung durch Umsatzdaten möglich?
+- Besteht ein Zustimmungserfordernis des Franchisenehmers für neue Standorte im Einzugsbereich?
+
+## Fallstricke
+
+- Gebietsschutz wird im Vertrag zugesagt, aber durch Ausnahmen für Online und B2B vollständig ausgehöhlt.
+- Kartellrechtlich unzulässige absolute Gebietsaufteilung (Verbot von passiven Verkäufen) macht den gesamten Vertrag riskant.
+- Umsatzverluste durch Kannibalisierung sind schwer kausal nachzuweisen ohne Vergleichsdaten aus der Zeit vor der Verletzung.
+- Franchisegeber öffnet neue Channels (App, Delivery-Plattform) ohne Gebietsschutzregelung für diese Channels.
 
 ## Output
 
-- Franchise-Memo
-- Disclosure-Check
-- Vertragsredline
-- Kündigungsschreiben
-- Auditplan
-- Streitstrategie
+- Gebietsschutz-Audit mit Karte und Rechtsbewertung
+- Schadensberechnung (entgangener Gewinn nach § 252 BGB)
+- Unterlassungsbegehren oder einstweilige Verfügung
+- Empfehlung für Vertragsklausel zu Online-Gebietsschutz
+
+## Quellen
+
+- https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
+- https://dejure.org/gesetze/GWB/1.html
+- https://dejure.org/gesetze/BGB/280.html
+- https://dejure.org/gesetze/BGB/1004.html
+- https://dejure.org/gesetze/BGB/307.html
+- https://dejure.org/gesetze/BGB/252.html
+## Vertiefung
+
+Gebietsschutzklauseln sind kartellrechtlich sensitiv: Exklusivgebiete sind nach Art. 2 Vertikal-GVO EU 2022/720 grundsätzlich freigestellt, wenn die Marktanteilsschwelle von 30 % nicht überschritten wird. Verboten sind dagegen Klauseln, die passive Verkäufe in andere Gebiete untersagen (Art. 4 lit. c Vertikal-GVO: Kernbeschränkung).
+
+Die Kannibalisierungsproblematik entsteht besonders im Online-Zeitalter: Wenn ein Franchisegeber über den eigenen Online-Kanal in ein Vertragsgebiet liefert, ohne dass der Franchisevertrag eine entsprechende Ausnahme vorsieht, kann dies eine Vertragsverletzung sein. Die Schadensberechnung bei Gebietsschutzverstoß richtet sich nach § 252 BGB (entgangener Gewinn).
+
+## Praxishinweise
+
+- Gebietsschutzklausel auf Internetkanal und Delivery-Plattformen ausdrücklich erstrecken oder ausschliessen.
+- Marktanteil des Franchisegebers jährlich neu überprüfen; Überschreitung der 30%-Schwelle beendet Gruppenfreistellung.
+- Umsatzverluste durch Kannibalisierung mit Vergleichsdaten aus der Zeit vor der Verletzung belegen.
+- Passive Verkaufsbeschränkung im Vertrag entfernen; das ist eine Kernbeschränkung nach Vertikal-GVO.
+- Gerichtsstandort für Schadensersatzklagen bei Gebietsschutzverstoß prüfen (allgemeiner Gerichtsstand oder Deliktsort).
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.

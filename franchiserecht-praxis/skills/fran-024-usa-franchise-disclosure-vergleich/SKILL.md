@@ -1,46 +1,80 @@
 ---
 name: fran-024-usa-franchise-disclosure-vergleich
-description: "Franchiserecht: USA Franchise Disclosure Vergleich mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "US-Franchise-Disclosure-Dokument (FDD) mit deutschem Aufklärungsstandard vergleichen: FTC-Rule-Items vs. DFV-Ethics-Standard, Haftungsunterschiede, Cooling-off-Perioden und Implikationen für deutsch-amerikanische Franchisesysteme."
 ---
 
-# Franchiserecht: USA Franchise Disclosure Vergleich
+# Franchiserecht: USA-Franchise-Disclosure im Vergleich
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **USA Franchise Disclosure Vergleich** im Bereich **Franchiserecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein deutsches Franchisesystem expandiert in die USA oder ein US-amerikanisches System tritt in den deutschen Markt ein. Beide Seiten benötigen einen Vergleich der Disclosure-Anforderungen und Haftungsstandards sowie eine Einschätzung, wie das jeweilige Heimat-Disclosure-Dokument angepasst werden muss.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. FDD nach FTC-Rule (16 C.F.R. Part 436) vollständig inventarisieren: 23 Pflicht-Items, Finanzberichte als Anlage, Cooling-off-Periode von 14 Tagen.
+2. DFV Code of Ethics und deutsche Disclosure-Praxis gegenüberstellen: Weniger formalisiert, aber durch § 311 Abs. 2 BGB haftungsrelevant.
+3. Schlüsselunterschiede herausarbeiten: Jahresabschlusspflicht (USA: 3 Jahre auditiert), Franchisenehmerlisten, Rechtsstreitigkeits-Disclosure.
+4. Cooling-off-Perioden im Vergleich: Deutschland 14 Tage (DFV-Standard, nicht gesetzlich); USA 14 Tage gesetzlich nach FTC-Rule.
+5. Staatliche Registration: 14 US-Bundesstaaten verlangen zusätzliche Franchise-Registration (z. B. Kalifornien, New York).
+6. Haftungsstandards vergleichen: US-Klage wegen Fraud in the Inducement vs. deutsches cic nach § 311 Abs. 2 BGB.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Aufklärung, Vertrag, Handbuch, Marke und Wettbewerb trennen
-- Systembindung und Selbstständigkeit austarieren
-- Kartellrecht und AGB-Recht immer mitdenken
-- Beweis der Aufklärung und Prognosen sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- FTC Franchise Rule 16 C.F.R. Part 436: US-Bundesebene, 23 FDD-Items
+- § 311 Abs. 2 BGB: Deutsches vorvertragliches Aufklärungsrecht
+- Art. 3 und 9 Rom-I-VO: Anwendbares Recht bei grenzüberschreitenden Franchiseverträgen
+- DFV Code of Ethics Art. 1 und 2: Ethischer Mindeststandard in Deutschland
+- Californian Franchise Investment Law (CFIL): Exemplarisches State Law in den USA
+- § 123 BGB: Anfechtung bei Täuschung; entspricht dem US-Fraud-in-the-Inducement-Anspruch
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Sind alle 23 FDD-Items nach FTC-Rule im US-Disclosure vollständig und aktuell?
+- Erfüllt das deutsche Disclosure-Dokument den substantiellen Umfang der FDD-Items auch ohne gesetzliche Pflicht?
+- Welche US-Bundesstaaten verlangen eine gesätzliche Registration und welche Folgepflichten bestehen?
+- Sind die Jahresabschlüsse des Franchisegebers US-GAAP-konform oder wurde eine Umrechnung/Konvertierung vorgenommen?
+- Wurde die Franchisenehmerliste für das jeweils relevante Zielland aktualisiert?
+- Sind Rechtsstreitigkeiten vollständig disclosed (Item 3 FDD), einschliesslich Schiedsverfahren?
+- Enthält der FDD alle Definitionen und Vertragsentwürfe als Anhang?
+
+## Fallstricke
+
+- Deutsches Disclosure-Dokument enthält keine auditierten Jahresabschlüsse; US-Investoren erwarten diese zwingend.
+- US-FDD wird in Deutschland ohne Anpassung verwandt; es fehlen systemrelevante lokale Markt- und Rechtshinweise.
+- State-level-Registration in Regulation States (z. B. Kalifornien) wird übersehen; Franchiseverträge sind anfechtbar.
+- Cooling-off-Periode im FDD beginnt falsch zu laufen; formelle Mängel im Übergabeprozess gefährden Rechtssicherheit.
 
 ## Output
 
-- Franchise-Memo
-- Disclosure-Check
-- Vertragsredline
-- Kündigungsschreiben
-- Auditplan
-- Streitstrategie
+- Vergleichstabelle FDD-Items vs. DFV-Disclosure-Standard
+- Anpassungsliste für Markteintritt Deutschland bzw. USA
+- Länderüberblick US-Registration-States-Pflichten
+- Haftungsvergleich cic (Deutschland) vs. Fraud in the Inducement (USA)
+
+## Quellen
+
+- https://dejure.org/gesetze/BGB/311.html
+- https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32008R0593
+- https://dejure.org/gesetze/BGB/123.html
+- https://gesetze-im-internet.de/bgb/__242.html
+- https://gesetze-im-internet.de/bgb/__280.html
+- https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
+## Vertiefung
+
+Die FDD (Franchise Disclosure Document) nach der FTC Franchise Rule ist ein standardisiertes Dokument mit 23 Pflicht-Items. Es muss dem Franchisenehmer spätestens 14 Tage vor Vertragsschluss oder vor einer ersten Zahlung übergeben werden. Die Jahresabschlüsse müssen nach US-GAAP auditiert sein.
+
+Besonders relevant für deutsch-amerikanische Franchisesysteme ist, dass die 14 US-amerikanischen Registration States (California, Hawaii, Illinois, Indiana, Maryland, Michigan, Minnesota, New York, North Dakota, Oregon, Rhode Island, Virginia, Washington, Wisconsin) eigene Anforderungen haben, die über die FTC-Rule hinausgehen.
+
+## Praxishinweise
+
+- Für US-Markteintritt immer einen US-Franchiseanwalt hinzuziehen; FTC-Rule ist komplex und bundesstaatliche Ergänzungen variieren erheblich.
+- Jahresabschlüsse für FDD müssen von einem bei der SEC zugelassenen Wirtschaftsprüfer geprüft werden.
+- Item 3 des FDD (Rechtsstreitigkeiten) muss vollständig sein; jede Auslassung kann zur Unwirksamkeit des Vertrags führen.
+- Cooling-off-Perioden im FDD sind streng: Keine Zahlung und kein Vertragsschluss innerhalb von 14 Tagen nach FDD-Übergabe.
+- Deutschen Clients beim US-Markteintritt die erheblich höheren Compliance-Kosten für FDD-Erstellung und Registration-States kommunizieren.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.

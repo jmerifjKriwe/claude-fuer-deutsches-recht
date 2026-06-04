@@ -1,46 +1,80 @@
 ---
 name: fran-020-master-franchise-internationalisierung
-description: "Franchiserecht: Master Franchise Internationalisierung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Master-Franchise-Struktur für internationale Expansion prüfen: Mehrebenenverhältnis Franchisegeber/Master-Franchisenehmer/Sub-Franchisenehmer, Markenlizenzkette, Anwendbares Recht nach Rom-I-VO, Kartellrecht im Auslandsmarkt und Disclosure-Pflichten."
 ---
 
-# Franchiserecht: Master Franchise Internationalisierung
+# Franchiserecht: Master-Franchise und Internationalisierung
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Master Franchise Internationalisierung** im Bereich **Franchiserecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein deutsches Franchiseunternehmen möchte sein System international über einen Master-Franchisenehmer in einem Zielland etablieren. Alternativ möchte ein ausländisches System über einen deutschen Master-Franchisenehmer nach Deutschland expandieren. Beide Fälle erfordern die rechtliche Strukturierung des Mehrebenenverhältnisses.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Master-Franchise-Struktur entwerfen: Wer hat welche Rechte und Pflichten auf der Geber-, Master- und Sub-Franchisenehmersebene?
+2. Markenlizenzkette absichern: Franchisegeber lizenziert an Master, Master an Sub; alle Ebenen brauchen klare Lizenzverträge und Qualitätskontrollrechte.
+3. Anwendbares Recht bestimmen: Art. 3 und 4 Rom-I-VO; Rechtswahlklausel und Grenzen zwingender Vorschriften im Zielland.
+4. Kartellrechtliche Einordnung: Dreiecksbeziehung kann komplexere vertikale Ketten bilden; Vertikal-GVO und nationales Kartellrecht des Ziellandes prüfen.
+5. Disclosure-Pflichten in Zielländern: USA (FDD nach FTC-Rule), Frankreich (Loi Doubin), Australien (Franchising Code).
+6. Steuerliche Struktur der Lizenzgebührzahlungen im Mehrebenenverhältnis klären.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Aufklärung, Vertrag, Handbuch, Marke und Wettbewerb trennen
-- Systembindung und Selbstständigkeit austarieren
-- Kartellrecht und AGB-Recht immer mitdenken
-- Beweis der Aufklärung und Prognosen sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Art. 3 und 4 Rom-I-VO: Anwendbares Recht auf internationale Franchiseverträge
+- Art. 9 Rom-I-VO: Zwingende Vorschriften des Ziellandes (Eingriffsnormen)
+- Art. 2 und 3 Vertikal-GVO EU 2022/720: Gruppenfreistellung für vertikale Kettensysteme
+- §§ 14 ff. MarkenG und EUIPO-Markenanmeldung: Internationale Markenschutzstrategie
+- WIPO-Vertrag zum internationalen Markenschutz (Madrider Markenabkommen)
+- §§ 311 Abs. 2 BGB und ausländische Disclosure-Regeln: Vorvertragliche Aufklärung auf mehreren Ebenen
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Sind die Rechte und Pflichten der drei Systemebenen klar und widerspruchsfrei definiert?
+- Hat der Franchisegeber direkten Zugriff auf die Sub-Franchisenehmer bei Qualitätsproblemen des Masters?
+- Ist die Marke im Zielland eingetragen und rechtssicher auf den Master lizenziert?
+- Welches Recht gilt für den Master-Franchise-Vertrag und für die Sub-Franchise-Verträge?
+- Sind lokale zwingende Vorschriften (Disclosure, Mindestfristen, Kündigungsschutz) des Ziellandes berücksichtigt?
+- Besteht eine Regelung, was passiert, wenn der Master insolvent wird oder den Vertrag verletzt (Direktrecht der Sub-Franchisees beim Geber)?
+- Sind Lizenzgebührzahlungen zwischen Ebenen steueroptimal und unter Beachtung der OECD-Transfer-Pricing-Regeln strukturiert?
+
+## Fallstricke
+
+- Sub-Franchiseverträge des Masters entsprechen nicht den Standards des Hauptvertrags; System verliert Kohärenz und Qualitätskontrolle.
+- Marke im Zielland ist nicht eingetragen oder wird durch lokalen Wettbewerber benutzt.
+- Master-Franchise-Vertrag enthält keine Direktrecht-Klausel; bei Insolvenz des Masters sind Sub-Franchisees schutzlos.
+- Lokale Disclosure-Pflichten werden ignoriert; Franchiseverträge im Zielland sind anfechtbar.
 
 ## Output
 
-- Franchise-Memo
-- Disclosure-Check
-- Vertragsredline
-- Kündigungsschreiben
-- Auditplan
-- Streitstrategie
+- Strukturmemo Master-Franchise mit Rechte-Pflichten-Matrix
+- Markenlizenzkette (Überblick)
+- Checkliste länderspezifische Disclosure-Pflichten
+- Rechtswahlklausel-Empfehlung
+
+## Quellen
+
+- https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32008R0593
+- https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
+- https://dejure.org/gesetze/MarkenG/14.html
+- https://gesetze-im-internet.de/bgb/__311.html
+- https://www.wipo.int/madrid/en/
+- https://dejure.org/gesetze/GWB/1.html
+## Vertiefung
+
+Master-Franchise-Systeme sind typisch für internationale Expansion, weil sie dem Franchisegeber erlauben, mit einem einzigen Vertragspartner (dem Master) ein ganzes Territorium zu erschliessen. Das Mehrebenenverhältnis schafft jedoch komplexe Haftungsstrukturen: Der Franchisegeber haftet nicht direkt gegenüber Sub-Franchisenehmern, es sei denn, er hat eine direkte Rechtsbeziehung mit diesen etabliert.
+
+Das anwendbare Recht auf Master-Franchiseverträge bestimmt sich nach Art. 3 und 4 Rom-I-VO. Ohne Rechtswahl gilt das Recht des Staates, in dem der Franchisegeber seinen gewöhnlichen Aufenthalt hat. Art. 9 Rom-I-VO ermöglicht es den Gerichten, zwingende Vorschriften eines anderen Staates (z. B. Disclosure-Pflichten) anzuwenden.
+
+## Praxishinweise
+
+- Direktrecht-Klausel des Franchisegebers gegenüber Sub-Franchisenehmern bei Insolvenz oder Versagen des Masters vertraglich verankern.
+- Markenanmeldung im Zielland vor Abschluss des Master-Franchisevertrags sicherstellen.
+- Lokale Disclosure-Pflichten im Zielland recherchieren (spezifisches Franchiserecht in über 20 Ländern).
+- Steuerliche Struktur der Lizenzgebührzahlungen (Master zahlt Sub-Royalties; Master zahlt an Franchisegeber) optimieren.
+- Sub-Franchiseverträge auf Übereinstimmung mit dem Master-Franchisevertrag prüfen; Abweichungen dokumentieren.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.

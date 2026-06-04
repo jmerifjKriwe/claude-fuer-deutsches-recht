@@ -1,46 +1,80 @@
 ---
 name: fran-003-franchisevertrag-agb-redline
-description: "Franchiserecht: Franchisevertrag AGB-Redline mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Franchisevertrag auf AGB-Konformität prüfen: Einbeziehung nach §§ 305 ff. BGB, Inhaltskontrolle von Systemhandbuchvorbehalten, Bezugsbindungen und Vertragsstrafen. Redline erstellen und unwirksame Klauseln markieren. Perspektive Franchisegeber oder Franchisenehmer."
 ---
 
-# Franchiserecht: Franchisevertrag AGB-Redline
+# Franchiserecht: Franchisevertrag – AGB-Redline
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Franchisevertrag AGB-Redline** im Bereich **Franchiserecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein Franchisevertrag soll vor Unterzeichnung geprüft oder nach Streitentstehung auf unwirksame Klauseln durchleuchtet werden. Der Mandant ist entweder der Franchisegeber (Klauselgestalter) oder der Franchisenehmer (Klauselunterworfener). Ziel ist ein kommentiertes Redline-Dokument mit Ampelbewertung.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Vertragstext vollständig sichten: Hauptvertrag, Anlagen (Systemhandbuch, Preisliste, Gebührenordnung), Nachträge.
+2. AGB-Eigenschaft prüfen: Hat der Franchisegeber die Klauseln einseitig vorformuliert und für mehrere Verträge verwendet?
+3. Einbeziehungskontrolle nach § 305 Abs. 2 BGB: Ausdrücklicher Hinweis und Möglichkeit der Kenntnisnahme bei Vertragsschluss?
+4. Überraschende Klauseln nach § 305c BGB identifizieren: Besonders weitreichende Systemhandbuchvorbehalte, einseitige Änderungsrechte.
+5. Inhaltskontrolle nach §§ 307 ff. BGB für jede Klausel: Unangemessene Benachteiligung prüfen; bei Unternehmern strengerer Massstab als bei Verbrauchern.
+6. Kartellrechtlichen Rahmen der Bezugsbindungs- und Exklusivklauseln nach Art. 3 Vertikal-GVO EU 2022/720 und § 1 GWB prüfen.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Aufklärung, Vertrag, Handbuch, Marke und Wettbewerb trennen
-- Systembindung und Selbstständigkeit austarieren
-- Kartellrecht und AGB-Recht immer mitdenken
-- Beweis der Aufklärung und Prognosen sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- §§ 305 ff. BGB: AGB-Recht, Einbeziehungs- und Inhaltskontrolle
+- § 307 BGB: Generalklausel unangemessene Benachteiligung
+- § 308 BGB: Klauselverbote mit Wertungsmöglichkeit (z. B. einseitige Änderungsrechte)
+- § 309 BGB: Klauselverbote ohne Wertungsmöglichkeit (Haftungsausschlüsse)
+- Art. 3 und 4 Vertikal-GVO EU 2022/720: Gruppenfreistellung und Kernbeschränkungen
+- § 1 GWB: Kartellverbot für wettbewerbsbeschränkende Klauseln
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Sind Systemhandbuchinhalte wirksam in den Vertrag einbezogen und dem Franchisenehmer bei Vertragsschluss bekannt gemacht worden?
+- Enthält der Vertrag einseitige Änderungsvorbehalte zugunsten des Franchisegebers (§ 308 Nr. 4 BGB-Problem)?
+- Sind Vertragsstrafen nach § 309 Nr. 6 BGB unwirksam hoch oder ohne hinreichenden Anlass auslösbar?
+- Halten Haftungsbeschränkungen und Freistellungsklauseln der Inhaltskontrolle nach § 309 Nr. 7 BGB stand?
+- Sind Bezugsbindungen und Lieferantenvorschriften kartellrechtlich freigestellt (Marktanteilsschwelle 30 % nach Art. 3 Vertikal-GVO)?
+- Ist die Laufzeit (oft 5 bis 10 Jahre) mit dem wettbewerbsrechtlichen Bindungsverbot für Wettbewerbsverbote über 5 Jahre vereinbar?
+- Gibt es intransparente Gebührenregelungen (§ 307 Abs. 1 S. 2 BGB: Transparenzgebot)?
+
+## Fallstricke
+
+- Systemhandbuchvorbehalte werden als zulässige Präzisierung behandelt, obwohl sie einseitige Änderungsrechte enthalten, die § 308 Nr. 4 BGB verletzen.
+- B2B-Verträge werden als vollständig unkontrollierbar behandelt; §§ 307 ff. BGB gelten auch zwischen Unternehmern.
+- Kartellrechtlich unwirksame Klauseln (z. B. Festpreisbindung nach Art. 4 lit. a Vertikal-GVO) werden im Redline nicht markiert.
+- Salvatorische Klauseln retten unwirksame AGB nicht; es gilt das geltungserhaltende Reduktionsverbot.
 
 ## Output
 
-- Franchise-Memo
-- Disclosure-Check
-- Vertragsredline
-- Kündigungsschreiben
-- Auditplan
-- Streitstrategie
+- Kommentiertes Redline-Dokument (Ampel: grün/gelb/rot)
+- Klauselliste mit Normbezug und Empfehlung
+- Risikoranking für Mandant
+- Nachverhandlungsagenda
+
+## Quellen
+
+- https://dejure.org/gesetze/BGB/305.html
+- https://dejure.org/gesetze/BGB/307.html
+- https://dejure.org/gesetze/BGB/309.html
+- https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
+- https://dejure.org/gesetze/GWB/1.html
+- https://gesetze-im-internet.de/bgb/__308.html
+## Vertiefung
+
+Die AGB-Kontrolle gilt auch im B2B-Verhältnis. § 307 BGB schützt auch Unternehmer vor unangemessener Benachteiligung, wenn auch mit höherer Toleranzschwelle als bei Verbrauchergeschäften. Franchiseverträge zwischen zwei Unternehmern unterliegen vollständig der Inhaltskontrolle. Das Transparenzgebot nach § 307 Abs. 1 S. 2 BGB verlangt, dass der Franchisenehmer seine Pflichten und Risiken aus dem Vertrag klar erkennen kann.
+
+Systemhandbuchvorbehalte, die einseitige Vertragsänderungen ermöglichen, sind am strengsten zu kontrollieren. Der BGH hat klargestellt, dass Klauseln, die den Franchisegeber zu beliebigen Systemänderungen ermächtigen, gegen § 308 Nr. 4 BGB verstossen.
+
+## Praxishinweise
+
+- Redline immer in drei Kategorien einteilen: wirksam (grün), zweifelhaft (gelb), unwirksam (rot).
+- Salvatorische Klauseln retten AGB-unwirksame Klauseln nicht; das geltungserhaltende Reduktionsverbot gilt.
+- Systemhandbuchvorbehalt genau auf Änderungsumfang prüfen: Ist der Vorbehalt auf sachlich begründete Anpassungen beschränkt?
+- Kartellrechtliche Prüfung parallel zur AGB-Kontrolle; nicht nur BGB, auch GWB und Vertikal-GVO 2022/720.
+- Bei international tätigen Franchisesystemen auch ausländische AGB-Rechtsgrundsätze beachten.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.

@@ -1,46 +1,80 @@
 ---
 name: fran-040-e-commerce-franchise-retouren-und-widerruf
-description: "Franchiserecht: E-Commerce Franchise Retouren und Widerruf mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "E-Commerce im Franchisesystem regeln: Widerrufsrecht nach §§ 355 ff. BGB, Retourenmanagement, Haftung für fehlerhafte Produktbeschreibungen, Gebietsschutz im Online-Handel und Verantwortlichkeit für Datenschutz bei gemeinsamen Web-Shops."
 ---
 
-# Franchiserecht: E-Commerce Franchise Retouren und Widerruf
+# Franchiserecht: E-Commerce-Franchise, Retouren und Widerrufsrecht
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **E-Commerce Franchise Retouren und Widerruf** im Bereich **Franchiserecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein Franchisegeber betreibt gemeinsam mit seinen Franchisenehmern einen Online-Shop oder will ein E-Commerce-System für das Netz einführen. Fragen entstehen zu Widerrufsrecht, Retourenverantwortlichkeit, Haftung für fehlerhafte Produktangaben und Gebietsschutz für Online-Bestellungen.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Vertragsstruktur im Online-Bereich klären: Wer ist Verkäufer gegenüber dem Endkunden (Franchisegeber oder Franchisenehmer)?
+2. Widerrufsrecht: Wer ist Verantwortlicher für Widerrufsbelehrung und -abwicklung?
+3. Retouren-Management: Wie werden Retouren dem richtigen Franchisenehmer zugeordnet und abgerechnet?
+4. Produkthaftung: Wer haftet für fehlerhafte Produktbeschreibungen oder Produktmängel beim Online-Kauf?
+5. Gebietsschutz online: Werden Bestellungen nach geografischen Kriterien den Franchisenehmern zugeordnet?
+6. Datenschutz: Wer ist Verantwortlicher für Kundendaten aus dem gemeinsamen Online-Shop?
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Aufklärung, Vertrag, Handbuch, Marke und Wettbewerb trennen
-- Systembindung und Selbstständigkeit austarieren
-- Kartellrecht und AGB-Recht immer mitdenken
-- Beweis der Aufklärung und Prognosen sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- §§ 355 ff. BGB: Widerrufsrecht bei Fernabsatzverträgen
+- §§ 312 ff. BGB: Informationspflichten bei Verbraucherschutzrecht (Fernabsatz)
+- §§ 434 ff. BGB: Sachmängelhaftung bei Online-Kauf
+- §§ 1 ff. ProdHaftG: Produkthaftung bei körperlichen Schäden durch fehlerhafte Produkte
+- Art. 4 Nr. 7 und Art. 26 DSGVO: Verantwortlichkeit für Kundendaten im Online-Shop
+- Art. 5 Abs. 1 lit. d Vertikal-GVO EU 2022/720: Online-Verkaufsbeschränkungen
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Ist im Franchisevertrag klar geregelt, wer gegenüber dem Endkunden als Verkäufer im Online-Shop auftritt?
+- Wer ist für die korrekte Widerrufsbelehrung und die Widerrufsabwicklung verantwortlich?
+- Besteht ein technisches System zur automatischen Zuordnung von Online-Bestellungen zu einzelnen Franchisenehmers nach Gebietsschutz?
+- Ist die Retourenverantwortlichkeit klar geregelt (wer trägt die Kosten, wer bearbeitet die Retoure)?
+- Wer haftet bei fehlerhaften Produktbeschreibungen gegenüber dem Verbraucher?
+- Ist die gemeinsame Verantwortlichkeit für Online-Shop-Kundendaten nach Art. 26 DSGVO vertraglich geregelt?
+- Verhindert der Online-Kanal-Gebietsschutz Konflikte zwischen Franchisenehmers aus verschiedenen Gebieten?
+
+## Fallstricke
+
+- Fehlende oder fehlerhafte Widerrufsbelehrung führt zu verlängerter Widerrufsfrist (§ 356 Abs. 3 BGB: 12 Monate und 14 Tage).
+- Retourenkosten werden dem falschen Franchisenehmer belastet; Abrechnungskonflikte im System.
+- Produkthaftung nach ProdHaftG trifft den Inverkehrbringer; unklar, ob das der Franchisegeber oder der jeweilige Franchisenehmer ist.
+- Online-Gebietsschutz fehlt; Bestell-Routing nicht definiert; mehrere Franchisenehmer streiten um dieselbe Bestellung.
 
 ## Output
 
-- Franchise-Memo
-- Disclosure-Check
-- Vertragsredline
-- Kündigungsschreiben
-- Auditplan
-- Streitstrategie
+- E-Commerce-Verantwortlichkeitsmatrix (Franchisegeber/Franchisenehmer)
+- Widerrufsbelehrungs-Vorlage (AGB-konform)
+- Online-Gebietsschutz-Regelung (Vertragsklausel)
+- Datenschutzkonzept für gemeinsamen Online-Shop
+
+## Quellen
+
+- https://dejure.org/gesetze/BGB/355.html
+- https://dejure.org/gesetze/BGB/312.html
+- https://dejure.org/gesetze/BGB/434.html
+- https://gesetze-im-internet.de/prodhaftg/
+- https://gesetze-im-internet.de/dsgvo/art_26.html
+- https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
+## Vertiefung
+
+Das Widerrufsrecht bei Fernabsatzverträgen ist ein starkes Verbraucherschutzrecht: Verbraucher können Verträge, die über Fernkommunikationsmittel (Internet, Telefon) abgeschlossen wurden, innerhalb von 14 Tagen widerrufen, ohne Angabe von Gründen. Wenn die Widerrufsbelehrung nicht korrekt erteilt wurde, verlängert sich die Widerrufsfrist auf 12 Monate und 14 Tage (§ 356 Abs. 3 BGB).
+
+Für Franchisesysteme mit gemeinsamen Online-Shops ist die Frage der Rücksendungskosten und der Retourenverantwortlichkeit entscheidend: Wenn der Franchisegeber als Plattformbetreiber auftritt, der die Bestellungen an Franchisenehmer verteilt, muss klar sein, wer die Rückabwicklung organisiert.
+
+## Praxishinweise
+
+- Widerrufsbelehrung für jeden Online-Bestellprozess rechtlich prüfen; regelmässige Updates bei Gesetzesänderungen.
+- Retourenverantwortlichkeit im Franchisevertrag regeln: Wer bearbeitet Retouren aus welchem Gebiet?
+- Tracking des Bestellursprungs für Gebietsschutz implementieren; IP-basierte Zuordnung ist nicht ausreichend.
+- Produkthaftungsverantwortung im Online-Kanal mit der physischen Verkaufsverantwortung harmonisieren.
+- DSGVO-konforme Bestelldaten-Übertragung an Franchisenehmer sicherstellen; keine unnötige Datenweitergabe.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.

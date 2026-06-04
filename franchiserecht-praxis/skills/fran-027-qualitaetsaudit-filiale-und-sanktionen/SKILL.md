@@ -1,46 +1,81 @@
 ---
 name: fran-027-qualitaetsaudit-filiale-und-sanktionen
-description: "Franchiserecht: Qualitätsaudit Filiale und Sanktionen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Qualitätsaudit im Franchisesystem rechtskonform durchführen: Zutrittsrechte, Dokumentationspflichten, Vertragsstrafen nach § 307 BGB, Verhältnismässigkeit von Sanktionen und Rechtsschutz des Franchisenehmers gegen unberechtigte Auditbefunde."
 ---
 
-# Franchiserecht: Qualitätsaudit Filiale und Sanktionen
+# Franchiserecht: Qualitätsaudit, Filialprüfung und Sanktionen
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Qualitätsaudit Filiale und Sanktionen** im Bereich **Franchiserecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein Franchisegeber will ein umfassendes Qualitätsauditsystem einführen und bei Mängeln Vertragsstrafen verhängen. Ein Franchisenehmer erhält einen negativen Auditbefund und wird aufgefordert, eine Vertragsstrafe zu zahlen. Beide Seiten benötigen eine Analyse der rechtlichen Grenzen und Verfahrensanforderungen.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Auditrecht im Franchisevertrag prüfen: Ist ein Zugangs- und Prüfungsrecht des Franchisegebers vertraglich vereinbart?
+2. Ankündigungspflicht klären: Muss der Audit angekündigt werden oder sind Überraschungsaudits zulässig?
+3. Auditprotokoll und Dokumentation: Werden Mängel klar, beweissicher und nachprüfbar dokumentiert?
+4. Sanktionskatalog auf AGB-Konformität prüfen: § 307 BGB; sind Vertragsstrafen verhältnismässig und klar definiert?
+5. Fristsetzung zur Mängelbeseitigung: Angemessene Nachbesserungsfrist vor Verhängung von Sanktionen?
+6. Rechtsschutz des Franchisenehmers: Widerspruchsmöglichkeit, Unabhängigkeitsprüfung, Schiedsverfahren?
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Aufklärung, Vertrag, Handbuch, Marke und Wettbewerb trennen
-- Systembindung und Selbstständigkeit austarieren
-- Kartellrecht und AGB-Recht immer mitdenken
-- Beweis der Aufklärung und Prognosen sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 307 BGB: AGB-Kontrolle von Vertragsstrafen und Auditzugangsklauseln
+- § 309 Nr. 6 BGB: Klauselverbot für unangemessen hohe Vertragsstrafen
+- § 242 BGB: Verhältnismässigkeitsgebot bei Sanktionierung
+- §§ 339 ff. BGB: Vertragsstrafe; Herabsetzungsrecht des Richters bei unverhältnismässiger Strafe (§ 343 BGB)
+- §§ 30 ff. MarkenG: Qualitätskontrollanspruch des Markeninhabers im Lizenzverhältnis
+- Art. 32 DSGVO: Datenschutzkonforme Durchführung von Audits mit Kundendatenzugang
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Ist das Auditrecht im Franchisevertrag klar und hinreichend bestimmt vereinbart?
+- Entsprechen Art, Umfang und Häufigkeit des Audits dem Verhältnismässigkeitsgebot?
+- Ist die Vertragsstrafe betragsmässig begrenzt und knüpft sie an einen klar definierten Verstoss an?
+- Wird dem Franchisenehmer eine angemessene Frist zur Mängelbeseitigung eingeräumt, bevor eine Vertragsstrafe verwirkt wird?
+- Ist die Auditdokumentation beweissicher (Fotos, Protokoll, Unterschrift des Franchisenehmers)?
+- Besteht ein faires Widerspruchs- oder Überprüfungsverfahren für Auditbefunde?
+- Werden bei Audits mit Kundendatenzugang Datenschutzanforderungen nach Art. 32 DSGVO eingehalten?
+- Kumulieren Sanktionen (Vertragsstrafe plus Kündigung) unzulässig?
+
+## Fallstricke
+
+- Vertragsstrafe für denselben Verstoss mehrfach verhängt; Verbot der Doppelbestrafung im AGB-Recht.
+- Auditbefund wird ohne Anhörung des Franchisenehmers zur Grundlage der Kündigung gemacht.
+- Audit-Checklisten sind so subjektiv formuliert, dass nahezu jedes Ergebnis als Mangel gewertet werden kann.
+- Datenschutzverstoss beim Audit: Prüfer nimmt Kundendaten ein, ohne dass ein AVV nach Art. 28 DSGVO besteht.
 
 ## Output
 
-- Franchise-Memo
-- Disclosure-Check
-- Vertragsredline
-- Kündigungsschreiben
-- Auditplan
-- Streitstrategie
+- Audit-Handbuch (rechtskonforme Vorlage)
+- Vertragsstrafe-Klausel (AGB-konforme Formulierung)
+- Widerspruchsverfahren-Muster
+- Mängelbeseitigungsfristenplan
+
+## Quellen
+
+- https://dejure.org/gesetze/BGB/307.html
+- https://dejure.org/gesetze/BGB/309.html
+- https://dejure.org/gesetze/BGB/339.html
+- https://dejure.org/gesetze/BGB/343.html
+- https://dejure.org/gesetze/MarkenG/30.html
+- https://gesetze-im-internet.de/dsgvo/art_32.html
+## Vertiefung
+
+Das Qualitätsaudit ist ein zentrales Instrument der Systemkontrolle im Franchiserecht. Es dient sowohl der Qualitätssicherung als auch der Beweissicherung für spätere Sanktionsschritte. Der Franchisegeber hat ein legitimes Interesse an der Kontrolle der Systemstandards; der Franchisenehmer hat ein legitimes Interesse an einem fairen, objektiven und verhältnismässigen Verfahren.
+
+Die AGB-rechtliche Zulässigkeit von Vertragsstrafen nach §§ 307 und 309 BGB setzt voraus, dass die Strafe an einen klar definierten, nachweisbaren Verstoss anknüpft, verhältnismässig ist und der Franchisenehmer eine Möglichkeit zur Mängelbeseitigung hatte. Vertragsstrafen, die für jeden Auditpunkt automatisch ausgelöst werden, scheitern oft an § 309 Nr. 6 BGB.
+
+## Praxishinweise
+
+- Audit-Checkliste mit objektiven, messbaren Kriterien entwickeln; keine Ermessensklauseln.
+- Audit-Ergebnis unmittelbar dokumentieren und dem Franchisenehmer aushändigen; Gegendarstellung ermöglichen.
+- Mängelbeseitigungsfrist von mindestens 2 bis 4 Wochen einräumen, bevor Vertragsstrafe verwirkt.
+- Vertragsstrafe nur für schwerwiegende oder wiederholte Verstösse vorgesehen; keine Bagatellstrafen.
+- Mystery-Shopping-Ergebnis alleine ist selten ausreichend für Kündigung; immer mit Auditprotokoll kombinieren.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.

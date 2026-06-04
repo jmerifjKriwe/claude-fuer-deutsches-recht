@@ -1,46 +1,80 @@
 ---
 name: fran-050-franchisenehmer-exit-plan
-description: "Franchiserecht: Franchisenehmer Exit-Plan mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Exit-Strategie für Franchisenehmer entwickeln: ordentliche und ausserordentliche Kündigung, Übertragung des Franchisebetriebs auf Dritten mit Franchisegeberzustimmung, Ausgleichsansprüche nach § 89b HGB analog und Nachfolge- oder Verkaufsoptionen."
 ---
 
-# Franchiserecht: Franchisenehmer Exit-Plan
+# Franchiserecht: Franchisenehmer-Exit-Plan
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Franchisenehmer Exit-Plan** im Bereich **Franchiserecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein Franchisenehmer möchte aus dem Franchisesystem aussteigen: durch ordentliche Kündigung, durch Verkauf des Franchisebetriebs an einen Nachfolger oder durch ausserordentliche Kündigung wegen Systemversagens. Er benötigt eine Gesamtstrategie für den bestmöglichen Exit.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Exitoption analysieren: Ordentliche Kündigung zum nächsten Termin, ausserordentliche Kündigung, einvernehmliche Aufhebung, Verkauf an Nachfolger?
+2. Kündigungsfristen und -termine aus dem Franchisevertrag bestimmen; automatische Verlängerungsklauseln beachten.
+3. Verkaufsoption prüfen: Hat der Franchisenehmer das Recht, seinen Betrieb an einen Dritten zu übertragen und wie ist das Zustimmungserfordernis des Franchisegebers geregelt?
+4. Ausgleichsanspruch nach § 89b HGB analog berechnen und sichern; Jahresfrist nach Vertragsende wahren.
+5. Nachvertragliches Wettbewerbsverbot prüfen: Zeitlicher und räumlicher Umfang; Verhältnismässigkeit.
+6. Abwicklungspflichten erfassen: Rückbau, Herausgabe des Systemhandbuchs, Abrechnung offener Posten.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Aufklärung, Vertrag, Handbuch, Marke und Wettbewerb trennen
-- Systembindung und Selbstständigkeit austarieren
-- Kartellrecht und AGB-Recht immer mitdenken
-- Beweis der Aufklärung und Prognosen sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 314 BGB: Ausserordentliches Kündigungsrecht bei wichtigem Grund
+- § 89b HGB analog: Ausgleichsanspruch des Franchisenehmers bei Vertragsende
+- Art. 5 Abs. 1 lit. b Vertikal-GVO EU 2022/720: Nachvertragliches Wettbewerbsverbot max. 1 Jahr
+- §§ 433 ff. BGB: Kaufvertrag über den Franchisebetrieb als Unternehmensveräusserung
+- § 415 BGB: Schuldübernahme bei Betriebsübertragung (Verbindlichkeiten)
+- §§ 242 und 280 BGB: Kooperationspflichten bei der Exitabwicklung
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Zu welchem nächstmöglichen Zeitpunkt kann ordentlich gekündigt werden?
+- Gibt es einen wichtigen Grund für eine sofortige ausserordentliche Kündigung (Aufklärungspflichtverletzung, Systemversagen, Vertragsverletzung des Franchisegebers)?
+- Enthält der Vertrag ein Recht des Franchisenehmers zur Übertragung des Betriebs; ist die Zustimmung des Franchisegebers an sachliche Kriterien gebunden?
+- Besteht ein Ausgleichsanspruch nach § 89b HGB analog und in welcher Höhe?
+- Ist das nachvertragliche Wettbewerbsverbot auf maximal 1 Jahr beschränkt und für echten Know-how-Schutz gerechtfertigt?
+- Welche Verbindlichkeiten gehen auf den Nachfolger über und was bleibt beim Franchisenehmer?
+- Wie hoch sind die Abwicklungskosten (Rückbau, Schlussabrechnung, Anwaltskosten)?
+
+## Fallstricke
+
+- Kündigungsfrist verpasst; Vertrag verlängert sich automatisch um weitere Jahre.
+- Ausgleichsanspruch nach § 89b HGB analog verfällt, weil die Jahresfrist nach Vertragsende übersehen wird.
+- Betriebsübertragung scheitert am einseitigen Franchisegeberveto ohne sachliche Rechtfertigung.
+- Nachvertragliches Wettbewerbsverbot von 3 Jahren schränkt den Franchisenehmer erheblich ein; kartellrechtlich nichtig, aber nicht eingeklagt.
 
 ## Output
 
-- Franchise-Memo
-- Disclosure-Check
-- Vertragsredline
-- Kündigungsschreiben
-- Auditplan
-- Streitstrategie
+- Exit-Strategie-Memo mit Optionenvergleich
+- Kündigung oder Aufhebungsvertrag (Vorlage)
+- Ausgleichsanspruchs-Berechnung nach § 89b HGB analog
+- Abwicklungs-Checkliste
+
+## Quellen
+
+- https://dejure.org/gesetze/BGB/314.html
+- https://dejure.org/gesetze/HGB/89b.html
+- https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
+- https://dejure.org/gesetze/BGB/433.html
+- https://dejure.org/gesetze/BGB/415.html
+- https://dejure.org/gesetze/BGB/242.html
+## Vertiefung
+
+Der Exit aus einem Franchisesystem ist für viele Franchisenehmer mit erheblichen wirtschaftlichen Risiken verbunden: Sie haben in ein systemspezifisches Business investiert, das ohne die Franchisemarke möglicherweise kaum marktfähig ist. Eine frühzeitige Exit-Planung, die alle Optionen analysiert, ist deshalb essenziell.
+
+Die Übertragung des Franchisebetriebs an einen Nachfolger ist eine oft übersehene Exit-Option: Wenn der Franchisegeber die Übertragung nicht aus sachlichen Gründen verweigern darf, kann der Franchisenehmer sein Business verkaufen und damit den Wert seiner Investition realisieren.
+
+## Praxishinweise
+
+- Exit-Optionen frühzeitig analysieren: Kündigung, Übergabe, Verkauf, einvernehmliche Aufhebung.
+- Ausgleichsanspruch nach § 89b HGB analog sofort nach Vertragsende geltend machen; Jahresfrist ist unerbittlich.
+- Betriebsübertragung vorbereiten: Buchführung, Kundenliste und Betriebshandbuch ordentlich dokumentieren; steigert Verkaufswert.
+- Wettbewerbsverbot nach Austritt genau prüfen; bei unzulässiger Länge oder Breite rechtlich angreifen.
+- Franchisegeber-Zustimmungsrecht zur Übertragung auf sachliche Kriterien begrenzen; willkürliches Veto nicht akzeptieren.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.

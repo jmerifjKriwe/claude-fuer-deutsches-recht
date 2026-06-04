@@ -1,46 +1,80 @@
 ---
 name: fran-015-ordentliche-kuendigung-laufzeit-verlaengerung
-description: "Franchiserecht: Ordentliche Kündigung Laufzeit Verlängerung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Ordentliche Kündigung und automatische Verlängerung von Franchiseverträgen prüfen: Laufzeitklauseln, Kündigungsfristen, AGB-Kontrolle nach § 307 BGB, Verlängerungsoptionen und Investitionsschutz des Franchisenehmers bei Nichtverlängerung."
 ---
 
-# Franchiserecht: Ordentliche Kündigung Laufzeit Verlängerung
+# Franchiserecht: Ordentliche Kündigung, Laufzeit und Verlängerung
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Ordentliche Kündigung Laufzeit Verlängerung** im Bereich **Franchiserecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein Franchisevertrag läuft auf ein automatisches Verlängerungsdatum zu. Der Franchisegeber möchte nicht verlängern, um einen neuen Partner aufzunehmen. Der Franchisenehmer hat hohe Investitionen getätigt und fordert Schutz. Alternativ fragt der Franchisegeber, wie er Laufzeitklauseln rechtssicher gestaltet.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Laufzeitklausel vollständig erfassen: Erstlaufzeit, automatische Verlängerung, Optionsrechte, Kündigungsfristen.
+2. AGB-Kontrolle der Laufzeitklausel: Sind Erstlaufzeit von 5 bis 10 Jahren und automatische Verlängerungen nach § 307 BGB wirksam?
+3. Investitionsschutzprinzip prüfen: Hat der Franchisenehmer systemspezifische Investitionen getätigt, die eine Verlängerungspflicht begründen?
+4. Wettbewerbsrechtliche Grenze: Bezugsbindungsdauer darf kartellrechtlich grundsätzlich 5 Jahre nicht überschreiten (Art. 5 Abs. 1 lit. a Vertikal-GVO).
+5. Verlängerungsoption: Ist die Option klar, wann und wie sie ausgeübt werden muss? Gibt es Fristen und Voraussetzungen?
+6. Schadensersatz bei Nichtverlängerung: Kann der Franchisenehmer entgangenen Gewinn oder Investitionsersatz fordern?
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Aufklärung, Vertrag, Handbuch, Marke und Wettbewerb trennen
-- Systembindung und Selbstständigkeit austarieren
-- Kartellrecht und AGB-Recht immer mitdenken
-- Beweis der Aufklärung und Prognosen sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 307 BGB: AGB-Kontrolle von Laufzeit- und Verlängerungsklauseln
+- § 308 Nr. 4 BGB: Einseitige Laufzeitänderungsrechte des Franchisegebers
+- § 314 BGB: Kündigung aus wichtigem Grund bleibt trotz langer Laufzeit möglich
+- Art. 5 Abs. 1 lit. a Vertikal-GVO EU 2022/720: 5-Jahres-Grenze für Wettbewerbsverbote
+- § 242 BGB: Investitionsschutz durch Treu und Glauben; Kulanzpflicht bei Nichtverlängerung?
+- § 89b HGB analog: Ausgleichsanspruch bei regulärem Vertragsende
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Ist die vereinbarte Erstlaufzeit nach § 307 BGB verhältnismässig im Verhältnis zu den Investitionskosten des Franchisenehmers?
+- Enthält die automatische Verlängerungsklausel klare Kündigungsfristen und -formen?
+- Hat der Franchisenehmer systemspezifische Investitionen in Umbau, Ausstattung oder Ausbildung getätigt, die seinen Schutz begründen?
+- Überschreitet die faktische Bindungsdauer durch Laufzeit und Verlängerung 5 Jahre für Wettbewerbsverbote?
+- Ist die Verlängerungsoption als aufschiebende Bedingung oder als einseitiges Gestaltungsrecht ausgestaltet?
+- Kann der Franchisegeber die Verlängerung ohne sachlichen Grund verweigern oder ist eine Begründungspflicht vereinbart?
+- Wie hoch ist der Schadensersatz bei pflichtwidriger Nichtverlängerung (entgangener Gewinn nach § 252 BGB)?
+
+## Fallstricke
+
+- Automatische Verlängerung gilt, obwohl keine Leistungssteigerung oder Systemanpassung stattfand; Franchisegeber verpasst Kündigungsfrist.
+- Laufzeitklausel ist als AGB nach § 307 BGB unwirksam; Vertrag läuft auf unbestimmte Zeit.
+- Investitionsschutz wird ignoriert; Franchisegeber kündigt kurz nach kostspieligen Umbaumassnahmen des Franchisenehmers.
+- Verlängerungsoption enthält keine Preisanpassungsregel; Royalties werden nie aktualisiert.
 
 ## Output
 
-- Franchise-Memo
-- Disclosure-Check
-- Vertragsredline
-- Kündigungsschreiben
-- Auditplan
-- Streitstrategie
+- Laufzeit-Audit-Memo
+- Kündigung-Checkliste mit Fristen und Formvoraussetzungen
+- Bewertung der Verlängerungsoption
+- Schadensersatzberechnung bei Nichtverlängerung
+
+## Quellen
+
+- https://dejure.org/gesetze/BGB/307.html
+- https://dejure.org/gesetze/BGB/314.html
+- https://dejure.org/gesetze/BGB/242.html
+- https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
+- https://dejure.org/gesetze/HGB/89b.html
+- https://dejure.org/gesetze/BGB/252.html
+## Vertiefung
+
+Die Laufzeit eines Franchisevertrags muss im Verhältnis zu den Investitionen des Franchisenehmers stehen. Eine sehr kurze Laufzeit kann den Investitionsschutz des Franchisenehmers verletzen, eine sehr lange Laufzeit kann kartellrechtlich bedenklich sein. Der BGH hat Laufzeiten von 5 bis 10 Jahren als regelmässig verhältnismässig angesehen.
+
+Automatische Verlängerungsklauseln sind AGB-rechtlich zulässig, müssen aber klar verständliche Kündigungsfristen enthalten. Eine Verlängerungsklausel, die keine angemessene Kündigungsfrist vorsieht oder so formuliert ist, dass der Franchisenehmer sie leicht übersieht, kann nach § 305c BGB als überraschende Klausel nicht einbezogen sein.
+
+## Praxishinweise
+
+- Fristenkalender für alle Kündigungstermine anlegen; automatische Verlängerung nach Fristversäumnis ist nur durch weitere Kündigung aufzulösen.
+- Verlängerungsoption für den Franchisenehmer mit klaren Ausübungsvoraussetzungen und -fristen regeln.
+- Bei Nichtverlängerungsentscheidung des Franchisegebers frühzeitig informieren; Investitionsschutzinteressen des Franchisenehmers berücksichtigen.
+- Kartellrechtliche 5-Jahres-Grenze für Bezugsbindungen beachten; Laufzeit und Bezugsbindung koordinieren.
+- Schriftform für Kündigung stets einhalten; mündliche oder per E-Mail erklärte Kündigungen können formunwirksam sein.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.

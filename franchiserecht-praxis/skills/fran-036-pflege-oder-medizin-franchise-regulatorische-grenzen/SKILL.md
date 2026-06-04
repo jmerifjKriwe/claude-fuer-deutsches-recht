@@ -1,46 +1,80 @@
 ---
 name: fran-036-pflege-oder-medizin-franchise-regulatorische-grenzen
-description: "Franchiserecht: Pflege oder Medizin Franchise regulatorische Grenzen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Pflege- und Medizin-Franchise regulatorisch prüfen: Zulassungspflichten nach SGB XI und SGB V, Berufsrechtsschranken für Heilberufe, Werbebeschränkungen nach HWG und UWG, Haftung für Pflegemängel und Systemverantwortung des Franchisegebers."
 ---
 
-# Franchiserecht: Pflege oder Medizin Franchise regulatorische Grenzen
+# Franchiserecht: Pflege- und Medizin-Franchise – Regulatorische Grenzen
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Pflege oder Medizin Franchise regulatorische Grenzen** im Bereich **Franchiserecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein Franchise-System für ambulante Pflege oder medizinische Dienstleistungen wird ausgebaut. Der Franchisegeber fragt, welche regulatorischen Anforderungen die Franchisenehmer erfüllen müssen und wo Systemstandards an berufsrechtliche Grenzen stossen. Ein Franchisenehmer fragt nach seiner persönlichen Haftung bei Pflegemängeln.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Zulassungserfordernis klären: Pflegezulassung nach SGB XI (Pflegekassen), Kassenzulassung nach SGB V, Gewerbeanmeldung.
+2. Berufsrecht prüfen: Ärzte, Pflegekräfte, Physiotherapeuten unterliegen Berufsordnungen; Systemweisungen des Franchisegebers können Berufsrecht tangieren.
+3. Heilmittelwerbegesetz (HWG) und UWG: Werbebeschränkungen für medizinische Leistungen.
+4. Haftung für Pflegemängel: Delikthaftung des Franchisegebers nach § 831 BGB (Verrichtungsgehilfen) und Organisationsverschulden.
+5. Datenschutz für Patientendaten: Besonderer Schutz nach Art. 9 DSGVO für Gesundheitsdaten.
+6. Systemhandbuch und Berufsrecht: Können medizinische Handlungsanweisungen im Systemhandbuch als Berufsrechtsverstoß gewertet werden?
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Aufklärung, Vertrag, Handbuch, Marke und Wettbewerb trennen
-- Systembindung und Selbstständigkeit austarieren
-- Kartellrecht und AGB-Recht immer mitdenken
-- Beweis der Aufklärung und Prognosen sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- §§ 71 ff. SGB XI: Zulassung von Pflegeeinrichtungen
+- §§ 95 ff. SGB V: Kassenzulassung für ärztliche Leistungserbringer
+- §§ 1 ff. HWG: Heilmittelwerbegesetz, Werbebeschränkungen
+- § 831 BGB: Haftung des Geschäftsherrn für Verrichtungsgehilfen (Franchisenehmer und Pflegepersonal)
+- Art. 9 DSGVO: Verarbeitung von Gesundheitsdaten; besondere Schutzanforderungen
+- Berufsordnungen der Ärztekammern und Landespflegegesetze
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Verfügen alle Franchisenehmer über die erforderlichen Zulassungen nach SGB XI oder SGB V?
+- Tangiert das Systemhandbuch berufsrechtliche Vorgaben der jeweiligen Heilberufe?
+- Halten Werbematerialien des Systems die Einschränkungen des HWG ein?
+- Hat der Franchisegeber eine Haftungsabgrenzung für Pflegemängel auf Franchisenehmersebene im Vertrag verankert?
+- Werden Patientendaten nach Art. 9 DSGVO besonders geschützt; liegt eine Einwilligung oder eine gesetzliche Erlaubnisgrundlage vor?
+- Gibt es ein Qualitätssicherungssystem für Pflegeleistungen, das die regulatorischen Anforderungen der Pflegekassen erfüllt?
+- Ist die Systemverantwortung des Franchisegebers vs. persönliche Berufsverantwortung des Franchisenehmers klar abgegrenzt?
+
+## Fallstricke
+
+- Systemhandbuch enthält medizinische Behandlungsanweisungen; das verletzt die berufsrechtliche Therapiefreiheit von Ärzten.
+- Werbung mit Heilversprechen oder Patientenerfahrungsberichten verstösst gegen §§ 3 und 11 HWG.
+- Franchisenehmer verliert Pflegezulassung; Franchisegeber ist nicht informiert und reagiert zu langsam.
+- Patientendaten werden ohne ausreichende Sicherheitsmassnahmen in der zentralen CRM-Plattform gespeichert.
 
 ## Output
 
-- Franchise-Memo
-- Disclosure-Check
-- Vertragsredline
-- Kündigungsschreiben
-- Auditplan
-- Streitstrategie
+- Regulatorische Zulassungs-Checkliste für Pflege-Franchise
+- HWG-konformer Werbeguide
+- Haftungsabgrenzungsklausel Franchise/Berufsrecht
+- Datenschutzkonzept für Gesundheitsdaten im System
+
+## Quellen
+
+- https://gesetze-im-internet.de/sgb_11/__71.html
+- https://gesetze-im-internet.de/sgb_5/__95.html
+- https://gesetze-im-internet.de/hwg_1965/
+- https://dejure.org/gesetze/BGB/831.html
+- https://gesetze-im-internet.de/dsgvo/art_9.html
+- https://dejure.org/gesetze/UWG/5.html
+## Vertiefung
+
+Das Spannungsfeld zwischen Systemstandardisierung im Franchise und berufsrechtlicher Freiheit der Heilberufe ist rechtlich komplex. Ärzte, Apotheker und Pflegefachkräfte unterliegen Berufsordnungen, die ihnen eine eigenverantwortliche Berufsausübung vorschreiben. Systemhandbuchklauseln, die spezifische Behandlungsabläufe oder Medikamentierungsvorgaben enthalten, können diese Berufsfreiheit verletzen.
+
+Die Kassenärztlichen Vereinigungen und Pflegekassen haben eigene Qualitätsprüfungsrechte, die von den internen Franchise-Auditrechten zu trennen sind. Ein Franchisenehmer im Pflegebereich kann also sowohl vom Franchisegeber als auch von der Pflegekasse geprüft werden.
+
+## Praxishinweise
+
+- Systemhandbuch-Inhalte für medizinische und pflegerische Prozesse mit einem Berufsrechtsexperten abstimmen.
+- HWG-konforme Werbung für alle Marketingmaterialien sicherstellen; Vorher-Nachher-Bilder und Erfahrungsberichte kritisch prüfen.
+- Zulassungsvoraussetzungen (SGB V, SGB XI) vor Franchisepartnerwerbung klären; Zulassung ist Voraussetzung für Betrieb.
+- Haftungsfreistellung des Franchisegebers für medizinische Behandlungsfehler vertraglich klarstellen.
+- Qualitätssicherungssystem des Franchisegebers darf die Berufsautonomie der Leistungserbringer nicht einschränken.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.

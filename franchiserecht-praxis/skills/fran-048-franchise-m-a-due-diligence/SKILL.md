@@ -1,46 +1,80 @@
 ---
 name: fran-048-franchise-m-a-due-diligence
-description: "Franchiserecht: Franchise M&A Due Diligence mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "M-und-A-Due-Diligence für Franchisesysteme: rechtliche Prüfung von Franchisevertragsportfolios, Schutzrechtebestand, offene Verbindlichkeiten, Change-of-Control-Klauseln, Informationspflichten der Franchisenehmer und Bewertung von Systemrisiken für den Erwerber."
 ---
 
-# Franchiserecht: Franchise M&A Due Diligence
+# Franchiserecht: Franchise-M-und-A-Due-Diligence
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Franchise M&A Due Diligence** im Bereich **Franchiserecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein strategischer Investor oder ein Private-Equity-Fonds erwirbt ein Franchiseunternehmen oder das Franchisesystem wird an eine Konkurrenz oder einen Branchenfremden verkauft. Der Erwerber benötigt eine umfassende rechtliche Due-Diligence des Franchise-Vertragsportfolios.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Franchisevertragsportfolio inventarisieren: Alle laufenden Franchiseverträge mit Laufzeiten, Optionen, Kündigungsfristen und besonderen Konditionen erfassen.
+2. Change-of-Control-Klauseln prüfen: Haben Franchisenehmer Sonderkündigungsrechte bei Inhaberwechsel des Franchisegebers?
+3. Schutzrechtebestand prüfen: Marken, Domains, Softwarelizenzen, Know-how; Inhaberschaft und Registerstand.
+4. Offene Streitigkeiten und potenzielle Verbindlichkeiten identifizieren: laufende Klagen, Beschwerden beim Kartellamt, behördliche Verfahren.
+5. Systemhandbuch und Prozesse auf Übertragbarkeit prüfen: Kann das Systemwissen ohne den bisherigen Inhaber übertragen werden?
+6. Kartellrechtliche Fusionskontrolle prüfen: Umsatzschwellen nach §§ 35 ff. GWB und Art. 1 ff. FKVO EU 139/2004.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Aufklärung, Vertrag, Handbuch, Marke und Wettbewerb trennen
-- Systembindung und Selbstständigkeit austarieren
-- Kartellrecht und AGB-Recht immer mitdenken
-- Beweis der Aufklärung und Prognosen sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- §§ 35 ff. GWB: Fusionskontrolle in Deutschland; Anmeldeschwellen
+- VO (EG) 139/2004 (FKVO): EU-Fusionskontrolle
+- §§ 14 ff. MarkenG: Markenschutzrechte als Due-Diligence-Objekt
+- §§ 2 ff. GeschGehG: Know-how-Schutz als Transaktionsgegenstand
+- § 119 InsO analog: Change-of-Control-Regelungen und Insolvenzfestigkeit
+- §§ 311 Abs. 2 und 241 Abs. 2 BGB: Informationspflichten des Veräusserers im Kaufprozess
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Enthält eine erhebliche Anzahl von Franchiseverträgen Change-of-Control-Klauseln, die Sonderkündigungsrechte der Franchisenehmer auslösen?
+- Sind alle Franchise-Marken und Schutzrechte auf den Franchisegeber registriert und frei von Belastungen?
+- Gibt es offene kartellrechtliche Verfahren oder Beschwerden beim Bundeskartellamt?
+- Ist das Know-how des Systems dokumentiert und übertragbar, auch ohne Schlüsselpersonen des bisherigen Inhabers?
+- Sind alle Franchiseverträge auf ihre Laufzeiten, Konditionen und Sonderpflichten hin geprüft?
+- Sind die Fusionskontroll-Schwellen nach GWB und FKVO überschritten?
+- Welche Latenzrisiken (potenzielle Klagen, Aufklärungspflichtverletzungen) bestehen aus Franchiseverträgen?
+
+## Fallstricke
+
+- Change-of-Control-Klauseln in 30 % der Franchiseverträge werden übersehen; nach Übernahme kündigen Franchisenehmer massenhaft.
+- Marken sind nicht auf den Franchisegeber, sondern auf Gründer persönlich registriert; müssen vor Transaktion übertragen werden.
+- Systemhandbuch ist nicht dokumentiert; wesentliches Know-how ist in den Köpfen der Gründer, aber nicht übertragbar.
+- Kartellrechtliches Verfahren des Bundeskartellamts wird im Kaufprozess nicht disclosed; Käufer haftet für Altlasten.
 
 ## Output
 
-- Franchise-Memo
-- Disclosure-Check
-- Vertragsredline
-- Kündigungsschreiben
-- Auditplan
-- Streitstrategie
+- Due-Diligence-Checkliste Franchisesystem
+- Vertragsportfolio-Risikoanalyse (Change of Control, Laufzeiten)
+- Schutzrechte-Inventar (Marken, Domains, Software)
+- Fusionskontrolle-Kurzprüfung (GWB/FKVO)
+
+## Quellen
+
+- https://dejure.org/gesetze/GWB/35.html
+- https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004R0139
+- https://dejure.org/gesetze/MarkenG/14.html
+- https://gesetze-im-internet.de/geschgehg/
+- https://gesetze-im-internet.de/inso/__119.html
+- https://dejure.org/gesetze/BGB/311.html
+## Vertiefung
+
+Die Franchise-Due-Diligence ist umfangreicher als eine herkömmliche Unternehmens-Due-Diligence: Neben den üblichen Bereichen (Finanzen, Recht, Steuern) ist das Franchisevertragsportfolio selbst ein kritischer Due-Diligence-Gegenstand. Jeder Franchisevertrag kann Change-of-Control-Klauseln enthalten, die bei der Transaktion ausgelöst werden.
+
+Die Fusionskontrolle nach §§ 35 ff. GWB ist relevant, wenn das franchisierte Unternehmen erhebliche Umsätze hat. Bei Überschreitung der Umsatzschwellen ist eine Anmeldung beim Bundeskartellamt erforderlich, bevor die Transaktion vollzogen werden kann.
+
+## Praxishinweise
+
+- Change-of-Control-Klausel-Scan als erste Due-Diligence-Massnahme; Anzahl und Konsequenzen bestimmen.
+- Marken und Domains sofort auf Inhaber und Registerstand prüfen; Übertragungserfordernis im Kaufvertrag regeln.
+- Systemhandbuch und Know-how-Transfer in den Kaufvertrag einbeziehen; Übergabepflicht des Veräusserers.
+- Latenzrisiken (potential claims) aus Franchiseverträgen in den Kaufpreiseinbehalt einkalkulieren.
+- Fusionskontrolle-Prüfung durch Kartellrechtsanwalt; Vollzugsverbot bis Behördenfreigabe beachten.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.

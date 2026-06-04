@@ -1,46 +1,80 @@
 ---
 name: fran-033-lebensmittel-franchise-hygiene-und-haccp
-description: "Franchiserecht: Lebensmittel Franchise Hygiene und HACCP mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Lebensmittelfranchise rechtlich absichern: Hygienepflichten nach VO (EG) 852/2004 und LMHV, HACCP-Konzept als Systempflicht, Haftung bei Lebensmittelskandalen im Franchise-Netz, behördliche Schliessungen und Rückrufpflichten."
 ---
 
-# Franchiserecht: Lebensmittel Franchise Hygiene und HACCP
+# Franchiserecht: Lebensmittel-Franchise, Hygiene und HACCP
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Lebensmittel Franchise Hygiene und HACCP** im Bereich **Franchiserecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein Franchise-Lebensmittelbetrieb (Restaurant, Bäckerei, Catering) erhält von der Lebensmittelaufsicht einen Mangelbescheid wegen Hygieneverstössen. Der Franchisegeber fragt, ob er für Verstösse seiner Franchisenehmer haftet. Alternativ prüft ein Franchisenehmer, welche Hygienepflichten er als selbstständiger Betreiber trägt.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Lebensmittelunternehmer-Eigenschaft prüfen: Ist der Franchisenehmer nach Art. 3 Nr. 3 VO (EG) 178/2002 Lebensmittelunternehmer?
+2. HACCP-Konzept des Franchisesystems prüfen: Gibt es ein standardisiertes HACCP-System des Franchisegebers und ist es rechtssicher in das Systemhandbuch integriert?
+3. Hygiene-Audits prüfen: Führt der Franchisegeber regelmässige Hygienekontrollen durch?
+4. Behördlicher Mangelbescheid analysieren: Welche Normen wurden verletzt, was sind die Sanktionsfolgen?
+5. Haftungsabgrenzung im Franchisevertrag prüfen: Wer haftet im Aussenverhältnis (Verbraucher, Behörde) und wie ist das Innenverhältnis geregelt?
+6. Rückrufpflichten nach Art. 19 VO (EG) 178/2002: Wer ist im Franchisesystem für Rückrufe verantwortlich?
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Aufklärung, Vertrag, Handbuch, Marke und Wettbewerb trennen
-- Systembindung und Selbstständigkeit austarieren
-- Kartellrecht und AGB-Recht immer mitdenken
-- Beweis der Aufklärung und Prognosen sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- VO (EG) 852/2004: Hygieneverordnung für Lebensmittelunternehmer
+- VO (EG) 178/2002: Allgemeines Lebensmittelrecht, Rückverfolgbarkeit und Rückrufpflichten
+- LMHV (Lebensmittelhygieneverordnung): Nationale Umsetzung
+- Art. 5 VO (EG) 852/2004: HACCP-Pflicht für alle Lebensmittelunternehmer
+- §§ 823 Abs. 1 und 2 BGB: Deliktische Haftung des Franchisegebers bei Organisationsverschulden
+- § 42a LFGB: Strafvorschriften bei Inverkehrbringen gesundheitsgefährdender Lebensmittel
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Ist das HACCP-Konzept des Franchisesystems aktuell, vollständig und auf den konkreten Betriebstyp zugeschnitten?
+- Werden die HACCP-Massnahmen von den Franchisenehmern dokumentiert und archiviert?
+- Führt der Franchisegeber regelmässige Hygiene-Audits durch und dokumentiert er diese?
+- Besteht im Franchisevertrag eine klare Pflicht der Franchisenehmer zur HACCP-Dokumentation?
+- Hat der Franchisegeber ein Frühwarnsystem für Rückrufe und lebensmittelrechtliche Risiken im System?
+- Ist die Haftungsabgrenzung im Franchisevertrag so geregelt, dass der Franchisegeber nicht unbegrenzt für Verstösse der Franchisenehmer haftet?
+- Gibt es Schulungspflichten und -nachweise für Mitarbeiter zu Lebensmittelhygiene?
+
+## Fallstricke
+
+- Franchisegeber entwickelt HACCP-Konzept, aber Franchisenehmer setzt es nicht um; ohne Kontrollpflicht haftet der Franchisegeber möglicherweise mittelbar.
+- Rückruf wird zu spät eingeleitet, weil Kommunikationsketten zwischen Franchisegeber und Franchisenehmern nicht klar sind.
+- Behördliche Schliessung eines Standorts infiziert Systemruf aller Standorte; keine Reputationskrisenplanung.
+- HACCP-Dokumentation fehlt; bei Lebensmittelskandal fehlen entlastende Nachweise.
 
 ## Output
 
-- Franchise-Memo
-- Disclosure-Check
-- Vertragsredline
-- Kündigungsschreiben
-- Auditplan
-- Streitstrategie
+- HACCP-Checkliste für Franchise-Lebensmittelbetriebe
+- Hygiene-Audit-Protokoll (Vorlage)
+- Rückruf-Kommunikationsplan für Franchisesystem
+- Haftungsabgrenzungsklausel im Franchisevertrag
+
+## Quellen
+
+- https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004R0852
+- https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32002R0178
+- https://gesetze-im-internet.de/lmhv/
+- https://dejure.org/gesetze/BGB/823.html
+- https://gesetze-im-internet.de/lfgb/__42a.html
+- https://gesetze-im-internet.de/lfgb/
+## Vertiefung
+
+Das HACCP-Konzept (Hazard Analysis and Critical Control Points) nach Art. 5 VO (EG) 852/2004 ist für alle Lebensmittelunternehmer verpflichtend. Im Franchisekontext stellt sich die Frage, wer das HACCP-Konzept entwickelt (typischerweise der Franchisegeber als Systemstandard) und wer es implementiert und dokumentiert (der Franchisenehmer als selbstständiger Betreiber).
+
+Wenn ein Lebensmittelfranchise-System in einen Lebensmittelskandal verwickelt wird, droht neben den individuellen Haftungsrisiken des betroffenen Franchisenehmers auch eine Reputationsschäden für das gesamte System. Ein funktionierendes Rückruf- und Krisenmanagementprotokoll ist deshalb systemrelevant.
+
+## Praxishinweise
+
+- HACCP-Konzept im Systemhandbuch als Standard-Pflicht verankern; regelmässige Aktualisierung sicherstellen.
+- Hygiene-Schulungen für alle Franchisenehmer und deren Mitarbeiter mindestens jährlich durchführen und dokumentieren.
+- Rückruf-Kommunikationsbaum entwickeln: Franchisegeber informiert alle Franchisenehmer innerhalb von 2 Stunden.
+- Behördenbescheide und Schliessungsverfügungen einzelner Standorte sofort an den Franchisegeber melden.
+- Lebensmittelsicherheitssystem regelmässig intern auditieren; externe Zertifizierung (z. B. IFS Food) als Qualitätssignal.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.

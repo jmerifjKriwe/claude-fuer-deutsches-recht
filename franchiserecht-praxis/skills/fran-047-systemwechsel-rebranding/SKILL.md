@@ -1,46 +1,80 @@
 ---
 name: fran-047-systemwechsel-rebranding
-description: "Franchiserecht: Systemwechsel Rebranding mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Systemwechsel und Rebranding im Franchiserecht abwickeln: Vertragsrechtliche Folgen der Marken- und Systemänderung, Zustimmungserfordernisse der Franchisenehmer, AGB-Kontrolle von Rebranding-Klauseln, Investitionsschutz und Übergangsfristen."
 ---
 
-# Franchiserecht: Systemwechsel Rebranding
+# Franchiserecht: Systemwechsel und Rebranding
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Systemwechsel Rebranding** im Bereich **Franchiserecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein Franchisegeber möchte das gesamte System umbenennen (Rebranding), die Marke austauschen oder das Systemkonzept grundlegend ändern. Die Franchisenehmer haben unter der alten Marke investiert und fragen, ob sie den Wechsel akzeptieren müssen und welche Entschädigung ihnen zusteht.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Vertragsgrundlage für Systemänderungen prüfen: Hat der Franchisegeber ein einseitiges Änderungsrecht oder bedarf es der Zustimmung der Franchisenehmer?
+2. AGB-Kontrolle der Änderungsklausel: Ist das einseitige Rebranding-Recht nach § 308 Nr. 4 BGB wirksam?
+3. Investitionsschutz der Franchisenehmer: Welche Rebranding-Kosten hat der Franchisenehmer bereits getätigt und drohen neue erhebliche Umbaukosten?
+4. Verhältnismässigkeit prüfen: Ist das Rebranding durch legitime Systeminteressen gerechtfertigt?
+5. Übergangsfrist und Kostenbeteiligung: Welche Fristen und finanzielle Unterstützung bietet der Franchisegeber?
+6. Ausserordentliches Kündigungsrecht bei unzumutbarem Rebranding: Kann der Franchisenehmer aus wichtigem Grund kündigen?
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Aufklärung, Vertrag, Handbuch, Marke und Wettbewerb trennen
-- Systembindung und Selbstständigkeit austarieren
-- Kartellrecht und AGB-Recht immer mitdenken
-- Beweis der Aufklärung und Prognosen sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 308 Nr. 4 BGB: Verbot einseitiger Leistungsänderungsrechte ohne sachlichen Grund
+- § 307 BGB: Unangemessene Benachteiligung durch weitreichende Rebranding-Pflichten
+- § 242 BGB: Investitionsschutz durch Treu und Glauben; verhältnismässige Übergangsfristen
+- § 314 BGB: Ausserordentliche Kündigung bei unzumutbarem Rebranding
+- §§ 30 f. MarkenG: Folgen für Lizenzstruktur bei Markenwechsel
+- §§ 280 ff. BGB: Schadensersatz für Rebranding-Kosten bei unzulässiger Systemänderung
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Enthält der Franchisevertrag eine AGB-konforme Klausel, die Rebranding-Verpflichtungen der Franchisenehmer begründet?
+- Ist das Rebranding durch einen legitimen und proportionalen Systeminteresse gerechtfertigt?
+- Welche konkreten Kosten entstehen dem Franchisenehmer durch das Rebranding (Umbau, neue Ausstattung, Marketing)?
+- Wird dem Franchisenehmer eine angemessene Umsetzungsfrist und finanzielle Beteiligung angeboten?
+- Hat der Franchisenehmer ein ausserordentliches Kündigungsrecht bei erheblichen unzumutbaren Systemänderungen?
+- Sind die neuen Marken wirksam beim DPMA oder EUIPO eingetragen?
+- Gibt es ein Parallelnutzungsrecht für die alte Marke während der Übergangsphase?
+
+## Fallstricke
+
+- Einseitige Rebranding-Klausel ohne sachlichen Grund ist nach § 308 Nr. 4 BGB unwirksam; Franchisenehmer muss nicht umrüsten.
+- Rebranding-Kosten werden vollständig auf den Franchisenehmer abgewälzt; Gericht bewertet das als unangemessene Benachteiligung.
+- Neue Marke noch nicht eingetragen; Franchisenehmer trägt erhebliche CI-Kosten für eine ungesicherte Marke.
+- Übergangsfrist zu kurz; Franchisenehmer kann wegen laufender Mietvertragspflichten (Fassade, Schilder) nicht sofort umrüsten.
 
 ## Output
 
-- Franchise-Memo
-- Disclosure-Check
-- Vertragsredline
-- Kündigungsschreiben
-- Auditplan
-- Streitstrategie
+- Rebranding-Klausel (AGB-konformer Entwurf)
+- Kostenverteilungsplan Franchisegeber/Franchisenehmer
+- Zeitplan und Meilensteine für systemweites Rebranding
+- Ausserordentliches-Kündigungs-Analyse bei unzumutbarem Rebranding
+
+## Quellen
+
+- https://dejure.org/gesetze/BGB/308.html
+- https://dejure.org/gesetze/BGB/307.html
+- https://dejure.org/gesetze/BGB/242.html
+- https://dejure.org/gesetze/BGB/314.html
+- https://dejure.org/gesetze/MarkenG/30.html
+- https://dejure.org/gesetze/BGB/280.html
+## Vertiefung
+
+Rebranding-Massnahmen, die das gesamte Franchisesystem betreffen, sind eine erhebliche Herausforderung für die Systemkohärenz. Der BGH hat klargestellt, dass der Franchisegeber das System weiterentwickeln darf und muss; er darf aber die wirtschaftliche Existenzgrundlage des Franchisenehmers nicht einseitig verändern.
+
+Die Grenze zwischen zulässiger Systemevolution und unzulässigem einseitigem Leistungsänderungsrecht nach § 308 Nr. 4 BGB wird von Gerichten im Einzelfall bestimmt. Entscheidende Faktoren sind: Ausmass der Änderung, sachliche Begründung, Übergangsfrist und finanzielle Beteiligung des Franchisegebers an den Umbaukosten.
+
+## Praxishinweise
+
+- Rebranding-Kommunikation frühzeitig und transparent: Franchisenehmerbeirat einbeziehen, bevor das Rebranding öffentlich wird.
+- Umbaukosten-Kalkulation pro Standort erstellen und mit den Franchisenehmern teilen; Überraschungen vermeiden.
+- Übergangsfrist mindestens 12 bis 18 Monate; bei erheblichen Investitionen länger.
+- Neue Marke vor Ankündigung beim DPMA oder EUIPO anmelden; kein Rebranding auf eine nicht gesicherte Marke hin.
+- Parallelnutzungsperiode für alte Marke während der Übergangsphase vertraglich sichern.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.

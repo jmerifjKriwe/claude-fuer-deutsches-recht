@@ -1,46 +1,80 @@
 ---
 name: fran-046-umsatzmeldung-audit-und-nachzahlung
-description: "Franchiserecht: Umsatzmeldung Audit und Nachzahlung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Umsatzmeldepflichten und Royalty-Audit im Franchiserecht durchsetzen: Pflicht zur korrekten Umsatzreportierung, Revisionsrecht des Franchisegebers nach § 259 BGB, Nachzahlungsansprüche bei Falschmeldung, Verjährung und Beweislastverteilung."
 ---
 
-# Franchiserecht: Umsatzmeldung Audit und Nachzahlung
+# Franchiserecht: Umsatzmeldung, Audit und Nachzahlung
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Umsatzmeldung Audit und Nachzahlung** im Bereich **Franchiserecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein Franchisegeber stellt im Rahmen eines Jahresaudits fest, dass ein Franchisenehmer systematisch zu niedrige Umsatzzahlen gemeldet und damit zu geringe Lizenzgebühren bezahlt hat. Er möchte Nachzahlungsansprüche geltend machen. Ein Franchisenehmer bestreitet die Prüfungsergebnisse und verlangt ein transparentes Audit-Verfahren.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Umsatzmeldepflicht im Franchisevertrag prüfen: Zeitraum, Form, Basis (Netto-/Bruttoumsatz), Definition des Umsatzbegriffs.
+2. Revisionsrecht des Franchisegebers: Ist ein Recht zur Einsicht in Bücher und Kassendaten vertraglich vereinbart?
+3. Buchhaltungsunterlagen einfordern: Umsatzsteuervoranmeldungen, Jahresabschlüsse, POS-Kassendaten als Vergleichsgrundlage.
+4. Nachzahlungsanspruch berechnen: Differenz zwischen gemeldeten und tatsächlichen Umsätzen, multipliziert mit der Royalty-Rate.
+5. Verzugskonsequenzen prüfen: Verzugszinsen nach § 288 BGB; Vertragsstrafenklausel für Falschmeldungen.
+6. Verjährung prüfen: Regelverjährung nach §§ 195 und 199 BGB; 3 Jahre ab Schluss des Jahres der Entstehung.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Aufklärung, Vertrag, Handbuch, Marke und Wettbewerb trennen
-- Systembindung und Selbstständigkeit austarieren
-- Kartellrecht und AGB-Recht immer mitdenken
-- Beweis der Aufklärung und Prognosen sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- §§ 259 ff. BGB: Rechnungslegungspflichten; Auskunfts- und Einsichtsrecht
+- § 242 BGB: Kooperationspflicht bei der Umsatzmeldung
+- § 288 BGB: Verzugszinsen bei verspäteter Royalty-Zahlung
+- §§ 195 und 199 BGB: Verjährung des Nachzahlungsanspruchs
+- §§ 266a und 263 StGB: Strafrechtliche Konsequenzen bewusster Falschangaben
+- § 314 BGB: Kündigung aus wichtigem Grund bei systeatischer Falschmeldung
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Ist die Umsatzdefinition im Franchisevertrag klar und schliesst sie Umsatzmanipulationsmöglichkeiten aus (z. B. Skonti, Retouren, Mitarbeitereinkäufe)?
+- Hat der Franchisegeber ein vertragliches Recht zur Bucheinsicht und zur Prüfung durch einen externen Wirtschaftsprüfer?
+- Sind die im Audit festgestellten Differenzen klar und nachvollziehbar dokumentiert?
+- Besteht ein Vertragsstrafentatbestand für wissentliche Falschmeldungen?
+- Liegt der Verdacht auf systematischen Betrug vor und sind strafrechtliche Schritte erforderlich?
+- Sind Nachzahlungsansprüche aus den letzten 3 Jahren noch nicht verjährt?
+- Hat der Franchisenehmer das Recht auf eigenes Gegengutachten und ist dieses im Verfahren berücksichtigt?
+
+## Fallstricke
+
+- Umsatzdefinition ist unscharf; Franchisenehmer beruft sich auf zulässige Abzüge, die den Nettoumsatz erheblich mindern.
+- Revisionsrecht ohne klare Verfahrensregeln führt zu langwierigen Streitigkeiten über den Umfang der Prüfung.
+- Verjährung älterer Nachzahlungsansprüche wird übersehen; Ansprüche aus Jahren vor dem Audit sind bereits verjährt.
+- Strafanzeige wegen Betrugs eskaliert den Streit und zerstört die Geschäftsbeziehung ohne Mehrwert.
 
 ## Output
 
-- Franchise-Memo
-- Disclosure-Check
-- Vertragsredline
-- Kündigungsschreiben
-- Auditplan
-- Streitstrategie
+- Nachzahlungsberechnung (tabellarisch)
+- Nachzahlungsforderungsschreiben
+- Audit-Verfahrensordnung (Franchisegeber-Perspektive)
+- Verjährungs-Checkliste für Royalty-Ansprüche
+
+## Quellen
+
+- https://dejure.org/gesetze/BGB/259.html
+- https://dejure.org/gesetze/BGB/242.html
+- https://dejure.org/gesetze/BGB/288.html
+- https://dejure.org/gesetze/BGB/195.html
+- https://gesetze-im-internet.de/stgb/__263.html
+- https://dejure.org/gesetze/BGB/314.html
+## Vertiefung
+
+Die Umsatzmeldepflicht ist für das Franchisesystem wirtschaftlich zentral: Die Lizenzgebühren basieren typischerweise auf dem gemeldeten Umsatz. Systematische Falschmeldungen können den Franchisegeber um erhebliche Beträge schädigen und bilden einen wichtigen Grund für eine fristlose Kündigung.
+
+Für den Nachweis von Falschmeldungen nutzt der Franchisegeber typischerweise POS-Kassendata-Abgleiche, Bankkontoeinsicht (bei entsprechender Klausel) oder externe Wirtschaftsprüfer. Der Nachweis ist oft schwierig, weil der Franchisenehmer die Bücher führt.
+
+## Praxishinweise
+
+- Umsatzbegriff im Franchisevertrag durch Beispiele und Ausnahmen (Retouren, Steuern, Boni) präzisieren.
+- POS-Echtzeit-Zugriff des Franchisegebers als Früherkennungssystem für Meldungsabweichungen nutzen.
+- Revisionsrecht auf externe Wirtschaftsprüfer ausweiten; Kosten bei positiv festgestellten Falschmeldungen dem Franchisenehmer auferlegen.
+- Vertragsstrafe für vorsätzliche Falschmeldung als schwere Pflichtverletzung qualifizieren; kein Abmahnungserfordernis.
+- Strafrechtliches Risiko des Franchisenehmers (§ 263 StGB, Betrug) bei systematischen Falschmeldungen kommunizieren.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.

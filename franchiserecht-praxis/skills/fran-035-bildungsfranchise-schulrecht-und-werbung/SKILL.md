@@ -1,46 +1,81 @@
 ---
 name: fran-035-bildungsfranchise-schulrecht-und-werbung
-description: "Franchiserecht: Bildungsfranchise Schulrecht und Werbung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Bildungsfranchise rechtlich prüfen: Schulrecht und staatliche Genehmigungspflichten, Werbebeschränkungen im Bildungsbereich, Curriculum-Schutz als Know-how, Verbraucherschutz bei Kursverträgen und Haftung für Bildungsversprechen."
 ---
 
-# Franchiserecht: Bildungsfranchise Schulrecht und Werbung
+# Franchiserecht: Bildungsfranchise, Schulrecht und Werbung
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Bildungsfranchise Schulrecht und Werbung** im Bereich **Franchiserecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein Bildungsfranchise (Nachhilfeschule, Sprachkursanbieter, Online-Lernplattform) fragt, welche staatlichen Genehmigungen für Franchisenehmers erforderlich sind, wie das Curriculum als Know-how geschützt werden kann und welche Werbebeschränkungen im Bildungsbereich gelten.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Genehmigungserfordernis prüfen: Benötigt der Bildungsfranchise-Betrieb eine staatliche Zulassung (Schulgesetz der Länder, Weiterbildungsgesetze)?
+2. Curriculum und Lehrmaterial als Know-how schützen: Vertraulichkeitsvereinbarungen, GeschGehG-Anmeldung, Urheberrecht.
+3. Werbung auf Bildungsversprechen prüfen: Irreführung durch übertriebene Lernerfolgsversprechen nach §§ 5 und 5a UWG.
+4. Kursverträge mit Verbrauchern: AGB-Kontrolle nach § 309 Nr. 9 BGB für Kurslaufzeiten, Widerrufsrecht.
+5. Haftung für Bildungsqualität: Haftet der Franchisegeber für schlechte Lehrerqualität beim Franchisenehmer?
+6. Datenschutz für Minderjährige: Besondere Anforderungen für Kundendaten von Minderjährigen (Art. 8 DSGVO).
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Aufklärung, Vertrag, Handbuch, Marke und Wettbewerb trennen
-- Systembindung und Selbstständigkeit austarieren
-- Kartellrecht und AGB-Recht immer mitdenken
-- Beweis der Aufklärung und Prognosen sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Schulgesetze der Länder: Genehmigungspflichten für Schulträger und Nachhilfeeinrichtungen
+- §§ 2 ff. GeschGehG: Schutz von Curriculum und Lehrmaterial als Geschäftsgeheimnis
+- §§ 5 und 5a UWG: Irreführende Werbung und Unterlassungsrecht
+- § 309 Nr. 9 BGB: Klauselverbot für überlange Kurslaufzeiten
+- Art. 8 DSGVO: Datenschutz für Kinder (unter 16 Jahren Einwilligung der Eltern erforderlich)
+- §§ 355 ff. BGB: Widerrufsrecht für Online-Kursverträge
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Benötigen Franchisenehmer länderspezifische Genehmigungen für Bildungseinrichtungen?
+- Ist das Curriculum und Lehrmaterial als Geschäftsgeheimnis i.S.d. GeschGehG qualifiziert und entsprechend gesichert?
+- Enthalten Werbematerialien überprüfbare Leistungsversprechen oder unzulässige Erfolgsgarantien?
+- Halten Kursverträge die AGB-Anforderungen nach § 309 Nr. 9 BGB (maximal 2 Jahre Laufzeit) ein?
+- Besteht ein Widerrufsrecht für Online-Kursverträge nach §§ 355 ff. BGB und ist es korrekt implementiert?
+- Werden Daten Minderjähriger datenschutzkonform nach Art. 8 DSGVO mit elterlicher Einwilligung verarbeitet?
+- Ist die Haftungsabgrenzung zwischen Franchisegeber (Systemstandard) und Franchisenehmer (Ausführungsqualität) klar?
+
+## Fallstricke
+
+- Bildungsfranchise startet ohne länderspezifische Zulassung; Behörde schliesst Betrieb.
+- Curriculum-Schutz fehlt; ehemaliger Franchisenehmer kopiert das Lernkonzept und eröffnet Konkurrenz.
+- Werbung verspricht garantierten Lernerfolg; UWG-Abmahnung durch Wettbewerber.
+- Kursvertragslaufzeit von 3 Jahren verstösst gegen § 309 Nr. 9 BGB; gesamte AGB-Klausel nichtig.
+- Elterliche Einwilligung für Verarbeitung von Daten Minderjähriger fehlt; DSGVO-Bussgeld.
 
 ## Output
 
-- Franchise-Memo
-- Disclosure-Check
-- Vertragsredline
-- Kündigungsschreiben
-- Auditplan
-- Streitstrategie
+- Genehmigungscheck für Bildungsfranchise (bundeslandspezifisch)
+- Know-how-Schutzkonzept für Curriculum
+- Werbe-Compliance-Leitfaden
+- AGB-konforme Kursvertragsmuster
+
+## Quellen
+
+- https://gesetze-im-internet.de/geschgehg/
+- https://dejure.org/gesetze/UWG/5.html
+- https://dejure.org/gesetze/BGB/309.html
+- https://gesetze-im-internet.de/dsgvo/art_8.html
+- https://dejure.org/gesetze/BGB/355.html
+- https://gesetze-im-internet.de/bgb/__307.html
+## Vertiefung
+
+Bildungsfranchise-Systeme operieren in einem regulierten Umfeld, das sowohl Bundesrecht als auch Landesrecht umfasst. Die Schulgesetze der Länder unterscheiden sich erheblich in ihren Anforderungen an private Bildungseinrichtungen; was in einem Bundesland genehmigungsfrei ist, kann in einem anderen eine staatliche Zulassung erfordern.
+
+Die Werbung mit Lernerfolgen ist nach dem UWG besonders sensitiv: Versprechen wie Garantierter Schulabschluss in 6 Monaten können als irreführende Geschäftspraxis nach § 5 UWG eingestuft werden. Zulässig sind nachweisbare Durchschnittswerte aus repräsentativen Kursverläufen.
+
+## Praxishinweise
+
+- Vor Franchisebeginn in jedem Bundesland, in dem Franchisenehmer tätig werden sollen, die spezifischen Genehmigungsanforderungen recherchieren.
+- Werbematerialien rechtlich prüfen lassen; jede Erfolgsversprechen auf Nachweisbarkeit testen.
+- Curriculum als Schöpfung des Urheberrechts schützen; NDA für alle Trainer und Lehrenden.
+- Online-Lernplattform: Widerrufsrecht bei Online-Kursverträgen nach §§ 355 ff. BGB implementieren.
+- Datenschutz für minderjährige Lernende: Art. 8 DSGVO; elterliche Einwilligung für Kinder unter 16 Jahren.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.

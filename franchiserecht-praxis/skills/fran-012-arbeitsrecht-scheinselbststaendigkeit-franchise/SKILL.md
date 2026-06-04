@@ -1,46 +1,80 @@
 ---
 name: fran-012-arbeitsrecht-scheinselbststaendigkeit-franchise
-description: "Franchiserecht: Arbeitsrecht Scheinselbstständigkeit Franchise mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Scheinselbstständigkeit von Franchisenehmern prüfen: Abgrenzung selbstständiger Unternehmer vs. Arbeitnehmer oder arbeitnehmerähnliche Person nach § 84 HGB. Sozialversicherungsrecht, Statusfeststellungsverfahren DRV und arbeitsrechtliche Konsequenzen."
 ---
 
-# Franchiserecht: Arbeitsrecht Scheinselbstständigkeit Franchise
+# Franchiserecht: Arbeitsrecht und Scheinselbstständigkeit im Franchise
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Arbeitsrecht Scheinselbstständigkeit Franchise** im Bereich **Franchiserecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein Franchisenehmer oder die Deutsche Rentenversicherung stellt die selbstständige Stellung des Franchisenehmers in Frage. Das Franchisesystem ist so stark reguliert (feste Arbeitszeiten, Weisungen, ausschliessliche Tätigkeit für den Franchisegeber), dass ein Beschäftigungsverhältnis oder arbeitnehmerähnliche Abhängigkeit vorliegen könnte.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Tatsächliche Selbstständigkeitskriterien prüfen: Eigenes unternehmerisches Risiko, eigene Betriebsmittel, mehrere Auftraggeber, freie Zeiteinteilung?
+2. Vertragsgestaltung und gelebte Praxis gegenüberstellen: Vertragstext sagt Selbstständigkeit, aber faktisch besteht Weisungsgebundenheit?
+3. Statusfeststellungsverfahren bei der Deutschen Rentenversicherung Bund (§ 7a SGB IV) prüfen: Lohnt Antragsstellung?
+4. Wirtschaftliche Abhängigkeit nach § 84 Abs. 1 S. 2 HGB prüfen: Arbeitnehmerähnliche Person mit Schutzbedürftigkeit?
+5. Konsequenzen im Schlechtfall abschätzen: Sozialversicherungsnachzahlungen, Lohnsteuer, Mindesturlaub.
+6. Vertragsgestaltung optimieren: Welche Klauseln erhöhen die rechtliche Selbstständigkeit des Franchisenehmers?
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Aufklärung, Vertrag, Handbuch, Marke und Wettbewerb trennen
-- Systembindung und Selbstständigkeit austarieren
-- Kartellrecht und AGB-Recht immer mitdenken
-- Beweis der Aufklärung und Prognosen sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 611a BGB: Arbeitnehmerbegriff; Weisungsgebundenheit als Hauptmerkmal
+- § 84 HGB: Selbstständige Handelsvertreter; arbeitnehmerähnliche Person
+- § 7 SGB IV: Beschäftigungsverhältnis; Vermutungsregelung
+- § 7a SGB IV: Statusfeststellungsverfahren bei der DRV Bund
+- § 266a StGB: Vorenthalten von Arbeitsentgelt (strafrechtliche Dimension)
+- BSG-Rechtsprechung zum Beschäftigungsbegriff im Franchisekontext
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Trägt der Franchisenehmer ein echtes unternehmerisches Verlustrisiko (Kapitalinvestition, Mietvertrag, Personalverantwortung)?
+- Ist der Franchisenehmer frei in der Gestaltung seiner Arbeitszeit und seines Betriebsablaufs oder unterliegt er strikten Vorgaben des Franchisegebers?
+- Bezieht der Franchisenehmer mehr als 5/6 seines Umsatzes aus dem Franchisesystem (wirtschaftliche Abhängigkeit)?
+- Kann der Franchisenehmer weitere Mitarbeiter einstellen und beschäftigen?
+- Sind die im Vertrag genannten Weisungsrechte des Franchisegebers zur Qualitätssicherung sachlich begründet und nicht exzessiv?
+- Liegt bereits ein Statusfeststellungsverfahren vor oder ist eines zu erwarten?
+- Besteht strafrechtliches Risiko nach § 266a StGB, wenn nachträglich Beschäftigung festgestellt wird?
+
+## Fallstricke
+
+- Franchisegeber gestalten Verträge mit Selbstständigkeitsklauseln, leben aber de facto ein Arbeitsverhältnis.
+- Statusfeststellungsverfahren rückwirkend: Sozialversicherungsbeiträge für bis zu 4 Jahre nachzuzahlen.
+- Arbeitnehmerähnlichkeit löst Schutzrechte aus (Urlaubsanspruch, Entgeltfortzahlung), ohne dass ein formeller Arbeitsvertrag geschlossen wurde.
+- Franchisenehmer mit nur einem Franchisegeber als einzigem Auftraggeber ist regelmässig als wirtschaftlich abhängig einzustufen.
 
 ## Output
 
-- Franchise-Memo
-- Disclosure-Check
-- Vertragsredline
-- Kündigungsschreiben
-- Auditplan
-- Streitstrategie
+- Selbstständigkeits-Risikoanalyse (Ampelbewertung)
+- Empfehlungen für vertragsgestaltungsseitige Risikominimierung
+- Muster-Antrag auf Statusfeststellung (§ 7a SGB IV)
+- Verteidigungsstrategie bei laufendem Betriebsprüfungsverfahren
+
+## Quellen
+
+- https://dejure.org/gesetze/BGB/611a.html
+- https://dejure.org/gesetze/HGB/84.html
+- https://gesetze-im-internet.de/sgb_4/__7.html
+- https://gesetze-im-internet.de/sgb_4/__7a.html
+- https://gesetze-im-internet.de/stgb/__266a.html
+- https://openjur.de/
+## Vertiefung
+
+Das Bundessozialgericht (BSG) hat in mehreren Entscheidungen klargestellt, dass die Scheinselbstständigkeit nach § 7 SGB IV nicht allein durch vertragliche Gestaltung ausgeschlossen werden kann. Massgeblich ist die tatsächlich gelebte Realität der Zusammenarbeit. Franchisesysteme mit stark standardisierten Abläufen, vorgegebenen Öffnungszeiten und ohne echte unternehmerische Entscheidungsfreiheit des Franchisenehmers sind besonders gefährdet.
+
+Das Statusfeststellungsverfahren nach § 7a SGB IV gibt die Möglichkeit, proaktiv Klarheit zu schaffen. Eine positive Feststellung der Selbstständigkeit schützt nicht dauerhaft; bei wesentlicher Änderung der Umstände kann sie hinfällig werden.
+
+## Praxishinweise
+
+- Franchiseverträge mit Weisungsrechtskatalog kritisch prüfen: Welche Anweisungen sind Systemstandard, welche echte Weisungen?
+- Franchisenehmer sollte nachweislich eigene Arbeitnehmer beschäftigen und eigene Investitionsentscheidungen treffen können.
+- Statusfeststellungsverfahren frühzeitig stellen, nicht erst nach Betriebsprüfung.
+- § 266a StGB beachten: Vorenthalten von Arbeitsentgelt bei nachträglicher Beschäftigungsfeststellung ist strafbar.
+- Sozialversicherungsnachzahlungen können 4 Jahre rückwirkend erhoben werden; bei Vorsatz ohne zeitliche Grenze.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.

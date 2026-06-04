@@ -1,46 +1,80 @@
 ---
 name: fran-026-kartellrechtlicher-informationsaustausch-im-system
-description: "Franchiserecht: Kartellrechtlicher Informationsaustausch im System mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Informationsaustausch im Franchisesystem kartellrechtlich prüfen: zulässiger Systemdatenaustausch vs. verbotene Koordination nach § 1 GWB und Art. 101 AEUV. Umsatzdaten, Preisinformationen, Kapazitätsdaten und Compliance-Konzepte für Franchisenehmer-Treffen."
 ---
 
 # Franchiserecht: Kartellrechtlicher Informationsaustausch im System
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Kartellrechtlicher Informationsaustausch im System** im Bereich **Franchiserecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein Franchisesystem tauscht regelmässig Umsatzdaten, Preislisten und Kapazitätsinformationen zwischen Franchisegeber und Franchisenehmern aus. Das Bundeskartellamt fragt nach, ob dieser Informationsaustausch eine verbotene Koordination zwischen Wettbewerbern darstellt.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Informationsflüsse im System kartieren: Welche Daten fliessen von Franchisenehmern zum Franchisegeber und zurück zu anderen Franchisenehmern?
+2. Wettbewerber-Eigenschaft prüfen: Sind die Franchisenehmer untereinander horizontale Wettbewerber (z. B. im gleichen Marktgebiet überschneidend)?
+3. Sensitivität der ausgetauschten Daten bewerten: Preisdaten, Kapazitätsdaten, Umsatzdaten, Kundendaten als besonders sensibel.
+4. Aggregationsgrad prüfen: Werden Rohdaten oder aggregierte Systemdurchschnittswerte ausgetauscht?
+5. Zeitnähe und Aktualität der Daten: Historische Daten (über 1 Jahr alt) sind weniger problematisch als Echtzeit-Preisdaten.
+6. Compliance-Massnahmen für Franchisenehmertreffen und Newsletter entwickeln.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Aufklärung, Vertrag, Handbuch, Marke und Wettbewerb trennen
-- Systembindung und Selbstständigkeit austarieren
-- Kartellrecht und AGB-Recht immer mitdenken
-- Beweis der Aufklärung und Prognosen sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Art. 101 AEUV: Kartellverbot für horizontale und vertikale Informationsaustauschpraktiken
+- § 1 GWB: Kartellverbot auf nationaler Ebene
+- Europäische Kommission, Leitlinien zu horizontalen Kooperationsvereinbarungen 2023: Informationsaustauschabschnitt
+- Art. 4 lit. a Vertikal-GVO EU 2022/720: Preiskoordination als Kernbeschränkung
+- § 81 GWB: Bussgeldrahmen bei kartellrechtswidrigem Informationsaustausch
+- BGH und EuGH-Rechtsprechung zum Hub-and-Spoke-Kartell
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Sind die Franchisenehmer auf dem gleichen Markt tätig und damit horizontale Wettbewerber?
+- Werden sensible, zukunftsgerichtete oder Echtzeit-Preisdaten zwischen Franchisenehmern direkt oder indirekt über den Franchisegeber ausgetauscht?
+- Liegt ein Hub-and-Spoke-Kartell vor: Franchisegeber als Informationsverteiler zwischen den Franchisenehmern?
+- Besteht ein legitimer Systemzweck für den Datenaustausch (z. B. Qualitätssicherung, Benchmark, Systemoptimierung)?
+- Werden Daten hinreichend aggregiert und zeitversetzt veröffentlicht, um Wettbewerbsbedenken zu minimieren?
+- Hat das Unternehmen ein Kartell-Compliance-Programm für Franchisenehmertreffen und Systemkommunikation?
+- Liegt ein Wettbewerbsbehördenverfahren vor oder ist eines zu erwarten?
+
+## Fallstricke
+
+- Regelmässige Weitergabe von Preislisten und Umsatzdaten durch den Franchisegeber an alle Franchisenehmer kann als Hub-and-Spoke-Kartell gewertet werden.
+- Franchisenehmertreffen ohne Kartell-Compliance-Regeln enden in unbeabsichtigten Preisabsprachen.
+- Benchmarking-Programme, die Echtzeitpreise vergleichen, sind wettbewerbsrechtlich sehr riskant.
+- Interne Kommunikation zu Preisen kann als Beweis für abgestimmtes Verhalten herangezogen werden.
 
 ## Output
 
-- Franchise-Memo
-- Disclosure-Check
-- Vertragsredline
-- Kündigungsschreiben
-- Auditplan
-- Streitstrategie
+- Informationsaustausch-Compliance-Konzept
+- Gesprächsagenda für Franchisenehmertreffen (kartellrechtlich sicher)
+- Risikoanalyse bestehender Datenaustauschpraktiken
+- Schulungsmaterial für Franchisegeber-Mitarbeiter
+
+## Quellen
+
+- https://dejure.org/gesetze/GWB/1.html
+- https://dejure.org/gesetze/GWB/81.html
+- https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
+- https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12012E101
+- https://gesetze-im-internet.de/gwb/__1.html
+- https://www.bgh.de/
+## Vertiefung
+
+Hub-and-Spoke-Kartelle entstehen, wenn ein Vermittler (Hub) wettbewerbssensible Informationen zwischen horizontal konkurrierenden Unternehmen (Spokes) weitergibt, auch wenn diese sich nicht direkt abgestimmt haben. Der Franchisegeber als zentraler Informationsknoten kann ungewollt zur Hub-Funktion werden.
+
+Die Europäische Kommission hat in ihren revidierten Leitlinien zu horizontalen Kooperationsvereinbarungen (2023) den Informationsaustausch detailliert geregelt. Danach sind aggregierte und historische Daten grundsätzlich weniger bedenklich als disaggregierte Echtzeitdaten zu Preisen oder Kapazitäten.
+
+## Praxishinweise
+
+- Franchisenehmertreffen-Agenden vorab auf kartellrechtlich sensible Themen prüfen; Preise, Kapazitäten und Kundendaten nie diskutieren.
+- CRM-System-Zugriffsrechte so konfigurieren, dass Franchisenehmer keine Daten anderer Franchisenehmer sehen können.
+- Newsletter und Rundschreiben mit Markt- oder Preisinformationen vor Versand von Kartellrechtsbeauftragten freigeben lassen.
+- Franchisenehmer-Benchmarks nur in aggregierter, anonymisierter Form und mit zeitlicher Verzögerung kommunizieren.
+- Compliance-Schulungen für alle Mitarbeiter, die Kontakt zu Franchisenehmern haben, jährlich durchführen.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.

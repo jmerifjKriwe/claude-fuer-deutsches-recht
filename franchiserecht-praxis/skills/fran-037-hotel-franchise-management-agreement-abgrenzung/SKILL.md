@@ -1,46 +1,80 @@
 ---
 name: fran-037-hotel-franchise-management-agreement-abgrenzung
-description: "Franchiserecht: Hotel Franchise Management Agreement Abgrenzung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Hotel-Franchise vom Managementvertrag abgrenzen: Selbstständigkeit des Hotelbetreibers vs. Beauftragungsstruktur, markenrechtliche Lizenz, Umsatzbeteiligung statt Managementfee und haftungsrechtliche Konsequenzen der Vertragsgestaltung."
 ---
 
-# Franchiserecht: Hotel Franchise Management Agreement Abgrenzung
+# Franchiserecht: Hotel-Franchise und Managementvertrag – Abgrenzung
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Hotel Franchise Management Agreement Abgrenzung** im Bereich **Franchiserecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein Hotelbesitzer möchte unter einer bekannten Hotelmarke operieren und fragt, ob er einen Franchise- oder einen Managementvertrag schliessen soll. Ein Hotelbetreiber mit bestehendem Managementvertrag fragt, ob seine Vertragsstruktur die unternehmerische Selbstständigkeit ausreichend wahrt oder ob er faktisch als Arbeitnehmer oder Handelsvertreter einzustufen ist.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Vertragsstruktur klassifizieren: Franchisevertrag (Selbstständigkeit, Markennutzung, Lizenz), Managementvertrag (Beauftragter führt Hotel für Eigentümer) oder Hybrid?
+2. Unternehmerisches Risiko prüfen: Trägt der Hotelbetreiber eigenes wirtschaftliches Risiko oder wird er für Managementleistungen bezahlt?
+3. Markenrechte klären: Ist die Hotelmarke lizenziert (Franchise) oder wird sie als Teil des Managements bereitgestellt?
+4. Vergütungsstruktur analysieren: Umsatzbasierte Lizenzgebühr (Franchise-typisch) vs. Managementfee plus Incentive (Management-typisch)?
+5. Weisungsstruktur prüfen: Wie weitgehend bestimmt die Hotelkette den Betrieb des Hoteleigentümers?
+6. Haftungsabgrenzung zwischen Hoteleigentümer und Hotelkette klären.
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Aufklärung, Vertrag, Handbuch, Marke und Wettbewerb trennen
-- Systembindung und Selbstständigkeit austarieren
-- Kartellrecht und AGB-Recht immer mitdenken
-- Beweis der Aufklärung und Prognosen sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- § 611a BGB: Arbeitnehmereigenschaft; Weisungsabhängigkeit als Kriterium
+- §§ 84 ff. HGB: Handelsvertreter; wirtschaftliche Abhängigkeit
+- §§ 14 ff. MarkenG: Markenlizenzierung im Hotelfranchise
+- §§ 631 ff. BGB: Werkvertrag für Managementleistungen
+- § 89b HGB analog: Ausgleichsanspruch bei Vertragsende (Franchise) vs. Werkvertragsliquidation (Management)
+- §§ 305 ff. BGB: AGB-Kontrolle von Hotelfranchise- und Managementvertragsklauseln
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Trägt der Hotelbetreiber eigenes Kapital- und Betriebsrisiko (Franchise-Indiz) oder wird er für seine Managementleistung vergütet (Managementvertrag)?
+- Ist die Marke auf den Hotelbetreiber lizenziert oder stellt die Kette sie für die Dauer des Managementvertrags bereit?
+- Ist der Hotelbetreiber frei in der Einstellung von Personal oder bestimmt die Kette das Personal (Weisungsindiz)?
+- Greift ein Ausgleichsanspruch nach § 89b HGB analog bei Vertragsende (eher bei Franchisestruktur)?
+- Enthält der Managementvertrag AGB, die der Inhaltskontrolle nach §§ 307 ff. BGB standhalten?
+- Wer haftet gegenüber Hotelgästen bei Leistungsmängeln oder Personenschäden?
+- Ist die steuerliche Einordnung der Vergütung klar (Lizenzeinkünfte vs. Dienstleistungseinkünfte)?
+
+## Fallstricke
+
+- Managementvertrag enthält so starke Weisungsrechte der Kette, dass der Hotelbetreiber faktisch abhängig beschäftigt ist.
+- Markennutzungsrecht endet mit dem Managementvertrag; Hotelbetreiber muss Rebranding ohne Übergangsfrist durchführen.
+- Ausgleichsanspruch nach § 89b HGB analog wird übersehen, weil der Vertrag als Managementvertrag bezeichnet ist, aber Franchisestruktur aufweist.
+- Haftungsabgrenzung gegenüber Gästen ist unklar; bei Personenschäden haften Hotelkette und -betreiber gesamtschuldnerisch.
 
 ## Output
 
-- Franchise-Memo
-- Disclosure-Check
-- Vertragsredline
-- Kündigungsschreiben
-- Auditplan
-- Streitstrategie
+- Vertragsstruktur-Analyse (Franchise vs. Management)
+- Entscheidungshilfe: Wann Franchise, wann Management?
+- Haftungsabgrenzungsklausel
+- Ausgleichsanspruchs-Prüfung bei Vertragsende
+
+## Quellen
+
+- https://dejure.org/gesetze/BGB/611a.html
+- https://dejure.org/gesetze/HGB/84.html
+- https://dejure.org/gesetze/MarkenG/14.html
+- https://dejure.org/gesetze/HGB/89b.html
+- https://dejure.org/gesetze/BGB/307.html
+- https://dejure.org/gesetze/BGB/631.html
+## Vertiefung
+
+Die Abgrenzung zwischen Franchise- und Managementvertrag im Hotelbereich ist für die Haftungsstruktur entscheidend: Im Managementvertrag führt der Manager (die Hotelkette) das Hotel für Rechnung des Eigentümers und trägt kein eigenes wirtschaftliches Risiko; im Franchise-Modell trägt der Franchisenehmer als Hotelbetreiber das vollständige unternehmerische Risiko.
+
+Die Rechtsprechung zum Ausgleichsanspruch nach § 89b HGB analog ist im Hotelbereich wenig entwickelt. Es kommt entscheidend darauf an, ob der Hotelbetreiber einen aufgebauten Kundenstamm hat, von dem die Hotelkette nach Vertragsende profitiert. Bei reinen Management-Verhältnissen ist dies regelmässig nicht der Fall.
+
+## Praxishinweise
+
+- Vertragsstruktur klar dokumentieren: Wer trägt das unternehmerische Risiko und wer profitiert vom Kundenstamm?
+- Markenlizenzkette im Hotelbereich sorgfältig gestalten; Markenrecht zwischen Hotelkette und Hotelbetreiber klar zuordnen.
+- Managementgebühren und Incentive-Fee klar von Franchise-Royalties unterscheiden; steuerliche Behandlung unterscheidet sich.
+- Kündigungsschutz bei langjährigen Investitionen des Hoteleigentümers durch Mindestlaufzeiten sichern.
+- Haftungsabgrenzung gegenüber Hotelgästen vertraglich regeln; Gesamtschuldnerschaft vermeiden.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.

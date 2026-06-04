@@ -1,46 +1,80 @@
 ---
 name: fran-030-bau-und-ladenbau-pflichten
-description: "Franchiserecht: Bau und Ladenbau Pflichten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Bau- und Ladenbau-Pflichten im Franchisesystem regeln: Pflichtausstattung nach Systemhandbuch, Kostenverteilung zwischen Franchisegeber und Franchisenehmer, Baugenehmigungsrisiken, Gewährleistungsrecht und Investitionsschutz bei Systemänderungen."
 ---
 
-# Franchiserecht: Bau und Ladenbau Pflichten
+# Franchiserecht: Bau- und Ladenbau-Pflichten
 
-## Aufgabe
+## Mandantenfall
 
-Dieser Skill bearbeitet **Bau und Ladenbau Pflichten** im Bereich **Franchiserecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein Franchisenehmer hat seinen Standort nach Systemvorgaben ausgebaut. Der Franchisegeber ändert die CI-Anforderungen und verlangt einen kostspieligen Umbau. Alternativ streiten beide Seiten darüber, wer die Baukosten für den Erstausbau trägt und wer haftet, wenn der Ausbau mangelhaft ist.
 
-## Kaltstart in 6 Fragen
+## Erste Schritte
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. Ladenbau-Pflichten aus Franchisevertrag und Systemhandbuch extrahieren: Pflichtausstattung, Möblierung, Beleuchtung, Fassade.
+2. Kostenverteilungsklausel prüfen: Trägt der Franchisenehmer alle Erstausbaukosten oder gibt es Zuschüsse des Franchisegebers?
+3. Baugenehmigungsrisiko zuordnen: Wer ist gegenüber der Baubehörde verantwortlich?
+4. Gewährleistungsrecht prüfen: Hat der Franchisenehmer Ansprüche gegen den Bauunternehmer und was gilt für Systemausstattung des Franchisegebers?
+5. Umbau-/Modernisierungspflichten bei Systemänderungen: Muss der Franchisenehmer auf eigene Kosten umrüsten und in welcher Frist?
+6. Investitionsschutz: Kann der Franchisenehmer Ersatz für verlorene Investitionen verlangen, wenn das System kurz nach dem Ausbau geändert wird?
 
-## Prüfprogramm
+## Rechtsrahmen
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Aufklärung, Vertrag, Handbuch, Marke und Wettbewerb trennen
-- Systembindung und Selbstständigkeit austarieren
-- Kartellrecht und AGB-Recht immer mitdenken
-- Beweis der Aufklärung und Prognosen sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- §§ 631 ff. BGB: Werkvertragsrecht für Bau- und Ladenbauarbeiten
+- § 307 BGB: AGB-Kontrolle von Umbau- und Modernisierungspflichten im Franchisevertrag
+- §§ 634 ff. BGB: Gewährleistungsrechte bei mangelhafter Ausführung
+- § 242 BGB: Investitionsschutz durch Treu und Glauben; verhältnismässige Umbauanforderungen
+- §§ 3 ff. BauGB: Öffentlich-rechtliche Baugenehmigungsanforderungen
+- §§ 280 ff. BGB: Schadensersatz bei Verletzung der Bau-/Ausstattungspflichten
 
-## Typische Fallen
+## Prüfraster
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Sind die Ladenbau-Pflichten im Systemhandbuch klar, spezifisch und nachvollziehbar definiert?
+- Enthält der Franchisevertrag eine klare Kostenverteilungsregel für Erstausbau und Modernisierungen?
+- Wer hat die Baugenehmigung zu beschaffen und wer haftet für Ablehnungen?
+- Sind Gewährleistungsansprüche für Systemausstattung des Franchisegebers im Vertrag geregelt?
+- Besteht eine Umbau-/Modernisierungspflicht bei Systemänderungen und ist sie zeitlich und kostenmässig verhältnismässig?
+- Hat der Franchisenehmer einen Investitionsschutzanspruch, wenn kurz nach kostspieligen Ausbauten das System geändert wird?
+- Ist der Rückbau nach Vertragsende und die Kostenverteilung klar geregelt?
+
+## Fallstricke
+
+- Systemhandbuch verlangt CI-Update nach 3 Jahren; Franchisenehmer trägt vollständige Kosten, obwohl er für 10 Jahre kontrahiert hat.
+- Keine Baugenehmigungsklausel im Franchisevertrag; Franchisenehmer erhält Genehmigung nicht und kann nicht eröffnen.
+- Systemausstattung des Franchisegebers ist mangelhaft; ohne vertragliche Regelung bleibt der Franchisenehmer auf Gewährleistungsansprüchen gegen Dritte sitzen.
+- Umbau-Pflichten sind so weitgehend, dass sie faktisch die gesamte Erstinvestition entwerten.
 
 ## Output
 
-- Franchise-Memo
-- Disclosure-Check
-- Vertragsredline
-- Kündigungsschreiben
-- Auditplan
-- Streitstrategie
+- Ladenbau-Pflichten-Checkliste
+- Kostenverteilungsklausel (AGB-konformer Entwurf)
+- Umbau-Anforderungsplan mit Fristenrechnung
+- Investitionsschutz-Memo
+
+## Quellen
+
+- https://dejure.org/gesetze/BGB/631.html
+- https://dejure.org/gesetze/BGB/634.html
+- https://dejure.org/gesetze/BGB/307.html
+- https://dejure.org/gesetze/BGB/242.html
+- https://dejure.org/gesetze/BGB/280.html
+- https://gesetze-im-internet.de/bbaug/
+## Vertiefung
+
+Der Ladenbau ist eine der grössten Investitionen eines Franchisenehmers und hat direkten Einfluss auf den Wert seines Unternehmens. Wenn der Franchisegeber kurz nach kostspieligen Ausbaumassnahmen das CI-Konzept ändert und den Franchisenehmer zur Umrüstung verpflichtet, entsteht ein ernsthafter Interessenkonflikt.
+
+Gerichte haben wiederholt entschieden, dass CI-Änderungspflichten, die den Franchisenehmer innerhalb weniger Jahre zu erheblichen Reinvestitionen zwingen, nach § 307 BGB unangemessen benachteiligend sein können, wenn die Änderung nicht durch hinreichende Systemgründe gerechtfertigt ist.
+
+## Praxishinweise
+
+- Ladenbau-Investitionsplan des Franchisenehmers im Anhang zum Franchisevertrag dokumentieren.
+- CI-Aktualisierungsrhythmus explizit regeln; mindestens 5 Jahre zwischen verpflichtenden Generalumbauten.
+- Kostenbeteiligung des Franchisegebers an Modernisierungen vertraglich vereinbaren (z. B. Zuschuss pro Jahr Restlaufzeit).
+- Baugenehmigungsverantwortung klar zuordnen; Regelung: Franchisenehmer als Bauherr ist zuständig.
+- Rückbaukosten im Verhältnis zur Nutzungsdauer aufteilen; Vollrückbau nach kurzer Nutzung ist unverhältnismässig.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+## Abgrenzung und Einordnung
+
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
