@@ -1,46 +1,66 @@
 ---
 name: infl-030-satire-meme-und-zitatrecht
-description: "Influencer-Recht: Satire Meme und Zitatrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Satire, Memes und Zitatrecht – Kunstfreiheit, Grenzen, Markenparodie, UrhG und strafrechtliche Risiken."
 ---
 
-# Influencer-Recht: Satire Meme und Zitatrecht
+# Influencer-Recht: Satire, Memes und Zitatrecht
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Satire Meme und Zitatrecht** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Satire und Memes bewegen sich an der Grenze zwischen Kunstfreiheit und Rechtsverletzung:
 
-## Kaltstart in 6 Fragen
+- **Art. 5 Abs. 3 GG**: Kunstfreiheit schützt Satire und Parodie; aber: kein Schutz für reine Beschimpfungen.
+- **§ 24 UrhG (a. F.) / § 23 UrhG n. F.**: Bearbeitung und Parodie von Werken; nach BGH zulässig, wenn erkennbare künstlerische Distanz zum Original.
+- **§ 51 UrhG**: Zitatrecht – Übernahme von Originalinhalten für Kritik/Kommentar zulässig.
+- **§ 23 MarkenG**: Markenparodie: Nutzung zu satirischen Zwecken kann erlaubt sein, wenn kein geschäftlicher Verkehr und keine Rufschädigung.
+- **§ 185 ff. StGB**: Satire darf herabwürdigende Tatsachenbehauptungen nicht enthalten; Meinungsfreiheit endet bei Schmähkritik.
+- **§ 823 Abs. 1 BGB**: Persönlichkeitsrechtsverletzung durch Satire, wenn Kernaussage trotz Übertreibung als Tatsache verstanden werden kann.
+- **BVerfG**: Satire muss als solche erkennbar sein; „Aussagekern" ohne satirische Verkleidung prüfen.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Satire-Zulässigkeitstest
+
+1. Ist die Aussage erkennbar als Satire / Übertreibung markiert?
+2. Enthält sie keine Falschbehauptungen als Tatsachenkern?
+3. Greift sie keine Privatsphäre an?
+4. Betrifft sie eine Person des öffentlichen Lebens in deren Funktion?
+5. Ist der Eingriff in Ehre und Persönlichkeit noch verhältnismäßig?
+
+## Kaltstart-Fragen (6)
+
+1. Wer ist die Zielperson des Memes / der Satire (Politiker, Creator, Marke)?
+2. Enthält der Content Tatsachenbehauptungen oder nur Wertungen und Übertreibungen?
+3. Ist der satirische Charakter für Dritte erkennbar?
+4. Werden urheberrechtlich geschützte Werke oder Markenzeichen verwendet?
+5. Liegt eine Abmahnung oder Anfrage auf Löschung vor?
+6. Gewünschtes Ergebnis: Vorab-Check, Verteidigung oder Neugestaltung des Memes?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Aussagekern: Was würde ein unvoreingenommener Betrachter als Kernaussage verstehen?
+- Tatsache vs. Werturteil: Tatsachen müssen wahr sein; Werturteile dürfen übertrieben sein.
+- Privatperson vs. Person des öffentlichen Lebens: Privatpersonen genießen stärkeren Schutz.
+- Urheberrecht: Meme mit Originalfoto → § 23 UrhG n. F. (Parodie) prüfen; oder eigenes Foto verwenden.
+- Markenrecht: Logo in Meme → § 23 MarkenG; Satire-Ausnahme eng auslegen.
+- Kennzeichnung: „Satire" oder „Parodie"-Hinweis kann Haftung mindern, schließt sie aber nicht aus.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Meme behauptet strafbare Handlung ohne Belege → § 186 StGB Verleumdung.
+- Originalfoto ohne Erlaubnis für Meme → UrhG § 16 Verletzung.
+- Markenparodie mit Kaufaufforderung → kein Satire-Schutz, gewerbliche Nutzung.
+- Satire nicht als solche erkennbar → als ernsthafte Tatsachenbehauptung gewertet.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- Art. 5 Abs. 3 GG: https://www.gesetze-im-internet.de/gg/art_5.html
+- § 23 UrhG n. F. – Bearbeitungsrecht: https://www.gesetze-im-internet.de/urhg/__23.html
+- § 23 MarkenG – Markenschranken: https://www.gesetze-im-internet.de/markeng/__23.html
+- § 185 StGB: https://www.gesetze-im-internet.de/stgb/__185.html
+- § 823 BGB: https://www.gesetze-im-internet.de/bgb/__823.html
+
+## Output-Formate
+
+- Satire-Zulässigkeits-Ampel
+- Meme-Prüf-Checkliste vor Veröffentlichung
+- Verteidigungsschreiben bei Abmahnung (Satire-Einwand)
+- Umgestaltungsvorschlag für riskante Aussagen

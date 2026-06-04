@@ -1,46 +1,65 @@
 ---
 name: infl-009-scheinselbststaendigkeit-creator-management-team
-description: "Influencer-Recht: Scheinselbstständigkeit Creator Management Team mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Scheinselbstständigkeit bei Creator und Management – Statusfeststellung, Sozialversicherungspflicht, Haftungsrisiken."
 ---
 
-# Influencer-Recht: Scheinselbstständigkeit Creator Management Team
+# Influencer-Recht: Scheinselbstständigkeit – Creator und Management-Team
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Scheinselbstständigkeit Creator Management Team** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Enge Kooperationen zwischen Creator und Management/Brand können zur Scheinselbstständigkeit führen:
 
-## Kaltstart in 6 Fragen
+- **§ 7 Abs. 1 SGB IV**: Beschäftigung liegt vor, wenn jemand weisungsgebunden und in fremde Arbeitsorganisation eingegliedert tätig ist.
+- **§ 7a SGB IV**: Anfrageverfahren bei Deutschen Rentenversicherung (DRV) zur Statusfeststellung; Creator oder Auftraggeber können anfragen.
+- **§ 28a SGB IV**: Meldepflicht des Arbeitgebers bei festgestellter Beschäftigung; rückwirkende Beitragsnachzahlung bis 4 Jahre (30 Jahre bei Vorsatz).
+- **§ 2 SGB VI**: Selbstständige, die auf einen Auftraggeber angewiesen sind, können rentenversicherungspflichtig sein (Ein-Auftraggeber-Fall).
+- **§ 611a BGB**: Arbeitnehmer-Abgrenzungskriterien; Weisungsgebundenheit als Kernmerkmal.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Indizien-Check Scheinselbstständigkeit
+
+| Indiz für Selbstständigkeit | Indiz für Beschäftigung |
+|----------------------------|------------------------|
+| Mehrere Auftraggeber | Nur ein Auftraggeber |
+| Eigene Betriebsmittel | Auftraggeber stellt Equipment |
+| Eigenes unternehmerisches Risiko | Feste Vergütung ohne Erfolgskomponente |
+| Freie Zeiteinteilung | Feste Arbeitszeiten / Anwesenheitspflicht |
+| Eigene Preisgestaltung | Vergütung vom Auftraggeber diktiert |
+
+## Kaltstart-Fragen (6)
+
+1. Arbeitet der Creator ausschließlich oder überwiegend für eine Agentur oder ein Unternehmen?
+2. Stellt die Agentur/das Unternehmen Equipment, Räumlichkeiten oder Accounts?
+3. Gibt es Weisungen zu Arbeitszeit, Arbeitsort oder Inhalt?
+4. Liegt ein Statusfeststellungsverfahren bei der DRV vor oder ist eines geplant?
+5. Wie lange besteht die Kooperation bereits, und welche Entgelte wurden bezahlt?
+6. Gewünschtes Ergebnis: Statusgutachten, Vertragsgestaltung oder Reaktion auf DRV-Bescheid?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Gesamtbild aller Indizien bewerten; kein einzelnes Merkmal ist allein entscheidend.
+- Vertragsdokumentation: Kooperationsvertrag muss Selbstständigkeit klar abbilden (Freiheit bei Zeiteinteilung, eigene Betriebsmittel).
+- DRV-Anfrage: Proaktive Anfrage nach § 7a SGB IV reduziert Haftungsrisiko.
+- Rückwirkungsgefahr: Bei festgestellter Beschäftigung → 4 Jahre Nachzahlung; bei Vorsatz 30 Jahre.
+- Umsatzsteuer-Folgen: Scheinselbstständiger erbringt ggf. keine umsatzsteuerliche Leistung mehr.
+- Vertragsneugestaltung: Mehr Auftraggeber, eigene Betriebsmittel, Erfolgskomponente einbauen.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Exklusivitätsklausel im Agenturvertrag → faktisch Ein-Auftraggeber → Scheinselbstständigkeitsrisiko.
+- Management stellt Social-Media-Accounts → Eingliederung in fremde Organisation.
+- Creator kann Aufträge nicht ablehnen → Weisungsgebundenheit.
+- DRV-Bescheid ignoriert → Vollstreckung, Insolvenzrisiko.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 7 SGB IV: https://www.gesetze-im-internet.de/sgb_4/__7.html
+- § 7a SGB IV – Anfrageverfahren: https://www.gesetze-im-internet.de/sgb_4/__7a.html
+- § 611a BGB – Arbeitsvertrag: https://www.gesetze-im-internet.de/bgb/__611a.html
+- § 2 SGB VI: https://www.gesetze-im-internet.de/sgb_6/__2.html
+
+## Output-Formate
+
+- Indizien-Check-Tabelle (Selbstständig vs. Beschäftigt)
+- DRV-Anfrage-Muster (§ 7a SGB IV)
+- Vertragsneugestaltungs-Empfehlung
+- Haftungskalkulationstabelle (Nachzahlung)

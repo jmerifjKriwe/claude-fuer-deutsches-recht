@@ -1,46 +1,68 @@
 ---
 name: infl-034-ugc-kampagne-rechte-der-follower
-description: "Influencer-Recht: UGC Kampagne Rechte der Follower mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: UGC-Kampagnen – Rechte der Follower, Einwilligung, Nutzungsrechtserwerb, DSGVO und Kennzeichnung."
 ---
 
-# Influencer-Recht: UGC Kampagne Rechte der Follower
+# Influencer-Recht: UGC-Kampagne – Rechte der Follower
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **UGC Kampagne Rechte der Follower** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+User Generated Content-Kampagnen (Follower sollen Content einreichen) erfordern klare rechtliche Rahmenbedingungen:
 
-## Kaltstart in 6 Fragen
+- **UrhG § 2**: Follower-Inhalte (Fotos, Videos, Texte) sind urheberrechtlich geschützt; Nutzungsrechte verbleiben beim Follower.
+- **UrhG § 31**: Creator / Brand benötigt ausdrückliche Nutzungsrechtseinräumung für UGC; Teilnahmebedingungen müssen Rechteübertragung regeln.
+- **§ 22 KUG**: Personen in Follower-Fotos → KUG-Einwilligung; Creator/Brand kann diese nicht selbst einholen.
+- **DSGVO Art. 13**: Follower, die Content einreichen, sind betroffene Personen; Datenschutzhinweis erforderlich.
+- **§ 661a BGB**: Versprochener Preis für bestes UGC ist bindend.
+- **§ 5a UWG**: Wenn eingereichter UGC als Werbung weiterverwendet wird → Kennzeichnung durch Creator/Brand.
+- **Plattform-AGB**: Instagram/TikTok gewähren der Plattform eigene Nutzungsrechte; UGC-Recht gegenüber Brand/Creator separat regeln.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### UGC-Teilnahmebedingungen: Mindestinhalt
+
+| Element | Anforderung |
+|---------|------------|
+| Nutzungsrechtseinräumung | Zeitlich, räumlich, sachlich; entgeltlich? |
+| Verantwortlichkeit | Follower garantiert, keine Rechte Dritter zu verletzen |
+| DSGVO-Hinweis | Zweck, Dauer der Datenspeicherung |
+| Preis (falls Wettbewerb) | Genau beschreiben; § 661a BGB |
+| Löschrecht des Urhebers | § 41 UrhG – Rückruf möglich |
+| Kennzeichnung | Muss UGC als Werbung gekennzeichnet werden? |
+
+## Kaltstart-Fragen (6)
+
+1. Werden Follower aufgefordert, Fotos/Videos einzureichen, oder geht es um bereits öffentliche Posts?
+2. Wie soll der UGC genutzt werden (organisch, Paid Ads, Printmaterial)?
+3. Gibt es Teilnahmebedingungen mit Nutzungsrechtsregelung?
+4. Werden Daten der einreichenden Follower verarbeitet (E-Mail, Name)?
+5. Gibt es einen Preis für den besten Beitrag?
+6. Gewünschtes Ergebnis: Teilnahmebedingungen-Vorlage, Rechte-Check oder DSGVO-Text?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Nutzungsrecht: Jede Nutzung des Follower-Contents erfordert dessen Einwilligung in Teilnahmebedingungen.
+- Urheberrecht Dritter: Follower können Musik, Marken, Personen in Content einschließen → Haftung prüfen.
+- DSGVO: Einreichung = personenbezogene Daten → Datenschutzhinweis + Speicherdauer + Löschrecht.
+- Minderjährige Follower: Elterliche Einwilligung bei U18-Einreichungen.
+- Preisversprechen: § 661a BGB – verbindlich; Gewinn in angemessener Zeit übergeben.
+- Weiterverkauf des UGC an Dritte: Nur mit gesonderter Einwilligung des Urhebers.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- „Tag uns und wir teilen dein Foto" ohne Teilnahmebedingungen → Nutzungsrecht fehlt.
+- Follower-Foto mit fremder Musik → Creator/Brand haftet für Urheberrechtsverletzung.
+- Preis versprochen, aber nicht geliefert → § 661a BGB-Klage.
+- DSGVO: E-Mail-Adressen für zukünftigen Newsletter genutzt → kein Einverständnis.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 31 UrhG: https://www.gesetze-im-internet.de/urhg/__31.html
+- § 22 KUG: https://www.gesetze-im-internet.de/kukg/__22.html
+- § 661a BGB: https://www.gesetze-im-internet.de/bgb/__661a.html
+- DSGVO Art. 13: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679
+
+## Output-Formate
+
+- UGC-Teilnahmebedingungen-Vorlage
+- DSGVO-Datenschutztext für UGC-Kampagne
+- Nutzungsrechts-Bestätigung (Einzel-Follower)
+- Preis-Übergabe-Protokoll

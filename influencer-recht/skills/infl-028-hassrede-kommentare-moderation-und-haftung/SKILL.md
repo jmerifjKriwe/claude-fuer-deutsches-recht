@@ -1,46 +1,68 @@
 ---
 name: infl-028-hassrede-kommentare-moderation-und-haftung
-description: "Influencer-Recht: Hassrede Kommentare Moderation und Haftung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Hassrede in Kommentaren – Creator-Haftung, Moderationspflicht, NetzDG, Strafrecht und Schutzmaßnahmen."
 ---
 
-# Influencer-Recht: Hassrede Kommentare Moderation und Haftung
+# Influencer-Recht: Hassrede, Kommentare, Moderation und Haftung
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Hassrede Kommentare Moderation und Haftung** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Creator können für Kommentare unter ihren Posts haften, wenn sie nicht moderieren:
 
-## Kaltstart in 6 Fragen
+- **§ 10 TMG**: Hostprovider-Haftung – Creator haftet nicht für fremde Inhalte, solange er keine Kenntnis hat; nach Kenntnisnahme muss er unverzüglich handeln (Notice & Take Down).
+- **NetzDG (§ 3 NetzDG)**: Für große Plattformen (ab 2 Mio. Nutzer) eigene Meldepflichten; Creator als Nutzer profitiert von NetzDG-Meldewegen gegen Hass-Kommentare.
+- **§ 130 StGB**: Volksverhetzung – Kommentare können strafbar sein; Creator muss nach Kenntnis handeln.
+- **§ 185 ff. StGB**: Beleidigung, Verleumdung; Creator haftet als (Mit-)Täter, wenn er strafbare Kommentare bewusst stehen lässt.
+- **DSA Art. 16**: Nutzerfreundliche Meldesysteme; Plattformen müssen Meldungen bearbeiten.
+- **§ 823 Abs. 1 BGB**: Persönlichkeitsrechtsverletzung durch Kommentar unter Creator-Post kann Schadensersatz begründen, wenn Creator trotz Kenntnis nicht handelt.
+- **§ 1004 BGB analog**: Beseitigungsanspruch des Betroffenen gegen Creator als Störer.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Moderationspflicht-Auslöser
+
+| Situation | Pflicht des Creators |
+|-----------|---------------------|
+| Unbekannter Hass-Kommentar | Keine Handlungspflicht |
+| Gemeldeter Hass-Kommentar | Unverzüglich prüfen und ggf. löschen |
+| Erkennbar strafbarer Inhalt | Löschen + Strafanzeige erwägen |
+| Systematische Angriffe gegen Dritte | Proaktive Moderation erwägen |
+| Creator macht auf Kommentar aufmerksam | Teilnahme → Haftungsrisiko |
+
+## Kaltstart-Fragen (6)
+
+1. Wird Creator selbst durch Kommentare angegriffen (Hassrede gegen Creator)?
+2. Enthält ein Kommentar strafbare Inhalte gegen Dritte?
+3. Wer hat den Creator auf den Kommentar hingewiesen?
+4. Gibt es ein systematisches Moderation-Konzept für den Account?
+5. Liegt bereits eine Abmahnung oder Klage wegen Kommentarinhalten vor?
+6. Gewünschtes Ergebnis: Moderationskonzept, Strafanzeige-Muster oder Abmahnreaktion?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Kenntnis: Wurde Creator informiert oder hat er den Kommentar selbst gesehen?
+- Handlungspflicht: Nach Kenntnis → unverzüglich löschen (innerhalb von 24 Stunden).
+- Strafrecht: § 130, § 185 ff. StGB-Inhalte → Strafanzeige erstatten + NetzDG-Meldung.
+- Moderationskonzept: Schlagwortfilter, Kommentar-Review, Community Guidelines.
+- Persönlichkeitsrecht: Betroffener hat Löschungsanspruch gegen Creator (§ 1004 BGB analog).
+- Selbstschutz: Gegen Hassrede gegenüber Creator: Plattform-Meldung + ggf. Strafanzeige § 185 StGB.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Creator löscht strafbaren Kommentar nicht nach Hinweis → Störerhaftung.
+- Creator liked Hasskommentar versehentlich → Billigung-Signal.
+- Keine Community Guidelines → fehlende Moderationsgrundlage.
+- Screenshots sichern vor Löschung vergessen → Beweismittelverlust.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 10 TMG – Haftung Hostprovider: https://www.gesetze-im-internet.de/tmg/__10.html
+- § 130 StGB – Volksverhetzung: https://www.gesetze-im-internet.de/stgb/__130.html
+- § 185 StGB – Beleidigung: https://www.gesetze-im-internet.de/stgb/__185.html
+- § 1004 BGB: https://www.gesetze-im-internet.de/bgb/__1004.html
+- DSA Art. 16: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022R2065
+
+## Output-Formate
+
+- Moderationskonzept-Vorlage
+- Strafanzeige-Muster (Hassrede)
+- Community-Guidelines-Template
+- Abmahnreaktion (Kommentar-Haftung)

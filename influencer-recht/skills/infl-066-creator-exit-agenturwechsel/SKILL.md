@@ -1,46 +1,71 @@
 ---
 name: infl-066-creator-exit-agenturwechsel
-description: "Influencer-Recht: Creator Exit Agenturwechsel mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Creator-Exit und Agenturwechsel – Vertragskündigung, Nachvertragliches Wettbewerbsverbot, Nutzungsrechte und Übergangsprobleme."
 ---
 
-# Influencer-Recht: Creator Exit Agenturwechsel
+# Influencer-Recht: Creator-Exit und Agenturwechsel
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Creator Exit Agenturwechsel** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein Agenturwechsel ist oft rechtlich komplex – besonders bei Exklusivverträgen:
 
-## Kaltstart in 6 Fragen
+- **§ 620 Abs. 1 BGB**: Dienstvertrag endet mit Ablauf der vereinbarten Zeit; ordentliche Kündigung möglich.
+- **§ 621 BGB**: Kündigungsfristen bei Dienstverhältnissen ohne feste Laufzeit; je nach Vergütungsperiode.
+- **§ 626 BGB**: Außerordentliche Kündigung bei wichtigem Grund; Nichtzahlung, Untätigkeit der Agentur, Vertrauensverlust.
+- **§ 138 BGB**: Nachvertragliches Wettbewerbsverbot ohne Karenzentschädigung ist sittenwidrig; ohne Vergütung nicht durchsetzbar.
+- **§ 74 HGB**: Wettbewerbsverbote für Handelsvertreter; Karenzentschädigung 50 % der zuletzt bezogenen Vergütung.
+- **§ 31 UrhG**: Nutzungsrechte, die der Agentur eingeräumt wurden, verbleiben bis zum Ende der Vereinbarung.
+- **Plattform-Zugang**: Wird die Agentur aus Creator-Accounts entfernt? → AGB der Plattform prüfen.
+- **§ 308 Nr. 7a BGB**: Kontokündigungsrecht; Agentur darf keinen unlöschbaren Zugang zu Creator-Accounts haben.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Exit-Checkliste
+
+| Schritt | Inhalt |
+|---------|--------|
+| 1 | Vertragstext: Laufzeit, Kündigung, Exklusivität lesen |
+| 2 | Kündigungsschreiben erstellen (ordentlich oder außerordentlich) |
+| 3 | Alle Account-Zugänge zurückfordern |
+| 4 | Laufende Brand-Deals auf neue Agentur / Creator übertragen |
+| 5 | Nutzungsrechte-Status klären |
+| 6 | Ausstehende Provisionen oder Honorare fordern |
+| 7 | Nachvertragliches WBV prüfen: durchsetzbar? |
+| 8 | Schweigepflicht und NDA für beide Seiten |
+
+## Kaltstart-Fragen (6)
+
+1. Liegt ein schriftlicher Agenturvertrag vor, und wie sind Laufzeit und Kündigung geregelt?
+2. Gibt es ein nachvertragliches Wettbewerbsverbot, und wird eine Karenzentschädigung bezahlt?
+3. Hat die Agentur Zugang zu Creator-Accounts, den sie nach Ende des Vertrags nicht mehr haben soll?
+4. Gibt es laufende Brand-Deals, die von der Agentur verwaltet werden?
+5. Sind ausstehende Provisionen oder Honorare offen?
+6. Gewünschtes Ergebnis: Kündigungsschreiben, Wettbewerbsverbots-Check oder Übergabeprotokoll?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Vertragskündigung: Ordentlich oder außerordentlich; Form (Schriftform); Frist einhalten.
+- Außerordentliche Kündigung: Wichtiger Grund dokumentieren; Abmahnung vorher erforderlich.
+- WBV-Check: Karenzentschädigung vorgesehen? Wenn nein → WBV wahrscheinlich unwirksam.
+- Account-Zugang: Passwörter ändern; 2FA aktivieren; Agentur-Mitarbeiter aus Business-Accounts entfernen.
+- Brand-Deal-Übergabe: Laufende Verträge: neue Agentur oder Creator direkt?
+- Abschlussrechnung: Alle offenen Forderungen geltend machen; Agentur ausstehende Provisionen abrechnen.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Exklusivitätsklausel gilt noch → Creator kann keinen neuen Vertrag abschließen.
+- Agentur behält Account-Zugang → schleichende Weiternutzung.
+- WBV ohne Karenzentschädigung → nichtig, aber Agentur klagt trotzdem.
+- Laufende Brand-Deals: Wer hat Anspruch auf die restliche Vergütung?
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 626 BGB: https://www.gesetze-im-internet.de/bgb/__626.html
+- § 74 HGB – WBV: https://www.gesetze-im-internet.de/hgb/__74.html
+- § 138 BGB: https://www.gesetze-im-internet.de/bgb/__138.html
+- § 31 UrhG: https://www.gesetze-im-internet.de/urhg/__31.html
+
+## Output-Formate
+
+- Kündigungsschreiben (ordentlich / außerordentlich)
+- WBV-Prüfung und Unwirksamkeits-Einwand
+- Account-Zugang-Rückforderungs-Protokoll
+- Übergabeprotokoll laufende Brand-Deals

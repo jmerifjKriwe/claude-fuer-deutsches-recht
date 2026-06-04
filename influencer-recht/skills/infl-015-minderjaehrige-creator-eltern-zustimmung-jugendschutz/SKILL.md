@@ -1,46 +1,70 @@
 ---
-name: infl-015-minderjaehrige-creator-eltern-zustimmung-jugendschutz
-description: "Influencer-Recht: Minderjährige Creator Eltern Zustimmung Jugendschutz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: infl-015-minderjaehrige-creator-kooperation-eltern-zustimmung
+description: "Influencer-Recht: Minderjährige Creator – elterliche Einwilligung, Jugendschutz, JuSchG, JMStV, Kooperationsverträge und Vermögensrecht."
 ---
 
-# Influencer-Recht: Minderjährige Creator Eltern Zustimmung Jugendschutz
+# Influencer-Recht: Minderjährige Creator – Eltern, Jugendschutz, Vertragsrecht
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Minderjährige Creator Eltern Zustimmung Jugendschutz** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Minderjährige Creator unterliegen einem besonders dichten Schutzregime:
 
-## Kaltstart in 6 Fragen
+- **§ 106 BGB**: Beschränkte Geschäftsfähigkeit ab 7 Jahren; Verträge mit Minderjährigen bedürfen elterlicher Genehmigung.
+- **§ 107 BGB**: Vorteilhafter Vertrag: ohne Genehmigung wirksam; Brand Deals sind regelmäßig nicht lediglich vorteilhaft.
+- **§ 1643 BGB**: Eltern als gesetzliche Vertreter; bei erheblichen Verpflichtungen ggf. Genehmigung des Familiengerichts.
+- **§ 1 JuSchG, § 2 JMStV**: Jugendschutzpflichten bei öffentlichen Angeboten; altersgerechte Inhalte.
+- **§ 45 ff. JArbSchG**: Beschäftigungsverbote und -einschränkungen für Minderjährige (Ruhezeiten, Schulzeit, Höchstarbeitszeit).
+- **§ 22 KUG**: Elternzustimmung für Bildveröffentlichung Minderjähriger.
+- **DSGVO Art. 8**: Einwilligung in Datenverarbeitung ab 16 Jahren (DE: 16 Jahre per Landesrecht).
+- **Steuer**: Einnahmen des Kindes sind eigene Einkünfte; aber Eltern-Haftung bei Versäumnissen.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Pflichten-Checkliste für Eltern
+
+| Pflicht | Norm | Handlung |
+|---------|------|----------|
+| Vertragsabschluss | § 107 BGB | Elterliche Genehmigung |
+| Bildfreigabe | § 22 KUG | Schriftliche Einwilligung |
+| Datenschutz | DSGVO Art. 8 | Einwilligung unter 16 J. |
+| Arbeitszeit | JArbSchG | Tätigkeitsdauer prüfen |
+| Kontenführung | § 1806 BGB | Mündelgeldanlage für Einkünfte |
+| Steuer | § 15/32 EStG | Steuererklärung für Kind |
+
+## Kaltstart-Fragen (6)
+
+1. Wie alt ist der minderjährige Creator (unter 14, 14–16, 16–18)?
+2. Haben beide Elternteile den Kooperationsvertrag genehmigt?
+3. Überschreiten die vereinbarten Leistungen die erlaubten Arbeitszeiten nach JArbSchG?
+4. Ist der Content für Minderjährige altersgerecht nach JMStV?
+5. Werden Einnahmen korrekt als Kindereinkünfte versteuert?
+6. Gewünschtes Ergebnis: Vertragsfreigabe, Jugendschutzcheck oder Familiengerichtsvorlage?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Alter und Geschäftsfähigkeit: Unter 7 = geschäftsunfähig; 7–18 = beschränkt geschäftsfähig.
+- Elterliche Vertretung: Beide Elternteile? Alleinsorge? Bei Meinungsstreit: Familiengericht.
+- JArbSchG: Schulfreie Zeit, Ruhezeiten (mindestens 12 Stunden), keine Nachtarbeit.
+- Inhaltskontrolle: JMStV Schutzklassen; kein Alkohol-, Glücksspiel-, Erotik-Content.
+- Vermögensverwaltung: Einnahmen für das Kind treuhänderisch verwalten; keine Eltern-Nutzung.
+- DSGVO: Einwilligung für Tracking, Newsletter etc. unter 16 nur durch Eltern.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Nur ein Elternteil unterschreibt → bei gemeinsamer Sorge nicht ausreichend.
+- Creator-Kind filmt sich täglich für Stunden → JArbSchG-Verstoß.
+- Eltern nutzen Kind-Einnahmen für sich → Untreue (§ 266 StGB).
+- Keine DSGVO-Einwilligung der Eltern → Plattformsperre oder Bußgeld.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 107 BGB: https://www.gesetze-im-internet.de/bgb/__107.html
+- § 1643 BGB: https://www.gesetze-im-internet.de/bgb/__1643.html
+- § 1 JArbSchG: https://www.gesetze-im-internet.de/jarbschg/__1.html
+- § 22 KUG: https://www.gesetze-im-internet.de/kukg/__22.html
+- DSGVO Art. 8: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679
+
+## Output-Formate
+
+- Eltern-Genehmigungsformular für Kooperationsvertrag
+- JArbSchG-Zeiterfassungsvorlage
+- JMStV-Compliance-Checkliste
+- Familiengericht-Vorlage (bei erheblichem Vermögen)

@@ -1,46 +1,64 @@
 ---
 name: infl-024-kennzeichnung-bei-eigenmarke
-description: "Influencer-Recht: Kennzeichnung bei Eigenmarke mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Werbekennzeichnung bei Eigenmarken – BGH Diana zur Löwen, Abgrenzung, Kennzeichnungspflicht beim Bewerben eigener Produkte."
 ---
 
 # Influencer-Recht: Kennzeichnung bei Eigenmarke
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Kennzeichnung bei Eigenmarke** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die Frage, ob Creator eigene Produkte kennzeichnen müssen, wurde durch den BGH differenziert beantwortet:
 
-## Kaltstart in 6 Fragen
+- **BGH „Diana zur Löwen"** (I ZR 9/22, 13.01.2022): Werbung für eigene Produkte/Marke ist grundsätzlich nicht kennzeichnungspflichtig, wenn das wirtschaftliche Eigeninteresse für Follower offensichtlich ist.
+- **§ 5a Abs. 4 UWG**: Kommerzieller Zweck muss erkennbar sein; bei Eigenmarken ist dies regelmäßig der Fall.
+- **§ 22 MStV**: Trennungsgebot gilt grundsätzlich; Eigeninteresse-Offensichtlichkeit kann es aufheben.
+- **Grenze**: Wenn die Eigenmarke getarnt als neutrale Empfehlung erscheint, besteht Kennzeichnungspflicht.
+- **Produkthaftung § 823 BGB + ProdHaftG**: Creator als Hersteller oder Inverkehrbringer haftet für eigene Produkte.
+- **§ 3 Abs. 1 UWG**: Irreführungsverbot auch bei Eigenmarkenwerbung (z. B. falsche Wirkversprechen).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Eigenmarken-Szenarien
+
+| Szenario | Kennzeichnungspflicht? |
+|----------|----------------------|
+| Creator promotet eigene Kleidungslinie im Post | Grds. nein (offensichtlich) |
+| Creator verlinkt eigenen Shop ohne Hinweis | Grds. nein (erkennbar) |
+| Creator beschreibt eigenes Produkt als „beste Empfehlung" ohne Hinweis auf Eigeninteresse | Ja (getarnte Werbung) |
+| Kooperation mit Lizenzmarke (Eigenmarke = Lizenzprodukt) | Ja (Fremdinteresse) |
+| Creator mit Beteiligung an Brand (stiller Gesellschafter) | Ja (verstecktes Eigeninteresse) |
+
+## Kaltstart-Fragen (6)
+
+1. Ist das beworbene Produkt ausschließlich im Eigentum des Creators oder gibt es Investoren/Lizenznehmer?
+2. Ist für die Follower erkennbar, dass der Creator Eigeninteresse an dem Produkt hat?
+3. Werden Produkte als neutrale Empfehlung dargestellt ohne Hinweis auf Eigeninteresse?
+4. Gibt es eine Kooperation mit einem anderen Brand für das Produkt (Lizenz, JV)?
+5. Liegt eine Abmahnung wegen fehlender Kennzeichnung für Eigenmarken vor?
+6. Gewünschtes Ergebnis: Kennzeichnungstest, Postkorrektur oder Abmahnreaktion?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Offensichtlichkeitstest: Kennen Follower die Eigenmarke des Creators? Markenbio, Profillink, etc.?
+- Eigeninteressen-Klarheit: Erste Erwähnung in Post ohne Kontext → Kennzeichnung vorsichtshalber.
+- Tarnungstest: Wird das Produkt als Ergebnis eines objektiven Tests empfohlen? → Kennzeichnung.
+- Lizenzmarken: Creator hat Lizenz → kein vollständiges Eigeninteresse → Prüfung nötig.
+- Schutzrecht: Eigenmarke ist Marke nach MarkenG → zusätzlich Markenrechtsfragen.
+- Produkthaftung: Creator als Hersteller → ProdHaftG + §§ 823 ff. BGB.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Creator promotet eigenen Kurs in fremdem Kontext ohne Hinweis → Kennzeichnungspflicht.
+- Lizenz-Kooperation mit fremdem Brand: „Meine Kollektion mit X" → teilweise Fremdinteresse.
+- Gutachtenformat: „Ich habe 10 Kissen getestet – mein eigenes ist das Beste" → offensichtlich tendenziös.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- BGH I ZR 9/22 (Diana zur Löwen): https://openjur.de/u/2432341.html
+- § 5a Abs. 4 UWG: https://www.gesetze-im-internet.de/uwg_2004/__5a.html
+- § 22 MStV: https://www.gesetze-im-internet.de/mstv/__22.html
+- ProdHaftG: https://www.gesetze-im-internet.de/prodhaftg/
+
+## Output-Formate
+
+- Eigenmarken-Kennzeichnungsampel
+- Post-Formulierungsvorschlag (mit/ohne Label)
+- Produkthaftungs-Kurzcheck

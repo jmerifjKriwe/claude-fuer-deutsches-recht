@@ -1,46 +1,69 @@
 ---
 name: infl-043-steuerpruefung-creator-unterlagenpaket
-description: "Influencer-Recht: Steuerprüfung Creator Unterlagenpaket mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Steuerprüfung – Unterlagenpaket für Creator, Betriebsprüfungs-Vorbereitung, häufige Prüfungsfelder und Reaktionsstrategie."
 ---
 
-# Influencer-Recht: Steuerprüfung Creator Unterlagenpaket
+# Influencer-Recht: Steuerprüfung – Unterlagenpaket für Creator
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Steuerprüfung Creator Unterlagenpaket** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Betriebsprüfungen bei Creator richten sich auf typische Schwachstellen:
 
-## Kaltstart in 6 Fragen
+- **§ 193 AO**: Betriebsprüfung bei Gewerbetreibenden und Freiberuflern; Creator mit relevanten Umsätzen typischerweise alle 3–5 Jahre.
+- **§ 147 AO**: Aufbewahrungspflicht 10 Jahre für Buchungsbelege, 6 Jahre für sonstige Unterlagen; elektronische Belege analog.
+- **§ 200 AO**: Mitwirkungspflicht des Steuerpflichtigen; Creator muss Unterlagen vorlegen.
+- **§ 162 AO**: Schätzung bei fehlendem Nachweis; Finanzamt schätzt zuungunsten.
+- **GoBD**: Grundsätze ordnungsmäßiger Buchführung und Datenhaltung; Screenshots und digitale Belege müssen revisionssicher sein.
+- **§ 8 EStG**: Sachleistungen müssen als Einnahme bewertet und belegt sein.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Typische Prüfungsschwerpunkte bei Creator
+
+| Prüffeld | Unterlagen |
+|----------|-----------|
+| Sachleistungen / PR-Samples | EÜR-Erfassung, Wertbelege |
+| Reisekosten (gemischt) | Reisetagebuch, Aufteilungsrechnung |
+| Kfz-Nutzung | Fahrtenbuch oder 1-%-Regelung |
+| Plattform-Einnahmen | Jahresabrechnungen (YouTube, TikTok, Meta) |
+| Auslandseinnahmen | Invoices, Bankbelege, Steuerberater-Ausland |
+| Betriebsausgaben | Rechnungen mit § 14 UStG-Pflichtangaben |
+| Vorsteuer | Originalrechnungen mit USt-Ausweis |
+
+## Kaltstart-Fragen (6)
+
+1. Liegt bereits eine Prüfungsanordnung (§ 196 AO) vor?
+2. Welcher Zeitraum soll geprüft werden?
+3. Sind alle EÜR-Jahresabschlüsse vollständig erstellt und eingereicht?
+4. Gibt es bekannte Schwachstellen (fehlende Belege, nicht erfasste Sachleistungen)?
+5. Ist ein Steuerberater eingeschaltet, oder soll Creator selbst mit dem Finanzamt kommunizieren?
+6. Gewünschtes Ergebnis: Unterlagen-Paket zusammenstellen, Prüfungs-Briefing oder Reaktion auf Prüferfeststellung?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Prüfungsanordnung: Form, Umfang und Zeitraum prüfen; ggf. Einspruch wegen zu weitem Umfang.
+- Unterlagen-Inventar: Belege für alle Einnahmen und Ausgaben sammeln; Lücken identifizieren.
+- Schätzungsrisiko: Fehlende Belege → § 162 AO-Schätzung; lieber Schätzungsangebote vorbereiten.
+- GoBD-Compliance: Digitale Belege unveränderbar aufbewahren; E-Mails als Vertragsbelege sichern.
+- Steuerberater-Vollmacht: Vollmacht für Betriebsprüfung (Formular Bundeszentralamt für Steuern).
+- Sachverhalts-Aufklärung: Keine voreiligen Zugeständnisse; erst mit Berater abstimmen.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Sachleistungen für Prüfungsjahre nicht erfasst → Nachversteuerung mit Zinsen.
+- Belege vernichtet vor Ablauf 10 Jahre → Schätzung zuungunsten.
+- Reisekostenanteil ohne Reisetagebuch → kompletter Abzug verweigert.
+- Kommunikation mit Prüfer ohne Berater → unbeabsichtigte Zugeständnisse.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 193 AO: https://www.gesetze-im-internet.de/ao_1977/__193.html
+- § 147 AO: https://www.gesetze-im-internet.de/ao_1977/__147.html
+- § 162 AO: https://www.gesetze-im-internet.de/ao_1977/__162.html
+- § 200 AO: https://www.gesetze-im-internet.de/ao_1977/__200.html
+- GoBD (BMF-Schreiben): https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Weitere_Steuerthemen/Abgabenordnung/2019-11-28-GoBD.pdf
+
+## Output-Formate
+
+- Unterlagen-Checkliste für Betriebsprüfung (nach Jahren)
+- Sachleistungs-Nacherfassungsprotokoll
+- Steuerberater-Vollmacht-Hinweis
+- Reaktion auf Prüfungsfeststellung (Muster)

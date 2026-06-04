@@ -1,46 +1,68 @@
 ---
 name: infl-060-beauty-filter-und-irrefuehrung
-description: "Influencer-Recht: Beauty Filter und Irreführung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Beauty-Filter und Bildbearbeitung – Irreführung, § 5 UWG, internationale Regulierungstendenzen und Körperbild-Kennzeichnung."
 ---
 
-# Influencer-Recht: Beauty Filter und Irreführung
+# Influencer-Recht: Beauty-Filter und Irreführung
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Beauty Filter und Irreführung** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Beauty-Filter und KI-Bildbearbeitung in Werbeposts sind zunehmend reguliert:
 
-## Kaltstart in 6 Fragen
+- **§ 5 Abs. 1 UWG**: Irreführende geschäftliche Handlung; nachbearbeitetes Produktfoto, das tatsächliche Produkteigenschaften verfälscht → irreführend.
+- **§ 5a UWG**: Weglassen von Informationen; wenn Filter die Wirkung eines beworbenen Produkts verfälscht → Pflicht zur Offenlegung.
+- **LMIV Art. 7**: Lebensmittelrecht – kein irreführendes Bild bei Lebensmitteln (z. B. übertrieben appetitanregendes Essen-Bild).
+- **Kosmetikverordnung (EG) 1223/2009**: Werbeaussagen für Kosmetika müssen belegt sein; nachbearbeitetes „After"-Foto ohne Produktreferenz = irreführend.
+- **Frankreich**: Seit 2017 Kennzeichnungspflicht für retuschierte Körperbilder in Werbung.
+- **UK ASA**: Influencer müssen digitale Manipulationen in Werbung kennzeichnen.
+- **EU Digital Services Act Art. 26**: Plattformen müssen bei kommerziellen Kommunikationen Transparenz gewährleisten; Filter könnten darunter fallen.
+- **§ 3 UWG**: Allgemeines Verbot unlauterer Praktiken; systematische Filter-Täuschung als unlauter.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Filter-Einsatz: Zulässig vs. Unzulässig
+
+| Situation | Status |
+|-----------|--------|
+| Ästhetischer Filter, keine Produktwirkung verfälscht | Zulässig |
+| Filter an Produktfotos: Farbe, Textur verändert | § 5 UWG – Irreführung |
+| Fitness-Content mit Body-Slim-Filter | Riskant; Kennzeichnung empfohlen |
+| Kosmetik-„After"-Foto mit Glättungsfilter | KPVO + § 5 UWG – verboten |
+| KI-generiertes Modelfoto für Kleidung (ohne echte Person) | Kennzeichnung als KI empfohlen |
+
+## Kaltstart-Fragen (6)
+
+1. Werden Filter verwendet, die Produkteigenschaften (Wirkung, Farbe, Textur) verfälschen?
+2. Geht es um Kosmetik-, Fitness- oder Beauty-Werbung?
+3. Gibt es einen Brand-Auftrag, der starke Bildbearbeitung verlangt?
+4. Hat es bereits Beschwerden von Konsumenten oder eine Abmahnung wegen falscher Produktdarstellung gegeben?
+5. Soll ein KI-generiertes Model-Foto ohne Kennzeichnung verwendet werden?
+6. Gewünschtes Ergebnis: Filter-Compliance-Check, Kennzeichnungskonzept oder Abmahnantwort?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Produktwahrheit: Entspricht das bearbeitete Bild dem echten Produkt?
+- Körperbild: Body-Slim-Filter in Fitness-/Kosmetikwerbung → Irreführungs-Risiko.
+- Kosmetik: KPVO + § 5 UWG; keine „After"-Effekte die nur durch Filter entstehen.
+- KI-Bild-Kennzeichnung: AI Act Art. 50 + § 5a UWG.
+- Internationale Regulierung: UK, FR, DK haben strengere Regeln; Creator mit internationalem Publikum.
+- Abmahnung: Konsumenten und Mitbewerber können § 5 UWG-Verstoß abmahnen.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Lippenstift-Farbe im Post durch Filter verändert → Produkt sieht anders aus als geliefert.
+- Body-Slim-Filter für Fitness-Supplement → Körperideal-Täuschung + § 5 UWG.
+- KI-generiertes Modelfoto ohne Hinweis → AI Act-Verstoß.
+- UK-Follower: Britische ASA-Regeln für Beauty-Filter gelten für UK-Zielgruppe.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 5 UWG: https://www.gesetze-im-internet.de/uwg_2004/__5.html
+- Kosmetikverordnung (EG) 1223/2009: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32009R1223
+- LMIV Art. 7: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32011R1169
+- EU AI Act Art. 50: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32024R1689
+
+## Output-Formate
+
+- Filter-Compliance-Ampel
+- Kennzeichnungstext für bearbeitete Bilder
+- Abmahnantwort (Bildbearbeitungs-Täuschung)
+- KI-Bild-Hinweis-Vorlage

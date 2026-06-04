@@ -1,46 +1,69 @@
 ---
 name: infl-010-agenturvertrag-exklusivitaet-provision-und-kuendigung
-description: "Influencer-Recht: Agenturvertrag Exklusivität Provision und Kündigung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Agenturvertrag für Creator – Exklusivitätsklauseln, Provisionssätze, Vertragslaufzeit, ordentliche und außerordentliche Kündigung."
 ---
 
-# Influencer-Recht: Agenturvertrag Exklusivität Provision und Kündigung
+# Influencer-Recht: Agenturvertrag – Exklusivität, Provision und Kündigung
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Agenturvertrag Exklusivität Provision und Kündigung** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Agenturverträge sind für Creator häufig die rechtlich riskanteste Vertragsform:
 
-## Kaltstart in 6 Fragen
+- **§§ 611, 631 BGB**: Agenturvertrag kann als Dienst- oder Werkvertrag ausgestaltet sein; Qualifikation bestimmt Gewährleistung und Kündigung.
+- **§ 84 HGB** (analog): Handelsvertreter-Grundsätze anwendbar, wenn Agentur dauerhaft Geschäfte vermittelt.
+- **§ 138 BGB**: Sittenwidrigkeit bei übermäßig langen Exklusivitätsklauseln oder unangemessener Knebelung.
+- **§ 305 ff. BGB (AGB-Recht)**: Agenturverträge als AGB – überraschende Klauseln (§ 305c), unangemessene Benachteiligung (§ 307).
+- **§ 626 BGB**: Außerordentliche fristlose Kündigung bei wichtigem Grund (z. B. Nichtzahlung, Vertragsverletzung der Agentur).
+- **§ 89b HGB** (analog): Ausgleichsanspruch des Creator-Handelsvertreters bei Vertragsende.
+- **§ 823 BGB**: Schadensersatz bei Verschulden; Agentur haftet für rechtswidrige Deals.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Typische Klauseln und Bewertung
+
+| Klausel | Rechtliche Bewertung |
+|---------|---------------------|
+| Exklusivität 2 Jahre, alle Branchen | Ggf. § 138 BGB sittenwidrig |
+| Provision 20–30 % | Marktüblich, zulässig |
+| Post-Term Non-Compete 1 Jahr | Bei Vergütung: zulässig; ohne: § 307 BGB |
+| Auto-Renewal ohne Frist | AGB-Falle: § 307 Abs. 1 BGB |
+| Nutzungsrechte Agentur > Creator | Prüfen: UrhG § 29 – Urheber bleibt Creator |
+
+## Kaltstart-Fragen (6)
+
+1. Liegt ein schriftlicher Agenturvertrag vor – oder soll einer geprüft / verhandelt werden?
+2. Gibt es eine Exklusivitätsklausel, und auf welche Bereiche / Branchen erstreckt sie sich?
+3. Wie hoch ist der Provisionssatz, und auf welchen Netto- oder Bruttobetrag bezieht er sich?
+4. Wie lang ist die Laufzeit, und gibt es eine automatische Verlängerung?
+5. Liegt ein Kündigungsgrund vor (Nichtzahlung, Untätigkeit, Vertragsverletzung)?
+6. Gewünschtes Ergebnis: Vertragscheck, Kündigungsschreiben oder Neuverhandlungs-Memo?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Vertragsqualifikation: Dienst- oder Werkvertrag? → Kündigung nach § 621 BGB vs. § 649 BGB.
+- AGB-Prüfung: Ist der Vertrag vom Anwalt individuell verhandelt oder vom Auftraggeber gestellt?
+- Exklusivität: Zeitlich, sachlich und räumlich begrenzen; Branchen-Carve-outs verhandeln.
+- Provision: Nettobasis (nach Plattformgebühren) vs. Bruttobasis; Fälligkeitsregelung.
+- Kündigung: Ordentliche Frist im Vertrag? Außerordentlich nach § 626 BGB: Wichtiger Grund dokumentieren.
+- Nachvertragliches Wettbewerbsverbot: Ohne Karenzentschädigung regelmäßig unwirksam.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- 3-Jahres-Exklusivvertrag unterzeichnet ohne Kündigunsrecht → Gefangen bei inaktiver Agentur.
+- Provision auf Bruttobetrag inkl. USt → Creator zahlt Provision auf den Steueranteil.
+- Auto-Renewal: Frist verpasst → ungewollt verlängert.
+- Nutzungsrechte gehen auf Agentur über → Creator kann Content nicht mehr kontrollieren.
+- Kündigung per WhatsApp → Schriftformerfordernis nicht gewahrt.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- §§ 611, 631 BGB: https://www.gesetze-im-internet.de/bgb/__611.html
+- § 138 BGB – Sittenwidrigkeit: https://www.gesetze-im-internet.de/bgb/__138.html
+- § 305 ff. BGB – AGB: https://www.gesetze-im-internet.de/bgb/__305.html
+- § 626 BGB – Außerordentliche Kündigung: https://www.gesetze-im-internet.de/bgb/__626.html
+- § 84 HGB: https://www.gesetze-im-internet.de/hgb/__84.html
+
+## Output-Formate
+
+- Vertragscheck-Ampel (kritische Klauseln markiert)
+- Kündigungsschreiben (ordentlich / außerordentlich)
+- Neuverhandlungs-Checkliste
+- Provisionskalkulations-Tabelle

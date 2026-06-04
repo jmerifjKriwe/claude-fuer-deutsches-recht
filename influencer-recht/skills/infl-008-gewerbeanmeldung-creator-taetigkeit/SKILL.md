@@ -1,46 +1,67 @@
 ---
 name: infl-008-gewerbeanmeldung-creator-taetigkeit
-description: "Influencer-Recht: Gewerbeanmeldung Creator Tätigkeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Gewerbeanmeldung für Creator – Pflicht, Ausnahmen, Ablauf, Gewerbesteuer und Abgrenzung zur freiberuflichen Tätigkeit."
 ---
 
-# Influencer-Recht: Gewerbeanmeldung Creator Tätigkeit
+# Influencer-Recht: Gewerbeanmeldung für Creator
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Gewerbeanmeldung Creator Tätigkeit** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die Gewerbeanmeldung ist für die meisten Creator Pflicht – mit Ausnahmen für echte Künstler und Journalisten:
 
-## Kaltstart in 6 Fragen
+- **§ 1 GewO**: Gewerbebetrieb erfordert selbstständige, nachhaltige Tätigkeit mit Gewinnerzielungsabsicht; Anmeldung binnen 4 Wochen nach Aufnahme.
+- **§ 14 GewO**: Anzeigepflicht beim Gewerbeamt; Verstoß ist Ordnungswidrigkeit (§ 146 GewO, bis 1 000 €).
+- **§ 15 GewStG**: Gewerbesteuer ab 24 500 € Gewinn; Hebesatz variiert je Gemeinde (300–900 %).
+- **§ 18 EStG**: Freiberufliche Tätigkeit (Künstler, Journalist) → keine Gewerbesteuer, keine GewO-Pflicht.
+- **Abgrenzung**: Schlichter Influencer = Gewerbetreibender; Journalist/Künstler mit kreativem Kerngehalt kann Freiberufler sein (FG-Rspr. variiert).
+- **KSK**: Freie Journalisten und Künstler können KSK-Mitglied werden → 50 % KV/PV-Ersparnis.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Entscheidungsbaum: Gewerbe oder Freiberuf?
+
+```
+Content = überwiegend Werbung/Marketing?
+  → Ja → Gewerbebetrieb
+  → Nein → Künstlerischer/journalistischer Kerngehalt?
+      → Ja → ggf. freiberuflich, Finanzamtsabstimmung nötig
+      → Nein → Gewerbebetrieb
+```
+
+## Kaltstart-Fragen (6)
+
+1. Welche Art von Content erstellst du – überwiegend Werbung/Marketing oder journalistisch/künstlerisch?
+2. Besteht bereits eine Gewerbeanmeldung oder wurde die Tätigkeit noch nicht angemeldet?
+3. In welcher Gemeinde / welchem Gewerbeamt soll die Anmeldung erfolgen?
+4. Gibt es eine Nebentätigkeit (Angestelltenverhältnis), und falls ja, erlaubt der Arbeitgeber Nebentätigkeit?
+5. Planst du eine Gesellschaft (GbR, UG, GmbH) oder Einzelunternehmen?
+6. Gewünschtes Ergebnis: Anmeldeformular ausfüllen, Abgrenzungsmemo oder GmbH-Überlegung?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Gewinnerzielungsabsicht prüfen: Hobby vs. Gewerbe (Anlaufverluste bis 3 Jahre akzeptiert).
+- Freiberuf-Abgrenzung: Finanzamt entscheidet; bei Zweifel → Antrag auf verbindliche Auskunft.
+- Gewerbesteuerbelastung: Ab 24 500 € Gewinn fällt GewSt an; Anrechnung auf ESt nach § 35 EStG.
+- Nebentätigkeit: Arbeitgeber-Genehmigung einholen (§ 60 HGB, Arbeitsvertrag).
+- Rechtsform: Einzelunternehmen (unkompliziert), GbR (mehrere Creator), UG/GmbH (Haftungsbeschränkung, ab ~40 000 € Gewinn sinnvoll).
+- Pflichtmeldung: Gewerbeamt → Finanzamt → ggf. IHK (Beitrag ab 5 200 € Gewinn).
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Keine Anmeldung, weil „das ist doch nur ein Hobby" → Betriebsprüfung nach 3 Jahren rückwirkend.
+- IHK-Beitrag übersehen → Mahnung.
+- Freiberufsstatus beantragt, aber Finanzamt lehnt ab → Gewerbesteuer-Nachzahlung.
+- GbR mit Partner ohne schriftlichen Gesellschaftsvertrag → Haftungsrisiken.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 1 GewO: https://www.gesetze-im-internet.de/gewo/__1.html
+- § 14 GewO: https://www.gesetze-im-internet.de/gewo/__14.html
+- § 18 EStG – Freiberufliche Einkünfte: https://www.gesetze-im-internet.de/estg/__18.html
+- § 15 GewStG: https://www.gesetze-im-internet.de/gewstg/__15.html
+- § 35 EStG: https://www.gesetze-im-internet.de/estg/__35.html
+
+## Output-Formate
+
+- Gewerbeanmeldungs-Checkliste
+- Freiberuf-Abgrenzungsmemo für das Finanzamt
+- Gewerbesteuer-Kalkulation
+- Formular-Ausfüllhilfe (Fragebogen zur steuerlichen Erfassung)

@@ -1,46 +1,67 @@
 ---
 name: infl-040-produkthaftung-empfehlung-und-haftungsrisiko
-description: "Influencer-Recht: Produkthaftung Empfehlung und Haftungsrisiko mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Produkthaftung bei Empfehlungen – ProdHaftG, § 823 BGB, Haftungsfreistellung, Freistellungsklauseln und Risikoabsicherung."
 ---
 
-# Influencer-Recht: Produkthaftung Empfehlung und Haftungsrisiko
+# Influencer-Recht: Produkthaftung – Empfehlung und Haftungsrisiko
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Produkthaftung Empfehlung und Haftungsrisiko** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Creator können für empfohlene Produkte haftbar werden:
 
-## Kaltstart in 6 Fragen
+- **ProdHaftG § 1**: Hersteller haftet für Schäden durch fehlerhafte Produkte; Creator ist i. d. R. kein Hersteller.
+- **§ 823 Abs. 1 BGB**: Deliktische Haftung des Empfehlenden, wenn er weiß oder wissen musste, dass das Produkt gefährlich ist.
+- **§ 826 BGB**: Vorsätzliche sittenwidrige Schädigung, wenn Creator ein nachweislich gefährliches Produkt wider besseres Wissen empfiehlt.
+- **§ 3 UWG / § 5 UWG**: Falsche oder irreführende Produktbehauptungen (z. B. falsche Sicherheitsaussagen) → Abmahnrisiko.
+- **HWG**: Bei Gesundheitsprodukten: falsche Wirkversprechen → HWG-Verstoß + Schadensersatz.
+- **Freistellungsklausel im Brand Deal**: Brand stellt Creator von Haftungsansprüchen frei, die aus falschen Produktinformationen des Brands entstehen.
+- **Produktrückruf**: Bei Rückruf eines empfohlenen Produkts → Pflicht des Creators, Post zu löschen oder Warnung hinzuzufügen.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Haftungsszenarien
+
+| Szenario | Creator-Haftung |
+|----------|----------------|
+| Empfehlung eines sicheren Produkts mit korrekten Infos | Keine |
+| Empfehlung mit falschen Sicherheitsbehauptungen | § 823 BGB möglich |
+| Creator weiß von Produktmangel, empfiehlt trotzdem | § 826 BGB |
+| Produktrückruf, Creator warnt nicht | § 823 Abs. 1 BGB (Unterlassung) |
+| Nahrungsergänzungsmittel mit falschen HWG-Claims | HWG § 3 + § 823 BGB |
+
+## Kaltstart-Fragen (6)
+
+1. Enthält der Posting-Brief oder der Vertrag Produktbehauptungen, die Creator übernehmen soll?
+2. Gibt es eine Freistellungsklausel für den Creator im Kooperationsvertrag?
+3. Gibt es Hinweise auf bekannte Produktmängel oder vergangene Rückrufe?
+4. Wird ein Gesundheitsprodukt empfohlen, das über HWG-Grenzen geht?
+5. Wie überprüft der Creator die Richtigkeit der Brand-Informationen?
+6. Gewünschtes Ergebnis: Haftungs-Check, Vertragsklausel oder Rückruf-Reaktionsplan?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Freistellungsklausel: Im Kooperationsvertrag verankern; Brand haftet für falsche Produktinfos.
+- Eigenrecherche: Creator sollte keine Aussagen machen, die er nicht selbst verifizieren kann.
+- Produktrückruf: Monitoring einrichten; bei Rückruf sofort Post löschen + Warnung.
+- HWG-Compliance: Keine Heilungsversprechen ohne Nachweis.
+- Wissenszurechnung: Creator haftet nicht für das, was er nicht wissen musste.
+- Versicherung: Berufshaftpflicht für Creator prüfen (Medienhaftpflicht).
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Creator übernimmt Brand-Aussagen über Wirksamkeit ohne Prüfung → bei falschen Claims Mitverantwortung.
+- Produktrückruf nach Post → Post bleibt online → Schadensersatzrisiko.
+- Keine Freistellungsklausel → bei Verbraucherschadensersatz allein haftend.
+- Berufshaftpflicht nicht abgeschlossen → ungesichertes Risiko.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- ProdHaftG: https://www.gesetze-im-internet.de/prodhaftg/
+- § 823 BGB: https://www.gesetze-im-internet.de/bgb/__823.html
+- § 826 BGB: https://www.gesetze-im-internet.de/bgb/__826.html
+- HWG § 3: https://www.gesetze-im-internet.de/heilmwerbg/__3.html
+
+## Output-Formate
+
+- Freistellungsklausel für Brand-Deal-Vertrag
+- Produktrückruf-Reaktionsplan
+- Haftungs-Check vor Produktempfehlung
+- Versicherungsbedarf-Checkliste

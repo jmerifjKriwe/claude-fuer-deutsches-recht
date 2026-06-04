@@ -1,46 +1,65 @@
 ---
 name: infl-005-umsatzsteuer-bei-barter-deal-und-auslandsbrand
-description: "Influencer-Recht: Umsatzsteuer bei Barter Deal und Auslandsbrand mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Umsatzsteuer bei Barter Deals und Kooperationen mit ausländischen Brands – Leistungsaustausch, Reverse Charge, OSS."
 ---
 
-# Influencer-Recht: Umsatzsteuer bei Barter Deal und Auslandsbrand
+# Influencer-Recht: Umsatzsteuer – Barter Deal und Auslands-Brand
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Umsatzsteuer bei Barter Deal und Auslandsbrand** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Barter Deals (Ware gegen Content) und grenzüberschreitende Kooperationen stellen umsatzsteuerliche Fallstricke dar:
 
-## Kaltstart in 6 Fragen
+- **§ 1 UStG**: Tauschleistungen sind steuerbare Umsätze; Barter = Leistung gegen Sachleistung.
+- **§ 3 Abs. 12 UStG**: Tausch/Tauschähnlicher Umsatz – Wert der erhaltenen Ware ist Entgelt für die Content-Leistung.
+- **§ 3a UStG**: Leistungsort bei sonstigen Leistungen an Unternehmer im Ausland → Empfängerortprinzip → Reverse Charge.
+- **§ 13b UStG**: Steuerschuldnerschaft des Leistungsempfängers (Reverse Charge) bei Dienstleistungen von EU-Auslandsunternehmen.
+- **OSS-Verfahren** (§ 18j UStG): Für Creator, die B2C-Leistungen in andere EU-Länder erbringen; i. d. R. nicht einschlägig für Creator, die an Unternehmen leisten.
+- **§ 19 UStG**: Kleinunternehmer berechnen keine USt, schulden sie aber auch nicht; Barter-Wert trotzdem in Umsatzschwelle einrechnen.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Übersicht Leistungsortbestimmung
+
+| Brand-Sitz | Creator-Status | Steuerschuldner | USt-Ausweis |
+|------------|---------------|-----------------|-------------|
+| Deutschland | Regelbesteuerer | Creator | Creator weist aus |
+| EU-Ausland | Regelbesteuerer | Brand (Reverse Charge) | Creator ohne USt, mit RC-Hinweis |
+| USA/Drittland | Regelbesteuerer | Brand | Creator ohne USt, Steuerfreiheit § 4 Nr. 1a UStG |
+| Deutschland | Kleinunternehmer | – | Kein USt-Ausweis |
+
+## Kaltstart-Fragen (6)
+
+1. Wo hat das kooperationsanbietende Unternehmen seinen Sitz?
+2. Bist du umsatzsteuerlicher Regelbesteuerer oder Kleinunternehmer?
+3. Was ist der Marktwert der erhaltenen Ware / Dienstleistung?
+4. Liegt eine schriftliche Vereinbarung mit Leistungsbeschreibung und Wert vor?
+5. Hat der Brand eine USt-ID, und hast du diese verifiziert (VIES)?
+6. Gewünschtes Ergebnis: Rechnungsvorlage, Steuercheck oder Buchen-Anleitung?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Leistungsort bestimmen: Creator erbringt Marketingleistung an Unternehmer → B2B → Empfängerort.
+- Reverse-Charge: EU-Auslands-Brand empfängt Leistung → Brand schuldet deutsche USt; Creator stellt Rechnung ohne USt.
+- Barter-Wert: Gemeiner Wert der Sachleistung = Entgelt → in EÜR als Einnahme + Ausgabe (Betriebsmittel).
+- Kleinunternehmer: Barter-Umsatz in Jahresumsatz einrechnen → Grenze 22 000 € beachten.
+- Rechnungspflicht: § 14 UStG – Pflichtangaben inkl. Hinweis „Steuerschuldnerschaft des Leistungsempfängers" bei RC.
+- Dokumentation: VIES-Abfrage des Brand sichern (Screenshot mit Datum).
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Barter-Wert nicht in EÜR erfasst → Umsatz zu niedrig → Steuernachzahlung.
+- Reverse Charge vergessen → Creator weist fälschlich USt aus → Korrekturbedarf.
+- Kleinunternehmer-Umsatzgrenze durch Barter überschritten → Regelbesteuerung rückwirkend.
+- VIES-Verifikation nicht dokumentiert → Haftungsrisiko bei RC-Missbrauch.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 1 UStG: https://www.gesetze-im-internet.de/ustg_1980/__1.html
+- § 3 Abs. 12 UStG: https://www.gesetze-im-internet.de/ustg_1980/__3.html
+- § 3a UStG: https://www.gesetze-im-internet.de/ustg_1980/__3a.html
+- § 13b UStG: https://www.gesetze-im-internet.de/ustg_1980/__13b.html
+- § 19 UStG: https://www.gesetze-im-internet.de/ustg_1980/__19.html
+
+## Output-Formate
+
+- Rechnungsvorlage (DE-Brand / EU-Brand / Drittland-Brand)
+- Steuercheck: Reverse Charge ja/nein
+- EÜR-Buchungsnotiz für Barter Deal

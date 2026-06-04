@@ -1,46 +1,66 @@
 ---
 name: infl-038-reisekosten-pressereise-und-gemischte-veranlassung
-description: "Influencer-Recht: Reisekosten Pressereise und gemischte Veranlassung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Reisekosten und Pressereisen – steuerliche Abzugsfähigkeit, gemischte Veranlassung, Kennzeichnungspflicht und Dokumentation."
 ---
 
-# Influencer-Recht: Reisekosten Pressereise und gemischte Veranlassung
+# Influencer-Recht: Reisekosten, Pressereise und gemischte Veranlassung
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Reisekosten Pressereise und gemischte Veranlassung** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Reisen mit Content-Anteil sind steuerlich die schwierigste Kategorie:
 
-## Kaltstart in 6 Fragen
+- **§ 4 Abs. 4 EStG**: Betriebsausgaben = Aufwendungen mit betrieblicher Veranlassung; Reise muss überwiegend betrieblich sein.
+- **§ 12 Nr. 1 EStG**: Private Lebensführungskosten nicht abziehbar; Urlaub = private Veranlassung.
+- **BFH-Grundsatz**: Gemischte Reisen aufteilbar, wenn betrieblicher und privater Teil trennbar (nach Tagen oder Stunden); BFH XI R 14/09 (2010).
+- **§ 8 EStG**: Pressereise = Betriebseinnahme (Marktwert), wenn Kooperationsauftrag besteht.
+- **§ 9 Abs. 1 Nr. 4a EStG**: Pauschalen für Verpflegungsmehraufwand bei Auswärtstätigkeit (auch für Selbstständige mit § 4 Abs. 5 EStG).
+- **§ 5a UWG / § 22 MStV**: Pressereise mit Posting-Auftrag → Kennzeichnungspflicht.
+- **§ 4 Abs. 5 Nr. 6b EStG**: Häusliches Arbeitszimmer: Reise beginnt von zu Hause → keine Erstattung erster/letzter Kilometer.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Reise-Steuermatrix
+
+| Reiseart | Einnahme Creator | Betriebsausgabe Creator |
+|----------|-----------------|------------------------|
+| Pressereise bezahlt vom Brand | Ja (Marktwert) | Reise-Kosten sind bezahlt: nein |
+| Selbst organisierte Content-Reise | Nein | Ja (anteilig nach Tagen) |
+| Gemischte Reise (50/50) | Nein | Ja (50 % der Kosten) |
+| Urlaub ohne Content-Bezug | Nein | Nein |
+
+## Kaltstart-Fragen (6)
+
+1. Hat ein Brand die Reise bezahlt, oder wurde sie selbst finanziert?
+2. Welcher Anteil der Reise ist betrieblich (Content, Meetings) vs. privat (Urlaub)?
+3. Gibt es einen Posting-Auftrag oder eine Kooperationsvereinbarung?
+4. Wird ein Reisetagebuch / Stundenbelegung der betrieblichen Tätigkeit geführt?
+5. Sind Verpflegungspauschalen (Tagegeld) relevant?
+6. Gewünschtes Ergebnis: Steuernotiz, Reisekostenabrechnung oder Kennzeichnungsampel?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Betriebliche Veranlassung dokumentieren: Shooting-Termine, Meeting-Protokolle, Content-Output.
+- Aufteilungsmaßstab: Tage-Methode (6 von 10 Tagen betrieblich → 60 % der Kosten).
+- Pressereise vom Brand: Vollständige Reiseleistung = Betriebseinnahme; eigene Zusatzkosten = Betriebsausgabe.
+- Tagegeld: Gesetzliche Verpflegungspauschalen (§ 4 Abs. 5 EStG) für Auswärtstätigkeit.
+- Kennzeichnung: Jeder Post aus Pressereise → § 5a UWG-Pflicht.
+- Beweissicherung: Fotos mit Metadaten (Datum, Ort), Boarding Passes, Hotel-Rechnungen.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Ferienurlaub + 2 Posts = keine „betriebliche Reise" → Abzug komplett verweigert.
+- Pressereise nicht als Einnahme verbucht → Betriebsprüfungsrisiko.
+- Kein Reisetagebuch → Finanzamt schätzt privaten Anteil zu hoch.
+- Kennzeichnung für Pressereise-Content vergessen → Abmahnrisiko.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 4 Abs. 4 EStG: https://www.gesetze-im-internet.de/estg/__4.html
+- § 12 EStG: https://www.gesetze-im-internet.de/estg/__12.html
+- § 9 Abs. 1 Nr. 4a EStG: https://www.gesetze-im-internet.de/estg/__9.html
+- § 5a Abs. 4 UWG: https://www.gesetze-im-internet.de/uwg_2004/__5a.html
+
+## Output-Formate
+
+- Reisekosten-Abrechnung-Vorlage (mit Aufteilung)
+- Reisetagebuch-Vorlage
+- Kennzeichnungsampel (Pressereise-Posts)
+- Betriebseinnahme-Buchungsnotiz (Pressereise vom Brand)

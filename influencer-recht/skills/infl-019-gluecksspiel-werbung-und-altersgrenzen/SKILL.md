@@ -1,46 +1,67 @@
 ---
 name: infl-019-gluecksspiel-werbung-und-altersgrenzen
-description: "Influencer-Recht: Glücksspiel Werbung und Altersgrenzen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Glücksspiel-Werbung – GlüStV 2021, Werbeverbote, Altersgrenzen, Sperrdatei und Haftungsrisiken für Creator."
 ---
 
-# Influencer-Recht: Glücksspiel Werbung und Altersgrenzen
+# Influencer-Recht: Glücksspiel-Werbung und Altersgrenzen
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Glücksspiel Werbung und Altersgrenzen** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Glücksspiel-Werbung durch Influencer ist stark reguliert und teilweise verboten:
 
-## Kaltstart in 6 Fragen
+- **§ 5 GlüStV 2021**: Glücksspiel-Werbung nur erlaubt, wenn der Glücksspielanbieter eine gültige Lizenz nach GlüStV hat; Werbung muss Suchthilfe-Hinweis enthalten.
+- **§ 5 Abs. 3 GlüStV**: Keine Werbung, die sich besonders an Minderjährige richtet; Altersgrenzen strikt.
+- **§ 5 Abs. 4 GlüStV**: Werbeverbot in bestimmten Formaten (z. B. Werbung, die reale Gewinnchancen verzerrt).
+- **§ 4 GlüStV**: Illegalem Glücksspiel (ohne deutsche Lizenz) darf nicht Vorschub geleistet werden; Werbung = strafbare Beihilfe.
+- **§ 284 StGB**: Unerlaubte Veranstaltung von Glücksspiel; Beihilfe durch Werbung möglich.
+- **JMStV**: Glücksspiel-Werbung nicht ohne Altersverifikation zulässig, wenn Minderjährige angesprochen werden können.
+- **§ 5a UWG**: Kennzeichnungspflicht für gesponserte Glücksspiel-Posts.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Erlaubt-/Verboten-Matrix
+
+| Situation | Status |
+|-----------|--------|
+| Werbung für lizenziertes Online-Casino (GlüStV-Lizenz) | Grds. erlaubt mit Auflagen |
+| Werbung für nicht lizenziertes Casino (Curacao-Lizenz) | Verboten, Beihilfe § 284 StGB |
+| „Responsible Gambling"-Hinweis fehlt | GlüStV-Verstoß |
+| Content richtet sich erkennbar an Minderjährige | Verboten |
+| Sportwetten-Werbung mit Bonus-Versprechen | Eingeschränkt erlaubt |
+
+## Kaltstart-Fragen (6)
+
+1. Hat der Glücksspielanbieter eine Lizenz nach GlüStV 2021, und kann diese nachgewiesen werden?
+2. Richtet sich der Content an Minderjährige oder hat er erhebliche Minderjährigen-Reichweite?
+3. Enthält der Post einen Suchthilfe-Hinweis (Bundeszentrale für gesundheitliche Aufklärung)?
+4. Werden unrealistische Gewinnversprechen gemacht?
+5. Wurden Konditionen und Boni korrekt kommuniziert?
+6. Gewünschtes Ergebnis: Lizenz-Verifikations-Hilfe, Compliance-Text oder Ablehnungsempfehlung?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Lizenzverifikation: GlüStV-Lizenz des Anbieters beim Bundeszentralamt für Steuern oder staatlichen Lotterien prüfen.
+- § 284 StGB-Risiko: Werbung für EU-ausländischen Anbieter ohne DE-Lizenz → Beihilfeprüfung.
+- Zielgruppenanalyse: Audience-Demografie → Minderjährigen-Anteil über 10 % → erhöhtes Risiko.
+- Pflichtinhalte: Suchthilfe-Hinweis, Mindestalter 18, BZgA-Verweis.
+- Kennzeichnung: § 5a UWG + § 22 MStV.
+- Ablehnungsempfehlung: Bei nicht verifizierbarer Lizenz dringend empfehlen, Kooperation abzulehnen.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Anbieter mit Curacao-Lizenz als „lizenziert" dargestellt → in DE illegal.
+- Bonus-Aktion mit irreführenden Konditionen → § 5 UWG.
+- Kein Suchthilfe-Hinweis → GlüStV-Bußgeld.
+- Creator mit jungem Publikum → § 5 Abs. 3 GlüStV-Verstoß.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 5 GlüStV 2021: https://www.gesetze-im-internet.de/gluestv_2021/__5.html
+- § 284 StGB: https://www.gesetze-im-internet.de/stgb/__284.html
+- § 5a UWG: https://www.gesetze-im-internet.de/uwg_2004/__5a.html
+- JMStV: https://www.gesetze-im-internet.de/jmstv/
+
+## Output-Formate
+
+- Glücksspiel-Kooperation: Ampelcheck (annehmen/ablehnen)
+- Pflichthinweis-Text für GlüStV-konforme Werbung
+- Lizenz-Verifikationsprotokoll
+- Ablehnungsschreiben an Glücksspielanbieter

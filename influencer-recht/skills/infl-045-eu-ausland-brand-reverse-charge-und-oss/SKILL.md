@@ -1,46 +1,65 @@
 ---
 name: infl-045-eu-ausland-brand-reverse-charge-und-oss
-description: "Influencer-Recht: EU-Ausland Brand Reverse Charge und OSS mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Kooperationen mit EU-Auslands-Brands – Reverse Charge, OSS-Verfahren, Rechnungsstellung und Steuerdeklaration."
 ---
 
-# Influencer-Recht: EU-Ausland Brand Reverse Charge und OSS
+# Influencer-Recht: EU-Ausland Brand – Reverse Charge und OSS
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **EU-Ausland Brand Reverse Charge und OSS** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Grenzüberschreitende Kooperationen innerhalb der EU haben besondere USt-Regeln:
 
-## Kaltstart in 6 Fragen
+- **§ 3a Abs. 2 UStG**: Sonstige Leistungen (Marketing, Content) an Unternehmen im EU-Ausland: Leistungsort = Empfängerort → Reverse Charge.
+- **§ 13b Abs. 1 UStG**: Steuerschuldner bei Reverse Charge = Leistungsempfänger (EU-Brand); Creator stellt Rechnung ohne USt aus.
+- **§ 14a Abs. 1 UStG**: Pflichthinweis auf Rechnung: „Steuerschuldnerschaft des Leistungsempfängers" oder auf Englisch „Reverse Charge".
+- **§ 18a UStG**: Zusammenfassende Meldung (ZM) für EU-Auslandsleistungen; monatlich oder quartalsweise.
+- **§ 6a UStG**: Innergemeinschaftliche Lieferungen (wenn Ware geliefert wird); hier: Dienstleistungen = § 3a UStG.
+- **OSS (One Stop Shop, § 18j UStG)**: Für B2C-Leistungen in EU; für Creator-Leistungen an EU-Unternehmen nicht relevant (Reverse Charge greift).
+- **VIES**: EU-USt-ID-Verifizierungssystem; Creator muss Brand-USt-ID vor Rechnungsstellung verifizieren.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Rechnungsstellungs-Matrix EU-Auslands-Brand
+
+| Creator-Status | Brand-Ansässigkeit | Rechnung Creator |
+|---------------|------------------|-----------------|
+| Regelbesteuerer | EU-Land | Ohne DE-USt; RC-Hinweis; ZM |
+| Kleinunternehmer | EU-Land | Ohne USt; KU-Hinweis |
+| Regelbesteuerer | Drittland (USA) | Ohne USt; § 4 Nr. 1a UStG |
+
+## Kaltstart-Fragen (6)
+
+1. In welchem EU-Land ist der Brand ansässig, und hat er eine gültige USt-ID?
+2. Wurde die USt-ID des Brands über VIES verifiziert?
+3. Bist du Regelbesteuerer oder Kleinunternehmer?
+4. Enthält deine Rechnung den Reverse-Charge-Pflichthinweis?
+5. Hast du für den Zeitraum bereits eine ZM (Zusammenfassende Meldung) eingereicht?
+6. Gewünschtes Ergebnis: Rechnungsvorlage, ZM-Anleitung oder Steuercheck?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- USt-ID-Verifikation: VIES-Abfrage → Screenshot als Dokumentation.
+- Rechnungstext: „Steuerschuldnerschaft des Leistungsempfängers" + §-Hinweis.
+- ZM: Quartalsweise ZM über Elster oder Steuerberater; Fälligkeitsfrist 25. des Folgemonats.
+- EÜR: Einnahme netto in EÜR erfassen; keine DE-USt zu zahlen, aber Umsatz zählt zu Jahresumsatz.
+- Sachleistungen aus EU: Barter Deal mit EU-Brand → Reverse Charge gilt auch.
+- Kleinunternehmer: Kein RC-Verfahren; trotzdem USt-ID des Brands prüfen; ZM-Pflicht entfällt.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Keine VIES-Abfrage → fehlende Dokumentation → Haftungsrisiko bei RC-Missbrauch.
+- ZM vergessen → Bußgeld bis 2 500 € (§ 26a UStG).
+- Rechnung mit DE-USt ausgestellt → Doppelbesteuerung; Korrektur nötig.
+- Barter-Deal mit EU-Brand: Marktwert bestimmen, RC anwenden, ZM einreichen.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 3a Abs. 2 UStG: https://www.gesetze-im-internet.de/ustg_1980/__3a.html
+- § 13b UStG: https://www.gesetze-im-internet.de/ustg_1980/__13b.html
+- § 18a UStG – ZM: https://www.gesetze-im-internet.de/ustg_1980/__18a.html
+- VIES-Abfrage: https://ec.europa.eu/taxation_customs/vies/
+
+## Output-Formate
+
+- Rechnung EU-Brand (Muster mit RC-Hinweis)
+- VIES-Verifikations-Protokoll
+- ZM-Einreichungs-Anleitung
+- Barter-Deal-EU-Steuerkalkulation

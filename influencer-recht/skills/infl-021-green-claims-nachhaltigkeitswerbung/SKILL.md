@@ -1,46 +1,66 @@
 ---
 name: infl-021-green-claims-nachhaltigkeitswerbung
-description: "Influencer-Recht: Green Claims Nachhaltigkeitswerbung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Green Claims und Nachhaltigkeitswerbung – EU Green Claims Directive, UWG, Greenwashing-Verbote und Compliance."
 ---
 
-# Influencer-Recht: Green Claims Nachhaltigkeitswerbung
+# Influencer-Recht: Green Claims und Nachhaltigkeitswerbung
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Green Claims Nachhaltigkeitswerbung** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Nachhaltigkeitsaussagen in Creator-Content stehen unter verschärfter Prüfung:
 
-## Kaltstart in 6 Fragen
+- **§ 5 Abs. 1 UWG**: Irreführende Werbung verboten; unsubstanziierte Umweltbehauptungen sind irreführend.
+- **§ 5a UWG**: Weglassen wesentlicher Informationen (z. B. Einschränkungen der Nachhaltigkeit).
+- **EU-Richtlinie über Green Claims (COM/2023/166)**: Verbindliche Verpflichtung zur Substantiierung von Umweltaussagen vor Nutzung; tritt voraussichtlich 2026 in Kraft.
+- **EU-Richtlinie Empowering Consumers (2022/0092)**: Verbot generischer Umweltaussagen ohne Nachweis; gilt ab 2026.
+- **§ 3 UWG**: Allgemeines Verbot unlauterer Geschäftspraktiken; Greenwashing als unlautere Praxis.
+- **UGP-Richtlinie Anhang I (Black List)**: „CO₂-neutral" ohne Nachweis = verbotene Geschäftspraktik.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Zulässige vs. unzulässige Aussagen
+
+| Aussage | Status |
+|---------|--------|
+| „100 % recyceltes Material" (mit Nachweis) | Erlaubt |
+| „Klimaneutral" ohne Zertifikat | Unzulässig (Black List ab 2026) |
+| „Nachhaltig produziert" (vage, ohne Erklärung) | Riskant – § 5 UWG |
+| „Zertifiziert biologisch" (EU Bio-Logo) | Erlaubt |
+| „Gut für die Umwelt" (keine Einschränkung) | Irreführend |
+| „Weniger CO₂ als Vorjahr" (mit Daten) | Erlaubt |
+
+## Kaltstart-Fragen (6)
+
+1. Welche Nachhaltigkeitsbehauptung enthält der Brand Deal oder Content-Brief?
+2. Welche Belege hat der Brand für die Aussage (Zertifikate, Studien, Drittverifizierung)?
+3. Ist die Aussage zeitlich/räumlich/sachlich eingeschränkt, und wird das kommuniziert?
+4. Gibt es eine Abmahnung wegen Greenwashing oder eine Behördenanfrage?
+5. Soll der Content angepasst oder abgelehnt werden?
+6. Gewünschtes Ergebnis: Aussagen-Check, konforme Formulierung oder Abmahnreaktion?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Substantiierungstest: Liegt Nachweis für Aussage vor? Drittverifizierung (TÜV, Bureau Veritas)?
+- Spezifizierungstest: „Nachhaltig" ohne Spezifikation → § 5 UWG-Risiko.
+- Green Claims Directive: Aussagen zukunftssicher gestalten (ab 2026 obligatorisch).
+- CO₂-Kompensation: „CO₂-neutral durch Kompensation" muss klar deklariert sein.
+- Vergleichende Aussagen: Vergleich mit was? Wann? → § 6 UWG (vergleichende Werbung).
+- Creator-Haftung: Auch Creator haftet für irreführende Aussagen im eigenen Post.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Brand behauptet „klimaneutral", belegt es nicht → Creator haftet mit.
+- „Vegan und nachhaltig" ohne Erklärung → zu vage.
+- Kompensations-Greenwashing: Emissionen nur aufgekauft, nicht reduziert.
+- Zertifikat abgelaufen oder nicht akkreditiert.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 5 UWG: https://www.gesetze-im-internet.de/uwg_2004/__5.html
+- EU Green Claims Directive (Entwurf): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=COM:2023:166:FIN
+- EU Empowering Consumers Directive: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32024L0825
+
+## Output-Formate
+
+- Green-Claims-Ampel
+- Substantiierungs-Checkliste für Brand
+- Konforme Reformulierungen
+- Abmahnreaktion Greenwashing

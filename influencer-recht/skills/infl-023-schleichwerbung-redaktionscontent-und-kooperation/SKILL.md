@@ -1,46 +1,68 @@
 ---
 name: infl-023-schleichwerbung-redaktionscontent-und-kooperation
-description: "Influencer-Recht: Schleichwerbung Redaktionscontent und Kooperation mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Schleichwerbung und Redaktionsinhalt – § 5a UWG, §§ 138 und 826 BGB, Sittenwidrigkeit, Abgrenzung bezahlter Content vs. redaktionelle Empfehlung."
 ---
 
-# Influencer-Recht: Schleichwerbung Redaktionscontent und Kooperation
+# Influencer-Recht: Schleichwerbung – Redaktionscontent und Kooperation
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Schleichwerbung Redaktionscontent und Kooperation** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Schleichwerbung ist eine der häufigsten Abmahnursachen im Creator-Bereich:
 
-## Kaltstart in 6 Fragen
+- **§ 5a Abs. 4 UWG**: Kommerzieller Zweck muss erkennbar sein; nicht erkennbare Werbung = Schleichwerbung = unlautere Geschäftspraktik.
+- **§ 3 Abs. 3 UWG i. V. m. Anhang Nr. 11**: Schleichwerbung als per-se-unzulässige Handlung (Black List).
+- **§ 22 MStV**: Trennungsgebot; Werbung muss als solche erkennbar und vom redaktionellen Inhalt getrennt sein.
+- **§ 138 BGB**: Sittenwidrigkeit bei systematischer Schleichwerbung mit Täuschungsabsicht.
+- **§ 826 BGB**: Vorsätzliche sittenwidrige Schädigung; relevant bei koordinierter Kaufempfehlungs-Manipulation.
+- **§ 4 Nr. 3 UWG**: Getarnte Geschäftspraktiken (Advertorial ohne Kennzeichnung) als unlauter.
+- **BGH „Cathy Hummels"** (I ZR 90/20): Differenzierung zwischen eigenmotivierten und kooperationsbasierten Posts.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Entscheidungsbaum: Schleichwerbung?
+
+```
+Gibt es eine Gegenleistung (Geld, Produkt, Vorteil)?
+  → Ja → Kennzeichnung als "Werbung" zwingend
+  → Nein → Besteht wirtschaftliches Eigeninteresse?
+      → Ja → BGH-Prüfung: Offensichtlichkeit für Follower?
+      → Nein → Redaktioneller Content, keine Pflicht
+```
+
+## Kaltstart-Fragen (6)
+
+1. Besteht eine Gegenleistungsbeziehung (Geld, Produkt, Zugänge, Reisen)?
+2. Ist der Post als Werbung/Kooperation/Anzeige gekennzeichnet?
+3. Handelt es sich um eine eigene Empfehlung ohne Auftrag (organischer Post)?
+4. Liegt bereits eine Abmahnung oder ein Ordnungsgeld vor?
+5. Geht es um Einzelfall oder systematisches Problem (mehrere ungekennzeichnete Posts)?
+6. Gewünschtes Ergebnis: Post-Korrektur, Unterlassungserklärung oder Verteidigungsstrategie?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Gegenleistungstest: Jede Form von Vorteil (auch zukünftige Kooperationschance) → Kennzeichnung.
+- Erkennbarkeitstest: Wäre für den durchschnittlich informierten Follower der kommerzielle Zweck ohne Label klar?
+- Systematik: Bei Muster von ungekennzeichneten Posts → § 826 BGB-Risiko + erhöhter Schadensersatz.
+- Korrektur: Nachträgliche Kennzeichnung möglichst umgehend; ggf. Löschung und Neuveröffentlichung.
+- Unterlassungserklärung: Bei Abmahnung nur modifiziert abgeben; strafbewehrte Verpflichtung prüfen.
+- Bußgeld: Landesmedienanstalten können Bußgelder bis 500 000 € verhängen (§ 115 MStV).
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Eigenempfehlung, die im Nachhinein bezahlt wird → rückwirkende Kennzeichnungspflicht.
+- „Danke an Brand für das Produkt" ohne Werbung-Label → unzureichend.
+- Finanzierter Reisebericht ohne „Werbung"-Hinweis → häufigste Abmahnkonstellation.
+- Post-Löschung nach Abmahnung nicht ausreichend → Unterlassungserklärung nötig.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 5a Abs. 4 UWG: https://www.gesetze-im-internet.de/uwg_2004/__5a.html
+- § 22 MStV: https://www.gesetze-im-internet.de/mstv/__22.html
+- § 138 BGB: https://www.gesetze-im-internet.de/bgb/__138.html
+- § 826 BGB: https://www.gesetze-im-internet.de/bgb/__826.html
+- BGH I ZR 90/20: https://openjur.de/u/2395894.html
+
+## Output-Formate
+
+- Post-Kennzeichnungs-Korrektur
+- Modifizierte Unterlassungserklärung
+- Verteidigungsschreiben bei Abmahnung
+- Systematik-Audit: Alle Posts auf Schleichwerbung prüfen

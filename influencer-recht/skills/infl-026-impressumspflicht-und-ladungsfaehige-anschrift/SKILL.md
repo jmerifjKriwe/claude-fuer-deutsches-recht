@@ -1,46 +1,68 @@
 ---
 name: infl-026-impressumspflicht-und-ladungsfaehige-anschrift
-description: "Influencer-Recht: Impressumspflicht und ladungsfähige Anschrift mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Impressumspflicht für Creator – § 5 TMG, § 18 MStV, ladungsfähige Anschrift, Pflichtangaben und Datenschutz."
 ---
 
 # Influencer-Recht: Impressumspflicht und ladungsfähige Anschrift
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Impressumspflicht und ladungsfähige Anschrift** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Jeder Creator mit geschäftsmäßig genutztem Account benötigt ein Impressum:
 
-## Kaltstart in 6 Fragen
+- **§ 5 TMG**: Diensteanbieter mit geschäftsmäßig bereitgestellten Telemedien müssen Impressum mit Pflichtangaben bereithalten; leicht erkennbar, unmittelbar erreichbar, ständig verfügbar.
+- **§ 18 MStV**: Erweiterte Impressumspflicht für journalistisch-redaktionelle Angebote; gilt auch für Meinungsbildner mit hoher Reichweite.
+- **§ 5 Abs. 1 Nr. 1 TMG**: Ladungsfähige Anschrift (Straße, Nr., PLZ, Stadt); kein Postfach allein ausreichend.
+- **§ 13 Abs. 6 TMG / DSGVO Art. 13**: Datenschutzerklärung muss im Impressum verlinkt oder direkt enthalten sein.
+- **§ 15a UStG**: USt-ID-Pflicht im Impressum, wenn Unternehmer.
+- **DSGVO Art. 5**: Datenminimierung – private Anschrift kann für Creator ein Datenschutzproblem sein; Lösungsweg: Postadresse (Briefkasten beim Steuerberater, Postservice).
+- **Plattform-Umsetzung**: Link „Impressum" muss direkt im Profil (Bio-Link) oder als Menüpunkt erreichbar sein; auf Instagram als separate Seite verlinkbar.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Pflichtangaben § 5 TMG
+
+| Angabe | Beispiel |
+|--------|----------|
+| Name | Max Mustermann |
+| Anschrift | Musterstraße 1, 12345 Berlin |
+| E-Mail | info@creator.de |
+| Telefon | +49 30 12345678 |
+| USt-ID | DE123456789 (falls vorhanden) |
+| Handelsregister | HRB 12345, AG Berlin (falls GmbH) |
+| Berufsrechtliche Regelungen | ggf. Kammer, Berufsaufsicht |
+
+## Kaltstart-Fragen (6)
+
+1. Welche Plattformen werden geschäftsmäßig genutzt (Instagram, TikTok, YouTube, Website)?
+2. Liegt ein vollständiges Impressum vor und ist es von allen Plattformen erreichbar?
+3. Möchtest du keine private Wohnanschrift veröffentlichen?
+4. Hast du eine USt-ID, und ist sie im Impressum eingetragen?
+5. Gibt es bereits eine Abmahnung wegen fehlendem oder unvollständigem Impressum?
+6. Gewünschtes Ergebnis: Impressum erstellen, prüfen oder Abmahnantwort?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Geschäftsmäßigkeit: Jeder Creator mit Kooperationseinnahmen → § 5 TMG-Pflicht.
+- Ladungsfähige Anschrift: Private Adresse vs. Geschäftsadresse/Postdienst; beides zulässig, solange Zustellbarkeit gewährleistet.
+- Erreichbarkeit: Max. 2 Klicks vom Startseiten-/Profilaufruf bis zum Impressum.
+- Vollständigkeit: Alle § 5 TMG-Angaben vorhanden; Datenschutzerklärung verlinkt.
+- Plattformspezifisch: Instagram „Bio-Link" → Impressum über Linktree oder direkte URL.
+- Abmahnung: Oft kostengünstig zu regulieren; modifizierte Unterlassungserklärung + Abmahnkosten (§ 13 Abs. 4 UWG Deckelung auf 100 €/Jahr für Erstverstoß bei KU).
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Nur E-Mail, keine Anschrift → § 5 TMG-Verstoß.
+- Postfach ohne ladungsfähige Anschrift → nicht ausreichend.
+- Impressum nur auf Website, nicht auf Social-Media-Profil verlinkt → Abmahnrisiko.
+- Veraltete Adresse nach Umzug → falsches Impressum = UWG-Verstoß.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 5 TMG: https://www.gesetze-im-internet.de/tmg/__5.html
+- § 18 MStV: https://www.gesetze-im-internet.de/mstv/__18.html
+- DSGVO Art. 13: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679
+
+## Output-Formate
+
+- Impressum-Vorlage (vollständig nach § 5 TMG)
+- Checkliste: Impressum auf allen Plattformen prüfen
+- Abmahnreaktions-Schreiben (Impressumsmangel)
+- Postadress-Alternativen (Datenschutz-konform)

@@ -1,46 +1,69 @@
 ---
 name: infl-035-mitarbeiter-posten-fuer-unternehmen
-description: "Influencer-Recht: Mitarbeiter posten für Unternehmen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Social-Media-Guidelines für Mitarbeiter – arbeitsrechtliche Pflichten, Haftung, Datenschutz und Employee Advocacy."
 ---
 
-# Influencer-Recht: Mitarbeiter posten für Unternehmen
+# Influencer-Recht: Mitarbeiter posten für das Unternehmen
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Mitarbeiter posten für Unternehmen** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Wenn Mitarbeiter im Auftrag ihres Arbeitgebers Social-Media-Posts verfassen, entstehen mehrere Rechtsfragen:
 
-## Kaltstart in 6 Fragen
+- **§ 241 Abs. 2 BGB / § 60 HGB**: Loyalitätspflicht des Arbeitnehmers; Posts dürfen Arbeitgeber nicht schädigen.
+- **§ 5a UWG**: Mitarbeiter-Posts für das Unternehmen müssen als Werbung gekennzeichnet werden, wenn kommerzieller Zweck nicht offensichtlich ist.
+- **DSGVO Art. 88**: Datenschutz im Beschäftigungsverhältnis; Mitarbeiter, die Kundendaten in Posts verwenden, können DSGVO verletzen.
+- **§ 823 BGB**: Mitarbeiter haftet persönlich für vorsätzliche oder grob fahrlässige Rechtsverletzungen im Post.
+- **§ 25 KSchG / § 626 BGB**: Kündigung bei schweren Vertragsverletzungen durch Social-Media-Posts möglich.
+- **Betriebsrat (§ 87 Abs. 1 Nr. 1 BetrVG)**: Social-Media-Richtlinien können mitbestimmungspflichtig sein.
+- **§ 11 GeschGehG**: Betriebsgeheimnisse dürfen nicht in Mitarbeiter-Posts veröffentlicht werden.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Social-Media-Richtlinien: Mindestinhalt
+
+| Regelung | Inhalt |
+|---------|--------|
+| Kennzeichnungspflicht | „Ich arbeite für [Unternehmen]" als Disclosure |
+| Datenschutz | Keine Kundendaten, keine Betriebsinterna |
+| Inhaltsverbote | Keine vertraulichen Informationen, keine Konkurrenz-Kritik |
+| Nutzungsrechte | Wem gehören Inhalte, die der Mitarbeiter für das Unternehmen erstellt? |
+| Krisenmanagement | Was tun bei negativen Kommentaren? |
+| Persönliche Accounts | Klare Trennung Privatperson vs. Unternehmensvertreter |
+
+## Kaltstart-Fragen (6)
+
+1. Sollen Mitarbeiter im Rahmen eines organisierten Employee-Advocacy-Programms posten?
+2. Gibt es eine Social-Media-Richtlinie, und ist sie arbeitsrechtlich wirksam vereinbart?
+3. Wurde der Betriebsrat (falls vorhanden) einbezogen?
+4. Werden Kundendaten oder Betriebsinterna im Content erwähnt?
+5. Wie sind Nutzungsrechte an Mitarbeiter-erstelltem Content geregelt?
+6. Gewünschtes Ergebnis: Social-Media-Richtlinie, Schulungskonzept oder Einzelfall-Check?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Arbeitsrechtliche Grundlage: Freiwilligkeit vs. Weisung; Weisungsgebundenheit = Arbeitszeit.
+- Kennzeichnung: Mitarbeiter muss Verbindung zum Arbeitgeber offenlegen (§ 5a UWG).
+- DSGVO: Keine personenbezogenen Daten Dritter ohne Rechtsgrundlage.
+- Urheberrecht: Content im Arbeitsverhältnis → § 43 UrhG – Nutzungsrecht des Arbeitgebers.
+- Betriebsrat: § 87 BetrVG – Mitbestimmung bei Verhaltensregeln für Mitarbeiter.
+- Kündigung: Schwere Posts (Betriebsgeheimnisse, Diskriminierung) → Abmahnung + ggf. Kündigung.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Mitarbeiter postet Kundenfoto ohne Einwilligung → DSGVO-Verstoß, Haftung Unternehmen.
+- Employee postet Firmengeheimnis versehentlich → § 11 GeschGehG.
+- Unternehmen weist Mitarbeiter zu Posting ohne Kennzeichnungshinweis → UWG-Verstoß.
+- Kein Betriebsrats-Einbezug → Richtlinie unwirksam.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 241 Abs. 2 BGB: https://www.gesetze-im-internet.de/bgb/__241.html
+- § 43 UrhG – Arbeitnehmerwerke: https://www.gesetze-im-internet.de/urhg/__43.html
+- § 87 BetrVG: https://www.gesetze-im-internet.de/betrvg/__87.html
+- § 11 GeschGehG: https://www.gesetze-im-internet.de/geschgehg/__11.html
+- DSGVO Art. 88: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679
+
+## Output-Formate
+
+- Social-Media-Richtlinie (Vorlage)
+- Mitarbeiter-Schulungskonzept
+- Kennzeichnungs-Checkliste für Employee Posts
+- Kündigung nach Social-Media-Verstoß: Prüfschema

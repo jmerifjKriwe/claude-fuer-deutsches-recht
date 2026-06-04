@@ -1,46 +1,63 @@
 ---
 name: infl-027-dsa-plattformbeschwerde-und-account-sperre
-description: "Influencer-Recht: DSA Plattformbeschwerde und Account Sperre mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: DSA – Plattformbeschwerde, Account-Sperre, Wiederherstellungsanspruch und Rechtsdurchsetzung nach Digital Services Act."
 ---
 
-# Influencer-Recht: DSA Plattformbeschwerde und Account Sperre
+# Influencer-Recht: DSA – Plattformbeschwerde und Account-Sperre
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **DSA Plattformbeschwerde und Account Sperre** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Der Digital Services Act (DSA) stärkt Creator-Rechte gegenüber Plattformen erheblich:
 
-## Kaltstart in 6 Fragen
+- **DSA Art. 17 (EU 2022/2065)**: Plattformen müssen bei Sperrung oder Entfernung eine klare Begründung geben; Benachrichtigung an betroffene Nutzer.
+- **DSA Art. 20**: Interne Beschwerdemechanismus – Nutzer können jede Maßnahme innerhalb von 6 Monaten anfechten; Plattform muss within angemessener Zeit entscheiden.
+- **DSA Art. 21**: Außergerichtliche Streitbeilegung durch zertifizierte Stellen; kostenlos für Nutzer.
+- **DSA Art. 17 Abs. 3**: Keine automatisierten Entscheidungen ohne menschliche Überprüfungsmöglichkeit bei schwerwiegenden Maßnahmen.
+- **DSA Art. 23**: Suspendierung missbräuchlicher Nutzer; aber: Definition von Missbrauch muss klar in AGB sein.
+- **§ 241a BGB**: Lieferung unbestellter Leistungen; analog: Plattform kann nicht einseitig Leistungen entziehen, die vertraglich gewährt wurden.
+- **§ 241 Abs. 2 BGB**: Treuepflichten der Plattform gegenüber Creator.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### DSA-Beschwerdeweg
+
+1. Interne Beschwerde (DSA Art. 20) → Frist: sofort nach Sperre
+2. Außergerichtliche Streitbeilegung (DSA Art. 21) → zertifizierte Stelle
+3. Behördliche Beschwerde → Bundesnetzagentur (DE-Koordinator)
+4. Gerichtlicher Rechtsweg → ggf. einstweilige Verfügung
+
+## Kaltstart-Fragen (6)
+
+1. Welche Plattform hat welche Maßnahme getroffen (Löschung, Sperre, Demonetarisierung)?
+2. Wurde eine Begründung gemäß DSA Art. 17 mitgeteilt?
+3. Wurde der interne Beschwerdeweg bereits genutzt?
+4. Wie lange besteht die Sperre / wie groß ist der wirtschaftliche Schaden?
+5. Liegt eine Verletzung von AGB durch die Plattform vor?
+6. Gewünschtes Ergebnis: Beschwerdeschreiben, außergerichtliche Streitbeilegungsantrag oder einstweilige Verfügung?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Sperrbegründung analysieren: Welchen AGB-Artikel nennt die Plattform?
+- DSA Art. 17-Konformität: Hat die Plattform die Maßnahme begründet?
+- Interne Beschwerde: Einlegen innerhalb von 6 Monaten nach Maßnahme.
+- Streitbeilegungsstelle: In DE vom Koordinator zertifizierte Stellen nutzen.
+- Schadensersatz: Bei nachgewiesenem Verstoß gegen DSA → Schadensersatz nach nationalem Recht + DSA-Sanktionen.
+- Einstweilige Verfügung: Dringlichkeit (Verfügungsgrund) gegeben wenn Haupterwerb betroffen.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Frist für interne Beschwerde versäumt → 6-Monats-Frist (DSA Art. 20).
+- Keine Dokumentation des Schadens → Schadensersatz schwer durchsetzbar.
+- AGB-Verstoß der Plattform nicht erkannt → stärkster Hebel oft AGB-Verletzung.
+- Automatisierte Sperre ohne Möglichkeit menschlicher Überprüfung → DSA Art. 17 Abs. 3 Verletzung.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- DSA (EU 2022/2065) Art. 17, 20, 21: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022R2065
+- § 241 BGB: https://www.gesetze-im-internet.de/bgb/__241.html
+- Bundesnetzagentur (DSA-Koordinator DE): https://www.bundesnetzagentur.de/dsa
+
+## Output-Formate
+
+- DSA-Beschwerdeschreiben (Art. 20)
+- Außergerichtlicher Streitbeilegungsantrag (Art. 21)
+- Schadensdokumentation-Vorlage
+- Einstweilige-Verfügungs-Antrag (Muster)

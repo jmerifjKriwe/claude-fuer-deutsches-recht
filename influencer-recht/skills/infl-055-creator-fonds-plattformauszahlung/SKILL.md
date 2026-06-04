@@ -1,46 +1,67 @@
 ---
 name: infl-055-creator-fonds-plattformauszahlung
-description: "Influencer-Recht: Creator-Fonds Plattformauszahlung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Creator-Fonds und Plattformauszahlungen – steuerliche Behandlung, Abrechnungsstrukturen, USt-Pflicht und internationale Besonderheiten."
 ---
 
-# Influencer-Recht: Creator-Fonds Plattformauszahlung
+# Influencer-Recht: Creator-Fonds und Plattformauszahlung
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Creator-Fonds Plattformauszahlung** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Plattform-Monetarisierungsprogramme (TikTok Creator Fund, YouTube AdSense, Meta Reels Play) sind Betriebseinnahmen:
 
-## Kaltstart in 6 Fragen
+- **§ 15 EStG**: Einnahmen aus Creator-Fonds sind gewerbliche Einkünfte; regelmäßige Auszahlungen = Betriebseinnahmen.
+- **§ 22 Nr. 1 EStG**: Bei Einzelzahlungen ohne Gewinnerzielungsabsicht: sonstige Einkünfte; aber: regelmäßige Creator-Tätigkeit → § 15 EStG.
+- **§ 3a UStG**: Plattform (YouTube = Google Ireland, TikTok = TikTok Ltd. UK) sitzt im EU-Ausland → Reverse-Charge-Prüfung.
+- **§ 13b UStG**: Leistung von Creator an YouTube/TikTok ist Reverse-Charge-Fall; Creator-Fund-Zahlung = Gegenleistung für Content-Lizenz.
+- **Plattform-AGB**: Creator Fund hat eigene Qualifikationsbedingungen (Mindestzahl Follower, Uploads, Views); Auszahlungsrhythmus variiert.
+- **Quellensteuer**: TikTok behält bei US-Creators Quellensteuer; für DE-Creators mit W-8BEN: i. d. R. keine.
+- **§ 19 UStG**: Kleinunternehmer muss Creator-Fund-Einnahmen in Jahresumsatz einrechnen.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Plattform-Auszahlungs-Steuermatrix
+
+| Plattform | Sitz | USt-Behandlung Creator |
+|-----------|------|----------------------|
+| YouTube (Google Ireland) | Irland | RC, keine DE-USt; ZM |
+| TikTok Creator Fund (TikTok UK) | UK | Drittland nach Brexit: keine DE-USt |
+| Meta Reels Play (Meta Irland) | Irland | RC, keine DE-USt; ZM |
+| Twitch (Amazon DE) | Deutschland | DE-USt 19 % |
+| Patreon (US) | USA | Drittland: keine DE-USt |
+
+## Kaltstart-Fragen (6)
+
+1. Von welcher Plattform werden Monetarisierungs-Einnahmen ausgezahlt?
+2. Bist du Regelbesteuerer oder Kleinunternehmer?
+3. Werden Jahresabrechnungen / 1099-Dokumente von den Plattformen bereitgestellt?
+4. Sind die Einnahmen korrekt in der EÜR erfasst?
+5. Gibt es Abzüge durch Plattform (Quellensteuer, Bearbeitungsgebühren)?
+6. Gewünschtes Ergebnis: Steuercheck, EÜR-Buchung oder ZM-Anleitung?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Sitz der Plattform: EU-Ausland → RC + ZM; Drittland → keine DE-USt.
+- EÜR: Monatliche/quartalsweise Einnahmen aus Plattform-Dashboards exportieren; in EÜR buchen.
+- ZM: Bei EU-Plattformen → ZM quartalsweise einreichen.
+- Quellensteuer: W-8BEN bei US-Plattformen ausgefüllt?
+- Betriebsausgaben: Equipment, Software als Ausgaben geltend machen.
+- KU-Grenze: Alle Plattform-Einnahmen zusammenrechnen; Schwelle 22 000 € beachten.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- TikTok-Einnahmen nicht als Betriebseinnahme erfasst → EÜR falsch.
+- ZM für YouTube-Einnahmen vergessen → Bußgeld.
+- Kleinunternehmer-Grenze durch mehrere Plattform-Einnahmen überschritten.
+- Fehlende Jahresabrechnung von Plattform → Schätzung des Finanzamts.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 15 EStG: https://www.gesetze-im-internet.de/estg/__15.html
+- § 3a UStG: https://www.gesetze-im-internet.de/ustg_1980/__3a.html
+- § 13b UStG: https://www.gesetze-im-internet.de/ustg_1980/__13b.html
+- § 18a UStG – ZM: https://www.gesetze-im-internet.de/ustg_1980/__18a.html
+
+## Output-Formate
+
+- Plattform-Einnahmen-Checkliste (Steuer)
+- ZM-Einreichungs-Anleitung
+- EÜR-Buchungsvorlage (Creator-Fonds)
+- W-8BEN-Ausfüllhilfe für US-Plattformen

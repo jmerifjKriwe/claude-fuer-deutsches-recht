@@ -1,46 +1,66 @@
 ---
 name: infl-039-luxusgeschenk-verlosung-oder-behalten
-description: "Influencer-Recht: Luxusgeschenk Verlosung oder behalten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Luxusgeschenke von Brands – steuerliche Pflichten, Kennzeichnung, Verlosungsrecht und Alternativen zum Behalten."
 ---
 
-# Influencer-Recht: Luxusgeschenk Verlosung oder behalten
+# Influencer-Recht: Luxusgeschenk – Verlosen oder Behalten?
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Luxusgeschenk Verlosung oder behalten** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Hochwertige Geschenke von Brands (Designer-Taschen, Uhren, Reisen) erzeugen erhebliche Steuer- und Rechtsfragen:
 
-## Kaltstart in 6 Fragen
+- **§ 8 EStG**: Sachgeschenke sind Betriebseinnahmen mit dem gemeinen Wert; Markenwert ≠ immer Einkaufspreis.
+- **§ 22 Nr. 1/3 EStG**: Luxusgeschenke ohne Kooperationszusammenhang können sonstige Einkünfte sein (bis 256 € frei).
+- **§ 7 ErbStG**: Bei sehr hochwertigen Geschenken ohne Gegenleistung → Schenkungsteuer prüfen.
+- **§ 5a UWG**: Geschenk mit Erwartung eines Posts → Kennzeichnungspflicht.
+- **§ 661a BGB**: Keine direkte Anwendung auf Geschenke; aber bei Verlosung als Gewinnversprechen → verbindlich.
+- **DSGVO**: Verlosung eines Luxusgeschenks unter Followern → Datenschutzregeln für Teilnehmer.
+- **Plattform-AGB**: Gewinnspiele und Verlosungen haben eigene Regelungen; „zufällige" Auswahl, keine Koppelung an Kauf.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Entscheidungsmatrix: Behalten vs. Verlosen
+
+| Option | Steuerfolge | Kennzeichnung | Besonderheit |
+|--------|------------|---------------|--------------|
+| Behalten (Kooperation) | Betriebseinnahme | Ja | Wert in EÜR |
+| Behalten (kein Auftrag) | § 22 Nr. 3 EStG bis 256 € | Prüfen | Schenkungsteuer ab hohem Wert |
+| Verlosen | Betriebseinnahme + Verlosungsaufwand | Ja | Teilnahmebedingungen nötig |
+| Zurücksenden | Kein Zufluss | Nein | Empfehlung bei hohen Werten |
+
+## Kaltstart-Fragen (6)
+
+1. Wurde das Luxusgeschenk mit oder ohne Kooperationsauftrag übergeben?
+2. Wie hoch ist der Marktwert des Geschenks?
+3. Soll das Geschenk behalten, zurückgesandt oder verlost werden?
+4. Falls Verlosung: Gibt es Teilnahmebedingungen und einen DSGVO-konformen Ablauf?
+5. Wurde das Geschenk bereits in der EÜR erfasst?
+6. Gewünschtes Ergebnis: Steuernotiz, Verlosungs-Set-up oder Rücksende-Schreiben?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Wertermittlung: Listenpreis, Sekundärmarktpreis (z. B. StockX für Sneaker) → Marktwert.
+- Steuerlicher Zufluss: Eigentumsübergang beim Empfang → Einnahme erfassen.
+- Kooperationszusammenhang: Geschenk gegen Post = Betriebseinnahme ohne Ausnahme.
+- Schenkungsteuer: Freibetrag 20 000 € (§ 16 ErbStG) für Nicht-Verwandte gilt auch für Brand-Geschenke; bei Wiederholung: kumulativ!
+- Verlosung: Teilnahmebedingungen, DSGVO, § 661a BGB beachten.
+- Rücksendung: Klare Kommunikation; Eigentumsrückübertragung dokumentieren.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Rolex (3 000 €) behalten ohne EÜR-Erfassung → Betriebsprüfungs-Fund.
+- Jährlich mehrere Geschenke von gleichem Brand → Schenkungsteuer-Freibetrag überschritten.
+- Verlosung ohne Teilnahmebedingungen → § 661a BGB + DSGVO-Verstoß.
+- Luxusgeschenk verlost, aber selbst als Einnahme nicht verbucht → EÜR-Fehler.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 8 EStG: https://www.gesetze-im-internet.de/estg/__8.html
+- § 7 ErbStG: https://www.gesetze-im-internet.de/erbstg_1974/__7.html
+- § 5a Abs. 4 UWG: https://www.gesetze-im-internet.de/uwg_2004/__5a.html
+- § 661a BGB: https://www.gesetze-im-internet.de/bgb/__661a.html
+
+## Output-Formate
+
+- Luxusgeschenk-Entscheidungsmatrix (behalten/verlosen/zurücksenden)
+- Buchungsnotiz für Sacheinnahme
+- Verlosungs-Set-up (Teilnahmebedingungen + DSGVO)
+- Rücksende-Schreiben-Vorlage

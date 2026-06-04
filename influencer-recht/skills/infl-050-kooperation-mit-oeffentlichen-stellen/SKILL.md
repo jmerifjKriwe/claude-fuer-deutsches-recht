@@ -1,46 +1,66 @@
 ---
 name: infl-050-kooperation-mit-oeffentlichen-stellen
-description: "Influencer-Recht: Kooperation mit öffentlichen Stellen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Kooperation mit Behörden und öffentlichen Stellen – Vergaberecht, Transparenzgebot, Kennzeichnung und Haushaltsrecht."
 ---
 
 # Influencer-Recht: Kooperation mit öffentlichen Stellen
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Kooperation mit öffentlichen Stellen** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Staatliche Institutionen als Auftraggeber für Creator unterliegen besonderen Regeln:
 
-## Kaltstart in 6 Fragen
+- **§ 97 GWB**: Vergabepflicht bei öffentlichen Aufträgen; ab Schwellenwert (EU-weit: 140 000 € für Liefer-/Dienstleistungen) EU-weite Ausschreibung.
+- **§ 106 GWB**: Schwellenwerte – nationale Ausschreibung unter EU-Schwellen; aber: ab 25 000 € formale Anforderungen.
+- **Bundeshaushaltsordnung § 7**: Wirtschaftlichkeit und Sparsamkeit; öffentliche Mittel für Influencer-Kampagnen müssen verhältnismäßig sein.
+- **Transparenzgebot**: Staatliche Werbung muss als solche erkennbar sein; BGH unterscheidet nicht zwischen privaten und staatlichen Auftraggebern bei § 5a UWG.
+- **§ 5a Abs. 4 UWG**: Kennzeichnungspflicht gilt auch für staatlich bezahlte Kampagnen; Bundesministerien und Behörden-Content muss als Werbung oder staatliche Information kenntlich gemacht werden.
+- **Presserecht / MStV**: Staatliche Informationskampagnen über Influencer → Meinungsbildungsfunktion des Staates; Neutralitätsgebot.
+- **Urheberrecht**: Staatliche Auftraggeber wollen oft alle Rechte; Creator sollte Zeitbegrenzung verhandeln.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Besonderheiten öffentlicher Aufträge
+
+| Aspekt | Regelung |
+|--------|----------|
+| Vergabeverfahren | GWB/VgV ab Schwellenwert |
+| Transparenz/Kennzeichnung | § 5a UWG gilt |
+| Nutzungsrechte | Häufig unbegrenzte Nutzung gewünscht; verhandeln |
+| Steuer | Normaler Kooperationsvertrag mit USt |
+| Inhaltliche Grenzen | Kein politisch einseitiger Inhalt |
+
+## Kaltstart-Fragen (6)
+
+1. Welche öffentliche Stelle ist Auftraggeber (Bundesministerium, Landesbehörde, Kommune)?
+2. Wie hoch ist die Vergütung – unterhalb oder oberhalb der Vergabe-Schwellenwerte?
+3. Enthält der Auftrag eine Kennzeichnungsanforderung (staatliche Kampagne)?
+4. Werden unbegrenzte Nutzungsrechte verlangt?
+5. Gibt es inhaltliche Vorgaben, die politisch einseitig erscheinen könnten?
+6. Gewünschtes Ergebnis: Vergaberechtlicher Check, Vertragscheck oder Kennzeichnungskonzept?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Vergaberecht: Überschreitung Schwellenwert? → EU-weite Ausschreibung erforderlich.
+- Haushaltsrecht: Öffentlicher Auftraggeber muss Wirtschaftlichkeit belegen; kann Creator Nachweis verlangen.
+- Kennzeichnung: „Bundesregierung" oder „Ministerium X" muss im Post erkennbar sein.
+- Neutralität: Content darf nicht für bestimmte Partei oder Meinung werben.
+- Nutzungsrechte: Zeitliche Begrenzung (z. B. 5 Jahre) verhandeln; Media Buyout gegen Aufpreis.
+- Transparenzregeln: Manche Länder verlangen Veröffentlichung von Influencer-Verträgen der Behörden.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Creator-Content für Wahlkampf ohne klare staatliche Kennzeichnung → § 5a UWG + Parteienprivileg-Konflikt.
+- Unbegrenzte Nutzungsrechte ohne Zeitbegrenzung akzeptiert → Creator verliert Kontrolle.
+- Vergaberecht nicht beachtet → Vertrag nichtig (§ 101b Abs. 1 GWB a. F. → jetzt § 135 GWB).
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 97 GWB: https://www.gesetze-im-internet.de/gwb/__97.html
+- § 135 GWB – Unwirksamkeit: https://www.gesetze-im-internet.de/gwb/__135.html
+- § 5a Abs. 4 UWG: https://www.gesetze-im-internet.de/uwg_2004/__5a.html
+- BHO § 7: https://www.gesetze-im-internet.de/bho/__7.html
+
+## Output-Formate
+
+- Vergaberechtlicher Kurzcheck
+- Kennzeichnungskonzept (staatliche Kampagne)
+- Nutzungsrechte-Klausel (öffentlicher Auftraggeber)
+- Vertragsmuster öffentlicher Auftrag

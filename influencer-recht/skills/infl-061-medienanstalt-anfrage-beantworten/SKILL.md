@@ -1,46 +1,67 @@
 ---
 name: infl-061-medienanstalt-anfrage-beantworten
-description: "Influencer-Recht: Medienanstalt Anfrage beantworten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Anfrage der Landesmedienanstalt beantworten – MStV, Verfahren, Mitwirkungspflichten, Bußgeld und Reaktionsstrategie."
 ---
 
-# Influencer-Recht: Medienanstalt Anfrage beantworten
+# Influencer-Recht: Landesmedienanstalt – Anfrage beantworten
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Medienanstalt Anfrage beantworten** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Landesmedienanstalten prüfen Influencer auf Verstöße gegen den Medienstaatsvertrag:
 
-## Kaltstart in 6 Fragen
+- **§ 60 MStV**: Medienanstalten sind zuständige Regulierungsbehörden für Telemedien; zuständige Anstalt richtet sich nach Sitz oder Wohnort des Creators.
+- **§ 74 MStV**: Auskunftspflicht; Creator muss der Medienanstalt Auskünfte erteilen und Unterlagen vorlegen.
+- **§ 115 MStV**: Bußgeldkatalog; Verstöße gegen § 22 MStV (Trennungsgebot) bis 500 000 €; fehlende Kennzeichnung typisch bis 10 000–50 000 €.
+- **§ 22 MStV**: Trennungsgebot Werbung/Redaktion; Grundlage der meisten Prüfungsverfahren.
+- **§ 58 MStV**: Impressumspflicht; § 18 MStV – Erweiterung für journalistische Angebote.
+- **§ 96 MStV**: Beanstandungsverfahren; Medienanstalt kann Verstöße beanstanden → Abhilfefrist → Bußgeld.
+- **Verwaltungsverfahrensgesetz (VwVfG)**: Verfahrensrechte des Creators; Akteneinsicht, Anhörung (§ 28 VwVfG), Rechtsmittel.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Verfahrensablauf Medienanstalt
+
+1. Anfrage / Auskunftsersuchen an Creator
+2. Creator hat Recht auf Akteneinsicht (§ 29 VwVfG)
+3. Anhörung (§ 28 VwVfG) vor Beanstandung
+4. Beanstandungsbescheid mit Abhilfefrist
+5. Widerspruch oder Klage (VwGO)
+6. Bei Nichtabhilfe: Bußgeldbescheid
+
+## Kaltstart-Fragen (6)
+
+1. Von welcher Landesmedienanstalt kam die Anfrage (z. B. BLM Bayern, Medienanstalt Berlin-Brandenburg)?
+2. Welcher konkrete Verstoß wird geprüft (Kennzeichnung, Impressum, Schleichwerbung)?
+3. Bis wann ist eine Antwort gefordert?
+4. Liegen die betroffenen Posts noch online?
+5. Gibt es bereits laufende Abhilfemaßnahmen (Kennzeichnung nachgeholt)?
+6. Gewünschtes Ergebnis: Antwortschreiben, Selbstreparatur-Nachweis oder Widerspruchsschreiben?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Auskunftspflicht: § 74 MStV → Mitwirken; aber keine Selbstbelastung (nemo-tenetur-Grundsatz begrenzt Pflicht).
+- Sachverhaltsaufklärung: Welche Posts sind betroffen? Lag Kennzeichnungspflicht vor?
+- Abhilfe: Fehlende Kennzeichnung nachträglich hinzufügen (Story: neu einstellen; Post: bearbeiten mit „Werbung"-Label).
+- Frist: Antwortfrist einhalten; Fristverlängerung beantragen wenn nötig.
+- Rechtsmittel: Widerspruch gegen Bescheid binnen 1 Monat (§ 70 VwGO); Klage beim Verwaltungsgericht.
+- Anwalt: Bei Bußgeld > 5 000 € oder Wiederholungsfall → unbedingt einschalten.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Anfrage ignoriert → Bußgeld ohne Anhörung möglich.
+- Alle Posts gelöscht statt korrigiert → erschwert Sachverhaltsfeststellung nicht, aber verliert Beweise.
+- Zuständige Landesmedienanstalt falsch angeschrieben → Frist verpasst.
+- Selbstbelastung durch zu ausführliche Antwort.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 22 MStV: https://www.gesetze-im-internet.de/mstv/__22.html
+- § 60 MStV: https://www.gesetze-im-internet.de/mstv/__60.html
+- § 74 MStV: https://www.gesetze-im-internet.de/mstv/__74.html
+- § 115 MStV: https://www.gesetze-im-internet.de/mstv/__115.html
+- § 28 VwVfG – Anhörung: https://www.gesetze-im-internet.de/vwvfg/__28.html
+
+## Output-Formate
+
+- Antwortschreiben an Medienanstalt
+- Selbstreparatur-Dokumentation (Kennzeichnung nachgeholt)
+- Widerspruchsschreiben (Muster)
+- Bußgeld-Reaktionsstrategie

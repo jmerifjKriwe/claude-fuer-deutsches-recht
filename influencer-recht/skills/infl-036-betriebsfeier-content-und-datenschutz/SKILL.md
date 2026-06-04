@@ -1,46 +1,66 @@
 ---
 name: infl-036-betriebsfeier-content-und-datenschutz
-description: "Influencer-Recht: Betriebsfeier Content und Datenschutz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Betriebsfeier und Content – KUG, DSGVO, Mitarbeiterfotos, Veröffentlichungspflichten und Datenschutz."
 ---
 
-# Influencer-Recht: Betriebsfeier Content und Datenschutz
+# Influencer-Recht: Betriebsfeier, Content und Datenschutz
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Betriebsfeier Content und Datenschutz** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Fotos und Videos von Betriebsfeiern und internen Events unterliegen besonderen Regeln:
 
-## Kaltstart in 6 Fragen
+- **§ 22 KUG**: Mitarbeiterfotos erfordern Einwilligung; Ausnahme: § 23 Abs. 1 Nr. 3 KUG – Versammlungen (Betriebsfeiern können darunter fallen, wenn Fokus auf Gruppe, nicht Einzelperson).
+- **DSGVO Art. 6 Abs. 1 lit. a**: Einwilligung als Rechtsgrundlage für Mitarbeiterfotos; freiwillig und jederzeit widerrufbar.
+- **§ 26 BDSG**: Datenverarbeitung im Beschäftigungsverhältnis; Fotos von Mitarbeitern = Verarbeitung personenbezogener Daten.
+- **§ 23 KUG Nr. 3**: Personengruppen – wenn Einzelperson nicht im Vordergrund steht, kann Einwilligung entbehrlich sein.
+- **§ 823 BGB**: Veröffentlichung von Mitarbeiterfotos ohne Einwilligung → PersR-Verletzung.
+- **Arbeitsrecht**: Betriebsfeier als Arbeitszeit-Verlängerung; Unfall bei Betriebsfeier → ggf. Arbeitsunfall.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Einwilligungs-Matrix Betriebsfeier
+
+| Situation | Einwilligung nötig? |
+|-----------|---------------------|
+| Gruppenfoto ohne identifizierbare Einzelperson | Entbehrlich (§ 23 Nr. 3 KUG) |
+| Einzelperson deutlich im Fokus | Ja (§ 22 KUG) |
+| Internes Intranet | Ggf. § 26 BDSG – Einwilligung |
+| Öffentliche Social Media | Ja, ausdrückliche Einwilligung |
+| Brand-Deal-Foto mit Mitarbeitern | Ja + Nutzungsrechtsvereinbarung |
+
+## Kaltstart-Fragen (6)
+
+1. Sollen Fotos intern (Intranet) oder öffentlich (Social Media, Unternehmens-Account) veröffentlicht werden?
+2. Sind Einzel-Mitarbeiter deutlich erkennbar abgebildet?
+3. Gibt es eine Vorab-Einwilligungserklärung für alle Teilnehmer?
+4. Hat der Betriebsrat der Bildverarbeitung zugestimmt?
+5. Werden Fotos auch für Werbematerial (Stellenanzeigen, Brand Content) genutzt?
+6. Gewünschtes Ergebnis: Einwilligungsformular, DSGVO-Check oder Nutzungsrechtsregelung?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Einzelperson vs. Gruppe: Wenn Einzelperson im Vordergrund → § 22 KUG-Einwilligung.
+- DSGVO: Fotos auf Social Media = öffentlich → höhere Anforderungen.
+- Einwilligung freiwillig: Kein Zwang auf Betriebsfeier; separate Einwilligung, keine AGB-Koppelung.
+- Widerruf: Einwilligung jederzeit widerrufbar; Löschpflicht bei Widerruf (Art. 17 DSGVO).
+- Nutzungsrechte: Fotos für Werbung → separate Vereinbarung mit Mitarbeitern.
+- Betriebsrat: Bei systematischer Bildverarbeitung von Mitarbeitern → § 87 Abs. 1 Nr. 1 BetrVG.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Einwilligung zu Beginn der Feier pauschal für alles → DSGVO: zu unbestimmt.
+- Fotos ins Firmen-Instagram ohne einzelne Rückfragen → § 22 KUG-Risiko.
+- Dritte (Catering-Personal) auf Fotos ohne Einwilligung.
+- Widerruf nach Veröffentlichung nicht beachtet → DSGVO-Beschwerde.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 22 KUG: https://www.gesetze-im-internet.de/kukg/__22.html
+- § 23 KUG: https://www.gesetze-im-internet.de/kukg/__23.html
+- § 26 BDSG: https://www.gesetze-im-internet.de/bdsg_2018/__26.html
+- DSGVO Art. 6: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679
+
+## Output-Formate
+
+- Einwilligungsformular Betriebsfoto
+- DSGVO-konformer Aushang für Veranstaltungen
+- Betriebsrats-Information (§ 87 BetrVG)
+- Fotoverwendungs-Protokoll

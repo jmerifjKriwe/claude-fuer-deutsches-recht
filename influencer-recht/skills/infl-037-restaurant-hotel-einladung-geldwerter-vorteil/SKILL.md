@@ -1,46 +1,66 @@
 ---
 name: infl-037-restaurant-hotel-einladung-geldwerter-vorteil
-description: "Influencer-Recht: Restaurant Hotel Einladung geldwerter Vorteil mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Restauranteinladungen und Hotelaufenthalte – geldwerter Vorteil, Steuerpflicht, Kennzeichnung und Abgrenzung Gegenleistung."
 ---
 
-# Influencer-Recht: Restaurant Hotel Einladung geldwerter Vorteil
+# Influencer-Recht: Restaurant, Hotel, Einladung und geldwerter Vorteil
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Restaurant Hotel Einladung geldwerter Vorteil** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Einladungen zu Restaurants, Hotels und Events sind steuerlich und werberechtzlich relevant:
 
-## Kaltstart in 6 Fragen
+- **§ 8 EStG**: Geldwerter Vorteil = sachlicher Wert der empfangenen Leistung; Restauranteinladung = Betriebseinnahme, wenn Zusammenhang mit Kooperation.
+- **§ 22 Nr. 3 EStG**: Gelegentliche Einnahmen bis 256 € steuerfrei; Überschreitung → Einkommensteuerpflicht.
+- **§ 3 Abs. 1 Nr. 16 EStG**: Reisekosten-Freistellung nur für echte Dienstreisen, nicht für Influencer-Trips ohne Arbeitgeberbeziehung.
+- **§ 5a UWG**: Einladung mit Kooperationserwartung → Kennzeichnungspflicht für den resultierenden Post.
+- **BGH I ZR 35/21**: Auch unverlangte Leistungen können Kennzeichnungspflicht begründen.
+- **§ 4 Abs. 5 Nr. 2 EStG**: Bewirtungskosten als Betriebsausgabe nur zu 70 %; aber: für Creator als Empfänger ist es eine Einnahme.
+- **Steuerrecht Gastgeber**: Einladung = Betriebsausgabe des Brands; Geschenk-Grenze 50 € (§ 4 Abs. 5 Nr. 1 EStG).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Einladungs-Steuermatrix
+
+| Situation | Steuerfolge Creator |
+|-----------|-------------------|
+| Restauranteinladung + Posting-Auftrag | Betriebseinnahme (Marktwert) |
+| Hotel + Posting-Auftrag | Betriebseinnahme (Listenpreis) |
+| Einladung ohne Auftrag, kein Post | § 22 Nr. 3 EStG – bis 256 € frei |
+| Einladung, unaufgefordert gepostet | Betriebseinnahme (BGH-Rspr.) |
+| Private Einladung (kein Bezug zu Creator-Tätigkeit) | Keine Steuerpflicht |
+
+## Kaltstart-Fragen (6)
+
+1. Besteht ein Kooperations- oder Posting-Auftrag im Zusammenhang mit der Einladung?
+2. Was ist der Marktwert der empfangenen Leistung (Hotelübernachtung, Menü)?
+3. Hast du für die Einladung einen Post veröffentlicht oder ist einer geplant?
+4. Wurde die Einladung in der EÜR als Betriebseinnahme erfasst?
+5. Gibt es eine Kooperationsvereinbarung, oder war es eine „spontane" Einladung?
+6. Gewünschtes Ergebnis: Steuernotiz, Kennzeichnungsampel oder Vertragscheck?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Auftragsbeziehung: Schriftlich oder mündlich? → Dokumentation.
+- Marktwert: Hotelübernachtung (Listenpreis), Restaurantmenu (Menüpreis) → in EÜR erfassen.
+- Kennzeichnung: Post nach Einladung → Prüfen, ob werblicher Charakter erkennbar.
+- Steuerfreigrenze: § 22 Nr. 3 EStG – 256 € p. a. für gelegentliche Einnahmen; bei Kooperation entfällt Freigrenze.
+- Bewirtungsbeleg: Für Betriebsprüfung: Name der bewirtenden Person + Geschäftsanlass.
+- Presseeinladung: Journalistische Einladung ohne Postingauftrag → steuerlich anders zu beurteilen.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Hotel-Einladung (800 €) nicht als Einnahme erfasst → Betriebsprüfungs-Fund.
+- Post „spontan" veröffentlicht nach Einladung → rückwirkend Kennzeichnungspflicht.
+- Freigrenze § 22 Nr. 3 EStG jährlich ohne Addition aller gelegentlichen Vorteile → Grenze überschritten.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 8 EStG: https://www.gesetze-im-internet.de/estg/__8.html
+- § 22 Nr. 3 EStG: https://www.gesetze-im-internet.de/estg/__22.html
+- § 5a Abs. 4 UWG: https://www.gesetze-im-internet.de/uwg_2004/__5a.html
+- BGH I ZR 35/21: https://openjur.de/u/2432342.html
+
+## Output-Formate
+
+- Einnahmen-Checkliste (Einladungen / geldwerte Vorteile)
+- Kennzeichnungsampel für Einladungs-Posts
+- EÜR-Buchungsnotiz
+- Bewirtungsbeleg-Vorlage

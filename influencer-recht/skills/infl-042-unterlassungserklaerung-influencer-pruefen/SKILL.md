@@ -1,46 +1,68 @@
 ---
 name: infl-042-unterlassungserklaerung-influencer-pruefen
-description: "Influencer-Recht: Unterlassungserklärung Influencer prüfen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Unterlassungserklärung prüfen und gestalten – Reichweite, Vertragsstrafe, Modifikation und Folgen bei Verstoß."
 ---
 
-# Influencer-Recht: Unterlassungserklärung Influencer prüfen
+# Influencer-Recht: Unterlassungserklärung prüfen
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Unterlassungserklärung Influencer prüfen** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die Unterlassungserklärung ist ein rechtlich bindender Vertrag mit erheblichen Folgerisiken:
 
-## Kaltstart in 6 Fragen
+- **§ 339 BGB**: Vertragsstrafe bei Verstoß gegen Unterlassungsverpflichtung fällig; Höhe muss verhältnismäßig sein.
+- **§ 343 BGB**: Herabsetzung einer unverhältnismäßigen Vertragsstrafe durch Gericht möglich.
+- **§ 315 BGB**: „Angemessene Vertragsstrafe nach billigem Ermessen" statt Fixbetrag → Gericht setzt Betrag fest, wenn streitig.
+- **§ 8 Abs. 1 UWG**: Unterlassungserklärung beseitigt Wiederholungsgefahr → kein Urteil mehr nötig.
+- **§ 13 Abs. 3 UWG**: Vertragsstrafe aus Unterlassungserklärung bei gemeinnütziger Verwendung.
+- **Reichweite**: Zu weit gefasste Erklärung → auch zukünftige rechtmäßige Handlungen sind verboten.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Prüfpunkte vor Unterzeichnung
+
+| Punkt | Was prüfen? |
+|-------|-------------|
+| Unterlassungsgegenstand | Ist die verbotene Handlung präzise und eng gefasst? |
+| Plattformbeschränkung | Gilt Verbot nur für bestimmte Plattformen oder generell? |
+| Vertragsstrafe | Fixbetrag oder „nach billigem Ermessen"? Angemessen? |
+| Laufzeit | Befristet oder unbefristet? |
+| Räumlicher Geltungsbereich | Deutschland, EU, weltweit? |
+| Sachlicher Geltungsbereich | Nur diese Produktkategorie oder alle Werbung? |
+| Wiederholung | Schließt die Erklärung auch ähnliche Fälle ein? |
+
+## Kaltstart-Fragen (6)
+
+1. Welcher konkrete Verstoß liegt der Unterlassungserklärung zugrunde?
+2. Wie ist der Unterlassungsgegenstand formuliert – eng oder weit?
+3. Wie hoch ist die Vertragsstrafe: Fixbetrag oder billiges Ermessen?
+4. Soll die Erklärung modifiziert oder unverändert abgegeben werden?
+5. Gibt es bereits frühere Unterlassungserklärungen, die relevant sein könnten?
+6. Gewünschtes Ergebnis: Prüfbericht, modifizierter Entwurf oder Ablehnungsempfehlung?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Gegenstandsdefinition: Je enger gefasst, desto besser für Creator.
+- Plattform + Format: Nur Instagram Stories oder alle Plattformen? → einschränken.
+- Vertragsstrafe: Fixbetrag über 5 000 € → Herabsetzung nach § 343 BGB möglich.
+- Billiges-Ermessen-Klausel: Vorzugswürdiger als Fixbetrag; Gericht setzt bei Streit fest.
+- Modifikation: Gegenvorschlag mit enger gefasster Erklärung senden; Abmahner muss akzeptieren oder klagen.
+- Neuer Verstoß: Jeder zukünftige gleichartige Post riskiert Vertragsstrafe → Compliance-Check einführen.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Weite Formulierung: „alle kommerziellen Posts ohne Kennzeichnung" → erfasst auch zukünftige Eigenmarken.
+- Vertragsstrafe 10 000 € je Verstoß bei Micro-Creator → unverhältnismäßig, aber Streit kostet auch.
+- Unterschrift ohne Lesen → unbekannte Reichweite der Verpflichtung.
+- Gleicher Fehler auf anderem Account → neuer Verstoß.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 339 BGB: https://www.gesetze-im-internet.de/bgb/__339.html
+- § 343 BGB: https://www.gesetze-im-internet.de/bgb/__343.html
+- § 315 BGB: https://www.gesetze-im-internet.de/bgb/__315.html
+- § 8 UWG: https://www.gesetze-im-internet.de/uwg_2004/__8.html
+
+## Output-Formate
+
+- Unterlassungserklärung: Risikoampel (weite/enge Formulierung)
+- Modifizierter Gegenentwurf
+- Compliance-Protokoll nach Abgabe
+- Vertragsstrafe-Herabsetzungsantrag (Muster)

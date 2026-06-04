@@ -1,46 +1,68 @@
 ---
 name: infl-017-heilmittel-nahrungsergaenzung-health-claims
-description: "Influencer-Recht: Heilmittel Nahrungsergänzung Health Claims mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Werbung für Heilmittel und Nahrungsergänzungsmittel – HWG, HCVO, Health Claims, verbotene Aussagen und Haftungsrisiken."
 ---
 
-# Influencer-Recht: Heilmittel Nahrungsergänzung Health Claims
+# Influencer-Recht: Heilmittel, Nahrungsergänzung und Health Claims
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Heilmittel Nahrungsergänzung Health Claims** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Gesundheitsbezogene Werbung ist ein hochrisikobehaftetes Feld für Creator:
 
-## Kaltstart in 6 Fragen
+- **HWG § 3**: Irreführende Heilmittelwerbung verboten; verlangt Preisangabe, Pflichthinweise.
+- **HWG § 10**: Werbung für verschreibungspflichtige Arzneimittel gegenüber der Allgemeinheit verboten.
+- **HWG § 11**: Verbotene Werbeaussagen (z. B. Heilungsversprechen, Vorher-Nachher-Bilder bei Krankheiten, Testimonials von medizinischen Fachpersonen).
+- **HCVO (EG) 1924/2006**: Health and Nutrition Claims Regulation – nur EU-zugelassene Gesundheitsaussagen erlaubt; Liste unter Anhang der HCVO.
+- **§ 5 UWG**: Irreführung durch gesundheitliche Übertreibungen.
+- **LFGB §§ 11, 27**: Lebensmittelrecht – krankheitsbezogene Aussagen für Nahrungsergänzungsmittel verboten.
+- **§ 4 Nr. 11 UWG** (a. F.) / § 3a UWG: Rechtsbruch als UWG-Verstoß, wenn HWG oder HCVO verletzt.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Verbotene vs. erlaubte Aussagen
+
+| Aussage | Status |
+|---------|--------|
+| „Heilt Rückenschmerzen" | Verboten (HWG § 3) |
+| „Unterstützt die Immunfunktion" (HCVO-zugelassen) | Erlaubt mit exaktem Wortlaut |
+| „Vorher-Nachher-Bilder bei Krankheit" | Verboten (HWG § 11) |
+| „Trägt zu normalem Energiestoffwechsel bei" (HCVO B 12) | Erlaubt |
+| „Aus rein natürlichen Zutaten" | Erlaubt, wenn wahrheitsgemäß |
+| „Ärztlich empfohlen" | Verboten ohne Belege (HWG § 11) |
+
+## Kaltstart-Fragen (6)
+
+1. Handelt es sich um ein Arzneimittel, Nahrungsergänzungsmittel oder Kosmetikum?
+2. Welche Aussagen soll der Creator über Wirkung und Nutzen machen?
+3. Liegt eine HCVO-Zulassung für die spezifischen Aussagen vor?
+4. Enthält der Posting-Auftrag Vorher-Nachher-Bilder oder Testimonials von Ärzten?
+5. Wurde das Produkt als Arzneimittel zugelassen, oder ist es nur als Nahrungsergänzungsmittel eingestuft?
+6. Gewünschtes Ergebnis: Aussagen-Check, zulässige Formulierungsalternativen oder Abmahnantwort?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Produktkategorie: Arzneimittel (HWG + AMG), NEM (LFGB + HCVO), Kosmetik (KPVO).
+- Aussagen-Check: Jede Behauptung gegen HCVO-Liste prüfen; bei NEM keine Krankheitsaussagen.
+- Pflichthinweise: HWG § 4 – Pflichtangaben bei OTC-Arzneimittelwerbung.
+- Verschreibungspflicht: Rx-Werbung für Allgemeinheit absolut verboten.
+- Influencer-Testimonials: Arzt/Apotheker-Empfehlung im Content → HWG § 11 prüfen.
+- Kennzeichnung: Werbung für Gesundheitsprodukte zusätzlich nach § 5a UWG kennzeichnen.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- „Klinisch getestet" ohne Studie → Irreführung § 5 UWG.
+- NEM mit Krankheitsaussagen → LFGB § 11-Verstoß.
+- Creator postet mit Arzt-Kita-Outfit ohne ärztliche Qualifikation → HWG § 11.
+- HCVO-Aussage mit falschem Wortlaut → Verstoß; exakter Wortlaut der EU-Liste erforderlich.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- HWG §§ 3, 10, 11: https://www.gesetze-im-internet.de/heilmwerbg/__3.html
+- HCVO (EG) 1924/2006: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32006R1924
+- LFGB § 11: https://www.gesetze-im-internet.de/lfgb/__11.html
+- § 5 UWG: https://www.gesetze-im-internet.de/uwg_2004/__5.html
+
+## Output-Formate
+
+- Aussagen-Ampel (erlaubt/verboten/anpassbar)
+- HCVO-konforme Formulierungsalternativen
+- Pflichthinweis-Vorlage (OTC-Arzneimittel)
+- Abmahnantwort (HWG-Verstoß)

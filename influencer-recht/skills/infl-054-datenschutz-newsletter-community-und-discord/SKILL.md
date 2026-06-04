@@ -1,46 +1,66 @@
 ---
 name: infl-054-datenschutz-newsletter-community-und-discord
-description: "Influencer-Recht: Datenschutz Newsletter Community und Discord mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Datenschutz für Newsletter, Community-Plattformen und Discord – DSGVO, Einwilligung, Double-Opt-In, Drittlandtransfer."
 ---
 
-# Influencer-Recht: Datenschutz Newsletter Community und Discord
+# Influencer-Recht: Datenschutz – Newsletter, Community und Discord
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Datenschutz Newsletter Community und Discord** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Creator, die eigene Communities aufbauen, sind Datenverantwortliche nach DSGVO:
 
-## Kaltstart in 6 Fragen
+- **DSGVO Art. 6 Abs. 1**: Rechtsgrundlage für Datenverarbeitung; für Newsletter: Einwilligung (lit. a) oder berechtigtes Interesse (lit. f, engere Grenzen).
+- **UWG § 7 Abs. 2 Nr. 3**: E-Mail-Werbung ohne ausdrückliche Einwilligung unzulässig (SPAM-Verbot); Double-Opt-In als Nachweis.
+- **DSGVO Art. 13**: Datenschutzhinweis bei Datenhebung; beim Newsletter-Anmeldeformular zwingend.
+- **DSGVO Art. 17**: Abmelderecht; Opt-Out muss so einfach wie Opt-In sein.
+- **TTDSG § 25**: Cookie-Einwilligung für alle nicht zwingend notwendigen Cookies / Tracker auf Creator-Website.
+- **Drittlandtransfer (DSGVO Art. 46)**: Discord (US-Unternehmen), Mailchimp (US) → Datenübertragung in USA; nach EU-USA-DPF-Zertifizierung erleichtert.
+- **DSGVO Art. 28**: Auftragsverarbeitungsvertrag mit Newsletter-Dienstleister (Mailchimp, Brevo, etc.).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Datenschutz-Pflichten Community-Kanäle
+
+| Kanal | DSGVO-Anforderungen |
+|-------|-------------------|
+| E-Mail-Newsletter | Double-Opt-In, Datenschutzhinweis, AV-Vertrag |
+| Discord-Server | Datenschutzerklärung, AV-Vertrag mit Discord |
+| Telegram-Gruppe | Datenschutzerklärung; Drittlandtransfer-Hinweis |
+| Patreon/Creator-Plattform | AV-Vertrag; Zahlungsdaten → PCI-DSS |
+| Membership-Website | DSGVO-konformes CMS, Cookie-Banner |
+
+## Kaltstart-Fragen (6)
+
+1. Welche Community-Plattformen betreibst du (Discord, Newsletter, Telegram, Patreon)?
+2. Gibt es eine Datenschutzerklärung für jede Plattform/Website?
+3. Werden E-Mails oder Anmeldedaten an Drittanbieter (Mailchimp, Brevo) weitergegeben?
+4. Liegt ein Auftragsverarbeitungsvertrag mit dem Newsletter-Dienstleister vor?
+5. Werden Follower-Daten für Werbung oder andere Zwecke genutzt?
+6. Gewünschtes Ergebnis: Datenschutzerklärung, AV-Vertrag-Vorlage oder DSGVO-Audit?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Double-Opt-In: Beweis der Einwilligung sichern; Zeitstempel und IP-Adresse speichern.
+- Datenschutzerklärung: Vollständig nach Art. 13/14 DSGVO; auf jeder Seite verlinkt.
+- AV-Vertrag: Mit jedem Dienstleister, der Zugang zu Follower-Daten hat (Newsletter-Tool, Discord via API).
+- Drittlandtransfer: USA-Anbieter DPF-zertifiziert? → Liste des US-Handelsministeriums prüfen.
+- Cookie-Banner: § 25 TTDSG → Einwilligung vor Setzen nicht notwendiger Cookies.
+- Auskunftsrecht: Follower können Auskunft verlangen (Art. 15 DSGVO); Prozess bereitstellen.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Newsletter ohne Double-Opt-In → UWG § 7-Verstoß + DSGVO-Verstoß.
+- Kein AV-Vertrag mit Mailchimp → DSGVO Art. 28-Verstoß; Bußgeld.
+- Discord nicht in Datenschutzerklärung erwähnt → Transparenzpflicht verletzt.
+- Kein Cookie-Banner auf Creator-Website → TTDSG § 25-Verstoß.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- DSGVO Art. 6, 13, 17, 28: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679
+- § 7 Abs. 2 Nr. 3 UWG: https://www.gesetze-im-internet.de/uwg_2004/__7.html
+- § 25 TTDSG: https://www.gesetze-im-internet.de/ttdsg/__25.html
+
+## Output-Formate
+
+- Datenschutzerklärung (Newsletter + Discord + Community)
+- Double-Opt-In Prozessbeschreibung
+- AV-Vertrag (Mailchimp / Brevo Vorlage)
+- Cookie-Consent-Banner-Anleitung

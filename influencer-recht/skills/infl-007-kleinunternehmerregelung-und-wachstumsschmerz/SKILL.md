@@ -1,46 +1,62 @@
 ---
 name: infl-007-kleinunternehmerregelung-und-wachstumsschmerz
-description: "Influencer-Recht: Kleinunternehmerregelung und Wachstumsschmerz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Kleinunternehmerregelung – Vorteile, Nachteile, Wechsel zur Regelbesteuerung und kritische Umsatzschwellen."
 ---
 
 # Influencer-Recht: Kleinunternehmerregelung und Wachstumsschmerz
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Kleinunternehmerregelung und Wachstumsschmerz** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die Kleinunternehmerregelung ist für viele Creator der Einstieg – birgt aber Wachstumsfallen:
 
-## Kaltstart in 6 Fragen
+- **§ 19 UStG**: Keine Umsatzsteuererhebung bei Vorjahresumsatz ≤ 22 000 € und voraussichtlichem Jahresumsatz ≤ 50 000 € (ab 2025 EU-harmonisiert: 85 000 € voraussichtlich); kein Vorsteuerabzug.
+- **§ 19 Abs. 2 UStG**: Option zur Regelbesteuerung möglich (5-Jahres-Bindung).
+- **§ 19 Abs. 4 UStG**: Überschreiten der Grenze im laufenden Jahr → ab folgendem Jahr Regelbesteuerer.
+- **Barter-Deals zählen**: Sachleistungen in Umsatzschwelle einrechnen (§ 10 Abs. 2 UStG).
+- **EU-Richtlinie 2020/285**: Neue Schwellenwerte für Kleinunternehmerregelung (SME-Regelung) ab 2025; Jahresumsatz bis 100 000 € EU-weit möglich.
+- **Rechnungshinweis**: „Gemäß § 19 UStG wird keine Umsatzsteuer berechnet."
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Wechselkalkulation
+
+| Szenario | Kleinunternehmer | Regelbesteuerer |
+|----------|-----------------|-----------------|
+| Hohe Ausgaben (Kamera, Studio) | Nachteil: kein Vorsteuerabzug | Vorteil: VSt zurück |
+| Wenig Ausgaben, viele B2C-Kunden | Vorteil: kein USt-Ausweis | Nachteil: Preiserhöhung nötig |
+| Auslands-Brand (B2B) | Neutral (RC) | Neutral (RC) |
+
+## Kaltstart-Fragen (6)
+
+1. Wie hoch war der Umsatz im letzten Kalenderjahr (inkl. Sachleistungen)?
+2. Wie hoch ist der erwartete Umsatz im laufenden Jahr?
+3. Wie hoch sind die Ausgaben für Betriebsmittel mit Vorsteueranteil?
+4. Hast du bereits die Regelbesteuerung gewählt (Option nach § 19 Abs. 2 UStG)?
+5. Gibt es Pläne für größere Investitionen (Kamera, Studio, Equipment)?
+6. Gewünschtes Ergebnis: Rechenvergleich KU vs. Regel, Wechselempfehlung oder Rechnungsmuster?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Umsatzschwelle: Alle Einnahmen inkl. Sachleistungen und Affiliate-Provisionen addieren.
+- Vorsteuer-Kalkulation: Wie viel VSt würde bei Regelbesteuerung erstattet?
+- Nettopreiskalkulation: B2C-Kunden müssten bei Wechsel höhere Preise zahlen oder Marge sinkt.
+- Option prüfen: Lohnt freiwilliger Wechsel vor Grenzüberschreitung?
+- 5-Jahres-Bindung: Wechsel kann nicht jährlich rückgängig gemacht werden.
+- Rechnungsanforderung: KU-Hinweis auf jeder Rechnung; bei fehlendem Hinweis nachfordern.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Sachleistungen vergessen → Umsatz überschritten ohne Wissen → Nachzahlung.
+- Wechsel zu spät: Grenze im Oktober überschritten, aber noch KU-Rechnungen bis Jahresende → Haftungsrisiko.
+- Vorsteuerabzug beansprucht, obwohl KU → Finanzamt fordert zurück.
+- Option ausgeübt, dann Umsatz eingebrochen → 5 Jahre an Regelbesteuerung gebunden.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 19 UStG: https://www.gesetze-im-internet.de/ustg_1980/__19.html
+- § 10 Abs. 2 UStG: https://www.gesetze-im-internet.de/ustg_1980/__10.html
+- EU-Richtlinie 2020/285 (SME): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32020L0285
+
+## Output-Formate
+
+- Rechenvergleich: KU vs. Regelbesteuerung (Tabelle)
+- Rechnungsmuster mit KU-Pflichthinweis
+- Wechsel-Checkliste mit Fristen

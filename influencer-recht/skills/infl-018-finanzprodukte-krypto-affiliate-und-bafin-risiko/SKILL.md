@@ -1,46 +1,68 @@
 ---
 name: infl-018-finanzprodukte-krypto-affiliate-und-bafin-risiko
-description: "Influencer-Recht: Finanzprodukte Krypto Affiliate und BaFin-Risiko mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Werbung für Finanzprodukte und Krypto – BaFin-Erlaubnispflicht, WpHG, Anlageberatung und Haftungsrisiken."
 ---
 
-# Influencer-Recht: Finanzprodukte Krypto Affiliate und BaFin-Risiko
+# Influencer-Recht: Finanzprodukte, Krypto-Affiliate und BaFin-Risiko
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Finanzprodukte Krypto Affiliate und BaFin-Risiko** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Finanzprodukt-Werbung durch Creator ist eines der rechtlich gefährlichsten Bereiche:
 
-## Kaltstart in 6 Fragen
+- **§ 32 KWG**: Bankgeschäfte und Finanzdienstleistungen erfordern BaFin-Erlaubnis; Empfehlung einzelner Wertpapiere kann Anlageberatung = Finanzdienstleistung sein.
+- **§ 63 WpHG**: Anforderungen an Anlageberatung; Eignungstest, Informationspflichten.
+- **§ 25 WpHG**: Anlageempfehlungen müssen als Werbung gekennzeichnet sein; sachkundige Beurteilung erforderlich.
+- **§ 26 WpHG (MiFID II)**: Interessenkonflikte offenlegen; Affiliate-Provision = Interessenkonflikt.
+- **MAR Art. 12 (EU-Marktmissbrauchsverordnung)**: Marktmanipulation durch Empfehlungen ohne Offenlegung (Pump and Dump).
+- **MiCA (EU 2023/1114)**: Krypto-Asset-Regulierung; Werbung für bestimmte Krypto-Assets ab 2024/2025 lizenzpflichtig.
+- **§ 3 UWG / § 5 UWG**: Irreführung durch unzutreffende Renditeversprechungen.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Risikoklassen für Creator
+
+| Tätigkeit | Rechtliches Risiko | BaFin-Relevanz |
+|-----------|------------------|----------------|
+| „Ich nutze App X für Aktien" (allgemein) | Niedrig | Nein |
+| Konkrete Aktien-Empfehlung mit Kauf-Aufruf | Hoch | Ggf. Anlageberatung |
+| Krypto-Token-Promo mit Affiliate | Hoch | MiCA ab 2024 |
+| CFD/Forex-Werbung | Sehr hoch | ESMA-Warnung |
+| Pump & Dump in Community | Illegal | MAR Art. 12 |
+
+## Kaltstart-Fragen (6)
+
+1. Welches Finanzprodukt wird beworben (Aktie, ETF, Krypto, CFD)?
+2. Erhält der Creator eine Provision (Affiliate, CPA, Anzahl Depoteröffnungen)?
+3. Macht der Creator eine konkrete Kauf-/Verkaufsempfehlung oder nur allgemeine Werbung?
+4. Ist der Interessenkonflikt (Affiliate) offengelegt?
+5. Hat der Brand eine BaFin-Erlaubnis oder EU-Pass?
+6. Gewünschtes Ergebnis: Compliance-Check, Ablehnungsempfehlung oder rechtssichere Formulierung?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Anlageberatung ja/nein: Konkrete Empfehlung + Provisionsmotiv → BaFin-Erlaubnispflicht prüfen.
+- Interessenkonflikt: Affiliate-Provision offenlegen (§ 26 WpHG, § 5a UWG).
+- MiCA-Compliance: Krypto-Werbung ab 2024 strenger reguliert; Brand muss MiCA-Lizenz haben.
+- MAR: Keine abgestimmten Pump-Aktionen in Communities (§ 12 MAR).
+- CFD/Forex: ESMA-Warnung → Creator sollte grundsätzlich ablehnen.
+- Disclaimer: „Keine Anlageberatung" reicht allein nicht; tatsächliche Aussagen müssen dem entsprechen.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- „Das ist keine Anlageberatung"-Disclaimer bei konkreter Empfehlung → unwirksam.
+- Krypto-Affiliate ohne MiCA-Compliance des Brokers → Creator als Mittäter.
+- Offenlegung des Interessenkonflikts fehlt → § 26 WpHG-Verstoß.
+- Garantierte Rendite versprochen → § 5 UWG Irreführung + BaFin-Beschwerde.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 32 KWG: https://www.gesetze-im-internet.de/kredwg/__32.html
+- § 63 WpHG: https://www.gesetze-im-internet.de/wphg/__63.html
+- MAR Art. 12: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32014R0596
+- MiCA (EU 2023/1114): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32023R1114
+- § 5 UWG: https://www.gesetze-im-internet.de/uwg_2004/__5.html
+
+## Output-Formate
+
+- Finanzwerbung-Ampel (grün/gelb/rot)
+- Interessenkonflikt-Offenlegungstext
+- Ablehnungsschreiben an risikoreichen Brand
+- Compliance-Checkliste für Finanz-Kooperation

@@ -1,46 +1,67 @@
 ---
 name: infl-022-vergleichende-werbung-und-herabsetzung
-description: "Influencer-Recht: Vergleichende Werbung und Herabsetzung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Vergleichende Werbung und Herabsetzung von Mitbewerbern – § 6 UWG, Zulässigkeitsgrenzen und Abmahnrisiken."
 ---
 
 # Influencer-Recht: Vergleichende Werbung und Herabsetzung
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Vergleichende Werbung und Herabsetzung** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Vergleichende Werbung ist in Grenzen erlaubt, Herabsetzung verboten:
 
-## Kaltstart in 6 Fragen
+- **§ 6 UWG**: Vergleichende Werbung zulässig, wenn objektiv, nachprüfbar und nicht irreführend; auf wesentliche relevante Eigenschaften bezogen.
+- **§ 6 Abs. 2 UWG**: Unzulässig, wenn Verwechslungsgefahr, unlautere Ausnutzung des Rufs oder Herabsetzung/Verunglimpfung eines Mitbewerbers.
+- **§ 4 Nr. 1 UWG**: Herabsetzung von Mitbewerbern durch abwertende Aussagen = unlautere Handlung.
+- **§ 4 Nr. 2 UWG**: Nachahmung mit Rufausbeutung.
+- **§ 823 Abs. 1 BGB**: Unerlaubte Handlung – üble Nachrede oder Rufschädigung als deliktsrechtlicher Anspruch.
+- **§ 824 BGB**: Kreditgefährdung durch unwahre Tatsachenbehauptungen.
+- **§ 186 StGB**: Üble Nachrede; § 187 StGB: Verleumdung.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Zulässige vs. unzulässige Aussagen
+
+| Aussage | Status |
+|---------|--------|
+| „Produkt A ist 20 % günstiger als Produkt B (Preis v. 1.1.)." | Zulässig (§ 6 UWG) |
+| „Marke X-Produkte sind schlechte Qualität" (unbelegt) | Unzulässig (§ 4 Nr. 1 UWG) |
+| „Unser Abo ist besser als Netflix" (sachlicher Vergleich) | Prüfen: objektiv, nachprüfbar? |
+| „Firma Y hat mich betrogen" (ohne Beweis) | § 824 BGB-Risiko |
+| Parodie/Satire eines Brands | § 24 MarkenG, künstlerische Freiheit |
+
+## Kaltstart-Fragen (6)
+
+1. Wer oder was soll verglichen oder kritisiert werden – Mitbewerber, Produkt oder Marke?
+2. Beruhen die Aussagen auf nachprüfbaren Tatsachen oder Werturteilen?
+3. Ist die Aussage sachlich oder enthält sie abwertende Elemente?
+4. Liegt eine Abmahnung oder einstweilige Verfügung vor?
+5. Handelt es sich um journalistische Kritik, Satire oder kommerzielle Werbung?
+6. Gewünschtes Ergebnis: Aussagen-Check, Verteidigung oder Gegendarstellung?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Tatsache vs. Werturteil: Tatsachen müssen wahr sein; Werturteile dürfen sachlich überspitzt sein.
+- § 6 UWG-Kriterien: Objektivität, Wesentlichkeit, Nachprüfbarkeit – alle drei müssen erfüllt sein.
+- Herabsetzungstest: Geht die Aussage über sachliche Kritik hinaus? → Unzulässig.
+- Satire-Sonderrecht: Übertreibung erlaubt, wenn als Satire erkennbar; keine Falschbehauptungen.
+- Schadensersatz: § 823 BGB i. V. m. § 4 Nr. 1 UWG → Abmahn- und Schadensersatzrisiko.
+- Strafrecht: § 186/187 StGB – schwere Fälle; Strafanzeige möglich.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Negative Amazon-Bewertung als Content → § 824 BGB, wenn falsche Tatsachen.
+- Mitbewerber-Vergleich ohne aktuelle Daten → § 5 UWG (Irreführung).
+- „Worst Brand Award" ohne Sachgrundlage → Herabsetzung.
+- Satire ohne klare Kennzeichnung als solche → ernstzunehmende Tatsachenbehauptung.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 6 UWG: https://www.gesetze-im-internet.de/uwg_2004/__6.html
+- § 4 Nr. 1 UWG: https://www.gesetze-im-internet.de/uwg_2004/__4.html
+- § 824 BGB: https://www.gesetze-im-internet.de/bgb/__824.html
+- § 186 StGB: https://www.gesetze-im-internet.de/stgb/__186.html
+
+## Output-Formate
+
+- Aussagen-Ampel (zulässig/riskant/verboten)
+- Abmahnreaktion Herabsetzung
+- Gegendarstellungs-Vorlage
+- Satire-Disclaimer-Text

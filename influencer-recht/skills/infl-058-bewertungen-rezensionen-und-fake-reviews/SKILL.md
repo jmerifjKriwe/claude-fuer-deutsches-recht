@@ -1,46 +1,68 @@
 ---
 name: infl-058-bewertungen-rezensionen-und-fake-reviews
-description: "Influencer-Recht: Bewertungen Rezensionen und Fake Reviews mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Bewertungen und Fake Reviews – UWG, EU-Omnibus-Richtlinie, strafrechtliche Risiken und Creator-Haftung."
 ---
 
-# Influencer-Recht: Bewertungen Rezensionen und Fake Reviews
+# Influencer-Recht: Bewertungen, Rezensionen und Fake Reviews
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Bewertungen Rezensionen und Fake Reviews** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Bewertungsmanipulation ist nach altem und neuem Recht verboten:
 
-## Kaltstart in 6 Fragen
+- **§ 5 UWG**: Irreführende Geschäftspraktiken; gekaufte Bewertungen = Irreführung über Beliebtheit.
+- **§ 4 Nr. 3 UWG**: Getarnte Werbung – Rezension ohne Kennzeichnung bei Vergütung = Schleichwerbung.
+- **EU-Omnibus-Richtlinie (2019/2161), § 5b UWG n. F.**: Plattformen müssen Herkunft von Bewertungen transparent machen; Fake Reviews sind per-se-verboten.
+- **§ 263 StGB**: Betrug; bei systematischer Fake-Review-Kampagne mit Vermögensschaden-Absicht möglich.
+- **§ 826 BGB**: Sittenwidrige vorsätzliche Schädigung; bei gezieltem Reputations-Angriff auf Mitbewerber durch Fake-Negative-Reviews.
+- **§ 823 BGB**: Rufschädigung durch Falschbewertungen.
+- **Amazon/Google-AGB**: Fake Reviews führen zu Account-Sperren; zivilrechtliche Ansprüche der Plattform.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Bewertungs-Szenarien
+
+| Situation | Rechtslage |
+|-----------|-----------|
+| Echte Bewertung ohne Gegenleistung | Erlaubt |
+| Bewertung gegen Produktgeschenk ohne Kennzeichnung | § 4 Nr. 3 UWG – Schleichwerbung |
+| Bewertung gegen Geld ohne Kennzeichnung | Wie oben + § 5 UWG |
+| Fake-Bewertung erfunden | § 5 UWG + ggf. § 263 StGB |
+| Negative Fake-Bewertung gegen Mitbewerber | § 826 BGB + § 823 BGB |
+| Brand kauft positive Bewertungen, Creator liefert | UWG-Verstoß + AGB-Verstoß Plattform |
+
+## Kaltstart-Fragen (6)
+
+1. Hat ein Brand den Creator gebeten, eine Bewertung zu schreiben, und gibt es Gegenleistung?
+2. Ist die Bewertung als gesponsert/bezahlt gekennzeichnet?
+3. Gibt es negative Fake-Reviews gegen den Creator oder einen Mitbewerber?
+4. Werden systematisch Fake-Reviews für einen Brand-Kunden erstellt?
+5. Liegt eine Plattform-Sperre wegen Bewertungsmanipulation vor?
+6. Gewünschtes Ergebnis: Compliance-Check, Abmahnantwort oder Löschungsantrag?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Gegenleistungs-Test: Jede Bewertung mit Produktgeschenk oder Geld → Kennzeichnung.
+- Omnibus-Richtlinie: Plattformen müssen überprüfte Bewertungen kennzeichnen; ungeprüfte sind abmahnbar.
+- Strafrechtliches Risiko: Systematische Kampagnen → § 263 StGB prüfen.
+- Negative Reviews gegen Mitbewerber: § 826 BGB – Schadensersatz + Löschungsanspruch.
+- Plattform-Reaktion: Fake-Review gemeldet → Plattform-Meldeverfahren nutzen.
+- Beweis: Screenshots von Bewertungen + Zeitstempel sichern.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- „Ich wurde mit Produkt beliefert und habe eine ehrliche Bewertung geschrieben" ohne Kennzeichnung → § 4 Nr. 3 UWG.
+- Brand zahlt für Sterne-Bewertungen ohne Hinweis → Omnibus-RL-Verstoß.
+- Creator kauft Fake-Reviews für eigene Produkte → AGB-Verstoß + UWG.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 5 UWG: https://www.gesetze-im-internet.de/uwg_2004/__5.html
+- § 4 Nr. 3 UWG: https://www.gesetze-im-internet.de/uwg_2004/__4.html
+- EU Omnibus-Richtlinie 2019/2161: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L2161
+- § 263 StGB: https://www.gesetze-im-internet.de/stgb/__263.html
+- § 826 BGB: https://www.gesetze-im-internet.de/bgb/__826.html
+
+## Output-Formate
+
+- Bewertungs-Kennzeichnungs-Checkliste
+- Fake-Review-Löschungsantrag
+- Abmahnantwort (Bewertungsmanipulation)
+- Compliance-Protokoll für Bewertungs-Kampagne

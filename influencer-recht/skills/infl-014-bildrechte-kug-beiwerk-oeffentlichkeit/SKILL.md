@@ -1,46 +1,66 @@
 ---
 name: infl-014-bildrechte-kug-beiwerk-oeffentlichkeit
-description: "Influencer-Recht: Bildrechte KUG Beiwerk Öffentlichkeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Recht am eigenen Bild – KUG, Einwilligung, Beiwerk, Öffentlichkeit, Personen im Hintergrund und Haftungsrisiken."
 ---
 
-# Influencer-Recht: Bildrechte KUG Beiwerk Öffentlichkeit
+# Influencer-Recht: Bildrechte – KUG, Beiwerk und Öffentlichkeit
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Bildrechte KUG Beiwerk Öffentlichkeit** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Das Recht am eigenen Bild schützt Persönlichkeitsrechte und ist für Creator täglich relevant:
 
-## Kaltstart in 6 Fragen
+- **§ 22 KUG**: Bildnisse dürfen nur mit Einwilligung der abgebildeten Person verbreitet oder öffentlich zur Schau gestellt werden.
+- **§ 23 KUG**: Ausnahmen ohne Einwilligung: Bildnisse aus dem Bereich der Zeitgeschichte, Personen als Beiwerk, Versammlungen, Öffentlichkeit der Darstellung.
+- **§ 24 KUG**: Beleidigung oder Bloßstellung durch Bild ist verboten, auch bei zulässiger Aufnahme.
+- **DSGVO Art. 6**: Verarbeitung personenbezogener Daten (Fotos von Personen) bedarf Rechtsgrundlage – bei Nicht-Prominenten Einwilligung erforderlich.
+- **BGH „Cathy Hummels"**: Auch Prominente haben Rückzugsrecht bei privaten Bereichen.
+- **§ 201a StGB**: Strafbarer Bildverrat bei unbefugter Aufnahme in Wohnungen / höchstpersönlichem Lebensbereich.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### KUG-Ausnahmen im Creator-Kontext
+
+| Situation | § 23 KUG-Ausnahme? | Einwilligung nötig? |
+|-----------|--------------------|---------------------|
+| Person im Hintergrund (Beiwerk) | Ja, § 23 Abs. 1 Nr. 2 | Nein |
+| Demo / öffentliche Veranstaltung | Ja, § 23 Abs. 1 Nr. 3 | Nein (Menge) |
+| Identifizierbare Einzelperson | Nein | Ja |
+| Minderjährige | Nein | Eltern/Vormund |
+| Promi in der Öffentlichkeit | Bedingt, Zeitgeschichte | Bedingt |
+
+## Kaltstart-Fragen (6)
+
+1. Wer ist auf dem Bild / im Video zu sehen – Privatperson, Promi, Minderjährige?
+2. Ist die Person identifizierbar (Gesicht, Stimme, besondere Merkmale)?
+3. Wurde eine schriftliche Einwilligung (Model Release) eingeholt?
+4. Handelt es sich um eine öffentliche Veranstaltung oder private Situation?
+5. Soll das Bild kommerziell (Brand Deal, Werbung) oder redaktionell genutzt werden?
+6. Gewünschtes Ergebnis: Freigabecheck, Einwilligungsformular oder Reaktion auf KUG-Abmahnung?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Identifizierbarkeit prüfen: Gesicht, charakteristische Merkmale, Kontext → falls ja, Einwilligung nötig.
+- Beiwerk-Test: Ist die Person erkennbar Hauptmotiv oder tatsächlich nebensächlich?
+- Öffentlichkeitstest: Öffentliche vs. private Veranstaltung; Erwartungshorizont der abgebildeten Person.
+- Minderjährige: Elterliche Einwilligung erforderlich; KUG + DSGVO + JuSchG kumulativ.
+- Kommerzielle Nutzung: Strengere Anforderungen als redaktionelle Nutzung; schriftliche Einwilligung zwingend.
+- DSGVO-Konformität: Einwilligung = DSGVO-Rechtsgrundlage; ggf. Löschanspruch nach Art. 17 DSGVO.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Person deutlich im Hintergrund ohne Blur → KUG-Verstoß, wenn erkennbar.
+- Einwilligung mündlich → Beweisproblem.
+- Model Release für organischen Content, Brand nutzt für Paid Ads → Zwecküberschreitung.
+- Kinder auf Creator-Content ohne elterliche Einwilligung → KUG + DSGVO-Verstoß.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 22 KUG: https://www.gesetze-im-internet.de/kukg/__22.html
+- § 23 KUG: https://www.gesetze-im-internet.de/kukg/__23.html
+- Art. 6 DSGVO: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679
+- § 201a StGB: https://www.gesetze-im-internet.de/stgb/__201a.html
+
+## Output-Formate
+
+- Bildrechte-Ampel pro Aufnahme
+- Model-Release-Vorlage (deutsch/englisch)
+- KUG-Abmahnung: Reaktionsschreiben
+- Minderjährigen-Einwilligungsformular

@@ -1,46 +1,74 @@
 ---
 name: infl-044-buchhaltung-datev-creator-kontenplan
-description: "Influencer-Recht: Buchhaltung DATEV Creator Kontenplan mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Buchhaltung und DATEV für Creator – Kontenplan, EÜR-Struktur, digitale Belege und Steuerberaterschnittstelle."
 ---
 
-# Influencer-Recht: Buchhaltung DATEV Creator Kontenplan
+# Influencer-Recht: Buchhaltung, DATEV und Creator-Kontenplan
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Buchhaltung DATEV Creator Kontenplan** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Korrekte Buchführung ist die Grundlage für Steuern und Betriebsprüfungen:
 
-## Kaltstart in 6 Fragen
+- **§ 4 Abs. 3 EStG**: EÜR (Einnahmen-Überschuss-Rechnung) als vereinfachte Methode; Zuflussprinzip (§ 11 EStG).
+- **§ 141 AO**: Buchführungspflicht ab 600 000 € Umsatz oder 60 000 € Gewinn; darunter EÜR ausreichend.
+- **§ 147 AO**: Belegaufbewahrung 10 Jahre (Buchungsbelege), 6 Jahre (sonstige Unterlagen).
+- **GoBD**: Belege unveränderbar, jederzeit lesbar, vollständig; digitale Belege = Original wenn ordnungsgemäß gespeichert.
+- **§ 14 UStG**: Rechnungspflichtangaben; ohne vollständige Rechnung kein Vorsteuerabzug.
+- **DATEV**: Standardsoftware vieler Steuerberater; Creator-Buchungen über SKR 03 oder SKR 04.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Creator-Kontenzuordnung (SKR 03)
+
+| Einnahme | Kontengruppe |
+|----------|-------------|
+| Kooperationshonorare | 8400 (Erlöse 19 % USt) |
+| Sachleistungen / Barter | 8400 (Marktwert) |
+| Affiliate-Provisionen | 8400 |
+| Plattform-Monetarisierung | 8400 |
+
+| Ausgabe | Konto |
+|---------|-------|
+| Equipment (Kamera, Laptop) | 0400–0499 (Anlagevermögen) |
+| Software-Abos | 6810 |
+| Werbung / Boost | 6600 |
+| Reisekosten (betrieblich) | 6600 |
+| Steuerberatungskosten | 6825 |
+| Versicherungen | 6300 |
+
+## Kaltstart-Fragen (6)
+
+1. Nutzt du bereits eine Buchhaltungssoftware (DATEV, Lexoffice, sevDesk, FastBill)?
+2. Werden Sachleistungen und Barter Deals erfasst?
+3. Sind alle Betriebsausgaben mit Originalbelegen dokumentiert?
+4. Gibt es offene Vorsteueransprüche, die nicht geltend gemacht wurden?
+5. Kommunizierst du mit einem Steuerberater, und in welchem Format?
+6. Gewünschtes Ergebnis: Kontenplan-Vorlage, Softwareempfehlung oder EÜR-Formular?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Einnahmen vollständig: Alle Plattform-Abrechnungen, Kooperationshonorare, Sachleistungen.
+- Ausgaben vollständig: Originalbelege mit § 14 UStG-Pflichtangaben; digitale Belege GoBD-konform.
+- USt-Voranmeldung: Monatlich oder quartalsweise; Frist 10. des Folgemonats.
+- Vorsteuer: Alle Einkaufsrechnungen mit USt-Ausweis und richtigen Pflichtangaben.
+- Jahresabschluss: EÜR + Steuererklärung bis 31.7. des Folgejahres (mit Steuerberater: 28.2. des übernächsten Jahres).
+- DATEV-Schnittstelle: Belege in DATEV Unternehmen Online hochladen; Steuerberater bucht dann.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Sachleistungen nicht als Einnahme erfasst → EÜR falsch → Nachzahlung.
+- Privatausgaben als Betriebsausgaben gebucht → Abzug verweigert + Strafzuschlag.
+- Fehlende Pflichtangaben auf Eingangsrechnungen → Vorsteuerabzug verweigert.
+- USt-Voranmeldung zu spät → Verspätungszuschlag.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 4 Abs. 3 EStG: https://www.gesetze-im-internet.de/estg/__4.html
+- § 14 UStG: https://www.gesetze-im-internet.de/ustg_1980/__14.html
+- § 147 AO: https://www.gesetze-im-internet.de/ao_1977/__147.html
+- GoBD BMF: https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Weitere_Steuerthemen/Abgabenordnung/2019-11-28-GoBD.pdf
+
+## Output-Formate
+
+- Creator-EÜR-Vorlage
+- Kontenplan SKR 03 für Creator
+- Belegarchivierungs-Checkliste (GoBD)
+- DATEV-Schnittstelle-Anleitung

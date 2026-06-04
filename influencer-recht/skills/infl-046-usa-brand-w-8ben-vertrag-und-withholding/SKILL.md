@@ -1,46 +1,67 @@
 ---
 name: infl-046-usa-brand-w-8ben-vertrag-und-withholding
-description: "Influencer-Recht: USA Brand W-8BEN Vertrag und Withholding mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: US-Brand-Kooperation – W-8BEN, Withholding Tax, Vertragsrecht, DE-USt und DSGVO bei US-Transfers."
 ---
 
-# Influencer-Recht: USA Brand W-8BEN Vertrag und Withholding
+# Influencer-Recht: USA-Brand – W-8BEN, Vertrag und Withholding
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **USA Brand W-8BEN Vertrag und Withholding** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Kooperationen mit US-Brands haben mehrere rechtliche Besonderheiten:
 
-## Kaltstart in 6 Fragen
+- **W-8BEN (IRS)**: Formular für ausländische natürliche Personen; bestätigt, dass Creator kein US-Steuerpflichtiger ist; reduziert US-Quellensteuer (Withholding Tax) auf 0 % bei Dienstleistungen nach DBA.
+- **DBA Deutschland-USA**: Doppelbesteuerungsabkommen; Einkünfte aus selbstständiger Tätigkeit in DE nur in DE zu versteuern; Freistellung in USA bei korrektem W-8BEN.
+- **§ 3a UStG / § 4 Nr. 1a UStG**: Leistung an US-Unternehmen → Drittlandsgeschäft; keine DE-USt; Rechnung ohne USt.
+- **§ 49 EStG**: Beschränkte Steuerpflicht in DE; US-Brand mit DE-Betriebsstätte → andere Regeln.
+- **DSGVO / SCCs**: Weitergabe personenbezogener Daten in USA (DSGVO Art. 46); nach Angemessenheitsbeschluss EU-USA Data Privacy Framework (2023) erleichtert.
+- **Vertragsrecht**: US-Vertragsrecht vs. deutsches Recht; Gerichtsstandsklausel verhandeln; CISG ausschließen.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Checkliste US-Brand-Kooperation
+
+| Punkt | Anforderung |
+|-------|-------------|
+| W-8BEN | Ausgefüllt und an Brand gesendet |
+| DBA-Freistellung | Selbstständige Tätigkeit in DE (Art. 14 DBA) |
+| Rechnung | Ohne DE-USt; §-Hinweis Drittland |
+| Vertragsrecht | Deutsches Recht oder New-York-Law vereinbaren |
+| Zahlungsweg | USD oder EUR? Währungsrisiko absichern? |
+| DSGVO | Bei Datenweitergabe an US-Brand: DPF prüfen |
+
+## Kaltstart-Fragen (6)
+
+1. Hat der US-Brand ein W-8BEN-Formular angefordert?
+2. Liegen Withholding-Abzüge auf der Vergütung vor (typisch 30 % ohne W-8BEN)?
+3. Gilt deutsches oder US-amerikanisches Vertragsrecht?
+4. Werden personenbezogene Daten (Follower-Analytics) an den US-Brand weitergegeben?
+5. Wird die Vergütung in USD ausgezahlt – und wie wird der Wechselkurs berechnet?
+6. Gewünschtes Ergebnis: W-8BEN-Ausfüllhilfe, Vertragscheck oder DSGVO-Check?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- W-8BEN: Korrekt ausfüllen (Name, Land, TIN falls vorhanden, DBA-Hinweis Deutschland).
+- Withholding: Bei Zahlung ohne W-8BEN → 30 % einbehalten; mit W-8BEN + DBA → 0 % für Dienstleistungen.
+- Rechnungsformat: In USD oder EUR; Rechnungsdatum = steuerlicher Zufluss.
+- Vertragsrecht: US-Klauseln wie „Indemnification" und „Disclaimer" prüfen; nach deutschem Recht umformulieren.
+- DSGVO: EU-USA Data Privacy Framework (2023) für US-Datenempfänger, die zertifiziert sind; sonst SCCs.
+- Steuern in DE: Vergütung in EÜR erfassen (in EUR umrechnen nach EZB-Kurs am Zahlungsdatum).
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- W-8BEN nicht eingereicht → 30 % Withholding Tax einbehalten → langwieriger Rückforderungsprozess.
+- Vertragsrecht USA → Gerichtsstand Delaware oder Schiedsverfahren.
+- Währungsverlust durch ungünstigen Wechselkurs nicht als Betriebsausgabe erfasst.
+- DSGVO-Violation: Follower-Demografiken an US-Brand ohne Rechtsgrundlage.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 3a UStG: https://www.gesetze-im-internet.de/ustg_1980/__3a.html
+- DBA Deutschland-USA (Art. 14): https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Internationales_Steuerrecht/Staatenbezogene_Informationen/Laender_A_bis_G/Vereinigte-Staaten-von-Amerika-USA/2022-06-Einkommensteuer-DBA-Deutschland-USA.pdf
+- IRS W-8BEN: https://www.irs.gov/pub/irs-pdf/fw8ben.pdf
+- DSGVO Art. 46: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679
+
+## Output-Formate
+
+- W-8BEN Ausfüllhilfe (DE Creator)
+- Rechnungsvorlage (USD-Brand, ohne DE-USt)
+- DSGVO-Check US-Datentransfer
+- Vertragsklausel-Anpassungen (US → DE-Recht)

@@ -1,46 +1,68 @@
 ---
 name: infl-063-vertragsarchiv-creator-dashboard
-description: "Influencer-Recht: Vertragsarchiv Creator Dashboard mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Vertragsarchiv und Creator-Dashboard – Vertragsverwaltung, Fristen, Nutzungsrechte-Tracking und Compliance-Übersicht."
 ---
 
-# Influencer-Recht: Vertragsarchiv Creator Dashboard
+# Influencer-Recht: Vertragsarchiv und Creator-Dashboard
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Vertragsarchiv Creator Dashboard** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Strukturierte Vertragsverwaltung ist Grundlage für Compliance und Betriebsprüfungsvorbereitung:
 
-## Kaltstart in 6 Fragen
+- **§ 147 AO**: Aufbewahrungspflicht für steuerrelevante Unterlagen (Verträge = Buchungsbelege) 10 Jahre.
+- **GoBD**: Digitale Dokumente müssen unveränderbar, jederzeit lesbar gespeichert werden; Metadaten (Datum, Autor) bewahren.
+- **§ 31 UrhG**: Nutzungsrechte in Verträgen dokumentieren; Ablaufdaten verfolgen.
+- **§ 626 BGB**: Kündigungsfristen aus Verträgen tracken; wichtige Handlungsfristen.
+- **DSGVO Art. 5**: Datensparsamkeit; Follower-Daten aus Verträgen nur so lange aufbewahren wie nötig.
+- **§ 130 HGB**: Handelsrechtliche Aufbewahrungspflichten für Geschäftsbriefe (6 Jahre).
+- **Digitale Signatur (eIDAS)**: Qualifizierte elektronische Signaturen rechtlich wie handschriftliche Unterschrift.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Creator-Dashboard: Empfohlene Struktur
+
+| Kategorie | Inhalt |
+|-----------|--------|
+| Kooperationsverträge | Brand, Datum, Vergütung, Laufzeit, Nutzungsrechte, Exklusivität |
+| Agenturverträge | Agentur, Provision, Laufzeit, Kündigungsfristen |
+| Lizenzübersicht | Wer hat welche Rechte? Bis wann? |
+| Steuerbelege | EÜR-Jahresabschlüsse, Rechnungen, Zahlungsbelege |
+| Compliance-Log | Kennzeichnungen, Medienanstalt-Anfragen, Abmahnungen |
+| Fristen-Kalender | Kündigungsfristen, Vertragsverlängerungen, Abgabetermine |
+
+## Kaltstart-Fragen (6)
+
+1. Gibt es bereits ein System zur Vertragsverwaltung (Excel, Notion, spezialisierte Software)?
+2. Werden Laufzeit- und Kündigungsfristen aktiv überwacht?
+3. Sind alle Nutzungsrechte-Ablaufdaten erfasst?
+4. Liegen Verträge geordnet archiviert (digital oder physisch) auf 10-Jahres-Basis?
+5. Gibt es ein Compliance-Log für Abmahnungen, Medienanstalt-Anfragen?
+6. Gewünschtes Ergebnis: Dashboard-Vorlage, Archivierungs-System oder Compliance-Audit?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Vollständigkeits-Check: Alle bestehenden Kooperations-, Agentur- und Lizenzverträge erfassen.
+- Fristen-Management: Automatische Erinnerungen für Kündigungsfristen (3 Monate vor Ablauf).
+- Nutzungsrechte: Ablaufdaten für jede Lizenz; Whitelisting-Enddaten.
+- Steuerbelege: GoBD-konforme Archivierung; unveränderlich (PDF/A), durchsuchbar.
+- Compliance-Log: Jede Abmahnung, Anfrage, Unterlassungserklärung dokumentieren.
+- DSGVO: Personenbezogene Daten aus Verträgen (Mitarbeiter, Models) nach Zweckentfall löschen.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Kündigungsfrist Agenturvertrag verpasst → ungewollte Verlängerung.
+- Nutzungsrecht läuft ab, Brand nutzt weiter → Abmahnrisiko gegen Brand.
+- Steuerbeleg gelöscht nach 6 Jahren (statt 10 Jahre) → Nachweisproblem.
+- Keine Dokumentation von Abmahnungen → bei Wiederholungsfall fehlt Kontext.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 147 AO: https://www.gesetze-im-internet.de/ao_1977/__147.html
+- § 130 HGB: https://www.gesetze-im-internet.de/hgb/__130.html
+- GoBD: https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Weitere_Steuerthemen/Abgabenordnung/2019-11-28-GoBD.pdf
+- DSGVO Art. 5: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679
+
+## Output-Formate
+
+- Creator-Dashboard-Vorlage (Excel/Notion)
+- Fristen-Kalender-Template
+- Vertragsinventur-Checkliste
+- Compliance-Log-Vorlage

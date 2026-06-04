@@ -1,46 +1,64 @@
 ---
 name: infl-051-politische-werbung-und-transparenz
-description: "Influencer-Recht: Politische Werbung und Transparenz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Politische Werbung durch Creator – Kennzeichnungspflichten, EU Digital Services Act, Parteienfinanzierung und Transparenz."
 ---
 
 # Influencer-Recht: Politische Werbung und Transparenz
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Politische Werbung und Transparenz** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Creator, die für politische Parteien oder Organisationen posten, unterliegen besonderen Transparenzregeln:
 
-## Kaltstart in 6 Fragen
+- **§ 5a Abs. 4 UWG**: Politische Werbung muss als solche kenntlich gemacht werden; kommerzielle Komponente (Vergütung) → Kennzeichnungspflicht.
+- **PartG §§ 23-26**: Parteien müssen alle Zuwendungen über 10 000 € im Rechenschaftsbericht offenlegen; Influencer-Vergütungen können als Einnahme der Partei oder als Ausgabe der Partei qualifizieren.
+- **§ 4 UWG**: Unlautere Handlungen – getarnte politische Werbung als unlauter.
+- **DSA Art. 39**: Große Online-Plattformen müssen politische Werbung im öffentlichen Archiv speichern; Creator-Posts werden von Plattformen als politisch eingestuft.
+- **EU-Verordnung über politische Werbung (2023/2053)**: Transparenzpflichten für politische Werbung in Sozialen Medien; gilt ab 2025.
+- **Rundfunkrecht § 7 MStV**: Politische Parteien dürfen im Rundfunk nicht unbegrenzt Sendezeit kaufen; für Telemedien: Kennzeichnungspflicht.
+- **Art. 5 GG**: Meinungsfreiheit schützt politische Äußerungen; aber: kommerzielle politische Werbung ist reguliert.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Politische-Werbung-Matrix
+
+| Situation | Kennzeichnung | Rechtsnorm |
+|-----------|--------------|------------|
+| Creator postet politisch aus eigener Überzeugung | Nein (Meinungsfreiheit) | Art. 5 GG |
+| Creator erhält Vergütung für politischen Post | Ja | § 5a UWG |
+| Party-Botschaft als „neutrale Information" | Ja (getarnte Werbung) | § 5a UWG |
+| Influencer-Post für Bundesbehörde | Ja (staatliche Kommunikation) | § 5a UWG |
+
+## Kaltstart-Fragen (6)
+
+1. Liegt eine Vergütung (Geld, Sachleistung, sonstige Vorteile) durch eine politische Partei oder Organisation vor?
+2. Welcher politische Inhalt soll im Post transportiert werden?
+3. Ist der politische Auftrag transparent oder soll er verdeckt bleiben?
+4. Handelt es sich um staatliche oder parteiliche Auftraggeber?
+5. Welche Plattform und welches Format ist betroffen?
+6. Gewünschtes Ergebnis: Compliance-Check, Kennzeichnungskonzept oder Ablehnungsempfehlung?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Vergütungstest: Auch indirekte Vorteile (Einladungen, Werbefläche) → Kennzeichnungspflicht.
+- PartG-Rechenschaftspflicht: Partei muss Ausgaben für Influencer-Kampagnen offenlegen.
+- EU-Verordnung 2023/2053: Ab 2025 Archive-Pflicht für alle politischen Ads; Creator muss Plattform-Label aktivieren.
+- Neutralitätsgebot: Bei staatlichem Auftraggeber → kein Parteien-Inhalt; strenge Trennung.
+- Meinungsfreiheit vs. Werbung: Eigene politische Aussage ≠ Werbung; bezahlte = Werbung.
+- Ablehnungsempfehlung: Bei verdeckter politischer Werbung ohne Kennzeichnung dringend ablehnen.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Partei zahlt Creator für Posts ohne offizielle Kennzeichnung → § 5a UWG-Verstoß + PartG.
+- „Sachspende" einer Partei an Creator → Parteienfinanzierungsrecht.
+- Creator-Post über staatliche Maßnahme ohne Auftraggeber-Offenlegung → Schleichwerbung.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 5a Abs. 4 UWG: https://www.gesetze-im-internet.de/uwg_2004/__5a.html
+- §§ 23-26 PartG: https://www.gesetze-im-internet.de/partg/__23.html
+- EU-VO 2023/2053 Politische Werbung: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32023R2053
+- DSA Art. 39: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022R2065
+
+## Output-Formate
+
+- Politische-Werbung-Compliance-Checkliste
+- Kennzeichnungskonzept für staatliche/parteiliche Kampagnen
+- Ablehnungsschreiben für verdeckte politische Werbung

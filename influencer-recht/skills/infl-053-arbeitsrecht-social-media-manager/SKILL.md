@@ -1,46 +1,68 @@
 ---
 name: infl-053-arbeitsrecht-social-media-manager
-description: "Influencer-Recht: Arbeitsrecht Social Media Manager mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Arbeitsrecht für Social-Media-Manager – Arbeitsverhältnis, Dienstvertrag, Abgrenzung, Kündigung, Urheberrecht an erstelltem Content."
 ---
 
-# Influencer-Recht: Arbeitsrecht Social Media Manager
+# Influencer-Recht: Arbeitsrecht – Social-Media-Manager
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Arbeitsrecht Social Media Manager** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Die Einstellung eines Social-Media-Managers beim Creator löst Arbeitsrecht aus:
 
-## Kaltstart in 6 Fragen
+- **§ 611a BGB**: Arbeitsvertrag liegt vor bei persönlicher Abhängigkeit und Weisungsgebundenheit; Social-Media-Manager, der feste Zeiten hat und dem Creator untergeordnet ist → Arbeitsverhältnis.
+- **KSchG**: Kündigungsschutz ab 6 Monaten Betriebszugehörigkeit und über 10 Mitarbeitern; bei kleinen Creator-Unternehmen meist nicht anwendbar.
+- **§ 43 UrhG**: In einem Arbeitsverhältnis erstellter Content → Nutzungsrechte beim Arbeitgeber (Creator), wenn nicht anders vereinbart.
+- **§ 615 BGB**: Annahmeverzug – Creator muss Lohn zahlen, auch wenn kein Content geliefert.
+- **§ 626 BGB**: Außerordentliche Kündigung bei wichtigem Grund (z. B. Verletzung von Betriebsgeheimnissen).
+- **DSGVO**: Social-Media-Manager hat Zugang zu Follower-Daten → Vertraulichkeits-Vereinbarung und Auftragsverarbeitungsvertrag.
+- **§ 28 BDSG / § 26 BDSG**: Datenschutz bei Beschäftigten; Überwachung des Social-Media-Managers → Mitbestimmungspflicht.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Vertragsgestaltung Social-Media-Manager
+
+| Punkt | Empfehlung |
+|-------|-----------|
+| Vertragsart | Arbeitsvertrag oder Freelancer-Vertrag klar definieren |
+| Weisungsgebundenheit | Bei Arbeitsverhältnis: schriftlich; bei Freelancer: vermeiden |
+| Urheberrecht | § 43 UrhG bei Angestellten; bei Freelancer: § 31 UrhG-Vereinbarung |
+| NDA | Vertraulichkeit für Follower-Daten, Kooperationsdetails |
+| Nebentätigkeit | Exclusivity- oder Non-Compete-Klausel? |
+| Kündigung | Probezeit 6 Monate; bei Arbeitsverhältnis gesetzliche Kündigungsfristen |
+
+## Kaltstart-Fragen (6)
+
+1. Ist der Social-Media-Manager angestellt oder als Freelancer tätig?
+2. Gibt es Weisungsgebundenheit (feste Zeiten, Arbeitsortpflicht, Einzelweisungen)?
+3. Wurde ein schriftlicher Vertrag geschlossen?
+4. Wem gehört der Content, den der Social-Media-Manager erstellt?
+5. Hat der Manager Zugriff auf Follower-Daten und gibt es eine DSGVO-Regelung?
+6. Gewünschtes Ergebnis: Vertragscheck, Kündigungsschreiben oder Scheinselbstständigkeits-Check?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Abgrenzung Arbeit/Freelance: Weisungsgebundenheit, Eingliederung, eigene Betriebsmittel.
+- Scheinselbstständigkeit: § 7 SGB IV-Test; bei Anzeichen → DRV-Anfrage.
+- Urheberrecht: Angestellten-Content → § 43 UrhG (Nutzungsrecht Creator); Freelancer-Content → § 31 UrhG-Vertrag.
+- DSGVO-AV-Vertrag: Bei Zugriff auf Follower-Daten → Auftragsverarbeitungsvertrag (Art. 28 DSGVO).
+- Kündigungsschutz: Ab 10 Mitarbeitern und 6 Monaten → KSchG; darunter: freier Widerruf mit Kündigungsfrist.
+- NDA: Vertraulichkeit für Kooperationsdetails, Plattform-Zugangsdaten.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Freelancer mit festen Bürozeiten → Scheinselbstständigkeitsrisiko.
+- Kein schriftlicher Vertrag → Streit über Nutzungsrechte an erstelltem Content.
+- Kein DSGVO-AV-Vertrag → Bußgeldrisiko.
+- Kündigung ohne Einhalten von Kündigungsfrist → Lohnfortzahlungsanspruch.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 611a BGB: https://www.gesetze-im-internet.de/bgb/__611a.html
+- § 43 UrhG: https://www.gesetze-im-internet.de/urhg/__43.html
+- § 7 SGB IV: https://www.gesetze-im-internet.de/sgb_4/__7.html
+- Art. 28 DSGVO – AV-Vertrag: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679
+
+## Output-Formate
+
+- Social-Media-Manager-Vertrag (Arbeits- oder Freelancer-Version)
+- DSGVO-Auftragsverarbeitungsvertrag
+- NDA-Vorlage
+- Scheinselbstständigkeits-Check

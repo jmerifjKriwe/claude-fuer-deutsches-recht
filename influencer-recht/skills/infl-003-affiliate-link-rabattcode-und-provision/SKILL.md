@@ -1,46 +1,67 @@
 ---
 name: infl-003-affiliate-link-rabattcode-und-provision
-description: "Influencer-Recht: Affiliate Link Rabattcode und Provision mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Affiliate-Links und Rabattcodes – Kennzeichnungspflicht, Provisionsbesteuerung, Transparenzanforderungen nach UWG und MStV."
 ---
 
-# Influencer-Recht: Affiliate Link Rabattcode und Provision
+# Influencer-Recht: Affiliate-Link, Rabattcode und Provision
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Affiliate Link Rabattcode und Provision** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Affiliate-Links und Rabattcodes sind wirtschaftliche Gegenleistungen – auch wenn keine Fixvergütung fließt:
 
-## Kaltstart in 6 Fragen
+- **§ 5a Abs. 4 UWG**: Provisionsbeteiligung ist kommerzieller Zweck → Kennzeichnungspflicht.
+- **§ 22 MStV**: Trennungsgebot gilt auch für Affiliate-Content.
+- **BGH „Luisa-Maxime Huss"** (I ZR 35/21): Auch performance-basierte Vergütung begründet Kennzeichnungspflicht.
+- **Steuer § 15/22 EStG**: Provisionen sind Betriebseinnahmen; auch Kleinstbeträge von 0,01 € pro Klick sind steuerpflichtig.
+- **UStG**: Affiliate-Provision = umsatzsteuerpflichtiger Umsatz; bei Auslandsplattform ggf. Reverse Charge.
+- **DSGVO Art. 13**: Tracking-Pixel und Affiliate-Cookies erfordern Einwilligung und Datenschutzhinweis.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Kennzeichnungsformate für Affiliate
+
+| Format | Mindestanforderung |
+|--------|--------------------|
+| Link in Bio | „*Affiliate-Link" oder „*Werbung (Provision)" |
+| Story-Swipe-Up | Label „Werbung" im ersten Frame |
+| YouTube-Beschreibung | Klarer Hinweis vor dem ersten Link |
+| Blog/Website | DSGVO-konforme Cookie-Einwilligung + Hinweis |
+
+## Kaltstart-Fragen (6)
+
+1. Welche Plattform und welches Affiliate-Netzwerk (z. B. AWIN, Amazon, ShareASale)?
+2. Wie hoch ist die monatliche Provision – Schwelle Kleinunternehmer relevant?
+3. Werden Tracking-Cookies gesetzt? Liegt Einwilligungsmechanismus vor?
+4. Ist der Affiliate-Link klar als solcher im Post / in der Bio markiert?
+5. Gibt es daneben noch Fixvergütung, die eine separate Kennzeichnung nötig macht?
+6. Gewünschtes Ergebnis: Compliance-Check, Buchhaltungsvorlage oder Datenschutztext?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Wirtschaftliche Abhängigkeit: Provision, auch wenn gering → Kennzeichnung.
+- Label-Positionierung: Vor dem Klick sichtbar, nicht im Fließtext versteckt.
+- Steuer: Provision in Einnahmen-Überschuss-Rechnung erfassen; Jahresbelege vom Netzwerk sichern.
+- USt: Ist die Affiliate-Plattform in DE oder EU-Ausland? → Reverse Charge prüfen.
+- DSGVO: Affiliate-Tracking = personenbezogenes Datum → Consent-Management-Plattform erforderlich.
+- Vertrag mit Affiliate-Netzwerk prüfen: Exklusivität, Mindestleistung, Kündigungsrecht.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- „*" am Ende des Links ohne Erklärung → nicht ausreichend nach deutschem Recht.
+- Jahresprovisionen unter der Wahrnehmungsschwelle trotzdem steuerpflichtig.
+- Amazon-Associates ohne Cookie-Einwilligungsbanner → DSGVO-Verstoß.
+- Affiliate + Fixvergütung: Doppelkennzeichnung vergessen.
+- Plattform sperrt Account, wenn Affiliate-Links nicht korrekt deklariert werden (TikTok-AGB).
 
-## Output
+## Normen und Quellen
+
+- § 5a Abs. 4 UWG: https://www.gesetze-im-internet.de/uwg_2004/__5a.html
+- § 22 MStV: https://www.gesetze-im-internet.de/mstv/__22.html
+- § 15 EStG: https://www.gesetze-im-internet.de/estg/__15.html
+- DSGVO Art. 13: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679
+- BGH I ZR 35/21: https://openjur.de/u/2432342.html
+
+## Output-Formate
 
 - Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- Muster-Affiliate-Hinweis (Story, Post, Bio, Blog)
+- Steuernotiz: Provisionsbuchung
+- DSGVO-Kurzcheck: Tracking, Cookies, Einwilligung

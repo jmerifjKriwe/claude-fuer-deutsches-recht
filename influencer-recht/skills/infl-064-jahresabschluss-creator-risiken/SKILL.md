@@ -1,46 +1,68 @@
 ---
 name: infl-064-jahresabschluss-creator-risiken
-description: "Influencer-Recht: Jahresabschluss Creator Risiken mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Jahresabschluss für Creator – EÜR, Steuererklärung, Risikofelder, Abgabefristen und Optimierungspotenziale."
 ---
 
-# Influencer-Recht: Jahresabschluss Creator Risiken
+# Influencer-Recht: Jahresabschluss – Creator-Risiken
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Jahresabschluss Creator Risiken** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Der Jahresabschluss eines Creators ist komplexer als bei klassischen Gewerbetreibenden:
 
-## Kaltstart in 6 Fragen
+- **§ 4 Abs. 3 EStG**: EÜR als Hauptinstrument; Zuflussprinzip (§ 11 EStG) – Einnahmen zählen im Zuflussjahr.
+- **§ 25 EStG**: Abgabe der Einkommensteuererklärung bis 31.7. des Folgejahres; mit Steuerberater bis 28.2. des übernächsten Jahres.
+- **§ 149 AO**: Fristverlängerung möglich; im Ausnahmefall bis 30.9.
+- **USt-Jahreserklärung**: Bis 31.7. des Folgejahres; Vorauszahlungsanpassung.
+- **Gewerbesteuer-Erklärung**: Bis 31.7. des Folgejahres; GewSt-Vorauszahlungen quartalsweise.
+- **§ 7g EStG**: Investitionsabzugsbetrag – bis 50 % geplanter Investitionen vorab abziehen (bis 200 000 € IAB).
+- **§ 10d EStG**: Verlustabzug aus Vorjahren; Anlaufverluste können zurückgetragen werden.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Typische Jahresabschluss-Risiken Creator
+
+| Risikofeld | Häufigkeit | Maßnahme |
+|-----------|-----------|---------|
+| Sachleistungen nicht erfasst | Sehr häufig | Vollständige EÜR-Prüfung |
+| Gemischte Reisekosten | Häufig | Reisetagebuch nachreichen |
+| Plattform-Einnahmen fehlen | Häufig | Jahresabrechnungen sammeln |
+| Auslandseinnahmen (ZM fehlt) | Mittel | ZM-Nachmeldung |
+| IAB nicht genutzt | Gelegentlich | Steueroptimierung |
+| KSK-Beiträge nicht abgezogen | Gelegentlich | Vorsorgeaufwendungen geltend machen |
+
+## Kaltstart-Fragen (6)
+
+1. Für welches Steuerjahr wird der Abschluss gemacht?
+2. Sind alle Einnahmen (inkl. Sachleistungen, Auslandsinnahmen) in der EÜR erfasst?
+3. Gibt es Investitionen, für die ein IAB genutzt werden könnte?
+4. Sind Verluste aus Anlaufjahren noch nicht vollständig verrechnet?
+5. Wurde die KSK-Mitgliedschaft genutzt, und sind Beiträge als Sonderausgaben erfasst?
+6. Gewünschtes Ergebnis: Abschluss-Checkliste, Optimierungs-Memo oder Steuerberater-Briefing?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Einnahmen-Vollständigkeit: Alle Plattform-Jahresabrechnungen; alle Kooperationsrechnungen; alle Sachleistungen.
+- Ausgaben-Vollständigkeit: Equipment, Software, Reisen (anteilig), KSK-Beiträge, Steuerberatung.
+- IAB-Prüfung: Plant Creator in den nächsten 3 Jahren eine Investition? → IAB vorab abziehen.
+- Verlustabzug: Anlaufjahre-Verluste aus Vorjahren → Verlustvortrag prüfen.
+- GewSt-Anrechnung: § 35 EStG; GewSt kann auf ESt angerechnet werden.
+- USt-Abstimmung: Voranmeldungen + Jahreserklärung abstimmen; Differenzen erklären.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- IAB-Antrag vergessen → Steuerlast unnötig hoch.
+- Verlustabzug aus Vorjahr nicht geltend gemacht.
+- Auslandseinnahmen ohne ZM → nachzumelden.
+- Steuererklärung ohne Steuerberater → Fehler bei Creator-typischen Sonderfällen.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 4 Abs. 3 EStG: https://www.gesetze-im-internet.de/estg/__4.html
+- § 7g EStG – IAB: https://www.gesetze-im-internet.de/estg/__7g.html
+- § 10d EStG – Verlustabzug: https://www.gesetze-im-internet.de/estg/__10d.html
+- § 35 EStG – GewSt-Anrechnung: https://www.gesetze-im-internet.de/estg/__35.html
+
+## Output-Formate
+
+- Jahresabschluss-Checkliste (EÜR, USt, ESt, GewSt)
+- Steueroptimierungs-Memo (IAB, Verluste, KSK)
+- Steuerberater-Briefing-Vorlage
+- EÜR-Vollständigkeitscheck

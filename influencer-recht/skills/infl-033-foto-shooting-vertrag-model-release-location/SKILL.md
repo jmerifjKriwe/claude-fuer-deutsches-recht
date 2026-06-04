@@ -1,46 +1,69 @@
 ---
 name: infl-033-foto-shooting-vertrag-model-release-location
-description: "Influencer-Recht: Foto-Shooting Vertrag Model Release Location mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Foto-Shooting – Vertragsgestaltung, Model Release, Location-Genehmigung, Urheberrecht Fotograf und Nutzungsrechte."
 ---
 
-# Influencer-Recht: Foto-Shooting Vertrag Model Release Location
+# Influencer-Recht: Foto-Shooting – Vertrag, Model Release und Location
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Foto-Shooting Vertrag Model Release Location** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Foto-Shootings für Creator-Content erfordern klare Vertragsgestaltung:
 
-## Kaltstart in 6 Fragen
+- **UrhG §§ 2, 72**: Fotos sind Werke; Fotograf ist Urheber; ohne Vertrag verbleiben alle Nutzungsrechte beim Fotografen.
+- **UrhG § 31**: Nutzungsrechtseinräumung muss ausdrücklich vereinbart werden; ohne Vertrag = organisch-einmalige Nutzung.
+- **§ 22 KUG**: Abgebildete Personen müssen Einwilligung geben; Model Release = § 22 KUG-Einwilligung schriftlich.
+- **§ 903 BGB / Hausrecht**: Location-Eigentümer kann Aufnahmen auf seinem Gelände untersagen oder genehmigen.
+- **§ 823 BGB**: Persönlichkeitsrechtsverletzung bei unbefugter Verwertung von Personenaufnahmen.
+- **Steuer**: Fotografenhonorar als Betriebsausgabe; bei Sachleistungstausch Umsatzsteuer prüfen.
+- **§ 12 UStG**: Fotograf schuldet Umsatzsteuer auf Honorar; Creator kann Vorsteuer abziehen.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Shooting-Vertrag: Mindestinhalt
+
+| Element | Regelung |
+|---------|----------|
+| Leistung | Anzahl Fotos, Formate, RAW-Files? |
+| Nutzungsrechte | Zeitlich, räumlich, sachlich (Social Media, Print, Werbung) |
+| Exklusivität | Darf Fotograf Bilder auch selbst verwenden? |
+| Vergütung | Honorar oder Tausch; Rechteanteil? |
+| Abnahme | Wie viele Auswahlbilder; Korrekturrechte? |
+| Model Release | In Vertrag oder separates Formular |
+| Rawdatei | Liegt beim Fotografen oder Creator? |
+
+## Kaltstart-Fragen (6)
+
+1. Wer ist Fotograf – Profi mit eigenem Vertrag oder Freelancer ohne Vertrag?
+2. Welche Nutzungsrechte werden benötigt (organisch, Werbung, Print, Whitelisting)?
+3. Sind auf den Fotos Dritte abgebildet, die eine Model-Release-Einwilligung brauchen?
+4. Findet das Shooting an einem privaten Ort, in der Öffentlichkeit oder in einem Studio statt?
+5. Wird der Fotograf bezahlt oder gibt es Tausch (z. B. Nennung gegen Nutzungsrechte)?
+6. Gewünschtes Ergebnis: Vertragsvorlage, Model-Release-Formular oder Nutzungsrechts-Check?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Urheberrecht: Fotograf = Urheber; Nutzungsrechte explizit einräumen lassen (§ 31 UrhG).
+- Umfang der Nutzungsrechte: Social Media only oder auch Paid Ads, Print, OOH?
+- Model Release: Für jede abgebildete Person (auch im Hintergrund, wenn erkennbar).
+- Location: Private Räume, Restaurants, Museen → Genehmigung des Eigentümers einholen.
+- RAW-Dateien: Eigentum beim Fotografen → extra vereinbaren, wenn Creator sie möchte.
+- Steuer: Fotografenhonorar = Betriebsausgabe; Rechnung prüfen (§ 14 UStG-Pflichtangaben).
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Kein Vertrag → Creator kann Fotos nur einmalig organisch nutzen; Fotograf kann sie auch anderweitig verwenden.
+- Model Release vergessen → Person fordert Löschung / Schadensersatz.
+- Location ohne Genehmigung → Eigentumsrecht / Hausrecht-Verletzung.
+- „TFP" (Time for Print) ohne schriftliche Nutzungsrechtsvereinbarung → unklar, wer was darf.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 31 UrhG: https://www.gesetze-im-internet.de/urhg/__31.html
+- § 72 UrhG – Lichtbilder: https://www.gesetze-im-internet.de/urhg/__72.html
+- § 22 KUG: https://www.gesetze-im-internet.de/kukg/__22.html
+- § 903 BGB – Eigentumsrecht: https://www.gesetze-im-internet.de/bgb/__903.html
+
+## Output-Formate
+
+- Foto-Shooting-Vertragsvorlage
+- Model-Release-Formular (DE/EN)
+- Location-Genehmigungsanfrage-Muster
+- Nutzungsrechte-Checkliste

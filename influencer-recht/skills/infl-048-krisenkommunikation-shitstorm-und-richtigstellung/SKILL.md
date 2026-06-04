@@ -1,46 +1,69 @@
 ---
 name: infl-048-krisenkommunikation-shitstorm-und-richtigstellung
-description: "Influencer-Recht: Krisenkommunikation Shitstorm und Richtigstellung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Influencer-Recht: Krisenkommunikation bei Shitstorm – rechtliche Grenzen, Richtigstellung, Löschpflichten, Widerruf und Persönlichkeitsrecht."
 ---
 
-# Influencer-Recht: Krisenkommunikation Shitstorm und Richtigstellung
+# Influencer-Recht: Krisenkommunikation – Shitstorm und Richtigstellung
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Krisenkommunikation Shitstorm und Richtigstellung** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Krisensituationen erfordern abgestimmtes rechtliches und kommunikatives Handeln:
 
-## Kaltstart in 6 Fragen
+- **§ 1004 BGB analog**: Betroffener hat Anspruch auf Beseitigung und Unterlassung rechtswidriger Behauptungen; Creator kann diesen Anspruch haben oder gegen ihn gerichtet sein.
+- **§ 823 Abs. 1 BGB**: Schadensersatz bei Persönlichkeitsrechtsverletzung; sowohl für Creator als Opfer als auch als Täter möglich.
+- **§ 185 ff. StGB**: Beleidigung, üble Nachrede, Verleumdung; Strafanzeige als Reaktionsoption bei massiver Hassattacke.
+- **Gegendarstellung § 56 RStV a. F. / § 29 MStV**: Redaktionelle Telemedien müssen Gegendarstellung veröffentlichen; gilt nur für journalistische Angebote.
+- **§ 22 KUG**: Unerlaubt veröffentlichte Fotos → Unterlassungs- und Schadensersatzanspruch des Creators.
+- **DSGVO Art. 17**: Löschungsanspruch gegen Plattformen und andere User für rechtswidrig verarbeitete Personendaten.
+- **Plattform-Meldewege**: Jede Plattform hat Meldeverfahren für Hassrede, Diffamierung, Verleumdung.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Krisenkommunikation-Eskalationsleiter
+
+| Stufe | Maßnahme | Rechtsbasis |
+|-------|----------|------------|
+| 1 | Plattform-Meldung | DSA Art. 16, NetzDG |
+| 2 | Privates Löschersuchen | § 1004 BGB analog |
+| 3 | Anwaltliches Abmahn-/Löschungsschreiben | § 823 BGB + § 1004 BGB |
+| 4 | Einstweilige Verfügung | §§ 935 ff. ZPO |
+| 5 | Strafanzeige | §§ 185 ff. StGB |
+| 6 | Schadensersatzklage | § 823 BGB |
+
+## Kaltstart-Fragen (6)
+
+1. Was ist der Auslöser der Krise – eigener Fehler, falsche Behauptung über Creator oder Produkt?
+2. Welche Inhalte sollen gelöscht / richtiggestellt werden?
+3. Wer verbreitet falsche Informationen (andere Creator, Medien, Follower)?
+4. Besteht Dringlichkeit (laufende Abmahnung, drohende Rufschädigung)?
+5. Gibt es laufende Kooperations-Verträge, die von der Krise betroffen sind?
+6. Gewünschtes Ergebnis: Richtigstellung-Statement, Löschungsschreiben oder Reaktionsstrategie?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Eigener Fehler: Proaktive Richtigstellung ist rechtlich und kommunikativ besser als Schweigen.
+- Falsche Behauptungen: Tatsache vs. Werturteil → nur Tatsachen sind angreifbar.
+- Einstweilige Verfügung: Dringlichkeit (14-Tage-Regel); bei Verzögerung = Verlust der Dringlichkeit.
+- Screenshot-Sicherung: Alle Inhalte vor Löschung sichern → Beweis.
+- Statement: Kurz, sachlich, keine Entschuldigung für Nichtgetanes; keine überschießenden Aussagen.
+- Anwalt: Bei massivem Shitstorm mit Behauptungen → sofort Anwalt einschalten.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- Creator antwortet impulsiv auf Shitstorm → verschlimmert die Situation rechtlich.
+- Richtigstellung enthält neue falsche Behauptungen → neue Angriffsfläche.
+- Inhalte vor Sicherung gelöscht → kein Beweismittel mehr.
+- Dringlichkeit verpasst → keine einstweilige Verfügung mehr möglich.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 1004 BGB: https://www.gesetze-im-internet.de/bgb/__1004.html
+- § 823 BGB: https://www.gesetze-im-internet.de/bgb/__823.html
+- § 185 StGB: https://www.gesetze-im-internet.de/stgb/__185.html
+- § 29 MStV – Gegendarstellung: https://www.gesetze-im-internet.de/mstv/__29.html
+- DSA Art. 16: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022R2065
+
+## Output-Formate
+
+- Krisenreaktionsplan (Stufenmodell)
+- Richtigstellungs-Statement-Vorlage
+- Löschungsschreiben (an andere Creator / Medien)
+- Einstweilige Verfügung: Prüfschema

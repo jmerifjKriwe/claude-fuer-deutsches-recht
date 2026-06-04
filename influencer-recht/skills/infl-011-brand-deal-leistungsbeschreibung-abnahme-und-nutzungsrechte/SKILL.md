@@ -1,46 +1,70 @@
 ---
-name: infl-011-brand-deal-leistungsbeschreibung-abnahme-und-nutzungsre
-description: "Influencer-Recht: Brand Deal Leistungsbeschreibung Abnahme und Nutzungsrechte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: infl-011-brand-deal-leistungsbeschreibung-abnahme-und
+description: "Influencer-Recht: Brand-Deal-Vertragsgestaltung – Leistungsbeschreibung, Abnahme, Nutzungsrechte und Vergütungsstruktur."
 ---
 
-# Influencer-Recht: Brand Deal Leistungsbeschreibung Abnahme und Nutzungsrechte
+# Influencer-Recht: Brand Deal – Leistungsbeschreibung, Abnahme und Nutzungsrechte
 
-## Aufgabe
+## Kontext und Regelungslage
 
-Dieser Skill bearbeitet **Brand Deal Leistungsbeschreibung Abnahme und Nutzungsrechte** im Bereich **Influencer-Recht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Ein Brand Deal ist ein Werkvertrag (§ 631 BGB) oder gemischter Vertrag; entscheidend ist die genaue Leistungsbeschreibung:
 
-## Kaltstart in 6 Fragen
+- **§ 631 BGB**: Werkvertrag – Erfolg geschuldet; Abnahme auslöst Vergütungsfälligkeit.
+- **§ 640 BGB**: Abnahme kann ausdrücklich oder konkludent erfolgen; wesentliche Mängel berechtigen zur Verweigerung.
+- **UrhG § 31**: Nutzungsrechtseinräumung muss ausdrücklich vereinbart sein; nicht ausdrücklich eingeräumte Rechte verbleiben beim Urheber (Zweckübertragungsgrundsatz § 31 Abs. 5 UrhG).
+- **UrhG § 34, 35**: Übertragung und Unterlizenzierung von Nutzungsrechten nur mit Zustimmung des Urhebers.
+- **Kennzeichnungspflicht im Vertrag**: Brand Deal muss Kennzeichnungsverantwortung regeln (§ 5a UWG).
+- **§ 307 BGB**: Unbegrenzte Nutzungsrechte in AGB sind regelmäßig unwirksam (kein bestimmter Umfang).
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+### Vertragsstruktur Brand Deal
+
+| Klausel | Empfehlung Creator |
+|---------|--------------------|
+| Leistungsgegenstand | Exakt: Plattform, Format, Anzahl, Länge, Sprache |
+| Lieferfrist | Puffer einbauen; Verlängerungsoption |
+| Abnahme | 5–7 Werktage; Schweigen = Abnahme nach Frist |
+| Nutzungsrechte | Zeitlich (12 Monate), räumlich (DE), sachlich (Social Media) begrenzen |
+| Whitelisting | Extra vergüten; Laufzeit limitieren |
+| Exklusivität | Branche und Dauer eng fassen |
+| Revision | Max. 2 Feedback-Runden |
+
+## Kaltstart-Fragen (6)
+
+1. Liegt ein Vertragstext vor, oder soll einer erstellt werden?
+2. Welche Leistungen sind genau geschuldet (Posts, Stories, Videos, Blogpost)?
+3. Welche Nutzungsrechte verlangt der Brand – unbegrenzt, zeitlich befristet, Whitelisting?
+4. Gibt es eine Abnahmeregelung und eine Revisions-Klausel?
+5. Welche Vergütung ist vereinbart: Fix, per Post, Success-Fee oder Mischmodell?
+6. Gewünschtes Ergebnis: Vertragscheck, Verhandlungs-Memo oder fertiger Gegenvertrag?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Werbung, Redaktion, Eigeninteresse und Gegenleistung sauber trennen
-- Steuerlich Barzahlung und Sachleistung gleich ernst nehmen
-- Plattformrecht, UWG, MStV, Urheberrecht und Datenschutz zusammendenken
-- Screenshots und Verträge als Beweis sichern
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+- Leistungsbeschreibung: Jede Leistung einzeln spezifizieren; Pauschalklauseln vermeiden.
+- Nutzungsrechte: Umfang (zeitlich, räumlich, sachlich) explizit begrenzen; Whitelisting extra.
+- Abnahme: Frist und Rechtsfolge des Schweigens definieren; Mängelkatalog.
+- Vergütungsfälligkeit: An Abnahme, nicht an Veröffentlichung koppeln.
+- Kennzeichnung: Verantwortlichkeit für Label (Creator oder Brand) klar stellen.
+- Haftung: Freistellungsklausel für falsche Produktinformationen des Brands.
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- „Unbegrenzte Nutzungsrechte" ohne Gegenleistung → UrhG § 31 Abs. 5 schützt Creator.
+- Abnahme an Veröffentlichung geknüpft → Brand kann endlos auf Revision bestehen.
+- Exklusivität zu breit → Creator verliert andere Deals für 1 Jahr.
+- Kennzeichnungspflicht auf Creator übertragen, aber Brand liefert falsche Infos → Abmahnrisiko.
+- Mündliche Änderungen am Vertrag → kein Beweis.
 
-## Output
+## Normen und Quellen
 
-- Kennzeichnungsampel
-- Steuercheck
-- Kooperationsvertrag
-- Abmahnantwort
-- Posting-Freigabe
-- Buchhaltungsnotiz
+- § 631 BGB: https://www.gesetze-im-internet.de/bgb/__631.html
+- § 640 BGB – Abnahme: https://www.gesetze-im-internet.de/bgb/__640.html
+- § 31 UrhG – Nutzungsrechte: https://www.gesetze-im-internet.de/urhg/__31.html
+- § 31 Abs. 5 UrhG – Zweckübertragung: https://www.gesetze-im-internet.de/urhg/__31.html
+- § 5a Abs. 4 UWG: https://www.gesetze-im-internet.de/uwg_2004/__5a.html
+
+## Output-Formate
+
+- Brand-Deal-Vertrag-Checkliste
+- Nutzungsrechte-Tabelle (erlaubt / nicht erlaubt)
+- Abnahme-Protokoll-Vorlage
+- Gegenentwurf zu typischen Brand-AGB
