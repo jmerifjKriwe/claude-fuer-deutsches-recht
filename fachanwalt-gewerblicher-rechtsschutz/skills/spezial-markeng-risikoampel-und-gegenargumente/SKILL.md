@@ -1,48 +1,107 @@
 ---
 name: spezial-markeng-risikoampel-und-gegenargumente
-description: "Markeng: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "MarkenG: Risikoampel und Gegenargumente. Verwechslungsgefahr § 9 MarkenG, Erschöpfung § 24 MarkenG, Nichtbenutzungseinrede § 26, relative Schutzhindernisse, Gegenrechte bei Abmahnung, Verteidigungslinien und Prüfmatrix."
 ---
 
-# Markeng: Risikoampel, Gegenargumente und Verteidigungslinien
+# MarkenG: Risikoampel und Gegenargumente
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-gewerblicher-rechtsschutz`. Ausgangspunkt ist: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfuegung Verletzungsklage Lizenzanaloger Schadensersatz.
+Dieser Skill liefert die Risikoampel und Gegenargumente für Markensachen: Verwechslungsgefahr prüfen, Erschöpfungseinwand, Nichtbenutzung und weitere Verteidigungslinien.
 
-Er führt durch **Risikoampel, Gegenargumente und Verteidigungslinien** im Themenfeld **Markeng**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Rechtsrahmen
 
+| Norm | Inhalt |
+|---|---|
+| § 3 MarkenG | Schutzfähige Zeichen |
+| § 8 MarkenG | Absolute Schutzhindernisse |
+| § 9 MarkenG | Relative Schutzhindernisse: Verwechslungsgefahr |
+| § 14 MarkenG | Verletzungstatbestände: Identitätsschutz, Verwechslungsschutz, Bekanntheitsschutz |
+| § 15 MarkenG | Schutz geschäftlicher Bezeichnungen |
+| § 24 MarkenG | Erschöpfung: erstmaliges IVB im EWR |
+| § 26 MarkenG | Benutzungspflicht; ernsthafte Benutzung |
+| § 49 MarkenG | Verfall bei Nichtbenutzung |
+| § 51 MarkenG | Nichtigkeit wegen älterer Rechte |
 
-## Fachlicher Zuschnitt
+## Risikoampel Markenverletzung
 
-- **Thema:** Markeng.
-- **Arbeitsfokus:** Risikoampel, Gegenargumente und Verteidigungslinien.
-- **Plugin-Rahmen:** Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahn....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### Ampelbewertung
+
+| Ampel | Kriterien |
+|---|---|
+| **Grün** (klare Verletzung) | Identisches Zeichen für identische Waren; eingetragenes Schutzrecht aktiv; keine Erschöpfung; keine älteren Rechte der Gegenseite |
+| **Gelb** (Verletzung möglich) | Ähnliche Zeichen; ähnliche Waren; Verwechslungsgefahr nach Gesamtabwägung; Schutzrecht besteht, aber Nichtbenutzungsrisiko |
+| **Rot** (Verletzung zweifelhaft) | Schwache Kennzeichnungskraft; breiter Formenschatz; Erschöpfungseinwand möglich; ältere Rechte der Gegenseite; Nichtigkeitsrisiko des Klagezeichens |
+
+## Prüfschema Verwechslungsgefahr (§ 9 MarkenG)
+
+**BGH-Wechselwirkungsgrundsatz:** Stärke des Zeichens, Waren-/Dienstleistungsähnlichkeit und Zeichenähnlichkeit stehen in Wechselwirkung. Geringe Ähnlichkeit des Zeichens kann durch hohe Waren-Ähnlichkeit kompensiert werden und umgekehrt.
+
+| Prüfpunkt | Frage | Bewertung |
+|---|---|---|
+| Schutzrechtsbestand | Eingetragene Marke aktiv (DPMA-Auszug)? | Ohne Recht kein Anspruch |
+| Benutzungspflicht | Marke ernsthaft benutzt (§ 26 MarkenG, 5 Jahre)? | Nichtbenutzungseinrede möglich |
+| Zeichenähnlichkeit | Klanglich / schriftbildlich / begrifflich ähnlich? | BGH-Formel: Gesamteindruck |
+| Warenähnlichkeit | Gleiche / ähnliche Waren oder Dienstleistungen? | Nizza-Klassen; Verkehrsauffassung |
+| Kennzeichnungskraft | Durchschnittlich / hoch / schwach? | Stärke beeinflusst Schutzumfang |
+| Bekanntheitsschutz (§ 14 Abs. 2 Nr. 3) | Bekannte Marke; Rufausbeutung oder Schädigung? | Auch ohne Waren-Ähnlichkeit |
+
+## Gegenargumente (Verteidigung)
+
+### 1. Erschöpfung (§ 24 MarkenG)
+
+- Ware wurde vom Markeninhaber oder mit seiner Zustimmung **erstmals im EWR** in den Verkehr gebracht.
+- **Kein Erschöpfungseinwand bei:** Wesentlicher Veränderung des Zustands; Umverpackung ohne Zustimmung; Reimport aus Nicht-EWR.
+- EuGH-Linie: Erschöpfung scheitert bei veränderten Waren (EuGH „Hoffmann-La Roche").
+
+### 2. Nichtbenutzungseinrede (§ 26 MarkenG, § 43 Abs. 1 MarkenG)
+
+- Ältere Marke muss in den letzten 5 Jahren vor dem Beanstandungszeitpunkt ernsthaft benutzt worden sein.
+- **Benutzungsnachweis**: Rechnungen, Fotos, Kataloge (DPMA/Gericht); Glaubhaftmachung durch Eidesstattliche Versicherung.
+
+### 3. Fehlende Verwechslungsgefahr
+
+- Zeichen zu unterschiedlich (klangliche / schriftbildliche / begriffliche Unterschiede).
+- Waren / Dienstleistungen nicht ähnlich.
+- Schwache Kennzeichnungskraft der älteren Marke (häufiger Bestandteil im Verkehr).
+
+### 4. Älteres Recht der Gegenseite
+
+- Ältere eingetragene Marke (§ 6 Abs. 2 MarkenG: Priorität = Anmeldetag).
+- Priorität des Benutzungszeichens (§ 4 Nr. 2 MarkenG: Verkehrsgeltung).
+
+### 5. Nichtigkeitsangriff (§ 50–51 MarkenG)
+
+- Angriff auf das Klagezeichen selbst: absolute oder relative Schutzhindernisse.
+- Gegenangriff: Nichtigkeitsantrag beim DPMA (300 €).
+
+## Verteidigungsmatrix
+
+| Einwand | Norm | Beleg benötigt | Stärke |
+|---|---|---|---|
+| Erschöpfung | § 24 MarkenG | Lieferkettendokumentation | Hoch bei EWR-Erstverkauf |
+| Nichtbenutzung | §§ 26, 43 MarkenG | Keine Benutzungsnachweise des Klägers | Mittel–Hoch (kläger-abhängig) |
+| Fehlende Verwechslungsgefahr | § 9 MarkenG | Zeichenvergleich, Marktanalyse | Fallabhängig |
+| Nichtigkeitsangriff | §§ 50–51 MarkenG | Prioritäres Recht oder absolutes Hindernis | Hoch wenn begründet |
+| Fehlende Aktivlegitimation | § 14 MarkenG | Kein Registerrecht | Klar wenn nachweisbar |
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+1. Liegt eine Abmahnung vor oder wird eine eigene Durchsetzungsstrategie bewertet?
+2. Welches Zeichen und welche Waren / Dienstleistungen sind betroffen?
+3. Besteht ein eingetragenes Schutzrecht (Registerauszug vorhanden)?
+4. Gibt es Anhaltspunkte für Erschöpfung, Nichtbenutzung oder ältere Rechte der Gegenseite?
+5. Output: Risikoampel, Gegenargumentations-Matrix, Verteidigungsstrategie-Memo?
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Markeng** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+## Anschluss-Skills
+- `fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch` – Widerspruchsverfahren.
+- `spezial-markeng-risikoampel-und-gegenargumente` – Dieser Skill.
+- `spezial-dpma-mehrparteien-konflikt-und-interessen` – DPMA-Mehrparteienverfahren.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- MarkenG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/markeng/).
+- Rechtsprechung: [dejure.org](https://dejure.org), [bgh.de](https://www.bundesgerichtshof.de), [curia.europa.eu](https://curia.europa.eu).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Was dieser Skill nicht macht
+- Keine vollständige Verwechslungsbeurteilung ohne Kenntnis beider Zeichen.
+- Kein Ersatz für vollständige Mandantenberatung.

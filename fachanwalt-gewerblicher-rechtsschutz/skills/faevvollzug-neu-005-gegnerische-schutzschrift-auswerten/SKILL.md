@@ -1,45 +1,102 @@
 ---
 name: faevvollzug-neu-005-gegnerische-schutzschrift-auswerten
-description: "Fachanwalt Gewerblicher Rechtsschutz: Gegnerische Schutzschrift auswerten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Gegnerische Schutzschrift auswerten: Inhalt, Angriffsmittel, Reaktionsoptionen bei einstweiliger Verfügung im gewerblichen Rechtsschutz. Zentrales Schutzschriftenregister (ZSSR), Widerspruch, Abschlussschreiben, Antwortstrategien."
 ---
 
-# Fachanwalt Gewerblicher Rechtsschutz: Gegnerische Schutzschrift auswerten
+# Gegnerische Schutzschrift auswerten
 
 ## Aufgabe
+Dieser Skill hilft beim Auswerten einer Schutzschrift der Gegenseite vor oder nach Erlass einer einstweiligen Verfügung: Argumente identifizieren, Schwächen benennen, Reaktionsstrategie entwickeln.
 
-Dieser Skill bearbeitet **Gegnerische Schutzschrift auswerten** im Bereich **Fachanwalt Gewerblicher Rechtsschutz**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+## Rechtsrahmen
 
-## Kaltstart in 6 Fragen
+| Norm / Quelle | Inhalt |
+|---|---|
+| § 945a ZPO | Zentrales Schutzschriftenregister (ZSSR) – Einreichung und Abruf |
+| § 922 ZPO | Beschlussverfügung ohne mündliche Verhandlung |
+| § 924 ZPO | Widerspruch gegen einstweilige Verfügung |
+| § 925 ZPO | Mündliche Verhandlung nach Widerspruch |
+| § 936 ZPO | Verweisung auf Arrestvorschriften |
+| § 920 ZPO | Glaubhaftmachung: Verfügungsanspruch + Verfügungsgrund |
+| § 294 ZPO | Mittel der Glaubhaftmachung (eidesstattliche Versicherung etc.) |
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Aufbau einer Schutzschrift – typische Angriffspunkte
 
-## Prüfprogramm
+Eine gegnerische Schutzschrift greift regelmäßig an:
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. **Verfügungsanspruch:** Kein Schutzrecht, kein Verstoß, fehlende Aktivlegitimation.
+2. **Verfügungsgrund / Dringlichkeit:** Selbstwiderlegung durch Zuwarten; kein Eilbedürfnis.
+3. **Verhältnismäßigkeit:** Antrag zu weit gefasst; Schaden nicht unverhältnismäßig.
+4. **Prozessuale Mängel:** Keine ordnungsgemäße Vollmacht; fehlende Anlagen; unklares Verbotsbegehren.
+5. **Materiell-rechtliche Gegenrechte:** Erschöpfung (§ 24 MarkenG), eigene Schutzrechte, fehlende Verwechslungsgefahr.
 
-## Typische Fallen
+## Auswertungsmatrix
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+| Punkt in Schutzschrift | Rechtliche Einordnung | Stärke | Gegenargument | Beleg nötig |
+|---|---|---|---|---|
+| Selbstwiderlegung Dringlichkeit | § 12 UWG / § 935 ZPO | Hoch, wenn belegt | Kenntnisdatum dokumentiert? | Ja: Datum der Kenntnis |
+| Kein Schutzrecht / kein Verstoß | Materiell | Je nach Fallgestaltung | Registerauszug, Verletzungsnachweis | Ja |
+| Erschöpfung § 24 MarkenG | Materiell | Prüfen: erstmaliges IVB im EWR? | Keine Erschöpfung bei Reimport mit veränderten Waren | Ja: Lieferkette |
+| Unverhältnismäßigkeit | § 935 ZPO | Gering (wird selten durchgesetzt) | Schutzrechtsinhaber trägt kein Übermaß-Risiko | Meist kein gesonderter Beleg |
+| Fehlende Vollmacht | Prozessual | Relevant wenn rügbar | Vollmacht nachlegen | Vollmacht |
 
-## Output
+## Reaktionsoptionen
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+| Situation | Empfehlung |
+|---|---|
+| Schutzschrift lag vor EV-Antrag vor (ZSSR) | Gericht hat sie gesehen; Antrag angepasst einreichen; Schutzschrift-Argumente vorab entkräften |
+| Schutzschrift nach EV erhalten | Widerspruchsverhandlung vorbereiten; Schriftsatz vorbereiten |
+| Schwache Schutzschrift | EV-Antrag aufrechterhalten; keine Überwertung der Gegenseite |
+| Starke Schutzschrift mit echten Schwächen | Strategie überdenken: Abschlussschreiben vs. Widerspruchsverhandlung |
+| Dringlichkeitsargument überzeugend | Kenntnisdatum präzise darlegen; eigene eidesstattliche Versicherung |
+
+## Workflow Reaktion auf Schutzschrift
+
+```
+Schutzschrift auswerten
+       ↓
+Angriffspunkte kategorisieren (prozessual / materiell / Dringlichkeit)
+       ↓
+Für jeden Punkt: Gegenbeweis / Gegenargument formulieren
+       ↓
+Entscheidung: EV-Antrag aufrechterhalten, anpassen oder zurücknehmen?
+       ↓
+Erwidernden Schriftsatz oder Anlage zum EV-Antrag vorbereiten
+       ↓
+ggf. mündliche Verhandlung nach Widerspruch (§ 925 ZPO) vorbereiten
+```
+
+## Checkliste Schutzschriften-Auswertung
+
+| Prüfpunkt | Ergebnis |
+|---|---|
+| Schutzschrift aus ZSSR abgerufen? ([zssr.de](https://www.zssr.de)) | ☐ |
+| Angriffspunkte vollständig erfasst? | ☐ |
+| Dringlichkeitsargument entkräftbar? | ☐ |
+| Materiell-rechtliche Einwände belegbar? | ☐ |
+| Prozessuale Mängel identifiziert und heilbar? | ☐ |
+| Strategie festgelegt (EV aufrechterhalten / anpassen) | ☐ |
+| Erwidernder Schriftsatz in Entwurf | ☐ |
+
+## Kaltstart
+1. Liegt die Schutzschrift im Volltext vor? (Einreichung über ZSSR oder direkt an Gericht?)
+2. Welche konkreten Angriffspunkte enthält sie?
+3. Hat das Gericht die Schutzschrift bereits berücksichtigt (EV erlassen / abgelehnt)?
+4. Besteht Widerspruch (§ 924 ZPO) der Gegenseite?
+5. Output: Gegenargumentations-Matrix, Schriftsatz-Entwurf, Strategiememo?
+
+## Anschluss-Skills
+- `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung` – Dringlichkeitscheck.
+- `faevvollzug-neu-006-abschlussschreiben-kosten-und-frist` – Abschlussschreiben nach EV.
+- `spezial-verfuegung-beweislast-und-darlegungslast` – Beweisführung.
+
+## Quellenregel
+- Rechtsprechung: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bgh.de](https://www.bundesgerichtshof.de).
+- ZSSR: [zssr.de](https://www.zssr.de).
+- Normen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Was dieser Skill nicht macht
+- Keine inhaltliche Bewertung ohne vollständige Schutzschrift.
+- Kein Ersatz für vollständige Mandantenberatung.

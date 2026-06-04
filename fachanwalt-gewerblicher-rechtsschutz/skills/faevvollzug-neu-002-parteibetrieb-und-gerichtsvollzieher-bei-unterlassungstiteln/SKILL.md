@@ -1,45 +1,121 @@
 ---
-name: faevvollzug-neu-002-parteibetrieb-und-gerichtsvollzieher-bei-unt
-description: "Fachanwalt Gewerblicher Rechtsschutz: Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: faevvollzug-neu-002-parteibetrieb-und-gerichtsvollzieher-bei
+description: "Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln: Beauftragung, Zustellungsnachweis, Vollziehung einstweiliger Verfügungen im gewerblichen Rechtsschutz. §§ 192 und 194 und 890 ZPO, Ordnungsmittelantrag nach Zuwiderhandlung."
 ---
 
-# Fachanwalt Gewerblicher Rechtsschutz: Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln
+# Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln
 
 ## Aufgabe
+Dieser Skill steuert den Parteibetrieb bei der Vollziehung einstweiliger Verfügungen und Unterlassungstiteln: GV-Beauftragung, Zustellnachweis, Vollziehungsprotokoll und Vorbereitung des Ordnungsmittelantrags.
 
-Dieser Skill bearbeitet **Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln** im Bereich **Fachanwalt Gewerblicher Rechtsschutz**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+## Rechtsrahmen
 
-## Kaltstart in 6 Fragen
+| Norm | Inhalt |
+|---|---|
+| § 192 ZPO | Parteizustellung: Partei beauftragt Gerichtsvollzieher |
+| § 194 ZPO | GV als Zustellungsorgan; zuständige GV-Stelle |
+| § 195 ZPO | Anwaltliche Zustellung (Empfangsbekenntnis Gegenseite) |
+| § 929 Abs. 2 ZPO | Vollziehungsfrist 1 Monat; Beschlussvollziehung |
+| § 890 ZPO | Ordnungsgeld / Ordnungshaft bei Zuwiderhandlung gegen Unterlassungstitel |
+| § 891 ZPO | Verfahren beim Ordnungsmittelantrag |
+| § 936 ZPO | Verweisung auf Arrestvorschriften für einstweilige Verfügungen |
+| § 750 ZPO | Vollstreckungsvoraussetzungen: vollstreckbare Ausfertigung, Zustellung |
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Ablaufschema Parteibetrieb
 
-## Prüfprogramm
+```
+Beschluss erhalten
+       ↓
+Vollstreckbare Ausfertigung beantragen (§ 724 ZPO)
+       ↓
+GV beim zuständigen Amtsgericht beauftragen
+       ↓
+Zustellungsauftrag mit Titel und Empfängeradresse übergeben
+       ↓
+GV stellt zu, fertigt Zustellungsurkunde (§ 182 ZPO) oder
+Postzustellungsurkunde (§ 180 ZPO)
+       ↓
+Zustellungsurkunde zu den Akten nehmen
+       ↓
+Vollziehungsfrist gewahrt? Dokumentieren.
+```
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+## Zuständiger Gerichtsvollzieher
 
-## Typische Fallen
+- GV am Wohnsitz / Sitz des Schuldners (§ 194 Abs. 1 ZPO).
+- Bei unbekanntem Aufenthaltsort: Ersuchen um Anschriftenermittlung (§ 755 ZPO) möglich.
+- Online-GV-Beauftragung: In vielen Bundesländern über Elektronisches Gerichts- und Verwaltungspostfach (EGVP) oder zentrale GV-Stelle.
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+## Beauftragungsschreiben (Muster)
 
-## Output
+```
+An den Gerichtsvollzieher
+[Amtsgericht / GV-Verteilungsstelle]
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+Beauftragungs-/Zustellungsauftrag
+
+Wir zeigen die Vertretung der [Mandantin] an.
+
+Beigefügt übergeben wir:
+- Vollstreckbare Ausfertigung des Beschlusses des [Gericht] vom [Datum], Az. [Az.]
+- 1 Ausfertigung als Zustellstück für den Schuldner
+
+Wir beauftragen Sie, den Beschluss im Parteibetrieb an
+
+[Name und Adresse des Schuldners]
+
+zuzustellen und uns die Zustellungsurkunde zu übersenden.
+
+Die Vollziehungsfrist läuft bis [Datum]. Bitte vorrangige Bearbeitung.
+
+[Unterschrift, Kanzlei]
+```
+
+## Ordnungsmittelantrag nach Zuwiderhandlung
+
+**Voraussetzungen § 890 ZPO:**
+1. Vollstreckbarer Unterlassungstitel (eV oder Urteil).
+2. Zustellung an Schuldner erfolgt und Ordnungsmittelhinweis im Titel enthalten.
+3. Konkrete Zuwiderhandlung nach Titelerlass.
+4. Verschulden des Schuldners (widerlegbare Vermutung bei feststehendem Verstoß).
+
+**Antragsmuster-Struktur:**
+- Bezeichnung des Titels (Gericht, Datum, Az.).
+- Schilderung der Zuwiderhandlung (Datum, Ort, Handlung, Beweise).
+- Antrag auf Ordnungsgeld (Vorschlag: Betrag, im Regelfall bis 250.000 €, § 890 Abs. 1 ZPO) oder Ordnungshaft.
+- Glaubhaftmachung: Screenshots, Testkauf, eidesstattliche Versicherung.
+
+## Checkliste vor GV-Beauftragung
+
+| Schritt | Erledigt? |
+|---|---|
+| Vollstreckbare Ausfertigung des Beschlusses liegt vor (§ 724 ZPO) | ☐ |
+| Beschluss enthält Ordnungsmittelhinweis (§ 890 Abs. 2 ZPO) | ☐ |
+| Adresse des Schuldners aktuell und korrekt | ☐ |
+| Vollziehungsfrist (1 Monat § 929 Abs. 2 ZPO) noch nicht abgelaufen | ☐ |
+| Beauftragungsschreiben an GV-Stelle vorbereitet | ☐ |
+| Kosten für GV-Gebühren (GvKostG) vorgeschossen / bereitgestellt | ☐ |
+| Zustellungsurkunde-Eingang überwachen (Fristnotiz) | ☐ |
+
+## Kaltstart
+1. Welcher Titel liegt vor (Beschluss/Urteil, Gericht, Az.)?
+2. Wurde bereits vollstreckbare Ausfertigung beantragt?
+3. Ist die Vollziehungsfrist noch offen?
+4. Liegt eine Zuwiderhandlung vor (Ordnungsmittelantrag nötig)?
+5. Welcher Output: GV-Beauftragungsschreiben, Ordnungsmittelantrag, Memo?
+
+## Anschluss-Skills
+- `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung` – Dringlichkeitscheck.
+- `faevvollzug-neu-004-vollstreckung-aus-unterlassungsverfuegung-ordnungsmittel` – Ordnungsmittelverfahren.
+- `faevvollzug-neu-003-bea-und-elektronischer-rechtsverkehr-bei-ev-zustellung` – BeA-Zustellungsweg.
+
+## Quellenregel
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und Link zu [dejure.org](https://dejure.org) oder [openjur.de](https://openjur.de).
+- Normen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Was dieser Skill nicht macht
+- Kein Ersatz für eine vollständige Mandantenberatung.
+- Keine Berechnung von GV-Gebühren ohne konkrete Kenntnis der Gebührenordnung (GvKostG – live prüfen).
+- Keine Festlegung ohne ausdrückliche Mandantenentscheidung.

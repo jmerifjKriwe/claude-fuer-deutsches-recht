@@ -1,48 +1,130 @@
 ---
 name: spezial-designg-behoerden-gericht-und-registerweg
-description: "Designg: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "DesignG: Behörden, Gerichte und Registerwege. DPMA-Anmeldung, EUIPO-GGM, Nichtigkeitsverfahren, Registerrecherche, Zuständigkeitsverteilung zwischen DPMA und Designgerichten, Musterschutzklage, Rechtsmittelwege."
 ---
 
-# Designg: Behörden-, Gerichts- oder Registerweg
+# DesignG: Behörden, Gerichte und Registerweg
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-gewerblicher-rechtsschutz`. Ausgangspunkt ist: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfuegung Verletzungsklage Lizenzanaloger Schadensersatz.
+Dieser Skill behandelt die behördlichen und gerichtlichen Wege im Designrecht: Anmeldung, Register, Nichtigkeitsverfahren, Gerichtszuständigkeiten und Rechtsmittelwege.
 
-Er führt durch **Behörden-, Gerichts- oder Registerweg** im Themenfeld **Designg**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Rechtsrahmen
 
+| Norm | Inhalt |
+|---|---|
+| §§ 11–23 DesignG | Anmeldung und Eintragungsverfahren beim DPMA |
+| § 33 DesignG | Nichtigkeitsgründe und Nichtigkeitsverfahren |
+| § 34a DesignG | Beschränkungsverfahren |
+| § 52 DesignG | Gerichtliche Zuständigkeit: Designsachen |
+| § 53 DesignG | Zuständige Gerichte (LG mit designrechtlicher Kammer) |
+| Art. 52 GGV | Nichtigkeitsverfahren beim EUIPO |
+| Art. 85 GGV | Gemeinschaftsgeschmacksmuster-Gerichte |
 
-## Fachlicher Zuschnitt
+## Anmeldung beim DPMA
 
-- **Thema:** Designg.
-- **Arbeitsfokus:** Behörden-, Gerichts- oder Registerweg.
-- **Plugin-Rahmen:** Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahn....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### Verfahrensablauf nationales Design
+
+```
+Entwurf / Abbildung erstellen (§ 11 DesignG: Wiedergabe)
+       ↓
+Antrag beim DPMA einreichen (online: dpma.de/service/e-dienste)
+  - Angaben: Anmelder, Entwerfer, Erzeugnisklasse (Locarno), Abbildungen
+       ↓
+DPMA prüft Formalia (kein Sachprüfungsverfahren)
+       ↓
+Eintragung und Bekanntmachung im Designblatt
+       ↓
+Schutzfrist: 5 Jahre ab Anmeldetag; verlängerbar bis 25 Jahre
+```
+
+### Sammelanmeldung
+- Bis zu 100 Designs in einer Anmeldung möglich (§ 12 DesignG).
+- Kostenvorteil: Gebühr je Design reduziert; sinnvoll für Modekollektionen.
+
+### Aufschiebende Bekanntmachung
+- § 21 DesignG: Bekanntmachung kann bis zu 30 Monate aufgeschoben werden.
+- Zweck: Schutz vor Nachahmung bei noch nicht auf den Markt gebrachten Erzeugnissen.
+
+## Anmeldung beim EUIPO (Gemeinschaftsgeschmacksmuster)
+
+### Eingetragenes GGM (Art. 36 ff. GGV)
+- Online-Einreichung: [euipo.europa.eu/ohimportal/en/apply-for-a-design](https://euipo.europa.eu/ohimportal/en/apply-for-a-design)
+- Schutz: gesamte EU; 5 Jahre ab Anmeldetag, verlängerbar bis 25 Jahre.
+- Sachprüfung: keine (nur Formalia); Nichtigkeitsrisiko bleibt.
+
+### Nicht eingetragenes GGM (Art. 11 GGV)
+- Entsteht automatisch mit Offenbarung im EWR.
+- Schutzfrist: 3 Jahre ab Offenbarung; nicht verlängerbar.
+- Schutzumfang: nur gegen Nachahmung (keine Doppelschöpfung ausgeschlossen).
+
+## Gerichtliche Zuständigkeit
+
+### Nationale Designsachen
+
+| Gericht | Zuständigkeit |
+|---|---|
+| LG mit Designkammer | Erstinstanzliche Verletzungssachen (§ 52 DesignG) |
+| LG Hamburg | Traditionell führende Designkammer |
+| LG Düsseldorf, München I, Köln | Weitere spezialisierte Kammern |
+| OLG | Berufungsinstanz |
+| BGH (I. ZS) | Revision in Designsachen |
+
+### GGM-Gerichte (Art. 80 GGV)
+
+Deutschland hat folgende GGM-Gerichte designiert:
+- LG Düsseldorf (Hauptzuständigkeit für GGM-Verletzungen).
+- LG Hamburg, LG München I als weitere GGM-Gerichte.
+
+**Wichtig:** Entscheidung eines deutschen GGM-Gerichts wirkt EU-weit (Art. 83 Abs. 1 GGV).
+
+## Nichtigkeitsverfahren
+
+### DPMA-Nichtigkeitsverfahren (§ 33 DesignG)
+
+| Aspekt | Inhalt |
+|---|---|
+| Antragsteller | Jedermann |
+| Nichtigkeitsgründe | § 33 Abs. 1 DesignG: keine Schutzvoraussetzungen, Schutzausschluss, älteres Recht |
+| Kosten | 300 € Antragsgebühr (DPMA) |
+| Verfahren | Schriftlich; DPMA entscheidet; Beschwerde → BPatG |
+| Wirkung | Ex-tunc-Nichtigkeit; rückwirkend von Anfang an |
+
+### EUIPO-Nichtigkeitsverfahren (Art. 52 GGV)
+- Antrag beim EUIPO (Nichtigkeitsabteilung).
+- Beschwerde: EUIPO-Beschwerdekammer → EuGH.
+
+### Nichtigkeitseinrede im Verletzungsverfahren
+- § 33 Abs. 3 DesignG: Nichtigkeitseinrede im Verletzungsprozess möglich.
+- GGV Art. 85 Abs. 2: GGM-Gericht setzt Verfahren aus und verweist an Nichtigkeitsbehörde, wenn begründet.
+
+## Registerrecherche
+
+| Register | Link | Inhalt |
+|---|---|---|
+| DPMA Designregister | [dpma.de/designs/designrecherche](https://www.dpma.de/designs/designrecherche/) | Nationale Designs DE |
+| EUIPO GGM-Register | [euipo.europa.eu/eSearch](https://euipo.europa.eu/eSearch/) | Eingetragene GGM EU |
+| Hague Monitor (WIPO) | [ipportal.wipo.int](https://ipportal.wipo.int) | Internationale Designs |
+| Locarno-Klassifikation | [wipo.int/classifications/locarno](https://www.wipo.int/classifications/locarno/en/) | Erzeugnisklassen |
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+1. Welches Design ist betroffen (DPMA / EUIPO / nicht eingetragenes GGM)?
+2. Geht es um Anmeldung, Verletzungsabwehr, Nichtigkeitsantrag oder Registerrecherche?
+3. In welchem Land findet die Verletzung statt (Zuständigkeit)?
+4. Gibt es Fristen (Klage, Nichtigkeitsantrag)?
+5. Output: Anmeldeweg-Übersicht, Gerichtszuständigkeits-Memo, Nichtigkeitsantrag-Gerüst?
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Designg** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+## Anschluss-Skills
+- `designrecht-praxis-grundlagen` – Schutzvoraussetzungen und Verletzungsprüfung.
+- `spezial-designverletzung-red-team-und-qualitaetskontrolle` – Red-Team bei Designverletzung.
+- `spezial-euipo-internationaler-bezug-und-schnittstellen` – EUIPO-Verfahren international.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- DesignG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/designg/); GGV: [eur-lex.europa.eu](https://eur-lex.europa.eu).
+- DPMA: [dpma.de](https://www.dpma.de); EUIPO: [euipo.europa.eu](https://euipo.europa.eu).
+- Rechtsprechung: [dejure.org](https://dejure.org), [bgh.de](https://www.bundesgerichtshof.de), [curia.europa.eu](https://curia.europa.eu).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Was dieser Skill nicht macht
+- Keine vollständige Designprüfung ohne Kenntnis der Abbildungen.
+- Kein Ersatz für vollständige Mandantenberatung.

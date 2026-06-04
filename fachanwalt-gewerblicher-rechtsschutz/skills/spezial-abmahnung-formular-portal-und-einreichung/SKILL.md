@@ -1,48 +1,106 @@
 ---
 name: spezial-abmahnung-formular-portal-und-einreichung
-description: "Abmahnung: Formular, Portal und Einreichungslogik im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Abmahnung: Formularanforderungen, Einreichungsportale und Übermittlungswege im gewerblichen Rechtsschutz. § 13 UWG Formerfordernisse, DPMA-Online-Dienste, EUIPO-Portal, beA-Einreichung, Vollmachtsnachweis, Fehlerquellen und Heilung."
 ---
 
 # Abmahnung: Formular, Portal und Einreichungslogik
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-gewerblicher-rechtsschutz`. Ausgangspunkt ist: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfuegung Verletzungsklage Lizenzanaloger Schadensersatz.
+Dieser Skill behandelt die formalen Anforderungen an Abmahnungen im gewerblichen Rechtsschutz: gesetzliche Formerfordernisse, Übermittlungswege, Portalzugang und häufige Fehlerquellen.
 
-Er führt durch **Formular, Portal und Einreichungslogik** im Themenfeld **Abmahnung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Formale Anforderungen Abmahnung
 
+### UWG-Abmahnung (§ 13 Abs. 2 UWG)
 
-## Fachlicher Zuschnitt
+Seit der UWG-Reform 2020 muss die Abmahnung folgende Pflichtangaben enthalten:
 
-- **Thema:** Abmahnung.
-- **Arbeitsfokus:** Formular, Portal und Einreichungslogik.
-- **Plugin-Rahmen:** Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahn....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+| Pflichtangabe | § 13 Abs. 2 UWG | Inhalt |
+|---|---|---|
+| Name / Firma Abmahnender | Nr. 1 | Vollständige Angabe; bei Verband: Vereinsname |
+| Anschrift Abmahnender | Nr. 1 | Zustellfähige Anschrift |
+| Beanstandetes Verhalten | Nr. 2 | Konkrete Verletzungsform, nicht pauschal |
+| Begründung der Verletzung | Nr. 2 | Normtext, Tatbestand, Subsumtion |
+| Klare Unterlassungsforderung | Nr. 3 | Was soll konkret unterlassen werden? |
+| Strafbewehrte Unterlassungserklärung | Nr. 4 | Muster beigefügt |
+| Hinweis auf Kostenersatz | Nr. 5 | Betrag oder Berechnungsgrundlage |
+
+**Rechtsfolge mangelhafter Abmahnung:** Keine Kostentragungspflicht; ggf. sofortiges Anerkenntnis § 93 ZPO.
+
+### Marken-/Patent-/Designrecht
+Keine spezifischen gesetzlichen Formerfordernisse wie § 13 UWG; aber Vollmachtsnachweis (§ 174 BGB) und klare Anspruchsdarlegung sind Best Practice.
+
+## Übermittlungswege im Vergleich
+
+| Weg | Nachweis | Empfehlung |
+|---|---|---|
+| Einschreiben mit Rückschein | Rückschein = Zustellnachweis | Standard; sicher |
+| Bote / Kurier | Boten-Protokoll | Schnell; kein Postweg |
+| Fax mit Sendebericht | Sendebericht sichern | Schnell; Empfang streitig |
+| E-Mail (anwaltlich) | Lesebestätigung oder EB | Nur wenn Gegenseite E-Mail akzeptiert |
+| beA → beA (Anwalt-zu-Anwalt) | beA-Sendeprotokoll + EB | Sicher und nachweisbar |
+| Persönliche Übergabe | Empfangsbekenntnis | Sichert genaues Datum |
+
+**Praxis-Hinweis:** Abmahnung immer per Einschreiben / beA senden **und** parallel per E-Mail (als Vorabkopie) – damit Reaktionsfrist sofort läuft, falls E-Mail akzeptiert wird.
+
+## Einreichungsportale für verwandte Verfahren
+
+### DPMA Online-Dienste
+- Markenanmeldung, Widerspruch, Löschungsantrag: [dpma.de/service/e-dienste](https://www.dpma.de/service/e-dienste/index.html)
+- DPMA.online: vollständige Verfahrensabwicklung.
+- Authentifizierung: ELSTER-Zertifikat oder eID.
+
+### EUIPO-Portal
+- Unionsmarken, GGM-Anmeldungen, Widerspruchsverfahren: [euipo.europa.eu/ohimportal](https://euipo.europa.eu/ohimportal/en/apply-now)
+- Interlocutory Revision und Beschwerdekammer: gesonderte Portale.
+
+### UPC (Einheitspatent)
+- Klageinreichung beim UPC: [cms.unified-patent-court.org](https://cms.unified-patent-court.org)
+- Nur für UPC-registrierte Anwälte (eigene Zulassung nötig).
+
+### Zentrales Schutzschriftenregister (ZSSR)
+- Einreichung Schutzschrift: [zssr.de](https://www.zssr.de)
+- Abruf durch Gerichte bundesweit.
+
+## Vollmachtsnachweis
+
+| Konstellation | Anforderung |
+|---|---|
+| Abmahnung durch Anwalt | Schriftliche Originalvollmacht oder beglaubigte Kopie auf Verlangen (§ 174 BGB); Rüge sofort bei Übersendung der Abmahnung |
+| Abmahnung durch Unternehmen selbst | Keine Vollmacht nötig; ggf. Handelsregistervollmacht belegen |
+| Widerspruch DPMA | Vollmachtsformular DPMA |
+| UPC-Klage | UPC-Prozessvertreter-Zulassung (Art. 48 EPGÜ) |
+
+**§ 174 BGB-Rüge:** Unverzüglich nach Empfang der Abmahnung erheben, wenn keine Vollmacht beigefügt; ansonsten ist die Rüge verspätet.
+
+## Häufige Fehlerquellen und Heilung
+
+| Fehler | Folge | Heilung |
+|---|---|---|
+| Fehlende § 13 Abs. 2-Angaben (UWG) | Unwirksame Abmahnung; kein Kostenersatz | Neue formgültige Abmahnung aussprechen |
+| Pauschal formuliertes Unterlassungsbegehren | Nicht vollstreckbar; Wiederholungsgefahr ggf. nicht beseitigt | Präzisierung in neuer Abmahnung |
+| Falsche Adresse Abgemahnter | Zustellungsmangel | Korrekte Adresse ermitteln; erneute Zustellung |
+| Vollmacht nicht beigefügt | § 174 BGB-Rüge möglich | Vollmacht unverzüglich nachreichen |
+| Veraltete Schutzrechts-Registerdaten | Anspruch ggf. nicht belegt | Registerauszug aktuell beifügen |
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+1. Geht es um eine ausgehende oder eingehende Abmahnung?
+2. Welches Schutzrecht oder welcher UWG-Tatbestand ist betroffen?
+3. Welcher Übermittlungsweg soll genutzt werden?
+4. Liegen Vollmacht und Registerauszug vor?
+5. Output: Abmahnungs-Entwurf, Fehleranalyse eingehende Abmahnung, Checkliste?
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Abmahnung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+## Anschluss-Skills
+- `gr-abmahnung-workflow` – Gesamter Abmahnung-Workflow.
+- `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung` – EV nach Abmahnung.
+- `spezial-rechtsschutz-fristen-form-und-zustaendigkeit` – Fristen und Formalien.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- UWG, ZPO: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- DPMA: [dpma.de](https://www.dpma.de); EUIPO: [euipo.europa.eu](https://euipo.europa.eu); ZSSR: [zssr.de](https://www.zssr.de).
+- Rechtsprechung: [dejure.org](https://dejure.org), [bgh.de](https://www.bundesgerichtshof.de).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Was dieser Skill nicht macht
+- Keine verbindliche Fristenberechnung ohne vollständige Sachverhaltskenntnis.
+- Kein Ersatz für vollständige Mandantenberatung.

@@ -1,49 +1,108 @@
 ---
 name: workflow-fristen-und-risikoampel
-description: "Fristen- und Risikoampel im Plugin fachanwalt-gewerblicher-rechtsschutz: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen."
+description: "Fristen und Risikoampel im gewerblichen Rechtsschutz: systematischer Fristencheck, Risikoampel Grün/Gelb/Rot für alle Verfahrensarten (Marke, Patent, Design, UWG, EV, Klage), Fristenkalender und Eskalationshinweise."
 ---
 
-# Fristen- und Risikoampel
+# Fristen und Risikoampel
 
 ## Aufgabe
-Dieser Workflow-Skill für `fachanwalt-gewerblicher-rechtsschutz` Fristen- und Risikoampel im Plugin fachanwalt-gewerblicher-rechtsschutz: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill führt einen systematischen Fristencheck durch und bewertet das Risiko mit einer Ampel: Grün (sicher), Gelb (Handlungsbedarf), Rot (Eskalation sofort).
+
+## Risikoampel-Systematik
+
+| Ampel | Bedeutung | Handlung |
+|---|---|---|
+| 🟢 Grün | Alle Fristen sicher gewahrt; kein unmittelbarer Handlungsbedarf | Laufende Überwachung |
+| 🟡 Gelb | Frist läuft in < 2 Wochen; Handlung vorzubereiten | Unverzüglich vorbereiten |
+| 🔴 Rot | Frist läuft heute oder morgen, oder bereits abgelaufen | Sofortiger Handlungsbedarf / Schadensminimierung |
+
+## Fristenkatalog – Gewerblicher Rechtsschutz
+
+### EV-Vollziehungsfristen
+
+| Frist | Norm | Laufzeit | Ampel prüfen |
+|---|---|---|---|
+| Vollziehungsfrist EV | § 929 Abs. 2 ZPO | 1 Monat ab Beschluss-Zustellung | → Wann Zustellung? |
+| Dringlichkeit UWG | § 12 Abs. 1 UWG | ~4 Wochen nach Kenntnis | → Kenntnis seit wann? |
+| Widerspruch EV | § 924 ZPO | Im Titel angegeben | → Titel vorhanden? |
+
+### Marken-Verfahrensfristen
+
+| Frist | Norm | Laufzeit | Auslöser |
+|---|---|---|---|
+| Widerspruch DPMA | § 42 Abs. 1 MarkenG | 3 Monate | Bekanntmachung Markenblatt |
+| Beschwerde BPatG | § 66 Abs. 2 MarkenG | 1 Monat | Zustellung DPMA-Bescheid |
+| Benutzungspflicht | § 26 MarkenG | 5 Jahre | Eintragungsdatum |
+| Verlängerung Marke | MarkenG | Vor Ablauf 10 Jahre | Anmeldetag |
+
+### Patent-Verfahrensfristen
+
+| Frist | Norm | Laufzeit | Auslöser |
+|---|---|---|---|
+| Einspruch EPA | Art. 99 EPÜ | 9 Monate | Erteilungstag |
+| Jahresgebühr Patent | § 17 PatG | Jährlich ab 3. Jahr | Anmeldetag |
+| Nachzahlungsfrist Jahresgebühr | § 17 Abs. 4 PatG | + 2 Monate | Fälligkeit |
+| Nichtigkeitsklage BPatG | § 81 PatG | Keine absolute Frist; Verjährung beachten | – |
+
+### Design-Fristen
+
+| Frist | Norm | Laufzeit | Auslöser |
+|---|---|---|---|
+| Verlängerung Design | § 27 DesignG | Vor Ablauf 5-Jahres-Periode | Anmeldetag |
+| Nichtigkeitsantrag DPMA | § 33 DesignG | Keine absolute Frist | – |
+| Schutzfrist nicht eingetragenes GGM | Art. 11 GGV | 3 Jahre ab Offenbarung | Offenbarungsdatum |
+
+### Zivilprozess-Fristen
+
+| Frist | Norm | Laufzeit | Auslöser |
+|---|---|---|---|
+| Berufung | § 517 ZPO | 1 Monat | Zustellung Urteil |
+| Berufungsbegründung | § 520 Abs. 2 ZPO | 2 Monate | Zustellung Urteil |
+| Revision | § 548 ZPO | 1 Monat | Zustellung Urteil |
+| Verjährung Unterlassung UWG | § 11 Abs. 1 UWG | 6 Monate | Kenntnis |
+| Verjährung Schadensersatz | §§ 195, 199 BGB | 3 Jahre | Ende des Jahres der Kenntnis |
+
+## Fristenkontroll-Tabelle (Ausfüllmuster)
+
+| Verfahren / Frist | Fristauslöser (Datum) | Fristende | Erledigt? | Ampel |
+|---|---|---|---|---|
+| Widerspruch DPMA (Marke X) | [Bekanntmachung] | +3 Monate | ☐ | |
+| EV-Vollziehung | [Beschluss-Zustellung] | +1 Monat | ☐ | |
+| EPA-Einspruch Patent Y | [Erteilungsdatum] | +9 Monate | ☐ | |
+| Verlängerung Marke Z | [Anmeldetag] | [Ablauf] | ☐ | |
+| Berufungsfrist | [Urteil-Zustellung] | +1 Monat | ☐ | |
+
+## Eskalationshinweise bei Rot
+
+**Wenn eine Frist bereits abgelaufen ist:**
+1. Sofortige Schadensminimierung (Wiedereinsetzung § 91a ZPO / § 123 MarkenG?).
+2. Mandant informieren; Haftungsrisiko dokumentieren.
+3. Rechtsmittel gegen Fristversäumnis prüfen (Wiedereinsetzung in den vorigen Stand).
+4. Anwaltliche Haftpflichtversicherung informieren (§ 51 BRAO).
+
+**Wenn Dringlichkeit (EV) selbst widerlegt:**
+1. Prüfen, ob Untätigkeit begründbar (komplexer Sachverhalt, laufende Verhandlungen).
+2. Abmahnstrategie ohne EV; Hauptsacheklage.
+3. Schadensbegrenzung dokumentieren.
 
 ## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+1. Welches Verfahren / welche Fristen sind zu prüfen?
+2. Liegen Auslöse-Daten vor (Bekanntmachungsdatum, Zustellungsdatum, Kenntnisdatum)?
+3. Gibt es bereits einen Kalender oder soll einer erstellt werden?
+4. Welche Fristen laufen als nächstes ab (Top 3)?
+5. Output: Fristenkontroll-Tabelle ausgefüllt, Risikoampel je Frist, Eskalationshinweise?
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
-
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Schlüsselfristen Gewerblicher Rechtsschutz
-- Marke: Widerspruchsfrist drei Monate ab Veröffentlichung der Eintragung (§ 42 MarkenG); Verfalls-/Löschungsantrag jederzeit.
-- Patent: Einspruchsfrist neun Monate ab Erteilung (§ 59 PatG); Nichtigkeitsklage danach.
-- Gebrauchsmuster: Löschungsantrag jederzeit (§ 15 GebrMG); kein Vor-Prüfungsverfahren.
-- Design: Anfechtbarkeitsklage drei Jahre ab Eintragung (§§ 33 ff. DesignG).
-- Unionsmarke (EUIPO): Widerspruch drei Monate; Anmeldung nach EUTMR (VO 2017/1001).
-- UPC/Einheitspatent: Klagefristen nach UPC-Regelwerk; opt-out-Frist beachten.
-- Verjährung UWG: sechs Monate kenntnisabhängig (§ 11 UWG) — sehr kurz, dringend!
-- Verjährung MarkenG/PatG: drei Jahre (§ 20 MarkenG, § 141 PatG iVm §§ 195, 199 BGB).
-
-## Trade-off
-- Schutzschrift (vorsorgliche Verteidigung gegen EV) vs. abwartendes Verhalten: Schutzschrift bindet Ressourcen, verhindert aber überraschende EV ohne mündliche Verhandlung.
-- Abmahnung mit URVE vs. unmittelbarer EV-Antrag: bei Wettbewerbsrecht (UWG) Abmahnerfordernis nach § 13 UWG; ohne Abmahnung Kostenrisiko § 13 Abs. 3 UWG.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+## Anschluss-Skills
+- `spezial-rechtsschutz-fristen-form-und-zustaendigkeit` – Normen zu Fristen.
+- `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung` – EV-Fristen.
+- `gr-portfolio-pflege-workflow` – Portfolio-Fristen.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
+- ZPO, MarkenG, PatG, DesignG, EPÜ: [gesetze-im-internet.de](https://www.gesetze-im-internet.de), [epo.org](https://www.epo.org).
+- DPMA: [dpma.de](https://www.dpma.de); BPatG: [bundespatentgericht.de](https://www.bundespatentgericht.de).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Was dieser Skill nicht macht
+- Keine automatische Fristberechnung ohne vollständige Eingangsdaten.
+- Kein Ersatz für vollständige Mandantenberatung und laufende Fristenüberwachung.

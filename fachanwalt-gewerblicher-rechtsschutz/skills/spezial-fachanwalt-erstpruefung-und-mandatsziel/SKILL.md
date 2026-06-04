@@ -1,48 +1,127 @@
 ---
 name: spezial-fachanwalt-erstpruefung-und-mandatsziel
-description: "Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Erstprüfung und Mandatsziel im gewerblichen Rechtsschutz: Erstgespräch-Systematik, Schutzrechts-Screening, Interessenabwägung, Mandatszieldefinition, Interessenkonfliktprüfung, Kostenaufklärung und strategische Weichenstellung."
 ---
 
-# Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
+# Erstprüfung und Mandatsziel
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-gewerblicher-rechtsschutz`. Ausgangspunkt ist: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfuegung Verletzungsklage Lizenzanaloger Schadensersatz.
+Dieser Skill strukturiert die anwaltliche Erstprüfung im gewerblichen Rechtsschutz: Screening der Schutzrechte, Definition des Mandatsziels, Kostenaufklärung und erste strategische Weichenstellung.
 
-Er führt durch **Erstprüfung, Rollenklärung und Mandatsziel** im Themenfeld **Fachanwalt**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Erstprüfungs-Schema
 
+### Schritt 1 – Interessenkonflikt prüfen (§ 43a BRAO)
+- Vertritt die Kanzlei die Gegenseite oder eine verbundene Partei in der gleichen Sache?
+- Frühere Mandate mit Berührungspunkten?
+- **Bei Konflikt:** Ablehnung des Mandats oder Trennlösung; keine Beratung beider Seiten.
 
-## Fachlicher Zuschnitt
+### Schritt 2 – Sachverhaltsaufnahme
 
-- **Thema:** Fachanwalt.
-- **Arbeitsfokus:** Erstprüfung, Rollenklärung und Mandatsziel.
-- **Plugin-Rahmen:** Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahn....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+| Bereich | Fragen |
+|---|---|
+| Person / Unternehmen | Wer ist der Mandant; Unternehmensstruktur; Branche |
+| Schutzrechte | Welche Marken, Patente, Designs, Urheberrechte bestehen; eingetragen? |
+| Verletzungshandlung | Was genau passiert; wann; wer; wo; wie dokumentiert? |
+| Gegenseite | Wer ist Verletzer / Angreifer; bekannte Schutzrechte der Gegenseite? |
+| Wirtschaftliche Lage | Umsatz im betroffenen Bereich; Schadensausmaß; Budgetrahmen |
+
+### Schritt 3 – Mandatsziel klären
+
+| Mandatsziel | Typischer Weg |
+|---|---|
+| Schnelle Unterlassung | EV-Antrag (§ 935 ZPO) |
+| Schadensersatz beziffern | Auskunftsklage → Stufenklage § 254 ZPO |
+| Langfristige Unterlassung | Hauptsacheklage + UE |
+| Schutzrecht angreifen (Nichtigkeit) | Widerspruch / Löschungsverfahren / Nichtigkeitsklage |
+| Vergleich / Koexistenz | Verhandlung + Abgrenzungsvereinbarung |
+| Lizenz regulieren | Lizenzvertragsverhandlung / Lizenzverletzungsklage |
+
+### Schritt 4 – Schutzrechts-Screening
+
+**Eigene Schutzrechte:**
+- Markenregister: [dpma.de/marken](https://www.dpma.de/marken/markenrecherche/); [euipo.europa.eu/eSearch](https://euipo.europa.eu/eSearch/)
+- Patentregister: [dpma.de/patente](https://www.dpma.de/patente/patentsuche/); [epo.org/espacenet](https://worldwide.espacenet.com/)
+- Designregister: [dpma.de/designs](https://www.dpma.de/designs/designrecherche/)
+- Gebrauchsmusterregister: DPMA
+
+**Gegnerische Schutzrechte:**
+- Gleiche Recherchequellen auf Gegenseite anwenden.
+- Prioritätsrang der Schutzrechte vergleichen.
+
+### Schritt 5 – Risikoampel
+
+| Ampel | Kriterien |
+|---|---|
+| Grün | Schutzrecht eindeutig; Verletzung klar; Dringlichkeit gewahrt; keine Gegenrechte erkennbar |
+| Gelb | Schutzrecht fraglich; Verletzung nicht eindeutig; Gegenrechte möglich; Dringlichkeit knapp |
+| Rot | Schutzrecht unsicher; Nichtigkeitsrisiko hoch; Gegenseite hat ältere Rechte; § 945 ZPO-Risiko |
+
+### Schritt 6 – Kostenaufklärung (§ 49b BRAO)
+
+- Geschätzter Streitwert (Begründung).
+- Anwaltsgebühren: Geschäftsgebühr + ggf. Verfahrensgebühr.
+- Gerichtsgebühren (GKG) bei gerichtlichem Vorgehen.
+- Kostenrisiko bei Unterliegen.
+- Vergütungsvereinbarung (wenn abweichend von RVG) schriftlich.
+
+## Mandantenbrief Erstprüfungsergebnis (Gerüst)
+
+```
+Sehr geehrte/r [Mandant],
+
+nach unserem Erstgespräch vom [Datum] fassen wir zusammen:
+
+1. Ihr Schutzrecht
+[Bezeichnung, Registernummer, Schutzbereich]
+
+2. Die festgestellte Verletzung
+[Beschreibung, Datum, Beweise]
+
+3. Unsere Ersteinschätzung (Ampel: Grün / Gelb / Rot)
+[Begründung in 2–3 Sätzen; Risiken]
+
+4. Empfohlener nächster Schritt
+[Option A, Option B mit Kosten je Option]
+
+5. Kosten (Schätzung)
+[Streitwert, Gebühren, Kostenrisiko]
+
+6. Ihre Entscheidung
+Bitte geben Sie uns bis [Datum] Rückmeldung.
+
+[Kanzlei]
+```
+
+## Checkliste Erstgespräch
+
+| Punkt | Erledigt? |
+|---|---|
+| Interessenkonflikt geprüft und verneint | ☐ |
+| Sachverhalt vollständig aufgenommen | ☐ |
+| Mandatsziel definiert und dokumentiert | ☐ |
+| Schutzrechte recherchiert (eigen + gegnerisch) | ☐ |
+| Risikoampel bewertet | ☐ |
+| Kostenaufklärung durchgeführt und protokolliert | ☐ |
+| Nächster Schritt festgelegt und Frist kommuniziert | ☐ |
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+1. Neues Mandat oder laufendes Verfahren mit neuem Fokus?
+2. Liegt eine eingehende Abmahnung, eine EV oder ein Sachverhalt ohne gegnerische Handlung vor?
+3. Was ist das primäre Mandatsziel (Unterlassung / Schadensersatz / Nichtigkeit / Lizenz)?
+4. Welche Unterlagen liegen vor?
+5. Output: Erstprüfungs-Memo, Risikoampel, Mandantenbrief, Checkliste?
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Fachanwalt** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+## Anschluss-Skills
+- `workflow-kaltstart-und-routing` – Routing in passende Spezialskills.
+- `spezial-fao-dokumentenmatrix-und-lueckenliste` – FAO-Dokumentation.
+- `gr-abmahnung-workflow` – Nach Erstprüfung: Abmahnung vorbereiten.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- BRAO, BORA: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Register: [dpma.de](https://www.dpma.de), [euipo.europa.eu](https://euipo.europa.eu), [epo.org](https://www.epo.org).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Was dieser Skill nicht macht
+- Kein Ersatz für vollständiges Erstgespräch mit dem Mandanten.
+- Keine Schutzrechts-Prüfung ohne Registerauszüge.

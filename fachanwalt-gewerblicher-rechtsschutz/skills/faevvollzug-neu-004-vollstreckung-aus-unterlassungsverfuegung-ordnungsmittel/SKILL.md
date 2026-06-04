@@ -1,45 +1,112 @@
 ---
-name: faevvollzug-neu-004-vollstreckung-aus-unterlassungsverfuegung-or
-description: "Fachanwalt Gewerblicher Rechtsschutz: Vollstreckung aus Unterlassungsverfügung Ordnungsmittel mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: faevvollzug-neu-004-vollstreckung-aus-unterlassungsverfuegung
+description: "Vollstreckung aus Unterlassungsverfügung: Ordnungsgeld und Ordnungshaft nach § 890 ZPO, Tatbestandsvoraussetzungen, Antragstellung, Zuwiderhandlungsnachweis, Höhe des Ordnungsmittels, Ordnungsmittelverfahren."
 ---
 
-# Fachanwalt Gewerblicher Rechtsschutz: Vollstreckung aus Unterlassungsverfügung Ordnungsmittel
+# Vollstreckung aus Unterlassungsverfügung: Ordnungsmittel
 
 ## Aufgabe
+Dieser Skill behandelt die Vollstreckung aus Unterlassungstiteln (einstweilige Verfügung oder Urteil) nach § 890 ZPO: Voraussetzungen, Nachweis der Zuwiderhandlung, Antragstellung und Höhe des Ordnungsmittels.
 
-Dieser Skill bearbeitet **Vollstreckung aus Unterlassungsverfügung Ordnungsmittel** im Bereich **Fachanwalt Gewerblicher Rechtsschutz**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+## Rechtsrahmen
 
-## Kaltstart in 6 Fragen
+| Norm | Inhalt |
+|---|---|
+| § 890 Abs. 1 ZPO | Ordnungsgeld bis 250.000 €, Ordnungshaft bis 6 Monate je Zuwiderhandlung |
+| § 890 Abs. 2 ZPO | Androhungserfordernis im Titel (ohne: erst Androhungsbeschluss nötig) |
+| § 891 ZPO | Verfahren: Beschluss auf Antrag; Schuldner ist zu hören |
+| § 892 ZPO | Ordnungsgeld gegen juristische Personen / Personengesellschaften |
+| § 888 ZPO | Erzwingungshaft (unvertretbare Handlungen) – abzugrenzen von § 890 ZPO |
+| § 750 ZPO | Vollstreckungsvoraussetzungen: Ausfertigung + Zustellung |
+| § 929 Abs. 2 ZPO | Vollziehungsfrist (relevant: muss gewahrt sein) |
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Tatbestandsvoraussetzungen § 890 ZPO
 
-## Prüfprogramm
+1. **Vollstreckbarer Titel:** Rechtskräftiges Urteil oder vollzogene eV mit Ordnungsmittelandrohung.
+2. **Androhung im Titel:** § 890 Abs. 2 ZPO – Titel muss Ordnungsmittelandrohung enthalten; fehlt sie, zunächst Androhungsbeschluss beantragen.
+3. **Zustellung an Schuldner:** Titel + Androhungsbeschluss müssen dem Schuldner zugestellt sein (§ 750 ZPO).
+4. **Konkrete Zuwiderhandlung:** nach Titelerlass / nach Zustellung; Begehungsform, Datum, Ort.
+5. **Verschulden des Schuldners:** Widerlegliche Vermutung; Schuldner muss Entlastung darlegen.
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+## Nachweisführung Zuwiderhandlung
 
-## Typische Fallen
+| Beweismittel | Qualität |
+|---|---|
+| Screenshot mit Zeitstempel (URL + Datum) | Mittelhoch; leicht manipulierbar, daher ergänzen |
+| Testkauf mit Quittung | Stark: physischer Beweis der Verletzungshandlung |
+| Eidesstattliche Versicherung des Mandanten | Glaubhaftmachung (§ 294 ZPO); genügt für Beschlussantrag |
+| Abmahnschreiben und Lieferbestätigung | Zeigt Wiederholung nach Kenntnis |
+| Notarprotokoll / Internetseitenausdruck notariell | Sehr stark, aber aufwändig |
+| Privatgutachten | Hilfreich bei technischen Fragen |
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+## Antragsmuster § 890 ZPO
 
-## Output
+```
+An das [Gericht, Spruchkörper]
+Az.: [Az. der EV]
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+Antrag auf Festsetzung eines Ordnungsgeldes gemäß § 890 ZPO
+
+In der Sache [Antragsteller] ./. [Antragsgegner]
+
+beantragen wir, gegen den Antragsgegner wegen Zuwiderhandlung gegen den
+Beschluss vom [Datum], Az. [Az.], ein
+
+Ordnungsgeld in Höhe von [Betrag, z.B. 10.000 €],
+ersatzweise Ordnungshaft von [x Tagen]
+
+festzusetzen.
+
+Begründung:
+
+I. Titel und Zustellung
+[Datum und Form der Zustellung des Titels mit Androhung belegen]
+
+II. Zuwiderhandlung
+Am [Datum] hat der Antragsgegner [Handlung] vorgenommen.
+Beweis: Anlage [Screenshot / Testkaufbeleg / Eidesstattliche Versicherung]
+
+III. Verschulden
+Der Antragsgegner handelte vorsätzlich/fahrlässig, weil [Begründung].
+
+IV. Höhe
+Der beantrage Betrag ist angemessen, weil [wirtschaftlicher Vorteil, Schwere,
+Wiederholungsgefahr].
+
+[Unterschrift / Kanzleistempel]
+```
+
+## Höhe des Ordnungsgeldes – Orientierungspunkte
+
+| Faktor | Richtung |
+|---|---|
+| Wirtschaftlicher Vorteil aus Zuwiderhandlung | Erhöhend |
+| Schwere und Dauer des Verstoßes | Erhöhend |
+| Vorsatz / bewusste Missachtung | Stark erhöhend |
+| Erstmalige Zuwiderhandlung | Eher moderat |
+| Sofortige Unterlassung nach Kenntnis | Mildernd |
+| Geringer Unternehmensumsatz | Mildernd |
+
+Gerichtsübliche Ausgangsbeiträge: 500 – 5.000 € (gering); 5.000 – 25.000 € (mittel); über 25.000 € (schwer/wiederholt).
+
+## Kaltstart
+1. Liegt ein Unterlassungstitel mit Androhung vor (§ 890 Abs. 2 ZPO)? Wenn nein: erst Androhungsbeschluss beantragen.
+2. Wann wurde der Titel mit Androhung zugestellt?
+3. Welche konkrete Zuwiderhandlung ist dokumentiert (Datum, Ort, Beweise)?
+4. Wie hoch soll das Ordnungsgeld beantragt werden?
+5. Output: Ordnungsmittelantrag, Memo, Beweismittelliste?
+
+## Anschluss-Skills
+- `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung` – Titelvoraussetzungen.
+- `faevvollzug-neu-002-parteibetrieb-und-gerichtsvollzieher-bei-unterlassungstiteln` – Zustellnachweis.
+- `spezial-verfuegung-beweislast-und-darlegungslast` – Beweisführung.
+
+## Quellenregel
+- Rechtsprechung: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bgh.de](https://www.bundesgerichtshof.de).
+- Normen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Was dieser Skill nicht macht
+- Keine Garantie für gerichtliche Festsetzungsquoten (stark einzelfallabhängig).
+- Kein Ersatz für vollständige Mandantenberatung.

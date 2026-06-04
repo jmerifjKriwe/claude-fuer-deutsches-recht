@@ -1,48 +1,165 @@
 ---
 name: spezial-patg-schriftsatz-brief-und-memo-bausteine
-description: "Patg: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "PatG: Schriftsatz-, Brief- und Memo-Bausteine für Patentverletzungsklagen, Nichtigkeitsklagen BPatG, UPC-Verfahren, Berechtigungsanfragen, Lizenzverhandlungen und EPA-Einspruch. Normen §§ 9 und 139 ff. PatG, EPÜ, EPGÜ."
 ---
 
-# Patg: Schriftsatz-, Brief- und Memo-Bausteine
+# PatG: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-gewerblicher-rechtsschutz`. Ausgangspunkt ist: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfuegung Verletzungsklage Lizenzanaloger Schadensersatz.
+Dieser Skill liefert Schriftsatz-Gerüste, Briefbausteine und Memo-Strukturen für patenrechtliche Mandate: Verletzungsklage, Nichtigkeitsklage, Berechtigungsanfrage und UPC-Verfahren.
 
-Er führt durch **Schriftsatz-, Brief- und Memo-Bausteine** im Themenfeld **Patg**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Rechtsrahmen
 
+| Norm | Inhalt |
+|---|---|
+| § 9 PatG | Ausschließliches Recht: Herstellung, Anbieten, Inverkehrbringen, Benutzen |
+| § 10 PatG | Mittelbare Patentverletzung |
+| § 11 PatG | Schranken: private Nutzung, Forschungsprivileg, Vorbenutzungsrecht |
+| § 13 PatG | Zwangslizenz (öffentliches Interesse) |
+| § 139 PatG | Verletzungsklage: Unterlassung, Schadensersatz |
+| § 140a PatG | Vernichtungsanspruch |
+| § 140b PatG | Auskunftsanspruch |
+| § 140c PatG | Vorlagenanspruch; Beweissicherungsklage |
+| § 81 PatG | Nichtigkeitsklage / Beschränkungsverfahren vor BPatG |
+| EPÜ Art. 99–105 | Einspruch gegen EP-Patent beim EPA |
+| EPGÜ (UPC Agreement) | Unified Patent Court; Einheitspatent |
+| ArbnErfG | Arbeitnehmererfindungen: Meldung, Vergütung, Inanspruchnahme |
 
-## Fachlicher Zuschnitt
+## Schriftsatz-Gerüst: Patentverletzungsklage
 
-- **Thema:** Patg.
-- **Arbeitsfokus:** Schriftsatz-, Brief- und Memo-Bausteine.
-- **Plugin-Rahmen:** Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahn....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+```
+An das Landgericht [Ort], Patentkammer
+
+Klage
+
+der [Klägerin GmbH], vertreten durch ...
+– Klägerin –
+
+gegen
+
+[Beklagte GmbH], vertreten durch ...
+– Beklagte –
+
+wegen: Verletzung des deutschen Patents Nr. [Pat-Nr.], Az. [Az.]
+
+KLAGEANTRÄGE
+
+I. Die Beklagte wird verurteilt, es zu unterlassen, im Geltungsbereich
+des DE-Patents Nr. [XX] [verletzte Handlung] zu [tun],
+bei Meidung eines für jeden Fall der Zuwiderhandlung festzusetzenden
+Ordnungsgeldes bis zu 250.000 €, ersatzweise Ordnungshaft.
+
+II. Die Beklagte wird verurteilt, der Klägerin Auskunft zu erteilen über
+Menge, Umsatz und Abnehmer der verletzenden Produkte.
+
+III. Die Beklagte wird verurteilt, Schadensersatz zu zahlen; Höhe nach
+Auskunft zu beziffern.
+
+IV. Die Beklagte trägt die Kosten des Rechtsstreits.
+
+SACHVERHALT
+
+A. Schutzrecht der Klägerin
+[Patentnummer, Anmeldedatum, Anspruch 1 und relevante Unteransprüche]
+
+B. Verletzungshandlung
+[Beschreibung: Produkt, Handlung, Datum, Marktort; Anlage: Testkauf / Produktdatenblatt]
+
+C. Verletzungsanalyse
+[Anspruchsmerkmale des Patentanspruchs; Subsumtion auf das angegriffene Produkt]
+
+RECHTLICHE WÜRDIGUNG
+§ 9 PatG: Herstellung / Anbieten / Inverkehrbringen des geschützten Gegenstands.
+
+BEWEISANGEBOTE
+[Zeuge, SV-Gutachten, Urkunden, Augenschein]
+```
+
+## Brief-Baustein: Berechtigungsanfrage
+
+```
+An [Adressat]
+
+Berechtigungsanfrage betreffend Patent Nr. [XX]
+
+Sehr geehrte Damen und Herren,
+
+wir zeigen die Vertretung der [Mandantin] an.
+
+Unsere Mandantin ist Inhaberin des deutschen Patents Nr. [XX] mit folgenden
+Schutzansprüchen: [Kurzfassung Anspruch 1].
+
+Wir haben festgestellt, dass Sie mit dem Produkt [Beschreibung] möglicherweise
+von diesem Schutzrecht Gebrauch machen.
+
+Wir bitten Sie, bis zum [Frist] mitzuteilen:
+1. Auf welcher Rechtsgrundlage Sie die betreffende Handlung vornehmen.
+2. Ob Sie bereit sind, eine Lizenzvereinbarung abzuschließen.
+
+Sofern Sie keine Berechtigung nachweisen können, werden wir unsere Mandantin
+über weitere Maßnahmen beraten.
+
+[Unterschrift / Kanzlei]
+```
+
+## Memo-Baustein: Patentverletzungsanalyse
+
+```
+Vertraulicher Prüfvermerk: Patent [Nr.]
+
+I. Schutzrecht
+Patentinhaber: [Name]
+Priorität: [Datum]
+Anspruch 1: [Text]
+
+II. Angegriffene Ausführungsform (AAF)
+Produkt: [Bezeichnung]
+Quelle: [Testkauf / Datenblatt / Messe]
+
+III. Verletzungsanalyse (merkmalsweise)
+Merkmal 1: [Anspruchstext] | AAF: [konkrete Ausführung] | Subsumtion: ✓ / ✗
+Merkmal 2: ... | ... | ✓ / ✗
+...
+
+IV. Ergebnis
+Alle Merkmale wortsinngemäß verwirklicht: Ja / Nein
+Äquivalenzverletzung: Prüfen / Ja / Nein
+
+V. Risiken
+[Nichtigkeitsrisiko; Erschöpfungseinwand; Vorbenutzungsrecht § 12 PatG]
+
+VI. Empfehlung
+[Nächster Schritt: Abmahnung / EV / Klage / Verhandlung]
+```
+
+## ArbnErfG: Meldung und Inanspruchnahme
+
+| Schritt | Norm | Frist |
+|---|---|---|
+| Erfindungsmeldung durch Arbeitnehmer | § 5 ArbnErfG | Unverzüglich |
+| Inanspruchnahme durch Arbeitgeber | § 6 ArbnErfG | 4 Monate ab vollständiger Meldung |
+| Vergütung (falls Inanspruchnahme) | § 9 ArbnErfG | Nach Richtlinien (Einzelerfindung) |
+| Freigabe (falls keine Inanspruchnahme) | § 8 ArbnErfG | Automatisch nach 4 Monaten |
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+1. Geht es um eine Verletzungsklage, Nichtigkeitsklage, Berechtigungsanfrage oder ArbnErfG?
+2. Welches Patent ist betroffen (Nummer, Ansprüche, relevante Merkmale)?
+3. Welche konkrete Verletzungshandlung wurde festgestellt?
+4. Welcher Schriftsatztyp / Baustein wird benötigt?
+5. Output: Klageschrift-Gerüst, Briefbaustein, Verletzungsanalyse-Memo?
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Patg** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+## Anschluss-Skills
+- `spezial-gewerblichen-tatbestand-beweis-und-belege` – Beweisführung Patent.
+- `spezial-schadensersatz-abschlussprodukt-und-uebergabe` – Schadensersatz.
+- `fachanwalt-gewerblicher-rechtsschutz-patent-nichtigkeitsklage` – Vollständiger Nichtigkeitsworkflow.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- PatG, ArbnErfG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- EPÜ: [epo.org](https://www.epo.org); UPC: [unified-patent-court.org](https://www.unified-patent-court.org).
+- Rechtsprechung: [dejure.org](https://dejure.org), [bgh.de](https://www.bundesgerichtshof.de), [bundespatentgericht.de](https://www.bundespatentgericht.de).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Was dieser Skill nicht macht
+- Keine technische Verletzungsanalyse ohne Patentschrift und Produktbeschreibung.
+- Kein Ersatz für vollständige Mandantenberatung und Patentanwaltsbegutachtung.

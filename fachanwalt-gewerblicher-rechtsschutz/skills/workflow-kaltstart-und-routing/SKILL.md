@@ -1,46 +1,96 @@
 ---
 name: workflow-kaltstart-und-routing
-description: "Kaltstart und Routing im Plugin fachanwalt-gewerblicher-rechtsschutz: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills."
+description: "Kaltstart und Routing im Plugin fachanwalt-gewerblicher-rechtsschutz: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko, Frist und Anschluss-Skills. Enthält Routing-Heuristik für alle fünf Rechtsgebiete."
 ---
 
 # Kaltstart und Routing
 
 ## Aufgabe
-Dieser Workflow-Skill für `fachanwalt-gewerblicher-rechtsschutz` Kaltstart und Routing im Plugin fachanwalt-gewerblicher-rechtsschutz: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill startet jede neue Arbeitssession im Plugin `fachanwalt-gewerblicher-rechtsschutz` und steuert die Erstorientierung: Rolle und Ziel erkennen, Frist identifizieren, Unterlagen sichten, passenden Spezialskill vorschlagen.
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Kaltstart-Fragen (maximal 5)
 
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+Wenn kein Material vorliegt, nur die nächsten Weichen klären:
 
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+1. **Wer fragt in welcher Rolle?** Anwalt / Kanzlei, Mandant (Unternehmen / Privatperson), Behördenvertreter, Richter?
+2. **Was ist das gewünschte Ergebnis?** Abmahnung, EV, Klage, Vertragsgestaltung, Registrierung, Nichtigkeitsangriff, Beratung?
+3. **Gibt es Fristen, Termine, Zustellungen oder Sanktionen?** Wenn ja: welche und bis wann?
+4. **Welche Unterlagen, Daten oder Belege liegen vor?** Registerauszug, Abmahnung, Bescheid, Screenshot, Vertrag, Vollmacht?
+5. **Welcher Output wird gebraucht?** Memo, Schriftsatz, Checkliste, Tabelle, Entwurf, Brief, Risikoampel?
+
+Wenn Material vorliegt: zuerst mit dem Material arbeiten; nur eine gezielte Rückfrage stellen.
 
 ## Routing-Heuristik Gewerblicher Rechtsschutz
-- Markenverletzung → §§ 14, 15 MarkenG; Schutzbereich identische/ähnliche Waren-Dienstleistungen, Verwechslungsgefahr.
-- Patentverletzung → §§ 9, 139 PatG; UPC bei Einheitspatent (Übergang); Wahl Bundespatentgericht/UPC.
-- Designverletzung → §§ 38 ff. DesignG; Schutz für sichtbares Erscheinungsbild.
-- Geschäftsgeheimnis → GeschGehG (Umsetzung RL 2016/943); angemessene Geheimhaltungsmaßnahmen Voraussetzung.
-- Wettbewerbsrecht → UWG; Mitbewerber-/Verbraucherschutz, schwarze Liste Anhang § 3 Abs. 3.
-- Domainrecht → §§ 5, 15 MarkenG iVm § 12 BGB; .de-Streit DENIC bzw. WIPO UDRP.
 
-## Praxis-Hinweis
-- Streitgenossenschaft (§ 60 ZPO) bei mehreren Verletzern; Streitwert separierbar nach Stafflung BGH-Rspr.
+### Markenrecht
+- **Verletzung (Abmahnung):** → `gr-abmahnung-workflow`
+- **Risikoampel / Gegenargumente:** → `spezial-markeng-risikoampel-und-gegenargumente`
+- **Anmeldung / Portfolio:** → `spezial-markenanmeldung-compliance-dokumentation-und-akte`
+- **Widerspruch DPMA / EUIPO:** → `spezial-dpma-mehrparteien-konflikt-und-interessen`
+- **International (EUIPO / IR-Marke):** → `spezial-euipo-internationaler-bezug-und-schnittstellen`
+- **AT / CH:** → `gr-uebersetzung-marke-osterreich-schweiz-spezial`
+
+### Patentrecht
+- **Verletzungsschriftsatz:** → `spezial-patg-schriftsatz-brief-und-memo-bausteine`
+- **Nichtigkeitsklage BPatG:** → `fachanwalt-gewerblicher-rechtsschutz-patent-nichtigkeitsklage`
+- **Gebrauchsmuster:** → `spezial-gebrmg-verhandlung-vergleich-und-eskalation`
+
+### Designrecht
+- **Grundlagen / Verletzungsprüfung:** → `designrecht-praxis-grundlagen`
+- **Red-Team:** → `spezial-designverletzung-red-team-und-qualitaetskontrolle`
+- **Behörde / Register:** → `spezial-designg-behoerden-gericht-und-registerweg`
+
+### Urheberrecht
+- **Abmahnung / Verletzung:** → `gr-abmahnung-workflow`
+- **Rechtsprechungs-Check:** → `spezial-urhg-livequellen-und-rechtsprechungscheck`
+- **KI / TDM:** → `ki-trainingsdaten-und-urheberrecht-spezial`
+
+### Lauterkeitsrecht (UWG)
+- **Systematik / Prüfschema:** → `uwg-systematik-und-anwendung`
+- **Aktivlegitimation Mitbewerber:** → `gr-mitbewerberabmahnung-aktivlegitimation-spezial`
+- **Influencer-Kennzeichnung:** → `influencer-marketing-uwg-spezial`
+
+### Einstweilige Verfügung (Prozess)
+- **Dringlichkeit / Vollziehungscheck:** → `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung`
+- **GV / Parteibetrieb:** → `faevvollzug-neu-002-parteibetrieb-und-gerichtsvollzieher-bei-unterlassungstiteln`
+- **Schutzschrift:** → `faevvollzug-neu-005-gegnerische-schutzschrift-auswerten`
+- **Qualitätsgate:** → `faevvollzug-neu-008-qualitaetsgate-vor-vollziehung`
+
+### Strategie und Abschluss
+- **Vergleich:** → `vergleich-statt-streit-strategie`
+- **Schadensersatz:** → `spezial-schadensersatz-abschlussprodukt-und-uebergabe`
+- **Lizenzanalogie:** → `spezial-lizenzanaloger-fristennotiz-und-naechster-schritt`
+
+### Workflow-Unterstützung
+- **Dokumentenintake:** → `workflow-dokumentenintake`
+- **Fristen / Ampel:** → `workflow-fristen-und-risikoampel`
+- **Chronologie / Belege:** → `workflow-chronologie-und-belegmatrix`
+- **Rechtsquellen live:** → `workflow-rechtsquellen-livecheck`
+- **Red-Team:** → `workflow-redteam-qualitygate`
+- **Output wählen:** → `workflow-output-waehlen`
+
+## Praxis-Hinweise für den Kaltstart
+
+- **Streitgenossenschaft (§ 60 ZPO):** Bei mehreren Verletzern; Streitwert je Verletzer.
+- **Fliegender Gerichtsstand UWG:** Eingeschränkt (§ 14 Abs. 2 UWG n.F.); Beklagten-Sitz prüfen.
+- **Schutzschrift ZSSR:** Immer prüfen ([zssr.de](https://www.zssr.de)) bevor EV-Antrag eingereicht wird.
+- **§ 945 ZPO-Risiko:** Vor EV-Vollziehung bewerten; verschuldensunabhängige Haftung.
 
 ## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+
+- **Kurzbild:** Worum es geht, was gesichert ist, was offen ist – in max. 5 Sätzen.
+- **Prüf- oder Bearbeitungsmatrix:** Punkt, Norm, Tatsache, Beleg, Bewertung, To-do.
+- **Konkreter nächster Schritt:** Mit Frist, Zuständigkeit und benötigten Unterlagen.
+- **Bei Außenkommunikation:** Knapper, sachlicher Textbaustein.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Aktuelle Normen, Behördenhinweise, Register und EU-Recht live prüfen.
+- Rechtsprechung: [dejure.org](https://dejure.org), [bgh.de](https://www.bundesgerichtshof.de), [curia.europa.eu](https://curia.europa.eu).
+- ZSSR: [zssr.de](https://www.zssr.de).
+- Keine BeckRS-, juris-, Kommentar- oder Handbuch-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Was dieser Skill nicht macht
+- Keine inhaltliche Tiefprüfung (das übernehmen die Spezialskills).
+- Kein Ersatz für vollständige Mandantenberatung.
+- Keine eigenständige Fristberechnung ohne vollständige Daten.

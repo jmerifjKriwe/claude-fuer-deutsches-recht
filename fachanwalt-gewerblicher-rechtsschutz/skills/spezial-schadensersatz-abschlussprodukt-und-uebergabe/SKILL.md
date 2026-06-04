@@ -1,48 +1,141 @@
 ---
 name: spezial-schadensersatz-abschlussprodukt-und-uebergabe
-description: "Schadensersatz: Abschlussprodukt und Übergabe im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Schadensersatz-Abschlussprodukt und Übergabe: Schadensberechnung abschließen, Vergleichsverhandlung, Zahlungsvereinbarung, Vollstreckung des Schadensersatzurteils, Abschluss-Memo und Übergabe an Mandanten."
 ---
 
 # Schadensersatz: Abschlussprodukt und Übergabe
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-gewerblicher-rechtsschutz`. Ausgangspunkt ist: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfuegung Verletzungsklage Lizenzanaloger Schadensersatz.
+Dieser Skill behandelt den Abschluss eines Schadensersatzverfahrens im gewerblichen Rechtsschutz: Bezifferung, Vergleich, Zahlungsvereinbarung, Vollstreckung und Mandantenübergabe.
 
-Er führt durch **Abschlussprodukt und Übergabe** im Themenfeld **Schadensersatz**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Rechtsrahmen
 
+| Norm | Inhalt |
+|---|---|
+| § 249 BGB | Naturalrestitution |
+| § 251 BGB | Geldersatz (wenn Naturalrestitution unmöglich) |
+| § 252 BGB | Entgangener Gewinn |
+| § 287 ZPO | Schadensschätzung durch Gericht |
+| § 254 ZPO | Stufenklage: Auskunft → Schadensersatz |
+| § 14 Abs. 6 MarkenG | Schadensersatz Marke: drei Methoden |
+| § 139 Abs. 2 PatG | Schadensersatz Patent |
+| § 97 Abs. 2 UrhG | Schadensersatz Urheberrecht |
+| § 9 UWG | Schadensersatz UWG |
+| § 323 ZPO | Abänderungsklage bei wiederkehrenden Leistungen |
 
-## Fachlicher Zuschnitt
+## Schadensberechnung abschließen
 
-- **Thema:** Schadensersatz.
-- **Arbeitsfokus:** Abschlussprodukt und Übergabe.
-- **Plugin-Rahmen:** Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahn....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### Checkliste vor Bezifferung
+
+| Schritt | Erledigt? |
+|---|---|
+| Auskunft der Gegenseite vollständig erhalten | ☐ |
+| Mengen, Preise, Umsätze aus Auskunft plausibilisiert | ☐ |
+| Methode gewählt (Lizenzanalogie / Verletzergewinn / konkreter Schaden) | ☐ |
+| Lizenzsatz recherchiert und belegt (nicht aus Modellwissen) | ☐ |
+| Zinsen berechnet (§ 288 Abs. 1 BGB: 5 % über Basiszinssatz) | ☐ |
+| Verjährung geprüft (§§ 195, 199 BGB: 3 Jahre) | ☐ |
+
+### Berechnungsbeispiel Lizenzanalogie
+
+```
+Verletzungszeitraum: [Datum von] – [Datum bis]
+Verletzte Einheiten: [Stückzahl]
+Nettoumsatz des Verletzers: [EUR]
+Branchenüblicher Lizenzsatz: [X %] (Quelle: [Branchenverband / Vergleichslizenz])
+Lizenzanaloger Schaden: EUR [Betrag]
+Zinsen 5 % p.a. ab [Datum]: EUR [Zinsbetrag]
+Gesamtschaden: EUR [Summe]
+```
+
+## Vergleichsverhandlung Schadensersatz
+
+### Wann Vergleich sinnvoll?
+
+| Situation | Tendenz |
+|---|---|
+| Schaden schwer bezifferbar; Auskunft unvollständig | Vergleich: Vermeidet Schätzungsrisiko |
+| Verletzter Umfang gering; Gegenseite zahlungsunfähig | Vergleich: Lieber sicherer Betrag |
+| Gegenseite streitet Verletzung weiter | Klage effektiver; Vergleich nur wenn Gegenangebot attraktiv |
+| Beide Seiten wollen schnelle Lösung | Vergleich: Ressourcen schonen |
+
+### Vergleichsprotokoll-Muster
+
+```
+Vergleich gemäß § 794 Abs. 1 Nr. 1 ZPO (gerichtlich)
+oder außergerichtlicher Vergleich § 779 BGB
+
+Parteien: [Klägerin] und [Beklagte]
+Az.: [Az.]
+
+Die Parteien einigen sich wie folgt:
+
+1. Zahlung: Die Beklagte zahlt an die Klägerin EUR [Betrag] als
+   pauschalen Schadensersatz und Abgeltung aller Ansprüche aus der
+   Verletzung des [Schutzrechts] bis einschließlich [Datum].
+
+2. Zahlungsziel: Zahlung bis zum [Datum] auf das Konto [IBAN].
+
+3. Kosten: Jede Partei trägt ihre außergerichtlichen Kosten selbst.
+   Gerichtskosten werden geteilt / trägt [Partei].
+
+4. Erledigungserklärung: Beide Parteien erklären die Hauptsache für erledigt.
+```
+
+## Vollstreckung des Schadensersatzurteils
+
+| Schritt | Norm | Inhalt |
+|---|---|---|
+| Vollstreckbarer Titel | § 704 ZPO | Rechtskräftiges Urteil oder Vergleich |
+| Vollstreckungsklausel | § 724 ZPO | Antrag auf Vollstreckungsklausel bei Gericht |
+| Forderungspfändung | §§ 828 ff. ZPO | Pfändung von Bankkonten, Forderungen |
+| Sachpfändung | §§ 803 ff. ZPO | Pfändung beweglicher Sachen durch GV |
+| Immobiliarzwangsvollstreckung | §§ 864 ff. ZPO | Einleitung über GV / Grundbuch |
+
+## Abschluss-Memo und Mandantenübergabe
+
+### Abschluss-Memo (Muster-Struktur)
+
+```
+Aktennotiz / Abschluss-Memo
+
+Mandat: [Aktenzeichen Kanzlei]
+Schutzrecht: [Bezeichnung]
+Zeitraum: [Mandatsannahme] – [Abschluss]
+
+I. Ergebnis
+Unterlassung: [Erledigt durch UE / Urteil / Vergleich]
+Schadensersatz: EUR [Betrag] gezahlt / tituliert am [Datum]
+Sonstige Ansprüche: [Vernichtung / Auskunft / Urteilsbekanntmachung]
+
+II. Offene Punkte
+[Nachbeobachtung Benutzung; erneute Verletzung?; Verjährungslauf]
+
+III. Übergabe an Mandant
+□ Zahlungseingang bestätigt
+□ Originaldokumente übergeben / archiviert
+□ Hinweise für Zukunft (Benutzungsnachweis, Portfoliopflege)
+□ Schlussrechnung gestellt
+```
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+1. In welchem Stadium steht das Schadensersatzverfahren (Auskunft / Bezifferung / Vollstreckung)?
+2. Liegt eine vollständige Auskunft der Gegenseite vor?
+3. Welche Methode der Schadensberechnung soll verwendet werden?
+4. Soll ein Vergleich angestrebt oder die Vollstreckung vorbereitet werden?
+5. Output: Schadensberechnung, Vergleichsentwurf, Abschluss-Memo, Vollstreckungsplan?
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Schadensersatz** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+## Anschluss-Skills
+- `spezial-lizenzanaloger-fristennotiz-und-naechster-schritt` – Lizenzanalogie detailliert.
+- `spezial-bezuege-zahlen-schwellen-und-berechnung` – Gebühren und Streitwerte.
+- `vergleich-statt-streit-strategie` – Vergleichsstrategie.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- BGB, ZPO, MarkenG, PatG, UrhG, UWG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Rechtsprechung: [dejure.org](https://dejure.org), [bgh.de](https://www.bundesgerichtshof.de).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Was dieser Skill nicht macht
+- Keine Schätzung des Lizenzsatzes ohne branchenspezifische Recherche.
+- Kein Ersatz für vollständige Mandantenberatung.

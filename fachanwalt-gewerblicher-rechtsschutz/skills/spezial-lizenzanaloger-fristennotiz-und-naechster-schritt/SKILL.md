@@ -1,48 +1,112 @@
 ---
 name: spezial-lizenzanaloger-fristennotiz-und-naechster-schritt
-description: "Lizenzanaloger: Fristennotiz und nächster Schritt im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Lizenzanaloger Schadensersatz: Berechnung, Marktrecherche für Lizenzsätze, Stufenklage, Fristen für Auskunft und Schadensersatz, nächster Handlungsschritt nach Unterlassungsurteil oder EV-Abschluss im gewerblichen Rechtsschutz."
 ---
 
-# Lizenzanaloger: Fristennotiz und nächster Schritt
+# Lizenzanaloger Schadensersatz: Berechnung und nächster Schritt
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-gewerblicher-rechtsschutz`. Ausgangspunkt ist: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfuegung Verletzungsklage Lizenzanaloger Schadensersatz.
+Dieser Skill behandelt den lizenzanalogen Schadensersatz als bevorzugte Methode der Schadensberechnung im IP-Recht: Berechnungsgrundlage, Marktrecherche, Stufenklage und Fristenmanagement.
 
-Er führt durch **Fristennotiz und nächster Schritt** im Themenfeld **Lizenzanaloger**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Rechtsrahmen
 
+| Norm | Inhalt |
+|---|---|
+| § 14 Abs. 6 MarkenG | Schadensersatz; fiktive Lizenzgebühr ausdrücklich genannt |
+| § 139 Abs. 2 PatG | Schadensersatz Patent: entgangener Gewinn oder fiktive Lizenz |
+| § 42 Abs. 2 DesignG | Schadensersatz Design: drei Methoden |
+| § 97 Abs. 2 UrhG | Schadensersatz Urheberrecht: fiktive Lizenzgebühr |
+| § 9 UWG | Schadensersatz UWG: konkreter Schaden; Lizenzanalogie möglich |
+| § 254 ZPO | Stufenklage: Auskunft → Abrechnung → Schadensersatz |
+| § 287 ZPO | Schadensschätzung durch Gericht |
 
-## Fachlicher Zuschnitt
+## Die drei Methoden der Schadensberechnung
 
-- **Thema:** Lizenzanaloger.
-- **Arbeitsfokus:** Fristennotiz und nächster Schritt.
-- **Plugin-Rahmen:** Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahn....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+| Methode | Inhalt | Vorteil | Nachteil |
+|---|---|---|---|
+| 1. Konkreter Schaden | Nachgewiesener Schaden + entgangener Gewinn | Voller Ausgleich | Schwer nachzuweisen; hohe Kausalitätsanforderungen |
+| 2. Verletzergewinn | Gewinn des Verletzers aus der Verletzung | Macht Verletzung unattraktiv | Auskunft nötig; Gewinnnachweis durch Verletzter |
+| 3. Lizenzanalogie | Fiktiver Lizenzbetrag bei hypothetischem Lizenzvertrag | Einfach; kein Gewinnnachweis; favorisiert von Gerichten | Branchenüblicher Satz muss recherchiert werden |
+
+## Lizenzanaloge Berechnung – Schritt für Schritt
+
+### Schritt 1: Verletzungszeitraum und -umfang
+
+- Beginn der Verletzung (Datum der ersten Verletzungshandlung).
+- Ende (Unterlassungsverpflichtung / Einstellung der Verletzung).
+- Menge der verletzenden Handlungen (Stückzahl, Liefermenge, Online-Abrufe).
+
+### Schritt 2: Lizenzsatz recherchieren
+
+- Branchenübliche Lizenzsätze:
+  - In Deutschland keine einheitliche Datenbank; Vergleichslizenzverträge oder Sachverständige.
+  - Orientierung: DPMA-Lizenzstatistiken, Branchenverbände, Rechercheberichte.
+  - **Keine pauschalen Modellzahlen nutzen; branchenspezifische Recherche erforderlich.**
+- Eigenart / Bekanntheit der Marke / des Patents erhöhen den Satz.
+- Niedrige Marktstellung: niedrigerer Satz.
+
+### Schritt 3: Berechnungsformel
+
+```
+Lizenzanaloger Schaden =
+  Anzahl der verletzenden Einheiten (oder Umsatz des Verletzers)
+  × marktüblicher Lizenzsatz (%)
+  + Zinsen (§ 288 BGB: 5 % über Basiszinssatz)
+```
+
+### Schritt 4: Auskunft erwirken (§ 19 MarkenG / § 140b PatG etc.)
+
+- Vor Schadensberechnung: Auskunft über Umfang der Verletzung fordern.
+- **Stufenklage (§ 254 ZPO):** Klage auf Auskunft + Schadensersatz in einer Klage.
+
+## Fristen-Notiz nach Unterlassung / EV
+
+| Schritt | Zeitpunkt | Frist |
+|---|---|---|
+| Auskunftsbegehren nach Unterlassung | Sofort nach Titel / UE | Keine gesetzliche Frist; zeitnah |
+| Abschlussschreiben (EV → Hauptsache) | Nach Vollziehung EV | 2–4 Wochen empfohlen |
+| Verjährung Schadensersatz | Ab Kenntnis | § 195 BGB: 3 Jahre; § 199 BGB: ab Ende des Jahres der Kenntnis |
+| Stufenklage (falls Auskunft verweigert) | Nach Ablehnung | Unverzüglich |
+
+## Muster-Auskunftsbegehren nach Unterlassung
+
+```
+An [Verletzer / Anwalt]
+
+Auskunft gemäß § 19 MarkenG / § 140b PatG / § 46 DesignG
+
+Wir fordern Sie auf, uns bis zum [Frist: 2 Wochen] folgende Auskünfte
+zu erteilen:
+
+1. Umfang der Verletzungshandlungen: Datum, Stückzahl, Preise, Umsatz.
+2. Herkunft der verletzenden Erzeugnisse: Lieferant, Hersteller.
+3. Namen und Adressen weiterer Abnehmer und Lieferanten.
+
+Wir behalten uns vor, auf Basis dieser Auskunft Schadensersatz geltend
+zu machen (§ [14 Abs. 6 MarkenG / 139 Abs. 2 PatG / 97 Abs. 2 UrhG]).
+
+[Kanzlei]
+```
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+1. In welchem Stadium befindet sich das Verfahren (Unterlassung gesichert / noch ausstehend)?
+2. Welche Informationen über Umfang der Verletzung liegen vor?
+3. Welche Methode der Schadensberechnung ist sinnvoll?
+4. Sind Fristen für Auskunft oder Verjährung relevant?
+5. Output: Schadensberechnungsblatt, Auskunftsbegehren, Stufenklage-Gerüst, Fristenplan?
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Lizenzanaloger** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+## Anschluss-Skills
+- `spezial-schadensersatz-abschlussprodukt-und-uebergabe` – Abschlusskalkulation.
+- `spezial-bezuege-zahlen-schwellen-und-berechnung` – Gebühren und Streitwerte.
+- `workflow-fristen-und-risikoampel` – Fristenmanagement.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- MarkenG, PatG, DesignG, UrhG, UWG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Rechtsprechung: [dejure.org](https://dejure.org), [bgh.de](https://www.bundesgerichtshof.de).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Lizenzsätze nicht aus Modellwissen; immer branchenspezifisch recherchieren.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Was dieser Skill nicht macht
+- Keine verbindliche Schadensberechnung ohne vollständige Daten zur Verletzungshistorie.
+- Kein Ersatz für vollständige Mandantenberatung.

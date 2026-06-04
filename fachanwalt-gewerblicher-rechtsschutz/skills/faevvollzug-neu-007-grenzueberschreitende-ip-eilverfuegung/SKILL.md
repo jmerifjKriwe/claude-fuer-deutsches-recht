@@ -1,45 +1,95 @@
 ---
 name: faevvollzug-neu-007-grenzueberschreitende-ip-eilverfuegung
-description: "Fachanwalt Gewerblicher Rechtsschutz: Grenzüberschreitende IP-Eilverfügung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Grenzüberschreitende IP-Eilmaßnahmen: Internationale Zuständigkeit EuGVVO, fliegender Gerichtsstand, Unionsmarke und Gemeinschaftsgeschmacksmuster-Gerichte, UPC (Einheitspatent), Cross-border-Injunctions, WIPO-UDRP, Vollstreckung im EU-Ausland."
 ---
 
-# Fachanwalt Gewerblicher Rechtsschutz: Grenzüberschreitende IP-Eilverfügung
+# Grenzüberschreitende IP-Eilverfügung
 
 ## Aufgabe
+Dieser Skill behandelt einstweilige Verfügungen mit grenzüberschreitendem Bezug im gewerblichen Rechtsschutz: internationale Zuständigkeit, anwendbares Recht, Unionsschutzrechte und grenzüberschreitende Vollstreckung.
 
-Dieser Skill bearbeitet **Grenzüberschreitende IP-Eilverfügung** im Bereich **Fachanwalt Gewerblicher Rechtsschutz**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+## Rechtsrahmen
 
-## Kaltstart in 6 Fragen
+| Norm / Instrument | Inhalt |
+|---|---|
+| Art. 7 Nr. 2 EuGVVO (VO 1215/2012) | Internationale Zuständigkeit bei Delikt: Ort des schädigenden Ereignisses |
+| Art. 35 EuGVVO | Einstweilige Maßnahmen: Zuständigkeit auch ohne Hauptsachezuständigkeit |
+| Art. 125 UMV (VO 2017/1001) | Unionsmarkengericht: Klägerort, Beklagtenort, Verletzungsort |
+| Art. 82 GGV (VO 6/2002) | Gemeinschaftsgeschmacksmuster-Gerichte |
+| Art. 126 f. UMV | Gerichtliche Zuständigkeit Unionsmarkensachen |
+| Art. 24 EPGÜ (UPC Agreement) | Unified Patent Court: zuständig für Einheitspatent |
+| § 14 UWG | Fliegender Gerichtsstand bei Online-Verstößen: eingeschränkt |
+| Rom II-VO (VO 864/2007) | Anwendbares Recht für außervertragliche Schuldverhältnisse (IP) |
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Internationale Zuständigkeit im Überblick
 
-## Prüfprogramm
+### Marke und Design (Unions-Schutzrechte)
+- Einstweilige Maßnahmen für **EU-weite Geltung**: zuständiges UMG/GGM-Gericht (Art. 125 UMV, Art. 82 GGV).
+- In Deutschland: LG Düsseldorf, LG Hamburg, LG München I als designierte Unionsmarkengerichte.
+- Territoriale Wirkung: Unionsmarken-EV kann EU-weit gelten; nationale EV nur national.
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Patent (Einheitspatent und klassisches Patent)
+- **Einheitspatent / UPC:** Zuständigkeit des UPC (Lokale Kammer oder Zentralkammer) ab Juni 2023.
+  - Opt-out-Möglichkeit für bestehende EP-Patente läuft ab; Status prüfen.
+- **Klassisches deutsches Patent:** BPatG (Verletzung), LG (Verletzungsklage), zuständige Kammern.
+- **EPÜ-Patent:** Verletzung nach nationalem Recht des Verletzungsortes.
 
-## Typische Fallen
+### UWG und unlauterer Wettbewerb
+- Grenzüberschreitend: Art. 6 Rom II-VO (wettbewerbsrechtliche Delikte); Marktortprinzip.
+- Gerichtsstand: Beklagten-/Niederlassungsort (Art. 4 EuGVVO) oder Verletzungsort (Art. 7 Nr. 2 EuGVVO).
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+## Grenzüberschreitende Vollstreckung von IP-EV
 
-## Output
+| Instrument | Anwendungsbereich | Verfahren |
+|---|---|---|
+| EuGVVO Art. 39 | Vollstreckbarerklärung EU-Mitgliedstaaten | Automatic enforcement; kein Exequatur mehr |
+| UPC-Titel | Einheitspatent-Entscheidungen | UPC-Register; unmittelbar vollstreckbar |
+| WIPO UDRP | Domain-Streitigkeiten (.com, .net, .org) | Verfahren bei WIPO oder NAF, kein staatliches Gericht |
+| § 1095 ZPO | Vollstreckbarerklärung ausländischer Titel | Exequatur bei deutschem LG |
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+## WIPO UDRP (Domain-Streitigkeiten)
+
+**Anwendungsbereich:** gTLDs (.com, .net, .org, .info) und viele ccTLDs (z.B. .eu, .de per DENIC-DRO).
+
+**Drei-Kriterien-Test UDRP:**
+1. Identische oder verwechslungsfähige Domain mit Marke des Beschwerdeführers.
+2. Keine berechtigten Interessen des Domainhalters.
+3. Domain bösgläubig registriert und genutzt.
+
+**Verfahren:** Online-Beschwerde beim WIPO-Center; Entscheidung meist in 60 Tagen; keine Kostenerstattung; schneller als Gerichtsverfahren für reine Domain-Übertragung.
+
+**Abgrenzung:** Bei Schadensersatz / komplexem Sachverhalt → nationaler Gerichtsweg (§§ 5, 15 MarkenG + § 12 BGB).
+
+## Strategieoptionen bei grenzüberschreitendem Verstoß
+
+| Konstellation | Empfehlung |
+|---|---|
+| Unionsmarken-Verletzung EU-weit | EV beim deutschen UMG-Gericht mit EU-weiter Wirkung |
+| Einheitspatent-Verletzung | UPC Lokale/Zentrale Kammer (schnelle einstweilige Maßnahme) |
+| Domain-Hijacking | WIPO UDRP, ergänzend § 12 BGB + § 15 MarkenG |
+| Verletzung in Nicht-EU-Land | Nationales Recht + ggf. TRIPs-Maßnahmen; Kooperationsanwalt lokal einschalten |
+| Online-Marktplatz (Amazon/eBay) | Brand Registry-Takedown parallel zu EV-Antrag |
+
+## Kaltstart
+1. Welches Schutzrecht ist betroffen (Unionsmarke / nat. Marke / Patent / Design)?
+2. In welchen Ländern findet die Verletzung statt?
+3. Besteht Dringlichkeit (Vollziehungsfrist, Selbstwiderlegungsrisiko)?
+4. Welches Gericht soll angerufen werden (national / UMG / UPC)?
+5. Output: Zuständigkeitsmemo, EV-Antrag grenzüberschreitend, UDRP-Complaint-Gerüst?
+
+## Anschluss-Skills
+- `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung` – Dringlichkeitscheck.
+- `spezial-euipo-internationaler-bezug-und-schnittstellen` – EUIPO-Schnittstellen.
+- `gr-uebersetzung-marke-osterreich-schweiz-spezial` – AT/CH-Schutzrechtsfragen.
+
+## Quellenregel
+- EuGVVO, UMV, GGV: [eur-lex.europa.eu](https://eur-lex.europa.eu).
+- UPC: [unified-patent-court.org](https://www.unified-patent-court.org).
+- WIPO UDRP: [wipo.int/amc/en/domains](https://www.wipo.int/amc/en/domains/).
+- Rechtsprechung: [curia.europa.eu](https://curia.europa.eu), [dejure.org](https://dejure.org).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Was dieser Skill nicht macht
+- Keine länderspezifische Rechtsberatung außerhalb Deutschlands/EU ohne lokale Quellenverifizierung.
+- Kein Ersatz für vollständige Mandantenberatung.

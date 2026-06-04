@@ -1,48 +1,109 @@
 ---
 name: spezial-fao-dokumentenmatrix-und-lueckenliste
-description: "FAO: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "FAO-Dokumentenmatrix: Nachweise für Fachanwaltschaft gewerblicher Rechtsschutz § 14k FAO. Falllistenführung, Fallgruppen, qualifizierte Fälle, besondere praktische Erfahrungen, Lückenliste, Zulassungsantrag und häufige Fehler."
 ---
 
-# FAO: Dokumentenmatrix, Lückenliste und Nachforderung
+# FAO-Dokumentenmatrix und Lückenliste
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-gewerblicher-rechtsschutz`. Ausgangspunkt ist: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfuegung Verletzungsklage Lizenzanaloger Schadensersatz.
+Dieser Skill unterstützt bei der Vorbereitung des Antrags auf Verleihung der Fachanwaltsbezeichnung „Fachanwalt für gewerblichen Rechtsschutz" (§ 14k FAO): Falllistenstruktur, Dokumentation, Lückenanalyse.
 
-Er führt durch **Dokumentenmatrix, Lückenliste und Nachforderung** im Themenfeld **FAO**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Rechtsrahmen
 
+| Norm | Inhalt |
+|---|---|
+| § 14k FAO | Besondere praktische Erfahrungen: gewerblicher Rechtsschutz |
+| § 5 FAO | Allgemeine Anforderungen: persönliche Erfahrungen in den letzten 3 Jahren |
+| § 6 FAO | Fallzahlen und Fallkategorien |
+| § 7 FAO | Qualifizierung durch Lehrgang (120 Stunden) |
+| § 10 FAO | Antrag auf Fachanwaltsbezeichnung; Form; Frist |
+| § 15 FAO | Fortbildungspflicht 15 Stunden/Jahr |
 
-## Fachlicher Zuschnitt
+## § 14k FAO – Anforderungen im Überblick
 
-- **Thema:** FAO.
-- **Arbeitsfokus:** Dokumentenmatrix, Lückenliste und Nachforderung.
-- **Plugin-Rahmen:** Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahn....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### Lehrgang (§ 7 FAO)
+- **120 Unterrichtsstunden** in einem staatlich anerkannten Kurs.
+- Inhalt: Markenrecht, Patentrecht, Designrecht, Urheberrecht, Lauterkeitsrecht (Mindestlehrplan).
+- Leistungsnachweis: Klausur oder Aufsichtsarbeit.
+
+### Praktische Erfahrungen (§ 14k Abs. 1 FAO)
+- Mindest-Fallzahlen je Bereich (§ 14k FAO i.V.m. § 6 FAO):
+  - Markenrecht, Patentrecht, Designrecht, Urheberrecht, Wettbewerbsrecht.
+  - Mindestens **je 5 Fälle** in mindestens **3 der 5 Bereiche** (genaue Anforderungen in § 14k FAO prüfen – Änderungen durch RAK-Satzungen möglich).
+
+**Live-Check erforderlich:** [brak.de](https://www.brak.de) und zuständige RAK für aktuelle Fallzahlenanforderungen.
+
+## Falllistenmatrix
+
+| Fall-Nr. | Bereich | Falltyp | Jahr | Rolle (beratend / gerichtl.) | Status | Besonderheit |
+|---|---|---|---|---|---|---|
+| 1 | Markenrecht | Abmahnung / EV | 20XX | gerichtlich | abgeschlossen | Nichtbenutzungseinrede |
+| 2 | Patentrecht | Verletzungsklage | 20XX | gerichtlich | abgeschlossen | UPC-Übergang |
+| 3 | UWG | Abmahnung | 20XX | beratend | abgeschlossen | § 8c UWG |
+| 4 | Designrecht | Widerspruchsverfahren | 20XX | behördlich | abgeschlossen | DPMA |
+| 5 | UrhG | Unterlassung | 20XX | gerichtlich | abgeschlossen | § 97a UrhG |
+| … | | | | | | |
+
+## Qualifizierungsanforderungen je Bereich
+
+| Bereich | Typische qualifizierende Fälle |
+|---|---|
+| Markenrecht | Widerspruchsverfahren DPMA/EUIPO; Verletzungsabmahnung; EV-Antrag; Nichtigkeitsklage; Lizenzstreit |
+| Patentrecht | Verletzungsklage; Nichtigkeitsverfahren BPatG; ArbnErfG-Streit; EPA-Einspruchsverfahren |
+| Designrecht | Verletzungsabmahnung; DPMA-Anmeldung; GGM-Verfahren; Nichtigkeitsantrag |
+| Urheberrecht | Abmahnung; EV; Lizenzstreit; TDM/KI-Frage; Software-Copyright |
+| Wettbewerbsrecht | UWG-Abmahnung; EV (§ 12 UWG); Verbandsklage; Schleichwerbung |
+
+## Lückenliste und Auffüllstrategie
+
+**Lückenanalyse:**
+1. Aktuelle Fallliste zusammenstellen.
+2. Mit FAO-Mindestanforderungen abgleichen.
+3. Fehlende Bereiche oder Falltypen identifizieren.
+
+**Lücken auffüllen:**
+- Mandate in unterrepräsentierten Bereichen aktiv annehmen.
+- Fortbildungen in Lückenbereichen priorisieren.
+- Kooperationen mit spezialisierten Kollegen, um Erfahrung zu dokumentieren.
+- Archivierte Fälle aus den letzten 3 Jahren prüfen (§ 5 FAO: Zeitraum beachten).
+
+## Checkliste Zulassungsantrag
+
+| Voraussetzung | Status |
+|---|---|
+| Lehrgang 120 Stunden abgeschlossen (Zertifikat) | ☐ |
+| Leistungsnachweis (Klausur) bestanden | ☐ |
+| Fallliste erstellt und qualifiziert | ☐ |
+| Mindest-Fallzahlen je Bereich erreicht | ☐ |
+| Zeugnisse / Bescheinigungen (Mandanten, Gerichte) vorbereitet | ☐ |
+| Antrag bei RAK eingereicht | ☐ |
+| Fortbildungsnachweis aktuell (§ 15 FAO: 15 Stunden/Jahr) | ☐ |
+
+## Häufige Fehler beim Zulassungsantrag
+
+| Fehler | Konsequenz | Vermeidung |
+|---|---|---|
+| Fälle außerhalb des 3-Jahres-Zeitraums (§ 5 FAO) | Nicht anrechenbar | Zeitraum vor Antrag sorgfältig prüfen |
+| Rein beratende Tätigkeit zählt nicht gleichwertig | Fehlende gerichtliche Erfahrung | Gerichtliche Mandate gezielt annehmen |
+| Falsche Bereichszuordnung | RAK korrigiert; ggf. Lücke | Bereich vorab mit RAK abstimmen |
+| Lehrgang zu alt (§ 7 Abs. 2 FAO: keine zeitliche Begrenzung, aber aktuell halten) | Je nach RAK | Aktualität sicherstellen |
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+1. Wie weit ist die Fallliste und in welchen Bereichen fehlen noch Nachweise?
+2. Wie viele Stunden des Fachanwaltslehrgangs sind absolviert?
+3. Welcher Zeitraum ist für die Fallzählung maßgeblich?
+4. Output: Lückenliste, Fallmatrix, Checkliste, Strategie zum Auffüllen?
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **FAO** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+## Anschluss-Skills
+- `spezial-fachanwalt-erstpruefung-und-mandatsziel` – Fallaufnahme und Mandatsziel.
+- `workflow-dokumentenintake` – Dokumentenerfassung.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- FAO: [brak.de](https://www.brak.de) (aktuelle Fassung abrufbar); [gesetze-im-internet.de](https://www.gesetze-im-internet.de/brao/).
+- Für aktuelle Anforderungen immer bei zuständiger RAK nachfragen.
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Was dieser Skill nicht macht
+- Keine verbindliche Aussage über FAO-Anforderungen ohne Live-Prüfung (RAK und BRAK).
+- Kein Ersatz für Beratung durch RAK oder Fachanwaltskommission.

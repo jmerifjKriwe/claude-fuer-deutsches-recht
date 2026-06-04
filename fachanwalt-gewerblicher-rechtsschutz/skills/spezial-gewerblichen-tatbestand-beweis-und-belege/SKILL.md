@@ -1,48 +1,114 @@
 ---
 name: spezial-gewerblichen-tatbestand-beweis-und-belege
-description: "Gewerblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Tatbestand, Beweis und Belege im gewerblichen Rechtsschutz: Beweismittel für Marken-, Patent-, Design- und UWG-Verletzungen, Darlegungs- und Beweislastverteilung, Beweissicherungsklage, Vernichtungsanspruch, eidesstattliche Versicherung, Testkauf."
 ---
 
-# Gewerblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage
+# Tatbestand, Beweis und Belege im gewerblichen Rechtsschutz
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-gewerblicher-rechtsschutz`. Ausgangspunkt ist: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfuegung Verletzungsklage Lizenzanaloger Schadensersatz.
+Dieser Skill behandelt die Beweisführung bei gewerblichen Schutzrechtsverletzungen: Beweismittel, Darlegungslast, Beweissicherungsklage und Beweissicherung im Eilverfahren.
 
-Er führt durch **Tatbestandsmerkmale, Beweisfragen und Beleglage** im Themenfeld **Gewerblichen**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Rechtsrahmen
 
+| Norm | Inhalt |
+|---|---|
+| § 286 ZPO | Freie richterliche Beweiswürdigung |
+| § 294 ZPO | Glaubhaftmachung: eidesstattliche Versicherung; für EV ausreichend |
+| § 422 ZPO | Vorlegung von Urkunden |
+| § 144 PatG | Beweissicherungsklage (vorprozessualer Sachverständigenzugang) |
+| § 19 MarkenG | Auskunftsanspruch (Lieferkette) |
+| § 101 UrhG | Auskunftsanspruch bei offensichtlicher Rechtsverletzung |
+| § 46 DesignG | Auskunft und Rechnungslegung |
+| § 140b PatG | Auskunftsanspruch Patentrecht |
+| § 33 Abs. 1 UWG | Schadenersatz; Anspruch auf Auskunft |
 
-## Fachlicher Zuschnitt
+## Beweismittelübersicht nach Verletzungsart
 
-- **Thema:** Gewerblichen.
-- **Arbeitsfokus:** Tatbestandsmerkmale, Beweisfragen und Beleglage.
-- **Plugin-Rahmen:** Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahn....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### Markenverletzung
+
+| Beweismittel | Qualität | Beschaffung |
+|---|---|---|
+| Testkauf mit Quittung (Original) | Sehr hoch | Testkauf organisieren; Quittung aufheben |
+| Screenshot der Website (URL + Datum sichtbar) | Mittel | Ergänzen durch Internetarchiv |
+| Notarprotokoll / Internetseiten-Notarisierung | Hoch | Notar beauftragen (teuer) |
+| Eidesstattliche Versicherung Mandant | Ausreichend für EV (§ 294 ZPO) | Mandant unterschreibt eV |
+| Registrierungsnachweis (DPMA-Auszug) | Hoch | Online: dpma.de |
+| Sicherheitsmuster / Originalware zum Vergleich | Hoch | Original des Schutzrechtsinhabers |
+
+### Patentverletzung
+
+| Beweismittel | Qualität | Beschaffung |
+|---|---|---|
+| Testkauf verletzende Ware | Hoch | Mit Quittung, Verpackung |
+| Patentschrift + Verletzungsanalyse (Sachverständiger) | Sehr hoch | Patentanwalt / Sachverständiger |
+| Herstellungsprozess-Analyse | Sehr hoch | Nur über Auskunft oder Beweissicherungsklage |
+| Messe-Exponat | Hoch | Fotografisch dokumentiert |
+| Produktdatenblatt / Betriebsanleitung | Mittel | Aus offiziellen Quellen |
+
+### UWG-Verletzung
+
+| Beweismittel | Qualität | Beschaffung |
+|---|---|---|
+| Screenshot irreführende Werbung (URL, Datum) | Mittel–Hoch | Zeitstempel-Tool, Wayback Machine |
+| E-Mail-Werbung (Original mit Header) | Hoch | Vollständige E-Mail mit Metadaten |
+| Werbemittel (Prospekt, Anzeige) | Hoch | Original sichern |
+| Eidesstattliche Versicherung | Für EV ausreichend | Mandant unterschreibt |
+
+## Darlegungs- und Beweislast
+
+| Anspruch | Darlegungslast | Beweislast |
+|---|---|---|
+| Verletzungsunterlassung | Kläger: Schutzrecht + Verletzungshandlung | Kläger; Gegenseite: Erschöpfung / Lizenz |
+| Schadensersatz | Kläger: Verletzung + Verschulden + Schaden | Kläger; Schaden kann durch Gericht geschätzt werden (§ 287 ZPO) |
+| Vernichtung | Kläger: Verletzung + Besitz Verletzter | Kläger |
+| Auskunft | Kläger: Verletzung + Auskunftspflichtiger | Kläger |
+
+## Auskunftsanspruch vor der Hauptklage
+
+**Stufenklage (§ 254 ZPO):** Auskunft → Abrechnung → Schadensersatz.
+
+1. Klage auf Auskunft: Lieferkette, Mengen, Umsätze.
+2. Gegenseite ist zur Auskunft verurteilt.
+3. Nach Auskunft: Schadensersatz beziffern und geltend machen.
+
+**Auskunftsansprüche:**
+- MarkenG § 19; PatG § 140b; DesignG § 46; UrhG § 101; UWG § 33 Abs. 1.
+
+## Beweissicherungsklage (§ 144 PatG analog)
+
+- Vorprozessualer Anspruch auf Besichtigung, Probenahme, Inaugenscheinnahme.
+- Voraussetzung: hinreichende Wahrscheinlichkeit einer Verletzung; Sachverständigenbegutachtung sinnvoll.
+- Anwendung auch im Marken- und Designrecht (analog).
+
+## Checkliste Beweissicherung vor EV
+
+| Schritt | Erledigt? |
+|---|---|
+| Verletzungshandlung fotografisch / schriftlich dokumentiert | ☐ |
+| Datum und Uhrzeit des Verstoßes belegt | ☐ |
+| Registerauszug (Schutzrecht) aktuell vorhanden | ☐ |
+| Eidesstattliche Versicherung des Mandanten vorbereitet (§ 294 ZPO) | ☐ |
+| Testkauf oder Muster der verletzenden Ware gesichert | ☐ |
+| Auskunftsanspruch überlegt (sofort oder nach Unterlassung) | ☐ |
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+1. Welche Verletzungshandlung muss bewiesen werden (Marke / Patent / Design / UWG)?
+2. Welche Beweismittel liegen bereits vor?
+3. Ist eine eidesstattliche Versicherung ausreichend (EV) oder ist Hauptsachebeweis nötig?
+4. Besteht Bedarf an Auskunftsklage / Stufenklage?
+5. Output: Beweissicherungsplan, Checkliste, Auskunftsklage-Gerüst?
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Gewerblichen** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+## Anschluss-Skills
+- `spezial-verfuegung-beweislast-und-darlegungslast` – Beweislast in der EV.
+- `spezial-verletzungsklage-sonderfall-und-edge-case` – Sonderfälle Beweis.
+- `faevvollzug-neu-008-qualitaetsgate-vor-vollziehung` – Qualitätsgate vor EV.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- Normen ZPO, PatG, MarkenG, UrhG, DesignG, UWG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Rechtsprechung: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bgh.de](https://www.bundesgerichtshof.de).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Was dieser Skill nicht macht
+- Keine technische Verletzungsanalyse ohne Sachverständigen.
+- Kein Ersatz für vollständige Mandantenberatung.

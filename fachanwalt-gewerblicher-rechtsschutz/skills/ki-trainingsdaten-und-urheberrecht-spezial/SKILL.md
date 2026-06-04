@@ -1,63 +1,98 @@
 ---
 name: ki-trainingsdaten-und-urheberrecht-spezial
-description: "Spezialfall KI-Trainingsdaten und Urheberrecht: § 44b UrhG Text- and Data-Mining-Schranke, Vorbehalt durch Rechteinhaber maschinenlesbar, EU-KI-VO Art. 53 Trainingsdaten-Zusammenfassung, GEMA und Wort-Forderungen gegen LLM-Anbieter. Pruefraster und Mustertexte."
+description: "KI-Trainingsdaten und Urheberrecht: Text and Data Mining (TDM) §§ 44a, 44b UrhG, Opt-out-Vorbehalt, KI-generierte Werke und Schutzfähigkeit, EU AI Act, Haftung für KI-Output, Datenbankschutz § 87a UrhG, aktuelle EuGH-/BGH-Leitlinien."
 ---
 
-# KI-Trainingsdaten und UrhG
+# KI-Trainingsdaten und Urheberrecht
 
 ## Aufgabe
-Spezialfall KI-Trainingsdaten und Urheberrecht: § 44b UrhG Text- and Data-Mining-Schranke, Vorbehalt durch Rechteinhaber maschinenlesbar, EU-KI-VO Art.
+Dieser Skill behandelt die urheberrechtlichen Fragen rund um KI-Trainingsdaten, Text and Data Mining (TDM), Schutzfähigkeit KI-generierter Inhalte und Haftungsfragen nach dem EU AI Act.
 
+## Rechtsrahmen
 
-## Fachlicher Arbeitskern
+| Norm | Inhalt |
+|---|---|
+| § 44a UrhG | Vorübergehende Vervielfältigungshandlungen (Caching, Pufferung) |
+| § 44b UrhG | Text und Data Mining (TDM): Privilegierung + Opt-out |
+| § 60d UrhG | TDM für wissenschaftliche Forschung |
+| § 87a UrhG | Datenbankherstellerrecht: schutzwürdige Investition |
+| § 87b UrhG | Ausschließliches Recht des Datenbankerstellers |
+| § 97 UrhG | Unterlassung und Schadensersatz bei UrhR-Verletzung |
+| DSM-RL (RL 2019/790) | Richtlinie Urheberrecht im digitalen Binnenmarkt; TDM Art. 3–4 |
+| EU AI Act (VO 2024/1689) | Risikobasierter Rahmen für KI-Systeme |
 
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `fachanwalt-gewerblicher-rechtsschutz` zum Thema `ki-trainingsdaten-und-urheberrecht-spezial`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Spezialfall KI-Trainingsdaten und Urheberrecht: § 44b UrhG Text- and Data-Mining-Schranke, Vorbehalt durch Rechteinhaber maschinenlesbar, EU-KI-VO Art. 53 Trainingsdaten-Zusammenfassung, GEMA und Wort-Forderungen gegen LLM-Anbieter. Pruefraster und Mustertexte..
+## Text and Data Mining (TDM) – § 44b UrhG
 
-Arbeite deshalb fallnah:
+### Privilegierung (§ 44b Abs. 1 UrhG)
+- Vervielfältigung zum Zweck des TDM ist erlaubt, wenn rechtmäßiger Zugang zu den Werken besteht.
+- Gilt für **alle** Nutzer (kommerziell und nichtkommerziell).
 
-1. **Falltyp erkennen:** Einordnung, ob es um Erstberatung, Anspruchs-/Pflichtenpruefung, Vertrags-/Bescheid-/Schriftsatzarbeit, Strategie oder Fristenrettung geht.
-2. **Entscheidungspunkte bilden:** Welche zwei bis fuenf Weichen entscheiden den Fall wirklich?
-3. **Belege anfordern:** Nur die Unterlagen nachfordern, die fuer diese Weichen gebraucht werden; keine Frageboegen um ihrer selbst willen.
-4. **Spezialwissen anwenden:** Die im Skill genannten Normen, Behoerden, Verfahrensarten, Branchenlogiken oder typischen Streitpunkte sichtbar abarbeiten.
-5. **Nutzbaren Output liefern:** Am Ende steht ein Memo, eine Matrix, ein Textbaustein, ein Schriftsatzgeruest, ein Mandantenbrief oder eine klare Naechste-Schritte-Liste.
+### Opt-out-Vorbehalt (§ 44b Abs. 3 UrhG)
+- Rechteinhaber können TDM durch **maschinenlesbare Erklärung** vorbehalten (z.B. `robots.txt`, Metadaten, AGB-Klausel).
+- **Wenn Vorbehalt klar und maschinenlesbar kommuniziert:** TDM ohne Erlaubnis unzulässig.
+- **Praxishinweis:** Zeitpunkt des Vorbehalts entscheidend; nachträglicher Vorbehalt gilt nur für zukünftige Zugriffe.
 
-Wenn ein anderer Skill desselben Plugins genauer passt, schlage ihn aktiv vor und erklaere in einem Satz, warum der Wechsel die Arbeit beschleunigt.
+### Wissenschaftliches TDM (§ 60d UrhG)
+- Privilegierung für Forschungseinrichtungen.
+- Kopien nach Abschluss der Forschung zu löschen oder Zugang einzuschränken.
+
+## KI-generierte Werke: Schutzfähigkeit
+
+### Urheberrechtlicher Schutz setzt menschliche Schöpfung voraus
+
+| Konstellation | Schutzfähigkeit |
+|---|---|
+| Mensch nutzt KI als Werkzeug (gestalterische Entscheidungen beim Menschen) | Urheberrechtlich schutzfähig (§ 2 UrhG), sofern Schöpfungshöhe erreicht |
+| Vollständig autonom KI-generierter Output ohne menschliches Zutun | **Keine** urheberrechtliche Schutzfähigkeit nach aktuellem dt. Recht (§ 7 UrhG: Urheber = natürliche Person) |
+| KI-Output mit erheblichem menschlichem Kreativbeitrag | Schutzfähig, soweit menschlicher Anteil überwiegt |
+
+**EuGH-Linie (Painer, Cofemel, Brompton):** Schutzfähigkeit bei persönlichem geistigen Schöpfungsakt; keine rein technischen Routinen. Auf KI-generierten Output übertragbar: Ohne menschliche Kreativität kein Schutz.
+
+## Haftung für KI-Output
+
+| Szenario | Haftungsgrundlage |
+|---|---|
+| KI generiert rechtsverletzenden Text / Bild | Anbieter: ggf. § 97 UrhG wenn Werk genutzt wurde; Nutzer: Mitverantwortung |
+| Trainingsdaten enthalten geschütztes Material | Anbieter: Verletzung § 97 UrhG, es sei denn TDM-Privilege greift |
+| KI-Output verletzt Marke | § 14 MarkenG; ggf. § 15 MarkenG (Unternehmenskennzeichen) |
+| Fehlerhafte KI-Empfehlung im Rechtsbereich | Keine spezifische KI-Norm; allgemeines Deliktsrecht §§ 823 ff. BGB |
+
+## EU AI Act (Verordnung 2024/1689)
+
+**Relevanz für IP-Praktiker:**
+- Art. 53 EU AI Act: Anbieter von Allzweck-KI-Modellen müssen Trainingsrichtlinien und TDM-Compliance dokumentieren.
+- Opt-out-Vorbehalte müssen respektiert werden (Verbindung zu § 44b UrhG).
+- Hochrisiko-KI-Systeme: zusätzliche Transparenz- und Dokumentationspflichten.
+- Bußgelder: bis 35 Mio. € / 7 % des globalen Jahresumsatzes.
+
+## Praktische Handlungsoptionen
+
+### Für Rechteinhaber (Schutz vor KI-Training ohne Erlaubnis)
+1. Maschinenlesbaren Opt-out-Vorbehalt implementieren (`robots.txt`, `noai`-Direktive, Metadaten).
+2. AGB-Klausel: „Verarbeitung durch KI-Systeme ausdrücklich untersagt."
+3. Bei Verstoß: Unterlassungsklage § 97 UrhG + Auskunft § 101 UrhG.
+
+### Für KI-Anbieter / Nutzer
+1. TDM-Compliance prüfen: Opt-out-Vorbehalte systematisch respektieren.
+2. Datenbankherstellerrecht § 87b UrhG beachten (erhebliche Investition).
+3. Lizenzierung von Trainingsdaten vereinbaren.
 
 ## Kaltstart
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+1. Wessen Rechte sind betroffen: Rechteinhaber (Schutz) oder KI-Anbieter / Nutzer (Compliance)?
+2. Geht es um Trainingsdaten-Nutzung oder KI-generierten Output?
+3. Besteht ein Opt-out-Vorbehalt des Rechteinhabers?
+4. Welcher konkrete Verstoß (TDM ohne Erlaubnis / UrhR-verletzender Output)?
+5. Output: Compliance-Memo, Abmahnungs-Entwurf, Opt-out-Muster, Risikoampel?
 
 ## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `fachanwalt-gewerblicher-rechtsschutz`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+Anschluss-Skills: `spezial-urhg-livequellen-und-rechtsprechungscheck`, `uwg-systematik-und-anwendung`, `fachanwalt-gewrechts-ki-vo-50-genai`.
 
 ## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- UrhG, DSM-RL, EU AI Act: [gesetze-im-internet.de](https://www.gesetze-im-internet.de), [eur-lex.europa.eu](https://eur-lex.europa.eu).
+- EuGH: [curia.europa.eu](https://curia.europa.eu); BGH: [bgh.de](https://www.bundesgerichtshof.de).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf (insb. EU AI Act Umsetzungsstand) ausdrücklich markieren.
 
 ## Was dieser Skill nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+- Keine technische Beratung zu KI-Architekturen.
+- Kein Ersatz für vollständige Mandantenberatung.

@@ -1,48 +1,126 @@
 ---
 name: spezial-euipo-internationaler-bezug-und-schnittstellen
-description: "Euipo: Internationaler Bezug und Schnittstellen im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "EUIPO: Internationale Schnittstellen und Verfahren. Unionsmarke UMV, GGM-Verfahren, EUIPO-Beschwerdekammer, EuGH-Vorabentscheidungen, IR-Marke Madrider System, TM5/IP5, WIPO-Schnittstellen, nationale Designierung über Hague-System."
 ---
 
-# Euipo: Internationaler Bezug und Schnittstellen
+# EUIPO: Internationale Bezüge und Schnittstellen
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-gewerblicher-rechtsschutz`. Ausgangspunkt ist: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfuegung Verletzungsklage Lizenzanaloger Schadensersatz.
+Dieser Skill behandelt EUIPO-Verfahren mit internationalem Bezug: Unionsmarken, GGM, IR-Marken, Beschwerdekammer, EuGH-Vorabentscheidungen und Schnittstellen zu WIPO.
 
-Er führt durch **Internationaler Bezug und Schnittstellen** im Themenfeld **Euipo**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Rechtsrahmen
 
+| Norm | Inhalt |
+|---|---|
+| UMV (VO 2017/1001) | Unionsmarkenverordnung: Anmeldung, Verletzung, Widerspruch, Nichtigkeit |
+| GGV (VO 6/2002) | Gemeinschaftsgeschmacksmuster-Verordnung |
+| Art. 165 ff. UMV | Schnittstelle IR-Marke (Madrider Protokoll) |
+| Madrider Protokoll (PMMA) | Internationale Markenanmeldung über WIPO |
+| Haager System (HMA) | Internationale Designanmeldung über WIPO |
+| Art. 267 AEUV | EuGH-Vorabentscheidungsverfahren |
+| RL 2015/2436 | Markenrechts-Richtlinie (Angleichung nationale Markenrechte) |
 
-## Fachlicher Zuschnitt
+## EUIPO-Verfahrensübersicht
 
-- **Thema:** Euipo.
-- **Arbeitsfokus:** Internationaler Bezug und Schnittstellen.
-- **Plugin-Rahmen:** Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahn....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### Anmeldeverfahren Unionsmarke
+
+```
+Online-Einreichung bei EUIPO (euipo.europa.eu)
+       ↓
+Formelle Prüfung (Klassen, Abbildung, Beschreibung)
+       ↓
+Absolute Schutzhindernisse prüfen (Art. 7 UMV)
+       ↓
+Bekanntmachung im EUIPO-Amtsblatt
+       ↓
+Widerspruchsfrist: 3 Monate ab Bekanntmachung
+       ↓
+Eintragung oder Widerspruchsverfahren
+       ↓
+Gültig in allen 27 EU-Mitgliedstaaten
+```
+
+### Widerspruchsverfahren EUIPO
+
+| Aspekt | Inhalt |
+|---|---|
+| Grundlage | Art. 46 UMV |
+| Frist | 3 Monate ab Bekanntmachung |
+| Gebühr | 320 € |
+| Ältere Rechte | Unionsmarke, nationale Marke, bekannte Marke, Unternehmenskennzeichen |
+| Beweispflicht | Inhaberschaft + Schutzrechtsnachweis |
+| Nichtbenutzungseinrede | Wenn ältere Marke > 5 Jahre: Benutzungsnachweis durch Widersprechenden |
+
+### Nichtigkeits- und Verfallsverfahren EUIPO
+
+| Verfahren | Norm | Kosten |
+|---|---|---|
+| Nichtigkeit (absolute Gründe) | Art. 59 UMV | 1.000 € |
+| Nichtigkeit (relative Gründe) | Art. 60 UMV | 1.000 € |
+| Verfall | Art. 58 UMV | 1.000 € |
+| GGM-Nichtigkeit | Art. 52 GGV | 350 € |
+
+## Beschwerdekammer EUIPO
+
+- Beschwerde gegen Entscheidungen der Prüfungsabteilung oder Widerspruchsabteilung: Frist 2 Monate.
+- Gebühr: 720 € (Marken).
+- Entscheidungen der BK: Beschwerde zum **EuG** (Gericht der EU), dann EuGH.
+- Rechtsprechung der Beschwerdekammern: [euipo.europa.eu/tunnel-web/secure/webdav/guest/document_library/contentPdfs/about_euipo/who_we_are/consolidated_decisions_en.pdf](https://euipo.europa.eu/ohimportal/en/decisions)
+
+## IR-Marke: Schnittstelle WIPO / EUIPO
+
+### Zentralanmeldung über WIPO
+1. Basismarke in Heimatland (z.B. DPMA-Marke) als Ausgangspunkt.
+2. IR-Antrag beim DPMA als Übermittlungsbehörde (§§ 119 ff. MarkenG).
+3. WIPO registriert IR-Marke und notifiziert gewählte Länder.
+4. Länder haben 12–18 Monate Zeit zur Zurückweisung (provisorische Ablehnung).
+5. Wenn kein Widerspruch: Schutz entsteht im jeweiligen Land.
+
+### Designierung EU über IR-Marke
+- EU kann als Designierungsland benannt werden.
+- EUIPO prüft wie bei direkter UM-Anmeldung.
+- Vorteil: Eine IR-Marke deckt DE + EU + weitere Länder ab.
+
+## Haager System: Internationale Designanmeldung
+
+| Aspekt | Inhalt |
+|---|---|
+| Grundlage | Haager Abkommen + WIPO |
+| Verwaltung | WIPO (ipportal.wipo.int) |
+| Designierbarkeit EU | Ja; EUIPO prüft GGV-Anforderungen |
+| Gebühren | WIPO-Grundgebühr + Designierungsgebühr je Land/Region |
+| Schutzfrist | Je nach Land; EU: 5 Jahre verlängerbar bis 25 Jahre |
+
+## EuGH-Leitentscheidungen (ausgewählte Themen)
+
+| Thema | Aussage | Quelle |
+|---|---|---|
+| Verwechslungsgefahr | Gesamtabwägung; Ähnlichkeit Zeichen + Waren; Wechselwirkungsgrundsatz | EuGH, Rs. C-39/97 – Canon |
+| Bekannte Marke | Schutz auch ohne Verwechslungsgefahr bei Rufausbeutung / Schädigung | EuGH, Rs. C-292/00 – Davidoff |
+| Erschöpfung | Erstmaliges IVB im EWR; kein Verbot bei Reimport aus EWR | EuGH, Rs. C-355/96 – Silhouette |
+
+*Alle Entscheidungen live prüfen: [curia.europa.eu](https://curia.europa.eu)*
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+1. Welches Schutzrecht ist betroffen (Unionsmarke / GGM / IR-Marke)?
+2. In welchem Verfahrensstadium steht die Sache (Anmeldung / Widerspruch / Nichtigkeit / Beschwerde)?
+3. Gibt es eine internationale Komponente (IR-Marke, Hague System)?
+4. Welche Fristen laufen (Widerspruchsfrist, Beschwerdegrenze)?
+5. Output: Verfahrensübersicht, Strategie-Memo, Beschwerdeschreiben-Gerüst?
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Euipo** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+## Anschluss-Skills
+- `spezial-dpma-mehrparteien-konflikt-und-interessen` – DPMA-Widerspruchsverfahren.
+- `gr-uebersetzung-marke-osterreich-schweiz-spezial` – DACH-Schnittstellen.
+- `faevvollzug-neu-007-grenzueberschreitende-ip-eilverfuegung` – Grenzüberschreitende EV.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- UMV, GGV: [eur-lex.europa.eu](https://eur-lex.europa.eu).
+- EUIPO: [euipo.europa.eu](https://euipo.europa.eu).
+- WIPO: [wipo.int](https://www.wipo.int).
+- EuGH: [curia.europa.eu](https://curia.europa.eu).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Was dieser Skill nicht macht
+- Keine länderspezifische IP-Beratung für Nicht-EU-Länder ohne Quellenverifizierung.
+- Kein Ersatz für vollständige Mandantenberatung.

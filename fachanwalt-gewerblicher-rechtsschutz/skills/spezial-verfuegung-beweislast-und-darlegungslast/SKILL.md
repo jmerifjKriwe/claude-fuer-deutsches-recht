@@ -1,48 +1,132 @@
 ---
 name: spezial-verfuegung-beweislast-und-darlegungslast
-description: "Verfuegung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Einstweilige Verfügung: Beweislast und Darlegungslast. Glaubhaftmachung § 294 ZPO, Verfügungsanspruch und Verfügungsgrund, eidesstattliche Versicherung, Gegenglaubhaftmachung, sekundäre Darlegungslast, Beweismittel im Eilverfahren."
 ---
 
-# Verfuegung: Beweislast, Darlegungslast und Substantiierung
+# Einstweilige Verfügung: Beweislast und Darlegungslast
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-gewerblicher-rechtsschutz`. Ausgangspunkt ist: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfuegung Verletzungsklage Lizenzanaloger Schadensersatz.
+Dieser Skill behandelt die Darlegungs- und Beweislast in einstweiligen Verfügungsverfahren: Glaubhaftmachung von Verfügungsanspruch und -grund, Mittel und Grenzen.
 
-Er führt durch **Beweislast, Darlegungslast und Substantiierung** im Themenfeld **Verfuegung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Rechtsrahmen
 
+| Norm | Inhalt |
+|---|---|
+| § 920 Abs. 2 ZPO | Glaubhaftmachung: Verfügungsanspruch und Verfügungsgrund |
+| § 294 ZPO | Mittel der Glaubhaftmachung: Urkunden, eidesstattliche Versicherung, alle Beweismittel |
+| § 935 ZPO | Einstweilige Verfügung: Sicherung des Anspruchs |
+| § 940 ZPO | Einstweilige Verfügung zur Regelung eines Zustands |
+| § 936 ZPO | Verweisung auf Arrestvorschriften |
+| § 12 Abs. 1 UWG | Dringlichkeitsvermutung im Lauterkeitsrecht |
+| § 286 ZPO | Freie Beweiswürdigung (Hauptsache) |
+| § 294 Satz 2 ZPO | Sofortiger Beweis durch Glaubhaftmachungsmittel; keine Vereidigung nötig |
 
-## Fachlicher Zuschnitt
+## Verfügungsanspruch – Darlegungsanforderungen
 
-- **Thema:** Verfuegung.
-- **Arbeitsfokus:** Beweislast, Darlegungslast und Substantiierung.
-- **Plugin-Rahmen:** Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahn....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### Was muss dargelegt werden?
+
+| Element | Inhalt | Beweismittel |
+|---|---|---|
+| Schutzrecht | Inhaber, Registernummer, Schutzbereich, Schutzfähigkeit | Registerauszug (DPMA/EUIPO) |
+| Verletzungshandlung | Wann, wo, wie, durch wen | Screenshot, Testkauf, eV Mandant |
+| Aktivlegitimation | Schutzrechtsinhaber oder bevollmächtigter Lizenznehmer | Registerauszug, Lizenzvertrag |
+| Verletzungsform | Identisch / ähnlich; Verwechslungsgefahr; Tatbestandsmerkmale | Vergleichsmaterial |
+
+### Glaubhaftmachungsgrad
+
+- **Kein voller Beweis** nötig (§ 294 ZPO): überwiegende Wahrscheinlichkeit genügt.
+- Eidesstattliche Versicherung des Mandanten als zentrales Instrument.
+- Sachverständige können auch im EV-Verfahren eingesetzt werden, aber zeitkritisch.
+
+## Verfügungsgrund – Darlegungsanforderungen
+
+### Dringlichkeit
+
+| Schutzrecht / Rechtsbereich | Dringlichkeit |
+|---|---|
+| UWG | Gesetzliche Vermutung § 12 Abs. 1 UWG; widerlegt bei Selbstwiderlegung |
+| MarkenG, PatG, DesignG | Keine Vermutung; muss dargelegt werden: Kenntnisdatum, Erstmalige Verletzung, Eilbedürfnis |
+| UrhG | Keine Vermutung; wie IP allgemein |
+
+### Selbstwiderlegung vermeiden
+
+- Dringlichkeit ist **widerlegt**, wenn der Antragsteller zu lange zugewartet hat nach Kenntnis vom Verstoß.
+- Faustregel nach Kammer: Hamburg ~4 Wochen; München ~4 Wochen; Düsseldorf ~4 Wochen; Köln ~6 Wochen (Einzelfälle variieren).
+- **Tipp:** Kenntniszeitpunkt genau dokumentieren; sofort handeln nach Kenntnis.
+
+## Eidesstattliche Versicherung (eV) – Muster
+
+```
+Eidesstattliche Versicherung
+
+Ich, [Name, Geburtsdatum], wohnhaft [Adresse], versichere an Eides statt
+und erkläre folgendes:
+
+1. [Mandant] betreibt [Unternehmen / Schutzrecht].
+
+2. Am [Datum] habe ich auf der Website [URL] / in [Medium] folgende
+   Verletzungshandlung festgestellt: [Beschreibung].
+
+3. [Screenshot / Testkauf / Muster] ist als Anlage [X] beigefügt und
+   gibt den Sachverhalt zutreffend wieder.
+
+4. Von diesem Sachverhalt hatte ich erstmals am [Datum] Kenntnis.
+
+5. Diese Erklärung gebe ich wahrheitsgemäß ab.
+
+[Ort, Datum]
+[Unterschrift]
+
+Ich bin mir bewusst, dass eine vorsätzlich oder grob fahrlässig falsche
+eidesstattliche Versicherung nach § 156 StGB strafbar ist.
+```
+
+## Gegenglaubhaftmachung durch Antragsgegner
+
+| Strategie Antragsgegner | Ziel |
+|---|---|
+| Eigene eidesstattliche Versicherung | Sachverhalt bestreiten |
+| Schutzschrift (ZSSR) | Gegenvortrag zu Verfügungsanspruch und -grund |
+| Sofortiger Widerspruch | Mündliche Verhandlung erzwingen (§ 924 ZPO) |
+| Einwand fehlender Dringlichkeit | Selbstwiderlegung der Antragstellerin darlegen |
+
+## Sekundäre Darlegungslast
+
+Bei bestimmten Sachverhalten (Verletzungsumfang, Herstellungsprozesse, Lieferkette) obliegt dem Antragsgegner eine sekundäre Darlegungslast, wenn er die Informationen exklusiv besitzt.
+
+- BGH-Grundsatz: Wer über Informationen allein verfügt, muss substantiiert bestreiten oder darlegen.
+- Anwendung im IP-Recht: Herkunft der Ware; Importmengen; technische Herstellungsdetails.
+
+## Checkliste Darlegungs- und Beweislast EV
+
+| Prüfpunkt | Erledigt? |
+|---|---|
+| Schutzrecht belegt (Registerauszug) | ☐ |
+| Verletzungshandlung konkret dargelegt und datiert | ☐ |
+| Kenntnisdatum dokumentiert (Selbstwiderlegungsschutz) | ☐ |
+| Eidesstattliche Versicherung unterschrieben | ☐ |
+| Anlagen nummeriert und dem Gericht übergeben | ☐ |
+| Dringlichkeit dargelegt (UWG: Vermutung; sonst: positiv) | ☐ |
+| Gegenglaubhaftmachung der Gegenseite antizipiert | ☐ |
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+1. Liegt eine eigene eV vor oder muss sie noch aufgesetzt werden?
+2. Ist das Kenntnisdatum dokumentiert?
+3. Welche weiteren Glaubhaftmachungsmittel liegen vor (Testkauf, Screenshots)?
+4. Hat die Gegenseite eine Schutzschrift hinterlegt?
+5. Output: eV-Muster, Checkliste, Dringlichkeits-Memo, Gegenglaubhaftmachungs-Analyse?
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Verfuegung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+## Anschluss-Skills
+- `faevvollzug-neu-008-qualitaetsgate-vor-vollziehung` – Qualitätsgate.
+- `spezial-gewerblichen-tatbestand-beweis-und-belege` – Beweismittelübersicht.
+- `faevvollzug-neu-005-gegnerische-schutzschrift-auswerten` – Schutzschrift.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- ZPO: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/); MarkenG, UWG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Rechtsprechung: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bgh.de](https://www.bundesgerichtshof.de).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Was dieser Skill nicht macht
+- Keine Bewertung der Dringlichkeit ohne Kenntnis des konkreten Kenntnisdatums.
+- Kein Ersatz für vollständige Mandantenberatung.

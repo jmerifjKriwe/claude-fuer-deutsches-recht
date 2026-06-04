@@ -1,63 +1,107 @@
 ---
 name: influencer-marketing-uwg-spezial
-description: "Influencer-Marketing UWG-Spezial: Trennungsgebot Werbung und redaktioneller Inhalt, Kennzeichnungspflicht (Werbung, Anzeige), BGH-Cathy-Hummels-Linie 2021, kein Influencer-Privileg fuer eigene Produkte. Pruefraster und Abwehrlinie gegen Verbandsklagen."
+description: "Influencer-Marketing und UWG: Kennzeichnungspflicht Werbung § 5a UWG, § 6 TMG, MStV, BGH 'Influencer'-Entscheidungen, organische vs. bezahlte Posts, Schleichwerbung, Abmahnpraxis, Plattformregeln Instagram/TikTok/YouTube, DS-GVO-Schnittstellen."
 ---
 
-# Influencer-Marketing UWG
+# Influencer-Marketing und UWG
 
 ## Aufgabe
-Influencer-Marketing UWG-Spezial: Trennungsgebot Werbung und redaktioneller Inhalt, Kennzeichnungspflicht (Werbung, Anzeige), BGH-Cathy-Hummels-Linie 2021, kein Influencer-Privileg fuer eigene Produkte.
+Dieser Skill behandelt die lauterkeitsrechtlichen Anforderungen an Influencer-Marketing: Kennzeichnungspflicht, Schleichwerbungsverbot, Abmahnpraxis und aktuelle BGH-Rechtsprechung.
 
+## Rechtsrahmen
 
-## Fachlicher Arbeitskern
+| Norm | Inhalt |
+|---|---|
+| § 5a Abs. 1 UWG | Irreführung durch Unterlassen: Vorenthaltung wesentlicher Information |
+| § 5a Abs. 4 UWG (a.F.) / § 5b UWG (n.F.) | Kennzeichnungspflicht kommerzieller Kommunikation |
+| § 6 Abs. 1 Nr. 1 TMG | Erkennbarkeit kommerzieller Kommunikation |
+| § 22 MStV (Medienstaatsvertrag) | Werbung in Telemedien: Kennzeichnungsgebot |
+| §§ 3, 7 RStV (alt) | Weitgehend durch MStV ersetzt |
+| Anhang zu § 3 Abs. 3 UWG Nr. 11 | Redaktionell getarnte Werbung: per se unlauter |
+| AVMD-RL (RL 2018/1808) | EU-Richtlinie audiovisuelle Mediendienste: Product Placement, Werbung |
 
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `fachanwalt-gewerblicher-rechtsschutz` zum Thema `influencer-marketing-uwg-spezial`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Influencer-Marketing UWG-Spezial: Trennungsgebot Werbung und redaktioneller Inhalt, Kennzeichnungspflicht (Werbung, Anzeige), BGH-Cathy-Hummels-Linie 2021, kein Influencer-Privileg fuer eigene Produkte. Pruefraster und Abwehrlinie gegen Verbandsklagen..
+## BGH-Leitentscheidungen zum Influencer-Marketing
 
-Arbeite deshalb fallnah:
+| Entscheidung | Az. / Datum | Kernaussage |
+|---|---|---|
+| BGH „Influencer I" | I ZR 90/20, 9.9.2021 | Kein kommerzieller Zweck, wenn kein Entgelt und keine geldwerten Vorteile; organische Posts ohne Gegenleistung = keine Kennzeichnungspflicht |
+| BGH „Influencer II" | I ZR 125/20, 9.9.2021 | Verlinkung auf Unternehmenswebsite durch Influencer für eigene Zwecke: kein Werbezweck |
+| BGH „Influencer III" | I ZR 126/20, 9.9.2021 | Entsprechendes zu Tap-Tags; Kennzeichnung erforderlich wenn kommerzielle Zwecke nicht klar erkennbar |
 
-1. **Falltyp erkennen:** Einordnung, ob es um Erstberatung, Anspruchs-/Pflichtenpruefung, Vertrags-/Bescheid-/Schriftsatzarbeit, Strategie oder Fristenrettung geht.
-2. **Entscheidungspunkte bilden:** Welche zwei bis fuenf Weichen entscheiden den Fall wirklich?
-3. **Belege anfordern:** Nur die Unterlagen nachfordern, die fuer diese Weichen gebraucht werden; keine Frageboegen um ihrer selbst willen.
-4. **Spezialwissen anwenden:** Die im Skill genannten Normen, Behoerden, Verfahrensarten, Branchenlogiken oder typischen Streitpunkte sichtbar abarbeiten.
-5. **Nutzbaren Output liefern:** Am Ende steht ein Memo, eine Matrix, ein Textbaustein, ein Schriftsatzgeruest, ein Mandantenbrief oder eine klare Naechste-Schritte-Liste.
+*Alle Entscheidungen live verifizieren: [bgh.de](https://www.bundesgerichtshof.de) und [dejure.org](https://dejure.org).*
 
-Wenn ein anderer Skill desselben Plugins genauer passt, schlage ihn aktiv vor und erklaere in einem Satz, warum der Wechsel die Arbeit beschleunigt.
+## Kennzeichnungspflicht: Wann und wie?
+
+### Wann Kennzeichnung erforderlich?
+
+| Konstellation | Kennzeichnung nötig? |
+|---|---|
+| Entgeltlicher Post (Bargeld, Sachleistung, Rabatt) | **Ja, immer** |
+| Kostenlose Zustellung von Produkten zur Besprechung | **Ja**, wenn Bezug zur Werbung |
+| Organischer Post ohne jede Gegenleistung | Nein (BGH „Influencer I") |
+| Verlinkung auf eigenes Unternehmen / eigene Marke | Nein, wenn eigenwirtschaftlicher Zweck klar |
+| Affiliate-Links mit Provision | **Ja** |
+| Product Placement in Video | **Ja**, gesonderte Kennzeichnung MStV |
+
+### Wie kennzeichnen?
+
+| Plattform | Empfohlene Kennzeichnung |
+|---|---|
+| Instagram (Post / Reel) | „Werbung" oder „Anzeige" am Anfang; bezahlte Partnerschaft-Tool |
+| TikTok | „#Werbung" oder „#Anzeige" deutlich sichtbar |
+| YouTube | „Anzeige" zu Beginn des Videos + Beschreibungsbox |
+| Blog / Website | „Werbung" oder „Sponsored Post" deutlich über dem Inhalt |
+
+**Anforderungen BGH:** Kennzeichnung muss **unverzüglich** erkennbar sein, also vor dem eigentlichen Inhalt oder direkt darunter; nicht erst am Ende oder in Kleindruck.
+
+## Abmahnpraxis
+
+**Typische Abmahner:**
+- Mitbewerber des werbenden Unternehmens (§ 8 Abs. 3 Nr. 1 UWG).
+- Verbraucherverbände (§ 8 Abs. 3 Nr. 3 UWG), z.B. vzbv.
+- Marktüberwachungsbehörden (LFÄ, Landesmedienanstalten).
+
+**Häufige Streitwerte:** 5.000–30.000 € je nach Reichweite des Influencers und wirtschaftlicher Bedeutung.
+
+**Prüfpunkte bei eingehender Abmahnung:**
+1. Liegt überhaupt eine kommerzielle Kommunikation vor?
+2. War die Kennzeichnung objektiv erkennbar?
+3. Ist der Abmahner aktivlegitimiert (§ 8 Abs. 3 UWG)?
+4. Liegt Missbrauch § 8c UWG vor?
+
+## Verantwortlichkeit: Influencer und Unternehmen
+
+| Partei | Haftung |
+|---|---|
+| Influencer | Unmittelbar als Handelnder (§ 2 Abs. 1 Nr. 2 UWG) |
+| Auftraggeber / Marke | Störer oder Mittäter (§ 830 BGB analog); Auftrag umfasst Werbung |
+| Plattform | Keine Haftung für Inhalte Dritter (§ 10 TMG / Art. 6 DSA); außer Kenntnis und Untätigkeit |
+
+## Vertragsgestaltung Influencer-Vertrag (Mindestklauseln)
+
+- Kennzeichnungspflicht ausdrücklich verankern.
+- Haftungsfreistellung bei Verstößen gegen Kennzeichnungspflicht.
+- Freigabeprozess für Posts und Inhalte.
+- Lizenzrechte an Content (§§ 31 ff. UrhG) klären.
+- DS-GVO-Konformität des Datensatzes von Followern.
 
 ## Kaltstart
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+1. Wer ist Mandant: Influencer, Marke / Auftraggeber oder Wettbewerber / Verband?
+2. Welche Posts oder Inhalte sind konkret betroffen?
+3. Liegt eine Abmahnung vor oder soll eine ausgesprochen werden?
+4. Besteht ein Influencer-Vertrag?
+5. Output: Kennzeichnungs-Audit, Abmahnungs-Entwurf, Vertragsprüfung, Reaktionsmemo?
 
 ## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `fachanwalt-gewerblicher-rechtsschutz`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+Anschluss-Skills: `gr-mitbewerberabmahnung-aktivlegitimation-spezial`, `uwg-systematik-und-anwendung`, `gr-abmahnung-workflow`.
 
 ## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- BGH-Entscheidungen: [bgh.de](https://www.bundesgerichtshof.de), [dejure.org](https://dejure.org).
+- Normen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de) (UWG, TMG, MStV).
+- AVMD-RL: [eur-lex.europa.eu](https://eur-lex.europa.eu).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
 ## Was dieser Skill nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+- Keine plattformspezifische Technikberatung (Algorithmus, Reichweite).
+- Kein Ersatz für vollständige Mandantenberatung.

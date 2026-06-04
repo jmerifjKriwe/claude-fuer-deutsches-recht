@@ -1,48 +1,118 @@
 ---
 name: spezial-bezuege-zahlen-schwellen-und-berechnung
-description: "Bezuege: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Streitwerte, Gebühren, Schwellenwerte und Berechnungen im gewerblichen Rechtsschutz: Streitwertrahmen Marke/Patent/Design/UWG, RVG-Gebühren, Gerichtskosten GKG, Schadensersatzberechnung (drei Methoden), DPMA/EUIPO-Gebührentabellen, Vertragsstrafe."
 ---
 
-# Bezuege: Zahlen, Schwellenwerte und Berechnung
+# Bezüge, Zahlen, Schwellen und Berechnung
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-gewerblicher-rechtsschutz`. Ausgangspunkt ist: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfuegung Verletzungsklage Lizenzanaloger Schadensersatz.
+Dieser Skill liefert die wichtigsten Zahlen, Gebühren und Berechnungsrahmen im gewerblichen Rechtsschutz: Streitwerte, Anwaltsgebühren, Gerichtsgebühren, Schadensersatz und Behördengebühren.
 
-Er führt durch **Zahlen, Schwellenwerte und Berechnung** im Themenfeld **Bezuege**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Streitwertrahmen – Orientierungspunkte
 
+*Streitwerte sind einzelfallabhängig. Folgende Spannen spiegeln gängige Praxis wider; Live-Prüfung anhand aktueller BGH/OLG-Rspr. erforderlich.*
 
-## Fachlicher Zuschnitt
+| Verfahrensart | Typischer Streitwertrahmen |
+|---|---|
+| UWG-Abmahnung (einfacher Online-Verstoß) | 5.000–20.000 € |
+| UWG-Abmahnung (irreführende Werbung, branchenrelevant) | 20.000–50.000 € |
+| Markenverletzung (nicht eingetragene Marke) | 25.000–75.000 € |
+| Markenverletzung (eingetragene Marke, identisches Zeichen) | 50.000–250.000 € |
+| Patentrechtliche einstweilige Verfügung | 100.000–500.000 € |
+| Designverletzung | 10.000–100.000 € |
+| Urheberrechtliche Abmahnung (Bild / Text) | 1.000–20.000 € |
+| Hauptsacheklage Markenverletzung | Ab 50.000 € |
 
-- **Thema:** Bezuege.
-- **Arbeitsfokus:** Zahlen, Schwellenwerte und Berechnung.
-- **Plugin-Rahmen:** Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahn....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+## RVG-Gebühren (Auszug)
+
+*RVG-Vergütungstabellen: Anlage 2 RVG – stets live prüfen bei [gesetze-im-internet.de/rvg](https://www.gesetze-im-internet.de/rvg/).*
+
+| Gebührentatbestand | RVG VV | Faktor |
+|---|---|---|
+| Geschäftsgebühr (Abmahnung, außergerichtlich) | Nr. 2300 | 0,5–2,5 (Regelfall 1,3) |
+| Verfahrensgebühr (Klage, EV-Antrag) | Nr. 3100 | 1,3 |
+| Terminsgebühr (mündliche Verhandlung) | Nr. 3104 | 1,2 |
+| Einigungsgebühr | Nr. 1000 | 1,5 |
+| Abschlussschreiben | Nr. 2300 | 1,3 |
+| Auslagenpauschale | Nr. 7002 | 20 € (max.) |
+
+**Beispiel Streitwert 50.000 €:**
+- Geschäftsgebühr 1,3 × Tabellenwert (Anlage 2 RVG): 1.641 €
+- Auslagen: 20 €
+- USt. 19 %: 311,79 €
+- Gesamt: 1.972,79 €
+
+## Gerichtskosten GKG (Auszug)
+
+*GKG-Tabellen: Anlage 2 GKG – live prüfen.*
+
+| Verfahren | GKG-Gebühr |
+|---|---|
+| Klage (Streitwert 50.000 €) | 3 Gerichtsgebühren = 1.695 € (ca.) |
+| EV-Antrag (Streitwert 50.000 €) | 1,5 Gebühren = 847,50 € (ca.) |
+| Widerspruchsverfahren (UWG) | je nach Verfahrensabschnitt |
+| Berufung | 4,0 Gebühren |
+
+## DPMA-Gebühren (Auszug, live prüfen bei [dpma.de/gebuehren](https://www.dpma.de/dpma/gebuehren/index.html))
+
+| Verfahren | Gebühr (ca.) |
+|---|---|
+| Markenanmeldung (bis 3 Klassen) | 290 € (online) |
+| Markenanmeldung (jede weitere Klasse) | 100 € |
+| Markenverlängerung (10 Jahre) | 750 € |
+| Widerspruch gegen Marke | 250 € |
+| Löschungsantrag (Nichtigkeit) | 300 € |
+| Gebrauchsmuster-Anmeldung | 30 € (online) |
+| Design-Anmeldung (1 Design) | 70 € (online) |
+
+## EUIPO-Gebühren (Auszug, live prüfen bei [euipo.europa.eu/fees](https://euipo.europa.eu/ohimportal/en/fees-and-payments))
+
+| Verfahren | Gebühr (ca.) |
+|---|---|
+| Unionsmarken-Anmeldung (1 Klasse) | 850 € (online) |
+| Unionsmarken-Anmeldung (2. Klasse) | 50 € |
+| Unionsmarken-Anmeldung (ab 3. Klasse) | 150 € je weitere |
+| Verlängerung Unionsmarke | 850 € (1. Klasse) |
+| Widerspruch Unionsmarke | 320 € |
+| GGM-Anmeldung | 350 € (1 Design) |
+
+## Schadensersatzberechnung (drei Methoden)
+
+### Methode 1: Konkreter Schaden
+Entgangener Gewinn + nachgewiesener Schaden.
+- Schwierig zu beziffern; Anforderungen an Kausalitätsnachweis hoch.
+
+### Methode 2: Verletzergewinn
+- Einnahmen des Verletzers aus der Verletzungshandlung.
+- Auskunft und Rechnungslegung § 140b PatG / § 19 MarkenG / § 46 DesignG / § 101 UrhG vorab erwirken.
+
+### Methode 3: Lizenzanalogie (fiktive Lizenzgebühr)
+- Fiktiver Lizenzbetrag bei hypothetischem Lizenzvertrag.
+- Marktübliche Lizenzsätze je Branche (live recherchieren; keine pauschalen Modellwerte).
+- Zuschlag für „Verletzerbonus" (Zinsen, Mehrwert).
+
+## Vertragsstrafe
+
+| Typ | Höhe | Anmerkung |
+|---|---|---|
+| Hamburger Brauch | „nach billigem Ermessen des Gläubigers" mit Reduktionsvorbehalt | Flexibel; OLG-Prüfung angemessen? |
+| Feste Vertragsstrafe | Betrag festgelegt (z.B. 5.000 €) | Klar, aber unflexibel |
+| Gestaffelte Strafe | Höhe je nach Schwere / Wiederholung | Bei komplexen UE-Vereinbarungen |
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Bezuege** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+1. Welcher Streitwert ist anzusetzen (Rechtsverletzung, Branche, Reichweite)?
+2. Welche Gebühren sollen berechnet werden (Anwaltsgebühren, Gerichtskosten, Behördengebühren)?
+3. Schadensersatz: Welche Methode ist sinnvoll (konkreter Schaden / Verletzergewinn / Lizenzanalogie)?
+4. Liegt eine Vertragsstrafe vor und ist diese zu beziffern?
+5. Output: Gebührentabelle, Kostenrechnung, Schadensersatzberechnung, Streitwert-Memo?
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- RVG: [gesetze-im-internet.de/rvg](https://www.gesetze-im-internet.de/rvg/); GKG: [gesetze-im-internet.de/gkg](https://www.gesetze-im-internet.de/gkg/).
+- DPMA: [dpma.de/dpma/gebuehren](https://www.dpma.de/dpma/gebuehren/); EUIPO: [euipo.europa.eu/ohimportal/en/fees-and-payments](https://euipo.europa.eu/ohimportal/en/fees-and-payments).
+- Keine Berechnung aus Modellwissen ohne Live-Prüfung aktueller Tabellen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Was dieser Skill nicht macht
+- Keine verbindlichen Kostenberechnungen ohne vollständige Daten.
+- Kein Ersatz für vollständige Mandantenberatung.
+- Keine Garantie für Streitwertfestsetzung durch Gerichte (einzelfallabhängig).

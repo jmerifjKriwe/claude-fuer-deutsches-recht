@@ -1,48 +1,118 @@
 ---
 name: spezial-gebrmg-verhandlung-vergleich-und-eskalation
-description: "Gebrmg: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Gebrauchsmusterrecht: Verhandlung, Vergleich und Eskalation. GebrMG §§ 1–25, Abgrenzung zum Patent, Schutzansprüche, Verletzungsklage, Löschungsverfahren DPMA, Vergleichsoptionen, Eskalationspfade und Kostenabwägung."
 ---
 
-# Gebrmg: Verhandlung, Vergleich und Eskalation
+# Gebrauchsmusterrecht: Verhandlung, Vergleich und Eskalation
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-gewerblicher-rechtsschutz`. Ausgangspunkt ist: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfuegung Verletzungsklage Lizenzanaloger Schadensersatz.
+Dieser Skill behandelt das Gebrauchsmusterrecht in der Praxis: Schutzvoraussetzungen, Abgrenzung zum Patent, Verletzungsverfahren, Verhandlungs- und Vergleichsstrategie und Eskalationspfade.
 
-Er führt durch **Verhandlung, Vergleich und Eskalation** im Themenfeld **Gebrmg**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Rechtsrahmen
 
+| Norm | Inhalt |
+|---|---|
+| § 1 GebrMG | Schutzgegenstand: räumlich-körperliche Gebilde; Neuheit + erfinderischer Schritt |
+| § 3 GebrMG | Neuheit: nicht Stand der Technik; 6-Monats-Neuheitsschonfrist (§ 3 Abs. 1 S. 3 GebrMG) |
+| § 4 GebrMG | Erfinderischer Schritt (niedrigere Schwelle als PatG) |
+| §§ 11–19 GebrMG | Verfahren: Anmeldung, Eintragung ohne Sachprüfung, Schutzdauer |
+| § 13 GebrMG | Schutzdauer: 3 Jahre, verlängerbar bis 10 Jahre |
+| § 17 GebrMG | Umwandlungsantrag Patent → Gebrauchsmuster |
+| §§ 23 ff. GebrMG | Löschungsantrag beim DPMA |
+| § 24 GebrMG | Löschungsgründe: fehlende Schutzvoraussetzungen, älteres Recht |
+| §§ 139 ff. PatG | Verletzungsansprüche (analog anwendbar auf GebrM) |
 
-## Fachlicher Zuschnitt
+## Abgrenzung Gebrauchsmuster – Patent
 
-- **Thema:** Gebrmg.
-- **Arbeitsfokus:** Verhandlung, Vergleich und Eskalation.
-- **Plugin-Rahmen:** Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahn....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+| Merkmal | Gebrauchsmuster | Patent |
+|---|---|---|
+| Schutzgegenstand | Räumlich-körperliche Gebilde (keine Verfahren) | Erzeugnisse und Verfahren |
+| Sachprüfung | Nein (nur formal) | Ja (vollständige Prüfung) |
+| Erteilungsdauer | Wochen | 2–5 Jahre |
+| Schutzdauer | Max. 10 Jahre | Max. 20 Jahre |
+| Neuheitsschonfrist | Ja, 6 Monate | Nein (außer Ausnahmen EPÜ) |
+| Schwelle Erfinderischer Schritt | Niedriger | Höher (erfinderische Tätigkeit §§ 1, 4 PatG) |
+| Löschungsverfahren | DPMA (§ 23 GebrMG) | BPatG (§ 81 PatG) |
+| Kosten | Günstiger | Höher |
+
+## Verletzungsverfahren
+
+### Verletzungsansprüche
+- Entsprechend §§ 139 ff. PatG: Unterlassung, Schadensersatz, Auskunft, Vernichtung.
+- Aktivlegitimiert: eingetragener Inhaber, ausschließlicher Lizenznehmer.
+- Gerichtsstand: LG mit Patentkammer (§ 143 PatG analog; zuständige LG).
+
+### Einwand fehlender Schutzfähigkeit im Verletzungsverfahren
+- Nichtigkeitseinwand im Verletzungsprozess: Gericht setzt ggf. aus bis DPMA-Löschungsentscheidung.
+- Paralleler Löschungsantrag beim DPMA als Strategie.
+
+## Löschungsverfahren DPMA (§§ 23–25 GebrMG)
+
+| Aspekt | Inhalt |
+|---|---|
+| Antragsteller | Jedermann |
+| Gründe | § 24 GebrMG: fehlende Schutzfähigkeit, entgegenstehender Stand der Technik, älteres Recht |
+| Gebühr | 300 € |
+| Verfahren | Schriftlich; DPMA entscheidet; Beschwerde BPatG |
+| Wirkung | Ex-tunc-Löschung |
+
+## Verhandlung und Vergleich
+
+### Wann Vergleich sinnvoll?
+
+| Konstellation | Vergleich sinnvoll? |
+|---|---|
+| Schutzbereich des GebrM unsicher; Löschungsrisiko hoch | Ja: Vergleich limitiert Risiko |
+| Gegenseite hat starke technische Gegenargumente | Ja: Kreuz-Lizenz oder Koexistenz |
+| Mandant braucht schnelle Kostenlösung | Ja: schnelle Einigung |
+| Verletzung eindeutig, Gegenseite hat keine Ressourcen | Eher Unterlassung durchsetzen |
+
+### Vergleichsoptionen
+
+| Option | Inhalt |
+|---|---|
+| Koexistenzvereinbarung | Beide Parteien können Technologie in definierten Bereichen nutzen |
+| Kreuz-Lizenz | Gegenseitige Nutzungsrechte; keine Zahlungen |
+| Einfache Lizenz | Verletzter zahlt Lizenzgebühr; Nutzung erlaubt |
+| Aufgabe des GebrM gegen Vergleichssumme | Inhaber gibt Schutzrecht auf |
+
+## Eskalationspfad
+
+```
+Verletzung festgestellt
+       ↓
+Abmahnung (mit Unterlassungsforderung)
+       ↓
+Reaktion: UE abgegeben? → Vergleich / Abschluss
+       ↓
+Keine ausreichende UE → EV-Antrag oder Klage
+       ↓
+Parallele Strategie: Löschungsantrag DPMA prüfen (Gegenseite)
+       ↓
+Verhandlung nach Klagezustellung: Vergleich prüfen
+       ↓
+Urteil → ggf. Berufung
+```
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+1. Welches Gebrauchsmuster ist betroffen (Nummer, Anmeldetag, Schutzbereich)?
+2. Liegt eine Verletzungshandlung oder ein Löschungsangriff vor?
+3. Besteht Vergleichsbereitschaft der Gegenseite?
+4. Wie ist das Verhältnis GebrM / entsprechendes Patent der Gegenseite?
+5. Output: Verhandlungs-Memo, Löschungsantrag-Gerüst, Vergleichsoptions-Matrix?
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Gebrmg** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+## Anschluss-Skills
+- `vergleich-statt-streit-strategie` – Vergleichsstrategie allgemein.
+- `spezial-patg-schriftsatz-brief-und-memo-bausteine` – Schriftsatzbausteine Patentrecht.
+- `spezial-schadensersatz-abschlussprodukt-und-uebergabe` – Schadensersatz.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- GebrMG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/gebrmg/); PatG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/patg/).
+- DPMA: [dpma.de](https://www.dpma.de); BPatG: [bundespatentgericht.de](https://www.bundespatentgericht.de).
+- Rechtsprechung: [dejure.org](https://dejure.org), [bgh.de](https://www.bundesgerichtshof.de).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Was dieser Skill nicht macht
+- Keine technische Bewertung der Schutzansprüche ohne Patentschrift und Sachverständige.
+- Kein Ersatz für vollständige Mandantenberatung.

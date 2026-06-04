@@ -1,63 +1,122 @@
 ---
 name: gr-einfuehrung-saeulen
-description: "Einfuehrung Saeulen gewerblicher Rechtsschutz: Markenrecht, Wettbewerbsrecht UWG, Designrecht, Patent- und Gebrauchsmusterrecht, Sortenschutz, Urheberrecht-Schnittstellen. Pro Saeule: Schutzgegenstand, Erwerb, Verteidigung, Wirkungsbereich. Entscheidungstabelle."
+description: "Einführung in den gewerblichen Rechtsschutz: Fünf Säulen (Markenrecht, Patentrecht, Designrecht, Urheberrecht, Lauterkeitsrecht/UWG), FAO-Anforderungen § 14k, Behördenübersicht DPMA/EUIPO/EPA, Verfahrensarten, Schutzrechts-Portfolio."
 ---
 
-# GR: Saeulen einfuehrend
+# Einführung: Die fünf Säulen des gewerblichen Rechtsschutzes
 
 ## Aufgabe
-Einfuehrung Saeulen gewerblicher Rechtsschutz: Markenrecht, Wettbewerbsrecht UWG, Designrecht, Patent- und Gebrauchsmusterrecht, Sortenschutz, Urheberrecht-Schnittstellen.
+Dieser Skill vermittelt den systematischen Überblick über den gewerblichen Rechtsschutz: Rechtsgebiete, Behörden, Schutzrechte, Verfahrensarten und Routing in die passenden Spezial-Skills.
 
+## Die fünf Säulen
 
-## Fachlicher Arbeitskern
+### 1. Markenrecht
 
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `fachanwalt-gewerblicher-rechtsschutz` zum Thema `gr-einfuehrung-saeulen`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Einfuehrung Saeulen gewerblicher Rechtsschutz: Markenrecht, Wettbewerbsrecht UWG, Designrecht, Patent- und Gebrauchsmusterrecht, Sortenschutz, Urheberrecht-Schnittstellen. Pro Saeule: Schutzgegenstand, Erwerb, Verteidigung, Wirkungsbereich. Entscheidungstabelle..
+| Rechtsquelle | Wesentlicher Inhalt |
+|---|---|
+| MarkenG §§ 3, 4 | Schutzfähige Zeichen; Schutzentstehung: Anmeldung, Verkehrsgeltung, notorische Bekanntheit |
+| MarkenG §§ 8–10 | Absolute und relative Schutzhindernisse |
+| MarkenG § 14 | Verletzung: Identitätsschutz, Verwechslungsschutz, Bekanntheitsschutz |
+| MarkenG § 24 | Erschöpfung: erstmalige Inverkehrbringung im EWR |
+| MarkenG §§ 32 ff. | Anmeldung beim DPMA |
+| MarkenG §§ 41 ff. | Widerspruch gegen eingetragene Marken |
+| MarkenG §§ 49 ff. | Verfall und Nichtigkeit |
+| UMV (VO 2017/1001) | Unionsmarke; EUIPO-Verfahren |
+| Madrider Markenabkommen (MMA/PMMA) | Internationale Markenanmeldung (IR-Marke) über WIPO |
 
-Arbeite deshalb fallnah:
+**Typische Mandate:** Markenanmeldung, Widerspruchsverfahren, Verletzungsabmahnung, Erschöpfungseinwand, Verwechslungsgutachten.
 
-1. **Falltyp erkennen:** Einordnung, ob es um Erstberatung, Anspruchs-/Pflichtenpruefung, Vertrags-/Bescheid-/Schriftsatzarbeit, Strategie oder Fristenrettung geht.
-2. **Entscheidungspunkte bilden:** Welche zwei bis fuenf Weichen entscheiden den Fall wirklich?
-3. **Belege anfordern:** Nur die Unterlagen nachfordern, die fuer diese Weichen gebraucht werden; keine Frageboegen um ihrer selbst willen.
-4. **Spezialwissen anwenden:** Die im Skill genannten Normen, Behoerden, Verfahrensarten, Branchenlogiken oder typischen Streitpunkte sichtbar abarbeiten.
-5. **Nutzbaren Output liefern:** Am Ende steht ein Memo, eine Matrix, ein Textbaustein, ein Schriftsatzgeruest, ein Mandantenbrief oder eine klare Naechste-Schritte-Liste.
+### 2. Patentrecht
 
-Wenn ein anderer Skill desselben Plugins genauer passt, schlage ihn aktiv vor und erklaere in einem Satz, warum der Wechsel die Arbeit beschleunigt.
+| Rechtsquelle | Wesentlicher Inhalt |
+|---|---|
+| PatG §§ 1, 3, 4 | Patentierbarkeit: Neuheit, erfinderische Tätigkeit, gewerbliche Anwendbarkeit |
+| PatG § 9 | Ausschließliches Recht des Patentinhabers |
+| PatG §§ 139 ff. | Verletzungsklage: Unterlassung, Schadensersatz, Auskunft, Vernichtung |
+| PatG § 81 | Beschränkungs- und Nichtigkeitsverfahren vor BPatG |
+| EPÜ | Europäisches Patentübereinkommen; EPA-Anmeldeverfahren |
+| PCT | Patent Cooperation Treaty: internationale Patenanmeldung |
+| EPGÜ / UPC | Einheitspatent und Unified Patent Court (ab 2023) |
+| ArbnErfG | Arbeitnehmererfindungen: Meldepflicht, Vergütung, Recht-Übergang |
+
+**Typische Mandate:** Erfindungsmeldung, Patentanmeldung, Verletzungsklage, Nichtigkeitsklage BPatG, UPC-Verfahren.
+
+### 3. Designrecht
+
+| Rechtsquelle | Wesentlicher Inhalt |
+|---|---|
+| DesignG | Nationales Design; Schutzvoraussetzungen Neuheit + Eigenart |
+| GGV (VO 6/2002) | Gemeinschaftsgeschmacksmuster (eingetragen / nicht eingetragen) |
+| § 2 DesignG | Schutzausschluss bei rein technisch bedingten Merkmalen |
+| §§ 38 ff. DesignG | Verletzungstatbestände und Ansprüche |
+
+**Typische Mandate:** Designanmeldung, Verletzungsabmahnung, Nichtigkeitsverfahren, Parallelschutz UrhG.
+
+### 4. Urheberrecht (IP-Schnittstelle)
+
+| Rechtsquelle | Wesentlicher Inhalt |
+|---|---|
+| UrhG § 7 | Urheberpersönlichkeitsrecht: Schöpfer als Urheber |
+| UrhG § 15 | Verwertungsrechte: Vervielfältigung, Verbreitung, öffentliche Zugänglichmachung |
+| UrhG § 31 | Nutzungsrechte: einfach vs. ausschließlich |
+| UrhG § 97 | Unterlassung und Schadensersatz |
+| UrhG § 97a | Abmahnung: Inhalt und Kostenerstattung |
+
+**Typische Mandate:** Software-, Bild-, Text-Piraterie; Designschutz (angewandte Kunst); KI-Trainingsdaten.
+
+### 5. Lauterkeitsrecht (UWG)
+
+| Rechtsquelle | Wesentlicher Inhalt |
+|---|---|
+| § 3 UWG | Generalklausel: unlautere geschäftliche Handlungen |
+| § 5 UWG | Irreführende Werbung |
+| § 5a UWG | Irreführung durch Unterlassen wesentlicher Informationen |
+| § 8 UWG | Unterlassungsanspruch; Aktivlegitimation |
+| § 12 UWG | Einstweilige Verfügung (Dringlichkeitsvermutung) |
+
+**Typische Mandate:** Abmahnung wegen irreführender Werbung, Schleichwerbung, Mitbewerberschutz, Abgrenzung zu Schutzrechtsverletzungen.
+
+## Behörden und Gerichte im Überblick
+
+| Institution | Funktion | Link |
+|---|---|---|
+| DPMA | Anmeldung und Verwaltung dt. Marken, Patente, Designs | [dpma.de](https://www.dpma.de) |
+| EUIPO | Unionsmarken, Gemeinschaftsgeschmacksmuster | [euipo.europa.eu](https://euipo.europa.eu) |
+| EPA | Europäische Patentanmeldungen (EPÜ) | [epo.org](https://www.epo.org) |
+| UPC | Einheitspatent und Streitigkeiten | [unified-patent-court.org](https://www.unified-patent-court.org) |
+| BPatG | Beschränkungs-/Nichtigkeitsverfahren; Beschwerden DPMA | [bundespatentgericht.de](https://www.bundespatentgericht.de) |
+| BGH | Revisionen IP-Sachen (I. ZS: Gewerblicher Rechtsschutz) | [bundesgerichtshof.de](https://www.bundesgerichtshof.de) |
+| WIPO | IR-Marke; UDRP-Domainstreitigkeiten | [wipo.int](https://www.wipo.int) |
+
+## FAO § 14k – Fachanwalt für gewerblichen Rechtsschutz
+
+Besondere praktische Erfahrungen in **drei der fünf Bereiche**: Markenrecht, Patentrecht, Gebrauchsmusterrecht, Designrecht, Urheberrecht, Wettbewerbsrecht – davon mind. zwei IP-Bereiche.
+
+## Routing in Spezialskills
+
+| Falltyp | Empfohlener Skill |
+|---|---|
+| Markenanmeldung und Widerspruch | `fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch` |
+| Abmahnung UWG | `gr-abmahnung-workflow` |
+| Verletzungsklage Patent | `fachanwalt-gewerblicher-rechtsschutz-patent-nichtigkeitsklage` |
+| Designverletzung | `designrecht-praxis-grundlagen` |
+| EV beantragen oder vollziehen | `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung` |
+| UrhG / KI | `ki-trainingsdaten-und-urheberrecht-spezial` |
 
 ## Kaltstart
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `fachanwalt-gewerblicher-rechtsschutz`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+1. Welches Schutzrecht oder welcher Rechtsbereich ist betroffen?
+2. Handelt es sich um Anmeldung, Durchsetzung oder Abwehr?
+3. Welche Behörde / welches Gericht ist involviert?
+4. Gibt es Fristen oder eilige Schritte?
+5. Output: Überblicksmemo, Routing-Empfehlung, Checkliste?
 
 ## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Normen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de), [eur-lex.europa.eu](https://eur-lex.europa.eu).
+- Behörden: [dpma.de](https://www.dpma.de), [euipo.europa.eu](https://euipo.europa.eu), [epo.org](https://www.epo.org).
+- Rechtsprechung: [dejure.org](https://dejure.org), [bgh.de](https://www.bundesgerichtshof.de).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen ausdrücklich markieren.
 
 ## Was dieser Skill nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+- Kein Ersatz für vollständige Mandantenberatung.
+- Kein Einzel-Rechtsgebiet-Tiefgang (dafür Spezial-Skills nutzen).

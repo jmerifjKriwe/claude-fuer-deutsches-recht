@@ -1,48 +1,123 @@
 ---
 name: spezial-rechtsschutz-fristen-form-und-zustaendigkeit
-description: "Rechtsschutz: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Fristen, Form und Zuständigkeit im gewerblichen Rechtsschutz: Klagefrist, Verjährung, Widerspruchsfristen DPMA/EUIPO, Beschwerdefristen BPatG, gerichtliche Zuständigkeit (LG/OLG/BGH), Formvorschriften, elektronischer Rechtsverkehr."
 ---
 
-# Rechtsschutz: Fristen, Form, Zuständigkeit und Rechtsweg
+# Fristen, Form und Zuständigkeit im gewerblichen Rechtsschutz
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-gewerblicher-rechtsschutz`. Ausgangspunkt ist: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfuegung Verletzungsklage Lizenzanaloger Schadensersatz.
+Dieser Skill liefert eine systematische Übersicht der Fristen, Formvorschriften und Zuständigkeiten in allen Teilbereichen des gewerblichen Rechtsschutzes.
 
-Er führt durch **Fristen, Form, Zuständigkeit und Rechtsweg** im Themenfeld **Rechtsschutz**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Verjährungsfristen
 
+| Anspruch | Norm | Frist | Beginn |
+|---|---|---|---|
+| Unterlassung (UWG) | § 11 Abs. 1 UWG | 6 Monate | Kenntnis des Verletzers und der Verletzung |
+| Unterlassung (MarkenG, PatG, UrhG) | § 20 MarkenG; § 141 PatG; § 102 UrhG i.V.m. §§ 195, 199 BGB | 3 Jahre | Ende des Jahres der Kenntnis |
+| Schadensersatz (allgemein) | §§ 195, 199 BGB | 3 Jahre | Ende des Jahres der Kenntnis |
+| Schadensersatz (PatG) | § 141 PatG | 3 Jahre | Wie BGB |
+| Schadensersatz maximal | § 199 Abs. 3, 4 BGB | 10 / 30 Jahre | Taggenau ab Entstehung |
 
-## Fachlicher Zuschnitt
+## Behördliche Fristen
 
-- **Thema:** Rechtsschutz.
-- **Arbeitsfokus:** Fristen, Form, Zuständigkeit und Rechtsweg.
-- **Plugin-Rahmen:** Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahn....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### DPMA
+
+| Verfahren | Frist | Norm |
+|---|---|---|
+| Widerspruch gegen Marke | 3 Monate ab Bekanntmachung | § 42 Abs. 1 MarkenG |
+| Beschwerde gegen DPMA-Entscheidung | 1 Monat ab Zustellung | § 66 Abs. 2 MarkenG |
+| Löschungsantrag (Verfall) | Keine Frist | § 53 MarkenG |
+| Patentgebühr (Jahresgebühr) | Je Fälligkeit; Nachzahlungsfrist 2 Monate (§ 17 Abs. 4 PatG) | § 17 PatG |
+| Einspruch gegen EP-Patent (EPA) | 9 Monate ab Erteilung | Art. 99 EPÜ |
+
+### EUIPO
+
+| Verfahren | Frist | Norm |
+|---|---|---|
+| Widerspruch gegen Unionsmarke | 3 Monate ab Bekanntmachung | Art. 46 UMV |
+| Beschwerde gegen EUIPO-Entscheidung | 2 Monate ab Zustellung | Art. 68 UMV |
+| Verlängerungsantrag Unionsmarke | Vor Ablauf; Nachfrist 6 Monate | Art. 53 UMV |
+| Widerspruch GGM | 3 Monate ab Bekanntmachung | Art. 38 GGV |
+
+## Gerichtliche Fristen
+
+| Frist | Norm | Anmerkung |
+|---|---|---|
+| EV-Vollziehung | § 929 Abs. 2 ZPO | 1 Monat ab Zustellung an Antragsteller |
+| Widerspruch gegen EV | § 924 ZPO | Keine gesetzliche Frist; im Titel angegeben |
+| Berufung | § 517 ZPO | 1 Monat ab Zustellung Urteil |
+| Berufungsbegründung | § 520 Abs. 2 ZPO | 2 Monate ab Zustellung (Urteil) |
+| Revision | § 548 ZPO | 1 Monat ab Zustellung |
+| Revisibegründung | § 551 ZPO | 2 Monate ab Zustellung |
+
+## Gerichtliche Zuständigkeit
+
+### Markenrecht / UWG
+
+| Instanz | Zuständigkeit |
+|---|---|
+| LG (Kammer für Handelssachen / Zivilkammer) | Erstinstanz: ab 5.000 € Streitwert |
+| Konzentrierte Zuständigkeit (MarkenG § 140) | Bestimmte LG (Hamburg, Düsseldorf, München I, Berlin, Köln, Frankfurt, Stuttgart) |
+| OLG | Berufungsinstanz |
+| BGH (I. ZS) | Revision |
+
+### Patentrecht
+
+| Instanz | Zuständigkeit |
+|---|---|
+| LG mit Patentkammer (§ 143 PatG) | Verletzungsklage; konzentriert in Düsseldorf, München I, Mannheim, Hamburg |
+| BPatG | Nichtigkeitsklage (§ 81 PatG); Beschwerden DPMA |
+| BGH (X. ZS für Patent) | Revision Verletzungsklage; Rechtsbeschwerden |
+| UPC | Einheitspatent und klassische EP-Patente (opt-out möglich) |
+
+### Designrecht
+
+| Instanz | Zuständigkeit |
+|---|---|
+| LG (Designkammer, § 52 DesignG) | Erstinstanz |
+| GGM-Gerichte | Hamburg, Düsseldorf, München I |
+| EuG / EuGH | GGM-Beschwerden aus EUIPO-Verfahren |
+
+## Formvorschriften (Auswahl)
+
+| Dokument | Formvorschrift |
+|---|---|
+| Schriftsätze vor Gericht | § 130 ZPO; Schriftform; § 130d ZPO: ERV-Pflicht Anwälte |
+| Vollmacht | § 80 ZPO; Schriftform; auf Rüge vorzulegen |
+| Eidesstaatliche Versicherung | §§ 294, 156 ZPO; eigenhändige Unterschrift |
+| DPMA-Anmeldung | Online oder Papier; § 36 MarkenG |
+| Beachsichtigter Vorbehalt (§ 44b UrhG) | Maschinenlesbar; schriftlich oder AGB |
+
+## Checkliste Fristen und Zuständigkeit
+
+| Prüfpunkt | Frist / Zuständigkeit bekannt? |
+|---|---|
+| Verjährungsfrist Unterlassung / Schadensersatz | ☐ |
+| DPMA / EUIPO-Widerspruchsfrist | ☐ |
+| EV-Vollziehungsfrist (§ 929 Abs. 2 ZPO) | ☐ |
+| Berufungs- / Revisionsfrist | ☐ |
+| Zuständiges Gericht ermittelt | ☐ |
+| ERV-Pflicht beachtet | ☐ |
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+1. Welches Verfahren ist betroffen (Verletzungsklage / EV / Widerspruch / Löschung)?
+2. Welche Fristen laufen und sind diese bereits berechnet?
+3. Welches Gericht / welche Behörde ist zuständig?
+4. Gibt es Formvorschriften, die noch nicht erfüllt sind?
+5. Output: Fristen-Checkliste, Zuständigkeitsmemo, Fristenkalender?
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Rechtsschutz** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+## Anschluss-Skills
+- `workflow-fristen-und-risikoampel` – Automatisierter Fristencheck.
+- `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung` – EV-Fristen.
+- `spezial-bezuege-zahlen-schwellen-und-berechnung` – Kosten.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- ZPO, MarkenG, PatG, DesignG, UrhG, UWG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- EPÜ, UMV: [eur-lex.europa.eu](https://eur-lex.europa.eu), [epo.org](https://www.epo.org).
+- BPatG: [bundespatentgericht.de](https://www.bundespatentgericht.de); BGH: [bgh.de](https://www.bundesgerichtshof.de).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Was dieser Skill nicht macht
+- Keine verbindliche Fristberechnung ohne vollständige Sachverhaltskenntnis.
+- Kein Ersatz für vollständige Mandantenberatung.

@@ -1,63 +1,110 @@
 ---
 name: designrecht-praxis-grundlagen
-description: "Designrecht in der Praxis: GeschmMG nun DesignG, Schutzvoraussetzungen Neuheit und Eigenart, Anmeldung beim DPMA, Gemeinschaftsgeschmacksmuster EUIPO. Verletzungsfolgen, einstweilige Verfuegung, Schadensersatz-Berechnung. Pruefraster fuer Modemarkenpraxis."
+description: "Designrecht in der Praxis: DesignG (ex GeschmMG), Schutzvoraussetzungen Neuheit und Eigenart, Anmeldung DPMA, Gemeinschaftsgeschmacksmuster EUIPO, eingetragenes und nicht eingetragenes Gemeinschaftsgeschmacksmuster. Verletzungsfolgen, einstweilige Verfügung, Schadensersatz-Berechnung. Prüfraster für Modemarkenpraxis."
 ---
 
 # Designrecht in der Praxis
 
 ## Aufgabe
-Designrecht in der Praxis: GeschmMG nun DesignG, Schutzvoraussetzungen Neuheit und Eigenart, Anmeldung beim DPMA, Gemeinschaftsgeschmacksmuster EUIPO.
+Fachbaustein für `fachanwalt-gewerblicher-rechtsschutz`: Designrecht nach DesignG und GGV, Schutzvoraussetzungen Neuheit und Eigenart, Verletzung, Durchsetzung und Strategiewahl.
 
+## Rechtsrahmen
 
-## Fachlicher Arbeitskern
+| Rechtsgrundlage | Inhalt |
+|---|---|
+| § 1 Nr. 1 DesignG | Designbegriff: zweidimensionales oder dreidimensionales Erscheinungsbild |
+| § 2 Abs. 1 DesignG | Schutzvoraussetzungen: Neuheit + Eigenart |
+| § 2 Abs. 2 DesignG | Neuheit: kein identisches Design vor Anmeldetag öffentlich zugänglich gemacht |
+| § 2 Abs. 3 DesignG | Eigenart: Gesamteindruck beim informierten Benutzer unterscheidet sich |
+| § 3 DesignG | Schutzausschlüsse: technisch bedingte Merkmale, must-fit-Ausnahme |
+| § 11 DesignG | Schutzvoraussetzung: sichtbar im Normalgebrauch (Bauelementedesign) |
+| § 27 DesignG | Schutzfrist: 5 Jahre ab Anmeldetag, verlängerbar bis 25 Jahre |
+| §§ 38 ff. DesignG | Verletzungstatbestände: Herstellung, Anbieten, Inverkehrbringen |
+| § 42 DesignG | Unterlassung und Schadensersatz |
+| Art. 4 ff. GGV (VO 6/2002) | Eingetragenes und nicht eingetragenes Gemeinschaftsgeschmacksmuster |
+| Art. 11 GGV | Nicht eingetragenes GGM: 3 Jahre Schutz ab Offenbarung |
+| Art. 85 GGV | Zuständigkeit: Gemeinschaftsgeschmacksmuster-Gerichte |
 
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `fachanwalt-gewerblicher-rechtsschutz` zum Thema `designrecht-praxis-grundlagen`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Designrecht in der Praxis: GeschmMG nun DesignG, Schutzvoraussetzungen Neuheit und Eigenart, Anmeldung beim DPMA, Gemeinschaftsgeschmacksmuster EUIPO. Verletzungsfolgen, einstweilige Verfuegung, Schadensersatz-Berechnung. Pruefraster fuer Modemarkenpraxis..
+## Prüfraster Designverletzung
 
-Arbeite deshalb fallnah:
+**Schritt 1 – Schutzfähigkeit des Klagedesigns**
 
-1. **Falltyp erkennen:** Einordnung, ob es um Erstberatung, Anspruchs-/Pflichtenpruefung, Vertrags-/Bescheid-/Schriftsatzarbeit, Strategie oder Fristenrettung geht.
-2. **Entscheidungspunkte bilden:** Welche zwei bis fuenf Weichen entscheiden den Fall wirklich?
-3. **Belege anfordern:** Nur die Unterlagen nachfordern, die fuer diese Weichen gebraucht werden; keine Frageboegen um ihrer selbst willen.
-4. **Spezialwissen anwenden:** Die im Skill genannten Normen, Behoerden, Verfahrensarten, Branchenlogiken oder typischen Streitpunkte sichtbar abarbeiten.
-5. **Nutzbaren Output liefern:** Am Ende steht ein Memo, eine Matrix, ein Textbaustein, ein Schriftsatzgeruest, ein Mandantenbrief oder eine klare Naechste-Schritte-Liste.
+- Liegt eine Anmeldung beim DPMA (nationales Design) oder EUIPO (eingetragenes GGM) vor?
+- Nicht eingetragenes GGM: Offenbarung im EWR feststellbar, Frist 3 Jahre eingehalten?
+- Schutzausschluss § 3 DesignG: rein technisch bedingt? Must-fit?
+- Neuheit und Eigenart bei Anmeldung (§ 2 DesignG, Art. 5–6 GGV): vorbekannter Formenschatz?
 
-Wenn ein anderer Skill desselben Plugins genauer passt, schlage ihn aktiv vor und erklaere in einem Satz, warum der Wechsel die Arbeit beschleunigt.
+**Schritt 2 – Verletzungshandlung**
+
+- Übereinstimmender oder verwechslungsfähiger Gesamteindruck beim informierten Benutzer?
+- Gestaltungsfreiheit des Entwerfers: enger Formenschatz = kleiner Schutzbereich.
+- Angegriffene Ausführungsform: Fotos, Muster, Screenshots sichern.
+
+**Schritt 3 – Anspruchsinhaber und Legitimation**
+
+- Eingetragener Inhaber (§ 7 DesignG, DPMA/EUIPO-Registerauszug).
+- Lizenznehmerin mit entsprechender Klagebefugnis?
+- Arbeitnehmerdesign: § 13 DesignG – Dienstverhältnis, Übertragungsfiktion.
+
+**Schritt 4 – Ansprüche**
+
+| Anspruch | Norm | Voraussetzung |
+|---|---|---|
+| Unterlassung | § 42 Abs. 1 DesignG | Wiederholungs- oder Erstbegehungsgefahr |
+| Schadensersatz | § 42 Abs. 2 DesignG | Verschulden (Vorsatz/Fahrlässigkeit) |
+| Auskunft und Rechnungslegung | § 46 DesignG | Zur Bezifferung des Schadens |
+| Vernichtung und Rückruf | § 43 DesignG | Verletzende Gegenstände im Besitz des Verletzers |
+| Urteilsbekanntmachung | § 47 DesignG | Berechtigtes Interesse |
+
+**Schritt 5 – Schadensberechnung (drei Methoden)**
+
+1. Konkreter Schaden + entgangener Gewinn.
+2. Verletzergewinn (Herausgabe).
+3. Lizenzanalogie (fiktive Lizenzgebühr, marktüblicher Satz).
+
+## Verfahrensweg und Zuständigkeit
+
+- **DPMA-Nichtigkeitsverfahren:** § 33 DesignG; Nichtigkeitsgründe §§ 33 Abs. 1 DesignG.
+- **Zivilklage:** LG (Designsachen, § 52 DesignG i.V.m. § 140 MarkenG analog); spezialisierte Kammern Hamburg, Düsseldorf, München, Köln.
+- **einstweilige Verfügung:** §§ 935, 940 ZPO; Dringlichkeit nach Kenntnisnahme wahren (ca. 4–6 Wochen).
+- **EUIPO-Nichtigkeitsverfahren:** Art. 52 GGV (eingetragenes GGM); Art. 24 GGV (nicht eingetragenes GGM, Nichtigkeitseinrede).
+
+## Strategische Optionen
+
+| Konstellation | Empfehlung |
+|---|---|
+| Schnelle Unterlassung, Verletzung eindeutig | eV beim zuständigen LG (Designgericht) |
+| Bestand des Klagedesigns zweifelhaft | Defensivstrategie, Nichtigkeitsverfahren DPMA/EUIPO abwarten oder einleiten |
+| Parallelschutz Urheberrecht | § 2 Abs. 1 Nr. 4 UrhG prüfen (Werke der angewandten Kunst), Schutzschwelle seit BGH „Geburtstagszug" deutlich abgesenkt |
+| Wettbewerbsrechtlicher Schutz | § 4 Nr. 3 UWG (ergänzender Leistungsschutz): Nachahmungsschutz wenn wettbewerbliche Eigenart vorhanden |
 
 ## Kaltstart
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Frage zu Beginn nur ab, was für den nächsten Schritt unverzichtbar ist:
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `fachanwalt-gewerblicher-rechtsschutz`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+1. **Rolle und Ziel:** Wer fragt – Angreifer oder Verteidiger? Welcher Output (eV-Antrag, Abmahnung, Nichtigkeitsantrag, Gutachten)?
+2. **Sachverhalt:** Welches Design ist betroffen, wann angemeldet, wo eingetragen? Welche Verletzungshandlung konkret?
+3. **Fristen:** Kenntnis seit wann, Dringlichkeit noch gewahrt?
+4. **Unterlagen:** Registerauszug, Fotos, Anmeldeunterlagen, Muster?
+5. **Format:** Memo, Schriftsatz, Checkliste, Mandantenbrief?
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Prüfvermerk im Gutachtenstil (Schutzfähigkeit → Verletzung → Ansprüche → Strategie).
+- Prüfmatrix: Merkmal, Norm, Tatsache, Beleg, Bewertung, To-do.
+- Schriftsatz-Gerüst: eV-Antrag oder Klageschrift (Muster).
+- Schadensberechnungsblatt (drei Methoden).
+
+## Plugin-Kontext
+Skill gehört zum Plugin `fachanwalt-gewerblicher-rechtsschutz`. Anschluss-Skills: `spezial-designverletzung-red-team-und-qualitaetskontrolle`, `spezial-designg-behoerden-gericht-und-registerweg`, `workflow-fristen-und-risikoampel`.
 
 ## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und Link zu [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bgh.de](https://www.bundesgerichtshof.de), [curia.europa.eu](https://curia.europa.eu).
+- Normen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de), [eur-lex.europa.eu](https://eur-lex.europa.eu).
+- DPMA-Infos: [dpma.de](https://www.dpma.de); EUIPO: [euipo.europa.eu](https://euipo.europa.eu).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
 ## Was dieser Skill nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+- Kein Ersatz für eine vollständige Mandantenberatung.
+- Keine Festlegung ohne ausdrückliche Mandantenentscheidung.
+- Keine Bewertung nicht belegter Tatsachen.
+- Bei Interessenkonflikten oder Berufsrechtsfragen: Hinweis an den fallführenden Anwalt.

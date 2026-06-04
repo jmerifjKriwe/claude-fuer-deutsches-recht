@@ -1,45 +1,87 @@
 ---
-name: faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zus
-description: "Fachanwalt Gewerblicher Rechtsschutz: EV-Vollziehungscheck Dringlichkeit Titel Zustellung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel
+description: "EV-Vollziehungscheck: Dringlichkeit, Titel und Zustellung bei einstweiliger Verfügung im gewerblichen Rechtsschutz. § 929 ZPO Vollziehungsfrist, § 936 ZPO, § 12 UWG, Selbstzustellung, Parteibetrieb, Rechtsfolgen verspäteter Vollziehung."
 ---
 
-# Fachanwalt Gewerblicher Rechtsschutz: EV-Vollziehungscheck Dringlichkeit Titel Zustellung
+# EV-Vollziehungscheck: Dringlichkeit, Titel und Zustellung
 
 ## Aufgabe
+Dieser Skill prüft den EV-Vollziehungscheck bei einstweiligen Verfügungen im gewerblichen Rechtsschutz: Dringlichkeit erhalten, Titel korrekt erwirken, fristgerechte Vollziehung und Zustellung sicherstellen.
 
-Dieser Skill bearbeitet **EV-Vollziehungscheck Dringlichkeit Titel Zustellung** im Bereich **Fachanwalt Gewerblicher Rechtsschutz**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+## Rechtsrahmen
 
-## Kaltstart in 6 Fragen
+| Norm | Inhalt |
+|---|---|
+| § 12 Abs. 1 UWG | Dringlichkeitsvermutung für einstweilige Verfügung im Lauterkeitsrecht |
+| § 935 ZPO | Einstweilige Verfügung zur Sicherung eines Anspruchs |
+| § 936 ZPO | Anwendung der Arrestervorschriften auf einstweilige Verfügungen |
+| § 929 Abs. 2 ZPO | Vollziehungsfrist: 1 Monat ab Zustellung des Beschlusses an Antragsteller |
+| § 929 Abs. 1 ZPO | Vollziehung des Arrestes (gilt über § 936 ZPO) |
+| § 191 ZPO | Zustellung von Amts wegen vs. Parteibetrieb |
+| § 192 ZPO | Parteizustellung: Beauftragung des Gerichtsvollziehers |
+| § 922 Abs. 2 ZPO | Beschlussverfügung ohne mündliche Verhandlung |
+| § 924 ZPO | Widerspruch gegen einstweilige Verfügung |
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Kritische Fristen und Dringlichkeit
 
-## Prüfprogramm
+### Dringlichkeit
+- **UWG:** Gesetzliche Dringlichkeitsvermutung (§ 12 Abs. 1 UWG), aber **Selbstwiderlegung** bei zu langem Zuwarten nach Kenntnis des Verstoßes (Faustregel: ca. 4 Wochen, je nach Kammer kürzer).
+- **Markenrecht / PatG / DesignG:** Keine gesetzliche Vermutung; Dringlichkeit ist darzulegen und glaubhaft zu machen (§ 920 ZPO).
+- **Kenntniszeitpunkt** dokumentieren: Screenshot, E-Mail, Kaufbeleg mit Datum.
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### Vollziehungsfrist § 929 Abs. 2 ZPO
+- Frist: **1 Monat** ab Zustellung des Beschlusses an den Antragsteller.
+- Vollziehungshandlung: Zustellung an den Antragsgegner (§ 929 Abs. 2 i.V.m. § 191, § 192 ZPO) oder Eintragung in Register (bei Immaterialgütern wenn möglich).
+- Bei Versäumnis: Titel wird unwirksam, § 929 Abs. 2 ZPO.
 
-## Typische Fallen
+## Checkliste EV-Vollziehung
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+| Schritt | Prüfpunkt | Ergebnis |
+|---|---|---|
+| 1 | Beschluss erhalten? Zustellungsdatum notieren | Fristbeginn § 929 Abs. 2 ZPO |
+| 2 | Vollziehungsfrist berechnen (1 Monat) + Kalendernotiz | Fristablauf mit Puffer eintragen |
+| 3 | Vollziehungsform wählen: Parteizustellung (§ 192 ZPO) oder Amtszustellung? | Parteibetrieb ist Standard |
+| 4 | GV beauftragen (§ 192 ZPO) oder anwaltliche Zustellung gem. § 195 ZPO | Nachweis sichern |
+| 5 | Zustellungsurkunde / Empfangsbekenntnis sichern | Für Vollziehungsnachweis |
+| 6 | Dringlichkeit: Kenntnisdatum, keine Selbstwiderlegung? | Glaubhaftmachungsmittel bereithalten |
+| 7 | Inhalt des Titels: Unterlassungsgebot klar formuliert? Ordnungsmittelhinweis? | Vollstreckbarkeit prüfen |
+| 8 | Schutzschriftenregister gegnerisch hinterlegt? | [zssr.de](https://www.zssr.de) prüfen |
 
-## Output
+## Zustellungswege im Vergleich
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+| Weg | Rechtsgrundlage | Vorteil | Risiko |
+|---|---|---|---|
+| Gerichtsvollzieher (Parteibetrieb) | §§ 192, 194 ZPO | Sicher, protokolliert | Zeitaufwand; GV-Verfügbarkeit |
+| Anwaltliche Zustellung | § 195 ZPO | Schnell bei kooperativer Gegenseite | Empfangsbekenntnis nötig |
+| Einschreiben mit Rückschein | § 175 ZPO | Einfach | Nachweis bei Nichtabholung problematisch |
+| Amtszustellung durch Gericht | § 168 ZPO | Kein Eigenaufwand | Langsam, keine Kontrolle |
+
+## Dringlichkeits-Selbstwiderlegung vermeiden
+
+- Sobald Verstoß bekannt: **sofort** dokumentieren (Screenshot, Kaufmuster, Datum).
+- Abmahnung und Reaktionsfrist (1–2 Werktage bei Dringlichkeit) zügig setzen.
+- Kein Zuwarten über die Kammergrenze hinaus (Hamburg: ca. 4 Wo; München: oft 3 Wo; Düsseldorf: teils strenger).
+- Bei grenzüberschreitendem Sachverhalt: Gerichtsstand prüfen (§ 14 UWG; Art. 7 Nr. 2 EuGVVO).
+
+## Kaltstart
+1. Wann wurde der Beschluss dem Antragsteller zugestellt? (Vollziehungsfristbeginn)
+2. Welche Vollziehungshandlung ist geplant oder bereits erfolgt?
+3. Liegt die Dringlichkeit noch vor oder droht Selbstwiderlegung?
+4. Welches Gericht hat den Titel erlassen, welcher Gerichtsvollzieher ist zuständig?
+5. Welcher Output wird gebraucht: Checkliste, Beauftragungsschreiben GV, Memo?
+
+## Anschluss-Skills
+- `faevvollzug-neu-002-parteibetrieb-und-gerichtsvollzieher-bei-unterlassungstiteln` – GV-Beauftragung im Detail.
+- `faevvollzug-neu-004-vollstreckung-aus-unterlassungsverfuegung-ordnungsmittel` – Ordnungsgeldantrag nach Zuwiderhandlung.
+- `workflow-fristen-und-risikoampel` – Fristenübersicht und Ampelbewertung.
+
+## Quellenregel
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und Link zu [dejure.org](https://dejure.org) oder [openjur.de](https://openjur.de).
+- Normen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Was dieser Skill nicht macht
+- Kein Ersatz für eine vollständige Mandantenberatung.
+- Keine eigenständige Fristberechnung ohne Kenntnis aller Zustelldaten.
+- Keine Bewertung nicht belegter Zustellvorgänge.

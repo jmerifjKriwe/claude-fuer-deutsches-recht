@@ -1,45 +1,104 @@
 ---
 name: faevvollzug-neu-008-qualitaetsgate-vor-vollziehung
-description: "Fachanwalt Gewerblicher Rechtsschutz: Qualitätsgate vor Vollziehung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+description: "Qualitätsgate vor EV-Vollziehung: Letzter Check vor Zustellung der einstweiligen Verfügung. Titel, Dringlichkeit, Zustellungsweg, Schutzschrift, Kosten-Nutzen, Red-Team-Fragen, Rücknahmeoptionen im gewerblichen Rechtsschutz."
 ---
 
-# Fachanwalt Gewerblicher Rechtsschutz: Qualitätsgate vor Vollziehung
+# Qualitätsgate vor EV-Vollziehung
 
 ## Aufgabe
+Dieser Skill ist der letzte Qualitätscheck vor der Vollziehung einer einstweiligen Verfügung: Vollständigkeit des Titels, Dringlichkeit, Zustellungsweg, Red-Team-Analyse, Kostenrisiken und Rücknahmeoptionen.
 
-Dieser Skill bearbeitet **Qualitätsgate vor Vollziehung** im Bereich **Fachanwalt Gewerblicher Rechtsschutz**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+## Warum dieses Qualitätsgate?
 
-## Kaltstart in 6 Fragen
+Die Vollziehung einer einstweiligen Verfügung ist reversibel kaum möglich. Vollzogene, aber fehlerhafte oder zu früh vollzogene Verfügungen können:
+- Schadensersatzpflicht nach § 945 ZPO auslösen (bei ungerechtfertigter EV).
+- Dringlichkeit durch späteres Zuwarten widerlegen.
+- Kostenrisiken durch unnötige Eskalation schaffen.
+- Verhandlungsposition verschlechtern.
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+## Red-Team-Fragen vor Vollziehung
 
-## Prüfprogramm
+**Zum Verfügungsanspruch:**
+- Ist das Schutzrecht eingetragen / wirksam entstanden (Registerauszug geprüft)?
+- Sind alle Anspruchsvoraussetzungen (Verwechslungsgefahr, Verletzungshandlung, Aktivlegitimation) sauber belegt?
+- Gibt es Gegenrechte (Erschöpfung § 24 MarkenG, Prior Use, eigene ältere Schutzrechte der Gegenseite)?
+- Hat die Gegenseite bereits eine Schutzschrift hinterlegt (ZSSR gecheckt)?
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+**Zum Verfügungsgrund:**
+- Dringlichkeit noch unversehrt? Kenntnisdatum dokumentiert?
+- Keine Selbstwiderlegung durch Zuwarten (Kammer-spezifische Frist beachten)?
+- Dringlichkeit glaubhaft gemacht (§ 294 ZPO, eidesstattliche Versicherung)?
 
-## Typische Fallen
+**Zum Titel:**
+- Unterlassungsformulierung klar und vollstreckbar?
+- Ordnungsmittelandrohung (§ 890 Abs. 2 ZPO) im Tenor?
+- Vollstreckbare Ausfertigung vorhanden (§ 724 ZPO)?
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+**Zum Zustellungsweg:**
+- Zustellungsform gewählt und Zustellungsadresse verifiziert?
+- Vollziehungsfrist berechnet und eingetragen?
 
-## Output
+## Qualitätsgate-Checkliste
 
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
+| Prüfpunkt | Status (Ja/Nein/Offen) | Priorität |
+|---|---|---|
+| Schutzrecht aktiv und eingetragen (Registerauszug DPMA/EUIPO) | ☐ | MUSS |
+| Verletzungshandlung konkret dokumentiert (Datum, Form, Beweis) | ☐ | MUSS |
+| Aktivlegitimation belegt (Inhaber / Lizenznehmer) | ☐ | MUSS |
+| Schutzschrift ZSSR geprüft ([zssr.de](https://www.zssr.de)) | ☐ | MUSS |
+| Dringlichkeit: Kenntnis-Datum belegt, Frist eingehalten | ☐ | MUSS |
+| Titel mit Ordnungsmittelandrohung § 890 Abs. 2 ZPO | ☐ | MUSS |
+| Vollstreckbare Ausfertigung vorhanden | ☐ | MUSS |
+| Vollziehungsfrist berechnet (1 Monat § 929 Abs. 2 ZPO) | ☐ | MUSS |
+| Zustellungsadresse verifiziert | ☐ | MUSS |
+| Kosten-Nutzen-Analyse: Vollziehungskosten vs. Schutzinteresse | ☐ | SOLL |
+| Gegenseite zur einvernehmlichen Lösung kontaktiert? | ☐ | KANN |
+| Hauptsacheklage vorbereitet (falls EV scheitert) | ☐ | SOLL |
+
+## § 945 ZPO – Schadensersatzrisiko
+
+Wird die einstweilige Verfügung aufgehoben oder der Hauptsacheanspruch abgewiesen, hat der Antragsgegner Anspruch auf Schadensersatz gemäß § 945 ZPO – **ohne Verschulden** des Antragstellers (verschuldensunabhängig).
+
+**Risikofaktoren für § 945 ZPO:**
+- Anspruch war von Anfang an nicht begründet.
+- Dringlichkeit war nicht gegeben (Selbstwiderlegung).
+- Schutzrecht wurde nach EV für nichtig erklärt.
+
+**Gegenmaßnahme:** Sorgfältige Prüfung vor Vollziehung; bei Zweifeln Abmahnung zuerst oder Aufhebungsrisiko einpreisen.
+
+## Entscheidungsbaum Vollziehung
+
+```
+Alle MUSS-Punkte erfüllt?
+  Nein → Nicht vollziehen; Lücken schließen
+  Ja  →
+        Gegenrechte (Erschöpfung, Prior Use) ausgeschlossen?
+          Nein → Strategie neu bewerten; ggf. Abmahnung statt EV
+          Ja  →
+                § 945-Risiko vertretbar?
+                  Nein → Mandantenfreigabe einholen
+                  Ja  → Vollziehung durchführen
+```
+
+## Kaltstart
+1. Liegt vollstreckbare Ausfertigung des Beschlusses vor?
+2. Ist die Dringlichkeit noch unversehrt (Kenntnisdatum, Kammer-Frist)?
+3. Schutzschrift beim ZSSR hinterlegt?
+4. Welcher konkrete Punkt des Qualitätsgates ist unklar oder offen?
+5. Output: Checkliste ausgefüllt, Risikomemo, Mandantenbrief, Entscheidungsvorlage?
+
+## Anschluss-Skills
+- `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung` – Vollziehungsfristen.
+- `faevvollzug-neu-005-gegnerische-schutzschrift-auswerten` – Schutzschrift-Analyse.
+- `workflow-redteam-qualitygate` – Übergreifendes Red-Team-Gate.
+
+## Quellenregel
+- Normen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- ZSSR: [zssr.de](https://www.zssr.de).
+- Rechtsprechung: [dejure.org](https://dejure.org), [bgh.de](https://www.bundesgerichtshof.de).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Was dieser Skill nicht macht
+- Kein Ersatz für vollständige anwaltliche Prüfung.
+- Keine Garantie gegen § 945 ZPO-Haftung (einzelfallabhängig).

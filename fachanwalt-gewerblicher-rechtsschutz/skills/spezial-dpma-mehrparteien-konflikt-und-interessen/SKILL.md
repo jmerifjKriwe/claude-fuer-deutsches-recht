@@ -1,48 +1,127 @@
 ---
 name: spezial-dpma-mehrparteien-konflikt-und-interessen
-description: "Dpma: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "DPMA-Mehrparteienverfahren: Widerspruchsverfahren MarkenG §§ 41–43, Verfalls- und Nichtigkeitsverfahren, Beschwerde zum BPatG, Beteiligtenrechte, Kollidierende Interessen mehrerer Schutzrechtsinhaber, Prioritätskonflikte, Verfahrensstrategie."
 ---
 
-# Dpma: Mehrparteienkonflikt und Interessenmatrix
+# DPMA-Mehrparteienverfahren: Konflikte und Interessen
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-gewerblicher-rechtsschutz`. Ausgangspunkt ist: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfuegung Verletzungsklage Lizenzanaloger Schadensersatz.
+Dieser Skill behandelt DPMA-Verfahren mit mehreren Beteiligten: Widerspruchsverfahren, Löschungsverfahren, Beschwerde beim BPatG und Strategiefragen bei kollidierenden Schutzrechten.
 
-Er führt durch **Mehrparteienkonflikt und Interessenmatrix** im Themenfeld **Dpma**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Rechtsrahmen
 
+| Norm | Inhalt |
+|---|---|
+| § 41 MarkenG | Widerspruch gegen Markeneintragung |
+| § 42 MarkenG | Widerspruchsfrist: 3 Monate ab Bekanntmachung |
+| § 43 MarkenG | DPMA-Prüfung des Widerspruchs; Nichtbenutzungseinrede |
+| § 49 MarkenG | Verfall der Marke (Nichtbenutzung, Freizeichen, Irreführung) |
+| § 50 MarkenG | Nichtigkeit wegen absoluter Schutzhindernisse |
+| § 51 MarkenG | Nichtigkeit wegen relativer Schutzhindernisse (ältere Rechte) |
+| § 66 MarkenG | Beschwerde zum BPatG gegen DPMA-Entscheidungen |
+| § 81 PatG | Beschränkungs- und Nichtigkeitsverfahren Patent |
+| §§ 33, 36 DesignG | Nichtigkeitsverfahren Design beim DPMA |
 
-## Fachlicher Zuschnitt
+## Widerspruchsverfahren Marke
 
-- **Thema:** Dpma.
-- **Arbeitsfokus:** Mehrparteienkonflikt und Interessenmatrix.
-- **Plugin-Rahmen:** Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahn....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### Ablauf
+
+```
+Markeneintragung wird im Markenblatt bekannt gemacht
+       ↓
+Widerspruchsfrist: 3 Monate ab Bekanntmachung (§ 42 Abs. 1 MarkenG)
+       ↓
+Widerspruch einlegen (§ 41 MarkenG):
+  - Schriftlich beim DPMA; Gebühr 250 €
+  - Älteres Recht bezeichnen (Marke, Unternehmenskennzeichen, etc.)
+       ↓
+DPMA gibt Widerspruch dem Markeninhaber bekannt
+       ↓
+Nichtbenutzungseinrede möglich (§ 43 Abs. 1 MarkenG) nach Fristablauf
+       ↓
+Verhandlung / Entscheidung durch DPMA
+       ↓
+Beschwerde beim BPatG (§ 66 MarkenG) → Rechtsbeschwerde BGH
+```
+
+### Nichtbenutzungseinrede (§ 43 Abs. 1 MarkenG)
+- Ältere Widerspruchsmarke muss **5 Jahre** vor dem maßgeblichen Zeitpunkt ernsthaft benutzt worden sein.
+- Beweislast: Widersprechender muss Benutzung glaubhaft machen (Umsatzzahlen, Kataloge, Rechnungen).
+- Einrede greift nur, wenn Marke überhaupt 5 Jahre eingetragen war.
+
+### Mehrere Widersprüche gegen eine Marke
+
+| Situation | Strategie |
+|---|---|
+| Mehrere ältere Marken des gleichen Inhabers | Widersprüche bündeln; Synergien nutzen |
+| Widersprüche verschiedener Inhaber | DPMA koordiniert; Abstimmung sinnvoll |
+| Gegeneinander widersprechende ältere Rechte | Prioritätsprinzip; ältestes Recht entscheidet |
+
+## Löschungsverfahren (Verfall und Nichtigkeit)
+
+### Verfallsverfahren § 49 MarkenG
+
+| Verfallsgrund | Norm | Antragsteller |
+|---|---|---|
+| Nichtbenutzung 5 Jahre | § 49 Abs. 1 MarkenG | Jedermann |
+| Marke zur Gattungsbezeichnung geworden | § 49 Abs. 2 Nr. 1 | Jedermann |
+| Täuschungsgeeignetheit | § 49 Abs. 2 Nr. 2 | Jedermann |
+| Gebühr: 100 € (DPMA) | | |
+
+### Nichtigkeitsverfahren §§ 50–51 MarkenG
+
+| Nichtigkeitsgrund | Norm |
+|---|---|
+| Absolute Schutzhindernisse § 8 MarkenG | § 50 Abs. 1 MarkenG |
+| Bösgläubige Anmeldung | § 10 MarkenG (ältere Markenpolitik) |
+| Älteres Recht des Antragstellers | § 51 Abs. 1 MarkenG |
+
+## Mehrparteienkonflikte: Strategiefragen
+
+### Prioritätskonflikt
+- Älteres Recht schlägt jüngeres (§ 6 MarkenG, § 9 MarkenG).
+- Parallele Koexistenzvereinbarung möglich: schriftliche Abgrenzungsvereinbarung.
+
+### Abgrenzungsvereinbarung
+- Regelt, welche Waren/Dienstleistungen jede Partei nutzen darf.
+- Wettbewerbsrechtliche Zulässigkeit prüfen (GWB, Art. 101 AEUV bei spürbarer Marktbeschränkung).
+- Schriftlich; mit klaren Geltungsbereichen (Branchen, Territorien).
+
+### Gerichtsschutz zusätzlich zu DPMA-Verfahren
+- Parallelklage vor LG möglich (§ 55 MarkenG: Unterlassung; § 51 Abs. 4 MarkenG: Nichtigkeit).
+- Abstimmung DPMA-Verfahren und Zivilprozess (Aussetzung, §§ 148, 246 ZPO analog).
+
+## Checkliste Mehrparteienverfahren
+
+| Schritt | Erledigt? |
+|---|---|
+| Älteres Recht identifiziert und Registerauszug vorhanden | ☐ |
+| Widerspruchsfrist berechnet und eingetragen | ☐ |
+| Nichtbenutzungsrisiko der eigenen älteren Marke bewertet | ☐ |
+| Benutzungsnachweise gesichert und geordnet | ☐ |
+| Mehrere Widersprüche abgestimmt | ☐ |
+| Abgrenzungsvereinbarung geprüft (Möglichkeit, Risiken) | ☐ |
+| Beschwerdestrategie bei DPMA-Niederlage vorbereitet | ☐ |
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+1. Welches Verfahren ist konkret anstehend (Widerspruch, Löschung, Nichtigkeit)?
+2. Welche älteren Rechte stehen zur Verfügung?
+3. Gibt es mehrere Widersprecher oder kollidierenden Interessen?
+4. Sind Fristen bekannt (Widerspruchsfrist, Beschwerdegrenze)?
+5. Output: Verfahrensstrategie-Memo, Checkliste, Abgrenzungsvereinbarungs-Entwurf?
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Dpma** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+## Anschluss-Skills
+- `spezial-euipo-internationaler-bezug-und-schnittstellen` – EUIPO-Widerspruch.
+- `spezial-markeng-risikoampel-und-gegenargumente` – Risikoampel Markenrecht.
+- `fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch` – Vollständiger Widerspruchsworkflow.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- MarkenG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/markeng/); DPMA: [dpma.de](https://www.dpma.de).
+- BPatG: [bundespatentgericht.de](https://www.bundespatentgericht.de); BGH: [bgh.de](https://www.bundesgerichtshof.de).
+- Rechtsprechung: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Was dieser Skill nicht macht
+- Keine vollständige Beurteilung ohne Kenntnis der konkreten Marken und Registerauszüge.
+- Kein Ersatz für vollständige Mandantenberatung.

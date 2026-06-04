@@ -1,48 +1,139 @@
 ---
 name: spezial-einstweilige-mandantenkommunikation-entscheidungsvorlage
-description: "Einstweilige: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt gewerblicher rechtsschutz; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Mandantenkommunikation im Eilverfahren: Entscheidungsvorlage für einstweilige Verfügung, Risiko-Chancen-Abwägung, Kostenaufklärung § 49b BRAO, Mandantenbrief EV-Antrag oder Reaktion auf EV, Informationspflichten und Dokumentation."
 ---
 
-# Einstweilige: Mandantenkommunikation und Entscheidungsvorlage
+# Mandantenkommunikation: Entscheidungsvorlage Eilverfügung
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-gewerblicher-rechtsschutz`. Ausgangspunkt ist: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfuegung Verletzungsklage Lizenzanaloger Schadensersatz.
+Dieser Skill unterstützt die Mandantenkommunikation in Eilsituationen: strukturierte Entscheidungsvorlage für oder gegen eine einstweilige Verfügung, Kostenaufklärung und mandantengerechte Darstellung der Optionen.
 
-Er führt durch **Mandantenkommunikation und Entscheidungsvorlage** im Themenfeld **Einstweilige**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+## Rechtsrahmen
 
+| Norm | Inhalt |
+|---|---|
+| § 49b BRAO | Vergütungsvereinbarung und Kostentransparenz |
+| § 11 BORA | Informations- und Aufklärungspflichten des Anwalts |
+| § 935 ZPO | Einstweilige Verfügung: Verfügungsanspruch + Verfügungsgrund |
+| § 945 ZPO | Schadensersatzpflicht bei ungerechtfertigter EV |
+| § 12 Abs. 1 UWG | Dringlichkeitsvermutung UWG |
 
-## Fachlicher Zuschnitt
+## Entscheidungsvorlage: Für oder gegen EV-Antrag
 
-- **Thema:** Einstweilige.
-- **Arbeitsfokus:** Mandantenkommunikation und Entscheidungsvorlage.
-- **Plugin-Rahmen:** Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahn....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+### Struktur
+
+**1. Ausgangslage (max. 5 Sätze)**
+- Was ist passiert (Verletzungshandlung, Schutzrecht)?
+- Wer ist betroffen (Mandant als Angreifer oder Verteidiger)?
+- Welche Frist läuft (Dringlichkeit)?
+
+**2. Optionen mit Kosten und Risiken**
+
+| Option | Beschreibung | Vorteile | Nachteile / Risiken | Kosten (ca.) |
+|---|---|---|---|---|
+| EV-Antrag | Sofortiger gerichtlicher Schutz; Unterlassungsgebot | Schnell (1–3 Tage); keine Anhörung | Kosten; § 945 ZPO-Risiko | Streitwert-abhängig |
+| Abmahnung zuerst | Gegenseite zur Unterlassung auffordern | Günstiger; Kostenerstattung möglich | Dringlichkeit: Frist genau setzen | RVG 1,3 Geschäftsgebühr |
+| Keine Reaktion | Beobachten | Kostensparend | Verletzung setzt sich fort | 0 |
+| Negative Feststellungsklage (Abgemahnte) | Gerichtsstand sichern | Eigene Zuständigkeit | Kosten; Risiko bei Verlust | Streitwert-abhängig |
+
+**3. Empfehlung des Anwalts**
+- Begründete Empfehlung mit Hinweis auf entscheidende Punkte (Dringlichkeit, Beweislage, Gegenseite).
+
+**4. Kostenaufklärung (§ 49b BRAO)**
+- Konkrete Kostenschätzung:
+  - Anwaltsgebühren (Streitwert × Gebührenfaktor).
+  - Gerichtsgebühren GKG.
+  - Ggf. Sicherheitsleistung.
+- Kostenrisiko bei Unterliegen (gegnerische Anwaltskosten).
+
+**5. Freigabe / Zustimmung Mandant**
+- Klare Frage an den Mandanten: Freigabe für EV-Antrag erteilen?
+- Protokollierung der Entscheidung (Memo an Akte).
+
+## Muster-Mandantenbrief: EV-Antrag (kurz)
+
+```
+[Briefkopf Kanzlei]                             [Ort, Datum]
+
+An [Mandant Name]                          - vertraulich -
+
+Beratungsschreiben: Einstweilige Verfügung [Ihr Sachverhalt]
+
+Sehr geehrte/r [Mandant],
+
+1. Sachverhalt
+[Kurze Zusammenfassung: Verstoß, wann bekannt, wann eingestellt]
+
+2. Unsere Empfehlung
+Wir empfehlen, unverzüglich eine einstweilige Verfügung zu beantragen.
+
+Begründung: [2–3 Sätze zur Dringlichkeit, Beweislage, Schutzrecht]
+
+3. Kosten und Risiken
+Unsere Gebühren: ca. [Betrag] €
+Gerichtsgebühren: ca. [Betrag] €
+Kostenrisiko bei Aufhebung der EV (§ 945 ZPO): [Einschätzung]
+
+4. Ihr nächster Schritt
+Bitte geben Sie uns bis [Datum, Uhrzeit] Ihre Freigabe.
+Ohne Freigabe können wir die Frist nicht wahren.
+
+Mit freundlichen Grüßen
+[Kanzlei]
+```
+
+## Muster-Mandantenbrief: Reaktion auf EV (kurz)
+
+```
+Sehr geehrte/r [Mandant],
+
+gegen Sie wurde eine einstweilige Verfügung erlassen / angedroht.
+
+1. Lage
+[EV-Beschluss erhalten am X; Inhalt: Unterlassung von Y]
+
+2. Ihre Optionen
+A) Unterlassungserklärung abgeben → Verfahren erledigt; Marke des Angriffs anerkennen
+B) Widerspruch einlegen → Mündliche Verhandlung; teurer, aber Gegenargumente möglich
+C) Abschlussschreiben abwarten → Zuwarten bis Gegner Abschluss fordert
+
+3. Empfehlung
+Wir empfehlen [Option] weil [Begründung].
+
+4. Kosten
+[Kosten je Option]
+
+5. Frist für Ihre Entscheidung: [Datum]
+[Kanzlei]
+```
+
+## Dokumentationspflichten
+
+| Schritt | Dokumentation |
+|---|---|
+| Beratungsgespräch | Beratungsprotokoll / E-Mail-Bestätigung |
+| Mandantenfreigabe | E-Mail-Bestätigung oder schriftliche Vollmacht |
+| Kostenaufklärung | Aktennotiz mit Datum, Betrag, Mandantenkenntnis |
+| Entscheidung gegen EV | Aktennotiz mit Mandantenwunsch |
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+1. Ist der Mandant Angreifer (EV beantragen) oder Verteidiger (auf EV reagieren)?
+2. Wie viel Zeit bleibt bis zum Fristablauf?
+3. Soll eine Entscheidungsvorlage oder ein Mandantenbrief erstellt werden?
+4. Welcher Streitwert ist realistisch (Kostenabschätzung)?
+5. Output: Entscheidungsvorlage, Mandantenbrief, Kostenübersicht, Freigabe-Checkliste?
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Einstweilige** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+## Anschluss-Skills
+- `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung` – Vollziehung nach Freigabe.
+- `faevvollzug-neu-008-qualitaetsgate-vor-vollziehung` – Qualitätsgate.
+- `spezial-bezuege-zahlen-schwellen-und-berechnung` – Kostenberechnung.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+- BRAO, BORA: [gesetze-im-internet.de](https://www.gesetze-im-internet.de); ZPO: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
+- RVG, GKG: [gesetze-im-internet.de/rvg](https://www.gesetze-im-internet.de/rvg/), [gesetze-im-internet.de/gkg](https://www.gesetze-im-internet.de/gkg/).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Was dieser Skill nicht macht
+- Keine verbindliche Kostenberechnung ohne vollständige Daten.
+- Kein Ersatz für vollständige Mandantenberatung und individuelle Aufklärung.

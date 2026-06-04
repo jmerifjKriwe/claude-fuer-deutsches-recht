@@ -1,63 +1,131 @@
 ---
 name: uwg-systematik-und-anwendung
-description: "UWG-Systematik: § 3 (unlautere geschaeftliche Handlungen), § 5 (Irrefuehrung), § 5a (Vorenthaltungstatbestaende), §§ 4 ff. (Mitbewerber), §§ 8 ff. (Anspruchsberechtigung, Verband, Mitbewerber). Aktive Mitbewerber, eingetragene Verbaende. Beispielfaelle und Schriftsatzbausteine."
+description: "UWG-Systematik: § 3 (unlautere geschäftliche Handlungen), § 5 (Irreführung), § 5a (Vorenthalten wesentlicher Informationen), §§ 4 ff. (Mitbewerber), §§ 8 ff. (Anspruchsberechtigung, Verband, Mitbewerber). Aktive Mitbewerber, eingetragene Verbände. Beispielfälle und Schriftsatzbausteine."
 ---
 
-# UWG: Systematik
+# UWG: Systematik und Anwendung
 
 ## Aufgabe
-UWG-Systematik: § 3 (unlautere geschaeftliche Handlungen), § 5 (Irrefuehrung), § 5a (Vorenthaltungstatbestaende), §§ 4 ff.
+Dieser Skill liefert die systematische Übersicht des UWG und praxisnahe Werkzeuge: Tatbestandsaufbau, Anspruchsberechtigung, Beispielfälle und Schriftsatzbausteine.
 
+## Rechtsrahmen
 
-## Fachlicher Arbeitskern
+| Norm | Inhalt |
+|---|---|
+| § 1 UWG | Schutzzweck: Mitbewerber, Verbraucher, allgemeine Öffentlichkeit |
+| § 2 UWG | Definitionen: geschäftliche Handlung, Mitbewerber, Verbraucher |
+| § 3 Abs. 1 UWG | Generalklausel: unlautere geschäftliche Handlungen verboten |
+| § 3a UWG | Rechtsbruchtatbestand: Verletzung einer Marktverhaltensregel |
+| § 4 UWG | Mitbewerberschutz: Behinderung, Anschwärzung |
+| § 4a UWG | Aggressive geschäftliche Handlungen |
+| § 5 UWG | Irreführende Werbung (aktives Tun) |
+| § 5a UWG | Irreführung durch Unterlassen wesentlicher Informationen |
+| § 5b UWG | Wesentliche Informationen; Aufmachung |
+| § 6 UWG | Vergleichende Werbung: zulässig wenn objektiv, klar kenntlich gemacht |
+| § 7 UWG | Unzumutbare Belästigung: Spam, Kalt-Akquise |
+| § 8 UWG | Unterlassungs- und Beseitigungsanspruch |
+| § 8c UWG | Rechtsmissbräuchliche Abmahnung |
+| § 9 UWG | Schadensersatz bei Vorsatz / Fahrlässigkeit |
+| § 11 UWG | Verjährung: 6 Monate (Unterlassung), 3 Jahre (Schadensersatz) |
+| § 12 UWG | Einstweilige Verfügung: Dringlichkeitsvermutung |
+| § 13 UWG | Abmahnung: Formerfordernisse, Kostenerstattung |
+| § 14 UWG | Gerichtliche Zuständigkeit |
 
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `fachanwalt-gewerblicher-rechtsschutz` zum Thema `uwg-systematik-und-anwendung`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: UWG-Systematik: § 3 (unlautere geschaeftliche Handlungen), § 5 (Irrefuehrung), § 5a (Vorenthaltungstatbestaende), §§ 4 ff. (Mitbewerber), §§ 8 ff. (Anspruchsberechtigung, Verband, Mitbewerber). Aktive Mitbewerber, eingetragene Verbaende. Beispielfaelle und Schriftsatzbausteine..
+## Prüfungsaufbau Lauterkeitsklage
 
-Arbeite deshalb fallnah:
+```
+Schritt 1: Anwendungsbereich
+  → Geschäftliche Handlung i.S.v. § 2 Abs. 1 Nr. 2 UWG?
+  → B2B oder B2C? (Unterschiede im Rechtsschutz)
 
-1. **Falltyp erkennen:** Einordnung, ob es um Erstberatung, Anspruchs-/Pflichtenpruefung, Vertrags-/Bescheid-/Schriftsatzarbeit, Strategie oder Fristenrettung geht.
-2. **Entscheidungspunkte bilden:** Welche zwei bis fuenf Weichen entscheiden den Fall wirklich?
-3. **Belege anfordern:** Nur die Unterlagen nachfordern, die fuer diese Weichen gebraucht werden; keine Frageboegen um ihrer selbst willen.
-4. **Spezialwissen anwenden:** Die im Skill genannten Normen, Behoerden, Verfahrensarten, Branchenlogiken oder typischen Streitpunkte sichtbar abarbeiten.
-5. **Nutzbaren Output liefern:** Am Ende steht ein Memo, eine Matrix, ein Textbaustein, ein Schriftsatzgeruest, ein Mandantenbrief oder eine klare Naechste-Schritte-Liste.
+Schritt 2: Verbotstatbestand
+  → §§ 3a, 4, 4a, 5, 5a, 6, 7 UWG oder Anhang?
+  → Spürbarkeit (§ 3 Abs. 1 UWG; bei Verbraucherschutz: entfällt bei schwarzer Liste)
 
-Wenn ein anderer Skill desselben Plugins genauer passt, schlage ihn aktiv vor und erklaere in einem Satz, warum der Wechsel die Arbeit beschleunigt.
+Schritt 3: Aktivlegitimation (§ 8 Abs. 3 UWG)
+  → Mitbewerber (konkretes Wettbewerbsverhältnis)?
+  → Qualifizierter Verband (BfJ-Liste § 8b UWG)?
+  → IHK / HWK / Kammer?
+
+Schritt 4: Wiederholungsgefahr / Erstbegehungsgefahr
+  → Begehungsform (Unterlassung vs. Beseitigung)
+
+Schritt 5: Verschulden (für Schadensersatz § 9 UWG)
+  → Vorsatz oder Fahrlässigkeit
+
+Schritt 6: Anspruchsumfang
+  → Unterlassung (§ 8 Abs. 1 UWG)
+  → Beseitigung
+  → Schadensersatz (§ 9 UWG)
+  → Auskunft (§ 9 Abs. 1 UWG: „soweit erforderlich")
+  → Abmahnkosten (§ 13 Abs. 3 UWG)
+```
+
+## Typische Tatbestände mit Beispielen
+
+### § 5 UWG – Irreführende Werbung
+
+| Fallbeispiel | Irre geführte Erwartung | Ergebnis |
+|---|---|---|
+| „Marktführer" ohne Beleg | Größe / Marktstellung | Irreführend § 5 Abs. 1 S. 2 Nr. 3 UWG |
+| „UVP 100 €, unser Preis 50 €" | Preisvergleich; UVP nie so hoch | Irreführend § 5 Abs. 1 S. 2 Nr. 2 UWG |
+| „Aus deutschen Landen" für importiertes Produkt | Herkunft | Irreführend § 5 Abs. 1 S. 2 Nr. 1 UWG |
+
+### § 5a UWG – Irreführung durch Unterlassen
+
+| Fallbeispiel | Vorenthaltene Information | Ergebnis |
+|---|---|---|
+| Online-Preis ohne Versandkosten | Gesamtpreis | Wesentliche Information vorenthalten |
+| Werbung ohne Impressum | Unternehmensidentität | § 5a Abs. 1 UWG |
+| Influencer-Post ohne Werbekennzeichnung | Kommerzieller Charakter | § 5a Abs. 4 UWG (Entsprechung n.F.) |
+
+### § 7 UWG – Unzumutbare Belästigung
+
+| Fallbeispiel | Verstoß |
+|---|---|
+| E-Mail-Werbung ohne Einwilligung | § 7 Abs. 2 Nr. 2 UWG |
+| Kalt-Telefonat Verbraucher | § 7 Abs. 2 Nr. 1 UWG |
+| Automatisierte Fax-Werbung | § 7 Abs. 2 Nr. 3 UWG |
+
+## Schriftsatzbaustein: Unterlassungsantrag UWG
+
+```
+In der Sache [Antragsteller] ./. [Antragsgegner]
+
+beantragen wir, dem Antragsgegner durch einstweilige Verfügung,
+gegebenenfalls ohne vorherige Anhörung, zu untersagen,
+
+[genaue Beschreibung der Verletzungshandlung],
+
+wie geschehen am [Datum] auf [Plattform / Medium] (Anlage A: Screenshot),
+
+bei Meidung eines für jeden Fall der Zuwiderhandlung zu verhängenden
+Ordnungsgeldes bis 250.000 €, ersatzweise Ordnungshaft.
+
+Begründung:
+
+I. Antragstellerin ist Mitbewerberin i.S.v. § 2 Abs. 1 Nr. 4 UWG.
+II. Die Verletzungshandlung verwirklicht [§ 5 / § 5a / § 7] UWG.
+III. Dringlichkeit: § 12 Abs. 1 UWG; Kenntniszeitpunkt: [Datum].
+```
 
 ## Kaltstart
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+1. Welcher konkrete Verstoß liegt vor (Irreführung / Spam / Nachahmung / Rechtsbruch)?
+2. Wer ist aktivlegitimiert (Mitbewerber, Verband)?
+3. Liegt eine eingehende oder ausgehende Abmahnung vor?
+4. Ist Dringlichkeit gegeben (Kenntnisdatum, Selbstwiderlegungsrisiko)?
+5. Output: Prüfschema, Schriftsatzbaustein, Abmahnungsentwurf, Schadensersatzmemo?
 
 ## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `fachanwalt-gewerblicher-rechtsschutz`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+Anschluss-Skills: `gr-abmahnung-workflow`, `gr-mitbewerberabmahnung-aktivlegitimation-spezial`, `influencer-marketing-uwg-spezial`, `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung`.
 
 ## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+- UWG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/uwg_2004/).
+- Rechtsprechung: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bgh.de](https://www.bundesgerichtshof.de).
+- BfJ-Liste qualifizierter Verbände: [bundesjustizamt.de](https://www.bundesjustizamt.de).
+- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
+- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
 ## Was dieser Skill nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+- Kein Ersatz für vollständige Mandantenberatung.
+- Keine Einzelfallbewertung ohne vollständige Sachverhaltskenntnis.
