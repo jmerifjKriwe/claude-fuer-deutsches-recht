@@ -1,7 +1,7 @@
 {
   "name": "staatsanwaltschaft-praxis-einstieg",
-  "version": "74.1.0",
-  "description": "Praxisplugin für neue Staatsanwältinnen, Staatsanwälte und Sitzungsdienst: Ermittlungsverfahren, Polizei, RiStBV, Vermerke, Beschlagnahme, digitale Beweise, Anklage, Strafbefehl, Hauptverhandlung, Plädoyer und Rechtsmittel.",
+  "version": "74.3.1",
+  "description": "Praxisplugin für neue Staatsanwältinnen, Staatsanwälte und Sitzungsdienst: Ermittlungen, RiStBV, Anklage, Strafbefehl, Hauptverhandlung, Rechtsmittel und OWiG-Bußgeldverfahren.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
@@ -11,6 +11,9 @@
     "staatsanwaltschaft",
     "ristbv",
     "stpo",
-    "sitzungsdienst"
+    "sitzungsdienst",
+    "owig",
+    "bussgeldverfahren",
+    "bussgeldbescheid"
   ]
 }

@@ -1,6 +1,6 @@
 # berufsrecht-steuerberater
 
-**200 Skills** · Stand `v74.3.0`
+**200 Skills** · Stand `v74.3.1`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/berufsrecht-steuerberater/README.md)

@@ -1,6 +1,6 @@
 # internal-investigations-praxis
 
-**55 Skills** · Stand `v74.3.0`
+**55 Skills** · Stand `v74.3.1`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/internal-investigations-praxis/README.md)

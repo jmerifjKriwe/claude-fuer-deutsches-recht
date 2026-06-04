@@ -1,6 +1,6 @@
 # krankenkassenrecht-krankenversicherung
 
-**81 Skills** · Stand `v74.3.0`
+**81 Skills** · Stand `v74.3.1`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/krankenkassenrecht-krankenversicherung/README.md)
