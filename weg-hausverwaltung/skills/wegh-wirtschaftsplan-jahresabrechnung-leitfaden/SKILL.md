@@ -1,39 +1,57 @@
 ---
 name: wegh-wirtschaftsplan-jahresabrechnung-leitfaden
-description: "Leitfaden Wirtschaftsplan und Jahresabrechnung WEG: Erstellung, Verteilungsschluessel, Genehmigungsbeschluss. Pruefraster fuer Verwalter und Eigentuemer."
+description: "WEG-Leitfaden Wirtschaftsplan und Jahresabrechnung nach § 28 WEG: Vorschüsse, Nachschüsse, Abrechnungsspitzen, Einzelabrechnungen, Vermögensbericht, Beschlussformulierung, Anfechtungsrisiko und Mieterschnittstelle."
 ---
 
-# WEGh: Wirtschaftsplan Jahresabrechnung
+# WEG: Wirtschaftsplan und Jahresabrechnung
 
 ## Aufgabe
-Leitfaden Wirtschaftsplan und Jahresabrechnung WEG: Erstellung, Verteilungsschluessel, Genehmigungsbeschluss.
+
+Dieser Skill führt Verwalter, Beirat, Eigentümer und Anwälte durch die aktuelle § 28-WEG-Logik. Er vermeidet den alten Reflex, "die Jahresabrechnung zu genehmigen". Beschlossen werden Nachschüsse und die Anpassung von Vorschüssen; der Wirtschaftsplan stützt die Vorschüsse.
 
 ## Kaltstart
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+1. Geht es um Erstellung, Beschlussvorbereitung, Beiratsprüfung, Anfechtung oder Mieterschnittstelle?
+2. Abrechnungsjahr, Zahl der Einheiten, Wohn-/Gewerbeanteile, besondere Nutzer?
+3. Liegen Konten, Rechnungen, Zahlungsbelege, Heizkosten, Versicherungen, Hausgeld-Soll und Wirtschaftsplan vor?
+4. Gibt es Sonderumlagen, bauliche Veränderungen, Schlüsseländerungen oder Rücklagenbewegungen?
+5. Welches Produkt wird gebraucht: Beschlussvorlage, Prüfbericht, Einzelabrechnungserläuterung, Datenpaket für Vermieter, Schriftsatz?
 
-## Pruefraster
+## Rechtsanker
 
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+- § 28 Abs. 1 WEG: Wirtschaftsplan und Vorschüsse.
+- § 28 Abs. 2 WEG: Nachschüsse und Anpassung der Vorschüsse.
+- § 28 Abs. 3 WEG: Vermögensbericht.
+- § 16 Abs. 2 WEG: Kostenverteilung und Beschlusskompetenz zur abweichenden Verteilung.
+- BGH, Urteil vom 19.04.2024 - V ZR 167/23: Anspruch auf Erstellung der Jahresabrechnung richtet sich nach neuem Recht gegen die GdWE.
+- BGH, Urteil vom 19.07.2024 - V ZR 102/23: Beschlussauslegung nach neuem Recht auf Vorschüsse/Nachschüsse.
+- BGH, Urteil vom 20.09.2024 - V ZR 195/23: Fehlerrelevanz bei Auswirkung auf Abrechnungsspitze.
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+## Arbeitsplan Jahresabrechnung
 
-## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `weg-hausverwaltung`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+1. Konten, Anfangs-/Endbestände und Zahlungsflüsse plausibilisieren.
+2. Kostenarten den Verteilungsschlüsseln zuordnen.
+3. Soll-Hausgeld aus Wirtschaftsplan gegen Ist-Zahlungen prüfen.
+4. Einzelabrechnungen und Abrechnungsspitzen berechnen.
+5. Nachschüsse und Vorschussanpassungen als Beschlussgegenstand formulieren.
+6. Vermögensbericht getrennt ausweisen; nicht mit Beschlussgegenstand vermischen.
+7. Für vermietende Eigentümer gesondertes Betriebskosten-Datenpaket erstellen.
+
+## Arbeitsplan Wirtschaftsplan
+
+1. Ist-Kosten des Vorjahres als Ausgangspunkt, aber nicht blind fortschreiben.
+2. Preissteigerungen, Versicherungswechsel, Energie, Wartungsverträge, bauliche Maßnahmen erklären.
+3. Vorschüsse je Einheit mit richtigem Schlüssel berechnen.
+4. Liquiditätsreserve und Sonderumlage auseinanderhalten.
+5. Beschluss klar auf Vorschüsse beziehen.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+
+- Beschlussvorlage nach § 28 WEG.
+- Beiratsprüfbericht mit Red-Flags.
+- Eigentümererläuterung in normaler Sprache.
+- Anfechtungsrisiko-Matrix.
+- Vermieter-Datenpaket für Betriebskostenabrechnung.
 
 ## Quellenregel
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).

@@ -1,36 +1,49 @@
 ---
 name: spezial-betriebskosten-formell
-description: "Betriebskosten formelle Ordnung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Abrechnungseinheit, Gesamtkosten, Umlageschlüssel, Vorauszahlungen, Saldo; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Formelle Ordnung der Betriebskostenabrechnung: Mindestangaben nach BGH VIII ZR 84/07, Abrechnungseinheit, Gesamtkosten, Verteilerschlüssel, Mieteranteil, Vorauszahlungen, Saldo, Zugang und Abgrenzung zu bloß materiellen Fehlern."
 ---
 
 # Betriebskosten formelle Ordnung
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Abrechnungseinheit, Gesamtkosten, Umlageschlüssel, Vorauszahlungen, Saldo.
 
-## Kaltstart
-1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
-2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
-3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
-4. Welche Frist, Form, Zuständigkeit oder Beweislast kann den Fall kippen?
-5. Welche Unterlagen belegen den Kern: Vertrag, Nachtrag, Beschluss, Protokoll, Abrechnung, Fotos, Messungen, Kontoauszüge, Mails?
+Dieser Skill beantwortet die harte Frage: Ist die Abrechnung so verständlich, dass sie überhaupt eine Nachforderung fällig machen kann? Er soll nicht jeden Fehler zur Formfrage aufblasen. Ein falscher Betrag oder falscher Umlagemaßstab ist oft materiell, nicht formell. Formell kippt die Abrechnung erst, wenn der Mieter die Belastung gedanklich und rechnerisch nicht nachvollziehen kann.
 
-## Prüfraster
-1. **Rechtsverhältnis abgrenzen:** Wohnraummiete, Gewerberaum, WEG, Verwaltung, Nachbar-/Ordnungsrecht oder Schnittstelle.
-2. **Tatbestand:** Anspruchsgrundlage, Einwendung, Gegenrecht und Rechtsfolge sauber trennen.
-3. **Form und Frist:** Zugang, Text-/Schriftform, Beschlussfristen, Abrechnungsfristen, Verjährung.
-4. **Beweis:** Darlegungslast, Substantiierung, Beweisangebot, Sachverständigenbedarf.
-5. **Taktik:** Sofortmaßnahme, Verhandlung, Vergleich, Klage/Eilantrag, Kostenrisiko.
-6. **Ergebnis:** Ampel mit Begründung und konkretem nächsten Arbeitsschritt.
+## Mindestprogramm
 
-## Output
-- Prüfvermerk mit Normen und Belegen.
-- Lückenliste der fehlenden Tatsachen.
-- Entwurf für Mandantenmail, Gegenseitenschreiben, Beschlussvorschlag oder Schriftsatzbaustein.
-- Anschluss-Skills, wenn WEG/Miete/Betriebskosten/GEG/Prozessrecht tiefer laufen muss.
+Prüfe vier Kernelemente:
+
+1. **Gesamtkosten je Kostenart**: Nicht nur Mieteranteil, sondern die verteilte Gesamtposition muss erkennbar sein.
+2. **Verteilerschlüssel**: Bezeichnung und Erläuterung, soweit der Schlüssel nicht selbsterklärend ist.
+3. **Berechnung des Mieteranteils**: Rechenweg von Gesamtkosten zum Anteil der Wohnung.
+4. **Abzug der Vorauszahlungen**: Zeitraumbezogen, nachvollziehbar und als Saldo ausgewiesen.
+
+## Sonderpunkte
+
+- **Abrechnungseinheit/Wirtschaftseinheit**: Stimmen Gebäude, Wirtschaftseinheit und Mietobjekt? Bei zusammengefassten Gebäuden erklären, warum zusammen verteilt wird.
+- **Abrechnungszeitraum**: regelmäßig höchstens zwölf Monate; Abweichungen gesondert begründen.
+- **Zugang**: Nachforderung nur, wenn die Abrechnung dem Mieter fristgerecht zugeht. Versand genügt nicht; Zugang muss im Streit bewiesen werden.
+- **WEG-Vorlage**: Die WEG-Jahresabrechnung ersetzt nicht automatisch die mietrechtliche Betriebskostenabrechnung. Sie kann Datenquelle sein, muss aber mietrechtlich übersetzt werden.
+- **Gewerbeanteile**: Bei gemischter Nutzung prüfen, ob Kosten durch Gewerbe besonders verursacht sind und ob ein Vorwegabzug nötig ist.
+- **Heizkosten**: Heizkostenabrechnung darf angehängt sein; die Gesamtlogik muss dennoch verständlich bleiben.
+
+## Formell oder materiell?
+
+| Befund | Einordnung | Folge |
+| --- | --- | --- |
+| Vorauszahlungen fehlen vollständig | formell kritisch | Nachforderung nicht fällig |
+| Abrechnung enthält verständlichen, aber falschen Schlüssel | regelmäßig materiell | Korrektur, nicht zwingend Formunwirksamkeit |
+| Gesamtkosten einer Position fehlen | formell kritisch | Position/Nachforderung angreifbar |
+| Reparaturkosten als Hausmeisterkosten umgelegt | materiell | Abzug/Korrektur |
+| Fristversäumnis | eigenständige Ausschlussfrage | Nachforderung grundsätzlich ausgeschlossen |
+
+## Ausgabe
+
+- Formcheck in drei Farben: **fällig**, **formell angreifbar**, **nicht fällig**.
+- Lückenliste: Welche Mindestangabe fehlt?
+- Formulierter Einwand oder Heilungs-/Korrekturhinweis.
+- Prozessnotiz: Welche Tatsachen muss welche Seite beweisen?
 
 ## Quellen- und Sicherheitsregel
-- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+Zitiere als tragenden Anker BGH, Urteil vom 09.04.2008 - VIII ZR 84/07 nur mit frei prüfbarer Quelle. Keine Scheingenauigkeit: Wenn die Abrechnung nur ungeschickt aussieht, aber rechnerisch nachvollziehbar ist, nicht vorschnell "formell unwirksam" behaupten.

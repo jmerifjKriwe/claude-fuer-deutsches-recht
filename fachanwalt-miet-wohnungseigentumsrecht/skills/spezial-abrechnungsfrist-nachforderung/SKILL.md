@@ -1,36 +1,42 @@
 ---
 name: spezial-abrechnungsfrist-nachforderung
-description: "Abrechnungsfrist/Nachforderung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft § 556 Abs. 3 BGB, Verschulden, Guthaben, Gewerbeabweichung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Abrechnungsfrist und Nachforderung aus Betriebskosten: § 556 Abs. 3 BGB, Zugang, Jahresfrist, Vermieter-Nichtvertretenmüssen, Guthaben, Korrekturen, WEG-Verzögerung, Gewerberaumabweichungen und Prozessstrategie."
 ---
 
 # Abrechnungsfrist/Nachforderung
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft § 556 Abs. 3 BGB, Verschulden, Guthaben, Gewerbeabweichung.
 
-## Kaltstart
-1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
-2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
-3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
-4. Welche Frist, Form, Zuständigkeit oder Beweislast kann den Fall kippen?
-5. Welche Unterlagen belegen den Kern: Vertrag, Nachtrag, Beschluss, Protokoll, Abrechnung, Fotos, Messungen, Kontoauszüge, Mails?
+Dieser Skill prüft, ob eine Nachforderung aus einer Betriebskostenabrechnung zeitlich noch durchsetzbar ist. Er ist besonders wichtig bei verspäteter WEG-Abrechnung, Postproblemen, Korrekturabrechnungen und Prozessfällen, in denen die Gegenseite nur "zu spät" ruft.
 
-## Prüfraster
-1. **Rechtsverhältnis abgrenzen:** Wohnraummiete, Gewerberaum, WEG, Verwaltung, Nachbar-/Ordnungsrecht oder Schnittstelle.
-2. **Tatbestand:** Anspruchsgrundlage, Einwendung, Gegenrecht und Rechtsfolge sauber trennen.
-3. **Form und Frist:** Zugang, Text-/Schriftform, Beschlussfristen, Abrechnungsfristen, Verjährung.
-4. **Beweis:** Darlegungslast, Substantiierung, Beweisangebot, Sachverständigenbedarf.
-5. **Taktik:** Sofortmaßnahme, Verhandlung, Vergleich, Klage/Eilantrag, Kostenrisiko.
-6. **Ergebnis:** Ampel mit Begründung und konkretem nächsten Arbeitsschritt.
+## Prüfschritte
 
-## Output
-- Prüfvermerk mit Normen und Belegen.
-- Lückenliste der fehlenden Tatsachen.
-- Entwurf für Mandantenmail, Gegenseitenschreiben, Beschlussvorschlag oder Schriftsatzbaustein.
-- Anschluss-Skills, wenn WEG/Miete/Betriebskosten/GEG/Prozessrecht tiefer laufen muss.
+1. Abrechnungszeitraum bestimmen: Beginn, Ende, Nutzerwechsel, Leerstand.
+2. Fristende berechnen: spätestens zwölf Monate nach Ende des Abrechnungszeitraums bei Wohnraum.
+3. Zugang beweisen: Einwurf, Bote, Zustellnachweis, E-Mail nur bei tragfähiger Vereinbarung/Kommunikationslage.
+4. Formelle Mindestangaben innerhalb der Frist prüfen. Eine bloße Zahlenwolke wahrt die Frist nicht.
+5. Korrektur unterscheiden:
+   - zugunsten des Mieters grundsätzlich möglich,
+   - zulasten des Mieters nach Fristablauf nur, wenn der Vermieter die Verspätung nicht zu vertreten hat.
+6. WEG-Sonderfall: Verzögerung durch die GdWE/Hausverwaltung kann relevant sein, entlastet den vermietenden Eigentümer aber nicht automatisch. Nachweise zur Anforderung, Erinnerung und Verzögerungsursache sammeln.
+7. Gewerberaum: Vertragslage prüfen; § 556 Abs. 3 BGB gilt unmittelbar für Wohnraum, kann aber vertraglich übernommen oder abweichend geregelt sein.
+
+## Entscheidungsbaum
+
+| Frage | Ja | Nein |
+| --- | --- | --- |
+| Abrechnung fristgerecht zugegangen? | Nachforderung weiter prüfen | Nachforderung regelmäßig ausgeschlossen |
+| Abrechnung formell ordnungsgemäß? | materielle Prüfung | keine Fälligkeit der Nachforderung |
+| Korrektur nach Frist zulasten Mieter? | nur bei Nichtvertretenmüssen | ausgeschlossen |
+| Guthaben des Mieters? | auszahlen/aufrechnen prüfen | Nachforderung/Saldo prüfen |
+
+## Ausgabe
+
+- Fristenrechner mit konkreten Daten.
+- Zugangsnachweis-Ampel.
+- Schreiben: Einwand "Nachforderung ausgeschlossen" oder Vermieterbegründung "nicht zu vertreten".
+- Prozessbaustein zur Darlegungs- und Beweislast.
 
 ## Quellen- und Sicherheitsregel
-- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+§ 556 Abs. 3 BGB aktuell prüfen. BGH, Urteil vom 12.11.2014 - VIII ZR 112/14 als Zugangswarnung nur mit frei prüfbarer Quelle verwenden. Keine Blindfundstellen.

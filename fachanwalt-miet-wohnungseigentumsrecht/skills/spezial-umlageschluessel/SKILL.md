@@ -1,36 +1,48 @@
 ---
 name: spezial-umlageschluessel
-description: "Umlageschlüssel: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Vertrag, Wohnfläche, Verbrauch, Personen, Änderung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Umlageschlüssel in Miet- und WEG-Abrechnungen: Vertrag, § 556a BGB, Wohnfläche, Personen, Einheiten, Verbrauch, Miteigentumsanteile, HeizkostenV, Gewerbe-Vorwegabzug, Schlüsselwechsel, Wohnflächenabweichung und Beweisführung."
 ---
 
 # Umlageschlüssel
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Vertrag, Wohnfläche, Verbrauch, Personen, Änderung.
 
-## Kaltstart
-1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
-2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
-3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
-4. Welche Frist, Form, Zuständigkeit oder Beweislast kann den Fall kippen?
-5. Welche Unterlagen belegen den Kern: Vertrag, Nachtrag, Beschluss, Protokoll, Abrechnung, Fotos, Messungen, Kontoauszüge, Mails?
+Dieser Skill prüft nicht bloß, ob irgendwo "qm" steht. Er ermittelt, welcher Umlageschlüssel rechtlich gilt, ob er korrekt angewandt wurde und ob ein anderer Schlüssel prozessual durchsetzbar ist.
 
-## Prüfraster
-1. **Rechtsverhältnis abgrenzen:** Wohnraummiete, Gewerberaum, WEG, Verwaltung, Nachbar-/Ordnungsrecht oder Schnittstelle.
-2. **Tatbestand:** Anspruchsgrundlage, Einwendung, Gegenrecht und Rechtsfolge sauber trennen.
-3. **Form und Frist:** Zugang, Text-/Schriftform, Beschlussfristen, Abrechnungsfristen, Verjährung.
-4. **Beweis:** Darlegungslast, Substantiierung, Beweisangebot, Sachverständigenbedarf.
-5. **Taktik:** Sofortmaßnahme, Verhandlung, Vergleich, Klage/Eilantrag, Kostenrisiko.
-6. **Ergebnis:** Ampel mit Begründung und konkretem nächsten Arbeitsschritt.
+## Normlogik
 
-## Output
-- Prüfvermerk mit Normen und Belegen.
-- Lückenliste der fehlenden Tatsachen.
-- Entwurf für Mandantenmail, Gegenseitenschreiben, Beschlussvorschlag oder Schriftsatzbaustein.
-- Anschluss-Skills, wenn WEG/Miete/Betriebskosten/GEG/Prozessrecht tiefer laufen muss.
+- Wohnraummiete: Vertrag zuerst; ohne wirksame Vereinbarung § 556a Abs. 1 BGB, grundsätzlich Wohnfläche, verbrauchs-/verursachungsabhängig soweit erfasst.
+- Vermieterseitige Änderung: § 556a Abs. 2 BGB nur bei erfasstem Verbrauch oder erfasster Verursachung und Erklärung in Textform für künftige Abrechnungszeiträume.
+- Heizkosten/Warmwasser: HeizkostenV geht vor; Verbrauchsanteil regelmäßig 50 bis 70 Prozent, Rest nach Fläche/Raum.
+- WEG: interne Verteilung nach Gesetz, Gemeinschaftsordnung oder wirksamem Beschluss; Mietverhältnis bleibt davon getrennt.
+- CO2-Kosten: eigene gesetzliche Aufteilungslogik, nicht blind nach dem allgemeinen Betriebskostenschlüssel verteilen.
 
-## Quellen- und Sicherheitsregel
-- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+## Typische Schlüssel und Prüfprobleme
+
+| Schlüssel | Geeignet für | Prüfpunkt |
+| --- | --- | --- |
+| Wohnfläche | Grundsteuer, Versicherung, Allgemeinstrom, Gartenpflege | Ist die Fläche vertraglich, tatsächlich oder abgerechnet plausibel? |
+| Verbrauch | Wasser, Heizung, Warmwasser, Müll bei Erfassung | Sind Zähler, Ablesezeitpunkt, Nutzerwechsel und Leerstand dokumentiert? |
+| Personen | Müll/Wasser nur bei tragfähiger Datenerhebung | Personenwechsel, Leerstand, Datenschutz, Beweisbarkeit |
+| Einheiten | einfache Anlagen mit gleichartiger Nutzung | Grobe Unbilligkeit bei stark unterschiedlicher Fläche/Nutzung |
+| MEA | WEG-intern häufig | Nicht automatisch mietrechtlich bindend |
+| Vorwegabzug Gewerbe | Restaurant, Laden, Praxis, Tiefgarage | konkrete Mehrverursachung und Rechenweg dokumentieren |
+
+## Arbeitsablauf
+
+1. Mietvertrag, Gemeinschaftsordnung, Beschlüsse und Vorjahresabrechnungen nebeneinanderlegen.
+2. Für jede Kostenart den zulässigen Schlüssel bestimmen.
+3. Rechenbasis prüfen: Gesamtfläche, Wohnungsfläche, Verbrauch, Personenmonate, MEA, Gewerbeanteil.
+4. Schlüsselwechsel markieren: ab wann, wie erklärt, für welche Kostenart, welche Rechtsgrundlage?
+5. Ergebnis nicht nur rechtlich, sondern tabellarisch rechnen.
+
+## Ausgabe
+
+- Schlüssel-Matrix je Kostenart.
+- Rechenblatt: bisheriger Betrag, richtiger Schlüssel, korrigierter Betrag.
+- Einwandsschreiben oder Vermieter-Korrekturschreiben.
+- Hinweis, ob der Fehler formell oder materiell wirkt.
+
+## Quellenregel
+
+Aktuelle Normtexte von § 556a BGB und HeizkostenV prüfen. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen; keine BeckRS- oder juris-Blindfundstellen.

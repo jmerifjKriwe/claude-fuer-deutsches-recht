@@ -1,63 +1,62 @@
 ---
 name: mr-betriebskostenabrechnung-fehler-spezial
-description: "Spezialfall fehlerhafte Betriebskostenabrechnung: formell und materiell pruefen, Belegrecht § 259 BGB, Einsichtnahme, Saumnis 12-Monatsfrist § 556 Abs. 3 BGB. Klage des Mieters auf Rueckzahlung. Pruefraster und Mustertexte."
+description: "Fehlerhafte Betriebskostenabrechnung als Streitfall: formelle Mindestangaben, materielle Umlagefähigkeit, Belegeinsicht nach § 259 BGB, Zahlungsbelege, 12-Monats-Fristen nach § 556 Abs. 3 BGB, Zurückbehaltung, Rückzahlungsklage und Mustertexte."
 ---
 
 # Mietrecht: Betriebskosten-Fehler
 
 ## Aufgabe
-Spezialfall fehlerhafte Betriebskostenabrechnung: formell und materiell pruefen, Belegrecht § 259 BGB, Einsichtnahme, Saumnis 12-Monatsfrist § 556 Abs.
 
-
-## Fachlicher Arbeitskern
-
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `mietrecht` zum Thema `mr-betriebskostenabrechnung-fehler-spezial`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Spezialfall fehlerhafte Betriebskostenabrechnung: formell und materiell pruefen, Belegrecht § 259 BGB, Einsichtnahme, Saumnis 12-Monatsfrist § 556 Abs. 3 BGB. Klage des Mieters auf Rueckzahlung. Pruefraster und Mustertexte..
-
-Arbeite deshalb fallnah:
-
-1. **Falltyp erkennen:** Einordnung, ob es um Erstberatung, Anspruchs-/Pflichtenpruefung, Vertrags-/Bescheid-/Schriftsatzarbeit, Strategie oder Fristenrettung geht.
-2. **Entscheidungspunkte bilden:** Welche zwei bis fuenf Weichen entscheiden den Fall wirklich?
-3. **Belege anfordern:** Nur die Unterlagen nachfordern, die fuer diese Weichen gebraucht werden; keine Frageboegen um ihrer selbst willen.
-4. **Spezialwissen anwenden:** Die im Skill genannten Normen, Behoerden, Verfahrensarten, Branchenlogiken oder typischen Streitpunkte sichtbar abarbeiten.
-5. **Nutzbaren Output liefern:** Am Ende steht ein Memo, eine Matrix, ein Textbaustein, ein Schriftsatzgeruest, ein Mandantenbrief oder eine klare Naechste-Schritte-Liste.
-
-Wenn ein anderer Skill desselben Plugins genauer passt, schlage ihn aktiv vor und erklaere in einem Satz, warum der Wechsel die Arbeit beschleunigt.
+Dieser Skill ist der Streitfall-Skill: Er hilft, wenn die Abrechnung schon auf dem Tisch liegt, der Mieter nicht zahlen will, der Vermieter eine Nachforderung durchsetzen möchte oder bereits Mahnung, Klage oder Rückzahlung im Raum stehen.
 
 ## Kaltstart
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+1. Welche Seite: Mieter, Vermieter, Verwaltung, Anwalt?
+2. Abrechnungsjahr, Datum der Abrechnung, tatsächlicher Zugang, Zahlungs-/Mahnlage?
+3. Was wird angegriffen: Frist, Form, Kostenart, Schlüssel, Belege, Heizkosten, CO2, Vorauszahlungen?
+4. Welche Unterlagen liegen vor: Mietvertrag, Abrechnung, Heizkosten, Rechnungen, Zahlungsbelege, Mieterzahlungen?
+5. Gewünschter Output: Einwendung, Belegeinsicht, Rückforderung, Klageerwiderung, Klageentwurf, Vergleich?
 
-## Pruefraster
+## Rechtsanker
 
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+- § 556 Abs. 3 BGB: Abrechnung, Nachforderungsausschluss, Einwendungsfrist.
+- § 556a BGB: Umlagemaßstab.
+- § 259 BGB und § 242 BGB: Rechenschafts-/Belegeinsicht und Zurückbehaltung.
+- BetrKV: laufende Betriebskosten und Kostenarten.
+- HeizkostenV: Verbrauchserfassung und Kürzungsrecht.
+- CO2KostAufG: Vermieter-/Mieteranteil.
+- BGH, Urteil vom 09.04.2008 - VIII ZR 84/07: formelle Mindestangaben.
+- BGH, Urteil vom 09.12.2020 - VIII ZR 118/19: Zahlungsbelege gehören zur Einsicht.
+- BGH, Urteil vom 15.12.2021 - VIII ZR 66/20: Originalbelege als Grundsatz.
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+## Streitfall-Matrix
 
-## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `mietrecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+| Streitpunkt | Mieterlinie | Vermieterlinie | Beleg |
+| --- | --- | --- | --- |
+| verspäteter Zugang | Nachforderung ausgeschlossen | Zugang beweisen / Nichtvertretenmüssen | Zustellung/Bote |
+| formelle Lücke | Nachforderung nicht fällig | Mindestangaben nachreichen? | Abrechnung |
+| nicht umlagefähige Kosten | Position kürzen | BetrKV/Vertrag zeigen | Rechnung/Vertrag |
+| fehlende Zahlungsbelege | Zurückbehaltung | Einsicht anbieten | Zahlungsnachweis |
+| falscher Schlüssel | Korrekturbetrag | Vertrags-/Gesetzesschlüssel verteidigen | Rechenblatt |
+| Heizkosten/CO2 | Kürzung/Korrektur | Daten nachliefern | Heizkosten/CO2 |
 
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+## Prozesslogik
+
+1. Ist die Forderung überhaupt fällig?
+2. Ist sie fristgerecht geltend gemacht?
+3. Ist der Betrag materiell richtig?
+4. Wurde Belegeinsicht ermöglicht?
+5. Welche Zahlung ist sofort sinnvoll, welche nur unter Vorbehalt, welche gar nicht?
+6. Bei Rückzahlungsklage: Zahlung, Vorbehalt, Fehler und Anspruchshöhe sauber darlegen.
+
+## Output
+
+- Fehler- und Betragsmatrix.
+- Einwendungsschreiben mit Belegeinsicht.
+- Vermieter-Korrektur-/Fälligstellungsschreiben.
+- Rückzahlungs- oder Klageerwiderungsbaustein.
+- Vergleichsvorschlag mit sauberer Bezifferung.
 
 ## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
 
-## Was dieser Skill nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.

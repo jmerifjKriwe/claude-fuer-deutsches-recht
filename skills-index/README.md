@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v74.3.1`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v74.3.2`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 20000+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -104,7 +104,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 20000+ Tabellenzei
 - [hinweisgeberschutz-compliance](./hinweisgeberschutz-compliance.md) (100 Skills)
 - [hoai-leistungsphasen-praxis](./hoai-leistungsphasen-praxis.md) (336 Skills)
 - [hochschulrecht-laender](./hochschulrecht-laender.md) (100 Skills)
-- [immobilienrechtspraxis](./immobilienrechtspraxis.md) (54 Skills)
+- [immobilienrechtspraxis](./immobilienrechtspraxis.md) (57 Skills)
 - [influencer-recht](./influencer-recht.md) (69 Skills)
 - [informationsfreiheit-presseauskunft](./informationsfreiheit-presseauskunft.md) (100 Skills)
 - [insiderrecht-compliance](./insiderrecht-compliance.md) (56 Skills)

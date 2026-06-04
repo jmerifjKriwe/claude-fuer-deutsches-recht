@@ -1,74 +1,107 @@
 ---
 name: nebenkostenabrechnung-pruefen
-description: Mietersicht — prüfe eine Betriebskostenabrechnung auf Form (§ 556 Abs. 3 BGB) Frist (Zugang innerhalb von zwoelf Monaten nach Abrechnungszeitraum) Umlagefähigkeit nach BetrKV Verteilerschluessel rechnerische Richtigkeit Belegrecht (§ 259 BGB) und Einhaltung der HeizkostenV. Erzeugt einen Rückfrage- oder Beanstandungsbrief mit Berechnung des etwaigen Guthabens. Disclaimer am Anfang und vor jedem Schreiben.
+description: "Betriebskostenabrechnung prüfen aus Mietersicht: formelle Mindestangaben, Frist, Umlagefähigkeit, Belegeinsicht, Zahlungsbelege, HeizkostenV, CO2KostAufG, Rechenkontrolle, Einwendungen und temporäres Zurückbehaltungsrecht."
 ---
 
-# Nebenkostenabrechnung prüfen (Mietersicht)
+# Betriebskostenabrechnung prüfen
 
-## Disclaimer (Schlüsselstelle)
+## Ziel
 
-Die Prüfung deckt typische Fehlerquellen ab, ersetzt aber keine anwaltliche Prüfung im Einzelfall. Insbesondere die Frist nach § 556 Abs. 3 Satz 2 BGB (Einwendungen innerhalb von zwölf Monaten nach Zugang) ist materielle Ausschlussfrist.
+Dieser Skill prüft eine konkrete Betriebskostenabrechnung so, dass daraus sofort ein Rückfrageschreiben, eine Zahlungsempfehlung, eine Einwendung oder eine Klage-/Verteidigungsnotiz entstehen kann. Er unterscheidet konsequent zwischen formellen Fehlern, materiellen Fehlern und bloßen Erläuterungslücken.
 
-## Workflow
+## Kaltstart
 
-### Schritt 1 — Formale Prüfung
+Wenn die Abrechnung vorliegt, nicht lange fragen: zuerst auswerten. Nur diese Weichen klären:
 
-- **Abrechnungszeitraum** maximal zwölf Monate (§ 556 Abs. 3 Satz 1 BGB).
-- **Zugang** beim Mieter innerhalb von zwölf Monaten nach Ende des Abrechnungszeitraums; sonst Nachforderung ausgeschlossen (§ 556 Abs. 3 Satz 3 BGB).
-- **Mindestinhalt** Zusammenstellung der Gesamtkosten, Angabe und Erläuterung des Verteilerschlüssels, Berechnung des Anteils des Mieters, Abzug der Vorauszahlungen.
+1. Wann ging die Abrechnung zu und für welchen Zeitraum?
+2. Welche Nachforderung oder welches Guthaben wird verlangt?
+3. Welche Vorauszahlungen wurden wirklich geleistet?
+4. Gibt es Mietvertrag, Vorjahresabrechnung, Heizkostenabrechnung, WEG-Abrechnung oder Belege?
+5. Soll zunächst Belegeinsicht verlangt, gezahlt unter Vorbehalt, gekürzt oder bestritten werden?
 
-### Schritt 2 — Umlagefähigkeit nach BetrKV
+## Rechts- und Rechtsprechungsanker
 
-- Liste der siebzehn Betriebskostenarten nach § 2 BetrKV prüfen.
-- Nicht umlagefähig: Verwaltungskosten, Instandhaltungs- und Instandsetzungskosten, Reparaturen, Bankgebuehren, Anwaltskosten.
-- Vertragliche Umlagevereinbarung im Mietvertrag erforderlich (Verweis auf BetrKV genügt).
+- § 556 Abs. 3 BGB: Abrechnungsfrist und Einwendungsfrist.
+- § 556a BGB: Umlagemaßstab.
+- § 259 BGB und § 242 BGB: Beleg- und Rechenschaftslogik.
+- BetrKV §§ 1 und 2: Umlagefähige Kostenarten.
+- HeizkostenV, insbesondere §§ 7, 8, 9a, 12.
+- CO2KostAufG für Brennstoff-CO2-Kosten.
+- BGH, Urteil vom 09.04.2008 - VIII ZR 84/07: Mindestangaben formeller Ordnung.
+- BGH, Urteil vom 12.11.2014 - VIII ZR 112/14: formelle Ordnung trotz Schätzung möglich; Schätzung ist dann materiell zu prüfen.
+- BGH, Urteil vom 09.12.2020 - VIII ZR 118/19: Einsicht auch in Zahlungsbelege.
+- BGH, Urteil vom 15.12.2021 - VIII ZR 66/20: grundsätzlich Einsicht in Originalbelege; Kopien nur bei besonderem Grund oder Vereinbarung.
 
-### Schritt 3 — Verteilerschlüssel
+## Prüfraster
 
-- Wohnfläche, Personenzahl, Verbrauch, Wohneinheit — je nach Mietvertrag und BetrKV.
-- **Heizkosten und Warmwasser** zwingend mindestens fünfzig Prozent verbrauchsabhängig (§ 7 HeizkostenV).
+### 1. Frist und Zugang
 
-### Schritt 4 — Rechnerische Prüfung
+- Nachforderung ausgeschlossen, wenn die Abrechnung nicht binnen zwölf Monaten nach Ende des Abrechnungszeitraums zugeht und der Vermieter die Verspätung zu vertreten hat.
+- Einwendungen des Mieters binnen zwölf Monaten ab Zugang der Abrechnung.
+- Zugangsnachweis des Vermieters kritisch prüfen: Datum im Schreiben reicht nicht.
 
-- Summen der Einzelpositionen mit den ausgewiesenen Gesamtkosten abgleichen.
-- Anteil des Mieters anhand des Verteilerschlüssels nachrechnen.
-- Vorauszahlungen mit den tatsächlich geleisteten Zahlungen abgleichen (Kontoauszüge).
+### 2. Formelle Mindestangaben
 
-### Schritt 5 — Belegrecht (§ 259 BGB, § 556 Abs. 4 BGB)
+Eine Abrechnung ist formell brauchbar, wenn der Mieter rechnerisch nachvollziehen kann:
 
-- Mieter darf die Originalbelege einsehen.
-- Aufforderung in Textform mit Termin in den Geschäftsräumen des Vermieters oder Versand von Kopien gegen Erstattung der Kosten.
+- Gesamtkosten je Kostenart,
+- angewendeter Verteilerschlüssel,
+- Rechenweg zum eigenen Anteil,
+- Abzug der Vorauszahlungen,
+- Ergebnis als Nachforderung oder Guthaben.
 
-### Schritt 6 — Einwendungsfrist
+Fehlt einer dieser Bausteine, kann die Nachforderung schon formal scheitern. Sind Bausteine vorhanden, aber falsch, ist meist materiell zu prüfen.
 
-- Einwendungen müssen dem Vermieter spätestens **zwölf Monate nach Zugang der Abrechnung** mitgeteilt werden (§ 556 Abs. 3 Satz 5 und 6 BGB).
-- Fristversäumnis führt zur Präklusion der Einwendungen.
+### 3. Umlagefähigkeit
 
-## Schreiben-Entwurf
+Nicht umlagefähig sind typischerweise:
 
-Erzeuge ein Rückfrage- oder Beanstandungsschreiben mit:
+- Verwaltungskosten,
+- Instandhaltung und Instandsetzung,
+- Reparaturanteile im Hausmeister- oder Wartungsvertrag,
+- Bank- und Finanzierungskosten ohne tragfähige Grundlage,
+- Prozess-, Anwalts- oder Mahnkosten,
+- Kosten, die nicht vereinbart oder nicht unter BetrKV/konkret vereinbarte sonstige Betriebskosten fallen.
 
-1. Bezugnahme auf die Abrechnung (Datum, Zeitraum, behauptetes Ergebnis).
-2. Konkrete Beanstandungen (formal, Umlagefähigkeit, Verteilerschlüssel, Rechenfehler).
-3. Antrag auf Belegeinsicht mit Terminvorschlag.
-4. Berechnung des aus Sicht des Mieters richtigen Saldos.
-5. Frist zur Stellungnahme (zwei Wochen).
-6. **Disclaimer am Ende** — Empfehlung, vor Klage anwaltlichen Rat einzuholen.
+### 4. Belege und Zahlungsbelege
 
-## Aktuelle Rechtsprechung — Leitsaetze (Stand 05/2026, verifiziert dejure.org)
+Fordere gezielt an:
 
-- **BGH 09.04.2008, VIII ZR 84/07**: Eine Betriebskostenabrechnung ist formell ordnungsgemaess, wenn sie die Gesamtkosten, den Verteilerschluessel, die Berechnung des Mieteranteils und den Vorauszahlungsabzug nachvollziehbar enthaelt. Quelle: dejure.org/2008,5921 (BGHZ 176, 191).
-- **BGH 12.11.2014, VIII ZR 112/14**: Verspaeteter Zugang der Betriebskostenabrechnung — Vermieter traegt Beweislast fuer rechtzeitigen Zugang; Nachforderungsausschluss § 556 Abs. 3 S. 3 BGB greift. Quelle: dejure.org/2014,33617.
-- **BGH 07.12.2011, VIII ZR 118/11**: Belegeinsicht in Originalbelege; Mieter kann auch bei umfangreichen Belegsammlungen Einsicht in den Geschaeftsraeumen des Vermieters verlangen. Quelle: dejure.org/2011,28968.
-- **BGH 23.06.2010, VIII ZR 227/09**: Anforderungen an Umlage von Heizkosten nach HeizkostenV; bei Verstoss gegen Verbrauchsabhaengigkeit > 50% kann Mieter um 15% kuerzen (§ 12 HeizkostenV). Quelle: dejure.org/2010,16538.
-- **Gesetzeslage 2026:** HeizkostenV-Novelle 2022 (Bundesgesetzblatt I S. 2206) — neue Pflichten zu unterjaehrigen Verbrauchsinformationen bei fernablesbaren Zaehlern. CO2-Kostenaufteilung nach CO2KostAufG (zum 01.01.2023, Bundesgesetzblatt I S. 1804) — Aufteilung zwischen Vermieter und Mieter nach Stufenmodell je nach Gebaeudeenergieeffizienz.
+- Rechnungen,
+- Verträge und Leistungsverzeichnisse,
+- Zahlungsbelege/Kontoauszüge,
+- Mess- und Ableseprotokolle,
+- Dienstleisteraufschlüsselung bei Hausmeister, Reinigung, Wartung,
+- Flächen-/Einheitenliste,
+- Heizkosten- und CO2-Berechnung.
 
-Vor Ausgabe weiterer Aktenzeichen Live-Verifikation per dejure.org / bundesgerichtshof.de.
+Solange berechtigte Belegeinsicht verweigert wird, kann gegen die Nachforderung ein temporäres Leistungsverweigerungsrecht bestehen.
 
-## Paragrafenkette
+### 5. Heizkosten und CO2
 
-§ 556 Abs. 3 BGB — Abrechnungsfrist und Einwendungsfrist; BetrKV — Umlagefaehigkeit
+- Verbrauchsabhängige Abrechnung prüfen.
+- Schätzungen nach § 9a HeizkostenV separat begründen lassen.
+- Kürzungsrecht nach § 12 HeizkostenV prüfen.
+- CO2-Aufteilung nach CO2KostAufG kontrollieren: Emissionsdaten, Gebäudestufe, Brennstoffrechnung, rechnerischer Vermieter-/Mieteranteil.
+
+### 6. Rechenkontrolle
+
+Erzeuge eine Tabelle:
+
+| Position | Abgerechnet | Richtig? | Fehlerart | Beleg fehlt | Korrektur |
+| --- | ---: | --- | --- | --- | ---: |
+| Hausmeister | ... | prüfen | Reparaturanteil? | Vertrag/Stunden | ... |
+| Heizung | ... | prüfen | HeizkostenV/CO2 | Messdaten | ... |
+| Grundsteuer | ... | prüfen | Zeitraum | Bescheid | ... |
+
+## Output
+
+- Kurzbewertung: zahlen, teilweise zahlen, Belegeinsicht, Einwendung oder Klageabwehr.
+- Einwendungsschreiben mit konkreten Positionen.
+- Belegeinsichtsanfrage mit Liste der benötigten Belege.
+- Korrigierte Saldenrechnung.
+- Fristenblatt für Einwendungsfrist und etwaige Zahlung unter Vorbehalt.
 
 ## Quellenregel
 
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+Normen live auf gesetze-im-internet.de prüfen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.

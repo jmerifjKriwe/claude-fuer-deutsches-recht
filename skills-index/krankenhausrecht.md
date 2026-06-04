@@ -1,6 +1,6 @@
 # krankenhausrecht
 
-**67 Skills** · Stand `v74.3.1`
+**67 Skills** · Stand `v74.3.2`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/krankenhausrecht/README.md)

@@ -541,7 +541,7 @@
       "name": "fachanwalt-miet-wohnungseigentumsrecht",
       "source": "./fachanwalt-miet-wohnungseigentumsrecht",
       "description": "Großer Fachanwalt-Kompass Miet- und Wohnungseigentumsrecht mit über 200 Skills für Wohnraum, Gewerberaum, Betriebskosten, WEG, Hausverwaltung, Beschlüsse, GEG, Beweise, Fristen und Workflows.",
-      "version": "74.1.0",
+      "version": "74.3.2",
       "author": {
         "name": "Klotzkette"
       }
@@ -874,7 +874,7 @@
       "name": "immobilienrechtspraxis",
       "source": "./immobilienrechtspraxis",
       "description": "Werkzeuge fuer immobilienrechtliche Rechtsabteilungen: musterbasierte Vertragserstellung mit Klauselschutz, Vertragspruefung gegen Playbook, Grundbuchanalyse, Sachverhaltsermittlung, Mieteranfragen, Case Management und AVV-Pruefung. Rechtsprechung nur nach Live-Verifikation.",
-      "version": "74.1.0",
+      "version": "74.3.2",
       "author": {
         "name": "Klotzkette"
       }
@@ -1198,7 +1198,7 @@
       "name": "mietrecht",
       "source": "./mietrecht",
       "description": "Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitaetsstaedte. Datenerhebung Mieterhoehungs-Widerspruch Mietsenkungsverlangen Nebenkostenprüfung und Erstellung Mieteranfragen Klageentwurf zum Amtsgericht.",
-      "version": "74.1.0",
+      "version": "74.3.2",
       "author": {
         "name": "Klotzkette"
       }
@@ -1837,7 +1837,7 @@
       "name": "weg-hausverwaltung",
       "source": "./weg-hausverwaltung",
       "description": "Operatives WEG- und Hausverwaltungs-Plugin fuer Beschluesse, Eigentuemerversammlung, Protokoll, Beschlusssammlung, Wirtschaftsplan, Jahresabrechnung, Hausgeld, Sonderumlage, Betriebskosten, Handwerker, bauliche Veraenderungen, Steckersolar, Wallbox, Verwalter, Beirat und Anwalt-Eskalation.",
-      "version": "74.1.0",
+      "version": "74.3.2",
       "author": {
         "name": "Klotzkette"
       }
@@ -1888,5 +1888,5 @@
       }
     }
   ],
-  "version": "74.3.1"
+  "version": "74.3.2"
 }

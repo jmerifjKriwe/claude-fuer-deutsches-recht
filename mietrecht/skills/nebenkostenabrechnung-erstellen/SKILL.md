@@ -1,83 +1,111 @@
 ---
 name: nebenkostenabrechnung-erstellen
-description: Vermieter- und Hausverwaltungssicht — Workflow für rechtssichere Betriebskostenabrechnungen nach § 556 BGB und BetrKV. Deckt Abrechnungszeitraum Zugangsfrist (zwoelf Monate) Umlagefähigkeit Verteilerschluessel HeizkostenV Vorauszahlungen und Mindestinhalt ab. Hinweise zu typischen Fehlerquellen die zur Unwirksamkeit führen. Erzeugt eine Mustergliederung und Prüfroutine vor Versand. Disclaimer im Skill und vor jedem Versand-Schritt.
+description: "Betriebskostenabrechnung erstellen aus Vermieter- und Hausverwaltungssicht: Umlagevereinbarung, BetrKV-Kostenarten, HeizkostenV, CO2KostAufG, Abrechnungsfrist, Vorauszahlungen, Belegpaket, Zugangsnachweis und Versand-Qualitygate."
 ---
 
-# Nebenkostenabrechnung erstellen (Vermieter / Hausverwaltung)
+# Betriebskostenabrechnung erstellen
 
-## Disclaimer (Schlüsselstelle)
+## Ziel
 
-Der nachstehende Workflow ist eine Arbeitsgrundlage. Vor Versand einer Abrechnung mit groesserer Nachforderung oder bei strittigen Verteilerschlüsseln ist eine Prüfung durch einen Fachanwalt für Mietrecht oder eine erfahrene Hausverwaltung empfohlen.
+Dieser Skill erstellt keine pauschale Nebenkostenliste, sondern eine belastbare, versandfähige Betriebskostenabrechnung für Wohnraummiete oder gemischt genutzte Objekte. Er trennt streng:
 
-## Workflow
+- mietvertragliche Umlagevereinbarung,
+- tatsächlich angefallene Gesamtkosten,
+- umlagefähige Betriebskosten nach BetrKV,
+- nicht umlagefähige Verwaltung, Instandhaltung und Instandsetzung,
+- Heiz-/Warmwasserkosten nach HeizkostenV,
+- CO2-Kostenaufteilung nach CO2KostAufG,
+- Vorauszahlungen und Saldo.
 
-### Schritt 1 — Rechtsgrundlagen sichern
+## Kaltstart
 
-- Mietvertraegliche Umlagevereinbarung prüfen (Verweis auf BetrKV genügt).
-- Abrechnungszeitraum festlegen (maximal zwölf Monate).
-- Zugangsfrist beachten: innerhalb von **zwölf Monaten nach Ende des Abrechnungszeitraums** beim Mieter eingegangen (§ 556 Abs. 3 Satz 2 BGB), sonst Nachforderungsausschluss.
+Nur diese Punkte abfragen, wenn sie nicht aus der Akte hervorgehen:
 
-### Schritt 2 — Gesamtkosten erfassen
+1. Abrechnungsjahr und Zugangsziel: Bis wann muss die Abrechnung beim Mieter sein?
+2. Wohnraum, Gewerbe oder gemischt genutztes Objekt?
+3. Mietvertragliche Betriebskostenklausel: pauschal, Vorauszahlung, Inklusivmiete oder konkrete Kostenliste?
+4. Gibt es WEG-Jahresabrechnung, Heizkostenabrechnung, Rechnungen/Zahlungsbelege, Kontoauszüge und Mieter-Vorauszahlungskonto?
+5. Sollen Nachforderung, Guthaben, Vorauszahlungsanpassung oder nur ein Entwurf ausgegeben werden?
 
-- Belege je Kostenart sortieren (siebzehn Arten nach § 2 BetrKV plus sonstige Betriebskosten falls vertraglich vereinbart).
-- Nicht umlagefähig herausrechnen: Verwaltung, Instandhaltung und Instandsetzung, Bankgebuehren.
-- Brennstoff-Vorrat zum Stichtag bewerten.
+## Rechts- und Quellenanker
 
-### Schritt 3 — Verteilerschlüssel
+- § 556 BGB: Betriebskostenvereinbarung, Abrechnungszeitraum, Abrechnungsfrist, Einwendungsfrist.
+- § 556a BGB: Umlagemaßstab, soweit mietvertraglich nichts anderes gilt.
+- § 560 Abs. 4 BGB: Anpassung der Vorauszahlungen nach Abrechnung.
+- BetrKV §§ 1 und 2: Betriebskostenbegriff und Kostenarten.
+- HeizkostenV §§ 6 bis 12: Verbrauchserfassung, Kostenverteilung und Kürzungsrecht.
+- CO2KostAufG: Aufteilung der CO2-Kosten, bei Wohngebäuden regelmäßig Stufenmodell.
+- BGH, Urteil vom 09.04.2008 - VIII ZR 84/07: Mindestangaben einer formell ordnungsgemäßen Betriebskostenabrechnung.
+- BGH, Urteil vom 12.11.2014 - VIII ZR 112/14: Schätzungen und materielle Fragen kippen nicht automatisch die formelle Ordnung.
+- BGH, Urteil vom 09.12.2020 - VIII ZR 118/19: Belegeinsicht umfasst auch Zahlungsbelege.
 
-- Wohnfläche, Personenzahl, Wohneinheit oder Verbrauch nach Mietvertrag und § 556a BGB.
-- Änderung des Schlüssels nur unter den Voraussetzungen des § 556a Abs. 2 BGB.
-- **Heizkosten und Warmwasser**: mindestens fünfzig Prozent verbrauchsabhängig nach § 7 HeizkostenV — empfohlen siebzig Prozent.
+## Erstellungsworkflow
 
-### Schritt 4 — Mieteranteil berechnen
+### 1. Umlagegrundlage
 
-- Wohnfläche oder andere Bezugsgroesse je Mieter dokumentieren.
-- Anteil je Kostenart berechnen.
-- Vorauszahlungen des Mieters abziehen.
-- Saldo (Guthaben oder Nachforderung) ausweisen.
+Prüfe zuerst die Mietvertragslage. Ohne Umlagevereinbarung gibt es bei Wohnraum keine Nachforderung auf Betriebskosten. Ein Verweis auf die BetrKV genügt regelmäßig; "sonstige Betriebskosten" müssen als solche erkennbar vereinbart sein und dürfen nicht erst in der Abrechnung erfunden werden.
 
-### Schritt 5 — Mindestinhalt der Abrechnung
+### 2. Abrechnungsperiode und Frist
 
-- Abrechnungszeitraum.
-- Zusammenstellung der Gesamtkosten je Position.
-- Angabe und Erläuterung des Verteilerschlüssels je Position.
-- Berechnung des Mieteranteils.
-- Abzug der Vorauszahlungen.
-- Saldo mit Fälligkeit und Zahlungsweg.
-- Hinweis auf Einwendungsfrist nach § 556 Abs. 3 Satz 5 BGB.
+- Abrechnungszeitraum höchstens zwölf Monate.
+- Abrechnung muss dem Mieter spätestens zwölf Monate nach Ende des Abrechnungszeitraums zugehen.
+- Nicht nur Versand, sondern Zugang beweissicher planen: Bote mit Zustellvermerk, Einwurf mit Zeuge, Portalzugang nur bei tragfähiger Vereinbarung und Zugangsnachweis.
 
-### Schritt 6 — Anpassung der Vorauszahlungen (§ 560 Abs. 4 BGB)
+### 3. Kostenarten-Matrix
 
-- Bei dauerhaften Änderungen können Vermieter und Mieter durch Erklärung in Textform die Vorauszahlung auf eine angemessene Höhe anpassen.
-- Empfehlung: separates Schreiben, getrennt von der Abrechnung.
+Erzeuge eine Tabelle:
 
-### Schritt 7 — Prüfroutine vor Versand
+| Kostenart | Beleg | Zeitraum | Umlagefähig? | Schlüssel | Herauszurechnen |
+| --- | --- | --- | --- | --- | --- |
+| Grundsteuer | Bescheid | Jahr | ja, wenn vereinbart | Fläche/Vertrag | Nachzahlungen für andere Jahre erläutern |
+| Wasser/Abwasser | Rechnung/Zähler | Jahr | ja | Verbrauch/Fläche | Leerstand prüfen |
+| Hausmeister | Vertrag/Stunden | Jahr | nur Betrieb, nicht Reparatur/Verwaltung | Vertrag/Fläche | Reparaturanteile |
+| Gartenpflege | Rechnung | Jahr | ja | Vertrag/Fläche | Neuanlage/Umgestaltung |
+| Versicherung | Police/Rechnung | Jahr | Sach-/Haftpflicht ja | Vertrag/Fläche | Rechtsschutz/Verwaltung |
+| Heizung/Warmwasser | Heizkostenabrechnung | Jahr | ja | HeizkostenV | CO2-Anteil, Kürzungsrecht |
 
-- Rechnerische Prüfung der Summen.
-- Plausibilität je Position (Vorjahresvergleich).
-- Verteilerschlüssel mit Mietvertrag abgeglichen.
-- Heizkostenabrechnung enthält den nach HeizkostenV vorgeschriebenen Verbrauchsanteil.
-- Belege können kurzfristig zur Einsicht bereitgestellt werden (§ 556 Abs. 4 BGB).
-- Versand nachweisbar (Einschreiben oder Bote).
+### 4. Verteilerschlüssel
 
-## Ausgabe
+- Vertraglicher Schlüssel vor gesetzlichem Auffangmaßstab.
+- Wenn nichts vereinbart ist: Wohnfläche nach § 556a Abs. 1 BGB, soweit Verbrauch oder Verursachung nicht erfasst wird.
+- Heizkosten/Warmwasser nicht in die allgemeine Flächenlogik ziehen: HeizkostenV gesondert rechnen.
+- Gemischt genutzte Objekte: Gewerbe-Vorwegabzug nur, wenn die Gewerbenutzung Mehrkosten verursacht oder der Vertrag/die Sachlage dies trägt; keine automatische Sonderbelastung ohne Begründung.
 
-Mustergliederung der Abrechnung als Markdown plus Checkliste vor Versand. Vor der finalen Freigabe Disclaimer wiederholen.
+### 5. Heizkosten, Warmwasser und CO2
 
-## Aktuelle Rechtsprechung — Leitsaetze (Stand 05/2026, verifiziert dejure.org)
+- Prüfen, ob Messgeräte fernablesbar sind und ob unterjährige Verbrauchsinformationen relevant sind.
+- Verbrauchsanteil nach HeizkostenV grundsätzlich zwischen 50 und 70 Prozent.
+- Bei Verstößen gegen HeizkostenV Kürzungsrecht nach § 12 HeizkostenV markieren.
+- CO2-Kosten nicht als normale Brennstoffkosten ungeprüft vollständig auf den Mieter legen. Für Wohngebäude Stufe ermitteln; bei Nichtwohngebäuden aktuelle Sonderregel und Rechtsstand live prüfen.
 
-- BGH 09.04.2008, VIII ZR 84/07 — Mindestanforderungen Betriebskostenabrechnung (dejure.org/2008,5921; BGHZ 176, 191)
-- BGH 12.11.2014, VIII ZR 112/14 — Beweislast Vermieter fuer rechtzeitigen Zugang innerhalb der 12-Monatsfrist (dejure.org/2014,33617)
-- BGH 06.04.2016, VIII ZR 78/15 — Beleg-Einsichtsrecht des Mieters umfasst auch Datennachvollziehbarkeit (dejure.org/2016,8164)
-- HeizkostenV-Novelle 2022 (BGBl. I S. 2206) — fernablesbare Zaehler, unterjaehrige Verbrauchsinfo, Kuerzungsrecht § 12 HeizkostenV bei Verstoss
-- CO2KostAufG (BGBl. I 2022 S. 2030, in Kraft 01.01.2023) — Stufenmodell zur Aufteilung der CO2-Kosten zwischen Vermieter und Mieter nach Gebaeudeenergieeffizienz
+### 6. Vorauszahlungen und Saldo
 
-Weitere Entscheidungen vor Ausgabe ueber dejure.org / bundesgerichtshof.de verifizieren.
+- Nur tatsächlich geschuldete und geleistete Vorauszahlungen für den Abrechnungszeitraum abziehen.
+- Mieterwechsel taggenau abgrenzen.
+- Guthaben und Nachforderung klar ausweisen.
+- Anpassung der Vorauszahlungen nach § 560 Abs. 4 BGB separat erklären, nicht versteckt in die Abrechnung schreiben.
 
-## Paragrafenkette
+## Versand-Qualitygate
 
-§ 556 BGB, BetrKV, HeizkostenV — Abrechnungsfrist, Umlagefaehigkeit, Verteilerschluessel
+Vor Versand zwingend ausgeben:
+
+1. formelle Mindestangaben vollständig,
+2. alle Kostenarten mit Beleg und Umlagegrundlage,
+3. Heizkosten/CO2 gesondert geprüft,
+4. Vorauszahlungen gegen Mietkonto abgeglichen,
+5. Nachforderung durch Zugangsnachweis abgesichert,
+6. Belege kurzfristig einsichtsfähig,
+7. Anschreiben mit Einwendungsfrist und Belegeinsichtshinweis.
+
+## Output
+
+- fertige Abrechnung als Tabelle,
+- Begleitschreiben an den Mieter,
+- Belegverzeichnis,
+- Rechenkontrollblatt,
+- Vorauszahlungsanpassung als separates Schreiben,
+- Lückenliste, wenn die Abrechnung noch nicht versandfähig ist.
 
 ## Quellenregel
 
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+Normen live auf gesetze-im-internet.de prüfen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.

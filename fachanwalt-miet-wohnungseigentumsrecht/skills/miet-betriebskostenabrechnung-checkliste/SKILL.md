@@ -1,49 +1,63 @@
 ---
 name: miet-betriebskostenabrechnung-checkliste
-description: "Checkliste Betriebskostenabrechnung: BetrKV-Katalog, Abrechnungsfrist § 556 Abs. 3 BGB, Umlagemassstab, formelle und materielle Fehler, Belegeinsicht. Mustertext Einwendungsschreiben Mieterseite."
+description: "Betriebskostenabrechnung im Fachanwaltsmandat schnell prüfen oder erstellen: Mietvertragsklausel, § 556 BGB, BetrKV, HeizkostenV, CO2KostAufG, formelle Mindestangaben, materielle Umlagefähigkeit, Belegeinsicht, Zahlungsbelege, Einwendungsfristen und verwertbare Schreiben."
 ---
 
-# Miet: Betriebskosten-Checkliste
+# Betriebskostenabrechnung Mietrecht
 
-## Aufgabe
-Checkliste Betriebskostenabrechnung: BetrKV-Katalog, Abrechnungsfrist § 556 Abs.
+## Einsatz
+
+Nutze diesen Skill, wenn im Fachanwaltsmandat eine Betriebskostenabrechnung erstellt, angegriffen, verteidigt oder prozessual aufbereitet werden soll. Er trennt streng zwischen:
+
+- formeller Ordnungsmäßigkeit,
+- materieller Umlagefähigkeit,
+- Belegeinsicht und Zahlungsnachweis,
+- WEG-/Hausverwaltungsdaten als Vorstufe,
+- Zahlung, Zurückbehaltung, Korrektur und Prozessrisiko.
 
 ## Kaltstart
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+Frage zuerst nur diese Punkte ab:
 
-## Pruefraster
+1. Mieter-, Vermieter-, Verwalter- oder Anwaltsseite?
+2. Abrechnungsjahr, Zugang der Abrechnung, Wohnraum oder Gewerberaum?
+3. Mietvertragliche Regelung: Vorauszahlung, Pauschale, Inklusivmiete, BetrKV-Verweis, "sonstige Betriebskosten"?
+4. Liegen Gesamtabrechnung, Einzelabrechnung, Heizkostenabrechnung, CO2-Daten, Belege und Vorauszahlungskonto vor?
+5. Gewünschtes Produkt: Prüfmatrix, Einwendungsschreiben, korrigierte Abrechnung, Klage-/Erwiderungsbaustein oder Mandantenmemo?
 
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+## Rechtsanker
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+- § 556 BGB: Umlagevereinbarung, Jahresfrist für Abrechnung, Einwendungsfrist.
+- § 556a BGB: gesetzlicher Umlagemaßstab, wenn nichts anderes wirksam vereinbart ist.
+- § 560 Abs. 4 BGB: Anpassung von Vorauszahlungen nach Abrechnung.
+- BetrKV §§ 1, 2: Betriebskostenbegriff und Kostenarten.
+- HeizkostenV §§ 6 bis 12: verbrauchsabhängige Abrechnung und Kürzungsrecht.
+- CO2KostAufG: Vermieter-/Mieteranteil an CO2-Kosten.
+- BGH, Urteil vom 09.04.2008 - VIII ZR 84/07: Mindestangaben einer formell ordnungsgemäßen Betriebskostenabrechnung.
+- BGH, Urteil vom 12.11.2014 - VIII ZR 112/14: rechtzeitiger Zugang der Abrechnung ist Vermieterrisiko.
+- BGH, Urteil vom 09.12.2020 - VIII ZR 118/19: Belegeinsicht umfasst auch Zahlungsbelege.
+- BGH, Urteil vom 15.12.2021 - VIII ZR 66/20: Einsicht grundsätzlich in Originalbelege; Kopien/Scans nur bei sachgerechter Ausnahme.
 
-## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+## Prüfmatrix
 
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+| Ebene | Leitfrage | Fehlerfolge | Sofortprodukt |
+| --- | --- | --- | --- |
+| Vertrag | Gibt es eine wirksame Umlagevereinbarung? | Ohne Umlagegrundlage keine Nachforderung | Klauselprüfung |
+| Frist | Abrechnung binnen 12 Monaten nach Periodenende zugegangen? | Nachforderung grundsätzlich ausgeschlossen | Fristenvermerk |
+| Form | Gesamtkosten, Schlüssel, Mieteranteil, Vorauszahlungen, Saldo erkennbar? | Nachforderung aus formell fehlerhafter Abrechnung nicht fällig | Formprüfung |
+| Material | Kosten laufend, umlagefähig, wirtschaftlich, richtig verteilt? | Kürzung/Korrektur | Kostenartenmatrix |
+| Heizkosten | HeizkostenV, Verbrauchsanteil, Zwischenablesung, § 12 HeizkostenV? | Kürzungs-/Einwendungsrisiko | Heizkostenprüfblatt |
+| CO2 | CO2-Daten und Wohn-/Nichtwohnlogik korrekt? | Korrektur des Vermieter-/Mieteranteils | CO2-Rechenblatt |
+| Belege | Rechnungen, Verträge, Zahlungsbelege, Hausmeisterstunden, Messdaten vorhanden? | Zurückbehaltung/Bestreiten | Belegeinsichtsschreiben |
+
+## Ausgabe
+
+- **Kurzbild**: fällig / nicht fällig / teilweise fällig.
+- **Tabelle je Kostenposition**: Kostenart, Rechtsgrund, Betrag, Schlüssel, Beleg, Einwand, Korrektur.
+- **Fristenblock**: Zugang, Abrechnungsfrist, Einwendungsfrist, Verjährung.
+- **Taktik**: Zahlung unter Vorbehalt, Zurückbehaltung bis Belegeinsicht, Korrekturangebot, Klage-/Abwehrlinie.
+- **Anschluss-Skills**: `spezial-betriebskosten-formell`, `spezial-betriebskosten-materiell`, `spezial-umlageschluessel`, `spezial-belegeinsicht-betriebskosten`, `spezial-co2kostenaufteilung`.
 
 ## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
-## Was dieser Skill nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Entscheidung oder Normfassung nicht aktuell verifiziert ist, als Prüfpunkt markieren.

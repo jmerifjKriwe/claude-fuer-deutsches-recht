@@ -1,8 +1,8 @@
 # Skill-Gesamtuebersicht
 
-Automatisch generierte Gesamtuebersicht aller **20810 Skills** in **209 Plugins**.
+Automatisch generierte Gesamtuebersicht aller **20813 Skills** in **209 Plugins**.
 
-Stand: `v74.3.1`.
+Stand: `v74.3.2`.
 
 ## ⬇️ Alle Skills auf einmal herunterladen
 
@@ -34,7 +34,7 @@ So bekommt man die komplette Sammlung als ZIP:
 
 **Wichtig:** Wenn irgendwo im Repo ein neuer Skill angelegt wird (also ein neuer Ordner `<plugin>/skills/<skill>/SKILL.md`), erscheint er beim naechsten Lauf von `scripts/generate-skills-md.py` automatisch -- sowohl in dieser Liste als auch auf der jeweiligen Plugin-Detailseite. Es kann also nichts fehlen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 20810 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 20813 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
 
 ## Alle Plugins
 
@@ -138,7 +138,7 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 | **hinweisgeberschutz-compliance** | 100 | [Skills ansehen](skills-index/hinweisgeberschutz-compliance.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hinweisgeberschutz-compliance.zip) |
 | **hoai-leistungsphasen-praxis** | 336 | [Skills ansehen](skills-index/hoai-leistungsphasen-praxis.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hoai-leistungsphasen-praxis.zip) |
 | **hochschulrecht-laender** | 100 | [Skills ansehen](skills-index/hochschulrecht-laender.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hochschulrecht-laender.zip) |
-| **immobilienrechtspraxis** | 54 | [Skills ansehen](skills-index/immobilienrechtspraxis.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/immobilienrechtspraxis.zip) |
+| **immobilienrechtspraxis** | 57 | [Skills ansehen](skills-index/immobilienrechtspraxis.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/immobilienrechtspraxis.zip) |
 | **influencer-recht** | 69 | [Skills ansehen](skills-index/influencer-recht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/influencer-recht.zip) |
 | **informationsfreiheit-presseauskunft** | 100 | [Skills ansehen](skills-index/informationsfreiheit-presseauskunft.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/informationsfreiheit-presseauskunft.zip) |
 | **insiderrecht-compliance** | 56 | [Skills ansehen](skills-index/insiderrecht-compliance.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insiderrecht-compliance.zip) |

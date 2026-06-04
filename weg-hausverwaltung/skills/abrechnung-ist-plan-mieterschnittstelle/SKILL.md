@@ -1,6 +1,6 @@
 ---
 name: abrechnung-ist-plan-mieterschnittstelle
-description: "Prüft Jahresabrechnung, Wirtschaftsplan, Ist-Kosten, Planansätze und Mieterschnittstelle. Erkennt Verteilerschlüssel, umlagefähige Betriebskosten, Gewerbeanteile, Nachzahlungen, Belegeinsicht und Vermieterkommunikation. Output: Prüfmatrix."
+description: "Jahresabrechnung, Wirtschaftsplan und Mieterschnittstelle: trennt § 28 WEG-Nachschüsse/Vorschussanpassung von mietrechtlicher Betriebskostenabrechnung, prüft Ist-/Plan-Abweichungen, Umlagefähigkeit, Gewerbeanteile, Belege, Heizkosten/CO2 und Eigentümerdatenpakete."
 ---
 
 # Abrechnung, Ist/Plan und Mieterschnittstelle
@@ -13,6 +13,15 @@ Nutze diesen Skill, wenn Jahresabrechnung, Wirtschaftsplan, Betriebskostenabrech
 - **Wirtschaftsplan:** Zukunftsbudget und Vorschüsse.
 - **Betriebskostenabrechnung:** Verhältnis Vermieter/Mieter, nur umlagefähige Kosten nach Mietvertrag und BetrKV.
 - **Gewerbe:** Restaurant/Laden kann Kosten verursachen, die nicht ohne Weiteres gleichmäßig verteilt werden dürfen.
+
+## Rechtsanker
+
+- § 28 Abs. 1 WEG: Wirtschaftsplan und Vorschüsse.
+- § 28 Abs. 2 WEG: Nachschüsse und Anpassung der beschlossenen Vorschüsse nach Ablauf des Kalenderjahres.
+- § 556 BGB: mietrechtliche Abrechnung, Frist und Einwendungen.
+- BetrKV, HeizkostenV, CO2KostAufG für die Übersetzung in die Mieterabrechnung.
+- BGH, Urteil vom 19.07.2024 - V ZR 102/23: Beschlüsse zu Jahresabrechnung/Wirtschaftsplan sind nach neuem Recht auf Vorschüsse, Nachschüsse und Vorschussanpassungen auszulegen.
+- BGH, Urteil vom 20.09.2024 - V ZR 195/23: Fehler der Jahresabrechnung sind für die Ungültigkeit relevant, wenn sie die Abrechnungsspitze/Zahlungspflicht betreffen.
 
 ## Prüfraster
 
@@ -34,6 +43,18 @@ Vermietende Eigentümer brauchen oft zwei Auswertungen:
 3. **Fristprüfung:** Abrechnungsfrist und Einwendungsfrist im Mietverhältnis.
 4. **Belegpaket:** Rechnungen, Verträge, Verteilerschlüssel, Heizkostenabrechnung.
 
+## Datenpaket für vermietende Eigentümer
+
+Erzeuge auf Wunsch ein exportfähiges Paket:
+
+1. umlagefähige Kosten nach BetrKV,
+2. nicht umlagefähige Kosten mit Begründung,
+3. HeizkostenV-Anlage,
+4. CO2KostAufG-Anlage,
+5. Vorauszahlungs-/Hausgeld-Soll-Ist-Abgleich,
+6. Schlüsseldatei: MEA, Wohnfläche, Verbrauch, Gewerbe-Vorwegabzug,
+7. Belegliste mit Zahlungsbelegen.
+
 ## Red Flags
 
 - Erhaltungskosten in Betriebskostenabrechnung.
@@ -41,6 +62,8 @@ Vermietende Eigentümer brauchen oft zwei Auswertungen:
 - CO2-Kosten falsch oder gar nicht verteilt.
 - Ist-Kosten weichen stark vom Plan ab, ohne Erläuterung.
 - Vermögensbericht fehlt oder ist mit Abrechnung vermischt.
+- "Genehmigung der Jahresabrechnung" als Beschlusstext ohne Klarstellung auf Nachschüsse/Vorschussanpassung.
+- vermietender Eigentümer erhält WEG-Abrechnung so spät, dass § 556 Abs. 3 BGB im Mietverhältnis brennt.
 
 
 ## Qualitäts-Hardening

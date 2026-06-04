@@ -1,15 +1,28 @@
 ---
 name: betriebskosten-nebenkostenabrechnung
-description: "Kontrolliert Betriebskosten- und Nebenkostenabrechnungen im Hausverwaltungs- und Vermietungskontext (Stand 05/2026): BetrKV, HeizkostenV, Mietvertrag, WEG-Abrechnung, Umlagefähigkeit, Abrechnungsfrist § 556 Abs. 3 BGB, Verteilerschlüssel, Belege, Einwendungen, CO2KostAufG-Aufteilung und Mietpreisbremse-Schnittstelle (BGBl. 2025 I Nr. 163)."
+description: "WEG- und Hausverwaltungs-Schnittstelle Betriebskosten: erstellt und kontrolliert mietrechtliche Betriebskostenabrechnungen aus WEG-Jahresabrechnung, Wirtschaftsplan, Heizkostenabrechnung und Belegen; mit BetrKV, HeizkostenV, CO2KostAufG, § 556 BGB, Abrechnungsspitze und Datenpaket für vermietende Eigentümer."
 ---
 
-# Betriebskosten und Nebenkosten
+# Betriebskosten und Nebenkosten in der WEG-Verwaltung
 
 Stand: 05/2026.
 
 ## Ziel
 
-Die Schnittstelle zwischen WEG-Jahresabrechnung und mietrechtlicher Betriebskostenabrechnung sauber beherrschen.
+Die Hausverwaltung soll zwei Welten auseinanderhalten:
+
+- **WEG-Rechnung**: GdWE, Eigentümer, Nachschüsse und Vorschussanpassung nach § 28 Abs. 2 WEG.
+- **Mietrechtliche Betriebskostenabrechnung**: Vermieter, Mieter, Umlagevereinbarung, BetrKV, HeizkostenV, CO2KostAufG, § 556 BGB.
+
+Eine WEG-Einzelabrechnung ist kein fertiger Mieternebenkostenbescheid. Sie ist Rohmaterial.
+
+## Kaltstart
+
+1. Wer fragt: WEG-Verwalter, vermietender Eigentümer, Mieter, Anwalt?
+2. Geht es um Erstellung, Prüfung, Datenanforderung oder Streit?
+3. Welche Unterlagen liegen vor: Jahresabrechnung, Einzelabrechnung, Wirtschaftsplan, Heizkosten, CO2, Rechnungen, Zahlungsbelege?
+4. Wohnraum, Gewerbeeinheit oder gemischte Nutzung?
+5. Soll ein Mieteranschreiben, Eigentümerdatenpaket, Belegeinsichtsprotokoll oder Beschluss-/Anfechtungsvermerk entstehen?
 
 ## Prüfung
 
@@ -22,10 +35,28 @@ Die Schnittstelle zwischen WEG-Jahresabrechnung und mietrechtlicher Betriebskost
 - **Belegeinsicht** nach Aufforderung; Vermieter muss Einsicht ermöglichen, ggf. gegen Kostenerstattung Kopien.
 - **Einwendungen** des Mieters: innerhalb 12 Monaten ab Zugang der Abrechnung (§ 556 Abs. 3 Satz 5 BGB).
 
+## WEG-spezifische Übersetzung
+
+| WEG-Position | Mietrechtliche Behandlung | Warnung |
+| --- | --- | --- |
+| Verwalterhonorar | nicht umlagefähig | aus Mieterabrechnung herausnehmen |
+| Erhaltungsrücklage | nicht umlagefähig | keine Betriebskosten |
+| Reparatur/Instandsetzung | nicht umlagefähig | Wartung/Reparatur trennen |
+| Hausmeister | nur laufende, umlagefähige Tätigkeiten | Tätigkeitsliste verlangen |
+| Versicherung | umlagefähig nur bei Grundstücksbezug | Police prüfen |
+| Gewerbe-Sonderkosten | Vorwegabzug möglich/nötig | Restaurant/Praxis/Tiefgarage separat prüfen |
+| Heizkosten | HeizkostenV gesondert | nicht in allgemeine Fläche ziehen |
+| CO2-Kosten | CO2KostAufG | Vermieteranteil nicht umlagen |
+
+## Abrechnungsspitze und Beschluss
+
+Seit der WEG-Reform beschließen Eigentümer nicht mehr die Jahresabrechnung "als solche", sondern die Einforderung von Nachschüssen oder Anpassung der Vorschüsse. Fehler im Zahlenwerk sind für eine Anfechtung besonders relevant, wenn sie sich auf die Abrechnungsspitze und damit die Zahlungspflicht auswirken. Für die Mieterseite bleibt zusätzlich die mietrechtliche Umrechnung nötig.
+
 ## CO2KostAufG (seit 01.01.2023)
 
 - Verteilung der CO₂-Kosten zwischen Vermieter und Mieter nach Zehn-Stufen-Modell (kg CO₂/m²·a).
 - Hoch-Emissionsgebäude: Vermieter trägt 95 %, Mieter 5 %. EH-55-Neubau: Mieter 100 %.
+- Nichtwohngebäude: derzeit grundsätzlich hälftige Aufteilung, kein verbindliches Stufenmodell "ab 2025" behaupten.
 - WEG-Abrechnung sollte die für die Stufenermittlung erforderlichen Daten (Brennstoffmenge, Emissionsfaktor, Energieausweis-Werte) liefern, damit der vermietende Eigentümer die Aufteilung mietvertraglich umsetzen kann.
 - Quelle: https://www.gesetze-im-internet.de/co2kostaufg/
 
@@ -60,6 +91,7 @@ Die Schnittstelle zwischen WEG-Jahresabrechnung und mietrechtlicher Betriebskost
 - Mieter-/Vermieter-Antwortentwurf
 - Korrekturvorschlag mit beziffertem Erstattungs-/Nachforderungsbetrag
 - Hinweis auf CO2KostAufG-Aufteilung
+- Datenpaket für vermietende Eigentümer: umlagefähige Positionen, nicht umlagefähige Positionen, Heizkosten/CO2, Belegliste, Schlüssel
 
 ## Cross-Refs
 
@@ -70,7 +102,7 @@ Die Schnittstelle zwischen WEG-Jahresabrechnung und mietrechtlicher Betriebskost
 
 ## Quellenpflicht
 
-`rechtsstand-mai-2026-faktenbank` laden. BetrKV: https://www.gesetze-im-internet.de/betrkv/ ; HeizkostenV: https://www.gesetze-im-internet.de/heizkostenv/ ; § 556 BGB: https://www.gesetze-im-internet.de/bgb/__556.html .
+`rechtsstand-mai-2026-faktenbank` laden. BetrKV: https://www.gesetze-im-internet.de/betrkv/ ; HeizkostenV: https://www.gesetze-im-internet.de/heizkostenv/ ; § 556 BGB: https://www.gesetze-im-internet.de/bgb/__556.html ; CO2KostAufG: https://www.gesetze-im-internet.de/co2kostaufg/ .
 
 
 ## Qualitäts-Hardening

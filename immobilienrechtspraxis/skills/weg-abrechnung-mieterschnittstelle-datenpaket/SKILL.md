@@ -1,0 +1,47 @@
+---
+name: weg-abrechnung-mieterschnittstelle-datenpaket
+description: "Datenpaket WEG-Abrechnung zu Mietern: übersetzt Jahresabrechnung, Einzelabrechnung, Wirtschaftsplan, Heizkosten, CO2-Daten und Belege in eine mietrechtlich brauchbare Betriebskostenabrechnung; mit Abrechnungsspitze, nicht umlagefähigen Positionen und Eigentümerkommunikation."
+---
+
+# WEG-Abrechnung als Mieterdatenpaket
+
+## Aufgabe
+
+Dieser Skill hilft, wenn ein vermietender Wohnungseigentümer seine WEG-Unterlagen bekommt und daraus eine Betriebskostenabrechnung für den Mieter erstellen muss. Er verhindert, dass interne WEG-Kosten unbesehen in das Mietverhältnis rutschen.
+
+## Trennung
+
+- **GdWE/Eigentümer**: Nachschüsse und Vorschussanpassungen aus § 28 Abs. 2 WEG.
+- **Vermieter/Mieter**: Betriebskosten nach Mietvertrag, BetrKV, HeizkostenV, CO2KostAufG und § 556 BGB.
+- **Hausverwaltung**: Datenlieferantin, nicht automatisch mietrechtliche Abrechnungsstelle.
+
+## Datenanforderung an WEG-Verwaltung
+
+1. Gesamt- und Einzelabrechnung.
+2. Verteilungsschlüssel je Kostenart.
+3. Rechnungen und Zahlungsbelege.
+4. Heizkostenabrechnung mit Nutzerwechseln.
+5. CO2-Daten aus Brennstoffrechnung.
+6. Tätigkeits-/Stundenlisten für Hausmeister.
+7. Liste nicht umlagefähiger Kosten: Verwalter, Rücklage, Reparaturen, Prozesskosten, Bank-/Finanzierungskosten.
+
+## Übersetzungstabelle
+
+| WEG-Unterlage | Mietrechtliche Nutzung | Risiko |
+| --- | --- | --- |
+| Einzelabrechnung | Ausgangsdaten | enthält nicht umlagefähige Positionen |
+| Wirtschaftsplan | Vorauszahlungsprognose | keine Jahresabrechnung |
+| Beschluss § 28 WEG | Zahlungspflicht Eigentümer | nicht Zahlungspflicht Mieter |
+| Vermögensbericht | Transparenz WEG | nicht in Betriebskostenabrechnung |
+| Heizkostenanlage | Mieterabrechnung | HeizkostenV/CO2 prüfen |
+
+## Output
+
+- Datenpaket-Checkliste für Verwaltung.
+- Mietrechtliche Übernahmematrix.
+- Entwurf Betriebskostenabrechnung aus WEG-Daten.
+- Schreiben an Eigentümer: welche Positionen nicht umgelegt werden dürfen.
+
+## Quellenregel
+
+§ 28 WEG, § 556 BGB, BetrKV, HeizkostenV und CO2KostAufG aktuell prüfen. WEG-Rechtsprechung zu Abrechnungsspitzen nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.

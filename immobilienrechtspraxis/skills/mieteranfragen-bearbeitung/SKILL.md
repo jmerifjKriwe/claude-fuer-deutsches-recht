@@ -1,6 +1,6 @@
 ---
 name: mieteranfragen-bearbeitung
-description: "Mieteranfragen im Miet- und WEG-Recht bearbeiten: Instandsetzung, Betriebskosten, Kündigung. Normen: §§ 535 536 556 573 BGB, WEG. Prüfraster: Anfragetyp, Rechtsgrundlage, Fristen, Handlungspflichten. Output: Bearbeitungsprotokoll Mieteranfrage. Abgrenzung: nicht WEG-Verwaltungsrecht."
+description: "Mieteranfragen im Immobilienportfolio bearbeiten: Mängel, Betriebskosten, Belegeinsicht, Kündigung, Mieterhöhung und Mietpreisbremse; mit Fristen, Zuständigkeit, Antwortentwurf, Aktenvermerk und Anschluss an die Betriebskosten-/WEG-Datenpaket-Skills."
 ---
 
 # Mieteranfragen Bearbeitung
@@ -28,6 +28,8 @@ Sachverhaltselementen und ergänzt aktuelle BGH-Rechtsprechung.
 - Mieterhöhung nach § 559 BGB Modernisierung
 - Widerspruch nach § 574 BGB Härteklausel
 - Betriebskostenabrechnung — Prüfung Einwendungen § 556 Abs. 3 BGB
+- Belegeinsicht Betriebskosten — Rechnungen, Verträge, Zahlungsbelege, Originale/Scans
+- CO2-Kostenaufteilung — Mieter-/Vermieteranteil nach CO2KostAufG
 - Untervermietung § 553 BGB
 - Mietkautionsrückforderung § 551 BGB
 - Schönheitsreparaturen und Endrenovierung
@@ -39,8 +41,8 @@ Sachverhaltselementen und ergänzt aktuelle BGH-Rechtsprechung.
 2. Sachverhalt verdichten (mittels Skill `sachverhaltsermittlung` oder
    direkt)
 3. Musterantwort auswählen, Platzhalter befuellen
-4. BGH-Rechtsprechung anhängen — juengstes Urteil zuerst, mit
-   Aktenzeichen Datum Fundstelle und Randnummer
+4. Rechtsprechung nur anhängen, wenn sie vor Ausgabe frei oder amtlich
+   geprüft wurde; Datum und Aktenzeichen sind Pflicht
 5. Argumentationslinie zweistufig: erst Rechtslage, dann konkrete
    Subsumtion
 6. Aktenvermerk für interne Akte mit Kurzbegründung der gewählten
@@ -67,6 +69,7 @@ Warnsiegel, weil Einzelfallbewertung zwingend ist:
 - Mietminderung mit Schimmel und Streit über Ursache
 - Mietpreisbremse mit Bestandsschutz-Fragen
 - Gewerbemiete mit Schriftform-Risiko § 550 BGB
+- Betriebskosten mit verweigerter Belegeinsicht, Zahlungsbelegen oder WEG-Datenlücken
 
 ## Beispielformulierungen
 
@@ -76,6 +79,8 @@ Warnsiegel, weil Einzelfallbewertung zwingend ist:
   Linie schlagen wir vor?"
 - "Mietkautionsrückforderung mit Abrechnung anbei. Prüfe und
   antworte."
+- "Mieter verlangt Zahlungsbelege zur Betriebskostenabrechnung 2025. Erstelle Antwort und Belegeinsichtsplan."
+- "WEG-Verwalterabrechnung liegt vor; welche Positionen dürfen in die Mieterabrechnung?"
 
 ## Aktuelle Rechtsprechung — Leitsaetze
 
@@ -88,6 +93,15 @@ Warnsiegel, weil Einzelfallbewertung zwingend ist:
 - Kaution: § 551 BGB
 - Mietpreisbremse: §§ 556d ff. BGB
 - Betriebskosten: § 556 Abs. 3 BGB, BetrKV
+- Betriebskosten-Schlüssel: § 556a BGB
+- Heizkosten: HeizkostenV
+- CO2-Kosten: CO2KostAufG
+
+## Anschluss-Skills Betriebskosten
+
+- `betriebskostenabrechnung-erstellen-asset-management`
+- `betriebskostenabrechnung-pruefen-asset-management`
+- `weg-abrechnung-mieterschnittstelle-datenpaket`
 
 ## Quellenregel
 

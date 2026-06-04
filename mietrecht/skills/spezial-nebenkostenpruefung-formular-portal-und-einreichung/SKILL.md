@@ -1,48 +1,53 @@
 ---
 name: spezial-nebenkostenpruefung-formular-portal-und-einreichung
-description: "Nebenkostenpruefung: Formular, Portal und Einreichungslogik im Plugin mietrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
+description: "Nebenkostenprüfung als Einreichungs- und Verfahrensworkflow: Belegeinsicht verlangen, Einwendungen fristwahrend formulieren, Rückzahlungsanspruch beziffern, Mahnung/Mahnverfahren/Klage behandeln und Unterlagen für Amtsgericht oder Mieter-/Vermieterportal ordnen."
 ---
 
-# Nebenkostenpruefung: Formular, Portal und Einreichungslogik
+# Nebenkostenprüfung: Einreichung, Portal und Amtsgericht
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `mietrecht`. Ausgangspunkt ist: Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitaetsstaedte. Datenerhebung Mieterhoehungs-Widerspruch Mietsenkungsverlangen Nebenkostenprüfung und Erstellung Mieteranfragen Klageentwurf zum Amtsgericht.
 
-Er führt durch **Formular, Portal und Einreichungslogik** im Themenfeld **Nebenkostenpruefung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-
-## Fachlicher Zuschnitt
-
-- **Thema:** Nebenkostenpruefung.
-- **Arbeitsfokus:** Formular, Portal und Einreichungslogik.
-- **Plugin-Rahmen:** Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitaetsstaedte. Datenerhebung....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+Dieser Skill baut aus einer fehlerhaften oder bestrittenen Betriebskostenabrechnung ein verwertbares Arbeitspaket: fristwahrendes Einwendungsschreiben, Belegeinsicht, Korrekturberechnung, Rückzahlungsaufforderung, Mahn-/Klageabwehr oder Klagepaket zum Amtsgericht.
 
 ## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. Wer reicht ein: Mieter, Vermieter, Verwaltung, Anwalt?
+2. Wo soll es hin: Gegenseite, Hausverwaltungsportal, Mieterverein, Rechtsschutz, Mahngericht, Amtsgericht?
+3. Welche Frist läuft: Einwendungsfrist, Zahlungsfrist, Mahnbescheid, Klageerwiderung?
+4. Welche Unterlagen sollen geordnet werden: Abrechnung, Mietvertrag, Belege, Zahlungsbelege, Kontoauszüge, Schriftverkehr?
+5. Was ist die Zahl: Nachforderung, Guthaben, streitiger Teilbetrag, Rückforderung?
 
 ## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Nebenkostenpruefung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+1. **Frist sichern**: Einwendung nach § 556 Abs. 3 Satz 5 BGB fristwahrend formulieren; konkrete Punkte nach Belegeinsicht vertiefen.
+2. **Belegeinsicht organisieren**: Rechnungen, Verträge, Zahlungsbelege, Originale/Scans, Heizkosten- und CO2-Daten listen.
+3. **Streitbetrag rechnen**: unstreitig, streitig, zurückbehalten, gezahlt unter Vorbehalt.
+4. **Dokumente ordnen**: Anlagenverzeichnis mit Datum, Absender, Inhalt, Beweiswert.
+5. **Verfahrenspfad wählen**:
+   - außergerichtliche Korrektur,
+   - Rückzahlungsverlangen,
+   - Verteidigung gegen Mahnung/Mahnbescheid,
+   - Klage auf Rückzahlung oder Feststellung,
+   - Klage des Vermieters auf Nachzahlung.
+
+## Portal-/Formularlogik
+
+- Nie nur Freitext in Portale kippen: erst Aktenvermerk, dann Kurzfassung, dann Anlagen.
+- Jede Zahl mit Anlage verbinden: "Position Hausmeister, Anlage K3, Rechnung [...], Kürzung [...] EUR".
+- Bei Mahnbescheid rechtzeitig Widerspruch prüfen; Begründung folgt erst im streitigen Verfahren.
+- Bei Klage: Forderung, Zahlung, Vorbehalt, Belegeinsicht und konkrete Fehler getrennt vortragen.
 
 ## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+- fristwahrendes Einwendungsschreiben,
+- Belegeinsichtsliste,
+- Korrekturtabelle,
+- Anlagenverzeichnis,
+- Mahnbescheid-/Klage-Reaktionsplan,
+- Schriftsatzbausteine in knapper Amtsgerichtssprache.
 
 ## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+
+- § 556 BGB, § 556a BGB, BetrKV, HeizkostenV und CO2KostAufG aktuell prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.

@@ -1,36 +1,41 @@
 ---
 name: spezial-hausmeisterkosten
-description: "Hausmeisterkosten: Spezial-Skill im Miet- und Wohnungseigentumsrecht; trennt umlagefähige Arbeiten, Verwaltung, Instandhaltung, Doppelerfassung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt."
+description: "Hausmeisterkosten in Betriebskostenabrechnungen: umlagefähige laufende Tätigkeiten von Verwaltung, Instandhaltung, Instandsetzung, Wohnungsabnahmen, Gartenpflege-Doppelerfassung und Bereitschafts-/Notdienstanteilen trennen; mit Beleg- und Stundenlistenprüfung."
 ---
 
 # Hausmeisterkosten
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: trennt umlagefähige Arbeiten, Verwaltung, Instandhaltung, Doppelerfassung.
 
-## Kaltstart
-1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
-2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
-3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
-4. Welche Frist, Form, Zuständigkeit oder Beweislast kann den Fall kippen?
-5. Welche Unterlagen belegen den Kern: Vertrag, Nachtrag, Beschluss, Protokoll, Abrechnung, Fotos, Messungen, Kontoauszüge, Mails?
+Hausmeisterkosten sind oft der schmutzigste Belegstapel der Betriebskostenabrechnung. Dieser Skill trennt Tätigkeiten, die laufenden Betrieb sichern, von Tätigkeiten, die der Vermieter selbst tragen muss.
 
-## Prüfraster
-1. **Rechtsverhältnis abgrenzen:** Wohnraummiete, Gewerberaum, WEG, Verwaltung, Nachbar-/Ordnungsrecht oder Schnittstelle.
-2. **Tatbestand:** Anspruchsgrundlage, Einwendung, Gegenrecht und Rechtsfolge sauber trennen.
-3. **Form und Frist:** Zugang, Text-/Schriftform, Beschlussfristen, Abrechnungsfristen, Verjährung.
-4. **Beweis:** Darlegungslast, Substantiierung, Beweisangebot, Sachverständigenbedarf.
-5. **Taktik:** Sofortmaßnahme, Verhandlung, Vergleich, Klage/Eilantrag, Kostenrisiko.
-6. **Ergebnis:** Ampel mit Begründung und konkretem nächsten Arbeitsschritt.
+## Abgrenzung
 
-## Output
-- Prüfvermerk mit Normen und Belegen.
-- Lückenliste der fehlenden Tatsachen.
-- Entwurf für Mandantenmail, Gegenseitenschreiben, Beschlussvorschlag oder Schriftsatzbaustein.
-- Anschluss-Skills, wenn WEG/Miete/Betriebskosten/GEG/Prozessrecht tiefer laufen muss.
+| Tätigkeit | Regelbewertung | Belegbedarf |
+| --- | --- | --- |
+| Kontrolle von Beleuchtung, Türen, Gemeinschaftsflächen | umlagefähig möglich | Dienstvertrag/Stundenliste |
+| Reinigung/Treppenhaus | umlagefähig, aber Doppelerfassung prüfen | Reinigungsvertrag, Hausmeisteranteil |
+| kleinere Wartungs-/Bedienarbeiten | prüfen | Tätigkeitsbeschreibung |
+| Reparatur, Instandsetzung, Schadensbeseitigung | nicht umlagefähig | herausrechnen |
+| Verwaltung, Schlüsselübergabe, Wohnungsabnahme | nicht umlagefähig | herausrechnen |
+| Gartenpflege | umlagefähig möglich, aber nicht doppelt neben Gartenfirma | Rechnungsabgleich |
+| Notdienst/Bereitschaft | nur laufender Betriebsanteil, keine Reparaturpauschale | Vertragsaufteilung |
+
+## Prüfablauf
+
+1. Mietvertrag: Hausmeisterkosten/BetrKV-Verweis vorhanden?
+2. Vertrag und Leistungsbeschreibung des Hausmeisters lesen.
+3. Jahresrechnung gegen Tätigkeitsnachweise und Stundenlisten halten.
+4. Nicht umlagefähige Anteile prozentual oder konkret herausrechnen.
+5. Doppelerfassungen mit Gartenpflege, Gebäudereinigung, Winterdienst und Reparaturrechnungen prüfen.
+6. Ergebnis beziffern und als Korrekturposition ausweisen.
+
+## Ausgabe
+
+- Hausmeister-Split-Tabelle.
+- Belegeinsichtsliste für fehlende Stunden-/Tätigkeitsnachweise.
+- Kürzungsbetrag und Formulierung für Einwendung oder Vermieter-Korrektur.
 
 ## Quellen- und Sicherheitsregel
-- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+BetrKV aktuell prüfen. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
