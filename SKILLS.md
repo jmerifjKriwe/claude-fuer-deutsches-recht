@@ -1,6 +1,6 @@
 # Skill-Gesamtuebersicht
 
-Automatisch generierte Gesamtuebersicht aller **20116 Skills** in **207 Plugins**.
+Automatisch generierte Gesamtuebersicht aller **20231 Skills** in **209 Plugins**.
 
 Stand: `v74.1.0`.
 
@@ -8,7 +8,7 @@ Stand: `v74.1.0`.
 
 | Paket | Inhalt | Download |
 | --- | --- | --- |
-| **Alle Skills (kompakt)** | Alle 207 Plugin-ZIPs in einem Archiv (ca. 11 MB) | [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) |
+| **Alle Skills (kompakt)** | Alle 209 Plugin-ZIPs in einem Archiv (ca. 11 MB) | [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) |
 | **Komplettpaket (alles)** | Plugins + Testakten + Uebersichten (ca. 80 MB) | [`alles-komplettpaket.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) |
 
 Das erste Paket reicht, wenn man nur die Prompts (Skills) braucht. Das zweite enthaelt zusaetzlich die Testakten und alle Repo-Uebersichten.
@@ -34,7 +34,7 @@ So bekommt man die komplette Sammlung als ZIP:
 
 **Wichtig:** Wenn irgendwo im Repo ein neuer Skill angelegt wird (also ein neuer Ordner `<plugin>/skills/<skill>/SKILL.md`), erscheint er beim naechsten Lauf von `scripts/generate-skills-md.py` automatisch -- sowohl in dieser Liste als auch auf der jeweiligen Plugin-Detailseite. Es kann also nichts fehlen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 20116 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 20231 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
 
 ## Alle Plugins
 
@@ -57,6 +57,7 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 | **bav-strategie-konzern** | 54 | [Skills ansehen](skills-index/bav-strategie-konzern.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bav-strategie-konzern.zip) |
 | **beamtenrecht** | 157 | [Skills ansehen](skills-index/beamtenrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/beamtenrecht.zip) |
 | **bereicherungs-und-anfechtungsrecht-pruefer** | 98 | [Skills ansehen](skills-index/bereicherungs-und-anfechtungsrecht-pruefer.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bereicherungs-und-anfechtungsrecht-pruefer.zip) |
+| **berichtspflichten-erlediger** | 59 | [Skills ansehen](skills-index/berichtspflichten-erlediger.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berichtspflichten-erlediger.zip) |
 | **berufsgerichtliche-verfahren-freie-berufe** | 100 | [Skills ansehen](skills-index/berufsgerichtliche-verfahren-freie-berufe.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsgerichtliche-verfahren-freie-berufe.zip) |
 | **berufsrecht-anwaelte** | 200 | [Skills ansehen](skills-index/berufsrecht-anwaelte.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-anwaelte.zip) |
 | **berufsrecht-ki-vertragspruefung** | 54 | [Skills ansehen](skills-index/berufsrecht-ki-vertragspruefung.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-ki-vertragspruefung.zip) |
@@ -212,6 +213,7 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 | **staatsanwaltschaft-praxis-einstieg** | 100 | [Skills ansehen](skills-index/staatsanwaltschaft-praxis-einstieg.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-praxis-einstieg.zip) |
 | **startup-hr-personalabteilung-berlin** | 110 | [Skills ansehen](skills-index/startup-hr-personalabteilung-berlin.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/startup-hr-personalabteilung-berlin.zip) |
 | **steuerrecht-anwalt-und-berater** | 280 | [Skills ansehen](skills-index/steuerrecht-anwalt-und-berater.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/steuerrecht-anwalt-und-berater.zip) |
+| **strafanzeige-vorbereiter** | 56 | [Skills ansehen](skills-index/strafanzeige-vorbereiter.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/strafanzeige-vorbereiter.zip) |
 | **strafbefehl-verteidiger** | 55 | [Skills ansehen](skills-index/strafbefehl-verteidiger.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/strafbefehl-verteidiger.zip) |
 | **strafzumessung** | 54 | [Skills ansehen](skills-index/strafzumessung.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/strafzumessung.zip) |
 | **strassenrecht-infrastruktur** | 100 | [Skills ansehen](skills-index/strassenrecht-infrastruktur.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/strassenrecht-infrastruktur.zip) |
