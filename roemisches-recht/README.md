@@ -45,7 +45,7 @@ Keine Blindzitate, keine erfundenen Rechtsprechungsfundstellen, keine Paywall-Li
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 190 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 178 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -134,21 +134,9 @@ Automatisch generierte Komplett-Liste aller 190 Skills in diesem Plugin. Beschre
 | `rom-082-roman-law-false-friends` | Römisches Recht: Roman Law False Friends. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `rom-083-fallloesung-im-institutionensystem` | Römisches Recht: Fallloesung Im Institutionensystem. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `rom-084-digestenstelle-in-argumentation` | Römisches Recht: Digestenstelle In Argumentation. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
-| `rom-085-roemisches-recht-fuer-anfaenger` | Römisches Recht: Roemisches Recht Fuer Anfaenger. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
-| `rom-086-roemisches-recht-in-hausarbeit` | Römisches Recht: Roemisches Recht In Hausarbeit. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
-| `rom-087-rechtsvergleichende-notiz` | Römisches Recht: Rechtsvergleichende Notiz. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `rom-088-historische-grenzen-der-analogie` | Römisches Recht: Historische Grenzen Der Analogie. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `rom-089-red-team-modernisierung` | Römisches Recht: Red Team Modernisierung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `rom-090-abschlussmemo-romanistische-tragfaehigkeit` | Römisches Recht: Abschlussmemo Romanistische Tragfaehigkeit. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
-| `rom-091-vertiefung-01-quellenmatrix` | Römisches Recht: Vertiefung 01 Quellenmatrix. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
-| `rom-092-vertiefung-01-streitstand-ohne-blindzitat` | Römisches Recht: Vertiefung 01 Streitstand Ohne Blindzitat. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
-| `rom-093-vertiefung-01-red-team-gegenposition` | Römisches Recht: Vertiefung 01 Red Team Gegenposition. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
-| `rom-094-vertiefung-01-praxisfall-auswertung` | Römisches Recht: Vertiefung 01 Praxisfall Auswertung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
-| `rom-095-vertiefung-01-dashboard-und-naechster-schritt` | Römisches Recht: Vertiefung 01 Dashboard Und Naechster Schritt. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
-| `rom-096-vertiefung-01-laienerklaerung` | Römisches Recht: Vertiefung 01 Laienerklaerung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
-| `rom-097-vertiefung-01-board-memo` | Römisches Recht: Vertiefung 01 Board Memo. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
-| `rom-098-vertiefung-01-vergleichende-synopse` | Römisches Recht: Vertiefung 01 Vergleichende Synopse. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
-| `rom-099-vertiefung-01-fristen-und-risiken` | Römisches Recht: Vertiefung 01 Fristen Und Risiken. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output. |
 | `rom-100-zwoelftafelgesetz-quellenkritik` | Römisches Recht: Zwölftafelgesetz als frühe Quellenlage, Rekonstruktion, Fragment, spätere Überlieferung und methodische Grenzen. |
 | `rom-101-zwoelftafelgesetz-prozess-und-vollstreckung` | Römisches Recht: Zwölftafelgesetz zu archaischem Verfahren, Ladung, Urteil, Vollstreckung, Schuldhaft und Prozessformalismus. |
 | `rom-102-zwoelftafelgesetz-familie-erbe-nachbarschaft` | Römisches Recht: Zwölftafelgesetz zu Hausverband, patria potestas, Erbfolge, Vormundschaft, Nachbarschaft und Grenzkonflikten. |
