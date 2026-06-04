@@ -1,6 +1,6 @@
 {
   "name": "notariat-alltag",
-  "version": "71.0.0",
+  "version": "71.0.1",
   "description": "Alltagsplugin für Notariat, Notariatsmitarbeitende und Notarinnen/Notare: Beurkundung, Vollzug, Register, Grundbuch, Geldwäsche, Kosten, Fristen und Mandantenkommunikation.",
   "license": "Apache-2.0 OR MIT",
   "author": {

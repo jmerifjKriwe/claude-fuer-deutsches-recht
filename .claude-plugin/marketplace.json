@@ -64,7 +64,7 @@
       "name": "arbeitsrecht",
       "source": "./arbeitsrecht",
       "description": "Arbeitsrechtliche Workflows fuer Kuendigung, Befristung, Urlaub, AGG, Aufhebungsvertrag, Betriebsrat, Arbeitszeit, Lohn und Expansion. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle verwendet.",
-      "version": "71.0.0",
+      "version": "71.0.1",
       "author": {
         "name": "Klotzkette"
       }
@@ -127,7 +127,7 @@
       "name": "beamtenrecht",
       "source": "./beamtenrecht",
       "description": "Beamtenrecht für Bund, Länder und Richterdienst: Status, Laufbahn, Besoldung, Versorgung, Konkurrentenstreit, Disziplinarrecht, Dienstunfähigkeit, Richterlaufbahn, Landesrecht und verständliche Mandatsführung.",
-      "version": "71.0.0",
+      "version": "71.0.1",
       "author": {
         "name": "Klotzkette"
       }
@@ -262,7 +262,7 @@
       "name": "bundeswehrrecht-wehrrecht",
       "source": "./bundeswehrrecht-wehrrecht",
       "description": "Super-Plugin für Soldatenrecht, Wehrbeschwerde, Disziplinarrecht, Wehrpflicht, Reservisten, Versorgung und Bundeswehrverwaltung.",
-      "version": "71.0.0",
+      "version": "71.0.1",
       "author": {
         "name": "Klotzkette"
       }
@@ -298,7 +298,7 @@
       "name": "datenbankrecht",
       "source": "./datenbankrecht",
       "description": "Großes Plugin zum deutschen und europäischen Datenbankrecht: UrhG §§ 87a ff., Datenbankrichtlinie, Investitionsschutz, Scraping, API, KI-Training, Vertrags- und Plattformkonflikte.",
-      "version": "71.0.0",
+      "version": "71.0.1",
       "author": {
         "name": "Klotzkette"
       }
@@ -334,7 +334,7 @@
       "name": "deutsche-rechtsgeschichte",
       "source": "./deutsche-rechtsgeschichte",
       "description": "Mega-Plugin zur deutschen Rechtsgeschichte: Epochen, Quellenkritik, Rezeption, Reichsrecht, BGB, Weimar, NS-Unrecht, DDR/BRD und rechtsgeschichtliche Argumentation.",
-      "version": "71.0.0",
+      "version": "71.0.1",
       "author": {
         "name": "Klotzkette"
       }
@@ -433,7 +433,7 @@
       "name": "fachanwalt-arbeitsrecht",
       "source": "./fachanwalt-arbeitsrecht",
       "description": "Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle.",
-      "version": "71.0.0",
+      "version": "71.0.1",
       "author": {
         "name": "Klotzkette"
       }
@@ -478,7 +478,7 @@
       "name": "fachanwalt-gewerblicher-rechtsschutz",
       "source": "./fachanwalt-gewerblicher-rechtsschutz",
       "description": "Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfuegung Verletzungsklage Lizenzanaloger Schadensersatz.",
-      "version": "71.0.0",
+      "version": "71.0.1",
       "author": {
         "name": "Klotzkette"
       }
@@ -694,7 +694,7 @@
       "name": "franchiserecht-praxis",
       "source": "./franchiserecht-praxis",
       "description": "Wirtschaftsrechtliches Plugin für Franchise-Systeme: vorvertragliche Aufklärung, Handbuch, Gebühren, Gebietsschutz, Kartellrecht, Kündigung, Expansion, Streit und Insolvenz.",
-      "version": "71.0.0",
+      "version": "71.0.1",
       "author": {
         "name": "Klotzkette"
       }
@@ -757,7 +757,7 @@
       "name": "gewerblicher-rechtsschutz",
       "source": "./gewerblicher-rechtsschutz",
       "description": "Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.",
-      "version": "71.0.0",
+      "version": "71.0.1",
       "author": {
         "name": "Klotzkette"
       }
@@ -874,7 +874,7 @@
       "name": "influencer-recht",
       "source": "./influencer-recht",
       "description": "Plugin für Influencer, Creator, Agenturen und Unternehmen: Werbekennzeichnung, Steuer, Umsatzsteuer, Sachleistungen, Plattformrecht, Medienrecht, Marken, Urheberrecht, Datenschutz und Verträge.",
-      "version": "71.0.0",
+      "version": "71.0.1",
       "author": {
         "name": "Klotzkette"
       }
@@ -1054,7 +1054,7 @@
       "name": "krankenkassenrecht-krankenversicherung",
       "source": "./krankenkassenrecht-krankenversicherung",
       "description": "Plugin für GKV, PKV, Beihilfe-Schnittstellen und Krankenversicherungsrecht: Leistungen, Beiträge, Krankengeld, Hilfsmittel, Widerspruch, MD, Versicherungsvertrag und Kostenerstattung.",
-      "version": "71.0.0",
+      "version": "71.0.1",
       "author": {
         "name": "Klotzkette"
       }
@@ -1081,7 +1081,7 @@
       "name": "leasingrecht-praxis",
       "source": "./leasingrecht-praxis",
       "description": "Wirtschaftsrechtliches Praxisplugin für Leasing, Sale-and-lease-back, Equipment Finance, Fahrzeugflotten, IT-Leasing, Insolvenz, Restwert, Sicherheiten und Vertragsgestaltung.",
-      "version": "71.0.0",
+      "version": "71.0.1",
       "author": {
         "name": "Klotzkette"
       }
@@ -1243,7 +1243,7 @@
       "name": "notariat-alltag",
       "source": "./notariat-alltag",
       "description": "Alltagsplugin für Notariat, Notariatsmitarbeitende und Notarinnen/Notare: Beurkundung, Vollzug, Register, Grundbuch, Geldwäsche, Kosten, Fristen und Mandantenkommunikation.",
-      "version": "71.0.0",
+      "version": "71.0.1",
       "author": {
         "name": "Klotzkette"
       }
@@ -1306,7 +1306,7 @@
       "name": "preussisches-allgemeines-landrecht-pralr",
       "source": "./preussisches-allgemeines-landrecht-pralr",
       "description": "PrALR-Plugin zum Allgemeinen Landrecht für die Preußischen Staaten: Quellenkritik, Textzeugen, Zivilrecht, Staats-/Polizeirecht, Strafrecht, Ständerecht, Aufopferung und Rezeptionsgeschichte.",
-      "version": "71.0.0",
+      "version": "71.0.1",
       "author": {
         "name": "Klotzkette"
       }
@@ -1396,7 +1396,7 @@
       "name": "roemisches-recht",
       "source": "./roemisches-recht",
       "description": "Mega-Plugin zum römischen Recht: Zwölftafelgesetz, Institutionensystem, Sachenrecht, Obligationen, Aktionenrecht, Erbrecht, Juristenrecht, Justinian, byzantinisches Recht und Rezeption.",
-      "version": "71.0.0",
+      "version": "71.0.1",
       "author": {
         "name": "Klotzkette"
       }
@@ -1702,7 +1702,7 @@
       "name": "verlagsrecht-buchpreisbindung",
       "source": "./verlagsrecht-buchpreisbindung",
       "description": "Plugin für Verlagsrecht, Verlagsgesetz, Autoren- und Herausgeberverträge, Buchpreisbindung, Titelschutz, Vertrieb, E-Book, Hörbuch und verlagsnahe Compliance.",
-      "version": "71.0.0",
+      "version": "71.0.1",
       "author": {
         "name": "Klotzkette"
       }
@@ -1774,7 +1774,7 @@
       "name": "weltraumrecht",
       "source": "./weltraumrecht",
       "description": "Großes Plugin für deutsches, europäisches und internationales Weltraumrecht: Raumfahrtverträge, Satelliten, Haftung, Weltraumbahnhof, Raketen, Raumstationen, Frequenzen, Exportkontrolle und Space Property.",
-      "version": "71.0.0",
+      "version": "71.0.1",
       "author": {
         "name": "Klotzkette"
       }
