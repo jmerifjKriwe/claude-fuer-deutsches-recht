@@ -27,6 +27,9 @@ Nutze diesen Skill im Plugin **Verbraucher im Rechtsstaat Alltag**, wenn die Akt
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
 
+## Startset geprüfter Verbraucher-Rechtsprechung
+
+Nutze zuerst `references/rechtsprechung-verbraucher.md`, wenn es um Button-Lösung, Bankentgelte, Inkasso, SCHUFA, Probeabo, Fitnessstudio oder Diesel-/Serienfälle geht. Die dort genannten Entscheidungen sind nur Arbeitsanker: Vor tragender Ausgabe immer den Link öffnen oder eine gleichwertige amtliche/frei zugängliche Quelle live prüfen.
 
 ## Spezielle Leitplanken
 

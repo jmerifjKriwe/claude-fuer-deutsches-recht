@@ -38,6 +38,15 @@ Kaltstart Verbandsfall Aufnehmen wird nicht als abstraktes Schema beantwortet, s
 - Abmahnung/Unterlassungsantrag
 - Sammelklage-Fahrplan mit Kommunikationsregeln
 
+## Neue Spezialpfade mit Rechtsprechungsankern
+
+- **Bankentgelte:** BGH XI ZR 26/20, XI ZR 139/23 und XI ZR 45/24 nicht nur zitieren, sondern in Anspruchsgruppen, Rückzahlungsmatrix und Verjährungsampel übersetzen.
+- **Inkasso:** Nach BGH VIII ZR 138/23 Konzerninkasso nicht pauschal verwerfen, sondern über Hauptforderung, Verzug, Erforderlichkeit, Höhe und Transparenz angreifen.
+- **Button-Fallen:** Nach EuGH C-249/21 den Buttontext, nicht die Stimmung der Website, zum Beweiszentrum machen.
+- **Probeabo:** Nach EuGH C-565/22 Widerruf, Kosteninformation, Kündigungsbutton und automatische Verlängerung getrennt prüfen.
+- **SCHUFA:** Nach EuGH C-634/21 sowie C-26/22/C-64/22 Scorewirkung, Negativeintrag und Restschuldbefreiung datenrechtlich sauber clustern.
+- **Diesel-Serien:** Nach EuGH C-100/21 und BGH VIa ZR 335/21 Fahrzeugdaten so granular erfassen, dass echte Serienfähigkeit erkennbar wird.
+
 ## Red-Team-Fragen
 
 - Verband nicht klagebefugt

@@ -25,6 +25,15 @@ Führt in Verbraucherschutzverband Durchsetzung ein, sortiert die Lage, fragt di
 4. Bei Mehr-Ebenen-Recht immer Bund, Land, Kommune, EU/international und Spezialgesetz trennen.
 5. Ausgabe mit konkretem nächsten Schritt, offenen Rückfragen und einer kurzen Fassung für Nichtjuristen schließen.
 
+## Verbraucherzentrale-Routing
+
+- Bankgebühren/Zustimmungsfiktion: `vdg-101-bankentgelte-zustimmungsfiktion-serie`.
+- Inkasso/Konzerninkasso/Nebenforderungen: `vdg-102-inkasso-konzerninkasso-musterfeststellung`.
+- Fehlerhafte Checkout-Buttons: `vdg-103-bestellbutton-uklag-uwg-abmahnung`.
+- Probeabo, Kündigungsbutton, automatische Verlängerung: `vdg-104-probeabo-widerruf-verbandsstrategie`.
+- SCHUFA, Scoring, Restschuldbefreiung: `vdg-105-schufa-scoring-dsgvo-verbandsfall`.
+- Diesel-/Fahrzeug-Serienfälle: `vdg-106-diesel-differenzschaden-serienfall`.
+
 ## Typische Ausgaben
 
 - Prüfvermerk mit Normpfad und Live-Check-Liste

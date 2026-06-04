@@ -27,6 +27,14 @@ Nutze diesen Skill im Plugin **Verbraucher im Rechtsstaat Alltag**, wenn die Akt
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
 
+## Rechtsprechungsbasiertes Routing
+
+- Bei Online-Bestellung, Buchungsseite oder unklarem "Jetzt anmelden"/"Buchung abschließen" sofort `online-bestellbutton-zahlungspflicht` vorschlagen.
+- Bei Kontoentgelten, Preisverzeichnis, Schweigen auf Bankpost oder Online-Banking-Zustimmung `bankentgelte-zustimmungsfiktion` nutzen.
+- Bei Auskunftei, Score, Kredit-/Konto-/Mietabsage oder Restschuldbefreiung `schufa-scoring-negativeintrag-dsgvo` nutzen.
+- Bei kostenloser Testphase, Lernplattform, Streaming, App oder automatischer Verlängerung `probeabo-widerruf-kuendigung` nutzen.
+- Bei Inkasso-Nebenforderungen, Konzerninkasso oder unklaren Gebühren `inkassokosten-konzerninkasso-verzug` nutzen.
+- Bei Fitnessstudio-Schließung, Vertragsverlängerung oder Beitragsrückzahlung `fitnessstudio-rueckzahlung-schliessung` nutzen.
 
 ## Spezielle Leitplanken
 

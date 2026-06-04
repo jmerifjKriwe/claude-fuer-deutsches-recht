@@ -53,7 +53,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 106 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -157,5 +157,11 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `vdg-097-flugportal-vergleich-pruefen` | Verbraucherschutzverband Durchsetzung: Flugportal: Vergleich prüfen. Vergleich prüfen für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vdg-098-flugportal-umsetzung-ueberwachen` | Verbraucherschutzverband Durchsetzung: Flugportal: Umsetzung überwachen. Umsetzung überwachen für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vdg-099-flugportal-kommunikation-steuern` | Verbraucherschutzverband Durchsetzung: Flugportal: Kommunikation steuern. Kommunikation steuern für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt tre... |
+| `vdg-101-bankentgelte-zustimmungsfiktion-serie` | Verbraucherzentrale: Bankentgelte nach Zustimmungsfiktion als Serienfall prüfen; BGH XI ZR 26/20, XI ZR 139/23, XI ZR 45/24, Anspruchsgruppen, Verjährung, Registertext, Rückzahlungsmatrix und Vergleichskontrolle. |
+| `vdg-102-inkasso-konzerninkasso-musterfeststellung` | Verbraucherzentrale: Inkasso- und Konzerninkasso-Serienfälle nach BGH VIII ZR 138/23 prüfen; Verzug, Erstattungsfähigkeit, Gebührenhöhe, RDG, Anspruchsgruppen und Kommunikation für Musterverfahren. |
+| `vdg-103-bestellbutton-uklag-uwg-abmahnung` | Verbraucherzentrale: fehlerhafte Bestellbuttons nach § 312j BGB und EuGH C-249/21 als Abmahn-, UKlaG-, UWG- oder Verbandsklagefall aufbereiten; mit Screenshot-Beweisplan, Testkauf und Antragstenor. |
+| `vdg-104-probeabo-widerruf-verbandsstrategie` | Verbraucherzentrale: Probeabo- und automatische Verlängerungsmodelle strategisch prüfen; EuGH C-565/22 Sofatutor, § 312j/312k/355 BGB, Widerrufsbelehrung, Kündigungsbutton, Anspruchsgruppen und Rückzahlungslogik. |
+| `vdg-105-schufa-scoring-dsgvo-verbandsfall` | Verbraucherzentrale: SCHUFA-Scoring, Negativeinträge und Restschuldbefreiung als DSGVO-Verbandsfall prüfen; EuGH C-634/21, C-26/22, C-64/22, Art. 15/17/21/22 DSGVO, Datenschutzaufsicht und Gruppenbeweise. |
+| `vdg-106-diesel-differenzschaden-serienfall` | Verbraucherzentrale: Diesel- und Fahrzeug-Serienfälle nach EuGH C-100/21 und BGH VIa ZR 335/21/533/21/1031/22 strukturieren; Differenzschaden, Anspruchsgruppen, Beweise, Verjährung und Vergleichsstrategie. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
