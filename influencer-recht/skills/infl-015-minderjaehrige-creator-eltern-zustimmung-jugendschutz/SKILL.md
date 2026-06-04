@@ -1,5 +1,5 @@
 ---
-name: infl-015-minderjaehrige-creator-kooperation-eltern-zustimmung
+name: infl-015-minderjaehrige-creator-eltern-zustimmung-jugendschutz
 description: "Influencer-Recht: Minderjährige Creator – elterliche Einwilligung, Jugendschutz, JuSchG, JMStV, Kooperationsverträge und Vermögensrecht."
 ---
 

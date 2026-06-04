@@ -1,5 +1,5 @@
 ---
-name: db-012-datenbankrecht-datenschutz-personenbezogene-daten
+name: db-012-datenbankrecht-und-datenschutz-personenbezogene
 description: 'Analysiert das Verhältnis von Datenbankherstellerrecht (§§ 87a-87e UrhG) und DSGVO bei personenbezogenen Datenbanken: Kumulative Schutzanwendung, Betroffenenrechte (Art. 15-22 DSGVO) vs. Datenbankschutz, Anonymisierungspflichten und Privacy-by-Design (Art. 25 DSGVO). Erstellt datenschutzrechtliches Compliance-Konzept für Datenbankbetreiber.'
 ---
 

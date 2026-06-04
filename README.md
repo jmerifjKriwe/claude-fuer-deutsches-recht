@@ -30,8 +30,8 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 204 |
-| **Skills (SKILL.md)** | 17779 — [Gesamtübersicht](./SKILLS.md) |
+| **Plugins** | 209 |
+| **Skills (SKILL.md)** | 21075 — [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 200 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
 | **Plugin-Version / Arbeitsstand** | `v80.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |

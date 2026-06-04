@@ -1,5 +1,5 @@
 ---
-name: fran-011-datenschutz-kundendaten-gemeinsame-verantwortlichkeit
+name: fran-011-datenschutz-crm-kundendaten-und-gemeinsame
 description: "Datenschutz im Franchisesystem regeln: gemeinsame Verantwortlichkeit nach Art. 26 DSGVO für CRM und Kundendaten, Auftragsverarbeitungsverträge nach Art. 28 DSGVO, Rechenschaftspflichten und Bussgeldrisiken. Perspektive Franchisegeber und Franchisenehmer."
 ---
 
