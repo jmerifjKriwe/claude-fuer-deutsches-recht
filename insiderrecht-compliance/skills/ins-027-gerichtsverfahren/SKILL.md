@@ -1,30 +1,81 @@
 ---
 name: ins-027-gerichtsverfahren
-description: "Spezialskill Insiderrecht fuer Gerichtsverfahren: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Prueft Insiderinformations-Qualitaet laufender Gerichtsverfahren und Schiedsverfahren: Kursrelevanz, Ad-hoc-Pflicht und Verteidigungsinteressen."
 ---
 
-# Insiderrecht: Gerichtsverfahren
+# Gerichtsverfahren und Schiedsverfahren – Insiderrecht
 
+## Rechtlicher Rahmen
 
-## Ziel
+Laufende oder drohende Gerichtsverfahren können Insiderinformationen darstellen, wenn ihr
+Ausgang den Kurs wesentlich beeinflussen würde (z. B. milliardenschwere Schadensersatzklagen,
+patentrechtliche Kernstreitigkeiten, Kartellbußgeldverfahren). Aufschub nach Art. 17 Abs. 4 MAR
+kann greifen, wenn Veröffentlichung das Verfahren gefährdet.
 
-Dieser Skill führt nicht schematisch durch Gerichtsverfahren, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+Rechtsgrundlagen:
+- Art. 7, 17 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- ESMA-Leitlinien Aufschub: https://www.bafin.de/dok/8252648
+- § 97 WpHG: https://www.gesetze-im-internet.de/wphg/__97.html
+- BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648
+
+## Ziel dieses Skills
+
+Dieser Skill prüft, ob laufende Gerichts- oder Schiedsverfahren eine Insiderinformation
+darstellen, wann die Ad-hoc-Pflicht entsteht, und ob ein Aufschub zulässig ist.
 
 ## Arbeitsprogramm
 
-- Insiderrelevanz von Gerichtsverfahren ex ante prüfen.
-- Ad-hoc/Aufschub/Insiderliste als drei getrennte Entscheidungen dokumentieren.
-- Handelsverbote, Kommunikationskreis und Verteidigungsakte koppeln.
+### Schritt 1 – Wesentlichkeit des Verfahrens
+
+- Was ist Gegenstand des Verfahrens?
+- Wie hoch ist das mögliche Schadensersatzvolumen oder der Wert der strittigen Rechte?
+- Wie wahrscheinlich ist ein nachteiliges Urteil?
+- Verhältnis zum Unternehmenswert (Marktkapitalisierung)
+
+### Schritt 2 – Insiderinformations-Prüfung (Art. 7 MAR)
+
+- Präzision: Ist das Verfahren und sein potenzieller Ausgang präzise genug?
+  (Laufendes Verfahren mit konkreten Klageanträgen ist präzise)
+- Kursrelevanz: Würde ein verständiger Anleger das Verfahren bei der
+  Investitionsentscheidung berücksichtigen?
+- Nichtöffentlichkeit: Ist das Verfahren noch nicht öffentlich bekannt?
+  (Viele Gerichtsverfahren werden öffentlich durch Pressemitteilungen oder Registereintragungen)
+
+### Schritt 3 – Aufschub wegen Verteidigungsinteressen
+
+- Legitimes Interesse: Beeinträchtigung der Verfahrensstrategie durch frühzeitige
+  Offenlegung der Streitwerte, Beweislage oder Vergleichsbereitschaft
+- Praxis: BaFin-Emittentenleitfaden erkennt dieses Interesse an, aber nur für die
+  Information über die Verfahrensstrategie, nicht für das Verfahren selbst, wenn bereits bekannt
+- Grenzen: Wenn Verfahren durch Kläger oder Gericht öffentlich gemacht wird → kein Aufschub
+
+### Schritt 4 – Eskalationspunkte: Neue kursrelevante Entwicklungen
+
+Neue Insiderinformationen entstehen ggf. bei:
+- Erstinstanzlichem Urteil (besonders bei hohem Streitwert)
+- Vergleichsverhandlungen (konkretes Angebot beider Seiten)
+- Behördlicher Entscheidung (Kartellamt, BaFin, EuGH-Schlussanträge)
+- Möglichem Aktenzeichen nach EuGH-Vorlage
+
+### Schritt 5 – Koordination mit Rechtsabteilung
+
+- Rechtsabteilung / externe Prozessanwälte: in Insiderliste aufnehmen
+- Regelmäßiger Update-Mechanismus: Quartalsbericht der Rechtsabteilung an Compliance
+  über wesentliche neue Entwicklungen in Verfahren mit Ad-hoc-Relevanz
 
 ## Red-Team-Fragen
 
-- Ist die Information wirklich präzise im Sinne von Art. 7 MAR oder nur Gerücht, Analyse, Prognose oder Wunschdenken?
-- Ist die Information noch nicht öffentlich, und ist sauber dokumentiert, wer sie wann bekommen hat?
-- Ist die Kursrelevanz ex ante begründet, statt nachträglich aus Kursbewegungen hergeleitet?
-- Wird eine Aufschubentscheidung nach Art. 17 MAR getrennt von der Frage behandelt, ob überhaupt Veröffentlichungspflicht besteht?
-- Stimmen Insiderliste, Handelsfreigaben, Closed Periods, Kommunikationskreis und Verteidigungsakte zeitlich zusammen?
+- Sind alle wesentlichen Verfahren in der Compliance-Übersicht erfasst?
+- Wird die Wesentlichkeitsschwelle regelmäßig neu beurteilt (z. B. nach Klagebegründung)?
+- Werden Vergleichsverhandlungen als eigenständige Insiderinformation behandelt?
+- Ist der Aufschub-Tatbestand mit der konkreten Verfahrenssituation begründet?
 
-## Ausgabe
+## Ausgabeformat
 
-Erzeuge kurzes Decision Memo mit Uhrzeit, Normpfad und Verantwortlichen. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+Erzeuge:
+1. Verfahrensregister mit Insiderinformations-Prüfstatus
+2. Wesentlichkeitsanalyse (Streitwert × Wahrscheinlichkeit × Kursrelevanz)
+3. Aufschub-Begründungsmatrix je Verfahren
+4. Eskalationsprotokoll für neue Entwicklungen
 
+Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.

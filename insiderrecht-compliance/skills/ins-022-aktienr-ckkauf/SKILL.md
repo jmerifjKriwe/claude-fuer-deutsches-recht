@@ -1,30 +1,92 @@
 ---
 name: ins-022-aktienr-ckkauf
-description: "Spezialskill Insiderrecht fuer Aktienrückkauf: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Prueft Aktienrueckkaufprogramme auf MAR-Konformitaet: Safe Harbour DVO 2016/1052, Handelsverbote, Ad-hoc und Offenlegungspflichten."
 ---
 
-# Insiderrecht: Aktienrückkauf
+# Aktienrückkaufprogramme – MAR Safe Harbour und Compliance
 
+## Rechtlicher Rahmen
 
-## Ziel
+Aktienrückkaufprogramme können unter den Safe Harbour der DVO (EU) 2016/1052 fallen, wenn
+Volumen-, Preis- und Timing-Beschränkungen eingehalten werden. Außerhalb des Safe Harbour
+gelten die allgemeinen MAR-Verbote. Art. 5 MAR und DVO 2016/1052 regeln die Ausnahme
+abschließend. Ankündigung des Programms ist in der Regel ad-hoc-pflichtig.
 
-Dieser Skill führt nicht schematisch durch Aktienrückkauf, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+Rechtsgrundlagen:
+- Art. 5 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- DVO (EU) 2016/1052: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R1052
+- §§ 71–71e AktG: https://www.gesetze-im-internet.de/aktg/__71.html
+- BaFin-Emittentenleitfaden Kap. VII: https://www.bafin.de/dok/8252648
+
+## Ziel dieses Skills
+
+Dieser Skill stellt sicher, dass Aktienrückkaufprogramme rechtskonform konzipiert,
+angekündigt und durchgeführt werden, und prüft laufend Safe-Harbour-Konformität.
 
 ## Arbeitsprogramm
 
-- Insiderrelevanz von Aktienrückkauf ex ante prüfen.
-- Ad-hoc/Aufschub/Insiderliste als drei getrennte Entscheidungen dokumentieren.
-- Handelsverbote, Kommunikationskreis und Verteidigungsakte koppeln.
+### Schritt 1 – Beschluss und Ermächtigung
+
+- Hauptversammlungsermächtigung nach § 71 Abs. 1 Nr. 8 AktG vorhanden?
+- Volumen (max. 10 % des Grundkapitals), Laufzeit (max. 5 Jahre) und Preisspanne definiert?
+- Board-Beschluss zur Durchführung dokumentiert
+
+### Schritt 2 – Ad-hoc-Ankündigung
+
+- Bekanntgabe des Programms ist typischerweise ad-hoc-pflichtig, sobald Board-Beschluss
+  vorliegt (nicht erst bei Start der Käufe)
+- Inhalt: Volumen, Preisspanne, Zweck, Laufzeit, beauftragtes Institut
+
+### Schritt 3 – Safe-Harbour-Bedingungen (DVO 2016/1052)
+
+Tageskauf-Limit: max. 25 % des durchschnittlichen Tagesvolumens der letzten 20 Handelstage
+Preislimit: Höchstkurs = letzter unabhängiger Abschlusskurs oder höchstes aktuelles unabhängiges
+  Gebot (je nachdem, welches höher ist)
+Keine Käufe:
+  - Während eines Aufschubs nach Art. 17 Abs. 4 MAR (außer im Rahmen eines vorgefassten Plans)
+  - In Closed Periods (Art. 19 Abs. 11 MAR, aber nur für PDMR, nicht für Emittenten-Programm direkt)
+  - An Tagen, an denen Ad-hoc-Veröffentlichungen geplant sind
+
+### Schritt 4 – Handelsverbote für PDMRs
+
+- Emittent führt Rückkauf → keine MAR-Verletzung durch den Emittenten im Safe Harbour
+- PDMRs: Eigene Handelsverbote bei Insiderinformation bleiben unberührt
+- Keine PDMR-Eigengeschäfte parallel zum Rückkauf, wenn Insiderinformation besteht
+
+### Schritt 5 – Laufende Offenlegung und Nachgang
+
+- Tägliche Meldung der Rückkäufe an Handelsplatz (Art. 5 Abs. 3 MAR)
+- Wöchentliche Veröffentlichung der aggregierten Rückkäufe auf Website
+- Abschlussmitteilung am Ende des Programms
+- Eigene Aktien: Eintrag ins Aktienregister, §§ 71 ff. AktG
 
 ## Red-Team-Fragen
 
-- Ist die Information wirklich präzise im Sinne von Art. 7 MAR oder nur Gerücht, Analyse, Prognose oder Wunschdenken?
-- Ist die Information noch nicht öffentlich, und ist sauber dokumentiert, wer sie wann bekommen hat?
-- Ist die Kursrelevanz ex ante begründet, statt nachträglich aus Kursbewegungen hergeleitet?
-- Wird eine Aufschubentscheidung nach Art. 17 MAR getrennt von der Frage behandelt, ob überhaupt Veröffentlichungspflicht besteht?
-- Stimmen Insiderliste, Handelsfreigaben, Closed Periods, Kommunikationskreis und Verteidigungsakte zeitlich zusammen?
+- Wurde die Safe-Harbour-Bedingungen an jedem Handelstag eingehalten?
+- Wurde das Programm bei Vorliegen einer Insiderinformation ausgesetzt?
+- Enthält die Ad-hoc-Ankündigung alle Pflichtangaben?
+- Werden Tages- und Wochenmeldungen rechtzeitig veröffentlicht?
+- Liegt ein vorgefasster Rückkaufplan vor, der Käufe während Aufschub ermöglicht?
 
-## Ausgabe
+## Ausgabeformat
 
-Erzeuge kurzes Decision Memo mit Uhrzeit, Normpfad und Verantwortlichen. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+Erzeuge:
+1. Safe-Harbour-Compliance-Checkliste (tagesaktuell)
+2. Ad-hoc-Entwurf für Programmankündigung
+3. Melde-Protokoll (tägliche und wöchentliche Offenlegung)
+4. Programm-Abschlussprotokoll
 
+Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.
+
+## Weitere Hinweise
+
+Aktienrückkäufe über ein separates Handelsmandat (Beauftragung eines unabhängigen
+Intermediärs nach DVO 2016/1052) bieten zusätzlichen Safe-Harbour-Schutz, da die
+Kaufentscheidung nicht mehr vom Emittenten direkt gesteuert wird. Das Mandat muss jedoch
+vor Beginn einer Insiderphase erteilt worden sein und darf während der Insiderphase nicht
+modifiziert werden. Compliance muss das Mandat regelmäßig auf Übereinstimmung mit dem
+Safe Harbour prüfen.
+
+Weitere Quellen:
+- DVO (EU) 2016/1052: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R1052
+- §§ 71 ff. AktG: https://www.gesetze-im-internet.de/aktg/__71.html

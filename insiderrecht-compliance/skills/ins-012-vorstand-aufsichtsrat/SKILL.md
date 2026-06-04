@@ -1,30 +1,88 @@
 ---
 name: ins-012-vorstand-aufsichtsrat
-description: "Prueft Insiderrecht im Organbereich: Vorstandsvorlagen, AR-Sitzung, Sonderausschuss, M&A und Protokolle."
+description: "Prueft Insiderrecht-Pflichten von Vorstand und Aufsichtsrat: Wissenszurechnung, Geschaeftsordnungspflichten, AktG-Beziehung und Haftungsrisiken."
 ---
 
-# Vorstand und Aufsichtsrat
+# Vorstand und Aufsichtsrat – Insiderrechtliche Pflichten
 
+## Rechtlicher Rahmen
 
-## Ziel
+Vorstandsmitglieder und Aufsichtsratsmitglieder sind typischerweise PDMRs nach Art. 3 Abs. 1
+Nr. 25 MAR und unterliegen sämtlichen MAR-Pflichten. Zusätzlich regeln AktG §§ 76, 93, 116
+die Sorgfalts- und Treuepflichten. Das Wissen einzelner Vorstandsmitglieder wird dem Emittenten
+zugerechnet. Bei Verstoß: zivilrechtliche Haftung (§§ 97, 98 WpHG) und Strafbarkeit (§ 119 WpHG).
 
-Dieser Skill führt nicht schematisch durch Vorstand und Aufsichtsrat, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+Rechtsgrundlagen:
+- Art. 3, 17, 18, 19 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- §§ 76, 93, 116 AktG: https://www.gesetze-im-internet.de/aktg/__93.html
+- §§ 97–98 WpHG (Haftung): https://www.gesetze-im-internet.de/wphg/__97.html
+- § 119 WpHG (Strafrecht): https://www.gesetze-im-internet.de/wphg/__119.html
+- BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648
+
+## Ziel dieses Skills
+
+Dieser Skill klärt die insiderrechtlichen Pflichten von Vorstand und Aufsichtsrat im Detail und
+schafft eine Grundlage für interne Compliance-Richtlinien und Haftungsprävention.
 
 ## Arbeitsprogramm
 
-- Organwissen und Emittentenwissen trennen.
-- Protokolltiefe und Insiderlisten koppeln.
-- Beschlussreife und Aufschubentscheidung dokumentieren.
+### Schritt 1 – Wissenszurechnung
+
+- Wissen jedes Vorstandsmitglieds wird dem Emittenten als Gesamtwissen zugerechnet
+  (BGH-Rechtsprechung zur Wissenszurechnung bei juristischen Personen)
+- Folge: Ad-hoc-Pflicht nach Art. 17 MAR entsteht, sobald ein Vorstandsmitglied Kenntnis hat,
+  nicht erst bei Kenntnis des Gesamtvorstands
+- Aufsichtsrat: Zurechnung bei Vorstands-relevanten Informationen → prüfen, ob AR-Wissen
+  bereits Veröffentlichungspflicht auslöst
+
+### Schritt 2 – Pflichten des Vorstands
+
+a) Ad-hoc-Pflicht: Unverzügliche Veröffentlichung nach Art. 17 MAR
+b) Insiderlisten-Pflicht: Sicherstellung, dass Compliance Art. 18 MAR-Listen führt
+c) Handelsverbote: Eigengeschäfte nur außerhalb von Closed Periods und ohne Insiderinformation
+d) Directors' Dealings: Meldung aller Eigengeschäfte nach Art. 19 MAR
+e) Sorgfaltspflicht (§ 93 AktG): Keine Verletzung kapitalmarktrechtlicher Normen als
+   Pflichtverletzung
+f) Vertraulichkeitspflicht: Keine unzulässige Weitergabe an Dritte
+
+### Schritt 3 – Pflichten des Aufsichtsrats
+
+a) Überwachungspflicht (§ 111 AktG): Prüfung, ob Vorstand MAR-Pflichten erfüllt
+b) Eigene Handelsverbote (Art. 14 MAR) und Meldepflichten (Art. 19 MAR) als PDMRs
+c) Verschwiegenheitspflicht (§ 116 AktG): Keine Weitergabe von Vertrauliches aus AR-Sitzungen
+d) Interessenkonflikt: AR-Mitglieder mit Doppelmandaten oder Verbindungen zu Bietern in M&A
+   müssen sich bei AR-Beschlüssen enthalten
+
+### Schritt 4 – Governance-Instrumente
+
+- Compliance-Richtlinie für Vorstand und AR (inkl. Closed Periods, Pre-Clearance, Insiderliste)
+- Regelmäßige Schulungen (mind. jährlich)
+- Klare Meldewege: Wer meldet was an wen (Compliance-Officer)?
+- D&O-Versicherung prüfen: Deckungsausschlüsse für vorsätzliche Kapitalmarktverstöße
+
+### Schritt 5 – Haftungsanalyse
+
+- § 97 WpHG: Haftung des Emittenten für verspätete oder unterlassene Ad-hoc-Mitteilung
+- § 98 WpHG: Haftung für falsche Ad-hoc-Mitteilung
+- Persönliche Haftung von Vorstandsmitgliedern nach § 93 Abs. 2 AktG, wenn MAR-Pflicht
+  schuldhaft verletzt
+- Strafbarkeit nach § 119 WpHG: persönlich für handelnde Vorstandsmitglieder
 
 ## Red-Team-Fragen
 
-- Ist die Information wirklich präzise im Sinne von Art. 7 MAR oder nur Gerücht, Analyse, Prognose oder Wunschdenken?
-- Ist die Information noch nicht öffentlich, und ist sauber dokumentiert, wer sie wann bekommen hat?
-- Ist die Kursrelevanz ex ante begründet, statt nachträglich aus Kursbewegungen hergeleitet?
-- Wird eine Aufschubentscheidung nach Art. 17 MAR getrennt von der Frage behandelt, ob überhaupt Veröffentlichungspflicht besteht?
-- Stimmen Insiderliste, Handelsfreigaben, Closed Periods, Kommunikationskreis und Verteidigungsakte zeitlich zusammen?
+- Ist die Wissenszurechnung zwischen Vorstandsmitgliedern aktiv gemanagt (Information Barriers)?
+- Erfüllt jedes einzelne AR-Mitglied seine eigenen MAR-Pflichten (Handelsverbot, DD)?
+- Werden AR-Mitglieder auf Interessenkonflikte bei M&A und Kapitalmaßnahmen geprüft?
+- Sind Compliance-Richtlinien für Vorstand und AR separat und aktuell?
+- Ist die D&O-Versicherung auf Kapitalmarktrecht-Deckung geprüft?
 
-## Ausgabe
+## Ausgabeformat
 
-Erzeuge Insidervermerk, Ad-hoc-Entwurf, Aufschubakte, Insiderlistencheck oder Verteidigungsmemo. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+Erzeuge:
+1. Pflichten-Matrix: Vorstand × AR × Norm × Sanktion
+2. Compliance-Richtlinien-Entwurf (Auszug für Vorstand und AR)
+3. Schulungsagenda (jährliche Auffrischung)
+4. Haftungsrisiko-Einschätzung
 
+Belege ausschließlich mit: gesetze-im-internet.de, eur-lex.europa.eu, bafin.de, bgh.de,
+dejure.org, openjur.de.

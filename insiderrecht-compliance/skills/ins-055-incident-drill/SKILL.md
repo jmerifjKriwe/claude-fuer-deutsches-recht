@@ -1,30 +1,100 @@
 ---
 name: ins-055-incident-drill
-description: "Spezialskill Insiderrecht fuer Incident Drill: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Fuehrt einen Tabletop-Drill fuer Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Pruefer und BaFin-Kommunikation unter Zeitdruck."
 ---
 
-# Insiderrecht: Incident Drill
+# Incident Drill – Insiderrecht-Krisenübung (Tabletop Exercise)
 
+## Konzept
 
-## Ziel
+Ein Insiderrecht-Incident Drill ist eine strukturierte Übungseinheit, in der das Compliance-
+Team und das Management einen realistischen Insiderrecht-Krisenfall simulieren – ohne reale
+Konsequenzen, aber mit echtem Entscheidungsdruck. Ziel ist es, Schwachstellen im Prozess zu
+entdecken, bevor ein realer Fall eintritt. Erfahrungsgemäß decken Drills Lücken auf, die bei
+regulären Schulungen nicht sichtbar werden.
 
-Dieser Skill führt nicht schematisch durch Incident Drill, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+Rechtsgrundlagen:
+- Art. 7, 17, 18 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648
+- § 119 WpHG: https://www.gesetze-im-internet.de/wphg/__119.html
+- ESMA MAR-Leitlinien: https://www.bafin.de/dok/8252648
+
+## Ziel dieses Skills
+
+Dieser Skill führt einen vollständigen Incident Drill durch: Er liefert das Szenario,
+moderiert den Entscheidungsprozess, wertet die Ergebnisse aus und erstellt die Drill-
+Dokumentation.
 
 ## Arbeitsprogramm
 
-- Insiderrelevanz von Incident Drill ex ante prüfen.
-- Ad-hoc/Aufschub/Insiderliste als drei getrennte Entscheidungen dokumentieren.
-- Handelsverbote, Kommunikationskreis und Verteidigungsakte koppeln.
+### Phase 1 – Szenario-Auswahl
+
+Wähle eines der folgenden Szenarien (oder erstelle ein unternehmens-spezifisches):
+a) Profit Warning: CFO erhält Monatszahlen, die erheblich von Guidance abweichen.
+   → Entscheidung: Ad-hoc sofort oder Aufschub bis Quartalsabschluss?
+b) M&A-Leak: Medien berichten über bevorstehende Übernahme des Emittenten.
+   → Entscheidung: Sofortveröffentlichung oder Dementierung?
+c) PDMR-Verdacht: Compliance erhält Hinweis, dass ein Vorstandsmitglied Aktien
+   kurz vor einer Profit-Warning verkauft hat.
+   → Entscheidung: Interne Untersuchung, BaFin-Meldung, externe Kanzlei?
+d) Cyberangriff: IT meldet schwerwiegendes Datenleck in der Nacht.
+   → Entscheidung: Wann ist Insiderinformation entstanden? Ad-hoc unverzüglich?
+
+### Phase 2 – Drill-Durchführung (120 Minuten)
+
+Rollen:
+- Moderator (Compliance oder externe Kanzlei)
+- CFO
+- General Counsel
+- Compliance-Officer
+- IR-Leiter
+- Ggf. CEO (bei C-Level-Drill)
+
+Ablauf (pro Szenario):
+T+0: Moderator präsentiert Ausgangssachverhalt
+T+5 min: Teams treffen erste Einschätzung (Insiderinformation ja/nein?)
+T+15 min: Folgeentscheidung (Ad-hoc sofort / Aufschub / Weitere Sachverhaltsaufklärung)
+T+30 min: Neuer Sachverhalt (Komplikation: BaFin fragt an, Kurssprung, Medien berichten)
+T+60 min: Finalentscheidung und Kommunikationsplan
+T+90 min: Nachbesprechung: Wo lagen die Entscheidungslücken?
+
+### Phase 3 – Entscheidungsprotokoll
+
+Protokolliere für jede Drill-Entscheidung:
+- Wer hat welche Entscheidung getroffen?
+- Auf welcher Grundlage (Norm, Leitfaden)?
+- Wurde die Entscheidung widerspruchsfrei begründet?
+- Welche Informationen fehlten?
+- Welche Schritte wurden vergessen?
+
+### Phase 4 – Auswertung und Verbesserungsplan
+
+- Schwachstellen identifizieren: Wo war der Prozess unklar?
+- Verbesserungsmaßnahmen: Richtlinienänderung, Schulung, Eskalationsweg
+- Verantwortliche und Fristen für Umsetzung
+- Follow-up-Drill in 6–12 Monaten planen
+
+### Phase 5 – Dokumentation
+
+- Drill-Protokoll archivieren (Szenario, Teilnehmer, Entscheidungen, Ergebnisse)
+- Verbesserungsplan mit Umsetzungs-Tracking
+- Nachweis für Compliance-Committee und Aufsichtsrat
 
 ## Red-Team-Fragen
 
-- Ist die Information wirklich präzise im Sinne von Art. 7 MAR oder nur Gerücht, Analyse, Prognose oder Wunschdenken?
-- Ist die Information noch nicht öffentlich, und ist sauber dokumentiert, wer sie wann bekommen hat?
-- Ist die Kursrelevanz ex ante begründet, statt nachträglich aus Kursbewegungen hergeleitet?
-- Wird eine Aufschubentscheidung nach Art. 17 MAR getrennt von der Frage behandelt, ob überhaupt Veröffentlichungspflicht besteht?
-- Stimmen Insiderliste, Handelsfreigaben, Closed Periods, Kommunikationskreis und Verteidigungsakte zeitlich zusammen?
+- Waren alle relevanten Entscheidungsträger beim Drill anwesend?
+- Wurden die realen Entscheidungsabläufe simuliert (kein „ideal case" spielen)?
+- Wurden Schwachstellen unverschönt dokumentiert?
+- Gibt es einen verbindlichen Verbesserungsplan mit Fristen?
 
-## Ausgabe
+## Ausgabeformat
 
-Erzeuge kurzes Decision Memo mit Uhrzeit, Normpfad und Verantwortlichen. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+Erzeuge:
+1. Drill-Szenario (vollständig ausgearbeiteter Sachverhalt mit Komplikations-Inject)
+2. Rollen-Instruktionskarten (je Teilnehmer eine Seite)
+3. Entscheidungsprotokoll-Vorlage (für den Drill selbst)
+4. Auswertungs-Formular (Schwachstellen × Maßnahme × Verantwortlicher × Frist)
+5. Management-Summary für Compliance-Committee
 
+Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, bgh.de,
+dejure.org, openjur.de.

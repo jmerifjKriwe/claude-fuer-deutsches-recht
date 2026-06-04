@@ -1,30 +1,84 @@
 ---
 name: ins-011-leak-response
-description: "Fuehrt durch Geruecht, Presseleck, Kursbewegung, Anfrage BaFin/Boerse und beschleunigte Ad-hoc-Entscheidung."
+description: "Steuert die Sofortreaktion auf einen Informationsleck: Veroeffentlichungspflicht, BaFin-Meldung, Medienmanagement und forensische Dokumentation."
 ---
 
-# Leak Response
+# Leak Response – Reaktion auf Informationslecks
 
+## Rechtlicher Rahmen
 
-## Ziel
+Art. 17 Abs. 7 MAR verpflichtet den Emittenten, eine Insiderinformation unverzüglich zu
+veröffentlichen, wenn die Vertraulichkeit nicht mehr gewährleistet werden kann. Kurssprünge
+ohne öffentliche Erklärung gelten als Indikator für einen Leak. Die BaFin überwacht den Markt
+kontinuierlich auf Handelsauffälligkeiten. Ein Leak beendet automatisch jeden laufenden Aufschub.
 
-Dieser Skill führt nicht schematisch durch Leak Response, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+Rechtsgrundlagen:
+- Art. 17 Abs. 7 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- Art. 17 Abs. 4 MAR (Aufschub): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- § 50 WpHG: https://www.gesetze-im-internet.de/wphg/__50.html
+- BaFin-Emittentenleitfaden Kap. VI.4: https://www.bafin.de/dok/8252648
+
+## Ziel dieses Skills
+
+Dieser Skill steuert die Sofortreaktion auf einen Informationsleak, koordiniert die
+Veröffentlichungspflicht, sichert Beweise für die interne Untersuchung und managt die
+Kommunikation nach außen.
 
 ## Arbeitsprogramm
 
-- Leak-Quelle und Faktenstand sichern.
-- Kurs- und Medienmonitoring dokumentieren.
-- Ad-hoc, Dementi oder No-comment begründen.
+### Schritt 1 – Leak-Erkennung und Bewertung (0–30 Min.)
+
+Indikatoren für einen Leak:
+- Ungewöhnliche Handelsvolumina oder Kurssprünge vor einer geplanten Ad-hoc-Mitteilung
+- Medienberichte oder Social-Media-Posts mit kursrelevanten Details
+- BaFin-Anfrage zu Handelsauffälligkeiten
+- Interne Meldung (Whistleblower, Mitarbeiter)
+Sofortmaßnahme: Compliance-Officer, CFO und General Counsel unverzüglich informieren.
+
+### Schritt 2 – Entscheidung über Sofortveröffentlichung (30–60 Min.)
+
+- Besteht ein laufender Aufschub? → Aufschub endet automatisch bei Leak (Art. 17 Abs. 7 MAR)
+- Ist die Insiderinformation bereits ausreichend öffentlich (breite Medienberichterstattung)?
+  → Wenn ja: Pflicht zur Klarstellung, nicht zwingend neue Ad-hoc
+- Wenn nein: Unverzügliche Ad-hoc-Veröffentlichung (Skill ins-003)
+- Entscheidung und Begründung mit Zeitstempel festhalten
+
+### Schritt 3 – Medienmanagement und Handelsplatz
+
+- Pressestelle: Keine Bestätigung oder Dementierung bis Ad-hoc veröffentlicht
+- Handelsplatz informieren: Ggf. Handelsaussetzung beantragen
+- Nach Ad-hoc: Freigabe für IR-Kommunikation
+
+### Schritt 4 – BaFin-Kommunikation
+
+- Proaktive Meldung an BaFin Wertpapieraufsicht (wA-Meldung)
+- Inhalt: Sachverhalt des Leaks, Zeitpunkt der Entdeckung, ergriffene Maßnahmen
+- BaFin kann eigenständige Untersuchung (§ 4 WpHG) einleiten
+
+### Schritt 5 – Forensische Sicherung und interne Untersuchung
+
+- IT-Forensik: E-Mails, Chat-Protokolle, Datenbankzugriffe sichern (Zeitfenster: 48h vor Leak)
+- Insiderliste: Wer hatte Zugang zur Information?
+- Befragung der Wissensträger (durch externe Kanzlei, um Vertraulichkeit zu wahren)
+- Ergebnis der Untersuchung dokumentieren
 
 ## Red-Team-Fragen
 
-- Ist die Information wirklich präzise im Sinne von Art. 7 MAR oder nur Gerücht, Analyse, Prognose oder Wunschdenken?
-- Ist die Information noch nicht öffentlich, und ist sauber dokumentiert, wer sie wann bekommen hat?
-- Ist die Kursrelevanz ex ante begründet, statt nachträglich aus Kursbewegungen hergeleitet?
-- Wird eine Aufschubentscheidung nach Art. 17 MAR getrennt von der Frage behandelt, ob überhaupt Veröffentlichungspflicht besteht?
-- Stimmen Insiderliste, Handelsfreigaben, Closed Periods, Kommunikationskreis und Verteidigungsakte zeitlich zusammen?
+- Wurde der Leak rechtzeitig erkannt (Marktmonitoring aktiv)?
+- Wurde der laufende Aufschub korrekt beendet?
+- Wurde die Ad-hoc-Mitteilung unverzüglich (und nicht erst nach PR-Vorbereitung) veröffentlicht?
+- Wurde BaFin proaktiv informiert?
+- Wurden Beweise vor Vernichtung gesichert?
+- Ist die interne Untersuchung unabhängig (externe Kanzlei)?
+- Wurden alle Insider-Listen-Einträge auf Vollständigkeit geprüft?
 
-## Ausgabe
+## Ausgabeformat
 
-Erzeuge Insidervermerk, Ad-hoc-Entwurf, Aufschubakte, Insiderlistencheck oder Verteidigungsmemo. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+Erzeuge:
+1. Leak-Response-Checkliste (zeitkritisch, mit Minutenangaben)
+2. Ad-hoc-Entwurf (Sofortveröffentlichung)
+3. BaFin-Meldungsschreiben
+4. Forensische Untersuchungsvorlage
+5. Kommunikations-Leitfaden (intern, Presse, Handelsplatz)
 
+Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.

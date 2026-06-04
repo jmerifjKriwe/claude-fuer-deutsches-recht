@@ -1,30 +1,91 @@
 ---
 name: ins-024-covenant-breach
-description: "Spezialskill Insiderrecht fuer Covenant Breach: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Prueft Ad-hoc-Pflicht und Insiderrecht bei Covenant-Verletzungen in Kreditvertraegen: Wesentlichkeit, Kursrelevanz, Aufschub und Glaeubiger-Kommunikation."
 ---
 
-# Insiderrecht: Covenant Breach
+# Covenant Breach – Insiderrecht und Ad-hoc-Pflicht
 
+## Rechtlicher Rahmen
 
-## Ziel
+Eine Verletzung von Kreditvertragsklauseln (Financial Covenants, Cross-Default, Change-of-
+Control) kann eine Insiderinformation nach Art. 7 MAR begründen, wenn sie kursrelevant ist.
+Kursrelevanz hängt von der Wesentlichkeit der Verletzung ab: Drohende Kündigung, Fälligkeit
+oder Restrukturierungsbedarf sind regelmäßig kursrelevant.
 
-Dieser Skill führt nicht schematisch durch Covenant Breach, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+Rechtsgrundlagen:
+- Art. 7, 17 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- § 97 WpHG: https://www.gesetze-im-internet.de/wphg/__97.html
+- BaFin-Emittentenleitfaden Kap. VI.2: https://www.bafin.de/dok/8252648
+
+## Ziel dieses Skills
+
+Dieser Skill prüft, ob eine Covenant-Verletzung eine Insiderinformation und Ad-hoc-Pflicht
+auslöst, und entwickelt die Compliance-Strategie für Emittent und Kreditgeber.
 
 ## Arbeitsprogramm
 
-- Insiderrelevanz von Covenant Breach ex ante prüfen.
-- Ad-hoc/Aufschub/Insiderliste als drei getrennte Entscheidungen dokumentieren.
-- Handelsverbote, Kommunikationskreis und Verteidigungsakte koppeln.
+### Schritt 1 – Art und Wesentlichkeit der Verletzung
+
+- Welcher Covenant wurde verletzt? (z. B. Leverage Ratio, DSCR, ICR)
+- Ist die Verletzung manifest oder nur drohend?
+- Welche Rechtsfolge sieht der Kreditvertrag vor? (Kündigung, Cure-Period, Waiver)
+- Ist die Verletzung reversibel (Einmaltransaktion, saisonaler Effekt) oder strukturell?
+
+### Schritt 2 – Insiderinformations-Prüfung
+
+- Kursrelevanz: Würde ein verständiger Anleger die Covenant-Verletzung bei der
+  Investitionsentscheidung berücksichtigen?
+- Hohe Kursrelevanz-Indikation bei: drohender Kreditkündigung, Cross-Default,
+  Restrukturierungsbedarf, Liquiditätsgefährdung
+- Niedrige Kursrelevanz: Technische Verletzung ohne materielle Konsequenz, bereits
+  laufende Waiver-Verhandlungen mit sehr hoher Erfolgswahrscheinlichkeit
+
+### Schritt 3 – Aufschub nach Art. 17 Abs. 4 MAR
+
+- Mögliches legitimes Interesse: Laufende Waiver-Verhandlungen mit Kreditgebern
+- Voraussetzung: Waiver-Verhandlungen sind fortgeschritten und Abschluss wird
+  mit hinreichender Wahrscheinlichkeit erwartet
+- Vertraulichkeit: Kreditgeber unter NDA, Informationskreis begrenzt
+- Trigger: Scheitern der Verhandlungen → Sofortveröffentlichung
+
+### Schritt 4 – Kreditgeber-Kommunikation
+
+- Information an Kreditgeber ist reguläre Geschäftskommunikation (Art. 10 Abs. 1 MAR)
+- Kreditgeber werden Sekundärinsider: Müssen auf Handelsverbote hingewiesen werden
+- Kreditgeber sind in Insiderliste aufzunehmen, wenn sie Insiderinformationen erhalten
+
+### Schritt 5 – Ad-hoc und Sanierungsankündigung
+
+- Nach Entscheid: Ad-hoc-Mitteilung zu Covenant-Verletzung und Maßnahmen
+- Inhalt: Art der Verletzung, Zeitpunkt, ergriffene Maßnahmen, Ausblick
+- Koordination mit Sanierungsankündigung (falls zutreffend)
 
 ## Red-Team-Fragen
 
-- Ist die Information wirklich präzise im Sinne von Art. 7 MAR oder nur Gerücht, Analyse, Prognose oder Wunschdenken?
-- Ist die Information noch nicht öffentlich, und ist sauber dokumentiert, wer sie wann bekommen hat?
-- Ist die Kursrelevanz ex ante begründet, statt nachträglich aus Kursbewegungen hergeleitet?
-- Wird eine Aufschubentscheidung nach Art. 17 MAR getrennt von der Frage behandelt, ob überhaupt Veröffentlichungspflicht besteht?
-- Stimmen Insiderliste, Handelsfreigaben, Closed Periods, Kommunikationskreis und Verteidigungsakte zeitlich zusammen?
+- Wurde die Kursrelevanz der Covenant-Verletzung unvoreingenommen beurteilt?
+- Erfüllen Waiver-Verhandlungen die Aufschub-Voraussetzungen?
+- Wurden Kreditgeber als Sekundärinsider behandelt und belehrt?
+- Ist der Aufschub mit einer widerspruchsfreien öffentlichen Kommunikation vereinbar?
+- Wurde ein Trigger für den Aufschub-Ende definiert?
 
-## Ausgabe
+## Ausgabeformat
 
-Erzeuge kurzes Decision Memo mit Uhrzeit, Normpfad und Verantwortlichen. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+Erzeuge:
+1. Insiderinformations-Prüfprotokoll Covenant Breach
+2. Aufschub-Prüfmatrix (legitimes Interesse × Widerspruchsfreiheit × Vertraulichkeit)
+3. Kreditgeber-Belehrungsschreiben (Insiderstatus)
+4. Ad-hoc-Entwurf (Covenant Breach)
 
+Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.
+
+## Weitere Hinweise
+
+Bei syndizierten Krediten ist die Koordination mit allen Banken der Kreditgebergruppe
+besonders wichtig: Werden alle Kreditgeber gleichzeitig und auf demselben Informationsstand
+gehalten? Unterschiedliche Informationsstände innerhalb des Kreditsyndikats können zu
+ungleichem Insider-Status der Bankvertreter führen und das Koordinationsrisiko erhöhen.
+Die Insiderliste muss alle informierten Bankvertreter namentlich erfassen.
+
+Weitere Quellen:
+- Art. 18 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648

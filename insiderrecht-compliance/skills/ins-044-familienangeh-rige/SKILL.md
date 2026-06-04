@@ -1,30 +1,81 @@
 ---
 name: ins-044-familienangeh-rige
-description: "Spezialskill Insiderrecht fuer Familienangehörige: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Prueft Handelsverbote und Meldepflichten fuer Familienangehoerige und nahestehende Personen von PDMRs: Wissenszurechnung, Art. 19 MAR, Tipping-Risiko."
 ---
 
-# Insiderrecht: Familienangehörige
+# Familienangehörige und nahestehende Personen – Insiderrecht
 
+## Rechtlicher Rahmen
 
-## Ziel
+Art. 3 Abs. 1 Nr. 26 MAR definiert nahestehende Personen von PDMRs, die eigenständigen
+MAR-Pflichten unterliegen. Sie müssen Eigengeschäfte nach Art. 19 MAR melden und dürfen
+nicht auf Basis von Insiderinformationen handeln (Art. 14 MAR). Das Tipping von PDMRs an
+Familienangehörige ist eine der häufigsten Insiderhandels-Konstellationen in der Praxis.
 
-Dieser Skill führt nicht schematisch durch Familienangehörige, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+Rechtsgrundlagen:
+- Art. 3 Abs. 1 Nr. 26 MAR (nahestehende Personen): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- Art. 14, 19 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- § 119 WpHG: https://www.gesetze-im-internet.de/wphg/__119.html
+- BaFin-Emittentenleitfaden Kap. V: https://www.bafin.de/dok/8252648
+
+## Ziel dieses Skills
+
+Dieser Skill klärt die insiderrechtliche Situation für Familienangehörige und nahestehende
+Personen von PDMRs und schafft Präventionsmaßnahmen gegen versehentliches Tipping.
 
 ## Arbeitsprogramm
 
-- Insiderrelevanz von Familienangehörige ex ante prüfen.
-- Ad-hoc/Aufschub/Insiderliste als drei getrennte Entscheidungen dokumentieren.
-- Handelsverbote, Kommunikationskreis und Verteidigungsakte koppeln.
+### Schritt 1 – Personenkreis bestimmen (Art. 3 Abs. 1 Nr. 26 MAR)
+
+Nahestehende Personen eines PDMR:
+a) Ehegatte oder eingetragener Lebenspartner
+b) Unterhaltsverpflichtete Kinder des PDMR
+c) Verwandte, die seit mindestens 1 Jahr im gemeinsamen Haushalt leben
+d) Juristische Personen, Trusts, Personengesellschaften unter Kontrolle des PDMR oder
+   einer der genannten natürlichen Personen
+
+### Schritt 2 – Eigenständige MAR-Pflichten nahestehender Personen
+
+- Handelsverbot nach Art. 14 MAR: Kein Handel auf Basis von Insiderinformationen des PDMR
+  (auch wenn diese nur beiläufig erwähnt wurden)
+- Directors' Dealings nach Art. 19 MAR: Alle Eigengeschäfte ≥ 20.000 EUR meldepflichtig
+- Frist: 3 Geschäftstage nach Transaktion an BaFin und Emittent
+
+### Schritt 3 – Tipping-Risiko
+
+- PDMR darf nahestehenden Personen keine Insiderinformationen mitteilen (Art. 10 MAR)
+- Selbst beiläufige Erwähnung kann Art. 10 MAR-Verstoß sein
+- „Need-to-know" gilt auch im privaten Bereich: Keine Gespräche über laufende
+  Transaktionen zu Hause
+- Schulung: PDMRs müssen explizit über Tipping-Verbot im privaten Umfeld belehrt werden
+
+### Schritt 4 – Pre-Clearance für nahestehende Personen
+
+- Emittent sollte Pre-Clearance-Prozess auch für nahestehende Personen anbieten
+- PDMR meldet geplante Transaktion der nahestehenden Person an Compliance
+- Compliance prüft: Aktuelle Insiderinformation? Closed Period?
+- Schriftliche Freigabe oder Ablehnung
+
+### Schritt 5 – Schulung und Bewusstsein
+
+- PDMRs auf Jahresschulung: Explizites Modul zu Familienangehörigen und Tipping-Verbot
+- Schriftliche Verpflichtung des PDMR: Ich werde keine Insiderinformationen an nahestehende
+  Personen weitergeben
+- Merkblatt für PDMRs: „Was darf ich zu Hause nicht sagen?"
 
 ## Red-Team-Fragen
 
-- Ist die Information wirklich präzise im Sinne von Art. 7 MAR oder nur Gerücht, Analyse, Prognose oder Wunschdenken?
-- Ist die Information noch nicht öffentlich, und ist sauber dokumentiert, wer sie wann bekommen hat?
-- Ist die Kursrelevanz ex ante begründet, statt nachträglich aus Kursbewegungen hergeleitet?
-- Wird eine Aufschubentscheidung nach Art. 17 MAR getrennt von der Frage behandelt, ob überhaupt Veröffentlichungspflicht besteht?
-- Stimmen Insiderliste, Handelsfreigaben, Closed Periods, Kommunikationskreis und Verteidigungsakte zeitlich zusammen?
+- Sind alle nahestehenden Personen der PDMRs identifiziert und bekannt?
+- Werden nahestehende Personen über ihre eigenen MAR-Pflichten informiert?
+- Gibt es ein Pre-Clearance-Angebot für nahestehende Personen?
+- Werden PDMRs explizit auf das Tipping-Verbot im privaten Umfeld hingewiesen?
 
-## Ausgabe
+## Ausgabeformat
 
-Erzeuge kurzes Decision Memo mit Uhrzeit, Normpfad und Verantwortlichen. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+Erzeuge:
+1. Nahestehende-Personen-Register (je PDMR mit Beziehungstyp)
+2. Belehrungsschreiben für nahestehende Personen
+3. Pre-Clearance-Formular für nahestehende Personen
+4. PDMR-Merkblatt: „Was darf ich zu Hause nicht sagen?"
 
+Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.

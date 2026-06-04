@@ -1,30 +1,86 @@
 ---
 name: ins-054-archivierung
-description: "Spezialskill Insiderrecht fuer Archivierung: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Sichert MAR-konforme Archivierung aller Insiderrecht-Compliance-Dokumente: Fristen, Formate, Zugriffssicherung und Loeschkonzept."
 ---
 
-# Insiderrecht: Archivierung
+# Archivierung – MAR-konforme Aufbewahrung
 
+## Rechtlicher Rahmen
 
-## Ziel
+Art. 18 Abs. 5 MAR schreibt eine Aufbewahrungsfrist von mindestens 5 Jahren für Insiderlisten
+vor. Weitere Compliance-Dokumente (Ad-hoc-Mitteilungen, Aufschubakten, Directors'-Dealings-
+Meldungen, Market-Sounding-Protokolle) unterliegen ebenfalls Aufbewahrungspflichten aus MAR,
+WpHG und allgemeinen handelsrechtlichen Vorschriften. Unveränderbarkeit und Zugriffssicherung
+sind Pflicht.
 
-Dieser Skill führt nicht schematisch durch Archivierung, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+Rechtsgrundlagen:
+- Art. 18 Abs. 5 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- § 257 HGB (Aufbewahrungsfristen): https://www.gesetze-im-internet.de/hgb/__257.html
+- § 147 AO (Aufbewahrungspflichten): https://www.gesetze-im-internet.de/ao_1977/__147.html
+- DSGVO Art. 5 (Datenminimierung): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679
+- BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648
+
+## Ziel dieses Skills
+
+Dieser Skill erstellt ein vollständiges Archivierungskonzept für alle insiderrechtlich
+relevanten Dokumente, das Aufbewahrungsfristen, Formate, Zugriffssicherung und
+DSGVO-konformes Löschkonzept umfasst.
 
 ## Arbeitsprogramm
 
-- Insiderrelevanz von Archivierung ex ante prüfen.
-- Ad-hoc/Aufschub/Insiderliste als drei getrennte Entscheidungen dokumentieren.
-- Handelsverbote, Kommunikationskreis und Verteidigungsakte koppeln.
+### Schritt 1 – Dokumentenkatalog
+
+Folgende Dokumente sind aufzubewahren (Mindestfristen):
+- Insiderlisten (Art. 18 MAR): 5 Jahre nach letztem Eintrag
+- Aufschubakten (Art. 17 MAR): 5 Jahre
+- Ad-hoc-Mitteilungen: 5 Jahre (Art. 4 DVO 2016/1055)
+- Market-Sounding-Protokolle (Art. 11 MAR, DVO 2016/960): 5 Jahre
+- Directors'-Dealings-Meldungen (Art. 19 MAR): 5 Jahre
+- Pre-Clearance-Entscheidungen: 5 Jahre
+- Schulungsnachweise: 5 Jahre
+- Compliance-Dossiers für BaFin-Anfragen: 5 Jahre
+
+### Schritt 2 – Aufbewahrungsformat
+
+- Elektronische Archivierung bevorzugt (revisionssicher, unveränderbar)
+- Anforderungen: Zeitstempelzertifizierung, Versionierung, keine nachträgliche Änderung
+- Akzeptierte Formate: PDF/A für Dokumente, XLSX/CSV für Listen
+- Backup: Off-Site-Backup mindestens monatlich, inkl. Wiederherstellungstest
+
+### Schritt 3 – Zugriffssicherung
+
+- Zugriff auf Compliance-Archiv: Nur Compliance-Officer, CFO, General Counsel
+- Kein Zugriff für Handelsabteilungen oder IR-Teams
+- Protokollierung aller Zugriffe (Audit Trail)
+- Bei BaFin-Anfrage: Zugriff durch externe Kanzlei auf definierten Umfang
+
+### Schritt 4 – DSGVO-Konformität
+
+- Insiderlisten enthalten personenbezogene Daten (Art. 18 MAR: Name, Adresse, Geburtsdatum)
+- Aufbewahrung auf der Basis von Art. 6 Abs. 1 lit. c DSGVO (rechtliche Verpflichtung)
+- Löschung nach Ablauf der Aufbewahrungsfrist (automatisiertes Löschkonzept)
+- Keine Zweckentfremdung der Insiderlisten-Daten
+
+### Schritt 5 – Löschkonzept
+
+- Automatisches Lösch-Flag: 5 Jahre + 1 Monat nach letztem Eintrag
+- Löschbestätigung dokumentieren
+- Ausnahme: Laufende BaFin-Ermittlung oder gerichtliches Verfahren → Einfrierung der Löschung
 
 ## Red-Team-Fragen
 
-- Ist die Information wirklich präzise im Sinne von Art. 7 MAR oder nur Gerücht, Analyse, Prognose oder Wunschdenken?
-- Ist die Information noch nicht öffentlich, und ist sauber dokumentiert, wer sie wann bekommen hat?
-- Ist die Kursrelevanz ex ante begründet, statt nachträglich aus Kursbewegungen hergeleitet?
-- Wird eine Aufschubentscheidung nach Art. 17 MAR getrennt von der Frage behandelt, ob überhaupt Veröffentlichungspflicht besteht?
-- Stimmen Insiderliste, Handelsfreigaben, Closed Periods, Kommunikationskreis und Verteidigungsakte zeitlich zusammen?
+- Sind alle im Dokumentenkatalog genannten Dokument-Typen vollständig archiviert?
+- Ist die Archivierung revisionssicher (kein nachträgliches Überschreiben möglich)?
+- Ist der Zugriff auf Compliance-Archiv ausreichend beschränkt?
+- Werden Aufbewahrungsfristen systemgestützt überwacht?
+- Ist das Löschkonzept DSGVO-konform und mit laufenden Ermittlungen koordiniert?
 
-## Ausgabe
+## Ausgabeformat
 
-Erzeuge kurzes Decision Memo mit Uhrzeit, Normpfad und Verantwortlichen. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+Erzeuge:
+1. Dokumentenkatalog mit Aufbewahrungsfristen und Format-Anforderungen
+2. Archivierungssystem-Anforderungsprofil (für IT-Ausschreibung oder System-Check)
+3. DSGVO-Löschkonzept-Vorlage
+4. BaFin-Anfragen-Bereitstellungsprotokoll
 
+Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.

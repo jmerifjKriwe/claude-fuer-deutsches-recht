@@ -1,30 +1,82 @@
 ---
 name: ins-043-chatgruppe-trading
-description: "Spezialskill Insiderrecht fuer Chatgruppe Trading: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Prueft Insiderhandel und Marktmanipulation in Messenger-Chat-Gruppen: Tatbestandsmerkmale, Beweis-Fragen und strafrechtliche Risiken nach § 119 WpHG."
 ---
 
-# Insiderrecht: Chatgruppe Trading
+# Messenger-Chatgruppen und Insiderhandel
 
+## Rechtlicher Rahmen
 
-## Ziel
+Koordinierter Handel auf der Basis von Insiderinformationen in Messenger-Chatgruppen
+(WhatsApp, Telegram, Signal, Discord) erfüllt typischerweise sowohl den Tatbestand des
+Insiderhandels (Art. 14 MAR) als auch der Marktmanipulation (Art. 12 MAR) und ist nach
+§ 119 WpHG strafbar. BaFin und Staatsanwaltschaften haben in den letzten Jahren mehrere
+Verfahren eingeleitet.
 
-Dieser Skill führt nicht schematisch durch Chatgruppe Trading, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+Rechtsgrundlagen:
+- Art. 12, 14 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- § 119 WpHG: https://www.gesetze-im-internet.de/wphg/__119.html
+- StPO §§ 94 ff. (Sicherstellung digitaler Beweismittel): https://www.gesetze-im-internet.de/stpo/__94.html
+- BaFin-Jahresbericht: https://www.bafin.de
+
+## Ziel dieses Skills
+
+Dieser Skill analysiert, ob Chatgruppen-Aktivitäten den Tatbestand des Insiderhandels oder
+der Marktmanipulation erfüllen, und entwickelt die Verteidigungsstrategie oder Compliance-
+Präventionsmaßnahmen.
 
 ## Arbeitsprogramm
 
-- Insiderrelevanz von Chatgruppe Trading ex ante prüfen.
-- Ad-hoc/Aufschub/Insiderliste als drei getrennte Entscheidungen dokumentieren.
-- Handelsverbote, Kommunikationskreis und Verteidigungsakte koppeln.
+### Schritt 1 – Tatbestand Insiderhandel (Art. 14 MAR)
+
+- Wer sind die Teilnehmer der Chatgruppe?
+- Haben Teilnehmer Zugang zu Insiderinformationen (Primärinsider: Mitarbeiter des Emittenten;
+  Sekundärinsider: Informationen aus Tipping)?
+- Wurden Transaktionen auf Basis dieser Informationen koordiniert?
+- Kausalitätsnachweis: Chat-Zeitpunkt vs. Transaktionszeitpunkt
+
+### Schritt 2 – Tatbestand Marktmanipulation (Art. 12 MAR)
+
+- Wurde eine koordinierte Handelsstrategie (z. B. Pump-and-Dump) in der Gruppe abgestimmt?
+- Wurden falsche oder irreführende Informationen verbreitet, die den Kurs beeinflussen sollten?
+- Meme Stocks: Koordinierte Käufe ohne Insiderinformation können als Marktmanipulation
+  qualifiziert werden, wenn eine verzerrende Preiswirkung beabsichtigt ist
+
+### Schritt 3 – Strafrechtliche Risiken (§ 119 WpHG)
+
+- Vorsatz: Koordination in Chatgruppen belegt regelmäßig Vorsatz
+- Gewerbsmäßig (§ 119 Abs. 2 WpHG): Wenn Handel regelmäßig und zur Gewinnerzielung
+  → erhöhter Strafrahmen (bis zu 10 Jahre)
+- Mittäterschaft: Alle aktiv koordinierenden Teilnehmer sind Mittäter (§ 25 Abs. 2 StGB)
+- Anstiftung / Beihilfe: Reine Empfänger und Weiterleiter können auch strafbar sein
+
+### Schritt 4 – Beweisfragen
+
+- Chat-Protokolle sind digitale Beweismittel (§ 94 StPO)
+- Messengerdienste können zur Herausgabe durch MLAT oder nationale Rechtshilfe verpflichtet sein
+- Metadaten (Zeitstempel, Gruppen-Mitgliedschaft) oft ausreichend für Verdachtsnachweis
+- Beratung externer Strafverteidiger vor Kooperation mit Behörden
+
+### Schritt 5 – Präventionsmaßnahmen
+
+- Compliance-Policy: Verbot koordinierter Handelsabsprachen (auch ohne Insiderinformation)
+- Schulung: Mitarbeiter über Chatgruppen-Risiken informieren
+- Monitoring: Ungewöhnliche Handelsmuster vor und nach Chatgruppen-Aktivität
+- Social-Media-Policy: Klare Regeln für Diskussion über Finanzinstrumente
 
 ## Red-Team-Fragen
 
-- Ist die Information wirklich präzise im Sinne von Art. 7 MAR oder nur Gerücht, Analyse, Prognose oder Wunschdenken?
-- Ist die Information noch nicht öffentlich, und ist sauber dokumentiert, wer sie wann bekommen hat?
-- Ist die Kursrelevanz ex ante begründet, statt nachträglich aus Kursbewegungen hergeleitet?
-- Wird eine Aufschubentscheidung nach Art. 17 MAR getrennt von der Frage behandelt, ob überhaupt Veröffentlichungspflicht besteht?
-- Stimmen Insiderliste, Handelsfreigaben, Closed Periods, Kommunikationskreis und Verteidigungsakte zeitlich zusammen?
+- Haben Chat-Teilnehmer Zugang zu Insiderinformationen des Emittenten?
+- Gibt es einen zeitlichen Zusammenhang zwischen Chatgruppen-Aktivität und Transaktionen?
+- Ist die Abgrenzung zwischen erlaubter Marktdiskussion und verbotenem Tipping klar?
+- Werden Mitarbeiter ausreichend über Chatgruppen-Risiken geschult?
 
-## Ausgabe
+## Ausgabeformat
 
-Erzeuge kurzes Decision Memo mit Uhrzeit, Normpfad und Verantwortlichen. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+Erzeuge:
+1. Tatbestandsprüfung: Insiderhandel × Marktmanipulation × Sachverhalt
+2. Strafrisiko-Bewertung (nach § 119 WpHG)
+3. Präventions-Policy (Chatgruppen-Nutzungsregeln)
+4. Interne Untersuchungsvorlage bei Verdacht
 
+Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.

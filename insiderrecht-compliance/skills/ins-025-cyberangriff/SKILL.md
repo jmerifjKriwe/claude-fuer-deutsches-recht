@@ -1,30 +1,85 @@
 ---
 name: ins-025-cyberangriff
-description: "Spezialskill Insiderrecht fuer Cyberangriff: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Prueft Insiderinformations-Qualitaet eines Cyberangriffs: Kursrelevanz, Ad-hoc-Pflicht, Aufschub wegen laufender Strafverfolgung und Koordination mit IT-Forensik."
 ---
 
-# Insiderrecht: Cyberangriff
+# Cyberangriff – Insiderrecht und Ad-hoc-Pflicht
 
+## Rechtlicher Rahmen
 
-## Ziel
+Ein wesentlicher Cyberangriff auf einen börsennotierten Emittenten kann eine Insiderinformation
+nach Art. 7 MAR darstellen. Kursrelevanz ist anzunehmen bei: erheblichem Datenverlust,
+Betriebsunterbrechung, Reputationsschaden, Haftungsrisiken oder regulatorischen Konsequenzen.
+NIS-2-Richtlinie (Umsetzungsfrist 2024) schafft zusätzliche Meldepflichten, die parallel zu
+MAR bestehen.
 
-Dieser Skill führt nicht schematisch durch Cyberangriff, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+Rechtsgrundlagen:
+- Art. 7, 17 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- NIS-2-Richtlinie (EU) 2022/2555: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022L2555
+- DSGVO Art. 33 (Datenschutzverletzung): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679
+- BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648
+
+## Ziel dieses Skills
+
+Dieser Skill prüft die Insiderinformations-Qualität eines Cyberangriffs, entwickelt die
+Ad-hoc-Strategie und koordiniert die parallelen Meldepflichten (MAR, DSGVO, NIS-2).
 
 ## Arbeitsprogramm
 
-- Insiderrelevanz von Cyberangriff ex ante prüfen.
-- Ad-hoc/Aufschub/Insiderliste als drei getrennte Entscheidungen dokumentieren.
-- Handelsverbote, Kommunikationskreis und Verteidigungsakte koppeln.
+### Schritt 1 – Initialerkennung und Schadensbewertung
+
+- Zeitpunkt: Wann war dem Emittenten der Angriff bekannt?
+- Art: Datenverlust, Ransomware, Systemaufall, Datenleck, IP-Diebstahl?
+- Umfang: Betroffene Systeme, betroffene Daten (Kundendaten, Finanzdaten, Geschäftsgeheimnisse)
+- Quantifizierung: Geschätzter finanzieller Schaden, Wiederherstellungskosten, Haftungsrisiko
+
+### Schritt 2 – Insiderinformations-Prüfung
+
+- Kursrelevanz: Würde ein verständiger Anleger die Information berücksichtigen?
+  Indikation für hohe Kursrelevanz: erhebliche Betriebsunterbrechung, große Kundendaten-
+  verluste, behördliche Ermittlungen, drohende Schadensersatzklagen
+- Zeitpunkt: Ab wann lag präzise Information vor (erster sicherer Kenntnisstand)?
+- Unsicherheit: Frühe Phasen eines Angriffs können noch unpräzise sein; laufende
+  Forensik kann den Eintritt von Schäden als noch unbekannt qualifizieren
+
+### Schritt 3 – Aufschub wegen laufender Strafverfolgung / IT-Forensik
+
+- Legitimes Interesse: Laufende strafrechtliche Ermittlungen oder Forensik können
+  durch frühzeitige Veröffentlichung beeinträchtigt werden
+- ESMA-Guidance: Aufschub möglich, wenn Behörden (BSI, BKA) bestätigen, dass
+  Veröffentlichung Ermittlungen gefährdet
+- Praktisch: Emittent sollte BSI/BKA schriftlich anfragen und Antwort dokumentieren
+- Aufschub endet: Wenn kein behördlicher Vorbehalt mehr besteht oder Öffentlichkeit
+  durch Dritte informiert wurde
+
+### Schritt 4 – Parallele Meldepflichten
+
+- DSGVO Art. 33: Datenschutzbehörde (BfDI / Landesbehörde) innerhalb 72 Stunden
+- NIS-2: BSI innerhalb 24 Stunden (Early Warning) und 72 Stunden (Notification)
+- BaFin: Ggf. KWG-Meldepflicht für Finanzinstitute (§ 25a KWG)
+- Koordination aller Meldepflichten mit einheitlicher Kommunikationsstrategie
+
+### Schritt 5 – Ad-hoc-Veröffentlichung
+
+- Inhalt: Art des Angriffs (soweit bekannt), betroffene Systeme, geschätzte Auswirkungen,
+  ergriffene Maßnahmen, Ausblick
+- Keine Offenlegung von Informationen, die laufende Ermittlungen gefährden
+- Aktualisierungs-Ad-hoc: Wenn neue wesentliche Informationen bekannt werden
 
 ## Red-Team-Fragen
 
-- Ist die Information wirklich präzise im Sinne von Art. 7 MAR oder nur Gerücht, Analyse, Prognose oder Wunschdenken?
-- Ist die Information noch nicht öffentlich, und ist sauber dokumentiert, wer sie wann bekommen hat?
-- Ist die Kursrelevanz ex ante begründet, statt nachträglich aus Kursbewegungen hergeleitet?
-- Wird eine Aufschubentscheidung nach Art. 17 MAR getrennt von der Frage behandelt, ob überhaupt Veröffentlichungspflicht besteht?
-- Stimmen Insiderliste, Handelsfreigaben, Closed Periods, Kommunikationskreis und Verteidigungsakte zeitlich zusammen?
+- Wurde der Zeitpunkt der Insiderinformations-Entstehung korrekt bestimmt?
+- Liegen die Aufschub-Voraussetzungen vor (Behördenbestätigung)?
+- Werden DSGVO- und NIS-2-Meldepflichten parallel und koordiniert erfüllt?
+- Gibt es Eigengeschäfte von PDMRs zwischen Angriffs-Erkenntnis und Ad-hoc?
+- Ist die Ad-hoc-Mitteilung ausreichend informativ ohne Ermittlungsgefährdung?
 
-## Ausgabe
+## Ausgabeformat
 
-Erzeuge kurzes Decision Memo mit Uhrzeit, Normpfad und Verantwortlichen. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+Erzeuge:
+1. Schadensbewertungs-Matrix (System × Schadensart × Kursrelevanz-Indikation)
+2. Parallele Meldepflichten-Übersicht (MAR × DSGVO × NIS-2 × KWG)
+3. Aufschub-Prüfprotokoll
+4. Ad-hoc-Entwurf Cyberangriff
 
+Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.

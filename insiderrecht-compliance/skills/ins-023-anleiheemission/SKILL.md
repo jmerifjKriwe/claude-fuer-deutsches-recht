@@ -1,30 +1,80 @@
 ---
 name: ins-023-anleiheemission
-description: "Spezialskill Insiderrecht fuer Anleiheemission: MAR-Pruefung, Ad-hoc, Aufschub, Insiderliste, Handelsverbot, Beweis- und Kommunikationsspur."
+description: "Prueft insiderrechtliche Anforderungen bei Anleiheemissionen: Emittenten-Pflichten, Arranger-Pflichten, Market Sounding, Ad-hoc und Dual-Listing-Aspekte."
 ---
 
-# Insiderrecht: Anleiheemission
+# Anleiheemission – Insiderrechtliche Anforderungen
 
+## Rechtlicher Rahmen
 
-## Ziel
+Bei Anleiheemissionen (Corporate Bonds, Schuldscheindarlehen, MTN-Programme) gelten MAR-
+Pflichten für Emittenten, deren Schuldtitel an einem regulierten Markt oder MTF zugelassen sind.
+Banken als Arrangeure oder Bookrunner unterliegen Art. 10 und Art. 11 MAR. Für nicht gelistete
+Anleihen gilt MAR nicht unmittelbar, wohl aber für verbundene Aktien oder Derivate.
 
-Dieser Skill führt nicht schematisch durch Anleiheemission, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+Rechtsgrundlagen:
+- Art. 7, 11, 17 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- Art. 2 MAR (Anwendungsbereich): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- DVO (EU) 2016/960 (Market Sounding): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0960
+- BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648
+
+## Ziel dieses Skills
+
+Dieser Skill klärt, ob und in welchem Umfang MAR bei der Anleiheemission gilt, und steuert
+die Compliance für Emittenten und Arrangeure.
 
 ## Arbeitsprogramm
 
-- Insiderrelevanz von Anleiheemission ex ante prüfen.
-- Ad-hoc/Aufschub/Insiderliste als drei getrennte Entscheidungen dokumentieren.
-- Handelsverbote, Kommunikationskreis und Verteidigungsakte koppeln.
+### Schritt 1 – Anwendungsbereich MAR prüfen
+
+- Ist die Anleihe an einem regulierten Markt (Frankfurter Wertpapierbörse, Euronext, etc.)
+  oder einem MTF (Freiverkehr) zum Handel zugelassen?
+- Falls ja: MAR gilt vollumfänglich für den Emittenten
+- Falls nein (Schuldscheindarlehen, privat platziert): MAR gilt nicht direkt für die Anleihe,
+  aber prüfe ob Aktien oder Derivate des Emittenten betroffen sind
+
+### Schritt 2 – Insiderinformationen vor der Emission
+
+- Hat der Emittent eine aktuelle Insiderinformation (z. B. Gewinnwarnung, M&A-Gespräche)?
+- Wenn ja: Ad-hoc-Pflicht nach Art. 17 MAR kann Emissionsplanung konterkarieren
+- Kein Aufschub möglich, wenn keine legitimen Gründe vorliegen
+- Timing der Emission: Insiderinformation muss zuerst veröffentlicht werden
+
+### Schritt 3 – Market Sounding für Anleihe
+
+- Sondierung von institutionellen Investoren vor der Emission: Art. 11 MAR-Verfahren
+- Welche Informationen im Sounding sind UPSI? (Typisch: Emissionsvolumen, Verwendungszweck,
+  finanzielle Kennzahlen, die noch nicht öffentlich sind)
+- Wall-Crossing-Dokumentation für alle gesoundeten Investoren
+
+### Schritt 4 – Arrangeur-Pflichten
+
+- Arrangeur als Sekundärinsider: Unterliegt Art. 14 MAR-Handelsverboten
+- Chinese Wall zwischen Arrangeur-Team und anderen Bankbereichen
+- Keine Eigengeschäfte in Aktien oder Derivaten des Emittenten auf Basis von UPSI
+- Insiderliste des Arrangeurs muss alle informierten Mitarbeiter enthalten
+
+### Schritt 5 – Ad-hoc und Prospekt
+
+- Anleihe-Emission: Kein automatischer Ad-hoc-Auslöser, aber alle wesentlichen Umstände
+  der Emission (Kondiktionen, Ergebnis) sind im Rahmen der allgemeinen Pflichten zu melden
+- Prospektpflicht nach EU-Prospektverordnung: Parallel zu MAR-Compliance prüfen
+- Ongoing-Disclosure: Kupon-Änderungen, Covenant Breaches → ggf. ad-hoc-pflichtig
 
 ## Red-Team-Fragen
 
-- Ist die Information wirklich präzise im Sinne von Art. 7 MAR oder nur Gerücht, Analyse, Prognose oder Wunschdenken?
-- Ist die Information noch nicht öffentlich, und ist sauber dokumentiert, wer sie wann bekommen hat?
-- Ist die Kursrelevanz ex ante begründet, statt nachträglich aus Kursbewegungen hergeleitet?
-- Wird eine Aufschubentscheidung nach Art. 17 MAR getrennt von der Frage behandelt, ob überhaupt Veröffentlichungspflicht besteht?
-- Stimmen Insiderliste, Handelsfreigaben, Closed Periods, Kommunikationskreis und Verteidigungsakte zeitlich zusammen?
+- Wird MAR korrekt auf den Anwendungsbereich (gelistete vs. nicht-gelistete Anleihe) angewendet?
+- Gibt es eine aktuelle Insiderinformation, die vor der Emission veröffentlicht werden muss?
+- Wurden Arrangeur-Teams ordnungsgemäß über Insiderstatus informiert?
+- Wurden Market-Sounding-Investoren in Insiderlisten aufgenommen?
+- Besteht neben MAR auch Prospektpflicht (EU-Prospektverordnung)?
 
-## Ausgabe
+## Ausgabeformat
 
-Erzeuge kurzes Decision Memo mit Uhrzeit, Normpfad und Verantwortlichen. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+Erzeuge:
+1. MAR-Anwendungsbereichs-Prüfung (Anleihe × Handelsplatz × MAR-Pflicht)
+2. Market-Sounding-Protokoll für Anleihe (Art. 11 MAR-konform)
+3. Arrangeur-Compliance-Checkliste
+4. Zeitplan Insiderinformation → Ad-hoc → Emission
 
+Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.
