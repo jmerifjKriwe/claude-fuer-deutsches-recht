@@ -1,0 +1,21 @@
+{
+  "name": "telekommunikationsrecht",
+  "version": "74.1.0",
+  "description": "Großes Telekommunikationsrecht-Plugin für TKG, Bundesnetzagentur, Internetanschlüsse, Anbieterwechsel, Kundenschutz, Netzregulierung, Frequenzen, Nummerierung, Sonderkartellrecht, Datenschutz und Sicherheitsanforderungen.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "telekommunikationsrecht",
+    "tkg",
+    "bundesnetzagentur",
+    "internetanschluss",
+    "glasfaser",
+    "frequenz",
+    "nummerierung",
+    "netzneutralitaet",
+    "bnetza"
+  ]
+}

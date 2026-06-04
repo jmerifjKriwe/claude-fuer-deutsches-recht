@@ -217,7 +217,7 @@
       "name": "betreuungsrecht",
       "source": "./betreuungsrecht",
       "description": "Betreuungsrechtliche Skills für ehrenamtliche Familienbetreuer, Berufs- und Vereinsbetreuer: Kaltstart, Scan-Akte, Kalender, Gerichtskommunikation, Jahresbericht, Vermögensverzeichnis, Genehmigungspflichten, Wunschermittlung, Kontoanalyse und Schutzplan nach BtOG und BGB.",
-      "version": "74.1.0",
+      "version": "74.1.1",
       "author": {
         "name": "Klotzkette"
       }
@@ -316,7 +316,7 @@
       "name": "datenschutzrecht",
       "source": "./datenschutzrecht",
       "description": "DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art. 15, Datenpanne Art. 33/34, Drittlandstransfer Art. 44 ff. inkl. US-Transfer, DPF, SCC, TIA, Behördenpaket und Brückenskills zur Sanktionsverteidigung.",
-      "version": "74.1.0",
+      "version": "74.1.1",
       "author": {
         "name": "Klotzkette"
       }
@@ -613,7 +613,7 @@
       "name": "fachanwalt-versicherungsrecht",
       "source": "./fachanwalt-versicherungsrecht",
       "description": "Plugin Fachanwalt für Versicherungsrecht. VVG VAG Berufsunfähigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht D-und-O. Schnittstelle Plugin kanzlei-allgemein.",
-      "version": "74.1.0",
+      "version": "74.1.1",
       "author": {
         "name": "Klotzkette"
       }
@@ -919,7 +919,7 @@
       "name": "insolvenzrecht",
       "source": "./insolvenzrecht",
       "description": "Insolvenzrechtliche Skills zu Zahlungsunfähigkeit, Überschuldung, Antragspflicht und Gläubigerantrag.",
-      "version": "74.1.0",
+      "version": "74.1.1",
       "author": {
         "name": "Klotzkette"
       }
@@ -1591,6 +1591,15 @@
       }
     },
     {
+      "name": "telekommunikationsrecht",
+      "source": "./telekommunikationsrecht",
+      "description": "Großes Telekommunikationsrecht-Plugin für TKG, Bundesnetzagentur, Internetanschlüsse, Anbieterwechsel, Kundenschutz, Netzregulierung, Frequenzen, Nummerierung, Sonderkartellrecht, Datenschutz und Sicherheitsanforderungen.",
+      "version": "74.1.0",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "tierschutzrecht",
       "source": "./tierschutzrecht",
       "description": "Tierschutzrecht-Plugin für TierSchG, BGB § 90a, Haltung, Zucht, Transport, Tierversuche, Behördenverfahren, Strafrecht, Bußgeld und zivilrechtliche Tierfälle.",
@@ -1756,6 +1765,15 @@
       "name": "versammlungsrecht",
       "source": "./versammlungsrecht",
       "description": "Praxisplugin für Versammlungsrecht und Versammlungsfreiheit: Anzeige unter freiem Himmel, Landesrecht, Behörde, Fristen, Spontan- und Eilversammlung, Ordner, Kooperationsgespräch, Auflagen, Verbot, Eilrechtsschutz und Durchführung ohne vorauseilende Selbstzensur.",
+      "version": "74.1.0",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "versicherungsrecht",
+      "source": "./versicherungsrecht",
+      "description": "Großes Versicherungsrecht-Plugin für VVG, VAG, europäische Versicherungsaufsicht, Lebensversicherung, BU, PKV, Rechtsschutz, Kreditversicherung, D&O, Cyber, Sach- und Haftpflichtdeckung.",
       "version": "74.1.0",
       "author": {
         "name": "Klotzkette"

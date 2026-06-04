@@ -2,7 +2,7 @@
 
 Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v74.1.0`.
 
-Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
+Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 20000+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 
@@ -31,7 +31,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [berufsrecht-steuerberater](./berufsrecht-steuerberater.md) (200 Skills)
 - [berufsrecht-wirtschaftspruefer](./berufsrecht-wirtschaftspruefer.md) (200 Skills)
 - [betaeubungsmittelrecht](./betaeubungsmittelrecht.md) (100 Skills)
-- [betreuungsrecht](./betreuungsrecht.md) (64 Skills)
+- [betreuungsrecht](./betreuungsrecht.md) (74 Skills)
 - [bgb-at-pruefer](./bgb-at-pruefer.md) (60 Skills)
 - [bgb-bt-pruefer](./bgb-bt-pruefer.md) (70 Skills)
 - [buerokratieversteher-entbuerokratisierer](./buerokratieversteher-entbuerokratisierer.md) (100 Skills)
@@ -42,7 +42,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [corporate-kanzlei](./corporate-kanzlei.md) (53 Skills)
 - [datenbankrecht](./datenbankrecht.md) (65 Skills)
 - [datenschutz-sanktionsverfahren-verteidigung](./datenschutz-sanktionsverfahren-verteidigung.md) (100 Skills)
-- [datenschutzrecht](./datenschutzrecht.md) (210 Skills)
+- [datenschutzrecht](./datenschutzrecht.md) (216 Skills)
 - [designrecht-geschmacksmusterrecht](./designrecht-geschmacksmusterrecht.md) (50 Skills)
 - [deutsche-rechtsgeschichte](./deutsche-rechtsgeschichte.md) (132 Skills)
 - [dfg-foerderantrag](./dfg-foerderantrag.md) (54 Skills)
@@ -75,7 +75,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [fachanwalt-urheber-medienrecht](./fachanwalt-urheber-medienrecht.md) (54 Skills)
 - [fachanwalt-vergaberecht](./fachanwalt-vergaberecht.md) (83 Skills)
 - [fachanwalt-verkehrsrecht](./fachanwalt-verkehrsrecht.md) (54 Skills)
-- [fachanwalt-versicherungsrecht](./fachanwalt-versicherungsrecht.md) (54 Skills)
+- [fachanwalt-versicherungsrecht](./fachanwalt-versicherungsrecht.md) (66 Skills)
 - [fachanwalt-verwaltungsrecht](./fachanwalt-verwaltungsrecht.md) (55 Skills)
 - [factoring-recht](./factoring-recht.md) (62 Skills)
 - [fashion-law-moderecht](./fashion-law-moderecht.md) (50 Skills)
@@ -109,7 +109,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [insiderrecht-compliance](./insiderrecht-compliance.md) (56 Skills)
 - [insolvenzforderungsanmeldungspruefung](./insolvenzforderungsanmeldungspruefung.md) (54 Skills)
 - [insolvenzplan-starug-planwerkstatt](./insolvenzplan-starug-planwerkstatt.md) (54 Skills)
-- [insolvenzrecht](./insolvenzrecht.md) (77 Skills)
+- [insolvenzrecht](./insolvenzrecht.md) (83 Skills)
 - [insolvenzverwaltung](./insolvenzverwaltung.md) (51 Skills)
 - [internal-investigations-praxis](./internal-investigations-praxis.md) (55 Skills)
 - [internationales-handelsrecht-lex-mercatoria](./internationales-handelsrecht-lex-mercatoria.md) (100 Skills)
@@ -184,6 +184,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [strassenverkehrsrecht-stvo](./strassenverkehrsrecht-stvo.md) (100 Skills)
 - [subsumtions-pruefer](./subsumtions-pruefer.md) (53 Skills)
 - [tabellenreview-3d](./tabellenreview-3d.md) (54 Skills)
+- [telekommunikationsrecht](./telekommunikationsrecht.md) (57 Skills)
 - [tierschutzrecht](./tierschutzrecht.md) (100 Skills)
 - [umweltrecht](./umweltrecht.md) (54 Skills)
 - [umweltschutzverband-verbandsklage](./umweltschutzverband-verbandsklage.md) (100 Skills)
@@ -203,6 +204,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [verlagsrecht-buchpreisbindung](./verlagsrecht-buchpreisbindung.md) (51 Skills)
 - [verlagsredaktion](./verlagsredaktion.md) (104 Skills)
 - [versammlungsrecht](./versammlungsrecht.md) (55 Skills)
+- [versicherungsrecht](./versicherungsrecht.md) (60 Skills)
 - [vertragsausfueller](./vertragsausfueller.md) (54 Skills)
 - [vertragsrecht](./vertragsrecht.md) (54 Skills)
 - [wahlkampfrecht-praxis](./wahlkampfrecht-praxis.md) (118 Skills)

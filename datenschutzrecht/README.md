@@ -221,7 +221,7 @@ datenschutzrecht/
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 210 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 216 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -242,16 +242,22 @@ Automatisch generierte Komplett-Liste aller 210 Skills in diesem Plugin. Beschre
 | `avv-rolemix-getrennt-vs-gemeinsam-verantwortlich` | Abgrenzung Rollenmix Art. 4 Nr. 7 versus Art. 26 versus Art. 28 DSGVO. Wann sind zwei Akteure getrennte Verantwortliche wann gemeinsam Verantwortliche wann Verantwortlicher und Auftragsverarbeiter. Test-Schema fuer Mischkonstellationen m... |
 | `avv-tom-art-32-dsgvo-anlage` | TOM-Anlage zum AVV nach Art. 32 DSGVO. Strukturierte Aufstellung der technischen und organisatorischen Massnahmen mit Pseudonymisierung Verschluesselung Vertraulichkeit Integritaet Verfuegbarkeit Belastbarkeit sowie regelmaessige Pruefun... |
 | `datenpanne-meldung` | Datenpanne nach Art. 33 34 DSGVO melden wenn Sicherheitsverletzung personenbezogener Daten vorliegt. Art. 33 34 DSGVO Meldepflichten § 65 BDSG. Prüfraster: Meldepflicht 72-Stunden-Frist Schwere Risikobewertung Behordenmeldung Betroffenen... |
+| `datenschutz-auskunftei-restschuldbefreiung-art17` | Art. 17 DSGVO im Auskunfteifall: Interessenabwägung, öffentliche Registerfrist, Einschränkung, Widerspruch und gerichtliche Durchsetzung. |
 | `datenschutz-auskunftsersuchen-art-15-praxis` | Auskunftsersuchen nach Art. 15 DSGVO praxisgerecht abarbeiten. Frist Art. 12 III DSGVO ein Monat Verlaengerung um zwei Monate moeglich Begruendung im ersten Monat. Sieben-Fragen-Diagnose zur Mandantenbeurteilung. Schritt-fuer-Schritt-Anl... |
+| `datenschutz-bank-ablehnung-score-beweisplan` | Beweis- und Anspruchsplan bei Konto-, Kredit-, Leasing- oder Mietablehnung wegen Auskunftei-/Score-Daten. |
 | `datenschutz-beschwerde-art-77-aufsichtsbehoerde` | Beschwerde Art. 77 DSGVO bei zustaendiger Aufsichtsbehoerde einreichen oder abwehren. Sieben-Fragen-Diagnose: Beschwerdefuehrer oder Beschwerdegegner Aufsicht zustaendig BfDI § 13 BDSG oder Land § 40 BDSG Sachverhalt Norm konkret Beweise... |
+| `datenschutz-beschwerde-aufsicht-auskunftei` | Beschwerde nach Art. 77 DSGVO gegen SCHUFA/Credit Agency: Zuständigkeit, Sachverhalt, Anträge, Belege, gerichtliche Kontrolle. |
 | `datenschutz-betroffenenrechte-art-15-22-orchestriert` | Saemtliche Betroffenenrechte nach Art. 15 bis 22 DSGVO orchestriert bearbeiten Auskunft Berichtigung Loeschung Einschraenkung Datenuebertragbarkeit Widerspruch automatisierte Entscheidung. Sieben-Fragen-Diagnose und Schritt-fuer-Schritt-... |
 | `datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung` | Bußgeldverteidigung nach Art. 83 DSGVO bis 4 Prozent Jahresumsatz oder 20 Mio. EUR. EDSA-Leitlinien 04/2022 zur Bemessung. Sieben-Fragen-Diagnose: Anhörung oder Bußgeldbescheid, Aufsichtsbehörde, Norm DSGVO/BDSG, Bezugsumsatz, Vorwurf, V... |
 | `datenschutz-datenpanne-art-33-34-72h-incident-response` | Datenpannen-Incident-Response Art. 33 und 34 DSGVO. 72-Stunden-Frist ab Kenntnis Art. 33 I DSGVO und Benachrichtigung Betroffener bei hohem Risiko Art. 34 I DSGVO. Sieben-Fragen-Diagnose: Wer hat wann was entdeckt Datenkategorien Anzahl... |
 | `datenschutz-erstgespraech-mandantenmatrix-7-fragen` | Strukturiertes Erstgespraech im Datenschutzmandat. Sieben gezielte Fragen ordnen den Sachverhalt in eine Mandantenmatrix ein: Rolle nach Art. 4 DSGVO Verantwortlicher oder Auftragsverarbeiter oder gemeinsam Verantwortlicher Art. 26 DSGVO... |
+| `datenschutz-kreditagentur-auskunft-art15-scorelogik` | Auskunft gegenüber Auskunfteien: gespeicherte Daten, Empfänger, Herkunft, Scorelogik, Kategorien, Löschfristen und Kopie. |
 | `datenschutz-livecheck-bfdi-laender-aufsichtsbehoerden` | Livecheck-Skill fuer aktuelle Veroeffentlichungen BfDI und Landesdatenschutzbehoerden vor Abgabe Schriftsatz oder Stellungnahme. Sieben-Fragen-Diagnose: Mandatsgebiet zustaendige Aufsicht Rechtsbereich Verarbeitungsart EuGH Vorabentschei... |
 | `datenschutz-loeschpflicht-art-17-und-aufbewahrung` | Konflikt Loeschpflicht Art. 17 DSGVO und Aufbewahrungspflichten HGB § 257 AO § 147 GoBD geordnet aufloesen. Sieben-Fragen-Diagnose: Datenkategorie Verarbeitungszweck Rechtsgrundlage konkurrierende Pflicht Sperrung statt Loeschung Backup-... |
 | `datenschutz-mandantenkommunikation-aufsichtsbehoerde` | Kommunikation mit Aufsichtsbehoerden BfDI und Landesbehoerden inhaltlich und taktisch fuehren. Sieben-Fragen-Diagnose: Welche Aufsicht zustaendig BfDI § 13 BDSG oder Land § 40 BDSG welcher Anlass Pruefung Anhoerung Mandant antwortbereit.... |
 | `datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit` | Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21 Oesterreichische Post C-340/21 Bulgarian Sofia C-687/21 MediaMarkt C-741/21 juris C-456/22 VX gegen Saale. Sieben-Fr... |
+| `datenschutz-schufa-insolvenzdaten-loeschung` | Löschung von SCHUFA-/Auskunfteidaten zur Restschuldbefreiung nach EuGH C-26/22/C-64/22 mit Art. 5 sowie Art. 17 DSGVO und öffentlichen Insolvenzbekanntmachungen. |
+| `datenschutz-scoring-art22-schufa-c63421` | Bonitätsscoring nach EuGH C-634/21: automatisierte Entscheidung, maßgebliches Kriterium für Dritte, Transparenz, Auskunft, Widerspruch und DSFA. |
 | `datenschutzrecht-anpassen` | Bestehende Datenschutzdokumentation oder Richtlinien an neue Anforderungen oder Verarbeitungstätigkeiten anpassen. Art. 5 24 DSGVO Rechenschaftspflicht. Prüfraster: Bestandsaufnahme Lueckenanalyse DSGVO-Anforderungen BDSG-Besonderheiten... |
 | `datenschutzrecht-kaltstart-interview` | Neues Datenschutzmandat durch strukturiertes Erstgespraech aufnehmen. Art. 5 6 DSGVO Grundsaetze § 26 BDSG Beschaeftigtendaten. Prüfraster: Verarbeitungszweck Datenarten betroffene Personen Empfaenger Aufbewahrungsdauer Risiken. Output:... |
 | `datenschutzrecht-mandat-arbeitsbereich` | Datenschutzrechtliches Mandat strukturieren und Arbeitsbereich abgrenzen. Art. 5 24 DSGVO §§ 1 ff. BDSG. Prüfraster: Mandatsumfang Zuständigkeiten Fristen Risikostufe externe Datenschutzberatung. Output: Mandatssteckbrief Arbeitsplan Rol... |

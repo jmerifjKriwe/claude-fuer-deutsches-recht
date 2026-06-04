@@ -90,7 +90,7 @@ Beim Einsatz von KI-Tools sind insbesondere zu beachten:
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 74 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -116,6 +116,16 @@ Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschrei
 | `ehegattenvertretung-1358-bgb` | Notvertretungsrecht Ehegatten § 1358 BGB seit 01.01.2023: Voraussetzungen, sechsmonatige Befristung, Pflichten, Abgrenzung zur Betreuung. Vorlage Information Mandanten. |
 | `ehrenamtlicher-betreuer-erster-monat` | Start-Workflow für ehrenamtliche und familiäre Betreuer in den ersten 30 Tagen: Bestellungsbeschluss verstehen, Aufgabenkreise lesen, Betreuungsgericht kontaktieren, Betreuungsverein/Behörde anbinden, Vermögens- und Gesundheitsunterlagen... |
 | `familienbetreuer-alltagscockpit` | Alltags-Cockpit für Familienbetreuer: macht aus Post, Pflege, Bank, Arztterminen, Heimkontakt, Behörden und Gericht einen handhabbaren Wochenplan mit Aufgabenliste, Verantwortlichen, Ampel, Gesprächsnotizen und dokumentierten Entscheidun... |
+| `familienbetreuer-arzt-heim-pflegekasse-kommunikation` | Kommunikation mit Ärzten, Krankenhaus, Heim, Pflegedienst, Pflegekasse und Sozialleistungsträgern; Wunschermittlung und Datenschutz. |
+| `familienbetreuer-bankkonto-und-rechnungslegung-einfach` | Konten, Bargeld, Daueraufträge, Vermögensverzeichnis, Belege und einfache Rechnungslegung für ehrenamtliche/familiäre Betreuer. |
+| `familienbetreuer-digitaler-betrug-fernwartung-stoppen` | Betrugsschutz bei betreuten Personen: Romance Scam, Enkeltrick, Fernwartungssoftware, Onlinebanking, Abos, Krypto und Strafanzeige. |
+| `familienbetreuer-entlastung-verhinderung-wechsel` | Entlastung ehrenamtlicher Betreuer: Betreuungsverein, Verhinderungsbetreuung, Aufgabenkreisänderung, Betreuerwechsel und Selbstschutz. |
+| `familienbetreuer-erste-48-stunden-notfallmappe` | Erste 48 Stunden nach Betreuerbestellung: Beschluss lesen, Aufgabenkreise, Eilrisiken, Banken, Heim, Ärzte, Post, Schlüssel, Betrugsstopp und Notfallmappe. |
+| `familienbetreuer-jahresbericht-aus-notizen` | Jahresbericht für das Betreuungsgericht aus Alltagsnotizen, Kontoübersicht, Wunschermittlung und wichtigen Entscheidungen erstellen. |
+| `familienbetreuer-monatsroutine-kalender` | Monatlicher Betreuungsrhythmus: Post, Rechnungen, Gesundheit, Wohnsituation, Fristen, Angehörigenkommunikation und Betreuungsgericht. |
+| `familienbetreuer-scannen-ordner-datenschutz` | Digitale Betreuungsakte für Angehörige: Scans, Dateinamen, Datenschutz, Freigaben, Kalender, Nachweise und sichere Übergabe. |
+| `familienbetreuer-wohnungsaufloesung-genehmigung` | Wohnungskündigung, Haushaltsauflösung, Heimaufnahme, Mietvertrag, Genehmigung und emotionale Dokumentation im Betreuungsfall. |
+| `familienbetreuer-wunschermittlung-schwere-demenz` | Wunsch und mutmaßlicher Wille bei schwerer Demenz, Kommunikation, Biografie, Angehörigenkonflikt und Entscheidungsvorlagen. |
 | `familienkonflikt-grenzen-und-rollen` | Familienkonflikte in der Betreuung: trennt Betreuerrolle, Angehörigenrolle und Eigeninteressen, prüft Kontaktkonflikte, Geldmisstrauen, Geschwisterstreit, Heimdruck, Datenschutz und gerichtliche Eskalation mit klarer Rollen- und Belegmat... |
 | `freiheitsentziehende-massnahmen-1831` | Freiheitsentziehende Massnahmen § 1831 BGB: Fixierung, geschlossene Unterbringung, sedierende Medikation. Voraussetzungen Genehmigung Betreuungsgericht, regelmaessige Pruefung. EuGH-/EGMR-Vorgaben. |
 | `genehmigungspflicht-pruefung` | 'Prüft, ob ein konkretes Rechtsgeschäft, eine Maßnahme oder eine Entscheidung des Betreuers der Genehmigung des Betreuungsgerichts bedarf (§§ 1848 ff. BGB) — etwa Grundstücksverkauf, Erbausschlagung, Heimvertragsabschluss, Wohnungsauflös... |
