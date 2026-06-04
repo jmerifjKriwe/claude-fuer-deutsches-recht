@@ -32,7 +32,7 @@ Nutze diesen Skill für **Abmahnung Reagieren** im deutschen AGB-Recht, wenn ein
 ### Anspruchsgrundlagen
 - §§ 1, 3 UKlaG: Verbandsklage gegen unwirksame AGB.
 - § 8 Abs. 3 UWG: Mitbewerber-Abmahnung.
-- § 8b UWG zur Begrenzung der Abmahngebuehren.
+- § 13 UWG zu Form, Inhalt und Aufwendungsersatz der Abmahnung; § 13a UWG zur Begrenzung der Vertragsstrafe (§ 8b UWG betrifft nur die Liste der qualifizierten Wirtschaftsverbände).
 
 ### Aktive Verbaende
 - Verbraucherzentrale Bundesverband (vzbv) und Landesverbaende.
@@ -48,7 +48,7 @@ Nutze diesen Skill für **Abmahnung Reagieren** im deutschen AGB-Recht, wenn ein
 1. Fristpruefung (oft kurze Frist, regelmaessig 7-14 Tage).
 2. Materielle Pruefung (Wettbewerbsverstoss / AGB-Unwirksamkeit).
 3. Modifizierte Unterlassungserklaerung mit Streichung ueberzogener Punkte.
-4. Kostenpruefung nach § 8b UWG.
+4. Kostenpruefung nach § 13 Abs. 3 und 4 UWG (Erstattungsausschluesse) sowie Vertragsstrafenbegrenzung nach § 13a UWG.
 5. Gegenvorlage einer eigenen, rechtskonformen AGB-Version.
 
 ### Erfolgsstrategie

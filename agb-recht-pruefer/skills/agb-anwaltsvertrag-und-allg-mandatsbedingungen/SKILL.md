@@ -26,7 +26,7 @@ Skill fuer AGB-Kontrolle der Allgemeinen Mandatsbedingungen.
 - BGH IX ZR 119/14 zur Anwaltshonorarvereinbarung.
 
 ### Haftungsbeschraenkung
-- § 51a BRAO: Begrenzung auf 250.000 Euro je Versicherungsfall in AGB moeglich.
+- § 52 BRAO: in vorformulierten Mandatsbedingungen ist eine Haftungsbeschraenkung nur fuer einfache Fahrlaessigkeit und nur bis zur vierfachen Mindestversicherungssumme zulaessig (§ 51 Abs. 4 BRAO; Mindestversicherungssumme 250.000 Euro pro Versicherungsfall, somit Obergrenze in AGB 1 Mio. Euro); § 51a BRAO regelt demgegenueber die Berufshaftpflicht von Berufsausuebungsgesellschaften.
 - Hoehere Pflicht bei groberen Faellen.
 
 ### Verschwiegenheit
@@ -36,7 +36,7 @@ Skill fuer AGB-Kontrolle der Allgemeinen Mandatsbedingungen.
 
 1. Honorarvereinbarung formgerecht?
 2. RVG-Konformitaet?
-3. Haftungsbeschraenkung im Rahmen § 51a BRAO?
+3. Haftungsbeschraenkung im Rahmen § 52 BRAO (nur einfache Fahrlaessigkeit, max. vierfache Mindestversicherungssumme)?
 4. Beratungspflichten?
 
 ## Output
