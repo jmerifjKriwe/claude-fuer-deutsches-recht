@@ -1,7 +1,7 @@
 # 12 — Aufrechnungsprüfung
 
-**AZ:** 8 O 188/26  
-**Erstellerin:** Dr. Tannenberg-Eichmueller  
+**AZ:** 8 O 188/26
+**Erstellerin:** Dr. Tannenberg-Eichmueller
 **Rechtsgrundlagen:** § 387 BGB, § 13 Nr. 5 VOB/B
 
 ---

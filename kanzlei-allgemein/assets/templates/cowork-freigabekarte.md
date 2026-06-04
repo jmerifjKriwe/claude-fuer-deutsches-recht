@@ -9,11 +9,11 @@
 
 ## Darf jetzt
 
-- 
+-
 
 ## Darf noch nicht
 
-- 
+-
 
 ## Für Freigabe fehlt
 

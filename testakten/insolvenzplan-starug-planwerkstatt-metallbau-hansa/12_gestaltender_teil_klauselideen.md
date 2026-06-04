@@ -1,9 +1,9 @@
 # Gestaltender Teil – Klauselideen und Entwurf
 
-**Aktenzeichen:** MH-2026-001  
-**Stand:** 5. Juni 2026 (Arbeitsfassung)  
-**Verfasser:** RA Dr. Karolin Westphal  
-**Rechtsgrundlage:** § 221 InsO, §§ 7 ff. StaRUG  
+**Aktenzeichen:** MH-2026-001
+**Stand:** 5. Juni 2026 (Arbeitsfassung)
+**Verfasser:** RA Dr. Karolin Westphal
+**Rechtsgrundlage:** § 221 InsO, §§ 7 ff. StaRUG
 
 ---
 

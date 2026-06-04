@@ -1,20 +1,20 @@
 # Kostenvoranschlag – Restaurationsbetrieb Bauer GbR
 
-**Restaurationsbetrieb Bauer GbR**  
-Meister für Stuck und Restaurierung  
-Eifelstraße 42, 50677 Köln  
-Tel. 0221 / 38 12 45  **E-Mail:** info@restauration-bauer-koeln.de  
+**Restaurationsbetrieb Bauer GbR**
+Meister für Stuck und Restaurierung
+Eifelstraße 42, 50677 Köln
+Tel. 0221 / 38 12 45  **E-Mail:** info@restauration-bauer-koeln.de
 **Meisterbrief Nr.:** HWK Köln 2003/8812
 
 ---
 
-**An:** WEG Rolandstraße 27a, 50677 Köln  
-c/o Immobilienverwaltung Rheineck GmbH  
+**An:** WEG Rolandstraße 27a, 50677 Köln
+c/o Immobilienverwaltung Rheineck GmbH
 Kerpener Straße 77, 50937 Köln
 
-**Betr.:** Kostenvoranschlag Treppenhaussanierung Rolandstraße 27a, Köln  
-**Datum:** 10. März 2026  
-**KV-Nr.:** 2026/0347  
+**Betr.:** Kostenvoranschlag Treppenhaussanierung Rolandstraße 27a, Köln
+**Datum:** 10. März 2026
+**KV-Nr.:** 2026/0347
 **Gültig bis:** 30. Juni 2026
 
 ---
@@ -54,10 +54,10 @@ Hinweis: Preise gelten für eine Ausführung in 2026. Preisanpassungen nach BREX
 
 ---
 
-**Zahlungsbedingungen:** 30 % Anzahlung bei Auftragserteilung, 40 % nach Halbzeit, 30 % nach Abnahme (14 Tage netto).  
+**Zahlungsbedingungen:** 30 % Anzahlung bei Auftragserteilung, 40 % nach Halbzeit, 30 % nach Abnahme (14 Tage netto).
 **Ausführungszeitraum:** 8–10 Wochen nach Auftragserteilung.
 
 ---
 
-*Gez. Heinrich Bauer, Restaurierungsmeister*  
+*Gez. Heinrich Bauer, Restaurierungsmeister*
 Köln, 10.03.2026

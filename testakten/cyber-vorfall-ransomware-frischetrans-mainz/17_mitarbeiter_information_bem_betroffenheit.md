@@ -1,8 +1,8 @@
 # Mitarbeiterinformation — BEM-Betroffenheit und Datenschutzpanne
 
-**Aktenstück:** 17  
-**Datum:** 11.05.2026  
-**Mandantin:** Frischetrans Mittelrhein GmbH  
+**Aktenstück:** 17
+**Datum:** 11.05.2026
+**Mandantin:** Frischetrans Mittelrhein GmbH
 **Bearbeiter:** RA Lukas Drosten / DSB Markus Feilke / HR-Leitung Frischetrans
 
 ---
@@ -19,8 +19,8 @@ Das folgende Schreiben wird den 38 BEM-betroffenen Mitarbeitern **persönlich un
 
 ---
 
-Frischetrans Mittelrhein GmbH  
-Binger Straße 142  
+Frischetrans Mittelrhein GmbH
+Binger Straße 142
 55131 Mainz
 
 Mainz, den 11.05.2026
@@ -58,14 +58,14 @@ Wir wissen, dass diese Informationen zu den persönlichsten überhaupt gehören.
 
 Wir haben in Absprache mit dem Betriebsrat ein **kostenloses und anonymes Beratungsangebot** für die betroffenen Mitarbeiterinnen und Mitarbeiter eingerichtet:
 
-Externe Mitarbeiterberatung (EAP):  
-Counselling Rheinland GmbH (unabhängig, streng vertraulich)  
-Freecall: 0800 / 4473 0000 (täglich 0–24 Uhr)  
-E-Mail: bem-hilfe@counselling-rheinland.de  
+Externe Mitarbeiterberatung (EAP):
+Counselling Rheinland GmbH (unabhängig, streng vertraulich)
+Freecall: 0800 / 4473 0000 (täglich 0–24 Uhr)
+E-Mail: bem-hilfe@counselling-rheinland.de
 (Bitte bei Erstkontakt: Code FTMCARE2026 angeben)
 
-Externer Datenschutzbeauftragter:  
-Markus Feilke — direkte Durchwahl für BEM-Betroffene: +49 6131 9944-12  
+Externer Datenschutzbeauftragter:
+Markus Feilke — direkte Durchwahl für BEM-Betroffene: +49 6131 9944-12
 (Terminvereinbarung auch außerhalb der Geschäftszeiten)
 
 **Ihre Rechte:**
@@ -78,13 +78,13 @@ Wir bedauern diesen Vorfall zutiefst. Das Vertrauen, das Sie uns durch Ihre Teil
 
 Mit freundlichen Grüßen und aufrichtigem Bedauern
 
-Theresia Wallbruck  
-Geschäftsführerin  
+Theresia Wallbruck
+Geschäftsführerin
 Frischetrans Mittelrhein GmbH
 
 *und*
 
-Markus Feilke  
+Markus Feilke
 Externer Datenschutzbeauftragter
 
 ---

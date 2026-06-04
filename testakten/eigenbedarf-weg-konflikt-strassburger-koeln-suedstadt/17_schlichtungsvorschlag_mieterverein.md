@@ -1,18 +1,18 @@
 # Schlichtungsvorschlag – Mieterverein Köln und Umgebung e. V.
 
-**Mieterverein Köln und Umgebung e. V.**  
-Hahnenstraße 20 · 50667 Köln  
-Tel. 0221 / 77 50 0  **Fax:** 0221 / 77 50 99  
+**Mieterverein Köln und Umgebung e. V.**
+Hahnenstraße 20 · 50667 Köln
+Tel. 0221 / 77 50 0  **Fax:** 0221 / 77 50 99
 **Sachbearbeiter:** Wolfgang Lemke
 
 ---
 
 Köln, den **15. April 2026**
 
-**An:**  
-Kanzlei Hauck-Brüggemann Mietrecht  
-z. H. Frau RA'in Vanessa Hauck-Brüggemann  
-Berrenrather Straße 114  
+**An:**
+Kanzlei Hauck-Brüggemann Mietrecht
+z. H. Frau RA'in Vanessa Hauck-Brüggemann
+Berrenrather Straße 114
 50937 Köln-Sülz
 
 *(per Einschreiben und per E-Mail: kanzlei@hauck-brueggemann-mietrecht.de)*
@@ -73,6 +73,6 @@ Mit freundlichen Grüßen
 
 **Mieterverein Köln und Umgebung e. V.**
 
-_________________________  
-Wolfgang Lemke  
+_________________________
+Wolfgang Lemke
 Sachbearbeiter Mietrecht

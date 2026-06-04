@@ -1,7 +1,7 @@
 # Aktenstück 22 — Verfahrensstand, Abschluss-Chronologie und Ausblick
 
-**Verfahren:** KLs 4 Js 18.422/26 — LG Stuttgart 4. Grosse Strafkammer  
-**Stichtag dieser Akte:** 14.02.2026  
+**Verfahren:** KLs 4 Js 18.422/26 — LG Stuttgart 4. Grosse Strafkammer
+**Stichtag dieser Akte:** 14.02.2026
 **Gesamtbearbeitung:** Alle Beteiligten
 
 ---

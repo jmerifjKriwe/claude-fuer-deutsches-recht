@@ -1,8 +1,8 @@
 # Unternehmensprofil – Metallbau Hansa GmbH
 
-**Aktenzeichen:** MH-2026-001  
-**Stand:** 14. Mai 2026  
-**Erstellt von:** CFO Björn Hollender, zusammengefasst durch RA Dr. K. Westphal  
+**Aktenzeichen:** MH-2026-001
+**Stand:** 14. Mai 2026
+**Erstellt von:** CFO Björn Hollender, zusammengefasst durch RA Dr. K. Westphal
 
 ---
 

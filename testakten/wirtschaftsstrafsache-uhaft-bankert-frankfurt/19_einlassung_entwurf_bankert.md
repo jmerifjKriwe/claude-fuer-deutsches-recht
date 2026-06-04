@@ -1,9 +1,9 @@
 # Einlassung des Angeklagten — Entwurf (Vertraulich)
 
-**Marx Strafverteidigung Frankfurt**  
-**ENTWURF — NOCH NICHT AUTORISIERT — Vertraulich § 53 StPO**  
-Erstellt von: Dr. Friederike Marx  
-Datum: 15. Mai 2025  
+**Marx Strafverteidigung Frankfurt**
+**ENTWURF — NOCH NICHT AUTORISIERT — Vertraulich § 53 StPO**
+Erstellt von: Dr. Friederike Marx
+Datum: 15. Mai 2025
 Az.: 5/28 KLs 122/25
 
 ---
@@ -14,8 +14,8 @@ Az.: 5/28 KLs 122/25
 
 ## Einlassung des Angeklagten Daniel Albert Bankert zur Hauptverhandlung
 
-**Angeklagter:** Daniel Albert Bankert  
-**Verfahren:** LG Frankfurt am Main, 5/28 KLs 122/25  
+**Angeklagter:** Daniel Albert Bankert
+**Verfahren:** LG Frankfurt am Main, 5/28 KLs 122/25
 **HV-Beginn:** 23. Juni 2025
 
 ---
@@ -82,5 +82,5 @@ Ich verstehe, dass das Gericht die Beweise sorgfältig prüfen wird. Ich vertrau
 
 ---
 
-*[ENTWURF — Dr. F. Marx, Marx Strafverteidigung Frankfurt, 15.05.2025 — nicht autorisiert]*  
+*[ENTWURF — Dr. F. Marx, Marx Strafverteidigung Frankfurt, 15.05.2025 — nicht autorisiert]*
 *Az.: 5/28 KLs 122/25*

@@ -1,8 +1,8 @@
 # Aktenstück 21 – BSI IT-SIG 2.0 / KRITIS-Rechtliche Analyse
 
-**Aktenzeichen:** VK 1-32/26  
-**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026  
-**Datum:** 15.03.2026 (Gutachten, erstellt vor Verfahrensbeginn)  
+**Aktenzeichen:** VK 1-32/26
+**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026
+**Datum:** 15.03.2026 (Gutachten, erstellt vor Verfahrensbeginn)
 **Erstellt von:** RA Dr. Constantin Bährens / Fachberatung IT-Sicherheitsrecht
 
 ---

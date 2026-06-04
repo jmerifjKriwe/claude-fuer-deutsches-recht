@@ -1,9 +1,9 @@
 # 05 — Einstweilige Verfügung: Antrag und Beschluss LG Mannheim
 
-**Bearbeiter:** RA Philipp Mertens-Waldhausen  
-**Datum:** 22. April 2026 (Antrag) / 29. April 2026 (Beschluss)  
-**Aktenzeichen:** LG Mannheim 7 O 88/26 (eV-Teil)  
-**Kammer:** 7. Kammer für Handelssachen  
+**Bearbeiter:** RA Philipp Mertens-Waldhausen
+**Datum:** 22. April 2026 (Antrag) / 29. April 2026 (Beschluss)
+**Aktenzeichen:** LG Mannheim 7 O 88/26 (eV-Teil)
+**Kammer:** 7. Kammer für Handelssachen
 
 ---
 
@@ -17,12 +17,12 @@ Nachdem der Verletzungssachverhalt am 10. April 2026 dokumentiert und die Verlet
 
 ### 2.1 Antragstellerin
 
-Leichtenstein Gartenkultur Manufaktur GmbH, Neckarstraße 118, 69412 Eberbach am Neckar  
+Leichtenstein Gartenkultur Manufaktur GmbH, Neckarstraße 118, 69412 Eberbach am Neckar
 (vertreten durch Dr. Volkmar Trautmann & Coll.)
 
 ### 2.2 Antragsgegnerin
 
-FlowerWorld AG, Alsterchaussee 112, 20149 Hamburg  
+FlowerWorld AG, Alsterchaussee 112, 20149 Hamburg
 (Zustellanschrift: FlowerWorld AG, c/o Niederlassung Mannheim, Friedrichsring 4, 68161 Mannheim)
 
 ### 2.3 Anträge
@@ -100,6 +100,6 @@ Das eV-Verfahren hat seine wesentliche Wirkung entfaltet: FlowerWorld AG hat die
 
 ---
 
-**Erstellt von:** RA Philipp Mertens-Waldhausen  
-**Geprüft:** PA Dr. Volkmar Trautmann  
+**Erstellt von:** RA Philipp Mertens-Waldhausen
+**Geprüft:** PA Dr. Volkmar Trautmann
 **Datum:** 30. April 2026

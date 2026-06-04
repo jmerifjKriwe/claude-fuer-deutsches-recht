@@ -1,16 +1,16 @@
 # 02 Titel-Pruefung — AG Hamburg-Altona 188 C 4711/25
 
-**Akte:** MR-2026-ZV-0188  
-**Prüfungsdatum:** 05.01.2026  
+**Akte:** MR-2026-ZV-0188
+**Prüfungsdatum:** 05.01.2026
 **Bearbeiter:** RA Dr. Roosendaal-Eichmueller
 
 ---
 
 ## Vollstreckungstitel
 
-**Gericht:** Amtsgericht Hamburg-Altona  
-**Aktenzeichen:** 188 C 4711/25  
-**Urteilsdatum:** 12.11.2025  
+**Gericht:** Amtsgericht Hamburg-Altona
+**Aktenzeichen:** 188 C 4711/25
+**Urteilsdatum:** 12.11.2025
 **Rechtskraft:** 15.03.2026 (Berufung LG Hamburg 308 S 14/26 zurückgewiesen)
 
 ---

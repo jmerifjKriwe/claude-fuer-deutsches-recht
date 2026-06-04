@@ -27,7 +27,7 @@ Dr. Maashardt und Brüggemann sind als Grundstückseigentümer im Bereich der Vo
 
 ### 3. Antragsfrist (kritisch – vgl. Memo 03)
 
-Der RPL UB wurde am **15.06.2023** im Amtsblatt für Brandenburg (Nr. 23/2023, S. 642) bekannt gemacht. Die Jahresfrist des § 47 Abs. 2 S. 1 VwGO läuft bis **15.06.2024** – sie ist **abgelaufen**. 
+Der RPL UB wurde am **15.06.2023** im Amtsblatt für Brandenburg (Nr. 23/2023, S. 642) bekannt gemacht. Die Jahresfrist des § 47 Abs. 2 S. 1 VwGO läuft bis **15.06.2024** – sie ist **abgelaufen**.
 
 **Argumentation für Fristwahrung trotz Ablauf:**
 

@@ -1,7 +1,7 @@
 # Aktenstück 07 — Rechtliche Analyse BU-Klage
 
-**Verfasst von:** Dr. Annegret Müller-Hauck, FAin VersR  
-**Datum:** 01.03.2026  
+**Verfasst von:** Dr. Annegret Müller-Hauck, FAin VersR
+**Datum:** 01.03.2026
 **Verfahren:** LG Aachen 5 O 102/26
 
 ---
@@ -50,20 +50,20 @@ begründet eine dauerhafte BU mit hoher medizinischer Wahrscheinlichkeit. Insbes
 
 ## V. Klagestrategie
 
-**Streitwert**: 133.200 EUR (1.850 EUR × 12 × 6 Jahre, vereinfachte Berechnung nach § 9 ZPO, Restlaufzeit bis Endalter 65 im Jahr 2039 = 13 Jahre; realistisch 133.200 EUR nach § 23 GKG).  
-**Gericht**: LG Aachen, zuständig nach § 215 VVG (Wohnsitz der Versicherungsnehmerin).  
-**Klageantrag**: Feststellung der BU sowie Zahlung rückständiger BU-Rente seit 01.09.2025.  
+**Streitwert**: 133.200 EUR (1.850 EUR × 12 × 6 Jahre, vereinfachte Berechnung nach § 9 ZPO, Restlaufzeit bis Endalter 65 im Jahr 2039 = 13 Jahre; realistisch 133.200 EUR nach § 23 GKG).
+**Gericht**: LG Aachen, zuständig nach § 215 VVG (Wohnsitz der Versicherungsnehmerin).
+**Klageantrag**: Feststellung der BU sowie Zahlung rückständiger BU-Rente seit 01.09.2025.
 **Beweismittel**: Sachverständigengutachten (Orthopädie, Psychiatrie, Dermatologie), Tätigkeitsanalyse, Zeugen (Dr. Brandt, Dr. Scholz, Dr. Hermanns).
 
 ---
 
 ## VI. Einschlägige Rechtsprechung
 
-- BGH IV ZR 99/95 — Dauerhaftigkeit der BU, Prognose 3-Jahres-Horizont  
-- BGH IV ZR 203/92 — Lebensstellung bei Verweisungsklausel  
-- BGH IV ZR 244/03 — Konkretisierungspflicht des Versicherers bei Verweisung  
-- BGH IV ZR 275/08 — Maßgeblichkeit des konkret ausgeübten Berufs  
-- OLG Köln, Urt. v. 09.12.2020 – 20 U 125/19 — Pflegerin als Berufsgruppe mit körperlichem Schwerpunkt  
+- BGH IV ZR 99/95 — Dauerhaftigkeit der BU, Prognose 3-Jahres-Horizont
+- BGH IV ZR 203/92 — Lebensstellung bei Verweisungsklausel
+- BGH IV ZR 244/03 — Konkretisierungspflicht des Versicherers bei Verweisung
+- BGH IV ZR 275/08 — Maßgeblichkeit des konkret ausgeübten Berufs
+- OLG Köln, Urt. v. 09.12.2020 – 20 U 125/19 — Pflegerin als Berufsgruppe mit körperlichem Schwerpunkt
 
 Quellen: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bundesgerichtshof.de](https://www.bundesgerichtshof.de)
 

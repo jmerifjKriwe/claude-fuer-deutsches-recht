@@ -1,8 +1,8 @@
 # 07 — Schadensberechnung: Lizenzanalogie nach § 14 Abs. 6 MarkenG
 
-**Bearbeiter:** RA Philipp Mertens-Waldhausen / PA Dr. Volkmar Trautmann  
-**Datum:** 18. Mai 2026  
-**Verfahren:** LG Mannheim 7 O 88/26  
+**Bearbeiter:** RA Philipp Mertens-Waldhausen / PA Dr. Volkmar Trautmann
+**Datum:** 18. Mai 2026
+**Verfahren:** LG Mannheim 7 O 88/26
 
 ---
 
@@ -113,6 +113,6 @@ Eine vollständige tabellarische Berechnung mit Sensitivitätsanalyse (verschied
 
 ---
 
-**Erstellt von:** RA Philipp Mertens-Waldhausen  
-**Geprüft:** PA Dr. Volkmar Trautmann  
+**Erstellt von:** RA Philipp Mertens-Waldhausen
+**Geprüft:** PA Dr. Volkmar Trautmann
 **Datum:** 18. Mai 2026

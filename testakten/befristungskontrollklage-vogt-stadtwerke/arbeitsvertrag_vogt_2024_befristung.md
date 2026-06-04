@@ -108,7 +108,7 @@ Für die Stadtwerke Neukölln GmbH:            Arbeitnehmerin:
 
 _______________________________                _______________________________
 Birgit Schönfeld                               Lena Vogt
-(Personalreferentin)                           
+(Personalreferentin)
 
 Ort/Datum: Berlin, 14.02.2024                  Ort/Datum: _____________, _______
 

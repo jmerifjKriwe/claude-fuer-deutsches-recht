@@ -1,8 +1,8 @@
 # 22 — Abschluss und Handlungsempfehlung (Stand Mai 2026)
 
-**Aktenzeichen intern:** VM-2026-GR-001  
-**Datum:** 05. Mai 2026  
-**Bearbeiter:** RA Dr. Marie-Henriette Birkenhainer  
+**Aktenzeichen intern:** VM-2026-GR-001
+**Datum:** 05. Mai 2026
+**Bearbeiter:** RA Dr. Marie-Henriette Birkenhainer
 **Adressat:** Dr. Philipp Sonnleitner, Geschäftsführer Vellbruck Medizintechnik GmbH
 
 ---
@@ -76,9 +76,9 @@ Das Mandat VM-2026-GR-001 steht insgesamt auf einer starken Grundlage. Die Kombi
 
 Die Kanzlei steht für Rückfragen jederzeit zur Verfügung.
 
-**Dr. Marie-Henriette Birkenhainer**  
-Fachanwältin für gewerblichen Rechtsschutz  
-EPA-zugelassene Vertreterin Nr. EPA-D-12885  
+**Dr. Marie-Henriette Birkenhainer**
+Fachanwältin für gewerblichen Rechtsschutz
+EPA-zugelassene Vertreterin Nr. EPA-D-12885
 Kanzlei Birkenhainer & Consulting, München
 
 ---

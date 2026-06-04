@@ -1,8 +1,8 @@
 # Erpressungsschreiben AkiraNext — Dokumentation und Rechtliche Bewertung
 
-**Aktenstück:** 03  
-**Mandantin:** Frischetrans Mittelrhein GmbH  
-**Datum:** 06.05.2026  
+**Aktenstück:** 03
+**Mandantin:** Frischetrans Mittelrhein GmbH
+**Datum:** 06.05.2026
 **Bearbeiter:** RA Lukas Drosten, Fachanwalt für IT-Recht
 
 ---
@@ -61,19 +61,19 @@ Every 24 hours of delay: +$50,000 additional fee.
 
 Das Erpressungsschreiben erfüllt folgende Straftatbestände des deutschen Strafgesetzbuchs (StGB):
 
-**§ 202a StGB — Ausspähen von Daten**  
+**§ 202a StGB — Ausspähen von Daten**
 Die unbefugte Erlangung von ca. 2,1 TB unternehmensinterner Daten unter Überwindung von Zugangssicherungen (Firewalls, Authentifizierungssysteme) erfüllt den Tatbestand des § 202a Abs. 1 StGB. Strafrahmen: Freiheitsstrafe bis zu 3 Jahre oder Geldstrafe.
 
-**§ 303a StGB — Datenveränderung**  
+**§ 303a StGB — Datenveränderung**
 Die Verschlüsselung der Daten ohne Zustimmung der Inhaberin stellt eine rechtswidrige Löschung, Unterdrückung, Unbrauchbarmachung oder Veränderung von Daten dar. Strafrahmen: Freiheitsstrafe bis zu 2 Jahre oder Geldstrafe. In schweren Fällen (§ 303b StGB, Computersabotage) bis zu 5 Jahre.
 
-**§ 303b StGB — Computersabotage**  
+**§ 303b StGB — Computersabotage**
 Der Angriff auf wesentliche Teile des Unternehmensnetzwerks (ERP, Telematik) mit der Absicht, den Betrieb einer Datenverarbeitungsanlage zu stören, fällt unter § 303b Abs. 1 Nr. 2 StGB. Da es sich um eine Einrichtung von erheblicher Bedeutung für die Versorgung der Bevölkerung (Frischelogistik für Lebensmittelketten) handeln kann, kommt § 303b Abs. 4 StGB in Betracht (Freiheitsstrafe bis 10 Jahre).
 
-**§ 253 StGB — Erpressung**  
+**§ 253 StGB — Erpressung**
 Die Forderung nach Zahlung von 1.450.000 USD unter Drohung der Veröffentlichung gestohlener Daten erfüllt den Tatbestand der Erpressung nach § 253 Abs. 1 StGB. Strafrahmen: Freiheitsstrafe bis zu 5 Jahre; in schweren Fällen (§ 253 Abs. 4) bis zu 15 Jahre.
 
-**§ 263a StGB — Computerbetrug**  
+**§ 263a StGB — Computerbetrug**
 Soweit der Angreifer durch die Manipulation der EDV-Anlage einen Vermögensvorteil erzielen will, liegt tateinheitlich Computerbetrug vor.
 
 ### 2.2 Empfehlung: Keine Zahlung

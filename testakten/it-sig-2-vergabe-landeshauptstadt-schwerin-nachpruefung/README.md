@@ -19,7 +19,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 **Vorhabenbezeichnung:** `LH-SN-Cyber-SOC-NSV-2026`
 
-**Aktenzeichen VK 1:** `VK 1-32/26`  
+**Aktenzeichen VK 1:** `VK 1-32/26`
 **Aktenzeichen OLG Düsseldorf:** `Verg 18/26`
 
 ## Sachverhalt

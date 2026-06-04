@@ -1,11 +1,11 @@
 # Zeugenaussage — Bernhard Hockstein (PKW hinter Unfallstelle)
 
-**Zeuge:** Bernhard Hockstein, geb. 04.11.1971  
-**Anschrift:** Werdohler Straße 89, 58762 Altena  
-**Vernehmung durch:** POK Markus Breitenbach, PKin Sandra Völker  
-**Datum/Zeit:** 12.01.2026, 02:50 Uhr (Erstvernehmung vor Ort)  
-**Zweite Vernehmung:** StA Hagen, 03.02.2026 (StA'in Dr. Lehmkuhl)  
-**Verfahren:** 83 Js 7411/26 (StA Hagen) und 40 OWi-83 Js 7411/26 (AG Lüdenscheid)  
+**Zeuge:** Bernhard Hockstein, geb. 04.11.1971
+**Anschrift:** Werdohler Straße 89, 58762 Altena
+**Vernehmung durch:** POK Markus Breitenbach, PKin Sandra Völker
+**Datum/Zeit:** 12.01.2026, 02:50 Uhr (Erstvernehmung vor Ort)
+**Zweite Vernehmung:** StA Hagen, 03.02.2026 (StA'in Dr. Lehmkuhl)
+**Verfahren:** 83 Js 7411/26 (StA Hagen) und 40 OWi-83 Js 7411/26 (AG Lüdenscheid)
 
 ---
 
@@ -85,5 +85,5 @@ Im OWi-Verfahren ist die Aussage Hocksteins für den Geschwindigkeitsvorwurf ohn
 
 ---
 
-*Zweite Vernehmung wurde am 04.02.2026 im Volltext dem Verteidiger per Akteneinsicht übermittelt*  
+*Zweite Vernehmung wurde am 04.02.2026 im Volltext dem Verteidiger per Akteneinsicht übermittelt*
 *Notiz: RA Sebastian Hoffmann — Stand 07.02.2026*

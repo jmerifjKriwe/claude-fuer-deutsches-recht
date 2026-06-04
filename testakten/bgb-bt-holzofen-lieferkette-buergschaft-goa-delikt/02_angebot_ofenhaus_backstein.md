@@ -1,6 +1,6 @@
 # Angebot Ofenhaus Backstein GmbH
 
-**Angebot Nr. 25-1188**  
+**Angebot Nr. 25-1188**
 **Datum:** 14.10.2025
 
 | Position | Beschreibung | Betrag netto |

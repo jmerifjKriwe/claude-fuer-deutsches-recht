@@ -1,0 +1,196 @@
+---
+name: kompendium-21-transparenzgebot-307-bis-us-uk-legal-writing
+description: "word-legal-ai-plugin-and-skill-for-german-lawyers: Konsolidiertes Skill-Kompendium 21; bündelt 2 frühere Spezialskills (transparenzgebot-307-bgb, us-uk-legal-writing-fuer-deutsche) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+---
+
+# Kompendium 21 - word-legal-ai-plugin-and-skill-for-german-lawyers
+
+## Zweck
+
+Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+
+## Enthaltene frühere Skills
+
+| Früherer Skill | Frühere Beschreibung |
+| --- | --- |
+| `transparenzgebot-307-bgb` | Drafting nach dem Transparenzgebot des § 307 I S. 2 BGB. Eine inhaltlich zulässige Klausel ist gleichwohl unwirksam, wenn sie nicht klar und verständlich ist. Maßstab ist der durchschnittliche Vertragspartner ohne Spezialwissen. Indizien für Intransparenz sind kaskadierte Verweise auf Anlagen ohne Wiedergabe, doppelte Negationen, unerläuterte Fachsprache und überlange Schachtelsätze. Liefert Drafting-Checks zu Lesbarkeit, struktureller Klarheit und nachvollziehbaren Rechtsfolgen sowie Beispielklauseln in der Gegenüberstellung vorher und nachher. |
+| `us-uk-legal-writing-fuer-deutsche` | Hilft deutschen Anwälten, englische oder amerikanische Legal-Texte zu schreiben, ohne deutsch zu übersetzen. Klärt US/UK-Adressat, Common-Law-Erwartung, deutsches Recht als Inhalt, Local-Counsel-Rolle, Ton, Struktur, Risk Note, Clause Note und E-Mail an ausländische Counsel. |
+
+## Arbeitsregel
+
+1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
+3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+
+## Konsolidierte Inhalte
+
+## 1. `transparenzgebot-307-bgb`
+
+**Frühere Beschreibung:** Drafting nach dem Transparenzgebot des § 307 I S. 2 BGB. Eine inhaltlich zulässige Klausel ist gleichwohl unwirksam, wenn sie nicht klar und verständlich ist. Maßstab ist der durchschnittliche Vertragspartner ohne Spezialwissen. Indizien für Intransparenz sind kaskadierte Verweise auf Anlagen ohne Wiedergabe, doppelte Negationen, unerläuterte Fachsprache und überlange Schachtelsätze. Liefert Drafting-Checks zu Lesbarkeit, struktureller Klarheit und nachvollziehbaren Rechtsfolgen sowie Beispielklauseln in der Gegenüberstellung vorher und nachher.
+
+# Transparenzgebot nach § 307 I S. 2 BGB
+
+## Zweck
+
+Dieser Skill unterstützt Sie beim Drafting transparenter AGB-Klauseln. Auch eine inhaltlich zulässige Klausel ist unwirksam, wenn sie unklar oder unverständlich ist. Das Transparenzgebot ist eigenständiger Unwirksamkeitsgrund neben den materiellen Inhaltsverboten der §§ 308 und 309 BGB.
+
+## Eingaben
+
+- Vorgesehener Klauseltext oder Drafting-Auftrag.
+- Adressatenkreis (Verbraucher, Unternehmer, mittelständische Beschaffung, Online-Massenkundschaft).
+- Zugehörigkeit zu einem Klauselwerk (Bezugnahmen auf andere Klauseln und Anlagen).
+- Gestaltungsspielraum (Layout, Hervorhebungen, Tabellen).
+
+## Rechtlicher und methodischer Rahmen
+
+- **Rechtsgrundlage:** § 307 I S. 2 BGB. Eine unangemessene Benachteiligung kann sich auch daraus ergeben, dass die Bestimmung nicht klar und verständlich ist.
+- **Geltungsbereich:** Sowohl Verbraucher- als auch Unternehmergeschäft. Im B2B gilt das Transparenzgebot über § 310 I i. V. m. § 307 BGB.
+- **Maßstab:** Durchschnittlicher Vertragspartner aus dem typischerweise angesprochenen Kreis, ohne juristisches oder branchenspezifisches Spezialwissen.
+- **Funktion:** Transparenzgebot verlangt nicht nur sprachliche Klarheit, sondern auch wirtschaftliche Nachvollziehbarkeit: Der Vertragspartner muss die finanziellen Folgen und Rechte/Pflichten erkennen können.
+- **Folgen der Intransparenz:** Unwirksamkeit der Klausel; das dispositive Recht greift (§ 306 II BGB).
+- **Rechtsprechung:** Eine umfangreiche BGH-Linie zu Preisanpassungs-, Wechsel- und Verlängerungsklauseln präzisiert den Maßstab. Konkrete Fundstellen sind vom Nutzer zu verifizieren.
+
+## Ablauf / Checkliste
+
+1. Adressatenkreis identifizieren: Welcher Bildungs- und Erfahrungshorizont ist anzunehmen?
+2. Klauseltext laut lesen oder vorlesen lassen. Wo der Leser stockt, droht Intransparenz.
+3. Strukturelle Klarheit prüfen: Überschriften, kurze Absätze, Nummerierung, Tabellen für Tarif- und Preisinformationen.
+4. Sprachliche Klarheit prüfen: kurze Sätze, aktive Form, keine doppelten Negationen, Fachbegriffe erläutern oder ersetzen.
+5. Verweistechnik prüfen: kaskadierte Verweise (Klausel verweist auf Anlage, die auf weitere Anlage verweist) sind kritisch. Im Zweifel Klausel volltext aufnehmen.
+6. Wirtschaftliche Folgen sichtbar machen: Beispielsrechnungen, Hinweise auf Höchst-/Mindestwerte, Beispiele für Anpassungen.
+7. Doppelregelungen vermeiden: Wenn dieselbe Frage in zwei Klauseln unterschiedlich beantwortet wird, ist eine intransparent (mehrdeutig, § 305c II BGB).
+8. Konsistenz der Defined Terms (vgl. `definitionen-klauseln-stringent`).
+9. Layout-Tools nutzen: Fettungen für zentrale Pflichten, Tabellen für Preise und Fristen, ggf. Hinweisboxen.
+10. Lesbarkeitstest mit branchenfremder Person; Anmerkungen einsammeln.
+
+## Typische Drafting-Fehler
+
+- "Im Übrigen gelten die gesetzlichen Bestimmungen": ohne Hinweis auf relevante Normen häufig intransparent in Verbraucher-AGB, insbesondere bei Widerrufsrecht und Mängelrechten.
+- Verweis auf "die jeweils gültige Preisliste" ohne Mechanismus der Bekanntgabe: intransparent.
+- Doppelte Negationen ("nicht unzulässig"): wirkt verschleiernd.
+- Schachtelsätze mit über vierzig Wörtern: schwer lesbar.
+- Fachbegriffe ohne Erläuterung ("Aufrechnung", "Zurückbehaltungsrecht", "Verzugszinsen ab Mahnung") gegenüber Verbrauchern.
+- Pauschalkostenklauseln ohne Höhe: intransparent.
+- Verlängerungsklauseln, die die Verlängerungsdauer und die Kündigungsfrist nicht zusammen erkennen lassen.
+- Mehrere Klauseln widersprechen sich (Haftungsausschluss in § X widerspricht Garantie in § Y).
+
+## Ausgabeformat
+
+- Überarbeitete Klausel mit "Vorher / Nachher"-Gegenüberstellung.
+- Lesbarkeits-Notiz: Satzlänge, aktive Form, Begriffsklärung.
+- Hinweise auf Layout (Tabelle, Hervorhebung, Beispielrechnung).
+- Querverweis auf `agb-konforme-klauseln-305-310-bgb` für die inhaltliche Kontrolle.
+
+## Beispiele
+
+Vorher (Preisanpassungsklausel, Verbraucher):
+
+> "Der Anbieter ist berechtigt, die vereinbarten Preise nach billigem Ermessen unter Berücksichtigung wesentlicher Kostenfaktoren anzupassen, wobei eine Erhöhung im Übrigen nicht ausgeschlossen ist und Kostensenkungen entsprechend zu berücksichtigen sind, soweit dies angemessen erscheint."
+
+Nachher:
+
+> § X Preisanpassung
+> (1) Der Anbieter kann den monatlichen Grundpreis erhöhen, wenn sich die Kosten für Vorleistungen (Strom, Netznutzung, Lohn) seit dem letzten Anpassungszeitpunkt um mehr als drei Prozent erhöht haben.
+> (2) Eine Erhöhung darf den prozentualen Anstieg der Vorleistungskosten nicht überschreiten. Sinken die Vorleistungskosten, senkt der Anbieter den Grundpreis entsprechend.
+> (3) Eine Preisanpassung wird mindestens sechs Wochen vorher in Textform angekündigt. Der Kunde kann innerhalb eines Monats nach Zugang der Ankündigung ordentlich kündigen.
+
+Vorher (Widerrufsbelehrungspflicht):
+
+> "Im Übrigen gelten die gesetzlichen Vorschriften."
+
+Nachher (sachgerecht in Verbraucher-AGB):
+
+> Über das gesetzliche Widerrufsrecht und die Mängelrechte werden Sie gesondert in der beigefügten Widerrufsbelehrung und in § Z dieses Vertrages informiert. Diese Vorschriften gehen abweichenden Regelungen in diesen AGB vor.
+
+## Querverweise
+
+- `agb-konforme-klauseln-305-310-bgb` – inhaltliche AGB-Prüfung.
+- `b2b-vs-b2c-klausel-strategie` – unterschiedliche Erwartungshorizonte.
+- `definitionen-klauseln-stringent` – Hierarchie und Konsistenz der Defined Terms.
+- `verweis-und-querverweis-technik` – Verweisarchitektur.
+
+## Quellen (Stand 05/2026)
+
+- § 307 I S. 2 BGB; § 305c II BGB; § 306 II BGB; § 310 I BGB.
+- BGH-Linie zu Preisanpassungs-, Tarif- und Verlängerungsklauseln (verschiedene Senate) ist vom Nutzer fundstellengenau zu verifizieren.
+- Zitierweise: `references/zitierweise.md`.
+
+## 2. `us-uk-legal-writing-fuer-deutsche`
+
+**Frühere Beschreibung:** Hilft deutschen Anwälten, englische oder amerikanische Legal-Texte zu schreiben, ohne deutsch zu übersetzen. Klärt US/UK-Adressat, Common-Law-Erwartung, deutsches Recht als Inhalt, Local-Counsel-Rolle, Ton, Struktur, Risk Note, Clause Note und E-Mail an ausländische Counsel.
+
+# US/UK Legal Writing für Deutsche
+
+## Zweck
+
+Deutsche Anwälte müssen oft auf Englisch schreiben, ohne Common-Law-Anwälte zu imitieren. Dieser Skill erzeugt englische Legal-Texte, die international lesbar sind und dennoch sauber kenntlich machen, wann deutsches Recht gemeint ist.
+
+## Einsatzfälle
+
+- E-Mail an US oder UK Counsel.
+- Local Counsel Note zu deutschem Recht.
+- Redline-Kommentar in englischem Vertrag.
+- Executive Summary für ausländischen Mandanten.
+- English-only German-law agreement.
+- Board Memo für internationale Gruppe.
+
+## Grundregeln
+
+- Schreibe nicht deutsche Schachtelsätze auf Englisch.
+- Sage früh, ob deutsches Recht, US Law, English Law oder nur Business English gemeint ist.
+- Übersetze Rechtsbegriffe nicht blind. Erkläre sie, wenn sie funktional anders sind.
+- Vermeide "shall" überall. Nutze "shall" für Pflichten, "may" für Rechte, "will" für Zukunft oder Erwartung.
+- Kennzeichne Local-Counsel-Grenzen: keine Aussage zu US/UK Law, wenn nicht beauftragt.
+
+## Struktur für Local Counsel Note
+
+```text
+Subject: German law note on [topic]
+
+Executive summary
+1. ...
+2. ...
+
+Background assumed
+- ...
+
+German law analysis
+- ...
+
+Practical consequence
+- ...
+
+Open points
+- ...
+```
+
+## Stilmatrix
+
+| Adressat | Ton | Form |
+|---|---|---|
+| US deal counsel | direkt, lösungsorientiert | Issue / Proposed wording / Rationale |
+| UK solicitor | nüchtern, präzise | Background / Analysis / Recommendation |
+| International client | klar, nicht technisch | Key takeaway / Risk / Next step |
+| German partner auf Englisch | knapp und belastbar | Short answer / Comments / Draft |
+
+## Output
+
+- Englischer Entwurf.
+- Kurze deutsche Kontrollnotiz, welche deutschen Rechtsbegriffe funktional übersetzt wurden.
+- Liste von Begriffen, die bewusst nicht wörtlich übersetzt wurden.
+
+## Querverweise
+
+- `englischer-vertrag-deutsches-recht`
+- `bilingual-drafting-deutsch-englisch`
+- `deutscher-kanzleistil-kalibrieren`
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

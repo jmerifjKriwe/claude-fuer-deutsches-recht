@@ -1,8 +1,8 @@
 # Aktenstück 08 — Akteneinsicht § 147 StPO: Akteneinsichts-Protokoll
 
-**Verfahren:** StA Stuttgart 4 Js 18.422/26  
-**Bearbeitung:** Alle Verteidiger (gemeinschaftlicher Antrag)  
-**Rechtsgrundlage:** § 147 StPO, Art. 6 Abs. 3 lit. b EMRK  
+**Verfahren:** StA Stuttgart 4 Js 18.422/26
+**Bearbeitung:** Alle Verteidiger (gemeinschaftlicher Antrag)
+**Rechtsgrundlage:** § 147 StPO, Art. 6 Abs. 3 lit. b EMRK
 **Stand:** 28.01.2026
 
 ---
@@ -62,7 +62,7 @@ Am 08.12.2025 beantragten die vier Verteidiger gleichlautend vollständige Akten
 
 Die Verteidiger Dr. Schorlemmer, Steinbach und Krämer haben am 21.01.2026 Beschwerde gegen die Verweigerung der Einsicht in den Sonderband SB ECC eingelegt (§ 304 Abs. 1 StPO, Beschwerde zum LG Stuttgart).
 
-**Beschwerdebegru:** 
+**Beschwerdebegru:**
 - § 147 Abs. 2 StPO erlaubt Beschränkung der Akteneinsicht nur, "wenn der Untersuchungszweck gefährdet werden könnte" — dieser Ausnahmegrund liegt nach Abschluss der Ermittlungen (Anklageschrift 17.11.2025) nicht mehr vor
 - GBA-Sperrentscheidung nach § 96 StPO betrifft Quellenschutz (VP), aber nicht den EncroChat-Datenbestand als solchen; beides ist zu trennen
 - Art. 6 Abs. 3 lit. b EMRK: Recht auf ausreichende Zeit und Mittel zur Vorbereitung der Verteidigung verletzt, wenn Hauptbeweismittel (EncroChat) nicht zur Einsicht stehen

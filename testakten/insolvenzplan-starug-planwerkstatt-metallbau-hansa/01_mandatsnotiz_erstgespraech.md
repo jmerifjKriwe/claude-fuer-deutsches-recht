@@ -1,10 +1,10 @@
 # Mandatsnotiz – Erstgespräch Metallbau Hansa GmbH
 
-**Aktenzeichen:** MH-2026-001  
-**Datum:** 12. Mai 2026  
-**Verfasser:** RA Dr. Karolin Westphal  
-**Anwesend:** Anna Reimers (GF), Lukas Petersen (GF), Björn Hollender (CFO), RA Dr. Westphal  
-**Ort:** Kanzlei Westphal & Partner, Große Bleichen 19, 20354 Hamburg  
+**Aktenzeichen:** MH-2026-001
+**Datum:** 12. Mai 2026
+**Verfasser:** RA Dr. Karolin Westphal
+**Anwesend:** Anna Reimers (GF), Lukas Petersen (GF), Björn Hollender (CFO), RA Dr. Westphal
+**Ort:** Kanzlei Westphal & Partner, Große Bleichen 19, 20354 Hamburg
 
 ---
 
@@ -100,7 +100,7 @@ Die Kanzlei vertritt ausschließlich die Metallbau Hansa GmbH als Gesellschaft, 
 
 ---
 
-**Unterschrift Verfasserin:** Dr. K. Westphal  
-**Kanzlei:** Westphal & Partner Rechtsanwälte PartGmbB  
+**Unterschrift Verfasserin:** Dr. K. Westphal
+**Kanzlei:** Westphal & Partner Rechtsanwälte PartGmbB
 
 *Diese Notiz ist vertraulich und unterliegt dem anwaltlichen Berufsgeheimnis. Sie gibt den Stand der Informationen zum Gesprächszeitpunkt wieder und ersetzt keine abschließende Rechtsprüfung.*

@@ -1,8 +1,8 @@
 # Aktenstück 13 — Sicherstellungs- und Verwertungsverfahren § 111 StPO
 
-**Verfahren:** StA Stuttgart 4 Js 18.422/26  
-**Bearbeitung:** StA Stuttgart / Alle Verteidiger  
-**Rechtsgrundlagen:** §§ 111b–111p StPO, §§ 73 ff. StGB  
+**Verfahren:** StA Stuttgart 4 Js 18.422/26
+**Bearbeitung:** StA Stuttgart / Alle Verteidiger
+**Rechtsgrundlagen:** §§ 111b–111p StPO, §§ 73 ff. StGB
 **Stand:** 06.02.2026
 
 ---

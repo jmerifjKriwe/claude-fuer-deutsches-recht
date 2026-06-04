@@ -1,12 +1,12 @@
 # Blutalkoholgutachten — Universitätsklinikum Essen, Institut für Rechtsmedizin
 
-**Erstellt von:** Prof. Dr. med. Gerd Falkenrath, Direktor des Instituts für Rechtsmedizin  
-**Institut:** Institut für Rechtsmedizin, Universitätsklinikum Essen  
-**Anschrift:** Hufelandstraße 55, 45147 Essen  
-**Gutachten-Nr.:** RM-2026-00417  
-**Auftraggeber:** Staatsanwaltschaft Hagen (Az. 83 Js 7411/26)  
-**Datum der Blutentnahme:** 12.01.2026, 03:47 Uhr  
-**Datum des Gutachtens:** 16.01.2026  
+**Erstellt von:** Prof. Dr. med. Gerd Falkenrath, Direktor des Instituts für Rechtsmedizin
+**Institut:** Institut für Rechtsmedizin, Universitätsklinikum Essen
+**Anschrift:** Hufelandstraße 55, 45147 Essen
+**Gutachten-Nr.:** RM-2026-00417
+**Auftraggeber:** Staatsanwaltschaft Hagen (Az. 83 Js 7411/26)
+**Datum der Blutentnahme:** 12.01.2026, 03:47 Uhr
+**Datum des Gutachtens:** 16.01.2026
 
 ---
 
@@ -30,8 +30,8 @@ Die Blutalkoholkonzentration (BAK) wurde nach den Richtlinien der Deutschen Gese
 
 ### 3.1 Gaschromatographie (ADH-Methode)
 
-Gerät: Perkin-Elmer Clarus 680 GC-FID  
-Intermer Standard: n-Propanol  
+Gerät: Perkin-Elmer Clarus 680 GC-FID
+Intermer Standard: n-Propanol
 
 | Analyse | Messwert |
 |---|---|
@@ -41,7 +41,7 @@ Intermer Standard: n-Propanol
 
 ### 3.2 ADH-Enzymatische Methode
 
-Gerät: Siemens Atellica CH 930  
+Gerät: Siemens Atellica CH 930
 
 | Analyse | Messwert |
 |---|---|
@@ -63,7 +63,7 @@ Im Gutachten wird ein Wert von **0,98 ‰ BAK** als Grundlage der forensischen B
 
 ## 4. Tatzeit-Rückrechnung
 
-**Unfallzeit:** 01:30 Uhr (Polizeiangabe)  
+**Unfallzeit:** 01:30 Uhr (Polizeiangabe)
 **Blutentnahmezeit:** 03:47 Uhr (= 137 Minuten nach Unfallzeit)
 
 Rückrechnung nach dem forensischen Standard (Abbauwert 0,1 ‰/h für die günstigste Variante):
@@ -122,10 +122,10 @@ Diese BAK, verbunden mit dem eingetretenen Unfallgeschehen, begründet den Verda
 
 **Unterschrift und Siegel:**
 
-Prof. Dr. med. Gerd Falkenrath  
-Direktor, Institut für Rechtsmedizin  
-Universitätsklinikum Essen  
-Essen, 16. Januar 2026  
+Prof. Dr. med. Gerd Falkenrath
+Direktor, Institut für Rechtsmedizin
+Universitätsklinikum Essen
+Essen, 16. Januar 2026
 
 ---
 

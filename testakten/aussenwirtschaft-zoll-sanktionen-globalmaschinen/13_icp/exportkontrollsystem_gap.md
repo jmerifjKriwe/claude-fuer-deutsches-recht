@@ -1,10 +1,10 @@
 # ICP-Gap-Analyse und Maßnahmenplan: Internes Exportkontrollprogramm (ICP)
 
-**Dokumenttyp:** Gap-Analyse / Compliance-Bericht  
-**Aktenzeichen:** GM-ICP-2026-001  
-**Erstellt:** 18. April 2026  
-**Verfasser:** Dr. Sabine Brennecke, Syndikusrechtsanwältin; Dipl.-Ing. Rainer Hofstädter, Exportkontrollbeauftragter  
-**Adressat:** Geschäftsführung Globalmaschinen GmbH  
+**Dokumenttyp:** Gap-Analyse / Compliance-Bericht
+**Aktenzeichen:** GM-ICP-2026-001
+**Erstellt:** 18. April 2026
+**Verfasser:** Dr. Sabine Brennecke, Syndikusrechtsanwältin; Dipl.-Ing. Rainer Hofstädter, Exportkontrollbeauftragter
+**Adressat:** Geschäftsführung Globalmaschinen GmbH
 **Status:** Abgeschlossen – Maßnahmenplan zur Genehmigung
 
 ---

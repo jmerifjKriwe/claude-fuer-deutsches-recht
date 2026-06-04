@@ -1,8 +1,8 @@
 # Vertragsauszüge und Prüfmappe Schmalfeld
 
-**Mandat:** Herbert Wilhelm Schmalfeld  
-**Bearbeitung:** Berufsbetreuerin Dr. Marita Goldstein / Kanzlei Riepenhausen & Partner  
-**Stand:** 29.05.2026  
+**Mandat:** Herbert Wilhelm Schmalfeld
+**Bearbeitung:** Berufsbetreuerin Dr. Marita Goldstein / Kanzlei Riepenhausen & Partner
+**Stand:** 29.05.2026
 **Zweck:** Erste rechtliche und tatsächliche Sortierung der Vertragsmappe nach Übernahme der Vermögenssorge.
 
 ## 1. Alltagsverträge mit plausibler Lebensführung

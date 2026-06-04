@@ -1,7 +1,7 @@
 # Telefonvermerk Gericht - Ministerium - Kanzlei
 
-**Datum:** 18.06.2026, 15:20 Uhr  
-**Teilnehmer:** Berichterstatterin Dr. Eschenau, Ministerialrätin Dr. Brückner, Rechtsanwältin Dr. Stechlin  
+**Datum:** 18.06.2026, 15:20 Uhr
+**Teilnehmer:** Berichterstatterin Dr. Eschenau, Ministerialrätin Dr. Brückner, Rechtsanwältin Dr. Stechlin
 **Anlass:** organisatorische Abstimmung Eilverfahren und Aktennachlieferung
 
 Die Berichterstatterin eröffnet das Gespräch mit dem Hinweis, dass das Gericht Wert auf eine vollständige Akte legt. Sie betont, es gehe nicht um eine Vorentscheidung, sondern um die Vermeidung unnötiger Schriftsatzschleifen. Die Ministerialrätin erklärt, man habe bereits nachgeliefert und sehe keinen weiteren Bedarf. Rechtsanwältin Dr. Stechlin weist darauf hin, dass die Gesprächsbögen und die Präsidialratsunterlagen weiterhin nur auszugsweise vorliegen.

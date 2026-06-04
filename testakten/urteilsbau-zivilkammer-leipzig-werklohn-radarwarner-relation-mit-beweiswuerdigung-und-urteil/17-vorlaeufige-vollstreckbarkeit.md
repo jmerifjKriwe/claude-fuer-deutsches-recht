@@ -1,6 +1,6 @@
 # 17 — Vorläufige Vollstreckbarkeit
 
-**AZ:** 8 O 188/26  
+**AZ:** 8 O 188/26
 **Rechtsgrundlage:** § 709 ZPO
 
 ---

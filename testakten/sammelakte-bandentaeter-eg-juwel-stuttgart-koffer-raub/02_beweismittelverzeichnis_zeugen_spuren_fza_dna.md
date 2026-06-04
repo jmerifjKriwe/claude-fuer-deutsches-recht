@@ -1,7 +1,7 @@
 # Aktenstück 02 — Beweismittelverzeichnis: Zeugen, Spurenakten, FZA, DNA
 
-**Verfahren:** StA Stuttgart 4 Js 18.422/26  
-**Bearbeitung:** RA Dr. Magnus Schorlemmer für Korbiel  
+**Verfahren:** StA Stuttgart 4 Js 18.422/26
+**Bearbeitung:** RA Dr. Magnus Schorlemmer für Korbiel
 **Stand:** 20.01.2026
 
 ---

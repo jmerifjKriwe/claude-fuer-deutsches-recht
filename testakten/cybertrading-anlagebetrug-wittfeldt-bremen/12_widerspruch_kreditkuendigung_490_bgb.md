@@ -1,18 +1,18 @@
 # Widerspruch gegen Kreditkündigung nach § 490 BGB
 
-**Kanzlei Pflüger Schoeneberg Bankrecht**  
-Am Markt 14 · 28195 Bremen  
+**Kanzlei Pflüger Schoeneberg Bankrecht**
+Am Markt 14 · 28195 Bremen
 
-**Datum:** 17.04.2026  
-**Unser Zeichen:** PS-BKR-2026-0412/12  
+**Datum:** 17.04.2026
+**Unser Zeichen:** PS-BKR-2026-0412/12
 
-**An:**  
-Sparkasse Bremen  
-Kreditabteilung  
-Am Brill 1–3  
-28195 Bremen  
+**An:**
+Sparkasse Bremen
+Kreditabteilung
+Am Brill 1–3
+28195 Bremen
 
-per Einschreiben mit Rückschein; Fax: 0421 / 179 22 22  
+per Einschreiben mit Rückschein; Fax: 0421 / 179 22 22
 
 ---
 
@@ -61,9 +61,9 @@ Die Eigentumswohnung Kiefernstraße 17, 28757 Bremen, ist das einzige Wohneigent
 
 Wir beantragen ausdrücklich:
 
-1. Die **Rücknahme der Kündigung** oder, hilfsweise,  
-2. die **Aussetzung der Fälligstellung** der Gesamtrestschuld (71.380 EUR) bis zur abschließenden gerichtlichen Klärung der wechselseitigen Ansprüche,  
-3. die **sofortige Stornierung der Schufa-Meldung**,  
+1. Die **Rücknahme der Kündigung** oder, hilfsweise,
+2. die **Aussetzung der Fälligstellung** der Gesamtrestschuld (71.380 EUR) bis zur abschließenden gerichtlichen Klärung der wechselseitigen Ansprüche,
+3. die **sofortige Stornierung der Schufa-Meldung**,
 4. den **Verzicht auf einen Zwangsversteigerungsantrag** bis zur gerichtlichen Klärung.
 
 ---
@@ -76,11 +76,11 @@ Wir setzen Ihnen eine Frist bis zum **05. Mai 2026** (Eingang bei uns), um zu de
 
 ---
 
-Rechtsanwalt Dr. Severin Pflüger  
+Rechtsanwalt Dr. Severin Pflüger
 Fachanwalt für Bank- und Kapitalmarktrecht
 
-*Anlagen:*  
-- Vollmacht Eva-Maria Wittfeldt  
-- Kündigung Sparkasse v. 14.11.2025 (Kopie)  
-- Auszug Kanzleinotiz Erstgespräch (Aktenstück 03)  
+*Anlagen:*
+- Vollmacht Eva-Maria Wittfeldt
+- Kündigung Sparkasse v. 14.11.2025 (Kopie)
+- Auszug Kanzleinotiz Erstgespräch (Aktenstück 03)
 - Aufstellung Überweisungen (Aktenstück 04)

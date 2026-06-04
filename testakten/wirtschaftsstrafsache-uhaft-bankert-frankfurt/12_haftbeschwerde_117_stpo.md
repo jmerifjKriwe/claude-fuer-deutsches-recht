@@ -1,17 +1,17 @@
 # Haftbeschwerde — §§ 117, 304 StPO — Daniel Albert Bankert
 
-**Marx Strafverteidigung Frankfurt**  
-Dr. Friederike Marx, Fachanwältin für Strafrecht  
-Bockenheimer Landstraße 84  
-60323 Frankfurt am Main  
-Tel.: 069 / 44 55 66 70  
-marx@marx-strafverteidigung.de  
+**Marx Strafverteidigung Frankfurt**
+Dr. Friederike Marx, Fachanwältin für Strafrecht
+Bockenheimer Landstraße 84
+60323 Frankfurt am Main
+Tel.: 069 / 44 55 66 70
+marx@marx-strafverteidigung.de
 
-An das  
-**Landgericht Frankfurt am Main**  
-— 14. Große Wirtschaftsstrafkammer —  
-Gerichtsstraße 2  
-60313 Frankfurt am Main  
+An das
+**Landgericht Frankfurt am Main**
+— 14. Große Wirtschaftsstrafkammer —
+Gerichtsstraße 2
+60313 Frankfurt am Main
 
 (Per Fax 069 / 1367-5019 und per beA)
 
@@ -19,17 +19,17 @@ Frankfurt am Main, **09. Mai 2025**
 
 ---
 
-**Az.: 5/28 KLs 122/25**  
+**Az.: 5/28 KLs 122/25**
 **Az. Haftbefehl AG Frankfurt: 942 Gs 1204/25**
 
 ---
 
 ## HAFTBESCHWERDE
 
-Namens und im Auftrag meines Mandanten  
-**Daniel Albert Bankert**  
-geboren am 14.03.1979 in Frankfurt am Main  
-derzeit in Untersuchungshaft, JVA Frankfurt I, Haftraum C 3.12  
+Namens und im Auftrag meines Mandanten
+**Daniel Albert Bankert**
+geboren am 14.03.1979 in Frankfurt am Main
+derzeit in Untersuchungshaft, JVA Frankfurt I, Haftraum C 3.12
 
 lege ich gegen den Haftbefehl des Landgerichts Frankfurt am Main vom **14. März 2025** (Az. 5/28 KLs 122/25)
 
@@ -39,8 +39,8 @@ gemäß **§§ 304 Abs. 1, 117 StPO** ein
 
 und beantrage,
 
-1. den Haftbefehl vom 14. März 2025 **aufzuheben** und die sofortige Entlassung meines Mandanten aus der Untersuchungshaft anzuordnen;  
-2. hilfsweise: den Haftbefehl gemäß **§ 116 StPO** außer Vollzug zu setzen und den Vollzug durch mildere Mittel (Meldeauflage, Sicherheitsleistung, Passabgabe) zu ersetzen;  
+1. den Haftbefehl vom 14. März 2025 **aufzuheben** und die sofortige Entlassung meines Mandanten aus der Untersuchungshaft anzuordnen;
+2. hilfsweise: den Haftbefehl gemäß **§ 116 StPO** außer Vollzug zu setzen und den Vollzug durch mildere Mittel (Meldeauflage, Sicherheitsleistung, Passabgabe) zu ersetzen;
 3. die sofortige Rückgabe des beschlagnahmten Reisepasses meines Mandanten an das Gericht als Treuhänder mit Auflagencharakter anzuordnen.
 
 ---
@@ -129,8 +129,8 @@ Diese Auflagen sind geeignet, den Haftzweck (Sicherung der Hauptverhandlung) zu 
 
 Mit freundlichen kollegialen Grüßen
 
-**Dr. Friederike Marx**  
-Fachanwältin für Strafrecht  
+**Dr. Friederike Marx**
+Fachanwältin für Strafrecht
 Marx Strafverteidigung Frankfurt
 
 ---

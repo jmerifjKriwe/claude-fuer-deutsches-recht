@@ -1,10 +1,10 @@
 # Krisenkommunikation: Q&A und Pressemitteilung
 
-**Dokumenttyp:** Krisenkommunikations-Entwurf (intern, nicht zur Veröffentlichung)  
-**Aktenzeichen:** GM-PR-2026-005  
-**Erstellt:** 14. April 2026, 09:30 Uhr  
-**Verfasser:** Lena Hauser, Head of Communications; Dr. Sabine Brennecke, Syndikusrechtsanwältin  
-**Status:** Entwurf – Freigabe durch Geschäftsführung ausstehend  
+**Dokumenttyp:** Krisenkommunikations-Entwurf (intern, nicht zur Veröffentlichung)
+**Aktenzeichen:** GM-PR-2026-005
+**Erstellt:** 14. April 2026, 09:30 Uhr
+**Verfasser:** Lena Hauser, Head of Communications; Dr. Sabine Brennecke, Syndikusrechtsanwältin
+**Status:** Entwurf – Freigabe durch Geschäftsführung ausstehend
 **Anlass:** Presseanfrage Süddeutsche Wirtschaftszeitung vom 14.04.2026, Antwortfrist 16:00 Uhr
 
 ---
@@ -102,9 +102,9 @@ Das Unternehmen hat am 12. April 2026 einen sofortigen Lieferstopp für die betr
 
 Globalmaschinen GmbH beliefert weltweit Maschinenbauunternehmen und ist seit seiner Gründung 1978 den Grundsätzen regelkonformen Wirtschaftens verpflichtet. Das Unternehmen wird über den Fortgang der Untersuchung transparent berichten.
 
-**Kontakt für Presseanfragen:**  
-Lena Hauser | Head of Communications  
-Globalmaschinen GmbH | Rotebühlplatz 18 | 70178 Stuttgart  
+**Kontakt für Presseanfragen:**
+Lena Hauser | Head of Communications
+Globalmaschinen GmbH | Rotebühlplatz 18 | 70178 Stuttgart
 Tel.: +49 711 123456-90 | presse@globalmaschinen-gmbh.de
 
 ---

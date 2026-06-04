@@ -1,10 +1,10 @@
 # Vermerk: Verpflichtetenstatus nach GwG – Musterholding GmbH
 
-**Aktenzeichen:** 2026/AML/047-MH  
-**Vermerk-Nr.:** VV-2026-001  
-**Verfasserin:** RA Dr. Franziska Heller  
-**Datum:** 07.05.2026  
-**Adressat:** Thomas Eckhardt (Geldwäschebeauftragter), Klaus-Dieter Brenner (GF)  
+**Aktenzeichen:** 2026/AML/047-MH
+**Vermerk-Nr.:** VV-2026-001
+**Verfasserin:** RA Dr. Franziska Heller
+**Datum:** 07.05.2026
+**Adressat:** Thomas Eckhardt (Geldwäschebeauftragter), Klaus-Dieter Brenner (GF)
 
 ---
 
@@ -116,5 +116,5 @@ Bei Vorliegen von Verdachtsmomenten besteht eine Pflicht zur Verdachtsmeldung an
 
 ---
 
-*Erstellt: 07.05.2026 — RA Dr. Franziska Heller, Kanzlei Heller & Schönfeld*  
+*Erstellt: 07.05.2026 — RA Dr. Franziska Heller, Kanzlei Heller & Schönfeld*
 *Aktenzeichen: 2026/AML/047-MH*

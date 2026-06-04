@@ -1,6 +1,6 @@
 # 08 — Rücktritt: §§ 323, 326, 437 Nr. 2 BGB — Prüfschema und Subsumtion
 
-**Bearbeiter:** Konrad Pohlmann  
+**Bearbeiter:** Konrad Pohlmann
 **Stand:** 22.04.2026
 
 ---
@@ -36,7 +36,7 @@ Hier: Fristsetzung entbehrlich nach § 323 Abs. 2 Nr. 1 BGB, da A die Nachbesser
 
 ```
 § 323 Abs. 5 S. 2 BGB:
-"Hat der Schuldner die Leistung nicht vertragsgemäß bewirkt, so kann der Gläubiger 
+"Hat der Schuldner die Leistung nicht vertragsgemäß bewirkt, so kann der Gläubiger
 vom Vertrag nicht zurücktreten, wenn die Pflichtverletzung unerheblich ist."
 ```
 

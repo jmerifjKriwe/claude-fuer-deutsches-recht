@@ -1,7 +1,7 @@
 # KI-Training TDM Fotografin Windgassen Hamburg
 
-**Plugin:** `fachanwalt-urheber-medienrecht`  
-**Branch:** `feat/v51.0.0-testakten-vollbestand`  
+**Plugin:** `fachanwalt-urheber-medienrecht`
+**Branch:** `feat/v51.0.0-testakten-vollbestand`
 **Aktenordner:** `testakten/ki-training-tdm-fotografin-windgassen-hamburg/`
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
@@ -23,9 +23,9 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 ## Szenario-Überblick
 
-**Mandantin:** Mira Windgassen, 47, Frickestraße 29, 20251 Hamburg-Eppendorf  
-**Beruf:** Freischaffende Reportage- und Editorialfotografin; Inhaberin Windgassen Photo Atelier (ca. 18.400 Fotografien in Eigenverwertung). Auftraggeber: GEO, Mare, Brigitte, Zeit-Magazin.  
-**Anwältin:** Dr. Antonia Kreidler-Bremer, Fachanwältin für Urheber- und Medienrecht, Kanzlei Kreidler-Bremer Medienrecht, Mittelweg 147, 20148 Hamburg-Rotherbaum  
+**Mandantin:** Mira Windgassen, 47, Frickestraße 29, 20251 Hamburg-Eppendorf
+**Beruf:** Freischaffende Reportage- und Editorialfotografin; Inhaberin Windgassen Photo Atelier (ca. 18.400 Fotografien in Eigenverwertung). Auftraggeber: GEO, Mare, Brigitte, Zeit-Magazin.
+**Anwältin:** Dr. Antonia Kreidler-Bremer, Fachanwältin für Urheber- und Medienrecht, Kanzlei Kreidler-Bremer Medienrecht, Mittelweg 147, 20148 Hamburg-Rotherbaum
 **VG Bild-Kunst:** Mitgliedsnr. 142.907 (Gruppe II: Fotografen)
 
 ---

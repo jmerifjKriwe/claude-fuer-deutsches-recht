@@ -1,19 +1,19 @@
 # Eigenbedarfskündigung vom 28.02.2026
 
-**Kanzlei Hauck-Brüggemann Mietrecht**  
-Berrenrather Straße 114 · 50937 Köln-Sülz  
+**Kanzlei Hauck-Brüggemann Mietrecht**
+Berrenrather Straße 114 · 50937 Köln-Sülz
 Tel. 0221 / 94 87 31-0
 
 Köln, den **28. Februar 2026**
 
 ---
 
-**An die Mieter:**  
-Herrn Levi Albrecht  
-Frau Femke van Drosten  
-Frau Mathilda Sonnenfeld  
-Rolandstraße 27a  
-50677 Köln  
+**An die Mieter:**
+Herrn Levi Albrecht
+Frau Femke van Drosten
+Frau Mathilda Sonnenfeld
+Rolandstraße 27a
+50677 Köln
 
 *(Zustellung per Einschreiben mit Rückschein sowie durch Gerichtsvollzieher)*
 
@@ -75,14 +75,14 @@ Mit freundlichen Grüßen
 
 **Hauck-Brüggemann Mietrecht**
 
-_________________________  
-Vanessa Hauck-Brüggemann  
+_________________________
+Vanessa Hauck-Brüggemann
 Rechtsanwältin, Fachanwältin für Miet- und WEG-Recht
 
 ---
 
-**Anlagen:**  
-- EB-1: Einstellungsbescheid Bezirksregierung Köln, Referendariat Theresa Straßburger-Möhren  
-- EB-2: Kündigung des Mietvertrags Schildergasse 48  
-- EB-3: Eidesstattliche Versicherung der Eheleute Straßburger  
+**Anlagen:**
+- EB-1: Einstellungsbescheid Bezirksregierung Köln, Referendariat Theresa Straßburger-Möhren
+- EB-2: Kündigung des Mietvertrags Schildergasse 48
+- EB-3: Eidesstattliche Versicherung der Eheleute Straßburger
 - Vollmacht der Mandanten

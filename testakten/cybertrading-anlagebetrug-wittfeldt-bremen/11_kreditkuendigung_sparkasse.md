@@ -1,16 +1,16 @@
 # Kreditkündigung Sparkasse Bremen – Dokumentation und Analyse
 
-**Aktenzeichen:** PS-BKR-2026-0412  
-**Verfasser:** Dr. Severin Pflüger  
-**Datum:** 18.04.2026  
+**Aktenzeichen:** PS-BKR-2026-0412
+**Verfasser:** Dr. Severin Pflüger
+**Datum:** 18.04.2026
 
 ---
 
 ## I. Kreditkündigung – Originaldokument (Zusammenfassung)
 
-**Schreiben der Sparkasse Bremen vom 14.11.2025**  
-**An:** Eva-Maria Wittfeldt, Kiefernstraße 17, 28757 Bremen  
-**Betreff:** Kündigung Darlehensvertrag Nr. 24-01-0872/75 (Hypothekendarlehen)  
+**Schreiben der Sparkasse Bremen vom 14.11.2025**
+**An:** Eva-Maria Wittfeldt, Kiefernstraße 17, 28757 Bremen
+**Betreff:** Kündigung Darlehensvertrag Nr. 24-01-0872/75 (Hypothekendarlehen)
 
 Auszug sinngemäß (Original in Papierakte):
 
@@ -24,7 +24,7 @@ Auszug sinngemäß (Original in Papierakte):
 >
 > Zudem werden wir die offene Forderung der Schufa Holding AG melden.
 >
-> Mit freundlichen Grüßen  
+> Mit freundlichen Grüßen
 > Sparkasse Bremen, Kreditabteilung"
 
 ---

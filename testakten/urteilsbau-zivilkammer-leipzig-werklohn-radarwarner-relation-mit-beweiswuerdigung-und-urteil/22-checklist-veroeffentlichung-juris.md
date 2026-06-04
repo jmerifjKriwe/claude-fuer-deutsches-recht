@@ -1,7 +1,7 @@
 # 22 — Checkliste Veröffentlichung Juris
 
-**AZ:** 8 O 188/26  
-**Betreff:** Anonymisierung und Veröffentlichung Juris/ECLI-Datenbank  
+**AZ:** 8 O 188/26
+**Betreff:** Anonymisierung und Veröffentlichung Juris/ECLI-Datenbank
 **Datum:** 15.10.2026
 
 ---

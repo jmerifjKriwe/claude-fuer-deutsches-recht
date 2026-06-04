@@ -1,6 +1,6 @@
 # WhatsApp-Auszug Verwaltung / Beirat
 
-**Gruppe:** Hohenzollernhof Beirat + Verwaltung  
+**Gruppe:** Hohenzollernhof Beirat + Verwaltung
 **Zeitraum:** 22.05.2026, 06:48 Uhr bis 24.05.2026, 21:13 Uhr
 
 ```text

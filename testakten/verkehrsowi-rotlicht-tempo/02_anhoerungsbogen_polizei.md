@@ -1,11 +1,11 @@
 # Anhörungsbogen – Ordnungswidrigkeitenverfahren
 
-> **Stadt Köln – Der Oberbürgermeister**  
-> Amt für öffentliche Ordnung – Bußgeldstelle  
-> Willy-Brandt-Platz 2, 50679 Köln  
-> Telefon: 0221 / 221-0  
-> Fax: 0221 / 221-29999  
-> E-Mail: bussgeldstelle@stadt-koeln.de  
+> **Stadt Köln – Der Oberbürgermeister**
+> Amt für öffentliche Ordnung – Bußgeldstelle
+> Willy-Brandt-Platz 2, 50679 Köln
+> Telefon: 0221 / 221-0
+> Fax: 0221 / 221-29999
+> E-Mail: bussgeldstelle@stadt-koeln.de
 
 ---
 
@@ -76,25 +76,25 @@
 
 ## Belehrungen (Standardtext der Behörde)
 
-> **Hinweis gemäß § 55 OWiG:**  
+> **Hinweis gemäß § 55 OWiG:**
 > Als Betroffene/r sind Sie berechtigt, sich zu dem Vorwurf zu äußern oder keine Angaben zur Sache zu machen. Es steht Ihnen frei, auf die Fragen zu antworten, nichts zu sagen oder einzelne Fragen nicht zu beantworten. Die Schweigerecht-Belehrung gilt auch im Hinblick auf Angaben zur Person des Fahrzeugführers.
 >
-> **Hinweis gemäß § 111 OWiG:**  
+> **Hinweis gemäß § 111 OWiG:**
 > Als Halterin oder Halter des Fahrzeugs sind Sie nicht verpflichtet, den Fahrzeugführer zu benennen. Aus einer Nichtbenennung dürfen keine nachteiligen Schlüsse für das Ordnungswidrigkeitenverfahren gezogen werden.
 >
-> **Hinweis gemäß § 107 OWiG:**  
+> **Hinweis gemäß § 107 OWiG:**
 > Falls ein Bußgeldbescheid ergeht und Sie keinen Einspruch einlegen, können Sie bei der Festsetzung der Gebühr und der Auslagen beteiligt werden.
 
 ---
 
 ## Anhörungsblatt – Rückseite (Angaben des Betroffenen / zur Rücksendung)
 
-*Antwortfrist: 14 Tage ab Zugang dieses Schreibens.*  
-*Zustelldatum: 25.03.2026 (laut PZU-Vermerk)*  
+*Antwortfrist: 14 Tage ab Zugang dieses Schreibens.*
+*Zustelldatum: 25.03.2026 (laut PZU-Vermerk)*
 
-Ich mache **keine** Angaben zur Sache.  
+Ich mache **keine** Angaben zur Sache.
 
-☐ Ich mache folgende Angaben:  
+☐ Ich mache folgende Angaben:
 
 ```
 ____________________________________________________________________
@@ -109,7 +109,7 @@ Unterschrift Betroffene/r: _________________________  Datum: ___________
 
 ## Kanzleivermerke (intern)
 
-> **Datum:** 09.05.2026  
+> **Datum:** 09.05.2026
 > **Vermerk:** Anhörungsbogen lag dem Mandanten vor. Er hat nach eigener Aussage keine schriftliche Antwort eingereicht. Bestätigt durch Mandant im Erstgespräch. Keine Angaben gemacht – richtig, da Foto-Identifikation unsicher. Die Rotlichtzeit von 1,21 Sek. ist knapp über der Qualifikationsgrenze; handschriftliche Korrektur Fahrspur im Messprotokoll dokumentiert.
 
 > **Frist Einspruch:** vorsorglich 21.05.2026 (Zustellung lt. Bescheid 07.05.2026 laut Mandant)

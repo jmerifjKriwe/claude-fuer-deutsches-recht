@@ -66,7 +66,7 @@ Die Sanierungsanordnung richtet sich zunächst an die Saalbau Wendelstein gGmbH 
 Im GU-Vertrag vom 12. Juli 2023 findet sich in § 7 (Baugrundrisiko) folgende Klausel:
 
 > „§ 7.1: Das Risiko des Baugrundes trägt die Bauherrin, soweit es sich nicht um Mängel handelt, die der Auftragnehmer erkennen musste und angezeigt hätte anzeigen müssen."
-> 
+>
 > „§ 7.2: Der Auftragnehmer ist verpflichtet, bei Auffinden unerwarteter Hindernisse im Untergrund unverzüglich die Bauherrin zu unterrichten (§ 4 Abs. 3 VOB/B)."
 
 Diese Klausel überträgt das Baugrundrisiko grundsätzlich auf die Bauherrin. Dies entspricht der VOB/B-Systematik: § 13 Abs. 4 Satz 2 VOB/B stellt klar, dass der Auftragnehmer für unvorhersehbare Bodenanforderungen nicht haftet.

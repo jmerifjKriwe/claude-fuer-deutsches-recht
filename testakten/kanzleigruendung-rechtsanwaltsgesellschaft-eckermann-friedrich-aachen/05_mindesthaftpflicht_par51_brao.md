@@ -1,8 +1,8 @@
 # 05 Mindesthaftpflicht und Berufshaftpflichtversicherung — § 51 BRAO
 
-**Aktenzeichen:** KBH-2026-001-EFS  
-**Stand:** 22. März 2026  
-**Sachbearbeiter:** Dr. Volker Sandhof (Ressort Versicherungen), RA Monika Hellwig  
+**Aktenzeichen:** KBH-2026-001-EFS
+**Stand:** 22. März 2026
+**Sachbearbeiter:** Dr. Volker Sandhof (Ressort Versicherungen), RA Monika Hellwig
 
 ---
 

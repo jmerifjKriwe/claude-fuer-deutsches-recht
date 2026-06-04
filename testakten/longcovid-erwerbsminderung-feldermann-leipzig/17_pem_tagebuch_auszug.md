@@ -1,9 +1,9 @@
 # PEM-Tagebuch – Auszug – Vivian Feldermann
 
-**Geführt von:** Vivian Feldermann (eigene Aufzeichnungen)  
-**Zeitraum dieses Auszugs:** 01.08.2025 – 31.01.2026 (6 Monate)  
-**Zweck:** Dokumentation der Post-Exertional Malaise (PEM) und täglichen Aktivitätskapazität  
-**Vorlage:** Übergabe an RA Sonnemann 17.02.2026; Auszug in Kanzleiakte  
+**Geführt von:** Vivian Feldermann (eigene Aufzeichnungen)
+**Zeitraum dieses Auszugs:** 01.08.2025 – 31.01.2026 (6 Monate)
+**Zweck:** Dokumentation der Post-Exertional Malaise (PEM) und täglichen Aktivitätskapazität
+**Vorlage:** Übergabe an RA Sonnemann 17.02.2026; Auszug in Kanzleiakte
 
 ---
 
@@ -107,5 +107,5 @@ Ich benutze eine einfache Skala:
 
 ---
 
-*Auszug für Kanzleiakte aufbereitet: RA Sonnemann, 17.02.2026*  
+*Auszug für Kanzleiakte aufbereitet: RA Sonnemann, 17.02.2026*
 *Vollständiges Tagebuch bei Mandantin; auf Anforderung vorzulegen*

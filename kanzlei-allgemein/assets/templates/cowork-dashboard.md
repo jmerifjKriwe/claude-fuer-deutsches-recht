@@ -25,8 +25,8 @@
 
 ## Nicht tun ohne Freigabe
 
-- 
+-
 
 ## Offen
 
-- 
+-

@@ -1,9 +1,9 @@
 # BFF-Beratungsprotokoll — Windgassen / KI-Training-Problematik
 
-**Datum:** 18.10.2023 (Notiz retrograd aufgenommen; Windgassen hat Dokument erst 14.01.2026 übergeben)  
-**Veranstaltung:** BFF-Seminar „KI und Fotorecht", Hamburg Harbour Front, 17.–18.10.2023  
-**Referent:** RA Dr. Holger Pfeffer-Schwab, München (Urheberrecht/KI)  
-**Teilnehmerin:** Mira Windgassen  
+**Datum:** 18.10.2023 (Notiz retrograd aufgenommen; Windgassen hat Dokument erst 14.01.2026 übergeben)
+**Veranstaltung:** BFF-Seminar „KI und Fotorecht", Hamburg Harbour Front, 17.–18.10.2023
+**Referent:** RA Dr. Holger Pfeffer-Schwab, München (Urheberrecht/KI)
+**Teilnehmerin:** Mira Windgassen
 
 ---
 
@@ -44,5 +44,5 @@ Dieses Dokument ist wertvoll:
 
 ---
 
-*Anlage: Original-Handschrift Windgassen (bei Akte, nicht digitalisiert)*  
+*Anlage: Original-Handschrift Windgassen (bei Akte, nicht digitalisiert)*
 *Transkription: Hartenberg, 14.01.2026*

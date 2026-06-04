@@ -1,8 +1,8 @@
 # Rechtsgutachten (Entwurf): TDM-Opt-out nach § 44b UrhG — Windgassen ./. ImagineArt Inc.
 
-**Von:** Dr. Antonia Kreidler-Bremer  
-**An:** Akten 26-UMR-0084  
-**Datum:** 20.01.2026  
+**Von:** Dr. Antonia Kreidler-Bremer
+**An:** Akten 26-UMR-0084
+**Datum:** 20.01.2026
 **Betreff:** Prüfung Wirksamkeit des Opt-out, Schutzbereichsbestimmung, Haftung ImagineArt Inc.
 
 ---

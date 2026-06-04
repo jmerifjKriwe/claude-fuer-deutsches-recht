@@ -1,23 +1,23 @@
 # Meldung an Verbraucherzentrale Bremen
 
-**Aktenzeichen:** PS-BKR-2026-0412  
-**Datum:** 22.04.2026  
+**Aktenzeichen:** PS-BKR-2026-0412
+**Datum:** 22.04.2026
 
 ---
 
 ## I. Schreiben an Verbraucherzentrale Bremen
 
-**Kanzlei Pflüger Schoeneberg Bankrecht**  
-Am Markt 14 · 28195 Bremen  
+**Kanzlei Pflüger Schoeneberg Bankrecht**
+Am Markt 14 · 28195 Bremen
 
-**An:**  
-Verbraucherzentrale Bremen e.V.  
-Altenweg 4  
-28195 Bremen  
-(auch per E-Mail: info@vzb.de)  
+**An:**
+Verbraucherzentrale Bremen e.V.
+Altenweg 4
+28195 Bremen
+(auch per E-Mail: info@vzb.de)
 
-**Betreff:** Meldung Cybertrading-Betrug / CryptoFutureMax.io – Bitte um Aufnahme in Warnliste  
-**Datum:** 22.04.2026  
+**Betreff:** Meldung Cybertrading-Betrug / CryptoFutureMax.io – Bitte um Aufnahme in Warnliste
+**Datum:** 22.04.2026
 
 Sehr geehrte Damen und Herren,
 
@@ -96,8 +96,8 @@ Wir weisen auf diesen Umstand ohne Vorwurf hin; er verdeutlicht jedoch, dass ges
 
 Wir stehen der Verbraucherzentrale Bremen für Rückfragen, Medienanfragen (nach Abstimmung mit der Mandantin) und für die Vernetzung mit anderen Kanzleien, die ähnliche Fälle betreuen, zur Verfügung.
 
-Mit freundlichen Grüßen  
-**Rechtsanwalt Dr. Severin Pflüger**  
+Mit freundlichen Grüßen
+**Rechtsanwalt Dr. Severin Pflüger**
 Kanzlei Pflüger Schoeneberg Bankrecht
 
 ---

@@ -1,7 +1,7 @@
 # 18 — Klage LG Berlin 27 O 411/26: Unterlassung und Geldentschädigung
 
-**Erstellt:** 12.04.2026  
-**Bearbeiter:** RA Prof. Dr. Markus Lentze  
+**Erstellt:** 12.04.2026
+**Bearbeiter:** RA Prof. Dr. Markus Lentze
 **AZ:** SU/DOPING/2026-001 / LG Berlin 27 O 411/26
 
 ---
@@ -63,7 +63,7 @@ Kammer bestätigte einstweilige Verfügung in den Punkten 1 und 2, modifizierte 
 
 Nach Abschluss des einstweiligen Verfügungsverfahrens legte die Kanzlei am **10.06.2026** die Hauptsacheklage vor dem LG Berlin ein.
 
-**Streitwert:** 75.000 EUR  
+**Streitwert:** 75.000 EUR
 **Klageantrag:** Zahlung einer Geldentschädigung wegen schwerwiegender APR-Verletzung i.H.v. mind. 50.000 EUR.
 
 **Klagebegründung (Kernaussagen):**

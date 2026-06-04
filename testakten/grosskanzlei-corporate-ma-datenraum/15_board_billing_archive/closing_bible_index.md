@@ -1,10 +1,10 @@
 # Closing Bible — Inhaltsverzeichnis
 
-**Aktenzeichen:** MA-2026-SF-001  
-**Erstellt:** 15.05.2026 (Signing-Tag)  
-**Letzte Aktualisierung:** 20.05.2026  
-**Verfasser:** Counsel B  
-**Status:** In Aufbau — wird zum Closing finalisiert  
+**Aktenzeichen:** MA-2026-SF-001
+**Erstellt:** 15.05.2026 (Signing-Tag)
+**Letzte Aktualisierung:** 20.05.2026
+**Verfasser:** Counsel B
+**Status:** In Aufbau — wird zum Closing finalisiert
 
 > Die Closing Bible dokumentiert alle im Zusammenhang mit der Transaktion Projekt Silberfalke erstellten und unterzeichneten Dokumente. Sie wird nach Closing durch die Kanzlei finalisiert und in physischer sowie digitaler Form übergeben.
 

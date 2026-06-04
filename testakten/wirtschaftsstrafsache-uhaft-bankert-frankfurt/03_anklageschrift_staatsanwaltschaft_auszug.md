@@ -1,18 +1,18 @@
 # Anklageschrift — Staatsanwaltschaft Frankfurt am Main — Auszug
 
-**Staatsanwaltschaft Frankfurt am Main**  
-Abteilung Wirtschaftskriminalität  
-Az.: **5400 Js 14782/24**  
-OStA Dr. Henning Wallisch  
+**Staatsanwaltschaft Frankfurt am Main**
+Abteilung Wirtschaftskriminalität
+Az.: **5400 Js 14782/24**
+OStA Dr. Henning Wallisch
 Frankfurt am Main, 08. April 2025
 
 ---
 
 ## AN DAS
 
-**Landgericht Frankfurt am Main**  
-— 14. Große Wirtschaftsstrafkammer —  
-Gerichtsstraße 2  
+**Landgericht Frankfurt am Main**
+— 14. Große Wirtschaftsstrafkammer —
+Gerichtsstraße 2
 60313 Frankfurt am Main
 
 ---
@@ -31,16 +31,16 @@ erhebe ich hiermit Anklage zum **Landgericht Frankfurt am Main** wegen folgender
 
 ### A. Tatvorwürfe im Überblick
 
-**Anklagepunkt 1: Gewerbsmäßiger Betrug in 14 Fällen**  
+**Anklagepunkt 1: Gewerbsmäßiger Betrug in 14 Fällen**
 § 263 Abs. 1, Abs. 3 S. 2 Nr. 1 StGB
 
-**Anklagepunkt 2: Untreue**  
+**Anklagepunkt 2: Untreue**
 § 266 Abs. 1, Abs. 2 i.V.m. § 263 Abs. 3 S. 2 Nr. 2 StGB
 
-**Anklagepunkt 3: Bestechung in drei Fällen**  
+**Anklagepunkt 3: Bestechung in drei Fällen**
 § 334 Abs. 1 StGB
 
-**Anklagepunkt 4: Steuerhinterziehung in besonders schwerem Fall, vier Fälle**  
+**Anklagepunkt 4: Steuerhinterziehung in besonders schwerem Fall, vier Fälle**
 § 370 Abs. 1 Nr. 1, Abs. 3 S. 2 Nr. 1 AO
 
 Vergehen gemäß §§ 52, 53 StGB (Real- und Idealkonkurrenz, soweit im Einzelnen dargestellt).
@@ -110,9 +110,9 @@ Auf die Beweismittelliste (Anlage I zur Anklageschrift, Bd. I, Bl. 1–18) wird 
 
 **Frankfurt am Main, 08. April 2025**
 
-Dr. Henning Wallisch  
-Oberstaatsanwalt  
-Staatsanwaltschaft Frankfurt am Main  
+Dr. Henning Wallisch
+Oberstaatsanwalt
+Staatsanwaltschaft Frankfurt am Main
 
 ---
 

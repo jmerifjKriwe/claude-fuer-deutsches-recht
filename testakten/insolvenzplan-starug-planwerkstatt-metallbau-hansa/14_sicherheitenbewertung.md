@@ -1,10 +1,10 @@
 # Sicherheitenbewertung – Metallbau Hansa GmbH
 
-**Aktenzeichen:** MH-2026-001  
-**Stand:** 6. Juni 2026  
-**Gutachter:** Sachverständigenbüro Brandt & Kollegen GmbH, Billwerder Neuer Deich 34, 20539 Hamburg (öff. bestellter und vereidigter Sachverständiger: Dipl.-Ing. Gerhard Brandt)  
-**Auftraggeber:** RA Dr. Karolin Westphal (für Metallbau Hansa GmbH)  
-**Zweck:** Bewertung für Vergleichsrechnung Insolvenzplan, Sicherheitenverhandlung NordBank AG  
+**Aktenzeichen:** MH-2026-001
+**Stand:** 6. Juni 2026
+**Gutachter:** Sachverständigenbüro Brandt & Kollegen GmbH, Billwerder Neuer Deich 34, 20539 Hamburg (öff. bestellter und vereidigter Sachverständiger: Dipl.-Ing. Gerhard Brandt)
+**Auftraggeber:** RA Dr. Karolin Westphal (für Metallbau Hansa GmbH)
+**Zweck:** Bewertung für Vergleichsrechnung Insolvenzplan, Sicherheitenverhandlung NordBank AG
 
 ---
 

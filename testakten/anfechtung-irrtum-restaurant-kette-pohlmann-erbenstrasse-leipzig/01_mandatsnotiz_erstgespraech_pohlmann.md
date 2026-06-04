@@ -1,11 +1,11 @@
 # Mandatsnotiz — Erstgespräch Brigitte Pohlmann-Ofenkaess
 
-**Kanzlei:** Rechtsanwaltskanzlei Dr. Schweizer-Loberg & Partner, Zivilrecht Leipzig  
-**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg  
-**Datum:** 14. März 2026, 10:30 Uhr  
-**Mandantin:** Brigitte Pohlmann-Ofenkaess, geb. 12.07.1973, Inhaberin „Pohlmanns Suppentopf" GmbH & Co. KG  
-**Anschrift Mandantin:** Gohlis-Süd, Leipzig (Privatanschrift auf gesondertem Deckblatt)  
-**Aktenzeichen intern:** LEI-2026-088  
+**Kanzlei:** Rechtsanwaltskanzlei Dr. Schweizer-Loberg & Partner, Zivilrecht Leipzig
+**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg
+**Datum:** 14. März 2026, 10:30 Uhr
+**Mandantin:** Brigitte Pohlmann-Ofenkaess, geb. 12.07.1973, Inhaberin „Pohlmanns Suppentopf" GmbH & Co. KG
+**Anschrift Mandantin:** Gohlis-Süd, Leipzig (Privatanschrift auf gesondertem Deckblatt)
+**Aktenzeichen intern:** LEI-2026-088
 
 ---
 
@@ -65,6 +65,6 @@ Stundenhonorar 280 EUR zzgl. MwSt. auf Basis RVG-Rahmen; Kostenvorschuss 3.500 E
 | 25.03.2026 | Akteneinsicht LG Leipzig 4 O 188/26 beantragen (soweit bereits eingetragen) |
 | 30.03.2026 | Attest Dr. Holzmann einholen; ggf. Gutachter benennen |
 
-**Quellen:**  
-§§ 119, 121, 122, 142, 143, 177, 179 BGB — dejure.org: https://dejure.org/gesetze/BGB  
+**Quellen:**
+§§ 119, 121, 122, 142, 143, 177, 179 BGB — dejure.org: https://dejure.org/gesetze/BGB
 BGH NJW 1995, 190 (Erklärungsirrtum); BGH NJW 2010, 3787 (falsus procurator)

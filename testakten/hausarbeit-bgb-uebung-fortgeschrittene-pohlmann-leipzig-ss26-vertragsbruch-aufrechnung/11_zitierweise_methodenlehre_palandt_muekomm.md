@@ -1,6 +1,6 @@
 # 11 — Zitierweise und Methodenlehre: Palandt, MüKo, BGH, OLG, Aufsätze
 
-**Bearbeiter:** Konrad Pohlmann  
+**Bearbeiter:** Konrad Pohlmann
 **Stand:** 25.04.2026
 
 ---

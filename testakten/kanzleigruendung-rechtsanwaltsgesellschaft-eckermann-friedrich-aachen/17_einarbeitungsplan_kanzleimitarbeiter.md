@@ -1,8 +1,8 @@
 # 17 Einarbeitungsplan — Kanzleimitarbeiter EFS Recht
 
-**Aktenzeichen:** KBH-2026-001-EFS  
-**Stand:** 28. April 2026  
-**Verantwortlich:** Dr. Hilke Eckermann (Personalressort)  
+**Aktenzeichen:** KBH-2026-001-EFS
+**Stand:** 28. April 2026
+**Verantwortlich:** Dr. Hilke Eckermann (Personalressort)
 
 ---
 

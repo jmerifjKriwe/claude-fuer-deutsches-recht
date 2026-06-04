@@ -1,17 +1,17 @@
 # Aktenstück 05 – Referenzliste CyberShield Defense GmbH (drei KRITIS-Nachweise)
 
-**Aktenzeichen:** VK 1-32/26  
-**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026  
-**Anlage:** Referenzblätter gem. Anlage 4 Vergabeunterlagen  
+**Aktenzeichen:** VK 1-32/26
+**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026
+**Anlage:** Referenzblätter gem. Anlage 4 Vergabeunterlagen
 **Bieter:** CyberShield Defense GmbH
 
 ---
 
 ## Referenz 1
 
-**Auftraggeber:** Stadtwerke Kiel AöR  
-KRITIS-Sektor: Energie (Strom, Gas, Wärme) / Wasser  
-Kontaktperson: Thomas Bergmann, IT-Leitung, T: 0431-5940-123  
+**Auftraggeber:** Stadtwerke Kiel AöR
+KRITIS-Sektor: Energie (Strom, Gas, Wärme) / Wasser
+Kontaktperson: Thomas Bergmann, IT-Leitung, T: 0431-5940-123
 E-Mail: t.bergmann@stadtwerke-kiel.de (Referenzkontakt nach Rücksprache freigegeben)
 
 | Merkmal | Details |
@@ -25,17 +25,17 @@ E-Mail: t.bergmann@stadtwerke-kiel.de (Referenzkontakt nach Rücksprache freigeg
 | Besonderheiten | Begleitung BSI-KRITIS-Prüfung 2023 und 2025; Nachweis erbracht |
 | Auftragsausführung | Vollständig und mängelfreie Erbringung, Zertifikat über vertragsgemäße Leistungserbringung liegt vor |
 
-**Referenzbestätigung:**  
-„CyberShield hat die vertraglich vereinbarten SOC-Dienstleistungen über die gesamte Laufzeit vollständig, zuverlässig und in hoher Qualität erbracht. Die Zusammenarbeit im Rahmen der KRITIS-Nachweisverfahren war professionell und sachkundig."  
+**Referenzbestätigung:**
+„CyberShield hat die vertraglich vereinbarten SOC-Dienstleistungen über die gesamte Laufzeit vollständig, zuverlässig und in hoher Qualität erbracht. Die Zusammenarbeit im Rahmen der KRITIS-Nachweisverfahren war professionell und sachkundig."
 – Thomas Bergmann, IT-Leiter, Stadtwerke Kiel AöR, 15.03.2026
 
 ---
 
 ## Referenz 2
 
-**Auftraggeber:** Verkehrsverbund Stuttgart GmbH (VVS) – Tochtergesellschaft Region Stuttgart  
-KRITIS-Sektor: Verkehr (ÖPNV-Verbund, Fahrgastinformationssysteme)  
-Kontaktperson: Dr. Andrea Holzner, Informationssicherheitsbeauftragte  
+**Auftraggeber:** Verkehrsverbund Stuttgart GmbH (VVS) – Tochtergesellschaft Region Stuttgart
+KRITIS-Sektor: Verkehr (ÖPNV-Verbund, Fahrgastinformationssysteme)
+Kontaktperson: Dr. Andrea Holzner, Informationssicherheitsbeauftragte
 E-Mail: a.holzner@vvs.de
 
 | Merkmal | Details |
@@ -49,8 +49,8 @@ E-Mail: a.holzner@vvs.de
 | Besonderheiten | NIS2-Gap-Analyse und Maßnahmenplan; erfolgreiche ISO 27001-Erstzertifizierung August 2024 |
 | Auftragsausführung | Vollständig erbracht; Folgeauftrag ISB 2025–2027 erteilt |
 
-**Referenzbestätigung:**  
-„Die Leistungen von CyberShield im Bereich ISB-Beratung und ISMS-Aufbau haben unsere Erwartungen übertroffen. Die ISO 27001-Erstzertifizierung wurde termingerecht erreicht."  
+**Referenzbestätigung:**
+„Die Leistungen von CyberShield im Bereich ISB-Beratung und ISMS-Aufbau haben unsere Erwartungen übertroffen. Die ISO 27001-Erstzertifizierung wurde termingerecht erreicht."
 – Dr. Andrea Holzner, VVS, 18.03.2026
 
 > **Hinweis zur vergaberechtlichen Relevanz:** Diese Referenz betrifft einen KRITIS-Betreiber im Sektor Verkehr (ÖPNV) und belegt ausdrücklich Erfahrung im Sektor Verkehr. Die Vergabestelle hat diesen Nachweis im Ausschlussschreiben ignoriert.
@@ -59,9 +59,9 @@ E-Mail: a.holzner@vvs.de
 
 ## Referenz 3
 
-**Auftraggeber:** Stadtwerke Rostock AG  
-KRITIS-Sektor: Energie, Wasser, (Fernwärme)  
-Kontaktperson: Petra Lilienthal, Leiterin IT-Sicherheit  
+**Auftraggeber:** Stadtwerke Rostock AG
+KRITIS-Sektor: Energie, Wasser, (Fernwärme)
+Kontaktperson: Petra Lilienthal, Leiterin IT-Sicherheit
 E-Mail: p.lilienthal@stadtwerke-rostock.de
 
 | Merkmal | Details |
@@ -75,8 +75,8 @@ E-Mail: p.lilienthal@stadtwerke-rostock.de
 | Besonderheiten | Erfolgreiche Abwehr eines Ransomware-Angriffs 03/2024 (Incident Response durch CyberShield-SOC); Medienberichte vorhanden |
 | Auftragsausführung | Vollständig erbracht; Vertragsverlängerung 2026 |
 
-**Referenzbestätigung:**  
-„CyberShield hat im März 2024 einen kritischen Ransomware-Angriff auf unsere Infrastruktur innerhalb der vertraglich vereinbarten Reaktionszeiten erkannt und eingedämmt. Die professionelle Incident-Response-Leistung hat größeren Schaden verhindert."  
+**Referenzbestätigung:**
+„CyberShield hat im März 2024 einen kritischen Ransomware-Angriff auf unsere Infrastruktur innerhalb der vertraglich vereinbarten Reaktionszeiten erkannt und eingedämmt. Die professionelle Incident-Response-Leistung hat größeren Schaden verhindert."
 – Petra Lilienthal, Stadtwerke Rostock AG, 20.03.2026
 
 ---

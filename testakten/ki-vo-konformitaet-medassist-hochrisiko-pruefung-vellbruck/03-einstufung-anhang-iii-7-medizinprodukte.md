@@ -1,8 +1,8 @@
 # Aktenstück 03 — Einstufung: Hochrisiko-KI nach Anhang III Nr. 7 KI-VO / Medizinprodukt Klasse IIb MDR
 
-**Aktenzeichen:** 2026-V-0427  
-**Erstellt:** 14.03.2026  
-**Bearbeitung:** RAin Dr. Henrietta Vellbruck-Steinheim  
+**Aktenzeichen:** 2026-V-0427
+**Erstellt:** 14.03.2026
+**Bearbeitung:** RAin Dr. Henrietta Vellbruck-Steinheim
 **Rechtliche Grundlage:** Art. 6 Abs. 2 KI-VO (EU) 2024/1689; Anhang III Nr. 7 KI-VO; MDR (EU) 2017/745 Anhang VIII Regel 22
 
 ---
@@ -89,5 +89,5 @@ Die Einstufung als Hochrisiko-KI zieht alle Anforderungen der Art. 9–15 KI-VO 
 
 ---
 
-*Heidelberg, 14.03.2026*  
+*Heidelberg, 14.03.2026*
 *RAin Dr. Henrietta Vellbruck-Steinheim — Az. 2026-V-0427*

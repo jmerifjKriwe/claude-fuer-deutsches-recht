@@ -1,0 +1,212 @@
+---
+name: kompendium-08-krisenverfassung-und-bis-legitimitaet-richter
+description: "rechtstheorie-rechtsphilosophie: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (krisenverfassung-und-permanenter-notstand, legalitaetsprinzipien-als-rechtsstaatsmotor, legitimitaet-richterlicher-rechtsfortbildung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+---
+
+# Kompendium 08 - rechtstheorie-rechtsphilosophie
+
+## Zweck
+
+Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+
+## Enthaltene frühere Skills
+
+| Früherer Skill | Frühere Beschreibung |
+| --- | --- |
+| `krisenverfassung-und-permanenter-notstand` | Prueft Krisenverfassung und dauerhafte Notstandslogik: Befristung, Parlament, Gerichtskontrolle, Grundrechte, Gesetzgebungstechnik, Normalisierungsgefahr und Rueckkehrpfad. |
+| `legalitaetsprinzipien-als-rechtsstaatsmotor` | Prueft formale Legalitaet als Kern des Rechtsstaats: Allgemeinheit, Publizitaet, Prospektivitaet, Klarheit, Widerspruchsfreiheit, Erfuellbarkeit, Stabilitaet und kongruente Amtsanwendung. |
+| `legitimitaet-richterlicher-rechtsfortbildung` | Prueft Legitimation richterlicher Rechtsfortbildung: Lücke, Planwidrigkeit, Vergleichbarkeit, Normzweck, Kontinuität und Grenzen. |
+
+## Arbeitsregel
+
+1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
+3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+
+## Konsolidierte Inhalte
+
+## 1. `krisenverfassung-und-permanenter-notstand`
+
+**Frühere Beschreibung:** Prueft Krisenverfassung und dauerhafte Notstandslogik: Befristung, Parlament, Gerichtskontrolle, Grundrechte, Gesetzgebungstechnik, Normalisierungsgefahr und Rueckkehrpfad.
+
+# Krisenverfassung und permanenter Notstand
+
+## V90 Fachkern — Rechtstheorie und Rechtsphilosophie
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Krisenverfassung und permanenter Notstand` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
+- **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
+- **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.
+- **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
+## Fachkern: Krisenverfassung und permanenter Notstand
+- **Spezialgegenstand:** Krisenverfassung und permanenter Notstand; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
+- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
+## Aufgabe
+
+Dieser Skill prüft, ob eine Krisenmaßnahme in der Verfassung bleibt oder eine Ausnahme dauerhaft normalisiert. Er verbindet Kelsen-artige Normbindung mit einer scharfen Kritik an Notstands- und Entscheidungsrhetorik.
+
+## Sofort klären
+
+1. Ist es eine echte Krise oder ein politisch dramatisiertes Dauerproblem?
+2. Welche normale Regel soll ausgesetzt, verkürzt oder umgangen werden?
+3. Welche Krisennorm greift?
+4. Wie endet die Ausnahme?
+
+## Prüfprogramm
+
+1. **Krisentyp:** punktuell, wiederkehrend, strukturell, politisch erzeugt oder tatsächlich plötzlich.
+2. **Normtyp:** Notstandsnorm, Eilkompetenz, Übergangsregel, Experimentierklausel, Verordnungsermächtigung.
+3. **Befristung:** kalendarisch, sachlich, parlamentarisch kontrolliert oder offen.
+4. **Kontrolle:** Gericht, Parlament, Rechnungshof, Datenschutzaufsicht, Öffentlichkeit, interne Revision.
+5. **Rechte:** Welche Rechte werden temporär eingeschränkt, welche bleiben unantastbar?
+6. **Normalisierung:** Wird die Ausnahme in Standardverfahren, Haushaltslogik oder Verwaltungspraxis eingebaut?
+7. **Rückkehrpfad:** Welche Akte heben die Maßnahme wieder auf?
+
+## Drei typische Missbrauchsformen
+
+- **Krisenetikett:** Ein gewöhnlicher Zielkonflikt wird zur Existenzfrage erklärt.
+- **Entfristung:** Eine befristete Ausnahme wird immer wieder verlängert.
+- **Kontrollverlagerung:** Die Stelle, die die Ausnahme nutzt, entscheidet zugleich über ihre Voraussetzungen.
+
+## Gute Gegenkonstruktion
+
+Eine rechtsstaatliche Krisenregel enthält:
+
+- klare Tatbestandsvoraussetzungen;
+- enge Zwecke;
+- kurze Fristen;
+- parlamentarische und gerichtliche Kontrolle;
+- Dokumentationspflichten;
+- Folgenprüfung;
+- Rückkehr zur Normalordnung.
+
+## Output
+
+Liefere eine Notstandsampel:
+
+- `grün`: Krisennorm klar, Befristung klar, Kontrolle wirksam;
+- `gelb`: Krise plausibel, aber Grenzen/Dokumentation nachschärfen;
+- `rot`: Selbstermächtigung, Entfristung oder Ausschaltung effektiver Kontrolle.
+
+Schließe mit einer alternativen Formulierung, die Krisenhandeln ermöglicht, aber den Ausnahmezustand nicht verstetigt.
+
+## 2. `legalitaetsprinzipien-als-rechtsstaatsmotor`
+
+**Frühere Beschreibung:** Prueft formale Legalitaet als Kern des Rechtsstaats: Allgemeinheit, Publizitaet, Prospektivitaet, Klarheit, Widerspruchsfreiheit, Erfuellbarkeit, Stabilitaet und kongruente Amtsanwendung.
+
+# Legalitätsprinzipien als Rechtsstaatsmotor
+
+## V90 Fachkern — Rechtstheorie und Rechtsphilosophie
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Legalitätsprinzipien als Rechtsstaatsmotor` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
+- **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
+- **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.
+- **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
+## Fachkern: Legalitätsprinzipien als Rechtsstaatsmotor
+- **Spezialgegenstand:** Legalitätsprinzipien als Rechtsstaatsmotor; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
+- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
+## Einsatz
+
+Nutze diesen Skill, wenn eine Rechtsordnung, Behörde, Satzung, Plattformregel, Unternehmensrichtlinie oder gerichtliche Linie als "rechtlich" erscheint, aber unklar ist, ob sie rechtsstaatlich tragfähig funktioniert. Der Skill behandelt Legalität nicht als bloße Ästhetik der Normform, sondern als Mindestarchitektur, die Menschen überhaupt erst erlaubt, ihr Verhalten am Recht auszurichten.
+
+## Acht Prüfsteine
+
+1. **Allgemeinheit:** Regeln dürfen nicht bloß verkleidete Einzelfallbefehle sein. Prüfe, ob sie nach Fallgruppen, Rollen und Tatbestandsmerkmalen arbeiten.
+2. **Publizität:** Eine Regel muss zugänglich, auffindbar und verständlich bekannt gemacht sein. Geheime Maßstäbe sind ein Warnsignal.
+3. **Prospektivität:** Recht soll Verhalten für die Zukunft lenken. Rückwirkung braucht besondere Rechtfertigung und Vertrauensschutzprüfung.
+4. **Klarheit:** Adressaten müssen erkennen können, was verlangt, verboten, erlaubt oder riskiert wird.
+5. **Widerspruchsfreiheit:** Normen und Behördenpraxis dürfen keine unauflösbaren Doppelbindungen erzeugen.
+6. **Erfüllbarkeit:** Niemand darf rechtlich auf etwas verpflichtet werden, das tatsächlich oder rechtlich unmöglich ist.
+7. **Stabilität:** Häufige Richtungswechsel zerstören Orientierung; Änderungen brauchen Übergangslogik.
+8. **Kongruenz:** Amts- und Gerichtspraxis müssen zu den angekündigten Regeln passen. Eine schöne Norm nützt wenig, wenn sie praktisch anders vollzogen wird.
+
+## Arbeitsprogramm
+
+1. Formuliere den behaupteten Rechtsmaßstab in einem Satz.
+2. Prüfe die acht Legalitätssteine und markiere Bruchstellen.
+3. Trenne bloße Unschärfe von rechtsstaatlich gefährlicher Unberechenbarkeit.
+4. Bestimme, welche Institution den Mangel beheben kann: Gesetzgeber, Verwaltung, Gericht, Satzungsgeber, Vertragsparteien oder interne Governance.
+5. Gib eine kurze Reparaturformel aus: Klarstellung, Übergangsregel, Begründung, Veröffentlichung, Härtefallmechanismus, Rechtsschutz.
+
+## Red-Team-Fragen
+
+- Wird "Flexibilität" benutzt, um willkürliche Einzelfallsteuerung zu verdecken?
+- Muss der Bürger mehr wissen als die Behörde selbst offenlegt?
+- Wird rückwirkend sanktioniert, obwohl vorher keine tragfähige Orientierung bestand?
+- Passen Normtext, Verwaltungspraxis, Begründung und Rechtsfolge tatsächlich zusammen?
+
+## Output
+
+Erstelle eine Rechtsstaatsmatrix mit Ampel je Prüfstein, kurzer Diagnose, institutionellem Reparaturweg und Formulierungsvorschlag für Memo, Stellungnahme, Schriftsatz oder Gesetzgebungsnotiz.
+
+## Quellen- und Zitierdisziplin
+
+- Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
+- Theoretische Begriffe sind Arbeitswerkzeuge, keine Autoritätsbeweise.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
+
+## 3. `legitimitaet-richterlicher-rechtsfortbildung`
+
+**Frühere Beschreibung:** Prueft Legitimation richterlicher Rechtsfortbildung: Lücke, Planwidrigkeit, Vergleichbarkeit, Normzweck, Kontinuität und Grenzen.
+
+# Legitimität richterlicher Rechtsfortbildung
+
+## V90 Fachkern — Rechtstheorie und Rechtsphilosophie
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Legitimität richterlicher Rechtsfortbildung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
+- **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
+- **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.
+- **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
+## Fachkern: Legitimität richterlicher Rechtsfortbildung
+- **Spezialgegenstand:** Legitimität richterlicher Rechtsfortbildung; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
+- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
+- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+
+## Aufgabe
+
+Dieser Skill macht Rechtstheorie praktisch. Er verwandelt abstrakte Begriffe in prüfbare juristische Entscheidungen: Welche Quelle bindet, welche Methode trägt, welche Institution darf entscheiden, welche Wertung bleibt offen?
+
+## Sofort klären
+
+1. Geht es um Geltung, Auslegung, Rechtsfortbildung, Moral, Demokratie, System, Macht, Sprache, Präjudiz oder Abwägung?
+2. Welche Norm, Entscheidung, Vertragsklausel, Verwaltungspraxis oder Dogmatik steht im Zentrum?
+3. Wer braucht den Output: Anwalt, Gericht, Mandant, Ministerium, Unternehmen, Wissenschaft oder Öffentlichkeit?
+4. Welche Gefahr besteht: Scheinobjektivität, Scheinlogik, Literaturautorität, Methodenbeliebigkeit, Machtblindheit oder Übertheoretisierung?
+
+## Arbeitsprogramm
+
+1. Bestimme, ob echte Lücke oder ungewolltes Ergebnis vorliegt.
+2. Prüfe Normzweck und Systembindung.
+3. Bewerte, ob der Gesetzgeber bewusst geschwiegen hat.
+4. Gib eine Fortbildungsampel.
+
+## Qualitätsregeln
+
+- Theorie ist kein Autoritätsersatz: Kein Name, keine Schule und kein Schlagwort ersetzt Subsumtion, Beleg und Rechtsquelle.
+- Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
+- Wenn ein Argument moralisch, politisch, ökonomisch oder empirisch ist, wird es so bezeichnet und erst danach rechtlich angeschlossen.
+- Das Ergebnis muss praktisch verwertbar bleiben.
+
+## Output
+
+Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schriftsatzbaustein, Mandantenbrief, Gesetzgebungsnotiz oder Entscheidungsvorlage. Immer mit Gegenargument und Grenzen.

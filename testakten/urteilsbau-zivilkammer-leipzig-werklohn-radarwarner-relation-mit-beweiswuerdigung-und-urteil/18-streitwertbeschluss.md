@@ -1,6 +1,6 @@
 # 18 — Streitwertbeschluss
 
-**AZ:** 8 O 188/26  
+**AZ:** 8 O 188/26
 **Rechtsgrundlage:** §§ 63, 45 GKG, § 3 ZPO
 
 ---

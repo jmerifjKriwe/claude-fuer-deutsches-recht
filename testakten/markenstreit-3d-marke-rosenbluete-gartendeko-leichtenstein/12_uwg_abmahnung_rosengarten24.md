@@ -1,8 +1,8 @@
 # 12 — UWG-Abmahnung: RosenGarten24.de — Schleichwerbung und Rufausbeutung
 
-**Bearbeiter:** RA Philipp Mertens-Waldhausen  
-**Datum:** 28. April 2026  
-**Verfahren:** Außergerichtlich / Vorstufe OLG Karlsruhe 6 U 41/26  
+**Bearbeiter:** RA Philipp Mertens-Waldhausen
+**Datum:** 28. April 2026
+**Verfahren:** Außergerichtlich / Vorstufe OLG Karlsruhe 6 U 41/26
 
 ---
 
@@ -87,5 +87,5 @@ Aufgrund der verweigerten Unterlassungserklärung hat die Mandantin Klage beim L
 
 ---
 
-**Erstellt von:** RA Philipp Mertens-Waldhausen  
+**Erstellt von:** RA Philipp Mertens-Waldhausen
 **Datum:** 28. April 2026 (Abmahnung) / 30. Mai 2026 (Aktenstück-Erstellung)

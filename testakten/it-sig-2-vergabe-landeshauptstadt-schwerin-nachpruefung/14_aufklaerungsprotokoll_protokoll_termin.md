@@ -1,8 +1,8 @@
 # Aktenstück 14 – Protokoll Aufklärungstermin Vergabekammer (04.06.2026)
 
-**Aktenzeichen:** VK 1-32/26  
-**Datum:** 04.06.2026, 10:00 – 14:30 Uhr  
-**Ort:** Vergabekammer des Bundes, Bonn, Sitzungssaal 2  
+**Aktenzeichen:** VK 1-32/26
+**Datum:** 04.06.2026, 10:00 – 14:30 Uhr
+**Ort:** Vergabekammer des Bundes, Bonn, Sitzungssaal 2
 **Protokolliert:** durch ORR Dr. Claudia Vogt
 
 ---

@@ -1,7 +1,7 @@
 # 06 — LDD Workstream IP
 
-**Datum:** 3.–28. November 2025  
-**Bearbeiter:** RA Dr. Benedikt Schorrenberg (IP-Recht), RA Julius Ravensberg  
+**Datum:** 3.–28. November 2025
+**Bearbeiter:** RA Dr. Benedikt Schorrenberg (IP-Recht), RA Julius Ravensberg
 **Workstream:** Intellectual Property
 
 ---

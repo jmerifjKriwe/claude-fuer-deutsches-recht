@@ -1,7 +1,7 @@
 # Gutachten: Geschäftsfähigkeit bei Tilidin-Einnahme — §§ 104, 105 Abs. 2 BGB
 
-**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg  
-**Datum:** 22. März 2026  
+**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg
+**Datum:** 22. März 2026
 **Bezug:** Unterzeichnung Pachtvertrag 03.02.2026; Mandantin unter Einfluss von Tilidin (Opioid-Analgetikum)
 
 ---
@@ -93,8 +93,8 @@ Dieser Vorteil — keine § 122 BGB-Haftung — macht die Prüfung des § 105 Ab
 
 § 105 Abs. 2 BGB ist ein subsidiäres, aber nicht zu vernachlässigendes Angriffsmittel. Primär wird die Anfechtung gemäß § 119 Abs. 1 BGB verfolgt. Wenn diese am Fristproblem scheitert, bietet § 105 Abs. 2 BGB eine prozessuale Reserve mit dem Vorteil, dass im Erfolgsfall keine § 122 BGB-Haftung entsteht. Sachverständigengutachten ist unverzüglich zu beauftragen.
 
-**Quellen:**  
-§§ 104, 105 BGB: https://dejure.org/gesetze/BGB/104.html  
-BGH NJW 1970, 1680 (Anforderungen § 105 Abs. 2 BGB): https://www.bundesgerichtshof.de  
-BGH NJW 2018, 2127 (vorübergehende Geschäftsunfähigkeit, natürlicher Wille): https://www.bundesgerichtshof.de  
+**Quellen:**
+§§ 104, 105 BGB: https://dejure.org/gesetze/BGB/104.html
+BGH NJW 1970, 1680 (Anforderungen § 105 Abs. 2 BGB): https://www.bundesgerichtshof.de
+BGH NJW 2018, 2127 (vorübergehende Geschäftsunfähigkeit, natürlicher Wille): https://www.bundesgerichtshof.de
 Bundesärztekammer, Hinweise Opioid-Analgetika im Straßenverkehr (2024): https://www.bundesaerztekammer.de

@@ -1,8 +1,8 @@
 # 22 — Gesamtstrategie und Zeitachse: Alle Parallelverfahren
 
-**Bearbeiter:** PA Dr. Volkmar Trautmann / RA Philipp Mertens-Waldhausen  
-**Datum:** 02. Juli 2026  
-**Für:** Reinhilde Leichtenstein-Bauernfeind, GF Leichtenstein Gartenkultur Manufaktur GmbH  
+**Bearbeiter:** PA Dr. Volkmar Trautmann / RA Philipp Mertens-Waldhausen
+**Datum:** 02. Juli 2026
+**Für:** Reinhilde Leichtenstein-Bauernfeind, GF Leichtenstein Gartenkultur Manufaktur GmbH
 
 ---
 
@@ -116,5 +116,5 @@ Nächste persönliche Besprechung: 08. Juli 2026 nach dem Gerichtstermin (oder n
 
 ---
 
-**Erstellt von:** PA Dr. Volkmar Trautmann / RA Philipp Mertens-Waldhausen  
+**Erstellt von:** PA Dr. Volkmar Trautmann / RA Philipp Mertens-Waldhausen
 **Datum:** 02. Juli 2026

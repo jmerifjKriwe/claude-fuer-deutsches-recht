@@ -144,7 +144,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 ## Verfahrensstand
 
-**Stichtag dieser Akte: Februar 2026**  
+**Stichtag dieser Akte: Februar 2026**
 **Mandatsannahme: 03. Januar 2026**
 
 | Verfahrensstrang | Status |
@@ -160,5 +160,5 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 | Vergleich | Gegenangebot Kanzlei abgegeben; Schuldnerantwort ausstehend |
 | Räumungstermin | Nach § 765a-Entscheidung, geplant März 2026 |
 
-Bearbeiterin: **RA Dr. Klaus Roosendaal-Eichmueller**, Schwingenstein Roosendaal Partner mbB, Hamburg  
+Bearbeiterin: **RA Dr. Klaus Roosendaal-Eichmueller**, Schwingenstein Roosendaal Partner mbB, Hamburg
 GV: **OAR Anke Lattermann**, Bezirk Hamburg-Eimsbuettel

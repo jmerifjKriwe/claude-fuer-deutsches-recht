@@ -1,7 +1,7 @@
 # Strategiememorandum
 
-**Kanzlei Hauck-Brüggemann Mietrecht – INTERN / VERTRAULICH**  
-Köln, **12. Mai 2026**  
+**Kanzlei Hauck-Brüggemann Mietrecht – INTERN / VERTRAULICH**
+Köln, **12. Mai 2026**
 Verfasserin: RA'in Vanessa Hauck-Brüggemann
 
 ---
@@ -94,15 +94,15 @@ Hinzu kommen Hintergrundfragen zur Heizungsumstellung (GEG) und einem Schlichtun
 | WEG-Anfechtung | 40–55 % (Kompromiss wahrscheinlich) | ca. 1.800–2.400 EUR |
 | Zahlungsklage Mietrückstand | 75–85 % | inkl. in Räumungsklage |
 
-**Gesamtrisiko:** Die Mandanten tragen aktuell erhebliche finanzielle Lasten:  
-- Sonderumlage Rate 1: 9.940 EUR fällig 01.06.2026  
-- Schimmelsanierung: ca. 12.000–18.000 EUR (Werkunternehmer)  
-- Anwalts- und Gerichtskosten: lfd. ca. 5.000–8.000 EUR  
+**Gesamtrisiko:** Die Mandanten tragen aktuell erhebliche finanzielle Lasten:
+- Sonderumlage Rate 1: 9.940 EUR fällig 01.06.2026
+- Schimmelsanierung: ca. 12.000–18.000 EUR (Werkunternehmer)
+- Anwalts- und Gerichtskosten: lfd. ca. 5.000–8.000 EUR
 - Mietausfall während Verfahren: unklar
 
 **Empfehlung:** Offensiv vorgehen, aber Vergleiche zu wirtschaftlich vernünftigen Konditionen nicht ausschließen.
 
 ---
 
-*Memo intern – nicht zur Weitergabe an Dritte*  
+*Memo intern – nicht zur Weitergabe an Dritte*
 *Vanessa Hauck-Brüggemann, 12.05.2026*

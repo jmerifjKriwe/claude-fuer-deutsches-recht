@@ -1,7 +1,7 @@
 # 20 — Beweisaufnahme und Sachverständigengutachten
 
-**Aktenzeichen intern:** VM-2026-GR-001  
-**Datum:** 02. April 2026  
+**Aktenzeichen intern:** VM-2026-GR-001
+**Datum:** 02. April 2026
 **Bearbeiter:** PatAnw. Dr. Gruhl / RA Dr. Birkenhainer
 
 ---

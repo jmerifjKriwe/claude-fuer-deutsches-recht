@@ -1,7 +1,7 @@
 # 12 Berliner Raeumung vs. Vollständige Raeumung — Kostenvergleich und Entscheidung
 
-**Akte:** MR-2026-ZV-0188  
-**Datum:** 07.01.2026  
+**Akte:** MR-2026-ZV-0188
+**Datum:** 07.01.2026
 **Entscheidung Mandantin:** Berliner Raeumung (vorbehaltlich GV-Beurteilung)
 
 ---

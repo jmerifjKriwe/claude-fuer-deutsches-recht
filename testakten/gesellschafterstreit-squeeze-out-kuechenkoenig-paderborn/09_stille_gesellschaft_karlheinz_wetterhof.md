@@ -1,8 +1,8 @@
 # 09 — Stille Gesellschaft Karlheinz Wetterhof: Auseinandersetzungsstreit
 
-**Akte:** DWSP/2026/GR-4417  
-**Erstellt:** 22.04.2026  
-**Bearbeiter:** RAin Kerstin Wegener (Partnerin), Kanzlei DWSP  
+**Akte:** DWSP/2026/GR-4417
+**Erstellt:** 22.04.2026
+**Bearbeiter:** RAin Kerstin Wegener (Partnerin), Kanzlei DWSP
 
 ---
 
@@ -12,8 +12,8 @@
 
 Karlheinz Wetterhof (geb. 1969, Kaufmann) ist der Ehemann von Kommanditistin Cornelia Geisen-Wetterhof. Die Ehe wurde im November 2025 getrennt. Karlheinz Wetterhof hat am 15. Juni 2019 einen Vertrag über eine typisch stille Gesellschaft mit der Küchenkönig Manufaktur GmbH & Co. KG geschlossen.
 
-**Einlage:** 200.000 EUR, vollständig eingezahlt am 18.06.2019  
-**Vertragsparteien:** Küchenkönig Manufaktur GmbH & Co. KG (Inhaber) und Karlheinz Wetterhof (stiller Gesellschafter)  
+**Einlage:** 200.000 EUR, vollständig eingezahlt am 18.06.2019
+**Vertragsparteien:** Küchenkönig Manufaktur GmbH & Co. KG (Inhaber) und Karlheinz Wetterhof (stiller Gesellschafter)
 **Rechtsnatur:** Typisch stille Gesellschaft i.S.d. §§ 230–236 HGB
 
 ### 1.2 Vertragswesentliche Regelungen
@@ -88,5 +88,5 @@ Wichtiger Hinweis: Die Gesellschaft darf ohne Zustimmung aller Gesellschafter ke
 
 ---
 
-*Erstellt: 22.04.2026 — RAin Kerstin Wegener, Partnerin, DWSP*  
+*Erstellt: 22.04.2026 — RAin Kerstin Wegener, Partnerin, DWSP*
 *Referenz: §§ 230–236 HGB (dejure.org/gesetze/HGB/230.html); OLG Hamm 8 U 38/11*

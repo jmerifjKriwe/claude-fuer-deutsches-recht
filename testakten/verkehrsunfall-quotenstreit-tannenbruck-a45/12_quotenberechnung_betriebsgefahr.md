@@ -1,9 +1,9 @@
 # Quotenberechnung Haftungsanteile — Betriebsgefahr und Verschulden
 
-**Erstellt von:** RA Sebastian Hoffmann, Kanzlei Hoffmann Verkehrsrecht Lüdenscheid  
-**Aktenzeichen:** LG Hagen 4 O 211/26  
-**Datum:** 20.02.2026  
-**Grundlage:** SV-Gutachten Rennsteig (SV-2026-A45-0184), Polizeiakte VD2-2026-00112  
+**Erstellt von:** RA Sebastian Hoffmann, Kanzlei Hoffmann Verkehrsrecht Lüdenscheid
+**Aktenzeichen:** LG Hagen 4 O 211/26
+**Datum:** 20.02.2026
+**Grundlage:** SV-Gutachten Rennsteig (SV-2026-A45-0184), Polizeiakte VD2-2026-00112
 
 ---
 
@@ -113,5 +113,5 @@ Diese Quote berücksichtigt:
 
 ---
 
-*Quotenberechnung erstellt 20.02.2026 — RA Sebastian Hoffmann*  
+*Quotenberechnung erstellt 20.02.2026 — RA Sebastian Hoffmann*
 *Detaillierte XLSX-Berechnung in Anlage: `xlsx/quotentabelle_haftungsanteile.xlsx`*

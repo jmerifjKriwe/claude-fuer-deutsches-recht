@@ -1,25 +1,25 @@
 # Klageandrohung an Sparkasse Bremen
 
-**Kanzlei Pflüger Schoeneberg Bankrecht**  
-Am Markt 14 · 28195 Bremen  
-Tel.: 0421 / 33 88 20-0 · Fax: 0421 / 33 88 20-99  
+**Kanzlei Pflüger Schoeneberg Bankrecht**
+Am Markt 14 · 28195 Bremen
+Tel.: 0421 / 33 88 20-0 · Fax: 0421 / 33 88 20-99
 
-**Datum:** 20.04.2026  
-**Unser Zeichen:** PS-BKR-2026-0412/07  
+**Datum:** 20.04.2026
+**Unser Zeichen:** PS-BKR-2026-0412/07
 
-**An:**  
-Sparkasse Bremen  
-Vorstand / Rechtsabteilung  
-Am Brill 1–3  
-28195 Bremen  
+**An:**
+Sparkasse Bremen
+Vorstand / Rechtsabteilung
+Am Brill 1–3
+28195 Bremen
 
-per Einschreiben mit Rückschein und zusätzlich per Fax: 0421 / 179 22 22  
+per Einschreiben mit Rückschein und zusätzlich per Fax: 0421 / 179 22 22
 
 ---
 
 ## Klageandrohung und Aufforderung zur Stellungnahme
 
-### Betrifft: Konto Eva-Maria Wittfeldt, IBAN DE44 2905 0101 1004 8830 12  
+### Betrifft: Konto Eva-Maria Wittfeldt, IBAN DE44 2905 0101 1004 8830 12
 ### Schadensersatz wegen Verletzung von Warnpflichten / Rückzug Schufa-Meldung
 
 Sehr geehrte Damen und Herren,
@@ -94,12 +94,12 @@ Nach fruchtlosem Ablauf dieser Frist werden wir **Klage vor dem Landgericht Brem
 
 Mit freundlichen Grüßen
 
-**Rechtsanwalt Dr. Severin Pflüger**  
-Fachanwalt für Bank- und Kapitalmarktrecht  
+**Rechtsanwalt Dr. Severin Pflüger**
+Fachanwalt für Bank- und Kapitalmarktrecht
 Kanzlei Pflüger Schoeneberg Bankrecht
 
-*Anlagen:*  
-- Vollmacht Eva-Maria Wittfeldt  
-- Kopie Strafanzeige ZD 3001 UJs 8841/26  
-- Kontoauszüge (7 Überweisungen)  
+*Anlagen:*
+- Vollmacht Eva-Maria Wittfeldt
+- Kopie Strafanzeige ZD 3001 UJs 8841/26
+- Kontoauszüge (7 Überweisungen)
 - Widerspruch Kreditkündigung vom 17.04.2026

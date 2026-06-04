@@ -42,65 +42,38 @@ Normtexte werden aus amtlichen Quellen geprüft. Rechtsprechung wird nur mit Ger
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 29 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `anzeige-akteneinsicht-verletzter-406e` | Akteneinsicht für Verletzte und ihre Anwälte: Voraussetzungen, Schutzinteressen, Datenschutz und Taktik. |
 | `anzeige-allgemeiner-kaltstart` | Geführter Einstieg für Strafanzeigen: Sachverhalt, Beweise, Straftatverdacht, Strafantrag, Risiken falscher Verdächtigung, Alternativen und anwaltliche Eskalationsschwelle. |
-| `anzeige-anfangsverdacht-152-160-stpo` | Anfangsverdacht strukturieren: zureichende tatsächliche Anhaltspunkte, Ermittlungsauftrag der StA, keine bloße Spekulation. |
-| `anzeige-anlagenverzeichnis-hashlog` | Anlagen zu Strafanzeigen: Nummerierung, Hashwerte, Originale, Kopien, Versandnachweis und digitale Kette. |
-| `anzeige-antragsdelikte-77b-frist` | Strafantragsfrist und Antragsberechtigung bei Beleidigung, Hausfriedensbruch, einfacher Körperverletzung und weiteren Antragsdelikten. |
-| `anzeige-anwalt-einschalten-schwelle` | Schwellen für anwaltliche Hilfe: eigene Beteiligung, Wirtschaftsstrafrecht, Sexual-/Gewaltdelikte, Berufsgeheimnisse, Unternehmen, Presse. |
-| `anzeige-arbeitsplatz-sexuelle-belaestigung` | Arbeitsplatzvorfälle: strafrechtliche Anzeige, AGG/Arbeitsrecht, Beweise, Schutz, interne Untersuchung und Betroffenenrechte. |
-| `anzeige-bankrott-283` | Bankrott und Buchführungsdelikte: Vermögensverschiebung, Buchführung, Krise, Gläubigerbenachteiligung und Insolvenzakten. |
-| `anzeige-bedrohung-241` | Bedrohung anzeigen: Inhalt, Ernstlichkeit, Adressat, Beweise, Schutzmaßnahmen. |
-| `anzeige-beleidigung-185-194` | Beleidigung anzeigen: Kontext, Meinungsfreiheit, Strafantrag, Beweise, Plattform/Arbeitsplatz. |
-| `anzeige-betrug-263` | Betrugsanzeige: Täuschung, Irrtum, Vermögensverfügung, Schaden, Vorsatz, Belege und zivilrechtliche Parallelspur. |
-| `anzeige-beweismatrix-tatsachen-meinungen` | Ordnet jedes Element der Anzeige nach Tatsachenwissen, Beleg, Zeuge, Dokument, Meinung und Vermutung. |
-| `anzeige-chatverlaeufe-emails-header` | Chatverläufe, EML-Dateien, E-Mail-Header, Messenger-Screenshots, Export und Kontext sichern. |
-| `anzeige-compliance-whistleblower-hinschg` | Hinweisgebermeldung, interne Stelle, externe Meldung, Strafanzeige und Schutz vor Repressalien koordinieren. |
-| `anzeige-computerbetrug-phishing` | Computerbetrug/Phishing anzeigen: Zahlungsdaten, TAN, Social Engineering, Bankkommunikation, Logs und Sofortmaßnahmen. |
-| `anzeige-datenstraftaten-202a-303a` | Ausspähen, Abfangen, Datenveränderung, Computersabotage: technische Beweise, Logs, Forensik und ZAC. |
-| `anzeige-diebstahl-unterschlagung` | Diebstahl/Unterschlagung anzeigen: Gewahrsam, Eigentum, Wegnahme, Zueignung, Beweise, Herausgabeverlangen. |
-| `anzeige-druckmittel-verbot-noetigung` | Prüft, ob Drohung mit Strafanzeige oder Anzeige selbst als unzulässiges Druckmittel/Nötigung wirken kann. |
-| `anzeige-falsche-verdaechtigung-164` | Warn- und Prüfskill zu § 164 StGB: niemanden sicher beschuldigen, wenn nur Verdachtsmomente oder Hörensagen vorliegen. |
-| `anzeige-gegenanzeige-risiko` | Risiko der Gegenanzeige wegen falscher Verdächtigung, Verleumdung, Nötigung, Datenschutzverstoß oder Prozessbetrug. |
-| `anzeige-geldwaesche-261` | Geldwäscheverdacht: Tatertrag, Verschleierung, Transaktionen, GwG-Verdachtsmeldung vs Strafanzeige. |
-| `anzeige-geschgehg-23-geheimnisverrat` | Geschäftsgeheimnis-Strafanzeige: Geheimnisqualität, angemessene Geheimhaltungsmaßnahmen, Erlangen/Nutzen/Offenlegen, Strafantrag. |
-| `anzeige-haeusliche-gewalt-gewschg` | Strafanzeige bei häuslicher Gewalt plus Schutzanordnung, Beweissicherung, medizinische Dokumentation und Sicherheitsplan. |
-| `anzeige-hausfriedensbruch-123` | Hausfriedensbruch anzeigen: befriedetes Besitztum, Wohnung/Geschäft, Aufforderung zu gehen, Strafantrag. |
-| `anzeige-insolvenzverschleppung-15a` | Insolvenzverschleppung anzeigen: Organstellung, Zahlungsunfähigkeit/Überschuldung, Fristen, Gläubigerschaden und Belege. |
-| `anzeige-international-eu-158-3` | Internationale Sachverhalte: Tatort, Zuständigkeit, Europol/Interpol nicht direkt, ausländische Behörden, Übersetzungen und Beweise. |
-| `anzeige-klageerzwingung-172-stpo` | Nach Einstellung: Beschwerde, Klageerzwingung, Fristen, Verletztenstellung und anwaltliche Schwelle. |
-| `anzeige-koerperverletzung-223-230` | Körperverletzung: Verletzung, Arztbericht, Fotos, Zeugen, Strafantrag bei § 223 und besonderes öffentliches Interesse. |
-| `anzeige-korruption-299-331ff` | Korruptionsanzeige: Bestechlichkeit/Bestechung im geschäftlichen Verkehr oder Amt, Vorteil, Unrechtsvereinbarung, Belege, Selbstbelastung. |
-| `anzeige-kreditgefaehrdung-824-bgb` | Zivilrechtliches Haftungsrisiko bei Behauptungen über Insolvenz, Betrug, Zahlungsunfähigkeit oder Unzuverlässigkeit. |
-| `anzeige-minderjaehrige-schule` | Strafanzeige bei Minderjährigen/Schule: Jugendstrafrecht, Schutz, Schulrecht, Eltern, Jugendamt und Deeskalation. |
-| `anzeige-muster-strafanzeige-generator` | Erzeugt eine nüchterne Strafanzeige mit optionalem Strafantrag, Anlagen, Beweismatrix und Risikoformulierungen. |
 | `anzeige-nicht-anzeigen-redteam` | Red-Team prüft, ob eine Strafanzeige unnötig, riskant, zivilrechtlich kontraproduktiv oder straf-/haftungsrechtlich gefährlich wäre. |
-| `anzeige-noetigung-240` | Nötigung prüfen: Gewalt/Drohung, empfindliches Übel, Verwerflichkeit, legitime Anzeigeandrohung vs. Missbrauch. |
-| `anzeige-notruf-akut-gefahr` | Akute Gefahr, laufende Tat, Selbst-/Fremdgefährdung: Sofort Polizei/112/110 statt Entwurf. |
-| `anzeige-online-plattform-screenshots` | Screenshots, URLs, Zeitstempel, Accountdaten, Plattformmeldungen und Löschrisiko beweissicher sichern. |
-| `anzeige-onlinewache-vs-staatsanwaltschaft` | Adressat und Form: Onlinewache, Polizeidienststelle, Staatsanwaltschaft, Spezialdienststelle Cybercrime, Zoll oder Finanzbehörde. |
-| `anzeige-opferschutz-nebenklage` | Rechte Verletzter: Nebenklage, psychosoziale Prozessbegleitung, Adhäsion, Schutzanordnung, Akteneinsicht. |
-| `anzeige-rechtsfolgen-und-zivilstrategie` | Strafanzeige mit Zivilrecht koordinieren: Schadensersatz, Unterlassung, einstweilige Verfügung, Kündigung, Versicherung, Adhäsion. |
-| `anzeige-ruecknahme-einstellung-170-153` | Was nach Anzeige passiert: Einstellung, Rücknahme Strafantrag, Opportunität, Beschwerde, Kommunikation mit StA. |
-| `anzeige-sachbeschaedigung-303` | Sachbeschädigung: Beschädigung/Zerstörung/Veränderung, Fotos, Kostenvoranschlag, Strafantrag, Zivilforderung. |
-| `anzeige-sachverhalt-ohne-adjektive` | Entfernt Polemik und Rechtswertungen aus Anzeigen; schreibt nüchtern, präzise und beweisnah. |
-| `anzeige-stalking-238` | Nachstellung anzeigen: wiederholtes Verhalten, Eignung zur Beeinträchtigung, Dokumentation, Kontaktverbote und Plattformbeweise. |
-| `anzeige-steuerhinterziehung-370-ao` | Steuerstraftaten anzeigen oder Selbstbelastung vermeiden: Drittanzeige, Selbstanzeige-Abgrenzung, Belege, Finanzamt/Steufa. |
-| `anzeige-strafantrag-form-frist` | Strafantrag richtig stellen, beweisen und Rücknahmefolgen prüfen. |
-| `anzeige-strafanzeige-vs-strafantrag-158` | Unterscheidet Strafanzeige, Strafantrag, Dienstaufsichtsbeschwerde, Privatklage und zivilrechtliche Abmahnung. |
-| `anzeige-tierschutz-17` | Tierschutzanzeige: erhebliche Schmerzen/Leiden, Rohheit, länger anhaltende Wiederholung, Veterinäramt und Beweise. |
-| `anzeige-ueblerede-verleumdung-186-187` | Strafanzeige und Kommunikation so formulieren, dass keine unnötige ehrverletzende Drittverbreitung entsteht. |
-| `anzeige-umweltstraftaten-324ff` | Umweltstraftaten anzeigen: Gewässer, Boden, Luft, Abfall, Genehmigungen, Beweise und Umweltbehörde. |
-| `anzeige-unternehmen-internal-investigation` | Unternehmensanzeige nach interner Untersuchung: Legal Hold, Mitarbeiterinterviews, Datenschutz, Arbeitsrecht, Beschlagnahmerisiko und Bericht. |
-| `anzeige-untreue-266` | Untreue anzeigen: Vermögensbetreuungspflicht, Pflichtverletzung, Vermögensnachteil, Organ-/Mitarbeiterfälle. |
-| `anzeige-urheberrecht-markenrecht` | IP-Strafanzeigen bei Urheber-, Marken-, Design- und Patentrechtsverletzungen: Strafantrag, Testkauf, Originalitätsnachweis, Zoll. |
-| `anzeige-verkehrsunfall-flucht-142` | Unerlaubtes Entfernen vom Unfallort: Schaden, Wartepflicht, Feststellungen, Dashcam/Zeugen, Selbstmeldung. |
-| `anzeige-video-audio-kug-201` | Video-/Audioaufnahmen als Beweis: Recht am Bild, Vertraulichkeit des Wortes, öffentliche Situation, Polizei/Versammlung und Veröffentlichungsverbot. |
-| `anzeige-wer-was-wann-wo-wie` | Sachverhaltskern einer Anzeige: chronologisch, nüchtern, belegbar, ohne Polemik. |
-| `anzeige-zeugenliste-kontakt` | Zeugen benennen, aber nicht beeinflussen: Kontaktdaten, Wahrnehmung, Reihenfolge und Dokumentation. |
+| `kompendium-01-anzeige-antragsdelik-bis-anzeige-strafantrag` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 01; bündelt 2 frühere Spezialskills (anzeige-antragsdelikte-77b-frist, anzeige-strafantrag-form-frist) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-02-anzeige-steuerhinter-bis-anzeige-akteneinsich` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 02; bündelt 2 frühere Spezialskills (anzeige-steuerhinterziehung-370-ao, anzeige-akteneinsicht-verletzter-406e) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemu... |
+| `kompendium-03-anzeige-anfangsverda-bis-anzeige-anlagenverze` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 03; bündelt 2 frühere Spezialskills (anzeige-anfangsverdacht-152-160-stpo, anzeige-anlagenverzeichnis-hashlog) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemus... |
+| `kompendium-04-anzeige-anwalt-einsc-bis-anzeige-arbeitsplatz` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 04; bündelt 2 frühere Spezialskills (anzeige-anwalt-einschalten-schwelle, anzeige-arbeitsplatz-sexuelle-belaestigung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Aus... |
+| `kompendium-05-anzeige-bankrott-283-bis-anzeige-bedrohung-24` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 05; bündelt 2 frühere Spezialskills (anzeige-bankrott-283, anzeige-bedrohung-241) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-06-anzeige-beleidigung-bis-anzeige-betrug-263` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 06; bündelt 2 frühere Spezialskills (anzeige-beleidigung-185-194, anzeige-betrug-263) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-07-anzeige-beweismatrix-bis-anzeige-chatverlaeuf` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 07; bündelt 2 frühere Spezialskills (anzeige-beweismatrix-tatsachen-meinungen, anzeige-chatverlaeufe-emails-header) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausga... |
+| `kompendium-08-anzeige-compliance-w-bis-anzeige-computerbetr` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 08; bündelt 2 frühere Spezialskills (anzeige-compliance-whistleblower-hinschg, anzeige-computerbetrug-phishing) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemu... |
+| `kompendium-09-anzeige-datenstrafta-bis-anzeige-diebstahl-un` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 09; bündelt 2 frühere Spezialskills (anzeige-datenstraftaten-202a-303a, anzeige-diebstahl-unterschlagung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-10-anzeige-druckmittel-bis-anzeige-falsche-verd` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 10; bündelt 2 frühere Spezialskills (anzeige-druckmittel-verbot-noetigung, anzeige-falsche-verdaechtigung-164) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemus... |
+| `kompendium-11-anzeige-gegenanzeige-bis-anzeige-geldwaesche` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 11; bündelt 2 frühere Spezialskills (anzeige-gegenanzeige-risiko, anzeige-geldwaesche-261) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-12-anzeige-geschgehg-23-bis-anzeige-haeusliche-g` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 12; bündelt 2 frühere Spezialskills (anzeige-geschgehg-23-geheimnisverrat, anzeige-haeusliche-gewalt-gewschg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-13-anzeige-hausfriedens-bis-anzeige-insolvenzver` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 13; bündelt 2 frühere Spezialskills (anzeige-hausfriedensbruch-123, anzeige-insolvenzverschleppung-15a) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-14-anzeige-internationa-bis-anzeige-klageerzwing` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 14; bündelt 2 frühere Spezialskills (anzeige-international-eu-158-3, anzeige-klageerzwingung-172-stpo) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-15-anzeige-koerperverle-bis-anzeige-korruption-2` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 15; bündelt 2 frühere Spezialskills (anzeige-koerperverletzung-223-230, anzeige-korruption-299-331ff) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-16-anzeige-kreditgefaeh-bis-anzeige-minderjaehri` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 16; bündelt 2 frühere Spezialskills (anzeige-kreditgefaehrdung-824-bgb, anzeige-minderjaehrige-schule) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-17-anzeige-muster-straf-bis-anzeige-noetigung-24` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 17; bündelt 2 frühere Spezialskills (anzeige-muster-strafanzeige-generator, anzeige-noetigung-240) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-18-anzeige-notruf-akut-bis-anzeige-online-platt` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 18; bündelt 2 frühere Spezialskills (anzeige-notruf-akut-gefahr, anzeige-online-plattform-screenshots) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-19-anzeige-onlinewache-bis-anzeige-opferschutz` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 19; bündelt 2 frühere Spezialskills (anzeige-onlinewache-vs-staatsanwaltschaft, anzeige-opferschutz-nebenklage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemu... |
+| `kompendium-20-anzeige-rechtsfolgen-bis-anzeige-ruecknahme-e` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 20; bündelt 2 frühere Spezialskills (anzeige-rechtsfolgen-und-zivilstrategie, anzeige-ruecknahme-einstellung-170-153) und bewahrt deren Workflows, Normanker, Prüfprogramme und Aus... |
+| `kompendium-21-anzeige-sachbeschaed-bis-anzeige-sachverhalt` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 21; bündelt 2 frühere Spezialskills (anzeige-sachbeschaedigung-303, anzeige-sachverhalt-ohne-adjektive) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-22-anzeige-stalking-238-bis-anzeige-strafanzeige` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 22; bündelt 2 frühere Spezialskills (anzeige-stalking-238, anzeige-strafanzeige-vs-strafantrag-158) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-23-anzeige-tierschutz-1-bis-anzeige-ueblerede-ve` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 23; bündelt 2 frühere Spezialskills (anzeige-tierschutz-17, anzeige-ueblerede-verleumdung-186-187) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-24-anzeige-umweltstraft-bis-anzeige-unternehmen` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 24; bündelt 2 frühere Spezialskills (anzeige-umweltstraftaten-324ff, anzeige-unternehmen-internal-investigation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabem... |
+| `kompendium-25-anzeige-untreue-266-bis-anzeige-urheberrecht` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 25; bündelt 2 frühere Spezialskills (anzeige-untreue-266, anzeige-urheberrecht-markenrecht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-26-anzeige-verkehrsunfa-bis-anzeige-video-audio` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 26; bündelt 2 frühere Spezialskills (anzeige-verkehrsunfall-flucht-142, anzeige-video-audio-kug-201) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-27-anzeige-wer-was-wann-bis-anzeige-zeugenliste` | strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 27; bündelt 2 frühere Spezialskills (anzeige-wer-was-wann-wo-wie, anzeige-zeugenliste-kontakt) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

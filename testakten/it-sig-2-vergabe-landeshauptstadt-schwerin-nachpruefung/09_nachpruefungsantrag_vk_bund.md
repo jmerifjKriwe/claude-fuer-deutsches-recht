@@ -1,23 +1,23 @@
 # Aktenstück 09 – Nachprüfungsantrag Vergabekammer Bund VK 1-32/26
 
-**Aktenzeichen:** VK 1-32/26  
-**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026  
-**Eingegangen bei VK:** 24.04.2026  
-**Von:** RA Dr. Constantin Bährens  
+**Aktenzeichen:** VK 1-32/26
+**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026
+**Eingegangen bei VK:** 24.04.2026
+**Von:** RA Dr. Constantin Bährens
 **An:** Vergabekammer des Bundes, VK 1
 
 ---
 
-Kanzlei Bährens Vergaberecht  
-Unter den Linden 48  
+Kanzlei Bährens Vergaberecht
+Unter den Linden 48
 10117 Berlin
 
 **Per Fax und beA** (Besonderes elektronisches Anwaltspostfach)
 
-**An die:**  
-Vergabekammer des Bundes beim Bundeskartellamt  
-– 1. Beschlussabteilung –  
-Villemombler Straße 76  
+**An die:**
+Vergabekammer des Bundes beim Bundeskartellamt
+– 1. Beschlussabteilung –
+Villemombler Straße 76
 53123 Bonn
 
 Berlin, 24. April 2026
@@ -26,17 +26,17 @@ Berlin, 24. April 2026
 
 ## NACHPRÜFUNGSANTRAG gem. §§ 160 ff. GWB
 
-**In dem Vergabeverfahren:**  
-LH-SN-Cyber-SOC-NSV-2026 / TED 2026/S 042-XXXXXX  
+**In dem Vergabeverfahren:**
+LH-SN-Cyber-SOC-NSV-2026 / TED 2026/S 042-XXXXXX
 „Cybersecurity-Operations-Center als Managed Service und BSI-IT-Sicherheitsbeauftragten-Beratung für Nahverkehr Schwerin GmbH"
 
-**Antragstellerin:**  
-CyberShield Defense GmbH  
-Alexanderstraße 7, 10178 Berlin  
+**Antragstellerin:**
+CyberShield Defense GmbH
+Alexanderstraße 7, 10178 Berlin
 vertreten durch RA Dr. Constantin Bährens
 
-**Auftraggeberin (Antragsgegnerin):**  
-Landeshauptstadt Schwerin / Eigenbetrieb SDS  
+**Auftraggeberin (Antragsgegnerin):**
+Landeshauptstadt Schwerin / Eigenbetrieb SDS
 Am Grünen Tal 18, 19063 Schwerin
 
 ---
@@ -103,7 +103,7 @@ Die Antragstellerin beantragt:
 
 4. Der Auftraggeberin die Kosten des Nachprüfungsverfahrens aufzuerlegen.
 
-**Hilfsantrag:**  
+**Hilfsantrag:**
 Sollte eine Neuwertung nicht möglich sein (Zuschlag bereits erteilt): Feststellung der Rechtswidrigkeit des Ausschlusses zum Zwecke der Schadensersatzklage.
 
 ---
@@ -122,7 +122,7 @@ Sollte eine Neuwertung nicht möglich sein (Zuschlag bereits erteilt): Feststell
 
 Mit freundlichen Grüßen
 
-**Dr. Constantin Bährens**  
+**Dr. Constantin Bährens**
 Rechtsanwalt, Fachanwalt für Vergaberecht
 
 ---

@@ -6,10 +6,10 @@
 
 ## Behörde
 
-Jobcenter Leipzig – Eigenbetrieb der Stadt Leipzig  
-Georgiring 3  
-04103 Leipzig  
-Tel.: 0341 / 98 22 000  
+Jobcenter Leipzig – Eigenbetrieb der Stadt Leipzig
+Georgiring 3
+04103 Leipzig
+Tel.: 0341 / 98 22 000
 
 ---
 

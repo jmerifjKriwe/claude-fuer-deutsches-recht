@@ -1,10 +1,10 @@
 # Aktenstück 01 — Aktenaufnahme und Initial-Strukturierung
 
-**Verfahren:** StA Stuttgart 4 Js 18.422/26  
-**Gericht:** LG Stuttgart 4. Große Strafkammer — KLs 4 Js 18.422/26  
-**Tatvorwurf:** Bandenmaessiger schwerer Raub gem. § 250 Abs. 2 Nr. 1 StGB i.V.m. § 244a StGB  
-**Tatzeit:** 18.10.2025, ca. 10:45 Uhr  
-**Tatort:** Familienjuwelier Goldhofer-Egenter, Königstrasse 47, 70173 Stuttgart  
+**Verfahren:** StA Stuttgart 4 Js 18.422/26
+**Gericht:** LG Stuttgart 4. Große Strafkammer — KLs 4 Js 18.422/26
+**Tatvorwurf:** Bandenmaessiger schwerer Raub gem. § 250 Abs. 2 Nr. 1 StGB i.V.m. § 244a StGB
+**Tatzeit:** 18.10.2025, ca. 10:45 Uhr
+**Tatort:** Familienjuwelier Goldhofer-Egenter, Königstrasse 47, 70173 Stuttgart
 **Stichtag dieser Notiz:** 14.01.2026
 
 ---

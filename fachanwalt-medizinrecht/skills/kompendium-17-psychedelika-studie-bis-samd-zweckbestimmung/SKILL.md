@@ -1,0 +1,382 @@
+---
+name: kompendium-17-psychedelika-studie-bis-samd-zweckbestimmung
+description: "fachanwalt-medizinrecht: Konsolidiertes Skill-Kompendium 17; bündelt 6 frühere Spezialskills (psychedelika-studie-therapie, radiologie-ki-befund, registerdaten-patientensicherheit, robotische-operation, sachverstaendiger-innovationsstandard und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+---
+
+# Kompendium 17 - fachanwalt-medizinrecht
+
+## Zweck
+
+Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+
+## Enthaltene frühere Skills
+
+| Früherer Skill | Frühere Beschreibung |
+| --- | --- |
+| `psychedelika-studie-therapie` | Psychedelika Studie und Therapie: moderner Medizinrechts-Skill für Psilocybin/MDMA-Studie, Betäubungsmittelrecht, Ethik, Off-Label-Mythen und Haftung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
+| `radiologie-ki-befund` | Radiologie-KI und Befundfehler: moderner Medizinrechts-Skill für KI-Vorschlag, ärztlicher Befund, Overreliance, Softwareupdate und verpasster Zufallsbefund. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
+| `registerdaten-patientensicherheit` | Registerdaten Patientensicherheit: moderner Medizinrechts-Skill für Klinisches Register, Qualitätssicherung, Pseudonymisierung, Zweckänderung und Haftungsprävention. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
+| `robotische-operation` | Robotische Operation: moderner Medizinrechts-Skill für Da-Vinci-/Robotik-OP, Bedienfehler, Training, Herstellerhinweis und Aufklärung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
+| `sachverstaendiger-innovationsstandard` | Sachverständiger und Innovationsstandard: moderner Medizinrechts-Skill für Gerichtsgutachten bei neuer Methode, Leitlinienlücke, Registerdaten und Standardbildung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
+| `samd-zweckbestimmung` | Software as Medical Device Zweckbestimmung: moderner Medizinrechts-Skill für Softwaregrenze Wellness-App/Medizinprodukt, Zweckbestimmung, CE und ärztliche Anwendung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
+
+## Arbeitsregel
+
+1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
+3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+
+## Konsolidierte Inhalte
+
+## 1. `psychedelika-studie-therapie`
+
+**Frühere Beschreibung:** Psychedelika Studie und Therapie: moderner Medizinrechts-Skill für Psilocybin/MDMA-Studie, Betäubungsmittelrecht, Ethik, Off-Label-Mythen und Haftung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+
+# Psychedelika Studie und Therapie
+
+## Fachkern: Psychedelika Studie und Therapie
+- **Spezialgegenstand:** Psychedelika Studie und Therapie wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
+- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
+## Worum es geht
+
+Nutze diesen Skill im Plugin **Fachanwalt Medizinrecht**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+
+**Fokus:** Psilocybin/MDMA-Studie, Betäubungsmittelrecht, Ethik, Off-Label-Mythen und Haftung.
+
+## Kaltstart-Fragen
+
+- Welche Rolle liegt vor: Patient, Arzt, Klinik, Hersteller, Sponsor, KV, Kasse oder Behörde?
+- Welche Maßnahme, welches Produkt, welches Datum und welcher Rechtsstand sind entscheidend?
+- Gibt es Aufklärung, Einwilligung, Studien-/Registerunterlagen, Produktinformationen oder Meldebelege?
+- Geht es um Prävention, Anspruch, Verteidigung, Erstattung, Behörde oder gerichtliche Durchsetzung?
+
+## Prüf- und Arbeitslogik
+
+- **Rechtsanker:** BtMG/NpSG live prüfen, AMG Clinical Trial, Ethikvotum, Aufklärung und Sicherheitskonzept.
+- **Tatsachenanker:** Behandlungs-/Therapiedatum, Rollen, Behandlungsdokumente, Aufklärung, Einwilligung, Freigaben, Befunde, Meldebelege, Beweiswert und offene Lücken trennen.
+- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
+- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
+- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
+
+## Typische Fehlerquellen
+
+- Innovative Medizin ist nicht automatisch Standard und nicht automatisch experimentell; Zeitpunkt und Datenlage sind zu trennen.
+- Produkt-, Behandlungs-, Organisations- und Aufklärungsfehler nicht vermischen.
+- Bei neuen EU-Regeln Übergangsfristen und nationale Durchführung gesondert prüfen.
+- Gesundheitsdaten, Genomdaten und Patientengeheimnisse nur datensparsam verarbeiten.
+
+## Output
+
+- Mandats-/Fallvermerk mit Normenroute und Quellenstand.
+- Dokumentenmatrix mit Lücken und Beweiswert.
+- Risikoampel Haftung/Regulierung/Datenschutz/Erstattung.
+- Nächster Schriftsatz-, Behörden- oder Mandantenkommunikationsbaustein.
+
+## Quellen- und Aktualitätsgate
+
+Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
+
+## Nützliche Startquellen
+
+- Gesetze im Internet: https://www.gesetze-im-internet.de/
+
+## 2. `radiologie-ki-befund`
+
+**Frühere Beschreibung:** Radiologie-KI und Befundfehler: moderner Medizinrechts-Skill für KI-Vorschlag, ärztlicher Befund, Overreliance, Softwareupdate und verpasster Zufallsbefund. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+
+# Radiologie-KI und Befundfehler
+
+## Fachkern: Radiologie-KI und Befundfehler
+- **Spezialgegenstand:** Radiologie-KI und Befundfehler wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
+- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
+## Worum es geht
+
+Nutze diesen Skill im Plugin **Fachanwalt Medizinrecht**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+
+**Fokus:** KI-Vorschlag, ärztlicher Befund, Overreliance, Softwareupdate und verpasster Zufallsbefund.
+
+## Kaltstart-Fragen
+
+- Welche Rolle liegt vor: Patient, Arzt, Klinik, Hersteller, Sponsor, KV, Kasse oder Behörde?
+- Welche Maßnahme, welches Produkt, welches Datum und welcher Rechtsstand sind entscheidend?
+- Gibt es Aufklärung, Einwilligung, Studien-/Registerunterlagen, Produktinformationen oder Meldebelege?
+- Geht es um Prävention, Anspruch, Verteidigung, Erstattung, Behörde oder gerichtliche Durchsetzung?
+
+## Prüf- und Arbeitslogik
+
+- **Rechtsanker:** MDR/MPDG, AI Act, §§ 630a ff. BGB, Produkthaftung und Dokumentationspflicht.
+- **Tatsachenanker:** Behandlungs-/Therapiedatum, Rollen, Behandlungsdokumente, Aufklärung, Einwilligung, Freigaben, Befunde, Meldebelege, Beweiswert und offene Lücken trennen.
+- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
+- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
+- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
+
+## Typische Fehlerquellen
+
+- Innovative Medizin ist nicht automatisch Standard und nicht automatisch experimentell; Zeitpunkt und Datenlage sind zu trennen.
+- Produkt-, Behandlungs-, Organisations- und Aufklärungsfehler nicht vermischen.
+- Bei neuen EU-Regeln Übergangsfristen und nationale Durchführung gesondert prüfen.
+- Gesundheitsdaten, Genomdaten und Patientengeheimnisse nur datensparsam verarbeiten.
+
+## Output
+
+- Mandats-/Fallvermerk mit Normenroute und Quellenstand.
+- Dokumentenmatrix mit Lücken und Beweiswert.
+- Risikoampel Haftung/Regulierung/Datenschutz/Erstattung.
+- Nächster Schriftsatz-, Behörden- oder Mandantenkommunikationsbaustein.
+
+## Quellen- und Aktualitätsgate
+
+Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
+
+## Nützliche Startquellen
+
+- BMG ePA für alle: https://www.bundesgesundheitsministerium.de/themen/digitalisierung/elektronische-patientenakte/epa-fuer-alle
+- BfArM DiGA: https://www.bfarm.de/DE/Medizinprodukte/Aufgaben/DiGA-und-DiPA/DiGA/_node.html
+- EHDS Regulation EU 2025/327: https://eur-lex.europa.eu/eli/reg/2025/327/oj/
+- BGB §§ 630a ff.: https://www.gesetze-im-internet.de/bgb/__630a.html
+- BGB § 630h: https://www.gesetze-im-internet.de/bgb/__630h.html
+- Product Liability Directive EU 2024/2853: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2853
+
+## 3. `registerdaten-patientensicherheit`
+
+**Frühere Beschreibung:** Registerdaten Patientensicherheit: moderner Medizinrechts-Skill für Klinisches Register, Qualitätssicherung, Pseudonymisierung, Zweckänderung und Haftungsprävention. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+
+# Registerdaten Patientensicherheit
+
+## Fachkern: Registerdaten Patientensicherheit
+- **Spezialgegenstand:** Registerdaten Patientensicherheit wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
+- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
+## Worum es geht
+
+Nutze diesen Skill im Plugin **Fachanwalt Medizinrecht**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+
+**Fokus:** Klinisches Register, Qualitätssicherung, Pseudonymisierung, Zweckänderung und Haftungsprävention.
+
+## Kaltstart-Fragen
+
+- Welche Rolle liegt vor: Patient, Arzt, Klinik, Hersteller, Sponsor, KV, Kasse oder Behörde?
+- Welche Maßnahme, welches Produkt, welches Datum und welcher Rechtsstand sind entscheidend?
+- Gibt es Aufklärung, Einwilligung, Studien-/Registerunterlagen, Produktinformationen oder Meldebelege?
+- Geht es um Prävention, Anspruch, Verteidigung, Erstattung, Behörde oder gerichtliche Durchsetzung?
+
+## Prüf- und Arbeitslogik
+
+- **Rechtsanker:** DSGVO, SGB V, EHDS, GDNG, § 630f BGB und Forschungsdatenzentrum Gesundheit.
+- **Tatsachenanker:** Behandlungs-/Therapiedatum, Rollen, Behandlungsdokumente, Aufklärung, Einwilligung, Freigaben, Befunde, Meldebelege, Beweiswert und offene Lücken trennen.
+- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
+- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
+- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
+
+## Typische Fehlerquellen
+
+- Innovative Medizin ist nicht automatisch Standard und nicht automatisch experimentell; Zeitpunkt und Datenlage sind zu trennen.
+- Produkt-, Behandlungs-, Organisations- und Aufklärungsfehler nicht vermischen.
+- Bei neuen EU-Regeln Übergangsfristen und nationale Durchführung gesondert prüfen.
+- Gesundheitsdaten, Genomdaten und Patientengeheimnisse nur datensparsam verarbeiten.
+
+## Output
+
+- Mandats-/Fallvermerk mit Normenroute und Quellenstand.
+- Dokumentenmatrix mit Lücken und Beweiswert.
+- Risikoampel Haftung/Regulierung/Datenschutz/Erstattung.
+- Nächster Schriftsatz-, Behörden- oder Mandantenkommunikationsbaustein.
+
+## Quellen- und Aktualitätsgate
+
+Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
+
+## Nützliche Startquellen
+
+- BMG ePA für alle: https://www.bundesgesundheitsministerium.de/themen/digitalisierung/elektronische-patientenakte/epa-fuer-alle
+- BfArM DiGA: https://www.bfarm.de/DE/Medizinprodukte/Aufgaben/DiGA-und-DiPA/DiGA/_node.html
+- EHDS Regulation EU 2025/327: https://eur-lex.europa.eu/eli/reg/2025/327/oj/
+
+## 4. `robotische-operation`
+
+**Frühere Beschreibung:** Robotische Operation: moderner Medizinrechts-Skill für Da-Vinci-/Robotik-OP, Bedienfehler, Training, Herstellerhinweis und Aufklärung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+
+# Robotische Operation
+
+## Fachkern: Robotische Operation
+- **Spezialgegenstand:** Robotische Operation wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
+- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
+## Worum es geht
+
+Nutze diesen Skill im Plugin **Fachanwalt Medizinrecht**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+
+**Fokus:** Da-Vinci-/Robotik-OP, Bedienfehler, Training, Herstellerhinweis und Aufklärung.
+
+## Kaltstart-Fragen
+
+- Welche Rolle liegt vor: Patient, Arzt, Klinik, Hersteller, Sponsor, KV, Kasse oder Behörde?
+- Welche Maßnahme, welches Produkt, welches Datum und welcher Rechtsstand sind entscheidend?
+- Gibt es Aufklärung, Einwilligung, Studien-/Registerunterlagen, Produktinformationen oder Meldebelege?
+- Geht es um Prävention, Anspruch, Verteidigung, Erstattung, Behörde oder gerichtliche Durchsetzung?
+
+## Prüf- und Arbeitslogik
+
+- **Rechtsanker:** §§ 630a ff. BGB, MDR/MPDG, Produkthaftung, Organisationspflichten und Aufklärungsrecht.
+- **Tatsachenanker:** Behandlungs-/Therapiedatum, Rollen, Behandlungsdokumente, Aufklärung, Einwilligung, Freigaben, Befunde, Meldebelege, Beweiswert und offene Lücken trennen.
+- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
+- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
+- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
+
+## Typische Fehlerquellen
+
+- Innovative Medizin ist nicht automatisch Standard und nicht automatisch experimentell; Zeitpunkt und Datenlage sind zu trennen.
+- Produkt-, Behandlungs-, Organisations- und Aufklärungsfehler nicht vermischen.
+- Bei neuen EU-Regeln Übergangsfristen und nationale Durchführung gesondert prüfen.
+- Gesundheitsdaten, Genomdaten und Patientengeheimnisse nur datensparsam verarbeiten.
+
+## Output
+
+- Mandats-/Fallvermerk mit Normenroute und Quellenstand.
+- Dokumentenmatrix mit Lücken und Beweiswert.
+- Risikoampel Haftung/Regulierung/Datenschutz/Erstattung.
+- Nächster Schriftsatz-, Behörden- oder Mandantenkommunikationsbaustein.
+
+## Quellen- und Aktualitätsgate
+
+Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
+
+## Nützliche Startquellen
+
+- BGB §§ 630a ff.: https://www.gesetze-im-internet.de/bgb/__630a.html
+- BGB § 630h: https://www.gesetze-im-internet.de/bgb/__630h.html
+- Product Liability Directive EU 2024/2853: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2853
+
+## 5. `sachverstaendiger-innovationsstandard`
+
+**Frühere Beschreibung:** Sachverständiger und Innovationsstandard: moderner Medizinrechts-Skill für Gerichtsgutachten bei neuer Methode, Leitlinienlücke, Registerdaten und Standardbildung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+
+# Sachverständiger und Innovationsstandard
+
+## Fachkern: Sachverständiger und Innovationsstandard
+- **Spezialgegenstand:** Sachverständiger und Innovationsstandard wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
+- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
+## Worum es geht
+
+Nutze diesen Skill im Plugin **Fachanwalt Medizinrecht**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+
+**Fokus:** Gerichtsgutachten bei neuer Methode, Leitlinienlücke, Registerdaten und Standardbildung.
+
+## Kaltstart-Fragen
+
+- Welche Rolle liegt vor: Patient, Arzt, Klinik, Hersteller, Sponsor, KV, Kasse oder Behörde?
+- Welche Maßnahme, welches Produkt, welches Datum und welcher Rechtsstand sind entscheidend?
+- Gibt es Aufklärung, Einwilligung, Studien-/Registerunterlagen, Produktinformationen oder Meldebelege?
+- Geht es um Prävention, Anspruch, Verteidigung, Erstattung, Behörde oder gerichtliche Durchsetzung?
+
+## Prüf- und Arbeitslogik
+
+- **Rechtsanker:** ZPO, §§ 630a/h BGB, Leitlinien live prüfen, Fachstandard zum Behandlungszeitpunkt.
+- **Tatsachenanker:** Behandlungs-/Therapiedatum, Rollen, Behandlungsdokumente, Aufklärung, Einwilligung, Freigaben, Befunde, Meldebelege, Beweiswert und offene Lücken trennen.
+- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
+- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
+- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
+
+## Typische Fehlerquellen
+
+- Innovative Medizin ist nicht automatisch Standard und nicht automatisch experimentell; Zeitpunkt und Datenlage sind zu trennen.
+- Produkt-, Behandlungs-, Organisations- und Aufklärungsfehler nicht vermischen.
+- Bei neuen EU-Regeln Übergangsfristen und nationale Durchführung gesondert prüfen.
+- Gesundheitsdaten, Genomdaten und Patientengeheimnisse nur datensparsam verarbeiten.
+
+## Output
+
+- Mandats-/Fallvermerk mit Normenroute und Quellenstand.
+- Dokumentenmatrix mit Lücken und Beweiswert.
+- Risikoampel Haftung/Regulierung/Datenschutz/Erstattung.
+- Nächster Schriftsatz-, Behörden- oder Mandantenkommunikationsbaustein.
+
+## Quellen- und Aktualitätsgate
+
+Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
+
+## Nützliche Startquellen
+
+- BGB §§ 630a ff.: https://www.gesetze-im-internet.de/bgb/__630a.html
+- BGB § 630h: https://www.gesetze-im-internet.de/bgb/__630h.html
+- Product Liability Directive EU 2024/2853: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2853
+
+## 6. `samd-zweckbestimmung`
+
+**Frühere Beschreibung:** Software as Medical Device Zweckbestimmung: moderner Medizinrechts-Skill für Softwaregrenze Wellness-App/Medizinprodukt, Zweckbestimmung, CE und ärztliche Anwendung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+
+# Software as Medical Device Zweckbestimmung
+
+## Fachkern: Software as Medical Device Zweckbestimmung
+- **Spezialgegenstand:** Software as Medical Device Zweckbestimmung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
+- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
+## Worum es geht
+
+Nutze diesen Skill im Plugin **Fachanwalt Medizinrecht**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
+
+**Fokus:** Softwaregrenze Wellness-App/Medizinprodukt, Zweckbestimmung, CE und ärztliche Anwendung.
+
+## Kaltstart-Fragen
+
+- Welche Rolle liegt vor: Patient, Arzt, Klinik, Hersteller, Sponsor, KV, Kasse oder Behörde?
+- Welche Maßnahme, welches Produkt, welches Datum und welcher Rechtsstand sind entscheidend?
+- Gibt es Aufklärung, Einwilligung, Studien-/Registerunterlagen, Produktinformationen oder Meldebelege?
+- Geht es um Prävention, Anspruch, Verteidigung, Erstattung, Behörde oder gerichtliche Durchsetzung?
+
+## Prüf- und Arbeitslogik
+
+- **Rechtsanker:** MDR Art. 2, MPDG, MDCG-Leitlinien live prüfen, DiGA/SGB V und Produkthaftung.
+- **Tatsachenanker:** Behandlungs-/Therapiedatum, Rollen, Behandlungsdokumente, Aufklärung, Einwilligung, Freigaben, Befunde, Meldebelege, Beweiswert und offene Lücken trennen.
+- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
+- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
+- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
+
+## Typische Fehlerquellen
+
+- Innovative Medizin ist nicht automatisch Standard und nicht automatisch experimentell; Zeitpunkt und Datenlage sind zu trennen.
+- Produkt-, Behandlungs-, Organisations- und Aufklärungsfehler nicht vermischen.
+- Bei neuen EU-Regeln Übergangsfristen und nationale Durchführung gesondert prüfen.
+- Gesundheitsdaten, Genomdaten und Patientengeheimnisse nur datensparsam verarbeiten.
+
+## Output
+
+- Mandats-/Fallvermerk mit Normenroute und Quellenstand.
+- Dokumentenmatrix mit Lücken und Beweiswert.
+- Risikoampel Haftung/Regulierung/Datenschutz/Erstattung.
+- Nächster Schriftsatz-, Behörden- oder Mandantenkommunikationsbaustein.
+
+## Quellen- und Aktualitätsgate
+
+Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
+
+## Nützliche Startquellen
+
+- BMG ePA für alle: https://www.bundesgesundheitsministerium.de/themen/digitalisierung/elektronische-patientenakte/epa-fuer-alle
+- BfArM DiGA: https://www.bfarm.de/DE/Medizinprodukte/Aufgaben/DiGA-und-DiPA/DiGA/_node.html
+- EHDS Regulation EU 2025/327: https://eur-lex.europa.eu/eli/reg/2025/327/oj/
+- BGB §§ 630a ff.: https://www.gesetze-im-internet.de/bgb/__630a.html
+- BGB § 630h: https://www.gesetze-im-internet.de/bgb/__630h.html
+- Product Liability Directive EU 2024/2853: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2853

@@ -1,7 +1,7 @@
 # Vorgang: Kamera, Lichtstrahler und Drohnenflug
 
-**Bearbeiter:** Wiss. Mit. Konstantin Pohl  
-**Datum:** 18.10.2025  
+**Bearbeiter:** Wiss. Mit. Konstantin Pohl
+**Datum:** 18.10.2025
 **Quelle:** Mandantenmail vom 17.10.2025, Handyfotos, Gespräch mit Nachbarin Frau Jansen
 
 ## Sachverhalt

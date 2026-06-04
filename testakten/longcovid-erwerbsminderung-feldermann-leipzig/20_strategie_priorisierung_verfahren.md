@@ -1,9 +1,9 @@
 # Strategiepapier – Priorisierung und Verfahrensstrategie
 
-**Vertraulich – Nur zur internen Kanzleiverwendung**  
-**Erstellt:** 07.03.2026  
-**Erstellt durch:** RA Sonnemann  
-**Kanzlei-AZ:** SON-2026-0047-FEL  
+**Vertraulich – Nur zur internen Kanzleiverwendung**
+**Erstellt:** 07.03.2026
+**Erstellt durch:** RA Sonnemann
+**Kanzlei-AZ:** SON-2026-0047-FEL
 
 ---
 
@@ -23,7 +23,7 @@ Die fünf parallelen Verfahren haben unterschiedliche Dringlichkeit und untersch
 
 ## II. Verfahren 1: Eilantrag KdU (S 7 AS 188/26 ER)
 
-**Status:** Eingereicht 19.02.2026; Erörterungstermin 12.03.2026 SG Leipzig  
+**Status:** Eingereicht 19.02.2026; Erörterungstermin 12.03.2026 SG Leipzig
 **Richter:** Az. S 7 AS → 7. Kammer SG Leipzig (Vorsitz N.N., wird noch recherchiert)
 
 **Strategie:**
@@ -41,7 +41,7 @@ Die fünf parallelen Verfahren haben unterschiedliche Dringlichkeit und untersch
 
 ## III. Verfahren 2: Widerspruch DRV Erwerbsminderungsrente
 
-**Status:** Widerspruch eingereicht 12.03.2026; Akteneinsicht ausgewertet (Aktenstück 13)  
+**Status:** Widerspruch eingereicht 12.03.2026; Akteneinsicht ausgewertet (Aktenstück 13)
 **Frist Widerspruchsentscheidung:** keine gesetzliche Frist, aber Untätigkeitsklage nach 3 Monaten möglich
 
 **Strategie:**
@@ -135,7 +135,7 @@ BK 3101 (BGW)
   EM-Rente DRV ←→ GdB LASOV
      ↓                ↓
   SGB II Jobcenter  (Schwerbehinderung
-     ↓               erhöht Bedarf / 
+     ↓               erhöht Bedarf /
   KdU Eilantrag      senkt Anrechnung)
 ```
 
@@ -146,5 +146,5 @@ BK 3101 (BGW)
 
 ---
 
-*Vertraulich – Kanzlei Sonnemann Sozialrecht Leipzig*  
+*Vertraulich – Kanzlei Sonnemann Sozialrecht Leipzig*
 *Stand: 07.03.2026*

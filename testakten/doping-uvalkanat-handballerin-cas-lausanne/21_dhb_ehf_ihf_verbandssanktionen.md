@@ -1,7 +1,7 @@
 # 21 — Verbandssanktionen: DHB-Bundeskaderausschluss, EHF/IHF-Wechselsperre
 
-**Erstellt:** 05.05.2026  
-**Bearbeiter:** RA Prof. Dr. Markus Lentze / RAin Sophie Wenderlich  
+**Erstellt:** 05.05.2026
+**Bearbeiter:** RA Prof. Dr. Markus Lentze / RAin Sophie Wenderlich
 **AZ:** SU/DOPING/2026-001
 
 ---

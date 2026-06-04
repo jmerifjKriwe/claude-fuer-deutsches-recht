@@ -1,8 +1,8 @@
 # 14 — Antitrust BKartA: Fusionskontrolle Phase I (B 8-188/26)
 
-**Datum:** 15. Januar 2026  
-**Bearbeiter:** RAin Dr. Antonia von Wesselburen (Antitrust), RA Prof. Dr. Felix Mannfeldt  
-**Aktenzeichen BKartA:** B 8-188/26  
+**Datum:** 15. Januar 2026
+**Bearbeiter:** RAin Dr. Antonia von Wesselburen (Antitrust), RA Prof. Dr. Felix Mannfeldt
+**Aktenzeichen BKartA:** B 8-188/26
 **Referat:** Beschlussabteilung 8 (Medizintechnik und Pharma)
 
 ---

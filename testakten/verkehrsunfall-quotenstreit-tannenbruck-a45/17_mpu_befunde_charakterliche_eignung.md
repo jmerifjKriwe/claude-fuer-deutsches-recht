@@ -1,9 +1,9 @@
 # MPU-Befunde und Beurteilung charakterliche Eignung
 
-**Dokument:** Vorbericht / Simulationsprotokoll DEKRA-Beratung  
-**Beraterin:** Dipl.-Psych. Andrea Rehkopf, DEKRA Automobil GmbH, Essen  
-**Termin:** 27.01.2026 (Erstgespräch), 03.03.2026 (Zwischengespräch)  
-**Mandant:** Holger Tannenbruck, geb. 17.03.1973  
+**Dokument:** Vorbericht / Simulationsprotokoll DEKRA-Beratung
+**Beraterin:** Dipl.-Psych. Andrea Rehkopf, DEKRA Automobil GmbH, Essen
+**Termin:** 27.01.2026 (Erstgespräch), 03.03.2026 (Zwischengespräch)
+**Mandant:** Holger Tannenbruck, geb. 17.03.1973
 
 ---
 
@@ -105,5 +105,5 @@ Tannenbrucks Antwort: *„Eine Garantie kann niemand geben. Aber ich habe Strukt
 
 ---
 
-*Protokoll: Dipl.-Psych. A. Rehkopf, DEKRA Automobil GmbH Essen — Stand 05.03.2026*  
+*Protokoll: Dipl.-Psych. A. Rehkopf, DEKRA Automobil GmbH Essen — Stand 05.03.2026*
 *In Kopie an RA Sebastian Hoffmann (mit Zustimmung Mandant)*

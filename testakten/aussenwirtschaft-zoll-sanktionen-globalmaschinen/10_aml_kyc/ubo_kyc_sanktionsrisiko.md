@@ -1,10 +1,10 @@
 # UBO/KYC-Bericht: Endkunden-Prüfung und Sanktionsrisikobewertung
 
-**Dokumenttyp:** KYC-Bericht / Enhanced Due Diligence  
-**Aktenzeichen:** GM-KYC-2026-022  
-**Erstellt:** 17. April 2026  
-**Verfasser:** Franziska Mehlhorn, Compliance-Analystin  
-**Geprüft:** Dr. Sabine Brennecke, Syndikusrechtsanwältin  
+**Dokumenttyp:** KYC-Bericht / Enhanced Due Diligence
+**Aktenzeichen:** GM-KYC-2026-022
+**Erstellt:** 17. April 2026
+**Verfasser:** Franziska Mehlhorn, Compliance-Analystin
+**Geprüft:** Dr. Sabine Brennecke, Syndikusrechtsanwältin
 **Status:** Eskalation – EDD abgeschlossen, Empfehlung: Geschäftsbeziehung vorerst nicht aufnehmen
 
 ---
@@ -157,5 +157,5 @@ Die Hausbank der Globalmaschinen GmbH (BW-Bank Stuttgart) hat eine Enhanced Due 
 
 ---
 
-*GM-KYC-2026-022 | Franziska Mehlhorn, Compliance-Analystin | 17.04.2026*  
+*GM-KYC-2026-022 | Franziska Mehlhorn, Compliance-Analystin | 17.04.2026*
 *Geprüft: Dr. Sabine Brennecke, Syndikusrechtsanwältin | 17.04.2026*

@@ -1,7 +1,7 @@
 # Zugang von Willenserklärungen — § 130 BGB: Anfechtungserklärung und Genehmigungsverweigerung
 
-**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg  
-**Datum:** 28. April 2026  
+**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg
+**Datum:** 28. April 2026
 **Bezug:** Zugang Anfechtungserklärung bei Ratschke; Zugang Genehmigungsverweigerung bei Meißen GmbH
 
 ---
@@ -107,9 +107,9 @@ Die Willenserklärung kann widerrufen werden, wenn der Widerruf gleichzeitig ode
     [6] Zugangsvereitelung: § 242 BGB → fingierter Zugang
 ```
 
-**Quellen:**  
-§ 130 BGB: https://dejure.org/gesetze/BGB/130.html  
-BGH NJW 2004, 1320 (Briefkasten-Zugang): https://www.bundesgerichtshof.de  
-BGH NJW 1988, 2109 (Empfangsbote, Familienmitglied): https://www.bundesgerichtshof.de  
-BGH NJW 2019, 607 (Zugang E-Mail): https://www.bundesgerichtshof.de  
+**Quellen:**
+§ 130 BGB: https://dejure.org/gesetze/BGB/130.html
+BGH NJW 2004, 1320 (Briefkasten-Zugang): https://www.bundesgerichtshof.de
+BGH NJW 1988, 2109 (Empfangsbote, Familienmitglied): https://www.bundesgerichtshof.de
+BGH NJW 2019, 607 (Zugang E-Mail): https://www.bundesgerichtshof.de
 BGH NJW 2001, 1811 (Zugangsvereitelung, § 242 BGB): https://openjur.de

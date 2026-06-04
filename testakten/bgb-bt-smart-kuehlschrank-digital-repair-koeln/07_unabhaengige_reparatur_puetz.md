@@ -1,6 +1,6 @@
 # Reparaturversuch Kältewerkstatt Pütz & Söhne
 
-**Termin:** 03.05.2026  
+**Termin:** 03.05.2026
 **Techniker:** Kälteanlagenbauermeister Gregor Pütz
 
 Befund:

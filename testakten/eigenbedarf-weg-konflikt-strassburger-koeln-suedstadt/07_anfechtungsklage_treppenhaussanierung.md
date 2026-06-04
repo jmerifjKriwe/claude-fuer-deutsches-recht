@@ -1,26 +1,26 @@
 # Anfechtungsklage – Beschluss Treppenhaussanierung
 
-**Amtsgericht Köln**  
-Justizzentrum Köln  
-Luxemburger Straße 101  
+**Amtsgericht Köln**
+Justizzentrum Köln
+Luxemburger Straße 101
 50939 Köln
 
 Köln, den **12. Mai 2026**
 
 ---
 
-**Kläger:**  
-1. Dr. Cornelia Straßburger, Bachemer Straße 84, 50931 Köln-Lindenthal  
-2. Dr. Boris Straßburger-Möhren, Bachemer Straße 84, 50931 Köln-Lindenthal  
+**Kläger:**
+1. Dr. Cornelia Straßburger, Bachemer Straße 84, 50931 Köln-Lindenthal
+2. Dr. Boris Straßburger-Möhren, Bachemer Straße 84, 50931 Köln-Lindenthal
 
-*(beide vertreten durch)*  
-**Rechtsanwältin Vanessa Hauck-Brüggemann**  
-Fachanwältin für Miet- und WEG-Recht  
-Kanzlei Hauck-Brüggemann Mietrecht  
+*(beide vertreten durch)*
+**Rechtsanwältin Vanessa Hauck-Brüggemann**
+Fachanwältin für Miet- und WEG-Recht
+Kanzlei Hauck-Brüggemann Mietrecht
 Berrenrather Straße 114, 50937 Köln-Sülz
 
-**Beklagte:**  
-Die übrigen Wohnungseigentümer der Gemeinschaft Rolandstraße 27a, 50677 Köln  
+**Beklagte:**
+Die übrigen Wohnungseigentümer der Gemeinschaft Rolandstraße 27a, 50677 Köln
 (WEG vertreten durch Verwalterin: Immobilienverwaltung Rheineck GmbH, Kerpener Straße 77, 50937 Köln)
 
 ---
@@ -29,12 +29,12 @@ Die übrigen Wohnungseigentümer der Gemeinschaft Rolandstraße 27a, 50677 Köln
 
 In dem Rechtsstreit
 
-**Dr. Cornelia Straßburger und Dr. Boris Straßburger-Möhren**  
+**Dr. Cornelia Straßburger und Dr. Boris Straßburger-Möhren**
 – Kläger –
 
 gegen
 
-**die Wohnungseigentümergemeinschaft Rolandstraße 27a, 50677 Köln (übrige Eigentümer)**  
+**die Wohnungseigentümergemeinschaft Rolandstraße 27a, 50677 Köln (übrige Eigentümer)**
 – Beklagte –
 
 erheben wir namens und in Vollmacht der Kläger
@@ -123,14 +123,14 @@ Mit freundlichen Grüßen
 
 **Hauck-Brüggemann Mietrecht**
 
-_________________________  
-Vanessa Hauck-Brüggemann  
+_________________________
+Vanessa Hauck-Brüggemann
 Rechtsanwältin, Fachanwältin für Miet- und WEG-Recht
 
 ---
 
-**Anlagen:**  
-K-1: Gutachten Möhren+Partner  
-K-2: Protokoll EV 14.04.2026  
-K-3a–c: Kostenvoranschläge Restauratoren  
+**Anlagen:**
+K-1: Gutachten Möhren+Partner
+K-2: Protokoll EV 14.04.2026
+K-3a–c: Kostenvoranschläge Restauratoren
 Vollmacht der Kläger

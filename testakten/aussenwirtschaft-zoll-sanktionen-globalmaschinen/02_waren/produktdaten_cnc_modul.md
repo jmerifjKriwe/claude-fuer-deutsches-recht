@@ -1,9 +1,9 @@
 # Produktdaten und Klassifizierungsbegründung: CNC-Steuermodul GX-900
 
-**Dokumenttyp:** Technisches Datenblatt / Klassifizierungsmemo  
-**Erstellt:** 14. April 2026  
-**Verfasser:** Dipl.-Ing. Rainer Hofstädter, Exportkontrollbeauftragter  
-**Aktenzeichen:** GM-EK-2026-041  
+**Dokumenttyp:** Technisches Datenblatt / Klassifizierungsmemo
+**Erstellt:** 14. April 2026
+**Verfasser:** Dipl.-Ing. Rainer Hofstädter, Exportkontrollbeauftragter
+**Aktenzeichen:** GM-EK-2026-041
 **Vertraulichkeit:** Intern / Für Behörden freigegeben
 
 ---

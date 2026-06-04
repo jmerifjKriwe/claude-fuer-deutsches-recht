@@ -1,7 +1,7 @@
 # Interne Notiz Partnerauftrag
 
-**Von:** RAin Dr. Veerena Kalmus  
-**An:** IP-Team Produktdesign  
+**Von:** RAin Dr. Veerena Kalmus
+**An:** IP-Team Produktdesign
 **Datum:** 25.05.2026, 19:20 Uhr
 
 Bitte bis morgen 12:00 Uhr eine entscheidungsfähige Kurzlage zum L-27. Die Mandantin schwankt zwischen sofortiger Abmahnung, stiller Registeranmeldung und erstem Testkauf. Sie hat Angst, dass Nordufer den Marktstart zerstört, möchte aber keine eV verlieren, wenn der eigene Agenturpost die Sache verkompliziert.

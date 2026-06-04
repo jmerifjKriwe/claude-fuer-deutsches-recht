@@ -1,7 +1,7 @@
 # 17 Erinnerung § 766 ZPO — Pruefung Schuldnerrechtsbehelf
 
-**Akte:** MR-2026-ZV-0188  
-**Datum:** 02.02.2026  
+**Akte:** MR-2026-ZV-0188
+**Datum:** 02.02.2026
 **Anlass:** Schuldner haben Erinnerung gemäß § 766 ZPO gegen PfUEB-Vollziehung angekündigt
 
 ---

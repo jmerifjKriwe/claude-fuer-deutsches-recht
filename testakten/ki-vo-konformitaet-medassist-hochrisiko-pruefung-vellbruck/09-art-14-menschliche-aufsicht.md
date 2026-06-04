@@ -1,8 +1,8 @@
 # Aktenstück 09 — Art. 14 KI-VO: Menschliche Aufsicht — Kernbefund
 
-**Aktenzeichen:** 2026-V-0427  
-**Erstellt:** 04.04.2026  
-**Bearbeitung:** RAin Dr. Henrietta Vellbruck-Steinheim  
+**Aktenzeichen:** 2026-V-0427
+**Erstellt:** 04.04.2026
+**Bearbeitung:** RAin Dr. Henrietta Vellbruck-Steinheim
 **Rechtsgrundlage:** Art. 14 KI-VO (EU) 2024/1689
 
 ---
@@ -78,10 +78,10 @@ Am 04.04.2026 hat RAin Dr. Vellbruck-Steinheim CEO Dr. Vogelkamp und CTO Krishna
 
 ## 6. Gesamtbewertung Art. 14
 
-**Art. 14 KI-VO: NICHT konform. Gravierendstes Defizit der Prüfung.**  
+**Art. 14 KI-VO: NICHT konform. Gravierendstes Defizit der Prüfung.**
 In 14 von 18 Kliniken fehlt die technisch erzwungene menschliche Aufsicht vollständig. Sofortmaßnahmen wurden eingeleitet. Vollständige Konformität erfordert technische Umsetzung, Schulung und Protokollierung bis 30.06.2026 (Puffer vor Frist 02.08.2026).
 
 ---
 
-*Heidelberg, 04.04.2026*  
+*Heidelberg, 04.04.2026*
 *RAin Dr. Henrietta Vellbruck-Steinheim — Az. 2026-V-0427*

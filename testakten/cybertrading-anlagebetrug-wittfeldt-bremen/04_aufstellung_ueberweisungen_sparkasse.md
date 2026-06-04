@@ -1,8 +1,8 @@
 # Aufstellung der Überweisungen – Sparkasse Bremen
 
-**Aktenzeichen:** PS-BKR-2026-0412  
-**Erstellt:** 08.04.2026 auf Basis von Kontoauszügen der Sparkasse Bremen (Kopien beigefügt, Aktenstück 04-Anlage)  
-**Konto Wittfeldt:** DE44 2905 0101 1004 8830 12 (Girokonto) · Sparkasse Bremen · BIC: SBREDE22XXX  
+**Aktenzeichen:** PS-BKR-2026-0412
+**Erstellt:** 08.04.2026 auf Basis von Kontoauszügen der Sparkasse Bremen (Kopien beigefügt, Aktenstück 04-Anlage)
+**Konto Wittfeldt:** DE44 2905 0101 1004 8830 12 (Girokonto) · Sparkasse Bremen · BIC: SBREDE22XXX
 
 ---
 
@@ -81,5 +81,5 @@ Die Überweisungen wiesen folgende Muster auf, die typischerweise als Money-Mule
 
 ---
 
-*Erstellt: 08.04.2026 · Dr. S. Pflüger*  
+*Erstellt: 08.04.2026 · Dr. S. Pflüger*
 *Quelle: Kontoauszüge Sparkasse Bremen (Kopien in Papierakte, Anlage 04-A bis 04-G)*

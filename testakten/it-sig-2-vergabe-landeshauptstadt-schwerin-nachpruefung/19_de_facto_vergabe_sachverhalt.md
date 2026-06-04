@@ -1,8 +1,8 @@
 # Aktenstück 19 – De-facto-Vergabe: Sachverhaltsdarstellung SOC-Pilotbetrieb 12/2025
 
-**Aktenzeichen:** VK 1-32/26 (Hauptverfahren) / gesondertes Verfahren vorgesehen  
-**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026  
-**Datum:** 30.06.2026  
+**Aktenzeichen:** VK 1-32/26 (Hauptverfahren) / gesondertes Verfahren vorgesehen
+**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026
+**Datum:** 30.06.2026
 **Erstellt von:** RA Dr. Constantin Bährens (interne Sachverhaltsdarstellung)
 
 ---
@@ -37,12 +37,12 @@ Die Vergabestelle behauptet, der Auftragswert habe 48.000 EUR netto betragen. Da
 
 Diese Einschätzung ist aus mehreren Gründen zweifelhaft:
 
-**a) Gesamtbetrachtung und unzulässige Auftragsstückelung:**  
+**a) Gesamtbetrachtung und unzulässige Auftragsstückelung:**
 Wenn der SOC-Pilotbetrieb als Vorläufer des streitgegenständlichen Hauptauftrags (LH-SN-Cyber-SOC-NSV-2026) angelegt war und ProtectIT SE dadurch einen faktischen Bewerbervorteil (Marktzugang, Kenntnis der NSV-Infrastruktur) erhielt, stellt der Pilot einen Teil des Gesamtauftrags dar. In diesem Fall wäre der Gesamtauftragswert (2.800.000 EUR + 48.000 EUR) anzusetzen; der EU-Schwellenwert wäre eindeutig überschritten.
 
 § 3 Abs. 2 VgV verbietet die Stückelung von Aufträgen zur Unterschreitung von Schwellenwerten. Die OLG-Rechtsprechung (vgl. OLG Celle, Beschluss v. 19.02.2015 – 13 Verg 8/14) ordnet auch zeitlich vorgelagerte Aufträge dem Gesamtauftrag zu, wenn ein funktionaler Zusammenhang besteht.
 
-**b) Notstandsvergabe fraglich:**  
+**b) Notstandsvergabe fraglich:**
 Die Vergabestelle hat in der VK-Verhandlung eine „Notstandsvergabe" nach § 14 Abs. 4 Nr. 3 VgV geltend gemacht. Eine Notstandsvergabe setzt voraus, dass unvorhergesehene Ereignisse eine dringende, nicht aufschiebbare Vergabe erfordern. Der BSI-Audit-Bericht vom November 2024 war jedoch vorhersehbar (KRITIS-Nachweisverfahren alle 2 Jahre). Zwischen November 2024 und Dezember 2025 lagen 13 Monate – ausreichend für ein vereinfachtes Vergabeverfahren.
 
 #### 3.2 Rechtsfolge: De-facto-Vergabe § 135 GWB

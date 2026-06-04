@@ -1,11 +1,11 @@
 # 05 — BPatG Nichtigkeitsklage 4 Ni 18/26: Analyse und Erwiderungsstrategie
 
-**Aktenzeichen intern:** VM-2026-GR-001  
-**BPatG-Aktenzeichen:** 4 Ni 18/26  
-**Gericht:** Bundespatentgericht München, 4. Senat (Nichtigkeitssenat)  
-**Kläger (Nichtigkeitsklage):** Bochstaedt MedSupply OHG, Aalen  
-**Beklagter (Patentinhaber):** Vellbruck Medizintechnik GmbH, Stuttgart-Vaihingen  
-**Datum Klagezustellung:** 20. März 2026  
+**Aktenzeichen intern:** VM-2026-GR-001
+**BPatG-Aktenzeichen:** 4 Ni 18/26
+**Gericht:** Bundespatentgericht München, 4. Senat (Nichtigkeitssenat)
+**Kläger (Nichtigkeitsklage):** Bochstaedt MedSupply OHG, Aalen
+**Beklagter (Patentinhaber):** Vellbruck Medizintechnik GmbH, Stuttgart-Vaihingen
+**Datum Klagezustellung:** 20. März 2026
 **Bearbeiter:** PatAnw. Dr. Rolf Gruhl (Gruhl & Teichmann) / RA Dr. Birkenhainer
 
 ---

@@ -1,8 +1,8 @@
 # Aktenstück 03 – Eignungsanforderungen und Kriterienkatalog
 
-**Aktenzeichen:** VK 1-32/26  
-**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026  
-**Dokument-Typ:** Teil B Vergabeunterlagen – Eignungsanforderungen und Zuschlagskriterien  
+**Aktenzeichen:** VK 1-32/26
+**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026
+**Dokument-Typ:** Teil B Vergabeunterlagen – Eignungsanforderungen und Zuschlagskriterien
 **Version:** 1.0 vom 27.02.2026
 
 ---
@@ -60,7 +60,7 @@ Der Zuschlag wird auf das wirtschaftlich günstigste Angebot nach dem Preis-Leis
 
 #### 2.2 Bewertungsmatrix ZK-1 (Preis)
 
-Niedrigstes Angebot erhält 40 Punkte. Weitere Angebote:  
+Niedrigstes Angebot erhält 40 Punkte. Weitere Angebote:
 Punkte = 40 × (Niedrigstsangebot / Angebotspreis)
 
 #### 2.3 Bewertungsmatrix ZK-2 (Qualität SOC-Konzept)

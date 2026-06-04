@@ -1,10 +1,10 @@
 # 01 — Mandatsaufnahme und Erstnotiz
 
-**Kanzlei:** Dr. Volkmar Trautmann & Coll., Patentanwälte und Rechtsanwälte, Q 7 15, 68161 Mannheim  
-**Sachbearbeiter:** RA Philipp Mertens-Waldhausen  
-**Datum:** 14. April 2026  
-**Mandantin:** Leichtenstein Gartenkultur Manufaktur GmbH, Neckarstraße 118, 69412 Eberbach am Neckar  
-**Gesprächsteilnehmer:** Reinhilde Leichtenstein-Bauernfeind (GF), Betriebsleiter Horst Schäuble-Grundmann  
+**Kanzlei:** Dr. Volkmar Trautmann & Coll., Patentanwälte und Rechtsanwälte, Q 7 15, 68161 Mannheim
+**Sachbearbeiter:** RA Philipp Mertens-Waldhausen
+**Datum:** 14. April 2026
+**Mandantin:** Leichtenstein Gartenkultur Manufaktur GmbH, Neckarstraße 118, 69412 Eberbach am Neckar
+**Gesprächsteilnehmer:** Reinhilde Leichtenstein-Bauernfeind (GF), Betriebsleiter Horst Schäuble-Grundmann
 
 ---
 
@@ -85,6 +85,6 @@ Ein Prozesskostenvorschuss von 15.000 EUR wird von der Mandantin bis zum 21. Apr
 
 ---
 
-**Nächster Besprechungstermin:** 21. April 2026, 10:00 Uhr  
-**Bearbeiter:** RA Philipp Mertens-Waldhausen  
+**Nächster Besprechungstermin:** 21. April 2026, 10:00 Uhr
+**Bearbeiter:** RA Philipp Mertens-Waldhausen
 **Abzeichnung:** PA Dr. Volkmar Trautmann

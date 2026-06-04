@@ -1,10 +1,10 @@
 # Kanzleinotiz — Strategiekonferenz Bankert
 
-**Marx Strafverteidigung Frankfurt**  
-**Vertraulich — Anwaltsgeheimnis § 53 StPO**  
-Datum: 20. Mai 2025, 14:00–17:30 Uhr  
-Ort: Kanzlei Marx Strafverteidigung Frankfurt, Bockenheimer Landstraße 84, Besprechungsraum 2  
-Teilnehmer: Dr. Friederike Marx (Verteidigerin), Dipl.-Kfm. Olaf Strenger (wirtschaftlicher Berater, extern), RAin Kirsten Dabel (assoziierte Anwältin, Steuerrecht), Stud. jur. Maximilian Probst (Referendar)  
+**Marx Strafverteidigung Frankfurt**
+**Vertraulich — Anwaltsgeheimnis § 53 StPO**
+Datum: 20. Mai 2025, 14:00–17:30 Uhr
+Ort: Kanzlei Marx Strafverteidigung Frankfurt, Bockenheimer Landstraße 84, Besprechungsraum 2
+Teilnehmer: Dr. Friederike Marx (Verteidigerin), Dipl.-Kfm. Olaf Strenger (wirtschaftlicher Berater, extern), RAin Kirsten Dabel (assoziierte Anwältin, Steuerrecht), Stud. jur. Maximilian Probst (Referendar)
 Protokoll: RAin Dabel (redigiert Dr. Marx, 21.05.2025)
 
 ---
@@ -112,5 +112,5 @@ Insolvenzgefahr der BIA GmbH: Dabel leitet an Insolvenzberater Kanzlei Reinhart 
 
 ---
 
-*Nächste Konferenz: 02.06.2025, 10:00 Uhr — Dr. Marx*  
+*Nächste Konferenz: 02.06.2025, 10:00 Uhr — Dr. Marx*
 *Dr. Friederike Marx — Marx Strafverteidigung Frankfurt — Az. 5/28 KLs 122/25*

@@ -1,9 +1,9 @@
 # KI-DD-Transparenzlog — Projekt Silberfalke
 
-**Aktenzeichen:** MA-2026-SF-001  
-**Erstellt:** 20.04.2026  
-**Letzte Aktualisierung:** 18.05.2026  
-**Verfasser:** Associate B (DD-Koordination)  
+**Aktenzeichen:** MA-2026-SF-001
+**Erstellt:** 20.04.2026
+**Letzte Aktualisierung:** 18.05.2026
+**Verfasser:** Associate B (DD-Koordination)
 **Zweck:** Dokumentation des KI-unterstützten Dokumentenreviews für W&I-Underwriting-Pack und interne Qualitätssicherung
 
 ---
@@ -78,10 +78,10 @@ Im Rahmen der Legal Due Diligence wurden 847 Vertragsdokumente aus dem Datenraum
 
 Dieser Transparenzlog wird dem W&I-Underwriter (BlueSky Re) als Teil des Underwriting Packs übergeben. Folgende Einschränkungen gelten:
 
-- Die Stichprobenquote und Methodik wird offengelegt  
-- Spezifische Tool-Namen und -Versionen werden nicht offengelegt (kein Underwriting-Recht auf Einsicht in proprietäre Software)  
-- Alle roten Findings wurden manuell verifiziert — dies wird ausdrücklich bestätigt  
-- KI-Ergebnisse ersetzen nicht die anwaltliche Beurteilung; alle Rechtsfragen wurden durch qualifizierte Anwälte beurteilt  
+- Die Stichprobenquote und Methodik wird offengelegt
+- Spezifische Tool-Namen und -Versionen werden nicht offengelegt (kein Underwriting-Recht auf Einsicht in proprietäre Software)
+- Alle roten Findings wurden manuell verifiziert — dies wird ausdrücklich bestätigt
+- KI-Ergebnisse ersetzen nicht die anwaltliche Beurteilung; alle Rechtsfragen wurden durch qualifizierte Anwälte beurteilt
 
 ---
 

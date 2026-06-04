@@ -56,13 +56,13 @@ Die Antragstellerin macht die Tatsachen glaubhaft durch eidesstattliche Versiche
 
 ## VI. Anlagen
 
-A 1 Ausschreibung vom 04.02.2026  
-A 2 Bewerbung der Antragstellerin vom 17.02.2026  
-A 3 Konkurrentenmitteilung vom 03.06.2026  
-A 4 Auswahlvermerk vom 22.05.2026  
-A 5 Dienstliche Beurteilung und Widerspruch  
-A 6 Belastungszahlen und Verfahrensliste 2024/2025  
-A 7 Gesprächsvermerk OLG-Präsidentin  
-A 8 Präsidialratsauszug  
-A 9 Akteneinsichtskorrespondenz  
+A 1 Ausschreibung vom 04.02.2026
+A 2 Bewerbung der Antragstellerin vom 17.02.2026
+A 3 Konkurrentenmitteilung vom 03.06.2026
+A 4 Auswahlvermerk vom 22.05.2026
+A 5 Dienstliche Beurteilung und Widerspruch
+A 6 Belastungszahlen und Verfahrensliste 2024/2025
+A 7 Gesprächsvermerk OLG-Präsidentin
+A 8 Präsidialratsauszug
+A 9 Akteneinsichtskorrespondenz
 A 10 Eidesstattliche Versicherung Dr. Mondsee

@@ -1,8 +1,8 @@
 # Prüfungsterminmappe – Prüfungstermin 25. Juni 2026
 
-**Aktenzeichen:** 35 IN 417/26  
-**Insolvenzverwalter:** RA Dr. Konrad Muster  
-**Termin:** Donnerstag, 25. Juni 2026, 10:00 Uhr, AG Potsdam, Saal 2.14  
+**Aktenzeichen:** 35 IN 417/26
+**Insolvenzverwalter:** RA Dr. Konrad Muster
+**Termin:** Donnerstag, 25. Juni 2026, 10:00 Uhr, AG Potsdam, Saal 2.14
 **Vorbereitet durch:** Doris Felgner, Kanzlei Muster & Partner, Stand: 22. Juni 2026
 
 ---
@@ -119,8 +119,8 @@
 
 ## 4. Verspätete Anmeldung – Sonnenkollektoren Direkt eK
 
-**Eingang:** 10. Juni 2026 (6 Tage nach Fristablauf)  
-**Angemeldeter Betrag:** 7.800,00 EUR  
+**Eingang:** 10. Juni 2026 (6 Tage nach Fristablauf)
+**Angemeldeter Betrag:** 7.800,00 EUR
 **Maßnahme:** Informationsschreiben vom 15. Juni 2026 verschickt. Gesonderter Prüftermin auf Kosten des Gläubigers zu beantragen (§ 177 Abs. 1 InsO).
 
 ---

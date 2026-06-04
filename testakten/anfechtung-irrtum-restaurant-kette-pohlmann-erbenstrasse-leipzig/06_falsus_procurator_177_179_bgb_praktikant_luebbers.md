@@ -1,7 +1,7 @@
 # Gutachten: Schwebende Unwirksamkeit und Haftung falsus procurator — §§ 177, 179 BGB
 
-**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg  
-**Datum:** 24. März 2026  
+**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg
+**Datum:** 24. März 2026
 **Bezug:** Containerbestellung Kevin Lübbers / Containerlogistik Meißen GmbH; AG Leipzig 105 C 4188/26
 
 ---
@@ -93,8 +93,8 @@ Wusste der Vertreter den Mangel der Vertretungsmacht nicht, haftet er nur auf Sc
 
 **Empfehlung für Mandantin:** Genehmigung verweigern (bereits erfolgt). Gegenüber Meißen GmbH erklären, dass Lübbers ohne Vollmacht handelte und GmbH nicht haftet. Falls Meißen GmbH klagt: Einrede Nichtgenehmigung und Minderjährigenschutz Lübbers.
 
-**Quellen:**  
-§§ 164, 177, 179 BGB: https://dejure.org/gesetze/BGB/177.html  
-BGH NJW 1966, 1915 (Anscheinsvollmacht): https://www.bundesgerichtshof.de  
-BGH NJW 2005, 2080 (falsus procurator, Minderjähriger): https://openjur.de  
+**Quellen:**
+§§ 164, 177, 179 BGB: https://dejure.org/gesetze/BGB/177.html
+BGH NJW 1966, 1915 (Anscheinsvollmacht): https://www.bundesgerichtshof.de
+BGH NJW 2005, 2080 (falsus procurator, Minderjähriger): https://openjur.de
 Staudinger/Schilken BGB (2019), § 179 Rn. 46 ff.

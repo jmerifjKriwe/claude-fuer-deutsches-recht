@@ -1,9 +1,9 @@
 # Aktenstück 18 – Sofortige Beschwerde OLG Düsseldorf (Verg 18/26)
 
-**Aktenzeichen OLG:** Verg 18/26  
-**Aktenzeichen VK:** VK 1-32/26  
-**Datum:** 09.07.2026  
-**Von:** RAin Dr. Sandra Mertke (für Antragsgegnerin)  
+**Aktenzeichen OLG:** Verg 18/26
+**Aktenzeichen VK:** VK 1-32/26
+**Datum:** 09.07.2026
+**Von:** RAin Dr. Sandra Mertke (für Antragsgegnerin)
 **An:** Oberlandesgericht Düsseldorf, Vergabesenat
 
 ---
@@ -12,25 +12,25 @@
 
 gemäß § 171 GWB
 
-**Beschwerdeführerin (Antragsgegnerin):**  
-Landeshauptstadt Schwerin / Eigenbetrieb SDS  
+**Beschwerdeführerin (Antragsgegnerin):**
+Landeshauptstadt Schwerin / Eigenbetrieb SDS
 vertreten durch: RAin Dr. Sandra Mertke, Kanzlei Vergaberecht Nord, Rostock
 
-**Beschwerdegegnerin (Antragstellerin):**  
-CyberShield Defense GmbH, Berlin  
+**Beschwerdegegnerin (Antragstellerin):**
+CyberShield Defense GmbH, Berlin
 vertreten durch: RA Dr. Constantin Bährens, Berlin
 
-**Beigeladene:**  
+**Beigeladene:**
 ProtectIT SE, Bonn
 
 gegen den **Beschluss der Vergabekammer des Bundes, VK 1, vom 25.06.2026** (Az. VK 1-32/26)
 
 ---
 
-An das  
-Oberlandesgericht Düsseldorf  
-– Vergabesenat –  
-Cecilienallee 3  
+An das
+Oberlandesgericht Düsseldorf
+– Vergabesenat –
+Cecilienallee 3
 40474 Düsseldorf
 
 Rostock, 09. Juli 2026
@@ -77,12 +77,12 @@ Die Beschwerdeführerin beantragt:
 
 3. Der Beschwerdegegnerin die Kosten des gesamten Verfahrens (VK und OLG) aufzuerlegen.
 
-**Hilfsweise:**  
+**Hilfsweise:**
 Aufhebung des Beschlusses hinsichtlich Tenor II (Ausschluss überarbeitetes Reaktionszeitenkonzept) und Zurückverweisung an die VK zur erneuten Sachentscheidung.
 
 ---
 
-RAin Dr. Sandra Mertke  
+RAin Dr. Sandra Mertke
 Kanzlei Vergaberecht Nord
 
 ---

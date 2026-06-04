@@ -1,6 +1,6 @@
 # 13 — Verjährungsprüfung
 
-**AZ:** 8 O 188/26  
+**AZ:** 8 O 188/26
 **Rechtsgrundlagen:** § 634a BGB, § 13 Nr. 4 VOB/B, §§ 195 ff. BGB
 
 ---

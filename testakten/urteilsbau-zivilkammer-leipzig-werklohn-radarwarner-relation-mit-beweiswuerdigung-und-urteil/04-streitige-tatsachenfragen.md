@@ -1,7 +1,7 @@
 # 04 — Streitige Tatsachenfragen
 
-**AZ:** 8 O 188/26  
-**Erstellerin:** Dr. Tannenberg-Eichmueller  
+**AZ:** 8 O 188/26
+**Erstellerin:** Dr. Tannenberg-Eichmueller
 **Stand:** Nach mündlicher Verhandlung 12.06.2026
 
 ---

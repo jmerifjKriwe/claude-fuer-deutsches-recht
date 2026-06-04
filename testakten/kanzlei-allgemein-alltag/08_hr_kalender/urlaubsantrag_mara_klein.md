@@ -1,10 +1,10 @@
 # Urlaubsantrag — Mara Klein
 
-**Antrag-Nr.:** HR-2026-U-005  
-**Eingangsdatum:** 19.05.2026  
-**Antragstellerin:** Mara Klein, Kanzleiassistentin  
-**Arbeitgeber:** Jana Reuter, Rechtsanwältin, Lindenstraße 14, 10969 Berlin  
-**Arbeitsverhältnis:** Vollzeit, 40 h/Woche, seit 01.07.2023  
+**Antrag-Nr.:** HR-2026-U-005
+**Eingangsdatum:** 19.05.2026
+**Antragstellerin:** Mara Klein, Kanzleiassistentin
+**Arbeitgeber:** Jana Reuter, Rechtsanwältin, Lindenstraße 14, 10969 Berlin
+**Arbeitsverhältnis:** Vollzeit, 40 h/Woche, seit 01.07.2023
 
 ---
 
@@ -27,8 +27,8 @@ Der Antrag wurde mündlich am 19.05.2026 gestellt und wird mit dieser Datei schr
 
 ## 2. Urlaubsanspruch und Resturlaub
 
-Gesetzlicher Mindesturlaub: 20 Arbeitstage (§ 3 BUrlG, 5-Tage-Woche).  
-Vertraglich vereinbarter Urlaub: 28 Arbeitstage.  
+Gesetzlicher Mindesturlaub: 20 Arbeitstage (§ 3 BUrlG, 5-Tage-Woche).
+Vertraglich vereinbarter Urlaub: 28 Arbeitstage.
 Urlaubsjahr 2026 — Übersicht:
 
 | Monat | Genommene Tage | Kumuliert genommen |

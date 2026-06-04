@@ -1,8 +1,8 @@
 # 10 — Designrecht: Neuheitsprüfung EU-Geschmacksmuster 008 412 661-0001
 
-**Bearbeiter:** PA Dr. Volkmar Trautmann  
-**Datum:** 25. Mai 2026  
-**Verfahren:** EUIPO Nichtigkeitsabteilung — Geschmacksmuster-Nichtigkeitsantrag Bouqart  
+**Bearbeiter:** PA Dr. Volkmar Trautmann
+**Datum:** 25. Mai 2026
+**Verfahren:** EUIPO Nichtigkeitsabteilung — Geschmacksmuster-Nichtigkeitsantrag Bouqart
 
 ---
 
@@ -18,7 +18,7 @@ Dieses Aktenstück analysiert die Neuheitsfrage und bereitet die Verteidigung de
 
 Gemäß Art. 5 der Gemeinschaftsgeschmacksmusterverordnung (Verordnung (EG) Nr. 6/2002, GGV) gilt ein Geschmacksmuster als neu, wenn dem einschlägigen Fachkreis kein identisches Muster vor dem Anmeldetag zugänglich gemacht worden ist. Identisch ist ein Muster, wenn sich die Merkmale nur in unwesentlichen Einzelheiten unterscheiden.
 
-**Anmeldedatum des Geschmacksmusters:** 15. März 2018  
+**Anmeldedatum des Geschmacksmusters:** 15. März 2018
 **Frage:** War dem einschlägigen Fachkreis vor dem 15. März 2018 ein identisches oder nahezu identisches Muster bekannt?
 
 ### 2.2 Eigenart nach Art. 6 GGV
@@ -52,10 +52,10 @@ Die Abbildung in dem Katalog zeigt eine stilisierte Blütenform auf einem gerade
 
 Ein schwarz-weiß Katalog aus dem Jahr 1962 ist in zweifacher Hinsicht kritisch zu prüfen:
 
-**a) Öffentliche Zugänglichkeit:**  
+**a) Öffentliche Zugänglichkeit:**
 Es ist nicht belegt, dass der Katalog dem einschlägigen Fachkreis (hier: Gartendekorations-Hersteller und -Händler im europäischen Raum) tatsächlich bekannt war. Ein Werkskatalog eines kleinen französischen Gießereibetriebs aus den 1960er Jahren hatte typischerweise eine sehr begrenzte Verbreitung. Bouqart muss nachweisen, dass der Katalog über Frankreich hinaus verbreitet war. Bloßes Besitzen eines Katalogexemplars reicht nicht aus.
 
-**b) Formidentität oder Ähnlichkeit:**  
+**b) Formidentität oder Ähnlichkeit:**
 Der Vergleich der abgebildeten Form mit dem eingetragenen Geschmacksmuster zeigt erhebliche Unterschiede in allen wesentlichen Merkmalen. Die Form im Katalog ist eine generische, schematische Blüte; das eingetragene Geschmacksmuster ist eine individuell gestaltete, dreidimensionale Skulptur mit spezifischen Proportionen. Beim informierten Benutzer lösen beide Formen einen grundverschiedenen Gesamteindruck aus.
 
 ## 4. Gegenbeweismittel und Verteidigung
@@ -92,5 +92,5 @@ Das EUIPO-Nichtigkeitsverfahren gegen das Geschmacksmuster befindet sich noch in
 
 ---
 
-**Erstellt von:** PA Dr. Volkmar Trautmann  
+**Erstellt von:** PA Dr. Volkmar Trautmann
 **Datum:** 25. Mai 2026

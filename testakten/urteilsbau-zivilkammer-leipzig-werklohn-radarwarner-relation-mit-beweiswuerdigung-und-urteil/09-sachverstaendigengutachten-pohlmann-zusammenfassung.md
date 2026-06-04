@@ -1,9 +1,9 @@
 # 09 — Privatgutachten Dipl.-Ing. Pohlmann — Zusammenfassung
 
-**AZ:** 8 O 188/26  
-**Gutachter:** Dipl.-Ing. Bertram Pohlmann, Pohlmann Bausachverstand GmbH, Ritterstraße 7, 04109 Leipzig  
-**Auftraggeber:** Radarwarner GmbH (Privat-/Parteigutachten)  
-**Datum:** 15.02.2026  
+**AZ:** 8 O 188/26
+**Gutachter:** Dipl.-Ing. Bertram Pohlmann, Pohlmann Bausachverstand GmbH, Ritterstraße 7, 04109 Leipzig
+**Auftraggeber:** Radarwarner GmbH (Privat-/Parteigutachten)
+**Datum:** 15.02.2026
 **Aktenzeichen Gutachter:** PBS-2026-041
 
 ---

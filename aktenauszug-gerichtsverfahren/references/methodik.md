@@ -1,7 +1,7 @@
 # Methodik: Strukturierter Aktenauszug für Gerichtsverfahren
 
-**Plugin:** aktenauszug-gerichtsverfahren  
-**Version:** 3.2.1  
+**Plugin:** aktenauszug-gerichtsverfahren
+**Version:** 3.2.1
 **Autor:** Klotzkette
 
 ---

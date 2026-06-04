@@ -4,28 +4,28 @@
 
 ---
 
-Kanzlei Sonnemann Sozialrecht Leipzig  
-Rechtsanwältin Marit Sonnemann  
-Fachanwältin für Sozialrecht  
-Karl-Liebknecht-Straße 14  
-04107 Leipzig  
-Tel.: 0341 / 58 82 100  
-Fax: 0341 / 58 82 101  
+Kanzlei Sonnemann Sozialrecht Leipzig
+Rechtsanwältin Marit Sonnemann
+Fachanwältin für Sozialrecht
+Karl-Liebknecht-Straße 14
+04107 Leipzig
+Tel.: 0341 / 58 82 100
+Fax: 0341 / 58 82 101
 
 ---
 
-**An die**  
-Deutsche Rentenversicherung Mitteldeutschland  
-Georg-Schumann-Straße 146  
-04155 Leipzig  
+**An die**
+Deutsche Rentenversicherung Mitteldeutschland
+Georg-Schumann-Straße 146
+04155 Leipzig
 
 Leipzig, den 12.03.2026
 
 ---
 
-**Aktenzeichen DRV:** xx 060379 41 W 077  
-**Versicherungsnummer:** 41 060379 V 084  
-**Mandantin:** Vivian Feldermann, geb. 03.09.1984, Bornaische Straße 78, 04277 Leipzig  
+**Aktenzeichen DRV:** xx 060379 41 W 077
+**Versicherungsnummer:** 41 060379 V 084
+**Mandantin:** Vivian Feldermann, geb. 03.09.1984, Bornaische Straße 78, 04277 Leipzig
 
 ---
 
@@ -70,8 +70,8 @@ Der angegriffene Bescheid stützt sich ausschließlich auf das Gutachten des Dr.
 
 Dr. Härtung stellt als Hauptdiagnose eine Anpassungsstörung (F43.2) fest. Nach den diagnostischen Kriterien des ICD-10 (Kap. F43.2) setzt eine Anpassungsstörung voraus:
 
-a) Identifizierbarer psychosozialer Belastungsfaktor  
-b) Symptombeginn innerhalb von einem Monat nach dem Stressor  
+a) Identifizierbarer psychosozialer Belastungsfaktor
+b) Symptombeginn innerhalb von einem Monat nach dem Stressor
 c) Dauer der Störung üblicherweise nicht länger als 6 Monate nach Ende der Belastung
 
 Bei meiner Mandantin bestehen die Symptome seit November 2021 — also über **vier Jahre** — unverändert fort. Der COVID-19-"Stressor" liegt noch länger zurück. Eine Anpassungsstörung ist nach den eigenen Kriterien dieser Diagnose ausgeschlossen.
@@ -92,7 +92,7 @@ Das Gutachten Dr. Härtung erwähnt die objektivierte POTS-Diagnose nicht. POTS 
 
 #### 4. Post-Exertional Malaise (PEM) – Kernmerkmal nicht bewertet
 
-Das Gutachten enthält keine Auseinandersetzung mit dem Phänomen der Post-Exertional Malaise (PEM), dem Kernsymptom von ME/CFS. PEM bedeutet, dass jegliche körperliche oder kognitive Aktivität über das individuelle Belastungsniveau hinaus zu einer mehrtägigen Zustandsverschlechterung führt. 
+Das Gutachten enthält keine Auseinandersetzung mit dem Phänomen der Post-Exertional Malaise (PEM), dem Kernsymptom von ME/CFS. PEM bedeutet, dass jegliche körperliche oder kognitive Aktivität über das individuelle Belastungsniveau hinaus zu einer mehrtägigen Zustandsverschlechterung führt.
 
 Dies hat für die Leistungsfähigkeitsbeurteilung eine entscheidende Bedeutung: Auch wenn Frau Feldermann an sogenannten "guten Tagen" für wenige Stunden tätig sein könnte, führt dies unweigerlich zu einem "Crash", der weitere Tage der vollständigen Arbeitsunfähigkeit nach sich zieht. Eine verlässliche, reproduzierbare Arbeitsleistung — wie sie der allgemeine Arbeitsmarkt voraussetzt (BSG, Urt. v. 14.09.1995, B 5 RJ 90/93 R) — ist daher ausgeschlossen. Die Sechs-Stunden-Grenze ist bei ME/CFS mit schwerem PEM selbst dann nicht erreichbar, wenn gelegentlich Leistungsspitzen vorkommen.
 
@@ -136,11 +136,11 @@ Ich beantrage:
 
 Mit freundlichen Grüßen
 
-**Marit Sonnemann**  
-Rechtsanwältin  
+**Marit Sonnemann**
+Rechtsanwältin
 Fachanwältin für Sozialrecht
 
 ---
 
-*Entwurf: RA Sonnemann, 12.03.2026*  
+*Entwurf: RA Sonnemann, 12.03.2026*
 *Kanzlei-AZ: SON-2026-0047-FEL*

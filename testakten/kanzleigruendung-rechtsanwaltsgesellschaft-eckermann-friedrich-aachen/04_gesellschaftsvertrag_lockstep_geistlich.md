@@ -1,8 +1,8 @@
 # 04 Gesellschaftsvertrag — Lockstep-Modell vs. Geistlich-Modell
 
-**Aktenzeichen:** KBH-2026-001-EFS  
-**Stand:** 15. März 2026  
-**Bearbeiterin:** RA Monika Hellwig  
+**Aktenzeichen:** KBH-2026-001-EFS
+**Stand:** 15. März 2026
+**Bearbeiterin:** RA Monika Hellwig
 
 ---
 
@@ -27,7 +27,7 @@ Dr. Friedrich schlägt vor:
   - Qualitätspunkte (interne Bewertung) 15 %
 - Dienstalter-Prämie: 1 % Aufschlag je vollendetem Kanzleijahr
 
-**Vorteil:** Starke Leistungsanreize; verhindert "Trittbrettfahrer-Probleme".  
+**Vorteil:** Starke Leistungsanreize; verhindert "Trittbrettfahrer-Probleme".
 **Nachteil:** Fördert interne Konkurrenz; kann Mandantenweiterleitung hemmen; administrativ aufwendig.
 
 ---
@@ -42,7 +42,7 @@ Das sog. Geistlich-Modell (nach dem Schweizer Anwaltsrechtler Friedrich Geistlic
 - Variabler Anteil: Max. 15 % des Jahresgewinns; Bemessung nach einvernehmlichem Beschluss der Gesellschafterversammlung
 - Keine individuelle Umsatzmessung; stattdessen Teamziele
 
-**Vorteil:** Fördert Kollaboration, Cross-Selling und Teamkultur; weniger Verwaltungsaufwand.  
+**Vorteil:** Fördert Kollaboration, Cross-Selling und Teamkultur; weniger Verwaltungsaufwand.
 **Nachteil:** Kann bei Leistungsunterschieden zu Unzufriedenheit führen; mangelnde Anreize für High-Performer.
 
 ---
@@ -92,7 +92,7 @@ Streitigkeiten aus dem Gesellschaftsvertrag werden durch ein Dreierschiedsgerich
 
 Der Gesellschaftsvertrag wird beurkundet durch Notar Dr. Hermann Küppers, Notariat Aachen-Süd, Templergraben 77, 52062 Aachen.
 
-**Notartermin:** 28. März 2026, 10:00 Uhr  
+**Notartermin:** 28. März 2026, 10:00 Uhr
 **Beglaubigte Abschriften** werden unmittelbar nach der Beurkundung an die RAK Aachen und das Amtsgericht Aachen (Handelsregister) übersandt.
 
 ---

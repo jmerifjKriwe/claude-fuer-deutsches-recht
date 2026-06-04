@@ -3,11 +3,11 @@
 
 ---
 
-**Ort:** Rolandstraße 27a, Erdgeschoss (Gemeinschaftsraum), 50677 Köln  
-**Datum:** Dienstag, 14. April 2026  
-**Beginn:** 18:30 Uhr  **Ende:** 22:15 Uhr  
-**Verwalter:** Immobilienverwaltung Rheineck GmbH, Kerpener Straße 77, 50937 Köln  
-**Versammlungsleiter:** Jürgen Rheineck (Geschäftsführer)  
+**Ort:** Rolandstraße 27a, Erdgeschoss (Gemeinschaftsraum), 50677 Köln
+**Datum:** Dienstag, 14. April 2026
+**Beginn:** 18:30 Uhr  **Ende:** 22:15 Uhr
+**Verwalter:** Immobilienverwaltung Rheineck GmbH, Kerpener Straße 77, 50937 Köln
+**Versammlungsleiter:** Jürgen Rheineck (Geschäftsführer)
 **Protokollführerin:** Sabine Krämer (Mitarbeiterin Rheineck GmbH)
 
 ---
@@ -30,14 +30,14 @@ Beschlussfähigkeit festgestellt (alle Einheiten vertreten).
 
 ### Tagesordnung
 
-1. Begrüßung und Feststellung der Beschlussfähigkeit  
-2. Genehmigung des Protokolls der außerordentlichen EV vom 17.11.2025  
-3. Jahresabrechnung 2025 und Entlastung des Verwalters  
-4. Wirtschaftsplan 2026 (Hausgeld)  
-5. **Beschluss: Treppenhaussanierung (Stuck, Parkett, Beleuchtung) inkl. Sonderumlage**  
-6. **Beschluss: Heizungsumstellung auf Sole-Wasser-Wärmepumpe (GEG)**  
-7. Verwalterwiederwahl  
-8. Sonstiges  
+1. Begrüßung und Feststellung der Beschlussfähigkeit
+2. Genehmigung des Protokolls der außerordentlichen EV vom 17.11.2025
+3. Jahresabrechnung 2025 und Entlastung des Verwalters
+4. Wirtschaftsplan 2026 (Hausgeld)
+5. **Beschluss: Treppenhaussanierung (Stuck, Parkett, Beleuchtung) inkl. Sonderumlage**
+6. **Beschluss: Heizungsumstellung auf Sole-Wasser-Wärmepumpe (GEG)**
+7. Verwalterwiederwahl
+8. Sonstiges
 
 ---
 
@@ -111,10 +111,10 @@ Keine weiteren Punkte.
 
 ---
 
-**Versammlungsleiter:** Jürgen Rheineck  
+**Versammlungsleiter:** Jürgen Rheineck
 **Protokollführerin:** Sabine Krämer
 
 *Köln, 20. April 2026*
 
-Unterschriften der erschienenen Eigentümer:  
+Unterschriften der erschienenen Eigentümer:
 Kowalczyk _____ / Pütz _____ / Warnecke _____ / Baier-Lichtenberg _____ / Baier-Lichtenberg _____ / **Straßburger (unter Vorbehalt der Anfechtung)** _____

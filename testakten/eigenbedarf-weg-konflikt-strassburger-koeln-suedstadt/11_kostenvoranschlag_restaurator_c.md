@@ -1,18 +1,18 @@
 # Kostenvoranschlag – Denkmalrestaurierung Kern & Partner, Köln (Vorzugsangebot WEG)
 
-**Denkmalrestaurierung Kern & Partner GmbH & Co. KG**  
-Dipl.-Ing. Friedrich Kern und Jochen Partner  
-Mauritiussteinweg 56, 50676 Köln  
-Tel. 0221 / 92 40 770  **E-Mail:** angebote@kern-restaurierung-koeln.de  
+**Denkmalrestaurierung Kern & Partner GmbH & Co. KG**
+Dipl.-Ing. Friedrich Kern und Jochen Partner
+Mauritiussteinweg 56, 50676 Köln
+Tel. 0221 / 92 40 770  **E-Mail:** angebote@kern-restaurierung-koeln.de
 Mitglied: IHK Köln, Fachverband Restaurierung und Denkmalpflege NRW
 
 ---
 
-**An:** WEG Rolandstraße 27a, 50677 Köln  
-c/o Immobilienverwaltung Rheineck GmbH  
+**An:** WEG Rolandstraße 27a, 50677 Köln
+c/o Immobilienverwaltung Rheineck GmbH
 Kerpener Straße 77, 50937 Köln
 
-**Betr.:** Angebot 2026/KP-088 – Treppenhausinstandsetzung und Restaurierung  
+**Betr.:** Angebot 2026/KP-088 – Treppenhausinstandsetzung und Restaurierung
 **Datum:** 18. März 2026  **Gültigkeit:** 60 Tage
 
 ---
@@ -79,5 +79,5 @@ Kern & Partner übernimmt die Stellung des Genehmigungsantrags bei der Unteren D
 
 ---
 
-*Gez. Friedrich Kern, Dipl.-Ing., GF Kern & Partner GmbH & Co. KG*  
+*Gez. Friedrich Kern, Dipl.-Ing., GF Kern & Partner GmbH & Co. KG*
 Köln, 18.03.2026

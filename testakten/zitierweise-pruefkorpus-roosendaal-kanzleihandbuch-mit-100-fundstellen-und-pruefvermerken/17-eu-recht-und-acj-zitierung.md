@@ -23,7 +23,7 @@ Seit 2014 verwendet der EuGH (und alle EU-Gerichte) den European Case Law Identi
 ### B.1 Langzitat
 
 ```
-EuGH, Urt. v. TT.MM.JJJJ, ECLI:EU:C:JJJJ:XXX, Rs. [Aktenzeichen], 
+EuGH, Urt. v. TT.MM.JJJJ, ECLI:EU:C:JJJJ:XXX, Rs. [Aktenzeichen],
 [Amtliche Sammlung falls vorhanden], NJW JJJJ, Seite, abrufbar unter:
 https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:ECLI:EU:C:JJJJ:XXX
 (abgerufen am TT.MM.JJJJ).

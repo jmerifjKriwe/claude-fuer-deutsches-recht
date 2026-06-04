@@ -1,15 +1,15 @@
 # Mandantenrundbrief – Dr. Straßburger / Dr. Straßburger-Möhren
 
-**Kanzlei Hauck-Brüggemann Mietrecht**  
+**Kanzlei Hauck-Brüggemann Mietrecht**
 Berrenrather Straße 114 · 50937 Köln-Sülz
 
 Köln, den **10. Mai 2026**
 
 ---
 
-**An:**  
-Dr. Cornelia Straßburger und Dr. Boris Straßburger-Möhren  
-Bachemer Straße 84  
+**An:**
+Dr. Cornelia Straßburger und Dr. Boris Straßburger-Möhren
+Bachemer Straße 84
 50931 Köln-Lindenthal
 
 *(vertraulich / per E-Mail mit Verschlüsselung)*
@@ -90,7 +90,7 @@ Ich stehe für Rückfragen jederzeit zur Verfügung.
 
 Mit freundlichen Grüßen
 
-**Vanessa Hauck-Brüggemann**  
+**Vanessa Hauck-Brüggemann**
 Rechtsanwältin, Fachanwältin für Miet- und WEG-Recht
 
 _________________________

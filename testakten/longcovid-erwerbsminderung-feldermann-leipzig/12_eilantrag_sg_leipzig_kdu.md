@@ -4,28 +4,28 @@
 
 ---
 
-Kanzlei Sonnemann Sozialrecht Leipzig  
-Rechtsanwältin Marit Sonnemann  
-Fachanwältin für Sozialrecht  
-Karl-Liebknecht-Straße 14  
-04107 Leipzig  
-Tel.: 0341 / 58 82 100  
-Fax: 0341 / 58 82 101  
+Kanzlei Sonnemann Sozialrecht Leipzig
+Rechtsanwältin Marit Sonnemann
+Fachanwältin für Sozialrecht
+Karl-Liebknecht-Straße 14
+04107 Leipzig
+Tel.: 0341 / 58 82 100
+Fax: 0341 / 58 82 101
 
 ---
 
-**An das**  
-Sozialgericht Leipzig  
-Bernhard-Göring-Straße 1  
-04107 Leipzig  
+**An das**
+Sozialgericht Leipzig
+Bernhard-Göring-Straße 1
+04107 Leipzig
 
 Leipzig, den 19.02.2026
 
 ---
 
-**Antragstellerin:** Vivian Feldermann, geb. 03.09.1984, Bornaische Straße 78, 04277 Leipzig  
-**Antragsgegner:** Jobcenter Leipzig, Georgiring 3, 04103 Leipzig  
-**Az. SG:** S 7 AS 188/26 ER  
+**Antragstellerin:** Vivian Feldermann, geb. 03.09.1984, Bornaische Straße 78, 04277 Leipzig
+**Antragsgegner:** Jobcenter Leipzig, Georgiring 3, 04103 Leipzig
+**Az. SG:** S 7 AS 188/26 ER
 
 ---
 
@@ -35,7 +35,7 @@ In dem Verfahren der o. g. Beteiligten beantrage ich,
 
 **den Antragsgegner im Wege der einstweiligen Anordnung nach § 86b Abs. 2 SGG zu verpflichten, der Antragstellerin ab sofort, hilfsweise ab Zustellung dieses Antrags, vorläufig die tatsächlichen Kosten der Unterkunft und Heizung (KdU) gemäß § 22 SGB II in Höhe von 960,00 EUR (Kaltmiete) zuzüglich der tatsächlichen Heizkosten von 185,00 EUR monatlich zu gewähren, bis zur abschließenden Entscheidung in der Hauptsache.**
 
-Weiter beantrage ich:  
+Weiter beantrage ich:
 **Prozesskostenhilfe für das Eilverfahren, Beiordnung von RA Sonnemann.**
 
 ---
@@ -102,11 +102,11 @@ Ich versichere an Eides statt, dass die vorstehenden Angaben der Wahrheit entspr
 
 Mit freundlichen Grüßen
 
-**Marit Sonnemann**  
-Rechtsanwältin, Fachanwältin für Sozialrecht  
+**Marit Sonnemann**
+Rechtsanwältin, Fachanwältin für Sozialrecht
 
 ---
 
-*Az. Kanzlei: SON-2026-0047-FEL*  
-*Az. SG: S 7 AS 188/26 ER*  
+*Az. Kanzlei: SON-2026-0047-FEL*
+*Az. SG: S 7 AS 188/26 ER*
 *Eingegangen SG Leipzig: 19.02.2026 (Fax + Original per Post)*

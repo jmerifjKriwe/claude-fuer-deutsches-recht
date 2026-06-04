@@ -17,7 +17,7 @@
 
 ### Zitierfähige Bausteine
 
-- 
+-
 
 ## Aktualitätscheck
 

@@ -1,23 +1,23 @@
 # 16 — Kündigungsschutzklage ArbG Chemnitz 4 Ca 88/26
 
-**Erstellt:** 21.03.2026  
-**Bearbeiter:** RAin Sophie Wenderlich  
+**Erstellt:** 21.03.2026
+**Bearbeiter:** RAin Sophie Wenderlich
 **AZ:** SU/DOPING/2026-001 / ArbG Chemnitz 4 Ca 88/26
 
 ---
 
 ## 1. Klageschrift (Auszug)
 
-**Arbeitsgericht Chemnitz**  
-Annaberger Straße 204  
+**Arbeitsgericht Chemnitz**
+Annaberger Straße 204
 09120 Chemnitz
 
 **Klage**
 
-**Klägerin:** Selin Uvalkanat, Karl-Marx-Straße 47, 08056 Zwickau  
+**Klägerin:** Selin Uvalkanat, Karl-Marx-Straße 47, 08056 Zwickau
 **Prozessbevollmächtigte:** RA Prof. Dr. Markus Lentze, Kanzlei Lentze, Stopper & Partner, Kronenstraße 55, 70174 Stuttgart
 
-**Beklagter:** BSV Sachsen Zwickau e.V., Am Scheffelberg 3, 08056 Zwickau  
+**Beklagter:** BSV Sachsen Zwickau e.V., Am Scheffelberg 3, 08056 Zwickau
 vertreten durch den Vorstand: Volker Bernstein (1. Vorsitzender)
 
 **Streitwert:** 37.200 EUR (3 Bruttomonatsgehälter × 6 Monate Restlaufzeit äquivalent, nach Richtwert § 42 Abs. 2 GKG: 3 Monatsentgelte)
@@ -66,8 +66,8 @@ Der Beklagte befindet sich seit Ablauf der Kündigungsfrist (14.03.2026, weil au
 
 ## 2. Gütetermin — 18.06.2026
 
-Gütetermin vor dem Arbeitsgericht Chemnitz: 18.06.2026, 10:30 Uhr, Saal 4.  
-Beisitzerin: Richterin Dr. Sabine Hoffmann.  
+Gütetermin vor dem Arbeitsgericht Chemnitz: 18.06.2026, 10:30 Uhr, Saal 4.
+Beisitzerin: Richterin Dr. Sabine Hoffmann.
 BSV vertreten durch RAin Claudia Sprenger (Leipzig).
 
 **Ergebnis:** Güteversuch gescheitert. BSV besteht auf Wirksamkeit der Kündigung. Weitergehend: BSV beruft sich auf Sonderklausel Abs. 7 des Arbeitsvertrages.

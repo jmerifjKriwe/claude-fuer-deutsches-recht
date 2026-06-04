@@ -1,11 +1,11 @@
 # 07 — Ertragswertgutachten Küchenkönig Manufaktur GmbH & Co. KG nach IDW S 1
 
-**Akte:** DWSP/2026/GR-4417  
-**Gutachter:** WP/StB Dr. Norbert Heidekämper, WP-Büro Heidekämper & Söhne, Domplatz 14, 33098 Paderborn  
-**Auftraggeber:** Geisen-Familie, vertreten durch Kanzlei DWSP  
-**Bewertungsstichtag:** 14. April 2026 (Tag der Gesellschafterversammlung)  
-**Gutachten-Nr.:** HuS/2026/0088  
-**Erstellt:** 22. April 2026  
+**Akte:** DWSP/2026/GR-4417
+**Gutachter:** WP/StB Dr. Norbert Heidekämper, WP-Büro Heidekämper & Söhne, Domplatz 14, 33098 Paderborn
+**Auftraggeber:** Geisen-Familie, vertreten durch Kanzlei DWSP
+**Bewertungsstichtag:** 14. April 2026 (Tag der Gesellschafterversammlung)
+**Gutachten-Nr.:** HuS/2026/0088
+**Erstellt:** 22. April 2026
 
 ---
 
@@ -17,12 +17,12 @@ Die Geisen-Familie (Heinrich-Eberhard Geisen, Cornelia Geisen-Wetterhof, Stefan 
 
 ## II. Unternehmenscharakterisierung
 
-**Unternehmen:** Küchenkönig Manufaktur GmbH & Co. KG  
-**Sitz:** Sennelager Str. 88, 33104 Paderborn  
-**Branche:** Herstellung und Vertrieb von Massivholzküchen, Premiumsegment  
-**Betriebsstätte:** Manufaktur Paderborn-Sennelager (Eigentum), 4.200 qm Produktionsfläche  
-**Mitarbeiter:** 95 (davon 28 Schreiner, 14 Monteure, 12 Vertrieb/Beratung, 41 Verwaltung/Sonstige)  
-**Marktposition:** Regionale Marktführerin im Premiumsegment Massivholz in OWL; Warteliste 14 Monate; NPS (Net Promoter Score) 72  
+**Unternehmen:** Küchenkönig Manufaktur GmbH & Co. KG
+**Sitz:** Sennelager Str. 88, 33104 Paderborn
+**Branche:** Herstellung und Vertrieb von Massivholzküchen, Premiumsegment
+**Betriebsstätte:** Manufaktur Paderborn-Sennelager (Eigentum), 4.200 qm Produktionsfläche
+**Mitarbeiter:** 95 (davon 28 Schreiner, 14 Monteure, 12 Vertrieb/Beratung, 41 Verwaltung/Sonstige)
+**Marktposition:** Regionale Marktführerin im Premiumsegment Massivholz in OWL; Warteliste 14 Monate; NPS (Net Promoter Score) 72
 
 ---
 
@@ -101,7 +101,7 @@ Nettoverschuldung 800 TEUR / Eigenkapital Buchwert 3.400 TEUR = 23,5 %. Re-Lever
 
 ### Terminal Value (Ewige Rente ab 2031)
 
-TV = JÜ(2031) / (WACC − g) = 2.050 TEUR / 0,082 = 25.000 TEUR  
+TV = JÜ(2031) / (WACC − g) = 2.050 TEUR / 0,082 = 25.000 TEUR
 Barwert TV (diskontiert auf Stichtag 2026): 25.000 TEUR × 0,6297 / (1,097)^0 × 1/1,097 ≈ 14.350 TEUR
 
 ### Gesamtunternehmenswert (Ertragswert)
@@ -126,7 +126,7 @@ Das Gutachten bestätigt, dass die in § 9 Abs. 3 GV vorgesehene Buchwertabfindu
 
 ---
 
-*Paderborn, 22. April 2026*  
-*WP/StB Dr. Norbert Heidekämper*  
-*WP-Büro Heidekämper & Söhne*  
+*Paderborn, 22. April 2026*
+*WP/StB Dr. Norbert Heidekämper*
+*WP-Büro Heidekämper & Söhne*
 *Referenz: IDW S 1 i.d.F. 2008 (aktualisiert 2024); IDW-Positionspapier FAUB 2024*

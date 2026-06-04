@@ -1,9 +1,9 @@
 # Steuerberater-Übergabepaket UStVA Mai 2026
 
-**Erstellt:** 20.05.2026  
-**Erstellt von:** Jana Reuter, Kanzlei Reuter Rechtsanwälte  
-**Adressat:** Steuerkanzlei Heinemann & Partner, Potsdamer Platz 5, 10785 Berlin  
-**Betreff:** Unterlagen zur Vorbereitung und Prüfung der Umsatzsteuer-Voranmeldung Mai 2026  
+**Erstellt:** 20.05.2026
+**Erstellt von:** Jana Reuter, Kanzlei Reuter Rechtsanwälte
+**Adressat:** Steuerkanzlei Heinemann & Partner, Potsdamer Platz 5, 10785 Berlin
+**Betreff:** Unterlagen zur Vorbereitung und Prüfung der Umsatzsteuer-Voranmeldung Mai 2026
 **Übermittlung:** Per verschlüsselter E-Mail / DATEV-Unternehmen online (Simulation)
 
 ---
@@ -96,5 +96,5 @@ Dieses Paket ist ausschließlich Vorbereitung. Die Steuerrechte, Prüfung der Ke
 
 ---
 
-*Erstellt: 20.05.2026 — Jana Reuter, Kanzlei Reuter Rechtsanwälte, Lindenstraße 14, 10969 Berlin*  
+*Erstellt: 20.05.2026 — Jana Reuter, Kanzlei Reuter Rechtsanwälte, Lindenstraße 14, 10969 Berlin*
 *Testdaten — kein echtes Steuerdokument.*

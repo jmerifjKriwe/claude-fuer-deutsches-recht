@@ -1,9 +1,9 @@
 # Meldung an das BSI gemäß NIS2-Umsetzungsgesetz (NIS2UmsuG)
 
-**Aktenstück:** 06  
-**Datum der Übermittlung:** 07.05.2026, 16:30 Uhr  
-**Übermittlungsweg:** BSI-MELDEPF-Portal (elektronisch)  
-**BSI-Referenznummer:** BSI-REF-2026-1847  
+**Aktenstück:** 06
+**Datum der Übermittlung:** 07.05.2026, 16:30 Uhr
+**Übermittlungsweg:** BSI-MELDEPF-Portal (elektronisch)
+**BSI-Referenznummer:** BSI-REF-2026-1847
 **Bearbeiter:** RA Lukas Drosten für Frischetrans Mittelrhein GmbH
 
 ---
@@ -20,50 +20,50 @@ Die Einordnung von Frischetrans Mittelrhein GmbH in den Geltungsbereich des NIS2
 
 **Größenkriterium:** Frischetrans beschäftigt 280 Mitarbeiter und erzielt einen Jahresumsatz von ca. 38 Mio. EUR. Damit überschreitet das Unternehmen die Schwelle für **mittelgroße Unternehmen** (≥ 50 Mitarbeiter oder ≥ 10 Mio. EUR Umsatz) gemäß Art. 2 NIS2-Richtlinie. Es fällt somit als **wichtige Einrichtung** (nicht: wesentliche Einrichtung) in den Anwendungsbereich.
 
-**Begründung der Versorgungsrelevanz:**  
+**Begründung der Versorgungsrelevanz:**
 Frischetrans beliefert die Großbäckereien Frischbäcker AG und Backhaus Süd, die ihrerseits Supermarktfilialisten und Kantinen in der Metropolregion Rhein-Main-Neckar beliefern. Ein Ausfall der Frischelogistik beeinträchtigt die Lebensmittelversorgung einer signifikanten Bevölkerungsgruppe. Das BSI hat den Angriff auf Basis dieser Argumentation als meldepflichtig akzeptiert (Bestätigungsschreiben BSI liegt vor).
 
 ---
 
 ## Formelle Meldung
 
-**An:**  
-Bundesamt für Sicherheit in der Informationstechnik (BSI)  
-Außenstelle Frankfurt  
+**An:**
+Bundesamt für Sicherheit in der Informationstechnik (BSI)
+Außenstelle Frankfurt
 Gutleutstraße 163, 60327 Frankfurt am Main
 
-**Meldung eines erheblichen Sicherheitsvorfalls**  
+**Meldung eines erheblichen Sicherheitsvorfalls**
 gemäß § 31 NIS2UmsuG (Meldepflichten wichtiger Einrichtungen)
 
 ---
 
 ### Meldender Verantwortlicher
 
-**Name:** Frischetrans Mittelrhein GmbH  
-**Sitz:** Binger Straße 142, 55131 Mainz  
-**Einrichtungstyp:** Wichtige Einrichtung (Sektor: Lebensmittel/Versorgungskette)  
-**Ansprechpartner (IT-Sicherheit):** Franz Berkenfeld, IT-Leiter  
+**Name:** Frischetrans Mittelrhein GmbH
+**Sitz:** Binger Straße 142, 55131 Mainz
+**Einrichtungstyp:** Wichtige Einrichtung (Sektor: Lebensmittel/Versorgungskette)
+**Ansprechpartner (IT-Sicherheit):** Franz Berkenfeld, IT-Leiter
 **Bevollmächtigter RA:** Lukas Drosten, Kanzlei Drosten & Pekonkur, Mainz
 
 ---
 
 ### Angaben zum Vorfall
 
-**Art des Vorfalls:**  
+**Art des Vorfalls:**
 Ransomware-Angriff (Verschlüsselung und Datenexfiltration) durch die kriminelle Gruppe „AkiraNext".
 
-**Betroffene Systeme:**  
-- SAP S/4HANA ERP-System (on-premises, vollständig verschlüsselt)  
-- Telematik-Schnittstellen (GPS-Tracking, Temperaturüberwachung, Fahrerdisposition)  
-- Fileserver (3 Systeme verschlüsselt)  
+**Betroffene Systeme:**
+- SAP S/4HANA ERP-System (on-premises, vollständig verschlüsselt)
+- Telematik-Schnittstellen (GPS-Tracking, Temperaturüberwachung, Fahrerdisposition)
+- Fileserver (3 Systeme verschlüsselt)
 - Active Directory / Domain Controller (kompromittiert, nicht verschlüsselt)
 
-**Zeitpunkt:**  
-- Vermutlicher Erstzugang: 04.05.2026, ca. 22:44 Uhr  
-- Aktivierung Ransomware: 06.05.2026, ca. 04:17–04:31 Uhr  
+**Zeitpunkt:**
+- Vermutlicher Erstzugang: 04.05.2026, ca. 22:44 Uhr
+- Aktivierung Ransomware: 06.05.2026, ca. 04:17–04:31 Uhr
 - Entdeckung: 06.05.2026, 04:17 Uhr
 
-**Angriffsvektor:**  
+**Angriffsvektor:**
 Ungepatchte SAP-Schwachstelle CVE-2026-0712 (SAP NetWeaver Application Server ABAP — Remote Code Execution). Das kritische Sicherheitsupdate war laut Vertrag mit dem ERP-Dienstleister ProcessSpark Cloud AG bis 20.03.2026 einzuspielen, wurde jedoch erst am 28./29.04.2026 aufgespielt.
 
 **Schadwirkung:**
@@ -117,8 +117,8 @@ Die Frischetrans Mittelrhein GmbH hat parallel eine Datenschutzpannen-Meldung ge
 
 **Frankfurt/Mainz, den 07.05.2026**
 
-RA Lukas Drosten  
-Kanzlei Drosten & Pekonkur, Mainz  
+RA Lukas Drosten
+Kanzlei Drosten & Pekonkur, Mainz
 (handelnd für und im Auftrag der Frischetrans Mittelrhein GmbH)
 
 ---
@@ -131,10 +131,10 @@ Kanzlei Drosten & Pekonkur, Mainz
 
 ## Rechtliche Grundlagen (Nachweise)
 
-- Richtlinie (EU) 2022/2555 (NIS2-Richtlinie), ABl. L 333 vom 27.12.2022  
-- Gesetz zur Umsetzung der NIS-2-Richtlinie (NIS2UmsuG), BGBl. 2024 I Nr. 387  
-- BSI-Gesetz (BSIG) i.d.F. nach NIS2-Umsetzung  
-- BSI-Kritisverordnung (BSI-KritisV) i.d.F. 2025  
-- Erwägungsgründe 102–104 NIS2-Richtlinie zur Meldepflicht  
+- Richtlinie (EU) 2022/2555 (NIS2-Richtlinie), ABl. L 333 vom 27.12.2022
+- Gesetz zur Umsetzung der NIS-2-Richtlinie (NIS2UmsuG), BGBl. 2024 I Nr. 387
+- BSI-Gesetz (BSIG) i.d.F. nach NIS2-Umsetzung
+- BSI-Kritisverordnung (BSI-KritisV) i.d.F. 2025
+- Erwägungsgründe 102–104 NIS2-Richtlinie zur Meldepflicht
 
 Zur NIS2-Klassifikation von Logistikunternehmen im Lebensmittelsektor vgl. ENISA-Leitlinien „NIS2 Sectoral Classification" (2024, abrufbar unter https://www.enisa.europa.eu).

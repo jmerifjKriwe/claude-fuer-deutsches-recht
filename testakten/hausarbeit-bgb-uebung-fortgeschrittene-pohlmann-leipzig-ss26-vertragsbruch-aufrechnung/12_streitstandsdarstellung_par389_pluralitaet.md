@@ -1,6 +1,6 @@
 # 12 — Streitstandsdarstellung: § 389 BGB — Rückwirkung und Pluralität der Aufrechnungslagen
 
-**Bearbeiter:** Konrad Pohlmann  
+**Bearbeiter:** Konrad Pohlmann
 **Stand:** 26.04.2026
 
 ---

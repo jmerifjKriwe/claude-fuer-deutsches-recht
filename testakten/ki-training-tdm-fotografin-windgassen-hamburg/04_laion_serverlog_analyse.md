@@ -1,7 +1,7 @@
 # Technische Analyse: Serverlog-Auszug windgassen-photo.de und LAION-Crawl-Nachweis
 
-**Erstellt:** 22.01.2026  
-**Von:** IT-Forensik-Beraterin: Dipl.-Inf. Kerstin Barkhoff, Hamburg (beauftragt 18.01.2026)  
+**Erstellt:** 22.01.2026
+**Von:** IT-Forensik-Beraterin: Dipl.-Inf. Kerstin Barkhoff, Hamburg (beauftragt 18.01.2026)
 **Auftrag:** Nachweis des Crawl-Datums und -Umfangs für LAION-5B bezüglich windgassen-photo.de
 
 ---
@@ -37,7 +37,7 @@ Mozilla/5.0 (compatible; CCBot/2.0; https://commoncrawl.org/faq/)
 [... weitere 143 Einträge ...]
 ```
 
-**Kritisch:** Der Crawl vom **03.06.2021** fand **VOR** Inkrafttreten des § 44b UrhG (07.06.2021) statt.  
+**Kritisch:** Der Crawl vom **03.06.2021** fand **VOR** Inkrafttreten des § 44b UrhG (07.06.2021) statt.
 Der Crawl vom **17.08.2021** fand **NACH** Inkrafttreten statt.
 
 ---

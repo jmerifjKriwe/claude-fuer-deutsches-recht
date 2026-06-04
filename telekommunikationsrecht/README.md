@@ -42,66 +42,39 @@ TKG, Nebengesetze, EU Electronic Communications Code, BNetzA-Verfügungen und Ve
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 57 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `tk-abhoerschnittstellen-sicherheitsbehoerden` | TK-Überwachung, Schnittstellen, Auskunftsersuchen, Bestandsdaten, Verkehrsdaten, Strafverfolgung und Geheimnisschutz. |
-| `tk-abmahnung-uwg-tkg` | Abmahnungen bei TK-Marketing, Preiswerbung, Rufnummernmissbrauch, Vergleichsportalen und Informationspflichten. |
+| `kompendium-01-tk-bundesnetzagentur-bis-tk-zustaendigkeits-r` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 01; bündelt 2 frühere Spezialskills (tk-bundesnetzagentur-verfahren-akteneinsicht-fristen, tk-zustaendigkeits-router-bnetza-vg-lg) und bewahrt deren Workflows, Normanker, Prüfprogr... |
+| `kompendium-02-tk-mindestvertragsla-bis-tk-umzug-vertragsanp` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 02; bündelt 2 frühere Spezialskills (tk-mindestvertragslaufzeit-kuendigung, tk-umzug-vertragsanpassung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-03-tk-wholesale-reselle-bis-tk-bauarbeiten-kabel` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 03; bündelt 2 frühere Spezialskills (tk-wholesale-reseller-mvno-vertrag, tk-bauarbeiten-kabelschaden) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-04-tk-zivilklage-lg-ent-bis-tk-abhoerschnittstel` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 04; bündelt 2 frühere Spezialskills (tk-zivilklage-lg-entgelt-schadensersatz, tk-abhoerschnittstellen-sicherheitsbehoerden) und bewahrt deren Workflows, Normanker, Prüfprogramme un... |
+| `kompendium-05-tk-abmahnung-uwg-tkg-bis-tk-anbieterwechsel-r` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 05; bündelt 2 frühere Spezialskills (tk-abmahnung-uwg-tkg, tk-anbieterwechsel-rufnummernmitnahme) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-06-tk-anschlussbereitst-bis-tk-behoerdenkommunik` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 06; bündelt 2 frühere Spezialskills (tk-anschlussbereitstellung-verzug, tk-behoerdenkommunikation-kooperationsstrategie) und bewahrt deren Workflows, Normanker, Prüfprogramme und A... |
+| `kompendium-07-tk-beschwerde-dashbo-bis-tk-beweisplan-messun` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 07; bündelt 2 frühere Spezialskills (tk-beschwerde-dashboard-bnetza, tk-beweisplan-messung-stoerung-protokoll) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-08-tk-callcenter-einwil-bis-tk-campusnetze-priva` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 08; bündelt 2 frühere Spezialskills (tk-callcenter-einwilligung-werbeanrufe, tk-campusnetze-private-5g) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-09-tk-cloud-telefonie-v-bis-tk-cookies-telemedie` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 09; bündelt 2 frühere Spezialskills (tk-cloud-telefonie-voip-compliance, tk-cookies-telemedien-ttdsg-tdddg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-10-tk-datacenter-connec-bis-tk-eilrechtsschutz-b` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 10; bündelt 2 frühere Spezialskills (tk-datacenter-connectivity, tk-eilrechtsschutz-bnetza-beschluss) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-11-tk-entgeltgenehmigun-bis-tk-eu-eecc-router` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 11; bündelt 2 frühere Spezialskills (tk-entgeltgenehmigung-kostenorientierung, tk-eu-eecc-router) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-12-tk-frequenznutzung-s-bis-tk-frequenzzuteilung` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 12; bündelt 2 frühere Spezialskills (tk-frequenznutzung-stoerungen, tk-frequenzzuteilung-auktionsdesign) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-13-tk-glasfaser-hausans-bis-tk-infrastrukturshar` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 13; bündelt 2 frühere Spezialskills (tk-glasfaser-hausanschluss-wegerecht, tk-infrastruktursharing-open-access) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemus... |
+| `kompendium-14-tk-iot-m2m-sim-karte-bis-tk-kartellrecht-schn` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 14; bündelt 2 frühere Spezialskills (tk-iot-m2m-sim-karten, tk-kartellrecht-schnittstelle-gwb-eu) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-15-tk-marktanalyse-betr-bis-tk-meldepflicht-it-s` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 15; bündelt 2 frühere Spezialskills (tk-marktanalyse-betraechtliche-marktmacht, tk-meldepflicht-it-sicherheitsvorfall) und bewahrt deren Workflows, Normanker, Prüfprogramme und Aus... |
+| `kompendium-16-tk-missbrauchsaufsic-bis-tk-mitnutzung-gebaeu` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 16; bündelt 2 frühere Spezialskills (tk-missbrauchsaufsicht-sonderkartellrecht, tk-mitnutzung-gebaeude-netze) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-17-tk-netzneutralitaet-bis-tk-nis2-kritis-bsi-s` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 17; bündelt 2 frühere Spezialskills (tk-netzneutralitaet-zero-rating-throttling, tk-nis2-kritis-bsi-schnittstelle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabe... |
+| `kompendium-18-tk-notfall-und-katas-bis-tk-notrufpflicht-112` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 18; bündelt 2 frühere Spezialskills (tk-notfall-und-katastrophenkommunikation, tk-notrufpflicht-112) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-19-tk-nummerierung-rufn-bis-tk-open-ran-lieferke` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 19; bündelt 2 frühere Spezialskills (tk-nummerierung-rufnummernzuteilung, tk-open-ran-lieferketten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-20-tk-routerfreiheit-en-bis-tk-rufnummernmissbra` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 20; bündelt 2 frühere Spezialskills (tk-routerfreiheit-endgeraete, tk-rufnummernmissbrauch-abschaltung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-21-tk-satellite-starlin-bis-tk-schlichtung-verbr` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 21; bündelt 2 frühere Spezialskills (tk-satellite-starlink-ntn, tk-schlichtung-verbraucher) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-22-tk-sla-business-kund-bis-tk-standardangebot-r` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 22; bündelt 2 frühere Spezialskills (tk-sla-business-kunden-ausfall, tk-standardangebot-reference-offer) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-23-tk-stoerung-minderun-bis-tk-streitbeilegung-b` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 23; bündelt 2 frühere Spezialskills (tk-stoerung-minderung-ausfallentschaedigung, tk-streitbeilegung-bnetza) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-24-tk-towerco-standortm-bis-tk-traffic-location` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 24; bündelt 2 frühere Spezialskills (tk-towerco-standortmiete, tk-traffic-location-data-privacy) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-25-tk-universalservice-bis-tk-verwaltungsrecht` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 25; bündelt 2 frühere Spezialskills (tk-universalservice-mindestversorgung, tk-verwaltungsrecht-anfechtung-bnetza) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabe... |
+| `kompendium-26-tk-vorratsdaten-spei-bis-tk-wegerecht-oeffent` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 26; bündelt 2 frühere Spezialskills (tk-vorratsdaten-speicherung-eugh-bverfg, tk-wegerecht-oeffentliche-wege) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-27-tk-zugangsregulierun-bis-tk-zusammenschaltung` | telekommunikationsrecht: Konsolidiertes Skill-Kompendium 27; bündelt 2 frühere Spezialskills (tk-zugangsregulierung-vorleistung, tk-zusammenschaltung-interconnection) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
 | `tk-allgemeiner-kaltstart` | Allgemeiner Einstieg ins Telekommunikationsrecht: Anschluss, Internet, Mobilfunk, Anbieterwechsel, BNetzA-Bescheid, Frequenz, Nummerierung, Marktmacht, Datenschutz und Sicherheitsvorfall sortieren. |
-| `tk-anbieterwechsel-rufnummernmitnahme` | Anbieterwechsel, Versorgungslücke, Rufnummernportierung, Entschädigung, Weiterversorgungspflicht und BNetzA-Beschwerde. |
-| `tk-anschlussbereitstellung-verzug` | Bereitstellung von Festnetz-, Glasfaser-, Mobilfunk- oder Business-Anschluss: Terminversäumnis, Verzug, Entschädigung, Rücktritt, Ersatzlösung und Beweis. |
-| `tk-bauarbeiten-kabelschaden` | Kabelschäden: Leitungsauskunft, Verkehrssicherung, Tiefbau, Schadensersatz, Betriebsunterbrechung und Beweissicherung. |
-| `tk-behoerdenkommunikation-kooperationsstrategie` | Kommunikationsstrategie gegenüber der Bundesnetzagentur: kooperativ, präzise, aktenfest, geheimnisschonend und entscheidungsorientiert. |
-| `tk-beschwerde-dashboard-bnetza` | Dashboard für Massenbeschwerden: Anbieterwechsel, Störung, Rufnummer, Werbeanruf, Rechnung, Missbrauch und Fristen. |
-| `tk-beweisplan-messung-stoerung-protokoll` | Technischer Beweisplan für TK-Streit: Breitbandmessung, Ausfallprotokoll, Routerlogs, Technikertermine, Fotos, Tickets, SLA und Zeugen. |
-| `tk-bundesnetzagentur-verfahren-akteneinsicht-fristen` | Verfahren vor der Bundesnetzagentur: Anhörung, Akteneinsicht, Geschäftsgeheimnisse, Beiladung, Fristen, Beschlusskammerlogik und gerichtliche Anschlussstrategie. |
-| `tk-callcenter-einwilligung-werbeanrufe` | Telefonwerbung, Einwilligung, Rufnummernanzeige, Dokumentation, Bußgeldrisiko und Callcenter-Verträge. |
-| `tk-campusnetze-private-5g` | Campusnetze/private 5G: lokale Frequenzen, Betreiberrolle, Sicherheit, SLA, Industrieanwendung und Drittzugang. |
-| `tk-cloud-telefonie-voip-compliance` | Cloud-PBX/VoIP: Notruf, Standort, Datenschutz, Aufzeichnung, Ausfallsicherheit, Rufnummern und internationale Nutzer. |
-| `tk-cookies-telemedien-ttdsg-tdddg` | Telemedien-/TK-Schnittstelle: Cookies, Einwilligung, Endgerätezugriff, Consent-Banner und Telekommunikationsdienste. |
-| `tk-datacenter-connectivity` | Rechenzentrumskonnektivität: Carrier Meet-Me, Cross-Connects, SLA, Wegerecht im Gebäude, Datenschutz/Sicherheit und Ausfallhaftung. |
-| `tk-eilrechtsschutz-bnetza-beschluss` | Eilrechtsschutz bei Frequenz-, Entgelt-, Zugang-, Nummerierungs- oder Missbrauchsmaßnahmen. |
-| `tk-entgeltgenehmigung-kostenorientierung` | Entgeltregulierung, Kostenunterlagen, Effizienzmaßstab, Genehmigung, Margin Squeeze und Eilrechtsschutz. |
-| `tk-eu-eecc-router` | EU-Router für TK-Recht: Richtlinie (EU) 2018/1972, Verbraucherrechte, Marktregulierung, Nummerierung, Universaldienst, Netzneutralität und nationale Umsetzung im TKG. |
-| `tk-frequenznutzung-stoerungen` | Funkstörungen, EMV, Störungsmeldung, Messung, Unterlassung und BNetzA-Eingriff. |
-| `tk-frequenzzuteilung-auktionsdesign` | Frequenzzuteilung, Vergabeverfahren, Auktionsdesign, Versorgungsauflagen, Nebenbestimmungen und Rechtsschutz. |
-| `tk-glasfaser-hausanschluss-wegerecht` | Glasfaser- und Hausanschlussprojekte: Grundstückszugang, Gebäudenetz, Wegerecht, Gestattung, Wohnungseigentum, Open Access und Baukoordination. |
-| `tk-infrastruktursharing-open-access` | Open-Access-Modelle, Infrastruktursharing, Wholesale-Only, Kooperationsverträge, Nichtdiskriminierung und Beihilfe-/Förderschnittstelle. |
-| `tk-iot-m2m-sim-karten` | IoT-/M2M-Konnektivität: SIM-Karten, Roaming, Nummerierung, Sicherheit, Datenzugriff, Produkthaftung und Vertragsketten. |
-| `tk-kartellrecht-schnittstelle-gwb-eu` | TK-Verträge und Kooperationen mit Kartellrechtsbezug: Open Access, Ausbaukooperation, Exklusivität, Wholesale, Joint Venture. |
-| `tk-marktanalyse-betraechtliche-marktmacht` | Marktanalyse, Marktdefinition, SMP/beträchtliche Marktmacht, Konsultation, EU-Abstimmung und Regulierungsverfügung. |
-| `tk-meldepflicht-it-sicherheitsvorfall` | Sicherheitsvorfälle bei TK-Anbietern: BNetzA/BSI/DSGVO-Meldungen, Kundenkommunikation, Ursachenanalyse und Abhilfe. |
-| `tk-mindestvertragslaufzeit-kuendigung` | TK-Verträge: Mindestlaufzeit, automatische Verlängerung, monatliche Kündbarkeit, Kündigungsbutton/Onlinekündigung, AGB und Nachweis. |
-| `tk-missbrauchsaufsicht-sonderkartellrecht` | Missbrauchsaufsicht im TK-Recht: Marktmacht, Diskriminierung, Behinderung, Margin Squeeze, Zugang und Verhältnis zu GWB/AEUV. |
-| `tk-mitnutzung-gebaeude-netze` | Mitnutzung von Gebäudenetzen, Leerrohren, Masten, Schächten und passiver Infrastruktur. |
-| `tk-netzneutralitaet-zero-rating-throttling` | Netzneutralität: Zero-Rating, Priorisierung, Drosselung, Spezialdienste, Traffic Management und Beschwerde-/Abmahnrisiken. |
-| `tk-nis2-kritis-bsi-schnittstelle` | NIS2/KRITIS/BSI-Anforderungen für TK-Unternehmen, Rechenzentren, Managed Services und kritische Kommunikation. |
-| `tk-notfall-und-katastrophenkommunikation` | Notfallkommunikation, Resilienz, Priorisierung, Cell Broadcast, Behördenkommunikation und Business Continuity. |
-| `tk-notrufpflicht-112` | Notruf 112/110, Standortdaten, Ausfallsicherheit, VoIP, Alarmierung, Unternehmensanschlüsse und Haftungsrisiko. |
-| `tk-nummerierung-rufnummernzuteilung` | Rufnummernzuteilung, Nutzung, Entzug, Mehrwertdienste, geografische Nummern, 0800/0900, M2M und Nummernportierung. |
-| `tk-open-ran-lieferketten` | Open-RAN-/Netzkomponenten: Lieferkette, Sicherheit, Interoperabilität, Ausfall, Exportkontrolle und kritische Komponenten. |
 | `tk-output-beschwerde-antrag-klage` | Formate im Telekommunikationsrecht: BNetzA-Beschwerde, Verbraucher-Schlichtung, verwaltungsrechtlicher Antrag, Widerspruch/Anfechtung, zivilrechtliche Klage und Stellungnahme. |
 | `tk-redteam-regulierungsrisiko` | Red-Team für TK-Projekte: Marktmacht, Zugangs-/Entgeltregulierung, Wegerecht, Sicherheit, Datenschutz, BNetzA, Kartellrecht und politische Sichtbarkeit. |
-| `tk-routerfreiheit-endgeraete` | Routerfreiheit, Netzabschlusspunkt, Endgerätefreiheit, Providerrouter, Konfigurationsdaten, Glasfaser-ONT und Gewährleistung/Sicherheit. |
-| `tk-rufnummernmissbrauch-abschaltung` | Rufnummernmissbrauch, Ping-Anrufe, Spam, Mehrwertdienste, Abschaltung, Rechnungslegungs-/Inkassoverbot und Beschwerde. |
-| `tk-satellite-starlink-ntn` | Satelliteninternet/NTN: Frequenzen, Genehmigung, Endgeräte, Verbrauchervertrag, Resilienz und nationale Sicherheitsaspekte. |
-| `tk-schlichtung-verbraucher` | Verbraucherschlichtung bei TK-Streit: Voraussetzungen, Antrag, Unterlagen, Hemmung/Fristen, Verhältnis zu Klage und BNetzA-Beschwerde. |
-| `tk-sla-business-kunden-ausfall` | Geschäftskunden-SLA: Verfügbarkeit, Reaktions-/Entstörzeiten, Credits, Schadensersatz, Haftungsbegrenzung und Force Majeure. |
-| `tk-standardangebot-reference-offer` | Standardangebotspflichten, Prüfung von Klauseln, Änderungsanordnung, Zugangsnachfrage und Nichtdiskriminierung. |
-| `tk-stoerung-minderung-ausfallentschaedigung` | Internet-/Telefonstörung: Minderung, Ausfallentschädigung, Entstörungspflichten, Messprotokolle, SLA und Schadensersatz. |
-| `tk-streitbeilegung-bnetza` | Streitbeilegung bei Zugang, Mitnutzung, Entgelt, Nummerierung oder Anbieterwechsel mit BNetzA-Beteiligung. |
-| `tk-towerco-standortmiete` | Mobilfunkstandorte: Miet-/Gestattungsvertrag, Baurecht, Immissionsschutz, Standortsharing, Rückbau und Eigentümerkonflikt. |
-| `tk-traffic-location-data-privacy` | Verkehrsdaten, Standortdaten, Einzelverbindungsnachweis, Abrechnung, Einwilligung, Sicherheit und Löschung. |
-| `tk-umzug-vertragsanpassung` | Umzug bei TK-Vertrag: Fortführung, Sonderkündigung, Leistungsfähigkeit am neuen Standort, Glasfaser-/Kabelanschluss und Kosten. |
-| `tk-universalservice-mindestversorgung` | Universaldienst/Mindestversorgung mit Telekommunikationsdiensten: Unterversorgung, Anspruch, BNetzA-Verfahren, technische Zumutbarkeit und Alternativen. |
-| `tk-verwaltungsrecht-anfechtung-bnetza` | Anfechtung, Verpflichtung oder Eilrechtsschutz gegen BNetzA-Beschlüsse und Nebenbestimmungen. |
-| `tk-vorratsdaten-speicherung-eugh-bverfg` | Vorratsdatenspeicherung, Quick Freeze, Sicherheitsbehördenanfragen und EuGH/BVerfG-Linie live prüfen. |
-| `tk-wegerecht-oeffentliche-wege` | Wegerecht, Mitverlegung, Baustellenkoordination, Zustimmung, Wiederherstellung und Streit mit Straßenbaulastträgern. |
-| `tk-wholesale-reseller-mvno-vertrag` | Wholesale-, Reseller- und MVNO-Verträge: Zugang, SLA, Entgelt, Nummerierung, Kundenschutz, Datenschutz und Exit. |
-| `tk-zivilklage-lg-entgelt-schadensersatz` | Zivilrechtliche TK-Klagen: Entgeltforderungen, Rückzahlung, Schadensersatz, SLA, AGB, Minderung und Verbraucher-/Businessstreit. |
-| `tk-zugangsregulierung-vorleistung` | Zugang zu Netzen, Vorleistungsprodukten, TAL/Bitstrom, Glasfaser, Nichtdiskriminierung und technische Schnittstellen. |
-| `tk-zusammenschaltung-interconnection` | Zusammenschaltung, Terminierung, IP-Interconnection, Qualität, Entgelte und Streitbeilegung. |
-| `tk-zustaendigkeits-router-bnetza-vg-lg` | Rechtsweg- und Zuständigkeitsrouter für TK-Streitigkeiten: Verbraucheranspruch, BNetzA-Regulierungsverfahren, zivilrechtlicher Vertrag, verwaltungsgerichtlicher Eilrechtsschutz und Kartell-/Missbrauchsschnittstelle. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

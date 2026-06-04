@@ -1,9 +1,9 @@
 # 00 — Aktenübersicht und Fristenkalender
 
-**Vellbruck Strafverteidigung Koeln — Hahnenstrasse 22, 50667 Koeln**  
-**Interne Aktenübersicht — Vertraulich (§ 53 StPO)**  
-Mandat: Dr. Carlsten Pellbach-Eisenacher  
-Az. LG Koeln: 117 KLs 14/26 / Az. StA: 122 Js 884/25  
+**Vellbruck Strafverteidigung Koeln — Hahnenstrasse 22, 50667 Koeln**
+**Interne Aktenübersicht — Vertraulich (§ 53 StPO)**
+Mandat: Dr. Carlsten Pellbach-Eisenacher
+Az. LG Koeln: 117 KLs 14/26 / Az. StA: 122 Js 884/25
 Erstellt: 14.05.2026 / Stand: 01.06.2026
 
 ---

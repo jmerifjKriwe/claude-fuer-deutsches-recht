@@ -1,7 +1,7 @@
 # 07 — Zeugenaussage Wilhelm Eickenmueller
 
-**AZ:** 8 O 188/26  
-**Termin:** 12.06.2026, 11:02 Uhr  
+**AZ:** 8 O 188/26
+**Termin:** 12.06.2026, 11:02 Uhr
 **Zeuge:** Wilhelm Eickenmueller, geb. 14.03.1969, Fichtestraße 22, 04275 Leipzig; Polier, früher beschäftigt bei Radarwarner GmbH bis 30.04.2024
 
 ---

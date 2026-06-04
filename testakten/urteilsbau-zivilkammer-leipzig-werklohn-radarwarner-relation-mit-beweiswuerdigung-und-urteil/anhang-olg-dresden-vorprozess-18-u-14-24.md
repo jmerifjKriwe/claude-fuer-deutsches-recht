@@ -1,6 +1,6 @@
 # Anhang — Vorprozess OLG Dresden 18 U 14/24
 
-**AZ:** 8 O 188/26  
+**AZ:** 8 O 188/26
 **Betreff:** Bindungswirkung des OLG-Urteils 18 U 14/24 für das Hauptverfahren
 
 ---

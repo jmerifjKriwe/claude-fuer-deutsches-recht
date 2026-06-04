@@ -1,6 +1,6 @@
 # Aktenstück 16 — Korrespondenz mit dem Arbeitgeber
 
-**Arbeitgeber:** St.-Antonius-Heim GmbH, Sebastianstraße 144, 52080 Aachen-Brand  
+**Arbeitgeber:** St.-Antonius-Heim GmbH, Sebastianstraße 144, 52080 Aachen-Brand
 **Vertreten durch:** Geschäftsführer Norbert Kiesel
 
 ---
@@ -23,7 +23,7 @@ Wir benötigen zur Begründung unseres Rechtsschutzanspruchs gegen die DBV-Winte
 
 Wir bitten um Ihre Antwort bis zum **12.03.2026** und betonen, dass eine korrekte Darstellung des Tätigkeitsprofils im Interesse aller Beteiligten liegt.
 
-Mit freundlichen Grüßen  
+Mit freundlichen Grüßen
 Dr. Annegret Müller-Hauck
 
 ---

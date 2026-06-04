@@ -1,7 +1,7 @@
 # 16 Mobiliarpfaendung — Katalog und § 811 ZPO Pruefung
 
-**Akte:** MR-2026-ZV-0188  
-**Datum:** 30.01.2026  
+**Akte:** MR-2026-ZV-0188
+**Datum:** 30.01.2026
 **Grundlage:** GV-Pfaendungsprotokoll vom 29.01.2026 (s. Aktenstuck 15)
 
 ---

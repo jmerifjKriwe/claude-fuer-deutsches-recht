@@ -1,7 +1,7 @@
 # VG Bild-Kunst — KI-Training-Tarifstreit: Überblick und Windgassen-Perspektive
 
-**AZ intern:** 26-UMR-0084  
-**Datum:** 25.01.2026  
+**AZ intern:** 26-UMR-0084
+**Datum:** 25.01.2026
 **Bearbeiterin:** Dr. Kreidler-Bremer
 
 ---

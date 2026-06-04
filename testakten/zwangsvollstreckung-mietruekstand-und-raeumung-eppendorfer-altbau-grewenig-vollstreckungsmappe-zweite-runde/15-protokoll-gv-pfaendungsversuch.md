@@ -1,9 +1,9 @@
 # 15 Protokoll GV-Pfändungsversuch — Ergebnisvermerk
 
-**Akte:** MR-2026-ZV-0188  
-**GV-AZ:** 2026-188-DR/04711  
-**Pfändungsversuch:** 29.01.2026, 09:30 Uhr  
-**Ort:** Eppendorfer Weg 188, 1. OG links, 20251 Hamburg-Eimsbuettel  
+**Akte:** MR-2026-ZV-0188
+**GV-AZ:** 2026-188-DR/04711
+**Pfändungsversuch:** 29.01.2026, 09:30 Uhr
+**Ort:** Eppendorfer Weg 188, 1. OG links, 20251 Hamburg-Eimsbuettel
 **GV:** OAR Lattermann, Bezirk Hamburg-Eimsbuettel
 
 ---

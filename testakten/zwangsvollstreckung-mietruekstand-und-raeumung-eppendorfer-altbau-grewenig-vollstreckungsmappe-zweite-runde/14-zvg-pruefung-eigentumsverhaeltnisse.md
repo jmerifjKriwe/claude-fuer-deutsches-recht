@@ -1,7 +1,7 @@
 # 14 ZVG-Pruefung — Eigentumsverhältnisse und Zwangsversteigerung als Option
 
-**Akte:** MR-2026-ZV-0188  
-**Datum:** 10.01.2026  
+**Akte:** MR-2026-ZV-0188
+**Datum:** 10.01.2026
 **Ergebnis vorab:** ZVG nicht gegen Schuldner — sie sind keine Eigentümer; ZVG-Aspekt nur als Kontextinformation relevant
 
 ---
@@ -16,9 +16,9 @@ Die Mandantin fragte, ob eine **Zwangsversteigerung (ZVG)** des Objekts Eppendor
 
 Das Objekt **Eppendorfer Weg 188, 20251 Hamburg-Eimsbuettel** gehört der **Grewenig Immobilien Verwaltung GmbH** selbst (Mandantin). Die Schuldner Pohlmann-Tannenberg sind **Mieter**, nicht Eigentümer. Ein Grundbuchauszug wurde abgefordert.
 
-**Ergebnis Grundbuchprüfung:**  
-Eigentueaumer: Grewenig Immobilien Verwaltung GmbH, eingetragen seit 2008.  
-Belastungen: Grundschuld Hamburger Volksbank eG, Abt. III, 350.000 EUR.  
+**Ergebnis Grundbuchprüfung:**
+Eigentueaumer: Grewenig Immobilien Verwaltung GmbH, eingetragen seit 2008.
+Belastungen: Grundschuld Hamburger Volksbank eG, Abt. III, 350.000 EUR.
 Keine weiteren Eintragungen, keine Vollstreckungsvermerke.
 
 **Schlussfolgerung:** Die Schuldner haben kein Eigentuem am Grundstueck — eine ZVG **gegen die Schuldner** zum Zweck der Vollstreckung der Mietzahlung ist **nicht möglich**. § 866 ZPO (Zwangshypothek ins Grundbuch) setzt Eigentuem des Schuldners voraus.
@@ -31,7 +31,7 @@ Obwohl ZVG gegen Schuldner ausscheidet, bestehen folgende Bezüge:
 
 ### A. ZVG und Mietverhältnis (§ 57a ZVG)
 
-Falls **die Gläubigerin selbst** ihren Grundbesitz (aus anderen Gründen) in ZVG geraten würde, wuere das Mietverhältnis betroffen:  
+Falls **die Gläubigerin selbst** ihren Grundbesitz (aus anderen Gründen) in ZVG geraten würde, wuere das Mietverhältnis betroffen:
 § 57a ZVG gibt dem Ersteher einer im Grundbuch eingetragenen Mietwohnung das Recht der ausserordentlichen Kündigung zum nächsten Termin. Da das Mietverhältnis vorliegend bereits beendet wurde, hätte dieses Szenario keine Bedeutung.
 
 ### B. Mobiliarpfaendung in der Wohnung (§ 808 ZPO)
@@ -60,8 +60,8 @@ Statt ZVG kommt für die Vollstreckung gegen die Schuldner die **Pfändung von M
 
 ## Ergebnis
 
-**ZVG gegen Schuldner: nicht möglich** (kein Grundeigentuem der Schuldner).  
-**Mobiliarpfaendung: relevant** (s. Aktenstuck 16).  
+**ZVG gegen Schuldner: nicht möglich** (kein Grundeigentuem der Schuldner).
+**Mobiliarpfaendung: relevant** (s. Aktenstuck 16).
 **ZVG-Grundstueck Mandantin: kein Thema** (kein Zahlungsverzug).
 
 Dieses Aktenstück schliesst das ZVG-Thema vollständig ab.

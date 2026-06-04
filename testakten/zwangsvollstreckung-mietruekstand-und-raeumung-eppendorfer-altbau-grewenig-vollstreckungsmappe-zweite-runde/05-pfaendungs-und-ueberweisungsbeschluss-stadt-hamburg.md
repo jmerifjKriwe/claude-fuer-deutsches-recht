@@ -1,24 +1,24 @@
 # 05 Pfaendungs- und Überweisungsbeschluss — Drittschuldner Stadt Hamburg / Personalstelle Carmen
 
-**Akte:** MR-2026-ZV-0188  
-**Verfahren:** AG Hamburg-Altona 188 M 1022/26 (Vollstreckungsgericht)  
-**Antragsdatum:** 08.01.2026  
+**Akte:** MR-2026-ZV-0188
+**Verfahren:** AG Hamburg-Altona 188 M 1022/26 (Vollstreckungsgericht)
+**Antragsdatum:** 08.01.2026
 **Gegenstand:** Lohnpfändung Carmen Pohlmann-Tannenberg (Drittschuldner: Freie und Hansestadt Hamburg)
 
 ---
 
 ## Schuldnerin und Drittschuldner
 
-**Schuldnerin (Gesamtschuldnerin):**  
-Carmen Pohlmann-Tannenberg geb. Sieverding  
+**Schuldnerin (Gesamtschuldnerin):**
+Carmen Pohlmann-Tannenberg geb. Sieverding
 Eppendorfer Weg 188, 1. OG links, 20251 Hamburg
 
-**Drittschuldner:**  
-Freie und Hansestadt Hamburg  
-vertreten durch die Behörde für Schule und Berufsbildung  
-Hamburger Strasse 31, 22083 Hamburg  
-Zustzustelladresse für Vollstreckungssachen:  
-Personal-Service-Zentrum (PSZ) Hamburg  
+**Drittschuldner:**
+Freie und Hansestadt Hamburg
+vertreten durch die Behörde für Schule und Berufsbildung
+Hamburger Strasse 31, 22083 Hamburg
+Zustzustelladresse für Vollstreckungssachen:
+Personal-Service-Zentrum (PSZ) Hamburg
 Steckelhoeern 12, 20457 Hamburg
 
 ---
@@ -46,7 +46,7 @@ Beantragt wird:
 
 ## Pfaendungsfreigrenze 2026 — Vorberechnng
 
-Massgebliche Tabelle: Pfaendungsfreigrenzen gemäß § 850c ZPO i.V.m. Bekanntmachung BGBl. I 2025  
+Massgebliche Tabelle: Pfaendungsfreigrenzen gemäß § 850c ZPO i.V.m. Bekanntmachung BGBl. I 2025
 (detaillierte Berechnung s. Aktenstuck 08 und XLSX-Anlage)
 
 | Parameter | Wert |

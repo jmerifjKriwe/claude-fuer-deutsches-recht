@@ -1,8 +1,8 @@
 # Klagestrategie und Prozessplanung — LG Hamburg 308 O 79/26 — Windgassen ./. ImagineArt Inc.
 
-**AZ intern:** 26-UMR-0084 / Teilakte ImagineArt-Klage  
-**AZ LG Hamburg:** 308 O 79/26  
-**Datum:** 25.01.2026  
+**AZ intern:** 26-UMR-0084 / Teilakte ImagineArt-Klage
+**AZ LG Hamburg:** 308 O 79/26
+**Datum:** 25.01.2026
 **Bearbeiterin:** Dr. Kreidler-Bremer
 
 ---
@@ -58,10 +58,10 @@ Hilfsweise: Bereicherungsrechtlicher Anspruch (§ 812 BGB) in Höhe der ersparte
 
 ## V. Kosten und Finanzierung
 
-**Streitwert:** 150.000 EUR  
-**Gerichtskosten (GKG):** ca. 3.612 EUR (3 Gerichtsgebühren × 1.204 EUR bei Streitwert 150.000 EUR)  
-**Anwaltsgebühren:** 1,3 Verfahrensgebühr + 1,2 Terminsgebühr = ca. 7.400 EUR netto  
-**Gesamt (Klägerin):** ca. 11.000 EUR  
+**Streitwert:** 150.000 EUR
+**Gerichtskosten (GKG):** ca. 3.612 EUR (3 Gerichtsgebühren × 1.204 EUR bei Streitwert 150.000 EUR)
+**Anwaltsgebühren:** 1,3 Verfahrensgebühr + 1,2 Terminsgebühr = ca. 7.400 EUR netto
+**Gesamt (Klägerin):** ca. 11.000 EUR
 
 Keine Rechtsschutzversicherungs-Deckung vorhanden. Windgassen trägt Kosten selbst. Kostenrisiko bei Verlieren (§ 91 ZPO): Gegnerkosten ca. 7.400 EUR — Windgassen akzeptiert dieses Risiko (bestätigt im Gespräch 14.01.2026).
 

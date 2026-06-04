@@ -1,6 +1,6 @@
 # 06 — Schlechtleistung: §§ 434, 437 BGB — Sachmangel-Kontrolle
 
-**Bearbeiter:** Konrad Pohlmann  
+**Bearbeiter:** Konrad Pohlmann
 **Stand:** 20.04.2026
 
 ---

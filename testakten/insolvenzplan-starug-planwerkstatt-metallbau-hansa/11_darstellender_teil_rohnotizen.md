@@ -1,9 +1,9 @@
 # Darstellender Teil – Rohnotizen und Entwurfsgrundlagen
 
-**Aktenzeichen:** MH-2026-001  
-**Stand:** 5. Juni 2026 (Rohfassung für interne Abstimmung)  
-**Verfasser:** RA Dr. Karolin Westphal, StB Axel Dresen  
-**Rechtsgrundlage:** § 220 InsO, § 6 StaRUG  
+**Aktenzeichen:** MH-2026-001
+**Stand:** 5. Juni 2026 (Rohfassung für interne Abstimmung)
+**Verfasser:** RA Dr. Karolin Westphal, StB Axel Dresen
+**Rechtsgrundlage:** § 220 InsO, § 6 StaRUG
 
 ---
 

@@ -1,0 +1,111 @@
+---
+name: kompendium-16-neuheit-und-erfinder-bis-patent-oder-gebrauch
+description: "gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 16; bündelt 2 frühere Spezialskills (neuheit-und-erfinderischer-schritt, patent-oder-gebrauchsmuster-route) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+---
+
+# Kompendium 16 - gebrauchsmusterrecht
+
+## Zweck
+
+Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+
+## Enthaltene frühere Skills
+
+| Früherer Skill | Frühere Beschreibung |
+| --- | --- |
+| `neuheit-und-erfinderischer-schritt` | Neuheit und erfinderischer Schritt nach GebrMG prüfen: Stand der Technik, öffentliche Zugänglichkeit, Merkmalsgliederung und Angriffsfestigkeit. |
+| `patent-oder-gebrauchsmuster-route` | Patent oder Gebrauchsmuster entscheiden: Geschwindigkeit, Kosten, Prüfung, Schutzdauer, Verfahren, Ausschlüsse, Durchsetzung und internationale Strategie. |
+
+## Arbeitsregel
+
+1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
+3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+
+## Konsolidierte Inhalte
+
+## 1. `neuheit-und-erfinderischer-schritt`
+
+**Frühere Beschreibung:** Neuheit und erfinderischer Schritt nach GebrMG prüfen: Stand der Technik, öffentliche Zugänglichkeit, Merkmalsgliederung und Angriffsfestigkeit.
+
+# Neuheit Und Erfinderischer Schritt
+
+## Wann dieser Skill hilft
+
+Ein eingetragenes oder geplantes Gebrauchsmuster braucht Rechtsbestandsprüfung.
+
+## Arbeitsweise
+
+Arbeite mit Merkmalstabelle und Quellenbelegen; Eintragung beim DPMA ersetzt diese Prüfung nicht.
+
+## Prüfpunkte
+
+- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
+- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
+- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
+- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
+
+## Konkrete Norm-Anker
+
+### § 3 GebrMG Neuheit
+- Stand der Technik umfasst alles vor dem Anmelde- oder Prioritaetstag der Oeffentlichkeit Zugaengliche.
+- **§ 3 Abs. 2 GebrMG: Neuheitsgnade von 6 Monaten** fuer eigene Veroeffentlichungen vor der Anmeldung (wesentlicher Unterschied zum Patent!).
+
+### § 4 GebrMG Erfinderischer Schritt
+- Niedrigere Schwelle als die erfinderische Taetigkeit im Patentrecht (§ 4 PatG).
+- BGH X ZB 27/05 "Demonstrationsschrank" — erfinderischer Schritt ist erfuellt, wenn die Erfindung nicht "ohne erfinderisches Zutun" aus dem Stand der Technik herleitbar war.
+- BGH X ZB 5/16 (verifizieren) — der Massstab ist allenfalls geringfuegig hinter der Patenttatigkeit zurueckbleibend (Vorsicht: Rspr. nicht einheitlich).
+
+### Wichtige Praxis-Anker
+- "Ohne erfinderisches Zutun" — auch trivialere Loesungen koennen schutzfaehig sein.
+- Aber: rein handwerkliche Loesungen sind nicht schutzfaehig.
+
+### Pruefraster
+1. Stand der Technik vollstaendig recherchieren.
+2. Naechster Stand der Technik bestimmen.
+3. Unterschiede zur Erfindung herausarbeiten.
+4. Bewertung ob erfinderischer Schritt erfuellt.
+
+## Output
+
+Rechtsbestandsmemo.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+
+## 2. `patent-oder-gebrauchsmuster-route`
+
+**Frühere Beschreibung:** Patent oder Gebrauchsmuster entscheiden: Geschwindigkeit, Kosten, Prüfung, Schutzdauer, Verfahren, Ausschlüsse, Durchsetzung und internationale Strategie.
+
+# Patent Oder Gebrauchsmuster Route
+
+## Wann dieser Skill hilft
+
+Mandant fragt nach dem besten Schutzrecht.
+
+## Arbeitsweise
+
+Vergleiche ehrlich: schneller Registereintrag gegen ungeprüften Rechtsbestand.
+
+## Prüfpunkte
+
+- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
+- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
+- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
+- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
+
+## Output
+
+Entscheidungsvorlage.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.

@@ -44,7 +44,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ### Konfigurationsprüfung
 
-Zuerst: Klinik-Konfiguration (CLAUDE.md) → Supervisionsmodell prüfen. Falls NICHT "formelle Prüfwarteschlange": 
+Zuerst: Klinik-Konfiguration (CLAUDE.md) → Supervisionsmodell prüfen. Falls NICHT "formelle Prüfwarteschlange":
 
 > "Die Beratungsstelle ist für das Supervisionsmodell [konfigurierbare Flags / leichte Begleitung] eingerichtet — es gibt keine formelle Prüfwarteschlange. [Supervisor] begleitet Entwürfe über [die bestehende Betreuungsstruktur]. Um zur formellen Prüfwarteschlange zu wechseln: CLAUDE.md → Supervisionsmodell auf 'formelle Prüfwarteschlange' setzen."
 

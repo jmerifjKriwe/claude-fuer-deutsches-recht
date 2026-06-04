@@ -1,22 +1,22 @@
 # Aktenstück 06 – Ausschlussschreiben der Vergabestelle
 
-**Aktenzeichen:** VK 1-32/26  
-**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026  
-**Von:** Landeshauptstadt Schwerin, Eigenbetrieb SDS, Vergabestelle  
-**An:** CyberShield Defense GmbH, Alexanderstraße 7, 10178 Berlin  
-**Datum:** 14.04.2026  
+**Aktenzeichen:** VK 1-32/26
+**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026
+**Von:** Landeshauptstadt Schwerin, Eigenbetrieb SDS, Vergabestelle
+**An:** CyberShield Defense GmbH, Alexanderstraße 7, 10178 Berlin
+**Datum:** 14.04.2026
 **Betreff:** Ausschluss Ihres Angebots – LH-SN-Cyber-SOC-NSV-2026
 
 ---
 
-Landeshauptstadt Schwerin  
-Eigenbetrieb Stadtwirtschaft Schwerin (SDS)  
-– Vergabestelle –  
-Am Grünen Tal 18  
+Landeshauptstadt Schwerin
+Eigenbetrieb Stadtwirtschaft Schwerin (SDS)
+– Vergabestelle –
+Am Grünen Tal 18
 19063 Schwerin
 
-CyberShield Defense GmbH  
-Alexanderstraße 7  
+CyberShield Defense GmbH
+Alexanderstraße 7
 10178 Berlin
 
 **Per E-Mail und Einschreiben mit Rückschein**
@@ -27,7 +27,7 @@ Schwerin, 14. April 2026
 
 ## Mitteilung gemäß § 62 VgV
 
-**Betreff:** Vergabeverfahren LH-SN-Cyber-SOC-NSV-2026 „Cybersecurity-Operations-Center als Managed Service und BSI-IT-Sicherheitsbeauftragten-Beratung für Nahverkehr Schwerin GmbH"  
+**Betreff:** Vergabeverfahren LH-SN-Cyber-SOC-NSV-2026 „Cybersecurity-Operations-Center als Managed Service und BSI-IT-Sicherheitsbeauftragten-Beratung für Nahverkehr Schwerin GmbH"
 **TED:** 2026/S 042-XXXXXX
 
 Sehr geehrte Damen und Herren,
@@ -55,7 +55,7 @@ Wir machen Sie auf die Möglichkeit der Rüge nach § 160 Abs. 3 GWB und des Nac
 
 Mit freundlichen Grüßen
 
-Yvonne Behnke  
+Yvonne Behnke
 Vergabestelle SDS / Landeshauptstadt Schwerin
 
 ---

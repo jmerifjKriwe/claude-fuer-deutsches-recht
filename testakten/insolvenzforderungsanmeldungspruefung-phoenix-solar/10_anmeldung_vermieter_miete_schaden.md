@@ -1,8 +1,8 @@
 # Forderungsanmeldung – Gewerbepark Babelsberg GmbH (Miete und Schadensersatz)
 
-**Aktenzeichen:** 35 IN 417/26  
-**Gläubiger-ID (intern):** G007  
-**Eingang:** 15. Mai 2026 (E-Mail)  
+**Aktenzeichen:** 35 IN 417/26
+**Gläubiger-ID (intern):** G007
+**Eingang:** 15. Mai 2026 (E-Mail)
 **Anmeldungstyp:** Gemischte Anmeldung: Insolvenzforderung (§ 38 InsO, April-Miete anteilig), Masseverbindlichkeit (§ 55 InsO, Mai/Juni), Schadensersatz (§ 38 oder § 55, strittig)
 
 ---

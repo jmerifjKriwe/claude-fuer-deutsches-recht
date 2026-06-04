@@ -1,8 +1,8 @@
 # 11 Markenanmeldung "EFS Recht" — Kollision mit UM 018-188-466
 
-**Aktenzeichen:** KBH-2026-001-EFS  
-**Stand:** 28. April 2026  
-**Bearbeiter:** RA Monika Hellwig (Markenrecht)  
+**Aktenzeichen:** KBH-2026-001-EFS
+**Stand:** 28. April 2026
+**Bearbeiter:** RA Monika Hellwig (Markenrecht)
 
 ---
 
@@ -10,13 +10,13 @@
 
 Die EFS-GmbH möchte die Bezeichnung **"EFS Recht"** als Wortmarke beim Deutschen Patent- und Markenamt (DPMA) anmelden. Recherchen im DPMA-Markenregister und in der EUIPO-Datenbank haben eine potenziell kollidierende ältere Marke aufgedeckt:
 
-**Ältere Marke:** Unionsmarke (UM) Nr. **018-188-466**  
-**Inhaber:** EFS Kanzlei Stuttgart GmbH & Co. KG (Stuttgart)  
-**Zeichen:** "EFS KANZLEI" (Wortmarke)  
-**Klassen:** NIZZA-Klasse 45 (Rechtsberatung, Rechtsdienstleistungen)  
-**Anmeldetag:** 14.09.2021  
-**Eingetragen:** 18.02.2022  
-**Status:** Eingetragen, gültig bis 14.09.2031  
+**Ältere Marke:** Unionsmarke (UM) Nr. **018-188-466**
+**Inhaber:** EFS Kanzlei Stuttgart GmbH & Co. KG (Stuttgart)
+**Zeichen:** "EFS KANZLEI" (Wortmarke)
+**Klassen:** NIZZA-Klasse 45 (Rechtsberatung, Rechtsdienstleistungen)
+**Anmeldetag:** 14.09.2021
+**Eingetragen:** 18.02.2022
+**Status:** Eingetragen, gültig bis 14.09.2031
 
 Die Unionsmarke UM 018-188-466 wurde in der EUIPO-Datenbank recherchiert (euipo.europa.eu, TMview).
 

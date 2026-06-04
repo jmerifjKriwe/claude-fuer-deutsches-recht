@@ -1,8 +1,8 @@
 # 21 Chronologie des Kanzleigründungsprozesses
 
-**Aktenzeichen:** KBH-2026-001-EFS  
-**Stand:** 08. Mai 2026  
-**Bearbeiter:** Alle Beteiligten  
+**Aktenzeichen:** KBH-2026-001-EFS
+**Stand:** 08. Mai 2026
+**Bearbeiter:** Alle Beteiligten
 
 ---
 

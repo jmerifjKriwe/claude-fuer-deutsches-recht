@@ -1,7 +1,7 @@
 # Gegendarstellungsrecht — Eppendorfer Wochenanzeiger — Windgassen
 
-**AZ intern:** 26-UMR-0084 / Teilakte Presse  
-**Datum:** 22.01.2026  
+**AZ intern:** 26-UMR-0084 / Teilakte Presse
+**Datum:** 22.01.2026
 **Bearbeiterin:** Dr. Kreidler-Bremer
 
 ---
@@ -13,7 +13,7 @@ Der Eppendorfer Wochenanzeiger (EWA), erscheinend donnerstags, Auflage ca. 18.00
 ### Originaltext (Abdruck aus der Akte):
 
 > **„Hamburger Fotografin soll Demobilder gestellt haben"**
-> 
+>
 > Eine bekannte Hamburger Fotografin aus Eppendorf, die zuletzt für eine große Hamburger Wochenzeitung Bilder von den Klimademonstrationen in Altona (November 2025) lieferte, gerät nun in Erklärungsnot: Mehrere Demonstrationsteilnehmer berichten, die Fotografin habe Teilnehmer angewiesen, bestimmte Positionen einzunehmen und Schilder in bestimmte Richtungen zu halten, um „dramatischere Bilder" zu erhalten. Damit könnten die veröffentlichten Aufnahmen den Charakter einer Inszenierung haben, statt echte Momentaufnahmen zu sein. Die Fotografin war für eine Stellungnahme nicht erreichbar.
 
 **Chefredakteurin:** Gerlinde Pasold

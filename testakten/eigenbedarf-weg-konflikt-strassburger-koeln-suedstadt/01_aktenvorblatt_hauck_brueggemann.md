@@ -1,9 +1,9 @@
 # Aktenvorblatt
 
-**Kanzlei:** Hauck-Brüggemann Mietrecht  
-**Rechtsanwältin:** Vanessa Hauck-Brüggemann, Fachanwältin für Miet- und WEG-Recht  
-**Anschrift:** Berrenrather Straße 114, 50937 Köln-Sülz  
-**Telefon:** 0221 / 94 87 31-0  **Fax:** 0221 / 94 87 31-99  
+**Kanzlei:** Hauck-Brüggemann Mietrecht
+**Rechtsanwältin:** Vanessa Hauck-Brüggemann, Fachanwältin für Miet- und WEG-Recht
+**Anschrift:** Berrenrather Straße 114, 50937 Köln-Sülz
+**Telefon:** 0221 / 94 87 31-0  **Fax:** 0221 / 94 87 31-99
 **E-Mail:** kanzlei@hauck-brueggemann-mietrecht.de
 
 ---
@@ -53,12 +53,12 @@
 
 ## Rechtliche Schwerpunkte
 
-1. Eigenbedarfskündigung gem. § 573 Abs. 2 Nr. 2 BGB  
-2. Widerspruch der Mieter, Sozialklausel § 574 BGB  
-3. WEG-Beschlussanfechtung § 44 WEG (Treppenhaussanierung)  
-4. Mietminderung wegen Schimmel § 536 BGB  
-5. Heizungsumstellung WEG / GEG  
-6. Schlichtungsverfahren Mieterverein Köln  
+1. Eigenbedarfskündigung gem. § 573 Abs. 2 Nr. 2 BGB
+2. Widerspruch der Mieter, Sozialklausel § 574 BGB
+3. WEG-Beschlussanfechtung § 44 WEG (Treppenhaussanierung)
+4. Mietminderung wegen Schimmel § 536 BGB
+5. Heizungsumstellung WEG / GEG
+6. Schlichtungsverfahren Mieterverein Köln
 
 ---
 

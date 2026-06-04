@@ -1,8 +1,8 @@
 # Entwurf: Begleitschreiben an das Insolvenzgericht
 
-Amtsgericht Bremen  
-Insolvenzgericht  
-Ostertorstraße 25  
+Amtsgericht Bremen
+Insolvenzgericht
+Ostertorstraße 25
 28195 Bremen
 
 **Betrifft:** Matthias Reimers, Antrag auf Eröffnung des Verbraucherinsolvenzverfahrens, Restschuldbefreiung und Stundung der Verfahrenskosten

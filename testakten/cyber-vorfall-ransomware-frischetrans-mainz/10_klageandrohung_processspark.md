@@ -1,27 +1,27 @@
 # Klageandrohungsschreiben an ProcessSpark Cloud AG
 
-**Aktenstück:** 10  
-**Datum:** 12.05.2026  
-**Versand:** Per Einschreiben/Rückschein und per E-Mail (legal@processspark.de)**  
-**Aktenzeichen intern:** DP-2026-0506-FTM / ProcessSpark  
+**Aktenstück:** 10
+**Datum:** 12.05.2026
+**Versand:** Per Einschreiben/Rückschein und per E-Mail (legal@processspark.de)**
+**Aktenzeichen intern:** DP-2026-0506-FTM / ProcessSpark
 
 ---
 
-Kanzlei Drosten & Pekonkur  
-Rechtsanwälte und Fachanwälte  
-Schillerstraße 14  
-55116 Mainz  
-Telefon: +49 6131 2240-0  
-Telefax: +49 6131 2240-99  
+Kanzlei Drosten & Pekonkur
+Rechtsanwälte und Fachanwälte
+Schillerstraße 14
+55116 Mainz
+Telefon: +49 6131 2240-0
+Telefax: +49 6131 2240-99
 E-Mail: l.drosten@drosten-pekonkur.de
 
 Mainz, den 12.05.2026
 
 **Per Einschreiben mit Rückschein**
 
-ProcessSpark Cloud AG  
-— Rechtsabteilung / Vorstand —  
-Leopoldstraße 88  
+ProcessSpark Cloud AG
+— Rechtsabteilung / Vorstand —
+Leopoldstraße 88
 80802 München
 
 ---
@@ -81,16 +81,16 @@ Eine abschließende Schadensquantifizierung liegt nach Fertigstellung des forens
 
 Wir machen hiermit namens und in Vollmacht unserer Mandantin folgende Ansprüche geltend:
 
-**1. Vertragsstrafe nach § 14 Abs. 3 des Vertrages:**  
+**1. Vertragsstrafe nach § 14 Abs. 3 des Vertrages:**
 Für 7 angefangene Sieben-Tages-Perioden des Patchverzugs: 7 × 0,5 % × 14.800 EUR = **518,00 EUR**
 
-**2. Schadensersatz nach §§ 280, 241 Abs. 2 BGB i.V.m. dem Vertrag:**  
+**2. Schadensersatz nach §§ 280, 241 Abs. 2 BGB i.V.m. dem Vertrag:**
 Vorläufig **681.300,00 EUR** (vorbehaltlich der Erhöhung nach forensischem Abschlussbericht)
 
-**3. Auskunftserteilung:**  
+**3. Auskunftserteilung:**
 Vorlage sämtlicher Patch-Management-Logs, Incident-Response-Protokolle und interner Kommunikation zu CVE-2026-0712 seit dem 18.02.2026 binnen 7 Tagen (bis 19.05.2026).
 
-**4. Ankündigung der außerordentlichen Kündigung:**  
+**4. Ankündigung der außerordentlichen Kündigung:**
 Wir kündigen an, den IT-Betriebsvertrag vom 15.03.2021 nebst Nachtrag 3 aus wichtigem Grund (§ 626 BGB) außerordentlich und fristlos zu kündigen, sofern bis zum Ablauf der nachstehenden Frist keine Einigung erzielt wird. Ein schuldhafter Patch-Verzug von 55 Tagen bei einer CVSS-9.8-Schwachstelle, der zu einem Schaden von über 680.000 EUR führt, stellt einen wichtigen Grund dar, der eine weitere Zusammenarbeit unzumutbar macht.
 
 ### V. Frist und Konsequenzen bei Untätigkeit
@@ -107,21 +107,21 @@ Wir weisen darauf hin, dass sich die Pönale für jeden weiteren Tag der Nichter
 
 ### VI. Rechtsgrundlagen
 
-- § 280 Abs. 1 BGB — Schadensersatz wegen Pflichtverletzung  
-- § 241 Abs. 2 BGB — Schutzpflichten  
-- § 254 BGB — Mitverschulden (hier: unserer Mandantin nicht anzunehmen)  
-- § 626 BGB — außerordentliche Kündigung aus wichtigem Grund  
-- § 339 BGB — Vertragsstrafe  
-- § 340 Abs. 2 BGB — Vertragsstrafe neben Schadensersatz  
-- § 12 Abs. 2 Nachtrag 3 zum Vertrag vom 15.03.2021 — Patchpflicht  
-- § 14 Abs. 3 Vertrag — Pönalenregelung  
+- § 280 Abs. 1 BGB — Schadensersatz wegen Pflichtverletzung
+- § 241 Abs. 2 BGB — Schutzpflichten
+- § 254 BGB — Mitverschulden (hier: unserer Mandantin nicht anzunehmen)
+- § 626 BGB — außerordentliche Kündigung aus wichtigem Grund
+- § 339 BGB — Vertragsstrafe
+- § 340 Abs. 2 BGB — Vertragsstrafe neben Schadensersatz
+- § 12 Abs. 2 Nachtrag 3 zum Vertrag vom 15.03.2021 — Patchpflicht
+- § 14 Abs. 3 Vertrag — Pönalenregelung
 
 ---
 
 Mit freundlichen Grüßen
 
-RA Lukas Drosten  
-Fachanwalt für IT-Recht  
+RA Lukas Drosten
+Fachanwalt für IT-Recht
 Kanzlei Drosten & Pekonkur, Mainz
 
 *Anlage: Vollmacht der Frischetrans Mittelrhein GmbH*

@@ -1,6 +1,6 @@
 # 03 Klausel und Zustellung — Checkliste § 724, § 750 ZPO
 
-**Akte:** MR-2026-ZV-0188  
+**Akte:** MR-2026-ZV-0188
 **Datum:** 05.01.2026
 
 ---

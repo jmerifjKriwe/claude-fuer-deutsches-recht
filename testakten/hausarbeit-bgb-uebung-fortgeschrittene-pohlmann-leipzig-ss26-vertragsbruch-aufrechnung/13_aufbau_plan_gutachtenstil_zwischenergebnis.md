@@ -1,14 +1,14 @@
 # 13 — Aufbau-Plan: Gutachtenstil, Gliederung und Zwischenergebnisse
 
-**Bearbeiter:** Konrad Pohlmann  
+**Bearbeiter:** Konrad Pohlmann
 **Stand:** 27.04.2026 (Finaler Gliederungsentwurf vor Erstentwurf)
 
 ---
 
 ## Vollständige Gliederung der Hausarbeit
 
-**Titel:** Gutachten zur BGB Übung für Fortgeschrittene SS 26  
-**Bearbeiter:** Konrad Pohlmann, Matrikelnummer 5811274  
+**Titel:** Gutachten zur BGB Übung für Fortgeschrittene SS 26
+**Bearbeiter:** Konrad Pohlmann, Matrikelnummer 5811274
 **Aufgabe:** Ansprüche A/B, B/C, prozessuale Aufrechnung
 
 ---
@@ -25,7 +25,7 @@ A. Ansprüche des A gegen B
            bb) Einigung über Kaufsache und Preis
            cc) Verbrauchsgüterkauf (§ 474 BGB)
         b) Ergebnis: Kaufpreisforderung entstanden (4.800 Euro)
-     
+
      2. Erlöschen durch Aufrechnung (§§ 387–389 BGB)
         a) Aufrechnungslage (§ 387 BGB)
            aa) Gegenseitigkeit
@@ -37,14 +37,14 @@ A. Ansprüche des A gegen B
         d) Rechtsfolge: § 389 BGB — Rückwirkung
            [STREITSTAND: Rückwirkung, Fiktionstheorie vs. teleologische Reduktion]
         e) Ergebnis: Kaufpreisanspruch erloschen in Höhe von 2.200 Euro
-     
+
      3. Einrede aus Sachmängeln (§§ 437, 273 BGB)?
         a) Sachmangel (§ 434 BGB)
         b) Zurückbehaltungsrecht des B
         c) Ergebnis: B kann Zug-um-Zug-Leistung einreden
-     
+
      4. Gesamtergebnis A gegen B: Restanspruch 2.600 Euro, fällig Zug-um-Zug
-  
+
   II. Verzugsschadensersatz (§§ 280 Abs. 1, 2, 286 BGB)
       1. Schuldverhältnis (Kaufvertrag)
       2. Pflichtverletzung (Nichtleistung)
@@ -85,15 +85,15 @@ C. Prozessuale Aufrechnung (§ 322 Abs. 2 ZPO)
   I. Bedeutung der prozessualen Aufrechnung
      1. Materiell-rechtliche vs. prozessuale Aufrechnung
      2. Rechtskrafterstreckung (§ 322 Abs. 2 ZPO)
-  
+
   II. Voraussetzungen
       1. Zulässigkeit im Prozess
       2. Schlüssige Darlegung der Gegenforderung
       3. Bedingte (Hilfs-)Aufrechnung
-  
+
   III. Streitstand: Hilfsaufrechnung
        [STREITSTAND: Zulässigkeit der Eventualaufrechnung im Zivilprozess]
-  
+
   IV. Ergebnis: Prozessuale Aufrechnung des B im Verfahren C ./. B zulässig
 
 D. Gesamtergebnis

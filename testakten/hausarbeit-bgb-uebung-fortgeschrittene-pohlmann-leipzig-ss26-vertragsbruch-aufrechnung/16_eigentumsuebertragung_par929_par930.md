@@ -1,6 +1,6 @@
 # 16 — Eigentumsübertragung: §§ 929, 930 BGB
 
-**Bearbeiter:** Konrad Pohlmann  
+**Bearbeiter:** Konrad Pohlmann
 **Stand:** 30.04.2026
 
 ---

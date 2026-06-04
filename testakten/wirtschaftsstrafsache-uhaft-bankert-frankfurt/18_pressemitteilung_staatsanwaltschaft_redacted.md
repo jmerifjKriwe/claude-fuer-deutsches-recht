@@ -6,13 +6,13 @@
 
 ## PRESSEMITTEILUNG
 
-**Staatsanwaltschaft Frankfurt am Main**  
-Pressestelle  
-Konrad-Adenauer-Straße 20  
-60313 Frankfurt am Main  
-presse@sta-frankfurt.de  
+**Staatsanwaltschaft Frankfurt am Main**
+Pressestelle
+Konrad-Adenauer-Straße 20
+60313 Frankfurt am Main
+presse@sta-frankfurt.de
 
-**Nr. 12/2025**  
+**Nr. 12/2025**
 Frankfurt am Main, **17. März 2025**
 
 ---
@@ -37,9 +37,9 @@ Es wird darauf hingewiesen, dass der Beschuldigte unschuldig ist, bis seine Schu
 
 ---
 
-**Rückfragen an:**  
-Pressestelle der Staatsanwaltschaft Frankfurt am Main  
-Tel.: 069 / 1367-5500  
+**Rückfragen an:**
+Pressestelle der Staatsanwaltschaft Frankfurt am Main
+Tel.: 069 / 1367-5500
 Erreichbar Montag bis Freitag, 9–17 Uhr
 
 ---
@@ -52,7 +52,7 @@ Erreichbar Montag bis Freitag, 9–17 Uhr
 
 Die Pressemitteilung wurde noch vor der Einlieferung des Mandanten in die JVA veröffentlicht. Dies ist verfahrenstaktisch bedenklich: Die Nennung der Tatvorwürfe in der Öffentlichkeit zum jetzigen Zeitpunkt (kein rechtskräftiges Urteil) birgt das Risiko einer Vorverurteilung. Der Mandant ist im Markt als Geschäftsführer einer mittelständischen GmbH bekannt; die Presse hat die Mitteilung überregional aufgegriffen.
 
-**Mögliche Rechtsmittel:**  
+**Mögliche Rechtsmittel:**
 Eine Gegendarstellung nach § 10 Hessisches Pressegesetz oder eine Anfrage an die Pressestelle der StA, bestimmte Details zurückzunehmen, ist erwägenswert. Die Nennung des Unternehmens in weiteren Berichten ist jedoch nicht mehr zu verhindern.
 
 Kanzlei hat für Anfragen von Journalisten die Formulierung vorbereitet: *„Unser Mandant bestreitet die erhobenen Vorwürfe vollumfänglich. Das Strafverfahren ist nicht abgeschlossen; eine Verurteilung hat nicht stattgefunden."*

@@ -1,6 +1,6 @@
 # Aktenstück 09 — Cyber-Lösegeld und Sanktionsrecht (OFAC)
 
-**Bezug:** D&O-Deckungsklage LG Köln 26 O 144/26; Ablehnungsgrund "OFAC-Sanktions-Klausel"  
+**Bezug:** D&O-Deckungsklage LG Köln 26 O 144/26; Ablehnungsgrund "OFAC-Sanktions-Klausel"
 **Ereignis:** Ransomware-Angriff auf Vogelweide+Co Demenz-WG GmbH, November 2022
 
 ---

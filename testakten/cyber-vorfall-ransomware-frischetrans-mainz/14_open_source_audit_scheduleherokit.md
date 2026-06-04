@@ -1,8 +1,8 @@
 # Open-Source-Compliance-Audit — „TourPlanner" / scheduleHero (AGPL-3.0)
 
-**Aktenstück:** 14  
-**Datum:** 12.–14.05.2026  
-**Mandantin:** Frischetrans Mittelrhein GmbH  
+**Aktenstück:** 14
+**Datum:** 12.–14.05.2026
+**Mandantin:** Frischetrans Mittelrhein GmbH
 **Bearbeiter:** RA Lukas Drosten, Fachanwalt für IT-Recht
 
 ---
@@ -95,7 +95,7 @@ Eine erfolgreiche Abmahnung oder Klage durch die ScheduleHero Foundation würde 
 
 TourPlanner wird vollständig unter AGPL-3.0 veröffentlicht, Quellcode auf einem öffentlichen Repository (z.B. GitHub) bereitgestellt, Nutzern der Fahrer-App ein Hinweis auf den Quellcode-Zugang gegeben.
 
-**Vorteil:** Vollständige Compliance, keine Kosten für kommerzielle Lizenz.  
+**Vorteil:** Vollständige Compliance, keine Kosten für kommerzielle Lizenz.
 **Nachteil:** Offenlegung des TourPlanner-Quellcodes; kompetitiver Nachteil, wenn Konkurrenten die Anwendung analysieren.
 
 ### Option B: Kommerzielle Lizenz (Dual-Licensing)
@@ -108,7 +108,7 @@ Frischetrans erwirbt von der ScheduleHero Foundation eine kommerzielle Lizenz f�
 
 scheduleHero wird durch eine funktional gleichwertige Scheduling-Bibliothek mit permissiver Lizenz (MIT, Apache 2.0) ersetzt.
 
-**Vorteil:** Langfristige Unabhängigkeit.  
+**Vorteil:** Langfristige Unabhängigkeit.
 **Nachteil:** Entwicklungsaufwand (geschätzt 3–6 Monate, ca. 40.000–80.000 EUR Entwicklungskosten).
 
 ---

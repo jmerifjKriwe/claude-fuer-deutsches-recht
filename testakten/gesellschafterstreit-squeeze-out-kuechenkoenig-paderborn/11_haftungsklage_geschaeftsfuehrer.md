@@ -1,8 +1,8 @@
 # 11 — Klageentwurf: Geschäftsführerhaftung gemäß § 43 GmbHG
 
-**Akte:** DWSP/2026/GR-4417  
-**Erstellt:** 26.04.2026  
-**Bearbeiter:** Prof. Dr. Wieland Drosselberg  
+**Akte:** DWSP/2026/GR-4417
+**Erstellt:** 26.04.2026
+**Bearbeiter:** Prof. Dr. Wieland Drosselberg
 
 ---
 
@@ -22,9 +22,9 @@
 ## 2. Klageanträge (Entwurf)
 
 > „1. Der Beklagte wird verurteilt, an die Klägerin 430.000 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 01.01.2025 zu zahlen.
-> 
+>
 > 2. Der Beklagte wird verurteilt, an die Klägerin weiteren Schadensersatz in Höhe von 80.000 EUR (entgangene Gewinne / Opportunitätskosten) nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen.
-> 
+>
 > 3. Die Kosten des Rechtsstreits trägt der Beklagte."
 
 ---
@@ -95,5 +95,5 @@ Selbst wenn der polnische Markt 2024 ungünstig war, ändert dies nichts an der 
 
 ---
 
-*Erstellt: 26.04.2026 — Prof. Dr. Wieland Drosselberg*  
+*Erstellt: 26.04.2026 — Prof. Dr. Wieland Drosselberg*
 *Referenz: § 43 GmbHG (dejure.org/gesetze/GmbHG/43.html); BGH II ZR 224/00; § 254 BGB*

@@ -1,8 +1,8 @@
 # 02 — Gesellschafterstruktur und Konfliktchronologie
 
-**Akte:** DWSP/2026/GR-4417  
-**Erstellt:** 17.04.2026  
-**Bearbeiter:** Ass. iur. Miriam Sandtenbruch  
+**Akte:** DWSP/2026/GR-4417
+**Erstellt:** 17.04.2026
+**Bearbeiter:** Ass. iur. Miriam Sandtenbruch
 
 ---
 

@@ -16,14 +16,14 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 **Az. der Kanzlei:** 2026/0418 — DSA/DMA-Komplex Meißnerlein
 
-**Sachbearbeiter:** RA Dr. Cunibert Hagenroth, Fachanwalt für IT-Recht  
+**Sachbearbeiter:** RA Dr. Cunibert Hagenroth, Fachanwalt für IT-Recht
 **Sozius:** RA'in Friedlinde Quasthoff-Prügelmann
 
-**Mandantin:**  
-Baustube Meißnerlein GmbH  
-Innere Bachgasse 17  
-91315 Höchstadt an der Aisch  
-Geschäftsführerin: Walpurga Meißnerlein-Hochkönig  
+**Mandantin:**
+Baustube Meißnerlein GmbH
+Innere Bachgasse 17
+91315 Höchstadt an der Aisch
+Geschäftsführerin: Walpurga Meißnerlein-Hochkönig
 HRB Bamberg 11 247
 
 **Passendes Plugin:** `dsa-dma-digitalregulierung`

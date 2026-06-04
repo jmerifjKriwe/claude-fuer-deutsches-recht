@@ -140,7 +140,7 @@ Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 1. **Sachverhalt** (knapp): Wohnsitze, Beteiligungs- oder Arbeitskonstellation, Zeitraum.
 2. **Frage(n)**: konkrete Mandantenfragen — Besteuerungsrecht, Quellensteuer, Erstattung.
 3. **Kurzantwort** (1 Satz): DBA-Polen 2003 Art. X regelt das Besteuerungsrecht; Anrechnungs-/Freistellungsmethode wird in DE angewendet.
-4. **Rechtliche Bewertung**: 
+4. **Rechtliche Bewertung**:
    - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-PL i.V.m. § 1 EStG).
    - Sachliche Anwendbarkeit (Art. 2 DBA-PL).
    - Einkunftsart (Art. 6-21 DBA-PL).

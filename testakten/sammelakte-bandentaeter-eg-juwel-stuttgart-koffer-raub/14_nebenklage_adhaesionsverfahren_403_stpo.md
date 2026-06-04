@@ -1,8 +1,8 @@
 # Aktenstück 14 — Nebenklage und Adhäsionsverfahren § 403 StPO
 
-**Verfahren:** StA Stuttgart 4 Js 18.422/26  
-**Nebenkläger:** 1. Beate Goldhofer-Egenter, 2. Selma Aydin  
-**Nebenklagevertreterin:** RAin Carola Brandes-Weiss, Stuttgart  
+**Verfahren:** StA Stuttgart 4 Js 18.422/26
+**Nebenkläger:** 1. Beate Goldhofer-Egenter, 2. Selma Aydin
+**Nebenklagevertreterin:** RAin Carola Brandes-Weiss, Stuttgart
 **Stand:** 07.02.2026
 
 ---

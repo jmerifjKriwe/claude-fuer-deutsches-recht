@@ -1,7 +1,7 @@
 # Aktenstück 21 — Haftprüfung und Haftfortdauer: Beschlüsse und Chronologie
 
-**Verfahren:** StA Stuttgart 4 Js 18.422/26 / AG Stuttgart / LG Stuttgart  
-**Bearbeitung:** Alle Verteidiger  
+**Verfahren:** StA Stuttgart 4 Js 18.422/26 / AG Stuttgart / LG Stuttgart
+**Bearbeitung:** Alle Verteidiger
 **Stand:** 13.02.2026
 
 ---
@@ -12,7 +12,7 @@
 
 **Haftbefehl:** AG Stuttgart, Az. 2025-2904 U/1, erlassen 20.10.2025, ER Meschede
 
-**Haftgründe:** 
+**Haftgründe:**
 - Fluchtgefahr (§ 112 Abs. 2 Nr. 2 StPO): Korbiel ist polnischer Staatsangehöriger ohne festen Wohnsitz in Deutschland (Zimmermiete auf 1 Monat); Verbindungen nach Polen und mutmasslich in internationale Bandennetzwerke; zu erwartende hohe Freiheitsstrafe (mind. 5 Jahre) erhöhe Fluchtanreiz erheblich
 - Verdunklungsgefahr (§ 112 Abs. 2 Nr. 3 StPO): Gefahr der Absprache mit anderen Beschuldigten; Beeinflussung von Zeugen (Goldhofer-Egenter); Manipulation des noch nicht entschlusselten Handys (SP-007)
 

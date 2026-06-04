@@ -1,7 +1,7 @@
 # 21 Kommunikation Jugendamt und Sozialamt — Koordinierung Raeumung
 
-**Akte:** MR-2026-ZV-0188  
-**Datum:** 11.02.2026  
+**Akte:** MR-2026-ZV-0188
+**Datum:** 11.02.2026
 **Anlass:** Sicherstellung sozialamtlicher Begleitung zum Schutz der Tochter Hilde
 
 ---

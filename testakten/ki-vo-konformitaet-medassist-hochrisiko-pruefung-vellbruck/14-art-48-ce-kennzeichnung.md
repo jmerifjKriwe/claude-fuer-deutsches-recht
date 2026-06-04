@@ -1,8 +1,8 @@
 # Aktenstück 14 — Art. 48 KI-VO: CE-Kennzeichnung — Koordination mit MDR
 
-**Aktenzeichen:** 2026-V-0427  
-**Erstellt:** 18.04.2026  
-**Bearbeitung:** RAin Dr. Henrietta Vellbruck-Steinheim  
+**Aktenzeichen:** 2026-V-0427
+**Erstellt:** 18.04.2026
+**Bearbeitung:** RAin Dr. Henrietta Vellbruck-Steinheim
 **Rechtsgrundlage:** Art. 48 KI-VO (EU) 2024/1689; Art. 20 MDR (EU) 2017/745
 
 ---
@@ -71,10 +71,10 @@ Für Software-Produkte wird die CE-Kennzeichnung typischerweise wie folgt umgese
 
 ## 6. Gesamtbewertung Art. 48
 
-**Art. 48 KI-VO: Noch nicht erfüllbar — abhängig von NB-Zertifizierung.**  
+**Art. 48 KI-VO: Noch nicht erfüllbar — abhängig von NB-Zertifizierung.**
 MDR-CE korrekt angebracht. KI-VO-CE kann erst nach Abschluss des NB-Verfahrens angebracht werden. Keine eigenständige Verletzung zum gegenwärtigen Zeitpunkt, sofern KI-VO-CE nicht vorzeitig angebracht wird.
 
 ---
 
-*Heidelberg, 18.04.2026*  
+*Heidelberg, 18.04.2026*
 *RAin Dr. Henrietta Vellbruck-Steinheim — Az. 2026-V-0427*

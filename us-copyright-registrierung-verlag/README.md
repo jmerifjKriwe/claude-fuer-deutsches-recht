@@ -65,109 +65,36 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `advertising-promotional-campaigns` | Prueft US-Copyright in Kampagnen: copy, music, video, photos, social cutdowns, influencer assets and agency assignments. |
-| `ai-contract-disclosure` | Entwirft US-Copyright-Klauseln zu AI material, training, output warranties, indemnity, audit and disclosure. |
-| `ai-generated-material-disclosure` | KI-generierte oder KI-assistierte Inhalte im Verlagstitel erkennen, Human-Authorship-Anteile abgrenzen, AI-Material disclaimen und eCO-Angaben vorsichtig vorbereiten. |
 | `ai-output-authorship-title17` | Prueft generative AI outputs nach USCO-Policy: human authorship, selection, arrangement, modification und excluded material. |
-| `ai-training-fair-use-risk` | Prueft AI Training als US-Copyright-Risiko: input corpus, copying, fair use, licensing, opt-out und pending litigation awareness. |
 | `allgemein` | Kaltstart und Routing für deutsche Verlage: Werkklasse, Rechtekette, Antragstyp, Gebühren, Deposit, Versand, Monitoring und Aktenvermerk in einer belastbaren US-Registrierungsakte. |
-| `anticircumvention-1201` | Prueft Zugriffsschutz, Technological Protection Measures, Umgehung, Tools, Exemptions und Security-Research-Risiken. |
-| `architectural-works-120` | Prueft architectural works, building plans, photos, alterations, useful article limits und deutsche Architekturbüro-Schnittstellen. |
-| `attorneys-fees-505` | Prueft Fee-Shifting-Risiko, prevailing party, objective reasonableness und Vergleichsdruck im US-Copyright-Prozess. |
-| `authorschaft-work-made-for-hire-transfer-chain` | Autorenschaft, Work made for hire und Rechtekette: deutsche Verlagsverträge in US-Antragslogik übersetzen, ohne Arbeitnehmer-/Auftragswerkfragen blind zu behaupten. |
-| `backlist-rights-gap-audit` | Backlist Rights Gap Audit: ältere Verlagsverträge, Übersetzungen, Bildrechte, digitale Rechte, US-Rechte und Registrierungsfähigkeit systematisch prüfen. |
-| `best-edition-kopienzahl` | Best Edition und Kopienzahl für veröffentlichte Verlagswerke: USA-Erstveröffentlichung, foreign first edition, physische Bücher, Serien und Mandatory-Deposit-Schnittstelle sauber trennen. |
-| `characters-fictional-universe` | Prueft Schutz fiktiver Figuren, Universen, character bible, merchandising and derivative exploitation. |
-| `collective-work-contributions-periodicals` | Sammelwerke, Beiträge, Periodika und Herausgeberbände: kollektiven Schutz, Einzelbeiträge, Fremdbeiträge und Gruppenoptionen sauber auseinanderhalten. |
-| `compilations-derivative-works-103` | Prueft Sammelwerke, Datenzusammenstellungen, Bearbeitungen, Übersetzungen und abgeleitete Werke nach 17 USC 103. |
-| `copying-substantial-similarity` | Bereitet US-Infringement-Prüfung zu Zugang, tatsächlicher Kopie, protectable expression und substantial similarity vor. |
-| `copyright-bankruptcy-365n` | Prueft Copyright-Lizenzen in US-Bankruptcy, rejection, licensee election, source code and IP survival issues. |
-| `copyright-management-info-1202` | Prueft Entfernen oder Fälschen von CMI, Metadaten, Wasserzeichen, Credits, AI-Content-Labels und Knowledge-Elemente. |
-| `copyright-royalty-board-ch8` | Prueft CRB-Verfahren, statutory rates, distribution proceedings, royalty claims und Musik-/Broadcast-Schnittstellen. |
-| `copyright-small-claims-ccb` | Prueft Copyright Small Claims, opt-out, damages cap, procedure, foreign claimant issues und taktische Eignung. |
-| `copyrightability-idea-facts-methods` | Schutzgegenstand eingrenzen: Ideen, Methoden, Fakten, amtliche Texte, Tabellenlogik und bloße Daten von konkreter Ausdrucksgestaltung trennen. |
-| `criminal-copyright-506` | Prueft strafrechtliche Copyright-Risiken, willfulness, commercial advantage, prerelease works und Schnittstelle zu 18 USC 2319. |
-| `customs-border-copyright` | Prueft Grenzschutz, CBP recordation, infringing imports, counterfeit-adjacent goods and takedown at border. |
-| `database-collections-us-law` | Prueft Datensammlungen, Auswahl/Anordnung, factual data, database licensing und EU/US-Missverständnisse. |
-| `deposit-vs-registration-407-408` | Mandatory Deposit (§ 407) und Registrierung (§ 408) auseinanderhalten: Pflichtabgabe, formale Registrierung, Shipping Slip, Fristen und Verlagspraxis. |
-| `derivative-right-adaptations` | Prueft Adaption, Translation, Sequel, Audiobook, Film, Game, Remix und andere derivative works. |
-| `derivative-translation-revised-edition` | Übersetzungen, Bearbeitungen und Neuauflagen: neuen Schutzgegenstand von Vorwerk, Fremdmaterial und unveränderter Backlist trennen. |
-| `digital-audio-recording-act` | Prueft Chapter 10: digital audio recording devices, media, serial copy management und royalty-Schnittstellen. |
-| `digital-transmission-streaming` | Prueft Streams, Downloads, interactive/noninteractive services, public performance, mechanicals, sound recording und platform splits. |
-| `digitaler-deposit-upload` | Digitaler Deposit-Upload im eCO: zulässige Fälle, Dateiformate, separate Files bei Gruppenoptionen, Abschluss nach Pay.gov und typische Upload-Fallen. |
-| `discovery-evidence-copyright` | Organisiert US-Discovery-relevante Beweise: source files, metadata, access, sales, logs, takedown records and privilege. |
-| `distribution-first-sale-109` | Prueft Verbreitung, Import, Recommerce, gebrauchte Bücher, Softwarekopien, E-Books und first-sale-Grenzen. |
-| `dmca-safe-harbor-512-notice` | Prueft Notice-and-Takedown, designated agent, expeditious removal, counter notification und OSP-Safe-Harbor. |
-| `duration-term-302-305` | Prueft Schutzdauer nach US-Recht: individual works, joint works, anonymous, pseudonymous, WMFH, pre-1978 und restoration. |
-| `eco-account-organisationskonto` | eCO-Organisationskonto für Verlage: zentrale Mailbox, Rollen, Passwort-/MFA-Konzept, Open Cases, Vertretung, Datenschutz und Auditfähigkeit. |
-| `edition-isbn-title-variants` | Editionen, ISBN, Titelvarianten und Umlaute: Antragstitel, Originaltitel, Reihenangaben, Neuauflagen und Backlist konsistent verwalten. |
-| `education-distance-learning-110` | Prueft Classroom Use, TEACH Act, Distance Learning, LMS, Coursepacks und Lizenz-/Fair-Use-Schnittstellen. |
-| `exclusive-rights-106-bundle` | Prueft Reproduction, Derivative, Distribution, Public Performance, Display und Digital Audio Transmission als Rechtebündel. |
-| `fair-use-four-factors-107` | Prueft Fair Use nach § 107 mit Zweck, Werkart, Umfang/Substantiality und Markteffekt in belastbarer Matrix. |
-| `fashion-jewelry-useful-article` | Prueft Mode, Schmuck, Muster, Stoffdruck, separability, useful articles, trade dress and design patent alternatives. |
-| `fixation-originality-human-authorship` | Prueft Fixierung, minimale Originalitaet und menschliche Autorenschaft im US-Copyright, besonders bei AI- und Softwarematerial. |
-| `foreign-publisher-us-distribution` | Deutscher Verlag mit US-Vertrieb: Import, Distributor, Plattformverkauf, first foreign edition, U.S.-Mandatory-Deposit-Risiko und Registrierungsstrategie. |
-| `games-software-av-assets` | Prueft Games als Bündel aus Code, Audio, Grafik, Story, Characters, UI, engine assets and licenses. |
-| `gebuehren-paygov-deposit-account` | Gebühren- und Zahlungsworkflow: Fee Schedule live prüfen, Pay.gov, Kreditkarte/ACH, Deposit Account, Special Handling und Kostenstellen sauber dokumentieren. |
-| `government-works-edicts-105` | Prueft US-Regierungswerke, amtliche Texte, Edicts of Government, Drittmaterial in Behördenpublikationen und public-domain-Fehler. |
-| `gruw-unpublished-works` | Group Registration of Unpublished Works (GRUW): bis zu zehn unveröffentlichte Werke, gleiche Autorenschaft, Online-Antrag, separate Dateien und keine Sammel-PDF-Falle. |
-| `ideas-facts-merger-scenes-faire` | Trennt Idee, Methode, Fakt, System, Standardmotiv, Genrebaustein und geschützten Ausdruck im US Copyright Act. |
-| `imports-exports-602-603` | Prueft Import/Export verletzender Kopien, Parallelimporte, Customs, Gray Market und Grenzbeschlagnahme. |
-| `infringement-remedies-501-505` | Prueft Anspruchsaufbau, standing, remedies, injunction, damages, profits, costs und fee exposure. |
-| `injunction-impoundment-502-503` | Prueft einstweiligen und endgültigen Rechtsschutz, Impoundment, Destruction, Seizure und praktische Vollstreckungsfolgen. |
-| `international-berne-uruguay` | Prueft foreign works, Berne Convention, TRIPS, URAA restoration, country of origin und US enforcement. |
-| `joint-authorship-wmfh` | Prueft Mitautorenschaft, collective intent, employee works, specially ordered works und deutsche Vertragsmissverstaendnisse. |
-| `library-archives-108` | Prueft Bibliotheks- und Archivkopien, Preservation, Replacement, User Requests und Grenzen digitaler Bereitstellung. |
-| `litigation-readiness-section-411-412` | Litigation Readiness: Registrierung, Registrierungsdatum, U.S.-Klagevoraussetzungen, statutory-damages-Timing und Aktenpaket für US-Counsel. |
-| `mechanical-licensing-collective` | Prueft MLC-Prozesse, blanket license, unmatched royalties, claiming, publisher splits und deutsche Verlagspraxis. |
-| `motion-picture-audiovisual` | Prueft Film, Video, Trailer, Ads, Clips, underlying rights, music sync and work-made-for-hire packaging. |
-| `music-videos-chapter11-title17` | Prueft Sound Recordings and Music Videos im Title-17-Chapter-11-Kontext, insbesondere Clips, Video-Sync und Plattformnutzung. |
-| `musical-compulsory-license-115` | Prueft mechanische Lizenzen, Covers, Downloads, Streams, Notice, MLC und Grenzen der compulsory license. |
-| `notice-deposit-registration-ch4` | Verbindet Notice, Deposit, Registration, Fehlerfolgen, Best Edition und Litigation Readiness in Chapter 4. |
-| `office-action-rueckfragen-45-tage` | Office Actions und Rückfragen: Monitoring, Antwortfristen, fehlende Angaben, Claim-Begrenzung, Nachlieferungen und Eskalation zu US-Counsel. |
-| `online-subpoena-512h` | Prueft Subpoena zur Identifizierung mutmaßlicher Verletzer, Notice-Voraussetzungen, Provider-Rolle und Datenschutzfolgen. |
-| `ownership-transfer-writing` | Prueft Übertragung, exklusive Lizenz, nonexclusive license, writing requirement und chain of title. |
-| `photos-stock-social-media` | Prueft Fotorechte, Social-Media-Reposts, Stock Terms, embedded content, model releases und DMCA-Takedown. |
-| `physischer-deposit-shipping-slip` | Physischer Deposit mit Shipping Slip: pro Werk sauber zuordnen, sichtbar beilegen, Versandpaket, Belegfotos, Kuriertracking und keine Doppel-Einreichung. |
-| `platform-takedown-registration-package` | Plattform- und Takedown-Paket: Registrierung, Rechtekette, Infringement-Belege und DMCA-/Marketplace-Kommunikation für US-Plattformen vorbereiten. |
-| `pleading-us-copyright-complaint` | Bereitet US-Copyright-Complaint oder Response vor: jurisdiction, registration, ownership, infringement, remedies and exhibits. |
-| `pre1972-sound-recordings-1401` | Prueft Schutz alter Tonaufnahmen, Term, State-Law-Abloesung, Restoration, Remaster und Library/Archive-Risiken. |
-| `preemption-301-state-law` | Prueft Copyright-Preemption, contract claims, unfair competition, right of publicity, trade secrets und extra element. |
-| `privacy-pii-removal-public-records` | PII und Public Records: personenbezogene Daten in Anträgen begrenzen, spätere Removal Requests prüfen und interne Datenschutzfreigabe organisieren. |
-| `public-domain-orphan-risk` | Prueft Public-Domain-Behauptungen, orphan works, alte Formalitäten, renewals, restorations und Risiko bei Backlist/Archive. |
-| `public-performance-display-110` | Prueft öffentliche Aufführung, Display, Unterricht, Gottesdienst, Retail, Events, Streaming und statutory exceptions. |
-| `public-records-search-chain` | Prueft USCO public records, catalog, recorded documents, gaps, name variants and old registrations. |
-| `publication-status-usa-ausland-online` | Publication-Status klären: veröffentlicht/unveröffentlicht, U.S.-Erstveröffentlichung, ausländische Erstveröffentlichung, Online-only und gleichzeitige Verbreitung. |
-| `recordation-205-transfers` | Prueft Recordation von Transfers, Priority, constructive notice, backlist acquisitions und chain-of-title hygiene. |
-| `recordation-transfer-security-interest` | Recordation von Transfers und Dokumenten: Rechteübertragungen, Sicherheiten, Verlagskauf, Backlist-Erwerb und US-Record-Strategie prüfen. |
-| `refusal-reconsideration-escalation` | Refusal, Reconsideration und Eskalation: Ablehnungsgründe verstehen, Nachweise ordnen, Fristen prüfen und US-Counsel gezielt briefen. |
-| `repeat-infringer-policy-512` | Prueft angemessene Repeat-Infringer-Policy, Umsetzung, Account-Termination, Knowledge und Red-Flag-Risiken. |
-| `rights-and-permissions-public-record` | Rights-and-Permissions-Kontakt und Public Record: Kontaktdaten, Datenschutz, Verlagsadresse, Pseudonyme und spätere Anfragen kontrollieren. |
-| `satellite-cable-licenses` | Prueft statutory licenses für Cable, Satellite, retransmission, reporting und payment issues. |
-| `security-interests-copyright-assets` | Prueft Sicherheiten an Copyrights, UCC/recordation Schnittstelle, Kreditverträge, Catalog Finance und Insolvenzrisiken. |
-| `semiconductor-chip-ch9` | Prueft Mask Works, Semiconductor Chip Protection Act, registration, scope and term for chip layouts. |
-| `serials-newsletters-database-updates` | Serials, Newsletter, Updates und Datenbanken: periodische Publikationen, Online-only-Ausgaben, Updates und Gruppengebühren praxisnah sortieren. |
-| `settlement-license-us-copyright` | Entwickelt Settlement, release, license, covenant not to sue, attribution, takedown, payment and future-use terms. |
-| `short-online-literary-works-grtx` | Short Online Literary Works und Online-Beiträge: Gruppenoptionen für kurze Veröffentlichungen prüfen, ohne Buch-, Newsletter- und Periodikumslogik zu vermischen. |
-| `software-117-archival-adaptation` | Prueft Computerprogrammkopien, essential step, archival copy, maintenance, migration, SaaS und Lizenzgrenzen. |
-| `sound-recordings-114` | Prueft Rechte an Sound Recordings, digital audio transmissions, SoundExchange, noninteractive services und direct licenses. |
-| `special-handling-litigation-urgency` | Special Handling bei Eilbedarf: Litigation, Customs, Vertragsfristen und Marktfenster prüfen, Kosten/Nutzen abwägen und Begründung vorbereiten. |
-| `standard-vs-single-vs-gruppenregistrierung` | Antragstyp sauber wählen: Standard Application, Single-author-Option, Gruppenregistrierung oder separater Antrag pro Werk; keine unzulässige Sammelanmeldung. |
-| `statutory-damages-504-412` | Prueft statutory damages, actual damages, profits, election, timely registration und Ausschlussrisiken nach § 412. |
-| `subject-matter-102-scope` | Prueft Schutzgegenstand nach 17 USC 102: works of authorship, expression, fixation, exclusions und erste Weichen fuer Title 17. |
-| `supplementary-registration-corrections` | Fehlerkorrektur und Supplementary Registration: falsche Titel, Claimants, Publication-Daten, AI-Angaben oder Rechteketten sauber nacharbeiten. |
-| `templates-open-cases-save-for-later` | Templates und Open Cases im eCO-Prozess: Wiederverwendung nur bei gleicher Werkklasse, Statusliste, Fehlerkontrolle und Abbruchlogik. |
-| `termination-203-304-recapture` | Prueft US-Termination, Recapture-Risiken, Notice Window, Grants, Derivative Works Exception und Deal-DD. |
-| `useful-articles-separability` | Prueft angewandte Gestaltung, Produktdesign, Fashion, Möbel, Verpackung und separierbare expressive Elemente nach US-Recht. |
-| `vara-visual-artists-rights` | Prueft attribution, integrity, works of visual art, waiver, murals, destruction, modification und moral-rights-nahe Fragen. |
-| `verlags-batchplan-serien-und-backlist` | Batchplan für Backlist, Reihen, Neuauflagen und Serien: Priorisierung nach US-Risiko, Marktwert, Rechtekette, Kosten, Deposit-Logistik und Litigation Readiness. |
-| `versand-aus-deutschland-zoll-tracking` | Versand aus Deutschland: Kurierauswahl, Zollbeschreibung, Nominalwert, Tracking, Zustellnachweis und saubere Akte für physische Copyright-Deposits. |
-| `vessel-hull-design-ch13` | Prueft Schutz von Original Vessel Hull Designs, registration, term, infringement und Produktdesign-Abgrenzung. |
-| `werkdaten-standard-application` | Werkdaten für die Standard Application: Titel, Autorenschaft, Claimant, Publication, Transfer Statement, Rights-and-Permissions und ausgeschlossene Inhalte präzise erfassen. |
-| `zertifikat-archiv-registrierungsdatum` | Certificate, Registrierungsdatum und Archiv: maßgeblicher Eingang von Antrag, Gebühr und Deposit, elektronische Ablage, Nachweise und Management-Report. |
+| `kompendium-01-deposit-vs-registrat-bis-ai-generated-materia` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (deposit-vs-registration-407-408, advertising-promotional-campaigns, ai-contract-disclosure, ai-generated-material-disclosure) und bew... |
+| `kompendium-02-ai-training-fair-use-bis-attorneys-fees-505` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (ai-training-fair-use-risk, anticircumvention-1201, architectural-works-120, attorneys-fees-505) und bewahrt deren Workflows, Normanke... |
+| `kompendium-03-authorschaft-work-ma-bis-characters-fictional` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (authorschaft-work-made-for-hire-transfer-chain, backlist-rights-gap-audit, best-edition-kopienzahl, characters-fictional-universe) un... |
+| `kompendium-04-collective-work-cont-bis-copyright-bankruptcy` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (collective-work-contributions-periodicals, compilations-derivative-works-103, copying-substantial-similarity, copyright-bankruptcy-36... |
+| `kompendium-05-copyright-management-bis-copyrightability-ide` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (copyright-management-info-1202, copyright-royalty-board-ch8, copyright-small-claims-ccb, copyrightability-idea-facts-methods) und bew... |
+| `kompendium-06-criminal-copyright-5-bis-derivative-right-ada` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (criminal-copyright-506, customs-border-copyright, database-collections-us-law, derivative-right-adaptations) und bewahrt deren Workfl... |
+| `kompendium-07-derivative-translati-bis-digitaler-deposit-up` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (derivative-translation-revised-edition, digital-audio-recording-act, digital-transmission-streaming, digitaler-deposit-upload) und be... |
+| `kompendium-08-discovery-evidence-c-bis-duration-term-302-30` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (discovery-evidence-copyright, distribution-first-sale-109, dmca-safe-harbor-512-notice, duration-term-302-305) und bewahrt deren Work... |
+| `kompendium-09-eco-account-organisa-bis-exclusive-rights-106` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (eco-account-organisationskonto, edition-isbn-title-variants, education-distance-learning-110, exclusive-rights-106-bundle) und bewahr... |
+| `kompendium-10-fair-use-four-factor-bis-foreign-publisher-us` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (fair-use-four-factors-107, fashion-jewelry-useful-article, fixation-originality-human-authorship, foreign-publisher-us-distribution)... |
+| `kompendium-11-games-software-av-as-bis-gruw-unpublished-wor` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (games-software-av-assets, gebuehren-paygov-deposit-account, government-works-edicts-105, gruw-unpublished-works) und bewahrt deren Wo... |
+| `kompendium-12-ideas-facts-merger-s-bis-injunction-impoundme` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (ideas-facts-merger-scenes-faire, imports-exports-602-603, infringement-remedies-501-505, injunction-impoundment-502-503) und bewahrt... |
+| `kompendium-13-international-berne-bis-litigation-readiness` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (international-berne-uruguay, joint-authorship-wmfh, library-archives-108, litigation-readiness-section-411-412) und bewahrt deren Wor... |
+| `kompendium-14-mechanical-licensing-bis-musical-compulsory-l` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (mechanical-licensing-collective, motion-picture-audiovisual, music-videos-chapter11-title17, musical-compulsory-license-115) und bewa... |
+| `kompendium-15-notice-deposit-regis-bis-ownership-transfer-w` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (notice-deposit-registration-ch4, office-action-rueckfragen-45-tage, online-subpoena-512h, ownership-transfer-writing) und bewahrt der... |
+| `kompendium-16-photos-stock-social-bis-pleading-us-copyrigh` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (photos-stock-social-media, physischer-deposit-shipping-slip, platform-takedown-registration-package, pleading-us-copyright-complaint)... |
+| `kompendium-17-pre1972-sound-record-bis-public-domain-orphan` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (pre1972-sound-recordings-1401, preemption-301-state-law, privacy-pii-removal-public-records, public-domain-orphan-risk) und bewahrt d... |
+| `kompendium-18-public-performance-d-bis-recordation-205-tran` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (public-performance-display-110, public-records-search-chain, publication-status-usa-ausland-online, recordation-205-transfers) und be... |
+| `kompendium-19-recordation-transfer-bis-rights-and-permissio` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (recordation-transfer-security-interest, refusal-reconsideration-escalation, repeat-infringer-policy-512, rights-and-permissions-publi... |
+| `kompendium-20-satellite-cable-lice-bis-serials-newsletters` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (satellite-cable-licenses, security-interests-copyright-assets, semiconductor-chip-ch9, serials-newsletters-database-updates) und bewa... |
+| `kompendium-21-settlement-license-u-bis-sound-recordings-114` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (settlement-license-us-copyright, short-online-literary-works-grtx, software-117-archival-adaptation, sound-recordings-114) und bewahr... |
+| `kompendium-22-special-handling-lit-bis-subject-matter-102-s` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (special-handling-litigation-urgency, standard-vs-single-vs-gruppenregistrierung, statutory-damages-504-412, subject-matter-102-scope)... |
+| `kompendium-23-supplementary-regist-bis-useful-articles-sepa` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (supplementary-registration-corrections, templates-open-cases-save-for-later, termination-203-304-recapture, useful-articles-separabil... |
+| `kompendium-24-vara-visual-artists-bis-vessel-hull-design-c` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 24; bündelt 4 frühere Spezialskills (vara-visual-artists-rights, verlags-batchplan-serien-und-backlist, versand-aus-deutschland-zoll-tracking, vessel-hull-design-ch13) un... |
+| `kompendium-25-werkdaten-standard-a-bis-zertifikat-archiv-re` | us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 25; bündelt 2 frühere Spezialskills (werkdaten-standard-application, zertifikat-archiv-registrierungsdatum) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausg... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

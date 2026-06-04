@@ -1,8 +1,8 @@
 # Kostenrisikoanalyse – Klagen Wittfeldt ./. Sparkasse und Empfängerbanken
 
-**Aktenzeichen:** PS-BKR-2026-0412  
-**Verfasser:** Dr. Severin Pflüger  
-**Datum:** 29.04.2026  
+**Aktenzeichen:** PS-BKR-2026-0412
+**Verfasser:** Dr. Severin Pflüger
+**Datum:** 29.04.2026
 
 ---
 
@@ -48,7 +48,7 @@ Voraussetzungen für PKH (§ 114 ZPO):
 - Hinreichende Erfolgsaussichten: **Ja** (nach vorliegender Analyse)
 - Bedürftigkeit: **Ja** (EM-Rente 980 EUR/Monat, kein liquides Vermögen nach Betrugsschaden)
 
-Bei Bewilligung der PKH entfallen Gerichtskostenvorschuss und eigene Anwaltskosten für Klägerin.  
+Bei Bewilligung der PKH entfallen Gerichtskostenvorschuss und eigene Anwaltskosten für Klägerin.
 **Empfehlung:** PKH-Antrag gleichzeitig mit Klageeinreichung stellen.
 
 ---
@@ -88,7 +88,7 @@ Bei Bewilligung der PKH entfallen Gerichtskostenvorschuss und eigene Anwaltskost
 | Gesamtaufwand Klägerin 1. Instanz | ca. 12.000–15.000 EUR |
 | Kostenrisiko bei Verlust | ca. 22.000–28.000 EUR |
 
-**Erfolgsaussicht:** Gering bis mittel (abhängig von Ermittlungsergebnissen zur Bösgläubigkeit).  
+**Erfolgsaussicht:** Gering bis mittel (abhängig von Ermittlungsergebnissen zur Bösgläubigkeit).
 **Empfehlung:** Zunächst EAPO; Hauptklage nur nach positiver Einschätzung durch estnische Kollegin.
 
 ---

@@ -1,7 +1,7 @@
 # Vollmacht Steuerberater Ammenwald — §§ 167, 168 BGB, Innen- vs. Außenvollmacht, Rechtsscheinhaftung
 
-**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg  
-**Datum:** 28. März 2026  
+**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg
+**Datum:** 28. März 2026
 **Bezug:** Erklärung des Steuerberaters Volker Ammenwald gegenüber Finanzamt Leipzig-Connewitz (Februar 2026) namens der GmbH
 
 ---
@@ -103,8 +103,8 @@ Vollmachtgeber (GmbH)
 
 Prüfungsfolge immer: (1) Vollmacht erteilt? (2) Erloschen? (3) §§ 170–173 BGB Fortgeltung? (4) Anscheinsvollmacht?
 
-**Quellen:**  
-§§ 167, 168, 170, 173 BGB: https://dejure.org/gesetze/BGB/167.html  
-BGH NJW 2017, 1169 (Anscheinsvollmacht, aktuell): https://www.bundesgerichtshof.de  
-BGH NJW 1966, 1915 (Duldungs- und Anscheinsvollmacht): https://openjur.de  
+**Quellen:**
+§§ 167, 168, 170, 173 BGB: https://dejure.org/gesetze/BGB/167.html
+BGH NJW 2017, 1169 (Anscheinsvollmacht, aktuell): https://www.bundesgerichtshof.de
+BGH NJW 1966, 1915 (Duldungs- und Anscheinsvollmacht): https://openjur.de
 BFH BStBl. II 2014, 714 (Vollmacht Steuerberater gegenüber Finanzamt): https://openjur.de

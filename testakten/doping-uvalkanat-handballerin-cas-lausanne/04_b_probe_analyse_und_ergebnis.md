@@ -1,7 +1,7 @@
 # 04 — B-Probe: Analyse und Ergebnis, 04.03.2026
 
-**Erstellt:** 05.03.2026  
-**Bearbeiter:** RA Prof. Dr. Markus Lentze  
+**Erstellt:** 05.03.2026
+**Bearbeiter:** RA Prof. Dr. Markus Lentze
 **AZ:** SU/DOPING/2026-001
 
 ---

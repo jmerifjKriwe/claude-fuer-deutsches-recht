@@ -1,9 +1,9 @@
 # 15 — Grenzbeschlagnahme: Verfahrensablauf und Zollanmeldung
 
-**Aktenzeichen intern:** VM-2026-GR-001  
-**Zollamtliches Aktenzeichen:** ZA-2026-FRA-0381  
-**Behörde:** Hauptzollamt Frankfurt am Main, Sachgebiet Beschlagnahme/Rechtsschutz  
-**Datum:** 15. März 2026  
+**Aktenzeichen intern:** VM-2026-GR-001
+**Zollamtliches Aktenzeichen:** ZA-2026-FRA-0381
+**Behörde:** Hauptzollamt Frankfurt am Main, Sachgebiet Beschlagnahme/Rechtsschutz
+**Datum:** 15. März 2026
 **Bearbeiter:** RA Tobias Fehrenbach
 
 ---

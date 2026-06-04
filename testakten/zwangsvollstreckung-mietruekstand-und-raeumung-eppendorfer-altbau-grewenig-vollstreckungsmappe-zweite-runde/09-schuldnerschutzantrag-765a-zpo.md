@@ -1,7 +1,7 @@
 # 09 Schuldnerschutzantrag § 765a ZPO — Erkrankung Tochter Hilde
 
-**Akte:** MR-2026-ZV-0188  
-**Gegenpartei-Antrag:** Eingang AG Hamburg-Altona 21.01.2026  
+**Akte:** MR-2026-ZV-0188
+**Gegenpartei-Antrag:** Eingang AG Hamburg-Altona 21.01.2026
 **Stellungnahme Kanzlei Schwingenstein Roosendaal:** 28.01.2026
 
 ---

@@ -1,7 +1,7 @@
 # 02 — Haftbefehl AG Koeln vom 12. Mai 2026 (Auszug, redigiert)
 
-**Amtsgericht Koeln — Ermittlungsrichter — 502 Gs 4881/26**  
-Vorgang: 122 Js 884/25 (Schwerpunkt-StA Wirtschaft Koeln)  
+**Amtsgericht Koeln — Ermittlungsrichter — 502 Gs 4881/26**
+Vorgang: 122 Js 884/25 (Schwerpunkt-StA Wirtschaft Koeln)
 Aktentyp: Beglaubigte Abschrift, Verteidigerkopie
 
 ---
@@ -98,8 +98,8 @@ Belehrung des Beschuldigten gemäß § 115 Abs. 3, § 136 Abs. 1, § 117 Abs. 1,
 
 Koeln, den 12. Mai 2026
 
-gez. **Helmstedter**  
+gez. **Helmstedter**
 Richter am Amtsgericht
 
-— Beglaubigte Abschrift —  
+— Beglaubigte Abschrift —
 Geschäftsstelle AG Koeln, gez. Justizangestellte Bertenburg

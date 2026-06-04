@@ -1,17 +1,17 @@
 # Kostenvoranschlag – Atelier Konservierung Huck, Bonn
 
-**Atelier Konservierung und Restaurierung Huck**  
-Dipl.-Restauratorin (FH) Beate Huck  
-Am Alten Friedhof 18, 53173 Bonn-Godesberg  
-Tel. 0228 / 55 83 12  **E-Mail:** studio@huck-restaurierung.de  
+**Atelier Konservierung und Restaurierung Huck**
+Dipl.-Restauratorin (FH) Beate Huck
+Am Alten Friedhof 18, 53173 Bonn-Godesberg
+Tel. 0228 / 55 83 12  **E-Mail:** studio@huck-restaurierung.de
 Mitglied: Verband der Restauratoren e. V. (VDR)
 
 ---
 
-**An:** WEG Rolandstraße 27a, 50677 Köln  
+**An:** WEG Rolandstraße 27a, 50677 Köln
 c/o Immobilienverwaltung Rheineck GmbH, Kerpener Straße 77, 50937 Köln
 
-**Betr.:** Angebot – Treppenhausinstandsetzung, Rolandstraße 27a (Denkmal KD 2017-0341)  
+**Betr.:** Angebot – Treppenhausinstandsetzung, Rolandstraße 27a (Denkmal KD 2017-0341)
 **Datum:** 14. März 2026  **Angebots-Nr.:** HK-2026/114
 
 ---
@@ -77,5 +77,5 @@ Das Gebäude Rolandstraße 27a steht unter Denkmalschutz (Eintragung Denkmallist
 
 **Ausführungsdauer:** ca. 12 Wochen. **Zahlungsplan:** 4 × 25 % nach Bauabschnitt.
 
-*Gez. Beate Huck, Dipl.-Restauratorin (FH)*  
+*Gez. Beate Huck, Dipl.-Restauratorin (FH)*
 Bonn, 14.03.2026

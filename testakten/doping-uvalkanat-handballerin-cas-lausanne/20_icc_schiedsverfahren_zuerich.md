@@ -1,7 +1,7 @@
 # 20 — ICC-Schiedsverfahren Zürich 28-2026/SPO: Adidas-Streit
 
-**Erstellt:** 25.04.2026  
-**Bearbeiter:** RA Prof. Dr. Markus Lentze  
+**Erstellt:** 25.04.2026
+**Bearbeiter:** RA Prof. Dr. Markus Lentze
 **AZ:** SU/DOPING/2026-001 / ICC Zürich 28-2026/SPO
 
 ---

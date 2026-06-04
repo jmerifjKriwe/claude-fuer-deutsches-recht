@@ -1,7 +1,7 @@
 # 02 Beteiligte und Gesellschaftsidee
 
-**Aktenzeichen:** KBH-2026-001-EFS  
-**Stand:** 20. Februar 2026  
+**Aktenzeichen:** KBH-2026-001-EFS
+**Stand:** 20. Februar 2026
 
 ---
 

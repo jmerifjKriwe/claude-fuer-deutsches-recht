@@ -1,12 +1,12 @@
 # KYC-Prüfformular – Danube Trade Solutions SRL
 
-**Formular-Nr.:** KYC-MH-2026-0028  
-**Status:** Abgeschlossen – Hochrisiko-Einstufung  
-**Erstellt von:** Thomas Eckhardt (Geldwäschebeauftragter)  
-**Geprüft und freigegeben:** Klaus-Dieter Brenner (GF) — nur nach Verdachtsmeldung und Transaktionsstopp  
-**Datum KYC-Beginn:** 14.04.2026  
-**Datum Abschluss:** 19.05.2026  
-**Rechtsgrundlage:** §§ 10–13, 15 GwG; § 1 Abs. 3 GwG (wirtschaftlich Berechtigter)  
+**Formular-Nr.:** KYC-MH-2026-0028
+**Status:** Abgeschlossen – Hochrisiko-Einstufung
+**Erstellt von:** Thomas Eckhardt (Geldwäschebeauftragter)
+**Geprüft und freigegeben:** Klaus-Dieter Brenner (GF) — nur nach Verdachtsmeldung und Transaktionsstopp
+**Datum KYC-Beginn:** 14.04.2026
+**Datum Abschluss:** 19.05.2026
+**Rechtsgrundlage:** §§ 10–13, 15 GwG; § 1 Abs. 3 GwG (wirtschaftlich Berechtigter)
 
 ---
 
@@ -154,5 +154,5 @@ Laut Selbstauskunft vom 16.04.2026:
 
 ---
 
-*Formular-Nr.: KYC-MH-2026-0028 — Musterholding GmbH / Geldwäschebeauftragter Thomas Eckhardt*  
+*Formular-Nr.: KYC-MH-2026-0028 — Musterholding GmbH / Geldwäschebeauftragter Thomas Eckhardt*
 *Aufbewahrungsfrist: 5 Jahre ab Ende der Geschäftsbeziehung (§ 8 Abs. 4 GwG)*

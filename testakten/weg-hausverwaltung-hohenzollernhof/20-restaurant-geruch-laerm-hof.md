@@ -1,7 +1,7 @@
 # Gewerbeeinheit Restaurant „Il Tiglio“ — Geruch, Hof, Müll, Lieferverkehr
 
-**Einheit:** TE 39, Teileigentümerin: Bavaria Gastro Invest GmbH  
-**Betreiber:** Il Tiglio Ristorante, Geschäftsführer: Matteo Caruso  
+**Einheit:** TE 39, Teileigentümerin: Bavaria Gastro Invest GmbH
+**Betreiber:** Il Tiglio Ristorante, Geschäftsführer: Matteo Caruso
 **Lage:** Erdgeschoss Vorderhaus, Nutzung laut Teilungserklärung: Laden/Gastronomie zulässig, Abluftführung nur über genehmigte Anlage.
 
 ## Beschwerdestapel

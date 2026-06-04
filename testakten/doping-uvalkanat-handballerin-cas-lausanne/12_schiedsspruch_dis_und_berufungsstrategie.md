@@ -1,7 +1,7 @@
 # 12 — Schiedsspruch DSGSp 12/26 und Berufungsstrategie CAS
 
-**Erstellt:** 15.07.2026  
-**Bearbeiter:** RA Prof. Dr. Markus Lentze  
+**Erstellt:** 15.07.2026
+**Bearbeiter:** RA Prof. Dr. Markus Lentze
 **AZ:** SU/DOPING/2026-001 / DSGSp 12/26 / CAS 2026/A/8821
 
 ---
@@ -40,8 +40,8 @@ Der Schiedsspruch enthält folgende Rechtsmittelbelehrung:
 
 „Gegen diesen Schiedsspruch ist Berufung beim Court of Arbitration for Sport (CAS), Lausanne, nach dessen Verfahrensregeln (Code of Sports-related Arbitration, R47 ff.) innerhalb von **21 Tagen** nach Zustellung des vollständig begründeten Schiedsspruchs zulässig."
 
-Zustellung des vollständig begründeten Schiedsspruchs: **07.07.2026**.  
-Berufungsfrist: **28.07.2026**.  
+Zustellung des vollständig begründeten Schiedsspruchs: **07.07.2026**.
+Berufungsfrist: **28.07.2026**.
 Statement of Appeal eingereicht: **15.07.2026** (innerhalb Frist).
 
 ---

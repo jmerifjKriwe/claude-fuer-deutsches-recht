@@ -1,7 +1,7 @@
 # 19 Vergleichsoption mit den Schuldnern — Analyse und Entscheidung
 
-**Akte:** MR-2026-ZV-0188  
-**Datum:** 06.02.2026  
+**Akte:** MR-2026-ZV-0188
+**Datum:** 06.02.2026
 **Anlass:** Schuldneranwalt hat Vergleichsgespräche angeboten
 
 ---

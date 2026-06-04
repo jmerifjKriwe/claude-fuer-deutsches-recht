@@ -1,7 +1,7 @@
 # AGB-Kontrolle — § 305c BGB: Überraschende Klausel im Convotherm-Liefervertrag
 
-**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg  
-**Datum:** 04. April 2026  
+**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg
+**Datum:** 04. April 2026
 **Bezug:** Convotherm-Liefervertrag AGB-Klausel 9 (verlängerter Eigentumsvorbehalt / Vorausabtretung)
 
 ---
@@ -79,8 +79,8 @@ Soweit § 305c BGB nicht greift, ist die Inhaltskontrolle zu prüfen.
 
 **Konsequenz für OLG Dresden-Berufung:** § 9 Abs. 3 AGB (Miteigentumsklausel) ist nicht Vertragsbestandteil (§ 305c Abs. 1 BGB) bzw. unwirksam (§ 307 BGB). Convotherm kann kein Miteigentum an Neugeräten beanspruchen. Verlängerter EV (§ 9 Abs. 1) bleibt wirksam — Vorausabtretung bestehend.
 
-**Quellen:**  
-§§ 305, 305c, 307, 310 BGB: https://dejure.org/gesetze/BGB/305c.html  
-BGH NJW 1992, 1232 (Überraschungsklausel, Prüfungsmaßstab): https://www.bundesgerichtshof.de  
-BGH NJW 2002, 370 (AGB B2B, Konzernvorbehalt): https://www.bundesgerichtshof.de  
+**Quellen:**
+§§ 305, 305c, 307, 310 BGB: https://dejure.org/gesetze/BGB/305c.html
+BGH NJW 1992, 1232 (Überraschungsklausel, Prüfungsmaßstab): https://www.bundesgerichtshof.de
+BGH NJW 2002, 370 (AGB B2B, Konzernvorbehalt): https://www.bundesgerichtshof.de
 BGH NJW 2010, 1074 (Inhaltskontrolle Eigentumsvorbehalt B2B): https://openjur.de

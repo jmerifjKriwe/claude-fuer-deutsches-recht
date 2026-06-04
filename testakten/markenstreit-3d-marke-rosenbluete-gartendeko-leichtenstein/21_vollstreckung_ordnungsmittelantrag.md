@@ -1,8 +1,8 @@
 # 21 — Vollstreckung und Ordnungsmittelantrag (§ 890 ZPO)
 
-**Bearbeiter:** RA Philipp Mertens-Waldhausen  
-**Datum:** 12. Juni 2026  
-**Verfahren:** LG Mannheim 7 O 88/26 — Vollstreckung der einstweiligen Verfügung  
+**Bearbeiter:** RA Philipp Mertens-Waldhausen
+**Datum:** 12. Juni 2026
+**Verfahren:** LG Mannheim 7 O 88/26 — Vollstreckung der einstweiligen Verfügung
 
 ---
 
@@ -18,12 +18,12 @@ FlowerWorld hat in einem Schreiben vom 06. Mai 2026 bestätigt, die Lieferung an
 
 Durch Monitoring des Online-Shops und eine weitere Filialbegehung wurden folgende Verstöße festgestellt:
 
-**Verstoß Nr. 1 — Online-Shop (festgestellt 28. Mai 2026):**  
+**Verstoß Nr. 1 — Online-Shop (festgestellt 28. Mai 2026):**
 Das Produkt war am 28. Mai 2026, 14:30 Uhr, wieder auf der Website flowerworld.de gelistet, zunächst mit dem Hinweis „limited availability". Eine eidesstattliche Versicherung der Mitarbeiterin Nicole Waldmann-Bruder (Agentur für Online-Monitoring, Frankfurt) dokumentiert den Befund (Anlage O-1: Bildschirmfoto mit Zeitstempel 28. Mai 2026, 14:31:22 Uhr).
 
 Das Produkt war zum Preis von 24,99 EUR in den Warenkorb legbar und wurde von der Kanzlei am gleichen Tag testweise bestellt (Bestellnummer FW2026-05-28-22891; vgl. Anlage O-2). Die Bestellung wurde am 30. Mai 2026 storniert und mit einer Nachricht „leider derzeit nicht mehr erhältlich" zurückgesandt — aber die Bestellbestätigung vom 28. Mai dokumentiert, dass das Produkt aktiv angeboten wurde.
 
-**Verstoß Nr. 2 — Filiale Stuttgart (festgestellt 04. Juni 2026):**  
+**Verstoß Nr. 2 — Filiale Stuttgart (festgestellt 04. Juni 2026):**
 In der FlowerWorld-Filiale Stuttgart-Vaihingen, Gewerbepark 33, wurden am 04. Juni 2026 noch sechs Exemplare des Produkts im Regal gefunden und von Frau Leichtenstein-Bauernfeind persönlich fotodokumentiert (Anlage O-3: 12 Fotos mit Preisetiketten und Regallage).
 
 ## 2. Ordnungsmittelantrag nach § 890 ZPO
@@ -73,5 +73,5 @@ Da der Vergleich noch nicht unterzeichnet ist (vgl. Aktenstück 19), wird der Or
 
 ---
 
-**Erstellt von:** RA Philipp Mertens-Waldhausen  
+**Erstellt von:** RA Philipp Mertens-Waldhausen
 **Datum:** 12. Juni 2026

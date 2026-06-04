@@ -1,7 +1,7 @@
 # 03 — Relation Erste Stufe
 
-**AZ:** 8 O 188/26  
-**Erstellerin:** Dr. Tannenberg-Eichmueller, VRiLG  
+**AZ:** 8 O 188/26
+**Erstellerin:** Dr. Tannenberg-Eichmueller, VRiLG
 **Datum:** 18.04.2026 (nach Aktenschluss Schriftsatztausch)
 
 ---

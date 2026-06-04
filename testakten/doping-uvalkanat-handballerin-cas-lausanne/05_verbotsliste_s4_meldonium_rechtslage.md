@@ -1,7 +1,7 @@
 # 05 — Verbotsliste S4: Meldonium und Rechtslage 2026
 
-**Erstellt:** 10.03.2026  
-**Bearbeiter:** RA Prof. Dr. Markus Lentze  
+**Erstellt:** 10.03.2026
+**Bearbeiter:** RA Prof. Dr. Markus Lentze
 **AZ:** SU/DOPING/2026-001
 
 ---

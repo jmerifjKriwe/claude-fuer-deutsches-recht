@@ -175,7 +175,7 @@ Diese Akte demonstriert besonders folgende Skills aus dem Plugin `fachanwalt-str
 
 ## Verfahrensstand
 
-**Stichtag dieser Akte:** 1. Juni 2026  
+**Stichtag dieser Akte:** 1. Juni 2026
 **Mandatsannahme:** 13. Mai 2026 (Erstgespräch JVA)
 
 | Verfahrensstrang | Status |

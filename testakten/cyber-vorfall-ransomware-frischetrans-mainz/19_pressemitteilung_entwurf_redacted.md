@@ -1,8 +1,8 @@
 # Pressemitteilung — Entwurf (Kanzlei-Freigabe: 13.05.2026)
 
-**Aktenstück:** 19  
-**Status:** Entwurf — freigegeben durch RA Drosten am 13.05.2026; Veröffentlichung nach Zustimmung Mandantin  
-**Veröffentlichung geplant:** Nach Rücksprache mit CyberCovered AG und LfDI RLP, frühestens 15.05.2026  
+**Aktenstück:** 19
+**Status:** Entwurf — freigegeben durch RA Drosten am 13.05.2026; Veröffentlichung nach Zustimmung Mandantin
+**Veröffentlichung geplant:** Nach Rücksprache mit CyberCovered AG und LfDI RLP, frühestens 15.05.2026
 **Verteilung:** dpa-Basisdienst, lokale Medien (Allgemeine Zeitung Mainz, Rhein-Zeitung), Branchenmedien (Lebensmittel Zeitung, Verkehrsrundschau)
 
 ---
@@ -16,8 +16,8 @@ Dieser Entwurf wurde von RA Drosten in enger Abstimmung mit Geschäftsführerin 
 3. Rechtlich keine unnötigen Haftungseingeständnisse enthalten
 4. Keine Namen von Mitarbeitern oder Kunden nennen
 
-Freigabe durch Kanzlei: **Ja** (RA Drosten, 13.05.2026)  
-Freigabe durch Mandantin: **Ausstehend**  
+Freigabe durch Kanzlei: **Ja** (RA Drosten, 13.05.2026)
+Freigabe durch Mandantin: **Ausstehend**
 Freigabe durch CyberCovered AG: **Ausstehend**
 
 ---
@@ -26,8 +26,8 @@ Freigabe durch CyberCovered AG: **Ausstehend**
 
 **PRESSEMITTEILUNG**
 
-**Frischetrans Mittelrhein GmbH**  
-Binger Straße 142 · 55131 Mainz  
+**Frischetrans Mittelrhein GmbH**
+Binger Straße 142 · 55131 Mainz
 Kontakt Presse: pr@frischetrans-mittelrhein.de · +49 6131 8820-140
 
 **Mainz, [DATUM EINSETZEN]**
@@ -73,9 +73,9 @@ Frischetrans Mittelrhein GmbH ist ein führender Anbieter von B2B-Frischelogisti
 
 ---
 
-**Pressekontakt:**  
-PR-Rhein GmbH im Auftrag der Frischetrans Mittelrhein GmbH  
-Telefon: +49 6131 8820-140  
+**Pressekontakt:**
+PR-Rhein GmbH im Auftrag der Frischetrans Mittelrhein GmbH
+Telefon: +49 6131 8820-140
 E-Mail: pr@frischetrans-mittelrhein.de
 
 ---

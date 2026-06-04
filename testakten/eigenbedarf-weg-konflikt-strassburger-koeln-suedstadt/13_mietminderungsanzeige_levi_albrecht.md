@@ -4,18 +4,18 @@ Köln, den **28. Januar 2026**
 
 ---
 
-**An:**  
-Dr. Cornelia Straßburger und Dr. Boris Straßburger-Möhren  
-Bachemer Straße 84  
+**An:**
+Dr. Cornelia Straßburger und Dr. Boris Straßburger-Möhren
+Bachemer Straße 84
 50931 Köln-Lindenthal
 
 *(per Einschreiben mit Rückschein)*
 
 ---
 
-**Von:**  
-Levi Albrecht (federführend), Femke van Drosten, Mathilda Sonnenfeld  
-Rolandstraße 27a  
+**Von:**
+Levi Albrecht (federführend), Femke van Drosten, Mathilda Sonnenfeld
+Rolandstraße 27a
 50677 Köln
 
 ---
@@ -66,11 +66,11 @@ Wir behalten uns vor, Schadensersatzansprüche (§ 536a BGB) geltend zu machen, 
 
 Mit freundlichen Grüßen
 
-_________________________  
+_________________________
 Levi Albrecht
 
-_________________________  
+_________________________
 Femke van Drosten
 
-_________________________  
+_________________________
 Mathilda Sonnenfeld

@@ -1,32 +1,32 @@
 # Stellungnahme an BNetzA – Wärmeleitung im öffentlichen Straßenraum
 
-> **Kanzlei Bernauer & Partnerinnen**  
-> Rechtsanwältinnen und Rechtsanwälte  
-> Karlsplatz 7 · 48143 Münster  
-> Tel. 0251 / 39 81 40-0  
-> bernauer@kanzlei-bernauer.de  
+> **Kanzlei Bernauer & Partnerinnen**
+> Rechtsanwältinnen und Rechtsanwälte
+> Karlsplatz 7 · 48143 Münster
+> Tel. 0251 / 39 81 40-0
+> bernauer@kanzlei-bernauer.de
 > Aktenzeichen: SWK/ENR/2024-047
 
 ---
 
-**An:**  
-Bundesnetzagentur  
-Referat E1 – Energieversorgungsnetze  
-z. Hd. Dr. Ursula Kammerath  
-Tulpenfeld 4  
-53113 Bonn  
+**An:**
+Bundesnetzagentur
+Referat E1 – Energieversorgungsnetze
+z. Hd. Dr. Ursula Kammerath
+Tulpenfeld 4
+53113 Bonn
 
 (Zusendung per Einschreiben mit Rückschein und per E-Mail an E1@bundesnetzagentur.de)
 
-**Ihr Zeichen:** 8615-EnW/0193/2026  
-**Unser Zeichen:** SWK/ENR/2024-047-BNetzA/2  
-**Datum:** 2. Juni 2026  
+**Ihr Zeichen:** 8615-EnW/0193/2026
+**Unser Zeichen:** SWK/ENR/2024-047-BNetzA/2
+**Datum:** 2. Juni 2026
 
 **Betreff: Stellungnahme auf Anforderung ergänzender Unterlagen gemäß Bescheid vom 06.05.2026 – Nahwärmenetz Quartier Hafenbogen, Lüdinghausen**
 
 ---
 
-Sehr geehrte Frau Dr. Kammerath,  
+Sehr geehrte Frau Dr. Kammerath,
 sehr geehrte Damen und Herren,
 
 namens und in Vollmacht unserer Mandantin, der **Stadtwerke Klotzkette AG** (SWKK), nehmen wir zu Ihrem Bescheid vom 6. Mai 2026 (Az. 8615-EnW/0193/2026) fristgerecht Stellung und übermitteln die angeforderten Unterlagen.
@@ -97,8 +97,8 @@ Wir stehen für Rückfragen jederzeit zur Verfügung und bitten um rasche Bestä
 
 Mit freundlichen Grüßen
 
-**RA Thomas Bernauer**  
-Rechtsanwalt, Fachanwalt für Energierecht  
+**RA Thomas Bernauer**
+Rechtsanwalt, Fachanwalt für Energierecht
 Bernauer & Partnerinnen
 
 *Münster, den 2. Juni 2026*

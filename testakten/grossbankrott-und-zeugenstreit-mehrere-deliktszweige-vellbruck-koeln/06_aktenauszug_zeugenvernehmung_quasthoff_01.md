@@ -2,10 +2,10 @@
 
 **Aktenauszug** aus Band III, Bl. 312–354 (vollständiger Vernehmungstext liegt der Verteidigung in Akteneinsicht vor; hier verteidigerinterne Zusammenfassung der kerntragenden Passagen, wörtlich aus Vernehmungsprotokoll zitiert).
 
-Vernehmende Beamtin: Krim.in Stollmaier (KPI Koeln, Wirtschaftskriminalität)  
-Protokollführerin: KOK Berkemann  
-Ort: KPI Koeln, Walter-Pauli-Ring 2-6, 51103 Koeln  
-Dauer: 18.03.2026, 09:42 — 14:38 Uhr (4:56 h, davon 25 Minuten Pause)  
+Vernehmende Beamtin: Krim.in Stollmaier (KPI Koeln, Wirtschaftskriminalität)
+Protokollführerin: KOK Berkemann
+Ort: KPI Koeln, Walter-Pauli-Ring 2-6, 51103 Koeln
+Dauer: 18.03.2026, 09:42 — 14:38 Uhr (4:56 h, davon 25 Minuten Pause)
 Belehrung Zeugin: § 57 StPO (Wahrheitspflicht), § 55 StPO (Auskunftsverweigerungsrecht bei Selbstbelastung) — wurde erteilt; Zeugin erklärte, sie werde aussagen.
 
 ---
@@ -69,8 +69,8 @@ Belehrung Zeugin: § 57 StPO (Wahrheitspflicht), § 55 StPO (Auskunftsverweigeru
 
 > "Ich habe das so gesehen und so erinnert. Wenn Details unsicher sind, weil ich nicht alle Daten im Kopf habe, sage ich das. Ich möchte hier nichts erfinden."
 
-Unterschrift Zeugin: **Mira Quasthoff** (handschriftlich)  
-Vernehmung beendet: 14:38 Uhr  
+Unterschrift Zeugin: **Mira Quasthoff** (handschriftlich)
+Vernehmung beendet: 14:38 Uhr
 Protokoll vorgelesen und genehmigt durch Zeugin.
 
 ---

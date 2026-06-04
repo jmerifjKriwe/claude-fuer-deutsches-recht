@@ -1,8 +1,8 @@
 # Aktenstück 19 — GPAI-Basiskomponente: Llama-Adaptation, Art. 53 KI-VO, Systemcard
 
-**Aktenzeichen:** 2026-V-0427  
-**Erstellt:** 28.04.2026  
-**Bearbeitung:** RA Dr. Mark Roosendaal  
+**Aktenzeichen:** 2026-V-0427
+**Erstellt:** 28.04.2026
+**Bearbeitung:** RA Dr. Mark Roosendaal
 **Rechtsgrundlage:** Art. 3 Nr. 63, Art. 51–55 KI-VO (EU) 2024/1689 (GPAI-Modelle)
 
 ---
@@ -73,5 +73,5 @@ Art. 52 Abs. 1 KI-VO: GPAI-Modellanbieter mit systemischem Risiko (Trainingsrech
 
 ---
 
-*Heidelberg, 28.04.2026*  
+*Heidelberg, 28.04.2026*
 *RA Dr. Mark Roosendaal — Az. 2026-V-0427*

@@ -1,10 +1,10 @@
 # Sanktionslistenprüfung: Trefferdokumentation und Workflow
 
-**Dokumenttyp:** Sanktionsprüfbericht / Compliance-Vermerk  
-**Aktenzeichen:** GM-SANKT-2026-017  
-**Erstellt:** 10. April 2026  
-**Verfasser:** Franziska Mehlhorn, Compliance-Analystin  
-**Geprüft:** Dr. Sabine Brennecke, Syndikusrechtsanwältin  
+**Dokumenttyp:** Sanktionsprüfbericht / Compliance-Vermerk
+**Aktenzeichen:** GM-SANKT-2026-017
+**Erstellt:** 10. April 2026
+**Verfasser:** Franziska Mehlhorn, Compliance-Analystin
+**Geprüft:** Dr. Sabine Brennecke, Syndikusrechtsanwältin
 **Status:** Trefferverdacht – Eskalation ausgelöst
 
 ---
@@ -182,5 +182,5 @@ Gemäß Art. 2 VO (EU) 269/2014 sind alle Gelder und wirtschaftlichen Ressourcen
 
 ---
 
-*GM-SANKT-2026-017 | Franziska Mehlhorn, Compliance-Analystin | 10.04.2026*  
+*GM-SANKT-2026-017 | Franziska Mehlhorn, Compliance-Analystin | 10.04.2026*
 *Geprüft: Dr. Sabine Brennecke, Syndikusrechtsanwältin | 10.04.2026*

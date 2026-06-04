@@ -1,14 +1,14 @@
 # Psychiatrisches Gutachten: Einsichtsfähigkeit Eva-Maria Wittfeldt
 
-**Gutachterin:** Dr. med. Ulrike Sternberg  
-Fachärztin für Psychiatrie und Psychotherapie  
-Praxis: Schwachhauser Heerstr. 143, 28211 Bremen  
-Tel.: 0421 / 44 77 810  
+**Gutachterin:** Dr. med. Ulrike Sternberg
+Fachärztin für Psychiatrie und Psychotherapie
+Praxis: Schwachhauser Heerstr. 143, 28211 Bremen
+Tel.: 0421 / 44 77 810
 
-**Auftraggeber:** Kanzlei Pflüger Schoeneberg Bankrecht (i.A. von Frau Eva-Maria Wittfeldt)  
-**Untersuchungstermin:** 23.04.2026, 09:00 – 12:30 Uhr  
-**Gutachten erstellt:** 28.04.2026  
-**Aktenzeichen Kanzlei:** PS-BKR-2026-0412  
+**Auftraggeber:** Kanzlei Pflüger Schoeneberg Bankrecht (i.A. von Frau Eva-Maria Wittfeldt)
+**Untersuchungstermin:** 23.04.2026, 09:00 – 12:30 Uhr
+**Gutachten erstellt:** 28.04.2026
+**Aktenzeichen Kanzlei:** PS-BKR-2026-0412
 
 ---
 
@@ -49,8 +49,8 @@ Frau Wittfeldt lebt seit dem Tod ihres Mannes Rolf Wittfeldt (2019) allein in de
 
 ### Kognitive Funktionen
 
-**MMSE:** 27/30 (Grenzbereich; keine manifeste Demenz, jedoch leichte kognitive Beeinträchtigung möglich).  
-**MoCA:** 24/30 (leichter kognitiver Abbau, insbesondere in den Bereichen Aufmerksamkeit und exekutive Funktionen).  
+**MMSE:** 27/30 (Grenzbereich; keine manifeste Demenz, jedoch leichte kognitive Beeinträchtigung möglich).
+**MoCA:** 24/30 (leichter kognitiver Abbau, insbesondere in den Bereichen Aufmerksamkeit und exekutive Funktionen).
 **DemTect:** 13 Punkte (Grenzbereich, nicht demenziell, aber erhöhte Vulnerabilität für Manipulationsstrategien).
 
 **Interpretation:** Frau Wittfeldt ist nicht demenzkrank und war im Tatzeitraum nicht im juristischen Sinne geschäftsunfähig (§ 104 BGB). Ihre intellektuellen Grundfähigkeiten sind erhalten. Jedoch weisen die Testergebnisse auf eine **altersbedingte Abnahme der exekutiven Funktionen** hin, die das kritische Hinterfragen von Informationen und das Erkennen manipulativer Kommunikationsmuster erschwert.
@@ -88,8 +88,8 @@ Frau Wittfeldt leidet aktuell unter einer **mittelgradigen depressiven Episode**
 
 **Bremen, 28. April 2026**
 
-Dr. med. Ulrike Sternberg  
-Fachärztin für Psychiatrie und Psychotherapie  
+Dr. med. Ulrike Sternberg
+Fachärztin für Psychiatrie und Psychotherapie
 *(Unterschrift)*
 
 ---

@@ -1,20 +1,20 @@
 # Recherche: ImagineArt Inc. — Gesellschaftssitz, Haftung, US-Rechtslage
 
-**AZ intern:** 26-UMR-0084 / Teilakte ImagineArt  
-**Datum:** 25.01.2026  
+**AZ intern:** 26-UMR-0084 / Teilakte ImagineArt
+**Datum:** 25.01.2026
 **Bearbeiterin:** Dr. Kreidler-Bremer
 
 ---
 
 ## I. Gesellschaft ImagineArt Inc.
 
-**Rechtsform:** Corporation (Delaware General Corporation Law)  
-**Registriert:** Delaware, USA (Registered Agent: Corporation Service Company, 251 Little Falls Drive, Wilmington, DE 19808)  
-**Geschäftssitz (operativ):** 3490 Mission Street, Suite 200, San Francisco, CA 94110  
-**CEO:** Derrick Fontaine  
-**Gründungsjahr:** 2022  
-**Finanzierung:** Series B, 85 Mio. USD (2024, Sequoia Capital lead)  
-**Umsatz (geschätzt):** USD 38–45 Mio./Jahr (2025, Presse)  
+**Rechtsform:** Corporation (Delaware General Corporation Law)
+**Registriert:** Delaware, USA (Registered Agent: Corporation Service Company, 251 Little Falls Drive, Wilmington, DE 19808)
+**Geschäftssitz (operativ):** 3490 Mission Street, Suite 200, San Francisco, CA 94110
+**CEO:** Derrick Fontaine
+**Gründungsjahr:** 2022
+**Finanzierung:** Series B, 85 Mio. USD (2024, Sequoia Capital lead)
+**Umsatz (geschätzt):** USD 38–45 Mio./Jahr (2025, Presse)
 **Kundenzahl:** ca. 800.000 zahlende Abonnenten (Nov. 2025, Pressemitteilung)
 
 ---

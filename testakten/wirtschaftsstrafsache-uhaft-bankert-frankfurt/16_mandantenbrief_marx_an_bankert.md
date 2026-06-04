@@ -1,16 +1,16 @@
 # Mandantenbrief — Dr. Marx an Daniel Albert Bankert (JVA Frankfurt I)
 
-**Marx Strafverteidigung Frankfurt**  
-Dr. Friederike Marx, Fachanwältin für Strafrecht  
-Bockenheimer Landstraße 84  
+**Marx Strafverteidigung Frankfurt**
+Dr. Friederike Marx, Fachanwältin für Strafrecht
+Bockenheimer Landstraße 84
 60323 Frankfurt am Main
 
-An:  
-Herrn Daniel Albert Bankert  
-— persönlich/vertraulich —  
-JVA Frankfurt I  
-Haftraum C 3.12  
-Hammelsgasse 5  
+An:
+Herrn Daniel Albert Bankert
+— persönlich/vertraulich —
+JVA Frankfurt I
+Haftraum C 3.12
+Hammelsgasse 5
 60311 Frankfurt am Main
 
 Frankfurt am Main, **12. Mai 2025**
@@ -83,11 +83,11 @@ Ich wünsche Ihnen soweit möglich Ruhe und Geduld. Wir tun alles, um Ihre Situa
 
 Mit freundlichen Grüßen
 
-**Dr. Friederike Marx**  
-Fachanwältin für Strafrecht  
+**Dr. Friederike Marx**
+Fachanwältin für Strafrecht
 Marx Strafverteidigung Frankfurt
 
 ---
 
-*Verteidigungskorrespondenz — § 148 StPO — geschützt*  
+*Verteidigungskorrespondenz — § 148 StPO — geschützt*
 *Az.: 5/28 KLs 122/25 — Az. StA: 5400 Js 14782/24*

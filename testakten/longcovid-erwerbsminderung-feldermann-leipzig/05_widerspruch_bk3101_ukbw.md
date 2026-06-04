@@ -4,29 +4,29 @@
 
 ---
 
-Kanzlei Sonnemann Sozialrecht Leipzig  
-Rechtsanwältin Marit Sonnemann  
-Fachanwältin für Sozialrecht  
-Karl-Liebknecht-Straße 14  
-04107 Leipzig  
-Tel.: 0341 / 58 82 100  
-Fax: 0341 / 58 82 101  
-E-Mail: kanzlei@sonnemann-sozialrecht.de  
+Kanzlei Sonnemann Sozialrecht Leipzig
+Rechtsanwältin Marit Sonnemann
+Fachanwältin für Sozialrecht
+Karl-Liebknecht-Straße 14
+04107 Leipzig
+Tel.: 0341 / 58 82 100
+Fax: 0341 / 58 82 101
+E-Mail: kanzlei@sonnemann-sozialrecht.de
 
 ---
 
-**An die**  
-Berufsgenossenschaft für Gesundheitsdienst und Wohlfahrtspflege (BGW)  
-Bezirksverwaltung Leipzig  
-Lützner Straße 105  
-04177 Leipzig  
+**An die**
+Berufsgenossenschaft für Gesundheitsdienst und Wohlfahrtspflege (BGW)
+Bezirksverwaltung Leipzig
+Lützner Straße 105
+04177 Leipzig
 
 Leipzig, den 26.02.2026
 
 ---
 
-**Aktenzeichen BGW:** BK 3101 / 261/26  
-**Mandantin:** Vivian Feldermann, geb. 03.09.1984, Bornaische Straße 78, 04277 Leipzig  
+**Aktenzeichen BGW:** BK 3101 / 261/26
+**Mandantin:** Vivian Feldermann, geb. 03.09.1984, Bornaische Straße 78, 04277 Leipzig
 
 ---
 
@@ -117,11 +117,11 @@ Ich beantrage die Einholung folgender Beweise:
 
 Mit freundlichen Grüßen
 
-**Marit Sonnemann**  
-Rechtsanwältin  
+**Marit Sonnemann**
+Rechtsanwältin
 Fachanwältin für Sozialrecht
 
 ---
 
-*Entwurf freigegeben: RA Sonnemann, 26.02.2026*  
+*Entwurf freigegeben: RA Sonnemann, 26.02.2026*
 *Kanzlei-AZ: SON-2026-0047-FEL*

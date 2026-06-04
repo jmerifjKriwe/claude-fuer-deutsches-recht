@@ -46,7 +46,7 @@ Die Bürgerinitiative wendet sich **nicht** gegen Klimaschutz und Windenergienut
 
 ## III. Energietrassen-Bezug: Planfeststellungsverfahren 50Hertz
 
-Das Bundesnetzagentur-Planfeststellungsverfahren für die Höchstspannungsleitung „Uckermark-Pommern-Leitung" (50Hertz, Trasse UPL-2024, Planfeststellungsverfahren Az.: BNetzA-PFV-2024-UPL) betrifft eine 380-kV-Freileitung, die 2,3 km östlich des Windpark-Standorts geführt werden soll. 
+Das Bundesnetzagentur-Planfeststellungsverfahren für die Höchstspannungsleitung „Uckermark-Pommern-Leitung" (50Hertz, Trasse UPL-2024, Planfeststellungsverfahren Az.: BNetzA-PFV-2024-UPL) betrifft eine 380-kV-Freileitung, die 2,3 km östlich des Windpark-Standorts geführt werden soll.
 
 **Salami-Taktik-Argument:** Die getrennte Genehmigung von Windpark und Netzanschlussleitung stellt nach der Rechtsprechung des OVG Berlin-Brandenburg eine unzulässige Aufspaltung eines einheitlich zu beurteilenden Vorhabens dar, wenn die Leitungen ausschließlich für den Anschluss des Windparks benötigt werden (OVG Berlin-Brandenburg, Urt. v. 14.10.2015, OVG 11 A 4.13). Dies ist hier zu prüfen.
 

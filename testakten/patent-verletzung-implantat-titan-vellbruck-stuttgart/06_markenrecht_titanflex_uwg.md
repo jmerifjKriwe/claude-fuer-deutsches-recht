@@ -1,7 +1,7 @@
 # 06 — Markenrechtliche Verletzung "TitanFlex" und UWG-Ansprüche
 
-**Aktenzeichen intern:** VM-2026-GR-001  
-**Datum:** 05. Februar 2026  
+**Aktenzeichen intern:** VM-2026-GR-001
+**Datum:** 05. Februar 2026
 **Bearbeiter:** RA Dr. Marie-Henriette Birkenhainer / RA Dr. Leonie Karstens
 
 ---

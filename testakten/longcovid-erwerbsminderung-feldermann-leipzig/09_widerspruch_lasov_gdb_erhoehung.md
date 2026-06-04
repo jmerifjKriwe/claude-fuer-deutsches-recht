@@ -4,28 +4,28 @@
 
 ---
 
-Kanzlei Sonnemann Sozialrecht Leipzig  
-Rechtsanwältin Marit Sonnemann  
-Fachanwältin für Sozialrecht  
-Karl-Liebknecht-Straße 14  
-04107 Leipzig  
-Tel.: 0341 / 58 82 100  
-Fax: 0341 / 58 82 101  
+Kanzlei Sonnemann Sozialrecht Leipzig
+Rechtsanwältin Marit Sonnemann
+Fachanwältin für Sozialrecht
+Karl-Liebknecht-Straße 14
+04107 Leipzig
+Tel.: 0341 / 58 82 100
+Fax: 0341 / 58 82 101
 
 ---
 
-**An das**  
-Landesamt für Soziales und Verbraucherschutz (LASOV) Sachsen  
-Referat 23 – Schwerbehindertenrecht  
-Altchemnitzer Straße 41  
-09120 Chemnitz  
+**An das**
+Landesamt für Soziales und Verbraucherschutz (LASOV) Sachsen
+Referat 23 – Schwerbehindertenrecht
+Altchemnitzer Straße 41
+09120 Chemnitz
 
 Leipzig, den 19.02.2026
 
 ---
 
-**Az. LASOV:** SBH-L-23-0047892  
-**Mandantin:** Vivian Feldermann, geb. 03.09.1984, Bornaische Straße 78, 04277 Leipzig  
+**Az. LASOV:** SBH-L-23-0047892
+**Mandantin:** Vivian Feldermann, geb. 03.09.1984, Bornaische Straße 78, 04277 Leipzig
 
 ---
 
@@ -97,11 +97,11 @@ Das versorgungsärztliche Gutachten (Dr. Laube) wurde ohne persönliche Untersuc
 
 Mit freundlichen Grüßen
 
-**Marit Sonnemann**  
-Rechtsanwältin  
+**Marit Sonnemann**
+Rechtsanwältin
 Fachanwältin für Sozialrecht
 
 ---
 
-*Kanzlei-AZ: SON-2026-0047-FEL*  
+*Kanzlei-AZ: SON-2026-0047-FEL*
 *Erstellt: 19.02.2026*

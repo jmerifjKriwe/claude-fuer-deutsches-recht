@@ -1,9 +1,9 @@
 # Zieloutput-Checkliste – Vollständigkeitsprüfung vor Planeinreichung
 
-**Aktenzeichen:** MH-2026-001  
-**Datum:** 13. Juni 2026  
-**Verfasserin:** RA Dr. Karolin Westphal  
-**Zweck:** Vollständigkeitskontrolle aller Pflichtbestandteile des Insolvenzplans gemäß §§ 219 ff. InsO und der ergänzenden Unterlagen für Gericht, Sachwalter und Gläubigerversammlung  
+**Aktenzeichen:** MH-2026-001
+**Datum:** 13. Juni 2026
+**Verfasserin:** RA Dr. Karolin Westphal
+**Zweck:** Vollständigkeitskontrolle aller Pflichtbestandteile des Insolvenzplans gemäß §§ 219 ff. InsO und der ergänzenden Unterlagen für Gericht, Sachwalter und Gläubigerversammlung
 
 ---
 

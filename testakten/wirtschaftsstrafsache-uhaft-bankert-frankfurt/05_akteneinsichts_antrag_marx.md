@@ -1,24 +1,24 @@
 # Antrag auf Akteneinsicht — Dr. Friederike Marx an Staatsanwaltschaft Frankfurt am Main
 
-**Marx Strafverteidigung Frankfurt**  
-Dr. Friederike Marx  
-Fachanwältin für Strafrecht  
-Bockenheimer Landstraße 84  
-60323 Frankfurt am Main  
-Tel.: 069 / 44 55 66 70  
-marx@marx-strafverteidigung.de  
+**Marx Strafverteidigung Frankfurt**
+Dr. Friederike Marx
+Fachanwältin für Strafrecht
+Bockenheimer Landstraße 84
+60323 Frankfurt am Main
+Tel.: 069 / 44 55 66 70
+marx@marx-strafverteidigung.de
 
-Staatsanwaltschaft Frankfurt am Main  
-— Abt. Wirtschaftskriminalität —  
-z.Hd. OStA Dr. Henning Wallisch  
-Konrad-Adenauer-Straße 20  
+Staatsanwaltschaft Frankfurt am Main
+— Abt. Wirtschaftskriminalität —
+z.Hd. OStA Dr. Henning Wallisch
+Konrad-Adenauer-Straße 20
 60313 Frankfurt am Main
 
 Frankfurt am Main, **25. März 2025**
 
 ---
 
-**Az. Staatsanwaltschaft: 5400 Js 14782/24**  
+**Az. Staatsanwaltschaft: 5400 Js 14782/24**
 **Az. Verteidigung: 2025-B-0047**
 
 ---
@@ -58,8 +58,8 @@ Ich bitte um kurzfristige Bestätigung des Eingangs dieses Antrags sowie um Mitt
 
 Mit freundlichen kollegialen Grüßen
 
-**Dr. Friederike Marx**  
-Fachanwältin für Strafrecht  
+**Dr. Friederike Marx**
+Fachanwältin für Strafrecht
 Marx Strafverteidigung Frankfurt
 
 ---

@@ -1,14 +1,14 @@
 # Klageandrohung Allianz Versicherungs-AG gegen HUK-Coburg / Tannenbruck
 
-**Absender:** Allianz Versicherungs-AG  
-Kraft­fahrt-Haftpflicht, Großschäden  
-Königinstraße 28, 80802 München  
-Sachbearbeiterin: Dipl.-Jur. Katharina Brunner, Referat Schwere Personenschäden  
-Schadennummer: AZ-KH-2026-31104  
-**Datum:** 05.02.2026  
+**Absender:** Allianz Versicherungs-AG
+Kraft­fahrt-Haftpflicht, Großschäden
+Königinstraße 28, 80802 München
+Sachbearbeiterin: Dipl.-Jur. Katharina Brunner, Referat Schwere Personenschäden
+Schadennummer: AZ-KH-2026-31104
+**Datum:** 05.02.2026
 
-**Empfänger:** Kanzlei Hoffmann Verkehrsrecht, z.H. RA Sebastian Hoffmann, Lüdenscheid  
-**In Kopie:** HUK-Coburg, Julia Reichard (Schadennummer 40-300-2026-08841)  
+**Empfänger:** Kanzlei Hoffmann Verkehrsrecht, z.H. RA Sebastian Hoffmann, Lüdenscheid
+**In Kopie:** HUK-Coburg, Julia Reichard (Schadennummer 40-300-2026-08841)
 
 ---
 
@@ -68,5 +68,5 @@ Die Position der Allianz (50/50) ist aus Sicht des Mandanten in Teilen interesse
 
 ---
 
-*Schreiben erhalten 06.02.2026 — Kanzlei Hoffmann Verkehrsrecht*  
+*Schreiben erhalten 06.02.2026 — Kanzlei Hoffmann Verkehrsrecht*
 *Weiterleitung an HUK-Coburg (Reichard) per Fax 08.02.2026*

@@ -1,8 +1,8 @@
 # Aktenstück 18 — Mandantengespräch-Protokoll
 
-**Datum:** 19.02.2026  
-**Ort:** Kanzlei Müller-Hauck Versicherungsrecht, Aureliusstraße 4, 52064 Aachen-Burtscheid  
-**Teilnehmer:** Dr. Annegret Müller-Hauck (RAin), Marion Vogelweide (Mandantin)  
+**Datum:** 19.02.2026
+**Ort:** Kanzlei Müller-Hauck Versicherungsrecht, Aureliusstraße 4, 52064 Aachen-Burtscheid
+**Teilnehmer:** Dr. Annegret Müller-Hauck (RAin), Marion Vogelweide (Mandantin)
 **Dauer:** 2 Stunden 20 Minuten
 
 ---

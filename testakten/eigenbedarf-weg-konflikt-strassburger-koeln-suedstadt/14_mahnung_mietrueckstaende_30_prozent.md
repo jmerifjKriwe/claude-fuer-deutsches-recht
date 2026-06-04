@@ -1,17 +1,17 @@
 # Mahnung – Mietrückstände infolge unberechtigter Minderung
 
-**Kanzlei Hauck-Brüggemann Mietrecht**  
+**Kanzlei Hauck-Brüggemann Mietrecht**
 Berrenrather Straße 114 · 50937 Köln-Sülz
 
 Köln, den **20. März 2026**
 
 ---
 
-**An:**  
-Herrn Levi Albrecht  
-Frau Femke van Drosten  
-Frau Mathilda Sonnenfeld  
-Rolandstraße 27a  
+**An:**
+Herrn Levi Albrecht
+Frau Femke van Drosten
+Frau Mathilda Sonnenfeld
+Rolandstraße 27a
 50677 Köln
 
 *(per Einschreiben mit Rückschein)*
@@ -50,8 +50,8 @@ Sie haben mit Schreiben vom 28.01.2026 eine Mietminderung von 30 % ab dem 01.02.
 
 ## Zahlungsaufforderung
 
-Wir fordern Sie auf, den Rückstand von **1.310,40 EUR** bis zum **03. April 2026** auf das Konto unserer Mandanten  
-**IBAN: DE83 3708 0040 0311 4450 00 (Commerzbank Köln)**  
+Wir fordern Sie auf, den Rückstand von **1.310,40 EUR** bis zum **03. April 2026** auf das Konto unserer Mandanten
+**IBAN: DE83 3708 0040 0311 4450 00 (Commerzbank Köln)**
 zu überweisen.
 
 Darüber hinaus fordern wir Sie auf, die Minderung ab April 2026 auf **maximal 15 %** zu reduzieren und die volle Miete abzüglich dieses Betrages zu zahlen, also monatlich mindestens **1.856,40 EUR** (2.184,00 × 85 %).
@@ -64,6 +64,6 @@ Mit freundlichen Grüßen
 
 **Hauck-Brüggemann Mietrecht**
 
-_________________________  
-Vanessa Hauck-Brüggemann  
+_________________________
+Vanessa Hauck-Brüggemann
 Rechtsanwältin, Fachanwältin für Miet- und WEG-Recht

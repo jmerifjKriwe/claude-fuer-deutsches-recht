@@ -1,9 +1,9 @@
 # StaRUG-Schattenfall Memo — Delta Service GmbH
 
-**Aktenzeichen:** MA-2026-SF-001-R  
-**Erstellt:** 16.05.2026  
-**Verfasser:** Counsel D (Restrukturierung)  
-**Adressat:** Deal Team / Eagle Capital Partners — Vertraulich  
+**Aktenzeichen:** MA-2026-SF-001-R
+**Erstellt:** 16.05.2026
+**Verfasser:** Counsel D (Restrukturierung)
+**Adressat:** Deal Team / Eagle Capital Partners — Vertraulich
 **Kontext:** Delta Service GmbH ist 100%-Tochter der Solaris Industries AG und Teil der Akquisition
 
 ---
@@ -60,12 +60,12 @@ Buchwert Eigenkapital Delta Service GmbH: EUR 2,4 Mio. (lt. Jahresabschluss 2024
 **Voraussetzungen:** Drohende (nicht eingetretene) Zahlungsunfähigkeit, Mehrheitsgläubiger für Planabstimmung gewinnbar.
 
 **Ablauf:**
-1. Restrukturierungsbeauftragter bestellt (intern oder extern)  
-2. Restrukturierungsplan erstellt (§§ 2–13 StaRUG)  
-3. Anzeige beim Restrukturierungsgericht (AG Essen)  
-4. Ggf. Stabilisierungsanordnung (Vollstreckungsmoratorium 3 Monate, verlängerbar)  
-5. Planabstimmung: qualifizierte Mehrheit (75 %) in jeder betroffenen Gruppe  
-6. Planbestätigung durch Gericht  
+1. Restrukturierungsbeauftragter bestellt (intern oder extern)
+2. Restrukturierungsplan erstellt (§§ 2–13 StaRUG)
+3. Anzeige beim Restrukturierungsgericht (AG Essen)
+4. Ggf. Stabilisierungsanordnung (Vollstreckungsmoratorium 3 Monate, verlängerbar)
+5. Planabstimmung: qualifizierte Mehrheit (75 %) in jeder betroffenen Gruppe
+6. Planbestätigung durch Gericht
 
 **Vorteile:** Kein öffentliches Insolvenzverfahren; kein Reputationsschaden; Vertragsbeziehungen bleiben; Kunden/Lieferanten werden nicht automatisch informiert.
 
@@ -95,12 +95,12 @@ Falls Delta Service GmbH keine Sanierungsperspektive hat: Herauslösung aus dem 
 
 ## 6. Sofortige Handlungsempfehlungen
 
-1. **Fortbestehensprognose** Delta Service GmbH bis 01.06.2026 beauftragen (Wirtschaftsprüfer)  
-2. **Covenant Certificate** mit DKB AG klären — Kreditlinie freischalten  
-3. **Rangrücktritt** Gesellschafterdarlehen finalisieren und unterzeichnen (CP-13)  
-4. **Lieferstopp-Drohungen** adressieren: Verhandlung mit Top-3-Lieferanten  
-5. **StaRUG-Berater** benennen (für Fall, dass StaRUG-Option gezogen werden muss)  
-6. **Deal Team informieren**: Delta-Risiko in Board Paper und W&I-Underwriting-Pack aufnehmen  
+1. **Fortbestehensprognose** Delta Service GmbH bis 01.06.2026 beauftragen (Wirtschaftsprüfer)
+2. **Covenant Certificate** mit DKB AG klären — Kreditlinie freischalten
+3. **Rangrücktritt** Gesellschafterdarlehen finalisieren und unterzeichnen (CP-13)
+4. **Lieferstopp-Drohungen** adressieren: Verhandlung mit Top-3-Lieferanten
+5. **StaRUG-Berater** benennen (für Fall, dass StaRUG-Option gezogen werden muss)
+6. **Deal Team informieren**: Delta-Risiko in Board Paper und W&I-Underwriting-Pack aufnehmen
 
 ---
 

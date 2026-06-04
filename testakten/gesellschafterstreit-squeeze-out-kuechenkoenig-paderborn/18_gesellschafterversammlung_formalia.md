@@ -1,8 +1,8 @@
 # 18 — Gesellschafterversammlung: Formalia, Einberufungsmängel und Heilungsmöglichkeiten
 
-**Akte:** DWSP/2026/GR-4417  
-**Erstellt:** 30.04.2026  
-**Bearbeiter:** Ass. iur. Miriam Sandtenbruch  
+**Akte:** DWSP/2026/GR-4417
+**Erstellt:** 30.04.2026
+**Bearbeiter:** Ass. iur. Miriam Sandtenbruch
 
 ---
 
@@ -83,5 +83,5 @@ Die Wittmann Holding könnte versuchen:
 
 ---
 
-*Erstellt: 30.04.2026 — Ass. iur. Miriam Sandtenbruch*  
+*Erstellt: 30.04.2026 — Ass. iur. Miriam Sandtenbruch*
 *Referenz: § 51 GmbHG (dejure.org/gesetze/GmbHG/51.html); § 243 AktG; § 246 AktG; § 214 UmwG; § 228 UmwG*

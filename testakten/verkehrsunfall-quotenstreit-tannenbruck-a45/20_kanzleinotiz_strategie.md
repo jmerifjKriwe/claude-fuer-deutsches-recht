@@ -1,10 +1,10 @@
 # Kanzleinotiz — Gesamtstrategie Mandat Tannenbruck
 
-**Kanzlei:** Hoffmann Verkehrsrecht, Lüdenscheid  
-**Bearbeiter:** RA Sebastian Hoffmann  
-**Datum:** 25.04.2026  
-**Mandant:** Holger Tannenbruck  
-**Verfahren:** Strafverfahren + OWi + Fahrerlaubnisrecht + Zivilrecht (4 parallele Stränge)  
+**Kanzlei:** Hoffmann Verkehrsrecht, Lüdenscheid
+**Bearbeiter:** RA Sebastian Hoffmann
+**Datum:** 25.04.2026
+**Mandant:** Holger Tannenbruck
+**Verfahren:** Strafverfahren + OWi + Fahrerlaubnisrecht + Zivilrecht (4 parallele Stränge)
 
 ---
 

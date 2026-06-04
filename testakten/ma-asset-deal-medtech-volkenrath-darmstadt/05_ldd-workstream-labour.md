@@ -1,7 +1,7 @@
 # 05 — LDD Workstream Labour/HR
 
-**Datum:** 3.–28. November 2025  
-**Bearbeiter:** RAin Dr. Petra Kammerlohr (Arbeitsrecht), RA Julius Ravensberg  
+**Datum:** 3.–28. November 2025
+**Bearbeiter:** RAin Dr. Petra Kammerlohr (Arbeitsrecht), RA Julius Ravensberg
 **Workstream:** Labour / Arbeitsrecht
 
 ---

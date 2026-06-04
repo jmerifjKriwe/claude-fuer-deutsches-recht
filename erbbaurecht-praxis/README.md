@@ -56,59 +56,35 @@ Starte mit dem allgemeinen Skill `erbbaurecht-allgemeiner-kaltstart`. Lade danac
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 26 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `entschaedigung-bei-heimfall-und-ablauf` | Prüft Entschädigung bei Heimfall, Zeitablauf, Wohnzweck, Marktwert, Bewertungsunterlagen und Sicherheiten. |
-| `erbbau-beschwerde-grundbuchamt` | Prüft Zwischenverfügung, Rangproblem, Zustimmung, Nachweise und Beschwerde. |
-| `erbbaugrundbuch-lesen` | Führt durch Erbbaugrundbuch, Grundstücksgrundbuch, Rangvermerke, Belastungen und korrespondierende Eintragungen. |
-| `erbbaurecht-ablauf-laufzeitende-exitplan` | Prüft die letzten zehn Jahre eines Erbbaurechts: Verlängerung, Neubestellung, Entschädigung, Rückbau, Finanzierungsauslauf, Mieter-/Betreiberkommunikation und Verhandlungsstrategie. |
-| `erbbaurecht-aktenstruktur` | Sortiert Vertrag, Grundbuch, Zins, Zustimmung, Bau, Bank, Kommunikation und Streit chronologisch. |
 | `erbbaurecht-allgemeiner-kaltstart` | Führt durch Grundstück, Erbbauberechtigte, Eigentümer, Laufzeit, Bauwerk, Erbbauzins, Heimfall, Finanzierung, Zustimmung und Grundbuchvollzug. |
-| `erbbaurecht-altlasten-und-rueckbau` | Ordnet Baugrund, Kontamination, Rückbaupflicht, Kostenverteilung und Beweissicherung. |
-| `erbbaurecht-betreiberwechsel` | Prüft Zustimmung, Bonität, Nutzungsänderung, Gewährleistung und Weitergabeklauseln. |
-| `erbbaurecht-change-of-control-bei-erbbauberechtigtem` | Prüft, ob Anteilsübertragung, Verschmelzung, Formwechsel oder Kontrollwechsel beim Erbbauberechtigten Zustimmungspflichten oder Heimfallrechte auslösen. |
-| `erbbaurecht-dingliche-vorkaufsrechte` | Prüft vertragliche und dingliche Vorkaufsrechte, Ausübungsfall, Rang und Löschung. |
-| `erbbaurecht-erbbauzinsrang-vor-finanzierungsbank` | Prüft, wann der Rang der Erbbauzinsreallast die Finanzierung entwertet, wie Rangrücktritt oder Stillhalteabrede aussehen können und welche Risiken Eigentümer, Bank und Erbbauberechtigter jeweils tragen. |
-| `erbbaurecht-fristen-und-reminder` | Baut Kalender für Zinsanpassung, Laufzeitende, Baupflicht, Versicherungen, Zustimmung und Berichtspflichten. |
-| `erbbaurecht-gewerbepark` | Prüft Nutzung, Baupflicht, Betriebspflicht, Umwelt, Altlasten, Heimfall und Investorenexit. |
-| `erbbaurecht-indexklausel-inflation` | Prüft Wertsicherung, Anpassungszeitpunkte, Transparenz, Streitprotokoll und Alternativformel. |
-| `erbbaurecht-instandhaltung-versicherung-betriebspflichten` | Prüft Gebäudeunterhaltung, Verkehrssicherung, Versicherung, Nachweispflichten, Brandschutz, Betreiberpflichten und Sanktionen bei Pflichtverstößen. |
-| `erbbaurecht-investoren-q-and-a` | Bereitet Antworten zu Laufzeit, Zins, Heimfall, Finanzierung, Exit und Grundbuch auf. |
-| `erbbaurecht-kauf-und-due-diligence` | Baut DD-Liste: Vertrag, Grundbuch, Laufzeit, Zins, Zustimmung, Heimfall, Bank, Bauzustand und Exit. |
-| `erbbaurecht-kita-sozialimmobilie` | Prüft kommunale Zwecke, Betreiberwechsel, Fördermittel, Zustimmung, Rückbau und Ausfallrisiko. |
-| `erbbaurecht-kommunale-beschlussvorlage` | Erstellt Gemeinderatsvorlage für Bestellung, Änderung, Verlängerung oder Heimfallentscheidung. |
-| `erbbaurecht-mandantenbrief` | Erklärt Lage, Risiken und nächste Schritte ohne Fachchinesisch und mit Entscheidungsoptionen. |
-| `erbbaurecht-nachhaltigkeit-und-baupflicht` | Prüft Bauverpflichtung, energetische Standards, Fördermittel, Verzögerung und Sanktionen. |
-| `erbbaurecht-notar-und-grundbuchkosten` | Ordnet Kosten bei Bestellung, Änderung, Verlängerung, Übertragung, Belastung, Löschung, Heimfall und Zwangsversteigerung und erklärt sie mandantenverständlich. |
-| `erbbaurecht-nutzungszweckwechsel-wohnen-gewerbe-sozial` | Prüft Nutzungszweck, baurechtliche und vertragliche Grenzen, Zustimmungserfordernisse, Erbbauzinsanpassung und Heimfallrisiko bei einem Zweckwechsel. |
 | `erbbaurecht-qualitygate-vertrag` | Checkt, ob ein Entwurf investierbar, vollziehbar, finanzierbar und konfliktfest ist. |
-| `erbbaurecht-rangruecktritt-bank` | Prüft Eigentümerzustimmung, Erbbauzinsrang, Finanzierungssicherheit und Heimfallkompensation. |
-| `erbbaurecht-rueckbau-am-laufzeitende` | Ordnet Rückbaupflicht, Entschädigung, Zustandserfassung, Sicherheiten und Konfliktstrategie. |
-| `erbbaurecht-schieds-und-gerichtsstand` | Prüft Schiedsklausel, Gerichtsstand, Beweisverfahren, Gutachterklausel und Vergleichsmechanik. |
-| `erbbaurecht-sicherheiten-buergschaft-depot-lastschrift` | Prüft Bürgschaft, Kaution, Rückbausicherheit, Lastschrift, Patronat, Step-in-Recht und Berichtspflichten als mildere Mittel zum Heimfall. |
-| `erbbaurecht-steuern-und-grunderwerbsteuer` | Markiert GrESt-, Ertragsteuer-, USt- und Bewertungsfragen als Schnittstellen mit steuerlicher Prüfungspflicht. |
-| `erbbaurecht-teilerbbaurecht-und-aufteilung` | Prüft Aufteilung, Wohnungserbbaurecht, Teilungserklärung, Sondernutzungsrechte, Zustimmung, Grundbuchblätter und Finanzierungsfolgen. |
-| `erbbaurecht-und-photovoltaik` | Prüft Nutzungszweck, bauliche Veränderung, Dienstbarkeit, Einspeisung, Finanzierung und Zustimmung. |
-| `erbbaurecht-untererbbaurecht-und-weitergabe` | Prüft, ob und wie ein Untererbbaurecht, eine Betreiberüberlassung oder langfristige Untervermietung zulässig ist und welche Zustimmung, Rang- und Heimfallfolgen entstehen. |
-| `erbbaurecht-verjaehrung-verwirkung-duldung` | Prüft, ob lange geduldete Nutzungen, verspätete Zinsforderungen oder alte Pflichtverletzungen noch durchsetzbar sind und welche Beweislage gebraucht wird. |
-| `erbbaurecht-verkauf-spa-klauseln` | Entwirft SPA-Klauseln zu Zustimmung, Zinsrückstand, Heimfallrisiko, Belastungen, Garantien und Closing. |
-| `erbbaurecht-vorlage-zustimmungsantrag` | Entwirft Antrag an Grundstückseigentümer für Veräußerung, Belastung oder bauliche Änderung. |
-| `erbbaurecht-vs-eigentum-vs-miete` | Erklärt den dogmatischen Unterschied zu Eigentum, Miete, Nießbrauch, Dienstbarkeit und WEG. |
-| `erbbaurechtsvertrag-pflichtinhalt` | Prüft Grundstück, Bauwerk, Laufzeit, Nutzung, Erbbauzins, Heimfall, Zustimmung, Versicherung, Instandhaltung und Entschädigung. |
-| `erbbauzins-rueckstand-mahnung` | Erstellt Mahnung, Zahlungsplan, Sicherheitencheck, Heimfallvorprüfung und Vergleichsvorschlag. |
-| `erbbauzins-struktur-und-reallast` | Prüft dingliche Sicherung, Fälligkeit, Wertsicherung, Anpassung, Rückstände und Rang. |
-| `erbbauzinsanpassung-paragraph-9a` | Prüft Anpassungsmechanik, Billigkeit, Verbraucher-/Wohnzwecknähe, Index, Streitwert und Dokumentationslogik. |
-| `finanzierung-erbbaurecht-bankfaehigkeit` | Prüft Beleihbarkeit, Rang, Laufzeitrest, Heimfallrisiko, Erbbauzinsrückstände und Bankauflagen. |
-| `gemeinde-kirche-stiftung-als-eigentuemer` | Prüft Beschluss, Genehmigung, Gemeinwohlbindung, Vergabe-/Beihilfefragen und Zustimmungspraxis. |
-| `heimfall-gruende-und-verfahren` | Prüft Vertragsgrund, Verzug, Pflichtverletzung, Fristen, Verhältnismäßigkeit, Entschädigung und Grundbuchvollzug. |
-| `heimfall-verteidigung` | Entwickelt Einwendungen, Nachholung, Verhältnismäßigkeit, Vergleich, Finanzierungslösung und Eilstrategie. |
-| `insolvenz-erbbauberechtigter` | Ordnet Erbbauzins, Heimfall, Verwertung, Masse, Finanzierung und Grundbuchvollzug. |
-| `laufzeit-verlaengerung-und-neubestellung` | Prüft Verlängerung, Neubestellung, Rang, Zustimmung der Gläubiger und kommunale Beschlusslage. |
-| `rechtsprechung-erbbaurecht-live-verifizieren` | Sichert, dass Entscheidungen nur mit Gericht, Datum, Aktenzeichen und freiem Link genutzt werden. |
-| `wohnungs-erbbaurecht-und-weg` | Prüft WEG-Struktur, Teilungserklärung, Erbbaugrundbuch, Sondernutzungsrechte und Verwalterzustimmung. |
-| `zustimmung-veraeusserung-belastung` | Prüft Zustimmungserfordernis, Versagungsgründe, Frist, Ersatz durch Gericht und Bankfähigkeit. |
-| `zwangsversteigerung-erbbaurecht` | Prüft Versteigerung des Erbbaurechts, Rang, Erbbauzins, Heimfall, Eigentümerrechte und Erwerberrisiko. |
+| `kompendium-01-rechtsprechung-erbba-bis-erbbaurecht-fristen` | erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 01; bündelt 2 frühere Spezialskills (rechtsprechung-erbbaurecht-live-verifizieren, erbbaurecht-fristen-und-reminder) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemus... |
+| `kompendium-02-heimfall-gruende-und-bis-erbbaurecht-indexkla` | erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 02; bündelt 2 frühere Spezialskills (heimfall-gruende-und-verfahren, erbbaurecht-indexklausel-inflation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-03-erbbaurecht-verkauf-bis-erbbaurechtsvertrag` | erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 03; bündelt 2 frühere Spezialskills (erbbaurecht-verkauf-spa-klauseln, erbbaurechtsvertrag-pflichtinhalt) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-04-erbbaurecht-steuern-bis-entschaedigung-bei-h` | erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 04; bündelt 2 frühere Spezialskills (erbbaurecht-steuern-und-grunderwerbsteuer, entschaedigung-bei-heimfall-und-ablauf) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabe... |
+| `kompendium-05-erbbau-beschwerde-gr-bis-erbbaugrundbuch-lese` | erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 05; bündelt 2 frühere Spezialskills (erbbau-beschwerde-grundbuchamt, erbbaugrundbuch-lesen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-06-erbbaurecht-ablauf-l-bis-erbbaurecht-aktenstr` | erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 06; bündelt 2 frühere Spezialskills (erbbaurecht-ablauf-laufzeitende-exitplan, erbbaurecht-aktenstruktur) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-07-erbbaurecht-altlaste-bis-erbbaurecht-betreibe` | erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 07; bündelt 2 frühere Spezialskills (erbbaurecht-altlasten-und-rueckbau, erbbaurecht-betreiberwechsel) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-08-erbbaurecht-change-o-bis-erbbaurecht-dinglich` | erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 08; bündelt 2 frühere Spezialskills (erbbaurecht-change-of-control-bei-erbbauberechtigtem, erbbaurecht-dingliche-vorkaufsrechte) und bewahrt deren Workflows, Normanker, Prüfprogramme un... |
+| `kompendium-09-erbbaurecht-erbbauzi-bis-erbbaurecht-gewerbep` | erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 09; bündelt 2 frühere Spezialskills (erbbaurecht-erbbauzinsrang-vor-finanzierungsbank, erbbaurecht-gewerbepark) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-10-erbbaurecht-instandh-bis-erbbaurecht-investor` | erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 10; bündelt 2 frühere Spezialskills (erbbaurecht-instandhaltung-versicherung-betriebspflichten, erbbaurecht-investoren-q-and-a) und bewahrt deren Workflows, Normanker, Prüfprogramme und... |
+| `kompendium-11-erbbaurecht-kauf-und-bis-erbbaurecht-kita-soz` | erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 11; bündelt 2 frühere Spezialskills (erbbaurecht-kauf-und-due-diligence, erbbaurecht-kita-sozialimmobilie) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-12-erbbaurecht-kommunal-bis-erbbaurecht-mandante` | erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 12; bündelt 2 frühere Spezialskills (erbbaurecht-kommunale-beschlussvorlage, erbbaurecht-mandantenbrief) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-13-erbbaurecht-nachhalt-bis-erbbaurecht-notar-un` | erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 13; bündelt 2 frühere Spezialskills (erbbaurecht-nachhaltigkeit-und-baupflicht, erbbaurecht-notar-und-grundbuchkosten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabem... |
+| `kompendium-14-erbbaurecht-nutzungs-bis-erbbaurecht-rangruec` | erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 14; bündelt 2 frühere Spezialskills (erbbaurecht-nutzungszweckwechsel-wohnen-gewerbe-sozial, erbbaurecht-rangruecktritt-bank) und bewahrt deren Workflows, Normanker, Prüfprogramme und A... |
+| `kompendium-15-erbbaurecht-rueckbau-bis-erbbaurecht-schieds` | erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 15; bündelt 2 frühere Spezialskills (erbbaurecht-rueckbau-am-laufzeitende, erbbaurecht-schieds-und-gerichtsstand) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-16-erbbaurecht-sicherhe-bis-erbbaurecht-teilerbb` | erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 16; bündelt 2 frühere Spezialskills (erbbaurecht-sicherheiten-buergschaft-depot-lastschrift, erbbaurecht-teilerbbaurecht-und-aufteilung) und bewahrt deren Workflows, Normanker, Prüfprog... |
+| `kompendium-17-erbbaurecht-und-phot-bis-erbbaurecht-untererb` | erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 17; bündelt 2 frühere Spezialskills (erbbaurecht-und-photovoltaik, erbbaurecht-untererbbaurecht-und-weitergabe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-18-erbbaurecht-verjaehr-bis-erbbaurecht-vorlage` | erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 18; bündelt 2 frühere Spezialskills (erbbaurecht-verjaehrung-verwirkung-duldung, erbbaurecht-vorlage-zustimmungsantrag) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabe... |
+| `kompendium-19-erbbaurecht-vs-eigen-bis-erbbauzins-rueckstan` | erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 19; bündelt 2 frühere Spezialskills (erbbaurecht-vs-eigentum-vs-miete, erbbauzins-rueckstand-mahnung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-20-erbbauzins-struktur-bis-erbbauzinsanpassung` | erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 20; bündelt 2 frühere Spezialskills (erbbauzins-struktur-und-reallast, erbbauzinsanpassung-paragraph-9a) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-21-finanzierung-erbbaur-bis-gemeinde-kirche-stif` | erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 21; bündelt 2 frühere Spezialskills (finanzierung-erbbaurecht-bankfaehigkeit, gemeinde-kirche-stiftung-als-eigentuemer) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabe... |
+| `kompendium-22-heimfall-verteidigun-bis-insolvenz-erbbaubere` | erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 22; bündelt 2 frühere Spezialskills (heimfall-verteidigung, insolvenz-erbbauberechtigter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-23-laufzeit-verlaengeru-bis-wohnungs-erbbaurecht` | erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 23; bündelt 2 frühere Spezialskills (laufzeit-verlaengerung-und-neubestellung, wohnungs-erbbaurecht-und-weg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-24-zustimmung-veraeusse-bis-zwangsversteigerung` | erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 24; bündelt 2 frühere Spezialskills (zustimmung-veraeusserung-belastung, zwangsversteigerung-erbbaurecht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

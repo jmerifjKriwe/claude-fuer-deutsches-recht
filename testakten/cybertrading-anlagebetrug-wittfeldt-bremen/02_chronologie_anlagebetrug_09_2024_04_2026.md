@@ -1,7 +1,7 @@
 # Chronologie: Cybertrading-Anlagebetrug Wittfeldt – September 2024 bis April 2026
 
-**Aktenzeichen:** PS-BKR-2026-0412  
-**Erstellt:** 08.04.2026 · Dr. Severin Pflüger  
+**Aktenzeichen:** PS-BKR-2026-0412
+**Erstellt:** 08.04.2026 · Dr. Severin Pflüger
 
 ---
 

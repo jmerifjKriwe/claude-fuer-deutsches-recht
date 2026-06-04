@@ -54,7 +54,7 @@ Für den GF Schimmelpfennig-Drosthager ist das Ziel ein Strafbefehl oder Bewähr
 ```
 Jan 2026    Feb 2026    Mrz 2026    Apr 2026    Mai 2026
 ────────────────────────────────────────────────────────
-                                    
+
 DSFA Kick-  DSFA        Stellungn.  ISO Audit   Vergleich
 off         fertig      LDI NRW     Stage-2     VDuG?
 |           |           |           |           |

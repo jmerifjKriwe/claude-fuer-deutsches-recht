@@ -1,14 +1,14 @@
 # Kanzleinotiz — Haftbesuch JVA Frankfurt I
 
-**Marx Strafverteidigung Frankfurt**  
+**Marx Strafverteidigung Frankfurt**
 **Vertraulich — Anwaltsgeheimnis § 53 StPO**
 
 ---
 
-**Datum des Besuchs:** Montag, 28. April 2025, 10:15–12:40 Uhr  
-**Ort:** JVA Frankfurt I, Besuchsraum Anwalt B-07 (Trennscheibe, kein Mithören)  
-**Anwesend Verteidigung:** Dr. Friederike Marx  
-**Anwesend Mandant:** Daniel Albert Bankert, Haftraum C 3.12  
+**Datum des Besuchs:** Montag, 28. April 2025, 10:15–12:40 Uhr
+**Ort:** JVA Frankfurt I, Besuchsraum Anwalt B-07 (Trennscheibe, kein Mithören)
+**Anwesend Verteidigung:** Dr. Friederike Marx
+**Anwesend Mandant:** Daniel Albert Bankert, Haftraum C 3.12
 **Notiert von:** Dr. F. Marx (Diktat, redigiert am 28.04.2025, 15:30 Uhr)
 
 ---
@@ -85,6 +85,6 @@ Bankert besteht auf sofortiger Haftbeschwerde. Er gibt an, in der JVA sei die F�
 
 ---
 
-*Dr. Friederike Marx — Marx Strafverteidigung Frankfurt*  
-*Notiz erstellt: 28.04.2025 — Vertraulich, nur für interne Verwendung*  
+*Dr. Friederike Marx — Marx Strafverteidigung Frankfurt*
+*Notiz erstellt: 28.04.2025 — Vertraulich, nur für interne Verwendung*
 *Az.: 5/28 KLs 122/25 / 5400 Js 14782/24*

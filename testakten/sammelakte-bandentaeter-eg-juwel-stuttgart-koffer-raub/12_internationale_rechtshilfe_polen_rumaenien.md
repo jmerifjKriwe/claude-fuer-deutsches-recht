@@ -1,8 +1,8 @@
 # Aktenstück 12 — Internationale Rechtshilfe: Polen (Korbiel-Vorstrafen) und Rumänien (Iordache/Interpol)
 
-**Verfahren:** StA Stuttgart 4 Js 18.422/26  
-**Bearbeitung:** StA Stuttgart / RA Dr. Schorlemmer (Korbiel) / RA Krämer (Iordache)  
-**Rechtsgrundlagen:** § 59 IRG; EuRhUeB (Europäisches Rechtshilfeubereinkommen); RiVASt (Richtlinien Verkehr mit dem Ausland in Strafsachen)  
+**Verfahren:** StA Stuttgart 4 Js 18.422/26
+**Bearbeitung:** StA Stuttgart / RA Dr. Schorlemmer (Korbiel) / RA Krämer (Iordache)
+**Rechtsgrundlagen:** § 59 IRG; EuRhUeB (Europäisches Rechtshilfeubereinkommen); RiVASt (Richtlinien Verkehr mit dem Ausland in Strafsachen)
 **Stand:** 05.02.2026
 
 ---
@@ -79,8 +79,8 @@ Rumänien ist EU-Mitglied und dem Rahmenbeschluss 2002/584/JI (EuHb) unterworfen
 
 Die Richtlinien für den Verkehr mit dem Ausland in Strafsachen (RiVASt, hrsg. Bundesjustizministerium) gelten für alle Auslandsersuchen:
 
-**§ 59 IRG (Beglaubigung):** Alle Ersuchen sind mit Beglaubigung des Urkundsbeamten zu versehen.  
-**Zweisprachigkeit:** Ersuchen an Polen und Rumänien gehen in Deutsch + Übersetzung (Englisch als Verkehrssprache im europ. Rechtsverkehr; alternativ PL/RO).  
+**§ 59 IRG (Beglaubigung):** Alle Ersuchen sind mit Beglaubigung des Urkundsbeamten zu versehen.
+**Zweisprachigkeit:** Ersuchen an Polen und Rumänien gehen in Deutsch + Übersetzung (Englisch als Verkehrssprache im europ. Rechtsverkehr; alternativ PL/RO).
 **Antwortfristen:** Keine bindenden Fristen im EuRhUeB; StA Stuttgart hat Erinnerungsschreiben für Poland-Ersuchen zum 15.02.2026 angekündigt.
 
 ---

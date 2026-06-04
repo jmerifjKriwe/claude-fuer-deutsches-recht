@@ -1,10 +1,10 @@
 # Investor Term Sheet – Nordlicht Turnaround Fonds GmbH & Co. KG
 
-**Aktenzeichen:** MH-2026-001  
-**Datum:** 26. Mai 2026  
-**Version:** 0.3 (Verhandlungsstand)  
-**Parteien:** Nordlicht Turnaround Fonds GmbH & Co. KG (nachfolgend "Investor") und Metallbau Hansa GmbH (nachfolgend "Schuldnerin")  
-**Status:** Nicht bindend; vorbehaltlich finaler Due-Diligence und Planbestätigung  
+**Aktenzeichen:** MH-2026-001
+**Datum:** 26. Mai 2026
+**Version:** 0.3 (Verhandlungsstand)
+**Parteien:** Nordlicht Turnaround Fonds GmbH & Co. KG (nachfolgend "Investor") und Metallbau Hansa GmbH (nachfolgend "Schuldnerin")
+**Status:** Nicht bindend; vorbehaltlich finaler Due-Diligence und Planbestätigung
 
 ---
 
@@ -130,12 +130,12 @@ Dieses Term Sheet unterliegt deutschem Recht. Es ist nicht rechtsverbindlich und
 
 ---
 
-**Nordlicht Turnaround Fonds GmbH & Co. KG**  
-vertreten durch die Nordlicht Verwaltungs-GmbH, Geschäftsführer: Philipp Gessner  
-Kleiner Kielort 11, 20144 Hamburg  
+**Nordlicht Turnaround Fonds GmbH & Co. KG**
+vertreten durch die Nordlicht Verwaltungs-GmbH, Geschäftsführer: Philipp Gessner
+Kleiner Kielort 11, 20144 Hamburg
 
-**Metallbau Hansa GmbH**  
-vertreten durch Anna Reimers und Lukas Petersen  
-Billbrookdeich 127, 22113 Hamburg  
+**Metallbau Hansa GmbH**
+vertreten durch Anna Reimers und Lukas Petersen
+Billbrookdeich 127, 22113 Hamburg
 
 *Unterzeichnung (zur Kenntnis, nicht als Bindung): _________________________ Hamburg, den ___________*

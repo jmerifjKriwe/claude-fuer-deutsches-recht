@@ -1,9 +1,9 @@
 # Testbericht — Klotzkette German Legal Skills
 
-**Erstellt:** 2026-05-20  
-**Stand des Repos:** Commit `7f7bdf5` (v2.0.3)  
-**Plugins gesamt:** 52  
-**Skills gesamt:** 361  
+**Erstellt:** 2026-05-20
+**Stand des Repos:** Commit `7f7bdf5` (v2.0.3)
+**Plugins gesamt:** 52
+**Skills gesamt:** 361
 **Validatoren:** `validate-plugin-structure` OK, `validate-release-zips` OK (52 Plugin-ZIPs)
 
 ## Macro-Zustand

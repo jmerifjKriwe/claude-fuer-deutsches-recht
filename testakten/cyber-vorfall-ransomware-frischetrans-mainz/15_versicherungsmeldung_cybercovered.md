@@ -1,9 +1,9 @@
 # Versicherungsmeldung an CyberCovered AG
 
-**Aktenstück:** 15  
-**Datum der Meldung:** 07.05.2026  
-**Schadensnummer:** CC-SCHADEN-2026-FTM-0914  
-**Mandantin:** Frischetrans Mittelrhein GmbH  
+**Aktenstück:** 15
+**Datum der Meldung:** 07.05.2026
+**Schadensnummer:** CC-SCHADEN-2026-FTM-0914
+**Mandantin:** Frischetrans Mittelrhein GmbH
 **Versicherer:** CyberCovered AG, Taunusanlage 17, 60325 Frankfurt am Main
 
 ---
@@ -50,15 +50,15 @@ Die Cyber-Versicherungspolice CC-2024-FTM-8801 der CyberCovered AG deckt (gemä�
 
 ## 3. Schadensmeldung vom 07.05.2026
 
-**Übermittelt an:** CyberCovered AG, Schadenabteilung Cyber  
-**Kanal:** Verschlüsselte E-Mail an schaden-cyber@cybercovered.de + telefonische Erstmeldung  
+**Übermittelt an:** CyberCovered AG, Schadenabteilung Cyber
+**Kanal:** Verschlüsselte E-Mail an schaden-cyber@cybercovered.de + telefonische Erstmeldung
 **Ansprechpartner Versicherer:** Lena Hamann (Schadenmanagerin Cyber, CyberCovered AG)
 
 ---
 
 ### Inhalt der Schadensmeldung
 
-**Schadenereignis:**  
+**Schadenereignis:**
 Ransomware-Angriff (AkiraNext) am 06.05.2026, Entdeckung 04:17 Uhr. Vollständige Verschlüsselung des SAP ERP-Systems und weiterer IT-Infrastruktur sowie Datenabfluss (2,1 TB).
 
 **Vorläufige Schadenspositionen (zum Zeitpunkt der Meldung):**
@@ -74,7 +74,7 @@ Ransomware-Angriff (AkiraNext) am 06.05.2026, Entdeckung 04:17 Uhr. Vollständig
 
 Lösegeld wurde **nicht** gezahlt und ist auch nicht geplant.
 
-**Angabe zum Angriffsverlauf:**  
+**Angabe zum Angriffsverlauf:**
 Initial Access über CVE-2026-0712 (SAP-Schwachstelle). Patch war durch IT-Dienstleister ProcessSpark Cloud AG verspätet eingespielt worden (55 Tage Verzug). Frischetrans selbst hatte keine unmittelbare Kenntnis von der Patchlücke.
 
 ---

@@ -1,8 +1,8 @@
 # Aktenstück 12 — Art. 43 KI-VO: Konformitätsbewertungsverfahren
 
-**Aktenzeichen:** 2026-V-0427  
-**Erstellt:** 15.04.2026  
-**Bearbeitung:** RAin Dr. Henrietta Vellbruck-Steinheim  
+**Aktenzeichen:** 2026-V-0427
+**Erstellt:** 15.04.2026
+**Bearbeitung:** RAin Dr. Henrietta Vellbruck-Steinheim
 **Rechtsgrundlage:** Art. 43 KI-VO (EU) 2024/1689; Anhang VI KI-VO; MDR (EU) 2017/745 Art. 52–54
 
 ---
@@ -11,10 +11,10 @@
 
 Art. 43 KI-VO sieht für Hochrisiko-KI-Systeme nach Anhang III grundsätzlich zwei Verfahrenswege vor:
 
-**Weg A — Interne Konformitätsbewertung (Art. 43 Abs. 1 i.V.m. Anhang VI):**  
+**Weg A — Interne Konformitätsbewertung (Art. 43 Abs. 1 i.V.m. Anhang VI):**
 Der Anbieter führt selbst das Konformitätsbewertungsverfahren durch (interne Kontrolle). Dies ist für die meisten Anhang-III-Systeme der Regelweg. Ausnahmen: Systeme nach Anhang III Nr. 1 (Biometrie) und bestimmte kritische Infrastruktursysteme sind zwingend durch eine Notifizierte Stelle zu prüfen.
 
-**Weg B — Konformitätsbewertung durch Notifizierte Stelle (Art. 43 Abs. 1 Unterabs. 2):**  
+**Weg B — Konformitätsbewertung durch Notifizierte Stelle (Art. 43 Abs. 1 Unterabs. 2):**
 Sofern das KI-System zugleich ein Medizinprodukt nach MDR ist, das einer Konformitätsbewertung durch eine Notifizierte Stelle nach Art. 52 MDR bedarf (was für Klasse-IIb-Produkte der Fall ist), muss auch die KI-VO-Konformitätsbewertung durch dieselbe oder eine andere Notifizierte Stelle erfolgen. Dieser Weg ist für MedAssist v4 einschlägig.
 
 ---
@@ -73,10 +73,10 @@ Die KI-VO-Konformitätsbewertung tritt neben die MDR-Konformitätsbewertung. Das
 
 ## 6. Gesamtbewertung Art. 43
 
-**Art. 43 KI-VO: Nicht erfüllt.**  
+**Art. 43 KI-VO: Nicht erfüllt.**
 Das Konformitätsbewertungsverfahren ist nicht eingeleitet. Angesichts der Frist 02.08.2026 besteht höchste Dringlichkeit. Beauftragung Notifizierte Stelle bis 15.05.2026 wird dringend empfohlen.
 
 ---
 
-*Heidelberg, 15.04.2026*  
+*Heidelberg, 15.04.2026*
 *RAin Dr. Henrietta Vellbruck-Steinheim — Az. 2026-V-0427*

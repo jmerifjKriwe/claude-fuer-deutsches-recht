@@ -121,11 +121,11 @@ Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Aenderungsproto
 ### Erstattungsverfahren / Verfahren bei CH-Quellensteuer
 
 - **Zustaendigkeit**: Schweizer Quellensteuerbescheinigung wird vom Schweizer Arbeitgeber und der kantonalen Steuerverwaltung ausgestellt. Verrechnungssteuer-Erstattung bei Dividenden durch **Eidgenoessische Steuerverwaltung (ESTV)** in Bern.
-- **Formulare/Bescheinigungen**: 
+- **Formulare/Bescheinigungen**:
   - **KAS-Bescheinigung** (Kantonale Ansaessigkeitsbescheinigung Schweiz): das in der Praxis verbreitete Dokument fuer den Nachweis des Schweizer Quellensteuer-Einbehalts (Form 85 / Form 86 je nach Kanton — **konkrete Formularbezeichnungen vom Anwender mit aktuellem Stand auf estv.admin.ch und der kantonalen Steuerverwaltung zu verifizieren**).
   - Bescheinigung Schweizer Arbeitgeber ueber arbeitstaegliche Rueckkehr (Grenzgaengerbescheinigung).
 - **Frist**: Verrechnungssteuer-Erstattung drei Jahre ab Faelligkeit; Quellensteuer-Anrechnung in DE bei der Veranlagung des Jahres.
-- **Online-Portale**: 
+- **Online-Portale**:
   - **estv.admin.ch**: Schweizer ESTV.
   - **kantonale Steuerverwaltungen** (z.B. zh.ch/steueramt fuer Zuerich, ag.ch/steueramt fuer Aargau, bs.ch fuer Basel-Stadt) fuer Lohn-Quellensteuer.
   - **bzst.de**: BZSt fuer deutsche Erstattungen.

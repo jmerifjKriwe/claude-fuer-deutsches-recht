@@ -1,7 +1,7 @@
 # 21 — Vollmacht und Prozessauftrag
 
-**Akte:** DWSP/2026/GR-4417  
-**Erstellt:** 16.04.2026 (unterzeichnet) / 17.04.2026 (abgelegt)  
+**Akte:** DWSP/2026/GR-4417
+**Erstellt:** 16.04.2026 (unterzeichnet) / 17.04.2026 (abgelegt)
 
 ---
 

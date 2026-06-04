@@ -1,9 +1,9 @@
 # Aktenstück 22 — Abschlussvermerk Rechtsanwältin
 
-**Aktenzeichen:** 2026-V-0427  
-**Erstellt:** 30.06.2026  
-**Verfasserin:** RAin Dr. Henrietta Vellbruck-Steinheim  
-**Kanzlei:** Vellbruck & Partner mbB, Erbprinzenstraße 14, 69117 Heidelberg  
+**Aktenzeichen:** 2026-V-0427
+**Erstellt:** 30.06.2026
+**Verfasserin:** RAin Dr. Henrietta Vellbruck-Steinheim
+**Kanzlei:** Vellbruck & Partner mbB, Erbprinzenstraße 14, 69117 Heidelberg
 **Gegenstand:** Abschlussvermerk KI-VO-Konformitätsprüfung MedAssist v4
 
 ---
@@ -93,11 +93,11 @@ Die Kanzlei empfiehlt, das Mandat über den 02.08.2026 hinaus fortzuführen für
 
 *Heidelberg, 30.06.2026*
 
-RAin Dr. Henrietta Vellbruck-Steinheim  
-Vellbruck & Partner mbB  
-Erbprinzenstraße 14  
-69117 Heidelberg  
-Telefon: 06221 / 84 90-0  
+RAin Dr. Henrietta Vellbruck-Steinheim
+Vellbruck & Partner mbB
+Erbprinzenstraße 14
+69117 Heidelberg
+Telefon: 06221 / 84 90-0
 E-Mail: h.vellbruck-steinheim@vellbruck-partner.de
 
 *Aktenzeichen: 2026-V-0427*

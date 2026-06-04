@@ -1,8 +1,8 @@
 # Mandantenschreiben — Zwischenbericht (Entwurf, nicht abgesandt)
 
-**Von:** Kanzlei Kreidler-Bremer Medienrecht  
-**An:** Frau Mira Windgassen, Frickestraße 29, 20251 Hamburg  
-**Datum:** 27.01.2026  
+**Von:** Kanzlei Kreidler-Bremer Medienrecht
+**An:** Frau Mira Windgassen, Frickestraße 29, 20251 Hamburg
+**Datum:** 27.01.2026
 **Betreff:** AZ 26-UMR-0084 — Sachstandsbericht und nächste Schritte
 
 ---
@@ -59,11 +59,11 @@ Für Rückfragen stehe ich jederzeit zur Verfügung.
 
 Mit freundlichen Grüßen
 
-**Dr. Antonia Kreidler-Bremer**  
-Fachanwältin für Urheber- und Medienrecht  
-Kanzlei Kreidler-Bremer Medienrecht  
-Mittelweg 147, 20148 Hamburg  
-Tel. +49 40 4411 9200  
+**Dr. Antonia Kreidler-Bremer**
+Fachanwältin für Urheber- und Medienrecht
+Kanzlei Kreidler-Bremer Medienrecht
+Mittelweg 147, 20148 Hamburg
+Tel. +49 40 4411 9200
 akb@kreidler-bremer-medienrecht.de
 
 ---

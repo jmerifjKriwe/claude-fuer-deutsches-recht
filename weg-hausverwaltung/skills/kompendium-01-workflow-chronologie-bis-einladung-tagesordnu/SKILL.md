@@ -1,0 +1,225 @@
+---
+name: kompendium-01-workflow-chronologie-bis-einladung-tagesordnu
+description: "weg-hausverwaltung: Konsolidiertes Skill-Kompendium 01; bündelt 3 frühere Spezialskills (workflow-chronologie-und-belegmatrix, workflow-fristen-und-risikoampel, einladung-tagesordnung-fristen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+---
+
+# Kompendium 01 - weg-hausverwaltung
+
+## Zweck
+
+Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+
+## Enthaltene frühere Skills
+
+| Früherer Skill | Frühere Beschreibung |
+| --- | --- |
+| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin weg-hausverwaltung: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
+| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin weg-hausverwaltung: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
+| `einladung-tagesordnung-fristen` | Prüft und erstellt Einladungen zur Eigentümerversammlung mit Tagesordnung, Ladungsfrist, Zugang, Vollmacht, Beschlussgegenständen, Anlagen und Fristenkontrolle (Stand 05/2026). Berücksichtigt § 24 Abs. 4 WEG (Ladungsfrist 3 Wochen), § 23 Abs. 1a WEG (virtuelle Versammlung) und den Vorbefassungsmaßstab BGH V ZR 86/24. |
+
+## Arbeitsregel
+
+1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
+3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+
+## Konsolidierte Inhalte
+
+## 1. `workflow-chronologie-und-belegmatrix`
+
+**Frühere Beschreibung:** Chronologie und Belegmatrix im Plugin weg-hausverwaltung: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
+
+# Chronologie und Belegmatrix
+
+## V90 Fachkern — Miet- und WEG-Recht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Chronologie und Belegmatrix` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** BGB §§ 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG §§ 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG.
+- **Verifizierte Anker:** BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025 - V ZR 128/23 (§ 16 Abs. 2 Satz 2 WEG, Rücklagen/Kostenverteilung); BGH, Urteil vom 14.02.2025 - V ZR 86/24 (§ 20 WEG, bauliche Veränderung, Vorbefassung/Beschlussersetzung).
+- **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
+- **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
+## Aufgabe
+Dieser Workflow-Skill für `weg-hausverwaltung` Chronologie und Belegmatrix im Plugin weg-hausverwaltung: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+
+## Arbeitsworkflow
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## 2. `workflow-fristen-und-risikoampel`
+
+**Frühere Beschreibung:** Fristen- und Risikoampel im Plugin weg-hausverwaltung: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
+
+# Fristen- und Risikoampel
+
+## V90 Fachkern — Miet- und WEG-Recht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fristen- und Risikoampel` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** BGB §§ 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG §§ 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG.
+- **Verifizierte Anker:** BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025 - V ZR 128/23 (§ 16 Abs. 2 Satz 2 WEG, Rücklagen/Kostenverteilung); BGH, Urteil vom 14.02.2025 - V ZR 86/24 (§ 20 WEG, bauliche Veränderung, Vorbefassung/Beschlussersetzung).
+- **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
+- **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
+## Aufgabe
+Dieser Workflow-Skill für `weg-hausverwaltung` Fristen- und Risikoampel im Plugin weg-hausverwaltung: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+
+## Arbeitsworkflow
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## 3. `einladung-tagesordnung-fristen`
+
+**Frühere Beschreibung:** Prüft und erstellt Einladungen zur Eigentümerversammlung mit Tagesordnung, Ladungsfrist, Zugang, Vollmacht, Beschlussgegenständen, Anlagen und Fristenkontrolle (Stand 05/2026). Berücksichtigt § 24 Abs. 4 WEG (Ladungsfrist 3 Wochen), § 23 Abs. 1a WEG (virtuelle Versammlung) und den Vorbefassungsmaßstab BGH V ZR 86/24.
+
+# Einladung, Tagesordnung und Fristen
+
+## V90 Fachkern — Miet- und WEG-Recht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Einladung, Tagesordnung und Fristen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Normenradar:** BGB §§ 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG §§ 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG.
+- **Verifizierte Anker:** BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025 - V ZR 128/23 (§ 16 Abs. 2 Satz 2 WEG, Rücklagen/Kostenverteilung); BGH, Urteil vom 14.02.2025 - V ZR 86/24 (§ 20 WEG, bauliche Veränderung, Vorbefassung/Beschlussersetzung).
+- **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
+- **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+
+## Fachkern: Einladung, Tagesordnung und Fristen
+- **Spezialgegenstand:** Einladung, Tagesordnung und Fristen wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
+- **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
+- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
+
+
+Stand: 05/2026.
+
+## Ziel
+
+Ein Einladungspaket erstellen oder prüfen, das Eigentümer rechtzeitig, verständlich und beschlussbezogen informiert.
+
+## Pflichtkern
+
+- **Einladender** und Vertretungsmacht (Verwalter, ersatzweise Beirat/Eigentümer nach § 24 Abs. 3 WEG bei Untätigkeit).
+- **Ladungsfrist**: 3 Wochen, § 24 Abs. 4 WEG; Gemeinschaftsordnung kann verlängern (nicht verkürzen).
+- **Ort, Zeit, Format**: physisch / virtuell / hybrid. Bei rein virtueller Versammlung ist § 23 Abs. 1a WEG zu beachten — vorheriger Grundlagenbeschluss der GdWE erforderlich.
+- **Tagesordnung** so konkret, dass Eigentümer Bedeutung und Tragweite jedes TOP erkennen.
+- **Anlagen**: Angebote, Abrechnung, Wirtschaftsplan, Vermögensbericht, Pläne, Fotos, Gutachten, Finanzierungsvorschlag.
+- **Vollmachten**, **Stimmabgabe**, **Datenschutzhinweis**, **Teilnahmehinweise** (Identifikation, Technik bei virtuell).
+
+## Bestimmtheit der TOP
+
+Pro Beschluss:
+
+1. **Was** wird beschlossen? (Sachfrage in einem Satz)
+2. **Auf welcher Grundlage** wird beschlossen? (Angebot Anlage X, Gutachten, GO §)
+3. **Welche Kosten**? (Budget, Schlüssel, Sonderumlage, Wirtschaftsplan, Fälligkeit)
+4. **Wer setzt um, bis wann, mit welcher Vollmacht**?
+
+## Warnungen
+
+- **"Verschiedenes"** trägt keinen echten Sachbeschluss.
+- Unklare Kostenrahmen machen Bau- und Sonderumlagebeschlüsse angreifbar.
+- Bei virtueller Versammlung § 23 Abs. 1a WEG und Übergangsrecht prüfen — ohne Grundlagenbeschluss keine rein virtuelle Versammlung.
+- **Vorbefassungsfähig** ist ein TOP nur dann, wenn der spätere Beschlusswortlaut bestimmt verlangt werden konnte — sonst scheitert die Beschlussersetzungsklage. Maßstab BGH, Urteil vom 14.02.2025, V ZR 86/24 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+86/24).
+- Schlüsseländerung in der TOP **mit sachlichem Grund** vorbereiten (BGH V ZR 236/23, V ZR 128/23 vom 14.02.2025).
+
+## Fristen-Cheatsheet
+
+| Frist | Inhalt | Norm |
+| --- | --- | --- |
+| 3 Wochen vor Termin | Einladung zugegangen | § 24 Abs. 4 WEG |
+| 1 Monat ab Beschluss | Beschlussanfechtungsklage erheben | § 45 Satz 1 WEG |
+| 2 Monate ab Beschluss | Klagebegründung (Ausschlussfrist) | § 45 Satz 1 WEG; BGH V ZR 33/23 vom 09.02.2024 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.02.2024&Aktenzeichen=V+ZR+33/23) |
+| 1 Jahr ab Ablauf Monatsfrist | Erkundigungsobliegenheit Kläger bei Zustellungsverzug | BGH V ZR 17/24 vom 25.10.2024 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.10.2024&Aktenzeichen=V+ZR+17/24) |
+| Eintragung Beschlusssammlung | unverzüglich nach Verkündung | § 24 Abs. 7 WEG |
+
+## Musterelemente Einladung
+
+> **Einladung zur ordentlichen Wohnungseigentümerversammlung**
+> der WEG [Adresse]
+>
+> Sehr geehrte Eigentümer,
+> hiermit lade ich Sie zur Wohnungseigentümerversammlung am [Datum, Uhrzeit] in [Ort/virtuelle Plattform mit Zugangsmodus] ein.
+>
+> **Tagesordnung**
+> TOP 1 (Info): Bericht der Verwaltung über das Geschäftsjahr [...].
+> TOP 2 (Beschluss): Beschlussfassung über die Abrechnungsspitzen (Nachschüsse / Anpassung der Vorschüsse) gemäß Jahresabrechnung [Jahr] (Anlage 1) sowie Kenntnisnahme Vermögensbericht (Anlage 2).
+> TOP 3 (Beschluss): Wirtschaftsplan [Jahr] (Anlage 3); Festsetzung der Vorschüsse.
+> TOP 4 (Beschluss): Sanierung Steigleitungen Strang [...] auf Basis Angebot [Firma], Betrag [...] EUR brutto (Anlage 4), Finanzierung über Sonderumlage gemäß Anlage 5.
+> ...
+>
+> **Vollmacht**: Eine Vollmacht (Anlage 6) muss bis zum [Datum] beim Verwalter vorliegen.
+> **Datenschutz**: Hinweise nach Art. 13 DSGVO (Anlage 7).
+> **Technik bei virtueller Teilnahme**: Zugangsdaten und Identifikationshinweise (Anlage 8).
+
+## Output
+
+- Einladungstext (Volldokument)
+- Tagesordnung mit Beschluss-/Infopunkt-Kennzeichnung und Anlagenverweis
+- Anlagenliste mit Quellen/Stand
+- Versand- und Fristenprotokoll
+- Risikohinweise (Bestimmtheit, Vorbefassung, virtuelle Versammlung)
+
+## Cross-Refs
+
+- Beschlussformulierung → `beschlussvorlagen-erstellen`
+- Anfechtungsrisiko → `beschlussanfechtung-risiko`
+- Versammlungsvorbereitung → `eigentuemerversammlung-vorbereiten`
+
+## Quellenpflicht
+
+`rechtsstand-mai-2026-faktenbank` laden. § 24 WEG: https://www.gesetze-im-internet.de/woeigg/__24.html ; § 23 Abs. 1a WEG: https://www.gesetze-im-internet.de/woeigg/__23.html .
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

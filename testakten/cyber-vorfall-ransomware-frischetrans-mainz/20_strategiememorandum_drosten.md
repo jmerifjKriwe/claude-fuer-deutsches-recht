@@ -1,9 +1,9 @@
 # Strategiememorandum — RA Lukas Drosten
 
-**Aktenstück:** 20  
-**Datum:** 13.05.2026  
-**Mandantin:** Frischetrans Mittelrhein GmbH  
-**Verfasser:** RA Lukas Drosten, Fachanwalt für IT-Recht  
+**Aktenstück:** 20
+**Datum:** 13.05.2026
+**Mandantin:** Frischetrans Mittelrhein GmbH
+**Verfasser:** RA Lukas Drosten, Fachanwalt für IT-Recht
 **Vertraulich — Anwaltliches Berufsgeheimnis**
 
 ---
@@ -99,7 +99,7 @@ Die größten verbleibenden Risiken sind (a) ein mögliches LfDI-Bußgeld (mitte
 
 Der Fall gegen ProcessSpark ist juristisch stark und verspricht hohe Erfolgschancen.
 
-**Gesamtschadenspotenzial Mandantin (worst case):** ca. 1,2–2,0 Mio. EUR  
-**Erwartetes Regressvolumen aus ProcessSpark:** ca. 500.000–700.000 EUR (netto nach Prozesskosten)  
-**Versicherungsdeckung:** bis 5 Mio. EUR (abzügl. Selbstbehalt 25.000 EUR laut Police)  
+**Gesamtschadenspotenzial Mandantin (worst case):** ca. 1,2–2,0 Mio. EUR
+**Erwartetes Regressvolumen aus ProcessSpark:** ca. 500.000–700.000 EUR (netto nach Prozesskosten)
+**Versicherungsdeckung:** bis 5 Mio. EUR (abzügl. Selbstbehalt 25.000 EUR laut Police)
 **Netto-Belastung Mandantin (Schätzung):** ca. 100.000–400.000 EUR

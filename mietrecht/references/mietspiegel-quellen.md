@@ -675,7 +675,7 @@ Universitätsstädte mit besonders angespanntem Wohnungsmarkt (Studierenden-Nach
 
 **Online-Abfragetool.** [Geoportal Marburg](https://marburginzahlen.marburg.de/leben-in-marburg/leben-und-wohnen)
 
-**PDF-Download.** 
+**PDF-Download.**
 
 **Besonderheiten.** Marburg liegt nach der Hessischen Mieterschutzverordnung im Gebiet mit Mietpreisbremse, abgesenkter Kappungsgrenze von 15 % und verlängerter Kündigungssperrfrist von acht Jahren; die Stadtseite verweist darauf, dass die ortsübliche Vergleichsmiete adressgenau im Geoportal Marburg ermittelt werden kann. Als herausgebende/tragende Stelle ist auf der offiziellen Stadtseite nur die Universitätsstadt Marburg bzw. das Datendashboard 'Marburg in Zahlen' ersichtlich; ein separater städtischer PDF-Download des aktuellen Mietspiegels war in den amtlichen Quellen, die ich gefunden habe, nicht direkt verlinkt.
 

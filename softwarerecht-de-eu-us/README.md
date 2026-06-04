@@ -48,114 +48,37 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 105 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 28 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `abnahme-tests-acceptance` | Gestaltet Abnahme, Testfälle, UAT, Go-live, Teilabnahme, Fiktion und Mängelvorbehalte. |
-| `agile-scrum-vertrag` | Gestaltet agile Softwareverträge mit Backlog, Sprints, Product Owner, Budget, Abnahme und Scope-Kontrolle. |
-| `ai-code-generation-ip` | Prüft KI-generierten Code, Trainingsrisiken, Output-Ownership, OSS-Leakage, Warranties und Entwickler-Policies. |
-| `ai-pair-programming-employment` | Gestaltet Arbeitnehmerregeln für KI-gestützte Softwareentwicklung, Code Review, Geheimnisse, Datenschutz und Haftung. |
 | `allgemein` | Startet die Softwarerechtsprüfung für Entwicklung, Lizenz, SaaS, Open Source, Arbeitnehmer/Freelancer, EU/US/IP und Streit. |
-| `api-license-sdk` | Entwirft API-/SDK-Lizenzen mit Rate Limits, Developer Terms, Datenrechten, Deprecation und Abuse Controls. |
-| `arbeitnehmer-software-69b-urhg` | Prüft deutsche Arbeitnehmer-Software, automatische ausschließliche Nutzungsrechte des Arbeitgebers und Vertragsklauseln. |
-| `audit-klauseln-lizenz` | Prüft Audit-Rechte, Nachlizenzierung, Vertraulichkeit, Datenschutz, Kosten und Missbrauchsschutz. |
-| `beta-pilot-poc-termsheet` | Gestaltet Beta-, Pilot- und Proof-of-Concept-Terms mit Vertraulichkeit, Feedback, Daten, Haftung und Go/No-Go. |
-| `beweissicherung-code-repository` | Sichert Git, Tickets, Commits, Builds, Artefakte, CI/CD und Zugriffslogs für IP, Mängel und Streit. |
-| `bonus-equity-devs-noncompete` | Prüft Bonus, VSOP, Equity, Retention, nachvertragliche Wettbewerbsverbote und IP-Retention bei Entwicklerteams. |
-| `change-request-scope-creep` | Kontrolliert Change Requests, Scope Creep, Mehrvergütung, Terminverschiebung und Governance. |
-| `compliance-matrix-global` | Erstellt globale Compliance-Matrix für Deutschland, EU, USA und weitere Märkte bei Softwareprodukten. |
-| `computerprogramm-69a-urhg-schutz` | Prüft Schutzgegenstand deutscher Computerprogramme, Ausdruck, Schnittstellen, Dokumentation, Vorbereitungsmaterial und Ausschlüsse. |
-| `contributor-license-agreement` | Entwirft CLA/DCO-Regeln für Open-Source-Projekte, Firmenbeiträge, Patent Grants und Maintainer-Governance. |
-| `copyleft-compliance` | Baut Copyleft-Compliance für Softwareprodukte mit Linking, Containers, SaaS, Plugins und Kundenlieferungen. |
-| `data-license-training` | Prüft Datenlizenzen für Softwaretraining, Analytics, Benchmarking, KI, Produktverbesserung und Weitergabe. |
-| `data-protection-dpa-software` | Prüft AVV/DPA, Rollen, Subprozessoren, TOMs, Drittlandtransfer, Telemetrie und Produktdaten. |
-| `datenbank-und-softwaredaten` | Prüft Datenbanken, Logdaten, Trainingsdaten, Telemetrie, Data Act und Rechte an Softwaredaten. |
-| `dekompilierung-interoperabilitaet-69e` | Prüft Dekompilierung zur Interoperabilität, API-Reverse-Engineering, Vertragsverbote und EU/US-Unterschiede. |
-| `devops-cloud-control` | Prüft DevOps-Verträge, CI/CD, Infrastructure as Code, Cloud Credentials, Betriebsverantwortung und Auditierbarkeit. |
-| `dual-licensing` | Prüft Dual-Licensing-Geschäftsmodelle, OSS-Core, Commercial License, Contributor-Rechte und Copyleft-Hebel. |
-| `eidas-electronic-signatures-software` | Prüft Signatur-, Trust-Service- und Identitätssoftware nach eIDAS, Beweiswert, qES und Anbieterrollen. |
-| `employee-invention-software-patents-de` | Prüft Software-nahe Erfindungen deutscher Mitarbeiter, ArbEG, technische Lehre, PatG und Schnittstelle zu § 69b UrhG. |
-| `employment-contract-software-engineer-de` | Entwirft Klauseln für deutsche angestellte Softwareingenieure zu § 69b, Nebentätigkeit, OSS, Geheimnissen, Erfindungen und Offboarding. |
-| `enterprise-license-metrics` | Prüft komplexe Lizenzmetriken: Seats, named users, concurrent users, devices, cores, revenue, affiliates und API calls. |
-| `entwicklungsprojekt-intake` | Führt das Intake für eine komplette Softwareentwicklung vom Term Sheet bis Go-live und Post-Launch. |
-| `escrow-source-code` | Entwirft und prüft Source-Code-Escrow für kritische Software, Trigger, Verifikation, Buildfähigkeit und Herausgabe. |
-| `eu-ai-act-software` | Prüft Software mit KI-Funktionen nach KI-VO, Zweckbestimmung, Hochrisiko, GPAI, Transparenz und Provider/Deployer-Rollen. |
-| `eu-computer-programs-directive` | Prüft EU-Richtlinie 2009/24/EG, Schutzumfang, Arbeitnehmerregel, Dekompilierung und Vertragsgrenzen. |
-| `eu-cyber-resilience-act-software` | Prüft CRA-Pflichten für Produkte mit digitalen Elementen, Security by Design, Vulnerabilities, CE und Updates. |
-| `eu-data-act-software-data-sharing` | Prüft Data Act bei vernetzten Produkten, Softwarediensten, Cloud Switching, Datenzugang und unfair clauses. |
-| `export-control-sanctions-software` | Prüft Exportkontrolle, Sanktionen, Verschlüsselung, Cybertools, Dual Use und Cloud-Zugriff bei Software. |
-| `freelancer-code-rechteuebertragung-de` | Prüft deutsche Freelancer-Softwareverträge, Nutzungsrechte, Zweckübertragungsregel, Abnahme, Open Source und Statusrisiko. |
-| `freelancer-misclassification-ip-risk` | Verbindet Software-Freelancer-IP mit Scheinselbständigkeits-, Nachzahlungs- und Rechtekettenrisiken. |
-| `gdpr-privacy-by-design-software` | Prüft Datenschutzanforderungen in Softwarearchitektur, Rollen, Logging, Telemetrie, AI, DSFA und AVV. |
-| `gpl-agpl` | Prüft GPL/AGPL-Pflichten, Copyleft-Auslöser, Source-Angebot, Netzwerkinteraktion und SaaS-Sonderrisiken. |
-| `implementation-customizing` | Prüft Implementierungsprojekte, Customizing, Konfiguration, Schnittstellen, Datenmigration und Verantwortungsmatrix. |
-| `incident-cyber-liability` | Prüft Haftung nach Software-Cybervorfall, Logs, Patches, vertragliche Pflichten, DSGVO und Produktsicherheit. |
-| `india-dev-outsourcing` | Prüft Outsourcing an indische Softwareteams mit IP assignment, Datenschutz, Export, Security und Enforcement. |
-| `investment-term-sheet-software-ip` | Prüft Term Sheets für Softwareunternehmen mit IP reps, vesting, founder code, option pool, open source und AI warranties. |
-| `ip-indemnity` | Prüft Freistellungen für IP Claims, Open Source, Patente, Third-Party-Code, Remedies und Kontrolle der Verteidigung. |
-| `liability-cap` | Prüft Liability Caps, Ausschlüsse, carve-outs, Datenverlust, Security, IP, Datenschutz und AGB-Risiken. |
-| `license-noncompliance-dispute` | Prüft Streit über Lizenzüberschreitung, Audit, Nachlizenzierung, Kündigung und Vergleich. |
-| `license-scanner-remediation` | Steuert OSS-License-Scanner-Befunde, False Positives, Legal Review, Remediation und Audit-Trail. |
-| `machine-regulation-embedded-software` | Prüft Embedded Software, Safety Functions, Updates, Maschinenverordnung, CE und technische Dokumentation. |
-| `marketplace-app-store-terms` | Prüft App-Store-, Cloud-Marketplace- und Plattformbedingungen für Softwareanbieter und Unternehmenskunden. |
-| `mit-apache-bsd` | Prüft permissive Open-Source-Lizenzen, Notices, Patent Grant, Attribution und Haftungsausschlüsse. |
-| `miturheber-mehrere-entwickler` | Prüft Teams, Co-Authors, Modulbeiträge, Joint Ownership und praktische Verwertung bei deutscher und US-Softwareentwicklung. |
-| `model-weights-software-license` | Prüft Lizenzen für Modelle, Weights, Checkpoints, Inference-Code, Datasets und kommerzielle Nutzung. |
-| `nearshore-offshore-development` | Prüft internationale Entwicklerteams, Subunternehmerketten, Arbeits-/IP-Flow-downs, Datenzugriff und Exportkontrolle. |
-| `nis2-software-vendor` | Prüft NIS-2-Auswirkungen auf Softwareanbieter, Lieferketten, kritische Kunden, Incidentpflichten und Vertragsdurchgriffe. |
-| `on-prem-lizenzvertrag` | Prüft klassische On-Prem-Lizenzen, Installation, Nutzungsumfang, Wartung, Audit, Updates und Virtualisierung. |
-| `open-source-ai-models` | Prüft Open-Source-/Open-Weight-Modelle, Lizenzpflichten, Restriktionen, Datenherkunft und Integration in Softwareprodukte. |
-| `open-source-in-saas` | Prüft Open Source bei SaaS ohne klassische Distribution, AGPL, managed services und Kundenverträge. |
-| `open-source-urheberrecht-und-lizenzkette` | Prüft Open-Source-Komponenten als Teil der Software-Rechtekette inklusive Copyleft, Notices, Source-Angebot und M&A-Risiko. |
-| `patent-infringement-software` | Prüft Softwarepatentverletzung in US/EU, Claim Mapping, Indirect Infringement, Invalidity und Workarounds. |
-| `penetration-test-terms` | Prüft Verträge für Pentests, Red Teams, Scope, Tools, Datenzugriff, Haftung und Responsible Disclosure. |
-| `per-seat-per-core-usage-metrics` | Prüft technische Lizenzzählung bei Seats, Cores, CPUs, Containers, Kubernetes, Cloud und Verbrauchsmodellen. |
-| `platform-dsa-dma-software` | Prüft DSA/DMA-Fragen bei Softwaremarktplätzen, App Stores, Developer Platforms, Moderation und Gatekeeper-Abhängigkeit. |
-| `preliminary-injunction-software` | Prüft Eilrechtsschutz bei Software-IP, Geschäftsgeheimnis, Lizenzverletzung, Source-Code-Abfluss und Plattform-Sperren. |
-| `product-liability-defective-software-eu` | Prüft neue EU-Produkthaftung für Software, KI, Updates, Sicherheitslücken und Herstellerrollen. |
-| `prompt-code-ownership` | Prüft Rechte an Prompts, Generated Code, Agent Workflows, Copilot-Ausgaben und internen Promptbibliotheken. |
-| `public-procurement-software` | Prüft öffentliche Softwarebeschaffung, EVB-IT, Leistungsbeschreibung, Cloud, Open Source, IT-Sicherheit und Nachprüfungsrisiken. |
-| `quellen-und-livecheck-softwarerecht` | Erzwingt Liveprüfung aktueller Normen, Behördenquellen, EU-Rechtsakte, USPTO/EPO-Guidance und keine Blindzitate. |
-| `rechtsabteilung-data-act-und-cloud-switching-klauseln` | Rechtsabteilungs-Spezialskill für Data Act und Cloud-Switching-Klauseln: Softwareverträge werden auf Datenzugang, Portabilität und Exit-Charges geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-developer-ip-bei-deutschen-angestellten` | Rechtsabteilungs-Spezialskill für Developer-IP bei deutschen Angestellten: Code-Rechte, Nebenprojekte, Repos und Freelancer-Beiträge werden aufgeklärt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-ki-code-und-trainingsdaten-im-lizenzvertrag` | Rechtsabteilungs-Spezialskill für KI-Code und Trainingsdaten im Lizenzvertrag: AI-assisted coding wird mit Warranty, Audit, Indemnity und Source-Hygiene geregelt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-open-source-copyleft-im-saas-stack` | Rechtsabteilungs-Spezialskill für Open-Source-Copyleft im SaaS-Stack: Komponenten werden in Copyleft, Notice, Patent Grant und SaaS-Trigger getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-us-work-made-for-hire-im-deutschen-projekt` | Rechtsabteilungs-Spezialskill für US Work Made for Hire im deutschen Projekt: US-Templates werden auf deutsche Rechteübertragung und moral rights angepasst. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `kompendium-01-agile-scrum-vertrag-bis-rechtsabteilung-data` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (agile-scrum-vertrag, audit-klauseln-lizenz, on-prem-lizenzvertrag, rechtsabteilung-data-act-und-cloud-switching-klauseln) und bewahrt deren Work... |
+| `kompendium-02-rechtsabteilung-ki-c-bis-license-scanner-reme` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (rechtsabteilung-ki-code-und-trainingsdaten-im-lizenzvertrag, saas-vertrag-b2b, werkvertrag-dienstvertrag-software, license-scanner-remediation)... |
+| `kompendium-03-abnahme-tests-accept-bis-api-license-sdk` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (abnahme-tests-acceptance, ai-code-generation-ip, ai-pair-programming-employment, api-license-sdk) und bewahrt deren Workflows, Normanker, Prüfpr... |
+| `kompendium-04-arbeitnehmer-softwar-bis-bonus-equity-devs-no` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (arbeitnehmer-software-69b-urhg, beta-pilot-poc-termsheet, beweissicherung-code-repository, bonus-equity-devs-noncompete) und bewahrt deren Workf... |
+| `kompendium-05-change-request-scope-bis-contributor-license` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (change-request-scope-creep, compliance-matrix-global, computerprogramm-69a-urhg-schutz, contributor-license-agreement) und bewahrt deren Workflo... |
+| `kompendium-06-copyleft-compliance-bis-datenbank-und-softwa` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (copyleft-compliance, data-license-training, data-protection-dpa-software, datenbank-und-softwaredaten) und bewahrt deren Workflows, Normanker, P... |
+| `kompendium-07-dekompilierung-inter-bis-eidas-electronic-sig` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (dekompilierung-interoperabilitaet-69e, devops-cloud-control, dual-licensing, eidas-electronic-signatures-software) und bewahrt deren Workflows,... |
+| `kompendium-08-employee-invention-s-bis-entwicklungsprojekt` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (employee-invention-software-patents-de, employment-contract-software-engineer-de, enterprise-license-metrics, entwicklungsprojekt-intake) und be... |
+| `kompendium-09-escrow-source-code-bis-eu-cyber-resilience` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (escrow-source-code, eu-ai-act-software, eu-computer-programs-directive, eu-cyber-resilience-act-software) und bewahrt deren Workflows, Normanker... |
+| `kompendium-10-eu-data-act-software-bis-freelancer-misclassi` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (eu-data-act-software-data-sharing, export-control-sanctions-software, freelancer-code-rechteuebertragung-de, freelancer-misclassification-ip-ris... |
+| `kompendium-11-gdpr-privacy-by-desi-bis-incident-cyber-liabi` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (gdpr-privacy-by-design-software, gpl-agpl, implementation-customizing, incident-cyber-liability) und bewahrt deren Workflows, Normanker, Prüfpro... |
+| `kompendium-12-india-dev-outsourcin-bis-liability-cap` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (india-dev-outsourcing, investment-term-sheet-software-ip, ip-indemnity, liability-cap) und bewahrt deren Workflows, Normanker, Prüfprogramme und... |
+| `kompendium-13-license-noncomplianc-bis-mit-apache-bsd` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (license-noncompliance-dispute, machine-regulation-embedded-software, marketplace-app-store-terms, mit-apache-bsd) und bewahrt deren Workflows, N... |
+| `kompendium-14-miturheber-mehrere-e-bis-nis2-software-vendor` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (miturheber-mehrere-entwickler, model-weights-software-license, nearshore-offshore-development, nis2-software-vendor) und bewahrt deren Workflows... |
+| `kompendium-15-open-source-ai-model-bis-patent-infringement` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (open-source-ai-models, open-source-in-saas, open-source-urheberrecht-und-lizenzkette, patent-infringement-software) und bewahrt deren Workflows,... |
+| `kompendium-16-penetration-test-ter-bis-preliminary-injuncti` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (penetration-test-terms, per-seat-per-core-usage-metrics, platform-dsa-dma-software, preliminary-injunction-software) und bewahrt deren Workflows... |
+| `kompendium-17-product-liability-de-bis-quellen-und-livechec` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (product-liability-defective-software-eu, prompt-code-ownership, public-procurement-software, quellen-und-livecheck-softwarerecht) und bewahrt de... |
+| `kompendium-18-rechtsabteilung-deve-bis-repository-access-of` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (rechtsabteilung-developer-ip-bei-deutschen-angestellten, rechtsabteilung-open-source-copyleft-im-saas-stack, rechtsabteilung-us-work-made-for-hi... |
+| `kompendium-19-reseller-oem-var-bis-secure-development-c` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (reseller-oem-var, sbom-software-composition, scraping-api-terms, secure-development-contract) und bewahrt deren Workflows, Normanker, Prüfprogra... |
+| `kompendium-20-sicherungskopie-und-bis-software-foerderung` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (sicherungskopie-und-bestimmungsgemaesse-nutzung-69d, software-copyright-infringement, software-dokumentation-gui-api-schutz, software-foerderung... |
+| `kompendium-21-software-ip-chain-of-bis-software-scope-und-r` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (software-ip-chain-of-title, software-mna-dd, software-policy-legal-engineering, software-scope-und-rechtsgebiet-router) und bewahrt deren Workfl... |
+| `kompendium-22-subcontractors-cloud-bis-synthetic-data-code` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (subcontractors-cloud, support-maintenance-sla, swiss-software-contracts, synthetic-data-code) und bewahrt deren Workflows, Normanker, Prüfprogra... |
+| `kompendium-23-termination-exit-mig-bis-us-copyright-softwar` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (termination-exit-migration, trade-secret-misappropriation-code, uk-software-contracts, us-copyright-software-title17) und bewahrt deren Workflow... |
+| `kompendium-24-us-dmca-1201-interop-bis-us-open-source-licen` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 24; bündelt 4 frühere Spezialskills (us-dmca-1201-interoperability, us-export-control-encryption-ear, us-independent-contractor-assignment, us-open-source-license-enforcement) und b... |
+| `kompendium-25-us-patent-102-103-11-bis-us-trade-secret-dtsa` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 25; bündelt 4 frühere Spezialskills (us-patent-102-103-112-software, us-saas-terms, us-software-patent-101, us-trade-secret-dtsa) und bewahrt deren Workflows, Normanker, Prüfprogram... |
+| `kompendium-26-us-work-made-for-hir-bis-warranty-defects` | softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 26; bündelt 3 frühere Spezialskills (us-work-made-for-hire-software, vulnerability-disclosure, warranty-defects) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemus... |
 | `redteam-software-qualitygate` | Finaler Qualitätsfilter für Software-Rechtsausgaben gegen Halluzination, fehlende Quellen, übersehene IP-/OSS-/US-Risiken und Vertragswidersprüche. |
-| `repository-access-offboarding` | Prüft Repository-Zugänge, Schlüssel, Secrets, Adminrechte, Offboarding, BYOD und Beweissicherung. |
-| `reseller-oem-var` | Prüft Reseller-, OEM- und Value-Added-Reseller-Verträge mit Marken, Sublicensing, Support und Haftungskette. |
-| `saas-vertrag-b2b` | Entwirft und prüft B2B-SaaS-Verträge mit Zugriffslizenz, Verfügbarkeit, Datenschutz, Exit, Security und Haftung. |
-| `sbom-software-composition` | Erstellt SBOM- und Software-Composition-Workflows für OSS, Security, CRA, Kundenverträge und M&A. |
-| `scraping-api-terms` | Prüft Scraping, Crawling, API-Nutzung, Robots, Vertragsbedingungen, Datenbankrecht, Computer Misuse und Fair Use. |
-| `secure-development-contract` | Entwirft Security-by-Design-Pflichten in Entwicklungsverträgen: SSDLC, threat modeling, secure coding, tests und remediation. |
-| `sicherungskopie-und-bestimmungsgemaesse-nutzung-69d` | Prüft § 69d UrhG, notwendige Programmnutzung, Fehlerberichtigung, Backup und vertragliche Einschränkungen. |
-| `software-copyright-infringement` | Prüft Software-Urheberrechtsverletzungen: Codekopie, nonliteral similarity, access, clean room und Beweisführung. |
-| `software-dokumentation-gui-api-schutz` | Prüft Schutz von Dokumentation, GUI, API-Spezifikation, Handbüchern, Screens und Datenmodellen neben dem Programmcode. |
-| `software-foerderung-rd-tax` | Prüft Softwareentwicklung für Forschungszulage, Förderverträge, IP-Auflagen, Beihilfe und Dokumentation. |
-| `software-ip-chain-of-title` | Prüft die Rechtekette an Code, Dokumentation, APIs, Datenbanken, Designs, KI-Code und Third-Party-Komponenten. |
-| `software-mna-dd` | Prüft Software-IP, OSS, Datenschutz, Security, Verträge, Kundenlizenzen, Mitarbeiter/Freelancer und technische Schulden im Deal. |
-| `software-policy-legal-engineering` | Baut interne Software-Legal-Policy für Engineering: OSS, AI Tools, Repositories, Security, Export, Verträge und Releases. |
-| `software-scope-und-rechtsgebiet-router` | Ordnet ein Softwaremandat in Urheberrecht, Vertragsrecht, Datenschutz, Produktsicherheit, Patente, Open Source und Export ein. |
-| `subcontractors-cloud` | Prüft Cloud-Subunternehmer, Hosting, Reseller, Managed Services, Flow-downs und Daten-/Security-Verantwortung. |
-| `support-maintenance-sla` | Prüft Wartung, Updates, Patches, Support-Level, Reaktionszeiten, Credits und End-of-Life. |
-| `swiss-software-contracts` | Prüft Schweizer Softwareverträge mit Urheberrecht, Auftrags-/Werkvertragslogik, Datenschutz und Gerichtsstand. |
-| `synthetic-data-code` | Prüft synthetische Daten, generierten Code, Testdaten, Anonymisierung und Re-Identifikationsrisiken. |
-| `termination-exit-migration` | Gestaltet Kündigung, Datenexport, Transition Assistance, Post-Termination-Lizenz und Vendor Lock-in-Vermeidung. |
-| `trade-secret-misappropriation-code` | Prüft Entwendung von Source Code, Architektur, Roadmap, Kundendaten und Secrets durch Mitarbeiter, Contractor oder Wettbewerber. |
-| `uk-software-contracts` | Prüft UK-Softwareverträge aus deutscher Sicht: governing law, IP assignment, liability, data protection und warranties. |
-| `us-copyright-software-title17` | Prüft US-Copyright-Schutz für Softwarecode, nonliteral elements, registration, deposit und litigation readiness. |
-| `us-dmca-1201-interoperability` | Prüft Anti-Circumvention-Risiken bei Reverse Engineering, Security Research, Jailbreak, Repair und Interoperabilität. |
-| `us-export-control-encryption-ear` | Prüft US-Exportkontrolle für Verschlüsselungssoftware, EAR, cloud access, sanctions und deemed exports. |
-| `us-independent-contractor-assignment` | Prüft US-Contractor-Softwareverträge mit present assignment, moral rights waiver, OSS, inventions und confidentiality. |
-| `us-open-source-license-enforcement` | Prüft Open-Source-Lizenzverletzungen und Enforcement nach US-Copyright-/Contract-Law. |
-| `us-patent-102-103-112-software` | Prüft Neuheit, obviousness, written description, enablement und definiteness bei softwarebezogenen US-Patenten. |
-| `us-saas-terms` | Entwirft US-SaaS-Terms mit subscription, acceptable use, data, uptime, indemnity, limitation of liability und order forms. |
-| `us-software-patent-101` | Prüft US-Patentfähigkeit softwarebezogener Erfindungen nach § 101, abstract idea, practical application und eligibility guidance. |
-| `us-trade-secret-dtsa` | Prüft Software als Trade Secret nach US-Recht: secrecy measures, misappropriation, employee mobility und repository evidence. |
-| `us-work-made-for-hire-software` | Prüft US Work made for hire für Arbeitnehmer und die Grenzen bei Contractors, Software, assignments und state law. |
-| `vulnerability-disclosure` | Prüft Vulnerability Disclosure, Coordinated Disclosure, Bug Bounty, Security Advisories und rechtliche Schutzplanken. |
-| `warranty-defects` | Prüft Mängelrechte bei Software, SaaS, Custom Code, Updates, Dokumentation und Interoperabilität. |
-| `werkvertrag-dienstvertrag-software` | Prüft die Einordnung von Softwareleistungen als Werkvertrag, Dienstvertrag, Typenmischung oder SaaS-Zugang. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

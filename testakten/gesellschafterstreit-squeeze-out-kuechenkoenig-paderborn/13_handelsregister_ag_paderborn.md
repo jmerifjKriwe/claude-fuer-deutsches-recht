@@ -1,8 +1,8 @@
 # 13 — Handelsregisterstreit: AG Paderborn HRA 4188 — Ablehnungsbeschluss
 
-**Akte:** DWSP/2026/GR-4417  
-**Erstellt:** 27.04.2026  
-**Bearbeiter:** Ass. iur. Miriam Sandtenbruch  
+**Akte:** DWSP/2026/GR-4417
+**Erstellt:** 27.04.2026
+**Bearbeiter:** Ass. iur. Miriam Sandtenbruch
 
 ---
 
@@ -67,5 +67,5 @@ Der gescheiterte Formwechsel zeigt, dass die Wittmann Holding ohne die Zustimmun
 
 ---
 
-*Erstellt: 27.04.2026 — Ass. iur. Miriam Sandtenbruch*  
+*Erstellt: 27.04.2026 — Ass. iur. Miriam Sandtenbruch*
 *Referenz: §§ 190 ff. UmwG (dejure.org/gesetze/UmwG/190.html); § 228 UmwG; § 109 KAGB; §§ 374 ff. FamFG*

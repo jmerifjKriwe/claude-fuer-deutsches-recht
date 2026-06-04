@@ -1,6 +1,6 @@
 # 14 — Verzug: § 286 BGB — Mahnung und § 280 Abs. 2 BGB
 
-**Bearbeiter:** Konrad Pohlmann  
+**Bearbeiter:** Konrad Pohlmann
 **Stand:** 28.04.2026
 
 ---
@@ -86,9 +86,9 @@ Beim Verbrauchsgüterkauf (A = Unternehmer, B = Verbraucher) gilt:
 
 **Berechnung (Beispiel):**
 
-Basiszinssatz (Stand April 2026 — fiktiv): ca. 3,62 % (Annahme auf Basis EZB-Trend)  
-Verzugszinssatz: 3,62 % + 5 % = 8,62 % p. a.  
-Hauptforderung nach Aufrechnung: 2.600 Euro  
+Basiszinssatz (Stand April 2026 — fiktiv): ca. 3,62 % (Annahme auf Basis EZB-Trend)
+Verzugszinssatz: 3,62 % + 5 % = 8,62 % p. a.
+Hauptforderung nach Aufrechnung: 2.600 Euro
 Verzugsbeginn: 02.04.2026
 
 **Weiterer Verzugsschaden (§ 288 Abs. 4 BGB):**

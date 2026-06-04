@@ -1,9 +1,9 @@
 # 06 — Klagebegründung: Markenverletzungsklage LG Mannheim 7 O 88/26
 
-**Bearbeiter:** RA Philipp Mertens-Waldhausen  
-**Datum:** 12. Mai 2026  
-**Aktenzeichen:** LG Mannheim 7 O 88/26  
-**Kammer:** 7. Kammer für Handelssachen, Vorsitzende Richterin Dr. Angelika Fleischer-Noll  
+**Bearbeiter:** RA Philipp Mertens-Waldhausen
+**Datum:** 12. Mai 2026
+**Aktenzeichen:** LG Mannheim 7 O 88/26
+**Kammer:** 7. Kammer für Handelssachen, Vorsitzende Richterin Dr. Angelika Fleischer-Noll
 
 ---
 
@@ -107,5 +107,5 @@ Alternativ: § 14 MarkenG (Sondergerichtsstand für Markenstreitigkeiten) — da
 
 ---
 
-**Erstellt von:** RA Philipp Mertens-Waldhausen  
+**Erstellt von:** RA Philipp Mertens-Waldhausen
 **Datum:** 12. Mai 2026

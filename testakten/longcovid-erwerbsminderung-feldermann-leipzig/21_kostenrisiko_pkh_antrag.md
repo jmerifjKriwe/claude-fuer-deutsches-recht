@@ -1,8 +1,8 @@
 # Kostenrisiko und Prozesskostenhilfe-Berechnung
 
-**Kanzlei-AZ:** SON-2026-0047-FEL  
-**Erstellt:** 17.02.2026  
-**Erstellt durch:** RA Sonnemann / Krüger (Berechnung)  
+**Kanzlei-AZ:** SON-2026-0047-FEL
+**Erstellt:** 17.02.2026
+**Erstellt durch:** RA Sonnemann / Krüger (Berechnung)
 
 ---
 

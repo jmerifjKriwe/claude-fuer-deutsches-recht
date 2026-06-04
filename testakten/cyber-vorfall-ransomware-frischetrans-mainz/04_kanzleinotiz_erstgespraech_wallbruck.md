@@ -1,12 +1,12 @@
 # Kanzleinotiz — Erstgespräch mit Geschäftsführerin Theresia Wallbruck
 
-**Aktenstück:** 04  
-**Datum:** 06.05.2026, 08:30 Uhr  
-**Ort:** Kanzlei Drosten & Pekonkur, Schillerstraße 14, 55116 Mainz, Besprechungsraum 1  
-**Anwesende:**  
-- RA Lukas Drosten (Kanzlei Drosten & Pekonkur)  
-- Theresia Wallbruck (Geschäftsführerin Frischetrans Mittelrhein GmbH)  
-- Franz Berkenfeld (IT-Leiter Frischetrans, telefonisch zugeschaltet ab 09:15 Uhr)  
+**Aktenstück:** 04
+**Datum:** 06.05.2026, 08:30 Uhr
+**Ort:** Kanzlei Drosten & Pekonkur, Schillerstraße 14, 55116 Mainz, Besprechungsraum 1
+**Anwesende:**
+- RA Lukas Drosten (Kanzlei Drosten & Pekonkur)
+- Theresia Wallbruck (Geschäftsführerin Frischetrans Mittelrhein GmbH)
+- Franz Berkenfeld (IT-Leiter Frischetrans, telefonisch zugeschaltet ab 09:15 Uhr)
 **Vertraulich — Unterliegt anwaltlichem Berufsgeheimnis**
 
 ---
@@ -86,19 +86,19 @@ Theresia Wallbruck erteilte RA Lukas Drosten und der Kanzlei Drosten & Pekonkur 
 
 ## 5. Besonderheiten / Auffälligkeiten
 
-- Frau Wallbruck erwähnte, dass in den Tagen vor dem Angriff (01.–05.05.2026) ungewöhnlich viele Phishing-E-Mails im Unternehmen beobachtet worden seien. Dies wurde dem Forensikteam mitgeteilt (möglicher Zusammenhang mit dem Angriffsvektor).  
-- IT-Leiter Berkenfeld (telefonisch) berichtete, dass die Firewall-Firmware seit Oktober 2025 nicht aktualisiert worden sei (Pflege durch InsoTec Systems). Dies wird im Rahmen der Gesamtverantwortlichkeitsanalyse zu prüfen sein.  
+- Frau Wallbruck erwähnte, dass in den Tagen vor dem Angriff (01.–05.05.2026) ungewöhnlich viele Phishing-E-Mails im Unternehmen beobachtet worden seien. Dies wurde dem Forensikteam mitgeteilt (möglicher Zusammenhang mit dem Angriffsvektor).
+- IT-Leiter Berkenfeld (telefonisch) berichtete, dass die Firewall-Firmware seit Oktober 2025 nicht aktualisiert worden sei (Pflege durch InsoTec Systems). Dies wird im Rahmen der Gesamtverantwortlichkeitsanalyse zu prüfen sein.
 - Frau Wallbruck äußerte Sorge um die Belegschaft: *„Die Leute wissen noch gar nicht, dass ihre Personalakten jetzt irgendwo im Internet landen könnten."* RA Drosten erläuterte die Notwendigkeit der Mitarbeiterinformation nach Art. 34 DSGVO.
 
 ---
 
 ## 6. Nächster Termin
 
-Folgebesprechung telefonisch: 08.05.2026, 10:00 Uhr.  
+Folgebesprechung telefonisch: 08.05.2026, 10:00 Uhr.
 Persönliches Strategiegespräch: 13.05.2026, 14:00 Uhr, Kanzlei Drosten & Pekonkur.
 
 ---
 
-*Notiz erstellt durch: RA Lukas Drosten*  
-*Datum der Erstellung: 06.05.2026, 10:30 Uhr*  
+*Notiz erstellt durch: RA Lukas Drosten*
+*Datum der Erstellung: 06.05.2026, 10:30 Uhr*
 *Geprüft: Drosten, 06.05.2026*

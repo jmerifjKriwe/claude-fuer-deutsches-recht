@@ -1,9 +1,9 @@
 # Aktenstück 22 — Aktenstand-Bericht und Strategiepapier
 
-**Kanzlei:** Müller-Hauck Versicherungsrecht Aachen-Burtscheid  
-**Rechtsanwältin:** Dr. Annegret Müller-Hauck, Fachanwältin für Versicherungsrecht  
-**Datum:** 30.05.2026  
-**Mandantin:** Marion Vogelweide  
+**Kanzlei:** Müller-Hauck Versicherungsrecht Aachen-Burtscheid
+**Rechtsanwältin:** Dr. Annegret Müller-Hauck, Fachanwältin für Versicherungsrecht
+**Datum:** 30.05.2026
+**Mandantin:** Marion Vogelweide
 **Betreff:** Zusammenfassende Strategiebewertung aller Verfahren
 
 ---
@@ -22,7 +22,7 @@ Die Ablehnungsbegründung der DBV-Winterthur ist an drei Stellen angreifbar:
 2. Die Verweisungsklausel ist unzureichend konkretisiert und verstößt gegen BGH-Grundsätze (IV ZR 244/03).
 3. Die Verneinung der Dauerhaftigkeit ist medizinisch widerlegbar (insbesondere durch die irreversible Latexsensibilisierung).
 
-**Einschätzung Erfolgswahrscheinlichkeit:** 75–80 %.  
+**Einschätzung Erfolgswahrscheinlichkeit:** 75–80 %.
 **Hauptrisiko:** Der Versicherer könnte ein gerichtliches Sachverständigengutachten erwirken, das zu einer anderen Einschätzung der psychiatrischen Komorbidität führt. Dem wird durch das Privatgutachten von Prof. Kiesewetter vorgebeugt.
 
 ---
@@ -31,7 +31,7 @@ Die Ablehnungsbegründung der DBV-Winterthur ist an drei Stellen angreifbar:
 
 Die OFAC-Sanktionsklausel greift nach überzeugender Analyse nicht. Die Eigenschadensklausel ist ebenfalls nicht einschlägig. Der Vorsatzvorwurf lässt sich durch den Nachweis der Notlage und der transparenten Meldung an LDI NRW entkräften.
 
-**Einschätzung Erfolgswahrscheinlichkeit:** 60–65 %.  
+**Einschätzung Erfolgswahrscheinlichkeit:** 60–65 %.
 **Hauptrisiko:** Das Gericht könnte die Frage der Gesellschafterbeschluss-Notwendigkeit anders bewerten und eine grob fahrlässige Pflichtverletzung annehmen.
 
 ---
@@ -46,8 +46,8 @@ HDI hat den Stornoabzug bereits auf 3.000 EUR gesenkt. Der verbleibende Stornoab
 
 ## V. Gesamtstrategie und Prioritäten
 
-**Priorität 1:** BU-Klage LG Aachen — zeitliche Dringlichkeit wegen rückständiger Renten (monatlich 1.850 EUR seit September 2025).  
-**Priorität 2:** D&O-Klage LG Köln — D&O-Versicherungsschutz für Vogelweide sichern.  
+**Priorität 1:** BU-Klage LG Aachen — zeitliche Dringlichkeit wegen rückständiger Renten (monatlich 1.850 EUR seit September 2025).
+**Priorität 2:** D&O-Klage LG Köln — D&O-Versicherungsschutz für Vogelweide sichern.
 **Priorität 3:** HDI Rückkaufswert — außergerichtlich klären, Liquiditätsbedarf der Mandantin kurzfristig sichern.
 
 ---

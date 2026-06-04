@@ -1,7 +1,7 @@
 # Aktenstück 17 – Beschluss Vergabekammer des Bundes VK 1-32/26
 
-**Aktenzeichen:** VK 1-32/26  
-**Datum:** 25.06.2026  
+**Aktenzeichen:** VK 1-32/26
+**Datum:** 25.06.2026
 **Erlassen von:** Vergabekammer des Bundes, VK 1
 
 ---
@@ -10,17 +10,17 @@
 
 **Vergabekammer des Bundes, 1. Beschlussabteilung**
 
-In dem Nachprüfungsverfahren  
+In dem Nachprüfungsverfahren
 **VK 1-32/26**
 
-**Antragstellerin:** CyberShield Defense GmbH, Berlin  
-**Antragsgegnerin:** Landeshauptstadt Schwerin / Eigenbetrieb SDS, Schwerin  
+**Antragstellerin:** CyberShield Defense GmbH, Berlin
+**Antragsgegnerin:** Landeshauptstadt Schwerin / Eigenbetrieb SDS, Schwerin
 **Beigeladene:** ProtectIT SE, Bonn
 
 hat die Vergabekammer des Bundes, bestehend aus:
 
-Vorsitzende: VRin Dr. Elfriede Böhnke  
-Berichterstatterin: ORR Dr. Claudia Vogt  
+Vorsitzende: VRin Dr. Elfriede Böhnke
+Berichterstatterin: ORR Dr. Claudia Vogt
 Beisitzer: BR Thorsten Hausmann
 
 am 25. Juni 2026 beschlossen:
@@ -59,7 +59,7 @@ Der Nachprüfungsantrag ist zulässig. Die Vergabekammer des Bundes ist zuständ
 
 **3.** Die Referenz VVS Stuttgart ist eine qualifizierte Referenz im Sinne des T-2, da der VVS als Koordinator eines KRITIS-relevanten ÖPNV-Verbunds (Fahrgastinformationssysteme) selbst KRITIS-Betreiber im Sektor Verkehr ist.
 
-Vgl. **BGH, Beschluss v. 07.01.2014 – X ZB 15/13** (NZBau 2014, 185): Eignungsanforderungen sind nach dem Wortlaut der Vergabeunterlagen, nicht nach einer erst nachträglich gebildeten Auslegung zu beurteilen.  
+Vgl. **BGH, Beschluss v. 07.01.2014 – X ZB 15/13** (NZBau 2014, 185): Eignungsanforderungen sind nach dem Wortlaut der Vergabeunterlagen, nicht nach einer erst nachträglich gebildeten Auslegung zu beurteilen.
 Vgl. **OLG Düsseldorf, Beschluss v. 29.06.2016 – Verg 5/16**: Eine Verengung auf spezifische Unterbranchen, die in den Unterlagen nicht angelegt ist, ist unverhältnismäßig.
 
 #### B.II Vergabeverstoß 2: Unzulässige Angebotsänderung ProtectIT SE (§ 15 Abs. 5 VgV)
@@ -76,13 +76,13 @@ Die Frage des SOC-Pilotbetriebs 12/2025 ist nicht Gegenstand des vorliegenden Na
 
 ---
 
-**Rechtsbehelfsbelehrung:**  
+**Rechtsbehelfsbelehrung:**
 Gegen diesen Beschluss ist die sofortige Beschwerde beim Oberlandesgericht Düsseldorf statthaft (§ 171 GWB). Frist: 2 Wochen ab Zustellung.
 
 Bonn, 25. Juni 2026
 
-**gez. Dr. Elfriede Böhnke** (Vorsitzende)  
-**gez. Dr. Claudia Vogt** (Berichterstatterin)  
+**gez. Dr. Elfriede Böhnke** (Vorsitzende)
+**gez. Dr. Claudia Vogt** (Berichterstatterin)
 **gez. Thorsten Hausmann** (Beisitzer)
 
 ---

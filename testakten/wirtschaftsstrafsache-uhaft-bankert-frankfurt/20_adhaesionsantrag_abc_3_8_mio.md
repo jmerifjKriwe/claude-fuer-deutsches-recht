@@ -1,22 +1,22 @@
 # Adäsionsantrag ABC Großabnehmer SE — Aktenvermerk und Gegenstrategie
 
-**Marx Strafverteidigung Frankfurt**  
-**Vertraulich — Anwaltsgeheimnis § 53 StPO**  
-Erstellt von: Dr. Friederike Marx  
-Datum: 09. Mai 2025  
+**Marx Strafverteidigung Frankfurt**
+**Vertraulich — Anwaltsgeheimnis § 53 StPO**
+Erstellt von: Dr. Friederike Marx
+Datum: 09. Mai 2025
 Az.: 5/28 KLs 122/25
 
 ---
 
 ## 1. Adäsionsantrag — Überblick
 
-**Antragstellerin:** ABC Großabnehmer SE  
-**Bevollmächtigter:** RA Michael Krämer, Krämer Hauck Rechtsanwälte, Frankfurt  
-**Eingereicht:** 05. Mai 2025 beim LG Frankfurt am Main, 14. Große Wirtschaftsstrafkammer  
-**Zugestellt an Verteidigung:** 07. Mai 2025 per beA  
+**Antragstellerin:** ABC Großabnehmer SE
+**Bevollmächtigter:** RA Michael Krämer, Krämer Hauck Rechtsanwälte, Frankfurt
+**Eingereicht:** 05. Mai 2025 beim LG Frankfurt am Main, 14. Große Wirtschaftsstrafkammer
+**Zugestellt an Verteidigung:** 07. Mai 2025 per beA
 
-**Gesamtforderung:** 3.800.000 EUR Schadensersatz  
-zuzüglich Zinsen seit 01.01.2023: 5 Prozentpunkte über Basiszinssatz  
+**Gesamtforderung:** 3.800.000 EUR Schadensersatz
+zuzüglich Zinsen seit 01.01.2023: 5 Prozentpunkte über Basiszinssatz
 
 ---
 

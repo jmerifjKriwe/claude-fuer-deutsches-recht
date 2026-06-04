@@ -1,9 +1,9 @@
 # MPU-Vorbereitung — Terminplan und Maßnahmenübersicht
 
-**Mandant:** Holger Tannenbruck  
-**Erstellt:** 20.01.2026  
-**Berater:** RA Sebastian Hoffmann + MPU-Beratungsstelle  
-**MPU-Stelle (vorläufig empfohlen):** TÜV Rheinland, Köln (oder alternativ: DEKRA Essen)  
+**Mandant:** Holger Tannenbruck
+**Erstellt:** 20.01.2026
+**Berater:** RA Sebastian Hoffmann + MPU-Beratungsstelle
+**MPU-Stelle (vorläufig empfohlen):** TÜV Rheinland, Köln (oder alternativ: DEKRA Essen)
 
 ---
 

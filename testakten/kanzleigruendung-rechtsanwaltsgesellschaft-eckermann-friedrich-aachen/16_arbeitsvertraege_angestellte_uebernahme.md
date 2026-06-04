@@ -1,8 +1,8 @@
 # 16 Arbeitsverträge — Übernahme der angestellten Mitarbeiter
 
-**Aktenzeichen:** KBH-2026-001-EFS  
-**Stand:** 15. April 2026  
-**Bearbeiterin:** RA Monika Hellwig, Dr. Matthias Friedrich (intern Fachberatung)  
+**Aktenzeichen:** KBH-2026-001-EFS
+**Stand:** 15. April 2026
+**Bearbeiterin:** RA Monika Hellwig, Dr. Matthias Friedrich (intern Fachberatung)
 
 ---
 

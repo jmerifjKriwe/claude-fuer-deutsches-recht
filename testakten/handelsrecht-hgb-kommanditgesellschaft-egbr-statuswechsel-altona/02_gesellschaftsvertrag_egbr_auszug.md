@@ -1,6 +1,6 @@
 # Gesellschaftsvertrag eGbR — Auszug
 
-**Firma/Name:** Elbwerft Solarplanung eGbR  
+**Firma/Name:** Elbwerft Solarplanung eGbR
 **Gesellschafter:** Janna Fährmann, Oke Lübbert, Theda Kirsch
 
 ## § 2 Zweck

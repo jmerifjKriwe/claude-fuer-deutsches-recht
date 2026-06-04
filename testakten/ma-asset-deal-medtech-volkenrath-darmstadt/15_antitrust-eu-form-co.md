@@ -1,8 +1,8 @@
 # 15 — EU-Fusionskontrolle: Form CO (Case M.11244 — VENERA/FraktoMedis-Assets)
 
-**Datum:** 22. Januar 2026  
-**Bearbeiter:** RAin Dr. Antonia von Wesselburen, RA Prof. Dr. Felix Mannfeldt  
-**Aktenzeichen EU:** Case M.11244 — VENERA/FraktoMedis-Assets  
+**Datum:** 22. Januar 2026
+**Bearbeiter:** RAin Dr. Antonia von Wesselburen, RA Prof. Dr. Felix Mannfeldt
+**Aktenzeichen EU:** Case M.11244 — VENERA/FraktoMedis-Assets
 **Zuständig:** Europäische Kommission, Generaldirektion Wettbewerb (DG COMP)
 
 ---

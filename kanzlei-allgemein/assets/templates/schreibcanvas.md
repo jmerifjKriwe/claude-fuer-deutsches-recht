@@ -2,11 +2,11 @@
 
 ## Rohtext
 
-> 
+>
 
 ## Verbesserter Vorschlag
 
-> 
+>
 
 ## Substanzcheck
 

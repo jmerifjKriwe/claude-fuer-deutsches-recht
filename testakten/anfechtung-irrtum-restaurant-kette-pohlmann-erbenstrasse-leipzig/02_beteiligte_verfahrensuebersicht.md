@@ -1,7 +1,7 @@
 # Beteiligte und Verfahrensübersicht — Akte Pohlmann-Ofenkaess / Erbenstraße Leipzig
 
-**Aktualisierung:** 20. März 2026  
-**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg  
+**Aktualisierung:** 20. März 2026
+**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg
 
 ---
 
@@ -112,8 +112,8 @@ Hinweis: Bei Minderjährigkeit des falsus procurator ist § 179 Abs. 3 S. 2 BGB 
 - Prozeßvollmacht für LG Leipzig noch gesondert zu erstellen (§ 78 ZPO)
 - Prozeßvollmacht für OLG Dresden: RA Dr. Schweizer-Loberg; Korrespondenz mit Gegenseite läuft
 
-**Quellen:**  
-§§ 167-173 BGB (Vollmacht): https://dejure.org/gesetze/BGB/167.html  
-§ 179 BGB (Haftung falsus procurator): https://dejure.org/gesetze/BGB/179.html  
-§ 530 BGB (Widerruf Schenkung): https://dejure.org/gesetze/BGB/530.html  
+**Quellen:**
+§§ 167-173 BGB (Vollmacht): https://dejure.org/gesetze/BGB/167.html
+§ 179 BGB (Haftung falsus procurator): https://dejure.org/gesetze/BGB/179.html
+§ 530 BGB (Widerruf Schenkung): https://dejure.org/gesetze/BGB/530.html
 BGH NJW 2017, 1169 (Anscheinsvollmacht, Rechtsscheinhaftung)

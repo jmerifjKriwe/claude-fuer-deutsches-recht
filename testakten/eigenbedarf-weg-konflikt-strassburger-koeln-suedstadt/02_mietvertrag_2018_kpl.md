@@ -2,12 +2,12 @@
 
 **Zwischen:**
 
-**Vermieter:** Dr. Cornelia Straßburger und Dr. Boris Straßburger-Möhren  
-(nachfolgend gemeinsam „Vermieter"),  
+**Vermieter:** Dr. Cornelia Straßburger und Dr. Boris Straßburger-Möhren
+(nachfolgend gemeinsam „Vermieter"),
 Bachemer Straße 84, 50931 Köln-Lindenthal
 
-**Mieter:** Levi Albrecht, Femke van Drosten, Mathilda Sonnenfeld  
-(nachfolgend gemeinsam und als Gesamtschuldner „Mieter"),  
+**Mieter:** Levi Albrecht, Femke van Drosten, Mathilda Sonnenfeld
+(nachfolgend gemeinsam und als Gesamtschuldner „Mieter"),
 derzeit zu erreichen über: Rolandstraße 27a, 50677 Köln
 
 ---
@@ -102,11 +102,11 @@ Die gesetzlichen Kündigungsfristen des § 573c BGB gelten. Bei einer Mietdauer 
 
 **Ort, Datum:** Köln, den **15.05.2018**
 
-Vermieter: _________________________  Dr. Cornelia Straßburger  
-Vermieter: _________________________  Dr. Boris Straßburger-Möhren  
-Mieter:    _________________________  Levi Albrecht  
-Mieter:    _________________________  Femke van Drosten  
-Mieter:    _________________________  Mathilda Sonnenfeld  
+Vermieter: _________________________  Dr. Cornelia Straßburger
+Vermieter: _________________________  Dr. Boris Straßburger-Möhren
+Mieter:    _________________________  Levi Albrecht
+Mieter:    _________________________  Femke van Drosten
+Mieter:    _________________________  Mathilda Sonnenfeld
 
 ---
 

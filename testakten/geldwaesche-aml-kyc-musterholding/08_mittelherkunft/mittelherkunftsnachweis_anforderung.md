@@ -1,22 +1,22 @@
 # Mittelherkunftsnachweis – Anforderungsschreiben an Danube Trade Solutions SRL
 
-> **Musterholding GmbH**  
-> Gutleutstraße 44  
-> 60329 Frankfurt am Main  
-> Tel: +49 69 74 55 210 | compliance@musterholding.de  
-> Geldwäschebeauftragter: Thomas Eckhardt  
+> **Musterholding GmbH**
+> Gutleutstraße 44
+> 60329 Frankfurt am Main
+> Tel: +49 69 74 55 210 | compliance@musterholding.de
+> Geldwäschebeauftragter: Thomas Eckhardt
 
-> **An:**  
-> Danube Trade Solutions SRL  
-> z.Hd. Herrn Andrei Constantin Moldovan (Geschäftsführer)  
-> Strada Buzești Nr. 74, Etaj 3  
-> 011013 București, Rumänien  
-> a.moldovan@danubetrade.ro  
+> **An:**
+> Danube Trade Solutions SRL
+> z.Hd. Herrn Andrei Constantin Moldovan (Geschäftsführer)
+> Strada Buzești Nr. 74, Etaj 3
+> 011013 București, Rumänien
+> a.moldovan@danubetrade.ro
 
-**Betreff:** Anforderung Mittelherkunftsnachweis gemäß § 15 Abs. 4 GwG – Vertragsnummer MH-DTS-2026-04  
-**Unser Zeichen:** MH-Compliance-2026/MH-0312  
-**Datum:** 16.05.2026  
-**Frist:** 26.05.2026 (10 Werktage)  
+**Betreff:** Anforderung Mittelherkunftsnachweis gemäß § 15 Abs. 4 GwG – Vertragsnummer MH-DTS-2026-04
+**Unser Zeichen:** MH-Compliance-2026/MH-0312
+**Datum:** 16.05.2026
+**Frist:** 26.05.2026 (10 Werktage)
 
 ---
 
@@ -79,9 +79,9 @@ Wir bitten Sie, diese Korrespondenz **vertraulich** zu behandeln. Aus regulatori
 
 Mit freundlichen Grüßen
 
-**Thomas Eckhardt**  
-Geldwäschebeauftragter  
-Musterholding GmbH  
+**Thomas Eckhardt**
+Geldwäschebeauftragter
+Musterholding GmbH
 
 *(Dieses Schreiben wurde per E-Mail sowie per Einschreiben/Rückschein versandt.)*
 
@@ -95,5 +95,5 @@ Musterholding GmbH
 
 ---
 
-*Dokument-Nr.: MH-Compliance-2026/MH-0312 — Musterholding GmbH / Geldwäschebeauftragter*  
+*Dokument-Nr.: MH-Compliance-2026/MH-0312 — Musterholding GmbH / Geldwäschebeauftragter*
 *Aufbewahrungsfrist: 5 Jahre (§ 8 Abs. 4 GwG)*

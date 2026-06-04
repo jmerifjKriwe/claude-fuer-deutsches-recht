@@ -1,7 +1,7 @@
 # 09 — LDD Workstream Public/Compliance
 
-**Datum:** 3.–28. November 2025  
-**Bearbeiter:** RAin Dr. Antonia von Wesselburen, RA Johannes Frielinghaus  
+**Datum:** 3.–28. November 2025
+**Bearbeiter:** RAin Dr. Antonia von Wesselburen, RA Johannes Frielinghaus
 **Workstream:** Public Law / Compliance / Regulatory
 
 ---

@@ -1,7 +1,7 @@
 # Aktenstück 16 — Plädoyer-Vorbereitung und Strafzumessung
 
-**Verfahren:** KLs 4 Js 18.422/26 — LG Stuttgart 4. Grosse Strafkammer  
-**Bearbeitung:** Alle Verteidiger (koordiniert)  
+**Verfahren:** KLs 4 Js 18.422/26 — LG Stuttgart 4. Grosse Strafkammer
+**Bearbeitung:** Alle Verteidiger (koordiniert)
 **Stand:** 08.02.2026
 
 ---

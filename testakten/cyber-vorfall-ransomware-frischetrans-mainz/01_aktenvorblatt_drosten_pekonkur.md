@@ -2,26 +2,26 @@
 
 ## Kanzlei Drosten & Pekonkur — Rechtsanwälte und Fachanwälte
 
-**Aktenzeichen intern:** DP-2026-0506-FTM  
-**Anlage:** IT-Recht / Datenschutz / Strafrecht  
-**Bearbeiter:** RA Lukas Drosten, Fachanwalt für IT-Recht  
-**Eröffnet am:** 06.05.2026  
+**Aktenzeichen intern:** DP-2026-0506-FTM
+**Anlage:** IT-Recht / Datenschutz / Strafrecht
+**Bearbeiter:** RA Lukas Drosten, Fachanwalt für IT-Recht
+**Eröffnet am:** 06.05.2026
 **Status:** Aktiv — Notfall-Mandat
 
 ---
 
 ## Mandantin
 
-**Firmenbezeichnung:** Frischetrans Mittelrhein GmbH  
-**Rechtsform:** GmbH  
-**Sitz:** Binger Straße 142, 55131 Mainz  
-**Handelsregister:** HRB 44821, Amtsgericht Mainz  
-**Umsatz (ca.):** 38 Mio. EUR p.a.  
-**Mitarbeiter:** 280 (Vollzeit und Teilzeit)  
-**Fuhrpark:** 64 LKW (Kühlkette / Frischelogistik)  
-**Branche:** B2B-Frischelogistik für Großbäckereien und Lebensmittelketten  
-**Geschäftsführerin:** Theresia Wallbruck (alleinvertretungsberechtigt)  
-**E-Mail (GF):** t.wallbruck@frischetrans-mittelrhein.de  
+**Firmenbezeichnung:** Frischetrans Mittelrhein GmbH
+**Rechtsform:** GmbH
+**Sitz:** Binger Straße 142, 55131 Mainz
+**Handelsregister:** HRB 44821, Amtsgericht Mainz
+**Umsatz (ca.):** 38 Mio. EUR p.a.
+**Mitarbeiter:** 280 (Vollzeit und Teilzeit)
+**Fuhrpark:** 64 LKW (Kühlkette / Frischelogistik)
+**Branche:** B2B-Frischelogistik für Großbäckereien und Lebensmittelketten
+**Geschäftsführerin:** Theresia Wallbruck (alleinvertretungsberechtigt)
+**E-Mail (GF):** t.wallbruck@frischetrans-mittelrhein.de
 **Telefon (GF):** +49 6131 8820-100
 
 ---
@@ -83,13 +83,13 @@ Parallel bestehen:
 
 ## Kanzleidaten
 
-**Kanzlei Drosten & Pekonkur**  
-Rechtsanwälte und Fachanwälte  
-Schillerstraße 14  
-55116 Mainz  
-Telefon: +49 6131 2240-0  
-Telefax: +49 6131 2240-99  
-E-Mail: kanzlei@drosten-pekonkur.de  
-Berufsrechtliche Regelungen: BRAO, BORA, FAO  
-Zuständige Rechtsanwaltskammer: Rechtsanwaltskammer Koblenz  
+**Kanzlei Drosten & Pekonkur**
+Rechtsanwälte und Fachanwälte
+Schillerstraße 14
+55116 Mainz
+Telefon: +49 6131 2240-0
+Telefax: +49 6131 2240-99
+E-Mail: kanzlei@drosten-pekonkur.de
+Berufsrechtliche Regelungen: BRAO, BORA, FAO
+Zuständige Rechtsanwaltskammer: Rechtsanwaltskammer Koblenz
 Berufshaftpflichtversicherung: Allianz Versicherungs-AG, Pol.-Nr. RHV-88341120

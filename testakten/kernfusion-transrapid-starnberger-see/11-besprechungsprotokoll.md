@@ -1,7 +1,7 @@
 # Besprechungsprotokoll
 
-**Termin:** Mittwoch, 09:30 bis 11:05 Uhr  
-**Teilnehmende:** Mandatsverantwortliche Person, Sachbearbeitung, Fachabteilung, externe Beratung  
+**Termin:** Mittwoch, 09:30 bis 11:05 Uhr
+**Teilnehmende:** Mandatsverantwortliche Person, Sachbearbeitung, Fachabteilung, externe Beratung
 **Gegenstand:** Akte Isarstern: Kernfusion, Transrapid-Anschluss und Raumordnungschaos
 
 ## 1. Einstieg

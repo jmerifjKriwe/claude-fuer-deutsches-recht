@@ -1,10 +1,10 @@
 # Aktenvorblatt — Windgassen, Mira / Windgassen Photo Atelier
 
-**Kanzlei:** Kreidler-Bremer Medienrecht, Mittelweg 147, 20148 Hamburg-Rotherbaum  
-**Anwältin:** Dr. Antonia Kreidler-Bremer, Fachanwältin für Urheber- und Medienrecht  
-**Sekretariat:** Paula Hartenberg, +49 40 4411 9200  
-**Mandatsannahme:** 14.01.2026  
-**Aktenzeichen intern:** 26-UMR-0084  
+**Kanzlei:** Kreidler-Bremer Medienrecht, Mittelweg 147, 20148 Hamburg-Rotherbaum
+**Anwältin:** Dr. Antonia Kreidler-Bremer, Fachanwältin für Urheber- und Medienrecht
+**Sekretariat:** Paula Hartenberg, +49 40 4411 9200
+**Mandatsannahme:** 14.01.2026
+**Aktenzeichen intern:** 26-UMR-0084
 
 ---
 

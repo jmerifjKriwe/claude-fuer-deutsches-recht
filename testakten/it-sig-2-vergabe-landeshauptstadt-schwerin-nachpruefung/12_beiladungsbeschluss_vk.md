@@ -1,24 +1,24 @@
 # Aktenstück 12 – Beiladungsbeschluss Vergabekammer
 
-**Aktenzeichen:** VK 1-32/26  
-**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026  
-**Datum:** 30.04.2026  
+**Aktenzeichen:** VK 1-32/26
+**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026
+**Datum:** 30.04.2026
 **Erlassen von:** Vergabekammer des Bundes, VK 1
 
 ---
 
 ## BESCHLUSS
 
-**Vergabekammer des Bundes, 1. Beschlussabteilung**  
+**Vergabekammer des Bundes, 1. Beschlussabteilung**
 Villemombler Straße 76, 53123 Bonn
 
-In dem Nachprüfungsverfahren  
+In dem Nachprüfungsverfahren
 **VK 1-32/26**
 
-**Antragstellerin:** CyberShield Defense GmbH, Berlin  
+**Antragstellerin:** CyberShield Defense GmbH, Berlin
 – vertreten durch RA Dr. Constantin Bährens, Berlin –
 
-**Antragsgegnerin:** Landeshauptstadt Schwerin / Eigenbetrieb SDS  
+**Antragsgegnerin:** Landeshauptstadt Schwerin / Eigenbetrieb SDS
 – vertreten durch RAin Dr. Sandra Mertke, Rostock –
 
 hat die Vergabekammer des Bundes am 30. April 2026 beschlossen:
@@ -53,12 +53,12 @@ NSI Northern Security Industries GmbH, Hamburg, hat ein Angebot eingereicht, das
 
 ---
 
-**Rechtsbehelfsbelehrung:**  
+**Rechtsbehelfsbelehrung:**
 Gegen diesen Beschluss findet die sofortige Beschwerde beim Oberlandesgericht Düsseldorf statt (§ 171 GWB). Die Beschwerde ist binnen zwei Wochen nach Zustellung einzulegen.
 
 Bonn, 30. April 2026
 
-**gez. Vorsitzende Richterin Dr. Elfriede Böhnke**  
+**gez. Vorsitzende Richterin Dr. Elfriede Böhnke**
 Vergabekammer des Bundes, VK 1
 
 ---

@@ -1,7 +1,7 @@
 # 18 — Strategieübersicht und Kommunikation im Anwaltsteam
 
-**Aktenzeichen intern:** VM-2026-GR-001  
-**Datum:** 15. April 2026  
+**Aktenzeichen intern:** VM-2026-GR-001
+**Datum:** 15. April 2026
 **Bearbeiter:** RA Dr. Birkenhainer (Teamleitung)
 
 ---

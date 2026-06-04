@@ -1,10 +1,10 @@
 # Mandantenaufnahme – Fragebogen Verkehrsordnungswidrigkeitensache
 
-**Aktenzeichen Kanzlei:** KZ-2026-0514-MER  
-**Aktenzeichen Behörde:** 326.OWi.2026.77142  
-**Aufnahmedatum:** 09.05.2026  
-**Sachbearbeiter Kanzlei:** RA Sabine Volkert  
-**Aufnahme per:** persönliches Erstgespräch, Dauer ca. 55 Minuten  
+**Aktenzeichen Kanzlei:** KZ-2026-0514-MER
+**Aktenzeichen Behörde:** 326.OWi.2026.77142
+**Aufnahmedatum:** 09.05.2026
+**Sachbearbeiter Kanzlei:** RA Sabine Volkert
+**Aufnahme per:** persönliches Erstgespräch, Dauer ca. 55 Minuten
 
 ---
 
@@ -163,12 +163,12 @@ Der Mandant betont ausdrücklich, dass er seine Mitarbeiter Emir Özkan und Lars
 
 ## 10. Unterschrift und Vollmacht
 
-Vollmacht erteilt am 09.05.2026, durch Mandanten eigenhändig unterzeichnet.  
+Vollmacht erteilt am 09.05.2026, durch Mandanten eigenhändig unterzeichnet.
 Original in Papierakte. Scan in digitalem Aktenordner.
 
 **Nächster Schritt:** Einspruch einlegen bis 21.05.2026, gleichzeitig Akteneinsicht beantragen.
 
 ---
 
-*Aufgenommen von: RA Sabine Volkert, Kanzlei Volkert & Partner, Köln*  
+*Aufgenommen von: RA Sabine Volkert, Kanzlei Volkert & Partner, Köln*
 *Datum: 09.05.2026*

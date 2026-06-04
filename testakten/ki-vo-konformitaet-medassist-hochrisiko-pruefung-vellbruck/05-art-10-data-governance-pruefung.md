@@ -1,8 +1,8 @@
 # Aktenstück 05 — Art. 10 KI-VO: Prüfung Daten-Governance und Trainingsdaten
 
-**Aktenzeichen:** 2026-V-0427  
-**Erstellt:** 22.03.2026  
-**Bearbeitung:** RA Dr. Mark Roosendaal  
+**Aktenzeichen:** 2026-V-0427
+**Erstellt:** 22.03.2026
+**Bearbeitung:** RA Dr. Mark Roosendaal
 **Rechtsgrundlage:** Art. 10 KI-VO (EU) 2024/1689; DSGVO Art. 9, 22, 35
 
 ---
@@ -99,10 +99,10 @@ Die BfDI hat mit Schreiben vom 15.02.2026 (Az. 13-3120/004#0117) eine Datenschut
 
 ## 6. Gesamtbewertung Art. 10
 
-**Art. 10 KI-VO: Nicht konform.**  
+**Art. 10 KI-VO: Nicht konform.**
 Kritische Defizite bei Repräsentativität der US-Trainingsdaten, fehlende Bias-Analyse, unklare DSGVO-Rechtsgrundlage für US-Daten-Nachnutzung. Höchste Priorität im Handlungsplan.
 
 ---
 
-*Heidelberg, 22.03.2026*  
+*Heidelberg, 22.03.2026*
 *RA Dr. Mark Roosendaal — Az. 2026-V-0427*

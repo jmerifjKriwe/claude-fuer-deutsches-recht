@@ -30,7 +30,7 @@
 Grunewald hat mit Abstand die wenigsten Schutzkritierien — er wäre als erstes zu entlassen.
 Zwischen Weber (15 P.) und Sonnleitner (13 P.) ist der Unterschied gering.
 → Kündigung Weber bei gleichzeitiger Weiterbeschäftigung Grunewald ist **sehr angreifbar**.
-→ GdB 30 ist kein Sonderkündigungsschutz (§ 168 SGB IX erst ab GdB 50), aber Auswahlpunkt? 
+→ GdB 30 ist kein Sonderkündigungsschutz (§ 168 SGB IX erst ab GdB 50), aber Auswahlpunkt?
   BAG str. — tendenziell nein bei GdB < 50 ohne Ausweis (vgl. BAG 18.03.2010 – 2 AZR 468/08).
 
 ## Offene Fragen

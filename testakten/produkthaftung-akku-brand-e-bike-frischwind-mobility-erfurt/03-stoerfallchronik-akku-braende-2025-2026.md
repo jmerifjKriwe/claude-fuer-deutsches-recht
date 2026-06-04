@@ -36,32 +36,32 @@ Frischwind Mobility GmbH hat seit März 2025 drei dokumentierte Akku-Brand-Vorf�
 ```
 14.03.2025  — Vorfall 1 Berlin-Köpenick (Personenschaden)
                Feuerwehr-Einsatz, Polizei ermittelt
-               
+
 April 2025  — Interne Qualitätsüberprüfung eingeleitet (Monat 1)
                Kein Ergebnis, Vorfall als Einzelfall bewertet
-               
+
 07.08.2025  — Vorfall 2 Leipzig-Gohlis
                Kein internes Eskalationsprotokoll ausgelöst
-               
+
 Oktober 2025 — Kundenreklamationen nehmen zu; QM-Abteilung
                sammelt 14 Überhitzungsmeldungen ohne Brand
-               
+
 Dezember 2025 — QM-Sachverständiger identifiziert BMS-Firmware-Bug
                Erstes internes Memo: "Kritischer Firmware-Defekt BMS V3.9.1"
-               
+
 02.01.2026  — Vorfall 3 Stuttgart-Feuerbach
-               
+
 15.01.2026  — StA Erfurt eröffnet Ermittlungsverfahren 188 Js 4711/26
                (Anzeige durch Raskolnikow-Anwalt)
-               
+
 17.01.2026  — BNetzA MFS leitet Anhörungsverfahren ein (MFS-2026-RAPEX-1188)
-               
+
 21.01.2026  — Mandatsübernahme Roosendaal Rechtsanwälte Stuttgart
-               
+
 28.01.2026  — Rückrufbeschluss durch Krisenstab Frischwind
-               
+
 05.02.2026  — Händleranschreiben Rückruf versandt (alle 48 Vertragshändler DE/AT/CH)
-               
+
 15.02.2026  — Verspätete RAPEX-Meldung nachgereicht an BNetzA
 ```
 

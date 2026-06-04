@@ -1,7 +1,7 @@
 # Fristprüfung § 121 BGB — Unverzüglichkeit der Anfechtung
 
-**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg  
-**Datum:** 17. März 2026  
+**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg
+**Datum:** 17. März 2026
 **Bezug:** Pachtvertrag Erbenstraße 88, LG Leipzig 4 O 188/26
 
 ---
@@ -103,9 +103,9 @@ Ratschke wird vortragen:
 
 ---
 
-**Quellen:**  
-§ 121 BGB: https://dejure.org/gesetze/BGB/121.html  
-BGH NJW 1964, 1277 (Unverzüglichkeit, Fristbeginn Kenntnis): https://www.bundesgerichtshof.de  
-BGH NJW 2008, 3352 (Rechtsberatungszeit bei Anfechtung): https://www.bundesgerichtshof.de  
-OLG Frankfurt NJW-RR 2019, 414: https://openjur.de  
+**Quellen:**
+§ 121 BGB: https://dejure.org/gesetze/BGB/121.html
+BGH NJW 1964, 1277 (Unverzüglichkeit, Fristbeginn Kenntnis): https://www.bundesgerichtshof.de
+BGH NJW 2008, 3352 (Rechtsberatungszeit bei Anfechtung): https://www.bundesgerichtshof.de
+OLG Frankfurt NJW-RR 2019, 414: https://openjur.de
 MüKoBGB/Armbrüster, 9. Aufl. 2024, § 121 Rn. 8 ff.

@@ -1,8 +1,8 @@
 # 02 — Personenprofil: Selin Uvalkanat
 
-**Erstellt:** 08.03.2026  
-**Bearbeiter:** RAin Sophie Wenderlich  
-**AZ:** SU/DOPING/2026-001  
+**Erstellt:** 08.03.2026
+**Bearbeiter:** RAin Sophie Wenderlich
+**AZ:** SU/DOPING/2026-001
 
 ---
 

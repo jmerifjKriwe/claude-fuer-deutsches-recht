@@ -1,7 +1,7 @@
 # Rechtsscheinhaftung — Duldungs- und Anscheinsvollmacht im BGB AT
 
-**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg  
-**Datum:** 22. April 2026  
+**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg
+**Datum:** 22. April 2026
 **Bezug:** Vollmacht Ammenwald (Steuerberater) und Container-Praktikant Lübbers; Vertiefung Klausur BGB AT
 
 ---
@@ -108,8 +108,8 @@ Vollmacht vorhanden?
                     └── §§ 177, 179 BGB (Genehmigung / falsus-Haftung)
 ```
 
-**Quellen:**  
-§§ 167–179 BGB: https://dejure.org/gesetze/BGB/167.html  
-BGH NJW 1966, 1915 (Grundsatzentscheidung Duldungs-/Anscheinsvollmacht): https://openjur.de  
-BGH NJW 2017, 1169 (Anscheinsvollmacht aktuell): https://www.bundesgerichtshof.de  
+**Quellen:**
+§§ 167–179 BGB: https://dejure.org/gesetze/BGB/167.html
+BGH NJW 1966, 1915 (Grundsatzentscheidung Duldungs-/Anscheinsvollmacht): https://openjur.de
+BGH NJW 2017, 1169 (Anscheinsvollmacht aktuell): https://www.bundesgerichtshof.de
 Staudinger/Schilken BGB, 2019, § 167 Rn. 39 ff. (Duldungsvollmacht)

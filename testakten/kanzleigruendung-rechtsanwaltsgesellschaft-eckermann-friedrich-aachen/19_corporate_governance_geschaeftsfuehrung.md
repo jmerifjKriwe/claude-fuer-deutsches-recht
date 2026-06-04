@@ -1,8 +1,8 @@
 # 19 Corporate Governance und Geschäftsführungsordnung
 
-**Aktenzeichen:** KBH-2026-001-EFS  
-**Stand:** 02. Mai 2026  
-**Bearbeiterin:** RA Monika Hellwig  
+**Aktenzeichen:** KBH-2026-001-EFS
+**Stand:** 02. Mai 2026
+**Bearbeiterin:** RA Monika Hellwig
 
 ---
 

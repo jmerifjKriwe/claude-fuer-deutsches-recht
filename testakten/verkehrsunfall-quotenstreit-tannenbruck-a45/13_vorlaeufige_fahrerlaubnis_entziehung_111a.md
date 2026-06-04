@@ -1,10 +1,10 @@
 # Vorläufige Fahrerlaubnis-Entziehung nach § 111a StPO
 
-**Behörde:** Amtsgericht Hagen — Bereitschaftsrichter  
-**Beschluss-Az.:** AG Hagen, Gs 112/26  
-**Datum:** 12.01.2026, 05:33 Uhr (telefonische Anordnung, schriftliche Ausfertigung folgte)  
-**Antragsteller:** Staatsanwaltschaft Hagen (Az. 83 Js 7411/26)  
-**Anordnende Richterin:** Ri'in Dr. Anke Seidel (Bereitschaftsdienst)  
+**Behörde:** Amtsgericht Hagen — Bereitschaftsrichter
+**Beschluss-Az.:** AG Hagen, Gs 112/26
+**Datum:** 12.01.2026, 05:33 Uhr (telefonische Anordnung, schriftliche Ausfertigung folgte)
+**Antragsteller:** Staatsanwaltschaft Hagen (Az. 83 Js 7411/26)
+**Anordnende Richterin:** Ri'in Dr. Anke Seidel (Bereitschaftsdienst)
 
 ---
 
@@ -102,5 +102,5 @@ Unabhängig vom strafprozessualen § 111a StPO hat die Führerscheinbehörde (Kr
 
 ---
 
-*Beschluss AG Hagen Gs 112/26 erhalten 15.01.2026 — Kanzlei Hoffmann Verkehrsrecht*  
+*Beschluss AG Hagen Gs 112/26 erhalten 15.01.2026 — Kanzlei Hoffmann Verkehrsrecht*
 *Fristablauf Beschwerde: 22.01.2026 — Beschwerde nicht eingereicht (strategische Entscheidung)*

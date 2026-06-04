@@ -1,7 +1,7 @@
 # 15 — Entscheidungsgründe-Entwurf
 
-**AZ:** 8 O 188/26  
-**§ 313 Abs. 1 Nr. 6 ZPO**  
+**AZ:** 8 O 188/26
+**§ 313 Abs. 1 Nr. 6 ZPO**
 **Stand:** 25.09.2026
 
 ---
@@ -76,6 +76,6 @@ Auf den verbleibenden Betrag EUR 40.980 schuldet die Beklagte Zinsen gemäß § 
 
 ### D. Nebenentscheidungen
 
-**Kosten:** § 92 ZPO — quotal (Aktenstück 16).  
-**Vorläufige Vollstreckbarkeit:** § 709 ZPO (Aktenstück 17).  
+**Kosten:** § 92 ZPO — quotal (Aktenstück 16).
+**Vorläufige Vollstreckbarkeit:** § 709 ZPO (Aktenstück 17).
 **Streitwert:** § 63 GKG (Aktenstück 18).

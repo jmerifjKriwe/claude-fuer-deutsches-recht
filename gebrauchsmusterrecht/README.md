@@ -53,59 +53,36 @@ Der Einstieg ist bewusst niedrigschwellig: Uploads, Bilder, Verträge oder bloß
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `abmahnung-gebrauchsmuster-verteidigung` | Abmahnung wegen Gebrauchsmuster vorbereiten oder verteidigen: Rechtsbestand, Unterlassung, Kosten, Fristen, Schutzschrift und Löschungsangriff. |
-| `abzweigung-aus-patentanmeldung` | Abzweigung aus Patentanmeldung prüfen: Fristen, Anmeldetag, Inhalt, strategischer Schnellschutz und Kollisionsrisiken mit eigener Offenbarung. |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Gebrauchsmusterrecht: klärt technische Lehre, Offenbarung, Anmeldung, Abzweigung, Recherche, Registerstand, Verletzung, Löschung und passende Spezialskills. |
-| `anspruchsfassung-gebrauchsmuster` | Schutzansprüche für Gebrauchsmuster strukturieren: Merkmale, unabhängiger Anspruch, Unteransprüche, Stütze, Varianten und Klarheit. |
-| `arbeitnehmererfindung-und-inhaberschaft` | Arbeitnehmererfindung, Erfinderstellung und Inhaberschaft prüfen: Meldung, Inanspruchnahme, Rechtekette, Vergütung und Dokumentation. |
-| `auskunft-schadensersatz-und-rechnungslegung` | Auskunft, Schadensersatz und Rechnungslegung nach Gebrauchsmusterverletzung prüfen: Verletzergewinn, Lizenzanalogie, konkreter Schaden und Datenumfang. |
-| `auslandsroute-kein-eu-gebrauchsmuster` | Auslandsroute erklären: kein einheitliches EU-Gebrauchsmuster, nationale Utility Models, Patent/PCT, lokale Besonderheiten und Counsel-Briefing. |
-| `beschreibung-und-zeichnungen` | Beschreibung und Zeichnungen prüfen: Offenbarung, Bezugszeichen, Ausführungsbeispiele, Varianten, technische Wirkung und Konsistenz mit Ansprüchen. |
-| `beschwerde-bpatg` | Beschwerde zum Bundespatentgericht im Gebrauchsmusterrecht prüfen: Beschwerdegegenstand, Fristen, Begründung, neue Belege und Kostenrisiko. |
-| `besichtigung-beschlagnahme-und-beweissicherung` | Besichtigung, Beschlagnahme und technische Beweissicherung bei Gebrauchsmusterverletzung: Produktzugang, Musterkauf, technische Analyse, Sachverständige, Geheimnisschutz, Chain of Custody und Vorbereitung von Verletzung oder Verteidigung. |
-| `chemie-biotech-und-stoffschutz` | Chemie-, Pharma-, Biotech- und Stoffschutz im Gebrauchsmusterrecht einordnen: Schutzgegenstand, Ausschlüsse, Erzeugnisbezug und Patentroute. |
-| `china-utility-model-vergleich` | China Utility Model als Vergleich und Counsel-Briefing: schneller Schutz, Produktbezug, Durchsetzung, lokale Prüfung und Kollisionsrisiken. |
-| `computerprogramm-und-verfahrensausschluss` | Computerprogramm-, Verfahrens- und Methodenabgrenzung prüfen: wann Gebrauchsmuster ausscheidet und ob Patent, Urheberrecht oder Geheimhaltung besser passt. |
-| `doppelschutz-patent-gebrauchsmuster` | Doppelschutz Patent/Gebrauchsmuster koordinieren: parallele Rechte, Abzweigung, Durchsetzung, Nichtigkeitsrisiko und Vergleichsstrategie. |
-| `dpma-anmeldung-formalien` | DPMA-Gebrauchsmusteranmeldung vorbereiten: Antrag, Beschreibung, Schutzansprüche, Zeichnungen, Gebühren, DPMAdirekt und Registereintragung. |
-| `einstweilige-verfuegung-gebrauchsmuster` | Einstweilige Verfügung aus Gebrauchsmuster vorbereiten oder abwehren: Dringlichkeit, Rechtsbestand, Recherche, Verletzung, Glaubhaftmachung und Vollziehung. |
-| `fto-und-schutzbereich` | Freedom-to-Operate und Schutzbereich bei Gebrauchsmustern prüfen: Anspruchsmerkmale, Registerstand, Rechtsbestand, Produktvergleich und Design-around. |
 | `gebrauchsmuster-kaltstart-interview` | Geführtes Kaltstart-Interview für Gebrauchsmuster: Erfindung, Unterlagen, Veröffentlichung, Patentfamilie, Stand der Technik, Gegner, Budget und gewünschter Output. |
-| `geheimhaltung-vor-anmeldung` | Geheimhaltung vor Anmeldung steuern: NDA, interne Freigabe, Pitchdeck, Förderantrag, Lieferant, Messe und Open-Source-Repo. |
-| `gutachten-rechtsbestand` | Rechtsbestands- und Verletzungsgutachten für Gebrauchsmuster erstellen: Anspruchsauslegung, Stand der Technik, erfinderischer Schritt, Verletzung und Risiko. |
-| `insolvenz-und-verwertung` | Gebrauchsmuster in Insolvenz, Distressed M&A und Verwertung prüfen: Massezuordnung, Lizenzfortbestand, Verkauf, Bewertung und Rechtsbestandsrisiko. |
-| `japan-utility-model-vergleich` | Japanisches Utility Model als Vergleich prüfen: Registrierung, technischer Bericht, Durchsetzungsvoraussetzungen und lokale Counsel-Fragen. |
-| `klageantraege-verletzung` | Klageanträge bei Gebrauchsmusterverletzung bauen: Unterlassung, Auskunft, Rechnungslegung, Vernichtung, Rückruf und Schadensersatzfeststellung. |
-| `lizenzvertrag-gebrauchsmuster` | Gebrauchsmusterlizenz prüfen oder entwerfen: Schutzrecht, Know-how, Territory, Field of Use, Royalty, Audit, Rechtsbestand, Kündigung und Nichtigkeitsrisiko. |
-| `local-counsel-briefing-ausland` | Local-Counsel-Briefing für ausländische Utility-Model-Fragen erstellen: technische Lehre, Priorität, Offenbarung, Produkt, Gegner und gewünschte Maßnahme. |
-| `loeschung-erwiderung-inhaber` | Erwiderung des Inhabers im Löschungsverfahren: Verteidigung, Hilfsanträge, Beschränkung, Belege und Vergleichsoptionen. |
-| `loeschungsantrag-dpma` | Löschungsantrag beim DPMA vorbereiten: fehlende Schutzfähigkeit, Stand der Technik, unzulässige Erweiterung, Antrag, Begründung und Kosten. |
-| `mandantenmemo-gebrauchsmusterstrategie` | Mandantenmemo zur Gebrauchsmusterstrategie: Schnellschutz, Rechtsbestandsrisiko, Kosten, Fristen, Patentbezug, Durchsetzung und nächste Schritte. |
-| `messeveroeffentlichung-und-prototyp` | Messeveröffentlichung und Prototypvorführung prüfen: öffentliche Zugänglichkeit, Schonfrist, Beweise, Fotografien, Besucher, Angebot und Vertrieb. |
-| `muendliche-verhandlung-dpma` | Mündliche Verhandlung im DPMA-Löschungsverfahren vorbereiten: Streitpunkte, Stand der Technik, Anspruchsfassung, Beweismittel und Vergleich. |
-| `neuheit-und-erfinderischer-schritt` | Neuheit und erfinderischer Schritt nach GebrMG prüfen: Stand der Technik, öffentliche Zugänglichkeit, Merkmalsgliederung und Angriffsfestigkeit. |
-| `neuheitsschonfrist-eigene-offenbarung` | Neuheitsschonfrist für eigene Offenbarungen prüfen: Messe, Pitchdeck, Website, Verkauf, Testkunde, Geheimhaltung und Sechsmonatsfenster. |
-| `patent-oder-gebrauchsmuster-route` | Patent oder Gebrauchsmuster entscheiden: Geschwindigkeit, Kosten, Prüfung, Schutzdauer, Verfahren, Ausschlüsse, Durchsetzung und internationale Strategie. |
-| `prioritaet-und-anmeldetag` | Priorität und Anmeldetag im Gebrauchsmusterrecht prüfen: Paris-Priorität, Patentbezug, Offenbarungsidentität und Fristen. |
-| `produktlaunch-und-neuheit` | Produktlaunch und Neuheit koordinieren: Veröffentlichung, Messe, Pilotkunde, Website, NDA, Gebrauchsmusteranmeldung und Patentfolge. |
+| `kompendium-01-computerprogramm-und-bis-neuheitsschonfrist-e` | gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 01; bündelt 2 frühere Spezialskills (computerprogramm-und-verfahrensausschluss, neuheitsschonfrist-eigene-offenbarung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgab... |
+| `kompendium-02-registerstand-friste-bis-lizenzvertrag-gebrau` | gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 02; bündelt 2 frühere Spezialskills (registerstand-fristen-aufrechterhaltung, lizenzvertrag-gebrauchsmuster) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-03-auskunft-schadensers-bis-geheimhaltung-vor-an` | gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 03; bündelt 2 frühere Spezialskills (auskunft-schadensersatz-und-rechnungslegung, geheimhaltung-vor-anmeldung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-04-abmahnung-gebrauchsm-bis-abzweigung-aus-paten` | gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 04; bündelt 2 frühere Spezialskills (abmahnung-gebrauchsmuster-verteidigung, abzweigung-aus-patentanmeldung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-05-anspruchsfassung-geb-bis-arbeitnehmererfindun` | gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 05; bündelt 2 frühere Spezialskills (anspruchsfassung-gebrauchsmuster, arbeitnehmererfindung-und-inhaberschaft) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-06-auslandsroute-kein-e-bis-beschreibung-und-zei` | gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 06; bündelt 2 frühere Spezialskills (auslandsroute-kein-eu-gebrauchsmuster, beschreibung-und-zeichnungen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-07-beschwerde-bpatg-bis-besichtigung-beschla` | gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 07; bündelt 2 frühere Spezialskills (beschwerde-bpatg, besichtigung-beschlagnahme-und-beweissicherung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-08-chemie-biotech-und-s-bis-china-utility-model` | gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 08; bündelt 2 frühere Spezialskills (chemie-biotech-und-stoffschutz, china-utility-model-vergleich) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-09-doppelschutz-patent-bis-dpma-anmeldung-forma` | gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 09; bündelt 2 frühere Spezialskills (doppelschutz-patent-gebrauchsmuster, dpma-anmeldung-formalien) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-10-einstweilige-verfueg-bis-fto-und-schutzbereic` | gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 10; bündelt 2 frühere Spezialskills (einstweilige-verfuegung-gebrauchsmuster, fto-und-schutzbereich) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-11-gutachten-rechtsbest-bis-insolvenz-und-verwer` | gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 11; bündelt 2 frühere Spezialskills (gutachten-rechtsbestand, insolvenz-und-verwertung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-12-japan-utility-model-bis-klageantraege-verlet` | gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 12; bündelt 2 frühere Spezialskills (japan-utility-model-vergleich, klageantraege-verletzung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-13-local-counsel-briefi-bis-loeschung-erwiderung` | gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 13; bündelt 2 frühere Spezialskills (local-counsel-briefing-ausland, loeschung-erwiderung-inhaber) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-14-loeschungsantrag-dpm-bis-mandantenmemo-gebrau` | gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 14; bündelt 2 frühere Spezialskills (loeschungsantrag-dpma, mandantenmemo-gebrauchsmusterstrategie) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-15-messeveroeffentlichu-bis-muendliche-verhandlu` | gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 15; bündelt 2 frühere Spezialskills (messeveroeffentlichung-und-prototyp, muendliche-verhandlung-dpma) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-16-neuheit-und-erfinder-bis-patent-oder-gebrauch` | gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 16; bündelt 2 frühere Spezialskills (neuheit-und-erfinderischer-schritt, patent-oder-gebrauchsmuster-route) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-17-prioritaet-und-anmel-bis-produktlaunch-und-ne` | gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 17; bündelt 2 frühere Spezialskills (prioritaet-und-anmeldetag, produktlaunch-und-neuheit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-18-recherche-nach-parag-bis-schutzgegenstand-und` | gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 18; bündelt 2 frühere Spezialskills (recherche-nach-paragraph-7-gebrmg, schutzgegenstand-und-ausschluesse) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-19-stand-der-technik-be-bis-startup-schnellschut` | gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 19; bündelt 2 frühere Spezialskills (stand-der-technik-belegpaket, startup-schnellschutz) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-20-technische-dokumenta-bis-teilloeschung-und-hi` | gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 20; bündelt 2 frühere Spezialskills (technische-dokumentation-laborbuch, teilloeschung-und-hilfsantraege) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-21-uebertragung-und-sic-bis-us-provisional-vs-ge` | gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 21; bündelt 2 frühere Spezialskills (uebertragung-und-sicherheit, us-provisional-vs-gebrauchsmuster) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-22-vergleich-und-cross-bis-verletzung-anspruchs` | gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 22; bündelt 2 frühere Spezialskills (vergleich-und-cross-license, verletzung-anspruchsmerkmale) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-23-vernichtung-rueckruf-bis-vorbenutzungsrecht` | gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 23; bündelt 2 frühere Spezialskills (vernichtung-rueckruf-und-entfernung, vorbenutzungsrecht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-24-zoll-und-plattformdu-bis-zoll-und-plattformdu` | gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 24; bündelt 1 frühere Spezialskills (zoll-und-plattformdurchsetzung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
 | `qualitygate-gebrmg` | Qualitygate für Gebrauchsmusteroutputs: Normen, DPMAregister, Fristen, Recherche, Stand der Technik, Rechtsprechung, Paywall-Vermeidung und offene Tatsachen. |
-| `recherche-nach-paragraph-7-gebrmg` | Recherche nach § 7 GebrMG vorbereiten und auswerten: DPMA-Rechercheantrag, Stand der Technik, Trefferbewertung und Rechtsbestandsrisiko. |
-| `registerstand-fristen-aufrechterhaltung` | Registerstand, Fälligkeiten und Aufrechterhaltung prüfen: DPMAregister, Laufzeit, Gebühren, Umschreibung, Löschung, Fristen und Portfolioüberwachung. |
-| `schutzgegenstand-und-ausschluesse` | Schutzgegenstand und Ausschlüsse prüfen: technische Erfindung, Erzeugnis, Verfahren, biologische Verfahren, Softwareabgrenzung und bloße Idee. |
-| `stand-der-technik-belegpaket` | Stand-der-Technik-Belegpaket bauen: Dokumente, öffentliche Benutzung, Internetarchiv, Produktkatalog, Messe, Zeugen und Datumsnachweise. |
-| `startup-schnellschutz` | Schnellschutzstrategie für Start-ups und KMU: Gebrauchsmuster, Patent, Geheimhaltung, defensive Veröffentlichung, Investorenkommunikation und Budget. |
-| `technische-dokumentation-laborbuch` | Technische Dokumentation, Laborbuch und Entwicklungsakte auswerten: Erfinder, Datum, Varianten, Tests, Prototypen und Beweiswert. |
-| `teilloeschung-und-hilfsantraege` | Teil-Löschung, Beschränkung und Hilfsanträge taktisch prüfen: Verteidigung engerer Ansprüche, Offenbarungsstütze und Marktwert. |
-| `uebertragung-und-sicherheit` | Übertragung, Sicherheiten und Registerumschreibung prüfen: Rechtekette, Abtretung, Pfand, Asset Deal, Closing und Registervollzug. |
-| `us-provisional-vs-gebrauchsmuster` | US-Provisional, Design Patent und deutsches Gebrauchsmuster vergleichen: Zweck, Fristen, Offenbarung, Kosten und spätere Durchsetzung. |
-| `vergleich-und-cross-license` | Vergleich und Cross-License im Gebrauchsmusterstreit: Unterlassung, Restbestand, Lizenz, Nichtigkeit, Kosten, Geheimhaltung und technische Änderung. |
-| `verletzung-anspruchsmerkmale` | Gebrauchsmusterverletzung anhand Anspruchsmerkmalen prüfen: wortsinngemäße Benutzung, Äquivalenznähe, Belege, Produktanalyse und Beweislast. |
-| `vernichtung-rueckruf-und-entfernung` | Vernichtung, Rückruf und Entfernung aus Vertriebswegen prüfen: Bestände, Verhältnismäßigkeit, Dritte, Ersatzteile und Vergleichslösungen. |
-| `vorbenutzungsrecht` | Vorbenutzungsrecht und gutgläubige Nutzung prüfen: eigener Entwicklungsstand, Benutzungsvorbereitung, Beweisunterlagen und Reichweite. |
-| `zoll-und-plattformdurchsetzung` | Zoll- und Plattformdurchsetzung bei Gebrauchsmusterverletzung prüfen: Produktmerkmale, Registerrecht, technische Prüfung, DSA, Marktplätze und Beweissicherung. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

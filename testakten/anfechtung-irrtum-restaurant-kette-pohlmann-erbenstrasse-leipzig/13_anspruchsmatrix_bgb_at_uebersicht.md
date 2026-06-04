@@ -1,7 +1,7 @@
 # Anspruchsmatrix BGB AT — Akte Pohlmann-Ofenkaess / Erbenstraße Leipzig
 
-**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg  
-**Datum:** 16. April 2026  
+**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg
+**Datum:** 16. April 2026
 **Zweck:** Prüfungsstruktur-Übersicht aller BGB-AT-Komplexe; Klausur-Vorbereitung
 
 ---
@@ -136,8 +136,8 @@ WENN Vertretungsmacht (-):
 - [ ] AGB einbezogen? Überraschend? Inhaltskontrolle?
 - [ ] Verjährung: §§ 195, 199 BGB, Stichtagsprinzip?
 
-**Quellen:**  
-§§ 104–106, 119–124, 130, 142, 164–179, 195–204 BGB: https://dejure.org/gesetze/BGB  
-Palandt/Ellenberger BGB, 83. Aufl. 2024, § 119 Rn. 1 ff., § 164 Rn. 1 ff.  
-BGH NJW 2018, 2127 (§ 105 Abs. 2 BGB): https://www.bundesgerichtshof.de  
+**Quellen:**
+§§ 104–106, 119–124, 130, 142, 164–179, 195–204 BGB: https://dejure.org/gesetze/BGB
+Palandt/Ellenberger BGB, 83. Aufl. 2024, § 119 Rn. 1 ff., § 164 Rn. 1 ff.
+BGH NJW 2018, 2127 (§ 105 Abs. 2 BGB): https://www.bundesgerichtshof.de
 BGH NJW 2017, 1169 (Anscheinsvollmacht): https://www.bundesgerichtshof.de

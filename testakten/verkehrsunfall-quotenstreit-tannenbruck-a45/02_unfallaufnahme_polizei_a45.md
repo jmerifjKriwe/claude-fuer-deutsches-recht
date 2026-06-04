@@ -1,10 +1,10 @@
 # Unfallaufnahme Polizei — BAB A45 bei Ausfahrt Lüdenscheid-Nord
 
-**Polizeibehörde:** Kreispolizeibehörde Märkischer Kreis, VD 2 Verkehrsdienst  
-**Aktenzeichen Polizei:** VD2-2026-00112  
-**Unfallaufnahme durch:** POK Markus Breitenbach, PKin Sandra Völker  
-**Aufnahmedatum:** 12.01.2026  
-**Aufnahmezeit:** 01:42 Uhr bis 04:15 Uhr  
+**Polizeibehörde:** Kreispolizeibehörde Märkischer Kreis, VD 2 Verkehrsdienst
+**Aktenzeichen Polizei:** VD2-2026-00112
+**Unfallaufnahme durch:** POK Markus Breitenbach, PKin Sandra Völker
+**Aufnahmedatum:** 12.01.2026
+**Aufnahmezeit:** 01:42 Uhr bis 04:15 Uhr
 
 ---
 

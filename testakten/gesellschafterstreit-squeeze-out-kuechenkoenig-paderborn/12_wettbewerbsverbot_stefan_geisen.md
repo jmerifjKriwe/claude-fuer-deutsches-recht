@@ -1,8 +1,8 @@
 # 12 — Nachvertragliches Wettbewerbsverbot: Stefan Geisen / HolzART Paderborn UG
 
-**Akte:** DWSP/2026/GR-4417  
-**Erstellt:** 24.04.2026  
-**Bearbeiter:** Prof. Dr. Wieland Drosselberg  
+**Akte:** DWSP/2026/GR-4417
+**Erstellt:** 24.04.2026
+**Bearbeiter:** Prof. Dr. Wieland Drosselberg
 
 ---
 
@@ -71,5 +71,5 @@ Stefan Geisen ist noch Gesellschafter (der Squeeze-out-Beschluss ist angefochten
 
 ---
 
-*Erstellt: 24.04.2026 — Prof. Dr. Wieland Drosselberg*  
+*Erstellt: 24.04.2026 — Prof. Dr. Wieland Drosselberg*
 *Referenz: § 161 HGB (dejure.org/gesetze/HGB/161.html); BGH II ZR 59/02; BGH NJW 2006, 68; Art. 12 GG*

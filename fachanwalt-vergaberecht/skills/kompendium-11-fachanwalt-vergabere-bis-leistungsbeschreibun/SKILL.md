@@ -1,0 +1,295 @@
+---
+name: kompendium-11-fachanwalt-vergabere-bis-leistungsbeschreibun
+description: "fachanwalt-vergaberecht: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema, foerdermittelvergabe-rueckforderung, ki-beschaffung-ai-act-daten-cloud, leistungsbeschreibung-neutralitaet-funktional) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+---
+
+# Kompendium 11 - fachanwalt-vergaberecht
+
+## Zweck
+
+Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+
+## Enthaltene frühere Skills
+
+| Früherer Skill | Frühere Beschreibung |
+| --- | --- |
+| `fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema` | Zuschlagskriterien und Wertungsschema im Vergabeverfahren ausarbeiten und angreifen: Auftraggeber will rechtsfeste Wertungsmatrix; Bieter will mangelhafte Wertung ruegen. Normen: § 127 GWB (Zuschlag), § 58 VgV (Wertung), § 31 SektVO, § 16 KonzVgV, VOB-A § 16d. Pruefraster: Auftragsbezug, Diskriminierungsverbot, Transparenz, Gewichtung, Unterkriterien, Punktevergabe, Preis-Leistungs-Relation, Lebenszykluskosten § 59 VgV. Output Wertungsmatrix-Entwurf, Pruefvermerk Wertungsruege. Abgrenzung: Eignungspruefung siehe fachanwalt-vergaberecht-eignungspruefung; Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag. |
+| `foerdermittelvergabe-rueckforderung` | Foerdermittelvergaben und Rueckforderungsrisiken pruefen: Nebenbestimmungen, ANBest, Vergabeverstoesse, Dokumentation, Heilung und Kommunikation mit Zuwendungsgebern. |
+| `ki-beschaffung-ai-act-daten-cloud` | KI-, Cloud- und Datenbeschaffung vergaberechtlich strukturieren: Leistungsbeschreibung, Datenschutz, AI Act, IT-Sicherheit, Lock-in, Open-Source, Interoperabilitaet und Wertung. |
+| `leistungsbeschreibung-neutralitaet-funktional` | Leistungsbeschreibung produktneutral, funktional oder konstruktiv erstellen und angreifen: Mindestanforderungen, Gleichwertigkeit, Leitfabrikate, Alleinstellungsmerkmale und Dokumentation. |
+
+## Arbeitsregel
+
+1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
+3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+
+## Konsolidierte Inhalte
+
+## 1. `fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema`
+
+**Frühere Beschreibung:** Zuschlagskriterien und Wertungsschema im Vergabeverfahren ausarbeiten und angreifen: Auftraggeber will rechtsfeste Wertungsmatrix; Bieter will mangelhafte Wertung ruegen. Normen: § 127 GWB (Zuschlag), § 58 VgV (Wertung), § 31 SektVO, § 16 KonzVgV, VOB-A § 16d. Pruefraster: Auftragsbezug, Diskriminierungsverbot, Transparenz, Gewichtung, Unterkriterien, Punktevergabe, Preis-Leistungs-Relation, Lebenszykluskosten § 59 VgV. Output Wertungsmatrix-Entwurf, Pruefvermerk Wertungsruege. Abgrenzung: Eignungspruefung siehe fachanwalt-vergaberecht-eignungspruefung; Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag.
+
+# Zuschlagskriterien und Wertungsschema
+
+## Aufgabe
+Erstelle oder pruefe ein vergaberechtsfestes Wertungsschema oder bereite eine Wertungsruege vor. Output je nach Rolle: Wertungsmatrix mit Begruendungstext fuer Auftraggeber, Pruefvermerk und Ruegeschriftsatz-Modul fuer Bieter.
+
+## Kaltstart
+1. Auftraggeber oder Bieter?
+2. Lieferung, Dienstleistung, Bau, Konzession?
+3. Schwellenwert ueberschritten? (Oberschwelle = GWB/VgV/SektVO/KonzVgV; Unterschwelle = UVgO/VOB-A Abschn. 1)
+4. Welche Kriterien liegen bereits in der Bekanntmachung/Auftragsunterlagen?
+5. Wertungsmethode bekannt (einfache Punktvergabe, gewichtete Nutzwertanalyse, Preis-Leistungs-Quotient, UFAB)?
+6. Ist Zuschlag bereits erteilt? (Dann nur noch Schadensersatzpfad)
+
+## Pruefraster Wertungskriterien
+### 1. Auftragsbezug § 127 Abs. 3 GWB
+Kriterium muss mit dem Auftragsgegenstand in Verbindung stehen. Soziale, oekologische, innovative Aspekte sind zulaessig, wenn auftragsbezogen.
+
+### 2. Diskriminierungsverbot § 97 Abs. 2 GWB
+Keine versteckte Bieterauswahl ueber technische Spezifikationen oder Referenzen, die nur ein bestimmter Bieter erfuellen kann.
+
+### 3. Transparenz § 127 Abs. 5 GWB
+Kriterien und Gewichtung in Bekanntmachung oder Auftragsunterlagen. Unterkriterien und Gewichtung muessen spaetestens mit Aufforderung zur Angebotsabgabe offengelegt sein (EuGH C-532/06 Lianakis; OLG Duesseldorf VII-Verg 39/15).
+
+### 4. Gewichtung
+Prozentuale Gewichtung oder Bandbreite zulaessig. Reine Verbalbewertung ohne Gewichtung ist regelmaessig vergaberechtswidrig (BGH X ZR 80/16).
+
+### 5. Preis-Leistungs-Relation
+Reine Preisvergabe nur in Ausnahmefaellen (§ 58 Abs. 2 VgV: bei standardisierten Leistungen). Sonst wirtschaftlichstes Angebot ueber Nutzwertanalyse oder einfache Richtwertmethode (UFAB).
+
+### 6. Lebenszykluskosten § 59 VgV
+Anschaffung, Nutzung, Wartung, Entsorgung. Methodische Anforderungen: Daten transparent, Berechnung nachvollziehbar.
+
+## Pruefraster Wertungsdurchfuehrung
+- Wertungsmatrix vor Angebotsoeffnung festlegen und dokumentieren.
+- Bewertungspersonen benennen (Vier-Augen-Prinzip).
+- Einzelbegruendung je Kriterium und Bieter, nicht nur Gesamtnote.
+- Punktevergabe nachvollziehbar (z. B. Notenskala mit Beschreibung pro Stufe).
+- Dokumentation Vergabevermerk § 8 VgV.
+
+## Typische Fehler
+- Schulnotenbewertung ohne Beschreibung der Notenstufen (OLG Duesseldorf VII-Verg 36/17).
+- Unterkriterien erst nach Angebotsoeffnung definiert.
+- Preis-Leistungs-Formel mit unrealistischen Spreizungen (Preis wird wertungsneutral).
+- Referenzanforderungen, die nur Altanbieter erfuellen.
+- Nachhaltigkeit ohne Auftragsbezug.
+
+## Output-Module
+### Wertungsmatrix-Entwurf (Auftraggeber)
+Tabelle: Kriterium | Gewicht (%) | Unterkriterien | Bewertungsmassstab | Maximalpunktzahl | Begruendung Auftragsbezug.
+
+### Pruefvermerk Wertungsruege (Bieter)
+1. Wertungskriterium und Begruendung des Auftraggebers
+2. Vergaberechtlicher Massstab
+3. Konkreter Fehler
+4. Auswirkung auf Wertungsergebnis
+5. Antrag im VK-Verfahren
+
+## Quellenregel
+Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei pruefbarer Quelle ausgeben (dejure.org, openjur.de). EuGH-Entscheidungen ueber curia.europa.eu verifizieren.
+
+
+## Vergabe-Workbench-Boost v61.2
+
+- Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
+- Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
+- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
+- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
+- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
+- Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
+- Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.
+
+## 2. `foerdermittelvergabe-rueckforderung`
+
+**Frühere Beschreibung:** Foerdermittelvergaben und Rueckforderungsrisiken pruefen: Nebenbestimmungen, ANBest, Vergabeverstoesse, Dokumentation, Heilung und Kommunikation mit Zuwendungsgebern.
+
+# Foerdermittel und Rueckforderung
+
+## Zweck
+
+Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll Vergabefehler bei gefoerderten Projekten vermeiden oder sanieren. Er arbeitet fuer Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
+
+## Sofortmodus
+
+1. Rolle klaeren: Auftraggeber, Bieter, Beigeladener, Foerdermittelempfaenger, Projektsteuerer oder Kanzlei.
+2. Verfahrensstand klaeren: Markterkundung, Bekanntmachung, Angebotsphase, Wertung, Paragraph 134 GWB, Zuschlag, Vertrag, Nachpruefung, Beschwerde oder Schadensersatz.
+3. Schwellenwert und Rechtsweg pruefen: Oberschwelle, Unterschwelle, Sektoren, Konzession, Verteidigung/Sicherheit, Foerdermittel oder Sonderregime.
+4. Fristen sichern: Ruge, Angebotsfrist, Stillhaltefrist, 15-Tage-Frist nach Nichtabhilfe, Beschwerdefrist, Paragraph 135 GWB-Fristen.
+5. Erst danach in die materielle Pruefung gehen.
+
+## Arbeitsweise
+
+- Baue zuerst eine kleine Tabelle mit `Tatsache`, `Beleg`, `rechtliche Bedeutung`, `Risiko`, `naechster Schritt`.
+- Trenne strikt zwischen gesicherten Tatsachen, plausiblen Annahmen und offenen Pruefpunkten.
+- Wenn der Nutzer Anfaenger ist, erklaere jedes vergaberechtliche Kunstwort in einem Satz und liefere danach sofort die Handlung.
+- Wenn der Nutzer erfahren ist, liefere direkt Matrix, Schriftsatzkern, Vermerk oder Entscheidungsvorlage.
+- Bei schwellenwert-, formular-, TED/eForms-, Wettbewerbsregister-, Landes- oder EU-Fragen einen Live-/Aktualitaetscheck verlangen, bevor Zahlen oder Formularlogik tragend verwendet werden.
+
+## Pflicht-Output
+
+- Kurzbild in drei Saetzen.
+- Ampel: Frist, Zustaendigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
+- Matrix oder Padlet-Block, wenn mehr als drei Themen/Fehler/Unterlagen betroffen sind.
+- Konkreter naechster Schritt mit Adressat, Frist, benoetigten Anlagen und Entwurfsformat.
+
+## Typische Outputs
+
+Foerdermittel-Risikomatrix, Heilungsplan, Aktenvermerk, Zuwendungsgeberbrief.
+
+## Qualitaetsgates
+
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Datum, Aktenzeichen und frei oder amtlich pruefbarer Quelle absichern.
+- Keine ungeprueften Schwellenwerte. Fuer 2026/2027 sind die offiziellen EU-/nationalen Quellen vor tragender Verwendung zu pruefen.
+- Keine pauschale Ruge. Jeder Vergabeverstoss braucht konkrete Tatsache, verletzte Regel, Kausalitaet/Chance und begehrte Abhilfe.
+- Auftraggeberseitig immer dokumentieren: Warum durfte genau diese Entscheidung zu genau diesem Zeitpunkt getroffen werden?
+- Bieterseitig immer taktisch pruefen: Rugen, nachfragen, Angebot abgeben, Nachpruefung, Vergleich oder Schadensersatz.
+
+## Anschluss-Skills
+
+- `vergabe-os-master-orchestrator` fuer Gesamtsteuerung.
+- `schwellenwerte-2026-2027-livecheck` fuer Schwellenwert und Rechtsweg.
+- `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
+- `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
+- `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
+
+
+## Vergabe-Workbench-Boost v61.2
+
+- Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
+- Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
+- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
+- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
+- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
+- Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
+- Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.
+
+## 3. `ki-beschaffung-ai-act-daten-cloud`
+
+**Frühere Beschreibung:** KI-, Cloud- und Datenbeschaffung vergaberechtlich strukturieren: Leistungsbeschreibung, Datenschutz, AI Act, IT-Sicherheit, Lock-in, Open-Source, Interoperabilitaet und Wertung.
+
+# KI-, Cloud- und Datenbeschaffung
+
+## Zweck
+
+Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll digitale Beschaffungen mit Regulierungs- und Technikrisiken praxistauglich vergeben. Er arbeitet fuer Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
+
+## Sofortmodus
+
+1. Rolle klaeren: Auftraggeber, Bieter, Beigeladener, Foerdermittelempfaenger, Projektsteuerer oder Kanzlei.
+2. Verfahrensstand klaeren: Markterkundung, Bekanntmachung, Angebotsphase, Wertung, Paragraph 134 GWB, Zuschlag, Vertrag, Nachpruefung, Beschwerde oder Schadensersatz.
+3. Schwellenwert und Rechtsweg pruefen: Oberschwelle, Unterschwelle, Sektoren, Konzession, Verteidigung/Sicherheit, Foerdermittel oder Sonderregime.
+4. Fristen sichern: Ruge, Angebotsfrist, Stillhaltefrist, 15-Tage-Frist nach Nichtabhilfe, Beschwerdefrist, Paragraph 135 GWB-Fristen.
+5. Erst danach in die materielle Pruefung gehen.
+
+## Arbeitsweise
+
+- Baue zuerst eine kleine Tabelle mit `Tatsache`, `Beleg`, `rechtliche Bedeutung`, `Risiko`, `naechster Schritt`.
+- Trenne strikt zwischen gesicherten Tatsachen, plausiblen Annahmen und offenen Pruefpunkten.
+- Wenn der Nutzer Anfaenger ist, erklaere jedes vergaberechtliche Kunstwort in einem Satz und liefere danach sofort die Handlung.
+- Wenn der Nutzer erfahren ist, liefere direkt Matrix, Schriftsatzkern, Vermerk oder Entscheidungsvorlage.
+- Bei schwellenwert-, formular-, TED/eForms-, Wettbewerbsregister-, Landes- oder EU-Fragen einen Live-/Aktualitaetscheck verlangen, bevor Zahlen oder Formularlogik tragend verwendet werden.
+
+## Pflicht-Output
+
+- Kurzbild in drei Saetzen.
+- Ampel: Frist, Zustaendigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
+- Matrix oder Padlet-Block, wenn mehr als drei Themen/Fehler/Unterlagen betroffen sind.
+- Konkreter naechster Schritt mit Adressat, Frist, benoetigten Anlagen und Entwurfsformat.
+
+## Typische Outputs
+
+Anforderungskatalog, Bewertungsmatrix, Risikoampel, Vertrags-/Vergabehinweise.
+
+## Qualitaetsgates
+
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Datum, Aktenzeichen und frei oder amtlich pruefbarer Quelle absichern.
+- Keine ungeprueften Schwellenwerte. Fuer 2026/2027 sind die offiziellen EU-/nationalen Quellen vor tragender Verwendung zu pruefen.
+- Keine pauschale Ruge. Jeder Vergabeverstoss braucht konkrete Tatsache, verletzte Regel, Kausalitaet/Chance und begehrte Abhilfe.
+- Auftraggeberseitig immer dokumentieren: Warum durfte genau diese Entscheidung zu genau diesem Zeitpunkt getroffen werden?
+- Bieterseitig immer taktisch pruefen: Rugen, nachfragen, Angebot abgeben, Nachpruefung, Vergleich oder Schadensersatz.
+
+## Anschluss-Skills
+
+- `vergabe-os-master-orchestrator` fuer Gesamtsteuerung.
+- `schwellenwerte-2026-2027-livecheck` fuer Schwellenwert und Rechtsweg.
+- `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
+- `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
+- `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
+
+
+## Vergabe-Workbench-Boost v61.2
+
+- Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
+- Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
+- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
+- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
+- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
+- Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
+- Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.
+
+## 4. `leistungsbeschreibung-neutralitaet-funktional`
+
+**Frühere Beschreibung:** Leistungsbeschreibung produktneutral, funktional oder konstruktiv erstellen und angreifen: Mindestanforderungen, Gleichwertigkeit, Leitfabrikate, Alleinstellungsmerkmale und Dokumentation.
+
+# Leistungsbeschreibung Neutralitaet
+
+## Zweck
+
+Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll technische und funktionale Anforderungen vergabefest formulieren oder ruegen. Er arbeitet fuer Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
+
+## Sofortmodus
+
+1. Rolle klaeren: Auftraggeber, Bieter, Beigeladener, Foerdermittelempfaenger, Projektsteuerer oder Kanzlei.
+2. Verfahrensstand klaeren: Markterkundung, Bekanntmachung, Angebotsphase, Wertung, Paragraph 134 GWB, Zuschlag, Vertrag, Nachpruefung, Beschwerde oder Schadensersatz.
+3. Schwellenwert und Rechtsweg pruefen: Oberschwelle, Unterschwelle, Sektoren, Konzession, Verteidigung/Sicherheit, Foerdermittel oder Sonderregime.
+4. Fristen sichern: Ruge, Angebotsfrist, Stillhaltefrist, 15-Tage-Frist nach Nichtabhilfe, Beschwerdefrist, Paragraph 135 GWB-Fristen.
+5. Erst danach in die materielle Pruefung gehen.
+
+## Arbeitsweise
+
+- Baue zuerst eine kleine Tabelle mit `Tatsache`, `Beleg`, `rechtliche Bedeutung`, `Risiko`, `naechster Schritt`.
+- Trenne strikt zwischen gesicherten Tatsachen, plausiblen Annahmen und offenen Pruefpunkten.
+- Wenn der Nutzer Anfaenger ist, erklaere jedes vergaberechtliche Kunstwort in einem Satz und liefere danach sofort die Handlung.
+- Wenn der Nutzer erfahren ist, liefere direkt Matrix, Schriftsatzkern, Vermerk oder Entscheidungsvorlage.
+- Bei schwellenwert-, formular-, TED/eForms-, Wettbewerbsregister-, Landes- oder EU-Fragen einen Live-/Aktualitaetscheck verlangen, bevor Zahlen oder Formularlogik tragend verwendet werden.
+
+## Pflicht-Output
+
+- Kurzbild in drei Saetzen.
+- Ampel: Frist, Zustaendigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
+- Matrix oder Padlet-Block, wenn mehr als drei Themen/Fehler/Unterlagen betroffen sind.
+- Konkreter naechster Schritt mit Adressat, Frist, benoetigten Anlagen und Entwurfsformat.
+
+## Typische Outputs
+
+Anforderungstabelle, Neutralitaetscheck, Rugepunkte, Ueberarbeitungsvorschlag.
+
+## Qualitaetsgates
+
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Datum, Aktenzeichen und frei oder amtlich pruefbarer Quelle absichern.
+- Keine ungeprueften Schwellenwerte. Fuer 2026/2027 sind die offiziellen EU-/nationalen Quellen vor tragender Verwendung zu pruefen.
+- Keine pauschale Ruge. Jeder Vergabeverstoss braucht konkrete Tatsache, verletzte Regel, Kausalitaet/Chance und begehrte Abhilfe.
+- Auftraggeberseitig immer dokumentieren: Warum durfte genau diese Entscheidung zu genau diesem Zeitpunkt getroffen werden?
+- Bieterseitig immer taktisch pruefen: Rugen, nachfragen, Angebot abgeben, Nachpruefung, Vergleich oder Schadensersatz.
+
+## Anschluss-Skills
+
+- `vergabe-os-master-orchestrator` fuer Gesamtsteuerung.
+- `schwellenwerte-2026-2027-livecheck` fuer Schwellenwert und Rechtsweg.
+- `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
+- `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
+- `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
+
+
+## Vergabe-Workbench-Boost v61.2
+
+- Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
+- Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
+- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
+- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
+- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
+- Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
+- Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.

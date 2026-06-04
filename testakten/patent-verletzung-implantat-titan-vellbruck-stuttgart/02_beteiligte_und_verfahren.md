@@ -1,7 +1,7 @@
 # 02 — Beteiligte, Verfahrensübersicht und Zuständigkeiten
 
-**Aktenzeichen intern:** VM-2026-GR-001  
-**Datum:** 25. Januar 2026  
+**Aktenzeichen intern:** VM-2026-GR-001
+**Datum:** 25. Januar 2026
 **Bearbeiter:** RA Tobias Fehrenbach
 
 ---
@@ -45,34 +45,34 @@ Ein weiterer Aspekt: Bochstaedt hat die Nichtigkeitsklage gegen EP 3 218 922 B1 
 
 ### 3.1 Führende Kanzlei
 
-**Birkenhainer & Consulting**  
-Theatinerstraße 36, 80333 München  
-RA Dr. Marie-Henriette Birkenhainer (FA Gewerblicher Rechtsschutz, EPA-zugelassene Vertreterin Nr. EPA-D-12885)  
-RA Tobias Fehrenbach (Sachbearbeitung Patent/Marke)  
-RA Dr. Leonie Karstens (Koordination GeschG/UWG)  
+**Birkenhainer & Consulting**
+Theatinerstraße 36, 80333 München
+RA Dr. Marie-Henriette Birkenhainer (FA Gewerblicher Rechtsschutz, EPA-zugelassene Vertreterin Nr. EPA-D-12885)
+RA Tobias Fehrenbach (Sachbearbeitung Patent/Marke)
+RA Dr. Leonie Karstens (Koordination GeschG/UWG)
 Kanzleiadresse für den UPC-Schriftwechsel: identisch mit Münchener Büro
 
 ### 3.2 UPC-Lokalkammer Düsseldorf: Rademakers IP
 
-**Rademakers IP Rechtsanwälte und Patentanwälte PartGmbB**  
-Königsallee 14, 40212 Düsseldorf  
-Zugelassener UPC-Vertreter: RA Dr. Gerd Rademakers (Zulassung UPC-CoA-2023-DE-0044)  
-Koordination: Birkenhainer — Rademakers wöchentlich mittwochs per Videokonferenz  
+**Rademakers IP Rechtsanwälte und Patentanwälte PartGmbB**
+Königsallee 14, 40212 Düsseldorf
+Zugelassener UPC-Vertreter: RA Dr. Gerd Rademakers (Zulassung UPC-CoA-2023-DE-0044)
+Koordination: Birkenhainer — Rademakers wöchentlich mittwochs per Videokonferenz
 Zuständig: Klageeinreichung UPC, Terminwahrnehmung Düsseldorf, einstweilige Verfügung
 
 ### 3.3 BPatG-Verfahren: Gruhl & Teichmann
 
-**Gruhl & Teichmann Patentanwaltskanzlei**  
-Widenmayerstraße 23, 80538 München  
-PatAnw. Dr. Rolf Gruhl (Techn. Gebiete: Medizintechnik, Materialwissenschaften)  
+**Gruhl & Teichmann Patentanwaltskanzlei**
+Widenmayerstraße 23, 80538 München
+PatAnw. Dr. Rolf Gruhl (Techn. Gebiete: Medizintechnik, Materialwissenschaften)
 Zuständig: Nichtigkeitssache 4 Ni 18/26; technische Stellungnahmen für UPC-Verfahren
 
 ### 3.4 Sachverständiger
 
-**Dr. habil. Peter Morbach**  
-Lehrstuhl für Werkstoffkunde und Titanverarbeitung  
-Technische Universität Dortmund (i.R., Gutachtertätigkeit)  
-Auftrag: Technisches Gutachten zur Verletzung und Äquivalenz EP 3 218 922 B1  
+**Dr. habil. Peter Morbach**
+Lehrstuhl für Werkstoffkunde und Titanverarbeitung
+Technische Universität Dortmund (i.R., Gutachtertätigkeit)
+Auftrag: Technisches Gutachten zur Verletzung und Äquivalenz EP 3 218 922 B1
 Frist Erstgutachten: 30. März 2026
 
 ---

@@ -93,7 +93,7 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 
 ## Praktiker-Tipps der alten Hasen
 
-- **Erstattungsverfahren RS/ME → DE-Mandant**: 
+- **Erstattungsverfahren RS/ME → DE-Mandant**:
   - Serbien: Antrag bei Poreska uprava Republike Srbije; Online-Portal "ePorezi" (vom Anwender mit aktuellem Stand zu verifizieren). Ansaessigkeitsbescheinigung der Poreska uprava als Anlage.
   - Montenegro: Antrag bei der Steuerverwaltung Montenegro (Uprava prihoda i carina, UPC). Online-Portal (vom Anwender mit aktuellem Stand zu verifizieren).
 - **Sprache des DBA**: Authentische Textfassungen Deutsch und Serbokroatisch (DBA-Jugoslawien 1987); heutige Textfassungen werden auf Serbisch (kyrillisch) bzw. Montenegrinisch (lateinisch) angewendet. Konsolidierter Text im BMF-Verzeichnis.

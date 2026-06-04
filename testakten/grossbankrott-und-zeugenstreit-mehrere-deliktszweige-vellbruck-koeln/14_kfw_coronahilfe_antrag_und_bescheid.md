@@ -1,7 +1,7 @@
 # 14 — KfW-Coronahilfe Q4/2022: Antrag (Auszug) und Bescheid
 
-**Teil A:** Auszug Antrag Pellbach Logistik & Spedition GmbH auf "Überbrückungshilfe IV — Q4/2022" vom 22.11.2022  
-**Teil B:** Bescheid KfW vom 09.12.2022  
+**Teil A:** Auszug Antrag Pellbach Logistik & Spedition GmbH auf "Überbrückungshilfe IV — Q4/2022" vom 22.11.2022
+**Teil B:** Bescheid KfW vom 09.12.2022
 **Teil C:** Verteidigungsanalyse zu § 264 StGB und § 264 IX StGB (subventionserhebliche Tatsachen)
 
 Aktentyp: Antragsausdruck (A), Bescheidkopie (B), interne Pruefung (C)
@@ -40,15 +40,15 @@ Antragsgegenstand ist die Überbrückungshilfe IV für den Zeitraum Q4/2022 (Okt
 
 > "Die Antragstellerin erklärt, dass sie aufgrund anhaltender Corona-Belastungen, Lieferkettenprobleme und stark gestiegener Energie- und Treibstoffkosten einen erheblichen Umsatzrückgang von über 30 % erleidet. Sie versichert die Richtigkeit der Angaben und ist sich bewusst, dass falsche Angaben gemäß § 264 StGB strafbar sein können."
 
-Unterschrift: **Dr. Carlsten Pellbach-Eisenacher** (GF)  
-Datum: 22.11.2022  
+Unterschrift: **Dr. Carlsten Pellbach-Eisenacher** (GF)
+Datum: 22.11.2022
 Antragsnummer: KfW-UEH4-2022-K-14882-PB
 
 ---
 
 ## Teil B — Bescheid KfW vom 09.12.2022
 
-**Kreditanstalt für Wiederaufbau (KfW), Charlottenstrasse 33/33a, 10117 Berlin**  
+**Kreditanstalt für Wiederaufbau (KfW), Charlottenstrasse 33/33a, 10117 Berlin**
 Aktenzeichen: KfW-UEH4-2022-K-14882-PB
 
 ### Tenor

@@ -1,11 +1,11 @@
 # Kanzleinotiz – Erstgespräch Wittfeldt
 
-**Aktenzeichen:** PS-BKR-2026-0412  
-**Datum des Gesprächs:** 07.04.2026, 10:00 – 12:30 Uhr  
-**Ort:** Kanzlei Pflüger Schoeneberg Bankrecht, Am Markt 14, Bremen  
-**Gesprächsleitung:** Rechtsanwalt Dr. Severin Pflüger  
-**Anwesend:** Daniel Wittfeldt (Auftraggeber, Sohn), Eva-Maria Wittfeldt (Geschädigte)  
-**Protokoll:** Henriette Böckmann (RA-Fachangestellte)  
+**Aktenzeichen:** PS-BKR-2026-0412
+**Datum des Gesprächs:** 07.04.2026, 10:00 – 12:30 Uhr
+**Ort:** Kanzlei Pflüger Schoeneberg Bankrecht, Am Markt 14, Bremen
+**Gesprächsleitung:** Rechtsanwalt Dr. Severin Pflüger
+**Anwesend:** Daniel Wittfeldt (Auftraggeber, Sohn), Eva-Maria Wittfeldt (Geschädigte)
+**Protokoll:** Henriette Böckmann (RA-Fachangestellte)
 
 ---
 
@@ -42,19 +42,19 @@ Das Dashboard habe täglich aktuelle „Trading-Reports" gezeigt; die angebliche
 
 ### 4.1 Strafrecht
 
-- § 263 StGB (Betrug) liegt nahe: Täuschung über Existenz und Seriosität der Handelsplattform, Irrtumserregung bei EMW, Vermögensverfügung (Überweisungen), Schaden 387.420 EUR.  
-- Qualifikation § 263 Abs. 3 Nr. 1 StGB (gewerbsmäßiger Bandenbetrug) zu prüfen; angesichts des systematischen Vorgehens wahrscheinlich.  
+- § 263 StGB (Betrug) liegt nahe: Täuschung über Existenz und Seriosität der Handelsplattform, Irrtumserregung bei EMW, Vermögensverfügung (Überweisungen), Schaden 387.420 EUR.
+- Qualifikation § 263 Abs. 3 Nr. 1 StGB (gewerbsmäßiger Bandenbetrug) zu prüfen; angesichts des systematischen Vorgehens wahrscheinlich.
 - Strafanzeige bei Polizei Bremen ZKD (Zentrale Kriminalinspektion Digitale Kriminalität) zu erstatten.
 
 ### 4.2 Zivilrecht – Empfängerbanken
 
-- § 675u BGB: Erstattungsanspruch bei nicht autorisierten Zahlungsvorgängen gegen die Sparkasse als Zahlungsdienstleister; allerdings sind die Überweisungen von EMW selbst autorisiert worden → primär keine unautorisierte Zahlung.  
-- Gleichwohl: Schadensersatzansprüche nach § 675v Abs. 3 BGB (grob fahrlässige Verletzung der Sorgfaltspflichten durch Sparkasse?) sowie Mitwirkungspflichten nach §§ 25h ff. KWG (Verdachtsmeldepflicht) zu prüfen.  
+- § 675u BGB: Erstattungsanspruch bei nicht autorisierten Zahlungsvorgängen gegen die Sparkasse als Zahlungsdienstleister; allerdings sind die Überweisungen von EMW selbst autorisiert worden → primär keine unautorisierte Zahlung.
+- Gleichwohl: Schadensersatzansprüche nach § 675v Abs. 3 BGB (grob fahrlässige Verletzung der Sorgfaltspflichten durch Sparkasse?) sowie Mitwirkungspflichten nach §§ 25h ff. KWG (Verdachtsmeldepflicht) zu prüfen.
 - Bereicherungsrechtliche Ansprüche gegen Empfängerbanken (§ 812 BGB) möglicherweise durch Gutgläubigkeit gesperrt.
 
 ### 4.3 WpHG / Beratungspflichten der Sparkasse
 
-- Sieben ungewöhnliche Auslandsüberweisungen an nicht bekannte Gegenparteien, teils in Drittstaaten; Muster für Money-Mule-Überweisungen erkennbar.  
+- Sieben ungewöhnliche Auslandsüberweisungen an nicht bekannte Gegenparteien, teils in Drittstaaten; Muster für Money-Mule-Überweisungen erkennbar.
 - Prüfung, ob Sparkasse Bremen ihre Pflichten aus § 25h KWG (Pflicht zur Verdachtsmeldung nach GwG) und aus §§ 63 ff. WpHG (Anlageberatungspflichten bei konkludentem Beratungsauftrag) verletzt hat.
 
 ### 4.4 Kreditkündigung
@@ -63,7 +63,7 @@ Das Dashboard habe täglich aktuelle „Trading-Reports" gezeigt; die angebliche
 
 ### 4.5 MiCA / Stablecoin
 
-- CryptoFutureMax bewarb USDT-Stablecoins; Prüfung, ob Art. 16 MiCA (Zulassungspflicht für E-Money-Token-Emittenten) oder Annexregelungen für Asset-Referenced Tokens verletzt wurden.  
+- CryptoFutureMax bewarb USDT-Stablecoins; Prüfung, ob Art. 16 MiCA (Zulassungspflicht für E-Money-Token-Emittenten) oder Annexregelungen für Asset-Referenced Tokens verletzt wurden.
 - BaFin-Anzeige zu erstatten.
 
 ### 4.6 Schufa
@@ -76,20 +76,20 @@ Das Dashboard habe täglich aktuelle „Trading-Reports" gezeigt; die angebliche
 
 Frau Eva-Maria Wittfeldt und Daniel Wittfeldt erteilen Dr. Pflüger umfassende Vollmacht (liegt bei). Folgende Schritte werden beauftragt:
 
-1. Vollständige Kontoauszüge und alle E-Mails (inkl. Header) von CryptoFutureMax durch Daniel Wittfeldt beschaffen.  
-2. Strafanzeige bei Polizei Bremen ZKD (noch diese Woche).  
-3. BaFin-Anzeige.  
-4. Widerspruch gegen Kreditkündigung Sparkasse.  
-5. Schufa-Löschungsbegehren.  
+1. Vollständige Kontoauszüge und alle E-Mails (inkl. Header) von CryptoFutureMax durch Daniel Wittfeldt beschaffen.
+2. Strafanzeige bei Polizei Bremen ZKD (noch diese Woche).
+3. BaFin-Anzeige.
+4. Widerspruch gegen Kreditkündigung Sparkasse.
+5. Schufa-Löschungsbegehren.
 6. Prüfung PKH-Antrag für Hauptklage LG Bremen.
 
 ---
 
 ## 6. Honorarvereinbarung
 
-Stundensatz Dr. Pflüger: 350 EUR zzgl. MwSt.  
-Vorschuss: 3.500 EUR (bereits eingegangen am 09.04.2026).  
-Abrechnung: monatlich nach RVG / vereinbartem Stundensatz.  
+Stundensatz Dr. Pflüger: 350 EUR zzgl. MwSt.
+Vorschuss: 3.500 EUR (bereits eingegangen am 09.04.2026).
+Abrechnung: monatlich nach RVG / vereinbartem Stundensatz.
 PKH-Antrag für Klageverfahren wird gestellt.
 
 ---

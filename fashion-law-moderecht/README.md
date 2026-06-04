@@ -53,59 +53,36 @@ Der Einstieg ist bewusst niedrigschwellig: Uploads, Bilder, Verträge oder bloß
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Fashion-Law/Moderecht-Plugin: klärt Kollektion, Marke, Design, Lieferkette, Label, Produktsicherheit, Nachhaltigkeit, Vertrieb, Plattformen, Influencer und passende Spezialskills. |
-| `brand-enforcement-abmahnung` | Brand Enforcement und Abmahnung im Moderecht koordinieren: Marke, Design, Urheberrecht, UWG, Plattform, Zoll und PR-Risiko. |
-| `brand-und-markenportfolio` | Brand- und Markenportfolio für Modeunternehmen prüfen: Wortmarke, Logo, Monogramm, Kollektionstitel, Linienname, Klasse, Territory und Watchlist. |
-| `confidentiality-design-leak` | Design-Leak und Geheimhaltung in Modeprojekten behandeln: NDA, interne Zugriffe, Freelancer, Supplier, Presse, Social Media und Beweissicherung. |
-| `counterfeit-investigation` | Counterfeit Investigation für Fashion Brands: Testkauf, Lieferkette, Plattform, Zoll, Zahlungsströme, Belege und Eskalation. |
-| `crm-loyalty-datenschutz` | CRM, Loyalty-Programm und Datenschutz in Fashion Retail prüfen: Kundendaten, Größenprofile, Kaufhistorie, Einwilligungen, Newsletter, Profiling und Löschung. |
-| `designrecht-und-muster` | Designrecht für Kollektionen, Accessoires, Prints und Produktformen prüfen: Registerdesign, nicht eingetragenes EU-Design, Offenbarung, Saisonware und Copycats. |
-| `e-commerce-widerruf-fashion` | E-Commerce-Pflichten für Fashion prüfen: Produktinformationen, Widerruf, Größen, Retouren, Preisangaben, Button-Lösung, Verbraucherschutz und AGB. |
-| `employment-creatives-fashion` | Arbeitsrecht für Kreativteams im Fashion-Bereich prüfen: Designer, Pattern Maker, Store Staff, Überstunden, Reise, Incentives, IP und Geheimhaltung. |
-| `espr-digitaler-produktpass` | ESPR und Digital Product Passport für Mode strategisch vorbereiten: Nachhaltigkeitsdaten, Reparierbarkeit, Haltbarkeit, Materialdaten, Delegated Acts und IT-Datenmodell. |
 | `fashion-law-kaltstart-interview` | Geführtes Kaltstart-Interview für Fashion-Law-Mandate: Brand, Saison, Produktgruppe, IP, Supplier, Retail, Online, Influencer, Nachhaltigkeit und gewünschter Output. |
-| `fashion-week-event` | Fashion Week, Runway und Eventrecht prüfen: Location, Musik, Models, Sponsoren, Presse, Gästeliste, Sicherheit, Streaming und Bildrechte. |
-| `forced-labour-und-importstop` | Zwangsarbeits-, Import- und Sanktionsrisiken in der Fashion-Lieferkette prüfen: Herkunft, Baumwolle, Audits, Zoll, Nachweise und Krisenkommunikation. |
-| `foto-video-campaign-rights` | Foto-, Video- und Kampagnenrechte prüfen: Fotograf, Agentur, Stylist, Location, Musik, Requisiten, Buyout, Credits und Archivnutzung. |
-| `franchise-shop-in-shop` | Franchise, Concession und Shop-in-Shop im Fashion Retail prüfen: Markenlizenz, Store-Konzept, Personal, Warenwirtschaft, Umsatzmiete und Exit. |
-| `freelancer-designer-ip` | Freelancer-Designer, Stylisten und Kreative rechtlich steuern: Rechteübertragung, Vergütung, Portfolio-Nutzung, Geheimhaltung, Scheinselbstständigkeit und Credits. |
-| `green-claims-nachhaltigkeit` | Green Claims und Nachhaltigkeitskommunikation für Mode prüfen: recycelt, klimaneutral, vegan, fair, langlebig, Reparatur, Belege und UWG-Risiko. |
-| `handelsvertreter-und-showroom` | Handelsvertreter, Agent, Distributor und Showroom unterscheiden: Provision, Kundenstamm, Ausgleich, Exklusivität, Musterkollektion und Territory. |
-| `influencer-social-media-kampagne` | Influencer-, Creator- und Social-Media-Kampagnen prüfen: Kennzeichnung, Nutzungsrechte, Exklusivität, Briefing, Bildrechte, Plattformregeln und Krisenreaktion. |
-| `insolvenz-retail-stock` | Insolvenz, Retoure und Warenbestand im Fashion Retail prüfen: Eigentum, Kommission, Sicherheiten, Lizenzen, Outlet-Verwertung und Markenimage. |
-| `international-expansion-us-uk` | Internationale Expansion für Fashion Brands vorbereiten: EU, UK, USA, Zoll, Labeling, Produktsicherheit, IP und lokale Counsel-Fragen. |
-| `ki-virtual-try-on-models` | KI, Virtual Try-On und digitale Models prüfen: Datenschutz, Bildrechte, AI Act, Urheberrecht, Täuschungsrisiko und Trainingsdaten. |
-| `kinderkleidung-und-besondere-sicherheitsrisiken` | Kinderkleidung und besondere Sicherheitsrisiken im Fashion Law prüfen: Kordeln, Kleinteile, Entflammbarkeit, Warnhinweise, GPSR, Rückverfolgbarkeit, Online-Angebote, Reklamationen und Rückrufschwellen. |
-| `licensing-merchandising` | Licensing und Merchandising für Fashion prüfen: Markenrechte, Qualität, Produktkategorien, Approval, Royalties, Anti-Counterfeit und Territory. |
-| `lieferkette-lksg-csddd` | Lieferkette nach LkSG und CSDDD einordnen: Risikoanalyse, Beschwerdeverfahren, Supplier Code, Audit, Abhilfe, Textilrisiken und Dokumentation. |
-| `litigation-und-eilverfahren-fashion` | Litigation und Eilverfahren im Fashion-Bereich: Dringlichkeit, Saisonware, Messe, Plattformlisting, Designvergleich, Glaubhaftmachung und Vergleich. |
-| `lizenz-collaboration-co-branding` | Collaboration, Capsule Collection und Co-Branding vertraglich gestalten: Markenlizenz, Designrechte, Freigaben, Revenue Share, Ausstieg und Kommunikationsrechte. |
-| `ma-brand-acquisition` | M&A und Brand Acquisition im Fashion-Bereich prüfen: Marken, Designs, Lieferanten, Influencer-Verträge, Nachhaltigkeitsclaims, Retouren, Lager und IP-Streit. |
-| `mandantenmemo-fashion-strategie` | Mandantenmemo für Fashion-Law-Strategie erstellen: kurze Lage, Optionen, Risiken, Kosten, Timeline, Verantwortliche und nächste Entscheidungen. |
-| `manufacturing-agreement` | Manufacturing Agreement für Mode prüfen: Spezifikation, Qualität, IP, Audit, Liefertermine, Mängel, Sozialstandards, Unterauftragnehmer und Tooling. |
-| `metaverse-nft-digital-fashion` | Metaverse, NFT und Digital Fashion prüfen: virtuelle Güter, Markenklassen, Urheberrechte, Plattformbedingungen, Avatare und Consumer Claims. |
-| `model-release-persoenlichkeitsrechte` | Model Release und Persönlichkeitsrechte prüfen: Nutzungsumfang, Territory, Dauer, Buyout, Social Media, KI-Nutzung, Retusche und Widerruf. |
-| `plattformsales-dsa-marketplace` | Plattformverkauf und DSA für Fashion prüfen: Händlerdaten, Notice-and-Action, Counterfeit-Meldung, Ranking, Sperrung, Beschwerde und Wiederholungstäter. |
-| `pricing-sales-rabatte` | Rabatte, Sales, Streichpreise und Outlet-Kommunikation prüfen: Preisangaben, UWG, Omnibus-Regeln, Vergleichspreise und Irreführung. |
-| `produkthaftung-defective-garment` | Produkthaftung und Haftung für mangelhafte Modeartikel prüfen: Verletzungsrisiken, Kinderkleidung, Accessoires, Warnhinweise, Rückruf und Versicherung. |
-| `produktsicherheit-gpsr-fashion` | Produktsicherheit nach GPSR für Modeartikel prüfen: verantwortlicher Wirtschaftsakteur, Warnhinweise, Rückverfolgbarkeit, Online-Angebot, Kinderprodukte und Safety Gate. |
+| `kompendium-01-litigation-und-eilve-bis-produkthaftung-defec` | fashion-law-moderecht: Konsolidiertes Skill-Kompendium 01; bündelt 2 frühere Spezialskills (litigation-und-eilverfahren-fashion, produkthaftung-defective-garment) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-02-freelancer-designer-bis-zoll-tarif-ursprung` | fashion-law-moderecht: Konsolidiertes Skill-Kompendium 02; bündelt 2 frühere Spezialskills (freelancer-designer-ip, zoll-tarif-ursprung-mode) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-03-brand-enforcement-ab-bis-brand-und-markenport` | fashion-law-moderecht: Konsolidiertes Skill-Kompendium 03; bündelt 2 frühere Spezialskills (brand-enforcement-abmahnung, brand-und-markenportfolio) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-04-confidentiality-desi-bis-counterfeit-investig` | fashion-law-moderecht: Konsolidiertes Skill-Kompendium 04; bündelt 2 frühere Spezialskills (confidentiality-design-leak, counterfeit-investigation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-05-crm-loyalty-datensch-bis-designrecht-und-must` | fashion-law-moderecht: Konsolidiertes Skill-Kompendium 05; bündelt 2 frühere Spezialskills (crm-loyalty-datenschutz, designrecht-und-muster) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-06-e-commerce-widerruf-bis-employment-creatives` | fashion-law-moderecht: Konsolidiertes Skill-Kompendium 06; bündelt 2 frühere Spezialskills (e-commerce-widerruf-fashion, employment-creatives-fashion) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-07-espr-digitaler-produ-bis-fashion-week-event` | fashion-law-moderecht: Konsolidiertes Skill-Kompendium 07; bündelt 2 frühere Spezialskills (espr-digitaler-produktpass, fashion-week-event) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-08-forced-labour-und-im-bis-foto-video-campaign` | fashion-law-moderecht: Konsolidiertes Skill-Kompendium 08; bündelt 2 frühere Spezialskills (forced-labour-und-importstop, foto-video-campaign-rights) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-09-franchise-shop-in-sh-bis-green-claims-nachhal` | fashion-law-moderecht: Konsolidiertes Skill-Kompendium 09; bündelt 2 frühere Spezialskills (franchise-shop-in-shop, green-claims-nachhaltigkeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-10-handelsvertreter-und-bis-influencer-social-me` | fashion-law-moderecht: Konsolidiertes Skill-Kompendium 10; bündelt 2 frühere Spezialskills (handelsvertreter-und-showroom, influencer-social-media-kampagne) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-11-insolvenz-retail-sto-bis-international-expans` | fashion-law-moderecht: Konsolidiertes Skill-Kompendium 11; bündelt 2 frühere Spezialskills (insolvenz-retail-stock, international-expansion-us-uk) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-12-ki-virtual-try-on-mo-bis-kinderkleidung-und-b` | fashion-law-moderecht: Konsolidiertes Skill-Kompendium 12; bündelt 2 frühere Spezialskills (ki-virtual-try-on-models, kinderkleidung-und-besondere-sicherheitsrisiken) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-13-licensing-merchandis-bis-lieferkette-lksg-csd` | fashion-law-moderecht: Konsolidiertes Skill-Kompendium 13; bündelt 2 frühere Spezialskills (licensing-merchandising, lieferkette-lksg-csddd) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-14-lizenz-collaboration-bis-ma-brand-acquisition` | fashion-law-moderecht: Konsolidiertes Skill-Kompendium 14; bündelt 2 frühere Spezialskills (lizenz-collaboration-co-branding, ma-brand-acquisition) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-15-mandantenmemo-fashio-bis-manufacturing-agreem` | fashion-law-moderecht: Konsolidiertes Skill-Kompendium 15; bündelt 2 frühere Spezialskills (mandantenmemo-fashion-strategie, manufacturing-agreement) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-16-metaverse-nft-digita-bis-model-release-persoe` | fashion-law-moderecht: Konsolidiertes Skill-Kompendium 16; bündelt 2 frühere Spezialskills (metaverse-nft-digital-fashion, model-release-persoenlichkeitsrechte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-17-plattformsales-dsa-m-bis-pricing-sales-rabatt` | fashion-law-moderecht: Konsolidiertes Skill-Kompendium 17; bündelt 2 frühere Spezialskills (plattformsales-dsa-marketplace, pricing-sales-rabatte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-18-produktsicherheit-gp-bis-reach-chemikalien-te` | fashion-law-moderecht: Konsolidiertes Skill-Kompendium 18; bündelt 2 frühere Spezialskills (produktsicherheit-gpsr-fashion, reach-chemikalien-textilien) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-19-recall-crisis-fashio-bis-retail-pop-up-store` | fashion-law-moderecht: Konsolidiertes Skill-Kompendium 19; bündelt 2 frühere Spezialskills (recall-crisis-fashion, retail-pop-up-store) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-20-schnittmuster-und-te-bis-secondhand-resale-vi` | fashion-law-moderecht: Konsolidiertes Skill-Kompendium 20; bündelt 2 frühere Spezialskills (schnittmuster-und-tech-pack, secondhand-resale-vintage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-21-selektiver-vertrieb-bis-size-fit-retouren-un` | fashion-law-moderecht: Konsolidiertes Skill-Kompendium 21; bündelt 2 frühere Spezialskills (selektiver-vertrieb-luxus, size-fit-retouren-und-dark-patterns) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-22-supplier-quality-def-bis-sustainability-repor` | fashion-law-moderecht: Konsolidiertes Skill-Kompendium 22; bündelt 2 frühere Spezialskills (supplier-quality-defects, sustainability-reporting-esg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-23-textilkennzeichnung-bis-upcycling-repair-alt` | fashion-law-moderecht: Konsolidiertes Skill-Kompendium 23; bündelt 2 frühere Spezialskills (textilkennzeichnung-eu-1007, upcycling-repair-alteration) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-24-urheberrecht-angewan-bis-urheberrecht-angewan` | fashion-law-moderecht: Konsolidiertes Skill-Kompendium 24; bündelt 1 frühere Spezialskills (urheberrecht-angewandte-kunst) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
 | `qualitygate-fashion-law` | Qualitygate für Fashion-Law-Outputs: Normen, Register, Produktdaten, Claims, Lieferkette, Rechtsprechung, Paywall-Vermeidung und offene Tatsachen prüfen. |
-| `reach-chemikalien-textilien` | REACH, Chemikalien und Materialrisiken bei Textilien prüfen: Farbstoffe, Nickel, Formaldehyd, PFAS-Risiken, Prüfberichte und Supplier-Erklärungen. |
-| `recall-crisis-fashion` | Rückruf- und Krisenmanagement für Fashion-Produkte: GPSR, Behörden, Händler, Kundenkommunikation, Presse, Plattformen und Lessons Learned. |
-| `retail-pop-up-store` | Retail, Pop-up-Store und Shop-in-Shop rechtlich organisieren: Mietfläche, Genehmigungen, Personal, Musik, Kasse, Versicherung und Markenauftritt. |
-| `schnittmuster-und-tech-pack` | Schnittmuster, Tech Pack und Produktentwicklung rechtlich einordnen: Rechteinhaber, Know-how, Geheimhaltung, Herstellerzugang und Kopierrisiko. |
-| `secondhand-resale-vintage` | Secondhand, Resale und Vintage rechtlich prüfen: Erschöpfung, Authentizität, Reparatur, Markenimage, Plattformpflichten und Verbraucherschutz. |
-| `selektiver-vertrieb-luxus` | Selektiver Vertrieb für Luxus- und Premiumfashion gestalten: qualitative Kriterien, Plattformverbot, Händleraufnahme, Monitoring, Vertikal-GVO und Markenimage. |
-| `size-fit-retouren-und-dark-patterns` | Size/Fit, Retouren und Dark Patterns im Fashion E-Commerce prüfen: Größentabellen, virtuelle Passformberatung, Widerruf, Retourenkommunikation, irreführende Knappheit, Checkout-Friktion und Verbraucherbeschwerden. |
-| `supplier-quality-defects` | Supplier-Mängel und Qualitätsprobleme prüfen: Musterfreigabe, Toleranzen, Nähfehler, Farbabweichung, Lieferverzug, Nachbesserung und Beweisproben. |
-| `sustainability-reporting-esg` | ESG-, CSRD-/Nachhaltigkeits- und Textilstrategie-Reporting einordnen: Daten, Lieferkette, Umweltclaims, DPP-Vorbereitung und Governance. |
-| `textilkennzeichnung-eu-1007` | Textilkennzeichnung nach VO (EU) 1007/2011 prüfen: Faserbezeichnungen, Zusammensetzung, Etikett, Online-Shop, Sprache, Verantwortlichkeit und Korrektur. |
-| `upcycling-repair-alteration` | Upcycling, Reparatur und Alteration prüfen: Markenrecht, Designrecht, Urheberrecht, Erschöpfung, Irreführung und Nachhaltigkeitsclaim. |
-| `urheberrecht-angewandte-kunst` | Urheberrecht bei Mode und angewandter Kunst prüfen: Werkqualität, Gestaltungshöhe, Designerleistung, Doppelschutz und Beweisbarkeit. |
-| `zoll-tarif-ursprung-mode` | Zoll, Ursprung und Tarifierung für Modeartikel prüfen: HS-Code, Präferenzursprung, Lieferantenerklärung, Incoterms, Einfuhrumsatzsteuer und Dokumente. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

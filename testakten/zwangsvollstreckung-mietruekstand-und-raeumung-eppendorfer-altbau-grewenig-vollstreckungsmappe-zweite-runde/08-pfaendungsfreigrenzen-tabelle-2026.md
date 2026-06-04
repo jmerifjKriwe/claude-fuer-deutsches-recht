@@ -1,7 +1,7 @@
 # 08 Pfaendungsfreigrenzen-Tabelle 2026 — § 850c ZPO
 
-**Akte:** MR-2026-ZV-0188  
-**Rechtsstand:** Bekanntmachung zu § 850c ZPO — Pfaendungsfreigrenzenwert 2026 (BGBl. I 2025)  
+**Akte:** MR-2026-ZV-0188
+**Rechtsstand:** Bekanntmachung zu § 850c ZPO — Pfaendungsfreigrenzenwert 2026 (BGBl. I 2025)
 **Bearbeiter:** RA Dr. Roosendaal-Eichmueller
 
 ---
@@ -10,7 +10,7 @@
 
 Die Pfaendungsfreigrenzen gemäß § 850c ZPO werden jährlich zum 01. Juli angepasst und durch Bekanntmachung des Bundesministeriums der Justiz im Bundesgesetzblatt veröffentlicht. Massgeblich für den Berechnungszeitraum 2026 ist die Tabelle gültig ab 01.07.2025.
 
-**Grundfreibetrag (monatlich) 2026:** **1.491,75 EUR**  
+**Grundfreibetrag (monatlich) 2026:** **1.491,75 EUR**
 (entspricht dem notwendigen Selbstbehalt; früherer Wert 2024: 1.402,28 EUR)
 
 ---
@@ -61,7 +61,7 @@ Für Selbständige gilt § 850i ZPO: Das Vollstreckungsgericht kann auf Antrag d
 
 Führt der Schuldner das gepfändete Konto als P-Konto, gilt automatischer monatlicher Schutzfreibetrag von **1.491,75 EUR** (Stand 2026) unabhängig vom Inhalt des PfUEB. Der pfändbare Betrag reduziert sich entsprechend.
 
-**Erhöhung bei Unterhaltsberechtigten (§ 850k Abs. 2 ZPO):**  
+**Erhöhung bei Unterhaltsberechtigten (§ 850k Abs. 2 ZPO):**
 Schuldner muss Nachweis (Bescheinigung Arbeitgeber, Jugendamtsbescheid etc.) einreichen.
 
 Bei Carmen: Bei P-Konto und zwei Unterhaltsberechtigten — Schutzfreibetrag erhoehbar auf 2.363,80 EUR.
@@ -76,7 +76,7 @@ Kindergeld für Tochter Hilde (monatlich: 255 EUR, Stand 2026) ist **nicht pfän
 
 ## XLSX-Anlage
 
-Ausführliche Berechnung mit Sensitivitaetsanalyse und monatlichem Tilgungsplan:  
+Ausführliche Berechnung mit Sensitivitaetsanalyse und monatlichem Tilgungsplan:
 `xlsx/pfaendungsfreigrenzen-2026-berechnung.xlsx`
 
 ---

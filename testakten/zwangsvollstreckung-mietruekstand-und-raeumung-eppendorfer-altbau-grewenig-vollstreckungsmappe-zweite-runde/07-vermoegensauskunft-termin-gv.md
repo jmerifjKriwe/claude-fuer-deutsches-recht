@@ -1,7 +1,7 @@
 # 07 Vermögensauskunft — Termin Gerichtsvollzieherin § 802c ZPO
 
-**Akte:** MR-2026-ZV-0188  
-**GV-AZ:** 2026-188-DR/04711  
+**Akte:** MR-2026-ZV-0188
+**GV-AZ:** 2026-188-DR/04711
 **Termin Vermögensauskunft:** 04.02.2026, 10:00 Uhr, GV-Büro Sieveking-Allee 10 Hamburg
 
 ---
@@ -22,7 +22,7 @@
 
 Der GV Lattermann hat beiden Schuldnern den Termin zur Abgabe der Vermögensauskunft unter Fristsetzung gemäß § 802f ZPO gesondert zugestellt.
 
-**Ladung Heinrich Pohlmann-Tannenberg:** Per Postzustellung vom 15.01.2026 für 04.02.2026  
+**Ladung Heinrich Pohlmann-Tannenberg:** Per Postzustellung vom 15.01.2026 für 04.02.2026
 **Ladung Carmen Pohlmann-Tannenberg:** Per Postzustellung vom 15.01.2026 für 04.02.2026
 
 ### Inhalt der Vermögensauskunft § 802c ZPO

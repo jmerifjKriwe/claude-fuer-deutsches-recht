@@ -1,12 +1,12 @@
 # 09 — Haftprüfungsantrag § 117 StPO und Haftbeschwerde § 304 StPO
 
-**Vellbruck Strafverteidigung Koeln**  
-**An das Amtsgericht Koeln, Ermittlungsrichter** (Haftprüfungsantrag) — Az. 502 Gs 4881/26  
+**Vellbruck Strafverteidigung Koeln**
+**An das Amtsgericht Koeln, Ermittlungsrichter** (Haftprüfungsantrag) — Az. 502 Gs 4881/26
 **An das Landgericht Koeln, Strafkammer** (Haftbeschwerde) — Vorzulegen via AG
 
-Datum: 22. Mai 2026  
-In dem Ermittlungsverfahren gegen Dr. Carlsten Pellbach-Eisenacher  
-Az. StA: 122 Js 884/25  
+Datum: 22. Mai 2026
+In dem Ermittlungsverfahren gegen Dr. Carlsten Pellbach-Eisenacher
+Az. StA: 122 Js 884/25
 
 ---
 
@@ -118,9 +118,9 @@ Der Beschuldigte hat zur mündlichen Anhörung gemäß § 118 Abs. 1 StPO Stellu
 
 Mit kollegialen Gruessen
 
-**Dr. Lia Vellbruck-Eisinger**  
-Fachanwältin für Strafrecht  
-Vellbruck Strafverteidigung Koeln  
+**Dr. Lia Vellbruck-Eisinger**
+Fachanwältin für Strafrecht
+Vellbruck Strafverteidigung Koeln
 Hahnenstrasse 22, 50667 Koeln
 
 Anlagen 1-5

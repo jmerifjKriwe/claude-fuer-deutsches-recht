@@ -1,8 +1,8 @@
 # 20 Rechnung an Mandantin — Kanzleihonorar Zwangsvollstreckung
 
-**Akte:** MR-2026-ZV-0188  
-**Rechnungsdatum:** 10.02.2026  
-**Rechnungsempfänger:** Grewenig Immobilien Verwaltung GmbH  
+**Akte:** MR-2026-ZV-0188
+**Rechnungsdatum:** 10.02.2026
+**Rechnungsempfänger:** Grewenig Immobilien Verwaltung GmbH
 **Kanzlei:** Schwingenstein Roosendaal Partner mbB, Hamburg
 
 ---
@@ -48,9 +48,9 @@ Nicht angefallen (kein Gerichtstermin i.S.d. VV 3310 in diesem Zeitraum).
 
 ## Zahlungsmodalitäten
 
-**Fälligkeit:** Sofort  
-**Zahlungsziel:** 10 Tage nach Rechnungseingang  
-**Bankverbindung:** Hamburger Sparkasse, IBAN DE82 2005 0550 0011 8800 44, BIC HASPDEHHXXX  
+**Fälligkeit:** Sofort
+**Zahlungsziel:** 10 Tage nach Rechnungseingang
+**Bankverbindung:** Hamburger Sparkasse, IBAN DE82 2005 0550 0011 8800 44, BIC HASPDEHHXXX
 **Verwendungszweck:** MR-2026-ZV-0188
 
 ---
@@ -77,6 +77,6 @@ Diese Kosten werden vollumfaenglich gegen die Schuldner vollstreckt (§ 788 ZPO)
 
 ---
 
-_Schwingenstein Roosendaal Partner mbB, RA Dr. Roosendaal-Eichmueller_  
-_Jungfernstieg 44, 20354 Hamburg_  
+_Schwingenstein Roosendaal Partner mbB, RA Dr. Roosendaal-Eichmueller_
+_Jungfernstieg 44, 20354 Hamburg_
 _Steuer-Nr. 17/202/00555, USt-IdNr. DE 289 441 188_

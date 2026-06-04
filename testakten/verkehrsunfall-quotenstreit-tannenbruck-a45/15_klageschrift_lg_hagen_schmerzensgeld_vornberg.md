@@ -1,17 +1,17 @@
 # Klageschrift — LG Hagen, Schmerzensgeld Helga Vornberg (Entwurf)
 
-**Kanzlei:** Hoffmann Verkehrsrecht, Lüdenscheid  
-**Status:** ENTWURF — nicht eingereicht  
-**Erstellt:** 15.03.2026  
-**Verfahrenshinweis:** Frau Vornberg wird durch RA'in Claudia Schuster, Lüdenscheid, vertreten. Diese Klageschrift dient der internen Vorbereitung zur Abwehr bzw. Koordination der gegnerischen Klage.  
+**Kanzlei:** Hoffmann Verkehrsrecht, Lüdenscheid
+**Status:** ENTWURF — nicht eingereicht
+**Erstellt:** 15.03.2026
+**Verfahrenshinweis:** Frau Vornberg wird durch RA'in Claudia Schuster, Lüdenscheid, vertreten. Diese Klageschrift dient der internen Vorbereitung zur Abwehr bzw. Koordination der gegnerischen Klage.
 
 ---
 
-**An das**  
-**Landgericht Hagen**  
-**— Zivilkammer —**  
-Heinitzstraße 42  
-58097 Hagen  
+**An das**
+**Landgericht Hagen**
+**— Zivilkammer —**
+Heinitzstraße 42
+58097 Hagen
 
 Lüdenscheid, 15. März 2026
 
@@ -19,12 +19,12 @@ Lüdenscheid, 15. März 2026
 
 ## Klageschrift (Entwurf zum Gegner-Verfahren)
 
-**Klägerin:** Helga Vornberg, geb. 29.05.1951, Brückenstraße 7, 58507 Lüdenscheid  
-(Prozessbevollmächtigte: RA'in Claudia Schuster, Lüdenscheid)  
+**Klägerin:** Helga Vornberg, geb. 29.05.1951, Brückenstraße 7, 58507 Lüdenscheid
+(Prozessbevollmächtigte: RA'in Claudia Schuster, Lüdenscheid)
 
-**Beklagte 1:** HUK-Coburg Allgemeine Versicherungs-AG, Bahnhofsplatz 1, 96444 Coburg  
-**Beklagter 2:** Holger Tannenbruck, Herscheider Str. 44, 58507 Lüdenscheid  
-(RA Sebastian Hoffmann übernimmt Vertretung des Beklagten 2)  
+**Beklagte 1:** HUK-Coburg Allgemeine Versicherungs-AG, Bahnhofsplatz 1, 96444 Coburg
+**Beklagter 2:** Holger Tannenbruck, Herscheider Str. 44, 58507 Lüdenscheid
+(RA Sebastian Hoffmann übernimmt Vertretung des Beklagten 2)
 
 ---
 

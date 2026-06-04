@@ -1,9 +1,9 @@
 # Vertragsanalyse ProcessSpark Cloud AG — SLA-Bewertung und Pflichtverletzung
 
-**Aktenstück:** 08  
-**Datum der Analyse:** 08.–10.05.2026  
-**Mandantin:** Frischetrans Mittelrhein GmbH  
-**Gegner:** ProcessSpark Cloud AG, Leopoldstraße 88, 80802 München  
+**Aktenstück:** 08
+**Datum der Analyse:** 08.–10.05.2026
+**Mandantin:** Frischetrans Mittelrhein GmbH
+**Gegner:** ProcessSpark Cloud AG, Leopoldstraße 88, 80802 München
 **Bearbeiter:** RA Lukas Drosten, Fachanwalt für IT-Recht
 
 ---
@@ -59,11 +59,11 @@ Monatliche Vergütung: 14.800 EUR netto.
 | 28./29.04.2026 | ProcessSpark spielt den Patch tatsächlich ein (Wartungsfenster Nacht 28.04./29.04.2026) |
 | 04.05.2026 | AkiraNext nutzt CVE-2026-0712 für initialen Zugang — Patch 5 Tage zuvor war zu spät |
 
-**Verzugsdauer:** 18.02.2026 (Bekanntgabe) bis 28.04.2026 (Einspielung) = **69 Tage**  
-**Vertraglich geschuldete Frist (Critical, CVSS 9.8):** 14 Tage  
+**Verzugsdauer:** 18.02.2026 (Bekanntgabe) bis 28.04.2026 (Einspielung) = **69 Tage**
+**Vertraglich geschuldete Frist (Critical, CVSS 9.8):** 14 Tage
 **Überschreitung:** 55 Tage
 
-Alternativ gemessen an der 30-Tage-Frist für „High":  
+Alternativ gemessen an der 30-Tage-Frist für „High":
 Fälligkeitsdatum 20.03.2026 — tatsächliche Einspielung 28.04.2026 = **39 Tage Verzug**
 
 ### 2.2 CVSS-Bewertung CVE-2026-0712

@@ -1,8 +1,8 @@
 # Kundenkommunikation — Frischbäcker AG und Backhaus Süd GmbH & Co. KG
 
-**Aktenstück:** 16  
-**Datum:** 12.05.2026  
-**Mandantin:** Frischetrans Mittelrhein GmbH  
+**Aktenstück:** 16
+**Datum:** 12.05.2026
+**Mandantin:** Frischetrans Mittelrhein GmbH
 **Bearbeiter:** RA Lukas Drosten / Theresia Wallbruck
 
 ---
@@ -34,17 +34,17 @@ RA Drosten empfahl folgende Strategie:
 
 ---
 
-Frischetrans Mittelrhein GmbH  
-Binger Straße 142  
+Frischetrans Mittelrhein GmbH
+Binger Straße 142
 55131 Mainz
 
 Mainz, den 12.05.2026
 
 **Per E-Mail und Einschreiben**
 
-Frischbäcker AG  
-— Vorstand / Rechtsabteilung —  
-Industriestraße 12  
+Frischbäcker AG
+— Vorstand / Rechtsabteilung —
+Industriestraße 12
 68167 Mannheim
 
 **Betreff: Vertrauliche Information — Cyber-Sicherheitsvorfall und Datenpanne bei Frischetrans Mittelrhein GmbH — Ihre Daten betroffen**
@@ -95,15 +95,15 @@ Die Betriebsunterbrechung am 07.05.2026 hat Auswirkungen auf Ihre Lieferungen ge
 
 Für Rückfragen stehen wir Ihnen gerne zur Verfügung:
 
-Theresia Wallbruck (Geschäftsführerin): +49 6131 8820-100  
+Theresia Wallbruck (Geschäftsführerin): +49 6131 8820-100
 RA Lukas Drosten (Kanzlei Drosten & Pekonkur): +49 6131 2240-0
 
 Wir bedauern diesen Vorfall außerordentlich und stehen zu unserer Verantwortung.
 
 Mit freundlichen Grüßen
 
-Theresia Wallbruck  
-Geschäftsführerin  
+Theresia Wallbruck
+Geschäftsführerin
 Frischetrans Mittelrhein GmbH
 
 ---
@@ -112,9 +112,9 @@ Frischetrans Mittelrhein GmbH
 
 *(Inhaltlich gleichlautend mit Anpassung der Ansprechpartner und Adresse; Backhaus Süd hat gesondert Schaden gemeldet wegen Ausfall eines Samstagmorgen-Lieferfensters für Wochenendbedarf — separate Schadenserfassung läuft.)*
 
-Backhaus Süd GmbH & Co. KG  
-— Geschäftsführung / Rechtsabteilung —  
-Böblinger Str. 111  
+Backhaus Süd GmbH & Co. KG
+— Geschäftsführung / Rechtsabteilung —
+Böblinger Str. 111
 70199 Stuttgart
 
 *Versanddatum: 12.05.2026 per Einschreiben und E-Mail*
@@ -123,10 +123,10 @@ Böblinger Str. 111
 
 ## 5. Reaktion der Kunden
 
-**Frischbäcker AG:**  
+**Frischbäcker AG:**
 Eingang der Reaktion am 13.05.2026. Frischbäcker AG informiert, dass sie ihrerseits eine eigene Rechtsanwaltskanzlei mit der Prüfung möglicher Ansprüche beauftragt hat (Kanzlei Schwalm & Partner, Frankfurt). Mögliche Schadensersatzansprüche aus dem Rahmenvertrag werden angekündigt. RA Drosten prüft Haftungsrisiko Frischetrans gegenüber Frischbäcker AG.
 
-**Backhaus Süd GmbH & Co. KG:**  
+**Backhaus Süd GmbH & Co. KG:**
 Noch keine Reaktion per 14.05.2026. Telefonische Nachfrage geplant.
 
 ---

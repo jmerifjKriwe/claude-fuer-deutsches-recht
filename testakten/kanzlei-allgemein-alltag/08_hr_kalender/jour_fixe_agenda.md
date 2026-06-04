@@ -1,11 +1,11 @@
 # Jour fixe — Agenda
 
-**Datum:** 21.05.2026, 10:00 Uhr  
-**Ort:** Kanzlei Jana Reuter, Lindenstraße 14, 10969 Berlin — Besprechungsraum / alternativ Videokonferenz  
-**Leitung:** Jana Reuter  
-**Teilnehmer:** Jana Reuter (Rechtsanwältin), Mara Klein (Kanzleiassistentin), Lina Schott (Aushilfe)  
-**Protokollantin:** Mara Klein  
-**Nächster Jour fixe:** 28.05.2026 (Payroll-Jour-fixe), 04.06.2026 (regulär)  
+**Datum:** 21.05.2026, 10:00 Uhr
+**Ort:** Kanzlei Jana Reuter, Lindenstraße 14, 10969 Berlin — Besprechungsraum / alternativ Videokonferenz
+**Leitung:** Jana Reuter
+**Teilnehmer:** Jana Reuter (Rechtsanwältin), Mara Klein (Kanzleiassistentin), Lina Schott (Aushilfe)
+**Protokollantin:** Mara Klein
+**Nächster Jour fixe:** 28.05.2026 (Payroll-Jour-fixe), 04.06.2026 (regulär)
 
 ---
 
@@ -20,7 +20,7 @@
 - Liegt unterschriebene eidesstattliche Versicherung K6 vor?
 - Wer übernimmt den finalen beA-Versand bis 23.05.2026, 12:00 Uhr?
 
-**Verantwortlich:** Jana Reuter  
+**Verantwortlich:** Jana Reuter
 **Deadline:** 23.05.2026, 11:30 Uhr (Puffer 30 min vor Frist)
 
 ---
@@ -36,7 +36,7 @@
 4. 22.05.2026, 14:00 Uhr spätestens: Versand per beA. EB kontrollieren.
 5. 23.05.2026, 09:00 Uhr: EB prüfen; bei Fehlermeldung sofort handeln.
 
-**Verantwortlich:** Jana Reuter (inhaltlich), Mara Klein (Anlagenorganisation, beA-Versand)  
+**Verantwortlich:** Jana Reuter (inhaltlich), Mara Klein (Anlagenorganisation, beA-Versand)
 **Eskalation:** Bei Nichtvorliegen der Unterschrift bis 21.05.2026, 17:00 Uhr: Alternativkonzept besprechen (Glaubhaftmachung per Zeuge Lena Sturm?).
 
 ---

@@ -1,11 +1,11 @@
 # Aktenstück 01 — Mandatsübernahme Vellbruck & Partner / MedAssist AI GmbH
 
-**Kanzlei:** Vellbruck & Partner mbB, Erbprinzenstraße 14, 69117 Heidelberg  
-**Aktenzeichen:** 2026-V-0427  
-**Mandant:** MedAssist AI GmbH, Im Neuenheimer Feld 580, 69120 Heidelberg  
-**Gegenstand:** Konformitätsprüfung KI-VO (EU) 2024/1689 — MedAssist v4 (Hochrisiko-KI)  
-**Bearbeitung:** RAin Dr. Henrietta Vellbruck-Steinheim (federführend), RA Dr. Mark Roosendaal  
-**Eröffnet:** 03.03.2026  
+**Kanzlei:** Vellbruck & Partner mbB, Erbprinzenstraße 14, 69117 Heidelberg
+**Aktenzeichen:** 2026-V-0427
+**Mandant:** MedAssist AI GmbH, Im Neuenheimer Feld 580, 69120 Heidelberg
+**Gegenstand:** Konformitätsprüfung KI-VO (EU) 2024/1689 — MedAssist v4 (Hochrisiko-KI)
+**Bearbeitung:** RAin Dr. Henrietta Vellbruck-Steinheim (federführend), RA Dr. Mark Roosendaal
+**Eröffnet:** 03.03.2026
 **Frist:** 02.08.2026 (Art. 113 Abs. 1 KI-VO)
 
 ---
@@ -86,6 +86,6 @@ Die Prozess- und Außenvollmacht wurde am 03.03.2026 durch Dr. Theresia Vogelkam
 
 ---
 
-*Heidelberg, 03.03.2026*  
-*RAin Dr. Henrietta Vellbruck-Steinheim*  
+*Heidelberg, 03.03.2026*
+*RAin Dr. Henrietta Vellbruck-Steinheim*
 *Kanzlei Vellbruck & Partner mbB — Az. 2026-V-0427*

@@ -1,8 +1,8 @@
 # Kommandocenter — Schnellstart-Anleitung
 
-**Dokument:** KZ-2026-INST-001  
-**Erstellt:** 20.05.2026  
-**Verfasserin:** Jana Reuter  
+**Dokument:** KZ-2026-INST-001
+**Erstellt:** 20.05.2026
+**Verfasserin:** Jana Reuter
 **Zweck:** Einführungsleitfaden und erwartetes Systemverhalten beim ersten Aufruf des Kanzlei-Assistenten in einem neuen Mandat oder einer Routineaufgabe
 
 ---
@@ -25,7 +25,7 @@ Das Kommandocenter ist die zentrale Eingabe-Schnittstelle der Kanzlei, über die
 
 Das System gibt sofort eine Ampel-Bewertung für die Mandatsannahme nach dem Geldwäschegesetz (GwG) aus:
 
-**Ampel GELB** — Mandate mit erhöhtem Prüfaufwand (Anteilskauf mit Immobilienbezug):  
+**Ampel GELB** — Mandate mit erhöhtem Prüfaufwand (Anteilskauf mit Immobilienbezug):
 Anteilskäufe mit Grundstücksbezug sind nach § 2 Abs. 1 Nr. 7 und Nr. 10 GwG geldwäscherechtlich relevant. Vor Mandatsannahme ist eine Identifizierung des Mandanten und der wirtschaftlich Berechtigten erforderlich.
 
 Bei Hinweisen auf PEP-Status (politisch exponierte Person) oder Hochrisikoland → automatisch **ROT**.
@@ -34,13 +34,13 @@ Bei Hinweisen auf PEP-Status (politisch exponierte Person) oder Hochrisikoland �
 
 Das System stellt exakt drei Rückfragen — keine langen Checklisten, keine Skill-Aufzählung:
 
-1. **Handelt der Mandant auf eigene Rechnung?**  
+1. **Handelt der Mandant auf eigene Rechnung?**
    (Relevant für: wirtschaftlich Berechtigter nach § 3 GwG; bei Handeln für Dritte gelten verstärkte Sorgfaltspflichten)
 
-2. **Wer sind die wirtschaftlich Berechtigten, und gibt es PEP-Bezug?**  
+2. **Wer sind die wirtschaftlich Berechtigten, und gibt es PEP-Bezug?**
    (Relevant für: § 15 GwG verstärkte Sorgfaltspflichten; Transparenzregister-Abgleich erforderlich)
 
-3. **Gibt es eine konkrete Frist — Datum und Uhrzeit?**  
+3. **Gibt es eine konkrete Frist — Datum und Uhrzeit?**
    (Relevant für: Fristenkontrolle, Ressourcenplanung, Notfallprozess bei beA-Ausfall)
 
 ### 3.3 Routing nach Klärung der Rückfragen
@@ -108,7 +108,7 @@ Beispiele:
 - `2026-GMBH-001` — GmbH-/Gesellschaftsrecht Nr. 1 im Jahr 2026
 - `2026-ARB-002` — Arbeitsrecht Nr. 2 im Jahr 2026
 
-Gerichtsverfahren erhalten zusätzlich das gerichtliche Aktenzeichen, z. B.:  
+Gerichtsverfahren erhalten zusätzlich das gerichtliche Aktenzeichen, z. B.:
 `2026-MIET-004 | AG Mitte 12 C 88/26`
 
 ---

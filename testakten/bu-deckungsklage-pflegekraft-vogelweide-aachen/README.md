@@ -15,9 +15,9 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Plugin:** `fachanwalt-versicherungsrecht`  
-**Kanzlei:** Müller-Hauck Versicherungsrecht Aachen-Burtscheid  
-**Rechtsanwältin:** Dr. Annegret Müller-Hauck, Fachanwältin für Versicherungsrecht  
+**Plugin:** `fachanwalt-versicherungsrecht`
+**Kanzlei:** Müller-Hauck Versicherungsrecht Aachen-Burtscheid
+**Rechtsanwältin:** Dr. Annegret Müller-Hauck, Fachanwältin für Versicherungsrecht
 **Angelegt:** 20.02.2026 | **Stand:** 30.05.2026
 
 ---

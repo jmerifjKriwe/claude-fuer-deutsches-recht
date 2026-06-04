@@ -1,10 +1,10 @@
 # Krisenkommunikation – Entwurf Pressemitteilung und Reaktionsstrategie
 
-**Dokument-Nr.:** PRESSE-MH-2026-01  
-**Erstellt von:** Sabine Wollner (GF Kommunikation), in Abstimmung mit RA Dr. Franziska Heller  
-**Datum:** 28.05.2026  
-**Status:** Entwurf — noch nicht freigegeben  
-**Adressat:** Geschäftsführung (Freigabe vor Veröffentlichung zwingend)  
+**Dokument-Nr.:** PRESSE-MH-2026-01
+**Erstellt von:** Sabine Wollner (GF Kommunikation), in Abstimmung mit RA Dr. Franziska Heller
+**Datum:** 28.05.2026
+**Status:** Entwurf — noch nicht freigegeben
+**Adressat:** Geschäftsführung (Freigabe vor Veröffentlichung zwingend)
 
 ---
 
@@ -12,7 +12,7 @@
 
 Bevor dieser Entwurf verwendet wird, sind folgende rechtliche Constraints zu beachten:
 
-**§ 47 GwG – Vertraulichkeit der Verdachtsmeldung:**  
+**§ 47 GwG – Vertraulichkeit der Verdachtsmeldung:**
 Die Musterholding GmbH hat am 19.05.2026 eine Verdachtsmeldung an die FIU erstattet (VM-MH-2026-0041). Nach § 47 GwG ist es **verboten**, dem betroffenen Kunden (Danube Trade Solutions SRL) oder der Öffentlichkeit mitzuteilen, dass eine solche Meldung erstattet wurde oder wird. Jede öffentliche Erklärung muss daher ohne Bezug auf die Verdachtsmeldung auskommen.
 
 **Empfehlung RA Dr. Heller:** Im Zweifel keine Presseerklärung abgeben; statt einer Pressemitteilung nur eine reactive Statement vorbereiten, die nur dann eingesetzt wird, wenn die Presse aktiv anfrägt. Eine proaktive Pressemitteilung kann als Signal gewertet werden und birgt das Risiko, Ermittlungen zu kompromittieren.
@@ -65,16 +65,16 @@ Zu einzelnen Kundenvorgängen oder laufenden Prüfprozessen äußert sich die Mu
 
 Dieses Dokument dient der Vorbereitung interner Mitarbeiter auf mögliche Medienanfragen.
 
-**F: Was soll ich sagen, wenn ein Journalist mich anruft?**  
+**F: Was soll ich sagen, wenn ein Journalist mich anruft?**
 A: Geben Sie keine Auskunft. Leiten Sie die Anfrage sofort an Frau Wollner (s.wollner@musterholding.de) weiter. Keine eigene Einschätzung abgeben.
 
-**F: Was, wenn ein Kollege mich fragt, warum eine Zahlung nicht verarbeitet wurde?**  
+**F: Was, wenn ein Kollege mich fragt, warum eine Zahlung nicht verarbeitet wurde?**
 A: "Die Compliance-Abteilung prüft gerade einen regulatorischen Vorgang. Mehr kann ich dazu nicht sagen." Niemals den Namen des Kunden oder Einzelheiten der Prüfung erwähnen.
 
-**F: Darf ich auf Social Media über laufende Compliancefälle schreiben?**  
+**F: Darf ich auf Social Media über laufende Compliancefälle schreiben?**
 A: Absolut nicht. Jede Erwähnung auf Social Media — auch in privaten Konten — ist untersagt und kann straf- und haftungsrechtliche Folgen haben.
 
-**F: Ein Geschäftspartner fragt, ob wir ihn bei der Behörde gemeldet haben. Was sage ich?**  
+**F: Ein Geschäftspartner fragt, ob wir ihn bei der Behörde gemeldet haben. Was sage ich?**
 A: Nichts. Das ist eine Frage, die ausschließlich der Geldwäschebeauftragte (Thomas Eckhardt) oder die externe Anwältin (RA Dr. Heller) beantworten kann — und nach § 47 GwG grundsätzlich verneinen müssen.
 
 ---
@@ -85,9 +85,9 @@ Für die interne Kommunikation wird folgende E-Mail an alle Mitarbeiter empfohle
 
 **Entwurf interne E-Mail:**
 
-> **Von:** Klaus-Dieter Brenner, Sabine Wollner  
-> **An:** Alle Mitarbeiter  
-> **Betreff:** Hinweis zu aktuellen Compliance-Aktivitäten  
+> **Von:** Klaus-Dieter Brenner, Sabine Wollner
+> **An:** Alle Mitarbeiter
+> **Betreff:** Hinweis zu aktuellen Compliance-Aktivitäten
 >
 > Liebe Kolleginnen und Kollegen,
 >
@@ -97,7 +97,7 @@ Für die interne Kommunikation wird folgende E-Mail an alle Mitarbeiter empfohle
 >
 > Wir danken Ihnen für Ihre Diskretion und Ihr Engagement.
 >
-> Mit freundlichen Grüßen  
+> Mit freundlichen Grüßen
 > Klaus-Dieter Brenner, Sabine Wollner
 
 ---
@@ -116,5 +116,5 @@ Für die interne Kommunikation wird folgende E-Mail an alle Mitarbeiter empfohle
 
 ---
 
-*Dokument-Nr.: PRESSE-MH-2026-01 — Musterholding GmbH / Geschäftsführung*  
+*Dokument-Nr.: PRESSE-MH-2026-01 — Musterholding GmbH / Geschäftsführung*
 *Streng vertraulich — nur Geschäftsführung und beratende Anwältin*

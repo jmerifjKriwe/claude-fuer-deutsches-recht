@@ -1,7 +1,7 @@
 # Nichtigkeit nach §§ 134, 138 BGB — Gesetzesverstoß und Sittenwidrigkeit
 
-**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg  
-**Datum:** 26. April 2026  
+**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg
+**Datum:** 26. April 2026
 **Bezug:** Prüfung ob Pachtvertrag oder Container-Vertrag aus weiteren Gründen nichtig; Klausur BGB AT
 
 ---
@@ -98,8 +98,8 @@ Der BGH hat die Figur des „wucherähnlichen Rechtsgeschäfts" (§ 138 Abs. 1 B
     + Missverhältnis muss besonders auffällig sein (≥ 100 %)
 ```
 
-**Quellen:**  
-§§ 134, 138, 139, 140 BGB: https://dejure.org/gesetze/BGB/134.html  
-BGH NJW 1994, 187 (Generalklausel Sittenwidrigkeit): https://www.bundesgerichtshof.de  
-BGH NJW 2002, 429 (Wucher, 100 %-Grenze): https://openjur.de  
+**Quellen:**
+§§ 134, 138, 139, 140 BGB: https://dejure.org/gesetze/BGB/134.html
+BGH NJW 1994, 187 (Generalklausel Sittenwidrigkeit): https://www.bundesgerichtshof.de
+BGH NJW 2002, 429 (Wucher, 100 %-Grenze): https://openjur.de
 BGH NJW 2013, 1969 (Schwarzarbeit § 134 BGB): https://www.bundesgerichtshof.de

@@ -1,10 +1,10 @@
 # Strafanzeige — § 315c StGB (Gefährdung des Straßenverkehrs)
 
-**Behörde:** Kreispolizeibehörde Märkischer Kreis  
-**Strafanzeige erstattet gegen:** Holger Tannenbruck, geb. 17.03.1973, Herscheider Str. 44, 58507 Lüdenscheid  
-**Datum der Anzeige:** 12.01.2026 (Polizei) → Weiterleitung StA Hagen  
-**Aktenzeichen StA Hagen:** 83 Js 7411/26  
-**Sachbearbeiterin StA Hagen:** StA'in Dr. Petra Lehmkuhl  
+**Behörde:** Kreispolizeibehörde Märkischer Kreis
+**Strafanzeige erstattet gegen:** Holger Tannenbruck, geb. 17.03.1973, Herscheider Str. 44, 58507 Lüdenscheid
+**Datum der Anzeige:** 12.01.2026 (Polizei) → Weiterleitung StA Hagen
+**Aktenzeichen StA Hagen:** 83 Js 7411/26
+**Sachbearbeiterin StA Hagen:** StA'in Dr. Petra Lehmkuhl
 
 ---
 

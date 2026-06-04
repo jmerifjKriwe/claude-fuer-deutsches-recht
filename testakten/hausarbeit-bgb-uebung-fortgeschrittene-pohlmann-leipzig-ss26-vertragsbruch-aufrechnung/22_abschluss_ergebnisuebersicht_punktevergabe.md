@@ -1,6 +1,6 @@
 # 22 — Abschluss: Ergebnisübersicht und Punktevergabe
 
-**Bearbeiter:** Konrad Pohlmann  
+**Bearbeiter:** Konrad Pohlmann
 **Stand:** 06.06.2026 (nach Abgabe am 05.06.2026)
 
 ---
@@ -96,9 +96,9 @@ Ich gehe von einer Bewertung im Bereich **"befriedigend bis gut"** (8–12 Punkt
 
 ## V. Aktenschluss
 
-Diese Akte umfasst 22 Aktenstücke plus Anlagen (DOCX, XLSX, EML, PDF, JPG).  
-**Letzte Änderung:** 06.06.2026  
-**Bearbeiter:** Konrad Pohlmann, Matrikelnummer 5811274  
+Diese Akte umfasst 22 Aktenstücke plus Anlagen (DOCX, XLSX, EML, PDF, JPG).
+**Letzte Änderung:** 06.06.2026
+**Bearbeiter:** Konrad Pohlmann, Matrikelnummer 5811274
 **Plugin:** `hausarbeitenmacher`
 
 ---

@@ -1,7 +1,7 @@
 # 02 — NDA-Verhandlung und -Abschluss
 
-**Datum:** 20.–28. Oktober 2025  
-**Bearbeiter:** RA Dr. Saskia Altenkamp, RA Prof. Dr. Felix Mannfeldt  
+**Datum:** 20.–28. Oktober 2025
+**Bearbeiter:** RA Dr. Saskia Altenkamp, RA Prof. Dr. Felix Mannfeldt
 **Gegenpartei:** FraktoMedis SE, vertreten durch Dr. Hannes Schwarzbeck (CFO) und Rechtsanwälte Hecker, Bohn & Noll (Muenchen)
 
 ---

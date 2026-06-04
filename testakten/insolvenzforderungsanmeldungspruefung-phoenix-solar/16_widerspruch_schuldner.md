@@ -1,8 +1,8 @@
 # Schuldnerwiderspruch im Prüfungstermin – Protokollauszug
 
-**Aktenzeichen:** 35 IN 417/26  
-**Termin:** 25. Juni 2026, 10:00 Uhr, AG Potsdam, Saal 2.14  
-**Protokollführer:** Urkundsbeamtin Sabine Krüger, AG Potsdam  
+**Aktenzeichen:** 35 IN 417/26
+**Termin:** 25. Juni 2026, 10:00 Uhr, AG Potsdam, Saal 2.14
+**Protokollführer:** Urkundsbeamtin Sabine Krüger, AG Potsdam
 **Anwesend als Schuldnervertreter:** Marcus Wendler, Geschäftsführer der Phoenix Solar Montage GmbH i. Ins.
 
 ---
@@ -19,8 +19,8 @@ Der Geschäftsführer Marcus Wendler erschien ohne anwaltliche Vertretung. Er wu
 
 ### 2.1 Widerspruch gegen Solarteile Nord GmbH (IFAP-001)
 
-**Widerspruch erhoben durch:** Marcus Wendler (Schuldner)  
-**Gegen:** Forderungsanmeldung Solarteile Nord GmbH, IFAP-001, angemeldeter Betrag 28.492,20 EUR  
+**Widerspruch erhoben durch:** Marcus Wendler (Schuldner)
+**Gegen:** Forderungsanmeldung Solarteile Nord GmbH, IFAP-001, angemeldeter Betrag 28.492,20 EUR
 **Umfang des Widerspruchs:** Gesamte Forderung (Hauptforderung 28.450,20 EUR + Zinsen 42,00 EUR)
 
 **Begründung des Schuldners (wörtliche Wiedergabe aus Protokoll):**
@@ -37,7 +37,7 @@ Der Geschäftsführer Marcus Wendler erschien ohne anwaltliche Vertretung. Er wu
 | Widerspruch des Insolvenzverwalters | nein (Insolvenzverwalter hat seinerseits nur SN-2026-016 bestritten) |
 | Eintragung in Tabelle | Widerspruch Schuldner vermerkt |
 
-**Rechtsfolge für Gläubiger:**  
+**Rechtsfolge für Gläubiger:**
 Da die Solarteile Nord GmbH keinen vollstreckbaren Titel gegen die Schuldnerin besitzt, obliegt ihr gemäß § 184 Abs. 1 InsO die Erhebung einer **Feststellungsklage** gegen den widersprechenden Schuldner. Die Klage ist gemäß § 180 Abs. 2 InsO beim zuständigen ordentlichen Gericht (hier: Landgericht Potsdam, soweit Streitwert über 5.000,00 EUR) zu erheben. Die **Klagefrist** beträgt nach § 189 Abs. 1 InsO (analog) 12 Wochen ab Prüfungstermin, also bis zum **17. September 2026**.
 
 Wird keine Feststellungsklage erhoben, gilt die Forderung in Höhe des bestrittenen Betrags als nicht festgestellt und wird bei der Verteilung nicht berücksichtigt.
@@ -46,8 +46,8 @@ Wird keine Feststellungsklage erhoben, gilt die Forderung in Höhe des bestritte
 
 ### 2.2 Widerspruch gegen Lena Vogt – April-Lohn (IFAP-005 teilweise)
 
-**Widerspruch erhoben durch:** Marcus Wendler (Schuldner)  
-**Gegen:** Lohnforderung April 2026 (3.100,00 EUR), Position IFAP-005  
+**Widerspruch erhoben durch:** Marcus Wendler (Schuldner)
+**Gegen:** Lohnforderung April 2026 (3.100,00 EUR), Position IFAP-005
 **Umfang:** 3.100,00 EUR (April-Anteil)
 
 **Begründung des Schuldners (wörtliche Wiedergabe aus Protokoll):**
@@ -67,7 +67,7 @@ Wird keine Feststellungsklage erhoben, gilt die Forderung in Höhe des bestritte
 
 **Hinweis des Richters:** Der Richter wies darauf hin, dass nach arbeitsrechtlicher Praxis die Beweislast für die Abwesenheit beim Arbeitgeber liegt, wenn keine schriftliche Abmahnung oder Dokumentation vorliegt. Der Schuldner vermochte keine entsprechenden Unterlagen vorlegen.
 
-**Rechtsfolge für Gläubigerin:**  
+**Rechtsfolge für Gläubigerin:**
 Lena Vogt benötigt, soweit der Widerspruch aufrechterhalten bleibt, einen vollstreckbaren Titel oder muss Feststellungsklage gemäß § 184 InsO gegen den Schuldner erheben. Frist: **17. September 2026**. Lena Vogt wurde im Termin mündlich auf diese Frist hingewiesen.
 
 ---
@@ -129,5 +129,5 @@ Zusätzlich zum Schuldnerwiderspruch erhob der Insolvenzverwalter folgende Wider
 
 ---
 
-*Protokollauszug erstellt durch die Urkundsbeamtin der Geschäftsstelle, AG Potsdam, 25. Juni 2026.*  
+*Protokollauszug erstellt durch die Urkundsbeamtin der Geschäftsstelle, AG Potsdam, 25. Juni 2026.*
 *Doris Felgner, Kanzlei Muster & Partner – Aktennotiz erstellt 26. Juni 2026.*

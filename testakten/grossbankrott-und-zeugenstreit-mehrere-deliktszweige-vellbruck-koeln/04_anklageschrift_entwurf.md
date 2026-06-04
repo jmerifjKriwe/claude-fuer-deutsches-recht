@@ -1,8 +1,8 @@
 # 04 — Anklageschrift-Entwurf StA Koeln (Stand: 27.05.2026, Vor-Eröffnung)
 
-**Schwerpunktstaatsanwaltschaft für Wirtschaftsstrafsachen Koeln**  
-122 Js 884/25 — Bearb.: OSchA Schamoni-Wieselburg  
-Stand: Entwurf vom 27.05.2026 (interner Entwurf — Anklage noch nicht erhoben, Anhörung § 33 StPO läuft)  
+**Schwerpunktstaatsanwaltschaft für Wirtschaftsstrafsachen Koeln**
+122 Js 884/25 — Bearb.: OSchA Schamoni-Wieselburg
+Stand: Entwurf vom 27.05.2026 (interner Entwurf — Anklage noch nicht erhoben, Anhörung § 33 StPO läuft)
 
 Anmerkung Verteidigerin: Vorab-Übersendung im Rahmen Verständigungsvorgespräch 26.05.2026.
 
@@ -122,7 +122,7 @@ Die StA Koeln beantragt,
 
 **Koeln, den 27. Mai 2026**
 
-gez. **Schamoni-Wieselburg**  
+gez. **Schamoni-Wieselburg**
 Oberschwerpunkt-Staatsanwalt für Wirtschaftsstrafsachen
 
 ---

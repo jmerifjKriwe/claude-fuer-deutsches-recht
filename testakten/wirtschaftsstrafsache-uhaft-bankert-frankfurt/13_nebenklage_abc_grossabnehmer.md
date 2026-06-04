@@ -1,9 +1,9 @@
 # Nebenklage — ABC Großabnehmer SE — Aktenvermerk und Bewertung
 
-**Marx Strafverteidigung Frankfurt**  
-**Vertraulich — Anwaltsgeheimnis § 53 StPO**  
-Erstellt von: Dr. Friederike Marx  
-Datum: 08. Mai 2025  
+**Marx Strafverteidigung Frankfurt**
+**Vertraulich — Anwaltsgeheimnis § 53 StPO**
+Erstellt von: Dr. Friederike Marx
+Datum: 08. Mai 2025
 Az.: 5/28 KLs 122/25
 
 ---
@@ -12,9 +12,9 @@ Az.: 5/28 KLs 122/25
 
 Die ABC Großabnehmer SE (Sitz: Eschborn, Taunus) hat sich mit Schriftsatz vom **05. Mai 2025** dem Verfahren als Nebenklägerin angeschlossen. Die Nebenklägervertreterin ist:
 
-**Rechtsanwalt Michael Krämer**  
-Krämer Hauck Rechtsanwälte  
-Mainzer Landstraße 50  
+**Rechtsanwalt Michael Krämer**
+Krämer Hauck Rechtsanwälte
+Mainzer Landstraße 50
 60325 Frankfurt am Main
 
 Der Anschluss der Nebenklage erfolgt gemäß **§§ 395 Abs. 1, 396 StPO**. Zulässig ist die Nebenklage für Verletzte der in § 395 Abs. 1 StPO genannten Delikte. Der gewerbsmäßige Betrug (§ 263 Abs. 3 StGB) ist in § 395 Abs. 1 Nr. 1 StPO nicht direkt genannt, jedoch erfasst § 395 Abs. 3 StPO auch Verletzte bei Straftaten, die im Wege der Adhäsion Schadensersatzansprüche begründen können.
@@ -29,14 +29,14 @@ Der Anschluss der Nebenklage erfolgt gemäß **§§ 395 Abs. 1, 396 StPO**. Zul�
 
 Gleichzeitig mit dem Nebenklageanschluss wurde ein **Adäsionsantrag** gemäß **§§ 403 ff. StPO** gestellt:
 
-**Antragsteller:** ABC Großabnehmer SE, vertreten durch RA Krämer  
-**Beklagter:** Daniel Albert Bankert  
-**Antragsdatum:** 05. Mai 2025  
+**Antragsteller:** ABC Großabnehmer SE, vertreten durch RA Krämer
+**Beklagter:** Daniel Albert Bankert
+**Antragsdatum:** 05. Mai 2025
 **Geltend gemachter Schadensersatz:** **3.800.000 EUR** nebst Zinsen ab 01.01.2023 (5 Prozentpunkte über Basiszinssatz)
 
 Der Betrag weicht von der in der Anklageschrift genannten Schadenshöhe (4.300.000 EUR) ab. RA Krämer begründet dies damit, dass die ABC SE auf interne Revisionskosten und Folgeschäden zunächst verzichtet und nur den unmittelbaren Kaufpreisschaden für die als wertminder eingestuften Anlagen geltend macht.
 
-**Rechtliche Grundlage des Adäsionsantrags:**  
+**Rechtliche Grundlage des Adäsionsantrags:**
 § 403 StPO ermöglicht es Verletzten, im Strafverfahren Schadensersatzansprüche geltend zu machen. Das Gericht entscheidet gemäß § 406 StPO im Urteil, wenn dies ohne Verzögerung des Verfahrens möglich ist, andernfalls wird von der Entscheidung abgesehen (§ 406 Abs. 1 S. 4 StPO) und der Zivilrechtsweg bleibt offen.
 
 ---

@@ -1,8 +1,8 @@
 # Konzeptskizze Quartier Hafenbogen – Wärme, Strom, Speicher, Mobilität
 
-**Dokument-Nr.:** SWKK-KONZ-2024-03  
-**Stand:** 22. April 2024 (Kick-off-Meeting)  
-**Verfasser:** Dipl.-Ing. Heinrich Seltmann, Leiter Netze und Projektentwicklung, SWKK  
+**Dokument-Nr.:** SWKK-KONZ-2024-03
+**Stand:** 22. April 2024 (Kick-off-Meeting)
+**Verfasser:** Dipl.-Ing. Heinrich Seltmann, Leiter Netze und Projektentwicklung, SWKK
 **Rechtliche Begleitung:** Kanzlei Bernauer & Partnerinnen
 
 ---
@@ -102,7 +102,7 @@ Der Industriekunde (Kühlhaus) erhält einen eigenen MS-Anschluss bei der Netz­
 *Bewertung:* Regulatorisch sicher, aber teuer für Industriekunden. Entlastet SWKK von Netz­betreiberrisiken.
 
 ### Variante B: Kundenanlage (§ 3 Nr. 24a EnWG)
-Die Versorgung des Industriekunden erfolgt über eine Kunden­anlage der SWKK, die räumlich von der Wohnbebauung bis zum Kühlhaus reicht. Der Industriekunde ist Letztverbraucher innerhalb der Kundenanlage. 
+Die Versorgung des Industriekunden erfolgt über eine Kunden­anlage der SWKK, die räumlich von der Wohnbebauung bis zum Kühlhaus reicht. Der Industriekunde ist Letztverbraucher innerhalb der Kundenanlage.
 
 *Voraussetzungen:* Die Kunden­anlage darf keine allgemeine Versorgung übernehmen; die Leitungen verlaufen auf privatem Gelände oder in gesonderten Trassen. Kritisch: Das Kühlhaus­gelände grenzt an öffentliche Straße; eine Über­querung öffentlichen Straßen­raums kann die Kundenanlage-Eigenschaft ausschließen (Einzel­fall­prüfung erforderlich).
 

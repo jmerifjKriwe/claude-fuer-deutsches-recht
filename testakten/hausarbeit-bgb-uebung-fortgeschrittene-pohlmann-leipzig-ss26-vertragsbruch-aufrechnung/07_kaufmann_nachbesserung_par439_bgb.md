@@ -1,6 +1,6 @@
 # 07 — Nacherfüllung: § 439 BGB — Nachbesserung, Verweigerung, Entbehrlichkeit der Fristsetzung
 
-**Bearbeiter:** Konrad Pohlmann  
+**Bearbeiter:** Konrad Pohlmann
 **Stand:** 21.04.2026
 
 ---

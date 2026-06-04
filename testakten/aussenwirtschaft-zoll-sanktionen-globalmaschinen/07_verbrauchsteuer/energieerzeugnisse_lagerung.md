@@ -1,10 +1,10 @@
 # Verbrauchsteuer-Vermerk: Energieerzeugnisse und Steuerlagerung
 
-**Dokumenttyp:** Aktenvermerk / Verbrauchsteuerrechtliche Prüfung  
-**Aktenzeichen:** GM-VS-2026-003  
-**Erstellt:** 12. April 2026  
-**Verfasser:** Benedikt Schramm, Zollbeauftragter  
-**Adressat:** Geschäftsführung, Steuerabteilung  
+**Dokumenttyp:** Aktenvermerk / Verbrauchsteuerrechtliche Prüfung
+**Aktenzeichen:** GM-VS-2026-003
+**Erstellt:** 12. April 2026
+**Verfasser:** Benedikt Schramm, Zollbeauftragter
+**Adressat:** Geschäftsführung, Steuerabteilung
 **Rechtsgrundlage:** Energiesteuergesetz (EnergieStG), Energiesteuerdurchführungsverordnung (EnergieStV)
 
 ---

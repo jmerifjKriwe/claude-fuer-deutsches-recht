@@ -6,13 +6,13 @@
 
 ## Kopfzeile (Briefkopf Charité)
 
-**Charité – Universitätsmedizin Berlin**  
-Institut für Medizinische Immunologie  
-Fatigue-Centrum und Long-Covid-Ambulanz  
-Augustenburger Platz 1  
-13353 Berlin (Campus Virchow-Klinikum)  
-Tel.: 030 / 450 524 167  
-Leitung: **Prof. Dr. med. Carmen Scheibenbogen**  
+**Charité – Universitätsmedizin Berlin**
+Institut für Medizinische Immunologie
+Fatigue-Centrum und Long-Covid-Ambulanz
+Augustenburger Platz 1
+13353 Berlin (Campus Virchow-Klinikum)
+Tel.: 030 / 450 524 167
+Leitung: **Prof. Dr. med. Carmen Scheibenbogen**
 
 ---
 
@@ -51,15 +51,15 @@ Frau Feldermann stellt sich heute zur 8. Vorstellung in unserer Ambulanz vor. Di
 - Orthostatik: POTS-Symptomatik (Tachykardie beim Aufstehen, Schwindel, gelegentlich Präsynkopen) trotz Midodrin-Therapie weiterhin beeinträchtigend.
 - Schmerzen: Diffuse Myalgien und Arthralgien, NRS 4–6/10.
 
-**FunkcAP-Score (Functional Assessment of Chronic Illness Post-Covid):** Grad 3 von 4 (schwer)  
+**FunkcAP-Score (Functional Assessment of Chronic Illness Post-Covid):** Grad 3 von 4 (schwer)
 Erläuterung Grad 3: Patient verbringt mehr als 50 % des Tages liegend oder ruhend; deutliche Einschränkung aller Alltagsaktivitäten; kein Erwerbsarbeitspensum möglich.
 
 ---
 
 ## Klinischer Befund
 
-**Allgemeinzustand:** Reduziert, Patientin wirkt erschöpft und blass.  
-**Körpergewicht:** 62 kg (BMI 23,1). Gewichtsverlust 4 kg seit Erstvorstellung.  
+**Allgemeinzustand:** Reduziert, Patientin wirkt erschöpft und blass.
+**Körpergewicht:** 62 kg (BMI 23,1). Gewichtsverlust 4 kg seit Erstvorstellung.
 
 **Neurologisch:** Orientiert zu Person, Ort und Zeit. Konzentration deutlich eingeschränkt (Trail Making Test A: 92 s, Normwert <60 s; TMT B: 240 s, Normwert <120 s). Keine fokal-neurologischen Ausfälle.
 
@@ -98,12 +98,12 @@ Frau Feldermann leidet an einer **schweren Post-Covid-Erkrankung mit ME/CFS (Gra
 
 ---
 
-Prof. Dr. med. Carmen Scheibenbogen  
-Fachärztin für Innere Medizin, Hämatologie und Onkologie  
-Leiterin Fatigue-Centrum, Charité Berlin  
+Prof. Dr. med. Carmen Scheibenbogen
+Fachärztin für Innere Medizin, Hämatologie und Onkologie
+Leiterin Fatigue-Centrum, Charité Berlin
 12.11.2025
 
 ---
 
-*Kopie in Kanzleiakte: Aktenstück 15*  
+*Kopie in Kanzleiakte: Aktenstück 15*
 *Original bei Mandantin Feldermann*

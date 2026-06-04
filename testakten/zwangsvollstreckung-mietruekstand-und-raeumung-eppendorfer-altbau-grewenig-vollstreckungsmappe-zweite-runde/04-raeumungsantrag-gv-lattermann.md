@@ -1,25 +1,25 @@
 # 04 Räumungsantrag an Gerichtsvollzieherin Lattermann — § 885 ZPO
 
-**Akte:** MR-2026-ZV-0188  
-**An:** GV-Büro Frau OAR Lattermann, GV-AZ 2026-188-DR/04711  
+**Akte:** MR-2026-ZV-0188
+**An:** GV-Büro Frau OAR Lattermann, GV-AZ 2026-188-DR/04711
 **Datum Auftrag:** 07.01.2026
 
 ---
 
 ## Vollstreckungsauftrag Raeumung
 
-**Schwingenstein Roosendaal Partner mbB**  
-Rechtsanwälte, Notare  
-Jungfernstieg 44, 20354 Hamburg  
-Tel.: 040 / 35 73 64-0  
-Dr. Roosendaal-Eichmueller, RA  
+**Schwingenstein Roosendaal Partner mbB**
+Rechtsanwälte, Notare
+Jungfernstieg 44, 20354 Hamburg
+Tel.: 040 / 35 73 64-0
+Dr. Roosendaal-Eichmueller, RA
 AZ MR-2026-ZV-0188
 
-An:  
-**Frau OAR Lattermann**  
-Gerichtsvollzieherin  
-Bezirk Hamburg-Eimsbuettel  
-Sieveking-Allee 10, 20355 Hamburg  
+An:
+**Frau OAR Lattermann**
+Gerichtsvollzieherin
+Bezirk Hamburg-Eimsbuettel
+Sieveking-Allee 10, 20355 Hamburg
 GV-AZ 2026-188-DR/04711
 
 Hamburg, 07. Januar 2026
@@ -34,7 +34,7 @@ Wir vertreten die Gläubigerin
 
 und beauftragen Sie, gegen die Schuldner
 
-> **1. Heinrich Pohlmann-Tannenberg**, Eppendorfer Weg 188, 1. OG links, 20251 Hamburg  
+> **1. Heinrich Pohlmann-Tannenberg**, Eppendorfer Weg 188, 1. OG links, 20251 Hamburg
 > **2. Carmen Pohlmann-Tannenberg geb. Sieverding**, ebenda
 
 auf Grundlage des Urteils des **AG Hamburg-Altona vom 12.11.2025 — 188 C 4711/25** die **Raeumung und Herausgabe** der Wohnung
@@ -86,6 +86,6 @@ Gemass § 5 GvKostG wurde ein Gebührenvorschuss von **300 EUR** (Verrechnungssc
 
 ---
 
-Mit freundlichen kollegialen Gruessen  
-**Schwingenstein Roosendaal Partner mbB**  
+Mit freundlichen kollegialen Gruessen
+**Schwingenstein Roosendaal Partner mbB**
 RA Dr. Roosendaal-Eichmueller

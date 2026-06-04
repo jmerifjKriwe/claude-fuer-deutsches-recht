@@ -1,8 +1,8 @@
 # 03 — Patentanalyse EP 3 218 922 B1: Anspruchsauslegung, Verletzungsprüfung und Äquivalenz
 
-**Aktenzeichen intern:** VM-2026-GR-001  
-**Datum:** 03. Februar 2026  
-**Bearbeiter:** PatAnw. Dr. Rolf Gruhl (Gruhl & Teichmann) / RA Dr. Birkenhainer  
+**Aktenzeichen intern:** VM-2026-GR-001
+**Datum:** 03. Februar 2026
+**Bearbeiter:** PatAnw. Dr. Rolf Gruhl (Gruhl & Teichmann) / RA Dr. Birkenhainer
 **Grundlage:** EP 3 218 922 B1, Erteilungsschrift (Stand Erteilung 22.03.2018), Prüfungsakte EPA; Technische Unterlagen TitanFlex Pro (Bochstaedt Produktdokumentation, Anlage A-05)
 
 ---
@@ -19,11 +19,11 @@ Die technische Bedeutung liegt in der verbesserten osseointegration: Die poröse
 
 Der Hauptanspruch 1 des EP 3 218 922 B1 lautet (deutsche Übersetzung nach Art. 14 Abs. 7 EPÜ, Anlage A-06):
 
-> *Schaftimplantat für eine Hüftendoprothese, aufweisend:*  
-> *(a) einen länglichen Schaftkörper aus einer Titanlegierung, der einen proximalen Abschnitt und einen distalen Abschnitt aufweist;*  
-> *(b) eine an dem proximalen Abschnitt ausgebildete poröse Oberflächenstruktur, wobei die Porosität im Bereich von 65 % bis 75 % liegt;*  
-> *(c) eine mittlere Porengröße der porösen Oberflächenstruktur im Bereich von 400 µm bis 600 µm;*  
-> *(d) zumindest zwei seitlich angeordnete Stützrippen (Fins) im distalen Abschnitt, die jeweils einen Neigungswinkel von 8° bis 15° zur Längsachse des Schaftkörpers aufweisen;*  
+> *Schaftimplantat für eine Hüftendoprothese, aufweisend:*
+> *(a) einen länglichen Schaftkörper aus einer Titanlegierung, der einen proximalen Abschnitt und einen distalen Abschnitt aufweist;*
+> *(b) eine an dem proximalen Abschnitt ausgebildete poröse Oberflächenstruktur, wobei die Porosität im Bereich von 65 % bis 75 % liegt;*
+> *(c) eine mittlere Porengröße der porösen Oberflächenstruktur im Bereich von 400 µm bis 600 µm;*
+> *(d) zumindest zwei seitlich angeordnete Stützrippen (Fins) im distalen Abschnitt, die jeweils einen Neigungswinkel von 8° bis 15° zur Längsachse des Schaftkörpers aufweisen;*
 > *(e) wobei die poröse Oberflächenstruktur durch selektives Lasersintern hergestellt ist.*
 
 Unteransprüche 2–18 konkretisieren die Legierungszusammensetzung (Anspruch 2: Ti-6Al-4V ELI), die Fin-Geometrie (Anspruch 4: drei Fins), die distale Keilform (Anspruch 6), das Herstellungsverfahren (Anspruch 9–12) sowie das Hüftgelenkssystem (Anspruch 14–18).

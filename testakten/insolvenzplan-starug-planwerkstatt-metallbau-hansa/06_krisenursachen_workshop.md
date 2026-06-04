@@ -1,11 +1,11 @@
 # Krisenursachen-Workshop – Metallbau Hansa GmbH
 
-**Aktenzeichen:** MH-2026-001  
-**Datum:** 19. Mai 2026, 09:00–16:30 Uhr  
-**Ort:** Konferenzraum "Elbe", Kanzlei Westphal & Partner, Hamburg  
-**Moderatorin:** RA Dr. Karolin Westphal  
-**Teilnehmende:** Anna Reimers (GF), Lukas Petersen (GF), Björn Hollender (CFO), Karin Metzger (Betriebsratsvorsitzende, 14:00–15:00 Uhr), Rainer Buchholz (Herstellungsleiter, 09:00–12:00 Uhr)  
-**Methode:** Ursachen-Wirkungs-Analyse (Ishikawa), ergänzt durch SWOT-Kurzfassung  
+**Aktenzeichen:** MH-2026-001
+**Datum:** 19. Mai 2026, 09:00–16:30 Uhr
+**Ort:** Konferenzraum "Elbe", Kanzlei Westphal & Partner, Hamburg
+**Moderatorin:** RA Dr. Karolin Westphal
+**Teilnehmende:** Anna Reimers (GF), Lukas Petersen (GF), Björn Hollender (CFO), Karin Metzger (Betriebsratsvorsitzende, 14:00–15:00 Uhr), Rainer Buchholz (Herstellungsleiter, 09:00–12:00 Uhr)
+**Methode:** Ursachen-Wirkungs-Analyse (Ishikawa), ergänzt durch SWOT-Kurzfassung
 
 ---
 

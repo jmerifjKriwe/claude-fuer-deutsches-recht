@@ -1,7 +1,7 @@
 # Bestellung, Rechnung, AGB-Auszug
 
-**Verkäuferin:** Elektrohaus Brückner GmbH, Hohenzollernring 71, 50672 Köln  
-**Rechnung:** EB-2024-44172 vom 18.04.2024  
+**Verkäuferin:** Elektrohaus Brückner GmbH, Hohenzollernring 71, 50672 Köln
+**Rechnung:** EB-2024-44172 vom 18.04.2024
 **Ware:** VestaCool FR-900 SmartCooling, Edelstahl matt, Seriennummer VC-FR900-24-0418-77A
 
 | Position | Betrag |

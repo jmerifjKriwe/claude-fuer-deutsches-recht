@@ -1,23 +1,23 @@
 # Widerspruch gegen Sicherstellung von Mandatsdaten — § 97, § 148 StPO
 
-**Marx Strafverteidigung Frankfurt**  
-Dr. Friederike Marx, Fachanwältin für Strafrecht  
-Bockenheimer Landstraße 84  
+**Marx Strafverteidigung Frankfurt**
+Dr. Friederike Marx, Fachanwältin für Strafrecht
+Bockenheimer Landstraße 84
 60323 Frankfurt am Main
 
-An das  
-**Amtsgericht Frankfurt am Main**  
-— Ermittlungsrichterin —  
-z.Hd. Frau Dr. Carolin Mayer  
-Gerichtsstraße 2  
+An das
+**Amtsgericht Frankfurt am Main**
+— Ermittlungsrichterin —
+z.Hd. Frau Dr. Carolin Mayer
+Gerichtsstraße 2
 60313 Frankfurt am Main
 
 Frankfurt am Main, **12. März 2025**
 
 ---
 
-**Az. AG Frankfurt: 942 Gs 2847/25**  
-**Az. StA Frankfurt: 5400 Js 14782/24**  
+**Az. AG Frankfurt: 942 Gs 2847/25**
+**Az. StA Frankfurt: 5400 Js 14782/24**
 **Betreff: Widerspruch und Antrag auf Aufhebung der Sicherstellungsmaßnahme vom 11.03.2025**
 
 ---
@@ -26,7 +26,7 @@ Sehr geehrte Frau Richterin Dr. Mayer,
 
 ich erhebe hiermit fristwahrend **Widerspruch** nach **§ 98 Abs. 2 StPO** gegen die bei der Durchsuchung meiner Kanzleiräume am 11. März 2025 (Az. 942 Gs 2847/25) vorgenommene Sicherstellung der unter Asservatennummern 2025/03/11-001 bis 2025/03/11-006 erfassten Gegenstände und beantrage,
 
-1. sämtliche sichergestellten Gegenstände **unverzüglich zurückzugeben** (§ 98 Abs. 2 S. 2 StPO),  
+1. sämtliche sichergestellten Gegenstände **unverzüglich zurückzugeben** (§ 98 Abs. 2 S. 2 StPO),
 2. hilfsweise: die Entscheidung über die Beschlagnahmefähigkeit **dem zuständigen Strafrichter** vorzubehalten und bis zur Entscheidung alle Gegenstände unter richterlichem Siegel zu belassen,
 3. der Staatsanwaltschaft **jede Kenntnisnahme** vom Inhalt der sichergestellten Gegenstände bis zur rechtskräftigen Entscheidung zu untersagen.
 
@@ -78,19 +78,19 @@ Ich beantrage, **mindestens** die Rückgabe der digitalen Datenträger oder ihre
 
 ## D. Anträge (zusammengefasst)
 
-1. **Sofortige Rückgabe** der sichergestellten Gegenstände Asserv. 2025/03/11-001 bis -006, hilfsweise  
-2. **Richterliche Siegelung** bis zur gerichtlichen Entscheidung über Beschlagnahmefähigkeit,  
-3. **Vollständiges Verwertungsverbot** für alle bis zur Entscheidung etwa bereits gewonnenen Erkenntnisse,  
+1. **Sofortige Rückgabe** der sichergestellten Gegenstände Asserv. 2025/03/11-001 bis -006, hilfsweise
+2. **Richterliche Siegelung** bis zur gerichtlichen Entscheidung über Beschlagnahmefähigkeit,
+3. **Vollständiges Verwertungsverbot** für alle bis zur Entscheidung etwa bereits gewonnenen Erkenntnisse,
 4. **Richterlicher Sachverständiger** für digitale Datenauswertung bei Entscheidung über Teilfreigabe.
 
 Ich behalte mir weitere Rechtsbehelfe, insbesondere eine Verfassungsbeschwerde, ausdrücklich vor.
 
 Mit freundlichen kollegialen Grüßen
 
-**Dr. Friederike Marx**  
+**Dr. Friederike Marx**
 Fachanwältin für Strafrecht
 
 ---
 
-*Az. AG Frankfurt: 942 Gs 2847/25 — Az. StA: 5400 Js 14782/24*  
+*Az. AG Frankfurt: 942 Gs 2847/25 — Az. StA: 5400 Js 14782/24*
 *Schriftsatz Marx Strafverteidigung Frankfurt, 12.03.2025*

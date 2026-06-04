@@ -1,7 +1,7 @@
 # 11 — Beweisaufnahme: Zeugen, Gutachter und Beweisanträge
 
-**Erstellt:** 20.05.2026  
-**Bearbeiter:** RAin Sophie Wenderlich  
+**Erstellt:** 20.05.2026
+**Bearbeiter:** RAin Sophie Wenderlich
 **AZ:** SU/DOPING/2026-001 / DSGSp 12/26
 
 ---

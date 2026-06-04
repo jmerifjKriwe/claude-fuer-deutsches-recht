@@ -4,10 +4,10 @@
 
 Nach Korrektur des zu breiten Auftraggebertextes soll die Agentur monatlich prüfen, ob der öffentliche Registereintrag die Mandate HansaH2 Storage AG und Nordsee Elektrolyse Konsortium GbR sauber trennt und ob die grundlegenden Stellungnahmen nach Quartalsupload sichtbar sind.
 
-Verantwortlich intern: Malte Kruschke, Compliance Operations  
-Verantwortlich Kanzlei: RA Dr. Theodor Albrecht  
-Registernummer Agentur: R008442  
-Monitoring-Start: 05.07.2026  
+Verantwortlich intern: Malte Kruschke, Compliance Operations
+Verantwortlich Kanzlei: RA Dr. Theodor Albrecht
+Registernummer Agentur: R008442
+Monitoring-Start: 05.07.2026
 Takt: monatlich und zusätzlich nach jedem Quartalsupload
 
 ## Suchprofil

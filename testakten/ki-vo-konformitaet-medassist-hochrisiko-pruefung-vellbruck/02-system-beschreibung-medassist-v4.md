@@ -1,8 +1,8 @@
 # Aktenstück 02 — Systembeschreibung MedAssist v4
 
-**Aktenzeichen:** 2026-V-0427  
-**Erstellt:** 12.03.2026 (nach Übermittlung technischer Unterlagen durch CTO Krishnamurthy)  
-**Bearbeitung:** RA Dr. Mark Roosendaal  
+**Aktenzeichen:** 2026-V-0427
+**Erstellt:** 12.03.2026 (nach Übermittlung technischer Unterlagen durch CTO Krishnamurthy)
+**Bearbeitung:** RA Dr. Mark Roosendaal
 **Grundlage:** Technische Dokumentation MedAssist v4, Version 2.3 (interne Kennung: MA-TECH-DOC-2024-v4.2.3), übermittelt 08.03.2026
 
 ---
@@ -113,5 +113,5 @@ Dieses Aktenstück fasst die von MedAssist AI GmbH übermittelte technische Doku
 
 ---
 
-*Heidelberg, 12.03.2026*  
+*Heidelberg, 12.03.2026*
 *RA Dr. Mark Roosendaal — Az. 2026-V-0427*

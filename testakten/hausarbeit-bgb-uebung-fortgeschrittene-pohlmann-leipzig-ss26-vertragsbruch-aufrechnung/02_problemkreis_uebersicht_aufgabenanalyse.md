@@ -1,6 +1,6 @@
 # 02 — Problemkreis-Übersicht und Aufgabenanalyse
 
-**Bearbeiter:** Konrad Pohlmann, 7. Semester  
+**Bearbeiter:** Konrad Pohlmann, 7. Semester
 **Stand:** 14.04.2026 (Notizen nach erster Lektüre des Sachverhalts)
 
 ---

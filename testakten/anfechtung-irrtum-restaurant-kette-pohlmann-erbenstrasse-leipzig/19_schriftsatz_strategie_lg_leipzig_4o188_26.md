@@ -1,7 +1,7 @@
 # Prozessuale Strategie — LG Leipzig 4 O 188/26 (Pachtanfechtung)
 
-**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg  
-**Datum:** 06. Mai 2026  
+**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg
+**Datum:** 06. Mai 2026
 **Bezug:** Pachtanfechtungsklage; Gegenklagestrategie Ratschke; Vorbereitung Klagerwiderung / Klage
 
 ---
@@ -100,8 +100,8 @@ Tatsächlich: Bei unbestimmter Laufzeit gilt 3,5-facher Jahreswert = 3,5 × 12 �
 | Sachverständigengutachten Pharmakologie | Bestellt, Ergebnis bis 31.05.2026 | Vorlage an Gericht nach Eingang |
 | Güteverhandlung (voraussichtlich) | August/September 2026 | Vorbereitung Vergleichsgespräch |
 
-**Quellen:**  
-§§ 256, 261 ff. ZPO (Feststellungsklage, Streitwert): https://dejure.org/gesetze/ZPO  
-§ 9 ZPO (Streitwert Pacht): https://dejure.org/gesetze/ZPO/9.html  
-BGH NJW 2008, 3352 (Unverzüglichkeit): https://www.bundesgerichtshof.de  
+**Quellen:**
+§§ 256, 261 ff. ZPO (Feststellungsklage, Streitwert): https://dejure.org/gesetze/ZPO
+§ 9 ZPO (Streitwert Pacht): https://dejure.org/gesetze/ZPO/9.html
+BGH NJW 2008, 3352 (Unverzüglichkeit): https://www.bundesgerichtshof.de
 GKG-Kommentar, Hartmann, 50. Aufl. 2025, § 41 GKG (Pachtstreitigkeiten)

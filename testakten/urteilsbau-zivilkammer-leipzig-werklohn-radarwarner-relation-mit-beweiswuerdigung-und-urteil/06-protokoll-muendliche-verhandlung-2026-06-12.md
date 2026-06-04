@@ -1,7 +1,7 @@
 # 06 — Protokoll Mündliche Verhandlung 12.06.2026
 
-**AZ:** 8 O 188/26  
-**Termin:** 12.06.2026, 09:30 Uhr, Saal 3.14, LG Leipzig  
+**AZ:** 8 O 188/26
+**Termin:** 12.06.2026, 09:30 Uhr, Saal 3.14, LG Leipzig
 **Protokollführerin:** Lattermann, Justizfachangestellte
 
 ---

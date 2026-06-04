@@ -1,8 +1,8 @@
 # Aktenstück 22 – Kostenrechnung und Verfahrenskosten
 
-**Aktenzeichen:** VK 1-32/26 / Verg 18/26  
-**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026  
-**Datum:** 01.07.2026  
+**Aktenzeichen:** VK 1-32/26 / Verg 18/26
+**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026
+**Datum:** 01.07.2026
 **Erstellt von:** Kanzlei Bährens Vergaberecht (für CyberShield Defense GmbH)
 
 ---
@@ -19,16 +19,16 @@ Die Vergabekammer berechnet die Verfahrensgebühr nach dem Auftragswert gem. § 
 | 250.001 – 1 Mio. EUR | 2.500 EUR + 1% des Mehrbetrags | — |
 | 1 Mio. EUR – 10 Mio. EUR | 10.000 EUR + 0,5% des Mehrbetrags über 1 Mio. EUR | **Gesamtauftragswert 2.800.000 EUR** |
 
-Berechnung:  
-- Grundgebühr: 10.000 EUR  
-- Mehrbetrag: 1.800.000 EUR × 0,5% = 9.000 EUR  
+Berechnung:
+- Grundgebühr: 10.000 EUR
+- Mehrbetrag: 1.800.000 EUR × 0,5% = 9.000 EUR
 - **Verfahrensgebühr gesamt: 19.000 EUR** (Maximum; VK hat auf 6.250 EUR reduziert gem. § 182 Abs. 3 GWB – Vereinfachungsabschlag wegen Vergleichsbemühungen)
 
 Gemäß VK-Beschluss (Tenor IV): Kostenlast bei Antragsgegnerin.
 
 ### 2. Anwaltliche Kosten Antragstellerin (CyberShield)
 
-**Gegenstandswert:** 2.800.000 EUR  
+**Gegenstandswert:** 2.800.000 EUR
 (Auftragswert, maßgeblich für Vergabeverfahren gem. § 22 Abs. 2 RVG)
 
 | Gebührenposition | Gebührensatz | Betrag |

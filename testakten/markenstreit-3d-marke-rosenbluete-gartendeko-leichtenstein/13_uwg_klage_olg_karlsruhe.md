@@ -1,9 +1,9 @@
 # 13 — UWG-Verfahren OLG Karlsruhe 6 U 41/26: Rufausbeutung und Schleichwerbung
 
-**Bearbeiter:** RA Philipp Mertens-Waldhausen  
-**Datum:** 15. Juni 2026  
-**Aktenzeichen:** OLG Karlsruhe 6 U 41/26  
-**Senat:** 6. Zivilsenat (Wettbewerbssachen)  
+**Bearbeiter:** RA Philipp Mertens-Waldhausen
+**Datum:** 15. Juni 2026
+**Aktenzeichen:** OLG Karlsruhe 6 U 41/26
+**Senat:** 6. Zivilsenat (Wettbewerbssachen)
 
 ---
 
@@ -31,7 +31,7 @@ Drittens liegt keine Meinungsäußerung (Art. 5 GG) vor, auf die sich der Beklag
 
 Das LG München I hat dem Beklagten Recht verweigert und Schleichwerbung gemäß § 5a Abs. 4 UWG bejaht. Der Beklagte trägt in seiner Berufung vor, die Affiliate-Links seien für den Durchschnittsverbraucher als Werbung erkennbar gewesen, weil im Link-Text das Wort „Partnerlink" in Kleinbuchstaben gestanden habe.
 
-**Erwiderung der Klägerin:**  
+**Erwiderung der Klägerin:**
 Der BGH hat in Influencer I (GRUR 2021, 1400) und Influencer II (GRUR 2022, 163) unmissverständlich klargestellt, dass der kommerzielle Charakter durch klar sichtbare Bezeichnungen wie „WERBUNG" oder „Anzeige" kenntlich gemacht werden muss. Die Verwendung von „Partnerlink" in Kleinbuchstaben im URL genügt diesen Anforderungen nicht.
 
 ## 3. Kernfragen für das Berufungsgericht
@@ -75,5 +75,5 @@ Das OLG Karlsruhe hat in vergleichbaren Influencer-Fällen (zuletzt OLG Karlsruh
 
 ---
 
-**Erstellt von:** RA Philipp Mertens-Waldhausen  
+**Erstellt von:** RA Philipp Mertens-Waldhausen
 **Datum:** 15. Juni 2026

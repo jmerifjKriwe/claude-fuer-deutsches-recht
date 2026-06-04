@@ -1,7 +1,7 @@
 # 17 — Persönlichkeitsrechtsverletzung durch BILD-Schlagzeile „Doping-Selin"
 
-**Erstellt:** 16.03.2026  
-**Bearbeiter:** RA Prof. Dr. Markus Lentze  
+**Erstellt:** 16.03.2026
+**Bearbeiter:** RA Prof. Dr. Markus Lentze
 **AZ:** SU/DOPING/2026-001 / LG Berlin 27 O 411/26
 
 ---

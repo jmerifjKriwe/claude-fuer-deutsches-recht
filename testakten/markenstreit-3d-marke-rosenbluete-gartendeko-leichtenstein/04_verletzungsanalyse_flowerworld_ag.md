@@ -1,8 +1,8 @@
 # 04 — Verletzungsanalyse: FlowerWorld AG — Verwechslungsgefahr und § 14 MarkenG
 
-**Bearbeiter:** RA Philipp Mertens-Waldhausen  
-**Datum:** 19. April 2026  
-**Verfahren:** LG Mannheim 7 O 88/26 (Hauptsacheklage und eV-Verfahren)  
+**Bearbeiter:** RA Philipp Mertens-Waldhausen
+**Datum:** 19. April 2026
+**Verfahren:** LG Mannheim 7 O 88/26 (Hauptsacheklage und eV-Verfahren)
 
 ---
 
@@ -113,5 +113,5 @@ Erstattung der Abmahnkosten und der Verfahrenskosten.
 
 ---
 
-**Erstellt von:** RA Philipp Mertens-Waldhausen  
+**Erstellt von:** RA Philipp Mertens-Waldhausen
 **Datum:** 19. April 2026

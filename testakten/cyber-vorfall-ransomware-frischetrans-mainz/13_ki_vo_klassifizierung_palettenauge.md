@@ -1,9 +1,9 @@
 # KI-Verordnung — Klassifizierung und Konformitätsbewertung „PalettenAuge AI"
 
-**Aktenstück:** 13  
-**Datum:** 12.05.2026  
-**Mandantin:** Frischetrans Mittelrhein GmbH  
-**Anbieter des KI-Systems:** DachAuge GmbH, Rosenthaler Str. 34, 10178 Berlin  
+**Aktenstück:** 13
+**Datum:** 12.05.2026
+**Mandantin:** Frischetrans Mittelrhein GmbH
+**Anbieter des KI-Systems:** DachAuge GmbH, Rosenthaler Str. 34, 10178 Berlin
 **Bearbeiter:** RA Lukas Drosten, Fachanwalt für IT-Recht
 
 ---
@@ -41,7 +41,7 @@ Die Verordnung (EU) 2024/1689 des Europäischen Parlaments und des Rates über k
 
 **Nr. 3 — Allgemeine und berufliche Bildung:** Nicht anwendbar.
 
-**Nr. 4 — Beschäftigung, Personalmanagement und Zugang zur Selbstständigkeit:**  
+**Nr. 4 — Beschäftigung, Personalmanagement und Zugang zur Selbstständigkeit:**
 ☑ **EINSCHLÄGIG**
 
 Art. 6 Abs. 2 i.V.m. Anhang III Nr. 4 lit. a) und b) KI-VO erfasst KI-Systeme, die bei der **Einstellung oder Auswahl natürlicher Personen** oder für **Entscheidungen über Arbeitsbedingungen, Beförderungen und Kündigungen** eingesetzt werden.

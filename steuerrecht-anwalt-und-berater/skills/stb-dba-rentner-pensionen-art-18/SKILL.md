@@ -156,10 +156,10 @@ Sachverhalt: Rentner, Wohnsitz Spanien seit 2024, bezieht 30.000 EUR DRV-Rente b
 | Position | Wert |
 |---|---|
 | DRV-Rente brutto | 30.000 EUR |
-| DBA-Spanien Art. 17 (DBA-ES 2011) | Wohnsitzstaat Spanien besteuert | 
+| DBA-Spanien Art. 17 (DBA-ES 2011) | Wohnsitzstaat Spanien besteuert |
 | Quellensteuer DE | 0 EUR (DBA gewaehrt ausschliessliches Besteuerungsrecht Spanien) |
 | Spanische ESteuer (progressiv, Stand 2026) | Annahme Durchschnittssatz 19-30 Prozent | abhaengig Gesamteinkommen |
-| Antrag in DE beim FA Neubrandenburg auf Freistellung von KapErtSt-Pflicht | vorab | 
+| Antrag in DE beim FA Neubrandenburg auf Freistellung von KapErtSt-Pflicht | vorab |
 | § 50d Abs. 9 EStG-Risiko | gering bei normaler ES-Besteuerung; bei Sonderregime "ley Beckham" prüfen |
 | § 22 Nr. 1 EStG-Anteil (Versorgungsanteil) | nicht anwendbar, da Wohnsitz Spanien — ES-Recht greift |
 

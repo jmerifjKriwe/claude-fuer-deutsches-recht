@@ -1,7 +1,7 @@
 # 03 — Letter of Intent (LOI) und Term Sheet
 
-**Datum:** 10. November 2025  
-**Bearbeiter:** RA Prof. Dr. Felix Mannfeldt, RAin Dr. Antonia von Wesselburen  
+**Datum:** 10. November 2025
+**Bearbeiter:** RA Prof. Dr. Felix Mannfeldt, RAin Dr. Antonia von Wesselburen
 **Status:** Unterzeichnet von beiden Seiten
 
 ---

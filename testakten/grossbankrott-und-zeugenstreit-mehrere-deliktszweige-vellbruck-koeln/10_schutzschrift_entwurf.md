@@ -1,9 +1,9 @@
 # 10 — Schutzschrift-Entwurf vor Eröffnungsbeschluss (intern)
 
-**Vellbruck Strafverteidigung Koeln**  
-**Vertraulich — Entwurf, noch nicht versandt — Stand: 30.05.2026**  
-An: Landgericht Koeln, Wirtschaftsstrafkammer — Vorzulegen via StA  
-In dem Ermittlungsverfahren gegen Dr. Carlsten Pellbach-Eisenacher  
+**Vellbruck Strafverteidigung Koeln**
+**Vertraulich — Entwurf, noch nicht versandt — Stand: 30.05.2026**
+An: Landgericht Koeln, Wirtschaftsstrafkammer — Vorzulegen via StA
+In dem Ermittlungsverfahren gegen Dr. Carlsten Pellbach-Eisenacher
 Az. StA: 122 Js 884/25 / Vorauss. Az. LG: 117 KLs 14/26
 
 ---
@@ -167,5 +167,5 @@ Wir beantragen,
 
 Mit kollegialen Gruessen
 
-**Dr. Lia Vellbruck-Eisinger**  
+**Dr. Lia Vellbruck-Eisinger**
 Fachanwältin für Strafrecht

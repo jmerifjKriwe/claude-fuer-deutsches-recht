@@ -1,12 +1,12 @@
 # Risikoanalyse 2026 – Musterholding GmbH
 
-**Dokument-Nr.:** RA-MH-2026-02  
-**Version:** 2.0 (ersetzt Version 1.0 vom 15.03.2024)  
-**Erstellt von:** Thomas Eckhardt (Geldwäschebeauftragter), unter Mitwirkung von RA Dr. Franziska Heller  
-**Genehmigt durch:** Klaus-Dieter Brenner, Sabine Wollner (Geschäftsführung)  
-**Datum Genehmigung:** 15.05.2026  
-**Nächste Überprüfung:** 15.05.2027 (oder anlassbezogen)  
-**Rechtsgrundlage:** § 5 GwG, § 6 GwG, FATF-Empfehlungen 2023  
+**Dokument-Nr.:** RA-MH-2026-02
+**Version:** 2.0 (ersetzt Version 1.0 vom 15.03.2024)
+**Erstellt von:** Thomas Eckhardt (Geldwäschebeauftragter), unter Mitwirkung von RA Dr. Franziska Heller
+**Genehmigt durch:** Klaus-Dieter Brenner, Sabine Wollner (Geschäftsführung)
+**Datum Genehmigung:** 15.05.2026
+**Nächste Überprüfung:** 15.05.2027 (oder anlassbezogen)
+**Rechtsgrundlage:** § 5 GwG, § 6 GwG, FATF-Empfehlungen 2023
 
 ---
 
@@ -198,5 +198,5 @@ Diese Risikoanalyse wurde am **15.05.2026** von der Geschäftsführung der Muste
 
 ---
 
-*Dokument-Nr.: RA-MH-2026-02 — Musterholding GmbH, Frankfurt am Main*  
+*Dokument-Nr.: RA-MH-2026-02 — Musterholding GmbH, Frankfurt am Main*
 *Nächste Überprüfung: 15.05.2027 oder anlassbezogen*

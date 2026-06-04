@@ -1,16 +1,16 @@
 # Mandantenkommunikation – Daniel Wittfeldt
 
-**Aktenzeichen:** PS-BKR-2026-0412  
-**Dokumentation der wesentlichen Kommunikation mit dem Auftraggeber**  
+**Aktenzeichen:** PS-BKR-2026-0412
+**Dokumentation der wesentlichen Kommunikation mit dem Auftraggeber**
 
 ---
 
 ## Nachricht 1: Auftragsbestätigung
 
-**Von:** kanzlei@pflueger-schoeneberg-bankrecht.de  
-**An:** d.wittfeldt@bsoftag-bremen.de  
-**Datum:** 09.04.2026, 09:15 Uhr  
-**Betreff:** Mandatsbestätigung PS-BKR-2026-0412 – Wittfeldt Anlagebetrug  
+**Von:** kanzlei@pflueger-schoeneberg-bankrecht.de
+**An:** d.wittfeldt@bsoftag-bremen.de
+**Datum:** 09.04.2026, 09:15 Uhr
+**Betreff:** Mandatsbestätigung PS-BKR-2026-0412 – Wittfeldt Anlagebetrug
 
 Sehr geehrter Herr Wittfeldt,
 
@@ -25,18 +25,18 @@ ich bestätige hiermit die Übernahme des Mandats in der Sache Ihrer Mutter, Fra
 
 Für Rückfragen stehe ich Ihnen jederzeit zur Verfügung.
 
-Mit freundlichen Grüßen  
-Dr. Severin Pflüger  
+Mit freundlichen Grüßen
+Dr. Severin Pflüger
 Fachanwalt für Bank- und Kapitalmarktrecht
 
 ---
 
 ## Nachricht 2: Anforderung weiterer Unterlagen
 
-**Von:** kanzlei@pflueger-schoeneberg-bankrecht.de  
-**An:** d.wittfeldt@bsoftag-bremen.de  
-**Datum:** 15.04.2026, 14:42 Uhr  
-**Betreff:** RE: Unterlagen – zusätzlich benötigt  
+**Von:** kanzlei@pflueger-schoeneberg-bankrecht.de
+**An:** d.wittfeldt@bsoftag-bremen.de
+**Datum:** 15.04.2026, 14:42 Uhr
+**Betreff:** RE: Unterlagen – zusätzlich benötigt
 
 Sehr geehrter Herr Wittfeldt,
 
@@ -52,17 +52,17 @@ vielen Dank für die übersandten Unterlagen (Kontoauszüge, WhatsApp-Screenshot
 
 5. **CryptoFutureMax-Dashboard-Screenshot:** Haben Sie noch einen Screenshot des Dashboards, wie er zuletzt ausgesehen hat? Auch ältere Screenshots sind hilfreich.
 
-Mit freundlichen Grüßen  
+Mit freundlichen Grüßen
 Dr. Severin Pflüger
 
 ---
 
 ## Nachricht 3: Sachstandsbericht
 
-**Von:** kanzlei@pflueger-schoeneberg-bankrecht.de  
-**An:** d.wittfeldt@bsoftag-bremen.de  
-**Datum:** 25.04.2026, 11:00 Uhr  
-**Betreff:** Sachstand PS-BKR-2026-0412 – Wittfeldt  
+**Von:** kanzlei@pflueger-schoeneberg-bankrecht.de
+**An:** d.wittfeldt@bsoftag-bremen.de
+**Datum:** 25.04.2026, 11:00 Uhr
+**Betreff:** Sachstand PS-BKR-2026-0412 – Wittfeldt
 
 Sehr geehrter Herr Wittfeldt,
 
@@ -94,17 +94,17 @@ anbei ein kurzer Überblick zum aktuellen Stand des Verfahrens:
 
 Ich melde mich nach Ablauf der Sparkassen-Frist am 12.05.2026 sofort.
 
-Mit freundlichen Grüßen  
+Mit freundlichen Grüßen
 Dr. Severin Pflüger
 
 ---
 
 ## Nachricht 4: Antwort Daniel Wittfeldt (eingehend)
 
-**Von:** d.wittfeldt@bsoftag-bremen.de  
-**An:** kanzlei@pflueger-schoeneberg-bankrecht.de  
-**Datum:** 26.04.2026, 18:33 Uhr  
-**Betreff:** RE: Sachstand PS-BKR-2026-0412 – Danke + Fragen  
+**Von:** d.wittfeldt@bsoftag-bremen.de
+**An:** kanzlei@pflueger-schoeneberg-bankrecht.de
+**Datum:** 26.04.2026, 18:33 Uhr
+**Betreff:** RE: Sachstand PS-BKR-2026-0412 – Danke + Fragen
 
 Sehr geehrter Herr Dr. Pflüger,
 
@@ -120,17 +120,17 @@ vielen Dank für den detaillierten Überblick. Ich habe einige Fragen:
 
 Ich freue mich auf Ihre Einschätzung.
 
-Mit freundlichen Grüßen  
+Mit freundlichen Grüßen
 Daniel Wittfeldt
 
 ---
 
 ## Nachricht 5: Antwort Dr. Pflüger
 
-**Von:** kanzlei@pflueger-schoeneberg-bankrecht.de  
-**An:** d.wittfeldt@bsoftag-bremen.de  
-**Datum:** 28.04.2026, 10:15 Uhr  
-**Betreff:** RE: Antworten auf Ihre Fragen  
+**Von:** kanzlei@pflueger-schoeneberg-bankrecht.de
+**An:** d.wittfeldt@bsoftag-bremen.de
+**Datum:** 28.04.2026, 10:15 Uhr
+**Betreff:** RE: Antworten auf Ihre Fragen
 
 Sehr geehrter Herr Wittfeldt,
 

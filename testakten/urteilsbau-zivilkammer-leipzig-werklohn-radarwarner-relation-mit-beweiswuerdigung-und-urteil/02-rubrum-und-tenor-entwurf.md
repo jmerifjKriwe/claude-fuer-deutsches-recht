@@ -1,6 +1,6 @@
 # 02 — Rubrum und Tenor-Entwurf
 
-**AZ:** 8 O 188/26  
+**AZ:** 8 O 188/26
 **Stand:** Entwurf nach Schlussverhandlung 17.09.2026
 
 ---

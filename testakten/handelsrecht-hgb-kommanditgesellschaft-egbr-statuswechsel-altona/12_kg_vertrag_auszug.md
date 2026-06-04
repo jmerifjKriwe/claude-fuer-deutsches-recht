@@ -2,7 +2,7 @@
 
 ## § 3 Gesellschafter und Einlagen
 
-Komplementäre: Janna Fährmann, Oke Lübbert, Theda Kirsch.  
+Komplementäre: Janna Fährmann, Oke Lübbert, Theda Kirsch.
 Kommanditistin: Möller Speicherholding GmbH.
 
 Die Kommanditistin leistet eine Pflichteinlage von 250.000 EUR. Die im Handelsregister einzutragende Haftsumme beträgt 250.000 EUR.

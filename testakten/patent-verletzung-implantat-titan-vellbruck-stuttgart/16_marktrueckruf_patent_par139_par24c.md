@@ -1,7 +1,7 @@
 # 16 — Marktrückruf und Vernichtung nach § 140a PatG
 
-**Aktenzeichen intern:** VM-2026-GR-001  
-**Datum:** 01. April 2026  
+**Aktenzeichen intern:** VM-2026-GR-001
+**Datum:** 01. April 2026
 **Bearbeiter:** RA Tobias Fehrenbach / RA Dr. Birkenhainer
 
 ---

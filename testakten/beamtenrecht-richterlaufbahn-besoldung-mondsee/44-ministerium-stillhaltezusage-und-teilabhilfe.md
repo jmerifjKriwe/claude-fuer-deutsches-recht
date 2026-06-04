@@ -16,6 +16,6 @@ Nicht übersandt werden interne Abstimmungsvermerke, soweit sie ausschließlich 
 
 Nach vorläufiger Prüfung hält das Ministerium an der Auswahlentscheidung fest. Es wird allerdings eingeräumt, dass die kommissarische Sitzungsleitung der Antragstellerin in der Reinschrift des Auswahlvermerks knapper dargestellt wurde, als dies nach den nun vorliegenden Beurteilungsbeiträgen möglich gewesen wäre. Ob dieser Umstand entscheidungserheblich ist, wird derzeit geprüft.
 
-Mit freundlichen Grüßen  
-Dr. Ilse Brückner  
+Mit freundlichen Grüßen
+Dr. Ilse Brückner
 Ministerialrätin

@@ -1,6 +1,6 @@
 # 03 — Durchsuchungsbeschluss und Durchsuchungsprotokoll
 
-**Teil A: Durchsuchungsbeschluss AG Koeln (502 Gs 4882/26)**  
+**Teil A: Durchsuchungsbeschluss AG Koeln (502 Gs 4882/26)**
 **Teil B: Durchsuchungsprotokolle KPI Koeln vom 12.05.2026**
 
 Aktentyp: Beglaubigte Abschrift (Beschluss); Vermerk Sachbearbeiter KPI (Protokoll)
@@ -48,10 +48,10 @@ Koeln, 11.05.2026 — gez. **Helmstedter**, Richter am Amtsgericht
 
 ## Teil B — Durchsuchungsprotokoll KPI Koeln, Privatwohnung
 
-Aktenzeichen KPI: K1-WiKrim-882-26  
-Datum: 12.05.2026, Beginn 06:34 Uhr — Ende 11:48 Uhr  
-Ort: Sankt-Vither Strasse 41, 50937 Koeln  
-Leitung: Komm. Hartmann (Wirtschaftskriminalität)  
+Aktenzeichen KPI: K1-WiKrim-882-26
+Datum: 12.05.2026, Beginn 06:34 Uhr — Ende 11:48 Uhr
+Ort: Sankt-Vither Strasse 41, 50937 Koeln
+Leitung: Komm. Hartmann (Wirtschaftskriminalität)
 Anwesend Bewohner: Beschuldigter Dr. Pellbach-Eisenacher; Ehefrau Frieda Pellbach-Eisenacher; Tochter (19, Erika)
 
 ### Asservate
@@ -84,7 +84,7 @@ gez. Komm. **Hartmann**, KPI Koeln, Wirtschaftskriminalität
 
 ## Teil C — Durchsuchungsprotokoll Geschäftsräume Friesenwall
 
-Datum: 12.05.2026, 06:38 Uhr — 14:22 Uhr  
+Datum: 12.05.2026, 06:38 Uhr — 14:22 Uhr
 Anwesend: Frau Frieda Pellbach-Eisenacher (Mit-Gesellschafterin), später Insolvenzverwalter RA Wagner-Hieronymi (telefonisch zugeschaltet)
 
 ### Asservate (Auswahl)
@@ -108,7 +108,7 @@ gez. Komm.in **Stollmaier**, KPI Koeln
 
 ## Teil D — Durchsuchungsprotokoll Lager Bottrop
 
-Datum: 12.05.2026, 07:30 Uhr — 19:14 Uhr  
+Datum: 12.05.2026, 07:30 Uhr — 19:14 Uhr
 Vor Ort: Werksleiter Björn Tannekoetter, Disponent Vorarbeiter Krszewski (polnischsprachig)
 
 ### Befund

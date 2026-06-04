@@ -1,7 +1,7 @@
 # Abgrenzung Erklärungs-, Inhalts- und Motivirrtum — § 119 Abs. 1 BGB im Detail
 
-**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg  
-**Datum:** 18. April 2026  
+**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg
+**Datum:** 18. April 2026
 **Bezug:** Vertiefung für Klausur BGB AT; Akte Pohlmann / Ratschke
 
 ---
@@ -111,9 +111,9 @@ Eigenschaft wesentlich falsch → § 119 II → anfechtbar
 
 ---
 
-**Quellen:**  
-§§ 119, 120 BGB: https://dejure.org/gesetze/BGB/119.html  
-BGH NJW 1995, 190 (Motivirrtum unbeachtlich): https://www.bundesgerichtshof.de  
-BGH NJW 1988, 2597 (Eigenschaftsirrtum § 119 II): https://www.bundesgerichtshof.de  
-Flume, Allgemeiner Teil des Bürgerlichen Rechts Bd. II, § 23 (Klassiker)  
+**Quellen:**
+§§ 119, 120 BGB: https://dejure.org/gesetze/BGB/119.html
+BGH NJW 1995, 190 (Motivirrtum unbeachtlich): https://www.bundesgerichtshof.de
+BGH NJW 1988, 2597 (Eigenschaftsirrtum § 119 II): https://www.bundesgerichtshof.de
+Flume, Allgemeiner Teil des Bürgerlichen Rechts Bd. II, § 23 (Klassiker)
 MüKoBGB/Armbrüster, 9. Aufl. 2024, § 119 Rn. 60 ff.

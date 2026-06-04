@@ -1,6 +1,6 @@
 # 05 — Aufrechnung: § 387 BGB — Voraussetzungen und Streitstände
 
-**Bearbeiter:** Konrad Pohlmann  
+**Bearbeiter:** Konrad Pohlmann
 **Stand:** 19.04.2026
 
 ---

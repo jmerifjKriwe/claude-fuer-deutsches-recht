@@ -1,9 +1,9 @@
 # Gruppen- und Klassenentwurf – Insolvenzplan / StaRUG-Restrukturierungsplan
 
-**Aktenzeichen:** MH-2026-001  
-**Stand:** 2. Juni 2026 (Arbeitsfassung)  
-**Verfasser:** RA Dr. Karolin Westphal  
-**Rechtsgrundlagen:** §§ 222, 223 ff. InsO; §§ 8 ff. StaRUG  
+**Aktenzeichen:** MH-2026-001
+**Stand:** 2. Juni 2026 (Arbeitsfassung)
+**Verfasser:** RA Dr. Karolin Westphal
+**Rechtsgrundlagen:** §§ 222, 223 ff. InsO; §§ 8 ff. StaRUG
 
 ---
 

@@ -1,7 +1,7 @@
 # Besprechungsprotokoll
 
-**Termin:** Mittwoch, 09:30 bis 11:05 Uhr  
-**Teilnehmende:** Mandatsverantwortliche Person, Sachbearbeitung, Fachabteilung, externe Beratung  
+**Termin:** Mittwoch, 09:30 bis 11:05 Uhr
+**Teilnehmende:** Mandatsverantwortliche Person, Sachbearbeitung, Fachabteilung, externe Beratung
 **Gegenstand:** Akte Speicherwerk Oderbruch: Batteriespeicher, Netzanbindung und KRITIS-Schutz
 
 ## 1. Einstieg

@@ -1,14 +1,14 @@
 # 21 — Closing-Memorandum und Vollzug
 
-**Datum:** 31. Juli 2026  
-**Bearbeiter:** RA Prof. Dr. Felix Mannfeldt, RA Dr. Saskia Altenkamp  
+**Datum:** 31. Juli 2026
+**Bearbeiter:** RA Prof. Dr. Felix Mannfeldt, RA Dr. Saskia Altenkamp
 **Notar:** Dr. Veronika Geilenkirchen (Frankfurt am Main)
 
 ---
 
 ## 1. Closing-Datum und Ort
 
-Closing: 31. Juli 2026, 10:00 Uhr MEZ  
+Closing: 31. Juli 2026, 10:00 Uhr MEZ
 Ort: Kanzlei Drosselberg, Mannfeldt & Partner, Bockenheimer Landstrasse 24, 60323 Frankfurt am Main
 
 Anwesend:

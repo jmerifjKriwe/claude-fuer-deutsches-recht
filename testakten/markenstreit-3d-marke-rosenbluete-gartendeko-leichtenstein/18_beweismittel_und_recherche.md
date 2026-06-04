@@ -1,8 +1,8 @@
 # 18 — Beweismittel und Rechercheergebnisse
 
-**Bearbeiter:** RA Philipp Mertens-Waldhausen  
-**Datum:** 22. April 2026 (laufend aktualisiert bis 15. Juni 2026)  
-**Verfahren:** LG Mannheim 7 O 88/26 / EUIPO BoA R 1322/26-2  
+**Bearbeiter:** RA Philipp Mertens-Waldhausen
+**Datum:** 22. April 2026 (laufend aktualisiert bis 15. Juni 2026)
+**Verfahren:** LG Mannheim 7 O 88/26 / EUIPO BoA R 1322/26-2
 
 ---
 
@@ -10,31 +10,31 @@
 
 ### 1.1 Testkauf Nr. 1 — Filiale Heidelberg
 
-**Datum:** 10. April 2026, 14:22 Uhr  
-**Ort:** FlowerWorld AG, Kurfürsten-Anlage 58, 69115 Heidelberg  
-**Käufer:** Franz-Josef Kellner (Vertriebsmitarbeiter der Mandantin)  
-**Produkt:** „Garden Rose Bloom", Artikel-Nr. FW-GRB-2026-AL  
-**Preis:** 24,99 EUR (Kassenbon-Nr. 2026-04-10-14247)  
+**Datum:** 10. April 2026, 14:22 Uhr
+**Ort:** FlowerWorld AG, Kurfürsten-Anlage 58, 69115 Heidelberg
+**Käufer:** Franz-Josef Kellner (Vertriebsmitarbeiter der Mandantin)
+**Produkt:** „Garden Rose Bloom", Artikel-Nr. FW-GRB-2026-AL
+**Preis:** 24,99 EUR (Kassenbon-Nr. 2026-04-10-14247)
 **Beweismittel:** Eidesstattliche Versicherung Kellner (Anlage K-2), Kassenbon (Anlage K-3), Produktfoto (Anlage K-5 bis K-8)
 
 Erläuterung Kellner: „Das Produkt stand auf einem Sonderpostendisplay am Eingang der Gartencentrum-Abteilung. Es war sofort erkennbar, dass es sich optisch um eine Kopie unserer Rosenbluete handelt. Ich habe zwei Exemplare gekauft und sie sofort sichergestellt."
 
 ### 1.2 Testkauf Nr. 2 — Filiale Mannheim-Neckarau
 
-**Datum:** 13. April 2026, 10:05 Uhr  
-**Ort:** FlowerWorld AG, Rheingoldstraße 22, 68169 Mannheim-Neckarau  
-**Käufer:** RA Philipp Mertens-Waldhausen (persönlich)  
-**Produkt:** „Garden Rose Bloom" (gleiches Produkt)  
-**Preis:** 24,99 EUR (Kassenbon-Nr. 2026-04-13-10127)  
+**Datum:** 13. April 2026, 10:05 Uhr
+**Ort:** FlowerWorld AG, Rheingoldstraße 22, 68169 Mannheim-Neckarau
+**Käufer:** RA Philipp Mertens-Waldhausen (persönlich)
+**Produkt:** „Garden Rose Bloom" (gleiches Produkt)
+**Preis:** 24,99 EUR (Kassenbon-Nr. 2026-04-13-10127)
 **Beweismittel:** Eidesstattliche Versicherung RA Mertens-Waldhausen (Anlage K-2b), Kassenbon (Anlage K-4), Produktfotos (Anlage K-9 bis K-12)
 
 ### 1.3 Online-Kauf
 
-**Datum:** 14. April 2026, 18:44 Uhr (Bestellzeitpunkt)  
-**Lieferung:** 17. April 2026  
-**Plattform:** flowerworld.de (Online-Shop)  
-**Bestellnummer:** FW2026-04-14-99812  
-**Preis:** 24,99 EUR zzgl. 4,99 EUR Versandkosten  
+**Datum:** 14. April 2026, 18:44 Uhr (Bestellzeitpunkt)
+**Lieferung:** 17. April 2026
+**Plattform:** flowerworld.de (Online-Shop)
+**Bestellnummer:** FW2026-04-14-99812
+**Preis:** 24,99 EUR zzgl. 4,99 EUR Versandkosten
 **Beweismittel:** Printscreens des Online-Shops (Anlage K-13), Bestätigungs-E-Mail (Anlage K-14), Lieferschein und Verpackungsfoto (Anlage K-15 bis K-17)
 
 ## 2. Fotodokumentation und Bildvergleich
@@ -77,8 +77,8 @@ Ein Antrag auf Auskunft gemäß Art. 18 der EU-Grenzbeschlagnahmeverordnung (VO 
 
 Durch eine Internet-Recherche über Alibaba.com und die chinesische Unternehmensregisterdatenbank (SAIC) konnte ein chinesischer Hersteller identifiziert werden:
 
-**Shenzhen Gardencraft Metal Co., Ltd.** (深圳园艺铸造有限公司), Longhua District, Shenzhen, Guangdong  
-Produkt auf Alibaba.com: „Iron Rose Garden Decor — OEM/ODM, Art Rose Sculpture, Customizable"  
+**Shenzhen Gardencraft Metal Co., Ltd.** (深圳园艺铸造有限公司), Longhua District, Shenzhen, Guangdong
+Produkt auf Alibaba.com: „Iron Rose Garden Decor — OEM/ODM, Art Rose Sculpture, Customizable"
 Mindestbestellmenge: 500 Stück; Preis bei 1.000 Stück: ca. 4,80 USD/Stück (FOB Shenzhen)
 
 Ein Anfrage-Schreiben unter Verwendung einer Test-Einkäufer-Identität (Beauftragung: Detektei Schreibmann & Partner, Frankfurt) ergab Produktfotos, die exakt dem FlowerWorld-Produkt entsprechen.
@@ -117,5 +117,5 @@ Die Beweislage für das Verletzungsverfahren LG Mannheim 7 O 88/26 ist sehr star
 
 ---
 
-**Erstellt von:** RA Philipp Mertens-Waldhausen  
+**Erstellt von:** RA Philipp Mertens-Waldhausen
 **Stand:** 15. Juni 2026

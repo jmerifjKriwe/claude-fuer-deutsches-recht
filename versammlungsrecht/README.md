@@ -71,64 +71,38 @@ Apache-2.0 OR MIT. Siehe Repository-Stammverzeichnis.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 29 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `allgemein` | Allgemeiner Kaltstart im Versammlungsrecht: Land und Ort, Art der Versammlung, Frist, Behörde, Risiko und Ziel klären, dann passende Spezialskills und nächsten Output auswählen. |
-| `anwaltlicher-brief-an-behoerde` | Entwirft einen anwaltlichen oder sehr sachlichen Laienbrief gegen problematische Behördenkommunikation. |
-| `anzeige-unter-freiem-himmel` | Führt durch die Anzeige einer öffentlichen Versammlung unter freiem Himmel oder eines Aufzugs, ohne sie fälschlich als Genehmigungsantrag zu behandeln. |
-| `auflagen-pruefen` | Prüft Beschränkungen, Auflagen und Nebenbestimmungen auf Rechtsgrundlage, Tatsachenbasis und Verhältnismäßigkeit. |
-| `auflagenverstoss-und-owi` | Prüft Ordnungswidrigkeiten- und Strafrisiken bei nicht angezeigten Versammlungen, Auflagenverstößen und Auflösung. |
-| `bannmeile-schutzbereiche` | Prüft befriedete Bezirke, Bannmeilen und Schutzbereiche um Bundestag, Bundesrat, Landtage und besondere Orte. |
-| `barrierefreiheit-und-inklusion` | Plant barrierearme Versammlungen: Wege, Lautsprecher, Gebärdensprache, Ruhebereiche, Assistenz und sichere Kommunikation. |
-| `behoerdenkommunikation` | Formuliert kluge Mails und Telefonnotizen an Versammlungsbehörde, Polizei, Ordnungsamt und Straßenverkehrsbehörde. |
-| `bekanntgabe-social-media` | Prüft, wann Flyer, Website, Messenger, Pressemitteilung oder Social-Media-Post die Bekanntgabe oder Einladung auslösen. |
-| `bescheid-lesen` | Analysiert versammlungsrechtliche Bescheide, Auflagenkataloge, Verbote, Telefonnotizen und E-Mails der Behörde. |
-| `beweissicherung-am-versammlungstag` | Erstellt Beweissicherungsplan für Auflagen, Polizeihandeln, Störer, Wetter, Teilnehmerzahl und Ablauf. |
-| `blockade-sitzblockade-friedlichkeit` | Prüft Blockaden, Sitzblockaden, Zufahrtsnähe und Friedlichkeitsgrenzen. |
-| `bundeslaender-synopse` | Erstellt eine Arbeits-Synopse der Landesversammlungsgesetze und markiert, was vor Ausgabe live amtlich zu prüfen ist. |
-| `camp-dauerversammlung` | Prüft Camps, Mahnwachen, Zelte, Schlafen, Infrastruktur und Dauerversammlungen unter Art. 8 GG. |
-| `datenschutz-fotos-livestream` | Prüft Fotos, Livestreams, Drohnen, Teilnehmerdaten, Ordnerlisten und Polizeiaufnahmen. |
-| `dritte-anwohner-laerm-geschaeft` | Bearbeitet Konflikte mit Anwohnern, Geschäften, Schulen, Kirchen, Kliniken, Botschaften oder sensiblen Orten. |
-| `eilversammlung` | Prüft Eilversammlungen, bei denen ein Veranstalter existiert, der Zweck aber bei voller Fristeinhaltung vereitelt würde. |
-| `eingangsbestaetigung-und-aktenzeichen` | Sichert Nachweis von Anzeige, Eingang, Aktenzeichen und behördlicher Zuständigkeit. |
-| `falscher-tag-falscher-ort-einwand` | Reagiert auf Behördeneinwände wie falscher Tag, falscher Ort, sensible Nachbarschaft, parallele Veranstaltung oder politisch unpassender Anlass. |
-| `frist-48-stunden-bekanntgabe` | Berechnet die versammlungsrechtliche 48-Stunden-Frist bis zur Bekanntgabe oder Einladung und markiert Landesabweichungen. |
 | `gefahrenprognose-redteam` | Zerlegt die behördliche Gefahrenprognose und baut eine eigene, realistische Sicherheitslage auf. |
-| `gegenveranstaltung-und-trennung` | Plant konkurrierende Versammlungen, Gegenprotest, Pufferzonen und gleichzeitige Grundrechtsausübung. |
-| `infostand-mahnwache-kleinstversammlung` | Prüft Kleinstkundgebung, Mahnwache, Infostand mit politischem Meinungskern und Abgrenzung zur Sondernutzung. |
-| `innenraum-versammlung-abgrenzen` | Grenzt öffentliche und private Versammlungen in geschlossenen Räumen von anzeigepflichtigen Versammlungen unter freiem Himmel ab. |
-| `kooperationsgespraech` | Bereitet Kooperationsgespräche mit Versammlungsbehörde und Polizei vor und protokolliert sie. |
-| `kosten-haftung-und-versicherung` | Prüft Kosten, Gebühren, Schäden, Haftung, Versicherung und Regress rund um Versammlungen. |
-| `kundgebung-stationaer-platzwahl` | Prüft stationäre Kundgebungen, Mahnwachen, Infostände mit Meinungskern und symbolische Orte. |
-| `landesrecht-und-behoerde-finden` | Findet das anwendbare Landesversammlungsgesetz und die konkrete zuständige Versammlungsbehörde oder Polizei anhand von Ort und Route. |
-| `leiter-verantwortung` | Erklärt Rolle, Rechte und Pflichten der Versammlungsleitung vor, während und nach der Versammlung. |
-| `mildere-mittel-matrix` | Erstellt eine Matrix milderer Mittel gegen Verbot, Verlegung oder zu breite Auflagen. |
-| `muster-anzeige-generator` | Erstellt eine präzise Anzeige für Kundgebung, Mahnwache, Demonstrationszug, Fahrradaufzug oder Dauerversammlung. |
-| `muster-eilantrag` | Erstellt ein Grundgerüst für verwaltungsgerichtlichen Eilrechtsschutz im Versammlungsrecht. |
-| `nachbereitung-und-aktenvermerk` | Erstellt Nachbereitung nach Durchführung, Auflagenproblemen, Polizeikontakt, Presse und möglichem Folgeverfahren. |
-| `notfallkarte-versammlungstag` | Erstellt eine kompakte Notfallkarte für Leitung, Stellvertretung, Ordner und Dokumentationsteam. |
-| `offizielle-quellen-livecheck` | Erzwingt Live-Check von Gesetz, Behörde, Formular, Rechtsprechung und Landesrecht vor verbindlichem Output. |
-| `ordner-auswahl` | Hilft bei Auswahl, Anzahl, Zuverlässigkeit und Briefing von Ordnerinnen und Ordnern. |
-| `ordnerliste-und-mitteilung` | Erstellt datensparsame Ordnerliste oder Ordnerzahl-Mitteilung an die Behörde nach dem einschlägigen Recht. |
-| `partei-gewerkschaft-verein-veranstalter` | Hilft Parteien, Gewerkschaften, Vereinen, Initiativen und losen Gruppen bei Veranstalterrolle und interner Verantwortlichkeit. |
-| `polizei-vor-ort-deeskalation` | Gibt Leitfaden für Kommunikation mit Einsatzleitung, Störer, Auflösung, Durchsuchung und Platzverweise am Versammlungstag. |
-| `polizeifilmerei-beweissicherung-kug-201-stgb` | Versammlungsrecht: Polizeieinsätze, Gegenaufnahmen, Beweissicherung, KUG/KunstUrhG, § 201 StGB, § 201a StGB, Presse- und Versammlungsfreiheit, Vor-Ort-Kommunikation und Nachbereitung. |
-| `presse-und-oeffentlichkeitsarbeit` | Hilft bei Pressemitteilungen, Einladungstexten, Veranstalterangabe und Kommunikation ohne unnötige Rechtsrisiken. |
-| `privat-oeffentlich-abgrenzen` | Prüft, ob eine Zusammenkunft öffentlich, privat, vereinsintern, parteiintern, betrieblich oder nur ein Gesprächskreis ist. |
-| `qualitaetsgate-vor-bekanntgabe` | Letzter Check vor öffentlicher Einladung oder Versand der Anzeige. |
-| `route-aufzug-und-streckenplanung` | Plant Aufzüge und Routen so, dass Versammlungszweck, Verkehr, Sicherheit und Behördeneinwände gut ausbalanciert sind. |
-| `schule-universitaet-jugendliche` | Prüft Schüler-, Studierenden-, Hochschul- und Jugendversammlungen samt Aufsicht, Schulrecht und Hausrecht. |
-| `schutz-vor-vorauseilendem-gehorsam` | Hilft, berechtigte Behördenbelange zu berücksichtigen, ohne die Versammlung aus Angst selbst zu entkernen. |
-| `spontanversammlung` | Prüft echte Spontanversammlungen, bei denen Anlass und Bildung so unmittelbar zusammenfallen, dass vorherige Anzeige nicht möglich war. |
-| `strafrecht-versg-risiken` | Routet Strafbarkeitsrisiken aus VersammlG, StGB, Waffenrecht, Vermummung, Schutzwaffen und Nötigung. |
-| `technik-lautsprecher-musik` | Prüft Lautsprecher, Megaphon, Bühne, Strom, Fahrzeuge, Musik, Projektionen und Lärmschutz. |
-| `untatigkeit-und-schweigen` | Reagiert, wenn Behörde auf Anzeige oder Rückfrage nicht antwortet und der Termin näher rückt. |
-| `verbot-und-beschraenkung-abwehren` | Entwickelt Gegenstrategie gegen Verbot, faktische Verhinderung oder so einschneidende Beschränkung, dass der Zweck leerläuft. |
-| `verkehr-rettungswege-oepnv` | Bearbeitet Verkehr, ÖPNV, Rettungswege, Baustellen, Umleitungen und Straßenverkehrsbehörden. |
-| `versammlungskonzept` | Erstellt ein belastbares Versammlungskonzept als Anlage zur Anzeige oder als Antwort auf Behördenfragen. |
-| `wahlkampf-und-politische-kundgebung` | Prüft Wahlkampfstände, Kandidatenauftritte, Parteiveranstaltungen, Gegendemonstrationen und kommunale Neutralitätsfragen. |
-| `widerspruch-klage-eilrechtsschutz` | Routet Widerspruch, Anfechtungsklage, § 80 Abs. 5 VwGO und § 123 VwGO bei versammlungsrechtlichen Bescheiden. |
+| `kompendium-01-frist-48-stunden-bek-bis-kosten-haftung-und-v` | versammlungsrecht: Konsolidiertes Skill-Kompendium 01; bündelt 2 frühere Spezialskills (frist-48-stunden-bekanntgabe, kosten-haftung-und-versicherung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-02-anwaltlicher-brief-a-bis-anzeige-unter-freiem` | versammlungsrecht: Konsolidiertes Skill-Kompendium 02; bündelt 2 frühere Spezialskills (anwaltlicher-brief-an-behoerde, anzeige-unter-freiem-himmel) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-03-auflagen-pruefen-bis-auflagenverstoss-und` | versammlungsrecht: Konsolidiertes Skill-Kompendium 03; bündelt 2 frühere Spezialskills (auflagen-pruefen, auflagenverstoss-und-owi) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-04-bannmeile-schutzbere-bis-barrierefreiheit-und` | versammlungsrecht: Konsolidiertes Skill-Kompendium 04; bündelt 2 frühere Spezialskills (bannmeile-schutzbereiche, barrierefreiheit-und-inklusion) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-05-behoerdenkommunikati-bis-bekanntgabe-social-m` | versammlungsrecht: Konsolidiertes Skill-Kompendium 05; bündelt 2 frühere Spezialskills (behoerdenkommunikation, bekanntgabe-social-media) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-06-bescheid-lesen-bis-beweissicherung-am-v` | versammlungsrecht: Konsolidiertes Skill-Kompendium 06; bündelt 2 frühere Spezialskills (bescheid-lesen, beweissicherung-am-versammlungstag) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-07-blockade-sitzblockad-bis-bundeslaender-synops` | versammlungsrecht: Konsolidiertes Skill-Kompendium 07; bündelt 2 frühere Spezialskills (blockade-sitzblockade-friedlichkeit, bundeslaender-synopse) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-08-camp-dauerversammlun-bis-datenschutz-fotos-li` | versammlungsrecht: Konsolidiertes Skill-Kompendium 08; bündelt 2 frühere Spezialskills (camp-dauerversammlung, datenschutz-fotos-livestream) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-09-dritte-anwohner-laer-bis-eilversammlung` | versammlungsrecht: Konsolidiertes Skill-Kompendium 09; bündelt 2 frühere Spezialskills (dritte-anwohner-laerm-geschaeft, eilversammlung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-10-eingangsbestaetigung-bis-falscher-tag-falsche` | versammlungsrecht: Konsolidiertes Skill-Kompendium 10; bündelt 2 frühere Spezialskills (eingangsbestaetigung-und-aktenzeichen, falscher-tag-falscher-ort-einwand) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-11-gegenveranstaltung-u-bis-infostand-mahnwache` | versammlungsrecht: Konsolidiertes Skill-Kompendium 11; bündelt 2 frühere Spezialskills (gegenveranstaltung-und-trennung, infostand-mahnwache-kleinstversammlung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-12-innenraum-versammlun-bis-kooperationsgespraec` | versammlungsrecht: Konsolidiertes Skill-Kompendium 12; bündelt 2 frühere Spezialskills (innenraum-versammlung-abgrenzen, kooperationsgespraech) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-13-kundgebung-stationae-bis-landesrecht-und-beho` | versammlungsrecht: Konsolidiertes Skill-Kompendium 13; bündelt 2 frühere Spezialskills (kundgebung-stationaer-platzwahl, landesrecht-und-behoerde-finden) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-14-leiter-verantwortung-bis-mildere-mittel-matri` | versammlungsrecht: Konsolidiertes Skill-Kompendium 14; bündelt 2 frühere Spezialskills (leiter-verantwortung, mildere-mittel-matrix) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-15-muster-anzeige-gener-bis-muster-eilantrag` | versammlungsrecht: Konsolidiertes Skill-Kompendium 15; bündelt 2 frühere Spezialskills (muster-anzeige-generator, muster-eilantrag) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-16-nachbereitung-und-ak-bis-notfallkarte-versamm` | versammlungsrecht: Konsolidiertes Skill-Kompendium 16; bündelt 2 frühere Spezialskills (nachbereitung-und-aktenvermerk, notfallkarte-versammlungstag) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-17-offizielle-quellen-l-bis-ordner-auswahl` | versammlungsrecht: Konsolidiertes Skill-Kompendium 17; bündelt 2 frühere Spezialskills (offizielle-quellen-livecheck, ordner-auswahl) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-18-ordnerliste-und-mitt-bis-partei-gewerkschaft` | versammlungsrecht: Konsolidiertes Skill-Kompendium 18; bündelt 2 frühere Spezialskills (ordnerliste-und-mitteilung, partei-gewerkschaft-verein-veranstalter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-19-polizei-vor-ort-dees-bis-polizeifilmerei-bewe` | versammlungsrecht: Konsolidiertes Skill-Kompendium 19; bündelt 2 frühere Spezialskills (polizei-vor-ort-deeskalation, polizeifilmerei-beweissicherung-kug-201-stgb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-20-presse-und-oeffentli-bis-privat-oeffentlich-a` | versammlungsrecht: Konsolidiertes Skill-Kompendium 20; bündelt 2 frühere Spezialskills (presse-und-oeffentlichkeitsarbeit, privat-oeffentlich-abgrenzen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-21-qualitaetsgate-vor-b-bis-route-aufzug-und-str` | versammlungsrecht: Konsolidiertes Skill-Kompendium 21; bündelt 2 frühere Spezialskills (qualitaetsgate-vor-bekanntgabe, route-aufzug-und-streckenplanung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-22-schule-universitaet-bis-schutz-vor-vorauseil` | versammlungsrecht: Konsolidiertes Skill-Kompendium 22; bündelt 2 frühere Spezialskills (schule-universitaet-jugendliche, schutz-vor-vorauseilendem-gehorsam) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-23-spontanversammlung-bis-strafrecht-versg-ris` | versammlungsrecht: Konsolidiertes Skill-Kompendium 23; bündelt 2 frühere Spezialskills (spontanversammlung, strafrecht-versg-risiken) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-24-technik-lautsprecher-bis-untatigkeit-und-schw` | versammlungsrecht: Konsolidiertes Skill-Kompendium 24; bündelt 2 frühere Spezialskills (technik-lautsprecher-musik, untatigkeit-und-schweigen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-25-verbot-und-beschraen-bis-verkehr-rettungswege` | versammlungsrecht: Konsolidiertes Skill-Kompendium 25; bündelt 2 frühere Spezialskills (verbot-und-beschraenkung-abwehren, verkehr-rettungswege-oepnv) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-26-versammlungskonzept-bis-wahlkampf-und-politi` | versammlungsrecht: Konsolidiertes Skill-Kompendium 26; bündelt 2 frühere Spezialskills (versammlungskonzept, wahlkampf-und-politische-kundgebung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-27-widerspruch-klage-ei-bis-widerspruch-klage-ei` | versammlungsrecht: Konsolidiertes Skill-Kompendium 27; bündelt 1 frühere Spezialskills (widerspruch-klage-eilrechtsschutz) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

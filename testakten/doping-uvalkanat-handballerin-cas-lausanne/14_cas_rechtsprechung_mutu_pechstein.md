@@ -1,7 +1,7 @@
 # 14 — CAS-Rechtsprechung: Mutu/Pechstein-Linie und Verfahrensgrundrechte
 
-**Erstellt:** 25.08.2026  
-**Bearbeiter:** RA Prof. Dr. Markus Lentze  
+**Erstellt:** 25.08.2026
+**Bearbeiter:** RA Prof. Dr. Markus Lentze
 **AZ:** SU/DOPING/2026-001 / CAS 2026/A/8821
 
 ---
@@ -50,20 +50,20 @@ Die Mandantin nominierte Prof. Dr. Duval, einen ausgewiesenen EMRK/EU-Sportrecht
 
 ### 3.1 CAS 2011/A/2566 — Cilic ./. ITF
 
-**Sachverhalt:** Kroatischer Tennisspieler Marin Cilic (ATP Top-10), positiver Befund auf Nikethamid (S6-Stimulans) durch kontaminiertes Energiegel, das irrtümlich von seiner Mutter in der Apotheke gekauft wurde.  
-**Ergebnis:** CAS reduzierte Sperre von 9 Monaten auf **4 Monate** unter Anwendung von Art. 10.5.2 NADC (kein erhebliches Verschulden).  
+**Sachverhalt:** Kroatischer Tennisspieler Marin Cilic (ATP Top-10), positiver Befund auf Nikethamid (S6-Stimulans) durch kontaminiertes Energiegel, das irrtümlich von seiner Mutter in der Apotheke gekauft wurde.
+**Ergebnis:** CAS reduzierte Sperre von 9 Monaten auf **4 Monate** unter Anwendung von Art. 10.5.2 NADC (kein erhebliches Verschulden).
 **Relevanz für Uvalkanat:** Verwandter Sachverhalt; zeigt, dass CAS bei nachgewiesener Kontaminationsquelle und glaubhafter Geschichte erheblich reduziert.
 
 ### 3.2 CAS 2016/A/4372 — Halep ./. ITF
 
-**Sachverhalt:** Rumänische Tennisspielerin Simona Halep, positiver Befund auf Sibutramin (S6) in einem nicht-deklariert kontaminierten Supplement.  
-**Ergebnis:** Sperre auf **1 Monat** reduziert (praktisch durch provisorische Suspendierung bereits verbüßt).  
+**Sachverhalt:** Rumänische Tennisspielerin Simona Halep, positiver Befund auf Sibutramin (S6) in einem nicht-deklariert kontaminierten Supplement.
+**Ergebnis:** Sperre auf **1 Monat** reduziert (praktisch durch provisorische Suspendierung bereits verbüßt).
 **Relevanz:** Ähnlich gelagerte Sachverhaltskonstellation; besonders günstig für unsere Position.
 
 ### 3.3 CAS 2024/A/9317 — Pawłowski ./. PZPS
 
-**Sachverhalt:** Polnischer Handballer Artur Pawłowski, positiver Meldonium-Befund (0,58 µg/mL) — also ähnliche Konzentration wie Uvalkanat — durch kontaminiertes Supplement (chinesischer Hersteller).  
-**Ergebnis:** Sperre von 2 Jahren auf **6 Monate** reduziert (Art. 10.5.1 NADC; erhebliches Verschulden verneint, da Produktkontamination nachgewiesen).  
+**Sachverhalt:** Polnischer Handballer Artur Pawłowski, positiver Meldonium-Befund (0,58 µg/mL) — also ähnliche Konzentration wie Uvalkanat — durch kontaminiertes Supplement (chinesischer Hersteller).
+**Ergebnis:** Sperre von 2 Jahren auf **6 Monate** reduziert (Art. 10.5.1 NADC; erhebliches Verschulden verneint, da Produktkontamination nachgewiesen).
 **Relevanz:** **Schlüsselpräzedenzfall** für Uvalkanat; gleiche Substanz, ähnliche Konzentration, Supplement-Kontamination. Panel wird aufgefordert, Pawłowski direkt zu folgen.
 
 ---

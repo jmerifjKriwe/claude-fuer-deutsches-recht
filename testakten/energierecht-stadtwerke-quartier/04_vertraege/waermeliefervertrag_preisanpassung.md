@@ -1,7 +1,7 @@
 # Wärmeliefervertrag – Nahwärme Quartier Hafenbogen
 
-**Vertragsnummer:** SWKK-WLV-2026-001  
-**Stand:** Oktober 2026  
+**Vertragsnummer:** SWKK-WLV-2026-001
+**Stand:** Oktober 2026
 
 ---
 
@@ -9,16 +9,16 @@
 
 zwischen
 
-**Stadtwerke Klotzkette AG**  
-Bahnhofstraße 12, 59348 Lüdinghausen  
-HRB 18642, AG Münster · USt-IdNr. DE 812 334 499  
-Vertreten durch: Dr. Gerda Wohlfahrt, Vorstandsvorsitzende  
+**Stadtwerke Klotzkette AG**
+Bahnhofstraße 12, 59348 Lüdinghausen
+HRB 18642, AG Münster · USt-IdNr. DE 812 334 499
+Vertreten durch: Dr. Gerda Wohlfahrt, Vorstandsvorsitzende
 (nachfolgend **"Lieferant"**)
 
 und
 
-**[Name Abnehmer / Eigentümergemeinschaft / Mieter]**  
-[Straße, Hausnummer, PLZ, Ort]  
+**[Name Abnehmer / Eigentümergemeinschaft / Mieter]**
+[Straße, Hausnummer, PLZ, Ort]
 (nachfolgend **"Abnehmer"**)
 
 ---
@@ -102,7 +102,7 @@ Der Grundpreis wird jährlich (1. Januar) in Höhe von 70 % der prozentualen Än
 
 ---
 
-**Ort, Datum:**  
+**Ort, Datum:**
 Lüdinghausen, den ________________
 
 | Lieferant | Abnehmer |
@@ -112,6 +112,6 @@ Lüdinghausen, den ________________
 
 ---
 
-*Anlage 1: Planbedarfsberechnung Wärme (Erläuterung Jahresschätzung)*  
-*Anlage 2: Technische Lieferbedingungen Nahwärme Quartier Hafenbogen*  
+*Anlage 1: Planbedarfsberechnung Wärme (Erläuterung Jahresschätzung)*
+*Anlage 2: Technische Lieferbedingungen Nahwärme Quartier Hafenbogen*
 *Anlage 3: Übergabestationsplan (Schaltbild)*

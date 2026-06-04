@@ -1,7 +1,7 @@
 # Auslegung von Willenserklärungen und Verträgen — §§ 133, 157 BGB
 
-**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg  
-**Datum:** 02. Mai 2026  
+**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg
+**Datum:** 02. Mai 2026
 **Bezug:** Auslegung des Pachtvertrags Erbenstraße 88; Auslegung der „Büromaterial"-Ermächtigung für Lübbers
 
 ---
@@ -109,9 +109,9 @@ Schritt 6: Ergänzende Auslegung (Lückenausfüllung)
 [AGB: zusätzlich § 305c Abs. 2 BGB — Zweifel gegen Verwender]
 ```
 
-**Quellen:**  
-§§ 133, 157 BGB: https://dejure.org/gesetze/BGB/133.html  
-§ 305c Abs. 2 BGB: https://dejure.org/gesetze/BGB/305c.html  
-BGH NJW 1991, 2559 (normativer Empfängerhorizont): https://www.bundesgerichtshof.de  
-RGZ 99, 147 (Haakjöringsköd — Falsa demonstratio): historische Leitentscheidung  
+**Quellen:**
+§§ 133, 157 BGB: https://dejure.org/gesetze/BGB/133.html
+§ 305c Abs. 2 BGB: https://dejure.org/gesetze/BGB/305c.html
+BGH NJW 1991, 2559 (normativer Empfängerhorizont): https://www.bundesgerichtshof.de
+RGZ 99, 147 (Haakjöringsköd — Falsa demonstratio): historische Leitentscheidung
 BGH NJW 2008, 2825 (AGB-Auslegung, Unklarheitenregel): https://openjur.de

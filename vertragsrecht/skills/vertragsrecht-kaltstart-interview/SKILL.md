@@ -208,7 +208,7 @@ Playbook.
 
 ### Schritt 7 — Kanzleiprofil schreiben
 
-Schreiben Sie das Profil nach folgender Struktur (Prosatext mit Tabellen, 
+Schreiben Sie das Profil nach folgender Struktur (Prosatext mit Tabellen,
 kein YAML, direkt editierbar):
 
 ```markdown

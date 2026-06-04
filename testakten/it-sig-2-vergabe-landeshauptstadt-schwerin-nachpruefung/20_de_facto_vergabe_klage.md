@@ -1,20 +1,20 @@
 # Aktenstück 20 – Klageschrift De-facto-Vergabe (§ 135 Abs. 2 GWB)
 
-**Aktenzeichen OLG:** [noch nicht zugeteilt, Einreichung 27.06.2026]  
-**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026 / SOC-Pilotbetrieb NSV 12/2025  
-**Datum:** 27.06.2026  
+**Aktenzeichen OLG:** [noch nicht zugeteilt, Einreichung 27.06.2026]
+**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026 / SOC-Pilotbetrieb NSV 12/2025
+**Datum:** 27.06.2026
 **Von:** RA Dr. Constantin Bährens
 
 ---
 
-Kanzlei Bährens Vergaberecht  
+Kanzlei Bährens Vergaberecht
 Unter den Linden 48, 10117 Berlin
 
 **Per Fax und beA**
 
-An das  
-Oberlandesgericht Düsseldorf  
-– Vergabesenat –  
+An das
+Oberlandesgericht Düsseldorf
+– Vergabesenat –
 Cecilienallee 3, 40474 Düsseldorf
 
 Berlin, 27. Juni 2026
@@ -23,16 +23,16 @@ Berlin, 27. Juni 2026
 
 ## ANTRAG GEM. § 135 ABS. 2 GWB (Feststellung der Unwirksamkeit eines De-facto-Vertrages)
 
-**Antragstellerin:**  
-CyberShield Defense GmbH, Alexanderstraße 7, 10178 Berlin  
+**Antragstellerin:**
+CyberShield Defense GmbH, Alexanderstraße 7, 10178 Berlin
 vertreten durch RA Dr. Constantin Bährens
 
-**Antragsgegnerin:**  
-Nahverkehr Schwerin GmbH, Wismarsche Str. 10, 19055 Schwerin  
+**Antragsgegnerin:**
+Nahverkehr Schwerin GmbH, Wismarsche Str. 10, 19055 Schwerin
 (KRITIS-Betreiber, handelnd für sich; Auftraggeberin des Pilotvertrags)
 
-**Beiladung (beantragt):**  
-ProtectIT SE, Friedrich-Ebert-Allee 112, 53113 Bonn  
+**Beiladung (beantragt):**
+ProtectIT SE, Friedrich-Ebert-Allee 112, 53113 Bonn
 (mutmaßliche Auftragnehmerin)
 
 ---
@@ -88,15 +88,15 @@ Kenntnis vom Vertragsschluss: 04.06.2026 (VK-Verhandlung). Antragsfrist 30 Tage 
 
 ---
 
-**Beweismittel:**  
-- Anlage K-1: LinkedIn-Post ProtectIT-Mitarbeiter (Screenshot, 08.01.2026)  
-- Anlage K-2: VK-Verhandlungsprotokoll 04.06.2026 (Stellungnahme Vergabestelle zu SOC-Pilotbetrieb)  
-- Anlage K-3: IFG-Auskunft LH Schwerin über Vertragsabschluss 12/2025  
+**Beweismittel:**
+- Anlage K-1: LinkedIn-Post ProtectIT-Mitarbeiter (Screenshot, 08.01.2026)
+- Anlage K-2: VK-Verhandlungsprotokoll 04.06.2026 (Stellungnahme Vergabestelle zu SOC-Pilotbetrieb)
+- Anlage K-3: IFG-Auskunft LH Schwerin über Vertragsabschluss 12/2025
 - Anlage K-4: TED-Datenbankrecherche (keine Bekanntmachung für NSV SOC 2025)
 
 ---
 
-**Dr. Constantin Bährens**  
+**Dr. Constantin Bährens**
 Fachanwalt für Vergaberecht
 
 ---

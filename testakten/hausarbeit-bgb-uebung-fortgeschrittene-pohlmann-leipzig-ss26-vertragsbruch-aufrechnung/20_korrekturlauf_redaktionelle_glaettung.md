@@ -1,6 +1,6 @@
 # 20 — Korrekturlauf und redaktionelle Glättung (v1 → v3)
 
-**Bearbeiter:** Konrad Pohlmann  
+**Bearbeiter:** Konrad Pohlmann
 **Stand:** 28.05.2026 (nach Erstentwurf und zweitem Korrekturdurchlauf)
 
 ---

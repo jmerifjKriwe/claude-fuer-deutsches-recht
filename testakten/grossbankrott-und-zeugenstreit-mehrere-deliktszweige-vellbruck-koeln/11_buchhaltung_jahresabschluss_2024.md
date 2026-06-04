@@ -1,9 +1,9 @@
 # 11 — Buchhaltungsausschnitt: Jahresabschluss 2024 (Auszug)
 
-**Pellbach Logistik & Spedition GmbH, Koeln**  
-**Jahresabschluss zum 31. Dezember 2024 (Entwurf, vor Eröffnungsbeschluss IV)**  
-Erstellt durch: Steuerberater Hubertus Engelmeier, Engelmeier StB, Koeln  
-Datum Entwurf: 18.02.2025 (vor Insolvenzantrag)  
+**Pellbach Logistik & Spedition GmbH, Koeln**
+**Jahresabschluss zum 31. Dezember 2024 (Entwurf, vor Eröffnungsbeschluss IV)**
+Erstellt durch: Steuerberater Hubertus Engelmeier, Engelmeier StB, Koeln
+Datum Entwurf: 18.02.2025 (vor Insolvenzantrag)
 
 Dieser Auszug enthält Kerngroessen aus Bilanz und GuV sowie die Sanierungs-LFR (Liquiditaets- und Finanzrechnung Vorjahresvergleich).
 

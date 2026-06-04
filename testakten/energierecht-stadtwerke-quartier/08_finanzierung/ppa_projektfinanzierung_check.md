@@ -1,8 +1,8 @@
 # Bankability-Prüfung und PPA-Check – Hafenbogen Energie GmbH & Co. KG
 
-**Dokument-Nr.:** SWKK-BANK-2026-01  
-**Stand:** März 2026  
-**Verfasser:** RA Thomas Bernauer, Kanzlei Bernauer & Partnerinnen  
+**Dokument-Nr.:** SWKK-BANK-2026-01
+**Stand:** März 2026
+**Verfasser:** RA Thomas Bernauer, Kanzlei Bernauer & Partnerinnen
 **Adressat:** Stadtwerke Klotzkette AG und Stadtwerke-Beteiligungsgesellschaft Bayern mbH
 
 ---

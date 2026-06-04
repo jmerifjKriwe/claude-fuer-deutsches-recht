@@ -1,8 +1,8 @@
 # Due-Diligence-Findings Energierecht – Hafenbogen Energie GmbH & Co. KG
 
-**Dokument-Nr.:** SWKK-DD-ENR-2026-01  
-**Stand:** 31. Januar 2026 (Abschlussbericht, Entwurf)  
-**Erstellt von:** Kanzlei Investor (Vogel & Noot Rechtsanwälte PartGmbB, München), im Auftrag der Stadtwerke-Beteiligungsgesellschaft Bayern mbH  
+**Dokument-Nr.:** SWKK-DD-ENR-2026-01
+**Stand:** 31. Januar 2026 (Abschlussbericht, Entwurf)
+**Erstellt von:** Kanzlei Investor (Vogel & Noot Rechtsanwälte PartGmbB, München), im Auftrag der Stadtwerke-Beteiligungsgesellschaft Bayern mbH
 **Vertraulichkeit:** Streng vertraulich – nur Parteien und Berater
 
 ---

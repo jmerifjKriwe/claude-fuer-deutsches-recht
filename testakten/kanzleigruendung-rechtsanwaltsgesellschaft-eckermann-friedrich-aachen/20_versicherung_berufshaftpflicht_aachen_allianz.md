@@ -1,8 +1,8 @@
 # 20 Versicherung — Berufshaftpflicht Allianz, Eintragung im Anwaltsregister
 
-**Aktenzeichen:** KBH-2026-001-EFS  
-**Stand:** 08. Mai 2026  
-**Verantwortlich:** Dr. Volker Sandhof  
+**Aktenzeichen:** KBH-2026-001-EFS
+**Stand:** 08. Mai 2026
+**Verantwortlich:** Dr. Volker Sandhof
 
 ---
 

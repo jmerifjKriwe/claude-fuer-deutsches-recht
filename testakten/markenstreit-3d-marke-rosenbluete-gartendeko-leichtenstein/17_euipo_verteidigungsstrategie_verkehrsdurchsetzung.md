@@ -1,8 +1,8 @@
 # 17 — EUIPO-Verteidigungsstrategie: Nachweis der Verkehrsdurchsetzung
 
-**Bearbeiter:** PA Dr. Volkmar Trautmann  
-**Datum:** 30. Mai 2026  
-**Verfahren:** EUIPO BoA R 1322/26-2 (Ergänzung zur Beschwerdegegenschrift)  
+**Bearbeiter:** PA Dr. Volkmar Trautmann
+**Datum:** 30. Mai 2026
+**Verfahren:** EUIPO BoA R 1322/26-2 (Ergänzung zur Beschwerdegegenschrift)
 
 ---
 
@@ -10,7 +10,7 @@
 
 Die Mandantin hat die 3D-Marke im Jahr 2019 aufgrund originärer Unterscheidungskraft eingetragen erhalten. Im Nichtigkeitsverfahren ist Bouqart die Beweislast dafür auferlegt, dass die eingetragene Marke von Anfang an nicht unterscheidungskräftig war. Die Markeninhaberin kann der Nichtigkeitserklärung dadurch begegnen, dass sie nachweist, entweder:
 
-(a) dass die Marke im Eintragungszeitpunkt originär unterscheidungskräftig war (Primärargument), oder  
+(a) dass die Marke im Eintragungszeitpunkt originär unterscheidungskräftig war (Primärargument), oder
 (b) dass die Marke jedenfalls im Zeitpunkt der EUIPO-Entscheidung durch Benutzung Unterscheidungskraft erworben hat (Art. 7 Abs. 3 UMV — Verkehrsdurchsetzung).
 
 Das vorliegende Aktenstück dokumentiert die Nachweise für den Hilfsstandpunkt (b) — Verkehrsdurchsetzung.
@@ -38,8 +38,8 @@ Typischerweise werden folgende Mittel eingesetzt:
 
 ### 3.1 Demoskopisches Gutachten GfK SE
 
-**Gutachten:** GfK SE, Nürnberg, Durchführungszeitraum April–Mai 2026  
-**Methode:** Online-Panel, n = 1.847 Befragte in D, A, CH; Zielgruppe: Gartenbesitzer mit nachgewiesener Gartendeko-Kaufhistorie (mind. 1 Kauf in 24 Monaten über 50 EUR)  
+**Gutachten:** GfK SE, Nürnberg, Durchführungszeitraum April–Mai 2026
+**Methode:** Online-Panel, n = 1.847 Befragte in D, A, CH; Zielgruppe: Gartenbesitzer mit nachgewiesener Gartendeko-Kaufhistorie (mind. 1 Kauf in 24 Monaten über 50 EUR)
 **Fragebogen-Auszug:**
 
 Frage 1 (offen): „Welche Marken oder Hersteller von dekorativen Metallblumen für den Garten kennen Sie?" — Leichtenstein wurde von 28 % der Befragten spontan genannt (Platz 1 unter allen genannten Marken in D/A/CH).
@@ -100,5 +100,5 @@ Die demoskopische Studie mit 34 % korrekter Herkunftszuordnung und insgesamt 52 
 
 ---
 
-**Erstellt von:** PA Dr. Volkmar Trautmann  
+**Erstellt von:** PA Dr. Volkmar Trautmann
 **Datum:** 30. Mai 2026

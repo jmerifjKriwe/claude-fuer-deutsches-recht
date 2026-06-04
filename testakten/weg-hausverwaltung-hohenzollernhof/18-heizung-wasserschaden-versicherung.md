@@ -1,7 +1,7 @@
 # Heizungsstörung, Wasserschaden und Versicherung
 
-**Objekt:** Hohenzollernhof, Hohenzollerndamm 180, Berlin-Wilmersdorf  
-**Zeitraum:** 03.02.2026 bis 24.05.2026  
+**Objekt:** Hohenzollernhof, Hohenzollerndamm 180, Berlin-Wilmersdorf
+**Zeitraum:** 03.02.2026 bis 24.05.2026
 **Bearbeitung:** Hausverwaltung Abendroth & Partner, Beirat: Dr. Mechthild Bernward, Tarik Yildiz, Gertrud Mautz
 
 ## Chronologie

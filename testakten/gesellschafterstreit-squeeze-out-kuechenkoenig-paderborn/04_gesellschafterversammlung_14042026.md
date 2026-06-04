@@ -1,8 +1,8 @@
 # 04 — Auswertung Gesellschafterversammlung 14.04.2026
 
-**Akte:** DWSP/2026/GR-4417  
-**Erstellt:** 19.04.2026  
-**Bearbeiter:** Prof. Dr. Wieland Drosselberg / Ass. iur. Miriam Sandtenbruch  
+**Akte:** DWSP/2026/GR-4417
+**Erstellt:** 19.04.2026
+**Bearbeiter:** Prof. Dr. Wieland Drosselberg / Ass. iur. Miriam Sandtenbruch
 
 ---
 
@@ -91,5 +91,5 @@ Nach der GV haben die Mandanten unmittelbar gehandelt:
 
 ---
 
-*Erstellt: 19.04.2026 — Ass. iur. Miriam Sandtenbruch*  
+*Erstellt: 19.04.2026 — Ass. iur. Miriam Sandtenbruch*
 *Referenz: BGH II ZR 240/08; OLG Hamm 8 U 180/12; dejure.org/gesetze/AktG/243.html*

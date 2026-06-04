@@ -1,7 +1,7 @@
 # 15 — Fristlose Kündigung BSV Sachsen Zwickau e.V., 12.03.2026
 
-**Erstellt:** 14.03.2026  
-**Bearbeiter:** RAin Sophie Wenderlich  
+**Erstellt:** 14.03.2026
+**Bearbeiter:** RAin Sophie Wenderlich
 **AZ:** SU/DOPING/2026-001 / ArbG Chemnitz 4 Ca 88/26
 
 ---
@@ -28,7 +28,7 @@ Der BSV Sachsen Zwickau e.V. duldet keinerlei Dopingverstöße. Das Vertrauen in
 
 Wir bitten Sie, sämtliche Vereinsgegenstände (Trikots, Trainingsausrüstung, Schlüssel) bis 20.03.2026 zurückzugeben.
 
-*Zwickau, 12.03.2026*  
+*Zwickau, 12.03.2026*
 *Volker Bernstein, 1. Vorsitzender BSV Sachsen Zwickau e.V.*
 
 ---
@@ -43,7 +43,7 @@ Wir bitten Sie, sämtliche Vereinsgegenstände (Trikots, Trainingsausrüstung, S
 
 ### 2.2 Wichtiger Grund — Prüfung
 
-**Vorliegen eines Sachverhalts:**  
+**Vorliegen eines Sachverhalts:**
 Der BSV stützt die Kündigung auf den positiven Dopingbefund. Ein positiver Dopingbefund ist grundsätzlich geeignet, einen wichtigen Grund darzustellen — jedoch nicht automatisch. Entscheidend ist eine Interessenabwägung.
 
 **Interessenabwägung:**

@@ -1,7 +1,7 @@
 # Analyse: Lizenzvertrag Mare GmbH 2019 und Streit um Bildband-Wiederholung
 
-**AZ intern:** 26-UMR-0084 / Teilakte Mare  
-**Datum:** 23.01.2026  
+**AZ intern:** 26-UMR-0084 / Teilakte Mare
+**Datum:** 23.01.2026
 **Bearbeiterin:** Dr. Kreidler-Bremer
 
 ---
@@ -32,7 +32,7 @@ Der Vertrag liegt der Akte als Scan vor (schwer lesbar, einige Klauseln durch Ti
 
 ### 1. Streitpunkt „Buyout Print International"
 
-Der handschriftliche Stempel „Buyout Print International — mare" widerspricht dem typisierten Vertragstext (§ 1: „einfaches Nutzungsrecht zur einmaligen Veröffentlichung"). 
+Der handschriftliche Stempel „Buyout Print International — mare" widerspricht dem typisierten Vertragstext (§ 1: „einfaches Nutzungsrecht zur einmaligen Veröffentlichung").
 
 **Windgassen:** Sie habe diesen Stempel nicht unterzeichnet, er sei nachträglich angebracht worden; sie sei sich sicher, dass nur Erstveröffentlichungsrechte eingeräumt worden seien. Das Honorar von 3.200 EUR entspräche Erstveröffentlichung, aber nicht einem Buyout, der marktüblich deutlich höher wäre.
 
@@ -59,8 +59,8 @@ Tarife der VG Bild-Kunst (Gemeinsamer Vergütungsausschuss Verlage):
 
 ## III. Verhandlungsstrategie
 
-**Ziel:** 4.800 EUR Pauschalhonorar + 2 % Verkaufsbeteiligung auf den Ladenpreis  
-**BATNA:** Ablehnung des Wiederdrucks und Unterlassungsaufforderung (hohe Abschreckwirkung, da Bildband-Produktion läuft)  
+**Ziel:** 4.800 EUR Pauschalhonorar + 2 % Verkaufsbeteiligung auf den Ladenpreis
+**BATNA:** Ablehnung des Wiederdrucks und Unterlassungsaufforderung (hohe Abschreckwirkung, da Bildband-Produktion läuft)
 **Taktik:**
 1. Rechtseinräumungs-Lücke (§ 1 Vertrag) schriftlich gegenüber Mare festhalten
 2. Buyout-Stempel bestreiten (Schriftvergleich oder Datierung prüfen)

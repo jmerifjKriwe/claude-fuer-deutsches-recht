@@ -1,8 +1,8 @@
 # Forderungsanmeldung – Finanzamt Potsdam (Steuer + Vorsteuerberichtigung)
 
-**Aktenzeichen:** 35 IN 417/26  
-**Gläubiger-ID (intern):** G003  
-**Eingang:** 7. Mai 2026 (Einschreiben)  
+**Aktenzeichen:** 35 IN 417/26
+**Gläubiger-ID (intern):** G003
+**Eingang:** 7. Mai 2026 (Einschreiben)
 **Anmeldungstyp:** Einfache Insolvenzforderung gemäß § 38 InsO; besonderer Rechtsgrund § 302 Nr. 1 InsO (Steuerstraftat, bestritten)
 
 ---

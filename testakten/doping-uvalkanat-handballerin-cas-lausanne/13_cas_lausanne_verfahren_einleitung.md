@@ -1,7 +1,7 @@
 # 13 — CAS Lausanne: Verfahrenseinleitung CAS 2026/A/8821
 
-**Erstellt:** 01.08.2026  
-**Bearbeiter:** RA Prof. Dr. Markus Lentze  
+**Erstellt:** 01.08.2026
+**Bearbeiter:** RA Prof. Dr. Markus Lentze
 **AZ:** SU/DOPING/2026-001 / CAS 2026/A/8821
 
 ---
@@ -41,11 +41,11 @@ Eingereicht am 15.07.2026, per E-Mail an cas@tas-cas.org und schriftlich per Kur
 
 ### 2.2 Inhalt des Statement of Appeal (Auszug)
 
-„**Court of Arbitration for Sport**  
-Avenue de Beaumont 2  
-1012 Lausanne, Schweiz  
+„**Court of Arbitration for Sport**
+Avenue de Beaumont 2
+1012 Lausanne, Schweiz
 
-**Statement of Appeal**  
+**Statement of Appeal**
 CAS 2026/A/8821
 
 **Appellant:** Selin Uvalkanat, Karl-Marx-Straße 47, 08056 Zwickau, vertreten durch RA Prof. Dr. Markus Lentze, Kanzlei Lentze, Stopper & Partner, Kronenstraße 55, 70174 Stuttgart
@@ -56,7 +56,7 @@ CAS 2026/A/8821
 
 **Angefochtene Entscheidung:** Schiedsspruch des Deutschen Sportschiedsgerichts (DSGSp 12/26) vom 30.06.2026, zugestellt 07.07.2026
 
-**Anträge:** 
+**Anträge:**
 1. Aufhebung der Sperre; hilfsweise Reduzierung auf maximal 8 Monate
 2. Rückwirkende Aufhebung der vorläufigen Suspendierung, soweit die Sperre kürzer als die bisherige Suspendierungszeit ausfällt
 3. Kosten zu Lasten NADA"

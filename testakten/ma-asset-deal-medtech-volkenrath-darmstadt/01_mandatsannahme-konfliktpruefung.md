@@ -1,9 +1,9 @@
 # 01 — Mandatsannahme und Interessenkonfliktprüfung
 
-**Aktenzeichen intern:** DMP/2025/MA/4471  
-**Datum:** 14. Oktober 2025  
-**Bearbeiter:** RA Prof. Dr. Felix Mannfeldt (federführend), RA Dr. Saskia Altenkamp (Juniorpartnerin)  
-**Mandantin:** VENERA Investment Group GmbH, Bockenheimer Landstrasse 24, 60323 Frankfurt am Main  
+**Aktenzeichen intern:** DMP/2025/MA/4471
+**Datum:** 14. Oktober 2025
+**Bearbeiter:** RA Prof. Dr. Felix Mannfeldt (federführend), RA Dr. Saskia Altenkamp (Juniorpartnerin)
+**Mandantin:** VENERA Investment Group GmbH, Bockenheimer Landstrasse 24, 60323 Frankfurt am Main
 **Vertreten durch:** Theodora Volkenrath-Eichelmann (Geschäftsführerin)
 
 ---

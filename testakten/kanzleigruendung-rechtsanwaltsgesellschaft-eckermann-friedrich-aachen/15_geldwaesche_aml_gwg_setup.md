@@ -1,8 +1,8 @@
 # 15 Geldwäsche-Prävention — AML/GwG-Setup
 
-**Aktenzeichen:** KBH-2026-001-EFS  
-**Stand:** 26. April 2026  
-**Verantwortlich:** Dr. Volker Sandhof (GwG-Beauftragter)  
+**Aktenzeichen:** KBH-2026-001-EFS
+**Stand:** 26. April 2026
+**Verantwortlich:** Dr. Volker Sandhof (GwG-Beauftragter)
 
 ---
 

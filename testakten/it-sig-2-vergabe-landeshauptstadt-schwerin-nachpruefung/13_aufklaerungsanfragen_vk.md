@@ -1,8 +1,8 @@
 # Aktenstück 13 – Aufklärungsanfragen der Vergabekammer
 
-**Aktenzeichen:** VK 1-32/26  
-**Datum:** 14.05.2026  
-**Von:** Vergabekammer des Bundes, VK 1 – Berichterstatterin ORR Dr. Claudia Vogt  
+**Aktenzeichen:** VK 1-32/26
+**Datum:** 14.05.2026
+**Von:** Vergabekammer des Bundes, VK 1 – Berichterstatterin ORR Dr. Claudia Vogt
 **An:** Alle Verfahrensbeteiligten
 
 ---
@@ -77,12 +77,12 @@ b) Bitte legen Sie die Leistungsbeschreibung des VVS-Auftrags vor, die den konkr
 
 ---
 
-*Aufklärungsantworten sind bis zum 28.05.2026 einzureichen.*  
+*Aufklärungsantworten sind bis zum 28.05.2026 einzureichen.*
 *Aufklärungstermin: 04.06.2026, 10:00 Uhr, VK Bund, Bonn (Sitzungssaal 2)*
 
 ---
 
-gez. Dr. Claudia Vogt  
+gez. Dr. Claudia Vogt
 Berichterstatterin, VK 1
 
 ---

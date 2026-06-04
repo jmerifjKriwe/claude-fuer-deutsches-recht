@@ -21,12 +21,12 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-**Version:** 3.2.1  
-**Mandantin:** klôtzzkètté SA, Paris/Mailand — Haute-Couture-Label, Geschäftsführerin Comtesse Beatrice de Klotzzkettie  
-**US-Tochter:** klôtzzkètté Inc., 712 Fifth Avenue, New York, NY 10019  
-**Kanzlei DE:** Steinacker Lichtenberg, München (Boutique-IP-Kanzlei)  
-**Kanzlei US:** Whitman Brennan Forsythe LLP, 1290 Avenue of the Americas, New York, NY 10104  
-**Fiktive Gegner:** Brezelmann Discount KG (Bad Mergentheim), Donauzon Marketplace GmbH  
+**Version:** 3.2.1
+**Mandantin:** klôtzzkètté SA, Paris/Mailand — Haute-Couture-Label, Geschäftsführerin Comtesse Beatrice de Klotzzkettie
+**US-Tochter:** klôtzzkètté Inc., 712 Fifth Avenue, New York, NY 10019
+**Kanzlei DE:** Steinacker Lichtenberg, München (Boutique-IP-Kanzlei)
+**Kanzlei US:** Whitman Brennan Forsythe LLP, 1290 Avenue of the Americas, New York, NY 10104
+**Fiktive Gegner:** Brezelmann Discount KG (Bad Mergentheim), Donauzon Marketplace GmbH
 
 ---
 
@@ -64,11 +64,11 @@ Die vollständige Skillliste steht unten automatisch generiert. Inhaltlich arbei
 
 ## Persona
 
-**Rolle:** Partnerin, Boutique-IP-Kanzlei Steinacker Lichtenberg (im Stil von Hogan Lovells IP, Bird & Bird Fashion Practice, Boehmert & Boehmert)  
-**Mandantin:** klôtzzkètté SA (Haute-Couture-Label, Paris/Mailand) — fiktive italo-französische Maison  
-**Geschäftsführerin:** Comtesse Beatrice de Klotzzkettie  
-**Ton:** präzise, abgeklärt, mit einem Hauch Pariser Hauteur und Münchener IP-Härte  
-**Sprache:** Deutsch (Anwaltsstil); US-Korrespondenz mit Whitman Brennan Forsythe LLP auf Englisch  
+**Rolle:** Partnerin, Boutique-IP-Kanzlei Steinacker Lichtenberg (im Stil von Hogan Lovells IP, Bird & Bird Fashion Practice, Boehmert & Boehmert)
+**Mandantin:** klôtzzkètté SA (Haute-Couture-Label, Paris/Mailand) — fiktive italo-französische Maison
+**Geschäftsführerin:** Comtesse Beatrice de Klotzzkettie
+**Ton:** präzise, abgeklärt, mit einem Hauch Pariser Hauteur und Münchener IP-Härte
+**Sprache:** Deutsch (Anwaltsstil); US-Korrespondenz mit Whitman Brennan Forsythe LLP auf Englisch
 
 ---
 
@@ -96,88 +96,34 @@ Die vollständige Skillliste steht unten automatisch generiert. Inhaltlich arbei
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 79 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 25 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `abmahnung-markenrecht-uwg` | Markenrechtliche Abmahnung mit strafbewehrter Unterlassungserklärung erstellen: Mandant hat Markenverletzung entdeckt und will Abmahnung aussprechen oder hat Abmahnung erhalten und muss reagieren. Normen: § 14 MarkenG (Verletzungsansprüc... |
-| `absolute-schutzhindernisse-8-markeng-art7-umv` | Absolute Schutzhindernisse bei DPMA- und EUIPO-Anmeldungen prüfen: Unterscheidungskraft, beschreibende Angaben, Freihaltebedürfnis, Täuschung, Sittenverstoß, Hoheitszeichen, Form- und Funktionsausschlüsse, Verkehrsdurchsetzung und Beanst... |
-| `agb-haendlervertrag-luxus` | AGB- und Händlervertragsprüfung für Luxus-Selektivvertrieb: Qualitätskriterien, Plattformverbote, MFN, Vertragsstrafe, MAP/UPE, Vertikal-GVO, B2B-AGB-Kontrolle und markenrechtliche Brand-Control. |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im großen Markenrechts-Plugin: klärt Anmeldung, Recherche, DPMA/EUIPO/WIPO/USPTO, Schutzhindernisse, Benutzung, Widerspruch, Verfall/Nichtigkeit, Enforcement, Plattformen, Zoll, Lizenzen und L... |
-| `anmeldung-strategie-portfolio` | Strategische Markenportfolio-Planung für Luxus-Modehaeuser: Mandant will Marken in DE/EU/international schützen oder Portfolio optimieren. Normen: §§ 32 ff. MarkenG, Art. 32 ff. UMV (EU) 2017/1001, Madrid-Protokoll (WIPO). Prüfraster: Ni... |
-| `anti-ki-marke-und-kennzeichen` | Neue Kennzeichenstrategien für KI-Authentizitaet in Haute-Couture: Modehaus will Human-Made-Labels, Anti-KI-Marken oder Authentizitaetszertifikate etablieren. Normen: EU AI Act (VO) 2024/1689 (Transparenzpflichten), MarkenG § 3 (Markenfä... |
-| `benutzungsschonfrist-und-rechtserhaltende-benutzung` | Rechtserhaltende Benutzung und Benutzungsschonfrist prüfen: ernsthafte Benutzung, Zeitraum, Gebiet, Waren/Dienstleistungen, Benutzungsunterlagen, Widerspruchseinrede, Verfallsrisiko und Belegpaket. |
-| `beweissicherung-testkauf-screenshot-chain` | Beweissicherung im Markenrecht organisieren: Testkauf, Screenshot-Protokoll, Hashwerte, Zeugen, Produktvergleich, Chain of Custody, Plattformdaten, Messefund und gerichtsfeste Anlagen. |
-| `bildmarke-und-wort-bild` | Bildmarke und Wort-Bild-Marke für Couture-Logos beim DPMA und EUIPO anmelden: Modehaus will Logo grafisch schützen einschließlich Farbansprüchen. Normen: §§ 3 und 8 MarkenG sowie Art. 4 UMV, Vienna Classification (EUIPO-Bilddatenbank). P... |
-| `boesglaeubige-anmeldung-und-sperrmarke` | Bösgläubige Markenanmeldung, Sperrmarke und Trittbrettfahrer prüfen: Kenntnis älterer Benutzung, Behinderungsabsicht, Serienanmeldungen, Abmahnmodell, Nichtigkeit, Gegenabmahnung und Beweisführung. |
-| `discounter-und-graumarkt-brezelmann` | Graumarkt, Discountervertrieb und Erschöpfung im Markenrecht prüfen: EWR-Inverkehrbringen, Zustimmung, berechtigte Gründe, Rufschädigung, selektiver Vertrieb, Seriennummern und Auskunft. |
-| `dpma-bpatg-bgh-rechtsmittelroute` | DPMA-, BPatG- und BGH-Route im Markenrecht abbilden: Beanstandung, Erinnerung, Widerspruch, Löschung, Beschwerde, Rechtsbeschwerde, Fristen, Begründung und Registerfolgen. |
-| `dpma-widerspruch-und-loeschung` | DPMA-Widerspruch und Löschungsantrag gegen kollidierendes Zeichen: Markeninhaber entdeckt juengere aehnliche Marke oder will Lösung. Normen: §§ 42 ff. MarkenG (Widerspruch), § 49 MarkenG (Verfall wegen Nichtbenutzung), § 50 MarkenG (Nich... |
-| `dreidimensionale-marke` | Dreidimensionale Marke und Formmarke prüfen: Produktform, Flakon, Schuhform, technische Funktion, wesentlicher Wert, Unterscheidungskraft, Verkehrsdurchsetzung und Design-Alternativen. |
-| `duftmarke-und-geschmacksmarke` | Duftmarken und Geschmacksmarken realistisch prüfen: Darstellbarkeit, klare und eindeutige Wiedergabe, praktische Eintragungshürden, UWG-, Patent-, Design- und Geschäftsgeheimnis-Alternativen. |
-| `einstweilige-verfuegung-markenrecht-dringleichkeit` | Einstweilige Verfügung im Markenrecht vorbereiten oder abwehren: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Selbstwiderlegung, Glaubhaftmachung, Schutzschrift, Anträge und Vollziehung. |
-| `erschoepfung-parallelimport-graumarkt` | Erschöpfung, Parallelimport und Graumarkt prüfen: erstes Inverkehrbringen im EWR, Zustimmung, Umpacken, Luxusimage, selektiver Vertrieb, Beweislast, Testkäufe und Durchsetzungsstrategie. |
-| `euipo-beschwerdekammer-eu-gerichte` | EUIPO-Rechtsmittelroute steuern: Beschwerdekammer, Begründung, Belege, Fristen, Amtssprache, Vergleich, Gericht der EU, EuGH-Rechtsmittel und nationale Parallelverfahren. |
-| `euipo-widerspruchsverfahren` | EUIPO-Widerspruchsverfahren nach Art. 8 UMV führen: aeltere Marke kollidiert mit juengerer Unionsmarken-Anmeldung. Normen: Art. 8 Abs. 1 lit. b UMV (Verwechslungsgefahr), Art. 8 Abs. 5 UMV (Bekanntheitsschutz), Art. 46 UMV (Beschwerdekam... |
 | `fashion-luxus-kaltstart-interview` | Mandantenaufnahme Modehaus und IP-Audit-Erstgespraech: Neues Luxus-Mode-Mandat beginnt, Portfolio-Inventur und Prioritaeten-Matrix sind zu erstellen. Normen: BRAO § 43a, § 32 MarkenG, Art. 32 UMV. Prüfraster: IP-Audit-Fragenkatalog (Mark... |
-| `geografische-angaben-kollektiv-gewaehrleistungsmarke` | Geografische Angaben, Kollektivmarken und Gewährleistungsmarken prüfen: Herkunftsschutz, Qualitätszeichen, Verbandsmarke, Satzung, Irreführung, EU-Schutzsysteme und Abgrenzung zur Individualmarke. |
-| `green-claims-und-nachhaltigkeitsmarken` | Nachhaltigkeitsmarken und Green Claims prüfen: Markenanmeldung, beschreibende Umweltangaben, Täuschungsgefahr, UWG, Nachweisführung, Zertifizierungszeichen, Greenwashing-Risiko und Produktkommunikation. |
-| `haptik-und-tastmarke` | Haptik- und Tastmarken prüfen: Oberflächenstruktur, Materialgefühl, Darstellbarkeit, Unterscheidungskraft, Verkehrsdurchsetzung, Designschutz, UWG und Produktionsgeheimnisse. |
-| `keyword-advertising-hashtag-influencer` | Keyword Advertising, Hashtags, Influencer-Posts und Metatags markenrechtlich prüfen: Benutzung im geschäftlichen Verkehr, Herkunftsfunktion, Anzeigenkontext, vergleichende Werbung, Plattformbelege und UWG-Schnittstelle. |
-| `ki-generierte-marken-deepfake-counterfeit` | KI-generierte Markenverletzungen, Deepfake-Werbung und Counterfeit-Kampagnen prüfen: synthetische Produktbilder, Fake-Shops, Brand-Impersonation, Plattformmeldungen, DSA, AI-Act-Schnittstelle und Beweissicherung. |
-| `klageantraege-auskunft-vernichtung-rueckruf` | Klageanträge im Markenrecht bauen: Unterlassung, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Entfernung aus Vertriebswegen, Schadensersatzfeststellung, Annexanträge und Bestimmtheit. |
-| `madrid-protokoll-und-internationale-registrierung` | Madrid-Protokoll WIPO und internationale Registrierung von Marken: Modehaus will Markenschutz in mehreren Laendern über IR-Anmeldung. Normen: Madrid-Protokoll (WIPO), § 107 MarkenG (IR-Marke), 15 U.S.C. § 1126 (Section 66(a) USPTO). Prüf... |
-| `markenbewertung-asset-deal-insolvenz` | Marken als Vermögensgegenstand bewerten und in Asset Deal, Finanzierung oder Insolvenz verwerten: Portfolioqualität, Benutzung, Lizenzen, Streit, Bewertungsmethoden, Sicherheiten, Datenraum und Käuferfragen. |
-| `markenlizenz-und-qualitaetskontrolle` | Markenlizenzverträge entwerfen und prüfen: exklusive/nicht-exklusive Lizenz, Territorium, Waren, Qualitätskontrolle, Unterlizenz, Register, Royalty, Audit, Kündigung, Erschöpfung und Insolvenzrisiko. |
-| `markenmonitoring-und-watchlist` | Markenmonitoring und Watchlist-Dienste einrichten: Modehaus will Fruehwarnung bei Trittbrettfahrer-Anmeldungen. Normen: § 14 MarkenG (Verletzungsschutz), Art. 9 UMV, Madrid-Monitor WIPO. Prüfraster: DPMA/EUIPO/WIPO-Watch-Konfiguration, A... |
-| `markenuebertragung-chain-of-title` | Markenübertragung und Chain-of-Title prüfen: Asset Deal, Share Deal, Konzernumhängung, Registerumschreibung, Vollmachten, Prioritätsrechte, Lizenzen, Sicherheiten und internationale Portfolios. |
-| `marketplace-notice-action-dsa` | Marketplace-Enforcement nach MarkenG und Digital Services Act: Notice-and-Action, Trusted Flagger, Plattformhaftung, Wiederholungstäter, Belegpaket, Gegenanzeige und Eskalation gegen Online-Marktplätze. |
-| `messe-verletzung-und-gv-einsatz` | Markenverletzung auf Messen (Pitti Uomo, Berlin Fashion Week) schnell unterbinden: Eilantrag und Gerichtsvollzieher-Einsatz vorbereiten. Normen: §§ 935 und 940 ZPO (einstweilige Verfuegung), § 19 MarkenG (Auskunftsanspruch), § 18 MarkenG... |
-| `nyc-korrespondenz-und-conflict-check` | Mandat-Workflow mit US-Korrespondenzkanzlei für Markenverfahren in den USA: Beauftragung, Vollmacht USPTO, Interessenkonflikt-Prüfung und Kommunikationsprotokoll. Normen: 37 C.F.R. § 2.17 (Power of Attorney USPTO), Attorney-Client Privil... |
-| `plattform-piraterie-donauzon` | Plattformpiraterie und Online-Marktplatz-Enforcement: DSA Notice-and-Action, MarkenG, DDG, Beweissicherung, Testkauf, Wiederholungstäter, Sperrverfügung und Eskalation. |
-| `positionsmarke` | Positionsmarken für Streifen, Muster, Farbpositionen und Produktdetails prüfen: Darstellung, gestrichelte Produktumrisse, Position, Unterscheidungskraft, Verkehrsdurchsetzung und Verletzung. |
-| `prioritaet-ausstellung-pariser-verbandsuebereinkunft` | Priorität, Ausstellungspriorität und PVÜ-Fristen bei Markenanmeldungen prüfen: nationale Erstanmeldung, Unionsmarke, Madrid, Messepriorität, Nachanmeldung, Prioritätsbelege und Fristenkalender. |
-| `produktpiraterie-und-zoll` | Anti-Produktpiraterie und Zoll-Grenzbeschlagnahme: Modehaus oder Luxusmarke will gefaelschte Waren an der EU-Grenze stoppen. Normen: VO (EU) 608/2013 (Zoll-Enforcement), § 14 MarkenG, § 25a ZollVG (Antrag auf Tätigwerden AWA). Prüfraster... |
-| `rechtsabteilung-google-ads-und-keyword-kollision` | Rechtsabteilungs-Spezialskill für Google Ads und Keyword-Kollision: Keyword Advertising wird nach Herkunftsfunktion, Anzeigegestaltung und Beweislage bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-grenzbeschlagnahme-gegen-faelschungen` | Rechtsabteilungs-Spezialskill für Grenzbeschlagnahme gegen Fälschungen: Zollanträge, Muster, Vernichtungsverfahren und Beweissicherung werden vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-influencer-brand-use-und-erschoepfung` | Rechtsabteilungs-Spezialskill für Influencer-Brand-Use und Erschöpfung: Affiliate-Posts, Hashtags und Resale werden auf Marken- und Werberecht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-lookalike-produkte-und-rufausbeutung` | Rechtsabteilungs-Spezialskill für Lookalike-Produkte und Rufausbeutung: Luxury-Counsel trennt Marke, Design, Nachahmung und wettbewerbliche Eigenart. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-plattformhaftung-nach-louboutin-amazon` | Rechtsabteilungs-Spezialskill für Plattformhaftung nach Louboutin-Amazon: Markeninhaber prüfen, ob Marketplace-Auftritt dem Plattformbetreiber als eigene Nutzung zugerechnet werden kann. Mit Normen, Rechtsprechungsanker, Belegmatrix und... |
-| `relative-schutzhindernisse-verwechslungsgefahr` | Relative Schutzhindernisse und Verwechslungsgefahr nach MarkenG und UMV prüfen: Zeichenähnlichkeit, Waren- und Dienstleistungsähnlichkeit, Kennzeichnungskraft, Serienzeichen, Bekanntheitsschutz und Widerspruchsstrategie. |
-| `schadensersatz-drei-methoden-auskunft` | Schadensersatz im Markenrecht berechnen und vorbereiten: konkrete Schadensberechnung, Verletzergewinn, Lizenzanalogie, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Kosten und Vergleichswert. |
-| `selektiver-vertrieb-coty` | Selektiven Vertrieb für Luxusgüter und Markenware prüfen und gestalten: qualitative Kriterien, Plattformverbot, Diskriminierungsfreiheit, Vertikal-GVO, Marktanteile, Händleraufnahme und Vertragsdurchsetzung. |
-| `slogan-marke` | Slogan-Marken und Kampagnenclaims prüfen: Unterscheidungskraft, Werbeaussage, beschreibender Charakter, Hashtag, Wort-Bild-Strategie, Verkehrsdurchsetzung und Beanstandungsantwort. |
-| `soundmarke-und-bewegungsmarke` | Hoermarken (Soundmarken) und Bewegungsmarken für Jingles und Animationen anmelden: Modehaus will Jingle oder Logo-Animation schützen. Normen: §§ 3 und 8 MarkenG, Art. 4 UMV (grafische Darstellung Sonogramm/MP3), MMA-Verfahren (Madrid). P... |
-| `spezial-alicante-schriftsatz-brief-und-memo-bausteine` | Alicante: Schriftsatz-, Brief- und Memo-Bausteine im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-boutique-tatbestand-beweis-und-belege` | Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-dpma-risikoampel-und-gegenargumente` | Dpma: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-euipo-behoerden-gericht-und-registerweg` | Euipo: Behörden-, Gerichts- oder Registerweg im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-korrespondenz-zahlen-schwellen-und-berechnung` | Korrespondenz: Zahlen, Schwellenwerte und Berechnung im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `kompendium-01-workflow-chronologie-bis-euipo-widerspruchsve` | markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (workflow-chronologie-und-belegmatrix, workflow-fristen-und-risikoampel, benutzungsschonfrist-und-rechtserhaltende-benutzung, euipo-widerspruc... |
+| `kompendium-02-spezial-luxus-friste-bis-schadensersatz-drei` | markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (spezial-luxus-fristen-form-und-zustaendigkeit, agb-haendlervertrag-luxus, rechtsabteilung-plattformhaftung-nach-louboutin-amazon, schadensers... |
+| `kompendium-03-abmahnung-markenrech-bis-anmeldung-strategie` | markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (abmahnung-markenrecht-uwg, euipo-beschwerdekammer-eu-gerichte, absolute-schutzhindernisse-8-markeng-art7-umv, anmeldung-strategie-portfolio)... |
+| `kompendium-04-anti-ki-marke-und-ke-bis-boesglaeubige-anmeld` | markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (anti-ki-marke-und-kennzeichen, beweissicherung-testkauf-screenshot-chain, bildmarke-und-wort-bild, boesglaeubige-anmeldung-und-sperrmarke) un... |
+| `kompendium-05-discounter-und-graum-bis-dreidimensionale-mar` | markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (discounter-und-graumarkt-brezelmann, dpma-bpatg-bgh-rechtsmittelroute, dpma-widerspruch-und-loeschung, dreidimensionale-marke) und bewahrt de... |
+| `kompendium-06-duftmarke-und-geschm-bis-geografische-angaben` | markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (duftmarke-und-geschmacksmarke, einstweilige-verfuegung-markenrecht-dringleichkeit, erschoepfung-parallelimport-graumarkt, geografische-angabe... |
+| `kompendium-07-green-claims-und-nac-bis-ki-generierte-marken` | markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (green-claims-und-nachhaltigkeitsmarken, haptik-und-tastmarke, keyword-advertising-hashtag-influencer, ki-generierte-marken-deepfake-counterfe... |
+| `kompendium-08-klageantraege-auskun-bis-markenlizenz-und-qua` | markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (klageantraege-auskunft-vernichtung-rueckruf, madrid-protokoll-und-internationale-registrierung, markenbewertung-asset-deal-insolvenz, markenl... |
+| `kompendium-09-markenmonitoring-und-bis-messe-verletzung-und` | markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (markenmonitoring-und-watchlist, markenuebertragung-chain-of-title, marketplace-notice-action-dsa, messe-verletzung-und-gv-einsatz) und bewahr... |
+| `kompendium-10-nyc-korrespondenz-un-bis-prioritaet-ausstellu` | markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (nyc-korrespondenz-und-conflict-check, plattform-piraterie-donauzon, positionsmarke, prioritaet-ausstellung-pariser-verbandsuebereinkunft) und... |
+| `kompendium-11-produktpiraterie-und-bis-rechtsabteilung-infl` | markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (produktpiraterie-und-zoll, rechtsabteilung-google-ads-und-keyword-kollision, rechtsabteilung-grenzbeschlagnahme-gegen-faelschungen, rechtsabt... |
+| `kompendium-12-rechtsabteilung-look-bis-slogan-marke` | markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (rechtsabteilung-lookalike-produkte-und-rufausbeutung, relative-schutzhindernisse-verwechslungsgefahr, selektiver-vertrieb-coty, slogan-marke)... |
+| `kompendium-13-soundmarke-und-beweg-bis-spezial-dpma-risikoa` | markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (soundmarke-und-bewegungsmarke, spezial-alicante-schriftsatz-brief-und-memo-bausteine, spezial-boutique-tatbestand-beweis-und-belege, spezial-... |
+| `kompendium-14-spezial-euipo-behoer-bis-spezial-markenrecht` | markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (spezial-euipo-behoerden-gericht-und-registerweg, spezial-korrespondenz-zahlen-schwellen-und-berechnung, spezial-markenarten-compliance-dokume... |
+| `kompendium-15-spezial-modehaeuser-bis-ttab-opposition-und` | markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (spezial-modehaeuser-dokumentenmatrix-und-lueckenliste, spezial-uspto-verhandlung-vergleich-und-eskalation, spezial-wort-mehrparteien-konflikt... |
+| `kompendium-16-unionsmarken-anmeldu-bis-us-selektivvertrieb` | markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (unionsmarken-anmeldung-euipo, unternehmenskennzeichen-werktitel-domain, us-counterfeit-und-customs-cbp, us-selektivvertrieb-und-mfp-tiffany-v... |
+| `kompendium-17-us-trade-dress-und-s-bis-verfall-nichtigkeit` | markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (us-trade-dress-und-secondary-meaning, uspto-anmeldung-und-lanham-act, uspto-office-actions-und-tess-tsdr, verfall-nichtigkeit-und-loeschungsa... |
+| `kompendium-18-vergleich-koexistenz-bis-wortmarke-anmeldung` | markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (vergleich-koexistenz-abgrenzungsvereinbarung, vertikale-preisbindung-vbe-vo, waren-dienstleistungen-ekdb-tmclass-nizza, wortmarke-anmeldung-d... |
 | `spezial-lanham-livequellen-und-rechtsprechungscheck` | Lanham: Livequellen- und Rechtsprechungscheck im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-luxus-fristen-form-und-zustaendigkeit` | Luxus: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-markenarten-compliance-dokumentation-und-akte` | Markenarten: Compliance-Dokumentation und Aktenvermerk im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-markenrecht-erstpruefung-und-mandatsziel` | Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-modehaeuser-dokumentenmatrix-und-lueckenliste` | Modehaeuser: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-uspto-verhandlung-vergleich-und-eskalation` | USPTO: Verhandlung, Vergleich und Eskalation im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-wort-mehrparteien-konflikt-und-interessen` | Wort: Mehrparteienkonflikt und Interessenmatrix im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `ttab-opposition-und-cancellation` | TTAB-Opposition und Cancellation in den USA führen: aeltere Marke kollidiert mit US-Anmeldung oder eingetragener Marke. Normen: 37 C.F.R. § 2.101 ff. (Opposition), § 2.111 ff. (Cancellation), 15 U.S.C. § 1125(c) (Dilution), In re Bose 58... |
-| `unionsmarken-anmeldung-euipo` | Unionsmarke beim EUIPO anmelden nach UMV (EU) 2017/1001: Modehaus will EU-weiten Markenschutz in einem Verfahren. Normen: Art. 32 ff. UMV (Anmeldeerfordernisse), Art. 7 UMV (absolute Schutzhindernisse), Art. 119 UMV (Vertretungszwang). P... |
-| `unternehmenskennzeichen-werktitel-domain` | Unternehmenskennzeichen, besondere Geschäftsbezeichnungen, Werktitel, Domains und Social-Media-Handles markenrechtlich einordnen: Entstehung ohne Register, Priorität, Reichweite, Verwechslungsgefahr und Durchsetzung. |
-| `us-counterfeit-und-customs-cbp` | US-Counterfeit-Enforcement und CBP-Recordation: Luxusmarke will gefaelschte Ware in den USA stoppen. Normen: 18 U.S.C. § 2320 (Trademark Counterfeiting Act), 19 C.F.R. § 133 (CBP Recordation), Lanham Act § 34 (Injunctive Relief), § 35 (S... |
-| `us-selektivvertrieb-und-mfp-tiffany-vs-costco` | US-Vertriebsrecht für Luxusmarken: Resale Price Maintenance und MAP-Policies kartellrechtskonform gestalten. Normen: Sherman Act § 1, Leegin 551 U.S. 877 (Rule of Reason), Colgate Doctrine (unilateral), Tiffany v. Costco (Trademark Dilut... |
-| `us-trade-dress-und-secondary-meaning` | US Trade Dress Protection für Produktaufmachung und Produktgestaltung: Luxusmarke will Gesamterscheinungsbild oder Produktform in den USA schützen. Normen: Lanham Act § 43(a) 15 U.S.C. § 1125(a), Wal-Mart v. Samara Bros. 529 U.S. 205 (Pr... |
-| `uspto-anmeldung-und-lanham-act` | USPTO-Markenanmeldung nach Lanham Act durchführen: Modehaus will Markenschutz in den USA. Normen: 15 U.S.C. § 1051 ff. (Lanham Act), 37 C.F.R. § 2.21 ff. (TEAS). Prüfraster: Use in Commerce vs. Intent-to-Use, TEAS Plus vs. Standard, Good... |
-| `uspto-office-actions-und-tess-tsdr` | USPTO Office Actions beantworten und TESS/TSDR-Datenbankrecherche: Prüfungsbescheid des USPTO nach Markenanmeldung erhalten. Normen: 15 U.S.C. § 1052 (Section 2-Versagungsgründe), In re E.I. DuPont 476 F.2d 1357 (DuPont Factors Likelihoo... |
-| `verfall-nichtigkeit-und-loeschungsantrag` | Verfall, Nichtigkeit und Löschungsanträge gegen Marken strukturieren: Nichtbenutzung, absolute Schutzhindernisse, ältere Rechte, Bösgläubigkeit, DPMA/EUIPO-Verfahren, Fristen, Belege und Vergleichsoptionen. |
-| `vergleich-koexistenz-abgrenzungsvereinbarung` | Koexistenz-, Abgrenzungs- und Vergleichsvereinbarungen im Markenrecht entwerfen: Zeichenabstand, Warenabgrenzung, Territorium, Online-Nutzung, Vertragsstrafe, Registermaßnahmen und Zukunftsmarken. |
-| `vertikale-preisbindung-vbe-vo` | Vertikale Preisbindung und Vertikal-GVO-Compliance für Haendlervertraege: Hersteller oder Haendler will UPE oder Mindestpreise im Vertriebsnetz einsetzen. Normen: Art. 4 lit. a Vertikal-GVO (EU) 2022/720 (Hardcore-Beschraenkung Mindestpr... |
-| `waren-dienstleistungen-ekdb-tmclass-nizza` | Waren- und Dienstleistungsverzeichnis für DPMA, EUIPO und Madrid sauber entwerfen: Nizza-Klassen, eKDB/TMclass, Oberbegriffe, Klarheit, Schutzumfang, Benutzungsrisiko und Kostenstrategie. |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin markenrecht-fashion-luxus: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 | `workflow-dokumentenintake` | Dokumentenintake im Plugin markenrecht-fashion-luxus: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte. |
-| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin markenrecht-fashion-luxus: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
 | `workflow-kaltstart-und-routing` | Kaltstart und Routing im Plugin markenrecht-fashion-luxus: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills. |
 | `workflow-output-waehlen` | Output wählen im Plugin markenrecht-fashion-luxus: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung. |
 | `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste im Plugin markenrecht-fashion-luxus: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
-| `wortmarke-anmeldung-dpma` | DPMA-Anmeldung einer Wortmarke: Mandant will Markennamen in Deutschland schützen. Normen: §§ 32 ff. MarkenG (Anmeldung), § 8 MarkenG (absolute Schutzhindernisse: fehlende Unterscheidungskraft, Freihaltebedürftigkeit, beschreibende Angabe... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -2,8 +2,8 @@
 
 ## 1. Postzustellungsurkunde (PZU-Vermerk)
 
-> **Deutsche Post AG – Zustellungsurkunde**  
-> gemäß §§ 176 ff. ZPO i.V.m. § 51 OWiG  
+> **Deutsche Post AG – Zustellungsurkunde**
+> gemäß §§ 176 ff. ZPO i.V.m. § 51 OWiG
 
 | Feld | Inhalt |
 |---|---|

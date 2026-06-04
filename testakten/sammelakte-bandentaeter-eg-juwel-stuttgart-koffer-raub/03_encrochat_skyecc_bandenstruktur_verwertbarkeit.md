@@ -1,8 +1,8 @@
 # Aktenstück 03 — EncroChat/SkyECC: Bandenstruktur und Verwertbarkeit
 
-**Verfahren:** StA Stuttgart 4 Js 18.422/26  
-**Bearbeitung:** Alle Verteidiger (gemeinsame Stellungnahme abgestimmt)  
-**Stand:** 21.01.2026  
+**Verfahren:** StA Stuttgart 4 Js 18.422/26
+**Bearbeitung:** Alle Verteidiger (gemeinsame Stellungnahme abgestimmt)
+**Stand:** 21.01.2026
 **Leitentscheidung:** BGH 5 StR 457/21 vom 02.03.2022
 
 ---
@@ -33,7 +33,7 @@ Der BGH hat mit Urteil vom 02.03.2022 (BGH 5 StR 457/21, BGHSt 66, 256) grundleg
 3. Das Fernmeldegeheimnis (Art. 10 GG) steht der Verwertung nicht entgegen, wenn die Daten rechtmaessig durch den Ursprungsstaat erhoben wurden.
 4. Beweisverbote aus § 100a Abs. 4 StPO (Kernbereich) greifen nur bei tatsächlichem Einblick in hochpersönliche Lebensgestaltung — bei bandenmaessigen Planungsgesprächen regelmassig nicht.
 
-**Hinweis zur Weiterentwicklung:**  
+**Hinweis zur Weiterentwicklung:**
 Nachfolgeentscheidungen des BGH (u.a. 6 StR 211/22 vom 14.09.2022; 5 StR 536/21; EuGH C-670/22 vom 30.04.2024 — M.N./StA Muenchen I) haben die BGH-Linie im Wesentlichen bestätigt, aber Anforderungen an die Individualisierung der Nutzeridentität präzisiert.
 
 ### 2.2 Verteidigungsargumente gegen Verwertung im vorliegenden Fall
@@ -75,7 +75,7 @@ Iordache ("RedKing77") — Bandenfuehrer
     |-- Korbiel ("MK_Koffer") — Ausfuehrung vor Ort
     |-- Drebenstedt ("LDrive") — Logistik/Fahrzeuge
     |-- Krasniqi — Aufklaerung/Spaeherin
-    
+
 Externe Helfer (noch nicht angeklagt):
     |-- "HawalaKing" (Geldwaesche, Identitaet unbekannt)
     |-- Fahrzeugbeschaffer (Wiesbaden, unbekannt)

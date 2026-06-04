@@ -1,8 +1,8 @@
 # 08 — Anfechtungsklage LG Bielefeld 3 O 41/26: Vorbereitung und Klagebegründung
 
-**Akte:** DWSP/2026/GR-4417  
-**Erstellt:** 25.04.2026  
-**Bearbeiter:** Prof. Dr. Wieland Drosselberg  
+**Akte:** DWSP/2026/GR-4417
+**Erstellt:** 25.04.2026
+**Bearbeiter:** Prof. Dr. Wieland Drosselberg
 
 ---
 
@@ -95,5 +95,5 @@ Streitwert einstweilige Verfügung: 1/3 des Hauptsachestreitwerts = ca. 2,1 Mio.
 
 ---
 
-*Erstellt: 25.04.2026 — Prof. Dr. Wieland Drosselberg*  
+*Erstellt: 25.04.2026 — Prof. Dr. Wieland Drosselberg*
 *Referenz: § 246 AktG (dejure.org/gesetze/AktG/246.html); BGH II ZR 282/01; BGH NJW 1995, 1291*

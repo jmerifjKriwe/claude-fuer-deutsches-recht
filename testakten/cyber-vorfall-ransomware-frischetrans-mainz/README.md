@@ -15,18 +15,18 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Plugin:** `fachanwalt-it-recht`  
-**Branch:** `feat/v51.0.0-testakten-vollbestand`  
+**Plugin:** `fachanwalt-it-recht`
+**Branch:** `feat/v51.0.0-testakten-vollbestand`
 **Aktenordner:** `testakten/cyber-vorfall-ransomware-frischetrans-mainz/`
 
 ---
 
 ## Szenario-Überblick
 
-**Mandantin:** Frischetrans Mittelrhein GmbH, Mainz (Logistik-Mittelständler, 280 MA, 64 LKW, B2B-Frischelogistik)  
-**Anwalt:** RA Lukas Drosten, Fachanwalt für IT-Recht, Kanzlei Drosten & Pekonkur, Mainz  
-**Vorfall:** Ransomware-Angriff „AkiraNext" — 06.05.2026, 04:17 Uhr  
-**Forderung Erpresser:** 1.450.000 USD in Monero (nicht gezahlt)  
+**Mandantin:** Frischetrans Mittelrhein GmbH, Mainz (Logistik-Mittelständler, 280 MA, 64 LKW, B2B-Frischelogistik)
+**Anwalt:** RA Lukas Drosten, Fachanwalt für IT-Recht, Kanzlei Drosten & Pekonkur, Mainz
+**Vorfall:** Ransomware-Angriff „AkiraNext" — 06.05.2026, 04:17 Uhr
+**Forderung Erpresser:** 1.450.000 USD in Monero (nicht gezahlt)
 **Datenabfluss:** 2,1 TB (Kundenstammdaten 18 Kunden, Personalakten 280 MA, BEM-Gesundheitsdaten 38 MA)
 
 ---

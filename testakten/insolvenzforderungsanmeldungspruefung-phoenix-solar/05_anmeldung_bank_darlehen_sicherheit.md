@@ -1,8 +1,8 @@
 # Forderungsanmeldung – Havelbank AG (Darlehen mit Sicherheit)
 
-**Aktenzeichen:** 35 IN 417/26  
-**Gläubiger-ID (intern):** G002  
-**Eingang:** 5. Mai 2026  
+**Aktenzeichen:** 35 IN 417/26
+**Gläubiger-ID (intern):** G002
+**Eingang:** 5. Mai 2026
 **Anmeldungstyp:** Insolvenzforderung mit Absonderungsrecht gemäß §§ 38, 50/51 InsO (Sicherungsübereignung)
 
 ---

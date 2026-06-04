@@ -1,21 +1,21 @@
 # Beweisantrag — Einholung Sachverständigengutachten Maschinenbewertung
 
-**Marx Strafverteidigung Frankfurt**  
-Dr. Friederike Marx, Fachanwältin für Strafrecht  
+**Marx Strafverteidigung Frankfurt**
+Dr. Friederike Marx, Fachanwältin für Strafrecht
 Bockenheimer Landstraße 84, 60323 Frankfurt am Main
 
-An das  
-**Landgericht Frankfurt am Main**  
-— 14. Große Wirtschaftsstrafkammer —  
-Gerichtsstraße 2  
+An das
+**Landgericht Frankfurt am Main**
+— 14. Große Wirtschaftsstrafkammer —
+Gerichtsstraße 2
 60313 Frankfurt am Main
 
 Frankfurt am Main, **02. Juni 2025**
 
 ---
 
-**Az.: 5/28 KLs 122/25**  
-**In der Strafsache gegen Daniel Albert Bankert**  
+**Az.: 5/28 KLs 122/25**
+**In der Strafsache gegen Daniel Albert Bankert**
 
 ---
 
@@ -51,13 +51,13 @@ Der von der Staatsanwaltschaft angenommene Schaden in Höhe von 4.300.000 EUR be
 
 Das Gutachten des Sachverständigenbüros Tremblay & Partner, auf das die Anklage den Schadensbetrag von 4.300.000 EUR stützt, weist nach Einschätzung der Verteidigung erhebliche methodische Mängel auf:
 
-**a) Fehlende Berücksichtigung des Gebrauchtwertmarkts:**  
+**a) Fehlende Berücksichtigung des Gebrauchtwertmarkts:**
 Das Gutachten geht pauschal vom Neupreis als Vergleichsgröße aus und setzt die gelieferten Anlagen vollständig als wertlos an, soweit sie als Remanufactured-Ware identifiziert wurden. Diese Methodik entspricht nicht den Grundsätzen der Maschinenbewertung nach IDW S1 bzw. den einschlägigen VDMA-Leitlinien. Eine korrekte Bewertung müsste den tatsächlichen Gebrauchtwert der gelieferten Anlagen zum Lieferzeitpunkt ermitteln.
 
-**b) Keine Berücksichtigung der tatsächlichen Nutzung:**  
+**b) Keine Berücksichtigung der tatsächlichen Nutzung:**
 Mehrere der gelieferten Anlagen wurden von der ABC SE nach eigenen Angaben mehrere Jahre lang im Betrieb eingesetzt, ohne dass wesentliche Betriebsstörungen aufgetreten wären (vgl. Wartungsberichte, Bd. X, Bl. 2020–2048). Anlagen, die jahrelang störungsfrei genutzt wurden, können nicht als „wertlos" bewertet werden.
 
-**c) Qualifikation des Sachverständigenbüros:**  
+**c) Qualifikation des Sachverständigenbüros:**
 Das Büro Tremblay & Partner ist, soweit der Verteidigung bekannt, nicht öffentlich bestellt und vereidigt im Bereich Maschinenbewertung/Investitionsgüter. Eine Qualifikationsüberprüfung erscheint geboten.
 
 #### II. Rechtlicher Rahmen
@@ -74,11 +74,11 @@ Die Anordnung eines Gegengutachtens ist nach ständiger Rechtsprechung des BGH g
 
 ### Sachverständigenvorschlag
 
-Die Verteidigung schlägt als Sachverständigen vor:  
+Die Verteidigung schlägt als Sachverständigen vor:
 
-**Prof. Dr.-Ing. Klaus Helbig**  
-Öffentlich bestellter und vereidigter Sachverständiger für Maschinenbewertung und Investitionsgüter  
-Technische Universität Darmstadt, Institut für Fertigungstechnik  
+**Prof. Dr.-Ing. Klaus Helbig**
+Öffentlich bestellter und vereidigter Sachverständiger für Maschinenbewertung und Investitionsgüter
+Technische Universität Darmstadt, Institut für Fertigungstechnik
 (Alternativ: einen vom Gericht benannten Sachverständigen aus der Liste der IHK Frankfurt)
 
 ---
@@ -94,8 +94,8 @@ Ich beantrage,
 
 Mit freundlichen kollegialen Grüßen
 
-**Dr. Friederike Marx**  
-Fachanwältin für Strafrecht  
+**Dr. Friederike Marx**
+Fachanwältin für Strafrecht
 Marx Strafverteidigung Frankfurt
 
 ---

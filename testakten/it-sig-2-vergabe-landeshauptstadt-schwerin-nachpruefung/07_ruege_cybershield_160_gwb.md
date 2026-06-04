@@ -1,40 +1,40 @@
 # Aktenstück 07 – Rüge gem. § 160 Abs. 3 GWB (CyberShield)
 
-**Aktenzeichen:** VK 1-32/26  
-**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026  
-**Datum:** 17.04.2026  
-**Von:** RA Dr. Constantin Bährens, Kanzlei Bährens Vergaberecht  
+**Aktenzeichen:** VK 1-32/26
+**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026
+**Datum:** 17.04.2026
+**Von:** RA Dr. Constantin Bährens, Kanzlei Bährens Vergaberecht
 **An:** Vergabestelle SDS / Landeshauptstadt Schwerin
 
 ---
 
-Kanzlei Bährens Vergaberecht  
-Unter den Linden 48  
+Kanzlei Bährens Vergaberecht
+Unter den Linden 48
 10117 Berlin
 
 Per Einschreiben/Rückschein und E-Mail: vergabe@sds-schwerin.de
 
-Landeshauptstadt Schwerin  
-Eigenbetrieb SDS – Vergabestelle  
-z.Hd. Frau Yvonne Behnke  
-Am Grünen Tal 18  
+Landeshauptstadt Schwerin
+Eigenbetrieb SDS – Vergabestelle
+z.Hd. Frau Yvonne Behnke
+Am Grünen Tal 18
 19063 Schwerin
 
 Berlin, 17. April 2026
 
 ## RÜGE gemäß § 160 Abs. 3 GWB
 
-**In dem Vergabeverfahren**  
-LH-SN-Cyber-SOC-NSV-2026 / TED 2026/S 042-XXXXXX  
+**In dem Vergabeverfahren**
+LH-SN-Cyber-SOC-NSV-2026 / TED 2026/S 042-XXXXXX
 „Cybersecurity-Operations-Center und BSI-IT-Sicherheitsbeauftragten-Beratung"
 
-**namens und im Auftrag unserer Mandantin:**  
-CyberShield Defense GmbH, Alexanderstraße 7, 10178 Berlin  
+**namens und im Auftrag unserer Mandantin:**
+CyberShield Defense GmbH, Alexanderstraße 7, 10178 Berlin
 (nachfolgend: Antragstellerin / Rügeführerin)
 
 ---
 
-Sehr geehrte Frau Behnke,  
+Sehr geehrte Frau Behnke,
 sehr geehrte Damen und Herren,
 
 wir zeigen an, dass wir die CyberShield Defense GmbH in dem bezeichneten Vergabeverfahren vertreten. Die uns erteilte Vollmacht liegt als Anlage bei.
@@ -90,11 +90,11 @@ Die Rügefrist gem. § 160 Abs. 3 Satz 1 Nr. 1 GWB ist gewahrt: Kenntnis des Aus
 
 Mit freundlichen Grüßen
 
-**Dr. Constantin Bährens**  
-Rechtsanwalt, Fachanwalt für Vergaberecht  
-Kanzlei Bährens Vergaberecht Berlin-Mitte  
-Unter den Linden 48, 10117 Berlin  
-Tel.: 030 / 20 94 38 20  
+**Dr. Constantin Bährens**
+Rechtsanwalt, Fachanwalt für Vergaberecht
+Kanzlei Bährens Vergaberecht Berlin-Mitte
+Unter den Linden 48, 10117 Berlin
+Tel.: 030 / 20 94 38 20
 E-Mail: c.baehrens@baehrens-vergabe.de
 
 *Anlage: Vollmacht CyberShield Defense GmbH, unterzeichnet 16.04.2026*

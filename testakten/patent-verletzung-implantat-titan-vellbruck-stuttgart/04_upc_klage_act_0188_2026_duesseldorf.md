@@ -1,12 +1,12 @@
 # 04 — UPC-Verletzungsklage ACT_0188/2026, Lokale Kammer Düsseldorf
 
-**Aktenzeichen intern:** VM-2026-GR-001  
-**UPC-Aktenzeichen:** ACT_0188/2026  
-**Gericht:** Unified Patent Court (UPC), Lokale Kammer Düsseldorf  
-**Kläger:** Vellbruck Medizintechnik GmbH, Stuttgart-Vaihingen  
-**Beklagte zu 1:** TitanOrtho Sp. z o.o., Wroclaw  
-**Beklagte zu 2:** Bochstaedt MedSupply OHG, Aalen  
-**Datum der Klageerhebung:** 04. Februar 2026  
+**Aktenzeichen intern:** VM-2026-GR-001
+**UPC-Aktenzeichen:** ACT_0188/2026
+**Gericht:** Unified Patent Court (UPC), Lokale Kammer Düsseldorf
+**Kläger:** Vellbruck Medizintechnik GmbH, Stuttgart-Vaihingen
+**Beklagte zu 1:** TitanOrtho Sp. z o.o., Wroclaw
+**Beklagte zu 2:** Bochstaedt MedSupply OHG, Aalen
+**Datum der Klageerhebung:** 04. Februar 2026
 **Bearbeiter:** RA Dr. Rademakers (Rademakers IP, Düsseldorf) / RA Dr. Birkenhainer
 
 ---

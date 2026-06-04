@@ -1,8 +1,8 @@
 # 01 — Sachverhalt und Aufgabenstellung (BGB Übung für Fortgeschrittene SS 26)
 
-**Veranstaltung:** BGB Übung für Fortgeschrittene, Sommersemester 2026  
-**Lehrstuhl:** Prof. Dr. Werner Wandersleben, Universität Leipzig, Juristenfakultät  
-**Bearbeiter:** Konrad Pohlmann, 7. Semester, Matrikelnummer 5811274  
+**Veranstaltung:** BGB Übung für Fortgeschrittene, Sommersemester 2026
+**Lehrstuhl:** Prof. Dr. Werner Wandersleben, Universität Leipzig, Juristenfakultät
+**Bearbeiter:** Konrad Pohlmann, 7. Semester, Matrikelnummer 5811274
 **Abgabe:** 05. Juni 2026, 12:00 Uhr (Einwurf Briefkasten Juristenfakultät)
 
 ---
@@ -23,13 +23,13 @@ A tritt am 15.04.2026 seine Kaufpreisforderung gegen B in voller Höhe (also 4.8
 
 Erstellen Sie ein Rechtsgutachten im Gutachtenstil (25–30 Seiten, 1,5-facher Zeilenabstand, Schriftgröße 12 pt, Times New Roman) zu folgenden Fragen:
 
-**1. Ansprüche des A gegen B**  
+**1. Ansprüche des A gegen B**
 Welche Ansprüche hat A gegen B? Prüfen Sie insbesondere den Kaufpreisanspruch (§ 433 Abs. 2 BGB), etwaige Verzugsfolgen (§§ 280 Abs. 1, 2, 286 BGB) und die Wirksamkeit der Aufrechnung (§§ 387 ff. BGB).
 
-**2. Ansprüche des B gegen C (nach Abtretung)**  
+**2. Ansprüche des B gegen C (nach Abtretung)**
 Welche Ansprüche hat B gegen C im Rahmen der Kaufrechtskette nach der Abtretung? Prüfen Sie, ob B gegenüber C Gewährleistungsrechte aus §§ 437, 634 BGB — insbesondere Rücktritt (§§ 437 Nr. 2, 323, 326 BGB) und Schadensersatz (§§ 437 Nr. 3, 280, 281 BGB) — geltend machen kann, und klären Sie das Verhältnis von Abtretung und Mängeleinrede (§ 404 BGB analog, § 986 BGB).
 
-**3. Prozessuale Aufrechnung**  
+**3. Prozessuale Aufrechnung**
 Ist Bs Aufrechnung prozessual relevant, wenn C klageweise vorgeht? Prüfen Sie die Voraussetzungen der Aufrechnung (§ 387 BGB) sowie die prozessuale Geltendmachung nach § 322 Abs. 2 ZPO.
 
 ---

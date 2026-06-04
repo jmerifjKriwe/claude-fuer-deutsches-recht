@@ -1,9 +1,9 @@
 # 10 — Gerichtsgutachten Prof. Vellbruck — Zusammenfassung
 
-**AZ:** 8 O 188/26  
-**Gutachter:** Prof. Dr.-Ing. Helmut Vellbruck, TU Dresden, Institut für Baukonstruktion und Baustoffe  
-**Auftraggeber:** LG Leipzig (Beweisbeschluss 22.04.2026)  
-**Gutachten:** 10.06.2026 (Vorabfassung) + 14.07.2026 (ergänzend zu Bewehrung Treppenhaus)  
+**AZ:** 8 O 188/26
+**Gutachter:** Prof. Dr.-Ing. Helmut Vellbruck, TU Dresden, Institut für Baukonstruktion und Baustoffe
+**Auftraggeber:** LG Leipzig (Beweisbeschluss 22.04.2026)
+**Gutachten:** 10.06.2026 (Vorabfassung) + 14.07.2026 (ergänzend zu Bewehrung Treppenhaus)
 **Aktenstück Gericht:** GG-Vellbruck-2026-1+2
 
 ---

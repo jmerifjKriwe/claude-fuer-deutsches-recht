@@ -1,6 +1,6 @@
 # Aktenstück 15 — Fristen- und Kostenübersicht
 
-**Kanzlei:** Müller-Hauck Versicherungsrecht  
+**Kanzlei:** Müller-Hauck Versicherungsrecht
 **Stand:** 30.05.2026
 
 ---

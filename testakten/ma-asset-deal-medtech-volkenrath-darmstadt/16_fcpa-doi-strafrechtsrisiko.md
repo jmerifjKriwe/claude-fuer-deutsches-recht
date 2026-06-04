@@ -1,6 +1,6 @@
 # 16 — FCPA / DOJ Subpoena / Strafrechtsrisiko
 
-**Datum:** Dezember 2025 — laufend  
+**Datum:** Dezember 2025 — laufend
 **Bearbeiter:** RA Prof. Dr. Felix Mannfeldt (koordinierend), externe US-Counsel: Covington & Burling LLP (Washington D.C.)
 
 ---

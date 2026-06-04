@@ -1,7 +1,7 @@
 # Widerruf der Schenkung — § 530 BGB Grober Undank (Florian Pohlmann)
 
-**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg  
-**Datum:** 08. April 2026  
+**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg
+**Datum:** 08. April 2026
 **Bezug:** Schenkung Restaurantbetrieb „Suppentopf Lindenau" an Florian Pohlmann; Weitergabe Betriebskonzept an Konkurrenz
 
 ---
@@ -89,8 +89,8 @@ Nach Widerruf hat S einen Anspruch auf Herausgabe des Geschenkten nach den Berei
 
 Parallel zu § 530 BGB besteht ein Schadensersatzanspruch aus § 823 Abs. 1 BGB (Eingriff in eingerichteten und ausgeübten Gewerbebetrieb als sonstiges Recht) sowie aus §§ 3, 4 UWG (unlauterer Wettbewerb, Geheimnisverrat), wenn das weitergegebene Know-how als Geschäftsgeheimnis i.S.d. § 2 Nr. 1 GeschGehG qualifiziert.
 
-**Quellen:**  
-§§ 516, 518, 530, 531, 532 BGB: https://dejure.org/gesetze/BGB/530.html  
-BGH NJW 2014, 2638 (grober Undank — Maßstab): https://www.bundesgerichtshof.de  
-BGH NJW 2009, 1346 (Widerruf Schenkung, Fristbeginn): https://openjur.de  
+**Quellen:**
+§§ 516, 518, 530, 531, 532 BGB: https://dejure.org/gesetze/BGB/530.html
+BGH NJW 2014, 2638 (grober Undank — Maßstab): https://www.bundesgerichtshof.de
+BGH NJW 2009, 1346 (Widerruf Schenkung, Fristbeginn): https://openjur.de
 GeschGehG § 2: https://dejure.org/gesetze/GeschGehG/2.html

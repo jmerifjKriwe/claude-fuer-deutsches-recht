@@ -1,9 +1,9 @@
 # Aktenstück 02 – Vergabeunterlagen: Leistungsbeschreibung SOC + ISB-Beratung
 
-**Aktenzeichen:** VK 1-32/26  
-**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026  
-**Dokument-Typ:** Leistungsbeschreibung (Teil A der Vergabeunterlagen)  
-**Version:** 1.0 vom 27.02.2026  
+**Aktenzeichen:** VK 1-32/26
+**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026
+**Dokument-Typ:** Leistungsbeschreibung (Teil A der Vergabeunterlagen)
+**Version:** 1.0 vom 27.02.2026
 **Vergabestelle:** Landeshauptstadt Schwerin / Eigenbetrieb SDS
 
 ---

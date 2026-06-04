@@ -1,8 +1,8 @@
 # Forderungsanmeldung – Gründerkreis Phoenix GbR (Gesellschafterdarlehen, Nachrang)
 
-**Aktenzeichen:** 35 IN 417/26  
-**Gläubiger-ID (intern):** G006  
-**Eingang:** 13. Mai 2026 (E-Mail)  
+**Aktenzeichen:** 35 IN 417/26
+**Gläubiger-ID (intern):** G006
+**Eingang:** 13. Mai 2026 (E-Mail)
 **Anmeldungstyp:** Nachrangige Insolvenzforderung gemäß § 39 Abs. 1 Nr. 5 InsO (Gesellschafterdarlehen); Nachrang wird vom Gläubiger bestritten
 
 ---

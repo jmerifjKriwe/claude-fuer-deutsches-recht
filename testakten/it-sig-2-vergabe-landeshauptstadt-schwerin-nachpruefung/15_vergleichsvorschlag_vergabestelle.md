@@ -1,9 +1,9 @@
 # Aktenstück 15 – Vergleichsvorschlag der Vergabestelle
 
-**Aktenzeichen:** VK 1-32/26  
-**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026  
-**Datum:** 09.06.2026  
-**Von:** RAin Dr. Sandra Mertke (für Antragsgegnerin)  
+**Aktenzeichen:** VK 1-32/26
+**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026
+**Datum:** 09.06.2026
+**Von:** RAin Dr. Sandra Mertke (für Antragsgegnerin)
 **An:** RA Dr. Constantin Bährens (für Antragstellerin)
 
 ---
@@ -32,7 +32,7 @@ In dem Nachprüfungsverfahren unterbreitet die Antragsgegnerin (Landeshauptstadt
 - Der Vergleich gilt nur für das vorliegende Vergabeverfahren und begründet kein Schuldanerkenntnis hinsichtlich etwaiger Schadensersatzansprüche.
 - Die De-facto-Vergabe (SOC-Pilotbetrieb 12/2025) ist nicht Gegenstand dieses Vergleichs.
 
-**Zu den Kosten:**  
+**Zu den Kosten:**
 Jede Partei trägt ihre eigenen Kosten. Die Verfahrensgebühren der Vergabekammer werden hälftig geteilt.
 
 ---

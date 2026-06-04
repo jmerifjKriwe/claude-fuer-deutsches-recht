@@ -1,9 +1,9 @@
 # Rechtsvermerk: Netzanschluss-Sonderkonstellation – Kundenanlage vs. GVN vs. reguliertes Netz
 
-**Aktenzeichen:** SWK/ENR/2024-047  
-**Datum:** 10. Dezember 2024  
-**Verfasser:** RA Thomas Bernauer, Kanzlei Bernauer & Partnerinnen  
-**Adressat:** Stadtwerke Klotzkette AG, z. Hd. Dr. Gerda Wohlfahrt  
+**Aktenzeichen:** SWK/ENR/2024-047
+**Datum:** 10. Dezember 2024
+**Verfasser:** RA Thomas Bernauer, Kanzlei Bernauer & Partnerinnen
+**Adressat:** Stadtwerke Klotzkette AG, z. Hd. Dr. Gerda Wohlfahrt
 **Vertraulichkeit:** Mandanten­vertraulich – attorney-client privilege
 
 ---
@@ -84,7 +84,7 @@ Die Rechtslage ist nicht abschließend höchstrichterlich geklärt; die SWKK sol
 
 *Münster, den 10. Dezember 2024*
 
-**RA Thomas Bernauer**  
+**RA Thomas Bernauer**
 Bernauer & Partnerinnen
 
 *Dieser Vermerk gibt den Rechtsstand zum Zeitpunkt seiner Erstellung wieder. Rechtsänderungen oder neue Rechtsprechung können die Beurteilung verändern.*

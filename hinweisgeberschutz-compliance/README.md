@@ -53,109 +53,36 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `abschlussmitteilung` | Formuliert Abschlussmitteilung an Hinweisgeber. |
 | `allgemein` | Startet das HinSchG-Kommandocenter für Meldestelle, Hinweis, NDA-Konflikt und Folgemaßnahmen. |
-| `anonyme-meldung` | Bewertet anonyme Meldungen und freiwillige Annahmeprozesse. |
-| `antwortschreiben-hinweisgeber` | Formuliert Antworten an Hinweisgeber rechtssicher. |
-| `anwaltliche-meldestelle` | Prüft anwaltliche Meldestelle und Berufsgeheimnis. |
-| `arbeitsgericht-klage` | Bereitet arbeitsgerichtliche Klage wegen Repressalie vor. |
-| `arbeitsschutz` | Prüft Arbeitsschutz-Hinweise und Eskalation. |
-| `arbeitsvertrag-klauseln` | Prüft Arbeitsvertragsklauseln gegen Hinweisgeberrechte. |
-| `audit-nachweis` | Baut Audit-Nachweis für das Hinweisgebersystem. |
-| `aufsichtsbehoerdenkommunikation` | Steuert Kommunikation mit Aufsichtsbehörden. |
-| `aufsichtsrat-reporting` | Berichtet Hinweisfälle an Aufsichtsrat oder Beirat. |
-| `barrierefreiheit-meldekanal` | Prüft Barrierefreiheit des Meldekanals. |
-| `beschaeftigtenzahl-konzern` | Klärt Beschäftigtenzählung, Konzernlösung und gemeinsame Ressourcen. |
-| `beschuldigtenrechte` | Balanciert Hinweisgeberschutz und Rechte beschuldigter Personen. |
-| `beschwerde-management` | Grenzt Hinweis, Beschwerde, Grievance und HR-Konflikt ab. |
-| `betriebsrat-mitbestimmung` | Prüft Mitbestimmung bei Meldesystem und Untersuchungen. |
-| `beweislastumkehr` | Prüft Beweislastumkehr nach Meldung. |
-| `bewerber-ehemalige` | Prüft Bewerber und ehemalige Beschäftigte. |
-| `boesglaeubige-meldung` | Behandelt bewusst falsche oder missbräuchliche Meldungen. |
-| `bonus-versetzung-bewertung` | Prüft Leistungsbewertung, Bonus und Versetzung nach Hinweis. |
-| `bussgeld-risiko` | Bewertet Bußgeldrisiken für fehlenden Meldekanal oder Verstöße. |
-| `case-management-tool` | Prüft technisches Case-Management für Hinweisfälle. |
-| `cloud-hosting-meldekanal` | Prüft Cloudhosting für Meldekanal. |
-| `compliance-hotline-provider` | Prüft Hotline-Provider und Case-Management-Tools. |
-| `compliance-untersuchung` | Plant Compliance-Untersuchung nach Hinweis. |
-| `datenschutz-dsgvo-meldeakte` | Baut Datenschutzkonzept für die Meldeakte. |
-| `datenschutzpanne-meldung` | Routet Hinweise zu Datenschutzpannen. |
-| `dokumentationspflicht` | Prüft Dokumentation eingehender Meldungen. |
-| `dokumente-sichern` | Sichert Unterlagen nach Eingang eines Hinweises. |
-| `e-discovery-forensik` | Prüft E-Discovery und Forensik im deutschen Rahmen. |
-| `eingangsfrist-7-tage` | Steuert Eingangsbestätigung und Fristen sauber. |
-| `einstweiliger-rechtsschutz` | Prüft Eilrechtsschutz gegen Repressalien. |
-| `eu-richtlinie-abgleich` | Vergleicht deutsches HinSchG mit EU-Whistleblower-Richtlinie. |
-| `exportkontrolle-sanktionen` | Routet Sanktions- und Exportkontrollhinweise. |
-| `externe-meldung-bfj` | Prüft externe Meldung beim Bundesamt für Justiz und andere Stellen. |
-| `externes-bfj-formular` | Bereitet Kommunikation mit externer Meldestelle vor. |
-| `faq-fuer-mitarbeiter` | Schreibt verständliche Mitarbeiter-FAQ. |
-| `folgeaktionen` | Plant zulässige und angemessene Folgemaßnahmen. |
-| `fristenkalender` | Erzeugt Fristenkalender für Hinweisfälle. |
-| `geldwaesche-meldung` | Verbindet Hinweis mit GwG/FIU-Pflichten. |
-| `gerichtliche-rechtsprechung-livecheck` | Erzwingt Rechtsprechungs-Livecheck ohne BeckRS-Blindzitate. |
-| `geschaeftsgeheimnis-geschgehg` | Prüft Geschäftsgeheimnisse in Meldungen und Offenlegungen. |
-| `geschuetzte-verstoesse-paragraf2` | Ordnet gemeldete Verstöße in den sachlichen Anwendungsbereich ein. |
-| `hinweis-von-externer-person` | Prüft Meldungen von Lieferanten, Kunden oder Dritten. |
-| `hinweisgeber-im-betriebsrat` | Prüft Betriebsratsmitglieder als Hinweisgeber oder Beschuldigte. |
-| `hinweisgeber-personenkreis` | Prüft, ob die meldende Person geschützt ist. |
-| `internal-investigation` | Steuert interne Untersuchung praktisch. |
-| `international-subsidiaries` | Prüft internationale Tochtergesellschaften und mehrsprachige Kanäle. |
-| `jahresbericht-compliance` | Erstellt Jahresbericht ohne Identitätsrisiko. |
-| `kanzlei-berufsgeheimnis` | Prüft Hinweise in Kanzleien und Berufsgeheimnisträger-Umfeld. |
-| `kartellrecht` | Routet Kartellhinweise. |
-| `kommunikation-an-betroffene` | Formuliert Kommunikation an beschuldigte und betroffene Personen. |
-| `konflikt-nda-due-diligence` | Prüft NDA-Konflikte in M&A-Due-Diligence und Datenräumen. |
-| `konzernmeldestelle` | Prüft konzernweite Meldestelle und lokale Verantwortlichkeit. |
-| `kuendigung-nach-meldung` | Prüft Kündigung oder Abmahnung nach Hinweis. |
-| `laender-meldestellen` | Prüft länderspezifische externe Meldestellen und Spezialzuständigkeiten. |
-| `legal-hold` | Baut Legal Hold für Whistleblower-Fälle. |
-| `lieferkette-lksg-csddd` | Verknüpft Hinweise mit Lieferkette und Menschenrechten. |
-| `loeschfristen` | Steuert Löschung und Archivierung von HinSchG-Akten. |
-| `ma-transaktion-whistleblower` | Steuert Whistleblower-Risiken in Transaktionen. |
-| `massnahmenplan` | Priorisiert Verbesserungen am HinSchG-System. |
-| `meldekanal-design` | Gestaltet Meldekanäle schriftlich, mündlich, persönlich und digital. |
-| `meldeprozess-sla` | Baut Service-Level für Bearbeitung von Hinweisen. |
-| `missbrauchsabwehr` | Baut Missbrauchsabwehr ohne Abschreckung echter Hinweise. |
-| `mobbing-retaliation` | Erkennt informelle Repressalien und Mobbing. |
-| `nda-konflikt` | Löst Konflikt zwischen NDA, Verschwiegenheit und Hinweisgeberschutz. |
-| `offenlegung-an-presse` | Prüft Offenlegung an Öffentlichkeit oder Presse. |
-| `outsourcing-ombudsperson` | Prüft Outsourcing an Ombudsperson oder Dienstleister. |
-| `personenbezogene-daten-dritter` | Schützt Daten Dritter in Meldungen. |
-| `pflicht-interne-meldestelle` | Prüft, ob und wie eine interne Meldestelle einzurichten ist. |
-| `policy-generator` | Erzeugt Hinweisgeber-Policy für Unternehmen. |
-| `presse-und-offenlegung` | Bereitet Reaktion auf Presseoffenlegung vor. |
-| `produktsicherheit` | Prüft Produkt- und Sicherheitsverstöße aus Hinweisen. |
-| `public-sector-beamte` | Prüft Hinweisgeberschutz im öffentlichen Dienst. |
+| `kompendium-01-gerichtliche-rechtsp-bis-loeschfristen` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (gerichtliche-rechtsprechung-livecheck, eingangsfrist-7-tage, fristenkalender, loeschfristen) und bewahrt deren Workflows, Normanker, Prüf... |
+| `kompendium-02-arbeitsvertrag-klaus-bis-verschwiegenheitskla` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (arbeitsvertrag-klauseln, settlement-und-aufhebungsvertrag, vergleichsklausel, verschwiegenheitsklauseln-redline) und bewahrt deren Workfl... |
+| `kompendium-03-bussgeld-risiko-bis-vorstandshaftung` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (bussgeld-risiko, exportkontrolle-sanktionen, schadensersatz, vorstandshaftung) und bewahrt deren Workflows, Normanker, Prüfprogramme und... |
+| `kompendium-04-aufsichtsbehoerdenko-bis-steuerrecht-grenzen` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (aufsichtsbehoerdenkommunikation, internal-investigation, ma-transaktion-whistleblower, steuerrecht-grenzen) und bewahrt deren Workflows,... |
+| `kompendium-05-abschlussmitteilung-bis-anwaltliche-meldeste` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (abschlussmitteilung, anonyme-meldung, antwortschreiben-hinweisgeber, anwaltliche-meldestelle) und bewahrt deren Workflows, Normanker, Prü... |
+| `kompendium-06-arbeitsgericht-klage-bis-aufsichtsrat-reporti` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (arbeitsgericht-klage, arbeitsschutz, audit-nachweis, aufsichtsrat-reporting) und bewahrt deren Workflows, Normanker, Prüfprogramme und Au... |
+| `kompendium-07-barrierefreiheit-mel-bis-beschwerde-managemen` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (barrierefreiheit-meldekanal, beschaeftigtenzahl-konzern, beschuldigtenrechte, beschwerde-management) und bewahrt deren Workflows, Normank... |
+| `kompendium-08-betriebsrat-mitbesti-bis-boesglaeubige-meldun` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (betriebsrat-mitbestimmung, beweislastumkehr, bewerber-ehemalige, boesglaeubige-meldung) und bewahrt deren Workflows, Normanker, Prüfprogr... |
+| `kompendium-09-bonus-versetzung-bew-bis-compliance-hotline-p` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (bonus-versetzung-bewertung, case-management-tool, cloud-hosting-meldekanal, compliance-hotline-provider) und bewahrt deren Workflows, Nor... |
+| `kompendium-10-compliance-untersuch-bis-dokumentationspflich` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (compliance-untersuchung, datenschutz-dsgvo-meldeakte, datenschutzpanne-meldung, dokumentationspflicht) und bewahrt deren Workflows, Norma... |
+| `kompendium-11-dokumente-sichern-bis-eu-richtlinie-abglei` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (dokumente-sichern, e-discovery-forensik, einstweiliger-rechtsschutz, eu-richtlinie-abgleich) und bewahrt deren Workflows, Normanker, Prüf... |
+| `kompendium-12-externe-meldung-bfj-bis-folgeaktionen` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (externe-meldung-bfj, externes-bfj-formular, faq-fuer-mitarbeiter, folgeaktionen) und bewahrt deren Workflows, Normanker, Prüfprogramme un... |
+| `kompendium-13-geldwaesche-meldung-bis-hinweis-von-externer` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (geldwaesche-meldung, geschaeftsgeheimnis-geschgehg, geschuetzte-verstoesse-paragraf2, hinweis-von-externer-person) und bewahrt deren Work... |
+| `kompendium-14-hinweisgeber-im-betr-bis-jahresbericht-compli` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (hinweisgeber-im-betriebsrat, hinweisgeber-personenkreis, international-subsidiaries, jahresbericht-compliance) und bewahrt deren Workflow... |
+| `kompendium-15-kanzlei-berufsgeheim-bis-konflikt-nda-due-dil` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (kanzlei-berufsgeheimnis, kartellrecht, kommunikation-an-betroffene, konflikt-nda-due-diligence) und bewahrt deren Workflows, Normanker, P... |
+| `kompendium-16-konzernmeldestelle-bis-legal-hold` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (konzernmeldestelle, kuendigung-nach-meldung, laender-meldestellen, legal-hold) und bewahrt deren Workflows, Normanker, Prüfprogramme und... |
+| `kompendium-17-lieferkette-lksg-csd-bis-meldeprozess-sla` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (lieferkette-lksg-csddd, massnahmenplan, meldekanal-design, meldeprozess-sla) und bewahrt deren Workflows, Normanker, Prüfprogramme und Au... |
+| `kompendium-18-missbrauchsabwehr-bis-offenlegung-an-press` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (missbrauchsabwehr, mobbing-retaliation, nda-konflikt, offenlegung-an-presse) und bewahrt deren Workflows, Normanker, Prüfprogramme und Au... |
+| `kompendium-19-outsourcing-ombudspe-bis-policy-generator` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (outsourcing-ombudsperson, personenbezogene-daten-dritter, pflicht-interne-meldestelle, policy-generator) und bewahrt deren Workflows, Nor... |
+| `kompendium-20-presse-und-offenlegu-bis-repressalienverbot` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (presse-und-offenlegung, produktsicherheit, public-sector-beamte, repressalienverbot) und bewahrt deren Workflows, Normanker, Prüfprogramm... |
+| `kompendium-21-risikomatrix-bis-schutzvoraussetzunge` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (risikomatrix, rueckmeldung-3-monate, schulung-fuehrungskraefte, schutzvoraussetzungen) und bewahrt deren Workflows, Normanker, Prüfprogra... |
+| `kompendium-22-schwerbehinderung-ag-bis-sprachliche-zugaengl` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (schwerbehinderung-agg, shared-resources, speak-up-kultur, sprachliche-zugaenglichkeit) und bewahrt deren Workflows, Normanker, Prüfprogra... |
+| `kompendium-23-tisax-iso-hinweisgeb-bis-umweltverstoss` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (tisax-iso-hinweisgeber, triage-strafrecht, uk-whistleblowing-abgrenzung, umweltverstoss) und bewahrt deren Workflows, Normanker, Prüfprog... |
+| `kompendium-24-untersuchungsbericht-bis-vertraulichkeit-iden` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 24; bündelt 4 frühere Spezialskills (untersuchungsbericht, untersuchungsplan, us-sox-doddfrank-abgrenzung, vertraulichkeit-identitaet) und bewahrt deren Workflows, Normanker,... |
+| `kompendium-25-vertraulichkeit-vs-a-bis-zugriffskonzept` | hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 25; bündelt 2 frühere Spezialskills (vertraulichkeit-vs-anhoerung, zugriffskonzept) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
 | `redteam-qualitygate` | Finaler Red-Team-Check gegen Repressalien, NDA-Fallen und Papierprozesse. |
-| `repressalienverbot` | Prüft Repressalien und schützt Betroffene prozessfest. |
-| `risikomatrix` | Erstellt Risikomatrix für Hinweise. |
-| `rueckmeldung-3-monate` | Baut Rückmeldung binnen drei Monaten ohne Ermittlungsfehler. |
-| `schadensersatz` | Prüft Schadensersatzansprüche bei Repressalien. |
-| `schulung-fuehrungskraefte` | Schult Führungskräfte gegen Repressalienfehler. |
-| `schutzvoraussetzungen` | Prüft guten Glauben, Tatsachengrundlage und Schutzschwelle. |
-| `schwerbehinderung-agg` | Prüft AGG-/Schwerbehindertenbezug in Hinweisfällen. |
-| `settlement-und-aufhebungsvertrag` | Prüft Aufhebungs- und Vergleichsklauseln auf HinSchG-Fallen. |
-| `shared-resources` | Gestaltet geteilte Ressourcen mittelgroßer Unternehmen. |
-| `speak-up-kultur` | Baut Speak-up-Kultur ohne Compliance-Theater. |
-| `sprachliche-zugaenglichkeit` | Gestaltet Meldesystem sprachlich verständlich. |
-| `steuerrecht-grenzen` | Prüft Steuerhinweise und Grenzen interner Aufklärung. |
-| `tisax-iso-hinweisgeber` | Verknüpft TISAX/ISO-Compliance mit Hinweisgebersystem. |
-| `triage-strafrecht` | Routet Hinweise mit Strafrechtsbezug. |
-| `uk-whistleblowing-abgrenzung` | Grenzt UK Whistleblowing bei Niederlassungen ab. |
-| `umweltverstoss` | Prüft Umweltverstöße im Hinweisgebersystem. |
-| `untersuchungsbericht` | Erstellt Untersuchungsbericht ohne Quellenpreisgabe. |
-| `untersuchungsplan` | Baut Untersuchungsplan mit Hypothesen und Beweisen. |
-| `us-sox-doddfrank-abgrenzung` | Grenzt US SOX/Dodd-Frank-Hinweise bei Konzernen ab. |
-| `vergleichsklausel` | Entwirft Vergleichsklauseln hinweisgeberfest. |
-| `verschwiegenheitsklauseln-redline` | Redlinet Verschwiegenheitsklauseln hinweisgeberfest. |
-| `vertraulichkeit-identitaet` | Prüft Identitätsschutz für Hinweisgeber, Betroffene und Dritte. |
-| `vertraulichkeit-vs-anhoerung` | Balanciert Vertraulichkeit mit Anhörungspflichten. |
-| `vorstandshaftung` | Prüft Organhaftung bei ignorierten Hinweisen. |
-| `zugriffskonzept` | Baut Zugriffskonzept für Case-Management-Systeme. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

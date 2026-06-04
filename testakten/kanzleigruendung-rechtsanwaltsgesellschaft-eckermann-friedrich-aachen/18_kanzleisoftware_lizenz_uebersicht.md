@@ -1,8 +1,8 @@
 # 18 Kanzleisoftware-Lizenz-Übersicht
 
-**Aktenzeichen:** KBH-2026-001-EFS  
-**Stand:** 28. April 2026  
-**Verantwortlich:** Dr. Matthias Friedrich (IT-Ressort)  
+**Aktenzeichen:** KBH-2026-001-EFS
+**Stand:** 28. April 2026
+**Verantwortlich:** Dr. Matthias Friedrich (IT-Ressort)
 
 ---
 

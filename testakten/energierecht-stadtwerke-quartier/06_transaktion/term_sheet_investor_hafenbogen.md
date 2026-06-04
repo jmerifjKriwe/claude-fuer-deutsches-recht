@@ -1,7 +1,7 @@
 # Term Sheet – Anteilserwerb Hafenbogen Energie GmbH & Co. KG
 
-**Dokument-Nr.:** SWKK-TS-2026-001  
-**Datum:** 20. Januar 2026 (paraphiert; noch nicht final unterzeichnet)  
+**Dokument-Nr.:** SWKK-TS-2026-001
+**Datum:** 20. Januar 2026 (paraphiert; noch nicht final unterzeichnet)
 **Vertraulichkeit:** Streng vertraulich – nur für die Parteien und deren Berater
 
 ---
@@ -12,15 +12,15 @@
 
 zwischen
 
-**Stadtwerke Klotzkette AG** (Veräußerer)  
-Bahnhofstraße 12, 59348 Lüdinghausen  
+**Stadtwerke Klotzkette AG** (Veräußerer)
+Bahnhofstraße 12, 59348 Lüdinghausen
 (nachfolgend "SWKK")
 
 und
 
-**Stadtwerke-Beteiligungsgesellschaft Bayern mbH** (Erwerber)  
-Prinzregentenstraße 42, 80538 München  
-HRB 221588, AG München  
+**Stadtwerke-Beteiligungsgesellschaft Bayern mbH** (Erwerber)
+Prinzregentenstraße 42, 80538 München
+HRB 221588, AG München
 (nachfolgend "Investor")
 
 ---

@@ -1,9 +1,9 @@
 # Akteneinsicht DRV Mitteldeutschland – Auswertungsbericht
 
-**Aktenzeichen DRV:** xx 060379 41 W 077  
-**Erstellt:** 05.03.2026  
-**Erstellt durch:** RA Sonnemann nach Einsicht in 3 Bände DRV-Verwaltungsakte (Leipzig, 04.03.2026)  
-**Einsichtsdatum:** 04.03.2026, DRV-Auslegestelle Leipzig, Georg-Schumann-Str. 146  
+**Aktenzeichen DRV:** xx 060379 41 W 077
+**Erstellt:** 05.03.2026
+**Erstellt durch:** RA Sonnemann nach Einsicht in 3 Bände DRV-Verwaltungsakte (Leipzig, 04.03.2026)
+**Einsichtsdatum:** 04.03.2026, DRV-Auslegestelle Leipzig, Georg-Schumann-Str. 146
 
 ---
 
@@ -23,8 +23,8 @@ Die Rentenakte besteht aus **3 Bänden** mit insgesamt ca. 340 Seiten:
 
 ### 2.1 Gutachten Dr. Härtung (Band II, Bl. 156–201)
 
-**Datum:** 17.11.2025  
-**Umfang:** 46 Seiten  
+**Datum:** 17.11.2025
+**Umfang:** 46 Seiten
 **Ergebnis:** Restleistungsvermögen 6 Stunden/Tag (s. Aktenstück 06)
 
 **Auffälligkeiten:**
@@ -84,5 +84,5 @@ Versicherungsrechtliche Voraussetzungen § 43 SGB VI: 5-Jahres-Wartezeit erfüll
 
 ---
 
-*Erstellt: RA Sonnemann, 05.03.2026*  
+*Erstellt: RA Sonnemann, 05.03.2026*
 *Kanzlei-AZ: SON-2026-0047-FEL*

@@ -1,9 +1,9 @@
 # Liquiditätsvorschau — Delta Service GmbH (3-Wochen-Detailplanung)
 
-**Erstellt:** 15.05.2026  
-**Stichtag:** 15.05.2026  
-**Gesellschaft:** Delta Service GmbH, Essen (Tochter der Solaris Industries AG)  
-**Verfasser:** Counsel D / Restrukturierung, auf Basis CFO-Daten  
+**Erstellt:** 15.05.2026
+**Stichtag:** 15.05.2026
+**Gesellschaft:** Delta Service GmbH, Essen (Tochter der Solaris Industries AG)
+**Verfasser:** Counsel D / Restrukturierung, auf Basis CFO-Daten
 **Status:** Interne Analyse — Vertraulich
 
 > **Warnung:** Management behauptet, die Liquidität reiche "locker bis Closing". Die nachfolgende Analyse kommt zu einem abweichenden Ergebnis.

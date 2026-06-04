@@ -1,18 +1,18 @@
 # Strafanzeige gegen Unbekannt – Polizei Bremen, ZKD AG Cybercrime
 
-**An:**  
-Polizei Bremen  
-Zentrale Kriminalinspektion – AG Digitale Kriminalität (ZKD)  
-Postfach / Einlaufstelle: Kriminalwache Bremen, In der Vahr 76, 28329 Bremen  
+**An:**
+Polizei Bremen
+Zentrale Kriminalinspektion – AG Digitale Kriminalität (ZKD)
+Postfach / Einlaufstelle: Kriminalwache Bremen, In der Vahr 76, 28329 Bremen
 
-**Von:**  
-Kanzlei Pflüger Schoeneberg Bankrecht  
-Am Markt 14 · 28195 Bremen  
-Tel.: 0421 / 33 88 20-0  
-Fax: 0421 / 33 88 20-99  
+**Von:**
+Kanzlei Pflüger Schoeneberg Bankrecht
+Am Markt 14 · 28195 Bremen
+Tel.: 0421 / 33 88 20-0
+Fax: 0421 / 33 88 20-99
 
-**Datum:** 08.04.2026  
-**Polizeiaktenzeichen (erteilt):** ZD 3001 UJs 8841/26  
+**Datum:** 08.04.2026
+**Polizeiaktenzeichen (erteilt):** ZD 3001 UJs 8841/26
 
 ---
 
@@ -20,21 +20,21 @@ Fax: 0421 / 33 88 20-99
 
 gemäß §§ 158, 161 StPO erstatten wir im Namen unserer Mandantin
 
-**Frau Eva-Maria Wittfeldt**  
-geb. 14.03.1962  
-Kiefernstraße 17, 28757 Bremen  
+**Frau Eva-Maria Wittfeldt**
+geb. 14.03.1962
+Kiefernstraße 17, 28757 Bremen
 
-vertreten durch ihren Sohn und Bevollmächtigten  
-**Daniel Wittfeldt**  
-Deichstraße 88, 28757 Bremen  
+vertreten durch ihren Sohn und Bevollmächtigten
+**Daniel Wittfeldt**
+Deichstraße 88, 28757 Bremen
 
 ### Strafanzeige gegen Unbekannt
 
 wegen des Verdachts des
 
-1. **Betruges, § 263 StGB**, ggf. in der Qualifikation als gewerbs- und bandenmäßiger Betrug, § 263 Abs. 3 Nr. 1 StGB,  
-2. **Computerbetruges, § 263a StGB** (manipulierte Online-Handelsplattform),  
-3. **Geldwäsche, § 261 StGB** (Verschleierung der Herkunft der betrügerisch erlangten Gelder durch internationale Transferketten),  
+1. **Betruges, § 263 StGB**, ggf. in der Qualifikation als gewerbs- und bandenmäßiger Betrug, § 263 Abs. 3 Nr. 1 StGB,
+2. **Computerbetruges, § 263a StGB** (manipulierte Online-Handelsplattform),
+3. **Geldwäsche, § 261 StGB** (Verschleierung der Herkunft der betrügerisch erlangten Gelder durch internationale Transferketten),
 4. **Unerlaubten Betreibens von Bankgeschäften, § 54 KWG** (Entgegennahme von Kundengeldern ohne BaFin-Erlaubnis).
 
 ---
@@ -49,23 +49,23 @@ Die Anzeigeerstatterin, Frau Eva-Maria Wittfeldt (64 Jahre, vorzeitig pensionier
 
 Im Zeitraum September 2024 bis März 2025 überwiesen die Täter durch folgendes deliktisches Vorgehen erhebliche Vermögenswerte der Geschädigten ins Ausland:
 
-**a) Köder (Luring):**  
+**a) Köder (Luring):**
 Über eine bezahlte Facebook-Anzeige wurde Frau Wittfeldt auf die betrügerische Website **CryptoFutureMax.io** gelockt. Die Täter gaben vor, eine regulierte Kryptowährungs-Handelsplattform mit garantierten Monatsrenditen von 8–18 % zu betreiben.
 
-**b) Vertrauensaufbau (Relationship Building):**  
+**b) Vertrauensaufbau (Relationship Building):**
 Eine als „Robert Volkmann, Senior Trading Advisor" auftretende Person (mutmaßliches Alias, UK-Mobilnummer +44 7700 900 [REDACTED]) baute über WhatsApp und E-Mail eine persönliche Beziehung zur Geschädigten auf. Sie überließ der Geschädigten Zugang zu einem manipulierten Dashboard, das nicht vorhandene Gewinne anzeigte.
 
-**c) Tatausführung (Investment Fraud):**  
+**c) Tatausführung (Investment Fraud):**
 Frau Wittfeldt tätigte auf Drängen von „Volkmann" sieben Überweisungen in einer Gesamthöhe von 387.420 EUR auf Konten bei der ZA Bank Ltd. (Hongkong), der Trustless Banking S.A. (Estland) und der Cyprus Popular Bank (Zypern). Die überwiesenen Beträge stammten aus einer Erbschaft, einer Riester-Renten-Auflösung sowie einem Hypothekendarlehen der Sparkasse Bremen.
 
-**d) Advance-Fee-Strategie:**  
+**d) Advance-Fee-Strategie:**
 Als Frau Wittfeldt Auszahlungen verlangte, wurden ihr sukzessive Vorabgebühren abverlangt:
-- „Steuer-Vorauszahlung" 31.000 EUR (Überweisung 6),  
+- „Steuer-Vorauszahlung" 31.000 EUR (Überweisung 6),
 - „AML-Kaution" 18.000 EUR (Teil Überweisung 7).
 
 Dabei wurde vorgespiegelt, diese Beträge seien rückerstattungsfähig. In Wahrheit sind sie Teil des Betrugsvorgangs.
 
-**e) Abtauchen:**  
+**e) Abtauchen:**
 Nachdem kein weiteres Geld zu erlangen war, stellten die Täter im März 2025 jegliche Kommunikation ein. Die WhatsApp-Nummer wurde gesperrt, E-Mails prallen zurück, die Website ist weiterhin aktiv, aber der Kundenbereich ist nicht mehr zugänglich.
 
 ### 3. Überweisungsdetails
@@ -131,8 +131,8 @@ Wir stellen Strafantrag nach § 77 StGB und beantragen:
 
 **Bremen, 08. April 2026**
 
-Rechtsanwalt Dr. Severin Pflüger  
-Fachanwalt für Bank- und Kapitalmarktrecht  
+Rechtsanwalt Dr. Severin Pflüger
+Fachanwalt für Bank- und Kapitalmarktrecht
 Kanzlei Pflüger Schoeneberg Bankrecht
 
 *(bevollmächtigt gemäß Anlage: Vollmacht Eva-Maria Wittfeldt und Daniel Wittfeldt)*

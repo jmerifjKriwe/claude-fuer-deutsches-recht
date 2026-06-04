@@ -140,7 +140,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 ## Verfahrensstand
 
-**Stichtag dieser Akte: 14. Februar 2026**  
+**Stichtag dieser Akte: 14. Februar 2026**
 **Tatgeschehen: 18. Oktober 2025**
 
 | Verfahrensstrang | Status |
@@ -158,5 +158,5 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 | Rechtshilfe Rumänien | Ausstehend; Interpol-Fahndung aktiv |
 | Adhäsionsanträge | Eingereicht; Bearbeitung in HV |
 
-Bearbeitung: **RA Dr. Magnus Schorlemmer** (für Korbiel); **RA Walther Steinbach** (für Drebenstedt); **RA Felix Krämer** (Pflichtverteidiger Iordache); **RAin Dr. Vivien Mohnsen-Stoeber** (für Krasniqi)  
+Bearbeitung: **RA Dr. Magnus Schorlemmer** (für Korbiel); **RA Walther Steinbach** (für Drebenstedt); **RA Felix Krämer** (Pflichtverteidiger Iordache); **RAin Dr. Vivien Mohnsen-Stoeber** (für Krasniqi)
 Nebenklage: **RAin Carola Brandes-Weiss** (für Goldhofer-Egenter und Aydin)

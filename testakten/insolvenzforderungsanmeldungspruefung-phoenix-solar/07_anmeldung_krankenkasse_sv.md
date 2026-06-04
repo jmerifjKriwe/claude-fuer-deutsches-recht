@@ -1,8 +1,8 @@
 # Forderungsanmeldung – BKK Handwerk Mitte (Sozialversicherungsbeiträge)
 
-**Aktenzeichen:** 35 IN 417/26  
-**Gläubiger-ID (intern):** G004  
-**Eingang:** 9. Mai 2026 (E-Mail), Ergänzungsschreiben 26. Mai 2026  
+**Aktenzeichen:** 35 IN 417/26
+**Gläubiger-ID (intern):** G004
+**Eingang:** 9. Mai 2026 (E-Mail), Ergänzungsschreiben 26. Mai 2026
 **Anmeldungstyp:** Einfache Insolvenzforderung gemäß § 38 InsO (Gesamtsozialversicherungsbeiträge vor Eröffnung)
 
 ---

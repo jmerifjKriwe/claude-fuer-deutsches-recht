@@ -1,14 +1,14 @@
 # Haftungsklage der Allianz gegen HUK-Coburg — LG Hagen 4 O 211/26
 
-**Gericht:** Landgericht Hagen, 4. Zivilkammer  
-**Aktenzeichen:** 4 O 211/26  
-**Klägerin:** Allianz Versicherungs-AG, Königinstraße 28, 80802 München  
-(Prozessbevollmächtigte: RA'in Dr. Simone Kaltenberg, Breuer & Kaltenberg, Dortmund)  
-**Beklagte 1:** HUK-Coburg Allgemeine Versicherungs-AG, Bahnhofsplatz 1, 96444 Coburg  
-**Beklagter 2:** Holger Tannenbruck, Herscheider Straße 44, 58507 Lüdenscheid  
-(Beklagtenvertreter: RA Sebastian Hoffmann, Kanzlei Hoffmann Verkehrsrecht, Lüdenscheid)  
-**Klageeinreichung:** 05.03.2026  
-**Zustellung:** 10.03.2026  
+**Gericht:** Landgericht Hagen, 4. Zivilkammer
+**Aktenzeichen:** 4 O 211/26
+**Klägerin:** Allianz Versicherungs-AG, Königinstraße 28, 80802 München
+(Prozessbevollmächtigte: RA'in Dr. Simone Kaltenberg, Breuer & Kaltenberg, Dortmund)
+**Beklagte 1:** HUK-Coburg Allgemeine Versicherungs-AG, Bahnhofsplatz 1, 96444 Coburg
+**Beklagter 2:** Holger Tannenbruck, Herscheider Straße 44, 58507 Lüdenscheid
+(Beklagtenvertreter: RA Sebastian Hoffmann, Kanzlei Hoffmann Verkehrsrecht, Lüdenscheid)
+**Klageeinreichung:** 05.03.2026
+**Zustellung:** 10.03.2026
 
 ---
 

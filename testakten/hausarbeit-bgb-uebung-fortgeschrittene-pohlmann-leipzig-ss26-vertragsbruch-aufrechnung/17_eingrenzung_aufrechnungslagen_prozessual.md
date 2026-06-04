@@ -1,6 +1,6 @@
 # 17 — Eingrenzung der Aufrechnungslagen und prozessuale Dimensionen
 
-**Bearbeiter:** Konrad Pohlmann  
+**Bearbeiter:** Konrad Pohlmann
 **Stand:** 01.05.2026
 
 ---

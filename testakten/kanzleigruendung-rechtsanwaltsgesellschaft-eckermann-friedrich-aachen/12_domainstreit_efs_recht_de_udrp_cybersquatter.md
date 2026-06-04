@@ -1,8 +1,8 @@
 # 12 Domainstreit "efs-recht.de" — Cybersquatter und UDRP-Verfahren
 
-**Aktenzeichen:** KBH-2026-001-EFS  
-**Stand:** 06. Mai 2026  
-**Bearbeiterin:** RA Monika Hellwig  
+**Aktenzeichen:** KBH-2026-001-EFS
+**Stand:** 06. Mai 2026
+**Bearbeiterin:** RA Monika Hellwig
 
 ---
 
@@ -10,11 +10,11 @@
 
 Die Domain **efs-recht.de** ist seit dem 14. Oktober 2025 registriert. Registrant laut DENIC-WHOIS ist:
 
-> **Inhaberin:** Domains4Fun GmbH, c/o Postbox-Service Berlin (Briefkastengesellschaft)  
-> **Registrar:** united-domains AG  
-> **Registrierungsdatum:** 14.10.2025  
-> **Nameserver:** ns1.parkingpage.net, ns2.parkingpage.net  
-> **Inhalt der Domain:** Blank/Parking-Page mit Generic-Ads  
+> **Inhaberin:** Domains4Fun GmbH, c/o Postbox-Service Berlin (Briefkastengesellschaft)
+> **Registrar:** united-domains AG
+> **Registrierungsdatum:** 14.10.2025
+> **Nameserver:** ns1.parkingpage.net, ns2.parkingpage.net
+> **Inhalt der Domain:** Blank/Parking-Page mit Generic-Ads
 
 Die Registrierung kurz nach der öffentlichen Bekanntgabe der EFS-Gründungsidee (November 2025, Aachener Anwaltsnetzwerk) legt nahe, dass ein Cybersquatter die Domain in Kenntnis der Gründungsabsicht registriert hat.
 

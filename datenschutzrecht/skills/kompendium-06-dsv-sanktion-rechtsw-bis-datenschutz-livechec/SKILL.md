@@ -1,0 +1,719 @@
+---
+name: kompendium-06-dsv-sanktion-rechtsw-bis-datenschutz-livechec
+description: "datenschutzrecht: Konsolidiertes Skill-Kompendium 06; bündelt 10 frühere Spezialskills (dsv-sanktion-rechtsweg-router, dsv-sanktion-sanktionsmandat-schlussprodukt-planen, dsv-sanktion-scope-cut-behoerdenfragen-einhegen, dsv-sanktion-selbstbelastungsfreiheit-und-mitwirkungspflichten, dsv-sanktion-staatsanwaltschaft-im-dsgvo-owig und 5 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+---
+
+# Kompendium 06 - datenschutzrecht
+
+## Zweck
+
+Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+
+## Enthaltene frühere Skills
+
+| Früherer Skill | Frühere Beschreibung |
+| --- | --- |
+| `dsv-sanktion-rechtsweg-router` | Datenschutzrecht-Brückenskill: Rechtsweg-Router Bußgeld Verwaltungsgericht Zivilverfahren: Geldbuße, Art.-58-Maßnahme, Art.-82-Schadensersatz und Strafrechtsspur aus demselben Vorfall trennen. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
+| `dsv-sanktion-sanktionsmandat-schlussprodukt-planen` | Datenschutzrecht-Brückenskill: Schlussprodukt des Sanktionsmandats planen: Einstellung, Verwarnung, reduzierte Geldbuße, aufgehobene Anordnung, Vergleich, Urteil oder Rechtsbeschwerde als Zielbild definieren. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
+| `dsv-sanktion-scope-cut-behoerdenfragen-einhegen` | Datenschutzrecht-Brückenskill: Scope Cut Behördenfragen einhegen: Zu weite Behördenfragen nach Zeitraum, System, Datenart, Gesellschaft und Betroffenenkreis begrenzen. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
+| `dsv-sanktion-selbstbelastungsfreiheit-und-mitwirkungspflichten` | Datenschutzrecht-Brückenskill: Selbstbelastung und Mitwirkungspflichten: Auskunftspflichten gegenüber der Aufsicht und Aussagefreiheit im Bußgeldverfahren balancieren. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
+| `dsv-sanktion-staatsanwaltschaft-im-dsgvo-owig` | Datenschutzrecht-Brückenskill: Staatsanwaltschaft im DSGVO-OWiG-Verfahren: Rolle der Staatsanwaltschaft nach Akteneingang und Zustimmungserfordernis der Aufsicht bei Einstellung erklären. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
+| `dsv-sanktion-unternehmensgruppe-und-federfuehrende-aufsicht` | Datenschutzrecht-Brückenskill: Unternehmensgruppe und federführende Aufsicht: Hauptniederlassung, One-Stop-Shop, gemeinsame Verantwortlichkeit und Konzernadressat prüfen. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
+| `dsv-sanktion-veroeffentlichung-von-bussgeldentscheidungen` | Datenschutzrecht-Brückenskill: Veröffentlichung von Bußgeldentscheidungen: Namensnennung, Behördenpublikation, Geschäftsgeheimnisse und Reputationsschutz steuern. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
+| `dsv-sanktion-verteidigerrolle-dsb-gf-und-externe-berater` | Datenschutzrecht-Brückenskill: Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater: Datenschutzbeauftragten, Geschäftsleitung, externe Anwälte, IT-Forensik und PR-Beratung konfliktfrei koordinieren. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
+| `dsv-schadensersatz-art-82` | Verteidigt den Verantwortlichen gegen Schadensersatzansprüche nach Art. 82 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Anspruchsvoraussetzungen; materieller und immaterieller Schaden; EuGH-Rechtsprechung (insbesondere Österreichische Post C-300/21; Saturn C-687/21); Substantiierungsanforderungen; Bagatellschwelle; Kausalität; Exkulpation nach Art. 82 Abs. 3 DSGVO; gesamtschuldnerische Haftung. Output: Verteidigungsraster mit Schriftsatzgliederung. Abgrenzung: keine Bußgeldverteidigung. |
+| `datenschutz-livecheck-bfdi-laender-aufsichtsbehoerden` | Livecheck-Skill fuer aktuelle Veroeffentlichungen BfDI und Landesdatenschutzbehoerden vor Abgabe Schriftsatz oder Stellungnahme. Sieben-Fragen-Diagnose: Mandatsgebiet zustaendige Aufsicht Rechtsbereich Verarbeitungsart EuGH Vorabentscheidung EDSA-Leitlinie aktuell. Schritt-fuer-Schritt: NICHT aus Modellwissen zitieren immer Live-Quellen. Mustertexte fuer Live-Quellen-Notiz und Aktualisierungsvermerk. Liste der offiziellen Quellen ohne erfundene Datums. Abgrenzung: keine Subsumtion (datenschutz-erstgespraech-mandantenmatrix-7-fragen). |
+
+## Arbeitsregel
+
+1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
+3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+
+## Konsolidierte Inhalte
+
+## 1. `dsv-sanktion-rechtsweg-router`
+
+**Frühere Beschreibung:** Datenschutzrecht-Brückenskill: Rechtsweg-Router Bußgeld Verwaltungsgericht Zivilverfahren: Geldbuße, Art.-58-Maßnahme, Art.-82-Schadensersatz und Strafrechtsspur aus demselben Vorfall trennen. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
+
+# Rechtsweg-Router Bußgeld Verwaltungsgericht Zivilverfahren
+
+## Aufgabe
+
+Geldbuße, Art.-58-Maßnahme, Art.-82-Schadensersatz und Strafrechtsspur aus demselben Vorfall trennen.
+
+Dieser Skill arbeitet als Brücke im allgemeinen Plugin `datenschutzrecht`. Er darf nicht austauschbar antworten: immer zuerst Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtes Arbeitsprodukt klären.
+
+## Kaltstart-Fragen
+
+1. Welches Schreiben oder welcher Verfahrensschritt liegt vor: informelle Anfrage, Art.-58-Auskunftsverlangen, Anhörung, Bußgeldbescheid, Einspruch, gerichtliches Bußgeldverfahren, Art.-58-Anordnung, Verwaltungsgericht oder Rechtsmittel?
+2. Welche Behörde handelt: Landesdatenschutzaufsicht, BfDI, kirchliche Datenschutzaufsicht, federführende EU-Aufsicht oder andere Spezialaufsicht?
+3. Wer ist Adressat und in welcher Rolle: Verantwortlicher, Auftragsverarbeiter, gemeinsame Verantwortliche, Konzernmutter, Tochter, öffentliche Stelle oder natürliche Person?
+4. Welche Frist läuft und wie wurde zugestellt oder bekanntgegeben?
+5. Welche Tatsachen sind durch Akte, Logs, Verträge, DSFA, TOM, AVV, DSB-Vermerk oder Zeugen belegbar?
+6. Soll die Ausgabe Akteneinsicht, Fristverlängerung, Stellungnahme, Einspruch, Klage, Eilantrag, Terminsmappe oder Management-Briefing sein?
+
+## Rechtsanker
+
+- Art. 58, 78, 83 DSGVO
+- § 20 BDSG
+- § 41 BDSG
+- §§ 55, 65, 67 OWiG
+
+## Arbeitsprogramm
+
+1. **Spur trennen.** Bußgeld nach Art. 83 DSGVO/§ 41 BDSG/OWiG ist nicht dasselbe wie Verwaltungsrechtsschutz gegen Art.-58-Anordnungen nach § 20 BDSG. Parallelspuren getrennt führen.
+2. **Frist sichern.** Einspruchs- und Rechtsbehelfsfristen sofort mit Zustellnachweis notieren; weiche Behördenfristen separat behandeln.
+3. **Akteneinsicht und Beweisstand.** Keine endgültige Tatsachenstellungnahme ohne Akteneinsicht, wenn ein Bußgeldverfahren erkennbar ist. Technische Behauptungen anhand Logs, Systemarchitektur und Verantwortlichkeiten prüfen.
+4. **Materiell prüfen.** DSGVO-Norm, Verantwortlichenrolle, Pflichtverletzung, Vorsatz/Fahrlässigkeit, Art.-83-Bemessung oder Art.-58-Ermessensausübung sauber subsumieren.
+5. **Taktisch schreiben.** Kooperativ, aber geschützt: keine unnötigen Schuldeingeständnisse, keine nicht belegten Behauptungen, keine Vermischung von Datenschutzberatung und Verteidigung.
+6. **Nächsten Schritt auswerfen.** Immer mit Risikoampel, konkreten Unterlagen, Freigabeentscheidung und empfohlenen Anschlussskills schließen.
+
+## Typische Fehler, die der Skill vermeiden muss
+
+- Bußgeldverfahren als normales Verwaltungsverfahren behandeln.
+- Art.-58-Anordnung und Bußgeldbescheid in denselben Rechtsweg werfen.
+- "Anklage" sagen, wo es im OWiG um Bußgeldbescheid, Einspruch, Zwischenverfahren und gerichtliche Hauptverhandlung geht.
+- § 73 OWiG als Bezeichnung der mündlichen Verhandlung missverstehen; die Hauptverhandlung steht in § 71 OWiG.
+- EuGH C-807/21 als verschuldenslose Unternehmenshaftung lesen. Das ist falsch: keine Identifizierung einer natürlichen Person nötig, aber Vorsatz oder Fahrlässigkeit bleibt nötig.
+- Rechtsprechung oder Behördenpraxis ohne live verifizierbare Quelle zitieren.
+
+## Output
+
+Mandats-Cockpit mit Verfahrensspur, Fristen, Sofortmaßnahmen, Risikoampel und nächsten Skills.
+
+## Übergabe an das Spezialplugin
+
+Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `datenschutz-sanktionsverfahren-verteidigung` und dort insbesondere `kaltstart-verfahrensstand-und-mandatsziel`, `akteneinsicht-49-owig-147-stpo`, `zustaendigkeit-amtsgericht-landgericht-41-bdsg`, `art-83-abs-2-kriterien-einzeln` und `art-58-anordnung-verwaltungsakt`.
+
+
+## Quellen- und Verifikationsregel
+
+- Normen vor Ausgabe live prüfen, besonders DSGVO Art. 58, 78 und 83, BDSG § 20 und § 41 sowie OWiG §§ 49, 55, 65, 67, 68, 69, 71, 72, 73 und 79.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und offizieller oder frei zugänglicher Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+- EuGH C-807/21 und C-683/21 nur mit sauberer Kernaussage nutzen: unmittelbare Unternehmensgeldbuße ja; verschuldenslose Haftung nein.
+- Wenn ein Punkt nicht verifiziert ist, als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+
+## 2. `dsv-sanktion-sanktionsmandat-schlussprodukt-planen`
+
+**Frühere Beschreibung:** Datenschutzrecht-Brückenskill: Schlussprodukt des Sanktionsmandats planen: Einstellung, Verwarnung, reduzierte Geldbuße, aufgehobene Anordnung, Vergleich, Urteil oder Rechtsbeschwerde als Zielbild definieren. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
+
+# Schlussprodukt des Sanktionsmandats planen
+
+## Aufgabe
+
+Einstellung, Verwarnung, reduzierte Geldbuße, aufgehobene Anordnung, Vergleich, Urteil oder Rechtsbeschwerde als Zielbild definieren.
+
+Dieser Skill arbeitet als Brücke im allgemeinen Plugin `datenschutzrecht`. Er darf nicht austauschbar antworten: immer zuerst Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtes Arbeitsprodukt klären.
+
+## Kaltstart-Fragen
+
+1. Welches Schreiben oder welcher Verfahrensschritt liegt vor: informelle Anfrage, Art.-58-Auskunftsverlangen, Anhörung, Bußgeldbescheid, Einspruch, gerichtliches Bußgeldverfahren, Art.-58-Anordnung, Verwaltungsgericht oder Rechtsmittel?
+2. Welche Behörde handelt: Landesdatenschutzaufsicht, BfDI, kirchliche Datenschutzaufsicht, federführende EU-Aufsicht oder andere Spezialaufsicht?
+3. Wer ist Adressat und in welcher Rolle: Verantwortlicher, Auftragsverarbeiter, gemeinsame Verantwortliche, Konzernmutter, Tochter, öffentliche Stelle oder natürliche Person?
+4. Welche Frist läuft und wie wurde zugestellt oder bekanntgegeben?
+5. Welche Tatsachen sind durch Akte, Logs, Verträge, DSFA, TOM, AVV, DSB-Vermerk oder Zeugen belegbar?
+6. Soll die Ausgabe Akteneinsicht, Fristverlängerung, Stellungnahme, Einspruch, Klage, Eilantrag, Terminsmappe oder Management-Briefing sein?
+
+## Rechtsanker
+
+- Art. 58, 78, 83 DSGVO
+- § 20 BDSG
+- § 41 BDSG
+- §§ 55, 65, 67 OWiG
+
+## Arbeitsprogramm
+
+1. **Spur trennen.** Bußgeld nach Art. 83 DSGVO/§ 41 BDSG/OWiG ist nicht dasselbe wie Verwaltungsrechtsschutz gegen Art.-58-Anordnungen nach § 20 BDSG. Parallelspuren getrennt führen.
+2. **Frist sichern.** Einspruchs- und Rechtsbehelfsfristen sofort mit Zustellnachweis notieren; weiche Behördenfristen separat behandeln.
+3. **Akteneinsicht und Beweisstand.** Keine endgültige Tatsachenstellungnahme ohne Akteneinsicht, wenn ein Bußgeldverfahren erkennbar ist. Technische Behauptungen anhand Logs, Systemarchitektur und Verantwortlichkeiten prüfen.
+4. **Materiell prüfen.** DSGVO-Norm, Verantwortlichenrolle, Pflichtverletzung, Vorsatz/Fahrlässigkeit, Art.-83-Bemessung oder Art.-58-Ermessensausübung sauber subsumieren.
+5. **Taktisch schreiben.** Kooperativ, aber geschützt: keine unnötigen Schuldeingeständnisse, keine nicht belegten Behauptungen, keine Vermischung von Datenschutzberatung und Verteidigung.
+6. **Nächsten Schritt auswerfen.** Immer mit Risikoampel, konkreten Unterlagen, Freigabeentscheidung und empfohlenen Anschlussskills schließen.
+
+## Typische Fehler, die der Skill vermeiden muss
+
+- Bußgeldverfahren als normales Verwaltungsverfahren behandeln.
+- Art.-58-Anordnung und Bußgeldbescheid in denselben Rechtsweg werfen.
+- "Anklage" sagen, wo es im OWiG um Bußgeldbescheid, Einspruch, Zwischenverfahren und gerichtliche Hauptverhandlung geht.
+- § 73 OWiG als Bezeichnung der mündlichen Verhandlung missverstehen; die Hauptverhandlung steht in § 71 OWiG.
+- EuGH C-807/21 als verschuldenslose Unternehmenshaftung lesen. Das ist falsch: keine Identifizierung einer natürlichen Person nötig, aber Vorsatz oder Fahrlässigkeit bleibt nötig.
+- Rechtsprechung oder Behördenpraxis ohne live verifizierbare Quelle zitieren.
+
+## Output
+
+Mandats-Cockpit mit Verfahrensspur, Fristen, Sofortmaßnahmen, Risikoampel und nächsten Skills.
+
+## Übergabe an das Spezialplugin
+
+Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `datenschutz-sanktionsverfahren-verteidigung` und dort insbesondere `kaltstart-verfahrensstand-und-mandatsziel`, `akteneinsicht-49-owig-147-stpo`, `zustaendigkeit-amtsgericht-landgericht-41-bdsg`, `art-83-abs-2-kriterien-einzeln` und `art-58-anordnung-verwaltungsakt`.
+
+
+## Quellen- und Verifikationsregel
+
+- Normen vor Ausgabe live prüfen, besonders DSGVO Art. 58, 78 und 83, BDSG § 20 und § 41 sowie OWiG §§ 49, 55, 65, 67, 68, 69, 71, 72, 73 und 79.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und offizieller oder frei zugänglicher Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+- EuGH C-807/21 und C-683/21 nur mit sauberer Kernaussage nutzen: unmittelbare Unternehmensgeldbuße ja; verschuldenslose Haftung nein.
+- Wenn ein Punkt nicht verifiziert ist, als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+
+## 3. `dsv-sanktion-scope-cut-behoerdenfragen-einhegen`
+
+**Frühere Beschreibung:** Datenschutzrecht-Brückenskill: Scope Cut Behördenfragen einhegen: Zu weite Behördenfragen nach Zeitraum, System, Datenart, Gesellschaft und Betroffenenkreis begrenzen. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
+
+# Scope Cut Behördenfragen einhegen
+
+## Aufgabe
+
+Zu weite Behördenfragen nach Zeitraum, System, Datenart, Gesellschaft und Betroffenenkreis begrenzen.
+
+Dieser Skill arbeitet als Brücke im allgemeinen Plugin `datenschutzrecht`. Er darf nicht austauschbar antworten: immer zuerst Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtes Arbeitsprodukt klären.
+
+## Kaltstart-Fragen
+
+1. Welches Schreiben oder welcher Verfahrensschritt liegt vor: informelle Anfrage, Art.-58-Auskunftsverlangen, Anhörung, Bußgeldbescheid, Einspruch, gerichtliches Bußgeldverfahren, Art.-58-Anordnung, Verwaltungsgericht oder Rechtsmittel?
+2. Welche Behörde handelt: Landesdatenschutzaufsicht, BfDI, kirchliche Datenschutzaufsicht, federführende EU-Aufsicht oder andere Spezialaufsicht?
+3. Wer ist Adressat und in welcher Rolle: Verantwortlicher, Auftragsverarbeiter, gemeinsame Verantwortliche, Konzernmutter, Tochter, öffentliche Stelle oder natürliche Person?
+4. Welche Frist läuft und wie wurde zugestellt oder bekanntgegeben?
+5. Welche Tatsachen sind durch Akte, Logs, Verträge, DSFA, TOM, AVV, DSB-Vermerk oder Zeugen belegbar?
+6. Soll die Ausgabe Akteneinsicht, Fristverlängerung, Stellungnahme, Einspruch, Klage, Eilantrag, Terminsmappe oder Management-Briefing sein?
+
+## Rechtsanker
+
+- Art. 31 und Art. 58 DSGVO
+- Art. 83 Abs. 2 DSGVO
+- § 55 OWiG
+- § 20/§ 41 BDSG je nach Spur
+
+## Arbeitsprogramm
+
+1. **Spur trennen.** Bußgeld nach Art. 83 DSGVO/§ 41 BDSG/OWiG ist nicht dasselbe wie Verwaltungsrechtsschutz gegen Art.-58-Anordnungen nach § 20 BDSG. Parallelspuren getrennt führen.
+2. **Frist sichern.** Einspruchs- und Rechtsbehelfsfristen sofort mit Zustellnachweis notieren; weiche Behördenfristen separat behandeln.
+3. **Akteneinsicht und Beweisstand.** Keine endgültige Tatsachenstellungnahme ohne Akteneinsicht, wenn ein Bußgeldverfahren erkennbar ist. Technische Behauptungen anhand Logs, Systemarchitektur und Verantwortlichkeiten prüfen.
+4. **Materiell prüfen.** DSGVO-Norm, Verantwortlichenrolle, Pflichtverletzung, Vorsatz/Fahrlässigkeit, Art.-83-Bemessung oder Art.-58-Ermessensausübung sauber subsumieren.
+5. **Taktisch schreiben.** Kooperativ, aber geschützt: keine unnötigen Schuldeingeständnisse, keine nicht belegten Behauptungen, keine Vermischung von Datenschutzberatung und Verteidigung.
+6. **Nächsten Schritt auswerfen.** Immer mit Risikoampel, konkreten Unterlagen, Freigabeentscheidung und empfohlenen Anschlussskills schließen.
+
+## Typische Fehler, die der Skill vermeiden muss
+
+- Bußgeldverfahren als normales Verwaltungsverfahren behandeln.
+- Art.-58-Anordnung und Bußgeldbescheid in denselben Rechtsweg werfen.
+- "Anklage" sagen, wo es im OWiG um Bußgeldbescheid, Einspruch, Zwischenverfahren und gerichtliche Hauptverhandlung geht.
+- § 73 OWiG als Bezeichnung der mündlichen Verhandlung missverstehen; die Hauptverhandlung steht in § 71 OWiG.
+- EuGH C-807/21 als verschuldenslose Unternehmenshaftung lesen. Das ist falsch: keine Identifizierung einer natürlichen Person nötig, aber Vorsatz oder Fahrlässigkeit bleibt nötig.
+- Rechtsprechung oder Behördenpraxis ohne live verifizierbare Quelle zitieren.
+
+## Output
+
+Behördenstrategie mit Antwortentwurf, Vorbehalten, Anlagenplan und Schutz vor überschießender Selbstbelastung.
+
+## Übergabe an das Spezialplugin
+
+Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `datenschutz-sanktionsverfahren-verteidigung` und dort insbesondere `kaltstart-verfahrensstand-und-mandatsziel`, `akteneinsicht-49-owig-147-stpo`, `zustaendigkeit-amtsgericht-landgericht-41-bdsg`, `art-83-abs-2-kriterien-einzeln` und `art-58-anordnung-verwaltungsakt`.
+
+
+## Quellen- und Verifikationsregel
+
+- Normen vor Ausgabe live prüfen, besonders DSGVO Art. 58, 78 und 83, BDSG § 20 und § 41 sowie OWiG §§ 49, 55, 65, 67, 68, 69, 71, 72, 73 und 79.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und offizieller oder frei zugänglicher Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+- EuGH C-807/21 und C-683/21 nur mit sauberer Kernaussage nutzen: unmittelbare Unternehmensgeldbuße ja; verschuldenslose Haftung nein.
+- Wenn ein Punkt nicht verifiziert ist, als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+
+## 4. `dsv-sanktion-selbstbelastungsfreiheit-und-mitwirkungspflichten`
+
+**Frühere Beschreibung:** Datenschutzrecht-Brückenskill: Selbstbelastung und Mitwirkungspflichten: Auskunftspflichten gegenüber der Aufsicht und Aussagefreiheit im Bußgeldverfahren balancieren. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
+
+# Selbstbelastung und Mitwirkungspflichten
+
+## Aufgabe
+
+Auskunftspflichten gegenüber der Aufsicht und Aussagefreiheit im Bußgeldverfahren balancieren.
+
+Dieser Skill arbeitet als Brücke im allgemeinen Plugin `datenschutzrecht`. Er darf nicht austauschbar antworten: immer zuerst Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtes Arbeitsprodukt klären.
+
+## Kaltstart-Fragen
+
+1. Welches Schreiben oder welcher Verfahrensschritt liegt vor: informelle Anfrage, Art.-58-Auskunftsverlangen, Anhörung, Bußgeldbescheid, Einspruch, gerichtliches Bußgeldverfahren, Art.-58-Anordnung, Verwaltungsgericht oder Rechtsmittel?
+2. Welche Behörde handelt: Landesdatenschutzaufsicht, BfDI, kirchliche Datenschutzaufsicht, federführende EU-Aufsicht oder andere Spezialaufsicht?
+3. Wer ist Adressat und in welcher Rolle: Verantwortlicher, Auftragsverarbeiter, gemeinsame Verantwortliche, Konzernmutter, Tochter, öffentliche Stelle oder natürliche Person?
+4. Welche Frist läuft und wie wurde zugestellt oder bekanntgegeben?
+5. Welche Tatsachen sind durch Akte, Logs, Verträge, DSFA, TOM, AVV, DSB-Vermerk oder Zeugen belegbar?
+6. Soll die Ausgabe Akteneinsicht, Fristverlängerung, Stellungnahme, Einspruch, Klage, Eilantrag, Terminsmappe oder Management-Briefing sein?
+
+## Rechtsanker
+
+- Art. 83 DSGVO
+- § 41 BDSG
+- §§ 49, 55, 65, 67, 68, 69, 71, 72, 73, 79 OWiG
+- § 147 StPO
+
+## Arbeitsprogramm
+
+1. **Spur trennen.** Bußgeld nach Art. 83 DSGVO/§ 41 BDSG/OWiG ist nicht dasselbe wie Verwaltungsrechtsschutz gegen Art.-58-Anordnungen nach § 20 BDSG. Parallelspuren getrennt führen.
+2. **Frist sichern.** Einspruchs- und Rechtsbehelfsfristen sofort mit Zustellnachweis notieren; weiche Behördenfristen separat behandeln.
+3. **Akteneinsicht und Beweisstand.** Keine endgültige Tatsachenstellungnahme ohne Akteneinsicht, wenn ein Bußgeldverfahren erkennbar ist. Technische Behauptungen anhand Logs, Systemarchitektur und Verantwortlichkeiten prüfen.
+4. **Materiell prüfen.** DSGVO-Norm, Verantwortlichenrolle, Pflichtverletzung, Vorsatz/Fahrlässigkeit, Art.-83-Bemessung oder Art.-58-Ermessensausübung sauber subsumieren.
+5. **Taktisch schreiben.** Kooperativ, aber geschützt: keine unnötigen Schuldeingeständnisse, keine nicht belegten Behauptungen, keine Vermischung von Datenschutzberatung und Verteidigung.
+6. **Nächsten Schritt auswerfen.** Immer mit Risikoampel, konkreten Unterlagen, Freigabeentscheidung und empfohlenen Anschlussskills schließen.
+
+## Typische Fehler, die der Skill vermeiden muss
+
+- Bußgeldverfahren als normales Verwaltungsverfahren behandeln.
+- Art.-58-Anordnung und Bußgeldbescheid in denselben Rechtsweg werfen.
+- "Anklage" sagen, wo es im OWiG um Bußgeldbescheid, Einspruch, Zwischenverfahren und gerichtliche Hauptverhandlung geht.
+- § 73 OWiG als Bezeichnung der mündlichen Verhandlung missverstehen; die Hauptverhandlung steht in § 71 OWiG.
+- EuGH C-807/21 als verschuldenslose Unternehmenshaftung lesen. Das ist falsch: keine Identifizierung einer natürlichen Person nötig, aber Vorsatz oder Fahrlässigkeit bleibt nötig.
+- Rechtsprechung oder Behördenpraxis ohne live verifizierbare Quelle zitieren.
+
+## Output
+
+Verteidigungsbaustein für OWiG-Verfahren mit Akteneinsicht, Einspruch, Beweisthemen und Terminstrategie.
+
+## Übergabe an das Spezialplugin
+
+Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `datenschutz-sanktionsverfahren-verteidigung` und dort insbesondere `kaltstart-verfahrensstand-und-mandatsziel`, `akteneinsicht-49-owig-147-stpo`, `zustaendigkeit-amtsgericht-landgericht-41-bdsg`, `art-83-abs-2-kriterien-einzeln` und `art-58-anordnung-verwaltungsakt`.
+
+
+## Quellen- und Verifikationsregel
+
+- Normen vor Ausgabe live prüfen, besonders DSGVO Art. 58, 78 und 83, BDSG § 20 und § 41 sowie OWiG §§ 49, 55, 65, 67, 68, 69, 71, 72, 73 und 79.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und offizieller oder frei zugänglicher Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+- EuGH C-807/21 und C-683/21 nur mit sauberer Kernaussage nutzen: unmittelbare Unternehmensgeldbuße ja; verschuldenslose Haftung nein.
+- Wenn ein Punkt nicht verifiziert ist, als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+
+## 5. `dsv-sanktion-staatsanwaltschaft-im-dsgvo-owig`
+
+**Frühere Beschreibung:** Datenschutzrecht-Brückenskill: Staatsanwaltschaft im DSGVO-OWiG-Verfahren: Rolle der Staatsanwaltschaft nach Akteneingang und Zustimmungserfordernis der Aufsicht bei Einstellung erklären. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
+
+# Staatsanwaltschaft im DSGVO-OWiG-Verfahren
+
+## Aufgabe
+
+Rolle der Staatsanwaltschaft nach Akteneingang und Zustimmungserfordernis der Aufsicht bei Einstellung erklären.
+
+Dieser Skill arbeitet als Brücke im allgemeinen Plugin `datenschutzrecht`. Er darf nicht austauschbar antworten: immer zuerst Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtes Arbeitsprodukt klären.
+
+## Kaltstart-Fragen
+
+1. Welches Schreiben oder welcher Verfahrensschritt liegt vor: informelle Anfrage, Art.-58-Auskunftsverlangen, Anhörung, Bußgeldbescheid, Einspruch, gerichtliches Bußgeldverfahren, Art.-58-Anordnung, Verwaltungsgericht oder Rechtsmittel?
+2. Welche Behörde handelt: Landesdatenschutzaufsicht, BfDI, kirchliche Datenschutzaufsicht, federführende EU-Aufsicht oder andere Spezialaufsicht?
+3. Wer ist Adressat und in welcher Rolle: Verantwortlicher, Auftragsverarbeiter, gemeinsame Verantwortliche, Konzernmutter, Tochter, öffentliche Stelle oder natürliche Person?
+4. Welche Frist läuft und wie wurde zugestellt oder bekanntgegeben?
+5. Welche Tatsachen sind durch Akte, Logs, Verträge, DSFA, TOM, AVV, DSB-Vermerk oder Zeugen belegbar?
+6. Soll die Ausgabe Akteneinsicht, Fristverlängerung, Stellungnahme, Einspruch, Klage, Eilantrag, Terminsmappe oder Management-Briefing sein?
+
+## Rechtsanker
+
+- Art. 83 DSGVO
+- § 41 BDSG
+- §§ 49, 55, 65, 67, 68, 69, 71, 72, 73, 79 OWiG
+- § 147 StPO
+
+## Arbeitsprogramm
+
+1. **Spur trennen.** Bußgeld nach Art. 83 DSGVO/§ 41 BDSG/OWiG ist nicht dasselbe wie Verwaltungsrechtsschutz gegen Art.-58-Anordnungen nach § 20 BDSG. Parallelspuren getrennt führen.
+2. **Frist sichern.** Einspruchs- und Rechtsbehelfsfristen sofort mit Zustellnachweis notieren; weiche Behördenfristen separat behandeln.
+3. **Akteneinsicht und Beweisstand.** Keine endgültige Tatsachenstellungnahme ohne Akteneinsicht, wenn ein Bußgeldverfahren erkennbar ist. Technische Behauptungen anhand Logs, Systemarchitektur und Verantwortlichkeiten prüfen.
+4. **Materiell prüfen.** DSGVO-Norm, Verantwortlichenrolle, Pflichtverletzung, Vorsatz/Fahrlässigkeit, Art.-83-Bemessung oder Art.-58-Ermessensausübung sauber subsumieren.
+5. **Taktisch schreiben.** Kooperativ, aber geschützt: keine unnötigen Schuldeingeständnisse, keine nicht belegten Behauptungen, keine Vermischung von Datenschutzberatung und Verteidigung.
+6. **Nächsten Schritt auswerfen.** Immer mit Risikoampel, konkreten Unterlagen, Freigabeentscheidung und empfohlenen Anschlussskills schließen.
+
+## Typische Fehler, die der Skill vermeiden muss
+
+- Bußgeldverfahren als normales Verwaltungsverfahren behandeln.
+- Art.-58-Anordnung und Bußgeldbescheid in denselben Rechtsweg werfen.
+- "Anklage" sagen, wo es im OWiG um Bußgeldbescheid, Einspruch, Zwischenverfahren und gerichtliche Hauptverhandlung geht.
+- § 73 OWiG als Bezeichnung der mündlichen Verhandlung missverstehen; die Hauptverhandlung steht in § 71 OWiG.
+- EuGH C-807/21 als verschuldenslose Unternehmenshaftung lesen. Das ist falsch: keine Identifizierung einer natürlichen Person nötig, aber Vorsatz oder Fahrlässigkeit bleibt nötig.
+- Rechtsprechung oder Behördenpraxis ohne live verifizierbare Quelle zitieren.
+
+## Output
+
+Verteidigungsbaustein für OWiG-Verfahren mit Akteneinsicht, Einspruch, Beweisthemen und Terminstrategie.
+
+## Übergabe an das Spezialplugin
+
+Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `datenschutz-sanktionsverfahren-verteidigung` und dort insbesondere `kaltstart-verfahrensstand-und-mandatsziel`, `akteneinsicht-49-owig-147-stpo`, `zustaendigkeit-amtsgericht-landgericht-41-bdsg`, `art-83-abs-2-kriterien-einzeln` und `art-58-anordnung-verwaltungsakt`.
+
+
+## Quellen- und Verifikationsregel
+
+- Normen vor Ausgabe live prüfen, besonders DSGVO Art. 58, 78 und 83, BDSG § 20 und § 41 sowie OWiG §§ 49, 55, 65, 67, 68, 69, 71, 72, 73 und 79.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und offizieller oder frei zugänglicher Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+- EuGH C-807/21 und C-683/21 nur mit sauberer Kernaussage nutzen: unmittelbare Unternehmensgeldbuße ja; verschuldenslose Haftung nein.
+- Wenn ein Punkt nicht verifiziert ist, als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+
+## 6. `dsv-sanktion-unternehmensgruppe-und-federfuehrende-aufsicht`
+
+**Frühere Beschreibung:** Datenschutzrecht-Brückenskill: Unternehmensgruppe und federführende Aufsicht: Hauptniederlassung, One-Stop-Shop, gemeinsame Verantwortlichkeit und Konzernadressat prüfen. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
+
+# Unternehmensgruppe und federführende Aufsicht
+
+## Aufgabe
+
+Hauptniederlassung, One-Stop-Shop, gemeinsame Verantwortlichkeit und Konzernadressat prüfen.
+
+Dieser Skill arbeitet als Brücke im allgemeinen Plugin `datenschutzrecht`. Er darf nicht austauschbar antworten: immer zuerst Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtes Arbeitsprodukt klären.
+
+## Kaltstart-Fragen
+
+1. Welches Schreiben oder welcher Verfahrensschritt liegt vor: informelle Anfrage, Art.-58-Auskunftsverlangen, Anhörung, Bußgeldbescheid, Einspruch, gerichtliches Bußgeldverfahren, Art.-58-Anordnung, Verwaltungsgericht oder Rechtsmittel?
+2. Welche Behörde handelt: Landesdatenschutzaufsicht, BfDI, kirchliche Datenschutzaufsicht, federführende EU-Aufsicht oder andere Spezialaufsicht?
+3. Wer ist Adressat und in welcher Rolle: Verantwortlicher, Auftragsverarbeiter, gemeinsame Verantwortliche, Konzernmutter, Tochter, öffentliche Stelle oder natürliche Person?
+4. Welche Frist läuft und wie wurde zugestellt oder bekanntgegeben?
+5. Welche Tatsachen sind durch Akte, Logs, Verträge, DSFA, TOM, AVV, DSB-Vermerk oder Zeugen belegbar?
+6. Soll die Ausgabe Akteneinsicht, Fristverlängerung, Stellungnahme, Einspruch, Klage, Eilantrag, Terminsmappe oder Management-Briefing sein?
+
+## Rechtsanker
+
+- Art. 31 und Art. 58 DSGVO
+- Art. 83 Abs. 2 DSGVO
+- § 55 OWiG
+- § 20/§ 41 BDSG je nach Spur
+
+## Arbeitsprogramm
+
+1. **Spur trennen.** Bußgeld nach Art. 83 DSGVO/§ 41 BDSG/OWiG ist nicht dasselbe wie Verwaltungsrechtsschutz gegen Art.-58-Anordnungen nach § 20 BDSG. Parallelspuren getrennt führen.
+2. **Frist sichern.** Einspruchs- und Rechtsbehelfsfristen sofort mit Zustellnachweis notieren; weiche Behördenfristen separat behandeln.
+3. **Akteneinsicht und Beweisstand.** Keine endgültige Tatsachenstellungnahme ohne Akteneinsicht, wenn ein Bußgeldverfahren erkennbar ist. Technische Behauptungen anhand Logs, Systemarchitektur und Verantwortlichkeiten prüfen.
+4. **Materiell prüfen.** DSGVO-Norm, Verantwortlichenrolle, Pflichtverletzung, Vorsatz/Fahrlässigkeit, Art.-83-Bemessung oder Art.-58-Ermessensausübung sauber subsumieren.
+5. **Taktisch schreiben.** Kooperativ, aber geschützt: keine unnötigen Schuldeingeständnisse, keine nicht belegten Behauptungen, keine Vermischung von Datenschutzberatung und Verteidigung.
+6. **Nächsten Schritt auswerfen.** Immer mit Risikoampel, konkreten Unterlagen, Freigabeentscheidung und empfohlenen Anschlussskills schließen.
+
+## Typische Fehler, die der Skill vermeiden muss
+
+- Bußgeldverfahren als normales Verwaltungsverfahren behandeln.
+- Art.-58-Anordnung und Bußgeldbescheid in denselben Rechtsweg werfen.
+- "Anklage" sagen, wo es im OWiG um Bußgeldbescheid, Einspruch, Zwischenverfahren und gerichtliche Hauptverhandlung geht.
+- § 73 OWiG als Bezeichnung der mündlichen Verhandlung missverstehen; die Hauptverhandlung steht in § 71 OWiG.
+- EuGH C-807/21 als verschuldenslose Unternehmenshaftung lesen. Das ist falsch: keine Identifizierung einer natürlichen Person nötig, aber Vorsatz oder Fahrlässigkeit bleibt nötig.
+- Rechtsprechung oder Behördenpraxis ohne live verifizierbare Quelle zitieren.
+
+## Output
+
+Behördenstrategie mit Antwortentwurf, Vorbehalten, Anlagenplan und Schutz vor überschießender Selbstbelastung.
+
+## Übergabe an das Spezialplugin
+
+Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `datenschutz-sanktionsverfahren-verteidigung` und dort insbesondere `kaltstart-verfahrensstand-und-mandatsziel`, `akteneinsicht-49-owig-147-stpo`, `zustaendigkeit-amtsgericht-landgericht-41-bdsg`, `art-83-abs-2-kriterien-einzeln` und `art-58-anordnung-verwaltungsakt`.
+
+
+## Quellen- und Verifikationsregel
+
+- Normen vor Ausgabe live prüfen, besonders DSGVO Art. 58, 78 und 83, BDSG § 20 und § 41 sowie OWiG §§ 49, 55, 65, 67, 68, 69, 71, 72, 73 und 79.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und offizieller oder frei zugänglicher Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+- EuGH C-807/21 und C-683/21 nur mit sauberer Kernaussage nutzen: unmittelbare Unternehmensgeldbuße ja; verschuldenslose Haftung nein.
+- Wenn ein Punkt nicht verifiziert ist, als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+
+## 7. `dsv-sanktion-veroeffentlichung-von-bussgeldentscheidungen`
+
+**Frühere Beschreibung:** Datenschutzrecht-Brückenskill: Veröffentlichung von Bußgeldentscheidungen: Namensnennung, Behördenpublikation, Geschäftsgeheimnisse und Reputationsschutz steuern. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
+
+# Veröffentlichung von Bußgeldentscheidungen
+
+## Aufgabe
+
+Namensnennung, Behördenpublikation, Geschäftsgeheimnisse und Reputationsschutz steuern.
+
+Dieser Skill arbeitet als Brücke im allgemeinen Plugin `datenschutzrecht`. Er darf nicht austauschbar antworten: immer zuerst Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtes Arbeitsprodukt klären.
+
+## Kaltstart-Fragen
+
+1. Welches Schreiben oder welcher Verfahrensschritt liegt vor: informelle Anfrage, Art.-58-Auskunftsverlangen, Anhörung, Bußgeldbescheid, Einspruch, gerichtliches Bußgeldverfahren, Art.-58-Anordnung, Verwaltungsgericht oder Rechtsmittel?
+2. Welche Behörde handelt: Landesdatenschutzaufsicht, BfDI, kirchliche Datenschutzaufsicht, federführende EU-Aufsicht oder andere Spezialaufsicht?
+3. Wer ist Adressat und in welcher Rolle: Verantwortlicher, Auftragsverarbeiter, gemeinsame Verantwortliche, Konzernmutter, Tochter, öffentliche Stelle oder natürliche Person?
+4. Welche Frist läuft und wie wurde zugestellt oder bekanntgegeben?
+5. Welche Tatsachen sind durch Akte, Logs, Verträge, DSFA, TOM, AVV, DSB-Vermerk oder Zeugen belegbar?
+6. Soll die Ausgabe Akteneinsicht, Fristverlängerung, Stellungnahme, Einspruch, Klage, Eilantrag, Terminsmappe oder Management-Briefing sein?
+
+## Rechtsanker
+
+- Art. 83 DSGVO
+- § 41 BDSG
+- §§ 49, 55, 65, 67, 68, 69, 71, 72, 73, 79 OWiG
+- § 147 StPO
+
+## Arbeitsprogramm
+
+1. **Spur trennen.** Bußgeld nach Art. 83 DSGVO/§ 41 BDSG/OWiG ist nicht dasselbe wie Verwaltungsrechtsschutz gegen Art.-58-Anordnungen nach § 20 BDSG. Parallelspuren getrennt führen.
+2. **Frist sichern.** Einspruchs- und Rechtsbehelfsfristen sofort mit Zustellnachweis notieren; weiche Behördenfristen separat behandeln.
+3. **Akteneinsicht und Beweisstand.** Keine endgültige Tatsachenstellungnahme ohne Akteneinsicht, wenn ein Bußgeldverfahren erkennbar ist. Technische Behauptungen anhand Logs, Systemarchitektur und Verantwortlichkeiten prüfen.
+4. **Materiell prüfen.** DSGVO-Norm, Verantwortlichenrolle, Pflichtverletzung, Vorsatz/Fahrlässigkeit, Art.-83-Bemessung oder Art.-58-Ermessensausübung sauber subsumieren.
+5. **Taktisch schreiben.** Kooperativ, aber geschützt: keine unnötigen Schuldeingeständnisse, keine nicht belegten Behauptungen, keine Vermischung von Datenschutzberatung und Verteidigung.
+6. **Nächsten Schritt auswerfen.** Immer mit Risikoampel, konkreten Unterlagen, Freigabeentscheidung und empfohlenen Anschlussskills schließen.
+
+## Typische Fehler, die der Skill vermeiden muss
+
+- Bußgeldverfahren als normales Verwaltungsverfahren behandeln.
+- Art.-58-Anordnung und Bußgeldbescheid in denselben Rechtsweg werfen.
+- "Anklage" sagen, wo es im OWiG um Bußgeldbescheid, Einspruch, Zwischenverfahren und gerichtliche Hauptverhandlung geht.
+- § 73 OWiG als Bezeichnung der mündlichen Verhandlung missverstehen; die Hauptverhandlung steht in § 71 OWiG.
+- EuGH C-807/21 als verschuldenslose Unternehmenshaftung lesen. Das ist falsch: keine Identifizierung einer natürlichen Person nötig, aber Vorsatz oder Fahrlässigkeit bleibt nötig.
+- Rechtsprechung oder Behördenpraxis ohne live verifizierbare Quelle zitieren.
+
+## Output
+
+Verteidigungsbaustein für OWiG-Verfahren mit Akteneinsicht, Einspruch, Beweisthemen und Terminstrategie.
+
+## Übergabe an das Spezialplugin
+
+Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `datenschutz-sanktionsverfahren-verteidigung` und dort insbesondere `kaltstart-verfahrensstand-und-mandatsziel`, `akteneinsicht-49-owig-147-stpo`, `zustaendigkeit-amtsgericht-landgericht-41-bdsg`, `art-83-abs-2-kriterien-einzeln` und `art-58-anordnung-verwaltungsakt`.
+
+
+## Quellen- und Verifikationsregel
+
+- Normen vor Ausgabe live prüfen, besonders DSGVO Art. 58, 78 und 83, BDSG § 20 und § 41 sowie OWiG §§ 49, 55, 65, 67, 68, 69, 71, 72, 73 und 79.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und offizieller oder frei zugänglicher Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+- EuGH C-807/21 und C-683/21 nur mit sauberer Kernaussage nutzen: unmittelbare Unternehmensgeldbuße ja; verschuldenslose Haftung nein.
+- Wenn ein Punkt nicht verifiziert ist, als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+
+## 8. `dsv-sanktion-verteidigerrolle-dsb-gf-und-externe-berater`
+
+**Frühere Beschreibung:** Datenschutzrecht-Brückenskill: Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater: Datenschutzbeauftragten, Geschäftsleitung, externe Anwälte, IT-Forensik und PR-Beratung konfliktfrei koordinieren. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
+
+# Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater
+
+## Aufgabe
+
+Datenschutzbeauftragten, Geschäftsleitung, externe Anwälte, IT-Forensik und PR-Beratung konfliktfrei koordinieren.
+
+Dieser Skill arbeitet als Brücke im allgemeinen Plugin `datenschutzrecht`. Er darf nicht austauschbar antworten: immer zuerst Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtes Arbeitsprodukt klären.
+
+## Kaltstart-Fragen
+
+1. Welches Schreiben oder welcher Verfahrensschritt liegt vor: informelle Anfrage, Art.-58-Auskunftsverlangen, Anhörung, Bußgeldbescheid, Einspruch, gerichtliches Bußgeldverfahren, Art.-58-Anordnung, Verwaltungsgericht oder Rechtsmittel?
+2. Welche Behörde handelt: Landesdatenschutzaufsicht, BfDI, kirchliche Datenschutzaufsicht, federführende EU-Aufsicht oder andere Spezialaufsicht?
+3. Wer ist Adressat und in welcher Rolle: Verantwortlicher, Auftragsverarbeiter, gemeinsame Verantwortliche, Konzernmutter, Tochter, öffentliche Stelle oder natürliche Person?
+4. Welche Frist läuft und wie wurde zugestellt oder bekanntgegeben?
+5. Welche Tatsachen sind durch Akte, Logs, Verträge, DSFA, TOM, AVV, DSB-Vermerk oder Zeugen belegbar?
+6. Soll die Ausgabe Akteneinsicht, Fristverlängerung, Stellungnahme, Einspruch, Klage, Eilantrag, Terminsmappe oder Management-Briefing sein?
+
+## Rechtsanker
+
+- Art. 58, 78, 83 DSGVO
+- § 20 BDSG
+- § 41 BDSG
+- §§ 55, 65, 67 OWiG
+
+## Arbeitsprogramm
+
+1. **Spur trennen.** Bußgeld nach Art. 83 DSGVO/§ 41 BDSG/OWiG ist nicht dasselbe wie Verwaltungsrechtsschutz gegen Art.-58-Anordnungen nach § 20 BDSG. Parallelspuren getrennt führen.
+2. **Frist sichern.** Einspruchs- und Rechtsbehelfsfristen sofort mit Zustellnachweis notieren; weiche Behördenfristen separat behandeln.
+3. **Akteneinsicht und Beweisstand.** Keine endgültige Tatsachenstellungnahme ohne Akteneinsicht, wenn ein Bußgeldverfahren erkennbar ist. Technische Behauptungen anhand Logs, Systemarchitektur und Verantwortlichkeiten prüfen.
+4. **Materiell prüfen.** DSGVO-Norm, Verantwortlichenrolle, Pflichtverletzung, Vorsatz/Fahrlässigkeit, Art.-83-Bemessung oder Art.-58-Ermessensausübung sauber subsumieren.
+5. **Taktisch schreiben.** Kooperativ, aber geschützt: keine unnötigen Schuldeingeständnisse, keine nicht belegten Behauptungen, keine Vermischung von Datenschutzberatung und Verteidigung.
+6. **Nächsten Schritt auswerfen.** Immer mit Risikoampel, konkreten Unterlagen, Freigabeentscheidung und empfohlenen Anschlussskills schließen.
+
+## Typische Fehler, die der Skill vermeiden muss
+
+- Bußgeldverfahren als normales Verwaltungsverfahren behandeln.
+- Art.-58-Anordnung und Bußgeldbescheid in denselben Rechtsweg werfen.
+- "Anklage" sagen, wo es im OWiG um Bußgeldbescheid, Einspruch, Zwischenverfahren und gerichtliche Hauptverhandlung geht.
+- § 73 OWiG als Bezeichnung der mündlichen Verhandlung missverstehen; die Hauptverhandlung steht in § 71 OWiG.
+- EuGH C-807/21 als verschuldenslose Unternehmenshaftung lesen. Das ist falsch: keine Identifizierung einer natürlichen Person nötig, aber Vorsatz oder Fahrlässigkeit bleibt nötig.
+- Rechtsprechung oder Behördenpraxis ohne live verifizierbare Quelle zitieren.
+
+## Output
+
+Mandats-Cockpit mit Verfahrensspur, Fristen, Sofortmaßnahmen, Risikoampel und nächsten Skills.
+
+## Übergabe an das Spezialplugin
+
+Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `datenschutz-sanktionsverfahren-verteidigung` und dort insbesondere `kaltstart-verfahrensstand-und-mandatsziel`, `akteneinsicht-49-owig-147-stpo`, `zustaendigkeit-amtsgericht-landgericht-41-bdsg`, `art-83-abs-2-kriterien-einzeln` und `art-58-anordnung-verwaltungsakt`.
+
+
+## Quellen- und Verifikationsregel
+
+- Normen vor Ausgabe live prüfen, besonders DSGVO Art. 58, 78 und 83, BDSG § 20 und § 41 sowie OWiG §§ 49, 55, 65, 67, 68, 69, 71, 72, 73 und 79.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und offizieller oder frei zugänglicher Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+- EuGH C-807/21 und C-683/21 nur mit sauberer Kernaussage nutzen: unmittelbare Unternehmensgeldbuße ja; verschuldenslose Haftung nein.
+- Wenn ein Punkt nicht verifiziert ist, als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+
+## 9. `dsv-schadensersatz-art-82`
+
+**Frühere Beschreibung:** Verteidigt den Verantwortlichen gegen Schadensersatzansprüche nach Art. 82 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Anspruchsvoraussetzungen; materieller und immaterieller Schaden; EuGH-Rechtsprechung (insbesondere Österreichische Post C-300/21; Saturn C-687/21); Substantiierungsanforderungen; Bagatellschwelle; Kausalität; Exkulpation nach Art. 82 Abs. 3 DSGVO; gesamtschuldnerische Haftung. Output: Verteidigungsraster mit Schriftsatzgliederung. Abgrenzung: keine Bußgeldverteidigung.
+
+# Schadensersatz nach Art. 82 DSGVO — Verteidigung
+
+## Triage — kläre vor der Bearbeitung
+
+1. Welcher Schadensbetrag wird konkret geltend gemacht und auf welcher Grundlage?
+2. Welche Substantiierung liegt vor (konkret oder Massen-Standardschriftsatz)?
+3. Welche Kausalität wird behauptet?
+4. Welche Exkulpationsmöglichkeit besteht (Art. 82 Abs. 3)?
+5. Welche EuGH-Rechtsprechung trägt die Verteidigung?
+- Was will der Mandant wirklich erreichen? (Klage abweisen; geringe Vergleichssumme; Präzedenz vermeiden)
+
+## Rechtsgrundlagen
+
+- **Art. 82 Abs. 1 DSGVO** Anspruch.
+- **Art. 82 Abs. 2 DSGVO** Verantwortlicher und Auftragsverarbeiter.
+- **Art. 82 Abs. 3 DSGVO** Exkulpation.
+- **Art. 82 Abs. 4 DSGVO** gesamtschuldnerische Haftung.
+- **§§ 253; 280; 823 BGB** ergänzend.
+
+## Aktuelle Rechtsprechung
+
+Nicht aus Modellwissen; insbesondere EuGH Österreichische Post C-300/21; Saturn C-687/21; Gemeinde Ummendorf C-456/22 vor Ausgabe über eur-lex.europa.eu verifizieren.
+
+## Zentrale Normen
+
+Art. 82 Abs. 1; Art. 82 Abs. 2; Art. 82 Abs. 3; Art. 82 Abs. 4 DSGVO; §§ 253; 280; 823 BGB.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
+
+## Praxisformulierung — Schriftsatzgliederung
+
+A. Sachverhalt — konkret und auf substantiierte Klage bezogen.
+
+B. Zur fehlenden Verletzung — wenn streitig.
+
+C. Zur fehlenden Substantiierung des Schadens — Kläger muss konkret darlegen; bloße Sorge reicht nach EuGH C-300/21 nicht ohne weiteres.
+
+D. Zur fehlenden Kausalität — alternative Schadensursachen; Mitverschulden.
+
+E. Zur Exkulpation Art. 82 Abs. 3 — Beweis fehlender Verantwortlichkeit.
+
+F. Höhe — Bagatellgrenze; Vergleich mit Rechtsprechung.
+
+## Abgrenzung zu anderen Skills
+
+- `dsv-aufnahme-statusinformation` bildet die strukturierte Erstaufnahme; dieser Skill setzt darauf auf.
+- `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung ab; bei Bedarf zusätzlich ziehen.
+- `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
+- `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
+
+- `dsv-rechtsprechung-immaterieller-schaden-bgh-olg` deckt die Rechtsprechungsanalyse ab.
+- `dsv-sammelklagen-praevention` deckt die strategische Praevention ab.
+
+## 10. `datenschutz-livecheck-bfdi-laender-aufsichtsbehoerden`
+
+**Frühere Beschreibung:** Livecheck-Skill fuer aktuelle Veroeffentlichungen BfDI und Landesdatenschutzbehoerden vor Abgabe Schriftsatz oder Stellungnahme. Sieben-Fragen-Diagnose: Mandatsgebiet zustaendige Aufsicht Rechtsbereich Verarbeitungsart EuGH Vorabentscheidung EDSA-Leitlinie aktuell. Schritt-fuer-Schritt: NICHT aus Modellwissen zitieren immer Live-Quellen. Mustertexte fuer Live-Quellen-Notiz und Aktualisierungsvermerk. Liste der offiziellen Quellen ohne erfundene Datums. Abgrenzung: keine Subsumtion (datenschutz-erstgespraech-mandantenmatrix-7-fragen).
+
+# Datenschutz Livecheck — BfDI und Landesaufsichten
+
+## Zweck
+
+Dieser Skill stellt sicher, dass vor jeder Mandantenkommunikation oder Stellungnahme zu Aufsichtsbehoerden die aktuelle Rechts- und Aufsichtspraxis verifiziert wird. Datenschutzrecht aendert sich rasant durch EuGH-Vorabentscheidungen, EDSA-Leitlinien und nationale Aufsichts-Praxis. Modellwissen ist nicht ausreichend.
+
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+
+Sie brauchen den Skill **vor jeder** Mandantenkommunikation in einem datenschutzrechtlichen Verfahren, insbesondere:
+
+- Vor Versand Stellungnahme an Aufsicht.
+- Vor Klage- oder Klageerwiderungseinreichung.
+- Vor Vergleichsvorschlag.
+- Vor Beratungstermin mit Mandant.
+
+Sieben-Fragen-Diagnose:
+
+1. **Mandatsgebiet:** Auskunft, Datenpanne, Bussgeld, Schadensersatz, Drittlandstransfer, Beschaeftigtendatenschutz, KI-VO-Schnittstelle?
+2. **Zustaendige Aufsicht:** BfDI oder welches Bundesland? Federfuehrend nach Art. 56 DSGVO?
+3. **Rechtsbereich:** Privatwirtschaft, oeffentlicher Bereich, Telekommunikation und Telemedien (TDDDG), Strafverfolgung?
+4. **Verarbeitungsart:** Marketing, HR, Gesundheit, Finanz, Cloud, KI?
+5. **EuGH-Vorabentscheidungen:** Welche Verfahren seit 2023 relevant?
+6. **EDSA-Leitlinien:** Welche Leitlinie ist seit 2023 angenommen oder aktualisiert?
+7. **Nationale Aufsichts-Veroeffentlichungen:** Taetigkeitsberichte BfDI / Landesaufsichten?
+
+## Rechtlicher Rahmen
+
+- **DSGVO**.
+- **BDSG**.
+- **TDDDG** (Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz, seit 14.05.2024 in Kraft, abgeloest TTDSG).
+- **EDSA-Leitlinien** sind keine Gesetzeskraft, aber Auslegungshilfen.
+- **EuGH-Urteile** Bindungswirkung nach Art. 267 AEUV.
+- **§ 13 BDSG** BfDI.
+- **§ 40 BDSG** Landesaufsichten.
+
+## Mandantenfuehrung Schritt-fuer-Schritt
+
+1. **Zuerst: Quellenliste pruefen.** Die folgenden offiziellen Quellen sind massgeblich:
+   - BfDI: bfdi.bund.de (Taetigkeitsberichte, Konsultationen, FAQ).
+   - EDSA: edpb.europa.eu (Leitlinien, Stellungnahmen, koordinierte Aktionen).
+   - EuGH: curia.europa.eu (Rechtsprechungsdatenbank).
+   - Bayerisches Landesamt fuer Datenschutzaufsicht: lda.bayern.de (privater Bereich, Bayern).
+   - LfDI BW: baden-wuerttemberg.datenschutz.de.
+   - Berliner Datenschutzbeauftragte: datenschutz-berlin.de.
+   - Hessischer Datenschutzbeauftragter: datenschutz.hessen.de.
+   - LfDI Niedersachsen: lfd.niedersachsen.de.
+   - LfDI NRW: ldi.nrw.de.
+   - Hamburgischer Datenschutzbeauftragter: datenschutz-hamburg.de.
+2. **Als zweites: Suche konkret.** Stichworte mit Norm (Art. 33 DSGVO, Art. 82 DSGVO) und Aktualitaet (2024, 2025, 2026).
+3. **Als drittes: NICHT aus Modellwissen zitieren.** Insbesondere keine Daten "BfDI Taetigkeitsbericht 2024" ohne Verifizierung.
+4. **Als viertes: Aktualisierungsvermerk in Akte.** Datum Recherche, Quelle, Ergebnis.
+5. **Als fuenftes: Bei Unsicherheit:** Eigene Anfrage an Aufsicht stellen (§ 38 BDSG informelle Beratung; bedenken: kann Akte begruenden).
+
+## Trade-off-Matrix
+
+| Quelle | Verlaesslichkeit | Aktualitaet |
+|---|---|---|
+| EuGH curia.europa.eu | sehr hoch | sehr hoch, mit Datum |
+| EDSA edpb.europa.eu | sehr hoch | mittel (Leitlinien dauern Konsultation) |
+| BfDI Taetigkeitsbericht | hoch | jaehrlich |
+| Landesaufsichten | hoch | unterschiedlich |
+| Sekundaerquellen / Aufsatzdatenbanken | mittel | hoch | nur mit lizenzierter Anbindung |
+
+## Mustertexte
+
+### Live-Quellen-Notiz (intern, Akte)
+
+```
+Recherche: [Thema]
+Datum: [Datum]
+Aufsuchende Person: [Name]
+
+Quellen geprueft:
+1. curia.europa.eu — Suche [Stichwort] — Ergebnis [Az, Datum].
+2. edpb.europa.eu — Leitlinie [Nr., Version, Annahmedatum].
+3. [Landesaufsicht] — Veroeffentlichung [Titel, Datum].
+4. BfDI — Taetigkeitsbericht [Jahr] — Ziffer [Nr.].
+
+Stand der Information: [Datum].
+Konsequenz fuer Mandat: [konkret].
+
+Verifizierung: [Quelle, URL gespeichert in Akte].
+```
+
+### Aktualisierungsvermerk (Schriftsatz-Anhang)
+
+> Stand: [Datum]. Die Auslegung folgt der zum Zeitpunkt der Schriftsatzerstellung verifizierten EuGH-Rechtsprechung und den aktuellen EDSA-Leitlinien. Soweit waehrend des Verfahrens neue Entscheidungen ergehen, behaelt sich die Partei nachgereichten Vortrag vor.
+
+### Anfrage an Aufsicht (informell)
+
+> Sehr geehrte Damen und Herren,
+>
+> in einer datenschutzrechtlichen Fragestellung [knapp] bitten wir um Mitteilung Ihrer aufsichtlichen Auffassung, soweit Sie informelle Auskuenfte erteilen koennen. Hintergrund ist [knapp]. Eine Verarbeitung des Sachverhalts findet [noch nicht / bereits seit Datum] statt. Wir verstehen, dass Ihre Auskunft keinen Verwaltungsakt darstellt.
+>
+> Mit freundlichen Gruessen
+
+## Typische Fehler
+
+- "BfDI sagt..." ohne Quelle.
+- EuGH-Az erfunden oder verschoben.
+- EDSA-Leitlinie veraltet zitiert (z. B. Leitlinien 9/2022 ohne Annahmedatum 28.03.2023).
+- Landesaufsicht falsch zugeordnet (Bayerisches LDA fuer Privatbereich Bayern, Bayerischer Landesbeauftragter fuer oeffentlichen Bereich Bayern — unterscheiden).
+- TDDDG (seit 14.05.2024) als TTDSG zitiert.
+
+**Was triggert die Aufsicht negativ?** Veraltete Zitate, EuGH-Az ohne Datum, Bezug auf Aufsichtspraxis anderer Laender ohne Pruefung.
+
+## Querverweise
+
+- `datenschutz-erstgespraech-mandantenmatrix-7-fragen`
+- `datenschutz-beschwerde-art-77-aufsichtsbehoerde`
+- `datenschutz-mandantenkommunikation-aufsichtsbehoerde`
+- `workflow-rechtsquellen-livecheck`
+- `spezial-transfer-livequellen-und-rechtsprechungscheck`
+
+## Quellen Stand 06/2026
+
+- DSGVO.
+- BDSG.
+- TDDDG, in Kraft seit 14.05.2024.
+- EU-Vertrag Art. 267 AEUV (Vorabentscheidungsverfahren).
+- BfDI bfdi.bund.de.
+- EDSA edpb.europa.eu.
+- EuGH curia.europa.eu.
+- Landesaufsichten siehe Liste oben.
+- Keine Aufsatzfundstellen aus Modellwissen.

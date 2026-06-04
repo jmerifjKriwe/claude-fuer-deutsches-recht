@@ -1,9 +1,9 @@
 # Steuerhinterziehung § 370 AO — Betragsberechnung und Verteidigungsanalyse
 
-**Marx Strafverteidigung Frankfurt**  
-**Vertraulich — Anwaltsgeheimnis § 53 StPO**  
-Erstellt von: Dr. Friederike Marx / Dipl.-Kfm. O. Strenger  
-Datum: 27. April 2025  
+**Marx Strafverteidigung Frankfurt**
+**Vertraulich — Anwaltsgeheimnis § 53 StPO**
+Erstellt von: Dr. Friederike Marx / Dipl.-Kfm. O. Strenger
+Datum: 27. April 2025
 Az.: 5/28 KLs 122/25 / 5400 Js 14782/24
 
 ---
@@ -68,5 +68,5 @@ Das LG Frankfurt am Main ist gemäß § 74c Abs. 1 Nr. 1 GVG als Wirtschaftsstra
 
 ---
 
-*Dr. Friederike Marx — Marx Strafverteidigung Frankfurt — Az. 5/28 KLs 122/25*  
+*Dr. Friederike Marx — Marx Strafverteidigung Frankfurt — Az. 5/28 KLs 122/25*
 *Vgl. XLSX-Detailberechnung: xlsx/14_steuerhinterziehung_berechnung.xlsx*

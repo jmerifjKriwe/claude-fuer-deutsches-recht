@@ -1,7 +1,7 @@
 # 08 — Produkthaftung: PowerNutrition GmbH, Memmingen
 
-**Erstellt:** 15.04.2026  
-**Bearbeiter:** RA Prof. Dr. Markus Lentze  
+**Erstellt:** 15.04.2026
+**Bearbeiter:** RA Prof. Dr. Markus Lentze
 **AZ:** SU/DOPING/2026-001
 
 ---

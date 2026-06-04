@@ -1,7 +1,7 @@
 # 10 — FRAND-Lizenzstreit mit Schwesterfirma USA
 
-**Aktenzeichen intern:** VM-2026-GR-001 (Unterakte FRAND)  
-**Datum:** 20. Februar 2026  
+**Aktenzeichen intern:** VM-2026-GR-001 (Unterakte FRAND)
+**Datum:** 20. Februar 2026
 **Bearbeiter:** RA Dr. Birkenhainer (koordinierend; separates US-Mandat läuft bei Kanzlei Harrington & McCullough LLP, Washington D.C.)
 
 ---

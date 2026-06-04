@@ -1,6 +1,6 @@
 # 22 — Post-Closing: Integration und Laufende Massnahmen
 
-**Datum:** Ab 1. August 2026  
+**Datum:** Ab 1. August 2026
 **Bearbeiter:** RA Prof. Dr. Felix Mannfeldt (koordinierend), RAin Dr. Petra Kammerlohr (Arbeitsrecht)
 
 ---

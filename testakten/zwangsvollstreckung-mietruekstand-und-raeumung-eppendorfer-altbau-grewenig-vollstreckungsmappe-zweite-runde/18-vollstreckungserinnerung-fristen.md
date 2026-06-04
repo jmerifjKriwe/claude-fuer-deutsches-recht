@@ -1,7 +1,7 @@
 # 18 Vollstreckungserinnerung — Fristenuebersicht und Wiedervorlageplan
 
-**Akte:** MR-2026-ZV-0188  
-**Stand:** 05.02.2026  
+**Akte:** MR-2026-ZV-0188
+**Stand:** 05.02.2026
 **Bearbeiter:** RA Dr. Roosendaal-Eichmueller
 
 ---

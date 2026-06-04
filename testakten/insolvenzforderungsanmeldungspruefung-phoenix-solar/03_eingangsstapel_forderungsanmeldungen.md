@@ -1,9 +1,9 @@
 # Eingangsstapel – Forderungsanmeldungen Phoenix Solar Montage GmbH
 
-**Aktenzeichen:** 35 IN 417/26  
-**Insolvenzverwalter:** RA Dr. Konrad Muster  
-**Bearbeiter:** Kanzlei Muster & Partner – Sachbearbeiterin Doris Felgner  
-**Vermerk-Nr.:** 2026-IFAP-003  
+**Aktenzeichen:** 35 IN 417/26
+**Insolvenzverwalter:** RA Dr. Konrad Muster
+**Bearbeiter:** Kanzlei Muster & Partner – Sachbearbeiterin Doris Felgner
+**Vermerk-Nr.:** 2026-IFAP-003
 **Stand:** 6. Juni 2026 (nach Ablauf Anmeldefrist 4. Juni 2026)
 
 ---
@@ -99,5 +99,5 @@ Folgende Anmeldungen weisen formale Mängel auf, die ein Nachforderungsschreiben
 
 ---
 
-*Bearbeiter: Doris Felgner, Sachbearbeiterin Insolvenzverwaltung, Kanzlei Muster & Partner, Potsdam*  
+*Bearbeiter: Doris Felgner, Sachbearbeiterin Insolvenzverwaltung, Kanzlei Muster & Partner, Potsdam*
 *Datum: 6. Juni 2026*

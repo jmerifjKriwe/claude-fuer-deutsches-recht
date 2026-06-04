@@ -1,29 +1,29 @@
 # Nachforderungsschreiben des Insolvenzverwalters
 
-**Aktenzeichen:** 35 IN 417/26  
-**Absender:** Rechtsanwalt Dr. Konrad Muster, Insolvenzverwalter  
-**Datum:** 10. Juni 2026  
+**Aktenzeichen:** 35 IN 417/26
+**Absender:** Rechtsanwalt Dr. Konrad Muster, Insolvenzverwalter
+**Datum:** 10. Juni 2026
 **Bearbeiter:** Doris Felgner / Dr. Konrad Muster
 
 ---
 
 ## Schreiben 1: An Havelbank AG – Verwertungsausfall und Sicherheitenbewertung
 
-> **Kanzlei Muster & Partner Rechtsanwälte mbB**  
-> Lennéstraße 17 · 14469 Potsdam  
-> Tel.: 0331 / 74 18 90-0  
+> **Kanzlei Muster & Partner Rechtsanwälte mbB**
+> Lennéstraße 17 · 14469 Potsdam
+> Tel.: 0331 / 74 18 90-0
 > insolvenzverwaltung@muster-partner-potsdam.de
 
-**An:**  
-Havelbank AG  
-– Rechtsabteilung / RAin Sandra Kühn –  
-Berliner Straße 4  
+**An:**
+Havelbank AG
+– Rechtsabteilung / RAin Sandra Kühn –
+Berliner Straße 4
 14467 Potsdam
 
 **Potsdam, 10. Juni 2026**
 
-**Betrifft:** Insolvenzverfahren Phoenix Solar Montage GmbH, Az. 35 IN 417/26  
-Ihre Forderungsanmeldung vom 5. Mai 2026, Darlehenskonto HB-44-901  
+**Betrifft:** Insolvenzverfahren Phoenix Solar Montage GmbH, Az. 35 IN 417/26
+Ihre Forderungsanmeldung vom 5. Mai 2026, Darlehenskonto HB-44-901
 **Nachforderung – Sicherheitenbewertung und Ausfallbezifferung**
 
 ---
@@ -52,26 +52,26 @@ Die angemeldeten Zinsen von 3.562,50 EUR wurden auf Basis eines Zeitraums berech
 
 Mit freundlichen kollegialen Grüßen,
 
-Dr. Konrad Muster  
+Dr. Konrad Muster
 Rechtsanwalt – Insolvenzverwalter
 
 ---
 
 ## Schreiben 2: An Finanzamt Potsdam – Tatsachengrundlage besonderer Rechtsgrund
 
-> **Kanzlei Muster & Partner Rechtsanwälte mbB**  
+> **Kanzlei Muster & Partner Rechtsanwälte mbB**
 > Lennéstraße 17 · 14469 Potsdam
 
-**An:**  
-Finanzamt Potsdam  
-– Vollstreckungsstelle, z. H. Herrn Rainer Gröbel –  
-Steinstraße 104  
+**An:**
+Finanzamt Potsdam
+– Vollstreckungsstelle, z. H. Herrn Rainer Gröbel –
+Steinstraße 104
 14480 Potsdam
 
 **Potsdam, 10. Juni 2026**
 
-**Betrifft:** Insolvenzverfahren Phoenix Solar Montage GmbH, Az. 35 IN 417/26  
-Forderungsanmeldung Finanzamt Potsdam vom 7. Mai 2026, StNr. 048/114/55821  
+**Betrifft:** Insolvenzverfahren Phoenix Solar Montage GmbH, Az. 35 IN 417/26
+Forderungsanmeldung Finanzamt Potsdam vom 7. Mai 2026, StNr. 048/114/55821
 **Nachforderung – Tatsachenbasis besonderer Rechtsgrund § 302 Nr. 1 InsO**
 
 ---
@@ -92,26 +92,26 @@ Sollte kein ausreichender Nachweis erbracht werden, wird der besondere Rechtsgru
 
 Mit freundlichen Grüßen,
 
-Dr. Konrad Muster  
+Dr. Konrad Muster
 Insolvenzverwalter
 
 ---
 
 ## Schreiben 3: An BKK Handwerk Mitte – Abgrenzung April-Beitrag und Säumniszuschläge
 
-> **Kanzlei Muster & Partner Rechtsanwälte mbB**  
+> **Kanzlei Muster & Partner Rechtsanwälte mbB**
 > Lennéstraße 17 · 14469 Potsdam
 
-**An:**  
-BKK Handwerk Mitte  
-– Abt. Beitrags- und Forderungsmanagement, z. H. Frau Elke Sorgenlos –  
-Postfach 12 40  
+**An:**
+BKK Handwerk Mitte
+– Abt. Beitrags- und Forderungsmanagement, z. H. Frau Elke Sorgenlos –
+Postfach 12 40
 14412 Potsdam
 
 **Potsdam, 10. Juni 2026**
 
-**Betrifft:** Insolvenzverfahren Phoenix Solar Montage GmbH, Az. 35 IN 417/26  
-Ihre Forderungsanmeldung vom 9. Mai 2026, BeitrNr. BKK-HWM-04711-8821  
+**Betrifft:** Insolvenzverfahren Phoenix Solar Montage GmbH, Az. 35 IN 417/26
+Ihre Forderungsanmeldung vom 9. Mai 2026, BeitrNr. BKK-HWM-04711-8821
 **Nachforderung – Zeitraumabgrenzung und Säumniszuschläge**
 
 ---
@@ -135,25 +135,25 @@ Die SZ-Forderung für den Zeitraum ab dem 1. Mai 2026 ist als **Masseverbindlich
 
 Mit freundlichen Grüßen,
 
-Dr. Konrad Muster  
+Dr. Konrad Muster
 Insolvenzverwalter
 
 ---
 
 ## Schreiben 4: An Lena Vogt – Schmerzensgeld und vbuH
 
-> **Kanzlei Muster & Partner Rechtsanwälte mbB**  
+> **Kanzlei Muster & Partner Rechtsanwälte mbB**
 > Lennéstraße 17 · 14469 Potsdam
 
-**An:**  
-Frau Lena Vogt  
-Pappelallee 31  
+**An:**
+Frau Lena Vogt
+Pappelallee 31
 14469 Potsdam
 
 **Potsdam, 10. Juni 2026**
 
-**Betrifft:** Insolvenzverfahren Phoenix Solar Montage GmbH, Az. 35 IN 417/26  
-Ihre Forderungsanmeldung vom 10. Mai 2026  
+**Betrifft:** Insolvenzverfahren Phoenix Solar Montage GmbH, Az. 35 IN 417/26
+Ihre Forderungsanmeldung vom 10. Mai 2026
 **Nachforderung – Tatsachenbasis Schmerzensgeld und besonderer Rechtsgrund**
 
 ---
@@ -175,26 +175,26 @@ Zur **Lohnforderung** weisen wir Sie darauf hin, dass Sie für die Monate März 
 
 Mit freundlichen Grüßen,
 
-Dr. Konrad Muster  
+Dr. Konrad Muster
 Insolvenzverwalter
 
 ---
 
 ## Schreiben 5: An Gewerbepark Babelsberg GmbH – Mietzeitraum und Schadensbeleg
 
-> **Kanzlei Muster & Partner Rechtsanwälte mbB**  
+> **Kanzlei Muster & Partner Rechtsanwälte mbB**
 > Lennéstraße 17 · 14469 Potsdam
 
-**An:**  
-Gewerbepark Babelsberg GmbH  
-– z. H. RAin Nicole Berger –  
-Karl-Marx-Straße 44  
+**An:**
+Gewerbepark Babelsberg GmbH
+– z. H. RAin Nicole Berger –
+Karl-Marx-Straße 44
 14482 Potsdam
 
 **Potsdam, 10. Juni 2026**
 
-**Betrifft:** Insolvenzverfahren Phoenix Solar Montage GmbH, Az. 35 IN 417/26  
-Forderungsanmeldung vom 15. Mai 2026  
+**Betrifft:** Insolvenzverfahren Phoenix Solar Montage GmbH, Az. 35 IN 417/26
+Forderungsanmeldung vom 15. Mai 2026
 **Klärung Mietzeitraum und Schadensersatz Hallentor**
 
 ---
@@ -211,5 +211,5 @@ Ihre Forderungsanmeldung vom 15. Mai 2026 über 19.800,00 EUR ist eingegangen. W
 
 Mit freundlichen Grüßen,
 
-Dr. Konrad Muster  
+Dr. Konrad Muster
 Insolvenzverwalter

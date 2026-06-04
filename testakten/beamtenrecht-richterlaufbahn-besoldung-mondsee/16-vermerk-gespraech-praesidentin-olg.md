@@ -1,7 +1,7 @@
 # Vermerk: Gespräch mit der Präsidentin des Oberlandesgerichts
 
-**Datum:** 06.05.2026  
-**Ort:** Dienstzimmer Präsidentin, OLG Falkenried  
+**Datum:** 06.05.2026
+**Ort:** Dienstzimmer Präsidentin, OLG Falkenried
 **Teilnehmende:** Präsidentin Dr. Halina Mertens, Vizepräsident Rudiger Niebach, Dr. Ottilie Mondsee, Referentin R 2 Dr. Mathilde Krug
 
 ## Anlass

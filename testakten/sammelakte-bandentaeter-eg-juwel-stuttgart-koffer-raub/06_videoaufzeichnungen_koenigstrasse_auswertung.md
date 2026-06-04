@@ -1,8 +1,8 @@
 # Aktenstück 06 — Videoaufzeichnungen Königstrasse: Stadtcam und Cafe Westermann
 
-**Verfahren:** StA Stuttgart 4 Js 18.422/26  
-**Bearbeitung:** Alle Verteidiger / Sachbearbeiterin KOK Beatrix Hoffmann-Schramm  
-**Auswertezeitraum:** 18.10.2025, 10:30 bis 11:15 Uhr  
+**Verfahren:** StA Stuttgart 4 Js 18.422/26
+**Bearbeitung:** Alle Verteidiger / Sachbearbeiterin KOK Beatrix Hoffmann-Schramm
+**Auswertezeitraum:** 18.10.2025, 10:30 bis 11:15 Uhr
 **Stand:** 24.01.2026
 
 ---

@@ -1,10 +1,10 @@
 # Mandatsnotiz – Eingangs­gespräch AML/GwG-Beratung
 
-**Aktenzeichen:** 2026/AML/047-MH  
-**Verfasserin:** RA Dr. Franziska Heller, Kanzlei Heller & Schönfeld  
-**Datum des Gesprächs:** 05.05.2026, 10:00–12:15 Uhr  
-**Ort:** Konferenzraum Kanzlei Heller & Schönfeld, Taunusanlage 8, 60329 Frankfurt am Main  
-**Notiz-Nr.:** MN-2026-047-001  
+**Aktenzeichen:** 2026/AML/047-MH
+**Verfasserin:** RA Dr. Franziska Heller, Kanzlei Heller & Schönfeld
+**Datum des Gesprächs:** 05.05.2026, 10:00–12:15 Uhr
+**Ort:** Konferenzraum Kanzlei Heller & Schönfeld, Taunusanlage 8, 60329 Frankfurt am Main
+**Notiz-Nr.:** MN-2026-047-001
 
 ---
 
@@ -106,5 +106,5 @@ Gemäß § 47 GwG darf die Musterholding GmbH weder den Betroffenen noch Dritten
 
 ---
 
-*Erstellt: 07.05.2026 — RA Dr. Franziska Heller, Kanzlei Heller & Schönfeld, Frankfurt am Main*  
+*Erstellt: 07.05.2026 — RA Dr. Franziska Heller, Kanzlei Heller & Schönfeld, Frankfurt am Main*
 *Verteiler: Mandatsakte 2026/AML/047-MH (intern); Klaus-Dieter Brenner, Musterholding GmbH; Thomas Eckhardt*

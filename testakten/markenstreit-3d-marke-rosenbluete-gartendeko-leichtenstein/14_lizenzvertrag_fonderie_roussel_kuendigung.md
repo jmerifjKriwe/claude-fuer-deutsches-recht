@@ -1,8 +1,8 @@
 # 14 — Lizenzvertrag Fonderie Roussel SAS: Kündigung und Streitstand
 
-**Bearbeiter:** RA Philipp Mertens-Waldhausen  
-**Datum:** 02. Juni 2026  
-**Gegner:** Fonderie Roussel SAS, 8 Rue Jacquard, 42000 Saint-Étienne, Frankreich  
+**Bearbeiter:** RA Philipp Mertens-Waldhausen
+**Datum:** 02. Juni 2026
+**Gegner:** Fonderie Roussel SAS, 8 Rue Jacquard, 42000 Saint-Étienne, Frankreich
 
 ---
 
@@ -74,13 +74,13 @@ c) **Entschädigungspflicht?** Das NWV sieht keine Karenzentschädigung vor. Im 
 
 FR behauptet, zum Zeitpunkt der Kündigung einen Restbestand von 4.200 noch nicht verkauften Exemplaren der Fleur Leichtenstein zu halten. FR möchte diesen Restbestand noch abverkaufen, auch nachdem die Kündigung wirksam geworden ist.
 
-**Position der Mandantin:**  
+**Position der Mandantin:**
 Nach Wirksamwerden der außerordentlichen Kündigung darf FR keine weiteren Exemplare vertreiben. Das Recht zum Abverkauf eines Restbestands nach Beendigung des Lizenzvertrags ist weder im Vertrag geregelt noch ergibt es sich aus dem allgemeinen Markenrecht. § 24 MarkenG (Erschöpfung) greift nur für Waren, die die Markeninhaberin selbst oder mit ihrer Zustimmung in Verkehr gebracht hat — ein Lizenznehmer nach Vertragsende ist keine solche Person.
 
-**Position Fonderie Roussel:**  
+**Position Fonderie Roussel:**
 FR beruft sich auf Treu und Glauben (§ 242 BGB): Es sei grob unbillig, die investierten Kosten für die 4.200 Einheiten zu verlieren, wenn Leichtenstein die Kündigung ohne ausreichenden Grund ausgesprochen habe.
 
 ---
 
-**Erstellt von:** RA Philipp Mertens-Waldhausen  
+**Erstellt von:** RA Philipp Mertens-Waldhausen
 **Datum:** 02. Juni 2026

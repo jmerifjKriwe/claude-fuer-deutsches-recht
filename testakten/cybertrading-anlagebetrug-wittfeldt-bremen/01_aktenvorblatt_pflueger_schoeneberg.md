@@ -1,10 +1,10 @@
 # Aktenvorblatt – Kanzlei Pflüger Schoeneberg Bankrecht
 
-**Kanzlei:** Pflüger Schoeneberg Bankrecht GbR  
-**Anschrift:** Am Markt 14 · 28195 Bremen  
-**Telefon:** 0421 / 33 88 20-0  
-**Fax:** 0421 / 33 88 20-99  
-**E-Mail:** kanzlei@pflueger-schoeneberg-bankrecht.de  
+**Kanzlei:** Pflüger Schoeneberg Bankrecht GbR
+**Anschrift:** Am Markt 14 · 28195 Bremen
+**Telefon:** 0421 / 33 88 20-0
+**Fax:** 0421 / 33 88 20-99
+**E-Mail:** kanzlei@pflueger-schoeneberg-bankrecht.de
 **Web:** www.pflueger-schoeneberg-bankrecht.de
 
 ---
@@ -75,25 +75,25 @@ Keine Rechtsschutzversicherung vorhanden. Prozesskostenhilfe zu prüfen (§ 114 
 
 ## Fristen (Übersicht → Aktenstück 22)
 
-- Strafanzeige erstattet: 08.04.2026  
-- BaFin-Anzeige: 14.04.2026  
-- Widerspruch Kreditkündigung: 17.04.2026  
-- Schufa-Löschungsbegehren: 21.04.2026  
-- Verjährung Bereicherungsansprüche: laufend (§ 195 BGB, regelmäßige Verjährungsfrist 3 Jahre ab Kenntniserlangung)  
-- Klageeinreichung LG Bremen: angestrebt bis 30.06.2026  
+- Strafanzeige erstattet: 08.04.2026
+- BaFin-Anzeige: 14.04.2026
+- Widerspruch Kreditkündigung: 17.04.2026
+- Schufa-Löschungsbegehren: 21.04.2026
+- Verjährung Bereicherungsansprüche: laufend (§ 195 BGB, regelmäßige Verjährungsfrist 3 Jahre ab Kenntniserlangung)
+- Klageeinreichung LG Bremen: angestrebt bis 30.06.2026
 
 ---
 
 ## Bearbeitungsstand
 
-- [x] Erstgespräch geführt (07.04.2026)  
-- [x] Vollmacht erteilt (Eva-Maria Wittfeldt + Daniel Wittfeldt)  
-- [x] Strafanzeige erstattet  
-- [x] BaFin-Anzeige eingereicht  
-- [x] Widerspruch Kreditkündigung versandt  
-- [ ] Schufa-Löschungsklage AG Bremen-Blumenthal  
-- [ ] Hauptklage LG Bremen ./. Sparkasse  
-- [ ] Klage LG Frankfurt ./. Empfängerbanken  
+- [x] Erstgespräch geführt (07.04.2026)
+- [x] Vollmacht erteilt (Eva-Maria Wittfeldt + Daniel Wittfeldt)
+- [x] Strafanzeige erstattet
+- [x] BaFin-Anzeige eingereicht
+- [x] Widerspruch Kreditkündigung versandt
+- [ ] Schufa-Löschungsklage AG Bremen-Blumenthal
+- [ ] Hauptklage LG Bremen ./. Sparkasse
+- [ ] Klage LG Frankfurt ./. Empfängerbanken
 
 ---
 

@@ -1,15 +1,15 @@
 # Amtsgericht Potsdam – Insolvenzgericht
 ## Beschluss – Eröffnung des Insolvenzverfahrens und Anmeldefrist
 
-**Aktenzeichen:** 35 IN 417/26  
+**Aktenzeichen:** 35 IN 417/26
 **Datum:** 30. April 2026
 
 ---
 
-> **AMTSGERICHT POTSDAM**  
-> Insolvenzgericht  
-> Hegelallee 8, 14467 Potsdam  
-> Tel.: 0331 / 620-0  
+> **AMTSGERICHT POTSDAM**
+> Insolvenzgericht
+> Hegelallee 8, 14467 Potsdam
+> Tel.: 0331 / 620-0
 > Fax: 0331 / 620-1999
 
 ---
@@ -18,9 +18,9 @@
 
 In dem Insolvenzverfahren über das Vermögen der
 
-**Phoenix Solar Montage GmbH**  
-Am Gewerbepark 8, 14482 Potsdam  
-Handelsregister: HRB 48221 B, Amtsgericht Potsdam  
+**Phoenix Solar Montage GmbH**
+Am Gewerbepark 8, 14482 Potsdam
+Handelsregister: HRB 48221 B, Amtsgericht Potsdam
 Geschäftsführer: Marcus Wendler, Potsdam
 
 – **Schuldnerin** –
@@ -41,12 +41,12 @@ Die Schuldnerin hat im Eigenantrag vom 15. April 2026 vorgetragen, seit März 20
 
 Zum **Insolvenzverwalter** wird bestellt:
 
-**Rechtsanwalt Dr. Konrad Muster**  
-Fachanwalt für Insolvenz- und Sanierungsrecht  
-Kanzlei Muster & Partner Rechtsanwälte mbB  
-Lennéstraße 17, 14469 Potsdam  
-Tel.: 0331 / 74 18 90-0  
-Fax: 0331 / 74 18 90-99  
+**Rechtsanwalt Dr. Konrad Muster**
+Fachanwalt für Insolvenz- und Sanierungsrecht
+Kanzlei Muster & Partner Rechtsanwälte mbB
+Lennéstraße 17, 14469 Potsdam
+Tel.: 0331 / 74 18 90-0
+Fax: 0331 / 74 18 90-99
 E-Mail: insolvenzverwaltung@muster-partner-potsdam.de
 
 Der Insolvenzverwalter wird ermächtigt, die Masse zu sichern, zu verwalten und zu verwerten. Seine Vergütung richtet sich nach der Insolvenzrechtlichen Vergütungsverordnung (InsVV).
@@ -63,8 +63,8 @@ Die **Insolvenzgläubiger** werden aufgefordert, ihre Forderungen gegen die Schu
 
 beim Insolvenzverwalter
 
-> Rechtsanwalt Dr. Konrad Muster  
-> Kanzlei Muster & Partner Rechtsanwälte mbB  
+> Rechtsanwalt Dr. Konrad Muster
+> Kanzlei Muster & Partner Rechtsanwälte mbB
 > Lennéstraße 17, 14469 Potsdam
 
 schriftlich anzumelden. Die Anmeldung hat gemäß § 174 InsO folgende Angaben zu enthalten:
@@ -83,8 +83,8 @@ Forderungen, die nach Ablauf der Anmeldefrist angemeldet werden, können gemäß
 
 Der **Prüfungstermin** (§ 176 InsO) ist bestimmt auf:
 
-**Donnerstag, 25. Juni 2026, 10:00 Uhr**  
-Amtsgericht Potsdam, Sitzungssaal 2.14 (Erdgeschoss, Neubautrakt)  
+**Donnerstag, 25. Juni 2026, 10:00 Uhr**
+Amtsgericht Potsdam, Sitzungssaal 2.14 (Erdgeschoss, Neubautrakt)
 Hegelallee 8, 14467 Potsdam
 
 Im Prüfungstermin werden die angemeldeten Forderungen auf Betrag, Rang und Rechtsgrund geprüft. Gläubiger, der Schuldner und der Insolvenzverwalter können im Prüfungstermin Widerspruch gegen angemeldete Forderungen erheben. Zur Teilnahme sind die Gläubiger nicht verpflichtet; sie können sich schriftlich erklären (§ 176 Satz 2 InsO).
@@ -93,7 +93,7 @@ Im Prüfungstermin werden die angemeldeten Forderungen auf Betrag, Rang und Rech
 
 Der **Berichtstermin** gemäß § 156 InsO ist gleichzeitig mit dem Prüfungstermin angesetzt:
 
-**Donnerstag, 25. Juni 2026, 11:00 Uhr**  
+**Donnerstag, 25. Juni 2026, 11:00 Uhr**
 Amtsgericht Potsdam, Sitzungssaal 2.14
 
 Im Berichtstermin erstattet der Insolvenzverwalter Bericht über die wirtschaftliche Lage der Schuldnerin und die Aussichten für die Gläubiger. Die Gläubigerversammlung kann beschließen, ob der Betrieb der Schuldnerin fortgeführt oder stillgelegt werden soll.
@@ -114,11 +114,11 @@ Gegen diesen Eröffnungsbeschluss steht dem **Schuldner** das Rechtsmittel der *
 
 ---
 
-> Amtsgericht Potsdam – Insolvenzgericht  
-> Hegelallee 8, 14467 Potsdam  
-> 30. April 2026  
+> Amtsgericht Potsdam – Insolvenzgericht
+> Hegelallee 8, 14467 Potsdam
+> 30. April 2026
 >
-> Richter am Amtsgericht Gotthard Steinbach  
+> Richter am Amtsgericht Gotthard Steinbach
 > (Unterschrift und Dienstsiegel)
 
 ---

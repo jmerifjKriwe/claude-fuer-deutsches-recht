@@ -1,8 +1,8 @@
 # Kostenrisiko und Streitwertanalyse
 
-**Aktenstück:** 21  
-**Datum:** 13.05.2026  
-**Mandantin:** Frischetrans Mittelrhein GmbH  
+**Aktenstück:** 21
+**Datum:** 13.05.2026
+**Mandantin:** Frischetrans Mittelrhein GmbH
 **Bearbeiter:** RA Lukas Drosten, Fachanwalt für IT-Recht
 
 ---
@@ -116,8 +116,8 @@ Im Falle eines vollständigen Unterliegens vor dem LG Mainz trüge die Mandantin
 | Selbstbehalt Versicherung | sofort | 25.000 EUR |
 | **Gesamtliquiditätsbedarf (Eigenmittel, vor Versicherungsleistung)** | | **635.000 EUR** |
 
-**Erwartete Versicherungsleistung (CyberCovered AG):** ca. 450.000–700.000 EUR  
-**Erwarteter Schadensersatz ProcessSpark (nach Einigung/Klage):** ca. 400.000–600.000 EUR  
+**Erwartete Versicherungsleistung (CyberCovered AG):** ca. 450.000–700.000 EUR
+**Erwarteter Schadensersatz ProcessSpark (nach Einigung/Klage):** ca. 400.000–600.000 EUR
 **Netto-Belastung Frischetrans (Schätzung):** ca. 0–200.000 EUR (sofern Versicherung und Regressansprüche planmäßig funktionieren)
 
 ---

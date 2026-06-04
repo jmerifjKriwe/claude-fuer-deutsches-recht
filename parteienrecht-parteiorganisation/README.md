@@ -39,85 +39,38 @@ Apache-2.0 OR MIT. Siehe Repository-Stammverzeichnis.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 76 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 29 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `abgeordnetengesetz-bund` | Routet Transparenz, Zuwendungen, Spenden an Abgeordnete, Nebentätigkeiten und Verhaltensregeln. |
-| `abgeordnetengesetze-laender` | Live-Check für Landesabgeordnetengesetze, Transparenzregeln, Spenden, Nebentätigkeiten und Fristen. |
 | `allgemein` | Einstieg und Routing für formale Parteiorganisation: Satzung, Mitgliederrechte, Versammlungen, Wahlen, Wahlvorschläge, Parteigericht, Spenden und Rechenschaft. |
-| `aufsicht-und-bundeswahlleiter` | Erstellt Schreiben an Bundeswahlleiterin/Landeswahlleitung zu Anzeigen, Wahlvorschlägen, Fristen, Beanstandungen. |
-| `befangenheit-und-sitzungsleitung` | Hilft bei Leitung, Interessenkonflikten, Ordnungsmaßnahmen, Redeliste und Abstimmungsleitung. |
-| `beitragsordnung` | Prüft Mitgliedsbeiträge, Mandatsträgerbeiträge, Ermäßigung, Mahnung, Transparenz und Satzungsgrundlage. |
-| `beschlussvorlagen-partei` | Formuliert Beschlüsse, Anträge, Satzungsänderungen, Geschäftsordnungsanträge und Verfahrensbeschlüsse. |
-| `bewerberzustimmung` | Erklärt Zustimmungserklärung, Wählbarkeit, Parteimitgliedschaft, Mehrfachkandidatur und Nachweise. |
-| `datenexport-bei-parteiwechsel` | Prüft Austritt, Wechsel, Listenbewerberstatus, Datenlöschung und Nachrückerfragen. |
-| `europawahl-partei` | Prüft Europawahl-Vorschläge, Bundes-/Landesliste, Vertreterversammlung, Formulare und Bundeswahlleiter-Kommunikation. |
-| `fraktionsschnittstelle` | Trennt Partei, Fraktion, Mandat, Ressourcen, Personal, Spenden und Öffentlichkeitsarbeit. |
-| `fristkalender-partei` | Erstellt Fristenkalender für Versammlungen, Wahlvorschläge, Rechenschaft, Spendenmeldungen, Satzungsfristen. |
-| `gebietsgliederung` | Ordnet Bundes-, Landes-, Bezirks-, Kreis-, Ortsverband, Arbeitsgemeinschaften und Zuständigkeiten. |
-| `geheime-abstimmung` | Prüft wann geheime Wahl/Abstimmung nötig ist, Stimmzettel, Urne, Auszählung und Dokumentation. |
-| `geschaeftsordnung-parteitag` | Entwirft Geschäftsordnung, Redezeiten, Antragsberatung, Änderungsanträge, Abstimmungen und Ordnungsrufe. |
-| `infostand-versammlung` | Prüft Infostand, Sondernutzung, Versammlungsrecht, Auflagen, Datenschutz und Haftung. |
-| `kandidatenaufstellung-bundestag-kreis` | Begleitet Aufstellung Direktkandidat: wahlberechtigte Mitglieder, geheime Abstimmung, Niederschrift, Zustimmung, eidesstattliche Versicherung. |
-| `kandidatenscreening-formal` | Checkt Wählbarkeit, Mitgliedschaft, Zustimmung, Wohnsitzfragen soweit relevant, Unvereinbarkeiten und Unterlagen. |
-| `kassenfuehrung-gebietsverband` | Hilft Schatzmeisterei bei Belegen, Kasse, Konto, Vier-Augen-Prinzip, Quittungen, Jahresabschluss und Prüfung. |
-| `koalitions-und-listenverbindung` | Prüft wahlrechtlich zulässige Kooperationen, gemeinsame Listen, Wählergruppen und Satzung. |
-| `kommunalmandat-und-ehrenamt` | Routet kommunale Mandatspflichten, Entschädigung, Transparenz und Trennung von Partei/Fraktion/Gemeinde. |
-| `kommunalwahl-livecheck` | Routet Kommunalwahlrecht je Land: Wahlgebiet, Listen, Reservelisten, Wahlbezirk, Unterstützungsunterschriften und Fristen. |
-| `landesliste-bundestag` | Begleitet Landeslistenaufstellung: Delegierten-/Mitgliederversammlung, Reihenfolge, geheime Wahl, Unterlagen, Fristen, Landeswahlleiter. |
-| `landesrecht-router` | Findet das richtige Landeswahl-, Kommunalwahl- und Abgeordnetenrecht je Bundesland und markiert Live-Checks. |
-| `landesverband-ohne-untergliederung` | Prüft Sonderlage kleiner Parteien ohne Kreisverbände: Satzung, Vorstand, Wahlvorschläge, Delegation. |
-| `landtagswahl-livecheck` | Routet je Bundesland: Landeswahlgesetz, Landeswahlordnung, Wahlleiter, Fristen, Formulare und Aufstellungsanforderungen. |
-| `mandatstraegerbeitraege` | Prüft satzungsrechtliche Mandatsträgerbeiträge, Abgrenzung Spende/Beitrag und Abgeordnetenrecht. |
-| `mehrsprachige-parteiformalien` | Erzeugt zweisprachige Erklärungen von Formalien für Mitglieder mit anderer Herkunftssprache, ohne Rechtsinhalt zu verfälschen. |
-| `minderheitenrechte-partei` | Prüft Antragsrechte, Sonderparteitag, Delegiertenprüfung, Informationsrechte und Gleichbehandlung. |
-| `mitgliederdaten-dsgvo` | Regelt Mitgliederverzeichnis, Zugriff, Export, Wahlberechtigung, Löschung, Auskunft und Sicherheit. |
-| `mitgliederrechte` | Erklärt Aufnahme, Stimmrecht, Antragsrecht, Gleichbehandlung, Datenschutz, Mitgliedsbeiträge und Austritt. |
-| `mitgliederversammlung-kleine-partei` | Niedrigschwelliger Workflow für kleine Kreisverbände: Einladung, Beschlussfähigkeit, Protokoll, Wahlleiterkontakte. |
-| `mitgliederversammlung-kreis` | Erstellt Einladung zur Kreis-/Mitgliederversammlung mit Frist, Tagesordnung, Satzungsgrundlage und Nachweis. |
-| `nichtzulassung-wahlvorschlag` | Routet Beschwerde/Einspruch gegen Nichtzulassung eines Wahlvorschlags nach jeweiligem Wahlrecht. |
-| `niederschrift-aufstellungsversammlung` | Erstellt Niederschrift mit Wahlmodus, Stimmberechtigung, geheimer Abstimmung, Ergebnissen und Versicherungen. |
-| `online-hybrid-parteitag` | Prüft Satzung, Identifikation, geheime elektronische Wahl, Beschlussfähigkeit, Datenschutz und technische Risiken. |
-| `ordentliche-unterlagenablage` | Baut Aktenstruktur für Satzung, Protokolle, Mitglieder, Wahlvorschläge, Finanzen, Spenden, Schiedsverfahren. |
-| `ordnungsmassnahmen` | Routet Rüge, Amtsenthebung, Ruhen von Rechten, Eilmaßnahme und satzungsrechtliche Grundlage. |
-| `parteiausschluss` | Prüft Parteiausschluss, schwerer Schaden, Anhörung, Vorstandsantrag, Schiedsgericht und Verhältnismäßigkeit. |
-| `parteidokumentenpaket` | Erzeugt komplette Pakete: Einladung, TO, Wahlordnung, Stimmzettel, Niederschrift, Versicherungen, Wahlleiteranschreiben. |
-| `parteienprivileg-und-verfassung` | Erklärt Art. 21 GG, Parteienprivileg, Chancengleichheit, staatliche Neutralität und formale Relevanz. |
-| `parteigericht-antrag` | Erstellt Antrag an Parteischiedsgericht: Rubrum, Anträge, Sachverhalt, Satzung, Beweise, Eilbedürftigkeit. |
-| `parteigericht-aufbau` | Prüft Schiedsgerichtsordnung, Besetzung, Unabhängigkeit, Zuständigkeit und Verfahrensgrundsätze. |
-| `parteigericht-effektiver-rechtsschutz` | Prüft, ob der Vorrang parteiinterner Schiedsgerichtsbarkeit noch effektiven Rechtsschutz bietet oder staatlicher Eilrechtsschutz parallel vorbereitet werden muss. |
+| `kompendium-01-fristkalender-partei-bis-abgeordnetengesetze` | parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 01; bündelt 3 frühere Spezialskills (fristkalender-partei, abgeordnetengesetz-bund, abgeordnetengesetze-laender) und bewahrt deren Workflows, Normanker, Prüfprogramme und... |
+| `kompendium-02-aufsicht-und-bundesw-bis-beitragsordnung` | parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (aufsicht-und-bundeswahlleiter, befangenheit-und-sitzungsleitung, beitragsordnung) und bewahrt deren Workflows, Normanker, Prüfprogramm... |
+| `kompendium-03-beschlussvorlagen-pa-bis-datenexport-bei-part` | parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (beschlussvorlagen-partei, bewerberzustimmung, datenexport-bei-parteiwechsel) und bewahrt deren Workflows, Normanker, Prüfprogramme und... |
+| `kompendium-04-europawahl-partei-bis-gebietsgliederung` | parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (europawahl-partei, fraktionsschnittstelle, gebietsgliederung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-05-geheime-abstimmung-bis-infostand-versammlun` | parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (geheime-abstimmung, geschaeftsordnung-parteitag, infostand-versammlung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausg... |
+| `kompendium-06-kandidatenaufstellun-bis-kassenfuehrung-gebie` | parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (kandidatenaufstellung-bundestag-kreis, kandidatenscreening-formal, kassenfuehrung-gebietsverband) und bewahrt deren Workflows, Normank... |
+| `kompendium-07-koalitions-und-liste-bis-kommunalwahl-liveche` | parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (koalitions-und-listenverbindung, kommunalmandat-und-ehrenamt, kommunalwahl-livecheck) und bewahrt deren Workflows, Normanker, Prüfprog... |
+| `kompendium-08-landesliste-bundesta-bis-landesverband-ohne-u` | parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (landesliste-bundestag, landesrecht-router, landesverband-ohne-untergliederung) und bewahrt deren Workflows, Normanker, Prüfprogramme u... |
+| `kompendium-09-landtagswahl-liveche-bis-mehrsprachige-partei` | parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (landtagswahl-livecheck, mandatstraegerbeitraege, mehrsprachige-parteiformalien) und bewahrt deren Workflows, Normanker, Prüfprogramme... |
+| `kompendium-10-minderheitenrechte-p-bis-mitgliederrechte` | parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (minderheitenrechte-partei, mitgliederdaten-dsgvo, mitgliederrechte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabem... |
+| `kompendium-11-mitgliederversammlun-bis-nichtzulassung-wahlv` | parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (mitgliederversammlung-kleine-partei, mitgliederversammlung-kreis, nichtzulassung-wahlvorschlag) und bewahrt deren Workflows, Normanker... |
+| `kompendium-12-niederschrift-aufste-bis-ordentliche-unterlag` | parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (niederschrift-aufstellungsversammlung, online-hybrid-parteitag, ordentliche-unterlagenablage) und bewahrt deren Workflows, Normanker,... |
+| `kompendium-13-ordnungsmassnahmen-bis-parteidokumentenpake` | parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (ordnungsmassnahmen, parteiausschluss, parteidokumentenpaket) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-14-parteienprivileg-und-bis-parteigericht-aufbau` | parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (parteienprivileg-und-verfassung, parteigericht-antrag, parteigericht-aufbau) und bewahrt deren Workflows, Normanker, Prüfprogramme und... |
+| `kompendium-15-parteigericht-effekt-bis-parteikommunikation` | parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (parteigericht-effektiver-rechtsschutz, parteigruendung, parteikommunikation-mitglieder) und bewahrt deren Workflows, Normanker, Prüfpr... |
+| `kompendium-16-parteiprogramm-forma-bis-parteiverbot-und-fin` | parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 16; bündelt 3 frühere Spezialskills (parteiprogramm-formal, parteitag-planung, parteiverbot-und-finanzierungsausschluss) und bewahrt deren Workflows, Normanker, Prüfprogra... |
+| `kompendium-17-plakate-sondernutzun-bis-protokoll-parteivers` | parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 17; bündelt 3 frühere Spezialskills (plakate-sondernutzung, presse-und-richtigstellung, protokoll-parteiversammlung) und bewahrt deren Workflows, Normanker, Prüfprogramme... |
+| `kompendium-18-pruefung-rechenschaf-bis-satzung-partei` | parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 18; bündelt 3 frühere Spezialskills (pruefung-rechenschaft, rechenschaftsbericht, satzung-partei) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-19-satzungsaenderung-pa-bis-social-media-partei` | parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 19; bündelt 3 frühere Spezialskills (satzungsaenderung-partei, satzungsautonomie-grenzen, social-media-partei) und bewahrt deren Workflows, Normanker, Prüfprogramme und Au... |
+| `kompendium-20-spendenrecht-partei-bis-staatliche-parteienf` | parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 20; bündelt 3 frühere Spezialskills (spendenrecht-partei, sponsoring-partei, staatliche-parteienfinanzierung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Aus... |
+| `kompendium-21-tagesordnung-parteit-bis-vertrauenspersonen-w` | parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 21; bündelt 3 frühere Spezialskills (tagesordnung-parteitag, unterstuetzungsunterschriften, vertrauenspersonen-wahlvorschlag) und bewahrt deren Workflows, Normanker, Prüfp... |
+| `kompendium-22-vertreterversammlung-bis-waehlergruppe-vs-par` | parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 22; bündelt 3 frühere Spezialskills (vertreterversammlung, vorstandswahl-partei, waehlergruppe-vs-partei) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabe... |
+| `kompendium-23-wahlanfechtung-inter-bis-wahlleiter-rueckfrag` | parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 23; bündelt 3 frühere Spezialskills (wahlanfechtung-intern, wahlkampffinanzierung, wahlleiter-rueckfrage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabe... |
+| `kompendium-24-wahlordnung-intern-bis-wahlvorschlag-bundes` | parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 24; bündelt 2 frühere Spezialskills (wahlordnung-intern, wahlvorschlag-bundestag-einreichen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
 | `parteigericht-redteam` | Prüft vor Einreichung oder Entscheidung: Zuständigkeit, rechtliches Gehör, Satzung, Beweise, Verhältnismäßigkeit. |
-| `parteigruendung` | Begleitet Gründung: Programm, Satzung, Vorstand, Mitglieder, demokratische Ordnung, Anzeige, Konto und Website. |
-| `parteikommunikation-mitglieder` | Erstellt Rundmail, Einladung, Datenschutz-Hinweis, Beschlussinformation, Konfliktkommunikation und Fristenhinweis. |
-| `parteiprogramm-formal` | Hilft beim formal korrekten Programm-/Grundsatzbeschluss ohne politische Inhaltsberatung. |
-| `parteitag-planung` | Plant Parteitag/Hauptversammlung: Einladung, Antragsfristen, Wahlordnung, Mandatsprüfung, Präsidium, Protokoll. |
 | `parteitag-redteam` | Letzte Prüfung vor Versammlung: Einladung, Stimmberechtigung, Tagesordnung, Wahlordnung, Formulare, Protokoll. |
-| `parteiverbot-und-finanzierungsausschluss` | Routet nur formal: Zuständigkeiten, Folgen, Vorsicht, keine politische Bewertung. |
-| `plakate-sondernutzung` | Routet Plakatierung, Sondernutzung, kommunale Satzung, Gleichbehandlung, Fristen und Entfernung. |
-| `presse-und-richtigstellung` | Bereitet formal saubere Pressekorrespondenz, Richtigstellung und Trennung von Partei/Fraktion/Kandidat vor. |
-| `protokoll-parteiversammlung` | Erstellt formal belastbares Protokoll für Parteitag, Kreisversammlung, Aufstellung, Vorstand und Schiedsgericht. |
-| `pruefung-rechenschaft` | Bereitet interne/gesetzliche Prüfung, Vorstandserklärung, Nachweise, Stichproben und Fehlerkorrektur vor. |
-| `rechenschaftsbericht` | Strukturiert Einnahmen-/Ausgabenrechnung, Vermögensbilanz, Erläuterung, Gebietsverbände und Aufbewahrung. |
-| `satzung-partei` | Prüft Satzung gegen Parteiengesetz: Organe, Gebietsverbände, Mitgliedschaft, Beitragsordnung, Schiedsgericht, Kandidatenaufstellung, Finanzen. |
-| `satzungsaenderung-partei` | Prüft Satzungsänderung, Mehrheit, Antragsfrist, Bekanntmachung, Protokoll, Anzeige und Folgeänderungen. |
-| `satzungsautonomie-grenzen` | Erklärt, wo Partei frei regeln kann und wo PartG, Wahlrecht oder demokratische Mindeststandards Grenzen setzen. |
-| `social-media-partei` | Regelt Impressum, Verantwortlichkeit, Accounts, Kandidatenposts, Datenschutz, Archivierung und Krisenreaktion. |
 | `spenden-redteam` | Prüft Zuwendung vor Annahme: Identität, Höhe, Herkunft, Veröffentlichungs-/Meldepflicht, Verbot und Dokumentation. |
-| `spendenrecht-partei` | Prüft Annahme, Verbotstatbestände, Identität, Bargeld, ausländische Spenden, Veröffentlichung und Weiterleitung. |
-| `sponsoring-partei` | Trennt Spende, Sponsoring, Eintritt, Tombola, Sachleistung, geldwerter Vorteil und Veröffentlichung. |
-| `staatliche-parteienfinanzierung` | Erklärt Anspruchslogik, Stimmen, Zuwendungen, absolute Obergrenze, Antrag und Rechenschaftsbezug. |
-| `tagesordnung-parteitag` | Erstellt Tagesordnung für Vorstandswahl, Anträge, Satzungsänderung, Listenaufstellung, Rechenschaft und Entlastung. |
-| `unterstuetzungsunterschriften` | Prüft, ob Unterstützungsunterschriften nötig sind, Formblätter, Wahlberechtigung, Bescheinigung, Sammlung und Fehlerquellen. |
-| `vertrauenspersonen-wahlvorschlag` | Regelt Vertrauenspersonen, Rücknahme/Änderung des Wahlvorschlags, Kommunikation und Risiko interner Konflikte. |
-| `vertreterversammlung` | Prüft Delegiertenwahl, Vertreterversammlung, Mandatsprüfung, Ersatzdelegierte und Legitimation. |
-| `vorstandswahl-partei` | Bereitet Vorstandswahl nach Satzung und PartG vor, inklusive Annahme, Protokoll, Amtszeit und Übergabe. |
-| `waehlergruppe-vs-partei` | Erklärt Abgrenzung Partei, kommunale Wählergruppe, Verein, Initiative und Folgen für Wahlrecht/Finanzen. |
-| `wahlanfechtung-intern` | Prüft Einspruch gegen interne Vorstandswahl oder Kandidatenaufstellung nach Satzung, Frist, Zuständigkeit und Beweisen. |
-| `wahlkampffinanzierung` | Prüft Wahlkampfkonto, Spenden, Sachleistungen, Rechnungen, Plakate, Anzeigen und Nachweisführung. |
-| `wahlleiter-rueckfrage` | Beantwortet Beanstandungen von Kreis-, Landes- oder Bundeswahlleitung mit Korrekturpfad und Unterlagenliste. |
-| `wahlordnung-intern` | Regelt geheime Wahl, Kandidaturen, Vorstellung, Stimmzettel, Auszählung, Stichwahl, Wahlanfechtung. |
-| `wahlvorschlag-bundestag-einreichen` | Erstellt Einreichungscheck für Kreiswahlvorschlag und Landesliste nach BWahlG/BWO und Bundeswahlleiter-Hinweisen. |
 | `wahlvorschlag-redteam` | Letzte Prüfung vor Einreichung von Wahlvorschlag, Liste, Niederschrift, Zustimmung, Versicherungen und Unterstützungsunterschriften. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

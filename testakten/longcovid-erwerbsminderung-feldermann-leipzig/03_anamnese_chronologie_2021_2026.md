@@ -1,8 +1,8 @@
 # Anamnese und Erkrankungschronologie – Vivian Feldermann (2021–2026)
 
-**Erstellt:** 17.02.2026  
-**Erstellt durch:** RA Sonnemann nach Erstgespräch und Aktenlage  
-**Zweck:** Verfahrensübergreifende Sachverhaltsdarstellung; Grundlage für alle Schriftsätze  
+**Erstellt:** 17.02.2026
+**Erstellt durch:** RA Sonnemann nach Erstgespräch und Aktenlage
+**Zweck:** Verfahrensübergreifende Sachverhaltsdarstellung; Grundlage für alle Schriftsätze
 
 ---
 

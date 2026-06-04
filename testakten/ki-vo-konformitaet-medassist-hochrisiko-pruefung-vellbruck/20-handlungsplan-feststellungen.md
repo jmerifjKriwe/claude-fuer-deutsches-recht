@@ -1,9 +1,9 @@
 # Aktenstück 20 — Handlungsplan: Feststellungen und Maßnahmen zur KI-VO-Konformität
 
-**Aktenzeichen:** 2026-V-0427  
-**Erstellt:** 05.05.2026  
-**Bearbeitung:** RAin Dr. Henrietta Vellbruck-Steinheim, RA Dr. Mark Roosendaal  
-**Adressaten:** CEO Dr. Theresia Vogelkamp, CTO Aravind Krishnamurthy (MedAssist AI GmbH)  
+**Aktenzeichen:** 2026-V-0427
+**Erstellt:** 05.05.2026
+**Bearbeitung:** RAin Dr. Henrietta Vellbruck-Steinheim, RA Dr. Mark Roosendaal
+**Adressaten:** CEO Dr. Theresia Vogelkamp, CTO Aravind Krishnamurthy (MedAssist AI GmbH)
 **Vertraulich — Anwalt-Mandant-Privileg**
 
 ---
@@ -113,5 +113,5 @@ Juli 2026
 
 ---
 
-*Heidelberg, 05.05.2026*  
+*Heidelberg, 05.05.2026*
 *RAin Dr. Henrietta Vellbruck-Steinheim / RA Dr. Mark Roosendaal — Az. 2026-V-0427*

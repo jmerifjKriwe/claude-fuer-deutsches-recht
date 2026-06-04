@@ -1,6 +1,6 @@
 # Aktenstück 17 — Rechtsprechungsrecherche Versicherungsrecht
 
-**Erstellt:** März 2026  
+**Erstellt:** März 2026
 **Rechtsgebiete:** BU-Versicherung, D&O-Versicherung, Sanktionsrecht, LV-Rückkauf
 
 ---

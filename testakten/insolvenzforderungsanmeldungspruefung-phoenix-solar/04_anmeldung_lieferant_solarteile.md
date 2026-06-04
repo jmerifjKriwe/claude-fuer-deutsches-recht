@@ -1,8 +1,8 @@
 # Forderungsanmeldung – Solarteile Nord GmbH
 
-**Aktenzeichen:** 35 IN 417/26  
-**Gläubiger-ID (intern):** G001  
-**Eingang:** 2. Mai 2026 (Erstanmeldung), 14. Mai 2026 (Zweiteingang, Dublette)  
+**Aktenzeichen:** 35 IN 417/26
+**Gläubiger-ID (intern):** G001
+**Eingang:** 2. Mai 2026 (Erstanmeldung), 14. Mai 2026 (Zweiteingang, Dublette)
 **Anmeldungstyp:** Einfache Insolvenzforderung gemäß § 38 InsO
 
 ---
@@ -91,7 +91,7 @@ Nach erster Sichtung durch die Kanzlei Muster & Partner ergibt sich folgender vo
 
 6. **Eigentumsvorbehalt:** Gesondert zu prüfen; Aussonderungsrecht steht der Anmeldung als Insolvenzforderung grundsätzlich nicht entgegen, soweit der Verwertungserlös den Forderungsbetrag nicht übersteigt.
 
-**Vorläufiger Feststellungsvorschlag:** 24.292,20 EUR (Hauptforderung 24.250,20 EUR + Zinsen 42,00 EUR).  
+**Vorläufiger Feststellungsvorschlag:** 24.292,20 EUR (Hauptforderung 24.250,20 EUR + Zinsen 42,00 EUR).
 **Bestreiten:** 4.200,00 EUR (Rechnung SN-2026-016).
 
 ---

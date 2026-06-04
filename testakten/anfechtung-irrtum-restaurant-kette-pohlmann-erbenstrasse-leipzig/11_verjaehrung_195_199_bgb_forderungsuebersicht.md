@@ -1,7 +1,7 @@
 # Verjährungsanalyse — §§ 195, 199 BGB: Forderungen Akte Pohlmann-Ofenkaess
 
-**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg  
-**Datum:** 10. April 2026  
+**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg
+**Datum:** 10. April 2026
 **Bezug:** Überblick über alle relevanten Forderungen und ihre Verjährungsfristen
 
 ---
@@ -139,8 +139,8 @@ Hemmung der Verjährung des Hauptanspruchs hemmt auch verwandte Gegenansprüche.
 2. **Forderung 6 (Schenkungswiderruf):** Noch keine Klage. Widerrufserklärung erstatten; Klage auf Wertersatz bis spätestens **Ende 2029** erheben; Hemmung durch Güteverfahren oder Klage einleiten.
 3. **Steuerbescheid (Ammenwald):** Einspruchsfrist AO beachten — **sofort handeln**.
 
-**Quellen:**  
-§§ 195, 199, 204 BGB: https://dejure.org/gesetze/BGB/195.html  
-BGH NJW 2008, 1233 (Stichtagsprinzip Verjährungsbeginn): https://www.bundesgerichtshof.de  
-BGH NJW 2014, 3786 (Hemmung § 204 BGB, Klageerhebung): https://openjur.de  
+**Quellen:**
+§§ 195, 199, 204 BGB: https://dejure.org/gesetze/BGB/195.html
+BGH NJW 2008, 1233 (Stichtagsprinzip Verjährungsbeginn): https://www.bundesgerichtshof.de
+BGH NJW 2014, 3786 (Hemmung § 204 BGB, Klageerhebung): https://openjur.de
 § 355 AO: https://dejure.org/gesetze/AO/355.html

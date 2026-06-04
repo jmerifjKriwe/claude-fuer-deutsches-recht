@@ -1,8 +1,8 @@
 # 03 — Gesellschaftsvertragsanalyse: Squeeze-out-Klausel und Abfindungsregelung
 
-**Akte:** DWSP/2026/GR-4417  
-**Erstellt:** 18.04.2026  
-**Bearbeiter:** Prof. Dr. Wieland Drosselberg  
+**Akte:** DWSP/2026/GR-4417
+**Erstellt:** 18.04.2026
+**Bearbeiter:** Prof. Dr. Wieland Drosselberg
 
 ---
 
@@ -62,5 +62,5 @@ Die Buchwertklausel in § 9 Abs. 3 GV knüpft an den „Buchwert des Kapitalante
 
 ---
 
-*Erstellt: 18.04.2026 — Prof. Dr. Wieland Drosselberg*  
+*Erstellt: 18.04.2026 — Prof. Dr. Wieland Drosselberg*
 *Referenz: dejure.org/gesetze/HGB/161.html; dejure.org/gesetze/BGB/138.html; BGH II ZR 240/08*

@@ -6,10 +6,10 @@
 
 ## Behörde
 
-Landesamt für Soziales und Verbraucherschutz (LASOV) Sachsen  
-Referat 23 – Schwerbehindertenrecht  
-Altchemnitzer Straße 41  
-09120 Chemnitz  
+Landesamt für Soziales und Verbraucherschutz (LASOV) Sachsen
+Referat 23 – Schwerbehindertenrecht
+Altchemnitzer Straße 41
+09120 Chemnitz
 
 ---
 

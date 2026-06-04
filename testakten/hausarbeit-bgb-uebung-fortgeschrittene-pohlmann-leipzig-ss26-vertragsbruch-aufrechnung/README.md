@@ -181,5 +181,5 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 ---
 
-Bearbeiter: **Konrad Pohlmann**, 7. Semester, Universität Leipzig  
+Bearbeiter: **Konrad Pohlmann**, 7. Semester, Universität Leipzig
 Prüfer: **Prof. Dr. Werner Wandersleben**, Lehrstuhl für Bürgerliches Recht, Schuldrecht und Zivilprozessrecht

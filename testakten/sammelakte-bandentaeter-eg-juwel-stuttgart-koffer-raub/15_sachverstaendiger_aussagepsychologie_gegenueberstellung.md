@@ -1,8 +1,8 @@
 # Aktenstück 15 — Sachverständiger Aussagepsychologie: Krasniqi-Gegenüberstellung
 
-**Verfahren:** StA Stuttgart 4 Js 18.422/26  
-**Gegenstand:** Glaubhaftigkeitsgutachten Prof. Dr. Jochen Sternkopf (Univ. Tuebingen) zur Aussage von Edona Krasniqi in der Gegenüberstellung und im Ermittlungsverfahren  
-**Auftrag:** RAin Dr. Vivien Mohnsen-Stoeber  
+**Verfahren:** StA Stuttgart 4 Js 18.422/26
+**Gegenstand:** Glaubhaftigkeitsgutachten Prof. Dr. Jochen Sternkopf (Univ. Tuebingen) zur Aussage von Edona Krasniqi in der Gegenüberstellung und im Ermittlungsverfahren
+**Auftrag:** RAin Dr. Vivien Mohnsen-Stoeber
 **Stand Gutachten:** Vorentwurf erhalten 10.02.2026 (abschliessend bis 28.02.2026)
 
 ---

@@ -1,8 +1,8 @@
 # Lizenzhistorie Windgassen Photo Atelier — Übersicht
 
-**AZ intern:** 26-UMR-0084  
-**Datum:** 22.01.2026  
-**Erstellt durch:** Windgassen (Eigenangaben), ergänzt durch Dr. Kreidler-Bremer  
+**AZ intern:** 26-UMR-0084
+**Datum:** 22.01.2026
+**Erstellt durch:** Windgassen (Eigenangaben), ergänzt durch Dr. Kreidler-Bremer
 **Vollständige Tabelle:** `xlsx/lizenzhistorie_windgassen_18400_bilder.xlsx`
 
 ---
@@ -64,5 +64,5 @@ Das Windgassen Photo Atelier verwaltet insgesamt **18.400 Fotografien** (Stand: 
 
 ---
 
-*Detaillierte Tabelle: `xlsx/lizenzhistorie_windgassen_18400_bilder.xlsx`*  
+*Detaillierte Tabelle: `xlsx/lizenzhistorie_windgassen_18400_bilder.xlsx`*
 *Dr. AKB, 22.01.2026*

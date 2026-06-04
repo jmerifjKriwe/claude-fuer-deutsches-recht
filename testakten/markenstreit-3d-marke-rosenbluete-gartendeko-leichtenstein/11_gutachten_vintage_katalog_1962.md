@@ -1,9 +1,9 @@
 # 11 — Sachverständigengutachten: Vintage-Katalog Lefèvre 1962
 
-**Sachverständige:** Prof. Dr. Karola Stein-Weitmann, Universität Stuttgart, Institut für Kunstgeschichte und Angewandte Kunst  
-**Auftraggeber:** Kanzlei Dr. Volkmar Trautmann & Coll., Mannheim (im Auftrag Leichtenstein Gartenkultur Manufaktur GmbH)  
-**Gutachtenerstattung:** 18. Juli 2026  
-**Verfahren:** EUIPO Nichtigkeitsverfahren Geschmacksmuster CD 008 412 661-0001  
+**Sachverständige:** Prof. Dr. Karola Stein-Weitmann, Universität Stuttgart, Institut für Kunstgeschichte und Angewandte Kunst
+**Auftraggeber:** Kanzlei Dr. Volkmar Trautmann & Coll., Mannheim (im Auftrag Leichtenstein Gartenkultur Manufaktur GmbH)
+**Gutachtenerstattung:** 18. Juli 2026
+**Verfahren:** EUIPO Nichtigkeitsverfahren Geschmacksmuster CD 008 412 661-0001
 
 ---
 
@@ -43,13 +43,13 @@ Das Modell 47-B entspricht exakt diesem Typus: Es zeigt eine stark vereinfachte,
 
 Die Unterzeichnerin hat folgende Recherchen durchgeführt:
 
-**Archivrecherche:**  
+**Archivrecherche:**
 Das Archiv der Chambre de Commerce et d'Industrie du Bas-Rhin (Straßburg), in dessen Bezirk die Lefèvre & Cie. ansässig war, bestätigt, dass Lefèvre & Cie. ein kleiner Betrieb mit maximal 18 Beschäftigten in den 1960er Jahren war. Das Unternehmen belieferte überwiegend regionale Baumärkte und einzelne Gartencenterbetriebe in der Elsass-Lothringen-Region. Ein Export nach Deutschland, Österreich oder in andere EU-Länder ist archivmäßig nicht belegt.
 
-**Katalogauflage:**  
+**Katalogauflage:**
 Es liegen keine Druckauflagendaten für den Lefèvre-Katalog 1962 vor. Nach Auskunft des Stadtarchivs Colmar, wo ein weiteres Exemplar des Katalogs aufbewahrt wird, ist der Katalog eine interne Verkaufsliste gewesen (kein kommerziell vervielfältigtes Werbedruckerzeugnis), die an Direktkunden ausgehändigt wurde. Die Auflage dürfte im unteren dreistelligen Bereich gelegen haben.
 
-**Bekanntheit im deutschen Markt:**  
+**Bekanntheit im deutschen Markt:**
 Die Unterzeichnerin konnte keinen Beleg dafür finden, dass das Lefèvre-Modell 47-B oder der Katalog 1962 im deutschen Gartendeko-Handel bekannt war. Weder Einkäufer-Verzeichnisse der deutschen Gartenhandels-Ketten der 1960er Jahre noch Messeunterlagen der damaligen Gartenbaumessen (Grüne Woche Berlin, IPM Essen) belegen eine Präsenz von Lefèvre & Cie.
 
 ### 4.2 Schlussfolgerung zur öffentlichen Zugänglichkeit
@@ -80,6 +80,6 @@ Zusätzlich ist die Zugänglichmachung des Katalogs für den maßgeblichen Fachk
 
 ---
 
-**Unterschrift:** Prof. Dr. Karola Stein-Weitmann  
-**Ort, Datum:** Stuttgart, 18. Juli 2026  
+**Unterschrift:** Prof. Dr. Karola Stein-Weitmann
+**Ort, Datum:** Stuttgart, 18. Juli 2026
 **Hinweis:** Die Unterzeichnerin erklärt, keine Interessenkonflikte mit den Verfahrensbeteiligten zu haben.

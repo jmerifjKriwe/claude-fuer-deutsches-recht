@@ -1,8 +1,8 @@
 # Aktenstück 18 — Sonderpaket Effizienz-Tools: KI-Beweis-Index und Datenbanken
 
-**Verfahren:** KLs 4 Js 18.422/26  
-**Bearbeitung:** RA Dr. Magnus Schorlemmer / Kanzlei-IT (intern)  
-**Gegenstand:** Digitale Aufbereitung der Ermittlungsakte mit KI-gestütztem Beweis-Index und Datenbank-Management  
+**Verfahren:** KLs 4 Js 18.422/26
+**Bearbeitung:** RA Dr. Magnus Schorlemmer / Kanzlei-IT (intern)
+**Gegenstand:** Digitale Aufbereitung der Ermittlungsakte mit KI-gestütztem Beweis-Index und Datenbank-Management
 **Stand:** 10.02.2026
 
 ---

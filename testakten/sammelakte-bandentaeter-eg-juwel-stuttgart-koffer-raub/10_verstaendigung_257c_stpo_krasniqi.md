@@ -1,8 +1,8 @@
 # Aktenstück 10 — Verstaendigungs-Bemühungen § 257c StPO (Krasniqi)
 
-**Verfahren:** StA Stuttgart 4 Js 18.422/26  
-**Beschuldigte:** Edona Krasniqi (geb. 11.08.1999, JVA Schwäbisch Gmuend)  
-**Verteidigerin:** RAin Dr. Vivien Mohnsen-Stoeber  
+**Verfahren:** StA Stuttgart 4 Js 18.422/26
+**Beschuldigte:** Edona Krasniqi (geb. 11.08.1999, JVA Schwäbisch Gmuend)
+**Verteidigerin:** RAin Dr. Vivien Mohnsen-Stoeber
 **Stand:** 02.02.2026
 
 ---

@@ -1,9 +1,9 @@
 # Aktenstück 11 – Erwiderung CyberShield auf Vergabestellen-Stellungnahme
 
-**Aktenzeichen:** VK 1-32/26  
-**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026  
-**Von:** RA Dr. Constantin Bährens  
-**An:** Vergabekammer des Bundes, VK 1  
+**Aktenzeichen:** VK 1-32/26
+**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026
+**Von:** RA Dr. Constantin Bährens
+**An:** Vergabekammer des Bundes, VK 1
 **Datum:** 12.05.2026
 
 ---
@@ -54,7 +54,7 @@ Die Antragstellerin beantragt, der Kammer die überarbeitete Fassung des Reaktio
 
 ---
 
-Dr. Constantin Bährens  
+Dr. Constantin Bährens
 Fachanwalt für Vergaberecht
 
 ---

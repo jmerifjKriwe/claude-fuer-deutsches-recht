@@ -1,7 +1,7 @@
 # Feststellungsklage-Entwurf und Streitnachlauf nach Prüfungstermin
 
-**Aktenzeichen Insolvenzverfahren:** 35 IN 417/26  
-**Stand:** 30. Juni 2026  
+**Aktenzeichen Insolvenzverfahren:** 35 IN 417/26
+**Stand:** 30. Juni 2026
 **Bearbeiter:** RA Dr. Konrad Muster / Doris Felgner
 
 ---
@@ -28,12 +28,12 @@
 
 **In dem Rechtsstreit**
 
-**Klägerin:**  
-Solarteile Nord GmbH, Hafenweg 12, 20457 Hamburg  
+**Klägerin:**
+Solarteile Nord GmbH, Hafenweg 12, 20457 Hamburg
 – vertreten durch RA Henning Beispiel, Hamburg –
 
-**Beklagter:**  
-Marcus Wendler als Schuldner im Insolvenzverfahren 35 IN 417/26,  
+**Beklagter:**
+Marcus Wendler als Schuldner im Insolvenzverfahren 35 IN 417/26,
 Am Gewerbepark 8, 14482 Potsdam
 
 **wegen:** Feststellung einer bestrittenen Insolvenzforderung
@@ -44,7 +44,7 @@ Am Gewerbepark 8, 14482 Potsdam
 
 *(Entwurf, noch nicht eingereicht)*
 
-**Streitwert:** 24.250,20 EUR  
+**Streitwert:** 24.250,20 EUR
 **Zuständigkeit:** § 180 Abs. 1 InsO i.V.m. §§ 23, 71 GVG (Streitwert > 5.000 EUR → LG)
 
 ---
@@ -98,8 +98,8 @@ Die Klägerin hat ein rechtliches Interesse an der Feststellung gemäß § 256 Z
 
 ---
 
-**Anlagen K1–K5:** Rechnungen und Lieferscheine  
-**Anlage K2:** Mahnschreiben März und April 2026  
+**Anlagen K1–K5:** Rechnungen und Lieferscheine
+**Anlage K2:** Mahnschreiben März und April 2026
 **Anlage K3:** Tabellenauszug aus Insolvenztabelle Az. 35 IN 417/26
 
 ---
@@ -108,7 +108,7 @@ Die Klägerin hat ein rechtliches Interesse an der Feststellung gemäß § 256 Z
 
 Die Havelbank AG hat angekündigt, ein notarielles Schuldanerkenntnis des Geschäftsführers Marcus Wendler aus dem Jahr 2025 vorzulegen, das einen vollstreckbaren Titel für das Darlehen HB-44-901 darstellen könnte. Das Schuldanerkenntnis war zum Zeitpunkt des Prüfungstermins noch nicht eingereicht.
 
-**Rechtsfolge bei Titelvorliegen:**  
+**Rechtsfolge bei Titelvorliegen:**
 Hat die Havelbank AG einen vollstreckbaren Titel, ist nach § 179 Abs. 2 InsO nicht sie, sondern der Insolvenzverwalter bzw. ein widersprechender Gläubiger zur Klage verpflichtet. Da der Insolvenzverwalter die Havelbank-Forderung zurückgestellt (und nicht ausdrücklich bestritten) hat, ist die Titelfrage für die Klagelastverteilung zunächst nicht entscheidungserheblich.
 
 **Stand:** Der Insolvenzverwalter wartet auf Vorlage des Schuldanerkenntnisses bis 15. Juli 2026.

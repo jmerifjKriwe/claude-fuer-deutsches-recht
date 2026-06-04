@@ -1,9 +1,9 @@
 # Stakeholder Q&A – Vorbereitung Gläubigerversammlung und Erörterungstermin
 
-**Aktenzeichen:** MH-2026-001  
-**Datum:** 12. Juni 2026 (Entwurf)  
-**Verfasser:** RA Dr. Karolin Westphal  
-**Zweck:** Vorbereitung der Geschäftsführung auf Fragen in der Gläubigerversammlung (§ 235 InsO) und im Erörterungs- und Abstimmungstermin (§ 236 InsO) sowie auf bilaterale Gespräche mit Banken, Lieferanten und Betriebsrat  
+**Aktenzeichen:** MH-2026-001
+**Datum:** 12. Juni 2026 (Entwurf)
+**Verfasser:** RA Dr. Karolin Westphal
+**Zweck:** Vorbereitung der Geschäftsführung auf Fragen in der Gläubigerversammlung (§ 235 InsO) und im Erörterungs- und Abstimmungstermin (§ 236 InsO) sowie auf bilaterale Gespräche mit Banken, Lieferanten und Betriebsrat
 
 ---
 

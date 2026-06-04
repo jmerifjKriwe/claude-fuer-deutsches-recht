@@ -1,8 +1,8 @@
 # Treuhandvertrag Liechtenstein — Anlage B14 — Aktenvermerk und Bewertung
 
-**Marx Strafverteidigung Frankfurt**  
-**Vertraulich — Anwaltsgeheimnis § 53 StPO**  
-Datum: 15. April 2025  
+**Marx Strafverteidigung Frankfurt**
+**Vertraulich — Anwaltsgeheimnis § 53 StPO**
+Datum: 15. April 2025
 Az.: 5/28 KLs 122/25
 
 ---
@@ -22,8 +22,8 @@ Vertragsparteien:
 
 **Vertragsgegenstand:** Übertragung von Liquiditätsreserven der BIA GmbH in Treuhänderschaft zur Verwaltung und Anlage; Rückübertragung auf Anforderung; Vergütung der Treuhänderin 1,5 % p.a. des verwalteten Kapitals.
 
-**Datum des Vertrags:** 15. September 2020 (handschriftlich datiert)  
-**Unterzeichner auf Seiten BIA GmbH:** Daniel Albert Bankert  
+**Datum des Vertrags:** 15. September 2020 (handschriftlich datiert)
+**Unterzeichner auf Seiten BIA GmbH:** Daniel Albert Bankert
 **Unterzeichner auf Seiten Treuhänderin:** ██████ (handschriftlich unleserlich)
 
 ---

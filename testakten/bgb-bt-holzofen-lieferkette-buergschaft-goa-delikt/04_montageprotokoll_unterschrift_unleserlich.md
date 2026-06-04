@@ -1,6 +1,6 @@
 # Montageprotokoll 21.11.2025
 
-**Monteur:** Hinnerk Brandt  
+**Monteur:** Hinnerk Brandt
 **Anwesend:** Klara Windmöller, kurzzeitig Nachbarin Krumm
 
 | Punkt | Eintrag |

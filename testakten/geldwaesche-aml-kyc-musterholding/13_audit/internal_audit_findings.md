@@ -1,13 +1,13 @@
 # Internes Audit-Memo: AML/GwG-Compliance – Musterholding GmbH
 
-**Memo-Nr.:** AUDIT-MH-2026-01  
-**Erstellt von:** Interne Revision (Leitung: Petra Hoffmann, Prüferin: Markus Schild)  
-**Mitwirkung:** Thomas Eckhardt (Geldwäschebeauftragter), RA Dr. Franziska Heller (externe Beraterin)  
-**Datum des Audits:** 28.05.2026  
-**Prüfzeitraum:** 01.01.2025 – 26.05.2026  
-**Adressaten:** Klaus-Dieter Brenner, Sabine Wollner (Geschäftsführung); Thomas Eckhardt (GwB)  
-**Verteilerstufe:** Streng vertraulich / nur Adressaten  
-**Rechtsgrundlage:** § 6 Abs. 2 Nr. 2 GwG (interne Grundsätze und Kontrollen); BaFin-AuA GwG  
+**Memo-Nr.:** AUDIT-MH-2026-01
+**Erstellt von:** Interne Revision (Leitung: Petra Hoffmann, Prüferin: Markus Schild)
+**Mitwirkung:** Thomas Eckhardt (Geldwäschebeauftragter), RA Dr. Franziska Heller (externe Beraterin)
+**Datum des Audits:** 28.05.2026
+**Prüfzeitraum:** 01.01.2025 – 26.05.2026
+**Adressaten:** Klaus-Dieter Brenner, Sabine Wollner (Geschäftsführung); Thomas Eckhardt (GwB)
+**Verteilerstufe:** Streng vertraulich / nur Adressaten
+**Rechtsgrundlage:** § 6 Abs. 2 Nr. 2 GwG (interne Grundsätze und Kontrollen); BaFin-AuA GwG
 
 ---
 
@@ -170,6 +170,6 @@ Die interne Revision hat auf Anordnung der Geschäftsführung und auf Empfehlung
 
 ---
 
-*Memo-Nr.: AUDIT-MH-2026-01 — Musterholding GmbH / Interne Revision*  
-*Verteilung: Streng vertraulich — Geschäftsführung und GwB*  
+*Memo-Nr.: AUDIT-MH-2026-01 — Musterholding GmbH / Interne Revision*
+*Verteilung: Streng vertraulich — Geschäftsführung und GwB*
 *Aufbewahrungsfrist: 5 Jahre*

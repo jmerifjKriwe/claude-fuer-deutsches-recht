@@ -2,24 +2,24 @@
 
 ## Bundesförderung Effiziente Gebäude (BEG EM) – Wärmepumpe WEG Rolandstraße 27a
 
-**Erarbeitet:** Kanzlei Hauck-Brüggemann / Energieberaterin Dipl.-Ing. Claudia Mensing-Bär  
-(Energieberaterin: BEG-registriert, Reg.-Nr. EB-NRW-2019-4441)  
+**Erarbeitet:** Kanzlei Hauck-Brüggemann / Energieberaterin Dipl.-Ing. Claudia Mensing-Bär
+(Energieberaterin: BEG-registriert, Reg.-Nr. EB-NRW-2019-4441)
 **Stand:** 25. April 2026 (Entwurf, noch nicht gestellt)
 
 ---
 
 ## 1. Antragssteller
 
-**Wohnungseigentümergemeinschaft (WEG) Rolandstraße 27a, 50677 Köln**  
-vertreten durch Verwalterin: Immobilienverwaltung Rheineck GmbH, Kerpener Straße 77, 50937 Köln  
+**Wohnungseigentümergemeinschaft (WEG) Rolandstraße 27a, 50677 Köln**
+vertreten durch Verwalterin: Immobilienverwaltung Rheineck GmbH, Kerpener Straße 77, 50937 Köln
 Steuernummer WEG: 214/5820/3344 (Finanzamt Köln-Süd)
 
 ---
 
 ## 2. Antragsprogramm
 
-**BAFA-Programm:** BEG EM (Einzelmaßnahmen) – Wärmepumpe  
-**Förderart:** Investitionszuschuss  
+**BAFA-Programm:** BEG EM (Einzelmaßnahmen) – Wärmepumpe
+**Förderart:** Investitionszuschuss
 **Rechtsgrundlage:** BEG-Richtlinie (BAnz AT 03.11.2023 B1), i. d. F. 01.01.2026
 
 ---
@@ -90,5 +90,5 @@ Steuernummer WEG: 214/5820/3344 (Finanzamt Köln-Süd)
 
 ---
 
-*Erstellt: Energieberaterin Claudia Mensing-Bär / RA'in Hauck-Brüggemann*  
+*Erstellt: Energieberaterin Claudia Mensing-Bär / RA'in Hauck-Brüggemann*
 *Köln, 25.04.2026 – Entwurf, noch nicht gestellt*

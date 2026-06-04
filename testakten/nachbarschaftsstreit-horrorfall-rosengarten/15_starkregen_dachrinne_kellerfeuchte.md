@@ -1,7 +1,7 @@
 # Vorgang: Starkregen, Dachrinne und Kellerfeuchte
 
-**Bearbeiterin:** RAin Johanna Welling  
-**Stand:** 28.08.2025  
+**Bearbeiterin:** RAin Johanna Welling
+**Stand:** 28.08.2025
 **Aktenzeichen intern:** NBR-17/19-RG/2025-08
 
 ## Anlass

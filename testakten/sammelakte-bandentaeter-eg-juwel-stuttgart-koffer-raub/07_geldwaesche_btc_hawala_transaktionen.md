@@ -1,8 +1,8 @@
 # Aktenstück 07 — Geldwaesche: BTC-Wallets (Chain-Analysis), Hawala-Transaktionen
 
-**Verfahren:** StA Stuttgart 4 Js 18.422/26  
-**Bearbeitung:** Gemeinsam alle Verteidiger; Schwerpunkt RA Dr. Schorlemmer (Korbiel) und RA Krämer (Iordache)  
-**Ermittlungsstrang:** Geldwaesche § 261 StGB, Einziehung § 73 ff. StGB  
+**Verfahren:** StA Stuttgart 4 Js 18.422/26
+**Bearbeitung:** Gemeinsam alle Verteidiger; Schwerpunkt RA Dr. Schorlemmer (Korbiel) und RA Krämer (Iordache)
+**Ermittlungsstrang:** Geldwaesche § 261 StGB, Einziehung § 73 ff. StGB
 **Stand:** 27.01.2026
 
 ---

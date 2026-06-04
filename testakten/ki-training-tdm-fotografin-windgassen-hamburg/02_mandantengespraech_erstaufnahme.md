@@ -1,8 +1,8 @@
 # Notiz: Erstgespräch Mandatsaufnahme — Windgassen
 
-**Datum:** 14.01.2026, 10:30–12:15 Uhr  
-**Ort:** Kanzlei Kreidler-Bremer, Mittelweg 147, Hamburg  
-**Teilnehmer:** Mira Windgassen (Mandantin), Dr. Antonia Kreidler-Bremer (RA)  
+**Datum:** 14.01.2026, 10:30–12:15 Uhr
+**Ort:** Kanzlei Kreidler-Bremer, Mittelweg 147, Hamburg
+**Teilnehmer:** Mira Windgassen (Mandantin), Dr. Antonia Kreidler-Bremer (RA)
 **Protokoll:** Hartenberg (Sekretariat, nicht anwesend bei Beratung, Zusammenfassung nach Diktat)
 
 ---
@@ -13,7 +13,7 @@
 
 Frau Windgassen berichtet, sie habe im November 2025 durch einen Kollegen (Fotograf Rainer Kühle, der für GEO tätig ist) auf den KI-Bildgenerator **ImagineArt Pro** (Anbieter: ImagineArt Inc., Delaware, USA) aufmerksam gemacht bekommen. Kühle habe in Fachforen gelesen, dass ImagineArt auf LAION-5B-Daten basiere. Windgassen habe daraufhin selbst Prompts eingegeben, die ihren Stil imitierten:
 
-- „moody coastal marshland photography, twilight, documentary style, Eastern Germany"  
+- „moody coastal marshland photography, twilight, documentary style, Eastern Germany"
 - „reportage photo estuary Baltic Sea abandoned fishing village evening light"
 
 Die erzeugten Bilder zeigten nach Einschätzung von Windgassen unverwechselbare Charakteristika ihrer Bodden-Reportage-Serie „Tristesse am Bodden" (veröffentlicht in Mare Nr. 141, April/Mai 2023):
@@ -43,7 +43,7 @@ Am 09.01.2026 sei eine Abmahnung von Waldorf Frommer Rechtsanwälte, München, i
 
 Abgemahnte Werke laut Schreiben Waldorf Frommer:
 1. „Oppenheimer" (Christopher Nolan, Universal, 2023)
-2. „Barbie" (Greta Gerwig, Warner Bros., 2023)  
+2. „Barbie" (Greta Gerwig, Warner Bros., 2023)
 3. „Mission Impossible: Dead Reckoning Part One" (McQuarrie, Paramount, 2023)
 
 Forderung: 850 EUR Lizenzschadenersatz + 1.295 EUR Abmahnkosten, gesamt 2.145 EUR. Ü-Frist: 30.01.2026.

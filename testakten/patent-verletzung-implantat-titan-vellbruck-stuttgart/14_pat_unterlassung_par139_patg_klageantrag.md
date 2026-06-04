@@ -1,8 +1,8 @@
 # 14 — Patentrechtliche Unterlassung nach § 139 Abs. 1 PatG: Klageantragsformulierung
 
-**Aktenzeichen intern:** VM-2026-GR-001  
-**Datum:** 28. Januar 2026  
-**Bearbeiter:** RA Dr. Rademakers / RA Dr. Birkenhainer  
+**Aktenzeichen intern:** VM-2026-GR-001
+**Datum:** 28. Januar 2026
+**Bearbeiter:** RA Dr. Rademakers / RA Dr. Birkenhainer
 **Verfahren:** UPC ACT_0188/2026; ergänzend: BPatG 4 Ni 18/26 (defensiv)
 
 ---

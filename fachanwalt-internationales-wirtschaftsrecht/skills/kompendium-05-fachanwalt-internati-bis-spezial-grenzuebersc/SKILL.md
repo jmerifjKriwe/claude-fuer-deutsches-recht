@@ -1,0 +1,406 @@
+---
+name: kompendium-05-fachanwalt-internati-bis-spezial-grenzuebersc
+description: "fachanwalt-internationales-wirtschaftsrecht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (fachanwalt-internationales-wirtschaftsrecht-schiedsklausel, intwr-schiedsklausel-newyork-spezial, spezial-grenzueberschreitender-vertragsstreit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+---
+
+# Kompendium 05 - fachanwalt-internationales-wirtschaftsrecht
+
+## Zweck
+
+Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+
+## Enthaltene frühere Skills
+
+| Früherer Skill | Frühere Beschreibung |
+| --- | --- |
+| `fachanwalt-internationales-wirtschaftsrecht-schiedsklausel` | Mandant verhandelt internationalen Vertrag und fragt: Sollen wir eine Schiedsklausel aufnehmen und wie formulieren wir sie richtig? § 1031 ZPO Schiedsklausel. Prüfraster: Formvorschrift Art. II UN-Übereinkommen New York 1958 Schriftform Schiedsfähigkeit § 1030 ZPO Vollstreckung auslaendischer Schiedsspruch §§ 1061 ff. ZPO DIS- bzw. ICC-Schiedsordnung Trennungsprinzip Kompetenz-Kompetenz. Output: Schiedsklausel-Entwurf und Vergleich instituionell vs. ad hoc. Abgrenzung zu fachanwalt-iwr-icc-uncitral-schiedsverfahren (laufendes Verfahren). |
+| `intwr-schiedsklausel-newyork-spezial` | Spezialfall Schiedsklausel und New Yorker UEbereinkommen: Wirksamkeit Schiedsvereinbarung, Anerkennung und Vollstreckung auslaendischer Schiedssprueche, ordre public-Vorbehalt. Pruefraster Auslaendervorbehalt. |
+| `spezial-grenzueberschreitender-vertragsstreit` | Grenzüberschreitender Vertragsstreit mit Rechtswahl, Gerichtsstand und Vollstreckung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
+
+## Arbeitsregel
+
+1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
+3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+
+## Konsolidierte Inhalte
+
+## 1. `fachanwalt-internationales-wirtschaftsrecht-schiedsklausel`
+
+**Frühere Beschreibung:** Mandant verhandelt internationalen Vertrag und fragt: Sollen wir eine Schiedsklausel aufnehmen und wie formulieren wir sie richtig? § 1031 ZPO Schiedsklausel. Prüfraster: Formvorschrift Art. II UN-Übereinkommen New York 1958 Schriftform Schiedsfähigkeit § 1030 ZPO Vollstreckung auslaendischer Schiedsspruch §§ 1061 ff. ZPO DIS- bzw. ICC-Schiedsordnung Trennungsprinzip Kompetenz-Kompetenz. Output: Schiedsklausel-Entwurf und Vergleich instituionell vs. ad hoc. Abgrenzung zu fachanwalt-iwr-icc-uncitral-schiedsverfahren (laufendes Verfahren).
+
+# Schiedsklausel — Prüfung und Gestaltung
+
+## Kaltstart-Rückfragen
+
+1. Welche Streitsachen sollen erfasst werden — alle Streitigkeiten aus und im Zusammenhang mit dem Vertrag oder nur bestimmte (z. B. Qualitätsstreitigkeiten, Preis, IP-Verletzungen)? Begründung: zu enge Fassung führt zu parallelen Verfahren, zu weite Fassung kann ungewollte Streitigkeiten erfassen.
+2. Welche Schiedsinstitution wird bevorzugt — DIS, ICC, LCIA, HKIAC, SCC, SIAC, Ad-hoc-UNCITRAL? Begründung: Institutionenwahl beeinflusst Kosten, Verfahrensdauer, Vollstreckbarkeit in Zielstaat.
+3. Welcher Schiedsort (Sitz des Schiedsgerichts — entscheidend für lex arbitri, Aufhebungsrecht, staatliche Unterstützung) und Verfahrenssprache? Begründung: Schiedsort ≠ Verhandlungsort; deutsches Recht als lex arbitri bei Frankfurt/München/Hamburg.
+4. Anzahl der Schiedsrichter — Einzelschiedsrichter bis ca. 500.000 EUR Streitwert, Dreiergremium bei höherem Streitwert und mehreren Parteien? Begründung: Kosten und Zeitrahmen erheblich beeinflusst.
+5. Anwendbares materielles Recht — Parteiwahl § 1051 ZPO; bei internationalem Kaufvertrag CISG beachten (ggf. abwählen); Begründung: lex arbitri und lex causae auseinanderhalten.
+6. Liegt Verbraucherbeteiligung vor? § 1031 Abs. 5 ZPO — schärfere Formanforderungen zwingend.
+7. Soll Streitschlichtung (Mediation, Conciliation) als vorgeschaltete Pflichtphase vereinbart werden (so genannte Multi-Tier-Klausel)? Begründung: wirkt kostenmindernd, muss präzise formuliert sein um Zuständigkeitsfragen zu vermeiden.
+8. Notwendigkeit von Interim Relief (einstweilige Maßnahmen) — Zuständigkeit des Schiedsgerichts, Notfallschiedsrichter ICC Art. 29, DIS § 23, oder staatliche Gerichte weiterhin offen?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Rechtsgrundlagen
+
+### Nationales Recht
+
+- § 1029 ZPO — Schiedsvereinbarung, Begriff: Vertrag über privat-rechtlichen Rechtsstreit mit Schiedsgericht anstelle von staatlichem Gericht.
+- § 1030 ZPO — Schiedsfähigkeit: vermögensrechtliche Ansprüche stets; nicht vermögensrechtliche soweit vergleichsfähig.
+- § 1031 ZPO — Schriftform: Abs. 1 eigene Urkunde oder gewechselte Schreiben; Abs. 2 Telekommunikation genügt; Abs. 3 Bezugnahme auf Dokument mit Schiedsklausel ausreichend; Abs. 5 Verbraucher gesonderte eigenhändig unterzeichnete Urkunde zwingend.
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- § 1040 ZPO — Kompetenz-Kompetenz: Schiedsgericht entscheidet selbst über eigene Zuständigkeit; Trennungsprinzip (Severability): Schiedsvereinbarung ist selbständig vom Hauptvertrag zu beurteilen.
+- § 1051 ZPO — Anwendbares materielles Recht nach Parteiwahl; subsidiär Recht mit engster Verbindung.
+- § 1059 ZPO — Aufhebungsantrag für inländische Schiedssprüche: abschließender Katalog; Frist drei Monate ab Empfang des Schiedsspruchs.
+- §§ 1061 ff. ZPO — Vollstreckbarerklärung ausländischer Schiedssprüche i. V. m. NYC.
+
+### Internationales Recht
+
+- **New Yorker Übereinkommen (NYC) 1958** (über 170 Vertragsstaaten): Art. II Schriftformerfordernis; Art. III Vollstreckbarerklärung; Art. V Anerkennungsversagungsgründe (ordre public, nicht schiedsfähig, Formfehler, Versagung rechtlichen Gehörs).
+- **UNCITRAL-Modellgesetz 1985/2006** — Basis der meisten modernen nationalen Schiedsgesetze.
+- **UNCITRAL-Schiedsregeln 2010/2013** für Ad-hoc-Verfahren.
+
+### Schiedsordnungen
+
+- **DIS-Schiedsgerichtsordnung 2018** (in Kraft seit 01.03.2018; Anhang 2 in Fassung vom 01.07.2021): https://www.disarb.org/werkzeuge-und-tools/dis-regelwerke
+- DIS-ERGeS (Ergaenzende Regeln gesellschaftsrechtliche Streitigkeiten 2018), DIS-Mediationsordnung 2020.
+- **ICC-SchO 2021** (in Kraft seit 01.01.2021): https://iccwbo.org/dispute-resolution/dispute-resolution-services/arbitration/rules-procedure/2021-arbitration-rules/
+- **LCIA Rules 2020** (London Court of International Arbitration): https://www.lcia.org/dispute_resolution_services/lcia-arbitration-rules-2020.aspx
+- **HKIAC Administered Arbitration Rules 2024** (in Kraft 01.06.2024; aktualisiert gegenueber 2018-Fassung): https://www.hkiac.org/arbitration/rules-practice-notes/hkiac-administered-2024
+- **SIAC Rules 2025** (7. Auflage; in Kraft seit 01.01.2025): https://siac.org.sg/rules/siac-rules-2025/
+
+### Wichtige BGH-Entscheidungen
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Prüfschema
+
+| Nr. | Prüfschritt | Norm | Kernfrage |
+|---|---|---|---|
+| 1 | Schiedsfähigkeit | § 1030 ZPO | Vermögensrechtlicher Anspruch? Vergleichsfähig? |
+| 2 | Schriftform | § 1031 ZPO / Art. II NYC | Eigene Urkunde, gewechselte Schreiben, Bezugnahme, Telekommunikation? |
+| 3 | Verbraucherbeteiligung | § 1031 Abs. 5 ZPO | Gesonderte handschriftlich unterzeichnete Urkunde? |
+| 4 | Bestimmtheit | § 1029 ZPO | Streitgegenstand, Institution, Sitz, Sprache, Anzahl Schiedsrichter hinreichend bestimmt? |
+| 5 | Trennungsprinzip / Kompetenz-Kompetenz | § 1040 ZPO | Selbständige Beurteilung der Schiedsvereinbarung unabhängig vom Hauptvertrag? |
+| 6 | Anwendbares Verfahrensrecht (lex arbitri) | § 1025 ZPO | Schiedsort = Deutschland → deutsches Schiedsrecht; Ausland → ausländisches Recht? |
+| 7 | Schiedsordnung gewählt? | Parteiwahl | DIS / ICC / LCIA / Ad-hoc-UNCITRAL? |
+| 8 | Anwendbares materielles Recht | § 1051 ZPO | Rechtswahl wirksam? CISG abgewählt? |
+| 9 | NYC-Mitgliedschaft Vollstreckungsstaat | Art. V NYC | Anerkennungsversagungsgründe antizipiert? |
+| 10 | Aufhebungsgründe antizipiert | § 1059 ZPO | Ordre public, Formfehler, mangelnde Schiedsfähigkeit? |
+| 11 | Interim Relief | Schiedsordnung / §§ 1041 f. ZPO | Zuständigkeit Notfallschiedsrichter oder staatliches Gericht offen? |
+| 12 | Multi-Tier-Klausel | Parteiwahl | Mediation / Conciliation als Voraussetzung? Präzise Formulierung? |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Schiedsklausel formulieren oder pruefen | Template unten; ICC oder DIS als Institution empfehlen |
+| Variante A — Mandant will staatliche Gerichtsbarkeit | Kein Schiedsverfahren; Gerichtsstandsklausel nach Art. 25 Bruessel Ia |
+| Variante B — Schiedsklausel unklar / pathologisch | Reparatur durch Auslegung oder Neuvereinbarung; Risiko Nichtzustaendigkeit beachten |
+| Variante C — Investitionsstreit | ICSID pruefen; Achmea-Problematik bei Intra-EU-BIT beachten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Schriftsatzbausteine
+
+### Musterklausel DIS (Standard)
+
+```
+Alle Streitigkeiten, die sich im Zusammenhang mit diesem Vertrag oder
+ueber seine Gueltigkeit ergeben, werden nach der Schiedsgerichts-
+ordnung der Deutschen Institution fuer Schiedsgerichtsbarkeit e.V.
+(DIS) unter Ausschluss des ordentlichen Rechtsweges endgueltig
+entschieden.
+
+Das Schiedsgericht besteht aus [einem Schiedsrichter / drei
+Schiedsrichtern].
+Schiedsort ist [Frankfurt am Main / Muenchen / Hamburg].
+Verfahrenssprache ist [Deutsch / Englisch / Deutsch und Englisch].
+Anwendbares materielles Recht ist das Recht der Bundesrepublik
+Deutschland unter Ausschluss des UN-Kaufrechts (CISG).
+```
+
+### Musterklausel ICC (international)
+
+```
+All disputes arising out of or in connection with the present
+contract, including disputes on its conclusion, binding effect,
+amendment and termination, shall be finally settled under the Rules
+of Arbitration of the International Chamber of Commerce by one or
+three arbitrators appointed in accordance with the said Rules.
+
+Place of arbitration: [city, country].
+Language of arbitration: [English / German].
+Governing law: [law of state / country].
+```
+
+### Einrede der Schiedsvereinbarung § 1032 ZPO
+
+```
+An das [Landgericht / Amtsgericht] [Ort]
+
+Aktenzeichen: [Az]
+
+Klage der [Klaeger] gegen [Beklagte]
+
+namens und in Vollmacht der Beklagten erheben wir die Einrede der
+Schiedsvereinbarung gemaess § 1032 Abs. 1 ZPO.
+
+Begruendung:
+Die Parteien haben in Ziffer [X] des Vertrages vom [Datum] eine
+wirksame Schiedsvereinbarung zugunsten der [DIS / ICC]-Schieds-
+gerichtsbarkeit mit Sitz in [Ort] vereinbart.
+
+1. Formwirksamkeit § 1031 ZPO: Die Klausel ist in der schriftlichen
+Vertragsurkunde vom [Datum] enthalten, die beide Parteien
+unterzeichnet haben.
+
+2. Schiedsfaehigkeit § 1030 ZPO: Der geltend gemachte Anspruch
+[Beschreibung] ist vermogensrechtlicher Natur und damit
+schiedsfaehig.
+
+3. Keine Verbrauchereigenschaft: Beide Parteien handeln im Rahmen
+gewerblicher/beruflicher Taetigkeit.
+
+4. Bestimmtheit: Schiedsort, Schiedsordnung, Sprache und Streit-
+gegenstand sind hinreichend bestimmt.
+
+Wir beantragen daher, die Klage als unzulaessig abzuweisen.
+
+Vorsorglich und bedingt fuer den Fall, dass das Gericht die Einrede
+zurueckweist, beantragen wir Klageabweisung in der Sache.
+
+[Unterschrift]
+```
+
+### Aufhebungsantrag § 1059 ZPO (Skeleton)
+
+```
+An das Oberlandesgericht [Ort]
+
+Aufhebungsantrag gemaess § 1059 ZPO
+
+Antragsteller: [Partei]
+Antragsgegnerin: [Partei]
+Schiedsspruch vom [Datum], Az. [Az DIS/ICC]
+
+I. Antrag
+Der Schiedsspruch vom [Datum] wird aufgehoben.
+
+II. Aufhebungsgrund § 1059 Abs. 2 Nr. 1 lit. b) ZPO
+Dem Antragsteller wurde das rechtliche Gehoer im Schiedsverfahren
+versagt. [Sachverhalt: welche Beweisangebote wurden abgelehnt, welche
+Vortraege wurden nicht beruecksichtigt]
+
+Alternativ: § 1059 Abs. 2 Nr. 2 lit. b) ZPO (ordre public)
+Die Anerkennung und Vollstreckung des Schiedsspruchs verstoesst gegen
+den ordre public der Bundesrepublik Deutschland, weil [Begruendung].
+
+III. Frist
+Der Schiedsspruch wurde dem Antragsteller am [Datum] zugestellt.
+Die Dreimonatsfrist des § 1059 Abs. 3 ZPO endet am [Datum].
+
+[Unterschrift]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+## Beweislast und Darlegungslast
+
+| Frage | Beweislast | Beweismittel |
+|---|---|---|
+| Abschluss und Wirksamkeit der Schiedsvereinbarung | Wer sich auf die Klausel beruft | Vertragsausfertigung, gewechselte Schreiben |
+| Formverstoß § 1031 ZPO | Rügende Partei | Vorlage aller Korrespondenz |
+| Aufhebungsgrund § 1059 ZPO | Antragsteller | Verfahrensunterlagen, Protokoll, Schriftsätze |
+| Versagungsgrund Art. V NYC | Versagungspartei | Stattliche Unterlagen, ordre-public-Argumente |
+| Wirksamkeit nach Handelsrecht | Gericht von Amts wegen | Parteivortrag, Sachverständige |
+
+## Fristen und Verjährung
+
+| Maßnahme | Frist | Anker |
+|---|---|---|
+| Einrede Schiedsvereinbarung § 1032 ZPO | Spätestens erster Sachvortrag (rügelose Einlassung = Verlust) | § 1032 Abs. 1 ZPO |
+| Aufhebungsantrag § 1059 ZPO | 3 Monate ab Empfang des Schiedsspruchs | § 1059 Abs. 3 Satz 1 ZPO |
+| Vollstreckbarerklärungsantrag § 1061 ZPO | Keine Frist; materiell-rechtliche Verjährung des Anspruchs läuft weiter | §§ 1061 ff. ZPO / NYC |
+| Zwischenfeststellungsklage § 1032 Abs. 2 ZPO | Bis Schiedsverfahren begonnen | § 1032 Abs. 2 ZPO |
+| Notfall-Schiedsrichter ICC | Vor Konstituierung des Schiedsgerichts | Art. 29 ICC-SchO 2021 |
+
+## Typische Gegenargumente und Reaktion
+
+| Einwand | Reaktion |
+|---|---|
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Verbraucherschutz § 1031 Abs. 5 ZPO | Parteieigenschaft als Unternehmer prüfen und belegen; bei echtem Verbraucher Klausel unwirksam — staatliche Gerichte |
+| Schiedsvereinbarung durch Insolvenz erlöschen | § 116 InsO analog: Schiedsvereinbarung bleibt grds. bestehen; Insolvenzverwalter kann eintreten |
+| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Schiedsverfahren dauert zu lange — einstweiliger Rechtsschutz | §§ 1041, 1033 ZPO — staatliche Gerichte weiterhin für einstweiligen Rechtsschutz zuständig, sofern Schiedsvereinbarung nicht ausschließt |
+
+## Streitwert und Kosten
+
+- **DIS**: Registrierungsgebühr 700 EUR + Schiedsrichtergebühren nach DIS-Kostenordnung (Anlage zu § 35 DIS-SchO 2021): bei 1 Mio. EUR Streitwert ca. 40.000–80.000 EUR für Dreiergremium.
+- **ICC**: Verwaltungsgebühr + Schiedsrichtergebühren nach ICC-Tabelle; bei 1 Mio. EUR ca. 60.000–120.000 EUR (Dreiergremium) + Anwaltskosten.
+- **RVG**: Anwaltshonorar in Deutschland nach Streitwert; GKG-Gebühren für Vollstreckbarerklärung / Aufhebungsantrag (§ 3 ZPO, Wert = Streitwert).
+- **Prozesskostenhilfe**: im Schiedsverfahren selbst grundsätzlich keine PKH; für Vollstreckbarerklärungsverfahren vor OLG nach §§ 114 ff. ZPO möglich.
+- **Streitwertberechnung**: Hauptforderung + Zinsen soweit bezifferbar; Feststellungsanträge 50–80 % des Hauptantrags nach Ermessen.
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung |
+|---|---|
+| Neuer Vertrag mit internationalem Partner | DIS-Klausel bei Deutschland-Bezug; ICC bei globalem Geschäft; HKIAC bei Asien-Bezug |
+| Partner in Nicht-NYC-Staat | State Courts empfehlen oder NYC-Mitgliedschaft prüfen |
+| Eilrechtsschutz erforderlich | Notfallschiedsrichter ICC Art. 29 / DIS § 23 oder staatliches Gericht ausdrücklich offen halten |
+| Klage vor staatlichem Gericht trotz Schiedsklausel | Einrede § 1032 Abs. 1 ZPO sofort, Schiedsverfahren parallel einleiten |
+| Schiedsspruch vollstrecken im Ausland | Vollstreckbarerklärungsantrag in Vollstreckungsstaat; NYC-Formblatt beachten |
+| Aufhebungsantrag | Dreimonatsfrist unbedingt wahren; Aufhebungsgründe § 1059 ZPO erschöpfend |
+
+## Anschluss-Skills
+
+- `fachanwalt-iwr-embargo-pruefung-russland` — bei Sanktions-Bezug im Schiedsstreit
+- `fachanwalt-iwr-cisg-anwendbarkeit` — bei Kaufvertrag mit Schiedsklausel
+- `fachanwalt-prozessrecht-vollstreckung-ausland` — bei Vollstreckung des Schiedsspruchs
+
+## Quellen
+
+- ZPO §§ 1025–1066 (Zehntes Buch)
+- New Yorker Übereinkommen 1958
+- UNCITRAL-Modellgesetz 2006
+- DIS-Schiedsgerichtsordnung 2021
+- ICC Rules of Arbitration 2021
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Schwab/Walter Schiedsgerichtsbarkeit, 7. Aufl.
+- Born International Commercial Arbitration, 3rd ed.
+- Reithmann/Martiny Internationales Vertragsrecht
+
+## Vertiefung: Triage und Output-Template Schiedsklausel
+
+### Triage — Bevor losgelegt wird, klaere:
+
+1. Liegt schriftliche Schiedsvereinbarung vor (§ 1031 ZPO)?
+2. Schiedsinstitution und Schiedssitz bestimmt?
+3. Anzahl Schiedsrichter (1 oder 3)? → Streitwert bestimmt oft; ICC: 3 ab ca. 1 Mio. EUR
+4. Ist Schiedsklausel pathologisch (unklar oder widerspruchlich)?
+5. Was ist materiell anwendbares Recht?
+
+### Ergaenzende Leitsaetze Schiedsklausel
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Output-Template Schiedsklausel (ICC-Standard)
+**Adressat:** Vertragspartner — Tonfall: sachlich-vertraglich
+
+```
+Schiedsklausel / Arbitration Clause
+
+Alle Streitigkeiten aus oder im Zusammenhang mit diesem
+Vertrag, einschliesslich Fragen seiner Gueltigkeit, werden
+nach der Schiedsgerichtsordnung der Internationalen
+Handelskammer (ICC) durch ein oder mehrere gemass dieser
+Ordnung ernannte Schiedsrichter endgueltig entschieden.
+
+Schiedsort:          [ORT, LAND]
+Sprache:             [DEUTSCH / ENGLISCH]
+Anzahl Schiedsrichter:[EIN / DREI]
+Anwendbares Recht:   [RECHTSORDNUNG]
+```
+
+## 2. `intwr-schiedsklausel-newyork-spezial`
+
+**Frühere Beschreibung:** Spezialfall Schiedsklausel und New Yorker UEbereinkommen: Wirksamkeit Schiedsvereinbarung, Anerkennung und Vollstreckung auslaendischer Schiedssprueche, ordre public-Vorbehalt. Pruefraster Auslaendervorbehalt.
+
+# IntWR: Schiedsklausel New York
+
+## Spezialwissen: IntWR: Schiedsklausel New York
+- **Spezialgegenstand:** IntWR: Schiedsklausel New York / intwr schiedsklausel newyork spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
+- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
+- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
+
+
+## Fallweichen
+Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+
+1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
+2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
+3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+
+## Pruefraster
+
+Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+
+1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
+2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
+3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
+4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+
+## Plugin-Kontext
+Dieser Skill gehoert zum Plugin `fachanwalt-internationales-wirtschaftsrecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+
+## Output-Module
+- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
+- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+
+## Quellenregel
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
+- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
+- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
+- Kommentare mit Bearbeiter und Randnummer.
+- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
+
+## Was dieser Skill nicht macht
+- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
+- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
+- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+
+## 3. `spezial-grenzueberschreitender-vertragsstreit`
+
+**Frühere Beschreibung:** Grenzüberschreitender Vertragsstreit mit Rechtswahl, Gerichtsstand und Vollstreckung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
+
+# Grenzüberschreitender Vertragsstreit mit Rechtswahl, Gerichtsstand und Vollstreckung
+
+## Aufgabe
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `fachanwalt-internationales-wirtschaftsrecht`. Kontext des Plugins: Plugin Fachanwalt für Internationales Wirtschaftsrecht. CISG Bruessel Ia Rom I Rom II Schiedsverfahren ICC UNCITRAL Investitionsschutz ICSID WTO EU-Aussenhandel LkSG. Schnittstelle Plugin kanzlei-allgemein.
+
+Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
+
+## Kaltstart
+Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
+
+1. Wer handelt in welcher Rolle und gegen wen?
+2. Welches praktische Ziel soll erreicht werden?
+3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
+4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
+5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
+
+## Arbeitsworkflow
+1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
+2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
+3. **Materielle Weichen:** Die Kernfragen zu **Grenzüberschreitender Vertragsstreit mit Rechtswahl, Gerichtsstand und Vollstreckung** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
+4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
+5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
+
+## Output-Standard
+- Kurzbild in fünf Sätzen: Lage, Ziel, Frist, Risiko, nächster Schritt.
+- Prüfmatrix mit Punkt, Norm/Quelle, Tatsachen, Beleg, Bewertung, To-do.
+- Konkreter Textbaustein oder Arbeitsprodukt passend zur Lage: Memo, Mandantenbrief, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Verhandlungsagenda.
+- Keine Scheingenauigkeit: Annahmen, Lücken und Live-Check-Bedarf offen markieren.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Paywall-Literatur nur verwenden, wenn die Nutzerin oder der Nutzer den Text selbst bereitstellt; dann nicht als frei verifizierte Quelle ausgeben.

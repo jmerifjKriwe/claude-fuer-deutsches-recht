@@ -1,7 +1,7 @@
 # Schwebende Unwirksamkeit und Eigentumserwerb — §§ 184, 929, 932 BGB (Convotherm-Öfen)
 
-**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg  
-**Datum:** 01. April 2026  
+**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg
+**Datum:** 01. April 2026
 **Bezug:** OLG Dresden 12 U 22/26 (Berufungsverfahren); 12 Convotherm-Öfen; offene Rate 44.000 EUR
 
 ---
@@ -74,8 +74,8 @@ Convotherm beruft sich auf eine Klausel im Liefervertrag, die einen **verlänger
 
 **Empfehlung Berufung OLG Dresden:** Gutgläubigen Erwerb durch Schlotterhose (§ 932 BGB) als Kernargument führen. Herausgabeanspruch Convotherm gegen Schlotterhose ist ausgeschlossen. Gegen GmbH bleibt Schadensersatzforderung bestehen — Vergleich prüfen.
 
-**Quellen:**  
-§§ 158, 449, 929, 932 BGB: https://dejure.org/gesetze/BGB/932.html  
-§ 184 BGB: https://dejure.org/gesetze/BGB/184.html  
-BGH NJW 2003, 3271 (grobe Fahrlässigkeit § 932 Abs. 2 BGB): https://www.bundesgerichtshof.de  
+**Quellen:**
+§§ 158, 449, 929, 932 BGB: https://dejure.org/gesetze/BGB/932.html
+§ 184 BGB: https://dejure.org/gesetze/BGB/184.html
+BGH NJW 2003, 3271 (grobe Fahrlässigkeit § 932 Abs. 2 BGB): https://www.bundesgerichtshof.de
 BGH NJW 1958, 1133 (verlängerter Eigentumsvorbehalt): https://openjur.de

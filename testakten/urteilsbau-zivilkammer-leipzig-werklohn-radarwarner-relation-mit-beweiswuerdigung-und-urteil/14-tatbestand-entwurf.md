@@ -1,7 +1,7 @@
 # 14 — Tatbestand-Entwurf
 
-**AZ:** 8 O 188/26  
-**§ 313 Abs. 1 Nr. 5 ZPO**  
+**AZ:** 8 O 188/26
+**§ 313 Abs. 1 Nr. 5 ZPO**
 **Entwurfsstand:** 25.09.2026 (nach Schlussverhandlung 17.09.2026)
 
 ---

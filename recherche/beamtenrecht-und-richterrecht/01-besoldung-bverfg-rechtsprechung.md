@@ -845,7 +845,7 @@ Die 5-Parameter-Prüfung und die Prekaritätsschwelle sind nach bisheriger Recht
 │                  (kann aber erhärtet werden)                       │
 └──────────────────────────────────────────────────────────────────┘
                               │
-            Verletzung festgestellt? 
+            Verletzung festgestellt?
             │ Ja                    │ Nein → Besoldung verfassungsgemäß
             ▼
 ┌──────────────────────────────────────────────────────────────────┐

@@ -1,31 +1,31 @@
 # Aktenstück 10 – Stellungnahme Vergabestelle an Vergabekammer
 
-**Aktenzeichen:** VK 1-32/26  
-**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026  
-**Von:** Vergabestelle SDS / Landeshauptstadt Schwerin  
-**An:** Vergabekammer des Bundes, VK 1  
+**Aktenzeichen:** VK 1-32/26
+**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026
+**Von:** Vergabestelle SDS / Landeshauptstadt Schwerin
+**An:** Vergabekammer des Bundes, VK 1
 **Datum:** 05.05.2026
 
 ---
 
-Landeshauptstadt Schwerin  
-Eigenbetrieb SDS – Vergabestelle –  
-Verfahrensbevollmächtigte: Rechtsanwältin Dr. Sandra Mertke  
-Kanzlei Vergaberecht Nord, Kröpeliner Str. 90, 18055 Rostock  
+Landeshauptstadt Schwerin
+Eigenbetrieb SDS – Vergabestelle –
+Verfahrensbevollmächtigte: Rechtsanwältin Dr. Sandra Mertke
+Kanzlei Vergaberecht Nord, Kröpeliner Str. 90, 18055 Rostock
 E-Mail: s.mertke@vr-nord.de
 
-An die Vergabekammer des Bundes  
-– VK 1 –  
+An die Vergabekammer des Bundes
+– VK 1 –
 Villemombler Straße 76, 53123 Bonn
 
 05. Mai 2026
 
 ## Stellungnahme der Antragsgegnerin
 
-**In dem Nachprüfungsverfahren VK 1-32/26**  
+**In dem Nachprüfungsverfahren VK 1-32/26**
 LH-SN-Cyber-SOC-NSV-2026
 
-Antragstellerin: CyberShield Defense GmbH  
+Antragstellerin: CyberShield Defense GmbH
 Antragsgegnerin: Landeshauptstadt Schwerin / SDS
 
 ---
@@ -65,7 +65,7 @@ Das Aufklärungsgespräch vom 08.04.2026 war auf die Klärung von zwei Textunkla
 
 ---
 
-Dr. Sandra Mertke  
+Dr. Sandra Mertke
 Rechtsanwältin (Verfahrensbevollmächtigte der Antragsgegnerin)
 
 ---

@@ -132,7 +132,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 ## Verfahrensstand
 
-**Stichtag dieser Akte: Mai 2026**  
+**Stichtag dieser Akte: Mai 2026**
 **Mandatsannahme: 14. März 2026**
 
 | Verfahrensstrang | Status |

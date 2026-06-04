@@ -1,8 +1,8 @@
 # 06 — Abfindungsbewertungsstreit: Buchwert vs. Ertragswert
 
-**Akte:** DWSP/2026/GR-4417  
-**Erstellt:** 21.04.2026  
-**Bearbeiter:** Ass. iur. Miriam Sandtenbruch / WP Dr. Norbert Heidekämper (extern, Bewertungsfragen)  
+**Akte:** DWSP/2026/GR-4417
+**Erstellt:** 21.04.2026
+**Bearbeiter:** Ass. iur. Miriam Sandtenbruch / WP Dr. Norbert Heidekämper (extern, Bewertungsfragen)
 
 ---
 
@@ -94,5 +94,5 @@ Strategisch empfiehlt sich, den Vergleichskorridor auf Basis des Ertragswerts ID
 
 ---
 
-*Erstellt: 21.04.2026 — Ass. iur. Miriam Sandtenbruch / WP Dr. Norbert Heidekämper (extern)*  
+*Erstellt: 21.04.2026 — Ass. iur. Miriam Sandtenbruch / WP Dr. Norbert Heidekämper (extern)*
 *Referenz: IDW S 1 i.d.F. 2008; BGH BGHZ 116, 359; BGH BGHZ 123, 281; bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/2009/10/IIZr240-08.html*

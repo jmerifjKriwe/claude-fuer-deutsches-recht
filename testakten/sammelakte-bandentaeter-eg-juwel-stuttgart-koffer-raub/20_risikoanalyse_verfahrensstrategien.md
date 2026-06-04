@@ -1,7 +1,7 @@
 # Aktenstück 20 — Risikoanalyse und Verfahrensstrategien
 
-**Verfahren:** KLs 4 Js 18.422/26  
-**Bearbeitung:** Alle Verteidiger (interne Konferenz 12.02.2026)  
+**Verfahren:** KLs 4 Js 18.422/26
+**Bearbeitung:** Alle Verteidiger (interne Konferenz 12.02.2026)
 **Stand:** 12.02.2026
 
 ---

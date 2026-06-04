@@ -1,7 +1,7 @@
 # 09 — Schriftwechsel mit NADA: Vorabinformation, Akteneinsicht, Fristen
 
-**Erstellt:** 20.03.2026  
-**Bearbeiter:** RAin Sophie Wenderlich  
+**Erstellt:** 20.03.2026
+**Bearbeiter:** RAin Sophie Wenderlich
 **AZ:** SU/DOPING/2026-001
 
 ---
@@ -10,9 +10,9 @@
 
 ### 1.1 Vorabinformation NADA an Mandantin (27.02.2026)
 
-**Von:** NADA Deutschland e.V., Anti-Doping-Abteilung  
-**An:** Selin Uvalkanat (persönlich), Karl-Marx-Straße 47, 08056 Zwickau  
-**Datum:** 27.02.2026  
+**Von:** NADA Deutschland e.V., Anti-Doping-Abteilung
+**An:** Selin Uvalkanat (persönlich), Karl-Marx-Straße 47, 08056 Zwickau
+**Datum:** 27.02.2026
 **Art:** Einschreiben mit Rückschein; gleichzeitig per E-Mail
 
 **Wesentlicher Inhalt:**
@@ -26,22 +26,22 @@ Empfang Rückschein: 01.03.2026.
 
 ### 1.2 Antwort Kanzlei auf Vorabinformation (01.03.2026)
 
-**Von:** Lentze, Stopper & Partner, per Fax und E-Mail  
-**An:** NADA Deutschland e.V., Heussallee 38, 53113 Bonn; Fax: 0228/8160-1220  
+**Von:** Lentze, Stopper & Partner, per Fax und E-Mail
+**An:** NADA Deutschland e.V., Heussallee 38, 53113 Bonn; Fax: 0228/8160-1220
 **Datum:** 01.03.2026
 
 Inhalt: Vollmachtsvorlage; Beantragung B-Probe-Öffnung; Beantragung vollständiger Akteneinsicht nach Art. 14.1.2 NADC; Ankündigung schriftlicher Erklärung nach Auswertung.
 
 ### 1.3 NADA-Bestätigung B-Probe (02.03.2026)
 
-**Von:** NADA  
-**An:** Kanzlei  
+**Von:** NADA
+**An:** Kanzlei
 B-Probe-Öffnung bestätigt für 04.03.2026, 10:00 Uhr, DSHS Köln. Anwesenheit Parteisachverständiger zugestimmt.
 
 ### 1.4 NADA-Schreiben nach B-Probe (06.03.2026)
 
-**Von:** NADA  
-**An:** Kanzlei  
+**Von:** NADA
+**An:** Kanzlei
 AAF formal bestätigt. Verweis an DHB und Deutsches Sportschiedsgericht. Erklärungsfrist verlängert auf 26.03.2026 (auf Antrag).
 
 ### 1.5 Kanzlei-Antrag Akteneinsicht (08.03.2026)
@@ -62,8 +62,8 @@ Teilweise Akteneinsicht gewährt. Übersandt: DCO-Report, Laborprotokolle A- und
 
 ## 2. Schriftliche Erklärung der Mandantin (26.03.2026)
 
-**Von:** Kanzlei Lentze, Stopper & Partner  
-**An:** NADA Deutschland e.V.  
+**Von:** Kanzlei Lentze, Stopper & Partner
+**An:** NADA Deutschland e.V.
 **Datum:** 26.03.2026
 
 ### Wesentliche Punkte der Erklärung

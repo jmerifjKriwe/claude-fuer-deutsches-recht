@@ -2,9 +2,9 @@
 
 **Aktenauszug** aus Band V, Bl. 612–648.
 
-Vernehmung geführt durch: OSchA Schamoni-Wieselburg (Schwerpunkt-StA Wirtschaft Koeln); Protokollführung StA-Angest. Bertosch.  
-Ort: StA Koeln, Reichenspergerplatz 1, 50670 Koeln, Saal 3.4  
-Dauer: 14.04.2026, 10:15 — 15:42 Uhr (5:27 h, davon 30 Minuten Pause)  
+Vernehmung geführt durch: OSchA Schamoni-Wieselburg (Schwerpunkt-StA Wirtschaft Koeln); Protokollführung StA-Angest. Bertosch.
+Ort: StA Koeln, Reichenspergerplatz 1, 50670 Koeln, Saal 3.4
+Dauer: 14.04.2026, 10:15 — 15:42 Uhr (5:27 h, davon 30 Minuten Pause)
 Belehrung: §§ 57, 55 StPO erteilt. Zeugin hatte Anwältin RA'in Geyermann-Stoeve beraten (vorab) — diese nicht präsent. Zeugin erklärte, sie werde aussagen.
 
 ---
@@ -89,8 +89,8 @@ In V2 wurden der Zeugin folgende Unterlagen vorgehalten:
 
 > "Ich habe meine Angaben gewissenhaft präzisiert. Wenn ich in der ersten Vernehmung etwas anders gesagt habe, dann beruht das darauf, dass ich nicht alle Buchhaltungsunterlagen vorliegen hatte. Heute habe ich diese gesehen und kann genauer sagen, was war."
 
-Unterschrift Zeugin: **Mira Quasthoff** (handschriftlich)  
-Vernehmung beendet: 15:42 Uhr  
+Unterschrift Zeugin: **Mira Quasthoff** (handschriftlich)
+Vernehmung beendet: 15:42 Uhr
 Protokoll vorgelesen und genehmigt durch Zeugin.
 
 ---

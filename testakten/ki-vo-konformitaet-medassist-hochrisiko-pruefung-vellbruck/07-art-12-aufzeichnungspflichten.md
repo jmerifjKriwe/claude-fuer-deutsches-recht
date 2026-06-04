@@ -1,8 +1,8 @@
 # Aktenstück 07 — Art. 12 KI-VO: Aufzeichnungspflichten und Logging
 
-**Aktenzeichen:** 2026-V-0427  
-**Erstellt:** 28.03.2026  
-**Bearbeitung:** RA Dr. Mark Roosendaal  
+**Aktenzeichen:** 2026-V-0427
+**Erstellt:** 28.03.2026
+**Bearbeitung:** RA Dr. Mark Roosendaal
 **Rechtsgrundlage:** Art. 12 KI-VO (EU) 2024/1689
 
 ---
@@ -75,10 +75,10 @@ Das Dispositionsmodul protokolliert nur die Top-1-Empfehlung, nicht die Alternat
 
 ## 5. Gesamtbewertung Art. 12
 
-**Art. 12 KI-VO: Teilweise konform (mit kritischen Lücken).**  
+**Art. 12 KI-VO: Teilweise konform (mit kritischen Lücken).**
 Die Logging-Grundinfrastruktur ist vorhanden. Die Nichtprotokollierung der Disponenten-Identität in 14 Kliniken und die fehlende Modellversionierung sind kritische Verstöße, die für das BNetzA-Marktüberwachungsverfahren unmittelbaren Klärungsbedarf auslösen.
 
 ---
 
-*Heidelberg, 28.03.2026*  
+*Heidelberg, 28.03.2026*
 *RA Dr. Mark Roosendaal — Az. 2026-V-0427*

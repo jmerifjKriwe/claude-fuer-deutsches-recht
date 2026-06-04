@@ -1,8 +1,8 @@
 # 17 — Strafrecht / Steuerrecht Interface: Schwarzkasse, § 266 StGB, § 370 AO
 
-**Akte:** DWSP/2026/GR-4417  
-**Erstellt:** 06.05.2026  
-**Bearbeiter:** Prof. Dr. Wieland Drosselberg (Gesellschaftsrecht) / StB/RA Peter Sandtenbruch (Partner, Steuerstrafrecht)  
+**Akte:** DWSP/2026/GR-4417
+**Erstellt:** 06.05.2026
+**Bearbeiter:** Prof. Dr. Wieland Drosselberg (Gesellschaftsrecht) / StB/RA Peter Sandtenbruch (Partner, Steuerstrafrecht)
 
 ---
 
@@ -76,5 +76,5 @@ Die HinSchG-Affäre hat gesellschaftsrechtliche Implikationen:
 
 ---
 
-*Erstellt: 06.05.2026 — Prof. Dr. Wieland Drosselberg / StB/RA Peter Sandtenbruch*  
+*Erstellt: 06.05.2026 — Prof. Dr. Wieland Drosselberg / StB/RA Peter Sandtenbruch*
 *Referenz: § 266 StGB (dejure.org/gesetze/StGB/266.html); § 370 AO; § 371 AO; BGHSt 53, 71; § 398a AO*

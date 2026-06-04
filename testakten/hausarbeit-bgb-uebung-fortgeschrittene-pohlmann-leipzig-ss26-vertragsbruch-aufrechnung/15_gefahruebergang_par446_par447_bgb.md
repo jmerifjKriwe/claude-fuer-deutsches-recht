@@ -1,6 +1,6 @@
 # 15 — Gefahrübergang: §§ 446, 447 BGB
 
-**Bearbeiter:** Konrad Pohlmann  
+**Bearbeiter:** Konrad Pohlmann
 **Stand:** 29.04.2026
 
 ---

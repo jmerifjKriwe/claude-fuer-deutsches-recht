@@ -1,9 +1,9 @@
 # Aktenstück 08 — D&O-Versicherung: Sachverhalt und Deckungsstreit
 
-**Verfahren:** LG Köln 26 O 144/26  
-**Versicherer:** ManagerSchutz AG, Colonia-Allee 20, 51067 Köln  
-**Versicherungsnehmerin:** Vogelweide+Co Demenz-WG GmbH (Tochtergesellschaft St.-Antonius-Heim GmbH)  
-**Versicherte Person:** Marion Vogelweide (Geschäftsführerin 2018–2023)  
+**Verfahren:** LG Köln 26 O 144/26
+**Versicherer:** ManagerSchutz AG, Colonia-Allee 20, 51067 Köln
+**Versicherungsnehmerin:** Vogelweide+Co Demenz-WG GmbH (Tochtergesellschaft St.-Antonius-Heim GmbH)
+**Versicherte Person:** Marion Vogelweide (Geschäftsführerin 2018–2023)
 **D&O-Polizze:** DMO-2018-WG-5510
 
 ---
@@ -18,7 +18,7 @@ Die Vogelweide+Co Demenz-WG GmbH (HRB 22341 AG Aachen) wurde am 12.03.2018 als 1
 
 Im März 2024 stellte die St.-Antonius-Heim GmbH als Gesellschafterin der Vogelweide+Co Demenz-WG GmbH Schadensersatzansprüche gegen Frau Vogelweide in Höhe von **41.000 EUR** wegen angeblicher Pflichtverletzungen in ihrer Amtszeit als Geschäftsführerin:
 
-1. **Inventarverluste**: Angeblicher Verlust von Pflegeequipment, Mobiliar und technischen Geräten im Wert von 41.000 EUR ohne ausreichende Dokumentation.  
+1. **Inventarverluste**: Angeblicher Verlust von Pflegeequipment, Mobiliar und technischen Geräten im Wert von 41.000 EUR ohne ausreichende Dokumentation.
 2. **Ransomware-Zahlung 2022**: Zahlung von 18.000 EUR Lösegeld in Kryptowährung ohne Einholung von Gesellschafterbeschluss oder Hinzuziehung eines Rechtsbeistands.
 
 ---

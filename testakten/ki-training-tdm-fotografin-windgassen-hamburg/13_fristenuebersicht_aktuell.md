@@ -1,7 +1,7 @@
 # Fristenübersicht — Windgassen, AZ 26-UMR-0084
 
-**Stand:** 25.01.2026  
-**Verantwortlich:** Dr. Kreidler-Bremer / Hartenberg  
+**Stand:** 25.01.2026
+**Verantwortlich:** Dr. Kreidler-Bremer / Hartenberg
 **Wiedervorlage:** täglich bis 30.01.2026, danach wöchentlich
 
 ---

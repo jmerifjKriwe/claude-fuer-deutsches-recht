@@ -1,9 +1,9 @@
 # 11 — Einstweilige Verfügung nach Art. 62 UPCA vor der UPC Lokalkammer Düsseldorf
 
-**Aktenzeichen intern:** VM-2026-GR-001  
-**UPC-Aktenzeichen EV:** EVF_0044/2026  
-**Gericht:** UPC Lokale Kammer Düsseldorf  
-**Datum Antragstellung:** 01. März 2026  
+**Aktenzeichen intern:** VM-2026-GR-001
+**UPC-Aktenzeichen EV:** EVF_0044/2026
+**Gericht:** UPC Lokale Kammer Düsseldorf
+**Datum Antragstellung:** 01. März 2026
 **Bearbeiter:** RA Dr. Rademakers (Rademakers IP) / RA Dr. Birkenhainer
 
 ---

@@ -1,9 +1,9 @@
 # Gerichtliche Route – Verfahrenswahl und Prozessablauf
 
-**Aktenzeichen:** MH-2026-001  
-**Stand:** 9. Juni 2026  
-**Verfasser:** RA Dr. Karolin Westphal  
-**Entscheidungsdatum (geplant):** 13. Juni 2026 (Mandantengespräch)  
+**Aktenzeichen:** MH-2026-001
+**Stand:** 9. Juni 2026
+**Verfasser:** RA Dr. Karolin Westphal
+**Entscheidungsdatum (geplant):** 13. Juni 2026 (Mandantengespräch)
 
 ---
 
@@ -39,19 +39,19 @@ Das StaRUG (Unternehmensstabilisierungs- und -restrukturierungsgesetz, BGBl. I 2
 
 ### 2.2 Verfahrensschritte StaRUG
 
-**Schritt 1 – Anzeige des Restrukturierungsvorhabens (§ 31 StaRUG):**  
+**Schritt 1 – Anzeige des Restrukturierungsvorhabens (§ 31 StaRUG):**
 Anzeige beim Amtsgericht Hamburg als Restrukturierungsgericht. Zuständig nach § 35 StaRUG: AG Hamburg (Unternehmenssitz). Die Anzeige löst den Restrukturierungsrahmen aus. Die Schuldnerin ist ab diesem Zeitpunkt "Restrukturierungsschuldnerin" und unterliegt den Pflichten nach §§ 32–34 StaRUG.
 
-**Schritt 2 – Stabilisierungsanordnung (§ 49 StaRUG):**  
+**Schritt 2 – Stabilisierungsanordnung (§ 49 StaRUG):**
 Antrag auf Stabilisierungsanordnung, um NordBank-Vollstreckung zu unterbinden. Voraussetzung: Mehr als die Hälfte der planbetroffenen Gläubiger (gemessen an Stimmrechten) unterstützen das Vorhaben, oder die Anordnung ist zur Wahrung der Verhandlungsgrundlage erforderlich.
 
-**Schritt 3 – Planabstimmung (§§ 17–21 StaRUG):**  
+**Schritt 3 – Planabstimmung (§§ 17–21 StaRUG):**
 Abstimmung in Klassen; 75 % Mehrheit je Klasse erforderlich. Cram-Down nach § 26 StaRUG möglich, wenn: (a) mind. eine Klasse zugestimmt hat, (b) kein Gläubiger schlechter gestellt wird, (c) das Gericht die Mehrheitsentscheidung der zustimmenden Klassen bestätigt.
 
-**Schritt 4 – Planbestätigung (§ 74 StaRUG):**  
+**Schritt 4 – Planbestätigung (§ 74 StaRUG):**
 Das Restrukturierungsgericht bestätigt den Plan; ab Rechtskraft ist der Plan verbindlich.
 
-**Schritt 5 – Planvollzug:**  
+**Schritt 5 – Planvollzug:**
 Keine förmliche Überwachung gesetzlich zwingend; im Plan sollte dennoch eine Monitoring-Regelung aufgenommen werden.
 
 ### 2.3 Kritische Würdigung StaRUG

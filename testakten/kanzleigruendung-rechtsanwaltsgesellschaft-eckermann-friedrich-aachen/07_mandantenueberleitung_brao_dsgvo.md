@@ -1,8 +1,8 @@
 # 07 Mandantenüberleitung — BRAO § 43a, DSGVO Art. 6, RAK-Genehmigung
 
-**Aktenzeichen:** KBH-2026-001-EFS  
-**Stand:** 05. April 2026  
-**Bearbeiter:** RA Monika Hellwig  
+**Aktenzeichen:** KBH-2026-001-EFS
+**Stand:** 05. April 2026
+**Bearbeiter:** RA Monika Hellwig
 
 ---
 
@@ -66,9 +66,9 @@ Die EFS-GmbH muss ab Tag 1 ein Verzeichnis gemäß Art. 30 DSGVO führen. Vorlag
 ### Entwurf Mandanteninformation (verkürzt)
 
 > Sehr geehrte Damen und Herren,
-> 
+>
 > wir freuen uns, Ihnen mitteilen zu können, dass wir zum 01. Mai 2026 die Kanzlei **Eckermann Friedrich Sandhof Rechtsanwaltsgesellschaft mbH (EFS Recht)** in Aachen gründen. Ihr bisheriges Mandat soll — mit Ihrer ausdrücklichen Zustimmung — auf die neue Gesellschaft übergeleitet werden. Ihre betreuende Anwältin/Ihr betreuender Anwalt bleibt dieselbe Person. Alle gesetzlichen Pflichten (Verschwiegenheit, Interessenwahrungspflicht) bleiben unverändert bestehen.
-> 
+>
 > Bitte unterzeichnen Sie beiliegendes Einwilligungsformular und senden Sie es bis zum 15. April 2026 zurück.
 
 Das Einwilligungsformular enthält eine DSGVO-konforme Datenschutzerklärung der EFS-GmbH (Art. 13/14 DSGVO).

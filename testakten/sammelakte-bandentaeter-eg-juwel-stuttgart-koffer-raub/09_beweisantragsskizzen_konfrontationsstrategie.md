@@ -1,8 +1,8 @@
 # Aktenstück 09 — Beweis-Antragsskizzen und Konfrontationsstrategie
 
-**Verfahren:** StA Stuttgart 4 Js 18.422/26  
-**Hauptverhandlung:** LG Stuttgart 4. Grosse Strafkammer, KLs 4 Js 18.422/26  
-**Bearbeitung:** Alle Verteidiger (koordiniert, eigene Strategien)  
+**Verfahren:** StA Stuttgart 4 Js 18.422/26
+**Hauptverhandlung:** LG Stuttgart 4. Grosse Strafkammer, KLs 4 Js 18.422/26
+**Bearbeitung:** Alle Verteidiger (koordiniert, eigene Strategien)
 **Stand:** 30.01.2026
 
 ---
@@ -34,7 +34,7 @@
 **Beweisbehauptung:**
 Die im Verfahren als "SkyECC-Nachrichten des Nutzers MK_Koffer" bezeichneten Daten sind nicht dem Beschuldigten Korbiel zuzuordnen und darüber hinaus wegen des fehlenden EEA-Nachweises unverwertbar.
 
-**Beweismittel:** 
+**Beweismittel:**
 1. Sachverständiger Dipl.-Inf. Dr. Christoph Eckert (Fraunhofer AISEC), zu beauftragen mit Gutachten: Kann ohne IMEI-Nachweis und ohne Herausgabe des vollständigen EEA-Vorgangs die Nutzeridentität "MK_Koffer" = Korbiel sicher zugeordnet werden?
 2. Vorlage der vollständigen EEA vom 13.04.2020 (original französisch) nebst Begleitunterlagen (§ 91a IRG)
 

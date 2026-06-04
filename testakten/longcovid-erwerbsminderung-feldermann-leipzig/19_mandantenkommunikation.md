@@ -1,16 +1,16 @@
 # Mandantenkommunikation – Feldermann
 
-**Zeitraum:** 17.02.2026 – 10.03.2026  
-**Kommunikationsart:** Telefon, E-Mail, Kanzleitermin  
-**Protokoll:** RA Sonnemann / Krüger  
+**Zeitraum:** 17.02.2026 – 10.03.2026
+**Kommunikationsart:** Telefon, E-Mail, Kanzleitermin
+**Protokoll:** RA Sonnemann / Krüger
 
 ---
 
 ## Gesprächsprotokoll 1 – Telefonat 19.02.2026
 
-**Zeit:** 16:15 Uhr  
-**Teilnehmende:** RA Sonnemann, Frau Feldermann  
-**Dauer:** ca. 20 min  
+**Zeit:** 16:15 Uhr
+**Teilnehmende:** RA Sonnemann, Frau Feldermann
+**Dauer:** ca. 20 min
 
 **Inhalt:**
 - RA Sonnemann informiert über Einreichung des Eilantrags SG Leipzig (S 7 AS 188/26 ER) noch heute.
@@ -22,8 +22,8 @@
 
 ## E-Mail – Mandantin an Kanzlei – 22.02.2026
 
-**Von:** vivian.feldermann@gmx.de  
-**An:** kanzlei@sonnemann-sozialrecht.de  
+**Von:** vivian.feldermann@gmx.de
+**An:** kanzlei@sonnemann-sozialrecht.de
 **Betreff:** Dokumente für Sie + Frage zu Widerspruch UKBW
 
 Sehr geehrte Frau Sonnemann,
@@ -37,15 +37,15 @@ Außerdem: Ich habe heute einen Brief von der BGW bekommen. Die schreiben, dass 
 
 Ich hoffe, ich mache das alles richtig so. Ohne Sie würde ich gerade nicht wissen, was ich tun soll.
 
-Viele Grüße  
+Viele Grüße
 Vivian Feldermann
 
 ---
 
 ## E-Mail – Kanzlei an Mandantin – 23.02.2026
 
-**Von:** kanzlei@sonnemann-sozialrecht.de  
-**An:** vivian.feldermann@gmx.de  
+**Von:** kanzlei@sonnemann-sozialrecht.de
+**An:** vivian.feldermann@gmx.de
 **Betreff:** AW: Dokumente für Sie + Frage zu Widerspruch UKBW
 
 Liebe Frau Feldermann,
@@ -58,16 +58,16 @@ Sie machen alles richtig. Vertrauen Sie dem Verfahren. Wir haben gute Argumente.
 
 Ich werde mich Anfang März nach den Akteneinsichten (04./05.03.) direkt melden.
 
-Herzliche Grüße  
+Herzliche Grüße
 **Marit Sonnemann**
 
 ---
 
 ## Gesprächsprotokoll 2 – Telefonat 05.03.2026
 
-**Zeit:** 14:30 Uhr  
-**Teilnehmende:** RA Sonnemann, Frau Feldermann  
-**Dauer:** ca. 35 min  
+**Zeit:** 14:30 Uhr
+**Teilnehmende:** RA Sonnemann, Frau Feldermann
+**Dauer:** ca. 35 min
 
 **Inhalt:**
 - RA Sonnemann berichtet über Ergebnisse Akteneinsichten DRV (04.03.) und UKBW (05.03.)
@@ -81,8 +81,8 @@ Herzliche Grüße
 
 ## E-Mail – Mandantin an Kanzlei – 10.03.2026
 
-**Von:** vivian.feldermann@gmx.de  
-**An:** kanzlei@sonnemann-sozialrecht.de  
+**Von:** vivian.feldermann@gmx.de
+**An:** kanzlei@sonnemann-sozialrecht.de
 **Betreff:** Jobcenter meldet sich nicht
 
 Sehr geehrte Frau Sonnemann,
@@ -91,15 +91,15 @@ das Jobcenter hat auf unseren Widerspruch vom November noch nicht geantwortet. I
 
 Was soll ich tun?
 
-Mit freundlichen Grüßen  
+Mit freundlichen Grüßen
 Vivian Feldermann
 
 ---
 
 ## E-Mail – Kanzlei an Mandantin – 10.03.2026
 
-**Von:** kanzlei@sonnemann-sozialrecht.de  
-**An:** vivian.feldermann@gmx.de  
+**Von:** kanzlei@sonnemann-sozialrecht.de
+**An:** vivian.feldermann@gmx.de
 **Betreff:** AW: Jobcenter meldet sich nicht
 
 Liebe Frau Feldermann,
@@ -112,10 +112,10 @@ Zum Jobcenter-Widerspruch: Die Frist für eine Widerspruchsentscheidung beträgt
 
 Ich melde mich sofort nach dem SG-Termin am 12.03.
 
-Herzliche Grüße  
+Herzliche Grüße
 **Marit Sonnemann**
 
 ---
 
-*Kanzleinotiz: Mandantin reagiert auf Belastungen sehr empfindlich (ME/CFS, PEM). Kommunikation kurz und klar halten. Keine unnötigen Informationen übermitteln, die zusätzlichen Stress erzeugen.*  
+*Kanzleinotiz: Mandantin reagiert auf Belastungen sehr empfindlich (ME/CFS, PEM). Kommunikation kurz und klar halten. Keine unnötigen Informationen übermitteln, die zusätzlichen Stress erzeugen.*
 *Kanzlei-AZ: SON-2026-0047-FEL*

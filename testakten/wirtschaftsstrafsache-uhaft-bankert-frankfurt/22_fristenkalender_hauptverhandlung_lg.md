@@ -1,8 +1,8 @@
 # Fristenkalender Hauptverhandlung — LG Frankfurt, 5/28 KLs 122/25
 
-**Marx Strafverteidigung Frankfurt**  
-**Kanzlei-intern — Fristen und HV-Planung**  
-Erstellt: 12. Mai 2025 — Laufend aktualisiert  
+**Marx Strafverteidigung Frankfurt**
+**Kanzlei-intern — Fristen und HV-Planung**
+Erstellt: 12. Mai 2025 — Laufend aktualisiert
 Az.: 5/28 KLs 122/25 / 5400 Js 14782/24
 
 ---
@@ -99,5 +99,5 @@ Vor dem ersten HV-Tag (23.06.2025) sicherstellen:
 
 ---
 
-*Dr. Friederike Marx — Marx Strafverteidigung Frankfurt — Az. 5/28 KLs 122/25*  
+*Dr. Friederike Marx — Marx Strafverteidigung Frankfurt — Az. 5/28 KLs 122/25*
 *Stand: 12.05.2025 — Fortlaufend zu aktualisieren*

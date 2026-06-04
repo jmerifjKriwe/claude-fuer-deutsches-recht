@@ -1,7 +1,7 @@
 # Vertragsschluss — Antrag und Annahme (§§ 145–147 BGB) im Fall Pohlmann
 
-**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg  
-**Datum:** 14. Mai 2026  
+**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg
+**Datum:** 14. Mai 2026
 **Bezug:** Zustandekommen des Pachtvertrags 03.02.2026; Containerbestellung Lübbers; Klausurgrundlagen
 
 ---
@@ -114,9 +114,9 @@ Hatte Meißen GmbH in ihrem Angebot andere Bedingungen als in Lübbers Anfrage g
 | Beispiele | Individuelles Angebot mit Preis und Menge | Katalog, Schaufensterauslage (BGH NJW 1980, 1388), Internetshop (str.) |
 | Rechtsfolge | Vertrag kommt mit Annahme zustande | Kein Vertrag; Vertragspartner muss erst Antrag stellen |
 
-**Quellen:**  
-§§ 145–155 BGB: https://dejure.org/gesetze/BGB/145.html  
-§ 150 BGB: https://dejure.org/gesetze/BGB/150.html  
-§ 154 BGB: https://dejure.org/gesetze/BGB/154.html  
-BGH NJW 1980, 1388 (Schaufensterauslage, Invitatio): https://openjur.de  
+**Quellen:**
+§§ 145–155 BGB: https://dejure.org/gesetze/BGB/145.html
+§ 150 BGB: https://dejure.org/gesetze/BGB/150.html
+§ 154 BGB: https://dejure.org/gesetze/BGB/154.html
+BGH NJW 1980, 1388 (Schaufensterauslage, Invitatio): https://openjur.de
 BGH NJW 2014, 1951 (Vertragsschluss per E-Mail, Annahmefrist § 147 II BGB): https://www.bundesgerichtshof.de

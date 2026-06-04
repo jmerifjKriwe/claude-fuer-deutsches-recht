@@ -1,9 +1,9 @@
 # Aktenstück 17 — BNetzA: Marktüberwachung KI-VO, Verfahrensstand, Auskunftspflicht
 
-**Aktenzeichen:** 2026-V-0427  
-**BNetzA-Verfahren:** 1-101.05-2026/MA-008  
-**Erstellt:** 25.04.2026  
-**Bearbeitung:** RAin Dr. Henrietta Vellbruck-Steinheim  
+**Aktenzeichen:** 2026-V-0427
+**BNetzA-Verfahren:** 1-101.05-2026/MA-008
+**Erstellt:** 25.04.2026
+**Bearbeitung:** RAin Dr. Henrietta Vellbruck-Steinheim
 **Rechtsgrundlage:** Art. 74 ff. KI-VO (EU) 2024/1689; KI-VO-Durchführungsgesetz (KI-VoDG, in Kraft ab 01.01.2026)
 
 ---
@@ -85,5 +85,5 @@ Diese Strategie kann bußgeldmindernd wirken (vgl. Art. 99 Abs. 6 KI-VO: Berück
 
 ---
 
-*Heidelberg, 25.04.2026*  
+*Heidelberg, 25.04.2026*
 *RAin Dr. Henrietta Vellbruck-Steinheim — Az. 2026-V-0427*

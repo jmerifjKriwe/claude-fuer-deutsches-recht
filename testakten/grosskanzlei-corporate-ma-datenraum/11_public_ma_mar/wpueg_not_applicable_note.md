@@ -1,9 +1,9 @@
 # WpÜG-Anwendbarkeits-Vermerk — Projekt Silberfalke
 
-**Aktenzeichen:** MA-2026-SF-001  
-**Erstellt:** 15.05.2026  
-**Verfasser:** Dr. Kessler (Kapitalmarktrecht)  
-**Adressat:** Deal Team intern  
+**Aktenzeichen:** MA-2026-SF-001
+**Erstellt:** 15.05.2026
+**Verfasser:** Dr. Kessler (Kapitalmarktrecht)
+**Adressat:** Deal Team intern
 **Zweck:** Kurzdokumentation der WpÜG-Nichtanwendbarkeit; Ablage zu Compliance-Zwecken
 
 ---

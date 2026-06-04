@@ -1,8 +1,8 @@
 # Schreib-Canvas-Karten — Sache Meyer ./. Kranz
 
-**Akte:** 2026-MIET-004  
-**Verfahren:** AG Mitte, 12 C 88/26  
-**Stand:** 20.05.2026, Bearbeiterin: Jana Reuter  
+**Akte:** 2026-MIET-004
+**Verfahren:** AG Mitte, 12 C 88/26
+**Stand:** 20.05.2026, Bearbeiterin: Jana Reuter
 **Zweck:** Strukturiertes Arbeitsblatt für die Schriftsatzantwort auf die Klageerwiderung des Vermieters; jede Karte entspricht einem Baustein des fertigen Schriftsatzes.
 
 ---

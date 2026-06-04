@@ -1,9 +1,9 @@
 # Fristenübersicht — Mandat Tannenbruck (alle Verfahren)
 
-**Kanzlei:** Hoffmann Verkehrsrecht Lüdenscheid  
-**Mandant:** Holger Tannenbruck  
-**Stand:** 25.04.2026  
-**Bearbeiter:** RA Sebastian Hoffmann  
+**Kanzlei:** Hoffmann Verkehrsrecht Lüdenscheid
+**Mandant:** Holger Tannenbruck
+**Stand:** 25.04.2026
+**Bearbeiter:** RA Sebastian Hoffmann
 
 ---
 

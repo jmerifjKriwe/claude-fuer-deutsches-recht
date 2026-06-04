@@ -1,25 +1,25 @@
 # Klageschrift – Räumungs- und Zahlungsklage (Entwurf)
 
-**Amtsgericht Köln**  
-Justizzentrum Köln, Luxemburger Straße 101  
+**Amtsgericht Köln**
+Justizzentrum Köln, Luxemburger Straße 101
 50939 Köln
 
 Köln, den **20. Mai 2026** *(Entwurf, noch nicht eingereicht)*
 
 ---
 
-**Kläger:**  
-1. Dr. Cornelia Straßburger, Bachemer Straße 84, 50931 Köln-Lindenthal  
-2. Dr. Boris Straßburger-Möhren, Bachemer Straße 84, 50931 Köln-Lindenthal  
+**Kläger:**
+1. Dr. Cornelia Straßburger, Bachemer Straße 84, 50931 Köln-Lindenthal
+2. Dr. Boris Straßburger-Möhren, Bachemer Straße 84, 50931 Köln-Lindenthal
 
-*(beide vertreten durch)*  
-Rechtsanwältin Vanessa Hauck-Brüggemann, Fachanwältin für Miet- und WEG-Recht  
+*(beide vertreten durch)*
+Rechtsanwältin Vanessa Hauck-Brüggemann, Fachanwältin für Miet- und WEG-Recht
 Kanzlei Hauck-Brüggemann Mietrecht, Berrenrather Straße 114, 50937 Köln-Sülz
 
-**Beklagte:**  
-1. Levi Albrecht, Rolandstraße 27a, 50677 Köln  
-2. Femke van Drosten, Rolandstraße 27a, 50677 Köln  
-3. Mathilda Sonnenfeld, Rolandstraße 27a, 50677 Köln  
+**Beklagte:**
+1. Levi Albrecht, Rolandstraße 27a, 50677 Köln
+2. Femke van Drosten, Rolandstraße 27a, 50677 Köln
+3. Mathilda Sonnenfeld, Rolandstraße 27a, 50677 Köln
 
 ---
 
@@ -49,7 +49,7 @@ Die Kläger beantragen:
 
 **2.** Die Beklagten werden als Gesamtschuldner verurteilt, an die Kläger **1.966,80 EUR** nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit Rechtshängigkeit zu zahlen.
 
-*(Hilfsweise für den Fall, dass das Gericht eine Schonfrist gem. § 574a BGB gewährt:)*  
+*(Hilfsweise für den Fall, dass das Gericht eine Schonfrist gem. § 574a BGB gewährt:)*
 **3.** Das Mietverhältnis wird zu den bisherigen Bedingungen auf bestimmte Zeit (Angemessenheit nach Ermessen des Gerichts, längstens bis 31.07.2028) fortgesetzt.
 
 ---
@@ -96,15 +96,15 @@ Die Beklagten haben die Miete ab 01.02.2026 um 30 % gemindert (monatlich 655,20 
 | Juni 2026 | 327,60 EUR |
 | **Zwischensumme** | **1.638,00 EUR** |
 
-Zusätzlich offene Januarmiete (Streit über NK-Abrechnung 2024): **328,80 EUR**.  
+Zusätzlich offene Januarmiete (Streit über NK-Abrechnung 2024): **328,80 EUR**.
 **Gesamtforderung Zahlungsantrag: 1.966,80 EUR**.
 
 ---
 
 ### III. Streitwert
 
-Räumungsklage: Jahresmiete netto = 12 × 1.804,00 = 21.648 EUR (§ 41 GKG i. V. m. § 6 ZPO).  
-Zahlungsklage: 1.966,80 EUR.  
+Räumungsklage: Jahresmiete netto = 12 × 1.804,00 = 21.648 EUR (§ 41 GKG i. V. m. § 6 ZPO).
+Zahlungsklage: 1.966,80 EUR.
 **Gesamtstreitwert: 23.614,80 EUR.**
 
 ---
@@ -127,11 +127,11 @@ Mit freundlichen Grüßen
 
 **Hauck-Brüggemann Mietrecht**
 
-_________________________  
-Vanessa Hauck-Brüggemann  
+_________________________
+Vanessa Hauck-Brüggemann
 Rechtsanwältin, Fachanwältin für Miet- und WEG-Recht
 
 ---
 
-**Anlagen K-1 bis K-7** (wie bezeichnet)  
+**Anlagen K-1 bis K-7** (wie bezeichnet)
 *Entwurf – intern – noch nicht eingereicht*

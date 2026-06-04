@@ -1,8 +1,8 @@
 # 14 — Beschwerde OLG Hamm 27 Wx 22/26: Registerbeschwerde und Beschwerdebegründung
 
-**Akte:** DWSP/2026/GR-4417  
-**Erstellt:** 28.04.2026  
-**Bearbeiter:** Ass. iur. Miriam Sandtenbruch  
+**Akte:** DWSP/2026/GR-4417
+**Erstellt:** 28.04.2026
+**Bearbeiter:** Ass. iur. Miriam Sandtenbruch
 
 ---
 
@@ -80,5 +80,5 @@ Das OLG-Verfahren ist eng verknüpft mit dem LG-Bielefeld-Verfahren:
 
 ---
 
-*Erstellt: 28.04.2026 — Ass. iur. Miriam Sandtenbruch*  
+*Erstellt: 28.04.2026 — Ass. iur. Miriam Sandtenbruch*
 *Referenz: §§ 58 ff. FamFG (dejure.org/gesetze/FamFG/58.html); § 214 UmwG; § 228 UmwG; OLG Hamm 27 Wx 302/19*

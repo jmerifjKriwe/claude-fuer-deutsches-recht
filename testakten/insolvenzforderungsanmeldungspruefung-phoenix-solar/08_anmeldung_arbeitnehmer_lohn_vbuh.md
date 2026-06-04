@@ -1,8 +1,8 @@
 # Forderungsanmeldung – Lena Vogt (Lohn vor Insolvenzgeld-Zeitraum, vbuH-Behauptung)
 
-**Aktenzeichen:** 35 IN 417/26  
-**Gläubiger-ID (intern):** G005  
-**Eingang:** 10. Mai 2026 (Briefpost)  
+**Aktenzeichen:** 35 IN 417/26
+**Gläubiger-ID (intern):** G005
+**Eingang:** 10. Mai 2026 (Briefpost)
 **Anmeldungstyp:** Einfache Insolvenzforderung (§ 38 InsO) für Lohnrückstand; vbuH-Ankreuzung (§ 302 Nr. 1 InsO) bisher nicht schlüssig begründet
 
 ---

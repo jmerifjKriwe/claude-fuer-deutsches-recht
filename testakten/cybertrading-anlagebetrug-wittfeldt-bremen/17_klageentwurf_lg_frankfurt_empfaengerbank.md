@@ -1,30 +1,30 @@
 # Klageentwurf – LG Frankfurt a.M. ./. Trustless Banking S.A. (EAPO + Hauptklage)
 
-**Gerichtsstand:** Landgericht Frankfurt am Main (zuständig kraft Sitzort Empfängerbank im EU-Ausland; Frankfurt als internationales Finanzzentrum; Art. 6 Abs. 1 VO (EU) 655/2014)  
+**Gerichtsstand:** Landgericht Frankfurt am Main (zuständig kraft Sitzort Empfängerbank im EU-Ausland; Frankfurt als internationales Finanzzentrum; Art. 6 Abs. 1 VO (EU) 655/2014)
 
 ---
 
-**An das**  
-**Landgericht Frankfurt am Main**  
-**– Internationale Handelskammer –**  
-Gerichtsstraße 2  
-60313 Frankfurt am Main  
+**An das**
+**Landgericht Frankfurt am Main**
+**– Internationale Handelskammer –**
+Gerichtsstraße 2
+60313 Frankfurt am Main
 
-**Klägerin:**  
-Eva-Maria Wittfeldt, geb. 14.03.1962, Kiefernstraße 17, 28757 Bremen  
-– Klägerin –  
+**Klägerin:**
+Eva-Maria Wittfeldt, geb. 14.03.1962, Kiefernstraße 17, 28757 Bremen
+– Klägerin –
 
-vertreten durch: RA Dr. Severin Pflüger, Kanzlei Pflüger Schoeneberg Bankrecht, Bremen  
+vertreten durch: RA Dr. Severin Pflüger, Kanzlei Pflüger Schoeneberg Bankrecht, Bremen
 
-**Beklagte:**  
-Trustless Banking S.A.  
-Tallinn, Estland (EU-Mitgliedstaat)  
-Zustelladresse: [wird nach EAPO-Verfahren ergänzt]  
-– Beklagte –  
+**Beklagte:**
+Trustless Banking S.A.
+Tallinn, Estland (EU-Mitgliedstaat)
+Zustelladresse: [wird nach EAPO-Verfahren ergänzt]
+– Beklagte –
 
 ---
 
-## KLAGE  
+## KLAGE
 ### (Entwurf, Stand 30.04.2026)
 
 ---
@@ -68,8 +68,8 @@ Die Beklagte ist als EU-lizenzierter Zahlungsdienstleister nach 4AMLD / 5AMLD (u
 
 Es ist höchst wahrscheinlich (und durch das laufende Ermittlungsverfahren zu verifizieren), dass:
 
-a) Die Konten EE38 2200 2210 8847 3801 bis 3803 unter falschen oder Alias-Identitäten eröffnet wurden.  
-b) Die eingehenden Beträge unmittelbar nach Eingang weitertransferiert wurden (Durchlauf-Konten, typisch für Money-Mule-Strukturen).  
+a) Die Konten EE38 2200 2210 8847 3801 bis 3803 unter falschen oder Alias-Identitäten eröffnet wurden.
+b) Die eingehenden Beträge unmittelbar nach Eingang weitertransferiert wurden (Durchlauf-Konten, typisch für Money-Mule-Strukturen).
 c) Trustless Banking S.A. trotz erkennbarer AML-Merkmale keine Verdachtsmeldung an die FIU Estland erstattet hat.
 
 Sofern die Beklagte die Herkunft der Gelder kannte oder bei pflichtgemäßer Sorgfalt hätte kennen können, haftet sie nach § 826 BGB (sittenwidrige Schädigung) und Art. 1382 Code Civil (estn. Recht; alternativ zu prüfen) sowie aus ungerechtfertigter Bereicherung (§ 812 BGB / estn. VÕS § 1028 ff.).
@@ -121,8 +121,8 @@ Da die Gefahr besteht, dass die Mittel auf den estnischen Konten bereits weitert
 
 ---
 
-**Bremen, 30. April 2026**  
-**Rechtsanwalt Dr. Severin Pflüger**  
+**Bremen, 30. April 2026**
+**Rechtsanwalt Dr. Severin Pflüger**
 Fachanwalt für Bank- und Kapitalmarktrecht
 
 *(Entwurf – Abstimmung mit estnischer Korrespondenzanwältin ausstehend)*

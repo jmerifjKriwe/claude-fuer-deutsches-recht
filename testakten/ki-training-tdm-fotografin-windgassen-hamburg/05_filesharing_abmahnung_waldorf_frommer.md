@@ -1,18 +1,18 @@
 # Aktenstück: Waldorf Frommer Abmahnung — Analyse und Verteidigungsstrategie
 
-**AZ intern:** 26-UMR-0084 / Teilakte Filesharing  
-**AZ AG München:** 155 C 18801/26  
-**Datum Abmahnung:** 06.01.2026 (Eingang Briefkasten 09.01.2026)  
-**Bearbeiterin:** Dr. Kreidler-Bremer  
+**AZ intern:** 26-UMR-0084 / Teilakte Filesharing
+**AZ AG München:** 155 C 18801/26
+**Datum Abmahnung:** 06.01.2026 (Eingang Briefkasten 09.01.2026)
+**Bearbeiterin:** Dr. Kreidler-Bremer
 **Stand:** 21.01.2026
 
 ---
 
 ## I. Abmahnschreiben Waldorf Frommer — Zusammenfassung
 
-**Absender:** Waldorf Frommer Rechtsanwälte, Beethovenstraße 11, 80336 München  
-**Mandanten:** [Name geschwärzt], vertreten durch Waldorf Frommer  
-**Empfängerin:** Mira Windgassen, Frickestraße 29, 20251 Hamburg  
+**Absender:** Waldorf Frommer Rechtsanwälte, Beethovenstraße 11, 80336 München
+**Mandanten:** [Name geschwärzt], vertreten durch Waldorf Frommer
+**Empfängerin:** Mira Windgassen, Frickestraße 29, 20251 Hamburg
 
 ### Abgemahnte Handlungen:
 Über IP-Adresse `91.65.XXX.XXX` wurden laut Abmahnung am **13.11.2025 zwischen 21:42:17 und 22:14:33 Uhr** folgende urheberrechtlich geschützten Werke über BitTorrent angeboten:
@@ -23,10 +23,10 @@
 | Barbie (Gerwig, 2023) | Warner Bros. Entertainment GmbH | 21:52:44–21:56:19 | `b7d2...` |
 | Mission: Impossible — Dead Reckoning Part One | Paramount Pictures Germany GmbH | 22:09:11–22:14:33 | `e9c1...` |
 
-**Lizenzschadenersatz:** Je 250 EUR + 100 EUR (besondere Bekanntheit) = **850 EUR gesamt**  
-**Abmahnkosten (RVG):** 1,3 Geschäftsgebühr nach Nr. 2300 VV-RVG, Streitwert 10.000 EUR = **1.295 EUR**  
-**Gesamtforderung:** 2.145 EUR  
-**Reaktionsfrist:** 30.01.2026  
+**Lizenzschadenersatz:** Je 250 EUR + 100 EUR (besondere Bekanntheit) = **850 EUR gesamt**
+**Abmahnkosten (RVG):** 1,3 Geschäftsgebühr nach Nr. 2300 VV-RVG, Streitwert 10.000 EUR = **1.295 EUR**
+**Gesamtforderung:** 2.145 EUR
+**Reaktionsfrist:** 30.01.2026
 
 Waldorf Frommer fordert:
 1. Unterzeichnung der beigefügten strafbewehrten Unterlassungserklärung (Vertragsstrafe 5.001 EUR je Verstoß)
@@ -52,7 +52,7 @@ Windgassen ist als Anschlussinhaberin grundsätzlich für das Filesharing über 
 
 **Kritischer Punkt:** Felix ist 14 Jahre alt und somit **beschränkt geschäftsfähig** (§ 106 BGB), aber für unerlaubte Handlungen eigenverantwortlich (§ 828 Abs. 3 BGB). Die elterliche **Aufsichtspflicht nach § 832 BGB** ist nicht automatisch verletzt, wenn ein 14-Jähriger das Internet nutzt — entscheidend ist, ob eine anlassbezogene Belehrung stattgefunden hat.
 
-**BGH, Urteil vom 11.06.2015 — I ZR 7/14 (Tauschbörse III):**  
+**BGH, Urteil vom 11.06.2015 — I ZR 7/14 (Tauschbörse III):**
 > „Eltern genügen ihrer Aufsichtspflicht über ein normal entwickeltes 13-jähriges Kind, das ihre grundlegenden Gebote und Verbote befolgt, regelmäßig bereits dadurch, dass sie das Kind über die Rechtswidrigkeit einer Teilnahme an Internettauschbörsen belehren und ihm eine Teilnahme daran verbieten. Eine Verpflichtung der Eltern, die Nutzung des Internets durch ihr Kind zu überwachen, den Computer des Kindes zu kontrollieren oder dem Kind den Zugang zum Internet (teilweise) zu sperren, besteht grundsätzlich nicht."
 
 **Frage an Windgassen:** Hat sie Felix explizit über Filesharing-Verbote belehrt? (→ erörtern im Folgegespräch)

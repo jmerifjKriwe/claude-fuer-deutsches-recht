@@ -1,8 +1,8 @@
 # Aktenstück 18 — BaFin-Schnittstelle: Finanzaufsicht und Datenschutz-Berührungspunkte
 
-**Aktenzeichen:** 2026-V-0427  
-**Erstellt:** 26.04.2026  
-**Bearbeitung:** RA Dr. Mark Roosendaal  
+**Aktenzeichen:** 2026-V-0427
+**Erstellt:** 26.04.2026
+**Bearbeitung:** RA Dr. Mark Roosendaal
 **Rechtsgrundlage:** KI-VoDG § 5 (BaFin-Zuständigkeit Finanzsektor); DSGVO Art. 9, 35; BfDI Az. 13-3120/004#0117
 
 ---
@@ -72,5 +72,5 @@ Art. 22 Abs. 1 DSGVO: Personen haben das Recht, nicht einer ausschließlich auto
 
 ---
 
-*Heidelberg, 26.04.2026*  
+*Heidelberg, 26.04.2026*
 *RA Dr. Mark Roosendaal — Az. 2026-V-0427*

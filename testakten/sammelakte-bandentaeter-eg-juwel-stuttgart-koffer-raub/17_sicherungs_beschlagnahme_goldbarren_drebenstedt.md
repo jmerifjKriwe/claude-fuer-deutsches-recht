@@ -1,8 +1,8 @@
 # Aktenstück 17 — Sicherungs-Beschlagnahme Goldbarren: EG-Maschen-Wohnung Drebenstedt
 
-**Verfahren:** StA Stuttgart 4 Js 18.422/26  
-**Gegenstand:** Goldbarren (1 kg Feingold 999), sichergestellt bei Hausdurchsuchung Drebenstedt (Wilhelmstr. 34, 70372 Stuttgart-Bad Cannstatt, 22.10.2025)  
-**Bearbeitung:** RA Walther Steinbach (für Drebenstedt)  
+**Verfahren:** StA Stuttgart 4 Js 18.422/26
+**Gegenstand:** Goldbarren (1 kg Feingold 999), sichergestellt bei Hausdurchsuchung Drebenstedt (Wilhelmstr. 34, 70372 Stuttgart-Bad Cannstatt, 22.10.2025)
+**Bearbeitung:** RA Walther Steinbach (für Drebenstedt)
 **Stand:** 09.02.2026
 
 ---

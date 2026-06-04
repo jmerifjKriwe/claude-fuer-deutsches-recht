@@ -1,10 +1,10 @@
 # Tarifierungsmemo und vZTA-Antragsentwurf: CNC-Steuermodul GX-900
 
-**Dokumenttyp:** Zolltarifliches Memo + Antragsentwurf vZTA  
-**Aktenzeichen:** GM-ZOLL-2026-008  
-**Erstellt:** 16. April 2026  
-**Verfasser:** Benedikt Schramm, Zollbeauftragter  
-**Adressat:** Geschäftsführung, Exportkontrollabteilung  
+**Dokumenttyp:** Zolltarifliches Memo + Antragsentwurf vZTA
+**Aktenzeichen:** GM-ZOLL-2026-008
+**Erstellt:** 16. April 2026
+**Verfasser:** Benedikt Schramm, Zollbeauftragter
+**Adressat:** Geschäftsführung, Exportkontrollabteilung
 
 ---
 
@@ -110,23 +110,23 @@ Für die eigenen Ausfuhren der Globalmaschinen GmbH nach Ländern mit FHA-Präfe
 
 ---
 
-**Antrag auf Erteilung einer verbindlichen Zolltarifauskunft**  
+**Antrag auf Erteilung einer verbindlichen Zolltarifauskunft**
 gemäß Art. 33 Unionszollkodex (UZK), VO (EU) Nr. 952/2013
 
 **Antragsteller:**
 
-> Globalmaschinen GmbH  
-> Rotebühlplatz 18  
-> 70178 Stuttgart  
-> EORI-Nummer: DE 1234567890001  
-> Umsatzsteuer-ID: DE 987654321  
+> Globalmaschinen GmbH
+> Rotebühlplatz 18
+> 70178 Stuttgart
+> EORI-Nummer: DE 1234567890001
+> Umsatzsteuer-ID: DE 987654321
 > Ansprechpartner: Benedikt Schramm, Tel. +49 711 123456-78
 
 **Zuständige Zollbehörde:**
 
-> Generalzolldirektion  
-> Referat Verbindliche Zolltarifauskünfte  
-> Carusufer 3–5  
+> Generalzolldirektion
+> Referat Verbindliche Zolltarifauskünfte
+> Carusufer 3–5
 > 01099 Dresden
 
 **Betreff:** Antrag auf vZTA für CNC-Steuermodul GX-900
@@ -165,8 +165,8 @@ Der Antragsteller bestätigt die Vollständigkeit und Richtigkeit der gemachten 
 
 ---
 
-*Stuttgart, 16.04.2026*  
-*Benedikt Schramm, Zollbeauftragter*  
+*Stuttgart, 16.04.2026*
+*Benedikt Schramm, Zollbeauftragter*
 *Globalmaschinen GmbH*
 
 ---

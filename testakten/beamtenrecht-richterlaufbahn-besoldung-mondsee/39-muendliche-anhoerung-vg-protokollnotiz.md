@@ -1,6 +1,6 @@
 # Protokollnotiz zur mündlichen Erörterung vor dem Verwaltungsgericht
 
-**Termin:** 24.06.2026, 10:00 Uhr, Saal 2.114  
+**Termin:** 24.06.2026, 10:00 Uhr, Saal 2.114
 **Anwesend:** Vorsitzender Richter am Verwaltungsgericht Dr. Langenfeld, Berichterstatterin Dr. Eschenau, ehrenamtliche Richter nicht geladen; für die Antragstellerin Rechtsanwältin Dr. Marlies Stechlin und Dr. Ottilie Mondsee; für den Antragsgegner Ministerialrätin Dr. Brückner und Regierungsdirektor Voss.
 
 ## 1. Einleitung des Gerichts

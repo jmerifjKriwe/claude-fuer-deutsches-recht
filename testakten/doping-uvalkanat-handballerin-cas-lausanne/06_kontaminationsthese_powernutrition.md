@@ -1,7 +1,7 @@
 # 06 — Kontaminationsthese: PowerNutrition GmbH, Charge 22-4188
 
-**Erstellt:** 12.03.2026  
-**Bearbeiter:** RA Prof. Dr. Markus Lentze / RAin Sophie Wenderlich  
+**Erstellt:** 12.03.2026
+**Bearbeiter:** RA Prof. Dr. Markus Lentze / RAin Sophie Wenderlich
 **AZ:** SU/DOPING/2026-001
 
 ---
@@ -10,13 +10,13 @@
 
 ### 1.1 Das Produkt
 
-**Produkt:** RecoveryMax Pro  
-**Hersteller:** PowerNutrition GmbH, Lindauer Straße 88, 87700 Memmingen  
-**Charge:** 22-4188  
-**Mindesthaltbarkeitsdatum:** 31.08.2026  
-**Deklarierte Inhaltsstoffe:** L-Carnitin-L-Tartrat 1500 mg, Magnesiumcitrat 300 mg, Zink-Bisglycinat 25 mg, Coenzym Q10 100 mg, L-Glutamin 500 mg, B-Vitamin-Komplex; je 2 Kapseln täglich  
-**Preis:** 49,90 EUR pro Dose (60 Kapseln, 30 Tage)  
-**Einkaufskanal:** Online-Shop PowerNutrition GmbH (Direktbestellung), Bestelldatum: 15.10.2024  
+**Produkt:** RecoveryMax Pro
+**Hersteller:** PowerNutrition GmbH, Lindauer Straße 88, 87700 Memmingen
+**Charge:** 22-4188
+**Mindesthaltbarkeitsdatum:** 31.08.2026
+**Deklarierte Inhaltsstoffe:** L-Carnitin-L-Tartrat 1500 mg, Magnesiumcitrat 300 mg, Zink-Bisglycinat 25 mg, Coenzym Q10 100 mg, L-Glutamin 500 mg, B-Vitamin-Komplex; je 2 Kapseln täglich
+**Preis:** 49,90 EUR pro Dose (60 Kapseln, 30 Tage)
+**Einkaufskanal:** Online-Shop PowerNutrition GmbH (Direktbestellung), Bestelldatum: 15.10.2024
 **Empfohlen von:** Vereinstrainerin Barbara Ehrfeld
 
 ### 1.2 Einnahmehistorie
@@ -88,10 +88,10 @@ Folgende Faktoren mildern das Bild:
 
 ### 4.1 Analyselabor
 
-**LGC Standards GmbH**, Mercatorstraße 51, 21079 Hamburg  
-WADA-akkreditiertes Prüflabor für Supplement-Analyse  
-ISO/IEC 17025:2017 zertifiziert  
-Auftrag erteilt: 10.03.2026  
+**LGC Standards GmbH**, Mercatorstraße 51, 21079 Hamburg
+WADA-akkreditiertes Prüflabor für Supplement-Analyse
+ISO/IEC 17025:2017 zertifiziert
+Auftrag erteilt: 10.03.2026
 Analyseumfang:
 - Vollständige Screeninganalyse auf alle WADA-2026-Verbotslisten-Substanzen (LC-MS/MS)
 - Quantitative Bestimmung Meldonium falls nachgewiesen

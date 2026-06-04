@@ -1,9 +1,9 @@
 # Aktenstück 04 — Ablehnungsschreiben DBV-Winterthur vom 14.02.2026
 
-**Absender:** DBV-Winterthur Vereinigte Lebensversicherung AG, Abt. BU-Leistungsprüfung  
-**Empfänger:** Marion Vogelweide, Eupener Straße 218, 52066 Aachen  
-**Datum:** 14.02.2026  
-**Ihr Zeichen / Vertragsnummer:** BUZ-1999-LV-44710  
+**Absender:** DBV-Winterthur Vereinigte Lebensversicherung AG, Abt. BU-Leistungsprüfung
+**Empfänger:** Marion Vogelweide, Eupener Straße 218, 52066 Aachen
+**Datum:** 14.02.2026
+**Ihr Zeichen / Vertragsnummer:** BUZ-1999-LV-44710
 **Unser Zeichen:** BU-LP-2026-0882-VW
 
 ---
@@ -38,9 +38,9 @@ Ein weiterer Ablehnungsgrund besteht darin, dass nach Auswertung der Befundlage 
 
 Sie haben das Recht, gegen diese Entscheidung **innerhalb von 6 Monaten** Widerspruch einzulegen. Ferner steht Ihnen die Möglichkeit offen, den **Versicherungsombudsmann** (Postfach 08 06 32, 10006 Berlin) anzurufen oder gerichtliche Schritte einzuleiten. Auf die Möglichkeit einer Klärung durch Sachverständige möchten wir gesondert hinweisen.
 
-Mit freundlichen Grüßen  
-DBV-Winterthur Vereinigte Lebensversicherung AG  
-Abteilung Leistungsprüfung Berufsunfähigkeit  
+Mit freundlichen Grüßen
+DBV-Winterthur Vereinigte Lebensversicherung AG
+Abteilung Leistungsprüfung Berufsunfähigkeit
 *gez. Schreibmaschinen-Unterschrift*
 
 ---

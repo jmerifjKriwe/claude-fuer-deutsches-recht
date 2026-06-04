@@ -1,8 +1,8 @@
 # Schiedsstellenverfahren DPMA — Sch-Urh 32/26 — VG Bild-Kunst / KI-Training-Vergütung
 
-**AZ intern:** 26-UMR-0084 / Teilakte Schiedsstelle  
-**AZ Schiedsstelle:** Sch-Urh 32/26  
-**Datum:** 24.01.2026  
+**AZ intern:** 26-UMR-0084 / Teilakte Schiedsstelle
+**AZ Schiedsstelle:** Sch-Urh 32/26
+**Datum:** 24.01.2026
 **Bearbeiterin:** Dr. Kreidler-Bremer
 
 ---
@@ -31,7 +31,7 @@ Windgassen als VG Bild-Kunst-Mitglied (Gruppe II) ist mittelbar betroffen. Dr. K
 
 ## III. Inhalt des Schiedsantrags (Zusammenfassung)
 
-**Antragstellerin:** VG Bild-Kunst, Weberstraße 61, 53113 Bonn  
+**Antragstellerin:** VG Bild-Kunst, Weberstraße 61, 53113 Bonn
 **Antragsgegnerinnen:** [Liste KI-Unternehmen, u.a. ImagineArt Inc. als Beteiligte?] — noch zu klären
 
 **Streitgegenstand:** Feststellung einer angemessenen Vergütung für die Nutzung von Lichtbildwerken im Rahmen des TDM i.S.v. § 44b UrhG für KI-Trainingszwecke.

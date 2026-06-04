@@ -1,7 +1,7 @@
 # Fristenkalender – Straßburger / Rolandstraße 27a
 
-**Kanzlei Hauck-Brüggemann Mietrecht**  
-Stand: **12. Mai 2026**  
+**Kanzlei Hauck-Brüggemann Mietrecht**
+Stand: **12. Mai 2026**
 Bearb.: RA'in Vanessa Hauck-Brüggemann / Carina Falk (Kanzleiassistentin)
 
 ---

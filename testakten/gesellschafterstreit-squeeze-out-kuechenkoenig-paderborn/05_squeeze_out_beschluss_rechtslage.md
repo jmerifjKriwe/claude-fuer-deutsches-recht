@@ -1,8 +1,8 @@
 # 05 — Squeeze-out in der GmbH & Co. KG: Rechtslage und BGH-Rechtsprechung
 
-**Akte:** DWSP/2026/GR-4417  
-**Erstellt:** 20.04.2026  
-**Bearbeiter:** Prof. Dr. Wieland Drosselberg  
+**Akte:** DWSP/2026/GR-4417
+**Erstellt:** 20.04.2026
+**Bearbeiter:** Prof. Dr. Wieland Drosselberg
 
 ---
 
@@ -56,10 +56,10 @@ Parallel zur Anfechtungsklage ist zu prüfen, ob eine einstweilige Verfügung de
 - Schritte zur Eintragung des Ausschlusses in das Handelsregister zu unternehmen
 - Die Geisen-Familie aus der Geschäftsführung zu verdrängen
 
-**Verfügungsanspruch:** Gegeben (Nichtigkeit des Beschlusses, s.o.)  
+**Verfügungsanspruch:** Gegeben (Nichtigkeit des Beschlusses, s.o.)
 **Verfügungsgrund:** Die Wittmann Holding hat angekündigt, den Ausschluss unverzüglich ins Handelsregister einzutragen. Damit drohen irreversible Schäden (Verlust der Gesellschafterstellung, Kontrollverlust, steuerliche Nachteile). Eilbedürftigkeit (+)
 
-**Zuständiges Gericht:** LG Bielefeld, Kammer für Handelssachen (§ 95 Abs. 1 Nr. 4a GVG)  
+**Zuständiges Gericht:** LG Bielefeld, Kammer für Handelssachen (§ 95 Abs. 1 Nr. 4a GVG)
 **Antragsform:** Schriftlicher Antrag oder mündliche Verhandlung; im Hinblick auf die Eilbedürftigkeit sofortige Einreichung empfohlen
 
 ### 3.2 Wirkungen der Anfechtungsklage
@@ -80,5 +80,5 @@ Die Anfechtungsklage nach § 246 AktG analog hat im GmbH-Recht keine aufschieben
 
 ---
 
-*Erstellt: 20.04.2026 — Prof. Dr. Wieland Drosselberg*  
+*Erstellt: 20.04.2026 — Prof. Dr. Wieland Drosselberg*
 *Referenzen: BGH II ZR 240/08; BGH II ZR 259/03; BGH II ZR 104/92; BGHZ 116, 359; BGHZ 123, 281; dejure.org/gesetze/HGB/138.html; openjur.de/r/2013/11/bgh-iiizr282-01.html*

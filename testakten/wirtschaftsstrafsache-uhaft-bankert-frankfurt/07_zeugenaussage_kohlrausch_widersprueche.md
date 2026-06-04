@@ -1,9 +1,9 @@
 # Auswertung Zeugenaussage Yvonne Kohlrausch — Widersprüche und Verteidigungsrelevanz
 
-**Marx Strafverteidigung Frankfurt**  
-**Vertraulich — Anwaltsgeheimnis § 53 StPO**  
-Erstellt von: Dr. Friederike Marx / Dipl.-Kfm. O. Strenger  
-Datum: 24. April 2025  
+**Marx Strafverteidigung Frankfurt**
+**Vertraulich — Anwaltsgeheimnis § 53 StPO**
+Erstellt von: Dr. Friederike Marx / Dipl.-Kfm. O. Strenger
+Datum: 24. April 2025
 Az.: 5/28 KLs 122/25 / 5400 Js 14782/24
 
 ---

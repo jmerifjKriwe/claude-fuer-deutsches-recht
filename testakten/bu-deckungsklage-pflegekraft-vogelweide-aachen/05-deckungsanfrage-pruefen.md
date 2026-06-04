@@ -1,9 +1,9 @@
 # Aktenstück 05 — Deckungsanfrage an DBV-Winterthur (vorprozessual)
 
-**Datum:** 25.02.2026  
-**Von:** Dr. Annegret Müller-Hauck, Fachanwältin für Versicherungsrecht  
-**An:** DBV-Winterthur Vereinigte Lebensversicherung AG, Abt. Rechtsabteilung, Frankfurt  
-**Betreff:** Deckungsanfrage; BU-Leistung; Vertrag BUZ-1999-LV-44710; Mandantin Marion Vogelweide  
+**Datum:** 25.02.2026
+**Von:** Dr. Annegret Müller-Hauck, Fachanwältin für Versicherungsrecht
+**An:** DBV-Winterthur Vereinigte Lebensversicherung AG, Abt. Rechtsabteilung, Frankfurt
+**Betreff:** Deckungsanfrage; BU-Leistung; Vertrag BUZ-1999-LV-44710; Mandantin Marion Vogelweide
 **Frist:** 10.03.2026
 
 ---
@@ -51,7 +51,7 @@ Um das Prüfverfahren zu beschleunigen, übermittle ich anliegend:
 
 Ich erwarte Ihre schriftliche Deckungszusage bis zum **10.03.2026**. Andernfalls werde ich unverzüglich Klage vor dem Landgericht Aachen erheben.
 
-Mit freundlichen Grüßen  
-Dr. Annegret Müller-Hauck  
+Mit freundlichen Grüßen
+Dr. Annegret Müller-Hauck
 Fachanwältin für Versicherungsrecht
 

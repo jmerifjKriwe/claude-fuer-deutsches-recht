@@ -1,8 +1,8 @@
 # Aktenstück 11 — Sonderakte Krasniqi: Mutterschutz, Vollzugslockerung, Kindeswohlfolgen
 
-**Verfahren:** StA Stuttgart 4 Js 18.422/26 / JVA Schwäbisch Gmuend (Az. JVA SG 2025-8814)  
-**Beschuldigte:** Edona Krasniqi (geb. 11.08.1999, SSW 24 Stand 02.02.2026)  
-**Verteidigerin:** RAin Dr. Vivien Mohnsen-Stoeber  
+**Verfahren:** StA Stuttgart 4 Js 18.422/26 / JVA Schwäbisch Gmuend (Az. JVA SG 2025-8814)
+**Beschuldigte:** Edona Krasniqi (geb. 11.08.1999, SSW 24 Stand 02.02.2026)
+**Verteidigerin:** RAin Dr. Vivien Mohnsen-Stoeber
 **Stand:** 04.02.2026
 
 ---

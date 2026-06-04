@@ -1,6 +1,6 @@
 # 16 — Kostenentscheidung § 92 ZPO
 
-**AZ:** 8 O 188/26  
+**AZ:** 8 O 188/26
 **Streitwert:** EUR 1.040.680 (Klage EUR 428.180 + Hilfsaufrechnung EUR 612.500)
 
 ---
@@ -15,7 +15,7 @@
 | Hilfsaufrechnung (Kostenrelevanz) | 612.500 | 0 | 612.500 |
 | Gesamt | 1.040.680 | 40.980 | 999.700 |
 
-Obsiegensquote Klägerin: EUR 40.980 / EUR 1.040.680 = **3,94%**  
+Obsiegensquote Klägerin: EUR 40.980 / EUR 1.040.680 = **3,94%**
 (Kammer rundet auf **4%**)
 
 ### Beklagte
@@ -43,15 +43,15 @@ Obsiegensquote Beklagte: **96%**
 | Zeugenentschädigung (2 Zeugen) | 320 |
 | Gesamt Kosten (ca.) | **76.108** |
 
-Klägerin trägt ca. EUR 68.497 (90%).  
+Klägerin trägt ca. EUR 68.497 (90%).
 Beklagte trägt ca. EUR 7.611 (10%).
 
 ---
 
 ## IV. Kostenausgleich
 
-Klägerin zahlt Beklagter RA-Gebühren 90% = EUR 11.178.  
-Beklagte zahlt Klägerin RA-Gebühren 10% = EUR 1.242.  
+Klägerin zahlt Beklagter RA-Gebühren 90% = EUR 11.178.
+Beklagte zahlt Klägerin RA-Gebühren 10% = EUR 1.242.
 Saldo: Klägerin schuldet Beklagter EUR 9.936 (Kostenausgleich).
 
 ---

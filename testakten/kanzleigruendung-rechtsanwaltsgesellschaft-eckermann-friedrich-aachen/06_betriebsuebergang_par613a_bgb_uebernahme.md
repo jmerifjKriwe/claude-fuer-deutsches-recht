@@ -1,8 +1,8 @@
 # 06 Betriebsübergang § 613a BGB — Übernahme aus drei Vorgängerkanzleien
 
-**Aktenzeichen:** KBH-2026-001-EFS  
-**Stand:** 01. April 2026  
-**Bearbeiterin:** RA Monika Hellwig, Dr. Matthias Friedrich (intern, Fachberatung Arbeitsrecht)  
+**Aktenzeichen:** KBH-2026-001-EFS
+**Stand:** 01. April 2026
+**Bearbeiterin:** RA Monika Hellwig, Dr. Matthias Friedrich (intern, Fachberatung Arbeitsrecht)
 
 ---
 
@@ -62,7 +62,7 @@ Der bisherige und der neue Inhaber sind verpflichtet, die von einem Betriebsübe
 3. Rechtliche, wirtschaftliche und soziale Folgen des Übergangs für die Arbeitnehmer
 4. Hinsichtlich der Arbeitnehmer in Aussicht genommene Maßnahmen
 
-**Unterrichtungsschreiben versandt:** 01. April 2026  
+**Unterrichtungsschreiben versandt:** 01. April 2026
 **Frist Widerspruchsrecht:** 01. Mai 2026 (= Übernahmezeitpunkt; § 613a Abs. 6 Satz 2 BGB: innerhalb eines Monats nach Zugang)
 
 Das Muster-Unterrichtungsschreiben ist als DOCX-Anlage (s. `betriebsuebernahme_par613a_mitarbeiterinfo.docx`) beigefügt.

@@ -1,7 +1,7 @@
 # 05 — Beweisbeschluss-Entwurf
 
-**AZ:** 8 O 188/26  
-**Kammer:** 8. Zivilkammer LG Leipzig  
+**AZ:** 8 O 188/26
+**Kammer:** 8. Zivilkammer LG Leipzig
 **Datum:** 22.04.2026
 
 ---
@@ -64,6 +64,6 @@ Der Kammer bleibt vorbehalten, nach Eingang des Sachverständigengutachtens eine
 
 Der Streitwert wird vorläufig auf **EUR 1.040.680,00** festgesetzt (Klage EUR 428.180 + Hilfsaufrechnung EUR 612.500).
 
-gez. Dr. Tannenberg-Eichmueller, VRiLG  
-gez. Dr. Roosendaal, RiLG  
+gez. Dr. Tannenberg-Eichmueller, VRiLG
+gez. Dr. Roosendaal, RiLG
 gez. Wittfeldt, RAGr

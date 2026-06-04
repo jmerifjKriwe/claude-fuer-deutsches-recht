@@ -1,7 +1,7 @@
 # 23 Kostenfestsetzungsantrag — Entwurf § 103 ff. ZPO
 
-**Akte:** MR-2026-ZV-0188  
-**Datum:** 15.02.2026  
+**Akte:** MR-2026-ZV-0188
+**Datum:** 15.02.2026
 **Bearbeiter:** RA Dr. Roosendaal-Eichmueller
 
 ---

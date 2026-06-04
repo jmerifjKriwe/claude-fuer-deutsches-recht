@@ -6,13 +6,13 @@
 
 ## Kopfzeile (Briefkopf SKH)
 
-**Sächsisches Krankenhaus für Psychiatrie und Neurologie Leipzig**  
-Abteilung für Allgemeine Psychiatrie  
-Biedermannstraße 2  
-04277 Leipzig  
-Telefon: 0341 / 44 07 0  
-Chefarzt: Dr. med. habil. Rainer Kühn, Facharzt für Psychiatrie und Psychotherapie  
-Stationsärztin: Dr. med. Susanne Hollasky (Station P3)  
+**Sächsisches Krankenhaus für Psychiatrie und Neurologie Leipzig**
+Abteilung für Allgemeine Psychiatrie
+Biedermannstraße 2
+04277 Leipzig
+Telefon: 0341 / 44 07 0
+Chefarzt: Dr. med. habil. Rainer Kühn, Facharzt für Psychiatrie und Psychotherapie
+Stationsärztin: Dr. med. Susanne Hollasky (Station P3)
 
 ---
 
@@ -31,7 +31,7 @@ Stationsärztin: Dr. med. Susanne Hollasky (Station P3)
 
 ## Aufnahmediagnosen
 
-- Depressiver Schub, schwere Episode (F32.2), initial  
+- Depressiver Schub, schwere Episode (F32.2), initial
 - V. a. somatoforme Störung (differenzialdiagnostisch, zurückgenommen nach Diagnostik)
 
 ---
@@ -61,7 +61,7 @@ Die Patientin wurde auf Überweisung von Dr. Märker (Hausarzt) und auf Empfehlu
 - **Konzentration/Kognition:** Schwer beeinträchtigt (auch durch ME/CFS); kann nicht lesen oder fernsehen
 - **Körperbeschwerden:** Diffuse Schmerzen, Schwindel (POTS), chronische Fatigue
 
-**HAMD-17-Score (Hamilton Depression Rating Scale):** 24 Punkte (schwer: >17)  
+**HAMD-17-Score (Hamilton Depression Rating Scale):** 24 Punkte (schwer: >17)
 **BDI-II (Beck-Depressions-Inventar):** 35 Punkte (schwer: >28)
 
 ---
@@ -100,11 +100,11 @@ Die Patientin wurde am 07.11.2024 in stabilisiertem Zustand entlassen. HAMD-17-E
 
 ---
 
-Dr. med. Susanne Hollasky  
-Stationsärztin, Psychiatrie, SKH Leipzig  
-07.11.2024  
+Dr. med. Susanne Hollasky
+Stationsärztin, Psychiatrie, SKH Leipzig
+07.11.2024
 
 ---
 
-*Kopie in Kanzleiakte: Aktenstück 16*  
+*Kopie in Kanzleiakte: Aktenstück 16*
 *Original bei Mandantin Feldermann*

@@ -4,25 +4,25 @@ Köln, den **18. März 2026**
 
 ---
 
-**An:**  
-Kanzlei Hauck-Brüggemann Mietrecht  
-z. H. Frau Rechtsanwältin Vanessa Hauck-Brüggemann  
-Berrenrather Straße 114  
-50937 Köln-Sülz  
+**An:**
+Kanzlei Hauck-Brüggemann Mietrecht
+z. H. Frau Rechtsanwältin Vanessa Hauck-Brüggemann
+Berrenrather Straße 114
+50937 Köln-Sülz
 
 *(per Einschreiben Rückschein + E-Mail)*
 
 ---
 
-**Absender:**  
-Levi Albrecht, Femke van Drosten, Mathilda Sonnenfeld  
-Rolandstraße 27a  
-50677 Köln  
+**Absender:**
+Levi Albrecht, Femke van Drosten, Mathilda Sonnenfeld
+Rolandstraße 27a
+50677 Köln
 
-**– unterstützt und beraten durch –**  
-**Mieterverein Köln und Umgebung e. V.**  
-Sachbearbeiter: Wolfgang Lemke  
-Hahnenstraße 20, 50667 Köln  
+**– unterstützt und beraten durch –**
+**Mieterverein Köln und Umgebung e. V.**
+Sachbearbeiter: Wolfgang Lemke
+Hahnenstraße 20, 50667 Köln
 Tel. 0221 / 77 50 0
 
 ---
@@ -73,22 +73,22 @@ Wir behalten uns vor, die Einwände im Rahmen eines etwaigen Räumungsklageverfa
 
 Mit freundlichen Grüßen
 
-_________________________  
+_________________________
 Levi Albrecht
 
-_________________________  
+_________________________
 Femke van Drosten
 
-_________________________  
+_________________________
 Mathilda Sonnenfeld
 
 ---
 
-*Mieterverein Köln und Umgebung e. V.*  
+*Mieterverein Köln und Umgebung e. V.*
 *Wolfgang Lemke, Sachbearbeiter*
 
 ---
 
-**Anlagen:**  
-W-1 bis W-5 (wie benannt)  
+**Anlagen:**
+W-1 bis W-5 (wie benannt)
 Mietspiegel Köln 2024 (Auszug)

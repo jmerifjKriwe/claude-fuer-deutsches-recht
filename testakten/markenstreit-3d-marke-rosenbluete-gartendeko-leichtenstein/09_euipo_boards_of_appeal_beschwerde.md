@@ -1,9 +1,9 @@
 # 09 — EUIPO Boards of Appeal: Beschwerdegegenschrift R 1322/26-2
 
-**Bearbeiter:** PA Dr. Volkmar Trautmann  
-**Datum:** 08. Juli 2026 (Einreichung beim EUIPO)  
-**Verfahren:** EUIPO BoA R 1322/26-2  
-**Beschwerdegegner (Markeninhaberin):** Leichtenstein Gartenkultur Manufaktur GmbH  
+**Bearbeiter:** PA Dr. Volkmar Trautmann
+**Datum:** 08. Juli 2026 (Einreichung beim EUIPO)
+**Verfahren:** EUIPO BoA R 1322/26-2
+**Beschwerdegegner (Markeninhaberin):** Leichtenstein Gartenkultur Manufaktur GmbH
 
 ---
 
@@ -30,16 +30,16 @@ Die Nichtigkeitsabteilung hat die 23 Konkurrenzprodukte eingehend geprüft und i
 
 Das vorgelegte Gutachten ist aus mehreren Gründen nicht aussagekräftig:
 
-**a) Unzureichende Stichprobe und falscher Markt:**  
+**a) Unzureichende Stichprobe und falscher Markt:**
 Das Gutachten wurde in Italien durchgeführt (n = 520 Befragte, ausschließlich in Modena und Mailand). Die relevanten Verkehrskreise für die EU-3D-Marke umfassen alle EU-Mitgliedstaaten. Eine auf zwei italienische Städte beschränkte Umfrage ist nicht repräsentativ für den gesamteuropäischen Markt.
 
-**b) Falsche Zielgruppe:**  
+**b) Falsche Zielgruppe:**
 Befragt wurden Personen ohne spezifischen Bezug zum Gartendekorationsmarkt (allgemeine Verbraucher ohne Gartenbesitz). Maßgeblich sind die angesprochenen Verkehrskreise, d.h. Konsumenten, die sich für Gartendekorationen interessieren und solche Produkte kaufen.
 
-**c) Falsche Fragestellung:**  
+**c) Falsche Fragestellung:**
 Die Frage „Erkennen Sie in dieser Form einen Hinweis auf ein bestimmtes Unternehmen?" ist eine geschlossene, suggestive Frage. Marktübliche demoskopische Erhebungen verwenden offene Fragen zur Herkunftszuordnung.
 
-**d) Kein Nachweis für Zeitpunkt der Anmeldung:**  
+**d) Kein Nachweis für Zeitpunkt der Anmeldung:**
 Relevant für die Beurteilung der Unterscheidungskraft ist der Zeitpunkt der Anmeldung der Marke (22. Juni 2019), nicht der aktuelle Zeitpunkt. Ein im Jahr 2026 durchgeführtes Gutachten trifft keine verlässliche Aussage über die Marktwahrnehmung im Jahr 2019.
 
 ### 3.3 Eigenes Verkehrsgeltungsgutachten der Markeninhaberin (Hilfsweise)
@@ -79,11 +79,11 @@ Hilfsweise: Sollte der Board of Appeal Zweifel an der originären Unterscheidung
 
 ## 5. Formalien
 
-Vollständige Schriftsatz-Dokumentation vgl. `docx/schriftsatz_euipo_beschwerde_r_1322_26_2.docx`.  
+Vollständige Schriftsatz-Dokumentation vgl. `docx/schriftsatz_euipo_beschwerde_r_1322_26_2.docx`.
 Anlagen: Gutachten GfK SE (Anlage M-1), Presseartikel (Anlage M-2 bis M-7), Messepräsenz-Nachweise (Anlage M-8 bis M-11), Umsatznachweise 2019–2025 (Anlage M-12), Registerauszug EUIPO (Anlage M-13).
 
 ---
 
-**Eingereicht beim EUIPO:** 08. Juli 2026  
-**Bearbeiter:** PA Dr. Volkmar Trautmann  
+**Eingereicht beim EUIPO:** 08. Juli 2026
+**Bearbeiter:** PA Dr. Volkmar Trautmann
 **Mitgewirkt:** RA Philipp Mertens-Waldhausen (UWG-Aspekte)

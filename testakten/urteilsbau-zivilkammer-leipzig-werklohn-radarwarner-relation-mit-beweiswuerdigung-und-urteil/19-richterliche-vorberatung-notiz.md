@@ -1,7 +1,7 @@
 # 19 — Richterliche Vorberatung — Interne Notiz
 
-**AZ:** 8 O 188/26  
-**Datum:** 18.09.2026 (Tag nach Schlussverhandlung 17.09.2026)  
+**AZ:** 8 O 188/26
+**Datum:** 18.09.2026 (Tag nach Schlussverhandlung 17.09.2026)
 **INTERN — NICHT ZU DEN AKTEN DER PARTEIEN**
 
 ---

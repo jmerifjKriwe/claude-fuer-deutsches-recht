@@ -1,8 +1,8 @@
 # 13 IT-Setup — beA, RA-Micro vs. AnNoText vs. Soldan
 
-**Aktenzeichen:** KBH-2026-001-EFS  
-**Stand:** 20. April 2026  
-**Verantwortlich:** Dr. Matthias Friedrich (IT-Ressort)  
+**Aktenzeichen:** KBH-2026-001-EFS
+**Stand:** 20. April 2026
+**Verantwortlich:** Dr. Matthias Friedrich (IT-Ressort)
 
 ---
 

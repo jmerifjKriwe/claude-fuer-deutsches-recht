@@ -1,7 +1,7 @@
 # 07 — LDD Workstream Litigation
 
-**Datum:** 3.–28. November 2025  
-**Bearbeiter:** RA Prof. Dr. Felix Mannfeldt, RA Johannes Frielinghaus  
+**Datum:** 3.–28. November 2025
+**Bearbeiter:** RA Prof. Dr. Felix Mannfeldt, RA Johannes Frielinghaus
 **Workstream:** Litigation / Streitigkeiten
 
 ---

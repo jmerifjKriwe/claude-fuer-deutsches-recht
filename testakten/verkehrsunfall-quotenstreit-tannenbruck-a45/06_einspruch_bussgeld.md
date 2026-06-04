@@ -1,25 +1,25 @@
 # Einspruch gegen Bußgeldbescheid — AG Lüdenscheid 40 OWi-83 Js 7411/26
 
-**Kanzlei Hoffmann Verkehrsrecht**  
-RA Sebastian Hoffmann — Fachanwalt für Verkehrsrecht  
-Altenaer Straße 112 · 58507 Lüdenscheid  
-Tel. 02351 / 47 83 20 · Fax 02351 / 47 83 29  
-s.hoffmann@hoffmann-verkehrsrecht.de  
+**Kanzlei Hoffmann Verkehrsrecht**
+RA Sebastian Hoffmann — Fachanwalt für Verkehrsrecht
+Altenaer Straße 112 · 58507 Lüdenscheid
+Tel. 02351 / 47 83 20 · Fax 02351 / 47 83 29
+s.hoffmann@hoffmann-verkehrsrecht.de
 
 ---
 
-**Kreispolizeibehörde Märkischer Kreis**  
-Zentrale Bußgeldstelle  
-Bismarckstraße 18  
-58762 Altena  
+**Kreispolizeibehörde Märkischer Kreis**
+Zentrale Bußgeldstelle
+Bismarckstraße 18
+58762 Altena
 
 Lüdenscheid, 10. Februar 2026
 
 ---
 
-**Betr.:** Bußgeldbescheid vom 28.01.2026, Az. 40 OWi-83 Js 7411/26  
-**Mandant:** Holger Tannenbruck, geb. 17.03.1973  
-**Anlage:** Vollmacht vom 15.01.2026  
+**Betr.:** Bußgeldbescheid vom 28.01.2026, Az. 40 OWi-83 Js 7411/26
+**Mandant:** Holger Tannenbruck, geb. 17.03.1973
+**Anlage:** Vollmacht vom 15.01.2026
 
 ---
 
@@ -93,9 +93,9 @@ Die Akteneinsicht kann per beA-Dateitransfer an meine Kanzleiadresse erfolgen.
 
 Mit freundlichen Grüßen
 
-**Sebastian Hoffmann**  
-Rechtsanwalt, Fachanwalt für Verkehrsrecht  
-Kanzlei Hoffmann Verkehrsrecht, Lüdenscheid  
+**Sebastian Hoffmann**
+Rechtsanwalt, Fachanwalt für Verkehrsrecht
+Kanzlei Hoffmann Verkehrsrecht, Lüdenscheid
 
 ---
 

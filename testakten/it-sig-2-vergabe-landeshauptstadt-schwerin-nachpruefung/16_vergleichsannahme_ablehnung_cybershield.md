@@ -1,8 +1,8 @@
 # Aktenstück 16 – Ablehnung des Vergleichsvorschlags durch CyberShield
 
-**Aktenzeichen:** VK 1-32/26  
-**Datum:** 13.06.2026  
-**Von:** RA Dr. Constantin Bährens  
+**Aktenzeichen:** VK 1-32/26
+**Datum:** 13.06.2026
+**Von:** RA Dr. Constantin Bährens
 **An:** Vergabekammer des Bundes, VK 1 (und RAin Dr. Mertke)
 
 ---
@@ -44,7 +44,7 @@ Die Antragstellerin bittet die Vergabekammer, das Verfahren fortzusetzen und ein
 
 ---
 
-**Dr. Constantin Bährens**  
+**Dr. Constantin Bährens**
 Fachanwalt für Vergaberecht
 
 ---

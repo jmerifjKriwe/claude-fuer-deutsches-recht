@@ -1,9 +1,9 @@
 # Red-Team-Einwände – Kritische Prüfung des Sanierungsplans
 
-**Aktenzeichen:** MH-2026-001  
-**Datum:** 13. Juni 2026  
-**Verfasser:** RA Dr. Karolin Westphal (Red-Team-Rolle); ergänzt durch CFO Hollender  
-**Methode:** Adversarial Review – Einwände werden so formuliert, als kämen sie vom stärksten Gegner des Plans  
+**Aktenzeichen:** MH-2026-001
+**Datum:** 13. Juni 2026
+**Verfasser:** RA Dr. Karolin Westphal (Red-Team-Rolle); ergänzt durch CFO Hollender
+**Methode:** Adversarial Review – Einwände werden so formuliert, als kämen sie vom stärksten Gegner des Plans
 
 ---
 

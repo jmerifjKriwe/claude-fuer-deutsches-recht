@@ -1,9 +1,9 @@
 # WpHG-Pflichten: Rechtliche Prüfung der Sparkasse Bremen
 
-**Aktenzeichen:** PS-BKR-2026-0412  
-**Verfasser:** Dr. Severin Pflüger, Fachanwalt für Bank- und Kapitalmarktrecht  
-**Datum:** 12.04.2026  
-**Bearbeitungsstand:** Erstprüfung, Vertiefung durch Klageentwurf (Aktenstück 16)  
+**Aktenzeichen:** PS-BKR-2026-0412
+**Verfasser:** Dr. Severin Pflüger, Fachanwalt für Bank- und Kapitalmarktrecht
+**Datum:** 12.04.2026
+**Bearbeitungsstand:** Erstprüfung, Vertiefung durch Klageentwurf (Aktenstück 16)
 
 ---
 
@@ -34,7 +34,7 @@ Nach der Rechtsprechung des BGH (XI ZR 178/04; XI ZR 56/07) kann eine Beratungsp
 Unabhängig von der WpHG-Beratungspflicht ist anerkannt, dass ein Kreditinstitut im Rahmen seiner **vertraglichen Rücksichtnahmepflichten** (§ 241 Abs. 2 BGB) verpflichtet ist, den Kunden vor erkennbaren Schäden zu warnen. Diese Pflicht ist nicht auf Wertpapierberatung beschränkt, sondern gilt für alle Bankgeschäfte.
 
 **Voraussetzungen nach BGH XI ZR 56/07:**
-- Das Institut muss die Gefahr positiv kennen **oder**  
+- Das Institut muss die Gefahr positiv kennen **oder**
 - die Gefahr muss sich dem Institut bei ordnungsgemäßer Sorgfalt aufdrängen.
 
 **Anwendung auf den vorliegenden Fall:**
@@ -91,5 +91,5 @@ Wenn das Kreditinstitut keine starke Kundenauthentifizierung (SCA, Art. 97 PSD2,
 
 ---
 
-*Erstellt: 12.04.2026 · Dr. S. Pflüger*  
+*Erstellt: 12.04.2026 · Dr. S. Pflüger*
 *Quellen: BGH XI ZR 56/07 (dejure.org), OLG Frankfurt 3 U 37/21 (openjur.de), §§ 25h KWG, 43 GwG, 675u ff. BGB*

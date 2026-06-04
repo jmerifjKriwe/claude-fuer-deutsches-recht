@@ -1,8 +1,8 @@
 # 14 Marketing und Corporate Design — EFS Recht
 
-**Aktenzeichen:** KBH-2026-001-EFS  
-**Stand:** 25. April 2026  
-**Verantwortlich:** Dr. Hilke Eckermann (Personal/Marketing-Ressort)  
+**Aktenzeichen:** KBH-2026-001-EFS
+**Stand:** 25. April 2026
+**Verantwortlich:** Dr. Hilke Eckermann (Personal/Marketing-Ressort)
 
 ---
 

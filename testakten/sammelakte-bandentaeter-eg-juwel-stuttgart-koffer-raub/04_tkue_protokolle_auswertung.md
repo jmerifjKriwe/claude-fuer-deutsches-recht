@@ -1,8 +1,8 @@
 # Aktenstück 04 — TKUe-Protokolle: Telekommunikationsüberwachung, Auswertung in Mengen
 
-**Verfahren:** StA Stuttgart 4 Js 18.422/26  
-**Bearbeitung:** Alle Verteidiger (koordiniert)  
-**Sonderband:** SB TKUe (Bde. I–IV, gesamt 1.247 Seiten)  
+**Verfahren:** StA Stuttgart 4 Js 18.422/26
+**Bearbeitung:** Alle Verteidiger (koordiniert)
+**Sonderband:** SB TKUe (Bde. I–IV, gesamt 1.247 Seiten)
 **Stand:** 22.01.2026
 
 ---

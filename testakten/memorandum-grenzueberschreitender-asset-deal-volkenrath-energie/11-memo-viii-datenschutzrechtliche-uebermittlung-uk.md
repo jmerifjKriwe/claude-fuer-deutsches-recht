@@ -22,7 +22,7 @@ Nach dem Brexit gilt in Großbritannien die UK GDPR (GDPR in der Form des Data P
 
 ### II. Angemessenheitsbeschluss UK
 
-Die EU-Kommission hat am 28. Juni 2021 einen Angemessenheitsbeschluss für das Vereinigte Königreich nach Art. 45 DSGVO erlassen. Dieser Beschluss ist bis zum 27. Juni 2025 befristet; eine Verlängerung wird derzeit von der EU-Kommission geprüft (Stand: Mai 2026, noch keine Entscheidung). 
+Die EU-Kommission hat am 28. Juni 2021 einen Angemessenheitsbeschluss für das Vereinigte Königreich nach Art. 45 DSGVO erlassen. Dieser Beschluss ist bis zum 27. Juni 2025 befristet; eine Verlängerung wird derzeit von der EU-Kommission geprüft (Stand: Mai 2026, noch keine Entscheidung).
 
 **Risiko:** Sollte der Angemessenheitsbeschluss nicht verlängert werden oder auslaufen, sind Standardvertragsklauseln (SCC) nach Art. 46 Abs. 2 lit. c DSGVO als Auffangtatbestand erforderlich.
 

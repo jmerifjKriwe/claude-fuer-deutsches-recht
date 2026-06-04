@@ -1,7 +1,7 @@
 # Mandatsnotiz Erstgespräch
 
-**Datum:** 18. Mai 2026  
-**Bearbeiterin:** RAin Dr. Wendelgard Mertens  
+**Datum:** 18. Mai 2026
+**Bearbeiterin:** RAin Dr. Wendelgard Mertens
 **Mandantin:** Amalie von Reichenbach, Köln-Riehl
 
 Frau von Reichenbach bringt Rechnung, Händler-E-Mail, App-Screenshots und ein handschriftliches Temperaturprotokoll mit. Sie möchte keinen neuen Luxuskühlschrank, sondern ein funktionierendes Gerät. Ihr Hauptärger ist, dass der unabhängige Kältetechniker den mutmaßlich defekten Kompressor nicht tauschen konnte, weil VestaCool das Ersatzteil ohne Online-Freischaltung nicht akzeptiert. Sie empfindet das als künstliche Reparaturblockade.

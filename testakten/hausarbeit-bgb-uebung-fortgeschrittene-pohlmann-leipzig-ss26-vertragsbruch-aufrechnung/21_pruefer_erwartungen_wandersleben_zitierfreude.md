@@ -1,6 +1,6 @@
 # 21 — Prüfer-Erwartungen: Prof. Dr. Wandersleben — Zitierfreude und Bewertungsmaßstab
 
-**Bearbeiter:** Konrad Pohlmann  
+**Bearbeiter:** Konrad Pohlmann
 **Stand:** 04.05.2026 (Recherche aus Tutoriengesprächen und Jahrgangstreffen)
 
 ---

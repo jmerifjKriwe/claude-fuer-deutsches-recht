@@ -1,8 +1,8 @@
 # Aktenstück 06 — Art. 11 KI-VO: Technische Dokumentation (Anhang IV)
 
-**Aktenzeichen:** 2026-V-0427  
-**Erstellt:** 25.03.2026  
-**Bearbeitung:** RA Dr. Mark Roosendaal  
+**Aktenzeichen:** 2026-V-0427
+**Erstellt:** 25.03.2026
+**Bearbeitung:** RA Dr. Mark Roosendaal
 **Rechtsgrundlage:** Art. 11 KI-VO (EU) 2024/1689; Anhang IV KI-VO
 
 ---
@@ -66,10 +66,10 @@ Das Benutzerhandbuch v4.1 enthält keine Informationen darüber, wie das System 
 
 ## 5. Gesamtbewertung Art. 11
 
-**Art. 11 KI-VO: Nicht konform.**  
+**Art. 11 KI-VO: Nicht konform.**
 Die technische Dokumentation ist strukturell unvollständig und deckt zentrale Anhang-IV-Anforderungen nicht ab. Bis zur Frist 02.08.2026 muss eine vollständige, Anhang-IV-konforme Dokumentation vorliegen.
 
 ---
 
-*Heidelberg, 25.03.2026*  
+*Heidelberg, 25.03.2026*
 *RA Dr. Mark Roosendaal — Az. 2026-V-0427*

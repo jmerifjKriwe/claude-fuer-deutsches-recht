@@ -1,7 +1,7 @@
 # 03 — NADA-Trainingskontrolle 18.02.2026: A-Probe-Befund Meldonium
 
-**Erstellt:** 09.03.2026  
-**Bearbeiter:** RAin Sophie Wenderlich  
+**Erstellt:** 09.03.2026
+**Bearbeiter:** RAin Sophie Wenderlich
 **AZ:** SU/DOPING/2026-001 / DSGSp 12/26
 
 ---
@@ -30,14 +30,14 @@
 
 ### 2.1 Einsendelabor
 
-**Institut für Biochemie, Deutsche Sporthochschule Köln (DSHS Köln)**  
-Am Sportpark Müngersdorf 6, 50933 Köln  
-WADA-Akkreditierungsnummer: W-LAB-003  
+**Institut für Biochemie, Deutsche Sporthochschule Köln (DSHS Köln)**
+Am Sportpark Müngersdorf 6, 50933 Köln
+WADA-Akkreditierungsnummer: W-LAB-003
 ISO/IEC 17025:2017 zertifiziert
 
-Probeneingang Labor: 20.02.2026, 08:15 Uhr  
-Analysezeitraum: 20.02.2026 bis 25.02.2026  
-Analysemethode: LC-MS/MS (Flüssigchromatographie mit Tandem-Massenspektrometrie)  
+Probeneingang Labor: 20.02.2026, 08:15 Uhr
+Analysezeitraum: 20.02.2026 bis 25.02.2026
+Analysemethode: LC-MS/MS (Flüssigchromatographie mit Tandem-Massenspektrometrie)
 Bestätigungsmethode: LC-HRMS (Hochauflösende Massenspektrometrie)
 
 ### 2.2 Befund

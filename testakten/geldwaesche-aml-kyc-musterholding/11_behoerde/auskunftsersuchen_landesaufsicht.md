@@ -1,21 +1,21 @@
 # Antwortschreiben an Regierungspräsidium Darmstadt – Auskunftsersuchen AML-Aufsicht
 
-> **Musterholding GmbH**  
-> Gutleutstraße 44 · 60329 Frankfurt am Main  
-> Vertreten durch RA Dr. Franziska Heller, Kanzlei Heller & Schönfeld  
-> Taunusanlage 8, 60329 Frankfurt am Main  
-> Tel: +49 69 921 083 0 · kanzlei@heller-schoenfeld.de  
+> **Musterholding GmbH**
+> Gutleutstraße 44 · 60329 Frankfurt am Main
+> Vertreten durch RA Dr. Franziska Heller, Kanzlei Heller & Schönfeld
+> Taunusanlage 8, 60329 Frankfurt am Main
+> Tel: +49 69 921 083 0 · kanzlei@heller-schoenfeld.de
 
-> **An:**  
-> Regierungspräsidium Darmstadt  
-> Referat IV/AML – Geldwäscheaufsicht Güterhändler  
-> Wilhelminenstraße 1–3  
-> 64283 Darmstadt  
+> **An:**
+> Regierungspräsidium Darmstadt
+> Referat IV/AML – Geldwäscheaufsicht Güterhändler
+> Wilhelminenstraße 1–3
+> 64283 Darmstadt
 
-**Betreff:** Antwort auf Ihr Auskunftsersuchen vom 12.05.2026 – Az. RP-DA/IV-AML/2026/1847-MH  
-**Unser Zeichen:** 2026/AML/047-MH / HE  
-**Datum:** 02.06.2026  
-**Per Einschreiben / Rückschein**  
+**Betreff:** Antwort auf Ihr Auskunftsersuchen vom 12.05.2026 – Az. RP-DA/IV-AML/2026/1847-MH
+**Unser Zeichen:** 2026/AML/047-MH / HE
+**Datum:** 02.06.2026
+**Per Einschreiben / Rückschein**
 
 ---
 
@@ -111,10 +111,10 @@ Wir weisen auf ein vom internen Audit identifiziertes Defizit hin: Die Freigabe 
 
 ## Ergänzende Mitteilungen
 
-**Zur Transparenzregister-Unstimmigkeit:**  
+**Zur Transparenzregister-Unstimmigkeit:**
 Am 08.05.2026 wurde für die Tochtergesellschaft Musterholding Immobilien GmbH eine Unstimmigkeit zwischen dem Transparenzregistereintrag und den tatsächlichen Eigentumsverhältnissen festgestellt. Eine Unstimmigkeitsmeldung nach § 23a GwG wurde am 10.05.2026 eingereicht. Der Korrekturantrag beim Transparenzregister befindet sich in Bearbeitung (Notar hat beurkundet; Antragseinreichung bis 22.05.2026 geplant).
 
-**Zu internen Verbesserungsmaßnahmen:**  
+**Zu internen Verbesserungsmaßnahmen:**
 Auf Basis des internen Audit-Memos vom 28.05.2026 wurden fünf Defizite identifiziert und Abhilfemaßnahmen beschlossen (Anlage 10: Audit-Memo). Die Maßnahmenumsetzung erfolgt bis 30.06.2026.
 
 ---
@@ -125,9 +125,9 @@ Die Musterholding GmbH hat alle angeforderten Unterlagen vollständig vorgelegt.
 
 Mit freundlichen Grüßen
 
-**RA Dr. Franziska Heller**  
-Kanzlei Heller & Schönfeld  
-Im Auftrag der Musterholding GmbH  
+**RA Dr. Franziska Heller**
+Kanzlei Heller & Schönfeld
+Im Auftrag der Musterholding GmbH
 
 ---
 
@@ -146,5 +146,5 @@ Im Auftrag der Musterholding GmbH
 
 ---
 
-*Aktenzeichen Kanzlei: 2026/AML/047-MH — Kanzlei Heller & Schönfeld*  
+*Aktenzeichen Kanzlei: 2026/AML/047-MH — Kanzlei Heller & Schönfeld*
 *Aktenzeichen Behörde: RP-DA/IV-AML/2026/1847-MH*

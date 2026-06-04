@@ -1,7 +1,7 @@
 # Deal-Ordnerstruktur — Projekt Silberfalke
 
-**Aktenzeichen:** MA-2026-SF-001  
-**Erstellt:** 01.04.2026  
+**Aktenzeichen:** MA-2026-SF-001
+**Erstellt:** 01.04.2026
 **Zweck:** Verbindliche Ordnerstruktur für alle Mitarbeiter im Deal Team; Clean-Room-Regeln
 
 ---
@@ -91,10 +91,10 @@ MA-2026-SF-001_Silberfalke/
 
 ## 3. Versionierungsprinzipien
 
-- Alle Vertragsmarkups werden mit `_v[n]_[YYYYMMDD]` suffixiert  
-- Finale Versionen erhalten den Suffix `_FINAL`  
-- Unterschriebene Dokumente erhalten den Suffix `_SIGNED`  
-- Archivierte Vorfassungen werden in `90_Archive/` verschoben, nicht gelöscht  
+- Alle Vertragsmarkups werden mit `_v[n]_[YYYYMMDD]` suffixiert
+- Finale Versionen erhalten den Suffix `_FINAL`
+- Unterschriebene Dokumente erhalten den Suffix `_SIGNED`
+- Archivierte Vorfassungen werden in `90_Archive/` verschoben, nicht gelöscht
 
 ---
 

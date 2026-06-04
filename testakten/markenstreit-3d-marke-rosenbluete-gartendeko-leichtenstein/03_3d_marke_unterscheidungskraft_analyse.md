@@ -1,8 +1,8 @@
 # 03 — 3D-Marke: Rechtliche Analyse der Unterscheidungskraft
 
-**Bearbeiter:** PA Dr. Volkmar Trautmann  
-**Datum:** 18. April 2026  
-**Verfahren:** EUIPO BoA R 1322/26-2 (Nichtigkeitsantrag Bouqart Italia S.r.l.)  
+**Bearbeiter:** PA Dr. Volkmar Trautmann
+**Datum:** 18. April 2026
+**Verfahren:** EUIPO BoA R 1322/26-2 (Nichtigkeitsantrag Bouqart Italia S.r.l.)
 
 ---
 
@@ -103,5 +103,5 @@ Schriftsatz-Deadline: 15. Juli 2026. Angemessene Vorbereitungszeit: 6 Wochen.
 
 ---
 
-**Erstellt von:** PA Dr. Volkmar Trautmann  
+**Erstellt von:** PA Dr. Volkmar Trautmann
 **Datum:** 18. April 2026

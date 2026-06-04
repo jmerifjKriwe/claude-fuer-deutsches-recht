@@ -1,7 +1,7 @@
 # Kostenübersicht und Honorarabrechnung — AZ 26-UMR-0084
 
-**Stand:** 27.01.2026  
-**Kanzlei:** Kreidler-Bremer Medienrecht  
+**Stand:** 27.01.2026
+**Kanzlei:** Kreidler-Bremer Medienrecht
 **Mandantin:** Mira Windgassen
 
 ---
@@ -70,5 +70,5 @@
 
 ---
 
-*Erste Rechnung wird nach Abschluss der Fristmaßnahmen (31.01.2026) gestellt.*  
+*Erste Rechnung wird nach Abschluss der Fristmaßnahmen (31.01.2026) gestellt.*
 *Hartenberg/Kreidler-Bremer — 27.01.2026*

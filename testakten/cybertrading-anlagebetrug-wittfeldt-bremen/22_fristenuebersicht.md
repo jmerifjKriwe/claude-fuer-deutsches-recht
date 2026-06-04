@@ -1,9 +1,9 @@
 # Fristenübersicht – Aktenstück 22
 
-**Aktenzeichen:** PS-BKR-2026-0412  
-**Stand:** 30.04.2026  
-**Sachbearbeiterin:** Henriette Böckmann (Fristenkontrolle)  
-**Prüfung:** Dr. Severin Pflüger  
+**Aktenzeichen:** PS-BKR-2026-0412
+**Stand:** 30.04.2026
+**Sachbearbeiterin:** Henriette Böckmann (Fristenkontrolle)
+**Prüfung:** Dr. Severin Pflüger
 
 ---
 

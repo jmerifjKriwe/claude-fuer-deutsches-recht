@@ -1,8 +1,8 @@
 # 10 — Geschäftsführerhaftung § 43 GmbHG: Polska-Investition
 
-**Akte:** DWSP/2026/GR-4417  
-**Erstellt:** 23.04.2026  
-**Bearbeiter:** Prof. Dr. Wieland Drosselberg  
+**Akte:** DWSP/2026/GR-4417
+**Erstellt:** 23.04.2026
+**Bearbeiter:** Prof. Dr. Wieland Drosselberg
 
 ---
 
@@ -83,5 +83,5 @@ Wichtiger Hinweis: Der Haftungsanspruch der Gesellschaft gegen ihren Geschäftsf
 
 ---
 
-*Erstellt: 23.04.2026 — Prof. Dr. Wieland Drosselberg*  
+*Erstellt: 23.04.2026 — Prof. Dr. Wieland Drosselberg*
 *Referenz: § 43 GmbHG (dejure.org/gesetze/GmbHG/43.html); BGH II ZR 224/00; BGH NJW 2008, 1594*

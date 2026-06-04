@@ -1,7 +1,7 @@
 # Fristenberechnung BGB AT — §§ 186–193 BGB: Praktische Berechnungsbeispiele
 
-**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg  
-**Datum:** 10. Mai 2026  
+**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg
+**Datum:** 10. Mai 2026
 **Bezug:** Alle Fristen in der Akte Pohlmann-Ofenkaess; Klausur-Vorbereitung
 
 ---
@@ -127,8 +127,8 @@ SCHRITT 4: Verjährungsfristen (§§ 195, 199 BGB)
   → Dann + Regelfrist (§ 195 = 3 Jahre; §§ 196, 197 Sonderfristen)
 ```
 
-**Quellen:**  
-§§ 186–193 BGB: https://dejure.org/gesetze/BGB/186.html  
-§§ 195, 199 BGB: https://dejure.org/gesetze/BGB/195.html  
-§ 355 AO: https://dejure.org/gesetze/AO/355.html  
+**Quellen:**
+§§ 186–193 BGB: https://dejure.org/gesetze/BGB/186.html
+§§ 195, 199 BGB: https://dejure.org/gesetze/BGB/195.html
+§ 355 AO: https://dejure.org/gesetze/AO/355.html
 BGH NJW 2019, 1302 (Fristberechnung Monatsfrist §§ 187 ff. BGB): https://www.bundesgerichtshof.de

@@ -4,10 +4,10 @@
 
 Die Bank will nach der ersten Portalveroeffentlichung nachweisen, dass die Dublin-plc als einheitlicher Rechtsträger im Lobbyregister erscheint und die Frankfurter Zweigniederlassung nicht versehentlich oder durch parallele interne Arbeit als zweiter Eintrag veröffentlicht wurde.
 
-Bearbeiterin Compliance: Orlaine Keating, Dublin  
-Bearbeiter Kanzlei: RAin Dr. Mareike Tamm  
-Geplanter erster Abruf: 02.06.2026, 09:00 Uhr  
-Interne Akte: ELB-LR-2026-05  
+Bearbeiterin Compliance: Orlaine Keating, Dublin
+Bearbeiter Kanzlei: RAin Dr. Mareike Tamm
+Geplanter erster Abruf: 02.06.2026, 09:00 Uhr
+Interne Akte: ELB-LR-2026-05
 Erwartete Registernummer aus Portalbestaetigung: R009814
 
 ## Suchbegriffe

@@ -1,8 +1,8 @@
 # 18 — Sozialplan-Verhandlung: Betriebsrat Darmstadt
 
-**Datum:** Februar–April 2026  
-**Bearbeiter:** RAin Dr. Petra Kammerlohr  
-**Betriebsrat:** Darmstadt-Nord, Vorsitzender Manfred Groetzsch  
+**Datum:** Februar–April 2026
+**Bearbeiter:** RAin Dr. Petra Kammerlohr
+**Betriebsrat:** Darmstadt-Nord, Vorsitzender Manfred Groetzsch
 **VENERA-Verhandlungsführung:** Theodora Volkenrath-Eichelmann (GF), RAin Kammerlohr
 
 ---

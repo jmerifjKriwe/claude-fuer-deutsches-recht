@@ -1,10 +1,10 @@
 # Aktenvermerk — Krankmeldung Tom Berger
 
-**Vermerk-Nr.:** HR-2026-0012  
-**Datum:** 20.05.2026  
-**Verfasserin:** Jana Reuter  
-**Adressat:** Personalakte Tom Berger (intern, nicht zugänglich für Dritte)  
-**Vertraulichkeit:** Nur intern; keine Weitergabe ohne ausdrückliche Genehmigung  
+**Vermerk-Nr.:** HR-2026-0012
+**Datum:** 20.05.2026
+**Verfasserin:** Jana Reuter
+**Adressat:** Personalakte Tom Berger (intern, nicht zugänglich für Dritte)
+**Vertraulichkeit:** Nur intern; keine Weitergabe ohne ausdrückliche Genehmigung
 
 ---
 
@@ -14,7 +14,7 @@ Tom Berger (Minijobber, tätig als Bürohilfe / Scan- und Postbearbeitung, Eintr
 
 **Wortlaut der SMS (sinngemäß):** "Guten Morgen, ich melde mich krank für heute und morgen. Ich hoffe, übermorgen wieder da zu sein."
 
-**Voraussichtliche Abwesenheitsdauer:** 20.05.2026 bis voraussichtlich 21.05.2026 (2 Arbeitstage).  
+**Voraussichtliche Abwesenheitsdauer:** 20.05.2026 bis voraussichtlich 21.05.2026 (2 Arbeitstage).
 **Voraussichtliche Rückkehr:** 22.05.2026.
 
 ---
@@ -67,10 +67,10 @@ Tom Bergers Arbeitszeit wird auf Stundenbasis abgerechnet (Stundennachweis monat
 - **U1-Umlageverfahren:** Kanzlei muss prüfen, ob sie am U1-Umlageverfahren teilnimmt (Arbeitgeber mit bis zu 30 Mitarbeitern sind verpflichtet). Bei Teilnahme: Erstattungsantrag bei der Krankenkasse stellen.
 - **Payroll-Vorbereitung:** Mara Klein trägt die Korrektur bis 26.05.2026 in das Payroll-Vorbereitungsblatt ein.
 
-**Vorgemerkte Stunden Tom Berger Mai 2026:**  
-Reguläre Stunden laut Plan: 40 h (10 h/Woche × 4 Wochen)  
-Abzüglich Fehlstunden 20./21.05.2026: − 4 h (à 2 h/Arbeitstag)  
-Tatsächlich abzurechnende Stunden (ohne EFZ): 36 h  
+**Vorgemerkte Stunden Tom Berger Mai 2026:**
+Reguläre Stunden laut Plan: 40 h (10 h/Woche × 4 Wochen)
+Abzüglich Fehlstunden 20./21.05.2026: − 4 h (à 2 h/Arbeitstag)
+Tatsächlich abzurechnende Stunden (ohne EFZ): 36 h
 EFZ-Stunden (über U1 zu erstatten): 4 h
 
 ---

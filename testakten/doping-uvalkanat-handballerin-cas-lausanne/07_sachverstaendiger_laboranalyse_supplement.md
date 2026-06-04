@@ -1,7 +1,7 @@
 # 07 — Sachverständiger und Laboranalyse Supplement-Charge 22-4188
 
-**Erstellt:** 05.04.2026  
-**Bearbeiter:** RA Prof. Dr. Markus Lentze  
+**Erstellt:** 05.04.2026
+**Bearbeiter:** RA Prof. Dr. Markus Lentze
 **AZ:** SU/DOPING/2026-001
 
 ---
@@ -10,10 +10,10 @@
 
 ### 1.1 Person des Sachverständigen
 
-Prof. Dr. Stefan Kempa  
-Lehrstuhl für Toxikologie und forensische Chemie, Johannes Gutenberg-Universität Mainz  
-Publikationen: über 180 begutachtete Fachartikel zu Substanzanalytik, Anti-Doping und Umwelttoxikologie  
-Früheres CAS-Sachverständigengutachten: CAS 2022/A/8145 (Horváth ./. IOC), CAS 2023/A/8900 (Viegas ./. WADA)  
+Prof. Dr. Stefan Kempa
+Lehrstuhl für Toxikologie und forensische Chemie, Johannes Gutenberg-Universität Mainz
+Publikationen: über 180 begutachtete Fachartikel zu Substanzanalytik, Anti-Doping und Umwelttoxikologie
+Früheres CAS-Sachverständigengutachten: CAS 2022/A/8145 (Horváth ./. IOC), CAS 2023/A/8900 (Viegas ./. WADA)
 Honorar: 8.500 EUR netto pro Gutachten (Pauschalhonorar)
 
 ### 1.2 Gutachtenauftrag (Auszug aus Beauftragungsschreiben 05.03.2026)
@@ -31,9 +31,9 @@ Honorar: 8.500 EUR netto pro Gutachten (Pauschalhonorar)
 
 ### 2.1 Analysebericht (Auszug), Nr. LGC-2026-0310-4188
 
-**Eingang Proben:** 11.03.2026, 4 Kapseln aus gesicherter Probe (Charge 22-4188, RecoveryMax Pro)  
-**Methode:** LC-MS/MS (Agilent 6460 Triple Quadrupole) nach Extraktion in Methanol:Wasser 80:20  
-**Analysiert auf:** vollständige WADA-2026-Verbotsliste (412 Analyte)  
+**Eingang Proben:** 11.03.2026, 4 Kapseln aus gesicherter Probe (Charge 22-4188, RecoveryMax Pro)
+**Methode:** LC-MS/MS (Agilent 6460 Triple Quadrupole) nach Extraktion in Methanol:Wasser 80:20
+**Analysiert auf:** vollständige WADA-2026-Verbotsliste (412 Analyte)
 **Analyseabschluss:** 01.04.2026
 
 **Ergebnis (Auswahl):**

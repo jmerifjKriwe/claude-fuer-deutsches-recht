@@ -1,7 +1,7 @@
 # Lagebild und Auftrag
 
-**Projektname:** Morgenstadt 2026  
-**Auftraggeber:** Landesgeschäftsstelle Bürgerforum Morgenstadt  
+**Projektname:** Morgenstadt 2026
+**Auftraggeber:** Landesgeschäftsstelle Bürgerforum Morgenstadt
 **Rolle der Rechts-/Compliance-Seite:** schnelle Freigaben, Risikofrüherkennung, Dokumentation, kein politisches Ghostwriting ohne Quellenprüfung.
 
 ## Ausgangslage

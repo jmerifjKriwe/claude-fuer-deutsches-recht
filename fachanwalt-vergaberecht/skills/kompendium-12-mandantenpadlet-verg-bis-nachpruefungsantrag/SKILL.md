@@ -1,0 +1,404 @@
+---
+name: kompendium-12-mandantenpadlet-verg-bis-nachpruefungsantrag
+description: "fachanwalt-vergaberecht: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (mandantenpadlet-vergabe-canvas, mandat-triage-vergaberecht, nachhaltigkeit-tariftreue-lksg-cbam, nachpruefungsantrag-powerdraft) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+---
+
+# Kompendium 12 - fachanwalt-vergaberecht
+
+## Zweck
+
+Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+
+## Enthaltene frühere Skills
+
+| Früherer Skill | Frühere Beschreibung |
+| --- | --- |
+| `mandantenpadlet-vergabe-canvas` | Interaktives Vergabe-Padlet als Canvas erstellen: Rollen, Fristen, Dokumente, Rugepunkte, Bewertungsfehler, Rechtsweg, Risiken, Aufgaben und offene Fragen. |
+| `mandat-triage-vergaberecht` | Eingangs-Triage für vergaberechtliche Mandate: Mandantenrolle, Schwellenwert, Verfahrensstand und Frist-Sofort-Check. Normen: § 106 GWB (EU-Schwellen), § 134 GWB (Vorabinformation 10 Kalendertage Stillhaltefrist), § 160 Abs. 3 GWB (Ruegefrist 15 Tage). Prüfraster: Mandantenrolle (Bieter/Auftraggeber), Schwelle, Verfahrensstand (Bekanntmachung bis Zuschlag), Frist-Sofort-Check, Eskalation bei drohendem Zuschlag. Output Triage-Protokoll, Fristen-Ampel, Routing. Abgrenzung: Detailprüfung siehe vergabe-nachprüfung-aussicht; Schriftsatz siehe ruegeschriftsatz-erstellen. |
+| `nachhaltigkeit-tariftreue-lksg-cbam` | Nachhaltigkeit, soziale Kriterien, Tariftreue, Lieferkette und CO2-Bezug in Vergaben gestalten: Eignung, Ausfuehrungsbedingungen, Zuschlagskriterien und Nachweise. |
+| `nachpruefungsantrag-powerdraft` | Nachpruefungsantrag als Powerdraft erstellen: Zulassung, Antragsbefugnis, Ruge, Fristen, Sachantraege, Akteneinsicht, Beweisangebote und Eilantraege. |
+
+## Arbeitsregel
+
+1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
+3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+
+## Konsolidierte Inhalte
+
+## 1. `mandantenpadlet-vergabe-canvas`
+
+**Frühere Beschreibung:** Interaktives Vergabe-Padlet als Canvas erstellen: Rollen, Fristen, Dokumente, Rugepunkte, Bewertungsfehler, Rechtsweg, Risiken, Aufgaben und offene Fragen.
+
+# Mandantenpadlet Vergabe-Canvas
+
+## Zweck
+
+Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll unordentliche Vergabemandate visuell und kollaborativ steuerbar machen. Er arbeitet fuer Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
+
+## Sofortmodus
+
+1. Rolle klaeren: Auftraggeber, Bieter, Beigeladener, Foerdermittelempfaenger, Projektsteuerer oder Kanzlei.
+2. Verfahrensstand klaeren: Markterkundung, Bekanntmachung, Angebotsphase, Wertung, Paragraph 134 GWB, Zuschlag, Vertrag, Nachpruefung, Beschwerde oder Schadensersatz.
+3. Schwellenwert und Rechtsweg pruefen: Oberschwelle, Unterschwelle, Sektoren, Konzession, Verteidigung/Sicherheit, Foerdermittel oder Sonderregime.
+4. Fristen sichern: Ruge, Angebotsfrist, Stillhaltefrist, 15-Tage-Frist nach Nichtabhilfe, Beschwerdefrist, Paragraph 135 GWB-Fristen.
+5. Erst danach in die materielle Pruefung gehen.
+
+## Arbeitsweise
+
+- Baue zuerst eine kleine Tabelle mit `Tatsache`, `Beleg`, `rechtliche Bedeutung`, `Risiko`, `naechster Schritt`.
+- Trenne strikt zwischen gesicherten Tatsachen, plausiblen Annahmen und offenen Pruefpunkten.
+- Wenn der Nutzer Anfaenger ist, erklaere jedes vergaberechtliche Kunstwort in einem Satz und liefere danach sofort die Handlung.
+- Wenn der Nutzer erfahren ist, liefere direkt Matrix, Schriftsatzkern, Vermerk oder Entscheidungsvorlage.
+- Bei schwellenwert-, formular-, TED/eForms-, Wettbewerbsregister-, Landes- oder EU-Fragen einen Live-/Aktualitaetscheck verlangen, bevor Zahlen oder Formularlogik tragend verwendet werden.
+
+## Pflicht-Output
+
+- Kurzbild in drei Saetzen.
+- Ampel: Frist, Zustaendigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
+- Matrix oder Padlet-Block, wenn mehr als drei Themen/Fehler/Unterlagen betroffen sind.
+- Konkreter naechster Schritt mit Adressat, Frist, benoetigten Anlagen und Entwurfsformat.
+
+## Typische Outputs
+
+Padlet-Board in Markdown, Aufgabenliste, Ampeln, Tabellen, naechste Entscheidungen.
+
+## Qualitaetsgates
+
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Datum, Aktenzeichen und frei oder amtlich pruefbarer Quelle absichern.
+- Keine ungeprueften Schwellenwerte. Fuer 2026/2027 sind die offiziellen EU-/nationalen Quellen vor tragender Verwendung zu pruefen.
+- Keine pauschale Ruge. Jeder Vergabeverstoss braucht konkrete Tatsache, verletzte Regel, Kausalitaet/Chance und begehrte Abhilfe.
+- Auftraggeberseitig immer dokumentieren: Warum durfte genau diese Entscheidung zu genau diesem Zeitpunkt getroffen werden?
+- Bieterseitig immer taktisch pruefen: Rugen, nachfragen, Angebot abgeben, Nachpruefung, Vergleich oder Schadensersatz.
+
+## Anschluss-Skills
+
+- `vergabe-os-master-orchestrator` fuer Gesamtsteuerung.
+- `schwellenwerte-2026-2027-livecheck` fuer Schwellenwert und Rechtsweg.
+- `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
+- `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
+- `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
+
+
+## Vergabe-Workbench-Boost v61.2
+
+- Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
+- Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
+- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
+- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
+- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
+- Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
+- Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.
+
+## 2. `mandat-triage-vergaberecht`
+
+**Frühere Beschreibung:** Eingangs-Triage für vergaberechtliche Mandate: Mandantenrolle, Schwellenwert, Verfahrensstand und Frist-Sofort-Check. Normen: § 106 GWB (EU-Schwellen), § 134 GWB (Vorabinformation 10 Kalendertage Stillhaltefrist), § 160 Abs. 3 GWB (Ruegefrist 15 Tage). Prüfraster: Mandantenrolle (Bieter/Auftraggeber), Schwelle, Verfahrensstand (Bekanntmachung bis Zuschlag), Frist-Sofort-Check, Eskalation bei drohendem Zuschlag. Output Triage-Protokoll, Fristen-Ampel, Routing. Abgrenzung: Detailprüfung siehe vergabe-nachprüfung-aussicht; Schriftsatz siehe ruegeschriftsatz-erstellen.
+
+# Mandat-Triage Vergaberecht
+
+## Zweck
+
+Vergaberecht ist hochgradig fristen-kritisch — die Stillhaltefrist § 134 GWB ist nur zehn Kalendertage. Triage stellt Sofort-Eilbedürftigkeit fest.
+
+## Ablauf — sieben Fragen
+
+### Frage 1 — Mandantenrolle?
+
+- Bieter beteiligt (Angebot abgegeben oder Teilnahme erklärt)
+- Potenzieller Bieter (nicht beteiligt aber wollte oder hätte wollen)
+- Öffentlicher Auftraggeber (Verteidigung Nachprüfungs-Antrag)
+- Sektorenauftraggeber
+- Konzessionsgeber
+- Subunternehmer / Nachunternehmer
+
+### Frage 2 — Auftragsart?
+
+- Liefer-Auftrag
+- Dienstleistungs-Auftrag
+- Bauauftrag (VOB/A-EU)
+- Konzession
+- Sektorenauftraggeber-Vergabe
+- Mischauftrag
+- Rahmen-Vereinbarung
+
+### Frage 3 — Schwelle?
+
+- Oberhalb EU-Schwelle (Schwellenwerte aktuell prüfen — Liefer-/Dienstleistungs-Bund EUR 143000 Kommunen EUR 221000 Bau EUR 5538000)
+- Unterhalb EU-Schwelle (Landes-/Kommunalvergabeverfahren UVgO)
+
+### Frage 4 — Verfahrensstand?
+
+- Vor Bekanntmachung (Auftraggeber-Beratung)
+- Bekanntmachung erschienen — Teilnahme-Vorbereitung
+- Teilnahmewettbewerb
+- Angebot-Abgabefrist offen
+- Submission erfolgt — Wertung
+- Vorabinformation § 134 GWB erhalten
+- Zuschlag erteilt
+- Nachprüfungsantrag bei VK läuft
+- Sofortige Beschwerde OLG
+
+### Frage 5 — Akute Eilbedürftigkeit?
+
+- **Stillhaltefrist § 134 GWB** zehn Kalendertage — Zuschlag droht
+- **Eil-Antrag** § 169 GWB Zuschlag-Sperre
+- **Fünfzehn-Kalender-Tage-Frist** § 160 Abs. 3 GWB
+- **Angebot-Abgabefrist** kurz
+- **Klage gegen Direktvergabe** ohne Bekanntmachung
+
+### Frage 6 — Rüge erfolgt?
+
+- Rüge an Auftraggeber abgesendet?
+- Datum Rüge?
+- Reaktion Auftraggeber?
+- Nicht-Abhilfe Mitteilung?
+
+### Frage 7 — Wirtschaftliche Verhältnisse?
+
+- Auftrag-Volumen (Streitwert § 50 Abs. 2 GKG fünf Prozent Bruttoauftragssumme)
+- Gewinn-Erwartung Mandant
+- Kostenrisiko bei Verfahren
+- Versicherungs-Deckung
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Routing-Matrix
+
+| Vorgang | Folge-Skill |
+|---|---|
+| Nachprüfungs-Antrag VK | `vergabe-nachpruefung-aussicht` |
+| Direktvergabe ohne Bekanntmachung | `vergabe-nachpruefung-aussicht` plus § 135 GWB Unwirksamkeit |
+| Sofortige Beschwerde OLG | `vergabe-nachpruefung-aussicht` plus Berufungs-Strategie |
+| Vergabe-Schadensersatz | (Skill vergabe-schadensersatz — perspektivisch) |
+| Unterhalb-Schwelle | (Skill unterhalb-schwelle-uvgo — perspektivisch) |
+| Auftraggeber-Beratung Verfahrenswahl | (Skill verfahrenswahl-beratung — perspektivisch) |
+
+## Eilmodus Stillhaltefrist
+
+Bei Stillhaltefrist § 134 GWB läuft:
+
+1. Kalender prüfen — wann genau Eingang Vorabinformation?
+2. Rüge sofort an Auftraggeber sofern nicht erfolgt
+3. Bei Nicht-Abhilfe oder Schweigen: Nachprüfungs-Antrag VK fünfzehn Tage
+4. Antrag mit Eil-Antrag § 169 GWB Aufschiebung
+5. Bei Drohung Zuschlag binnen 24 Stunden: Eil-Antrag VK mit aufschiebender Wirkung
+
+## Mandatsannahme
+
+- **Konflikt-Check** — kein Doppel-Mandat unter Bietern
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **Komplexität** Sachverständigen-Bedarf technisch Kalkulationen
+- **Versicherungs-Deckung** Bietern selten — Berufshaftpflicht Anwalt prüfen
+
+## Eskalation
+
+- **Telefon-Sofort** Stillhaltefrist läuft binnen 24 Stunden
+- **Binnen einer Stunde** Rüge-Schriftsatz Vergabekammer-Eil-Antrag
+- **Heute** Nachprüfungs-Antrag bei VK
+- **Diese Woche** Sofortige Beschwerde OLG bei VK-Beschluss
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Vergaberecht Mandat triage und routen | Triage-Protokoll; Template unten |
+| Variante A — Unterhalb EU-Schwellenwert | Nationales Haushalts-/Vergaberecht; keine VK-Zustaendigkeit |
+| Variante B — Verteidigung Auftraggeber | Andere Beratungsrichtung; VK-Verteidigung |
+| Variante C — Eilsituation Stillhaltefrist | Frist-Prioritaet; Ruege und NPA sofort |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Ausgabe
+
+- `triage-protokoll-vergaberecht.md`
+- Aktenanlage
+- Frist im Fristenbuch (zehn Kalendertage § 134 GWB fünfzehn Kalendertage § 160 GWB)
+- Rüge-Schriftsatz-Entwurf
+- Nachprüfungs-Antrag-Entwurf bei akutem Bedarf
+- Mandatsvereinbarung mit Honorar
+- Empfehlung Folge-Skill
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+## Quellen
+
+- GWB §§ 97 ff. 123 124 127 134 135 155 160 167 169 171 173 181
+- VgV VOB/A-EU UVgO SektVO KonzVgV
+- GKG § 50
+- BGH XIII. Zivilsenat (Vergaberecht seit 01.01.2021; vorher X. Zivilsenat)
+- Burgi Vergaberecht
+
+## Vertiefung: Leitsaetze und Output-Template Triage
+
+### Triage-Vertiefung — kritische Vergaberecht-Fristen
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+### Output-Template Triage-Protokoll Vergaberecht
+**Adressat:** Intern — Tonfall: schnell, fristorientiert
+
+```
+TRIAGE-PROTOKOLL Vergaberecht
+=========================================
+Eingangsdatum:              [TT.MM.JJJJ]
+Mandant:                    [NAME / UNTERNEHMEN]
+Vergabeverfahren:           [BEZEICHNUNG, TED-NR.]
+Auftragsgegenstand:         [LIEFERUNG / DIENSTLEISTUNG / BAU]
+Auftragswert (geschaetzt):  EUR [BETRAG]
+EU-Schwellenwert:           UEBERSCHRITTEN / NICHT UEBERSCHRITTEN
+Mandantenrolle:             [Bieter / Auftraggeber / Beigeladene]
+Verstoss:                   [WERTUNG / EIGNUNG / DISKRIMINIERUNG ...]
+Kenntnisdatum:              [TT.MM.JJJJ]
+Ruegeobliegenheit-Frist:    [TT.MM.JJJJ]
+Informationsschreiben §134: [JA vom DATUM / NEIN]
+Stillhaltefrist bis:        [DATUM]
+Zuschlag erteilt:           JA / NEIN
+Prioritaet:                 ROT (Sofort) / GELB / GRUEN
+Naechster Schritt:          [Ruege / NPA / §181-Klage]
+=========================================
+```
+
+
+## Vergabe-Workbench-Boost v61.2
+
+- Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
+- Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
+- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
+- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
+- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
+- Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
+- Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.
+
+## 3. `nachhaltigkeit-tariftreue-lksg-cbam`
+
+**Frühere Beschreibung:** Nachhaltigkeit, soziale Kriterien, Tariftreue, Lieferkette und CO2-Bezug in Vergaben gestalten: Eignung, Ausfuehrungsbedingungen, Zuschlagskriterien und Nachweise.
+
+# Nachhaltigkeit, Tariftreue und Lieferkette
+
+## Zweck
+
+Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll strategische Beschaffung rechtssicher und nachweisbar umsetzen. Er arbeitet fuer Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
+
+## Sofortmodus
+
+1. Rolle klaeren: Auftraggeber, Bieter, Beigeladener, Foerdermittelempfaenger, Projektsteuerer oder Kanzlei.
+2. Verfahrensstand klaeren: Markterkundung, Bekanntmachung, Angebotsphase, Wertung, Paragraph 134 GWB, Zuschlag, Vertrag, Nachpruefung, Beschwerde oder Schadensersatz.
+3. Schwellenwert und Rechtsweg pruefen: Oberschwelle, Unterschwelle, Sektoren, Konzession, Verteidigung/Sicherheit, Foerdermittel oder Sonderregime.
+4. Fristen sichern: Ruge, Angebotsfrist, Stillhaltefrist, 15-Tage-Frist nach Nichtabhilfe, Beschwerdefrist, Paragraph 135 GWB-Fristen.
+5. Erst danach in die materielle Pruefung gehen.
+
+## Arbeitsweise
+
+- Baue zuerst eine kleine Tabelle mit `Tatsache`, `Beleg`, `rechtliche Bedeutung`, `Risiko`, `naechster Schritt`.
+- Trenne strikt zwischen gesicherten Tatsachen, plausiblen Annahmen und offenen Pruefpunkten.
+- Wenn der Nutzer Anfaenger ist, erklaere jedes vergaberechtliche Kunstwort in einem Satz und liefere danach sofort die Handlung.
+- Wenn der Nutzer erfahren ist, liefere direkt Matrix, Schriftsatzkern, Vermerk oder Entscheidungsvorlage.
+- Bei schwellenwert-, formular-, TED/eForms-, Wettbewerbsregister-, Landes- oder EU-Fragen einen Live-/Aktualitaetscheck verlangen, bevor Zahlen oder Formularlogik tragend verwendet werden.
+
+## Pflicht-Output
+
+- Kurzbild in drei Saetzen.
+- Ampel: Frist, Zustaendigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
+- Matrix oder Padlet-Block, wenn mehr als drei Themen/Fehler/Unterlagen betroffen sind.
+- Konkreter naechster Schritt mit Adressat, Frist, benoetigten Anlagen und Entwurfsformat.
+
+## Typische Outputs
+
+Kriterienmatrix, Nachweislogik, Verhaeltnismaessigkeitscheck, Textbausteine.
+
+## Qualitaetsgates
+
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Datum, Aktenzeichen und frei oder amtlich pruefbarer Quelle absichern.
+- Keine ungeprueften Schwellenwerte. Fuer 2026/2027 sind die offiziellen EU-/nationalen Quellen vor tragender Verwendung zu pruefen.
+- Keine pauschale Ruge. Jeder Vergabeverstoss braucht konkrete Tatsache, verletzte Regel, Kausalitaet/Chance und begehrte Abhilfe.
+- Auftraggeberseitig immer dokumentieren: Warum durfte genau diese Entscheidung zu genau diesem Zeitpunkt getroffen werden?
+- Bieterseitig immer taktisch pruefen: Rugen, nachfragen, Angebot abgeben, Nachpruefung, Vergleich oder Schadensersatz.
+
+## Anschluss-Skills
+
+- `vergabe-os-master-orchestrator` fuer Gesamtsteuerung.
+- `schwellenwerte-2026-2027-livecheck` fuer Schwellenwert und Rechtsweg.
+- `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
+- `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
+- `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
+
+
+## Vergabe-Workbench-Boost v61.2
+
+- Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
+- Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
+- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
+- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
+- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
+- Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
+- Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.
+
+## 4. `nachpruefungsantrag-powerdraft`
+
+**Frühere Beschreibung:** Nachpruefungsantrag als Powerdraft erstellen: Zulassung, Antragsbefugnis, Ruge, Fristen, Sachantraege, Akteneinsicht, Beweisangebote und Eilantraege.
+
+# Nachpruefungsantrag Powerdraft
+
+## Zweck
+
+Dieser Skill erweitert das Fachanwalt-Vergaberecht-Plugin zu einer echten Vergabe-Workbench. Er soll aus Akte und Ruge schnell einen tragfaehigen VK-Antrag machen. Er arbeitet fuer Auftraggeber, Bieter, Beigeladene, Zuwendungsempfaenger, Projektsteuerer und Kanzleien, sofern die Perspektive zu Beginn klar markiert wird.
+
+## Sofortmodus
+
+1. Rolle klaeren: Auftraggeber, Bieter, Beigeladener, Foerdermittelempfaenger, Projektsteuerer oder Kanzlei.
+2. Verfahrensstand klaeren: Markterkundung, Bekanntmachung, Angebotsphase, Wertung, Paragraph 134 GWB, Zuschlag, Vertrag, Nachpruefung, Beschwerde oder Schadensersatz.
+3. Schwellenwert und Rechtsweg pruefen: Oberschwelle, Unterschwelle, Sektoren, Konzession, Verteidigung/Sicherheit, Foerdermittel oder Sonderregime.
+4. Fristen sichern: Ruge, Angebotsfrist, Stillhaltefrist, 15-Tage-Frist nach Nichtabhilfe, Beschwerdefrist, Paragraph 135 GWB-Fristen.
+5. Erst danach in die materielle Pruefung gehen.
+
+## Arbeitsweise
+
+- Baue zuerst eine kleine Tabelle mit `Tatsache`, `Beleg`, `rechtliche Bedeutung`, `Risiko`, `naechster Schritt`.
+- Trenne strikt zwischen gesicherten Tatsachen, plausiblen Annahmen und offenen Pruefpunkten.
+- Wenn der Nutzer Anfaenger ist, erklaere jedes vergaberechtliche Kunstwort in einem Satz und liefere danach sofort die Handlung.
+- Wenn der Nutzer erfahren ist, liefere direkt Matrix, Schriftsatzkern, Vermerk oder Entscheidungsvorlage.
+- Bei schwellenwert-, formular-, TED/eForms-, Wettbewerbsregister-, Landes- oder EU-Fragen einen Live-/Aktualitaetscheck verlangen, bevor Zahlen oder Formularlogik tragend verwendet werden.
+
+## Pflicht-Output
+
+- Kurzbild in drei Saetzen.
+- Ampel: Frist, Zustaendigkeit/Rechtsweg, Sachverhalt, Belege, Erfolgsaussicht, Kostenrisiko.
+- Matrix oder Padlet-Block, wenn mehr als drei Themen/Fehler/Unterlagen betroffen sind.
+- Konkreter naechster Schritt mit Adressat, Frist, benoetigten Anlagen und Entwurfsformat.
+
+## Typische Outputs
+
+Antrag, Sachverhalt, Zulassungsteil, Begruendung, Anlagenliste.
+
+## Qualitaetsgates
+
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Datum, Aktenzeichen und frei oder amtlich pruefbarer Quelle absichern.
+- Keine ungeprueften Schwellenwerte. Fuer 2026/2027 sind die offiziellen EU-/nationalen Quellen vor tragender Verwendung zu pruefen.
+- Keine pauschale Ruge. Jeder Vergabeverstoss braucht konkrete Tatsache, verletzte Regel, Kausalitaet/Chance und begehrte Abhilfe.
+- Auftraggeberseitig immer dokumentieren: Warum durfte genau diese Entscheidung zu genau diesem Zeitpunkt getroffen werden?
+- Bieterseitig immer taktisch pruefen: Rugen, nachfragen, Angebot abgeben, Nachpruefung, Vergleich oder Schadensersatz.
+
+## Anschluss-Skills
+
+- `vergabe-os-master-orchestrator` fuer Gesamtsteuerung.
+- `schwellenwerte-2026-2027-livecheck` fuer Schwellenwert und Rechtsweg.
+- `workflow-chronologie-und-belegmatrix` fuer Aktenarbeit.
+- `nachpruefungsantrag-powerdraft` fuer VK-Verfahren.
+- `mandantenpadlet-vergabe-canvas` fuer komplexe Mehrthemenfaelle.
+
+
+## Vergabe-Workbench-Boost v61.2
+
+- Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
+- Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
+- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
+- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
+- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
+- Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
+- Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.

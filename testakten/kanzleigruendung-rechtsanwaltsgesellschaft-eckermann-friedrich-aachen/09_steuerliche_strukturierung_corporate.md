@@ -1,8 +1,8 @@
 # 09 Steuerliche Strukturierung — Personengesellschaft vs. Kapitalgesellschaft
 
-**Aktenzeichen:** KBH-2026-001-EFS  
-**Stand:** 18. März 2026  
-**Bearbeiter:** Dr. Volker Sandhof (intern, Fachberatung Steuerrecht), Steuerberater Prof. Dr. Werner Kallenbrunner (extern, Köln)  
+**Aktenzeichen:** KBH-2026-001-EFS
+**Stand:** 18. März 2026
+**Bearbeiter:** Dr. Volker Sandhof (intern, Fachberatung Steuerrecht), Steuerberater Prof. Dr. Werner Kallenbrunner (extern, Köln)
 
 ---
 

@@ -1,8 +1,8 @@
 # 19 — Vergleichsverhandlungen mit FlowerWorld AG
 
-**Bearbeiter:** RA Philipp Mertens-Waldhausen  
-**Datum:** 25. Juni 2026  
-**Gegenseite:** Rechtsanwälte Klingenberg Brauer & Partner, Hamburg, RA Dr. Heinz-Werner Klingenberg  
+**Bearbeiter:** RA Philipp Mertens-Waldhausen
+**Datum:** 25. Juni 2026
+**Gegenseite:** Rechtsanwälte Klingenberg Brauer & Partner, Hamburg, RA Dr. Heinz-Werner Klingenberg
 
 ---
 
@@ -92,5 +92,5 @@ Risiken einer gerichtlichen Entscheidung (Ungewissheit bezüglich EUIPO-Ausgang,
 
 ---
 
-**Erstellt von:** RA Philipp Mertens-Waldhausen  
+**Erstellt von:** RA Philipp Mertens-Waldhausen
 **Datum:** 25. Juni 2026

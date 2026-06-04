@@ -1,9 +1,9 @@
 # Board Paper — Investitionsentscheidung Projekt Silberfalke
 
-**Aktenzeichen:** MA-2026-SF-001  
-**Gremium:** Investmentkomitee Eagle Capital Partners Fund V  
-**Sitzung:** 12.05.2026, 14:00 Uhr, Frankfurt  
-**Verfasser:** Deal Team Eagle / Kanzlei  
+**Aktenzeichen:** MA-2026-SF-001
+**Gremium:** Investmentkomitee Eagle Capital Partners Fund V
+**Sitzung:** 12.05.2026, 14:00 Uhr, Frankfurt
+**Verfasser:** Deal Team Eagle / Kanzlei
 **Vertraulichkeitsstufe:** Streng vertraulich — nur Komiteemitglieder
 
 ---
@@ -12,9 +12,9 @@
 
 Dieses Board Paper legt dem Investmentkomitee die vollständigen Informationsgrundlagen für die Entscheidung über folgende Beschlüsse vor:
 
-1. **Abgabe eines Binding Offer** auf den Kauf von 100 % der Anteile an der Solaris Industries AG  
-2. **Verhandlungsmandat SPA**: Genehmigung des Term Sheets und der wesentlichen Vertragsparameter  
-3. **W&I-Versicherungsmandat**: Genehmigung der Buy-side-Policy bis EUR 18 Mio. Limit  
+1. **Abgabe eines Binding Offer** auf den Kauf von 100 % der Anteile an der Solaris Industries AG
+2. **Verhandlungsmandat SPA**: Genehmigung des Term Sheets und der wesentlichen Vertragsparameter
+3. **W&I-Versicherungsmandat**: Genehmigung der Buy-side-Policy bis EUR 18 Mio. Limit
 4. **PMI-Budget**: Genehmigung eines PMI-Initialbudgets von EUR 1,2 Mio.
 
 ---
@@ -39,9 +39,9 @@ Dieses Board Paper legt dem Investmentkomitee die vollständigen Informationsgru
 
 ### 3.1 Outside-In Analyse (Phase 1, April 2026)
 
-- Branchenanalyse: Präzisionsmechanik / Luft- und Raumfahrt-Zulieferer  
-- Marktposition: Top-3-Anbieter in DACH-Region für Antriebskomponenten  
-- Wettbewerbslandschaft: Konsolidierungstrend; Eagle-Investment antizipiert M&A-Roll-up  
+- Branchenanalyse: Präzisionsmechanik / Luft- und Raumfahrt-Zulieferer
+- Marktposition: Top-3-Anbieter in DACH-Region für Antriebskomponenten
+- Wettbewerbslandschaft: Konsolidierungstrend; Eagle-Investment antizipiert M&A-Roll-up
 
 ### 3.2 Legal Due Diligence (Hauptbericht, 08.05.2026)
 
@@ -84,7 +84,7 @@ Nicht-bindende Indikation vorhanden. Limit EUR 18 Mio., Prämie ca. EUR 540.000.
 | Szenario | IRR | MOIC | Exit-Annahme |
 |---|---|---|---|
 | Base Case | 22 % | 2,8x | EV/EBITDA 9,0x nach 5 Jahren |
-| Upside | 28 % | 3,5x | Synergien + Roll-up | 
+| Upside | 28 % | 3,5x | Synergien + Roll-up |
 | Downside (Delta-Schieflage) | 14 % | 1,9x | Sanierungskosten EUR 5 Mio. |
 
 ---

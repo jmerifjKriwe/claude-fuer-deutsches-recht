@@ -131,72 +131,33 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 63 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `abmahnung-97a-response` | Prueft urheberrechtliche Abmahnung, Unterlassungserklärung, Kosten, Aktivlegitimation, Belege, Modifikation und Gegenangriff. |
 | `allgemein` | Kaltstart fuer deutsches und EU-Urheberrecht: sortiert Werk, Rechte, Nutzung, KI, Software, Musik, Schranken, Fristen, Beweise und passende Anschluss-Skills. |
-| `arbeitnehmer-urheber-software` | Prueft Werke im Arbeitsverhältnis, Software-Sonderregel, Auftragsproduktion, Freelancer, Hochschule und Agentur. |
-| `architektur-angewandte-kunst` | Prueft Werke der Baukunst, angewandte Kunst, Produktgestaltung, Designrecht und Nutzungsänderungen. |
-| `auskunft-rechnungslegung` | Prueft Informationsansprüche, Drittauskunft, Rechnungslegung, Belegvorlage und Besichtigung im Urheberrechtsstreit. |
-| `bearbeitung-umgestaltung` | Prueft Bearbeitung, Adaption, Übersetzung, Arrangement, Cover, Remix und neue Fassung. |
-| `beweisforensik-versionen` | Sichert Belege bei Musik, Text, Code und KI-Output: Versionen, Hashes, Metadaten, Uploads, Screenshots und Chain of Custody. |
-| `broadcast-streaming-social` | Prueft öffentliche Wiedergabe, Zugänglichmachung, Streaming, Livestream, Reels, Podcasts, Radio und Veranstaltungen. |
-| `computer-kunst-generative-modelle` | Prueft digitale Kunst, generative Systeme, Zufall, Parameterkunst, Codekunst und menschliche Auswahlentscheidung. |
-| `datenbank-dataset-rechte` | Prueft Datenbankwerk, sui-generis-Datenbankrecht, Metadaten, Scraping, Dataset-Lizenz und KI-Trainingskorpus. |
-| `einstweilige-verfuegung-urheber` | Prueft Eilrechtsschutz, Dringlichkeit, Glaubhaftmachung, Verfügungsanspruch, Antrag und Vollziehung. |
-| `fotos-bilder-design` | Prueft Lichtbildwerk, Lichtbild, Design, Produktfoto, Screenshot, Stocklizenz, KI-Bild und Bildbearbeitung. |
-| `gema-gvl-verwertungsgesellschaften` | Prueft Wahrnehmungsverträge, GEMA/GVL-Meldungen, Tarife, Ausschüttung, Werkregistrierung und Rechte außerhalb der Kollektivwahrnehmung. |
-| `gerichtlicher-schriftsatz` | Baut Anspruchsbegründung, Klage, Schutzschrift, Erwiderung oder Antrag auf eV mit Beweisangeboten. |
-| `internationales-urheberrecht` | Prueft grenzüberschreitende Nutzung, Schutzlandprinzip, Berner Übereinkunft, EU-Harmonisierung, Plattformen und US-Bezug. |
-| `kanzlei-workflow-urheber` | Organisiert Mandat, Dokumente, Beweise, Fristen, Rechtekette, Gegnerkommunikation und Outputformat im Urheberrechtsfall. |
-| `ki-act-gpai-copyright` | Prueft GPAI-Pflichten zu Urheberrechts-Policy, Rechtevorbehalten, Training-Content-Summary und Dokumentation. |
 | `ki-output-menschlicher-beitrag` | Prueft, ob KI-unterstuetzte Ergebnisse urheberrechtlich geschuetzt sein koennen und welcher menschliche Beitrag konkret nachweisbar ist. |
-| `ki-training-tdm-optout` | Prueft Text und Data Mining, KI-Training, Rechtevorbehalt und Dokumentation nach § 44b UrhG, § 60d UrhG, DSM-RL und KI-VO. |
-| `ki-vertragsklauseln-rechte` | Entwirft und prüft Klauseln zu KI-Nutzung, Training, Output, Promptlogs, Opt-out, Kennzeichnung und Haftung. |
-| `kosten-streitwert-rvg` | Prueft Streitwert, Kostenrisiko, Abmahnkosten, wirtschaftliche Sinnhaftigkeit und Eskalationsbudget. |
-| `leistungsschutz-kuenstler-label` | Prueft Rechte ausübender Künstler, Produzenten, Tonträgerhersteller, Sendeunternehmen und Bild-/Tonträgerrechte. |
-| `linking-embedding-framing` | Prueft Links, Embeds, Framing, Zugangsbeschränkungen, neue Öffentlichkeit und technische Schutzmaßnahmen. |
-| `lizenzanalogie-musik-tarife` | Bereitet Lizenzanalogie im Musikfall vor: Tarife, Marktvergleich, Nutzungsausmaß, Reichweite, Dauer, Gebiet und Zuschläge. |
-| `mandantenmemo-urheberrecht` | Formt die Prüfung in ein klares Memo für Verlag, Label, Künstler, Plattform, Softwarehaus oder Kanzlei. |
-| `miturheber-band-splits` | Prueft Miturheberschaft, verbundene Werke, Split-Sheets, Bandstreit, Producer Shares und Rechteausübung. |
-| `moral-rights-ai-cover` | Prueft KI-Coverversionen, Stimmenklon, Künstlerpersönlichkeit, Namensnennung, Entstellung und Plattformmaßnahmen. |
-| `musikwerk-melodie-harmonie-rhythmus` | Prueft Musikwerke: Melodie, Motiv, Harmonie, Rhythmus, Arrangement, Hookline, Soundidee und Grenze zwischen Werk, Stil und bloßer Klangfarbe. |
-| `nutzungsrechte-lizenzkette` | Prueft einfache und ausschließliche Nutzungsrechte, Zweckübertragung, Unterlizenzen, Territorium, Dauer, Medien und Rechtekette. |
-| `open-source-software-lizenzen` | Prueft Open-Source-Pflichten, Copyleft, SaaS, interne Tools, KI-Codegeneratoren und Lizenzkompatibilität. |
+| `kompendium-01-kanzlei-workflow-urh-bis-verjaehrung-fristen` | urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 01; bündelt 3 frühere Spezialskills (kanzlei-workflow-urheber, rechtsprechungs-livecheck, verjaehrung-fristen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-02-ki-vertragsklauseln-bis-vertragsgenerator-mu` | urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (ki-vertragsklauseln-rechte, urhebervertragsrecht-verguetung, vertragsgenerator-musik-release) und bewahrt deren Workflows, Normanker, Prüfprogramme... |
+| `kompendium-03-vertrieb-verwertung-bis-abmahnung-97a-respon` | urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (vertrieb-verwertung-vertrag, schadensersatz-lizenzanalogie, abmahnung-97a-response) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgab... |
+| `kompendium-04-arbeitnehmer-urheber-bis-auskunft-rechnungsle` | urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (arbeitnehmer-urheber-software, architektur-angewandte-kunst, auskunft-rechnungslegung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Aus... |
+| `kompendium-05-bearbeitung-umgestal-bis-broadcast-streaming` | urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (bearbeitung-umgestaltung, beweisforensik-versionen, broadcast-streaming-social) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemus... |
+| `kompendium-06-computer-kunst-gener-bis-einstweilige-verfueg` | urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (computer-kunst-generative-modelle, datenbank-dataset-rechte, einstweilige-verfuegung-urheber) und bewahrt deren Workflows, Normanker, Prüfprogramme... |
+| `kompendium-07-fotos-bilder-design-bis-gerichtlicher-schrif` | urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (fotos-bilder-design, gema-gvl-verwertungsgesellschaften, gerichtlicher-schriftsatz) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgab... |
+| `kompendium-08-internationales-urhe-bis-ki-training-tdm-opto` | urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (internationales-urheberrecht, ki-act-gpai-copyright, ki-training-tdm-optout) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-09-kosten-streitwert-rv-bis-linking-embedding-fr` | urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (kosten-streitwert-rvg, leistungsschutz-kuenstler-label, linking-embedding-framing) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabe... |
+| `kompendium-10-lizenzanalogie-musik-bis-miturheber-band-spli` | urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (lizenzanalogie-musik-tarife, mandantenmemo-urheberrecht, miturheber-band-splits) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemu... |
+| `kompendium-11-moral-rights-ai-cove-bis-nutzungsrechte-lizen` | urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (moral-rights-ai-cover, musikwerk-melodie-harmonie-rhythmus, nutzungsrechte-lizenzkette) und bewahrt deren Workflows, Normanker, Prüfprogramme und Au... |
+| `kompendium-12-open-source-software-bis-plagiatsanalyse-musi` | urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (open-source-software-lizenzen, persoenlichkeitsrecht-stimme-deepfake, plagiatsanalyse-musik-text) und bewahrt deren Workflows, Normanker, Prüfprogra... |
+| `kompendium-13-plattform-notice-tak-bis-presseleistungsschut` | urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (plattform-notice-takedown, plattform-upload-art17-dsa, presseleistungsschutz-snippets) und bewahrt deren Workflows, Normanker, Prüfprogramme und Aus... |
+| `kompendium-14-rechte-an-prompts-bis-rechteclearing-sync` | urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (rechte-an-prompts, rechteclearing-ki-dataset-musik, rechteclearing-sync-film-game) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabe... |
+| `kompendium-15-sachverstaendigenbri-bis-schranken-zitat-unte` | urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (sachverstaendigenbriefing-musik, sampling-pastiche-remix, schranken-zitat-unterricht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausg... |
+| `kompendium-16-schutzdauer-gemeinfr-bis-songtext-lyrics-spra` | urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 16; bündelt 3 frühere Spezialskills (schutzdauer-gemeinfreiheit, software-69a-computerprogramm, songtext-lyrics-sprachwerk) und bewahrt deren Workflows, Normanker, Prüfprogramme und Aus... |
+| `kompendium-17-soundaufnahme-tontra-bis-urheberpersoenlichke` | urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 17; bündelt 3 frühere Spezialskills (soundaufnahme-tontraeger, titel-slogan-kurzform, urheberpersoenlichkeitsrecht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-18-urheberrecht-due-dil-bis-urheberstrafrecht` | urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 18; bündelt 3 frühere Spezialskills (urheberrecht-due-diligence, urheberrechtliche-compliance, urheberstrafrecht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-19-vergleich-und-settle-bis-vg-bild-vgwort-verla` | urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 19; bündelt 3 frühere Spezialskills (vergleich-und-settlement, verlagsrecht-buch-ebook, vg-bild-vgwort-verlag) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-20-werkhoehe-schoepfung-bis-wissenschaft-tdm-for` | urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 20; bündelt 2 frühere Spezialskills (werkhoehe-schoepfungshoehe, wissenschaft-tdm-forschung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
 | `output-builder-urheberrecht` | Erzeugt den jeweils passenden Output: Memo, Abmahnung, Antwort, Lizenztext, Tabellencheck, Mandantenbrief, Schriftsatz oder Red-Team. |
-| `persoenlichkeitsrecht-stimme-deepfake` | Prueft Stimme, Bild, Deepfake, KI-Cover, Persönlichkeitsrecht, KUG, Datenschutz und Urheberrechtsschnittstellen. |
-| `plagiatsanalyse-musik-text` | Prueft Ähnlichkeit, Zugang, Übernahme, Eigenständigkeit, Doppelschöpfung und Darlegung in Musik- und Textplagiaten. |
-| `plattform-notice-takedown` | Prueft Takedown, Counter-Notice, Content-ID, Plattformregeln, DSA-Beschwerde und Parallelstrategie. |
-| `plattform-upload-art17-dsa` | Prueft Plattformhaftung, Uploadfilter, Beschwerdeverfahren, Overblocking und parallele DSA-Fragen. |
-| `presseleistungsschutz-snippets` | Prueft Rechte der Presseverleger, Snippets, Suchmaschinen, Aggregatoren, Linkvorschauen und Plattformnutzung. |
-| `rechte-an-prompts` | Prueft Schutz von Prompts, Promptketten, Systemanweisungen, Workflowtexten und KI-Arbeitsmaterial. |
-| `rechteclearing-ki-dataset-musik` | Prueft Musikdatensätze für Training, Finetuning, Retrieval, Cover-Modelle, Voice-Modelle und Stilimitationsrisiken. |
-| `rechteclearing-sync-film-game` | Prueft Sync, Master, Publishing, Buyout, Territory, Term, Medien, Trailer, Social, Games und KI-generierte Assets. |
-| `rechtsprechungs-livecheck` | Sammelt nur verifizierte Rechtsprechung und amtliche Quellen fuer Urheberrecht, EU-Recht, Software, Musik und KI. |
 | `redteam-halluzinationsschutz` | Prueft Ergebnisse auf Quellenfehler, erfundene Rechtsprechung, falsche Normen, unklare Beweise und überzogene Sicherheit. |
-| `sachverstaendigenbriefing-musik` | Erstellt ein präzises Briefing für Musiksachverständige mit Prüfgegenstand, Audiofiles, Notation, Vergleichsparametern und Rechtsfragen. |
-| `sampling-pastiche-remix` | Prueft Sampling und kreative Nachnutzung nach Pelham, § 51a UrhG, Zitat, Karikatur, Parodie, Pastiche und Bearbeitung. |
-| `schadensersatz-lizenzanalogie` | Berechnet Schadensersatz im Urheberrecht über konkreten Schaden, Verletzergewinn, Lizenzanalogie und Zuschläge. |
-| `schranken-zitat-unterricht` | Prueft gesetzliche Erlaubnisse, Zitatrecht, Unterricht, Wissenschaft, Bibliotheken, Karikatur, Parodie und Pastiche. |
-| `schutzdauer-gemeinfreiheit` | Prueft Schutzdauer, Miturheberschaft, anonyme Werke, Leistungsschutzdauer, gemeinfreie Vorlagen und neue Bearbeitungen. |
-| `software-69a-computerprogramm` | Prueft Software, Quellcode, Objektcode, GUI, API, Datenformat, Funktionalitaet, Interoperabilitaet und Dekompilierung. |
-| `songtext-lyrics-sprachwerk` | Prueft Lyrics, Refrain, Claim, kurze Zeilen, Titel und Textfragmente als Sprachwerke oder nicht schutzfaehige Redewendungen. |
-| `soundaufnahme-tontraeger` | Prueft Tontraeger-, ausuebenden Kuenstler- und Produzentenrechte bei Master, Stem, Sample, Remix, Re-Recording und Streaming. |
-| `titel-slogan-kurzform` | Prueft kurze Formulierungen zwischen Urheberrecht, Werktitelrecht, Marke, UWG und Gemeingut. |
-| `urheberpersoenlichkeitsrecht` | Prueft Namensnennung, Erstveröffentlichung, Entstellung, Bearbeitung, Integrität und Konflikte bei KI-Remix oder Label-Edit. |
-| `urheberrecht-due-diligence` | Prueft Rechteportfolio bei Verlag, Label, Softwarehaus, Plattform, M&A und Investment. |
-| `urheberrechtliche-compliance` | Baut Prozesse für Rechteclearing, Stock, Software, KI, Social Media, Schulung, Freigabe und Audit. |
-| `urheberstrafrecht` | Prueft Strafbarkeit, Strafantrag, gewerbsmäßige Nutzung, Durchsuchung, Beschlagnahme und Verteidigungsschnittstellen. |
-| `urhebervertragsrecht-verguetung` | Prueft Urhebervertragsrecht, angemessene Vergütung, weitere Beteiligung, Transparenzpflichten und Buyout-Risiken. |
-| `vergleich-und-settlement` | Entwickelt Vergleichsstrategie bei Musik-, KI-, Software- und Content-Streit: Unterlassung, Lizenz, Accounting, Credit, Release. |
-| `verjaehrung-fristen` | Prueft Verjährung, Dringlichkeit, Plattform-Deadlines, Auskunftsfristen und Reaktionsfristen bei Urheberrechtsfällen. |
-| `verlagsrecht-buch-ebook` | Prueft Autorenvertrag, Verlagsrecht, E-Book, Hörbuch, Übersetzung, Nebenrechte, Remission und KI-Nutzungen. |
-| `vertragsgenerator-musik-release` | Erzeugt und prüft Vertragsbausteine für Songrelease, Label, Verlag, Producer, Feature, Remix, Split, Sync und Plattformvertrieb. |
-| `vertrieb-verwertung-vertrag` | Prueft Vertrieb, Aggregator, Distributor, Verlag, Label, Plattform, Subpublisher und internationale Revenue-Flows. |
-| `vg-bild-vgwort-verlag` | Prueft Vergütung, Meldung, Wahrnehmung, Bildrechte, Reprographie, Bibliothek, Verlagserlös und Autorentransparenz. |
-| `werkhoehe-schoepfungshoehe` | Prueft Schutzfaehigkeit und Werkhoehe nach § 2 UrhG und EU-Originalitaet: persoenliche geistige Schoepfung, Gestaltungsspielraum, Ausdruck statt Idee. |
-| `wissenschaft-tdm-forschung` | Prueft Forschungsnutzung, digitale Lehre, Bibliothek, TDM und Dokumentation für Hochschulen, Institute und Unternehmen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

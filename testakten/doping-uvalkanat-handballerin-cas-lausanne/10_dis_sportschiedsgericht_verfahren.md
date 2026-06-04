@@ -1,7 +1,7 @@
 # 10 — DIS-Sportschiedsgericht Frankfurt: Verfahren DSGSp 12/26
 
-**Erstellt:** 10.05.2026  
-**Bearbeiter:** RA Prof. Dr. Markus Lentze  
+**Erstellt:** 10.05.2026
+**Bearbeiter:** RA Prof. Dr. Markus Lentze
 **AZ:** SU/DOPING/2026-001 / DSGSp 12/26
 
 ---

@@ -91,10 +91,10 @@ B. BETROFFENE PERSONEN UND GEBIETE
    □ Bürger
    □ Kinder und Jugendliche
    □ Andere: _____________________
-   
+
    Schätzung der Anzahl betroffener Personen
    pro Jahr: ____________________________
-   
+
    Geografisches Gebiet: ________________
 
 C. RELEVANTE GRUNDRECHTE
@@ -123,7 +123,7 @@ D. BEWERTUNG NEGATIVER AUSWIRKUNGEN
    Beschreibung potenzieller negativer
    Auswirkungen auf jedes betroffene
    Grundrecht:
-   
+
    [Fuer jedes markierte Grundrecht:]
    Grundrecht: _________________________
    Potenzielle Auswirkung: ______________

@@ -1,10 +1,10 @@
 # 20 — Prozesstaktik: LG Mannheim 7 O 88/26 — Terminsvorbereitung
 
-**Bearbeiter:** RA Philipp Mertens-Waldhausen  
-**Datum:** 28. Juni 2026  
-**Termin:** Widerspruchsverhandlung (eV) und Hauptsachetermin — 08. Juli 2026, 10:00 Uhr  
-**Kammer:** LG Mannheim, 7. Kammer für Handelssachen  
-**Vorsitz:** Richterin Dr. Angelika Fleischer-Noll  
+**Bearbeiter:** RA Philipp Mertens-Waldhausen
+**Datum:** 28. Juni 2026
+**Termin:** Widerspruchsverhandlung (eV) und Hauptsachetermin — 08. Juli 2026, 10:00 Uhr
+**Kammer:** LG Mannheim, 7. Kammer für Handelssachen
+**Vorsitz:** Richterin Dr. Angelika Fleischer-Noll
 
 ---
 
@@ -84,5 +84,5 @@ Hilfsweise: Aussetzung nur bzgl. des Schadensersatzbegehrens; Unterlassungs- und
 
 ---
 
-**Erstellt von:** RA Philipp Mertens-Waldhausen  
+**Erstellt von:** RA Philipp Mertens-Waldhausen
 **Datum:** 28. Juni 2026

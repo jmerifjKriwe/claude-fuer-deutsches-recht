@@ -1,11 +1,11 @@
 # 01 — Kanzleinotiz Erstgespräch 16.04.2026
 
-**Aktenzeichen intern:** DWSP/2026/GR-4417  
-**Mandant:** Küchenkönig Manufaktur GmbH & Co. KG, Sennelager Str. 88, 33104 Paderborn  
-**Datum:** 16. April 2026, 10:00–12:30 Uhr  
-**Ort:** Kanzlei Drosselberg, Wegener, Sandtenbruch & Partner, Kaiser-Wilhelm-Str. 44, 33602 Bielefeld  
-**Anwesend:** Prof. Dr. Wieland Drosselberg (RA), Ass. iur. Miriam Sandtenbruch, Heinrich-Eberhard Geisen (GF), Cornelia Geisen-Wetterhof, Stefan Geisen  
-**Protokoll:** Ass. iur. Miriam Sandtenbruch  
+**Aktenzeichen intern:** DWSP/2026/GR-4417
+**Mandant:** Küchenkönig Manufaktur GmbH & Co. KG, Sennelager Str. 88, 33104 Paderborn
+**Datum:** 16. April 2026, 10:00–12:30 Uhr
+**Ort:** Kanzlei Drosselberg, Wegener, Sandtenbruch & Partner, Kaiser-Wilhelm-Str. 44, 33602 Bielefeld
+**Anwesend:** Prof. Dr. Wieland Drosselberg (RA), Ass. iur. Miriam Sandtenbruch, Heinrich-Eberhard Geisen (GF), Cornelia Geisen-Wetterhof, Stefan Geisen
+**Protokoll:** Ass. iur. Miriam Sandtenbruch
 
 ---
 
@@ -70,5 +70,5 @@ Stundensatz Prof. Dr. Drosselberg: 480 EUR netto; Ass. Sandtenbruch: 210 EUR net
 
 ---
 
-*Erstellt: 16.04.2026 — Miriam Sandtenbruch, Ass. iur.*  
+*Erstellt: 16.04.2026 — Miriam Sandtenbruch, Ass. iur.*
 *Geprüft: 17.04.2026 — Prof. Dr. Wieland Drosselberg*

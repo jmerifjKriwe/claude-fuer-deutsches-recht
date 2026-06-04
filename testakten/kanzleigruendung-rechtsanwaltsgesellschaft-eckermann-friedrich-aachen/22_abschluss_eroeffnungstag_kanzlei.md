@@ -1,8 +1,8 @@
 # 22 Abschluss — Eröffnungstag der Kanzlei EFS
 
-**Aktenzeichen:** KBH-2026-001-EFS  
-**Stand:** 09. Mai 2026  
-**Verfasser:** Dr. Hilke Eckermann  
+**Aktenzeichen:** KBH-2026-001-EFS
+**Stand:** 09. Mai 2026
+**Verfasser:** Dr. Hilke Eckermann
 
 ---
 

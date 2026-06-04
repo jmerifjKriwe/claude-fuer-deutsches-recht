@@ -128,7 +128,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 ## Verfahrensstand
 
-**Stichtag dieser Akte: April 2026**  
+**Stichtag dieser Akte: April 2026**
 **Mandatsannahme: 15. Januar 2026**
 
 | Verfahrensstrang | Status |
@@ -141,5 +141,5 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 | MPU-Vorbereitung | Abstinenz belegt (EtG 4,8 pg/mg); Reaktionstraining läuft; Zieltermin MPU Nov. 2026 |
 | Täter-Opfer-Ausgleich | Abgeschlossen 02.04.2026 (Waage e.V. Hagen) |
 
-Bearbeiter: **RA Sebastian Hoffmann**, Fachanwalt für Verkehrsrecht  
+Bearbeiter: **RA Sebastian Hoffmann**, Fachanwalt für Verkehrsrecht
 Kanzlei Hoffmann Verkehrsrecht, Altenaer Straße 112, 58507 Lüdenscheid

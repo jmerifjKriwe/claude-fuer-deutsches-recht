@@ -1,9 +1,9 @@
 # Aktenstück 04 – Angebotszusammenfassung CyberShield Defense GmbH
 
-**Aktenzeichen:** VK 1-32/26  
-**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026  
-**Bieter:** CyberShield Defense GmbH, Alexanderstraße 7, 10178 Berlin  
-**Einreichungsdatum:** 31.03.2026, 11:47 Uhr (fristgerecht)  
+**Aktenzeichen:** VK 1-32/26
+**Vorhabenbezeichnung:** LH-SN-Cyber-SOC-NSV-2026
+**Bieter:** CyberShield Defense GmbH, Alexanderstraße 7, 10178 Berlin
+**Einreichungsdatum:** 31.03.2026, 11:47 Uhr (fristgerecht)
 **Angebots-ID:** CS-LH-SN-2026-001
 
 ---
@@ -36,8 +36,8 @@
 | Los 2: ISB-Beratung | 165.000 EUR | 660.000 EUR |
 | **Gesamtangebot** | **585.000 EUR** | **2.340.000 EUR** |
 
-Optionsjahre (je 12 Monate):  
-- Option 1 (Jahr 5): 598.000 EUR  
+Optionsjahre (je 12 Monate):
+- Option 1 (Jahr 5): 598.000 EUR
 - Option 2 (Jahr 6): 612.000 EUR
 
 ### 2.2 Preisstruktur Los 1 (Jahrespauschale netto)

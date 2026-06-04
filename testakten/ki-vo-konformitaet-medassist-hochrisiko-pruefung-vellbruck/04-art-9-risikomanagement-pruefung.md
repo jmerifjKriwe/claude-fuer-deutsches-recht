@@ -1,8 +1,8 @@
 # Aktenstück 04 — Art. 9 KI-VO: Prüfung Risikomanagementsystem MedAssist v4
 
-**Aktenzeichen:** 2026-V-0427  
-**Erstellt:** 18.03.2026  
-**Bearbeitung:** RA Dr. Mark Roosendaal  
+**Aktenzeichen:** 2026-V-0427
+**Erstellt:** 18.03.2026
+**Bearbeitung:** RA Dr. Mark Roosendaal
 **Rechtsgrundlage:** Art. 9 KI-VO (EU) 2024/1689
 
 ---
@@ -91,10 +91,10 @@ Das RMS referenziert nicht den für medizinische KI-Systeme einschlägigen Stand
 
 ## 5. Gesamtbewertung Art. 9
 
-**Art. 9 KI-VO: Nicht konform.**  
+**Art. 9 KI-VO: Nicht konform.**
 Schwerwiegende Defizite in Kontinuität, Vollständigkeit und Dokumentation. Kritisches Risiko für Fristwahrung 02.08.2026. Sofortmaßnahmen erforderlich.
 
 ---
 
-*Heidelberg, 18.03.2026*  
+*Heidelberg, 18.03.2026*
 *RA Dr. Mark Roosendaal — Az. 2026-V-0427*

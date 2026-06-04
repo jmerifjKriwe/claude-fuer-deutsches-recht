@@ -1,8 +1,8 @@
 # Aktenstück 11 — Art. 16 KI-VO: Pflichten des Anbieters — Gesamtübersicht
 
-**Aktenzeichen:** 2026-V-0427  
-**Erstellt:** 12.04.2026  
-**Bearbeitung:** RAin Dr. Henrietta Vellbruck-Steinheim  
+**Aktenzeichen:** 2026-V-0427
+**Erstellt:** 12.04.2026
+**Bearbeitung:** RAin Dr. Henrietta Vellbruck-Steinheim
 **Rechtsgrundlage:** Art. 16 KI-VO (EU) 2024/1689
 
 ---
@@ -66,10 +66,10 @@ Die 18 Kliniken als Betreiber haben eigenständige Pflichten nach Art. 25 KI-VO.
 
 ## 6. Gesamtbewertung Art. 16
 
-**Art. 16 KI-VO: Erhebliche Defizite in nahezu allen Teilbereichen.**  
+**Art. 16 KI-VO: Erhebliche Defizite in nahezu allen Teilbereichen.**
 Insbesondere: kein QMS nach Art. 17, kein Post-Market-Monitoring, versäumte Meldepflichten. Konformitätsbewertung, EU-Erklärung, CE-Kennzeichnung und Registrierung stehen aus. Kritische Priorisierung im Handlungsplan.
 
 ---
 
-*Heidelberg, 12.04.2026*  
+*Heidelberg, 12.04.2026*
 *RAin Dr. Henrietta Vellbruck-Steinheim — Az. 2026-V-0427*

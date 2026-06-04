@@ -1,21 +1,21 @@
 # Alkohol-Abstinenznachweis — Haaranalyse (EtG)
 
-**Labor:** Haaranalytik-Labor Dr. Voigt & Partner, Institut für Forensische Toxikologie  
-**Anschrift:** Elisabethstraße 41, 40217 Düsseldorf  
-**Labor-Nr.:** HA-2026-04-0831  
-**Auftraggeber:** Tannenbruck, Holger (über DEKRA Automobil GmbH, Essen)  
-**Datum der Haarentnahme:** 07.04.2026  
-**Datum des Befunds:** 14.04.2026  
+**Labor:** Haaranalytik-Labor Dr. Voigt & Partner, Institut für Forensische Toxikologie
+**Anschrift:** Elisabethstraße 41, 40217 Düsseldorf
+**Labor-Nr.:** HA-2026-04-0831
+**Auftraggeber:** Tannenbruck, Holger (über DEKRA Automobil GmbH, Essen)
+**Datum der Haarentnahme:** 07.04.2026
+**Datum des Befunds:** 14.04.2026
 
 ---
 
 ## I. Probenentnahme
 
-**Entnahmeart:** Haare aus dem Scheitelbereich (standardisierte Entnahme nach Gesellschaft für Toxikologische und Forensische Chemie — GTFCh-Empfehlungen)  
-**Haarlänge:** 8,0 cm (entspricht ca. 8 Monaten Wachstum rückwirkend von April 2026, d.h. ab ca. August 2025)  
-**Probenmenge:** 120 mg (ausreichend für Analyse und Rückstellprobe)  
-**Identifikation:** Personalausweis Tannenbruck vorgelegt, Lichtbild dokumentiert  
-**Entnahme durch:** Dr. med. Uwe Kessler, Facharzt für Allgemeinmedizin, Lüdenscheid (Arzttermin)  
+**Entnahmeart:** Haare aus dem Scheitelbereich (standardisierte Entnahme nach Gesellschaft für Toxikologische und Forensische Chemie — GTFCh-Empfehlungen)
+**Haarlänge:** 8,0 cm (entspricht ca. 8 Monaten Wachstum rückwirkend von April 2026, d.h. ab ca. August 2025)
+**Probenmenge:** 120 mg (ausreichend für Analyse und Rückstellprobe)
+**Identifikation:** Personalausweis Tannenbruck vorgelegt, Lichtbild dokumentiert
+**Entnahme durch:** Dr. med. Uwe Kessler, Facharzt für Allgemeinmedizin, Lüdenscheid (Arzttermin)
 
 ---
 
@@ -107,5 +107,5 @@ Das Haaranalyse-Ergebnis wird dem Strafgericht (AG Hagen) als Anlage zur Stellun
 
 ---
 
-*Befund erhalten Kanzlei Hoffmann Verkehrsrecht am 15.04.2026*  
+*Befund erhalten Kanzlei Hoffmann Verkehrsrecht am 15.04.2026*
 *Weitergabe an Dipl.-Psych. A. Rehkopf (DEKRA) mit Mandanten-Einwilligung am 16.04.2026*

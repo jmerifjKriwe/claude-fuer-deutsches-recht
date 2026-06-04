@@ -1,8 +1,8 @@
 # Regulatory Map — Projekt Silberfalke
 
-**Aktenzeichen:** MA-2026-SF-001  
-**Erstellt:** 16.05.2026  
-**Verfasser:** Associate C (Regulatory Group)  
+**Aktenzeichen:** MA-2026-SF-001
+**Erstellt:** 16.05.2026
+**Verfasser:** Associate C (Regulatory Group)
 **Status:** Arbeitsfassung — nicht final
 
 ---
@@ -36,7 +36,7 @@ Die Transaktion (Erwerb sämtlicher Anteile an der Solaris Industries AG durch E
 
 **Ergebnis:** Anmeldeschwelle GWB §§ 35, 37, 39 GWB voraussichtlich **erreicht**. Anmeldung beim Bundeskartellamt ist erforderlich. Bearbeitungszeit Phase 1: 1 Monat, Phase 2: bis zu 4 Monate. Closing-Bedingung: Freigabe oder Fristablauf.
 
-**Zuständiger Anwalt:** Dr. Meiners, Regulatory Group  
+**Zuständiger Anwalt:** Dr. Meiners, Regulatory Group
 **Anmeldungspaket vorzubereiten bis:** 20.06.2026 (Ziel: Anmeldung 30.06.2026)
 
 ### 2.3 Sonstige Jurisdiktionen
@@ -61,7 +61,7 @@ Eagle Capital Partners Fund V GmbH & Co. KG ist nach Deutschland gegründet; Fon
 
 Solaris Industries AG produziert Präzisionskomponenten für die Luft- und Raumfahrtbranche sowie Antriebseinheiten für militärische und zivile Schiffe. Dies fällt potenziell unter:
 
-- § 55a Abs. 1 Nr. 9 AWV (Rüstungsgüter, Dual-Use)  
+- § 55a Abs. 1 Nr. 9 AWV (Rüstungsgüter, Dual-Use)
 - § 55a Abs. 1 Nr. 17 AWV (kritische Infrastruktur)
 
 **Empfehlung:** Sektorscreening ergibt erhöhte FDI-Relevanz. Anmeldung beim Bundesministerium für Wirtschaft und Klimaschutz (BMWK) nach § 58 AWV ist vorsorglich einzuplanen. Prüffrist: 2 Monate ab vollständiger Anmeldung, verlängerbar auf 4 Monate.
@@ -96,20 +96,20 @@ Solaris fertigt Güter, die voraussichtlich unter die EU-Dual-Use-Verordnung (VO
 
 ## 6. Nächste Schritte
 
-1. Umsatzzahlen GJ 2025 final anfordern (Deadline: 22.05.2026)  
-2. UBO-Bestätigung Eagle einholen (01.06.2026)  
-3. BKartA-Anmeldungspaket vorbereiten: Marktdefinition, Marktanteile, Umsatzbescheinigungen  
-4. BMWK-Vorgespräch anfragen (vertraulich)  
-5. Closing-Bedingungsmatrix mit Regulatory-CP verknüpfen  
+1. Umsatzzahlen GJ 2025 final anfordern (Deadline: 22.05.2026)
+2. UBO-Bestätigung Eagle einholen (01.06.2026)
+3. BKartA-Anmeldungspaket vorbereiten: Marktdefinition, Marktanteile, Umsatzbescheinigungen
+4. BMWK-Vorgespräch anfragen (vertraulich)
+5. Closing-Bedingungsmatrix mit Regulatory-CP verknüpfen
 
 ---
 
 ## Anlagen
 
-- Anlage 1: Umsatztabelle Konsolidierung (Entwurf)  
-- Anlage 2: UBO-Chart Eagle Capital Partners (Draft)  
-- Anlage 3: Sektorchecklist AWV § 55a  
-- Anlage 4: Clean-Room-Protokoll V2.1  
+- Anlage 1: Umsatztabelle Konsolidierung (Entwurf)
+- Anlage 2: UBO-Chart Eagle Capital Partners (Draft)
+- Anlage 3: Sektorchecklist AWV § 55a
+- Anlage 4: Clean-Room-Protokoll V2.1
 
 ---
 

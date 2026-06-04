@@ -1,9 +1,9 @@
 # 08 — Aussagepsychologische Vor-Analyse Mira Quasthoff (Verteidigerinterner Entwurf)
 
-**Vellbruck Strafverteidigung Koeln**  
-**Vertraulich — Anwaltsgeheimnis § 53 StPO**  
-Erstellt: Dr. Vellbruck-Eisinger / RA Knehrkamp  
-Datum: 27. Mai 2026  
+**Vellbruck Strafverteidigung Koeln**
+**Vertraulich — Anwaltsgeheimnis § 53 StPO**
+Erstellt: Dr. Vellbruck-Eisinger / RA Knehrkamp
+Datum: 27. Mai 2026
 Az.: 117 KLs 14/26 / 122 Js 884/25
 
 **Zweck:** Interne Vor-Analyse zur Vorbereitung des Hilfsbeweisantrags auf aussagepsychologisches Sachverstaendigengutachten (§ 244 III StPO) — siehe Akte 22. Diese Vor-Analyse ersetzt **kein** Sachverstaendigengutachten; sie folgt methodisch der BGH-Linie zur aussagepsychologischen Begutachtung (BGH 1 StR 618/98, BGHSt 45, 164, Verifikation in amtlicher Quelle erforderlich) und nutzt Realkennzeichen nach Steller/Koehnken.
@@ -106,17 +106,17 @@ In V2 wurden Quasthoff systematisch Frachtpapiere, Hauptbuchausdrucke und KfW-An
 
 ### Hypothese A (Wahrnehmung)
 
-Pro: Konkrete Datumsangaben in V2, Frachtpapierabgleich passt; Zeugin verfügt über Insiderwissen.  
+Pro: Konkrete Datumsangaben in V2, Frachtpapierabgleich passt; Zeugin verfügt über Insiderwissen.
 Contra: V1-V2-Inkonsistenz bei Lagerverbringung erheblich; Realkennzeichen geringe Lebendigkeit.
 
 ### Hypothese B (Akkommodation / Suggestion)
 
-Pro: Vorhaltetechnik V2; Verschiebung Januar → Februar nach Frachtpapierabgleich; Verlust von Unsicherheitsmarkern.  
+Pro: Vorhaltetechnik V2; Verschiebung Januar → Februar nach Frachtpapierabgleich; Verlust von Unsicherheitsmarkern.
 Contra: Quasthoff hatte Insiderwissen; Frachtpapiere kannte sie potenziell.
 
 ### Hypothese C (Falschbelastung)
 
-Pro: Mahnung 11/2024, Spesenkomplex, Aufhebungsvertrag, Strafanzeige erst nach Insolvenzverwalter-Anzeige; KfW-Komplex zeigt belastende Verschiebung.  
+Pro: Mahnung 11/2024, Spesenkomplex, Aufhebungsvertrag, Strafanzeige erst nach Insolvenzverwalter-Anzeige; KfW-Komplex zeigt belastende Verschiebung.
 Contra: Quasthoff könnte Eigenstrafbarkeit (USt) auf sich nehmen, was gegen reine Lüge spräche — tut sie aber gerade nicht (sie schiebt auf Engelmeier / Pellbach).
 
 ### Hypothese D (Hybrid)

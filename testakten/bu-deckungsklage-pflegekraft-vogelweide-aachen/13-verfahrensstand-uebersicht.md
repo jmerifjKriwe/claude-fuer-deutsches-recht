@@ -1,6 +1,6 @@
 # Aktenstück 13 — Verfahrensstand-Übersicht (Stand: 30.05.2026)
 
-**Kanzlei Müller-Hauck Versicherungsrecht**  
+**Kanzlei Müller-Hauck Versicherungsrecht**
 **Aktualisiert:** 30.05.2026
 
 ---
@@ -20,8 +20,8 @@
 | noch nicht terminiert | Erörterungstermin / Beweisbeschluss | **ausstehend** |
 | nach Beweisbeschluss | Sachverständigengutachten | **ausstehend** |
 
-**Streitwert:** 133.200 EUR  
-**Zuständiges Gericht:** LG Aachen, 5. Zivilkammer  
+**Streitwert:** 133.200 EUR
+**Zuständiges Gericht:** LG Aachen, 5. Zivilkammer
 **Gegnerischer Anwalt:** RA Stephan Konrad, Frankfurt (Bevollmächtigter DBV-Winterthur)
 
 ---
@@ -37,7 +37,7 @@
 | 30.04.2026 | Klageerwiderung ManagerSchutz AG erwartet | **ausstehend** |
 | noch nicht terminiert | Mündliche Verhandlung | **ausstehend** |
 
-**Streitwert:** 59.000 EUR (41.000 + 18.000 EUR)  
+**Streitwert:** 59.000 EUR (41.000 + 18.000 EUR)
 **Zuständiges Gericht:** LG Köln, 26. Zivilkammer (Versicherungsrecht)
 
 ---

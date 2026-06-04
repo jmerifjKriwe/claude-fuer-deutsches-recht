@@ -1,8 +1,8 @@
 # Aktenstück 10 — Art. 15 KI-VO: Genauigkeit, Robustheit und Cybersicherheit
 
-**Aktenzeichen:** 2026-V-0427  
-**Erstellt:** 08.04.2026  
-**Bearbeitung:** RA Dr. Mark Roosendaal  
+**Aktenzeichen:** 2026-V-0427
+**Erstellt:** 08.04.2026
+**Bearbeitung:** RA Dr. Mark Roosendaal
 **Rechtsgrundlage:** Art. 15 KI-VO (EU) 2024/1689; ISO/IEC 27001:2022
 
 ---
@@ -95,10 +95,10 @@ Krankenhäuser ab einer bestimmten Größe sind als „wichtige Einrichtungen" i
 
 ## 6. Gesamtbewertung Art. 15
 
-**Art. 15 KI-VO: Nicht konform.**  
+**Art. 15 KI-VO: Nicht konform.**
 Unzureichende Genauigkeit für kritischen Einsatzbereich, abgelaufene Cybersicherheitszertifizierung, fehlendes Adversarial Testing.
 
 ---
 
-*Heidelberg, 08.04.2026*  
+*Heidelberg, 08.04.2026*
 *RA Dr. Mark Roosendaal — Az. 2026-V-0427*

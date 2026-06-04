@@ -6,10 +6,10 @@
 
 ## Behörde
 
-Deutsche Rentenversicherung Mitteldeutschland  
-Georg-Schumann-Straße 146  
-04155 Leipzig  
-Servicetelefon: 0800 / 10 00 48 00  
+Deutsche Rentenversicherung Mitteldeutschland
+Georg-Schumann-Straße 146
+04155 Leipzig
+Servicetelefon: 0800 / 10 00 48 00
 
 ---
 
@@ -74,16 +74,16 @@ Da ein sechsstündiges Restleistungsvermögen vorliege, sei keine — auch keine
 
 Das Gutachten Dr. Härtung ist aus mehreren Gründen angreifbar:
 
-**1. Falsche Diagnose (Anpassungsstörung statt ME/CFS)**  
+**1. Falsche Diagnose (Anpassungsstörung statt ME/CFS)**
 Die Diagnose F43.2 (Anpassungsstörung) setzt voraus, dass ein identifizierbarer Stressor vorliegt und die Symptomatik innerhalb von 6 Monaten nach Wegfall des Stressors abklingt. Bei Frau Feldermann besteht die Symptomatik seit über 4 Jahren unverändert fort. Die Diagnose ist per definitionem falsch. Das SKH Leipzig (spezialisierte psychiatrische Klinik) diagnostiziert F33.1 (rezidivierende depressive Störung), was ein weitaus schwereres Bild darstellt.
 
-**2. ME/CFS-Diagnose ignoriert**  
+**2. ME/CFS-Diagnose ignoriert**
 Die ME/CFS-Diagnose nach Canadian Consensus Criteria durch Prof. Scheibenbogen (Charité) wird im DRV-Gutachten nicht substanziell auseinandergesetzt, sondern pauschal als "nicht valide gesichert" abgetan. Dies entspricht nicht dem aktuellen Erkenntnisstand.
 
-**3. POTS-Objektivierung übergangen**  
+**3. POTS-Objektivierung übergangen**
 Der positive Kipptisch-Test (kardiale Dysautonomie, POTS) wird im DRV-Gutachten nicht erwähnt, obwohl POTS per se ein erhebliches Leistungshindernis darstellt (Synkopen, orthostatische Intoleranz).
 
-**4. Post-Exertional Malaise nicht berücksichtigt**  
+**4. Post-Exertional Malaise nicht berücksichtigt**
 Das Kernsymptom von ME/CFS — die Post-Exertional Malaise (PEM) — wird im DRV-Gutachten nicht adäquat bewertet. PEM macht eine Tätigkeit von 6 Stunden täglich physikalisch unmöglich, weil bereits geringste Belastungen zu mehrtägiger Verschlechterung führen.
 
 ### Strategieempfehlung

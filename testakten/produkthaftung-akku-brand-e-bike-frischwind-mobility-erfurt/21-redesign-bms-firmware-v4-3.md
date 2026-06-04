@@ -24,14 +24,14 @@ Das technische Redesign des BMS-Systems verfolgt drei Ziele:
 void TEMP_IRQ_Handler(void) {
     // Explizite Typcastung vermeidet Integer-Overflow
     uint32_t temp_raw = (uint32_t)temp_sensor_raw;
-    uint32_t threshold = (uint32_t)TEMP_THRESHOLD_BASE 
+    uint32_t threshold = (uint32_t)TEMP_THRESHOLD_BASE
                        + (uint32_t)temp_compensation_factor;
-    
+
     // Overflow-Schutz: threshold niemals > TEMP_THRESHOLD_MAX
     if (threshold > TEMP_THRESHOLD_MAX) {
         threshold = TEMP_THRESHOLD_MAX;
     }
-    
+
     if (temp_raw > threshold) {
         charge_enable = 0;
         overheat_flag = 1;

@@ -1,8 +1,8 @@
 # 12 — Notiz Betriebspruefung Finanzamt Koeln-Mitte, Prüfungsergebnis 02/2026
 
-**Vellbruck Strafverteidigung Koeln — Interne Notiz**  
-Erstellt durch: RA Knehrkamp  
-Datum: 19.05.2026  
+**Vellbruck Strafverteidigung Koeln — Interne Notiz**
+Erstellt durch: RA Knehrkamp
+Datum: 19.05.2026
 Quelle: Schlussbesprechung BP Finanzamt Koeln-Mitte vom 16.02.2026 (vor Insolvenzverwalter und ehem. Steuerberater Engelmeier) — Protokoll vorgelegt durch Engelmeier
 
 ---

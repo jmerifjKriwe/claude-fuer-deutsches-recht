@@ -1,8 +1,8 @@
 # Aktenstück 13 — Art. 47 KI-VO: EU-Konformitätserklärung — Analyse und Entwurf
 
-**Aktenzeichen:** 2026-V-0427  
-**Erstellt:** 17.04.2026  
-**Bearbeitung:** RAin Dr. Henrietta Vellbruck-Steinheim  
+**Aktenzeichen:** 2026-V-0427
+**Erstellt:** 17.04.2026
+**Bearbeitung:** RAin Dr. Henrietta Vellbruck-Steinheim
 **Rechtsgrundlage:** Art. 47 KI-VO (EU) 2024/1689
 
 ---
@@ -72,10 +72,10 @@ MedAssist AI GmbH hat am 18.12.2025 auch eine EU-Konformitätserklärung nach Ar
 
 ## 6. Gesamtbewertung Art. 47
 
-**Art. 47 KI-VO: Entwurf vorhanden, aber nicht finalisierbar vor NB-Zertifizierung.**  
+**Art. 47 KI-VO: Entwurf vorhanden, aber nicht finalisierbar vor NB-Zertifizierung.**
 Keine Verletzung des Finalitätserfordernisses zum gegenwärtigen Zeitpunkt (Zertifizierung noch offen). Kritische Lücken im Entwurf müssen bis Abschluss NB-Verfahren behoben werden.
 
 ---
 
-*Heidelberg, 17.04.2026*  
+*Heidelberg, 17.04.2026*
 *RAin Dr. Henrietta Vellbruck-Steinheim — Az. 2026-V-0427*

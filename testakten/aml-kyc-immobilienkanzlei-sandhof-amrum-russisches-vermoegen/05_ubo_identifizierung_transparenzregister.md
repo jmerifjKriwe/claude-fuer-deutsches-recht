@@ -35,8 +35,8 @@ Keine dieser Maßnahmen ist dokumentiert.
 
 Aus den Akten der StA Kiel (Anlage zur Strafanzeige) ergibt sich, dass der zypriotische Beneficial-Ownership-Eintrag zu Bluetail Holdings Ltd. zum Zeitpunkt der ersten Transaktion (Juni 2024) wie folgt lautete:
 
-> UBO: Vitali Petrowitsch Smolenski, geb. 04.11.1969, Russische Förderation  
-> Anteil: 100 % (indirekt über Ariadne Nominees Ltd.)  
+> UBO: Vitali Petrowitsch Smolenski, geb. 04.11.1969, Russische Förderation
+> Anteil: 100 % (indirekt über Ariadne Nominees Ltd.)
 > Eintragsdatum CY-Register: 18. März 2022
 
 Der Eintrag war also zum Zeitpunkt aller vier Transaktionen vorhanden und hätte bei einer Abfrage zu Tage getreten. Dies ist ein zentraler Befund der Staatsanwaltschaft Kiel zur Begründung des (zumindest bedingten) Vorsatzes nach § 261 StGB.

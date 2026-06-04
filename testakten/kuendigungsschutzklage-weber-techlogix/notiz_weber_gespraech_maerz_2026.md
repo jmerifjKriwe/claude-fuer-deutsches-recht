@@ -1,7 +1,7 @@
 # Handnotiz des Mandanten — Gespräch mit GF Kreutzfeldt
 
-> **Dokument:** Handschriftliche Aufzeichnung Marcus Weber  
-> **Erstellt:** 25. März 2026 (Abend des Gesprächstags)  
+> **Dokument:** Handschriftliche Aufzeichnung Marcus Weber
+> **Erstellt:** 25. März 2026 (Abend des Gesprächstags)
 > **Übertragen:** Abschrift für Kanzleiakte, unverändert
 
 ---
@@ -25,10 +25,10 @@ Sie sagte sinngemäß (ich schreibe das jetzt auf, weil mir das komisch vorkam):
 
 > "Marcus, ich muss Ihnen etwas sagen. Wir haben entschieden, die IT nach außen zu geben. An DataFlow Solutions aus Frankfurt. Die machen das dann komplett. Das bedeutet, Ihre Stelle und die der anderen im IT-Bereich fallen weg. Wir sind noch nicht ganz fertig mit den Verhandlungen, aber das ist strategisch entschieden."
 
-Ich hab gefragt ob das alle trifft (also auch Grunewald und Sonnleitner).  
+Ich hab gefragt ob das alle trifft (also auch Grunewald und Sonnleitner).
 Sie sagte: "Das besprechen wir noch."
 
-Ich hab gefragt ob es eine Abfindung gibt.  
+Ich hab gefragt ob es eine Abfindung gibt.
 Sie sagte: "Darüber reden wir zu gegebener Zeit."
 
 Das Gespräch dauerte vielleicht 10 Minuten. Kein Zeuge dabei.

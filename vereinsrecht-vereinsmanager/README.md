@@ -38,67 +38,31 @@ Apache-2.0 OR MIT. Siehe Repository-Stammverzeichnis.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 22 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `allgemein` | Einstieg und Routing für Gründung, Satzung, Vorstand, Mitgliederversammlung, Register, Gemeinnützigkeit, Finanzen, Haftung, Konflikte und Auflösung. |
-| `anfechtung-beschluss` | Prüft fehlerhafte Einladung, Tagesordnung, Mehrheit, Stimmrecht, Befangenheit und Vorgehen gegen Beschlüsse. |
-| `aufloesung-liquidation` | Begleitet Auflösung, Liquidatoren, Sperrjahr, Vermögensanfall, Register und Finanzamt. |
-| `beschlussvorlagen` | Formuliert rechtssichere Beschlussvorschläge für Versammlung, Vorstand oder Ausschuss. |
-| `datenschutz-mitgliederliste` | Regelt Mitgliederverwaltung, Verteiler, Fotos, WhatsApp-Gruppen, Cloud, Einwilligung und Löschung. |
-| `delegierte-und-abteilungen` | Gestaltet Delegiertenversammlung, Sparten, Abteilungen, Jugendordnung und interne Kompetenzen. |
-| `ehrenamtspauschale-uebungsleiter` | Erklärt steuerfreie Pauschalen, Voraussetzungen, Dokumentation, Kombination und Grenzen. |
-| `entlastung-vorstand` | Erklärt Entlastung, Reichweite, Interessenkonflikte und Beschlussformulierung. |
-| `foerdermittel-verein` | Prüft Zuwendungsbescheid, Eigenanteil, Vergabe, Verwendungsnachweis, Rückforderung und Satzungszweck. |
-| `foerderverein-schule-kita` | Regelt Gemeinnützigkeit, Schulförderung, Kita-Nähe, Mittelverwendung, Datenschutz und Interessenkonflikte. |
-| `fusion-vereine` | Prüft Zusammenschluss, Vermögensübertragung, Mitgliederzustimmung, Satzungen und Registerpfad. |
-| `gemeinnuetzigkeit-antrag` | Bereitet Satzungsprüfung, Feststellung nach AO, Finanzamt-Kommunikation und Zuwendungsbestätigungen vor. |
-| `geschaeftsordnung-vorstand` | Regelt Sitzungen, Beschlüsse, Ressorts, Zeichnungsrechte, Protokolle und Eilentscheidungen. |
-| `gruendung-eingetragener-verein` | Führt zur e.-V.-Gründung: sieben Mitglieder, Satzung, Gründungsprotokoll, Vorstand, notarielle Anmeldung, Vereinsregister. |
-| `gruendung-nicht-eingetragen` | Begleitet Gründung und Grundordnung eines nicht eingetragenen Vereins mit Mindestregeln, Haftungs- und Kontofragen. |
-| `haftung-vorstand` | Prüft Sorgfalt, Ressortverteilung, Ehrenamtspauschale, Versicherung, Innenhaftung und Außenhaftung. |
-| `hilfsverein-wohlfahrt` | Prüft mildtätige Zwecke, Bedürftigkeitsnachweis, Hilfeleistungen, Datenschutz und Zweckbetrieb. |
-| `hybride-virtuelle-versammlung` | Prüft § 32 BGB, Satzung, Teilnahme-/Abstimmungsrechte, technische Hinweise, Identität und Protokoll. |
-| `kassenwart-finanzen` | Strukturiert Kassenführung, Vier-Augen-Prinzip, Belege, Konten, Budget und Bericht. |
-| `kegelclub-und-freizeitverein` | Minimalregeln für kleine Freizeitvereine: Kasse, Beiträge, Protokoll, Haftung, Austritt und Streitvermeidung. |
-| `konflikt-im-verein` | Moderiert Streit: Vorstand vs. Mitglieder, Akteneinsicht, Sonderversammlung, Abwahl, Ausschluss und Vergleich. |
-| `kulturverein` | Spezialfragen Kultur: Veranstaltungen, Künstlerverträge, GEMA, Fördermittel, Spenden, Gemeinnützigkeit. |
-| `minderjaehrige-im-verein` | Prüft Mitgliedschaft, Zustimmung Eltern, Aufsicht, Fotos, Schutzkonzept und Kinderschutz. |
-| `mitgliederversammlung-einberufung` | Erstellt Einladung, Fristcheck, Tagesordnung, Beschlussgegenstände und Versandnachweis. |
-| `mitgliedsbeitraege` | Gestaltet Beitragsordnung, Fälligkeit, Mahnung, Sozialklausel, Umlagen und Beitragserhöhung. |
-| `mitgliedschaft-aufnahme` | Regelt Aufnahme, Ablehnung, Rechte, Pflichten, Beiträge, Datenschutz und Minderjährige. |
-| `mitgliedschaft-beendigung` | Prüft Austritt, Beitragsrückstand, Ausschlussverfahren, Anhörung, Fairness und Dokumentation. |
-| `notarielle-anmeldung` | Bereitet Notartermin und Registeranmeldung für Gründung, Vorstand, Satzungsänderung und Auflösung vor. |
-| `ordnungen-im-verein` | Entwirft Beitragsordnung, Geschäftsordnung, Wahlordnung, Ehrenordnung, Datenschutzordnung und Jugendordnung. |
-| `protokoll-mitgliederversammlung` | Erstellt Protokoll mit Anwesenheit, Versammlungsleitung, Beschlussfähigkeit, Abstimmung, Ergebnissen und Anlagen. |
-| `registergericht-rueckfrage` | Beantwortet Zwischenverfügung oder Rückfrage des Vereinsregisters mit Anlagen und Korrekturpfad. |
-| `ruecklagen-mittelverwendung` | Erklärt zeitnahe Mittelverwendung, freie Rücklage, Projektrücklage, Vermögensbindung und Nachweis. |
-| `rundbrief-mitglieder` | Erstellt klare Rundbriefe zu Versammlung, Beiträgen, Konflikten, Satzungsänderungen und Projekten. |
-| `satzung-grundstruktur` | Entwirft oder prüft Vereinszweck, Name, Sitz, Mitgliedschaft, Beiträge, Organe, Vorstand, Versammlung, Beschlüsse, Auflösung. |
-| `satzungsaenderung` | Plant Satzungsänderung: Synopse, Einladung, Mehrheit, Protokoll, Register, Finanzamt bei Gemeinnützigkeit. |
-| `satzungszweck-gemeinnuetzigkeit` | Gleicht Vereinszweck mit AO-Gemeinnützigkeit, Selbstlosigkeit, Ausschließlichkeit, Unmittelbarkeit und Vermögensbindung ab. |
-| `sonderversammlung-minderheit` | Prüft Minderheitenverlangen, Einberufung durch Mitglieder, Tagesordnung und gerichtliche Hilfe. |
-| `spenden-zuwendungsbestaetigung` | Prüft Geld-/Sachspenden, Spendenquittung, Aufwandsspende, Sponsoring-Abgrenzung und Haftung. |
-| `sponsoring-und-werbung` | Trennt Spende, Sponsoring, wirtschaftlicher Geschäftsbetrieb, Umsatzsteuer und Vertrag. |
-| `sportverein` | Spezialfragen Sportverein: Abteilungen, Trainer, Minderjährige, Schutzkonzept, Hallenzeiten, Verbandsrecht, Beiträge. |
-| `tagesordnung-erstellen` | Baut klare Tagesordnung mit Beschlussgegenständen, Wahlen, Berichten, Entlastung, Satzungsänderungen und Anträgen. |
-| `transparenzregister-gwg` | Prüft Transparenzregisterdaten, wirtschaftlich Berechtigte, Registerabgleich und Meldepflichten. |
-| `umlaufbeschluss` | Prüft Beschlüsse ohne Versammlung, Textform, Einstimmigkeit oder Satzungsregel, Dokumentation und Grenzen. |
-| `veranstaltung-planen` | Prüft Genehmigungen, Sicherheit, GEMA, Ausschank, Jugendschutz, Datenschutz, Versicherung und Verträge. |
-| `verein-als-arbeitgeber` | Routet Minijob, Übungsleiter, Ehrenamtspauschale, Arbeitsvertrag, Sozialversicherung und Lohnsteuer. |
-| `verein-dokumentenpaket` | Baut aus Auftrag komplette Dokumente: Einladung, Tagesordnung, Beschluss, Protokoll, Rundbrief und Anlagenliste. |
+| `kompendium-01-haftung-vorstand-bis-sponsoring-und-werbu` | vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 01; bündelt 3 frühere Spezialskills (haftung-vorstand, ehrenamtspauschale-uebungsleiter, sponsoring-und-werbung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausga... |
+| `kompendium-02-verein-als-arbeitgeb-bis-anfechtung-beschluss` | vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (verein-als-arbeitgeber, zweckbetrieb, anfechtung-beschluss) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-03-aufloesung-liquidati-bis-datenschutz-mitglied` | vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (aufloesung-liquidation, beschlussvorlagen, datenschutz-mitgliederliste) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemu... |
+| `kompendium-04-delegierte-und-abtei-bis-foerdermittel-verein` | vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (delegierte-und-abteilungen, entlastung-vorstand, foerdermittel-verein) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemus... |
+| `kompendium-05-foerderverein-schule-bis-gemeinnuetzigkeit-an` | vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (foerderverein-schule-kita, fusion-vereine, gemeinnuetzigkeit-antrag) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-06-geschaeftsordnung-vo-bis-gruendung-nicht-eing` | vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (geschaeftsordnung-vorstand, gruendung-eingetragener-verein, gruendung-nicht-eingetragen) und bewahrt deren Workflows, Normanker, Prüfprogra... |
+| `kompendium-07-hilfsverein-wohlfahr-bis-kassenwart-finanzen` | vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (hilfsverein-wohlfahrt, hybride-virtuelle-versammlung, kassenwart-finanzen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgab... |
+| `kompendium-08-kegelclub-und-freize-bis-kulturverein` | vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (kegelclub-und-freizeitverein, konflikt-im-verein, kulturverein) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-09-minderjaehrige-im-ve-bis-mitgliedsbeitraege` | vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (minderjaehrige-im-verein, mitgliederversammlung-einberufung, mitgliedsbeitraege) und bewahrt deren Workflows, Normanker, Prüfprogramme und... |
+| `kompendium-10-mitgliedschaft-aufna-bis-notarielle-anmeldung` | vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (mitgliedschaft-aufnahme, mitgliedschaft-beendigung, notarielle-anmeldung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabe... |
+| `kompendium-11-ordnungen-im-verein-bis-registergericht-ruec` | vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (ordnungen-im-verein, protokoll-mitgliederversammlung, registergericht-rueckfrage) und bewahrt deren Workflows, Normanker, Prüfprogramme und... |
+| `kompendium-12-ruecklagen-mittelver-bis-satzung-grundstruktu` | vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (ruecklagen-mittelverwendung, rundbrief-mitglieder, satzung-grundstruktur) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabe... |
+| `kompendium-13-satzungsaenderung-bis-sonderversammlung-mi` | vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (satzungsaenderung, satzungszweck-gemeinnuetzigkeit, sonderversammlung-minderheit) und bewahrt deren Workflows, Normanker, Prüfprogramme und... |
+| `kompendium-14-spenden-zuwendungsbe-bis-tagesordnung-erstell` | vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (spenden-zuwendungsbestaetigung, sportverein, tagesordnung-erstellen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-15-transparenzregister-bis-veranstaltung-planen` | vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (transparenzregister-gwg, umlaufbeschluss, veranstaltung-planen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-16-verein-dokumentenpak-bis-verein-und-social-me` | vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 16; bündelt 3 frühere Spezialskills (verein-dokumentenpaket, verein-und-politik, verein-und-social-media) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-17-vereinsvermoegen-und-bis-vorstand-rollen` | vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 17; bündelt 3 frühere Spezialskills (vereinsvermoegen-und-konto, versicherung-verein, vorstand-rollen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-18-vorstandswahl-bis-wirtschaftlicher-ver` | vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 18; bündelt 3 frühere Spezialskills (vorstandswahl, vorstandswechsel-register, wirtschaftlicher-verein) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-19-zweckaenderung-bis-zweckaenderung` | vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 19; bündelt 1 frühere Spezialskills (zweckaenderung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
 | `verein-livequellen-check` | Sammelt aktuelle amtliche Quellen zu BGB, AO, Registergericht, Finanzamt, Landesrecht und Satzung vor Ausgabe. |
 | `verein-redteam-qualitygate` | Letzte Prüfung von Satzung, Einladung, Protokoll, Beschluss, Registeranmeldung oder Finanzamtsschreiben. |
-| `verein-und-politik` | Warnt bei politischer Betätigung, Gemeinnützigkeit, Neutralität, Veranstaltungen und Parteispendennähe. |
-| `verein-und-social-media` | Regelt Impressum, Bildrechte, Datenschutz, Adminrechte, Krisenpost und Löschung. |
-| `vereinsvermoegen-und-konto` | Hilft bei Kontoeröffnung, Zeichnungsberechtigung, Barkasse, Inventar, Zuschüssen und Vermögensbindung. |
-| `versicherung-verein` | Ordnet Vereinshaftpflicht, Veranstalterhaftpflicht, D&O, Unfallversicherung, Kfz und Vermögensschaden. |
-| `vorstand-rollen` | Klärt BGB-Vorstand, erweiterter Vorstand, Geschäftsführung, Ressorts, Vertretungsmacht und Innen-/Außenverhältnis. |
-| `vorstandswahl` | Bereitet Wahlordnung, Kandidaturen, geheime/offene Abstimmung, Amtszeit, Annahme, Protokoll und Registeranmeldung vor. |
-| `vorstandswechsel-register` | Erstellt Registerpaket für Vorstandsänderung mit Protokollauszug, Anmeldung, Beglaubigung und Nachweisen. |
-| `wirtschaftlicher-verein` | Prüft, ob der seltene wirtschaftliche Verein oder eine andere Rechtsform besser passt; warnt vor Register- und Genehmigungsrisiken. |
-| `zweckaenderung` | Prüft strenge Anforderungen an Zweckänderung, Mitgliederschutz, Register und Gemeinnützigkeit. |
-| `zweckbetrieb` | Prüft Zweckbetrieb, wirtschaftlichen Geschäftsbetrieb, Sportveranstaltung, Wohlfahrt, Kultur und Steuerfolgen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

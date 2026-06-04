@@ -1,6 +1,6 @@
 # Aktenstück 20 — Datenschutz und Ransomware: Meldepflichten 2022
 
-**Sachverhalt:** Ransomware-Angriff Vogelweide+Co Demenz-WG GmbH, November 2022  
+**Sachverhalt:** Ransomware-Angriff Vogelweide+Co Demenz-WG GmbH, November 2022
 **Relevanz:** Verteidigungsargument im D&O-Prozess; Rechtfertigung der Lösegeldszahlung
 
 ---

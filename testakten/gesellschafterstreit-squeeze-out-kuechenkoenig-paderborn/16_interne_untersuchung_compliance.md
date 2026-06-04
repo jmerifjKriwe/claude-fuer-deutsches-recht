@@ -1,8 +1,8 @@
 # 16 — Interne Untersuchung: Forensische Buchprüfung und Maßnahmenplan
 
-**Akte:** DWSP/2026/GR-4417  
-**Erstellt:** 05.05.2026  
-**Bearbeiter:** Prof. Dr. Wieland Drosselberg / Forensiker Rödl & Partner, Paderborn  
+**Akte:** DWSP/2026/GR-4417
+**Erstellt:** 05.05.2026
+**Bearbeiter:** Prof. Dr. Wieland Drosselberg / Forensiker Rödl & Partner, Paderborn
 
 ---
 
@@ -91,5 +91,5 @@ Hinzu kommen Hinterziehungszinsen (§ 235 AO: 1,8 % p.a.) und möglicherweise St
 
 ---
 
-*Erstellt: 05.05.2026 — Prof. Dr. Wieland Drosselberg*  
+*Erstellt: 05.05.2026 — Prof. Dr. Wieland Drosselberg*
 *Referenz: HinSchG §§ 12 ff. (BGBl. 2023 I Nr. 140); § 370 AO; § 371 AO (Selbstanzeige); § 266 StGB*

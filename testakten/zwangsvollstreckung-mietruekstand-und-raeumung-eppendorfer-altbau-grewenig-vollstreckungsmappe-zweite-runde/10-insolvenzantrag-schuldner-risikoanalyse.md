@@ -1,7 +1,7 @@
 # 10 Insolvenzantrag Schuldner — Risikoanalyse aus Gläubigerperspektive
 
-**Akte:** MR-2026-ZV-0188  
-**Datum:** 14.01.2026  
+**Akte:** MR-2026-ZV-0188
+**Datum:** 14.01.2026
 **Bearbeiter:** RA Dr. Roosendaal-Eichmueller
 
 ---

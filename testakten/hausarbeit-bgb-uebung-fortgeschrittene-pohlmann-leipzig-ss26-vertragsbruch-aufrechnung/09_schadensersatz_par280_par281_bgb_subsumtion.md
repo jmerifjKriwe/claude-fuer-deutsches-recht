@@ -1,6 +1,6 @@
 # 09 — Schadensersatz: §§ 280, 281 BGB — Subsumtion (Schadensersatz statt der Leistung)
 
-**Bearbeiter:** Konrad Pohlmann  
+**Bearbeiter:** Konrad Pohlmann
 **Stand:** 23.04.2026
 
 ---

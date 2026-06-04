@@ -1,18 +1,18 @@
 # BaFin-Anzeige: MiCA / Stablecoin-Verstoß durch CryptoFutureMax.io
 
-**An:**  
-Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)  
-Referat WA 54 – Kryptowerte / DLT  
-Graurheindorfer Str. 108 · 53117 Bonn  
-sowie: BaFin Frankfurt, Marie-Curie-Str. 24–28, 60439 Frankfurt am Main  
-Fax: 0228 / 4108-1550  
+**An:**
+Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)
+Referat WA 54 – Kryptowerte / DLT
+Graurheindorfer Str. 108 · 53117 Bonn
+sowie: BaFin Frankfurt, Marie-Curie-Str. 24–28, 60439 Frankfurt am Main
+Fax: 0228 / 4108-1550
 
-**Von:**  
-Kanzlei Pflüger Schoeneberg Bankrecht  
-Am Markt 14 · 28195 Bremen  
+**Von:**
+Kanzlei Pflüger Schoeneberg Bankrecht
+Am Markt 14 · 28195 Bremen
 
-**Datum:** 14.04.2026  
-**Unser Zeichen:** PS-BKR-2026-0412/10  
+**Datum:** 14.04.2026
+**Unser Zeichen:** PS-BKR-2026-0412/10
 **Betreff:** Anzeige wegen Verdachts des unerlaubten Angebots von Kryptowerten i.S.d. MiCA-Verordnung sowie Verstoßes gegen § 32 KWG durch CryptoFutureMax.io
 
 ---
@@ -33,20 +33,20 @@ CryptoFutureMax.io bewarb gegenüber Frau Wittfeldt und offensichtlich weiteren 
 
 Die Verordnung (EU) 2023/1114 über Märkte für Kryptowerte (MiCA) ist seit dem 30.12.2024 vollständig in Kraft und ersetzt insoweit das nationale KWG-Regime für Kryptowerte.
 
-**a) USDT als E-Money-Token (Art. 3 Abs. 1 Nr. 7 MiCA):**  
+**a) USDT als E-Money-Token (Art. 3 Abs. 1 Nr. 7 MiCA):**
 USDT (Tether USD) ist ein an den US-Dollar gekoppelter Stablecoin. Nach Art. 3 Abs. 1 Nr. 7 MiCA ist ein **E-Money-Token (EMT)** ein Kryptowert, der seinen stabilen Wert durch Bezug auf eine einzige Fiatwährung aufrechterhalten soll. USDT erfüllt diese Definition. Tether Operations Limited verfügt über eine von der BaFin anerkannte MiCA-Zulassung (Notifizierung über Malta MFSA; in Bearbeitung).
 
-**b) CryptoFutureMax als nicht zugelassener Emittent / Dienstleister:**  
+**b) CryptoFutureMax als nicht zugelassener Emittent / Dienstleister:**
 CryptoFutureMax.io tritt auf, als würde sie USDT-basierte Pools anbieten. Sie ist aber weder:
 - ein zugelassener **Kryptowertedienstleister (CASP)** i.S.d. Art. 59 MiCA (keine Zulassung bei einer EU-Aufsichtsbehörde), noch
 - ein zugelassener **EMT-Emittent** i.S.d. Art. 48 ff. MiCA.
 
 Jede Person, die Kryptowertedienstleistungen in der EU erbringt, ohne die erforderliche Zulassung nach Art. 59 MiCA zu besitzen, handelt illegal (Art. 59 Abs. 1 MiCA: Zulassungspflicht).
 
-**c) Sondertatbestand Art. 16 MiCA – Asset-Referenced Tokens:**  
+**c) Sondertatbestand Art. 16 MiCA – Asset-Referenced Tokens:**
 Sollte das Portfolio tatsächlich (oder vorgeblich) mehrere Kryptowerte und/oder Fiatwährungen umfassen (der angebliche BTC-Anteil von 22 % deutet darauf hin), käme auch die Kategorie des **Asset-Referenced Token (ART)** nach Art. 3 Abs. 1 Nr. 6 MiCA in Betracht. ARTs unterliegen nach Art. 16 MiCA einer noch strengeren Zulassungspflicht, die die ausdrückliche Genehmigung der nationalen Aufsichtsbehörde erfordert. Ohne diese Genehmigung ist jedes Angebot von ARTs verboten.
 
-**d) Werbeversprechen als Verstoß gegen Art. 7 MiCA:**  
+**d) Werbeversprechen als Verstoß gegen Art. 7 MiCA:**
 Die Bewerbung mit Renditen von „8–18 % p.m." über manipulierte Dashboards und Marketing-E-Mails verstößt gegen Art. 7 MiCA (Verpflichtung zu fairen, klaren und nicht irreführenden Informationen und Marketing).
 
 ---
@@ -83,8 +83,8 @@ Wir bitten die BaFin um:
 
 **Bremen, 14. April 2026**
 
-**Rechtsanwalt Dr. Severin Pflüger**  
-Fachanwalt für Bank- und Kapitalmarktrecht  
+**Rechtsanwalt Dr. Severin Pflüger**
+Fachanwalt für Bank- und Kapitalmarktrecht
 Kanzlei Pflüger Schoeneberg Bankrecht
 
 ---

@@ -6,9 +6,9 @@
 
 ## E-Mail 1
 
-**Von:** kanzlei@hauck-brueggemann-mietrecht.de  
-**An:** lemke@mieterverein-koeln.de  
-**Datum:** 07. März 2026, 10:14 Uhr  
+**Von:** kanzlei@hauck-brueggemann-mietrecht.de
+**An:** lemke@mieterverein-koeln.de
+**Datum:** 07. März 2026, 10:14 Uhr
 **Betreff:** Mietverhältnis Rolandstraße 27a – Reaktion auf Mietminderung
 
 ---
@@ -21,16 +21,16 @@ Bezüglich der Mietminderungsanzeige Ihrer Mitglieder vom 28.01.2026 teilen wir 
 
 Wir gehen davon aus, dass Ihre Mitglieder den Widerspruch gem. § 574 BGB beabsichtigen, und bitten um zeitnahe Mitteilung.
 
-Mit freundlichen Grüßen  
+Mit freundlichen Grüßen
 Vanessa Hauck-Brüggemann, RA'in
 
 ---
 
 ## E-Mail 2
 
-**Von:** lemke@mieterverein-koeln.de  
-**An:** kanzlei@hauck-brueggemann-mietrecht.de  
-**Datum:** 10. März 2026, 15:32 Uhr  
+**Von:** lemke@mieterverein-koeln.de
+**An:** kanzlei@hauck-brueggemann-mietrecht.de
+**Datum:** 10. März 2026, 15:32 Uhr
 **Betreff:** Re: Mietverhältnis Rolandstraße 27a – Reaktion auf Mietminderung
 
 ---
@@ -41,16 +41,16 @@ danke für Ihre E-Mail. Den Widerspruch gem. § 574 BGB werden unsere Mitglieder
 
 Wir werden uns nach Vorlage des Gutachtens zur Minderungsquote äußern. Die Minderung von 30 % wird vorläufig aufrechterhalten.
 
-Mit freundlichem Gruß  
+Mit freundlichem Gruß
 Wolfgang Lemke, Mieterverein Köln
 
 ---
 
 ## E-Mail 3
 
-**Von:** kanzlei@hauck-brueggemann-mietrecht.de  
-**An:** lemke@mieterverein-koeln.de  
-**Datum:** 25. März 2026, 11:07 Uhr  
+**Von:** kanzlei@hauck-brueggemann-mietrecht.de
+**An:** lemke@mieterverein-koeln.de
+**Datum:** 25. März 2026, 11:07 Uhr
 **Betreff:** Reaktion auf Widerspruch § 574 BGB / Schlichtungsbereitschaft
 
 ---
@@ -63,16 +63,16 @@ In Bezug auf eine außergerichtliche Einigung sind unsere Mandanten grundsätzli
 
 Die Mahnung vom 20.03.2026 über 1.310,40 EUR Mietrückstand bleibt in Kraft. Bei weiter ausstehender Zahlung behalten wir uns alle Schritte vor.
 
-Mit freundlichen Grüßen  
+Mit freundlichen Grüßen
 Vanessa Hauck-Brüggemann, RA'in
 
 ---
 
 ## E-Mail 4
 
-**Von:** lemke@mieterverein-koeln.de  
-**An:** kanzlei@hauck-brueggemann-mietrecht.de  
-**Datum:** 05. Mai 2026, 09:48 Uhr  
+**Von:** lemke@mieterverein-koeln.de
+**An:** kanzlei@hauck-brueggemann-mietrecht.de
+**Datum:** 05. Mai 2026, 09:48 Uhr
 **Betreff:** Re: Schlichtungsvorschlag – Keine Einigung erzielt
 
 ---
@@ -85,10 +85,10 @@ Insbesondere wird Herr Albrecht seine Ortsgebundenheit als Vikar des Erzbistums 
 
 Wir nehmen zur Kenntnis, dass die WEG-Anfechtungsklage (205 C 67/26) von Ihren Mandanten ebenfalls betrieben wird. Wir sehen dies losgelöst vom Mietrechtsstreit, möchten jedoch auf die finanzielle Gesamtbelastung Ihrer Mandanten hinweisen.
 
-Mit freundlichem Gruß  
+Mit freundlichem Gruß
 Wolfgang Lemke, Mieterverein Köln
 
 ---
 
-*Ende E-Mail-Kette (Stand: 05.05.2026)*  
+*Ende E-Mail-Kette (Stand: 05.05.2026)*
 *Originale als .eml in Ordner /eml/ abgelegt*

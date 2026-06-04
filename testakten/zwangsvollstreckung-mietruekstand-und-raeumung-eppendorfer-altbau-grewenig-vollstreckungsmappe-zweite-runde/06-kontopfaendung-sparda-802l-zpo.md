@@ -1,7 +1,7 @@
 # 06 Kontopfändung § 802l ZPO — Sparda-Bank Hamburg
 
-**Akte:** MR-2026-ZV-0188  
-**Datum:** 12.01.2026  
+**Akte:** MR-2026-ZV-0188
+**Datum:** 12.01.2026
 **Bearbeiter:** RA Dr. Roosendaal-Eichmueller
 
 ---
@@ -55,9 +55,9 @@ Kosten: Gebühr Nr. 270 GVKG-KV ca. 15–25 EUR.
 
 Sobald Kontodaten vorliegen, Antrag auf Pfaendungs- und Überweisungsbeschluss gemäß § 829 ZPO gegen:
 
-**Drittschuldner:**  
-Sparda-Bank Hamburg eG  
-Zentraler Pfaendungseingang  
+**Drittschuldner:**
+Sparda-Bank Hamburg eG
+Zentraler Pfaendungseingang
 Hammerbrookstrasse 69, 20097 Hamburg
 
 ### Schritt 3: P-Konto-Pruefung § 850k ZPO

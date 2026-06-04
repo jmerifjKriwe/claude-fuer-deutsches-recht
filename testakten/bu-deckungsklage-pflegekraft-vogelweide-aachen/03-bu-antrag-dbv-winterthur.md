@@ -1,9 +1,9 @@
 # Aktenstück 03 — BU-Antrag an DBV-Winterthur
 
-**Datum:** 15.11.2025  
-**Absender:** Marion Vogelweide, Eupener Straße 218, 52066 Aachen  
-**Empfänger:** DBV-Winterthur Vereinigte Lebensversicherung AG, Theodor-Stern-Kai 1, 60596 Frankfurt am Main  
-**Vertragsnummer:** BUZ-1999-LV-44710  
+**Datum:** 15.11.2025
+**Absender:** Marion Vogelweide, Eupener Straße 218, 52066 Aachen
+**Empfänger:** DBV-Winterthur Vereinigte Lebensversicherung AG, Theodor-Stern-Kai 1, 60596 Frankfurt am Main
+**Vertragsnummer:** BUZ-1999-LV-44710
 **Betreff:** Antrag auf Leistung aus der Berufsunfähigkeits-Zusatzversicherung
 
 ---
@@ -30,7 +30,7 @@ Ich lege folgende Unterlagen vor:
 
 Ich bitte um eine Leistungsentscheidung binnen der gesetzlich und vertraglich vorgesehenen Fristen sowie um schriftliche Mitteilung, ob ergänzende Unterlagen oder ein Vertrauensärztliches Gutachten benötigt werden.
 
-Mit freundlichen Grüßen  
+Mit freundlichen Grüßen
 Marion Vogelweide
 
 ---

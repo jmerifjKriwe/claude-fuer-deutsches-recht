@@ -1,29 +1,29 @@
 # Rohentwurf Schriftsatzantwort — Meyer ./. Kranz
 
-**Akte:** 2026-MIET-004  
-**Gericht:** Amtsgericht Mitte, 12 C 88/26  
-**Verfasserin:** Jana Reuter, Rechtsanwältin  
-**Stand:** 20.05.2026 — ROHENTWURF, noch nicht freigegeben  
+**Akte:** 2026-MIET-004
+**Gericht:** Amtsgericht Mitte, 12 C 88/26
+**Verfasserin:** Jana Reuter, Rechtsanwältin
+**Stand:** 20.05.2026 — ROHENTWURF, noch nicht freigegeben
 **Frist:** 23.05.2026, 12:00 Uhr (beA-Eingang)
 
 ---
 
-> **Kanzlei Jana Reuter**  
-> Lindenstraße 14 · 10969 Berlin  
-> Tel. 030 / 4455 6677 · kanzlei@reuter-recht-berlin.de  
-> beA-Postfach: DE.BRAK.004455667  
+> **Kanzlei Jana Reuter**
+> Lindenstraße 14 · 10969 Berlin
+> Tel. 030 / 4455 6677 · kanzlei@reuter-recht-berlin.de
+> beA-Postfach: DE.BRAK.004455667
 
 ---
 
-**An das**  
-Amtsgericht Mitte  
-Littenstraße 12–17  
-10179 Berlin  
+**An das**
+Amtsgericht Mitte
+Littenstraße 12–17
+10179 Berlin
 
 Berlin, 20.05.2026
 
-**Aktenzeichen:** 12 C 88/26  
-**Verfahren:** Clara Meyer ./. Hartmut Kranz  
+**Aktenzeichen:** 12 C 88/26
+**Verfahren:** Clara Meyer ./. Hartmut Kranz
 **Gegenstand:** Schriftsatzantwort auf Klageerwiderung vom 12.05.2026 nebst Antrag auf Erlass einer einstweiligen Verfügung
 
 ---

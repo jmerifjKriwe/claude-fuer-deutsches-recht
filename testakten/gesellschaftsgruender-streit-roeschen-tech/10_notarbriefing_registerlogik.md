@@ -1,6 +1,6 @@
 # Notarbriefing und Registerlogik
 
-**Notariat:** Dr. Knoop & Partner, Berlin  
+**Notariat:** Dr. Knoop & Partner, Berlin
 **Ziel:** Kapitalerhöhung Class C / Satzungsänderung / neue Gesellschafterliste
 
 ## Offene Registerfragen

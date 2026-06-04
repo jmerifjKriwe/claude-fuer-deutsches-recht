@@ -1,6 +1,6 @@
 # 17 — Betriebsübergang nach § 613a BGB
 
-**Datum:** Januar–Februar 2026  
+**Datum:** Januar–Februar 2026
 **Bearbeiter:** RAin Dr. Petra Kammerlohr, RA Julius Ravensberg
 
 ---

@@ -1,8 +1,8 @@
 # Aktenstück 15 — Art. 49 KI-VO: Registrierung EU-Datenbank (EUID)
 
-**Aktenzeichen:** 2026-V-0427  
-**Erstellt:** 20.04.2026  
-**Bearbeitung:** RA Dr. Mark Roosendaal  
+**Aktenzeichen:** 2026-V-0427
+**Erstellt:** 20.04.2026
+**Bearbeitung:** RA Dr. Mark Roosendaal
 **Rechtsgrundlage:** Art. 49 KI-VO (EU) 2024/1689; Art. 71 KI-VO (EU-Datenbank)
 
 ---
@@ -65,10 +65,10 @@ Die Registrierung erfolgt über das EU-AI-Office-Portal (https://ai-act-portal.e
 
 ## 6. Gesamtbewertung Art. 49
 
-**Art. 49 KI-VO: Nicht erfüllt.**  
+**Art. 49 KI-VO: Nicht erfüllt.**
 Keine Registrierung vorhanden. Fristgerechte Registrierung bis 02.08.2026 noch möglich, aber abhängig von NB-Zertifizierung und EU-Konformitätserklärung. Vorbereitungen unverzüglich aufnehmen.
 
 ---
 
-*Heidelberg, 20.04.2026*  
+*Heidelberg, 20.04.2026*
 *RA Dr. Mark Roosendaal — Az. 2026-V-0427*

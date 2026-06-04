@@ -4,10 +4,10 @@
 
 ---
 
-**AMTSGERICHT FRANKFURT AM MAIN**  
-Ermittlungsrichterin  
+**AMTSGERICHT FRANKFURT AM MAIN**
+Ermittlungsrichterin
 
-Az.: **942 Gs 2847/25**  
+Az.: **942 Gs 2847/25**
 (Verweisungsverfahren: StA Frankfurt am Main, Az. 5400 Js 14782/24)
 
 ---
@@ -24,8 +24,8 @@ wird auf Antrag der Staatsanwaltschaft Frankfurt am Main vom 07. März 2025
 
 die **Durchsuchung** der Kanzleiräume der Rechtsanwältin
 
-**Dr. Friederike Marx, Marx Strafverteidigung Frankfurt**  
-Bockenheimer Landstraße 84, 60323 Frankfurt am Main  
+**Dr. Friederike Marx, Marx Strafverteidigung Frankfurt**
+Bockenheimer Landstraße 84, 60323 Frankfurt am Main
 (alle zugänglichen Büroräume, Kanzleiarchiv, Serverraum)
 
 gemäß **§§ 102, 103 StPO** angeordnet.
@@ -53,9 +53,9 @@ Die Durchsuchung dient der Auffindung und Sicherstellung von Beweismitteln, die 
 
 ### III. Vollzug
 
-**Datum und Uhrzeit des Vollzugs:** Dienstag, 11. März 2025, 06:30 Uhr  
-**Vollzugsbehörde:** Kriminalpolizei Frankfurt am Main, KK 34 (Wirtschaftskriminalität), KHK Steffen Brauer  
-**Anwesende:** KHK Brauer, 3 Beamte KPD Frankfurt, Ermittlungsrichterin AG Frankfurt (telefonisch zugeschaltet)  
+**Datum und Uhrzeit des Vollzugs:** Dienstag, 11. März 2025, 06:30 Uhr
+**Vollzugsbehörde:** Kriminalpolizei Frankfurt am Main, KK 34 (Wirtschaftskriminalität), KHK Steffen Brauer
+**Anwesende:** KHK Brauer, 3 Beamte KPD Frankfurt, Ermittlungsrichterin AG Frankfurt (telefonisch zugeschaltet)
 **Dauer:** 06:30–13:15 Uhr
 
 **Sichergestellte Gegenstände (Kurzverzeichnis):**
@@ -81,8 +81,8 @@ Der förmliche Widerspruch gemäß § 98 Abs. 2 StPO wurde gleichzeitig eingeleg
 
 **Frankfurt am Main, 10. März 2025**
 
-Dr. Carolin Mayer  
-Richterin am Amtsgericht  
+Dr. Carolin Mayer
+Richterin am Amtsgericht
 — Ermittlungsrichterin —
 
 *(Siegel AG Frankfurt)*

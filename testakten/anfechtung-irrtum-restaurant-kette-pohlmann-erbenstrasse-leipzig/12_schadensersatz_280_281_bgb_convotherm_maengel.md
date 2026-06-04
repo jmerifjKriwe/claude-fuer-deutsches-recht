@@ -1,7 +1,7 @@
 # Schadensersatz statt Leistung — §§ 280, 281 BGB: Mangelhafte Convotherm-Öfen
 
-**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg  
-**Datum:** 14. April 2026  
+**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg
+**Datum:** 14. April 2026
 **Bezug:** OLG Dresden 12 U 22/26 — Hilfsantrag Schadensersatz nach Lieferung mangelhafter Öfen
 
 ---
@@ -87,9 +87,9 @@ Die GmbH hat gegen Convotherm einen Anspruch auf Schadensersatz statt der Leistu
 
 **Prozessuale Empfehlung:** Aufrechnung (§ 387 BGB) erklären — Schadensersatzforderung (47.400 EUR) gegen Restkaufpreis (44.000 EUR) — ergibt Saldo zugunsten GmbH: ca. 3.400 EUR.
 
-**Quellen:**  
-§§ 280, 281 BGB: https://dejure.org/gesetze/BGB/280.html  
-§§ 434, 437, 440 BGB: https://dejure.org/gesetze/BGB/434.html  
-BGH NJW 2009, 2674 (Fristsetzung § 281, Fehlschlagen Nacherfüllung): https://www.bundesgerichtshof.de  
-BGH NJW 2007, 835 (Schadensermittlung bei Sachmangel, B2B): https://openjur.de  
+**Quellen:**
+§§ 280, 281 BGB: https://dejure.org/gesetze/BGB/280.html
+§§ 434, 437, 440 BGB: https://dejure.org/gesetze/BGB/434.html
+BGH NJW 2009, 2674 (Fristsetzung § 281, Fehlschlagen Nacherfüllung): https://www.bundesgerichtshof.de
+BGH NJW 2007, 835 (Schadensermittlung bei Sachmangel, B2B): https://openjur.de
 § 377 HGB: https://dejure.org/gesetze/HGB/377.html

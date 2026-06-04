@@ -1,8 +1,8 @@
 # Aktenvermerk Nr. 2024-001 – Erstgespräch Stadtwerke Klotzkette AG
 
-> **Kanzlei Bernauer & Partnerinnen, Rechtsanwältinnen und Rechtsanwälte**  
-> Energierecht · Infrastrukturrecht · Gesellschaftsrecht  
-> Karlsplatz 7, 48143 Münster  
+> **Kanzlei Bernauer & Partnerinnen, Rechtsanwältinnen und Rechtsanwälte**
+> Energierecht · Infrastrukturrecht · Gesellschaftsrecht
+> Karlsplatz 7, 48143 Münster
 > Tel. 0251 / 39 81 40-0 · bernauer@kanzlei-bernauer.de
 
 ---
@@ -112,7 +112,7 @@ Kick-off mit gesamtem Projektteam: **22. April 2024**, 10:00 Uhr, Konferenzraum 
 
 *Münster, den 15. März 2024*
 
-**RA Thomas Bernauer**  
+**RA Thomas Bernauer**
 Bernauer & Partnerinnen
 
 *Vermerk erstellt um 18:42 Uhr. Nicht korrekturgelesen von Mandant. Zur internen Akte.*

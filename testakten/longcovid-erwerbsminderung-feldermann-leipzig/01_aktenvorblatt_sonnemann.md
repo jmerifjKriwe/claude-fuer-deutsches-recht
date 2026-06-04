@@ -2,19 +2,19 @@
 
 ---
 
-**Kanzlei:**  Sonnemann Sozialrecht Leipzig  
-**Anwältin:** Rechtsanwältin Marit Sonnemann, Fachanwältin für Sozialrecht  
-**Adresse:**  Karl-Liebknecht-Straße 14, 04107 Leipzig  
-**Telefon:**  0341 / 58 82 100  
-**Fax:**      0341 / 58 82 101  
-**E-Mail:**   kanzlei@sonnemann-sozialrecht.de  
+**Kanzlei:**  Sonnemann Sozialrecht Leipzig
+**Anwältin:** Rechtsanwältin Marit Sonnemann, Fachanwältin für Sozialrecht
+**Adresse:**  Karl-Liebknecht-Straße 14, 04107 Leipzig
+**Telefon:**  0341 / 58 82 100
+**Fax:**      0341 / 58 82 101
+**E-Mail:**   kanzlei@sonnemann-sozialrecht.de
 
 ---
 
 ## Aktenzeichen Kanzlei
 
-**Internes AZ:** SON-2026-0047-FEL  
-**Angelegt:**    17.02.2026  
+**Internes AZ:** SON-2026-0047-FEL
+**Angelegt:**    17.02.2026
 **Sachbearbeiterin:** RA Sonnemann / Frau Krüger (Sekretariat)
 
 ---
@@ -32,9 +32,9 @@
 | Familienstand | verheiratet |
 | Kinder | Liam Feldermann (geb. 14.03.2014, 11 J.), Marlene Feldermann (geb. 08.11.2016, 8 J.) |
 
-**Ehemann:** Marko Feldermann, geb. 18.11.1981  
-Beruf: Industriemeister Maschinenbau, Linde Sächsisch GmbH, Leipzig  
-Brutto-Einkommen: 4.310,00 EUR / Monat  
+**Ehemann:** Marko Feldermann, geb. 18.11.1981
+Beruf: Industriemeister Maschinenbau, Linde Sächsisch GmbH, Leipzig
+Brutto-Einkommen: 4.310,00 EUR / Monat
 
 ---
 
@@ -66,7 +66,7 @@ Brutto-Einkommen: 4.310,00 EUR / Monat
 
 ## Finanzierung / PKH
 
-Prozesskostenhilfe-Antrag vorbereitet (vgl. Aktenstück 21).  
+Prozesskostenhilfe-Antrag vorbereitet (vgl. Aktenstück 21).
 Klärungsbedarf: Anrechnung Einkommen Ehemann bei PKH-Prüfung (§ 115 ZPO i. V. m. § 73a SGG).
 
 ---

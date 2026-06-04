@@ -1,6 +1,6 @@
 # Anhang — Subunternehmer Betonart Sachsen GmbH
 
-**AZ:** 8 O 188/26  
+**AZ:** 8 O 188/26
 **Betreff:** Ermittlung Subunternehmer-Einsatz Bewehrungsarbeiten (neu ermittelt nach Zeugenaussage Eickenmueller)
 
 ---

@@ -1,9 +1,9 @@
 # Datenschutz-Folgenabschätzung (DSFA) — BEM-Gesundheitsdaten
 
-**Aktenstück:** 11  
-**Datum:** 14.05.2026  
-**Erstellt durch:** RA Lukas Drosten (Kanzlei Drosten & Pekonkur) gemeinsam mit Markus Feilke (Datenschutzbeauftragter, Datenschutzkanzlei Rhein-Main)  
-**Mandantin:** Frischetrans Mittelrhein GmbH  
+**Aktenstück:** 11
+**Datum:** 14.05.2026
+**Erstellt durch:** RA Lukas Drosten (Kanzlei Drosten & Pekonkur) gemeinsam mit Markus Feilke (Datenschutzbeauftragter, Datenschutzkanzlei Rhein-Main)
+**Mandantin:** Frischetrans Mittelrhein GmbH
 **Rechtsgrundlage:** Art. 35 DSGVO, § 67 SGB IX (BEM-Verfahren)
 
 ---
@@ -68,7 +68,7 @@ BEM-Daten wurden in SAP HR (Modul: Personalwesen — Krankheit/BEM) sowie als di
 
 Durch den Ransomware-Angriff und den Datenabfluss sind folgende Szenarien jetzt konkret eingetreten:
 
-**Szenario 1 — Veröffentlichung durch Erpressergruppe:**  
+**Szenario 1 — Veröffentlichung durch Erpressergruppe:**
 AkiraNext droht mit Veröffentlichung der Daten auf ihrer Leakseite. Sollte dies geschehen, sind die Gesundheitsdaten von 38 Mitarbeitern öffentlich zugänglich. Folgen:
 - Soziale Stigmatisierung (psychische Erkrankungen, Suchterkrankungen)
 - Auswirkungen auf Kreditwürdigkeit, Versicherbarkeit
@@ -77,10 +77,10 @@ AkiraNext droht mit Veröffentlichung der Daten auf ihrer Leakseite. Sollte dies
 
 **Risikoklassifikation:** HOCH — unmittelbare, schwerwiegende Folgen für vulnerable Personen.
 
-**Szenario 2 — Missbrauch durch Dritte:**  
+**Szenario 2 — Missbrauch durch Dritte:**
 Die Daten könnten an spezialisierte Datenhändler oder Identitätsdiebe verkauft werden.
 
-**Szenario 3 — Erpressung der betroffenen Mitarbeiter:**  
+**Szenario 3 — Erpressung der betroffenen Mitarbeiter:**
 Einzelne Mitarbeiter könnten selbst erpresst werden (z.B. „Wir veröffentlichen Ihre Diagnose, wenn Sie nicht zahlen"). Dies stellt eine zusätzliche Belastung für besonders vulnerable Personen dar.
 
 ---
@@ -133,8 +133,8 @@ Die DSFA wird nach Abschluss der Abhilfemaßnahmen (voraussichtlich Herbst 2026)
 
 **Verantwortliche Unterzeichner:**
 
-Theresia Wallbruck (Geschäftsführerin, Verantwortlicher i.S.d. DSGVO)  
-Markus Feilke (Datenschutzbeauftragter)  
+Theresia Wallbruck (Geschäftsführerin, Verantwortlicher i.S.d. DSGVO)
+Markus Feilke (Datenschutzbeauftragter)
 RA Lukas Drosten (rechtliche Beratung)
 
 *Mainz, 14.05.2026*

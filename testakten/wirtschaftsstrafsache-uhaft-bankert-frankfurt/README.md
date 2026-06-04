@@ -132,7 +132,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 ## Verfahrensstand
 
-**Stichtag dieser Akte: Mai 2025**  
+**Stichtag dieser Akte: Mai 2025**
 **Mandatsannahme: 20. März 2025**
 
 | Verfahrensstrang | Status |
@@ -151,6 +151,6 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 | Gesellschafterstreit Geweke | Angekündigt; gesellschaftsrechtliche Beratung RAin Dabel |
 | Insolvenzgefahr BIA GmbH | Akut; Restrukturierungsberater eingeschaltet |
 
-**Verteidigerin:** Dr. Friederike Marx, Fachanwältin für Strafrecht, Marx Strafverteidigung Frankfurt, Bockenheimer Landstraße 84, 60323 Frankfurt am Main  
-**Staatsanwaltschaft:** StA Frankfurt am Main, OStA Dr. Henning Wallisch, Az. 5400 Js 14782/24  
+**Verteidigerin:** Dr. Friederike Marx, Fachanwältin für Strafrecht, Marx Strafverteidigung Frankfurt, Bockenheimer Landstraße 84, 60323 Frankfurt am Main
+**Staatsanwaltschaft:** StA Frankfurt am Main, OStA Dr. Henning Wallisch, Az. 5400 Js 14782/24
 **Gericht:** LG Frankfurt am Main, 14. Gr. WiStK, Az. 5/28 KLs 122/25

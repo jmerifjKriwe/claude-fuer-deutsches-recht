@@ -55,109 +55,36 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `akkreditierung-programm-system` | Prüft Programm-/Systemakkreditierung, Auflagen, Studiengangsqualität und Gremienfolgen. |
-| `akkreditierung-und-qualitaet` | Prüft Akkreditierung und Qualitätssicherung. |
 | `allgemein` | Startet Hochschulrecht für Universitäten, Hochschulen, Studierende, Lehrende, Kanzler, Präsidien und Rechtsabteilungen. |
-| `alumni-stiftung-spenden-compliance` | Prüft Hochschulstiftungen, Spenden, Sponsoring, Transparenz und Zweckbindung. |
-| `anerkennung-ects-und-ausland` | Prüft Anerkennung von Leistungen und ECTS. |
-| `ausgruendung-transferstelle` | Prüft Spin-off, Beteiligung, Nebentätigkeit, IP-Lizenz und Hochschulressourcen. |
-| `bafoeg-und-hochschulstatus` | Prüft BAföG-Schnittstellen zu Hochschulstatus. |
-| `barrierefreiheit-campus-digital` | Prüft bauliche und digitale Barrierefreiheit, Studienorganisation und Nachteilsausgleich. |
-| `berufungsvereinbarung-ausstattung` | Prüft Ausstattung, Zusagen, Verstetigung, Widerruf und Haushaltsvorbehalt. |
-| `berufungsverfahren-professur` | Prüft Berufungsverfahren für Professuren. |
-| `beurlaubung-hochschulstatus` | Prüft Urlaubssemester, Beitragsstatus, Prüfungsrechte, BAföG und Exmatrikulationsrisiken. |
-| `campusbau-und-flaechenmanagement` | Prüft Campusbau, Flächenvergabe, Bauherrenschaft, Vergabe und Gremienbeteiligung. |
-| `datenschutz-hochschule` | Prüft Datenschutz in Lehre, Forschung und Verwaltung. |
-| `dekanat-organstreit` | Prüft innerhochschulische Organstreitigkeiten und Beschlussmängel. |
-| `digitallehre-und-satzungsgrundlage` | Prüft digitale Lehre, Anwesenheit, Aufzeichnung, Satzung und Datenschutz. |
-| `drittmittel-overhead-und-ip` | Prüft Drittmittelvertrag, Overhead, Rechte, Publikation und Haushaltsbindung. |
-| `drittmittel-und-industriekooperation` | Prüft Drittmittel, Forschungskooperation und Industrieeinfluss. |
-| `duale-hochschule-praxispartner` | Prüft Praxispartner, Studienvertrag, Exmatrikulation, Akkreditierung und Status. |
-| `ethikkommission-und-forschung` | Prüft Ethikkommission, Forschungsvorhaben und Verantwortung. |
-| `exmatrikulation` | Prüft Exmatrikulation und Folgen. |
-| `exmatrikulation-beitragsrueckstand` | Prüft Beitragsrückstand, Mahnung, Verhältnismäßigkeit, Härtefall und Wiedereinschreibung. |
-| `exportkontrolle-forschung` | Prüft Dual-Use, Sanktionen, Gastwissenschaftler, Wissenstransfer und Genehmigungsbedarf. |
-| `fakultaetsrat-kompetenzen` | Prüft Zuständigkeit von Fakultätsrat, Dekanat, Senat und Präsidium. |
-| `forschungsdaten-datenschutz` | Prüft Forschungsdaten, DSGVO, Ethik, Löschung, Open Data und Zweckbindung. |
-| `forschungsdaten-und-open-science` | Prüft Forschungsdaten, Open Science und Repositorien. |
-| `forschungskooperation-industrie` | Prüft Forschungskooperation, Publikationssperre, IP, Interessenkonflikte und Compliance. |
-| `gastwissenschaftler-sanktionen-dual-use` | Prüft Gastwissenschaftler, Exportkontrolle, Sanktionslisten und sensible Forschung. |
-| `gleichstellung-kommissionen` | Prüft Gleichstellung, Beteiligungsrechte, Kommissionsbesetzung und Verfahrensfehler. |
-| `graduiertenschule-zulassung` | Prüft Zulassung zur Graduiertenschule, Auswahlkriterien, Betreuung und Rechtsschutz. |
-| `grundordnung-und-satzung` | Prüft Grundordnung, Satzungskompetenz und Bekanntmachung. |
-| `gute-wissenschaftliche-praxis` | Prüft gute wissenschaftliche Praxis und Ombudsverfahren. |
-| `gute-wissenschaftliche-praxis-verfahren` | Prüft GWP-Verfahren, Ombudsperson, Kommission, Sanktionen und Fairness. |
-| `habilitation` | Prüft Habilitation und Lehrbefähigung. |
-| `hausrecht-campus` | Prüft Hausrecht, Demonstration und Campusnutzung. |
-| `hochschularchiv-und-aktenordnung` | Prüft Archivierung, Aktenordnung, Prüfungsakten, Forschungsdaten und Löschfristen. |
-| `hochschulautonomie-und-aufsicht` | Prüft Hochschulautonomie, Rechtsaufsicht und Fachaufsicht. |
-| `hochschuldisziplinarrecht` | Prüft Ordnungs- und Disziplinarmaßnahmen gegen Studierende. |
-| `hochschulerfindungen-und-ip` | Prüft Hochschulerfindungen, Software und Ausgründungen. |
-| `hochschulfusion-neugliederung` | Prüft Fusion, Standortschließung, Personal, Gremien und Übergangsrecht. |
-| `hochschulgesetz-baden-wuerttemberg` | Prüft Hochschulrecht in Baden-Württemberg mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. |
-| `hochschulgesetz-bayern` | Prüft Hochschulrecht in Bayern mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. |
-| `hochschulgesetz-berlin` | Prüft Hochschulrecht in Berlin mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. |
-| `hochschulgesetz-brandenburg` | Prüft Hochschulrecht in Brandenburg mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. |
-| `hochschulgesetz-bremen` | Prüft Hochschulrecht in Bremen mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. |
-| `hochschulgesetz-hamburg` | Prüft Hochschulrecht in Hamburg mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. |
-| `hochschulgesetz-hessen` | Prüft Hochschulrecht in Hessen mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. |
-| `hochschulgesetz-mecklenburg-vorpommern` | Prüft Hochschulrecht in Mecklenburg-Vorpommern mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. |
-| `hochschulgesetz-niedersachsen` | Prüft Hochschulrecht in Niedersachsen mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. |
-| `hochschulgesetz-nordrhein-westfalen` | Prüft Hochschulrecht in Nordrhein-Westfalen mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. |
-| `hochschulgesetz-rheinland-pfalz` | Prüft Hochschulrecht in Rheinland-Pfalz mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. |
-| `hochschulgesetz-saarland` | Prüft Hochschulrecht in Saarland mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. |
-| `hochschulgesetz-sachsen` | Prüft Hochschulrecht in Sachsen mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. |
-| `hochschulgesetz-sachsen-anhalt` | Prüft Hochschulrecht in Sachsen-Anhalt mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. |
-| `hochschulgesetz-schleswig-holstein` | Prüft Hochschulrecht in Schleswig-Holstein mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. |
-| `hochschulgesetz-thueringen` | Prüft Hochschulrecht in Thüringen mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. |
-| `hochschulmedizin` | Prüft Universitätskliniken und Hochschulmedizin. |
-| `hochschulmedizin-klinik-schnittstelle` | Prüft Universitätsmedizin, Klinikträger, Forschung, Lehre und Organabgrenzung. |
-| `hochschulrat-aufsicht-ministerium` | Prüft Hochschulrat, Rechtsaufsicht, Fachaufsichtsgrenzen und ministerielle Beanstandung. |
-| `hochschulwahlen` | Prüft Hochschulwahlen und Wahlprüfung. |
-| `hochschulzugang-beruflich-qualifizierte` | Prüft Hochschulzugang ohne Abitur, Beratungspflichten, Eignung und Ablehnung. |
-| `humanstudie-ethik-und-datenschutz` | Prüft Humanstudien, Einwilligung, Ethikvotum, Datenschutz und Studienabbruch. |
-| `ifg-transparenz-hochschule` | Prüft Informationszugang, Drittmitteltransparenz, Geheimschutz und Forschungsdaten. |
-| `immatrikulation-und-rueckmeldung` | Prüft Immatrikulation, Rückmeldung und Gebühren. |
-| `informationssicherheit-hochschule` | Prüft IT-Sicherheit, Forschungsdaten, Ransomware, Hochschul-CERT und Verantwortlichkeiten. |
-| `international-office-und-visa` | Prüft internationale Studierende und Hochschulstatus. |
-| `international-office-visum-status` | Prüft hochschulische Bescheinigungen, Visum, Aufenthalt und Einschreibung. |
-| `juniorprofessur-tenure-track` | Prüft Juniorprofessur und Tenure Track. |
-| `juniorprofessur-verlaengerung` | Prüft Verlängerung, Evaluation, Mutterschutz/Elternzeit und Befristungsgrenzen. |
-| `konkurrentenstreit-professur` | Prüft Konkurrentenstreit im Hochschulbereich. |
-| `kunst-und-musikhochschulen` | Prüft Kunst- und Musikhochschulen mit Eignungsprüfungen. |
-| `landeshochschulgesetz-router` | Routet Hochschulrecht in das richtige Bundesland, Hochschulgesetz und die passende Satzung. |
-| `lehrbeauftragte-status-und-verguetung` | Prüft Lehrbeauftragte, Vergütung, Status, Scheinselbständigkeit und Prüfungsbefugnis. |
-| `lehrbeauftragte-und-status` | Prüft Lehrbeauftragte, Honorar und Status. |
-| `lehrverpflichtung-deputat` | Prüft Lehrdeputat, Ermäßigung, Forschungssemester und Kapazitätsfolgen. |
-| `nebentaetigkeit-professoren` | Prüft Anzeige/Genehmigung, Drittmittelnähe, Interessenkonflikte und Abführungspflichten. |
-| `open-access-hochschule` | Prüft Open-Access-Pflichten, Zweitveröffentlichung, Rechtekette und Drittmittelvorgaben. |
-| `plagiat-gwp-hochschule` | Prüft Plagiatsvorwürfe, Promotionsfolgen, Akteneinsicht und Verfahrensrechte. |
-| `praesidium-rektorat-kanzler` | Prüft Präsidium/Rektorat/Kanzler-Zuständigkeiten. |
-| `private-hochschule` | Prüft private und staatlich anerkannte Hochschulen. |
-| `private-hochschule-anerkennung` | Prüft staatliche Anerkennung, Aufsicht, Studiengänge, Gebühren und Studierendenrechte. |
-| `promotion-und-promotionsordnung` | Prüft Promotion, Annahme, Betreuung und Entzug. |
-| `publikationsfreiheit-affiliation` | Prüft Publikationsfreigabe, Affiliation, Drittmittelbindung und Wissenschaftsfreiheit. |
-| `ranking-kennzahlen-und-hochschulmarketing` | Prüft Rankings, Kennzahlenmeldungen, Werbeaussagen und Reputationsrisiken. |
-| `rechtsschutz-hochschule` | Baut Widerspruch, Klage und Eilverfahren im Hochschulrecht. |
+| `kompendium-01-berufungsverfahren-p-bis-gastwissenschaftler` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (berufungsverfahren-professur, gute-wissenschaftliche-praxis-verfahren, wisszeitvg-und-befristung, gastwissenschaftler-sanktionen-dual-use) und b... |
+| `kompendium-02-akkreditierung-progr-bis-anerkennung-ects-und` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (akkreditierung-programm-system, akkreditierung-und-qualitaet, alumni-stiftung-spenden-compliance, anerkennung-ects-und-ausland) und bewahrt dere... |
+| `kompendium-03-ausgruendung-transfe-bis-berufungsvereinbarun` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (ausgruendung-transferstelle, bafoeg-und-hochschulstatus, barrierefreiheit-campus-digital, berufungsvereinbarung-ausstattung) und bewahrt deren W... |
+| `kompendium-04-beurlaubung-hochschu-bis-dekanat-organstreit` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (beurlaubung-hochschulstatus, campusbau-und-flaechenmanagement, datenschutz-hochschule, dekanat-organstreit) und bewahrt deren Workflows, Normank... |
+| `kompendium-05-digitallehre-und-sat-bis-duale-hochschule-pra` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (digitallehre-und-satzungsgrundlage, drittmittel-overhead-und-ip, drittmittel-und-industriekooperation, duale-hochschule-praxispartner) und bewah... |
+| `kompendium-06-ethikkommission-und-bis-exportkontrolle-fors` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (ethikkommission-und-forschung, exmatrikulation, exmatrikulation-beitragsrueckstand, exportkontrolle-forschung) und bewahrt deren Workflows, Norm... |
+| `kompendium-07-fakultaetsrat-kompet-bis-forschungskooperatio` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (fakultaetsrat-kompetenzen, forschungsdaten-datenschutz, forschungsdaten-und-open-science, forschungskooperation-industrie) und bewahrt deren Wor... |
+| `kompendium-08-gleichstellung-kommi-bis-gute-wissenschaftlic` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (gleichstellung-kommissionen, graduiertenschule-zulassung, grundordnung-und-satzung, gute-wissenschaftliche-praxis) und bewahrt deren Workflows,... |
+| `kompendium-09-habilitation-bis-hochschulautonomie-u` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (habilitation, hausrecht-campus, hochschularchiv-und-aktenordnung, hochschulautonomie-und-aufsicht) und bewahrt deren Workflows, Normanker, Prüfp... |
+| `kompendium-10-hochschuldisziplinar-bis-hochschulgesetz-bade` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (hochschuldisziplinarrecht, hochschulerfindungen-und-ip, hochschulfusion-neugliederung, hochschulgesetz-baden-wuerttemberg) und bewahrt deren Wor... |
+| `kompendium-11-hochschulgesetz-baye-bis-hochschulgesetz-brem` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (hochschulgesetz-bayern, hochschulgesetz-berlin, hochschulgesetz-brandenburg, hochschulgesetz-bremen) und bewahrt deren Workflows, Normanker, Prü... |
+| `kompendium-12-hochschulgesetz-hamb-bis-hochschulgesetz-nied` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (hochschulgesetz-hamburg, hochschulgesetz-hessen, hochschulgesetz-mecklenburg-vorpommern, hochschulgesetz-niedersachsen) und bewahrt deren Workfl... |
+| `kompendium-13-hochschulgesetz-nord-bis-hochschulgesetz-sach` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (hochschulgesetz-nordrhein-westfalen, hochschulgesetz-rheinland-pfalz, hochschulgesetz-saarland, hochschulgesetz-sachsen) und bewahrt deren Workf... |
+| `kompendium-14-hochschulgesetz-sach-bis-hochschulmedizin` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (hochschulgesetz-sachsen-anhalt, hochschulgesetz-schleswig-holstein, hochschulgesetz-thueringen, hochschulmedizin) und bewahrt deren Workflows, N... |
+| `kompendium-15-hochschulmedizin-kli-bis-hochschulzugang-beru` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (hochschulmedizin-klinik-schnittstelle, hochschulrat-aufsicht-ministerium, hochschulwahlen, hochschulzugang-beruflich-qualifizierte) und bewahrt... |
+| `kompendium-16-humanstudie-ethik-un-bis-informationssicherhe` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (humanstudie-ethik-und-datenschutz, ifg-transparenz-hochschule, immatrikulation-und-rueckmeldung, informationssicherheit-hochschule) und bewahrt... |
+| `kompendium-17-international-office-bis-juniorprofessur-verl` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (international-office-und-visa, international-office-visum-status, juniorprofessur-tenure-track, juniorprofessur-verlaengerung) und bewahrt deren... |
+| `kompendium-18-konkurrentenstreit-p-bis-lehrbeauftragte-stat` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (konkurrentenstreit-professur, kunst-und-musikhochschulen, landeshochschulgesetz-router, lehrbeauftragte-status-und-verguetung) und bewahrt deren... |
+| `kompendium-19-lehrbeauftragte-und-bis-open-access-hochschu` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (lehrbeauftragte-und-status, lehrverpflichtung-deputat, nebentaetigkeit-professoren, open-access-hochschule) und bewahrt deren Workflows, Normank... |
+| `kompendium-20-plagiat-gwp-hochschu-bis-private-hochschule-a` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (plagiat-gwp-hochschule, praesidium-rektorat-kanzler, private-hochschule, private-hochschule-anerkennung) und bewahrt deren Workflows, Normanker,... |
+| `kompendium-21-promotion-und-promot-bis-rechtsschutz-hochsch` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (promotion-und-promotionsordnung, publikationsfreiheit-affiliation, ranking-kennzahlen-und-hochschulmarketing, rechtsschutz-hochschule) und bewah... |
+| `kompendium-22-semesterticket-und-m-bis-studiengang-einstell` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (semesterticket-und-mobilitaetsbeitrag, senat-fakultaetsrat-gremien, senatswahl-statusgruppen, studiengang-einstellung) und bewahrt deren Workflo... |
+| `kompendium-23-studiengebuehren-int-bis-tenure-track-evaluat` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (studiengebuehren-internationale-studierende, studierendenschaft-asta, studierendenwerk-beitrag, tenure-track-evaluation) und bewahrt deren Workf... |
+| `kompendium-24-tierversuch-ethikvot-bis-versammlung-polizei` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 24; bündelt 4 frühere Spezialskills (tierversuch-ethikvotum, urlaubssemester-und-teilzeit, vergaberecht-forschungsgeraete, versammlung-polizei-campus) und bewahrt deren Workflows, N... |
+| `kompendium-25-w-besoldung-und-leis-bis-zulassung-nc-und-kap` | hochschulrecht-laender: Konsolidiertes Skill-Kompendium 25; bündelt 2 frühere Spezialskills (w-besoldung-und-leistungsbezuege, zulassung-nc-und-kapazitaet) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
 | `redteam-hochschulrecht-qualitygate` | Finaler Qualitätscheck für Hochschulrechtsausgaben. |
-| `semesterticket-und-mobilitaetsbeitrag` | Prüft Semesterticket, Opt-out, Sozialbeitrag und Vertragsmodell. |
-| `senat-fakultaetsrat-gremien` | Prüft Senat, Fakultätsrat und akademische Gremien. |
-| `senatswahl-statusgruppen` | Prüft Senatswahl, Gruppenparität, Wahlordnung, Anfechtung und Mandatsverteilung. |
-| `studiengang-einstellung` | Prüft Einstellung, Änderung und Akkreditierung von Studiengängen. |
-| `studiengebuehren-internationale-studierende` | Prüft Gebühren für internationale Studierende, Satzung, Ausnahmen und Rückerstattung. |
-| `studierendenschaft-asta` | Prüft Studierendenschaft, AStA, Beiträge und Mandat. |
-| `studierendenwerk-beitrag` | Prüft Studierendenwerksbeitrag, Satzung, Rückerstattung und Härtefall. |
-| `tenure-track-evaluation` | Prüft Tenure-Track-Zwischenevaluation, Endbewertung, Transparenz und Rechtsschutz. |
-| `tierversuch-ethikvotum` | Prüft Tierversuch, Ethikvotum, Genehmigung, Dokumentation und Forschungsfreiheit. |
-| `urlaubssemester-und-teilzeit` | Prüft Urlaubssemester, Teilzeitstudium und Härtefälle. |
-| `vergaberecht-forschungsgeraete` | Prüft Beschaffung von Forschungsgeräten, Dringlichkeit, Alleinstellungsmerkmal und Dokumentation. |
-| `versammlung-polizei-campus` | Prüft Versammlungen, Proteste, Polizei, Hausrecht und Wissenschaftsfreiheit. |
-| `w-besoldung-und-leistungsbezuege` | Prüft W-Besoldung, Leistungsbezüge und Bleibeverhandlungen. |
-| `wisszeitvg-und-befristung` | Prüft Wissenschaftszeitvertragsrecht im Hochschulkontext. |
-| `zulassung-nc-und-kapazitaet` | Prüft Zulassung, NC und Kapazitätsrecht. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

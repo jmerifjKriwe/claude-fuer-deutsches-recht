@@ -1,7 +1,7 @@
 # 08 — Zeugenaussage Thorsten Schwingenstein-Birkenhainer
 
-**AZ:** 8 O 188/26  
-**Termin:** 12.06.2026, 13:05 Uhr  
+**AZ:** 8 O 188/26
+**Termin:** 12.06.2026, 13:05 Uhr
 **Zeuge:** Thorsten Schwingenstein-Birkenhainer, geb. 22.07.1978, Lützowstraße 8, 04205 Leipzig; Bauleiter, beschäftigt bei Schreinmoor Bauträger AG
 
 ---

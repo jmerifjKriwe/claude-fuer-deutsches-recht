@@ -1,8 +1,8 @@
 # 08 — EUIPO-Nichtigkeitsantrag Bouqart Italia S.r.l.: Verfahrensgang und Erstentscheidung
 
-**Bearbeiter:** PA Dr. Volkmar Trautmann  
-**Datum:** 20. Mai 2026  
-**Verfahren:** EUIPO Nichtigkeitsabteilung / BoA R 1322/26-2  
+**Bearbeiter:** PA Dr. Volkmar Trautmann
+**Datum:** 20. Mai 2026
+**Verfahren:** EUIPO Nichtigkeitsabteilung / BoA R 1322/26-2
 
 ---
 
@@ -10,25 +10,25 @@
 
 ### 1.1 Antragstellerin und Antragsgegenstand
 
-**Antragstellerin:** Bouqart Italia S.r.l., Via del Commercio 44, 41121 Modena, Italien  
-Vertreten durch: Studio Legale Ferretti & Moretti, Mailand, Via Montenapoleone 12  
+**Antragstellerin:** Bouqart Italia S.r.l., Via del Commercio 44, 41121 Modena, Italien
+Vertreten durch: Studio Legale Ferretti & Moretti, Mailand, Via Montenapoleone 12
 
-**Antragsgegenstand:** Nichtigerklärung der EU-3D-Marke EUIPO Nr. 018 977 412 (Inhaberin: Leichtenstein Gartenkultur Manufaktur GmbH)  
+**Antragsgegenstand:** Nichtigerklärung der EU-3D-Marke EUIPO Nr. 018 977 412 (Inhaberin: Leichtenstein Gartenkultur Manufaktur GmbH)
 
-**Eingereicht beim EUIPO:** 11. September 2025  
-**EUIPO-Aktenzeichen Nichtigkeitsabteilung:** ICD 000 042 881  
+**Eingereicht beim EUIPO:** 11. September 2025
+**EUIPO-Aktenzeichen Nichtigkeitsabteilung:** ICD 000 042 881
 
 ### 1.2 Nichtigkeitsgründe laut Antrag Bouqart
 
 Bouqart stützt seinen Nichtigkeitsantrag auf folgende Gründe:
 
-**Hauptgrund:** Art. 59 Abs. 1 lit. a i.V.m. Art. 7 Abs. 1 lit. b UMV — Mangelnde Unterscheidungskraft  
+**Hauptgrund:** Art. 59 Abs. 1 lit. a i.V.m. Art. 7 Abs. 1 lit. b UMV — Mangelnde Unterscheidungskraft
 Die eingetragene Form einer Rosenbluete ist nach Ansicht von Bouqart eine generische Blütenform, die im Gartendekorationsbereich weit verbreitet ist und vom Verbraucher nicht als Herkunftszeichen wahrgenommen wird.
 
-**Hilfsgrund 1:** Art. 59 Abs. 1 lit. a i.V.m. Art. 7 Abs. 1 lit. e (i) UMV — Warenbedingte Form  
+**Hilfsgrund 1:** Art. 59 Abs. 1 lit. a i.V.m. Art. 7 Abs. 1 lit. e (i) UMV — Warenbedingte Form
 Bouqart behauptet, die konkrete Gestaltung ergebe sich zwingend aus der Art der Ware (Gartenblume als Deko-Artikel). Dieses Argument ist in dieser pauschalen Form nicht überzeugend (vgl. Aktenstück 03).
 
-**Hilfsgrund 2:** Art. 59 Abs. 1 lit. a i.V.m. Art. 7 Abs. 1 lit. c UMV — Freihaltebedürfnis  
+**Hilfsgrund 2:** Art. 59 Abs. 1 lit. a i.V.m. Art. 7 Abs. 1 lit. c UMV — Freihaltebedürfnis
 Die Form diene lediglich dazu, eine Rosenbluete darzustellen; solche beschreibenden Formen seien freizuhalten.
 
 ### 1.3 Beweismittel Bouqart im Nichtigkeitsverfahren
@@ -69,13 +69,13 @@ Die EUIPO-Nichtigkeitsabteilung hat den Nichtigkeitsantrag von Bouqart mit Entsc
 
 ### 3.2 Begründung (Zusammenfassung)
 
-**Zur mangelnden Unterscheidungskraft:**  
+**Zur mangelnden Unterscheidungskraft:**
 Die Nichtigkeitsabteilung stellte fest, dass die eingetragene Gestaltung zwar eine Rosenbluete zeige, die konkrete Ausformung jedoch von handelsüblichen Gartendekos hinreichend abweiche. Insbesondere die S-förmige Schaftgestaltung in Kombination mit der Blattattrappe und der asymmetrischen Blütenblattanordnung schaffe eine Gesamtwirkung, die nicht als reiner Ausdruck der Warenform, sondern als individuelles Gestaltungselement wahrgenommen werde. Die vorgelegten Konkurrenzprodukte seien nicht geeignet, das Gegenteil zu beweisen, da sie in ihren Formdetails deutliche Unterschiede aufwiesen.
 
-**Zu den Hilfsgründen:**  
+**Zu den Hilfsgründen:**
 Die Nichtigkeitsabteilung folgte den Ausführungen der Markeninhaberin und lehnte sowohl den Freihaltebedürfnis-Einwand als auch den Funktionalitätseinwand ab.
 
-**Kosten:**  
+**Kosten:**
 Die Kosten des Verfahrens wurden Bouqart auferlegt.
 
 ## 4. Beschwerde Bouqart — Einleitung des Board-of-Appeal-Verfahrens
@@ -105,5 +105,5 @@ Das erstinstanzliche EUIPO-Verfahren wurde gewonnen. Dies ist eine solide Ausgan
 
 ---
 
-**Erstellt von:** PA Dr. Volkmar Trautmann  
+**Erstellt von:** PA Dr. Volkmar Trautmann
 **Datum:** 20. Mai 2026

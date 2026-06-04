@@ -1,9 +1,9 @@
 # Aktenvermerk: Schriftformprüfung § 14 Abs. 4 TzBfG
 
-> **Aktenzeichen:** VGT/2026/0309-ARB  
-> **Datum:** 10. März 2026  
-> **Verfasserin:** RA'in [H. Dressel]  
-> **Betreff:** Rechtliche Prüfung: Wirksamkeit der Befristungsabrede, insbesondere Schriftformerfordernis § 14 Abs. 4 TzBfG, Vorbeschäftigungsverbot § 14 Abs. 2 Satz 2 TzBfG  
+> **Aktenzeichen:** VGT/2026/0309-ARB
+> **Datum:** 10. März 2026
+> **Verfasserin:** RA'in [H. Dressel]
+> **Betreff:** Rechtliche Prüfung: Wirksamkeit der Befristungsabrede, insbesondere Schriftformerfordernis § 14 Abs. 4 TzBfG, Vorbeschäftigungsverbot § 14 Abs. 2 Satz 2 TzBfG
 > **Akte:** Vogt ./. Stadtwerke Neukölln GmbH
 
 ---

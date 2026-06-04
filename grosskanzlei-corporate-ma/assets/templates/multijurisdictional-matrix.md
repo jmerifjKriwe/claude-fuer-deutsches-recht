@@ -23,6 +23,6 @@
 
 ## Notizen
 
-- Annahmen: 
-- Nicht geprüft: 
+- Annahmen:
+- Nicht geprüft:
 - Human-in-the-loop:

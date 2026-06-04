@@ -1,6 +1,6 @@
 # 10 — Verbrauchsgüterkauf: §§ 474 ff. BGB — Besonderheiten und Anwendbarkeit
 
-**Bearbeiter:** Konrad Pohlmann  
+**Bearbeiter:** Konrad Pohlmann
 **Stand:** 24.04.2026
 
 ---

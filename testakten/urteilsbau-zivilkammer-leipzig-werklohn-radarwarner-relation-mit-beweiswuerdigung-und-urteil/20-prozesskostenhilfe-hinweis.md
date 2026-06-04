@@ -1,7 +1,7 @@
 # 20 — Prozesskostenhilfe — Hinweis
 
-**AZ:** 8 O 188/26  
-**Betreff:** PKH-Antrag Beklagte Schreinmoor Bauträger AG  
+**AZ:** 8 O 188/26
+**Betreff:** PKH-Antrag Beklagte Schreinmoor Bauträger AG
 **Rechtsgrundlage:** §§ 114 ff. ZPO
 
 ---

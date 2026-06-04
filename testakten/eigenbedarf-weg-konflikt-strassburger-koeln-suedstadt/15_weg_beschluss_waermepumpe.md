@@ -6,14 +6,14 @@
 
 ## 1. Beschlusstext (wortlautgetreu aus Protokoll)
 
-> **Beschluss-Nr. 2026/6** (14.04.2026, Abstimmung: 4:2, angenommen):  
+> **Beschluss-Nr. 2026/6** (14.04.2026, Abstimmung: 4:2, angenommen):
 > „Die WEG Rolandstraße 27a beschließt die Prüfung und ggf. Umsetzung einer Sole-Wasser-Wärmepumpe gemäß Angebot Energietechnik Scholl GmbH (Anlage 2 zum Protokoll, Angebotspreis 98.500 EUR netto zzgl. MwSt.), vorbehaltlich der Klärung aller behördlichen Genehmigungen und der bergrechtlichen Zulässigkeit. Die Verwalterin wird beauftragt, ein Rechtsgutachten zur bergrechtlichen und baurechtlichen Zulässigkeit einer Tiefenbohrung im Innenhof einzuholen sowie die Fördermöglichkeiten nach dem Bundesförderungsprogramm Effiziente Gebäude (BEG) zu prüfen. Ein erneuter Eigentümerbeschluss über die konkrete Umsetzung ist erforderlich."
 
 ---
 
 ## 2. Technische Beschreibung der geplanten Anlage
 
-**Anbieter:** Energietechnik Scholl GmbH, Rhöndorfer Straße 18, 53604 Bad Honnef  
+**Anbieter:** Energietechnik Scholl GmbH, Rhöndorfer Straße 18, 53604 Bad Honnef
 **Angebot-Nr.:** ES-2026/0219 (Anlage 2 zum Protokoll)
 
 | Parameter | Wert |

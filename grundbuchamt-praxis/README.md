@@ -56,73 +56,32 @@ Starte mit dem allgemeinen Skill `grundbuchamt-allgemeiner-kaltstart`. Lade dana
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 23 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `abteilung-i-eigentum-und-erwerbsgrund` | Prüft Eigentümer, Erwerbsgrund, Erbengemeinschaft, Bruchteile, Gesamthand, eGbR und Voreintragung. |
-| `abteilung-ii-dienstbarkeit-vormerkung-beschraenkung` | Analysiert Wegerecht, Leitungsrecht, Nießbrauch, Wohnungsrecht, Vormerkung, Sanierungsvermerk, Nacherbfolge und Verfügungsbeschränkung. |
-| `abteilung-iii-grundschuld-hypothek-rang` | Prüft Grundschuld, Hypothek, Rentenschuld, Brief/Buch, Rang, Löschung, Abtretung und Sicherungszweck-Schnittstelle. |
-| `amtshaftung-und-vollzugsfehler` | Ordnet Fehler von Notar, Grundbuchamt, Partei und Bank ohne vorschnelle Schuldzuweisung. |
-| `aufgebotsverfahren-famfg` | Prüft Zuständigkeit, Antragsberechtigung, Glaubhaftmachung, Aufgebotsfrist, öffentliche Bekanntmachung und Beschlussverwertung. |
-| `auflassung-und-eigentumsumschreibung` | Prüft Auflassung, Antrag, Voreintragung, Unbedenklichkeitsbescheinigung, Genehmigungen und Vollzug. |
-| `auflassungsvormerkung-kaufvertrag` | Prüft Vormerkungszweck, Rang, Löschung, Sicherung gegen Zwischenverfügungen und Käufer-/Bankenschutz. |
-| `auslandsurkunden-apostille-grundbuch` | Prüft Apostille, Legalisation, notarielle Bescheinigung, Übersetzung und Register-/Vertretungsnachweis. |
-| `baulast-ist-nicht-grundbuch` | Erklärt, warum Baulasten nicht im Grundbuch stehen müssen und wie man Baulastenverzeichnis/Grundbuch zusammenliest. |
-| `beschwerde-grundbuchsache` | Prüft Statthaftigkeit, Beschwer, Frist, Abhilfe, Nichtabhilfe und OLG-Vorlage in Grundbuchsachen. |
-| `bestandsverzeichnis-flurstueck-und-zuschreibung` | Prüft Grundstück, Flurstück, Gemarkung, Wirtschaftsart, Zuschreibung, Bestandsteil und Katasterabgleich. |
-| `briefrecht-abtretung-und-loeschung` | Prüft Besitz am Brief, Abtretungserklärung, Löschungsbewilligung, Briefvorlage und Ersatzwege. |
-| `dienstbarkeit-wegerecht-pruefen` | Liest Inhalt, herrschendes/dienendes Grundstück, Ausübungsbereich, Baulast-Schnittstelle und Löschbarkeit. |
-| `elektronischer-rechtsverkehr-grundbuch` | Prüft elektronische Einreichung, notarielle Signatur, Scans, Ausfertigungen und Medienbruchrisiken. |
-| `familiengerichtliche-genehmigung-grundbuch` | Prüft Minderjährige, betreute Personen, Genehmigungsbedürftigkeit, Rechtskraft und Nachweisform. |
-| `finanzierung-und-rangstelle` | Koordiniert Bankauflagen, Rangbescheinigung, Belastungsvollmacht, Zweckerklärung und Auszahlungsvoraussetzungen. |
-| `gbo-antrag-bewilligung-eintragung` | Prüft GBO-Mechanik aus Antrag, Bewilligung, Eintragungsfähigkeit, Eintragungsreife und Vollzugshindernis. |
-| `gbr-egbr-grundbuch` | Prüft Gesellschaftsregister, Voreintragung, Vertretung, Gesellschafterwechsel und MoPeG-Folgen. |
-| `genehmigungen-landwirtschaft-verkehrswert` | Prüft Grundstücksverkehr, siedlungsrechtliche Genehmigungen, Vorkaufsrechte und Registervollzug. |
 | `grundbuch-qualitygate-vor-vollzug` | Prüft Antrag, Bewilligung, Rang, Nachweise, Anlagen, Genehmigungen, Urkundenform und Zahlungslogik. |
-| `grundbuch-vollzugslog` | Erstellt Fristen-, Rang- und Nachweisliste mit Verantwortlichen, Stand und nächstem Schritt. |
 | `grundbuchamt-allgemeiner-kaltstart` | Führt durch Eigentum, Belastungen, Vollzugsziel, Grundbuchbezirk, Urkundentyp, Nachweise, Rang, Fristdruck und Kommunikationsweg mit dem Grundbuchamt. |
-| `grundbuchamt-amtswiderspruch-und-richtigstellung` | Prüft offensichtliche Unrichtigkeit, Amtswiderspruch, Amtslöschung, Berichtigung und Rechtsschutz. |
-| `grundbuchamt-brief-vs-buchrecht-erklaerung` | Erklärt Mandanten, warum der Briefkörper zählt und warum Kopien nicht reichen. |
-| `grundbuchamt-eilfall-rangverlust` | Erarbeitet Sofortplan bei drohendem Rangverlust oder konkurrierendem Antrag. |
-| `grundbuchamt-erbbaurecht-schnittstelle` | Verknüpft Grundstücksgrundbuch, Erbbaugrundbuch, Reallast, Zustimmung und Belastungen. |
-| `grundbuchamt-flurbereinigung-und-umlegung` | Prüft neue Grundstücksbezeichnungen, Surrogation, Rangfortsetzung und Vollzugsnachweise. |
-| `grundbuchamt-gesamtgrundschuld-und-mithaft` | Prüft Mithaft mehrerer Grundstücke, Pfandfreigabe, Rang und Bankauflagen. |
-| `grundbuchamt-gesellschaftsrechtliche-vertretung` | Prüft Handelsregister, Gesellschafterliste, Geschäftsführer, Prokura, Liquidator und ausländische Vertreter. |
-| `grundbuchamt-insolvenz-auslaendischer-trustee` | Prüft inzidente Anerkennung, Vertretungsmacht, Urkundenform, Übersetzung und Register-/Grundbuchfähigkeit. |
-| `grundbuchamt-kommunikation` | Formuliert sachliche Anfragen, Nachreichungen, Fristbitten und Beschwerdeankündigungen ohne Vollzug zu gefährden. |
-| `grundbuchamt-konkurrierende-antraege-rangkonflikt` | Prüft, was zu tun ist, wenn Vormerkung, Grundschuld, Pfändung, Insolvenz-/ZVG-Vermerk oder Dienstbarkeit konkurrierend eingehen und der Rang wirtschaftlich entscheidend wird. |
-| `grundbuchamt-maengelmatrix` | Klassifiziert jedes Hindernis nach Form, Berechtigung, Genehmigung, Rang, Kosten, Steuer und Inhalt. |
-| `grundbuchamt-nichtigkeitsrisiko-kaufvertrag` | Prüft, ob ein möglicher Form-, Genehmigungs-, Vertretungs- oder Verbotsgesetzmangel den Grundbuchvollzug blockiert und wie Zwischenverfügung, Nachgenehmigung oder Rückabwicklung vorbereitet werden. |
-| `grundbuchamt-teilloesung-rangfreigabe` | Prüft Teilflächen, Freigabeerklärung, Rangwirkung, Bankbrief und Vollzug. |
-| `grundbuchamt-verlorene-genehmigung-und-ersatznachweis` | Prüft, wie eine verlorene familiengerichtliche, betreuungsgerichtliche, sanierungsrechtliche oder behördliche Genehmigung grundbuchtauglich ersetzt oder erneut beschafft wird. |
-| `grundbuchamt-verwalterzustimmung-weg` | Prüft Teilungserklärung, Verwalternachweis, Beschluss, Form und Nachreichung. |
-| `grundbuchamt-vollstreckungsunterwerfung` | Prüft § 800 ZPO-Schnittstelle, dingliche Unterwerfung, Klausel und Zustellung. |
-| `grundbuchauszug-fuer-due-diligence` | Baut eine DD-Tabelle aus Eigentum, Belastungen, Rang, Vollzugshindernissen, offenen Fragen und Deal-Relevanz. |
-| `grundbuchauszug-lesen-abteilung-i-ii-iii` | Erklärt Bestandsverzeichnis, Abteilung I, II und III mit Warnsystem gegen übersehene Dienstbarkeiten, Vormerkungen, Verfügungsbeschränkungen und Rangfallen. |
-| `grundbuchberichtigung-erbfall` | Prüft Erbschein, notarielle Verfügung von Todes wegen, Europäisches Nachlasszeugnis, Grundbuchberichtigung und Kostenfristen. |
-| `grunderwerbsteuer-unbedenklichkeitsbescheinigung` | Prüft GrESt-Schnittstelle, Fälligkeitslogik, Ausnahmen und Vollzugshindernis. |
-| `grundschuld-bestellung-buchgrundschuld` | Prüft Bewilligung, Rang, Betrag, Zinsen, Nebenleistung, Unterwerfung und Sicherungsabrede. |
-| `grundschuldbrief-verlust-aufgebot` | Führt durch Feststellung des Verlusts, Aufgebotsantrag, Nachweise, Ausschließungsbeschluss, Ersatzbrief/Löschung und Bankkommunikation. |
-| `insolvenzvermerk-zwangsversteigerung` | Prüft Verfügungsbeschränkung, Zwangsversteigerungsvermerk, Rang, Löschung und Erwerb aus Verfahren. |
-| `kataster-liegenschaftskarte-abgleich` | Prüft Flurstücksidentität, Vermessung, Teilung, Vereinigung, Fortführung und Vollzugshindernisse. |
-| `kaufvertrags-check-grundbuch` | Prüft Belastungen, Fälligkeit, Löschung, Vormerkung, Finanzierung, Besitzübergang und Risiken aus Abteilung II. |
-| `leitungsrecht-und-energieanlagen` | Prüft Strom, Wasser, Fernwärme, Telekommunikation, dingliche Sicherung und Rangkonflikte. |
-| `loeschungsbewilligung-bank` | Checkt Bankformular, Unterschriften, Vertretungsmacht, Briefvorlage, Teillöschung und Verwahrstelle. |
-| `nacherbenvermerk-und-verfuegungsbeschraenkung` | Prüft Vermerk, Zustimmung, Befreiung, Löschung und Erwerberrisiko. |
-| `niessbrauch-wohnungsrecht` | Prüft Berechtigte, Inhalt, Rang, Löschung, Tod, Heimunterbringung, Vermietung und Finanzierungskonflikt. |
-| `notariat-vollzugsauftrag-grundbuch` | Steuert Notarvollzug, Treuhandauflagen, Fälligkeitsmitteilung, Bankunterlagen und Mandantenkommunikation. |
-| `paragraph-29-gbo-formnachweis` | Prüft öffentliche oder öffentlich beglaubigte Urkunden, Registerauszüge, Erbnachweise, Vollmachten, Auslandsurkunden und Übersetzungen. |
-| `prioritaetsmitteilung-und-rangbescheinigung` | Prüft, wann Rang gesichert ist und wie Notar/Bank/Grundbuchamt die Reihenfolge dokumentieren. |
-| `rangprinzip-und-rangvorbehalt` | Ordnet Rangfolge, Rangrücktritt, Gleichrang, Rangvorbehalt und Prioritätsrisiken. |
-| `reallast-und-erbbauzins` | Prüft Inhalt, Anpassung, Rang, Vollstreckbarkeit und Zusammenhang mit Erbbaurechten. |
-| `rechtsprechung-grundbuch-live-verifizieren` | Verlangt bei jeder Entscheidung Gericht, Datum, Aktenzeichen und frei zugänglichen Link, sonst nur als Prüfbedarf ausgeben. |
-| `sanierungsvermerk-und-vorkaufsrechte-kommune` | Prüft Genehmigung, Vorkaufsrecht, Löschung, Bescheinigung und Kaufvertragsvollzug. |
-| `teilflaechenkauf-und-vermessung` | Plant Vormerkung, Messungsanerkennung, Fortführungsnachweis, Rang, Kaufpreisfälligkeit und Umschreibung. |
-| `testamentsvollstrecker-grundbuch` | Prüft Verfügungsbefugnis, Zeugnis, Beschränkungen, Nachweisform und Verkaufsvollzug. |
-| `vollmacht-vorsorgevollmacht-grundbuch` | Prüft notarielle Vollmacht, Ausfertigung, Betreuungs-/Vorsorgevollmacht, Widerruf, Auslandsbezug und Missbrauchsrisiko. |
-| `vorkaufsrecht-wiederkaufsrecht` | Prüft dingliches Recht, Ausübungsfall, Frist, Löschung, Rang und Kaufvertragsgestaltung. |
-| `weg-teilungsgrundbuch` | Prüft Teilungserklärung, Aufteilungsplan, Abgeschlossenheit, Sonder-/Gemeinschaftseigentum, Sondernutzungsrechte und Grundbuchblätter. |
-| `zwischenverfuegung-paragraph-18-gbo` | Analysiert beanstandete Hindernisse, Behebbarkeit, Rangwahrung, Frist und Antwortstrategie. |
+| `kompendium-01-rechtsprechung-grund-bis-auflassungsvormerkun` | grundbuchamt-praxis: Konsolidiertes Skill-Kompendium 01; bündelt 3 frühere Spezialskills (rechtsprechung-grundbuch-live-verifizieren, aufgebotsverfahren-famfg, auflassungsvormerkung-kaufvertrag) und bewahrt deren Workflows, Normanker, Pr... |
+| `kompendium-02-grundbuchamt-nichtig-bis-amtshaftung-und-voll` | grundbuchamt-praxis: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (grundbuchamt-nichtigkeitsrisiko-kaufvertrag, kaufvertrags-check-grundbuch, amtshaftung-und-vollzugsfehler) und bewahrt deren Workflows, Normanker,... |
+| `kompendium-03-grundbuchamt-maengel-bis-abteilung-i-eigentum` | grundbuchamt-praxis: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (grundbuchamt-maengelmatrix, notariat-vollzugsauftrag-grundbuch, abteilung-i-eigentum-und-erwerbsgrund) und bewahrt deren Workflows, Normanker, Prüf... |
+| `kompendium-04-abteilung-ii-dienstb-bis-auflassung-und-eigen` | grundbuchamt-praxis: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (abteilung-ii-dienstbarkeit-vormerkung-beschraenkung, abteilung-iii-grundschuld-hypothek-rang, auflassung-und-eigentumsumschreibung) und bewahrt der... |
+| `kompendium-05-auslandsurkunden-apo-bis-beschwerde-grundbuch` | grundbuchamt-praxis: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (auslandsurkunden-apostille-grundbuch, baulast-ist-nicht-grundbuch, beschwerde-grundbuchsache) und bewahrt deren Workflows, Normanker, Prüfprogramme... |
+| `kompendium-06-bestandsverzeichnis-bis-dienstbarkeit-wegere` | grundbuchamt-praxis: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (bestandsverzeichnis-flurstueck-und-zuschreibung, briefrecht-abtretung-und-loeschung, dienstbarkeit-wegerecht-pruefen) und bewahrt deren Workflows,... |
+| `kompendium-07-elektronischer-recht-bis-finanzierung-und-ran` | grundbuchamt-praxis: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (elektronischer-rechtsverkehr-grundbuch, familiengerichtliche-genehmigung-grundbuch, finanzierung-und-rangstelle) und bewahrt deren Workflows, Norma... |
+| `kompendium-08-gbo-antrag-bewilligu-bis-genehmigungen-landwi` | grundbuchamt-praxis: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (gbo-antrag-bewilligung-eintragung, gbr-egbr-grundbuch, genehmigungen-landwirtschaft-verkehrswert) und bewahrt deren Workflows, Normanker, Prüfprogr... |
+| `kompendium-09-grundbuch-vollzugslo-bis-grundbuchamt-brief-v` | grundbuchamt-praxis: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (grundbuch-vollzugslog, grundbuchamt-amtswiderspruch-und-richtigstellung, grundbuchamt-brief-vs-buchrecht-erklaerung) und bewahrt deren Workflows, N... |
+| `kompendium-10-grundbuchamt-eilfall-bis-grundbuchamt-flurber` | grundbuchamt-praxis: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (grundbuchamt-eilfall-rangverlust, grundbuchamt-erbbaurecht-schnittstelle, grundbuchamt-flurbereinigung-und-umlegung) und bewahrt deren Workflows, N... |
+| `kompendium-11-grundbuchamt-gesamtg-bis-grundbuchamt-insolve` | grundbuchamt-praxis: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (grundbuchamt-gesamtgrundschuld-und-mithaft, grundbuchamt-gesellschaftsrechtliche-vertretung, grundbuchamt-insolvenz-auslaendischer-trustee) und bew... |
+| `kompendium-12-grundbuchamt-kommuni-bis-grundbuchamt-teilloe` | grundbuchamt-praxis: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (grundbuchamt-kommunikation, grundbuchamt-konkurrierende-antraege-rangkonflikt, grundbuchamt-teilloesung-rangfreigabe) und bewahrt deren Workflows,... |
+| `kompendium-13-grundbuchamt-verlore-bis-grundbuchamt-vollstr` | grundbuchamt-praxis: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (grundbuchamt-verlorene-genehmigung-und-ersatznachweis, grundbuchamt-verwalterzustimmung-weg, grundbuchamt-vollstreckungsunterwerfung) und bewahrt d... |
+| `kompendium-14-grundbuchauszug-fuer-bis-grundbuchberichtigun` | grundbuchamt-praxis: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (grundbuchauszug-fuer-due-diligence, grundbuchauszug-lesen-abteilung-i-ii-iii, grundbuchberichtigung-erbfall) und bewahrt deren Workflows, Normanker... |
+| `kompendium-15-grunderwerbsteuer-un-bis-grundschuldbrief-ver` | grundbuchamt-praxis: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (grunderwerbsteuer-unbedenklichkeitsbescheinigung, grundschuld-bestellung-buchgrundschuld, grundschuldbrief-verlust-aufgebot) und bewahrt deren Work... |
+| `kompendium-16-insolvenzvermerk-zwa-bis-leitungsrecht-und-en` | grundbuchamt-praxis: Konsolidiertes Skill-Kompendium 16; bündelt 3 frühere Spezialskills (insolvenzvermerk-zwangsversteigerung, kataster-liegenschaftskarte-abgleich, leitungsrecht-und-energieanlagen) und bewahrt deren Workflows, Normanke... |
+| `kompendium-17-loeschungsbewilligun-bis-niessbrauch-wohnungs` | grundbuchamt-praxis: Konsolidiertes Skill-Kompendium 17; bündelt 3 frühere Spezialskills (loeschungsbewilligung-bank, nacherbenvermerk-und-verfuegungsbeschraenkung, niessbrauch-wohnungsrecht) und bewahrt deren Workflows, Normanker, Prüfp... |
+| `kompendium-18-paragraph-29-gbo-for-bis-rangprinzip-und-rang` | grundbuchamt-praxis: Konsolidiertes Skill-Kompendium 18; bündelt 3 frühere Spezialskills (paragraph-29-gbo-formnachweis, prioritaetsmitteilung-und-rangbescheinigung, rangprinzip-und-rangvorbehalt) und bewahrt deren Workflows, Normanker,... |
+| `kompendium-19-reallast-und-erbbauz-bis-teilflaechenkauf-und` | grundbuchamt-praxis: Konsolidiertes Skill-Kompendium 19; bündelt 3 frühere Spezialskills (reallast-und-erbbauzins, sanierungsvermerk-und-vorkaufsrechte-kommune, teilflaechenkauf-und-vermessung) und bewahrt deren Workflows, Normanker, Prü... |
+| `kompendium-20-testamentsvollstreck-bis-vorkaufsrecht-wieder` | grundbuchamt-praxis: Konsolidiertes Skill-Kompendium 20; bündelt 3 frühere Spezialskills (testamentsvollstrecker-grundbuch, vollmacht-vorsorgevollmacht-grundbuch, vorkaufsrecht-wiederkaufsrecht) und bewahrt deren Workflows, Normanker, Pr... |
+| `kompendium-21-weg-teilungsgrundbuc-bis-zwischenverfuegung-p` | grundbuchamt-praxis: Konsolidiertes Skill-Kompendium 21; bündelt 2 frühere Spezialskills (weg-teilungsgrundbuch, zwischenverfuegung-paragraph-18-gbo) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -1,7 +1,7 @@
 # Wirtschaftsplan WEG Rolandstraße 27a – Wirtschaftsjahr 2026
 
-**Erstellt durch:** Immobilienverwaltung Rheineck GmbH  
-**Stand:** 15. Februar 2026  
+**Erstellt durch:** Immobilienverwaltung Rheineck GmbH
+**Stand:** 15. Februar 2026
 **Beschlossen:** 14. April 2026 (TOP 4, 4:2-Stimmen)
 
 ---
@@ -66,5 +66,5 @@
 
 ---
 
-*Gez. Jürgen Rheineck, Verwalter*  
+*Gez. Jürgen Rheineck, Verwalter*
 *Köln, 15.02.2026*

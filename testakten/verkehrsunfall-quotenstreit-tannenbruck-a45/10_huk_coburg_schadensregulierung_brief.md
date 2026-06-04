@@ -1,12 +1,12 @@
 # HUK-Coburg — Schadensregulierung Tannenbruck (Brief und Stellungnahme)
 
-**Absender (Brief 1):** HUK-Coburg Allgemeine Versicherungs-AG  
-Bahnhofsplatz 1, 96444 Coburg  
-Sachbearbeiterin: Julia Reichard, Referat Kraftfahrt-Haftpflicht  
-Schadennummer: 40-300-2026-08841  
-**Datum:** 26.01.2026  
+**Absender (Brief 1):** HUK-Coburg Allgemeine Versicherungs-AG
+Bahnhofsplatz 1, 96444 Coburg
+Sachbearbeiterin: Julia Reichard, Referat Kraftfahrt-Haftpflicht
+Schadennummer: 40-300-2026-08841
+**Datum:** 26.01.2026
 
-**Empfänger:** Kanzlei Hoffmann Verkehrsrecht, z.H. RA Sebastian Hoffmann, Lüdenscheid  
+**Empfänger:** Kanzlei Hoffmann Verkehrsrecht, z.H. RA Sebastian Hoffmann, Lüdenscheid
 
 ---
 
@@ -37,8 +37,8 @@ Wir weisen vorsorglich darauf hin, dass § 28 VVG i.V.m. Ziffer 5.1 AKB (Leistun
 
 Gegenüber Ihrem Mandanten persönlich sind wir daher berechtigt, Rückgriff zu nehmen (§ 86 VVG, § 116 SGB X).
 
-Mit freundlichen Grüßen  
-Julia Reichard  
+Mit freundlichen Grüßen
+Julia Reichard
 HUK-Coburg, Kraftfahrt-Haftpflicht, Referat Schadensregulierung
 
 ---
@@ -67,9 +67,9 @@ Wir widersprechen der angedeuteten vollständigen Leistungsfreiheit. Bei grober 
 
 Wir fordern Sie auf, bis **28.02.2026** eine qualifizierte Stellungnahme zur Haftungsquote und zur Deckungsfrage abzugeben, andernfalls werden wir die Interessen unseres Mandanten gerichtlich durchsetzen.
 
-Mit freundlichen kollegialen Grüßen  
-Sebastian Hoffmann  
-Rechtsanwalt, Fachanwalt für Verkehrsrecht  
+Mit freundlichen kollegialen Grüßen
+Sebastian Hoffmann
+Rechtsanwalt, Fachanwalt für Verkehrsrecht
 
 ---
 

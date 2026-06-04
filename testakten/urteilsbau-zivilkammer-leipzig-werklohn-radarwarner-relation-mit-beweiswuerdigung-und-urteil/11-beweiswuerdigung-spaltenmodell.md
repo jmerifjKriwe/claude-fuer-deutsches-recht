@@ -1,7 +1,7 @@
 # 11 — Beweiswürdigung Spaltenmodell
 
-**AZ:** 8 O 188/26  
-**Erstellerin:** Dr. Tannenberg-Eichmueller  
+**AZ:** 8 O 188/26
+**Erstellerin:** Dr. Tannenberg-Eichmueller
 **Stand:** nach Eingang ergänzenden Gutachten 14.07.2026
 
 Grundlage: § 286 ZPO — freie Beweiswürdigung; Überzeugungsgrad: überwiegende Wahrscheinlichkeit genügt nicht; volle richterliche Überzeugung erforderlich.

@@ -1,6 +1,6 @@
 # Aktenstück 02 — Medizinische Diagnosen und Befundchronologie
 
-**Mandantin:** Marion Vogelweide, geb. 14.03.1974  
+**Mandantin:** Marion Vogelweide, geb. 14.03.1974
 **Bezug:** BU-Klage LG Aachen 5 O 102/26; Anlage K 3
 
 ---

@@ -1,7 +1,7 @@
 # 11 P-Konto-Bescheinigung — Pruefung § 850k ZPO
 
-**Akte:** MR-2026-ZV-0188  
-**Datum:** 16.01.2026  
+**Akte:** MR-2026-ZV-0188
+**Datum:** 16.01.2026
 **Anlass:** Carmen Pohlmann-Tannenberg hat P-Konto-Bescheinigung angekündigt
 
 ---
@@ -16,7 +16,7 @@ Nach Eingang des PfUEB-Antrags gegen die Sparda-Bank Hamburg (Drittschuldner fü
 
 Das P-Konto garantiert dem Schuldner, dass ein monatlicher **Grundfreibetrag von 1.491,75 EUR** (Stand 2026) auf dem Konto automatisch pfaendungsgeschuetzt ist, unabhängig davon wie viele PfUEB auf dem Konto liegen.
 
-**Erhöhung des Freibetrags § 850k Abs. 2 ZPO:**  
+**Erhöhung des Freibetrags § 850k Abs. 2 ZPO:**
 Der Freibetrag kann durch Vorlage einer Bescheinigung erhöht werden bei:
 
 | Grund | Bescheinigung ausstellt von | Zusatzbetrag (2026) |

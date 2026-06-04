@@ -1,7 +1,7 @@
 # Schufa-Eintrag und Löschungsbegehren
 
-**Aktenzeichen:** PS-BKR-2026-0412  
-**Datum:** 21.04.2026  
+**Aktenzeichen:** PS-BKR-2026-0412
+**Datum:** 21.04.2026
 
 ---
 
@@ -27,19 +27,19 @@ Der Eintrag hat die Kreditwürdigkeit von Frau Wittfeldt massiv verschlechtert. 
 
 ## II. Löschungsbegehren an Schufa Holding AG
 
-**Kanzlei Pflüger Schoeneberg Bankrecht**  
-Am Markt 14 · 28195 Bremen  
+**Kanzlei Pflüger Schoeneberg Bankrecht**
+Am Markt 14 · 28195 Bremen
 
-**An:**  
-Schufa Holding AG  
-Ombudsmann / Datenschutz  
-Kormoranweg 5  
-65201 Wiesbaden  
+**An:**
+Schufa Holding AG
+Ombudsmann / Datenschutz
+Kormoranweg 5
+65201 Wiesbaden
 
-per Einschreiben; Fax: 0611 / 9278-109  
+per Einschreiben; Fax: 0611 / 9278-109
 
-**Datum:** 21.04.2026  
-**Betreff:** Löschungsbegehren nach Art. 17 DSGVO / § 35 BDSG – Eintrag Sparkasse Bremen, 71.380 EUR  
+**Datum:** 21.04.2026
+**Betreff:** Löschungsbegehren nach Art. 17 DSGVO / § 35 BDSG – Eintrag Sparkasse Bremen, 71.380 EUR
 
 Sehr geehrte Damen und Herren,
 
@@ -72,8 +72,8 @@ Hilfsweise begehren wir die **Einschränkung der Verarbeitung** nach Art. 18 DSG
 
 Da die Schufa-Meldung die Wohnsituation von Frau Wittfeldt unmittelbar gefährdet (Ablehnung bei Mietgesuch), haben wir beim **AG Bremen-Blumenthal** (Az. 15 C 124/26) bereits eine **Unterlassungsklage / Löschungsklage** nach §§ 823 Abs. 1, 1004 BGB i.V.m. Art. 17 DSGVO eingereicht.
 
-**Streitgegenstand:** Löschung / Widerruf der Schufa-Meldung (71.380 EUR, Gläubiger: Sparkasse Bremen).  
-**Streitwert:** 7.138,00 EUR (10 % der Forderung, übliche Praxis AG).  
+**Streitgegenstand:** Löschung / Widerruf der Schufa-Meldung (71.380 EUR, Gläubiger: Sparkasse Bremen).
+**Streitwert:** 7.138,00 EUR (10 % der Forderung, übliche Praxis AG).
 **Verhandlungstermin:** Noch nicht anberaumt.
 
 ---
@@ -104,5 +104,5 @@ Der Schufa-Eintrag hat folgende konkrete negative Konsequenzen verursacht:
 
 ---
 
-*Erstellt: 21.04.2026 · Dr. S. Pflüger*  
+*Erstellt: 21.04.2026 · Dr. S. Pflüger*
 *Quellen: BGH VI ZR 156/13, VI ZR 495/16 (dejure.org); Art. 17 DSGVO; § 35 BDSG*

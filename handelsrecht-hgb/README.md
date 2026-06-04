@@ -47,65 +47,39 @@ Das Plugin ist bewusst **kein** Gesellschaftsrechts-Fachanwaltsplugin, sondern e
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 56 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Skill-Routing für HGB-Fälle: Kaufmann, Register, Firma, Vertretung, Handelsgeschäft, OHG/KG, Handelskauf und Handelsbücher. |
-| `firma-paragraphen-17-37a-hgb` | Prüft Firmenbildung, Kennzeichnungskraft, Irreführung, Rechtsformzusatz und Geschäftsbriefe. |
-| `firmenfortfuehrung-paragraphen-21-25-hgb` | Prüft Firmenfortführung, Unternehmenserwerb, Haftung und Haftungsausschluss. |
-| `formkaufmann-paragraph-6-hgb` | Prüft Kaufmannseigenschaft kraft Rechtsform bei Handelsgesellschaften und juristischen Personen. |
-| `frachtvertrag-paragraphen-407-450-hgb` | Prüft Frachtvertrag, Frachtbrief, Haftung, Verlust/Beschädigung, Lieferfrist und Haftungsgrenzen. |
-| `gmbh-und-co-kg-hgb` | Prüft HGB-Struktur der GmbH & Co. KG: Firma, Vertretung, Haftung, Register und Publizität. |
-| `handelsbuecher-paragraph-238` | Prüft Buchführungspflicht, Handelsbriefe, Belegfunktion und Prozessbeweis. |
-| `handelsgeschaefte-paragraphen-343-344` | Prüft beiderseitige/einseitige Handelsgeschäfte und Vermutung geschäftlicher Zugehörigkeit. |
-| `handelskauf-paragraphen-373-381` | Prüft Fixhandelskauf, Annahmeverzug, Spezifikationskauf, Untersuchungs- und Rügeobliegenheit. |
-| `handelsmakler-paragraphen-93-104-hgb` | Prüft Handelsmakler, Schlussnote, Tagebuch, Provision und Haftung. |
-| `handelsrecht-international-und-cisg-schnittstelle` | Prüft HGB bei internationalem Handelskauf, CISG-Abgrenzung, Rom I und Gerichtsstand. |
-| `handelsregister-paragraphen-8-16-hgb` | Prüft Handelsregister, Einsicht, Bekanntmachung, negative/positive Publizität und Eintragungswirkung. |
-| `handelsvertreter-paragraph-84-hgb` | Prüft Handelsvertreterstatus, Abgrenzung Angestellter/Makler/Vertragshändler. |
-| `handelsvertreter-provision` | Prüft Provisionsanspruch, Entstehen, Fälligkeit, Stornoreserve und Abrechnung. |
-| `handelsvertreterausgleich-paragraph-89b` | Prüft Ausgleichsanspruch, Unternehmervorteile, Billigkeit, Höchstgrenze und Ausschlüsse. |
-| `handlungsgehilfen-und-wettbewerbsverbot` | Prüft Handlungsgehilfe, Wettbewerbsverbot, Karenz und arbeitsrechtliche Schnittstellen. |
-| `handlungsvollmacht-paragraph-54-hgb` | Prüft Artvollmacht, Gattungsvollmacht, Spezialvollmacht und Grenzen. |
-| `hgb-compliance-geschaeftsbriefe-impressum` | Prüft Pflichtangaben auf Geschäftsbriefen, E-Mails, Rechnungen und Webseiten. |
-| `hgb-sanierung-und-krise` | Prüft handelsrechtliche Pflichten in Unternehmenskrise: Buchführung, Register, Haftung, Gesellschafterwechsel, Fortführung. |
-| `jahresabschluss-hgb-grundlagen` | Prüft Aufstellung, Unterzeichnung, Gliederung, Offenlegung und Größenklassen in Grundzügen. |
-| `kannkaufmann-paragraphen-2-3-hgb` | Prüft freiwillige Eintragung kleiner Gewerbe sowie Land-/Forstwirtschaft. |
-| `kaufmaennisches-bestaetigungsschreiben` | Prüft Voraussetzungen und Wirkung des kaufmännischen Bestätigungsschreibens. |
-| `kaufmann-paragraph-1-hgb` | Prüft Istkaufmann und Handelsgewerbe nach Art und Umfang. |
-| `kg-begriff-kommanditist` | Prüft KG, Komplementär, Kommanditist, Hafteinlage, Pflichteinlage und Haftsumme. |
-| `kg-haftung-kommanditist-paragraphen-171-172` | Prüft Außenhaftung, Einlage, Rückzahlung, Registerpublizität und Wiederaufleben. |
-| `kommission-paragraphen-383-406-hgb` | Prüft Kommissionsgeschäft, Selbsteintritt, Ausführung, Provision, Pfandrecht. |
-| `ladenvollmacht-paragraph-56-hgb` | Prüft Laden-/Warenlagerangestellte und Verkehrsschutz. |
-| `lagergeschaeft-paragraphen-467-475h` | Prüft Lagerhalter, Lagerschein, Haftung, Herausgabe und Pfandrecht. |
-| `maengelruege-paragraph-377-hgb` | Prüft Untersuchungs- und Rügeobliegenheit, offene/verdeckte Mängel, Rechtzeitigkeit und Rechtsverlust. |
-| `ohg-anmeldung-statuswechsel-paragraph-106` | Prüft Anmeldung, Statuswechsel aus Gesellschaftsregister, Registerlogik und Fehlerfolgen. |
-| `ohg-begriff-und-entstehung-paragraph-105` | Prüft OHG nach MoPeG: Betrieb eines Handelsgewerbes unter gemeinschaftlicher Firma und BGB-Verweis. |
-| `ohg-gesellschafterwechsel` | Prüft Eintritt, Ausscheiden, Nachhaftung, Abfindung und Registereintragung. |
-| `ohg-vertretung-und-haftung` | Prüft Vertretung, Geschäftsführung, persönliche Haftung und Einwendungen der Gesellschafter. |
-| `prokura-paragraphen-48-53-hgb` | Prüft Erteilung, Umfang, Grenzen, Gesamtprokura, Filialprokura und Registereintragung. |
-| `prozessuale-hgb-beweisfragen` | Prüft Handelsbücher, Bestätigungsschreiben, Registerauszug, Zeugen aus Organisation und Urkundenbeweis. |
-| `rechtsabteilung-handelskauf-maengelruege-nach-377-hgb` | Rechtsabteilungs-Spezialskill für Handelskauf-Mängelrüge nach § 377 HGB: Rügefristen, Wareneingang und Serienfehler werden als Beweisworkflow geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-kaufmaennisches-bestaetigungsschreiben-im-konzer` | Rechtsabteilungs-Spezialskill für Kaufmännisches Bestätigungsschreiben im Konzernalltag: Schweigen, E-Mail-Thread und Bestellplattform werden auf Bindungswirkung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlu... |
-| `rechtsabteilung-kommissionsgeschaeft-und-plattformhaendler` | Rechtsabteilungs-Spezialskill für Kommissionsgeschäft und Plattformhändler: Kommission, Eigenhandel und Marktplatzrolle werden rechtlich sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-lagerhalter-und-speditionshaftung` | Rechtsabteilungs-Spezialskill für Lagerhalter- und Speditionshaftung: Schaden, Haftungsgrenzen und Regressketten werden schnell berechnet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-prokura-und-grundstuecksgeschaeft` | Rechtsabteilungs-Spezialskill für Prokura und Grundstücksgeschäft: Registerlage, Spezialvollmacht und Gutglaubensschutz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `registerbeanstandung-und-beschwerde` | Prüft Zwischenverfügung, Beanstandung, Nachbesserung und Beschwerde gegen Registergericht. |
-| `registerpublizitaet-paragraph-15-hgb` | Prüft negative und positive Publizität des Handelsregisters. |
-| `scheinkaufmann-und-rechtsschein` | Prüft Rechtsschein kaufmännischen Auftretens und Vertrauensschutz. |
-| `speditionsvertrag-paragraphen-453-466-hgb` | Prüft Spediteur, Besorgung der Versendung, Selbsteintritt, Sammelladung, Haftung. |
-| `stille-gesellschaft-paragraph-230` | Prüft stille Beteiligung, Gewinn/Verlust, Auskunft, Insolvenz und Abgrenzung partiarisches Darlehen. |
-| `unternehmenskauf-hgb-haftung` | Prüft Firmenfortführung, Handelsgeschäft, Prokura, Vertragsübernahme und Haftungsrisiken im Asset Deal. |
-| `workflow-anfanger-hgb-erklaerung` | Erklärt Handelsrecht laienverständlich: Warum Kaufmannsrecht strenger, schneller und registerorientierter ist. |
-| `workflow-handelsbrauch-beweis` | Prüft Handelsbrauch, Verkehrssitte, kaufmännisches Bestätigungsschreiben und Beweisfragen. |
-| `workflow-handelskauf-fristenampel` | Macht Fristenampel für Rüge, Lieferung, Fixgeschäft, Annahmeverzug, Verjährung und Beweise. |
-| `workflow-hgb-erstpruefung` | Prüft in fünf Schritten, ob ein HGB-Fall vorliegt und welche Sonderregeln das BGB überlagern. |
+| `kompendium-01-workflow-anfanger-hg-bis-workflow-handelsbrau` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 01; bündelt 2 frühere Spezialskills (workflow-anfanger-hgb-erklaerung, workflow-handelsbrauch-beweis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-02-workflow-handelskauf-bis-workflow-hgb-erstpru` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 02; bündelt 2 frühere Spezialskills (workflow-handelskauf-fristenampel, workflow-hgb-erstpruefung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-03-workflow-registerakt-bis-workflow-verhandlung` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 03; bündelt 2 frühere Spezialskills (workflow-registerakte-und-lueckenliste, workflow-verhandlung-handelsstreit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-04-frachtvertrag-paragr-bis-speditionsvertrag-pa` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 04; bündelt 2 frühere Spezialskills (frachtvertrag-paragraphen-407-450-hgb, speditionsvertrag-paragraphen-453-466-hgb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemus... |
+| `kompendium-05-kg-haftung-kommandit-bis-ohg-vertretung-und-h` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 05; bündelt 2 frühere Spezialskills (kg-haftung-kommanditist-paragraphen-171-172, ohg-vertretung-und-haftung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-06-rechtsabteilung-lage-bis-unternehmenskauf-hgb` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 06; bündelt 2 frühere Spezialskills (rechtsabteilung-lagerhalter-und-speditionshaftung, unternehmenskauf-hgb-haftung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-07-firma-paragraphen-17-bis-firmenfortfuehrung-p` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 07; bündelt 2 frühere Spezialskills (firma-paragraphen-17-37a-hgb, firmenfortfuehrung-paragraphen-21-25-hgb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-08-formkaufmann-paragra-bis-gmbh-und-co-kg-hgb` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 08; bündelt 2 frühere Spezialskills (formkaufmann-paragraph-6-hgb, gmbh-und-co-kg-hgb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-09-handelsbuecher-parag-bis-handelsgeschaefte-pa` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 09; bündelt 2 frühere Spezialskills (handelsbuecher-paragraph-238, handelsgeschaefte-paragraphen-343-344) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-10-handelskauf-paragrap-bis-handelsmakler-paragr` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 10; bündelt 2 frühere Spezialskills (handelskauf-paragraphen-373-381, handelsmakler-paragraphen-93-104-hgb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-11-handelsrecht-interna-bis-handelsregister-para` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 11; bündelt 2 frühere Spezialskills (handelsrecht-international-und-cisg-schnittstelle, handelsregister-paragraphen-8-16-hgb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Aus... |
+| `kompendium-12-handelsvertreter-par-bis-handelsvertreter-pro` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 12; bündelt 2 frühere Spezialskills (handelsvertreter-paragraph-84-hgb, handelsvertreter-provision) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-13-handelsvertreterausg-bis-handlungsgehilfen-un` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 13; bündelt 2 frühere Spezialskills (handelsvertreterausgleich-paragraph-89b, handlungsgehilfen-und-wettbewerbsverbot) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemus... |
+| `kompendium-14-handlungsvollmacht-p-bis-hgb-compliance-gesch` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 14; bündelt 2 frühere Spezialskills (handlungsvollmacht-paragraph-54-hgb, hgb-compliance-geschaeftsbriefe-impressum) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-15-hgb-sanierung-und-kr-bis-jahresabschluss-hgb` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 15; bündelt 2 frühere Spezialskills (hgb-sanierung-und-krise, jahresabschluss-hgb-grundlagen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-16-kannkaufmann-paragra-bis-kaufmaennisches-best` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 16; bündelt 2 frühere Spezialskills (kannkaufmann-paragraphen-2-3-hgb, kaufmaennisches-bestaetigungsschreiben) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-17-kaufmann-paragraph-1-bis-kg-begriff-kommandit` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 17; bündelt 2 frühere Spezialskills (kaufmann-paragraph-1-hgb, kg-begriff-kommanditist) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-18-kommission-paragraph-bis-ladenvollmacht-parag` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 18; bündelt 2 frühere Spezialskills (kommission-paragraphen-383-406-hgb, ladenvollmacht-paragraph-56-hgb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-19-lagergeschaeft-parag-bis-maengelruege-paragra` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 19; bündelt 2 frühere Spezialskills (lagergeschaeft-paragraphen-467-475h, maengelruege-paragraph-377-hgb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-20-ohg-anmeldung-status-bis-ohg-begriff-und-ents` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 20; bündelt 2 frühere Spezialskills (ohg-anmeldung-statuswechsel-paragraph-106, ohg-begriff-und-entstehung-paragraph-105) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabe... |
+| `kompendium-21-ohg-gesellschafterwe-bis-prokura-paragraphen` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 21; bündelt 2 frühere Spezialskills (ohg-gesellschafterwechsel, prokura-paragraphen-48-53-hgb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-22-prozessuale-hgb-bewe-bis-rechtsabteilung-hand` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 22; bündelt 2 frühere Spezialskills (prozessuale-hgb-beweisfragen, rechtsabteilung-handelskauf-maengelruege-nach-377-hgb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabe... |
+| `kompendium-23-rechtsabteilung-kauf-bis-rechtsabteilung-komm` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 23; bündelt 2 frühere Spezialskills (rechtsabteilung-kaufmaennisches-bestaetigungsschreiben-im-konzer, rechtsabteilung-kommissionsgeschaeft-und-plattformhaendler) und bewahrt deren Workfl... |
+| `kompendium-24-rechtsabteilung-prok-bis-registerbeanstandung` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 24; bündelt 2 frühere Spezialskills (rechtsabteilung-prokura-und-grundstuecksgeschaeft, registerbeanstandung-und-beschwerde) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausg... |
+| `kompendium-25-registerpublizitaet-bis-scheinkaufmann-und-r` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 25; bündelt 2 frühere Spezialskills (registerpublizitaet-paragraph-15-hgb, scheinkaufmann-und-rechtsschein) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-26-stille-gesellschaft-bis-zweigniederlassung-u` | handelsrecht-hgb: Konsolidiertes Skill-Kompendium 26; bündelt 2 frühere Spezialskills (stille-gesellschaft-paragraph-230, zweigniederlassung-und-niederlassung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
 | `workflow-livequellen-hgb` | Zwingt HGB-Normen und Rechtsprechung vor Ausgabe zu aktueller freier Quellenprüfung. |
 | `workflow-output-register-gutachten-klage` | Erstellt Registeranmeldungsskizze, Gutachten, Klagebaustein, Rügebrief, Protokoll oder Mandantenbrief. |
 | `workflow-redteam-hgb` | Findet Gegenargumente in Handelsrechtsfällen: Nichtkaufmann, Vertretungsmangel, verspätete Rüge, Registerpublizität, Firmenirreführung. |
-| `workflow-registerakte-und-lueckenliste` | Sortiert Registerauszüge, Gesellschafterlisten, Vollmachten, Notarentwürfe und Beanstandungen. |
-| `workflow-verhandlung-handelsstreit` | Macht Verhandlungsplan bei Liefer-, Register-, Handelsvertreter- oder Gesellschafterstreit. |
-| `zweigniederlassung-und-niederlassung` | Prüft Haupt-/Zweigniederlassung, Firma, Register, Geschäftsbriefe und Vertretung. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

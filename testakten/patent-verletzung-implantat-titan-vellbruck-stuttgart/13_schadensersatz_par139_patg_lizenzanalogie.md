@@ -1,8 +1,8 @@
 # 13 — Schadensersatz nach § 139 Abs. 2 PatG: Lizenzanalogie und Schadensberechnung
 
-**Aktenzeichen intern:** VM-2026-GR-001  
-**Datum:** 22. März 2026  
-**Bearbeiter:** RA Tobias Fehrenbach / RA Dr. Birkenhainer  
+**Aktenzeichen intern:** VM-2026-GR-001
+**Datum:** 22. März 2026
+**Bearbeiter:** RA Tobias Fehrenbach / RA Dr. Birkenhainer
 **Grundlage:** § 139 Abs. 2 PatG; BGH-Rechtsprechung zur Lizenzanalogie; Marktanalyse Medizintechnik 2024/2025
 
 ---
@@ -73,7 +73,7 @@ Für den Fall, dass im Betragsverfahren die Methode des entgangenen Gewinns gew�
 
 Vellbruck hätte ohne die Verletzung voraussichtlich einen erheblichen Teil der Verkäufe von TitanFlex Pro selbst getätigt. Annahme: 60 % der 3.110 Einheiten wären an Vellbruck gegangen (konservative Schätzung; restliche 40 % an andere Wettbewerber).
 
-Entgangener Umsatz Vellbruck: 3.110 × 60 % = 1.866 Einheiten × 2.800 EUR = 5.224.800 EUR  
+Entgangener Umsatz Vellbruck: 3.110 × 60 % = 1.866 Einheiten × 2.800 EUR = 5.224.800 EUR
 Vellbruck-Deckungsbeitrag (geschätzt ca. 35 %): 5.224.800 × 35 % = **1.828.680 EUR**
 
 Die Methode des entgangenen Gewinns ergibt damit einen ca. dreimal höheren Schaden als die Lizenzanalogie. Im Betragsverfahren wird daher primär auf entgangenen Gewinn gesetzt; Lizenzanalogie als Untergrenze.

@@ -1,9 +1,9 @@
 # Prüfvermerk – Vorschussanspruch nach § 3 JVEG
 
-**Verfasser:** Rechtsanwalt Klotzkette, Tübingen  
-**Datum:** 28.01.2026  
-**Aktenzeichen intern:** KB/2026/0047  
-**Verfahren:** LG Tübingen, 7 O 118/23 (Hartmann ./. Vogt)  
+**Verfasser:** Rechtsanwalt Klotzkette, Tübingen
+**Datum:** 28.01.2026
+**Aktenzeichen intern:** KB/2026/0047
+**Verfahren:** LG Tübingen, 7 O 118/23 (Hartmann ./. Vogt)
 **Betreff:** Bewertung des Ablehnungsschreibens vom 27.01.2026 und rechtliche Erfolgsaussichten
 
 ---
@@ -47,10 +47,10 @@ Das Ablehnungsschreiben enthält einen inneren Widerspruch: Es erkennt einerseit
 
 ### Mögliche Gegenargumente
 
-- **Arg. des Gerichts:** Die Zeugin erzielt ausreichend Einkommen und kann vorleisten.  
+- **Arg. des Gerichts:** Die Zeugin erzielt ausreichend Einkommen und kann vorleisten.
   **Gegenmeinung:** § 3 JVEG enthält kein Bedürftigkeitsmerkmal. Auch vermögende Zeugen haben Anspruch auf Vorschuss bei erheblichen Aufwendungen.
 
-- **Arg.:** Barerstattung am Tag der Vernehmung ist möglich.  
+- **Arg.:** Barerstattung am Tag der Vernehmung ist möglich.
   **Gegenmeinung:** Dieses Angebot setzt voraus, dass die Zeugin die Reisekosten zunächst selbst verauslagt. Genau das soll § 3 JVEG verhindern. Zudem besteht kein Rechtsanspruch auf Barzahlung am Verhandlungstag.
 
 ## IV. Bewertung einzelner Positionen

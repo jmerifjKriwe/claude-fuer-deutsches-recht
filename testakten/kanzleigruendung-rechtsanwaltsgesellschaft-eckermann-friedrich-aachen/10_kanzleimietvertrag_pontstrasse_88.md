@@ -1,8 +1,8 @@
 # 10 Kanzleimietvertrag — Pontstraße 88, 52062 Aachen
 
-**Aktenzeichen:** KBH-2026-001-EFS  
-**Stand:** 22. April 2026  
-**Bearbeiterin:** RA Monika Hellwig  
+**Aktenzeichen:** KBH-2026-001-EFS
+**Stand:** 22. April 2026
+**Bearbeiterin:** RA Monika Hellwig
 
 ---
 

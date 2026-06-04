@@ -1,6 +1,6 @@
 # 04 — Anspruchsschema: B gegen C (§§ 437, 404, 406 BGB — Kettenkonstellation nach Abtretung)
 
-**Bearbeiter:** Konrad Pohlmann  
+**Bearbeiter:** Konrad Pohlmann
 **Stand:** 18.04.2026
 
 ---
@@ -50,7 +50,7 @@ IV. Rechtsfolge: Forderungsübergang auf C (§ 398 S. 2 BGB) ✓
 I. Wirksame Abtretung (s. o.) ✓
 
 II. Einwendung des B gegen A im Zeitpunkt der Abtretung (15.04.2026)?
-   
+
    1. Aufrechnungserklärung vom 10.04.2026
       - Vor Abtretung erklärt (10.04. < 15.04.) ✓
       - Wenn Aufrechnung wirksam (§§ 387, 388, 389 BGB): Forderung teilweise erloschen

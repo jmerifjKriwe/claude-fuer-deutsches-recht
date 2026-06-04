@@ -1,10 +1,10 @@
 # 01 — Aktenintake-Checkliste
 
-**AZ:** 8 O 188/26  
-**Kammer:** 8. Zivilkammer LG Leipzig  
-**Vorsitz:** Dr. Annegret Tannenberg-Eichmueller  
-**Geschäftsstelle:** Frau Lattermann  
-**Eingangsdatum:** 14.01.2026  
+**AZ:** 8 O 188/26
+**Kammer:** 8. Zivilkammer LG Leipzig
+**Vorsitz:** Dr. Annegret Tannenberg-Eichmueller
+**Geschäftsstelle:** Frau Lattermann
+**Eingangsdatum:** 14.01.2026
 **Haupttermin:** 17.09.2026, 09:30 Uhr, Saal 3.14
 
 ---

@@ -1,7 +1,7 @@
 # 13 — Insolvenzantrag und Eröffnungsbeschluss
 
-**Teil A:** Eigenantrag der Pellbach Logistik & Spedition GmbH vom 09.03.2025  
-**Teil B:** Eröffnungsbeschluss AG Koeln (Insolvenzgericht) vom 17.04.2025  
+**Teil A:** Eigenantrag der Pellbach Logistik & Spedition GmbH vom 09.03.2025
+**Teil B:** Eröffnungsbeschluss AG Koeln (Insolvenzgericht) vom 17.04.2025
 **Teil C:** Verfahrensvermerk Verteidigung zur insolvenzanfechtungsrechtlichen Parallelität
 
 Aktentyp: Beglaubigte Abschriften (A, B) und interne Notiz (C)
@@ -49,7 +49,7 @@ Eigenkapital zum 31.12.2024 (Entwurf): 334 TEUR. Ungedeckter Fehlbetrag zum Stic
 
 Koeln, 09.03.2025
 
-gez. **Dr. Carlsten Pellbach-Eisenacher** (GF)  
+gez. **Dr. Carlsten Pellbach-Eisenacher** (GF)
 Erstellt unter Mitwirkung von Steuerberater Engelmeier; insolvenzrechtliche Beratung Kanzlei Wagner-Hieronymi (vorbereitend)
 
 ---
@@ -88,7 +88,7 @@ Koeln, 17.04.2025 — gez. **Rixenkamp**, Rechtspflegerin / Insolvenzgericht
 
 ## Teil C — Verfahrensvermerk Verteidigung zur insolvenzanfechtungsrechtlichen Parallelität
 
-**Vellbruck Strafverteidigung Koeln — Interne Notiz**  
+**Vellbruck Strafverteidigung Koeln — Interne Notiz**
 Erstellt: RA Knehrkamp, 20.05.2026
 
 ### 1. Bedeutung der Insolvenzanfechtung für Strafverfahren

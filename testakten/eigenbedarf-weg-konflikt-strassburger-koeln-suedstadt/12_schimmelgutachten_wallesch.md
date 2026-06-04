@@ -1,18 +1,18 @@
 # Sachverständigengutachten – Schimmelbildung Rolandstraße 27a, DG-Wohnung
 
-**Öffentlich bestellter und vereidigter Sachverständiger**  
-**Dipl.-Ing. Hubert Wallesch**  
-Fachgebiet: Baukonstruktion, Feuchtigkeits- und Schäden im Bauwesen  
-Öff. bestellt: Architektenkammer NRW, Best.-Nr. SV 2004-NW-0881  
-Anschrift: Venloer Straße 188, 50823 Köln  
+**Öffentlich bestellter und vereidigter Sachverständiger**
+**Dipl.-Ing. Hubert Wallesch**
+Fachgebiet: Baukonstruktion, Feuchtigkeits- und Schäden im Bauwesen
+Öff. bestellt: Architektenkammer NRW, Best.-Nr. SV 2004-NW-0881
+Anschrift: Venloer Straße 188, 50823 Köln
 Tel. 0221 / 50 44 92  **E-Mail:** wallesch-sv@konstrukt-koeln.de
 
 ---
 
-**Gutachten-Nr.:** GW-2026-048  
-**Auftraggeber:** WG Albrecht / van Drosten / Sonnenfeld (Mieter), Rolandstraße 27a, 50677 Köln  
-*(Auftrag erteilt durch Mieterverein Köln, Sachbearbeiter Wolfgang Lemke)*  
-**Datum des Ortstermins:** 18. Februar 2026  
+**Gutachten-Nr.:** GW-2026-048
+**Auftraggeber:** WG Albrecht / van Drosten / Sonnenfeld (Mieter), Rolandstraße 27a, 50677 Köln
+*(Auftrag erteilt durch Mieterverein Köln, Sachbearbeiter Wolfgang Lemke)*
+**Datum des Ortstermins:** 18. Februar 2026
 **Datum des Gutachtens:** 05. März 2026
 
 ---
@@ -101,8 +101,8 @@ Ich versichere, dass ich das Gutachten unparteiisch und nach bestem Wissen und G
 
 Köln, **05. März 2026**
 
-_________________________  
-**Dipl.-Ing. Hubert Wallesch**  
+_________________________
+**Dipl.-Ing. Hubert Wallesch**
 Öff. best. u. vereid. Sachverständiger, Architektenkammer NRW
 
 ---

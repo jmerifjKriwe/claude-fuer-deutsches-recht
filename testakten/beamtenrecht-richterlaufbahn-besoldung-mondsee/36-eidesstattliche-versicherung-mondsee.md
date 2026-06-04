@@ -18,5 +18,5 @@ Ich, Dr. Ottilie Mondsee, wohnhaft in Falkenried, versichere an Eides statt:
 
 8. Die Besoldungssache belastet mich zusätzlich. Seit der Geburt meines zweiten Kindes und wegen der Anerkennung einzelner Dienstzeiten ist die Berechnung der Familienzuschläge und Erfahrungsstufen aus meiner Sicht nicht nachvollziehbar. Ich habe deshalb getrennt Widerspruch eingelegt. Die Verknüpfung mit der R2-Stelle ist praktisch erheblich, weil eine verspätete Beförderung auch spätere Versorgungsfragen beeinflussen kann.
 
-Falkenried, 11.06.2026  
+Falkenried, 11.06.2026
 Dr. Ottilie Mondsee

@@ -1,6 +1,6 @@
 # 12 — Representations, Warranties & Indemnities
 
-**Datum:** 5.–20. Januar 2026  
+**Datum:** 5.–20. Januar 2026
 **Bearbeiter:** RA Prof. Dr. Felix Mannfeldt, RA Dr. Saskia Altenkamp
 
 ---

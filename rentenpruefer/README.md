@@ -49,59 +49,36 @@ Er arbeitet zweigleisig: verständlich genug für Laien, aber präzise genug fü
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `aerzte-apotheker-architekten-versorgungswerk` | Ärzte, Apotheker, Architekten und weitere Kammerberufe: Versorgungswerk, Beschäftigungsbezug, Befreiung und Satzungsprüfung. |
 | `aktenstruktur-und-dokumentenintake` | Sammelt und ordnet Rentenunterlagen: Renteninformation, Rentenauskunft, Versicherungsverlauf, Arbeits- und Ausbildungsnachweise, Auslandsbelege, Übersetzungen und Versorgungswerksmaterial. |
 | `allgemein` | Einstieg, Kaltstart und Workflow-Routing im Rentenprüfer: klärt gesetzliche Rente, Versorgungswerk, Ausland, Nachversicherung, Fristen, Unterlagen und Wunsch-Output und schlägt passende Spezial-Skills vor. |
-| `altersrente-langjaehrig-besonders-langjaehrig` | Altersrente für langjährig und besonders langjährig Versicherte: 35- und 45-Jahre-Pfade, anrechenbare Zeiten und kritische Lücken. |
-| `anwaelte-versorgungswerk-spezial` | Anwälte und Versorgungswerk: Zulassung, Syndikus, Kanzleiwechsel, Befreiung, Nachversicherung und parallele DRV-Zeiten. |
-| `arbeitslosigkeit-buergergeld-und-rente` | Arbeitslosigkeit, Bürgergeld und Rente: Meldungen, Pflichtbeiträge, Anrechnungszeiten, Sperrzeiten und Rentenbeginn. |
-| `auslandszeiten-eu-ewr-schweiz` | Auslandszeiten in EU, EWR und Schweiz: Koordinierung, pro-rata-Berechnung, Antragstellung über den Wohnsitzstaat und Doppelzeiten. |
-| `auslandszeiten-ohne-abkommen-beweisstrategie` | Auslandszeiten ohne Sozialversicherungsabkommen: Beweisführung, ausländische Renten, deutsche Wartezeiten, Übersetzungen und realistische Grenzen. |
-| `auslandszeiten-sozialversicherungsabkommen` | Auslandszeiten in Abkommensstaaten: Rentenanspruch, getrennte Renten, Zusammenrechnung für Anspruchsvoraussetzungen und zuständige Verbindungsstellen. |
-| `auswanderung-rente-ins-ausland-zahlung` | Rente bei Umzug ins Ausland: Zahlung, Abkommensstaaten, vertragslose Staaten, Bankverbindung, Steuer, KV und Einschränkungen. |
-| `beitraege-luecken-und-nachzahlung` | Beitragslücken und Nachzahlung: freiwillige Beiträge, Ausbildungszeiten, besondere Nachzahlungsmöglichkeiten und Fristen. |
-| `berufswechsel-angestellte-selbstaendige-freiberufler` | Berufswechsel und Erwerbsformen: Angestellte, Selbständige, Freelancer, Kammerberufe, Pflichtversicherung und freiwillige Beiträge. |
-| `betriebsrente-und-private-vorsorge-schnittstelle` | Betriebsrente und private Vorsorge als Schnittstelle zur gesetzlichen Rente: Informationsgleichlauf, Versorgungslücken, Steuern und Krankenversicherung. |
-| `beweisnot-eidesstattliche-erklaerung-zeugen` | Beweisnot bei alten oder ausländischen Zeiten: Archivsuche, Arbeitgeberende, Zeugenerklärungen, Plausibilitätsketten und Grenzen. |
-| `dokumente-uebersetzung-apostille-legalisation` | Ausländische Dokumente: Übersetzung, Apostille, Legalisation, Originalnachweis, Namensabweichungen und Archivbeschaffung. |
-| `doppelversicherung-und-erstattung` | Doppelversicherung, Fehlbeiträge und Erstattung: DRV, Versorgungswerk, Arbeitgebermeldungen und Rückabwicklung. |
 | `erwerbsminderungsrente-medizinische-unterlagen` | Erwerbsminderungsrente: medizinische Unterlagen, Leistungsvermögen, Reha-vor-Rente, Gutachtenkritik und Widerspruchsstrategie. |
-| `freiwillige-beitraege-und-rentenoptimierung` | Freiwillige Beiträge und Rentenoptimierung: Wartezeiten, Mindest-/Höchstbeiträge, Ausgleich von Abschlägen und Liquiditätsentscheidung. |
-| `fremdrentengesetz-und-spaetaussiedler` | Fremdrentengesetz und Spätaussiedlerfälle: Anrechnungslogik, Nachweise, Kürzungen, Herkunftsgebiete und Streit mit dem Rententräger. |
-| `grundrente-und-zuschlaege` | Grundrente und Zuschläge: Grundrentenzeiten, Einkommensprüfung, Bescheidverständnis und Korrektur bei fehlenden Zeiten. |
-| `hinterbliebenenrente-witwen-waisen` | Hinterbliebenenrenten: Witwen-, Witwer- und Waisenrente, Einkommen, Sterbevierteljahr, Versorgungsausgleich und Auslandsbezug. |
-| `hinzuverdienst-und-teilrente` | Hinzuverdienst und Teilrente: Altersrente, Erwerbsminderung, selbständige Einkünfte, Beschäftigung nach Rentenbeginn und Meldepflichten. |
-| `internationaler-datenaustausch-formulare` | Internationaler Datenaustausch und Formulare: EU-/Abkommensformulare, Weiterleitung, Mehrstaatenbiografien und Behördenkommunikation. |
-| `kindererziehungszeiten-und-beruecksichtigungszeiten` | Kindererziehungszeiten und Berücksichtigungszeiten: Zuordnung, Antrag, Streit zwischen Elternteilen, Ausland und Nachweise. |
-| `kontenklaerung-drv` | Kontenklärung bei der Deutschen Rentenversicherung: Versicherungsverlauf lesen, Lücken erkennen, Nachweise anfordern und Antragsschreiben vorbereiten. |
-| `krankheit-reha-uebergangsgeld` | Krankheit, Reha und Übergangsgeld im Rentenkonto: Beitragszeiten, Reha-vor-Rente, Aussteuerung und EM-Renten-Schnittstelle. |
-| `lebensbescheinigung-und-auslandszahlung` | Lebensbescheinigung und Auslandszahlung: Nachweise, Botschaft/Konsulat, Fristen, Postprobleme und Zahlungsunterbrechung. |
-| `mandantenbrief-verstaendlich-rente` | Mandantenbrief in verständlicher Sprache: Rentenbescheid, Versicherungsverlauf, Ausland, Versorgungswerk oder Nachversicherung einfach erklären. |
-| `minijob-midijob-teilzeit-pflegezeiten` | Minijob, Midijob, Teilzeit und Pflegezeiten: Beitragswirkung, Wartezeitmonate, Aufstockung, Pflegeperson und typische Lücken. |
-| `nachversicherung-beamte-referendare-soldaten` | Nachversicherung nach Ausscheiden aus versicherungsfreier Beschäftigung: Beamte, Referendare, Soldaten, Kirchenbeamte, Aufschub und Zielsystem. |
-| `oeffentlicher-dienst-vbl-und-zusatzversorgung` | Zusatzversorgung öffentlicher Dienst, VBL und kommunale Kassen: Pflichtversicherung, Startgutschrift, Rentenbescheid und Schnittstelle zur DRV. |
-| `pflegezeiten-rentenpunkte` | Rentenpunkte durch Pflege: Pflegegrad, Pflegeumfang, Erwerbstätigkeit, Pflegekasse und Beitragsmeldung. |
-| `quellen-livecheck-rentenrecht` | Quellen-Livecheck im Rentenrecht: Normtext, DRV-Praxis, Abkommen, Versorgungswerkssatzung und Rechtsprechung absichern. |
+| `kompendium-01-rentenantrag-fristen-bis-auswanderung-rente-i` | rentenpruefer: Konsolidiertes Skill-Kompendium 01; bündelt 2 frühere Spezialskills (rentenantrag-fristen-und-startdatum, auswanderung-rente-ins-ausland-zahlung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-02-betriebsrente-und-pr-bis-krankheit-reha-ueber` | rentenpruefer: Konsolidiertes Skill-Kompendium 02; bündelt 2 frühere Spezialskills (betriebsrente-und-private-vorsorge-schnittstelle, krankheit-reha-uebergangsgeld) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-03-rentencheck-ein-jahr-bis-steuer-krankenversic` | rentenpruefer: Konsolidiertes Skill-Kompendium 03; bündelt 2 frühere Spezialskills (rentencheck-ein-jahr-vorher, steuer-krankenversicherung-pflegeversicherung-rente) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-04-aerzte-apotheker-arc-bis-altersrente-langjaeh` | rentenpruefer: Konsolidiertes Skill-Kompendium 04; bündelt 2 frühere Spezialskills (aerzte-apotheker-architekten-versorgungswerk, altersrente-langjaehrig-besonders-langjaehrig) und bewahrt deren Workflows, Normanker, Prüfprogramme und Au... |
+| `kompendium-05-anwaelte-versorgungs-bis-arbeitslosigkeit-bue` | rentenpruefer: Konsolidiertes Skill-Kompendium 05; bündelt 2 frühere Spezialskills (anwaelte-versorgungswerk-spezial, arbeitslosigkeit-buergergeld-und-rente) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-06-auslandszeiten-eu-ew-bis-auslandszeiten-ohne` | rentenpruefer: Konsolidiertes Skill-Kompendium 06; bündelt 2 frühere Spezialskills (auslandszeiten-eu-ewr-schweiz, auslandszeiten-ohne-abkommen-beweisstrategie) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-07-auslandszeiten-sozia-bis-beitraege-luecken-un` | rentenpruefer: Konsolidiertes Skill-Kompendium 07; bündelt 2 frühere Spezialskills (auslandszeiten-sozialversicherungsabkommen, beitraege-luecken-und-nachzahlung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-08-berufswechsel-angest-bis-beweisnot-eidesstatt` | rentenpruefer: Konsolidiertes Skill-Kompendium 08; bündelt 2 frühere Spezialskills (berufswechsel-angestellte-selbstaendige-freiberufler, beweisnot-eidesstattliche-erklaerung-zeugen) und bewahrt deren Workflows, Normanker, Prüfprogramme... |
+| `kompendium-09-dokumente-uebersetzu-bis-doppelversicherung-u` | rentenpruefer: Konsolidiertes Skill-Kompendium 09; bündelt 2 frühere Spezialskills (dokumente-uebersetzung-apostille-legalisation, doppelversicherung-und-erstattung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-10-freiwillige-beitraeg-bis-fremdrentengesetz-un` | rentenpruefer: Konsolidiertes Skill-Kompendium 10; bündelt 2 frühere Spezialskills (freiwillige-beitraege-und-rentenoptimierung, fremdrentengesetz-und-spaetaussiedler) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-11-grundrente-und-zusch-bis-hinterbliebenenrente` | rentenpruefer: Konsolidiertes Skill-Kompendium 11; bündelt 2 frühere Spezialskills (grundrente-und-zuschlaege, hinterbliebenenrente-witwen-waisen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-12-hinzuverdienst-und-t-bis-internationaler-date` | rentenpruefer: Konsolidiertes Skill-Kompendium 12; bündelt 2 frühere Spezialskills (hinzuverdienst-und-teilrente, internationaler-datenaustausch-formulare) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-13-kindererziehungszeit-bis-kontenklaerung-drv` | rentenpruefer: Konsolidiertes Skill-Kompendium 13; bündelt 2 frühere Spezialskills (kindererziehungszeiten-und-beruecksichtigungszeiten, kontenklaerung-drv) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-14-lebensbescheinigung-bis-mandantenbrief-verst` | rentenpruefer: Konsolidiertes Skill-Kompendium 14; bündelt 2 frühere Spezialskills (lebensbescheinigung-und-auslandszahlung, mandantenbrief-verstaendlich-rente) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-15-minijob-midijob-teil-bis-nachversicherung-bea` | rentenpruefer: Konsolidiertes Skill-Kompendium 15; bündelt 2 frühere Spezialskills (minijob-midijob-teilzeit-pflegezeiten, nachversicherung-beamte-referendare-soldaten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemus... |
+| `kompendium-16-oeffentlicher-dienst-bis-pflegezeiten-rentenp` | rentenpruefer: Konsolidiertes Skill-Kompendium 16; bündelt 2 frühere Spezialskills (oeffentlicher-dienst-vbl-und-zusatzversorgung, pflegezeiten-rentenpunkte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-17-quellen-livecheck-re-bis-regelaltersrente-und` | rentenpruefer: Konsolidiertes Skill-Kompendium 17; bündelt 2 frühere Spezialskills (quellen-livecheck-rentenrecht, regelaltersrente-und-vorzeitige-rente) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-18-rentenbescheid-pruef-bis-rentencheck-fuenf-ja` | rentenpruefer: Konsolidiertes Skill-Kompendium 18; bündelt 2 frühere Spezialskills (rentenbescheid-pruefen-widerspruch, rentencheck-fuenf-jahre-vorher) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-19-renteninformation-re-bis-rentenluecken-matrix` | rentenpruefer: Konsolidiertes Skill-Kompendium 19; bündelt 2 frühere Spezialskills (renteninformation-rentenauskunft-verstehen, rentenluecken-matrix) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-20-russland-sibirien-ze-bis-scheidung-versorgung` | rentenpruefer: Konsolidiertes Skill-Kompendium 20; bündelt 2 frühere Spezialskills (russland-sibirien-zeiten-und-frg, scheidung-versorgungsausgleich-folgen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-21-serbien-zeiten-und-n-bis-tod-im-ausland-hinte` | rentenpruefer: Konsolidiertes Skill-Kompendium 21; bündelt 2 frühere Spezialskills (serbien-zeiten-und-nachweise, tod-im-ausland-hinterbliebene) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-22-versorgungswerk-befr-bis-versorgungswerk-rent` | rentenpruefer: Konsolidiertes Skill-Kompendium 22; bündelt 2 frühere Spezialskills (versorgungswerk-befreiung-6-sgb-vi, versorgungswerk-rentenantrag) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-23-versorgungswerk-und-bis-widerspruch-sozialge` | rentenpruefer: Konsolidiertes Skill-Kompendium 23; bündelt 2 frühere Spezialskills (versorgungswerk-und-drv-parallel, widerspruch-sozialgericht-klage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
 | `red-team-rentenbescheid` | Red-Team-Prüfung eines Rentenbescheids oder Rentenmemos: Rechenfehler, fehlende Zeiten, falscher Träger, Auslandslogik und Beweisdefizite finden. |
-| `regelaltersrente-und-vorzeitige-rente` | Prüfung von Regelaltersrente und vorzeitiger Altersrente nach SGB VI: Altersgrenzen, Wartezeiten, Abschläge, Antragstiming und Übergang in den Ruhestand. |
-| `rentenantrag-fristen-und-startdatum` | Rentenantrag, Fristen und Startdatum: Antragstellung, Rückwirkung, fehlende Unterlagen, Online-/Papierweg und Zuständigkeitsfragen. |
-| `rentenbescheid-pruefen-widerspruch` | Rentenbescheid prüfen und Widerspruch vorbereiten: Berechnung, Zeiten, Abschläge, Kranken-/Pflegeversicherung, Rechtsbehelfsfrist und Begründung. |
-| `rentencheck-ein-jahr-vorher` | Rentencheck ein Jahr vorher: Antragstiming, letzte Korrekturen, Arbeitgeber, Krankenkasse, Steuer, Ausland und Auszahlung. |
-| `rentencheck-fuenf-jahre-vorher` | Rentencheck fünf Jahre vorher: strategische Vorprüfung für Lücken, Nachweise, Auslandszeiten, Versorgungswerk, BAV und Rentenbeginn. |
-| `renteninformation-rentenauskunft-verstehen` | Renteninformation und Rentenauskunft verständlich auswerten: Prognose, Versicherungsverlauf, Wartezeiten, Abschläge, Grundannahmen und Unsicherheiten. |
-| `rentenluecken-matrix` | Rentenlücken-Matrix für ganze Erwerbsbiografien: Monatsraster, Belegstatus, Trägerzuständigkeit, Priorität und Erledigung. |
-| `russland-sibirien-zeiten-und-frg` | Russische oder sibirische Zeiten: vertragsloser Drittstaat, FRG-/Spätaussiedler-Schnittstelle, Beweisnot, ausländische Renten und Grenzen deutscher Anerkennung. |
-| `scheidung-versorgungsausgleich-folgen` | Scheidung und Versorgungsausgleich: Rentenanrechte, interne/externe Teilung, Anpassung wegen Tod oder Unterhalt und Bescheidprüfung. |
-| `serbien-zeiten-und-nachweise` | Serbische Versicherungszeiten: Sozialversicherungsabkommen, getrennte Leistungsfeststellung, Verbindungsstellen, Nachweise und Übersetzungsfragen. |
-| `steuer-krankenversicherung-pflegeversicherung-rente` | Steuer, Kranken- und Pflegeversicherung der Rentner: KVdR, freiwillige Versicherung, PKV, Beitragszuschuss, Ausland und Nettorente. |
-| `tod-im-ausland-hinterbliebene` | Tod im Ausland und Hinterbliebene: Sterbeurkunde, Übersetzung, Witwen-/Waisenrente, Auslandszahlung und Trägerkommunikation. |
-| `versorgungswerk-befreiung-6-sgb-vi` | Befreiung von der gesetzlichen Rentenversicherungspflicht zugunsten eines berufsständischen Versorgungswerks nach § 6 SGB VI. |
-| `versorgungswerk-rentenantrag` | Rentenantrag beim Versorgungswerk: Satzung, Altersrente, Berufsunfähigkeitsrente, Hinterbliebenenversorgung, Beiträge und Nachweise. |
-| `versorgungswerk-und-drv-parallel` | Parallelität von Versorgungswerk und DRV: Befreiungslücken, frühere Beschäftigungen, Nachversicherung, Doppelversicherung und Koordination mehrerer Ansprüche. |
-| `widerspruch-sozialgericht-klage` | Widerspruch und Sozialgerichtsklage in Rentensachen: Frist, Form, Begründung, Akteneinsicht, Gutachten, Eilrechtsschutz und PKH. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

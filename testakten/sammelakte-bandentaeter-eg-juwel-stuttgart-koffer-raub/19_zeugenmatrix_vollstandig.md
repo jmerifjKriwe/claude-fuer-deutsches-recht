@@ -1,8 +1,8 @@
 # Aktenstück 19 — Zeugenmatrix: Vollständige Kreuztabelle mit Verweisnummern
 
-**Verfahren:** KLs 4 Js 18.422/26  
-**Bearbeitung:** Alle Verteidiger (gemeinsam)  
-**Stand:** 11.02.2026  
+**Verfahren:** KLs 4 Js 18.422/26
+**Bearbeitung:** Alle Verteidiger (gemeinsam)
+**Stand:** 11.02.2026
 **Tabelle:** siehe auch xlsx/zeugen_beweismittel_matrix.xlsx
 
 ---

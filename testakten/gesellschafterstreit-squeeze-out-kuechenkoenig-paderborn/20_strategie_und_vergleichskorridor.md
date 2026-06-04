@@ -1,8 +1,8 @@
 # 20 — Gesamtstrategie und Vergleichskorridor
 
-**Akte:** DWSP/2026/GR-4417  
-**Erstellt:** 08.05.2026  
-**Bearbeiter:** Prof. Dr. Wieland Drosselberg  
+**Akte:** DWSP/2026/GR-4417
+**Erstellt:** 08.05.2026
+**Bearbeiter:** Prof. Dr. Wieland Drosselberg
 
 ---
 
@@ -50,7 +50,7 @@ Nach sechs Wochen intensiver Arbeit hat die Kanzlei DWSP folgendes Lagebild:
 - GF-Haftungsklage gegen Heinrich-Eberhard wird nicht weiterverfolgt (Vergleichsverzicht)
 - HinSchG-Untersuchung intern abschließen ohne externe Behörden
 
-**Zeitrahmen:** September–Dezember 2026  
+**Zeitrahmen:** September–Dezember 2026
 **Kosten:** 40.000–70.000 EUR (deutlich günstiger als Vollprozess)
 
 ### Szenario C: Worst Case (Wittmann gewinnt)

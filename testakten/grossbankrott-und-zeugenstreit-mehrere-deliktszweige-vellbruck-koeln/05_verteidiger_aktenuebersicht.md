@@ -1,8 +1,8 @@
 # 05 — Verteidiger-interne Aktenübersicht (Aktenkartei)
 
-**Vellbruck Strafverteidigung Koeln**  
-Mandat: Dr. Carlsten Pellbach-Eisenacher  
-Az. StA: 122 Js 884/25 / Az. AG: 502 Gs 4881/26 / vorauss. Az. LG: 117 KLs 14/26  
+**Vellbruck Strafverteidigung Koeln**
+Mandat: Dr. Carlsten Pellbach-Eisenacher
+Az. StA: 122 Js 884/25 / Az. AG: 502 Gs 4881/26 / vorauss. Az. LG: 117 KLs 14/26
 Stand: 30.05.2026
 
 ---

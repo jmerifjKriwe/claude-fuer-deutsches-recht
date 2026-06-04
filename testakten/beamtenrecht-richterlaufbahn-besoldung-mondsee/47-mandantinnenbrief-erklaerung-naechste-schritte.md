@@ -28,5 +28,5 @@ Bitte keine direkten Gespräche mit dem Ministerium über den Inhalt des Verfahr
 
 Ein guter Ausgang wäre eine gerichtliche Sperre mit erneuter Auswahlentscheidung. Ein sehr guter Ausgang wäre, dass das Ministerium die Auswahl freiwillig neu aufsetzt. Ein schlechter, aber noch beherrschbarer Ausgang wäre eine Ablehnung des Eilantrags; dann müssten wir sehr schnell prüfen, ob Beschwerde eingelegt wird.
 
-Mit freundlichen Grüßen  
+Mit freundlichen Grüßen
 Dr. Marlies Stechlin

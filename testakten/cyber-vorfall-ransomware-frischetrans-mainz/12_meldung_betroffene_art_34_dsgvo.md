@@ -1,8 +1,8 @@
 # Benachrichtigung betroffener Personen gemäß Art. 34 DSGVO
 
-**Aktenstück:** 12  
-**Datum:** 11.05.2026  
-**Mandantin:** Frischetrans Mittelrhein GmbH  
+**Aktenstück:** 12
+**Datum:** 11.05.2026
+**Mandantin:** Frischetrans Mittelrhein GmbH
 **Bearbeiter:** RA Lukas Drosten / Markus Feilke (DSB)
 
 ---
@@ -15,16 +15,16 @@ Art. 34 Abs. 1 DSGVO verpflichtet den Verantwortlichen, die betroffene Person un
 
 ### 1.2 Risikoprüfung
 
-**Gruppe 1: Mitarbeiter (BEM-Gesundheitsdaten, 38 Personen)**  
-Risikobewertung: **HOCH**  
+**Gruppe 1: Mitarbeiter (BEM-Gesundheitsdaten, 38 Personen)**
+Risikobewertung: **HOCH**
 Begründung: Gesundheitsdaten aus BEM-Verfahren (Diagnosen, Therapieverläufe, ärztliche Gutachten) sind besonders sensibel. Im Falle der angekündigten Veröffentlichung durch AkiraNext drohen erhebliche Nachteile (Stigmatisierung, Diskriminierung, psychische Belastung). Die Benachrichtigungspflicht ist eindeutig gegeben.
 
-**Gruppe 2: Mitarbeiter (Personalstammdaten, 280 Personen)**  
-Risikobewertung: **HOCH**  
+**Gruppe 2: Mitarbeiter (Personalstammdaten, 280 Personen)**
+Risikobewertung: **HOCH**
 Begründung: Bankverbindungsdaten, Sozialversicherungsnummern und Lohndaten ermöglichen Identitätsdiebstahl und Finanzbetrug. Benachrichtigungspflicht gegeben.
 
-**Gruppe 3: Firmenkunden (B2B, 18 Unternehmen)**  
-Risikobewertung: **MITTEL (für juristische Personen)**  
+**Gruppe 3: Firmenkunden (B2B, 18 Unternehmen)**
+Risikobewertung: **MITTEL (für juristische Personen)**
 Begründung: Juristische Personen sind keine „betroffenen Personen" i.S.d. DSGVO. Soweit jedoch Kontaktpersonendaten (Ansprechpartner) betroffen sind, kann eine Benachrichtigung geboten sein. Aus Vorsichtsgründen werden die Kunden separat informiert (Aktenstück 16).
 
 **Ergebnis:** Benachrichtigung aller 280 Mitarbeiter nach Art. 34 DSGVO geboten. Priorität: die 38 BEM-Betroffenen erhalten gesonderte, individuellere Benachrichtigung.
@@ -45,8 +45,8 @@ Die Ausnahmen (insb. getroffene Schutzmaßnahmen, die Risiken unwahrscheinlich m
 
 ---
 
-Frischetrans Mittelrhein GmbH  
-Binger Straße 142  
+Frischetrans Mittelrhein GmbH
+Binger Straße 142
 55131 Mainz
 
 Mainz, den 11.05.2026
@@ -97,9 +97,9 @@ Wir haben umgehend folgende Maßnahmen eingeleitet:
 
 Bei Fragen und Sorgen stehen wir Ihnen zur Verfügung:
 
-Externer Datenschutzbeauftragter der Frischetrans Mittelrhein GmbH:  
-Markus Feilke, Datenschutzkanzlei Rhein-Main  
-E-Mail: bem-datenpanne@datenschutz-rhein-main.de  
+Externer Datenschutzbeauftragter der Frischetrans Mittelrhein GmbH:
+Markus Feilke, Datenschutzkanzlei Rhein-Main
+E-Mail: bem-datenpanne@datenschutz-rhein-main.de
 Telefon: +49 6131 9944-11 (täglich 9–17 Uhr, kostenlos)
 
 Sollten Sie sich durch den Datenschutzvorfall in Ihren Rechten verletzt sehen, haben Sie das Recht, sich beim Landesbeauftragten für den Datenschutz und die Informationsfreiheit Rheinland-Pfalz (LfDI RLP, www.datenschutz.rlp.de) zu beschweren.
@@ -108,8 +108,8 @@ Wir bedauern diesen Vorfall außerordentlich und entschuldigen uns für die Bela
 
 Mit freundlichen Grüßen
 
-Theresia Wallbruck  
-Geschäftsführerin  
+Theresia Wallbruck
+Geschäftsführerin
 Frischetrans Mittelrhein GmbH
 
 ---

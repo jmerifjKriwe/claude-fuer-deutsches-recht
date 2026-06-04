@@ -1,6 +1,6 @@
 # 13 Folge-Mietverhältnis und Ankündigung — BGB-Pruefung
 
-**Akte:** MR-2026-ZV-0188  
+**Akte:** MR-2026-ZV-0188
 **Datum:** 09.01.2026
 
 ---

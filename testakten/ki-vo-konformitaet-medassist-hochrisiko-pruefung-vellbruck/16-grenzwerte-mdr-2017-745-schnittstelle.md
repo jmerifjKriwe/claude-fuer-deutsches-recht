@@ -1,8 +1,8 @@
 # Aktenstück 16 — MDR (EU) 2017/745: Klasse IIb, Notified Body, Doppelkonformität
 
-**Aktenzeichen:** 2026-V-0427  
-**Erstellt:** 22.04.2026  
-**Bearbeitung:** RAin Dr. Henrietta Vellbruck-Steinheim  
+**Aktenzeichen:** 2026-V-0427
+**Erstellt:** 22.04.2026
+**Bearbeitung:** RAin Dr. Henrietta Vellbruck-Steinheim
 **Rechtsgrundlage:** MDR (EU) 2017/745; Art. 8 KI-VO (EU) 2024/1689
 
 ---
@@ -68,5 +68,5 @@ Die MDR-Konformität ist formal bestätigt, inhaltlich aber in Teilen fragwürdi
 
 ---
 
-*Heidelberg, 22.04.2026*  
+*Heidelberg, 22.04.2026*
 *RAin Dr. Henrietta Vellbruck-Steinheim — Az. 2026-V-0427*

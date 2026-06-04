@@ -1,8 +1,8 @@
 # Ortstermin: Konfliktmatrix Rosengartenstraße 17/19
 
-**Termin:** 24.10.2025, 15:30 bis 17:05 Uhr  
-**Teilnehmende:** Marianne Albers, Dr. Henning Albers, Stefan Kessler, Lara Kessler, RAin Johanna Welling, Vermesserin Henrike Krause-Reichel, Sachverständiger Dipl.-Ing. Hartmut Walter  
-**Wetter:** trocken, 13 Grad, gute Sicht  
+**Termin:** 24.10.2025, 15:30 bis 17:05 Uhr
+**Teilnehmende:** Marianne Albers, Dr. Henning Albers, Stefan Kessler, Lara Kessler, RAin Johanna Welling, Vermesserin Henrike Krause-Reichel, Sachverständiger Dipl.-Ing. Hartmut Walter
+**Wetter:** trocken, 13 Grad, gute Sicht
 **Ton:** angespannt, aber nicht abgebrochen
 
 ## Kurzverlauf

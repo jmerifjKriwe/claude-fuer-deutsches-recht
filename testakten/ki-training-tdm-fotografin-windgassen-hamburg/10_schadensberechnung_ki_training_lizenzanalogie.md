@@ -1,8 +1,8 @@
 # Schadensberechnung: KI-Training-Schaden nach Lizenzanalogie — § 97 Abs. 2 UrhG
 
-**AZ intern:** 26-UMR-0084 / Teilakte ImagineArt  
-**Datum:** 24.01.2026  
-**Bearbeiterin:** Dr. Kreidler-Bremer  
+**AZ intern:** 26-UMR-0084 / Teilakte ImagineArt
+**Datum:** 24.01.2026
+**Bearbeiterin:** Dr. Kreidler-Bremer
 **Hinweis:** Detaillierte Berechnungstabelle als XLSX-Anlage: `xlsx/schadensberechnung_ki_training_lizenzanalogie.xlsx`
 
 ---
@@ -73,5 +73,5 @@ Die Lizenzanalogie allein ist wirtschaftlich unattraktiv. Die Klage ist strategi
 
 ---
 
-*Detaillierte Berechnung: siehe `xlsx/schadensberechnung_ki_training_lizenzanalogie.xlsx`*  
+*Detaillierte Berechnung: siehe `xlsx/schadensberechnung_ki_training_lizenzanalogie.xlsx`*
 *Dr. AKB, 24.01.2026*

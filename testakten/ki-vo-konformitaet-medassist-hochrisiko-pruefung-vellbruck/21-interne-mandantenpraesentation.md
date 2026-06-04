@@ -1,10 +1,10 @@
 # Aktenstück 21 — Interne Mandantenpräsentation: KI-VO-Konformitätsbefunde MedAssist v4
 
-**Aktenzeichen:** 2026-V-0427  
-**Erstellt:** 12.05.2026  
-**Format:** Präsentationsnotizen für Vorstandssitzung MedAssist AI GmbH, 14.05.2026  
-**Adressaten:** CEO Dr. Theresia Vogelkamp, CTO Aravind Krishnamurthy, CMO Dr. Lutz Federkamp  
-**Präsentierende:** RAin Dr. Henrietta Vellbruck-Steinheim, RA Dr. Mark Roosendaal  
+**Aktenzeichen:** 2026-V-0427
+**Erstellt:** 12.05.2026
+**Format:** Präsentationsnotizen für Vorstandssitzung MedAssist AI GmbH, 14.05.2026
+**Adressaten:** CEO Dr. Theresia Vogelkamp, CTO Aravind Krishnamurthy, CMO Dr. Lutz Federkamp
+**Präsentierende:** RAin Dr. Henrietta Vellbruck-Steinheim, RA Dr. Mark Roosendaal
 **Vertraulich**
 
 ---
@@ -115,5 +115,5 @@
 
 ---
 
-*Heidelberg, 12.05.2026 — Vellbruck & Partner mbB — Az. 2026-V-0427*  
+*Heidelberg, 12.05.2026 — Vellbruck & Partner mbB — Az. 2026-V-0427*
 *Vertraulich — nur für die Empfänger bestimmt*

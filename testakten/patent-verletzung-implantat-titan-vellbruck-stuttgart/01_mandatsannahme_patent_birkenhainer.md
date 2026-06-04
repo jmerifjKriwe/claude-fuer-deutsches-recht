@@ -1,9 +1,9 @@
 # 01 — Mandatsannahme und Vollmacht: Vellbruck Medizintechnik GmbH ./. TitanOrtho Sp. z o.o. / Bochstaedt MedSupply OHG
 
-**Aktenzeichen intern:** VM-2026-GR-001  
-**Mandantin:** Vellbruck Medizintechnik GmbH, Leobener Straße 14, 70569 Stuttgart-Vaihingen  
-**Verfahrensbevollmächtigte:** RA Dr. Marie-Henriette Birkenhainer, Fachanwältin für gewerblichen Rechtsschutz, EPA-Zugelassene Vertreterin, Kanzlei Birkenhainer & Consulting, Theatinerstraße 36, 80333 München  
-**Datum der Mandatsannahme:** 18. Januar 2026  
+**Aktenzeichen intern:** VM-2026-GR-001
+**Mandantin:** Vellbruck Medizintechnik GmbH, Leobener Straße 14, 70569 Stuttgart-Vaihingen
+**Verfahrensbevollmächtigte:** RA Dr. Marie-Henriette Birkenhainer, Fachanwältin für gewerblichen Rechtsschutz, EPA-Zugelassene Vertreterin, Kanzlei Birkenhainer & Consulting, Theatinerstraße 36, 80333 München
+**Datum der Mandatsannahme:** 18. Januar 2026
 **Bearbeiter:** Dr. M.-H. Birkenhainer / RA Tobias Fehrenbach (Sachbearbeitung)
 
 ---
@@ -31,13 +31,13 @@ Gegenstand des Mandats ist:
 
 ### Mandantin
 
-**Vellbruck Medizintechnik GmbH**  
-Leobener Straße 14  
-70569 Stuttgart-Vaihingen  
-Geschäftsführer: Dr. Philipp Sonnleitner, Dr. Astrid Kempken  
-Handelsregister: HRB 28 741 AG Stuttgart  
-Mitarbeiteranzahl: ca. 320  
-Umsatz (2024): ca. 87 Mio. EUR  
+**Vellbruck Medizintechnik GmbH**
+Leobener Straße 14
+70569 Stuttgart-Vaihingen
+Geschäftsführer: Dr. Philipp Sonnleitner, Dr. Astrid Kempken
+Handelsregister: HRB 28 741 AG Stuttgart
+Mitarbeiteranzahl: ca. 320
+Umsatz (2024): ca. 87 Mio. EUR
 Schwerpunkt: Orthopädische Implantate, insbesondere Hüft- und Kniendoprothesen aus Titan; eigene Galvanik-/Sinteranlage für poröse Titanoberflächen
 
 Patentinhaber: Vellbruck Medizintechnik GmbH (EP 3 218 922 B1, eingetragen 22.03.2018, in Kraft; Verlängerungsgebühren aktuell, nächste Fälligkeit: 30.09.2026; Einspruchsfrist abgelaufen; Patent in elf EP-Staaten validiert, u.a. DE, FR, IT, ES, NL, PL, SE, AT, CH, BE, DK)
@@ -50,24 +50,24 @@ Designinhaberin: Vellbruck Medizintechnik GmbH (DE 88-2026, eingetragen DPMA, An
 
 ### Beklagte zu 1
 
-**TitanOrtho Sp. z o.o.**  
-ul. Robotnicza 44  
-53-608 Wroclaw, Polen  
-Geschäftsführer: Marcin Pawlowski  
-KRS-Nr.: 0000712483  
-Herstellerin und Verkäuferin des Produkts "TitanFlex Pro" (Hüftimplantat-Schaft)  
+**TitanOrtho Sp. z o.o.**
+ul. Robotnicza 44
+53-608 Wroclaw, Polen
+Geschäftsführer: Marcin Pawlowski
+KRS-Nr.: 0000712483
+Herstellerin und Verkäuferin des Produkts "TitanFlex Pro" (Hüftimplantat-Schaft)
 Vertrieb in Deutschland seit Q4 2024 über Importeur Bochstaedt MedSupply OHG
 
 ---
 
 ### Beklagte zu 2
 
-**Bochstaedt MedSupply OHG**  
-Goldschmiedstraße 17  
-73430 Aalen  
-Gesellschafter: Gerhard Bochstaedt, Rainer Bochstaedt  
-Handelsregister: HRA 3 817 AG Ulm  
-Importeur und Inverkehrbringer "TitanFlex Pro" in Deutschland und weiteren EU-Staaten  
+**Bochstaedt MedSupply OHG**
+Goldschmiedstraße 17
+73430 Aalen
+Gesellschafter: Gerhard Bochstaedt, Rainer Bochstaedt
+Handelsregister: HRA 3 817 AG Ulm
+Importeur und Inverkehrbringer "TitanFlex Pro" in Deutschland und weiteren EU-Staaten
 Früherer Mitarbeiter: Dipl.-Ing. Klaus Drostmann (zuvor Vellbruck, Wechsel März 2024; Verdacht der Mitnahme von Konstruktionsdaten)
 
 ---

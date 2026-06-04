@@ -158,109 +158,36 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `absolute-priority-rule` | Prueft absolute priority, new value, individual debtor issues, equity retention and settlement structures. |
-| `adequate-protection` | Prueft adequate protection for secured creditors: payments, replacement liens, reporting, insurance and collateral value. |
-| `administrative-expenses-503` | Prueft administrative expense claims, postpetition goods/services, substantial contribution, taxes and application process. |
-| `adversary-proceedings` | Prueft when adversary proceeding is required: dischargeability, lien validity, turnover, avoidance, injunctions and complaints. |
 | `allgemein` | Kaltstart fuer Title 11: Chapter-Wahl, debtor/creditor role, automatic stay, claims, assets, financing, plan route and US-counsel package. |
-| `asbestos-channeling` | Prueft asbestos-specific trust/channeling structure, voting, future claims representative and insurance assignment. |
-| `automatic-stay-362` | Prueft automatic stay scope, commencement, protected acts, exceptions, notice and violation consequences. |
-| `avoidance-litigation` | Organisiert estate avoidance litigation: target selection, demand letters, complaints, defenses, settlement and collection. |
-| `bankruptcy-appeals` | Prueft appeal route, final/interlocutory order, stay pending appeal, deadlines and district/BAP/circuit path. |
-| `board-duties-zone` | Prueft US board duties near insolvency, fiduciary risk, filing decision, lender pressure and restructuring alternatives. |
-| `cash-collateral-363` | Prueft cash collateral, lender consent, adequate protection, budget, reporting and interim/final orders. |
-| `chapter11-dip` | Prueft DIP powers, duties, reporting, fiduciary obligations, operations and supervision. |
-| `chapter12-family-farmer` | Prueft Chapter 12 eligibility, seasonal income, plan treatment, secured claims and agricultural/fishing operations. |
-| `chapter13-codebtor-stay` | Prueft co-debtor stay, consumer debts, relief motions and guarantor/co-signer strategy. |
-| `chapter13-discharge` | Prueft Chapter 13 discharge, hardship discharge, exceptions, plan completion and post-discharge issues. |
-| `chapter13-eligibility` | Prueft Chapter 13 debt limits, regular income, individual-only requirement and consumer/small-business owner issues. |
-| `chapter13-plan` | Prueft Chapter 13 plan, disposable income, best interests, secured claims, arrears, trustee payments and feasibility. |
-| `chapter15-comity-relief` | Prueft post-recognition relief, cooperation, entrustment, asset turnover, discovery and public-policy exception. |
-| `chapter15-recognition` | Prueft recognition of foreign proceedings, foreign main/nonmain, COMI, foreign representative and relief. |
-| `chapter7-asset-distribution` | Prueft asset liquidation, sale, abandoned property, claims waterfall, trustee commissions and closing. |
-| `chapter7-liquidation` | Fuehrt durch Chapter 7 liquidation: trustee, estate, assets, claims, exemptions, discharge and distribution. |
-| `chapter9-municipal-eligibility` | Prueft municipality eligibility, state authorization, insolvency, creditor negotiation and Tenth Amendment sensitivities. |
-| `chapter9-plan` | Prueft municipal plan, limited court power, special revenues, bondholders, pensions and essential services. |
-| `claim-objection-502` | Prueft allowance/disallowance, objections, estimation, contingent/unliquidated claims and settlement. |
-| `claims-proof-claim-501` | Prueft claim filing, bar date, secured/unsecured/priority status, documentation and amendments. |
-| `claims-trading-3001e` | Prueft assignment/transfer of claims, notice, evidence, objections, trading restrictions and plan voting strategy. |
-| `confirmation-1129` | Prueft Chapter 11 confirmation requirements: good faith, feasibility, best interests, priority, treatment and compliance. |
-| `contested-matters` | Prueft motion practice, objections, evidentiary hearings, discovery and orders in contested matters. |
-| `conversion-dismissal` | Prueft conversion/dismissal across chapters, cause, best interests, bad faith and tactical consequences. |
-| `cramdown-1129b` | Prueft fair and equitable, no unfair discrimination, secured creditor treatment and impaired dissenting classes. |
-| `credit-bidding-363k` | Prueft secured creditor credit bid rights, cause to limit, lien disputes, plan sale and loan-to-own strategy. |
-| `creditors-committee-1102` | Prueft official committee formation, membership, fiduciary role, professionals, information rights and strategy. |
-| `critical-vendors` | Prueft critical-vendor payments, necessity doctrine, § 503(b)(9), trade leverage and first-day order risk. |
-| `derivatives-repos-swaps` | Prueft derivatives close-out, collateral, ISDA, repos, swaps, ipso facto and safe-harbor consequences. |
-| `dip-financing-364` | Prueft debtor-in-possession financing, priming liens, roll-up, milestones, fees and lender control issues. |
-| `discharge-chapter7-727` | Prueft discharge entitlement, objections, concealment, false oath, records and denial-of-discharge risks. |
-| `disclosure-statement-1125` | Prueft adequacy of information, solicitation, plan summary, risk factors and voting package. |
-| `effective-date-closing` | Prueft effective date conditions, funding, releases, corporate actions, distributions and post-confirmation governance. |
-| `eligibility-109-credit` | Prueft Debtor Eligibility, credit counseling, chapter-specific limits, railroad/insurance exclusions and entity issues. |
-| `employee-wages-benefits-warn` | Prueft wage priority, benefits, WARN Act exposure, employee claims, retention/bonus plans and sale transfer issues. |
-| `environmental-claims` | Prueft environmental obligations, cleanup orders, police-power exception, claims vs injunctions and asset sale risks. |
-| `equitable-subordination-510` | Prueft contractual subordination, equitable subordination, insider misconduct and plan distribution effects. |
-| `estate-property-541` | Prueft estate property, causes of action, IP, proceeds, exclusions, trusts and foreign assets. |
-| `examiner-1104` | Prueft appointment of examiner, investigation scope, trustee alternative and litigation leverage. |
-| `exclusivity-1121` | Prueft debtor exclusivity, extension, termination, competing plans and negotiation leverage. |
-| `executory-contracts-365` | Prueft assumption, rejection, assignment, cure, adequate assurance and strategic contract treatment. |
-| `exemptions-522` | Prueft individual debtor exemptions, state opt-out, federal exemptions, homestead, tools, retirement and objections. |
-| `financial-contract-safe-harbors` | Prueft safe harbors for securities contracts, commodities, forward contracts, repos, swaps and netting. |
-| `first-day-motions` | Prueft first-day relief: cash management, wages, taxes, insurance, utilities, cash collateral, DIP, critical vendors. |
-| `foreign-creditor-german-client` | Fuehrt deutsche Gläubiger durch US-Bankruptcy: notice, claim, stay, contract, committee, plan vote and distributions. |
-| `fraudulent-lbo` | Prueft leveraged buyout fraudulent-transfer exposure, solvency, reasonably equivalent value and lender/recipient targets. |
-| `fraudulent-transfers-548` | Prueft actual and constructive fraudulent transfers, two-year lookback, value, insolvency and insider transactions. |
-| `free-clear-sale-363f` | Prueft sale free and clear of interests, liens attaching to proceeds, consent, bona fide dispute and statutory bases. |
-| `german-insolvency-comparison` | Erklaert US Bankruptcy fuer deutsche Juristen: stay, estate, DIP, trustee, plan, 363 sale, claims and discharge im Vergleich. |
-| `healthcare-bankruptcy` | Prueft health care business cases, patient care ombudsman, records, regulatory licenses and sale/closure issues. |
-| `insurance-dno` | Prueft estate interest in policies, D&O proceeds, coverage disputes, stay, settlements and mass tort insurance. |
-| `involuntary-petition-303` | Prueft creditor-filed involuntary bankruptcy, creditor numerosity, bona fide dispute, gap period and damages risk. |
-| `ip-license-365n` | Prueft licensee rights after rejection, election, royalties, exclusivity and access to embodiments. |
-| `landlord-tenant-retail` | Prueft retail cases: store closing, lease rejection/assumption, going-out-of-business sales and landlord claims. |
-| `mass-tort-bankruptcy` | Prueft mass tort Chapter 11 issues: claims estimation, channeling, third-party releases, insurance and trust structures. |
-| `means-test-707b` | Prueft consumer Chapter 7 means test, abuse presumption, median income and special circumstances. |
-| `mediation-settlement-9019` | Prueft compromise approval, estate benefit, notice, fairness factors and structured settlements. |
-| `meeting-creditors-341` | Bereitet § 341 meeting, debtor testimony, creditor questions, document issues and follow-up vor. |
-| `nondischargeability-523` | Prueft debts excepted from discharge: fraud, fiduciary defalcation, willful injury, taxes, domestic support, student loans. |
-| `pacer-ecf-confidentiality` | Prueft filing, public docket, sealing, redaction, confidential information and German data-room expectations. |
-| `pension-erisa-pbgc` | Prueft pension obligations, PBGC claims, retiree benefits, collective bargaining and plan treatment. |
-| `plan-classification` | Prueft classification of claims and interests, impairment, gerrymandering risk and voting strategy. |
-| `plan-modification-1127` | Prueft pre- and post-confirmation plan modification, changed circumstances, resolicitation and confirmation compliance. |
-| `plan-support-agreements` | Prueft RSA/PSA, lock-up, milestones, fiduciary out, disclosure, solicitation and creditor group dynamics. |
-| `postpetition-transfers-549` | Prueft unauthorized postpetition transfers, ordinary course, court authorization and recovery. |
-| `preference-ordinary-course` | Prueft ordinary-course, contemporaneous exchange, new value and subsequent new value defenses. |
-| `preferences-547` | Prueft preferential transfers, 90-day/insider period, antecedent debt, insolvency presumption and defenses. |
-| `priority-claims-507` | Prueft priority claims: domestic support, wages, taxes, deposits, grain/fisherman and plan/distribution impact. |
-| `professional-fees-330` | Prueft fee applications, reasonableness, lodestar, expense reimbursement, interim/final fee procedures. |
-| `professionals-retention-327` | Prueft retention of attorneys, financial advisors, investment bankers, disinterestedness and conflicts. |
-| `real-property-leases-365` | Prueft commercial leases, assumption/rejection deadlines, cure, shopping-center rules, landlord claims and surrender. |
+| `kompendium-01-absolute-priority-ru-bis-adversary-proceeding` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (absolute-priority-rule, adequate-protection, administrative-expenses-503, adversary-proceedings) und bewahrt deren Workflows, Normanker, Prüfprogram... |
+| `kompendium-02-asbestos-channeling-bis-bankruptcy-appeals` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (asbestos-channeling, automatic-stay-362, avoidance-litigation, bankruptcy-appeals) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabe... |
+| `kompendium-03-board-duties-zone-bis-chapter7-liquidation` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (board-duties-zone, cash-collateral-363, chapter7-asset-distribution, chapter7-liquidation) und bewahrt deren Workflows, Normanker, Prüfprogramme und... |
+| `kompendium-04-chapter9-municipal-e-bis-chapter12-family-far` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (chapter9-municipal-eligibility, chapter9-plan, chapter11-dip, chapter12-family-farmer) und bewahrt deren Workflows, Normanker, Prüfprogramme und Aus... |
+| `kompendium-05-chapter13-codebtor-s-bis-chapter13-plan` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (chapter13-codebtor-stay, chapter13-discharge, chapter13-eligibility, chapter13-plan) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausga... |
+| `kompendium-06-chapter15-comity-rel-bis-claims-proof-claim-5` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (chapter15-comity-relief, chapter15-recognition, claim-objection-502, claims-proof-claim-501) und bewahrt deren Workflows, Normanker, Prüfprogramme u... |
+| `kompendium-07-claims-trading-3001e-bis-conversion-dismissal` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (claims-trading-3001e, confirmation-1129, contested-matters, conversion-dismissal) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabem... |
+| `kompendium-08-cramdown-1129b-bis-critical-vendors` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (cramdown-1129b, credit-bidding-363k, creditors-committee-1102, critical-vendors) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemu... |
+| `kompendium-09-derivatives-repos-sw-bis-disclosure-statement` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (derivatives-repos-swaps, dip-financing-364, discharge-chapter7-727, disclosure-statement-1125) und bewahrt deren Workflows, Normanker, Prüfprogramme... |
+| `kompendium-10-effective-date-closi-bis-environmental-claims` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (effective-date-closing, eligibility-109-credit, employee-wages-benefits-warn, environmental-claims) und bewahrt deren Workflows, Normanker, Prüfprog... |
+| `kompendium-11-equitable-subordinat-bis-exclusivity-1121` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (equitable-subordination-510, estate-property-541, examiner-1104, exclusivity-1121) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabe... |
+| `kompendium-12-executory-contracts-bis-first-day-motions` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (executory-contracts-365, exemptions-522, financial-contract-safe-harbors, first-day-motions) und bewahrt deren Workflows, Normanker, Prüfprogramme u... |
+| `kompendium-13-foreign-creditor-ger-bis-free-clear-sale-363f` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (foreign-creditor-german-client, fraudulent-lbo, fraudulent-transfers-548, free-clear-sale-363f) und bewahrt deren Workflows, Normanker, Prüfprogramm... |
+| `kompendium-14-german-insolvency-co-bis-involuntary-petition` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (german-insolvency-comparison, healthcare-bankruptcy, insurance-dno, involuntary-petition-303) und bewahrt deren Workflows, Normanker, Prüfprogramme... |
+| `kompendium-15-ip-license-365n-bis-means-test-707b` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (ip-license-365n, landlord-tenant-retail, mass-tort-bankruptcy, means-test-707b) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemus... |
+| `kompendium-16-mediation-settlement-bis-pacer-ecf-confidenti` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (mediation-settlement-9019, meeting-creditors-341, nondischargeability-523, pacer-ecf-confidentiality) und bewahrt deren Workflows, Normanker, Prüfpr... |
+| `kompendium-17-pension-erisa-pbgc-bis-plan-support-agreeme` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (pension-erisa-pbgc, plan-classification, plan-modification-1127, plan-support-agreements) und bewahrt deren Workflows, Normanker, Prüfprogramme und... |
+| `kompendium-18-postpetition-transfe-bis-priority-claims-507` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (postpetition-transfers-549, preference-ordinary-course, preferences-547, priority-claims-507) und bewahrt deren Workflows, Normanker, Prüfprogramme... |
+| `kompendium-19-professional-fees-33-bis-rsa-lockup-fiduciary` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (professional-fees-330, professionals-retention-327, real-property-leases-365, rsa-lockup-fiduciary-out) und bewahrt deren Workflows, Normanker, Prüf... |
+| `kompendium-20-sale-bidding-procedu-bis-setoff-recoupment-55` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (sale-bidding-procedures, schedules-sofa-disclosure, secured-claim-valuation-506, setoff-recoupment-553) und bewahrt deren Workflows, Normanker, Prüf... |
+| `kompendium-21-single-asset-real-es-bis-stay-relief-362d` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (single-asset-real-estate, small-business-case, stalking-horse-credit-bid, stay-relief-362d) und bewahrt deren Workflows, Normanker, Prüfprogramme un... |
+| `kompendium-22-strong-arm-544-bis-subchapter-v-overvie` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (strong-arm-544, structured-finance-securitization, subchapter-v-confirmation, subchapter-v-overview) und bewahrt deren Workflows, Normanker, Prüfpro... |
+| `kompendium-23-tax-claims-bis-turnover-542` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (tax-claims, title11-map-chapters, trustee-us-trustee-roles, turnover-542) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-24-use-sale-lease-363-bis-venue-jurisdiction-c` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 24; bündelt 4 frühere Spezialskills (use-sale-lease-363, utilities-366, valuation-enterprise, venue-jurisdiction-core) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabem... |
+| `kompendium-25-voluntary-petition-i-bis-voting-tabulation-11` | us-bankruptcy-code: Konsolidiertes Skill-Kompendium 25; bündelt 2 frühere Spezialskills (voluntary-petition-intake, voting-tabulation-1126) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
 | `redteam-bankruptcy-qualitygate` | Prueft jede Bankruptcy-Ausgabe auf falsches Chapter, Stay-Verstoß, Fristenfehler, Local-Rule-Lücke and US-counsel need. |
-| `rsa-lockup-fiduciary-out` | Vertieft lock-up clauses, support obligations, board duties, superior proposal and plan-change flexibility. |
-| `sale-bidding-procedures` | Prueft auction process, bid protections, notice, stalking horse, qualified bids and sale timeline. |
-| `schedules-sofa-disclosure` | Prueft schedules, statement of financial affairs, assets, liabilities, executory contracts, transfers and accuracy risks. |
-| `secured-claim-valuation-506` | Prueft secured status, collateral value, bifurcation, adequate protection and cramdown valuation. |
-| `setoff-recoupment-553` | Prueft mutuality, prepetition debts, stay implications, recoupment distinction and financial counterparty issues. |
-| `single-asset-real-estate` | Prueft SARE designation, timelines, stay relief pressure, plan filing and interest payments. |
-| `small-business-case` | Prueft small business debtor rules outside Subchapter V, reporting duties, disclosure statement simplification and deadlines. |
-| `stalking-horse-credit-bid` | Prueft stalking-horse protections, break-up fees, expense reimbursement, credit bid rights and chilling objections. |
-| `stay-relief-362d` | Prueft Motions for Relief from Stay: cause, lack of adequate protection, no equity, not necessary to reorganization. |
-| `strong-arm-544` | Prueft trustee avoiding powers, hypothetical lien creditor, bona fide purchaser, state-law avoidance and perfection gaps. |
-| `structured-finance-securitization` | Prueft bankruptcy remoteness, true sale, SPE separateness, substantive consolidation and servicing issues. |
-| `subchapter-v-confirmation` | Prueft consensual and nonconsensual Subchapter V confirmation, disposable income, projected payments and owner retention. |
-| `subchapter-v-overview` | Prueft Subchapter V small business reorganization: eligibility, trustee, streamlined plan and cost/speed tradeoffs. |
-| `tax-claims` | Prueft tax claims, priority, secured tax liens, dischargeability, returns, plan treatment and refunds. |
-| `title11-map-chapters` | Kartiert Title 11 Chapters 1/3/5/7/9/11/12/13/15 mit Rollen, Zielen und Schnittstellen. |
-| `trustee-us-trustee-roles` | Erklaert Chapter trustee, U.S. Trustee, bankruptcy administrator, DIP, examiner and oversight functions. |
-| `turnover-542` | Prueft turnover of estate property, records, account funds, collateral and foreign holder issues. |
-| `use-sale-lease-363` | Prueft ordinary/nonordinary use, sale or lease of estate property, notice, business judgment and objections. |
-| `utilities-366` | Prueft utility service, adequate assurance, deposits, objections and first-day relief. |
-| `valuation-enterprise` | Prueft valuation evidence for plan, cramdown, adequate protection, 363 sale, solvency and fraudulent transfer. |
-| `venue-jurisdiction-core` | Prueft Bankruptcy Court jurisdiction, venue, core/non-core, related-to, removal and abstention questions. |
-| `voluntary-petition-intake` | Organisiert voluntary filing, petition package, schedules, statements, certificates, filing authority and first-day timeline. |
-| `voting-tabulation-1126` | Prueft acceptance, impaired classes, ballots, designation, numerosity/amount tests and solicitation problems. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

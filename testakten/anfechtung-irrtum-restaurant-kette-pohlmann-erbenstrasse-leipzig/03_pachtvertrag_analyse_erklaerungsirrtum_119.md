@@ -1,8 +1,8 @@
 # Gutachten: Anfechtung des Pachtvertrags — § 119 Abs. 1 BGB (Erklärungsirrtum)
 
-**Aktenzeichen:** LG Leipzig 4 O 188/26  
-**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg  
-**Datum:** 17. März 2026  
+**Aktenzeichen:** LG Leipzig 4 O 188/26
+**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg
+**Datum:** 17. März 2026
 **Sachverhalt:** Pachtvertrag Erbenstraße 88, Leipzig-Connewitz — monatl. Pachtzins laut Vertrag 9.800 EUR netto; Mandantin erklärt, sie habe 4.900 EUR gewollt.
 
 ---
@@ -89,8 +89,8 @@ P kann den Pachtvertrag vom 03.02.2026 mit beachtlichen Erfolgsaussichten gemä�
 
 ---
 
-**Quellen:**  
-§§ 119, 121, 122, 142, 143 BGB: https://dejure.org/gesetze/BGB/119.html  
-BGH NJW 1995, 190 (Irrtumslehre Motivirrtum/Erklärungsirrtum): https://openjur.de  
-BGH NJW 2008, 3352 (Unverzüglichkeit, Einschalten Rechtsanwalt): https://www.bundesgerichtshof.de  
+**Quellen:**
+§§ 119, 121, 122, 142, 143 BGB: https://dejure.org/gesetze/BGB/119.html
+BGH NJW 1995, 190 (Irrtumslehre Motivirrtum/Erklärungsirrtum): https://openjur.de
+BGH NJW 2008, 3352 (Unverzüglichkeit, Einschalten Rechtsanwalt): https://www.bundesgerichtshof.de
 BGH NJW 2010, 3787 (Anfechtungserklärung Bestimmtheit): https://www.bundesgerichtshof.de

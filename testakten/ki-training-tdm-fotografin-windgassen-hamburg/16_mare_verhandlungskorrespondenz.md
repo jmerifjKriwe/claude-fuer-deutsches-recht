@@ -1,6 +1,6 @@
 # Korrespondenz Mare GmbH — Lizenzverhandlung Bildband
 
-**AZ intern:** 26-UMR-0084 / Teilakte Mare  
+**AZ intern:** 26-UMR-0084 / Teilakte Mare
 **Stand:** 25.01.2026
 
 ---
@@ -9,8 +9,8 @@
 
 *(Original als EML-Anlage: `eml/mare_bildband_angebot_2026-01-12.eml`)*
 
-**Von:** Jan Linus Schreiber (Verlagsleitung), jan.schreiber@mare.de  
-**An:** mira@windgassen-photo.de  
+**Von:** Jan Linus Schreiber (Verlagsleitung), jan.schreiber@mare.de
+**An:** mira@windgassen-photo.de
 **Datum:** 12.01.2026, 09:47 Uhr
 
 Schreiber teilt mit, dass mare für den im Herbst 2026 erscheinenden Bildband „Küstenmelancholie — Norddeutschland in Bildern" (geplante Auflage: 4.000 Exemplare, Ladenpreis 68 EUR, Vertrieb über Buchhandel D/A/CH und mare-Webshop) die vollständige Bodden-Reportage (16 Seiten, 14 Fotografien) als eigenständiges Kapitel drucken möchte. Das Angebot:
@@ -35,9 +35,9 @@ Schreiber verweist auf den Vertrag vom 12.03.2019 und den „Buyout Print Intern
 
 ---
 
-**Kanzlei Kreidler-Bremer Medienrecht, Hamburg**  
-**An:** Mare GmbH, z.H. Herrn Jan Linus Schreiber, Gänsemarkt 21, 20354 Hamburg  
-**Datum:** [28.01.2026]  
+**Kanzlei Kreidler-Bremer Medienrecht, Hamburg**
+**An:** Mare GmbH, z.H. Herrn Jan Linus Schreiber, Gänsemarkt 21, 20354 Hamburg
+**Datum:** [28.01.2026]
 **Betreff:** Bildband „Küstenmelancholie" / Lizenzverhandlung Windgassen-Reportagen
 
 ---

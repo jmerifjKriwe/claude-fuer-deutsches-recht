@@ -1,7 +1,7 @@
 # Aktenstück 12 — Regressabwehr gegenüber St.-Antonius-Heim GmbH (D&O)
 
-**Verfahren:** LG Köln 26 O 144/26  
-**Gegner:** St.-Antonius-Heim GmbH (Muttergesellschaft, Klägerin im Regressprozess)  
+**Verfahren:** LG Köln 26 O 144/26
+**Gegner:** St.-Antonius-Heim GmbH (Muttergesellschaft, Klägerin im Regressprozess)
 **Beklagte:** Marion Vogelweide (ehem. Geschäftsführerin Vogelweide+Co Demenz-WG GmbH)
 
 ---

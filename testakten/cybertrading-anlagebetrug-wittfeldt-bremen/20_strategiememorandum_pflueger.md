@@ -1,8 +1,8 @@
 # Strategiememorandum – Dr. Severin Pflüger
 
-**Aktenzeichen:** PS-BKR-2026-0412  
-**Verfasser:** Dr. Severin Pflüger, Fachanwalt für Bank- und Kapitalmarktrecht  
-**Datum:** 30.04.2026 (intern, vertraulich)  
+**Aktenzeichen:** PS-BKR-2026-0412
+**Verfasser:** Dr. Severin Pflüger, Fachanwalt für Bank- und Kapitalmarktrecht
+**Datum:** 30.04.2026 (intern, vertraulich)
 
 ---
 

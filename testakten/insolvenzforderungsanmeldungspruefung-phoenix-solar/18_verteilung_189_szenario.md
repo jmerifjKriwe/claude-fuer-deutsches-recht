@@ -1,8 +1,8 @@
 # Verteilungsszenario nach § 189 InsO – Abschlagsverteilung September 2026
 
-**Aktenzeichen:** 35 IN 417/26  
-**Insolvenzverwalter:** RA Dr. Konrad Muster  
-**Stand:** 15. August 2026  
+**Aktenzeichen:** 35 IN 417/26
+**Insolvenzverwalter:** RA Dr. Konrad Muster
+**Stand:** 15. August 2026
 **Bearbeiter:** Doris Felgner / Dr. Konrad Muster
 
 ---

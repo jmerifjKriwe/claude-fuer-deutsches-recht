@@ -741,7 +741,7 @@ Das BVerfG unterscheidet zwischen Grundsätzen, die der Gesetzgeber lediglich zu
 
 ### 8.2 Das Alimentationsprinzip
 
-**Verfassungsgrundlage**: Art. 33 Abs. 5 GG  
+**Verfassungsgrundlage**: Art. 33 Abs. 5 GG
 **Leitentscheidung**: [BVerfGE 8, 1 (BVerfG, 11.06.1958 — 1 BvR 1/52)](https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=11.06.1958&Aktenzeichen=1+BvR+1%2F52)
 
 Das Alimentationsprinzip verpflichtet den Dienstherrn, dem Beamten und seiner Familie lebenslang einen **angemessenen Lebensunterhalt** zu gewähren. Die Höhe richtet sich nach:
@@ -759,7 +759,7 @@ Das Alimentationsprinzip ist sowohl Bindung des Gesetzgebers als auch **grundrec
 
 ### 8.3 Das Lebenszeitprinzip
 
-**Verfassungsgrundlage**: Art. 33 Abs. 5 GG  
+**Verfassungsgrundlage**: Art. 33 Abs. 5 GG
 **Leitentscheidung**: [BVerfG, 14.01.2020 — 2 BvR 2055/16](https://www.bundesverfassungsgericht.de/SharedDocs/Downloads/DE/2020/01/rs20200114_2bvr205516.pdf?__blob=publicationFile&v=2); BVerfGE 3, 58; 44, 249
 
 Das Lebenszeitprinzip ist der hergebrachte Grundsatz, wonach die Berufung in das Beamtenverhältnis auf Lebenszeit die Regel ist und den Normalfall darstellt. Beamtenverhältnisse auf Probe, auf Zeit und auf Widerruf sind Ausnahmen. Das Lebenszeitprinzip:
@@ -792,7 +792,7 @@ Als Kompensation der Treuepflicht steht dem Dienstherrn die Fürsorgepflicht geg
 
 ### 8.6 Das Streikverbot
 
-**Verfassungsgrundlage**: Art. 33 Abs. 5 GG (spezialgesetzlicher Vorbehalt gegenüber Art. 9 Abs. 3 GG)  
+**Verfassungsgrundlage**: Art. 33 Abs. 5 GG (spezialgesetzlicher Vorbehalt gegenüber Art. 9 Abs. 3 GG)
 **Leitentscheidung**: [BVerfG, 12.06.2018 — 2 BvR 1738/12](https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2018/bvg18-046.html); [BVerfGE 8, 1](https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=11.06.1958&Aktenzeichen=1+BvR+1%2F52)
 
 Das Streikverbot ist ein **eigenständiger hergebrachter Grundsatz** des Berufsbeamtentums. Es gilt ausnahmslos und für alle Beamten, unabhängig von der Art ihrer Tätigkeit. Es ist unvereinbar mit:

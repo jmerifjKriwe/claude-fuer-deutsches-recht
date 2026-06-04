@@ -1,7 +1,7 @@
 # E-Mail-Korrespondenz Marx — Staatsanwaltschaft (Übersicht)
 
-**Marx Strafverteidigung Frankfurt**  
-Interne Ablage — Auszüge aus eml/-Ordner  
+**Marx Strafverteidigung Frankfurt**
+Interne Ablage — Auszüge aus eml/-Ordner
 Az.: 5/28 KLs 122/25 / 5400 Js 14782/24
 
 ---
@@ -21,9 +21,9 @@ Az.: 5/28 KLs 122/25 / 5400 Js 14782/24
 
 ## Zusammenfassung E-Mail 1: Marx an StA (25.03.2025)
 
-**Betreff:** Akteneinsichtsantrag gemäß § 147 StPO — Az. 5400 Js 14782/24  
-**Von:** Dr. Friederike Marx (marx@marx-strafverteidigung.de)  
-**An:** OStA Dr. Henning Wallisch (wallisch@sta-frankfurt.de)  
+**Betreff:** Akteneinsichtsantrag gemäß § 147 StPO — Az. 5400 Js 14782/24
+**Von:** Dr. Friederike Marx (marx@marx-strafverteidigung.de)
+**An:** OStA Dr. Henning Wallisch (wallisch@sta-frankfurt.de)
 **Datum:** 25.03.2025, 14:22 Uhr
 
 Kurze Begleit-E-Mail zum Antrag auf Akteneinsicht (vgl. Aktenstück 05). Dr. Marx bestätigt die Mandatsannahme, bittet um Empfangsbestätigung und weist auf die besondere Eilbedürftigkeit im Hinblick auf die laufende Untersuchungshaft hin.
@@ -32,9 +32,9 @@ Kurze Begleit-E-Mail zum Antrag auf Akteneinsicht (vgl. Aktenstück 05). Dr. Mar
 
 ## Zusammenfassung E-Mail 2: StA an Marx (01.04.2025)
 
-**Betreff:** AW: Akteneinsichtsantrag gemäß § 147 StPO — Az. 5400 Js 14782/24  
-**Von:** Dr. Henning Wallisch (wallisch@sta-frankfurt.de)  
-**An:** Dr. Friederike Marx (marx@marx-strafverteidigung.de)  
+**Betreff:** AW: Akteneinsichtsantrag gemäß § 147 StPO — Az. 5400 Js 14782/24
+**Von:** Dr. Henning Wallisch (wallisch@sta-frankfurt.de)
+**An:** Dr. Friederike Marx (marx@marx-strafverteidigung.de)
 **Datum:** 01.04.2025, 10:05 Uhr
 
 Wallisch gewährt vollständige Akteneinsicht in 14 digitale Bände (PDF). Ankündigung der Übermittlung per gesichertem Download-Link der Staatsanwaltschaft. Hinweis, dass die Sichergestellten Datenträger (vgl. Durchsuchung 11.03.2025) der richterlichen Siegelung unterliegen und nicht Gegenstand der Akteneinsicht sind, solange die richterliche Entscheidung aussteht.
@@ -43,9 +43,9 @@ Wallisch gewährt vollständige Akteneinsicht in 14 digitale Bände (PDF). Ankü
 
 ## Zusammenfassung E-Mail 3: Marx an Kanzleirezeption (08.05.2025)
 
-**Betreff:** Wichtig — Mandantensache Bankert — Terminplanung  
-**Von:** Dr. Friederike Marx (marx@marx-strafverteidigung.de)  
-**An:** Kanzlei-Rezeption (empfang@marx-strafverteidigung.de)  
+**Betreff:** Wichtig — Mandantensache Bankert — Terminplanung
+**Von:** Dr. Friederike Marx (marx@marx-strafverteidigung.de)
+**An:** Kanzlei-Rezeption (empfang@marx-strafverteidigung.de)
 **Datum:** 08.05.2025, 16:44 Uhr
 
 Interne E-Mail an die Kanzleirezeption: Dr. Marx bittet, alle eingehenden Korrespondenz zur Sache Bankert sofort weiterzuleiten und alle telefonischen Anfragen (insbesondere von Journalisten) auf die Pressemitteilung der Kanzlei zu verweisen (keine Auskünfte zum laufenden Verfahren).
@@ -54,9 +54,9 @@ Interne E-Mail an die Kanzleirezeption: Dr. Marx bittet, alle eingehenden Korres
 
 ## Zusammenfassung E-Mail 4: StA an Marx — Haftbeschwerde (12.05.2025)
 
-**Betreff:** StA Frankfurt — Az. 5400 Js 14782/24 — Stellungnahme Haftbeschwerde  
-**Von:** Dr. Henning Wallisch (wallisch@sta-frankfurt.de)  
-**An:** Dr. Friederike Marx (marx@marx-strafverteidigung.de)  
+**Betreff:** StA Frankfurt — Az. 5400 Js 14782/24 — Stellungnahme Haftbeschwerde
+**Von:** Dr. Henning Wallisch (wallisch@sta-frankfurt.de)
+**An:** Dr. Friederike Marx (marx@marx-strafverteidigung.de)
 **Datum:** 12.05.2025, 09:31 Uhr
 
 Wallisch teilt mit, dass die Staatsanwaltschaft der Haftbeschwerde entgegentritt und die Aufrechterhaltung des Haftbefehls beantragt. Begründung: Die angeführten mildernden Umstände (wirtschaftliche Situation GmbH, Familienbindungen Frankfurt) seien im Rahmen der Verhältnismäßigkeit bereits bei Haftbefehlserlass berücksichtigt worden. Die Gefahr der Vermögensverschiebung ins Ausland bestehe fort. Wallisch weist auch darauf hin, dass die Liechtenstein-Rechtshilfe bislang keine Einfrierungsbestätigung erbracht hat.

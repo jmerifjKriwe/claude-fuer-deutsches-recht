@@ -1,10 +1,10 @@
 # Insiderliste — Projekt Silberfalke (Nordstern Beteiligungs SE)
 
-**Verfahrensname:** Projekt Silberfalke  
-**Insiderinformation:** Veräußerung Solaris Industries AG an Eagle Capital Partners  
-**Angelegt:** 15.05.2026  
-**Letzte Aktualisierung:** 20.05.2026  
-**Verantwortlich:** Nordstern Compliance / Dr. Kessler (externe Beratung)  
+**Verfahrensname:** Projekt Silberfalke
+**Insiderinformation:** Veräußerung Solaris Industries AG an Eagle Capital Partners
+**Angelegt:** 15.05.2026
+**Letzte Aktualisierung:** 20.05.2026
+**Verantwortlich:** Nordstern Compliance / Dr. Kessler (externe Beratung)
 **Format:** Art. 18 MAR i.V.m. Anhang I DVO 2016/347
 
 ---

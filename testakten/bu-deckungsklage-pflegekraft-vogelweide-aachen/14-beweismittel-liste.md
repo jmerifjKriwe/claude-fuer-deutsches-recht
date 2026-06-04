@@ -1,6 +1,6 @@
 # Aktenstück 14 — Beweismittelliste und Anlagestruktur
 
-**Verfahren:** LG Aachen 5 O 102/26 (BU-Klage) und LG Köln 26 O 144/26 (D&O)  
+**Verfahren:** LG Aachen 5 O 102/26 (BU-Klage) und LG Köln 26 O 144/26 (D&O)
 **Stand:** 30.05.2026
 
 ---

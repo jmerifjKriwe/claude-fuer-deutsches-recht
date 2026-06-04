@@ -1,9 +1,9 @@
 # Bußgeldbescheid — Geschwindigkeitsüberschreitung Baustellenzone A45
 
-**Behörde:** Kreispolizeibehörde Märkischer Kreis — Zentrale Bußgeldstelle  
-**Bescheiddatum:** 28.01.2026  
-**Aktenzeichen:** 40 OWi-83 Js 7411/26 (AG Lüdenscheid)  
-**Betroffener:** Holger Tannenbruck, Herscheider Str. 44, 58507 Lüdenscheid  
+**Behörde:** Kreispolizeibehörde Märkischer Kreis — Zentrale Bußgeldstelle
+**Bescheiddatum:** 28.01.2026
+**Aktenzeichen:** 40 OWi-83 Js 7411/26 (AG Lüdenscheid)
+**Betroffener:** Holger Tannenbruck, Herscheider Str. 44, 58507 Lüdenscheid
 
 ---
 
@@ -11,9 +11,9 @@
 
 Die Bußgeldbehörde wirft Ihnen folgende Ordnungswidrigkeit vor:
 
-**Tatzeit:** 12.01.2026, ca. 01:29 Uhr  
-**Tatort:** BAB A45, Fahrtrichtung Hagen, Streckenkilometer 86,2 (Baustellenzone, Zeichen 274 StVO: Zulässige Höchstgeschwindigkeit 80 km/h)  
-**Fahrzeug:** VW Passat Variant, MK-TK 2214  
+**Tatzeit:** 12.01.2026, ca. 01:29 Uhr
+**Tatort:** BAB A45, Fahrtrichtung Hagen, Streckenkilometer 86,2 (Baustellenzone, Zeichen 274 StVO: Zulässige Höchstgeschwindigkeit 80 km/h)
+**Fahrzeug:** VW Passat Variant, MK-TK 2214
 
 **Vorwurf:** Überschreitung der zulässigen Höchstgeschwindigkeit außerhalb geschlossener Ortschaften in einer Baustellenzone um **22 km/h** (nach Toleranzabzug 3 km/h: gemessene 102 km/h, abzüglich 3 km/h = 99 km/h, zulässig 80 km/h → Überschreitung 19 km/h nach Abzug; Hinweis: die Behörde rechnet Messwert 102 km/h − 3 km/h Toleranz = 99 km/h, Überschreitung mithin 19 km/h).
 

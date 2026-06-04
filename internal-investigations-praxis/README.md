@@ -39,64 +39,38 @@ Keine Rechtsberatung. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und fr
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 29 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `allgemein` | Einstieg fuer Internal Investigations: Anlass, Auftrag, Scope, Sofortmassnahmen, Interviews, Datenschutz, Privilege-Risiko und Bericht. |
-| `inv-001-auftrag-scope` | Formuliert Untersuchungsauftrag, Scope, Ausschlüsse, Governance und Eskalation so eng wie möglich und so belastbar wie nötig. |
-| `inv-002-honeypot-risiko` | Bewertet das Risiko, dass die Untersuchung selbst zum Honeypot für Behörden, Gegner, US-Discovery oder Presselecks wird. |
-| `inv-003-legal-hold` | Implementiert Legal Hold – Sicherung, Sperrung und Dokumentation aller potenziell relevanten Beweismittel ab Verdachtsmoment. |
-| `inv-004-mitarbeiterinterview` | Leitet Mitarbeiterinterviews in Internal Investigations rechtskonform durch – Belehrung, Protokoll, Verwertbarkeit, Schweigerecht. |
-| `inv-005-arbeitsrecht-mitwirkung` | Klärt arbeitsrechtliche Mitwirkungspflichten, Auskunftspflichten und Grenzen bei Mitarbeiterbefragungen in Internal Investigations. |
-| `inv-006-betriebsrat` | Klärt Mitbestimmungsrechte des Betriebsrats bei Internal Investigations – Überwachung, Interviews, Datenzugriffe, Sanktionen. |
-| `inv-007-datenschutz` | Prüft DSGVO/BDSG bei E-Mail-Auswertung, Chatlogs, Forensik, Zugriffen, Drittstaatentransfer und Betroffenenrechten in Internal Investigations. |
-| `inv-008-geschaeftsgeheimnisse` | Schützt Untersuchungsergebnisse und Unternehmensinterna als Geschäftsgeheimnisse – GeschGehG, § 17 UWG a.F., strafrechtlicher Schutz. |
-| `inv-009-stpo-beschlagnahme` | Analysiert Beschlagnahmerisiken nach StPO, Schutzstrategien für Anwaltsunterlagen und Verhalten bei Durchsuchung. |
-| `inv-010-us-discovery` | Steuert das US-Discovery-Risiko bei Internal Investigations – FRCP, Attorney-Client Privilege, Work Product, Litigation Hold. |
-| `inv-011-reporting` | Strukturiert den Abschlussbericht einer Internal Investigation – Aufbau, Privilegierung, Adressaten, Versionen und Verwertbarkeit. |
-| `inv-012-behoerdenstrategie` | Entwickelt die Behördenstrategie für Self-Reporting an BaFin, StA, DOJ/SEC – Zeitpunkt, Inhalt, Kooperationsanreize und Risikoabwägung. |
-| `inv-013-whistleblower` | Bewertet Whistleblower-Meldungen rechtssicher – HinSchG 2023, EU-Richtlinie 2019/1937, Schutzumfang, Meldestellen und Reaktionspflichten. |
 | `inv-014-redteam` | Stellt Gegenangriffsfragen an jede Untersuchungshypothese, deckt Beweislücken auf und prüft die Verwertbarkeit des Ermittlungsergebnisses. |
-| `inv-015-forensic-imaging` | Leitet forensische Sicherung von IT-Systemen an – Imaging-Standards, Chain of Custody, Hash-Werte, Zulässigkeit und DSGVO-Konformität. |
-| `inv-016-e-mail-review` | Strukturiert den E-Mail-Review in Internal Investigations – Keyword-Suche, TAR, Privilege-Log, DSGVO und Verwertbarkeit. |
-| `inv-017-chat-review` | Sichert und wertet Chat-Kommunikation (Teams, Slack, WhatsApp, Signal) in Internal Investigations aus – Retention, Forensik, DSGVO. |
-| `inv-018-mobile-devices` | Sichert und wertet Mobile Devices (Smartphones, Tablets) forensisch aus – MDM, Passwortzugriff, BYOD-Grenzen, DSGVO. |
-| `inv-019-private-devices-byod` | Klärt die Grenzen des Arbeitgeberzugriffs auf private Geräte (BYOD) in Internal Investigations – Einwilligung, Verhältnismäßigkeit, § 202a StGB. |
-| `inv-020-manager-interview` | Leitet Interviews mit Führungskräften und Organmitgliedern – Belehrung, Privilegkonflikte, Aussagestrategie und Dokumentation. |
-| `inv-021-dawn-raid-playbook` | Playbook für den Umgang mit Durchsuchungen (Dawn Raids) durch Staatsanwaltschaft, Kartellbehörden oder Regulatoren – Verhalten, Protokoll, Eskalation. |
-| `inv-022-data-room-for-counsel` | Richtet einen sicheren virtuellen Data Room für externe Counsel, Behörden und US-Discovery ein – Zugang, Privilegierung, Protokollierung. |
-| `inv-023-board-special-committee` | Richtet ein Sonderuntersuchungsausschuss des Vorstands oder Aufsichtsrats ein – Mandat, Besetzung, Unabhängigkeit und Berichtspflichten. |
-| `inv-024-audit-committee` | Definiert Rolle und Pflichten des Audit Committee bei Internal Investigations – § 107 AktG, Berichtspflichten, Unabhängigkeit. |
-| `inv-025-hr-misconduct` | Behandelt arbeitsrechtliche Maßnahmen bei Fehlverhalten (Misconduct) – Abmahnung, Kündigung, Verdachtskündigung, Tatkündigung. |
-| `inv-026-sexual-harassment` | Leitet Untersuchungen bei sexueller Belästigung am Arbeitsplatz – AGG, Schutzpflichten des Arbeitgebers, Beweiserhebung, arbeitsrechtliche Konsequenzen. |
-| `inv-027-bribery-red-flags` | Identifiziert Bestechungs-Red-Flags in Transaktionen, Zahlungen, Vergabeverfahren und Drittparteienbeziehungen – FCPA, UK Bribery Act, § 299 StGB. |
-| `inv-028-expense-fraud` | Untersucht Spesenabrechungs- und Reisekostenbetrug – forensische Buchprüfung, Beweissicherung, arbeitsrechtliche und strafrechtliche Konsequenzen. |
-| `inv-029-export-control-breach` | Untersucht Verstöße gegen Exportkontrollrecht – AWG, AWV, EG-Dual-Use-VO, BAFA-Meldepflichten, US-Re-Export-Kontrolle. |
-| `inv-030-sanctions-hit` | Reagiert auf einen Sanktionstreffer – EU-Sanktionsverordnungen, OFAC, Einfrierung, Meldepflichten, Strafrisiken und Behördenstrategie. |
-| `inv-031-cartel-dawn-raid` | Behandelt Kartellrechtsdurchsuchungen durch Bundeskartellamt oder EU-Kommission – Mitwirkungspflichten, Leniency, Privilege, Kronzeugenantrag. |
-| `inv-032-accounting-irregularity` | Untersucht Bilanzierungsunregelmäßigkeiten und Bilanzfälschung – forensische Buchprüfung, § 331 HGB, Abschlussprüferhaftung, SEC-Meldungen. |
-| `inv-033-cyber-incident` | Reagiert auf Cyber-Incidents (Ransomware, Datenleck, APT) – DSGVO-Meldepflichten, forensische Sicherung, Behördenstrategie, Strafverfolgung. |
-| `inv-034-trade-secret-leak` | Untersucht Geheimnisverrat und Trade-Secret-Leaks – GeschGehG, § 17 UWG a.F., Täteridentifizierung, einstweilige Verfügung, Strafanzeige. |
-| `inv-035-conflict-of-interest` | Untersucht Interessenkonflikte von Mitarbeitern und Organmitgliedern – Offenlegungspflichten, § 93 AktG, § 34 HGB, Insider-Geschäfte. |
-| `inv-036-third-party-agent` | Überprüft Third-Party-Agenten und Intermediäre auf FCPA/UK-Bribery-Risiken – Due Diligence, Verträge, Red Flags und Vertragsbeendigung. |
-| `inv-037-vendor-kickback` | Untersucht Lieferanten-Kickbacks – forensische Zahlungsanalyse, Vergabeverfahren-Review, Täteridentifizierung, strafrechtliche und arbeitsrechtliche Konsequenzen. |
-| `inv-038-public-procurement` | Untersucht Unregelmäßigkeiten bei öffentlichen Vergabeverfahren – GWB, VgV, Kartellrecht, Manipulationsrisiken und Konsequenzen. |
-| `inv-039-healthcare-compliance` | Untersucht Healthcare-Compliance-Verstöße – § 299a/b StGB, Transparenzgesetz, AMG/HWG, Kick-Back-Verbote, FSA-Kodex und US-AKS. |
-| `inv-040-bank-regulatory-finding` | Reagiert auf BaFin-Prüfungsfeststellungen und aufsichtsrechtliche Findings – Mängelbeseitigungspflicht, Anordnungsbefugnisse, Internal Investigation als Reaktion. |
-| `inv-041-gdpr-fine-parallel` | Koordiniert parallele DSGVO-Bußgeldverfahren mit Internal Investigations – Aufsichtsbehörden-Kommunikation, Selbstbelastungsschutz, Kooperation. |
-| `inv-042-works-council-conflict` | Löst Konflikte mit dem Betriebsrat während einer Internal Investigation – Mitbestimmungsstreit, Einigungsstelle, einstweiliger Rechtsschutz. |
-| `inv-043-disciplinary-measure` | Wählt und setzt arbeitsrechtliche Disziplinarmaßnahmen um – Abmahnung, Versetzung, Kürzung von Boni, Freistellung, Zielvereinbarungsänderung. |
-| `inv-044-termination-strategy` | Entwickelt Kündigungsstrategie für Beschuldigte und Beteiligte – Tatkündigung, Verdachtskündigung, Trennungsvereinbarung, Outplacement. |
-| `inv-045-remediation-plan` | Erstellt einen strukturierten Remediation-Plan nach Untersuchungsabschluss – Kontrolllücken, Compliance-Verbesserungen, Behörden-Reporting und Nachverfolgung. |
-| `inv-046-monitor-reporting` | Strukturiert das Reporting an einen externen Compliance-Monitor nach DPA/NPA oder Behördenanordnung – Anforderungen, Konfliktmanagement, Exit-Strategie. |
-| `inv-047-privilege-log` | Erstellt und verwaltet das Privilege-Log für privilegierte Untersuchungsdokumente – FRCP Rule 26(b)(5), deutsche Schutzstandards, Waiver-Risiken. |
-| `inv-048-document-retention` | Definiert Dokumentenaufbewahrungs- und -vernichtungsstrategien für Internal Investigation – HGB-Fristen, DSGVO-Löschpflichten, Legal Hold. |
-| `inv-049-cost-recovery-employee` | Macht Untersuchungskosten und Schäden gegen verantwortliche Mitarbeiter und Organmitglieder geltend – § 93 AktG, § 249 BGB, Verjährung. |
-| `inv-050-insurance-notification` | Koordiniert die Versicherungsmeldung bei Internal Investigations – D&O, Crime-Versicherung, Cyber-Versicherung, Meldepflichten und Deckungsstrategien. |
-| `inv-051-press-strategy` | Entwickelt die Pressestrategie bei Internal Investigations – Ad-hoc-Pflicht, Reputationsmanagement, Medienanfragen und Krisenkommunikation. |
-| `inv-052-us-counsel-coordination` | Koordiniert die Zusammenarbeit zwischen deutschem und US-amerikanischem Counsel in Cross-Border-Investigations – Privilege-Konflikte, Offenbarungspflichten, Joint-Defense. |
-| `inv-053-settlement-narrative` | Entwickelt das Settlement-Narrativ für Behörden und Öffentlichkeit – DPA/NPA-Formulierungen, Faktenbasis, Schuldanerkenntnis-Grenzen, Präzedenzwirkung. |
-| `inv-054-lessons-learned` | Zieht strukturierte Lessons Learned aus abgeschlossenen Internal Investigations – Systemische Schwächen, Compliance-Verbesserungen, Dokumentation für Aufsicht. |
+| `kompendium-01-inv-010-us-discovery-bis-inv-001-auftrag-scop` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 01; bündelt 2 frühere Spezialskills (inv-010-us-discovery, inv-001-auftrag-scope) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-02-inv-002-honeypot-ris-bis-inv-003-legal-hold` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 02; bündelt 2 frühere Spezialskills (inv-002-honeypot-risiko, inv-003-legal-hold) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-03-inv-004-mitarbeiteri-bis-inv-005-arbeitsrecht` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 03; bündelt 2 frühere Spezialskills (inv-004-mitarbeiterinterview, inv-005-arbeitsrecht-mitwirkung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-04-inv-006-betriebsrat-bis-inv-007-datenschutz` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 04; bündelt 2 frühere Spezialskills (inv-006-betriebsrat, inv-007-datenschutz) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-05-inv-008-geschaeftsge-bis-inv-009-stpo-beschla` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 05; bündelt 2 frühere Spezialskills (inv-008-geschaeftsgeheimnisse, inv-009-stpo-beschlagnahme) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-06-inv-011-reporting-bis-inv-012-behoerdenstr` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 06; bündelt 2 frühere Spezialskills (inv-011-reporting, inv-012-behoerdenstrategie) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-07-inv-013-whistleblowe-bis-inv-015-forensic-ima` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 07; bündelt 2 frühere Spezialskills (inv-013-whistleblower, inv-015-forensic-imaging) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-08-inv-016-e-mail-revie-bis-inv-017-chat-review` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 08; bündelt 2 frühere Spezialskills (inv-016-e-mail-review, inv-017-chat-review) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-09-inv-018-mobile-devic-bis-inv-019-private-devi` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 09; bündelt 2 frühere Spezialskills (inv-018-mobile-devices, inv-019-private-devices-byod) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-10-inv-020-manager-inte-bis-inv-021-dawn-raid-pl` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 10; bündelt 2 frühere Spezialskills (inv-020-manager-interview, inv-021-dawn-raid-playbook) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-11-inv-022-data-room-fo-bis-inv-023-board-specia` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 11; bündelt 2 frühere Spezialskills (inv-022-data-room-for-counsel, inv-023-board-special-committee) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-12-inv-024-audit-commit-bis-inv-025-hr-misconduc` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 12; bündelt 2 frühere Spezialskills (inv-024-audit-committee, inv-025-hr-misconduct) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-13-inv-026-sexual-haras-bis-inv-027-bribery-red` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 13; bündelt 2 frühere Spezialskills (inv-026-sexual-harassment, inv-027-bribery-red-flags) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-14-inv-028-expense-frau-bis-inv-029-export-contr` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 14; bündelt 2 frühere Spezialskills (inv-028-expense-fraud, inv-029-export-control-breach) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-15-inv-030-sanctions-hi-bis-inv-031-cartel-dawn` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 15; bündelt 2 frühere Spezialskills (inv-030-sanctions-hit, inv-031-cartel-dawn-raid) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-16-inv-032-accounting-i-bis-inv-033-cyber-incide` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 16; bündelt 2 frühere Spezialskills (inv-032-accounting-irregularity, inv-033-cyber-incident) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-17-inv-034-trade-secret-bis-inv-035-conflict-of` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 17; bündelt 2 frühere Spezialskills (inv-034-trade-secret-leak, inv-035-conflict-of-interest) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-18-inv-036-third-party-bis-inv-037-vendor-kickb` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 18; bündelt 2 frühere Spezialskills (inv-036-third-party-agent, inv-037-vendor-kickback) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-19-inv-038-public-procu-bis-inv-039-healthcare-c` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 19; bündelt 2 frühere Spezialskills (inv-038-public-procurement, inv-039-healthcare-compliance) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-20-inv-040-bank-regulat-bis-inv-041-gdpr-fine-pa` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 20; bündelt 2 frühere Spezialskills (inv-040-bank-regulatory-finding, inv-041-gdpr-fine-parallel) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-21-inv-042-works-counci-bis-inv-043-disciplinary` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 21; bündelt 2 frühere Spezialskills (inv-042-works-council-conflict, inv-043-disciplinary-measure) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-22-inv-044-termination-bis-inv-045-remediation` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 22; bündelt 2 frühere Spezialskills (inv-044-termination-strategy, inv-045-remediation-plan) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-23-inv-046-monitor-repo-bis-inv-047-privilege-lo` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 23; bündelt 2 frühere Spezialskills (inv-046-monitor-reporting, inv-047-privilege-log) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-24-inv-048-document-ret-bis-inv-049-cost-recover` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 24; bündelt 2 frühere Spezialskills (inv-048-document-retention, inv-049-cost-recovery-employee) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-25-inv-050-insurance-no-bis-inv-051-press-strate` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 25; bündelt 2 frühere Spezialskills (inv-050-insurance-notification, inv-051-press-strategy) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-26-inv-052-us-counsel-c-bis-inv-053-settlement-n` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 26; bündelt 2 frühere Spezialskills (inv-052-us-counsel-coordination, inv-053-settlement-narrative) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
+| `kompendium-27-inv-054-lessons-lear-bis-inv-054-lessons-lear` | internal-investigations-praxis: Konsolidiertes Skill-Kompendium 27; bündelt 1 frühere Spezialskills (inv-054-lessons-learned) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

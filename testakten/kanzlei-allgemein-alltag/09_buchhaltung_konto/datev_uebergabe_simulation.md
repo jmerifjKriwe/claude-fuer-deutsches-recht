@@ -1,11 +1,11 @@
 # DATEV-ähnliche Übergabe — Simulation Mai 2026
 
-**Dokument-Nr.:** BUCH-2026-0004  
-**Zeitraum:** Mai 2026 (01.05.2026 – 31.05.2026)  
-**Erstellt:** 20.05.2026  
-**Erstellt von:** Jana Reuter / Mara Klein  
-**Empfänger:** Steuerkanzlei Heinemann & Partner, Potsdamer Platz 5, 10785 Berlin  
-**Status:** Vorläufig — Klärfall und Entwurfsrechnung offen  
+**Dokument-Nr.:** BUCH-2026-0004
+**Zeitraum:** Mai 2026 (01.05.2026 – 31.05.2026)
+**Erstellt:** 20.05.2026
+**Erstellt von:** Jana Reuter / Mara Klein
+**Empfänger:** Steuerkanzlei Heinemann & Partner, Potsdamer Platz 5, 10785 Berlin
+**Status:** Vorläufig — Klärfall und Entwurfsrechnung offen
 
 ---
 
@@ -27,7 +27,7 @@ Dieses Dokument simuliert die monatliche Belegübergabe an die Steuerkanzlei im 
 | R-2026-0005 | Alpha Grundstücks-UG | 07.05.2026 | 1.540,00 EUR | 292,60 EUR | 1.832,60 EUR | 14.05.2026 ✓ | 8400 Erlöse Rechtsberatung |
 | R-2026-0006 | Peter Sommer | 04.05.2026 | 440,00 EUR | 83,60 EUR | 523,60 EUR | 08.05.2026 ✓ | 8400 Erlöse Rechtsberatung |
 
-**Summe gebuchte Ausgangsrechnungen:**  
+**Summe gebuchte Ausgangsrechnungen:**
 Netto: 2.860,00 EUR | USt: 543,40 EUR | Brutto: 3.403,40 EUR
 
 ### 2.2 Rechnungen im Entwurfsstatus (noch nicht zu buchen)
@@ -52,7 +52,7 @@ Vollständige Belege aus `eingangsrechnungen_register.csv`:
 | 12.05.2026 | AI Vendor Ireland Ltd. | INV-2026-EU-00442 | 120,00 EUR | — (§13b) | — | 120,00 EUR | 4920 EDV-Kosten (§13b-Leistung) |
 | 15.05.2026 | TechHaus GmbH, Berlin | TH-2026-0391 | 109,00 EUR | 20,71 EUR | — | 129,71 EUR | 4920 EDV-Kosten |
 
-**Summe Eingangsumsätze:**  
+**Summe Eingangsumsätze:**
 Netto: 551,00 EUR | VSt 19 %: 65,55 EUR | VSt 7 %: 6,02 EUR | §13b: 22,80 EUR (Steuer und Vorsteuer saldieren sich)
 
 ---
@@ -67,7 +67,7 @@ Aus `geschaeftskonto_mai_2026.csv` — Abstimmung mit Rechnungen:
 | 14.05.2026 | Alpha Grundstücks-UG | R-2026-0005 Alpha | 1.832,60 EUR | R-2026-0005 | matched (hoch) — bestätigt |
 | 16.05.2026 | W. Lindner | Beratung April | **228,00 EUR** | **kein Match** | **Klärfall — ungeklärt** |
 
-**Klärfall 228,00 EUR:**  
+**Klärfall 228,00 EUR:**
 Auftraggeber: W. Lindner, Savignyplatz 11, 10627 Berlin. Kein offener Posten in dieser Höhe. Fremdgeldverdacht wird geprüft. Sachkonto: vorerst "9000 Durchlaufende Posten / Klärungen". Endgültige Buchung nach Klärung.
 
 ---

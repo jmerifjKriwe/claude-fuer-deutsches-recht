@@ -1,9 +1,9 @@
 # Insolvenzreife-Check — Delta Service GmbH
 
-**Aktenzeichen:** MA-2026-SF-001-R  
-**Erstellt:** 15.05.2026  
-**Verfasser:** Counsel D (Restrukturierung)  
-**Adressat:** Deal Team / Eagle Capital Partners — Intern  
+**Aktenzeichen:** MA-2026-SF-001-R
+**Erstellt:** 15.05.2026
+**Verfasser:** Counsel D (Restrukturierung)
+**Adressat:** Deal Team / Eagle Capital Partners — Intern
 **Methodik:** Dreistufenprüfung nach §§ 17–19 InsO
 
 > **Grundsatz:** Dieser Check gibt nicht "grün", wenn Datenlücken bestehen. Fehlende Informationen werden als Risikopositionen ausgewiesen und Nachforderungen gestellt.
@@ -116,12 +116,12 @@ Gemäß Cash Bridge (cash_bridge_13_wochen.csv) tritt ein negativer Saldo erstma
 
 ## 6. Kritische Nachforderungsliste
 
-1. **Covenant-Waiver DKB AG** — bis 20.05.2026  
-2. **Lieferantenstatus klären** (Lieferstoppdrohung) — bis 17.05.2026  
-3. **Rangrücktritt GGD** finalisieren — bis 30.05.2026 (CP-13)  
-4. **Fortbestehensprognose** formal beschließen (GF-Beschluss + WP) — bis 01.06.2026  
-5. **24-Monats-Plan** anfordern — bis 30.05.2026  
-6. **Großkunden-Forderung** eskalieren (EUR 180.000) — bis 17.05.2026  
+1. **Covenant-Waiver DKB AG** — bis 20.05.2026
+2. **Lieferantenstatus klären** (Lieferstoppdrohung) — bis 17.05.2026
+3. **Rangrücktritt GGD** finalisieren — bis 30.05.2026 (CP-13)
+4. **Fortbestehensprognose** formal beschließen (GF-Beschluss + WP) — bis 01.06.2026
+5. **24-Monats-Plan** anfordern — bis 30.05.2026
+6. **Großkunden-Forderung** eskalieren (EUR 180.000) — bis 17.05.2026
 
 ---
 

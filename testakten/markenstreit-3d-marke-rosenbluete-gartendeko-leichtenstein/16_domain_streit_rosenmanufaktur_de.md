@@ -1,8 +1,8 @@
 # 16 — Domain-Streit: rosenmanufaktur.de — DENIC-Dispute-Verfahren
 
-**Bearbeiter:** RA Philipp Mertens-Waldhausen  
-**Datum:** 08. Mai 2026  
-**Verfahren:** DENIC Dispute-Eintrag; ggf. Klage vor LG Frankfurt/Main (DENIC-Gerichtsstand)  
+**Bearbeiter:** RA Philipp Mertens-Waldhausen
+**Datum:** 08. Mai 2026
+**Verfahren:** DENIC Dispute-Eintrag; ggf. Klage vor LG Frankfurt/Main (DENIC-Gerichtsstand)
 
 ---
 
@@ -85,5 +85,5 @@ Zunächst Schöpflin-Harz direkt anschreiben (Abmahnung) und Übertragung der Do
 
 ---
 
-**Erstellt von:** RA Philipp Mertens-Waldhausen  
+**Erstellt von:** RA Philipp Mertens-Waldhausen
 **Datum:** 08. Mai 2026

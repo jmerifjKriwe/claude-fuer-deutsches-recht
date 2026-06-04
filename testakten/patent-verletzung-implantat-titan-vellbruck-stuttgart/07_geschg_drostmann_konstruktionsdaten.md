@@ -1,8 +1,8 @@
 # 07 — GeschG-Verletzung: Ingenieur Drostmann und Konstruktionsdaten
 
-**Aktenzeichen intern:** VM-2026-GR-001  
-**Datum:** 10. Februar 2026  
-**Bearbeiter:** RA Dr. Leonie Karstens / RA Dr. Birkenhainer  
+**Aktenzeichen intern:** VM-2026-GR-001
+**Datum:** 10. Februar 2026
+**Bearbeiter:** RA Dr. Leonie Karstens / RA Dr. Birkenhainer
 **Rechtsgrundlage:** Gesetz zum Schutz von Geschäftsgeheimnissen (GeschG) v. 18.04.2019 (BGBl. I S. 466); Richtlinie (EU) 2016/943
 
 ---

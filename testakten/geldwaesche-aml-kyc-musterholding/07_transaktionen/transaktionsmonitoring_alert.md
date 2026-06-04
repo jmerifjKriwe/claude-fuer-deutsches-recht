@@ -1,11 +1,11 @@
 # Transaktionsmonitoring-Alert – Drittzahlung 187.500 EUR
 
-**Alert-Nr.:** TM-ALERT-2026-0047  
-**Generiert:** 28.04.2026, 14:52 Uhr (automatisches Monitoringsystem)  
-**Geprüft von:** Thomas Eckhardt (Geldwäschebeauftragter)  
-**Eskalationsdatum:** 29.04.2026  
-**Status:** Eskaliert — Verdachtsmeldung eingeleitet  
-**Rechtsgrundlage:** § 15 Abs. 3 GwG; § 43 GwG; FATF-Guidance on High-Risk Transactions  
+**Alert-Nr.:** TM-ALERT-2026-0047
+**Generiert:** 28.04.2026, 14:52 Uhr (automatisches Monitoringsystem)
+**Geprüft von:** Thomas Eckhardt (Geldwäschebeauftragter)
+**Eskalationsdatum:** 29.04.2026
+**Status:** Eskaliert — Verdachtsmeldung eingeleitet
+**Rechtsgrundlage:** § 15 Abs. 3 GwG; § 43 GwG; FATF-Guidance on High-Risk Transactions
 
 ---
 
@@ -81,13 +81,13 @@ Drittzahlungen sind per se nicht verboten, begründen aber nach § 15 Abs. 3 Nr.
 
 Der Geldwäschebeauftragte hat folgende Hypothesen geprüft:
 
-**Hypothese 1 — Legitimer geschäftlicher Hintergrund:**  
+**Hypothese 1 — Legitimer geschäftlicher Hintergrund:**
 Adriatic Commerce Ltd. könnte ein verbundenes Unternehmen sein, das aus betrieblichen Gründen (z.B. zentralisiertes Cash Management) die Zahlung übernimmt. Diese Erklärung ist ohne Nachweis einer Konzernverbindung oder einer Cash-Pool-Vereinbarung nicht nachprüfbar und daher unzureichend.
 
-**Hypothese 2 — Strohmann-Zahlung:**  
+**Hypothese 2 — Strohmann-Zahlung:**
 Adriatic Commerce Ltd. könnte als Strohmann-Gesellschaft fungieren, um die eigentliche Quelle der Mittel zu verschleiern. Diese Hypothese ist durch den ungeklärten UBO von Blue Harbor Holdings Ltd. und die Offshore-Struktur beider Gesellschaften (Zypern + Malta) erhärtet.
 
-**Hypothese 3 — Layering (Geldwäschephase):**  
+**Hypothese 3 — Layering (Geldwäschephase):**
 Die Zahlung könnte Teil eines Layering-Prozesses sein, bei dem Gelder aus krimineller Herkunft über mehrere Gesellschaften und Jurisdiktionen verschoben werden, bevor sie in die Wirtschaft integriert werden.
 
 **Ergebnis:** Hypothese 1 nicht belegt; Hypothesen 2 und 3 können nicht ausgeschlossen werden. Nach dem Gesamtbild überwiegen die Verdachtsmomente.
@@ -138,5 +138,5 @@ Der Alert TM-ALERT-2026-0047 erfüllt alle Voraussetzungen der § 43 Abs. 1 GwG-
 
 ---
 
-*Alert-Nr.: TM-ALERT-2026-0047 — Musterholding GmbH / Transaktionsmonitoring*  
+*Alert-Nr.: TM-ALERT-2026-0047 — Musterholding GmbH / Transaktionsmonitoring*
 *Aufbewahrungsfrist: 5 Jahre (§ 8 Abs. 4 GwG)*

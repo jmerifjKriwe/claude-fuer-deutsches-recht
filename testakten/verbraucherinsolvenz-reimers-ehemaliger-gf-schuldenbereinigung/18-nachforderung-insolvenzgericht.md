@@ -1,6 +1,6 @@
 # Entwurf eines gerichtlichen Nachforderungsschreibens
 
-Amtsgericht Bremen  
+Amtsgericht Bremen
 Insolvenzgericht
 
 **In dem Verfahren Reimers**

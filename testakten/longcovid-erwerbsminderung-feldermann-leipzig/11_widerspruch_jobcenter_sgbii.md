@@ -4,26 +4,26 @@
 
 ---
 
-Kanzlei Sonnemann Sozialrecht Leipzig  
-Rechtsanwältin Marit Sonnemann  
-Fachanwältin für Sozialrecht  
-Karl-Liebknecht-Straße 14  
-04107 Leipzig  
+Kanzlei Sonnemann Sozialrecht Leipzig
+Rechtsanwältin Marit Sonnemann
+Fachanwältin für Sozialrecht
+Karl-Liebknecht-Straße 14
+04107 Leipzig
 
 ---
 
-**An das**  
-Jobcenter Leipzig  
-Georgiring 3  
-04103 Leipzig  
+**An das**
+Jobcenter Leipzig
+Georgiring 3
+04103 Leipzig
 
-Leipzig, den 25.11.2025  
+Leipzig, den 25.11.2025
 *(Widerspruch eingelegt durch Mandantin selbst; Übernahme und Begründung durch RA Sonnemann, 19.02.2026)*
 
 ---
 
-**BG-Nr.:** BG-L-2025-88-44123  
-**Mandantin:** Vivian Feldermann, Bornaische Straße 78, 04277 Leipzig  
+**BG-Nr.:** BG-L-2025-88-44123
+**Mandantin:** Vivian Feldermann, Bornaische Straße 78, 04277 Leipzig
 
 ---
 
@@ -62,7 +62,7 @@ Das Jobcenter hat die Steuer- und SV-Absetzbeträge offenkundig nur pauschal ges
 
 **Bereinigtes anrechenbares Einkommen: ca. 2.403,00 EUR**
 
-Dem steht ein Gesamtbedarf der Bedarfsgemeinschaft von 2.829,00 EUR gegenüber.  
+Dem steht ein Gesamtbedarf der Bedarfsgemeinschaft von 2.829,00 EUR gegenüber.
 **Ungedeckter Bedarf: ca. 426,00 EUR/Monat.**
 
 ### II. KdU – Angemessenheit der Miete
@@ -97,10 +97,10 @@ Frau Feldermann hat als chronisch kranke Person mit ME/CFS und POTS einen erhöh
 
 Mit freundlichen Grüßen
 
-**Marit Sonnemann**  
+**Marit Sonnemann**
 Rechtsanwältin, Fachanwältin für Sozialrecht
 
 ---
 
-*Kanzlei-AZ: SON-2026-0047-FEL*  
+*Kanzlei-AZ: SON-2026-0047-FEL*
 *Übernommen und begründet: 19.02.2026*

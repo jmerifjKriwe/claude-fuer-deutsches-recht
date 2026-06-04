@@ -98,7 +98,7 @@ Für den Boeschke-Regressfall ergibt sich folgende Haftungspyramide:
 Schwarmstedt Logistik GmbH
 (Frachtführer, Fahrzeughalter)
         ↕ primäre Haftung nach § 7 StVG / § 31 StVZO gegenüber Dritten
-        
+
 Boeschke Kühl & Frische GmbH
 (Verlader)
         ↕ Haftung nach § 414 HGB (Absender) / § 22 StVO (Verlader)

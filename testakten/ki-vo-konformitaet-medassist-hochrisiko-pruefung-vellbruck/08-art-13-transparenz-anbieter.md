@@ -1,8 +1,8 @@
 # Aktenstück 08 — Art. 13 KI-VO: Transparenz und Informationspflichten des Anbieters
 
-**Aktenzeichen:** 2026-V-0427  
-**Erstellt:** 01.04.2026  
-**Bearbeitung:** RAin Dr. Henrietta Vellbruck-Steinheim  
+**Aktenzeichen:** 2026-V-0427
+**Erstellt:** 01.04.2026
+**Bearbeitung:** RAin Dr. Henrietta Vellbruck-Steinheim
 **Rechtsgrundlage:** Art. 13 KI-VO (EU) 2024/1689
 
 ---
@@ -73,10 +73,10 @@ MedAssist v4 gibt den Konfidenzwert aus, zeigt aber keine Erklärung für die Kl
 
 ## 5. Gesamtbewertung Art. 13
 
-**Art. 13 KI-VO: Teilweise konform (mit wesentlichen Lücken).**  
+**Art. 13 KI-VO: Teilweise konform (mit wesentlichen Lücken).**
 Grundinfrastruktur eines Benutzerhandbuchs existiert. Kritische Lücken bei Einsatzgrenzen, Accuracy-Kommunikation, Fallback und Patientenrechten.
 
 ---
 
-*Heidelberg, 01.04.2026*  
+*Heidelberg, 01.04.2026*
 *RAin Dr. Henrietta Vellbruck-Steinheim — Az. 2026-V-0427*

@@ -1,0 +1,344 @@
+---
+name: kompendium-23-wertersatz-bei-diens-bis-zahlung-auf-fremde-s
+description: "bereicherungs-und-anfechtungsrecht-pruefer: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (wertersatz-bei-dienstleistung-und-gebrauchsvorteil, wertveraenderung-und-stichtag, zahlstelle-bote-vertreter-und-treuhand, zahlung-auf-fremde-schuld-und-putativschuldner) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+---
+
+# Kompendium 23 - bereicherungs-und-anfechtungsrecht-pruefer
+
+## Zweck
+
+Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+
+## Enthaltene frühere Skills
+
+| Früherer Skill | Frühere Beschreibung |
+| --- | --- |
+| `wertersatz-bei-dienstleistung-und-gebrauchsvorteil` | Nutze diesen Skill, wenn eine nicht rückgabefähige Dienstleistung oder Nutzung bewertet werden muss. Normen: § 818 Abs. 2 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Wertersatzberechnung Dienstleistung mit Marktwert oder ersparten Aufwendungen. Abgrenzung: nicht Vergütungsanspruch § 612 BGB. |
+| `wertveraenderung-und-stichtag` | Nutze diesen Skill, wenn Wertsteigerung, Wertverlust und Bewertungszeitpunkt streitig sind. Normen: § 818 Abs. 1 und Abs. 2 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Stichtagsanalyse mit Wertersatzhöhe und Risikozuweisung. Abgrenzung: nicht Schadensberechnung § 252 BGB. |
+| `zahlstelle-bote-vertreter-und-treuhand` | Nutze diesen Skill, wenn eine Zwischenperson im Zahlungsweg rechtlich richtig eingeordnet werden muss. Normen: §§ 164 ff. BGB; § 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Zurechnungsanalyse Bote/Vertreter/Treuhand mit Anspruchsgegner. Abgrenzung: nicht direkte Bereicherungsklage gegen Mittelsperson. |
+| `zahlung-auf-fremde-schuld-und-putativschuldner` | Nutze diesen Skill, wenn jemand irrtümlich als vermeintlicher Schuldner oder auf fremde Schuld zahlt. Normen: §§ 267 und 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Prüfergebnis Putativschuld mit Anspruchsgegner und Rückgriffsweg. Abgrenzung: nicht eigene Verbindlichkeit des Zahlenden. |
+
+## Arbeitsregel
+
+1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
+3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+
+## Konsolidierte Inhalte
+
+## 1. `wertersatz-bei-dienstleistung-und-gebrauchsvorteil`
+
+**Frühere Beschreibung:** Nutze diesen Skill, wenn eine nicht rückgabefähige Dienstleistung oder Nutzung bewertet werden muss. Normen: § 818 Abs. 2 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Wertersatzberechnung Dienstleistung mit Marktwert oder ersparten Aufwendungen. Abgrenzung: nicht Vergütungsanspruch § 612 BGB.
+
+# Wertersatz bei Dienstleistung und Gebrauchsvorteil
+
+## Einsatzbereich
+
+Nutze diesen Skill, wenn eine nicht rückgabefähige Dienstleistung oder Nutzung bewertet werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+
+## Triage — zuerst klären
+
+1. Was war ursprünglich erlangt und was ist heute noch vorhanden?
+2. Welche Nutzungen, Surrogate, Erlöse oder Ersatzforderungen gibt es?
+3. Welche eigenen Ausgaben wurden erspart?
+4. Wann traten Verlust, Verbrauch, Kenntnis und Rechtshängigkeit ein?
+5. Welche Bewertungsmethode ist belegbar?
+
+## Spezifischer Prüfungsfokus
+
+- Bestimme den konkreten Vermögensvorteil und seine heutige Spur im Vermögen.
+- Ordne den Vorteil einer Leistungsbeziehung, einem Eingriff oder einer sonstigen Erwerbslage zu.
+- Prüfe Rechtsgrund und Behaltensgrund getrennt.
+- Kontrolliere, ob § 818 BGB den Anspruch erweitert, begrenzt oder verschärft.
+- Leite erst danach Anspruchsgegner, Anspruchshöhe und prozessuales Ziel ab.
+
+## Prüfungslogik
+
+- Erstelle eine Vermögensbilanz statt einer Gegenstandsliste.
+- Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB.
+- Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert.
+- Ordne Wertverluste nach Risiko, Kenntnis und Rechtshängigkeit zu.
+- Verlange substantiierte Belege für Entreicherung.
+
+## Typische Fehler
+
+- "Geld ist weg" als Ergebnis genügen lassen.
+- Surrogate und Ersparnisse übersehen.
+- Zinsen, Nutzungen und Wertersatz doppelt zählen.
+
+## Arbeitsausgabe
+
+| Punkt | Ergebnis | Belegbedarf |
+|---|---|---|
+| Anspruchsziel | [...] | [...] |
+| beteiligte Personen | [...] | [...] |
+| Vermögensvorteil | [...] | [...] |
+| Zweck/Zurechnung | [...] | [...] |
+| Rechtsgrund/Behaltensgrund | [...] | [...] |
+| § 818 BGB | [...] | [...] |
+| Einreden/Spezialregime | [...] | [...] |
+| vorläufiges Ergebnis | [...] | [...] |
+
+## Mini-Check vor Output
+
+- Kein Direktanspruch ohne begründete Zurechnung.
+- Kein Wertersatz ohne Bewertungsmethode.
+- Keine Entreicherung ohne konkreten Vermögensweg.
+- Keine Saldierung ohne beiderseitige Leistungstabelle.
+- Offene Tatsachen bleiben als offen markiert.
+
+---
+
+Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## 2. `wertveraenderung-und-stichtag`
+
+**Frühere Beschreibung:** Nutze diesen Skill, wenn Wertsteigerung, Wertverlust und Bewertungszeitpunkt streitig sind. Normen: § 818 Abs. 1 und Abs. 2 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Stichtagsanalyse mit Wertersatzhöhe und Risikozuweisung. Abgrenzung: nicht Schadensberechnung § 252 BGB.
+
+# Wertveränderung und Bewertungsstichtag
+
+## Einsatzbereich
+
+Nutze diesen Skill, wenn Wertsteigerung, Wertverlust und Bewertungszeitpunkt streitig sind. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+
+## Triage — zuerst klären
+
+1. Was war ursprünglich erlangt und was ist heute noch vorhanden?
+2. Welche Nutzungen, Surrogate, Erlöse oder Ersatzforderungen gibt es?
+3. Welche eigenen Ausgaben wurden erspart?
+4. Wann traten Verlust, Verbrauch, Kenntnis und Rechtshängigkeit ein?
+5. Welche Bewertungsmethode ist belegbar?
+
+## Spezifischer Prüfungsfokus
+
+- Bestimme den konkreten Vermögensvorteil und seine heutige Spur im Vermögen.
+- Ordne den Vorteil einer Leistungsbeziehung, einem Eingriff oder einer sonstigen Erwerbslage zu.
+- Prüfe Rechtsgrund und Behaltensgrund getrennt.
+- Kontrolliere, ob § 818 BGB den Anspruch erweitert, begrenzt oder verschärft.
+- Leite erst danach Anspruchsgegner, Anspruchshöhe und prozessuales Ziel ab.
+
+## Prüfungslogik
+
+- Erstelle eine Vermögensbilanz statt einer Gegenstandsliste.
+- Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB.
+- Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert.
+- Ordne Wertverluste nach Risiko, Kenntnis und Rechtshängigkeit zu.
+- Verlange substantiierte Belege für Entreicherung.
+
+## Bewertungsstichtag differenzieren
+
+| Lage | Prüfungsfrage |
+|---|---|
+| Naturalherausgabe möglich | folgt der Gegenstand selbst mitsamt Wertentwicklung? |
+| Wertersatz | welcher objektive Wert bildet den Vorteil sachgerecht ab? |
+| Wertsteigerung durch Markt | wem ist die Chance zugewiesen? |
+| Wertsteigerung durch Empfängeraufwand | Verwendungsersatz oder Saldokorrektur prüfen |
+| Wertverlust vor Kenntnis | gutgläubiges Risiko oder eigener Umgang? |
+| Wertverlust nach Kenntnis/Rechtshängigkeit | verschärfte Haftung prüfen |
+| gegenseitiger Vertrag | Wertfrage in Saldierung einbauen |
+
+Bei Wertfragen keine Scheingenauigkeit: Bewertungsbandbreite, Methode und Belege offenlegen.
+
+## Typische Fehler
+
+- "Geld ist weg" als Ergebnis genügen lassen.
+- Surrogate und Ersparnisse übersehen.
+- Zinsen, Nutzungen und Wertersatz doppelt zählen.
+
+## Arbeitsausgabe
+
+| Punkt | Ergebnis | Belegbedarf |
+|---|---|---|
+| Anspruchsziel | [...] | [...] |
+| beteiligte Personen | [...] | [...] |
+| Vermögensvorteil | [...] | [...] |
+| Zweck/Zurechnung | [...] | [...] |
+| Rechtsgrund/Behaltensgrund | [...] | [...] |
+| § 818 BGB | [...] | [...] |
+| Einreden/Spezialregime | [...] | [...] |
+| vorläufiges Ergebnis | [...] | [...] |
+
+## Stichtags-Output
+
+| Wertposten | Stichtag | Methode | Risiko |
+|---|---|---|---|
+| [...] | Empfang / Wegfall / Klage / Urteil | [...] | [...] |
+
+## Mini-Check vor Output
+
+- Kein Direktanspruch ohne begründete Zurechnung.
+- Kein Wertersatz ohne Bewertungsmethode.
+- Keine Entreicherung ohne konkreten Vermögensweg.
+- Keine Saldierung ohne beiderseitige Leistungstabelle.
+- Offene Tatsachen bleiben als offen markiert.
+
+---
+
+Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## 3. `zahlstelle-bote-vertreter-und-treuhand`
+
+**Frühere Beschreibung:** Nutze diesen Skill, wenn eine Zwischenperson im Zahlungsweg rechtlich richtig eingeordnet werden muss. Normen: §§ 164 ff. BGB; § 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Zurechnungsanalyse Bote/Vertreter/Treuhand mit Anspruchsgegner. Abgrenzung: nicht direkte Bereicherungsklage gegen Mittelsperson.
+
+# Zahlstelle, Bote, Vertreter und Treuhand
+
+## Einsatzbereich
+
+Nutze diesen Skill, wenn eine Zwischenperson im Zahlungsweg rechtlich richtig eingeordnet werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+
+## Triage — zuerst klären
+
+1. Welche Personen und Beziehungen bilden das Leistungsdreieck oder die Kette?
+2. Wer hat den Leistungszweck objektiv gesetzt?
+3. War eine Anweisung, Vollmacht, Zession oder Drittleistung wirksam und zurechenbar?
+4. Welches Verhältnis ist fehlerhaft?
+5. Würde ein Direktanspruch nur ein Insolvenz- oder Vertragsrisiko verschieben?
+
+## Spezifischer Prüfungsfokus
+
+- Bestimme den konkreten Vermögensvorteil und seine heutige Spur im Vermögen.
+- Ordne den Vorteil einer Leistungsbeziehung, einem Eingriff oder einer sonstigen Erwerbslage zu.
+- Prüfe Rechtsgrund und Behaltensgrund getrennt.
+- Kontrolliere, ob § 818 BGB den Anspruch erweitert, begrenzt oder verschärft.
+- Leite erst danach Anspruchsgegner, Anspruchshöhe und prozessuales Ziel ab.
+
+## Prüfungslogik
+
+- Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl.
+- Bestimme den Empfängerhorizont des Endempfängers.
+- Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab.
+- Prüfe Direktkondiktion nur mit eigenständiger Ausnahmebegründung.
+- Halte Vertrauensschutz und Risikozuweisung ausdrücklich fest.
+
+## Typische Fehler
+
+- Tatsächlichen Empfänger automatisch als Schuldner behandeln.
+- Doppelmangel zu einem Pauschalanspruch verschmelzen.
+- Insolvenzrisiko ohne Rechtsgrund verlagern.
+
+## Arbeitsausgabe
+
+| Punkt | Ergebnis | Belegbedarf |
+|---|---|---|
+| Anspruchsziel | [...] | [...] |
+| beteiligte Personen | [...] | [...] |
+| Vermögensvorteil | [...] | [...] |
+| Zweck/Zurechnung | [...] | [...] |
+| Rechtsgrund/Behaltensgrund | [...] | [...] |
+| § 818 BGB | [...] | [...] |
+| Einreden/Spezialregime | [...] | [...] |
+| vorläufiges Ergebnis | [...] | [...] |
+
+## Mini-Check vor Output
+
+- Kein Direktanspruch ohne begründete Zurechnung.
+- Kein Wertersatz ohne Bewertungsmethode.
+- Keine Entreicherung ohne konkreten Vermögensweg.
+- Keine Saldierung ohne beiderseitige Leistungstabelle.
+- Offene Tatsachen bleiben als offen markiert.
+
+---
+
+Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
+
+## 4. `zahlung-auf-fremde-schuld-und-putativschuldner`
+
+**Frühere Beschreibung:** Nutze diesen Skill, wenn jemand irrtümlich als vermeintlicher Schuldner oder auf fremde Schuld zahlt. Normen: §§ 267 und 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Prüfergebnis Putativschuld mit Anspruchsgegner und Rückgriffsweg. Abgrenzung: nicht eigene Verbindlichkeit des Zahlenden.
+
+# Zahlung auf fremde Schuld und Putativschuldner
+
+## Einsatzbereich
+
+Nutze diesen Skill, wenn jemand irrtümlich als vermeintlicher Schuldner oder auf fremde Schuld zahlt. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel.
+
+## Triage — zuerst klären
+
+1. Welche Personen und Beziehungen bilden das Leistungsdreieck oder die Kette?
+2. Wer hat den Leistungszweck objektiv gesetzt?
+3. War eine Anweisung, Vollmacht, Zession oder Drittleistung wirksam und zurechenbar?
+4. Welches Verhältnis ist fehlerhaft?
+5. Würde ein Direktanspruch nur ein Insolvenz- oder Vertragsrisiko verschieben?
+
+## Spezifischer Prüfungsfokus
+
+- Bestimme den konkreten Vermögensvorteil und seine heutige Spur im Vermögen.
+- Ordne den Vorteil einer Leistungsbeziehung, einem Eingriff oder einer sonstigen Erwerbslage zu.
+- Prüfe Rechtsgrund und Behaltensgrund getrennt.
+- Kontrolliere, ob § 818 BGB den Anspruch erweitert, begrenzt oder verschärft.
+- Leite erst danach Anspruchsgegner, Anspruchshöhe und prozessuales Ziel ab.
+
+## Prüfungslogik
+
+- Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl.
+- Bestimme den Empfängerhorizont des Endempfängers.
+- Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab.
+- Prüfe Direktkondiktion nur mit eigenständiger Ausnahmebegründung.
+- Halte Vertrauensschutz und Risikozuweisung ausdrücklich fest.
+
+## Typische Fehler
+
+- Tatsächlichen Empfänger automatisch als Schuldner behandeln.
+- Doppelmangel zu einem Pauschalanspruch verschmelzen.
+- Insolvenzrisiko ohne Rechtsgrund verlagern.
+
+## Arbeitsausgabe
+
+| Punkt | Ergebnis | Belegbedarf |
+|---|---|---|
+| Anspruchsziel | [...] | [...] |
+| beteiligte Personen | [...] | [...] |
+| Vermögensvorteil | [...] | [...] |
+| Zweck/Zurechnung | [...] | [...] |
+| Rechtsgrund/Behaltensgrund | [...] | [...] |
+| § 818 BGB | [...] | [...] |
+| Einreden/Spezialregime | [...] | [...] |
+| vorläufiges Ergebnis | [...] | [...] |
+
+## Mini-Check vor Output
+
+- Kein Direktanspruch ohne begründete Zurechnung.
+- Kein Wertersatz ohne Bewertungsmethode.
+- Keine Entreicherung ohne konkreten Vermögensweg.
+- Keine Saldierung ohne beiderseitige Leistungstabelle.
+- Offene Tatsachen bleiben als offen markiert.
+
+---
+
+Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

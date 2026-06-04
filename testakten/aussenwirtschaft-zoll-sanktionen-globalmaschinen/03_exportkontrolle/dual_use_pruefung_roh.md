@@ -1,10 +1,10 @@
 # Dual-Use-Prüfung: CNC-Steuermodul GX-900 – Vollständige Analyse
 
-**Dokumenttyp:** Exportkontroll-Prüfbericht (Internes Vermerk)  
-**Aktenzeichen:** GM-EK-2026-041-DU  
-**Erstellt:** 15. April 2026  
-**Verfasser:** Dipl.-Ing. Rainer Hofstädter, Exportkontrollbeauftragter  
-**Geprüft:** Dr. Sabine Brennecke, Syndikusrechtsanwältin  
+**Dokumenttyp:** Exportkontroll-Prüfbericht (Internes Vermerk)
+**Aktenzeichen:** GM-EK-2026-041-DU
+**Erstellt:** 15. April 2026
+**Verfasser:** Dipl.-Ing. Rainer Hofstädter, Exportkontrollbeauftragter
+**Geprüft:** Dr. Sabine Brennecke, Syndikusrechtsanwältin
 **Status:** Abgeschlossen – Genehmigungsbedürftigkeit festgestellt
 
 ---
@@ -185,5 +185,5 @@ Das CNC-Steuermodul GX-900 ist nach der EU-Dual-Use-Verordnung (EU) 2021/821 unt
 
 ---
 
-*Erstellt: 15.04.2026 | Rainer Hofstädter, Exportkontrollbeauftragter | GM-EK-2026-041-DU*  
+*Erstellt: 15.04.2026 | Rainer Hofstädter, Exportkontrollbeauftragter | GM-EK-2026-041-DU*
 *Geprüft: 15.04.2026 | Dr. Sabine Brennecke, Syndikusrechtsanwältin*

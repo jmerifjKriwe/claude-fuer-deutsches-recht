@@ -1,8 +1,8 @@
 # Fristenübersicht — Meldepflichten und Verfahrensfristen
 
-**Aktenstück:** 22  
-**Datum:** 13.05.2026 (Stand: aktuell)  
-**Mandantin:** Frischetrans Mittelrhein GmbH  
+**Aktenstück:** 22
+**Datum:** 13.05.2026 (Stand: aktuell)
+**Mandantin:** Frischetrans Mittelrhein GmbH
 **Bearbeiter:** RA Lukas Drosten, Fachanwalt für IT-Recht
 
 ---

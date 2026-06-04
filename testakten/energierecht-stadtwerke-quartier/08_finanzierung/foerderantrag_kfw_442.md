@@ -1,9 +1,9 @@
 # Förderantrag KfW-Programm 442 – Klimafreundlicher Neubau Kommunen
 
-**Antragsnummer (intern):** SWKK-KFW-2026-001  
-**KfW-Antragseingang:** 15. März 2026  
-**Hausbank:** Sparkasse Lüdinghausen, Münsterstraße 3, 59348 Lüdinghausen  
-**Bearbeiter Hausbank:** Dipl.-Betriebsw. Annegret Böhmer, Firmenkunden-Center  
+**Antragsnummer (intern):** SWKK-KFW-2026-001
+**KfW-Antragseingang:** 15. März 2026
+**Hausbank:** Sparkasse Lüdinghausen, Münsterstraße 3, 59348 Lüdinghausen
+**Bearbeiter Hausbank:** Dipl.-Betriebsw. Annegret Böhmer, Firmenkunden-Center
 
 ---
 
@@ -11,11 +11,11 @@
 
 ### KfW-Programm 442 "Klimafreundlicher Neubau – Kommunen" (KfN-K)
 
-**Antragsteller:**  
-Stadtwerke Klotzkette AG  
-Bahnhofstraße 12 · 59348 Lüdinghausen  
-HRB 18642, AG Münster  
-Vertreten durch: Dr. Gerda Wohlfahrt, Vorstandsvorsitzende  
+**Antragsteller:**
+Stadtwerke Klotzkette AG
+Bahnhofstraße 12 · 59348 Lüdinghausen
+HRB 18642, AG Münster
+Vertreten durch: Dr. Gerda Wohlfahrt, Vorstandsvorsitzende
 USt-IdNr.: DE 812 334 499
 
 **Kreditnehmer:** Stadtwerke Klotzkette AG / Hafenbogen Energie GmbH & Co. KG (nach Gründung)
@@ -126,8 +126,8 @@ Die energetischen Nachweise werden durch den Energieeffizienzexperten **Dipl.-In
 
 **Lüdinghausen, den 12. März 2026**
 
-**Dr. Gerda Wohlfahrt**  
-Vorstandsvorsitzende  
+**Dr. Gerda Wohlfahrt**
+Vorstandsvorsitzende
 Stadtwerke Klotzkette AG
 
 ---

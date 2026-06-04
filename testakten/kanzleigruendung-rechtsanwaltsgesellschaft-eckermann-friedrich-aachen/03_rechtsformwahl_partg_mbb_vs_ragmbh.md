@@ -1,8 +1,8 @@
 # 03 Rechtsformwahl — PartG mbB vs. RA-GmbH vs. RA-AG
 
-**Aktenzeichen:** KBH-2026-001-EFS  
-**Stand:** 05. März 2026  
-**Bearbeiterin:** RA Monika Hellwig  
+**Aktenzeichen:** KBH-2026-001-EFS
+**Stand:** 05. März 2026
+**Bearbeiterin:** RA Monika Hellwig
 
 ---
 

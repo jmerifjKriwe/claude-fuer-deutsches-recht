@@ -1,11 +1,11 @@
 # Aktenvorblatt — Kanzlei Hoffmann Verkehrsrecht Lüdenscheid
 
-**Kanzlei:** Hoffmann Verkehrsrecht  
-**Anwalt:** Rechtsanwalt Sebastian Hoffmann, Fachanwalt für Verkehrsrecht  
-**Anschrift:** Altenaer Straße 112, 58507 Lüdenscheid  
-**Tel.:** 02351 / 47 83 20  
-**Fax:** 02351 / 47 83 29  
-**E-Mail:** s.hoffmann@hoffmann-verkehrsrecht.de  
+**Kanzlei:** Hoffmann Verkehrsrecht
+**Anwalt:** Rechtsanwalt Sebastian Hoffmann, Fachanwalt für Verkehrsrecht
+**Anschrift:** Altenaer Straße 112, 58507 Lüdenscheid
+**Tel.:** 02351 / 47 83 20
+**Fax:** 02351 / 47 83 29
+**E-Mail:** s.hoffmann@hoffmann-verkehrsrecht.de
 
 ---
 
@@ -76,9 +76,9 @@ Vollmacht erteilt am **15.01.2026**, unterzeichnet durch Holger Tannenbruck. Ori
 
 ## Mandatsannahme
 
-**Datum:** 15.01.2026  
-**Erstgespräch:** 15.01.2026, 14:00 Uhr, Kanzlei Hoffmann Verkehrsrecht Lüdenscheid  
-**Bearbeiter:** RA Sebastian Hoffmann  
+**Datum:** 15.01.2026
+**Erstgespräch:** 15.01.2026, 14:00 Uhr, Kanzlei Hoffmann Verkehrsrecht Lüdenscheid
+**Bearbeiter:** RA Sebastian Hoffmann
 **Einstufung:** Komplexmandat (Straf + OWi + Verwaltung + Zivilrecht)
 
 ---

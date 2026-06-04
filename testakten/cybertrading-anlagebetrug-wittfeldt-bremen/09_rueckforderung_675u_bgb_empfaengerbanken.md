@@ -1,8 +1,8 @@
 # Rückforderungspaket gegen Empfängerbanken – § 675u BGB und Bereicherungsrecht
 
-**Aktenzeichen:** PS-BKR-2026-0412  
-**Verfasser:** Dr. Severin Pflüger, Fachanwalt für Bank- und Kapitalmarktrecht  
-**Datum:** 15.04.2026  
+**Aktenzeichen:** PS-BKR-2026-0412
+**Verfasser:** Dr. Severin Pflüger, Fachanwalt für Bank- und Kapitalmarktrecht
+**Datum:** 15.04.2026
 
 ---
 
@@ -88,5 +88,5 @@ Für die estnische Empfängerbank Trustless Banking S.A. kommt der **Europäisch
 
 ---
 
-*Erstellt: 15.04.2026 · Dr. S. Pflüger*  
+*Erstellt: 15.04.2026 · Dr. S. Pflüger*
 *Quellen: BGH BGHZ 147, 145 (dejure.org); VO (EU) 655/2014 (EAPO); §§ 73 ff. StGB; §§ 812, 826 BGB*

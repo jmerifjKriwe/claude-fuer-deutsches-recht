@@ -15,13 +15,13 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Plugin:** `fachanwalt-miet-wohnungseigentumsrecht`  
-**Branch:** `feat/v51.0.0-testakten-vollbestand`  
-**Angelegt:** Mai 2026  
-**Mandanten (Vermieter):** Dr. Cornelia Straßburger + Dr. Boris Straßburger-Möhren  
-**Mieter:** WG Albrecht / van Drosten / Sonnenfeld  
-**Objekt:** Rolandstraße 27a, DG-Wohnung 110 m², 50677 Köln-Südstadt (WEG, 6 Einheiten)  
-**Verfahren:** AZ AG Köln Räumung: `213 C 188/26` | AZ AG Köln WEG: `205 C 67/26`  
+**Plugin:** `fachanwalt-miet-wohnungseigentumsrecht`
+**Branch:** `feat/v51.0.0-testakten-vollbestand`
+**Angelegt:** Mai 2026
+**Mandanten (Vermieter):** Dr. Cornelia Straßburger + Dr. Boris Straßburger-Möhren
+**Mieter:** WG Albrecht / van Drosten / Sonnenfeld
+**Objekt:** Rolandstraße 27a, DG-Wohnung 110 m², 50677 Köln-Südstadt (WEG, 6 Einheiten)
+**Verfahren:** AZ AG Köln Räumung: `213 C 188/26` | AZ AG Köln WEG: `205 C 67/26`
 **Anwältin:** RA'in Vanessa Hauck-Brüggemann, Fachanwältin für Miet- und WEG-Recht
 
 ---

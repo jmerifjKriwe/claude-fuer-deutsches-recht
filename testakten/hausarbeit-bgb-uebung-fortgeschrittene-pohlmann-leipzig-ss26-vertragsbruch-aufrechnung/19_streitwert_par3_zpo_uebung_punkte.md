@@ -1,6 +1,6 @@
 # 19 — Streitwert (§ 3 ZPO) und Punktevergabe der Übung
 
-**Bearbeiter:** Konrad Pohlmann  
+**Bearbeiter:** Konrad Pohlmann
 **Stand:** 03.05.2026
 
 ---

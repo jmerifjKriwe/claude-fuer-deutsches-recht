@@ -1,10 +1,10 @@
 # Ordinary Course Monitor — Projekt Silberfalke
 
-**Aktenzeichen:** MA-2026-SF-001  
-**Berichtszeitraum:** Signing (15.05.2026) bis voraussichtliches Closing (15.09.2026)  
-**Erstellt:** 15.05.2026  
-**Letzte Aktualisierung:** 20.05.2026  
-**Verfasser:** Counsel B (M&A-Gruppe)  
+**Aktenzeichen:** MA-2026-SF-001
+**Berichtszeitraum:** Signing (15.05.2026) bis voraussichtliches Closing (15.09.2026)
+**Erstellt:** 15.05.2026
+**Letzte Aktualisierung:** 20.05.2026
+**Verfasser:** Counsel B (M&A-Gruppe)
 **Adressat:** Deal Team / Eagle Capital Partners
 
 ---
@@ -45,8 +45,8 @@ Der zwischen Solaris Industries AG (Verkäufer) und Eagle Capital Partners Fund 
 
 ### Ereignis OC-E-001 — Lieferantenvertrag Müller Antriebstechnik GmbH
 
-**Datum:** 17.05.2026  
-**Meldung durch:** CFO Solaris, Herrn Dr. Fischer  
+**Datum:** 17.05.2026
+**Meldung durch:** CFO Solaris, Herrn Dr. Fischer
 **Sachverhalt:** Solaris Industries AG plant, den Rahmenliefervertrag mit Müller Antriebstechnik GmbH (Laufzeit: 31.12.2027, Jahresvolumen ca. EUR 1,2 Mio.) aus wichtigem Grund fristlos zu kündigen. Anlass: Lieferverzug über 45 Tage bei zwei Komponenten-Chargen, Vertragsstrafe per Mahnung angedroht.
 
 **Einordnung:** Die Kündigung eines Vertrags mit einem Jahresvolumen von EUR 1,2 Mio. überschreitet den Consenterfordernis-Schwellenwert gem. SPA § 9.1 (c) i.H.v. EUR 200.000. Der Vertrag ist zudem als wesentlicher Zulieferer im Disclosure Schedule (Anlage 7.4) gelistet.
@@ -66,8 +66,8 @@ Der zwischen Solaris Industries AG (Verkäufer) und Eagle Capital Partners Fund 
 
 ### Ereignis OC-E-002 — HR: Freistellung Vertriebsleiter
 
-**Datum:** 19.05.2026  
-**Meldung durch:** HR-Direktorin Solaris, Frau Reinhardt  
+**Datum:** 19.05.2026
+**Meldung durch:** HR-Direktorin Solaris, Frau Reinhardt
 **Sachverhalt:** Der Vertriebsleiter (Gesamtvergütung: EUR 280.000 p.a.) hat selbst gekündigt zum 31.08.2026. Solaris möchte ihn sofort freistellen und eine Abfindungsvereinbarung schließen (geschätzt: 6 Monatsgehälter, ca. EUR 140.000).
 
 **Einordnung:** Abfindungsvereinbarung auf Führungsebene erfordert Consent gem. SPA § 9.1 (d).
@@ -98,10 +98,10 @@ Der zwischen Solaris Industries AG (Verkäufer) und Eagle Capital Partners Fund 
 
 ## 6. Nächste Schritte
 
-- [ ] OC-E-001: Eagle-Consent bis 25.05.2026 einholen  
-- [ ] OC-E-002: Abfindungsformel finalisieren, Consent-Antrag einreichen  
-- [ ] Capex-Monitoring für Mai anfordern (fällig 05.06.2026)  
-- [ ] Liquiditätsbericht für Mai (fällig 18.06.2026)  
+- [ ] OC-E-001: Eagle-Consent bis 25.05.2026 einholen
+- [ ] OC-E-002: Abfindungsformel finalisieren, Consent-Antrag einreichen
+- [ ] Capex-Monitoring für Mai anfordern (fällig 05.06.2026)
+- [ ] Liquiditätsbericht für Mai (fällig 18.06.2026)
 - [ ] CP-Register mit Regulatory Counsel abgleichen
 
 ---

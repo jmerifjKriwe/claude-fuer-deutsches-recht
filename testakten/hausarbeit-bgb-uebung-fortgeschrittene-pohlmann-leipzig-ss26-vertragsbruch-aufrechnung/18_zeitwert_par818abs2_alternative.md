@@ -1,6 +1,6 @@
 # 18 — Zeitwert, Bereicherungsrecht und § 818 Abs. 2 BGB als Alternative
 
-**Bearbeiter:** Konrad Pohlmann  
+**Bearbeiter:** Konrad Pohlmann
 **Stand:** 02.05.2026
 
 ---

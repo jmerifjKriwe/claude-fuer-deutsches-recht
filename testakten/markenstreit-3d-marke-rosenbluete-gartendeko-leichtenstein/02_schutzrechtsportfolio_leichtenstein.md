@@ -1,8 +1,8 @@
 # 02 — Schutzrechtsportfolio Leichtenstein Gartenkultur Manufaktur GmbH
 
-**Bearbeiter:** PA Dr. Volkmar Trautmann  
-**Datum:** 16. April 2026  
-**Verfahren:** Intern / Mandatsakte  
+**Bearbeiter:** PA Dr. Volkmar Trautmann
+**Datum:** 16. April 2026
+**Verfahren:** Intern / Mandatsakte
 
 ---
 
@@ -12,13 +12,13 @@ Das Schutzrechtsportfolio der Leichtenstein Gartenkultur Manufaktur GmbH umfasst
 
 ### 1.1 EU-3D-Marke EUIPO Nr. 018 977 412
 
-**Art der Marke:** Dreidimensionale Marke (Formmarke)  
-**Eingetragen:** 22. Juni 2019  
-**Inhaber:** Leichtenstein Gartenkultur Manufaktur GmbH  
-**Vertreter beim EUIPO:** PA Dr. Volkmar Trautmann & Coll., Mannheim  
-**Waren/Dienstleistungen:**  
-- Klasse 20: Dekorationsgegenstände; kunstgewerbliche Waren aus Metall; Ziergegenstände für Innen- und Außenbereiche  
-- Klasse 27: Dekorative Gegenstände für Gärten, Parks und Außenanlagen  
+**Art der Marke:** Dreidimensionale Marke (Formmarke)
+**Eingetragen:** 22. Juni 2019
+**Inhaber:** Leichtenstein Gartenkultur Manufaktur GmbH
+**Vertreter beim EUIPO:** PA Dr. Volkmar Trautmann & Coll., Mannheim
+**Waren/Dienstleistungen:**
+- Klasse 20: Dekorationsgegenstände; kunstgewerbliche Waren aus Metall; Ziergegenstände für Innen- und Außenbereiche
+- Klasse 27: Dekorative Gegenstände für Gärten, Parks und Außenanlagen
 
 **Beschreibung der Marke:** Die Marke besteht aus der dreidimensionalen Gestaltung einer gusseisernen Rosenbluete in geöffnetem Zustand. Die Blüte weist 15 Blütenblätter in zwei übereinander angeordneten Lagen auf; die äußere Lage umfasst acht Blütenblätter, die innere sieben. Der Gesamtdurchmesser des Blütenkopfes beträgt 18,5 cm. Ein geschwungener Stielschaft (S-Form, Länge 42 cm) mit einer naturalistisch gestalteten Blattattrappe auf halber Höhe vervollständigt das Erscheinungsbild. Die Oberfläche weist eine charakteristische Patinierung in Schwarz-Anthrazit auf.
 
@@ -28,11 +28,11 @@ Das Schutzrechtsportfolio der Leichtenstein Gartenkultur Manufaktur GmbH umfasst
 
 ### 1.2 EU-Geschmacksmuster Community Design 008 412 661-0001
 
-**Art des Schutzrechts:** Eingetragenes EU-Geschmacksmuster  
-**Eingetragen:** 15. März 2018  
-**Schutzdauer:** Fünf Jahre ab Eintragung, verlängerbar bis 25 Jahre insgesamt  
-**Aktuell verlängert bis:** 15. März 2028  
-**Erzeugnis:** Gartendekoration (Klasse 11-01 Locarno-Klassifikation)  
+**Art des Schutzrechts:** Eingetragenes EU-Geschmacksmuster
+**Eingetragen:** 15. März 2018
+**Schutzdauer:** Fünf Jahre ab Eintragung, verlängerbar bis 25 Jahre insgesamt
+**Aktuell verlängert bis:** 15. März 2028
+**Erzeugnis:** Gartendekoration (Klasse 11-01 Locarno-Klassifikation)
 
 **Inhalt des Musters:** Das Geschmacksmuster schützt das Erscheinungsbild der Rosenbluete in der Draufsicht, der Seitenansicht und der Schrägansicht. Sieben Ansichten wurden beim EUIPO eingereicht (vgl. Anlage B-1: Ablichtungen der Eintragungsunterlagen).
 
@@ -42,25 +42,25 @@ Das Schutzrechtsportfolio der Leichtenstein Gartenkultur Manufaktur GmbH umfasst
 
 ### 1.3 Deutsche Marke DPMA 30 2026 011 442
 
-**Art der Marke:** Bildmarke (Grafische Darstellung der Rosenbluete)  
-**Angemeldet:** 05. Januar 2026  
-**Eingetragen:** 08. März 2026 (nach Ablauf der Widerspruchsfrist ohne Widerspruch)  
-**Waren/Dienstleistungen:** Klasse 20 (Dekorationsgegenstände), Klasse 27 (Gartendekorationen), Klasse 35 (Onlinehandelsdienstleistungen für Gartendeko)  
+**Art der Marke:** Bildmarke (Grafische Darstellung der Rosenbluete)
+**Angemeldet:** 05. Januar 2026
+**Eingetragen:** 08. März 2026 (nach Ablauf der Widerspruchsfrist ohne Widerspruch)
+**Waren/Dienstleistungen:** Klasse 20 (Dekorationsgegenstände), Klasse 27 (Gartendekorationen), Klasse 35 (Onlinehandelsdienstleistungen für Gartendeko)
 **Funktion:** Nationale Ergänzung zur EU-3D-Marke; eigenständiger Schutz für Deutschland, insbesondere relevant wenn EU-3D-Marke im Nichtigkeitsverfahren gefährdet sein sollte.
 
 ### 1.4 Deutsche Wortmarke DPMA 30 2018 044 781
 
-**Art der Marke:** Wortmarke „Leichtenstein Rosenbluete"  
-**Eingetragen:** 11. April 2018 (Verlängerung 2028 fällig)  
-**Waren/Dienstleistungen:** Klasse 20, Klasse 27  
+**Art der Marke:** Wortmarke „Leichtenstein Rosenbluete"
+**Eingetragen:** 11. April 2018 (Verlängerung 2028 fällig)
+**Waren/Dienstleistungen:** Klasse 20, Klasse 27
 **Funktion:** Firmenbezogene Wortmarke; relevant für Abmahnungen bei Nutzung des Namens ohne Genehmigung; ergänzt den Formmarkenschutz.
 
 ### 1.5 Angemeldetes Gebrauchsmuster (in Prüfung)
 
-**Art des Schutzrechts:** DE-Gebrauchsmuster  
-**Angemeldet:** 22. Februar 2026  
-**Aktenzeichen DPMA:** GM 20 2026 003 871.9  
-**Gegenstand:** Technische Befestigungskonstruktion des Stielschaftes der Rosenbluete (Bodenverankerung)  
+**Art des Schutzrechts:** DE-Gebrauchsmuster
+**Angemeldet:** 22. Februar 2026
+**Aktenzeichen DPMA:** GM 20 2026 003 871.9
+**Gegenstand:** Technische Befestigungskonstruktion des Stielschaftes der Rosenbluete (Bodenverankerung)
 **Status:** Prüfverfahren; Eintragung wird voraussichtlich bis Juli 2026 bekanntgemacht.
 
 ## 2. Schutzrechtsstatus — Zusammenfassung und Risikobewertung
@@ -101,6 +101,6 @@ Das EU-Geschmacksmuster (Prioritätsdatum 15. März 2018) genießt gegenüber de
 
 ---
 
-**Erstellt von:** PA Dr. Volkmar Trautmann  
-**Geprüft von:** RA Philipp Mertens-Waldhausen  
+**Erstellt von:** PA Dr. Volkmar Trautmann
+**Geprüft von:** RA Philipp Mertens-Waldhausen
 **Freigabe:** 17. April 2026

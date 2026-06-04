@@ -1,6 +1,6 @@
 # Aktenstück 11 — Tätigkeitsanalyse: Berufsbild Altenpflegerin
 
-**Zweck:** Nachweis des Berufsbilds für BU-Klage (LG Aachen 5 O 102/26)  
+**Zweck:** Nachweis des Berufsbilds für BU-Klage (LG Aachen 5 O 102/26)
 **Erstellt von:** Kanzlei Müller-Hauck, auf Basis der Tätigkeitsbeschreibung des Arbeitgebers St.-Antonius-Heim GmbH (Anlage K 4) und des Deutschen Qualifikationsrahmens für Pflegeberufe
 
 ---

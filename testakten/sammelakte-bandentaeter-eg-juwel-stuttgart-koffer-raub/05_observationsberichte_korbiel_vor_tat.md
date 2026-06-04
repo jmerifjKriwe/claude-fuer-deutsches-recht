@@ -1,9 +1,9 @@
 # Aktenstück 05 — Observationsberichte: 3 Wochen Vor-Tat-Observation Korbiel
 
-**Verfahren:** StA Stuttgart 4 Js 18.422/26  
-**Bearbeitung:** RA Dr. Magnus Schorlemmer  
-**Observationszeitraum:** 27.09.2025 bis 17.10.2025 (21 Tage)  
-**Observationsgrundlage:** § 163f StPO, Beschluss AG Stuttgart Az. 2025-1704 OBS vom 26.09.2025  
+**Verfahren:** StA Stuttgart 4 Js 18.422/26
+**Bearbeitung:** RA Dr. Magnus Schorlemmer
+**Observationszeitraum:** 27.09.2025 bis 17.10.2025 (21 Tage)
+**Observationsgrundlage:** § 163f StPO, Beschluss AG Stuttgart Az. 2025-1704 OBS vom 26.09.2025
 **Stand:** 23.01.2026
 
 ---

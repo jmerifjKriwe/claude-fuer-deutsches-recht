@@ -1,9 +1,9 @@
 # 01 Mandatsannahme — Kanzleigründung EFS Rechtsanwaltsgesellschaft mbH
 
-**Aktenzeichen:** KBH-2026-001-EFS  
-**Datum Erstgespräch:** 17. Februar 2026  
-**Sachbearbeiterin:** RA Monika Hellwig (Beratungskanzlei Hellwig & Partner, Köln)  
-**Mandanten:** Dr. Hilke Eckermann, Dr. Matthias Friedrich, Dr. Volker Sandhof  
+**Aktenzeichen:** KBH-2026-001-EFS
+**Datum Erstgespräch:** 17. Februar 2026
+**Sachbearbeiterin:** RA Monika Hellwig (Beratungskanzlei Hellwig & Partner, Köln)
+**Mandanten:** Dr. Hilke Eckermann, Dr. Matthias Friedrich, Dr. Volker Sandhof
 
 ---
 

@@ -1,16 +1,16 @@
 # E-Mail-Kette — RA Hoffmann mit HUK-Coburg und Allianz
 
-**Zeitraum:** 20.01.2026 bis 15.04.2026  
-**Parteien:** RA Sebastian Hoffmann (Hoffmann Verkehrsrecht) ↔ Julia Reichard (HUK-Coburg) ↔ Dr. Simone Kaltenberg (Allianz Prozessanwältin) ↔ Dipl.-Jur. Katharina Brunner (Allianz Schadenabt.)  
+**Zeitraum:** 20.01.2026 bis 15.04.2026
+**Parteien:** RA Sebastian Hoffmann (Hoffmann Verkehrsrecht) ↔ Julia Reichard (HUK-Coburg) ↔ Dr. Simone Kaltenberg (Allianz Prozessanwältin) ↔ Dipl.-Jur. Katharina Brunner (Allianz Schadenabt.)
 
 ---
 
 ## E-Mail 1: RA Hoffmann an HUK-Coburg, 20.01.2026
 
-**Von:** s.hoffmann@hoffmann-verkehrsrecht.de  
-**An:** j.reichard@huk-coburg.de  
-**Betreff:** Vollmacht Holger Tannenbruck — Schadennummer 40-300-2026-08841  
-**Datum:** 20.01.2026, 09:15 Uhr  
+**Von:** s.hoffmann@hoffmann-verkehrsrecht.de
+**An:** j.reichard@huk-coburg.de
+**Betreff:** Vollmacht Holger Tannenbruck — Schadennummer 40-300-2026-08841
+**Datum:** 20.01.2026, 09:15 Uhr
 
 Sehr geehrte Frau Reichard,
 
@@ -20,17 +20,17 @@ Ich bitte um vollständige Akteneinsicht in Ihre Schadensunterlagen nach § 242 
 
 Zur Beschleunigung: Sachverständigengutachten wird von Staatsanwaltschaft Hagen beauftragt; wir werden Ihnen das Ergebnis zukommen lassen.
 
-Mit freundlichen Grüßen  
-Sebastian Hoffmann  
+Mit freundlichen Grüßen
+Sebastian Hoffmann
 
 ---
 
 ## E-Mail 2: HUK-Coburg an RA Hoffmann, 26.01.2026
 
-**Von:** j.reichard@huk-coburg.de  
-**An:** s.hoffmann@hoffmann-verkehrsrecht.de  
-**Betreff:** AW: Vollmacht Holger Tannenbruck  
-**Datum:** 26.01.2026, 14:33 Uhr  
+**Von:** j.reichard@huk-coburg.de
+**An:** s.hoffmann@hoffmann-verkehrsrecht.de
+**Betreff:** AW: Vollmacht Holger Tannenbruck
+**Datum:** 26.01.2026, 14:33 Uhr
 
 Sehr geehrter Herr Rechtsanwalt Hoffmann,
 
@@ -40,19 +40,19 @@ Vorab: Wir gehen derzeit von 100%iger Haftung Ihres Mandanten aus. Wir werden vo
 
 Wegen § 28 VVG (grobe Fahrlässigkeit) behalten wir uns Leistungskürzung vor.
 
-Mit freundlichen Grüßen  
-Julia Reichard  
-Schadensachbearbeiterin Kraftfahrt-Haftpflicht  
-HUK-Coburg  
+Mit freundlichen Grüßen
+Julia Reichard
+Schadensachbearbeiterin Kraftfahrt-Haftpflicht
+HUK-Coburg
 
 ---
 
 ## E-Mail 3: RA Hoffmann an HUK-Coburg, 10.02.2026
 
-**Von:** s.hoffmann@hoffmann-verkehrsrecht.de  
-**An:** j.reichard@huk-coburg.de  
-**Betreff:** Replik auf Ihr Schreiben vom 26.01.2026 — Haftungsquote  
-**Datum:** 10.02.2026, 11:42 Uhr  
+**Von:** s.hoffmann@hoffmann-verkehrsrecht.de
+**An:** j.reichard@huk-coburg.de
+**Betreff:** Replik auf Ihr Schreiben vom 26.01.2026 — Haftungsquote
+**Datum:** 10.02.2026, 11:42 Uhr
 
 Sehr geehrte Frau Reichard,
 
@@ -64,18 +64,18 @@ Zur Deckungsfrage: § 81 Abs. 2 VVG sieht lediglich anteilige Kürzung bei grobe
 
 Ich erwarte bis 28.02.2026 eine qualifizierte Antwort.
 
-MfG  
-Sebastian Hoffmann  
+MfG
+Sebastian Hoffmann
 
 ---
 
 ## E-Mail 4: Allianz (Brunner) an RA Hoffmann, 20.02.2026
 
-**Von:** k.brunner@allianz.de  
-**An:** s.hoffmann@hoffmann-verkehrsrecht.de  
-**CC:** j.reichard@huk-coburg.de  
-**Betreff:** LG Hagen 4 O 211/26 — Vorläufige Einschätzung Allianz  
-**Datum:** 20.02.2026, 09:05 Uhr  
+**Von:** k.brunner@allianz.de
+**An:** s.hoffmann@hoffmann-verkehrsrecht.de
+**CC:** j.reichard@huk-coburg.de
+**Betreff:** LG Hagen 4 O 211/26 — Vorläufige Einschätzung Allianz
+**Datum:** 20.02.2026, 09:05 Uhr
 
 Sehr geehrter Herr Rechtsanwalt Hoffmann,
 
@@ -85,17 +85,17 @@ Wir sind bereit, unsere Position (50/50) im Lichte des Gutachtens auf 75/25 zugu
 
 Wir bitten um Rückmeldung bis 07.03.2026. Andernfalls ist die Klage beim LG Hagen nicht abzuwenden.
 
-Mit freundlichen Grüßen  
-Dipl.-Jur. Katharina Brunner  
+Mit freundlichen Grüßen
+Dipl.-Jur. Katharina Brunner
 
 ---
 
 ## E-Mail 5: RA Hoffmann an Allianz und HUK-Coburg, 28.02.2026
 
-**Von:** s.hoffmann@hoffmann-verkehrsrecht.de  
-**An:** k.brunner@allianz.de; j.reichard@huk-coburg.de  
-**Betreff:** Gemeinsame Regulierungsstrategie — Lösungsvorschlag  
-**Datum:** 28.02.2026, 17:19 Uhr  
+**Von:** s.hoffmann@hoffmann-verkehrsrecht.de
+**An:** k.brunner@allianz.de; j.reichard@huk-coburg.de
+**Betreff:** Gemeinsame Regulierungsstrategie — Lösungsvorschlag
+**Datum:** 28.02.2026, 17:19 Uhr
 
 Sehr geehrte Damen,
 
@@ -108,17 +108,17 @@ ich schlage folgendes Vorgehen vor:
 
 Ich bitte um Ihre Zustimmung bis 10.03.2026.
 
-MfG  
-Sebastian Hoffmann  
+MfG
+Sebastian Hoffmann
 
 ---
 
 ## E-Mail 6: HUK-Coburg an RA Hoffmann, 08.03.2026
 
-**Von:** j.reichard@huk-coburg.de  
-**An:** s.hoffmann@hoffmann-verkehrsrecht.de  
-**Betreff:** AW: Gemeinsame Regulierungsstrategie  
-**Datum:** 08.03.2026, 10:22 Uhr  
+**Von:** j.reichard@huk-coburg.de
+**An:** s.hoffmann@hoffmann-verkehrsrecht.de
+**Betreff:** AW: Gemeinsame Regulierungsstrategie
+**Datum:** 08.03.2026, 10:22 Uhr
 
 Sehr geehrter Herr Rechtsanwalt Hoffmann,
 
@@ -126,18 +126,18 @@ wir haben Ihren Vorschlag intern geprüft. Wir sind grundsätzlich bereit, 75 % 
 
 Die Rückgriffsquote gegenüber Tannenbruck (Ihr Punkt 4) werden wir intern noch prüfen. Wir kommen darauf zurück.
 
-Mit freundlichen Grüßen  
-Julia Reichard  
+Mit freundlichen Grüßen
+Julia Reichard
 
 ---
 
 ## E-Mail 7: Allianz (Dr. Kaltenberg, Prozessanwältin) an RA Hoffmann, 15.04.2026
 
-**Von:** s.kaltenberg@breuer-kaltenberg.de  
-**An:** s.hoffmann@hoffmann-verkehrsrecht.de  
-**CC:** j.reichard@huk-coburg.de  
-**Betreff:** LG Hagen 4 O 211/26 — Güterichterantrag  
-**Datum:** 15.04.2026, 15:55 Uhr  
+**Von:** s.kaltenberg@breuer-kaltenberg.de
+**An:** s.hoffmann@hoffmann-verkehrsrecht.de
+**CC:** j.reichard@huk-coburg.de
+**Betreff:** LG Hagen 4 O 211/26 — Güterichterantrag
+**Datum:** 15.04.2026, 15:55 Uhr
 
 Sehr geehrter Herr Rechtsanwalt Hoffmann,
 
@@ -147,9 +147,9 @@ Unsere Mandantin (Allianz) ist an einer außergerichtlichen Lösung auf Basis 75
 
 Ich sehe einer konstruktiven Sitzung entgegen.
 
-Mit freundlichen Grüßen  
-Dr. Simone Kaltenberg  
-Breuer & Kaltenberg Rechtsanwälte, Dortmund  
+Mit freundlichen Grüßen
+Dr. Simone Kaltenberg
+Breuer & Kaltenberg Rechtsanwälte, Dortmund
 
 ---
 

@@ -1,17 +1,17 @@
 # 22 — Strafanzeige gegen PowerNutrition GmbH: § 223 StGB Körperverletzung
 
-**Erstellt:** 20.04.2026  
-**Bearbeiter:** RA Prof. Dr. Markus Lentze  
+**Erstellt:** 20.04.2026
+**Bearbeiter:** RA Prof. Dr. Markus Lentze
 **AZ:** SU/DOPING/2026-001
 
 ---
 
 ## 1. Strafanzeige und Strafantrag (18.04.2026)
 
-**An:** Staatsanwaltschaft Memmingen  
-Lindauer Straße 4, 87700 Memmingen  
+**An:** Staatsanwaltschaft Memmingen
+Lindauer Straße 4, 87700 Memmingen
 
-**Von:** Kanzlei Lentze, Stopper & Partner  
+**Von:** Kanzlei Lentze, Stopper & Partner
 im Namen der Mandantin Selin Uvalkanat
 
 **Betreff:** Strafanzeige und Strafantrag nach § 158 StPO gegen PowerNutrition GmbH, Lindauer Straße 88, 87700 Memmingen, und deren Geschäftsführer Klaus-Dieter Maier und Susanne Baier

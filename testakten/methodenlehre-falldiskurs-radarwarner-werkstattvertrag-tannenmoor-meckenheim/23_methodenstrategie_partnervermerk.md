@@ -1,7 +1,7 @@
 # Partnervermerk — Methodenstrategie im Radarwarner-Komplex
 
-**Kanzlei:** Roosendaal & Birkenhainer, Bonn  
-**Bearbeiter:** RA Dr. Mark Roosendaal  
+**Kanzlei:** Roosendaal & Birkenhainer, Bonn
+**Bearbeiter:** RA Dr. Mark Roosendaal
 **Datum:** 07.05.2026, 18:40 Uhr
 
 ## Ausgangspunkt

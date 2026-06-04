@@ -1,7 +1,7 @@
 # 21 — Chronologie und Zeitachse aller Verfahren
 
-**Aktenzeichen intern:** VM-2026-GR-001  
-**Datum:** 20. April 2026 (Stand)  
+**Aktenzeichen intern:** VM-2026-GR-001
+**Datum:** 20. April 2026 (Stand)
 **Bearbeiter:** RA Tobias Fehrenbach
 
 ---

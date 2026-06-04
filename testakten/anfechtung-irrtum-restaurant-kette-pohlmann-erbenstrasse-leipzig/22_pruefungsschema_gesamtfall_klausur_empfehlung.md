@@ -1,7 +1,7 @@
 # Gesamtfall-Prüfungsschema und Klausurempfehlung — BGB AT Pohlmann / Erbenstraße Leipzig
 
-**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg  
-**Datum:** 20. Mai 2026  
+**Bearbeiter:** RA Dr. Heinrich Schweizer-Loberg
+**Datum:** 20. Mai 2026
 **Bezug:** Zusammenfassung und Klausur-Vorbereitung für `bgb-at-pruefer`; alle AT-Komplexe der Akte
 
 ---
@@ -120,10 +120,10 @@ Verjährungsbeginn gemäß § 199 BGB ist immer der **31.12.** des Jahres, nicht
 
 ---
 
-**Quellen (Gesamtakt):**  
-Dejure.org — BGB AT Volltext: https://dejure.org/gesetze/BGB  
-Bundesgerichtshof — Rechtsprechungsdatenbank: https://www.bundesgerichtshof.de  
-OpenJur — Freie Rechtsprechung: https://openjur.de  
-Palandt/Ellenberger BGB, 83. Aufl. 2024 — Standardkommentar  
-MüKoBGB, 9. Aufl. 2024 — Wissenschaftlicher Kommentar  
+**Quellen (Gesamtakt):**
+Dejure.org — BGB AT Volltext: https://dejure.org/gesetze/BGB
+Bundesgerichtshof — Rechtsprechungsdatenbank: https://www.bundesgerichtshof.de
+OpenJur — Freie Rechtsprechung: https://openjur.de
+Palandt/Ellenberger BGB, 83. Aufl. 2024 — Standardkommentar
+MüKoBGB, 9. Aufl. 2024 — Wissenschaftlicher Kommentar
 Brox/Walker, BGB Allgemeiner Teil, 47. Aufl. 2023 — Lehrbuch

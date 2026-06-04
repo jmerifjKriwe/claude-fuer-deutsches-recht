@@ -1,9 +1,9 @@
 # Akteneinsicht BGW/UKBW – Auswertungsbericht BK 3101
 
-**Aktenzeichen BGW:** BK 3101 / 261/26  
-**Erstellt:** 06.03.2026  
-**Erstellt durch:** RA Sonnemann nach Einsicht in UKBW-Verwaltungsakte (BGW-Bezirksverwaltung Leipzig, 05.03.2026)  
-**Einsichtsdatum:** 05.03.2026, BGW Bezirksverwaltung Leipzig, Lützner Straße 105  
+**Aktenzeichen BGW:** BK 3101 / 261/26
+**Erstellt:** 06.03.2026
+**Erstellt durch:** RA Sonnemann nach Einsicht in UKBW-Verwaltungsakte (BGW-Bezirksverwaltung Leipzig, 05.03.2026)
+**Einsichtsdatum:** 05.03.2026, BGW Bezirksverwaltung Leipzig, Lützner Straße 105
 
 ---
 
@@ -68,5 +68,5 @@ Der Bescheid vom 28.01.2026 (E1–E15) stützt sich auf das Gutachten Böhme (C1
 
 ---
 
-*Erstellt: RA Sonnemann, 06.03.2026*  
+*Erstellt: RA Sonnemann, 06.03.2026*
 *Kanzlei-AZ: SON-2026-0047-FEL*

@@ -1,7 +1,7 @@
 # 08 — LDD Workstream Real Estate
 
-**Datum:** 3.–28. November 2025  
-**Bearbeiter:** RA Dr. Claudia Hasenfratz (Immobilienrecht)  
+**Datum:** 3.–28. November 2025
+**Bearbeiter:** RA Dr. Claudia Hasenfratz (Immobilienrecht)
 **Workstream:** Real Estate / Immobilien
 
 ---

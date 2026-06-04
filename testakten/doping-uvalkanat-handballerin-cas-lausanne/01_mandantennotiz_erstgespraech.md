@@ -1,10 +1,10 @@
 # 01 — Kanzleinotiz: Erstgespräch Selin Uvalkanat, 07.03.2026
 
-**Kanzlei:** Lentze, Stopper & Partner, Rechtsanwälte und Fachanwälte, Kronenstraße 55, 70174 Stuttgart  
-**Bearbeiter:** RA Prof. Dr. Markus Lentze (federführend), RAin Sophie Wenderlich (Assoziation)  
-**Datum:** Samstag, 07.03.2026, 10:00–13:30 Uhr  
-**Ort:** Kanzleibüro Stuttgart, Besprechungsraum 2  
-**Anwesend:** Selin Uvalkanat (Mandantin), Ceyda Uvalkanat (Mutter, Dolmetscherin Türkisch/Deutsch), Prof. Dr. Lentze, RAin Wenderlich  
+**Kanzlei:** Lentze, Stopper & Partner, Rechtsanwälte und Fachanwälte, Kronenstraße 55, 70174 Stuttgart
+**Bearbeiter:** RA Prof. Dr. Markus Lentze (federführend), RAin Sophie Wenderlich (Assoziation)
+**Datum:** Samstag, 07.03.2026, 10:00–13:30 Uhr
+**Ort:** Kanzleibüro Stuttgart, Besprechungsraum 2
+**Anwesend:** Selin Uvalkanat (Mandantin), Ceyda Uvalkanat (Mutter, Dolmetscherin Türkisch/Deutsch), Prof. Dr. Lentze, RAin Wenderlich
 **AZ intern:** SU/DOPING/2026-001
 
 ---
@@ -74,7 +74,7 @@ Vereinbarung eines Stundensatzes von 380 EUR (Prof. Dr. Lentze) und 220 EUR (RAi
 
 ## 6. Unterschriften / Vollmacht
 
-Vollmacht unterzeichnet am 07.03.2026 um 13:15 Uhr in Stuttgart.  
+Vollmacht unterzeichnet am 07.03.2026 um 13:15 Uhr in Stuttgart.
 Lentze, Stopper & Partner, Notiz erstellt: RAin Sophie Wenderlich, 07.03.2026.
 
 ---

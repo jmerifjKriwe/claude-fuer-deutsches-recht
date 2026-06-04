@@ -1,10 +1,10 @@
 # 01 — Mandatsnotiz Erstgespräch (JVA Koeln-Ossendorf)
 
-**Vellbruck Strafverteidigung Koeln**  
-**Vertraulich — Anwaltsgeheimnis § 53 StPO, § 43a Abs. 2 BRAO**  
-Erstellt: Dr. Lia Vellbruck-Eisinger  
-Datum: 13. Mai 2026, 14:30 — 17:45 Uhr  
-Ort: JVA Koeln-Ossendorf, Rochusstrasse 350, 50827 Koeln, Anwaltszimmer Block C  
+**Vellbruck Strafverteidigung Koeln**
+**Vertraulich — Anwaltsgeheimnis § 53 StPO, § 43a Abs. 2 BRAO**
+Erstellt: Dr. Lia Vellbruck-Eisinger
+Datum: 13. Mai 2026, 14:30 — 17:45 Uhr
+Ort: JVA Koeln-Ossendorf, Rochusstrasse 350, 50827 Koeln, Anwaltszimmer Block C
 Anwesend: Mandant Dr. Carlsten Pellbach-Eisenacher; Verteidigerin
 
 ---
@@ -119,6 +119,6 @@ Mandant unterzeichnet Honorarvereinbarung nach RVG mit Mindestpauschale Vorverfa
 
 ---
 
-**Unterschrift:**  
-Dr. Lia Vellbruck-Eisinger, Fachanwältin für Strafrecht  
+**Unterschrift:**
+Dr. Lia Vellbruck-Eisinger, Fachanwältin für Strafrecht
 Vellbruck Strafverteidigung Koeln, Hahnenstrasse 22, 50667 Koeln

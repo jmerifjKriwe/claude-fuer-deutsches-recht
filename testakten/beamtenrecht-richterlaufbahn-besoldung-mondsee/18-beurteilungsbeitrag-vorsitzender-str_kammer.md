@@ -1,7 +1,7 @@
 # Beurteilungsbeitrag des Vorsitzenden der 8. Strafkammer
 
-**Aussteller:** Vorsitzender Richter am Landgericht Eberhard Hinterscheid  
-**Datum:** 14.02.2026  
+**Aussteller:** Vorsitzender Richter am Landgericht Eberhard Hinterscheid
+**Datum:** 14.02.2026
 **Status:** laut Personalakte nur als Entwurf enthalten
 
 ## Inhaltlicher Kern

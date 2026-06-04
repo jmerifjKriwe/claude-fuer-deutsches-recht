@@ -70,15 +70,15 @@ Zusätzlicher FRAND-Konflikt mit US-Schwesterfirma Vellbruck MedTech Inc. wegen 
 
 ## Themen-Index
 
-**Patent:** Aktenstücke 03, 04, 05, 11, 13, 14, 16, 20  
-**Marke:** Aktenstücke 06, 12  
-**Geschäftsgeheimnisse:** Aktenstücke 07, 20  
-**Design:** Aktenstück 08  
-**Zoll/Grenzbeschlagnahme:** Aktenstücke 09, 15  
-**FRAND:** Aktenstück 10  
-**Vergleich/Strategie:** Aktenstücke 17, 18, 22  
-**Kosten:** Aktenstück 19  
-**Chronologie:** Aktenstück 21  
+**Patent:** Aktenstücke 03, 04, 05, 11, 13, 14, 16, 20
+**Marke:** Aktenstücke 06, 12
+**Geschäftsgeheimnisse:** Aktenstücke 07, 20
+**Design:** Aktenstück 08
+**Zoll/Grenzbeschlagnahme:** Aktenstücke 09, 15
+**FRAND:** Aktenstück 10
+**Vergleich/Strategie:** Aktenstücke 17, 18, 22
+**Kosten:** Aktenstück 19
+**Chronologie:** Aktenstück 21
 **Gesamtstrategie:** Aktenstücke 01, 02, 12, 22
 
 ---

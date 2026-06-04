@@ -1,7 +1,7 @@
 # 13 — W&I-Versicherung: AIG vs. Liberty Mutual
 
-**Datum:** 12.–30. Januar 2026  
-**Bearbeiter:** RA Prof. Dr. Felix Mannfeldt; Broker: Marsh GmbH Frankfurt  
+**Datum:** 12.–30. Januar 2026
+**Bearbeiter:** RA Prof. Dr. Felix Mannfeldt; Broker: Marsh GmbH Frankfurt
 **Versicherer-Anfragen:** AIG Europe S.A. (Frankfurt), Liberty Mutual Insurance Europe SE (Hamburg)
 
 ---

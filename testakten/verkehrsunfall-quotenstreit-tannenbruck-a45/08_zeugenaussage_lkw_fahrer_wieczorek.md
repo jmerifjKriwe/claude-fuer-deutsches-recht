@@ -1,10 +1,10 @@
 # Zeugenaussage — Tomasz Wieczorek (LKW-Fahrer, Spedition Niermann)
 
-**Zeuge/Nebenbetroffener:** Tomasz Wieczorek, geb. 14.07.1979, polnischer Staatsangehöriger  
-**Anschrift (Arbeitgeber):** Spedition Niermann GmbH & Co. KG, Koblenzer Straße 89, 57072 Siegen  
-**Dolmetscher:** Piotr Maczewski (Polnisch-Deutsch), vereidigt, Frankfurt am Main  
-**Vernehmung:** Polizei, 12.01.2026 (Unfallstelle, 03:10 Uhr) + StA Hagen, 03.02.2026  
-**Rechtsstatus:** Zeuge und ggf. Beschuldigter (§ 1 StVO, § 315c StGB durch abruptes Bremsmanöver — geprüft)  
+**Zeuge/Nebenbetroffener:** Tomasz Wieczorek, geb. 14.07.1979, polnischer Staatsangehöriger
+**Anschrift (Arbeitgeber):** Spedition Niermann GmbH & Co. KG, Koblenzer Straße 89, 57072 Siegen
+**Dolmetscher:** Piotr Maczewski (Polnisch-Deutsch), vereidigt, Frankfurt am Main
+**Vernehmung:** Polizei, 12.01.2026 (Unfallstelle, 03:10 Uhr) + StA Hagen, 03.02.2026
+**Rechtsstatus:** Zeuge und ggf. Beschuldigter (§ 1 StVO, § 315c StGB durch abruptes Bremsmanöver — geprüft)
 
 ---
 
@@ -61,7 +61,7 @@ Die Auswertung des Digitaltachographen (Auftrag StA Hagen an KFZ-Sachverständig
 
 ### Für das Strafverfahren gegen Tannenbruck
 
-Die Tachographen-Auswertung zeigt: Wieczorek hat tatsächlich gebremst. Die Bremsung war keine extreme Notbremsung, aber eine merkliche Verlangsamung von 72 auf 42 km/h in 8 Sekunden. 
+Die Tachographen-Auswertung zeigt: Wieczorek hat tatsächlich gebremst. Die Bremsung war keine extreme Notbremsung, aber eine merkliche Verlangsamung von 72 auf 42 km/h in 8 Sekunden.
 
 - **Argument Verteidigung:** Der Bremsvorgang des LKW ist als mitursächlich für den Auffahrunfall zu werten. Bei einem nüchternen Fahrer mit ausreichendem Sicherheitsabstand wäre die Reaktion auf das Bremsmanöver möglicherweise noch erfolgreicher gewesen — aber dies schließt nicht aus, dass Wieczoreks Verhalten zur konkreten Kollision beigetragen hat.
 - **Gegenargument StA:** Selbst wenn der LKW bremste, hatte Tannenbruck aufgrund seiner Trunkenheit einen verlängerten Reaktionsweg und zu hohe Ausgangsgeschwindigkeit.
@@ -82,5 +82,5 @@ Die Aussage Wieczorek unterstützt die Verteidigungs-These der Mitverursachung �
 
 ---
 
-*Erste Vernehmung: Polizei 12.01.2026 (Dolmetscher Maczewski) — Zweite Vernehmung: StA Hagen 03.02.2026*  
+*Erste Vernehmung: Polizei 12.01.2026 (Dolmetscher Maczewski) — Zweite Vernehmung: StA Hagen 03.02.2026*
 *Akteneinsicht erhalten 07.02.2026 — Kanzlei Hoffmann Verkehrsrecht*

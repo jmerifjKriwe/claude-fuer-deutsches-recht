@@ -1,7 +1,7 @@
 # 19 — Earn-Out-Komponente und Escrow-Konstruktion
 
-**Datum:** Januar–Mai 2026  
-**Bearbeiter:** RA Prof. Dr. Felix Mannfeldt, RA Dr. Saskia Altenkamp  
+**Datum:** Januar–Mai 2026
+**Bearbeiter:** RA Prof. Dr. Felix Mannfeldt, RA Dr. Saskia Altenkamp
 **Escrow Agent:** DZ Privatbank S.A. Luxembourg
 
 ---

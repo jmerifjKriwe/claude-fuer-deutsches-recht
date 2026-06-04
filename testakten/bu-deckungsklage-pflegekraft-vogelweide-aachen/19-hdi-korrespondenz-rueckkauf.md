@@ -1,7 +1,7 @@
 # Aktenstück 19 — HDI Lebensversicherung: Korrespondenz Rückkauf
 
-**Mandantin:** Marion Vogelweide  
-**Vertragspartner:** HDI Lebensversicherung AG, HDI-Platz 1, 30659 Hannover  
+**Mandantin:** Marion Vogelweide
+**Vertragspartner:** HDI Lebensversicherung AG, HDI-Platz 1, 30659 Hannover
 **Vertragsnummer:** KLV-2003-HD-88340
 
 ---
@@ -25,7 +25,7 @@ Ich fordere Sie auf, folgendes darzulegen und zu belegen:
 
 Ich bitte um eine vollständige schriftliche Antwort bis zum **31.03.2026**.
 
-Mit freundlichen Grüßen  
+Mit freundlichen Grüßen
 Dr. Annegret Müller-Hauck, Fachanwältin für Versicherungsrecht
 
 ---
@@ -45,7 +45,7 @@ Gemäß § 7 Abs. 3 unserer AVB 2003 ist ein Stornoabzug von bis zu 4 % des Deck
 **Zur Rentenoption:**
 Die Rentenoption beläuft sich auf eine lebenslange Rente von 198 EUR monatlich ab vollendetem 60. Lebensjahr (Oktober 2034). Kalkulation basiert auf DAV 2004 R (Sterbetafeln für Rentenversicherungen), Kalkulationszins 0,9 %.
 
-Mit freundlichen Grüßen  
+Mit freundlichen Grüßen
 HDI Lebensversicherung AG, Bestandsservice
 
 ---

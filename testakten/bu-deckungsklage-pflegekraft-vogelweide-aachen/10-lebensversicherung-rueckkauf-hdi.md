@@ -1,13 +1,13 @@
 # Aktenstück 10 — Lebensversicherung HDI: Rückkaufswert-Analyse
 
-**Vertragspartner:** Marion Vogelweide  
-**Versicherer:** HDI Lebensversicherung AG, HDI-Platz 1, 30659 Hannover  
-**Vertragsnummer:** KLV-2003-HD-88340  
-**Vertragsbeginn:** 01.10.2003  
-**Laufzeit:** 30 Jahre (geplantes Ende: 30.09.2033)  
-**Versicherungssumme (bei Tod):** 90.000 EUR  
-**Todesfallsumme mit Überschussbeteiligung (zuletzt mitgeteilt):** 104.200 EUR  
-**Kapitaler Rückkaufswert (laut letzter Mitteilung HDI, Stand 01.01.2026):** 78.200 EUR  
+**Vertragspartner:** Marion Vogelweide
+**Versicherer:** HDI Lebensversicherung AG, HDI-Platz 1, 30659 Hannover
+**Vertragsnummer:** KLV-2003-HD-88340
+**Vertragsbeginn:** 01.10.2003
+**Laufzeit:** 30 Jahre (geplantes Ende: 30.09.2033)
+**Versicherungssumme (bei Tod):** 90.000 EUR
+**Todesfallsumme mit Überschussbeteiligung (zuletzt mitgeteilt):** 104.200 EUR
+**Kapitaler Rückkaufswert (laut letzter Mitteilung HDI, Stand 01.01.2026):** 78.200 EUR
 
 ---
 
@@ -35,8 +35,8 @@ Der BGH hatte bereits 2005 entschieden (IV ZR 162/03 und IV ZR 201/03), dass Kla
 
 ## Prüfung des HDI-Angebots
 
-**Eingezahlte Prämien (Schätzung):** 22 Jahre × 12 × 178 EUR ≈ 47.000 EUR  
-**Rückkaufswert-Angebot:** 78.200 EUR  
+**Eingezahlte Prämien (Schätzung):** 22 Jahre × 12 × 178 EUR ≈ 47.000 EUR
+**Rückkaufswert-Angebot:** 78.200 EUR
 **Verhältnis:** 166 % der eingezahlten Prämien — auf den ersten Blick akzeptabel.
 
 **Kritikpunkte:**

@@ -1,10 +1,10 @@
 # Aktenvorblatt — Marx Strafverteidigung Frankfurt
 
-**Kanzlei:** Marx Strafverteidigung Frankfurt  
-**Anwältin:** Dr. Friederike Marx, Fachanwältin für Strafrecht  
-**Anschrift:** Bockenheimer Landstraße 84, 60323 Frankfurt am Main  
-**Tel.:** 069 / 44 55 66 70  **Fax:** 069 / 44 55 66 79  
-**E-Mail:** marx@marx-strafverteidigung.de  
+**Kanzlei:** Marx Strafverteidigung Frankfurt
+**Anwältin:** Dr. Friederike Marx, Fachanwältin für Strafrecht
+**Anschrift:** Bockenheimer Landstraße 84, 60323 Frankfurt am Main
+**Tel.:** 069 / 44 55 66 70  **Fax:** 069 / 44 55 66 79
+**E-Mail:** marx@marx-strafverteidigung.de
 
 ---
 
@@ -83,7 +83,7 @@ Gesamt-Schadensvolumen gemäß Anklageschrift: **ca. 6.270.000 EUR**
 
 ## Bewertung Verteidigung (Dr. F. Marx, 12.05.2025)
 
-Die Sach- und Rechtslage ist komplex. Kernproblem des Betrugsvorwurfs ist die Frage der tatsächlichen Täuschungshandlung und des Kausalzusammenhangs zwischen den behaupteten falschen Angaben in den Angebotsdokumenten der Bankert Industrieautomation GmbH und den Kaufentscheidungen der ABC Großabnehmer SE. Die Zeugenaussagen Pollmann und Kohlrausch weisen erhebliche innere Widersprüche auf (vgl. Aktenstück 06, 07). 
+Die Sach- und Rechtslage ist komplex. Kernproblem des Betrugsvorwurfs ist die Frage der tatsächlichen Täuschungshandlung und des Kausalzusammenhangs zwischen den behaupteten falschen Angaben in den Angebotsdokumenten der Bankert Industrieautomation GmbH und den Kaufentscheidungen der ABC Großabnehmer SE. Die Zeugenaussagen Pollmann und Kohlrausch weisen erhebliche innere Widersprüche auf (vgl. Aktenstück 06, 07).
 
 Der Untreuevorwurf ist auf Grundlage der vorliegenden Akten wenig tragfähig; die Staatsanwaltschaft hat keine hinreichenden Belege für eine Pflichtwidrigkeit bei der Überweisung in den Liechtenstein-Trust vorgelegt (vgl. Treuhandvertrag, Anlage B14 der Akte).
 

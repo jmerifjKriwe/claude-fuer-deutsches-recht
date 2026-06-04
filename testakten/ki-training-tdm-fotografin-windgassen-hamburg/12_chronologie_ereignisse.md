@@ -1,6 +1,6 @@
 # Chronologie — Windgassen ./. ImagineArt Inc. und Begleitkonflikte
 
-**AZ intern:** 26-UMR-0084  
+**AZ intern:** 26-UMR-0084
 **Stand:** 25.01.2026
 
 ---

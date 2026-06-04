@@ -1,7 +1,7 @@
 # Aktenstück: Bearbeitungsrecht-Klärung — Lia Windgassen / Instagram-Collagen
 
-**AZ intern:** 26-UMR-0084 / Teilakte Mod-Erklärung  
-**Datum:** 21.01.2026  
+**AZ intern:** 26-UMR-0084 / Teilakte Mod-Erklärung
+**Datum:** 21.01.2026
 **Bearbeiterin:** Dr. Kreidler-Bremer
 
 ---

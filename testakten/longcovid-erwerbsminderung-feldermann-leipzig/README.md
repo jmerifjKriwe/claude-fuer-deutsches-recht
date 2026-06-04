@@ -15,21 +15,21 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Plugin:** `fachanwalt-sozialrecht`  
-**Branch:** `feat/v51.0.0-testakten-vollbestand`  
-**Erstellt:** Mai 2026  
-**Kanzlei-AZ:** SON-2026-0047-FEL  
+**Plugin:** `fachanwalt-sozialrecht`
+**Branch:** `feat/v51.0.0-testakten-vollbestand`
+**Erstellt:** Mai 2026
+**Kanzlei-AZ:** SON-2026-0047-FEL
 
 ---
 
 ## Mandantin
 
-**Vivian Feldermann**, geb. 03.09.1984  
-Gesundheits- und Krankenpflegerin (zuletzt UKL Leipzig, Hämato-Onkologie)  
-Bornaische Straße 78, 04277 Leipzig-Connewitz  
-Verheiratet, 2 Kinder (Liam 11, Marlene 8)  
+**Vivian Feldermann**, geb. 03.09.1984
+Gesundheits- und Krankenpflegerin (zuletzt UKL Leipzig, Hämato-Onkologie)
+Bornaische Straße 78, 04277 Leipzig-Connewitz
+Verheiratet, 2 Kinder (Liam 11, Marlene 8)
 
-**Erkrankung:** Schweres Long-Covid / ME/CFS nach beruflicher SARS-CoV-2-Infektion 11/2021 auf Covid-Isolierstation UKL Leipzig (POTS, Post-Exertional Malaise, brain fog, F33.1)  
+**Erkrankung:** Schweres Long-Covid / ME/CFS nach beruflicher SARS-CoV-2-Infektion 11/2021 auf Covid-Isolierstation UKL Leipzig (POTS, Post-Exertional Malaise, brain fog, F33.1)
 
 **Vertretung:** RA Marit Sonnemann, Fachanwältin für Sozialrecht, Kanzlei Sonnemann Sozialrecht Leipzig, Karl-Liebknecht-Straße 14, 04107 Leipzig
 

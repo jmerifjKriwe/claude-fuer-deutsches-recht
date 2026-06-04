@@ -1,9 +1,9 @@
 # PMI 100-Tage-Plan — Projekt Silberfalke
 
-**Aktenzeichen:** MA-2026-SF-001  
-**Erstellt:** 16.05.2026  
-**Verfasser:** PMI-Lead (Eagle Capital Partners)  
-**Adressat:** Eagle Investmentkomitee / Solaris Industries AG Management  
+**Aktenzeichen:** MA-2026-SF-001
+**Erstellt:** 16.05.2026
+**Verfasser:** PMI-Lead (Eagle Capital Partners)
+**Adressat:** Eagle Investmentkomitee / Solaris Industries AG Management
 **Status:** Entwurf — freigabe ausstehend
 
 ---

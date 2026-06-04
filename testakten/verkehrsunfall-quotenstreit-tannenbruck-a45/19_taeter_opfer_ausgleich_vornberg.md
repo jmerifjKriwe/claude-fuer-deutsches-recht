@@ -1,11 +1,11 @@
 # Täter-Opfer-Ausgleich — Helga Vornberg / Holger Tannenbruck
 
-**Vermittlungsstelle:** Waage e.V. — Gesellschaft für soziale Dienste, Hagen  
-**Sachbearbeiterin:** Soz.-Päd. Monika Hellbrügge  
-**Vermittlungs-Az.:** TOA-HA-2026-0089  
-**Datum des Erstgesprächs:** 12.03.2026  
-**Rechtsgrundlage:** § 46a Nr. 1 StGB, § 155a StPO  
-**Initiative:** RA Hoffmann (auf Wunsch des Mandanten)  
+**Vermittlungsstelle:** Waage e.V. — Gesellschaft für soziale Dienste, Hagen
+**Sachbearbeiterin:** Soz.-Päd. Monika Hellbrügge
+**Vermittlungs-Az.:** TOA-HA-2026-0089
+**Datum des Erstgesprächs:** 12.03.2026
+**Rechtsgrundlage:** § 46a Nr. 1 StGB, § 155a StPO
+**Initiative:** RA Hoffmann (auf Wunsch des Mandanten)
 
 ---
 
@@ -105,5 +105,5 @@ Der Täter-Opfer-Ausgleich ist gut verlaufen. Das Gespräch war authentisch, Vor
 
 ---
 
-*Protokoll Waage e.V. — Vermittlungsgespräch 02.04.2026*  
+*Protokoll Waage e.V. — Vermittlungsgespräch 02.04.2026*
 *Kopie erhalten Kanzlei Hoffmann Verkehrsrecht am 04.04.2026*

@@ -1,8 +1,8 @@
 # 15 — HinSchG-Meldung: Schwarzkasse bei Auslieferungsfahrten
 
-**Akte:** DWSP/2026/GR-4417  
-**Erstellt:** 29.04.2026  
-**Bearbeiter:** Prof. Dr. Wieland Drosselberg / RAin Kerstin Wegener  
+**Akte:** DWSP/2026/GR-4417
+**Erstellt:** 29.04.2026
+**Bearbeiter:** Prof. Dr. Wieland Drosselberg / RAin Kerstin Wegener
 
 ---
 
@@ -68,5 +68,5 @@ Wichtiger Hinweis: Der GF Heinrich-Eberhard Geisen hat nach eigenem Bekunden von
 
 ---
 
-*Erstellt: 29.04.2026 — Prof. Dr. Wieland Drosselberg / RAin Kerstin Wegener*  
+*Erstellt: 29.04.2026 — Prof. Dr. Wieland Drosselberg / RAin Kerstin Wegener*
 *Referenz: HinSchG (BGBl. 2023 I Nr. 140); § 370 AO (dejure.org/gesetze/AO/370.html); § 266 StGB*

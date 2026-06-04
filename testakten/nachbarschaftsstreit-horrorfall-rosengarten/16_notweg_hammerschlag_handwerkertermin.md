@@ -1,6 +1,6 @@
 # Vorgang: Notwegbehauptung, Hammerschlagsrecht und Handwerkertermin
 
-**Datum der Kanzleinotiz:** 09.09.2025  
+**Datum der Kanzleinotiz:** 09.09.2025
 **Auslöser:** E-Mail Kessler vom 06.09.2025, Telefonat mit Architekt Brettner am 08.09.2025
 
 ## Neuer Konflikt

@@ -1,9 +1,9 @@
 # Kanzleinotiz – Erstgespräch Mandantin Feldermann
 
-**Datum:**       17.02.2026, 14:30–16:45 Uhr  
-**Ort:**         Kanzlei Sonnemann Sozialrecht Leipzig, Karl-Liebknecht-Straße 14  
-**Anwesend:**    RA Marit Sonnemann; Vivian Feldermann (Mandantin); Marko Feldermann (Ehemann, nach ausdrücklicher Bitte der Mandantin anwesend)  
-**Protokoll:**   Frau Krüger (Kanzleisekretariat), stichpunktartig  
+**Datum:**       17.02.2026, 14:30–16:45 Uhr
+**Ort:**         Kanzlei Sonnemann Sozialrecht Leipzig, Karl-Liebknecht-Straße 14
+**Anwesend:**    RA Marit Sonnemann; Vivian Feldermann (Mandantin); Marko Feldermann (Ehemann, nach ausdrücklicher Bitte der Mandantin anwesend)
+**Protokoll:**   Frau Krüger (Kanzleisekretariat), stichpunktartig
 
 ---
 

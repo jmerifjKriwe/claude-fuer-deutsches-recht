@@ -1,7 +1,7 @@
 # 12 — IP-Kollisionsschlachtfeld: Gesamtübersicht aller Schutzrechte und Verfahren
 
-**Aktenzeichen intern:** VM-2026-GR-001  
-**Datum:** 15. März 2026  
+**Aktenzeichen intern:** VM-2026-GR-001
+**Datum:** 15. März 2026
 **Bearbeiter:** RA Dr. Birkenhainer / RA Fehrenbach
 
 ---

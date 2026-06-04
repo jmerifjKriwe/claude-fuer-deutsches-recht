@@ -1,31 +1,31 @@
 # Klageentwurf – LG Bremen ./. Sparkasse Bremen
 
-**Aktenzeichen LG Bremen:** 4 O 215/26  
+**Aktenzeichen LG Bremen:** 4 O 215/26
 
 ---
 
-**An das**  
-**Landgericht Bremen**  
-**– Zivilkammer 4 –**  
-Domsheide 16  
-28195 Bremen  
+**An das**
+**Landgericht Bremen**
+**– Zivilkammer 4 –**
+Domsheide 16
+28195 Bremen
 
-**Klägerin:**  
-Eva-Maria Wittfeldt, geb. 14.03.1962  
-Kiefernstraße 17, 28757 Bremen  
-– Klägerin –  
+**Klägerin:**
+Eva-Maria Wittfeldt, geb. 14.03.1962
+Kiefernstraße 17, 28757 Bremen
+– Klägerin –
 
-vertreten durch:  
-Rechtsanwalt Dr. Severin Pflüger  
-Fachanwalt für Bank- und Kapitalmarktrecht  
-Kanzlei Pflüger Schoeneberg Bankrecht  
-Am Markt 14, 28195 Bremen  
-Tel.: 0421 / 33 88 20-0; Fax: 0421 / 33 88 20-99  
+vertreten durch:
+Rechtsanwalt Dr. Severin Pflüger
+Fachanwalt für Bank- und Kapitalmarktrecht
+Kanzlei Pflüger Schoeneberg Bankrecht
+Am Markt 14, 28195 Bremen
+Tel.: 0421 / 33 88 20-0; Fax: 0421 / 33 88 20-99
 
-**Beklagte:**  
-Sparkasse Bremen, vertreten durch den Vorstand  
-Am Brill 1–3, 28195 Bremen  
-– Beklagte –  
+**Beklagte:**
+Sparkasse Bremen, vertreten durch den Vorstand
+Am Brill 1–3, 28195 Bremen
+– Beklagte –
 
 ---
 
@@ -55,9 +55,9 @@ Die Klägerin beantragt:
 
 ## II. Streitwert
 
-Antrag 1: 75.000,00 EUR  
-Antrag 2 (Feststellung): 71.380,00 EUR  
-Antrag 3 (Schufa): 7.138,00 EUR  
+Antrag 1: 75.000,00 EUR
+Antrag 2 (Feststellung): 71.380,00 EUR
+Antrag 3 (Schufa): 7.138,00 EUR
 **Gesamt: 153.518,00 EUR**
 
 ---
@@ -80,7 +80,7 @@ Am 07.01.2025 schloss die Klägerin mit der Beklagten einen Darlehensvertrag üb
 
 ### 4. Die Pflichtverletzungen der Beklagten
 
-**a) Verletzung der Warnpflicht:**  
+**a) Verletzung der Warnpflicht:**
 Bereits zum Zeitpunkt der Überweisung Nr. 4 (18.12.2024, 89.000 EUR) und spätestens zum Zeitpunkt der Darlehensauszahlung und der unmittelbar nachfolgenden Überweisung Nr. 5 (22./24.01.2025) lagen der Beklagten folgende Erkenntnisse vor:
 
 - Vier Auslandsüberweisungen in Drittstaaten in Höhe von insgesamt 227.500 EUR innerhalb von drei Monaten.
@@ -91,10 +91,10 @@ Nach BGH XI ZR 56/07 (NJW 2008, 2245) ist ein Kreditinstitut verpflichtet, den K
 
 Spätestens beim Abschluss des Darlehensvertrags am 07.01.2025 hätte die Beklagte im Rahmen der Kreditwürdigkeitsprüfung (§ 505a BGB) die vorangegangenen Überweisungen berücksichtigen und die Klägerin befragen müssen. Beides unterblieb.
 
-**b) Verletzung der KWG/GwG-Pflichten:**  
+**b) Verletzung der KWG/GwG-Pflichten:**
 Die Beklagte war nach § 25h KWG und § 43 GwG verpflichtet, verdächtige Transaktionsmuster zu überwachen und bei Verdacht auf Geldwäsche oder Betrug eine Verdachtsmeldung bei der FIU zu erstatten sowie ggf. die Ausführung der Überweisung zu verweigern. Beides unterblieb.
 
-**c) Unwirksamkeit der Kreditkündigung:**  
+**c) Unwirksamkeit der Kreditkündigung:**
 Die Kündigung des Darlehensvertrags vom 14.11.2025 (§ 490 Abs. 1 BGB) ist aus den in Aktenstück 12 dargestellten Gründen nach § 242 BGB unwirksam.
 
 ### 5. Schadensberechnung
@@ -136,8 +136,8 @@ Die Unwirksamkeit der Kündigung ergibt sich aus § 242 BGB (venire contra factu
 
 ---
 
-**Bremen, 30. April 2026**  
-**Rechtsanwalt Dr. Severin Pflüger**  
+**Bremen, 30. April 2026**
+**Rechtsanwalt Dr. Severin Pflüger**
 Fachanwalt für Bank- und Kapitalmarktrecht
 
 *(Entwurf – Einreichung nach Ablauf Frist 12.05.2026)*

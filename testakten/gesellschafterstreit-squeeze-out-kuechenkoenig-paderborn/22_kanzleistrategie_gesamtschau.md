@@ -1,8 +1,8 @@
 # 22 — Kanzleistrategie: Gesamtschau und Kommunikation Mandanten
 
-**Akte:** DWSP/2026/GR-4417  
-**Erstellt:** 10.05.2026  
-**Bearbeiter:** Prof. Dr. Wieland Drosselberg  
+**Akte:** DWSP/2026/GR-4417
+**Erstellt:** 10.05.2026
+**Bearbeiter:** Prof. Dr. Wieland Drosselberg
 
 ---
 

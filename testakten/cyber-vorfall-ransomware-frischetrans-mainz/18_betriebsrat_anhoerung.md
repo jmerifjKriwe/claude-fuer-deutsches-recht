@@ -1,26 +1,26 @@
 # Betriebsratsanhörung — Datenschutzpanne und IT-Vorfall
 
-**Aktenstück:** 18  
-**Datum:** 11.05.2026  
-**Ort:** Frischetrans Mittelrhein GmbH, Besprechungsraum 1, Binger Straße 142, Mainz  
-**Art:** Außerordentliche Betriebsratsanhörung (§ 102 BetrVG analog, § 87 BetrVG, § 75 BetrVG)  
+**Aktenstück:** 18
+**Datum:** 11.05.2026
+**Ort:** Frischetrans Mittelrhein GmbH, Besprechungsraum 1, Binger Straße 142, Mainz
+**Art:** Außerordentliche Betriebsratsanhörung (§ 102 BetrVG analog, § 87 BetrVG, § 75 BetrVG)
 **Protokoll erstellt durch:** Barbara Seifert (HR-Leiterin, protokollführend)
 
 ---
 
 ## 1. Teilnehmende
 
-**Arbeitgeberseite:**  
-- Theresia Wallbruck (Geschäftsführerin)  
-- Barbara Seifert (HR-Leiterin)  
-- RA Lukas Drosten (anwaltliche Begleitung, beratend)  
+**Arbeitgeberseite:**
+- Theresia Wallbruck (Geschäftsführerin)
+- Barbara Seifert (HR-Leiterin)
+- RA Lukas Drosten (anwaltliche Begleitung, beratend)
 - DSB Markus Feilke (Datenschutzbeauftragter, beratend)
 
-**Betriebsrat:**  
-- Klaus Hoffmann (BR-Vorsitzender)  
-- Sabine Meurer (Stellv. BR-Vorsitzende)  
-- Rainer Schäper (BR-Mitglied, Logistik)  
-- Fatma Yilmaz (BR-Mitglied, Verwaltung)  
+**Betriebsrat:**
+- Klaus Hoffmann (BR-Vorsitzender)
+- Sabine Meurer (Stellv. BR-Vorsitzende)
+- Rainer Schäper (BR-Mitglied, Logistik)
+- Fatma Yilmaz (BR-Mitglied, Verwaltung)
 - Werner Böckler (BR-Mitglied, Fahrer)
 
 ---
@@ -123,6 +123,6 @@ GF Wallbruck sicherte zu, diese Unterlagen dem Betriebsrat bis 18.05.2026 zugän
 
 *Protokoll genehmigt durch:*
 
-Klaus Hoffmann (BR-Vorsitzender): _______________  
-Theresia Wallbruck (Geschäftsführerin): _______________  
+Klaus Hoffmann (BR-Vorsitzender): _______________
+Theresia Wallbruck (Geschäftsführerin): _______________
 Datum: 11.05.2026

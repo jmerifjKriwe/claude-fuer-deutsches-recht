@@ -1,28 +1,28 @@
 # BNetzA-Bescheid vom 06.05.2026 – Wärmeleitung Öffentlicher Straßenraum
 
-**Aktenzeichen BNetzA:** 8615-EnW/0193/2026  
-**Internes Aktenzeichen:** SWK/ENR/2024-047-BNetzA  
-**Posteingang SWKK:** 08.05.2026  
-**Frist BNetzA-Stellungnahme:** 08.06.2026 (4 Wochen ab Zugang)  
+**Aktenzeichen BNetzA:** 8615-EnW/0193/2026
+**Internes Aktenzeichen:** SWK/ENR/2024-047-BNetzA
+**Posteingang SWKK:** 08.05.2026
+**Frist BNetzA-Stellungnahme:** 08.06.2026 (4 Wochen ab Zugang)
 
 ---
 
 ## 1. Volltext Bescheid (Wiedergabe)
 
-> **Bundesnetzagentur**  
-> Tulpenfeld 4 · 53113 Bonn  
-> Tel. 0228 / 14-0 · info@bundesnetzagentur.de  
-> www.bundesnetzagentur.de  
-> Referat E1 – Energieversorgungsnetze  
+> **Bundesnetzagentur**
+> Tulpenfeld 4 · 53113 Bonn
+> Tel. 0228 / 14-0 · info@bundesnetzagentur.de
+> www.bundesnetzagentur.de
+> Referat E1 – Energieversorgungsnetze
 
-> **An:**  
-> Stadtwerke Klotzkette AG  
-> Bahnhofstraße 12  
-> 59348 Lüdinghausen  
+> **An:**
+> Stadtwerke Klotzkette AG
+> Bahnhofstraße 12
+> 59348 Lüdinghausen
 
-> **Bescheid**  
-> Aktenzeichen: 8615-EnW/0193/2026  
-> Datum: 6. Mai 2026  
+> **Bescheid**
+> Aktenzeichen: 8615-EnW/0193/2026
+> Datum: 6. Mai 2026
 
 > **Betreff: Prüfung der Anzeige nach § 49 Abs. 4 EnWG – Nahwärmenetz Quartier Hafenbogen, Lüdinghausen; Anforderung ergänzender Unterlagen**
 
@@ -44,8 +44,8 @@
 
 > Mit freundlichen Grüßen
 
-> **Dr. Ursula Kammerath**  
-> Referatsleiterin E1  
+> **Dr. Ursula Kammerath**
+> Referatsleiterin E1
 > Bundesnetzagentur
 
 ---

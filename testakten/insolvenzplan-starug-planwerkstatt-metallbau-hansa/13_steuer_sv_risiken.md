@@ -1,9 +1,9 @@
 # Steuer- und Sozialversicherungsrisiken im Restrukturierungsverfahren
 
-**Aktenzeichen:** MH-2026-001  
-**Datum:** 9. Juni 2026  
-**Verfasser:** StB Axel Dresen, Dresen & Partner GmbH WPG, Hamburg; ergänzt durch RA Dr. K. Westphal  
-**Status:** Arbeitsfassung für Sanierungsplanung  
+**Aktenzeichen:** MH-2026-001
+**Datum:** 9. Juni 2026
+**Verfasser:** StB Axel Dresen, Dresen & Partner GmbH WPG, Hamburg; ergänzt durch RA Dr. K. Westphal
+**Status:** Arbeitsfassung für Sanierungsplanung
 
 ---
 

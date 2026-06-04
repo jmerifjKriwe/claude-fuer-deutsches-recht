@@ -1,8 +1,8 @@
 # 08 Zulassung nach § 59n BRAO — RAK Aachen
 
-**Aktenzeichen:** KBH-2026-001-EFS  
-**Stand:** 10. April 2026  
-**Bearbeiterin:** RA Monika Hellwig  
+**Aktenzeichen:** KBH-2026-001-EFS
+**Stand:** 10. April 2026
+**Bearbeiterin:** RA Monika Hellwig
 
 ---
 

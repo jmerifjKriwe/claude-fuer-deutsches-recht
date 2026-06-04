@@ -1,8 +1,8 @@
 # Aktenstück: Sekundäre Darlegungslast — Felix Windgassen, 14 Jahre
 
-**AZ intern:** 26-UMR-0084 / Teilakte Filesharing  
-**Datum:** 23.01.2026  
-**Bearbeiterin:** Dr. Kreidler-Bremer  
+**AZ intern:** 26-UMR-0084 / Teilakte Filesharing
+**Datum:** 23.01.2026
+**Bearbeiterin:** Dr. Kreidler-Bremer
 **Hintergrund:** Telefonat mit Mira Windgassen 23.01.2026, 16:40 Uhr
 
 ---

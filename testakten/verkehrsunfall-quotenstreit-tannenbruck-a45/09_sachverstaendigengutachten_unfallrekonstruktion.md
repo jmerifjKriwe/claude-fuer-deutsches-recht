@@ -1,12 +1,12 @@
 # Sachverständigengutachten — Unfallrekonstruktion BAB A45
 
-**Sachverständiger:** Dipl.-Ing. Klaus Rennsteig  
-**Büro:** Büro für Fahrzeugtechnik und Unfallanalyse Rennsteig, Elberfelder Straße 44, 58095 Hagen  
-**Zulassung:** Öffentlich bestellter und vereidigter Sachverständiger (IHK Hagen) für Kraftfahrzeugschäden und Unfallrekonstruktion  
-**Gutachten-Nr.:** SV-2026-A45-0184  
-**Auftraggeber:** Staatsanwaltschaft Hagen, Az. 83 Js 7411/26; ergänzend: RA Hoffmann für Zivilverfahren LG Hagen 4 O 211/26  
-**Datum der Ortsbesichtigung:** 19.01.2026  
-**Datum des Gutachtens:** 14.02.2026  
+**Sachverständiger:** Dipl.-Ing. Klaus Rennsteig
+**Büro:** Büro für Fahrzeugtechnik und Unfallanalyse Rennsteig, Elberfelder Straße 44, 58095 Hagen
+**Zulassung:** Öffentlich bestellter und vereidigter Sachverständiger (IHK Hagen) für Kraftfahrzeugschäden und Unfallrekonstruktion
+**Gutachten-Nr.:** SV-2026-A45-0184
+**Auftraggeber:** Staatsanwaltschaft Hagen, Az. 83 Js 7411/26; ergänzend: RA Hoffmann für Zivilverfahren LG Hagen 4 O 211/26
+**Datum der Ortsbesichtigung:** 19.01.2026
+**Datum des Gutachtens:** 14.02.2026
 
 ---
 
@@ -149,8 +149,8 @@ Die Auswertung des Passat-Steuergeräts (ESP-Daten, 5 Sek. vor Aufprall) zeigt:
 
 ---
 
-Dipl.-Ing. Klaus Rennsteig  
-Öffentlich bestellter und vereidigter Sachverständiger  
+Dipl.-Ing. Klaus Rennsteig
+Öffentlich bestellter und vereidigter Sachverständiger
 Hagen, 14. Februar 2026
 
 ---

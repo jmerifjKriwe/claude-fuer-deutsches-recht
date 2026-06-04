@@ -1,8 +1,8 @@
 # Fristenübersicht – Akte Feldermann
 
-**Kanzlei-AZ:** SON-2026-0047-FEL  
-**Stand:** 10.03.2026  
-**Verantwortlich:** RA Sonnemann / Krüger (Fristenkontrolle)  
+**Kanzlei-AZ:** SON-2026-0047-FEL
+**Stand:** 10.03.2026
+**Verantwortlich:** RA Sonnemann / Krüger (Fristenkontrolle)
 
 ---
 
@@ -93,5 +93,5 @@ Mai 2026
 
 ---
 
-*Stand: 10.03.2026 – RA Sonnemann*  
+*Stand: 10.03.2026 – RA Sonnemann*
 *Nächste Aktualisierung: 17.03.2026 (Kanzleitermin)*

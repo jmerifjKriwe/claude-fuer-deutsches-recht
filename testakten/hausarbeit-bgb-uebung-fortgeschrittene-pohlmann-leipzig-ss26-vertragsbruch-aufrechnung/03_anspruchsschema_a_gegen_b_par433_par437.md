@@ -1,6 +1,6 @@
 # 03 — Anspruchsschema: A gegen B (§ 433 Abs. 2, §§ 280, 286, 437 BGB)
 
-**Bearbeiter:** Konrad Pohlmann  
+**Bearbeiter:** Konrad Pohlmann
 **Stand:** 17.04.2026 (Gliederungsentwurf, noch nicht ausgearbeitet)
 
 ---

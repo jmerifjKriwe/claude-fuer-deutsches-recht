@@ -1,8 +1,8 @@
 # 19 — Gegengutachten: IDW S 1 Peer-Review und Methodenrügen
 
-**Akte:** DWSP/2026/GR-4417  
-**Erstellt:** 07.05.2026  
-**Bearbeiter:** Prof. Dr. Wieland Drosselberg / WP Dr. Norbert Heidekämper  
+**Akte:** DWSP/2026/GR-4417
+**Erstellt:** 07.05.2026
+**Bearbeiter:** Prof. Dr. Wieland Drosselberg / WP Dr. Norbert Heidekämper
 
 ---
 
@@ -16,27 +16,27 @@ Die Kanzlei der Wittmann Family Holding KG (Brandt, Diekmann & Lüke Rechtsanwä
 
 ### 2.1 Basiszinssatz
 
-**Wittmann-Gutachten:** Basiszinssatz 3,5 % (Bundesbank-Daten Januar 2026)  
+**Wittmann-Gutachten:** Basiszinssatz 3,5 % (Bundesbank-Daten Januar 2026)
 **Kritik:** Der maßgebliche Stichtag ist der 14.04.2026 (Gesellschafterversammlung). Die Bundesbank-Veröffentlichung für April 2026 weist einen Basiszinssatz von 2,45 % aus. Das Wittmann-Gutachten hat einen zu alten Basiszinssatz verwendet und damit den Kapitalisierungszinssatz um ca. 1 Prozentpunkt überhöht. Dies allein reduziert den Ertragswert mechanisch um ca. 15 % gegenüber dem korrekten Ansatz.
 
 ### 2.2 Marktrisikoprämie
 
-**Wittmann-Gutachten:** Marktrisikoprämie 8,0 % (oberes Ende der IDW-FAUB-Bandbreite)  
+**Wittmann-Gutachten:** Marktrisikoprämie 8,0 % (oberes Ende der IDW-FAUB-Bandbreite)
 **Kritik:** Die IDW-FAUB-Empfehlung lautete auch im April 2026 auf eine Bandbreite von 6,5–8,0 % mit dem Schwerpunkt bei 7,0 %. Die Wahl des oberen Endes ohne besondere Begründung verletzt das Grundgebot der Objektivität nach IDW S 1 Rz. 89 ff. Ein unparteiischer Gutachter hätte 7,0 % (Mitte) oder 7,5 % (konservative Mitte) angesetzt.
 
 ### 2.3 Betafaktor
 
-**Wittmann-Gutachten:** Beta (unverschuldet) 1,15 (Begründung: „erhöhtes Klumpenrisiko durch Paderborner Marktkonzentration und Polska-Anlaufverluste")  
+**Wittmann-Gutachten:** Beta (unverschuldet) 1,15 (Begründung: „erhöhtes Klumpenrisiko durch Paderborner Marktkonzentration und Polska-Anlaufverluste")
 **Kritik:** Die Polska-Anlaufverluste sind beim IDW S 1 korrekt als einmalige, außerordentliche Ereignisse aus der Ertragsnormalisierung herauszuhalten (IDW S 1 Rz. 66 ff.). Sie erhöhen nicht dauerhaft das Betarisiko. Der Klumpenrisiko-Zuschlag ist durch keine Peer-Group-Daten belegt. WP Heidekämper hält einen Beta-Wert von 0,90 (unverschuldet) für sachgerechter.
 
 ### 2.4 Wachstumsabschlag
 
-**Wittmann-Gutachten:** Wachstumsabschlag g = 0,5 %  
+**Wittmann-Gutachten:** Wachstumsabschlag g = 0,5 %
 **Kritik:** Das Unternehmen hat über 5 Jahre ein Umsatz-CAGR von 9,2 % erzielt; selbst unter konservativen Annahmen (Marktsättigung, Konjunkturzyklen) ist ein Nominalwachstum von mindestens 1,5 % für einen Premiumhersteller in einem strukturell wachsenden Segment (gehobene Massivholzküchen) belegt. Ein Wachstumsabschlag von 0,5 % impliziert reale Schrumpfung und ist nicht marktgerecht.
 
 ### 2.5 Planungsansätze
 
-**Wittmann-Gutachten:** Umsatzplanung 2026: 22,0 Mio. EUR (Rückgang gegenüber 2025: 24,5 Mio. EUR)  
+**Wittmann-Gutachten:** Umsatzplanung 2026: 22,0 Mio. EUR (Rückgang gegenüber 2025: 24,5 Mio. EUR)
 **Kritik:** Der Auftragsbestand der Gesellschaft per April 2026 beträgt nach Auskunft des GF bereits 8,1 Mio. EUR (ca. 8 Monate Auftragssicherheit). Ein Umsatzrückgang auf 22 Mio. EUR ist angesichts der Warteliste von 14 Monaten unrealistisch. Das Wittmann-Gutachten hat offensichtlich die operativen Kennzahlen nicht hinreichend geprüft.
 
 ---
@@ -73,5 +73,5 @@ Das Gutachtenspektrum (6,1 bis 9,8 Mio. EUR) definiert den Verhandlungskorridor.
 
 ---
 
-*Erstellt: 07.05.2026 — Prof. Dr. Wieland Drosselberg*  
+*Erstellt: 07.05.2026 — Prof. Dr. Wieland Drosselberg*
 *Referenz: IDW S 1 i.d.F. 2008; IDW-FAUB-Stellungnahme 2024; BGH BGHZ 116, 359*

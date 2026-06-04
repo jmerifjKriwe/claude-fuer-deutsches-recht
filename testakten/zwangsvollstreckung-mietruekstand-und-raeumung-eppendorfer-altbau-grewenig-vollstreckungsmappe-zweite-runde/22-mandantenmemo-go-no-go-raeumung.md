@@ -1,9 +1,9 @@
 # 22 Mandantenmemo — Go / No-Go Raeumung März 2026
 
-**Akte:** MR-2026-ZV-0188  
-**An:** Frau Anneliese Grewenig-Birkenhainer, GF Grewenig Immobilien Verwaltung GmbH  
-**Von:** RA Dr. Roosendaal-Eichmueller, Schwingenstein Roosendaal Partner mbB  
-**Datum:** 14.02.2026  
+**Akte:** MR-2026-ZV-0188
+**An:** Frau Anneliese Grewenig-Birkenhainer, GF Grewenig Immobilien Verwaltung GmbH
+**Von:** RA Dr. Roosendaal-Eichmueller, Schwingenstein Roosendaal Partner mbB
+**Datum:** 14.02.2026
 **Betreff:** Entscheidungsvorlage: Raeumung Eppendorfer Weg 188 1. OG links — März 2026
 
 ---

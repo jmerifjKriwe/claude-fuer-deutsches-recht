@@ -1,7 +1,7 @@
 # 11 — SPA-Strukturierung: Locked-Box vs. Closing-Accounts-Mechanismus
 
-**Datum:** 10.–20. Dezember 2025  
-**Bearbeiter:** RA Prof. Dr. Felix Mannfeldt, RA Dr. Saskia Altenkamp  
+**Datum:** 10.–20. Dezember 2025
+**Bearbeiter:** RA Prof. Dr. Felix Mannfeldt, RA Dr. Saskia Altenkamp
 **Gegenpartei-Berater:** Hecker, Bohn & Noll (Muenchen) für FraktoMedis SE
 
 ---

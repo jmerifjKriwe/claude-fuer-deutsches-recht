@@ -1,7 +1,7 @@
 # 04 — LDD Workstream Corporate
 
-**Datum:** 3.–28. November 2025  
-**Bearbeiter:** RA Prof. Dr. Felix Mannfeldt, RA Julius Ravensberg  
+**Datum:** 3.–28. November 2025
+**Bearbeiter:** RA Prof. Dr. Felix Mannfeldt, RA Julius Ravensberg
 **Workstream:** Corporate / Gesellschaftsrecht
 
 ---

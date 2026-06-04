@@ -1,27 +1,27 @@
 # Netzanschlussangebot – Antwortschreiben Netzgesellschaft Westfalen GmbH
 
-> **Netzgesellschaft Westfalen GmbH**  
-> Lippstädter Str. 120 · 59555 Lippstadt  
-> Tel. 02941 / 66 20-0 · netzanschluss@ngw.de  
-> HRB 11450, AG Paderborn · USt-IdNr. DE 800 221 334  
+> **Netzgesellschaft Westfalen GmbH**
+> Lippstädter Str. 120 · 59555 Lippstadt
+> Tel. 02941 / 66 20-0 · netzanschluss@ngw.de
+> HRB 11450, AG Paderborn · USt-IdNr. DE 800 221 334
 > Geschäftsführung: Dipl.-Ing. Franz-Josef Althoff, LL.M. Barbara Wendelken
 
 ---
 
-**An:**  
-Stadtwerke Klotzkette AG  
-z. Hd. Dr. Gerda Wohlfahrt / Dipl.-Ing. Heinrich Seltmann  
-Bahnhofstraße 12  
-59348 Lüdinghausen  
+**An:**
+Stadtwerke Klotzkette AG
+z. Hd. Dr. Gerda Wohlfahrt / Dipl.-Ing. Heinrich Seltmann
+Bahnhofstraße 12
+59348 Lüdinghausen
 
-**Ihr Zeichen:** SWKK/NET/2024-114  
-**Unser Zeichen:** NGW/NANS/2025-0038  
-**Datum:** 7. Januar 2025  
+**Ihr Zeichen:** SWKK/NET/2024-114
+**Unser Zeichen:** NGW/NANS/2025-0038
+**Datum:** 7. Januar 2025
 **Betreff: Netzanschlussangebot Mittelspannung 20 kV – Neubauquartier Hafenbogen, Lüdinghausen – Ihr Netzanschlussbegehren vom 14.11.2024**
 
 ---
 
-Sehr geehrte Frau Dr. Wohlfahrt,  
+Sehr geehrte Frau Dr. Wohlfahrt,
 sehr geehrter Herr Seltmann,
 
 vielen Dank für Ihr Netzanschlussbegehren vom 14. November 2024 sowie die beigefügten Unterlagen. Wir haben das Begehren geprüft und unterbreiten Ihnen hiermit gemäß § 18 Abs. 2 EnWG unser Anschlussangebot.
@@ -109,13 +109,13 @@ Die von der SWKK zu errichtende Hausübergabe­station muss folgende Anforderung
 
 Für Rückfragen stehen Ihnen unsere Ansprechpartner im Fach­bereich Netzanschluss zur Verfügung:
 
-**Dipl.-Ing. Rolf Kasparek**, Projektleiter Netzanschluss  
+**Dipl.-Ing. Rolf Kasparek**, Projektleiter Netzanschluss
 Tel. 02941 / 66 20-234 · r.kasparek@ngw.de
 
 Mit freundlichen Grüßen
 
-**Barbara Wendelken**  
-Geschäftsführerin  
+**Barbara Wendelken**
+Geschäftsführerin
 Netzgesellschaft Westfalen GmbH
 
 *Lippstadt, den 7. Januar 2025*

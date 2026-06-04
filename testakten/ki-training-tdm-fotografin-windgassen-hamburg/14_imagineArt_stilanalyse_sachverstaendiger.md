@@ -1,8 +1,8 @@
 # Sachverständigen-Anfrage: Stilmimikry und Kompositionsvergleich — Windgassen / ImagineArt Pro
 
-**AZ intern:** 26-UMR-0084 / Teilakte ImagineArt  
-**Datum:** 24.01.2026  
-**Von:** Dr. Kreidler-Bremer  
+**AZ intern:** 26-UMR-0084 / Teilakte ImagineArt
+**Datum:** 24.01.2026
+**Von:** Dr. Kreidler-Bremer
 **An:** Prof. Dr. Katrin Felber, Professur für Fotografie und Bildwissenschaft, HfbK Hamburg
 
 ---

@@ -1,7 +1,7 @@
 # 20 — Conditions Precedent und Closing-Vorbereitung
 
-**Datum:** April–Juli 2026  
-**Bearbeiter:** RA Prof. Dr. Felix Mannfeldt, RA Dr. Saskia Altenkamp  
+**Datum:** April–Juli 2026
+**Bearbeiter:** RA Prof. Dr. Felix Mannfeldt, RA Dr. Saskia Altenkamp
 **Notar:** Dr. Veronika Geilenkirchen (Frankfurt am Main)
 
 ---

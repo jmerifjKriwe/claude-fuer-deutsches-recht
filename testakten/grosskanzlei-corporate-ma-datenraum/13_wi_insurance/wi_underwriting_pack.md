@@ -1,9 +1,9 @@
 # W&I-Versicherungs-Memo — Projekt Silberfalke
 
-**Aktenzeichen:** MA-2026-SF-001  
-**Erstellt:** 15.05.2026  
-**Verfasser:** Counsel B (M&A-Gruppe)  
-**Adressat:** Eagle Capital Partners / BlueSky Re (Underwriter)  
+**Aktenzeichen:** MA-2026-SF-001
+**Erstellt:** 15.05.2026
+**Verfasser:** Counsel B (M&A-Gruppe)
+**Adressat:** Eagle Capital Partners / BlueSky Re (Underwriter)
 **Status:** Underwriting-Phase — intern
 
 ---
@@ -107,21 +107,21 @@ Steuerliche Risiken werden standardmäßig aus der W&I-Policy ausgeschlossen und
 
 ## 7. Empfehlungen an Eagle
 
-1. Delta-Service-Risiko nicht in W&I, sondern über separaten **Escrow-Topf** (EUR 2 Mio., 24 Monate) absichern  
-2. ITAR-Clearance vor Underwriting Call vorlegen  
-3. KI-DD-Transparenzlog vollständig an Underwriter übergeben (Anlage AV-KI-2026-001)  
-4. Tax DD abschließen, damit kein vollständiger Steuerausschluss nötig ist  
-5. Underwriting Pack bis 30.05.2026 fertigstellen  
+1. Delta-Service-Risiko nicht in W&I, sondern über separaten **Escrow-Topf** (EUR 2 Mio., 24 Monate) absichern
+2. ITAR-Clearance vor Underwriting Call vorlegen
+3. KI-DD-Transparenzlog vollständig an Underwriter übergeben (Anlage AV-KI-2026-001)
+4. Tax DD abschließen, damit kein vollständiger Steuerausschluss nötig ist
+5. Underwriting Pack bis 30.05.2026 fertigstellen
 
 ---
 
 ## Anlagen
 
-- Anlage 1: DD Scope Memo v. 10.05.2026  
-- Anlage 2: Red Flag Report v. 08.05.2026  
-- Anlage 3: KI-DD Transparenzlog (AV-KI-2026-001)  
-- Anlage 4: Q&A Register (Auszug Top-50)  
-- Anlage 5: Underwriting Call Agenda  
+- Anlage 1: DD Scope Memo v. 10.05.2026
+- Anlage 2: Red Flag Report v. 08.05.2026
+- Anlage 3: KI-DD Transparenzlog (AV-KI-2026-001)
+- Anlage 4: Q&A Register (Auszug Top-50)
+- Anlage 5: Underwriting Call Agenda
 
 ---
 
