@@ -1,47 +1,107 @@
 ---
-name: space-003-haftungsuebereinkommen-absoluter-bodenschaden-und-vers
-description: "Weltraumrecht: Haftungsübereinkommen absoluter Bodenschaden und Verschuldenshaftung im All mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: space-003-haftungsuebereinkommen-absoluter-bodenschaden-und-ver
+description: "Liability Convention 1972 – Art. II–V: Gefährdungshaftung am Boden, Verschuldenshaftung im Weltraum, Anspruchsverfahren."
 ---
 
-# Weltraumrecht: Haftungsübereinkommen absoluter Bodenschaden und Verschuldenshaftung im All
+# Weltraumrecht: Haftungsübereinkommen: Absoluter Bodenschaden und Verschuldenshaftung im All
 
-## Aufgabe
+## Aufgabe und Einsatzbereich
 
-Dieser Skill bearbeitet **Haftungsübereinkommen absoluter Bodenschaden und Verschuldenshaftung im All** im Bereich **Weltraumrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Dieser Skill bearbeitet **Haftungsübereinkommen: Absoluter Bodenschaden und Verschuldenshaftung im All** im Bereich Weltraumrecht. Er strukturiert die praktische Lage, prüft einschlägige Normen des internationalen und nationalen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
+
+## Thematischer Kontext
+
+- Liability Convention 1972 (LIAB) – duales Haftungsregime
+- Art. II: Absolute Haftung für Bodenschäden (verschuldensunabhängig)
+- Art. III: Verschuldenshaftung für Schäden im Weltraum
+- Art. V: Gesamtschuldnerschaft mehrerer Startstaaten
+- Regressansprüche des Staates gegen private Betreiber
+- 1-Jahres-Ausschlussfrist und diplomatischer Anspruchsweg
+
+## Einschlägige Normen und Regelwerke
+
+- **LIAB Art. I**: Definitionen: Schaden, Weltraumobjekt, Startstaat
+- **LIAB Art. II**: Absolute Haftung am Boden – verschuldensunabhängig
+- **LIAB Art. III**: Verschuldenshaftung im Weltraum
+- **LIAB Art. IV**: Klagehäufung bei mehreren Startstaaten
+- **LIAB Art. V**: Gesamtschuldnerschaft – interner Ausgleich nach Verschuldensgrad
+- **LIAB Art. VI**: Entlastung bei grober Fahrlässigkeit des Geschädigten
+- **LIAB Art. VIII–XVII**: Anspruchsverfahren: diplomatisch, Ausschlussfrist 1 Jahr
+- **OST Art. VII**: Haftungsverpflichtung der Startstaaten
 
 ## Kaltstart in 6 Fragen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. **Rolle**: Wer handelt – Betreiber, Investor, Behörde, Kanzlei, Versicherer, Universität, Verlag, Betroffene?
+2. **Aufgabentyp**: Prüfung, Entwurf, Genehmigung, Compliance, Streit, Due Diligence oder Dokumentation?
+3. **Unterlagen**: Welche Dokumente liegen vor – Vertrag, Lizenz, Registerauszug, technische Spezifikation, Gutachten, Normtext?
+4. **Rechtsordnung**: Deutsches Recht, EU-Recht, US-Recht, Völkerrecht – oder Kombination?
+5. **Fristen**: Welche Genehmigungsfristen, ITU-Koordinierungsfristen, Vertragsoptionen oder Behördenfristen laufen?
+6. **Ergebnisformat**: Memo, Ampelmatrix, Klauselentwurf, Behördenbrief, Board-Vorlage oder Fristenkalender?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UN-Weltraumverträge und nationales Recht getrennt prüfen
-- Startstaat, Registerstaat, Betreiber, Launch Provider und Eigentümer trennen
-- Haftung, Versicherung, Frequenzen, Exportkontrolle und Cybersecurity immer zusammen denken
-- Bei Quellen: UNOOSA, EUR-Lex, ITU, BNetzA, DLR/BMWK bevorzugen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. **Schadenslokalisierung**: Boden/Luftfahrzeug → Art. II; Weltraum → Art. III
+2. **Startstaat bestimmen**: Wer hat gestartet, Startanlage bereitgestellt oder Start aus Gebiet veranlasst?
+3. **Mehrere Startstaaten**: Gesamtschuldnerschaft nach Art. V; Ausgleichsregress
+4. **Verschuldensnachweis**: Art. III: Telemetrie, Missionslogs, technische Dokumentation sichern
+5. **Entlastungscheck**: Art. VI: Hat Geschädigter zum Schaden beigetragen?
+6. **Frist**: 1-Jahres-Ausschlussfrist ab Schadenskenntnis; diplomatischen Anspruchsweg vorbereiten
+7. **Versicherung**: Deckt nationale Mindestversicherung Haftungsrahmen? Regressvereinbarung vorhanden?
+
+## Normencheck: Schicht für Schicht
+
+### Völkerrecht
+- Outer Space Treaty 1967 (OST): Art. I, II, VI, VII, VIII, IX
+- Liability Convention 1972 (LIAB): Art. II–V (Haftungsregime)
+- Registration Convention 1975 (REG): Registrierungspflichten
+- Rescue Agreement 1968 (ARRA): Rettung und Rückgabe
+- Ggf. Moon Agreement 1979 (MA): Ressourcen, Umwelt
+
+### EU-Recht
+- EU Space Programme Regulation (EU) 2021/696: Galileo, Copernicus, IRIS², SST
+- EU Dual-Use-Verordnung (EU) 2021/821: Exportkontrolle Raumfahrtgüter
+- NIS2-Richtlinie 2022/2555: Cybersicherheit kritischer Infrastruktur
+- DSGVO (EU) 2016/679: Personenbezogene Daten (Erdbeobachtung, Tracking)
+
+### Deutsches Recht
+- LuftVG (Luftverkehrsgesetz): https://www.gesetze-im-internet.de/luftvg/
+- Geplanter Raumfahrtgesetzentwurf BMWK
+- BAFA Exportkontrolle: ITAR-Listung, EAR, EU-Dual-Use
+- BSI-Gesetz, KRITIS-Verordnung
+
+### Soft Law und Guidelines
+- UNCOPUOS Long-Term Sustainability Guidelines (LTS 2018)
+- Artemis Accords (2020, 37+ Unterzeichner)
+- IADC Debris Mitigation Guidelines
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Trümmer sind Weltraumobjekte**: Abgebrannte Raketenstufen, Satelliten-Debris – Startstaat haftet weiterhin
+- **Anspruch nur staatlich**: Private müssen ihren Staat einschalten; kein direktes Klagerecht
+- **1-Jahres-Frist ist absolut**: Keine Heilung durch spätere Kenntnis; Sorgfaltspflicht bei Schadensdokumentation
+- **Versicherungslücke**: Ohne Pflichtversicherung exponiert Betreiber den Staat voll
+- **Art. III-Beweislast**: Kollision ohne Verschuldensnachweis – Anspruch scheitert technisch
 
-## Output
+## Qualitätssicherung
 
-- Space-Legal-Memo
-- Genehmigungsfahrplan
-- Haftungsmatrix
-- Versicherungsliste
-- Vertragsredline
-- Behördenbrief
-- Board-Dashboard
+- Keine Scheingenauigkeit: Wenn Normstand, Ratifikationsstatus oder Rechtsprechung unklar sind, Live-Check vorschlagen.
+- Quellen nur nach Verifikation zitieren: UNOOSA, EUR-Lex, Gesetze-im-Internet, BAFA, ESA, BNetzA.
+- Tatsachen, Annahmen, Wertungen und offene Beweisfragen immer getrennt führen.
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Startstaat, Registerstaat, Betreiber, Missionskontrolle, Versicherer immer separat identifizieren.
+
+## Output-Formate
+
+- Haftungsmatrix (Art. II vs. Art. III, Startstaat, Betreiber, Versicherer)
+- Schadensfall-Memo mit Tatbestandsprüfung und Fristen
+- Versicherungsanforderungen für Launch Services Agreement
+- Staatlicher Regressentwurf gegen privaten Betreiber
+- Behördenkommunikation zur Anspruchsanmeldung
+
+## Quellen und Normen
+
+- LIAB 1972: https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/liability-convention.html
+- OST 1967: https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/outerspacetreaty.html
+- UNOOSA Vertragsstaaten: https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/status/index.html
+- ESA Legal Framework: https://www.esa.int/About_Us/Law_at_ESA/ESA_s_legal_framework
+- BMWK Weltraumgesetz: https://www.bmwk.de/

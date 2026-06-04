@@ -1,54 +1,104 @@
 ---
-name: space-008-deutsches-weltraumgesetz-planungsstand-und-uebergangsr
-description: "Weltraumrecht: Deutsches Weltraumgesetz Planungsstand und Übergangsrisiko mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis."
+name: space-008-deutsches-weltraumgesetz-planungsstand-und-uebergangs
+description: "Raumfahrtgesetzentwurf BMWK – Genehmigungspflicht, Versicherungspflicht, Regressrecht, Übergangsrecht und Lücken."
 ---
 
-# Weltraumrecht: Deutsches Weltraumgesetz Planungsstand und Übergangsrisiko
+# Weltraumrecht: Deutsches Weltraumgesetz: Planungsstand und Übergangsrisiko
 
-## Aufgabe
+## Aufgabe und Einsatzbereich
 
-Dieser Skill bearbeitet **Deutsches Weltraumgesetz Planungsstand und Übergangsrisiko** im Bereich **Weltraumrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Dieser Skill bearbeitet **Deutsches Weltraumgesetz: Planungsstand und Übergangsrisiko** im Bereich Weltraumrecht. Er strukturiert die praktische Lage, prüft einschlägige Normen des internationalen und nationalen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
+
+## Thematischer Kontext
+
+- Fehlendes deutsches Weltraumgesetz – aktuelle Rechtslage 2024
+- Raumfahrtgesetzentwurf BMWK – Planungsstand und Inhalt
+- LuftVG § 1 Abs. 2 als unvollständige Notlösung
+- OST Art. VI: Staatsverantwortung ohne gesetzliche Umsetzung
+- Versicherungspflicht, Genehmigungsverfahren, Regressrecht
+
+## Einschlägige Normen und Regelwerke
+
+- **LuftVG § 1 Abs. 2**: Anwendungsbereich auf Weltraumfahrzeuge fraglich
+- **OST Art. VI**: Staatliche Verantwortung und Aufsicht – ohne nationales Umsetzungsgesetz exponiert
+- **LIAB 1972**: Staatshaftung ohne Regressmöglichkeit gegen Betreiber
+- **Raumfahrtgesetzentwurf BMWK**: Geplante Regelung: Genehmigung, Versicherung, Regress, Register
+- **EU 2021/696 Art. 6**: EU verlangt nationale Aufsichtsstrukturen für Raumfahrtaktivitäten
+- **BAFA AWG/AWV**: Exportkontrolle für Raumfahrtgüter bereits geltend
 
 ## Kaltstart in 6 Fragen
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+1. **Rolle**: Wer handelt – Betreiber, Investor, Behörde, Kanzlei, Versicherer, Universität, Verlag, Betroffene?
+2. **Aufgabentyp**: Prüfung, Entwurf, Genehmigung, Compliance, Streit, Due Diligence oder Dokumentation?
+3. **Unterlagen**: Welche Dokumente liegen vor – Vertrag, Lizenz, Registerauszug, technische Spezifikation, Gutachten, Normtext?
+4. **Rechtsordnung**: Deutsches Recht, EU-Recht, US-Recht, Völkerrecht – oder Kombination?
+5. **Fristen**: Welche Genehmigungsfristen, ITU-Koordinierungsfristen, Vertragsoptionen oder Behördenfristen laufen?
+6. **Ergebnisformat**: Memo, Ampelmatrix, Klauselentwurf, Behördenbrief, Board-Vorlage oder Fristenkalender?
 
 ## Prüfprogramm
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- UN-Weltraumverträge und nationales Recht getrennt prüfen
-- Startstaat, Registerstaat, Betreiber, Launch Provider und Eigentümer trennen
-- Haftung, Versicherung, Frequenzen, Exportkontrolle und Cybersecurity immer zusammen denken
-- Bei Quellen: UNOOSA, EUR-Lex, ITU, BNetzA, DLR/BMWK bevorzugen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+1. **Aktuelle Rechtslage**: LuftVG-Anwendbarkeit prüfen; DLR/BMWK-Erlasse; analoge Anwendung
+2. **Genehmigungspflicht**: Welche Aktivitäten bedürfen aktuell einer Genehmigung? Behörde: BMWK oder LBA?
+3. **Versicherungspflicht**: Keine gesetzliche Mindestdeckung; privatrechtliche Versicherungsvereinbarung notwendig
+4. **Staatshaftungsrisiko**: OST Art. VI + LIAB: Staat haftet; kein gesetzlicher Regress gegen Betreiber
+5. **Übergangsrecht**: Welche Übergangsregelungen plant der Gesetzentwurf für laufende Missionen?
+6. **Register**: Kein deutsches Weltraumregister; informelle Meldung über DLR/BMWK an UNOOSA
+
+## Normencheck: Schicht für Schicht
+
+### Völkerrecht
+- Outer Space Treaty 1967 (OST): Art. I, II, VI, VII, VIII, IX
+- Liability Convention 1972 (LIAB): Art. II–V (Haftungsregime)
+- Registration Convention 1975 (REG): Registrierungspflichten
+- Rescue Agreement 1968 (ARRA): Rettung und Rückgabe
+- Ggf. Moon Agreement 1979 (MA): Ressourcen, Umwelt
+
+### EU-Recht
+- EU Space Programme Regulation (EU) 2021/696: Galileo, Copernicus, IRIS², SST
+- EU Dual-Use-Verordnung (EU) 2021/821: Exportkontrolle Raumfahrtgüter
+- NIS2-Richtlinie 2022/2555: Cybersicherheit kritischer Infrastruktur
+- DSGVO (EU) 2016/679: Personenbezogene Daten (Erdbeobachtung, Tracking)
+
+### Deutsches Recht
+- LuftVG (Luftverkehrsgesetz): https://www.gesetze-im-internet.de/luftvg/
+- Geplanter Raumfahrtgesetzentwurf BMWK
+- BAFA Exportkontrolle: ITAR-Listung, EAR, EU-Dual-Use
+- BSI-Gesetz, KRITIS-Verordnung
+
+### Soft Law und Guidelines
+- UNCOPUOS Long-Term Sustainability Guidelines (LTS 2018)
+- Artemis Accords (2020, 37+ Unterzeichner)
+- IADC Debris Mitigation Guidelines
 
 ## Typische Fallen
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+- **Rechtsgrundlagenlücke**: Ohne Weltraumgesetz keine klare Genehmigungsbehörde; DLR/BMWK-Zuständigkeit unklar
+- **Staatshaftung ohne Regress**: Betreiber kann schadensverursachen, ohne vom Staat in Regress genommen werden zu können
+- **Versicherungslücke**: Kein Pflichttarif; Betreiber können unterversichert oder unversichert operieren
+- **ITAR als de-facto-Genehmigung**: US-Exportkontrolle kann faktisch als Genehmigungsersatz dienen
+- **EU-Anforderungen**: EU 2021/696 setzt nationale Aufsichtsstrukturen voraus
 
-## Output
+## Qualitätssicherung
 
-- Space-Legal-Memo
-- Genehmigungsfahrplan
-- Haftungsmatrix
-- Versicherungsliste
-- Vertragsredline
-- Behördenbrief
-- Board-Dashboard
+- Keine Scheingenauigkeit: Wenn Normstand, Ratifikationsstatus oder Rechtsprechung unklar sind, Live-Check vorschlagen.
+- Quellen nur nach Verifikation zitieren: UNOOSA, EUR-Lex, Gesetze-im-Internet, BAFA, ESA, BNetzA.
+- Tatsachen, Annahmen, Wertungen und offene Beweisfragen immer getrennt führen.
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Startstaat, Registerstaat, Betreiber, Missionskontrolle, Versicherer immer separat identifizieren.
 
-## Space-Law-Vertiefung
+## Output-Formate
 
-Bei **Deutsches Weltraumgesetz Planungsstand und Übergangsrisiko** werden fünf Ebenen getrennt: völkerrechtliche Verantwortung des Staates, nationale Betreiberpflicht, technische Missionssicherheit, Frequenz-/Datenregime und zivilrechtliche Risikoverteilung. Der Skill muss Startstaat, Registerstaat, Betreiber, Eigentümer, Nutzlastkunde, Versicherer und Behörde als eigene Rollen ausweisen.
+- Überblick Rechtsrahmen Deutschland (Ist-Stand und Soll-Stand)
+- Genehmigungsfahrplan unter aktuellem Übergangsrecht
+- Versicherungsempfehlung bis zum Inkrafttreten des Weltraumgesetzes
+- Handlungsempfehlung für Betreiber bei Gesetzentwurf-Änderungen
+- Regress-Klausel für Auftragsvereinbarung mit BMWK/DLR
 
-**Mission-Readiness:** Jede Antwort enthält eine Tabelle zu Genehmigung, Versicherung, Exportkontrolle, Cybersecurity, Debris-Mitigation, Incident Response und Dokumentationsbelegen.
+## Quellen und Normen
 
+- LuftVG: https://www.gesetze-im-internet.de/luftvg/
+- BMWK Weltraumgesetz Planungsstand: https://www.bmwk.de/
+- OST Art. VI: https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/outerspacetreaty.html
+- EU Space Programme Regulation: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0696
+- BAFA Exportkontrolle: https://www.bafa.de/DE/Aussenwirtschaft/Exportkontrolle/exportkontrolle_node.html
+- ESA Legal Framework: https://www.esa.int/About_Us/Law_at_ESA/ESA_s_legal_framework
