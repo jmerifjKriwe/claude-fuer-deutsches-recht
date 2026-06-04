@@ -1,24 +1,48 @@
 ---
 name: deliktsrecht-paragraph-823-1
-description: "Prüft Rechtsgutsverletzung, Handlung, Kausalität, Rechtswidrigkeit, Verschulden und Schaden."
+description: "Prüft Rechtsgutsverletzung, Handlung, Kausalität, Rechtswidrigkeit, Verschulden und Schaden nach § 823 Abs. 1 BGB."
 ---
-# Delikt § 823 Abs. 1 BGB
+# Deliktsrecht § 823 Abs. 1 BGB
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Den Grundtatbestand des Deliktsrechts nach § 823 Abs. 1 BGB vollständig prüfen: geschützte Rechtsgüter, Tatbestand, Rechtswidrigkeit, Verschulden und Schaden.
 
-## Arbeitsweise
+## Normanker
 
-Erfasse Rechtsgut, Zurechnung, Pflichtwidrigkeit und Beweis.
+- § 823 Abs. 1 BGB: Leben, Körper, Gesundheit, Freiheit, Eigentum und sonstige Rechte
+- § 249 BGB: Naturalrestitution als Primärform des Schadensersatzes
+- § 253 BGB: immaterieller Schadensersatz (Schmerzensgeld)
+- §§ 827 und 828 BGB: Verschuldensfähigkeit
+- § 254 BGB: Mitverschulden des Geschädigten
+- § 840 BGB: Gesamtschuld bei mehreren Schädigern
+- §§ 195 und 199 BGB: Verjährungsfrist (drei Jahre ab Kenntnis)
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Welches Rechtsgut ist verletzt: Körper, Gesundheit, Eigentum, allgemeines Persönlichkeitsrecht?
+- Wer hat die verletzende Handlung begangen und wann?
+- Ist die Kausalität zwischen Handlung und Schaden nachweisbar?
+- Ist der Schädiger verschuldensfähig (§§ 827 und 828 BGB)?
+- Liegt ein Mitverschulden des Geschädigten vor?
 
+## Prüfraster
+
+1. Rechtsgutsverletzung: Körper, Gesundheit, Freiheit, Eigentum, sonstiges Recht bestimmen
+2. Handlung: aktives Tun oder Unterlassen (Unterlassen nur wenn Garantenpflicht bestand)
+3. Haftungsbegründende Kausalität: äquivalente Kausalität (conditio sine qua non)
+4. Rechtswidrigkeit: Indikationsfunktion der Rechtsgutsverletzung; Rechtfertigungsgründe prüfen
+5. Verschulden: Vorsatz oder Fahrlässigkeit nach § 276 BGB; Verschuldensfähigkeit (§§ 827 und 828 BGB)
+6. Haftungsausfüllende Kausalität: konkreter Schaden und Zurechnung
+7. Schaden nach §§ 249 ff. BGB: Naturalrestitution, Schadensersatz in Geld, Schmerzensgeld
+8. Mitverschulden nach § 254 BGB und Verjährung nach §§ 195 und 199 BGB
+
+## Fallstricke
+
+- Sonstige Rechte nach § 823 Abs. 1 BGB (z.B. Recht am Gewerbebetrieb) werden restriktiv ausgelegt.
+- Reines Vermögensschaden ist nicht durch § 823 Abs. 1 BGB geschützt (kein sonstiges Recht).
+- Unterlassen als Handlung setzt Garantenpflicht voraus.
+- Rechtswidrigkeit wird bei Rechtsgutsverletzung indiziert; Rechtfertigungsgründe müssen der Schuldner beweisen.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +52,30 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Tatbestandsprüfung § 823 Abs. 1 BGB im Gutachtenstil
+- Kausalitätslinie mit Belegen
+- Schadensberechnung (materiell und immateriell)
+- Mitverschuldensprüfung
+
+## Qualitätsregeln
+
+- Haftungsbegründende und haftungsausfüllende Kausalität trennen.
+- Reines Vermögensschaden immer über § 823 Abs. 2 BGB oder § 826 BGB prüfen.
+- Verschuldensfähigkeit bei Minderjährigen und psychisch Erkrankten immer prüfen.
+
+## Anschluss-Skills
+
+- deliktsrecht-paragraph-826-sittenwidrige-schaedigung
+- deliktsrecht-schutzgesetz-paragraph-823-2
+- schadensrecht-paragraphen-249-253
+- delikt-vertrag-konkurrenz
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__823.html
+- https://www.gesetze-im-internet.de/bgb/__249.html
+- https://www.gesetze-im-internet.de/bgb/__253.html
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

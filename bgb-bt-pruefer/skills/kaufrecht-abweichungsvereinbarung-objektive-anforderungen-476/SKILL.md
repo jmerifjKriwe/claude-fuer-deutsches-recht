@@ -1,47 +1,82 @@
 ---
 name: kaufrecht-abweichungsvereinbarung-objektive-anforderungen-476
-description: "Prüft, ob Händler oder Hersteller objektive Anforderungen, digitale Funktionen, Updateversprechen, Kompatibilität oder Interoperabilität wirksam abbedungen haben."
+description: "Prüft Abweichungsvereinbarungen von objektiven Anforderungen § 476 BGB beim Verbrauchsgüterkauf."
 ---
+# Kaufrecht: Abweichungsvereinbarung objektive Anforderungen § 476 BGB
 
-# Kaufrecht: Abweichung von objektiven Anforderungen § 476 BGB
+## Zweck
 
-## Aufgabe
+Abweichungsvereinbarungen von den objektiven Anforderungen an die Kaufsache nach § 476 BGB beim Verbrauchsgüterkauf prüfen: Voraussetzungen, Transparenz und Zulässigkeit.
 
-Schwerpunkt: keine versteckte AGB-Aushebelung. Prüfe eigene Vorabinformation und ausdrückliche gesonderte Vereinbarung; einfache Klausel, Checkbox-Salat oder technische Fußnote reicht nicht automatisch.
+## Normanker
 
-## Sofort klären
+- § 434 BGB: Sachmangel und objektive Anforderungen
+- § 476 BGB: Abweichungen von den objektiven Anforderungen beim Verbrauchsgüterkauf
+- § 475 BGB: Verbrauchsgüterkauf (Grundnorm)
+- § 477 BGB: Beweislastumkehr beim Verbrauchsgüterkauf
+- §§ 305–310 BGB: AGB-Kontrolle
 
-1. Ist der Käufer Verbraucher und der Verkäufer Unternehmer?
-2. Geht es um eine Sache, ein digitales Produkt oder eine Ware mit digitalen Elementen?
-3. Kann die Ware ohne App, Cloud, Firmware, Konto, Schlüssel, Sensorik oder Update ihre Funktion erfüllen?
-4. Welcher Mangel zeigt sich: Hardware, Software, fehlendes Update, Sicherheitslücke, App-Abschaltung, Reparatursperre, fehlende Anleitung oder falsche öffentliche Äußerung?
-5. Wann wurden Ware, digitale Elemente, Updates und Reparaturversuch bereitgestellt?
-6. Welches Arbeitsprodukt wird gebraucht: Anspruchsmatrix, Mandantenbrief, Klageentwurf, Händlerantwort, Beweis- und Fristenplan?
+## Intake
 
-## Rechtsanker
+- Handelt es sich um einen Verbrauchsgüterkauf nach § 474 BGB?
+- Wurde ausdrücklich und gesondert vereinbart, dass die Sache bestimmte objektive Anforderungen nicht erfüllen muss?
+- Wurde der Verbraucher bei Vertragsschluss über die Abweichung informiert und hat er sie ausdrücklich akzeptiert?
+- Liegt ein individualvertraglich ausgehandelter Ausschluss oder eine AGB-Klausel vor?
 
-- § 327, § 327a, § 327e, § 327f BGB für digitale Produkte und die Abgrenzung zu Waren mit digitalen Elementen.
-- § 434 BGB: subjektive Anforderungen, objektive Anforderungen, Montage-/Installationsanforderungen; Beschaffenheit umfasst Funktionalität, Kompatibilität und Interoperabilität.
-- § 475b BGB: Sachmangel einer Ware mit digitalen Elementen einschließlich Aktualisierungspflichten.
-- § 475c BGB: dauerhafte Bereitstellung digitaler Elemente, mindestens zwei Jahre Haftungszeitraum für digitale Elemente.
-- § 475e BGB: Sonderverjährung bei dauerhafter Bereitstellung, Aktualisierungspflicht, Mangelanzeige und Übergabe zur Nacherfüllung.
-- § 476 BGB: Abweichung von objektiven Anforderungen nur mit eigener Information und ausdrücklicher gesonderter Vereinbarung.
-- § 477 BGB: Beweislastvermutung, bei dauerhafter Bereitstellung digitaler Elemente besonders prüfen.
-- Richtlinie (EU) 2024/1799 zum Recht auf Reparatur: Stand Juni 2026 als EU-Richtlinie mit Umsetzungsprüfung behandeln; nicht als bereits vollständig deutsches BGB-Recht behaupten, wenn das Umsetzungsgesetz nicht geprüft ist.
+## Prüfraster
 
-## Arbeitsprogramm
+1. Verbrauchsgüterkauf nach § 474 BGB: Unternehmer verkauft bewegliche Sache an Verbraucher
+2. Objektive Anforderungen nach § 434 Abs. 3 BGB: Eignung für gewöhnliche Verwendung, übliche Beschaffenheit
+3. Abweichungsvereinbarung nach § 476 BGB: ausdrücklich, gesondert, Information des Verbrauchers
+4. Ausdrückliche Kenntnisnahme des Verbrauchers von der Abweichung bei Vertragsschluss
+5. AGB-Konformität: § 476 BGB schließt stillschweigende Abbedingung über AGB aus
+6. Abgrenzung: individualvertragliche Abweichung (zulässig) vs. AGB-Abweichung (unzulässig)
+7. Rechtsfolge: wirksame Abweichung schließt Sachmangel bezüglich des abweichenden Merkmals aus
+8. Beweislast: Unternehmer muss wirksame Abweichungsvereinbarung beweisen
 
-1. **Vertragstyp trennen.** Kauf einer Ware mit digitalen Elementen (§ 475b/§ 475c) ist nicht dasselbe wie reiner Digitalvertrag (§§ 327 ff.). § 327a Abs. 3 ist der Router.
-2. **Mangelzeitpunkt und Zeitraum klären.** Bei Hardware regelmäßig Gefahrübergang; bei Updatepflicht und dauerhaften digitalen Elementen den Zeitraum der Bereitstellung/Erwartbarkeit prüfen.
-3. **Updatepflicht konkretisieren.** Welche Updates waren vereinbart, welche waren objektiv für Vertragsmäßigkeit/Sicherheit nötig, wer hat informiert, was hat der Verbraucher installiert oder nicht installiert?
-4. **Reparaturrecht mitdenken.** Nacherfüllung kann Reparatur oder Ersatzlieferung sein; Right-to-Repair künftig zusätzlich mit Hersteller-/Repairer-Informationspflichten, Reparaturformular, Plattform und Verbot sachwidriger Reparaturhindernisse prüfen.
-5. **Beweise bauen.** Screenshots App, Update-Logs, Händlerchat, öffentliche Werbung, Reparaturprotokoll, Diagnosedaten, Seriennummer, Firmwarestand, Konto-/Cloud-Abhängigkeit.
-6. **Output liefern.** Immer mit Kurzampel, Anspruchsgrundlagen, Fristen, Beweislast, nächstem Schreiben und Anschluss-Skills.
+## Fallstricke
 
-## Quellenhygiene
+- Pauschal-Klauseln „verkauft wie besichtigt" oder „unter Ausschluss jeder Gewährleistung" sind bei Verbrauchsgüterkauf nach § 476 BGB unzulässig.
+- Abweichungsvereinbarung muss gesondert und ausdrücklich erfolgen; bloße Erwähnung im Vertrag genügt nicht.
+- Informationspflicht über die Abweichung muss vor Vertragsschluss erfüllt werden.
+- § 477 BGB-Beweislastumkehr bleibt trotz wirksamer Abweichungsvereinbarung bestehen.
+## Stoppschilder
 
-Normen live über gesetze-im-internet.de prüfen. EU-Rechtsstand live über EUR-Lex oder Kommissionsseite prüfen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei überprüfbarer Quelle.
+- Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
+- Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
+- Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
+
+## Output
+
+- Wirksamkeitsprüfung der Abweichungsvereinbarung
+- AGB-Konformitätsprüfung
+- Beweislastmatrix
+- Handlungsempfehlung für Vertragsgestaltung
+
+## Qualitätsregeln
+
+- § 476 BGB gilt nur beim Verbrauchsgüterkauf; B2B-Verträge unterliegen anderen Regeln.
+- Informationspflicht muss vor und nicht erst bei Vertragsschluss erfüllt sein.
+- Niemals pauschale Gewährleistungsausschlüsse beim Verbrauchsgüterkauf empfehlen.
 
 ## Anschluss-Skills
 
-Nach der Erstprüfung je nach Schwerpunkt `kaufrecht-sachmangel-paragraph-434`, `kaufrecht-nacherfuellung-ruecktritt-minderung`, `kaufrecht-schadensersatz-aufwendungsersatz`, `verbrauchsgueterkauf-digitales`, `schnittstelle-bgb-at-methodenlehre-agb` oder `produzentenhaftung-und-verkehrssicherung` ziehen.
+- kaufrecht-sachmangel-paragraph-434
+- verbrauchsgueterkauf-digitales
+- kaufrecht-beweislast-verjaehrung-digitale-elemente
+- schnittstelle-bgb-at-methodenlehre-agb
+
+
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__476.html
+- https://www.gesetze-im-internet.de/bgb/__434.html
+- https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0771
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

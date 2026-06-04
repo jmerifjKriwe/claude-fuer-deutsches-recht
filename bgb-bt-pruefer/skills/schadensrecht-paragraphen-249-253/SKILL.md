@@ -1,24 +1,49 @@
 ---
 name: schadensrecht-paragraphen-249-253
-description: "Berechnet Naturalrestitution, Geldersatz, Nutzungsausfall, Schmerzensgeld, Vorteilsausgleich und Mitverschulden."
+description: "Schadensrecht §§ 249-253 BGB: Naturalrestitution, Schadensberechnung, Vermögensschaden, Schmerzensgeld."
 ---
-# Schadensrecht §§ 249 ff. BGB
+# Schadensrecht §§ 249-253 BGB
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Schadensersatzansprüche nach §§ 249-253 BGB vollständig ausarbeiten: Grundsatz der Naturalrestitution, Differenzhypothese, Schmerzensgeld und Sonderprobleme wie Vorteilsausgleichung und Mitverschulden.
 
-## Arbeitsweise
+## Normanker
 
-Baue Schadensmatrix mit Belegen und Berechnungsannahmen.
+- § 249 BGB: Art und Umfang des Schadensersatzes (Naturalrestitution)
+- § 250 BGB: Schadensersatz in Geld nach Fristsetzung
+- § 251 BGB: Schadensersatz in Geld ohne Fristsetzung
+- § 252 BGB: Entgangener Gewinn
+- § 253 BGB: Immaterieller Schaden (Schmerzensgeld)
+- § 254 BGB: Mitverschulden des Geschädigten
+- § 255 BGB: Herausgabe von Ersatz bei Übernahme der Schadensersatzpflicht
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Welche Anspruchsgrundlage liegt vor (§ 280 BGB, § 823 BGB, § 831 BGB, Gefährdungshaftung)?
+- Welche Schadensposten werden geltend gemacht (Sachschaden, Vermögensschaden, Schmerzensgeld)?
+- Besteht ein Mitverschulden des Geschädigten?
+- Liegt ein Vorteil vor, der auszugleichen wäre (Vorteilsausgleichung)?
+- Wurde Naturalrestitution verlangt oder ist Geldersatz erforderlich?
 
+## Prüfraster
+
+1. Schadensentstehung und Kausalität: Adäquanzkausalität und Schutzzweck der Norm
+2. Naturalrestitution nach § 249 BGB: Wiederherstellung des ursprünglichen Zustands als Primärform
+3. Geldersatz nach §§ 250 und 251 BGB: bei Unmöglichkeit oder unverhältnismäßigem Aufwand
+4. Vermögensschaden: Differenzhypothese (Vergleich des tatsächlichen mit dem hypothetischen Vermögen)
+5. Entgangener Gewinn nach § 252 BGB: wahrscheinlicher Gewinn nach normalem Lauf der Dinge
+6. Immaterieller Schaden: § 253 BGB setzt eine der dort genannten Anspruchsgrundlagen voraus
+7. Schmerzensgeld-Bemessung: Ausgleich und Genugtuung; Genugtuungsfunktion bei vorsätzlichen Taten
+8. Mitverschulden nach § 254 BGB: Quotenbildung, Verursachungsbeiträge und Obliegenheitsverletzungen
+9. Vorteilsausgleichung: schadenmindernde Vorteile, die durch das schädigende Ereignis entstanden sind
+
+## Fallstricke
+
+- § 253 BGB setzt gesetzliche oder vertragliche Anspruchsgrundlage voraus; kein allgemeines Schmerzensgeld.
+- Vorteilsausgleichung darf nicht zur sachwidrigen Entlastung des Schädigers führen; Grenzen beachten.
+- Entgangener Gewinn muss wahrscheinlich sein, nicht sicher; aber bloße Möglichkeit reicht nicht.
+- Mitverschulden nach § 254 BGB: auch Obliegenheitsverletzung bei der Schadensabwendung (§ 254 Abs. 2 BGB).
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,12 +53,23 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Schadensposten-Übersicht (Sachschaden, Vermögensschaden, Schmerzensgeld, entgangener Gewinn)
+- Naturalrestitution vs. Geldersatz-Analyse
+- Mitverschuldens-Quote
+- Gesamtschadensberechnung
 
+## Qualitätsregeln
+
+- Kausalität und Schutzzweck der Norm immer als Filter für Schadensposten verwenden.
+- § 253 BGB-Voraussetzungen (Körperverletzung, Freiheitsentzug, sexuelle Selbstbestimmung) immer prüfen.
+- Vorteilsausgleichung aktiv in Schadensberechnung einbauen.
+
+## Anschluss-Skills
+
+- deliktsrecht-paragraph-823-1
+- gesamtschuld-und-regress-bgb-bt
+- werkvertrag-maengelrechte
+- mietrecht-mangel-minderung
 
 ## Qualitäts-Hardening
 

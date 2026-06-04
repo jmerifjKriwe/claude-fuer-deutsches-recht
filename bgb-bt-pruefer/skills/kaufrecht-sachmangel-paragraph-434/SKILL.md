@@ -1,51 +1,83 @@
 ---
 name: kaufrecht-sachmangel-paragraph-434
-description: "Prüft Sachmängel nach subjektiven, objektiven, Montage- und Installationsanforderungen einschließlich Funktionalität, Kompatibilität, Interoperabilität, Zubehör, Anleitung, Werbung, digitalen Bestandteilen und öffentlicher Äußerungen."
+description: "Prüft Sachmangel § 434 BGB: subjektive, objektive und Montageanforderungen; Aliud-Lieferung."
 ---
+# Kaufrecht: Sachmangel § 434 BGB
 
-# Sachmangel § 434 BGB einschließlich digitaler Beschaffenheit
+## Zweck
 
-## Aufgabe
+Sachmangel nach § 434 BGB vollständig prüfen: subjektive, objektive und montagebezogene Anforderungen, Abweichungen und Folge für Käuferrechte.
 
-§ 434 BGB ist nicht mehr nur Material, Farbe und Funktion im engen Sinn. Beschaffenheit umfasst auch Funktionalität, Kompatibilität und Interoperabilität. Bei smarten Waren zusätzlich immer prüfen, ob § 475b/§ 475c BGB die digitalen Elemente und Updates in die Sachmangelprüfung hineinzieht.
+## Normanker
 
-## Sofort klären
+- § 434 BGB: Sachmangel (subjektive Anforderungen, objektive Anforderungen, Montageanforderungen)
+- § 435 BGB: Rechtsmangel
+- § 442 BGB: Kenntnis des Käufers
+- §§ 475 und 476 BGB: Verbrauchsgüterkauf (Abweichungsverbot und -ausnahmen)
+- §§ 475a–475e BGB: digitale Elemente
 
-1. Ist der Käufer Verbraucher und der Verkäufer Unternehmer?
-2. Geht es um eine Sache, ein digitales Produkt oder eine Ware mit digitalen Elementen?
-3. Kann die Ware ohne App, Cloud, Firmware, Konto, Schlüssel, Sensorik oder Update ihre Funktion erfüllen?
-4. Welcher Mangel zeigt sich: Hardware, Software, fehlendes Update, Sicherheitslücke, App-Abschaltung, Reparatursperre, fehlende Anleitung oder falsche öffentliche Äußerung?
-5. Wann wurden Ware, digitale Elemente, Updates und Reparaturversuch bereitgestellt?
-6. Welches Arbeitsprodukt wird gebraucht: Anspruchsmatrix, Mandantenbrief, Klageentwurf, Händlerantwort, Beweis- und Fristenplan?
+## Intake
 
-## Rechtsanker
+- Welche Beschaffenheitsvereinbarung haben die Parteien getroffen?
+- Entspricht die Sache der vereinbarten und der objektiv erwarteten Beschaffenheit?
+- Liegt eine Aliud-Lieferung (falsche Ware) vor?
+- Bestehen Montage- oder Installationsanweisungen, die nicht befolgt wurden?
+- Bei Verbrauchsgüterkauf: liegt eine unzulässige Abweichung nach § 476 BGB vor?
 
-- § 327, § 327a, § 327e, § 327f BGB für digitale Produkte und die Abgrenzung zu Waren mit digitalen Elementen.
-- § 434 BGB: subjektive Anforderungen, objektive Anforderungen, Montage-/Installationsanforderungen; Beschaffenheit umfasst Funktionalität, Kompatibilität und Interoperabilität.
-- § 475b BGB: Sachmangel einer Ware mit digitalen Elementen einschließlich Aktualisierungspflichten.
-- § 475c BGB: dauerhafte Bereitstellung digitaler Elemente, mindestens zwei Jahre Haftungszeitraum für digitale Elemente.
-- § 475e BGB: Sonderverjährung bei dauerhafter Bereitstellung, Aktualisierungspflicht, Mangelanzeige und Übergabe zur Nacherfüllung.
-- § 476 BGB: Abweichung von objektiven Anforderungen nur mit eigener Information und ausdrücklicher gesonderter Vereinbarung.
-- § 477 BGB: Beweislastvermutung, bei dauerhafter Bereitstellung digitaler Elemente besonders prüfen.
-- Richtlinie (EU) 2024/1799 zum Recht auf Reparatur: Stand Juni 2026 als EU-Richtlinie mit Umsetzungsprüfung behandeln; nicht als bereits vollständig deutsches BGB-Recht behaupten, wenn das Umsetzungsgesetz nicht geprüft ist.
+## Prüfraster
 
-## Arbeitsprogramm
+1. Subjektive Anforderungen nach § 434 Abs. 2 Nr. 1 BGB: vereinbarte Beschaffenheit
+2. Subjektive Anforderungen nach § 434 Abs. 2 Nr. 2 BGB: Eignung für vertragsgemäßen Verwendungszweck
+3. Objektive Anforderungen nach § 434 Abs. 3 BGB: gewöhnliche Verwendung, übliche Beschaffenheit, Erwartungen des Käufers
+4. Montageanforderungen nach § 434 Abs. 4 BGB: fehlerhafte Montage durch Verkäufer oder fehlerhafte Anleitung
+5. Aliud-Lieferung: andere Ware als geschuldet = Sachmangel
+6. Abweichungen beim Verbrauchsgüterkauf: § 476 BGB-Einschränkungen prüfen
+7. Digitale Elemente: zusätzliche Anforderungen nach § 475b BGB
+8. Kenntnis des Käufers: § 442 BGB als Ausschlussgrund
 
-1. **Vertragstyp trennen.** Kauf einer Ware mit digitalen Elementen (§ 475b/§ 475c) ist nicht dasselbe wie reiner Digitalvertrag (§§ 327 ff.). § 327a Abs. 3 ist der Router.
-2. **Mangelzeitpunkt und Zeitraum klären.** Bei Hardware regelmäßig Gefahrübergang; bei Updatepflicht und dauerhaften digitalen Elementen den Zeitraum der Bereitstellung/Erwartbarkeit prüfen.
-3. **Updatepflicht konkretisieren.** Welche Updates waren vereinbart, welche waren objektiv für Vertragsmäßigkeit/Sicherheit nötig, wer hat informiert, was hat der Verbraucher installiert oder nicht installiert?
-4. **Reparaturrecht mitdenken.** Nacherfüllung kann Reparatur oder Ersatzlieferung sein; Right-to-Repair künftig zusätzlich mit Hersteller-/Repairer-Informationspflichten, Reparaturformular, Plattform und Verbot sachwidriger Reparaturhindernisse prüfen.
-5. **Beweise bauen.** Screenshots App, Update-Logs, Händlerchat, öffentliche Werbung, Reparaturprotokoll, Diagnosedaten, Seriennummer, Firmwarestand, Konto-/Cloud-Abhängigkeit.
-6. **Output liefern.** Immer mit Kurzampel, Anspruchsgrundlagen, Fristen, Beweislast, nächstem Schreiben und Anschluss-Skills.
+## Fallstricke
 
-## Quellenhygiene
+- Seit 2022: objektive Anforderungen können nur nach § 476 BGB abbedungen werden (Verbrauchsgüterkauf).
+- Aliud-Lieferung ist kein eigenständiger Fall mehr, sondern Sachmangel nach § 434 BGB.
+- Werbeaussagen des Herstellers können objektive Anforderungen begründen, wenn Verkäufer sie kannte.
+- § 434 BGB ist seit der Schuldrechtsreform 2022 dreistufig (subjektiv, objektiv, Montage); altes Recht nicht anwenden.
+## Stoppschilder
 
-Normen live über gesetze-im-internet.de prüfen. EU-Rechtsstand live über EUR-Lex oder Kommissionsseite prüfen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei überprüfbarer Quelle.
+- Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
+- Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
+- Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
 
-## Besonderer Prüfpfad § 434 BGB
+## Output
 
-1. Subjektive Anforderungen: Vereinbarung, vorausgesetzte Verwendung, Zubehör, Anleitung.
-2. Objektive Anforderungen: gewöhnliche Verwendung, übliche Beschaffenheit, öffentliche Äußerungen, Probe/Muster, Verpackung, Anleitung.
-3. Montage und Installation: falsche Montage, mangelhafte Anleitung, App-/Cloud-Integration.
-4. Digitale Schnittstelle: Funktionalität, Kompatibilität, Interoperabilität, Updatefähigkeit.
-5. Abweichung: § 476 BGB bei Verbrauchsgüterkauf mit eigener Information und gesonderter Vereinbarung.
+- Sachmangel-Prüfung in drei Stufen
+- Beweislastverteilung
+- Verbrauchsgüterkauf-Sonderregeln
+- Risikoampel und Handlungsempfehlung
+
+## Qualitätsregeln
+
+- Dreistufige Prüfung immer vollständig durchführen.
+- Alte Mangelprüfung vor 2022 nicht mischen.
+- Digitale Elemente immer als vierte Dimension mitprüfen.
+
+## Anschluss-Skills
+
+- kaufvertrag-grundschema-paragraph-433
+- kaufrecht-rechtsmangel-paragraph-435
+- kaufrecht-nacherfuellung-ruecktritt-minderung
+- kaufrecht-beweislast-verjaehrung-digitale-elemente
+
+
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__434.html
+- https://www.gesetze-im-internet.de/bgb/__437.html
+- https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0771
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

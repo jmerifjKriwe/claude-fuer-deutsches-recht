@@ -1,24 +1,47 @@
 ---
 name: deliktsrecht-sonstiges-recht
-description: "Prüft Eigentum, Besitz, eingerichteter und ausgeübter Gewerbebetrieb, APR und sonstige Rechte."
+description: "Prüft sonstige Rechte nach § 823 Abs. 1 BGB: allgemeines Persönlichkeitsrecht, Recht am Gewerbebetrieb und Immaterialgüterrechte."
 ---
-# Sonstiges Recht und Rahmenrechte
+# Deliktsrecht: Sonstiges Recht
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Sonstige absolute Rechte nach § 823 Abs. 1 BGB prüfen: allgemeines Persönlichkeitsrecht (APR), Recht am eingerichteten und ausgeübten Gewerbebetrieb und Immaterialgüterrechte.
 
-## Arbeitsweise
+## Normanker
 
-Markiere Rahmenrechte und Interessenabwägung.
+- § 823 Abs. 1 BGB: sonstige Rechte (Auffangtatbestand für absolute Rechte)
+- Art. 1 Abs. 1 und Art. 2 Abs. 1 GG: allgemeines Persönlichkeitsrecht als Verfassungsgrundlage
+- § 12 BGB: Namensrecht
+- § 1004 BGB analog: quasi-negatorischer Unterlassungsanspruch
+- UrhG, MarkenG, PatG: spezialgesetzliche Deliktsregeln, die § 823 BGB verdrängen können
+- BGH-Linie zum APR: nur nach Live-Prüfung zitieren
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Welches Recht ist verletzt: APR, Recht am Gewerbebetrieb, Urheberrecht, Marke?
+- Ist das betroffene Recht ein sonstiges Recht im Sinne des § 823 Abs. 1 BGB?
+- Greift eine spezialgesetzliche Regelung (UrhG, MarkenG), die § 823 BGB verdrängt?
+- Ist ein immaterieller Schaden entstanden (APR-Verletzung: Geldentschädigung)?
+- Besteht ein Unterlassungsanspruch nach § 1004 BGB analog?
 
+## Prüfraster
+
+1. Einordnung: absolutes Recht, das den Charakter eines sonstigen Rechts hat
+2. APR-Verletzung: Eingriff in Kernbereich der Persönlichkeit, Abwägung mit anderen Grundrechten
+3. Recht am Gewerbebetrieb: unmittelbarer betriebsbezogener Eingriff erforderlich (restriktiv)
+4. Immaterialgüterrechte: Abgrenzung zu spezialgesetzlichen Haftungsregeln (UrhG, MarkenG)
+5. Rechtswidrigkeit: Güter- und Interessenabwägung bei APR besonders relevant
+6. Verschulden: Vorsatz oder Fahrlässigkeit
+7. Schadensersatz: materielle Schäden und Geldentschädigung bei schwerwiegender APR-Verletzung
+8. Unterlassungsanspruch nach § 1004 BGB analog
+
+## Fallstricke
+
+- Reiner Vermögensschaden (z.B. entgangener Gewinn ohne Betriebseingriff) ist kein sonstiges Recht.
+- Recht am Gewerbebetrieb ist subsidiär; spezialgesetzliche Regelungen haben Vorrang.
+- APR-Verletzung erfordert erheblichen Eingriff; geringfügige Beeinträchtigungen reichen nicht.
+- Geldentschädigung wegen APR-Verletzung ist keine Schadenshöhe, sondern eigenständige Anspruchsvoraussetzung.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +51,30 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Rechtsguts-Einordnung (absolutes Recht, sonstiges Recht)
+- APR-Abwägungsmatrix
+- Schadensberechnung (materiell und immateriell)
+- Unterlassungsanspruch und einstweiliger Rechtsschutz
+
+## Qualitätsregeln
+
+- Sonstige Rechte immer restriktiv auslegen; kein Auffangtatbestand für beliebige Schäden.
+- APR-Abwägung mit Meinungsfreiheit und Pressefreiheit ausdrücklich vornehmen.
+- Spezialgesetze immer auf Vorrang prüfen.
+
+## Anschluss-Skills
+
+- deliktsrecht-paragraph-823-1
+- deliktsrecht-paragraph-826-sittenwidrige-schaedigung
+- delikt-vertrag-konkurrenz
+- workflow-output-gutachten-klage-brief
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__823.html
+- https://www.gesetze-im-internet.de/bgb/__12.html
+- https://www.gesetze-im-internet.de/bgb/__1004.html
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

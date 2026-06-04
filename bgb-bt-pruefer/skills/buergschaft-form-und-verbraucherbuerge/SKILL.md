@@ -1,24 +1,47 @@
 ---
 name: buergschaft-form-und-verbraucherbuerge
-description: "Prüft Schriftform, elektronische Formgrenzen, Verbraucherbürgen, krasse Überforderung, Sittenwidrigkeit und Angehörigenbürgschaft."
+description: "Prüft Schriftform der Bürgschaft § 766 BGB, Verbraucherbürgschaft, sittenwidrige Bürgschaft und AGB-Bürgschaftsklauseln."
 ---
-# Bürgschaft Form und Verbraucherbürge
+# Bürgschaft: Form und Verbraucherbürge
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Formvorschrift des § 766 BGB, Verbraucherschutz bei Bürgschaften und Sittenwidrigkeit nach § 138 BGB prüfen: insbesondere Bürgschaften von Privatpersonen für Unternehmensschulden.
 
-## Arbeitsweise
+## Normanker
 
-Trenne Formnichtigkeit, § 138 BGB, AGB und Widerruf.
+- § 766 BGB: Schriftform der Bürgschaftserklärung
+- § 350 HGB: Formfreiheit für Kaufleute (einseitig)
+- § 138 BGB: Sittenwidrigkeit übermäßiger Bürgschaften
+- §§ 305–310 BGB: AGB-Kontrolle für Bürgschaftsklauseln in Allgemeinen Kreditbedingungen
+- Art. 247 EGBGB: vorvertragliche Informationspflichten bei Verbraucherverträgen
+- BGH-Rechtsprechung zur Sittenwidrigkeit bei finanziell überfordertem Bürgen: nur nach Live-Prüfung zitieren
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Ist die Bürgschaftserklärung schriftlich erteilt worden; fehlt Unterschrift oder Text?
+- Handelt es sich um einen Verbraucher oder Kaufmann als Bürgen?
+- Steht das Bürgschaftsrisiko in einem krassen Missverhältnis zum Einkommen des Bürgen?
+- Besteht eine enge persönliche Verbindung zwischen Bürgen und Hauptschuldner?
+- Liegt eine AGB-Bürgschaftsklausel vor?
 
+## Prüfraster
+
+1. Schriftform nach § 766 BGB: eigenhändige Unterzeichnung, vollständiger Urkundentext
+2. Ausnahme für Kaufleute: § 350 HGB prüfen (einseitig, wenn Bürgschaft für Bürgen Handelsgeschäft)
+3. Verbraucherbürgschaft: Informationspflichten nach Art. 247 EGBGB?
+4. Sittenwidrigkeit nach § 138 BGB: krasses Missverhältnis zwischen Bürgschaftsumfang und wirtschaftlicher Leistungsfähigkeit
+5. Emotionale Nähe als Indiz für Sittenwidrigkeit (Ehegatten, Kinder als Bürgen für Unternehmensschulden)
+6. AGB-Bürgschaftsklauseln: Inhaltskontrolle nach § 307 BGB
+7. Folgen der Sittenwidrigkeit: Gesamtnichtigkeit nach § 138 Abs. 1 BGB
+8. Verjährung des Bürgschaftsanspruchs: § 195 BGB
+
+## Fallstricke
+
+- Mündliche oder telegrafische Bürgschaft ist nach § 766 BGB nichtig (Ausnahme § 350 HGB).
+- Sittenwidrigkeitsprüfung ist einzelfallabhängig; allgemeine Faustformeln unzuverlässig.
+- AGB-Bürgschaftsklauseln in Bankverträgen werden oft als überraschend (§ 305c BGB) oder unangemessen (§ 307 BGB) eingestuft.
+- Bürgschaftserweiterungen für zukünftige Verbindlichkeiten müssen ausdrücklich vereinbart sein.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +51,30 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Formprüfung mit Ergebnis (wirksam/nichtig)
+- Sittenwidrigkeitsprüfung mit Einkommensvergleich
+- AGB-Risikoliste
+- Handlungsempfehlung und Risikoampel
+
+## Qualitätsregeln
+
+- Sittenwidrigkeitsprüfung immer auf konkrete Zahlen stützen.
+- AGB-Bürgschaftsklauseln im Zweifelsfall gesondert prüfen.
+- BGH-Rechtsprechung zu Angehörigenbürgschaften nur nach Live-Prüfung zitieren.
+
+## Anschluss-Skills
+
+- buergschaft-grundschema-paragraph-765
+- buergschaft-einreden-und-akzessorietaet
+- schnittstelle-bgb-at-methodenlehre-agb
+- workflow-red-team-gegenseite
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__766.html
+- https://www.gesetze-im-internet.de/bgb/__765.html
+- https://www.gesetze-im-internet.de/bgb/__307.html
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

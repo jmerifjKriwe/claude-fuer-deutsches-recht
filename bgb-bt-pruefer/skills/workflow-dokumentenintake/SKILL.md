@@ -1,24 +1,46 @@
 ---
 name: workflow-dokumentenintake
-description: "Sortiert Verträge, Rechnungen, Chats, Fotos, Gutachten, Mahnungen und Kontoauszüge für BGB-BT-Prüfungen."
+description: "Dokumenten-Intake für BGB-BT-Mandate: Unterlagen sichten, Aktenstruktur anlegen, Fristen erfassen."
 ---
-# Dokumentenintake BGB BT
+# Workflow: Dokumenten-Intake
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Mandanten-Unterlagen für BGB-BT-Fälle strukturiert aufnehmen: Dokumente sichten und klassifizieren, Aktenstruktur aufbauen, Fristen erfassen und erste Rechtsfragen identifizieren.
 
-## Arbeitsweise
+## Normanker
 
-Erzeuge Chronologie, Dokumententypen, Beweiswert, Lücken und sofortige Fristenhinweise.
+- §§ 195 ff. BGB: Verjährungsfristen (immer als erste Fristen erfassen)
+- §§ 126 ff. BGB: Formvorschriften für Verträge
+- §§ 305 ff. BGB: AGB-Einbeziehung und -Prüfung
+- Prozessrecht: ZPO-Fristen, Klagefrist
+- Amtliches BGB: https://www.gesetze-im-internet.de/bgb/
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Welche Dokumente liegen vor (Vertrag, Rechnungen, Schriftverkehr, Fotos, Gutachten)?
+- Was ist die Rolle des Mandanten (Kläger/Beklagter, Gläubiger/Schuldner)?
+- Gibt es laufende Fristen (Verjährung, Klagedruck, Vertragsfristen)?
+- Welche Parteien sind beteiligt?
+- Was ist das Mandatsziel?
 
+## Prüfraster
+
+1. Dokument-Inventar erstellen: alle vorliegenden Unterlagen listen und klassifizieren
+2. Vertrag prüfen: Vertragstyp, Parteien, Gegenstand, Vergütung, AGB, Formwirksamkeit
+3. Schriftverkehr auswerten: Mängelanzeigen, Mahnungen, Kündigungen, Angebote
+4. Fristen-Sofort-Check: laufende Verjährungsfristen, gerichtliche Fristen, Vertragsfristen
+5. Beweismittel sichten: Fotos, Gutachten, Zeugenaussagen kategorisieren
+6. Rechtsfragen identifizieren: erste Einordnung der Kernprobleme
+7. Lücken-Liste: fehlende Unterlagen die für die Prüfung benötigt werden
+8. Rückfragen-Katalog für den Mandanten
+
+## Fallstricke
+
+- Verjährungsfristen beim Erstgespräch übersehen; kann zu Fristversäumnis führen.
+- AGB nicht als Teil des Vertrags gelesen; können entscheidende Klauseln enthalten.
+- Fehlende Dokumente zu spät identifiziert; Beweissicherung unmöglich.
+- Mehrere Vertragsbeziehungen (Haupt- und Nebenverträge) nicht erkannt.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +50,30 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Dokumenten-Inventar mit Klassifizierung
+- Fristen-Sofortliste (laufende und drohende)
+- Erste Rechtsfragen-Übersicht
+- Rückfragen-Katalog für Mandanten
+
+## Qualitätsregeln
+
+- Verjährungsfristen immer als Priorität beim Intake berechnen.
+- Vollständigkeit der Dokumentenliste aktiv hinterfragen.
+- AGB und Formvorschriften beim ersten Dokumentensichten mitprüfen.
+
+## Anschluss-Skills
+
+- workflow-beweislast-und-belegmatrix
+- workflow-anspruchslandkarte
+- bt-fristen-erklaerungen-zugang
+- verjaehrung-bgb-bt-spezial
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__195.html
+- https://www.gesetze-im-internet.de/bgb/__305.html
+- https://www.gesetze-im-internet.de/bgb/__126.html
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

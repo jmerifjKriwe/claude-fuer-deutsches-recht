@@ -1,24 +1,49 @@
 ---
 name: darlehen-und-finanzierung
-description: "Prüft Gelddarlehen, Verbraucherdarlehen, Kündigung, Widerruf, Zinsen, Sicherheiten und Rückzahlungsstörungen."
+description: "Prüft Darlehensvertrag §§ 488 ff. BGB, Verbraucherdarlehen §§ 491 ff. BGB, Zinsen, Kündigung und Widerruf."
 ---
 # Darlehen und Finanzierung
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Darlehensverträge nach §§ 488 ff. BGB prüfen: Pflichten beider Seiten, Verbraucherdarlehensrecht, Widerrufsrecht und Kündigung bei Zahlungsverzug.
 
-## Arbeitsweise
+## Normanker
 
-Erfasse Darlehensart, Auszahlung, Tilgungsplan, Kündigungsrechte und Sicherheiten.
+- §§ 488–490 BGB: Gelddarlehen, Verzinsung, Kündigung
+- §§ 491–505e BGB: Verbraucherdarlehen, vorvertragliche Informationspflichten, ESIS
+- § 491a BGB: vorvertragliche Informationen beim Verbraucherdarlehen
+- § 495 BGB: Widerrufsrecht des Verbrauchers
+- § 497 BGB: Verzug des Darlehensnehmers
+- § 498 BGB: Kündigung bei Zahlungsverzug (Kreditwürdigkeitsprüfung)
+- § 505 BGB: Immobiliar-Verbraucherdarlehensvertrag
+- Art. 247 EGBGB: Pflichtangaben im Darlehensvertrag
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Handelt es sich um ein Verbraucherdarlehen oder ein Darlehen zwischen Unternehmen?
+- Wurden alle Pflichtinformationen nach Art. 247 EGBGB mitgeteilt?
+- Hat der Verbraucher fristgerecht widerrufen?
+- Liegt ein Zahlungsverzug vor; wurden die Kündigungsvoraussetzungen nach § 498 BGB erfüllt?
+- Welche Zinsen und Nebenkosten wurden vereinbart?
 
+## Prüfraster
+
+1. Vertragsschluss: Angebot, Annahme, Form (§ 492 BGB: Schriftform bei Verbraucherdarlehen)
+2. Pflichtangaben nach Art. 247 EGBGB: vollständig und rechtzeitig?
+3. Widerrufsrecht nach § 495 BGB: Frist (14 Tage), Belehrung, Widerrufsfolgen
+4. Auszahlungsanspruch des Darlehensnehmers; Anspruch auf Rückzahlung des Darlehensgebers
+5. Zinsen: Zinsvereinbarung, gesetzlicher Zinssatz (§ 246 BGB), Verzugszinsen (§ 497 BGB)
+6. Kündigung bei Zahlungsverzug: § 498 BGB (zwei aufeinanderfolgende Raten, Rückstandsquote)
+7. Außerordentliche Kündigung nach § 490 BGB
+8. Vorzeitige Rückzahlung und Vorfälligkeitsentschädigung
+
+## Fallstricke
+
+- Fehlerhafte Widerrufsbelehrung kann Widerrufsfrist auf ein Jahr und 14 Tage verlängern (§ 356b Abs. 2 BGB).
+- Kündigungsvoraussetzungen nach § 498 BGB müssen exakt eingehalten werden; formelle Fehler schaden.
+- Vorfälligkeitsentschädigung ist für Verbraucherdarlehen gesetzlich begrenzt.
+- Zinsen über dem marktüblichen Niveau können auf Sittenwidrigkeit nach § 138 BGB hindeuten.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,12 +53,23 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Vertragstyp-Prüfung (Verbraucherdarlehen/Unternehmensdarlehen)
+- Widerrufsrecht-Zeitlinie
+- Kündigungs-Checkliste nach § 498 BGB
+- Zinsen- und Kostenmatrix
 
+## Qualitätsregeln
+
+- Verbraucherdarlehensrecht immer bei Kreditnehmern, die natürliche Personen sind, prüfen.
+- Widerrufsbelehrung auf inhaltliche Richtigkeit und Vollständigkeit überprüfen.
+- § 498 BGB-Kündigungsvoraussetzungen rechnerisch nachvollziehen.
+
+## Anschluss-Skills
+
+- leasing-bgb-bt-schnittstelle
+- buergschaft-grundschema-paragraph-765
+- schnittstelle-bgb-at-methodenlehre-agb
+- workflow-livequellen-rechtsstand
 
 ## Qualitäts-Hardening
 

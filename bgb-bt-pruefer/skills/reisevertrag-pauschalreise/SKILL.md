@@ -1,24 +1,49 @@
 ---
 name: reisevertrag-pauschalreise
-description: "Prüft Pauschalreise, Reisemangel, Abhilfe, Minderung, Kündigung, Schadensersatz und Entschädigung."
+description: "Reisevertrag §§ 651a ff. BGB und Pauschalreiserichtlinie: Mängel, Abhilfe, Minderung, Rücktritt."
 ---
-# Reisevertrag und Pauschalreise
+# Reisevertrag und Pauschalreise §§ 651a ff. BGB
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Reiserechtliche Ansprüche nach §§ 651a ff. BGB prüfen: Mangelrüge, Abhilfeverlangen, Minderung, Rücktritt und Schadensersatz bei Pauschalreisen nach der Pauschalreise-RL.
 
-## Arbeitsweise
+## Normanker
 
-Erfasse Reisebestätigung, Mangelanzeige, Abhilfeverlangen und Fristen.
+- § 651a BGB: Pauschalreisevertrag (Grundnorm)
+- § 651c BGB: Abhilfe bei Reisemängeln
+- § 651d BGB: Minderung des Reisepreises
+- § 651e BGB: Kündigung des Reisevertrags aus wichtigem Grund
+- § 651f BGB: Schadensersatz und Entschädigung wegen nutzlos aufgewendeter Urlaubszeit
+- § 651h BGB: Rücktritt vor Reisebeginn
+- Richtlinie (EU) 2015/2302: Pauschalreise-RL
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Liegt eine Pauschalreise im Sinne des § 651a BGB vor (mindestens zwei verbundene Reiseleistungen)?
+- Welche Mängel sind aufgetreten (Hotel, Flug, Transfer, Verpflegung)?
+- Wurde Abhilfe verlangt und durch den Reiseveranstalter geleistet?
+- Was ist das Ziel (Minderung, Schadensersatz, Rücktritt, Entschädigung)?
+- Welche Fristen für Mangelrüge und Klage wurden eingehalten?
 
+## Prüfraster
+
+1. Pauschalreise-Begriff bestimmen: verbundene Reiseleistungen nach § 651a Abs. 2 BGB
+2. Reisemangel: Abweichung der tatsächlichen von der vertraglichen Reiseleistung
+3. Mangelrüge am Urlaubsort: Voraussetzung für Gewährleistungsansprüche
+4. Abhilfeverlangen nach § 651c BGB: Fristsetzung, Zurückweisung berechtigt zur Selbsthilfe
+5. Minderung nach § 651d BGB: Herabsetzung des Reisepreises nach Minderungsquote
+6. Schadensersatz nach § 651f BGB: Verlorene Urlaubszeit als immaterieller Schaden
+7. Kündigung aus wichtigem Grund: erhebliche Beeinträchtigung der Reise (§ 651e BGB)
+8. Rücktritt vor Reisebeginn nach § 651h BGB: unvermeidbare außergewöhnliche Umstände
+9. Verjährung: § 651j BGB (zwei Jahre ab Rückkehr)
+
+## Fallstricke
+
+- Mangelrüge am Urlaubsort ist keine Formalität; Unterlassen kann Minderungsanspruch reduzieren.
+- Entschädigung für nutzlos aufgewendete Urlaubszeit ist Sonderform des immateriellen Schadens.
+- COVID-19-Fälle: unvermeidbare außergewöhnliche Umstände nach § 651h Abs. 3 BGB; Rücktrittsrecht für beide Seiten.
+- Verbundene Reiseleistungen nach § 651c BGB (neue Kategorie): andere Rechtslage als Pauschalreise.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +53,29 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Mängelübersicht mit Minderungsquoten-Empfehlung
+- Anspruchsmatrix (Abhilfe, Minderung, Schadensersatz, Kündigung)
+- Fristen-Checkliste (Rüge, Klage, Verjährung)
+- Risikoampel
+
+## Qualitätsregeln
+
+- Pauschalreise-Definition immer sorgfältig prüfen; einzelne Reiseleistungen unterliegen allgemeinem Schuldrecht.
+- Mangelrüge-Obliegenheit am Urlaubsort dokumentieren.
+- Pauschalreise-RL-Umsetzungsstand mitprüfen.
+
+## Anschluss-Skills
+
+- werkvertrag-grundschema-paragraph-631
+- schadensrecht-paragraphen-249-253
+- workflow-fristen-ruecktritt-kuendigung
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__651a.html
+- https://www.gesetze-im-internet.de/bgb/__651f.html
+- https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2302
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

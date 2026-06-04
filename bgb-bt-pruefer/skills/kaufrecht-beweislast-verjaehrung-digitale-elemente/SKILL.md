@@ -1,47 +1,84 @@
 ---
 name: kaufrecht-beweislast-verjaehrung-digitale-elemente
-description: "Prüft Beweislastvermutung, Sonderverjährung und Hemmungs-/Ablaufregeln bei Mängeln an digitalen Elementen, Updatepflichten und Reparaturübergabe."
+description: "Prüft Beweislastumkehr § 477 BGB, Verjährung § 438 BGB und Besonderheiten bei digitalen Elementen."
 ---
+# Kaufrecht: Beweislast, Verjährung und digitale Elemente
 
-# Kaufrecht: Beweislast und Verjährung digitale Elemente
+## Zweck
 
-## Aufgabe
+Beweislastumkehr nach § 477 BGB, Verjährungsfristen nach § 438 BGB und besondere Regeln für Ware mit digitalen Elementen (§§ 475b ff. BGB) prüfen.
 
-Schwerpunkt: § 477 und § 475e BGB. Prüfe einjährige Vermutung, dauerhafte Bereitstellung, Mangelanzeige in der Frist, viermonatige Ablaufhemmung und zwei Monate nach Rückgabe aus Nacherfüllung/Garantie.
+## Normanker
 
-## Sofort klären
+- § 438 BGB: Verjährung der Mängelansprüche
+- § 477 BGB: Beweislastumkehr beim Verbrauchsgüterkauf
+- §§ 475a–475e BGB: Besondere Vorschriften für Verträge über digitale Produkte
+- § 475b BGB: Ware mit digitalen Elementen
+- § 475c BGB: dauerhafte Bereitstellung digitaler Elemente
+- §§ 327 ff. BGB: Verträge über digitale Produkte (Grundregeln)
 
-1. Ist der Käufer Verbraucher und der Verkäufer Unternehmer?
-2. Geht es um eine Sache, ein digitales Produkt oder eine Ware mit digitalen Elementen?
-3. Kann die Ware ohne App, Cloud, Firmware, Konto, Schlüssel, Sensorik oder Update ihre Funktion erfüllen?
-4. Welcher Mangel zeigt sich: Hardware, Software, fehlendes Update, Sicherheitslücke, App-Abschaltung, Reparatursperre, fehlende Anleitung oder falsche öffentliche Äußerung?
-5. Wann wurden Ware, digitale Elemente, Updates und Reparaturversuch bereitgestellt?
-6. Welches Arbeitsprodukt wird gebraucht: Anspruchsmatrix, Mandantenbrief, Klageentwurf, Händlerantwort, Beweis- und Fristenplan?
+## Intake
 
-## Rechtsanker
+- Ist der Mangel innerhalb von einem Jahr nach Gefahrübergang aufgetreten (§ 477 BGB-Frist)?
+- Handelt es sich um Ware mit digitalen Elementen; gilt § 475b oder § 475c BGB?
+- Wann wurde der Mangel entdeckt und wann wurden Gewährleistungsansprüche geltend gemacht?
+- Liegt Verjährung nach § 438 BGB vor?
+- Hat der Verkäufer den Beweis erbracht, dass kein Mangel bei Gefahrübergang vorlag?
 
-- § 327, § 327a, § 327e, § 327f BGB für digitale Produkte und die Abgrenzung zu Waren mit digitalen Elementen.
-- § 434 BGB: subjektive Anforderungen, objektive Anforderungen, Montage-/Installationsanforderungen; Beschaffenheit umfasst Funktionalität, Kompatibilität und Interoperabilität.
-- § 475b BGB: Sachmangel einer Ware mit digitalen Elementen einschließlich Aktualisierungspflichten.
-- § 475c BGB: dauerhafte Bereitstellung digitaler Elemente, mindestens zwei Jahre Haftungszeitraum für digitale Elemente.
-- § 475e BGB: Sonderverjährung bei dauerhafter Bereitstellung, Aktualisierungspflicht, Mangelanzeige und Übergabe zur Nacherfüllung.
-- § 476 BGB: Abweichung von objektiven Anforderungen nur mit eigener Information und ausdrücklicher gesonderter Vereinbarung.
-- § 477 BGB: Beweislastvermutung, bei dauerhafter Bereitstellung digitaler Elemente besonders prüfen.
-- Richtlinie (EU) 2024/1799 zum Recht auf Reparatur: Stand Juni 2026 als EU-Richtlinie mit Umsetzungsprüfung behandeln; nicht als bereits vollständig deutsches BGB-Recht behaupten, wenn das Umsetzungsgesetz nicht geprüft ist.
+## Prüfraster
 
-## Arbeitsprogramm
+1. Verbrauchsgüterkauf nach § 474 BGB: Voraussetzung für § 477 BGB
+2. Beweislastumkehr nach § 477 BGB: Mangel innerhalb von einem Jahr nach Gefahrübergang vermutet
+3. Widerlegung der Vermutung: Verkäufer muss beweisen, dass kein Mangel bei Übergabe bestand
+4. Ausnahme: Beweislastumkehr passt nicht mit Art der Sache oder Art des Mangels zusammen
+5. Verjährung nach § 438 Abs. 1 BGB: Regelfrist zwei Jahre, fünf Jahre bei Bauwerken, 30 Jahre bei arglistig verschwiegenem Mangel
+6. Ware mit digitalen Elementen nach § 475b BGB: Updatepflichten und längere Mängelprüfung
+7. Dauerhafte Bereitstellung digitaler Elemente nach § 475c BGB: Verjährung besonders berechnen
+8. Verjährungsbeginn: Ablieferung der Sache
 
-1. **Vertragstyp trennen.** Kauf einer Ware mit digitalen Elementen (§ 475b/§ 475c) ist nicht dasselbe wie reiner Digitalvertrag (§§ 327 ff.). § 327a Abs. 3 ist der Router.
-2. **Mangelzeitpunkt und Zeitraum klären.** Bei Hardware regelmäßig Gefahrübergang; bei Updatepflicht und dauerhaften digitalen Elementen den Zeitraum der Bereitstellung/Erwartbarkeit prüfen.
-3. **Updatepflicht konkretisieren.** Welche Updates waren vereinbart, welche waren objektiv für Vertragsmäßigkeit/Sicherheit nötig, wer hat informiert, was hat der Verbraucher installiert oder nicht installiert?
-4. **Reparaturrecht mitdenken.** Nacherfüllung kann Reparatur oder Ersatzlieferung sein; Right-to-Repair künftig zusätzlich mit Hersteller-/Repairer-Informationspflichten, Reparaturformular, Plattform und Verbot sachwidriger Reparaturhindernisse prüfen.
-5. **Beweise bauen.** Screenshots App, Update-Logs, Händlerchat, öffentliche Werbung, Reparaturprotokoll, Diagnosedaten, Seriennummer, Firmwarestand, Konto-/Cloud-Abhängigkeit.
-6. **Output liefern.** Immer mit Kurzampel, Anspruchsgrundlagen, Fristen, Beweislast, nächstem Schreiben und Anschluss-Skills.
+## Fallstricke
 
-## Quellenhygiene
+- § 477 BGB-Frist wurde 2022 von sechs Monaten auf ein Jahr verlängert; altes Recht nicht anwenden.
+- Beweislastumkehr schlägt nicht durch, wenn Art des Mangels mit Mängel-bei-Gefahrübergang unvereinbar ist.
+- Digitale Elemente mit Updatepflicht verlängern effektiv die Mängelhaftungsphase.
+- Arglistig verschwiegener Mangel: dreißigjährige Verjährungsfrist nach § 438 Abs. 3 BGB.
+## Stoppschilder
 
-Normen live über gesetze-im-internet.de prüfen. EU-Rechtsstand live über EUR-Lex oder Kommissionsseite prüfen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei überprüfbarer Quelle.
+- Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
+- Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
+- Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
+
+## Output
+
+- Beweislastverteilung (Käufer/Verkäufer)
+- Verjährungskalender mit Fristberechnung
+- Digitale-Elemente-Sonderfragen
+- Risikoampel
+
+## Qualitätsregeln
+
+- Neue Ein-Jahres-Frist nach § 477 BGB (ab 2022) korrekt anwenden.
+- Verjährungsfristen für Bauwerke und digitale Elemente gesondert berechnen.
+- Arglistiges Verschweigen immer auf dreißigjährige Frist prüfen.
 
 ## Anschluss-Skills
 
-Nach der Erstprüfung je nach Schwerpunkt `kaufrecht-sachmangel-paragraph-434`, `kaufrecht-nacherfuellung-ruecktritt-minderung`, `kaufrecht-schadensersatz-aufwendungsersatz`, `verbrauchsgueterkauf-digitales`, `schnittstelle-bgb-at-methodenlehre-agb` oder `produzentenhaftung-und-verkehrssicherung` ziehen.
+- kaufrecht-sachmangel-paragraph-434
+- kaufrecht-nacherfuellung-ruecktritt-minderung
+- verbrauchsgueterkauf-digitales
+- kaufrecht-ware-mit-digitalen-elementen-475b
+
+
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__477.html
+- https://www.gesetze-im-internet.de/bgb/__438.html
+- https://www.gesetze-im-internet.de/bgb/__475b.html
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

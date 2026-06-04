@@ -35,6 +35,12 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 - Anschluss-Skill-Empfehlung
 
 
+
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/
+- https://www.bundesgerichtshof.de/
+- https://dejure.org/gesetze/BGB
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -1,24 +1,49 @@
 ---
 name: mietvertrag-grundschema-paragraph-535
-description: "Prüft Gebrauchsüberlassung, Miete, Mangel, Minderung, Kündigung und Rückgabe."
+description: "Mietvertrag § 535 BGB: Pflichten, Gebrauchsüberlassung, Kündigung, Kaution und Schönheitsreparaturen."
 ---
 # Mietvertrag Grundschema § 535 BGB
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Mietvertrag nach § 535 BGB vollständig prüfen: gegenseitige Hauptleistungspflichten, Vertragsgestaltung, Kündigungsrecht und typische AGB-Klauseln in Mietverträgen.
 
-## Arbeitsweise
+## Normanker
 
-Baue Wohnraum/Gewerberaum/sonstige Miete auseinander und route zu Fachplugins, wenn nötig.
+- § 535 BGB: Vertragstypische Pflichten beim Mietvertrag
+- §§ 536 ff. BGB: Mängel der Mietsache
+- §§ 537 und 538 BGB: Verschlechterung durch vertragsgemäßen Gebrauch
+- § 542 BGB: Ende des Mietverhältnisses
+- §§ 573 und 574 BGB: Kündigung und Widerspruchsrecht bei Wohnraum
+- § 551 BGB: Begrenzung der Mietsicherheit
+- § 556d BGB: Mietpreisbremse (Wohnraum)
+- § 556g BGB: Rechtsfolgen bei Verstößen gegen Mietpreisbremse
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Wohnraum- oder Gewerberaummietvertrag?
+- Was ist der konkrete Streitpunkt (Kündigung, Kaution, Schönheitsreparaturen, Mieterhöhung, Mangel)?
+- Wer ist Mandant (Vermieter oder Mieter)?
+- Gilt die Mietpreisbremse (Ort, Wohnraum, Datum)?
+- Welche Fristen laufen (Kündigungsfrist, Widerspruchsfrist)?
 
+## Prüfraster
+
+1. Vertragsschluss: Formerfordernis (Schriftform bei mehr als 1 Jahr § 550 BGB), AGB-Einbeziehung
+2. Hauptpflichten des Vermieters: Gebrauchsüberlassung in vertragsgemäßem Zustand (§ 535 Abs. 1 BGB)
+3. Hauptpflichten des Mieters: Mietzahlung (§ 535 Abs. 2 BGB), pfleglicher Gebrauch
+4. Nebenkosten: Umlage nach Betriebskostenverordnung, formelle Anforderungen Betriebskostenabrechnung
+5. Schönheitsreparaturen-Klauseln: AGB-Kontrolle nach §§ 307 ff. BGB (BGH-Linie zu starren Fristen)
+6. Kaution: Höchstbetrag § 551 BGB, Anlage auf Treuhandkonto, Rückgabe
+7. Kündigung: ordentlich (§§ 568 und 573 BGB) oder außerordentlich (§ 543 BGB); Fristen und Form
+8. Mieterhöhung: §§ 558 ff. BGB (ortsübliche Vergleichsmiete), Mietpreisbremse §§ 556d ff. BGB
+
+## Fallstricke
+
+- Schönheitsreparaturklauseln sind häufig nach BGH-Rechtsprechung unwirksam; Prüfung im Einzelfall.
+- Formverstoß bei Schriftform (§ 550 BGB) führt zu unbefristetem Mietvertrag mit 1-Jahres-Kündigung.
+- Betriebskostenabrechnung muss innerhalb von 12 Monaten nach Abrechnungszeitraum erfolgen (§ 556 Abs. 3 BGB).
+- Eigenbedarfskündigung muss konkrete Nutzungsabsicht nennen; Vorspiegelung begründet Schadensersatz.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,12 +53,23 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Mietvertragsstruktur-Checkliste (Pflichten, Form, Nebenkosten, Kündigung)
+- AGB-Klausel-Scan (Schönheitsreparaturen, Kaution, Haftung)
+- Kündigungsschema (Voraussetzungen, Fristen, Form)
+- Risikoampel für Vermieter und Mieter
 
+## Qualitätsregeln
+
+- Wohnraum- und Gewerberaummietrecht unterscheiden; Mietpreisbremse gilt nur bei Wohnraum.
+- Schönheitsreparaturklauseln grundsätzlich auf BGH-Wirksamkeit prüfen.
+- Betriebskostenabrechnung-Formalia immer mitprüfen.
+
+## Anschluss-Skills
+
+- mietrecht-mangel-minderung
+- workflow-fristen-ruecktritt-kuendigung
+- bt-vertragsentwurf-modellvertrag
+- schnittstelle-bgb-at-methodenlehre-agb
 
 ## Qualitäts-Hardening
 

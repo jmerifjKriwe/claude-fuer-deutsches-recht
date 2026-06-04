@@ -1,24 +1,46 @@
 ---
 name: deliktsrecht-haftung-fuer-verrichtungen-paragraph-831
-description: "Prüft Verrichtungsgehilfe, Ausführung der Verrichtung, Exkulpation, Auswahl/Überwachung und Schaden."
+description: "Prüft Haftung für Verrichtungsgehilfen § 831 BGB: Verrichtungsgehilfe, Exkulpation und Schaden."
 ---
-# Haftung für Verrichtungsgehilfen § 831 BGB
+# Deliktsrecht: Haftung für Verrichtungen § 831 BGB
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Gehilfenhaftung nach § 831 BGB vollständig prüfen: Gehilfeneigenschaft, Schaden bei Ausführung der Verrichtung und Entlastungsbeweis des Geschäftsherrn.
 
-## Arbeitsweise
+## Normanker
 
-Trenne § 831 von § 278 BGB.
+- § 831 BGB: Haftung des Geschäftsherrn für Verrichtungsgehilfen
+- § 278 BGB: Haftung des Schuldners für Erfüllungsgehilfen (Abgrenzung)
+- § 823 BGB: deliktische Eigenhaftung des Verrichtungsgehilfen
+- § 840 BGB: gesamtschuldnerische Haftung von Geschäftsherrn und Verrichtungsgehilfen
+- § 31 BGB: Haftung für Organe (kein Exkulpationsmöglichkeit)
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Wer ist der Geschäftsherr und wer ist der Verrichtungsgehilfe?
+- Hat der Verrichtungsgehilfe eine unerlaubte Handlung begangen?
+- Bestand ein Weisungsverhältnis und wurde die Handlung in Ausführung der Verrichtung begangen?
+- Kann der Geschäftsherr darlegen, dass er sorgfältig ausgewählt, angeleitet und überwacht hat?
+- Liegt eine Schadensersatzpflicht nach § 823 BGB auch des Verrichtungsgehilfen vor?
 
+## Prüfraster
+
+1. Verrichtungsgehilfe: weisungsgebundene Tätigkeit in Abhängigkeit vom Geschäftsherrn
+2. Unerlaubte Handlung des Verrichtungsgehilfen nach §§ 823 ff. BGB
+3. Zusammenhang mit der Verrichtung: Handlung in Ausführung (nicht nur bei Gelegenheit)
+4. Kausalität und Schaden beim Geschädigten
+5. Exkulpation nach § 831 Abs. 1 Satz 2 BGB: sorgfältige Auswahl, Instruktion und Überwachung
+6. Dezentralisierte Unternehmen: Auswahl eines Leitungsverantwortlichen kann genügen
+7. Gesamtschuld: Geschäftsherr und Verrichtungsgehilfe haften nach § 840 BGB als Gesamtschuldner
+8. Regress des Geschäftsherrn gegen Verrichtungsgehilfen nach § 840 Abs. 2 BGB
+
+## Fallstricke
+
+- Handlung bei Gelegenheit der Verrichtung (nicht in Ausführung) löst keine § 831 BGB-Haftung aus.
+- Exkulpationsbeweis ist schwierig; bloße formale Richtlinien reichen nicht aus.
+- Bei juristischen Personen gilt § 31 BGB für Organe ohne Exkulpationsmöglichkeit.
+- Verrichtungsgehilfe haftet daneben persönlich nach § 823 BGB.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +50,30 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Gehilfenhaftungs-Schema (Geschäftsherr, Gehilfe, Schaden, Zusammenhang)
+- Exkulpations-Checkliste
+- Gesamtschuldnerische Haftungsmatrix
+- Risikoampel und Handlungsempfehlungen
+
+## Qualitätsregeln
+
+- In-Ausführung vs. bei-Gelegenheit immer klar abgrenzen.
+- Exkulpationsbeweis vollständig aufnehmen und würdigen.
+- § 31 BGB und § 831 BGB nicht verwechseln.
+
+## Anschluss-Skills
+
+- delikt-organisationspflicht
+- deliktsrecht-paragraph-823-1
+- delikt-vertrag-konkurrenz
+- produzentenhaftung-und-verkehrssicherung
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__831.html
+- https://www.gesetze-im-internet.de/bgb/__823.html
+- https://www.gesetze-im-internet.de/bgb/__276.html
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

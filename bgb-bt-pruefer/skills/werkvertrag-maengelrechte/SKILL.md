@@ -1,24 +1,49 @@
 ---
 name: werkvertrag-maengelrechte
-description: "Prüft § 634 BGB: Nacherfüllung, Selbstvornahme, Rücktritt, Minderung, Schadensersatz."
+description: "Werkvertrag-Mängelrechte §§ 633-638 BGB: Nacherfüllung, Selbstvornahme, Minderung, Schadensersatz."
 ---
-# Mängelrechte im Werkvertrag
+# Werkvertrag Mängelrechte §§ 633-638 BGB
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Werkvertragliche Mängelrechte nach §§ 633-638 BGB vollständig prüfen: Mangeldefinition, Nacherfüllungsrecht, Selbstvornahme, Minderung, Rücktritt und Schadensersatz.
 
-## Arbeitsweise
+## Normanker
 
-Trenne Mangel, Frist, Unzumutbarkeit, Kosten und Verjährung.
+- § 633 BGB: Sach- und Rechtsmangel beim Werkvertrag
+- § 634 BGB: Rechte des Bestellers (Stufenverhältnis)
+- § 635 BGB: Nacherfüllung (Nachbesserung oder Neuherstellung)
+- § 636 BGB: Besondere Bestimmungen für Rücktritt und Schadensersatz ohne Fristsetzung
+- § 637 BGB: Selbstvornahme und Aufwendungsersatz
+- § 638 BGB: Minderung der Vergütung
+- § 634a BGB: Verjährung der Mängelansprüche
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Welcher Mangel liegt vor (Sachmangel: subjektiv, objektiv; Rechtsmangel)?
+- Wann wurde der Mangel entdeckt und angezeigt?
+- Wurde Nacherfüllung verlangt und eine Frist gesetzt?
+- Wurde Nacherfüllung abgelehnt oder ist sie fehlgeschlagen?
+- Ist Verjährung eingetreten?
 
+## Prüfraster
+
+1. Mangelbegriff nach § 633 BGB: subjektive Anforderungen (Vereinbarung), objektive Anforderungen (Üblichkeit), Montage
+2. Mangel bei Abnahme vorhanden: Beweislastregel und Abnahme-Zeitpunkt
+3. Fristsetzung zur Nacherfüllung: Grundvoraussetzung für Rücktritt, Minderung, Schadensersatz
+4. Nacherfüllung nach § 635 BGB: Anspruch des Bestellers; Wahlrecht Nachbesserung oder Neuherstellung
+5. Ausnahmen von der Fristsetzung nach § 636 BGB: ernsthafte und endgültige Verweigerung, besondere Umstände
+6. Selbstvornahme nach § 637 BGB: Fristsetzung fehlgeschlagen oder entbehrlich; Aufwendungsersatz
+7. Minderung nach § 638 BGB: verhältnismäßige Herabsetzung der Vergütung
+8. Schadensersatz: §§ 280 und 281 BGB (Pflichtverletzung und Verschulden); statt Leistung oder neben Leistung
+9. Verjährung: § 634a Abs. 1 BGB (2 Jahre für bewegliche Sachen; 5 Jahre für Bauwerke)
+
+## Fallstricke
+
+- Fristsetzung fehlt: kein Rücktritt, keine Minderung, kein Schadensersatz statt Leistung.
+- Nacherfüllungsrecht des Unternehmers ist subjektives Recht; Besteller muss es einräumen.
+- Selbstvornahme nur nach fehlgeschlagener oder endgültig abgelehnter Nacherfüllung.
+- Verjährung beginnt mit Abnahme (§ 634a Abs. 2 BGB), nicht mit Mangelentdeckung.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,12 +53,23 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Mängel-Beschreibung und Zuordnung (subjektiv, objektiv, Montage)
+- Mängelrecht-Stufenschema (Nacherfüllung → Minderung/Rücktritt → Schadensersatz)
+- Fristsetzungs-Dokumentation
+- Verjährungs-Berechnung
 
+## Qualitätsregeln
+
+- Fristsetzung und Entbehrlichkeitsalternativen immer vollständig prüfen.
+- Verjährungsbeginn (Abnahme) von Mangelentdeckung strikt trennen.
+- § 637 BGB-Selbstvornahme nur nach korrekter Fristsetzung annehmen.
+
+## Anschluss-Skills
+
+- werkvertrag-abnahme-und-faelligkeit
+- werkvertrag-grundschema-paragraph-631
+- verjaehrung-bgb-bt-spezial
+- schadensrecht-paragraphen-249-253
 
 ## Qualitäts-Hardening
 

@@ -4,21 +4,48 @@ description: "Prüft Auftrag §§ 662 ff. BGB, Weisungen, Auskunft, Rechenschaft
 ---
 # Auftrag und unentgeltliche Tätigkeit
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Auftragsverhältnisse nach §§ 662 ff. BGB prüfen: Unentgeltlichkeit, Weisungsbindung, Aufwendungsersatz und Beendigung durch freie Kündigung.
 
-## Arbeitsweise
+## Normanker
 
-Ordne Gefälligkeit, Auftrag und Geschäftsbesorgung.
+- § 662 BGB: Auftragsdefinition, Unentgeltlichkeit als Wesensmerkmal
+- § 663 BGB: Anzeigepflicht bei Ablehnung
+- § 665 BGB: Abweichung von Weisungen
+- § 666 BGB: Auskunfts- und Rechenschaftspflicht
+- § 667 BGB: Herausgabepflicht
+- § 670 BGB: Aufwendungsersatz
+- § 671 BGB: Widerruf und Kündigung
+- § 672 BGB: Erlöschen des Auftrags bei Tod oder Geschäftsunfähigkeit
+- § 675 BGB: Geschäftsbesorgungsvertrag (entgeltlich)
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Liegt eine unentgeltliche Geschäftsbesorgung vor oder ist ein Entgelt versprochen?
+- Welche Weisungen wurden erteilt und wurden sie befolgt?
+- Hat der Beauftragte Auskunft und Rechenschaft erteilt?
+- Welche Aufwendungen sind entstanden und wie sind sie belegt?
+- Hat der Auftraggeber den Auftrag widerrufen oder der Beauftragte gekündigt?
+- Gibt es Herausgabeansprüche (Geld, Dokumente, Erlöse)?
 
+## Prüfraster
+
+1. Abgrenzung: Auftrag (§ 662 BGB) vs. Geschäftsbesorgung (§ 675 BGB) vs. Gefälligkeit
+2. Weisungsbindung nach § 665 BGB: Wann darf der Beauftragte abweichen?
+3. Auskunfts- und Rechenschaftspflicht nach § 666 BGB: Umfang und Durchsetzung
+4. Herausgabepflicht nach § 667 BGB: Was muss herausgegeben werden?
+5. Aufwendungsersatz nach § 670 BGB: erforderliche Aufwendungen, Vorschusspflicht
+6. Kündigung: Widerruf durch Auftraggeber (§ 671 Abs. 1 BGB) und Kündigung durch Beauftragten (§ 671 Abs. 2 BGB)
+7. Schadensersatz bei Pflichtverletzung: §§ 280 und 241 Abs. 2 BGB
+8. Verjährung nach §§ 195 und 199 BGB
+
+## Fallstricke
+
+- Entgelt oder Erwartung von Gegenleistung schließt Auftrag aus; dann § 675 BGB prüfen.
+- Eigenmächtige Abweichung von Weisungen begründet Schadensersatzpflicht nach § 665 BGB.
+- Herausgabepflicht nach § 667 BGB umfasst auch rechtswidrig erlangte Vorteile.
+- Freie Kündigung durch den Beauftragten kann nach § 671 Abs. 2 BGB Schadensersatzpflicht auslösen.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -29,11 +56,22 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 ## Output
 
 - Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Anspruchsmatrix (Aufwendungsersatz, Herausgabe, Schadensersatz)
+- Prüfvermerk zum Vertragstypus
+- Fristenliste und Lückenkatalog
 
+## Qualitätsregeln
+
+- Abgrenzung Auftrag/Geschäftsbesorgung/Gefälligkeit immer explizit vornehmen.
+- Herausgabepflicht und Aufwendungsersatz getrennt prüfen.
+- Keine BGH-Entscheidung ohne Live-Verifikation verwenden.
+
+## Anschluss-Skills
+
+- geschaeftsbesorgung-auftrag-mandat
+- goa-grundschema-paragraph-677
+- unechte-goa-paragraph-687
+- geschaeftsbesorgung-und-zahlungsdienste
 
 ## Qualitäts-Hardening
 

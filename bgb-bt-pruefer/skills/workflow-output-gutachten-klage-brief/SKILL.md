@@ -1,24 +1,46 @@
 ---
 name: workflow-output-gutachten-klage-brief
-description: "Erstellt aus der Prüfung Gutachten, Klageskizze, Mandantenbrief, Vergleichsvorschlag, Anspruchstabelle oder Beweisplan."
+description: "Output-Workflow: Gutachten, Klage und Brief im BGB BT – Struktur, Stil und Qualitätskontrolle."
 ---
-# Output-Wahl BGB BT
+# Workflow: Output Gutachten, Klage und Brief
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Arbeitsergebnisse im BGB Besonderer Teil als Gutachten, Klageschrift oder Anwaltsbrief strukturieren, formulieren und auf Qualität prüfen.
 
-## Arbeitsweise
+## Normanker
 
-Wähle Ton und Tiefe nach Rolle: Anfänger, Referendar, Anwalt, Richterentwurf oder Mandantenkommunikation.
+- ZPO § 253: Inhalt der Klageschrift
+- BRAO § 43a: Berufspflichten (sachlich, sorgfältig)
+- BORA § 11: Schriftverkehr mit der Gegenseite
+- §§ 126 ff. BGB: Formanforderungen für schriftliche Erklärungen
+- Amtliches BGB: https://www.gesetze-im-internet.de/bgb/
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Was ist das gewünschte Output-Format (Rechtsgutachten, Klage, Mandantenbrief, Schriftsatz)?
+- An wen richtet sich das Dokument (Mandant, Gericht, Gegenseite, Behörde)?
+- Welche Sachverhalts- und Rechtskenntnisse liegen vor?
+- Welcher Stil ist gewünscht (Gutachtenstil, Formulierungsstil, Beratungsbrief)?
+- Gibt es Längen- oder Formvorgaben?
 
+## Prüfraster
+
+1. Dokumenttyp bestimmen: Gutachten (Prüfungsstil), Klage (§ 253 ZPO-Anforderungen), Brief (Mandantensprache)
+2. Struktur festlegen: beim Gutachten (Sachverhalt, Rechtsfrage, Ergebnis); bei der Klage (Rubrum, Anträge, Sachverhalt, Rechtsgründe)
+3. Gutachtenstil: Obersatz, Definition, Subsumtion, Ergebnis (ODSE-Schema)
+4. Klage: Klageanträge präzise formulieren; Streitwertangabe nach § 253 ZPO
+5. Anwaltsbrief: Verständliche Sprache, Handlungsempfehlung, Risikoampel
+6. Quellen und Rechtsprechung einbauen: nur verifizierten Quellen; Aktenzeichen und Datum
+7. Qualitätskontrolle: Vollständigkeit, Widerspruchsfreiheit, Normtreue
+8. Stilistische Bereinigung: kein Fachjargon in Mandantenbriefen; keine Umgangssprache in Klageschriften
+
+## Fallstricke
+
+- Gutachtenstil im Mandantenbrief: zu abstrakt und unverständlich für Laien.
+- Klageanträge unscharf formuliert: Vollstreckungsprobleme.
+- Quellennachweise fehlen: Gutachten nicht überprüfbar.
+- Fristen und Vorbehalte in Briefen vergessen (z.B. Verjährungshemmung durch Klagezustellung).
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +50,30 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Strukturvorlage für gewünschtes Output-Format
+- Formulierungsentwurf
+- Qualitäts-Checkliste
+- Finales Dokument
+
+## Qualitätsregeln
+
+- Output-Format immer auf Empfänger und Zweck abstimmen.
+- Gutachten-ODSE-Schema konsequent einhalten.
+- Klageanträge vor Einreichung nochmals auf Vollstreckbarkeit prüfen.
+
+## Anschluss-Skills
+
+- workflow-anspruchslandkarte
+- workflow-beweislast-und-belegmatrix
+- workflow-fristen-ruecktritt-kuendigung
+- bt-vertragsentwurf-modellvertrag
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/zpo/__253.html
+- https://www.gesetze-im-internet.de/brao/__43a.html
+- https://www.gesetze-im-internet.de/bgb/
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

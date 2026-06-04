@@ -1,24 +1,46 @@
 ---
 name: kaufrecht-gefahruebergang-und-versendung
-description: "Prüft Gefahrübergang, Versendung, Annahmeverzug, Transportverlust und Verbrauchsgüter-Ausnahmen."
+description: "Prüft Gefahrübergang § 446 BGB, Versendungskauf § 447 BGB und Ausnahmen beim Verbrauchsgüterkauf."
 ---
-# Gefahrübergang und Versendungskauf
+# Kaufrecht: Gefahrübergang und Versendung
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Gefahrübergang nach §§ 446 und 447 BGB prüfen: Zeitpunkt, Übergabe, Versendung, Verbrauchsgüterkaufausnahme und Rechtsfolgen bei Untergang der Sache.
 
-## Arbeitsweise
+## Normanker
 
-Erfasse Übergabe, Versandabrede, Transportperson, Verbraucherstatus und Schadenzeitpunkt.
+- § 446 BGB: Gefahrübergang bei Übergabe der Sache
+- § 447 BGB: Versendungskauf, Gefahrübergang bei Übergabe an Transportperson
+- § 475 Abs. 2 BGB: Ausnahme beim Verbrauchsgüterkauf (Gefahrübergang erst bei Übergabe)
+- § 300 Abs. 2 BGB: Gefahrübergang bei Gläubigerverzug
+- §§ 243 und 244 BGB: Gattungsschuld und Konkretisierung
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Handelt es sich um einen Versendungskauf nach § 447 BGB?
+- Hat der Käufer die Versendung veranlasst oder hat der Verkäufer auf Wunsch des Käufers versandt?
+- Liegt ein Verbrauchsgüterkauf vor; gilt § 475 Abs. 2 BGB?
+- Ist die Sache auf dem Transportweg beschädigt oder untergegangen?
+- War die Sache bereits konkretisiert (bei Gattungsschuld nach § 243 BGB)?
 
+## Prüfraster
+
+1. Gefahrübergang bei Übergabe nach § 446 BGB: Zeitpunkt und Ort der Übergabe
+2. Versendungskauf nach § 447 BGB: Käufer hat Versendung veranlasst oder Ort ist kein Erfüllungsort
+3. Gefahrübergang beim Versendungskauf: Übergabe an Transportperson, nicht beim Empfänger
+4. Verbrauchsgüterkaufausnahme nach § 475 Abs. 2 BGB: Gefahrübergang erst bei Übergabe an Verbraucher
+5. Gläubigerverzug: § 300 Abs. 2 BGB kann Gefahrübergang vorziehen
+6. Gattungsschuld: Konkretisierung nach § 243 BGB Voraussetzung für Gefahrübergang
+7. Folgen des Gefahrübergangs: Käufer trägt Gefahr des zufälligen Untergangs (Preisgefahr und Leistungsgefahr)
+8. Beweislast: wer beweist den Zustand bei Gefahrübergang?
+
+## Fallstricke
+
+- Bei Verbrauchsgüterkauf geht Gefahr nicht auf den Verbraucher über, solange Ware nicht übergeben wurde.
+- § 447 BGB gilt im Verbrauchsgüterkauf nicht zu Lasten des Käufers.
+- Gefahrübergang und Eigentumsverschaffung können zeitlich auseinanderfallen.
+- Gläubigerverzug des Käufers (Annahmeverzug) verschiebt Gefahrübergang nach § 300 Abs. 2 BGB.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +50,30 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Gefahrübergangs-Zeitlinie
+- Versendungskauf-Analyse
+- Verbraucherschutzausnahme-Prüfung
+- Beweislastverteilung
+
+## Qualitätsregeln
+
+- § 447 BGB und § 475 Abs. 2 BGB immer im selben Atemzug prüfen.
+- Gattungsschuld immer auf Konkretisierung prüfen.
+- Gefahrübergang und Eigentumsverschaffung nicht verwechseln.
+
+## Anschluss-Skills
+
+- kaufvertrag-grundschema-paragraph-433
+- kaufrecht-sachmangel-paragraph-434
+- kaufrecht-nacherfuellung-ruecktritt-minderung
+- bt-fristen-erklaerungen-zugang
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__446.html
+- https://www.gesetze-im-internet.de/bgb/__447.html
+- https://www.gesetze-im-internet.de/bgb/__474.html
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -1,24 +1,49 @@
 ---
 name: bereicherungsrecht-leistungskondiktion
-description: "Prüft Leistung, Etwas erlangt, ohne Rechtsgrund, Zweckverfehlung und Rückabwicklung."
+description: "Prüft Leistungskondiktion §§ 812 ff. BGB: Kondiktionstypen, Leistungsbegriff, Rechtsgrund und Subsidiarität."
 ---
-# Leistungskondiktion § 812 Abs. 1 S. 1 Alt. 1
+# Bereicherungsrecht: Leistungskondiktion
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Leistungskondiktionen nach § 812 Abs. 1 BGB systematisch prüfen: condictio indebiti, condictio ob causam finitam, condictio ob rem und Leistungsbegriff nach Zweckbestimmung.
 
-## Arbeitsweise
+## Normanker
 
-Route tiefe Fälle zum Bereicherungs-Plugin, liefere BGB-BT-Schnittstelle.
+- § 812 Abs. 1 Satz 1 Alt. 1 BGB: condictio indebiti (Leistung ohne Rechtsgrund)
+- § 812 Abs. 1 Satz 2 Alt. 1 BGB: condictio ob causam finitam (Rechtsgrund entfällt nachträglich)
+- § 812 Abs. 1 Satz 2 Alt. 2 BGB: condictio ob rem (Zweck wird nicht erreicht)
+- § 813 BGB: Leistung auf einredebehaftete Forderung
+- § 814 BGB: Kenntnis der Nichtschuld (Kondiktionssperre)
+- § 815 BGB: Kondiktionssperre bei vorsätzlicher Zweckvereitelung
+- § 816 BGB: Nichtberechtigter verfügt wirksam
+- § 817 BGB: Leistung zu verbotenem Zweck
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Was wurde geleistet (Geld, Sache, Dienstleistung, Grundstück)?
+- Bestand ein Rechtsgrund bei Leistung; ist er später entfallen?
+- Kannte der Leistende die Nichtschuld (§ 814 BGB)?
+- Handelt es sich um eine Leistung zwischen den Parteien oder gegenüber Dritten?
+- Welcher Kondiktionstyp ist einschlägig?
 
+## Prüfraster
+
+1. Leistung: bewusste und zweckgerichtete Mehrung fremden Vermögens bestimmen
+2. Auf Kosten des Bereicherungsgläubigers: unmittelbare Vermögensverschiebung prüfen
+3. Ohne Rechtsgrund (§ 812 Abs. 1 Satz 1 Alt. 1 BGB): fehlender Rechtsgrund bei Leistung
+4. Nachträglicher Wegfall (§ 812 Abs. 1 Satz 2 Alt. 1 BGB): Rücktritt, Anfechtung, Bedingungseintritt
+5. Zweckverfehlung (§ 812 Abs. 1 Satz 2 Alt. 2 BGB): Zweck nicht eingetreten
+6. Kondiktionssperren: §§ 814 und 815 BGB prüfen
+7. Höhe: §§ 818 und 819 BGB; Entreicherungseinwand; Herausgabe oder Wertersatz
+8. Verjährung: §§ 195 und 199 BGB
+
+## Fallstricke
+
+- § 814 BGB sperrt die condictio indebiti, wenn der Leistende die Nichtschuld kannte.
+- Leistungskondiktion hat Vorrang vor Nichtleistungskondiktion im Mehrpersonenverhältnis.
+- Nichtigkeit nach § 134 oder § 138 BGB kann zu § 817 Satz 2 BGB und Kondiktionssperre führen.
+- Keine Leistungskondiktion, wenn gültiger Rechtsgrund besteht; Anfechtung oder Rücktritt zuerst prüfen.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,12 +53,23 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Kondiktionstyp-Einordnung
+- Anspruchsmatrix mit Höhe und Entreicherungseinwand
+- Kondiktionssperren-Checkliste
+- Risikoampel und nächste Schritte
 
+## Qualitätsregeln
+
+- Leistungsbegriff immer nach Zweckbestimmung des Leistenden bestimmen.
+- Im Mehrpersonenverhältnis Leistungskondiktion vor Nichtleistungskondiktion prüfen.
+- § 817 Satz 2 BGB gesondert auf Sittenwidrigkeitsfälle anwenden.
+
+## Anschluss-Skills
+
+- bereicherungsrecht-nichtleistungskondiktion
+- bereicherungsrecht-entreicherung-und-saldotheorie
+- kaufrecht-sachmangel-paragraph-434
+- workflow-anspruchslandkarte
 
 ## Qualitäts-Hardening
 

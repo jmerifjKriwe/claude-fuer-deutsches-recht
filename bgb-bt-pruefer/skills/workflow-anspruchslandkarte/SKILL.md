@@ -1,24 +1,48 @@
 ---
 name: workflow-anspruchslandkarte
-description: "Baut aus einem BGB-BT-Fall eine Anspruchslandkarte mit Vertrag, gesetzlichem Schuldverhältnis, Rückabwicklung, Delikt, Bereicherung und Sicherheiten."
+description: "Anspruchslandkarte BGB BT: alle relevanten Anspruchsgrundlagen strukturiert auffinden und zuordnen."
 ---
-# Anspruchslandkarte Schuldrecht BT
+# Workflow: Anspruchslandkarte BGB BT
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Alle relevanten Anspruchsgrundlagen im BGB Besonderer Teil für einen Sachverhalt strukturiert auffinden, priorisieren und in einem Überblick abbilden: vertragliche, gesetzliche und deliktische Ansprüche.
 
-## Arbeitsweise
+## Normanker
 
-Ordne jeden Anspruch nach Anspruch entstanden, erloschen, durchsetzbar; trenne Hauptanspruch, Sekundäranspruch und Nebenpflichtverletzung.
+- §§ 280 ff. BGB: Pflichtverletzung und Schadensersatz (Schuldrecht AT)
+- §§ 433 ff. BGB: Kaufvertragliche Ansprüche
+- §§ 535 ff. BGB: Mietvertragliche Ansprüche
+- §§ 631 ff. BGB: Werkvertragliche Ansprüche
+- §§ 812 ff. BGB: Bereicherungsrechtliche Ansprüche
+- §§ 823 ff. BGB: Deliktsrechtliche Ansprüche
+- Amtliches BGB: https://www.gesetze-im-internet.de/bgb/
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Wer sind die Parteien und was ist ihre Rollenverteilung (Verkäufer, Käufer, Dritter)?
+- Welche Leistungen und Gegenleistungen wurden vereinbart?
+- Was ist das Problem: Nichtleistung, Schlechtleistung, Beschädigung, Bereicherung?
+- Sind Dritte beteiligt (Gesamtschuldner, Bürge, Vertreter)?
+- Welchen Zeitraum deckt die Anspruchslandkarte ab?
 
+## Prüfraster
+
+1. Sachverhalt analysieren: Ereignisse, Parteien, Schäden, Beziehungen
+2. Vertragliche Ebene: Welche Verträge bestehen? Welche Ansprüche entstehen daraus?
+3. Gesetzliche Ansprüche: GoA (§ 677 BGB), Bereicherung (§ 812 BGB)
+4. Deliktsrechtliche Ansprüche: §§ 823 und 826 BGB; ProdHaftG
+5. Konkurrenzen: Welche Ansprüche schließen sich aus? Welche bestehen nebeneinander?
+6. Gläubiger und Schuldner: Wer kann gegen wen aus welchem Grund vorgehen?
+7. Fristen und Verjährung für jeden Anspruch separat prüfen
+8. Priorität: Welcher Anspruch ist am aussichtsreichsten?
+
+## Fallstricke
+
+- Anspruchskonkurrenzen (vertraglich vs. deliktisch) nicht übersehen; oft bestehen beide nebeneinander.
+- Bereicherungsrecht schließt vertragliche Ansprüche nicht aus, hat aber Subsidiarität.
+- Drittbeteiligte können eigene Ansprüche haben, die übersehen werden.
+- Verjährungsunterschiede zwischen den Anspruchsgrundlagen können entscheidend sein.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +52,30 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Anspruchslandkarte (Überblick aller Ansprüche, Parteien, Normen)
+- Prioritätsliste (stärkste Ansprüche zuerst)
+- Verjährungs-Matrix
+- Empfehlung: Welche Ansprüche verfolgen?
+
+## Qualitätsregeln
+
+- Alle drei Ebenen (vertraglich, gesetzlich, deliktisch) immer durchprüfen.
+- Konkurrenzen aktiv erkennen und begründen.
+- Verjährungsfristen für jeden Anspruch getrennt ausweisen.
+
+## Anschluss-Skills
+
+- workflow-beweislast-und-belegmatrix
+- schadensrecht-paragraphen-249-253
+- gesamtschuld-und-regress-bgb-bt
+- verjaehrung-bgb-bt-spezial
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/
+- https://www.bundesgerichtshof.de/
+- https://openjur.de/
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

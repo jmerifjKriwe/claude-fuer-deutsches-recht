@@ -1,24 +1,47 @@
 ---
 name: workflow-anfangercoach-schuldrecht-bt
-description: "Erklärt BGB-BT-Fälle für Einsteiger ohne die juristische Präzision zu verlieren."
+description: "Lerncoach für Schuldrecht BT: Erklärungsebenen, Klausuraufbau, Fallübungen und Selbsttest."
 ---
-# Anfängercoach Schuldrecht BT
+# Workflow: Anfängercoach Schuldrecht BT
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Einsteiger in das BGB Besonderer Teil begleiten: Prüfungsschemata erklären, Klausurfälle durcharbeiten, typische Fehler aufzeigen und Selbsttests anbieten. Zielgruppe: Examenskandidaten und Berufseinsteiger.
 
-## Arbeitsweise
+## Normanker
 
-Übersetze Fachsprache in klare Schritte, aber behalte Normen, Tatbestand, Rechtsfolge und Beweislast bei.
+- §§ 433 ff. BGB: Kaufrecht (Grundfall für alle Schuldrecht-BT-Themen)
+- §§ 535 ff. BGB: Mietrecht als zweiter Basiskurs
+- §§ 631 ff. BGB: Werkvertragsrecht
+- §§ 823 ff. BGB: Deliktsrecht als BT-Abschluss
+- Examen-Systematik: Anspruchsaufbau, Gutachtenstil, Klausurmanagement
+- Amtliches BGB: https://www.gesetze-im-internet.de/bgb/
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Was ist der Kenntnisstand (Erstsemester, Examensvorbereitung, Referendariat)?
+- Welches Thema soll erarbeitet werden?
+- Ist eine Klausuraufgabe, ein Lernfall oder ein Selbsttest gewünscht?
+- Soll der Fokus auf Prüfungsschema, Normverständnis oder Fallbearbeitung liegen?
+- Wie viel Zeit ist für die Lerneinheit verfügbar?
 
+## Prüfraster
+
+1. Wissensstandsabfrage: Was ist schon bekannt? Wo liegen die Lücken?
+2. Themenwahl: Welcher BT-Abschnitt soll vertieft werden?
+3. Normerklärung: Tatbestandsmerkmale mit einfachen Beispielen erläutern
+4. Prüfungsschema erstellen: Aufbau für die Klausurlösung
+5. Fallbearbeitung im Gutachtenstil: schrittweise durcharbeiten
+6. Typische Fehlerquellen zeigen: Was macht der Durchschnittsstudent falsch?
+7. Selbsttest anbieten: Kurze Fragen oder Mini-Klausur
+8. Vernetzung mit anderen BT-Themen zeigen: Anspruchskonkurrenz, Schnittstellen
+
+## Fallstricke
+
+- Lernen ohne Fallbearbeitung führt zu theoretischem Wissen ohne Anwendungsfähigkeit.
+- Prüfungsschemata dürfen nicht auswendig gelernt, sondern müssen verstanden werden.
+- Schuldrecht BT baut auf AT-Kenntnissen auf; Lücken im AT frühzeitig schließen.
+- Klausurtechnik (Gutachtenstil, Ampelregel) separat üben.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +51,30 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Lernplan mit Priorisierung
+- Erklärung des Themas mit Beispielfällen
+- Prüfungsschema zum Download
+- Selbsttest mit Musterlösung
+
+## Qualitätsregeln
+
+- Erklärungen immer mit konkretem Beispiel verknüpfen.
+- Fehlerklassifikation (Verständnisfehler vs. Aufbaufehler vs. Lücken) vornehmen.
+- Examensfokus: Was kommt im Examen wirklich vor?
+
+## Anschluss-Skills
+
+- workflow-anspruchslandkarte
+- kaufvertrag-grundschema-paragraph-433
+- deliktsrecht-paragraph-823-1
+- werkvertrag-grundschema-paragraph-631
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/
+- https://www.bundesgerichtshof.de/
+- https://dejure.org/gesetze/BGB
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -1,24 +1,45 @@
 ---
 name: schuldversprechen-schuldanerkenntnis
-description: "Prüft abstraktes Schuldversprechen, deklaratorisches/konstitutives Schuldanerkenntnis und Beweisfunktion."
+description: "Schuldversprechen § 780 BGB und Schuldanerkenntnis § 781 BGB: Form, Wirkung und Abgrenzung."
 ---
-# Schuldversprechen und Schuldanerkenntnis
+# Schuldversprechen und Schuldanerkenntnis §§ 780 und 781 BGB
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Schuldversprechen (§ 780 BGB) und Schuldanerkenntnis (§ 781 BGB) prüfen: Formerfordernisse, rechtliche Wirkungen, Abgrenzung zum abstrakten Schuldversprechen und zu Beweiszwecken dienenden Erklärungen.
 
-## Arbeitsweise
+## Normanker
 
-Erfasse Schriftform, Rechtsgrund, Anerkenntniswirkung und Rückforderung.
+- § 780 BGB: Schuldversprechen (abstrakt, formgebunden)
+- § 781 BGB: Schuldanerkenntnis (abstrakt, formgebunden)
+- § 782 BGB: Erlass der Formvorschriften bei Schuldversprechen und Schuldanerkenntnis
+- § 812 BGB: Bereicherungsrecht als Rückabwicklungsgrundlage
+- § 821 BGB: Einrede der ungerechtfertigten Bereicherung
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Liegt ein abstraktes Schuldversprechen (§ 780 BGB) oder ein Schuldanerkenntnis (§ 781 BGB) vor?
+- Wurde die Schriftform (§§ 780 und 781 BGB) eingehalten?
+- Zu welchem Zweck wurde die Erklärung abgegeben (Beweis, Novation, Sicherheit)?
+- Besteht ein kausaler Bezug zur Grundschuld oder zum ursprünglichen Schuldverhältnis?
+- Gibt es Einwendungen aus dem Kausalverhältnis?
 
+## Prüfraster
+
+1. Qualifikation: abstraktes Schuldversprechen (§ 780 BGB) oder Schuldanerkenntnis (§ 781 BGB)?
+2. Abgrenzung zum kausalen (deklaratorischen) Anerkenntnis: kein Formzwang, nur Beweisfunktion
+3. Formerfordernis der Schriftform: §§ 780 und 781 BGB i.V.m. § 126 BGB; Ausnahme § 782 BGB
+4. Wirkung des abstrakten Schuldversprechens: eigenständige Verbindlichkeit losgelöst vom Grundverhältnis
+5. Einrede der Bereicherung nach § 821 BGB: wenn Kausalverhältnis nicht besteht oder wegfällt
+6. Bereicherungsrückforderung nach § 812 BGB falls abstraktes Schuldversprechen ohne Rechtsgrund
+7. Unterschied zu Bürgschaft (§ 765 BGB) und Garantie (keine Formvorschrift im BGB)
+
+## Fallstricke
+
+- Kausales (deklaratorisches) Anerkenntnis hat keine Formvorschrift; Verwechslung mit § 781 BGB führt zu Fehlern.
+- Ohne Schriftform ist abstraktes Schuldversprechen nach § 780 BGB nichtig (§ 125 BGB).
+- § 782 BGB: Im kaufmännischen Bereich kann Formerfordernis durch Handelsbräuche abdingbar sein.
+- Einrede der Bereicherung (§ 821 BGB) verhindert nicht die wirksame Entstehung der abstrakten Schuld.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +49,29 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Einordnungsmatrix (abstrakt vs. kausal, Schuldversprechen vs. Anerkenntnis)
+- Formwirksamkeits-Check
+- Einwendungs-Analyse (§ 821 BGB, Kausalverhältnis)
+- Gestaltungsempfehlung
+
+## Qualitätsregeln
+
+- Abstraktes und kausales Anerkenntnis immer getrennt behandeln.
+- Schriftformerfordernis bei §§ 780 und 781 BGB immer prüfen.
+- § 821 BGB als Einrede, nicht als Unwirksamkeitsgrund, einordnen.
+
+## Anschluss-Skills
+
+- buergschaft-grundschema-paragraph-765
+- bereicherungsrecht-leistungskondiktion
+- bt-fristen-erklaerungen-zugang
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__780.html
+- https://www.gesetze-im-internet.de/bgb/__781.html
+- https://www.gesetze-im-internet.de/bgb/__812.html
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

@@ -1,24 +1,46 @@
 ---
 name: deliktsrecht-paragraph-826-sittenwidrige-schaedigung
-description: "Prüft sittenwidrige vorsätzliche Schädigung, Gesamtwürdigung, Schädigungsvorsatz und Schaden."
+description: "Prüft sittenwidrige vorsätzliche Schädigung § 826 BGB: Sittenwidrigkeit, Vorsatz und Vermögensschaden."
 ---
-# § 826 BGB vorsätzliche sittenwidrige Schädigung
+# Deliktsrecht § 826 BGB: Sittenwidrige Schädigung
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+§ 826 BGB als Auffangtatbestand für vorsätzliche sittenwidrige Schädigungen prüfen: Sittenwidrigkeit des Verhaltens, bedingter Vorsatz und reiner Vermögensschaden.
 
-## Arbeitsweise
+## Normanker
 
-Warne vor § 826 als Ersatz für schwache Spezialansprüche.
+- § 826 BGB: vorsätzliche sittenwidrige Schädigung
+- § 138 BGB: Sittenwidrigkeit als Parallelwertung
+- § 823 Abs. 2 BGB: Schutzgesetzverletzung (Abgrenzung)
+- BGH-Rechtsprechung zu § 826 BGB (z.B. Dieselskandal): nur nach Live-Prüfung zitieren
+- § 31 BGB: Organverantwortlichkeit für juristische Personen
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Welches Verhalten wird als sittenwidrig bewertet?
+- Hatte der Schädiger Vorsatz bezüglich der Schädigung (auch bedingter Vorsatz)?
+- Ist ein Vermögensschaden entstanden?
+- Ist der Schädiger eine natürliche Person oder eine juristische Person (§ 31 BGB)?
+- Gibt es eine BGH-Linie, die dieses Verhalten erfasst (z.B. arglistige Täuschung, Marktmanipulation)?
 
+## Prüfraster
+
+1. Objektive Sittenwidrigkeit: Verstoß gegen das Anstandsgefühl aller billig und gerecht Denkenden
+2. Schaden: reiner Vermögensschaden oder Verletzung eines nach § 823 Abs. 1 BGB geschützten Guts
+3. Kausalität: sittenwidrige Handlung hat Schaden verursacht
+4. Vorsatz: mindestens bedingter Vorsatz (dolus eventualis); bloße Fahrlässigkeit genügt nicht
+5. Vorsatz auf Schädigungserfolg: Schädiger muss den Schaden als möglich vorausgesehen und in Kauf genommen haben
+6. Bei juristischen Personen: Organzurechnung nach § 31 BGB
+7. Schaden nach §§ 249 ff. BGB: auch entgangener Gewinn (§ 252 BGB)
+8. Verjährung: §§ 195 und 199 BGB
+
+## Fallstricke
+
+- Fahrlässigkeit genügt nicht; mindestens bedingter Vorsatz auf Schädigungserfolg notwendig.
+- Sittenwidrigkeit ist nicht dasselbe wie Rechtswidrigkeit; eigenständige Wertung erforderlich.
+- § 826 BGB schützt auch reinen Vermögensschaden, § 823 Abs. 1 BGB tut das nicht.
+- BGH-Rechtsprechung zum Dieselskandal ist fallbezogen; keine pauschale Übertragung.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +50,30 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Sittenwidrigkeits-Analyse mit Fallwertung
+- Vorsatz-Dokumentation
+- Schadensberechnung
+- Risikoampel und Handlungsempfehlung
+
+## Qualitätsregeln
+
+- Sittenwidrigkeitswertung immer mit konkreten Tatsachen belegen.
+- Vorsatz und Fahrlässigkeit klar abgrenzen.
+- BGH-Entscheidungen nur nach Live-Prüfung mit Aktenzeichen verwenden.
+
+## Anschluss-Skills
+
+- deliktsrecht-paragraph-823-1
+- deliktsrecht-schutzgesetz-paragraph-823-2
+- schadensrecht-paragraphen-249-253
+- workflow-red-team-gegenseite
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__826.html
+- https://www.gesetze-im-internet.de/bgb/__138.html
+- https://www.gesetze-im-internet.de/bgb/__823.html
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

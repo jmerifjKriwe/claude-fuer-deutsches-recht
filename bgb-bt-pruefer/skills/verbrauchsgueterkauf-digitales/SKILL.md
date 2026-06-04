@@ -1,50 +1,84 @@
 ---
 name: verbrauchsgueterkauf-digitales
-description: "Prüft Verbrauchsgüterkauf, digitale Produkte, Waren mit digitalen Elementen, Aktualisierungspflichten, Beweislast, Verjährung, Abweichungsvereinbarungen und Right-to-Repair-Schnittstellen nach aktuellem BGB und EU-Rechtsstand."
+description: "Verbrauchsgüterkauf §§ 474 ff. BGB und digitale Elemente: Beweislastumkehr, zwingende Normen, §§ 327 ff. BGB."
 ---
+# Verbrauchsgüterkauf und Digitales §§ 474 ff. BGB
 
-# Verbrauchsgüterkauf, digitale Produkte und Waren mit digitalen Elementen
+## Zweck
 
-## Aufgabe
+Verbrauchsgüterkauf nach §§ 474 ff. BGB und seine Schnittstellen zu §§ 327 ff. BGB für digitale Produkte prüfen: zwingende Normen, Beweislastumkehr, Updatepflichten.
 
-Dieser Skill ist der Generalrouter für Verbrauchsgüterkauf und digitale Elemente. Er entscheidet zuerst, ob §§ 327 ff. BGB, § 475b BGB, § 475c BGB oder klassisches Kaufrecht einschlägig sind, und baut daraus eine Anspruchs- und Beweisstrategie.
+## Normanker
 
-## Sofort klären
+- § 474 BGB: Verbrauchsgüterkauf (Verbraucher kauft von Unternehmer)
+- § 475 BGB: Abweichende Vereinbarungen (Verbot der Benachteiligung des Verbrauchers)
+- § 476 BGB: Abweichende Vereinbarungen bei Ware mit digitalen Elementen
+- § 477 BGB: Beweislastumkehr zugunsten des Verbrauchers
+- § 478 BGB: Rückgriff des Unternehmers (Lieferkette)
+- §§ 327 ff. BGB: Verträge über digitale Inhalte und digitale Dienstleistungen
 
-1. Ist der Käufer Verbraucher und der Verkäufer Unternehmer?
-2. Geht es um eine Sache, ein digitales Produkt oder eine Ware mit digitalen Elementen?
-3. Kann die Ware ohne App, Cloud, Firmware, Konto, Schlüssel, Sensorik oder Update ihre Funktion erfüllen?
-4. Welcher Mangel zeigt sich: Hardware, Software, fehlendes Update, Sicherheitslücke, App-Abschaltung, Reparatursperre, fehlende Anleitung oder falsche öffentliche Äußerung?
-5. Wann wurden Ware, digitale Elemente, Updates und Reparaturversuch bereitgestellt?
-6. Welches Arbeitsprodukt wird gebraucht: Anspruchsmatrix, Mandantenbrief, Klageentwurf, Händlerantwort, Beweis- und Fristenplan?
+## Intake
 
-## Rechtsanker
+- Liegt ein Verbrauchsgüterkauf vor (Verbraucher kauft von Unternehmer eine bewegliche Sache)?
+- Tritt der Mangel innerhalb von 12 Monaten nach Übergabe auf (Beweislastumkehr § 477 BGB)?
+- Enthält die Kaufsache digitale Elemente (§ 475b ff. BGB anwendbar)?
+- Haben die Parteien abweichende Vereinbarungen getroffen (Zulässigkeit nach § 476 BGB prüfen)?
+- Gibt es Rückgriffsansprüche in der Lieferkette (§ 478 BGB)?
 
-- § 327, § 327a, § 327e, § 327f BGB für digitale Produkte und die Abgrenzung zu Waren mit digitalen Elementen.
-- § 434 BGB: subjektive Anforderungen, objektive Anforderungen, Montage-/Installationsanforderungen; Beschaffenheit umfasst Funktionalität, Kompatibilität und Interoperabilität.
-- § 475b BGB: Sachmangel einer Ware mit digitalen Elementen einschließlich Aktualisierungspflichten.
-- § 475c BGB: dauerhafte Bereitstellung digitaler Elemente, mindestens zwei Jahre Haftungszeitraum für digitale Elemente.
-- § 475e BGB: Sonderverjährung bei dauerhafter Bereitstellung, Aktualisierungspflicht, Mangelanzeige und Übergabe zur Nacherfüllung.
-- § 476 BGB: Abweichung von objektiven Anforderungen nur mit eigener Information und ausdrücklicher gesonderter Vereinbarung.
-- § 477 BGB: Beweislastvermutung, bei dauerhafter Bereitstellung digitaler Elemente besonders prüfen.
-- Richtlinie (EU) 2024/1799 zum Recht auf Reparatur: Stand Juni 2026 als EU-Richtlinie mit Umsetzungsprüfung behandeln; nicht als bereits vollständig deutsches BGB-Recht behaupten, wenn das Umsetzungsgesetz nicht geprüft ist.
+## Prüfraster
 
-## Arbeitsprogramm
+1. Verbrauchsgüterkauf-Tatbestand: Verbraucher (§ 13 BGB) kauft von Unternehmer (§ 14 BGB) eine bewegliche Sache
+2. Zwingende Normen nach § 475 BGB: Vereinbarungen zum Nachteil des Verbrauchers unwirksam
+3. Beweislastumkehr nach § 477 BGB: Mangel, der innerhalb von 12 Monaten auftritt, gilt als bei Übergabe vorhanden
+4. Ausnahmen: Unvereinbarkeit des Mangels mit dieser Vermutung (z.B. Verschleiß)
+5. Ware mit digitalen Elementen: §§ 475b ff. BGB mit Updatepflichten und besonderen Mangelanforderungen
+6. Digitale Produkte (kein Kauf): §§ 327 ff. BGB anstelle von Kaufrecht
+7. Rückgriff in der Lieferkette nach § 478 BGB: Unternehmer kann Mängelrechte gegenüber Lieferanten geltend machen
+8. Verjährung: § 438 Abs. 1 Nr. 3 BGB (2 Jahre); nicht abkürzbar bei Verbrauchsgüterkauf
 
-1. **Vertragstyp trennen.** Kauf einer Ware mit digitalen Elementen (§ 475b/§ 475c) ist nicht dasselbe wie reiner Digitalvertrag (§§ 327 ff.). § 327a Abs. 3 ist der Router.
-2. **Mangelzeitpunkt und Zeitraum klären.** Bei Hardware regelmäßig Gefahrübergang; bei Updatepflicht und dauerhaften digitalen Elementen den Zeitraum der Bereitstellung/Erwartbarkeit prüfen.
-3. **Updatepflicht konkretisieren.** Welche Updates waren vereinbart, welche waren objektiv für Vertragsmäßigkeit/Sicherheit nötig, wer hat informiert, was hat der Verbraucher installiert oder nicht installiert?
-4. **Reparaturrecht mitdenken.** Nacherfüllung kann Reparatur oder Ersatzlieferung sein; Right-to-Repair künftig zusätzlich mit Hersteller-/Repairer-Informationspflichten, Reparaturformular, Plattform und Verbot sachwidriger Reparaturhindernisse prüfen.
-5. **Beweise bauen.** Screenshots App, Update-Logs, Händlerchat, öffentliche Werbung, Reparaturprotokoll, Diagnosedaten, Seriennummer, Firmwarestand, Konto-/Cloud-Abhängigkeit.
-6. **Output liefern.** Immer mit Kurzampel, Anspruchsgrundlagen, Fristen, Beweislast, nächstem Schreiben und Anschluss-Skills.
+## Fallstricke
 
-## Quellenhygiene
+- Beweislastumkehr gilt nur innerhalb von 12 Monaten (nach 2022er Reform; vorher 6 Monate).
+- Gebrauchte Sachen: Gewährleistungsfrist kann auf 1 Jahr verkürzt werden (§ 476 Abs. 2 BGB).
+- Fehler bei der Abgrenzung digitales Produkt (§ 327 BGB) vs. Ware mit digitalen Elementen (§ 475b BGB).
+- Ausschluss oder Beschränkung von Mängelrechten bei Verbrauchsgüterkauf ist nur in den Grenzen von § 476 BGB möglich.
+## Stoppschilder
 
-Normen live über gesetze-im-internet.de prüfen. EU-Rechtsstand live über EUR-Lex oder Kommissionsseite prüfen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei überprüfbarer Quelle.
+- Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
+- Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
+- Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
 
 ## Output
 
-- Anspruchsmatrix Käufer/Verkäufer/Hersteller/Dritter.
-- Update- und Reparaturtimeline.
-- Beweislast- und Verjährungsvermerk.
-- Entwurf Nacherfüllungsverlangen oder Händlerantwort.
+- Verbrauchsgüterkauf-Check (Parteien, Gegenstand, Fristen)
+- Beweislastumkehr-Analyse (Zeitpunkt, Vermutung, Ausnahmen)
+- Digital-Schnittstellen-Übersicht
+- Lieferketten-Rückgriffs-Check
+
+## Qualitätsregeln
+
+- Beweislastumkehr-Zeitraum (12 Monate) und Ausnahmen präzise prüfen.
+- Abgrenzung digitales Produkt/Ware mit digitalen Elementen immer vor Normauswahl klären.
+- § 476 BGB-Zwingendes immer mitprüfen.
+
+## Anschluss-Skills
+
+- kaufrecht-beweislast-verjaehrung-digitale-elemente
+- kaufrecht-ware-mit-digitalen-elementen-475b
+- kaufrecht-sachmangel-paragraph-434
+- kaufrecht-nacherfuellung-ruecktritt-minderung
+
+
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__474.html
+- https://www.gesetze-im-internet.de/bgb/__477.html
+- https://www.gesetze-im-internet.de/bgb/__475b.html
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

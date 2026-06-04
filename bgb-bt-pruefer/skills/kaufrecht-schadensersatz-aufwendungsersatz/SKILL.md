@@ -1,24 +1,48 @@
 ---
 name: kaufrecht-schadensersatz-aufwendungsersatz
-description: "Prüft §§ 280 ff. BGB im Kaufrecht mit Mangelschaden, Mangelfolgeschaden, Verzögerung und nutzlosen Aufwendungen."
+description: "Prüft Schadensersatz §§ 437 Nr. 3 und 280 ff. BGB sowie Aufwendungsersatz § 284 BGB beim Kaufrecht."
 ---
-# Schadensersatz und Aufwendungsersatz Kauf
+# Kaufrecht: Schadensersatz und Aufwendungsersatz
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Schadensersatzansprüche des Käufers bei Sachmangel nach §§ 437 Nr. 3 und 280 BGB sowie Aufwendungsersatz nach § 284 BGB prüfen.
 
-## Arbeitsweise
+## Normanker
 
-Trenne Schadensarten, Verschulden, Vertretenmüssen und Beweislast.
+- § 437 Nr. 3 BGB: Schadensersatz und Aufwendungsersatz als Käuferrecht
+- § 280 Abs. 1 BGB: Schadensersatz wegen Pflichtverletzung
+- § 281 BGB: Schadensersatz statt der Leistung nach Fristsetzung
+- § 283 BGB: Schadensersatz bei Unmöglichkeit
+- § 284 BGB: Aufwendungsersatz statt Schadensersatz
+- § 311a BGB: anfängliche Unmöglichkeit
+- § 249 BGB: Naturalrestitution; § 252 BGB: entgangener Gewinn
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Liegt ein Sachmangel vor, der zum Schadensersatz berechtigt?
+- Wurde eine Nachfrist gesetzt und ist sie erfolglos abgelaufen?
+- Welche Schäden sind entstanden: Mangelfolgeschäden, entgangener Gewinn, nutzlose Aufwendungen?
+- Kommt Aufwendungsersatz nach § 284 BGB in Betracht?
+- Liegt anfängliche Unmöglichkeit oder nachträgliche Pflichtverletzung vor?
 
+## Prüfraster
+
+1. Pflichtverletzung: Sachmangel bei Gefahrübergang (§ 434 BGB)
+2. Vertretenmüssen des Verkäufers: Verschulden nach § 276 BGB
+3. Schadensersatz neben der Leistung: § 280 Abs. 1 BGB (Mangelfolgeschäden ohne Fristsetzung)
+4. Schadensersatz statt der Leistung: § 281 BGB (Fristsetzung erforderlich, außer § 281 Abs. 2 BGB)
+5. Kleiner vs. großer Schadensersatz: kleiner (Verbleib Sache) vs. großer (Rückgabe Sache)
+6. Aufwendungsersatz nach § 284 BGB: statt Schadensersatz; vergebliche Aufwendungen im Vertrauen auf Leistungserhalt
+7. Differenzhypothese für Schadensberechnung
+8. Verjährung: § 438 BGB; Beweislastumkehr § 477 BGB
+
+## Fallstricke
+
+- Schadensersatz neben der Leistung und statt der Leistung müssen klar getrennt werden.
+- Aufwendungsersatz nach § 284 BGB ist kein Schadensersatz; andere Voraussetzungen.
+- Mangelfolgeschäden können ohne Fristsetzung geltend gemacht werden.
+- § 284 BGB und § 281 BGB schließen sich gegenseitig aus (kein gleichzeitiger Antrag).
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +52,30 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Schadensersatz-Auswahl (neben/statt Leistung)
+- Schadenspositionen-Liste
+- Aufwendungsersatz-Berechnung
+- Risikoampel und Handlungsempfehlung
+
+## Qualitätsregeln
+
+- Kleinen und großen Schadensersatz immer explizit unterscheiden.
+- § 284 BGB als Alternative zu § 281 BGB in Betracht ziehen.
+- Vertretenmüssen des Verkäufers nie pauschal annehmen.
+
+## Anschluss-Skills
+
+- kaufrecht-nacherfuellung-ruecktritt-minderung
+- schadensrecht-paragraphen-249-253
+- kaufrecht-sachmangel-paragraph-434
+- workflow-output-gutachten-klage-brief
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__437.html
+- https://www.gesetze-im-internet.de/bgb/__280.html
+- https://www.gesetze-im-internet.de/bgb/__284.html
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

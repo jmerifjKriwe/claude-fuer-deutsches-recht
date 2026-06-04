@@ -1,24 +1,46 @@
 ---
 name: workflow-livequellen-rechtsstand
-description: "Zwingt vor tragenden Aussagen zum Abgleich mit amtlichen Normtexten und frei zugänglicher Rechtsprechung."
+description: "Live-Quellencheck für BGB-BT: amtliche Gesetzestexte, Rechtsprechungsdatenbanken, Rechtsstand prüfen."
 ---
-# Livequellen- und Rechtsstandscheck BGB BT
+# Workflow: Live-Quellen und Rechtsstand
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Rechtsstand und Quellen im BGB Besonderer Teil live prüfen: amtliche Gesetzestexte verifizieren, Rechtsprechungsdatenbanken abfragen, Reformstand und jüngste BGH-Entscheidungen einbeziehen.
 
-## Arbeitsweise
+## Normanker
 
-Prüfe Gesetze im Internet, Bundesgerichte und freie Datenbanken; protokolliere Stand, URL und Abweichungen.
+- Amtliches BGB: https://www.gesetze-im-internet.de/bgb/
+- BGH-Rechtsprechungsdatenbank: https://www.bundesgerichtshof.de/
+- EUR-Lex für EU-Richtlinien: https://eur-lex.europa.eu/
+- dejure.org: https://dejure.org/gesetze/BGB
+- OpenJur: https://openjur.de/
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Welche Norm soll auf aktuellen Stand geprüft werden?
+- Gab es in letzter Zeit bekannte Reformen (z.B. DSM-RL-Umsetzung 2022, Verbrauchsgüterkauf-Änderung)?
+- Liegt ein konkretes BGH-Aktenzeichen vor, das verifiziert werden soll?
+- Besteht Unsicherheit über den Reformstand einer Norm?
+- Wird eine EU-Richtlinie als Auslegungsmaßstab benötigt?
 
+## Prüfraster
+
+1. Normtext-Verifikation: https://www.gesetze-im-internet.de/bgb/ als amtliche Primärquelle
+2. Reformstand prüfen: Letzte Änderungen am BGB (Datum, Gesetz, Konsequenzen)
+3. BGH-Rechtsprechung: Aktenzeichen, Datum, Entscheidungsform, Leitsatz über offizielle Datenbank prüfen
+4. EU-Richtlinien-Umsetzung: DSM-RL 2019/770 und 2019/771 in §§ 327 ff. und 475b ff. BGB
+5. Verbraucherrecht-Reformen: aktuelle Fassungen der §§ 474 ff. und 312 ff. BGB prüfen
+6. Fachpresse und Gesetzgebungsvorhaben: BMJ-Website für aktuelle Gesetzgebung
+7. Zitierstandards: Gericht, Datum, Aktenzeichen, Entscheidungsform, Fundstelle
+8. Unsichere Normen ausdrücklich als Prüfpunkt markieren
+
+## Fallstricke
+
+- Normen aus Modellwissen zitieren ohne Live-Prüfung; Reformstand kann veraltet sein.
+- Juris/Beck-RS-Zitate ohne Primärquelle; nicht verifizierbar.
+- BGH-Entscheidungen nur mit korrektem Aktenzeichen und Datum angeben.
+- EU-Richtlinien-Umsetzungsstand: Umsetzungsgesetz und BGB-Norm getrennt prüfen.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +50,29 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Normtext-Verifikations-Protokoll
+- Reformstand-Zusammenfassung
+- BGH-Entscheidungs-Verifikation
+- Quellenverzeichnis mit URLs
+
+## Qualitätsregeln
+
+- Immer amtliche Quelle als Ausgangspunkt; keine Drittzitate ohne Primärquelle.
+- BGH-Entscheidungen nur mit vollständigen Metadaten verwenden.
+- Reformstand-Unsicherheiten ausdrücklich markieren.
+
+## Anschluss-Skills
+
+- workflow-dokumentenintake
+- workflow-anspruchslandkarte
+- bt-fristen-erklaerungen-zugang
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/
+- https://www.bundesgerichtshof.de/
+- https://eur-lex.europa.eu/
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

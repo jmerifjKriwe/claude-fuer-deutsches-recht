@@ -1,24 +1,50 @@
 ---
 name: buergschaft-grundschema-paragraph-765
-description: "Prüft Bürgschaft: Hauptschuld, Bürgschaftserklärung, Schriftform, Akzessorietät, Einreden und Inanspruchnahme."
+description: "Prüft Bürgschaft §§ 765 ff. BGB: Tatbestand, Akzessorietät, Inanspruchnahme und Regressanspruch des Bürgen."
 ---
 # Bürgschaft Grundschema § 765 BGB
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Bürgschaft als personale Sicherheit nach § 765 BGB vollständig prüfen: Tatbestand, Akzessorietät, Inanspruchnahme des Bürgen und Regressanspruch.
 
-## Arbeitsweise
+## Normanker
 
-Baue Bürgschaftsanspruch in einer sauberen Kette auf.
+- § 765 BGB: Bürgschaftsvertrag (Definition)
+- § 766 BGB: Schriftform
+- § 767 BGB: Akzessorietät
+- §§ 768–770 BGB: Einreden des Bürgen
+- § 771 BGB: Einrede der Vorausklage
+- § 774 BGB: Legalzession und Übergang der Forderung auf den Bürgen
+- § 776 BGB: Aufgabe von Sicherheiten
+- § 778 BGB: Kreditauftrag
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Wer sind Gläubiger, Hauptschuldner und Bürge?
+- Liegt eine wirksame Hauptforderung vor?
+- Ist die Bürgschaftserklärung formwirksam nach § 766 BGB?
+- Wurde auf die Einrede der Vorausklage verzichtet?
+- Welche Einreden stehen dem Bürgen zu?
+- Ist die Hauptschuld fällig und durchsetzbar?
 
+## Prüfraster
+
+1. Bürgschaftsvertrag nach § 765 BGB: Angebot und Annahme, Form nach § 766 BGB
+2. Wirksame Hauptforderung: Entstehung, Fälligkeit, keine Einreden
+3. Akzessorietät nach § 767 BGB: Bürgschaftsschuld folgt Hauptschuld
+4. Einreden des Bürgen: §§ 768–770 BGB (eigene und übernommene Einreden)
+5. Einrede der Vorausklage nach § 771 BGB; Verzicht bei selbstschuldnerischer Bürgschaft
+6. Inanspruchnahme: Fälligkeit, Mahnung, Klage gegen Bürgen
+7. Legalzession nach § 774 BGB: Übergang der Hauptforderung auf den Bürgen nach Zahlung
+8. Regressansprüche: § 774 BGB sowie §§ 670 und 683 BGB (analoge Auftragsregeln)
+
+## Fallstricke
+
+- Bürgschaft ohne schriftliche Erklärung des Bürgen ist nichtig (§ 766 BGB).
+- Selbstschuldnerische Bürgschaft schließt § 771 BGB aus; Bürge kann sofort in Anspruch genommen werden.
+- Legalzession nach § 774 BGB setzt vollständige Zahlung der Hauptschuld durch den Bürgen voraus.
+- Bürgschaft erlischt mit Erlöschen der Hauptschuld (Akzessorietät).
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,12 +54,23 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Anspruchsmatrix (Gläubiger gegen Bürge, Bürge gegen Hauptschuldner)
+- Einreden-Checkliste
+- Legalzession und Regressprüfung
+- Risikoampel und Handlungsempfehlung
 
+## Qualitätsregeln
+
+- Bürgschaftsprüfung immer mit Hauptschuld-Prüfung verknüpfen.
+- Selbstschuldnerische Bürgschaft klar von subsidiärer Bürgschaft abgrenzen.
+- Regresswege vollständig aufzeigen.
+
+## Anschluss-Skills
+
+- buergschaft-einreden-und-akzessorietaet
+- buergschaft-form-und-verbraucherbuerge
+- gesamtschuld-und-regress-bgb-bt
+- workflow-anspruchslandkarte
 
 ## Qualitäts-Hardening
 

@@ -1,24 +1,47 @@
 ---
 name: workflow-beweislast-und-belegmatrix
-description: "Ordnet Darlegungs- und Beweislast in BGB-BT-Fällen, markiert fehlende Belege und formuliert Nachforderungen."
+description: "Beweislast und Belegmatrix im Schuldrecht BT: Beweislastverteilung, Umkehr, Anscheinsbeweis."
 ---
-# Beweislast und Belegmatrix
+# Workflow: Beweislast und Belegmatrix
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Beweislastverteilung im BGB Besonderer Teil systematisch aufarbeiten: Grundregel (Beweislast des Anspruchstellers), Umkehrungen bei Verbrauchsgüterkauf (§ 477 BGB), Deliktsrecht (§ 831 BGB), Behandlungsvertrag (§ 630h BGB) und Anscheinsbeweis.
 
-## Arbeitsweise
+## Normanker
 
-Trenne Tatsachen, Indizien, Urkunden, Zeugen, Sachverständige, Parteianhörung und rechtliche Wertungen.
+- § 477 BGB: Beweislastumkehr beim Verbrauchsgüterkauf
+- § 630h BGB: Beweislastregeln beim Behandlungsvertrag
+- § 831 BGB: Entlastungsbeweis bei Verrichtungsgehilfen
+- § 280 BGB: Beweislast für Pflichtverletzung und Vertretenmüssen
+- § 291 ZPO: Offenkundige Tatsachen (beweisfrei)
+- Anscheinsbeweis: richterrechtliche Beweiserleichterung
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Wer ist Kläger und wer ist Beklagter? Wer hat die Beweislast?
+- Welche Anspruchsgrundlage ist einschlägig?
+- Gibt es Sonderregeln zur Beweislastumkehr (Verbrauchsgüterkauf, Behandlungsvertrag)?
+- Welche Belege sind vorhanden und welche fehlen?
+- Gibt es Anscheinsbeweis-Konstellationen?
 
+## Prüfraster
+
+1. Beweislastgrundregel: Jede Partei beweist die ihr günstigen Tatsachen (§ 286 ZPO)
+2. Vertragliche Ansprüche: Kläger beweist Tatbestandsmerkmale; Beklagter Einreden und Einwendungen
+3. Beweislastumkehr § 477 BGB: Mangel gilt als bei Übergabe vorhanden, wenn er innerhalb von 12 Monaten auftritt
+4. Behandlungsvertrag § 630h BGB: Beweislastregeln für voll beherrschbare Risiken, grobe Behandlungsfehler
+5. § 831 BGB: Beweislastumkehr für Entlastung des Geschäftsherrn (kein Auswahlverschulden)
+6. Anscheinsbeweis: typischer Kausalverlauf begründet Beweis des ersten Anscheins; Erschütterung durch atypischen Geschehensablauf
+7. Belegmatrix erstellen: welche Dokumente, Zeugen, Gutachten für welche Tatsache?
+8. Lückenliste: fehlende Beweise und Sicherungsmaßnahmen
+
+## Fallstricke
+
+- § 477 BGB gilt nur bei Verbrauchsgüterkauf; bei B2B-Kauf normale Beweislastverteilung.
+- § 630h BGB für Behandlungsfehler: nur bei vollbeherrschbaren Risiken oder groben Fehlern.
+- Anscheinsbeweis ist keine gesetzliche Vermutung; er kann erschüttert werden.
+- Beweissicherung vor Prozess oft entscheidend: Fotos, Sachverständigenberichte, Zeugenaussagen sichern.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +51,30 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Beweislast-Matrix (wer muss was beweisen)
+- Belegmatrix (Dokument, Beweiswert, Verfügbarkeit)
+- Lückenliste mit Sicherungsempfehlungen
+- Prozesstaktische Empfehlung
+
+## Qualitätsregeln
+
+- Beweislastumkehr-Normen immer im Kontext der Anspruchsgrundlage prüfen.
+- Beweismittelqualität (Urkunde, Zeuge, Sachverständiger) für jede Tatsache bewerten.
+- Anscheinsbeweis-Konstellationen aktiv erkennen.
+
+## Anschluss-Skills
+
+- workflow-anspruchslandkarte
+- kaufrecht-beweislast-verjaehrung-digitale-elemente
+- dienstvertrag-und-behandlungsvertrag
+- deliktsrecht-haftung-fuer-verrichtungen-paragraph-831
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__477.html
+- https://www.gesetze-im-internet.de/bgb/__630h.html
+- https://www.gesetze-im-internet.de/zpo/__286.html
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

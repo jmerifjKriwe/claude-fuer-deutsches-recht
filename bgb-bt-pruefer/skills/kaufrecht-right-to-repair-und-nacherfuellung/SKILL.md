@@ -1,47 +1,83 @@
 ---
 name: kaufrecht-right-to-repair-und-nacherfuellung
-description: "Verbindet kaufrechtliche Nacherfüllung mit dem EU-Right-to-Repair-Stand, Reparaturvorrang, Reparaturinformationen, Ersatzteilen, Software-Locks und reparaturfreundlicher Mandatsstrategie."
+description: "Prüft Right to Repair EU-Recht, Nacherfüllungsrecht § 439 BGB und Reparaturpflichten bei Verbrauchsgüterkauf."
 ---
-
 # Kaufrecht: Right to Repair und Nacherfüllung
 
-## Aufgabe
+## Zweck
 
-Schwerpunkt: heutiges BGB von kommendem Umsetzungsrecht trennen. In der Gewährleistung § 439 BGB und Verbrauchsgüterkauf prüfen; außerhalb/anschließend Richtlinie (EU) 2024/1799 als Umsetzungs- und Vertragsgestaltungsrisiko aufnehmen.
+Recht auf Reparatur nach EU-Recht (Right to Repair RL 2024) und Nacherfüllungsrecht nach § 439 BGB prüfen: Reparaturpflichten, Verhältnis zur Nachlieferung und Verbraucherschutz.
 
-## Sofort klären
+## Normanker
 
-1. Ist der Käufer Verbraucher und der Verkäufer Unternehmer?
-2. Geht es um eine Sache, ein digitales Produkt oder eine Ware mit digitalen Elementen?
-3. Kann die Ware ohne App, Cloud, Firmware, Konto, Schlüssel, Sensorik oder Update ihre Funktion erfüllen?
-4. Welcher Mangel zeigt sich: Hardware, Software, fehlendes Update, Sicherheitslücke, App-Abschaltung, Reparatursperre, fehlende Anleitung oder falsche öffentliche Äußerung?
-5. Wann wurden Ware, digitale Elemente, Updates und Reparaturversuch bereitgestellt?
-6. Welches Arbeitsprodukt wird gebraucht: Anspruchsmatrix, Mandantenbrief, Klageentwurf, Händlerantwort, Beweis- und Fristenplan?
+- § 439 BGB: Nacherfüllung (Nachbesserung und Nachlieferung als Wahlrecht des Käufers)
+- Richtlinie (EU) 2024/1799 (Right to Repair): Reparaturpflichten des Herstellers
+- § 475 BGB: Verbrauchsgüterkauf
+- § 309 Nr. 8 lit. b BGB: AGB-Verbot der Erschwerung von Nachbesserung
+- §§ 327 ff. BGB: Verträge über digitale Produkte (Reparierbarkeit digitaler Produkte)
 
-## Rechtsanker
+## Intake
 
-- § 327, § 327a, § 327e, § 327f BGB für digitale Produkte und die Abgrenzung zu Waren mit digitalen Elementen.
-- § 434 BGB: subjektive Anforderungen, objektive Anforderungen, Montage-/Installationsanforderungen; Beschaffenheit umfasst Funktionalität, Kompatibilität und Interoperabilität.
-- § 475b BGB: Sachmangel einer Ware mit digitalen Elementen einschließlich Aktualisierungspflichten.
-- § 475c BGB: dauerhafte Bereitstellung digitaler Elemente, mindestens zwei Jahre Haftungszeitraum für digitale Elemente.
-- § 475e BGB: Sonderverjährung bei dauerhafter Bereitstellung, Aktualisierungspflicht, Mangelanzeige und Übergabe zur Nacherfüllung.
-- § 476 BGB: Abweichung von objektiven Anforderungen nur mit eigener Information und ausdrücklicher gesonderter Vereinbarung.
-- § 477 BGB: Beweislastvermutung, bei dauerhafter Bereitstellung digitaler Elemente besonders prüfen.
-- Richtlinie (EU) 2024/1799 zum Recht auf Reparatur: Stand Juni 2026 als EU-Richtlinie mit Umsetzungsprüfung behandeln; nicht als bereits vollständig deutsches BGB-Recht behaupten, wenn das Umsetzungsgesetz nicht geprüft ist.
+- Liegt ein Verbrauchsgüterkauf vor?
+- Besteht ein Sachmangel, für den Nacherfüllung verlangt wird?
+- Welche Form der Nacherfüllung wählt der Käufer: Nachbesserung oder Nachlieferung?
+- Ist die gewählte Form für den Verkäufer unverhältnismäßig?
+- Gibt es EU-rechtliche Right-to-Repair-Verpflichtungen, die den Hersteller betreffen?
 
-## Arbeitsprogramm
+## Prüfraster
 
-1. **Vertragstyp trennen.** Kauf einer Ware mit digitalen Elementen (§ 475b/§ 475c) ist nicht dasselbe wie reiner Digitalvertrag (§§ 327 ff.). § 327a Abs. 3 ist der Router.
-2. **Mangelzeitpunkt und Zeitraum klären.** Bei Hardware regelmäßig Gefahrübergang; bei Updatepflicht und dauerhaften digitalen Elementen den Zeitraum der Bereitstellung/Erwartbarkeit prüfen.
-3. **Updatepflicht konkretisieren.** Welche Updates waren vereinbart, welche waren objektiv für Vertragsmäßigkeit/Sicherheit nötig, wer hat informiert, was hat der Verbraucher installiert oder nicht installiert?
-4. **Reparaturrecht mitdenken.** Nacherfüllung kann Reparatur oder Ersatzlieferung sein; Right-to-Repair künftig zusätzlich mit Hersteller-/Repairer-Informationspflichten, Reparaturformular, Plattform und Verbot sachwidriger Reparaturhindernisse prüfen.
-5. **Beweise bauen.** Screenshots App, Update-Logs, Händlerchat, öffentliche Werbung, Reparaturprotokoll, Diagnosedaten, Seriennummer, Firmwarestand, Konto-/Cloud-Abhängigkeit.
-6. **Output liefern.** Immer mit Kurzampel, Anspruchsgrundlagen, Fristen, Beweislast, nächstem Schreiben und Anschluss-Skills.
+1. Nacherfüllungsrecht nach § 439 BGB: Käuferwahl zwischen Nachbesserung und Nachlieferung
+2. Unverhältnismäßigkeit: kann Verkäufer Alternativform wählen (§ 439 Abs. 4 BGB)?
+3. Kosten der Nacherfüllung: Verkäufer trägt alle Kosten nach § 439 Abs. 2 BGB
+4. Fehlschlagen der Nacherfüllung: zwei erfolglose Versuche im Zweifel (§ 440 Satz 2 BGB)
+5. Right to Repair RL 2024: Reparaturpflichten des Herstellers (unabhängig vom Verkäufer)
+6. Abgrenzung: Hersteller-Reparaturpflicht und Verkäufer-Nacherfüllungspflicht
+7. Digitale Produkte: Reparierbarkeit und Updatepflicht nach §§ 327 ff. BGB
+8. Verjährung und Beweislast
 
-## Quellenhygiene
+## Fallstricke
 
-Normen live über gesetze-im-internet.de prüfen. EU-Rechtsstand live über EUR-Lex oder Kommissionsseite prüfen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei überprüfbarer Quelle.
+- Right to Repair RL gilt gegenüber dem Hersteller, nicht dem Händler; Ansprüche richten sich gegen verschiedene Personen.
+- Unverhältnismäßigkeit der Nacherfüllung ist streng auszulegen; Komforterwägungen reichen nicht.
+- Zweimaiges Fehlschlagen der Nachbesserung ist Regelfall, nicht Mindestanforderung.
+- Kosten der Nacherfüllung (Transport, Arbeit, Material) trägt vollständig der Verkäufer.
+## Stoppschilder
+
+- Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
+- Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
+- Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
+
+## Output
+
+- Nacherfüllungsrecht-Analyse (Nachbesserung vs. Nachlieferung)
+- Verhältnismäßigkeitsprüfung
+- Right-to-Repair-Ansprüche gegen Hersteller
+- Handlungsempfehlung und Risikoampel
+
+## Qualitätsregeln
+
+- Right to Repair RL ist neue Entwicklung; Stand immer live prüfen.
+- Kosten der Nacherfüllung vollständig beziffern.
+- Hersteller- und Verkäuferansprüche klar trennen.
 
 ## Anschluss-Skills
 
-Nach der Erstprüfung je nach Schwerpunkt `kaufrecht-sachmangel-paragraph-434`, `kaufrecht-nacherfuellung-ruecktritt-minderung`, `kaufrecht-schadensersatz-aufwendungsersatz`, `verbrauchsgueterkauf-digitales`, `schnittstelle-bgb-at-methodenlehre-agb` oder `produzentenhaftung-und-verkehrssicherung` ziehen.
+- kaufrecht-nacherfuellung-ruecktritt-minderung
+- kaufrecht-updates-sicherheitsupdates-327f-475b
+- verbrauchsgueterkauf-digitales
+- workflow-livequellen-rechtsstand
+
+
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__439.html
+- https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L1799
+- https://www.gesetze-im-internet.de/bgb/__434.html
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

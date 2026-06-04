@@ -1,24 +1,47 @@
 ---
 name: mietrecht-mangel-minderung
-description: "Prüft Mietmangel, Anzeige, Minderung, Zurückbehaltung, Schadensersatz und Beweisfragen."
+description: "Mietrechtliche Mängel und Minderung §§ 536 ff. BGB: Anzeigepflicht, Minderungsquote, Schadensersatz, Kündigung."
 ---
-# Mietmangel und Minderung
+# Mietrecht: Mangel und Minderung §§ 536 ff. BGB
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Mietrechtliche Mängelansprüche vollständig prüfen: Mangelbegriff nach § 536 BGB, Anzeigepflicht, Minderungsrecht, Aufwendungsersatz und fristlose Kündigung wegen Mängeln.
 
-## Arbeitsweise
+## Normanker
 
-Trenne subjektive Unzufriedenheit, objektive Gebrauchstauglichkeit und Vertragszweck.
+- § 536 BGB: Mietminderung bei Mängeln der Mietsache
+- § 536a BGB: Schadensersatz- und Aufwendungsersatzansprüche bei Mängeln
+- § 536b BGB: Kenntnis des Mieters bei Vertragsschluss oder Annahme
+- § 536c BGB: Anzeigepflicht des Mieters
+- § 543 BGB: Außerordentliche Kündigung aus wichtigem Grund
+- § 536 BGB a.F./n.F.: Stichtagsprinzip beim Minderungsrecht
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Welche Art von Mietverhältnis liegt vor (Wohnraum, Gewerberaum, Pacht)?
+- Was ist der konkrete Mangel (Schimmel, Heizungsausfall, Lärm, öffentlich-rechtliche Beschränkungen)?
+- Seit wann besteht der Mangel und wann hat der Mieter ihn angezeigt?
+- Welche Minderungsquote ist realistisch?
+- Was ist das Ziel (Mangelbeseitigung, Minderung, Schadensersatz, Kündigung)?
 
+## Prüfraster
+
+1. Mangelbegriff: Abweichung der tatsächlichen von der vertraglich vereinbarten Istbeschaffenheit
+2. Anzeigepflicht nach § 536c BGB: Zeitpunkt und Form der Mängelanzeige; Folgen bei Unterlassen
+3. Kenntnis bei Vertragsschluss: § 536b BGB (Mängelrechte ausgeschlossen, wenn Mangel bekannt war)
+4. Minderungsquote bestimmen: anteilige Herabsetzung der Miete (BGH-Rechtsprechung zur Minderungsquote)
+5. Schadensersatz nach § 536a Abs. 1 BGB: anfänglicher Mangel oder Verschulden des Vermieters
+6. Aufwendungsersatz nach § 536a Abs. 2 BGB: Selbstvornahme nur bei Verzug oder dringendem Bedarf
+7. Kündigung nach § 543 Abs. 2 Nr. 1 BGB: erhebliche Beeinträchtigung der Gebrauchstauglichkeit
+8. Verjährung nach §§ 195 und 548 BGB; Sonderregel § 548 BGB für Ersatzansprüche nach Rückgabe
+
+## Fallstricke
+
+- Fehlende oder verspätete Mängelanzeige nach § 536c BGB kann Schadensersatzpflicht des Mieters begründen.
+- Kenntnis des Mieters beim Einzug schließt Minderung nach § 536b BGB aus, wenn kein ausdrücklicher Vorbehalt.
+- Minderungsquote nicht aus BGH-Entscheidungen ableiten ohne Sachverhalt-Abgleich; Quoten sind einzelfallabhängig.
+- Bei Schimmelschäden Ursachenforschung (Mieter-Lüftungsverhalten vs. Baumangel) entscheidend.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +51,30 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Mangel-Analyse (Istbeschaffenheit vs. Sollbeschaffenheit)
+- Minderungsquoten-Empfehlung mit Begründung
+- Anspruchsmatrix (Minderung, Schadensersatz, Aufwendungsersatz, Kündigung)
+- Risikoampel für Mietpartei
+
+## Qualitätsregeln
+
+- Anzeigepflicht und Kenntnis des Mieters immer vor Minderungsrecht prüfen.
+- BGH-Minderungsquoten nur als Orientierung, nie als Automatismus.
+- Wohnraum- und Gewerberaummietrecht unterscheiden.
+
+## Anschluss-Skills
+
+- mietvertrag-grundschema-paragraph-535
+- workflow-fristen-ruecktritt-kuendigung
+- schadensrecht-paragraphen-249-253
+- deliktsrecht-paragraph-823-1
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__536.html
+- https://www.gesetze-im-internet.de/bgb/__536a.html
+- https://www.gesetze-im-internet.de/bgb/__543.html
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

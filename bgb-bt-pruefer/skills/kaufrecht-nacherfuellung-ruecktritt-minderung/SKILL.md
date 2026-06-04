@@ -1,24 +1,49 @@
 ---
 name: kaufrecht-nacherfuellung-ruecktritt-minderung
-description: "Prüft kaufrechtliche Mängelrechte, Fristsetzung, Unzumutbarkeit, Fehlschlagen, Rücktritt und Minderung."
+description: "Prüft Nacherfüllung § 439 BGB, Rücktritt § 437 Nr. 2 BGB, Minderung und Schadensersatz bei Sachmangel."
 ---
-# Nacherfüllung, Rücktritt, Minderung
+# Kaufrecht: Nacherfüllung, Rücktritt und Minderung
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Käuferrechte bei Sachmangel nach § 437 BGB vollständig prüfen: Nacherfüllung, Fristsetzung, Rücktritt, Minderung und Schadensersatz.
 
-## Arbeitsweise
+## Normanker
 
-Baue Rechtsfolgen und taktische Wahlrechte auf.
+- § 437 BGB: Rechte des Käufers bei Sachmangel
+- § 439 BGB: Nacherfüllung (Nachbesserung oder Nachlieferung)
+- §§ 440 und 441 BGB: Rücktritt und Minderung
+- § 323 BGB: Voraussetzungen des Rücktritts
+- § 441 BGB: Minderung
+- § 442 BGB: Kenntnis des Käufers vom Mangel
+- § 443 BGB: Garantie
+- § 475 BGB: Verbrauchsgüterkauf
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Liegt ein Sachmangel nach § 434 BGB vor?
+- Wurde eine angemessene Nachfrist zur Nacherfüllung gesetzt?
+- Hat der Verkäufer Nacherfüllung verweigert oder ist sie fehlgeschlagen?
+- Wählt der Käufer Rücktritt oder Minderung?
+- Besteht zusätzlich ein Schadensersatzanspruch?
 
+## Prüfraster
+
+1. Sachmangel nach § 434 BGB: subjektive, objektive und Montageanforderungen
+2. Nacherfüllungsanspruch nach § 439 BGB: Wahl zwischen Nachbesserung und Nachlieferung
+3. Fristsetzung: angemessene Frist mit Ablehnungsandrohung nach § 323 BGB
+4. Unmöglichkeit oder Verweigerung der Nacherfüllung: § 440 BGB
+5. Rücktritt nach §§ 437 Nr. 2 und 323 BGB: Voraussetzungen, Ausnahmen bei erheblichem Mangel
+6. Minderung nach § 441 BGB: Verhältnisrechnung, Rückforderung bei bereits gezahltem Kaufpreis
+7. Schadensersatz nach §§ 437 Nr. 3 und 280 BGB: neben oder statt der Leistung
+8. Verjährung: § 438 BGB; Beweislastumkehr § 477 BGB
+
+## Fallstricke
+
+- Rücktritt setzt erheblichen Mangel voraus (§ 323 Abs. 5 Satz 2 BGB); unerheblicher Mangel berechtigt nur zur Minderung.
+- Bei Verbrauchsgüterkauf zwei Nachbesserungsversuche sind nicht gesetzlich vorgeschrieben; Einzelfallbeurteilung.
+- Minderungsberechnung: Verhältnis mängelfreier Kaufpreis zum tatsächlichen Kaufpreis.
+- § 442 BGB schließt Mängelansprüche aus, wenn Käufer Mangel bei Vertragsschluss kannte.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,12 +53,23 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Mängelrechte-Stufenleiter (Nacherfüllung, Rücktritt/Minderung, Schadensersatz)
+- Fristsetzungs-Dokumentation
+- Rücktritts-/Minderungs-Berechnung
+- Risikoampel und Handlungsempfehlung
 
+## Qualitätsregeln
+
+- Nacherfüllung immer vor Rücktritt und Minderung prüfen.
+- Erheblichkeit des Mangels ausdrücklich beurteilen.
+- Minderungsberechnung immer zahlenmäßig darstellen.
+
+## Anschluss-Skills
+
+- kaufrecht-sachmangel-paragraph-434
+- kaufrecht-gefahruebergang-und-versendung
+- kaufrecht-schadensersatz-aufwendungsersatz
+- bt-fristen-erklaerungen-zugang
 
 ## Qualitäts-Hardening
 

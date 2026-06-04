@@ -1,24 +1,49 @@
 ---
 name: buergschaft-einreden-und-akzessorietaet
-description: "Prüft Einreden des Bürgen, Vorausklage, Erlöschen der Hauptschuld, Sicherungszweck und Höchstbetragsbürgschaft."
+description: "Prüft Akzessorietät der Bürgschaft, Einreden des Bürgen §§ 768–770 BGB und Auswirkungen von Hauptschuld-Veränderungen."
 ---
-# Bürgschaft Einreden und Akzessorietät
+# Bürgschaft: Einreden und Akzessorietät
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Akzessorietätsprinzip und Einreden des Bürgen nach §§ 768–770 BGB prüfen: welche Einreden stehen dem Bürgen zu und wie wirken Veränderungen der Hauptschuld auf die Bürgschaft.
 
-## Arbeitsweise
+## Normanker
 
-Baue Verteidigungsplan gegen Bürgschaftsinanspruchnahme.
+- § 765 BGB: Bürgschaftsvertrag (Grundnorm)
+- § 767 BGB: Akzessorietät, Umfang der Bürgschaftsschuld
+- § 768 BGB: Einreden des Bürgen aus der Hauptschuld
+- § 769 BGB: Mitbürgschaft
+- § 770 BGB: Einrede der Anfechtbarkeit und Aufrechenbarkeit
+- § 771 BGB: Einrede der Vorausklage
+- § 772 BGB: Klage gegen Bürgen
+- § 776 BGB: Aufgabe von Sicherheiten durch den Gläubiger
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Welche Hauptschuld liegt zugrunde und welche Einreden bestehen gegen sie?
+- Wurde auf die Einrede der Vorausklage nach § 771 BGB verzichtet (selbstschuldnerische Bürgschaft)?
+- Hat der Gläubiger Sicherheiten aufgegeben; greift § 776 BGB?
+- Sind mehrere Bürgen vorhanden (Mitbürgschaft nach § 769 BGB)?
+- Wurde die Hauptschuld angepasst oder erhöht nach Abschluss des Bürgschaftsvertrags?
 
+## Prüfraster
+
+1. Akzessorietät prüfen: Bürgschaftsschuld folgt Hauptschuld in Entstehung und Erlöschen
+2. Einreden aus der Hauptschuld nach § 768 BGB: Verjährung, Anfechtung, Rücktritt
+3. Einrede der Anfechtbarkeit nach § 770 Abs. 1 BGB: Bürge kann Einrede solange erheben, wie Hauptschuldner anfechten kann
+4. Einrede der Aufrechenbarkeit nach § 770 Abs. 2 BGB: Bürge kann Aufrechnung geltend machen, die dem Hauptschuldner zusteht
+5. Einrede der Vorausklage nach § 771 BGB: Voraussetzungen und Verzicht bei selbstschuldnerischer Bürgschaft
+6. § 776 BGB: Bürgschaftseinrede bei Aufgabe von Sicherheiten durch den Gläubiger
+7. Mitbürgschaft: Innenausgleich nach § 774 Abs. 2 und § 426 BGB
+8. Verjährung der Bürgschaftsforderung: § 195 BGB
+
+## Fallstricke
+
+- Selbstschuldnerische Bürgschaft schließt Einrede der Vorausklage aus; § 771 BGB nicht mehr anwendbar.
+- § 776 BGB: Aufgabe von Pfandrecht oder anderen Sicherheiten befreit Bürgen nur anteilig.
+- Bürgschaftsschuld kann über die ursprüngliche Hauptschuld hinausgehen, wenn Zinsen und Nebenforderungen vereinbart wurden.
+- Einreden aus der Hauptschuld sind vom Bürgen eigenständig geltend zu machen.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,12 +53,23 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Einreden-Matrix (Hauptschuld-Einreden und bürgschaftsspezifische Einreden)
+- Akzessorietätsprüfung mit Zeitlinie
+- Selbstschuldnerische vs. subsidiäre Bürgschaft: Unterschiede und Rechtsfolgen
+- Risikoampel und Handlungsempfehlungen
 
+## Qualitätsregeln
+
+- Akzessorietät immer als Grundsatz voranstellen und Ausnahmen gesondert markieren.
+- § 776 BGB-Einrede nur bei tatsächlichem Sicherheitenausfall prüfen.
+- Mitbürgschaft-Innenausgleich gesondert behandeln.
+
+## Anschluss-Skills
+
+- buergschaft-grundschema-paragraph-765
+- buergschaft-form-und-verbraucherbuerge
+- gesamtschuld-und-regress-bgb-bt
+- workflow-anspruchslandkarte
 
 ## Qualitäts-Hardening
 

@@ -1,24 +1,50 @@
 ---
 name: dienstvertrag-und-behandlungsvertrag
-description: "Prüft Dienstvertrag, freie Dienste, Geschäftsbesorgung, Behandlungsvertrag, Dokumentation und Aufklärung."
+description: "Prüft Dienstvertrag §§ 611 ff. BGB und Behandlungsvertrag §§ 630a ff. BGB: Aufklärung, Dokumentation und Arzthaftung."
 ---
 # Dienstvertrag und Behandlungsvertrag
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Behandlungsvertragsrecht nach §§ 630a–630h BGB prüfen: Aufklärungspflichten, Einwilligung, Dokumentation, Beweislast und Haftung bei Behandlungsfehlern.
 
-## Arbeitsweise
+## Normanker
 
-Trenne Erfolgsschuld und Tätigkeitsschuld; markiere Medizinrecht-Schnittstellen.
+- §§ 630a–630h BGB: Behandlungsvertrag (Kodifizierung der Arzthaftung)
+- § 630a BGB: Vertragstypische Pflichten, Behandlungsstandard
+- § 630b BGB: Anwendung von Dienstvertragsrecht
+- § 630c BGB: Informationspflichten
+- § 630d BGB: Einwilligung des Patienten
+- § 630e BGB: Aufklärungspflichten
+- § 630f BGB: Dokumentationspflicht
+- § 630g BGB: Einsichtsrecht in Patientenakte
+- § 630h BGB: Beweislast bei Behandlungsfehlern
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Welche Behandlung wurde durchgeführt oder unterlassen?
+- Hat der Behandelnde den medizinischen Standard eingehalten (§ 630a Abs. 2 BGB)?
+- Wurde die Einwilligung wirksam nach § 630d BGB erteilt; lag vollständige Aufklärung vor?
+- Ist die Behandlung dokumentiert; bestehen Dokumentationslücken?
+- Liegt ein einfacher oder grober Behandlungsfehler vor?
 
+## Prüfraster
+
+1. Behandlungsvertrag: Parteien, Gegenstand, Standardleistung nach § 630a Abs. 2 BGB
+2. Einwilligung und Aufklärung: § 630d und § 630e BGB vollständig prüfen
+3. Behandlungsfehler: Abweichung vom geschuldeten medizinischen Standard
+4. Einfacher vs. grober Behandlungsfehler: grober Fehler kehrt Beweislast nach § 630h Abs. 5 BGB um
+5. Dokumentationspflicht nach § 630f BGB: fehlende Dokumentation führt zu Beweislastnachteil nach § 630h Abs. 3 BGB
+6. Kausalität: Behandlungsfehler hat Gesundheitsschaden verursacht
+7. Schadensersatz und Schmerzensgeld nach §§ 280 und 823 BGB in Verbindung mit §§ 249 ff. BGB
+8. Verjährung: §§ 195 und 199 BGB (Kenntniserlangung vom Fehler)
+
+## Fallstricke
+
+- Aufklärung und Einwilligung sind eigenständige Haftungsgrundlagen (keine Heilung durch guten Behandlungserfolg).
+- Grober Behandlungsfehler kehrt die Kausalitätsbeweislast um (Patient muss Kausalität nicht beweisen).
+- Dokumentationslücken wirken zu Lasten des Behandelnden.
+- Für Arzthaftung gilt Verjährungsfrist ab Kenntniserlangung des Patienten vom Fehler.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,12 +54,23 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Aufklärungs- und Einwilligungs-Checkliste
+- Behandlungsfehler-Analyse (einfach vs. grob)
+- Beweislastmatrix
+- Schadensberechnung und Risikoampel
 
+## Qualitätsregeln
+
+- Aufklärungsfehler und Behandlungsfehler immer getrennt prüfen.
+- § 630h BGB-Beweislastnormen vollständig auflisten.
+- Dokumentation als eigenständigen Haftungsbereich behandeln.
+
+## Anschluss-Skills
+
+- arbeitsnaher-dienstvertrag-bgb
+- werk-dienst-abgrenzung-erfolg
+- deliktsrecht-paragraph-823-1
+- workflow-beweislast-und-belegmatrix
 
 ## Qualitäts-Hardening
 

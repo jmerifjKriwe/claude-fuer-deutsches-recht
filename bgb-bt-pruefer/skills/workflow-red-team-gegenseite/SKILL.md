@@ -1,24 +1,47 @@
 ---
 name: workflow-red-team-gegenseite
-description: "Prüft die eigene Lösung aus Sicht der Gegenseite und findet schwache Anspruchsvoraussetzungen, Einwendungen und Beweisprobleme."
+description: "Red-Team-Analyse: Gegenseiten-Perspektive für BGB-BT-Mandate einnehmen und Schwachstellen identifizieren."
 ---
-# Red-Team Gegenseite BGB BT
+# Workflow: Red Team Gegenseite
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Gegenseiten-Perspektive im BGB Besonderer Teil systematisch einnehmen: Argumente der Gegenseite antizipieren, eigene Position auf Schwachstellen prüfen und Verhandlungs- oder Prozesstaktik anpassen.
 
-## Arbeitsweise
+## Normanker
 
-Liefere Top-10-Angriffe, Verteidigungsbausteine und Vergleichsdruckpunkte.
+- §§ 254 und 242 BGB: Mitverschulden und Treu und Glauben als typische Gegenargumente
+- § 138 BGB: Sittenwidrigkeit als Einwand
+- §§ 195 ff. BGB: Verjährung als Gegenargument
+- § 320 BGB: Einrede des nicht erfüllten Vertrags
+- § 362 BGB: Erfüllungseinwand
+- Amtliches BGB: https://www.gesetze-im-internet.de/bgb/
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Was ist die eigene Position und was will die Mandantschaft erreichen?
+- Welche Argumente wird die Gegenseite wahrscheinlich vorbringen?
+- Gibt es Schwachstellen in der eigenen Sachverhaltsdarstellung?
+- Sind Beweise lückenhaft oder angreifbar?
+- Wie ist das Prozesskostenrisiko zu bewerten?
 
+## Prüfraster
+
+1. Eigene Position analysieren: Ansprüche, Beweise, Fristen, Risiken
+2. Gegenseiten-Perspektive einnehmen: Welche Einwände und Einreden sind naheliegend?
+3. Typische Gegenargumente im Schuldrecht BT: Mitverschulden (§ 254 BGB), Verjährung, Verwirkung
+4. Beweislast-Angriff: Kann Gegenseite unsere Beweise erschüttern?
+5. Gegenansprüche identifizieren: hat die Gegenseite eigene Ansprüche, die aufgerechnet werden könnten?
+6. Verhandlungsszenarien: welche Zugeständnisse müssen wir machen, wenn Gegenseite recht hat?
+7. Worst-Case-Analyse: was passiert wenn wir verlieren?
+8. Vergleichskorridore bestimmen: unter welchen Bedingungen ist Vergleich besser als Prozess?
+
+## Fallstricke
+
+- Eigene Überzeugung verhindert das Einnehmen der Gegenperspektive; neutraler Blick nötig.
+- Gegenansprüche und Aufrechnung übersehen; können eigene Forderung neutralisieren.
+- Prozesskostenrisiko nicht einbezogen; Mandant sollte realistisches Bild haben.
+- Schwache Beweise nicht als solche erkannt; falsche Siegesgewissheit.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +51,30 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Gegenseiten-Argument-Katalog
+- Schwachstellen-Liste in eigener Position
+- Prozesskostenrisiko-Abschätzung
+- Vergleichskorridor-Empfehlung
+
+## Qualitätsregeln
+
+- Red-Team-Analyse immer vor Klageerhebung oder Verhandlungsbeginn durchführen.
+- Eigene Schwachstellen offen benennen; kein selektives Denken.
+- Mandant über Prozesskostenrisiko und Vergleichsoptionen aufklären.
+
+## Anschluss-Skills
+
+- workflow-vergleich-und-verhandlungsplan
+- workflow-anspruchslandkarte
+- workflow-beweislast-und-belegmatrix
+- gesamtschuld-und-regress-bgb-bt
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__254.html
+- https://www.gesetze-im-internet.de/bgb/__242.html
+- https://www.gesetze-im-internet.de/bgb/__195.html
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

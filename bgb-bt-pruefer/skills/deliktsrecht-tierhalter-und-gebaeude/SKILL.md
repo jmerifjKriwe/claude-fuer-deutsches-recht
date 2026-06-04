@@ -1,24 +1,47 @@
 ---
 name: deliktsrecht-tierhalter-und-gebaeude
-description: "Prüft Tierhalterhaftung, Gebäudeeinsturz, Grundstücks- und Verkehrssicherungspflichten."
+description: "Prüft Tierhalterhaftung § 833 BGB, Haftung des Tieraufsehers § 834 BGB und Gebäudehaftung § 836–838 BGB."
 ---
-# Tierhalter, Gebäude, Sachen
+# Deliktsrecht: Tierhalter und Gebäude
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Tierhalterhaftung nach §§ 833 und 834 BGB sowie Gebäudehaftung nach §§ 836–838 BGB prüfen: Haltereigenschaft, Gefährdungshaftung und Exkulpationsmöglichkeiten.
 
-## Arbeitsweise
+## Normanker
 
-Erfasse Gefährdung, Exkulpation, Mitverschulden.
+- § 833 BGB: Tierhalterhaftung (Gefährdungshaftung bei Luxustieren, Exkulpation bei Nutztieren)
+- § 834 BGB: Haftung des Tieraufsehers
+- § 836 BGB: Haftung des Grundstücksbesitzers für einstürzende Gebäude oder Anlagen
+- § 837 BGB: Haftung des Gebäudebesitzers
+- § 838 BGB: Haftung des Gebäudeunterhaltspflichtigen
+- § 254 BGB: Mitverschulden des Geschädigten (z.B. Provozierung des Tiers)
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Wer ist Tierhalter im Sinne des § 833 BGB (eigene Rechnung und Interesse)?
+- Handelt es sich um ein Luxustier (Hund, Pferd) oder ein Nutztier (Hoftier)?
+- Kann der Tierhalter bei Nutztieren exkulpieren (§ 833 Satz 2 BGB)?
+- Hat das Gebäude eine gefährliche Beschaffenheit und wer ist verantwortlicher Besitzer?
+- Liegt ein Mitverschulden des Geschädigten vor?
 
+## Prüfraster
+
+1. Tierhalterhaftung § 833 BGB: Haltereigenschaft (Eigeninteresse und eigene Rechnung)
+2. Tiergefahr: hat das typische Tierverhalten den Schaden verursacht?
+3. Luxustier oder Nutztier: bei Nutztieren Exkulpation möglich (sorgfältige Beaufsichtigung)
+4. Tieraufseher: § 834 BGB, eigene Fahrlässigkeitshaftung mit Exkulpationsmöglichkeit
+5. Gebäudehaftung § 836 BGB: fehlerhafte Errichtung oder mangelhafte Unterhaltung; Besitzereigenschaft
+6. § 837 BGB: Besitzer eines Bauwerks auf fremdem Grundstück
+7. § 838 BGB: Unterhaltungspflichtiger des Gebäudes (auch ohne Besitz)
+8. Mitverschulden nach § 254 BGB; Verjährung §§ 195 und 199 BGB
+
+## Fallstricke
+
+- Nutztier-Exkulpation nach § 833 Satz 2 BGB setzt sorgfältige Beaufsichtigung nach den Umständen voraus.
+- Gebäudehaftung nach § 836 BGB ist Verschuldenshaftung, aber mit Beweislastumkehr.
+- Tierhalter und Tieraufseher können gleichzeitig nach §§ 833 und 834 BGB haften.
+- Mitverschulden durch Provokation des Tiers oder unvorsichtiges Verhalten am Gebäude mindern Anspruch.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +51,30 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Haltereigenschafts-Prüfung
+- Exkulpations-Checkliste (Tier-/Gebäudehaftung)
+- Schadensberechnung mit Mitverschuldensabzug
+- Risikoampel
+
+## Qualitätsregeln
+
+- Luxus- vs. Nutztier immer explizit einordnen.
+- § 836 BGB-Beweislastumkehr ausdrücklich erwähnen.
+- Mitverschulden durch Tierprovokation immer prüfen.
+
+## Anschluss-Skills
+
+- deliktsrecht-paragraph-823-1
+- produzentenhaftung-und-verkehrssicherung
+- schadensrecht-paragraphen-249-253
+- delikt-organisationspflicht
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__833.html
+- https://www.gesetze-im-internet.de/bgb/__836.html
+- https://www.gesetze-im-internet.de/bgb/__837.html
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

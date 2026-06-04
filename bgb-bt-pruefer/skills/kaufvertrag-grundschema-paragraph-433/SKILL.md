@@ -1,24 +1,51 @@
 ---
 name: kaufvertrag-grundschema-paragraph-433
-description: "Prüft Primär- und Sekundäransprüche aus Kaufvertrag nach § 433 BGB und Schnittstellen zu BGB AT, Verbraucherschutz und AGB."
+description: "Kaufvertrag § 433 BGB: Primär- und Sekundäransprüche, Übergabe, Eigentumsverschaffung, AGB und Verbraucherschutz."
 ---
 # Kaufvertrag Grundschema § 433 BGB
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Den Kaufvertrag nach § 433 BGB vollständig prüfen: Vertragsschluss, gegenseitige Hauptleistungspflichten (Übergabe, Eigentumsverschaffung, Kaufpreiszahlung), Pflichtverletzung und Sekundäransprüche.
 
-## Arbeitsweise
+## Normanker
 
-Beginne bei Kaufgegenstand, Parteien, Kaufpreis, Übergabe, Eigentumsverschaffung, Fälligkeit und Pflichtverletzung.
+- § 433 BGB: Vertragstypische Pflichten beim Kaufvertrag
+- § 434 BGB: Sachmangel (subjektive, objektive und Montageanforderungen)
+- § 437 BGB: Rechte des Käufers bei Mängeln
+- § 439 BGB: Nacherfüllung
+- §§ 440 und 441 BGB: Rücktritt und Minderung
+- § 442 BGB: Kenntnis des Käufers
+- §§ 474 ff. BGB: Verbrauchsgüterkauf
+- §§ 305 ff. BGB: AGB-Kontrolle
+- § 476 BGB: Abweichende Vereinbarungen
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Wer sind die Vertragsparteien (Verbraucher, Unternehmer, Privatperson)?
+- Was ist der Kaufgegenstand (bewegliche Sache, Grundstück, digitale Ware)?
+- Wurde der Vertrag wirksam geschlossen (Angebot, Annahme, Form)?
+- Welche Mängel werden gerügt und zu welchem Zeitpunkt sind sie aufgetreten?
+- Welches Arbeitsprodukt wird benötigt (Mängelrüge, Klage, Verhandlung)?
 
+## Prüfraster
+
+1. Vertragsschluss: Angebot und Annahme, Formerfordernis bei Grundstücken (§ 311b BGB), AGB-Einbeziehung
+2. Pflichten des Verkäufers: Übergabe und Eigentumsverschaffung (§ 433 Abs. 1 BGB); mangelfreie Sache
+3. Pflichten des Käufers: Kaufpreiszahlung und Abnahme (§ 433 Abs. 2 BGB)
+4. Gefahrübergang nach § 446 BGB (Übergabe) oder § 447 BGB (Versendungskauf)
+5. Sachmangel nach § 434 BGB: subjektive, objektive Anforderungen, Montagemangel
+6. Rechtsmangel nach § 435 BGB
+7. Käuferrechte nach § 437 BGB: Nacherfüllung, Rücktritt, Minderung, Schadensersatz
+8. Verjährung nach §§ 438 und 195 ff. BGB; Ausschluss nach § 442 BGB
+9. Verbrauchsgüterkauf-Sonderregeln §§ 474 ff. BGB und Beweislastumkehr § 477 BGB
+
+## Fallstricke
+
+- Gefahrübergang und Mangelentstehungszeitpunkt genau bestimmen; bei Versendungskauf gilt § 447 BGB.
+- Kenntnis des Mangels bei Vertragsschluss führt nach § 442 BGB zum Ausschluss der Mängelrechte.
+- AGB-Klauseln zu Gewährleistungsausschluss zwischen Unternehmern können wirksam sein; gegenüber Verbrauchern nicht.
+- Nacherfüllungsrecht des Verkäufers muss vor Rücktritt gewährt werden (§§ 437 Nr. 2 und 440 BGB).
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,12 +55,23 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Vertragsstruktur-Übersicht (Parteien, Gegenstand, Pflichten)
+- Mängelprüfungsschema (subjektiv, objektiv, Montagemangel)
+- Käufer-Rechte-Matrix nach § 437 BGB
+- Risikoampel und Empfehlung
 
+## Qualitätsregeln
+
+- Kaufgegenstand-Qualifikation (beweglich, Grundstück, digital) immer als ersten Schritt klären.
+- Gefahrübergang und Mangelentstehungszeitpunkt sauber dokumentieren.
+- Nacherfüllungsrecht des Verkäufers als Voraussetzung für Rücktritt immer prüfen.
+
+## Anschluss-Skills
+
+- kaufrecht-sachmangel-paragraph-434
+- kaufrecht-nacherfuellung-ruecktritt-minderung
+- kaufrecht-beweislast-verjaehrung-digitale-elemente
+- verbrauchsgueterkauf-digitales
 
 ## Qualitäts-Hardening
 

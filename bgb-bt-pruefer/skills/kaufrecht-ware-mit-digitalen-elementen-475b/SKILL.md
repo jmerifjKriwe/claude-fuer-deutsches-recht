@@ -1,47 +1,83 @@
 ---
 name: kaufrecht-ware-mit-digitalen-elementen-475b
-description: "Prüft, ob eine Kaufsache wegen App, Cloud, Firmware, Konto, Schlüssel, Sensorik oder OTA-Update eine Ware mit digitalen Elementen ist, und ordnet Mangelrechte nach § 434, § 475b und § 327a BGB."
+description: "Prüft Kaufvertrag über Ware mit digitalen Elementen § 475b BGB: Mangelfreiheit, Updatepflichten und Verhältnis zu §§ 327 ff. BGB."
 ---
-
 # Kaufrecht: Ware mit digitalen Elementen § 475b BGB
 
-## Aufgabe
+## Zweck
 
-Schwerpunkt: Router zwischen § 327a Abs. 3 und § 475b BGB. Prüfe, ob die Ware ihre Funktionen ohne digitale Elemente erfüllen kann; wenn nein, ist der Kaufrechtsstrang einschlägig und digitale Elemente werden in den Sachmangel hineingezogen.
+Kaufrechtliche Besonderheiten für Ware mit digitalen Elementen nach § 475b BGB prüfen: Anforderungen an Mangelfreiheit, Updatepflichten und Verhältnis zu den §§ 327 ff. BGB.
 
-## Sofort klären
+## Normanker
 
-1. Ist der Käufer Verbraucher und der Verkäufer Unternehmer?
-2. Geht es um eine Sache, ein digitales Produkt oder eine Ware mit digitalen Elementen?
-3. Kann die Ware ohne App, Cloud, Firmware, Konto, Schlüssel, Sensorik oder Update ihre Funktion erfüllen?
-4. Welcher Mangel zeigt sich: Hardware, Software, fehlendes Update, Sicherheitslücke, App-Abschaltung, Reparatursperre, fehlende Anleitung oder falsche öffentliche Äußerung?
-5. Wann wurden Ware, digitale Elemente, Updates und Reparaturversuch bereitgestellt?
-6. Welches Arbeitsprodukt wird gebraucht: Anspruchsmatrix, Mandantenbrief, Klageentwurf, Händlerantwort, Beweis- und Fristenplan?
+- § 475b BGB: Ware mit digitalen Elementen (Definition und Sonderregeln)
+- § 434 Abs. 3 Nr. 3 BGB: Updatepflicht als Teil der objektiven Anforderungen
+- §§ 327–327u BGB: Verträge über digitale Produkte
+- § 476 BGB: Abweichungen von Verbrauchsgüterkauf-Anforderungen
+- Richtlinie (EU) 2019/771 Art. 7 und 8: Konformitätsanforderungen für Ware mit digitalen Elementen
 
-## Rechtsanker
+## Intake
 
-- § 327, § 327a, § 327e, § 327f BGB für digitale Produkte und die Abgrenzung zu Waren mit digitalen Elementen.
-- § 434 BGB: subjektive Anforderungen, objektive Anforderungen, Montage-/Installationsanforderungen; Beschaffenheit umfasst Funktionalität, Kompatibilität und Interoperabilität.
-- § 475b BGB: Sachmangel einer Ware mit digitalen Elementen einschließlich Aktualisierungspflichten.
-- § 475c BGB: dauerhafte Bereitstellung digitaler Elemente, mindestens zwei Jahre Haftungszeitraum für digitale Elemente.
-- § 475e BGB: Sonderverjährung bei dauerhafter Bereitstellung, Aktualisierungspflicht, Mangelanzeige und Übergabe zur Nacherfüllung.
-- § 476 BGB: Abweichung von objektiven Anforderungen nur mit eigener Information und ausdrücklicher gesonderter Vereinbarung.
-- § 477 BGB: Beweislastvermutung, bei dauerhafter Bereitstellung digitaler Elemente besonders prüfen.
-- Richtlinie (EU) 2024/1799 zum Recht auf Reparatur: Stand Juni 2026 als EU-Richtlinie mit Umsetzungsprüfung behandeln; nicht als bereits vollständig deutsches BGB-Recht behaupten, wenn das Umsetzungsgesetz nicht geprüft ist.
+- Welche digitalen Elemente sind in der Ware enthalten (Firmware, App, eingebettete Software)?
+- Sind die digitalen Elemente für die Hauptfunktion notwendig oder optional?
+- Welche Updatepflichten hat der Verkäufer/Hersteller übernommen?
+- Gelten gleichzeitig Regeln aus § 327 BGB für den digitalen Teil?
+- Wie ist das Verhältnis von Kaufrecht und digitalem Produktrecht?
 
-## Arbeitsprogramm
+## Prüfraster
 
-1. **Vertragstyp trennen.** Kauf einer Ware mit digitalen Elementen (§ 475b/§ 475c) ist nicht dasselbe wie reiner Digitalvertrag (§§ 327 ff.). § 327a Abs. 3 ist der Router.
-2. **Mangelzeitpunkt und Zeitraum klären.** Bei Hardware regelmäßig Gefahrübergang; bei Updatepflicht und dauerhaften digitalen Elementen den Zeitraum der Bereitstellung/Erwartbarkeit prüfen.
-3. **Updatepflicht konkretisieren.** Welche Updates waren vereinbart, welche waren objektiv für Vertragsmäßigkeit/Sicherheit nötig, wer hat informiert, was hat der Verbraucher installiert oder nicht installiert?
-4. **Reparaturrecht mitdenken.** Nacherfüllung kann Reparatur oder Ersatzlieferung sein; Right-to-Repair künftig zusätzlich mit Hersteller-/Repairer-Informationspflichten, Reparaturformular, Plattform und Verbot sachwidriger Reparaturhindernisse prüfen.
-5. **Beweise bauen.** Screenshots App, Update-Logs, Händlerchat, öffentliche Werbung, Reparaturprotokoll, Diagnosedaten, Seriennummer, Firmwarestand, Konto-/Cloud-Abhängigkeit.
-6. **Output liefern.** Immer mit Kurzampel, Anspruchsgrundlagen, Fristen, Beweislast, nächstem Schreiben und Anschluss-Skills.
+1. Einordnung: Ware mit digitalen Elementen nach § 475b BGB oder reines digitales Produkt nach § 327 BGB?
+2. Mangelfreiheit der physischen Ware und der digitalen Elemente gleichzeitig prüfen
+3. Anforderungen an digitale Elemente: § 434 BGB plus spezifische digitale Anforderungen
+4. Updatepflichten nach § 475b Abs. 3 BGB: Zeitraum, Umfang, Sicherheitsupdates
+5. Integration der digitalen Elemente: dauerhaft integriert oder separat bereitgestellt?
+6. Rechtsverhältnis Käufer-Anbieter der digitalen Elemente (Drittanbieter)?
+7. Verbraucherschutz: § 476 BGB gilt auch für digitale Elemente der Ware
+8. Verjährung und Beweislast beim gemischten Produkt
 
-## Quellenhygiene
+## Fallstricke
 
-Normen live über gesetze-im-internet.de prüfen. EU-Rechtsstand live über EUR-Lex oder Kommissionsseite prüfen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei überprüfbarer Quelle.
+- Für digitale Elemente können gleichzeitig Kaufrecht und §§ 327 ff. BGB gelten; Abgrenzung ist komplex.
+- Drittanbieter-Dienste, die mit der Ware verbunden sind, können eigene Mängelansprüche begründen.
+- Updatepflicht kann über den Gewährleistungszeitraum hinausgehen.
+- Fehlende Integration der digitalen Elemente kann allein Sachmangel begründen.
+## Stoppschilder
+
+- Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
+- Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
+- Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
+
+## Output
+
+- Produkt-Einordnung (Ware mit/ohne digitale Elemente, reines Digitalprodukt)
+- Mangelfreiheits-Analyse (physisch und digital)
+- Update-Pflichten-Matrix
+- Risikoampel für Vertragsgestaltung
+
+## Qualitätsregeln
+
+- § 475b BGB und §§ 327 ff. BGB immer auf ihr Verhältnis zueinander prüfen.
+- Digitale Hauptfunktion und analoge Hauptfunktion der Ware getrennt prüfen.
+- DSM-Richtlinienrecht auf aktuelle Auslegung prüfen.
 
 ## Anschluss-Skills
 
-Nach der Erstprüfung je nach Schwerpunkt `kaufrecht-sachmangel-paragraph-434`, `kaufrecht-nacherfuellung-ruecktritt-minderung`, `kaufrecht-schadensersatz-aufwendungsersatz`, `verbrauchsgueterkauf-digitales`, `schnittstelle-bgb-at-methodenlehre-agb` oder `produzentenhaftung-und-verkehrssicherung` ziehen.
+- kaufrecht-updates-sicherheitsupdates-327f-475b
+- kaufrecht-dauerhafte-bereitstellung-digitaler-elemente-475c
+- verbrauchsgueterkauf-digitales
+- workflow-livequellen-rechtsstand
+
+
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__475b.html
+- https://www.gesetze-im-internet.de/bgb/__327.html
+- https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0771
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

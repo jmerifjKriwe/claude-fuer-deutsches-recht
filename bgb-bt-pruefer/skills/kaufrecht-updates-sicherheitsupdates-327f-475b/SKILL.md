@@ -1,47 +1,83 @@
 ---
 name: kaufrecht-updates-sicherheitsupdates-327f-475b
-description: "Prüft Aktualisierungspflichten bei digitalen Produkten und Waren mit digitalen Elementen, einschließlich Sicherheitsupdates, Informationspflichten, Installationsfehlern und Folgen unterlassener Updates."
+description: "Prüft Update- und Sicherheitsupdatepflichten §§ 327f und 475b BGB bei digitalen Produkten und Ware mit digitalen Elementen."
 ---
+# Kaufrecht: Updates und Sicherheitsupdates §§ 327f und 475b BGB
 
-# Kaufrecht: Updates und Sicherheitsupdates
+## Zweck
 
-## Aufgabe
+Updatepflichten und Sicherheitsupdateverpflichtungen bei digitalen Produkten (§ 327f BGB) und Ware mit digitalen Elementen (§ 475b BGB) prüfen.
 
-Schwerpunkt: Updatepflicht. Prüfe § 327f und § 475b Abs. 3/4 BGB, Update-Information, Installationsanleitung, Sicherheitslücke, Verbraucherunterlassung und alleinige Kausalität des fehlenden Updates.
+## Normanker
 
-## Sofort klären
+- § 327f BGB: Updatepflicht bei Verträgen über digitale Produkte
+- § 475b Abs. 3 Nr. 2 BGB: Updatepflicht bei Ware mit digitalen Elementen
+- § 327e Abs. 3 Nr. 2 BGB: Aktualisierung und Sicherheitsupdates
+- § 434 Abs. 3 Nr. 3 BGB: Updatepflicht als Teil der objektiven Anforderungen
+- Richtlinie (EU) 2019/770 und (EU) 2019/771: DSM-Richtlinien als Grundlage
 
-1. Ist der Käufer Verbraucher und der Verkäufer Unternehmer?
-2. Geht es um eine Sache, ein digitales Produkt oder eine Ware mit digitalen Elementen?
-3. Kann die Ware ohne App, Cloud, Firmware, Konto, Schlüssel, Sensorik oder Update ihre Funktion erfüllen?
-4. Welcher Mangel zeigt sich: Hardware, Software, fehlendes Update, Sicherheitslücke, App-Abschaltung, Reparatursperre, fehlende Anleitung oder falsche öffentliche Äußerung?
-5. Wann wurden Ware, digitale Elemente, Updates und Reparaturversuch bereitgestellt?
-6. Welches Arbeitsprodukt wird gebraucht: Anspruchsmatrix, Mandantenbrief, Klageentwurf, Händlerantwort, Beweis- und Fristenplan?
+## Intake
 
-## Rechtsanker
+- Handelt es sich um ein digitales Produkt (Software, digitale Inhalte) oder Ware mit digitalen Elementen?
+- Welche Updatepflichten hat der Anbieter/Verkäufer übernommen?
+- Wurden Sicherheitsupdates rechtzeitig und vollständig bereitgestellt?
+- Hat der Nutzer das Update abgelehnt und welche Folgen hat das?
+- Wurde die Updatepflicht vertraglich abgebedungen und ist das zulässig?
 
-- § 327, § 327a, § 327e, § 327f BGB für digitale Produkte und die Abgrenzung zu Waren mit digitalen Elementen.
-- § 434 BGB: subjektive Anforderungen, objektive Anforderungen, Montage-/Installationsanforderungen; Beschaffenheit umfasst Funktionalität, Kompatibilität und Interoperabilität.
-- § 475b BGB: Sachmangel einer Ware mit digitalen Elementen einschließlich Aktualisierungspflichten.
-- § 475c BGB: dauerhafte Bereitstellung digitaler Elemente, mindestens zwei Jahre Haftungszeitraum für digitale Elemente.
-- § 475e BGB: Sonderverjährung bei dauerhafter Bereitstellung, Aktualisierungspflicht, Mangelanzeige und Übergabe zur Nacherfüllung.
-- § 476 BGB: Abweichung von objektiven Anforderungen nur mit eigener Information und ausdrücklicher gesonderter Vereinbarung.
-- § 477 BGB: Beweislastvermutung, bei dauerhafter Bereitstellung digitaler Elemente besonders prüfen.
-- Richtlinie (EU) 2024/1799 zum Recht auf Reparatur: Stand Juni 2026 als EU-Richtlinie mit Umsetzungsprüfung behandeln; nicht als bereits vollständig deutsches BGB-Recht behaupten, wenn das Umsetzungsgesetz nicht geprüft ist.
+## Prüfraster
 
-## Arbeitsprogramm
+1. Produkttyp: digitales Produkt nach § 327 BGB oder Ware mit digitalen Elementen nach § 475b BGB?
+2. Updatepflichten: welche Updates muss der Anbieter bereitstellen und für wie lange?
+3. Sicherheitsupdates: spezifische Pflicht aus § 327f BGB und § 434 Abs. 3 Nr. 3 BGB
+4. Zeitraum der Updatepflicht: vereinbarter oder normativ bestimmter Zeitraum
+5. Bereitstellung: wie und wann müssen Updates bereitgestellt werden?
+6. Ablehnung des Updates durch Nutzer: Haftungsfolgen nach § 327g Abs. 3 und § 475c Abs. 3 BGB
+7. Vertragliche Abbedingung: nur unter engen Voraussetzungen beim Verbrauchsgüterkauf zulässig
+8. Mängelrechte bei Updatepflicht-Verletzung
 
-1. **Vertragstyp trennen.** Kauf einer Ware mit digitalen Elementen (§ 475b/§ 475c) ist nicht dasselbe wie reiner Digitalvertrag (§§ 327 ff.). § 327a Abs. 3 ist der Router.
-2. **Mangelzeitpunkt und Zeitraum klären.** Bei Hardware regelmäßig Gefahrübergang; bei Updatepflicht und dauerhaften digitalen Elementen den Zeitraum der Bereitstellung/Erwartbarkeit prüfen.
-3. **Updatepflicht konkretisieren.** Welche Updates waren vereinbart, welche waren objektiv für Vertragsmäßigkeit/Sicherheit nötig, wer hat informiert, was hat der Verbraucher installiert oder nicht installiert?
-4. **Reparaturrecht mitdenken.** Nacherfüllung kann Reparatur oder Ersatzlieferung sein; Right-to-Repair künftig zusätzlich mit Hersteller-/Repairer-Informationspflichten, Reparaturformular, Plattform und Verbot sachwidriger Reparaturhindernisse prüfen.
-5. **Beweise bauen.** Screenshots App, Update-Logs, Händlerchat, öffentliche Werbung, Reparaturprotokoll, Diagnosedaten, Seriennummer, Firmwarestand, Konto-/Cloud-Abhängigkeit.
-6. **Output liefern.** Immer mit Kurzampel, Anspruchsgrundlagen, Fristen, Beweislast, nächstem Schreiben und Anschluss-Skills.
+## Fallstricke
 
-## Quellenhygiene
+- Sicherheitsupdatepflicht besteht unabhängig von Funktionsupdates und kann länger dauern.
+- Keine separate Vergütung für Pflicht-Sicherheitsupdates gegenüber Verbrauchern zulässig.
+- Nutzeraufforderung zum Update ist Pflicht; Ablehnung durch Nutzer befreit nur bei ordnungsgemäßer Information.
+- DSM-Richtlinie wurde erst 2022 vollständig umgesetzt; altes Recht nur auf Altverträge anwenden.
+## Stoppschilder
 
-Normen live über gesetze-im-internet.de prüfen. EU-Rechtsstand live über EUR-Lex oder Kommissionsseite prüfen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei überprüfbarer Quelle.
+- Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
+- Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
+- Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
+
+## Output
+
+- Update-Pflichten-Matrix (Sicherheits- und Funktionsupdates)
+- Zeitraum-Analyse
+- Mängelrechte bei Update-Pflichtverletzung
+- Vertragsgestaltungsempfehlungen
+
+## Qualitätsregeln
+
+- DSM-Richtlinien-Umsetzungsstand live prüfen.
+- Sicherheits- und Funktionsupdates immer getrennt behandeln.
+- Verbraucher-Abbedingungs-Verbote immer mitprüfen.
 
 ## Anschluss-Skills
 
-Nach der Erstprüfung je nach Schwerpunkt `kaufrecht-sachmangel-paragraph-434`, `kaufrecht-nacherfuellung-ruecktritt-minderung`, `kaufrecht-schadensersatz-aufwendungsersatz`, `verbrauchsgueterkauf-digitales`, `schnittstelle-bgb-at-methodenlehre-agb` oder `produzentenhaftung-und-verkehrssicherung` ziehen.
+- kaufrecht-dauerhafte-bereitstellung-digitaler-elemente-475c
+- kaufrecht-ware-mit-digitalen-elementen-475b
+- verbrauchsgueterkauf-digitales
+- workflow-livequellen-rechtsstand
+
+
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__327f.html
+- https://www.gesetze-im-internet.de/bgb/__475b.html
+- https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0771
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

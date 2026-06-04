@@ -1,24 +1,47 @@
 ---
 name: bereicherungsrecht-entreicherung-und-saldotheorie
-description: "Prüft Wertersatz, Entreicherung, verschärfte Haftung, Saldotheorie und Minderjährigenschutz."
+description: "Prüft Entreicherung § 818 Abs. 3 BGB, Bösgläubigkeit, Saldotheorie und Zweikondiktionenlehre."
 ---
-# Entreicherung, Saldotheorie, § 818 BGB
+# Bereicherungsrecht: Entreicherung und Saldotheorie
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Verteidigungsrechte des Bereicherten und die Abwicklung gegenseitiger Leistungen nach §§ 818 und 819 BGB prüfen; Saldotheorie und Zweikondiktionenlehre methodisch sauber einsetzen.
 
-## Arbeitsweise
+## Normanker
 
-Baue Rückabwicklungstabelle.
+- § 818 Abs. 1–4 BGB: Umfang des Bereicherungsanspruchs
+- § 818 Abs. 3 BGB: Wegfall der Bereicherung (Entreicherung)
+- § 819 BGB: verschärfte Haftung bei Bösgläubigkeit
+- § 820 BGB: Leistung auf unsicheren Rechtsgrund
+- §§ 346 ff. BGB: Rücktrittsfolgen (bei Abgrenzung zur Saldotheorie)
+- BGH-Rechtsprechung zur Saldo- und Zweikondiktionenlehre: nur nach Live-Prüfung zitieren
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Was hat der Bereicherte tatsächlich erlangt und was davon noch bei ihm vorhanden?
+- Hat er Aufwendungen im Vertrauen auf den Bestand des Erlangten gemacht?
+- Wann und wie erlangte er Bösgläubigkeit im Sinne des § 819 BGB?
+- Liegt ein gegenseitiger Vertrag vor, der nach Rücktritt oder Nichtigkeit rückabgewickelt wird?
+- Soll die Saldotheorie oder die Zweikondiktionenlehre angewandt werden?
 
+## Prüfraster
+
+1. Entreicherungseinwand nach § 818 Abs. 3 BGB: Was ist noch vorhanden?
+2. Entreicherung durch Verbrauch, Verlust, Weitergabe oder vergebliche Aufwendungen?
+3. Bösgläubigkeit nach § 819 BGB: Zeitpunkt und Umfang der Kenntniserlangung
+4. Verschärfte Haftung nach § 819 Abs. 1 BGB: Pflicht zur Herausgabe wie Besitzer nach § 292 BGB
+5. Saldotheorie bei gescheiterten gegenseitigen Verträgen: Saldierung der gegenseitigen Leistungspflichten
+6. Zweikondiktionenlehre: beide Seiten haben eigenständige Kondiktionsansprüche
+7. Anwendungsbereich abgrenzen: Saldotheorie nur bei nichtigen Verträgen, nicht bei § 817 Satz 2 BGB
+8. Verjährung nach §§ 195 und 199 BGB
+
+## Fallstricke
+
+- Entreicherungseinwand scheidet aus, wenn der Bereicherte bösgläubig war (§ 819 BGB).
+- Die Saldotheorie schützt den Entreicherten, kann aber zur vollständigen Haftung bei Unmöglichkeit führen.
+- Bei § 817 Satz 2 BGB (sittenwidrige Leistung) greift die Saldotheorie nach h.M. nicht.
+- Keine der Theorien ohne Prüfung der konkreten Fallkonstellation pauschal anwenden.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +51,30 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Entreicherungsmatrix mit Belegen
+- Saldotheorie-Rechenweg oder Zweikondiktionenlehre-Prüfung
+- Bösgläubigkeitszeitlinie
+- Risikoampel und Lückenliste
+
+## Qualitätsregeln
+
+- Entreicherung und Bösgläubigkeit immer zeitlich verankern.
+- Saldotheorie und Zweikondiktionenlehre nicht mischen; Wahl begründen.
+- Keine BGH-Formeln ohne Live-Verifikation übernehmen.
+
+## Anschluss-Skills
+
+- bereicherungsrecht-leistungskondiktion
+- bereicherungsrecht-nichtleistungskondiktion
+- schadensrecht-paragraphen-249-253
+- workflow-beweislast-und-belegmatrix
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__818.html
+- https://www.gesetze-im-internet.de/bgb/__817.html
+- https://www.gesetze-im-internet.de/bgb/__816.html
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

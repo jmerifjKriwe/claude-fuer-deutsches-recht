@@ -1,24 +1,53 @@
 ---
 name: bauvertrag-und-verbraucherbauvertrag
-description: "Prüft Bauvertrag, Verbraucherbauvertrag, Änderungsanordnung, Vergütungsanpassung, Baubeschreibung und Widerruf."
+description: "Prüft Bauvertrag §§ 650a ff. BGB, Verbraucherbauvertrag, Abnahme, Mängel und Vergütung."
 ---
 # Bauvertrag und Verbraucherbauvertrag
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Bauvertragsrecht nach §§ 650a–650v BGB und VOB/B-Parallelrecht prüfen: Leistungspflichten, Abnahme, Mängelrechte, Vergütungsanpassung und Sonderkündigungsrecht.
 
-## Arbeitsweise
+## Normanker
 
-Route große Bausachen zum Fachanwalt-Bau-Plugin, aber liefere BGB-BT-Grundprüfung.
+- §§ 650a–650v BGB: Bauvertrag, Verbraucherbauvertrag, Architekten- und Ingenieurvertrag
+- §§ 631–650 BGB: allgemeines Werkvertragsrecht als Basis
+- § 640 BGB: Abnahme und Abnahmepflicht
+- § 641 BGB: Fälligkeit der Vergütung
+- § 650b BGB: Anordnungsrecht des Bestellers
+- § 650c BGB: Vergütungsanpassung bei Anordnungen
+- § 650e BGB: Sicherungshypothek des Unternehmers
+- § 650f BGB: Bauhandwerkersicherheit
+- §§ 650i–650n BGB: Verbraucherbauvertrag (Informationspflichten, Widerrufsrecht)
+- VOB/B als ergänzendes Regelwerk (nur wenn vereinbart)
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Handelt es sich um einen einfachen Bauvertrag oder einen Verbraucherbauvertrag?
+- Ist die VOB/B wirksam in den Vertrag einbezogen worden?
+- Welche Leistungspflichten wurden vereinbart und welche Abweichungen sind eingetreten?
+- Wurde die Abnahme erklärt oder verweigert; liegen Mängel vor?
+- Gibt es Anordnungen des Bestellers nach § 650b BGB und wie wurde die Vergütung angepasst?
+- Welche Sicherheiten wurden gestellt oder gefordert?
+- Bestehen Kündigungsrechte nach § 648 oder § 648a BGB?
 
+## Prüfraster
+
+1. Vertragstyp: Bauvertrag (§ 650a BGB), Verbraucherbauvertrag (§ 650i BGB) oder allgemeiner Werkvertrag?
+2. VOB/B-Einbeziehung und AGB-Wirksamkeit nach §§ 305 ff. BGB prüfen
+3. Abnahme: ordnungsgemäße Erklärung, fiktive Abnahme, verweigerte Abnahme mit Mängelrüge
+4. Mängel: Sachmangel nach § 633 BGB, Nacherfüllungspflicht, Fristsetzung
+5. Vergütungsanpassung bei Anordnungen nach § 650c BGB
+6. Sicherungshypothek (§ 650e BGB) und Bauhandwerkersicherheit (§ 650f BGB) prüfen
+7. Kündigung: freie Kündigung (§ 648 BGB), außerordentliche Kündigung (§ 648a BGB)
+8. Verjährung der Mängelrechte: § 634a BGB (5 Jahre bei Bauwerken)
+
+## Fallstricke
+
+- Beim Verbraucherbauvertrag gelten strenge Informationspflichten und ein Widerrufsrecht nach § 650l BGB.
+- Die fiktive Abnahme setzt eine ordnungsgemäße Fristsetzung voraus.
+- Vergütungsanpassung nach § 650c BGB muss rechtzeitig geltend gemacht werden.
+- VOB/B-Klauseln können gegenüber Verbrauchern als AGB unwirksam sein.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,12 +57,23 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Vertragstyp-Einordnung mit Risikoampel
+- Abnahme- und Mängelrechtsprüfung
+- Vergütungsmatrix mit Anordnungsfolgen
+- Kündigungsfolgenabschätzung und Lückenliste
 
+## Qualitätsregeln
+
+- Abnahme immer als Zäsur für Gewährleistungsfrist und Beweislastumkehr markieren.
+- Bei Verbraucherbauvertrag Informationspflichten und Widerrufsrecht gesondert prüfen.
+- VOB/B nur anwenden, wenn wirksam einbezogen.
+
+## Anschluss-Skills
+
+- werkvertrag-grundschema-paragraph-631
+- werkvertrag-abnahme-und-faelligkeit
+- werkvertrag-maengelrechte
+- workflow-fristen-ruecktritt-kuendigung
 
 ## Qualitäts-Hardening
 

@@ -1,24 +1,48 @@
 ---
 name: schnittstelle-bgb-at-methodenlehre-agb
-description: "Erkennt, wann BGB-BT-Probleme eigentlich Form, Anfechtung, Stellvertretung, AGB, Auslegung oder Methodenfragen sind."
+description: "Schnittstelle BGB-AT, Methodenlehre und AGB-Recht §§ 305-310 BGB: Einbeziehung, Inhaltskontrolle, Transparenz."
 ---
-# Schnittstelle BGB AT, Methodenlehre, AGB
+# Schnittstelle BGB-AT, Methodenlehre und AGB §§ 305-310 BGB
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+AGB-Recht nach §§ 305-310 BGB mit BGB-AT-Methodenlehre verknüpfen: Einbeziehungskontrolle, Auslegung (§ 305c Abs. 2 BGB), Inhaltskontrolle und Rechtsfolgen bei Unwirksamkeit.
 
-## Arbeitsweise
+## Normanker
 
-Route zu den passenden Plugins und halte den Anspruchsbaum sauber.
+- §§ 305 ff. BGB: Allgemeine Geschäftsbedingungen
+- § 305 BGB: AGB-Begriff (vorformuliert, für Vielzahl von Verträgen, gestellt)
+- § 305c BGB: Überraschende und mehrdeutige Klauseln
+- § 307 BGB: Inhaltskontrolle, unangemessene Benachteiligung
+- § 308 BGB: Klauselverbote mit Wertungsmöglichkeit
+- § 309 BGB: Klauselverbote ohne Wertungsmöglichkeit
+- § 310 BGB: Anwendungsbereich (B2B vs. B2C)
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Liegt eine AGB-Situation vor (vorformuliert, für viele Verträge, eine Seite hat gestellt)?
+- In welchem Vertragstyp kommen die AGB vor (Kauf, Miete, Werkvertrag, Dienstleistung)?
+- Welche konkrete Klausel ist problematisch?
+- B2B oder B2C (unterschiedliche Kontrolldichte)?
+- Wurde die AGB wirksam einbezogen (Hinweis, Möglichkeit zur Kenntnisnahme, Einverständnis)?
 
+## Prüfraster
+
+1. AGB-Tatbestand nach § 305 BGB: vorformuliert, für Vielzahl von Verträgen bestimmt, von einer Partei gestellt
+2. Einbeziehungskontrolle: ausdrücklicher Hinweis, Möglichkeit der Kenntnisnahme, Einverständnis (§ 305 Abs. 2 BGB)
+3. Überraschende Klauseln nach § 305c Abs. 1 BGB: nicht Vertragsinhalt geworden
+4. Auslegung nach § 305c Abs. 2 BGB: Unklarheiten gehen zu Lasten des Verwenders
+5. Inhaltskontrolle nach § 307 BGB: wesentliche Grundgedanken des dispositiven Rechts; Generalklausel
+6. Klauselverbote nach §§ 308 und 309 BGB: Liste typischer unwirksamer Klauseln
+7. B2B vs. B2C: § 310 Abs. 1 BGB schränkt Anwendungsbereich für kaufmännische Verträge ein
+8. Rechtsfolge der Unwirksamkeit: § 306 BGB (Vertrag im Übrigen wirksam; gesetzliche Regelung tritt ein)
+
+## Fallstricke
+
+- Individuelle Vereinbarung ist keine AGB; auch wenn vorformuliert und für ein Massengeschäft bestimmt.
+- § 307 BGB gilt auch im B2B-Bereich; Kontrolldichte ist aber geringer als gegenüber Verbrauchern.
+- Transparenzgebot des § 307 Abs. 1 S. 2 BGB: Klausel muss verständlich und klar sein.
+- Kumulation von Klauseln: einzelne wirksame Klauseln können zusammen unwirksam sein.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +52,30 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- AGB-Klausel-Prüfprotokoll (Einbeziehung, Überraschungsklausel, Inhaltskontrolle)
+- Wirksamkeitsmatrix nach §§ 307-309 BGB
+- B2B/B2C-Unterscheidungsübersicht
+- Vertragsgestaltungsempfehlungen
+
+## Qualitätsregeln
+
+- AGB-Tatbestand und individuelle Vereinbarung immer als erste Weiche prüfen.
+- Rechtsfolge des § 306 BGB (gesetzliche Ersatzregelung) bei unwirksamen Klauseln stets mitdenken.
+- B2B-Situation schließt AGB-Kontrolle nicht aus.
+
+## Anschluss-Skills
+
+- bt-vertragsentwurf-modellvertrag
+- kaufvertrag-grundschema-paragraph-433
+- mietvertrag-grundschema-paragraph-535
+- werkvertrag-grundschema-paragraph-631
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__305.html
+- https://www.gesetze-im-internet.de/bgb/__307.html
+- https://www.gesetze-im-internet.de/bgb/__309.html
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

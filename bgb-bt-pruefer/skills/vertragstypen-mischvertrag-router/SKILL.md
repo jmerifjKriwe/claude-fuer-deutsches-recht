@@ -1,29 +1,80 @@
 ---
 name: vertragstypen-mischvertrag-router
-description: "Ordnet Kauf, Werk, Dienst, Auftrag, Geschaeftsbesorgung, Leasing, Mietkauf und typengemischte Vertraege nach Schwerpunkt, Normzweck und Rechtsfolge."
+description: "Vertragstypen-Router: Mischvertrag, gemischter Vertrag, Abgrenzung und Normauswahl im BGB BT."
 ---
+# Vertragstypen und Mischvertrag Router
 
-# Mischvertrag und Vertragstypen-Router
+## Zweck
 
+Vertragstypen im BGB BT einordnen und bei Misch- oder atypischen Verträgen die anwendbaren Normen bestimmen: Absorptionstheorie, Kombinationstheorie und Typenzwang-Fragen.
 
-## Ziel
+## Normanker
 
-Dieser Skill führt nicht schematisch durch Mischvertrag und Vertragstypen-Router, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+- §§ 433 ff. BGB: Kaufvertrag
+- §§ 535 ff. BGB: Mietvertrag
+- §§ 611 ff. BGB: Dienstvertrag
+- §§ 631 ff. BGB: Werkvertrag
+- § 651a ff. BGB: Reisevertrag
+- §§ 662 ff. BGB: Auftrag
+- § 675 BGB: Geschäftsbesorgung
+- Amtliches BGB: https://www.gesetze-im-internet.de/bgb/
 
-## Arbeitsprogramm
+## Intake
 
-- Leistungskern, Erfolgsbezug, Eigentumsverschaffung, Gebrauchsüberlassung und Geschäftsbesorgung trennen.
-- Pro Vertragsteil eigene Pflicht, Störung und Rechtsfolge anlegen.
-- AGB-, Verbraucher- und Formfragen als Querschnitt markieren.
+- Welche Leistungen schuldet die Partei (Übereignung, Gebrauchsüberlassung, Erfolg, Tätigkeit, Vermittlung)?
+- Liegt ein reiner Vertragstyp vor oder mehrere Elemente in einem Vertrag?
+- Welches Vertragsrecht soll für Mängelrechte, Kündigung oder Haftung gelten?
+- Gibt es einen Schwerpunkt der vertraglichen Pflichten?
+- Sind spezielle Formvorschriften zu beachten?
 
-## Red-Team-Fragen
+## Prüfraster
 
-- Welche Anspruchsgrundlage oder Norm ist verführerisch, aber falsch?
-- Welche Tatsache wird im Sachverhalt nur behauptet, aber nicht belegt?
-- Welche Rechtsfolge passt nicht zur gewählten Norm?
-- Wo droht eine falsche Reihenfolge: erst BGB AT, dann BT, erst Vertrag, dann Delikt, erst Primäranspruch, dann Sekundäranspruch?
+1. Vertragsinhalt analysieren: Was sind die Hauptleistungspflichten beider Seiten?
+2. Typenkatalogs-Prüfung: Welche gesetzlichen Vertragstypen passen (Kauf, Miete, Werk, Dienst, Auftrag)?
+3. Rein typischer Vertrag oder Mischvertrag?
+4. Bei Mischverträgen: Absorptionstheorie (überwiegt ein Typ?) oder Kombinationstheorie (je nach Pflicht)?
+5. Werk-Dienst-Abgrenzung: Erfolgsschuldnerschaft (Werk) vs. Tätigkeitsschuldnerschaft (Dienst)
+6. Kauf-Werk-Abgrenzung: bereits fertige Sache (Kauf) vs. erst herzustellende Sache (Werklieferung § 650 BGB)
+7. Miet-Pacht-Abgrenzung: Fruchtziehung (Pacht) vs. bloße Gebrauchsüberlassung (Miete)
+8. Atypische Verträge (z.B. Franchising, Factoring, Leasing): Analogie oder allgemeines Schuldrecht
 
-## Ausgabe
+## Fallstricke
 
-Erzeuge Gutachten, Memo, Klausurlösung, Red-Team und Rückfragenliste. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+- Falsche Vertragstyp-Einordnung führt zu falschen Mängelrechten, Kündigungsfristen und Haftungsregeln.
+- Bei Werklieferungsvertrag (§ 650 BGB) gilt Kaufrecht, nicht Werkrecht.
+- Franchising, Factoring, Leasing haben kein kodifiziertes Sonderrecht; analogische Anwendung erforderlich.
+- Schwerpunktbestimmung bei Mischverträgen ist Wertungsfrage; Argumentation klar machen.
+## Stoppschilder
 
+- Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
+- Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
+- Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
+
+## Output
+
+- Vertragstyp-Einordnung mit Begründung
+- Anwendbare Normen-Matrix (je nach Pflicht oder Schwerpunkt)
+- Mischvertrag-Behandlungsempfehlung
+- Risikoampel für fehlerhafte Einordnung
+
+## Qualitätsregeln
+
+- Sachverhalt-Schwerpunkt für Absorptionstheorie klar herausarbeiten.
+- § 650 BGB (Werklieferung) immer als Alternative zu § 631 BGB prüfen.
+- Atypische Verträge mit allgemeinem Schuldrecht lösen, wenn kein kodifizierter Typ passt.
+
+## Anschluss-Skills
+
+- werk-dienst-abgrenzung-erfolg
+- kaufvertrag-grundschema-paragraph-433
+- werkvertrag-grundschema-paragraph-631
+- dienstvertrag-und-behandlungsvertrag
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

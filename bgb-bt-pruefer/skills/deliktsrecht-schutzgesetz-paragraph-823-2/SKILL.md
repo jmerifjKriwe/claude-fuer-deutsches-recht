@@ -1,24 +1,46 @@
 ---
 name: deliktsrecht-schutzgesetz-paragraph-823-2
-description: "Prüft Schutzgesetzqualität, persönlicher/sachlicher Schutzbereich, Verstoß, Verschulden und Schaden."
+description: "Prüft Schutzgesetzverletzung § 823 Abs. 2 BGB: Schutzgesetz-Eigenschaft, Tatbestand und Schutzzweck."
 ---
-# Schutzgesetz § 823 Abs. 2 BGB
+# Deliktsrecht: Schutzgesetz § 823 Abs. 2 BGB
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Haftung nach § 823 Abs. 2 BGB bei Verletzung eines Schutzgesetzes prüfen: Schutzgesetz-Eigenschaft, Tatbestandsverwirklichung, Schutzzweck und Schaden.
 
-## Arbeitsweise
+## Normanker
 
-Erzeuge Schutzgesetz-Check mit Normzweck.
+- § 823 Abs. 2 BGB: Haftung bei Verletzung eines Schutzgesetzes
+- § 134 BGB: Nichtigkeit bei Gesetzesverstoß (parallele Frage)
+- StGB-Tatbestände als Schutzgesetze: §§ 242 (Diebstahl), 263 (Betrug), 266 (Untreue) StGB
+- Art. 32 DSGVO als Schutzgesetz (umstritten; Tendenz BGH: ja)
+- Straßenverkehrsgesetz und weitere Sicherheitsgesetze als Schutzgesetze
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Welche gesetzliche Norm soll als Schutzgesetz herangezogen werden?
+- Dient die Norm zumindest auch dem Schutz des individuellen Geschädigten?
+- Hat der Schädiger den Tatbestand der Schutznorm erfüllt?
+- Ist der eingetretene Schaden vom Schutzzweck der Norm erfasst?
+- Liegt Verschulden bezüglich der Schutznormverletzung vor?
 
+## Prüfraster
+
+1. Schutzgesetz-Eigenschaft: Norm muss zumindest auch individuellen Schutz bezwecken
+2. Tatbestand der Schutznorm verwirklicht: vollständige Subsumtion unter die Schutznorm
+3. Verschulden: Vorsatz oder Fahrlässigkeit bezüglich der Schutznormverletzung
+4. Schutzzweckzusammenhang: eingetretener Schaden muss im Schutzbereich der Norm liegen
+5. Kausalität: Schutznormverletzung hat Schaden verursacht
+6. Schaden nach §§ 249 ff. BGB
+7. Mitverschulden nach § 254 BGB
+8. Verjährung: §§ 195 und 199 BGB; strafrechtliche Verjährung getrennt prüfen
+
+## Fallstricke
+
+- Reine Ordnungsvorschriften ohne individuellen Schutzcharakter sind keine Schutzgesetze.
+- Schutzzweckzusammenhang muss für jeden Schadensposten einzeln geprüft werden.
+- DSGVO Art. 32 als Schutzgesetz ist höchstrichterlich noch nicht abschließend geklärt.
+- Tatbestandsverwirklichung der Schutznorm muss vollständig geprüft werden (keine verkürzte Prüfung).
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +50,30 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Schutzgesetz-Analyse (Norm, individueller Schutzcharakter, Tatbestand)
+- Schutzzweckzusammenhang-Prüfung
+- Schadensberechnung
+- Risikoampel
+
+## Qualitätsregeln
+
+- Schutzgesetz-Eigenschaft immer selbst begründen, nicht als selbstverständlich annehmen.
+- Schutzzweckzusammenhang für jeden Schadensposten gesondert prüfen.
+- Bei strafrechtlichen Schutzgesetzen zivilrechtliche und strafrechtliche Verjährung trennen.
+
+## Anschluss-Skills
+
+- deliktsrecht-paragraph-823-1
+- deliktsrecht-paragraph-826-sittenwidrige-schaedigung
+- delikt-verkehrspflicht-digital
+- workflow-anspruchslandkarte
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__823.html
+- https://www.gesetze-im-internet.de/stgb/__263.html
+- https://www.gesetze-im-internet.de/bgb/__249.html
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

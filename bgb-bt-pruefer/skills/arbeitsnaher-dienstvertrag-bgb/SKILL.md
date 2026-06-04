@@ -1,24 +1,49 @@
 ---
 name: arbeitsnaher-dienstvertrag-bgb
-description: "Prüft zivilrechtliche Dienstleistungsverhältnisse mit Arbeitsrechtsnähe, Scheinselbstständigkeit und Vergütungsfragen."
+description: "Prüft zivilrechtliche Dienstleistungsverhältnisse mit Arbeitsrechtsnähe, Scheinselbstständigkeit und Vergütungsfragen nach §§ 611 ff. BGB."
 ---
 # Arbeitsnaher Dienstvertrag im BGB
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Zivilrechtliche Dienstverträge mit Nähe zum Arbeitsrecht systematisch prüfen: Abgrenzung Arbeitsverhältnis/freier Mitarbeiter, Vergütung, Kündigung und Scheinselbstständigkeit.
 
-## Arbeitsweise
+## Normanker
 
-Route bei echtem Arbeitsverhältnis zum Arbeitsrecht, sonst BGB-Dienstvertrag sauber prüfen.
+- §§ 611–630h BGB: Dienstvertrag, Vergütung, Kündigung, Behandlungsvertrag
+- § 611a BGB: Arbeitnehmer-Definition, Weisungsgebundenheit
+- § 612 BGB: Vergütung ohne ausdrückliche Abrede
+- § 621 BGB: Kündigungsfristen bei Dienstverhältnissen
+- §§ 157 und 242 BGB: Auslegung und Treu und Glauben
+- Sozialversicherungsrecht: § 7 SGB IV (Beschäftigung und Scheinselbstständigkeit)
+- BAG-Rechtsprechung zu Arbeitnehmereigenschaft: nur nach Live-Prüfung mit Aktenzeichen zitieren
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Welche Parteien und welche Leistungspflichten sind vereinbart?
+- Liegt ein schriftlicher Vertrag vor; welche Bezeichnung wurde gewählt?
+- Wie ist die tatsächliche Durchführung: Weisungen, Arbeitszeit, Arbeitsort, Eingliederung?
+- Welche Vergütung wurde vereinbart und wie wird abgerechnet?
+- Ist eine Kündigung ausgesprochen oder beabsichtigt; welche Fristen gelten?
+- Gibt es Hinweise auf Scheinselbstständigkeit oder laufende Statusfeststellungsverfahren?
 
+## Prüfraster
+
+1. Vertragstyp bestimmen: Dienst-, Arbeits-, Werk- oder Auftragsverhältnis?
+2. Abgrenzungskriterien nach § 611a BGB prüfen: persönliche Abhängigkeit, Weisungsgebundenheit, Eingliederung
+3. Tatsächliche Durchführung der Leistung mit Vertragslage vergleichen (substance over form)
+4. Vergütungsanspruch nach § 612 BGB prüfen, wenn keine ausdrückliche Vereinbarung besteht
+5. Kündigungsfristen nach § 621 BGB berechnen; bei Arbeitsverhältnis § 622 BGB anwenden
+6. Scheinselbstständigkeit: sozialversicherungsrechtliche Folgen nach § 7 SGB IV berücksichtigen
+7. Haftungsfragen bei fehlerhafter Leistung prüfen: §§ 280 und 241 Abs. 2 BGB
+8. Verjährung der Vergütungsansprüche nach §§ 195 und 199 BGB
+
+## Fallstricke
+
+- Vertragliche Bezeichnung als „freier Mitarbeiter" schützt nicht vor Umqualifizierung durch Gerichte.
+- Faktische Weisungsgebundenheit begründet Arbeitnehmereigenschaft unabhängig vom Vertragstext.
+- Vergütungsansprüche können nach § 612 BGB entstehen, auch wenn kein Betrag vereinbart wurde.
+- Sozialversicherungsrechtliche Nachforderungen können rückwirkend vier Jahre betragen.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,12 +53,24 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Einordnungsmemo (Dienstvertrag/Arbeitsvertrag/Werkvertrag) mit Risikoampel
+- Abgrenzungsmatrix tatsächliche Durchführung vs. Vertragslage
+- Fristenkalender für Kündigung und Verjährung
+- Handlungsempfehlung und Lückenliste
 
+## Qualitätsregeln
+
+- Tatsächliche Durchführung immer über formelle Vertragsbezeichnung stellen.
+- Scheinselbstständigkeitsrisiken frühzeitig aufzeigen.
+- Sozialversicherungsrechtliche und steuerliche Parallelrisiken benennen.
+- Keine BAG-Entscheidung ohne Aktenzeichen und frei prüfbare Quelle verwenden.
+
+## Anschluss-Skills
+
+- dienstvertrag-und-behandlungsvertrag
+- werk-dienst-abgrenzung-erfolg
+- geschaeftsbesorgung-auftrag-mandat
+- workflow-anfangercoach-schuldrecht-bt
 
 ## Qualitäts-Hardening
 

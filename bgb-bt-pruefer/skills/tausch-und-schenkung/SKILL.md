@@ -1,24 +1,48 @@
 ---
 name: tausch-und-schenkung
-description: "Prüft Tausch und Schenkung einschließlich Form, Vollzug, Widerruf, grober Undank und Mängelhaftung."
+description: "Tausch § 480 BGB und Schenkung §§ 516-534 BGB: Unentgeltlichkeit, Form, Widerruf, Notbedarfseinrede."
 ---
-# Tausch und Schenkung
+# Tausch und Schenkung §§ 480 und 516 ff. BGB
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Tauschvertrag nach § 480 BGB und Schenkungsrecht (§§ 516 ff. BGB) prüfen: Unentgeltlichkeit, Schenkungsversprechen (Form), Schenkungsvollzug, Widerruf und Notbedarfseinrede.
 
-## Arbeitsweise
+## Normanker
 
-Trenne entgeltliche, teilentgeltliche und unentgeltliche Elemente.
+- § 480 BGB: Tauschvertrag (Kaufrecht gilt entsprechend)
+- § 516 BGB: Begriff der Schenkung (Zuwendung aus eigenem Vermögen, Unentgeltlichkeit)
+- § 518 BGB: Form des Schenkungsversprechens (notarielle Beurkundung)
+- § 519 BGB: Einrede des Notbedarfs
+- § 528 BGB: Rückforderung wegen Verarmung des Schenkers
+- § 530 BGB: Widerruf der Schenkung wegen groben Undanks
+- § 531 BGB: Widerruf nur durch Erklärung gegenüber dem Beschenkten
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Liegt Tausch (gegenseitig entgeltliche Übertragungen) oder Schenkung (unentgeltliche Zuwendung) vor?
+- Was ist der Gegenstand der Schenkung (bewegliche Sache, Grundstück, Geldbetrag)?
+- Wurde ein Schenkungsversprechen notariell beurkundet oder ist die Schenkung bereits vollzogen?
+- Wird Widerruf wegen groben Undanks oder Rückforderung wegen Verarmung geltend gemacht?
+- Besteht eine Auflage (§ 525 BGB)?
 
+## Prüfraster
+
+1. Abgrenzung Schenkung (unentgeltlich) und Tausch (beiderseitig entgeltlich) sowie gemischte Schenkung
+2. Tausch nach § 480 BGB: Kaufrecht anwendbar; Austausch von Sachen statt Sache gegen Geld
+3. Schenkungsbegriff: Zuwendung aus eigenem Vermögen (§ 516 BGB), Unentgeltlichkeit, Einigung
+4. Form des Schenkungsversprechens: notarielle Beurkundung nach § 518 BGB; Heilung durch Vollzug
+5. Schenkung unter Auflage (§ 525 BGB): Auflage ist keine Gegenleistung aber Nebenleistungspflicht
+6. Notbedarfseinrede (§ 519 BGB): Schenker kann Erfüllung verweigern, solange er selbst bedürftig ist
+7. Rückforderungsrecht bei Verarmung (§ 528 BGB): fünf Jahre nach Vollzug, nur noch vorhandene Bereicherung
+8. Widerruf bei grobem Undank (§ 530 BGB): schwerwiegende Verfehlung gegen Schenker oder nahe Angehörige
+
+## Fallstricke
+
+- Vollzug der Schenkung heilt Formmangel des Schenkungsversprechens (§ 518 Abs. 2 BGB).
+- Gemischte Schenkung (teils entgeltlich, teils unentgeltlich): komplexe Rechtsfolgen.
+- Widerruf nach § 530 BGB setzt schwerwiegende Verfehlung voraus; bloße Undankbarkeit reicht nicht.
+- Rückforderung nach § 528 BGB: Beschenkter muss nur noch vorhandene Bereicherung herausgeben.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +52,29 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Einordnungsmatrix (Schenkung, Tausch, gemischte Schenkung)
+- Formprüfung (Versprechen vs. Vollzug)
+- Rückforderungs- und Widerrufsrechte-Übersicht
+- Handlungsempfehlung
+
+## Qualitätsregeln
+
+- Unentgeltlichkeit als Kernmerkmal der Schenkung sorgfältig prüfen; auch wirtschaftliche Betrachtung.
+- Formheilung durch Vollzug (§ 518 Abs. 2 BGB) immer prüfen, bevor Formmangel bejaht wird.
+- Grobem Undank hohe Anforderungen anlegen.
+
+## Anschluss-Skills
+
+- kaufvertrag-grundschema-paragraph-433
+- bereicherungsrecht-leistungskondiktion
+- vertragstypen-mischvertrag-router
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__516.html
+- https://www.gesetze-im-internet.de/bgb/__518.html
+- https://www.gesetze-im-internet.de/bgb/__530.html
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

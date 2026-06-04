@@ -1,24 +1,45 @@
 ---
 name: kaufrecht-rechtsmangel-paragraph-435
-description: "Prüft Rechtsmängel: Eigentum, Belastungen, Rechte Dritter, IP-Rechte, öffentlich-rechtliche Beschränkungen und Registerlagen."
+description: "Prüft Rechtsmangel § 435 BGB: Rechte Dritter, beschränkt dingliche Rechte, öffentlich-rechtliche Lasten und Rechtsfolgen."
 ---
-# Rechtsmangel § 435 BGB
+# Kaufrecht: Rechtsmangel § 435 BGB
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Rechtsmängel nach § 435 BGB prüfen: Rechte Dritter, Belastungen und öffentlich-rechtliche Lasten, die den Käufer beeinträchtigen; Rechtsfolgen und Abgrenzung zum Sachmangel.
 
-## Arbeitsweise
+## Normanker
 
-Trenne Rechtsmangel, Sachmangel, Gefahrübergang und Nacherfüllung.
+- § 435 BGB: Rechtsmangel (Rechte Dritter und öffentlich-rechtliche Lasten)
+- § 437 BGB: Käuferrechte (gelten auch bei Rechtsmangel)
+- §§ 986 ff. BGB: Einreden des Besitzers (Besitzrecht Dritter)
+- GBO: Grundbucheintragungen als Indiz für Rechtsmängel (bei Grundstückskäufen)
+- § 311b BGB: Beurkundungspflicht beim Grundstückskauf
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Haben Dritte Rechte an der verkauften Sache, die den Käufer beeinträchtigen (Pfandrecht, Nießbrauch, Miete)?
+- Bestehen öffentlich-rechtliche Lasten (Erschließungsbeiträge, Denkmalschutz, Baulasten)?
+- Wurde der Käufer über die Rechte Dritter informiert?
+- Welche Käuferrechte sollen geltend gemacht werden?
 
+## Prüfraster
+
+1. Rechtsmangel-Einordnung nach § 435 BGB: Recht eines Dritten oder sonstige Last
+2. Sachmangel vs. Rechtsmangel: klare Abgrenzung (Sachmangel betrifft Beschaffenheit, Rechtsmangel betrifft Rechtsstellung)
+3. Beeinträchtigung des Käufers: muss der Käufer das Recht des Dritten dulden?
+4. Öffentlich-rechtliche Lasten: Benutzungseinschränkungen, Erschließungsbeiträge
+5. Käuferrechte nach § 437 BGB: Nacherfüllung (Beseitigung des Rechtsmangels), Rücktritt, Minderung, Schadensersatz
+6. Fristsetzung zur Beseitigung des Rechtsmangels
+7. Kenntnis des Käufers nach § 442 BGB: bekannte Rechtsmängel können Ansprüche ausschließen
+8. Verjährung nach § 438 BGB
+
+## Fallstricke
+
+- Öffentlich-rechtliche Lasten können Rechtsmangel sein, auch wenn keine privaten Rechte Dritter bestehen.
+- Mieter hat aus Kaufvertrag kein Klagerecht gegen Käufer (kein Vertragsverhältnis), aber es kann Vollstreckungsschutz für Mieter bestehen.
+- Kauf bricht nicht Miete nach § 566 BGB: Mieter bleibt berechtigt trotz Eigentümerwechsel.
+- Aufgedeckte Rechtsmängel müssen zeitnah gerügt werden.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +49,30 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Rechtsmangel-Analyse (Art und Umfang des Rechts Dritter)
+- Käuferrechte-Stufenleiter
+- Öffentlich-rechtliche Lasten-Checkliste
+- Risikoampel
+
+## Qualitätsregeln
+
+- Sachmangel und Rechtsmangel immer klar trennen.
+- Öffentlich-rechtliche Lasten immer einschließen.
+- § 566 BGB bei Immobilienkaufrecht stets beachten.
+
+## Anschluss-Skills
+
+- kaufrecht-sachmangel-paragraph-434
+- kaufrecht-nacherfuellung-ruecktritt-minderung
+- mietvertrag-grundschema-paragraph-535
+- workflow-anspruchslandkarte
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__435.html
+- https://www.gesetze-im-internet.de/bgb/__437.html
+- https://www.gesetze-im-internet.de/bgb/__433.html
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

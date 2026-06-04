@@ -1,24 +1,47 @@
 ---
 name: verjaehrung-bgb-bt-spezial
-description: "Prüft besondere Verjährungsfristen in Kauf, Werk, Miete, Reise, Delikt und Bürgschaft."
+description: "Verjährung im BGB BT: Sonderfristen für Kauf §438, Miet §548, Werk §634a, Delikt §852 BGB."
 ---
-# Verjährung im BGB BT
+# Verjährung BGB-BT Spezial
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Verjährungsfristen im BGB Besonderer Teil prüfen: Sonderfristen für Kaufrecht (§ 438 BGB), Mietrecht (§ 548 BGB), Werkvertragsrecht (§ 634a BGB), Deliktsrecht (§ 852 BGB) und deren Verhältnis zur Regelverjährung.
 
-## Arbeitsweise
+## Normanker
 
-Baue Fristenvermerk mit Hemmung/Neubeginn.
+- § 438 BGB: Verjährung beim Kaufvertrag (2 Jahre; 5 Jahre für Bauwerke; 30 Jahre bei arglistigem Verschweigen)
+- § 548 BGB: Verjährung bei Miet- und Pachtrecht (6 Monate nach Rückgabe)
+- § 634a BGB: Verjährung beim Werkvertrag (2 Jahre; 5 Jahre für Bauwerke; 10 Jahre bei Arglist)
+- § 852 BGB: Verjährung deliktischer Bereicherungsansprüche (10 Jahre)
+- §§ 195 und 199 BGB: Regelverjährung (3 Jahre; Beginn mit Kenntnis oder grob fahrlässiger Unkenntnis)
+- §§ 203 ff. BGB: Hemmung und Neubeginn der Verjährung
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Welcher Vertragstyp oder Anspruchsgrundlage liegt vor?
+- Wann begann die Verjährungsfrist (Lieferung, Abnahme, Rückgabe, Kenntnis)?
+- Gibt es Hemmungstatbestände (Verhandlungen, Klage, Güteantrag)?
+- Wurden Arglisttatbestände mitgeprüft?
+- Ist die Frist möglicherweise bereits abgelaufen?
 
+## Prüfraster
+
+1. Anspruchsgrundlage und Sonderfristen-Norm bestimmen
+2. Kaufrecht: § 438 Abs. 1 BGB (2 Jahre ab Übergabe; 5 Jahre für Bauwerke; 30 Jahre bei Arglist)
+3. Mietrecht: § 548 Abs. 1 BGB (6 Monate nach Rückgabe) für Vermieterersatzansprüche
+4. Werkvertragsrecht: § 634a BGB (2 Jahre bei Bewegungssachen; 5 Jahre für Bauwerke)
+5. Deliktsrecht: §§ 195 und 199 BGB (3 Jahre ab Kenntnis); § 852 BGB für Bereicherungsanspruch (10 Jahre)
+6. Hemmungstatbestände: §§ 203-213 BGB (Verhandlungen, gerichtliche Geltendmachung)
+7. Neubeginn nach § 212 BGB: Anerkenntnis, Abschlagszahlung, Sicherheitsleistung
+8. Arglist-Verlängerungen: § 438 Abs. 3 und § 634a Abs. 3 BGB
+
+## Fallstricke
+
+- § 548 BGB (Miet) beginnt mit Rückgabe der Mietsache, nicht mit Kenntnis des Vermieters.
+- Arglist verlängert Verjährung bei Kauf auf 30 Jahre; bei Werkvertrag auf 10 Jahre.
+- Hemmung durch Verhandlungen (§ 203 BGB) setzt echten Austausch voraus; bloße Ablehnung genügt nicht.
+- Verjährung des Bereicherungsanspruchs nach § 852 BGB (10 Jahre) als 'Restschaden' neben § 823 BGB.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +51,30 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Verjährungs-Kalender (Fristbeginn, Fristende, Hemmungszeiträume)
+- Sonderfrist-Matrix (Kauf, Miete, Werk, Delikt)
+- Arglist-Verlängerungs-Prüfung
+- Handlungsempfehlung (Klageerhebung, Anerkenntniseinholung)
+
+## Qualitätsregeln
+
+- Anspruchsgrundlage und Sonderverjährung immer als erste Weiche setzen.
+- Arglist immer aktiv mitprüfen; kann Verjährung entscheidend verlängern.
+- Hemmungsberechnung dokumentieren.
+
+## Anschluss-Skills
+
+- kaufrecht-beweislast-verjaehrung-digitale-elemente
+- werkvertrag-maengelrechte
+- bt-fristen-erklaerungen-zugang
+- workflow-fristen-ruecktritt-kuendigung
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__438.html
+- https://www.gesetze-im-internet.de/bgb/__548.html
+- https://www.gesetze-im-internet.de/bgb/__634a.html
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.

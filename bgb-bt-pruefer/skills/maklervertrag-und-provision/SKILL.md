@@ -1,24 +1,47 @@
 ---
 name: maklervertrag-und-provision
-description: "Prüft Maklerlohn, Nachweis/Vermittlung, Kausalität, Textform, Verbraucherfragen und Verflechtung."
+description: "Maklervertrag §§ 652 ff. BGB: Provisionsanspruch, Kausalität, Doppelmakler und Bestellerprinzip."
 ---
-# Maklervertrag und Provision
+# Maklervertrag und Provision §§ 652 ff. BGB
 
-## Sofortstart
+## Zweck
 
-1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
-2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
-3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+Maklerrechtliche Ansprüche prüfen: Entstehung des Provisionsanspruchs nach § 652 BGB, Kausalität zwischen Maklertätigkeit und Hauptvertragsschluss, Verwirkung und Bestellerprinzip bei Wohnraumvermittlung.
 
-## Arbeitsweise
+## Normanker
 
-Trenne Nachweismakler, Vermittlungsmakler, Doppeltätigkeit und Provisionsfälligkeit.
+- § 652 BGB: Entstehung des Maklerlohnanspruchs (Nachweis oder Vermittlung)
+- § 653 BGB: Höhe des Maklerlohns
+- § 654 BGB: Verwirkung des Maklerlohns bei vertragswidrigem Verhalten
+- § 655 BGB: Herabsetzung des Maklerlohns (bei unverhältnismäßig hoher Provision)
+- §§ 2 ff. WoVermG: Bestellerprinzip bei Wohnraumvermittlung (Verbraucherschutz)
+- Amtliches BGB: https://www.gesetze-im-internet.de/bgb/
 
-## Rechts- und Quellenanker
+## Intake
 
-BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insbesondere §§ 241 ff., 249 ff., 280 ff., 433 ff., 488 ff., 535 ff., 581 ff., 611 ff., 631 ff., 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB.
+- Welche Art von Maklervertrag liegt vor (Wohnraumvermittlung, Gewerbeimmobilien, sonstiges)?
+- Wie lautet die Provisionsvereinbarung (Höhe, Fälligkeit, Bedingungen)?
+- Wurde der Hauptvertrag tatsächlich geschlossen?
+- Besteht eine Kausalverknüpfung zwischen Maklertätigkeit und Vertragsschluss?
+- Doppelmakler oder Eigenprovision?
 
+## Prüfraster
+
+1. Maklervertrag: wirksam geschlossen (konkludent möglich nach § 652 BGB)?
+2. Tätigkeitsart bestimmen: Nachweis eines Vertragspartners oder Vermittlung des Vertrags
+3. Hauptvertrag: geschlossen, wirksam und dem Makler kausal zuzurechnen?
+4. Kausalität: Mitursächlichkeit der Maklertätigkeit für den Abschluss des Hauptvertrags
+5. Verfristung: Vertragsschluss muss in angemessenem Zeitraum nach Maklertätigkeit erfolgen
+6. Verwirkung nach § 654 BGB: Doppelmakler, Interessenkollision, vertragswidrige Bevorzugung der Gegenseite
+7. Bestellerprinzip nach WoVermG bei Wohnraummakler: Provision nur vom Auftraggeber (Vermieter)
+8. Herabsetzungsrecht nach § 655 BGB bei offensichtlichem Missverhältnis
+
+## Fallstricke
+
+- Kausalität: Eigene Kenntnis des Kaufinteressenten vom Objekt vor Einschaltung des Maklers schließt Provision aus.
+- Doppelmaklertätigkeit ohne Einverständnis beider Parteien führt nach § 654 BGB zur Verwirkung der Provision.
+- Bei Wohnraumanmietung darf Makler vom Mieter keine Provision verlangen (§ 2 WoVermG); Rückforderungsrecht.
+- Alleinauftrag versus einfacher Maklervertrag: Unterschied für Haftung bei Nichtabschluss.
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -28,13 +51,30 @@ BGB amtlich prüfen: https://www.gesetze-im-internet.de/bgb/. Je nach Skill insb
 
 ## Output
 
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix
-- Prüfvermerk oder Gutachten
-- Beweis- und Lückenliste
-- Anschluss-Skill-Empfehlung
+- Provisionsanspruch-Analyse (Entstehungsvoraussetzungen, Kausalität)
+- Verwirkungs-Risikoprüfung
+- Bestellerprinzip-Compliance-Check bei Wohnraum
+- Handlungsempfehlung für Makler oder Auftraggeber
+
+## Qualitätsregeln
+
+- Kausalität zwischen Maklertätigkeit und Hauptvertragsschluss immer sachverhaltsnah prüfen.
+- WoVermG bei Wohnraumvermittlung immer neben BGB prüfen.
+- Doppelmakler-Konstellation aktiv auf Verwirkungsrisiko untersuchen.
+
+## Anschluss-Skills
+
+- geschaeftsbesorgung-auftrag-mandat
+- auftrag-und-unentgeltliche-taetigkeit
+- vertragstypen-mischvertrag-router
+- bt-vertragsentwurf-modellvertrag
 
 
+## Quellen
+
+- https://www.gesetze-im-internet.de/bgb/__652.html
+- https://www.gesetze-im-internet.de/bgb/__654.html
+- https://www.gesetze-im-internet.de/wovermg/
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
