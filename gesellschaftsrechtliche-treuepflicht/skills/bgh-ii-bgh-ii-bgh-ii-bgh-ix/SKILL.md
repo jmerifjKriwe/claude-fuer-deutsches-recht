@@ -1,6 +1,6 @@
 ---
 name: bgh-ii-bgh-ii-bgh-ii-bgh-ix
-description: "Bgh Ii Zr 91 21 Gesellschafterliste, Bgh Ii Zr 166 05 Informationspflicht, Bgh Ii Zr 275 14 Media Saturn, Bgh Ix Zr 149 16 Kapitalgesellschaft: Bgh Ii Zr 91 21 Gesellschafterliste; Bgh Ii Zr 166 05 Informationspflicht; Bgh Ii Zr 275 14 Media Saturn; Bgh Ix Zr 149 16 Kapitalgesellschaft. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Bgh Ii Zr 91 21 Gesellschafterliste, Bgh Ii Zr 166 05 Informationspflicht, Bgh Ii Zr 275 14 Media Saturn, Bgh Ix Zr 149 16 Kapitalgesellschaft im Plugin Gesellschaftsrechtliche Treuepflicht konkret bearbeitet werden soll. Auslöser: Bitte Bgh Ii Zr 91 21 Gesellschafterliste, Bgh Ii Zr 166 05 Informationspflicht, Bgh Ii Zr 275 14 Media Saturn, Bgh Ix Zr 149 16 Kapitalgesellschaft prüfen.; Erstelle eine Arbeitsfassung zu Bgh Ii Zr 91 21 Gesellschafterliste, Bgh Ii Zr 166 05 Informationspflicht, Bgh Ii Zr 275 14 Media Saturn, Bgh Ix Zr 149 16 Kapitalgesellschaft.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Bgh Ii Zr 91 21 Gesellschafterliste, Bgh Ii Zr 166 05 Informationspflicht, Bgh Ii Zr 275 14 Media Saturn, Bgh Ix Zr 149 16 Kapitalgesellschaft
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `bgh-ii-zr-275-14-media-saturn` | Gesellschaftsrechtliche Treuepflicht: BGH II ZR 275 14 Media Saturn; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `bgh-ix-zr-149-16-kapitalgesellschaft` | Gesellschaftsrechtliche Treuepflicht: BGH IX ZR 149 16 Kapitalgesellschaft; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Bgh Ii Zr 91 21 Gesellschafterliste, Bgh Ii Zr 166 05 Informationspflicht, Bgh Ii Zr 275 14 Media Saturn, Bgh Ix Zr 149 16 Kapitalgesellschaft** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrechtliche-treuepflicht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

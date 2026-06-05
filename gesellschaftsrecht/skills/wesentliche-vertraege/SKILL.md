@@ -1,6 +1,6 @@
 ---
 name: wesentliche-vertraege
-description: "Wesentliche Vertraege Anlage: Wesentliche Vertraege Anlage. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Wesentliche Vertraege Anlage im Plugin Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Wesentliche Vertraege Anlage prüfen.; Erstelle eine Arbeitsfassung zu Wesentliche Vertraege Anlage.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Wesentliche Vertraege Anlage
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `wesentliche-vertraege-anlage` | Erstellt das Verzeichnis wesentlicher Verträge (Material Contracts Schedule) aus Due-Diligence-Erkenntnissen auf Grundlage der SPA-Definition und des Anhangformats. Berücksichtigt Change-of-Control-Klauseln (BGH-Rspr.), Vendor-Disclosure-Logik und Konsistenz mit anderen Gewährleistungsanhängen. Lädt bei "Vertragsanhang erstellen", "Disclosure Schedule", "wesentliche Verträge", "Anhang 3.X" oder beim Entwurf von Offenlegungsanhängen im M&A-Kontext. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Wesentliche Vertraege Anlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

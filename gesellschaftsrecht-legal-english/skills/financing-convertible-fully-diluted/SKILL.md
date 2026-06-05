@@ -1,6 +1,6 @@
 ---
 name: financing-convertible-fully-diluted
-description: "Financing Convertible Loan Safe, Fully Diluted Esop Option Pool: Financing Convertible Loan Safe; Fully Diluted Esop Option Pool. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Financing Convertible Loan Safe, Fully Diluted Esop Option Pool im Plugin Gesellschaftsrecht Legal English konkret bearbeitet werden soll. Auslöser: Bitte Financing Convertible Loan Safe, Fully Diluted Esop Option Pool prüfen.; Erstelle eine Arbeitsfassung zu Financing Convertible Loan Safe, Fully Diluted Esop Option Pool.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Financing Convertible Loan Safe, Fully Diluted Esop Option Pool
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `financing-convertible-loan-safe` | Erklaert Convertible Loan, Wandeldarlehen, SAFE, Discount, Valuation Cap, MFN und deutsche Notar- und Kapitalerhoehungsfragen. |
 | `fully-diluted-esop-option-pool` | Fuehrt durch fully diluted basis, ESOP, VSOP, Option Pool, Wandlungsrechte, Verwässerung und die Frage, welche Instrumente in die Berechnung gehoeren. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Financing Convertible Loan Safe, Fully Diluted Esop Option Pool** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht-legal-english` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: vertraulichkeit-vetorechte
-description: "Vertraulichkeit, Vetorechte: Vertraulichkeit; Vetorechte. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vertraulichkeit, Vetorechte im Plugin Gesellschaftsrechtliche Treuepflicht konkret bearbeitet werden soll. Auslöser: Bitte Vertraulichkeit, Vetorechte prüfen.; Erstelle eine Arbeitsfassung zu Vertraulichkeit, Vetorechte.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vertraulichkeit, Vetorechte
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vertraulichkeit` | Gesellschaftsrechtliche Treuepflicht: Vertraulichkeit; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `vetorechte` | Gesellschaftsrechtliche Treuepflicht: Vetorechte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vertraulichkeit, Vetorechte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrechtliche-treuepflicht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

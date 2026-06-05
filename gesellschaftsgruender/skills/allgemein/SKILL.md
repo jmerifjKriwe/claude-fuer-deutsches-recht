@@ -2,6 +2,7 @@
 name: allgemein
 description: "Einstieg, Schnelltriage und Workflow-Routing für das Gesellschaftsgründer-Plugin; besonders anfängerfreundlich, mit Rollenklärung, Dokumentenintake, Rechtsformwahl und Anschluss-Skills."
 ---
+
 # Gesellschaftsgründer Allgemein — leichter Kaltstart
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law

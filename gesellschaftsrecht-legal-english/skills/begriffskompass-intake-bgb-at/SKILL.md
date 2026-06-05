@@ -1,6 +1,6 @@
 ---
 name: begriffskompass-intake-bgb-at
-description: "Begriffskompass Intake, Bgb At Schuldrecht At Im Ma: Begriffskompass Intake; Bgb At Schuldrecht At Im Ma. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Begriffskompass Intake, Bgb At Schuldrecht At Im Ma im Plugin Gesellschaftsrecht Legal English konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
 ---
 
 # Begriffskompass Intake, Bgb At Schuldrecht At Im Ma
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `begriffskompass-intake` | Erfasst einen Corporate-English-Begriff mit Dokument, Rechtsordnung, Parteirolle, deutscher Naeherung, False-Friend-Risiko und gewuenschtem Arbeitsprodukt. |
 | `bgb-at-schuldrecht-at-im-ma` | Macht sichtbar, wo BGB AT und Schuldrecht AT in englischsprachigen M&A-, Finanzierungs- und SHA-Vertraegen unter deutschem Recht stillschweigend mitlaufen: Form, Stellvertretung, Bedingungen, Verfuegungsverbote, AGB-Kontrolle, Konkretisierung, Treu und Glauben. Gegen den weit verbreiteten Irrtum, M&A sei reines Vertragsrecht. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Begriffskompass Intake, Bgb At Schuldrecht At Im Ma** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht-legal-english` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

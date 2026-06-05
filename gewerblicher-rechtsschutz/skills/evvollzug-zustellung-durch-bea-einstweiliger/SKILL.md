@@ -1,6 +1,6 @@
 ---
 name: evvollzug-zustellung-durch-bea-einstweiliger
-description: "Evvollzug Neu 003 Zustellung Durch Gerichtsvollzieher Im Ip Verf, Evvollzug Neu 004 Bea Zustellung Einstweiliger Rechtsschutz Risi, Evvollzug Neu 005 Ordnungsmittelantrag Vollstreckung Unterlassun: Evvollzug Neu 003 Zustellung Durch Gerichtsvollzieher Im Ip Verf; Evvollzug Neu 004 Bea Zustellung Einstweiliger Rechtsschutz Risi; Evvollzug Neu 005 Ordnungsmittelantrag Vollstreckung Unterlassun. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Evvollzug Neu 003 Zustellung Durch Gerichtsvollzieher Im Ip Verf, Evvollzug Neu 004 Bea Zustellung Einstweiliger Rechtsschutz Risi, Evvollzug Neu 005 Ordnungsmittelantrag Vollstreckung Unterlassun im Plugin Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Evvollzug Neu 003 Zustellung Durch Gerichtsvollzieher Im Ip Verf, Evvollzug Neu 004 Bea Zustellung Einstweiliger Rechtsschutz Risi, Evvollzug Neu 005 Ordnungsmittelantrag Vollstreckung Unterlassun prüfen.; Erstelle eine Arbeitsfassung zu Evvollzug Neu 003 Zustellung Durch Gerichtsvollzieher Im Ip Verf, Evvollzug Neu 004 Bea Zustellung Einstweiliger Rechtsschutz Risi, Evvollzug Neu 005 Ordnungsmittelantrag Vollstreckung Unterlassun.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Evvollzug Neu 003 Zustellung Durch Gerichtsvollzieher Im Ip Verf, Evvollzug Neu 004 Bea Zustellung Einstweiliger Rechtsschutz Risi, Evvollzug Neu 005 Ordnungsmittelantrag Vollstreckung Unterlassun
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `evvollzug-neu-004-bea-zustellung-einstweiliger-rechtsschutz-risi` | EV-Vollzug: beA-Zustellung bei einstweiligen Verfügungen im IP-Recht – Voraussetzungen, Risiken, Nachweisführung und Alternativen. Wann beA sicher ist, wann nicht, und wie Vollzugsrisiken minimiert werden. |
 | `evvollzug-neu-005-ordnungsmittelantrag-vollstreckung-unterlassun` | EV-Vollzug: Ordnungsmittelantrag nach § 890 ZPO bei Verstoß gegen Unterlassungstitel aus einstweiliger Verfügung. Tatbestandsvoraussetzungen, Antragsinhalt, Höhe Ordnungsgeld, Verschuldensmaßstab und typische Verteidigungsstrategien des Schuldners. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Evvollzug Neu 003 Zustellung Durch Gerichtsvollzieher Im Ip Verf, Evvollzug Neu 004 Bea Zustellung Einstweiliger Rechtsschutz Risi, Evvollzug Neu 005 Ordnungsmittelantrag Vollstreckung Unterlassun** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

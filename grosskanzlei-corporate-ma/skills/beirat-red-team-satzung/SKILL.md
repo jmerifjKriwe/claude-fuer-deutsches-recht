@@ -1,6 +1,6 @@
 ---
 name: beirat-red-team-satzung
-description: "GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Red Team Satzung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output."
+description: "Nutze dies, wenn Beirat Red Team Satzung im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
 ---
 
 # Beirat Red Team Satzung

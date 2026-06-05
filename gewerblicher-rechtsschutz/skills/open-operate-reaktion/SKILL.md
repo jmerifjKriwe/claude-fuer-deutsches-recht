@@ -1,6 +1,6 @@
 ---
 name: open-operate-reaktion
-description: "Spezial Open Formular Portal Und Einreichung, Spezial Operate Verhandlung Vergleich Und Eskalation, Spezial Reaktion Internationaler Bezug Und Schnittstellen: Spezial Open Formular Portal Und Einreichung; Spezial Operate Verhandlung Vergleich Und Eskalation; Spezial Reaktion Internationaler Bezug Und Schnittstellen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Open Formular Portal Und Einreichung, Spezial Operate Verhandlung Vergleich Und Eskalation, Spezial Reaktion Internationaler Bezug Und Schnittstellen im Plugin Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Spezial Open Formular Portal Und Einreichung, Spezial Operate Verhandlung Vergleich Und Eskalation, Spezial Reaktion Internationaler Bezug Und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Open Formular Portal Und Einreichung, Spezial Operate Verhandlung Vergleich Und Eskalation, Spezial Reaktion Internationaler Bezug Und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Open Formular Portal Und Einreichung, Spezial Operate Verhandlung Vergleich Und Eskalation, Spezial Reaktion Internationaler Bezug Und Schnittstellen
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-operate-verhandlung-vergleich-und-eskalation` | Verhandlung, Vergleich und Eskalation im gewerblichen Rechtsschutz: Strategien für außergerichtliche Einigung, Vergleichsverhandlung, gerichtlichen Vergleich und Eskalation bei Scheitern. Vertragsstrafen, Abschlussvereinbarungen und Hauptsache-Entscheidung. |
 | `spezial-reaktion-internationaler-bezug-und-schnittstellen` | Internationaler Bezug im gewerblichen Rechtsschutz: Zuständigkeit, anwendbares Recht, Enforcement im Ausland, Unionsmarke und -patent, WIPO-UDRP, grenzüberschreitende Abmahnung und Koordination mit ausländischen Anwälten. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Open Formular Portal Und Einreichung, Spezial Operate Verhandlung Vergleich Und Eskalation, Spezial Reaktion Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

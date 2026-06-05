@@ -1,6 +1,6 @@
 ---
 name: terms-term-sheet
-description: "Spezial Terms Risikoampel Und Gegenargumente, Term Sheet Investment Agreement: Spezial Terms Risikoampel Und Gegenargumente; Term Sheet Investment Agreement. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Terms Risikoampel Und Gegenargumente, Term Sheet Investment Agreement im Plugin Gesellschaftsrecht Legal English konkret bearbeitet werden soll. Auslöser: Bitte Spezial Terms Risikoampel Und Gegenargumente, Term Sheet Investment Agreement prüfen.; Erstelle eine Arbeitsfassung zu Spezial Terms Risikoampel Und Gegenargumente, Term Sheet Investment Agreement.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Terms Risikoampel Und Gegenargumente, Term Sheet Investment Agreement
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-terms-risikoampel-und-gegenargumente` | Terms: Risikoampel, Gegenargumente und Verteidigungslinien im Corporate Legal English: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `term-sheet-investment-agreement` | Fuehrt durch Term Sheet, Investment Agreement, Bindungswirkung, Conditions, Exclusivity, Confidentiality, Kosten und deutsche Vollzugsmechanik. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Terms Risikoampel Und Gegenargumente, Term Sheet Investment Agreement** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht-legal-english` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

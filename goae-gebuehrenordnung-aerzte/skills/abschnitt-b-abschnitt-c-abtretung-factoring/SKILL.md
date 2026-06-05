@@ -1,6 +1,6 @@
 ---
 name: abschnitt-b-abschnitt-c-abtretung-factoring
-description: "Abschnitt B Grundleistungen Zuschlaege, Abschnitt C Nichtgebietsbezogene Sonderleistungen, Abtretung Factoring Arzthonorar Datenschutz: Abschnitt B Grundleistungen Zuschlaege; Abschnitt C Nichtgebietsbezogene Sonderleistungen; Abtretung Factoring Arzthonorar Datenschutz. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Abschnitt B Grundleistungen Zuschlaege, Abschnitt C Nichtgebietsbezogene Sonderleistungen, Abtretung Factoring Arzthonorar Datenschutz im Plugin Goae Gebuehrenordnung Aerzte konkret bearbeitet werden soll. Auslöser: Bitte Abschnitt B Grundleistungen Zuschlaege, Abschnitt C Nichtgebietsbezogene Sonderleistungen, Abtretung Factoring Arzthonorar Datenschutz prüfen.; Erstelle eine Arbeitsfassung zu Abschnitt B Grundleistungen Zuschlaege, Abschnitt C Nichtgebietsbezogene Sonderleistungen, Abtretung Factoring Arzthonorar Datenschutz.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Abschnitt B Grundleistungen Zuschlaege, Abschnitt C Nichtgebietsbezogene Sonderleistungen, Abtretung Factoring Arzthonorar Datenschutz
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `abschnitt-c-nichtgebietsbezogene-sonderleistungen` | Abschnitt C nichtgebietsbezogene Sonderleistungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise. |
 | `abtretung-factoring-arzthonorar-datenschutz` | Abtretung Factoring Arzthonorar Datenschutz: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Abschnitt B Grundleistungen Zuschlaege, Abschnitt C Nichtgebietsbezogene Sonderleistungen, Abtretung Factoring Arzthonorar Datenschutz** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `goae-gebuehrenordnung-aerzte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

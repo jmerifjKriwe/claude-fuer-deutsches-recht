@@ -1,6 +1,6 @@
 ---
 name: transfer-restrictions-upstream-security
-description: "Transfer Restrictions Vinkulierung, Upstream Security Financial Assistance: Transfer Restrictions Vinkulierung; Upstream Security Financial Assistance. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Transfer Restrictions Vinkulierung, Upstream Security Financial Assistance im Plugin Gesellschaftsrecht Legal English konkret bearbeitet werden soll. Auslöser: Bitte Transfer Restrictions Vinkulierung, Upstream Security Financial Assistance prüfen.; Erstelle eine Arbeitsfassung zu Transfer Restrictions Vinkulierung, Upstream Security Financial Assistance.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Transfer Restrictions Vinkulierung, Upstream Security Financial Assistance
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `transfer-restrictions-vinkulierung` | Erklaert Transfer Restrictions, Vinkulierung, ROFR, ROFO, Lock-up, Permitted Transfers und Vollzug bei deutschen Anteilen. |
 | `upstream-security-financial-assistance` | Markiert Upstream Loan, Upstream Security, Upstream Guarantee, Financial Assistance, Kapitalerhaltung, Corporate Benefit und Organpflichten. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Transfer Restrictions Vinkulierung, Upstream Security Financial Assistance** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht-legal-english` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: anmeldung-spezial-compliance-euipo
-description: "Spezial Anmeldung Behörden Gericht Und Registerweg, Spezial Compliance Mandantenkommunikation Entscheidungsvorlage, Spezial Euipo Dokumentenmatrix Und Lueckenliste: Spezial Anmeldung Behörden Gericht Und Registerweg; Spezial Compliance Mandantenkommunikation Entscheidungsvorlage; Spezial Euipo Dokumentenmatrix Und Lueckenliste. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Anmeldung Behörden Gericht Und Registerweg, Spezial Compliance Mandantenkommunikation Entscheidungsvorlage, Spezial Euipo Dokumentenmatrix Und Lueckenliste im Plugin Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Spezial Anmeldung Behörden Gericht Und Registerweg, Spezial Compliance Mandantenkommunikation Entscheidungsvorlage, Spezial Euipo Dokumentenmatrix Und Lueckenliste prüfen.; Erstelle eine Arbeitsfassung zu Spezial Anmeldung Behörden Gericht Und Registerweg, Spezial Compliance Mandantenkommunikation Entscheidungsvorlage, Spezial Euipo Dokumentenmatrix Und Lueckenliste.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Anmeldung Behörden Gericht Und Registerweg, Spezial Compliance Mandantenkommunikation Entscheidungsvorlage, Spezial Euipo Dokumentenmatrix Und Lueckenliste
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-compliance-mandantenkommunikation-entscheidungsvorlage` | Compliance-Mandantenkommunikation im gewerblichen Rechtsschutz: Entscheidungsvorlagen strukturiert erstellen, Handlungsoptionen mit Kosten und Risiken darstellen und Mandantenentscheidungen dokumentieren. Für Kanzleien und Rechtsabteilungen. |
 | `spezial-euipo-dokumentenmatrix-und-lueckenliste` | EUIPO-Verfahren: Dokumentenmatrix und Lückenliste für Unionsmarken-Anmeldung, Widerspruch, Nichtigkeitsantrag und Beschwerde. Welche Dokumente wann eingereicht werden müssen, was häufig fehlt und wie Lücken rechtzeitig geschlossen werden. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Anmeldung Behörden Gericht Und Registerweg, Spezial Compliance Mandantenkommunikation Entscheidungsvorlage, Spezial Euipo Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

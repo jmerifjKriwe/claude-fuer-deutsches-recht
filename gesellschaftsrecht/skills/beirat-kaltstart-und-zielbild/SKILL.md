@@ -1,6 +1,6 @@
 ---
 name: beirat-kaltstart-und-zielbild
-description: "GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Kaltstart Und Zielbild; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output."
+description: "Nutze dies, wenn Beirat Kaltstart Und Zielbild im Plugin Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Gesellschaftsrecht.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
 ---
 
 # Beirat Kaltstart Und Zielbild

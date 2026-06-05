@@ -2,6 +2,7 @@
 name: gesellschaftsgruender-anfaenger-kaltstart
 description: "Führt absolute Anfänger durch die ersten Entscheidungen einer Gesellschaftsgründung ohne Fachsprachenfalle."
 ---
+
 # Anfänger-Kaltstart Gesellschaftsgründung
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law

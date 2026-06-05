@@ -1,6 +1,6 @@
 ---
 name: exit-spa-financial-debt
-description: "Exit Spa Closing Cp, Financial Debt Net Debt Working Capital: Exit Spa Closing Cp; Financial Debt Net Debt Working Capital. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Exit Spa Closing Cp, Financial Debt Net Debt Working Capital im Plugin Gesellschaftsrecht Legal English konkret bearbeitet werden soll. Auslöser: Bitte Exit Spa Closing Cp, Financial Debt Net Debt Working Capital prüfen.; Erstelle eine Arbeitsfassung zu Exit Spa Closing Cp, Financial Debt Net Debt Working Capital.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Exit Spa Closing Cp, Financial Debt Net Debt Working Capital
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `exit-spa-closing-cp` | Erklaert Exit, SPA, signing, closing, Conditions Precedent, Long Stop Date, Closing Deliverables und Vollzugslogik bei Unternehmenstransaktionen. |
 | `financial-debt-net-debt-working-capital` | Prueft Financial Debt, Net Debt, Cash Free Debt Free, Working Capital, Debt-like Items und Kaufpreisformel im M&A-Kontext. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Exit Spa Closing Cp, Financial Debt Net Debt Working Capital** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht-legal-english` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

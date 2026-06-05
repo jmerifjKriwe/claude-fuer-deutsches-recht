@@ -1,6 +1,6 @@
 ---
 name: mandat-arbeitsbereich-gesr-corporate-gesr
-description: "Gesellschaftsrecht Mandat Arbeitsbereich, Gesr Corporate Governance Kodex Spezial, Gesr Gesellschafterversammlung Protokoll Leitfaden, Gesr Kgaa Und Se Spezial, Gmbh Gruendung: Gesellschaftsrecht Mandat Arbeitsbereich; Gesr Corporate Governance Kodex Spezial; Gesr Gesellschafterversammlung Protokoll Leitfaden; Gesr Kgaa Und Se Spezial; Gmbh Gruendung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Gesellschaftsrecht Mandat Arbeitsbereich, Gesr Corporate Governance Kodex Spezial, Gesr Gesellschafterversammlung Protokoll Leitfaden, Gesr Kgaa Und Se Spezial, Gmbh Gruendung im Plugin Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Gesellschaftsrecht Mandat Arbeitsbereich, Gesr Corporate Governance Kodex Spezial, Gesr Gesellschafterversammlung Protokoll Leitfaden, Gesr Kgaa Und Se Spezial, Gmbh Gruendung prüfen.; Erstelle eine Arbeitsfassung zu Gesellschaftsrecht Mandat Arbeitsbereich, Gesr Corporate Governance Kodex Spezial, Gesr Gesellschafterversammlung Protokoll Leitfaden, Gesr Kgaa Und Se Spezial, Gmbh Gruendung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Gesellschaftsrecht Mandat Arbeitsbereich, Gesr Corporate Governance Kodex Spezial, Gesr Gesellschafterversammlung Protokoll Leitfaden, Gesr Kgaa Und Se Spezial, Gmbh Gruendung
@@ -19,12 +19,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `gesr-kgaa-und-se-spezial` | Spezialfall KGaA und SE: Hybridform, Vorstandsbestellung, Mitbestimmungsfreiheit der SE. Pruefraster fuer Family Office und boersennotierte Gruppe. |
 | `gmbh-gruendung` | Begleitung der GmbH-Gründung von der Satzungserstellung (§ 2 GmbHG) bis zur Eintragung ins Handelsregister (§ 7 GmbHG) einschließlich UG-Variante (§ 5a GmbHG), Gewerbeanmeldung und Transparenzregister. Lädt bei Mandaten zur Neugründung, Vorgesellschaft, Stammkapitalaufbringung oder Gesellschaftsvertrag. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Gesellschaftsrecht Mandat Arbeitsbereich, Gesr Corporate Governance Kodex Spezial, Gesr Gesellschafterversammlung Protokoll Leitfaden, Gesr Kgaa Und Se Spezial, Gmbh Gruendung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

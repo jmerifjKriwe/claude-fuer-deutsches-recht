@@ -1,6 +1,6 @@
 ---
 name: wegegeld-besuch-zahnaerztliche-schnittstelle
-description: "Wegegeld Besuch Mehrere Patienten, Zahnaerztliche Schnittstelle Goz Goae: Wegegeld Besuch Mehrere Patienten; Zahnaerztliche Schnittstelle Goz Goae. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Wegegeld Besuch Mehrere Patienten, Zahnaerztliche Schnittstelle Goz Goae im Plugin Goae Gebuehrenordnung Aerzte konkret bearbeitet werden soll. Auslöser: Bitte Wegegeld Besuch Mehrere Patienten, Zahnaerztliche Schnittstelle Goz Goae prüfen.; Erstelle eine Arbeitsfassung zu Wegegeld Besuch Mehrere Patienten, Zahnaerztliche Schnittstelle Goz Goae.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Wegegeld Besuch Mehrere Patienten, Zahnaerztliche Schnittstelle Goz Goae
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `wegegeld-besuch-mehrere-patienten` | Wegegeld Besuch mehrere Patienten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise. |
 | `zahnaerztliche-schnittstelle-goz-goae` | Zahnärztliche Schnittstelle GOZ GOÄ: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Wegegeld Besuch Mehrere Patienten, Zahnaerztliche Schnittstelle Goz Goae** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `goae-gebuehrenordnung-aerzte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -3,7 +3,6 @@ name: allgemein
 description: "Einstieg, Schnelltriage und Workflow-Routing im Großkanzlei-Corporate/M&A-Plugin. Fragt Rolle, Erfahrungslevel, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Anfänger- oder First-Year-Associate-Bedarf routet der Skill in den Anfänger-Modus."
 ---
 
-
 ## Konversationsstil – konzis starten, schnell zum Dokument
 
 - **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.

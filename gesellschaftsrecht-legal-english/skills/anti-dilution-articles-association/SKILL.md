@@ -1,6 +1,6 @@
 ---
 name: anti-dilution-articles-association
-description: "Anti Dilution Protection, Articles Association Satzung: Anti Dilution Protection; Articles Association Satzung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Anti Dilution Protection, Articles Association Satzung im Plugin Gesellschaftsrecht Legal English konkret bearbeitet werden soll. Auslöser: Bitte Anti Dilution Protection, Articles Association Satzung prüfen.; Erstelle eine Arbeitsfassung zu Anti Dilution Protection, Articles Association Satzung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Anti Dilution Protection, Articles Association Satzung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `anti-dilution-protection` | Prueft Anti-Dilution-Klauseln, Full Ratchet, Weighted Average, Down Round, Bezugsrechte und deutsche Umsetzungsrisiken. |
 | `articles-association-satzung` | Vergleicht Articles of Association mit Satzung und Gesellschaftsvertrag, prueft Registerfaehigkeit, Pflichtinhalt, Nebenabreden und englische Fassungen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Anti Dilution Protection, Articles Association Satzung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht-legal-english` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

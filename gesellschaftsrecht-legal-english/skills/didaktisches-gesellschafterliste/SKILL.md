@@ -1,6 +1,6 @@
 ---
 name: didaktisches-gesellschafterliste
-description: "Spezial Didaktisches Erstpruefung Und Mandatsziel, Spezial Gesellschafterliste Compliance Dokumentation Und Akte: Spezial Didaktisches Erstpruefung Und Mandatsziel; Spezial Gesellschafterliste Compliance Dokumentation Und Akte. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Didaktisches Erstpruefung Und Mandatsziel, Spezial Gesellschafterliste Compliance Dokumentation Und Akte im Plugin Gesellschaftsrecht Legal English konkret bearbeitet werden soll. Auslöser: Bitte Spezial Didaktisches Erstpruefung Und Mandatsziel, Spezial Gesellschafterliste Compliance Dokumentation Und Akte prüfen.; Erstelle eine Arbeitsfassung zu Spezial Didaktisches Erstpruefung Und Mandatsziel, Spezial Gesellschafterliste Compliance Dokumentation Und Akte.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Didaktisches Erstpruefung Und Mandatsziel, Spezial Gesellschafterliste Compliance Dokumentation Und Akte
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-didaktisches-erstpruefung-und-mandatsziel` | Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel im Corporate Legal English: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-gesellschafterliste-compliance-dokumentation-und-akte` | Gesellschafterliste: Compliance-Dokumentation und Aktenvermerk im Corporate Legal English: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Didaktisches Erstpruefung Und Mandatsziel, Spezial Gesellschafterliste Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht-legal-english` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

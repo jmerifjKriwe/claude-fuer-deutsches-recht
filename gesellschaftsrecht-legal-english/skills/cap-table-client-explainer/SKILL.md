@@ -1,6 +1,6 @@
 ---
 name: cap-table-client-explainer
-description: "Cap Table Gesellschafterliste, Client Explainer Legal English: Cap Table Gesellschafterliste; Client Explainer Legal English. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Cap Table Gesellschafterliste, Client Explainer Legal English im Plugin Gesellschaftsrecht Legal English konkret bearbeitet werden soll. Auslöser: Bitte Cap Table Gesellschafterliste, Client Explainer Legal English prüfen.; Erstelle eine Arbeitsfassung zu Cap Table Gesellschafterliste, Client Explainer Legal English.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Cap Table Gesellschafterliste, Client Explainer Legal English
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `cap-table-gesellschafterliste` | Erklaert und prueft Cap Table, Gesellschafterliste, wirtschaftliche Beteiligung, Stammkapital, Geschaeftsanteile, Verwässerung und Registerrealitaet. |
 | `client-explainer-legal-english` | Erstellt mandantenfreundliche Erklaerungen von Corporate-Legal-English-Begriffen ohne Jargon, mit Beispielen, Risiken und naechsten Entscheidungen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Cap Table Gesellschafterliste, Client Explainer Legal English** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht-legal-english` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

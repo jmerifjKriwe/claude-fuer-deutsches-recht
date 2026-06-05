@@ -1,6 +1,6 @@
 ---
 name: due-diligence-earn-out
-description: "Due Diligence Red Flag Report, Earn Out Kaufpreismechanik: Due Diligence Red Flag Report; Earn Out Kaufpreismechanik. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Due Diligence Red Flag Report, Earn Out Kaufpreismechanik im Plugin Gesellschaftsrecht Legal English konkret bearbeitet werden soll. Auslöser: Bitte Due Diligence Red Flag Report, Earn Out Kaufpreismechanik prüfen.; Erstelle eine Arbeitsfassung zu Due Diligence Red Flag Report, Earn Out Kaufpreismechanik.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Due Diligence Red Flag Report, Earn Out Kaufpreismechanik
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `due-diligence-red-flag-report` | Fuehrt durch Due Diligence, Red Flag Report, Legal Fact Book, Materiality, Disclosure Schedule, Q&A und quellenbelegte Findings. |
 | `earn-out-kaufpreismechanik` | Fuehrt durch Earn-out, Milestones, Locked Box, Completion Accounts, Leakage, Kaufpreisanpassung und Streitmechanismen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Due Diligence Red Flag Report, Earn Out Kaufpreismechanik** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht-legal-english` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

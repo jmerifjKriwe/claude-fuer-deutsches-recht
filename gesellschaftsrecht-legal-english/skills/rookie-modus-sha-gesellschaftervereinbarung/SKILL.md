@@ -1,6 +1,6 @@
 ---
 name: rookie-modus-sha-gesellschaftervereinbarung
-description: "Rookie Modus, Sha Gesellschaftervereinbarung: Rookie Modus; Sha Gesellschaftervereinbarung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Rookie Modus, Sha Gesellschaftervereinbarung im Plugin Gesellschaftsrecht Legal English konkret bearbeitet werden soll. Auslöser: Bitte Rookie Modus, Sha Gesellschaftervereinbarung prüfen.; Erstelle eine Arbeitsfassung zu Rookie Modus, Sha Gesellschaftervereinbarung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Rookie Modus, Sha Gesellschaftervereinbarung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `rookie-modus` | First-Year-Associate-Modus fuer Corporate Legal English: fuehrt Schritt fuer Schritt durch unbekannte Begriffe, Deal-Dokumente, Rueckfragen und Senior-Review-Gates. |
 | `sha-gesellschaftervereinbarung` | Erklaert Shareholders Agreement, Gesellschaftervereinbarung, Stimmbindung, Pooling, Satzungsschnittstelle, Nebenabreden und Vollzug. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Rookie Modus, Sha Gesellschaftervereinbarung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht-legal-english` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

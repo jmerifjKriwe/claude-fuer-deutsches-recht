@@ -1,6 +1,6 @@
 ---
 name: deutsches-englische-drag-tag
-description: "Deutsches Recht Englische Vertraege, Drag Tag Piggyback: Deutsches Recht Englische Vertraege; Drag Tag Piggyback. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Deutsches Recht Englische Vertraege, Drag Tag Piggyback im Plugin Gesellschaftsrecht Legal English konkret bearbeitet werden soll. Auslöser: Bitte Deutsches Recht Englische Vertraege, Drag Tag Piggyback prüfen.; Erstelle eine Arbeitsfassung zu Deutsches Recht Englische Vertraege, Drag Tag Piggyback.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Deutsches Recht Englische Vertraege, Drag Tag Piggyback
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `deutsches-recht-englische-vertraege` | Prueft englische Vertragssprache bei deutschem Recht, Gerichtssprache, Commercial Courts, Uebersetzungsregeln, Auslegung und False Friends. |
 | `drag-tag-piggyback` | Unterscheidet Drag-along, Tag-along und Piggyback Rights mit Triggern, Mehrheiten, Minderheitenschutz, Vollzug und deutscher Dokumentenlogik. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Deutsches Recht Englische Vertraege, Drag Tag Piggyback** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht-legal-english` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

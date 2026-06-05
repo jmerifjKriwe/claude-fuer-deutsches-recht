@@ -1,6 +1,6 @@
 ---
 name: share-classes-anfaenger
-description: "Share Classes Vorzugsrechte, Spezial Anfaenger Verhandlung Vergleich Und Eskalation: Share Classes Vorzugsrechte; Spezial Anfaenger Verhandlung Vergleich Und Eskalation. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Share Classes Vorzugsrechte, Spezial Anfaenger Verhandlung Vergleich Und Eskalation im Plugin Gesellschaftsrecht Legal English konkret bearbeitet werden soll. Auslöser: Bitte Share Classes Vorzugsrechte, Spezial Anfaenger Verhandlung Vergleich Und Eskalation prüfen.; Erstelle eine Arbeitsfassung zu Share Classes Vorzugsrechte, Spezial Anfaenger Verhandlung Vergleich Und Eskalation.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Share Classes Vorzugsrechte, Spezial Anfaenger Verhandlung Vergleich Und Eskalation
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `share-classes-vorzugsrechte` | Erklaert share classes, preferred shares, common shares, Vorzugsrechte, Sonderrechte und deutsche Umsetzungsfragen bei GmbH und AG. |
 | `spezial-anfaenger-verhandlung-vergleich-und-eskalation` | Anfaenger: Verhandlung, Vergleich und Eskalation im Corporate Legal English: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Share Classes Vorzugsrechte, Spezial Anfaenger Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht-legal-english` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

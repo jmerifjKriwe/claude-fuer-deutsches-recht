@@ -2,6 +2,7 @@
 name: gesellschaftsgruender-redteam-gruendungspaket
 description: "Prüft das gesamte Gründungspaket auf typische Fehler, Streitbomben und Register-/Bankhindernisse."
 ---
+
 # Red-Team Gründungspaket
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law

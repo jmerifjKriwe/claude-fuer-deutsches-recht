@@ -1,6 +1,6 @@
 ---
 name: gewr-einstweilige-dpma-spezial-fristen
-description: "Gewr Einstweilige Verfuegung Eilverfahren Spezial, Spezial Dpma Fristen Form Und Zustaendigkeit, Spezial Fristen Abschlussprodukt Und Übergabe: Gewr Einstweilige Verfuegung Eilverfahren Spezial; Spezial Dpma Fristen Form Und Zustaendigkeit; Spezial Fristen Abschlussprodukt Und Übergabe. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Gewr Einstweilige Verfuegung Eilverfahren Spezial, Spezial Dpma Fristen Form Und Zustaendigkeit, Spezial Fristen Abschlussprodukt Und Übergabe im Plugin Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Gewr Einstweilige Verfuegung Eilverfahren Spezial, Spezial Dpma Fristen Form Und Zustaendigkeit, Spezial Fristen Abschlussprodukt Und Übergabe prüfen.; Erstelle eine Arbeitsfassung zu Gewr Einstweilige Verfuegung Eilverfahren Spezial, Spezial Dpma Fristen Form Und Zustaendigkeit, Spezial Fristen Abschlussprodukt Und Übergabe.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Gewr Einstweilige Verfuegung Eilverfahren Spezial, Spezial Dpma Fristen Form Und Zustaendigkeit, Spezial Fristen Abschlussprodukt Und Übergabe
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-dpma-fristen-form-und-zustaendigkeit` | DPMA-Verfahren im Detail: Fristen, Formvoraussetzungen und Zuständigkeiten für Marken-, Patent-, Gebrauchsmuster- und Designanmeldung sowie Widerspruchs- und Löschungsverfahren. Einreichungswege, Gebühren und Fehlerquellen. |
 | `spezial-fristen-abschlussprodukt-und-uebergabe` | Fristenverwaltung im gewerblichen Rechtsschutz: Abschlussprodukte rechtzeitig fertigstellen, Übergabe an Mandanten und Behörden sichern. Fristenmatrix für DPMA, EUIPO, EPA, Gerichtsverfahren, EV-Vollzug und Abmahnfristen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Gewr Einstweilige Verfuegung Eilverfahren Spezial, Spezial Dpma Fristen Form Und Zustaendigkeit, Spezial Fristen Abschlussprodukt Und Übergabe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

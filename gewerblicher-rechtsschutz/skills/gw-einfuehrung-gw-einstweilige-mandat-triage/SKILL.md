@@ -1,6 +1,6 @@
 ---
 name: gw-einfuehrung-gw-einstweilige-mandat-triage
-description: "Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfuegung Spezial, Mandat Triage Gewerblicher Rechtsschutz: Gw Einfuehrung Rechtsschutzwege; Gw Einstweilige Verfuegung Spezial; Mandat Triage Gewerblicher Rechtsschutz. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfuegung Spezial, Mandat Triage Gewerblicher Rechtsschutz im Plugin Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfuegung Spezial, Mandat Triage Gewerblicher Rechtsschutz prüfen.; Erstelle eine Arbeitsfassung zu Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfuegung Spezial, Mandat Triage Gewerblicher Rechtsschutz.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfuegung Spezial, Mandat Triage Gewerblicher Rechtsschutz
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `gw-einstweilige-verfuegung-spezial` | Einstweilige Verfügung im gewerblichen Rechtsschutz: Strategische Gesamtbetrachtung von Antrag bis Hauptsache. Gerichtsauswahl, Tenorformulierung, Sicherheitsleistung, Vollzug, Widerspruch und Übergang in die Hauptsache als integrierter Workflow. |
 | `mandat-triage-gewerblicher-rechtsschutz` | Neues Mandat im gewerblichen Rechtsschutz: Anwalt klaert welches Sachgebiet und welche Skills benoetigt werden. Eingangs-Triage IP-Recht. Prüfraster: Mandantenrolle (Schutzrechtsinhaber Verletzer Lizenznehmer) Sachgebiet (Marke Patent Design Urheber UWG) Sofort-Fristen (einstweilige Verfuegung Dringlichkeit Verletzungsmeldung) Gerichtsauswahl Hamburg Frankfurt Muenchen Duesseldorf. Output: Routing-Entscheidung mit Folge-Skills. Abgrenzung zu verletzungs-triage (Verletzungseinschaetzung) und streitwert-igr-berechnen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfuegung Spezial, Mandat Triage Gewerblicher Rechtsschutz** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 
