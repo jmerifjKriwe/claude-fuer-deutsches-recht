@@ -1,6 +1,6 @@
 ---
 name: ins-spin-ins-short
-description: "Ins 037 Spin Off, Ins 041 Short Seller Attack: Ins 037 Spin Off; Ins 041 Short Seller Attack. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ins 037 Spin Off, Ins 041 Short Seller Attack im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 037 Spin Off, Ins 041 Short Seller Attack prüfen.; Erstelle eine Arbeitsfassung zu Ins 037 Spin Off, Ins 041 Short Seller Attack.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ins 037 Spin Off, Ins 041 Short Seller Attack
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ins-037-spin-off` | Steuert Insiderrecht-Compliance bei Spin-offs: Insiderinformations-Zeitpunkte, Ad-hoc, Insiderlisten fuer Mutter und Tochter sowie Post-Separation-Pflichten. |
 | `ins-041-short-seller-attack` | Steuert die Compliance-Reaktion auf Short-Seller-Berichte: Ad-hoc-Pflicht, Dementierungsgrenzen, BaFin-Zusammenarbeit und Marktmanipulationsvorwurf. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ins 037 Spin Off, Ins 041 Short Seller Attack** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insiderrecht-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

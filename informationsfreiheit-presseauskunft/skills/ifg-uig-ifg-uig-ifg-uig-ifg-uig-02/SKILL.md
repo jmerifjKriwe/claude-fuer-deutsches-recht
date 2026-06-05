@@ -1,6 +1,6 @@
 ---
 name: ifg-uig-ifg-uig-ifg-uig-ifg-uig-02
-description: "Ifg 063 Uig Umweltinformation Widerspruch Baue, Ifg 064 Uig Umweltinformation Klage Vorbereite, Ifg 065 Uig Umweltinformation Presseantwort Na, Ifg 066 Uig Umweltinformation Tracking Aktuali: Ifg 063 Uig Umweltinformation Widerspruch Baue; Ifg 064 Uig Umweltinformation Klage Vorbereite; Ifg 065 Uig Umweltinformation Presseantwort Na; Ifg 066 Uig Umweltinformation Tracking Aktuali. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ifg 063 Uig Umweltinformation Widerspruch Baue, Ifg 064 Uig Umweltinformation Klage Vorbereite, Ifg 065 Uig Umweltinformation Presseantwort Na, Ifg 066 Uig Umweltinformation Tracking Aktuali im Plugin Informationsfreiheit Presseauskunft konkret bearbeitet werden soll. Auslöser: Bitte Ifg 063 Uig Umweltinformation Widerspruch Baue, Ifg 064 Uig Umweltinformation Klage Vorbereite, Ifg 065 Uig Umweltinformation Presseantwort Na, Ifg 066 Uig Umweltinformation Tracking Aktuali prüfen.; Erstelle eine Arbeitsfassung zu Ifg 063 Uig Umweltinformation Widerspruch Baue, Ifg 064 Uig Umweltinformation Klage Vorbereite, Ifg 065 Uig Umweltinformation Presseantwort Na, Ifg 066 Uig Umweltinformation Tracking Aktuali.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ifg 063 Uig Umweltinformation Widerspruch Baue, Ifg 064 Uig Umweltinformation Klage Vorbereite, Ifg 065 Uig Umweltinformation Presseantwort Na, Ifg 066 Uig Umweltinformation Tracking Aktuali
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ifg-065-uig-umweltinformation-presseantwort-na` | Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Presseantwort nachfassen. Presseantwort nachfassen für UIG Umweltinformation im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ifg-066-uig-umweltinformation-tracking-aktuali` | Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Tracking aktualisieren. Tracking aktualisieren für UIG Umweltinformation im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ifg 063 Uig Umweltinformation Widerspruch Baue, Ifg 064 Uig Umweltinformation Klage Vorbereite, Ifg 065 Uig Umweltinformation Presseantwort Na, Ifg 066 Uig Umweltinformation Tracking Aktuali** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

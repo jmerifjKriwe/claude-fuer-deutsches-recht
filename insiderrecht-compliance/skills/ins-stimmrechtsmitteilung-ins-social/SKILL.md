@@ -1,6 +1,6 @@
 ---
 name: ins-stimmrechtsmitteilung-ins-social
-description: "Ins 040 Stimmrechtsmitteilung, Ins 042 Social Media Leak: Ins 040 Stimmrechtsmitteilung; Ins 042 Social Media Leak. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ins 040 Stimmrechtsmitteilung, Ins 042 Social Media Leak im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 040 Stimmrechtsmitteilung, Ins 042 Social Media Leak prüfen.; Erstelle eine Arbeitsfassung zu Ins 040 Stimmrechtsmitteilung, Ins 042 Social Media Leak.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ins 040 Stimmrechtsmitteilung, Ins 042 Social Media Leak
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ins-040-stimmrechtsmitteilung` | Koordiniert Stimmrechtsmitteilungen nach §§ 33 ff. WpHG mit MAR-Insiderrecht: Schwellenberechnungen, Meldefristen und Insider-Trading-Risiken bei Paketkauf. |
 | `ins-042-social-media-leak` | Reagiert auf Social-Media-Leaks (Twitter/X, LinkedIn, Reddit): Kursrelevanz-Bewertung, Ad-hoc-Pflicht, Nichtoeffentlichkeit und forensische Dokumentation. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ins 040 Stimmrechtsmitteilung, Ins 042 Social Media Leak** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insiderrecht-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

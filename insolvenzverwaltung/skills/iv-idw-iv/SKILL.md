@@ -1,6 +1,6 @@
 ---
 name: iv-idw-iv
-description: "Iv Idw S6 Sanierungsfaehigkeit Gate, Iv Kommandocenter: Iv Idw S6 Sanierungsfaehigkeit Gate; Iv Kommandocenter. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Iv Idw S6 Sanierungsfaehigkeit Gate, Iv Kommandocenter im Plugin Insolvenzverwaltung konkret bearbeitet werden soll. Auslöser: Bitte Iv Idw S6 Sanierungsfaehigkeit Gate, Iv Kommandocenter prüfen.; Erstelle eine Arbeitsfassung zu Iv Idw S6 Sanierungsfaehigkeit Gate, Iv Kommandocenter.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Iv Idw S6 Sanierungsfaehigkeit Gate, Iv Kommandocenter
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `iv-idw-s6-sanierungsfaehigkeit-gate` | Prüft aus Insolvenzverwalter-, Sachwalter- oder vorläufiger Verwalterperspektive, ob ein Sanierungskonzept auf IDW-S-6-Niveau tragfähig ist. Kernbestandteile: Unternehmenslage, Krisenstadium, Krisenursachen, Leitbild des sanierten Unternehmens, Maßnahmenpaket, integrierte GuV-/Bilanz-/Liquiditätsplanung, Fortbestehensprognose, Dokumentation und Red-Team-Gaps. Output: Sanierungsfähigkeitsvermerk, Lückenliste, Datenanforderung und Go/No-go-Ampel. |
 | `iv-kommandocenter` | Einstiegspunkt für neue Insolvenzverwaltungsmandate: Verfahrensart bestimmen Prioritaeten setzen naechste Workstreams planen. §§ 56 80 InsO Verwalterbestellung § 270d Schutzschirm StaRUG. Prüfraster: Verfahrensrolle Sicherungsmassnahmen Betriebsfortführung Masseampel Fristen. Output: Verfahrenskarte Beteiligtenregister Risiko-Priorisierung To-do-Liste. Abgrenzung: Einstieg und Triage; Detailarbeit je Workstream in Spezialist-Skills. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Iv Idw S6 Sanierungsfaehigkeit Gate, Iv Kommandocenter** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzverwaltung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

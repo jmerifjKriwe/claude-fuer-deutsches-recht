@@ -1,6 +1,6 @@
 ---
 name: ins-employee-ins-schulung
-description: "Ins 014 Employee Stock Plan, Ins 016 Schulung Policy: Ins 014 Employee Stock Plan; Ins 016 Schulung Policy. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ins 014 Employee Stock Plan, Ins 016 Schulung Policy im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 014 Employee Stock Plan, Ins 016 Schulung Policy prüfen.; Erstelle eine Arbeitsfassung zu Ins 014 Employee Stock Plan, Ins 016 Schulung Policy.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ins 014 Employee Stock Plan, Ins 016 Schulung Policy
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ins-014-employee-stock-plan` | Prueft Mitarbeiteraktienprogramme (ESOP, LTIP, RSU) auf insiderrechtliche Risiken: Closed Periods, Handelsverbote, automatische Plaene und Befreiungsmoeglichkeiten. |
 | `ins-016-schulung-policy` | Entwirft und aktualisiert Insider-Compliance-Richtlinien, Schulungsprogramme und Nachweise fuer Emittenten aller Groessen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ins 014 Employee Stock Plan, Ins 016 Schulung Policy** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insiderrecht-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

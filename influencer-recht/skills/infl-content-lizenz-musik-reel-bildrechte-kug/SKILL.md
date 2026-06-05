@@ -1,6 +1,6 @@
 ---
 name: infl-content-lizenz-musik-reel-bildrechte-kug
-description: "Infl 012 Content Lizenz Nutzungsdauer Media Buyout Whitelisting, Infl 013 Musik Im Reel Urheberrecht Plattformlizenz Gema, Infl 014 Bildrechte Kug Beiwerk Oeffentlichkeit: Infl 012 Content Lizenz Nutzungsdauer Media Buyout Whitelisting; Infl 013 Musik Im Reel Urheberrecht Plattformlizenz Gema; Infl 014 Bildrechte Kug Beiwerk Oeffentlichkeit. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Infl 012 Content Lizenz Nutzungsdauer Media Buyout Whitelisting, Infl 013 Musik Im Reel Urheberrecht Plattformlizenz Gema, Infl 014 Bildrechte Kug Beiwerk Oeffentlichkeit im Plugin Influencer Recht konkret bearbeitet werden soll. Auslöser: Bitte Infl 012 Content Lizenz Nutzungsdauer Media Buyout Whitelisting, Infl 013 Musik Im Reel Urheberrecht Plattformlizenz Gema, Infl 014 Bildrechte Kug Beiwerk Oeffentlichkeit prüfen.; Erstelle eine Arbeitsfassung zu Infl 012 Content Lizenz Nutzungsdauer Media Buyout Whitelisting, Infl 013 Musik Im Reel Urheberrecht Plattformlizenz Gema, Infl 014 Bildrechte Kug Beiwerk Oeffentlichkeit.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Infl 012 Content Lizenz Nutzungsdauer Media Buyout Whitelisting, Infl 013 Musik Im Reel Urheberrecht Plattformlizenz Gema, Infl 014 Bildrechte Kug Beiwerk Oeffentlichkeit
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `infl-013-musik-im-reel-urheberrecht-plattformlizenz-gema` | Influencer-Recht: Musik in Reels und Videos – Urheberrecht, GEMA, Plattformlizenzen, kommerzielle Nutzung und Haftungsrisiken. |
 | `infl-014-bildrechte-kug-beiwerk-oeffentlichkeit` | Influencer-Recht: Recht am eigenen Bild – KUG, Einwilligung, Beiwerk, Öffentlichkeit, Personen im Hintergrund und Haftungsrisiken. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Infl 012 Content Lizenz Nutzungsdauer Media Buyout Whitelisting, Infl 013 Musik Im Reel Urheberrecht Plattformlizenz Gema, Infl 014 Bildrechte Kug Beiwerk Oeffentlichkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `influencer-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: ifg-vig-ifg-vig-ifg-vig-ifg-vig-02
-description: "Ifg 072 Vig Lebensmittel Und Produkte Drittanh, Ifg 073 Vig Lebensmittel Und Produkte Widerspr, Ifg 074 Vig Lebensmittel Und Produkte Klage Vo, Ifg 075 Vig Lebensmittel Und Produkte Pressean: Ifg 072 Vig Lebensmittel Und Produkte Drittanh; Ifg 073 Vig Lebensmittel Und Produkte Widerspr; Ifg 074 Vig Lebensmittel Und Produkte Klage Vo; Ifg 075 Vig Lebensmittel Und Produkte Pressean. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ifg 072 Vig Lebensmittel Und Produkte Drittanh, Ifg 073 Vig Lebensmittel Und Produkte Widerspr, Ifg 074 Vig Lebensmittel Und Produkte Klage Vo, Ifg 075 Vig Lebensmittel Und Produkte Pressean im Plugin Informationsfreiheit Presseauskunft konkret bearbeitet werden soll. Auslöser: Bitte Ifg 072 Vig Lebensmittel Und Produkte Drittanh, Ifg 073 Vig Lebensmittel Und Produkte Widerspr, Ifg 074 Vig Lebensmittel Und Produkte Klage Vo, Ifg 075 Vig Lebensmittel Und Produkte Pressean prüfen.; Erstelle eine Arbeitsfassung zu Ifg 072 Vig Lebensmittel Und Produkte Drittanh, Ifg 073 Vig Lebensmittel Und Produkte Widerspr, Ifg 074 Vig Lebensmittel Und Produkte Klage Vo, Ifg 075 Vig Lebensmittel Und Produkte Pressean.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ifg 072 Vig Lebensmittel Und Produkte Drittanh, Ifg 073 Vig Lebensmittel Und Produkte Widerspr, Ifg 074 Vig Lebensmittel Und Produkte Klage Vo, Ifg 075 Vig Lebensmittel Und Produkte Pressean
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ifg-074-vig-lebensmittel-und-produkte-klage-vo` | Informationsfreiheit und Presseauskunft: VIG Lebensmittel und Produkte: Klage vorbereiten. Klage vorbereiten für VIG Lebensmittel und Produkte im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ifg-075-vig-lebensmittel-und-produkte-pressean` | Informationsfreiheit und Presseauskunft: VIG Lebensmittel und Produkte: Presseantwort nachfassen. Presseantwort nachfassen für VIG Lebensmittel und Produkte im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ifg 072 Vig Lebensmittel Und Produkte Drittanh, Ifg 073 Vig Lebensmittel Und Produkte Widerspr, Ifg 074 Vig Lebensmittel Und Produkte Klage Vo, Ifg 075 Vig Lebensmittel Und Produkte Pressean** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

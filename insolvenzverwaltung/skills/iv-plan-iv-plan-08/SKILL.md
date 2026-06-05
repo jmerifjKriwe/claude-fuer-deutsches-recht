@@ -1,6 +1,6 @@
 ---
 name: iv-plan-iv-plan-08
-description: "Iv Plan Sanierungskonzept, Iv Plan Sicherheiten Drittsicherheiten: Iv Plan Sanierungskonzept; Iv Plan Sicherheiten Drittsicherheiten. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Iv Plan Sanierungskonzept, Iv Plan Sicherheiten Drittsicherheiten im Plugin Insolvenzverwaltung konkret bearbeitet werden soll. Auslöser: Bitte Iv Plan Sanierungskonzept, Iv Plan Sicherheiten Drittsicherheiten prüfen.; Erstelle eine Arbeitsfassung zu Iv Plan Sanierungskonzept, Iv Plan Sicherheiten Drittsicherheiten.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Iv Plan Sanierungskonzept, Iv Plan Sicherheiten Drittsicherheiten
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `iv-plan-sanierungskonzept` | Sanierungskonzept als wirtschaftliche Grundlage für Insolvenzplan oder StaRUG erstellen oder prüfen. §§ 220 229 InsO §§ 6 14 StaRUG Fortbestehensfähigkeit. Prüfraster: Unternehmenslage, Krisenstadium, Krisenursachen, Leitbild, Maßnahmenpakete, Stakeholderbeiträge, integrierte GuV-/Bilanz-/Liquiditätsplanung, Dokumentation und Plausibilitätsbrücken. Output: Sanierungskonzept-Gliederung, Maßnahmenplan, Lückenliste, Management Summary. Abgrenzung: Detailmodellierung in iv-plan-integrierte-planung; Sanierungsfähigkeits-Gate in iv-idw-s6-sanierungsfaehigkeit-gate. |
 | `iv-plan-sicherheiten-drittsicherheiten` | Absonderungsrechte und Drittsicherheiten im Insolvenzplan und StaRUG planfest behandeln und Ausfallwerte bestimmen. §§ 49 50 51 224 InsO Absonderung § 2 Abs. 4 StaRUG Drittsicherheiten. Prüfraster: Sicherheitenregister Eingriffsbeschreibung Ausfallwertrechnung Finanzsicherheiten unzulässige Eingriffe. Output: Sicherheitenregister Ausfallwertrechnung Drittsicherheitenmodul. Abgrenzung: nicht für allgemeine Gruppenbildung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Iv Plan Sanierungskonzept, Iv Plan Sicherheiten Drittsicherheiten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzverwaltung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

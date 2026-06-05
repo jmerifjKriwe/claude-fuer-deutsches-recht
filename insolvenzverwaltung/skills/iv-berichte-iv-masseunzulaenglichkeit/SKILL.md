@@ -1,6 +1,6 @@
 ---
 name: iv-berichte-iv-masseunzulaenglichkeit
-description: "Iv Berichte Gericht Glaeubiger, Iv Masseunzulaenglichkeit 208: Iv Berichte Gericht Glaeubiger; Iv Masseunzulaenglichkeit 208. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Iv Berichte Gericht Glaeubiger, Iv Masseunzulaenglichkeit 208 im Plugin Insolvenzverwaltung konkret bearbeitet werden soll. Auslöser: Bitte Iv Berichte Gericht Glaeubiger, Iv Masseunzulaenglichkeit 208 prüfen.; Erstelle eine Arbeitsfassung zu Iv Berichte Gericht Glaeubiger, Iv Masseunzulaenglichkeit 208.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Iv Berichte Gericht Glaeubiger, Iv Masseunzulaenglichkeit 208
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `iv-berichte-gericht-glaeubiger` | Zwischenberichte Sachstandsberichte und Beschlussvorlagen für Insolvenzgericht Gläubiger­ausschuss und Gläubiger­versammlung erstellen. §§ 58 66 79 InsO Berichtspflichten. Prüfraster: Stichtag Massestand Tabelle Verwertung Prozesse Personal Steuern Risiken. Output: strukturierter Bericht Entscheidungsvorlage Ampelbericht. Abgrenzung: nicht für Schlussbericht und Schlussrechnung (iv-verteilung-schlussrechnung). |
 | `iv-masseunzulaenglichkeit-208` | Masseunzulaenglichkeit anzeigen und Zahlungsrangfolge steuern wenn Masseverbindlichkeiten nicht für alle ausreichen. § 208 InsO §§ 53 54 InsO Massekosten. Prüfraster: Ist- oder Prognoseunzulaenglichkeit Alt- und Neumasseverbindlichkeiten Zahlungsstopp Kommunikation. Output: Anzeige an Gericht Rangfolgeliste Massnahmenplan. Abgrenzung: nicht für allgemeine Masseberechnung oder Schlussverteilung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Iv Berichte Gericht Glaeubiger, Iv Masseunzulaenglichkeit 208** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzverwaltung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

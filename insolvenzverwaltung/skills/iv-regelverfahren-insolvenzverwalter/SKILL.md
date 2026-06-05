@@ -1,6 +1,6 @@
 ---
 name: iv-regelverfahren-insolvenzverwalter
-description: "Iv Regelverfahren Eroeffnung, Spezial Insolvenzverwalter Fristen Form Und Zustaendigkeit: Iv Regelverfahren Eroeffnung; Spezial Insolvenzverwalter Fristen Form Und Zustaendigkeit. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Iv Regelverfahren Eroeffnung, Spezial Insolvenzverwalter Fristen Form Und Zustaendigkeit im Plugin Insolvenzverwaltung konkret bearbeitet werden soll. Auslöser: Bitte Iv Regelverfahren Eroeffnung, Spezial Insolvenzverwalter Fristen Form Und Zustaendigkeit prüfen.; Erstelle eine Arbeitsfassung zu Iv Regelverfahren Eroeffnung, Spezial Insolvenzverwalter Fristen Form Und Zustaendigkeit.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Iv Regelverfahren Eroeffnung, Spezial Insolvenzverwalter Fristen Form Und Zustaendigkeit
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `iv-regelverfahren-eroeffnung` | Regelinsolvenzverfahren nach Eroffnungsbeschluss umsetzen: Besitzuebergang Masse Tabelle Berichtstermin Verwertung. §§ 80 148 149 InsO §§ 151 ff. InsO Masseberechnung. Prüfraster: Verfuegungsbefugnis Bekanntmachungen Leistungssperren Massekonto Tabellenvorbereitung erste Verwertung. Output: Verfahrensplan Masseregister Tabellenstruktur. Abgrenzung: nicht für Eroeffnungsgutachten (iv-eroeffnungsgutachten) oder Abschlussphase. |
 | `spezial-insolvenzverwalter-fristen-form-und-zustaendigkeit` | Insolvenzverwalter: Fristen, Form, Zuständigkeit und Rechtsweg im Insolvenzverwaltung: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/SGB III), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Iv Regelverfahren Eroeffnung, Spezial Insolvenzverwalter Fristen Form Und Zustaendigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzverwaltung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

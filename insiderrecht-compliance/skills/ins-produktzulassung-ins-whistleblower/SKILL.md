@@ -1,6 +1,6 @@
 ---
 name: ins-produktzulassung-ins-whistleblower
-description: "Ins 026 Produktzulassung, Ins 028 Whistleblower Meldung: Ins 026 Produktzulassung; Ins 028 Whistleblower Meldung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ins 026 Produktzulassung, Ins 028 Whistleblower Meldung im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 026 Produktzulassung, Ins 028 Whistleblower Meldung prüfen.; Erstelle eine Arbeitsfassung zu Ins 026 Produktzulassung, Ins 028 Whistleblower Meldung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ins 026 Produktzulassung, Ins 028 Whistleblower Meldung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ins-026-produktzulassung` | Prueft Insiderinformations-Entstehung bei regulatorischen Produktzulassungen (Pharma, Medtech, Energie): Zwischenschritte, Kursrelevanz und Timing der Ad-hoc. |
 | `ins-028-whistleblower-meldung` | Verarbeitet Whistleblower-Hinweise mit Insiderrecht-Bezug: Entgegennahme, Pruefung, Eskalation und MAR-Folgen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ins 026 Produktzulassung, Ins 028 Whistleblower Meldung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insiderrecht-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

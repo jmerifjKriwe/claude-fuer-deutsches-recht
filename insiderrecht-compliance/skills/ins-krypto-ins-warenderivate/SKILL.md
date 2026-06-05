@@ -1,6 +1,6 @@
 ---
 name: ins-krypto-ins-warenderivate
-description: "Ins 035 Krypto Token, Ins 036 Warenderivate: Ins 035 Krypto Token; Ins 036 Warenderivate. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ins 035 Krypto Token, Ins 036 Warenderivate im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 035 Krypto Token, Ins 036 Warenderivate prüfen.; Erstelle eine Arbeitsfassung zu Ins 035 Krypto Token, Ins 036 Warenderivate.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ins 035 Krypto Token, Ins 036 Warenderivate
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ins-035-krypto-token` | Prueft Anwendbarkeit von MAR auf Krypto-Token und Asset-Referenced Token: MiCA-Abgrenzung, Insiderrecht fuer Krypto-Assets und Marktmanipulationsverbote. |
 | `ins-036-warenderivate` | Prueft Insiderrecht und Marktmanipulationsverbot fuer Warenderivate: MAR-Anwendungsbereich, Spot-Market-Verzahnung und REMIT fuer Energiemaerkte. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ins 035 Krypto Token, Ins 036 Warenderivate** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insiderrecht-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

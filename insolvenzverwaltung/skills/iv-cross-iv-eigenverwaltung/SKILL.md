@@ -1,6 +1,6 @@
 ---
 name: iv-cross-iv-eigenverwaltung
-description: "Iv Cross Border Assets Trustee Registervollzug, Iv Eigenverwaltung Sachwaltung: Iv Cross Border Assets Trustee Registervollzug; Iv Eigenverwaltung Sachwaltung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Iv Cross Border Assets Trustee Registervollzug, Iv Eigenverwaltung Sachwaltung im Plugin Insolvenzverwaltung konkret bearbeitet werden soll. Auslöser: Bitte Iv Cross Border Assets Trustee Registervollzug, Iv Eigenverwaltung Sachwaltung prüfen.; Erstelle eine Arbeitsfassung zu Iv Cross Border Assets Trustee Registervollzug, Iv Eigenverwaltung Sachwaltung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Iv Cross Border Assets Trustee Registervollzug, Iv Eigenverwaltung Sachwaltung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `iv-cross-border-assets-trustee-registervollzug` | Insolvenzverwaltung bei Cross-Border-Assets: ausländischer trustee, debtor in possession oder monitor verwertet deutsche GmbH-Anteile, Grundstücke oder Forderungen; Anerkennung, Inzidentprüfung, Register- und Grundbuchvollzug. |
 | `iv-eigenverwaltung-sachwaltung` | Sachwalter­kontrolle und Schnittstellenmanagement bei Eigenverwaltung nach §§ 270 ff. InsO. §§ 270 274 275 InsO Sachwalterbefugnisse und Kontrollrechte. Prüfraster: Rollenabgrenzung Finanzplankontrolle Rechnungslegung Anfechtung Haftung Gläubigerinformation. Output: Sachwalterberichte Beanstandungsschreiben Haftungsnotiz. Abgrenzung: nicht für Schutzschirm (iv-schutzschirm-270d) oder Planverfahren (iv-plan-kommandocenter). |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Iv Cross Border Assets Trustee Registervollzug, Iv Eigenverwaltung Sachwaltung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzverwaltung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

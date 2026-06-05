@@ -1,6 +1,6 @@
 ---
 name: ifap-pruefentscheidung-vbuh
-description: "Ifap Kommandocenter, Ifap Pruefentscheidung, Ifap Vbuh Prüfung: Ifap Kommandocenter; Ifap Pruefentscheidung; Ifap Vbuh Prüfung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ifap Kommandocenter, Ifap Pruefentscheidung, Ifap Vbuh Prüfung im Plugin Insolvenzforderungsanmeldungspruefung konkret bearbeitet werden soll. Auslöser: Bitte Ifap Kommandocenter, Ifap Pruefentscheidung, Ifap Vbuh Prüfung prüfen.; Erstelle eine Arbeitsfassung zu Ifap Kommandocenter, Ifap Pruefentscheidung, Ifap Vbuh Prüfung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ifap Kommandocenter, Ifap Pruefentscheidung, Ifap Vbuh Prüfung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ifap-pruefentscheidung` | Prüfentscheidung Forderung festzustellen oder zu bestreiten: Anwendungsfall nach abgeschlossener Prüfung trifft Insolvenzverwalter Entscheidung über Feststellung Teilfeststellung Bestreiten oder Rückstellung. § 176 InsO Prüfungstermin, § 178 InsO Feststellungswirkung Bestreiten Tabelle. Prüfraster alle Belege verarbeitet, Besteuerungsgrundlage, Rang, vbuH, plausible Bestreitungsgründe. Output Prüfentscheidungsprotokoll mit Begründung und tabellenreifer Status. Abgrenzung zu Quality-Gate für Vollständigkeitsprüfung und zu Prüfungstermin-176. |
 | `ifap-vbuh-pruefung` | Vorsätzlich begangene unerlaubte Handlung und Steuerstraftat in Insolvenzanmeldung prüfen: Anwendungsfall Gläubiger meldet Forderung mit Kennzeichnung als vbuH vorsaetzliche unerlaubte Handlung Unterhaltspflichtverletzung oder Steuerstraftat an was Restschuldbefreiung blockiert. §§ 302 Nr. 1 InsO vbuH, § 850f Abs. 2 ZPO, §§ 174 InsO. Prüfraster Tatsachengrundlage vbuH prüfen, Streitigkeit vorbereiten, Restschuldbefreiungsrelevanz einordnen, Schuldnerwiderspruch antizipieren. Output vbuH-Prüfungsprotokoll mit Begründungsanforderungen. Abgrenzung zu Rang-Nachrang und zu Prüfentscheidung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ifap Kommandocenter, Ifap Pruefentscheidung, Ifap Vbuh Prüfung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzforderungsanmeldungspruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

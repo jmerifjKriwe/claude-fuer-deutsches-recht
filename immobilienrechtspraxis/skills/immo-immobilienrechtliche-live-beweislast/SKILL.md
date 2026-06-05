@@ -1,6 +1,6 @@
 ---
 name: immo-immobilienrechtliche-live-beweislast
-description: "Spezial Immo Abschlussprodukt Und Übergabe, Spezial Immobilienrechtliche Tatbestand Beweis Und Belege, Spezial Live Beweislast Und Darlegungslast: Spezial Immo Abschlussprodukt Und Übergabe; Spezial Immobilienrechtliche Tatbestand Beweis Und Belege; Spezial Live Beweislast Und Darlegungslast. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Immo Abschlussprodukt Und Übergabe, Spezial Immobilienrechtliche Tatbestand Beweis Und Belege, Spezial Live Beweislast Und Darlegungslast im Plugin Immobilienrechtspraxis konkret bearbeitet werden soll. Auslöser: Bitte Spezial Immo Abschlussprodukt Und Übergabe, Spezial Immobilienrechtliche Tatbestand Beweis Und Belege, Spezial Live Beweislast Und Darlegungslast prüfen.; Erstelle eine Arbeitsfassung zu Spezial Immo Abschlussprodukt Und Übergabe, Spezial Immobilienrechtliche Tatbestand Beweis Und Belege, Spezial Live Beweislast Und Darlegungslast.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Immo Abschlussprodukt Und Übergabe, Spezial Immobilienrechtliche Tatbestand Beweis Und Belege, Spezial Live Beweislast Und Darlegungslast
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-immobilienrechtliche-tatbestand-beweis-und-belege` | Immobilienrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin immobilienrechtspraxis; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-live-beweislast-und-darlegungslast` | Live: Beweislast, Darlegungslast und Substantiierung im Plugin immobilienrechtspraxis; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Immo Abschlussprodukt Und Übergabe, Spezial Immobilienrechtliche Tatbestand Beweis Und Belege, Spezial Live Beweislast Und Darlegungslast** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `immobilienrechtspraxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

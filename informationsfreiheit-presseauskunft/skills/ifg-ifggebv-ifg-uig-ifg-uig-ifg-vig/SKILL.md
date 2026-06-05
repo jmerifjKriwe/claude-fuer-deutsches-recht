@@ -1,6 +1,6 @@
 ---
 name: ifg-ifggebv-ifg-uig-ifg-uig-ifg-vig
-description: "Ifg 049 Ifggebv Gebühren Frist Setzen, Ifg 058 Uig Umweltinformation Zustaendigkeit P, Ifg 059 Uig Umweltinformation Frist Setzen, Ifg 069 Vig Lebensmittel Und Produkte Frist Se: Ifg 049 Ifggebv Gebühren Frist Setzen; Ifg 058 Uig Umweltinformation Zustaendigkeit P; Ifg 059 Uig Umweltinformation Frist Setzen; Ifg 069 Vig Lebensmittel Und Produkte Frist Se. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ifg 049 Ifggebv Gebühren Frist Setzen, Ifg 058 Uig Umweltinformation Zustaendigkeit P, Ifg 059 Uig Umweltinformation Frist Setzen, Ifg 069 Vig Lebensmittel Und Produkte Frist Se im Plugin Informationsfreiheit Presseauskunft konkret bearbeitet werden soll. Auslöser: Bitte Ifg 049 Ifggebv Gebühren Frist Setzen, Ifg 058 Uig Umweltinformation Zustaendigkeit P, Ifg 059 Uig Umweltinformation Frist Setzen, Ifg 069 Vig Lebensmittel Und Produkte Frist Se prüfen.; Erstelle eine Arbeitsfassung zu Ifg 049 Ifggebv Gebühren Frist Setzen, Ifg 058 Uig Umweltinformation Zustaendigkeit P, Ifg 059 Uig Umweltinformation Frist Setzen, Ifg 069 Vig Lebensmittel Und Produkte Frist Se.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ifg 049 Ifggebv Gebühren Frist Setzen, Ifg 058 Uig Umweltinformation Zustaendigkeit P, Ifg 059 Uig Umweltinformation Frist Setzen, Ifg 069 Vig Lebensmittel Und Produkte Frist Se
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ifg-059-uig-umweltinformation-frist-setzen` | Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Frist setzen. Frist setzen für UIG Umweltinformation im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ifg-069-vig-lebensmittel-und-produkte-frist-se` | Informationsfreiheit und Presseauskunft: VIG Lebensmittel und Produkte: Frist setzen. Frist setzen für VIG Lebensmittel und Produkte im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ifg 049 Ifggebv Gebühren Frist Setzen, Ifg 058 Uig Umweltinformation Zustaendigkeit P, Ifg 059 Uig Umweltinformation Frist Setzen, Ifg 069 Vig Lebensmittel Und Produkte Frist Se** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

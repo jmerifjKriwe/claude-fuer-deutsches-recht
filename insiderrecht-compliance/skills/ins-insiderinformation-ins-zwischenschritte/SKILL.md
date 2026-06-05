@@ -1,6 +1,6 @@
 ---
 name: ins-insiderinformation-ins-zwischenschritte
-description: "Ins 001 Insiderinformation Art7, Ins 002 Zwischenschritte Ma: Ins 001 Insiderinformation Art7; Ins 002 Zwischenschritte Ma. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ins 001 Insiderinformation Art7, Ins 002 Zwischenschritte Ma im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 001 Insiderinformation Art7, Ins 002 Zwischenschritte Ma prüfen.; Erstelle eine Arbeitsfassung zu Ins 001 Insiderinformation Art7, Ins 002 Zwischenschritte Ma.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ins 001 Insiderinformation Art7, Ins 002 Zwischenschritte Ma
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ins-001-insiderinformation-art7` | Prueft alle vier Tatbestandsmerkmale der Insiderinformation nach Art. 7 MAR: Praezision, Nichtoeffentlichkeit, Emittenten-/Instrumentenbezug, Kursrelevanz. |
 | `ins-002-zwischenschritte-ma` | Analysiert Insiderinformation bei mehrstufigen Prozessen (M&A, Restrukturierung) nach dem EuGH-Geltl/Daimler-Standard fuer Zwischenschritte. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ins 001 Insiderinformation Art7, Ins 002 Zwischenschritte Ma** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insiderrecht-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

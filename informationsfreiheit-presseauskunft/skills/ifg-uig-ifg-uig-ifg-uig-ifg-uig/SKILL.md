@@ -1,6 +1,6 @@
 ---
 name: ifg-uig-ifg-uig-ifg-uig-ifg-uig
-description: "Ifg 057 Uig Umweltinformation Antrag Formulier, Ifg 060 Uig Umweltinformation Kosten Deckeln, Ifg 061 Uig Umweltinformation Schwaerzung Angr, Ifg 062 Uig Umweltinformation Drittanhoerung B: Ifg 057 Uig Umweltinformation Antrag Formulier; Ifg 060 Uig Umweltinformation Kosten Deckeln; Ifg 061 Uig Umweltinformation Schwaerzung Angr; Ifg 062 Uig Umweltinformation Drittanhoerung B. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ifg 057 Uig Umweltinformation Antrag Formulier, Ifg 060 Uig Umweltinformation Kosten Deckeln, Ifg 061 Uig Umweltinformation Schwaerzung Angr, Ifg 062 Uig Umweltinformation Drittanhoerung B im Plugin Informationsfreiheit Presseauskunft konkret bearbeitet werden soll. Auslöser: Bitte Ifg 057 Uig Umweltinformation Antrag Formulier, Ifg 060 Uig Umweltinformation Kosten Deckeln, Ifg 061 Uig Umweltinformation Schwaerzung Angr, Ifg 062 Uig Umweltinformation Drittanhoerung B prüfen.; Erstelle eine Arbeitsfassung zu Ifg 057 Uig Umweltinformation Antrag Formulier, Ifg 060 Uig Umweltinformation Kosten Deckeln, Ifg 061 Uig Umweltinformation Schwaerzung Angr, Ifg 062 Uig Umweltinformation Drittanhoerung B.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ifg 057 Uig Umweltinformation Antrag Formulier, Ifg 060 Uig Umweltinformation Kosten Deckeln, Ifg 061 Uig Umweltinformation Schwaerzung Angr, Ifg 062 Uig Umweltinformation Drittanhoerung B
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ifg-061-uig-umweltinformation-schwaerzung-angr` | Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Schwärzung angreifen. Schwärzung angreifen für UIG Umweltinformation im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ifg-062-uig-umweltinformation-drittanhoerung-b` | Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Drittanhörung begleiten. Drittanhörung begleiten für UIG Umweltinformation im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ifg 057 Uig Umweltinformation Antrag Formulier, Ifg 060 Uig Umweltinformation Kosten Deckeln, Ifg 061 Uig Umweltinformation Schwaerzung Angr, Ifg 062 Uig Umweltinformation Drittanhoerung B** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `informationsfreiheit-presseauskunft` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

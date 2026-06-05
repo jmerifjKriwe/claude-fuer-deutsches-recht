@@ -1,6 +1,6 @@
 ---
 name: ins-roadshow-ins-dual
-description: "Ins 033 Roadshow, Ins 034 Dual Listed Issuer: Ins 033 Roadshow; Ins 034 Dual Listed Issuer. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ins 033 Roadshow, Ins 034 Dual Listed Issuer im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 033 Roadshow, Ins 034 Dual Listed Issuer prüfen.; Erstelle eine Arbeitsfassung zu Ins 033 Roadshow, Ins 034 Dual Listed Issuer.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ins 033 Roadshow, Ins 034 Dual Listed Issuer
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ins-033-roadshow` | Sichert Roadshows (Kapitalmarkt, Pre-IPO, M&A) gegen MAR-Risiken: Praesentation-Screening, Selective Disclosure, Insider-Free-Periods und Wall-Crossing. |
 | `ins-034-dual-listed-issuer` | Koordiniert MAR-Pflichten fuer Dual-Listed-Emittenten: parallele Ad-hoc-Pflichten, Sprachfassungen, Zeitzonenkonflikte und multiple Regulatoren. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ins 033 Roadshow, Ins 034 Dual Listed Issuer** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insiderrecht-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

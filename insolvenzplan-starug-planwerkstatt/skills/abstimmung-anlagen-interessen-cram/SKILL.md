@@ -1,6 +1,6 @@
 ---
 name: abstimmung-anlagen-interessen-cram
-description: "Spezial Abstimmung Internationaler Bezug Und Schnittstellen, Spezial Anlagen Mehrparteien Konflikt Und Interessen, Spezial Cram Formular Portal Und Einreichung: Spezial Abstimmung Internationaler Bezug Und Schnittstellen; Spezial Anlagen Mehrparteien Konflikt Und Interessen; Spezial Cram Formular Portal Und Einreichung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Abstimmung Internationaler Bezug Und Schnittstellen, Spezial Anlagen Mehrparteien Konflikt Und Interessen, Spezial Cram Formular Portal Und Einreichung im Plugin Insolvenzplan Starug Planwerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Spezial Abstimmung Internationaler Bezug Und Schnittstellen, Spezial Anlagen Mehrparteien Konflikt Und Interessen, Spezial Cram Formular Portal Und Einreichung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Abstimmung Internationaler Bezug Und Schnittstellen, Spezial Anlagen Mehrparteien Konflikt Und Interessen, Spezial Cram Formular Portal Und Einreichung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Abstimmung Internationaler Bezug Und Schnittstellen, Spezial Anlagen Mehrparteien Konflikt Und Interessen, Spezial Cram Formular Portal Und Einreichung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-anlagen-mehrparteien-konflikt-und-interessen` | Anlagen: Mehrparteienkonflikt und Interessenmatrix im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-cram-formular-portal-und-einreichung` | Cram: Formular, Portal und Einreichungslogik im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Abstimmung Internationaler Bezug Und Schnittstellen, Spezial Anlagen Mehrparteien Konflikt Und Interessen, Spezial Cram Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzplan-starug-planwerkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

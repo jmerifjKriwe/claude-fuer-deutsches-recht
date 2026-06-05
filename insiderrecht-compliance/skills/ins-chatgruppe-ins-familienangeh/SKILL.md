@@ -1,6 +1,6 @@
 ---
 name: ins-chatgruppe-ins-familienangeh
-description: "Ins 043 Chatgruppe Trading, Ins 044 Familienangeh Rige: Ins 043 Chatgruppe Trading; Ins 044 Familienangeh Rige. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ins 043 Chatgruppe Trading, Ins 044 Familienangeh Rige im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 043 Chatgruppe Trading, Ins 044 Familienangeh Rige prüfen.; Erstelle eine Arbeitsfassung zu Ins 043 Chatgruppe Trading, Ins 044 Familienangeh Rige.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ins 043 Chatgruppe Trading, Ins 044 Familienangeh Rige
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ins-043-chatgruppe-trading` | Prueft Insiderhandel und Marktmanipulation in Messenger-Chat-Gruppen: Tatbestandsmerkmale, Beweis-Fragen und strafrechtliche Risiken nach § 119 WpHG. |
 | `ins-044-familienangeh-rige` | Prueft Handelsverbote und Meldepflichten fuer Familienangehoerige und nahestehende Personen von PDMRs: Wissenszurechnung, Art. 19 MAR, Tipping-Risiko. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ins 043 Chatgruppe Trading, Ins 044 Familienangeh Rige** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insiderrecht-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

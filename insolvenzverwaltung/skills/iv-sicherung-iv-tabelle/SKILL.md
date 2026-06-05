@@ -1,6 +1,6 @@
 ---
 name: iv-sicherung-iv-tabelle
-description: "Iv Sicherung Betriebsfortfuehrung, Iv Tabelle Pruefungstermin: Iv Sicherung Betriebsfortfuehrung; Iv Tabelle Pruefungstermin. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Iv Sicherung Betriebsfortfuehrung, Iv Tabelle Pruefungstermin im Plugin Insolvenzverwaltung konkret bearbeitet werden soll. Auslöser: Bitte Iv Sicherung Betriebsfortfuehrung, Iv Tabelle Pruefungstermin prüfen.; Erstelle eine Arbeitsfassung zu Iv Sicherung Betriebsfortfuehrung, Iv Tabelle Pruefungstermin.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Iv Sicherung Betriebsfortfuehrung, Iv Tabelle Pruefungstermin
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `iv-sicherung-betriebsfortfuehrung` | Betrieb in Insolvenz fortführen wenn Massemehrung oder Sanierung geplant ist und Lohn Lieferanten und Auftraege gesichert werden muessen. §§ 22 55 InsO Massebegrundung §§ 113 120 InsO Arbeitsverhältnisse. Prüfraster: Fortführungsziel Cash-Bridge Insolvenzgeldzeitraum kritische Lieferanten operative Risiken. Output: Fortführungsplan Liquiditaetsplan Risikoliste. Abgrenzung: nicht für Personalrecht (iv-arbeitsrecht-insolvenzgeld). |
 | `iv-tabelle-pruefungstermin` | Insolvenztabelle konsolidieren und Prüfungstermin nach §§ 175 ff. InsO vorbereiten. §§ 175 176 177 InsO Tabellenführung und Widersprueche. Prüfraster: Tabellenbereinigung Doubletten Rang Zinsen Widersprueche nach Grund Betrag Rang Terminmappe. Output: Terminmappe Widerspruchserklärungen Feststellungsantrag. Abgrenzung: nicht für Forderungsanmeldungsprüfung (iv-forderungsanmeldung-prüfung). |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Iv Sicherung Betriebsfortfuehrung, Iv Tabelle Pruefungstermin** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzverwaltung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

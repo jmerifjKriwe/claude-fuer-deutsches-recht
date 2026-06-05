@@ -1,6 +1,6 @@
 ---
 name: ins-handelsverbot-ins-unlawful
-description: "Ins 006 Handelsverbot Art14, Ins 007 Unlawful Disclosure: Ins 006 Handelsverbot Art14; Ins 007 Unlawful Disclosure. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ins 006 Handelsverbot Art14, Ins 007 Unlawful Disclosure im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 006 Handelsverbot Art14, Ins 007 Unlawful Disclosure prüfen.; Erstelle eine Arbeitsfassung zu Ins 006 Handelsverbot Art14, Ins 007 Unlawful Disclosure.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ins 006 Handelsverbot Art14, Ins 007 Unlawful Disclosure
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ins-006-handelsverbot-art14` | Prueft Insiderhandelsverbot nach Art. 14 MAR, abgrenzt Wissen von Absicht, analysiert Safe-Harbour-Ausnahmen und stellt Verteidigungsdokumentation sicher. |
 | `ins-007-unlawful-disclosure` | Prueft unzulaessige Offenlegung von Insiderinformationen nach Art. 10 MAR und grenzt sie von zulaessiger Informationsweitergabe (Market Sounding, Beratung, M&A) ab. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ins 006 Handelsverbot Art14, Ins 007 Unlawful Disclosure** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insiderrecht-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

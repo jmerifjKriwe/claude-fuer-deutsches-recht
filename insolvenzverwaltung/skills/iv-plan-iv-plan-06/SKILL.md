@@ -1,6 +1,6 @@
 ---
 name: iv-plan-iv-plan-06
-description: "Iv Plan Integrierte Planung, Iv Plan Kommandocenter: Iv Plan Integrierte Planung; Iv Plan Kommandocenter. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Iv Plan Integrierte Planung, Iv Plan Kommandocenter im Plugin Insolvenzverwaltung konkret bearbeitet werden soll. Auslöser: Bitte Iv Plan Integrierte Planung, Iv Plan Kommandocenter prüfen.; Erstelle eine Arbeitsfassung zu Iv Plan Integrierte Planung, Iv Plan Kommandocenter.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Iv Plan Integrierte Planung, Iv Plan Kommandocenter
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `iv-plan-integrierte-planung` | Integrierte Planrechnung aus GuV, Liquidität und Bilanz für Insolvenzplan, StaRUG oder Sanierungskonzept erstellen. §§ 220 229 InsO Finanzplanung § 14 StaRUG. Prüfraster: Ist-Zahlen, Planannahmen, Maßnahmenwirkung, Base Case, Downside, Stressszenarien, Working Capital, Steuer-/Zinseffekte, Brückenrechnung und Annahmenregister. Output: Planungsmodell, Szenariovergleich, Maßnahmen-Brücke, Lückenliste. Abgrenzung: nicht für Vergleichsrechnung (iv-plan-vergleichsrechnung) oder Konzepttext. |
 | `iv-plan-kommandocenter` | Insolvenzplan- oder StaRUG-Mandat starten Verfahrensroute bestimmen Ampelstatus setzen. §§ 217 218 InsO §§ 29 ff. StaRUG. Prüfraster: Rolle Verfahrensziel Datenraumstand Zahlenstand Stakeholder Fristen naechste Aktion. Output: Startvermerk Datenlückenliste priorisierte To-do-Liste. Abgrenzung: Triage und Steuerung; Detailarbeit in iv-plan-Spezialist-Skills. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Iv Plan Integrierte Planung, Iv Plan Kommandocenter** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzverwaltung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

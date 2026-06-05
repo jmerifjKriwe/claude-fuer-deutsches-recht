@@ -1,6 +1,6 @@
 ---
 name: ins-aufschubentscheidung-ins-market
-description: "Ins 004 Aufschubentscheidung, Ins 008 Market Sounding: Ins 004 Aufschubentscheidung; Ins 008 Market Sounding. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ins 004 Aufschubentscheidung, Ins 008 Market Sounding im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 004 Aufschubentscheidung, Ins 008 Market Sounding prüfen.; Erstelle eine Arbeitsfassung zu Ins 004 Aufschubentscheidung, Ins 008 Market Sounding.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ins 004 Aufschubentscheidung, Ins 008 Market Sounding
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ins-004-aufschubentscheidung` | Prueft die drei Aufschubvoraussetzungen nach Art. 17 Abs. 4 MAR, dokumentiert die Aufschubakte und steuert die Aufhebungspflicht. |
 | `ins-008-market-sounding` | Steuert Market-Sounding-Prozesse nach Art. 11 MAR und DVO 2016/960: Vorab-Formalia, Wall-Crossing, Protokollierung und Wall-Down-Management. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ins 004 Aufschubentscheidung, Ins 008 Market Sounding** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insiderrecht-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

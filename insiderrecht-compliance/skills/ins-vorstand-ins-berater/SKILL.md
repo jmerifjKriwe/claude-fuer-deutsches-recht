@@ -1,6 +1,6 @@
 ---
 name: ins-vorstand-ins-berater
-description: "Ins 012 Vorstand Aufsichtsrat, Ins 013 Berater Kanzlei Bank: Ins 012 Vorstand Aufsichtsrat; Ins 013 Berater Kanzlei Bank. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ins 012 Vorstand Aufsichtsrat, Ins 013 Berater Kanzlei Bank im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 012 Vorstand Aufsichtsrat, Ins 013 Berater Kanzlei Bank prüfen.; Erstelle eine Arbeitsfassung zu Ins 012 Vorstand Aufsichtsrat, Ins 013 Berater Kanzlei Bank.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ins 012 Vorstand Aufsichtsrat, Ins 013 Berater Kanzlei Bank
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ins-012-vorstand-aufsichtsrat` | Prueft Insiderrecht-Pflichten von Vorstand und Aufsichtsrat: Wissenszurechnung, Geschaeftsordnungspflichten, AktG-Beziehung und Haftungsrisiken. |
 | `ins-013-berater-kanzlei-bank` | Prueft insiderrechtliche Pflichten externer Berater (Anwaelte, WPs, Banken): Insiderliste, Handelsverbot, Chinesische Mauern und Haftungsrisiken. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ins 012 Vorstand Aufsichtsrat, Ins 013 Berater Kanzlei Bank** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insiderrecht-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

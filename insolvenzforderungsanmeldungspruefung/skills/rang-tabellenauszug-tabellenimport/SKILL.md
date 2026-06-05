@@ -1,6 +1,6 @@
 ---
 name: rang-tabellenauszug-tabellenimport
-description: "Spezial Rang Schriftsatz Brief Und Memo Bausteine, Spezial Tabellenauszug Formular Portal Und Einreichung, Spezial Tabellenimport Zahlen Schwellen Und Berechnung: Spezial Rang Schriftsatz Brief Und Memo Bausteine; Spezial Tabellenauszug Formular Portal Und Einreichung; Spezial Tabellenimport Zahlen Schwellen Und Berechnung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Rang Schriftsatz Brief Und Memo Bausteine, Spezial Tabellenauszug Formular Portal Und Einreichung, Spezial Tabellenimport Zahlen Schwellen Und Berechnung im Plugin Insolvenzforderungsanmeldungspruefung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Rang Schriftsatz Brief Und Memo Bausteine, Spezial Tabellenauszug Formular Portal Und Einreichung, Spezial Tabellenimport Zahlen Schwellen Und Berechnung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Rang Schriftsatz Brief Und Memo Bausteine, Spezial Tabellenauszug Formular Portal Und Einreichung, Spezial Tabellenimport Zahlen Schwellen Und Berechnung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Rang Schriftsatz Brief Und Memo Bausteine, Spezial Tabellenauszug Formular Portal Und Einreichung, Spezial Tabellenimport Zahlen Schwellen Und Berechnung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-tabellenauszug-formular-portal-und-einreichung` | Tabellenauszug: Formular, Portal und Einreichungslogik im Forderungsprüfung: fachlich vertiefter Spezialskill mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-tabellenimport-zahlen-schwellen-und-berechnung` | Tabellenimport: Zahlen, Schwellenwerte und Berechnung im Forderungsprüfung: fachlich vertiefter Spezialskill mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Rang Schriftsatz Brief Und Memo Bausteine, Spezial Tabellenauszug Formular Portal Und Einreichung, Spezial Tabellenimport Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzforderungsanmeldungspruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

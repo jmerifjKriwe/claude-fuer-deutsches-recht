@@ -1,6 +1,6 @@
 ---
 name: ins-esg-ins-lieferkettenereignis
-description: "Ins 051 Esg Schock, Ins 052 Lieferkettenereignis: Ins 051 Esg Schock; Ins 052 Lieferkettenereignis. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ins 051 Esg Schock, Ins 052 Lieferkettenereignis im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 051 Esg Schock, Ins 052 Lieferkettenereignis prüfen.; Erstelle eine Arbeitsfassung zu Ins 051 Esg Schock, Ins 052 Lieferkettenereignis.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ins 051 Esg Schock, Ins 052 Lieferkettenereignis
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ins-051-esg-schock` | Prueft Insiderinformations-Qualitaet und Ad-hoc-Pflicht bei ESG-Schockereignissen (Umweltvorfaelle, Governance-Skandale, Social-Misstaende). |
 | `ins-052-lieferkettenereignis` | Prueft Insiderinformations-Qualitaet und Ad-hoc-Pflicht bei wesentlichen Lieferkettenereignissen (Lieferantenausfall, Rohstoffengpass, Geopolitik). |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ins 051 Esg Schock, Ins 052 Lieferkettenereignis** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insiderrecht-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 
