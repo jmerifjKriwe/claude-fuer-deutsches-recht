@@ -1,6 +1,6 @@
 ---
 name: abmahnung-bezuege-designg
-description: "Spezial Abmahnung Formular Portal Und Einreichung, Spezial Bezuege Zahlen Schwellen Und Berechnung, Spezial Designg Behörden Gericht Und Registerweg: Spezial Abmahnung Formular Portal Und Einreichung; Spezial Bezuege Zahlen Schwellen Und Berechnung; Spezial Designg Behörden Gericht Und Registerweg. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Abmahnung Formular Portal Und Einreichung, Spezial Bezuege Zahlen Schwellen Und Berechnung, Spezial Designg Behörden Gericht Und Registerweg im Plugin Fachanwalt Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Spezial Abmahnung Formular Portal Und Einreichung, Spezial Bezuege Zahlen Schwellen Und Berechnung, Spezial Designg Behörden Gericht Und Registerweg prüfen.; Erstelle eine Arbeitsfassung zu Spezial Abmahnung Formular Portal Und Einreichung, Spezial Bezuege Zahlen Schwellen Und Berechnung, Spezial Designg Behörden Gericht Und Registerweg.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Abmahnung Formular Portal Und Einreichung, Spezial Bezuege Zahlen Schwellen Und Berechnung, Spezial Designg Behörden Gericht Und Registerweg
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-bezuege-zahlen-schwellen-und-berechnung` | Streitwerte, Gebühren, Schwellenwerte und Berechnungen im gewerblichen Rechtsschutz: Streitwertrahmen Marke/Patent/Design/UWG, RVG-Gebühren, Gerichtskosten GKG, Schadensersatzberechnung (drei Methoden), DPMA/EUIPO-Gebührentabellen, Vertragsstrafe. |
 | `spezial-designg-behoerden-gericht-und-registerweg` | DesignG: Behörden, Gerichte und Registerwege. DPMA-Anmeldung, EUIPO-GGM, Nichtigkeitsverfahren, Registerrecherche, Zuständigkeitsverteilung zwischen DPMA und Designgerichten, Musterschutzklage, Rechtsmittelwege. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Abmahnung Formular Portal Und Einreichung, Spezial Bezuege Zahlen Schwellen Und Berechnung, Spezial Designg Behörden Gericht Und Registerweg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

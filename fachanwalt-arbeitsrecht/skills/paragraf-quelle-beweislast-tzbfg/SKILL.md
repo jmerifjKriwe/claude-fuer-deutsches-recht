@@ -1,6 +1,6 @@
 ---
 name: paragraf-quelle-beweislast-tzbfg
-description: "Spezial Paragraf Dokumentenmatrix Und Lueckenliste, Spezial Quelle Beweislast Und Darlegungslast, Spezial Tzbfg Schriftsatz Brief Und Memo Bausteine: Spezial Paragraf Dokumentenmatrix Und Lueckenliste; Spezial Quelle Beweislast Und Darlegungslast; Spezial Tzbfg Schriftsatz Brief Und Memo Bausteine. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Paragraf Dokumentenmatrix Und Lueckenliste, Spezial Quelle Beweislast Und Darlegungslast, Spezial Tzbfg Schriftsatz Brief Und Memo Bausteine im Plugin Fachanwalt Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Paragraf Dokumentenmatrix Und Lueckenliste, Spezial Quelle Beweislast Und Darlegungslast, Spezial Tzbfg Schriftsatz Brief Und Memo Bausteine prüfen.; Erstelle eine Arbeitsfassung zu Spezial Paragraf Dokumentenmatrix Und Lueckenliste, Spezial Quelle Beweislast Und Darlegungslast, Spezial Tzbfg Schriftsatz Brief Und Memo Bausteine.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Paragraf Dokumentenmatrix Und Lueckenliste, Spezial Quelle Beweislast Und Darlegungslast, Spezial Tzbfg Schriftsatz Brief Und Memo Bausteine
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-quelle-beweislast-und-darlegungslast` | Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht: abgestufte Darlegungslast BAG-Linie, Normenübersicht zu Beweislastverteilungen, Umkehr nach AGG § 22, zulässige und unzulässige Fundstellen, Quellenprotokoll für Schriftsätze. |
 | `spezial-tzbfg-schriftsatz-brief-und-memo-bausteine` | TzBfG Schriftsatz-, Brief- und Memo-Bausteine: Klageschrift Entfristungsklage § 17 TzBfG, Klageantrag, Sachverhaltsaufbau, Beweisangebote, Mandantenbrief zur Befristungsbeendigung, Arbeitgeberantwortbrief, Vergleichsformel. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Paragraf Dokumentenmatrix Und Lueckenliste, Spezial Quelle Beweislast Und Darlegungslast, Spezial Tzbfg Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

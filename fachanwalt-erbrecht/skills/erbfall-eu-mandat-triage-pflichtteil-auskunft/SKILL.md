@@ -1,6 +1,6 @@
 ---
 name: erbfall-eu-mandat-triage-pflichtteil-auskunft
-description: "Internationaler Erbfall Eu Erbvo, Mandat Triage Erbrecht, Pflichtteil Auskunft Wertermittlung: Internationaler Erbfall Eu Erbvo; Mandat Triage Erbrecht; Pflichtteil Auskunft Wertermittlung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Internationaler Erbfall Eu Erbvo, Mandat Triage Erbrecht, Pflichtteil Auskunft Wertermittlung im Plugin Fachanwalt Erbrecht konkret bearbeitet werden soll. Auslöser: Bitte Internationaler Erbfall Eu Erbvo, Mandat Triage Erbrecht, Pflichtteil Auskunft Wertermittlung prüfen.; Erstelle eine Arbeitsfassung zu Internationaler Erbfall Eu Erbvo, Mandat Triage Erbrecht, Pflichtteil Auskunft Wertermittlung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Internationaler Erbfall Eu Erbvo, Mandat Triage Erbrecht, Pflichtteil Auskunft Wertermittlung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `mandat-triage-erbrecht` | Erbrechtsmandat schnell einordnen und Sofortmassnahmen bestimmen. §§ 1922 1944 2303 BGB §§ 342 ff. FamFG. Prüfraster: Erbfolge Testament Ausschlagungsfrist Pflichtteil Nachlassinsolvenz. Output: Triage-Memo Sofortmassnahmen Fristen-Ampel. Abgrenzung: Triage; Detailarbeit in Spezialist-Skills. |
 | `pflichtteil-auskunft-wertermittlung` | Pflichtteil: Auskunft, notarielles Nachlassverzeichnis, Wertermittlung, Ergänzung und taktische Stufenklage.; Normanker: BGB §§ 2303 und 2314 und 2325; ZPO Stufenklage; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Internationaler Erbfall Eu Erbvo, Mandat Triage Erbrecht, Pflichtteil Auskunft Wertermittlung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-erbrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

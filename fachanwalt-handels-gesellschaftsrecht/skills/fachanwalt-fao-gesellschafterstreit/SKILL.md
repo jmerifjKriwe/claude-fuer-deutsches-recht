@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-fao-gesellschafterstreit
-description: "Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Fao Dokumentenmatrix Und Lueckenliste, Spezial Gesellschafterstreit Compliance Dokumentation Und Akte: Spezial Fachanwalt Erstpruefung Und Mandatsziel; Spezial Fao Dokumentenmatrix Und Lueckenliste; Spezial Gesellschafterstreit Compliance Dokumentation Und Akte. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Fao Dokumentenmatrix Und Lueckenliste, Spezial Gesellschafterstreit Compliance Dokumentation Und Akte im Plugin Fachanwalt Handels Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Fao Dokumentenmatrix Und Lueckenliste, Spezial Gesellschafterstreit Compliance Dokumentation Und Akte prüfen.; Erstelle eine Arbeitsfassung zu Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Fao Dokumentenmatrix Und Lueckenliste, Spezial Gesellschafterstreit Compliance Dokumentation Und Akte.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Fao Dokumentenmatrix Und Lueckenliste, Spezial Gesellschafterstreit Compliance Dokumentation Und Akte
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-fao-dokumentenmatrix-und-lueckenliste` | FAO: Dokumentenmatrix, Lückenliste und Nachforderung im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-gesellschafterstreit-compliance-dokumentation-und-akte` | Gesellschafterstreit: Compliance-Dokumentation und Aktenvermerk im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Fao Dokumentenmatrix Und Lueckenliste, Spezial Gesellschafterstreit Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-handels-gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

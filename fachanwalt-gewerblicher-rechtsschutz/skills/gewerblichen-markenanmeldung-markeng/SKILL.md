@@ -1,6 +1,6 @@
 ---
 name: gewerblichen-markenanmeldung-markeng
-description: "Spezial Gewerblichen Tatbestand Beweis Und Belege, Spezial Markenanmeldung Compliance Dokumentation Und Akte, Spezial Markeng Risikoampel Und Gegenargumente: Spezial Gewerblichen Tatbestand Beweis Und Belege; Spezial Markenanmeldung Compliance Dokumentation Und Akte; Spezial Markeng Risikoampel Und Gegenargumente. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Gewerblichen Tatbestand Beweis Und Belege, Spezial Markenanmeldung Compliance Dokumentation Und Akte, Spezial Markeng Risikoampel Und Gegenargumente im Plugin Fachanwalt Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Spezial Gewerblichen Tatbestand Beweis Und Belege, Spezial Markenanmeldung Compliance Dokumentation Und Akte, Spezial Markeng Risikoampel Und Gegenargumente prüfen.; Erstelle eine Arbeitsfassung zu Spezial Gewerblichen Tatbestand Beweis Und Belege, Spezial Markenanmeldung Compliance Dokumentation Und Akte, Spezial Markeng Risikoampel Und Gegenargumente.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Gewerblichen Tatbestand Beweis Und Belege, Spezial Markenanmeldung Compliance Dokumentation Und Akte, Spezial Markeng Risikoampel Und Gegenargumente
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-markenanmeldung-compliance-dokumentation-und-akte` | Markenanmeldung: Compliance, Dokumentation und Aktenführung. Vor-Anmeldungs-Recherche, Klassifikation (Nizza), DPMA/EUIPO-Formulare, Anmeldeakte, Vollmachten, Fristen-Tracking, Benutzungsnachweis-Vorsorge, Markenpolitik-Dokumentation. |
 | `spezial-markeng-risikoampel-und-gegenargumente` | MarkenG: Risikoampel und Gegenargumente. Verwechslungsgefahr § 9 MarkenG, Erschöpfung § 24 MarkenG, Nichtbenutzungseinrede § 26, relative Schutzhindernisse, Gegenrechte bei Abmahnung, Verteidigungslinien und Prüfmatrix. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Gewerblichen Tatbestand Beweis Und Belege, Spezial Markenanmeldung Compliance Dokumentation Und Akte, Spezial Markeng Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

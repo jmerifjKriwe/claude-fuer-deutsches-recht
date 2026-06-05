@@ -1,6 +1,6 @@
 ---
 name: krypto-wallet-erbschaftsteuer-steuerrecht
-description: "Fachanwalt Erbrecht Krypto Wallet Nachlass Multisig, Spezial Erbschaftsteuer Verhandlung Vergleich Und Eskalation, Spezial Steuerrecht Compliance Dokumentation Und Akte: Fachanwalt Erbrecht Krypto Wallet Nachlass Multisig; Spezial Erbschaftsteuer Verhandlung Vergleich Und Eskalation; Spezial Steuerrecht Compliance Dokumentation Und Akte. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Fachanwalt Erbrecht Krypto Wallet Nachlass Multisig, Spezial Erbschaftsteuer Verhandlung Vergleich Und Eskalation, Spezial Steuerrecht Compliance Dokumentation Und Akte im Plugin Fachanwalt Erbrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Erbrecht Krypto Wallet Nachlass Multisig, Spezial Erbschaftsteuer Verhandlung Vergleich Und Eskalation, Spezial Steuerrecht Compliance Dokumentation Und Akte prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Erbrecht Krypto Wallet Nachlass Multisig, Spezial Erbschaftsteuer Verhandlung Vergleich Und Eskalation, Spezial Steuerrecht Compliance Dokumentation Und Akte.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Fachanwalt Erbrecht Krypto Wallet Nachlass Multisig, Spezial Erbschaftsteuer Verhandlung Vergleich Und Eskalation, Spezial Steuerrecht Compliance Dokumentation Und Akte
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-erbschaftsteuer-verhandlung-vergleich-und-eskalation` | Erbschaftsteuer: Verhandlung, Vergleich und Eskalation im Erbrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-steuerrecht-compliance-dokumentation-und-akte` | Steuerrecht: Compliance-Dokumentation und Aktenvermerk im Erbrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Fachanwalt Erbrecht Krypto Wallet Nachlass Multisig, Spezial Erbschaftsteuer Verhandlung Vergleich Und Eskalation, Spezial Steuerrecht Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-erbrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

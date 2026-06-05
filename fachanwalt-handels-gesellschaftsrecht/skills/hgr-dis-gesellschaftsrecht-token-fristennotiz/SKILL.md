@@ -1,6 +1,6 @@
 ---
 name: hgr-dis-gesellschaftsrecht-token-fristennotiz
-description: "Fachanwalt Hgr Dis Schiedsverfahren Streit, Spezial Gesellschaftsrecht Fristen Form Und Zustaendigkeit, Spezial Token Fristennotiz Und Naechster Schritt: Fachanwalt Hgr Dis Schiedsverfahren Streit; Spezial Gesellschaftsrecht Fristen Form Und Zustaendigkeit; Spezial Token Fristennotiz Und Naechster Schritt. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Fachanwalt Hgr Dis Schiedsverfahren Streit, Spezial Gesellschaftsrecht Fristen Form Und Zustaendigkeit, Spezial Token Fristennotiz Und Naechster Schritt im Plugin Fachanwalt Handels Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Hgr Dis Schiedsverfahren Streit, Spezial Gesellschaftsrecht Fristen Form Und Zustaendigkeit, Spezial Token Fristennotiz Und Naechster Schritt prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Hgr Dis Schiedsverfahren Streit, Spezial Gesellschaftsrecht Fristen Form Und Zustaendigkeit, Spezial Token Fristennotiz Und Naechster Schritt.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Fachanwalt Hgr Dis Schiedsverfahren Streit, Spezial Gesellschaftsrecht Fristen Form Und Zustaendigkeit, Spezial Token Fristennotiz Und Naechster Schritt
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-gesellschaftsrecht-fristen-form-und-zustaendigkeit` | Gesellschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-token-fristennotiz-und-naechster-schritt` | Token: Fristennotiz und nächster Schritt im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Fachanwalt Hgr Dis Schiedsverfahren Streit, Spezial Gesellschaftsrecht Fristen Form Und Zustaendigkeit, Spezial Token Fristennotiz Und Naechster Schritt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-handels-gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

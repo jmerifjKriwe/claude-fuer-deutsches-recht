@@ -1,6 +1,6 @@
 ---
 name: betriebsrat-betrvg-datum
-description: "Spezial Betriebsrat Zahlen Schwellen Und Berechnung, Spezial Betrvg Behörden Gericht Und Registerweg, Spezial Datum Formular Portal Und Einreichung: Spezial Betriebsrat Zahlen Schwellen Und Berechnung; Spezial Betrvg Behörden Gericht Und Registerweg; Spezial Datum Formular Portal Und Einreichung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Betriebsrat Zahlen Schwellen Und Berechnung, Spezial Betrvg Behörden Gericht Und Registerweg, Spezial Datum Formular Portal Und Einreichung im Plugin Fachanwalt Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Betriebsrat Zahlen Schwellen Und Berechnung, Spezial Betrvg Behörden Gericht Und Registerweg, Spezial Datum Formular Portal Und Einreichung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Betriebsrat Zahlen Schwellen Und Berechnung, Spezial Betrvg Behörden Gericht Und Registerweg, Spezial Datum Formular Portal Und Einreichung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Betriebsrat Zahlen Schwellen Und Berechnung, Spezial Betrvg Behörden Gericht Und Registerweg, Spezial Datum Formular Portal Und Einreichung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-betrvg-behoerden-gericht-und-registerweg` | BetrVG: Behörden, Gerichte und Registerwege — Beschlussverfahren §§ 80 ff. ArbGG, Einigungsstelle §§ 76 BetrVG, Wahlanfechtung § 19 BetrVG, Zustimmungsersetzung § 99 Abs. 4 BetrVG, Beteiligte im Beschlussverfahren, zuständige Kammer. |
 | `spezial-datum-formular-portal-und-einreichung` | Datum, Formular, Portal und Einreichung im arbeitsrechtlichen Verfahren: Fristenkalender, elektronische Einreichung ERV/beA, Gerichtsportale Arbeitsgericht, Formulare Klage ArbG, Antragsformulare ELAN-K2, Massenentlassung-Anzeige, BA-Formulare. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Betriebsrat Zahlen Schwellen Und Berechnung, Spezial Betrvg Behörden Gericht Und Registerweg, Spezial Datum Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

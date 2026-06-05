@@ -1,6 +1,6 @@
 ---
 name: allgemein-gr-abmahnung-gr-portfolio
-description: "Allgemein, Gr Abmahnung Workflow, Gr Portfolio Pflege Workflow: Allgemein; Gr Abmahnung Workflow; Gr Portfolio Pflege Workflow. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Allgemein, Gr Abmahnung Workflow, Gr Portfolio Pflege Workflow im Plugin Fachanwalt Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Allgemein, Gr Abmahnung Workflow, Gr Portfolio Pflege Workflow prüfen.; Erstelle eine Arbeitsfassung zu Allgemein, Gr Abmahnung Workflow, Gr Portfolio Pflege Workflow.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Allgemein, Gr Abmahnung Workflow, Gr Portfolio Pflege Workflow
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `gr-abmahnung-workflow` | Workflow Abmahnung im gewerblichen Rechtsschutz: Berechtigung, Vollmacht, konkrete Verletzungsform, Anspruch, Frist, Unterlassungserklärung modifiziert annehmen. Prüfraster für Markenrecht, Patentrecht, Designrecht, UWG und UrhG. Mustertexte. |
 | `gr-portfolio-pflege-workflow` | Schutzrechtsportfolio-Pflege: Jahresgebühren-Fristenplan, Verlängerungsfristen Marke/Patent/Design/Gebrauchsmuster, Löschungsrisiken, DPMA-Statusabfrage, Portfolioaudit, Kostenoptimierung und strategische Aufgabe von Schutzrechten. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Allgemein, Gr Abmahnung Workflow, Gr Portfolio Pflege Workflow** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

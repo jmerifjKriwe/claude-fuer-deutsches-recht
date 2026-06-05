@@ -1,6 +1,6 @@
 ---
 name: entgtranspg-fachanwalt-kschg
-description: "Spezial Entgtranspg Verhandlung Vergleich Und Eskalation, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Kschg Risikoampel Und Gegenargumente: Spezial Entgtranspg Verhandlung Vergleich Und Eskalation; Spezial Fachanwalt Erstpruefung Und Mandatsziel; Spezial Kschg Risikoampel Und Gegenargumente. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Entgtranspg Verhandlung Vergleich Und Eskalation, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Kschg Risikoampel Und Gegenargumente im Plugin Fachanwalt Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Entgtranspg Verhandlung Vergleich Und Eskalation, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Kschg Risikoampel Und Gegenargumente prüfen.; Erstelle eine Arbeitsfassung zu Spezial Entgtranspg Verhandlung Vergleich Und Eskalation, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Kschg Risikoampel Und Gegenargumente.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Entgtranspg Verhandlung Vergleich Und Eskalation, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Kschg Risikoampel Und Gegenargumente
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt Erstprüfung und Mandatsziel: systematische Erstaufnahme im arbeitsrechtlichen Mandat, Rollenklärung, Zielformulierung, Interessenkonflikt-Check, Mandatsumfang, Kostenhinweis RVG, erste Risikoampel. |
 | `spezial-kschg-risikoampel-und-gegenargumente` | KSchG Risikoampel: systematische Bewertung der Kündigung nach betriebsbedingten, personenbedingten und verhaltensbedingten Gründen, Sozialauswahl, BR-Anhörung, Massenentlassung — Grün/Gelb/Rot mit Gegenargumenten und nächstem Handgriff. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Entgtranspg Verhandlung Vergleich Und Eskalation, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Kschg Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

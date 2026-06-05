@@ -1,6 +1,6 @@
 ---
 name: befristung-fao-unwirksam-fristennotiz
-description: "Spezial Befristung Compliance Dokumentation Und Akte, Spezial Fao Fristen Form Und Zustaendigkeit, Spezial Unwirksam Fristennotiz Und Naechster Schritt: Spezial Befristung Compliance Dokumentation Und Akte; Spezial Fao Fristen Form Und Zustaendigkeit; Spezial Unwirksam Fristennotiz Und Naechster Schritt. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Befristung Compliance Dokumentation Und Akte, Spezial Fao Fristen Form Und Zustaendigkeit, Spezial Unwirksam Fristennotiz Und Naechster Schritt im Plugin Fachanwalt Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Befristung Compliance Dokumentation Und Akte, Spezial Fao Fristen Form Und Zustaendigkeit, Spezial Unwirksam Fristennotiz Und Naechster Schritt prüfen.; Erstelle eine Arbeitsfassung zu Spezial Befristung Compliance Dokumentation Und Akte, Spezial Fao Fristen Form Und Zustaendigkeit, Spezial Unwirksam Fristennotiz Und Naechster Schritt.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Befristung Compliance Dokumentation Und Akte, Spezial Fao Fristen Form Und Zustaendigkeit, Spezial Unwirksam Fristennotiz Und Naechster Schritt
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-fao-fristen-form-und-zustaendigkeit` | Fachanwalt für Arbeitsrecht (FAO § 10): Verfahrensrecht ArbGG, Zuständigkeit §§ 2 und 2a ArbGG, Urteilsverfahren vs. Beschlussverfahren, Instanzenzug ArbG → LAG → BAG, Fristen § 66 ArbGG Berufung, § 74 ArbGG Revision, Güte- und Kammertermin, Anwaltszwang. |
 | `spezial-unwirksam-fristennotiz-und-naechster-schritt` | Unwirksamkeit erkannt — Fristennotiz und nächster Schritt: sofortige Handlungsanleitung nach erkanntem Unwirksamkeitsgrund (Schriftform, BR-Anhörung, Sonderkündigungsschutz, Massenentlassung, Befristungsfehler) — Fristberechnung, Klageweg und Mandantenkommunikation. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Befristung Compliance Dokumentation Und Akte, Spezial Fao Fristen Form Und Zustaendigkeit, Spezial Unwirksam Fristennotiz Und Naechster Schritt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

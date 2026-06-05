@@ -1,6 +1,6 @@
 ---
 name: lebensversicherung-abgrenzung-mandantenblatt
-description: "Lebensversicherung Abgrenzung Zugewinn Va, Mandantenblatt Versorgungsausgleich In Einfacher Sprache, Mandantenkommunikation Rentenfolgen, Mandat Triage Familienrecht, Nachtraegliche Auskunft Und Vollstreckung: Lebensversicherung Abgrenzung Zugewinn Va; Mandantenblatt Versorgungsausgleich In Einfacher Sprache; Mandantenkommunikation Rentenfolgen; Mandat Triage Familienrecht; Nachtraegliche Auskunft Und Vollstreckung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Lebensversicherung Abgrenzung Zugewinn Va, Mandantenblatt Versorgungsausgleich In Einfacher Sprache, Mandantenkommunikation Rentenfolgen, Mandat Triage Familienrecht, Nachtraegliche Auskunft Und Vollstreckung im Plugin Fachanwalt Familienrecht konkret bearbeitet werden soll. Auslöser: Bitte Lebensversicherung Abgrenzung Zugewinn Va, Mandantenblatt Versorgungsausgleich In Einfacher Sprache, Mandantenkommunikation Rentenfolgen, Mandat Triage Familienrecht, Nachtraegliche Auskunft Und Vollstreckung prüfen.; Erstelle eine Arbeitsfassung zu Lebensversicherung Abgrenzung Zugewinn Va, Mandantenblatt Versorgungsausgleich In Einfacher Sprache, Mandantenkommunikation Rentenfolgen, Mandat Triage Familienrecht, Nachtraegliche Auskunft Und Vollstreckung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Lebensversicherung Abgrenzung Zugewinn Va, Mandantenblatt Versorgungsausgleich In Einfacher Sprache, Mandantenkommunikation Rentenfolgen, Mandat Triage Familienrecht, Nachtraegliche Auskunft Und Vollstreckung
@@ -19,12 +19,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `mandat-triage-familienrecht` | Eingangs-Triage für familienrechtliche Mandate: Routing zu Scheidung, Sorge, Umgang, Unterhalt, Zugewinn oder Versorgungsausgleich. Normen: § 63 FamFG (Beschwerde 1 Monat), § 1600b BGB (Vaterschaftsanfechtung 2 Jahre), § 1666 BGB (Kindeswohlgefaehrdung Eilantrag). Prüfraster: Konflikt-Check, Eilbedürftigkeit (Gewaltschutz, Sorge-Eilantrag), Streitwert, Komplexitaet. Output Triage-Protokoll, Fristen-Ampel, Folge-Skill-Empfehlung. Abgrenzung: Detailberechnung siehe Spezialskills; Schriftsatzkern siehe schriftsatzkern-substantiierung. |
 | `nachtraegliche-auskunft-und-vollstreckung` | Nachträgliche Auskunft und Vollstreckung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Lebensversicherung Abgrenzung Zugewinn Va, Mandantenblatt Versorgungsausgleich In Einfacher Sprache, Mandantenkommunikation Rentenfolgen, Mandat Triage Familienrecht, Nachtraegliche Auskunft Und Vollstreckung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-familienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

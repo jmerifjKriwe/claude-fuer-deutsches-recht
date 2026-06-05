@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-fao-gebrmg
-description: "Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Fao Dokumentenmatrix Und Lueckenliste, Spezial Gebrmg Verhandlung Vergleich Und Eskalation: Spezial Fachanwalt Erstpruefung Und Mandatsziel; Spezial Fao Dokumentenmatrix Und Lueckenliste; Spezial Gebrmg Verhandlung Vergleich Und Eskalation. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Fao Dokumentenmatrix Und Lueckenliste, Spezial Gebrmg Verhandlung Vergleich Und Eskalation im Plugin Fachanwalt Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Fao Dokumentenmatrix Und Lueckenliste, Spezial Gebrmg Verhandlung Vergleich Und Eskalation prüfen.; Erstelle eine Arbeitsfassung zu Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Fao Dokumentenmatrix Und Lueckenliste, Spezial Gebrmg Verhandlung Vergleich Und Eskalation.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Fao Dokumentenmatrix Und Lueckenliste, Spezial Gebrmg Verhandlung Vergleich Und Eskalation
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-fao-dokumentenmatrix-und-lueckenliste` | FAO-Dokumentenmatrix: Nachweise für Fachanwaltschaft gewerblicher Rechtsschutz § 14k FAO. Falllistenführung, Fallgruppen, qualifizierte Fälle, besondere praktische Erfahrungen, Lückenliste, Zulassungsantrag und häufige Fehler. |
 | `spezial-gebrmg-verhandlung-vergleich-und-eskalation` | Gebrauchsmusterrecht: Verhandlung, Vergleich und Eskalation. GebrMG §§ 1–25, Abgrenzung zum Patent, Schutzansprüche, Verletzungsklage, Löschungsverfahren DPMA, Vergleichsoptionen, Eskalationspfade und Kostenabwägung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Fao Dokumentenmatrix Und Lueckenliste, Spezial Gebrmg Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

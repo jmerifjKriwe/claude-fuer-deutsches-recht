@@ -1,6 +1,6 @@
 ---
 name: beamtenrechtliche-kuerzung-beamtenversorgung
-description: "Beamtenrechtliche Kuerzung Und Rueckausnahme, Beamtenversorgung Versorgungsausgleich, Beschwerde Gegen Va Beschluss Famfg, Betriebliche Altersversorgung Direktzusage Pensionskasse Fonds, Ehezeit Bestimmen 3 Versausglg: Beamtenrechtliche Kuerzung Und Rueckausnahme; Beamtenversorgung Versorgungsausgleich; Beschwerde Gegen Va Beschluss Famfg; Betriebliche Altersversorgung Direktzusage Pensionskasse Fonds; Ehezeit Bestimmen 3 Versausglg. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Beamtenrechtliche Kuerzung Und Rueckausnahme, Beamtenversorgung Versorgungsausgleich, Beschwerde Gegen Va Beschluss Famfg, Betriebliche Altersversorgung Direktzusage Pensionskasse Fonds, Ehezeit Bestimmen 3 Versausglg im Plugin Fachanwalt Familienrecht konkret bearbeitet werden soll. Auslöser: Bitte Beamtenrechtliche Kuerzung Und Rueckausnahme, Beamtenversorgung Versorgungsausgleich, Beschwerde Gegen Va Beschluss Famfg, Betriebliche Altersversorgung Direktzusage Pensionskasse Fonds, Ehezeit Bestimmen 3 Versausglg prüfen.; Erstelle eine Arbeitsfassung zu Beamtenrechtliche Kuerzung Und Rueckausnahme, Beamtenversorgung Versorgungsausgleich, Beschwerde Gegen Va Beschluss Famfg, Betriebliche Altersversorgung Direktzusage Pensionskasse Fonds, Ehezeit Bestimmen 3 Versausglg.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Beamtenrechtliche Kuerzung Und Rueckausnahme, Beamtenversorgung Versorgungsausgleich, Beschwerde Gegen Va Beschluss Famfg, Betriebliche Altersversorgung Direktzusage Pensionskasse Fonds, Ehezeit Bestimmen 3 Versausglg
@@ -19,12 +19,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `betriebliche-altersversorgung-direktzusage-pensionskasse-fonds` | Betriebliche Altersversorgung Direktzusage Pensionskasse Fonds: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 | `ehezeit-bestimmen-3-versausglg` | Ehezeit bestimmen § 3 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Beamtenrechtliche Kuerzung Und Rueckausnahme, Beamtenversorgung Versorgungsausgleich, Beschwerde Gegen Va Beschluss Famfg, Betriebliche Altersversorgung Direktzusage Pensionskasse Fonds, Ehezeit Bestimmen 3 Versausglg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-familienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

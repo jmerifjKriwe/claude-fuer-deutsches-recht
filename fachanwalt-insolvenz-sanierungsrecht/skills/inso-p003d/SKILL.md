@@ -1,6 +1,6 @@
 ---
 name: inso-p003d
-description: "Inso P003D Verweisung An Den Gruppen Gerichtsstand: Inso P003D Verweisung An Den Gruppen Gerichtsstand. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Inso P003D Verweisung An Den Gruppen Gerichtsstand im Plugin Fachanwalt Insolvenz Sanierungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Inso P003D Verweisung An Den Gruppen Gerichtsstand prüfen.; Erstelle eine Arbeitsfassung zu Inso P003D Verweisung An Den Gruppen Gerichtsstand.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Inso P003D Verweisung An Den Gruppen Gerichtsstand
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `inso-p003d-verweisung-an-den-gruppen-gerichtsstand` | § 3d InsO (Verweisung an den Gruppen-Gerichtsstand) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Inso P003D Verweisung An Den Gruppen Gerichtsstand** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-insolvenz-sanierungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

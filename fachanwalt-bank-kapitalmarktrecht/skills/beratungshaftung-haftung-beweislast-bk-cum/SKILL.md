@@ -1,6 +1,6 @@
 ---
 name: beratungshaftung-haftung-beweislast-bk-cum
-description: "Spezial Beratungshaftung Zahlen Schwellen Und Berechnung, Spezial Haftung Beweislast Und Darlegungslast, Bk Cum Ex Mandant Strafrecht Spezial: Spezial Beratungshaftung Zahlen Schwellen Und Berechnung; Spezial Haftung Beweislast Und Darlegungslast; Bk Cum Ex Mandant Strafrecht Spezial. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Beratungshaftung Zahlen Schwellen Und Berechnung, Spezial Haftung Beweislast Und Darlegungslast, Bk Cum Ex Mandant Strafrecht Spezial im Plugin Fachanwalt Bank Kapitalmarktrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Beratungshaftung Zahlen Schwellen Und Berechnung, Spezial Haftung Beweislast Und Darlegungslast, Bk Cum Ex Mandant Strafrecht Spezial prüfen.; Erstelle eine Arbeitsfassung zu Spezial Beratungshaftung Zahlen Schwellen Und Berechnung, Spezial Haftung Beweislast Und Darlegungslast, Bk Cum Ex Mandant Strafrecht Spezial.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Beratungshaftung Zahlen Schwellen Und Berechnung, Spezial Haftung Beweislast Und Darlegungslast, Bk Cum Ex Mandant Strafrecht Spezial
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-haftung-beweislast-und-darlegungslast` | Haftung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `bk-cum-ex-mandant-strafrecht-spezial` | Spezialfall Cum-Ex und Cum-Cum Mandate: Steuerstrafrecht § 370 AO, Verjaehrung, Selbstanzeige, Anrechnung KapErtSt. Verhaeltnis zu Schadensersatz und Rueckforderung. Aktuelle BGH-Linie 1 StR 519 / 20 ff. Pruefraster fuer Mandant. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Beratungshaftung Zahlen Schwellen Und Berechnung, Spezial Haftung Beweislast Und Darlegungslast, Bk Cum Ex Mandant Strafrecht Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bank-kapitalmarktrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

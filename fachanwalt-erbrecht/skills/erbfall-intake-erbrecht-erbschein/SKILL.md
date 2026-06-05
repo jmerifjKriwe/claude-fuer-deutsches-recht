@@ -1,6 +1,6 @@
 ---
 name: erbfall-intake-erbrecht-erbschein
-description: "Spezial Erbfall Intake Und Nachlassordnung, Spezial Erbrecht Tatbestand Beweis Und Belege, Spezial Erbschein Behörden Gericht Und Registerweg: Spezial Erbfall Intake Und Nachlassordnung; Spezial Erbrecht Tatbestand Beweis Und Belege; Spezial Erbschein Behörden Gericht Und Registerweg. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Erbfall Intake Und Nachlassordnung, Spezial Erbrecht Tatbestand Beweis Und Belege, Spezial Erbschein Behörden Gericht Und Registerweg im Plugin Fachanwalt Erbrecht konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
 ---
 
 # Spezial Erbfall Intake Und Nachlassordnung, Spezial Erbrecht Tatbestand Beweis Und Belege, Spezial Erbschein Behörden Gericht Und Registerweg
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-erbrecht-tatbestand-beweis-und-belege` | Erbrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Erbrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-erbschein-behoerden-gericht-und-registerweg` | Erbschein: Behörden-, Gerichts- oder Registerweg im Erbrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Erbfall Intake Und Nachlassordnung, Spezial Erbrecht Tatbestand Beweis Und Belege, Spezial Erbschein Behörden Gericht Und Registerweg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-erbrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

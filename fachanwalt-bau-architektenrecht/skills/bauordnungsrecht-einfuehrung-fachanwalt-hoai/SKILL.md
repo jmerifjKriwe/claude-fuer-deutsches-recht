@@ -1,6 +1,6 @@
 ---
 name: bauordnungsrecht-einfuehrung-fachanwalt-hoai
-description: "Spezial Bauordnungsrecht Behörden Gericht Und Registerweg, Spezial Einfuehrung Formular Portal Und Einreichung, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Hoai Risikoampel Und Gegenargumente: Spezial Bauordnungsrecht Behörden Gericht Und Registerweg; Spezial Einfuehrung Formular Portal Und Einreichung; Spezial Fachanwalt Erstpruefung Und Mandatsziel; Spezial Hoai Risikoampel Und Gegenargumente. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Bauordnungsrecht Behörden Gericht Und Registerweg, Spezial Einfuehrung Formular Portal Und Einreichung, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Hoai Risikoampel Und Gegenargumente im Plugin Fachanwalt Bau Architektenrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Bauordnungsrecht Behörden Gericht Und Registerweg, Spezial Einfuehrung Formular Portal Und Einreichung, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Hoai Risikoampel Und Gegenargumente prüfen.; Erstelle eine Arbeitsfassung zu Spezial Bauordnungsrecht Behörden Gericht Und Registerweg, Spezial Einfuehrung Formular Portal Und Einreichung, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Hoai Risikoampel Und Gegenargumente.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Bauordnungsrecht Behörden Gericht Und Registerweg, Spezial Einfuehrung Formular Portal Und Einreichung, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Hoai Risikoampel Und Gegenargumente
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-hoai-risikoampel-und-gegenargumente` | Hoai: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Bauordnungsrecht Behörden Gericht Und Registerweg, Spezial Einfuehrung Formular Portal Und Einreichung, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Hoai Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-kanzlei-livecheck
-description: "Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Kanzlei Internationaler Bezug Und Schnittstellen, Spezial Livecheck Mandantenkommunikation Entscheidungsvorlage: Spezial Fachanwalt Erstpruefung Und Mandatsziel; Spezial Kanzlei Internationaler Bezug Und Schnittstellen; Spezial Livecheck Mandantenkommunikation Entscheidungsvorlage. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Kanzlei Internationaler Bezug Und Schnittstellen, Spezial Livecheck Mandantenkommunikation Entscheidungsvorlage im Plugin Fachanwalt Erbrecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
 ---
 
 # Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Kanzlei Internationaler Bezug Und Schnittstellen, Spezial Livecheck Mandantenkommunikation Entscheidungsvorlage
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-kanzlei-internationaler-bezug-und-schnittstellen` | Kanzlei: Internationaler Bezug und Schnittstellen im Erbrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-livecheck-mandantenkommunikation-entscheidungsvorlage` | Livecheck: Mandantenkommunikation und Entscheidungsvorlage im Erbrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Kanzlei Internationaler Bezug Und Schnittstellen, Spezial Livecheck Mandantenkommunikation Entscheidungsvorlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-erbrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

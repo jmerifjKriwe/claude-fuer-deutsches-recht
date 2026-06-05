@@ -1,6 +1,6 @@
 ---
 name: gmbh-beirat-vergleichsverhandlung-strategie
-description: "Gmbh Beirat Vetorechte Und Organnaehe, Vergleichsverhandlung Strategie: Gmbh Beirat Vetorechte Und Organnaehe; Vergleichsverhandlung Strategie. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Gmbh Beirat Vetorechte Und Organnaehe, Vergleichsverhandlung Strategie im Plugin Fachanwalt Handels Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Gmbh Beirat Vetorechte Und Organnaehe, Vergleichsverhandlung Strategie prüfen.; Erstelle eine Arbeitsfassung zu Gmbh Beirat Vetorechte Und Organnaehe, Vergleichsverhandlung Strategie.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Gmbh Beirat Vetorechte Und Organnaehe, Vergleichsverhandlung Strategie
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `gmbh-beirat-vetorechte-und-organnaehe` | Entwirft und prüft mächtige GmbH-Beiräte mit Zustimmungskatalogen, Informationsrechten, Investorenschutz, Organnähe, Interessenkonflikten und Haftungsbegrenzung. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Handels- und Gesellschaftsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Gmbh Beirat Vetorechte Und Organnaehe, Vergleichsverhandlung Strategie** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-handels-gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

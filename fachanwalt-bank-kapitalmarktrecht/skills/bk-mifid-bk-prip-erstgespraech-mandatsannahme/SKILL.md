@@ -1,6 +1,6 @@
 ---
 name: bk-mifid-bk-prip-erstgespraech-mandatsannahme
-description: "Bk Mifid Suitability Spezial, Bk Prip Kid Fehlerhaft Spezial, Erstgespraech Mandatsannahme: Bk Mifid Suitability Spezial; Bk Prip Kid Fehlerhaft Spezial; Erstgespraech Mandatsannahme. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Bk Mifid Suitability Spezial, Bk Prip Kid Fehlerhaft Spezial, Erstgespraech Mandatsannahme im Plugin Fachanwalt Bank Kapitalmarktrecht konkret bearbeitet werden soll. Auslöser: Bitte Bk Mifid Suitability Spezial, Bk Prip Kid Fehlerhaft Spezial, Erstgespraech Mandatsannahme prüfen.; Erstelle eine Arbeitsfassung zu Bk Mifid Suitability Spezial, Bk Prip Kid Fehlerhaft Spezial, Erstgespraech Mandatsannahme.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Bk Mifid Suitability Spezial, Bk Prip Kid Fehlerhaft Spezial, Erstgespraech Mandatsannahme
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `bk-prip-kid-fehlerhaft-spezial` | Spezialfall PRIIPs-KID fehlerhaft: PRIIPs-VO, Inhalt Basisinformationsblatt, Haftung Hersteller und Vertrieb bei irrefuehrenden Angaben, Pruefung Kosten- und Risikoangabe. Pruefraster und Klagestrategie. |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Bank-, Kapitalmarkt- und Wertpapierrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Bk Mifid Suitability Spezial, Bk Prip Kid Fehlerhaft Spezial, Erstgespraech Mandatsannahme** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bank-kapitalmarktrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 
