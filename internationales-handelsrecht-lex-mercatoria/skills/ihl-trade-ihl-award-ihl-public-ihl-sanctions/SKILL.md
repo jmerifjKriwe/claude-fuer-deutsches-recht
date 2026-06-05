@@ -1,6 +1,6 @@
 ---
 name: ihl-trade-ihl-award-ihl-public-ihl-sanctions
-description: "Ihl 081 Trade Custom Evidence, Ihl 082 Lex Mercatoria In Award, Ihl 083 Public Policy And Mandatory Law, Ihl 084 Sanctions Clause Drafting: Ihl 081 Trade Custom Evidence; Ihl 082 Lex Mercatoria In Award; Ihl 083 Public Policy And Mandatory Law; Ihl 084 Sanctions Clause Drafting. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ihl 081 Trade Custom Evidence, Ihl 082 Lex Mercatoria In Award, Ihl 083 Public Policy And Mandatory Law, Ihl 084 Sanctions Clause Drafting im Plugin Internationales Handelsrecht Lex Mercatoria konkret bearbeitet werden soll. Auslöser: Bitte Ihl 081 Trade Custom Evidence, Ihl 082 Lex Mercatoria In Award, Ihl 083 Public Policy And Mandatory Law, Ihl 084 Sanctions Clause Drafting prüfen.; Erstelle eine Arbeitsfassung zu Ihl 081 Trade Custom Evidence, Ihl 082 Lex Mercatoria In Award, Ihl 083 Public Policy And Mandatory Law, Ihl 084 Sanctions Clause Drafting.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ihl 081 Trade Custom Evidence, Ihl 082 Lex Mercatoria In Award, Ihl 083 Public Policy And Mandatory Law, Ihl 084 Sanctions Clause Drafting
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ihl-083-public-policy-and-mandatory-law` | Internationales Handelsrecht: Ordre public und Eingriffsnormen in der internationalen Schiedsgerichtsbarkeit und im IPR. Unterschied ordre public und Eingriffsnorm, truly international public policy, EU-Kartellrecht als Eingriffsnorm und CISG-Ausschluss durch ordre public. |
 | `ihl-084-sanctions-clause-drafting` | Internationales Handelsrecht: Sanktionsklauseln in internationalen Verträgen. Force-Majeure-Abgrenzung, Kündigungsrecht bei Sanktionierung einer Partei, OFAC-Compliance-Klauseln, EU-Blocking-Statute-Konflikt und Formulierungsempfehlungen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ihl 081 Trade Custom Evidence, Ihl 082 Lex Mercatoria In Award, Ihl 083 Public Policy And Mandatory Law, Ihl 084 Sanctions Clause Drafting** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

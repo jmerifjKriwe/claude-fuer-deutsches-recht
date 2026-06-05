@@ -1,6 +1,6 @@
 ---
 name: qa-kanzleiweit-templating-praxis-verwalter
-description: "Skill Qa Kanzleiweit Spezial, Skill Templating Praxis, Skill Verwalter: Skill Qa Kanzleiweit Spezial; Skill Templating Praxis; Skill Verwalter. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Skill Qa Kanzleiweit Spezial, Skill Templating Praxis, Skill Verwalter im Plugin Kanzlei Builder Hub konkret bearbeitet werden soll. Auslöser: Bitte Skill Qa Kanzleiweit Spezial, Skill Templating Praxis, Skill Verwalter prüfen.; Erstelle eine Arbeitsfassung zu Skill Qa Kanzleiweit Spezial, Skill Templating Praxis, Skill Verwalter.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Skill Qa Kanzleiweit Spezial, Skill Templating Praxis, Skill Verwalter
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `skill-templating-praxis` | Skill-Templating fuer kanzleieigene Vorlagen: vom Schriftsatz-Bauplan zum eigenen Skill mit Platzhaltern, Pruefraster, Quellenregel. Konkrete Step-by-Step-Anleitung mit YAML-Frontmatter, Description-Regeln, Variablen-Erkennung, Ausgaberezept. |
 | `skill-verwalter` | Übersicht und Verwaltung aller installierten Skills: Status, Version, Abhaengigkeiten. Normen: technisch/intern. Prüfraster: aktive Skills, deaktivierte Skills, Update-Bedarf. Output: Skills-Verwaltungsuebersicht. Abgrenzung: nicht Einzelinstallation oder -aktualisierung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Skill Qa Kanzleiweit Spezial, Skill Templating Praxis, Skill Verwalter** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-builder-hub` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: kanzlei-automationen-bea-journal
-description: "Kanzlei Allgemein Automationen, Kanzlei Allgemein Bea Journal: Kanzlei Allgemein Automationen; Kanzlei Allgemein Bea Journal. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Kanzlei Allgemein Automationen, Kanzlei Allgemein Bea Journal im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Kanzlei Allgemein Automationen, Kanzlei Allgemein Bea Journal prüfen.; Erstelle eine Arbeitsfassung zu Kanzlei Allgemein Automationen, Kanzlei Allgemein Bea Journal.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Kanzlei Allgemein Automationen, Kanzlei Allgemein Bea Journal
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kanzlei-allgemein-automationen` | Plant und dokumentiert wiederkehrende Kanzlei-Routinen als sichere automatisierte Ablaeufe. Anwendungsfall Kanzlei will Postlauf Fristencheck UStVA-Vorbereitung oder Payroll automatisieren. Normen Art. 6 Art. 28 Art. 32 DSGVO Auftragsverarbeitung § 43 BRAO. Prüfraster Rechtsgrundlage Freigabe Datenschutzfolgeabschaetzung Art. 35 DSGVO TOM Konflikte mit bestehenden Prozessen. Output Automationsplan mit Triggern Verantwortlichen Freigabeprotokoll und Datenschutznachweis. Abgrenzung zu kanzlei-allgemein-kanzleitag-simulation und kanzlei-allgemein-postlauf. |
 | `kanzlei-allgemein-bea-journal` | Dokumentation von beA-Verbindungen Nachrichten Versand und Empfangsbekenntnissen. Anwendungsfall beA-Eingang oder Versand muss nachvollziehbar protokolliert werden mit Screenshot ZIP-Export und EB-Workflow. Normen § 130a ZPO § 31a BRAO § 12 ERVV. Prüfraster Nachrichtenjournal Screenshots ZIP-Export eingegangene und versandte Nachrichten EB-Status Freigabe vor Versand. Output Versandjournal EB-Dokumentation ZIP-Archiv Screenshot-Ablage. Abgrenzung zu bea-versand-prüfen (Prüfung Versandweg) und kanzlei-allgemein-output-versand. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Kanzlei Allgemein Automationen, Kanzlei Allgemein Bea Journal** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-allgemein` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

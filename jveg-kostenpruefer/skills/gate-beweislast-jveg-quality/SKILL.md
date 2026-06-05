@@ -1,6 +1,6 @@
 ---
 name: gate-beweislast-jveg-quality
-description: "Spezial Gate Beweislast Und Darlegungslast, Spezial Jveg Tatbestand Beweis Und Belege, Spezial Quality Mandantenkommunikation Entscheidungsvorlage: Spezial Gate Beweislast Und Darlegungslast; Spezial Jveg Tatbestand Beweis Und Belege; Spezial Quality Mandantenkommunikation Entscheidungsvorlage. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Gate Beweislast Und Darlegungslast, Spezial Jveg Tatbestand Beweis Und Belege, Spezial Quality Mandantenkommunikation Entscheidungsvorlage im Plugin Jveg Kostenpruefer konkret bearbeitet werden soll. Auslöser: Bitte Spezial Gate Beweislast Und Darlegungslast, Spezial Jveg Tatbestand Beweis Und Belege, Spezial Quality Mandantenkommunikation Entscheidungsvorlage prüfen.; Erstelle eine Arbeitsfassung zu Spezial Gate Beweislast Und Darlegungslast, Spezial Jveg Tatbestand Beweis Und Belege, Spezial Quality Mandantenkommunikation Entscheidungsvorlage.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Gate Beweislast Und Darlegungslast, Spezial Jveg Tatbestand Beweis Und Belege, Spezial Quality Mandantenkommunikation Entscheidungsvorlage
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-jveg-tatbestand-beweis-und-belege` | JVEG: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin jveg kostenpruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-quality-mandantenkommunikation-entscheidungsvorlage` | Quality: Mandantenkommunikation und Entscheidungsvorlage im Plugin jveg kostenpruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Gate Beweislast Und Darlegungslast, Spezial Jveg Tatbestand Beweis Und Belege, Spezial Quality Mandantenkommunikation Entscheidungsvorlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `jveg-kostenpruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

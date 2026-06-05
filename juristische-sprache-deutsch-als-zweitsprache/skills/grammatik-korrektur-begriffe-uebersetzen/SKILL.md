@@ -1,6 +1,6 @@
 ---
 name: grammatik-korrektur-begriffe-uebersetzen
-description: "Grammatik Korrektur Ohne Inhaltsverlust, Juristische Begriffe Uebersetzen: Grammatik Korrektur Ohne Inhaltsverlust; Juristische Begriffe Uebersetzen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Grammatik Korrektur Ohne Inhaltsverlust, Juristische Begriffe Uebersetzen im Plugin Juristische Sprache Deutsch Als Zweitsprache konkret bearbeitet werden soll. Auslöser: Bitte Grammatik Korrektur Ohne Inhaltsverlust, Juristische Begriffe Uebersetzen prüfen.; Erstelle eine Arbeitsfassung zu Grammatik Korrektur Ohne Inhaltsverlust, Juristische Begriffe Uebersetzen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Grammatik Korrektur Ohne Inhaltsverlust, Juristische Begriffe Uebersetzen
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `grammatik-korrektur-ohne-inhaltsverlust` | Hilft bei Grammatik Korrektur Ohne Inhaltsverlust fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
 | `juristische-begriffe-uebersetzen` | Hilft bei Juristische Begriffe Uebersetzen fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Grammatik Korrektur Ohne Inhaltsverlust, Juristische Begriffe Uebersetzen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `juristische-sprache-deutsch-als-zweitsprache` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

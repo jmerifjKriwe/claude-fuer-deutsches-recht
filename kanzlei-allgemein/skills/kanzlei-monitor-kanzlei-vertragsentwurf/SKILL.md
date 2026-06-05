@@ -1,6 +1,6 @@
 ---
 name: kanzlei-monitor-kanzlei-vertragsentwurf
-description: "Kanzlei Allgemein Fristen Monitor, Kanzlei Allgemein Vertragsentwurf: Kanzlei Allgemein Fristen Monitor; Kanzlei Allgemein Vertragsentwurf. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Kanzlei Allgemein Fristen Monitor, Kanzlei Allgemein Vertragsentwurf im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Kanzlei Allgemein Fristen Monitor, Kanzlei Allgemein Vertragsentwurf prüfen.; Erstelle eine Arbeitsfassung zu Kanzlei Allgemein Fristen Monitor, Kanzlei Allgemein Vertragsentwurf.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Kanzlei Allgemein Fristen Monitor, Kanzlei Allgemein Vertragsentwurf
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kanzlei-allgemein-fristen-monitor` | Scannt Akteninhalt auf Fristen Action-Items Wiedervorlagen und Zustellungen. Anwendungsfall Schriftsatz beA-Nachricht oder Urteil wurde hochgeladen und Fristen sollen automatisch erkannt werden. Normen § 222 ZPO §§ 187 188 BGB § 517 ZPO Berufungsfrist § 548 ZPO Revisionsfrist BRAO-Haftungsfristen. Prüfraster Fristart Rechtsgrundlage Fristbeginn Hauptfrist Vorfrist Verantwortlicher Wiedervorlage EB-Bedarf. Output Fristen- und Action-Register mit Vorfrist Übertragungsvermerk Eskalationshinweis. Abgrenzung zu fristenbuch-führen (zentrales Buchführen) und kanzlei-allgemein-fristen-monitor. |
 | `kanzlei-allgemein-vertragsentwurf` | Erstellt Vertragsentwuerfe aus Term Sheet Mandantenangaben oder Vorlagen für jede Vertragsart. Anwendungsfall Mandant braucht Vertragsentwurf und Ausgangsmaterial liegt als Term Sheet Stichpunkte oder Muster vor. Normen §§ 305 ff. BGB AGB-Kontrolle § 134 BGB Gesetzesverstoesse § 311 BGB vorvertragliche Pflichten. Prüfraster Parteien Vertretung Handelsregister Leistungsbild Verguetung Laufzeit Haftung Datenschutz Anlagen Verhandlungspunkte. Output Kommentierter Vertragsentwurf mit Risikomarkierungen offenen Verhandlungspunkten und Qualitaetsgate-Freigabe. Abgrenzung zu vertragsausfueller-Plugin (ausfuellen bestehender Vorlagen) und kanzlei-allgemein-schriftsatz-turbo. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Kanzlei Allgemein Fristen Monitor, Kanzlei Allgemein Vertragsentwurf** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-allgemein` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

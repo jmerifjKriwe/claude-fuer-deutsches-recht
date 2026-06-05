@@ -1,6 +1,6 @@
 ---
 name: inv-expense-inv-export
-description: "Inv 028 Expense Fraud, Inv 029 Export Control Breach: Inv 028 Expense Fraud; Inv 029 Export Control Breach. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Inv 028 Expense Fraud, Inv 029 Export Control Breach im Plugin Internal Investigations Praxis konkret bearbeitet werden soll. Auslöser: Bitte Inv 028 Expense Fraud, Inv 029 Export Control Breach prüfen.; Erstelle eine Arbeitsfassung zu Inv 028 Expense Fraud, Inv 029 Export Control Breach.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Inv 028 Expense Fraud, Inv 029 Export Control Breach
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `inv-028-expense-fraud` | Untersucht Spesenabrechungs- und Reisekostenbetrug – forensische Buchprüfung, Beweissicherung, arbeitsrechtliche und strafrechtliche Konsequenzen. |
 | `inv-029-export-control-breach` | Untersucht Verstöße gegen Exportkontrollrecht – AWG, AWV, EG-Dual-Use-VO, BAFA-Meldepflichten, US-Re-Export-Kontrolle. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Inv 028 Expense Fraud, Inv 029 Export Control Breach** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internal-investigations-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

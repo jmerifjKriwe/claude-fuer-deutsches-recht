@@ -1,6 +1,6 @@
 ---
 name: ihl-tax-ihl-settlement-ihl-cisg-ihl-cisg
-description: "Ihl 054 Tax Vat Import Export, Ihl 087 Settlement Crossborder, Ihl 002 Cisg Anwendungsbereich, Ihl 003 Cisg Ausschluss Und Rechtswahl: Ihl 054 Tax Vat Import Export; Ihl 087 Settlement Crossborder; Ihl 002 Cisg Anwendungsbereich; Ihl 003 Cisg Ausschluss Und Rechtswahl. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ihl 054 Tax Vat Import Export, Ihl 087 Settlement Crossborder, Ihl 002 Cisg Anwendungsbereich, Ihl 003 Cisg Ausschluss Und Rechtswahl im Plugin Internationales Handelsrecht Lex Mercatoria konkret bearbeitet werden soll. Auslöser: Bitte Ihl 054 Tax Vat Import Export, Ihl 087 Settlement Crossborder, Ihl 002 Cisg Anwendungsbereich, Ihl 003 Cisg Ausschluss Und Rechtswahl prüfen.; Erstelle eine Arbeitsfassung zu Ihl 054 Tax Vat Import Export, Ihl 087 Settlement Crossborder, Ihl 002 Cisg Anwendungsbereich, Ihl 003 Cisg Ausschluss Und Rechtswahl.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ihl 054 Tax Vat Import Export, Ihl 087 Settlement Crossborder, Ihl 002 Cisg Anwendungsbereich, Ihl 003 Cisg Ausschluss Und Rechtswahl
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ihl-002-cisg-anwendungsbereich` | Internationales Handelsrecht: CISG Anwendungsbereich nach Art. 1-13 CISG. Räumlicher Anwendungsbereich (Vertragsstaatenprinzip), sachlicher Ausschluss nach Art. 2 CISG (Verbraucher, Wertpapiere, Strom), und Lückenfüllung nach Art. 7 Abs. 2 CISG. |
 | `ihl-003-cisg-ausschluss-und-rechtswahl` | Internationales Handelsrecht: CISG Ausschluss nach Art. 6 CISG und Rechtswahl nach Rom I (EG) 593/2008. Formulierung wirksamer Ausschlussklauseln, Teilausschluss einzelner Artikel und Zusammenspiel mit nationaler Kaufrechtsergänzung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ihl 054 Tax Vat Import Export, Ihl 087 Settlement Crossborder, Ihl 002 Cisg Anwendungsbereich, Ihl 003 Cisg Ausschluss Und Rechtswahl** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

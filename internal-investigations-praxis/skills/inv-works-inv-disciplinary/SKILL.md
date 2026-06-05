@@ -1,6 +1,6 @@
 ---
 name: inv-works-inv-disciplinary
-description: "Inv 042 Works Council Conflict, Inv 043 Disciplinary Measure: Inv 042 Works Council Conflict; Inv 043 Disciplinary Measure. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Inv 042 Works Council Conflict, Inv 043 Disciplinary Measure im Plugin Internal Investigations Praxis konkret bearbeitet werden soll. Auslöser: Bitte Inv 042 Works Council Conflict, Inv 043 Disciplinary Measure prüfen.; Erstelle eine Arbeitsfassung zu Inv 042 Works Council Conflict, Inv 043 Disciplinary Measure.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Inv 042 Works Council Conflict, Inv 043 Disciplinary Measure
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `inv-042-works-council-conflict` | Löst Konflikte mit dem Betriebsrat während einer Internal Investigation – Mitbestimmungsstreit, Einigungsstelle, einstweiliger Rechtsschutz. |
 | `inv-043-disciplinary-measure` | Wählt und setzt arbeitsrechtliche Disziplinarmaßnahmen um – Abmahnung, Versetzung, Kürzung von Boni, Freistellung, Zielvereinbarungsänderung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Inv 042 Works Council Conflict, Inv 043 Disciplinary Measure** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internal-investigations-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

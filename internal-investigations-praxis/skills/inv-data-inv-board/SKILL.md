@@ -1,6 +1,6 @@
 ---
 name: inv-data-inv-board
-description: "Inv 022 Data Room For Counsel, Inv 023 Board Special Committee: Inv 022 Data Room For Counsel; Inv 023 Board Special Committee. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Inv 022 Data Room For Counsel, Inv 023 Board Special Committee im Plugin Internal Investigations Praxis konkret bearbeitet werden soll. Auslöser: Bitte Inv 022 Data Room For Counsel, Inv 023 Board Special Committee prüfen.; Erstelle eine Arbeitsfassung zu Inv 022 Data Room For Counsel, Inv 023 Board Special Committee.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Inv 022 Data Room For Counsel, Inv 023 Board Special Committee
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `inv-022-data-room-for-counsel` | Richtet einen sicheren virtuellen Data Room für externe Counsel, Behörden und US-Discovery ein – Zugang, Privilegierung, Protokollierung. |
 | `inv-023-board-special-committee` | Richtet ein Sonderuntersuchungsausschuss des Vorstands oder Aufsichtsrats ein – Mandat, Besetzung, Unabhängigkeit und Berichtspflichten. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Inv 022 Data Room For Counsel, Inv 023 Board Special Committee** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internal-investigations-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

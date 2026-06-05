@@ -1,6 +1,6 @@
 ---
 name: inv-betriebsrat-inv-datenschutz
-description: "Inv 006 Betriebsrat, Inv 007 Datenschutz: Inv 006 Betriebsrat; Inv 007 Datenschutz. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Inv 006 Betriebsrat, Inv 007 Datenschutz im Plugin Internal Investigations Praxis konkret bearbeitet werden soll. Auslöser: Bitte Inv 006 Betriebsrat, Inv 007 Datenschutz prüfen.; Erstelle eine Arbeitsfassung zu Inv 006 Betriebsrat, Inv 007 Datenschutz.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Inv 006 Betriebsrat, Inv 007 Datenschutz
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `inv-006-betriebsrat` | Klärt Mitbestimmungsrechte des Betriebsrats bei Internal Investigations – Überwachung, Interviews, Datenzugriffe, Sanktionen. |
 | `inv-007-datenschutz` | Prüft DSGVO/BDSG bei E-Mail-Auswertung, Chatlogs, Forensik, Zugriffen, Drittstaatentransfer und Betroffenenrechten in Internal Investigations. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Inv 006 Betriebsrat, Inv 007 Datenschutz** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internal-investigations-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

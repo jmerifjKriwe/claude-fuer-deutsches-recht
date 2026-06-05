@@ -1,6 +1,6 @@
 ---
 name: jveg-gerichtsschreiben-jveg-kuerzung-wegfall
-description: "Jveg Gerichtsschreiben Prüfung, Jveg Kommandocenter, Jveg Kuerzung Wegfall 8A: Jveg Gerichtsschreiben Prüfung; Jveg Kommandocenter; Jveg Kuerzung Wegfall 8A. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Jveg Gerichtsschreiben Prüfung, Jveg Kommandocenter, Jveg Kuerzung Wegfall 8A im Plugin Jveg Kostenpruefer konkret bearbeitet werden soll. Auslöser: Bitte Jveg Gerichtsschreiben Prüfung, Jveg Kommandocenter, Jveg Kuerzung Wegfall 8A prüfen.; Erstelle eine Arbeitsfassung zu Jveg Gerichtsschreiben Prüfung, Jveg Kommandocenter, Jveg Kuerzung Wegfall 8A.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Jveg Gerichtsschreiben Prüfung, Jveg Kommandocenter, Jveg Kuerzung Wegfall 8A
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `jveg-kommandocenter` | Navigationszentrum für alle JVEG-Kostenprüfer-Skills: Weiterleitung je Personenkategorie und Verfahrensschritt. Normen: JVEG. Prüfraster: Einordnung Personenkategorie, aktueller Verfahrensschritt, Delegierung. Output: Navigationshinweis zum richtigen JVEG-Skill. Abgrenzung: kein inhaltlicher Berechnungs-Skill. |
 | `jveg-kuerzung-wegfall-8a` | Kuerzung oder Wegfall der JVEG-Verguetung nach § 8a JVEG prüfen: fehlerhafte Gutachten, Verspaetung. Normen: § 8a JVEG. Prüfraster: Verschulden, Kausalität, Kuerzungsumfang. Output: Prüfergebnis Kuerzung § 8a JVEG mit Begründung. Abgrenzung: nicht Dreimonatsfrist § 2 JVEG. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Jveg Gerichtsschreiben Prüfung, Jveg Kommandocenter, Jveg Kuerzung Wegfall 8A** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `jveg-kostenpruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

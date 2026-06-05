@@ -1,6 +1,6 @@
 ---
 name: hr-personal-kanzlei-intake
-description: "Kanzlei Allgemein Hr Personal, Kanzlei Allgemein Intake: Kanzlei Allgemein Hr Personal; Kanzlei Allgemein Intake. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Kanzlei Allgemein Hr Personal, Kanzlei Allgemein Intake im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
 ---
 
 # Kanzlei Allgemein Hr Personal, Kanzlei Allgemein Intake
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kanzlei-allgemein-hr-personal` | Verwaltung von Kanzlei-Personal mit Stammdaten Arbeitsvertraegen Onboarding und Offboarding. Anwendungsfall neue Kanzleimitarbeiterin wird eingestellt oder Mitarbeiter scheidet aus und HR-Dokumentation muss gepflegt werden. Normen BDSG § 26 Arbeitnehmerdatenschutz § 622 BGB Kündigungsfrist BRAO-Standesrecht Fortbildungspflicht. Prüfraster Stammdaten Vertraege Onboarding Datenschutz Fortbildungsnachweis Zielvereinbarungen Gratifikation Bonus Offboarding. Output HR-Akte Onboarding-Checkliste Offboarding-Protokoll Fortbildungsnachweis. Abgrenzung zu kanzlei-allgemein-lohn-sv und kanzlei-allgemein-abwesenheiten-urlaub. |
 | `kanzlei-allgemein-intake` | Strukturiert jeden Kanzlei-Eingang aus Brief Fax beA E-Mail SMS iMessage WhatsApp Telegram Teams Screenshot Upload oder Telefonnotiz. Erkennt Absender Akte Aktenzeichen Fristen Action-Items Datenschutzrisiken und nächsten Schritt. Fragt bei Unsicherheit gezielt nach. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Kanzlei Allgemein Hr Personal, Kanzlei Allgemein Intake** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-allgemein` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

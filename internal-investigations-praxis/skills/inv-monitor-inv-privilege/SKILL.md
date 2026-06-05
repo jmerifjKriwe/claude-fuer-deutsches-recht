@@ -1,6 +1,6 @@
 ---
 name: inv-monitor-inv-privilege
-description: "Inv 046 Monitor Reporting, Inv 047 Privilege Log: Inv 046 Monitor Reporting; Inv 047 Privilege Log. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Inv 046 Monitor Reporting, Inv 047 Privilege Log im Plugin Internal Investigations Praxis konkret bearbeitet werden soll. Auslöser: Bitte Inv 046 Monitor Reporting, Inv 047 Privilege Log prüfen.; Erstelle eine Arbeitsfassung zu Inv 046 Monitor Reporting, Inv 047 Privilege Log.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Inv 046 Monitor Reporting, Inv 047 Privilege Log
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `inv-046-monitor-reporting` | Strukturiert das Reporting an einen externen Compliance-Monitor nach DPA/NPA oder Behördenanordnung – Anforderungen, Konfliktmanagement, Exit-Strategie. |
 | `inv-047-privilege-log` | Erstellt und verwaltet das Privilege-Log für privilegierte Untersuchungsdokumente – FRCP Rule 26(b)(5), deutsche Schutzstandards, Waiver-Risiken. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Inv 046 Monitor Reporting, Inv 047 Privilege Log** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internal-investigations-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

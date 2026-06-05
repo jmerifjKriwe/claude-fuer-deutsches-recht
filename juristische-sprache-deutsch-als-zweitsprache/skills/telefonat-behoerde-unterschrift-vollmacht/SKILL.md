@@ -1,6 +1,6 @@
 ---
 name: telefonat-behoerde-unterschrift-vollmacht
-description: "Telefonat Mit Behörde Vorbereiten, Unterschrift Vollmacht: Telefonat Mit Behörde Vorbereiten; Unterschrift Vollmacht. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Telefonat Mit Behörde Vorbereiten, Unterschrift Vollmacht im Plugin Juristische Sprache Deutsch Als Zweitsprache konkret bearbeitet werden soll. Auslöser: Bitte Telefonat Mit Behörde Vorbereiten, Unterschrift Vollmacht prüfen.; Erstelle eine Arbeitsfassung zu Telefonat Mit Behörde Vorbereiten, Unterschrift Vollmacht.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Telefonat Mit Behörde Vorbereiten, Unterschrift Vollmacht
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `telefonat-mit-behoerde-vorbereiten` | Hilft bei Telefonat Mit Behoerde Vorbereiten fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
 | `unterschrift-vollmacht` | Hilft bei Unterschrift Vollmacht fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Telefonat Mit Behörde Vorbereiten, Unterschrift Vollmacht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `juristische-sprache-deutsch-als-zweitsprache` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

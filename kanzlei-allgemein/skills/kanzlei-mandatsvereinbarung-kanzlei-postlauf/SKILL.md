@@ -1,6 +1,6 @@
 ---
 name: kanzlei-mandatsvereinbarung-kanzlei-postlauf
-description: "Kanzlei Allgemein Mandatsvereinbarung, Kanzlei Allgemein Postlauf: Kanzlei Allgemein Mandatsvereinbarung; Kanzlei Allgemein Postlauf. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Kanzlei Allgemein Mandatsvereinbarung, Kanzlei Allgemein Postlauf im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Kanzlei Allgemein Mandatsvereinbarung, Kanzlei Allgemein Postlauf prüfen.; Erstelle eine Arbeitsfassung zu Kanzlei Allgemein Mandatsvereinbarung, Kanzlei Allgemein Postlauf.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Kanzlei Allgemein Mandatsvereinbarung, Kanzlei Allgemein Postlauf
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kanzlei-allgemein-mandatsvereinbarung` | Erstellt Mandatsvereinbarung Vollmacht Datenschutzhinweis Honorarvereinbarung und Vorschuss. Anwendungsfall neues Mandat soll foermlich begründet werden mit allen Pflichtdokumenten nach BRAO. Normen § 3a RVG Honorarvereinbarung § 49b BRAO Verbot Erfolgshonorar Art. 13 DSGVO § 43a BRAO Verschwiegenheit. Prüfraster Mandatsumfang RVG vs. Stundensatz Haftungsbegrenzung Vorschuss Rechtsschutzversicherer KI-Hinweis berufsrechtliche Punkte. Output Mandatsvereinbarungsentwurf Vollmacht Datenschutzhinweis Honorarblatt mit Markierung offener Prüfpunkte. Abgrenzung zu kanzlei-allgemein-mandatsannahme-gwg und kanzlei-allgemein-akte. |
 | `kanzlei-allgemein-postlauf` | Führt den täglichen Postlauf ideal um 11 Uhr. Prüft neue Eingänge beA-Journal Fristen Action-Items nicht zugeordnete Akten Versandbedarf EB und Rückfragen. Erstellt ein Postlauf-Journal und übergibt an Akten Fristen Output Zeit und Rechnung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Kanzlei Allgemein Mandatsvereinbarung, Kanzlei Allgemein Postlauf** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-allgemein` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

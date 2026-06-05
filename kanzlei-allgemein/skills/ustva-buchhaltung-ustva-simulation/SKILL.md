@@ -1,6 +1,6 @@
 ---
 name: ustva-buchhaltung-ustva-simulation
-description: "Kanzlei Allgemein Ustva Buchhaltung, Kanzlei Allgemein Ustva Simulation: Kanzlei Allgemein Ustva Buchhaltung; Kanzlei Allgemein Ustva Simulation. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Kanzlei Allgemein Ustva Buchhaltung, Kanzlei Allgemein Ustva Simulation im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Kanzlei Allgemein Ustva Buchhaltung, Kanzlei Allgemein Ustva Simulation prüfen.; Erstelle eine Arbeitsfassung zu Kanzlei Allgemein Ustva Buchhaltung, Kanzlei Allgemein Ustva Simulation.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Kanzlei Allgemein Ustva Buchhaltung, Kanzlei Allgemein Ustva Simulation
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kanzlei-allgemein-ustva-buchhaltung` | Sammelt Rechnungsdaten und Belege für die monatliche Umsatzsteuervoranmeldung. Anwendungsfall Monat ist vorbei und UStVA-Unterlagen muessen für ELSTER oder Steuerkanzlei zusammengestellt werden. Normen §§ 18 21 UStG UStVA-Pflicht § 14 UStG Rechnungspflichtangaben GoBD-Aufbewahrung. Prüfraster Ausgangsrechnungen Eingangsrechnungen Betriebsausgaben Vorsteuer Umsatzsteuer Zahlungsstatus Belegprüfung. Output UStVA-Vorbereitung mit strukturierter Belegsammlung ELSTER-Übergabepaket oder Steuerkanzlei-Paket ohne stille Abgabe. Abgrenzung zu kanzlei-allgemein-rechnung und kanzlei-allgemein-ustva-simulation. |
 | `kanzlei-allgemein-ustva-simulation` | Fallback bei ELSTER-Stoerung oder fehlendem Steuersoftware-Zugang für UStVA-Simulation. Anwendungsfall ELSTER-Verbindung funktioniert nicht oder UStVA muss ohne Fachsoftware simuliert werden. Normen § 18 Abs. 1 UStG Abgabefrist § 149 AO Verlaengerungsantrag. Prüfraster ELSTER-Simulation manuelle Eingabe XML-Upload ZUGFeRD-Prüfung Steuerberater-Paket Fehlerdiagnose Übertragungsprotokoll. Output Simulations-Protokoll mit Fehlerdiagnose Lösungsoptionen und vollständigem UStVA-Datenpaket ohne echte Abgabe. Abgrenzung zu kanzlei-allgemein-ustva-buchhaltung (Datensammlung) und kanzlei-allgemein-buchhaltung-konten. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Kanzlei Allgemein Ustva Buchhaltung, Kanzlei Allgemein Ustva Simulation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-allgemein` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

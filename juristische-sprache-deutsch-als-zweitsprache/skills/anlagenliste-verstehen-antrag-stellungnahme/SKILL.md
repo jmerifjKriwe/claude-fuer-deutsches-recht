@@ -1,6 +1,6 @@
 ---
 name: anlagenliste-verstehen-antrag-stellungnahme
-description: "Anlagenliste Verstehen, Antrag Stellungnahme Erklaerung: Anlagenliste Verstehen; Antrag Stellungnahme Erklaerung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Anlagenliste Verstehen, Antrag Stellungnahme Erklaerung im Plugin Juristische Sprache Deutsch Als Zweitsprache konkret bearbeitet werden soll. Auslöser: Bitte Anlagenliste Verstehen, Antrag Stellungnahme Erklaerung prüfen.; Erstelle eine Arbeitsfassung zu Anlagenliste Verstehen, Antrag Stellungnahme Erklaerung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Anlagenliste Verstehen, Antrag Stellungnahme Erklaerung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `anlagenliste-verstehen` | Hilft bei Anlagenliste Verstehen fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
 | `antrag-stellungnahme-erklaerung` | Hilft bei Antrag Stellungnahme Erklaerung fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Anlagenliste Verstehen, Antrag Stellungnahme Erklaerung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `juristische-sprache-deutsch-als-zweitsprache` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

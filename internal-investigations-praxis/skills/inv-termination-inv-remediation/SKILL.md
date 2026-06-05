@@ -1,6 +1,6 @@
 ---
 name: inv-termination-inv-remediation
-description: "Inv 044 Termination Strategy, Inv 045 Remediation Plan: Inv 044 Termination Strategy; Inv 045 Remediation Plan. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Inv 044 Termination Strategy, Inv 045 Remediation Plan im Plugin Internal Investigations Praxis konkret bearbeitet werden soll. Auslöser: Bitte Inv 044 Termination Strategy, Inv 045 Remediation Plan prüfen.; Erstelle eine Arbeitsfassung zu Inv 044 Termination Strategy, Inv 045 Remediation Plan.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Inv 044 Termination Strategy, Inv 045 Remediation Plan
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `inv-044-termination-strategy` | Entwickelt Kündigungsstrategie für Beschuldigte und Beteiligte – Tatkündigung, Verdachtskündigung, Trennungsvereinbarung, Outplacement. |
 | `inv-045-remediation-plan` | Erstellt einen strukturierten Remediation-Plan nach Untersuchungsabschluss – Kontrolllücken, Compliance-Verbesserungen, Behörden-Reporting und Nachverfolgung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Inv 044 Termination Strategy, Inv 045 Remediation Plan** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internal-investigations-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

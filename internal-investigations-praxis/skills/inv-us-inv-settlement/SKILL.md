@@ -1,6 +1,6 @@
 ---
 name: inv-us-inv-settlement
-description: "Inv 052 Us Counsel Coordination, Inv 053 Settlement Narrative: Inv 052 Us Counsel Coordination; Inv 053 Settlement Narrative. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Inv 052 Us Counsel Coordination, Inv 053 Settlement Narrative im Plugin Internal Investigations Praxis konkret bearbeitet werden soll. Auslöser: Bitte Inv 052 Us Counsel Coordination, Inv 053 Settlement Narrative prüfen.; Erstelle eine Arbeitsfassung zu Inv 052 Us Counsel Coordination, Inv 053 Settlement Narrative.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Inv 052 Us Counsel Coordination, Inv 053 Settlement Narrative
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `inv-052-us-counsel-coordination` | Koordiniert die Zusammenarbeit zwischen deutschem und US-amerikanischem Counsel in Cross-Border-Investigations – Privilege-Konflikte, Offenbarungspflichten, Joint-Defense. |
 | `inv-053-settlement-narrative` | Entwickelt das Settlement-Narrativ für Behörden und Öffentlichkeit – DPA/NPA-Formulierungen, Faktenbasis, Schuldanerkenntnis-Grenzen, Präzedenzwirkung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Inv 052 Us Counsel Coordination, Inv 053 Settlement Narrative** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internal-investigations-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

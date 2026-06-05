@@ -1,6 +1,6 @@
 ---
 name: inv-lessons
-description: "Inv 054 Lessons Learned: Inv 054 Lessons Learned. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Inv 054 Lessons Learned im Plugin Internal Investigations Praxis konkret bearbeitet werden soll. Auslöser: Bitte Inv 054 Lessons Learned prüfen.; Erstelle eine Arbeitsfassung zu Inv 054 Lessons Learned.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Inv 054 Lessons Learned
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `inv-054-lessons-learned` | Zieht strukturierte Lessons Learned aus abgeschlossenen Internal Investigations – Systemische Schwächen, Compliance-Verbesserungen, Dokumentation für Aufsicht. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Inv 054 Lessons Learned** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internal-investigations-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

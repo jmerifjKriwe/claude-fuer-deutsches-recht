@@ -1,6 +1,6 @@
 ---
 name: frist-datum-notfallmodus-frist
-description: "Frist Und Datum Verstehen, Notfallmodus Frist Heute: Frist Und Datum Verstehen; Notfallmodus Frist Heute. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Frist Und Datum Verstehen, Notfallmodus Frist Heute im Plugin Juristische Sprache Deutsch Als Zweitsprache konkret bearbeitet werden soll. Auslöser: Bitte Frist Und Datum Verstehen, Notfallmodus Frist Heute prüfen.; Erstelle eine Arbeitsfassung zu Frist Und Datum Verstehen, Notfallmodus Frist Heute.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Frist Und Datum Verstehen, Notfallmodus Frist Heute
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `frist-und-datum-verstehen` | Hilft bei Frist Und Datum Verstehen fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
 | `notfallmodus-frist-heute` | Hilft bei Notfallmodus Frist Heute fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Frist Und Datum Verstehen, Notfallmodus Frist Heute** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `juristische-sprache-deutsch-als-zweitsprache` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

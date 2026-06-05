@@ -1,6 +1,6 @@
 ---
 name: buchhaltung-konten-kanzlei-erechnung
-description: "Kanzlei Allgemein Buchhaltung Konten, Kanzlei Allgemein Erechnung: Kanzlei Allgemein Buchhaltung Konten; Kanzlei Allgemein Erechnung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Kanzlei Allgemein Buchhaltung Konten, Kanzlei Allgemein Erechnung im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Kanzlei Allgemein Buchhaltung Konten, Kanzlei Allgemein Erechnung prüfen.; Erstelle eine Arbeitsfassung zu Kanzlei Allgemein Buchhaltung Konten, Kanzlei Allgemein Erechnung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Kanzlei Allgemein Buchhaltung Konten, Kanzlei Allgemein Erechnung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kanzlei-allgemein-buchhaltung-konten` | Kanzlei-Buchhaltung mit Geschäftskonto offenen Posten Debitoren Kreditoren und Bankmatching. Anwendungsfall Anwalt oder Kanzleibuero will Zahlungseingang prüfen offene Posten abgleichen oder Buchhaltungsuebergabe an DATEV vorbereiten. Normen GoBD § 147 AO Aufbewahrung § 556b BGB. Prüfraster Kontenbewegungen Rechnungsalter Mahnwesen Bankmatching Klaerfaelle DATEV-Export. Output Offene-Posten-Liste Debitoren-Kreditoren-Übersicht Bankmatching-Protokoll DATEV-Übergabepaket. Abgrenzung zu kanzlei-allgemein-rechnung und kanzlei-allgemein-ustva-buchhaltung. |
 | `kanzlei-allgemein-erechnung` | Elektronische Kanzleirechnung in XRechnung oder ZUGFeRD vorbereiten und validieren. Anwendungsfall Mandant oder öffentliche Hand verlangt Rechnung im Format XRechnung oder ZUGFeRD. Normen EN 16931 GoBD § 14 UStG Rechnungspflichtangaben. Prüfraster Pflichtdaten EN 16931 XML-Strukturvalidierung PDF-A-3-Hybrid bei ZUGFeRD GoBD-Aufbewahrung Rechnungskorrektur. Output Validierte XRechnung oder ZUGFeRD-Datei mit Freigabeprotokoll. Abgrenzung zu kanzlei-allgemein-rechnung (allgemeine Rechnungserstellung) und kanzlei-allgemein-ustva-buchhaltung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Kanzlei Allgemein Buchhaltung Konten, Kanzlei Allgemein Erechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-allgemein` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

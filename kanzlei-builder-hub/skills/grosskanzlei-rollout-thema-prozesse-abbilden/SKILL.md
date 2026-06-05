@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-rollout-thema-prozesse-abbilden
-description: "Grosskanzlei Rollout Spezial, Kanzlei Builder Hub Anpassen, Kanzlei Prozesse Abbilden: Grosskanzlei Rollout Spezial; Kanzlei Builder Hub Anpassen; Kanzlei Prozesse Abbilden. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Grosskanzlei Rollout Spezial, Kanzlei Builder Hub Anpassen, Kanzlei Prozesse Abbilden im Plugin Kanzlei Builder Hub konkret bearbeitet werden soll. Auslöser: Bitte Grosskanzlei Rollout Spezial, Kanzlei Builder Hub Anpassen, Kanzlei Prozesse Abbilden prüfen.; Erstelle eine Arbeitsfassung zu Grosskanzlei Rollout Spezial, Kanzlei Builder Hub Anpassen, Kanzlei Prozesse Abbilden.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Grosskanzlei Rollout Spezial, Kanzlei Builder Hub Anpassen, Kanzlei Prozesse Abbilden
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kanzlei-builder-hub-anpassen` | Kanzlei-Builder-Hub an kanzleispezifische Anforderungen anpassen: eigene Plugins, Branding, Workflows. Normen: technisch/intern. Prüfraster: Anpassungsumfang, Kompatibilitaet, Testbedarf. Output: Anpassungs-Konfigurationsdokument. Abgrenzung: nicht Standardinstallation. |
 | `kanzlei-prozesse-abbilden` | Typische Kanzlei-Prozesse mit Plugins und Skills abbilden: Mandatsaufnahme, Akteneinsicht, Schriftsatzentwurf, Fristenkontrolle, Rechnung, Archivierung. Pro Prozess: Welche Plugins (Skills) helfen, in welcher Reihenfolge, mit welchem Output? Vorlage zum Anpassen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Grosskanzlei Rollout Spezial, Kanzlei Builder Hub Anpassen, Kanzlei Prozesse Abbilden** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-builder-hub` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

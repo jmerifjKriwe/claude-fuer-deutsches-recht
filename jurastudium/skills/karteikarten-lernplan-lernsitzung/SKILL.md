@@ -1,6 +1,6 @@
 ---
 name: karteikarten-lernplan-lernsitzung
-description: "Karteikarten, Lernplan, Lernsitzung: Karteikarten; Lernplan; Lernsitzung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Karteikarten, Lernplan, Lernsitzung im Plugin Jurastudium konkret bearbeitet werden soll. Auslöser: Bitte Karteikarten, Lernplan, Lernsitzung prüfen.; Erstelle eine Arbeitsfassung zu Karteikarten, Lernplan, Lernsitzung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Karteikarten, Lernplan, Lernsitzung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `lernplan` | Erstellt oder aktualisiert einen strukturierten Lernplan für das Erste Staatsexamen, das Referendariat oder das Zweite Staatsexamen — phasenbezogen, nach Schwächen gewichtet, adaptiv nach Lernverlauf. Berücksichtigt Repetitoriumskalender (Alpmann, Hemmer, Jura Intensiv, Kaiser-Skripten). Lädt, wenn der Nutzer "Lernplan erstellen", "Examensvorbereitung planen", "Stundenplan Staatsexamen" oder "wie soll ich für [Prüfung] lernen" sagt. |
 | `lernsitzung` | Lernsitzung für Jurastudium interaktiv durchführen: Anwendungsfall Student will aktive Lernsitzung zu bestimmtem Thema absolvieren mit Erklärungen Uebungsaufgaben und sofortigem Feedback. Tatbestaende, Subsumtion, Lösungsschemata Zivilrecht Strafrecht öffentliches Recht. Prüfraster Thema und Lernziel festlegen, Erklärung Kontrollfragen Uebungsfall Feedback, Wissenslücken identifizieren. Output strukturierte Lernsitzung mit Erklärungen und Zwischentest. Abgrenzung zu Karteikarten für Memorierung und zu Gutachten-Uebung für Klausurtraining. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Karteikarten, Lernplan, Lernsitzung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `jurastudium` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

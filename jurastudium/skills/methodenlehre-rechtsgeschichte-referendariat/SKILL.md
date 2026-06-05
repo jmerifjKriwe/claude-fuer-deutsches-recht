@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-rechtsgeschichte-referendariat
-description: "Spezial Methodenlehre Behörden Gericht Und Registerweg, Spezial Rechtsgeschichte Zahlen Schwellen Und Berechnung, Spezial Referendariat Tatbestand Beweis Und Belege: Spezial Methodenlehre Behörden Gericht Und Registerweg; Spezial Rechtsgeschichte Zahlen Schwellen Und Berechnung; Spezial Referendariat Tatbestand Beweis Und Belege. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Methodenlehre Behörden Gericht Und Registerweg, Spezial Rechtsgeschichte Zahlen Schwellen Und Berechnung, Spezial Referendariat Tatbestand Beweis Und Belege im Plugin Jurastudium konkret bearbeitet werden soll. Auslöser: Bitte Spezial Methodenlehre Behörden Gericht Und Registerweg, Spezial Rechtsgeschichte Zahlen Schwellen Und Berechnung, Spezial Referendariat Tatbestand Beweis Und Belege prüfen.; Erstelle eine Arbeitsfassung zu Spezial Methodenlehre Behörden Gericht Und Registerweg, Spezial Rechtsgeschichte Zahlen Schwellen Und Berechnung, Spezial Referendariat Tatbestand Beweis Und Belege.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Methodenlehre Behörden Gericht Und Registerweg, Spezial Rechtsgeschichte Zahlen Schwellen Und Berechnung, Spezial Referendariat Tatbestand Beweis Und Belege
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-rechtsgeschichte-zahlen-schwellen-und-berechnung` | Rechtsgeschichte: Zahlen, Schwellenwerte und Berechnung im Plugin jurastudium; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-referendariat-tatbestand-beweis-und-belege` | Referendariat: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin jurastudium; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Methodenlehre Behörden Gericht Und Registerweg, Spezial Rechtsgeschichte Zahlen Schwellen Und Berechnung, Spezial Referendariat Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `jurastudium` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

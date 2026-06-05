@@ -1,6 +1,6 @@
 ---
 name: keine-falschen-klage-einfach
-description: "Keine Falschen Zugestaendnisse, Klage Einfach Formulieren: Keine Falschen Zugestaendnisse; Klage Einfach Formulieren. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Keine Falschen Zugestaendnisse, Klage Einfach Formulieren im Plugin Juristische Sprache Deutsch Als Zweitsprache konkret bearbeitet werden soll. Auslöser: Bitte Keine Falschen Zugestaendnisse, Klage Einfach Formulieren prüfen.; Erstelle eine Arbeitsfassung zu Keine Falschen Zugestaendnisse, Klage Einfach Formulieren.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Keine Falschen Zugestaendnisse, Klage Einfach Formulieren
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `keine-falschen-zugestaendnisse` | Hilft bei Keine Falschen Zugestaendnisse fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
 | `klage-einfach-formulieren` | Hilft bei Klage Einfach Formulieren fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Keine Falschen Zugestaendnisse, Klage Einfach Formulieren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `juristische-sprache-deutsch-als-zweitsprache` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

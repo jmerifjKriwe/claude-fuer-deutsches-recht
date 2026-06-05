@@ -1,6 +1,6 @@
 ---
 name: ihl-force-ihl-claim-ihl-contract-ihl-contract
-description: "Ihl 085 Force Majeure Notice Letter, Ihl 086 Claim Letter Under Cisg, Ihl 088 Contract Playbook Exporter, Ihl 089 Contract Playbook Importer: Ihl 085 Force Majeure Notice Letter; Ihl 086 Claim Letter Under Cisg; Ihl 088 Contract Playbook Exporter; Ihl 089 Contract Playbook Importer. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ihl 085 Force Majeure Notice Letter, Ihl 086 Claim Letter Under Cisg, Ihl 088 Contract Playbook Exporter, Ihl 089 Contract Playbook Importer im Plugin Internationales Handelsrecht Lex Mercatoria konkret bearbeitet werden soll. Auslöser: Bitte Ihl 085 Force Majeure Notice Letter, Ihl 086 Claim Letter Under Cisg, Ihl 088 Contract Playbook Exporter, Ihl 089 Contract Playbook Importer prüfen.; Erstelle eine Arbeitsfassung zu Ihl 085 Force Majeure Notice Letter, Ihl 086 Claim Letter Under Cisg, Ihl 088 Contract Playbook Exporter, Ihl 089 Contract Playbook Importer.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ihl 085 Force Majeure Notice Letter, Ihl 086 Claim Letter Under Cisg, Ihl 088 Contract Playbook Exporter, Ihl 089 Contract Playbook Importer
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ihl-088-contract-playbook-exporter` | Internationales Handelsrecht: Vertragshandbuch für den Exporteur. Standardpositionen in Verhandlungen, Fallback-Positionen, Prioritäten (Rechtswahl, Schiedsklausel, Haftungsbeschränkung, Eigentumsvorbehalt) und BATNA-Analyse für internationale Kaufverträge. |
 | `ihl-089-contract-playbook-importer` | Internationales Handelsrecht: Vertragshandbuch für den Importeur. Käufer-Standardpositionen, Qualitätssicherungsklauseln, Lieferantenbewertung, Preisanpassung, Zahlungsbedingungen und Defensivstrategie bei Lieferverzug und Qualitätsmängeln. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ihl 085 Force Majeure Notice Letter, Ihl 086 Claim Letter Under Cisg, Ihl 088 Contract Playbook Exporter, Ihl 089 Contract Playbook Importer** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

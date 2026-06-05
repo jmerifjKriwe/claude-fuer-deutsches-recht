@@ -1,6 +1,6 @@
 ---
 name: inv-honeypot-inv-legal
-description: "Inv 002 Honeypot Risiko, Inv 003 Legal Hold: Inv 002 Honeypot Risiko; Inv 003 Legal Hold. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Inv 002 Honeypot Risiko, Inv 003 Legal Hold im Plugin Internal Investigations Praxis konkret bearbeitet werden soll. Auslöser: Bitte Inv 002 Honeypot Risiko, Inv 003 Legal Hold prüfen.; Erstelle eine Arbeitsfassung zu Inv 002 Honeypot Risiko, Inv 003 Legal Hold.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Inv 002 Honeypot Risiko, Inv 003 Legal Hold
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `inv-002-honeypot-risiko` | Bewertet das Risiko, dass die Untersuchung selbst zum Honeypot für Behörden, Gegner, US-Discovery oder Presselecks wird. |
 | `inv-003-legal-hold` | Implementiert Legal Hold – Sicherung, Sperrung und Dokumentation aller potenziell relevanten Beweismittel ab Verdachtsmoment. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Inv 002 Honeypot Risiko, Inv 003 Legal Hold** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internal-investigations-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

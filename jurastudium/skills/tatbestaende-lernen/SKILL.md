@@ -1,6 +1,6 @@
 ---
 name: tatbestaende-lernen
-description: "Tatbestaende Lernen: Tatbestaende Lernen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Tatbestaende Lernen im Plugin Jurastudium konkret bearbeitet werden soll. Auslöser: Bitte Tatbestaende Lernen prüfen.; Erstelle eine Arbeitsfassung zu Tatbestaende Lernen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Tatbestaende Lernen
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `tatbestaende-lernen` | Tatbestaende lernen für Jurastudium und Examensvorbereitung: Anwendungsfall Student muss Tatbestaende und Definitionen sicher beherrschen für Klausuren und Examen. Lösungsschemata Tatbestandsmerkmale BGB Strafrecht öffentliches Recht, Subsumtion, Methodenlehre. Prüfraster Tatbestandsmerkmale vollständig, Definitionen normiert oder hM-Definition, Abgrenzung verwandter Tatbestaende, Examensrelevanz einordnen. Output Tatbestand-Lernkarten mit Definition Schema und Abgrenzungshinweisen. Abgrenzung zu Lösungsschemata für Klausuraufbau und zu Karteikarten für allgemeines Lernen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Tatbestaende Lernen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `jurastudium` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

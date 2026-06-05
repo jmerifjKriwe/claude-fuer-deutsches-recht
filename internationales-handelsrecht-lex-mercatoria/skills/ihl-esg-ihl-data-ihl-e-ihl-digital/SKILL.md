@@ -1,6 +1,6 @@
 ---
 name: ihl-esg-ihl-data-ihl-e-ihl-digital
-description: "Ihl 057 Esg And Lksg Csddd, Ihl 058 Data Transfer In Trade, Ihl 059 E Commerce Crossborder B2B, Ihl 060 Digital Products International: Ihl 057 Esg And Lksg Csddd; Ihl 058 Data Transfer In Trade; Ihl 059 E Commerce Crossborder B2B; Ihl 060 Digital Products International. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ihl 057 Esg And Lksg Csddd, Ihl 058 Data Transfer In Trade, Ihl 059 E Commerce Crossborder B2B, Ihl 060 Digital Products International im Plugin Internationales Handelsrecht Lex Mercatoria konkret bearbeitet werden soll. Auslöser: Bitte Ihl 057 Esg And Lksg Csddd, Ihl 058 Data Transfer In Trade, Ihl 059 E Commerce Crossborder B2B, Ihl 060 Digital Products International prüfen.; Erstelle eine Arbeitsfassung zu Ihl 057 Esg And Lksg Csddd, Ihl 058 Data Transfer In Trade, Ihl 059 E Commerce Crossborder B2B, Ihl 060 Digital Products International.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ihl 057 Esg And Lksg Csddd, Ihl 058 Data Transfer In Trade, Ihl 059 E Commerce Crossborder B2B, Ihl 060 Digital Products International
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ihl-059-e-commerce-crossborder-b2b` | Internationales Handelsrecht: Grenzüberschreitender B2B-E-Commerce. EU-E-Commerce-RL 2000/31/EG (Herkunftslandprinzip), Vertragsschluss online (CISG Art. 14-24), elektronische Signaturen (eIDAS-VO), Digital Markets Act und Plattformhaftung. |
 | `ihl-060-digital-products-international` | Internationales Handelsrecht: Digitale Produkte im internationalen Handel. EU-Richtlinie 2019/770 (Digitale Inhalte), CISG-Anwendbarkeit auf Software-Verkauf, Lizenzrecht, AI-Act (EU) 2024/1689 und grenzüberschreitende Softwarelizenzen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ihl 057 Esg And Lksg Csddd, Ihl 058 Data Transfer In Trade, Ihl 059 E Commerce Crossborder B2B, Ihl 060 Digital Products International** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

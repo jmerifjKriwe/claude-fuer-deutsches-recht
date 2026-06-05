@@ -1,6 +1,6 @@
 ---
 name: inv-us-inv-auftrag
-description: "Inv 010 Us Discovery, Inv 001 Auftrag Scope: Inv 010 Us Discovery; Inv 001 Auftrag Scope. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Inv 010 Us Discovery, Inv 001 Auftrag Scope im Plugin Internal Investigations Praxis konkret bearbeitet werden soll. Auslöser: Bitte Inv 010 Us Discovery, Inv 001 Auftrag Scope prüfen.; Erstelle eine Arbeitsfassung zu Inv 010 Us Discovery, Inv 001 Auftrag Scope.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Inv 010 Us Discovery, Inv 001 Auftrag Scope
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `inv-010-us-discovery` | Steuert das US-Discovery-Risiko bei Internal Investigations – FRCP, Attorney-Client Privilege, Work Product, Litigation Hold. |
 | `inv-001-auftrag-scope` | Formuliert Untersuchungsauftrag, Scope, Ausschlüsse, Governance und Eskalation so eng wie möglich und so belastbar wie nötig. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Inv 010 Us Discovery, Inv 001 Auftrag Scope** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internal-investigations-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

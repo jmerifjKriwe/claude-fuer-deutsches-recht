@@ -1,6 +1,6 @@
 ---
 name: ihl-cisg-ihl-cisg-ihl-rom-ihl-gerichtsstand
-description: "Ihl 006 Cisg Nacherfuellung Und Remedies, Ihl 009 Cisg Ware Dokumente Digitalisierung, Ihl 010 Rom I Und Rechtswahl, Ihl 011 Gerichtsstand Brussels Ia Hague: Ihl 006 Cisg Nacherfuellung Und Remedies; Ihl 009 Cisg Ware Dokumente Digitalisierung; Ihl 010 Rom I Und Rechtswahl; Ihl 011 Gerichtsstand Brussels Ia Hague. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ihl 006 Cisg Nacherfuellung Und Remedies, Ihl 009 Cisg Ware Dokumente Digitalisierung, Ihl 010 Rom I Und Rechtswahl, Ihl 011 Gerichtsstand Brussels Ia Hague im Plugin Internationales Handelsrecht Lex Mercatoria konkret bearbeitet werden soll. Auslöser: Bitte Ihl 006 Cisg Nacherfuellung Und Remedies, Ihl 009 Cisg Ware Dokumente Digitalisierung, Ihl 010 Rom I Und Rechtswahl, Ihl 011 Gerichtsstand Brussels Ia Hague prüfen.; Erstelle eine Arbeitsfassung zu Ihl 006 Cisg Nacherfuellung Und Remedies, Ihl 009 Cisg Ware Dokumente Digitalisierung, Ihl 010 Rom I Und Rechtswahl, Ihl 011 Gerichtsstand Brussels Ia Hague.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ihl 006 Cisg Nacherfuellung Und Remedies, Ihl 009 Cisg Ware Dokumente Digitalisierung, Ihl 010 Rom I Und Rechtswahl, Ihl 011 Gerichtsstand Brussels Ia Hague
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ihl-010-rom-i-und-rechtswahl` | Internationales Handelsrecht: Vertragsstatut nach Rom I-VO (EG) 593/2008. Freie Rechtswahl (Art. 3), subsidiäre Anknüpfung (Art. 4), Eingriffsnormen (Art. 9), Verbraucherschutz (Art. 6) und Rechtswahl zugunsten nicht-staatlichen Rechts. |
 | `ihl-011-gerichtsstand-brussels-ia-hague` | Internationales Handelsrecht: Gerichtsstand nach Brüssel Ia-VO (EU) 1215/2012 und Haager Gerichtsstandsübereinkommen 2005. Art. 25 Gerichtsstandsvereinbarung, ausschließlicher Gerichtsstand, Lis pendens und Anerkennung ausländischer Urteile. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ihl 006 Cisg Nacherfuellung Und Remedies, Ihl 009 Cisg Ware Dokumente Digitalisierung, Ihl 010 Rom I Und Rechtswahl, Ihl 011 Gerichtsstand Brussels Ia Hague** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

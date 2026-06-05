@@ -1,6 +1,6 @@
 ---
 name: inv-sexual-inv-bribery
-description: "Inv 026 Sexual Harassment, Inv 027 Bribery Red Flags: Inv 026 Sexual Harassment; Inv 027 Bribery Red Flags. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Inv 026 Sexual Harassment, Inv 027 Bribery Red Flags im Plugin Internal Investigations Praxis konkret bearbeitet werden soll. Auslöser: Bitte Inv 026 Sexual Harassment, Inv 027 Bribery Red Flags prüfen.; Erstelle eine Arbeitsfassung zu Inv 026 Sexual Harassment, Inv 027 Bribery Red Flags.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Inv 026 Sexual Harassment, Inv 027 Bribery Red Flags
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `inv-026-sexual-harassment` | Leitet Untersuchungen bei sexueller Belästigung am Arbeitsplatz – AGG, Schutzpflichten des Arbeitgebers, Beweiserhebung, arbeitsrechtliche Konsequenzen. |
 | `inv-027-bribery-red-flags` | Identifiziert Bestechungs-Red-Flags in Transaktionen, Zahlungen, Vergabeverfahren und Drittparteienbeziehungen – FCPA, UK Bribery Act, § 299 StGB. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Inv 026 Sexual Harassment, Inv 027 Bribery Red Flags** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internal-investigations-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: inv-document-inv-cost
-description: "Inv 048 Document Retention, Inv 049 Cost Recovery Employee: Inv 048 Document Retention; Inv 049 Cost Recovery Employee. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Inv 048 Document Retention, Inv 049 Cost Recovery Employee im Plugin Internal Investigations Praxis konkret bearbeitet werden soll. Auslöser: Bitte Inv 048 Document Retention, Inv 049 Cost Recovery Employee prüfen.; Erstelle eine Arbeitsfassung zu Inv 048 Document Retention, Inv 049 Cost Recovery Employee.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Inv 048 Document Retention, Inv 049 Cost Recovery Employee
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `inv-048-document-retention` | Definiert Dokumentenaufbewahrungs- und -vernichtungsstrategien für Internal Investigation – HGB-Fristen, DSGVO-Löschpflichten, Legal Hold. |
 | `inv-049-cost-recovery-employee` | Macht Untersuchungskosten und Schäden gegen verantwortliche Mitarbeiter und Organmitglieder geltend – § 93 AktG, § 249 BGB, Verjährung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Inv 048 Document Retention, Inv 049 Cost Recovery Employee** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internal-investigations-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

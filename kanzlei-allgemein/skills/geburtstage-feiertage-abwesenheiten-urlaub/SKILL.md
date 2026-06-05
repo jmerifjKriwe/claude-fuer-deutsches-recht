@@ -1,6 +1,6 @@
 ---
 name: geburtstage-feiertage-abwesenheiten-urlaub
-description: "Geburtstage Feiertage, Kanzlei Allgemein Abwesenheiten Urlaub: Geburtstage Feiertage; Kanzlei Allgemein Abwesenheiten Urlaub. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Geburtstage Feiertage, Kanzlei Allgemein Abwesenheiten Urlaub im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Geburtstage Feiertage, Kanzlei Allgemein Abwesenheiten Urlaub prüfen.; Erstelle eine Arbeitsfassung zu Geburtstage Feiertage, Kanzlei Allgemein Abwesenheiten Urlaub.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Geburtstage Feiertage, Kanzlei Allgemein Abwesenheiten Urlaub
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `geburtstage-feiertage` | Pflegt einen Mandanten- und Geschäftspartner-Geburtstagsverteiler. Reminders einige Tage vor dem Tag. Vorlagen für kurze persoenliche Glueckwunsch-E-Mail (formell-warm). Bei Geschäftspartnern auch Firmenjubilaeen. Geburtstagsverteiler getrennt von Mandantenfaellen — Pflege als Geschäftspartnerstamm. Datenschutz beachten Art. 6 Abs. 1 lit. f DSGVO berechtigtes Interesse Geburtstagsglueckwunsch zulässig; Widerspruchsrecht Mandant beachten. |
 | `kanzlei-allgemein-abwesenheiten-urlaub` | Verwaltung von Abwesenheiten in der Kanzlei — Urlaub Krankmeldung Elternzeit Pflegezeit Fortbildung. Anwendungsfall Anwalt oder Mitarbeiter meldet Urlaub oder Krankheit und Kanzlei muss Vertretung für Fristen beA Postlauf Mandantenkommunikation sicherstellen. Normen § 7 BUrlG Resturlaub § 16 BEEG Elternzeit § 3 PflegeZG Kurzpflegezeit Art. 6 DSGVO Diagnosedaten. Prüfraster Überschneidungen Fristencheck beA-Abdeckung Postlauf-Vertretung Teamkonflikt. Output Urlaubsplan Vertretungsregelung Abwesenheitsregister Eskalationsprotokoll Schnittstelle Lohn-SV. Abgrenzung zu Lohn-SV-Skill und Kanzleikalender. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Geburtstage Feiertage, Kanzlei Allgemein Abwesenheiten Urlaub** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-allgemein` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

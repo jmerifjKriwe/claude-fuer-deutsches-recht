@@ -1,6 +1,6 @@
 ---
 name: kanzlei-turbo-kanzlei-zeitnarrative
-description: "Kanzlei Allgemein Schriftsatz Turbo, Kanzlei Allgemein Zeitnarrative: Kanzlei Allgemein Schriftsatz Turbo; Kanzlei Allgemein Zeitnarrative. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Kanzlei Allgemein Schriftsatz Turbo, Kanzlei Allgemein Zeitnarrative im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Kanzlei Allgemein Schriftsatz Turbo, Kanzlei Allgemein Zeitnarrative prüfen.; Erstelle eine Arbeitsfassung zu Kanzlei Allgemein Schriftsatz Turbo, Kanzlei Allgemein Zeitnarrative.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Kanzlei Allgemein Schriftsatz Turbo, Kanzlei Allgemein Zeitnarrative
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kanzlei-allgemein-schriftsatz-turbo` | Erstellt schnell Klage Replik Antrag Klageerwiderung oder Schriftsatzantwort mit Anlagenlogik. Anwendungsfall Frist laeuft und Schriftsatz muss schnell mit allen Pflichtbestandteilen erstellt werden. Normen § 253 ZPO Klageschrift § 276 ZPO Klageerwiderung § 130a ZPO beA-Einreichung. Prüfraster Antrag Sachverhalt Beweise Recht Fristen Zuständigkeit beA-Versand. Output Fertig strukturierter Schriftsatz mit Antrag Begründung Beweisangeboten Anlagenverzeichnis und Qualitaetsgate-Hinweis. Abgrenzung zu kanzlei-allgemein-schreibcanvas (freies Canvas) und kanzlei-allgemein-qualitaetsgate-hardening. |
 | `kanzlei-allgemein-zeitnarrative` | Zeiterfassung mit abrechenbaren Narrativen für Kanzlei-Mandate. Anwendungsfall Anwalt hat Tätigkeit ausgeubt und will Zeit mit praezisem Narrativ erfassen für spaetere Rechnungsstellung. Normen § 10 RVG Pflichtangaben Narrative GoBD-Zeitstempel. Prüfraster Akte Dauer Takt 6-Minuten-Bloecke Bearbeiter Tätigkeit Honorargrundlage Abrechenbarkeit Datenschutzreduktion. Output Zeiterfassungsprotokoll mit Narrativ Abrechenbarkeit und Rechnungsvorbereitungsnotiz. Abgrenzung zu timesheet-aktenzeitung (Gesamtzeittabelle) und kanzlei-allgemein-rechnung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Kanzlei Allgemein Schriftsatz Turbo, Kanzlei Allgemein Zeitnarrative** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-allgemein` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

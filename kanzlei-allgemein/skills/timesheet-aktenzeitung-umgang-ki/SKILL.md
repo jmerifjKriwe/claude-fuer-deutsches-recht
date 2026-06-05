@@ -1,6 +1,6 @@
 ---
 name: timesheet-aktenzeitung-umgang-ki
-description: "Timesheet Aktenzeitung, Umgang Mit Ki Vorwurf Bei Sachverstaendigengutachten: Timesheet Aktenzeitung; Umgang Mit Ki Vorwurf Bei Sachverstaendigengutachten. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Timesheet Aktenzeitung, Umgang Mit Ki Vorwurf Bei Sachverstaendigengutachten im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Timesheet Aktenzeitung, Umgang Mit Ki Vorwurf Bei Sachverstaendigengutachten prüfen.; Erstelle eine Arbeitsfassung zu Timesheet Aktenzeitung, Umgang Mit Ki Vorwurf Bei Sachverstaendigengutachten.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Timesheet Aktenzeitung, Umgang Mit Ki Vorwurf Bei Sachverstaendigengutachten
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `timesheet-aktenzeitung` | Zeiterfassung pro Mandat (Aktenzeitung) — taegliche Erfassung mit Datum Anwalt Akte Tätigkeit Dauer in 6-Minuten-Bloecken Abrechenbarkeit (abrechenbar / pro bono / nicht abrechenbar) Honorarsatz und Notiz. Reports nach Mandat Anwalt Zeitraum. Vorbereitung der Rechnungsstellung. Audit-fähig mit Zeitstempel der Erfassung. Unterstuetzt Honorarvereinbarung mit Stundensatz und RVG-Abrechnung als Alternative. |
 | `umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten` | Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutachten sei unter Einsatz künstlicher Intelligenz erstellt worden. Höchstpersönliche Erstellungspflicht (§ 407a Abs. 1 ZPO), keine generelle KI-Kennzeichnungspflicht im Zivilprozess, JVEG-Vergütungsmechanismen § 8a Abs. 2, Workflow für die vier zentralen Fragen, Schriftsatzbausteine und taktische Hinweise. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Timesheet Aktenzeitung, Umgang Mit Ki Vorwurf Bei Sachverstaendigengutachten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-allgemein` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: look-feel-mandatsannahme-gwg
-description: "Kanzlei Allgemein Look And Feel, Kanzlei Allgemein Mandatsannahme Gwg: Kanzlei Allgemein Look And Feel; Kanzlei Allgemein Mandatsannahme Gwg. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Kanzlei Allgemein Look And Feel, Kanzlei Allgemein Mandatsannahme Gwg im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Kanzlei Allgemein Look And Feel, Kanzlei Allgemein Mandatsannahme Gwg prüfen.; Erstelle eine Arbeitsfassung zu Kanzlei Allgemein Look And Feel, Kanzlei Allgemein Mandatsannahme Gwg.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Kanzlei Allgemein Look And Feel, Kanzlei Allgemein Mandatsannahme Gwg
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kanzlei-allgemein-look-and-feel` | Gestaltet Ausgaben des Kanzlei-Allgemein-Plugins hochwertig ruhig und edel. Anwendungsfall Plugin-Output soll innerhalb Cowork-Grenzen professionell aussehen ohne CSS-Abhaengigkeit. Werkzeuge Markdown-Dashboards Statuskarten Freigabeampeln blaeullich-silberne Grundtöne orangener Akzent. Output Formatierungsregelwerk für alle Plugin-Ausgaben mit Ampelfarben Statuskarten und Tabellenstruktur. Abgrenzung zu kanzlei-allgemein-schreibcanvas (Schriftsatzentwurf) und kanzlei-allgemein-qualitaetsgate-hardening. |
 | `kanzlei-allgemein-mandatsannahme-gwg` | Führt Mandatsannahme und Geldwäscheprüfung für Kanzleien: Intake, Aktenanlage, Aktenzeichen, Kontoblatt, Konfliktcheck, Kataloggeschäft nach § 2 Abs. 1 Nr. 10 GwG, Identifizierung, Ausweiskopie, Handelsregister, wirtschaftlich Berechtigte, PEP, Hochrisiko, Verdachtsfall, BRAK-Dokumentation, Mandatsvereinbarung, Datenschutz- und KI-Hinweise. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Kanzlei Allgemein Look And Feel, Kanzlei Allgemein Mandatsannahme Gwg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-allgemein` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

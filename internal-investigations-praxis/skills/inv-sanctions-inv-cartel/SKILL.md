@@ -1,6 +1,6 @@
 ---
 name: inv-sanctions-inv-cartel
-description: "Inv 030 Sanctions Hit, Inv 031 Cartel Dawn Raid: Inv 030 Sanctions Hit; Inv 031 Cartel Dawn Raid. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Inv 030 Sanctions Hit, Inv 031 Cartel Dawn Raid im Plugin Internal Investigations Praxis konkret bearbeitet werden soll. Auslöser: Bitte Inv 030 Sanctions Hit, Inv 031 Cartel Dawn Raid prüfen.; Erstelle eine Arbeitsfassung zu Inv 030 Sanctions Hit, Inv 031 Cartel Dawn Raid.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Inv 030 Sanctions Hit, Inv 031 Cartel Dawn Raid
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `inv-030-sanctions-hit` | Reagiert auf einen Sanktionstreffer – EU-Sanktionsverordnungen, OFAC, Einfrierung, Meldepflichten, Strafrisiken und Behördenstrategie. |
 | `inv-031-cartel-dawn-raid` | Behandelt Kartellrechtsdurchsuchungen durch Bundeskartellamt oder EU-Kommission – Mitwirkungspflichten, Leniency, Privilege, Kronzeugenantrag. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Inv 030 Sanctions Hit, Inv 031 Cartel Dawn Raid** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internal-investigations-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

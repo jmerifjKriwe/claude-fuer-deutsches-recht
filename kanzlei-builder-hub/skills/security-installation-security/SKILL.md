@@ -1,6 +1,6 @@
 ---
 name: security-installation-security
-description: "Spezial Security Dokumentenmatrix Und Lueckenliste, Spezial Skill Installation Security Gate: Spezial Security Dokumentenmatrix Und Lueckenliste; Spezial Skill Installation Security Gate. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Security Dokumentenmatrix Und Lueckenliste, Spezial Skill Installation Security Gate im Plugin Kanzlei Builder Hub konkret bearbeitet werden soll. Auslöser: Bitte Spezial Security Dokumentenmatrix Und Lueckenliste, Spezial Skill Installation Security Gate prüfen.; Erstelle eine Arbeitsfassung zu Spezial Security Dokumentenmatrix Und Lueckenliste, Spezial Skill Installation Security Gate.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Security Dokumentenmatrix Und Lueckenliste, Spezial Skill Installation Security Gate
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-security-dokumentenmatrix-und-lueckenliste` | Security: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin kanzlei builder hub; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-skill-installation-security-gate` | Skill-Installation mit Security-, Herkunfts- und Mandatsgeheimnis-Gate: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Security Dokumentenmatrix Und Lueckenliste, Spezial Skill Installation Security Gate** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-builder-hub` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: inv-public-inv-healthcare
-description: "Inv 038 Public Procurement, Inv 039 Healthcare Compliance: Inv 038 Public Procurement; Inv 039 Healthcare Compliance. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Inv 038 Public Procurement, Inv 039 Healthcare Compliance im Plugin Internal Investigations Praxis konkret bearbeitet werden soll. Auslöser: Bitte Inv 038 Public Procurement, Inv 039 Healthcare Compliance prüfen.; Erstelle eine Arbeitsfassung zu Inv 038 Public Procurement, Inv 039 Healthcare Compliance.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Inv 038 Public Procurement, Inv 039 Healthcare Compliance
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `inv-038-public-procurement` | Untersucht Unregelmäßigkeiten bei öffentlichen Vergabeverfahren – GWB, VgV, Kartellrecht, Manipulationsrisiken und Konsequenzen. |
 | `inv-039-healthcare-compliance` | Untersucht Healthcare-Compliance-Verstöße – § 299a/b StGB, Transparenzgesetz, AMG/HWG, Kick-Back-Verbote, FSA-Kodex und US-AKS. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Inv 038 Public Procurement, Inv 039 Healthcare Compliance** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internal-investigations-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

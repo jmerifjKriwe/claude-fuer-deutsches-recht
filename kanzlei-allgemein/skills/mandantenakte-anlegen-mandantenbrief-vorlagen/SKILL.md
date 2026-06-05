@@ -1,6 +1,6 @@
 ---
 name: mandantenakte-anlegen-mandantenbrief-vorlagen
-description: "Mandantenakte Anlegen, Mandantenbrief Vorlagen: Mandantenakte Anlegen; Mandantenbrief Vorlagen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Mandantenakte Anlegen, Mandantenbrief Vorlagen im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Mandantenakte Anlegen, Mandantenbrief Vorlagen prüfen.; Erstelle eine Arbeitsfassung zu Mandantenakte Anlegen, Mandantenbrief Vorlagen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Mandantenakte Anlegen, Mandantenbrief Vorlagen
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `mandantenakte-anlegen` | Legt eine Mandantenakte nach Kanzleikonvention an. Erfasst Stammdaten Bevollmaechtigte Mandatsumfang Konfliktprüfung (§ 43a Abs. 4 BRAO § 3 BORA) Datenschutzhinweis (Art. 13 DSGVO) Geldwäsche-Identifizierung (§§ 10 11 GwG) Honorarvereinbarung oder RVG-Hinweis. Erzeugt Aktenstruktur unter mandate/Aktenzeichen/ mit Standardunterordnern Vollmachts-Entwurf Datenschutzhinweis Geldwäsche-Prüfbeleg. Eintrag im Mandantenstamm. Verbindung zum Fristenbuch falls Fristen mitgeliefert. |
 | `mandantenbrief-vorlagen` | Standardvorlagen für den Mandantenbrief der Kanzlei. Aufbau Anrede Bezug Sachstand Empfehlung naechste Schritte Frist Kostenhinweis Unterschrift mit Berufsbezeichnung. Verschiedene Vorlagen für Mandatseroeffnung Zwischenbericht Beratungsergebnis Abschlussbericht Schlussrechnung. Hauptregel klar verstaendlich kein Juristenjargon ohne Erklärung. Bei Mandantenkommunikation auf Mandantenseite Rolle prüfen (Verbraucher vs Geschäftskunde). Disclaimer und Kostenhinweis Pflicht. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Mandantenakte Anlegen, Mandantenbrief Vorlagen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-allgemein` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: inv-e-inv-chat
-description: "Inv 016 E Mail Review, Inv 017 Chat Review: Inv 016 E Mail Review; Inv 017 Chat Review. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Inv 016 E Mail Review, Inv 017 Chat Review im Plugin Internal Investigations Praxis konkret bearbeitet werden soll. Auslöser: Bitte Inv 016 E Mail Review, Inv 017 Chat Review prüfen.; Erstelle eine Arbeitsfassung zu Inv 016 E Mail Review, Inv 017 Chat Review.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Inv 016 E Mail Review, Inv 017 Chat Review
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `inv-016-e-mail-review` | Strukturiert den E-Mail-Review in Internal Investigations – Keyword-Suche, TAR, Privilege-Log, DSGVO und Verwertbarkeit. |
 | `inv-017-chat-review` | Sichert und wertet Chat-Kommunikation (Teams, Slack, WhatsApp, Signal) in Internal Investigations aus – Retention, Forensik, DSGVO. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Inv 016 E Mail Review, Inv 017 Chat Review** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internal-investigations-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

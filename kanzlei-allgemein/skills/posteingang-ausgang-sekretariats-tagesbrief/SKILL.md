@@ -1,6 +1,6 @@
 ---
 name: posteingang-ausgang-sekretariats-tagesbrief
-description: "Posteingang Ausgang, Sekretariats Tagesbrief: Posteingang Ausgang; Sekretariats Tagesbrief. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Posteingang Ausgang, Sekretariats Tagesbrief im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Posteingang Ausgang, Sekretariats Tagesbrief prüfen.; Erstelle eine Arbeitsfassung zu Posteingang Ausgang, Sekretariats Tagesbrief.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Posteingang Ausgang, Sekretariats Tagesbrief
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `posteingang-ausgang` | Postein- und Postausgangsbuch führen. Posteingang erfasst Empfangstag (relevant für Fristbeginn nach BRAO Berufsregeln und § 188 ZPO § 122 AO § 37 SGB X) Absender Inhalt Akte Aktion (zur Akte / Antwort durch / Frist ans Fristenbuch). Postausgang erfasst Versandtag Empfaenger Inhalt Versandweg (Post beA EGVP E-Mail) Versandnummer Quittung. Beide Buecher mit Audit-Trail und Verbindung zur jeweiligen Mandatsakte. |
 | `sekretariats-tagesbrief` | Erzeugt morgens den Tagesbrief der Kanzlei mit allen Informationen die Anwalt und Sekretariat für den Tag brauchen — Fristen heute und in der naechsten Woche Vorfristen aus dem Fristenbuch eingegangene Post vom Vortag offene Mandantenrückrufe Termine Gerichts- und Behoerdentermine Wiedervorlagen Geburtstage des Tages Honorarrückstaende über Schwelle. Strukturiert zur schnellen Sichtung in fuenf Minuten. Bricht Information so herunter dass Anwalt entscheiden kann was Prioritaet hat. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Posteingang Ausgang, Sekretariats Tagesbrief** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-allgemein` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

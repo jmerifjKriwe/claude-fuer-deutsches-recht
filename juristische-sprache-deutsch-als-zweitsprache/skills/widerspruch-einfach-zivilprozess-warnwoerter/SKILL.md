@@ -1,6 +1,6 @@
 ---
 name: widerspruch-einfach-zivilprozess-warnwoerter
-description: "Widerspruch Einfach Formulieren, Zivilprozess Warnwoerter: Widerspruch Einfach Formulieren; Zivilprozess Warnwoerter. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Widerspruch Einfach Formulieren, Zivilprozess Warnwoerter im Plugin Juristische Sprache Deutsch Als Zweitsprache konkret bearbeitet werden soll. Auslöser: Bitte Widerspruch Einfach Formulieren, Zivilprozess Warnwoerter prüfen.; Erstelle eine Arbeitsfassung zu Widerspruch Einfach Formulieren, Zivilprozess Warnwoerter.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Widerspruch Einfach Formulieren, Zivilprozess Warnwoerter
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `widerspruch-einfach-formulieren` | Hilft bei Widerspruch Einfach Formulieren fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
 | `zivilprozess-warnwoerter` | Hilft bei Zivilprozess Warnwoerter fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Widerspruch Einfach Formulieren, Zivilprozess Warnwoerter** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `juristische-sprache-deutsch-als-zweitsprache` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

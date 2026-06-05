@@ -1,6 +1,6 @@
 ---
 name: ihl-spediteur-ihl-cisg-ihl-sanktionen-ihl-dap
-description: "Ihl 025 Spediteur Und Logistikvertrag, Ihl 007 Cisg Schadensersatz Und Mitigation, Ihl 033 Sanktionen Und Embargos, Ihl 021 Dap Dpu Ddp: Ihl 025 Spediteur Und Logistikvertrag; Ihl 007 Cisg Schadensersatz Und Mitigation; Ihl 033 Sanktionen Und Embargos; Ihl 021 Dap Dpu Ddp. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ihl 025 Spediteur Und Logistikvertrag, Ihl 007 Cisg Schadensersatz Und Mitigation, Ihl 033 Sanktionen Und Embargos, Ihl 021 Dap Dpu Ddp im Plugin Internationales Handelsrecht Lex Mercatoria konkret bearbeitet werden soll. Auslöser: Bitte Ihl 025 Spediteur Und Logistikvertrag, Ihl 007 Cisg Schadensersatz Und Mitigation, Ihl 033 Sanktionen Und Embargos, Ihl 021 Dap Dpu Ddp prüfen.; Erstelle eine Arbeitsfassung zu Ihl 025 Spediteur Und Logistikvertrag, Ihl 007 Cisg Schadensersatz Und Mitigation, Ihl 033 Sanktionen Und Embargos, Ihl 021 Dap Dpu Ddp.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ihl 025 Spediteur Und Logistikvertrag, Ihl 007 Cisg Schadensersatz Und Mitigation, Ihl 033 Sanktionen Und Embargos, Ihl 021 Dap Dpu Ddp
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ihl-033-sanktionen-und-embargos` | Internationales Handelsrecht: Handelssanktionen EU, USA (OFAC) und UK (OFSI). Blocking Statute (EU VO 2018/1100), SDN-Liste, Sektorsanktionen, Finanzsanktionen, Compliance-Pflichten und Konflikte zwischen EU- und US-Sanktionen. |
 | `ihl-021-dap-dpu-ddp` | Internationales Handelsrecht: Ankunftsklauseln DAP, DPU und DDP nach Incoterms 2020. Gefahrübergang am Bestimmungsort, Entladepflicht (DPU), Verzollungspflicht (DDP), Risiken für Verkäufer und steuerrechtliche Implikationen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ihl 025 Spediteur Und Logistikvertrag, Ihl 007 Cisg Schadensersatz Und Mitigation, Ihl 033 Sanktionen Und Embargos, Ihl 021 Dap Dpu Ddp** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `internationales-handelsrecht-lex-mercatoria` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

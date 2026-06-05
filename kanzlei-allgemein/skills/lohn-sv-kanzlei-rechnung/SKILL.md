@@ -1,6 +1,6 @@
 ---
 name: lohn-sv-kanzlei-rechnung
-description: "Kanzlei Allgemein Lohn Sv, Kanzlei Allgemein Rechnung: Kanzlei Allgemein Lohn Sv; Kanzlei Allgemein Rechnung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Kanzlei Allgemein Lohn Sv, Kanzlei Allgemein Rechnung im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Kanzlei Allgemein Lohn Sv, Kanzlei Allgemein Rechnung prüfen.; Erstelle eine Arbeitsfassung zu Kanzlei Allgemein Lohn Sv, Kanzlei Allgemein Rechnung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Kanzlei Allgemein Lohn Sv, Kanzlei Allgemein Rechnung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kanzlei-allgemein-lohn-sv` | Bereitet Lohnabrechnung Sozialversicherungsmeldungen und Payroll-Übergabe für Kanzleimitarbeiter vor. Anwendungsfall monatliche Lohnabrechnung muss vorbereitet oder Daten für DATEV-Lohnsoftware oder Steuerkanzlei zusammengestellt werden. Normen SGB IV SGB V SGB VI EStG § 41b EStG Lohnsteuerbescheinigung. Prüfraster Bruttogehalt ELStAM-Steuerklasse SV-Beitraege Minijob Meldungen Bonus Gratifikation Fehlzeiten. Output Payroll-Zusammenfassung mit SV-Beitraegen Lohnsteuer Meldedaten und Übergabepaket für Fachsystem oder Steuerberater. Abgrenzung zu kanzlei-allgemein-hr-personal und kanzlei-allgemein-ustva-buchhaltung. |
 | `kanzlei-allgemein-rechnung` | Bereitet Kanzleirechnungen Vorschussrechnungen RVG-Abrechnungen und Stundenhonorare vor. Anwendungsfall Mandat ist abgeschlossen oder Zeitpunkt für Zwischenrechnung ist gekommen. Normen § 10 RVG Pflichtangaben § 14 UStG Umsatzsteuerausweis GoBD Aufbewahrung § 3a RVG Honorarvereinbarung. Prüfraster Timesheet Narrative Auslagen Umsatzsteuer Zahlungsstatus Rechtsschutz GoBD-Protokoll. Output Honorarrechnung als PDF und Markdown mit Eintrag im Honorar-Tracker Übergabe an XRechnung oder ZUGFeRD möglich. Abgrenzung zu rechnungserstellung-rvg (ausführliches RVG-Abrechnungswerk) und kanzlei-allgemein-ustva-buchhaltung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Kanzlei Allgemein Lohn Sv, Kanzlei Allgemein Rechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-allgemein` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 
