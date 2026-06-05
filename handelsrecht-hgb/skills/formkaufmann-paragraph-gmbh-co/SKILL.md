@@ -1,6 +1,6 @@
 ---
 name: formkaufmann-paragraph-gmbh-co
-description: "Formkaufmann Paragraph 6 Hgb, Gmbh Und Co Kg Hgb: Formkaufmann Paragraph 6 Hgb; Gmbh Und Co Kg Hgb. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Formkaufmann Paragraph 6 Hgb, Gmbh Und Co Kg Hgb im Plugin Handelsrecht Hgb konkret bearbeitet werden soll. Auslöser: Bitte Formkaufmann Paragraph 6 Hgb, Gmbh Und Co Kg Hgb prüfen.; Erstelle eine Arbeitsfassung zu Formkaufmann Paragraph 6 Hgb, Gmbh Und Co Kg Hgb.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Formkaufmann Paragraph 6 Hgb, Gmbh Und Co Kg Hgb
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `formkaufmann-paragraph-6-hgb` | Prüft Kaufmannseigenschaft kraft Rechtsform bei Handelsgesellschaften und juristischen Personen. |
 | `gmbh-und-co-kg-hgb` | Prüft HGB-Struktur der GmbH & Co. KG: Firma, Vertretung, Haftung, Register und Publizität. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Formkaufmann Paragraph 6 Hgb, Gmbh Und Co Kg Hgb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsrecht-hgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

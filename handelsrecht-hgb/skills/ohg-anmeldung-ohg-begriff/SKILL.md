@@ -1,6 +1,6 @@
 ---
 name: ohg-anmeldung-ohg-begriff
-description: "Ohg Anmeldung Statuswechsel Paragraph 106, Ohg Begriff Und Entstehung Paragraph 105: Ohg Anmeldung Statuswechsel Paragraph 106; Ohg Begriff Und Entstehung Paragraph 105. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ohg Anmeldung Statuswechsel Paragraph 106, Ohg Begriff Und Entstehung Paragraph 105 im Plugin Handelsrecht Hgb konkret bearbeitet werden soll. Auslöser: Bitte Ohg Anmeldung Statuswechsel Paragraph 106, Ohg Begriff Und Entstehung Paragraph 105 prüfen.; Erstelle eine Arbeitsfassung zu Ohg Anmeldung Statuswechsel Paragraph 106, Ohg Begriff Und Entstehung Paragraph 105.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ohg Anmeldung Statuswechsel Paragraph 106, Ohg Begriff Und Entstehung Paragraph 105
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ohg-anmeldung-statuswechsel-paragraph-106` | Prüft Anmeldung, Statuswechsel aus Gesellschaftsregister, Registerlogik und Fehlerfolgen. |
 | `ohg-begriff-und-entstehung-paragraph-105` | Prüft OHG nach MoPeG: Betrieb eines Handelsgewerbes unter gemeinschaftlicher Firma und BGB-Verweis. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ohg Anmeldung Statuswechsel Paragraph 106, Ohg Begriff Und Entstehung Paragraph 105** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsrecht-hgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

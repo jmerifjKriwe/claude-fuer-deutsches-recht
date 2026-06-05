@@ -1,6 +1,6 @@
 ---
 name: handelskauf-fristenampel-hgb
-description: "Workflow Handelskauf Fristenampel, Workflow Hgb Erstpruefung: Workflow Handelskauf Fristenampel; Workflow Hgb Erstpruefung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Workflow Handelskauf Fristenampel, Workflow Hgb Erstpruefung im Plugin Handelsrecht Hgb konkret bearbeitet werden soll. Auslöser: Bitte Workflow Handelskauf Fristenampel, Workflow Hgb Erstpruefung prüfen.; Erstelle eine Arbeitsfassung zu Workflow Handelskauf Fristenampel, Workflow Hgb Erstpruefung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Workflow Handelskauf Fristenampel, Workflow Hgb Erstpruefung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `workflow-handelskauf-fristenampel` | Macht Fristenampel für Rüge, Lieferung, Fixgeschäft, Annahmeverzug, Verjährung und Beweise. |
 | `workflow-hgb-erstpruefung` | Prüft in fünf Schritten, ob ein HGB-Fall vorliegt und welche Sonderregeln das BGB überlagern. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Workflow Handelskauf Fristenampel, Workflow Hgb Erstpruefung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsrecht-hgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

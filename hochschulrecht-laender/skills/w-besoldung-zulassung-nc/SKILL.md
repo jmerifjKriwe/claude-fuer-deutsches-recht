@@ -1,6 +1,6 @@
 ---
 name: w-besoldung-zulassung-nc
-description: "W Besoldung Und Leistungsbezuege, Zulassung Nc Und Kapazitaet: W Besoldung Und Leistungsbezuege; Zulassung Nc Und Kapazitaet. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn W Besoldung Und Leistungsbezuege, Zulassung Nc Und Kapazitaet im Plugin Hochschulrecht Länder konkret bearbeitet werden soll. Auslöser: Bitte W Besoldung Und Leistungsbezuege, Zulassung Nc Und Kapazitaet prüfen.; Erstelle eine Arbeitsfassung zu W Besoldung Und Leistungsbezuege, Zulassung Nc Und Kapazitaet.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # W Besoldung Und Leistungsbezuege, Zulassung Nc Und Kapazitaet
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `w-besoldung-und-leistungsbezuege` | Prüft W-Besoldung, Leistungsbezüge und Bleibeverhandlungen. |
 | `zulassung-nc-und-kapazitaet` | Prüft Zulassung, NC und Kapazitätsrecht. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **W Besoldung Und Leistungsbezuege, Zulassung Nc Und Kapazitaet** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hochschulrecht-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

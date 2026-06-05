@@ -1,6 +1,6 @@
 ---
 name: anfanger-erklaerung-handelsbrauch
-description: "Workflow Anfanger Hgb Erklaerung, Workflow Handelsbrauch Beweis: Workflow Anfanger Hgb Erklaerung; Workflow Handelsbrauch Beweis. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Workflow Anfanger Hgb Erklaerung, Workflow Handelsbrauch Beweis im Plugin Handelsrecht Hgb konkret bearbeitet werden soll. Auslöser: Bitte Workflow Anfanger Hgb Erklaerung, Workflow Handelsbrauch Beweis prüfen.; Erstelle eine Arbeitsfassung zu Workflow Anfanger Hgb Erklaerung, Workflow Handelsbrauch Beweis.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Workflow Anfanger Hgb Erklaerung, Workflow Handelsbrauch Beweis
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `workflow-anfanger-hgb-erklaerung` | Erklärt Handelsrecht laienverständlich: Warum Kaufmannsrecht strenger, schneller und registerorientierter ist. |
 | `workflow-handelsbrauch-beweis` | Prüft Handelsbrauch, Verkehrssitte, kaufmännisches Bestätigungsschreiben und Beweisfragen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Workflow Anfanger Hgb Erklaerung, Workflow Handelsbrauch Beweis** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsrecht-hgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

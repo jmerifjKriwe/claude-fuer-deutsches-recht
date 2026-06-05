@@ -1,6 +1,6 @@
 ---
 name: zivilrecht-anspruchsgrundlagen
-description: "Zivilrecht Anspruchsgrundlagen Prüfung: Zivilrecht Anspruchsgrundlagen Prüfung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Zivilrecht Anspruchsgrundlagen Prüfung im Plugin Hausarbeitenmacher konkret bearbeitet werden soll. Auslöser: Bitte Zivilrecht Anspruchsgrundlagen Prüfung prüfen.; Erstelle eine Arbeitsfassung zu Zivilrecht Anspruchsgrundlagen Prüfung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Zivilrecht Anspruchsgrundlagen Prüfung
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `zivilrecht-anspruchsgrundlagen-pruefung` | Student prüft zivilrechtliche Ansprüche in der Hausarbeit: Reihenfolge V-C-G-D-D-B Vertrag culpa in contrahendo GoA dinglich Delikt Bereicherung. Prüfungsschemata je Anspruchsgrundlage §§ 433 280 823 812 BGB. Prüfraster Anspruchsgrundlagen-Reihenfolge Spezialitaet Konkurrenzen lex specialis. Output Anspruchsprüfungs-Schema Begründung. Abgrenzung zu strafrecht-tatbestand (Strafrecht) und öffentliches-recht-statthaft (Verwaltungsrecht). |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Zivilrecht Anspruchsgrundlagen Prüfung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hausarbeitenmacher` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

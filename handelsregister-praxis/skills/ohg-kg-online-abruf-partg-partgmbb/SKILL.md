@@ -1,6 +1,6 @@
 ---
 name: ohg-kg-online-abruf-partg-partgmbb
-description: "Ohg Kg Egbr Mopeg Statuswechsel, Online Abruf Registerportal Unternehmensregister, Partg Partgmbb Register: Ohg Kg Egbr Mopeg Statuswechsel; Online Abruf Registerportal Unternehmensregister; Partg Partgmbb Register. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ohg Kg Egbr Mopeg Statuswechsel, Online Abruf Registerportal Unternehmensregister, Partg Partgmbb Register im Plugin Handelsregister Praxis konkret bearbeitet werden soll. Auslöser: Bitte Ohg Kg Egbr Mopeg Statuswechsel, Online Abruf Registerportal Unternehmensregister, Partg Partgmbb Register prüfen.; Erstelle eine Arbeitsfassung zu Ohg Kg Egbr Mopeg Statuswechsel, Online Abruf Registerportal Unternehmensregister, Partg Partgmbb Register.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ohg Kg Egbr Mopeg Statuswechsel, Online Abruf Registerportal Unternehmensregister, Partg Partgmbb Register
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `online-abruf-registerportal-unternehmensregister` | Führt durch Handelsregister, Unternehmensregister, Bekanntmachungen, Chronologie, Ausdrucke, Screenshots und Beleglog. |
 | `partg-partgmbb-register` | Prüft Partnerschaftsregister, Berufszulassung, Namensführung, Haftungsbeschränkung und Berufshaftpflichtnachweis. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ohg Kg Egbr Mopeg Statuswechsel, Online Abruf Registerportal Unternehmensregister, Partg Partgmbb Register** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsregister-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

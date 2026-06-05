@@ -1,6 +1,6 @@
 ---
 name: geheimschutzhaushalt-deckung
-description: "Bho 299 Geheimschutzhaushalt Deckung Finden: Bho 299 Geheimschutzhaushalt Deckung Finden. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Bho 299 Geheimschutzhaushalt Deckung Finden im Plugin Haushaltsrecht Bho Bund Länder konkret bearbeitet werden soll. Auslöser: Bitte Bho 299 Geheimschutzhaushalt Deckung Finden prüfen.; Erstelle eine Arbeitsfassung zu Bho 299 Geheimschutzhaushalt Deckung Finden.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Bho 299 Geheimschutzhaushalt Deckung Finden
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `bho-299-geheimschutzhaushalt-deckung-finden` | Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Deckung finden. Deckung finden für Geheimschutzhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Bho 299 Geheimschutzhaushalt Deckung Finden** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

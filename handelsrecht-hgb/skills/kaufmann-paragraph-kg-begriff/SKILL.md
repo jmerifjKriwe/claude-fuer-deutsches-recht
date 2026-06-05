@@ -1,6 +1,6 @@
 ---
 name: kaufmann-paragraph-kg-begriff
-description: "Kaufmann Paragraph 1 Hgb, Kg Begriff Kommanditist: Kaufmann Paragraph 1 Hgb; Kg Begriff Kommanditist. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Kaufmann Paragraph 1 Hgb, Kg Begriff Kommanditist im Plugin Handelsrecht Hgb konkret bearbeitet werden soll. Auslöser: Bitte Kaufmann Paragraph 1 Hgb, Kg Begriff Kommanditist prüfen.; Erstelle eine Arbeitsfassung zu Kaufmann Paragraph 1 Hgb, Kg Begriff Kommanditist.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Kaufmann Paragraph 1 Hgb, Kg Begriff Kommanditist
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kaufmann-paragraph-1-hgb` | Prüft Istkaufmann und Handelsgewerbe nach Art und Umfang. |
 | `kg-begriff-kommanditist` | Prüft KG, Komplementär, Kommanditist, Hafteinlage, Pflichteinlage und Haftsumme. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Kaufmann Paragraph 1 Hgb, Kg Begriff Kommanditist** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsrecht-hgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: vergleich-verjaehrung-vermittlungsvertreter
-description: "Vergleich, Verjaehrung, Vermittlungsvertreter, Versicherungsvermittler Abgrenzung: Vergleich; Verjaehrung; Vermittlungsvertreter; Versicherungsvermittler Abgrenzung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vergleich, Verjaehrung, Vermittlungsvertreter, Versicherungsvermittler Abgrenzung im Plugin Handelsvertreterrecht konkret bearbeitet werden soll. Auslöser: Bitte Vergleich, Verjaehrung, Vermittlungsvertreter, Versicherungsvermittler Abgrenzung prüfen.; Erstelle eine Arbeitsfassung zu Vergleich, Verjaehrung, Vermittlungsvertreter, Versicherungsvermittler Abgrenzung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vergleich, Verjaehrung, Vermittlungsvertreter, Versicherungsvermittler Abgrenzung
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vermittlungsvertreter` | Analysiert die Rechtsstellung des reinen Vermittlungsvertreters nach § 84 Abs. 1 HGB ohne Abschlussvollmacht: Entstehung des Provisionsanspruchs nach § 87 HGB bei reiner Vermittlungstätigkeit, Abgrenzung zum Abschlussvertreter mit Vollmacht sowie Konsequenzen für Haftung und Ausgleich nach § 89b HGB. |
 | `versicherungsvermittler-abgrenzung` | Prüft die Abgrenzung zwischen Handelsvertreter nach HGB und Versicherungsvermittler nach § 59 VVG und GewO: Anwendbarkeit des HGB auf Versicherungsvertreter, Sonderregeln nach §§ 59 ff. VVG, Provisions- und Ausgleichsansprüche sowie berufsrechtliche Anforderungen nach § 34d GewO. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vergleich, Verjaehrung, Vermittlungsvertreter, Versicherungsvermittler Abgrenzung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsvertreterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

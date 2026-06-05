@@ -1,6 +1,6 @@
 ---
 name: lph-honorar-lph-input-lph-kommunikation
-description: "Hoai Lph 01 Honorar Und Prozentwert, Hoai Lph 01 Input Und Zielcheck, Hoai Lph 01 Kommunikation Baustelle Behörde: Hoai Lph 01 Honorar Und Prozentwert; Hoai Lph 01 Input Und Zielcheck; Hoai Lph 01 Kommunikation Baustelle Behörde. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Hoai Lph 01 Honorar Und Prozentwert, Hoai Lph 01 Input Und Zielcheck, Hoai Lph 01 Kommunikation Baustelle Behörde im Plugin Hoai Leistungsphasen Praxis konkret bearbeitet werden soll. Auslöser: Bitte Hoai Lph 01 Honorar Und Prozentwert, Hoai Lph 01 Input Und Zielcheck, Hoai Lph 01 Kommunikation Baustelle Behörde prüfen.; Erstelle eine Arbeitsfassung zu Hoai Lph 01 Honorar Und Prozentwert, Hoai Lph 01 Input Und Zielcheck, Hoai Lph 01 Kommunikation Baustelle Behörde.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Hoai Lph 01 Honorar Und Prozentwert, Hoai Lph 01 Input Und Zielcheck, Hoai Lph 01 Kommunikation Baustelle Behörde
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `hoai-lph-01-input-und-zielcheck` | HOAI LPH 1 Grundlagenermittlung: prüft Eingaben, Ziele, offene Entscheidungen und Mindestunterlagen; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %. |
 | `hoai-lph-01-kommunikation-baustelle-behoerde` | HOAI LPH 1 Grundlagenermittlung: formuliert klare E-Mails an Bauherr, Behörde, Unternehmer oder Fachplaner; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Hoai Lph 01 Honorar Und Prozentwert, Hoai Lph 01 Input Und Zielcheck, Hoai Lph 01 Kommunikation Baustelle Behörde** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hoai-leistungsphasen-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

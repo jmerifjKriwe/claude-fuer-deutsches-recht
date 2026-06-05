@@ -1,6 +1,6 @@
 ---
 name: handelsregister-gewerbe-handelsvertreter-gmbh
-description: "Handelsregister Und Gewerbe, Handelsvertreter Gmbh, Handelsvertreterprivileg, Insolvenz Principal: Handelsregister Und Gewerbe; Handelsvertreter Gmbh; Handelsvertreterprivileg; Insolvenz Principal. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Handelsregister Und Gewerbe, Handelsvertreter Gmbh, Handelsvertreterprivileg, Insolvenz Principal im Plugin Handelsvertreterrecht konkret bearbeitet werden soll. Auslöser: Bitte Handelsregister Und Gewerbe, Handelsvertreter Gmbh, Handelsvertreterprivileg, Insolvenz Principal prüfen.; Erstelle eine Arbeitsfassung zu Handelsregister Und Gewerbe, Handelsvertreter Gmbh, Handelsvertreterprivileg, Insolvenz Principal.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Handelsregister Und Gewerbe, Handelsvertreter Gmbh, Handelsvertreterprivileg, Insolvenz Principal
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `handelsvertreterprivileg` | Analysiert das kartellrechtliche Handelsvertreterprivileg: echte Handelsvertreter unterfallen nicht dem Kartellverbot des Art. 101 AEUV bzw. § 1 GWB für vertikale Vereinbarungen; Abgrenzungskriterien nach EuGH und EU-Kommissions-Leitlinien, Risiko- und Kostenübernahme als Abgrenzungsmerkmal sowie Folgen falscher Einordnung. |
 | `insolvenz-principal` | Analysiert Auswirkungen der Insolvenz des Unternehmers auf den Handelsvertretervertrag: automatische Beendigung nach § 116 InsO, Anmeldefähigkeit von Provisions- und Ausgleichsansprüchen zur Insolvenztabelle, Absonderungsrechte sowie Sicherungsstrategien für offene Forderungen vor Insolvenzeröffnung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Handelsregister Und Gewerbe, Handelsvertreter Gmbh, Handelsvertreterprivileg, Insolvenz Principal** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsvertreterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

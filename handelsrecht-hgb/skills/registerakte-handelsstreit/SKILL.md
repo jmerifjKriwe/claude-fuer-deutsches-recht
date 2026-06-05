@@ -1,6 +1,6 @@
 ---
 name: registerakte-handelsstreit
-description: "Workflow Registerakte Und Lueckenliste, Workflow Verhandlung Handelsstreit: Workflow Registerakte Und Lueckenliste; Workflow Verhandlung Handelsstreit. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Workflow Registerakte Und Lueckenliste, Workflow Verhandlung Handelsstreit im Plugin Handelsrecht Hgb konkret bearbeitet werden soll. Auslöser: Bitte Workflow Registerakte Und Lueckenliste, Workflow Verhandlung Handelsstreit prüfen.; Erstelle eine Arbeitsfassung zu Workflow Registerakte Und Lueckenliste, Workflow Verhandlung Handelsstreit.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Workflow Registerakte Und Lueckenliste, Workflow Verhandlung Handelsstreit
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `workflow-registerakte-und-lueckenliste` | Sortiert Registerauszüge, Gesellschafterlisten, Vollmachten, Notarentwürfe und Beanstandungen. |
 | `workflow-verhandlung-handelsstreit` | Macht Verhandlungsplan bei Liefer-, Register-, Handelsvertreter- oder Gesellschafterstreit. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Workflow Registerakte Und Lueckenliste, Workflow Verhandlung Handelsstreit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsrecht-hgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

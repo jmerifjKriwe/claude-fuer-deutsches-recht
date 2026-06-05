@@ -1,0 +1,218 @@
+---
+name: gerichtliche-rechtsprechung-eingangsfrist
+description: "Nutze dies, wenn Gerichtliche Rechtsprechung Livecheck, Eingangsfrist 7 Tage, Fristenkalender, Loeschfristen im Plugin Hinweisgeberschutz Compliance konkret bearbeitet werden soll. Auslöser: Bitte Gerichtliche Rechtsprechung Livecheck, Eingangsfrist 7 Tage, Fristenkalender, Loeschfristen prüfen.; Erstelle eine Arbeitsfassung zu Gerichtliche Rechtsprechung Livecheck, Eingangsfrist 7 Tage, Fristenkalender, Loeschfristen.; Welche Normen und Nachweise brauche ich?."
+---
+
+# Gerichtliche Rechtsprechung Livecheck, Eingangsfrist 7 Tage, Fristenkalender, Loeschfristen
+
+## Zweck
+
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+
+## Arbeitsmodule
+
+| Arbeitsmodul | Fokus |
+| --- | --- |
+| `gerichtliche-rechtsprechung-livecheck` | Erzwingt Rechtsprechungs-Livecheck ohne BeckRS-Blindzitate. |
+| `eingangsfrist-7-tage` | Steuert Eingangsbestätigung und Fristen sauber. |
+| `fristenkalender` | Erzeugt Fristenkalender für Hinweisfälle. |
+| `loeschfristen` | Steuert Löschung und Archivierung von HinSchG-Akten. |
+
+## Arbeitsweg
+
+Für **Gerichtliche Rechtsprechung Livecheck, Eingangsfrist 7 Tage, Fristenkalender, Loeschfristen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hinweisgeberschutz-compliance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
+
+## Arbeitsmodule im Detail
+
+## 1. `gerichtliche-rechtsprechung-livecheck`
+
+**Fokus:** Erzwingt Rechtsprechungs-Livecheck ohne BeckRS-Blindzitate.
+
+# Gerichtliche Rechtsprechung Livecheck
+
+## Wofür dieser Skill da ist
+Gericht, Datum, Aktenzeichen, freie Quelle, tragender Satz, keine Paywall-Literatur.
+
+Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+
+## Kaltstartfragen
+
+- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
+- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
+- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
+- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
+- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+
+## Arbeitslogik
+
+1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
+2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
+3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
+4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
+5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+
+## Fachanker
+
+- Primärer Anker: Arbeitsgerichte/BAG frei prüfen; dejure/openJur/amtlich.
+- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
+- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+
+## Typische Stolperstellen
+
+- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
+- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
+- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
+- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+
+## Ergebnisformat
+
+Erzeuge bevorzugt: Rspr-Prüfvermerk. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+
+## Qualitätsfilter
+
+Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+
+## 2. `eingangsfrist-7-tage`
+
+**Fokus:** Steuert Eingangsbestätigung und Fristen sauber.
+
+# Eingangsfrist 7 Tage
+
+## Wofür dieser Skill da ist
+Eingang, Fristbeginn, Rückkanal, Datenschutz, Sprachfassung und Eskalation.
+
+Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+
+## Kaltstartfragen
+
+- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
+- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
+- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
+- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
+- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+
+## Arbeitslogik
+
+1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
+2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
+3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
+4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
+5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+
+## Fachanker
+
+- Primärer Anker: HinSchG Fristen live.
+- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
+- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+
+## Typische Stolperstellen
+
+- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
+- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
+- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
+- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+
+## Ergebnisformat
+
+Erzeuge bevorzugt: Fristenkalender. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+
+## Qualitätsfilter
+
+Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+
+## 3. `fristenkalender`
+
+**Fokus:** Erzeugt Fristenkalender für Hinweisfälle.
+
+# Fristenkalender
+
+## Wofür dieser Skill da ist
+Eingang, Bestätigung, Rückmeldung, Löschung, Maßnahmen, Arbeitsrecht und Behördenfristen.
+
+Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+
+## Kaltstartfragen
+
+- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
+- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
+- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
+- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
+- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+
+## Arbeitslogik
+
+1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
+2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
+3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
+4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
+5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+
+## Fachanker
+
+- Primärer Anker: HinSchG; DSGVO; Arbeitsrecht.
+- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
+- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+
+## Typische Stolperstellen
+
+- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
+- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
+- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
+- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+
+## Ergebnisformat
+
+Erzeuge bevorzugt: Kalender-CSV. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+
+## Qualitätsfilter
+
+Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+
+## 4. `loeschfristen`
+
+**Fokus:** Steuert Löschung und Archivierung von HinSchG-Akten.
+
+# Loeschfristen
+
+## Wofür dieser Skill da ist
+Erforderlichkeit, Streit, Legal Hold, personenbezogene Daten, Abschluss und Statistik.
+
+Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+
+## Kaltstartfragen
+
+- Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
+- Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
+- Welche Frist, Behörde, Vertragspartei, Kundengruppe oder interne Eskalation macht Druck?
+- Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet?
+- Welche Quelle muss live geprüft werden, bevor eine Norm, Frist oder Rechtsprechung zitiert wird?
+
+## Arbeitslogik
+
+1. **Sachverhalt festnageln:** Beteiligte, Zeitraum, Dokumente, Zahlen, Systeme, Rollen und offene Lücken in einer kurzen Matrix erfassen.
+2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
+3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
+4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
+5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+
+## Fachanker
+
+- Primärer Anker: HinSchG; DSGVO Speicherbegrenzung.
+- Ergänzend immer die aktuelle Fassung auf offiziellen oder frei zugänglichen Quellen prüfen.
+- Rechtsprechung nur nennen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+
+## Typische Stolperstellen
+
+- Aus einem bloßen Policy-Dokument wird vorschnell auf tatsächliche Umsetzung geschlossen.
+- Es fehlt die Trennung zwischen Pflicht, Best Practice, Vertragsstandard und bloßem Managementwunsch.
+- Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
+- Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
+
+## Ergebnisformat
+
+Erzeuge bevorzugt: Löschkalender. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+
+## Qualitätsfilter
+
+Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.

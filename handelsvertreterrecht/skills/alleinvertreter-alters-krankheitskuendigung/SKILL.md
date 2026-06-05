@@ -1,6 +1,6 @@
 ---
 name: alleinvertreter-alters-krankheitskuendigung
-description: "Alleinvertreter, Alters Krankheitskuendigung, Arbeitnehmeraehnlichkeit, Ausgleich Ausschlussgruende: Alleinvertreter; Alters Krankheitskuendigung; Arbeitnehmeraehnlichkeit; Ausgleich Ausschlussgruende. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Alleinvertreter, Alters Krankheitskuendigung, Arbeitnehmeraehnlichkeit, Ausgleich Ausschlussgruende im Plugin Handelsvertreterrecht konkret bearbeitet werden soll. Auslöser: Bitte Alleinvertreter, Alters Krankheitskuendigung, Arbeitnehmeraehnlichkeit, Ausgleich Ausschlussgruende prüfen.; Erstelle eine Arbeitsfassung zu Alleinvertreter, Alters Krankheitskuendigung, Arbeitnehmeraehnlichkeit, Ausgleich Ausschlussgruende.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Alleinvertreter, Alters Krankheitskuendigung, Arbeitnehmeraehnlichkeit, Ausgleich Ausschlussgruende
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `arbeitnehmeraehnlichkeit` | Prüft arbeitnehmerähnliche Stellung des Handelsvertreters nach § 92a HGB: Mindestentgelt, Anwendung von Arbeitsschutzvorschriften, Abgrenzung zur echten Arbeitnehmerstellung, wirtschaftliche Abhängigkeit als Tatbestandsmerkmal und Sozialversicherungsrecht bei Einkommen unter der Grenze. |
 | `ausgleich-ausschlussgruende` | Prüft Ausschlussgründe des Ausgleichsanspruchs nach § 89b Abs. 3 HGB: schuldhaftes Verhalten des Handelsvertreters als Kündigungsgrund, Eigenbeendigung ohne triftigen Grund und Vertragsübergang an Dritte; Abgrenzung zu Fällen des Anspruchserhalts bei Kündigung aus Gesundheitsgründen nach Art. 18 RL 86/653/EWG. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Alleinvertreter, Alters Krankheitskuendigung, Arbeitnehmeraehnlichkeit, Ausgleich Ausschlussgruende** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsvertreterrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

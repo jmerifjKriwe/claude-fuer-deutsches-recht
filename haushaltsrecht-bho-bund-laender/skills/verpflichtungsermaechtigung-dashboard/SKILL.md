@@ -1,6 +1,6 @@
 ---
 name: verpflichtungsermaechtigung-dashboard
-description: "Bho 201 Verpflichtungsermaechtigung Dashboard, Bho 202 Verpflichtungsermaechtigung Risiko Mar, Bho 203 Verpflichtungsermaechtigung Brh Frage, Bho 204 Verpflichtungsermaechtigung Parlaments, Bho 205 Verpflichtungsermaechtigung Vollzug Tr und 6 weitere Themen: Bho 201 Verpflichtungsermaechtigung Dashboard; Bho 202 Verpflichtungsermaechtigung Risiko Mar; Bho 203 Verpflichtungsermaechtigung Brh Frage; Bho 204 Verpflichtungsermaechtigung Parlaments; Bho 205 Verpflichtungsermaechtigung Vollzug Tr; ...; Bho 211 Reste Und Uebertragbarkeit Dashboard B. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Bho 201 Verpflichtungsermaechtigung Dashboard, Bho 202 Verpflichtungsermaechtigung Risiko Mar, Bho 203 Verpflichtungsermaechtigung Brh Frage, Bho 204 Verpflichtungsermaechtigung Parlaments, Bho 205 Verpflichtungsermaechtigung Vollzug Tr und 6 weitere Themen im Plugin Haushaltsrecht Bho Bund Länder konkret bearbeitet werden soll. Auslöser: Bitte Bho 201 Verpflichtungsermaechtigung Dashboard, Bho 202 Verpflichtungsermaechtigung Risiko Mar, Bho 203 Verpflichtungsermaechtigung Brh Frage, Bho 204 Verpflichtungsermaechtigung Parlaments, Bho 205 Verpflichtungsermaechtigung Vollzug Tr und 6 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Bho 201 Verpflichtungsermaechtigung Dashboard, Bho 202 Verpflichtungsermaechtigung Risiko Mar, Bho 203 Verpflichtungsermaechtigung Brh Frage, Bho 204 Verpflichtungsermaechtigung Parlaments, Bho 205 Verpflichtungsermaechtigung Vollzug Tr und 6 weitere Themen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Bho 201 Verpflichtungsermaechtigung Dashboard, Bho 202 Verpflichtungsermaechtigung Risiko Mar, Bho 203 Verpflichtungsermaechtigung Brh Frage, Bho 204 Verpflichtungsermaechtigung Parlaments, Bho 205 Verpflichtungsermaechtigung Vollzug Tr und 6 weitere Themen
@@ -25,12 +25,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `bho-210-reste-und-uebertragbarkeit-szenario-re` | Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Szenario rechnen. Szenario rechnen für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-211-reste-und-uebertragbarkeit-dashboard-b` | Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Dashboard bauen. Dashboard bauen für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Bho 201 Verpflichtungsermaechtigung Dashboard, Bho 202 Verpflichtungsermaechtigung Risiko Mar, Bho 203 Verpflichtungsermaechtigung Brh Frage, Bho 204 Verpflichtungsermaechtigung Parlaments, Bho 205 Verpflichtungsermaechtigung Vollzug Tr und 6 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `haushaltsrecht-bho-bund-laender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

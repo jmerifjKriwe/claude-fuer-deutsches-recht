@@ -1,6 +1,6 @@
 ---
 name: ohg-gesellschafterwechsel-prokura-paragraphen
-description: "Ohg Gesellschafterwechsel, Prokura Paragraphen 48 53 Hgb: Ohg Gesellschafterwechsel; Prokura Paragraphen 48 53 Hgb. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Ohg Gesellschafterwechsel, Prokura Paragraphen 48 53 Hgb im Plugin Handelsrecht Hgb konkret bearbeitet werden soll. Auslöser: Bitte Ohg Gesellschafterwechsel, Prokura Paragraphen 48 53 Hgb prüfen.; Erstelle eine Arbeitsfassung zu Ohg Gesellschafterwechsel, Prokura Paragraphen 48 53 Hgb.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Ohg Gesellschafterwechsel, Prokura Paragraphen 48 53 Hgb
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ohg-gesellschafterwechsel` | Prüft Eintritt, Ausscheiden, Nachhaftung, Abfindung und Registereintragung. |
 | `prokura-paragraphen-48-53-hgb` | Prüft Erteilung, Umfang, Grenzen, Gesamtprokura, Filialprokura und Registereintragung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Ohg Gesellschafterwechsel, Prokura Paragraphen 48 53 Hgb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsrecht-hgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

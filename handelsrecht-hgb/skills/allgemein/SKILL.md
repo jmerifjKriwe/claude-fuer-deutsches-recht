@@ -2,6 +2,7 @@
 name: allgemein
 description: "Einstieg, Schnelltriage und Skill-Routing für HGB-Fälle: Kaufmann, Register, Firma, Vertretung, Handelsgeschäft, OHG/KG, Handelskauf und Handelsbücher."
 ---
+
 # HGB Kommandocenter
 
 ## Sofortstart
