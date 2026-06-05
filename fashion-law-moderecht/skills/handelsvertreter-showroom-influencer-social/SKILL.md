@@ -1,6 +1,6 @@
 ---
 name: handelsvertreter-showroom-influencer-social
-description: "Handelsvertreter Und Showroom, Influencer Social Media Kampagne: Handelsvertreter Und Showroom; Influencer Social Media Kampagne. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Handelsvertreter Und Showroom, Influencer Social Media Kampagne im Plugin Fashion Law Moderecht konkret bearbeitet werden soll. Auslöser: Bitte Handelsvertreter Und Showroom, Influencer Social Media Kampagne prüfen.; Erstelle eine Arbeitsfassung zu Handelsvertreter Und Showroom, Influencer Social Media Kampagne.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Handelsvertreter Und Showroom, Influencer Social Media Kampagne
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `handelsvertreter-und-showroom` | Handelsvertreter, Agent, Distributor und Showroom unterscheiden: Provision, Kundenstamm, Ausgleich, Exklusivität, Musterkollektion und Territory. |
 | `influencer-social-media-kampagne` | Influencer-, Creator- und Social-Media-Kampagnen prüfen: Kennzeichnung, Nutzungsrechte, Exklusivität, Briefing, Bildrechte, Plattformregeln und Krisenreaktion. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Handelsvertreter Und Showroom, Influencer Social Media Kampagne** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fashion-law-moderecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -3,7 +3,6 @@ name: allgemein
 description: "Einstieg, Schnelltriage und Workflow-Routing im Factoring-Recht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, erkennt stumme Uploads und schlägt passende Spezial-Skills aus diesem Plugin vor."
 ---
 
-
 # Factoring-Recht — Allgemein
 
 ## Sofortstart

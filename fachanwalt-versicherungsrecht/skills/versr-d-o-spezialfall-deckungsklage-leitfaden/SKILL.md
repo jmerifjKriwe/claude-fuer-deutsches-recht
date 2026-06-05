@@ -1,6 +1,6 @@
 ---
 name: versr-d-o-spezialfall-deckungsklage-leitfaden
-description: "Versr D O Claims Made Ausschluesse, Versr D Und O Spezialfall, Versr Deckungsklage Leitfaden: Versr D O Claims Made Ausschluesse; Versr D Und O Spezialfall; Versr Deckungsklage Leitfaden. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Versr D O Claims Made Ausschluesse, Versr D Und O Spezialfall, Versr Deckungsklage Leitfaden im Plugin Fachanwalt Versicherungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Versr D O Claims Made Ausschluesse, Versr D Und O Spezialfall, Versr Deckungsklage Leitfaden prüfen.; Erstelle eine Arbeitsfassung zu Versr D O Claims Made Ausschluesse, Versr D Und O Spezialfall, Versr Deckungsklage Leitfaden.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Versr D O Claims Made Ausschluesse, Versr D Und O Spezialfall, Versr Deckungsklage Leitfaden
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `versr-d-und-o-spezialfall` | Spezialfall D-and-O-Versicherung: Versicherte Person Vorstand und Aufsichtsrat, Innenhaftung, Versicherungsfall claims-made, Deckungsausschluesse. Pruefraster fuer Konzern und Versicherer. |
 | `versr-deckungsklage-leitfaden` | Leitfaden Deckungsklage in Haftpflicht und Rechtsschutz: Deckungszusage, Abwehrdeckung, Stichentscheid bei Erfolgsaussicht. Pruefraster fuer Anwalt im Rechtsschutzverfahren. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Versr D O Claims Made Ausschluesse, Versr D Und O Spezialfall, Versr Deckungsklage Leitfaden** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-versicherungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

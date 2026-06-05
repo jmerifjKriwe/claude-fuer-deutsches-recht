@@ -1,6 +1,6 @@
 ---
 name: insolvenz-retail-international-expansion
-description: "Insolvenz Retail Stock, International Expansion Us Uk: Insolvenz Retail Stock; International Expansion Us Uk. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Insolvenz Retail Stock, International Expansion Us Uk im Plugin Fashion Law Moderecht konkret bearbeitet werden soll. Auslöser: Bitte Insolvenz Retail Stock, International Expansion Us Uk prüfen.; Erstelle eine Arbeitsfassung zu Insolvenz Retail Stock, International Expansion Us Uk.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Insolvenz Retail Stock, International Expansion Us Uk
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `insolvenz-retail-stock` | Insolvenz, Retoure und Warenbestand im Fashion Retail prüfen: Eigentum, Kommission, Sicherheiten, Lizenzen, Outlet-Verwertung und Markenimage. |
 | `international-expansion-us-uk` | Internationale Expansion für Fashion Brands vorbereiten: EU, UK, USA, Zoll, Labeling, Produktsicherheit, IP und lokale Counsel-Fragen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Insolvenz Retail Stock, International Expansion Us Uk** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fashion-law-moderecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

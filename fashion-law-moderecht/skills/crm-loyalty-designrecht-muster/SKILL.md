@@ -1,6 +1,6 @@
 ---
 name: crm-loyalty-designrecht-muster
-description: "Crm Loyalty Datenschutz, Designrecht Und Muster: Crm Loyalty Datenschutz; Designrecht Und Muster. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Crm Loyalty Datenschutz, Designrecht Und Muster im Plugin Fashion Law Moderecht konkret bearbeitet werden soll. Auslöser: Bitte Crm Loyalty Datenschutz, Designrecht Und Muster prüfen.; Erstelle eine Arbeitsfassung zu Crm Loyalty Datenschutz, Designrecht Und Muster.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Crm Loyalty Datenschutz, Designrecht Und Muster
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `crm-loyalty-datenschutz` | CRM, Loyalty-Programm und Datenschutz in Fashion Retail prüfen: Kundendaten, Größenprofile, Kaufhistorie, Einwilligungen, Newsletter, Profiling und Löschung. |
 | `designrecht-und-muster` | Designrecht für Kollektionen, Accessoires, Prints und Produktformen prüfen: Registerdesign, nicht eingetragenes EU-Design, Offenbarung, Saisonware und Copycats. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Crm Loyalty Datenschutz, Designrecht Und Muster** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fashion-law-moderecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

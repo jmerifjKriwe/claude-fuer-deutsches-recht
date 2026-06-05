@@ -1,6 +1,6 @@
 ---
 name: lieferverzug-orientierung-mandat-triage
-description: "Fachanwalt Transport Speditionsrecht Lieferverzug, Fachanwalt Transport Speditionsrecht Orientierung, Mandat Triage Transport Speditionsrecht: Fachanwalt Transport Speditionsrecht Lieferverzug; Fachanwalt Transport Speditionsrecht Orientierung; Mandat Triage Transport Speditionsrecht. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Fachanwalt Transport Speditionsrecht Lieferverzug, Fachanwalt Transport Speditionsrecht Orientierung, Mandat Triage Transport Speditionsrecht im Plugin Fachanwalt Transport Speditionsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Transport Speditionsrecht Lieferverzug, Fachanwalt Transport Speditionsrecht Orientierung, Mandat Triage Transport Speditionsrecht prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Transport Speditionsrecht Lieferverzug, Fachanwalt Transport Speditionsrecht Orientierung, Mandat Triage Transport Speditionsrecht.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Fachanwalt Transport Speditionsrecht Lieferverzug, Fachanwalt Transport Speditionsrecht Orientierung, Mandat Triage Transport Speditionsrecht
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `fachanwalt-transport-speditionsrecht-orientierung` | Orientierungs-Skill Transport- und Speditionsrecht: richtigen Skill anhand Sachverhalt auswaehlen. Normen: §§ 407 ff. HGB, CMR, ADSP. Prüfraster: Vertragsart Fracht vs. Spedition, national vs. international, Schadenstyp. Output: Skillauswahl-Empfehlung Transport-Speditionsrecht. Abgrenzung: kein inhaltlicher Prüf-Skill. |
 | `mandat-triage-transport-speditionsrecht` | Ersteinordnung neuer Mandate im Transport- und Speditionsrecht: Vertragstyp, national vs. international. Normen: §§ 407 454 HGB, CMR. Prüfraster: Vertragstyp, Schadenstyp, Dringlichkeit, Fristen. Output: Mandat-Triage-Protokoll Transport-Speditionsrecht. Abgrenzung: nicht Erstgespraeches-Aufnahme. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Fachanwalt Transport Speditionsrecht Lieferverzug, Fachanwalt Transport Speditionsrecht Orientierung, Mandat Triage Transport Speditionsrecht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-transport-speditionsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

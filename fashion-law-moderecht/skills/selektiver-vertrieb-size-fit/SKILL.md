@@ -1,6 +1,6 @@
 ---
 name: selektiver-vertrieb-size-fit
-description: "Selektiver Vertrieb Luxus, Size Fit Retouren Und Dark Patterns: Selektiver Vertrieb Luxus; Size Fit Retouren Und Dark Patterns. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Selektiver Vertrieb Luxus, Size Fit Retouren Und Dark Patterns im Plugin Fashion Law Moderecht konkret bearbeitet werden soll. Auslöser: Bitte Selektiver Vertrieb Luxus, Size Fit Retouren Und Dark Patterns prüfen.; Erstelle eine Arbeitsfassung zu Selektiver Vertrieb Luxus, Size Fit Retouren Und Dark Patterns.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Selektiver Vertrieb Luxus, Size Fit Retouren Und Dark Patterns
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `selektiver-vertrieb-luxus` | Selektiver Vertrieb für Luxus- und Premiumfashion gestalten: qualitative Kriterien, Plattformverbot, Händleraufnahme, Monitoring, Vertikal-GVO und Markenimage. |
 | `size-fit-retouren-und-dark-patterns` | Size/Fit, Retouren und Dark Patterns im Fashion E-Commerce prüfen: Größentabellen, virtuelle Passformberatung, Widerruf, Retourenkommunikation, irreführende Knappheit, Checkout-Friktion und Verbraucherbeschwerden. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Selektiver Vertrieb Luxus, Size Fit Retouren Und Dark Patterns** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fashion-law-moderecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

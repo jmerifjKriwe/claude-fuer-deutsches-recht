@@ -1,6 +1,6 @@
 ---
 name: urhmr-einfuehrung-rechtsfelder-ki-generierter
-description: "Urhmr Einfuehrung Rechtsfelder, Urhmr Ki Generierter Content Spezial, Urhmr Leistungsschutzrecht Presse Spezial: Urhmr Einfuehrung Rechtsfelder; Urhmr Ki Generierter Content Spezial; Urhmr Leistungsschutzrecht Presse Spezial. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Urhmr Einfuehrung Rechtsfelder, Urhmr Ki Generierter Content Spezial, Urhmr Leistungsschutzrecht Presse Spezial im Plugin Fachanwalt Urheber Medienrecht konkret bearbeitet werden soll. Auslöser: Bitte Urhmr Einfuehrung Rechtsfelder, Urhmr Ki Generierter Content Spezial, Urhmr Leistungsschutzrecht Presse Spezial prüfen.; Erstelle eine Arbeitsfassung zu Urhmr Einfuehrung Rechtsfelder, Urhmr Ki Generierter Content Spezial, Urhmr Leistungsschutzrecht Presse Spezial.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Urhmr Einfuehrung Rechtsfelder, Urhmr Ki Generierter Content Spezial, Urhmr Leistungsschutzrecht Presse Spezial
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `urhmr-ki-generierter-content-spezial` | Spezialfall KI-generierter Content: keine Schoepfungshoehe ohne menschlichen Beitrag (BGH/EuGH-Linie), Trainingsdaten und § 44b UrhG TDM-Schranke, Pflicht zur Kennzeichnung nach KI-VO Art. 50, Haftung Plattform. Pruefraster. |
 | `urhmr-leistungsschutzrecht-presse-spezial` | Spezialfall Leistungsschutzrecht Presseverleger §§ 87f ff. UrhG nach DSM-Reform: Snippet-Lizenz, Aggregator-Plattformen, Vergaberecht. Pruefraster Verlag und Plattform. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Urhmr Einfuehrung Rechtsfelder, Urhmr Ki Generierter Content Spezial, Urhmr Leistungsschutzrecht Presse Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-urheber-medienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

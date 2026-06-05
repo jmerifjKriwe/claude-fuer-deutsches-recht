@@ -1,6 +1,6 @@
 ---
 name: urheberrecht-angewandte
-description: "Urheberrecht Angewandte Kunst: Urheberrecht Angewandte Kunst. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Urheberrecht Angewandte Kunst im Plugin Fashion Law Moderecht konkret bearbeitet werden soll. Auslöser: Bitte Urheberrecht Angewandte Kunst prüfen.; Erstelle eine Arbeitsfassung zu Urheberrecht Angewandte Kunst.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Urheberrecht Angewandte Kunst
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `urheberrecht-angewandte-kunst` | Urheberrecht bei Mode und angewandter Kunst prüfen: Werkqualität, Gestaltungshöhe, Designerleistung, Doppelschutz und Beweisbarkeit. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Urheberrecht Angewandte Kunst** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fashion-law-moderecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

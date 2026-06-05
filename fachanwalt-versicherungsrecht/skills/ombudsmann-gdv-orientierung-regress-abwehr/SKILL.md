@@ -1,6 +1,6 @@
 ---
 name: ombudsmann-gdv-orientierung-regress-abwehr
-description: "Fachanwalt Versicherungsrecht Ombudsmann Gdv Schlichtung, Fachanwalt Versicherungsrecht Orientierung, Fachanwalt Versicherungsrecht Regress Abwehr: Fachanwalt Versicherungsrecht Ombudsmann Gdv Schlichtung; Fachanwalt Versicherungsrecht Orientierung; Fachanwalt Versicherungsrecht Regress Abwehr. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Fachanwalt Versicherungsrecht Ombudsmann Gdv Schlichtung, Fachanwalt Versicherungsrecht Orientierung, Fachanwalt Versicherungsrecht Regress Abwehr im Plugin Fachanwalt Versicherungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Versicherungsrecht Ombudsmann Gdv Schlichtung, Fachanwalt Versicherungsrecht Orientierung, Fachanwalt Versicherungsrecht Regress Abwehr prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Versicherungsrecht Ombudsmann Gdv Schlichtung, Fachanwalt Versicherungsrecht Orientierung, Fachanwalt Versicherungsrecht Regress Abwehr.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Fachanwalt Versicherungsrecht Ombudsmann Gdv Schlichtung, Fachanwalt Versicherungsrecht Orientierung, Fachanwalt Versicherungsrecht Regress Abwehr
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `fachanwalt-versicherungsrecht-orientierung` | Orientierung im Versicherungsvertragsrecht für Mandate und Fachanwaltschaft nach FAO. Anwendungsfall Kanzlei will Versicherungsmandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung Versicherungsrecht vor. Normen VVG VAG GDV-Musterbedingungen AVB-Sparten BU KV LV Sach-Haftpflicht D-und-O. Prüfraster Sparten Normen FAO-Voraussetzungen verifizierbare Quellen typische Mandate Fristen. Output Rechtsgebietsuebersicht Normen verifizierbare Quellen und Routing zu Versicherungsmandats-Skills. Abgrenzung zu mandat-triage-versicherungsrecht und fachanwalt-versicherungsrecht-deckungsklage. |
 | `fachanwalt-versicherungsrecht-regress-abwehr` | Regressabwehr gegen Sozialversicherungstraeger und Versicherungstraeger nach Schadensersatzleistung. Anwendungsfall Sozialversicherungstraeger oder Versicherung macht Regress auf Haftenden geltend. Normen § 116 SGB X Forderungsuebergang § 86 VVG Übergang § 76 LBG Dienstherrenregress. Prüfraster sachliche und zeitliche Kongruenz Quotenvorrecht Geschaedigter § 116 Abs. 3 SGB X Familienprivileg § 86 Abs. 3 VVG Mitverschulden Verjährung Hemmung Verhandlungen. Output Regressabwehrschreiben mit Konkurrenz-Einrede Quotenvorrecht-Argumentation und Verjährungseinrede. Abgrenzung zu klage-versicherer-strategie und schriftsatzkern-substantiierung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Fachanwalt Versicherungsrecht Ombudsmann Gdv Schlichtung, Fachanwalt Versicherungsrecht Orientierung, Fachanwalt Versicherungsrecht Regress Abwehr** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-versicherungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

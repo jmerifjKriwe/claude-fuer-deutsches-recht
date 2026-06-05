@@ -1,6 +1,6 @@
 ---
 name: themen-fristennotiz-versr-rechtsschutz-versr
-description: "Spezial Themen Fristennotiz Und Naechster Schritt, Versr Rechtsschutz Stichentscheid Vorvertraglichkeit, Versr Versicherungsvertragspruefung Bauleiter: Spezial Themen Fristennotiz Und Naechster Schritt; Versr Rechtsschutz Stichentscheid Vorvertraglichkeit; Versr Versicherungsvertragspruefung Bauleiter. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Themen Fristennotiz Und Naechster Schritt, Versr Rechtsschutz Stichentscheid Vorvertraglichkeit, Versr Versicherungsvertragspruefung Bauleiter im Plugin Fachanwalt Versicherungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Themen Fristennotiz Und Naechster Schritt, Versr Rechtsschutz Stichentscheid Vorvertraglichkeit, Versr Versicherungsvertragspruefung Bauleiter prüfen.; Erstelle eine Arbeitsfassung zu Spezial Themen Fristennotiz Und Naechster Schritt, Versr Rechtsschutz Stichentscheid Vorvertraglichkeit, Versr Versicherungsvertragspruefung Bauleiter.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Themen Fristennotiz Und Naechster Schritt, Versr Rechtsschutz Stichentscheid Vorvertraglichkeit, Versr Versicherungsvertragspruefung Bauleiter
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `versr-rechtsschutz-stichentscheid-vorvertraglichkeit` | Rechtsschutzversicherung: Deckungszusage, Stichentscheid, Vorvertraglichkeit, Mutwilligkeit, Kostenpositionen und RSV-Prozess. |
 | `versr-versicherungsvertragspruefung-bauleiter` | Bauleiter Versicherungsvertragspruefung: vorvertragliche Anzeigepflicht § 19 VVG, Obliegenheiten § 28 VVG, Beweislast, Rechtsfolgen Verletzung. Pruefraster fuer Versicherungsnehmer und Versicherer. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Themen Fristennotiz Und Naechster Schritt, Versr Rechtsschutz Stichentscheid Vorvertraglichkeit, Versr Versicherungsvertragspruefung Bauleiter** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-versicherungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: recall-crisis-retail-pop
-description: "Recall Crisis Fashion, Retail Pop Up Store: Recall Crisis Fashion; Retail Pop Up Store. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Recall Crisis Fashion, Retail Pop Up Store im Plugin Fashion Law Moderecht konkret bearbeitet werden soll. Auslöser: Bitte Recall Crisis Fashion, Retail Pop Up Store prüfen.; Erstelle eine Arbeitsfassung zu Recall Crisis Fashion, Retail Pop Up Store.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Recall Crisis Fashion, Retail Pop Up Store
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `recall-crisis-fashion` | Rückruf- und Krisenmanagement für Fashion-Produkte: GPSR, Behörden, Händler, Kundenkommunikation, Presse, Plattformen und Lessons Learned. |
 | `retail-pop-up-store` | Retail, Pop-up-Store und Shop-in-Shop rechtlich organisieren: Mietfläche, Genehmigungen, Personal, Musik, Kasse, Versicherung und Markenauftritt. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Recall Crisis Fashion, Retail Pop Up Store** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fashion-law-moderecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

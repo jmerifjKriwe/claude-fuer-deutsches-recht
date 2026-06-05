@@ -1,6 +1,6 @@
 ---
 name: vwr-eilrechtsschutz-widerspruch-klage
-description: "Vwr Spezial Eilrechtsschutz, Widerspruch Oder Klage Erstpruefung: Vwr Spezial Eilrechtsschutz; Widerspruch Oder Klage Erstpruefung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vwr Spezial Eilrechtsschutz, Widerspruch Oder Klage Erstpruefung im Plugin Fachanwalt Verwaltungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Vwr Spezial Eilrechtsschutz, Widerspruch Oder Klage Erstpruefung prüfen.; Erstelle eine Arbeitsfassung zu Vwr Spezial Eilrechtsschutz, Widerspruch Oder Klage Erstpruefung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vwr Spezial Eilrechtsschutz, Widerspruch Oder Klage Erstpruefung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vwr-spezial-eilrechtsschutz` | Spezialfall Eilrechtsschutz vor Verwaltungsgericht: § 80 Abs. 5 VwGO Aussetzung der Vollziehung, § 123 VwGO einstweilige Anordnung, Abwaegungspruefung, Begruendungsanforderungen. Pruefraster und Mustertexte fuer Eilantrag. |
 | `widerspruch-oder-klage-erstpruefung` | Entscheidung Widerspruch vs. direkte Klage treffen: Mandant fragt was als naechstes zu tun ist nach Erhalt eines Bescheids. Normen: § 68 VwGO (Vorverfahren statthaft?), § 42 VwGO (Anfechtungs-/Verpflichtungsklage), § 74 VwGO (Klagefrist), §§ 80 und 80a und 123 VwGO (vorlaeufiger Rechtsschutz). Prüfraster: Vorverfahrenspflicht (Bundesland), Statthaftigkeit, Klagebefugnis, Frist, vorlaeufiger Rechtsschutz-Bedarf. Output Vorabbewertung Erfolgsaussicht, Streitwert § 52 GKG, Routing. Abgrenzung: Widerspruchsschrift siehe fachanwalt-verwaltungsrecht-widerspruchsschrift; Eilantrag siehe eilantrag-80-abs-5-vwgo. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vwr Spezial Eilrechtsschutz, Widerspruch Oder Klage Erstpruefung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verwaltungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

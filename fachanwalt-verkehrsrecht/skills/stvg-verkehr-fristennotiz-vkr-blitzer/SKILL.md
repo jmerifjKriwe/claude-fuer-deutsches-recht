@@ -1,6 +1,6 @@
 ---
 name: stvg-verkehr-fristennotiz-vkr-blitzer
-description: "Spezial Stvg Fristen Form Und Zustaendigkeit, Spezial Verkehr Fristennotiz Und Naechster Schritt, Vkr Blitzer Messverfahren Spezial: Spezial Stvg Fristen Form Und Zustaendigkeit; Spezial Verkehr Fristennotiz Und Naechster Schritt; Vkr Blitzer Messverfahren Spezial. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Stvg Fristen Form Und Zustaendigkeit, Spezial Verkehr Fristennotiz Und Naechster Schritt, Vkr Blitzer Messverfahren Spezial im Plugin Fachanwalt Verkehrsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Stvg Fristen Form Und Zustaendigkeit, Spezial Verkehr Fristennotiz Und Naechster Schritt, Vkr Blitzer Messverfahren Spezial prüfen.; Erstelle eine Arbeitsfassung zu Spezial Stvg Fristen Form Und Zustaendigkeit, Spezial Verkehr Fristennotiz Und Naechster Schritt, Vkr Blitzer Messverfahren Spezial.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Stvg Fristen Form Und Zustaendigkeit, Spezial Verkehr Fristennotiz Und Naechster Schritt, Vkr Blitzer Messverfahren Spezial
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-verkehr-fristennotiz-und-naechster-schritt` | Verkehr: Fristennotiz und nächster Schritt im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `vkr-blitzer-messverfahren-spezial` | Spezialfall Blitzer- und Messverfahren: standardisiertes Messverfahren, Rohmessdaten-Recht des Verteidigers (BVerfG 2 BvR 1167/20), Verwertbarkeit, Beweisantrag Sachverstaendigengutachten. Pruefraster und Schriftsatzbausteine. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Stvg Fristen Form Und Zustaendigkeit, Spezial Verkehr Fristennotiz Und Naechster Schritt, Vkr Blitzer Messverfahren Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verkehrsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

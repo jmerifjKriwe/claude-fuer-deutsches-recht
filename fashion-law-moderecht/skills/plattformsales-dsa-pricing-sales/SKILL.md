@@ -1,6 +1,6 @@
 ---
 name: plattformsales-dsa-pricing-sales
-description: "Plattformsales Dsa Marketplace, Pricing Sales Rabatte: Plattformsales Dsa Marketplace; Pricing Sales Rabatte. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Plattformsales Dsa Marketplace, Pricing Sales Rabatte im Plugin Fashion Law Moderecht konkret bearbeitet werden soll. Auslöser: Bitte Plattformsales Dsa Marketplace, Pricing Sales Rabatte prüfen.; Erstelle eine Arbeitsfassung zu Plattformsales Dsa Marketplace, Pricing Sales Rabatte.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Plattformsales Dsa Marketplace, Pricing Sales Rabatte
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `plattformsales-dsa-marketplace` | Plattformverkauf und DSA für Fashion prüfen: Händlerdaten, Notice-and-Action, Counterfeit-Meldung, Ranking, Sperrung, Beschwerde und Wiederholungstäter. |
 | `pricing-sales-rabatte` | Rabatte, Sales, Streichpreise und Outlet-Kommunikation prüfen: Preisangaben, UWG, Omnibus-Regeln, Vergleichspreise und Irreführung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Plattformsales Dsa Marketplace, Pricing Sales Rabatte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fashion-law-moderecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

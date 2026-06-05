@@ -1,6 +1,6 @@
 ---
 name: term-sheet-zag-finanztransfergeschaeft
-description: "Verhandlung Term Sheet Factoringlinie, Zag Finanztransfergeschaeft Schnittstelle Factoring: Verhandlung Term Sheet Factoringlinie; Zag Finanztransfergeschaeft Schnittstelle Factoring. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Verhandlung Term Sheet Factoringlinie, Zag Finanztransfergeschaeft Schnittstelle Factoring im Plugin Factoring Recht konkret bearbeitet werden soll. Auslöser: Bitte Verhandlung Term Sheet Factoringlinie, Zag Finanztransfergeschaeft Schnittstelle Factoring prüfen.; Erstelle eine Arbeitsfassung zu Verhandlung Term Sheet Factoringlinie, Zag Finanztransfergeschaeft Schnittstelle Factoring.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Verhandlung Term Sheet Factoringlinie, Zag Finanztransfergeschaeft Schnittstelle Factoring
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `verhandlung-term-sheet-factoringlinie` | Verhandlung Term Sheet Factoringlinie: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
 | `zag-finanztransfergeschaeft-schnittstelle-factoring` | ZAG Finanztransfergeschäft Schnittstelle Factoring: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Verhandlung Term Sheet Factoringlinie, Zag Finanztransfergeschaeft Schnittstelle Factoring** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `factoring-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

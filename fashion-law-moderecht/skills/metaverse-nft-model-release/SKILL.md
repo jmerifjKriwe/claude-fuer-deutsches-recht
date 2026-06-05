@@ -1,6 +1,6 @@
 ---
 name: metaverse-nft-model-release
-description: "Metaverse Nft Digital Fashion, Model Release Persoenlichkeitsrechte: Metaverse Nft Digital Fashion; Model Release Persoenlichkeitsrechte. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Metaverse Nft Digital Fashion, Model Release Persoenlichkeitsrechte im Plugin Fashion Law Moderecht konkret bearbeitet werden soll. Auslöser: Bitte Metaverse Nft Digital Fashion, Model Release Persoenlichkeitsrechte prüfen.; Erstelle eine Arbeitsfassung zu Metaverse Nft Digital Fashion, Model Release Persoenlichkeitsrechte.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Metaverse Nft Digital Fashion, Model Release Persoenlichkeitsrechte
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `metaverse-nft-digital-fashion` | Metaverse, NFT und Digital Fashion prüfen: virtuelle Güter, Markenklassen, Urheberrechte, Plattformbedingungen, Avatare und Consumer Claims. |
 | `model-release-persoenlichkeitsrechte` | Model Release und Persönlichkeitsrechte prüfen: Nutzungsumfang, Territory, Dauer, Buyout, Social Media, KI-Nutzung, Retusche und Widerruf. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Metaverse Nft Digital Fashion, Model Release Persoenlichkeitsrechte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fashion-law-moderecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

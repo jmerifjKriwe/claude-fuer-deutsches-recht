@@ -1,6 +1,6 @@
 ---
 name: textilkennzeichnung-eu-upcycling-repair
-description: "Textilkennzeichnung Eu 1007, Upcycling Repair Alteration: Textilkennzeichnung Eu 1007; Upcycling Repair Alteration. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Textilkennzeichnung Eu 1007, Upcycling Repair Alteration im Plugin Fashion Law Moderecht konkret bearbeitet werden soll. Auslöser: Bitte Textilkennzeichnung Eu 1007, Upcycling Repair Alteration prüfen.; Erstelle eine Arbeitsfassung zu Textilkennzeichnung Eu 1007, Upcycling Repair Alteration.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Textilkennzeichnung Eu 1007, Upcycling Repair Alteration
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `textilkennzeichnung-eu-1007` | Textilkennzeichnung nach VO (EU) 1007/2011 prüfen: Faserbezeichnungen, Zusammensetzung, Etikett, Online-Shop, Sprache, Verantwortlichkeit und Korrektur. |
 | `upcycling-repair-alteration` | Upcycling, Reparatur und Alteration prüfen: Markenrecht, Designrecht, Urheberrecht, Erschöpfung, Irreführung und Nachhaltigkeitsclaim. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Textilkennzeichnung Eu 1007, Upcycling Repair Alteration** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fashion-law-moderecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

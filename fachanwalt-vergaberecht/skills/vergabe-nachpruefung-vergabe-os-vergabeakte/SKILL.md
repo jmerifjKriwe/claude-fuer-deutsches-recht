@@ -1,6 +1,6 @@
 ---
 name: vergabe-nachpruefung-vergabe-os-vergabeakte
-description: "Vergabe Nachpruefung Aussicht, Vergabe Os Master Orchestrator, Vergabeakte Dokumentationsvermerk Builder, Vergabekammer Termin Simulation: Vergabe Nachpruefung Aussicht; Vergabe Os Master Orchestrator; Vergabeakte Dokumentationsvermerk Builder; Vergabekammer Termin Simulation. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vergabe Nachpruefung Aussicht, Vergabe Os Master Orchestrator, Vergabeakte Dokumentationsvermerk Builder, Vergabekammer Termin Simulation im Plugin Fachanwalt Vergaberecht konkret bearbeitet werden soll. Auslöser: Bitte Vergabe Nachpruefung Aussicht, Vergabe Os Master Orchestrator, Vergabeakte Dokumentationsvermerk Builder, Vergabekammer Termin Simulation prüfen.; Erstelle eine Arbeitsfassung zu Vergabe Nachpruefung Aussicht, Vergabe Os Master Orchestrator, Vergabeakte Dokumentationsvermerk Builder, Vergabekammer Termin Simulation.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vergabe Nachpruefung Aussicht, Vergabe Os Master Orchestrator, Vergabeakte Dokumentationsvermerk Builder, Vergabekammer Termin Simulation
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vergabeakte-dokumentationsvermerk-builder` | Vergabeakte und Dokumentationsvermerk fuer Auftraggeber aufbauen: Beschaffungsbedarf, Markterkundung, Verfahrenswahl, Eignung, Wertung, Kommunikation, Entscheidungen und Nachvollziehbarkeit. |
 | `vergabekammer-termin-simulation` | Vergabekammer-Termin simulieren: Fragenkatalog, Schwachstellen, Vergleichsfenster, Antragstaktik, Mandantenbriefing und Nachterminplan. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vergabe Nachpruefung Aussicht, Vergabe Os Master Orchestrator, Vergabeakte Dokumentationsvermerk Builder, Vergabekammer Termin Simulation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-vergaberecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

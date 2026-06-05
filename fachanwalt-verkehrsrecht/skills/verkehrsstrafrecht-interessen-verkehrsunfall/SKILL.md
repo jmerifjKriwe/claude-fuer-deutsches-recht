@@ -1,6 +1,6 @@
 ---
 name: verkehrsstrafrecht-interessen-verkehrsunfall
-description: "Spezial Verkehrsstrafrecht Mehrparteien Konflikt Und Interessen, Spezial Verkehrsunfall Schriftsatz Brief Und Memo Bausteine, Vergleichsverhandlung Strategie: Spezial Verkehrsstrafrecht Mehrparteien Konflikt Und Interessen; Spezial Verkehrsunfall Schriftsatz Brief Und Memo Bausteine; Vergleichsverhandlung Strategie. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Verkehrsstrafrecht Mehrparteien Konflikt Und Interessen, Spezial Verkehrsunfall Schriftsatz Brief Und Memo Bausteine, Vergleichsverhandlung Strategie im Plugin Fachanwalt Verkehrsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Verkehrsstrafrecht Mehrparteien Konflikt Und Interessen, Spezial Verkehrsunfall Schriftsatz Brief Und Memo Bausteine, Vergleichsverhandlung Strategie prüfen.; Erstelle eine Arbeitsfassung zu Spezial Verkehrsstrafrecht Mehrparteien Konflikt Und Interessen, Spezial Verkehrsunfall Schriftsatz Brief Und Memo Bausteine, Vergleichsverhandlung Strategie.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Verkehrsstrafrecht Mehrparteien Konflikt Und Interessen, Spezial Verkehrsunfall Schriftsatz Brief Und Memo Bausteine, Vergleichsverhandlung Strategie
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-verkehrsunfall-schriftsatz-brief-und-memo-bausteine` | Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Verkehrsstrafrecht Mehrparteien Konflikt Und Interessen, Spezial Verkehrsunfall Schriftsatz Brief Und Memo Bausteine, Vergleichsverhandlung Strategie** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verkehrsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

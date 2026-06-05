@@ -1,6 +1,6 @@
 ---
 name: freelancer-designer-zoll-tarif
-description: "Freelancer Designer Ip, Zoll Tarif Ursprung Mode: Freelancer Designer Ip; Zoll Tarif Ursprung Mode. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Freelancer Designer Ip, Zoll Tarif Ursprung Mode im Plugin Fashion Law Moderecht konkret bearbeitet werden soll. Auslöser: Bitte Freelancer Designer Ip, Zoll Tarif Ursprung Mode prüfen.; Erstelle eine Arbeitsfassung zu Freelancer Designer Ip, Zoll Tarif Ursprung Mode.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Freelancer Designer Ip, Zoll Tarif Ursprung Mode
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `freelancer-designer-ip` | Freelancer-Designer, Stylisten und Kreative rechtlich steuern: Rechteübertragung, Vergütung, Portfolio-Nutzung, Geheimhaltung, Scheinselbstständigkeit und Credits. |
 | `zoll-tarif-ursprung-mode` | Zoll, Ursprung und Tarifierung für Modeartikel prüfen: HS-Code, Präferenzursprung, Lieferantenerklärung, Incoterms, Einfuhrumsatzsteuer und Dokumente. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Freelancer Designer Ip, Zoll Tarif Ursprung Mode** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fashion-law-moderecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

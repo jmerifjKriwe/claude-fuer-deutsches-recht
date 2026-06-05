@@ -1,6 +1,6 @@
 ---
 name: franchise-shop-green-claims
-description: "Franchise Shop In Shop, Green Claims Nachhaltigkeit: Franchise Shop In Shop; Green Claims Nachhaltigkeit. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Franchise Shop In Shop, Green Claims Nachhaltigkeit im Plugin Fashion Law Moderecht konkret bearbeitet werden soll. Auslöser: Bitte Franchise Shop In Shop, Green Claims Nachhaltigkeit prüfen.; Erstelle eine Arbeitsfassung zu Franchise Shop In Shop, Green Claims Nachhaltigkeit.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Franchise Shop In Shop, Green Claims Nachhaltigkeit
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `franchise-shop-in-shop` | Franchise, Concession und Shop-in-Shop im Fashion Retail prüfen: Markenlizenz, Store-Konzept, Personal, Warenwirtschaft, Umsatzmiete und Exit. |
 | `green-claims-nachhaltigkeit` | Green Claims und Nachhaltigkeitskommunikation für Mode prüfen: recycelt, klimaneutral, vegan, fair, langlebig, Reparatur, Belege und UWG-Risiko. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Franchise Shop In Shop, Green Claims Nachhaltigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fashion-law-moderecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: einstweilige-fachanwalt-kanzlei
-description: "Spezial Einstweilige Verhandlung Vergleich Und Eskalation, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Kanzlei Formular Portal Und Einreichung: Spezial Einstweilige Verhandlung Vergleich Und Eskalation; Spezial Fachanwalt Erstpruefung Und Mandatsziel; Spezial Kanzlei Formular Portal Und Einreichung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Einstweilige Verhandlung Vergleich Und Eskalation, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Kanzlei Formular Portal Und Einreichung im Plugin Fachanwalt Verwaltungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Einstweilige Verhandlung Vergleich Und Eskalation, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Kanzlei Formular Portal Und Einreichung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Einstweilige Verhandlung Vergleich Und Eskalation, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Kanzlei Formular Portal Und Einreichung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Einstweilige Verhandlung Vergleich Und Eskalation, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Kanzlei Formular Portal Und Einreichung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-kanzlei-formular-portal-und-einreichung` | Kanzlei: Formular, Portal und Einreichungslogik im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Einstweilige Verhandlung Vergleich Und Eskalation, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Kanzlei Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verwaltungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

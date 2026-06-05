@@ -1,6 +1,6 @@
 ---
 name: e-commerce-employment-creatives
-description: "E Commerce Widerruf Fashion, Employment Creatives Fashion: E Commerce Widerruf Fashion; Employment Creatives Fashion. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn E Commerce Widerruf Fashion, Employment Creatives Fashion im Plugin Fashion Law Moderecht konkret bearbeitet werden soll. Auslöser: Bitte E Commerce Widerruf Fashion, Employment Creatives Fashion prüfen.; Erstelle eine Arbeitsfassung zu E Commerce Widerruf Fashion, Employment Creatives Fashion.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # E Commerce Widerruf Fashion, Employment Creatives Fashion
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `e-commerce-widerruf-fashion` | E-Commerce-Pflichten für Fashion prüfen: Produktinformationen, Widerruf, Größen, Retouren, Preisangaben, Button-Lösung, Verbraucherschutz und AGB. |
 | `employment-creatives-fashion` | Arbeitsrecht für Kreativteams im Fashion-Bereich prüfen: Designer, Pattern Maker, Store Staff, Überstunden, Reise, Incentives, IP und Geheimhaltung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **E Commerce Widerruf Fashion, Employment Creatives Fashion** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fashion-law-moderecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

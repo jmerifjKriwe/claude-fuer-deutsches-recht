@@ -1,6 +1,6 @@
 ---
 name: fahrerlaubnis-kanzlei-personen
-description: "Spezial Fahrerlaubnis Compliance Dokumentation Und Akte, Spezial Kanzlei Mandantenkommunikation Entscheidungsvorlage, Spezial Personen Verhandlung Vergleich Und Eskalation: Spezial Fahrerlaubnis Compliance Dokumentation Und Akte; Spezial Kanzlei Mandantenkommunikation Entscheidungsvorlage; Spezial Personen Verhandlung Vergleich Und Eskalation. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Fahrerlaubnis Compliance Dokumentation Und Akte, Spezial Kanzlei Mandantenkommunikation Entscheidungsvorlage, Spezial Personen Verhandlung Vergleich Und Eskalation im Plugin Fachanwalt Verkehrsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Fahrerlaubnis Compliance Dokumentation Und Akte, Spezial Kanzlei Mandantenkommunikation Entscheidungsvorlage, Spezial Personen Verhandlung Vergleich Und Eskalation prüfen.; Erstelle eine Arbeitsfassung zu Spezial Fahrerlaubnis Compliance Dokumentation Und Akte, Spezial Kanzlei Mandantenkommunikation Entscheidungsvorlage, Spezial Personen Verhandlung Vergleich Und Eskalation.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Fahrerlaubnis Compliance Dokumentation Und Akte, Spezial Kanzlei Mandantenkommunikation Entscheidungsvorlage, Spezial Personen Verhandlung Vergleich Und Eskalation
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-kanzlei-mandantenkommunikation-entscheidungsvorlage` | Kanzlei: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-personen-verhandlung-vergleich-und-eskalation` | Personen: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Fahrerlaubnis Compliance Dokumentation Und Akte, Spezial Kanzlei Mandantenkommunikation Entscheidungsvorlage, Spezial Personen Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verkehrsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

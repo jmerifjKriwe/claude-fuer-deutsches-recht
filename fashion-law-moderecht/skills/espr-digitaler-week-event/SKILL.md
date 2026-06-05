@@ -1,6 +1,6 @@
 ---
 name: espr-digitaler-week-event
-description: "Espr Digitaler Produktpass, Fashion Week Event: Espr Digitaler Produktpass; Fashion Week Event. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Espr Digitaler Produktpass, Fashion Week Event im Plugin Fashion Law Moderecht konkret bearbeitet werden soll. Auslöser: Bitte Espr Digitaler Produktpass, Fashion Week Event prüfen.; Erstelle eine Arbeitsfassung zu Espr Digitaler Produktpass, Fashion Week Event.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Espr Digitaler Produktpass, Fashion Week Event
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `espr-digitaler-produktpass` | ESPR und Digital Product Passport für Mode strategisch vorbereiten: Nachhaltigkeitsdaten, Reparierbarkeit, Haltbarkeit, Materialdaten, Delegated Acts und IT-Datenmodell. |
 | `fashion-week-event` | Fashion Week, Runway und Eventrecht prüfen: Location, Musik, Models, Sponsoren, Presse, Gästeliste, Sicherheit, Streaming und Bildrechte. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Espr Digitaler Produktpass, Fashion Week Event** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fashion-law-moderecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

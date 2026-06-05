@@ -1,6 +1,6 @@
 ---
 name: schnittmuster-tech-secondhand-resale
-description: "Schnittmuster Und Tech Pack, Secondhand Resale Vintage: Schnittmuster Und Tech Pack; Secondhand Resale Vintage. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Schnittmuster Und Tech Pack, Secondhand Resale Vintage im Plugin Fashion Law Moderecht konkret bearbeitet werden soll. Auslöser: Bitte Schnittmuster Und Tech Pack, Secondhand Resale Vintage prüfen.; Erstelle eine Arbeitsfassung zu Schnittmuster Und Tech Pack, Secondhand Resale Vintage.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Schnittmuster Und Tech Pack, Secondhand Resale Vintage
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `schnittmuster-und-tech-pack` | Schnittmuster, Tech Pack und Produktentwicklung rechtlich einordnen: Rechteinhaber, Know-how, Geheimhaltung, Herstellerzugang und Kopierrisiko. |
 | `secondhand-resale-vintage` | Secondhand, Resale und Vintage rechtlich prüfen: Erschöpfung, Authentizität, Reparatur, Markenimage, Plattformpflichten und Verbraucherschutz. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Schnittmuster Und Tech Pack, Secondhand Resale Vintage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fashion-law-moderecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

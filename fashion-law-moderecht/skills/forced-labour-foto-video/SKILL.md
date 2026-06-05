@@ -1,6 +1,6 @@
 ---
 name: forced-labour-foto-video
-description: "Forced Labour Und Importstop, Foto Video Campaign Rights: Forced Labour Und Importstop; Foto Video Campaign Rights. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Forced Labour Und Importstop, Foto Video Campaign Rights im Plugin Fashion Law Moderecht konkret bearbeitet werden soll. Auslöser: Bitte Forced Labour Und Importstop, Foto Video Campaign Rights prüfen.; Erstelle eine Arbeitsfassung zu Forced Labour Und Importstop, Foto Video Campaign Rights.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Forced Labour Und Importstop, Foto Video Campaign Rights
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `forced-labour-und-importstop` | Zwangsarbeits-, Import- und Sanktionsrisiken in der Fashion-Lieferkette prüfen: Herkunft, Baumwolle, Audits, Zoll, Nachweise und Krisenkommunikation. |
 | `foto-video-campaign-rights` | Foto-, Video- und Kampagnenrechte prüfen: Fotograf, Agentur, Stylist, Location, Musik, Requisiten, Buyout, Credits und Archivnutzung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Forced Labour Und Importstop, Foto Video Campaign Rights** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fashion-law-moderecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

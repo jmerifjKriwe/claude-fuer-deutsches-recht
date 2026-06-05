@@ -1,6 +1,6 @@
 ---
 name: supplier-quality-sustainability-reporting
-description: "Supplier Quality Defects, Sustainability Reporting Esg: Supplier Quality Defects; Sustainability Reporting Esg. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Supplier Quality Defects, Sustainability Reporting Esg im Plugin Fashion Law Moderecht konkret bearbeitet werden soll. Auslöser: Bitte Supplier Quality Defects, Sustainability Reporting Esg prüfen.; Erstelle eine Arbeitsfassung zu Supplier Quality Defects, Sustainability Reporting Esg.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Supplier Quality Defects, Sustainability Reporting Esg
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `supplier-quality-defects` | Supplier-Mängel und Qualitätsprobleme prüfen: Musterfreigabe, Toleranzen, Nähfehler, Farbabweichung, Lieferverzug, Nachbesserung und Beweisproben. |
 | `sustainability-reporting-esg` | ESG-, CSRD-/Nachhaltigkeits- und Textilstrategie-Reporting einordnen: Daten, Lieferkette, Umweltclaims, DPP-Vorbereitung und Governance. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Supplier Quality Defects, Sustainability Reporting Esg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fashion-law-moderecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

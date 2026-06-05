@@ -1,6 +1,6 @@
 ---
 name: trans-transport-visby
-description: "Spezial Trans Mandantenkommunikation Entscheidungsvorlage, Spezial Transport Tatbestand Beweis Und Belege, Spezial Visby Compliance Dokumentation Und Akte: Spezial Trans Mandantenkommunikation Entscheidungsvorlage; Spezial Transport Tatbestand Beweis Und Belege; Spezial Visby Compliance Dokumentation Und Akte. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Trans Mandantenkommunikation Entscheidungsvorlage, Spezial Transport Tatbestand Beweis Und Belege, Spezial Visby Compliance Dokumentation Und Akte im Plugin Fachanwalt Transport Speditionsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Trans Mandantenkommunikation Entscheidungsvorlage, Spezial Transport Tatbestand Beweis Und Belege, Spezial Visby Compliance Dokumentation Und Akte prüfen.; Erstelle eine Arbeitsfassung zu Spezial Trans Mandantenkommunikation Entscheidungsvorlage, Spezial Transport Tatbestand Beweis Und Belege, Spezial Visby Compliance Dokumentation Und Akte.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Trans Mandantenkommunikation Entscheidungsvorlage, Spezial Transport Tatbestand Beweis Und Belege, Spezial Visby Compliance Dokumentation Und Akte
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-transport-tatbestand-beweis-und-belege` | Transport: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-visby-compliance-dokumentation-und-akte` | Visby: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Trans Mandantenkommunikation Entscheidungsvorlage, Spezial Transport Tatbestand Beweis Und Belege, Spezial Visby Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-transport-speditionsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

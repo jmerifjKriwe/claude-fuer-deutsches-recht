@@ -1,6 +1,6 @@
 ---
 name: cyber-loesegeld-versr-cyber-deckungsanfrage
-description: "Fachanwalt Versicherungsrecht Cyber Loesegeld Sanktionsrecht, Versr Cyber Ransomware Dora Sanktionen, Deckungsanfrage Prüfen: Fachanwalt Versicherungsrecht Cyber Loesegeld Sanktionsrecht; Versr Cyber Ransomware Dora Sanktionen; Deckungsanfrage Prüfen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Fachanwalt Versicherungsrecht Cyber Loesegeld Sanktionsrecht, Versr Cyber Ransomware Dora Sanktionen, Deckungsanfrage Prüfen im Plugin Fachanwalt Versicherungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Versicherungsrecht Cyber Loesegeld Sanktionsrecht, Versr Cyber Ransomware Dora Sanktionen, Deckungsanfrage Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Versicherungsrecht Cyber Loesegeld Sanktionsrecht, Versr Cyber Ransomware Dora Sanktionen, Deckungsanfrage Prüfen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Fachanwalt Versicherungsrecht Cyber Loesegeld Sanktionsrecht, Versr Cyber Ransomware Dora Sanktionen, Deckungsanfrage Prüfen
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `versr-cyber-ransomware-dora-sanktionen` | Cyberversicherung bei Ransomware: Deckung, Lösegeld, Forensik, DSGVO-Meldung, DORA/NIS2 und Sanktionsrecht. |
 | `deckungsanfrage-pruefen` | Prüfung von Versicherungsschadenfaellen und Deckungsablehnungen nach VVG. Anwendungsfall Versicherung hat Leistung abgelehnt oder eingeschraenkt und Mandant will wissen ob Klage Aussicht hat. Normen §§ 1 28 VVG § 19 VVG vorvertragliche Anzeigepflicht § 81 VVG grob fahrlässig § 14 VVG Fälligkeit. Prüfraster Versicherungsfall-Definition Bedingungswerk Obliegenheitsverletzung Risikoausschluss Vorsatz grobe Fahrlässigkeit Kausalität Stichtage. Output Strukturierte Stellungnahme zur Deckungsablehnung mit AVB-Auslegung nach §§ 305 ff. BGB Handlungsempfehlung und Klageeinschaetzung. Abgrenzung zu fachanwalt-versicherungsrecht-leistungsablehnung-prüfen und klage-versicherer-strategie. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Fachanwalt Versicherungsrecht Cyber Loesegeld Sanktionsrecht, Versr Cyber Ransomware Dora Sanktionen, Deckungsanfrage Prüfen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-versicherungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 
