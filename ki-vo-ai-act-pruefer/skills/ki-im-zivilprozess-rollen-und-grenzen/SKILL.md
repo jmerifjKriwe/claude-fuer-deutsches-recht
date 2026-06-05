@@ -1,0 +1,40 @@
+---
+name: ki-im-zivilprozess-rollen-und-grenzen
+description: "KI im Zivilprozess: Einsatz durch Partei, Anwalt, Gericht, Sachverstaendige und Justizverwaltung. Prueft KI-VO, ZPO, Berufsrecht, Beweisrecht, richterliche Verantwortung, rechtliches Gehoer und Grenzen automatisierter Entscheidungsunterstuetzung."
+---
+
+# KI im Zivilprozess
+
+## Rollen trennen
+
+| Rolle | Zulässiger Nutzen | Risiko |
+|---|---|---|
+| Partei | Sachverhalt ordnen, Dokumente vorbereiten | ungeprüfte Tatsachen, Geheimnisse |
+| Anwalt | Recherchehilfe, Entwurf, Aktenextraktion | Halluzinationen, Berufsrecht, Mandatsgeheimnis |
+| Gericht | Organisation, Recherche, Entwurfshilfe | richterliche Verantwortung, rechtliches Gehör |
+| Sachverständiger | Datenanalyse, Modellierung | Methodenoffenlegung, Nachvollziehbarkeit |
+| Justizverwaltung | Aktenrouting, Übersetzung, Statistik | Anhang III Justiz-Hochrisiko, Grundrechte |
+
+## KI-VO-Fragen
+
+- Ist das Tool ein KI-System nach Art. 3 Nr. 1 KI-VO?
+- Wird es fuer Justizverwaltung, Rechtsanwendung oder Entscheidungsunterstützung verwendet?
+- Betrifft der Einsatz Anhang III: rechtliche Tatsachen- oder Rechtsbewertung im konkreten Fall?
+- Gibt es Transparenz, Logging, menschliche Kontrolle und Dokumentation?
+
+## Prozessuale Leitplanken
+
+- Das Gericht muss verantwortlich entscheiden; KI darf keine heimliche Entscheidungsinstanz werden.
+- Parteien müssen erheblichen Vortrag erkennen und bestreiten können.
+- Quellen, Datenbasis und Methode müssen bei entscheidungsrelevanter KI nachvollziehbar sein.
+- Bei KI-generierten Schriftsätzen bleibt die Verantwortung beim Einreichenden.
+
+## Output
+
+Erzeuge eine Rollenmatrix mit:
+
+- Einsatzart;
+- rechtlichem Risiko;
+- erforderlichem Hinweis oder Vermerk;
+- Beweis- und Akteneinsichtsfrage;
+- Vorschlag fuer sichere Nutzung.
