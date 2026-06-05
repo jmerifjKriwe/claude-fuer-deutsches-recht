@@ -1,6 +1,6 @@
 ---
 name: vc-tech-vc-financial-vc-cap-vc-valuation
-description: "Vc 014 Tech Product Dd Rookie, Vc 015 Financial Model Runway, Vc 016 Cap Table Grundlagen, Vc 017 Valuation Pre Post Money: Vc 014 Tech Product Dd Rookie; Vc 015 Financial Model Runway; Vc 016 Cap Table Grundlagen; Vc 017 Valuation Pre Post Money. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vc 014 Tech Product Dd Rookie, Vc 015 Financial Model Runway, Vc 016 Cap Table Grundlagen, Vc 017 Valuation Pre Post Money im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 014 Tech Product Dd Rookie, Vc 015 Financial Model Runway, Vc 016 Cap Table Grundlagen, Vc 017 Valuation Pre Post Money prüfen.; Erstelle eine Arbeitsfassung zu Vc 014 Tech Product Dd Rookie, Vc 015 Financial Model Runway, Vc 016 Cap Table Grundlagen, Vc 017 Valuation Pre Post Money.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vc 014 Tech Product Dd Rookie, Vc 015 Financial Model Runway, Vc 016 Cap Table Grundlagen, Vc 017 Valuation Pre Post Money
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vc-016-cap-table-grundlagen` | Erklärt und prüft Beteiligungsquoten, Verwässerung, Gesellschafterliste, VSOP/ESOP, Pools und fully diluted Betrachtung. |
 | `vc-017-valuation-pre-post-money` | Rechnet Pre-/Post-Money, Ticket, Quote, option pool shuffle, convertible impact und round economics. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vc 014 Tech Product Dd Rookie, Vc 015 Financial Model Runway, Vc 016 Cap Table Grundlagen, Vc 017 Valuation Pre Post Money** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: vbr-abo-vbr-abo-vbr-abo-vbr-abo
-description: "Vbr 062 Abo Falle Widerruf Formulieren, Vbr 064 Abo Falle Beweise Sichern, Vbr 065 Abo Falle Agb Redlinen, Vbr 066 Abo Falle Beschwerde Schreiben: Vbr 062 Abo Falle Widerruf Formulieren; Vbr 064 Abo Falle Beweise Sichern; Vbr 065 Abo Falle Agb Redlinen; Vbr 066 Abo Falle Beschwerde Schreiben. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vbr 062 Abo Falle Widerruf Formulieren, Vbr 064 Abo Falle Beweise Sichern, Vbr 065 Abo Falle Agb Redlinen, Vbr 066 Abo Falle Beschwerde Schreiben im Plugin Verbraucherschutzrecht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Vbr 062 Abo Falle Widerruf Formulieren, Vbr 064 Abo Falle Beweise Sichern, Vbr 065 Abo Falle Agb Redlinen, Vbr 066 Abo Falle Beschwerde Schreiben prüfen.; Erstelle eine Arbeitsfassung zu Vbr 062 Abo Falle Widerruf Formulieren, Vbr 064 Abo Falle Beweise Sichern, Vbr 065 Abo Falle Agb Redlinen, Vbr 066 Abo Falle Beschwerde Schreiben.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vbr 062 Abo Falle Widerruf Formulieren, Vbr 064 Abo Falle Beweise Sichern, Vbr 065 Abo Falle Agb Redlinen, Vbr 066 Abo Falle Beschwerde Schreiben
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vbr-065-abo-falle-agb-redlinen` | Verbraucherschutzrecht Prüfer: Abo-Falle: AGB redlinen. AGB redlinen für Abo-Falle im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vbr-066-abo-falle-beschwerde-schreiben` | Verbraucherschutzrecht Prüfer: Abo-Falle: Beschwerde schreiben. Beschwerde schreiben für Abo-Falle im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vbr 062 Abo Falle Widerruf Formulieren, Vbr 064 Abo Falle Beweise Sichern, Vbr 065 Abo Falle Agb Redlinen, Vbr 066 Abo Falle Beschwerde Schreiben** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

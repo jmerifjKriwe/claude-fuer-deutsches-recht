@@ -1,6 +1,6 @@
 ---
 name: mietkaution-genossenschaftsanteil-muster
-description: "Mietkaution Und Genossenschaftsanteil, Muster Schuldenbereinigungsplan, Musterbrief Glaeubiger: Mietkaution Und Genossenschaftsanteil; Muster Schuldenbereinigungsplan; Musterbrief Glaeubiger. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Mietkaution Und Genossenschaftsanteil, Muster Schuldenbereinigungsplan, Musterbrief Glaeubiger im Plugin Verbraucherinsolvenz Schuldenbereinigung konkret bearbeitet werden soll. Auslöser: Bitte Mietkaution Und Genossenschaftsanteil, Muster Schuldenbereinigungsplan, Musterbrief Glaeubiger prüfen.; Erstelle eine Arbeitsfassung zu Mietkaution Und Genossenschaftsanteil, Muster Schuldenbereinigungsplan, Musterbrief Glaeubiger.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Mietkaution Und Genossenschaftsanteil, Muster Schuldenbereinigungsplan, Musterbrief Glaeubiger
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `muster-schuldenbereinigungsplan` | Muster-Schuldenbereinigungsplan: Nullplan, Quotenplan, Drittmittelplan und Begründung in Alltagssprache.; Normanker: InsO §§ 305 und 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
 | `musterbrief-glaeubiger` | Musterbrief an Gläubiger: Forderungsstand, Vollmacht, Planangebot, Frist, keine Anerkenntnisfalle.; Normanker: InsO § 305; BGB Anerkenntnis; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Mietkaution Und Genossenschaftsanteil, Muster Schuldenbereinigungsplan, Musterbrief Glaeubiger** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherinsolvenz-schuldenbereinigung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

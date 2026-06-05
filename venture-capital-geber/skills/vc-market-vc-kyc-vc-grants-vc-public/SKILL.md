@@ -1,6 +1,6 @@
 ---
 name: vc-market-vc-kyc-vc-grants-vc-public
-description: "Vc 070 Market Abuse Inside Info, Vc 071 Kyc Aml Sanctions Investor, Vc 073 Grants Forschungszulage, Vc 074 Public Funding State Aid: Vc 070 Market Abuse Inside Info; Vc 071 Kyc Aml Sanctions Investor; Vc 073 Grants Forschungszulage; Vc 074 Public Funding State Aid. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vc 070 Market Abuse Inside Info, Vc 071 Kyc Aml Sanctions Investor, Vc 073 Grants Forschungszulage, Vc 074 Public Funding State Aid im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 070 Market Abuse Inside Info, Vc 071 Kyc Aml Sanctions Investor, Vc 073 Grants Forschungszulage, Vc 074 Public Funding State Aid prüfen.; Erstelle eine Arbeitsfassung zu Vc 070 Market Abuse Inside Info, Vc 071 Kyc Aml Sanctions Investor, Vc 073 Grants Forschungszulage, Vc 074 Public Funding State Aid.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vc 070 Market Abuse Inside Info, Vc 071 Kyc Aml Sanctions Investor, Vc 073 Grants Forschungszulage, Vc 074 Public Funding State Aid
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vc-073-grants-forschungszulage` | Prüft, ob Portfolio-Unternehmen Forschungszulage, Zuschüsse, EU-Förderung oder Investitionsprogramme nutzen kann. |
 | `vc-074-public-funding-state-aid` | Prüft Beihilfe-, De-minimis-, EU- und Landesförderungsrisiken bei Deep-Tech- und Infrastruktur-Startups. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vc 070 Market Abuse Inside Info, Vc 071 Kyc Aml Sanctions Investor, Vc 073 Grants Forschungszulage, Vc 074 Public Funding State Aid** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

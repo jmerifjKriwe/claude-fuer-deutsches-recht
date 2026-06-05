@@ -1,6 +1,6 @@
 ---
 name: vdg-abhilfeklage-vdg-uklag-vdg-uwg-vdg-quorum
-description: "Vdg 003 Abhilfeklage Oder Musterfeststellung W, Vdg 004 Uklag Unterlassung Gegen Agb, Vdg 005 Uwg Verbraucherinteressen Prüfen, Vdg 006 Quorum Und Betroffenengruppe: Vdg 003 Abhilfeklage Oder Musterfeststellung W; Vdg 004 Uklag Unterlassung Gegen Agb; Vdg 005 Uwg Verbraucherinteressen Prüfen; Vdg 006 Quorum Und Betroffenengruppe. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vdg 003 Abhilfeklage Oder Musterfeststellung W, Vdg 004 Uklag Unterlassung Gegen Agb, Vdg 005 Uwg Verbraucherinteressen Prüfen, Vdg 006 Quorum Und Betroffenengruppe im Plugin Verbraucherschutzverband Durchsetzung konkret bearbeitet werden soll. Auslöser: Bitte Vdg 003 Abhilfeklage Oder Musterfeststellung W, Vdg 004 Uklag Unterlassung Gegen Agb, Vdg 005 Uwg Verbraucherinteressen Prüfen, Vdg 006 Quorum Und Betroffenengruppe prüfen.; Erstelle eine Arbeitsfassung zu Vdg 003 Abhilfeklage Oder Musterfeststellung W, Vdg 004 Uklag Unterlassung Gegen Agb, Vdg 005 Uwg Verbraucherinteressen Prüfen, Vdg 006 Quorum Und Betroffenengruppe.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vdg 003 Abhilfeklage Oder Musterfeststellung W, Vdg 004 Uklag Unterlassung Gegen Agb, Vdg 005 Uwg Verbraucherinteressen Prüfen, Vdg 006 Quorum Und Betroffenengruppe
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vdg-005-uwg-verbraucherinteressen-pruefen` | Verbraucherschutzverband Durchsetzung: UWG-Verbraucherinteressen prüfen. UWG-Verbraucherinteressen prüfen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `vdg-006-quorum-und-betroffenengruppe` | Verbraucherschutzverband Durchsetzung: Quorum und Betroffenengruppe. Quorum und Betroffenengruppe im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vdg 003 Abhilfeklage Oder Musterfeststellung W, Vdg 004 Uklag Unterlassung Gegen Agb, Vdg 005 Uwg Verbraucherinteressen Prüfen, Vdg 006 Quorum Und Betroffenengruppe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzverband-durchsetzung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

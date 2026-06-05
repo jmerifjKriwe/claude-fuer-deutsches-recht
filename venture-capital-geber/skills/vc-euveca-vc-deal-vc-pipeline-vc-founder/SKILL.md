@@ -1,6 +1,6 @@
 ---
 name: vc-euveca-vc-deal-vc-pipeline-vc-founder
-description: "Vc 006 Euveca Eltif Vc Fonds, Vc 007 Deal Sourcing Thesis, Vc 008 Pipeline Crm Kanban, Vc 009 Founder Update Intake: Vc 006 Euveca Eltif Vc Fonds; Vc 007 Deal Sourcing Thesis; Vc 008 Pipeline Crm Kanban; Vc 009 Founder Update Intake. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vc 006 Euveca Eltif Vc Fonds, Vc 007 Deal Sourcing Thesis, Vc 008 Pipeline Crm Kanban, Vc 009 Founder Update Intake im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 006 Euveca Eltif Vc Fonds, Vc 007 Deal Sourcing Thesis, Vc 008 Pipeline Crm Kanban, Vc 009 Founder Update Intake prüfen.; Erstelle eine Arbeitsfassung zu Vc 006 Euveca Eltif Vc Fonds, Vc 007 Deal Sourcing Thesis, Vc 008 Pipeline Crm Kanban, Vc 009 Founder Update Intake.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vc 006 Euveca Eltif Vc Fonds, Vc 007 Deal Sourcing Thesis, Vc 008 Pipeline Crm Kanban, Vc 009 Founder Update Intake
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vc-008-pipeline-crm-kanban` | Baut ein VC-Tracking-System mit Status, Fristen, Reminder, Verantwortlichen, Investor-Updates und Follow-on-Signalen. |
 | `vc-009-founder-update-intake` | Liest Founder Updates, extrahiert KPIs, Zusagen, Risiken, offene Requests, Stimmungen und nächste Investorhandlung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vc 006 Euveca Eltif Vc Fonds, Vc 007 Deal Sourcing Thesis, Vc 008 Pipeline Crm Kanban, Vc 009 Founder Update Intake** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

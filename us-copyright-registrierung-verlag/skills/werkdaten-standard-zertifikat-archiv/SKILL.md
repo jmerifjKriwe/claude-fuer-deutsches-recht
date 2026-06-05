@@ -1,6 +1,6 @@
 ---
 name: werkdaten-standard-zertifikat-archiv
-description: "Werkdaten Standard Application, Zertifikat Archiv Registrierungsdatum: Werkdaten Standard Application; Zertifikat Archiv Registrierungsdatum. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Werkdaten Standard Application, Zertifikat Archiv Registrierungsdatum im Plugin Us Copyright Registrierung Verlag konkret bearbeitet werden soll. Auslöser: Bitte Werkdaten Standard Application, Zertifikat Archiv Registrierungsdatum prüfen.; Erstelle eine Arbeitsfassung zu Werkdaten Standard Application, Zertifikat Archiv Registrierungsdatum.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Werkdaten Standard Application, Zertifikat Archiv Registrierungsdatum
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `werkdaten-standard-application` | Werkdaten für die Standard Application: Titel, Autorenschaft, Claimant, Publication, Transfer Statement, Rights-and-Permissions und ausgeschlossene Inhalte präzise erfassen. |
 | `zertifikat-archiv-registrierungsdatum` | Certificate, Registrierungsdatum und Archiv: maßgeblicher Eingang von Antrag, Gebühr und Deposit, elektronische Ablage, Nachweise und Management-Report. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Werkdaten Standard Application, Zertifikat Archiv Registrierungsdatum** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `us-copyright-registrierung-verlag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

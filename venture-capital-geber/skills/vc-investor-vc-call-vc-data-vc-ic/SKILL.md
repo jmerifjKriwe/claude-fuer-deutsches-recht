@@ -1,6 +1,6 @@
 ---
 name: vc-investor-vc-call-vc-data-vc-ic
-description: "Vc 075 Investor Reporting Family Office, Vc 076 Capital Call Internal Budget, Vc 077 Data Room Index Vc, Vc 078 Ic Memo Generator: Vc 075 Investor Reporting Family Office; Vc 076 Capital Call Internal Budget; Vc 077 Data Room Index Vc; Vc 078 Ic Memo Generator. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vc 075 Investor Reporting Family Office, Vc 076 Capital Call Internal Budget, Vc 077 Data Room Index Vc, Vc 078 Ic Memo Generator im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 075 Investor Reporting Family Office, Vc 076 Capital Call Internal Budget, Vc 077 Data Room Index Vc, Vc 078 Ic Memo Generator prüfen.; Erstelle eine Arbeitsfassung zu Vc 075 Investor Reporting Family Office, Vc 076 Capital Call Internal Budget, Vc 077 Data Room Index Vc, Vc 078 Ic Memo Generator.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vc 075 Investor Reporting Family Office, Vc 076 Capital Call Internal Budget, Vc 077 Data Room Index Vc, Vc 078 Ic Memo Generator
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vc-077-data-room-index-vc` | Baut Datenraum-Index für Startup-DD: Corporate, Cap Table, IP, Tech, HR, Finance, Contracts, Regulatory, Litigation. |
 | `vc-078-ic-memo-generator` | Erzeugt IC-Memo mit These, Deal Terms, Risiken, Checks, Alternativen, Follow-on und Beschlussvorschlag. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vc 075 Investor Reporting Family Office, Vc 076 Capital Call Internal Budget, Vc 077 Data Room Index Vc, Vc 078 Ic Memo Generator** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

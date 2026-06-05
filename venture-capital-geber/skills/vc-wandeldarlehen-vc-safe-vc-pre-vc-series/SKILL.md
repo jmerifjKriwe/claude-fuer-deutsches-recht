@@ -1,6 +1,6 @@
 ---
 name: vc-wandeldarlehen-vc-safe-vc-pre-vc-series
-description: "Vc 018 Wandeldarlehen Deutschland, Vc 019 Safe Kiss Deutsche Adaption, Vc 020 Pre Seed Seed Runde, Vc 021 Series A Term Sheet: Vc 018 Wandeldarlehen Deutschland; Vc 019 Safe Kiss Deutsche Adaption; Vc 020 Pre Seed Seed Runde; Vc 021 Series A Term Sheet. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vc 018 Wandeldarlehen Deutschland, Vc 019 Safe Kiss Deutsche Adaption, Vc 020 Pre Seed Seed Runde, Vc 021 Series A Term Sheet im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 018 Wandeldarlehen Deutschland, Vc 019 Safe Kiss Deutsche Adaption, Vc 020 Pre Seed Seed Runde, Vc 021 Series A Term Sheet prüfen.; Erstelle eine Arbeitsfassung zu Vc 018 Wandeldarlehen Deutschland, Vc 019 Safe Kiss Deutsche Adaption, Vc 020 Pre Seed Seed Runde, Vc 021 Series A Term Sheet.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vc 018 Wandeldarlehen Deutschland, Vc 019 Safe Kiss Deutsche Adaption, Vc 020 Pre Seed Seed Runde, Vc 021 Series A Term Sheet
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vc-020-pre-seed-seed-runde` | Begleitet frühe GmbH-Finanzierungen mit kleinen Tickets, Angels, Wandeldarlehen, VSOP, IP-Chain und Notarlogik. |
 | `vc-021-series-a-term-sheet` | Prüft Lead-Investor, Bewertung, liquidation preference, anti-dilution, pro rata, board, vetoes, ESOP und Closing Steps. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vc 018 Wandeldarlehen Deutschland, Vc 019 Safe Kiss Deutsche Adaption, Vc 020 Pre Seed Seed Runde, Vc 021 Series A Term Sheet** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

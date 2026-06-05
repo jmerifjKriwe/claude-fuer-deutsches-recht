@@ -1,6 +1,6 @@
 ---
 name: reise-flug-reparatur-statt-vermerk-mustertext
-description: "Reise Flug Zug Problem, Reparatur Statt Neukauf Right To Repair, Schriftsatz Vermerk Und Mustertext: Reise Flug Zug Problem; Reparatur Statt Neukauf Right To Repair; Schriftsatz Vermerk Und Mustertext. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Reise Flug Zug Problem, Reparatur Statt Neukauf Right To Repair, Schriftsatz Vermerk Und Mustertext im Plugin Verbraucher Rechtsstaat Alltag konkret bearbeitet werden soll. Auslöser: Bitte Reise Flug Zug Problem, Reparatur Statt Neukauf Right To Repair, Schriftsatz Vermerk Und Mustertext prüfen.; Erstelle eine Arbeitsfassung zu Reise Flug Zug Problem, Reparatur Statt Neukauf Right To Repair, Schriftsatz Vermerk Und Mustertext.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Reise Flug Zug Problem, Reparatur Statt Neukauf Right To Repair, Schriftsatz Vermerk Und Mustertext
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `reparatur-statt-neukauf-right-to-repair` | Reparatur statt Neukauf und Right to Repair: führt Laien durch Reparaturanspruch, Ersatzteile, digitale Bestandteile, Nachhaltigkeit und Kostenvergleich. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
 | `schriftsatz-vermerk-und-mustertext` | Schriftsatz, Vermerk und Mustertext: erklärt liefert einen belastbaren ersten Entwurf mit offenen Punkten in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Reise Flug Zug Problem, Reparatur Statt Neukauf Right To Repair, Schriftsatz Vermerk Und Mustertext** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucher-rechtsstaat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

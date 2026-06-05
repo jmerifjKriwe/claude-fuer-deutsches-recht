@@ -1,6 +1,6 @@
 ---
 name: vc-runway-vc-follow-vc-co-vc-troubled
-description: "Vc 057 Runway Milestone Monitor, Vc 058 Follow On Ic Memo, Vc 059 Co Investor Coordination, Vc 060 Troubled Portfolio Rescue: Vc 057 Runway Milestone Monitor; Vc 058 Follow On Ic Memo; Vc 059 Co Investor Coordination; Vc 060 Troubled Portfolio Rescue. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vc 057 Runway Milestone Monitor, Vc 058 Follow On Ic Memo, Vc 059 Co Investor Coordination, Vc 060 Troubled Portfolio Rescue im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 057 Runway Milestone Monitor, Vc 058 Follow On Ic Memo, Vc 059 Co Investor Coordination, Vc 060 Troubled Portfolio Rescue prüfen.; Erstelle eine Arbeitsfassung zu Vc 057 Runway Milestone Monitor, Vc 058 Follow On Ic Memo, Vc 059 Co Investor Coordination, Vc 060 Troubled Portfolio Rescue.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vc 057 Runway Milestone Monitor, Vc 058 Follow On Ic Memo, Vc 059 Co Investor Coordination, Vc 060 Troubled Portfolio Rescue
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vc-059-co-investor-coordination` | Plant Kommunikation mit Lead, Angels, Family Offices, Corporate VC, Anwälten und Foundern. |
 | `vc-060-troubled-portfolio-rescue` | Prüft Bridge, Down Round, Founderwechsel, Kostenstopp, Verkauf, Insolvenzrisiko und Verantwortlichkeiten. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vc 057 Runway Milestone Monitor, Vc 058 Follow On Ic Memo, Vc 059 Co Investor Coordination, Vc 060 Troubled Portfolio Rescue** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

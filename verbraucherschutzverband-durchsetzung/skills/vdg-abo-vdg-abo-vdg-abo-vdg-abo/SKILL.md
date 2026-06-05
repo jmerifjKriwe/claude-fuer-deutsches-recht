@@ -1,6 +1,6 @@
 ---
 name: vdg-abo-vdg-abo-vdg-abo-vdg-abo
-description: "Vdg 061 Abo Modell Sammelfaehigkeit Prüfen, Vdg 062 Abo Modell Klageschrift Strukturieren, Vdg 063 Abo Modell Anspruchsgruppen Bilden, Vdg 064 Abo Modell Registertext Schreiben: Vdg 061 Abo Modell Sammelfaehigkeit Prüfen; Vdg 062 Abo Modell Klageschrift Strukturieren; Vdg 063 Abo Modell Anspruchsgruppen Bilden; Vdg 064 Abo Modell Registertext Schreiben. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vdg 061 Abo Modell Sammelfaehigkeit Prüfen, Vdg 062 Abo Modell Klageschrift Strukturieren, Vdg 063 Abo Modell Anspruchsgruppen Bilden, Vdg 064 Abo Modell Registertext Schreiben im Plugin Verbraucherschutzverband Durchsetzung konkret bearbeitet werden soll. Auslöser: Bitte Vdg 061 Abo Modell Sammelfaehigkeit Prüfen, Vdg 062 Abo Modell Klageschrift Strukturieren, Vdg 063 Abo Modell Anspruchsgruppen Bilden, Vdg 064 Abo Modell Registertext Schreiben prüfen.; Erstelle eine Arbeitsfassung zu Vdg 061 Abo Modell Sammelfaehigkeit Prüfen, Vdg 062 Abo Modell Klageschrift Strukturieren, Vdg 063 Abo Modell Anspruchsgruppen Bilden, Vdg 064 Abo Modell Registertext Schreiben.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vdg 061 Abo Modell Sammelfaehigkeit Prüfen, Vdg 062 Abo Modell Klageschrift Strukturieren, Vdg 063 Abo Modell Anspruchsgruppen Bilden, Vdg 064 Abo Modell Registertext Schreiben
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vdg-063-abo-modell-anspruchsgruppen-bilden` | Verbraucherschutzverband Durchsetzung: Abo-Modell: Anspruchsgruppen bilden. Anspruchsgruppen bilden für Abo-Modell im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vdg-064-abo-modell-registertext-schreiben` | Verbraucherschutzverband Durchsetzung: Abo-Modell: Registertext schreiben. Registertext schreiben für Abo-Modell im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vdg 061 Abo Modell Sammelfaehigkeit Prüfen, Vdg 062 Abo Modell Klageschrift Strukturieren, Vdg 063 Abo Modell Anspruchsgruppen Bilden, Vdg 064 Abo Modell Registertext Schreiben** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzverband-durchsetzung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

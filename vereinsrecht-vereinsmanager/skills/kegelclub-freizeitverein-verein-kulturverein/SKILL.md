@@ -1,6 +1,6 @@
 ---
 name: kegelclub-freizeitverein-verein-kulturverein
-description: "Kegelclub Und Freizeitverein, Konflikt Im Verein, Kulturverein: Kegelclub Und Freizeitverein; Konflikt Im Verein; Kulturverein. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Kegelclub Und Freizeitverein, Konflikt Im Verein, Kulturverein im Plugin Vereinsrecht Vereinsmanager konkret bearbeitet werden soll. Auslöser: Bitte Kegelclub Und Freizeitverein, Konflikt Im Verein, Kulturverein prüfen.; Erstelle eine Arbeitsfassung zu Kegelclub Und Freizeitverein, Konflikt Im Verein, Kulturverein.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Kegelclub Und Freizeitverein, Konflikt Im Verein, Kulturverein
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `konflikt-im-verein` | Moderiert Streit: Vorstand vs. Mitglieder, Akteneinsicht, Sonderversammlung, Abwahl, Ausschluss und Vergleich. |
 | `kulturverein` | Spezialfragen Kultur: Veranstaltungen, Künstlerverträge, GEMA, Fördermittel, Spenden, Gemeinnützigkeit. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Kegelclub Und Freizeitverein, Konflikt Im Verein, Kulturverein** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vereinsrecht-vereinsmanager` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

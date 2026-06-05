@@ -1,6 +1,6 @@
 ---
 name: vc-quarterly-vc-kpi-vc-founder-vc-board
-description: "Vc 052 Quarterly Recap, Vc 053 Kpi Pack Standard, Vc 054 Founder Update Prompt, Vc 055 Board Pack Auswertung: Vc 052 Quarterly Recap; Vc 053 Kpi Pack Standard; Vc 054 Founder Update Prompt; Vc 055 Board Pack Auswertung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vc 052 Quarterly Recap, Vc 053 Kpi Pack Standard, Vc 054 Founder Update Prompt, Vc 055 Board Pack Auswertung im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 052 Quarterly Recap, Vc 053 Kpi Pack Standard, Vc 054 Founder Update Prompt, Vc 055 Board Pack Auswertung prüfen.; Erstelle eine Arbeitsfassung zu Vc 052 Quarterly Recap, Vc 053 Kpi Pack Standard, Vc 054 Founder Update Prompt, Vc 055 Board Pack Auswertung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vc 052 Quarterly Recap, Vc 053 Kpi Pack Standard, Vc 054 Founder Update Prompt, Vc 055 Board Pack Auswertung
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vc-054-founder-update-prompt` | Erstellt höfliche, aber präzise Founder-Update-Requests mit KPIs, Cash, Milestones, Hiring, Risiken und Ask. |
 | `vc-055-board-pack-auswertung` | Analysiert Board-Unterlagen, consent requests, Budgets, Hiring, Debt, M&A und Abweichungen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vc 052 Quarterly Recap, Vc 053 Kpi Pack Standard, Vc 054 Founder Update Prompt, Vc 055 Board Pack Auswertung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

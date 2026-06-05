@@ -1,6 +1,6 @@
 ---
 name: vc-board-vc-founder-vc-drag-vc-mfn
-description: "Vc 030 Board Observer Beirat, Vc 031 Founder Vesting Leaver, Vc 032 Drag Tag Rofr Transfer, Vc 033 Mfn Side Letter: Vc 030 Board Observer Beirat; Vc 031 Founder Vesting Leaver; Vc 032 Drag Tag Rofr Transfer; Vc 033 Mfn Side Letter. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vc 030 Board Observer Beirat, Vc 031 Founder Vesting Leaver, Vc 032 Drag Tag Rofr Transfer, Vc 033 Mfn Side Letter im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 030 Board Observer Beirat, Vc 031 Founder Vesting Leaver, Vc 032 Drag Tag Rofr Transfer, Vc 033 Mfn Side Letter prüfen.; Erstelle eine Arbeitsfassung zu Vc 030 Board Observer Beirat, Vc 031 Founder Vesting Leaver, Vc 032 Drag Tag Rofr Transfer, Vc 033 Mfn Side Letter.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vc 030 Board Observer Beirat, Vc 031 Founder Vesting Leaver, Vc 032 Drag Tag Rofr Transfer, Vc 033 Mfn Side Letter
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vc-032-drag-tag-rofr-transfer` | Prüft Mitverkaufspflichten, Mitveräußerungsrechte, Vorkaufsrechte, Transferbeschränkungen und Secondary-Optionen. |
 | `vc-033-mfn-side-letter` | Prüft Nebenabreden, MFN, Informationsrechte, Reporting, Gebühren, Sonderrechte und Konflikte zwischen Investoren. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vc 030 Board Observer Beirat, Vc 031 Founder Vesting Leaver, Vc 032 Drag Tag Rofr Transfer, Vc 033 Mfn Side Letter** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: vbr-abo-vbr-abo-vbr-abo-vbr-abo-02
-description: "Vbr 067 Abo Falle Schlichtung Waehlen, Vbr 068 Abo Falle Klagepfad Skizzieren, Vbr 069 Abo Falle Vergleich Vorschlagen, Vbr 070 Abo Falle Behoerdenmeldung Prüfen: Vbr 067 Abo Falle Schlichtung Waehlen; Vbr 068 Abo Falle Klagepfad Skizzieren; Vbr 069 Abo Falle Vergleich Vorschlagen; Vbr 070 Abo Falle Behoerdenmeldung Prüfen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vbr 067 Abo Falle Schlichtung Waehlen, Vbr 068 Abo Falle Klagepfad Skizzieren, Vbr 069 Abo Falle Vergleich Vorschlagen, Vbr 070 Abo Falle Behoerdenmeldung Prüfen im Plugin Verbraucherschutzrecht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Vbr 067 Abo Falle Schlichtung Waehlen, Vbr 068 Abo Falle Klagepfad Skizzieren, Vbr 069 Abo Falle Vergleich Vorschlagen, Vbr 070 Abo Falle Behoerdenmeldung Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Vbr 067 Abo Falle Schlichtung Waehlen, Vbr 068 Abo Falle Klagepfad Skizzieren, Vbr 069 Abo Falle Vergleich Vorschlagen, Vbr 070 Abo Falle Behoerdenmeldung Prüfen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vbr 067 Abo Falle Schlichtung Waehlen, Vbr 068 Abo Falle Klagepfad Skizzieren, Vbr 069 Abo Falle Vergleich Vorschlagen, Vbr 070 Abo Falle Behoerdenmeldung Prüfen
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vbr-069-abo-falle-vergleich-vorschlagen` | Verbraucherschutzrecht Prüfer: Abo-Falle: Vergleich vorschlagen. Vergleich vorschlagen für Abo-Falle im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vbr-070-abo-falle-behoerdenmeldung-pruefen` | Verbraucherschutzrecht Prüfer: Abo-Falle: Behördenmeldung prüfen. Behördenmeldung prüfen für Abo-Falle im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vbr 067 Abo Falle Schlichtung Waehlen, Vbr 068 Abo Falle Klagepfad Skizzieren, Vbr 069 Abo Falle Vergleich Vorschlagen, Vbr 070 Abo Falle Behoerdenmeldung Prüfen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

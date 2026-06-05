@@ -1,6 +1,6 @@
 ---
 name: vc-founder-vc-watchlist-vc-press-vc-esg
-description: "Vc 092 Founder Ask Response, Vc 094 Watchlist Und Wiedervorlage, Vc 095 Press Reputation Social Media, Vc 096 Esg Impact Venture: Vc 092 Founder Ask Response; Vc 094 Watchlist Und Wiedervorlage; Vc 095 Press Reputation Social Media; Vc 096 Esg Impact Venture. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vc 092 Founder Ask Response, Vc 094 Watchlist Und Wiedervorlage, Vc 095 Press Reputation Social Media, Vc 096 Esg Impact Venture im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 092 Founder Ask Response, Vc 094 Watchlist Und Wiedervorlage, Vc 095 Press Reputation Social Media, Vc 096 Esg Impact Venture prüfen.; Erstelle eine Arbeitsfassung zu Vc 092 Founder Ask Response, Vc 094 Watchlist Und Wiedervorlage, Vc 095 Press Reputation Social Media, Vc 096 Esg Impact Venture.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vc 092 Founder Ask Response, Vc 094 Watchlist Und Wiedervorlage, Vc 095 Press Reputation Social Media, Vc 096 Esg Impact Venture
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vc-095-press-reputation-social-media` | Prüft VC-Kommunikation, Portfolio-News, Krisenstatements, LinkedIn-Posts und Vertraulichkeit. |
 | `vc-096-esg-impact-venture` | Prüft Impact-Claims, Greenwashing, SFDR-Schnittstellen, KPIs, Mission Lock und Reporting. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vc 092 Founder Ask Response, Vc 094 Watchlist Und Wiedervorlage, Vc 095 Press Reputation Social Media, Vc 096 Esg Impact Venture** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

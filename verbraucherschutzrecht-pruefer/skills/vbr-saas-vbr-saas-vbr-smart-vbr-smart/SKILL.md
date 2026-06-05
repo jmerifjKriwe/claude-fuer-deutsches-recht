@@ -1,6 +1,6 @@
 ---
 name: vbr-saas-vbr-saas-vbr-smart-vbr-smart
-description: "Vbr 089 Saas Für Verbraucher Vergleich Vorsch, Vbr 090 Saas Für Verbraucher Behoerdenmeldung, Vbr 091 Smart Device Anspruch Prüfen, Vbr 092 Smart Device Widerruf Formulieren: Vbr 089 Saas Für Verbraucher Vergleich Vorsch; Vbr 090 Saas Für Verbraucher Behoerdenmeldung; Vbr 091 Smart Device Anspruch Prüfen; Vbr 092 Smart Device Widerruf Formulieren. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vbr 089 Saas Für Verbraucher Vergleich Vorsch, Vbr 090 Saas Für Verbraucher Behoerdenmeldung, Vbr 091 Smart Device Anspruch Prüfen, Vbr 092 Smart Device Widerruf Formulieren im Plugin Verbraucherschutzrecht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Vbr 089 Saas Für Verbraucher Vergleich Vorsch, Vbr 090 Saas Für Verbraucher Behoerdenmeldung, Vbr 091 Smart Device Anspruch Prüfen, Vbr 092 Smart Device Widerruf Formulieren prüfen.; Erstelle eine Arbeitsfassung zu Vbr 089 Saas Für Verbraucher Vergleich Vorsch, Vbr 090 Saas Für Verbraucher Behoerdenmeldung, Vbr 091 Smart Device Anspruch Prüfen, Vbr 092 Smart Device Widerruf Formulieren.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vbr 089 Saas Für Verbraucher Vergleich Vorsch, Vbr 090 Saas Für Verbraucher Behoerdenmeldung, Vbr 091 Smart Device Anspruch Prüfen, Vbr 092 Smart Device Widerruf Formulieren
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vbr-091-smart-device-anspruch-pruefen` | Verbraucherschutzrecht Prüfer: Smart Device: Anspruch prüfen. Anspruch prüfen für Smart Device im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vbr-092-smart-device-widerruf-formulieren` | Verbraucherschutzrecht Prüfer: Smart Device: Widerruf formulieren. Widerruf formulieren für Smart Device im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vbr 089 Saas Für Verbraucher Vergleich Vorsch, Vbr 090 Saas Für Verbraucher Behoerdenmeldung, Vbr 091 Smart Device Anspruch Prüfen, Vbr 092 Smart Device Widerruf Formulieren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

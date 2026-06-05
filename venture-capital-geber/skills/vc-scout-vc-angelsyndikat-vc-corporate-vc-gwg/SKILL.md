@@ -1,6 +1,6 @@
 ---
 name: vc-scout-vc-angelsyndikat-vc-corporate-vc-gwg
-description: "Vc 083 Scout Advisor Agreements, Vc 084 Angelsyndikat Lead Investor, Vc 085 Corporate Vc Conflicts, Vc 086 Gwg Ubo Transparenzregister: Vc 083 Scout Advisor Agreements; Vc 084 Angelsyndikat Lead Investor; Vc 085 Corporate Vc Conflicts; Vc 086 Gwg Ubo Transparenzregister. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vc 083 Scout Advisor Agreements, Vc 084 Angelsyndikat Lead Investor, Vc 085 Corporate Vc Conflicts, Vc 086 Gwg Ubo Transparenzregister im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 083 Scout Advisor Agreements, Vc 084 Angelsyndikat Lead Investor, Vc 085 Corporate Vc Conflicts, Vc 086 Gwg Ubo Transparenzregister prüfen.; Erstelle eine Arbeitsfassung zu Vc 083 Scout Advisor Agreements, Vc 084 Angelsyndikat Lead Investor, Vc 085 Corporate Vc Conflicts, Vc 086 Gwg Ubo Transparenzregister.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vc 083 Scout Advisor Agreements, Vc 084 Angelsyndikat Lead Investor, Vc 085 Corporate Vc Conflicts, Vc 086 Gwg Ubo Transparenzregister
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vc-085-corporate-vc-conflicts` | Prüft strategische Investorenziele, Wettbewerbsdaten, Commercial Agreements, Exklusivität, IP und Clean Team. |
 | `vc-086-gwg-ubo-transparenzregister` | Prüft wirtschaftlich Berechtigte, Beteiligungsketten, Registerangaben und KYC-Dokumentation rund um VC-Strukturen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vc 083 Scout Advisor Agreements, Vc 084 Angelsyndikat Lead Investor, Vc 085 Corporate Vc Conflicts, Vc 086 Gwg Ubo Transparenzregister** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

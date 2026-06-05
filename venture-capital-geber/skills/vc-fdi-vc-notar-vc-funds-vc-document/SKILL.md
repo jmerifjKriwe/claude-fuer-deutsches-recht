@@ -1,6 +1,6 @@
 ---
 name: vc-fdi-vc-notar-vc-funds-vc-document
-description: "Vc 087 Fdi Merger Control Minority, Vc 088 Notar Register Closing, Vc 089 Funds Flow Wire, Vc 090 Document Version Control: Vc 087 Fdi Merger Control Minority; Vc 088 Notar Register Closing; Vc 089 Funds Flow Wire; Vc 090 Document Version Control. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vc 087 Fdi Merger Control Minority, Vc 088 Notar Register Closing, Vc 089 Funds Flow Wire, Vc 090 Document Version Control im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 087 Fdi Merger Control Minority, Vc 088 Notar Register Closing, Vc 089 Funds Flow Wire, Vc 090 Document Version Control prüfen.; Erstelle eine Arbeitsfassung zu Vc 087 Fdi Merger Control Minority, Vc 088 Notar Register Closing, Vc 089 Funds Flow Wire, Vc 090 Document Version Control.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vc 087 Fdi Merger Control Minority, Vc 088 Notar Register Closing, Vc 089 Funds Flow Wire, Vc 090 Document Version Control
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vc-089-funds-flow-wire` | Prüft Zahlungsströme, Treuhand, Bankdaten, AML, Währungsrisiko, Closing Conditions und Belegkette. |
 | `vc-090-document-version-control` | Organisiert Term Sheets, SHA, Side Letters, Cap Tables, Notarentwürfe und Markups versionssicher. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vc 087 Fdi Merger Control Minority, Vc 088 Notar Register Closing, Vc 089 Funds Flow Wire, Vc 090 Document Version Control** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

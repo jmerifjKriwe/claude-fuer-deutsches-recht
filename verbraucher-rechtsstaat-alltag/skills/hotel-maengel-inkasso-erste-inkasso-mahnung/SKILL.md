@@ -1,6 +1,6 @@
 ---
 name: hotel-maengel-inkasso-erste-inkasso-mahnung
-description: "Hotel Mängel Und Bewertung, Inkasso Brief Erste Hilfe, Inkasso Mahnung Vollstreckung: Hotel Mängel Und Bewertung; Inkasso Brief Erste Hilfe; Inkasso Mahnung Vollstreckung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Hotel Mängel Und Bewertung, Inkasso Brief Erste Hilfe, Inkasso Mahnung Vollstreckung im Plugin Verbraucher Rechtsstaat Alltag konkret bearbeitet werden soll. Auslöser: Bitte Hotel Mängel Und Bewertung, Inkasso Brief Erste Hilfe, Inkasso Mahnung Vollstreckung prüfen.; Erstelle eine Arbeitsfassung zu Hotel Mängel Und Bewertung, Inkasso Brief Erste Hilfe, Inkasso Mahnung Vollstreckung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Hotel Mängel Und Bewertung, Inkasso Brief Erste Hilfe, Inkasso Mahnung Vollstreckung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `inkasso-brief-erste-hilfe` | Inkasso-Brief erste Hilfe: führt Laien durch Inkassoschreiben, Hauptforderung, Nebenforderungen, Drohkulisse und Widerspruchsstrategie. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
 | `inkasso-mahnung-vollstreckung` | Inkasso, Mahnung und Vollstreckung: erklärt Forderung prüfen, nicht vorschnell anerkennen, Frist sichern in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Hotel Mängel Und Bewertung, Inkasso Brief Erste Hilfe, Inkasso Mahnung Vollstreckung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucher-rechtsstaat-alltag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

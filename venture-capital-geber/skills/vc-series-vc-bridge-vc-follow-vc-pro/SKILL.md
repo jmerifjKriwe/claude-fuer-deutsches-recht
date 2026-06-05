@@ -1,6 +1,6 @@
 ---
 name: vc-series-vc-bridge-vc-follow-vc-pro
-description: "Vc 022 Series B Growth, Vc 023 Bridge Round Inside Round, Vc 024 Follow On Reserve Strategy, Vc 025 Pro Rata Super Pro Rata: Vc 022 Series B Growth; Vc 023 Bridge Round Inside Round; Vc 024 Follow On Reserve Strategy; Vc 025 Pro Rata Super Pro Rata. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vc 022 Series B Growth, Vc 023 Bridge Round Inside Round, Vc 024 Follow On Reserve Strategy, Vc 025 Pro Rata Super Pro Rata im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 022 Series B Growth, Vc 023 Bridge Round Inside Round, Vc 024 Follow On Reserve Strategy, Vc 025 Pro Rata Super Pro Rata prüfen.; Erstelle eine Arbeitsfassung zu Vc 022 Series B Growth, Vc 023 Bridge Round Inside Round, Vc 024 Follow On Reserve Strategy, Vc 025 Pro Rata Super Pro Rata.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vc 022 Series B Growth, Vc 023 Bridge Round Inside Round, Vc 024 Follow On Reserve Strategy, Vc 025 Pro Rata Super Pro Rata
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vc-024-follow-on-reserve-strategy` | Plant Reserven, pro rata, super pro rata, ownership targets, signal risk und Opportunitätskosten. |
 | `vc-025-pro-rata-super-pro-rata` | Prüft Bezugsrechte, vertragliche pro-rata-Rechte, super-pro-rata-Spielräume und Informationsrechte. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vc 022 Series B Growth, Vc 023 Bridge Round Inside Round, Vc 024 Follow On Reserve Strategy, Vc 025 Pro Rata Super Pro Rata** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

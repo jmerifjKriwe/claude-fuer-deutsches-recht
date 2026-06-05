@@ -1,6 +1,6 @@
 ---
 name: verein-als-zweckbetrieb-anfechtung-beschluss
-description: "Verein Als Arbeitgeber, Zweckbetrieb, Anfechtung Beschluss: Verein Als Arbeitgeber; Zweckbetrieb; Anfechtung Beschluss. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Verein Als Arbeitgeber, Zweckbetrieb, Anfechtung Beschluss im Plugin Vereinsrecht Vereinsmanager konkret bearbeitet werden soll. Auslöser: Bitte Verein Als Arbeitgeber, Zweckbetrieb, Anfechtung Beschluss prüfen.; Erstelle eine Arbeitsfassung zu Verein Als Arbeitgeber, Zweckbetrieb, Anfechtung Beschluss.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Verein Als Arbeitgeber, Zweckbetrieb, Anfechtung Beschluss
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `zweckbetrieb` | Prüft Zweckbetrieb, wirtschaftlichen Geschäftsbetrieb, Sportveranstaltung, Wohlfahrt, Kultur und Steuerfolgen. |
 | `anfechtung-beschluss` | Prüft fehlerhafte Einladung, Tagesordnung, Mehrheit, Stimmrecht, Befangenheit und Vorgehen gegen Beschlüsse. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Verein Als Arbeitgeber, Zweckbetrieb, Anfechtung Beschluss** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vereinsrecht-vereinsmanager` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

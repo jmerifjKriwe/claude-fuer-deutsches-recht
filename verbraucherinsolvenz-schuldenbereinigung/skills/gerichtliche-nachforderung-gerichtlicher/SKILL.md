@@ -1,6 +1,6 @@
 ---
 name: gerichtliche-nachforderung-gerichtlicher
-description: "Gerichtliche Nachforderung, Gerichtlicher Schuldenbereinigungsplan, Glaeubiger Mit Sicherheiten: Gerichtliche Nachforderung; Gerichtlicher Schuldenbereinigungsplan; Glaeubiger Mit Sicherheiten. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Gerichtliche Nachforderung, Gerichtlicher Schuldenbereinigungsplan, Glaeubiger Mit Sicherheiten im Plugin Verbraucherinsolvenz Schuldenbereinigung konkret bearbeitet werden soll. Auslöser: Bitte Gerichtliche Nachforderung, Gerichtlicher Schuldenbereinigungsplan, Glaeubiger Mit Sicherheiten prüfen.; Erstelle eine Arbeitsfassung zu Gerichtliche Nachforderung, Gerichtlicher Schuldenbereinigungsplan, Glaeubiger Mit Sicherheiten.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Gerichtliche Nachforderung, Gerichtlicher Schuldenbereinigungsplan, Glaeubiger Mit Sicherheiten
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `gerichtlicher-schuldenbereinigungsplan` | Gerichtlicher Schuldenbereinigungsplan: Zustimmungsersetzung, Kopf-/Summenmehrheit, Einwendungen und taktischer Nutzen.; Normanker: InsO §§ 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
 | `glaeubiger-mit-sicherheiten` | Gläubiger mit Sicherheiten: Absonderung, Aussonderung, Sicherungseigentum, Eigentumsvorbehalt und Auto.; Normanker: InsO §§ 47 und 49 ff.; BGB Sicherheiten; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Gerichtliche Nachforderung, Gerichtlicher Schuldenbereinigungsplan, Glaeubiger Mit Sicherheiten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherinsolvenz-schuldenbereinigung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

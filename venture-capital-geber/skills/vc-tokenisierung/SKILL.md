@@ -1,6 +1,6 @@
 ---
 name: vc-tokenisierung
-description: "Vc 097 Tokenisierung Digital Shares: Vc 097 Tokenisierung Digital Shares. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vc 097 Tokenisierung Digital Shares im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 097 Tokenisierung Digital Shares prüfen.; Erstelle eine Arbeitsfassung zu Vc 097 Tokenisierung Digital Shares.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vc 097 Tokenisierung Digital Shares
@@ -15,12 +15,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `vc-097-tokenisierung-digital-shares` | Prüft tokenisierte Investments, eWpG, MiCAR, Wallets, Register, Verwahrung und Anlegerkommunikation. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vc 097 Tokenisierung Digital Shares** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

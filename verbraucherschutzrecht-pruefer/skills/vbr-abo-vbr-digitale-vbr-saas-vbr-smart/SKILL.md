@@ -1,6 +1,6 @@
 ---
 name: vbr-abo-vbr-digitale-vbr-saas-vbr-smart
-description: "Vbr 063 Abo Falle Frist Berechnen, Vbr 073 Digitale Inhalte Frist Berechnen, Vbr 083 Saas Für Verbraucher Frist Berechnen, Vbr 093 Smart Device Frist Berechnen: Vbr 063 Abo Falle Frist Berechnen; Vbr 073 Digitale Inhalte Frist Berechnen; Vbr 083 Saas Für Verbraucher Frist Berechnen; Vbr 093 Smart Device Frist Berechnen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vbr 063 Abo Falle Frist Berechnen, Vbr 073 Digitale Inhalte Frist Berechnen, Vbr 083 Saas Für Verbraucher Frist Berechnen, Vbr 093 Smart Device Frist Berechnen im Plugin Verbraucherschutzrecht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Vbr 063 Abo Falle Frist Berechnen, Vbr 073 Digitale Inhalte Frist Berechnen, Vbr 083 Saas Für Verbraucher Frist Berechnen, Vbr 093 Smart Device Frist Berechnen prüfen.; Erstelle eine Arbeitsfassung zu Vbr 063 Abo Falle Frist Berechnen, Vbr 073 Digitale Inhalte Frist Berechnen, Vbr 083 Saas Für Verbraucher Frist Berechnen, Vbr 093 Smart Device Frist Berechnen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vbr 063 Abo Falle Frist Berechnen, Vbr 073 Digitale Inhalte Frist Berechnen, Vbr 083 Saas Für Verbraucher Frist Berechnen, Vbr 093 Smart Device Frist Berechnen
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vbr-083-saas-fuer-verbraucher-frist-berechnen` | Verbraucherschutzrecht Prüfer: SaaS für Verbraucher: Frist berechnen. Frist berechnen für SaaS für Verbraucher im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vbr-093-smart-device-frist-berechnen` | Verbraucherschutzrecht Prüfer: Smart Device: Frist berechnen. Frist berechnen für Smart Device im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vbr 063 Abo Falle Frist Berechnen, Vbr 073 Digitale Inhalte Frist Berechnen, Vbr 083 Saas Für Verbraucher Frist Berechnen, Vbr 093 Smart Device Frist Berechnen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verbraucherschutzrecht-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

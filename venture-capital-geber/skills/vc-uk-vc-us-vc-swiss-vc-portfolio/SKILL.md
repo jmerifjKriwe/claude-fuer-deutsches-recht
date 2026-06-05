@@ -1,6 +1,6 @@
 ---
 name: vc-uk-vc-us-vc-swiss-vc-portfolio
-description: "Vc 047 Uk Us Deal Docs, Vc 049 Us Securities Accredited Investor, Vc 050 Swiss Ag Startup Investment, Vc 051 Portfolio Dashboard: Vc 047 Uk Us Deal Docs; Vc 049 Us Securities Accredited Investor; Vc 050 Swiss Ag Startup Investment; Vc 051 Portfolio Dashboard. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vc 047 Uk Us Deal Docs, Vc 049 Us Securities Accredited Investor, Vc 050 Swiss Ag Startup Investment, Vc 051 Portfolio Dashboard im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 047 Uk Us Deal Docs, Vc 049 Us Securities Accredited Investor, Vc 050 Swiss Ag Startup Investment, Vc 051 Portfolio Dashboard prüfen.; Erstelle eine Arbeitsfassung zu Vc 047 Uk Us Deal Docs, Vc 049 Us Securities Accredited Investor, Vc 050 Swiss Ag Startup Investment, Vc 051 Portfolio Dashboard.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vc 047 Uk Us Deal Docs, Vc 049 Us Securities Accredited Investor, Vc 050 Swiss Ag Startup Investment, Vc 051 Portfolio Dashboard
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vc-050-swiss-ag-startup-investment` | Prüft Schweizer AG/GmbH-Basics, Aktionärbindungsvertrag, Wandeldarlehen, Mitarbeiterbeteiligung und deutsche Investorensicht. |
 | `vc-051-portfolio-dashboard` | Baut Dashboard für Beteiligungen, Tickets, Quoten, Runway, Updates, Follow-ons, Risiken, Verantwortliche und nächste Calls. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vc 047 Uk Us Deal Docs, Vc 049 Us Securities Accredited Investor, Vc 050 Swiss Ag Startup Investment, Vc 051 Portfolio Dashboard** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

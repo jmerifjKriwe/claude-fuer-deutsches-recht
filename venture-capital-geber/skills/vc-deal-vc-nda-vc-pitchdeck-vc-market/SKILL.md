@@ -1,6 +1,6 @@
 ---
 name: vc-deal-vc-nda-vc-pitchdeck-vc-market
-description: "Vc 010 Deal Triage Score, Vc 011 Nda Und Confidentiality Vc, Vc 012 Pitchdeck Und Teaser Analyse, Vc 013 Market Sizing Commercial Thesis: Vc 010 Deal Triage Score; Vc 011 Nda Und Confidentiality Vc; Vc 012 Pitchdeck Und Teaser Analyse; Vc 013 Market Sizing Commercial Thesis. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vc 010 Deal Triage Score, Vc 011 Nda Und Confidentiality Vc, Vc 012 Pitchdeck Und Teaser Analyse, Vc 013 Market Sizing Commercial Thesis im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 010 Deal Triage Score, Vc 011 Nda Und Confidentiality Vc, Vc 012 Pitchdeck Und Teaser Analyse, Vc 013 Market Sizing Commercial Thesis prüfen.; Erstelle eine Arbeitsfassung zu Vc 010 Deal Triage Score, Vc 011 Nda Und Confidentiality Vc, Vc 012 Pitchdeck Und Teaser Analyse, Vc 013 Market Sizing Commercial Thesis.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vc 010 Deal Triage Score, Vc 011 Nda Und Confidentiality Vc, Vc 012 Pitchdeck Und Teaser Analyse, Vc 013 Market Sizing Commercial Thesis
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vc-012-pitchdeck-und-teaser-analyse` | Zerlegt Pitchdeck, Teaser oder Notion-Deck in These, Zahlen, Claims, Risiken, Auslassungen und Follow-up-Fragen. |
 | `vc-013-market-sizing-commercial-thesis` | Prüft TAM/SAM/SOM, Pricing, Go-to-Market, Wettbewerb, Churn, Vertriebskanal und Exit-Logik. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vc 010 Deal Triage Score, Vc 011 Nda Und Confidentiality Vc, Vc 012 Pitchdeck Und Teaser Analyse, Vc 013 Market Sizing Commercial Thesis** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

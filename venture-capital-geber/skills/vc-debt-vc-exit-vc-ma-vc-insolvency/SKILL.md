@@ -1,6 +1,6 @@
 ---
 name: vc-debt-vc-exit-vc-ma-vc-insolvency
-description: "Vc 061 Venture Debt, Vc 063 Exit Readiness, Vc 064 Ma Sale Startup, Vc 065 Insolvency Runway Crisis: Vc 061 Venture Debt; Vc 063 Exit Readiness; Vc 064 Ma Sale Startup; Vc 065 Insolvency Runway Crisis. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Vc 061 Venture Debt, Vc 063 Exit Readiness, Vc 064 Ma Sale Startup, Vc 065 Insolvency Runway Crisis im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 061 Venture Debt, Vc 063 Exit Readiness, Vc 064 Ma Sale Startup, Vc 065 Insolvency Runway Crisis prüfen.; Erstelle eine Arbeitsfassung zu Vc 061 Venture Debt, Vc 063 Exit Readiness, Vc 064 Ma Sale Startup, Vc 065 Insolvency Runway Crisis.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Vc 061 Venture Debt, Vc 063 Exit Readiness, Vc 064 Ma Sale Startup, Vc 065 Insolvency Runway Crisis
@@ -18,12 +18,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `vc-064-ma-sale-startup` | Prüft Startup-Verkauf, SPA, Drag, Founder Rollover, Earn-out, IP, W&I und Closing. |
 | `vc-065-insolvency-runway-crisis` | Prüft Insolvenzreife-Signale, Geschäftsführerpflichten, Bridge, Rangrücktritt, Gesellschafterdarlehen und Anfechtung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Vc 061 Venture Debt, Vc 063 Exit Readiness, Vc 064 Ma Sale Startup, Vc 065 Insolvency Runway Crisis** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `venture-capital-geber` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 
