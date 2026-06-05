@@ -1,6 +1,6 @@
 ---
 name: logfiles-beweisfuehrung-newsletter-double-odr
-description: "Logfiles Beweisfuehrung Checkout, Newsletter Double Opt In Einwilligung, Odr Verbraucherstreitbeilegung Hinweis: Logfiles Beweisfuehrung Checkout; Newsletter Double Opt In Einwilligung; Odr Verbraucherstreitbeilegung Hinweis. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Logfiles Beweisfuehrung Checkout, Newsletter Double Opt In Einwilligung, Odr Verbraucherstreitbeilegung Hinweis im Plugin Ecommerce Recht konkret bearbeitet werden soll. Auslöser: Bitte Logfiles Beweisfuehrung Checkout, Newsletter Double Opt In Einwilligung, Odr Verbraucherstreitbeilegung Hinweis prüfen.; Erstelle eine Arbeitsfassung zu Logfiles Beweisfuehrung Checkout, Newsletter Double Opt In Einwilligung, Odr Verbraucherstreitbeilegung Hinweis.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Logfiles Beweisfuehrung Checkout, Newsletter Double Opt In Einwilligung, Odr Verbraucherstreitbeilegung Hinweis
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `newsletter-double-opt-in-einwilligung` | Newsletter Double-Opt-In Einwilligung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. |
 | `odr-verbraucherstreitbeilegung-hinweis` | ODR Verbraucherstreitbeilegung Hinweis: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Logfiles Beweisfuehrung Checkout, Newsletter Double Opt In Einwilligung, Odr Verbraucherstreitbeilegung Hinweis** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ecommerce-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

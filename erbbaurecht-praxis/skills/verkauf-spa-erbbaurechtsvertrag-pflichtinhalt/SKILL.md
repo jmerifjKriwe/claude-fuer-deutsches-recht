@@ -1,6 +1,6 @@
 ---
 name: verkauf-spa-erbbaurechtsvertrag-pflichtinhalt
-description: "Erbbaurecht Verkauf Spa Klauseln, Erbbaurechtsvertrag Pflichtinhalt: Erbbaurecht Verkauf Spa Klauseln; Erbbaurechtsvertrag Pflichtinhalt. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Erbbaurecht Verkauf Spa Klauseln, Erbbaurechtsvertrag Pflichtinhalt im Plugin Erbbaurecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Erbbaurecht Verkauf Spa Klauseln, Erbbaurechtsvertrag Pflichtinhalt prüfen.; Erstelle eine Arbeitsfassung zu Erbbaurecht Verkauf Spa Klauseln, Erbbaurechtsvertrag Pflichtinhalt.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Erbbaurecht Verkauf Spa Klauseln, Erbbaurechtsvertrag Pflichtinhalt
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `erbbaurecht-verkauf-spa-klauseln` | Entwirft SPA-Klauseln zu Zustimmung, Zinsrückstand, Heimfallrisiko, Belastungen, Garantien und Closing. |
 | `erbbaurechtsvertrag-pflichtinhalt` | Prüft Grundstück, Bauwerk, Laufzeit, Nutzung, Erbbauzins, Heimfall, Zustimmung, Versicherung, Instandhaltung und Entschädigung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Erbbaurecht Verkauf Spa Klauseln, Erbbaurechtsvertrag Pflichtinhalt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `erbbaurecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

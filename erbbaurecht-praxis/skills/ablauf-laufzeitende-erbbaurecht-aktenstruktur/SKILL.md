@@ -1,6 +1,6 @@
 ---
 name: ablauf-laufzeitende-erbbaurecht-aktenstruktur
-description: "Erbbaurecht Ablauf Laufzeitende Exitplan, Erbbaurecht Aktenstruktur: Erbbaurecht Ablauf Laufzeitende Exitplan; Erbbaurecht Aktenstruktur. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Erbbaurecht Ablauf Laufzeitende Exitplan, Erbbaurecht Aktenstruktur im Plugin Erbbaurecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Erbbaurecht Ablauf Laufzeitende Exitplan, Erbbaurecht Aktenstruktur prüfen.; Erstelle eine Arbeitsfassung zu Erbbaurecht Ablauf Laufzeitende Exitplan, Erbbaurecht Aktenstruktur.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Erbbaurecht Ablauf Laufzeitende Exitplan, Erbbaurecht Aktenstruktur
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `erbbaurecht-ablauf-laufzeitende-exitplan` | Prüft die letzten zehn Jahre eines Erbbaurechts: Verlängerung, Neubestellung, Entschädigung, Rückbau, Finanzierungsauslauf, Mieter-/Betreiberkommunikation und Verhandlungsstrategie. |
 | `erbbaurecht-aktenstruktur` | Sortiert Vertrag, Grundbuch, Zins, Zustimmung, Bau, Bank, Kommunikation und Streit chronologisch. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Erbbaurecht Ablauf Laufzeitende Exitplan, Erbbaurecht Aktenstruktur** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `erbbaurecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

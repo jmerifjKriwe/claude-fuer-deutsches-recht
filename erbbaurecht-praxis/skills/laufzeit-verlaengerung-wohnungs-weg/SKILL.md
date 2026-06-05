@@ -1,6 +1,6 @@
 ---
 name: laufzeit-verlaengerung-wohnungs-weg
-description: "Laufzeit Verlaengerung Und Neubestellung, Wohnungs Erbbaurecht Und Weg: Laufzeit Verlaengerung Und Neubestellung; Wohnungs Erbbaurecht Und Weg. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Laufzeit Verlaengerung Und Neubestellung, Wohnungs Erbbaurecht Und Weg im Plugin Erbbaurecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Laufzeit Verlaengerung Und Neubestellung, Wohnungs Erbbaurecht Und Weg prüfen.; Erstelle eine Arbeitsfassung zu Laufzeit Verlaengerung Und Neubestellung, Wohnungs Erbbaurecht Und Weg.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Laufzeit Verlaengerung Und Neubestellung, Wohnungs Erbbaurecht Und Weg
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `laufzeit-verlaengerung-und-neubestellung` | Prüft Verlängerung, Neubestellung, Rang, Zustimmung der Gläubiger und kommunale Beschlusslage. |
 | `wohnungs-erbbaurecht-und-weg` | Prüft WEG-Struktur, Teilungserklärung, Erbbaugrundbuch, Sondernutzungsrechte und Verwalterzustimmung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Laufzeit Verlaengerung Und Neubestellung, Wohnungs Erbbaurecht Und Weg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `erbbaurecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

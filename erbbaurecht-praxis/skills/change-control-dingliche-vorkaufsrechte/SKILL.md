@@ -1,6 +1,6 @@
 ---
 name: change-control-dingliche-vorkaufsrechte
-description: "Erbbaurecht Change Of Control Bei Erbbauberechtigtem, Erbbaurecht Dingliche Vorkaufsrechte: Erbbaurecht Change Of Control Bei Erbbauberechtigtem; Erbbaurecht Dingliche Vorkaufsrechte. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Erbbaurecht Change Of Control Bei Erbbauberechtigtem, Erbbaurecht Dingliche Vorkaufsrechte im Plugin Erbbaurecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Erbbaurecht Change Of Control Bei Erbbauberechtigtem, Erbbaurecht Dingliche Vorkaufsrechte prüfen.; Erstelle eine Arbeitsfassung zu Erbbaurecht Change Of Control Bei Erbbauberechtigtem, Erbbaurecht Dingliche Vorkaufsrechte.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Erbbaurecht Change Of Control Bei Erbbauberechtigtem, Erbbaurecht Dingliche Vorkaufsrechte
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `erbbaurecht-change-of-control-bei-erbbauberechtigtem` | Prüft, ob Anteilsübertragung, Verschmelzung, Formwechsel oder Kontrollwechsel beim Erbbauberechtigten Zustimmungspflichten oder Heimfallrechte auslösen. |
 | `erbbaurecht-dingliche-vorkaufsrechte` | Prüft vertragliche und dingliche Vorkaufsrechte, Ausübungsfall, Rang und Löschung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Erbbaurecht Change Of Control Bei Erbbauberechtigtem, Erbbaurecht Dingliche Vorkaufsrechte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `erbbaurecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

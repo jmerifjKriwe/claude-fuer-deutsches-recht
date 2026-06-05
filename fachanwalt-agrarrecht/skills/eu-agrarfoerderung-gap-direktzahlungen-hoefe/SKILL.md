@@ -1,6 +1,6 @@
 ---
 name: eu-agrarfoerderung-gap-direktzahlungen-hoefe
-description: "Fachanwalt Agrarrecht Eu Agrarfoerderung, Fachanwalt Agrarrecht Gap Direktzahlungen Antrag, Fachanwalt Agrarrecht Hoefe Übergabe: Fachanwalt Agrarrecht Eu Agrarfoerderung; Fachanwalt Agrarrecht Gap Direktzahlungen Antrag; Fachanwalt Agrarrecht Hoefe Übergabe. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Fachanwalt Agrarrecht Eu Agrarfoerderung, Fachanwalt Agrarrecht Gap Direktzahlungen Antrag, Fachanwalt Agrarrecht Hoefe Übergabe im Plugin Fachanwalt Agrarrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Agrarrecht Eu Agrarfoerderung, Fachanwalt Agrarrecht Gap Direktzahlungen Antrag, Fachanwalt Agrarrecht Hoefe Übergabe prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Agrarrecht Eu Agrarfoerderung, Fachanwalt Agrarrecht Gap Direktzahlungen Antrag, Fachanwalt Agrarrecht Hoefe Übergabe.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Fachanwalt Agrarrecht Eu Agrarfoerderung, Fachanwalt Agrarrecht Gap Direktzahlungen Antrag, Fachanwalt Agrarrecht Hoefe Übergabe
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `fachanwalt-agrarrecht-gap-direktzahlungen-antrag` | Beratung zum Sammelantrag GAP-Direktzahlungen nach der GAP-Reform 2023. Konditionalitaet (GLOEZ-Standards) Oeko-Regelungen Junglandwirte-Praemie gekoppelte Stuetzung. Sanktionen bei Verstoessen Querprüfung HIT-Datenbank. Antragsfristen 15. Mai mit Verspaetungs-Aenderung. Workflow Vorprüfung Risiko-Check Antragstellung Einspruch. |
 | `fachanwalt-agrarrecht-hoefe-uebergabe` | Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW Schleswig-Holstein). Hofeigenschaft § 1 HoefeO Mindestwirtschaftswert. Hoferbe § 4 HoefeO Anerbenfolge. Hofuebergabe zu Lebzeiten als Hofesvertrag formbedürftig § 311b BGB. Pflichtteilsergaenzungsanspruch der weichenden Erben § 12 HoefeO Hofeswert nicht Verkehrswert. Bewirtschaftungspflicht Nachabfindung § 13 HoefeO. Hofverbund Nachhaltigkeit. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Fachanwalt Agrarrecht Eu Agrarfoerderung, Fachanwalt Agrarrecht Gap Direktzahlungen Antrag, Fachanwalt Agrarrecht Hoefe Übergabe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-agrarrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

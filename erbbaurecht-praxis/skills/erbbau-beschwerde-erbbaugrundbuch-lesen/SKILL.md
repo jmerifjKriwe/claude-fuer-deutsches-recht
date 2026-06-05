@@ -1,6 +1,6 @@
 ---
 name: erbbau-beschwerde-erbbaugrundbuch-lesen
-description: "Erbbau Beschwerde Grundbuchamt, Erbbaugrundbuch Lesen: Erbbau Beschwerde Grundbuchamt; Erbbaugrundbuch Lesen. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Erbbau Beschwerde Grundbuchamt, Erbbaugrundbuch Lesen im Plugin Erbbaurecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Erbbau Beschwerde Grundbuchamt, Erbbaugrundbuch Lesen prüfen.; Erstelle eine Arbeitsfassung zu Erbbau Beschwerde Grundbuchamt, Erbbaugrundbuch Lesen.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Erbbau Beschwerde Grundbuchamt, Erbbaugrundbuch Lesen
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `erbbau-beschwerde-grundbuchamt` | Prüft Zwischenverfügung, Rangproblem, Zustimmung, Nachweise und Beschwerde. |
 | `erbbaugrundbuch-lesen` | Führt durch Erbbaugrundbuch, Grundstücksgrundbuch, Rangvermerke, Belastungen und korrespondierende Eintragungen. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Erbbau Beschwerde Grundbuchamt, Erbbaugrundbuch Lesen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `erbbaurecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

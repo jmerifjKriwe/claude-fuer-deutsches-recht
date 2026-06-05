@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-live-erbbaurecht-reminder
-description: "Rechtsprechung Erbbaurecht Live Verifizieren, Erbbaurecht Fristen Und Reminder: Rechtsprechung Erbbaurecht Live Verifizieren; Erbbaurecht Fristen Und Reminder. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Rechtsprechung Erbbaurecht Live Verifizieren, Erbbaurecht Fristen Und Reminder im Plugin Erbbaurecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Rechtsprechung Erbbaurecht Live Verifizieren, Erbbaurecht Fristen Und Reminder prüfen.; Erstelle eine Arbeitsfassung zu Rechtsprechung Erbbaurecht Live Verifizieren, Erbbaurecht Fristen Und Reminder.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Rechtsprechung Erbbaurecht Live Verifizieren, Erbbaurecht Fristen Und Reminder
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `rechtsprechung-erbbaurecht-live-verifizieren` | Sichert, dass Entscheidungen nur mit Gericht, Datum, Aktenzeichen und freiem Link genutzt werden. |
 | `erbbaurecht-fristen-und-reminder` | Baut Kalender für Zinsanpassung, Laufzeitende, Baupflicht, Versicherungen, Zustimmung und Berichtspflichten. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Rechtsprechung Erbbaurecht Live Verifizieren, Erbbaurecht Fristen Und Reminder** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `erbbaurecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

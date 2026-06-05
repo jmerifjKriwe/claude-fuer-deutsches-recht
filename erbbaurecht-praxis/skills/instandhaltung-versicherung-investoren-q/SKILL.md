@@ -1,6 +1,6 @@
 ---
 name: instandhaltung-versicherung-investoren-q
-description: "Erbbaurecht Instandhaltung Versicherung Betriebspflichten, Erbbaurecht Investoren Q And A: Erbbaurecht Instandhaltung Versicherung Betriebspflichten; Erbbaurecht Investoren Q And A. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Erbbaurecht Instandhaltung Versicherung Betriebspflichten, Erbbaurecht Investoren Q And A im Plugin Erbbaurecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Erbbaurecht Instandhaltung Versicherung Betriebspflichten, Erbbaurecht Investoren Q And A prüfen.; Erstelle eine Arbeitsfassung zu Erbbaurecht Instandhaltung Versicherung Betriebspflichten, Erbbaurecht Investoren Q And A.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Erbbaurecht Instandhaltung Versicherung Betriebspflichten, Erbbaurecht Investoren Q And A
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `erbbaurecht-instandhaltung-versicherung-betriebspflichten` | Prüft Gebäudeunterhaltung, Verkehrssicherung, Versicherung, Nachweispflichten, Brandschutz, Betreiberpflichten und Sanktionen bei Pflichtverstößen. |
 | `erbbaurecht-investoren-q-and-a` | Bereitet Antworten zu Laufzeit, Zins, Heimfall, Finanzierung, Exit und Grundbuch auf. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Erbbaurecht Instandhaltung Versicherung Betriebspflichten, Erbbaurecht Investoren Q And A** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `erbbaurecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

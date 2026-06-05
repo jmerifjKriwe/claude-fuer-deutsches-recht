@@ -1,6 +1,6 @@
 ---
 name: eur-anrufung-eur-state-beihilfen-vergaben
-description: "Eur Anrufung Eu Petitionsausschuss, Eur State Aid Notifikation Spezial, Europarecht Beihilfen Vergaben: Eur Anrufung Eu Petitionsausschuss; Eur State Aid Notifikation Spezial; Europarecht Beihilfen Vergaben. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Eur Anrufung Eu Petitionsausschuss, Eur State Aid Notifikation Spezial, Europarecht Beihilfen Vergaben im Plugin Europarecht Kompass konkret bearbeitet werden soll. Auslöser: Bitte Eur Anrufung Eu Petitionsausschuss, Eur State Aid Notifikation Spezial, Europarecht Beihilfen Vergaben prüfen.; Erstelle eine Arbeitsfassung zu Eur Anrufung Eu Petitionsausschuss, Eur State Aid Notifikation Spezial, Europarecht Beihilfen Vergaben.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Eur Anrufung Eu Petitionsausschuss, Eur State Aid Notifikation Spezial, Europarecht Beihilfen Vergaben
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `eur-state-aid-notifikation-spezial` | Spezialfall State-Aid-Notifikation Art. 108 AEUV: Pflicht zur Anmeldung bei Kommission, Stillstand-Pflicht, De-minimis VO, AGVO Freistellung, Beihilferueckforderung. Pruefraster fuer Foerderung und Industrieprojekt. Mustertext fuer Pre-Notification. |
 | `europarecht-beihilfen-vergaben` | Beihilfenrecht und Vergaberecht prüfen wenn staatliche Foerderung oder öffentlicher Auftrag in Frage steht. Art. 107 108 AEUV Beihilfeverbote §§ 97 ff. GWB Vergaberecht. Prüfraster: Beihilfebegriff Ausnahmen Notifizierung De-minimis-Verordnung Vergabeschwellen Rechtsmittel. Output: Beihilfen- oder Vergabeprüfmemo. Abgrenzung: nicht für allgemeines Kartellrecht (europarecht-wettbewerb-kartell). |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Eur Anrufung Eu Petitionsausschuss, Eur State Aid Notifikation Spezial, Europarecht Beihilfen Vergaben** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `europarecht-kompass` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

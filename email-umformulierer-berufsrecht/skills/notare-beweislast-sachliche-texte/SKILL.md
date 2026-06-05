@@ -1,6 +1,6 @@
 ---
 name: notare-beweislast-sachliche-texte
-description: "Spezial Notare Beweislast Und Darlegungslast, Spezial Sachliche Schriftsatz Brief Und Memo Bausteine, Spezial Texte Zahlen Schwellen Und Berechnung: Spezial Notare Beweislast Und Darlegungslast; Spezial Sachliche Schriftsatz Brief Und Memo Bausteine; Spezial Texte Zahlen Schwellen Und Berechnung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Notare Beweislast Und Darlegungslast, Spezial Sachliche Schriftsatz Brief Und Memo Bausteine, Spezial Texte Zahlen Schwellen Und Berechnung im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Notare Beweislast Und Darlegungslast, Spezial Sachliche Schriftsatz Brief Und Memo Bausteine, Spezial Texte Zahlen Schwellen Und Berechnung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Notare Beweislast Und Darlegungslast, Spezial Sachliche Schriftsatz Brief Und Memo Bausteine, Spezial Texte Zahlen Schwellen Und Berechnung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Notare Beweislast Und Darlegungslast, Spezial Sachliche Schriftsatz Brief Und Memo Bausteine, Spezial Texte Zahlen Schwellen Und Berechnung
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-sachliche-schriftsatz-brief-und-memo-bausteine` | Sachliche: Schriftsatz-, Brief- und Memo-Bausteine im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-texte-zahlen-schwellen-und-berechnung` | Texte: Zahlen, Schwellenwerte und Berechnung im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Notare Beweislast Und Darlegungslast, Spezial Sachliche Schriftsatz Brief Und Memo Bausteine, Spezial Texte Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `email-umformulierer-berufsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

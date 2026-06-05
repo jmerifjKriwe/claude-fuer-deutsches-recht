@@ -1,6 +1,6 @@
 ---
 name: vs-eigentum-erbbauzins-rueckstand
-description: "Erbbaurecht Vs Eigentum Vs Miete, Erbbauzins Rueckstand Mahnung: Erbbaurecht Vs Eigentum Vs Miete; Erbbauzins Rueckstand Mahnung. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Erbbaurecht Vs Eigentum Vs Miete, Erbbauzins Rueckstand Mahnung im Plugin Erbbaurecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Erbbaurecht Vs Eigentum Vs Miete, Erbbauzins Rueckstand Mahnung prüfen.; Erstelle eine Arbeitsfassung zu Erbbaurecht Vs Eigentum Vs Miete, Erbbauzins Rueckstand Mahnung.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Erbbaurecht Vs Eigentum Vs Miete, Erbbauzins Rueckstand Mahnung
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `erbbaurecht-vs-eigentum-vs-miete` | Erklärt den dogmatischen Unterschied zu Eigentum, Miete, Nießbrauch, Dienstbarkeit und WEG. |
 | `erbbauzins-rueckstand-mahnung` | Erstellt Mahnung, Zahlungsplan, Sicherheitencheck, Heimfallvorprüfung und Vergleichsvorschlag. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Erbbaurecht Vs Eigentum Vs Miete, Erbbauzins Rueckstand Mahnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `erbbaurecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

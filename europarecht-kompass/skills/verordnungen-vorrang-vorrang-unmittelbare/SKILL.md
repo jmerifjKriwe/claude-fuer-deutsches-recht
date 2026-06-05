@@ -1,6 +1,6 @@
 ---
 name: verordnungen-vorrang-vorrang-unmittelbare
-description: "Spezial Verordnungen Verhandlung Vergleich Und Eskalation, Spezial Vorrang Dokumentenmatrix Und Lueckenliste, Spezial Vorrang Unmittelbare Wirkung Effet Utile: Spezial Verordnungen Verhandlung Vergleich Und Eskalation; Spezial Vorrang Dokumentenmatrix Und Lueckenliste; Spezial Vorrang Unmittelbare Wirkung Effet Utile. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Verordnungen Verhandlung Vergleich Und Eskalation, Spezial Vorrang Dokumentenmatrix Und Lueckenliste, Spezial Vorrang Unmittelbare Wirkung Effet Utile im Plugin Europarecht Kompass konkret bearbeitet werden soll. Auslöser: Bitte Spezial Verordnungen Verhandlung Vergleich Und Eskalation, Spezial Vorrang Dokumentenmatrix Und Lueckenliste, Spezial Vorrang Unmittelbare Wirkung Effet Utile prüfen.; Erstelle eine Arbeitsfassung zu Spezial Verordnungen Verhandlung Vergleich Und Eskalation, Spezial Vorrang Dokumentenmatrix Und Lueckenliste, Spezial Vorrang Unmittelbare Wirkung Effet Utile.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Verordnungen Verhandlung Vergleich Und Eskalation, Spezial Vorrang Dokumentenmatrix Und Lueckenliste, Spezial Vorrang Unmittelbare Wirkung Effet Utile
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-vorrang-dokumentenmatrix-und-lueckenliste` | Vorrang: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-vorrang-unmittelbare-wirkung-effet-utile` | Vorrang, unmittelbare Wirkung und effet utile in nationalen Fällen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Verordnungen Verhandlung Vergleich Und Eskalation, Spezial Vorrang Dokumentenmatrix Und Lueckenliste, Spezial Vorrang Unmittelbare Wirkung Effet Utile** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `europarecht-kompass` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: heimfall-gruende-indexklausel-inflation
-description: "Heimfall Gruende Und Verfahren, Erbbaurecht Indexklausel Inflation: Heimfall Gruende Und Verfahren; Erbbaurecht Indexklausel Inflation. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Heimfall Gruende Und Verfahren, Erbbaurecht Indexklausel Inflation im Plugin Erbbaurecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Heimfall Gruende Und Verfahren, Erbbaurecht Indexklausel Inflation prüfen.; Erstelle eine Arbeitsfassung zu Heimfall Gruende Und Verfahren, Erbbaurecht Indexklausel Inflation.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Heimfall Gruende Und Verfahren, Erbbaurecht Indexklausel Inflation
@@ -16,12 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `heimfall-gruende-und-verfahren` | Prüft Vertragsgrund, Verzug, Pflichtverletzung, Fristen, Verhältnismäßigkeit, Entschädigung und Grundbuchvollzug. |
 | `erbbaurecht-indexklausel-inflation` | Prüft Wertsicherung, Anpassungszeitpunkte, Transparenz, Streitprotokoll und Alternativformel. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Heimfall Gruende Und Verfahren, Erbbaurecht Indexklausel Inflation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `erbbaurecht-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

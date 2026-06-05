@@ -1,6 +1,6 @@
 ---
 name: abmahnung-uwg-abo-falle-accessibility-bfsg
-description: "Abmahnung Uwg Unterlassungserklaerung, Abo Falle Negative Option, Accessibility Bfsg Online Shop: Abmahnung Uwg Unterlassungserklaerung; Abo Falle Negative Option; Accessibility Bfsg Online Shop. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Abmahnung Uwg Unterlassungserklaerung, Abo Falle Negative Option, Accessibility Bfsg Online Shop im Plugin Ecommerce Recht konkret bearbeitet werden soll. Auslöser: Bitte Abmahnung Uwg Unterlassungserklaerung, Abo Falle Negative Option, Accessibility Bfsg Online Shop prüfen.; Erstelle eine Arbeitsfassung zu Abmahnung Uwg Unterlassungserklaerung, Abo Falle Negative Option, Accessibility Bfsg Online Shop.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Abmahnung Uwg Unterlassungserklaerung, Abo Falle Negative Option, Accessibility Bfsg Online Shop
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `abo-falle-negative-option` | Abo-Falle negative option: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. |
 | `accessibility-bfsg-online-shop` | Accessibility BFSG Online-Shop: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Abmahnung Uwg Unterlassungserklaerung, Abo Falle Negative Option, Accessibility Bfsg Online Shop** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ecommerce-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

@@ -1,6 +1,6 @@
 ---
 name: experimentelle-glossar-sonderfall-jura
-description: "Spezial Experimentelle Schriftsatz Brief Und Memo Bausteine, Spezial Glossar Sonderfall Und Edge Case, Spezial Jura Mandantenkommunikation Entscheidungsvorlage: Spezial Experimentelle Schriftsatz Brief Und Memo Bausteine; Spezial Glossar Sonderfall Und Edge Case; Spezial Jura Mandantenkommunikation Entscheidungsvorlage. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Experimentelle Schriftsatz Brief Und Memo Bausteine, Spezial Glossar Sonderfall Und Edge Case, Spezial Jura Mandantenkommunikation Entscheidungsvorlage im Plugin Einfache Leichte Sprache Jura konkret bearbeitet werden soll. Auslöser: Bitte Spezial Experimentelle Schriftsatz Brief Und Memo Bausteine, Spezial Glossar Sonderfall Und Edge Case, Spezial Jura Mandantenkommunikation Entscheidungsvorlage prüfen.; Erstelle eine Arbeitsfassung zu Spezial Experimentelle Schriftsatz Brief Und Memo Bausteine, Spezial Glossar Sonderfall Und Edge Case, Spezial Jura Mandantenkommunikation Entscheidungsvorlage.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Experimentelle Schriftsatz Brief Und Memo Bausteine, Spezial Glossar Sonderfall Und Edge Case, Spezial Jura Mandantenkommunikation Entscheidungsvorlage
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-glossar-sonderfall-und-edge-case` | Glossar: Sonderfall und Edge-Case-Prüfung im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-jura-mandantenkommunikation-entscheidungsvorlage` | Jura: Mandantenkommunikation und Entscheidungsvorlage im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Experimentelle Schriftsatz Brief Und Memo Bausteine, Spezial Glossar Sonderfall Und Edge Case, Spezial Jura Mandantenkommunikation Entscheidungsvorlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einfache-leichte-sprache-jura` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

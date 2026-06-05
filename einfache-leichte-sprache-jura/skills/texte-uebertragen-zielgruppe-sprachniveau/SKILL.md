@@ -1,6 +1,6 @@
 ---
 name: texte-uebertragen-zielgruppe-sprachniveau
-description: "Spezial Texte Tatbestand Beweis Und Belege, Spezial Uebertragen Behörden Gericht Und Registerweg, Spezial Zielgruppe Sprachniveau Rechtsinhalt: Spezial Texte Tatbestand Beweis Und Belege; Spezial Uebertragen Behörden Gericht Und Registerweg; Spezial Zielgruppe Sprachniveau Rechtsinhalt. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Texte Tatbestand Beweis Und Belege, Spezial Uebertragen Behörden Gericht Und Registerweg, Spezial Zielgruppe Sprachniveau Rechtsinhalt im Plugin Einfache Leichte Sprache Jura konkret bearbeitet werden soll. Auslöser: Bitte Spezial Texte Tatbestand Beweis Und Belege, Spezial Uebertragen Behörden Gericht Und Registerweg, Spezial Zielgruppe Sprachniveau Rechtsinhalt prüfen.; Erstelle eine Arbeitsfassung zu Spezial Texte Tatbestand Beweis Und Belege, Spezial Uebertragen Behörden Gericht Und Registerweg, Spezial Zielgruppe Sprachniveau Rechtsinhalt.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Texte Tatbestand Beweis Und Belege, Spezial Uebertragen Behörden Gericht Und Registerweg, Spezial Zielgruppe Sprachniveau Rechtsinhalt
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-uebertragen-behoerden-gericht-und-registerweg` | Uebertragen: Behörden-, Gerichts- oder Registerweg im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-zielgruppe-sprachniveau-rechtsinhalt` | Zielgruppe, Sprachniveau und gesicherter Rechtsinhalt: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Texte Tatbestand Beweis Und Belege, Spezial Uebertragen Behörden Gericht Und Registerweg, Spezial Zielgruppe Sprachniveau Rechtsinhalt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einfache-leichte-sprache-jura` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

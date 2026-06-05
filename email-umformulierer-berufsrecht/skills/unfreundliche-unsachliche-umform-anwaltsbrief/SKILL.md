@@ -1,6 +1,6 @@
 ---
 name: unfreundliche-unsachliche-umform-anwaltsbrief
-description: "Spezial Unfreundliche Tatbestand Beweis Und Belege, Spezial Unsachliche Dokumentenmatrix Und Lueckenliste, Umform Anwaltsbrief An Gegner Spezial: Spezial Unfreundliche Tatbestand Beweis Und Belege; Spezial Unsachliche Dokumentenmatrix Und Lueckenliste; Umform Anwaltsbrief An Gegner Spezial. Führt Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck zusammen."
+description: "Nutze dies, wenn Spezial Unfreundliche Tatbestand Beweis Und Belege, Spezial Unsachliche Dokumentenmatrix Und Lueckenliste, Umform Anwaltsbrief An Gegner Spezial im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Unfreundliche Tatbestand Beweis Und Belege, Spezial Unsachliche Dokumentenmatrix Und Lueckenliste, Umform Anwaltsbrief An Gegner Spezial prüfen.; Erstelle eine Arbeitsfassung zu Spezial Unfreundliche Tatbestand Beweis Und Belege, Spezial Unsachliche Dokumentenmatrix Und Lueckenliste, Umform Anwaltsbrief An Gegner Spezial.; Welche Normen und Nachweise brauche ich?."
 ---
 
 # Spezial Unfreundliche Tatbestand Beweis Und Belege, Spezial Unsachliche Dokumentenmatrix Und Lueckenliste, Umform Anwaltsbrief An Gegner Spezial
@@ -17,12 +17,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-unsachliche-dokumentenmatrix-und-lueckenliste` | Unsachliche: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `umform-anwaltsbrief-an-gegner-spezial` | Spezialfall Anwaltsbrief an Gegner: anwaltliche Sorgfaltspflicht, kein unsachlicher Vorwurf, klare Forderung mit Frist. Pruefraster fuer Risikomanagement. |
 
-## Arbeitsregel
+## Arbeitsweg
 
-1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
-2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
-4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+Für **Spezial Unfreundliche Tatbestand Beweis Und Belege, Spezial Unsachliche Dokumentenmatrix Und Lueckenliste, Umform Anwaltsbrief An Gegner Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `email-umformulierer-berufsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
 
 ## Arbeitsmodule im Detail
 

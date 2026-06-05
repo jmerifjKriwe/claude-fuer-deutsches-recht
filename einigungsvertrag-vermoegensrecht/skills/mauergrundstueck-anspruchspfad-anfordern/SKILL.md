@@ -1,0 +1,254 @@
+---
+name: mauergrundstueck-anspruchspfad-anfordern
+description: "Nutze dies, wenn Ein 041 Mauergrundstueck Anspruchspfad Prüfen, Ein 042 Mauergrundstueck Akte Anfordern, Ein 043 Mauergrundstueck Chronologie Bauen, Ein 044 Mauergrundstueck Berechtigte Ermitteln im Plugin Einigungsvertrag Vermoegensrecht konkret bearbeitet werden soll. Auslöser: Bitte Ein 041 Mauergrundstueck Anspruchspfad Prüfen, Ein 042 Mauergrundstueck Akte Anfordern, Ein 043 Mauergrundstueck Chronologie Bauen, Ein 044 Mauergrundstueck Berechtigte Ermitteln prüfen.; Erstelle eine Arbeitsfassung zu Ein 041 Mauergrundstueck Anspruchspfad Prüfen, Ein 042 Mauergrundstueck Akte Anfordern, Ein 043 Mauergrundstueck Chronologie Bauen, Ein 044 Mauergrundstueck Berechtigte Ermitteln.; Welche Normen und Nachweise brauche ich?."
+---
+
+# Ein 041 Mauergrundstueck Anspruchspfad Prüfen, Ein 042 Mauergrundstueck Akte Anfordern, Ein 043 Mauergrundstueck Chronologie Bauen, Ein 044 Mauergrundstueck Berechtigte Ermitteln
+
+## Zweck
+
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+
+## Arbeitsmodule
+
+| Arbeitsmodul | Fokus |
+| --- | --- |
+| `ein-041-mauergrundstueck-anspruchspfad-pruefen` | Einigungsvertrag und Vermögensrecht: Mauergrundstück: Anspruchspfad prüfen. Anspruchspfad prüfen für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `ein-042-mauergrundstueck-akte-anfordern` | Einigungsvertrag und Vermögensrecht: Mauergrundstück: Akte anfordern. Akte anfordern für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `ein-043-mauergrundstueck-chronologie-bauen` | Einigungsvertrag und Vermögensrecht: Mauergrundstück: Chronologie bauen. Chronologie bauen für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+| `ein-044-mauergrundstueck-berechtigte-ermitteln` | Einigungsvertrag und Vermögensrecht: Mauergrundstück: Berechtigte ermitteln. Berechtigte ermitteln für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
+
+## Arbeitsweg
+
+Für **Ein 041 Mauergrundstueck Anspruchspfad Prüfen, Ein 042 Mauergrundstueck Akte Anfordern, Ein 043 Mauergrundstueck Chronologie Bauen, Ein 044 Mauergrundstueck Berechtigte Ermitteln** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einigungsvertrag-vermoegensrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+
+
+## Arbeitsmodule im Detail
+
+## 1. `ein-041-mauergrundstueck-anspruchspfad-pruefen`
+
+**Fokus:** Einigungsvertrag und Vermögensrecht: Mauergrundstück: Anspruchspfad prüfen. Anspruchspfad prüfen für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+
+# Mauergrundstueck Anspruchspfad Pruefen
+
+## Arbeitsauftrag
+
+Mauergrundstueck Anspruchspfad Pruefen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Einigungsvertrag, DDR-Folgen und Vermögensrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+
+## Einstieg ohne Leerlauf
+
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+
+## Norm- und Quellenanker
+
+- Einigungsvertrag und fortgeltende/überleitende Normen
+- VermG, MauerG, SachenRBerG, Investitionsvorrang, Treuhand-Kontexte
+- Bodenreform, Parteivermögen, Volkseigentum, Register-/Grundbuchfolgen
+- Rechtshistorische Einordnung mit aktuellem Nachweisbedarf
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Überleitungs- und Normpfadkarte
+- Grundbuch-/Registerkettenanalyse
+- Restitutions-/Entschädigungsroute
+- Chronologie 1945/1949/1961/1990/heute
+
+## Red-Team-Fragen
+
+- heutige Rechtslage mit DDR-Recht verwechselt
+- Ausschlussfristen/Nachweise fehlen
+- Treuhand- oder Parteivermögen pauschalisiert
+- Grundbuchlage nicht rekonstruiert
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+
+## 2. `ein-042-mauergrundstueck-akte-anfordern`
+
+**Fokus:** Einigungsvertrag und Vermögensrecht: Mauergrundstück: Akte anfordern. Akte anfordern für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+
+# Mauergrundstueck Akte Anfordern
+
+## Arbeitsauftrag
+
+Mauergrundstueck Akte Anfordern wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Einigungsvertrag, DDR-Folgen und Vermögensrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+
+## Einstieg ohne Leerlauf
+
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+
+## Norm- und Quellenanker
+
+- Einigungsvertrag und fortgeltende/überleitende Normen
+- VermG, MauerG, SachenRBerG, Investitionsvorrang, Treuhand-Kontexte
+- Bodenreform, Parteivermögen, Volkseigentum, Register-/Grundbuchfolgen
+- Rechtshistorische Einordnung mit aktuellem Nachweisbedarf
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Überleitungs- und Normpfadkarte
+- Grundbuch-/Registerkettenanalyse
+- Restitutions-/Entschädigungsroute
+- Chronologie 1945/1949/1961/1990/heute
+
+## Red-Team-Fragen
+
+- heutige Rechtslage mit DDR-Recht verwechselt
+- Ausschlussfristen/Nachweise fehlen
+- Treuhand- oder Parteivermögen pauschalisiert
+- Grundbuchlage nicht rekonstruiert
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+
+## 3. `ein-043-mauergrundstueck-chronologie-bauen`
+
+**Fokus:** Einigungsvertrag und Vermögensrecht: Mauergrundstück: Chronologie bauen. Chronologie bauen für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+
+# Mauergrundstueck Chronologie Bauen
+
+## Arbeitsauftrag
+
+Mauergrundstueck Chronologie Bauen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Einigungsvertrag, DDR-Folgen und Vermögensrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+
+## Einstieg ohne Leerlauf
+
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+
+## Norm- und Quellenanker
+
+- Einigungsvertrag und fortgeltende/überleitende Normen
+- VermG, MauerG, SachenRBerG, Investitionsvorrang, Treuhand-Kontexte
+- Bodenreform, Parteivermögen, Volkseigentum, Register-/Grundbuchfolgen
+- Rechtshistorische Einordnung mit aktuellem Nachweisbedarf
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Überleitungs- und Normpfadkarte
+- Grundbuch-/Registerkettenanalyse
+- Restitutions-/Entschädigungsroute
+- Chronologie 1945/1949/1961/1990/heute
+
+## Red-Team-Fragen
+
+- heutige Rechtslage mit DDR-Recht verwechselt
+- Ausschlussfristen/Nachweise fehlen
+- Treuhand- oder Parteivermögen pauschalisiert
+- Grundbuchlage nicht rekonstruiert
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
+
+## 4. `ein-044-mauergrundstueck-berechtigte-ermitteln`
+
+**Fokus:** Einigungsvertrag und Vermögensrecht: Mauergrundstück: Berechtigte ermitteln. Berechtigte ermitteln für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+
+# Mauergrundstueck Berechtigte Ermitteln
+
+## Arbeitsauftrag
+
+Mauergrundstueck Berechtigte Ermitteln wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Einigungsvertrag, DDR-Folgen und Vermögensrecht: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
+
+## Einstieg ohne Leerlauf
+
+1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
+2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
+3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
+4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
+
+## Norm- und Quellenanker
+
+- Einigungsvertrag und fortgeltende/überleitende Normen
+- VermG, MauerG, SachenRBerG, Investitionsvorrang, Treuhand-Kontexte
+- Bodenreform, Parteivermögen, Volkseigentum, Register-/Grundbuchfolgen
+- Rechtshistorische Einordnung mit aktuellem Nachweisbedarf
+
+## Prüfroutine
+
+1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
+2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
+3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
+4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
+5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Typische Artefakte
+
+- Überleitungs- und Normpfadkarte
+- Grundbuch-/Registerkettenanalyse
+- Restitutions-/Entschädigungsroute
+- Chronologie 1945/1949/1961/1990/heute
+
+## Red-Team-Fragen
+
+- heutige Rechtslage mit DDR-Recht verwechselt
+- Ausschlussfristen/Nachweise fehlen
+- Treuhand- oder Parteivermögen pauschalisiert
+- Grundbuchlage nicht rekonstruiert
+
+## Ausgabeformat
+
+- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
+- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
+- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
+- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
+
+## Qualitätsregel
+
+Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.
