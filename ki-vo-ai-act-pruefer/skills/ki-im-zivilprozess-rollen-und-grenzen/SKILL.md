@@ -5,7 +5,11 @@ description: "KI im Zivilprozess: Einsatz durch Partei, Anwalt, Gericht, Sachver
 
 # KI im Zivilprozess
 
+Dieser Skill klärt, wer im Zivilprozess KI einsetzen darf und wo die rechtlichen Grenzen liegen. Er trennt die Rollen von Partei, Anwalt, Gericht, Sachverständigem und Justizverwaltung, ordnet jeden Einsatz in die Risikostufen der KI-VO ein und benennt die prozessualen Leitplanken aus ZPO, Berufsrecht und Beweisrecht. Ergebnis ist eine Rollen- und Risikomatrix mit konkreter Handlungsempfehlung für den jeweiligen Akteur.
+
 ## Rollen trennen
+
+Die folgende Matrix ordnet jedem Verfahrensbeteiligten den zulässigen KI-Einsatz und das tragende Risiko zu.
 
 | Rolle | Zulässiger Nutzen | Risiko |
 |---|---|---|

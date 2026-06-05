@@ -1,42 +1,40 @@
 ---
 name: influencer-recht-kaltstart-triage
-description: "Influencer-Recht: eleganter Kaltstart, Aktenlandkarte, Fachmodul-Routing, Quellenhygiene und erste verwertbare Ausgabe."
+description: "Einstieg, Schnelltriage und Fallrouting im Plugin Influencer- und Social-Media-Recht. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext ordnet der Skill das Material eigenstaendig, prueft Eil- und Fristenhinweise und routet in passende Fachmodule oder stellt genau eine gezielte Rueckfrage."
 ---
 
-# Influencer-Recht - Allgemeiner Einstieg
+## Konversationsstil – konzis starten, schnell zum Dokument
 
-## Aufgabe
+- **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.
+- **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankündigung – sofort einsteigen.
+- **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klären: …]`-Platzhaltern, statt weiter abzufragen.
+- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
+- **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
+- **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-Dieser Skill ist der erste Griff in die Akte. Er soll nicht belehren, sondern schnell arbeitsfähig machen: Unterlagen sortieren, Rolle klären, Rechtsquellen livefähig machen, Risiken sichtbar machen und danach die passenden Fachmodule aus diesem Plugin vorschlagen.
+# Influencer- und Social-Media-Recht — Allgemeiner Einstieg
 
-## Start in 7 Minuten
+## Schnellstart-Workflow
 
-1. **Rolle klären:** Wer fragt und mit welchem Risiko: Mandant, Unternehmen, Behörde, Kanzlei, Vorstand, Sachbearbeitung, Betroffene oder Gegenpartei?
-2. **Aktenlandkarte bauen:** Welche Dateien liegen vor, welche fehlen, was ist Original, was ist Scan, was ist nur Behauptung?
-3. **Ziel bestimmen:** Prüfung, Entwurf, Anmeldung, Verteidigung, Verhandlung, Dashboard, Fristenplan, Mustertext oder Red-Team?
-4. **Rechtsquellen trennen:** Normtext, Behörde, Rechtsprechung, Vertrag, technische Standards und Praxisroutine getrennt halten.
-5. **Sofortrisiken markieren:** Fristen, Form, Zuständigkeit, Zustellung, Beweis, Kosten, Haftung und Kommunikationsrisiko.
-6. **Fachmodule auswählen:** Der Skill nennt drei bis sieben passende Skills aus diesem Plugin und erklärt, warum sie jetzt nützlich sind.
-7. **Erste Ausgabe liefern:** Eine kurze, verwertbare Lagekarte mit nächstem Schritt statt einer langen abstrakten Abhandlung.
+Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Influencer- und Social-Media-Recht**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen. Tragende Normen (UWG §§ 5, 5a, MStV § 22, TMG) werden nicht aus Modellwissen finalisiert, sondern über die zugelassenen Live-Quellen geprüft.
 
-## Fachlicher Blick
+### 0. Stummer Upload — Material ohne Begleittext
 
-Creator-Fälle sind kleine Unternehmen in Story-Form. Der Einstieg prüft Gegenleistung, Kennzeichnung, Steuer, Plattform, Musik, Bildrechte, Minderjährige, Datenschutz und Vertrag, bevor der nächste Post freigegeben wird.
+Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder ein Aktenkonvolut hochlädt und keinen Auftrag dazuschreibt, behandle den Upload als Arbeitsauftrag. Warte nicht auf einen Prompt. Arbeite als aufmerksamer juristischer Co-Pilot: erst sichern, was eilt, dann das Material einordnen, dann den besten nächsten Arbeitsschritt anbieten.
 
-## Kernanker
+**Pflicht-Reihenfolge bei stummem Upload:**
 
-- UWG/MStV/DDG/DSA
-- EStG/UStG/Sachleistungen
-- UrhG/KUG/Marke/Musik
-- Plattformregeln und Beweisscreenshots
+1. **Sofortrisiken zuerst markieren** — Fristen, Zustellung, Form, Zuständigkeit, Beweis-, Kosten- und Haftungsrisiken benennen.
+2. **Aktenlandkarte bauen** — Welche Dateien sind Original, welche nur Behauptung; was fehlt für einen verwertbaren nächsten Schritt?
+3. **Rolle klären** — Mandant, Gegner, Behörde, Gericht, betroffene Stelle; mit welchem Ziel und welcher Reichweite?
+4. **Ziel bestimmen** — Prüfung, Entwurf, Antrag, Anmeldung, Schriftsatz, Verteidigung, Dashboard, Memo, Red-Team?
+5. **Rechtsquellen trennen** — Normtext, Behördenpraxis, Rechtsprechung, Vertrag, technischer Standard und Praxisroutine getrennt halten.
+6. **Fachmodule auswählen** — Drei bis sieben passende Skills aus diesem Plugin nennen mit Begründung, warum sie jetzt nützlich sind.
+7. **Erste verwertbare Ausgabe liefern** — Kurze Lagekarte mit nächstem Schritt oder erstem Entwurf, statt einer langen abstrakten Abhandlung.
 
-## Ausgaben
+## Fachlicher Anker — Influencer- und Social-Media-Recht
 
-- Posting-Freigabe
-- Kennzeichnungsampel
-- Steuernotiz
-- Kooperationsredline
-- Abmahnantwort
+Tragende Anker: UWG §§ 5, 5a, MStV § 22, TMG. Tatsächliche Fundstellen werden über dejure.org, openJur, gesetze-im-internet.de, BGH-/BVerfG-/EuGH-/EuG-Datenbank live geprüft und nicht aus Modellwissen finalisiert.
 
 ## Quellenhygiene
 
